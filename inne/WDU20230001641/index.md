@@ -49,7 +49,8 @@ source: pdf
     - **b)** uchyla się ust. 3;
 
 - **6)** w art. 182:
-    - **a)** w ust. 4: – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) informację o różnicy pomiędzy wykonanymi wydatkami na zakup sprzętu wojskowego a wartością dokonanych dostaw sprzętu wojskowego.”, – uchyla się pkt 7, b) ust. 4a otrzymuje brzmienie: „4a. W roku s, o którym mowa w art. 112d ust. 3, do sprawozdania nie dołącza się informacji, o których mowa w ust. 4 pkt 6 i 6a.”,
+    - **a)** w ust. 4: – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) informację o różnicy pomiędzy wykonanymi wydatkami na zakup sprzętu wojskowego a wartością dokonanych dostaw sprzętu wojskowego.”, – uchyla się pkt 7,
+    - **b)** ust. 4a otrzymuje brzmienie: „4a. W roku s, o którym mowa w art. 112d ust. 3, do sprawozdania nie dołącza się informacji, o których mowa w ust. 4 pkt 6 i 6a.”,
     - **c)** uchyla się ust. 4b.
 
 **Art. 2.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188 oraz z 2023 r. poz. 1195 i 1234) w art. 39 po ust. 1a dodaje się ust. 1aa w brzmieniu: „1aa. W razie utworzenia ministerstwa Prezes Rady Ministrów może określić, w drodze zarządzenia, przeznaczenie składników majątkowych będących w posiadaniu Kancelarii Prezesa Rady Ministrów. Wydając zarządzenie, Prezes Rady Ministrów uwzględnia potrzebę zapewnienia składników majątkowych do realizacji zadań przez utworzone ministerstwo.”.
@@ -70,7 +71,7 @@ source: pdf
 
 **Art. 7.**
 
-1. Przepisy art. 112a , art. 112aa oraz art. 142 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do projektu ustawy budżetowej na rok 2024.
+1. Przepisy art. 112a 1 , art. 112aa oraz art. 142 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do projektu ustawy budżetowej na rok 2024.
 
 2. W projektach ustaw budżetowych na lata 2024 i 2025 przyjmuje się, że różnica, o której mowa w art. 112aa ust. 4a pkt 2 i 3 ustawy zmienianej w art. 1, wynosi 0.
 

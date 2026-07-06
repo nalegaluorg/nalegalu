@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w sprawie ratownictwa górniczego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Energii z dnia 16 marca 2017 r. w sprawie ratownictwa górniczego (Dz. U. poz. 1052), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Aktywów Państwowych z dnia 19 czerwca 2020 r. zmieniającym rozporządzenie w sprawie ratownictwa górniczego (Dz. U. poz. 1091).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Aktywów Państwowych z dnia 19 czerwca 2020 r. zmieniającego rozporządzenie w sprawie ratownictwa górniczego (Dz. U. poz. 1091), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 13 marca 2020 r.”.
-Minister Aktywów Państwowych: J. Sasin ROZPORZĄDZENIE MINISTRA ENERGII z dnia 16 marca 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Aktywów Państwowych z dnia 19 czerwca 2020 r. zmieniającego rozporządzenie w sprawie ratownictwa górniczego (Dz. U. poz. 1091), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 13 marca 2020 r.”. Minister Aktywów Państwowych: J. Sasin
+ROZPORZĄDZENIE MINISTRA ENERGII z dnia 16 marca 2017 r.
 w sprawie ratownictwa górniczego Na podstawie art. 124 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072 i 1261) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) organizację, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym;
@@ -834,7 +834,25 @@ b) pracach profilaktycznych,
 2. Świadectwa odbycia specjalistycznych szkoleń i kursów, wydane na podstawie przepisów dotychczasowych, zachowują moc przez okres w nich oznaczony.
 3. Zaświadczenia lekarskie potwierdzające zdolność do wykonywania pracy ratownika górniczego, wydane na podstawie przepisów dotychczasowych, zachowują moc przez okres w nich oznaczony.
 § 114. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Energii z dnia……… (poz…..) Załącznik nr 1 SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE SPECJALISTYCZNYCH BADAŃ SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE SPECJALISTYCZNYCH BADAŃ LEKARSKICH LEKARSKICH I SPECJALISTYCZNYCH I SPECJALISTYCZNYCH BADAŃ PSYCHOLOGICZNYCH BADAŃ PSYCHOLOGICZNYCH
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Organizacja, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym
+
+#### Rozdział 3 Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których te szkolenia są przeprowadzane przez przedsiębiorcę
+
+## Część zajęć praktycznych dla kandydatów na ratowników górniczych w drużynach ratowniczych dla podziemnych zakładów górniczych odbywa się w warunkach pełnego zadymienia i ograniczonej widoczności.
+
+#### Rozdział 4 Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego
+
+#### Rozdział 5 Sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym
+
+#### Rozdział 6 Przypadki, w których wykonuje się prace profilaktyczne. Sposób prowadzenia akcji ratowniczych w zależności od rodzaju i natężeń zagrożeń występujących w zakładzie górniczym
+
+#### Rozdział 7 Przepisy przejściowe i przepis końcowy
+
+## Załącznik nr 1 — SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE SPECJALISTYCZNYCH BADAŃ SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE SPECJALISTYCZNYCH BADAŃ LEKARSKICH LEKARSKICH I SPECJALISTYCZNYCH I SPECJALISTYCZNYCH BADAŃ PSYCHOLOGICZNYCH BADAŃ PSYCHOLOGICZNYCH
+
 1. W ratownictwie górniczym przeprowadza się specjalistyczne badania lekarskie i specjalistyczne badania psychologiczne kandydatów na ratowników górniczych i ratowników górniczych oraz ratowników górniczych zastępów specjalistycznych.
 2. Specjalistyczne badania lekarskie obejmują:
 1) badanie wstępne;
@@ -871,22 +889,6 @@ Załączniki do rozporządzenia Ministra Energii z dnia……… (poz…..) Zał
 17. Badanie psychologiczne kontrolne dla ratowników górniczych obejmuje badania ustalane indywidualnie przez psychologa.
 18. Metodologię specjalistycznych badań lekarskich i specjalistycznych badań psychologicznych określa podmiot zawodowo trudniący się ratownictwem górniczym organizujący i przeprowadzający specjalistyczne badania lekarskie i specjalistyczne badania psychologiczne w specjalistycznym ośrodku badań lekarskich ratowników górniczych.
 19. Podmiot zawodowo trudniący się ratownictwem górniczym organizujący i przeprowadzający specjalistyczne badania lekarskie i specjalistyczne badania psychologiczne w specjalistycznym ośrodku badań lekarskich ratowników górniczych jest zobowiązany do aktualizacji metodologii, o której mowa w pkt 18, zgodnie z aktualnym stanem wiedzy medycznej, nie rzadziej niż co 3 lata.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Organizacja, szczegółowe zadania i wymagania dla służb ratownictwa górniczego przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym
-
-#### Rozdział 3 Szczegółowe wymagania dotyczące specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w zakresie ratownictwa górniczego, w tym przypadki, w których te szkolenia są przeprowadzane przez przedsiębiorcę
-
-## Część zajęć praktycznych dla kandydatów na ratowników górniczych w drużynach ratowniczych dla podziemnych zakładów górniczych odbywa się w warunkach pełnego zadymienia i ograniczonej widoczności.
-
-#### Rozdział 4 Szczegółowe wymagania dotyczące dokumentacji w zakresie ratownictwa górniczego oraz planu ratownictwa górniczego
-
-#### Rozdział 5 Sposoby współpracy przedsiębiorcy oraz podmiotu zawodowo trudniącego się ratownictwem górniczym
-
-#### Rozdział 6 Przypadki, w których wykonuje się prace profilaktyczne. Sposób prowadzenia akcji ratowniczych w zależności od rodzaju i natężeń zagrożeń występujących w zakładzie górniczym
-
-#### Rozdział 7 Przepisy przejściowe i przepis końcowy
 
 ## Załącznik nr 2 — SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE DOKUMENTACJI W ZAKRESIE SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE RATOWNICTWA DOKUMENTACJI GÓRNICZEGO W ZAKRESIE RATOWNICTWA GÓRNICZEGO
 

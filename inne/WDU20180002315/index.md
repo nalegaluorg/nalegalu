@@ -43,7 +43,9 @@ w sprawie przekazywania danych dotyczących działalności telekomunikacyjnej Na
 2. Jeżeli przedsiębiorca telekomunikacyjny załącza do formularza, o którym mowa w § 2 ust. 1, Formularz 06 – Usługi wiązane, przy przekazywaniu danych, o których mowa w § 1, za rok 2019, w przypadku braku danych przekazywanych w tym formularzu dopuszcza się przekazanie Prezesowi Urzędu Komunikacji Elektronicznej danych szacunkowych wraz z informacją na ten temat w polu „Uwagi” Formularza 06 – Usługi wiązane. Jeżeli nie jest możliwe przekazanie danych szacunkowych, dopuszcza się wpisanie w odpowiednie pole tego formularza oznaczenia braku danych „bd.”.
 § 5. Rozporządzenie wchodzi w życie z dniem 12 grudnia 2018 r. 2) Minister Cyfryzacji: wz. K. Okoński
 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 10 grudnia 2014 r. w sprawie wzorów formularzy służących do przekazywania danych dotyczących działalności telekomunikacyjnej (Dz. U. poz. 1890), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 15 ustawy z dnia 10 maja 2018 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 1118).
-Załączniki do rozporządzenia Ministra Cyfryzacji z dnia 7 grudnia 2018 r. (poz. 2315) Załącznik nr 1 Załącznik nr 1 WZÓR FORMULARZ 00 Informacja o przedsiębiorcy telekomunikacyjnym Rok sprawozdawczy: ……………………………….
+
+## Załącznik nr 1 — Załącznik nr 1 WZÓR FORMULARZ 00 Informacja o przedsiębiorcy telekomunikacyjnym Rok sprawozdawczy: ……………………………….
+
 00.01 Dane o przedsiębiorcy telekomunikacyjnym
 00.02 Dane finansowe przedsiębiorcy telekomunikacyjnego
 00.03 Działalność telekomunikacyjna

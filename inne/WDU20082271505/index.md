@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o służbie cywilnej
+# Ustawa z dnia 21 listopada 2008 r. o służbie cywilnej
 
 *USTAWA z dnia 21 listopada 2008 r.*
 
@@ -24,10 +24,9 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-21 |
 | Data wydania | 2008-12-23 |
+| Wejście w życie | 2009-03-24 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082271505) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1505/text.pdf) |
-
-Art. 132–190. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -57,8 +56,9 @@ Art. 132–190. (pominięte)
 - **2)** urzędnik służby cywilnej oznacza osobę zatrudnioną na podstawie mianowania zgodnie z zasadami określonymi w ustawie;
 - **3)** członek korpusu służby cywilnej oznacza osobę, o której mowa w pkt 1 i 2, oraz osobę zatrudnioną na wyższym stanowisku w służbie cywilnej.
 
-**Art. 4.** W służbie cywilnej może być zatrudniona osoba, która: [1) jest obywatelem polskim, z zastrzeżeniem art. 5;] <1) jest obywatelem Unii Europejskiej lub obywatelem państwa, którego obywatelom na podstawie umów międzynarodowych lub przepisów prawa Unii Europejskiej przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej, lub posiada ważną Kartę Polaka;>
+**Art. 4.** W służbie cywilnej może być zatrudniona osoba, która: [1) jest obywatelem polskim, z zastrzeżeniem art. 5;]
 
+- **1)** jest obywatelem Unii Europejskiej lub obywatelem państwa, którego obywatelom na podstawie umów międzynarodowych lub przepisów prawa Unii Europejskiej przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej, lub posiada ważną Kartę Polaka;
 - **2)** korzysta z pełni praw publicznych;
 - **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **4)** posiada kwalifikacje wymagane na dane stanowisko pracy;
@@ -66,7 +66,7 @@ Art. 132–190. (pominięte)
 
 **Art. 4a.** W służbie cywilnej nie może być zatrudniona osoba, która w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. pracowała lub pełniła służbę w organach bezpieczeństwa państwa lub była współpracownikiem tych organów w rozumieniu przepisów ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2025 r. poz. 1519).
 
-**Art. 5.** [1. Dyrektor generalny urzędu, upowszechniając informacje o wolnych stanowiskach pracy, wskazuje, za zgodą Szefa Służby Cywilnej, stanowiska, o które, poza obywatelami polskimi, mogą ubiegać się obywatele Unii Europejskiej oraz obywatele innych państw, którym na podstawie umów międzynarodowych lub przepisów prawa wspólnotowego przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej.] <1. Na stanowisku pracy, na którym wykonywana praca polega na bezpośrednim lub pośrednim udziale w wykonywaniu władzy publicznej i funkcji mających na celu ochronę generalnych interesów państwa, może zostać zatrudniona wyłącznie osoba posiadająca obywatelstwo polskie.> [2. Osoba nieposiadająca obywatelstwa polskiego może zostać zatrudniona na stanowisku pracy, na którym wykonywana praca nie polega na bezpośrednim lub pośrednim udziale w wykonywaniu władzy publicznej i funkcji mających na celu ochronę generalnych interesów państwa, jeżeli posiada znajomość języka polskiego potwierdzoną dokumentem określonym w przepisach wydanych na podstawie ust. 3.] <2. Osoba nieposiadająca obywatelstwa polskiego może zostać zatrudniona w służbie cywilnej, jeżeli posiada znajomość języka polskiego potwierdzoną dokumentem określonym w przepisach wydanych na podstawie ust. 3.> <2a. Wymogu potwierdzenia znajomości języka polskiego dokumentem określonym w przepisach wydanych na podstawie ust. 3 nie stosuje się do osób posiadających ważną Kartę Polaka. 2b. Dyrektor generalny urzędu, ogłaszając nabór, wskazuje stanowiska pracy, o zatrudnienie na których mogą ubiegać się wyłącznie osoby posiadające obywatelstwo polskie, biorąc pod uwagę przesłanki określone w ust. 1.> 3. Prezes Rady Ministrów określi, w drodze rozporządzenia, rodzaje dokumentów potwierdzających znajomość języka polskiego, kierując się charakterem pracy wykonywanej przez członków korpusu służby cywilnej i potrzebą zapewnienia odpowiedniego poziomu wykonywania przez nich zadań.
+**Art. 5.** [1. Dyrektor generalny urzędu, upowszechniając informacje o wolnych stanowiskach pracy, wskazuje, za zgodą Szefa Służby Cywilnej, stanowiska, o które, poza obywatelami polskimi, mogą ubiegać się obywatele Unii Europejskiej oraz obywatele innych państw, którym na podstawie umów międzynarodowych lub przepisów prawa wspólnotowego przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej.] <1. Na stanowisku pracy, na którym wykonywana praca polega na bezpośrednim lub pośrednim udziale w wykonywaniu władzy publicznej i funkcji mających na celu ochronę generalnych interesów państwa, może zostać zatrudniona wyłącznie osoba posiadająca obywatelstwo polskie.> [2. Osoba nieposiadająca obywatelstwa polskiego może zostać zatrudniona na stanowisku pracy, na którym wykonywana praca nie polega na bezpośrednim lub pośrednim udziale w wykonywaniu władzy publicznej i funkcji mających na celu ochronę generalnych interesów państwa, jeżeli posiada znajomość języka polskiego potwierdzoną dokumentem określonym w przepisach wydanych na podstawie ust. 3.] <2. Osoba nieposiadająca obywatelstwa polskiego może zostać zatrudniona w służbie cywilnej, jeżeli posiada znajomość języka polskiego potwierdzoną dokumentem określonym w przepisach wydanych na podstawie ust. 3.> <2a. Wymogu potwierdzenia znajomości języka polskiego dokumentem określonym w przepisach wydanych na podstawie ust. 3 nie stosuje się do osób posiadających ważną Kartę Polaka. 2b. Dyrektor generalny urzędu, ogłaszając nabór, wskazuje stanowiska pracy, o zatrudnienie na których mogą ubiegać się wyłącznie osoby posiadające obywatelstwo polskie, biorąc pod uwagę przesłanki określone w ust. 1. 3. Prezes Rady Ministrów określi, w drodze rozporządzenia, rodzaje dokumentów potwierdzających znajomość języka polskiego, kierując się charakterem pracy wykonywanej przez członków korpusu służby cywilnej i potrzebą zapewnienia odpowiedniego poziomu wykonywania przez nich zadań.
 
 **Art. 6.** Każdy ma prawo do informacji o wolnych stanowiskach pracy w służbie cywilnej, a nabór do służby cywilnej jest otwarty oraz konkurencyjny, z zastrzeżeniem przepisów rozdziału 4.
 
@@ -371,11 +371,15 @@ Art. 132–190. (pominięte)
 
 2. Nabór, o którym mowa w ust. 1, dotyczy także absolwentów Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego.
 
-3. Nabór kandydatów do korpusu służby cywilnej na stanowiska związane z obronnością kraju odbywa się z uwzględnieniem pierwszeństwa w zatrudnieniu przysługującego osobom zwolnionym z zawodowej służby wojskowej, o których mowa w art. 235 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26 i 426). <Art. 26a. 1. Dyrektor generalny urzędu powołuje komisję, której zadaniem jest przeprowadzenie naboru w sposób gwarantujący zachowanie otwartości i konkurencyjności.
+3. Nabór kandydatów do korpusu służby cywilnej na stanowiska związane z obronnością kraju odbywa się z uwzględnieniem pierwszeństwa w zatrudnieniu przysługującego osobom zwolnionym z zawodowej służby wojskowej, o których mowa w art. 235 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26 i 426).
+
+**Art. 26a.**
+
+1. Dyrektor generalny urzędu powołuje komisję, której zadaniem jest przeprowadzenie naboru w sposób gwarantujący zachowanie otwartości i konkurencyjności.
 
 2. W skład komisji wchodzą osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów.
 
-3. Członek komisji ma obowiązek zachowania w tajemnicy uzyskanych w trakcie naboru informacji o kandydatach.>
+3. Członek komisji ma obowiązek zachowania w tajemnicy uzyskanych w trakcie naboru informacji o kandydatach.
 
 **Art. 27.**
 
@@ -383,7 +387,11 @@ Art. 132–190. (pominięte)
 
 2. (uchylony)
 
-3. Do naboru, o którym mowa w ust. 1, stosuje się odpowiednio przepisy niniejszego rozdziału. <Art. 27a. 1. Szef Służby Cywilnej prowadzi system teleinformatyczny, który umożliwia:
+3. Do naboru, o którym mowa w ust. 1, stosuje się odpowiednio przepisy niniejszego rozdziału.
+
+**Art. 27a.**
+
+1. Szef Służby Cywilnej prowadzi system teleinformatyczny, który umożliwia:
 
 - **1)** zamieszczanie ogłoszeń o naborze oraz o wyniku naboru;
 - **2)** składanie wymaganych dokumentów, po zastosowaniu zapewnionych w systemie teleinformatycznym sposobów potwierdzenia pochodzenia;
@@ -415,33 +423,11 @@ Art. 132–190. (pominięte)
 - **11)** informacja o spełnianiu warunków, o których mowa w art. 4 pkt 2 i 3 i art. 4a, oraz warunków wynikających z przepisów szczególnych;
 - **12)** informacja o niepełnosprawności uzyskana na podstawie art. 28 ust. 5.
 
-4. Szef Służby Cywilnej jako administrator danych przetwarza w systemie teleinformatycznym dane osobowe użytkowników tego systemu w celu realizacji czynności, o których mowa w ust. 1 pkt 1 i 4.
+4. Szef Służby Cywilnej jako administrator danych przetwarza w systemie teleinformatycznym dane osobowe użytkowników tego systemu w celu realizacji czynności, o których mowa w ust. 1 pkt 1 i 4. 5. Czynności, o której mowa w ust. 1 pkt 3, dokonuje dyrektor generalny urzędu lub osoba przez niego upoważniona. Uwierzytelnienie w systemie teleinformatycznym następuje z wykorzystaniem loginu i hasła dostępowego do konta użytkownika po uprzednim uwierzytelnieniu tego konta z wykorzystaniem służbowego adresu poczty elektronicznej.
 
-5. Czynności, o której mowa w ust. 1 pkt 3, dokonuje dyrektor generalny urzędu lub osoba przez niego upoważniona. Uwierzytelnienie w systemie teleinformatycznym następuje z wykorzystaniem loginu i hasła dostępowego do konta użytkownika po uprzednim uwierzytelnieniu tego konta z wykorzystaniem służbowego adresu poczty elektronicznej.> [Art. 28. 1. Dyrektor generalny urzędu, z zastrzeżeniem art. 39, ma obowiązek upowszechniać informacje o wolnych stanowiskach pracy przez umieszczenie ogłoszenia o naborze w miejscu powszechnie dostępnym w siedzibie urzędu, w Biuletynie Informacji Publicznej urzędu, zwanym dalej „Biuletynem urzędu”, oraz w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów, zwanym dalej „Biuletynem Kancelarii”.
+**Art. 28.**
 
-2. Ogłoszenie o naborze powinno zawierać:
-
-- **1)** nazwę i adres urzędu;
-- **2)** określenie stanowiska pracy;
-- **3)** wymagania związane ze stanowiskiem pracy zgodnie z opisem danego stanowiska, ze wskazaniem, które z nich są niezbędne, a które dodatkowe;
-- **4)** zakres zadań wykonywanych na stanowisku pracy;
-- **4a)** informację o warunkach pracy na danym stanowisku pracy;
-- **4b)** informację, czy w miesiącu poprzedzającym datę upublicznienia ogłoszenia wskaźnik zatrudnienia osób niepełnosprawnych w urzędzie, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, wynosi co najmniej 6 %;
-- **5)** wskazanie wymaganych dokumentów;
-- **6)** termin i miejsce składania dokumentów.
-
-2a. Wymagania, o których mowa w ust. 2 pkt 3, określa się w sposób następujący:
-
-- **1)** wymagania niezbędne to wymagania konieczne do podjęcia pracy na danym stanowisku pracy;
-- **2)** wymagania dodatkowe to pozostałe wymagania, pozwalające na optymalne wykonywanie zadań na danym stanowisku pracy.
-
-2b. Kandydat, który zamierza skorzystać z uprawnienia, o którym mowa w art. 29a ust. 2, jest obowiązany do złożenia wraz z dokumentami kopii dokumentu potwierdzającego niepełnosprawność.
-
-3. Termin do składania dokumentów, określony w ogłoszeniu o naborze, nie może być krótszy niż 10 dni, a dla ogłoszenia o naborze w celu zastępstwa nieobecnego członka korpusu służby cywilnej – 5 dni od dnia opublikowania tego ogłoszenia w Biuletynie Kancelarii.
-
-4. Ogłoszenia o wolnych stanowiskach pracy zamieszcza się w Biuletynie Kancelarii drogą elektroniczną za pomocą formularzy umieszczonych na jego stronach internetowych.
-
-5. Umieszczenie ogłoszenia o naborze w Biuletynie Kancelarii jest bezpłatne.] <Art. 28. 1. Dyrektor generalny urzędu, z zastrzeżeniem art. 39, zamieszcza ogłoszenie o naborze w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów, zwanym dalej „Biuletynem Kancelarii”, z wykorzystaniem systemu teleinformatycznego, o którym mowa w art. 27a ust. 1, oraz w Biuletynie Informacji Publicznej urzędu, zwanym dalej „Biuletynem urzędu”. Zamieszczenie ogłoszenia o naborze w Biuletynie Kancelarii jest bezpłatne.
+1. Dyrektor generalny urzędu, z zastrzeżeniem art. 39, zamieszcza ogłoszenie o naborze w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów, zwanym dalej „Biuletynem Kancelarii”, z wykorzystaniem systemu teleinformatycznego, o którym mowa w art. 27a ust. 1, oraz w Biuletynie Informacji Publicznej urzędu, zwanym dalej „Biuletynem urzędu”. Zamieszczenie ogłoszenia o naborze w Biuletynie Kancelarii jest bezpłatne.
 
 2. Ogłoszenie o naborze zawiera w szczególności:
 
@@ -468,24 +454,28 @@ Art. 132–190. (pominięte)
 
 6. Termin złożenia wymaganych dokumentów nie może być krótszy niż 5 dni od dnia ogłoszenia naboru w Biuletynie Kancelarii.
 
-7. Kandydat składa wymagane dokumenty w postaci elektronicznej z wykorzystaniem systemu teleinformatycznego, o którym mowa w art. 27a ust.
+7. Kandydat składa wymagane dokumenty w postaci elektronicznej z wykorzystaniem systemu teleinformatycznego, o którym mowa w art. 27a ust. 1. Kandydat może złożyć wymagane dokumenty w postaci papierowej.
 
-1. Kandydat może złożyć wymagane dokumenty w postaci papierowej.> <Art. 28a. 1. Kandydat składa dokumenty w systemie teleinformatycznym, o którym mowa w art. 27a ust. 1, po uwierzytelnieniu.
+**Art. 28a.**
+
+1. Kandydat składa dokumenty w systemie teleinformatycznym, o którym mowa w art. 27a ust. 1, po uwierzytelnieniu.
 
 2. Uwierzytelnienie kandydata w systemie teleinformatycznym wymaga użycia profilu zaufanego, profilu osobistego albo innego środka identyfikacji elektronicznej wydanego w przyłączonym do węzła krajowego identyfikacji elektronicznej systemie identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725 oraz z 2026 r. poz. 252).
 
 3. Kandydat:
 
 - **1)** składa wymagane dokumenty w postaci dokumentu elektronicznego lub elektronicznej kopii dokumentu lub
-- **2)** akceptuje treść wymaganego oświadczenia, co jest równoważne z jego złożeniem. [Art. 29. Imiona i nazwiska kandydatów, którzy spełniają wymagania formalne, oraz wynik naboru stanowią informację publiczną w zakresie objętym wymaganiami określonymi w ogłoszeniu o naborze.] [Art. 29a. 1. W toku naboru komisja, o której mowa w art. 30 ust. 2 pkt 5, wyłania niewięcej niż pięciu najlepszych kandydatów, spełniających wymagania niezbędne oraz w największym stopniu spełniających wymagania dodatkowe, których przedstawia dyrektorowi generalnemu urzędu celem zatrudnienia wybranego kandydata.
+- **2)** akceptuje treść wymaganego oświadczenia, co jest równoważne z jego złożeniem. 2. Jeżeli w urzędzie wskaźnik zatrudnienia osób niepełnosprawnych, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, w miesiącu poprzedzającym datę upublicznienia ogłoszenia o naborze, jest niższy niż 6 %, pierwszeństwo w zatrudnieniu przysługuje osobie niepełnosprawnej, o ile znajduje się w gronie osób, o których mowa w ust. 1.]
 
-2. Jeżeli w urzędzie wskaźnik zatrudnienia osób niepełnosprawnych, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, w miesiącu poprzedzającym datę upublicznienia ogłoszenia o naborze, jest niższy niż 6 %, pierwszeństwo w zatrudnieniu przysługuje osobie niepełnosprawnej, o ile znajduje się w gronie osób, o których mowa w ust. 1.] <Art. 29a. 1. Komisja przeprowadzająca nabór wyłania niewięcej niż pięciu najlepszych kandydatów spośród tych, którzy spełnili wymagania niezbędne, i przedstawia ich dyrektorowi generalnemu urzędu.
+**Art. 29a.**
+
+1. Komisja przeprowadzająca nabór wyłania niewięcej niż pięciu najlepszych kandydatów spośród tych, którzy spełnili wymagania niezbędne, i przedstawia ich dyrektorowi generalnemu urzędu.
 
 2. Przy wyborze najlepszych kandydatów komisja bierze pod uwagę poziom spełniania wymagań niezbędnych i wymagań dodatkowych.
 
 3. W przypadku naboru przeprowadzanego na więcej niż jedno takie samo stanowisko pracy liczba wyłanianych kandydatów, o której mowa w ust. 1, ulega zwiększeniu proporcjonalnie do liczby stanowisk pracy, na które jest przeprowadzany nabór.
 
-4. Jeżeli w urzędzie wskaźnik zatrudnienia osób niepełnosprawnych w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w miesiącu poprzedzającym datę ogłoszenia naboru był niższy niż 6 %, pierwszeństwo w zatrudnieniu przysługuje osobie niepełnosprawnej, o ile znajduje się ona w gronie kandydatów, o których mowa w ust. 1.>
+4. Jeżeli w urzędzie wskaźnik zatrudnienia osób niepełnosprawnych w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w miesiącu poprzedzającym datę ogłoszenia naboru był niższy niż 6 %, pierwszeństwo w zatrudnieniu przysługuje osobie niepełnosprawnej, o ile znajduje się ona w gronie kandydatów, o których mowa w ust. 1.
 
 **Art. 30.**
 
@@ -500,22 +490,25 @@ Art. 132–190. (pominięte)
 - **2)** określenie liczby nadesłanych ofert;
 - **3)** imiona i nazwiska wyłonionych kandydatów wraz ze wskazaniem kandydatów niepełnosprawnych, o ile do przeprowadzanego naboru stosuje się przepis art. 29a ust. 4;
 - **4)** informację o zastosowanych metodach i technikach naboru;
-- **5)** uzasadnienie dokonanego wyboru;
-- **6)** określenie składu komisji przeprowadzającej nabór.> <Art. 30a. Imiona i nazwiska wyłonionych kandydatów oraz informacje o nich, w zakresie objętym wymaganiami na dane stanowisko pracy, stanowią informację publiczną.> [Art. 31. 1. Dyrektor generalny urzędu niezwłocznie po przeprowadzonym naborze upowszechnia informację o wyniku naboru przez umieszczenie jej w miejscu powszechnie dostępnym w siedzibie urzędu, w Biuletynie urzędu oraz w Biuletynie Kancelarii.
+- **5)** uzasadnienie dokonanego wyboru; 6) określenie składu komisji przeprowadzającej nabór.
 
-2. Informacja, o której mowa w ust. 1, zawiera:
+**Art. 30a.** Imiona i nazwiska wyłonionych kandydatów oraz informacje o nich, w zakresie objętym wymaganiami na dane stanowisko pracy, stanowią informację publiczną. 2. Informacja, o której mowa w ust. 1, zawiera:
 
 - **1)** nazwę i adres urzędu;
-- **2)** określenie stanowiska pracy;
-- **3)** imię i nazwisko wybranego kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów Kodeksu cywilnego.] <Art. 31. 1. Dyrektor generalny urzędu niezwłocznie po zakończeniu naboru zamieszcza ogłoszenie o jego wyniku w Biuletynie Kancelarii z wykorzystaniem systemu teleinformatycznego, o którym mowa w art. 27a ust. 1, oraz w Biuletynie urzędu. Zamieszczenie ogłoszenia o wyniku naboru w Biuletynie Kancelarii jest bezpłatne.
+- **2)** określenie stanowiska pracy; 3) imię i nazwisko wybranego kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów Kodeksu cywilnego.]
+
+**Art. 31.**
+
+1. Dyrektor generalny urzędu niezwłocznie po zakończeniu naboru zamieszcza ogłoszenie o jego wyniku w Biuletynie Kancelarii z wykorzystaniem systemu teleinformatycznego, o którym mowa w art. 27a ust. 1, oraz w Biuletynie urzędu. Zamieszczenie ogłoszenia o wyniku naboru w Biuletynie Kancelarii jest bezpłatne.
 
 2. Ogłoszenie o wyniku naboru pozostaje dostępne w miejscach, o których mowa w ust. 1, przez 3 miesiące.
 
 3. Ogłoszenie o wyniku naboru zawiera:
 
 - **1)** nazwę i adres urzędu;
-- **2)** określenie stanowiska pracy;
-- **3)** imię i nazwisko wybranej osoby albo informację o zakończeniu naboru bez dokonania wyboru.> [Art. 32. Członek komisji, o której mowa w art. 30 ust. 2 pkt 5, ma obowiązek zachowania w tajemnicy, uzyskanych w trakcie naboru, informacji o kandydatach.] [Art. 33. Jeżeli w ciągu 3 miesięcy od dnia nawiązania stosunku pracy z osobą wyłonioną w drodze naboru istnieje konieczność ponownego obsadzenia tego samego stanowiska pracy, dyrektor generalny urzędu może zatrudnić na tym samym stanowisku inną osobę spośród kandydatów, o których mowa w art. 29a ust. 1. Przepis art. 29a ust. 2 stosuje się odpowiednio.] <Art. 33. Jeżeli w ciągu 3 miesięcy od dnia obsadzenia stanowiska pracy w drodze naboru powstanie konieczność ponownego obsadzenia tego samego stanowiska, dyrektor generalny urzędu może obsadzić to stanowisko inną osobą wybraną spośród wyłonionych kandydatów. Przepisy art. 29a ust. 4 i art. 31 stosuje się odpowiednio.>
+- **2)** określenie stanowiska pracy; 3) imię i nazwisko wybranej osoby albo informację o zakończeniu naboru bez dokonania wyboru.
+
+**Art. 33.** Jeżeli w ciągu 3 miesięcy od dnia obsadzenia stanowiska pracy w drodze naboru powstanie konieczność ponownego obsadzenia tego samego stanowiska, dyrektor generalny urzędu może obsadzić to stanowisko inną osobą wybraną spośród wyłonionych kandydatów. Przepisy art. 29a ust. 4 i art. 31 stosuje się odpowiednio.
 
 **Art. 34.**
 
@@ -827,7 +820,8 @@ Art. 132–190. (pominięte)
 
 **Art. 70.** Stosunek pracy urzędnika służby cywilnej wygasa w razie:
 
-- **1)** odmowy złożenia ślubowania; [2) utraty obywatelstwa państwa należącego do Unii Europejskiej lub innego państwa, którego obywatelom na podstawie umów międzynarodowych lub przepisów prawa wspólnotowego przysługuje prawo do podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej;] <2) utraty obywatelstwa Unii Europejskiej lub obywatelstwa państwa, którego obywatelom na podstawie umów międzynarodowych lub przepisów prawa Unii Europejskiej przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej, lub utraty ważności albo unieważnienia Karty Polaka, jeżeli urzędnikowi służby cywilnej nie przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej na innej podstawie;>
+- **1)** odmowy złożenia ślubowania;
+- **2)** utraty obywatelstwa Unii Europejskiej lub obywatelstwa państwa, którego obywatelom na podstawie umów międzynarodowych lub przepisów prawa Unii Europejskiej przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej, lub utraty ważności albo unieważnienia Karty Polaka, jeżeli urzędnikowi służby cywilnej nie przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej na innej podstawie;
 - **3)** prawomocnego orzeczenia kary dyscyplinarnej wydalenia ze służby cywilnej;
 - **4)** prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** prawomocnego orzeczenia utraty praw publicznych lub zakazu wykonywania zawodu urzędnika w służbie cywilnej;
@@ -1433,6 +1427,8 @@ Art. 132–190. (pominięte)
 3. W przypadku komisji dyscyplinarnych powołanych w trybie określonym w art. 117 ust. 2, koszty, o których mowa w ust. 2, ponosi urząd, w którym w dniu wszczęcia postępowania dyscyplinarnego był zatrudniony obwiniony, o ile porozumienie, o którym mowa w art. 117 ust. 2, nie stanowi inaczej.
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
+
+**Art. 132–190.** (pominięte)
 
 #### Rozdział 11 Przepisy przejściowe i dostosowujące
 

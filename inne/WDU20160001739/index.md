@@ -28,7 +28,7 @@ source: pdf
 w sprawie czynności sądu związanych z nadawaniem klauzuli wykonalności elektronicznym tytułom egzekucyjnym oraz sposobu przechowywania i posługiwania się elektronicznymi tytułami wykonawczymi Na podstawie art. 783 § 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r.
 poz. 101, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
-1) czynności sądu związane z nadawaniem klauzuli wykonalności elektronicznym tytułom egzekucyjnym z wyłączeniem przypadków, o których mowa w art. 778 , art. 787, art. 787 , art. 788 oraz art. 789 ustawy z dnia 17 listopada 1964 r.
+1) czynności sądu związane z nadawaniem klauzuli wykonalności elektronicznym tytułom egzekucyjnym z wyłączeniem przypadków, o których mowa w art. 778 1 , art. 787, art. 787 1 , art. 788 oraz art. 789 ustawy z dnia 17 listopada 1964 r.
 – Kodeks postępowania cywilnego;
 2) sposób przechowywania i posługiwania się tytułami, o których mowa w pkt 1.
 § 2. Ilekroć w rozporządzeniu jest mowa o:

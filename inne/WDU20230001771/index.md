@@ -31,11 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2) rozporządzeniem Ministra Zdrowia z dnia 17 sierpnia 2022 r. zmieniającym rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 1749);
 3) rozporządzeniem Ministra Zdrowia z dnia 20 czerwca 2023 r. zmieniającym rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 1187).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Zdrowia z dnia 30 marca 2022 r. zmieniającego rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 744), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 17 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 1749), które stanowią: „§ 2. Dyplom potwierdzający uzyskanie tytułu specjalisty w danej dziedzinie ochrony zdrowia wydany przed dniem wejścia w życie niniejszego rozporządzenia zachowuje ważność.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Zdrowia z dnia 20 czerwca 2023 r. zmieniającego rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 1187), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 13 czerwca 2017 r.
+1) § 2 rozporządzenia Ministra Zdrowia z dnia 30 marca 2022 r. zmieniającego rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 744), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 17 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 1749), które stanowią: „ § 2. Dyplom potwierdzający uzyskanie tytułu specjalisty w danej dziedzinie ochrony zdrowia wydany przed dniem wejścia w życie niniejszego rozporządzenia zachowuje ważność. § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Zdrowia z dnia 20 czerwca 2023 r. zmieniającego rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 1187), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 13 czerwca 2017 r.
 w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia Na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2023 r. poz. 506) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) dziedziny ochrony zdrowia, w których można uzyskać tytuł specjalisty;
@@ -195,7 +194,9 @@ Skreślenia są dokonywane w sposób umożliwiający ustalenie pierwotnych wpis�
 4. Wymiana dyplomu potwierdzającego uzyskanie tytułu specjalisty następuje w terminie 30 dni od dnia otrzymania wniosku, o którym mowa w ust. 1.
 § 28. Wysokość wynagrodzenia dla jednej osoby za wykonanie czynności kontrolnych, o którym mowa w art. 25 ust. 4 ustawy, wynosi 300 zł.
 § 29. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 13 czerwca 2017 r. (Dz. U. z 2023 r. poz. ) Załącznik nr 1 WYKAZ WYKAZ OZNACZEŃ OZNACZEŃ KODOWYCH KODOWYCH TYTUŁÓW TYTUŁÓW SPECJALISTY SPECJALISTY W W POSZCZEGÓLNYCH POSZCZEGÓLNYCH DZIEDZINACH DZIEDZINACH OCHRONY OCHRONY ZDROWIA ZDROWIA Lp. Tytuł specjalisty uzyskany po złożeniu PESoz Kod specjalizacji
+
+## Załącznik nr 1 — WYKAZ WYKAZ OZNACZEŃ OZNACZEŃ KODOWYCH KODOWYCH TYTUŁÓW TYTUŁÓW SPECJALISTY SPECJALISTY W W POSZCZEGÓLNYCH POSZCZEGÓLNYCH DZIEDZINACH DZIEDZINACH OCHRONY OCHRONY ZDROWIA ZDROWIA Lp. Tytuł specjalisty uzyskany po złożeniu PESoz Kod specjalizacji
+
 1. Specjalista w dziedzinie epidemiologii 001
 2. Specjalista w dziedzinie fizyki medycznej 003
 3. Specjalista w dziedzinie inżynierii medycznej 004

@@ -71,7 +71,8 @@ source: pdf
     - **b)** uchyla się ust. 1b;
 
 - **3)** w art. 14:
-    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Do wniosku o przyznanie premii remontowej, oprócz składanych w przypadku premii remontowej udzielanej jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, dołącza się:”, – uchyla się pkt 3, b) uchyla się ust. 1a.
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Do wniosku o przyznanie premii remontowej, oprócz składanych w przypadku premii remontowej udzielanej jako pomoc de minimis zaświadczeń, oświadczeń oraz informacji, o których mowa w art. 37 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, dołącza się:”, – uchyla się pkt 3,
+    - **b)** uchyla się ust. 1a.
 
 **Art. 14.** W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2024 r. poz. 1004) w art. 4a w ust. 2 w pkt 2 lit. a i b otrzymują brzmienie: „a) udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis albo b) w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie.”.
 

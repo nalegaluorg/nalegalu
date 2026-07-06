@@ -91,7 +91,7 @@ source: pdf
 
 **Art. 3⁴.**
 
-1. Podmiotowi uprawnionemu do uzyskania różnicy lub nadpłaty, o których mowa w art. 3 ust. 4 i 5, służy, z zastrzeżeniem art. 10 , prawo zgłoszenia wyboru form kompensaty, w terminach określonych w ust. 2. W tych terminach dopuszczalne jest także zgłoszenie żądania kompensaty w obu formach wskazanych w art. 3 ust. 1 przez określenie jaka część zobowiązania ma być kompensowana w danej formie.
+1. Podmiotowi uprawnionemu do uzyskania różnicy lub nadpłaty, o których mowa w art. 3 ust. 4 i 5, służy, z zastrzeżeniem art. 10 1 , prawo zgłoszenia wyboru form kompensaty, w terminach określonych w ust. 2. W tych terminach dopuszczalne jest także zgłoszenie żądania kompensaty w obu formach wskazanych w art. 3 ust. 1 przez określenie jaka część zobowiązania ma być kompensowana w danej formie.
 
 2. Termin zgłoszenia właściwemu wojewodzie potwierdzonych ostatecznymi orzeczeniami Społecznej Komisji Rewindykacyjnej kwot zobowiązań podlegających kompensowaniu w formach określonych w art. 3 ust. 1 upływa, w przypadku zobowiązań wynikających z orzeczeń:
 
@@ -103,7 +103,7 @@ source: pdf
 
 1. Właściwy wojewoda zawiadamia uprawnionego o ustawowym terminie, w którym można dokonać zgłoszenia wyboru formy kompensaty, nie później niż na 14 dni przed upływem tego terminu. Brak takiego zawiadomienia nie wstrzymuje biegu terminu na dokonanie zgłoszenia wyboru formy kompensaty.
 
-2. Prawo wyboru formy kompensaty wygasa, jeżeli uprawniony nie dokona zgłoszenia w terminie, o którym mowa w art. 3 ust. 2. W takim przypadku kompensata następuje w formie obligacji z zastrzeżeniem art. 3 i art. 10 .
+2. Prawo wyboru formy kompensaty wygasa, jeżeli uprawniony nie dokona zgłoszenia w terminie, o którym mowa w art. 3 ust. 2. W takim przypadku kompensata następuje w formie obligacji z zastrzeżeniem art. 3 i art. 10 1 .
 
 **Art. 3⁶.**
 
@@ -144,7 +144,7 @@ source: pdf
 
 4. Minister Finansów określi, w drodze rozporządzenia, szczegółowe warunki emisji obligacji, o których mowa w art. 3 ust. 1 pkt 2, a w szczególności wartość nominalną, wysokość i sposób oprocentowania.
 
-**Art. 3⁸.** Minister Finansów może odstąpić od emisji obligacji, o których mowa w art. 3 ust. 1 pkt 2, jeżeli taka emisja byłaby niecelowa ze względu na zbyt niską łączną wartość zobowiązań Skarbu Państwa zgłoszonych w którymkolwiek z terminów określonych w art. 3 ust. 2 oraz zobowiązań regulowanych na zasadach określonych w art. 3 ust. 2 oraz art. 3 ust. 3 zdanie drugie i ust. 5 zdanie drugie. W takim przypadku uregulowanie powyższych zobowiązań nastąpi w formie gotówkowej, także przez złożenie przedmiotu świadczenia do depozytu sądowego w okolicznościach określonych w art. 3 , w terminie odpowiednio:
+**Art. 3⁸.** Minister Finansów może odstąpić od emisji obligacji, o których mowa w art. 3 ust. 1 pkt 2, jeżeli taka emisja byłaby niecelowa ze względu na zbyt niską łączną wartość zobowiązań Skarbu Państwa zgłoszonych w którymkolwiek z terminów określonych w art. 3 ust. 2 oraz zobowiązań regulowanych na zasadach określonych w art. 3 ust. 2 oraz art. 3 ust. 3 zdanie drugie i ust. 5 zdanie drugie. W takim przypadku uregulowanie powyższych zobowiązań nastąpi w formie gotówkowej, także przez złożenie przedmiotu świadczenia do depozytu sądowego w okolicznościach określonych w art. 3 9 , w terminie odpowiednio:
 
 - **1)** do dnia 31 grudnia 1999 r. dla zgłoszeń, o których mowa w art. 3 ust. 2 pkt 1,
 - **2)** do dnia 31 grudnia 2000 r. dla zgłoszeń, o których mowa w art. 3 ust. 2 pkt 2,
@@ -240,7 +240,7 @@ source: pdf
 
 3. Nie uwzględnia się upływu terminu, o którym mowa w ust. 1, jeżeli w wyniku postępowania wszczętego na podstawie wniosku złożonego w tym terminie okaże się, że wnioskodawca uprawniony jest do zwrotu także innych składników majątkowych niż wskazane we wniosku i zażąda zwrotu tych składników.
 
-**Art. 10¹.** W przypadku zobowiązań Skarbu Państwa ustalonych w orzeczeniach Komisji, które uprawomocnią się po dniu 31 grudnia 1999 r., kompensowanie zobowiązań nastąpi w formie gotówkowej, także przez złożenie przedmiotu świadczenia do depozytu sądowego w okolicznościach określonych w art. 3 .
+**Art. 10¹.** W przypadku zobowiązań Skarbu Państwa ustalonych w orzeczeniach Komisji, które uprawomocnią się po dniu 31 grudnia 1999 r., kompensowanie zobowiązań nastąpi w formie gotówkowej, także przez złożenie przedmiotu świadczenia do depozytu sądowego w okolicznościach określonych w art. 3 9 .
 
 **Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

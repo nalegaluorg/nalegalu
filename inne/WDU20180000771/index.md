@@ -544,7 +544,7 @@ source: pdf
 
 **Art. 39.**
 
-1. Komornikowi przysługuje uprawnienie do wypoczynku w wymiarze 26 dni w roku. Przepisy art. 152, art. 154 , art. 155 –155 , art. 158, art. 161, art. 162 i art. 164–167 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222) stosuje się odpowiednio, o ile nie są one sprzeczne z przepisami regulującymi pełnienie służby przez komornika.
+1. Komornikowi przysługuje uprawnienie do wypoczynku w wymiarze 26 dni w roku. Przepisy art. 152, art. 154 2 , art. 155 1 –155 , art. 158, art. 161, art. 162 i art. 164–167 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222) stosuje się odpowiednio, o ile nie są one sprzeczne z przepisami regulującymi pełnienie służby przez komornika.
 
 2. Po dziesięciu latach pełnienia służby komornikowi przysługuje corocznie dodatkowe uprawnienie do wypoczynku w wymiarze 6 dni.
 

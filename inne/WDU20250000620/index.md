@@ -1961,7 +1961,7 @@ source: pdf
 
 3. Staż może trwać od 3 do 6 miesięcy, a w przypadkach określonych w art. 119 ust. 1 – od 3 do 12 miesięcy.
 
-4. Staż może być realizowany w formie zdalnej. Przepisy art. 67 , art. 67 § 3–5, art. 67 § 1 pkt 1, 2 i 4, § 2–5, art. 67 , art. 67 , art. 67 § 4, 7–9 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio. Wymiar stażu w formie zdalnej oraz szczegółowe zasady odbywania stażu w formie zdalnej określa się w umowie o organizację stażu, o której mowa w ust. 5.
+4. Staż może być realizowany w formie zdalnej. Przepisy art. 67 18 , art. 67 § 3–5, art. 67 § 1 pkt 1, 2 i 4, § 2–5, art. 67 25 , art. 67 27 , art. 67 § 4, 7–9 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio. Wymiar stażu w formie zdalnej oraz szczegółowe zasady odbywania stażu w formie zdalnej określa się w umowie o organizację stażu, o której mowa w ust. 5.
 
 5. Staż odbywa się na podstawie umowy zawartej przez starostę z organizatorem stażu i bezrobotnym, według przygotowanego przez organizatora stażu programu określonego w umowie. Przy ustalaniu programu stażu powinny być uwzględnione predyspozycje psychofizyczne i zdrowotne, wykształcenie oraz dotychczasowa wiedza i umiejętności bezrobotnego.
 

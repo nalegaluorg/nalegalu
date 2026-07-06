@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002063) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2063/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2021 r. poz. 2068), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 maja 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 10 ustawy z dnia 12 maja 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117), który stanowi: „Art. 10. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem 1 października 2022 r.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 10 ustawy z dnia 12 maja 2022 r. o zmianie ustawy – Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117), który stanowi: „ Art. 10. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem 1 października 2022 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 11 maja 2001 r.
 Prawo o miarach
 

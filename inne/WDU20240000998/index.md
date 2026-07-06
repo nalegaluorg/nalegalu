@@ -32,8 +32,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) odnośnika nr 2 oraz § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 maja 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych (Dz. U.
 poz. 798), które stanowią: „ Przepisy niniejszego rozporządzenia wykonują postanowienia rozporządzenia delegowanego Komisji (UE) nr 1040/2014 z dnia 25 lipca 2014 r. zmieniającego dyrektywę Rady 2001/112/WE odnoszącą się do soków owocowych i niektórych podobnych produktów przeznaczonych do spożycia przez ludzi w celu dostosowania jej załącznika I do postępu technicznego (Dz. Urz. UE L 288 z 02.10.2014, str. 1).” „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 grudnia 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych (Dz. U. poz. 2318), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Rolnictwa i Rozwoju Wsi: C. Siekierski ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 30 września 2003 r.
+2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 1 grudnia 2021 r. zmieniającego rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych (Dz. U. poz. 2318), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
+ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 30 września 2003 r.
 w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych Na podstawie art. 15 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
 z 2023 r. poz. 1980) zarządza się, co następuje:
 § 1. Określa się szczegółowe wymagania w zakresie jakości handlowej następujących wyrobów:

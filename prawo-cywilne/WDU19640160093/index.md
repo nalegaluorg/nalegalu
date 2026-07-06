@@ -24,7 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1964-04-23 |
 | Data wydania | 1964-05-18 |
-| Ostatnia zmiana | 2026-05-06 |
+| Wejście w życie | 1965-01-01 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1964/93/text.pdf) |
 
 # KSIĘGA PIERWSZA
@@ -491,7 +492,7 @@ source: pdf
 
 § 1. Organizator oraz uczestnik aukcji albo przetargu może żądać unieważnienia zawartej umowy, jeżeli strona tej umowy, inny uczestnik lub osoba działająca w porozumieniu z nimi wpłynęła na wynik aukcji albo przetargu w sposób sprzeczny z prawem lub dobrymi obyczajami. Jeżeli umowa została zawarta na cudzy rachunek, jej unieważnienia może żądać także ten, na czyj rachunek umowa została zawarta, lub dający zlecenie.
 
-§ 2. Uprawnienie powyższe wygasa z upływem miesiąca od dnia, w którym uprawniony dowiedział się o istnieniu przyczyny unieważnienia, nie później jednak niż z upływem roku od dnia zawarcia umowy.
+§ 2. Uprawnienie powyższe wygasa z upływem miesiąca od dnia, w którym uprawniony dowiedział się o istnieniu przyczyny unieważnienia, niepóźniej jednak niż z upływem roku od dnia zawarcia umowy.
 
 **Art. 71.** Ogłoszenia, reklamy, cenniki i inne informacje, skierowane do ogółu lub do poszczególnych osób, poczytuje się w razie wątpliwości nie za ofertę, lecz za zaproszenie do zawarcia umowy.
 
@@ -960,7 +961,7 @@ source: pdf
 
 § 2. (uchylony)
 
-§ 3. Do sprzedaży przez współwłaściciela nieruchomości rolnej w rozumieniu przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2024 r. poz. 423 oraz z 2025 r. poz. 620) udziału we współwłasności lub części tego udziału stosuje się przepisy tej ustawy.
+§ 3. Do sprzedaży przez współwłaściciela nieruchomości rolnej w rozumieniu przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2025 r. poz. 1653 oraz z 2026 r. poz. 317) udziału we współwłasności lub części tego udziału stosuje się przepisy tej ustawy.
 
 **Art. 167.** (uchylony)
 
@@ -1036,7 +1037,11 @@ source: pdf
 
 **Art. 186.** (uchylony)
 
-**Art. 187.** [§ 1. Rzecz znaleziona, która nie zostanie przez osobę uprawnioną odebrana w ciągu roku od dnia doręczenia jej wezwania do odbioru, a w przypadku niemożności wezwania – w ciągu dwóch lat od dnia jej znalezienia, staje się własnością znalazcy, jeżeli uczynił on zadość swoim obowiązkom. Jeżeli jednak rzecz została oddana staroście, znalazca staje się jej właścicielem, jeżeli rzecz odebrał w wyznaczonym przez starostę terminie.] <§ 1. Rzecz znaleziona, która nie zostanie przez osobę uprawnioną odebrana w ciągu 6 miesięcy od dnia doręczenia jej wezwania do odbioru, a w przypadku niemożności wezwania – w ciągu roku od dnia jej znalezienia, staje się własnością znalazcy, jeżeli uczynił on zadość swoim obowiązkom. Jeżeli jednak rzecz została oddana staroście, znalazca staje się jej właścicielem, jeżeli rzecz odebrał w wyznaczonym przez starostę terminie.> [§ 2. Rzecz znaleziona będąca zabytkiem lub materiałem archiwalnym po upływie terminu do jej odebrania przez osobę uprawnioną staje się własnością Skarbu Państwa. Inne rzeczy znalezione stają się własnością powiatu po upływie terminu do ich odbioru przez znalazcę.] <§ 2. Po upływie terminu do odebrania przez osobę uprawnioną rzecz znaleziona będąca zabytkiem lub materiałem archiwalnym staje się własnością Skarbu Państwa, a rzecz znaleziona umożliwiająca dostęp do pomieszczeń, pojazdów i innych zamykanych przedmiotów, w szczególności klucze, karty dostępu i piloty, lub będąca dokumentem zawierającym dane osobowe – własnością powiatu. Inne rzeczy znalezione stają się własnością powiatu po upływie terminu do ich odbioru przez znalazcę.>
+**Art. 187.**
+
+§ 1. Rzecz znaleziona, która nie zostanie przez osobę uprawnioną odebrana w ciągu 6 miesięcy od dnia doręczenia jej wezwania do odbioru, a w przypadku niemożności wezwania – w ciągu roku od dnia jej znalezienia, staje się własnością znalazcy, jeżeli uczynił on zadość swoim obowiązkom. Jeżeli jednak rzecz została oddana staroście, znalazca staje się jej właścicielem, jeżeli rzecz odebrał w wyznaczonym przez starostę terminie.
+
+§ 2. Po upływie terminu do odebrania przez osobę uprawnioną rzecz znaleziona będąca zabytkiem lub materiałem archiwalnym staje się własnością Skarbu Państwa, a rzecz znaleziona umożliwiająca dostęp do pomieszczeń, pojazdów i innych zamykanych przedmiotów, w szczególności klucze, karty dostępu i piloty, lub będąca dokumentem zawierającym dane osobowe – własnością powiatu. Inne rzeczy znalezione stają się własnością powiatu po upływie terminu do ich odbioru przez znalazcę.
 
 § 3. Z chwilą nabycia własności rzeczy przez znalazcę, powiat albo Skarb Państwa wygasają obciążające ją ograniczone prawa rzeczowe.
 
@@ -1100,7 +1105,7 @@ source: pdf
 
 **Art. 210.**
 
-§ 1. Każdy ze współwłaścicieli może żądać zniesienia współwłasności. Uprawnienie to może być wyłączone przez czynność prawną na czas nie dłuższy niż lat pięć. Jednakże w ostatnim roku przed upływem zastrzeżonego terminu dopuszczalne jest jego przedłużenie na dalsze lat pięć; przedłużenie można ponowić.
+§ 1. Każdy ze współwłaścicieli może żądać zniesienia współwłasności. Uprawnienie to może być wyłączone przez czynność prawną na czas niedłuższy niż lat pięć. Jednakże w ostatnim roku przed upływem zastrzeżonego terminu dopuszczalne jest jego przedłużenie na dalsze lat pięć; przedłużenie można ponowić.
 
 § 2. Zniesienie współwłasności nieruchomości rolnej oraz gospodarstwa rolnego w rozumieniu przepisów ustawy, o której mowa w art. 166 § 3, następuje z uwzględnieniem przepisów tej ustawy.
 
@@ -1149,7 +1154,7 @@ source: pdf
 
 **Art. 218.**
 
-§ 1. Współwłaściciele, którzy nie otrzymali gospodarstwa rolnego lub jego części, lecz do chwili zniesienia współwłasności w tym gospodarstwie mieszkali, zachowują uprawnienia do dalszego zamieszkiwania, jednakże nie dłużej niż przez pięć lat, a gdy w chwili znoszenia współwłasności są małoletni – nie dłużej niż pięć lat od osiągnięcia pełnoletności. Ograniczenie terminem powyższym nie dotyczy współwłaścicieli trwale niezdolnych do pracy.
+§ 1. Współwłaściciele, którzy nie otrzymali gospodarstwa rolnego lub jego części, lecz do chwili zniesienia współwłasności w tym gospodarstwie mieszkali, zachowują uprawnienia do dalszego zamieszkiwania, jednakże niedłużej niż przez pięć lat, a gdy w chwili znoszenia współwłasności są małoletni – niedłużej niż pięć lat od osiągnięcia pełnoletności. Ograniczenie terminem powyższym nie dotyczy współwłaścicieli trwale niezdolnych do pracy.
 
 § 2. Do uprawnień wynikających z przepisów paragrafu poprzedzającego stosuje się odpowiednio przepisy o służebności mieszkania.
 
@@ -2211,7 +2216,7 @@ source: pdf
 
 **Art. 449.** Roszczenia przewidziane w art. 444–448 nie mogą być zbyte, chyba że są już wymagalne i że zostały uznane na piśmie albo przyznane prawomocnym orzeczeniem.
 
-## TYTUŁ VI 1 Odpowiedzialność za szkodę wyrządzoną przez produkt niebezpieczny
+## TYTUŁ VI [1] Odpowiedzialność za szkodę wyrządzoną przez produkt niebezpieczny
 
 **Art. 449¹.**
 
@@ -2689,7 +2694,7 @@ source: pdf
 
 **Art. 543¹.**
 
-§ 1. Jeżeli kupującym jest konsument, sprzedawca obowiązany jest niezwłocznie wydać rzecz kupującemu, nie później niż trzydzieści dni od dnia zawarcia umowy, chyba że umowa stanowi inaczej.
+§ 1. Jeżeli kupującym jest konsument, sprzedawca obowiązany jest niezwłocznie wydać rzecz kupującemu, niepóźniej niż trzydzieści dni od dnia zawarcia umowy, chyba że umowa stanowi inaczej.
 
 § 2. W razie opóźnienia sprzedawcy kupujący może wyznaczyć dodatkowy termin do wydania rzeczy, a po jego bezskutecznym upływie może od umowy odstąpić. Przepisy art. 492, art. 492 i art. 494 stosuje się.
 
@@ -2917,7 +2922,7 @@ source: pdf
 
 **Art. 576.** Do wykonywania uprawnień z tytułu rękojmi za wady prawne rzeczy sprzedanej stosuje się przepisy art. 568 § 2–5, z tym że bieg terminu, o którym mowa w art. 568 § 2, rozpoczyna się od dnia, w którym kupujący dowiedział się o istnieniu wady, a jeżeli kupujący dowiedział się o istnieniu wady dopiero na skutek powództwa osoby trzeciej – od dnia, w którym orzeczenie wydane w sporze z osobą trzecią stało się prawomocne.
 
-### DZIAŁ II 1 (uchylony)
+### DZIAŁ II [1] (uchylony)
 
 ### DZIAŁ III Gwarancja przy sprzedaży
 
@@ -2963,7 +2968,7 @@ source: pdf
 
 § 1. Kto wykonuje uprawnienia wynikające z gwarancji, powinien dostarczyć rzecz na koszt gwaranta do miejsca wskazanego w gwarancji lub do miejsca, w którym rzecz została wydana przy udzieleniu gwarancji, chyba że z okoliczności wynika, iż wada powinna być usunięta w miejscu, w którym rzecz znajdowała się w chwili ujawnienia wady.
 
-§ 2. Gwarant jest obowiązany wykonać swoje obowiązki w terminie określonym w treści oświadczenia gwarancyjnego, a gdy go nie określono – niezwłocznie, ale nie później niż w terminie czternastu dni, licząc od dnia dostarczenia rzeczy przez uprawnionego z gwarancji, oraz dostarczyć mu rzecz na swój koszt do miejsca wskazanego w § 1.
+§ 2. Gwarant jest obowiązany wykonać swoje obowiązki w terminie określonym w treści oświadczenia gwarancyjnego, a gdy go nie określono – niezwłocznie, ale niepóźniej niż w terminie czternastu dni, licząc od dnia dostarczenia rzeczy przez uprawnionego z gwarancji, oraz dostarczyć mu rzecz na swój koszt do miejsca wskazanego w § 1.
 
 § 3. Niebezpieczeństwo przypadkowej utraty lub uszkodzenia rzeczy w czasie od wydania jej gwarantowi do jej odebrania przez uprawnionego z gwarancji ponosi gwarant.
 
@@ -3041,7 +3046,7 @@ source: pdf
 
 § 1. Z chwilą wykonania prawa odkupu kupujący obowiązany jest przenieść z powrotem na sprzedawcę własność kupionej rzeczy za zwrotem ceny i kosztów sprzedaży oraz za zwrotem nakładów; jednakże zwrot nakładów, które nie stanowiły nakładów koniecznych, należy się kupującemu tylko w granicach istniejącego zwiększenia wartości rzeczy.
 
-§ 2. Jeżeli określona w umowie sprzedaży cena odkupu przenosi cenę i koszty sprzedaży, sprzedawca może żądać obniżenia ceny odkupu do wartości rzeczy w chwili wykonania prawa odkupu, jednakże nie niżej sumy obliczonej według paragrafu poprzedzającego.
+§ 2. Jeżeli określona w umowie sprzedaży cena odkupu przenosi cenę i koszty sprzedaży, sprzedawca może żądać obniżenia ceny odkupu do wartości rzeczy w chwili wykonania prawa odkupu, jednakże nieniżej sumy obliczonej według paragrafu poprzedzającego.
 
 **Art. 595.**
 
@@ -3306,7 +3311,7 @@ source: pdf
 
 **Art. 649⁴.**
 
-§ 1. Jeżeli wykonawca (generalny wykonawca) nie uzyska żądanej gwarancji zapłaty w wyznaczonym przez siebie terminie, nie krótszym niż 45 dni, uprawniony jest do odstąpienia od umowy z winy inwestora ze skutkiem na dzień odstąpienia.
+§ 1. Jeżeli wykonawca (generalny wykonawca) nie uzyska żądanej gwarancji zapłaty w wyznaczonym przez siebie terminie, niekrótszym niż 45 dni, uprawniony jest do odstąpienia od umowy z winy inwestora ze skutkiem na dzień odstąpienia.
 
 § 2. Brak żądanej gwarancji zapłaty stanowi przeszkodę w wykonaniu robót budowlanych z przyczyn dotyczących inwestora.
 
@@ -3398,11 +3403,11 @@ source: pdf
 
 § 1. Najemca obowiązany jest uiszczać czynsz w terminie umówionym.
 
-§ 2. Jeżeli termin płatności czynszu nie jest w umowie określony, czynsz powinien być płacony z góry, a mianowicie: gdy najem ma trwać nie dłużej niż miesiąc – za cały czas najmu, a gdy najem ma trwać dłużej niż miesiąc albo gdy umowa była zawarta na czas nieoznaczony – miesięcznie, do dziesiątego dnia miesiąca.
+§ 2. Jeżeli termin płatności czynszu nie jest w umowie określony, czynsz powinien być płacony z góry, a mianowicie: gdy najem ma trwać niedłużej niż miesiąc – za cały czas najmu, a gdy najem ma trwać dłużej niż miesiąc albo gdy umowa była zawarta na czas nieoznaczony – miesięcznie, do dziesiątego dnia miesiąca.
 
 **Art. 670.**
 
-§ 1. Dla zabezpieczenia czynszu oraz świadczeń dodatkowych, z którymi najemca zalega nie dłużej niż rok, przysługuje wynajmującemu ustawowe prawo zastawu na rzeczach ruchomych najemcy wniesionych do przedmiotu najmu, chyba że rzeczy te nie podlegają zajęciu.
+§ 1. Dla zabezpieczenia czynszu oraz świadczeń dodatkowych, z którymi najemca zalega niedłużej niż rok, przysługuje wynajmującemu ustawowe prawo zastawu na rzeczach ruchomych najemcy wniesionych do przedmiotu najmu, chyba że rzeczy te nie podlegają zajęciu.
 
 § 2. (uchylony)
 
@@ -3552,7 +3557,7 @@ source: pdf
 
 **Art. 709.** Przepisy o dzierżawie rzeczy stosuje się odpowiednio do dzierżawy praw.
 
-## TYTUŁ XVII 1 Umowa leasingu
+## TYTUŁ XVII [1] Umowa leasingu
 
 **Art. 709¹.** Przez umowę leasingu finansujący zobowiązuje się, w zakresie działalności swego przedsiębiorstwa, nabyć rzecz od oznaczonego zbywcy na warunkach określonych w tej umowie i oddać tę rzecz korzystającemu do używania albo używania i pobierania pożytków przez czas oznaczony, a korzystający zobowiązuje się zapłacić finansującemu w uzgodnionych ratach wynagrodzenie pieniężne, równe co najmniej cenie lub wynagrodzeniu z tytułu nabycia rzeczy przez finansującego.
 
@@ -3893,7 +3898,7 @@ source: pdf
 
 **Art. 761⁵.**
 
-§ 1. Dający zlecenie obowiązany jest złożyć agentowi oświadczenie zawierające dane o należnej mu prowizji nie później niż w ostatnim dniu miesiąca następującego po kwartale, w którym agent nabył prawo do prowizji. Oświadczenie to powinno wskazywać wszystkie dane stanowiące podstawę do obliczenia wysokości należnej prowizji. Postanowienie umowy agencyjnej mniej korzystne dla agenta jest nieważne.
+§ 1. Dający zlecenie obowiązany jest złożyć agentowi oświadczenie zawierające dane o należnej mu prowizji niepóźniej niż w ostatnim dniu miesiąca następującego po kwartale, w którym agent nabył prawo do prowizji. Oświadczenie to powinno wskazywać wszystkie dane stanowiące podstawę do obliczenia wysokości należnej prowizji. Postanowienie umowy agencyjnej mniej korzystne dla agenta jest nieważne.
 
 § 2. Agent może domagać się udostępnienia informacji potrzebnych do ustalenia, czy wysokość należnej mu prowizji została prawidłowo obliczona, w szczególności może domagać się wyciągów z ksiąg handlowych dającego zlecenie albo żądać, aby wgląd i wyciąg z tych ksiąg został zapewniony biegłemu rewidentowi wybranemu przez strony. Postanowienie umowy agencyjnej mniej korzystne dla agenta jest nieważne.
 
@@ -4222,7 +4227,7 @@ source: pdf
 
 **Art. 814.**
 
-§ 1. Jeżeli nie umówiono się inaczej, odpowiedzialność ubezpieczyciela rozpoczyna się od dnia następującego po zawarciu umowy, nie wcześniej jednak niż od dnia następnego po zapłaceniu składki lub jej pierwszej raty.
+§ 1. Jeżeli nie umówiono się inaczej, odpowiedzialność ubezpieczyciela rozpoczyna się od dnia następującego po zawarciu umowy, niewcześniej jednak niż od dnia następnego po zapłaceniu składki lub jej pierwszej raty.
 
 § 2. Jeżeli ubezpieczyciel ponosi odpowiedzialność jeszcze przed zapłaceniem składki lub jej pierwszej raty, a składka lub jej pierwsza rata nie została zapłacona w terminie, ubezpieczyciel może wypowiedzieć umowę ze skutkiem natychmiastowym i żądać zapłaty składki za okres, przez który ponosił odpowiedzialność. W braku wypowiedzenia umowy wygasa ona z końcem okresu, za który przypadała niezapłacona składka.
 
@@ -4238,7 +4243,7 @@ source: pdf
 
 § 3. Ubezpieczyciel nie ponosi odpowiedzialności za skutki okoliczności, które z naruszeniem paragrafów poprzedzających nie zostały podane do jego wiadomości. Jeżeli do naruszenia paragrafów poprzedzających doszło z winy umyślnej, w razie wątpliwości przyjmuje się, że wypadek przewidziany umową i jego następstwa są skutkiem okoliczności, o których mowa w zdaniu poprzedzającym.
 
-**Art. 816.** W razie ujawnienia okoliczności, która pociąga za sobą istotną zmianę prawdopodobieństwa wypadku, każda ze stron może żądać odpowiedniej zmiany wysokości składki, poczynając od chwili, w której zaszła ta okoliczność, nie wcześniej jednak niż od początku bieżącego okresu ubezpieczenia. W razie zgłoszenia takiego żądania druga strona może w terminie 14 dni wypowiedzieć umowę ze skutkiem natychmiastowym. Przepisu tego nie stosuje się do ubezpieczeń na życie.
+**Art. 816.** W razie ujawnienia okoliczności, która pociąga za sobą istotną zmianę prawdopodobieństwa wypadku, każda ze stron może żądać odpowiedniej zmiany wysokości składki, poczynając od chwili, w której zaszła ta okoliczność, niewcześniej jednak niż od początku bieżącego okresu ubezpieczenia. W razie zgłoszenia takiego żądania druga strona może w terminie 14 dni wypowiedzieć umowę ze skutkiem natychmiastowym. Przepisu tego nie stosuje się do ubezpieczeń na życie.
 
 **Art. 817.**
 
@@ -4353,7 +4358,7 @@ source: pdf
 - **1)** przy ubezpieczeniu na życie – śmierci osoby ubezpieczonej lub dożycia przez nią oznaczonego wieku;
 - **2)** przy ubezpieczeniu następstw nieszczęśliwych wypadków – uszkodzenia ciała, rozstroju zdrowia lub śmierci wskutek nieszczęśliwego wypadku.
 
-§ 2. W umowie ubezpieczenia na życie zawartej na cudzy rachunek, odpowiedzialność ubezpieczyciela rozpoczyna się nie wcześniej niż następnego dnia po tym, gdy ubezpieczony oświadczył stronie wskazanej w umowie, że chce skorzystać z zastrzeżenia na jego rzecz ochrony ubezpieczeniowej. Oświadczenie powinno obejmować także wysokość sumy ubezpieczenia. Zmiana umowy na niekorzyść ubezpieczonego lub osoby uprawnionej do otrzymania sumy ubezpieczenia w razie śmierci ubezpieczonego wymaga zgody tego ubezpieczonego.
+§ 2. W umowie ubezpieczenia na życie zawartej na cudzy rachunek, odpowiedzialność ubezpieczyciela rozpoczyna się niewcześniej niż następnego dnia po tym, gdy ubezpieczony oświadczył stronie wskazanej w umowie, że chce skorzystać z zastrzeżenia na jego rzecz ochrony ubezpieczeniowej. Oświadczenie powinno obejmować także wysokość sumy ubezpieczenia. Zmiana umowy na niekorzyść ubezpieczonego lub osoby uprawnionej do otrzymania sumy ubezpieczenia w razie śmierci ubezpieczonego wymaga zgody tego ubezpieczonego.
 
 **Art. 830.**
 
@@ -4491,11 +4496,11 @@ source: pdf
 
 **Art. 859³.** Przedsiębiorcy składowemu służy na zabezpieczenie roszczeń o składowe i należności uboczne, o zwrot wydatków i kosztów, w szczególności przewoźnego i opłat celnych, o zwrot udzielonych składającemu zaliczek oraz wszelkich innych należności powstałych z tytułu umowy lub umów składu, ustawowe prawo zastawu na rzeczach oddanych na skład, dopóki znajdują się u niego lub u osoby, która je dzierży w jego imieniu, albo dopóki może nimi rozporządzać za pomocą dokumentów.
 
-**Art. 859⁴.** Umowę składu zawartą na czas oznaczony uważa się za przedłużoną na czas nieoznaczony, jeżeli na 14 dni przed upływem terminu przedsiębiorca składowy nie zażądał listem poleconym albo na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), odebrania rzeczy w umówionym terminie.
+**Art. 859⁴.** Umowę składu zawartą na czas oznaczony uważa się za przedłużoną na czas nieoznaczony, jeżeli na 14 dni przed upływem terminu przedsiębiorca składowy nie zażądał listem poleconym albo na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3 i 507), odebrania rzeczy w umówionym terminie.
 
-**Art. 859⁵.** Umowę składu zawartą na czas nieoznaczony przedsiębiorca składowy może wypowiedzieć listem poleconym albo na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, z zachowaniem terminu miesięcznego, jednakże nie wcześniej niż po upływie 2 miesięcy od złożenia rzeczy.
+**Art. 859⁵.** Umowę składu zawartą na czas nieoznaczony przedsiębiorca składowy może wypowiedzieć listem poleconym albo na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, z zachowaniem terminu miesięcznego, jednakże niewcześniej niż po upływie 2 miesięcy od złożenia rzeczy.
 
-**Art. 859⁶.** Jeżeli składający nie odbiera rzeczy pomimo upływu umówionego terminu lub terminu wypowiedzenia umowy, przedsiębiorca składowy może oddać rzecz na przechowanie na koszt i ryzyko składającego. Może on jednak wykonać to prawo tylko wtedy, jeżeli uprzedził składającego o zamiarze skorzystania z przysługującego mu prawa listem poleconym albo na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wysłanym nie później niż na 14 dni przed upływem umówionego terminu.
+**Art. 859⁶.** Jeżeli składający nie odbiera rzeczy pomimo upływu umówionego terminu lub terminu wypowiedzenia umowy, przedsiębiorca składowy może oddać rzecz na przechowanie na koszt i ryzyko składającego. Może on jednak wykonać to prawo tylko wtedy, jeżeli uprzedził składającego o zamiarze skorzystania z przysługującego mu prawa listem poleconym albo na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wysłanym niepóźniej niż na 14 dni przed upływem umówionego terminu.
 
 **Art. 859⁷.** Pomimo zawarcia umowy na czas oznaczony przedsiębiorca składowy może z ważnych przyczyn, w każdym czasie, wezwać składającego do odebrania rzeczy, wyznaczając jednak odpowiedni termin ich odebrania.
 
@@ -4515,7 +4520,7 @@ source: pdf
 
 § 2. Umowa spółki powinna być stwierdzona pismem. <§ 3. Jeżeli przepis ustawy tak stanowi, zawarcie umowy spółki lub wykonanie innej czynności dotyczącej spółki może nastąpić także z wykorzystaniem wzoru umowy lub innych wzorów udostępnionych w systemie teleinformatycznym Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 
-§ 4. Czynności, o których mowa w § 1, są wykonywane w systemie teleinformatycznym Centralnej Ewidencji i Informacji o Działalności Gospodarczej w sposób określony w przepisach o Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+§ 4. Błąd! Nie zdefiniowano zakładki. Czynności, o których mowa w § 1, są wykonywane w systemie teleinformatycznym Centralnej Ewidencji i Informacji o Działalności Gospodarczej w sposób określony w przepisach o Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 
 **Art. 861.**
 
@@ -4706,7 +4711,7 @@ source: pdf
 
 **Art. 902.** Przepisów o odwołaniu darowizny nie stosuje się, gdy darowizna czyni zadość obowiązkowi wynikającemu z zasad współżycia społecznego.
 
-## TYTUŁ XXXIII 1 Przekazanie nieruchomości
+## TYTUŁ XXXIII [1] Przekazanie nieruchomości
 
 **Art. 902¹.**
 
@@ -4930,7 +4935,7 @@ source: pdf
 
 § 2. Spadkobierca niegodny zostaje wyłączony od dziedziczenia, tak jakby nie dożył otwarcia spadku.
 
-**Art. 929.** Uznania spadkobiercy za niegodnego może żądać każdy, kto ma w tym interes. Z żądaniem takim może wystąpić w ciągu roku od dnia, w którym dowiedział się o przyczynie niegodności, nie później jednak niż przed upływem lat trzech od otwarcia spadku.
+**Art. 929.** Uznania spadkobiercy za niegodnego może żądać każdy, kto ma w tym interes. Z żądaniem takim może wystąpić w ciągu roku od dnia, w którym dowiedział się o przyczynie niegodności, niepóźniej jednak niż przed upływem lat trzech od otwarcia spadku.
 
 **Art. 930.**
 
@@ -5008,7 +5013,7 @@ source: pdf
 
 § 1. Małżonek jest wyłączony od dziedziczenia, jeżeli spadkodawca wystąpił o orzeczenie rozwodu lub separacji z jego winy, a żądanie to było uzasadnione.
 
-§ 2. Wyłączenie małżonka od dziedziczenia następuje na mocy orzeczenia sądu. Wyłączenia może żądać każdy z pozostałych spadkobierców ustawowych powołanych do dziedziczenia w zbiegu z małżonkiem; termin do wytoczenia powództwa wynosi sześć miesięcy od dnia, w którym spadkobierca dowiedział się o otwarciu spadku, nie więcej jednak niż jeden rok od otwarcia spadku.
+§ 2. Wyłączenie małżonka od dziedziczenia następuje na mocy orzeczenia sądu. Wyłączenia może żądać każdy z pozostałych spadkobierców ustawowych powołanych do dziedziczenia w zbiegu z małżonkiem; termin do wytoczenia powództwa wynosi sześć miesięcy od dnia, w którym spadkobierca dowiedział się o otwarciu spadku, niewięcej jednak niż jeden rok od otwarcia spadku.
 
 ## TYTUŁ III Rozrządzenia na wypadek śmierci
 
@@ -5246,7 +5251,7 @@ source: pdf
 
 § 2. Przy obliczaniu zachowku dolicza się także do spadku, stosownie do przepisów poniższych, fundusz założycielski fundacji rodzinnej wniesiony przez spadkodawcę, w przypadku gdy fundacja ta nie jest ustanowiona w testamencie.
 
-§ 3. Przy obliczaniu zachowku dolicza się także do spadku, stosownie do przepisów poniższych, mienie w związku z rozwiązaniem fundacji rodzinnej, o wartości nie większej niż wysokość funduszu założycielskiego fundacji rodzinnej wniesionego przez spadkodawcę.
+§ 3. Przy obliczaniu zachowku dolicza się także do spadku, stosownie do przepisów poniższych, mienie w związku z rozwiązaniem fundacji rodzinnej, o wartości niewiększej niż wysokość funduszu założycielskiego fundacji rodzinnej wniesionego przez spadkodawcę.
 
 **Art. 994.**
 
@@ -5442,7 +5447,7 @@ source: pdf
 
 § 1. Jeżeli spadkobierca odrzucił spadek z pokrzywdzeniem wierzycieli, każdy z wierzycieli, którego wierzytelność istniała w chwili odrzucenia spadku, może żądać, ażeby odrzucenie spadku zostało uznane za bezskuteczne w stosunku do niego według przepisów o ochronie wierzycieli w razie niewypłacalności dłużnika.
 
-§ 2. Uznania odrzucenia spadku za bezskuteczne można żądać w ciągu sześciu miesięcy od chwili powzięcia wiadomości o odrzuceniu spadku, lecz nie później niż przed upływem trzech lat od odrzucenia spadku.
+§ 2. Uznania odrzucenia spadku za bezskuteczne można żądać w ciągu sześciu miesięcy od chwili powzięcia wiadomości o odrzuceniu spadku, lecz niepóźniej niż przed upływem trzech lat od odrzucenia spadku.
 
 ## TYTUŁ VI Stwierdzenie nabycia spadku lub przedmiotu zapisu windykacyjnego, poświadczenie dziedziczenia i ochrona spadkobiercy
 

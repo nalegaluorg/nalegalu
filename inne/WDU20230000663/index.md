@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego przeglądów lekowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 2 grudnia 2021 r. w sprawie programu pilotażowego przeglądów lekowych (Dz. U.
 poz. 2342), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 6 maja 2022 r. zmieniającym rozporządzenie w sprawie programu pilotażowego przeglądów lekowych (Dz. U. poz. 972).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 6 maja 2022 r. zmieniającego rozporządzenie w sprawie programu pilotażowego przeglądów lekowych (Dz. U. poz. 972), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 2 grudnia 2021 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 6 maja 2022 r. zmieniającego rozporządzenie w sprawie programu pilotażowego przeglądów lekowych (Dz. U. poz. 972), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 2 grudnia 2021 r.
 w sprawie programu pilotażowego przeglądów lekowych Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770 oraz z 2023 r. poz. 605, 650 i 658) zarządza się, co następuje:
 § 1. Rozporządzenie określa program pilotażowy przeglądów lekowych, zwany dalej „pilotażem”.
 § 2. Użyte w rozporządzeniu określenia oznaczają:

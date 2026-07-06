@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym (Dz. U. z 2022 r.
 poz. 765), z uwzględnieniem zmian wprowadzonych ustawą z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 listopada 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 55 ustawy z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846), który stanowi: „Art. 55. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 18 pkt 1–3 i 6, art. 20 i art. 35, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 55 ustawy z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centralnego Portu Komunikacyjnego (Dz. U. poz. 1846), który stanowi: „ Art. 55. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 18 pkt 1–3 i 6, art. 20 i art. 35, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 26 sierpnia 1994 r.
 o przekształceniach własnościowych w przemyśle cukrowniczym
 

@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie klasyfikacji śródlądowych dróg wodnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 7 maja 2002 r. w sprawie klasyfikacji śródlądowych dróg wodnych (Dz. U. poz. 695), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 9 października 2020 r. zmieniającym rozporządzenie w sprawie klasyfikacji śródlądowych dróg wodnych (Dz. U. poz. 1898).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 9 października 2020 r. zmieniającego rozporządzenie w sprawie klasyfikacji śródlądowych dróg wodnych (Dz. U. poz. 1898), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 7 maja 2002 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 9 października 2020 r. zmieniającego rozporządzenie w sprawie klasyfikacji śródlądowych dróg wodnych (Dz. U. poz. 1898), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 7 maja 2002 r.
 w sprawie klasyfikacji śródlądowych dróg wodnych Na podstawie art. 42 ust. 4 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2022 r. poz. 1097) zarządza się, co następuje:
 § 1. Przepisy rozporządzenia określają:
 1) szczegółowy sposób klasyfikacji śródlądowych dróg wodnych;
@@ -58,7 +58,8 @@ w sprawie klasyfikacji śródlądowych dróg wodnych Na podstawie art. 42 ust. 4
 3. Przy modernizacji śródlądowych dróg wodnych o znaczeniu międzynarodowym, innych klas niż określone w ust. 2, przyjmuje się, jako warunki projektowe, wielkości nie niższe niż odpowiadające maksymalnym wartościom parametrów klasyfikacyjnych i warunków eksploatacyjnych, przewidzianych dla klasy Vb, umożliwiające żeglugę statków o zanurzeniu nie mniejszym niż 2,80 m.
 4. Przepis ust. 3 stosuje się przy projektowaniu nowych dróg wodnych o znaczeniu międzynarodowym.
 § 8. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Rady Ministrów z dnia 7 maja 2002 r.
+
+## Załączniki do rozporządzenia Rady Ministrów z dnia 7 maja 2002 r.
 
 ## Załącznik nr 1 — KLASYFIKACJA ŚRÓDLĄDOWYCH DRÓG WODNYCH Załącznik nr 2 PODZIAŁ ŚRÓDLĄDOWYCH DRÓG WODNYCH NA KLASY PODZIAŁ ŚRÓDLĄDOWYCH DRÓG WODNYCH NA KLASY Lp. Nazwa śródlądowej drogi wodnej Długość Klasa w km drogi wodnej 1 rzeka Biebrza od ujścia Kanału Augustowskiego do ujścia do rzeki Narwi 84,2 Ia 2 rzeka Brda od połączenia z Kanałem Bydgoskim w miejscowości Bydgoszcz do ujścia 14,4 II do rzeki Wisły 3 rzeka Bug od ujścia rzeki Muchawiec do ujścia do rzeki Narwi 224,2 Ia 3a Kanał Cegielinka 1,6 Vb 4 jezioro Dąbie do granicy z morskimi wodami wewnętrznymi 9,5 Vb 4a rzeka Dąbska Struga 0,8 Ia 5 Kanał Augustowski od połączenia z rzeką Biebrzą do granicy Państwa, wraz z jeziorami znajdującymi 83,0 Ia się na trasie tego Kanału 6 Kanał Bydgoski 24,5 II 6a Kanał Dąbski Nurt 0,8 Ia 7 Kanał Gliwicki 41,2 III 8 Kanał Jagielloński od połączenia z rzeką Nogat do granicy z morskimi wodami 4,7 II wewnętrznymi 9 Kanał Kędzierzyński 5,9 II 10 Kanał Łączański 17,2 II 11 Kanał Ślesiński:
 

@@ -31,9 +31,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2) rozporządzeniem Ministra Środowiska z dnia 9 lipca 2010 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów (Dz. U. poz. 923);
 3) rozporządzeniem Ministra Środowiska z dnia 13 lipca 2015 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów (Dz. U. poz. 1070).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Środowiska z dnia 9 lipca 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów (Dz. U. poz. 923), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Środowiska z dnia 13 lipca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów (Dz. U. poz. 1070), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 22 marca 2006 r.
+1) § 2 rozporządzenia Ministra Środowiska z dnia 9 lipca 2010 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów (Dz. U. poz. 923), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Środowiska z dnia 13 lipca 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów (Dz. U. poz. 1070), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: A. Moskwa
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 22 marca 2006 r.
 w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów Na podstawie art. 9 ust. 3 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2022 r. poz. 672) zarządza się, co następuje:
 § 1. 1. Zabezpieczenie przeciwpożarowe lasów dostosowuje się do kategorii zagrożenia pożarowego lasów oraz stopnia zagrożenia pożarowego lasów lub prognozowanego stopnia zagrożenia pożarowego lasów.
 2. Kategoria zagrożenia pożarowego lasów obejmuje lasy o podobnym poziomie podatności na pożar, ustalonym na podstawie częstotliwości występowania pożarów, warunków drzewostanowych i klimatycznych oraz czynników antropogenicznych.
@@ -123,7 +123,8 @@ pasy rozdzielające zwarte obszary leśne zakłada się wzdłuż wytypowanych dr
 § 12. Zakaz wstępu do lasu wprowadza się przy 3. stopniu zagrożenia pożarowego, jeżeli przez kolejnych 5 dni wilgotność ściółki mierzona o godzinie 9 będzie niższa od 10%.
 § 13. Traci moc rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa z dnia 16 sierpnia 1999 r. w sprawie szczegółowych zasad zabezpieczenia przeciwpożarowego lasów (Dz. U. poz. 824).
 § 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia z dnia 22 marca 2006 r.
+
+## Załączniki do rozporządzenia z dnia 22 marca 2006 r.
 
 ## Załącznik nr 1 — SPOSÓB ZALICZANIA LASÓW DO KATEGORII ZAGROŻENIA SPOSÓB ZALICZANIA LASÓW DO KATEGORII ZAGROŻENIA POŻAROWEGO LASÓW POŻAROWEGO LASÓW
 

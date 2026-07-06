@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 29 sierpnia 2006 r. w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U.
 poz. 1171), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 7 stycznia 2020 r. zmieniającym rozporządzenie w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 78).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 7 stycznia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 78), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 sierpnia 2006 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 7 stycznia 2020 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 78), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 sierpnia 2006 r.
 w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego Na podstawie art. 47 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r. poz. 1921 i 2020 oraz z 2020 r. poz. 1610 i 2320) zarządza się, co następuje:
 § 1. Rozporządzenie reguluje warunki i tryb:
 1) przygotowywania czynności kontrolnych, o których mowa w art. 13 ust. 1 pkt 2 ustawy z dnia 9 czerwca 2006 r.
@@ -101,8 +101,6 @@ o Centralnym Biurze Antykorupcyjnym, zwanej dalej „ustawą”,
 § 22. 1. Funkcjonariusz przedstawia do akceptacji projekty dokumentów, o których mowa w § 20, kierownikowi właściwej jednostki organizacyjnej CBA.
 2. Kierownik właściwej jednostki organizacyjnej CBA akceptuje projekty i niezwłocznie przekazuje je Szefowi CBA.
 § 23. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia RadyMinistrów z dnia 29 sierpnia 2006 r.
-WZÓR Pokwitowanie pobrania/zwolnienia spod zabezpieczenia i zwrotu pobranych materiałów dowodowych * WZÓR Odmowa zwolnienia spod zabezpieczenia materiałów dowodowych Dziennik Ustaw – – 8 9 – – Poz. 319 WZÓR Protokół pobrania rzeczy WZÓR Protokół oględzin WZÓR Protokół przyjęcia ustnych wyjaśnień WZÓR Protokół przyjęcia ustnego oświadczenia Dziennik Ustaw – – 12 13 – – Poz. 319 WZÓR Postanowienie o powołaniu biegłego WZÓR Postanowienie o powołaniu specjalisty w danej dziedzinie wiedzy lub praktyki do udziału w czynnościach badawczych WZÓR PROTOKÓŁ KONTROLI
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -113,4 +111,8 @@ WZÓR Pokwitowanie pobrania/zwolnienia spod zabezpieczenia i zwrotu pobranych ma
 #### Rozdział 4 Warunki i tryb dokumentowania czynności kontrolnych
 
 #### Rozdział 5 Przepis końcowy
+
+## Załączniki do rozporządzenia RadyMinistrów z dnia 29 sierpnia 2006 r.
+
+WZÓR Pokwitowanie pobrania/zwolnienia spod zabezpieczenia i zwrotu pobranych materiałów dowodowych * WZÓR Odmowa zwolnienia spod zabezpieczenia materiałów dowodowych Dziennik Ustaw – – 8 9 – – Poz. 319 WZÓR Protokół pobrania rzeczy WZÓR Protokół oględzin WZÓR Protokół przyjęcia ustnych wyjaśnień WZÓR Protokół przyjęcia ustnego oświadczenia Dziennik Ustaw – – 12 13 – – Poz. 319 WZÓR Postanowienie o powołaniu biegłego WZÓR Postanowienie o powołaniu specjalisty w danej dziedzinie wiedzy lub praktyki do udziału w czynnościach badawczych WZÓR PROTOKÓŁ KONTROLI
 

@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/236/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. z 2023 r. poz. 1110), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lutego 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 32 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871), który stanowi: „Art. 32. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 32 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871), który stanowi: „ Art. 32. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 9 lipca 2003 r.
 o zatrudnianiu pracowników tymczasowych
 
@@ -258,7 +257,7 @@ o zatrudnianiu pracowników tymczasowych
 
 **Art. 21.**
 
-1. Do umów o pracę zawartych między agencją pracy tymczasowej a pracownikiem tymczasowym nie stosuje się art. 25 , art. 30 § 4, art. 38 § 1 i art. 45 § 1 Kodeksu pracy.
+1. Do umów o pracę zawartych między agencją pracy tymczasowej a pracownikiem tymczasowym nie stosuje się art. 25 1 , art. 30 § 4, art. 38 § 1 i art. 45 § 1 Kodeksu pracy.
 
 2. Jeżeli wypowiedzenie umowy o pracę pracownikowi tymczasowemu nastąpiło z naruszeniem przepisów o wypowiadaniu takiej umowy, pracownikowi przysługuje wyłącznie odszkodowanie.
 

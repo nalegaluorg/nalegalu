@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie utworzenia Sądu Okręgowego w Sosnowcu
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 16 marca 2021 r. w sprawie utworzenia Sądu Okręgowego w Sosnowcu (Dz. U. poz. 528), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Sprawiedliwości z dnia 18 sierpnia 2021 r. zmieniającym rozporządzenie w sprawie utworzenia Sądu Okręgowego w Sosnowcu (Dz. U. poz. 1554).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 18 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie utworzenia Sądu Okręgowego w Sosnowcu (Dz. U. poz. 1554), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.”.
-Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 marca 2021 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 18 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie utworzenia Sądu Okręgowego w Sosnowcu (Dz. U. poz. 1554), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.”. Minister Sprawiedliwości: Z. Ziobro
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 marca 2021 r.
 w sprawie utworzenia Sądu Okręgowego w Sosnowcu Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072, z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655, 1259 i 1933) zarządza się, co następuje:
 § 1. Tworzy się – w obszarze właściwości Sądu Apelacyjnego w Katowicach – Sąd Okręgowy w Sosnowcu.

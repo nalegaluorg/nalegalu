@@ -34,7 +34,9 @@ poz. 276, 284, 782 i 1086) zarządza się, co następuje:
 § 2. Rozporządzenie wchodzi w życie z dniem 31 lipca 2020 r. 2) Minister Rozwoju: J. Emilewicz
 1) Minister Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 8 lipca 2014 r. w sprawie formularzy dotyczących zgłaszania prac geodezyjnych i prac kartograficznych, zawiadomienia o wykonaniu tych prac oraz przekazywania ich wyników do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 924), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 19 ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782).
-Załączniki do rozporządzenia Ministra Rozwoju z dnia 27 Załącznikido Załącznikido lipca 2020 rozporządzenia rozporządzenia r. (poz. 1316) Ministra Ministra Rozwoju Rozwoju zdnia zdnia .... .... 2020 2020 r. r. (poz.) (poz.) Załącznik nr 1 Załącznik Załącznik nr1 nr1 Część Częśćdotycząca dotycząca prac pracgeodezyjnych geodezyjnych zgłaszanych zgłaszanych właściwym właściwymmiejscowo miejscowo starostom starostom WZÓR WZÓR WZÓR Zgłoszenie Zgłoszenie prac prac geodezyjnych geodezyjnych
+
+## Załącznik nr 1 — Załącznik Załącznik nr1 nr1 Część Częśćdotycząca dotycząca prac pracgeodezyjnych geodezyjnych zgłaszanych zgłaszanych właściwym właściwymmiejscowo miejscowo starostom starostom WZÓR WZÓR WZÓR Zgłoszenie Zgłoszenie prac prac geodezyjnych geodezyjnych
+
 1.Imię 1. Imię i i nazwisko nazwisko /nazwa / nazwa wykonawcypracgeodezyjnych wykonawcy prac geodezyjnych zgodnie zgodnie zart.11 z art. 11 ust.1 ust. 1 ustawy ustawy 2.Data 2. Data ZG-1 ZG-1
 3.Adreswykonawcypracgeodezyjnych 3. Adres wykonawcy prac geodezyjnych 4.Adresatzgłoszenia 4. Adresat zgłoszenia – – nazwa nazwa i i adresorganu adres organu lub lub jednostki jednostki organizacyjnej,która organizacyjnej, która wimieniu w imieniu organu organu prowadzi prowadzi państwowyzasób państwowy zasób geodezyjnyi geodezyjny i kartograficzny kartograficzny
 5. 5.Identyfikator Identyfikator wykonawcy wykonawcypracgeodezyjnych prac geodezyjnych
@@ -60,6 +62,7 @@ Podpiswłasnoręczny;wprzypadku Podpis własnoręczny; w przypadku składania sk
 Wyjaśnienia: W yjaśnienia:
 1.Wformularzach 1. W formularzach można można nie nie uwzgledniaćoznaczeń uwzgledniać oznaczeń kolorystycznych. kolorystycznych.
 2. 2. Pola Pola formularza formularza można można rozszerzaćwzależnościod rozszerzać w zależności od potrzeb.Do potrzeb. Do formularza formularza papierowego papierowego można można dołączyćzałącznikizawierające dołączyć załączniki zawierające informacje,których informacje, których nie nie można można było było zamieścićwformularzu. zamieścić w formularzu.
+Część dotycząca prac geodezyjnych zgłaszanych Głównemu Geodecie Kraju WZÓR Częśćdotycząca pracgeodezyjnych zgłaszanych Głównemu Geodecie Kraju WZÓR Zgłoszenie WZÓR prac geodezyjnych
 1.Imię i nazwisko /nazwa wykonawcypracgeodezyjnych zgodnie zart.11 ust.1 Zgłoszenie ustawy prac 2.Data geodezyjnych ZG-2
 1. Imię i nazwisko / nazwa wykonawcy prac geodezyjnych zgodnie z art. 11 ust. 1 ustawy 2. Data ZG-2
 3.Adreswykonawcypracgeodezyjnych 4.Adresatzgłoszenia – nazwa i adresorganu lub jednostki organizacyjnej,która wimieniu organu
@@ -99,6 +102,7 @@ W yjaśnienia: 1. Wformularzach można nie uwzgledniaćoznaczeń kolorystycznych
 2. Pola formularza można rozszerzaćwzależnościod potrzeb.Do formularza papierowego można dołączyćzałącznikizawierające informacje,których nie można było zamieścićwformularzu.
 1. W formularzach można nie uwzgledniać oznaczeń kolorystycznych.
 2. Pola formularza można rozszerzać w zależności od potrzeb. Do formularza papierowego można dołączyć załączniki zawierające informacje, których nie można było zamieścić w formularzu.
+Część dotycząca uzupełniania zgłoszonych wcześniej prac geodezyjnych WZÓR Częśćdotycząca uzupełniania zgłoszonych wcześniejpracgeodezyjnych WZÓR Zgłoszenie prac WZÓR geodezyjnych
 1.Imię i nazwisko /nazwa wykonawcypracgeodezyjnych zgodnie zart.11 ust.1 Zgłoszenie ustawy prac 2.Identyfikator geodezyjnych zgłoszenia,którego dotyczyuzupełnienie ZG-3
 1. Imię i nazwisko / nazwa wykonawcy prac geodezyjnych zgodnie z art. 11 ust. 1 ustawy 2. Identyfikator zgłoszenia, którego dotyczy uzupełnienie ZG-3
 3.Identyfikator wykonawcypracgeodezyjnych 4.Data
@@ -165,8 +169,4 @@ Dziennik Ustaw – 6 – Załącznik Poz. nr 1316 3 Załącznik nr 3 Załącznik
 3 Przez informacje dodatkowe należy rozumieć w szczególności informacje o tym, że protokół zawiera wyniki weryfikacji usunięcia nieprawidłowości stwierdzonych we wcześniejszym protokole weryfikacji.
 4 Obowiązek sporządzania dwóch egzemplarzy nie dotyczy protokołu w postaci dokumentu elektronicznego.
 2
-
-## Część dotycząca prac geodezyjnych zgłaszanych Głównemu Geodecie Kraju WZÓR Częśćdotycząca pracgeodezyjnych zgłaszanych Głównemu Geodecie Kraju WZÓR Zgłoszenie WZÓR prac geodezyjnych
-
-## Część dotycząca uzupełniania zgłoszonych wcześniej prac geodezyjnych WZÓR Częśćdotycząca uzupełniania zgłoszonych wcześniejpracgeodezyjnych WZÓR Zgłoszenie prac WZÓR geodezyjnych
 

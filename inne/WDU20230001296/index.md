@@ -26,12 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001296) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1296/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania (Dz. U. z 2021 r. poz. 403), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 czerwca 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi: „Art. 45. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 i art. 30, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-2) art. 25 i art. 42, które wchodzą w życie po upływie 6 tygodni od dnia ogłoszenia;
-3) art. 27 i art. 43, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-4) art. 28, który wchodzi w życie z dniem 1 sierpnia 2022 r.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi: „ Art. 45. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 i art. 30, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia; 2) art. 25 i art. 42, które wchodzą w życie po upływie 6 tygodni od dnia ogłoszenia; 3) art. 27 i art. 43, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 4) art. 28, który wchodzi w życie z dniem 1 sierpnia 2022 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 8 września 2006 r.
 o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
 

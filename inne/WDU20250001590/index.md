@@ -26,12 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1590/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2024 r. poz. 576), z uwzględnieniem zmian wprowadzonych ustawą z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 listopada 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 26 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637), który stanowi: „Art. 26. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 9, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 25 marca 2025 r.;
-2) art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2025 r.;
-3) art. 1 pkt 3, 5 i 6, art. 12 i art. 13, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-4) art. 1 pkt 26 w zakresie dodawanego art. 26e, który wchodzi w życie z dniem 1 stycznia 2026 r.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 26 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637), który stanowi: „ Art. 26. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 9, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 25 marca 2025 r.; 2) art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2025 r.; 3) art. 1 pkt 3, 5 i 6, art. 12 i art. 13, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia; 4) art. 1 pkt 26 w zakresie dodawanego art. 26e, który wchodzi w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 31 stycznia 1959 r.
 o cmentarzach i chowaniu zmarłych
 

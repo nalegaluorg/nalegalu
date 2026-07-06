@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2023 r. poz. 2692), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 stycznia 2024 r.
 o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (Dz. U. poz. 123) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 lipca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 42 ustawy z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (Dz. U. poz. 123), który stanowi: „Art. 42. Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2024 r., z wyjątkiem art. 1 i art. 2, które wchodzą w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 42 ustawy z dnia 16 stycznia 2024 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (Dz. U. poz. 123), który stanowi: „ Art. 42. Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2024 r., z wyjątkiem art. 1 i art. 2, które wchodzą w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 23 grudnia 1999 r.
 o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw
 

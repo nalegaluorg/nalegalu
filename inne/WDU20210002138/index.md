@@ -31,9 +31,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2) rozporządzeniem Ministra Zdrowia z dnia 28 stycznia 2020 r. zmieniającym rozporządzenie w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U. poz. 214).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Zdrowia z dnia 15 października 2019 r. zmieniającego rozporządzenie w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U.
-poz. 2117), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Zdrowia z dnia 28 stycznia 2020 r. zmieniającego rozporządzenie w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U. poz. 214), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 września 2018 r.
+poz. 2117), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Zdrowia z dnia 28 stycznia 2020 r. zmieniającego rozporządzenie w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia (Dz. U. poz. 214), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 września 2018 r.
 w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzielenia urlopu dla poratowania zdrowia Na podstawie art. 134 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478, 619 i 1630) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) zakres oraz tryb przeprowadzania badania lekarskiego mającego na celu stwierdzenie, czy stan zdrowia nauczyciela akademickiego wymaga powstrzymania się od pracy, oraz określenie zaleconego leczenia i czasu potrzebnego na jego przeprowadzenie, zwanego dalej „badaniem lekarskim”;
@@ -49,7 +49,8 @@ w sprawie orzekania o stanie zdrowia nauczyciela akademickiego na potrzeby udzie
 § 5. 1. Wzór orzeczenia lekarskiego określa załącznik nr 2 do rozporządzenia.
 2. Orzeczenie lekarskie wydaje się w trzech egzemplarzach, z których jeden otrzymuje nauczyciel akademicki, drugi rektor, który skierował nauczyciela akademickiego na badanie lekarskie, a trzeci jest dołączany do dokumentacji medycznej nauczyciela akademickiego.
 § 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia września 2018 r.
+
+## Załączniki do rozporządzenia września 2018 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR ............................................ ................................
 

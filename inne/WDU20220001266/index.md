@@ -35,12 +35,10 @@ poz. 2249);
 poz. 1955).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2017 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U.
-poz. 2106), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 listopada 2019 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U.
-poz. 2249), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 października 2021 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U.
-poz. 1955), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 czerwca 2011 r.
+poz. 2106), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 listopada 2019 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 2249), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 października 2021 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 1955), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 czerwca 2011 r.
 w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach Na podstawie art. 11 ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061 i 1115) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) warunki, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, zwane dalej „pomieszczeniami”, w tym wyposażenie tych pomieszczeń;

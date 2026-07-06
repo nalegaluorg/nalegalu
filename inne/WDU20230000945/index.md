@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 1) rozporządzeniem Ministra Środowiska z dnia 7 lipca 2016 r. zmieniającym rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim (Dz. U. poz. 1043);
 2) rozporządzeniem Ministra Klimatu i Środowiska z dnia 17 listopada 2022 r. zmieniającym rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim (Dz. U. poz. 2541).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Środowiska z dnia 7 lipca 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim (Dz. U. poz. 1043), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 17 listopada 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim (Dz. U. poz. 2541), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 10 listopada 2008 r.
+1) § 2 rozporządzenia Ministra Środowiska z dnia 7 lipca 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim (Dz. U. poz. 1043), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 17 listopada 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim (Dz. U. poz. 2541), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: A. Moskwa
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 10 listopada 2008 r.
 w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2022 r.
 poz. 1029, z późn. zm. ) zarządza się, co następuje:
 § 1. Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim nadaje się statut, stanowiący załącznik do rozporządzenia.

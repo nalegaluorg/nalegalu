@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o produktach biobójczych
+# Ustawa z dnia 9 października 2015 r. o produktach biobójczych
 
 *USTAWA z dnia 9 października 2015 r.*
 
@@ -24,10 +24,9 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-09 |
 | Data wydania | 2015-11-20 |
+| Wejście w życie | 2015-12-05 |
 | Ostatnia zmiana | 2026-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001926) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1926/text.pdf) |
-
-Art. 47–50. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -58,8 +57,12 @@ Art. 47–50. (pominięte)
 
 2. Produkty biobójcze oraz wyroby poddane działaniu produktów biobójczych, udostępniane na rynku, stosowane lub wprowadzane do obrotu na terytorium Rzeczypospolitej Polskiej, są oznakowane w języku polskim. <3. Produkty biobójcze, na które wydano pozwolenie, zezwolenie na handel równoległy albo pozwolenie na obrót, są udostępniane na rynku do stosowania:
 
-- **1)** profesjonalnego – przez użytkownika będącego osobą fizyczną, która stosuje produkt biobójczy w celach innych niż własne niezarobkowe potrzeby, w tym w ramach działalności gospodarczej lub zawodowej;
-- **2)** powszechnego – przez użytkownika będącego osobą fizyczną, która stosuje produkt biobójczy w celach związanych z własnymi niezarobkowymi potrzebami.> <Art. 6a. 1. Produkty biobójcze przeznaczone do fumigacji, zawierające substancje czynne, które mogą stwarzać szczególne zagrożenie dla zdrowia ludzi, zwierząt lub dla środowiska, wymienione w wykazie określonym w przepisach wydanych na podstawie art. 25 ust. 7 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630 oraz z 2025 r. poz. 1168, 1697 i 000):
+- **1)** profesjonalnego – przez użytkownika będącego osobą fizyczną, która stosuje produkt biobójczy w celach innych niż własne niezarobkowe potrzeby, w tym w ramach działalności gospodarczej lub zawodowej; 2) powszechnego – przez użytkownika będącego osobą fizyczną, która stosuje produkt biobójczy w celach związanych z własnymi niezarobkowymi potrzebami.
+
+**Art. 6a.**
+
+1. Produkty biobójcze przeznaczone do fumigacji, zawierające substancje czynne, które mogą stwarzać szczególne zagrożenie dla zdrowia ludzi, zwierząt lub dla środowiska, wymienione w wykazie określonym w przepisach wydanych na podstawie art. 25 ust. 7 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630 oraz z 2025 r. poz. 1168, 1697 i 000):
+
 - **1)** są udostępniane na rynku do stosowania profesjonalnego wyłącznie osobom, które:
     - **a)** ukończyły szkolenie, o którym mowa w art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin,
     - **b)** posiadają zaświadczenie o ukończeniu szkolenia, o którym mowa w art. 64 ust. 1a pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin, i okażą to zaświadczenie podczas zakupu tych produktów;
@@ -77,7 +80,7 @@ Art. 47–50. (pominięte)
 
 3. Ewidencja, o której mowa w ust. 2 pkt 2, jest prowadzona w celu wykonywania zadań ustawowych przez organy wymienione w art. 39 ust. 1. Informacje zawarte w ewidencji przechowuje się przez 5 lat.
 
-4. Produkty biobójcze określone w ust. 1 nie mogą być udostępniane na rynku w ramach umowy zawartej na odległość w rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172).>
+4. Produkty biobójcze określone w ust. 1 nie mogą być udostępniane na rynku w ramach umowy zawartej na odległość w rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172).
 
 **Art. 7.**
 
@@ -147,7 +150,7 @@ Art. 47–50. (pominięte)
 - **2)** art. 1 rozporządzenia wykonawczego Komisji (UE) nr 88/2014 z dnia 31 stycznia 2014 r. określającego procedurę zmiany załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 528/2012 w sprawie udostępniania na rynku i stosowania produktów biobójczych (Dz. Urz. UE L 32 z 01.02.2014, str. 3), jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa w załączniku do tego rozporządzenia;
 - **3)** art. 7, art. 8 i art. 13 rozporządzenia wykonawczego Komisji (UE) nr 354/2013 z dnia 18 kwietnia 2013 r. w sprawie zmian produktów biobójczych, na które udzielono pozwolenia zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 528/2012 (Dz. Urz. UE L 109 z 19.04.2013, str. 4), zwanego dalej „rozporządzeniem 354/2013”, jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa odpowiednio w art. 7 ust. 3, art. 8 ust. 3 i art. 13 ust. 4 tego rozporządzenia;
 - **4)** art. 3 rozporządzenia wykonawczego Komisji (UE) nr 414/2013 z dnia 6 maja 2013 r. określającego procedurę wydawania pozwoleń dla takich samych produktów biobójczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 528/2012 (Dz. Urz. UE L 125 z 07.05.2013, str. 4, z późn. zm. ), zwanego dalej „rozporządzeniem 414/2013”, jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa w art. 3 ust. 1 lub 2 tego rozporządzenia;
-- **5)** art. 3 rozporządzenia delegowanego Komisji (UE) nr 492/2014 z dnia 7 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 528/2012 w odniesieniu do zasad odnawiania pozwoleń na produkty biobójcze w procedurze wzajemnego uznawania (Dz. Urz. UE L 139 z 14.05.2014, str. 1), jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa w art. 3 ust. 7 tego rozporządzenia.>
+- **5)** art. 3 rozporządzenia delegowanego Komisji (UE) nr 492/2014 z dnia 7 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 528/2012 w odniesieniu do zasad odnawiania pozwoleń na produkty biobójcze w procedurze wzajemnego uznawania (Dz. Urz. UE L 139 z 14.05.2014, str. 1), jeżeli wnioskodawca, w terminie określonym przez Prezesa Urzędu, nie przedstawi wymaganych informacji, o których mowa w art. 3 ust. 7 tego rozporządzenia.
 
 **Art. 12.** <1.> Prezes Urzędu uchyla, w drodze decyzji administracyjnej:
 
@@ -217,11 +220,11 @@ Art. 47–50. (pominięte)
 
 1. Prezes Urzędu wydaje pozwolenie na obrót, jeżeli są spełnione łącznie następujące warunki:
 
-- **1)** produkt biobójczy zawiera istniejące substancje czynne, które zostały poddane ocenie lub są w fazie oceny na mocy rozporządzenia delegowanego Komisji (UE) nr 1062/2014 z dnia 4 sierpnia 2014 r. w sprawie programu pracy, którego celem jest systematyczne badanie wszystkich istniejących substancji czynnych zawartych w produktach biobójczych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 528/2012 (Dz. Urz. UE L 294 z 10.10.2014, str. 1, z późn. zm. ), ale które nie zostały zatwierdzone dla tej grupy produktowej, albo zawiera kombinację tych substancji czynnych oraz substancji czynnych zatwierdzonych dla danej grupy produktowej;>
+- **1)** produkt biobójczy zawiera istniejące substancje czynne, które zostały poddane ocenie lub są w fazie oceny na mocy rozporządzenia delegowanego Komisji (UE) nr 1062/2014 z dnia 4 sierpnia 2014 r. w sprawie programu pracy, którego celem jest systematyczne badanie wszystkich istniejących substancji czynnych zawartych w produktach biobójczych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 528/2012 (Dz. Urz. UE L 294 z 10.10.2014, str. 1, z późn. zm. ), ale które nie zostały zatwierdzone dla tej grupy produktowej, albo zawiera kombinację tych substancji czynnych oraz substancji czynnych zatwierdzonych dla danej grupy produktowej;
 - **2)** produkt biobójczy jest skuteczny w zwalczaniu organizmu szkodliwego;
 - **3)** zostały określone zalecenia dotyczące stosowania dla danego zakresu stosowania produktu biobójczego.
 
-2. Spełnienie warunku, o którym mowa w ust. 1 pkt 2 i 3, ocenia się, uwzględniając aktualny stan wiedzy naukowej i technicznej dla produktu biobójczego stosowanego w sposób i w warunkach określonych w zaleceniach dotyczących stosowania dla danego zakresu stosowania produktu biobójczego.>
+2. Spełnienie warunku, o którym mowa w ust. 1 pkt 2 i 3, ocenia się, uwzględniając aktualny stan wiedzy naukowej i technicznej dla produktu biobójczego stosowanego w sposób i w warunkach określonych w zaleceniach dotyczących stosowania dla danego zakresu stosowania produktu biobójczego.
 
 **Art. 20.**
 
@@ -435,9 +438,9 @@ Art. 47–50. (pominięte)
 - **2)** wzór formularza zgłoszenia przypadku podejrzenia lub stwierdzenia zatrucia produktem biobójczym,
 - **3)** wzór formularza raportu o zgłoszonych przypadkach podejrzenia lub stwierdzenia zatrucia produktem biobójczym,
 - **4)** sposób gromadzenia i archiwizowania danych o przypadkach podejrzenia lub stwierdzenia zatrucia produktem biobójczym przez ośrodki toksykologiczne,
-- **5)** tryb finansowania kosztów, o których mowa w ust. 4 – biorąc pod uwagę konieczność ujednolicenia i zapewnienia kompletności zgłaszanych, gromadzonych i archiwizowanych danych, zapewnienie przejrzystości formularza zgłoszenia przypadku podejrzenia lub stwierdzenia zatrucia produktem biobójczym oraz formularza raportu o zgłoszonych przypadkach podejrzenia lub stwierdzenia zatrucia produktem biobójczym, konieczność zapewnienia bezpieczeństwa archiwizowanych danych, a także rzeczywiste koszty związane ze sporządzeniem raportu o zgłoszonych przypadkach podejrzenia lub stwierdzenia zatrucia produktem biobójczym. [Art. 43. 1. Prezes Urzędu przekazuje ośrodkom toksykologicznym karty charakterystyki produktów biobójczych, a jeżeli nie jest ona wymagana – dostępne dane o składzie jakościowym i ilościowym produktu biobójczego oraz imię i nazwisko oraz adres albo nazwę (firmę) oraz adres siedziby posiadacza pozwolenia lub podmiotu odpowiedzialnego. Dane te mogą być wykorzystywane wyłącznie w celach leczniczych i zapobiegawczych przez ośrodki toksykologiczne w przypadkach stwierdzenia lub podejrzenia zatrucia produktem biobójczym.
+- **5)** tryb finansowania kosztów, o których mowa w ust. 4 – biorąc pod uwagę konieczność ujednolicenia i zapewnienia kompletności zgłaszanych, gromadzonych i archiwizowanych danych, zapewnienie przejrzystości formularza zgłoszenia przypadku podejrzenia lub stwierdzenia zatrucia produktem biobójczym oraz formularza raportu o zgłoszonych przypadkach podejrzenia lub stwierdzenia zatrucia produktem biobójczym, konieczność zapewnienia bezpieczeństwa archiwizowanych danych, a także rzeczywiste koszty związane ze sporządzeniem raportu o zgłoszonych przypadkach podejrzenia lub stwierdzenia zatrucia produktem biobójczym.
 
-2. Prezes Urzędu przekazuje ośrodkom toksykologicznym dane i informacje, o których mowa w ust. 1, co 3 miesiące, a w przypadku wystąpienia zatrucia produktem biobójczym, którego dane nie zostały jeszcze przekazane ośrodkom toksykologicznym, na każde ich żądanie.] <Art. 43. W przypadku stwierdzenia lub podejrzenia zatrucia produktem biobójczym Prezes Urzędu przekazuje na żądanie ośrodków toksykologicznych dane o produkcie biobójczym oraz imię i nazwisko oraz adres albo nazwę (firmę) oraz adres siedziby posiadacza pozwolenia lub podmiotu odpowiedzialnego do wykorzystywania wyłącznie w celach leczniczych i zapobiegawczych przez te ośrodki.>
+**Art. 43.** W przypadku stwierdzenia lub podejrzenia zatrucia produktem biobójczym Prezes Urzędu przekazuje na żądanie ośrodków toksykologicznych dane o produkcie biobójczym oraz imię i nazwisko oraz adres albo nazwę (firmę) oraz adres siedziby posiadacza pozwolenia lub podmiotu odpowiedzialnego do wykorzystywania wyłącznie w celach leczniczych i zapobiegawczych przez te ośrodki.
 
 #### Rozdział 7 Opłaty
 
@@ -518,13 +521,17 @@ Art. 47–50. (pominięte)
 
 2. Tej samej karze podlega, kto udostępnia na rynku produkt biobójczy bez pozwolenia na obrót.
 
-3. Tej samej karze podlega, kto udostępnia na rynku produkt biobójczy, którego dostawca lub dostawca zawartej w nim substancji czynnej nie znajduje się w wykazie, o którym mowa w art. 95 rozporządzenia 528/2012. <Art. 45a. 1. Kto:
+3. Tej samej karze podlega, kto udostępnia na rynku produkt biobójczy, którego dostawca lub dostawca zawartej w nim substancji czynnej nie znajduje się w wykazie, o którym mowa w art. 95 rozporządzenia 528/2012.
+
+**Art. 45a.**
+
+1. Kto:
 
 - **1)** udostępnia produkty biobójcze określone w art. 6a ust. 1 z naruszeniem warunków określonych w tym przepisie, lub
 - **2)** nie potwierdza sprzedaży produktów biobójczych określonych w art. 6a ust. 1 fakturą zawierającą informacje i dane określone w art. 6a ust. 2 pkt 1 lub nie prowadzi ewidencji nabywców produktów biobójczych zgodnie z art. 6a ust. 2 lub 3, lub
 - **3)** udostępnia na rynku produkty biobójcze określone w art. 6a ust. 1 w ramach umowy zawartej na odległość w rozumieniu art. 2 pkt 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta – podlega karze grzywny w wysokości do 30 000 zł.
 
-2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).>
+2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178 i 1661).
 
 **Art. 46.**
 
@@ -548,6 +555,8 @@ Art. 47–50. (pominięte)
 3. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956 i 1423).
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
+
+**Art. 47–50.** (pominięte)
 
 #### Rozdział 10 Przepisy przejściowe i końcowe
 

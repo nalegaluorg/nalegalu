@@ -80,8 +80,7 @@ source: pdf
 - **2)** osoby wykonującej zawód medyczny, o której mowa w art. 14 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675, 1692 i 1972);
 - **3)** pielęgniarki i położnej, o której mowa w art. 17 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705 oraz z 2023 r. poz. 185 i 1234);
 - **4)** członków samorządu zawodu farmaceuty, o której mowa w art. 21 pkt 2 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2021 r. poz. 1850 oraz z 2023 r. poz. 1972);
-- **5)** osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123 oraz z 2023 r. poz.
-- **1972)** , o której mowa w art. 50 ust. 1 tej ustawy; [6) psychologa, o której mowa w art. 14 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);]
+- **5)** osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123 oraz z 2023 r. poz. 1972), o której mowa w art. 50 ust. 1 tej ustawy; [6) psychologa, o której mowa w art. 14 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);]
 - **6)** psychologa, o której mowa w art. 27 ust. 1 ustawy z dnia 23 stycznia 2026 r. o zawodzie psychologa oraz samorządzie zawodowym psychologów (Dz. U. poz. 187);
 - **7)** pracownika socjalnego, o której mowa w art. 119 ust. 2 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, 1693, 1938 i
 - **2760)** .
@@ -655,7 +654,7 @@ source: pdf
 
 **Art. 40.** W sprawach nieuregulowanych w ustawie do:
 
-- **1)** organizacji i przebiegu posiedzenia w postępowaniu wyjaśniającym stosuje się odpowiednio przepisy art. 206, art. 206 , art. 210, art. 214 § 1, art. 215 i art. 219 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. );
+- **1)** organizacji i przebiegu posiedzenia w postępowaniu wyjaśniającym stosuje się odpowiednio przepisy art. 206, art. 206 1 , art. 210, art. 214 § 1, art. 215 i art. 219 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. );
 - **2)** osób wysłuchiwanych, biegłych, świadków, pełnomocników, postępowania dowodowego, terminów i doręczeń w postępowaniu wyjaśniającym stosuje się odpowiednio przepisy części pierwszej księgi I tytułu IV działu I i V, tytułu VI działu I, III i IV ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
 - **3)** postępowania odwoławczego stosuje się odpowiednio przepisy o ochronie dóbr osobistych i przepisy części pierwszej księgi I tytułu VI działu V rozdziału 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
 - **4)** zwrotu kosztów podróży, o których mowa w art. 38e ust. 2, oraz wynagrodzenia biegłego i zwrotu poniesionych przez niego wydatków niezbędnych do wydania opinii stosuje się odpowiednio przepisy tytułu III ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2023 r. poz. 1144, 1532 i

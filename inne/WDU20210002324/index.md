@@ -27,9 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie określenia brzmienia klauzuli wykonalności
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 6 sierpnia 2014 r. w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1092), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 5 października 2020 r. zmieniającym rozporządzenie w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1789).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 2020 r. zmieniającego rozporządzenie w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1789), które stanowią: „§ 2. Przepisy § 1 ust. 4 i § 2a rozporządzenia zmienianego w § 1 stosuje się do klauzul wykonalności nadawanych po dniu wejścia w życie niniejszego rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 6 sierpnia 2014 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 2020 r. zmieniającego rozporządzenie w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1789), które stanowią: „ § 2. Przepisy § 1 ust. 4 i § 2a rozporządzenia zmienianego w § 1 stosuje się do klauzul wykonalności nadawanych po dniu wejścia w życie niniejszego rozporządzenia. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 6 sierpnia 2014 r.
 w sprawie określenia brzmienia klauzuli wykonalności Na podstawie art. 783 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r.
 poz. 1805, 1981, 2052, 2262, 2270 i 2289) zarządza się, co następuje:
 § 1. 1. Ustala się następujące brzmienie klauzuli wykonalności: „W imieniu Rzeczypospolitej Polskiej, dnia .....

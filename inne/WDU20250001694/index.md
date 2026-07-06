@@ -27,10 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U.
 z 2025 r. poz. 5), z uwzględnieniem zmian wprowadzonych ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”.
-Marszałek Sejmu: W. Czarzasty
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „ Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 11 października 2013 r.
 o szczególnych rozwiązaniach związanych z ochroną miejsc pracy
 
@@ -218,7 +215,7 @@ o szczególnych rozwiązaniach związanych z ochroną miejsc pracy
 
 6. Szkolenia inicjuje, organizuje i finansuje ze środków własnych i uzyskanego dofinansowania kosztów szkolenia przedsiębiorca.
 
-7. Przedsiębiorca, kierując pracownika na szkolenie, o którym mowa w ust. 1, zawiera z nim umowę określającą prawa i obowiązki stron. Do zawartej umowy nie stosuje się art. 103 –103 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+7. Przedsiębiorca, kierując pracownika na szkolenie, o którym mowa w ust. 1, zawiera z nim umowę określającą prawa i obowiązki stron. Do zawartej umowy nie stosuje się art. 103 1 –103 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 8. Pracownik, który nie ukończył szkolenia ze swojej winy lub z którym został rozwiązany stosunek pracy w trybie art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, jest obowiązany do zwrotu przedsiębiorcy kosztów szkolenia na zasadach określonych w umowie z przedsiębiorcą, o której mowa w ust. 7.
 

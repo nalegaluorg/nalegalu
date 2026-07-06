@@ -32,11 +32,11 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 3) rozporządzeniem Ministra Środowiska z dnia 20 czerwca 2017 r. zmieniającym rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. poz. 1247);
 4) rozporządzeniem Ministra Środowiska z dnia 16 września 2019 r. zmieniającym rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. poz. 1883).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Środowiska z dnia 21 grudnia 2015 r. zmieniającego rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. poz. 2204), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.”;
-2) § 2 rozporządzenia Ministra Środowiska z dnia 23 czerwca 2016 r. zmieniającego rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. poz. 949), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”;
-3) § 2 rozporządzenia Ministra Środowiska z dnia 20 czerwca 2017 r. zmieniającego rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. poz. 1247), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.”;
-4) § 2 rozporządzenia Ministra Środowiska z dnia 16 września 2019 r. zmieniającego rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. poz. 1883), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: M. Kurtyka ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 29 stycznia 2013 r.
+1) § 2 rozporządzenia Ministra Środowiska z dnia 21 grudnia 2015 r. zmieniającego rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. poz. 2204), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.”;
+2) § 2 rozporządzenia Ministra Środowiska z dnia 23 czerwca 2016 r. zmieniającego rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. poz. 949), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”;
+3) § 2 rozporządzenia Ministra Środowiska z dnia 20 czerwca 2017 r. zmieniającego rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. poz. 1247), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.”;
+4) § 2 rozporządzenia Ministra Środowiska z dnia 16 września 2019 r. zmieniającego rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. poz. 1883), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: M. Kurtyka
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 29 stycznia 2013 r.
 w sprawie zagrożeń naturalnych w zakładach górniczych Na podstawie art. 118 ust. 4 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2021 r. poz. 1420) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) kryteria oceny zagrożeń naturalnych:

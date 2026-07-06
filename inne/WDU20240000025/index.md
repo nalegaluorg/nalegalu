@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie specjalnego ochrony siedlisk Poleska Dolina Bugu (PLH060032)
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia rządzenia Ministra Środowiska z dnia 31 maja 2017 r. w sprawie specjalnego obszaru ochrony siedlisk (PLH060032) (Dz. U. poz. 1326), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra z dnia 7 grudnia 2022 r. zmieniającym rozporządzenie w sprawie specjalnego obszaru ochrony Bugu (PLH060032) (Dz. U. poz. 2608).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 7 grudnia 2022 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Poleska Dolina Bugu (PLH060032) (Dz. U. poz. 2608), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: A. Łukaszewska-Trzeciakowska ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 31 maja 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 7 grudnia 2022 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Poleska Dolina Bugu (PLH060032) (Dz. U. poz. 2608), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: A. Łukaszewska-Trzeciakowska
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 31 maja 2017 r.
 w sprawie specjalnego obszaru ochrony siedlisk Poleska Dolina Bugu (PLH060032) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z i 1890) zarządza się, co następuje:
 § 1. 1. Wyznacza się specjalny obszar ochrony Poleska Dolina Bugu (PLH060032 ), obejmujący położony w województwie lubelskim, składający się z sześciu powiązanych funkcjonalnie enklaw.
 2. Granica obszaru, o którym mowa w ust. 1, w postaci wykazu współrzędnych punktów załamania lona w załączniku nr 1 do rozporządzenia.

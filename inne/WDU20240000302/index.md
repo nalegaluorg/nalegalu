@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji i Nauki w sprawie egzaminu maturalnego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji i Nauki z dnia 1 sierpnia 2022 r. w sprawie egzaminu maturalnego (Dz. U. z 2023 r. poz. 2534), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji z dnia 29 grudnia 2023 r. zmieniającym rozporządzenie w sprawie egzaminu maturalnego (Dz. U. z 2024 r. poz. 8).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji z dnia 29 grudnia 2023 r. zmieniającego rozporządzenie w sprawie egzaminu maturalnego (Dz. U. z 2024 r.
-poz. 8), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Edukacji: B. Nowacka ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 1 sierpnia 2022 r.
+poz. 8), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Edukacji: B. Nowacka
+ROZPORZĄDZENIE MINISTRA EDUKACJI I NAUKI z dnia 1 sierpnia 2022 r.
 w sprawie egzaminu maturalnego Na podstawie art. 44zzza ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230 oraz z 2023 r.
 poz. 1234 i 2005) zarządza się, co następuje:
 § 1. Rozporządzenie określa szczegółowe warunki i sposób przeprowadzania egzaminu maturalnego dla absolwentów posiadających wykształcenie średnie lub wykształcenie średnie branżowe.

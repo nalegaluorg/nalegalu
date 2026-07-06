@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 26 czerwca 2002 r. w sprawie świadectwa służby w Agencji Wywiadu (Dz. U.
 poz. 828), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r.
 zmieniającym rozporządzenie w sprawie świadectwa służby w Agencji Wywiadu (Dz. U. poz. 1586).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie świadectwa służby w Agencji Wywiadu (Dz. U. poz. 1586), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 26 czerwca 2002 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie świadectwa służby w Agencji Wywiadu (Dz. U. poz. 1586), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 26 czerwca 2002 r.
 w sprawie świadectwa służby w Agencji Wywiadu Na podstawie art. 65 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2020 r. poz. 27) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) wzór formularza świadectwa służby;

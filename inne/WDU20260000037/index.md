@@ -1105,7 +1105,7 @@ source: pdf
 
 - **1)** w przypadkach korzystania ze świadczeń, o których mowa w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i
 - **1083)** ;
-- **2)** w przypadkach określonych w art. 92, art. 176–179, art. 182 , art. 185 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **2)** w przypadkach określonych w art. 92, art. 176–179, art. 182 3 , art. 185 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **3)** z powodu urlopu bezpłatnego udzielonego przez pracodawcę nie dłużej niż o 3 miesiące w okresie trwania stażu podyplomowego;
 - **4)** z powodu przerwy nie dłuższej niż 14 dni wynikającej z procedur stosowanych przy zmianie miejsca odbywania stażu podyplomowego;
 - **5)** z powodu powołania lekarza stażysty do odbycia przeszkolenia wojskowego;
@@ -2172,7 +2172,7 @@ source: pdf
 
 - **1)** w przypadkach przewidzianych w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
 - **2)** z powodu urlopu bezpłatnego udzielonego przez pracodawcę na czas nie dłuższy niż 3 miesiące w okresie trwania szkolenia specjalizacyjnego;
-- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 , art. 185, art. 186 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 3 , art. 185, art. 186 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **4)** z powodu urlopu bezpłatnego, nie dłuższego niż 2 lata, udzielonego przez pracodawcę w celu odbycia stażu zagranicznego zgodnego z programem odbywanego szkolenia specjalizacyjnego, po uzyskaniu zgody kierownika specjalizacji;
 - **5)** z powodu przerwy nie dłuższej niż 14 dni wynikającej z procedur stosowanych przy zmianie trybu lub miejsca odbywania szkolenia specjalizacyjnego;
 - **5a)** w przypadku, o którym mowa w art. 16i ust. 4a;

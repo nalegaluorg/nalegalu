@@ -1549,8 +1549,12 @@ source: pdf
 **Art. 135.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem:
 
 - **1)** art. 124, który wchodzi w życie z dniem ogłoszenia ;
-- **2)** art. 131 i art. 132, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia. Załączniki do ustawy z dnia 19 sierpnia 2011 r. (Dz. U. z 2024 r. poz.
-- **643)** Załącznik do ustawy z dnia 19 sierpnia 2011 r.
+- **2)** art. 131 i art. 132, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia.
+
+## Załączniki do ustawy z dnia 19 sierpnia 2011 r.
+
+(Dz. U. z 2024 r. poz.
+643) Załącznik do ustawy z dnia 19 sierpnia 2011 r.
 
 ## Załącznik nr 1 — Załącznik nr 2
 

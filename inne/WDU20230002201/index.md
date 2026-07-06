@@ -30,10 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 1) rozporządzeniem Ministra Finansów z dnia 4 sierpnia 2022 r. zmieniającym rozporządzenie w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. poz. 1699);
 2) rozporządzeniem Ministra Finansów z dnia 11 lipca 2023 r. zmieniającym rozporządzenie w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. poz. 1346).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Finansów z dnia 4 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. poz. 1699), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.”;
-2) § 2 i § 3 rozporządzenia Ministra Finansów z dnia 11 lipca 2023 r. zmieniającego rozporządzenie w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. poz. 1346), które stanowią: „§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie po raz pierwszy do planowania i wykonania budżetu państwa na rok 2024.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 grudnia 2009 r.
+1) § 2 rozporządzenia Ministra Finansów z dnia 4 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. poz. 1699), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.”;
+2) § 2 i § 3 rozporządzenia Ministra Finansów z dnia 11 lipca 2023 r. zmieniającego rozporządzenie w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. poz. 1346), które stanowią: „ § 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie po raz pierwszy do planowania i wykonania budżetu państwa na rok 2024. § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Finansów: M. Rzeczkowska
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 grudnia 2009 r.
 w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów Na podstawie art. 114 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) zarządza się, co następuje:
 § 1. Ustala się następującą klasyfikację części budżetowych:
 01. Kancelaria Prezydenta RP

@@ -34,10 +34,10 @@ Nr 259, poz. 1762);
 3) rozporządzeniem Rady Ministrów z dnia 7 stycznia 2013 r. zmieniającym rozporządzenie w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych (Dz. U.
 poz. 89).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Rady Ministrów z dnia 29 sierpnia 2006 r. zmieniającego rozporządzenie w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych (Dz. U. Nr 165, poz. 1169), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 27 grudnia 2010 r. zmieniającego rozporządzenie w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych (Dz. U. Nr 259, poz. 1762), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Rady Ministrów z dnia 7 stycznia 2013 r. zmieniającego rozporządzenie w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych (Dz. U. poz. 89), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE RADY MINISTRÓW z dnia 25 lutego 2003 r.
+1) § 2 rozporządzenia Rady Ministrów z dnia 29 sierpnia 2006 r. zmieniającego rozporządzenie w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych (Dz. U. Nr 165, poz. 1169), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 27 grudnia 2010 r. zmieniającego rozporządzenie w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych (Dz. U. Nr 259, poz. 1762), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Rady Ministrów z dnia 7 stycznia 2013 r. zmieniającego rozporządzenie w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych (Dz. U. poz. 89), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: D. Tusk
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 25 lutego 2003 r.
 w sprawie rozliczeń z bankami z tytułu przejściowego wykupienia ze środków budżetu państwa odsetek od kredytów mieszkaniowych Na podstawie art. 9 ust. 2 ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2013 r.
 poz. 763) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

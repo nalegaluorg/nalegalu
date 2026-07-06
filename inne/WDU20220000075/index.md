@@ -27,11 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 19 stycznia 2018 r. w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych (Dz. U. poz. 268), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 1 października 2020 r. zmieniającym rozporządzenie w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych (Dz. U. poz. 1710).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Finansów z dnia 1 października 2020 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych (Dz. U. poz. 1710), które stanowią: „§ 2. 1. Załącznik nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do odpisów aktualizujących należności utworzonych po dniu 16 kwietnia 2020 r.
-2. Limity pomniejszeń podstawy tworzenia odpisów aktualizujących określone w załączniku nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie stanowią podstawy rozwiązania odpisów aktualizujących utworzonych przed dniem 17 kwietnia 2020 r.
-§ 3. W sprawozdaniu finansowym kasy i sprawozdaniu finansowym małej kasy zakres informacji jest wykazywany zgodnie odpowiednio z załącznikiem nr 2 i 3 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, po raz pierwszy za rok obrotowy rozpoczynający się po dniu 31 grudnia 2020 r.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Finansów: T. Kościński RozpoRządzenie MINISTRA FINANSÓW z dnia 19 stycznia 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Finansów z dnia 1 października 2020 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych (Dz. U. poz. 1710), które stanowią: „ § 2. 1. Załącznik nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do odpisów aktualizujących należności utworzonych po dniu 16 kwietnia 2020 r. 2. Limity pomniejszeń podstawy tworzenia odpisów aktualizujących określone w załączniku nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie stanowią podstawy rozwiązania odpisów aktualizujących utworzonych przed dniem 17 kwietnia 2020 r. § 3. W sprawozdaniu finansowym kasy i sprawozdaniu finansowym małej kasy zakres informacji jest wykazywany zgodnie odpowiednio z załącznikiem nr 2 i 3 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, po raz pierwszy za rok obrotowy rozpoczynający się po dniu 31 grudnia 2020 r. § 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Finansów: T. Kościński
+RozpoRządzenie MINISTRA FINANSÓW z dnia 19 stycznia 2018 r.
 w sprawie szczególnych zasad rachunkowości spółdzielczych kas oszczędnościowo-kredytowych Na podstawie art. 81 ust. 2 pkt 8a ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106) zarządza się, co następuje:
 § 1. Rozporządzenie określa szczególne zasady rachunkowości spółdzielczych kas oszczędnościowo-kredytowych, w tym:
 1) zakres informacji wykazywanych w sprawozdaniu finansowym;
@@ -322,7 +319,6 @@ b) otrzymanych w poprzednich okresach przychodów z tytułu odsetek, w tym dysko
 2. Przepisy rozporządzenia mogą być stosowane do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 2017 r.
 § 33. Wartość bilansową wkładów na fundusz stabilizacyjny, wniesionych przed dniem 1 stycznia 2015 r., rozlicza się w równych kwotach proporcjonalnie w ciągu 20 lat i odnosi na fundusz własny jako „Zysk (strata) z lat ubiegłych”. Nierozliczoną część wkładów wykazuje się w bilansie po stronie aktywów.
 § 34. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Finansów z dnia 19 stycznia 2018 r.
 
 #### Rozdział 1 przepisy ogólne
 
@@ -339,6 +335,8 @@ Załączniki do rozporządzenia Ministra Finansów z dnia 19 stycznia 2018 r.
 #### Rozdział 6a przepisy epizodyczne
 
 #### Rozdział 7 przepisy przejściowe i końcowe
+
+## Załączniki do rozporządzenia Ministra Finansów z dnia 19 stycznia 2018 r.
 
 ## Załącznik nr 1 — LIMITY LIMITY POMNIEJSZENIA POMNIEJSZENIA PODSTAWY PODSTAWY TWORZENIA TWORZENIA ODPISÓW ODPISÓW AKTUALIZUJĄCYCH AKTUALIZUJĄCYCH Tabela nr 1 Limit pomniejszenia podstawy tworzenia odpisów aktualizujących, o których mowa w § 23 ust. 14 pkt 1 rozporządzenia.
 

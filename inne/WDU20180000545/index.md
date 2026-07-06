@@ -31,11 +31,9 @@ source: pdf
 3) ustawą z dnia 21 kwietnia 2017 r. o zmianie ustawy o kinematografii oraz niektórych innych ustaw (Dz. U. poz. 961) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 marca 2018 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 35 ustawy z dnia 4 września 2008 r. o zmianie ustaw w celu ujednolicenia terminologii informatycznej (Dz. U.
-Nr 171, poz. 1056), który stanowi: „Art. 35. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 12 pkt 5, art. 13, art. 17 pkt 2 oraz art. 28, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.”;
+Nr 171, poz. 1056), który stanowi: „ Art. 35. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 12 pkt 5, art. 13, art. 17 pkt 2 oraz art. 28, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.”;
 2) odnośnika nr 1 oraz art. 192 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529), które stanowią: „ Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 97/67/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 1997 r. w sprawie wspólnych zasad rozwoju rynku wewnętrznego usług pocztowych Wspólnoty oraz poprawy jakości usług (Dz. Urz. WE L 15 z 21.01.1998, str. 14, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 3, str. 71, z późn. zm.).” „Art. 192. Ustawa wchodzi w życie z dniem 1 stycznia 2013 r.”;
-3) art. 4 ustawy z dnia 21 kwietnia 2017 r. o zmianie ustawy o kinematografii oraz niektórych innych ustaw (Dz. U.
-poz. 961), który stanowi: „Art. 4. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: M. Kuchciński
+3) art. 4 ustawy z dnia 21 kwietnia 2017 r. o zmianie ustawy o kinematografii oraz niektórych innych ustaw (Dz. U. poz. 961), który stanowi: „ Art. 4. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 7 listopada 1996 r.
 o obowiązkowych egzemplarzach bibliotecznych
 

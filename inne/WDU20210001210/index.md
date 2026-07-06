@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w spra
 1) rozporządzeniem Ministra Klimatu z dnia 25 marca 2020 r. zmieniającym rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 529);
 2) rozporządzeniem Ministra Klimatu z dnia 24 września 2020 r. zmieniającym rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 1649).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Klimatu z dnia 25 marca 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 529), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Klimatu z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 1649), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”.
-Minister Klimatu i Środowiska: M. Kurtyka ROZPORZĄDZENIE MINISTRA ENERGII z dnia 28 sierpnia 2019 r.
+1) § 2 rozporządzenia Ministra Klimatu z dnia 25 marca 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 529), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Klimatu z dnia 24 września 2020 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 1649), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”. Minister Klimatu i Środowiska: M. Kurtyka
+ROZPORZĄDZENIE MINISTRA ENERGII z dnia 28 sierpnia 2019 r.
 w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych Na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r.
 poz. 1162) zarządza się, co następuje:
 § 1. Rozporządzenie określa wymagania bezpieczeństwa i higieny pracy przy eksploatacji urządzeń energetycznych.

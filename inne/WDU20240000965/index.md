@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zamknięć urzędowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 31 grudnia 2018 r. w sprawie zamknięć urzędowych (Dz. U. z 2019 r. poz. 1), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 18 kwietnia 2023 r. zmieniającym rozporządzenie w sprawie zamknięć urzędowych (Dz. U. poz. 736).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 18 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie zamknięć urzędowych (Dz. U. poz. 736), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Finansów: A. Domański ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 31 grudnia 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 18 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie zamknięć urzędowych (Dz. U. poz. 736), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Finansów: A. Domański
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 31 grudnia 2018 r.
 w sprawie zamknięć urzędowych Na podstawie art. 65 ust. 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
 poz. 615, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

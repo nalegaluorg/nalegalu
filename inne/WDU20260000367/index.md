@@ -1642,7 +1642,7 @@ source: pdf
 
 **Art. 36b.**
 
-1. Przełożony, o którym mowa w art. 36 ust. 1, realizuje w stosunku do funkcjonariusza pełniącego służbę w formie zdalnej obowiązki określone w art. 75a–75c w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
+1. Przełożony, o którym mowa w art. 36 ust. 1, realizuje w stosunku do funkcjonariusza pełniącego służbę w formie zdalnej obowiązki określone w art. 75a–75c w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 1 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
 
 2. Przełożony, o którym mowa w art. 36 ust. 1, lub osoba przez niego upoważniona przed rozpoczęciem przez funkcjonariusza służby pełnionej w formie zdalnej przekazują funkcjonariuszowi pełniącemu służbę w formie zdalnej informacje dotyczące:
 
@@ -2631,7 +2631,7 @@ source: pdf
 
 2. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228 § 1 i 2, art. 229 § 1–1 , 4a i 8 w zakresie niedotyczącym wskazówek metodycznych w sprawie przeprowadzania badań profilaktycznych pracowników oraz dokumentowania i kontroli badań okresowych i kontrolnych, art. 230–232, art. 234 § 1–3 , art. 235–235 , art. 237–237 , art. 237 § 1 pkt 1 i § 2–4, art. 237 § 1, art. 237 § 4 oraz art. 237 § 4.
 
-3. Przepisów art. 209 , art. 209 i art. 210 § 1–5 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy nie stosuje się do wykonywanych przez funkcjonariusza zadań określonych w:
+3. Przepisów art. 209 2 , art. 209 i art. 210 § 1–5 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy nie stosuje się do wykonywanych przez funkcjonariusza zadań określonych w:
 
 - **1)** art. 1 ust. 2 pkt 1, 2, 4–5b, 5d, 7, 10, 12–13a oraz ust. 2a;
 - **2)** art. 1 ust. 2 pkt 14 i ust. 3, jeżeli charakter tych działań ma związek z zadaniami określonymi w pkt 1.
@@ -2772,7 +2772,7 @@ source: pdf
 
 **Art. 83.**
 
-1. Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 i art. 188 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
+1. Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 i art. 188 1 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
 
 2. Jeżeli oboje rodzice lub opiekunowie są funkcjonariuszami albo jedno z nich jest funkcjonariuszem, a drugie pozostaje w stosunku pracy, z uprawnień, o których mowa w ust. 1, może korzystać jedno z nich.
 
@@ -3788,8 +3788,7 @@ source: pdf
 
 2. Zwolnienie lekarskie obejmuje okres, w którym funkcjonariusz jest zwolniony od zajęć służbowych z powodu:
 
-- **1)** choroby funkcjonariusza, w tym niemożności wykonywania zajęć służbowych z przyczyn określonych w art. 6 ust. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz.
-- **26)** ;
+- **1)** choroby funkcjonariusza, w tym niemożności wykonywania zajęć służbowych z przyczyn określonych w art. 6 ust. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26);
 - **2)** oddawania krwi lub jej składników w jednostkach organizacyjnych publicznej służby krwi lub z powodu okresowego badania lekarskiego dawców krwi;
 - **3)** konieczności osobistego sprawowania opieki nad chorym dzieckiem własnym lub małżonka funkcjonariusza, dzieckiem przysposobionym, dzieckiem przyjętym na wychowanie i utrzymanie, do ukończenia przez nie 14. roku życia;
 - **4)** konieczności osobistego sprawowania opieki nad chorym członkiem rodziny; za członków rodziny uważa się małżonka, rodziców, rodzica dziecka funkcjonariusza, ojczyma, macochę, teściów, dziadków, wnuki, rodzeństwo oraz dzieci w wieku powyżej 14 lat, jeżeli pozostają we wspólnym gospodarstwie domowym z funkcjonariuszem w okresie sprawowania nad nimi opieki;

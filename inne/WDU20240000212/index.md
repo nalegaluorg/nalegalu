@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie krajowej sieci obszarów wiejskich
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 18 marca 2009 r. w sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 436), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 28 września 2012 r. zmieniającym rozporządzenie w sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 1111).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 28 września 2012 r. zmieniającego rozporządzenie w sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 1111), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 18 marca 2009 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 28 września 2012 r. zmieniającego rozporządzenie w sprawie krajowej sieci obszarów wiejskich (Dz. U. poz. 1111), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: D. Tusk
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 18 marca 2009 r.
 w sprawie krajowej sieci obszarów wiejskich Na podstawie art. 37a ust. 7 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2023 r. poz. 1105) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) szczegółowy zakres zadań Sekretariatu Centralnego i sekretariatów regionalnych w ramach krajowej sieci obszarów wiejskich (KSOW) oraz sposób ich wykonywania;

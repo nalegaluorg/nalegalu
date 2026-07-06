@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie komisji bioetycznej oraz Odwoławczej Komisji Bioetycznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 26 stycznia 2023 r. w sprawie komisji bioetycznej oraz Odwoławczej Komisji Bioetycznej (Dz. U. poz. 218), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 18 października 2023 r. zmieniającym rozporządzenie w sprawie komisji bioetycznej oraz Odwoławczej Komisji Bioetycznej (Dz. U.
 poz. 2262).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 18 października 2023 r. zmieniającego rozporządzenie w sprawie komisji bioetycznej oraz Odwoławczej Komisji Bioetycznej (Dz. U. poz. 2262), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: wz. W. Konieczny ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 26 stycznia 2023 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 18 października 2023 r. zmieniającego rozporządzenie w sprawie komisji bioetycznej oraz Odwoławczej Komisji Bioetycznej (Dz. U. poz. 2262), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: wz. W. Konieczny
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 26 stycznia 2023 r.
 w sprawie komisji bioetycznej oraz Odwoławczej Komisji Bioetycznej Na podstawie art. 29 ust. 26 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r.
 poz. 1287) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

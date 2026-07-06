@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia ministra spraw wewnętrznych w sprawie wzoru zaświadczenia, wzoru legitymacji weterana-funkcjonariusza albo weterana poszkodowanego-funkcjonariusza
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 29 marca 2012 r. w sprawie wzoru zaświadczenia, wzoru legitymacji weterana-funkcjonariusza albo weterana poszkodowanego-funkcjonariusza (Dz. U. z 2013 r. poz. 1470), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietnia 2016 r. zmieniającym rozporządzenie w sprawie wzoru zaświadczenia, wzoru legitymacji weterana-funkcjonariusza albo weterana poszkodowanego-funkcjonariusza (Dz. U. poz. 581).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietnia 2016 r. zmieniającego rozporządzenie w sprawie wzoru zaświadczenia, wzoru legitymacji weterana-funkcjonariusza albo weterana poszkodowanego-funkcjonariusza (Dz. U.
-poz. 581), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak rOzpOrzĄdzenie ministra spraw wewnętrznych z dnia 29 marca 2012 r.
+poz. 581), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+rOzpOrzĄdzenie ministra spraw wewnętrznych z dnia 29 marca 2012 r.
 w sprawie wzoru zaświadczenia, wzoru legitymacji weterana-funkcjonariusza albo weterana poszkodowanego-funkcjonariusza Na podstawie art. 10 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. poz. 1203 oraz z 2017 r. poz. 60) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) wzór zaświadczenia, o którym mowa w art. 7 ust. 1 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, zwanej dalej „ustawą”;
@@ -59,7 +59,9 @@ uczestniczył/a w działaniach poza granicami państwa .........................
 od ............................................................................................. do .............................................................................................
 i zajmował/a stanowisko ............................................................................................................................................................
 .......................................................................
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych Załączniki do i Administracji rozporządzenia z dnia Ministra 19 kwietnia Spraw 2016 Wewnętrznych r. (poz. …) i Administracji z dnia 19 kwietnia 2016 r. (poz. …) Załącznik nr 1 Załącznik nr 1 WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA WZÓR LEGITYMACJI Wzór WETERANA-FUNKCJONARIUSZA graficzny Wzór graficzny Wzór str. graficzny 1 str. 1 str. 1 str. 2 str. 2 str. 2 Opis: Legitymacja w postaci karty wykonanej z PVC w formacie według standardu ISO 7810 ID-1: 53,98 x 85,6 x 0,76 mm.
+
+## Załącznik nr 1 — Załącznik nr 1 WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA WZÓR LEGITYMACJI WETERANA-FUNKCJONARIUSZA WZÓR LEGITYMACJI Wzór WETERANA-FUNKCJONARIUSZA graficzny Wzór graficzny Wzór str. graficzny 1 str. 1 str. 1 str. 2 str. 2 str. 2 Opis: Legitymacja w postaci karty wykonanej z PVC w formacie według standardu ISO 7810 ID-1: 53,98 x 85,6 x 0,76 mm.
+
 Awers legitymacji:
 1. Tło w kolorze zielono-żółtym cieniowanym.
 2. W lewym górnym rogu wizerunek orła według wzoru ustalonego dla godła Rzeczypospolitej Polskiej, w kolorze srebrnym.

@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie tworzenia i działania komitetów w portach lotniczych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury z dnia 13 sierpnia 2020 r. w sprawie tworzenia i działania komitetów w portach lotniczych (Dz. U. poz. 1471), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Infrastruktury z dnia 31 marca 2021 r. zmieniającym rozporządzenie w sprawie tworzenia i działania komitetów w portach lotniczych (Dz. U.
 poz. 660).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 31 marca 2021 r. zmieniającego rozporządzenie w sprawie tworzenia i działania komitetów w portach lotniczych (Dz. U. poz. 660), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 13 sierpnia 2020 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 31 marca 2021 r. zmieniającego rozporządzenie w sprawie tworzenia i działania komitetów w portach lotniczych (Dz. U. poz. 660), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Infrastruktury: A. Adamczyk
+ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 13 sierpnia 2020 r.
 w sprawie tworzenia i działania komitetów w portach lotniczych Na podstawie art. 67 ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970 oraz z 2021 r.
 poz. 784 i 847) zarządza się, co następuje:
 § 1. Rozporządzenie określa szczegółowy sposób i tryb tworzenia i działania komitetu koordynacyjnego oraz komitetu przewoźników lotniczych.

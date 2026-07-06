@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie katowickiej specjalnej strefy ekonomicznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie katowickiej specjalnej strefy ekonomicznej (Dz. U. z 2018 r.
 poz. 414), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 3 września 2018 r. zmieniającym rozporządzenie w sprawie katowickiej specjalnej strefy ekonomicznej (Dz. U. poz. 1889).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 3 września 2018 r. zmieniającego rozporządzenie w sprawie katowickiej specjalnej strefy ekonomicznej (Dz. U. poz. 1889), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 grudnia 2008 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 3 września 2018 r. zmieniającego rozporządzenie w sprawie katowickiej specjalnej strefy ekonomicznej (Dz. U. poz. 1889), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 grudnia 2008 r.
 w sprawie katowickiej specjalnej strefy ekonomicznej Na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2019 r.
 poz. 482 i 2020) zarządza się, co następuje:
 § 1. 1. Katowicka Specjalna Strefa Ekonomiczna ustanowiona rozporządzeniem Rady Ministrów z dnia 18 czerwca 1996 r. w sprawie ustanowienia katowickiej specjalnej strefy ekonomicznej (Dz. U. poz. 397, z późn. zm. ), zwana dalej „strefą”, obejmuje teren wyznaczony granicami, których opis stanowi załącznik do niniejszego rozporządzenia.

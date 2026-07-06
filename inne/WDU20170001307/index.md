@@ -69,7 +69,9 @@ Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rzą
 w sprawie legitymacji pracowników ochrony (Dz. U. poz. 1630), mogą być stosowane.
 § 10. Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.
 Minister Spraw Wewnętrznych i Administracji: M. Błaszczak Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych z dnia 11 grudnia 2013 r. w sprawie legitymacji pracowników ochrony (Dz. U. poz. 1630), które na podstawie art. 34 ust. 1 ustawy z dnia 16 grudnia 2016 r. o zmianie niektórych ustaw w celu poprawy otoczenia prawnego przedsiębiorców (Dz. U. poz. 2255) traci moc z dniem 30 czerwca 2017 r.
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 29 czerwca…………………2017 r.
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 29 czerwca…………………2017 r.
+
 (poz. …) Załącznik nr 1 Wzór legitymacji pracownika ochrony Załączniki fizycznej do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 29 czerwca 2017 r. (poz. 1307) Załącznik nr 1 WZóR LEgityMAcJi PRAcoWNikA ochRoNy fiZycZNEJ awers LEGITYMACJA Fotografia PRACOWNIKA o wymiarach OCHRONY 35x25 mm FIZYCZNEJ Nr …..………………… .………………………………………………………………………… (imię i nazwisko pracownika ochrony) .………………………………………………………………………… (wydana przez) .………………………………………………………………………… .………………………………………………………………………… .………………………………………………………………………… (oznaczenie przedsiębiorcy wydającego dokument, firma przedsiębiorcy, siedziba i adres, numer telefonu oraz numer koncesji) ………………………………………………………………………….
 (pieczęć podmiotu wystawiającego dokument)* …………………………..…………………………………………..….
 (data i miejsce wydania, imię i nazwisko oraz podpis wystawiającego dokument) * Pieczęć podmiotu wystawiającego dokument nie jest elementem obligatoryjnym.

@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 marca 2000 r. o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. z 2019 r. poz.
 1381), z uwzględnieniem zmian wprowadzonych ustawą z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. poz. 2374) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 lipca 2021 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. poz. 2374), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem 1 stycznia 2021 r.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. poz. 2374), który stanowi: „ Art. 2. Ustawa wchodzi w życie z dniem 1 stycznia 2021 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 16 marca 2000 r.
 o Chrześcijańskiej Akademii Teologicznej w Warszawie
 

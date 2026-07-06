@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 18 marca 2013 r. w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty (Dz. U. poz. 400), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Klimatu i Środowiska z dnia 14 września 2021 r. zmieniającym rozporządzenie w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty (Dz. U. poz. 1735).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 14 września 2021 r. zmieniającego rozporządzenie w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty (Dz. U. poz. 1735), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 marca 2013 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 14 września 2021 r. zmieniającego rozporządzenie w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty (Dz. U. poz. 1735), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: A. Moskwa
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 marca 2013 r.
 w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty Na podstawie art. 12 ust. 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916) zarządza się, co następuje:
 § 1. Określa się parki narodowe, gdzie za wstęp pobiera się opłaty:
 1) Babiogórski Park Narodowy;

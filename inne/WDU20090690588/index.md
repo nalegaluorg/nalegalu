@@ -38,5 +38,7 @@ source: pdf
 - **4)** po załączniku nr 3 dodaje się załącznik nr 3a w brzmieniu określonym w załączniku nr 1 do niniejszej ustawy;
 - **5)** dodaje się załącznik nr 15 w brzmieniu określonym w załączniku nr 2 do niniejszej ustawy.
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Załączniki do ustawy z dnia 5 marca 2009 r. (poz. 588) Załącznik nr 1 „Załącznik nr 3a ORZEŁ WOJSK SPECJALNYCH ” Załącznik nr 2 „Załącznik nr 15 FLAGA WOJSK SPECJALNYCH 1:2, 1 strona główna strona odwrotna „
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik nr 1 — „Załącznik nr 3a ORZEŁ WOJSK SPECJALNYCH ” Załącznik nr 2 „Załącznik nr 15 FLAGA WOJSK SPECJALNYCH 1:2, 1 strona główna strona odwrotna „
 

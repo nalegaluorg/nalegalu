@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U.
 z 2024 r. poz. 104), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 497) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 października 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 497), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 497), który stanowi: „ Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 17 grudnia 2004 r.
 o odpowiedzialności za naruszenie dyscypliny finansów publicznych
 

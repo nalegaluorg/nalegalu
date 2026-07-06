@@ -34,11 +34,9 @@ source: pdf
 - **3)** w art. 3:
     - **a)** ust. 3 i 4 otrzymują brzmienie: ,,3. Członkiem spółdzielni może być osoba prawna, jednakże takiej osobie nie przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego.
 
-4. Wysokość wpisowego nie może przekraczać wysokości 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz.U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz.
+4. Wysokość wpisowego nie może przekraczać wysokości 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz.U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz. 1314).”,
 
-- **1314)** .”,
-    - **b)** dodaje się ust. 5 w brzmieniu: ,,5. Jeżeli prawo odrębnej własności lokalu albo spółdzielcze własnościowe prawo do lokalu należy do kilku osób, członkiem spółdzielni jest tylko jedna z nich, chyba że przysługuje ono wspólnie małżonkom. W wypadku zgłoszenia się kilku uprawnionych rozstrzyga sąd w postępowaniu nieprocesowym. Po bezskutecznym upływie wyznaczonego przez spółdzielnię terminu wystąpienia do sądu wyboru dokonuje spółdzielnia.”;
-
+- **b)** dodaje się ust. 5 w brzmieniu: ,,5. Jeżeli prawo odrębnej własności lokalu albo spółdzielcze własnościowe prawo do lokalu należy do kilku osób, członkiem spółdzielni jest tylko jedna z nich, chyba że przysługuje ono wspólnie małżonkom. W wypadku zgłoszenia się kilku uprawnionych rozstrzyga sąd w postępowaniu nieprocesowym. Po bezskutecznym upływie wyznaczonego przez spółdzielnię terminu wystąpienia do sądu wyboru dokonuje spółdzielnia.”;
 - **4)** w art. 4:
     - **a)** ust. 1-4 otrzymują brzmienie: „1. Członkowie spółdzielni, którym przysługują spółdzielcze prawa do lokali, są obowiązani uczestniczyć w pokrywaniu kosztów związanych z eksploatacją i utrzymaniem nieruchomości w częściach przypadających na ich lokale, eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni przez uiszczanie opłat zgodnie z postanowieniami statutu. 1 . Osoby niebędące członkami spółdzielni, którym przysługują spółdzielcze własnościowe prawa do lokali, są obowiązane uczestniczyć w pokrywaniu kosztów związanych z eksploatacją i utrzymaniem nieruchomości w częściach przypadających na ich lokale, eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni przez uiszczanie opłat na takich samych zasadach, jak członkowie spółdzielni, z zastrzeżeniem art. 5. 2. Członkowie spółdzielni będący właścicielami lokali są obowiązani uczestniczyć w pokrywaniu kosztów związanych z eksploatacją i utrzymaniem ich lokali, eksploatacją i utrzymaniem nieruchomości wspólnych, eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni przez uiszczanie opłat zgodnie z postanowieniami statutu. 3. Członkowie spółdzielni, którzy oczekują na ustanowienie na ich rzecz spółdzielczego lokatorskiego prawa do lokalu mieszkalnego albo prawa odrębnej własności lokalu, są obowiązani uczestniczyć w pokrywaniu kosztów budowy lokali przez wnoszenie wkładów mieszkaniowych lub budowlanych. Od chwili postawienia im lokali do dyspozycji uiszczają oni opłaty określone w ust. 1 albo 2. 4. Właściciele lokali niebędący członkami spółdzielni są obowiązani uczestniczyć w pokrywaniu kosztów związanych z eksploatacją i utrzymaniem ich lokali, eksploatacją i utrzymaniem nieruchomości wspólnych. Są oni również obowiązani uczestniczyć w wydatkach związanych z eksploatacją i utrzymaniem nieruchomości stanowiących mienie spółdzielni, które są przeznaczone do wspólnego korzystania przez osoby zamieszkujące w określonych budynkach lub osiedlu. Obowiązki te wykonują przez uiszczanie opłat na takich samych zasadach, jak członkowie spółdzielni, z zastrzeżeniem art. 5.”,
     - **b)** po ust. 4 dodaje się ust. 4 w brzmieniu: „4 . Zarząd spółdzielni prowadzi odrębnie dla każdej nieruchomości: 1) ewidencję i rozliczenie przychodów i kosztów, o których mowa w ust. 1-2 i 4, 2) ewidencję wpływów i wydatków funduszu remontowego zgodnie z art. 6 ust. 3; ewidencja wpływów i wydatków funduszu remontowego na poszczególne nieruchomości powinna uwzględniać wszystkie wpływy i wydatki funduszu remontowego tych nieruchomości.”,
@@ -131,7 +129,7 @@ source: pdf
 - **c)** ust. 2 otrzymuje brzmienie: „2. W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia, z zastrzeżeniem art. 15, ogłasza nie później niż w ciągu 3 miesięcy od dnia opróżnienia lokalu, zgodnie z postanowieniami statutu, przetarg na ustanowienie odrębnej własności tego lokalu, zawiadamiając o przetargu w sposób określony w statucie oraz przez publikację ogłoszenia w prasie lokalnej. Pierwszeństwo w nabyciu lokalu mają członkowie, którzy nie mają zaspokojonych potrzeb mieszkaniowych i zgłoszą gotowość zawarcia umowy o ustanowienie i przeniesienie odrębnej własności tego lokalu. W przypadku zgłoszenia się kilku uprawnionych, pierwszeństwo ma najdłużej oczekujący. Warunkiem przeniesienia odrębnej własności lokalu na takiego członka jest wpłata wartości rynkowej lokalu.”,
 - **d)** ust. 2 otrzymuje brzmienie: „2 W wypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia wypłaca osobie uprawnionej wartość rynkową tego lokalu. Przysługująca osobie uprawnionej wartość rynkowa nie może być wyższa od kwoty, jaką spółdzielnia uzyska od osoby obejmującej lokal w wyniku przetargu przeprowadzonego przez spółdzielnię zgodnie z postanowieniami statutu.”,
 - **e)** po ust. 2 dodaje się ust. 2 2 w brzmieniu: „2 . Z wartości rynkowej lokalu potrąca się przypadającą na dany lokal część zobowiązań spółdzielni związanych z budową, o których mowa w art. 10 ust. 1 pkt 1, w tym w szczególności niewniesiony wkład mieszkaniowy. Jeżeli spółdzielnia skorzystała z pomocy uzyskanej ze środków publicznych lub z innych środków, potrąca się również nominalną kwotę umorzenia kredytu lub dotacji, w części przypadającej na ten lokal oraz kwoty zaległych opłat, o których mowa w art. 4 ust. 1, a także koszty określenia wartości rynkowej lokalu. 2 . Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają członka spółdzielni, na rzecz którego spółdzielnia dokonuje przeniesienia własności lokalu. 2 . Warunkiem wypłaty, o której mowa w ust. 2 , jest opróżnienie lokalu.”;
-- **12)** uchyla się art. 11 ;
+- **12)** uchyla się art. 11 1 ;
 - **13)** w art. 12:
     - **a)** ust. 1 otrzymuje brzmienie: ,,1. Na pisemne żądanie członka, któremu przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, spółdzielnia jest obowiązana zawrzeć z tym członkiem umowę przeniesienia własności lokalu po dokonaniu przez niego:
 
@@ -144,7 +142,7 @@ source: pdf
 
 5. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.”;
 
-- **14)** uchyla się art. 12 ;
+- **14)** uchyla się art. 12 2 ;
 - **15)** w art. 15:
     - **a)** ust. 1 i 2 otrzymują brzmienie: ,,1. W wypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego w następstwie niedokonania czynności, o których mowa w art. 13, roszczenia o przyjęcie do spółdzielni i zawarcie umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego przysługują dzieciom i innym osobom bliskim.
 
@@ -157,7 +155,7 @@ source: pdf
     - **b)** ust. 6 otrzymuje brzmienie: „6. Spółdzielnia nie może odmówić przyjęcia w poczet członków nabywcy spółdzielczego własnościowego prawa do lokalu, jeżeli odpowiada on wymaganiom statutu. Dotyczy to również spadkobiercy, zapisobiorcy i licytanta.”;
 
 - **17)** w art. 17 uchyla się ust. 5;
-- **18)** uchyla się art. 17 -17 ;
+- **18)** uchyla się art. 17 3 -17 ;
 - **19)** w art. 17 uchyla się ust. 2;
 - **20)** w art. 17 ust. 1 i 2 otrzymują brzmienie: ,,1. W wypadku wygaśnięcia spółdzielczego własnościowego prawa do lokalu spółdzielnia wypłaca osobie uprawnionej wartość rynkową lokalu. Przysługująca osobie uprawnionej wartość rynkowa, ustalona w sposób przewidziany w ust. 2, nie może być wyższa od kwoty, jaką spółdzielnia uzyska od osoby obejmującej lokal w wyniku przetargu przeprowadzonego przez spółdzielnię, zgodnie z postanowieniami statutu.
 
@@ -175,21 +173,21 @@ source: pdf
     - **b)** po ust. 1 dodaje się 1 w brzmieniu: „1 . Spółdzielnia mieszkaniowa zawiera umowę, o której mowa w ust. 1, w terminie 3 miesięcy od dnia złożenia wniosku przez osobę uprawnioną, chyba że nieruchomość posiada nieuregulowany stan prawny w rozumieniu art. 113 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami lub spółdzielni nie przysługuje prawo własności lub użytkowania wieczystego gruntu , na którym wybudowała budynek lub wybudowali go jej poprzednicy prawni.”,
     - **c)** ust. 3 otrzymuje brzmienie: ,,3. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/4 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.”;
 
-- **23)** art. 17 otrzymuje brzmienie: ,,Art. 17 . Przepisy art. 17 ust. 6, art. 17 ust. 1, 3, 4 i 6, art. 17 , art. 17 , art. 17 -17 i art. 17 -17 stosuje się odpowiednio do miejsc postojowych w garażach wielostanowiskowych i garaży wolnostojących.”;
+- **23)** art. 17 otrzymuje brzmienie: ,,Art. 17 . Przepisy art. 17 ust. 6, art. 17 ust. 1, 3, 4 i 6, art. 17 6 , art. 17 7 , art. 17 9 -17 i art. 17 16 -17 stosuje się odpowiednio do miejsc postojowych w garażach wielostanowiskowych i garaży wolnostojących.”;
 - **24)** w art. 18:
     - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) zobowiązanie członka spółdzielni do pokrywania kosztów zadania inwestycyjnego w części przypadającej na jego lokal przez wniesienie wkładu budowlanego określonego w umowie;”,
     - **b)** dodaje ust. 4 w brzmieniu: „4. Rozliczenie kosztów budowy następuje w terminie 6 miesięcy od dnia oddania budynku do użytkowania.”;
 
 - **25)** w art. 23 uchyla się ust. 1;
 - **26)** w art. 26 ust. 1 otrzymuje brzmienie: „1. Jeżeli w określonym budynku lub budynkach położonych w obrębie danej nieruchomości została wyodrębniona własność wszystkich lokali, po wyodrębnieniu własności ostatniego lokalu stosuje się przepisy ustawy z dnia 24 czerwca 1994 r. o własności lokali, niezależnie od pozostawania przez właścicieli członkami spółdzielni.”;
-- **27)** art. 27 otrzymuje brzmienie: ,,Art. 27 . Przepisy art. 18-22, art. 23 ust. 2, art. 24, art. 24 , art. 26 i art. 27 stosuje się odpowiednio do ułamkowego udziału we współwłasności garażu wielostanowiskowego.”;
+- **27)** art. 27 otrzymuje brzmienie: ,,Art. 27 . Przepisy art. 18-22, art. 23 ust. 2, art. 24, art. 24 1 , art. 26 i art. 27 stosuje się odpowiednio do ułamkowego udziału we współwłasności garażu wielostanowiskowego.”;
 - **28)** po art. 27 dodaje się rozdział 3 w brzmieniu:
 
-**Art. 27².** Kto, będąc członkiem zarządu spółdzielni mieszkaniowej, pełnomocnikiem, prokurentem, syndykiem albo likwidatorem, wbrew obowiązkowi dopuszcza do tego, że spółdzielnia nie zawiera umowy o przeniesienie własności lokalu, o której mowa w art. 12 ust. 1, art. 17 ust. 1, art. 17 , art. 39, art. 48 lub art. 48 podlega karze ograniczenia wolności albo grzywny.
+**Art. 27².** Kto, będąc członkiem zarządu spółdzielni mieszkaniowej, pełnomocnikiem, prokurentem, syndykiem albo likwidatorem, wbrew obowiązkowi dopuszcza do tego, że spółdzielnia nie zawiera umowy o przeniesienie własności lokalu, o której mowa w art. 12 ust. 1, art. 17 ust. 1, art. 17 15 , art. 39, art. 48 lub art. 48 podlega karze ograniczenia wolności albo grzywny.
 
 **Art. 27³.** Kto, będąc członkiem zarządu spółdzielni mieszkaniowej, pełnomocnikiem, albo likwidatorem, wbrew obowiązkowi dopuszcza do tego, że spółdzielnia:
 
-- **1)** nie udostępnia członkowi spółdzielni mieszkaniowej odpisów oraz kopii dokumentów, o których mowa w art. 8 ,
+- **1)** nie udostępnia członkowi spółdzielni mieszkaniowej odpisów oraz kopii dokumentów, o których mowa w art. 8 1 ,
 - **2)** nie rozlicza kosztów budowy lokalu w terminach, o których mowa w art. 10 ust. 3 albo art. 18 ust. 4 – podlega karze grzywny
 
 **Art. 27⁴.** W sprawach o czyny, o których mowa w art. 27 i 27 , orzekanie następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.”;

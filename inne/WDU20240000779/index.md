@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospol
 1) rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 14 lipca 2022 r. zmieniającym rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 1491);
 2) rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. zmieniającym rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 249).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lipca 2022 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 1491), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 15 lipca 2022 r.”;
-2) § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 249), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni do dnia ogłoszenia.”.
-Prezydent Rzeczypospolitej Polskiej: A. Duda ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 sierpnia 2015 r.
+1) § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lipca 2022 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 1491), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 15 lipca 2022 r.”;
+2) § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. zmieniającego rozporządzenie – Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych (Dz. U. poz. 249), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni do dnia ogłoszenia.”. Prezydent Rzeczypospolitej Polskiej: A. Duda
+ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 sierpnia 2015 r.
 Regulamin wewnętrznego urzędowania wojewódzkich sądów administracyjnych Na podstawie art. 23 § 1 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2022 r.
 poz. 2492 oraz z 2023 r. poz. 1615) zarządza się, co następuje:
 § 1. 1. Rozporządzenie określa wewnętrzną organizację i porządek funkcjonowania wojewódzkich sądów administracyjnych, tryb czynności sądowych, tryb wyznaczania składów orzekających oraz przypadki wyznaczania tych składów w drodze losowania i zasady losowania.

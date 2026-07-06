@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie krakowskiej specjalnej strefy ekonomicznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie krakowskiej specjalnej strefy ekonomicznej (Dz. U.
 z 2017 r. poz. 2121), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 10 czerwca 2019 r. zmieniającym rozporządzenie w sprawie krakowskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1101).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 10 czerwca 2019 r. zmieniającego rozporządzenie w sprawie krakowskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1101), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 grudnia 2008 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 10 czerwca 2019 r. zmieniającego rozporządzenie w sprawie krakowskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1101), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 15 grudnia 2008 r.
 w sprawie krakowskiej specjalnej strefy ekonomicznej Na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U.
 z 2019 r. poz. 482 i 2020 oraz z 2020 r. poz. 284) zarządza się, co następuje:
 § 1. 1. Krakowski Park Technologiczny ustanowiony rozporządzeniem Rady Ministrów z dnia 14 października 1997 r. w sprawie ustanowienia specjalnej strefy ekonomicznej w Krakowie (Dz. U. poz. 912, z późn. zm. ), zwany dalej „strefą”, obejmuje teren wyznaczony granicami, których opis stanowi załącznik do niniejszego rozporządzenia.

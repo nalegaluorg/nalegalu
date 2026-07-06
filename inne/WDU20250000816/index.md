@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000816) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/816/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 lutego 1993 r. o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1351), z uwzględnieniem zmian wprowadzonych ustawą z dnia 6 lutego 2025 r. o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 295) oraz zmian wynikających z przepisów ogłoszonych przed dniem 3 czerwca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 6 lutego 2025 r. o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 295), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 6 lutego 2025 r. o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 295), który stanowi: „ Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 19 lutego 1993 r.
 o znakach Sił Zbrojnych Rzeczypospolitej Polskiej
 

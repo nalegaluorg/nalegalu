@@ -26,10 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1284/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 lipca 1999 r. o utworzeniu Uniwersytetu Warmińsko-Mazurskiego w Olsztynie (Dz. U. Nr 69, poz. 762), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2019 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „Art. 350. Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
-1) art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.”.
-Marszałek Sejmu: M. Kuchciński
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „ Art. 350. Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem: 1) art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 9 lipca 1999 r.
 o utworzeniu Uniwersytetu Warmińsko-Mazurskiego w Olsztynie
 

@@ -6106,6 +6106,7 @@ source: pdf
 **Art. 139.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r., z wyjątkiem:
 
 - **1)** rozdziału 13 i art. 136, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
-- **2)** art. 21 ust. 2 i art. 27 ust. 2, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia. Załączniki do ustawy z dnia 29 2000 r. (Dz. U. z 2026 r. poz.
+- **2)** art. 21 ust. 2 i art. 27 ust. 2, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia.
 
+## Załączniki do ustawy z dnia 29 2000 r. (Dz. U. z 2026 r. poz.
 

@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie określenia priorytetowych dziedzin medycyny
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 27 grudnia 2022 r. w sprawie określenia priorytetowych dziedzin medycyny (Dz. U.
 poz. 2814), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 1 sierpnia 2023 r. zmieniającym rozporządzenie w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. poz. 1503).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 1 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. poz. 1503), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2023 r.”.
-Minister Zdrowia: wz. W. Konieczny ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 grudnia 2022 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 1 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. poz. 1503), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2023 r.”. Minister Zdrowia: wz. W. Konieczny
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 grudnia 2022 r.
 w sprawie określenia priorytetowych dziedzin medycyny Na podstawie art. 16g ust. 4 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r.
 poz. 1516, 1617, 1831 i 1972) zarządza się, co następuje:
 § 1. Priorytetowymi dziedzinami medycyny są:

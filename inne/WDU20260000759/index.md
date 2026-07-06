@@ -26,20 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000759) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/759/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym (Dz. U. z 2023 r. poz. 35), z uwzględnieniem stanu prawnego na dzień 28 maja 2026 r. oraz zmian wprowadzonych ustawą z dnia 7 listopada 2025 r. o zmianie ustawy o imprezach turystycznych i powiązanych usługach turystycznych oraz niektórych innych ustaw (Dz. U. poz. 1806).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4 i art. 6 ustawy z dnia 7 listopada 2025 r. o zmianie ustawy o imprezach turystycznych i powiązanych usługach turystycznych oraz niektórych innych ustaw (Dz. U. poz. 1806), które stanowią: „Art. 4. 1. W latach 2026–2035 maksymalny limit wydatków budżetu państwa, będących skutkiem finansowym wejścia w życie ustawy w zakresie określonym w art. 3, wynosi w roku:
-1) 2026 – 1 420 tys. zł;
-2) 2027 – 1 145 tys. zł;
-3) 2028 – 759 tys. zł;
-4) 2029 – 231 tys. zł;
-5) 2030 – 100 tys. zł;
-6) 2031 – 100 tys. zł;
-7) 2032 – 100 tys. zł;
-8) 2033 – 100 tys. zł;
-9) 2034 – 100 tys. zł;
-10) 2035 – 100 tys. zł.
-2. W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, w szczególności w przypadku przekroczenia w pierwszym półroczu danego roku 65 % limitu określonego w ust. 1, Polska Organizacja Turystyczna przygotowuje propozycję mechanizmu korygującego, polegającego na obniżeniu wysokości tych wydatków w drugim półroczu do poziomu gwarantującego, że limit ten nie zostanie przekroczony, i przedkłada ją do akceptacji ministrowi właściwemu do spraw turystyki.
-3. Polska Organizacja Turystyczna monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża zaakceptowany mechanizm korygujący, o którym mowa w ust. 2.” „Art. 6. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 1 pkt 1 lit. a, pkt 2 oraz pkt 9, w zakresie zmienianego art. 31 pkt 3, które wchodzą w życie z dniem 1 lipca 2026 r.”.
-Marszałek Sejmu: W. Czarzasty
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4 i art. 6 ustawy z dnia 7 listopada 2025 r. o zmianie ustawy o imprezach turystycznych i powiązanych usługach turystycznych oraz niektórych innych ustaw (Dz. U. poz. 1806), które stanowią: „ Art. 4. 1. W latach 2026–2035 maksymalny limit wydatków budżetu państwa, będących skutkiem finansowym wejścia w życie ustawy w zakresie określonym w art. 3, wynosi w roku: 1) 2026 – 1 420 tys. zł; 2) 2027 – 1 145 tys. zł; 3) 2028 – 759 tys. zł; 4) 2029 – 231 tys. zł; 5) 2030 – 100 tys. zł; 6) 2031 – 100 tys. zł; 7) 2032 – 100 tys. zł; 8) 2033 – 100 tys. zł; 9) 2034 – 100 tys. zł; 10) 2035 – 100 tys. zł. 2. W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, w szczególności w przypadku przekroczenia w pierwszym półroczu danego roku 65 % limitu określonego w ust. 1, Polska Organizacja Turystyczna przygotowuje propozycję mechanizmu korygującego, polegającego na obniżeniu wysokości tych wydatków w drugim półroczu do poziomu gwarantującego, że limit ten nie zostanie przekroczony, i przedkłada ją do akceptacji ministrowi właściwemu do spraw turystyki. 3. Polska Organizacja Turystyczna monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża zaakceptowany mechanizm korygujący, o którym mowa w ust. 2.” „Art. 6. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 1 pkt 1 lit. a, pkt 2 oraz pkt 9, w zakresie zmienianego art. 31 pkt 3, które wchodzą w życie z dniem 1 lipca 2026 r.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 15 lipca 2020 r.
 o Polskim Bonie Turystycznym
 

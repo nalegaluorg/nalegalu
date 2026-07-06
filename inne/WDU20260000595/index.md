@@ -8,12 +8,10 @@ pos: 595
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielczych kasach oszczędnościowo-kredytowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o spółdzielczych kasach oszczędnościowo-kredytowych
 
 | Pole | Wartość |
 |---|---|
@@ -30,20 +28,18 @@ source: "isap-pdf"
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379), z uwzględnieniem stanu prawnego na dzień 30 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820);
 2) ustawą z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069);
-3) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1191);
-4) ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1170);
+3) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1191);
+4) ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1170);
 5) ustawą z dnia 23 stycznia 2026 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz niektórych innych ustaw (Dz. U. poz. 331).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 34 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U.
-poz. 820), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 27, art. 28 i art. 30, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 17 i art. 20 ustawy z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069), które stanowią: „Art. 17. Przepis art. 3c pkt 1 ustawy zmienianej w art. 4 w zakresie wyłączenia stosowania przepisu art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniającego rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ) oraz przepis art. 2a ust. 2 ustawy zmienianej w art. 9 w zakresie wyłączenia stosowania przepisu art. 16 tego rozporządzenia mają zastosowanie po upływie roku od dnia wejścia w życie niniejszej ustawy.” „Art. 20. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-3) art. 5 i art. 6 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U.
-poz. 1191), które stanowią: „Art. 5. Bank i spółdzielcza kasa oszczędnościowo-kredytowa posiadające w dniu wejścia w życie niniejszej ustawy dostęp do danych na podstawie decyzji, o której mowa w art. 51 ust. 2 pkt 1 ustawy zmienianej w art. 4, w brzmieniu dotychczasowym, uzyskują dostęp do danych określonych w art. 49 ust. 2aa ustawy zmienianej w art. 4 bez konieczności składania pisemnego wniosku do ministra właściwego do spraw informatyzacji.
-Art. 80a–85d. (pominięte)
-
-**Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
-
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+poz. 820), który stanowi: „ Art. 34. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 27, art. 28 i art. 30, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) art. 17 i art. 20 ustawy z dnia 25 czerwca 2025 r. o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (Dz. U. poz. 1069), które stanowią: „ Art. 17. Przepis art. 3c pkt 1 ustawy zmienianej w art. 4 w zakresie wyłączenia stosowania przepisu art. 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniającego rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ) oraz przepis art. 2a ust. 2 ustawy zmienianej w art. 9 w zakresie wyłączenia stosowania przepisu art. 16 tego rozporządzenia mają zastosowanie po upływie roku od dnia wejścia w życie niniejszej ustawy.” „Art. 20. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+3) art. 5 i art. 6 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1191), które stanowią: „ Art. 5. Bank i spółdzielcza kasa oszczędnościowo-kredytowa posiadające w dniu wejścia w życie niniejszej ustawy dostęp do danych na podstawie decyzji, o której mowa w art. 51 ust. 2 pkt 1 ustawy zmienianej w art. 4, w brzmieniu dotychczasowym, uzyskują dostęp do danych określonych w art. 49 ust. 2aa ustawy zmienianej w art. 4 bez konieczności składania pisemnego wniosku do ministra właściwego do spraw informatyzacji. Art. 6. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
+4) art. 5 i art. 6 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1170), które stanowią: „ Art. 5. Do postępowań upadłościowych oraz postępowań restrukturyzacyjnych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. Art. 6. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+5) art. 10 ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających oraz niektórych innych ustaw (Dz. U. poz. 331), który stanowi: „ Art. 10. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 5 listopada 2009 r.
+o spółdzielczych kasach oszczędnościowo-kredytowych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -51,7 +47,24 @@ Art. 80a–85d. (pominięte)
 
 **Art. 1a.** Użyte w ustawie określenia oznaczają:
 
-**Art. 2.** Kasa jest spółdzielnią, do której w zakresie nieuregulowanym ustawą stosuje się przepisy ustawy z dnia 16 września 1982 r. Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593 oraz z 2025 r. poz. 1556).
+- **1)** przedsiębiorca – przedsiębiorcę, o którym mowa w ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826);
+- **2)** przedsiębiorca zagraniczny – przedsiębiorcę zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794);
+- **3)** (uchylony)
+- **4)** bank krajowy – bank, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331 i 340);
+- **5)** mała kasa – kasę, która spełnia następujące warunki:
+    - **a)** suma aktywów bilansu kasy na koniec roku obrotowego nie przekraczała 20 mln zł,
+    - **b)** średnioroczna liczba członków kasy w ostatnim roku obrotowym nie przekraczała 10 tys. osób;
+
+- **6)** instytucja kredytowa – instytucję, o której mowa w art. 4 ust. 1 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), mającą siedzibę na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej;
+- **7)** fundusz inwestycyjny – fundusz inwestycyjny, o którym mowa w art. 3 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176), zwanej dalej „ustawą o funduszach inwestycyjnych”;
+- **8)** towarzystwo – towarzystwo, o którym mowa w art. 2 pkt 3 ustawy o funduszach inwestycyjnych;
+- **9)** spółka zarządzająca – spółkę zarządzającą, o której mowa w art. 2 pkt 10 ustawy o funduszach inwestycyjnych;
+- **10)** zarządzający z UE – zarządzającego z UE, o którym mowa w art. 2 pkt 10c ustawy o funduszach inwestycyjnych;
+- **11)** alternatywna spółka inwestycyjna – alternatywną spółkę inwestycyjną, o której mowa w art. 8a ust. 1 ustawy o funduszach inwestycyjnych;
+- **12)** zarządzający ASI – zarządzającego ASI, o którym mowa w art. 2 pkt 3a ustawy o funduszach inwestycyjnych;
+- **13)** alternatywny fundusz inwestycyjny – alternatywny fundusz inwestycyjny, o którym mowa w art. 2 pkt 10a ustawy o funduszach inwestycyjnych.
+
+**Art. 2.** Kasa jest spółdzielnią, do której w zakresie nieuregulowanym ustawą stosuje się przepisy ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593 oraz z 2025 r. poz. 1556).
 
 **Art. 2a.**
 
@@ -67,9 +80,9 @@ Art. 80a–85d. (pominięte)
 
 1a. Kasa, po uzyskaniu zezwolenia Komisji Nadzoru Finansowego, o którym mowa w art. 32 ust. 2 ustawy o funduszach inwestycyjnych, może pośredniczyć w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub tytułów uczestnictwa funduszy zagranicznych oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do Europejskiego Obszaru Gospodarczego (EEA).
 
-2. Do rozliczeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe o bankowych rozliczeniach pieniężnych oraz przepisy ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych w zakresie świadczenia usług płatniczych.
+2. Do rozliczeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe o bankowych rozliczeniach pieniężnych oraz przepisy ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych w zakresie świadczenia usług płatniczych.
 
-2a. Do poleceń zapłaty stosuje się art. 63d ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+2a. Do poleceń zapłaty stosuje się art. 63d ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 3. Kasy, z wyłączeniem małych kas, oraz Kasa Krajowa są uprawnione do wydawania pieniądza elektronicznego na rzecz członków kas, na zasadach określonych w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych.
 
@@ -100,7 +113,7 @@ Art. 80a–85d. (pominięte)
 
 1. Kasa prowadzi dla członka kasy, który posiada w kasie imienny rachunek otwarty w związku z prowadzoną przez niego działalnością gospodarczą, rachunek VAT. Otwierając dla członka kasy imienny rachunek, kasa jednocześnie otwiera rachunek VAT.
 
-2. Do rachunku VAT przepisy rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe stosuje się odpowiednio.
+2. Do rachunku VAT przepisy rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe stosuje się odpowiednio.
 
 **Art. 4.** Do stosunków zobowiązaniowych pomiędzy kasami a ich członkami, o których mowa w art. 3 ust. 1 i 1a, stosuje się przepisy ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz. 1714) w zakresie praktyk naruszających zbiorowe interesy konsumentów.
 
@@ -133,7 +146,7 @@ Art. 80a–85d. (pominięte)
 
 **Art. 8.**
 
-1. Statut kasy, oprócz spraw określonych w art. 5 § 1 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze, powinien określać w szczególności:
+1. Statut kasy, oprócz spraw określonych w art. 5 § 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze, powinien określać w szczególności:
 
 - **1)** zasady funkcjonowania kontroli wewnętrznej;
 - **2)** fundusze oraz zasady gospodarki finansowej.
@@ -162,7 +175,7 @@ Art. 80a–85d. (pominięte)
 
 5. Decyzja, o której mowa w ust. 4, może być wydana z określeniem terminu.
 
-6. Od decyzji, o której mowa w ust. 4, kasa może wnieść skargę do sądu administracyjnego w terminie 14 dni od dnia doręczenia decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691) nie stosuje się.
+6. Od decyzji, o której mowa w ust. 4, kasa może wnieść skargę do sądu administracyjnego w terminie 14 dni od dnia doręczenia decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691) nie stosuje się.
 
 7. Komisja Nadzoru Finansowego może, bez konieczności uprzedniego upomnienia na piśmie, zastosować środki określone w art. 71 ust. 2, w przypadku gdy kasa nie doprowadzi, zgodnie z treścią decyzji, o której mowa w ust. 4, do zmiany albo rozwiązania umowy.
 
@@ -178,7 +191,14 @@ Art. 80a–85d. (pominięte)
 
 **Art. 9c.** Powierzenie wykonywania czynności, o którym mowa w art. 9a i art. 9b, nie może obejmować:
 
+- **1)** zarządzania kasą w rozumieniu art. 48 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze, a w szczególności zarządzania ryzykiem związanym z prowadzeniem działalności kasy, w tym zarządzania aktywami i pasywami, dokonywania oceny zdolności kredytowej i analizy ryzyka kredytowego;
+- **2)** funkcji kontroli wewnętrznej w kasie.
+
 **Art. 9d.** Kasa prowadzi ewidencję umów, o których mowa w art. 9a ust. 1 i art. 9b, zawierającą co najmniej:
+
+- **1)** dane identyfikujące przedsiębiorców lub przedsiębiorców zagranicznych, z którymi zostały zawarte umowy, o których mowa w art. 9a ust. 1 lub art. 9b;
+- **2)** zakres powierzonych czynności i miejsce ich wykonywania;
+- **3)** okres obowiązywania umów.
 
 **Art. 9e.**
 
@@ -192,7 +212,7 @@ Art. 80a–85d. (pominięte)
 
 1. Nie narusza obowiązku zachowania tajemnicy zawodowej, o której mowa w art. 9e ust. 1, przekazywanie informacji objętej tajemnicą zawodową:
 
-- **1)** w zakresie niezbędnym do należytego wykonania umowy, na podstawie której wykonywane są czynności, o których mowa w art. 3 ust. 1, lub należytego wykonania czynności pozostających w związku z zawarciem i wykonaniem tej umowy, w tym także przekazywanie na zasadzie wzajemności innym instytucjom ustawowo upoważnionym do udzielania kredytów informacji o wierzytelnościach oraz o obrotach i stanach rachunków;
+- **1)** w zakresie niezbędnym do należytego wykonania umowy, na podstawie której wykonywane są czynności, o których mowa w art. 3 ust. 1, lub należytego wykonania czynności pozostających w związku z zawarciem i wykonaniem tej umowy, w tym także przekazywanie – na zasadzie wzajemności – innym instytucjom ustawowo upoważnionym do udzielania kredytów informacji o wierzytelnościach oraz o obrotach i stanach rachunków;
 - **2)** przedsiębiorcy lub przedsiębiorcy zagranicznemu, któremu kasa zgodnie z art. 9a i art. 9b powierzyła wykonywanie czynności, o których mowa w art. 3 ust. 1, lub czynności faktycznych związanych z wykonywaniem czynności, o których mowa w art. 3 ust. 1, w zakresie niezbędnym do należytego wykonywania tych czynności;
 - **2a)** dostawcom świadczącym usługę inicjowania transakcji płatniczej, o których mowa w art. 2 pkt 4d ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, w zakresie niezbędnym do świadczenia usługi inicjowania transakcji płatniczej;
 - **2b)** dostawcom świadczącym usługę dostępu do informacji o rachunku, o których mowa w art. 2 pkt 4e ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, w zakresie niezbędnym do świadczenia usługi dostępu do informacji o rachunku;
@@ -200,10 +220,10 @@ Art. 80a–85d. (pominięte)
 - **3)** w zakresie, w jakim udzielenie informacji objętych tajemnicą zawodową jest niezbędne do zawarcia i wykonywania umów sprzedaży wierzytelności;
 - **4)** na żądanie Komisji Nadzoru Finansowego, w tym w toku wykonywania czynności kontrolnych;
 - **5)** na żądanie Kasy Krajowej w zakresie niezbędnym do wykonywania przez Kasę Krajową działalności określonej w ustawie oraz w zakresie niezbędnym do wykonania zawartej z Kasą Krajową umowy;
-- **5a)** innym kasom, Kasie Krajowej, bankom oraz izbie rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo spółce handlowej, o której mowa w art. 92bb ust. 1 tej ustawy, w zakresie niezbędnym do udzielania zbiorczej informacji, o której mowa w art. 13d ust. 1, lub zbiorczej informacji, o której mowa w art. 9fb;
-- **5b)** innym kasom, bankom oraz izbie rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo spółce handlowej, o której mowa w art. 92bb ust. 1 tej ustawy, w zakresie niezbędnym do udzielania informacji, o której mowa w art. 13d ust. 3;
-- **5c)** Szefowi Krajowej Administracji Skarbowej oraz izbie rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, w zakresie niezbędnym do wykonywania odpowiednio zadań i obowiązków, o których mowa w: 5ca) Szefowi Krajowej Administracji Skarbowej w zakresie niezbędnym do wykonywania obowiązku, o którym mowa w art. 110e pkt 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811); 5cb) ministrowi właściwemu do spraw finansów publicznych i Szefowi Krajowej Administracji Skarbowej w zakresie określonym w przepisach ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2025 r. poz. 1379 oraz z 2026 r. poz. 347);
-    - **a)** dziale IIIB ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ),
+- **5a)** innym kasom, Kasie Krajowej, bankom oraz izbie rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, albo spółce handlowej, o której mowa w art. 92bb ust. 1 tej ustawy, w zakresie niezbędnym do udzielania zbiorczej informacji, o której mowa w art. 13d ust. 1, lub zbiorczej informacji, o której mowa w art. 9fb;
+- **5b)** innym kasom, bankom oraz izbie rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, albo spółce handlowej, o której mowa w art. 92bb ust. 1 tej ustawy, w zakresie niezbędnym do udzielania informacji, o której mowa w art. 13d ust. 3;
+- **5c)** Szefowi Krajowej Administracji Skarbowej oraz izbie rozliczeniowej, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, w zakresie niezbędnym do wykonywania odpowiednio zadań i obowiązków, o których mowa w: 5ca) Szefowi Krajowej Administracji Skarbowej w zakresie niezbędnym do wykonywania obowiązku, o którym mowa w art. 110e pkt 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811); 5cb) ministrowi właściwemu do spraw finansów publicznych i Szefowi Krajowej Administracji Skarbowej w zakresie określonym w przepisach ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2025 r. poz. 1379 oraz z 2026 r. poz. 347);
+    - **a)** dziale IIIB ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ),
     - **b)** ustawie z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej (Dz. U. z 2023 r. poz. 180);
 
 - **5d)** płatnikowi w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, w zakresie określonym w art. 143b oraz art. 143c ust. 6 tej ustawy;
@@ -213,26 +233,26 @@ Art. 80a–85d. (pominięte)
 - **8)** adwokatowi lub radcy prawnemu w związku ze świadczeniem pomocy prawnej na rzecz kasy;
 - **8a)** przedstawicielom, o których mowa w art. 16d ust. 2 pkt 1, w związku z ich uczestnictwem w obradach organów kasy;
 - **9)** w zawiadomieniu o podejrzeniu popełnienia przestępstwa;
-- **10)** instytucjom upoważnionym do gromadzenia, przetwarzania i udostępniania informacji stanowiących tajemnicę bankową, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+- **10)** instytucjom upoważnionym do gromadzenia, przetwarzania i udostępniania informacji stanowiących tajemnicę bankową, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
 - **11)** za wyrażoną na piśmie zgodą osoby, której ta informacja dotyczy;
-- **12)** Policji jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 421);
-- **12a)** Żandarmerii Wojskowej jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2026 r. poz. 159);
-- **12b)** na żądanie Inspektora Nadzoru Wewnętrznego jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom lub wykrycia ich sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529); 12ba) na żądanie Straży Granicznej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 10c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2026 r. poz. 367); 12bb) na żądanie prokuratora, Policji i innych organów uprawnionych do prowadzenia postępowania przygotowawczego w sprawach o przestępstwa lub czynności wyjaśniających w sprawach o wykroczenia, w zakresie określonym w art. 78 ust. 4 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. );
+- **12)** Policji – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 421);
+- **12a)** Żandarmerii Wojskowej – jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2026 r. poz. 159);
+- **12b)** na żądanie Inspektora Nadzoru Wewnętrznego – jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom lub wykrycia ich sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529); 12ba) na żądanie Straży Granicznej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i w trybie określonych w art. 10c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2026 r. poz. 367); 12bb) na żądanie prokuratora, Policji i innych organów uprawnionych do prowadzenia postępowania przygotowawczego w sprawach o przestępstwa lub czynności wyjaśniających w sprawach o wykroczenia, w zakresie określonym w art. 78 ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. );
 - **12c)** (uchylony)
 - **13)** na żądanie sądu lub prokuratora w związku z toczącym się postępowaniem o przestępstwo lub przestępstwo skarbowe;
 - **14)** na żądanie sądu w związku z prowadzonym postępowaniem spadkowym lub o podział majątku między małżonkami albo prowadzoną przeciwko osobie fizycznej będącej stroną umowy sprawą o alimenty lub o rentę o charakterze alimentacyjnym, a także innym postępowaniem cywilnym, jeżeli informacje nie dotyczą osób trzecich niebędących stroną postępowania;
-- **14a)** na żądanie sądu w związku z prowadzonym postępowaniem w sprawach własności intelektualnej, jeżeli jest to niezbędne do określenia źródła lub zakresu naruszenia praw własności intelektualnej, w zakresie, o którym mowa w art. 479 § 2 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. );
+- **14a)** na żądanie sądu w związku z prowadzonym postępowaniem w sprawach własności intelektualnej, jeżeli jest to niezbędne do określenia źródła lub zakresu naruszenia praw własności intelektualnej, w zakresie, o którym mowa w art. 479 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. );
 - **14b)** syndykowi wyznaczonemu w postępowaniu upadłościowym prowadzonym wobec podmiotu, którego te informacje dotyczą, w zakresie niezbędnym do wykonywania czynności w tym postępowaniu;
 - **14c)** nadzorcy sądowemu albo zarządcy wyznaczonym w postępowaniu restrukturyzacyjnym prowadzonym wobec podmiotu, którego te informacje dotyczą, w zakresie niezbędnym do wykonywania czynności w tym postępowaniu;
 - **14d)** tymczasowemu nadzorcy sądowemu w postępowaniu w przedmiocie ogłoszenia upadłości podmiotu, którego te informacje dotyczą, w zakresie niezbędnym do wykonywania czynności w tym postępowaniu;
 - **15)** na żądanie komornika sądowego w związku z wykonywaniem zadań, o których mowa w art. 3 ust. 3 pkt 1–3, oraz czynności, o których mowa w art. 3 ust. 4 pkt 1a ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458, z 2025 r. poz. 1018 i 1172 oraz z 2026 r. poz. 26);
 - **15a)** na żądanie administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009), w zakresie:
     - **a)** posiadanych przez członka kasy rachunków prowadzonych przez kasę lub posiadanych pełnomocnictw do dysponowania rachunkami prowadzonymi przez kasę, liczby tych rachunków lub pełnomocnictw, obrotów i stanów tych rachunków, z podaniem wpływów, obciążeń rachunków i ich tytułów oraz odpowiednio ich nadawców i odbiorców,
-    - **b)** zawartych przez członka kasy umów kredytowych lub umów pożyczki, z podaniem wysokości zobowiązań wynikających z tych kredytów lub pożyczek, celów, na jakie zostały udzielone, i sposobu zabezpieczenia ich spłaty w związku z prowadzonym postępowaniem egzekucyjnym, postępowaniem zabezpieczającym oraz wykonywaniem innych czynności wynikających z ustawowych zadań tych organów;
+    - **b)** zawartych przez członka kasy umów kredytowych lub umów pożyczki, z podaniem wysokości zobowiązań wynikających z tych kredytów lub pożyczek, celów, na jakie zostały udzielone, i sposobu zabezpieczenia ich spłaty – w związku z prowadzonym postępowaniem egzekucyjnym, postępowaniem zabezpieczającym oraz wykonywaniem innych czynności wynikających z ustawowych zadań tych organów;
 
 - **16)** na żądanie organu Krajowej Administracji Skarbowej:
     - **a)** w związku z prowadzoną sprawą o przestępstwo skarbowe lub o wykroczenie skarbowe przeciwko członkowi kasy, o ile informacje mają związek z tą sprawą, lub
-    - **b)** jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415), lub
+    - **b)** jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości – w zakresie, o którym mowa w art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415), lub
     - **c)** w związku z wnioskiem o informacje złożonym na podstawie art. 7 ust. 3a rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013 z dnia 11 września 2013 r. dotyczącego dochodzeń prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) oraz uchylającego rozporządzenie (WE) nr 1073/1999 Parlamentu Europejskiego i Rady i rozporządzenie Rady (Euratom) nr 1074/1999 (Dz. Urz. UE L 248 z 18.09.2013, str. 1, z późn. zm. );
 
 - **17)** na żądanie banku upoważnionego do dokonywania czynności obrotu dewizowego w zakresie ustalenia istnienia wymagalnego zobowiązania stanowiącego podstawę do przekazania za granicę waluty obcej;
@@ -255,9 +275,15 @@ Art. 80a–85d. (pominięte)
 
 3. Osoby, organy i podmioty wymienione w ust. 1 i 2, w tym także pracownicy lub członkowie organów tych podmiotów, jeżeli nie są pracownikami, mogą wykorzystywać uzyskane informacje tylko zgodnie z celem ich przekazania. O ile odrębne przepisy nie stanowią inaczej, uzyskane informacje nie mogą być ujawniane innym osobom, organom lub podmiotom.
 
-4. Kasa nie ponosi odpowiedzialności za szkodę wynikającą z ujawnienia tajemnicy zawodowej przez osoby lub podmioty, którym kasa udzieliła informacji stanowiących tajemnicę zawodową na podstawie przepisów ustawy. Art. 9fa. 1. Podmioty, o których mowa w art. 9f ust. 1 pkt 4, 12–16 oraz 20–23, w granicach uprawnień wynikających z tych przepisów, gmina po uzyskaniu informacji, o której mowa w art. 13c, z której wynika, że członek kasy zmarł, oraz Generalny Inspektor Informacji Finansowej, w granicach uprawnień wynikających z przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, są uprawnione do uzyskania zbiorczej informacji, o której mowa w art. 13d ust. 1, w dowolnej kasie.
+4. Kasa nie ponosi odpowiedzialności za szkodę wynikającą z ujawnienia tajemnicy zawodowej przez osoby lub podmioty, którym kasa udzieliła informacji stanowiących tajemnicę zawodową na podstawie przepisów ustawy.
 
-2. Podmioty, o których mowa w art. 9f ust. 1 pkt 4, 12–16 oraz 20–23, w granicach uprawnień wynikających z tych przepisów, są uprawnione do uzyskania informacji, o której mowa w art. 13d ust. 3, w dowolnej kasie. Art. 9fb. Podmiot, o którym mowa w art. 9f ust. 1 pkt 27, w granicach uprawnień wynikających z tego przepisu, jest uprawniony do uzyskania z Centralnej informacji zbiorczej informacji, o której mowa w art. 13d ust. 1, z tym że zbiorcza informacja może dotyczyć także rachunków członka niebędącego osobą fizyczną.
+**Art. 9fa.**
+
+1. Podmioty, o których mowa w art. 9f ust. 1 pkt 4, 12–16 oraz 20–23, w granicach uprawnień wynikających z tych przepisów, gmina po uzyskaniu informacji, o której mowa w art. 13c, z której wynika, że członek kasy zmarł, oraz Generalny Inspektor Informacji Finansowej, w granicach uprawnień wynikających z przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, są uprawnione do uzyskania zbiorczej informacji, o której mowa w art. 13d ust. 1, w dowolnej kasie.
+
+2. Podmioty, o których mowa w art. 9f ust. 1 pkt 4, 12–16 oraz 20–23, w granicach uprawnień wynikających z tych przepisów, są uprawnione do uzyskania informacji, o której mowa w art. 13d ust. 3, w dowolnej kasie.
+
+**Art. 9fb.** Podmiot, o którym mowa w art. 9f ust. 1 pkt 27, w granicach uprawnień wynikających z tego przepisu, jest uprawniony do uzyskania z Centralnej informacji zbiorczej informacji, o której mowa w art. 13d ust. 1, z tym że zbiorcza informacja może dotyczyć także rachunków członka niebędącego osobą fizyczną.
 
 **Art. 9g.** Przepisy art. 9e i art. 9f stosuje się odpowiednio do Kasy Krajowej, z tym że w zakresie tajemnicy zawodowej uwzględnia się wszystkie informacje wytworzone lub pozyskane od kas w związku z wykonywaniem przez Kasę Krajową działalności określonej w ustawie, o ile ich ujawnienie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą.
 
@@ -274,7 +300,7 @@ Art. 80a–85d. (pominięte)
 
 1a. Członkami kasy mogą być także, jeżeli statut kasy tak stanowi, spółki jawne, spółki partnerskie i spółki komandytowe, których wspólnikami są wyłącznie osoby fizyczne będące członkami kasy.
 
-2. Członkami kasy mogą być także działające wśród członków, o których mowa w ust. 1 organizacje pozarządowe w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), jednostki organizacyjne kościołów i związków wyznaniowych posiadające osobowość prawną, spółdzielnie, związki zawodowe oraz wspólnoty mieszkaniowe.
+2. Członkami kasy mogą być także – działające wśród członków, o których mowa w ust. 1 – organizacje pozarządowe w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), jednostki organizacyjne kościołów i związków wyznaniowych posiadające osobowość prawną, spółdzielnie, związki zawodowe oraz wspólnoty mieszkaniowe.
 
 **Art. 11.** Ustanie więzi, o której mowa w art. 10, stanowi przyczynę wykreślenia członka kasy, chyba że statut stanowi inaczej.
 
@@ -309,7 +335,11 @@ Art. 80a–85d. (pominięte)
 
 7. Na co najmniej 6 miesięcy przed upływem okresu, o którym mowa w ust. 1 pkt 2, kasa jest obowiązana poinformować członka kasy o skutkach upływu tego okresu.
 
-8. Przepisy ust. 1–7 nie dotyczą rachunku wspólnego. Art. 13aa. 1. Po śmierci przedsiębiorcy kasa nadal prowadzi imienny rachunek członka kasy związany z prowadzoną przez niego działalnością gospodarczą, jeżeli został ustanowiony zarząd sukcesyjny w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170).
+8. Przepisy ust. 1–7 nie dotyczą rachunku wspólnego.
+
+**Art. 13aa.**
+
+1. Po śmierci przedsiębiorcy kasa nadal prowadzi imienny rachunek członka kasy związany z prowadzoną przez niego działalnością gospodarczą, jeżeli został ustanowiony zarząd sukcesyjny w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170).
 
 2. W okresie od ustanowienia do dnia wygaśnięcia zarządu sukcesyjnego dostęp do środków pieniężnych zgromadzonych na imiennym rachunku członka kasy, o którym mowa w ust. 1, oraz prawo do wydawania dyspozycji przysługują zarządcy sukcesyjnemu.
 
@@ -324,7 +354,7 @@ Art. 80a–85d. (pominięte)
 1. Po upływie 2 lat od dnia powzięcia przez kasę informacji o śmierci członka kasy, kasa jest obowiązana w terminie 7 dni, poinformować pisemnie organ wykonawczy gminy ostatniego miejsca zamieszkania członka kasy o:
 
 - **1)** dacie powzięcia przez kasę informacji o śmierci członka kasy;
-- **2)** możliwości nabycia przez gminę prawa do środków pieniężnych, zgromadzonych przez członka kasy, zgodnie z art. 935 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184).
+- **2)** możliwości nabycia przez gminę prawa do środków pieniężnych, zgromadzonych przez członka kasy, zgodnie z art. 935 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184).
 
 2. Przepisu ust. 1 nie stosuje się, jeżeli:
 
@@ -335,23 +365,23 @@ Art. 80a–85d. (pominięte)
 
 1. Kasa jest obowiązana udzielić członkowi kasy, osobie, która uzyskała tytuł prawny do spadku po członku kasy, oraz zarządcy sukcesyjnemu, zbiorczej informacji o:
 
-- **1)** imiennych rachunkach członka kasy, w tym rachunkach wspólnych bez wskazania danych współposiadacza;
+- **1)** imiennych rachunkach członka kasy, w tym rachunkach wspólnych – bez wskazania danych współposiadacza;
 - **2)** umowach imiennego rachunku członka kasy rozwiązanych albo wygasłych z przyczyn, o których mowa w art. 13a ust. 1–3;
-- **3)** rachunkach bankowych członka kasy, o których mowa w art. 59a ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, w tym rachunkach wspólnych bez wskazania danych współposiadacza;
-- **4)** umowach rachunku bankowego członka kasy rozwiązanych albo wygasłych z przyczyn, o których mowa w art. 59a ust. 1–3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+- **3)** rachunkach bankowych członka kasy, o których mowa w art. 59a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, w tym rachunkach wspólnych – bez wskazania danych współposiadacza;
+- **4)** umowach rachunku bankowego członka kasy rozwiązanych albo wygasłych z przyczyn, o których mowa w art. 59a ust. 1–3 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 2. W zbiorczej informacji wskazuje się podmiot, który prowadzi albo prowadził rachunek, numery rachunków wynikające z umowy rachunku oraz informację, czy rachunki są nadal prowadzone.
 
 3. Kasa jest obowiązana udzielić dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, z wyłączeniem Kasy Krajowej, informacji o:
 
-- **1)** imiennych rachunkach członka kasy, w tym rachunkach wspólnych bez wskazania danych współposiadacza;
-- **2)** rachunkach bankowych członka kasy, w tym rachunkach wspólnych bez wskazania danych współposiadacza.
+- **1)** imiennych rachunkach członka kasy, w tym rachunkach wspólnych – bez wskazania danych współposiadacza;
+- **2)** rachunkach bankowych członka kasy, w tym rachunkach wspólnych – bez wskazania danych współposiadacza.
 
 4. W informacji, o której mowa w ust. 3, wskazuje się podmiot, który prowadzi rachunki.
 
 **Art. 13e.**
 
-1. Zbiorczą informację oraz informację, o której mowa w art. 13d ust. 3, kasa jest obowiązana pozyskać z centralnej informacji o rachunkach, o której mowa w art. 92bb ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, zwanej dalej „Centralną informacją”, niezwłocznie po otrzymaniu pisemnego żądania od osoby, o której mowa w art. 13d ust. 1, i zweryfikowaniu jej tytułu prawnego, lub od dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, z wyłączeniem Kasy Krajowej. Zbiorczą informację oraz informację, o której mowa w art. 13d ust. 3, kasa jest obowiązana dostarczyć osobie, która wystąpiła z żądaniem, lub dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, z wyłączeniem Kasy Krajowej, niezwłocznie po jej pozyskaniu z Centralnej informacji.
+1. Zbiorczą informację oraz informację, o której mowa w art. 13d ust. 3, kasa jest obowiązana pozyskać z centralnej informacji o rachunkach, o której mowa w art. 92bb ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, zwanej dalej „Centralną informacją”, niezwłocznie po otrzymaniu pisemnego żądania od osoby, o której mowa w art. 13d ust. 1, i zweryfikowaniu jej tytułu prawnego, lub od dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, z wyłączeniem Kasy Krajowej. Zbiorczą informację oraz informację, o której mowa w art. 13d ust. 3, kasa jest obowiązana dostarczyć osobie, która wystąpiła z żądaniem, lub dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, z wyłączeniem Kasy Krajowej, niezwłocznie po jej pozyskaniu z Centralnej informacji.
 
 2. Zbiorcza informacja oraz informacja, o której mowa w art. 13d ust. 3, może być dostarczona odpłatnie, przy czym opłata nie może być wyższa niż koszt wygenerowania takiej informacji.
 
@@ -365,7 +395,7 @@ Art. 80a–85d. (pominięte)
 
 1. Kasa może prowadzić na rzecz członka kasy rachunek rodzinny.
 
-2. Rachunek rodzinny członka kasy może być prowadzony wyłącznie dla osób fizycznych, którym przyznano niepodlegające egzekucji świadczenia, dodatki, zasiłki oraz inne kwoty, o których mowa w art. 833 § 6 i 7 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego, z wyjątkiem świadczeń alimentacyjnych, zwane dalej „świadczeniami niepodlegającymi egzekucji”.
+2. Rachunek rodzinny członka kasy może być prowadzony wyłącznie dla osób fizycznych, którym przyznano niepodlegające egzekucji świadczenia, dodatki, zasiłki oraz inne kwoty, o których mowa w art. 833 § 6 i 7 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, z wyjątkiem świadczeń alimentacyjnych, zwane dalej „świadczeniami niepodlegającymi egzekucji”.
 
 3. Rachunek rodzinny członka kasy nie może być prowadzony dla kilku osób fizycznych.
 
@@ -379,14 +409,14 @@ Art. 80a–85d. (pominięte)
 
 1. Kasa może prowadzić na rzecz członka kasy rachunek powierniczy.
 
-2. Do rachunków powierniczych prowadzonych przez kasy stosuje się odpowiednio przepis art. 59 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+2. Do rachunków powierniczych prowadzonych przez kasy stosuje się odpowiednio przepis art. 59 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 **Art. 14.**
 
 1. Kasa jest obowiązana wypłacić po śmierci członka kasy z jego wkładu członkowskiego i oszczędności:
 
-- **1)** kwotę wydatkowaną na koszty pogrzebu członka kasy w wysokości nieprzekraczającej kosztów urządzenia pogrzebu zgodnie ze zwyczajami przyjętymi w danym środowisku osobie, która przedłoży rachunek stwierdzający wysokość poniesionych przez nią wydatków;
-- **2)** kwotę nieprzekraczającą ogółem sumy przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego, w okresie 5 lat kalendarzowych poprzedzających wypłatę jeżeli członek kasy pisemnie wskazał kasie osoby, na których rzecz wypłata ma nastąpić; osobami wskazanymi przez członka kasy mogą być jego małżonek, zstępni, rodzice, dziadkowie i rodzeństwo;
+- **1)** kwotę wydatkowaną na koszty pogrzebu członka kasy w wysokości nieprzekraczającej kosztów urządzenia pogrzebu zgodnie ze zwyczajami przyjętymi w danym środowisku – osobie, która przedłoży rachunek stwierdzający wysokość poniesionych przez nią wydatków;
+- **2)** kwotę nieprzekraczającą ogółem sumy przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego, w okresie 5 lat kalendarzowych poprzedzających wypłatę – jeżeli członek kasy pisemnie wskazał kasie osoby, na których rzecz wypłata ma nastąpić; osobami wskazanymi przez członka kasy mogą być jego małżonek, zstępni, rodzice, dziadkowie i rodzeństwo;
 - **3)** kwotę równą wpłatom na rachunki, dokonanym przez organ rentowy z tytułu świadczeń z ubezpieczeń i zabezpieczeń społecznych, które nie przysługiwały za okres po śmierci posiadacza rachunków, wskazaną we wniosku organu rentowego skierowanym do kasy, wraz z podaniem numerów rachunków, na które dokonano wpłat.
 
 2. Sumy określone w ust. 1 nie należą do spadku po członku kasy.
@@ -401,25 +431,25 @@ Art. 80a–85d. (pominięte)
 
 **Art. 15.**
 
-1. Kasa i Kasa Krajowa jest obowiązana przeciwdziałać wykorzystaniu swojej działalności dla celów mających związek z przestępstwem, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
+1. Kasa i Kasa Krajowa jest obowiązana przeciwdziałać wykorzystaniu swojej działalności dla celów mających związek z przestępstwem, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872).
 
 2. Tryb postępowania kasy i Kasy Krajowej w razie wystąpienia okoliczności, o których mowa w ust. 1, określa odrębna ustawa.
 
 **Art. 16.**
 
-1. W razie zaistnienia uzasadnionego podejrzenia, że działalność kasy i Kasy Krajowej jest wykorzystywana w celu ukrycia działań przestępczych lub dla celów mających związek z przestępstwem skarbowym lub innym przestępstwem niż przestępstwo, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. Kodeks karny kasa lub Kasa Krajowa zawiadamia o tym prokuratora, Policję albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego.
+1. W razie zaistnienia uzasadnionego podejrzenia, że działalność kasy i Kasy Krajowej jest wykorzystywana w celu ukrycia działań przestępczych lub dla celów mających związek z przestępstwem skarbowym lub innym przestępstwem niż przestępstwo, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny – kasa lub Kasa Krajowa zawiadamia o tym prokuratora, Policję albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego.
 
-2. Prokurator, Policja albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego, który otrzymał zawiadomienie, o którym mowa w ust. 1, może żądać uzupełnienia informacji, także w toku czynności podejmowanych na podstawie art. 307 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, z późn. zm. ).
+2. Prokurator, Policja albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego, który otrzymał zawiadomienie, o którym mowa w ust. 1, może żądać uzupełnienia informacji, także w toku czynności podejmowanych na podstawie art. 307 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, z późn. zm. ).
 
-3. W przypadku powzięcia uzasadnionego podejrzenia, że zgromadzone na rachunku środki, w całości lub w części pochodzą z przestępstwa skarbowego lub przestępstwa innego niż przestępstwo, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, lub mają z nim związek, kasa jest uprawniona do dokonania blokady środków na tym rachunku. Blokadę można ustanowić wyłącznie do wysokości zgromadzonych na rachunku środków, co do których zachodzi takie podejrzenie.
+3. W przypadku powzięcia uzasadnionego podejrzenia, że zgromadzone na rachunku środki, w całości lub w części pochodzą z przestępstwa skarbowego lub przestępstwa innego niż przestępstwo, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub mają z nim związek, kasa jest uprawniona do dokonania blokady środków na tym rachunku. Blokadę można ustanowić wyłącznie do wysokości zgromadzonych na rachunku środków, co do których zachodzi takie podejrzenie.
 
-4. W przypadku uzasadnionego podejrzenia popełnienia przestępstwa, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, lub wykorzystywania działalności kasy w celu ukrycia działań przestępczych lub dla celów mających związek z przestępstwem lub przestępstwem skarbowym prokurator może, w drodze postanowienia, wstrzymać określoną transakcję lub dokonać blokady środków na rachunku na czas oznaczony, niedłuższy niż 6 miesięcy, również pomimo braku zawiadomienia, o którym mowa w ust. 1. W postanowieniu określa się zakres, sposób i termin wstrzymania transakcji lub blokady środków na rachunku.
+4. W przypadku uzasadnionego podejrzenia popełnienia przestępstwa, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub wykorzystywania działalności kasy w celu ukrycia działań przestępczych lub dla celów mających związek z przestępstwem lub przestępstwem skarbowym prokurator może, w drodze postanowienia, wstrzymać określoną transakcję lub dokonać blokady środków na rachunku na czas oznaczony, niedłuższy niż 6 miesięcy, również pomimo braku zawiadomienia, o którym mowa w ust. 1. W postanowieniu określa się zakres, sposób i termin wstrzymania transakcji lub blokady środków na rachunku.
 
 5. Blokada środków na rachunku, dokonana w okolicznościach, o których mowa w ust. 3, nie może trwać dłużej niż 72 godziny.
 
 6. Niezwłocznie po dokonaniu blokady, o której mowa w ust. 3, kasa zawiadamia prokuratora.
 
-7. W terminie określonym w ust. 5 prokurator wydaje postanowienie o wszczęciu postępowania albo o odmowie jego wszczęcia, o którym niezwłocznie zawiadamia właściwą kasę. Terminu określonego w art. 307 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego nie stosuje się. W razie wszczęcia postępowania prokurator może, w drodze postanowienia, wstrzymać określoną transakcję lub dokonać blokady środków na rachunku na czas oznaczony, niedłuższy niż 6 miesięcy, licząc od dnia otrzymania zawiadomienia, o którym mowa w ust. 6. W postanowieniu określa się zakres, sposób i termin wstrzymania transakcji lub blokady środków na rachunku.
+7. W terminie określonym w ust. 5 prokurator wydaje postanowienie o wszczęciu postępowania albo o odmowie jego wszczęcia, o którym niezwłocznie zawiadamia właściwą kasę. Terminu określonego w art. 307 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego nie stosuje się. W razie wszczęcia postępowania prokurator może, w drodze postanowienia, wstrzymać określoną transakcję lub dokonać blokady środków na rachunku na czas oznaczony, niedłuższy niż 6 miesięcy, licząc od dnia otrzymania zawiadomienia, o którym mowa w ust. 6. W postanowieniu określa się zakres, sposób i termin wstrzymania transakcji lub blokady środków na rachunku.
 
 8. Na postanowienie prokuratora w przedmiocie stosowania blokady środków na rachunku przysługuje zażalenie do sądu właściwego do rozpoznania sprawy.
 
@@ -427,13 +457,13 @@ Art. 80a–85d. (pominięte)
 
 9. Wstrzymanie transakcji lub blokada środków na rachunku upada, jeżeli przed upływem czasu ich stosowania nie zostanie wydane postanowienie o zabezpieczeniu majątkowym lub postanowienie w przedmiocie dowodów rzeczowych.
 
-10. W sprawach dotyczących blokady środków na rachunku, nieuregulowanych w ustawie, stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego.
+10. W sprawach dotyczących blokady środków na rachunku, nieuregulowanych w ustawie, stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 11. Kasa nie ponosi odpowiedzialności za szkodę, która może wyniknąć z wykonania w dobrej wierze obowiązków określonych w ust. 3–6. W takim przypadku, jeżeli okoliczności, o których mowa w ust. 3–6, nie miały związku z przestępstwem lub ukrywaniem działań przestępczych, o których mowa w ust. 1, odpowiedzialność za szkodę wynikłą z dokonania blokady środków na rachunku ponosi Skarb Państwa.
 
 **Art. 16a.** (uchylony)
 
-**Art. 16b.** Do działalności kas stosuje się odpowiednio przepisy art. 106d i art. 106e ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+**Art. 16b.** Do działalności kas stosuje się odpowiednio przepisy art. 106d i art. 106e ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 #### Rozdział 2a Udziały inwestorskie
 
@@ -453,7 +483,7 @@ Art. 80a–85d. (pominięte)
 
 - **1)** zasady obejmowania udziałów inwestorskich;
 - **2)** maksymalną liczbę udziałów inwestorskich w kasie;
-- **3)** w przypadku, o którym mowa w art. 26 ust. 5 część nadwyżki bilansowej przeznaczonej do podziału między posiadaczy udziałów inwestorskich oraz zasady tego podziału;
+- **3)** w przypadku, o którym mowa w art. 26 ust. 5 – część nadwyżki bilansowej przeznaczonej do podziału między posiadaczy udziałów inwestorskich oraz zasady tego podziału;
 - **4)** sposób i termin zwrotu wpłat dokonanych na udziały inwestorskie.
 
 **Art. 16d.**
@@ -466,7 +496,7 @@ Art. 80a–85d. (pominięte)
 - **2)** otrzymania odpisu statutu i regulaminów oraz zapoznawania się z uchwałami organów kasy, protokołami obrad organów kasy, protokołami lustracji, rocznymi sprawozdaniami finansowymi oraz umowami zawieranymi przez kasę z osobami trzecimi;
 - **3)** żądania rozpatrzenia przez właściwe organy kasy wniosków dotyczących jej działalności.
 
-3. Uprawnienie, o którym mowa w ust. 2 pkt 2, nie obejmuje informacji chronionych na podstawie art. 9e. Do uprawnienia tego przepis art. 18 § 3 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze stosuje się odpowiednio.
+3. Uprawnienie, o którym mowa w ust. 2 pkt 2, nie obejmuje informacji chronionych na podstawie art. 9e. Do uprawnienia tego przepis art. 18 § 3 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze stosuje się odpowiednio.
 
 **Art. 16e.**
 
@@ -505,7 +535,7 @@ Art. 80a–85d. (pominięte)
 
 5. (uchylony)
 
-6. Do oceny rękojmi ostrożnego i stabilnego zarządzania kasą stosuje się odpowiednio przepisy art. 22aa ust. 1 oraz 10–12 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+6. Do oceny rękojmi ostrożnego i stabilnego zarządzania kasą stosuje się odpowiednio przepisy art. 22aa ust. 1 oraz 10–12 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 **Art. 19.**
 
@@ -545,6 +575,11 @@ Art. 80a–85d. (pominięte)
 
 **Art. 23.** Do zadań komisji kredytowej należy w szczególności przedstawianie zarządowi:
 
+- **1)** opinii w sprawie wniosków o udzielenie pożyczek i kredytów;
+- **2)** propozycji w przedmiocie wyboru zabezpieczenia pożyczek i kredytów;
+- **3)** propozycji warunków, na jakich można udzielić pożyczek i kredytów;
+- **4)** projektów wniosków w sprawie przedłużenia terminu spłaty pożyczek i kredytów oraz przymusowego ściągnięcia niespłaconych w terminie pożyczek i kredytów.
+
 #### Rozdział 4 Gospodarka finansowa kas
 
 **Art. 24.**
@@ -553,13 +588,13 @@ Art. 80a–85d. (pominięte)
 
 2. Funduszami własnymi kasy są:
 
-- **1)** fundusz udziałowy powstający z wpłat udziałów członkowskich oraz z wpłat udziałów inwestorskich;
-- **2)** fundusz zasobowy powstający z wpłat wpisowego wnoszonego przez członków oraz nadwyżki bilansowej;
-- **3)** fundusz z aktualizacji wyceny rzeczowych aktywów trwałych utworzony na podstawie odrębnych przepisów;
+- **1)** fundusz udziałowy – powstający z wpłat udziałów członkowskich oraz z wpłat udziałów inwestorskich;
+- **2)** fundusz zasobowy – powstający z wpłat wpisowego wnoszonego przez członków oraz nadwyżki bilansowej;
+- **3)** fundusz z aktualizacji wyceny rzeczowych aktywów trwałych – utworzony na podstawie odrębnych przepisów;
 - **4)** za zgodą Komisji Nadzoru Finansowego, zobowiązania z tytułu przyjęcia przez kasę (zobowiązania podporządkowane) otrzymanych z:
-    - **a)** funduszu stabilizacyjnego w kwocie i na zasadach ustalonych w decyzji Komisji Nadzoru Finansowego, wydanej na wniosek kasy, pomniejszanej na koniec każdego roku w ciągu ostatnich 5 lat trwania umowy o 20 % tej kwoty środków pieniężnych spełniających, zgodnie z umową, łącznie następujące warunki: środki pieniężne przyjęto na okres co najmniej 5 lat, środki pieniężne mogą być wycofane z kasy na jej wniosek przed upływem okresu umowy za zgodą Komisji Nadzoru Finansowego, z zachowaniem wymogu, o którym mowa w ust. 5, środki pieniężne podlegają zwrotowi w ostatniej kolejności w przypadku upadłości kasy lub jej likwidacji, zwrot środków pieniężnych nie jest zabezpieczony przez kasę bezpośrednio lub pośrednio,
-    - **b)** innych źródeł w kwocie i na zasadach ustalonych w decyzji Komisji Nadzoru Finansowego, wydanej na wniosek kasy, pomniejszanej na koniec każdego roku w ciągu ostatnich 5 lat trwania umowy o 20 % tej kwoty środków pieniężnych spełniających, zgodnie z umową, łącznie następujące warunki: środki pieniężne przyjęto na okres co najmniej 5 lat, środki pieniężne mogą być wycofane z kasy na jej wniosek przed upływem okresu umowy za zgodą Komisji Nadzoru Finansowego, z zachowaniem wymogu, o którym mowa w ust. 5, środki pieniężne podlegają zwrotowi w ostatniej kolejności w przypadku upadłości kasy lub jej likwidacji, zwrot środków pieniężnych nie jest zabezpieczony przez kasę bezpośrednio lub pośrednio,
-    - **c)** Bankowego Funduszu Gwarancyjnego w kwocie i na zasadach ustalonych w decyzji Komisji Nadzoru Finansowego, wydanej na wniosek kasy, pomniejszanej na koniec każdego roku w ciągu ostatnich 5 lat trwania umowy o 20 % tej kwoty środków pieniężnych spełniających, zgodnie z umową, łącznie następujące warunki: środki pieniężne przyjęto na okres co najmniej 5 lat, środki pieniężne mogą być wycofane z kasy, na jej wniosek, przed upływem okresu umowy za zgodą Komisji Nadzoru Finansowego, z zachowaniem wymogu, o którym mowa w ust. 5, środki pieniężne podlegają zwrotowi w ostatniej kolejności w przypadku upadłości kasy lub jej likwidacji;
+    - **a)** funduszu stabilizacyjnego w kwocie i na zasadach ustalonych w decyzji Komisji Nadzoru Finansowego, wydanej na wniosek kasy, pomniejszanej na koniec każdego roku w ciągu ostatnich 5 lat trwania umowy o 20 % tej kwoty – środków pieniężnych spełniających, zgodnie z umową, łącznie następujące warunki: – środki pieniężne przyjęto na okres co najmniej 5 lat, – środki pieniężne mogą być wycofane z kasy na jej wniosek przed upływem okresu umowy za zgodą Komisji Nadzoru Finansowego, z zachowaniem wymogu, o którym mowa w ust. 5, – środki pieniężne podlegają zwrotowi w ostatniej kolejności w przypadku upadłości kasy lub jej likwidacji, – zwrot środków pieniężnych nie jest zabezpieczony przez kasę bezpośrednio lub pośrednio,
+    - **b)** innych źródeł w kwocie i na zasadach ustalonych w decyzji Komisji Nadzoru Finansowego, wydanej na wniosek kasy, pomniejszanej na koniec każdego roku w ciągu ostatnich 5 lat trwania umowy o 20 % tej kwoty – środków pieniężnych spełniających, zgodnie z umową, łącznie następujące warunki: – środki pieniężne przyjęto na okres co najmniej 5 lat, – środki pieniężne mogą być wycofane z kasy na jej wniosek przed upływem okresu umowy za zgodą Komisji Nadzoru Finansowego, z zachowaniem wymogu, o którym mowa w ust. 5, – środki pieniężne podlegają zwrotowi w ostatniej kolejności w przypadku upadłości kasy lub jej likwidacji, – zwrot środków pieniężnych nie jest zabezpieczony przez kasę bezpośrednio lub pośrednio,
+    - **c)** Bankowego Funduszu Gwarancyjnego w kwocie i na zasadach ustalonych w decyzji Komisji Nadzoru Finansowego, wydanej na wniosek kasy, pomniejszanej na koniec każdego roku w ciągu ostatnich 5 lat trwania umowy o 20 % tej kwoty – środków pieniężnych spełniających, zgodnie z umową, łącznie następujące warunki: – środki pieniężne przyjęto na okres co najmniej 5 lat, – środki pieniężne mogą być wycofane z kasy, na jej wniosek, przed upływem okresu umowy za zgodą Komisji Nadzoru Finansowego, z zachowaniem wymogu, o którym mowa w ust. 5, – środki pieniężne podlegają zwrotowi w ostatniej kolejności w przypadku upadłości kasy lub jej likwidacji;
 
 - **5)** za zgodą Komisji Nadzoru Finansowego, dodatkowa kwota odpowiedzialności członków, w części określonej przez Komisję Nadzoru Finansowego, przy czym suma kwoty dodatkowej odpowiedzialności członków, o której mowa w art. 26 ust. 3, i kwoty, o której mowa w pkt 4, nie może przewyższać 50 % sumy funduszu udziałowego i funduszu zasobowego;
 - **6)** niezrealizowane zyski na instrumentach dłużnych zaklasyfikowanych, zgodnie z odrębnymi przepisami, jako dostępne do sprzedaży;
@@ -575,7 +610,7 @@ Art. 80a–85d. (pominięte)
 - **4)** zaangażowania kapitałowe kasy w instytucje finansowe, instytucje kredytowe, banki krajowe, banki zagraniczne, zakłady ubezpieczeń i zakłady reasekuracji, kasy, w postaci:
     - **a)** posiadanych akcji lub udziałów,
     - **b)** kwot zakwalifikowanych na podstawie ustawy albo odrębnych przepisów do zobowiązań podporządkowanych,
-    - **c)** innego zaangażowania kapitałowego w składniki zaliczane do funduszy własnych lub kapitałów tych podmiotów, w tym dopłaty na rzecz spółki z ograniczoną odpowiedzialnością, według wartości bilansowej z zastrzeżeniem ust. 3a i 3b;
+    - **c)** innego zaangażowania kapitałowego w składniki zaliczane do funduszy własnych lub kapitałów tych podmiotów, w tym dopłaty na rzecz spółki z ograniczoną odpowiedzialnością, według wartości bilansowej – z zastrzeżeniem ust. 3a i 3b;
 
 - **5)** brakującą kwotę odpisów aktualizujących na należności związane z działalnością kasy, rozumianą jako różnica pomiędzy wymaganym odrębnymi przepisami a faktycznym poziomem odpisów aktualizujących kasy;
 - **6)** niezrealizowane straty na instrumentach dłużnych zaklasyfikowanych jako dostępne do sprzedaży;
@@ -608,7 +643,7 @@ Art. 80a–85d. (pominięte)
 
 1. Nadwyżka bilansowa zostaje przeznaczona na zwiększenie funduszu zasobowego lub uzupełnienie udziałów uprzednio przeznaczonych na pokrycie straty bilansowej.
 
-2. Straty bilansowe kas pokrywane są z funduszu zasobowego, a w części przekraczającej fundusz zasobowy z funduszu udziałowego.
+2. Straty bilansowe kas pokrywane są z funduszu zasobowego, a w części przekraczającej fundusz zasobowy – z funduszu udziałowego.
 
 3. Odpowiedzialność członków kas za straty powstałe w kasie, może zostać podwyższona w statucie kasy do podwójnej wysokości wpłaconych udziałów.
 
@@ -643,19 +678,19 @@ Art. 80a–85d. (pominięte)
 
 1. Oszczędności członka kasy złożone w kasie, niezależnie od liczby dowodów na złożone oszczędności, zapisuje się na imiennym rachunku członka kasy i są one wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego, w każdym miesiącu kalendarzowym, w którym obowiązuje zajęcie, do wysokości 75 % minimalnego wynagrodzenia za pracę, ustalanego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, przysługującego pracownikowi zatrudnionemu w pełnym miesięcznym wymiarze czasu pracy.
 
-2. Środki pieniężne znajdujące się na rachunku, o którym mowa w ust. 1, pochodzące ze świadczeń, dodatków i zasiłków, o których mowa w art. 833 § 6 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego i w art. 10 § 4 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268), oraz świadczeń, dodatków i innych kwot, o których mowa w art. 31 ust. 1, art. 80 ust. 1, art. 81, art. 83 ust. 1 i 4, art. 84 pkt 2 i 3 i art. 140 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301 oraz z 2026 r. poz. 187 i 203), oraz środków finansowych na utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, o których mowa w art. 83 ust. 2 i art. 84 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w części przysługującej na umieszczone w rodzinie zastępczej lub rodzinnym domu dziecka dzieci i osoby, które osiągnęły pełnoletność, przebywając w pieczy zastępczej, oraz świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649, z 2025 r. poz. 1302 oraz z 2026 r. poz. 26), dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 9 stycznia 2020 r. o dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2024 r. poz. 891), kolejnego w 2021 r. dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 21 stycznia 2021 r. o kolejnym w 2021 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2022 r. poz. 2235), kolejnego w 2022 r. dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1358), oraz kolejnego dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2025 r. poz. 183), są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego.
+2. Środki pieniężne znajdujące się na rachunku, o którym mowa w ust. 1, pochodzące ze świadczeń, dodatków i zasiłków, o których mowa w art. 833 § 6 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego i w art. 10 § 4 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268), oraz świadczeń, dodatków i innych kwot, o których mowa w art. 31 ust. 1, art. 80 ust. 1, art. 81, art. 83 ust. 1 i 4, art. 84 pkt 2 i 3 i art. 140 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301 oraz z 2026 r. poz. 187 i 203), oraz środków finansowych na utrzymanie lokalu mieszkalnego w budynku wielorodzinnym lub domu jednorodzinnego, o których mowa w art. 83 ust. 2 i art. 84 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w części przysługującej na umieszczone w rodzinie zastępczej lub rodzinnym domu dziecka dzieci i osoby, które osiągnęły pełnoletność, przebywając w pieczy zastępczej, oraz świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649, z 2025 r. poz. 1302 oraz z 2026 r. poz. 26), dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 9 stycznia 2020 r. o dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2024 r. poz. 891), kolejnego w 2021 r. dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 21 stycznia 2021 r. o kolejnym w 2021 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2022 r. poz. 2235), kolejnego w 2022 r. dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1358), oraz kolejnego dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2025 r. poz. 183), są wolne od zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego.
 
-3. Środki pieniężne znajdujące się na rachunku będącym przedmiotem blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa nie podlegają zajęciu na podstawie sądowego lub administracyjnego tytułu wykonawczego, poza wyjątkami określonymi w przepisach o postępowaniu egzekucyjnym.
+3. Środki pieniężne znajdujące się na rachunku będącym przedmiotem blokady rachunku podmiotu kwalifikowanego w rozumieniu art. 119zg pkt 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa nie podlegają zajęciu na podstawie sądowego lub administracyjnego tytułu wykonawczego, poza wyjątkami określonymi w przepisach o postępowaniu egzekucyjnym.
 
 4. Do rachunków zawartych w wykazie podmiotów, o którym mowa w art. 96b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, nie stosuje się określonych w ust. 1 ograniczeń zajęcia na podstawie sądowego lub administracyjnego tytułu wykonawczego.
 
-5. W przypadku realizacji zajęcia wierzytelności z rachunku dłużnika będącego członkiem kasy, kasa korzysta z systemu teleinformatycznego, o którym mowa w art. 112c ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+5. W przypadku realizacji zajęcia wierzytelności z rachunku dłużnika będącego członkiem kasy, kasa korzysta z systemu teleinformatycznego, o którym mowa w art. 112c ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
-6. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowe wymagania dotyczące identyfikacji kasy w systemie teleinformatycznym, o którym mowa w art. 112c ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, sposób posługiwania się podpisem elektronicznym na potrzeby autoryzacji treści przesyłanych w tym systemie oraz wymagania w zakresie doręczania korespondencji za jego pośrednictwem, mając na względzie bezpieczeństwo posługiwania się dokumentami w postaci elektronicznej oraz sprawne zajęcie wierzytelności z rachunku prowadzonego w kasie.
+6. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowe wymagania dotyczące identyfikacji kasy w systemie teleinformatycznym, o którym mowa w art. 112c ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, sposób posługiwania się podpisem elektronicznym na potrzeby autoryzacji treści przesyłanych w tym systemie oraz wymagania w zakresie doręczania korespondencji za jego pośrednictwem, mając na względzie bezpieczeństwo posługiwania się dokumentami w postaci elektronicznej oraz sprawne zajęcie wierzytelności z rachunku prowadzonego w kasie.
 
 **Art. 28a.**
 
-1. Kasa prowadząca działalność na terytorium Rzeczypospolitej Polskiej informuje w sposób, w jaki są podawane informacje o świadczonych usługach osoby korzystające oraz zainteresowane korzystaniem z jej usług o:
+1. Kasa prowadząca działalność na terytorium Rzeczypospolitej Polskiej informuje – w sposób, w jaki są podawane informacje o świadczonych usługach – osoby korzystające oraz zainteresowane korzystaniem z jej usług o:
 
 - **1)** swojej sytuacji ekonomiczno-finansowej;
 - **2)** uczestnictwie w systemie gwarantowania i zasadach jego funkcjonowania, w tym o zakresie podmiotowym i przedmiotowym ochrony przysługującej ze strony tego systemu, wskazując w szczególności:
@@ -720,7 +755,7 @@ Art. 80a–85d. (pominięte)
 
 **Art. 33.** Członkowie rady nadzorczej, zarządu i komisji kredytowej nie mogą poręczać pożyczek i kredytów udzielonych przez kasę, w której pełnią funkcję.
 
-**Art. 34.** Kasa uzależnia przyjęcie poręczenia kredytu lub pożyczki przez jej członka od jego zdolności kredytowej. Przepisy art. 70 oraz art. 74–78 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe stosuje się odpowiednio.
+**Art. 34.** Kasa uzależnia przyjęcie poręczenia kredytu lub pożyczki przez jej członka od jego zdolności kredytowej. Przepisy art. 70 oraz art. 74–78 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe stosuje się odpowiednio.
 
 **Art. 35.** W razie ustania członkostwa roszczenie o zwrot pożyczki lub kredytu staje się wymagalne z dniem ustania członkostwa. Zarząd może postanowić inaczej w szczególnie uzasadnionych przypadkach.
 
@@ -728,11 +763,11 @@ Art. 80a–85d. (pominięte)
 
 1. Zasady udzielania pożyczek oraz ich spłaty określa statut kasy.
 
-1a. Do umów pożyczek zawieranych przez kasy stosuje się odpowiednio przepisy art. 75c ust. 1–5, art. 78b i art. 105d ust. 1 i 3–6 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+1a. Do umów pożyczek zawieranych przez kasy stosuje się odpowiednio przepisy art. 75c ust. 1–5, art. 78b i art. 105d ust. 1 i 3–6 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
-2. Do umów kredytowych zawieranych przez kasy stosuje się odpowiednio przepisy art. 69, art. 70, art. 74–78, art. 78b i art. 105d ust. 1 i 3–6 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+2. Do umów kredytowych zawieranych przez kasy stosuje się odpowiednio przepisy art. 69, art. 70, art. 74–78, art. 78b i art. 105d ust. 1 i 3–6 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
-2a. Do wypłat gotówkowych dokonywanych przez kasy stosuje się odpowiednio przepis art. 105d ust. 2 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+2a. Do wypłat gotówkowych dokonywanych przez kasy stosuje się odpowiednio przepis art. 105d ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 3. Do umów o kredyt konsumencki zawieranych przez kasy stosuje się przepisy ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2025 r. poz. 1362).
 
@@ -812,7 +847,7 @@ Art. 80a–85d. (pominięte)
 
 - **2)** podmiot, na który kasa lub Kasa Krajowa ma znaczący wpływ w rozumieniu art. 3 ust. 1 pkt 36 ustawy z dnia 29 września 1994 r. o rachunkowości;
 - **3)** podmiot, wobec którego kasa lub Kasa Krajowa jest podmiotem dominującym w rozumieniu art. 4 pkt 14 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592 oraz z 2026 r. poz. 176);
-- **4)** podmiot posiadający bliskie powiązania w rozumieniu art. 4 ust. 1 pkt 15 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe z kasą lub Kasą Krajową, przy czym przepisy art. 4a ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe stosuje się odpowiednio;
+- **4)** podmiot posiadający bliskie powiązania w rozumieniu art. 4 ust. 1 pkt 15 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe z kasą lub Kasą Krajową, przy czym przepisy art. 4a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe stosuje się odpowiednio;
 - **5)** fundusz inwestycyjny zarządzany przez towarzystwo, spółkę zarządzającą albo zarządzającego z UE, którzy są podmiotami, o których mowa w pkt 1–4, albo którego portfel inwestycyjny lub jego część zostały powierzone w zarządzanie kasie lub Kasie Krajowej zbywającym wierzytelności albo podmiotom, o których mowa w pkt 1–4;
 - **6)** alternatywna spółka inwestycyjna zarządzana przez zarządzającego ASI albo zarządzającego z UE, którzy są podmiotami, o których mowa w pkt 1–4, albo której portfel inwestycyjny lub jego część zostały powierzone w zarządzanie kasie lub Kasie Krajowej zbywającym wierzytelności albo podmiotom, o których mowa w pkt 1–4;
 - **7)** fundusz inwestycyjny lub alternatywny fundusz inwestycyjny utworzone poza terytorium Rzeczypospolitej Polskiej, zarządzane przez podmioty, o których mowa w pkt 1–4, albo których portfel inwestycyjny lub jego część zostały powierzone w zarządzanie kasie lub Kasie Krajowej zbywającym wierzytelności albo podmiotom, o których mowa w pkt 1–4.
@@ -827,7 +862,7 @@ Art. 80a–85d. (pominięte)
 
 **Art. 41.**
 
-1. Kasa Krajowa jest spółdzielnią osób prawnych, do której w zakresie nieuregulowanym ustawą stosuje się przepisy ustawy z dnia 16 września 1982 r. Prawo spółdzielcze.
+1. Kasa Krajowa jest spółdzielnią osób prawnych, do której w zakresie nieuregulowanym ustawą stosuje się przepisy ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze.
 
 2. Kasy zrzeszają się w Kasie Krajowej. Członkami Kasy Krajowej są wyłącznie kasy.
 
@@ -862,7 +897,7 @@ Art. 80a–85d. (pominięte)
 
 6. Kasa Krajowa, w zakresie wydawanych instrumentów płatniczych, prowadzi działalność także na rzecz członków kas na podstawie umowy zawartej z kasą, o czym informuje Komisję Nadzoru Finansowego.
 
-7. Kasa Krajowa przeprowadza lustrację zrzeszonych kas zgodnie z przepisami ustawy z dnia 16 września 1982 r. Prawo spółdzielcze. Przepisy tej ustawy o związkach rewizyjnych dotyczące lustracji stosuje się odpowiednio do Kasy Krajowej.
+7. Kasa Krajowa przeprowadza lustrację zrzeszonych kas zgodnie z przepisami ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze. Przepisy tej ustawy o związkach rewizyjnych dotyczące lustracji stosuje się odpowiednio do Kasy Krajowej.
 
 8. Kasa Krajowa może prowadzić działalność na rzecz podmiotu przejmującego kasę, przejmującego wybrane prawa majątkowe lub wybrane zobowiązania kasy, nabywcy przedsiębiorstwa kasy w likwidacji, jego zorganizowanej części lub wybranych praw majątkowych, w zakresie i na warunkach działalności prowadzonej na rzecz kasy, wobec której Komisja Nadzoru Finansowego podjęła decyzję o przejęciu lub likwidacji. Za zgodą przejmującego lub nabywcy oraz Kasy Krajowej zakres i warunki, o których mowa w zdaniu poprzedzającym, mogą zostać zmienione.
 
@@ -896,6 +931,10 @@ Art. 80a–85d. (pominięte)
 
 **Art. 47.** Organami Kasy Krajowej są:
 
+- **1)** walne zgromadzenie;
+- **2)** rada nadzorcza;
+- **3)** zarząd.
+
 **Art. 48.**
 
 1. Walne zgromadzenie jest najwyższym organem Kasy Krajowej.
@@ -920,7 +959,7 @@ Art. 80a–85d. (pominięte)
 
 1. Zarząd składa się z 3 do 5 osób powoływanych przez radę nadzorczą. Powołanie trzech członków zarządu, w tym prezesa, następuje za zgodą Komisji Nadzoru Finansowego. Z wnioskiem o wyrażenie zgody występuje rada nadzorcza Kasy Krajowej.
 
-1a. Członkowie zarządu kasy powinni mieć wiedzę, umiejętności i doświadczenie, odpowiednie do pełnionych przez nich funkcji i powierzonych im obowiązków, oraz dawać rękojmię należytego wykonywania tych obowiązków. Rękojmia, o której mowa w zdaniu poprzedzającym, odnosi się w szczególności do reputacji, uczciwości i rzetelności danej osoby oraz zdolności do prowadzenia spraw kasy w sposób ostrożny i stabilny. Do oceny rękojmi ostrożnego i stabilnego zarządzania kasą stosuje się odpowiednio przepisy art. 22aa ust. 10–12 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+1a. Członkowie zarządu kasy powinni mieć wiedzę, umiejętności i doświadczenie, odpowiednie do pełnionych przez nich funkcji i powierzonych im obowiązków, oraz dawać rękojmię należytego wykonywania tych obowiązków. Rękojmia, o której mowa w zdaniu poprzedzającym, odnosi się w szczególności do reputacji, uczciwości i rzetelności danej osoby oraz zdolności do prowadzenia spraw kasy w sposób ostrożny i stabilny. Do oceny rękojmi ostrożnego i stabilnego zarządzania kasą stosuje się odpowiednio przepisy art. 22aa ust. 10–12 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 
 2. Członkowie zarządu oraz osoby zajmujące stanowiska kierownicze w Kasie Krajowej nie mogą pełnić żadnych funkcji lub być pracownikami kas oraz w innych podmiotach nadzorowanych przez Komisję Nadzoru Finansowego.
 
@@ -961,7 +1000,7 @@ Art. 80a–85d. (pominięte)
 
 **Art. 53.**
 
-1. Statut Kasy Krajowej, oprócz spraw określonych w art. 5 § 1 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze, powinien określać w szczególności:
+1. Statut Kasy Krajowej, oprócz spraw określonych w art. 5 § 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze, powinien określać w szczególności:
 
 - **1)** zasady funkcjonowania kontroli wewnętrznej;
 - **2)** fundusze oraz zasady gospodarki finansowej.
@@ -974,8 +1013,8 @@ Art. 80a–85d. (pominięte)
 
 1. Funduszami własnymi Kasy Krajowej są:
 
-- **1)** fundusz udziałowy powstający z wpłat udziałów członkowskich;
-- **2)** fundusz zasobowy powstający z wpłat wpisowego wnoszonego przez członków.
+- **1)** fundusz udziałowy – powstający z wpłat udziałów członkowskich;
+- **2)** fundusz zasobowy – powstający z wpłat wpisowego wnoszonego przez członków.
 
 2. Szczegółowe zasady gospodarowania funduszami, o których mowa w ust. 1, określa statut Kasy Krajowej.
 
@@ -1030,6 +1069,10 @@ Art. 80a–85d. (pominięte)
 3. Strata bilansowa Kasy Krajowej pokrywana jest w pierwszej kolejności z nadwyżki bilansowej przyszłych okresów.
 
 **Art. 58.** W razie ustania członkostwa w Kasie Krajowej wkłady wniesione przez kasę na fundusz stabilizacyjny, o których mowa w art. 55 ust. 1, podlegają zwrotowi z zachowaniem następujących zasad:
+
+- **1)** zwrot następuje z wolnych środków funduszu stabilizacyjnego proporcjonalnie do wysokości wkładów wniesionych przez poszczególnych członków;
+- **2)** kwota wolnych środków funduszu stabilizacyjnego jest ustalana na dzień zatwierdzania sprawozdania finansowego za rok, w którym były członek wystąpił z żądaniem zwrotu;
+- **3)** kwota podlegająca zwrotowi płatna jest jednorazowo w ciągu 30 dni, licząc od dnia zatwierdzenia sprawozdania finansowego Kasy Krajowej za rok, w którym zgłoszono żądanie zwrotu.
 
 **Art. 59.** W razie połączenia kasy z inną kasą będącą członkiem Kasy Krajowej wkłady członkowskie kasy przejmowanej stają się wkładami członkowskimi kasy przejmującej.
 
@@ -1172,7 +1215,7 @@ Art. 80a–85d. (pominięte)
 
 2. Zlecenie badania określonego w ust. 1 może zostać udzielone także bezpośrednio przez Komisję Nadzoru Finansowego. Koszty badania ponosi wówczas Komisja Nadzoru Finansowego. Jeżeli w wyniku badania zleconego przez Komisję Nadzoru Finansowego stwierdzono nieprawidłowości w kasie albo w Kasie Krajowej, koszty badania ponosi odpowiednio kasa albo Kasa Krajowa.
 
-3. Do zlecenia biegłemu rewidentowi badania sprawozdania finansowego kasy albo Kasy Krajowej, o którym mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+3. Do zlecenia biegłemu rewidentowi badania sprawozdania finansowego kasy albo Kasy Krajowej, o którym mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 **Art. 62e.**
 
@@ -1183,9 +1226,13 @@ Art. 80a–85d. (pominięte)
 - **3)** naruszenie zasad dobrych praktyk lub inne zagrożenie interesów klientów kasy;
 - **4)** istnienie przesłanek do wyrażenia opinii negatywnej na temat sprawozdania finansowego kasy lub Kasy Krajowej lub odmowy wyrażenia tej opinii.
 
-2. Przepisy ust. 1 stosuje się odpowiednio do biegłych rewidentów badających sprawozdania finansowe przedsiębiorcy, o którym mowa w art. 9a i art. 9b, oraz podmiotów posiadających bliskie powiązania w rozumieniu art. 4 ust. 1 pkt 15 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe z kasą lub Kasą Krajową.
+2. Przepisy ust. 1 stosuje się odpowiednio do biegłych rewidentów badających sprawozdania finansowe przedsiębiorcy, o którym mowa w art. 9a i art. 9b, oraz podmiotów posiadających bliskie powiązania w rozumieniu art. 4 ust. 1 pkt 15 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe z kasą lub Kasą Krajową.
 
 **Art. 62f.** Kasa jest obowiązana:
+
+- **1)** zawiadomić Komisję Nadzoru Finansowego i Kasę Krajową o podjęciu albo zaprzestaniu działalności;
+- **2)** udostępnić upoważnionym osobom do wglądu księgi rachunkowe, sprawozdania finansowe, rejestry, plany, sprawozdania i inne dokumenty oraz umożliwić, na pisemne żądanie, sporządzenie kopii tych dokumentów i innych nośników informacji, jak również udzielić wyjaśnień żądanych przez te osoby;
+- **3)** niezwłocznie zawiadomić Komisję Nadzoru Finansowego i Kasę Krajową o środkach, jakie zostaną podjęte w celu usunięcia nieprawidłowości stwierdzonych w ramach kontroli oraz nadzoru.
 
 **Art. 62g.**
 
@@ -1234,7 +1281,23 @@ Art. 80a–85d. (pominięte)
 
 **Art. 66.** Czynności podejmowane przez Kasę Krajową w ramach kontroli działalności kas polegają w szczególności na:
 
+- **1)** analizie sprawozdań finansowych kas;
+- **2)** badaniu realizacji obowiązku utrzymywania płynności płatniczej przez kasy;
+- **3)** badaniu zgodności udzielanych kredytów i pożyczek przez kasy z przepisami art. 29–32 i art. 36;
+- **4)** badaniu zabezpieczenia i terminowości spłaty kredytów i pożyczek kas;
+- **5)** badaniu stosowanego oprocentowania kredytów i pożyczek oraz złożonych oszczędności i lokat w kasach;
+- **6)** badaniu sytuacji finansowej kas.
+
 **Art. 67.** Czynności podejmowane przez Komisję Nadzoru Finansowego w ramach nadzoru nad działalnością kas polegają w szczególności na:
+
+- **1)** dokonywaniu oceny sytuacji finansowej kasy, w tym badaniu wypłacalności, jakości aktywów, płynności płatniczej, wyniku finansowego kasy;
+- **2)** badaniu jakości systemu zarządzania kasą, w tym systemu zarządzania ryzykiem oraz funkcji kontroli wewnętrznej;
+- **3)** badaniu zgodności udzielanych kredytów, pożyczek pieniężnych oraz emitowanych papierów wartościowych z obowiązującymi w tym zakresie przepisami;
+- **4)** badaniu zabezpieczenia i terminowości spłaty kredytów i pożyczek pieniężnych;
+- **5)** badaniu przestrzegania limitów, o których mowa w art. 30–32 i art. 37;
+- **6)** badaniu przestrzegania przez kasę norm dopuszczalnego ryzyka w działalności kasy, zarządzania ryzykiem prowadzonej działalności, w tym dostosowania do rodzaju i skali działalności kasy procesu identyfikacji i monitorowania ryzyka oraz sprawozdawania o ryzyku, a także dopuszczalnego ryzyka w działalności kasy;
+- **7)** badaniu przestrzegania obowiązków wynikających z przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- **8)** badaniu wykonywania przez kasę obowiązków, o których mowa w art. 13a–13f oraz art. 14 ust. 2a i 2b.
 
 **Art. 68.**
 
@@ -1252,6 +1315,13 @@ Art. 80a–85d. (pominięte)
 3. Komisja Nadzoru Finansowego może zalecić Kasie Krajowej dokonanie zmian w metodyce i zasadach określających sposób i zakres przeprowadzania kontroli w kasach.
 
 **Art. 68a.** W celu realizacji zadań ustawowych w zakresie czynności kontrolnych, na podstawie art. 65 ust. 2, zespół inspekcyjny, w zakresie wynikającym z upoważnienia Komisji Nadzoru Finansowego, ma prawo:
+
+- **1)** wstępu do pomieszczeń kontrolowanego;
+- **2)** wglądu do dokumentów kontrolowanego;
+- **3)** sporządzania uwierzytelnionych kopii, odpisów lub wyciągów z dokumentów oraz zestawień i danych niezbędnych do przeprowadzenia kontroli;
+- **4)** wglądu do danych zawartych w systemie informatycznym kontrolowanego oraz sporządzania kopii lub wyciągów z tych danych, w tym w formie elektronicznej;
+- **5)** żądania udzielania ustnych lub pisemnych wyjaśnień w zakresie objętym kontrolą, w wyznaczonym terminie, oraz zapewnienia terminowego udzielania wyjaśnień przez pracowników kasy;
+- **6)** żądania zapewnienia warunków i środków będących w dyspozycji kontrolowanego niezbędnych do sprawnego przeprowadzania kontroli.
 
 **Art. 69.**
 
@@ -1329,6 +1399,13 @@ Art. 80a–85d. (pominięte)
 
 **Art. 71a.** Decyzjom Komisji Nadzoru Finansowego w sprawie:
 
+- **1)** zawieszenia w czynnościach członków zarządu kasy lub Kasy Krajowej,
+- **2)** ograniczenia zakresu działalności kasy lub Kasy Krajowej,
+- **3)** odwołania członka zarządu kasy lub Kasy Krajowej,
+- **4)** odwołania kuratora,
+- **5)** odwołania likwidatora kasy,
+- **6)** zawieszenia działalności kasy – nadaje się rygor natychmiastowej wykonalności.
+
 **Art. 71b.**
 
 1. W przypadku gdy kasa nie udostępnia usługi podstawowego rachunku płatniczego, o której mowa w art. 59ia ust. 1 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, Komisja Nadzoru Finansowego może nałożyć na tę kasę karę pieniężną w wysokości do 100 000 zł, po uprzednim bezskutecznym wezwaniu jej do spełnienia tego obowiązku w terminie wyznaczonym przez Komisję Nadzoru Finansowego.
@@ -1387,13 +1464,13 @@ Art. 80a–85d. (pominięte)
 
 5. W przypadku braku wniesienia sprzeciwu do sądu w terminie, o którym mowa w ust. 4, lub w przypadku oświadczenia kuratora, że nie będzie zgłaszał sprzeciwu, uchwała lub decyzja, o których mowa w ust. 3, może zostać wykonana.
 
-6. Kurator może zaskarżyć do sądu uchwałę walnego zgromadzenia kasy lub Kasy Krajowej. Przepis art. 42 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze stosuje się odpowiednio.
+6. Kurator może zaskarżyć do sądu uchwałę walnego zgromadzenia kasy lub Kasy Krajowej. Przepis art. 42 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze stosuje się odpowiednio.
 
 7. Kurator otrzymuje w razie potrzeby urlop bezpłatny w macierzystym zakładzie pracy na czas pełnienia tej funkcji.
 
 8. Okres urlopu bezpłatnego zalicza się do okresów pracy oraz innych okresów, od których zależy nabycie uprawnień pracowniczych.
 
-9. Od decyzji o ustanowieniu kuratora kasa lub Kasa Krajowa może wnieść skargę do sądu administracyjnego w terminie 7 dni od dnia doręczenia decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+9. Od decyzji o ustanowieniu kuratora kasa lub Kasa Krajowa może wnieść skargę do sądu administracyjnego w terminie 7 dni od dnia doręczenia decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 10. Kurator składa Komisji Nadzoru Finansowego kwartalne sprawozdania ze swojej działalności zawierające ocenę realizacji przez kasę lub Kasę Krajową programu postępowania naprawczego, o którym mowa w art. 72a ust. 1 lub w art. 72b ust. 1. W przypadku programów postępowania naprawczego, o których mowa w art. 72a ust. 1, realizowanych w kasach sprawozdania przekazywane są także Kasie Krajowej.
 
@@ -1413,7 +1490,7 @@ Art. 80a–85d. (pominięte)
 
 5. Zarządca komisaryczny opracowuje i uzgadnia z Komisją Nadzoru Finansowego program postępowania naprawczego, kieruje jego realizacją oraz informuje Komisję Nadzoru Finansowego i radę nadzorczą kasy lub Kasy Krajowej o wynikach jego realizacji.
 
-6. Od decyzji, o której mowa w ust. 1, rada nadzorcza kasy lub Kasy Krajowej może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+6. Od decyzji, o której mowa w ust. 1, rada nadzorcza kasy lub Kasy Krajowej może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 6a. Członkowie zarządu komisarycznego otrzymują w razie potrzeby urlop bezpłatny w macierzystym zakładzie pracy na czas pełnienia tej funkcji.
 
@@ -1471,9 +1548,9 @@ Art. 80a–85d. (pominięte)
 
 7. Tryb i terminy przejęcia lub likwidacji kasy określa decyzja, o której mowa w ust. 3 i 4. W decyzji o likwidacji kasy Komisja Nadzoru Finansowego ustanawia także likwidatora.
 
-8. Od decyzji, o której mowa w ust. 3 i 4, rada nadzorcza kasy może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty jej doręczenia. Wniesienie skargi nie wstrzymuje wykonania decyzji, jednakże przed rozpatrzeniem skargi nie może być rozpoczęte zbywanie majątku kasy w likwidacji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+8. Od decyzji, o której mowa w ust. 3 i 4, rada nadzorcza kasy może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty jej doręczenia. Wniesienie skargi nie wstrzymuje wykonania decyzji, jednakże przed rozpatrzeniem skargi nie może być rozpoczęte zbywanie majątku kasy w likwidacji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
-9. W przypadku uznania skargi na decyzję o przejęciu kasy albo o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy za zasadną, sąd orzeka o jej wydaniu z naruszeniem prawa. Przepisu art. 145 § 1 pkt 1 i 2 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143) nie stosuje się.
+9. W przypadku uznania skargi na decyzję o przejęciu kasy albo o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy za zasadną, sąd orzeka o jej wydaniu z naruszeniem prawa. Przepisu art. 145 § 1 pkt 1 i 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143) nie stosuje się.
 
 10. W przypadku podjęcia przez Komisję Nadzoru Finansowego decyzji o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy Komisja Nadzoru Finansowego podejmuje jednocześnie decyzję o ustanowieniu zarządcy komisarycznego, o ile nie został on ustanowiony wcześniej. Przepisy art. 73 ust. 3–6b, 8 i 9 stosuje się odpowiednio.
 
@@ -1483,11 +1560,11 @@ Art. 80a–85d. (pominięte)
 
 13. W przypadku przejęcia kasy albo przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przez bank spółdzielczy przepisy art. 5 ust. 3 i 4 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r. poz. 265 i 1191 oraz z 2026 r. poz. 331) stosuje się odpowiednio.
 
-14. W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przez inną kasę przepisy art. 100 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze stosuje się odpowiednio.
+14. W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przez inną kasę przepisy art. 100 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze stosuje się odpowiednio.
 
-15. W przypadku przejęcia kasy termin na przekazanie informacji, o której mowa w art. 23 § 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25), nie może być krótszy niż 2 dni. W przypadku decyzji o likwidacji kasy przepisu art. 23 tej ustawy nie stosuje się.
+15. W przypadku przejęcia kasy termin na przekazanie informacji, o której mowa w art. 23 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25), nie może być krótszy niż 2 dni. W przypadku decyzji o likwidacji kasy przepisu art. 23 tej ustawy nie stosuje się.
 
-**Art. 74d.** Z dniem określonym w decyzji Komisji Nadzoru Finansowego o likwidacji kasy, o której mowa w art. 74c ust. 4, zarząd kasy ulega rozwiązaniu, mandaty jego członków ulegają wygaśnięciu, a zarząd majątkiem likwidowanej kasy obejmuje likwidator. Kompetencje rady nadzorczej, z zastrzeżeniem art. 74c ust. 8, zostają zawieszone. Likwidator reprezentuje kasę w likwidacji w sądzie i poza sądem. Przepisy art. 119–129 ustawy z dnia 16 września 1982 r. Prawo spółdzielcze stosuje się odpowiednio.
+**Art. 74d.** Z dniem określonym w decyzji Komisji Nadzoru Finansowego o likwidacji kasy, o której mowa w art. 74c ust. 4, zarząd kasy ulega rozwiązaniu, mandaty jego członków ulegają wygaśnięciu, a zarząd majątkiem likwidowanej kasy obejmuje likwidator. Kompetencje rady nadzorczej, z zastrzeżeniem art. 74c ust. 8, zostają zawieszone. Likwidator reprezentuje kasę w likwidacji w sądzie i poza sądem. Przepisy art. 119–129 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze stosuje się odpowiednio.
 
 **Art. 74e.**
 
@@ -1519,7 +1596,7 @@ Art. 80a–85d. (pominięte)
 
 **Art. 74i.**
 
-1. Na dzień poprzedzający dzień przejęcia sporządza się sprawozdanie finansowe kasy przejętej albo kasy, której wybrane prawa majątkowe lub zobowiązania zostały przejęte przez inną kasę, bank krajowy albo instytucję kredytową. Sprawozdanie finansowe sporządza podmiot przejmujący kasę, a w przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań zarządca komisaryczny, na zasadach właściwych dla rocznych sprawozdań finansowych określonych w ustawie z dnia 29 września 1994 r. o rachunkowości. W sprawozdaniu finansowym wykazuje się wartość i zakres umorzenia instrumentów kapitałowych i zobowiązań podporządkowanych, o których mowa w art. 267a ust. 8 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
+1. Na dzień poprzedzający dzień przejęcia sporządza się sprawozdanie finansowe kasy przejętej albo kasy, której wybrane prawa majątkowe lub zobowiązania zostały przejęte przez inną kasę, bank krajowy albo instytucję kredytową. Sprawozdanie finansowe sporządza podmiot przejmujący kasę, a w przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań – zarządca komisaryczny, na zasadach właściwych dla rocznych sprawozdań finansowych określonych w ustawie z dnia 29 września 1994 r. o rachunkowości. W sprawozdaniu finansowym wykazuje się wartość i zakres umorzenia instrumentów kapitałowych i zobowiązań podporządkowanych, o których mowa w art. 267a ust. 8 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
 
 2. Z dniem przejęcia kasa przejmująca, bank krajowy przejmujący albo instytucja kredytowa przejmująca wchodzi we wszystkie prawa i obowiązki kasy przejmowanej. W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań następstwo prawne ogranicza się do przejmowanych praw majątkowych i zobowiązań.
 
@@ -1566,7 +1643,7 @@ Art. 80a–85d. (pominięte)
 
 1. Jeżeli na dzień sprawozdawczy określony w przepisach wydanych na podstawie art. 62c ust. 4 aktywa kasy nie wystarczają na zaspokojenie jej zobowiązań, zarząd kasy, zarządca komisaryczny lub likwidator powiadamia o tym niezwłocznie Komisję Nadzoru Finansowego, która podejmuje decyzję o ustanowieniu zarządcy komisarycznego, o ile nie został ustanowiony wcześniej, i może podjąć decyzję o zawieszeniu działalności kasy oraz wystąpić do właściwego sądu z wnioskiem o ogłoszenie upadłości kasy, a także Kasę Krajową. O podjętych decyzjach Komisja Nadzoru Finansowego niezwłocznie zawiadamia Bankowy Fundusz Gwarancyjny oraz Kasę Krajową. Przepisy art. 73 ust. 3–6b i 8 stosuje się odpowiednio.
 
-2. Jeżeli z powodów związanych bezpośrednio z sytuacją finansową kasy nie reguluje ona swoich zobowiązań w zakresie wypłaty środków gwarantowanych, o których mowa w art. 2 pkt 65 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, wobec deponentów w rozumieniu art. 2 pkt 3 tej ustawy, Komisja Nadzoru Finansowego w terminie 5 dni roboczych od dnia stwierdzenia tej okoliczności podejmuje decyzje, o których mowa w ust. 1. O podjętych decyzjach Komisja Nadzoru Finansowego niezwłocznie zawiadamia Bankowy Fundusz Gwarancyjny.
+2. Jeżeli z powodów związanych bezpośrednio z sytuacją finansową kasy nie reguluje ona swoich zobowiązań w zakresie wypłaty środków gwarantowanych, o których mowa w art. 2 pkt 65 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, wobec deponentów w rozumieniu art. 2 pkt 3 tej ustawy, Komisja Nadzoru Finansowego – w terminie 5 dni roboczych od dnia stwierdzenia tej okoliczności – podejmuje decyzje, o których mowa w ust. 1. O podjętych decyzjach Komisja Nadzoru Finansowego niezwłocznie zawiadamia Bankowy Fundusz Gwarancyjny.
 
 3. Komisja Nadzoru Finansowego nie podejmuje decyzji, o których mowa w ust. 1 albo 2, jeżeli Bankowy Fundusz Gwarancyjny podjął decyzję o wszczęciu przymusowej restrukturyzacji wobec kasy.
 
@@ -1595,7 +1672,7 @@ Art. 80a–85d. (pominięte)
 
 **Art. 74n.**
 
-1. Bezskuteczne są czynności prawne odpłatne rozporządzające dokonane przez kasę w terminie 6 miesięcy przed dniem przejęcia albo likwidacji, z jej członkami zarządu, pełnomocnikami lub ich małżonkami, jak również z podmiotami powiązanymi w rozumieniu art. 4 ust. 1 pkt 16 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, ich wspólnikami lub członkami, członkami zarządu, pełnomocnikami zarządu, lub małżonkami tych osób.
+1. Bezskuteczne są czynności prawne odpłatne rozporządzające dokonane przez kasę w terminie 6 miesięcy przed dniem przejęcia albo likwidacji, z jej członkami zarządu, pełnomocnikami lub ich małżonkami, jak również z podmiotami powiązanymi w rozumieniu art. 4 ust. 1 pkt 16 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, ich wspólnikami lub członkami, członkami zarządu, pełnomocnikami zarządu, lub małżonkami tych osób.
 
 2. Przepis ust. 1 stosuje się także do czynności kasy, których dokonała z innym podmiotem, jeżeli jeden z nich był podmiotem dominującym w rozumieniu art. 4 pkt 14 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, w dacie dokonania czynności.
 
@@ -1621,11 +1698,11 @@ Art. 80a–85d. (pominięte)
 
 3. Powództwo likwidatora, kasy przejmującej, banku krajowego przejmującego albo instytucji kredytowej przejmującej o ustalenie wysokości należnego wynagrodzenia rozpoznaje właściwy miejscowo sąd okręgowy sąd gospodarczy.
 
-**Art. 74r.** W sprawach nieuregulowanych w art. 74m–74q do zaskarżenia czynności prawnych kasy przejmowanej lub kasy w likwidacji dokonanych z pokrzywdzeniem wierzycieli, stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny o ochronie wierzyciela w razie niewypłacalności dłużnika.
+**Art. 74r.** W sprawach nieuregulowanych w art. 74m–74q do zaskarżenia czynności prawnych kasy przejmowanej lub kasy w likwidacji dokonanych z pokrzywdzeniem wierzycieli, stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny o ochronie wierzyciela w razie niewypłacalności dłużnika.
 
 **Art. 74s.**
 
-1. Nie można uznać czynności za bezskuteczną po upływie dwóch lat od dnia wydania decyzji, o których mowa w art. 74c ust. 3 i 4, chyba że na podstawie przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny uprawnienie to wygasło wcześniej.
+1. Nie można uznać czynności za bezskuteczną po upływie dwóch lat od dnia wydania decyzji, o których mowa w art. 74c ust. 3 i 4, chyba że na podstawie przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny uprawnienie to wygasło wcześniej.
 
 2. Jeżeli czynność kasy przejmowanej lub kasy w likwidacji jest bezskuteczna z mocy prawa lub została uznana za bezskuteczną, wówczas to, co wskutek tej czynności ubyło z majątku kasy lub do niego nie weszło, podlega przekazaniu do kasy przejmowanej lub kasy w likwidacji, a gdy przekazanie w naturze jest niemożliwe, do kasy powinna być wpłacona równowartość w pieniądzach. Do chwili przekazania osobie trzeciej nie zwraca się świadczenia wzajemnego.
 
@@ -1650,6 +1727,11 @@ Art. 80a–85d. (pominięte)
 
 **Art. 74u.** W przypadku gdy decyzja o likwidacji kasy została podjęta przez jej członków, likwidacja prowadzona jest zgodnie z zasadami obowiązującymi przy likwidacji spółdzielni, z tym że:
 
+- **1)** sprawozdanie finansowe sporządzone na dzień otwarcia likwidacji, program likwidacji oraz sprawozdanie z przeprowadzonej likwidacji podlegają zatwierdzeniu przez Komisję Nadzoru Finansowego;
+- **2)** likwidator, nierzadziej niż raz na miesiąc, składa Komisji Nadzoru Finansowego, Bankowemu Funduszowi Gwarancyjnemu, Kasie Krajowej i radzie nadzorczej kasy sprawozdania z przebiegu likwidacji;
+- **3)** podział pomiędzy członków majątku pozostałego po zaspokojeniu i zabezpieczeniu wierzycieli nie może nastąpić przed upływem roku od daty ostatniego ogłoszenia o otwarciu likwidacji;
+- **4)** Komisja Nadzoru Finansowego może podjąć decyzję o odwołaniu likwidatora wyznaczonego przez kasę, jeżeli prowadzi on likwidację kasy w sposób zagrażający bezpieczeństwu środków pieniężnych zgromadzonych na rachunkach oszczędnościowych; Komisja Nadzoru Finansowego powołuje wówczas nowego likwidatora.
+
 #### Rozdział 6c Przepisy karne
 
 **Art. 74v.** Kto, jako członek zarządu kasy, będąc obowiązanym do podania Komisji Nadzoru Finansowego albo Bankowemu Funduszowi Gwarancyjnemu informacji dotyczącej kasy i jej członków w zakresie określonym w ustawie, podaje nieprawdziwe lub zataja prawdziwe dane będące w jego posiadaniu, podlega grzywnie do 1 000 000 zł i karze pozbawienia wolności do lat 2.
@@ -1673,6 +1755,8 @@ Art. 80a–85d. (pominięte)
 **Art. 80.** (uchylony)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 80a–85d.** (pominięte)
 
 **Art. 86.**
 
@@ -1706,7 +1790,7 @@ Art. 80a–85d. (pominięte)
 
 **Art. 91.**
 
-1. W terminie 24 miesięcy od dnia wejścia w życie ustawy ze środków funduszu stabilizacyjnego, o którym mowa w art. 55, mogą być finansowane wydatki na pokrycie roszczeń członków kas z tytułu zgromadzonych w kasach środków pieniężnych w przypadku ogłoszenia upadłości takiej kasy lub prawomocnego oddalenia wniosku o ogłoszenie upadłości ze względu na to, że majątek tej kasy nie wystarcza na zaspokojenie kosztów postępowania, z zastrzeżeniem ust. 2.
+1. W terminie 24 miesięcy od dnia wejścia w życie ustawy ze środków funduszu stabilizacyjnego, o którym mowa w art. 55, mogą być finansowane wydatki na pokrycie roszczeń członków kas z tytułu zgromadzonych w kasach środków pieniężnych – w przypadku ogłoszenia upadłości takiej kasy lub prawomocnego oddalenia wniosku o ogłoszenie upadłości ze względu na to, że majątek tej kasy nie wystarcza na zaspokojenie kosztów postępowania, z zastrzeżeniem ust. 2.
 
 2. W przypadku ogłoszenia upadłości kasy posiadającej dobrowolny system ubezpieczania środków pieniężnych członków lub ogłoszenia upadłości takiej kasy ze względu na to, że jej majątek nie wystarcza na zaspokojenie kosztów postępowania, roszczenia członków kasy zaspokajane są w pierwszej kolejności w ramach tego systemu.
 

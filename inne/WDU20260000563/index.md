@@ -30,13 +30,8 @@ poz. 804), z uwzględnieniem stanu prawnego na dzień 21 kwietnia 2026 r. oraz z
 1) ustawą z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496);
 2) ustawą z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 14 ustawy z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496), który stanowi: „Art. 14. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 21 w zakresie dotyczącym:
-1) art. 24a ust. 1 i 2 ustawy, o której mowa w art. 1, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia;
-2) art. 24a ust. 3 ustawy, o której mowa w art. 1, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.”;
-2) art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „Art. 824. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r.”.
-Marszałek Sejmu: W. Czarzasty
+1) art. 14 ustawy z dnia 14 marca 2014 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496), który stanowi: „ Art. 14. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 21 w zakresie dotyczącym: 1) art. 24a ust. 1 i 2 ustawy, o której mowa w art. 1, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia; 2) art. 24a ust. 3 ustawy, o której mowa w art. 1, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.”;
+2) art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „ Art. 824. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 24 lipca 1999 r.
 o szczególnych zasadach, warunkach i trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących w walkach o wolność i niepodległość Polski podczas II wojny światowej i w okresie powojennym W celu szczególnego wyróżnienia obrońców Ojczyzny i zadośćuczynienia za wieloletnie przemilczanie ich zasług, za doznane w okresie powojennym represje i prześladowania oraz za cierpienia związane z przymusowym oddaleniem od Ojczyzny – Sejm Rzeczypospolitej Polskiej uchwala, co następuje:
 

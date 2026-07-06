@@ -8,12 +8,10 @@ pos: 385
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o muzeach
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 lutego 2022 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o muzeach
 
 | Pole | Wartość |
 |---|---|
@@ -30,7 +28,6 @@ source: "isap-pdf"
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2020 r. poz. 902), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U.
 poz. 1641) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 58 ust. 1 i art. 63 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641), które stanowią: „ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/1024 z dnia 20 czerwca 2019 r. w sprawie otwartych danych i ponownego wykorzystywania informacji sektora publicznego (Dz. Urz. UE L 172 z 26.06.2019, str. 56).”
-Art. 35–39. (pominięte)
 
 **Art. 58.** „1. Do spraw z zakresu przekazywania informacji sektora publicznego w celu ponownego wykorzystywania, wszczętych i niezakończonych w dniu wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 63. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 24, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 21 listopada 1996 r. o muzeach
 
@@ -39,6 +36,18 @@ Art. 35–39. (pominięte)
 **Art. 1.** Muzeum jest jednostką organizacyjną nienastawioną na osiąganie zysku, której celem jest gromadzenie i trwała ochrona dóbr naturalnego i kulturalnego dziedzictwa ludzkości o charakterze materialnym i niematerialnym, informowanie o wartościach i treściach gromadzonych zbiorów, upowszechnianie podstawowych wartości historii, nauki i kultury polskiej oraz światowej, kształtowanie wrażliwości poznawczej i estetycznej oraz umożliwianie korzystania ze zgromadzonych zbiorów.
 
 **Art. 2.** Muzeum realizuje cele określone w art. 1, w szczególności przez:
+
+- **1)** gromadzenie zabytków w statutowo określonym zakresie;
+- **2)** katalogowanie i naukowe opracowywanie zgromadzonych zbiorów;
+- **3)** przechowywanie gromadzonych zabytków, w warunkach zapewniających im właściwy stan zachowania i bezpieczeństwo, oraz magazynowanie ich w sposób dostępny do celów naukowych;
+- **4)** zabezpieczanie i konserwację zbiorów oraz, w miarę możliwości, zabezpieczanie zabytków archeologicznych nieruchomych oraz innych nieruchomych obiektów kultury materialnej i przyrody;
+- **5)** urządzanie wystaw stałych i czasowych;
+- **6)** organizowanie badań i ekspedycji naukowych, w tym archeologicznych;
+- **7)** prowadzenie działalności edukacyjnej;
+- **7a)** popieranie i prowadzenie działalności artystycznej i upowszechniającej kulturę;
+- **8)** udostępnianie zbiorów do celów edukacyjnych i naukowych;
+- **9)** zapewnianie właściwych warunków zwiedzania oraz korzystania ze zbiorów i zgromadzonych informacji;
+- **10)** prowadzenie działalności wydawniczej.
 
 **Art. 3.** Muzea mogą być tworzone dla jednej lub wielu dziedzin działalności człowieka oraz tworów natury.
 
@@ -63,7 +72,7 @@ Art. 35–39. (pominięte)
 5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres i tryb zabezpieczania zbiorów przed pożarem, kradzieżą i innym niebezpieczeństwem grożącym zniszczeniem lub utratą zbiorów,
-- **2)** sposoby przygotowania zbiorów do ewakuacji w razie powstania zagrożenia mając na względzie niedopuszczenie do sytuacji, w której zbiory mogą być utracone, uszkodzone lub zniszczone, oraz ochronę miejsca przechowywania i eksponowania zbiorów oraz ich ochronę w czasie transportu.
+- **2)** sposoby przygotowania zbiorów do ewakuacji w razie powstania zagrożenia – mając na względzie niedopuszczenie do sytuacji, w której zbiory mogą być utracone, uszkodzone lub zniszczone, oraz ochronę miejsca przechowywania i eksponowania zbiorów oraz ich ochronę w czasie transportu.
 
 6. Muzea państwowe i rejestrowane muzea samorządowe mają prawo używania okrągłej pieczęci z wizerunkiem orła ustalonym dla godła Rzeczypospolitej Polskiej oraz nazwą muzeum w otoku.
 
@@ -81,10 +90,10 @@ Art. 35–39. (pominięte)
 
 - **1)** nazwę muzeum;
 - **2)** adres siedziby muzeum;
-- **3)** nazwę podmiotu, który utworzył muzeum, a w przypadku osoby fizycznej jej imię i nazwisko;
-- **4)** w przypadku muzeum rejestrowanego datę wpisu do Państwowego Rejestru Muzeów.
+- **3)** nazwę podmiotu, który utworzył muzeum, a w przypadku osoby fizycznej – jej imię i nazwisko;
+- **4)** w przypadku muzeum rejestrowanego – datę wpisu do Państwowego Rejestru Muzeów.
 
-3. Podmiot, który utworzył muzeum, jest obowiązany przekazać informacje, o których mowa w ust. 2, w terminie nie dłuższym niż 3 miesiące od dnia utworzenia muzeum, a w przypadku ich zmiany w terminie nie dłuższym niż miesiąc od zmiany.
+3. Podmiot, który utworzył muzeum, jest obowiązany przekazać informacje, o których mowa w ust. 2, w terminie nie dłuższym niż 3 miesiące od dnia utworzenia muzeum, a w przypadku ich zmiany – w terminie nie dłuższym niż miesiąc od zmiany.
 
 **Art. 6.**
 
@@ -124,13 +133,13 @@ Art. 35–39. (pominięte)
 - **8)** popularyzowanie wiedzy o miejscach pamięci narodowej oraz ich znaczenia dla historii, dziedzictwa i tożsamości narodowej;
 - **9)** wykonywanie innych zadań wynikających z umów międzynarodowych dotyczących miejsc pamięci narodowej, w tym grobów i cmentarzy wojennych.
 
-2. Organy właściwe w sprawach wydawania zezwoleń na wykonanie trwałych znaków i obiektów upamiętniających walki i męczeństwo wydają zezwolenie po zasięgnięciu opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z zastrzeżeniem uprawnień Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, o których mowa w art. 53l ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177).
+2. Organy właściwe w sprawach wydawania zezwoleń na wykonanie trwałych znaków i obiektów upamiętniających walki i męczeństwo wydają zezwolenie po zasięgnięciu opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z zastrzeżeniem uprawnień Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, o których mowa w art. 53l ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177).
 
 **Art. 6b.**
 
 1. Osobie fizycznej, osobie prawnej i jednostce organizacyjnej nieposiadającej osobowości prawnej zasłużonym dla idei pamięci narodowej nadaje się medal „Opiekun Miejsc Pamięci Narodowej”, zwany dalej „medalem”.
 
-2. Medal nadaje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego z własnej inicjatywy albo na wniosek Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, organizacji społecznej lub innej jednostki organizacyjnej, zajmujących się upamiętnianiem i opieką nad miejscami pamięci narodowej.
+2. Medal nadaje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego z własnej inicjatywy albo na wniosek Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, organizacji społecznej lub innej jednostki organizacyjnej, zajmujących się upamiętnianiem i opieką nad miejscami pamięci narodowej.
 
 3. Wniosek o nadanie medalu zawiera w szczególności następujące dane podmiotu, którego dotyczy:
 
@@ -147,7 +156,7 @@ Art. 35–39. (pominięte)
 - **2)** tryb postępowania w sprawach o nadanie medalu, okoliczności wręczania odznaki medalu oraz legitymacji potwierdzającej nadanie medalu,
 - **3)** sposób noszenia i przechowywania odznaki medalu,
 - **4)** tryb i sposób wydawania duplikatu legitymacji potwierdzającej nadanie medalu,
-- **5)** wzory odznaki medalu oraz legitymacji potwierdzającej nadanie medalu uwzględniając konieczność zapewnienia sprawności postępowania w sprawach o nadanie medalu oraz godnego i uroczystego uhonorowania osób oraz jednostek organizacyjnych, którym jest nadawany medal.
+- **5)** wzory odznaki medalu oraz legitymacji potwierdzającej nadanie medalu – uwzględniając konieczność zapewnienia sprawności postępowania w sprawach o nadanie medalu oraz godnego i uroczystego uhonorowania osób oraz jednostek organizacyjnych, którym jest nadawany medal.
 
 **Art. 7.**
 
@@ -182,17 +191,17 @@ Art. 35–39. (pominięte)
 3a. Za wstęp do muzeów państwowych przysługuje ulga w opłacie:
 
 - **1)** uczniom szkół systemu oświaty, słuchaczom kolegiów pracowników służb społecznych, studentom oraz doktorantom;
-- **2)** uczniom szkół, studentom oraz doktorantom będącym obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym;
+- **2)** uczniom szkół, studentom oraz doktorantom będącym obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
 - **3)** uczniom szkół prowadzonych przez organizacje społeczne za granicą, zarejestrowanych w bazie prowadzonej przez upoważnioną jednostkę podległą ministrowi właściwemu do spraw oświaty i wychowania, w okresie pobierania nauki języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim, nie dłużej niż do ukończenia 18. roku życia;
 - **4)** uczniom szkół funkcjonujących w systemach oświaty innych państw w okresie pobierania nauki języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim, nie dłużej niż do ukończenia 18. roku życia;
 - **5)** uczniom sekcji polskich funkcjonujących w szkołach działających w systemach oświaty innych państw, nie dłużej niż do ukończenia 18. roku życia;
 - **6)** uczniom szkół europejskich działających na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r. (Dz. U. z 2005 r. poz. 10) pobierającym naukę języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim, nie dłużej niż do ukończenia 18. roku życia;
-- **7)** osobom powyżej 65. roku życia, emerytom, rencistom, rencistom socjalnym, a także osobom niepełnosprawnym wraz z opiekunami, będącym obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym;
+- **7)** osobom powyżej 65. roku życia, emerytom, rencistom, rencistom socjalnym, a także osobom niepełnosprawnym wraz z opiekunami, będącym obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
 - **8)** nauczycielom:
     - **a)** szkół i placówek systemu oświaty, zakładów poprawczych i schronisk dla nieletnich,
-    - **b)** szkół działających w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym,
+    - **b)** szkół działających w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym,
     - **c)** szkół prowadzonych przez organizacje społeczne za granicą, zarejestrowanych w bazie prowadzonej przez upoważnioną jednostkę podległą ministrowi właściwemu do spraw oświaty i wychowania,
-    - **d)** uczącym języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim w: szkołach funkcjonujących w systemach oświaty innych państw, sekcjach polskich funkcjonujących w systemach oświaty innych państw, szkołach europejskich działających na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r.;
+    - **d)** uczącym języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim w: – szkołach funkcjonujących w systemach oświaty innych państw, – sekcjach polskich funkcjonujących w systemach oświaty innych państw, – szkołach europejskich działających na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r.;
 
 - **9)** osobom fizycznym odznaczonym odznaką „Za opiekę nad zabytkami”, odznaką honorową „Zasłużony działacz kultury”, odznaką honorową „Zasłużony dla Kultury Polskiej” lub wyróżnionym tytułem honorowym „Zasłużony dla Kultury Narodowej”;
 - **10)** kombatantom.
@@ -206,7 +215,7 @@ Art. 35–39. (pominięte)
 - **5)** dzieciom do lat 7;
 - **6)** weteranom i weteranom poszkodowanym.
 
-4. Rada Ministrów określi, w drodze rozporządzenia, rodzaje dokumentów potwierdzających uprawnienia, o których mowa w ust. 3a i 3b, uwzględniając przy tym odpowiednio przepisy obowiązujące w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronach umowy o Europejskim Obszarze Gospodarczym.
+4. Rada Ministrów określi, w drodze rozporządzenia, rodzaje dokumentów potwierdzających uprawnienia, o których mowa w ust. 3a i 3b, uwzględniając przy tym odpowiednio przepisy obowiązujące w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym.
 
 5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów, ustali, w drodze rozporządzenia, wykaz państwowych muzeów martyrologicznych, do których wstęp jest bezpłatny, ze względu na szczególny charakter historyczny i edukacyjny tych muzeów.
 
@@ -259,14 +268,14 @@ Art. 35–39. (pominięte)
 
 1. W celu potwierdzenia wysokiego poziomu merytorycznej działalności i znaczenia zbiorów oraz w celu ewidencjonowania muzeów spełniających te warunki, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi Państwowy Rejestr Muzeów, zwany dalej „Rejestrem”.
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego uzależnia wpis do Rejestru w szczególności od znaczenia posiadanych przez muzeum zbiorów, zespołu wykwalifikowanych pracowników, pomieszczeń i stałego źródła finansowania zapewniających spełnienie statutowych celów muzeum.
+2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego uzależnia wpis do Rejestru w szczególności od znaczenia posiadanych przez muzeum zbiorów, zespołu wykwalifikowanych pracowników, pomieszczeń i stałego źródła finansowania – zapewniających spełnienie statutowych celów muzeum.
 
 3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
 
 - **1)** sposób prowadzenia Rejestru,
 - **2)** wzór wniosku o wpis do Rejestru,
 - **3)** warunki i tryb dokonywania wpisów w Rejestrze,
-- **4)** okoliczności, w jakich można zarządzić kontrolę w celu ustalenia, czy muzeum spełnia nadal warunki wpisu do Rejestru biorąc pod uwagę uprawnienia nadzorcze ministra nad muzeami.
+- **4)** okoliczności, w jakich można zarządzić kontrolę w celu ustalenia, czy muzeum spełnia nadal warunki wpisu do Rejestru – biorąc pod uwagę uprawnienia nadzorcze ministra nad muzeami.
 
 4. Z dniem wpisu do Rejestru muzeum jest uprawnione do używania nazwy „muzeum rejestrowane”.
 
@@ -284,7 +293,11 @@ Art. 35–39. (pominięte)
 
 **Art. 16.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów, może w muzeach rejestrowanych, bezpośrednio mu podległych, powierzyć swoje uprawnienia radzie powierniczej, w zakresie:
 
-**Art. 17.** Właściwe organy administracji rządowej oraz organy jednostek samorządu terytorialnego mogą w muzeach rejestrowanych bezpośrednio im podległych powierzyć za zgodą ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów swoje uprawnienia radzie powierniczej, w zakresie określonym w art. 16.
+- **1)** nadzoru nad wypełnianiem przez muzeum jego powinności wobec zbiorów i społeczeństwa;
+- **2)** bezpośredniego nadzoru nad realizacją celów określonych w art. 1;
+- **3)** powoływania i odwoływania dyrektora muzeum.
+
+**Art. 17.** Właściwe organy administracji rządowej oraz organy jednostek samorządu terytorialnego mogą w muzeach rejestrowanych bezpośrednio im podległych powierzyć – za zgodą ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów – swoje uprawnienia radzie powierniczej, w zakresie określonym w art. 16.
 
 **Art. 18.**
 
@@ -318,8 +331,8 @@ Art. 35–39. (pominięte)
 
 4. W przypadku przyznania wynagrodzenia, o którym mowa w ust. 1, nie może być ono wyższe niż:
 
-- **1)** dla przewodniczącego rady 50%,
-- **2)** dla pozostałych członków rady 45% minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
+- **1)** dla przewodniczącego rady – 50%,
+- **2)** dla pozostałych członków rady – 45% – minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
 
 **Art. 20.**
 
@@ -373,7 +386,7 @@ Art. 35–39. (pominięte)
 
 2. Wysokość opłat, o których mowa w ust. 1, ustala dyrektor muzeum. W uzasadnionych przypadkach dyrektor muzeum może ustalić opłatę ulgową lub zwolnić z opłaty.
 
-3. Nie pobiera się opłat za wypożyczenia muzealiów między muzeami krajowymi oraz, pod warunkiem wzajemności, między muzeami z siedzibą w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym.
+3. Nie pobiera się opłat za wypożyczenia muzealiów między muzeami krajowymi oraz, pod warunkiem wzajemności, między muzeami z siedzibą w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym.
 
 4. W przypadku ustalania i pobierania opłat za czynności, o których mowa w ust. 1, podejmowane w ramach udostępniania informacji sektora publicznego do ponownego wykorzystywania stosuje się przepisy ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641).
 
@@ -428,7 +441,7 @@ Art. 35–39. (pominięte)
 
 - **1)** zakres danych, które zawierają wnioski o wydanie pozwoleń, o których mowa w ust. 2,
 - **2)** dokumenty dołączane do wniosków, o których mowa w ust. 2 pkt 1 i 2,
-- **3)** wzory pozwoleń, o których mowa w ust. 2 uwzględniając potrzebę zapewnienia skutecznej identyfikacji muzealiów, o których mowa w ust. 2, oraz konieczność wskazania we wniosku o wydanie pozwolenia, o którym mowa w ust. 2 pkt 3, imienia i nazwiska przynajmniej 2 osób uprawnionych do podpisania wykazu wywożonych muzealiów dołączanego do tego pozwolenia.
+- **3)** wzory pozwoleń, o których mowa w ust. 2 – uwzględniając potrzebę zapewnienia skutecznej identyfikacji muzealiów, o których mowa w ust. 2, oraz konieczność wskazania we wniosku o wydanie pozwolenia, o którym mowa w ust. 2 pkt 3, imienia i nazwiska przynajmniej 2 osób uprawnionych do podpisania wykazu wywożonych muzealiów dołączanego do tego pozwolenia.
 
 **Art. 30.** Muzealia wpisane do inwentarzy muzeów państwowych lub samorządowych nie podlegają egzekucji na podstawie tytułu wykonawczego w sądowym lub administracyjnym postępowaniu egzekucyjnym.
 
@@ -451,7 +464,7 @@ Art. 35–39. (pominięte)
 - **5)** zorganizowanie wystawy czasowej bez objęcia tej rzeczy ochroną prawną nie byłoby możliwe lub skutkowałoby nieproporcjonalnie wysokimi kosztami jej wystawienia w stosunku do kosztów zorganizowania wystawy;
 - **6)** wystawa czasowa będzie organizowana przez:
     - **a)** instytucję kultury w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej lub
-    - **b)** muzeum niebędące instytucją kultury, wpisane do wykazu, o którym mowa w art. 5b ust. 1 zwane dalej „organizatorem wystawy”.
+    - **b)** muzeum niebędące instytucją kultury, wpisane do wykazu, o którym mowa w art. 5b ust. 1 – zwane dalej „organizatorem wystawy”.
 
 2. Ochrona prawna rzeczy ruchomej obejmuje okres nie dłuższy niż 12 miesięcy od dnia jej wwiezienia na terytorium Rzeczypospolitej Polskiej.
 
@@ -485,7 +498,7 @@ Art. 35–39. (pominięte)
 
 7. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udostępnia na stronie podmiotowej w Biuletynie Informacji Publicznej informację o objęciu rzeczy ruchomej ochroną prawną albo informację o nieobjęciu rzeczy ruchomej ochroną prawną.
 
-8. W sprawach o objęcie rzeczy ruchomej ochroną prawną nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
+8. W sprawach o objęcie rzeczy ruchomej ochroną prawną nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
 
 9. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór wniosku oraz dokumenty dołączane do wniosku, uwzględniając umożliwienie skutecznej identyfikacji rzeczy ruchomej, w tym konieczność podania imienia i nazwiska autora tej rzeczy, a także konieczność podania nazwy, siedziby i adresu organizatora wystawy oraz imienia, nazwiska i adresu lub nazwy, siedziby i adresu właściciela lub posiadacza rzeczy ruchomej, oraz umożliwienie dokonania oceny spełnienia warunków określonych w art. 31a ust. 1.
 
@@ -523,7 +536,7 @@ Art. 35–39. (pominięte)
 - **1)** gromadzeniem i naukowym opracowywaniem zbiorów,
 - **2)** urządzaniem wystaw i udostępnianiem zbiorów do celów edukacyjnych i naukowych,
 - **3)** organizowaniem badań i ekspedycji naukowych, w tym archeologicznych,
-- **4)** prowadzeniem działalności edukacyjnej, artystycznej, upowszechniającej kulturę lub wydawniczej tworzą zawodową grupę muzealników.
+- **4)** prowadzeniem działalności edukacyjnej, artystycznej, upowszechniającej kulturę lub wydawniczej – tworzą zawodową grupę muzealników.
 
 2. Pracowników, którzy tworzą zawodową grupę muzealników, zatrudnia się na stanowiskach kustosza dyplomowanego, kustosza, adiunkta i asystenta.
 
@@ -606,7 +619,7 @@ Art. 35–39. (pominięte)
 
 **Art. 33a.**
 
-1. Posiadanie kwalifikacji wymaganych na poszczególnych stanowiskach w muzeach stwierdza pracodawca na podstawie świadectw pracy, dyplomów poświadczających zdobyte wykształcenie, świadectw lub zaświadczeń o ukończeniu kursów, szkoleń specjalistycznych, praktyk zawodowych, a w przypadku stanowiska kustosza dyplomowanego i kustosza także zaświadczenia o posiadaniu dorobku zawodowego.
+1. Posiadanie kwalifikacji wymaganych na poszczególnych stanowiskach w muzeach stwierdza pracodawca na podstawie świadectw pracy, dyplomów poświadczających zdobyte wykształcenie, świadectw lub zaświadczeń o ukończeniu kursów, szkoleń specjalistycznych, praktyk zawodowych, a w przypadku stanowiska kustosza dyplomowanego i kustosza – także zaświadczenia o posiadaniu dorobku zawodowego.
 
 2. Do stażu pracy zalicza się okresy zatrudnienia na stanowiskach, na których realizuje się zadania związane z działalnością muzealniczą, naukową, upowszechnianiem kultury lub ochroną zabytków i opieką nad zabytkami w:
 
@@ -665,6 +678,8 @@ Art. 35–39. (pominięte)
 4. W razie skazania za przestępstwo określone w ust. 1 sąd orzeka, a w razie skazania za przestępstwo określone w ust. 2 sąd może orzec, nawiązkę na wskazany cel społeczny związany z opieką nad zabytkami w wysokości od trzykrotnego do trzydziestokrotnego minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 35–39.** (pominięte)
 
 **Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

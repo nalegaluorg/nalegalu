@@ -595,7 +595,7 @@ source: pdf
 
 2. Tryb umieszczania dzieci w rodzinie zastępczej, rodzinnym domu dziecka lub instytucjonalnej pieczy zastępczej regulują przepisy ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177, 742, 743 i 858).
 
-3. Decyzję, o której mowa w ust. 1, pracownik socjalny podejmuje wspólnie z funkcjonariuszem Policji, a także z lekarzem, ratownikiem medycznym lub pielęgniarką. Przepisy art. 598 , art. 598 § 3 i art. 598 § 1 zdanie pierwsze ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się odpowiednio.
+3. Decyzję, o której mowa w ust. 1, pracownik socjalny podejmuje wspólnie z funkcjonariuszem Policji, a także z lekarzem, ratownikiem medycznym lub pielęgniarką. Przepisy art. 598 10 , art. 598 § 3 i art. 598 § 1 zdanie pierwsze ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego stosuje się odpowiednio.
 
 4. Decyzję, o której mowa w ust. 1, podejmuje się w miarę możliwości w obecności i przy wsparciu psychologa.
 

@@ -33,10 +33,9 @@ poz. 1197);
 poz. 1380).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 30 czerwca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U.
-poz. 1197), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 3 lipca 2021 r.”;
-2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U.
-poz. 1380), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 marca 2004 r.
+poz. 1197), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 3 lipca 2021 r.”;
+2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 27 lipca 2021 r. zmieniającego rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. poz. 1380), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 marca 2004 r.
 w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia Na podstawie art. 53 § 4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072, z 2021 r. poz. 1080 i 1236 oraz z 2022 r. poz. 655 i 1259) zarządza się, co następuje:
 § 1. Rozporządzenie określa warunki i zakres przechowywania akt w sądzie przez okres niezbędny ze względu na rodzaj i charakter spraw, terminy przedawnienia, interesy osób biorących udział w postępowaniu i znaczenie materiałów zawartych w aktach jako źródła informacji oraz warunki i tryb przechowywania i przekazywania akt archiwom państwowym, a także warunki i tryb niszczenia akt po upływie okresu ich przechowywania.

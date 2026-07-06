@@ -804,7 +804,7 @@ source: pdf
 
 **Art. 35b.**
 
-1. Przełożony, o którym mowa w art. 35a ust. 1, realizuje w stosunku do strażaka pełniącego służbę w formie zdalnej obowiązki określone w art. 29a i art. 42 w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+1. Przełożony, o którym mowa w art. 35a ust. 1, realizuje w stosunku do strażaka pełniącego służbę w formie zdalnej obowiązki określone w art. 29a i art. 42 w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 1 –209 , art. 210 § 1–5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 2. Przełożony, o którym mowa w art. 35a ust. 1, lub osoba przez niego upoważniona przed rozpoczęciem przez strażaka służby pełnionej w formie zdalnej przekazują strażakowi pełniącemu służbę w formie zdalnej informacje dotyczące:
 
@@ -1798,7 +1798,7 @@ source: pdf
 
 **Art. 69.**
 
-1. Strażakowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy, z wyjątkiem art. 186 i art. 188 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
+1. Strażakowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy, z wyjątkiem art. 186 i art. 188 1 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
 
 1a. Jeżeli oboje rodzice lub opiekunowie są strażakami albo jedno z nich jest strażakiem, a drugie pozostaje w stosunku pracy, z uprawnień, o których mowa w ust. 1, może korzystać jedno z nich.
 

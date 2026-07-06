@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie wzorów poświadczeń bezpieczeństwa
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 28 grudnia 2010 r. w sprawie wzorów poświadczeń bezpieczeństwa (Dz. U. Nr 258, poz. 1752), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Prezesa Rady Ministrów z dnia 15 października 2014 r. zmieniającym rozporządzenie w sprawie wzorów poświadczeń bezpieczeństwa (Dz. U. poz. 1452).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 października 2014 r. zmieniającego rozporządzenie w sprawie wzorów poświadczeń bezpieczeństwa (Dz. U. poz. 1452), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: E. Kopacz RozPoRządzenie PREZESA RAdy mINIStRóW z dnia 28 grudnia 2010 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 października 2014 r. zmieniającego rozporządzenie w sprawie wzorów poświadczeń bezpieczeństwa (Dz. U. poz. 1452), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: E. Kopacz
+RozPoRządzenie PREZESA RAdy mINIStRóW z dnia 28 grudnia 2010 r.
 w sprawie wzorów poświadczeń bezpieczeństwa Na podstawie art. 29 ust. 6 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228 oraz z 2015 r. poz. 21) zarządza się, co następuje:
 § 1. 1. Ustala się wzór:
 1) poświadczenia bezpieczeństwa upoważniającego do dostępu do informacji niejawnych o klauzuli „poufne” lub wyższej, wydawanego przez Agencję Bezpieczeństwa Wewnętrznego, zwaną dalej „ABW”, Służbę Kontrwywiadu Wojskowego, zwaną dalej „SKW”, albo pełnomocników do spraw ochrony informacji niejawnych;
@@ -43,7 +43,8 @@ w sprawie wzorów poświadczeń bezpieczeństwa Na podstawie art. 29 ust. 6 usta
 3. Poświadczenia bezpieczeństwa wydawane przez pełnomocników do spraw ochrony informacji niejawnych, z wyjątkiem poświadczeń bezpieczeństwa wydawanych przez pełnomocników do spraw ochrony informacji niejawnych w służbach, o których mowa w art. 23 ust. 2 i 5 ustawy, sporządza się na papierze w kolorze białym, formatu A4.
 § 3. Poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych organizacji międzynarodowych, wydawane przez ABW albo SKW, sporządza się na papierze offsetowym w kolorze niebieskim, formatu A4, z tłem rastrowanym i z tekstem o treści „Agencja Bezpieczeństwa Wewnętrznego” albo „Służba Kontrwywiadu Wojskowego” – w zależności od służby, która przeprowadziła postępowanie sprawdzające.
 § 4. Rozporządzenie wchodzi w życie z dniem 2 stycznia 2011 r.
-Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia 28 grudnia 2010 r.
+
+## Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia 28 grudnia 2010 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR POŚWIADCZENIE BEZPIECZEŃSTWA NR ........................................................................
 

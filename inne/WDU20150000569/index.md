@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w sprawie ustalenia planu rozwoju Specjalnej Strefy Ekonomicznej Euro-Park Mielec
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Gospodarki z dnia 31 sierpnia 2009 r. w sprawie ustalenia planu rozwoju Specjalnej Strefy Ekonomicznej Euro-Park Mielec (Dz. U. z 2013 r. poz. 921), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Gospodarki z dnia 14 kwietnia 2014 r. zmieniającym rozporządzenie w sprawie ustalenia planu rozwoju Specjalnej Strefy Ekonomicznej Euro-Park Mielec (Dz. U. poz. 523).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Gospodarki z dnia 14 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Specjalnej Strefy Ekonomicznej Euro-Park Mielec (Dz. U. poz. 523), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Gospodarki: wz. J. Pietrewicz ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 31 sierpnia 2009 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Gospodarki z dnia 14 kwietnia 2014 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Specjalnej Strefy Ekonomicznej Euro-Park Mielec (Dz. U. poz. 523), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Gospodarki: wz. J. Pietrewicz
+ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 31 sierpnia 2009 r.
 w sprawie ustalenia planu rozwoju Specjalnej Strefy Ekonomicznej Euro-Park Mielec Na podstawie art. 9 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U.
 z 2015 r. poz. 282) zarządza się, co następuje:
 § 1. Ustala się plan rozwoju Specjalnej Strefy Ekonomicznej Euro-Park Mielec, stanowiący załącznik do rozporządzenia.

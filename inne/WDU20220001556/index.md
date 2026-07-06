@@ -256,7 +256,8 @@ z 2022 r. poz. 916), niezwłocznie wypuszcza się go do środowiska oraz wpisuje
 3) art. 48 ust. 3 rozporządzenia nr 1224/2009.
 2. Powiadomienie, o którym mowa w art. 17 ust. 1 rozporządzenia nr 1224/2009, przekazuje się najpóźniej na godzinę przed przewidywaną godziną przybycia statku rybackiego do portu.
 § 25. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 sierpnia 2019 r.
+
+## Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 21 sierpnia 2019 r.
 
 ## Załącznik nr 1 — OBSZARY OBSZARY WYŁĄCZONE WYŁĄCZONE Z Z WYKONYWANIA WYKONYWANIA RYBOŁÓWSTWA RYBOŁÓWSTWA KOMERCYJNEGO KOMERCYJNEGO NA STAŁE NA STAŁE LUB LUB NA NA CZAS CZAS OKREŚLONY OKREŚLONY
 

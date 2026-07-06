@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narodowej w sprawie kształcenia ustawicznego w formach pozaszkolnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Edukacji Narodowej z dnia 11 stycznia 2012 r. w sprawie kształcenia ustawicznego w formach pozaszkolnych (Dz. U. poz. 186), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji Narodowej z dnia 16 października 2012 r. zmieniającym rozporządzenie w sprawie kształcenia ustawicznego w formach pozaszkolnych (Dz. U. poz. 1152).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji Narodowej z dnia 16 października 2012 r. zmieniającego rozporządzenie w sprawie kształcenia ustawicznego w formach pozaszkolnych (Dz. U. poz. 1152), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Edukacji Narodowej: J. Kluzik-Rostkowska ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 11 stycznia 2012 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji Narodowej z dnia 16 października 2012 r. zmieniającego rozporządzenie w sprawie kształcenia ustawicznego w formach pozaszkolnych (Dz. U. poz. 1152), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Edukacji Narodowej: J. Kluzik-Rostkowska
+ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 11 stycznia 2012 r.
 w sprawie kształcenia ustawicznego w formach pozaszkolnych Na podstawie art. 68a ust. 5 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) warunki, organizację i tryb prowadzenia kształcenia ustawicznego w formach pozaszkolnych oraz rodzaje tych form;

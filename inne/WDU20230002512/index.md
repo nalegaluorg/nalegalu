@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 1) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2023 r. zmieniającym rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 307);
 2) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającym rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 1257).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 307), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 1257), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.”.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 września 2020 r.
+1) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 307), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 1257), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 24 września 2020 r.
 w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej Na podstawie art. 76 ust. 10 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723 i 1860) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) rodzaje norm wyżywienia dla funkcjonariuszy Straży Granicznej, zwanych dalej „funkcjonariuszami”, oraz ich wartość pieniężną;

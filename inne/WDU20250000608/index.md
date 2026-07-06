@@ -27,12 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2024 r. poz. 676), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 kwietnia 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 41 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U.
-poz. 1897), który stanowi: „Art. 41. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
-1) art. 12, art. 15, art. 19 i art. 40, które wchodzą w życie z dniem 30 grudnia 2024 r.;
-2) art. 9 pkt 14 i 15 oraz art. 28 ust. 5 i 6, które wchodzą w życie z dniem 16 stycznia 2025 r.;
-3) art. 2 pkt 3 i 4 oraz art. 35, które wchodzą w życie z dniem 1 września 2025 r.;
-4) art. 9 pkt 7 lit. b–e i pkt 9, które wchodzą w życie z dniem 1 stycznia 2027 r.”.
-Marszałek Sejmu: wz. P. Zgorzelski
+poz. 1897), który stanowi: „ Art. 41. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem: 1) art. 12, art. 15, art. 19 i art. 40, które wchodzą w życie z dniem 30 grudnia 2024 r.; 2) art. 9 pkt 14 i 15 oraz art. 28 ust. 5 i 6, które wchodzą w życie z dniem 16 stycznia 2025 r.; 3) art. 2 pkt 3 i 4 oraz art. 35, które wchodzą w życie z dniem 1 września 2025 r.; 4) art. 9 pkt 7 lit. b–e i pkt 9, które wchodzą w życie z dniem 1 stycznia 2027 r.”. Marszałek Sejmu: wz. P. Zgorzelski
 USTAWA z dnia 10 grudnia 2020 r.
 o zawodzie farmaceuty
 
@@ -1034,7 +1029,7 @@ o zawodzie farmaceuty
 
 - **1)** obejmujący okres pobierania świadczenia przewidzianego w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2023 r. poz. 2780 oraz z 2024 r. poz. 1871);
 - **2)** z powodu urlopu bezpłatnego udzielonego przez pracodawcę na czas nie dłuższy niż 3 miesiące w okresie szkolenia specjalizacyjnego;
-- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 , art. 185 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **3)** w przypadkach określonych w art. 92, art. 176–179, art. 182 3 , art. 185 i art. 188 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **4)** z powodu przerwy, nie dłuższej niż 14 dni, wynikającej z procedur stosowanych przy zmianie jednostki szkolącej;
 - **5)** z powodu przerwy, nie dłuższej niż 12 miesięcy, wynikającej z realizacji szkolenia specjalizacyjnego odbywanej w trybie poszerzenia programu studiów podyplomowych o program szkolenia specjalizacyjnego zgodnie z zakresem tych studiów;
 - **6)** z powodu urlopu wychowawczego na zasadach określonych w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.

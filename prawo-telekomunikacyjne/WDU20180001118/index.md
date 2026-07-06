@@ -117,7 +117,7 @@ source: pdf
     - **a)** w ust. 2 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) adresu poczty elektronicznej.”,
     - **b)** w ust. 3 skreśla się wyrazy „adres poczty elektronicznej oraz”;
 
-- **27)** w art. 185 w ust. 6 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) wykonywania zadań, o których mowa w art. 115 , przez podmioty, o których mowa w art. 115 ust. 2.”;
+- **27)** w art. 185 w ust. 6 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) wykonywania zadań, o których mowa w art. 115 3 , przez podmioty, o których mowa w art. 115 ust. 2.”;
 - **28)** w art. 201:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Jeżeli w wyniku kontroli, o której mowa w art. 199 ust. 1, stwierdzono, że podmiot podlegający kontroli, zwany dalej „podmiotem kontrolowanym”, nie wypełnia odnoszących się do niego obowiązków wynikających z przepisów prawa lub decyzji wydanej przez Prezesa UKE, Prezes UKE: 1) nakłada karę, o której mowa w art. 209, w przypadku stwierdzenia naruszeń wskazanych w tym przepisie, niezależnie od prowadzonego wobec tego podmiotu postępowania pokontrolnego, lub 2) wydaje zalecenia pokontrolne, w których wzywa podmiot kontrolowany do usunięcia nieprawidłowości lub udzielenia wyjaśnień.”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Usunięcie nieprawidłowości lub udzielenie wyjaśnień, o których mowa w ust. 1 pkt 2, powinno nastąpić w terminie wskazanym przez Prezesa UKE, nie krótszym niż 30 dni od dnia doręczenia zaleceń pokontrolnych podmiotowi kontrolowanemu.”,

@@ -31,11 +31,8 @@ poz. 204), z uwzględnieniem zmian wprowadzonych:
 poz. 275),
 2) ustawą z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 października 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 5 ustawy z dnia 13 stycznia 2022 r. o zmianie ustawy o rezerwach strategicznych oraz niektórych innych ustaw (Dz. U. poz. 275), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „Art. 824. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r.”.
-Marszałek Sejmu: E. Witek
+1) art. 5 ustawy z dnia 13 stycznia 2022 r. o zmianie ustawy o rezerwach strategicznych oraz niektórych innych ustaw (Dz. U. poz. 275), który stanowi: „ Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) art. 824 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „ Art. 824. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 288 ust. 2 i art. 777 ust. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 439 ust. 1 pkt 4, który wchodzi w życie z dniem 1 stycznia 2023 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 21 czerwca 2002 r.
 o materiałach wybuchowych przeznaczonych do użytku cywilnego
 

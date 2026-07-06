@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie podstawowych warunków prowadzenia apteki
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 27 października 2022 r. w sprawie podstawowych warunków prowadzenia apteki (Dz. U.
 poz. 2363), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 11 kwietnia 2023 r. zmieniającym rozporządzenie w sprawie podstawowych warunków prowadzenia apteki (Dz. U. poz. 785).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie podstawowych warunków prowadzenia apteki (Dz. U. poz. 785), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: wz. W. Konieczny ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 października 2022 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie podstawowych warunków prowadzenia apteki (Dz. U. poz. 785), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Konieczny
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 października 2022 r.
 w sprawie podstawowych warunków prowadzenia apteki Na podstawie art. 95 ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605, 650, 1859 i 1938) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) warunki przechowywania produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego, surowców farmaceutycznych i wyrobów medycznych;

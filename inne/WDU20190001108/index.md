@@ -38,7 +38,9 @@ b) kwalifikowany – nie więcej niż 1 roślina.”,
 g) w ust. 10 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) plantacja nasienna prosa powinna być praktycznie wolna od następujących chwastów: chwastnicy jednostronnej, włośnicy sinej, włośnicy kosmatej, gorczycy polnej i dziko rosnących wyk.”;
 2) w załączniku nr 5 do rozporządzenia tabele 1–3 otrzymują brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 czerwca 2019 r. (Dz. U.
+
+## Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 czerwca 2019 r. (Dz. U.
+
 poz. ) Załącznik nr 1
 3. Ocena stanu plantacji dwie oceny stanu plantacji dla plantacji nasiennych: – odmian ustalonych: wszystkich gatunków pszenic, pszenżyta, jęczmienia, żyta, owsów, mozgi kanaryjskiej, gryki, prosa oraz kukurydzy, – składników rodzicielskich odmian mieszańcowych żyta, pszenic, odmian samopylnych pszenżyta, jęczmienia i owsów, – odmian mieszańcowych, z wyłączeniem kukurydzy pierwsza w okresie poprzedzającym kwitnienie lub przed użyciem chemicznych czynników krzyżowania druga w okresie dojrzewania nasion nie mniej niż trzy, a w przypadku wytwarzania składników rodzicielskich odmian mieszańcowych – cztery oceny stanu plantacji dla plantacji nasiennych: – odmian mieszańcowych kukurydzy oraz ich składników rodzicielskich pierwsza w okresie poprzedzającym kwitnienie druga w okresie kwitnienia składnika Rm, gdy 5% roślin ma znamiona podatne do przyjęcia pyłku trzecia w okresie pełni kwitnienia do końca kwitnienia składników rodzicielskich czwarta w okresie od końca kwitnienia do początku dojrzewania nasion Załącznik nr 2 Tabela 1 Dopuszczalna wielkość partii oraz minimalna masa prób do badań dla roślin zbożowych Avena nuda L.
 Owies nagi 30 1000 500 (owies nagoziarnisty) Avena sativa L.

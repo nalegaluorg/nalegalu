@@ -37,7 +37,8 @@ w sprawie wzorów certyfikatów rozpoczęcia i zakończenia budowy oraz przebudo
 8) certyfikatu zakończenia przebudowy statku wydawanego przez dyrektora urzędu żeglugi śródlądowej, stanowiący załącznik nr 8 do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 1909 i 2091).
-Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 25 stycznia 2017 r.
+
+## Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 25 stycznia 2017 r.
 
 ## Załącznik nr 1 — Załącznik nr Wzór Wzór CERTYFIKAT ROZPOCZĘCIA BUDOWY STATKU WYDANY PRZEZ DYREKTORA URZĘDU MORSKIEGO W…… nr Certyfikatu: …………………………..
 

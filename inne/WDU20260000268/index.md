@@ -126,9 +126,7 @@ source: pdf
 
 § 1. Egzekucję administracyjną stosuje się do obowiązków określonych w art. 2, gdy wynikają one z decyzji lub postanowień właściwych organów, albo – w zakresie administracji rządowej i jednostek samorządu terytorialnego – bezpośrednio z przepisu prawa, chyba że przepis szczególny zastrzega dla tych obowiązków tryb egzekucji sądowej.
 
-§ 1a. Egzekucję administracyjną stosuje się również do należności pieniężnych, o których mowa w art. 2 § 1 pkt 5, wynikających z tytułów wykonawczych wystawionych przez ministra właściwego do spraw finansów publicznych na podstawie art. 44 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz.
-
-- **291)** , zwanej dalej „ustawą o poręczeniach i gwarancjach udzielanych przez Skarb Państwa”, oraz na podstawie art. 16 ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776), zwanej dalej „ustawą o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym”.
+§ 1a. Egzekucję administracyjną stosuje się również do należności pieniężnych, o których mowa w art. 2 § 1 pkt 5, wynikających z tytułów wykonawczych wystawionych przez ministra właściwego do spraw finansów publicznych na podstawie art. 44 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291), zwanej dalej „ustawą o poręczeniach i gwarancjach udzielanych przez Skarb Państwa”, oraz na podstawie art. 16 ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776), zwanej dalej „ustawą o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym”.
 
 § 2. (uchylony)
 
@@ -331,7 +329,7 @@ source: pdf
 
 § 1. Wynagrodzenie ze stosunku pracy podlega egzekucji w zakresie określonym w przepisach Kodeksu pracy.
 
-§ 1. Przepis § 1 stosuje się odpowiednio do zasiłków dla bezrobotnych, dodatków aktywizacyjnych oraz stypendiów, wypłacanych na podstawie przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620, 1746 i 1794).
+§ 1¹. Przepis § 1 stosuje się odpowiednio do zasiłków dla bezrobotnych, dodatków aktywizacyjnych oraz stypendiów, wypłacanych na podstawie przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620, 1746 i 1794).
 
 § 2. Przepis § 1 stosuje się odpowiednio do należności członków rolniczych spółdzielni produkcyjnych i członków ich rodzin z tytułu pracy w spółdzielni oraz wszystkich świadczeń powtarzających się, których celem jest zapewnienie utrzymania.
 

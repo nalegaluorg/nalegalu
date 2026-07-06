@@ -26,10 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1197/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2014 r. poz. 1801), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) oraz zmian wynikających z przepisów ogłoszonych przed dniem 22 lipca 2016 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 75 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), który stanowi: „Art. 75. Ustawa wchodzi w życie z dniem 4 marca 2016 r., z wyjątkiem:
-1) art. 2, art. 6 pkt 1, art. 7 pkt 3, art. 19 pkt 1 w zakresie prokuratora do spraw wojskowych,
-2) art. 3, art. 4 pkt 5–9, art. 6 pkt 2 lit. b i d, pkt 4, art. 9, art. 10, art. 13–16, art. 19 pkt 3, art. 20 pkt 10 lit. b i c, art. 21, art. 31–33, art. 45 § 3, art. 46, art. 50, art. 62 § 4, 6 i 7, art. 64 § 3, 5 i 6 oraz art. 66 – które wchodzą w życie z dniem 4 kwietnia 2016 r.”.
-Marszałek Sejmu: M. Kuchciński
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 75 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), który stanowi: „ Art. 75. Ustawa wchodzi w życie z dniem 4 marca 2016 r., z wyjątkiem: 1) art. 2, art. 6 pkt 1, art. 7 pkt 3, art. 19 pkt 1 w zakresie prokuratora do spraw wojskowych, 2) art. 3, art. 4 pkt 5–9, art. 6 pkt 2 lit. b i d, pkt 4, art. 9, art. 10, art. 13–16, art. 19 pkt 3, art. 20 pkt 10 lit. b i c, art. 21, art. 31–33, art. 45 § 3, art. 46, art. 50, art. 62 § 4, 6 i 7, art. 64 § 3, 5 i 6 oraz art. 66 – które wchodzą w życie z dniem 4 kwietnia 2016 r.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 25 czerwca 1997 r.
 o świadku koronnym
 

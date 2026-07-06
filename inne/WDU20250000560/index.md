@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000560) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/560/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. z 2023 r. poz. 1690), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 kwietnia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 32 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871), który stanowi: „Art. 32. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 32 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U. poz. 1871), który stanowi: „ Art. 32. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 12 grudnia 1997 r.
 o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej
 

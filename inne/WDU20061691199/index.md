@@ -159,7 +159,7 @@ source: pdf
 - **33)** uznany system certyfikacji – zatwierdzony przez Komisję Europejską w drodze decyzji system certyfikacji, który w zależności od ścieżki certyfikacji gwarantuje, że dana ilość:
     - **a)** biomasy, biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy spełnia kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1,
     - **b)** biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy spełnia kryteria ograniczenia emisji gazów cieplarnianych określone odpowiednio w: – art. 28b – dla biokomponentów, – art. 135a ust. 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – dla biopłynów, – art. 135a ust. 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – dla paliw z biomasy,
-    - **c)** innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu spełnia kryteria ograniczenia emisji gazów cieplarnianych określone odpowiednio w: – art. 28b – dla innych paliw odnawialnych, – art. 28b – dla ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu;
+    - **c)** innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu spełnia kryteria ograniczenia emisji gazów cieplarnianych określone odpowiednio w: – art. 28b 1 – dla innych paliw odnawialnych, – art. 28b 2 – dla ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu;
 
 - **33a)** unijna baza danych – unijną bazę danych, o której mowa w art. 31a ust. 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/2001 z dnia 11 grudnia 2018 r. w sprawie promowania stosowania energii ze źródeł odnawialnych (wersja przekształcona) (Dz. Urz. UE L 328 z 21.12.2018, str. 82, z późn. zm. ), zwanej dalej „dyrektywą 2018/2001", umożliwiającą monitorowanie:
     - **a)** obrotu innymi paliwami odnawialnymi, biopaliwami ciekłymi, ciekłymi paliwami węglowymi pochodzącymi z recyklingu, gazowymi paliwami węglowymi pochodzącymi z recyklingu i biokomponentami zawartymi w paliwach, paliwach lotniczych lub paliwach żeglugowych stosowanych we wszystkich rodzajach transportu, które kwalifikują się do zaliczenia na poczet realizacji celów określonych w art. 23 ust. 1 i art. 23b ust. 1,
@@ -173,13 +173,13 @@ source: pdf
 - **38)** certyfikat jakości – dokument wydany przez akredytowaną jednostkę certyfikującą potwierdzający, że biokomponenty wprowadzane do obrotu lub wykorzystywane do wytwarzania paliw spełniają wymagania, o których mowa w ustawie oraz w przepisach wykonawczych wydanych na jej podstawie;
 - **39)** świadectwo – dokument wystawiany przez podmiot realizujący Narodowy Cel Wskaźnikowy potwierdzający, że wskazana w tym dokumencie ilość innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu, gazowych paliw węglowych pochodzących z recyklingu lub biokomponentów zawartych w paliwach, paliwach lotniczych i paliwach żeglugowych, rozporządzonych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu, gazowych paliw węglowych pochodzących z recyklingu lub biokomponentów przez ten podmiot na terytorium Rzeczypospolitej Polskiej lub zużytych na tym terytorium na potrzeby własne, spełnia kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1 oraz kryteria ograniczenia emisji gazów cieplarnianych określone odpowiednio w:
     - **a)** art. 28b – dla biokomponentów,
-    - **b)** art. 28b – dla innych paliw odnawialnych,
-    - **c)** art. 28b – dla ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu;
+    - **b)** art. 28b 1 – dla innych paliw odnawialnych,
+    - **c)** art. 28b 2 – dla ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu;
 
 - **40)** poświadczenie – dokument przewidziany przez uznany system certyfikacji lub umowę, o których mowa w art. 28c ust. 2 pkt 2 lub w art. 117 ust. 2 pkt 5 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, potwierdzający, że określona w tym dokumencie ilość:
     - **a)** biomasy, biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy spełnia kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1,
     - **b)** biokomponentów, biopłynów w rozumieniu art. 2 pkt 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii lub paliw z biomasy w rozumieniu art. 2 pkt 26c tej ustawy spełnia kryteria ograniczenia emisji gazów cieplarnianych określone odpowiednio w: – art. 28b – dla biokomponentów, – art. 135a ust. 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – dla biopłynów, – art. 135a ust. 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii – dla paliw z biomasy,
-    - **c)** innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu spełnia kryteria ograniczenia emisji gazów cieplarnianych określone odpowiednio w: – art. 28b – dla innych paliw odnawialnych, – art. 28b – dla ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu;
+    - **c)** innych paliw odnawialnych, ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu spełnia kryteria ograniczenia emisji gazów cieplarnianych określone odpowiednio w: – art. 28b 1 – dla innych paliw odnawialnych, – art. 28b 2 – dla ciekłych paliw węglowych pochodzących z recyklingu i gazowych paliw węglowych pochodzących z recyklingu;
 
 - **41)** dystrybutor – odmierzacz będący instalacją pomiarową, przeznaczony do tankowania biopaliw ciekłych na stacjach paliwowych i zakładowych;
 - **42)** dostawca paliw lotniczych – dostawcę paliwa lotniczego w rozumieniu art. 3 pkt 19 rozporządzenia 2023/2405, w tym mającego siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Turcji, posiadającego udzieloną przez Prezesa Urzędu Regulacji Energetyki koncesję na wytwarzanie paliw ciekłych, koncesję na obrót paliwami ciekłymi lub koncesję na obrót paliwami ciekłymi z zagranicą, w zakresie co najmniej jednego z paliw lotniczych, który dostarcza te paliwa lotnicze samodzielnie lub za pośrednictwem innego podmiotu operatorowi statku powietrznego w unijnym porcie lotniczym znajdującym się na terytorium Rzeczypospolitej Polskiej;
@@ -849,9 +849,9 @@ source: pdf
 
 4. (uchylony)
 
-5. Ciekłe paliwa węglowe pochodzące z recyklingu i gazowe paliwa węglowe pochodzące z recyklingu mogą być zaliczone podmiotowi realizującemu Narodowy Cel Wskaźnikowy na poczet realizacji obowiązku, o którym mowa w art. 23 ust. 1, wyłącznie wtedy, gdy spełniają warunek określony w ust. 1 pkt 3 oraz kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b .
+5. Ciekłe paliwa węglowe pochodzące z recyklingu i gazowe paliwa węglowe pochodzące z recyklingu mogą być zaliczone podmiotowi realizującemu Narodowy Cel Wskaźnikowy na poczet realizacji obowiązku, o którym mowa w art. 23 ust. 1, wyłącznie wtedy, gdy spełniają warunek określony w ust. 1 pkt 3 oraz kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b 2 .
 
-6. Inne paliwa odnawialne mogą być zaliczone podmiotowi realizującemu Narodowy Cel Wskaźnikowy na poczet realizacji obowiązku, o którym mowa w art. 23 ust. 1, wyłącznie wtedy, gdy spełniają warunki określone w ust. 1 pkt 2 i 3 oraz kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b .
+6. Inne paliwa odnawialne mogą być zaliczone podmiotowi realizującemu Narodowy Cel Wskaźnikowy na poczet realizacji obowiązku, o którym mowa w art. 23 ust. 1, wyłącznie wtedy, gdy spełniają warunki określone w ust. 1 pkt 2 i 3 oraz kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b 1 .
 
 **Art. 28b.**
 
@@ -983,8 +983,8 @@ source: pdf
 
 - **1)** biomasę lub biokomponenty kryteriów zrównoważonego rozwoju określonych w art. 28ba–28bcb i art. 28bcc ust. 1 oraz kryterium ograniczenia emisji gazów cieplarnianych określonego w art. 28b;
 - **2)** inne paliwa odnawialne, ciekłe paliwa węglowe pochodzące z recyklingu lub gazowe paliwa węglowe pochodzące z recyklingu kryterium ograniczenia emisji gazów cieplarnianych określonego:
-    - **a)** w art. 28b – dla innych paliw odnawialnych lub
-    - **b)** w art. 28b – dla ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu.
+    - **a)** w art. 28b 1 – dla innych paliw odnawialnych lub
+    - **b)** w art. 28b 2 – dla ciekłych paliw węglowych pochodzących z recyklingu lub gazowych paliw węglowych pochodzących z recyklingu.
 
 2. Za dokumenty, o których mowa w ust. 1, uznaje się również dokumenty wystawione:
 
@@ -1299,8 +1299,8 @@ source: pdf
 **Art. 28yc.** SAF może być zaliczony dostawcy paliw lotniczych na poczet realizacji obowiązków, o których mowa w art. 4 ust. 1 i 7 rozporządzenia 2023/2405, wyłącznie wtedy, gdy nie został wcześniej zaliczony na poczet realizacji tych obowiązków przez tego lub innego dostawcę paliw lotniczych oraz:
 
 - **1)** spełnia kryteria zrównoważonego rozwoju określone w art. 28ba–28bcb i art. 28bcc ust. 1 oraz kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku biopaliw lotniczych;
-- **2)** spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku syntetycznych paliw lotniczych;
-- **3)** spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b – w przypadku pochodzących z recyklingu węglowych paliw lotniczych w rozumieniu art. 3 pkt 9 rozporządzenia 2023/2405 będących ciekłymi paliwami węglowymi pochodzącymi z recyklingu lub gazowymi paliwami węglowymi pochodzącymi z recyklingu.
+- **2)** spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b 1 – w przypadku syntetycznych paliw lotniczych;
+- **3)** spełnia kryterium ograniczenia emisji gazów cieplarnianych określone w art. 28b 2 – w przypadku pochodzących z recyklingu węglowych paliw lotniczych w rozumieniu art. 3 pkt 9 rozporządzenia 2023/2405 będących ciekłymi paliwami węglowymi pochodzącymi z recyklingu lub gazowymi paliwami węglowymi pochodzącymi z recyklingu.
 
 **Art. 28yd.** Dokumentami potwierdzającymi spełnienie kryteriów, o których mowa w art. 28yc, są:
 
@@ -1740,5 +1740,9 @@ source: pdf
 
 **Art. 41.** Traci moc ustawa z dnia 2 października 2003 r. o biokomponentach stosowanych w paliwach ciekłych i biopaliwach ciekłych (Dz. U. poz. 1934, z późn. zm. ).
 
-**Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r. Załączniki do ustawy z dnia 25 2006 r. (Dz. U. z 2025 r. poz. .
+**Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r.
+
+## Załączniki do ustawy z dnia 25 2006 r. (Dz. U. z 2025 r. poz.
+
+.
 

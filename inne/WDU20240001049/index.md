@@ -29,13 +29,8 @@ source: pdf
 1) ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029),
 2) ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 lipca 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 76 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), który stanowi: „Art. 76. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 23 pkt 14 i 15, które wchodzą w życie z dniem 31 grudnia 2023 r.;
-2) art. 1 pkt 15 lit. d i e, pkt 16 lit. a tiret pierwsze i drugie, pkt 30 lit. c, pkt 82 lit. c, pkt 99 lit. d, pkt 118 lit. b oraz pkt 121 lit. a i d, art. 3, art. 6 pkt 2, art. 7, art. 8, art. 21 pkt 4 oraz art. 23 pkt 1–13 i 16, które wchodzą w życie z dniem 1 stycznia 2024 r.”;
-2) art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi: „Art. 84. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
-1) art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
-2) art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+1) art. 76 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy – Prawo geologiczne i górnicze oraz niektórych innych ustaw (Dz. U. poz. 2029), który stanowi: „ Art. 76. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 23 pkt 14 i 15, które wchodzą w życie z dniem 31 grudnia 2023 r.; 2) art. 1 pkt 15 lit. d i e, pkt 16 lit. a tiret pierwsze i drugie, pkt 30 lit. c, pkt 82 lit. c, pkt 99 lit. d, pkt 118 lit. b oraz pkt 121 lit. a i d, art. 3, art. 6 pkt 2, art. 7, art. 8, art. 21 pkt 4 oraz art. 23 pkt 1–13 i 16, które wchodzą w życie z dniem 1 stycznia 2024 r.”;
+2) art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi: „ Art. 84. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem: 1) art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia; 2) art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 14 lutego 2003 r.
 o stopniach górniczych, honorowych szpadach górniczych i mundurach górniczych
 

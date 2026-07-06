@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska obszaru ochrony siedlisk Cedron (PLH120060)
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia rządzenia Ministra Klimatu i Środowiska z dnia 20 maja 2022 r. w sprawie specjalnego obszaru (PLH120060) (Dz. U. poz. 1413), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra ska z dnia 22 września 2023 r. zmieniającym rozporządzenie w sprawie specjalnego obszaru (PLH120060) (Dz. U. poz. 2178).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 22 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Cedron (PLH120060) (Dz. U. poz. 2178), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 20 maja 2022 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 22 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Cedron (PLH120060) (Dz. U. poz. 2178), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska:
+ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 20 maja 2022 r.
 w sprawie specjalnego obszaru ochrony siedlisk Cedron (PLH120060) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
 i 1890) zarządza się, co następuje:
 § 1. 1. Wyznacza się specjalny obszar ochrony siedlisk Cedron (PLH120060 ), obejmujący w województwie małopolskim.

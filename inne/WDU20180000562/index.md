@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wzorów pełnomocnictw do podpisywania deklaracji oraz wzorów zawiadomień o zmianie lub odwołaniu tych pełnomocnictw
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 29 grudnia 2015 r. w sprawie wzorów pełnomocnictw do podpisywania deklaracji oraz wzorów zawiadomień o zmianie lub odwołaniu tych pełnomocnictw (Dz. U. poz. 2337), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 14 lutego 2017 r. zmieniającym rozporządzenie w sprawie wzorów pełnomocnictw do podpisywania deklaracji oraz wzorów zawiadomień o zmianie lub odwołaniu tych pełnomocnictw (Dz. U. poz. 333).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 14 lutego 2017 r. zmieniającego rozporządzenie w sprawie wzorów pełnomocnictw do podpisywania deklaracji oraz wzorów zawiadomień o zmianie lub odwołaniu tych pełnomocnictw (Dz. U. poz. 333), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”.
-Minister Finansów: T. Czerwińska Załącznik do obwieszczenia Ministra Finansów z dnia 22 lutego 2018 r. (poz. 562) RozpoRządzenie mINIStra fINaNSóW 1) z dnia 29 grudnia 2015 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 14 lutego 2017 r. zmieniającego rozporządzenie w sprawie wzorów pełnomocnictw do podpisywania deklaracji oraz wzorów zawiadomień o zmianie lub odwołaniu tych pełnomocnictw (Dz. U. poz. 333), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”. Minister Finansów: T. Czerwińska Załącznik do obwieszczenia Ministra Finansów z dnia 22 lutego 2018 r. (poz. 562)
+RozpoRządzenie mINIStra fINaNSóW 1) z dnia 29 grudnia 2015 r.
 w sprawie wzorów pełnomocnictw do podpisywania deklaracji oraz wzorów zawiadomień o zmianie lub odwołaniu tych pełnomocnictw Na podstawie art. 80a § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn.
 zm. 2) ) zarządza się, co następuje:
 § 1. Określa się wzory:
@@ -40,8 +40,11 @@ zm. 2) ) zarządza się, co następuje:
 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 648, 768, 935, 1428, 1537, 2169 i 2491 oraz z 2018 r. poz. 106, 138 i 398.
 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 15 grudnia 2014 r. w sprawie wzoru pełnomocnictwa do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej oraz wzoru zawiadomienia o odwołaniu tego pełnomocnictwa (Dz. U. poz. 1847), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, w związku z wejściem w życie ustawy z dnia 10 września 2015 r. o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 1649, 2183 i 2184).
-Załączniki do rozporządzenia Ministra Finansów z dnia 29 grudnia 2015 r.
-załącznik nr 1 4) UPL-1P PEŁNOMOCNICTWO DO PODPISYWANIA DEKLARACJI SKŁADANEJ W POSTACI PAPIEROWEJ Podstawa prawna: Art. 80a § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.).
+
+## Załączniki do rozporządzenia Ministra Finansów z dnia 29 grudnia 2015 r.
+
+## Załącznik nr 1 — 4) UPL-1P PEŁNOMOCNICTWO DO PODPISYWANIA DEKLARACJI SKŁADANEJ W POSTACI PAPIEROWEJ Podstawa prawna: Art. 80a § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.).
+
 Składający: Podatnik, płatnik lub inkasent udzielający pełnomocnictwa do podpisywania deklaracji.
 Miejsce składania: Organ podatkowy właściwy w sprawach podatku, którego dana deklaracja dotyczy, a jeżeli pełnomocnictwo jest składane w formie dokumentu elektronicznego Szef Krajowej Administracji Skarbowej.
 A. ORGAN PODATKOWY, DO KTÓREGO JEST ADRESOWANE PEŁNOMOCNICTWO B. DANE PODATNIKA, PŁATNIKA LUB INKASENTA, KTÓRY USTANAWIA PEŁNOMOCNIKA B.1. DANE IDENTYFIKACYJNE * - dotyczy podmiotu niebędącego osobą fizyczną ** - dotyczy podmiotu będącego osobą fizyczną   B.2. ADRES SIEDZIBY * / AKTUALNY ADRES ZAMIESZKANIA ** B.3. KONTAKT C. DANE PEŁNOMOCNIKA UPOWAŻNIONEGO DO PODPISYWANIA DEKLARACJI SKŁADANEJ W POSTACI PAPIEROWEJ C.1. DANE IDENTYFIKACYJNE C.2. ADRES DO DORĘCZEŃ C.3. KONTAKT UPL-1P 1

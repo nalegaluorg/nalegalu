@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i w sprawie specjalnego obszaru ochrony siedlisk Enklawy Puszczy Sandomierskiej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia rządzenia Ministra Klimatu i Środowiska z dnia 2 września 2022 r. w sprawie specjalnego obszaru wy Puszczy Sandomierskiej (PLH180055) (Dz. U. poz. 2388), z uwzględnieniem zmiany wprowadzonej Ministra Klimatu i Środowiska z dnia 18 lipca 2023 r. zmieniającym rozporządzenie w sprawie ny siedlisk Enklawy Puszczy Sandomierskiej (PLH180055) (Dz. U. poz. 1482).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 18 lipca 2023 r. zmieniającego rozporządzenie w sprawie ny siedlisk Enklawy Puszczy Sandomierskiej (PLH180055) (Dz. U. poz. 1482), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 2 września 2022 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 18 lipca 2023 r. zmieniającego rozporządzenie w sprawie ny siedlisk Enklawy Puszczy Sandomierskiej (PLH180055) (Dz. U. poz. 1482), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska:
+ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 2 września 2022 r.
 w sprawie specjalnego obszaru ochrony siedlisk Enklawy Puszczy Sandomierskiej Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
 i 1890 oraz z 2024 r. poz. 1089) zarządza się, co następuje:
 § 1. 1. Wyznacza się specjalny obszar ochrony siedlisk Enklawy Puszczy Sandomierskiej obszar 7952,49 ha, położony w województwie podkarpackim, składający się z dziesięciu powiązanych

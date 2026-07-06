@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000982) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/982/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 czerwca 1997 r. o Międzynarodowym Instytucie Biologii Molekularnej i Komórkowej w Warszawie (Dz. U. poz. 674), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 października 2019 r. o zmianie ustawy o Polskiej Akademii Nauk oraz niektórych innych ustaw (Dz. U. poz. 2227) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 maja 2020 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 16 października 2019 r. o zmianie ustawy o Polskiej Akademii Nauk oraz niektórych innych ustaw (Dz. U. poz. 2227), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 16 października 2019 r. o zmianie ustawy o Polskiej Akademii Nauk oraz niektórych innych ustaw (Dz. U. poz. 2227), który stanowi: „ Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 26 czerwca 1997 r.
 o Międzynarodowym Instytucie Biologii Molekularnej i Komórkowej w Warszawie
 

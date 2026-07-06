@@ -26,15 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001672) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1672/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 marca 2014 r. o zasadach prowadzenia zbiórek publicznych (Dz. U. z 2019 r. poz. 756), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2020 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 ustawy z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 3, który wchodzi w życie z dniem 1 stycznia 2022 r., w zakresie dotyczącym rejestrów publicznych innych niż rejestr danych kontaktowych osób fizycznych;
-2) art. 5 i art. 9, które wchodzą w życie z dniem wejścia w życie ustawy z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 695);
-3) art. 6 pkt 1, który wchodzi w życie z dniem 12 stycznia 2020 r.;
-4) art. 7:
-a) pkt 4, który wchodzi w życie z dniem 28 kwietnia 2020 r.,
-b) pkt 1–3 i 5–7, które wchodzą w życie z dniem 28 maja 2020 r.;
-5) art. 11, który wchodzi w życie z dniem 1 stycznia 2020 r.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 15 ustawy z dnia 16 października 2019 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 2294 oraz z 2020 r. poz. 695), który stanowi: „ Art. 15. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 3, który wchodzi w życie z dniem 1 stycznia 2022 r., w zakresie dotyczącym rejestrów publicznych innych niż rejestr danych kontaktowych osób fizycznych; 2) art. 5 i art. 9, które wchodzą w życie z dniem wejścia w życie ustawy z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 695); 3) art. 6 pkt 1, który wchodzi w życie z dniem 12 stycznia 2020 r.; 4) art. 7: a) pkt 4, który wchodzi w życie z dniem 28 kwietnia 2020 r., b) pkt 1–3 i 5–7, które wchodzą w życie z dniem 28 maja 2020 r.; 5) art. 11, który wchodzi w życie z dniem 1 stycznia 2020 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 14 marca 2014 r.
 o zasadach prowadzenia zbiórek publicznych
 

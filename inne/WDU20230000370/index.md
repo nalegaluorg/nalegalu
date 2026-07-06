@@ -75,7 +75,8 @@ b) w toku których stwierdzono naruszenia uzasadniające nałożenie kary pieni�
 § 8. Druk ścisłego zarachowania zgodny z wzorem, o którym mowa w § 2 ust. 3, może być stosowany do wyczerpania zapasów, jednak nie dłużej niż do dnia 31 grudnia 2023 r.
 § 9. Rozporządzenie wchodzi w życie z dniem 1 marca 2023 r.
 Minister Infrastruktury: A. Adamczyk Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 5 listopada 2019 r. w sprawie kontroli przewozu drogowego (Dz. U. poz. 2145), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 13 ust. 1 ustawy z dnia 26 stycznia 2022 r. o zmianie ustawy o transporcie drogowym, ustawy o czasie pracy kierowców oraz niektórych innych ustaw (Dz. U. poz. 209).
-Załączniki do rozporządzenia Ministra Infrastruktury z dnia ………2023 r. (Dz. U. poz. ……) Załącznik nr 1 Załącznik nr 1 WZÓR WZÓR PROTOKÓŁ KONTROLI DROGOWEJ ……………………………………..……………. ……………………………………..…………….
+
+## Załącznik nr 1 — Załącznik nr 1 WZÓR WZÓR PROTOKÓŁ KONTROLI DROGOWEJ ……………………………………..……………. ……………………………………..…………….
 
 ## Załącznik nr 1 — do protokołu kontroli nr ........ z dnia .............................
 

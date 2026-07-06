@@ -31,12 +31,9 @@ z 2021 r. poz. 1153), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Zdrowia z dnia 31 sierpnia 2022 r. zmieniającym rozporządzenie w sprawie rodzajów elektronicznej dokumentacji medycznej (Dz. U. poz. 1845);
 2) rozporządzeniem Ministra Zdrowia z dnia 19 lipca 2023 r. zmieniającym rozporządzenie w sprawie rodzajów elektronicznej dokumentacji medycznej (Dz. U. poz. 1485).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 31 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie rodzajów elektronicznej dokumentacji medycznej (Dz. U. poz. 1845), które stanowią: „§ 2. Do dnia 31 sierpnia 2027 r. karta profilaktycznego badania ucznia może być prowadzona na dotychczasowych zasadach.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie rodzajów elektronicznej dokumentacji medycznej (Dz. U. poz. 1485), które stanowią: „§ 2. Do dnia 31 grudnia 2023 r. Indywidualny Plan Opieki Medycznej, o którym mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r.
-poz. 1876, 2280 i 2705 oraz z 2023 r. poz. 605), może być prowadzony w postaci papierowej.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: K. Sójka ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 maja 2018 r.
+1) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 31 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie rodzajów elektronicznej dokumentacji medycznej (Dz. U. poz. 1845), które stanowią: „ § 2. Do dnia 31 sierpnia 2027 r. karta profilaktycznego badania ucznia może być prowadzona na dotychczasowych zasadach. § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie rodzajów elektronicznej dokumentacji medycznej (Dz. U. poz. 1485), które stanowią: „ § 2. Do dnia 31 grudnia 2023 r. Indywidualny Plan Opieki Medycznej, o którym mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r. poz. 1876, 2280 i 2705 oraz z 2023 r. poz. 605), może być prowadzony w postaci papierowej. § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: K. Sójka
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 maja 2018 r.
 w sprawie rodzajów elektronicznej dokumentacji medycznej Na podstawie art. 13a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r.
 poz. 1555, 2280 i 2705 oraz z 2023 r. poz. 650, 1234 i 1692) zarządza się, co następuje:
 § 1. Elektroniczną dokumentację medyczną stanowią:

@@ -105,7 +105,8 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. Uprawnieni do kontroli, o których mowa w art. 89 ust. 1, mają prawo nałożyć na wykonującego przewozy drogowe lub inne czynności związane z tym przewozem karę pienię¿ną, w drodze decyzji administracyjnej.”,
     - **b)** uchyla się ust. 6;
 
-- **32)** w art. 94 ust. 5 otrzymuje brzmienie: „5. W przypadku uchylenia albo stwierdzenia nieważności decyzji, a także uwzględnienia skargi przez sąd administracyjny uiszczona kara pieniężna podlega zwrotowi w terminie 14 dni od dnia wydania decyzji lub orzeczenia o zwrocie tej kary.” ; 33) załącznik do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
+- **32)** w art. 94 ust. 5 otrzymuje brzmienie: „5. W przypadku uchylenia albo stwierdzenia nieważności decyzji, a także uwzględnienia skargi przez sąd administracyjny uiszczona kara pieniężna podlega zwrotowi w terminie 14 dni od dnia wydania decyzji lub orzeczenia o zwrocie tej kary.” ;
+- **33)** załącznik do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
 
 **Art. 2.** W ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2002 r. Nr 175, poz. 1440, z późn. zm. ) w art. 8a:
 

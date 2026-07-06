@@ -27,13 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka (Dz. U. z 2020 r. poz. 141), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 października 2022 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz niektórych innych ustaw (Dz. U. poz. 2140 i 2243) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 45 ustawy z dnia 7 października 2022 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej oraz niektórych innych ustaw (Dz. U.
-poz. 2140 i 2243), który stanowi: „Art. 45. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 71 oraz art. 10, które wchodzą w życie z dniem 1 czerwca 2023 r.;
-2) art. 12, który wchodzi w życie z dniem 31 października 2022 r.;
-2a) art. 15 pkt 2 lit. a–c, które wchodzą w życie z dniem 15 listopada 2022 r.;
-3) art. 18, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2022 r.;
-4) art. 20, który wchodzi w życie z dniem 30 października 2022 r.”.
-Marszałek Sejmu: E. Witek
+poz. 2140 i 2243), który stanowi: „ Art. 45. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 71 oraz art. 10, które wchodzą w życie z dniem 1 czerwca 2023 r.; 2) art. 12, który wchodzi w życie z dniem 31 października 2022 r.; 2a) art. 15 pkt 2 lit. a–c, które wchodzą w życie z dniem 15 listopada 2022 r.; 3) art. 18, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2022 r.; 4) art. 20, który wchodzi w życie z dniem 30 października 2022 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 6 stycznia 2000 r.
 o Rzeczniku Praw Dziecka
 

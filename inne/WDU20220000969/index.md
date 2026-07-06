@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 12 marca 2008 r. w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych (Dz. U. poz. 347), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 11 października 2019 r. zmieniającym rozporządzenie w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych (Dz. U. poz. 2094).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych (Dz. U. poz. 2094), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 marca 2008 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych (Dz. U. poz. 2094), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 marca 2008 r.
 w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych Na podstawie art. 121 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830) zarządza się, co następuje:
 § 1. 1. Zgłoszenia podejrzenia, że produkt leczniczy nie odpowiada ustalonym dla niego wymaganiom jakościowym, dokonuje się do wojewódzkiego inspektora farmaceutycznego, zwanego dalej „wojewódzkim inspektorem”.
 2. Zgłoszenie podejrzenia, o którym mowa w ust. 1, przez:
@@ -126,7 +126,9 @@ W przypadku otrzymania zgłoszenia, że zachodzi podejrzenie, że dany wyrób me
 § 6. Dla celów kontroli przez Państwową Inspekcję Farmaceutyczną protokół, o którym mowa w § 5 ust. 1 pkt 2, podmiot odpowiedzialny, wytwórca lub importer produktu leczniczego, oraz kopie raportów, o których mowa w § 5 ust. 1 pkt 4, ust. 2 pkt 4, ust. 3 pkt 3 i ust. 5, podmioty prowadzące obrót produktami leczniczymi lub wyrobami medycznymi, przechowują przez okres 3 lat, licząc od pierwszego dnia roku kalendarzowego następującego po roku, w którym zostały sporządzone.
 § 7. Traci moc rozporządzenie Ministra Zdrowia z dnia 22 listopada 2002 r. w sprawie określenia szczegółowych zasad i trybu wstrzymywania i wycofywania z obrotu produktów leczniczych i wyrobów medycznych (Dz. U. poz. 1729).
 § 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. (poz. ………..) Załącznik nr 1 WZÓR WZÓR ......................................................................... .............................................
+
+## Załącznik nr 1 — WZÓR WZÓR ......................................................................... .............................................
+
 Wojewódzki Inspektor Farmaceutyczny w ..........................................
 Zgłoszenie podejrzenia braku spełnienia wymagań jakościowych produktu leczniczego/ wymagań zasadniczych wyrobu medycznego (czytelnie wypełnia osoba upoważniona)
 1. Pełna nazwa placówki oraz nazwa komórki organizacyjnej: ...............................................................................................................................................................

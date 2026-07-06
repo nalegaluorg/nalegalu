@@ -30,10 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 1) rozporządzeniem Ministra Zdrowia z dnia 2 lipca 2010 r. zmieniającym rozporządzenie w sprawie biegłych w przedmiocie uzależnienia od alkoholu (Dz. U. poz. 883);
 2) rozporządzeniem Ministra Zdrowia z dnia 31 października 2022 r. zmieniającym rozporządzenie w sprawie biegłych w przedmiocie uzależnienia od alkoholu (Dz. U. poz. 2312).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 2 lipca 2010 r. zmieniającego rozporządzenie w sprawie biegłych w przedmiocie uzależnienia od alkoholu (Dz. U. poz. 883), które stanowią: „§ 2. Listę biegłych w przedmiocie uzależnienia od alkoholu należy dostosować do zakresu danych określonych w § 3 ust. 2a rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, do dnia 31 sierpnia 2010 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Zdrowia z dnia 31 października 2022 r. zmieniającego rozporządzenie w sprawie biegłych w przedmiocie uzależnienia od alkoholu (Dz. U. poz. 2312), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: K. Sójka ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 grudnia 2007 r.
+1) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 2 lipca 2010 r. zmieniającego rozporządzenie w sprawie biegłych w przedmiocie uzależnienia od alkoholu (Dz. U. poz. 883), które stanowią: „ § 2. Listę biegłych w przedmiocie uzależnienia od alkoholu należy dostosować do zakresu danych określonych w § 3 ust. 2a rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, do dnia 31 sierpnia 2010 r. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Zdrowia z dnia 31 października 2022 r. zmieniającego rozporządzenie w sprawie biegłych w przedmiocie uzależnienia od alkoholu (Dz. U. poz. 2312), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: K. Sójka
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 grudnia 2007 r.
 w sprawie biegłych w przedmiocie uzależnienia od alkoholu Na podstawie art. 28a ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165, 240, 535 i 803) zarządza się, co następuje:
 § 1. Rozporządzenia określa:
 1) tryb powoływania biegłych w przedmiocie uzależnienia od alkoholu, zwanych dalej „biegłymi”;

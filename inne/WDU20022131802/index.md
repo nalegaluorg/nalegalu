@@ -57,7 +57,8 @@ source: pdf
 **Art. 5.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz.U. Nr 98, poz. 1071 i Nr 154, poz. 1787 oraz z 2002 r. Nr 153, poz. 1271) wprowadza się następujące zmiany:
 
 - **1)** art. 38 otrzymuje brzmienie: „Art. 38. 1. Do obsługi kuratora okręgowego i jego zastępców, przy wykonywaniu ich zadań ustawowych, prezes sądu okręgowego wyznacza urzędników lub innych pracowników sądu okręgowego. 2. Prezes sądu okręgowego może, na wniosek kuratora okręgowego, delegować do sądu okręgowego kuratora z sądu rejonowego z danego okręgu sądowego w celu udzielania kuratorowi okręgowemu pomocy przy wykonywaniu zadań.”;
-- **2)** w art. 41 w ust. 1 pkt 13 otrzymuje brzmienie: „13) koordynowanie obsługi biurowej zespołu,” ; 3) art. 42 otrzymuje brzmienie: „Art. 42. 1. Czynności z zakresu obsługi biurowej zespołu wykonują pracownicy wydziałów sądu rejonowego, na rzecz których zespół wykonuje zadania. 2. Prezes sądu rejonowego może utworzyć sekretariat zespołu. 3. W przypadku utworzenia sekretariatu, o którym mowa w ust. 2, jego pracami kieruje kierownik zespołu.”.
+- **2)** w art. 41 w ust. 1 pkt 13 otrzymuje brzmienie: „13) koordynowanie obsługi biurowej zespołu,” ;
+- **3)** art. 42 otrzymuje brzmienie: „Art. 42. 1. Czynności z zakresu obsługi biurowej zespołu wykonują pracownicy wydziałów sądu rejonowego, na rzecz których zespół wykonuje zadania. 2. Prezes sądu rejonowego może utworzyć sekretariat zespołu. 3. W przypadku utworzenia sekretariatu, o którym mowa w ust. 2, jego pracami kieruje kierownik zespołu.”.
 
 **Art. 6.** Przepisy art. 77 § 5 ustawy, o której mowa w art. 1, oraz art. 50 ust. 4 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się do wynagrodzenia zasadniczego sędziów i prokuratorów, którzy zostali delegowani po dniu wejścia w życie niniejszej ustawy.
 

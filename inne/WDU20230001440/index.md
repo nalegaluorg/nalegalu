@@ -26,10 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001440) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1440/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. z 2023 r. poz. 82), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ustawy – Ordynacja podatkowa (Dz. U. poz. 511) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 lipca 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ustawy – Ordynacja podatkowa (Dz. U. poz. 511), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 2 i art. 3, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-2) art. 4, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 28 lutego 2023 r.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz ustawy – Ordynacja podatkowa (Dz. U. poz. 511), który stanowi: „ Art. 5. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 2 i art. 3, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia; 2) art. 4, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 28 lutego 2023 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 4 kwietnia 2019 r.
 o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
 

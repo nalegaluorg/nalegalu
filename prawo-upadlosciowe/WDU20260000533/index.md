@@ -8,12 +8,10 @@ pos: 533
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo restrukturyzacyjne
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo restrukturyzacyjne
 
 | Pole | Wartość |
 |---|---|
@@ -27,19 +25,25 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000533) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/533/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428), z uwzględnieniem stanu prawnego na dzień 25 marca 2026 r. oraz zmian wprowadzonych:
-1) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy Prawo restrukturyzacyjne, ustawy Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085);
-2) ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1170);
-3) ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy Kodeks postępowania cywilnego, ustawy Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1172);
-4) ustawą z dnia 23 stycznia 2026 r. o zmianie ustawy Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U.
+1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428), z uwzględnieniem stanu prawnego na dzień 25 marca 2026 r. oraz zmian wprowadzonych:
+1) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085);
+2) ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1170);
+3) ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1172);
+4) ustawą z dnia 23 stycznia 2026 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U.
 poz. 176).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 4 i art. 6 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy Prawo restrukturyzacyjne, ustawy Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085), które stanowią: „Art. 4. W sprawach, w których przed dniem wejścia w życie niniejszej ustawy wpłynął wniosek o ogłoszenie upadłości, wniosek o uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, wniosek restrukturyzacyjny lub wniosek o stwierdzenie wykonania, zmianę albo uchylenie układu lub doszło do ustalenia dnia układowego, o którym mowa w art. 211 ust. 1 ustawy zmienianej w art. 1, stosuje się przepisy dotychczasowe.” „Art. 6. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 5 i art. 6 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U.
+1) art. 4 i art. 6 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085), które stanowią: „Art. 4. W sprawach, w których przed dniem wejścia w życie niniejszej ustawy wpłynął wniosek o ogłoszenie upadłości, wniosek o uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, wniosek restrukturyzacyjny lub wniosek o stwierdzenie wykonania, zmianę albo uchylenie układu lub doszło do ustalenia dnia układowego, o którym mowa w art. 211 ust. 1 ustawy zmienianej w art. 1, stosuje się przepisy dotychczasowe.” „Art. 6. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) art. 5 i art. 6 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U.
 poz. 1170), które stanowią: „Art. 5. Do postępowań upadłościowych oraz postępowań restrukturyzacyjnych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
-Art. 401–447. (pominięte)
 
 **Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+
+- **3)** art. 16 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1172), który stanowi: „Art. 16. Ustawa wchodzi w życie z dniem 1 marca 2026 r., z wyjątkiem:
+- **1)** art. 1 pkt 5 w zakresie art. 125 § 2, który wchodzi w życie z dniem 1 marca 2027 r.;
+- **2)** art. 1 pkt 9, 10, pkt 11 lit. c, pkt 14, 16–18, 21–23 i 35, art. 7, art. 10 oraz art. 14 ust. 3 i 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+- **3)** art. 1 pkt 11 lit. a i b, które wchodzą w życie z dniem 1 czerwca 2026 r.;
+- **4)** art. 2, art. 9 i art. 13, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
+- **4)** art. 35 ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 176), który stanowi: „Art. 35. Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia, z wyjątkiem art. 28 i art. 33, które wchodzą w życie z dniem 28 lutego 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 15 maja 2015 r. Prawo restrukturyzacyjne
 
 ## TYTUŁ I Przepisy ogólne o postępowaniach restrukturyzacyjnych i ich skutkach
 
@@ -49,11 +53,19 @@ Art. 401–447. (pominięte)
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** zawieranie przez dłużnika niewypłacalnego lub zagrożonego niewypłacalnością układu z wierzycielami oraz skutki układu;
+- **2)** przeprowadzanie działań sanacyjnych.
+
 **Art. 2.** Restrukturyzację przeprowadza się w następujących postępowaniach restrukturyzacyjnych:
+
+- **1)** postępowaniu o zatwierdzenie układu;
+- **2)** przyspieszonym postępowaniu układowym;
+- **3)** postępowaniu układowym;
+- **4)** postępowaniu sanacyjnym.
 
 **Art. 3.**
 
-1. Celem postępowania restrukturyzacyjnego jest uniknięcie ogłoszenia upadłości dłużnika przez umożliwienie mu restrukturyzacji w drodze zawarcia układu z wierzycielami, a w przypadku postępowania sanacyjnego również przez przeprowadzenie działań sanacyjnych, przy zabezpieczeniu słusznych praw wierzycieli.
+1. Celem postępowania restrukturyzacyjnego jest uniknięcie ogłoszenia upadłości dłużnika przez umożliwienie mu restrukturyzacji w drodze zawarcia układu z wierzycielami, a w przypadku postępowania sanacyjnego – również przez przeprowadzenie działań sanacyjnych, przy zabezpieczeniu słusznych praw wierzycieli.
 
 2. Postępowanie o zatwierdzenie układu:
 
@@ -78,7 +90,7 @@ Art. 401–447. (pominięte)
 
 1. Przepisy ustawy stosuje się do:
 
-- **1)** przedsiębiorców w rozumieniu ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184), zwanej dalej „Kodeksem cywilnym”;
+- **1)** przedsiębiorców w rozumieniu ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184), zwanej dalej „Kodeksem cywilnym”;
 - **2)** spółek z ograniczoną odpowiedzialnością, prostych spółek akcyjnych i spółek akcyjnych nieprowadzących działalności gospodarczej;
 - **3)** wspólników osobowych spółek handlowych ponoszących odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **4)** wspólników spółki partnerskiej.
@@ -115,7 +127,7 @@ Art. 401–447. (pominięte)
 
 1. Postępowanie restrukturyzacyjne może być prowadzone wobec dłużnika niewypłacalnego lub zagrożonego niewypłacalnością.
 
-2. Przez dłużnika niewypłacalnego należy rozumieć dłużnika niewypłacalnego w rozumieniu ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172 oraz z 2026 r. poz. 331 i 340), zwanej dalej „Prawem upadłościowym”.
+2. Przez dłużnika niewypłacalnego należy rozumieć dłużnika niewypłacalnego w rozumieniu ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172 oraz z 2026 r. poz. 331 i 340), zwanej dalej „Prawem upadłościowym”.
 
 3. Przez dłużnika zagrożonego niewypłacalnością należy rozumieć dłużnika, którego sytuacja ekonomiczna wskazuje, że w niedługim czasie może stać się niewypłacalny.
 
@@ -217,7 +229,7 @@ Art. 401–447. (pominięte)
 
 **Art. 14.**
 
-1. Sprawy w postępowaniu restrukturyzacyjnym rozpoznaje sąd restrukturyzacyjny. Sądem restrukturyzacyjnym jest sąd rejonowy sąd gospodarczy.
+1. Sprawy w postępowaniu restrukturyzacyjnym rozpoznaje sąd restrukturyzacyjny. Sądem restrukturyzacyjnym jest sąd rejonowy – sąd gospodarczy.
 
 2. Sąd orzeka w składzie jednego sędziego. Rozpoznając zażalenie na postanowienie sędziego-komisarza oraz w przedmiocie wynagrodzenia nadzorcy sądowego albo zarządcy w postępowaniu układowym i sanacyjnym, sąd orzeka w składzie trzech sędziów zawodowych.
 
@@ -299,8 +311,8 @@ Art. 401–447. (pominięte)
 - **2)** małżonkiem, wstępnym, zstępnym, jednym z rodzeństwa, powinowatym dłużnika lub jego wierzyciela w tej samej linii czy stopniu;
 - **3)** osobą pozostającą z dłużnikiem w stosunku przysposobienia lub małżonkiem tej osoby albo osobą pozostającą z dłużnikiem w faktycznym związku, prowadzącą z nim wspólnie gospodarstwo domowe;
 - **4)** lub była zatrudniona przez dłużnika na podstawie stosunku pracy albo wykonywała pracę lub świadczyła usługi na rzecz dłużnika na podstawie innego stosunku prawnego, z wyjątkiem wykonywania na rzecz dłużnika czynności doradztwa restrukturyzacyjnego, o których mowa w ustawie o licencji doradcy restrukturyzacyjnego;
-- **5)** lub była członkiem organu, prokurentem lub pełnomocnikiem dłużnika albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem dłużnika posiadającym udziały albo akcje w wysokości wyższej niż 5 % kapitału zakładowego dłużnika lub wierzyciela, a w przypadku prostej spółki akcyjnej więcej niż 5 % akcji tej spółki;
-- **6)** lub była spółką powiązaną z dłużnikiem lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5 % kapitału zakładowego spółki powiązanej z dłużnikiem, a w przypadku prostej spółki akcyjnej więcej niż 5 % akcji tej spółki.
+- **5)** lub była członkiem organu, prokurentem lub pełnomocnikiem dłużnika albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem dłużnika posiadającym udziały albo akcje w wysokości wyższej niż 5 % kapitału zakładowego dłużnika lub wierzyciela, a w przypadku prostej spółki akcyjnej – więcej niż 5 % akcji tej spółki;
+- **6)** lub była spółką powiązaną z dłużnikiem lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5 % kapitału zakładowego spółki powiązanej z dłużnikiem, a w przypadku prostej spółki akcyjnej – więcej niż 5 % akcji tej spółki.
 
 3. Powołanie osoby, która była nadzorcą, jako zarządcy w postępowaniu dotyczącym tego samego dłużnika jest niedopuszczalne.
 
@@ -404,7 +416,7 @@ Art. 401–447. (pominięte)
 
 2. Sędzia-komisarz może wyznaczyć inne terminy składania sprawozdań rachunkowych oraz określić dodatkowe wymogi co do ich treści.
 
-3. W terminie trzydziestu dni od dnia złożenia sprawozdania dłużnik i wierzyciele mogą wnosić zarzuty dotyczące wydatków poniesionych przez zarządcę wskazanych w sprawozdaniu, o którym mowa w ust. 1. Zarzuty wniesione po upływie terminu lub nieodpowiadające wymogom formalnym pisma procesowego pozostawia się bez rozpoznania. Przepisu art. 130 § 1 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), zwanej dalej „Kodeksem postępowania cywilnego”, nie stosuje się.
+3. W terminie trzydziestu dni od dnia złożenia sprawozdania dłużnik i wierzyciele mogą wnosić zarzuty dotyczące wydatków poniesionych przez zarządcę wskazanych w sprawozdaniu, o którym mowa w ust. 1. Zarzuty wniesione po upływie terminu lub nieodpowiadające wymogom formalnym pisma procesowego pozostawia się bez rozpoznania. Przepisu art. 130 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ), zwanej dalej „Kodeksem postępowania cywilnego”, nie stosuje się.
 
 3a. Sędzia-komisarz w wyniku rozpoznania zarzutów lub z urzędu w terminie dwóch miesięcy od dnia złożenia sprawozdania, o którym mowa w ust. 1, odmawia postanowieniem uznania w całości albo części określonego wydatku poniesionego przez zarządcę oraz orzeka o zwrocie do masy sanacyjnej kwoty poniesionej z tytułu wydatku, którego uznania odmówiono.
 
@@ -505,7 +517,7 @@ Art. 401–447. (pominięte)
     - **c)** osiągnął sumy aktywów bilansu sporządzonego na koniec jednego z tych lat, które przekroczyły równowartość w złotych 43 milionów euro,
 
 - **2)** spółki o istotnym znaczeniu dla gospodarki państwa, umieszczonej w wykazie określonym w przepisach wykonawczych wydanych na podstawie art. 31 ust. 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373),
-- **3)** przedsiębiorcy o szczególnym znaczeniu gospodarczo-obronnym, umieszczonego w wykazie określonym w przepisach wykonawczych wydanych na podstawie art. 6 ustawy z dnia 23 sierpnia 2001 r. o organizowaniu zadań na rzecz obronności państwa realizowanych przez przedsiębiorców (Dz. U. z 2020 r. poz. 1669) sąd wyznacza do pełnienia funkcji nadzorcy sądowego osobę posiadającą licencję doradcy restrukturyzacyjnego z tytułem kwalifikowanego doradcy restrukturyzacyjnego.
+- **3)** przedsiębiorcy o szczególnym znaczeniu gospodarczo-obronnym, umieszczonego w wykazie określonym w przepisach wykonawczych wydanych na podstawie art. 6 ustawy z dnia 23 sierpnia 2001 r. o organizowaniu zadań na rzecz obronności państwa realizowanych przez przedsiębiorców (Dz. U. z 2020 r. poz. 1669) – sąd wyznacza do pełnienia funkcji nadzorcy sądowego osobę posiadającą licencję doradcy restrukturyzacyjnego z tytułem kwalifikowanego doradcy restrukturyzacyjnego.
 
 2. Na wniosek dłużnika, do którego dołączono pisemną zgodę wierzyciela lub wierzycieli mających łącznie więcej niż 30 % sumy wierzytelności, z wyłączeniem wierzycieli, o których mowa w art. 80 ust. 3 oraz art. 116, sąd, w postanowieniu o otwarciu przyspieszonego postępowania układowego lub postępowania układowego, powołuje do pełnienia funkcji nadzorcy sądowego osobę spełniającą wymogi, o których mowa w art. 24, wskazaną przez dłużnika. Sąd może odmówić powołania wskazanej osoby, jeżeli zachodzą uzasadnione przyczyny, w szczególności jeżeli jest oczywiste, że wskazana osoba nie daje rękojmi należytego wykonywania obowiązków.
 
@@ -516,6 +528,11 @@ Art. 401–447. (pominięte)
 2. Przepisy art. 36 ust. 2 i 3 oraz art. 37 ust. 1 stosuje się odpowiednio.
 
 **Art. 40.** Do czynności nadzorcy sądowego należy w szczególności:
+
+- **1)** zawiadomienie wierzycieli o otwarciu postępowania restrukturyzacyjnego;
+- **2)** sporządzenie planu restrukturyzacyjnego i spisu wierzytelności;
+- **3)** ocena propozycji układowych, w tym, w razie potrzeby, doradztwo w zakresie ich zmiany w celu zapewnienia zgodności z prawem i możliwości ich wykonania, podejmowanie działań w celu złożenia przez wierzycieli możliwie największej liczby ważnych głosów, udział w zgromadzeniu wierzycieli oraz złożenie opinii o możliwości wykonania układu;
+- **4)** w przyspieszonym postępowaniu układowym – sporządzenie spisu wierzytelności spornych.
 
 **Art. 41.** Nadzorca sądowy nie ponosi odpowiedzialności za prawdziwość informacji dostarczonych mu przez dłużnika, pouczonego o odpowiedzialności karnej za dostarczanie nieprawdziwych informacji w celu wykorzystania w postępowaniu restrukturyzacyjnym oraz za zatajanie informacji mających istotne znaczenie dla przeprowadzenia postępowania restrukturyzacyjnego. Nie zwalnia to nadzorcy sądowego z obowiązku rzetelnego weryfikowania przedstawionych informacji, w szczególności w przypadku gdy istnieją uzasadnione wątpliwości co do ich prawdziwości.
 
@@ -528,23 +545,23 @@ Art. 401–447. (pominięte)
 2. Części składowe wynagrodzenia ustala się według następujących zasad:
 
 - **1)** część zależna od liczby wierzycieli będących uczestnikami postępowania:
-    - **a)** jedna podstawa wynagrodzenia do 10 wierzycieli,
-    - **b)** trzy podstawy wynagrodzenia od 11 do 50 wierzycieli,
-    - **c)** sześć podstaw wynagrodzenia od 51 do 100 wierzycieli,
-    - **d)** osiem podstaw wynagrodzenia od 101 do 500 wierzycieli,
-    - **e)** dziesięć podstaw wynagrodzenia od 501 do 1000 wierzycieli,
-    - **f)** dwanaście podstaw wynagrodzenia powyżej 1000 wierzycieli;
+    - **a)** jedna podstawa wynagrodzenia – do 10 wierzycieli,
+    - **b)** trzy podstawy wynagrodzenia – od 11 do 50 wierzycieli,
+    - **c)** sześć podstaw wynagrodzenia – od 51 do 100 wierzycieli,
+    - **d)** osiem podstaw wynagrodzenia – od 101 do 500 wierzycieli,
+    - **e)** dziesięć podstaw wynagrodzenia – od 501 do 1000 wierzycieli,
+    - **f)** dwanaście podstaw wynagrodzenia – powyżej 1000 wierzycieli;
 
 - **2)** część zależna od sumy wierzytelności przysługujących wierzycielom będącym uczestnikami postępowania:
-    - **a)** jedna podstawa wynagrodzenia dla sumy do 100 000,00 zł,
-    - **b)** trzy podstawy wynagrodzenia dla sumy od 100 000,01 zł do 500 000,00 zł,
-    - **c)** sześć podstaw wynagrodzenia dla sumy od 500 000,01 zł do 1 000 000,00 zł,
-    - **d)** osiem podstaw wynagrodzenia dla sumy od 1 000 000,01 zł do 10 000 000,00 zł,
-    - **e)** dziesięć podstaw wynagrodzenia dla sumy od 10 000 000,01 zł do 500 000 000,00 zł,
-    - **f)** dwanaście podstaw wynagrodzenia dla sumy przekraczającej 500 000 000,00 zł;
+    - **a)** jedna podstawa wynagrodzenia – dla sumy do 100 000,00 zł,
+    - **b)** trzy podstawy wynagrodzenia – dla sumy od 100 000,01 zł do 500 000,00 zł,
+    - **c)** sześć podstaw wynagrodzenia – dla sumy od 500 000,01 zł do 1 000 000,00 zł,
+    - **d)** osiem podstaw wynagrodzenia – dla sumy od 1 000 000,01 zł do 10 000 000,00 zł,
+    - **e)** dziesięć podstaw wynagrodzenia – dla sumy od 10 000 000,01 zł do 500 000 000,00 zł,
+    - **f)** dwanaście podstaw wynagrodzenia – dla sumy przekraczającej 500 000 000,00 zł;
 
-- **3)** część ustalana przez sąd stosownie do rodzaju postępowania restrukturyzacyjnego, zakresu czynności podejmowanych przez nadzorcę sądowego w toku postępowania i pracy włożonej w osiągnięcie celu postępowania w granicach do dziesięciu podstaw wynagrodzenia;
-- **4)** część ustalana w przypadku, gdy z przyczyn niezależnych od nadzorcy sądowego postępowanie układowe trwa dłużej niż dwanaście miesięcy w granicach do dziesięciu podstaw wynagrodzenia.
+- **3)** część ustalana przez sąd stosownie do rodzaju postępowania restrukturyzacyjnego, zakresu czynności podejmowanych przez nadzorcę sądowego w toku postępowania i pracy włożonej w osiągnięcie celu postępowania – w granicach do dziesięciu podstaw wynagrodzenia;
+- **4)** część ustalana w przypadku, gdy z przyczyn niezależnych od nadzorcy sądowego postępowanie układowe trwa dłużej niż dwanaście miesięcy – w granicach do dziesięciu podstaw wynagrodzenia.
 
 3. Przez podstawę wynagrodzenia należy rozumieć przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszone przez Prezesa Głównego Urzędu Statystycznego.
 
@@ -560,10 +577,10 @@ Art. 401–447. (pominięte)
 
 1. W przyspieszonym postępowaniu układowym dłużnik składa zaliczkę na pokrycie wynagrodzenia nadzorcy sądowego w terminie:
 
-- **1)** siedmiu dni od dnia doręczenia mu postanowienia o otwarciu postępowania w wysokości 30 % wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2,
-- **2)** dwóch miesięcy od dnia otwarcia postępowania w wysokości 10 % wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2 pod rygorem umorzenia postępowania.
+- **1)** siedmiu dni od dnia doręczenia mu postanowienia o otwarciu postępowania – w wysokości 30 % wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2,
+- **2)** dwóch miesięcy od dnia otwarcia postępowania – w wysokości 10 % wynagrodzenia obliczonego zgodnie z art. 42 ust. 2 pkt 1 i 2 – pod rygorem umorzenia postępowania.
 
-2. Wysokość zaliczki dłużnik oblicza na podstawie danych o liczbie wierzycieli i sumie wierzytelności zawartych w wykazie wierzycieli, o którym mowa w art. 227 ust. 1 pkt 6, a jeżeli w postępowaniu nadzorca sądowy złożył spis wierzytelności na podstawie spisu wierzytelności.
+2. Wysokość zaliczki dłużnik oblicza na podstawie danych o liczbie wierzycieli i sumie wierzytelności zawartych w wykazie wierzycieli, o którym mowa w art. 227 ust. 1 pkt 6, a jeżeli w postępowaniu nadzorca sądowy złożył spis wierzytelności – na podstawie spisu wierzytelności.
 
 3. Jeżeli dłużnik wpłacił zaliczkę w kwocie niższej niż wynikająca z ust. 1, sędzia-komisarz wzywa dłużnika do jej uzupełnienia w terminie czternastu dni pod rygorem umorzenia postępowania. Żądanie uzupełnienia zaliczki nie wstrzymuje biegu postępowania.
 
@@ -637,7 +654,7 @@ Art. 401–447. (pominięte)
     - **c)** osiągnął sumy aktywów bilansu sporządzonego na koniec jednego z tych lat, które przekroczyły równowartość w złotych 43 milionów euro,
 
 - **2)** spółki o istotnym znaczeniu dla gospodarki państwa, umieszczonej w wykazie określonym w przepisach wykonawczych wydanych na podstawie art. 31 ust. 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym,
-- **3)** przedsiębiorcy realizującego zadania na rzecz Sił Zbrojnych, o których mowa w art. 648 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26) sąd wyznacza do pełnienia funkcji zarządcy osobę posiadającą licencję doradcy restrukturyzacyjnego z tytułem kwalifikowanego doradcy restrukturyzacyjnego.
+- **3)** przedsiębiorcy realizującego zadania na rzecz Sił Zbrojnych, o których mowa w art. 648 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26) – sąd wyznacza do pełnienia funkcji zarządcy osobę posiadającą licencję doradcy restrukturyzacyjnego z tytułem kwalifikowanego doradcy restrukturyzacyjnego.
 
 2. Na wniosek dłużnika, do którego dołączono pisemną zgodę wierzyciela lub wierzycieli mających łącznie więcej niż 30 % sumy wierzytelności, z wyłączeniem wierzycieli, o których mowa w art. 80 ust. 3 oraz art. 116, sąd, w postanowieniu o otwarciu postępowania sanacyjnego, powołuje do pełnienia funkcji zarządcy osobę spełniającą wymogi, o których mowa w art. 24, wskazaną przez dłużnika. Sąd może odmówić powołania wskazanej osoby, jeżeli zachodzą uzasadnione przyczyny, w szczególności jeżeli jest oczywiste, że wskazana osoba nie daje rękojmi należytego wykonywania obowiązków.
 
@@ -676,35 +693,35 @@ Art. 401–447. (pominięte)
 2. Części składowe wynagrodzenia ustala się według następujących zasad:
 
 - **1)** część zależna od liczby wierzycieli będących uczestnikami postępowania:
-    - **a)** jedna podstawa wynagrodzenia do 10 wierzycieli,
-    - **b)** trzy podstawy wynagrodzenia od 11 do 50 wierzycieli,
-    - **c)** sześć podstaw wynagrodzenia od 51 do 100 wierzycieli,
-    - **d)** dziesięć podstaw wynagrodzenia od 101 do 500 wierzycieli,
-    - **e)** dwanaście podstaw wynagrodzenia od 501 do 1000 wierzycieli,
-    - **f)** dwadzieścia cztery podstawy wynagrodzenia powyżej 1000 wierzycieli;
+    - **a)** jedna podstawa wynagrodzenia – do 10 wierzycieli,
+    - **b)** trzy podstawy wynagrodzenia – od 11 do 50 wierzycieli,
+    - **c)** sześć podstaw wynagrodzenia – od 51 do 100 wierzycieli,
+    - **d)** dziesięć podstaw wynagrodzenia – od 101 do 500 wierzycieli,
+    - **e)** dwanaście podstaw wynagrodzenia – od 501 do 1000 wierzycieli,
+    - **f)** dwadzieścia cztery podstawy wynagrodzenia – powyżej 1000 wierzycieli;
 
 - **2)** część zależna od sumy wierzytelności przysługujących wierzycielom będącym uczestnikami postępowania:
-    - **a)** jedna podstawa wynagrodzenia dla sumy do 100 000,00 zł,
-    - **b)** trzy podstawy wynagrodzenia dla sumy od 100 000,01 zł do 500 000,00 zł,
-    - **c)** sześć podstaw wynagrodzenia dla sumy od 500 000,01 zł do 1 000 000,00 zł,
-    - **d)** dziesięć podstaw wynagrodzenia dla sumy od 1 000 000,01 zł do 10 000 000,00 zł,
-    - **e)** dwanaście podstaw wynagrodzenia dla sumy od 10 000 000,01 zł do 500 000 000,00 zł,
-    - **f)** dwadzieścia cztery podstawy wynagrodzenia dla sumy przekraczającej 500 000 000,00 zł;
+    - **a)** jedna podstawa wynagrodzenia – dla sumy do 100 000,00 zł,
+    - **b)** trzy podstawy wynagrodzenia – dla sumy od 100 000,01 zł do 500 000,00 zł,
+    - **c)** sześć podstaw wynagrodzenia – dla sumy od 500 000,01 zł do 1 000 000,00 zł,
+    - **d)** dziesięć podstaw wynagrodzenia – dla sumy od 1 000 000,01 zł do 10 000 000,00 zł,
+    - **e)** dwanaście podstaw wynagrodzenia – dla sumy od 10 000 000,01 zł do 500 000 000,00 zł,
+    - **f)** dwadzieścia cztery podstawy wynagrodzenia – dla sumy przekraczającej 500 000 000,00 zł;
 
 - **3)** część zależna od średniomiesięcznych obrotów osiągniętych w toku postępowania sanacyjnego:
-    - **a)** jedna podstawa wynagrodzenia do 20 000,00 zł,
-    - **b)** sześć podstaw wynagrodzenia od 20 000,01 zł do 100 000,00 zł,
-    - **c)** dwanaście podstaw wynagrodzenia od 100 000,01 zł do 1 000 000,00 zł,
-    - **d)** dwadzieścia podstaw wynagrodzenia od 1 000 000,01 zł do 10 000 000,00 zł,
-    - **e)** sześćdziesiąt podstaw wynagrodzenia od 10 000 000,01 zł do 50 000 000,00 zł,
-    - **f)** osiemdziesiąt podstaw wynagrodzenia powyżej 50 000 000,00 zł;
+    - **a)** jedna podstawa wynagrodzenia – do 20 000,00 zł,
+    - **b)** sześć podstaw wynagrodzenia – od 20 000,01 zł do 100 000,00 zł,
+    - **c)** dwanaście podstaw wynagrodzenia – od 100 000,01 zł do 1 000 000,00 zł,
+    - **d)** dwadzieścia podstaw wynagrodzenia – od 1 000 000,01 zł do 10 000 000,00 zł,
+    - **e)** sześćdziesiąt podstaw wynagrodzenia – od 10 000 000,01 zł do 50 000 000,00 zł,
+    - **f)** osiemdziesiąt podstaw wynagrodzenia – powyżej 50 000 000,00 zł;
 
 - **4)** część ustalana przez sąd, stosownie do:
     - **a)** stopnia poprawy kondycji ekonomicznej przedsiębiorstwa dłużnika, która miała miejsce w czasie trwania postępowania sanacyjnego, wyrażającego się między innymi w zwiększeniu przychodów i ograniczeniu kosztów,
     - **b)** podjęcia przez zarządcę innych działań, w szczególności zawarcia umów, które przyniosą w przyszłości pozytywne ekonomicznie efekty dla dłużnika,
-    - **c)** stopnia skomplikowania sytuacji majątkowej i prawnej masy sanacyjnej oraz rodzaju i zakresu działalności prowadzonej przez dłużnika, w tym liczby pracowników zatrudnianych przez dłużnika w granicach do sześćdziesięciu podstaw wynagrodzenia;
+    - **c)** stopnia skomplikowania sytuacji majątkowej i prawnej masy sanacyjnej oraz rodzaju i zakresu działalności prowadzonej przez dłużnika, w tym liczby pracowników zatrudnianych przez dłużnika – w granicach do sześćdziesięciu podstaw wynagrodzenia;
 
-- **5)** część ustalana w przypadku, gdy z przyczyn niezależnych od zarządcy postępowanie trwa dłużej niż dwanaście miesięcy w granicach do dwudziestu podstaw wynagrodzenia.
+- **5)** część ustalana w przypadku, gdy z przyczyn niezależnych od zarządcy postępowanie trwa dłużej niż dwanaście miesięcy – w granicach do dwudziestu podstaw wynagrodzenia.
 
 3. Przez podstawę wynagrodzenia należy rozumieć przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszone przez Prezesa Głównego Urzędu Statystycznego.
 
@@ -868,13 +885,13 @@ Art. 401–447. (pominięte)
 
 **Art. 72.**
 
-1. W przypadku śmierci dłużnika jego spadkobierca, a jeżeli ustanowiono zarząd sukcesyjny zarządca sukcesyjny, staje się uczestnikiem postępowania restrukturyzacyjnego. Dla zabezpieczenia praw spadkobiercy sędzia-komisarz z urzędu ustanawia kuratora, do którego przepisy art. 68–71 stosuje się.
+1. W przypadku śmierci dłużnika jego spadkobierca, a jeżeli ustanowiono zarząd sukcesyjny – zarządca sukcesyjny, staje się uczestnikiem postępowania restrukturyzacyjnego. Dla zabezpieczenia praw spadkobiercy sędzia-komisarz z urzędu ustanawia kuratora, do którego przepisy art. 68–71 stosuje się.
 
 2. Ustanowienie kuratora traci moc po wstąpieniu do postępowania spadkobiercy dłużnika, który wykazał swoje prawa prawomocnym postanowieniem o stwierdzeniu nabycia spadku, europejskim poświadczeniem spadkowym albo zarejestrowanym aktem poświadczenia dziedziczenia. Do spadkobiercy przepisy o prawach i obowiązkach dłużnika stosuje się odpowiednio.
 
 3. W przypadku ustanowienia kuratora spadku przepis ust. 2 stosuje się odpowiednio.
 
-**Art. 73.** Z dniem otwarcia postępowania restrukturyzacyjnego w stosunku do jednego z małżonków pozostających w ustroju wspólności majątkowej majątek wspólny małżonków wchodzi do masy układowej albo sanacyjnej i podlega nadzorowi nadzorcy sądowego albo zarządowi zarządcy. Przepisy art. 34 i art. 36–39 ustawy z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy (Dz. U. z 2026 r. poz. 236) stosuje się.
+**Art. 73.** Z dniem otwarcia postępowania restrukturyzacyjnego w stosunku do jednego z małżonków pozostających w ustroju wspólności majątkowej majątek wspólny małżonków wchodzi do masy układowej albo sanacyjnej i podlega nadzorowi nadzorcy sądowego albo zarządowi zarządcy. Przepisy art. 34 i art. 36–39 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2026 r. poz. 236) stosuje się.
 
 **Art. 74.** Ustanowienie rozdzielności majątkowej po dniu otwarcia postępowania restrukturyzacyjnego z datą wcześniejszą niż dzień otwarcia postępowania restrukturyzacyjnego jest niedopuszczalne.
 
@@ -938,7 +955,7 @@ Art. 401–447. (pominięte)
 
 **Art. 83.**
 
-1. Wierzytelność w walucie obcej bez względu na termin jej wymagalności umieszcza się w spisie wierzytelności po przeliczeniu na walutę polską według średniego kursu walut obcych w Narodowym Banku Polskim z dnia otwarcia postępowania, a jeżeli takiego kursu nie było według średniej ceny rynkowej z tej daty.
+1. Wierzytelność w walucie obcej bez względu na termin jej wymagalności umieszcza się w spisie wierzytelności po przeliczeniu na walutę polską według średniego kursu walut obcych w Narodowym Banku Polskim z dnia otwarcia postępowania, a jeżeli takiego kursu nie było – według średniej ceny rynkowej z tej daty.
 
 2. Umieszczenie w spisie wierzytelności w przeliczeniu na walutę polską nie powoduje przekształcenia zobowiązania wyrażonego w walucie obcej na zobowiązanie w walucie polskiej, w szczególności wykonanie zobowiązania w ramach realizacji układu następuje w walucie obcej, chyba że propozycje układowe stanowią inaczej.
 
@@ -957,7 +974,7 @@ Art. 401–447. (pominięte)
 2. W spisie wierzytelności umieszcza się w osobnych rubrykach:
 
 - **1)** liczbę porządkową;
-- **2)** imię i nazwisko wierzyciela albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację oraz firmę, pod którą działa wierzyciel będący przedsiębiorcą, miejsce zamieszkania albo siedzibę, adres oraz numer identyfikacji podatkowej (NIP), jeżeli wierzyciel ma taki numer;
+- **2)** imię i nazwisko wierzyciela albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację oraz firmę, pod którą działa wierzyciel będący przedsiębiorcą, miejsce zamieszkania albo siedzibę, adres oraz numer identyfikacji podatkowej (NIP), jeżeli wierzyciel ma taki numer;
 - **3)** sumę wierzytelności i sumę, według której będzie obliczany głos wierzyciela w głosowaniu nad układem;
 - **4)** informację o istnieniu i rodzaju zabezpieczenia wierzytelności;
 - **5)** informację, czy wierzytelność jest uzależniona od warunku;
@@ -965,8 +982,8 @@ Art. 401–447. (pominięte)
 - **7)** informację, czy w stosunku do wierzyciela zachodzą okoliczności wskazane w art. 80 ust. 3, art. 109 ust. 1 lub art. 116;
 - **8)** uzasadnienie;
 - **9)** (uchylony)
-- **10)** dla wierzytelności, które są objęte układem za zgodą wierzyciela informację, czy wierzyciel wyraził zgodę na objęcie wierzytelności układem;
-- **11)** sumę wszystkich wierzytelności umieszczonych w spisie wierzytelności, a jeżeli w spisie wierzytelności jest uwzględniony podział wierzycieli na grupy również sumę wierzytelności dla każdej grupy.
+- **10)** dla wierzytelności, które są objęte układem za zgodą wierzyciela – informację, czy wierzyciel wyraził zgodę na objęcie wierzytelności układem;
+- **11)** sumę wszystkich wierzytelności umieszczonych w spisie wierzytelności, a jeżeli w spisie wierzytelności jest uwzględniony podział wierzycieli na grupy – również sumę wierzytelności dla każdej grupy.
 
 3. W przypadku wierzytelności zabezpieczonych na składnikach majątku dłużnika hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, a także przez przeniesienie na wierzyciela własności rzeczy, wierzytelności lub innego prawa w spisie wierzytelności wskazuje się sumę wierzytelności, która odpowiada wartości przedmiotu zabezpieczenia.
 
@@ -1010,13 +1027,13 @@ Art. 401–447. (pominięte)
 
 2. Sprzeciw co do pominięcia wierzytelności w spisie wierzytelności powinien ponadto zawierać:
 
-- **1)** imię i nazwisko wierzyciela albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację oraz firmę, pod którą działa wierzyciel będący przedsiębiorcą, miejsce zamieszkania albo siedzibę oraz adres, a jeżeli wierzycielem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną imiona i nazwiska reprezentantów spółki albo osoby prawnej, w tym likwidatorów, jeżeli zostali ustanowieni;
+- **1)** imię i nazwisko wierzyciela albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację oraz firmę, pod którą działa wierzyciel będący przedsiębiorcą, miejsce zamieszkania albo siedzibę oraz adres, a jeżeli wierzycielem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów spółki albo osoby prawnej, w tym likwidatorów, jeżeli zostali ustanowieni;
 - **2)** wskazanie sumy wierzytelności oraz sumy, według której będzie obliczany głos wierzyciela w głosowaniu nad układem;
 - **3)** wskazanie istnienia i rodzaju zabezpieczenia wierzytelności;
 - **4)** informację, czy w stosunku do wierzyciela zachodzą okoliczności wskazane w art. 80 ust. 3, art. 109 ust. 1 lub art. 116;
 - **5)** informację, czy wierzytelność jest uzależniona od warunku zawieszającego;
 - **6)** informację, czy wierzycielowi przysługuje prawo potrącenia;
-- **7)** dla wierzytelności, które są objęte układem za zgodą wierzyciela informację, czy wierzyciel wyraził zgodę na objęcie wierzytelności układem.
+- **7)** dla wierzytelności, które są objęte układem za zgodą wierzyciela – informację, czy wierzyciel wyraził zgodę na objęcie wierzytelności układem.
 
 2a. Przez inne dane umożliwiające jednoznaczną identyfikację wierzyciela, o których mowa w ust. 2 pkt 1, rozumie się dane, o których mowa w art. 86 ust. 6.
 
@@ -1070,7 +1087,7 @@ Art. 401–447. (pominięte)
 
 **Art. 98.**
 
-1. W postępowaniu układowym oraz sanacyjnym po upływie terminu do złożenia sprzeciwu, a w przypadku jego złożenia po uprawomocnieniu się postanowienia w przedmiocie sprzeciwu, sędzia-komisarz zatwierdza spis wierzytelności.
+1. W postępowaniu układowym oraz sanacyjnym po upływie terminu do złożenia sprzeciwu, a w przypadku jego złożenia – po uprawomocnieniu się postanowienia w przedmiocie sprzeciwu, sędzia-komisarz zatwierdza spis wierzytelności.
 
 2. Przepis art. 97 ust. 2 stosuje się.
 
@@ -1110,6 +1127,10 @@ Art. 401–447. (pominięte)
 
 **Art. 104.** Zgromadzenie wierzycieli zwołuje sędzia-komisarz w:
 
+- **1)** celu głosowania nad układem;
+- **2)** przypadku, gdy rada wierzycieli podejmie uchwałę o zwołaniu zgromadzenia;
+- **3)** przypadku, gdy uzna to za potrzebne.
+
 **Art. 105.**
 
 1. Zgromadzenie wierzycieli zwołuje się przez obwieszczenie, w którym określa się termin, miejsce i przedmiot obrad oraz sposób głosowania. W obwieszczeniu określa się również, czy zgromadzenie będzie przeprowadzone w sposób określony w art. 110 ust. 6.
@@ -1120,7 +1141,7 @@ Art. 401–447. (pominięte)
 
 4. W przypadku odroczenia zgromadzenia wierzycieli, sędzia-komisarz podaje obecnym do wiadomości nowy termin i miejsce zgromadzenia. W takim przypadku nie dokonuje się ponownego obwieszczenia. Oddany poprzednio głos wierzyciela, który nie stawił się na odroczonym zgromadzeniu wierzycieli, zachowuje moc i jest uwzględniany przy obliczaniu wyników głosowania, jeżeli na tym zgromadzeniu poddane pod głosowanie są te same uchwały lub uchwały korzystniejsze dla wierzycieli.
 
-5. Zawiadomień wierzycieli o terminie zgromadzenia wierzycieli dokonuje nadzorca sądowy albo zarządca za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) albo za pośrednictwem komornika sądowego w sposób określony w ustawie z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458, z 2025 r. poz. 1018 i 1172 oraz z 2026 r. poz. 26). Jeżeli wierzyciel w postępowaniu wniósł pismo za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, to zawiadomienia o terminie zgromadzenia wierzycieli dokonuje się za pośrednictwem tego systemu. Przepis art. 131 § 2 Kodeksu postępowania cywilnego stosuje się.
+5. Zawiadomień wierzycieli o terminie zgromadzenia wierzycieli dokonuje nadzorca sądowy albo zarządca za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) albo za pośrednictwem komornika sądowego w sposób określony w ustawie z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458, z 2025 r. poz. 1018 i 1172 oraz z 2026 r. poz. 26). Jeżeli wierzyciel w postępowaniu wniósł pismo za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, to zawiadomienia o terminie zgromadzenia wierzycieli dokonuje się za pośrednictwem tego systemu. Przepis art. 131 § 2 Kodeksu postępowania cywilnego stosuje się.
 
 6. Przed terminem zgromadzenia wierzycieli nadzorca sądowy albo zarządca przedkłada sędziemu-komisarzowi:
 
@@ -1210,13 +1231,13 @@ Art. 401–447. (pominięte)
 
 **Art. 116.**
 
-1. W sprawach dotyczących układu nie ma prawa głosu wierzyciel będący małżonkiem dłużnika, jego krewnym lub powinowatym w linii prostej, krewnym lub powinowatym w linii bocznej do drugiego stopnia włącznie, przysposabiającym dłużnika lub przez niego przysposobionym, jeżeli dłużnikiem jest spółka handlowa osobą uprawnioną do reprezentowania spółki, a jeżeli dłużnikiem jest osobowa spółka handlowa wspólnikiem ponoszącym odpowiedzialność za zobowiązania spółki całym swoim majątkiem.
+1. W sprawach dotyczących układu nie ma prawa głosu wierzyciel będący małżonkiem dłużnika, jego krewnym lub powinowatym w linii prostej, krewnym lub powinowatym w linii bocznej do drugiego stopnia włącznie, przysposabiającym dłużnika lub przez niego przysposobionym, jeżeli dłużnikiem jest spółka handlowa – osobą uprawnioną do reprezentowania spółki, a jeżeli dłużnikiem jest osobowa spółka handlowa – wspólnikiem ponoszącym odpowiedzialność za zobowiązania spółki całym swoim majątkiem.
 
 2. W sprawach dotyczących układu, jeżeli dłużnikiem jest spółka handlowa, nie ma prawa głosu wierzyciel będący spółką powiązaną z dłużnikiem oraz osoby upoważnione do jej reprezentacji, a także wierzyciel będący spółką i osoby uprawnione do jej reprezentowania, jeżeli ta spółka jest spółką dominującą albo zależną w stosunku do dłużnika.
 
 3. Prawa głosu w sprawie dotyczącej układu nie ma również wierzyciel będący spółką kapitałową, której spółka dominująca jest również spółką dominującą dla dłużnika, oraz osoby uprawnione do jej reprezentowania.
 
-4. W sprawach dotyczących układu, jeżeli dłużnikiem jest spółka kapitałowa, prawa głosu nie ma wierzyciel będący osobą fizyczną, jeżeli reprezentuje ponad 25 % kapitału zakładowego spółki, a w przypadku prostej spółki akcyjnej posiada ponad 25 % akcji tej spółki.
+4. W sprawach dotyczących układu, jeżeli dłużnikiem jest spółka kapitałowa, prawa głosu nie ma wierzyciel będący osobą fizyczną, jeżeli reprezentuje ponad 25 % kapitału zakładowego spółki, a w przypadku prostej spółki akcyjnej – posiada ponad 25 % akcji tej spółki.
 
 **Art. 117.**
 
@@ -1243,7 +1264,7 @@ Art. 401–447. (pominięte)
 3. Układ zostaje przyjęty, chociażby nie uzyskał wymaganej większości w niektórych z grup wierzycieli, obejmujących poszczególne kategorie interesów, jeżeli:
 
 - **1)** za przyjęciem układu głosowała większość grup wierzycieli, w tym co najmniej jedna grupa wierzycieli, o których mowa w art. 161 ust. 1a pkt 3, lub wierzycieli o wyższym stopniu zaspokojenia od wierzycieli, o których należnościach jest mowa w art. 342 ust. 1 pkt 2 Prawa upadłościowego,
-- **2)** w przypadku niespełnienia warunku, o którym mowa w pkt 1, za przyjęciem układu głosowała co najmniej jedna grupa wierzycieli należąca do tych kategorii wierzycieli, którzy w przypadku przeprowadzenia postępowania upadłościowego otrzymaliby jakiekolwiek zaspokojenie przy zastosowaniu wyceny zakładającej kontynuację działalności przedsiębiorstwa dłużnika przy czym za przyjęciem układu głosowali wierzyciele mający łącznie co najmniej połowę sumy wierzytelności przysługujących głosującym wierzycielom.
+- **2)** w przypadku niespełnienia warunku, o którym mowa w pkt 1, za przyjęciem układu głosowała co najmniej jedna grupa wierzycieli należąca do tych kategorii wierzycieli, którzy w przypadku przeprowadzenia postępowania upadłościowego otrzymaliby jakiekolwiek zaspokojenie przy zastosowaniu wyceny zakładającej kontynuację działalności przedsiębiorstwa dłużnika – przy czym za przyjęciem układu głosowali wierzyciele mający łącznie co najmniej połowę sumy wierzytelności przysługujących głosującym wierzycielom.
 
 4. Jeżeli wierzyciele z grupy o niższym stopniu zaspokojenia w postępowaniu upadłościowym otrzymają w drodze układu jakiekolwiek zaspokojenie, to wierzyciele z grupy albo grup o wyższym stopniu zaspokojenia w postępowaniu upadłościowym, które wypowiedziały się przeciw przyjęciu układu, muszą uzyskać w drodze układu pełne zaspokojenie w terminie określonym w układzie.
 
@@ -1274,7 +1295,7 @@ Art. 401–447. (pominięte)
 - **1)** spisu wierzycieli załączonego przez dłużnika do wniosku o otwarcie postępowania restrukturyzacyjnego;
 - **2)** spisu wierzytelności bezspornych przedstawionego na żądanie sędziego-komisarza przez nadzorcę sądowego albo zarządcę sporządzonego w oparciu o księgi rachunkowe i inne dokumenty dłużnika;
 - **3)** przedłożonych przez wierzycieli tytułów egzekucyjnych;
-- **4)** spisu wierzytelności, jeżeli został sporządzony we wcześniejszym postępowaniu restrukturyzacyjnym w postępowaniu sanacyjnym otwartym na podstawie uproszczonego wniosku złożonego zgodnie z art. 328 ust. 1.
+- **4)** spisu wierzytelności, jeżeli został sporządzony we wcześniejszym postępowaniu restrukturyzacyjnym – w postępowaniu sanacyjnym otwartym na podstawie uproszczonego wniosku złożonego zgodnie z art. 328 ust. 1.
 
 **Art. 122.**
 
@@ -1476,7 +1497,7 @@ Art. 401–447. (pominięte)
 
 4. Przez małego lub średniego przedsiębiorcę należy rozumieć przedsiębiorcę będącego małym lub średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia, o którym mowa w ust. 3, z wyłączeniem przepisu art. 3 ust. 4 tego załącznika.
 
-5. Warunek, o którym mowa w ust. 2 pkt 1, sprawdza się na podstawie zatwierdzonych sprawozdań finansowych sporządzanych zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości, a w przypadku gdy przedsiębiorca nie jest zobowiązany do ich sporządzania na podstawie innych wiarygodnych dokumentów finansowych.
+5. Warunek, o którym mowa w ust. 2 pkt 1, sprawdza się na podstawie zatwierdzonych sprawozdań finansowych sporządzanych zgodnie z przepisami ustawy z dnia 29 września 1994 r. o rachunkowości, a w przypadku gdy przedsiębiorca nie jest zobowiązany do ich sporządzania – na podstawie innych wiarygodnych dokumentów finansowych.
 
 **Art. 142.**
 
@@ -1543,13 +1564,13 @@ Art. 401–447. (pominięte)
 
 - **1)** własnych przedsiębiorcy, z wyłączeniem amortyzacji i planowanych zysków,
 - **2)** pochodzących od akcjonariuszy lub udziałowców przedsiębiorcy lub innych przedsiębiorców należących do tej samej grupy kapitałowej co przedsiębiorca,
-- **3)** pochodzących od wierzycieli przedsiębiorcy w zakresie niezbędnym do realizacji celu, o którym mowa w art. 142 ust. 1 pkt 1.
+- **3)** pochodzących od wierzycieli przedsiębiorcy – w zakresie niezbędnym do realizacji celu, o którym mowa w art. 142 ust. 1 pkt 1.
 
 2. Udział środków, o których mowa w ust. 1, w kosztach restrukturyzacji wynosi co najmniej:
 
-- **1)** 25 % w przypadku małego przedsiębiorcy;
-- **2)** 40 % w przypadku średniego przedsiębiorcy;
-- **3)** 50 % w przypadku przedsiębiorcy innego niż określony w pkt 1 lub 2.
+- **1)** 25 % – w przypadku małego przedsiębiorcy;
+- **2)** 40 % – w przypadku średniego przedsiębiorcy;
+- **3)** 50 % – w przypadku przedsiębiorcy innego niż określony w pkt 1 lub 2.
 
 3. W przypadku wystąpienia wyjątkowych okoliczności lub szczególnych trudności udział środków, o których mowa w ust. 1, w kosztach restrukturyzacji może być niższy niż określony w ust. 2, ale musi być znaczny.
 
@@ -1704,8 +1725,8 @@ Art. 401–447. (pominięte)
 
 5. Propozycje układowe przewidujące konwersję wierzytelności na udziały lub akcje zawierają:
 
-- **1)** sumę, o jaką kapitał zakładowy ma zostać podwyższony, a w przypadku prostej spółki akcyjnej liczbę akcji, które mają zostać wyemitowane;
-- **2)** liczbę oraz wartość nominalną nowo ustanowionych udziałów lub akcji lub też wartość, o którą następuje podwyższenie wartości nominalnej udziałów lub akcji już istniejących, a w przypadku akcji niemających wartości nominalnej ich liczbę i cenę emisyjną;
+- **1)** sumę, o jaką kapitał zakładowy ma zostać podwyższony, a w przypadku prostej spółki akcyjnej – liczbę akcji, które mają zostać wyemitowane;
+- **2)** liczbę oraz wartość nominalną nowo ustanowionych udziałów lub akcji lub też wartość, o którą następuje podwyższenie wartości nominalnej udziałów lub akcji już istniejących, a w przypadku akcji niemających wartości nominalnej – ich liczbę i cenę emisyjną;
 - **3)** określenie, że objęcie udziałów lub akcji następuje z wyłączeniem prawa pierwszeństwa lub poboru, przy czym wyłączenie prawa pierwszeństwa lub poboru następuje nawet wówczas, jeżeli takiej możliwości nie przewiduje umowa spółki lub statut;
 - **4)** oznaczenie, czy akcje nowej emisji są na okaziciela, czy imienne;
 - **4)** (uchylony)
@@ -1744,7 +1765,7 @@ Art. 401–447. (pominięte)
 
 - **1)** którym przysługują wierzytelności ze stosunku pracy i którzy wyrazili zgodę na objęcie ich układem,
 - **2)** którym przysługują wierzytelności z tytułu umów o dostarczenie produktów z własnego gospodarstwa rolnego,
-- **3)** których wierzytelności są zabezpieczone na składnikach majątku dłużnika hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, a także przez przeniesienie na wierzyciela własności rzeczy, wierzytelności lub innego prawa w części znajdującej pokrycie w wartości przedmiotu zabezpieczenia propozycje układowe przewidują podział na grupy obejmujące poszczególne kategorie interesów.
+- **3)** których wierzytelności są zabezpieczone na składnikach majątku dłużnika hipoteką, zastawem, zastawem rejestrowym, zastawem skarbowym lub hipoteką morską, a także przez przeniesienie na wierzyciela własności rzeczy, wierzytelności lub innego prawa w części znajdującej pokrycie w wartości przedmiotu zabezpieczenia – propozycje układowe przewidują podział na grupy obejmujące poszczególne kategorie interesów.
 
 2. Listy przyporządkowujące poszczególnych wierzycieli do grup sporządza nadzorca sądowy albo zarządca po zatwierdzeniu spisu wierzytelności, jeżeli podziału na grupy nie dokonano w spisie albo dokonany podział jest niezgodny z aktualnymi propozycjami układowymi.
 
@@ -1778,7 +1799,7 @@ Art. 401–447. (pominięte)
 
 - **1)** który po otwarciu postępowania restrukturyzacyjnego udzielił lub ma udzielić finansowania w postaci kredytu, obligacji, gwarancji bankowych, akredytyw lub na podstawie innego instrumentu finansowego niezbędnego do wykonania układu,
 - **2)** którego świadczenia na rzecz dłużnika po otwarciu postępowania restrukturyzacyjnego są konieczne do kontynuowania działalności dłużnika,
-- **3)** który jest mikroprzedsiębiorcą jeżeli jest to konieczne do osiągnięcia celów planu restrukturyzacyjnego i nie spowoduje to niesprawiedliwego traktowania praw lub interesów innych uczestników postępowania.
+- **3)** który jest mikroprzedsiębiorcą – jeżeli jest to konieczne do osiągnięcia celów planu restrukturyzacyjnego i nie spowoduje to niesprawiedliwego traktowania praw lub interesów innych uczestników postępowania.
 
 **Art. 163.**
 
@@ -1850,7 +1871,7 @@ Art. 401–447. (pominięte)
 
 2. Jeżeli układ przewiduje ustanowienie zarządu przymusowego na czas wykonania układu, odpis prawomocnego postanowienia zatwierdzającego układ ma moc tytułu wykonawczego do wprowadzenia zarządcy we władanie majątkiem dłużnika.
 
-3. Jeżeli układ przewiduje konwersję wierzytelności na udziały lub akcje, prawomocnie zatwierdzony układ zastępuje określone w ustawie z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187) czynności związane z podwyższeniem kapitału zakładowego spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, emisją akcji prostej spółki akcyjnej, przystąpieniem do spółki, objęciem udziałów lub akcji oraz wniesieniem wkładu.
+3. Jeżeli układ przewiduje konwersję wierzytelności na udziały lub akcje, prawomocnie zatwierdzony układ zastępuje określone w ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187) czynności związane z podwyższeniem kapitału zakładowego spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, emisją akcji prostej spółki akcyjnej, przystąpieniem do spółki, objęciem udziałów lub akcji oraz wniesieniem wkładu.
 
 4. Odpis prawomocnego postanowienia o zatwierdzeniu układu stanowi podstawę wpisu podwyższenia kapitału zakładowego spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej albo wpisu zmiany liczby akcji prostej spółki akcyjnej do Krajowego Rejestru Sądowego.
 
@@ -2084,7 +2105,7 @@ Art. 401–447. (pominięte)
 
 6. W przypadku, o którym mowa w ust. 4 pkt 2, oryginał dokumentu albo jego odpis poświadczony za zgodność z oryginałem zgodnie z przepisami Kodeksu postępowania cywilnego składa się w sądzie restrukturyzacyjnym bez wezwania w terminie 3 dni od dnia wniesienia pisma. Przepis art. 130 § 2 Kodeksu postępowania cywilnego stosuje się odpowiednio.
 
-7. W każdym piśmie procesowym należy wskazać imię i nazwisko wnoszącego pismo albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację oraz firmę, pod którą działa wnoszący pismo będący przedsiębiorcą, miejsce zamieszkania albo siedzibę, adres oraz NIP, jeżeli wnoszący pismo ma taki numer.
+7. W każdym piśmie procesowym należy wskazać imię i nazwisko wnoszącego pismo albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację oraz firmę, pod którą działa wnoszący pismo będący przedsiębiorcą, miejsce zamieszkania albo siedzibę, adres oraz NIP, jeżeli wnoszący pismo ma taki numer.
 
 8. Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 7, rozumie się dane, o których mowa w art. 86 ust. 6.
 
@@ -2096,7 +2117,7 @@ Art. 401–447. (pominięte)
 
 2. Osoby, o których mowa w ust. 1, mogą również wnosić wnioski lub składać oświadczenia i dokumenty w biurze podawczym każdego sądu rejonowego, przekazując ustnie treść wniosku lub oświadczenia pracownikowi biura podawczego oraz składając dokumenty sporządzone w postaci papierowej.
 
-3. Pracownik biura podawczego wprowadza treść wniosku lub oświadczenia do systemu teleinformatycznego obsługującego postępowanie sądowe, podając imię, nazwisko oraz numer PESEL osoby przekazującej ustnie treść wniosku lub oświadczenia ustalone na podstawie dowodu osobistego albo innego dokumentu potwierdzającego tożsamość, a także rodzaj i numer dokumentu potwierdzającego tożsamość i oznaczenie organu, który go wydał, a w przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację tej osoby. Wprowadzona do systemu treść wniosku lub oświadczenia podlega wydrukowaniu i podpisaniu przez osobę przekazującą ustnie treść wniosku lub oświadczenia oraz złożeniu do zbioru dokumentów. Wniosek lub oświadczenie wprowadzone do systemu teleinformatycznego obsługującego postępowanie sądowe opatruje podpisem pracownik biura podawczego zgodnie z art. 196a ust. 2.
+3. Pracownik biura podawczego wprowadza treść wniosku lub oświadczenia do systemu teleinformatycznego obsługującego postępowanie sądowe, podając imię, nazwisko oraz numer PESEL osoby przekazującej ustnie treść wniosku lub oświadczenia ustalone na podstawie dowodu osobistego albo innego dokumentu potwierdzającego tożsamość, a także rodzaj i numer dokumentu potwierdzającego tożsamość i oznaczenie organu, który go wydał, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację tej osoby. Wprowadzona do systemu treść wniosku lub oświadczenia podlega wydrukowaniu i podpisaniu przez osobę przekazującą ustnie treść wniosku lub oświadczenia oraz złożeniu do zbioru dokumentów. Wniosek lub oświadczenie wprowadzone do systemu teleinformatycznego obsługującego postępowanie sądowe opatruje podpisem pracownik biura podawczego zgodnie z art. 196a ust. 2.
 
 4. Przepisy art. 196a ust. 3, 4 i 6–9 stosuje się odpowiednio, z tym że elektronicznego poświadczenia odpisu dokumentu może również dokonać pracownik biura podawczego.
 
@@ -2174,7 +2195,7 @@ Art. 401–447. (pominięte)
 
 3. Dla osób, którym ustawa nakazuje doręczyć postanowienie wydane na posiedzeniu niejawnym, termin do wniesienia środka zaskarżenia biegnie od dnia doręczenia postanowienia.
 
-4. Jeżeli postanowienie, od którego przysługuje środek zaskarżenia, zostało ogłoszone na posiedzeniu jawnym, osoby zawiadomione o posiedzeniu w terminie tygodnia od dnia posiedzenia, a osoby, które nie zostały zawiadomione o posiedzeniu jawnym od dnia zamieszczenia, a jeżeli postanowienie podlega obwieszczeniu od dnia obwieszczenia postanowienia w Rejestrze, mogą złożyć wniosek o sporządzenie uzasadnienia i doręczenie postanowienia wraz z uzasadnieniem. Termin do wniesienia środka zaskarżenia biegnie od dnia doręczenia postanowienia wraz z uzasadnieniem.
+4. Jeżeli postanowienie, od którego przysługuje środek zaskarżenia, zostało ogłoszone na posiedzeniu jawnym, osoby zawiadomione o posiedzeniu w terminie tygodnia od dnia posiedzenia, a osoby, które nie zostały zawiadomione o posiedzeniu jawnym – od dnia zamieszczenia, a jeżeli postanowienie podlega obwieszczeniu – od dnia obwieszczenia postanowienia w Rejestrze, mogą złożyć wniosek o sporządzenie uzasadnienia i doręczenie postanowienia wraz z uzasadnieniem. Termin do wniesienia środka zaskarżenia biegnie od dnia doręczenia postanowienia wraz z uzasadnieniem.
 
 5. Termin do zaskarżenia czynności rady wierzycieli oraz nadzorcy, zarządcy i innych organów, które zgodnie z przepisami ustawy podlegają zaskarżeniu, biegnie od dnia zamieszczenia w systemie teleinformatycznym obsługującym postępowanie sądowe przez sędziego-komisarza albo referendarza sądowego pouczenia o terminie i sposobie wniesienia środka zaskarżenia.
 
@@ -2280,7 +2301,7 @@ Art. 401–447. (pominięte)
 
 1. Po ustaleniu dnia układowego nadzorca układu zbiera głosy wierzycieli.
 
-2. Wierzyciele oddają głos za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, w którym nadzorca układu zamieszcza kartę do głosowania. Nadzorca układu za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe lub za pośrednictwem komornika sądowego w sposób określony w ustawie z dnia 22 marca 2018 r. o komornikach sądowych doręcza wierzycielom, na adres wskazany w rejestrze, do którego jest wpisany wierzyciel, informację o sposobie głosowania za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z pouczeniem o sposobie uwierzytelnienia się i sposobie wypełnienia karty do głosowania. Jeżeli wierzyciel nie jest wpisany do rejestru, nadzorca układu doręcza informację, o której mowa w zdaniu poprzednim, na adres wierzyciela znany dłużnikowi.
+2. Wierzyciele oddają głos za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, w którym nadzorca układu zamieszcza kartę do głosowania. Nadzorca układu za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub za pośrednictwem komornika sądowego w sposób określony w ustawie z dnia 22 marca 2018 r. o komornikach sądowych doręcza wierzycielom, na adres wskazany w rejestrze, do którego jest wpisany wierzyciel, informację o sposobie głosowania za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe z pouczeniem o sposobie uwierzytelnienia się i sposobie wypełnienia karty do głosowania. Jeżeli wierzyciel nie jest wpisany do rejestru, nadzorca układu doręcza informację, o której mowa w zdaniu poprzednim, na adres wierzyciela znany dłużnikowi.
 
 3. Nadzorca układu może również zwołać zgromadzenie wierzycieli, do którego stosuje się odpowiednio przepisy o zgromadzeniu wierzycieli, w celu głosowania nad układem.
 
@@ -2294,9 +2315,9 @@ Art. 401–447. (pominięte)
 
 1. Karta do głosowania zawiera:
 
-- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
+- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku – inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **1a)** NIP, jeżeli dłużnik ma taki numer;
-- **2)** imię i nazwisko głosującego wierzyciela albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację, miejsce zamieszkania albo siedzibę, adres, a gdy wierzycielem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni;
+- **2)** imię i nazwisko głosującego wierzyciela albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, miejsce zamieszkania albo siedzibę, adres, a gdy wierzycielem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni;
 - **3)** kwotę wierzytelności głosującego wierzyciela;
 - **4)** grupę obejmującą kategorię interesów, jeżeli zostały przewidziane, do której został zaliczony głosujący wierzyciel;
 - **5)** zgodę wierzyciela na objęcie wierzytelności układem, jeżeli jest ona wymagana na podstawie art. 151 ust. 2;
@@ -2358,10 +2379,10 @@ Art. 401–447. (pominięte)
 
 1. Wniosek o zatwierdzenie układu powinien zawierać:
 
-- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
+- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku – inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **1a)** NIP, jeżeli dłużnik ma taki numer;
 - **2)** propozycje układowe;
-- **3)** wynik głosowania ze wskazaniem liczby wierzycieli i sumy wierzytelności uprawniających do głosowania, liczby wierzycieli i sumy wierzytelności, co do których oddano ważny głos, oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem, a jeżeli propozycje układowe przewidują podział wierzycieli na grupy również liczby wierzycieli i sumy wierzytelności poszczególnych grup oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem w każdej grupie.
+- **3)** wynik głosowania ze wskazaniem liczby wierzycieli i sumy wierzytelności uprawniających do głosowania, liczby wierzycieli i sumy wierzytelności, co do których oddano ważny głos, oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem, a jeżeli propozycje układowe przewidują podział wierzycieli na grupy – również liczby wierzycieli i sumy wierzytelności poszczególnych grup oraz liczby wierzycieli i sumy wierzytelności przypadających wierzycielom głosującym za układem w każdej grupie.
 
 2. Do wniosku o zatwierdzenie układu dłużnik dołącza:
 
@@ -2373,6 +2394,24 @@ Art. 401–447. (pominięte)
 3. Przez inne dane umożliwiające jednoznaczną identyfikację, o których mowa w ust. 1 pkt 1, rozumie się dane, o których mowa w art. 86 ust. 6.
 
 **Art. 220.** Sprawozdanie nadzorcy układu zawiera:
+
+- **1)** stwierdzenie przyjęcia układu;
+- **2)** ocenę zgodności z prawem przebiegu samodzielnego zbierania głosów wraz ze wskazaniem innych okoliczności, które mogą mieć wpływ na zatwierdzenie układu;
+- **3)** zastrzeżenia wierzycieli, o których mowa w art. 216 ust. 2;
+- **4)** ocenę możliwości wykonania układu;
+- **5)** wskazanie miejsc, w których znajduje się przedsiębiorstwo lub inny majątek dłużnika;
+- **6)** aktualny wykaz majątku dłużnika z szacunkową wyceną jego składników;
+- **7)** bilans sporządzony przez dłużnika dla celów postępowania o zatwierdzenie układu, na dzień przypadający w okresie trzydziestu dni przed dniem złożenia wniosku;
+- **8)** spis wierzytelności, sporządzony przez nadzorcę układu, ze wskazaniem, czy wierzyciel głosował za, czy przeciw układowi;
+- **9)** spis wierzytelności spornych, sporządzony przez nadzorcę układu;
+- **10)** wskazanie sumy wierzytelności z wyszczególnieniem, jaką część stanowią wierzytelności sporne;
+- **11)** listę zabezpieczeń dokonanych przez wierzycieli na majątku dłużnika wraz z datami ich ustanowienia;
+- **12)** spis podmiotów zobowiązanych majątkowo wobec dłużnika wraz z adresami, z określeniem wierzytelności i terminów ich zapłaty;
+- **13)** wykaz tytułów egzekucyjnych oraz tytułów wykonawczych przeciwko dłużnikowi;
+- **14)** informację o postępowaniach dotyczących ustanowienia na majątku dłużnika hipotek, zastawów, zastawów rejestrowych, zastawów skarbowych i hipotek morskich oraz innych obciążeń podlegających wpisowi w księdze wieczystej lub w rejestrach, jak również o prowadzonych innych postępowaniach sądowych, administracyjnych, sądowoadministracyjnych oraz przed sądami polubownymi dotyczących majątku dłużnika;
+- **15)** dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z pełnieniem funkcji nadzorcy układu;
+- **16)** plan restrukturyzacyjny;
+- **17)** informacje, o których mowa w art. 140, oraz kopię zawiadomienia i opinii organu, o których mowa w art. 204, albo informację, że żaden organ takiego zawiadomienia lub opinii nie złożył.
 
 **Art. 221.**
 
@@ -2446,7 +2485,7 @@ Art. 401–447. (pominięte)
 
 1. W obwieszczeniu, o którym mowa w art. 226a ust. 1, podaje się:
 
-- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
+- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku – inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **2)** informację o głównym ośrodku podstawowej działalności dłużnika;
 - **3)** informację o niestwierdzeniu okoliczności, o których mowa w art. 226a ust. 2;
 - **4)** informację o prawie przysługującym zgodnie z art. 226f.
@@ -2475,7 +2514,7 @@ Art. 401–447. (pominięte)
 
 1. Wniosek o otwarcie przyspieszonego postępowania układowego powinien zawierać:
 
-- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
+- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku – inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **1a)** NIP, jeżeli dłużnik ma taki numer;
 - **2)** propozycje układowe wraz ze wstępnym planem restrukturyzacyjnym oraz odpisami propozycji układowych w liczbie wystarczającej do doręczenia wszystkim wierzycielom;
 - **3)** wskazanie miejsc, w których znajduje się przedsiębiorstwo lub inny majątek dłużnika;
@@ -2531,7 +2570,7 @@ Art. 401–447. (pominięte)
 
 1. Uwzględniając wniosek o otwarcie przyspieszonego postępowania układowego, sąd wydaje postanowienie o otwarciu przyspieszonego postępowania układowego, w którym:
 
-- **1)** wymienia imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację, NIP, jeżeli dłużnik ma taki numer, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a gdy dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, a ponadto w przypadku spółki osobowej imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
+- **1)** wymienia imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, NIP, jeżeli dłużnik ma taki numer, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a gdy dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **2)** wyznacza nadzorcę sądowego;
 - **3)** oznacza godzinę wydania postanowienia, jeżeli dłużnik jest uczestnikiem podlegającego prawu polskiemu lub prawu innego państwa członkowskiego systemu płatności lub systemu rozrachunku papierów wartościowych, lub niebędącym uczestnikiem podmiotem prowadzącym system interoperacyjny.
 
@@ -2559,11 +2598,11 @@ Art. 401–447. (pominięte)
 
 6. Jeżeli dłużnik jest spółką publiczną w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, postanowienie o otwarciu przyspieszonego postępowania układowego doręcza się również Komisji Nadzoru Finansowego, po uprzednim zawiadomieniu jej o wydaniu postanowienia.
 
-7. Jeżeli dłużnik jest operatorem publicznej sieci telekomunikacyjnej lub dostawcą publicznie dostępnych usług telekomunikacyjnych w rozumieniu ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252), o otwarciu postępowania zawiadamia się Prezesa Urzędu Komunikacji Elektronicznej.
+7. Jeżeli dłużnik jest operatorem publicznej sieci telekomunikacyjnej lub dostawcą publicznie dostępnych usług telekomunikacyjnych w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252), o otwarciu postępowania zawiadamia się Prezesa Urzędu Komunikacji Elektronicznej.
 
 8. Zawiadomienia nadzorcy sądowego dokonuje się w dniu otwarcia postępowania przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną.
 
-9. Zawiadomień, o których mowa w ust. 4–7, dokonuje nadzorca sądowy w dniu otwarcia postępowania, a jeżeli jest to niemożliwe w terminie 3 dni, przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną.
+9. Zawiadomień, o których mowa w ust. 4–7, dokonuje nadzorca sądowy w dniu otwarcia postępowania, a jeżeli jest to niemożliwe – w terminie 3 dni, przy zastosowaniu środków bezpośredniego porozumiewania się na odległość, w szczególności przez telefon, faks lub pocztę elektroniczną.
 
 **Art. 236.**
 
@@ -2573,7 +2612,7 @@ Art. 401–447. (pominięte)
 
 **Art. 237.**
 
-1. Wierzycielowi w terminie tygodnia od dnia obwieszczenia postanowienia o otwarciu przyspieszonego postępowania układowego w Rejestrze, a wierzycielowi, którego siedziba lub miejsce zwykłego pobytu w dniu otwarcia postępowania znajdowały się za granicą w terminie trzydziestu dni od dnia obwieszczenia postanowienia o otwarciu przyspieszonego postępowania układowego w Rejestrze, przysługuje zażalenie na postanowienie o otwarciu postępowania wyłącznie w części dotyczącej jurysdykcji sądów polskich.
+1. Wierzycielowi w terminie tygodnia od dnia obwieszczenia postanowienia o otwarciu przyspieszonego postępowania układowego w Rejestrze, a wierzycielowi, którego siedziba lub miejsce zwykłego pobytu w dniu otwarcia postępowania znajdowały się za granicą – w terminie trzydziestu dni od dnia obwieszczenia postanowienia o otwarciu przyspieszonego postępowania układowego w Rejestrze, przysługuje zażalenie na postanowienie o otwarciu postępowania wyłącznie w części dotyczącej jurysdykcji sądów polskich.
 
 2. O wniesieniu zażalenia obwieszcza się w Rejestrze.
 
@@ -2619,7 +2658,7 @@ Art. 401–447. (pominięte)
 
 - **1)** uczestnika tego systemu lub uczestnika współpracującego z nim systemu interoperacyjnego, który ustanowił to zabezpieczenie,
 - **2)** niebędącego uczestnikiem podmiotu prowadzącego system interoperacyjny współpracujący z tym systemem,
-- **3)** jakiegokolwiek innego podmiotu, który ustanowił to zabezpieczenie w przypadku otwarcia przyspieszonego postępowania układowego wobec któregokolwiek z nich.
+- **3)** jakiegokolwiek innego podmiotu, który ustanowił to zabezpieczenie – w przypadku otwarcia przyspieszonego postępowania układowego wobec któregokolwiek z nich.
 
 2. Z uwzględnieniem art. 12 ustawy z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami, przedmiot zabezpieczenia ustanowionego na rzecz Narodowego Banku Polskiego, banku centralnego innego państwa członkowskiego w rozumieniu tej ustawy lub Europejskiego Banku Centralnego, przez podmiot dokonujący operacji z tymi bankami lub przez jakikolwiek inny podmiot, nie wchodzi do masy układowej w przypadku otwarcia przyspieszonego postępowania układowego wobec któregokolwiek z nich.
 
@@ -2630,7 +2669,7 @@ Art. 401–447. (pominięte)
 1. Otwarcie przyspieszonego postępowania układowego wobec uczestnika systemu płatności lub systemu rozrachunku papierów wartościowych nie wstrzymuje możliwości wykorzystania:
 
 - **1)** środków pieniężnych i instrumentów finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zgromadzonych i zapisanych na jego rachunku rozliczeniowym, nieobciążonych prawem rzeczowym na rzecz osób trzecich,
-- **2)** instrumentów finansowych zapisanych na rachunku rozliczeniowym upadłego, jako przedmiot zabezpieczenia kredytu uzyskanego w ramach systemu płatności lub systemu rozrachunku papierów wartościowych, jeżeli kredyt taki może być udostępniony w ramach istniejącej umowy o kredyt w celu wykonania zobowiązań dłużnika wynikających ze zleceń rozrachunku wprowadzonych do systemu najpóźniej z dniem roboczym systemu płatności lub systemu rozrachunku papierów wartościowych rozpoczynającym się w dniu, w którym zostało otwarte przyspieszone postępowanie układowe.
+- **2)** instrumentów finansowych zapisanych na rachunku rozliczeniowym upadłego, jako przedmiot zabezpieczenia kredytu uzyskanego w ramach systemu płatności lub systemu rozrachunku papierów wartościowych, jeżeli kredyt taki może być udostępniony w ramach istniejącej umowy o kredyt – w celu wykonania zobowiązań dłużnika wynikających ze zleceń rozrachunku wprowadzonych do systemu najpóźniej z dniem roboczym systemu płatności lub systemu rozrachunku papierów wartościowych rozpoczynającym się w dniu, w którym zostało otwarte przyspieszone postępowanie układowe.
 
 2. Za dzień roboczy systemu płatności lub systemu rozrachunku papierów wartościowych uznaje się określony przez zasady funkcjonowania systemu płatności lub systemu rozrachunku papierów wartościowych cykl wykonywania zleceń, w trakcie którego są dokonywane rozliczenia lub rozrachunki oraz występują inne operacje z tym związane. Dzień ten może rozpoczynać się i kończyć w następujących po sobie dniach kalendarzowych.
 
@@ -2669,7 +2708,7 @@ Art. 401–447. (pominięte)
 2. Do wykonania zobowiązań wynikających z zamieszczonej w umowie klauzuli kompensacyjnej, o której mowa w ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych, przepisu ust. 1 nie stosuje się, jeżeli:
 
 - **1)** ustanowienie zabezpieczenia finansowego, w tym zabezpieczenia uzupełniającego, w celu uwzględnienia wahań wartości przedmiotu zabezpieczenia lub wartości zabezpieczonych wierzytelności finansowych, albo
-- **2)** wycofanie środków pieniężnych, wierzytelności kredytowych lub instrumentów finansowych jako zabezpieczenia, w zamian za zastąpienie lub zmianę takiego zabezpieczenia nastąpiło w dniu otwarcia przyspieszonego postępowania układowego, ale przed wydaniem postanowienia o jego otwarciu.
+- **2)** wycofanie środków pieniężnych, wierzytelności kredytowych lub instrumentów finansowych jako zabezpieczenia, w zamian za zastąpienie lub zmianę takiego zabezpieczenia – nastąpiło w dniu otwarcia przyspieszonego postępowania układowego, ale przed wydaniem postanowienia o jego otwarciu.
 
 **Art. 253.**
 
@@ -2680,7 +2719,7 @@ Art. 401–447. (pominięte)
 
 2. Potrącenie wzajemnych wierzytelności jest dopuszczalne, jeżeli nabycie wierzytelności nastąpiło wskutek zapłaty długu, za który nabywca odpowiadał osobiście albo pewnymi przedmiotami majątkowymi, i jeżeli odpowiedzialność nabywcy za dług powstała przed dniem złożenia wniosku o otwarcie przyspieszonego postępowania układowego.
 
-3. Wierzyciel, który chce skorzystać z potrącenia zgodnie z ust. 2, składa o tym oświadczenie dłużnikowi, a gdy dłużnik jest pozbawiony prawa zarządu zarządcy, niepóźniej niż w terminie trzydziestu dni od dnia otwarcia przyspieszonego postępowania układowego, a jeżeli podstawa potrącenia powstała później w terminie trzydziestu dni od dnia, w którym powstała podstawa potrącenia. Oświadczenie jest skuteczne również w przypadku, gdy zostało złożone nadzorcy sądowemu.
+3. Wierzyciel, który chce skorzystać z potrącenia zgodnie z ust. 2, składa o tym oświadczenie dłużnikowi, a gdy dłużnik jest pozbawiony prawa zarządu – zarządcy, niepóźniej niż w terminie trzydziestu dni od dnia otwarcia przyspieszonego postępowania układowego, a jeżeli podstawa potrącenia powstała później – w terminie trzydziestu dni od dnia, w którym powstała podstawa potrącenia. Oświadczenie jest skuteczne również w przypadku, gdy zostało złożone nadzorcy sądowemu.
 
 **Art. 254.** W przypadku otwarcia przyspieszonego postępowania układowego wobec uczestnika systemu płatności lub systemu rozrachunku papierów wartościowych skutki prawne zlecenia rozrachunku wynikające z jego wprowadzenia do tego systemu oraz wyniki kompensowania są niepodważalne i wiążące dla osób trzecich, jeżeli zlecenie to zostało wprowadzone do tego systemu przed otwarciem przyspieszonego postępowania układowego.
 
@@ -2688,7 +2727,7 @@ Art. 401–447. (pominięte)
 
 **Art. 256.**
 
-1. Od dnia dokonania obwieszczenia zarządzenia o wpisaniu do repertorium wniosku o otwarcie przyspieszonego postępowania układowego złożonego przez dłużnika do dnia dokonania obwieszczenia prawomocnego zarządzenia o zwrocie tego wniosku albo prawomocnego postanowienia o odrzuceniu albo oddaleniu tego wniosku, albo o umorzeniu postępowania w przedmiocie rozpoznania tego wniosku, a w przypadku otwarcia przyspieszonego postępowania układowego do dnia jego zakończenia albo uprawomocnienia się postanowienia o umorzeniu przyspieszonego postępowania układowego, wypowiedzenie przez wynajmującego lub wydzierżawiającego umowy najmu lub dzierżawy lokalu lub nieruchomości, w których jest prowadzone przedsiębiorstwo dłużnika, bez zezwolenia rady wierzycieli jest niedopuszczalne.
+1. Od dnia dokonania obwieszczenia zarządzenia o wpisaniu do repertorium wniosku o otwarcie przyspieszonego postępowania układowego złożonego przez dłużnika do dnia dokonania obwieszczenia prawomocnego zarządzenia o zwrocie tego wniosku albo prawomocnego postanowienia o odrzuceniu albo oddaleniu tego wniosku, albo o umorzeniu postępowania w przedmiocie rozpoznania tego wniosku, a w przypadku otwarcia przyspieszonego postępowania układowego – do dnia jego zakończenia albo uprawomocnienia się postanowienia o umorzeniu przyspieszonego postępowania układowego, wypowiedzenie przez wynajmującego lub wydzierżawiającego umowy najmu lub dzierżawy lokalu lub nieruchomości, w których jest prowadzone przedsiębiorstwo dłużnika, bez zezwolenia rady wierzycieli jest niedopuszczalne.
 
 2. Do umów kredytu w zakresie środków postawionych do dyspozycji kredytobiorcy przed dniem otwarcia postępowania, leasingu, ubezpieczeń majątkowych, umów rachunku bankowego, umów poręczeń, umów obejmujących licencje udzielone dłużnikowi oraz gwarancji lub akredytyw wystawionych przed dniem otwarcia przyspieszonego postępowania układowego oraz innych umów o podstawowym znaczeniu dla prowadzenia przedsiębiorstwa dłużnika przepis ust. 1 stosuje się odpowiednio. Spis umów o podstawowym znaczeniu dla prowadzenia przedsiębiorstwa dłużnika sporządza nadzorca sądowy i składa do akt w terminie trzech tygodni od dnia otwarcia postępowania.
 
@@ -2911,7 +2950,7 @@ Art. 401–447. (pominięte)
 
 1. Wniosek o otwarcie postępowania sanacyjnego powinien zawierać:
 
-- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
+- **1)** imię i nazwisko dłużnika albo jego nazwę oraz numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jego jednoznaczną identyfikację, firmę, pod którą działa dłużnik, miejsce zamieszkania albo siedzibę, adres, a jeżeli dłużnikiem jest spółka osobowa, osoba prawna albo inna jednostka organizacyjna nieposiadająca osobowości prawnej, której odrębna ustawa przyznaje zdolność prawną – imiona i nazwiska reprezentantów, w tym likwidatorów, jeżeli są ustanowieni, oraz numery PESEL albo numery w Krajowym Rejestrze Sądowym reprezentantów, a w przypadku ich braku – inne dane umożliwiające ich jednoznaczną identyfikację, a ponadto w przypadku spółki osobowej – imiona i nazwiska albo nazwę, numery PESEL albo numery w Krajowym Rejestrze Sądowym, a w przypadku ich braku – inne dane umożliwiające jednoznaczną identyfikację oraz miejsce zamieszkania albo siedzibę wspólników odpowiadających za zobowiązania spółki bez ograniczenia całym swoim majątkiem;
 - **1a)** NIP, jeżeli dłużnik ma taki numer;
 - **2)** wskazanie miejsc, w których znajduje się przedsiębiorstwo lub inny majątek dłużnika;
 - **3)** wstępny plan restrukturyzacyjny wraz z uzasadnieniem wskazującym, że jego wdrożenie przywróci dłużnikowi zdolność do wykonywania zobowiązań;
@@ -3073,7 +3112,7 @@ Art. 401–447. (pominięte)
 
 - **1)** umowie o pracę,
 - **2)** umowie o świadczenie usług,
-- **3)** uchwale organu dłużnika zawartej lub podjętej przed dniem otwarcia postępowania sanacyjnego jest rażąco wyższe od przeciętnego wynagrodzenia za tego rodzaju pracę lub usługi i nie jest uzasadnione nakładem pracy, sędzia-komisarz z urzędu albo na wniosek zarządcy uznaje, że określona część wynagrodzenia, przypadająca za okres przed dniem otwarcia postępowania sanacyjnego, niedłuższy jednak niż trzy miesiące przed dniem złożenia wniosku o otwarcie postępowania sanacyjnego, jest bezskuteczna w stosunku do masy sanacyjnej, chociażby wynagrodzenie zostało już wypłacone.
+- **3)** uchwale organu dłużnika – zawartej lub podjętej przed dniem otwarcia postępowania sanacyjnego jest rażąco wyższe od przeciętnego wynagrodzenia za tego rodzaju pracę lub usługi i nie jest uzasadnione nakładem pracy, sędzia-komisarz z urzędu albo na wniosek zarządcy uznaje, że określona część wynagrodzenia, przypadająca za okres przed dniem otwarcia postępowania sanacyjnego, niedłuższy jednak niż trzy miesiące przed dniem złożenia wniosku o otwarcie postępowania sanacyjnego, jest bezskuteczna w stosunku do masy sanacyjnej, chociażby wynagrodzenie zostało już wypłacone.
 
 2. Sędzia-komisarz może uznać za bezskuteczne w całości lub części w stosunku do masy sanacyjnej wynagrodzenie reprezentanta dłużnika, pracownika dłużnika wykonującego zadania w zakresie zarządu przedsiębiorstwem lub osoby świadczącej usługi związane z zarządem lub nadzorem nad przedsiębiorstwem dłużnika, przypadające za czas po otwarciu postępowania sanacyjnego, jeżeli ze względu na objęcie zarządu przez zarządcę nie jest ono uzasadnione nakładem pracy.
 
@@ -3200,8 +3239,8 @@ Art. 401–447. (pominięte)
 
 2a. O zamiarze sprzedaży składników majątku służących do prowadzenia działalności w dziedzinie obronności i bezpieczeństwa państwa zarządca zawiadamia Ministra Obrony Narodowej, który może przedstawić sędziemu-komisarzowi w terminie:
 
-- **1)** tygodnia od dnia zawiadomienia opinię albo
-- **2)** trzydziestu dni od dnia zawiadomienia oświadczenie o skorzystaniu z prawa wykupu, o którym mowa w ust. 2.
+- **1)** tygodnia od dnia zawiadomienia – opinię albo
+- **2)** trzydziestu dni od dnia zawiadomienia – oświadczenie o skorzystaniu z prawa wykupu, o którym mowa w ust. 2.
 
 2b. Wykup, o którym mowa w ust. 2, jest dokonywany po cenie sprzedaży ustalonej na podstawie dowodu z opinii biegłego, przy czym cena nie może być niższa niż kwota możliwa do uzyskania w postępowaniu upadłościowym przy likwidacji na zasadach ogólnych, pomniejszona o koszty postępowania, które należałoby ponieść w związku z likwidacją w takim trybie. Koszty opinii biegłego ponosi Skarb Państwa.
 
@@ -3356,6 +3395,10 @@ Art. 401–447. (pominięte)
 
 **Art. 348.** W ramach współpracy z sądem zagranicznym i zarządcą zagranicznym sąd i sędzia-komisarz mogą podejmować działania, które zapewniają sprawne prowadzenie postępowań restrukturyzacyjnych, w szczególności przekazywać oraz zwracać się o informacje o:
 
+- **1)** majątku dłużnika i miejscu jego położenia, jak również informacje o postępowaniach sądowych, administracyjnych, sądowoadministracyjnych i przed sądami polubownymi dotyczących dłużnika;
+- **2)** sposobie zabezpieczenia i restrukturyzacji zobowiązań;
+- **3)** zaspokojeniu poszczególnych wierzycieli.
+
 ## TYTUŁ IV Odrębne postępowania restrukturyzacyjne
 
 ### DZIAŁ I Postępowanie restrukturyzacyjne wobec deweloperów
@@ -3363,6 +3406,10 @@ Art. 401–447. (pominięte)
 **Art. 349.** Przepisy niniejszego działu stosuje się w przypadku wszczęcia postępowania restrukturyzacyjnego wobec dewelopera w rozumieniu art. 5 pkt 1 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27).
 
 **Art. 350.** Ilekroć w przepisach niniejszego działu jest mowa o:
+
+- **1)** nabywcy – należy przez to rozumieć osobę fizyczną, osobę prawną, a także jednostkę organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną, wobec której deweloper zobowiązał się do przeniesienia praw wynikających z umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy, i która zobowiązała się do spełnienia świadczenia pieniężnego na rzecz dewelopera na poczet ceny nabycia tego prawa;
+- **2)** przeniesieniu własności lokalu – należy przez to rozumieć przeniesienie własności lokalu mieszkalnego, a także przeniesienie własności nieruchomości gruntowej zabudowanej domem jednorodzinnym lub użytkowania wieczystego nieruchomości gruntowej i własności domu jednorodzinnego na niej posadowionego stanowiącego odrębną nieruchomość lub przeniesienie ułamkowej części własności nieruchomości, lub przeniesienie własności lokalu użytkowego na podstawie umowy, o której mowa w art. 2 ust. 2 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym;
+- **3)** umowie deweloperskiej – należy przez to rozumieć umowę między dłużnikiem a nabywcą, której przedmiotem jest przeniesienie praw wynikających z umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy.
 
 **Art. 351.** Wobec dewelopera nie prowadzi się postępowania o zatwierdzenie układu, z wyjątkiem układu częściowego, jeżeli nie są nim objęte wierzytelności nabywców oraz wierzytelności zabezpieczone na nieruchomości, na której jest prowadzone przedsięwzięcie deweloperskie.
 
@@ -3468,7 +3515,7 @@ Art. 401–447. (pominięte)
 
 1. Przy zawieraniu układu kurator głosuje sumą wierzytelności obligatariuszy objętych układem, przy czym przysługuje mu jeden głos od każdej sumy, która wynika z podziału sumy innych wierzytelności uprawniających do głosowania przez liczbę wierzycieli, którzy reprezentują te wierzytelności.
 
-2. W przypadku gdy obligatariusze głosują na zgromadzeniu wierzycieli osobiście lub przez pełnomocnika, siłę głosów kuratora pomniejsza się o wartość wierzytelności głosujących obligatariuszy, a liczbę przysługujących kuratorowi głosów o liczbę głosujących obligatariuszy.
+2. W przypadku gdy obligatariusze głosują na zgromadzeniu wierzycieli osobiście lub przez pełnomocnika, siłę głosów kuratora pomniejsza się o wartość wierzytelności głosujących obligatariuszy, a liczbę przysługujących kuratorowi głosów – o liczbę głosujących obligatariuszy.
 
 ### DZIAŁ III (uchylony)
 
@@ -3481,6 +3528,8 @@ Art. 401–447. (pominięte)
 ## TYTUŁ VI Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
 
 ### DZIAŁ I Zmiany w przepisach obowiązujących
+
+**Art. 401–447.** (pominięte)
 
 ### DZIAŁ II Przepisy przejściowe
 
@@ -3521,4 +3570,9 @@ Art. 401–447. (pominięte)
 ### DZIAŁ III Przepis końcowy
 
 **Art. 456.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem:
+
+- **1)** art. 5, który wchodzi w życie z dniem 26 czerwca 2018 r.;
+- **2)** art. 148 i art. 149, które wchodzą w życie z dniem 1 września 2015 r.;
+- **3)** art. 428 pkt 138 w zakresie dotyczącym art. 227, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
 

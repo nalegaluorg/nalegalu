@@ -30,7 +30,10 @@ source: pdf
 **Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 20:
-    - **a)** w ust. 1c: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „2) przetwarzanie produktów roślinnych i zwierzęcych i ich sprzedaż nie odbywa się przy zatrudnieniu osób na podstawie umów o pracę, umów zlecenia, umów o dzieło oraz innych umów o podobnym charakterze, z wyłączeniem uboju zwierząt rzeźnych i obróbki poubojowej tych zwierząt, w tym również rozbioru, podziału i klasyfikacji mięsa, przemiału zbóż, wytłoczenia oleju lub soku oraz sprzedaży podczas wystaw, festynów, targów i kiermaszy;”, – uchyla się pkt 3, b) uchyla się ust. 1ea; 2) w art. 21 w ust. 1 pkt 71a otrzymuje brzmienie: „71a) przychody, o których mowa w art. 20 ust. 1c, do kwoty 40 000 zł rocznie;”.
+    - **a)** w ust. 1c: – uchyla się pkt 1, – pkt 2 otrzymuje brzmienie: „2) przetwarzanie produktów roślinnych i zwierzęcych i ich sprzedaż nie odbywa się przy zatrudnieniu osób na podstawie umów o pracę, umów zlecenia, umów o dzieło oraz innych umów o podobnym charakterze, z wyłączeniem uboju zwierząt rzeźnych i obróbki poubojowej tych zwierząt, w tym również rozbioru, podziału i klasyfikacji mięsa, przemiału zbóż, wytłoczenia oleju lub soku oraz sprzedaży podczas wystaw, festynów, targów i kiermaszy;”, – uchyla się pkt 3,
+    - **b)** uchyla się ust. 1ea;
+
+- **2)** w art. 21 w ust. 1 pkt 71a otrzymuje brzmienie: „71a) przychody, o których mowa w art. 20 ust. 1c, do kwoty 40 000 zł rocznie;”.
 
 **Art. 2.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2018 r. poz. 1541, 1669, 2136 i 2227) wprowadza się następujące zmiany:
 

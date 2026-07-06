@@ -31,10 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 6 kwietnia 2016 r. zmieniającym rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. poz. 478);
 3) rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2022 r. zmieniającym rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. poz. 1347).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 16 czerwca 2014 r. zmieniającego rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. poz. 887), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 6 kwietnia 2016 r. zmieniającego rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. poz. 478), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2022 r. zmieniającego rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. poz. 1347), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 13 listopada 2008 r.
+1) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 16 czerwca 2014 r. zmieniającego rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. poz. 887), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 6 kwietnia 2016 r. zmieniającego rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. poz. 478), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2022 r. zmieniającego rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. poz. 1347), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 13 listopada 2008 r.
 w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” Na podstawie art. 73 ust. 2 pkt 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r.
 poz. 1969) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

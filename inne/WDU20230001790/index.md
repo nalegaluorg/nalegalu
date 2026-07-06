@@ -27,11 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U.
 z 2023 r. poz. 711), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 lipca 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852), który stanowi: „Art. 28. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 5, art. 7 i art. 22, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 10 oraz art. 23–26, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-3) art. 6, art. 8 i art. 27, które wchodzą w życie z dniem 1 stycznia 2024 r.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 852), który stanowi: „ Art. 28. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 5, art. 7 i art. 22, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 10 oraz art. 23–26, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia; 3) art. 6, art. 8 i art. 27, które wchodzą w życie z dniem 1 stycznia 2024 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 8 marca 2013 r.
 o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych
 

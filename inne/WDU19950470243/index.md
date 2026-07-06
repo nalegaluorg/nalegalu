@@ -35,9 +35,7 @@ source: pdf
     - **a)** Międzynarodowej konwencji o zapobieganiu zanieczyszczaniu morza przez statki, 1973 r., sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem uzupełniającym sporządzonym w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1987 r. poz. 101, z późn. zm. ) oraz Protokołem uzupełniającym sporządzonym w Londynie dnia 26 września 1997 r.
     - **b)** Konwencji o ochronie środowiska morskiego obszaru Morza Bałtyckiego, sporządzonej w Helsinkach dnia 9 kwietnia 1992 r. (Dz. U. z 2000 r.
     - **c)** Konwencji o zapobieganiu zanieczyszczaniu mórz przez zatapianie odpadów i innych substancji, sporządzonej w Moskwie, Waszyngtonie, Londynie i Meksyku dnia 29 grudnia 1972 r. (Dz. U. z 1984 r. poz. 46 i 47 oraz z 1997 r. poz. 300 i 481), zwanej dalej „Konwencją o zatapianiu”,
-    - **d)** Międzynarodowej konwencji w sprawie kontroli szkodliwych systemów przeciwporostowych na statkach, podpisanej w Londynie dnia 5 października 2001 r. (Dz. U. z 2008 r. poz. 851 i 852 oraz z 2022 r. poz.
-
-- **2636)** , zwanej dalej „Konwencją AFS”,
+    - **d)** Międzynarodowej konwencji w sprawie kontroli szkodliwych systemów przeciwporostowych na statkach, podpisanej w Londynie dnia 5 października 2001 r. (Dz. U. z 2008 r. poz. 851 i 852 oraz z 2022 r. poz. 2636), zwanej dalej „Konwencją AFS”,
     - **e)** Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, 2004, sporządzonej w dniu 13 lutego 2004 r. w Londynie, zwanej dalej „Konwencją BWM”;
 
 - **1a)** odpowiednio przepisy art. 20 i art. 39 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. z 2020 r. poz. 2065), w zakresie eksploatacji na statkach urządzeń chłodniczych, klimatyzacyjnych, rozdzielnic elektrycznych oraz systemów ochrony przeciwpożarowej i gaśnic zawierających substancje kontrolowane, fluorowane gazy cieplarniane lub pozostałe fluorowane gazy cieplarniane, w przypadku gdy niniejsza ustawa nie stanowi inaczej;
@@ -994,7 +992,7 @@ source: pdf
 
 1. Do postępowania określonego w przepisach niniejszego rozdziału stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
 
-2. W przypadku konieczności natychmiastowego opuszczenia portu przez statek, w stosunku do którego powzięto podejrzenie używania paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim, a znane są już wyniki badania laboratoryjnego próbki paliwa potwierdzające używanie przez ten statek takiego paliwa żeglugowego, nie stosuje się przepisów art. 10 § 1, art. 39 , art. 39 , art. 45, art. 49b, art. 79 i art. 79a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+2. W przypadku konieczności natychmiastowego opuszczenia portu przez statek, w stosunku do którego powzięto podejrzenie używania paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim, a znane są już wyniki badania laboratoryjnego próbki paliwa potwierdzające używanie przez ten statek takiego paliwa żeglugowego, nie stosuje się przepisów art. 10 § 1, art. 39 1 , art. 39 2 , art. 45, art. 49b, art. 79 i art. 79a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 3. Decyzję dyrektora urzędu morskiego właściwego dla obszaru położenia portu zawierającą sankcję karną za używanie paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim doręcza się bezpośrednio kapitanowi statku lub jego przedstawicielowi na podstawie art. 39 i art. 40 § 1 lub 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 

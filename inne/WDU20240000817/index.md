@@ -32,10 +32,10 @@ poz. 857), z uwzględnieniem zmian wprowadzonych:
 2) rozporządzeniem Ministra Obrony Narodowej z dnia 25 maja 2015 r. zmieniającym rozporządzenie w sprawie Wojskowej Inspekcji Weterynaryjnej (Dz. U. poz. 811);
 3) rozporządzeniem Ministra Obrony Narodowej z dnia 10 listopada 2023 r. zmieniającym rozporządzenie w sprawie Wojskowej Inspekcji Weterynaryjnej (Dz. U. poz. 2483).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 5 marca 2007 r. zmieniającego rozporządzenie w sprawie Wojskowej Inspekcji Weterynaryjnej (Dz. U. poz. 313), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 25 maja 2015 r. zmieniającego rozporządzenie w sprawie Wojskowej Inspekcji Weterynaryjnej (Dz. U. poz. 811), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 10 listopada 2023 r. zmieniającego rozporządzenie w sprawie Wojskowej Inspekcji Weterynaryjnej (Dz. U. poz. 2483), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Obrony Narodowej: z up. P. Bejda ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 19 kwietnia 2004 r.
+1) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 5 marca 2007 r. zmieniającego rozporządzenie w sprawie Wojskowej Inspekcji Weterynaryjnej (Dz. U. poz. 313), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 25 maja 2015 r. zmieniającego rozporządzenie w sprawie Wojskowej Inspekcji Weterynaryjnej (Dz. U. poz. 811), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 10 listopada 2023 r. zmieniającego rozporządzenie w sprawie Wojskowej Inspekcji Weterynaryjnej (Dz. U. poz. 2483), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Obrony Narodowej: z up. P. Bejda
+ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 19 kwietnia 2004 r.
 w sprawie Wojskowej Inspekcji Weterynaryjnej Na podstawie art. 3 ust. 7 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2024 r. poz. 12) zarządza się, co następuje:
 § 1. Rozporządzenie określa organizację oraz szczegółowe warunki i tryb wykonywania zadań przez Wojskową Inspekcję Weterynaryjną.
 § 2. 1. Organami Wojskowej Inspekcji Weterynaryjnej są:

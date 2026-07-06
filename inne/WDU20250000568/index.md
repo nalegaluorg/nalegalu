@@ -30,12 +30,8 @@ source: pdf
 poz. 1089),
 2) ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 31 i art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), które stanowią: „Art. 31. Do planów finansowych agencji wykonawczych, instytucji gospodarki budżetowej, państwowych funduszy celowych oraz państwowych i samorządowych osób prawnych na rok 2024 oraz do zmian tych planów stosuje się przepisy dotychczasowe.” „Art. 44. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r.”;
-2) art. 33 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U.
-poz. 179), który stanowi: „Art. 33. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 3 lit. c, art. 7 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 1 pkt 25 i 26, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+1) art. 31 i art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), które stanowią: „ Art. 31. Do planów finansowych agencji wykonawczych, instytucji gospodarki budżetowej, państwowych funduszy celowych oraz państwowych i samorządowych osób prawnych na rok 2024 oraz do zmian tych planów stosuje się przepisy dotychczasowe.” „Art. 44. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą w życie z dniem 1 stycznia 2025 r.”;
+2) art. 33 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179), który stanowi: „ Art. 33. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 3 lit. c, art. 7 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 1 pkt 25 i 26, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 13 kwietnia 2016 r.
 o systemach oceny zgodności i nadzoru rynku
 

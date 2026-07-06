@@ -96,7 +96,7 @@ source: pdf
 - **6)** prawomocnego rozstrzygnięcia przez sąd w postępowaniu nieprocesowym lub wyboru dokonanego przez spółdzielnię, o których mowa w art. 15 ust. 4, w przypadkach przewidzianych w art. 15 ust. 2 i 3, jeżeli pisemne zapewnienie o gotowości zawarcia umowy o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego zgłosiła więcej niż jedna osoba;
 - **7)** wpisania spółdzielni do Krajowego Rejestru Sądowego w przypadku osób będących założycielami spółdzielni.
 
-3. Przepisy ust. 1 i 3 stosuje się odpowiednio do osób, którym przysługuje prawo do miejsca postojowego w garażu wielostanowiskowym lub garażu wolnostojącego, o których mowa w art. 17 , lub do ułamkowego udziału we współwłasności garażu wielostanowiskowego, o którym mowa w art. 27 .
+3. Przepisy ust. 1 i 3 stosuje się odpowiednio do osób, którym przysługuje prawo do miejsca postojowego w garażu wielostanowiskowym lub garażu wolnostojącego, o których mowa w art. 17 19 , lub do ułamkowego udziału we współwłasności garażu wielostanowiskowego, o którym mowa w art. 27 1 .
 
 3. Członkiem spółdzielni może być najemca, o którym mowa w art. 48 ust. 1. Przepisy dotyczące członkostwa właścicieli lokali stosuje się odpowiednio.
 
@@ -243,7 +243,7 @@ source: pdf
 - **2)** adwokat lub radca prawny;
 - **3)** inny członek tej samej spółdzielni.
 
-1. Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27 , że spełnia wymóg, o którym mowa w ust. 1 pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
+1. Do pełnomocnictwa udzielonego osobie bliskiej dołącza się oświadczenie, w którym pełnomocnik potwierdza pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, wynikającej z art. 27 3a , że spełnia wymóg, o którym mowa w ust. 1 pkt 1. W oświadczeniu zamieszcza się klauzulę w brzmieniu: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.
 
 1. Pełnomocnictwo udzielone osobie bliskiej bez dołączonego oświadczenia, o którym mowa w ust. 1 zdanie pierwsze, jest nieważne.
 
@@ -302,7 +302,7 @@ source: pdf
 
 **Art. 9².**
 
-1. Lokale, o których mowa w art. 9 , nie mogą być wyodrębniane na własność.
+1. Lokale, o których mowa w art. 9 1 , nie mogą być wyodrębniane na własność.
 
 2. (uchylony)
 
@@ -335,11 +335,11 @@ source: pdf
 
 1. (uchylony) 1 . Z chwilą gdy orzeczenie sądu, o którym mowa w ust. 1 i 1 , stanie się prawomocne, spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasa. W przypadku, o którym mowa w ust. 1 , spółdzielcze lokatorskie prawo do lokalu mieszkalnego wygasa wobec jednego z małżonków albo wobec obojga małżonków.
 
-2. W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia, z zastrzeżeniem art. 15 i art. 16 , ogłasza nie później niż w ciągu 3 miesięcy od dnia opróżnienia lokalu, zgodnie z postanowieniami statutu, przetarg na ustanowienie odrębnej własności tego lokalu, zawiadamiając o przetargu w sposób określony w statucie oraz przez publikację ogłoszenia w prasie lokalnej. Warunkiem przeniesienia odrębnej własności lokalu jest wpłata wartości rynkowej lokalu.
+2. W przypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia, z zastrzeżeniem art. 15 i art. 16 1 , ogłasza nie później niż w ciągu 3 miesięcy od dnia opróżnienia lokalu, zgodnie z postanowieniami statutu, przetarg na ustanowienie odrębnej własności tego lokalu, zawiadamiając o przetargu w sposób określony w statucie oraz przez publikację ogłoszenia w prasie lokalnej. Warunkiem przeniesienia odrębnej własności lokalu jest wpłata wartości rynkowej lokalu.
 
 2a. Spółdzielnia nie przenosi odrębnej własności lokalu, jeżeli:
 
-- **1)** osoba, której przysługiwało spółdzielcze lokatorskie prawo do lokalu mieszkalnego, a której prawo wygasło, zgłosi roszczenie o ponowne ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego w przypadku, o którym mowa w art. 16 ;
+- **1)** osoba, której przysługiwało spółdzielcze lokatorskie prawo do lokalu mieszkalnego, a której prawo wygasło, zgłosi roszczenie o ponowne ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego w przypadku, o którym mowa w art. 16 1 ;
 - **2)** osoba, o której mowa w art. 15 ust. 2, zgłosi roszczenie o ustanowienie spółdzielczego lokatorskiego prawa do tego lokalu.
 
 2. W wypadku wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu mieszkalnego spółdzielnia wypłaca osobie uprawnionej wartość rynkową tego lokalu. Przysługująca osobie uprawnionej wartość rynkowa nie może być wyższa od kwoty, jaką spółdzielnia uzyska od osoby obejmującej lokal w wyniku przetargu przeprowadzonego przez spółdzielnię zgodnie z postanowieniami statutu.
@@ -540,7 +540,7 @@ source: pdf
 
 3. Przez byłego członka, o którym mowa w ust. 2, należy rozumieć członka, którego członkostwo ustało na skutek wykreślenia spółdzielni z rejestru w związku z zakończeniem postępowania likwidacyjnego lub upadłościowego i któremu przysługiwało spółdzielcze własnościowe prawo do lokalu.
 
-**Art. 17¹⁹.** Przepisy art. 17 ust. 6, art. 17 ust. 1, 3, 4 i 6, art. 17 , art. 17 , art. 17 –17 i art. 17 –17 stosuje się odpowiednio do miejsc postojowych w garażach wielostanowiskowych i garaży wolno stojących.
+**Art. 17¹⁹.** Przepisy art. 17 ust. 6, art. 17 ust. 1, 3, 4 i 6, art. 17 6 , art. 17 7 , art. 17 –17 i art. 17 16 –17 stosuje się odpowiednio do miejsc postojowych w garażach wielostanowiskowych i garaży wolno stojących.
 
 #### Rozdział 3 Prawo odrębnej własności lokalu
 
@@ -634,7 +634,7 @@ source: pdf
 
 5. Z żądaniem, o którym mowa w art. 16 ust. 1 ustawy o własności lokali, występuje zarząd spółdzielni na wniosek większości właścicieli lokali w budynku lub budynkach położonych w obrębie danej nieruchomości.
 
-**Art. 27¹.** Przepisy art. 18–22, art. 23 ust. 2, art. 24, art. 24 , art. 26 i art. 27 stosuje się odpowiednio do ułamkowego udziału we współwłasności garażu wielostanowiskowego.
+**Art. 27¹.** Przepisy art. 18–22, art. 23 ust. 2, art. 24, art. 24 1 , art. 26 i art. 27 stosuje się odpowiednio do ułamkowego udziału we współwłasności garażu wielostanowiskowego.
 
 #### Rozdział 3 Przepisy karne
 
@@ -642,12 +642,12 @@ source: pdf
 
 **Art. 27³.** Kto, będąc członkiem zarządu spółdzielni mieszkaniowej, pełnomocnikiem, albo likwidatorem, wbrew obowiązkowi dopuszcza do tego, że spółdzielnia:
 
-- **1)** nie udostępnia członkowi spółdzielni mieszkaniowej odpisów oraz kopii dokumentów, o których mowa w art. 8 ,
+- **1)** nie udostępnia członkowi spółdzielni mieszkaniowej odpisów oraz kopii dokumentów, o których mowa w art. 8 1 ,
 - **2)** nie rozlicza kosztów budowy lokalu w terminach, o których mowa w art. 10 ust. 3 albo art. 18 ust. 4 – podlega karze grzywny.
 
 **Art. 27³a.** Kto składa fałszywe oświadczenie, o którym mowa w art. 8 ust. 1 zdanie pierwsze, podlega karze grzywny.
 
-**Art. 27⁴.** W sprawach o czyny, o których mowa w art. 27 i art. 27 , orzekanie następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
+**Art. 27⁴.** W sprawach o czyny, o których mowa w art. 27 i art. 27 3a , orzekanie następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 4 Zmiany w przepisach obowiązujących
 

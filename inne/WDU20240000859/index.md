@@ -318,7 +318,7 @@ source: pdf
 
 5. W przypadku gdy informacja o pomocy zawiera błędy, omyłki pisarskie lub rachunkowe lub braki formalne, podmiot udzielający pomocy wzywa przedsiębiorcę do ich usunięcia w wyznaczonym terminie.
 
-6. Informacja o pomocy zawierająca błędy, omyłki pisarskie lub rachunkowe lub braki formalne, złożona w terminie, o którym mowa w art. 37 ust. 6 albo art. 38 ust. 5a, albo w terminie, o którym mowa w art. 38 , która została poprawiona lub uzupełniona w terminie wyznaczonym przez podmiot udzielający pomocy, wywołuje skutki od dnia jej złożenia.
+6. Informacja o pomocy zawierająca błędy, omyłki pisarskie lub rachunkowe lub braki formalne, złożona w terminie, o którym mowa w art. 37 ust. 6 albo art. 38 ust. 5a, albo w terminie, o którym mowa w art. 38 1 , która została poprawiona lub uzupełniona w terminie wyznaczonym przez podmiot udzielający pomocy, wywołuje skutki od dnia jej złożenia.
 
 7. Minister właściwy do spraw energii publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzór informacji o pomocy.
 

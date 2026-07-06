@@ -27,21 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 stycznia 2001 r. o wyścigach konnych (Dz. U. z 2017 r. poz. 194), z uwzględnieniem zmian wprowadzonych ustawą z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r. poz. 568 i 875) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 lipca 2020 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 86 ustawy z dnia 31 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia obciążeń regulacyjnych (Dz. U. poz. 1495 oraz z 2020 r.
-poz. 568 i 875), który stanowi: „Art. 86. Ustawa wchodzi w życie z dniem 1 stycznia 2020 r., z wyjątkiem:
-1) art. 67, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 27 lipca 2019 r.;
-2) art. 19 pkt 2 i 3 oraz art. 57, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-3) art. 2 pkt 2 i 18–21, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
-4) art. 62 pkt 1, 4 i 5, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
-5) art. 1 pkt 1–3, art. 55 oraz art. 70, które wchodzą w życie z dniem 1 stycznia 2021 r.
-6) art. 33 pkt 2 i 4, które wchodzą w życie z dniem 1 lipca 2020 r.;
-7) art. 62 pkt 6 lit. a tiret trzecie, lit. b i e i pkt 7 oraz art. 73 ust. 1–8, które wchodzą w życie z dniem 1 października 2020 r.;
-8) art. 14:
-a) pkt 1: – lit. a i lit. b w zakresie uchylonego art. 4ba ust. 6, – lit. c w zakresie dodanego art. 4ba ust. 9,
-b) pkt 4: – lit. a i lit. b w zakresie uchylonego art. 43d ust. 2, – lit. c w zakresie dodanego art. 43d ust. 6,
-c) pkt 5,
-d) pkt 6 w zakresie dodanego art. 43f ust. 1–3 i 5 – które wchodzą w życie z dniem 1 lipca 2023 r.;
-9) art. 63 pkt 1 lit. b i pkt 2 oraz art. 68, które wchodzą w życie z dniem wystąpienia Zjednoczonego Królestwa z Unii Europejskiej bez zawarcia umowy, o której mowa w art. 50 ust. 2 zdanie drugie Traktatu o Unii Europejskiej (Dz. U. z 2004 r. poz. 864).”.
-Marszałek Sejmu: E. Witek
+poz. 568 i 875), który stanowi: „ Art. 86. Ustawa wchodzi w życie z dniem 1 stycznia 2020 r., z wyjątkiem: 1) art. 67, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 27 lipca 2019 r.; 2) art. 19 pkt 2 i 3 oraz art. 57, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 3) art. 2 pkt 2 i 18–21, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia; 4) art. 62 pkt 1, 4 i 5, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia; 5) art. 1 pkt 1–3, art. 55 oraz art. 70, które wchodzą w życie z dniem 1 stycznia 2021 r. 6) art. 33 pkt 2 i 4, które wchodzą w życie z dniem 1 lipca 2020 r.; 7) art. 62 pkt 6 lit. a tiret trzecie, lit. b i e i pkt 7 oraz art. 73 ust. 1–8, które wchodzą w życie z dniem 1 października 2020 r.; 8) art. 14: a) pkt 1: – lit. a i lit. b w zakresie uchylonego art. 4ba ust. 6, – lit. c w zakresie dodanego art. 4ba ust. 9, b) pkt 4: – lit. a i lit. b w zakresie uchylonego art. 43d ust. 2, – lit. c w zakresie dodanego art. 43d ust. 6, c) pkt 5, d) pkt 6 w zakresie dodanego art. 43f ust. 1–3 i 5 – które wchodzą w życie z dniem 1 lipca 2023 r.; 9) art. 63 pkt 1 lit. b i pkt 2 oraz art. 68, które wchodzą w życie z dniem wystąpienia Zjednoczonego Królestwa z Unii Europejskiej bez zawarcia umowy, o której mowa w art. 50 ust. 2 zdanie drugie Traktatu o Unii Europejskiej (Dz. U. z 2004 r. poz. 864).”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 18 stycznia 2001 r.
 o wyścigach konnych
 

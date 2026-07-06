@@ -31,9 +31,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra sprawiedliwoś
 2) rozporządzeniem Ministra Sprawiedliwości z dnia 28 grudnia 2017 r. zmieniającym rozporządzenie w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. z 2018 r. poz. 22);
 3) rozporządzeniem Ministra Sprawiedliwości z dnia 23 października 2020 r. zmieniającym rozporządzenie w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. poz. 2092).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. z 2018 r. poz. 22), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 23 października 2020 r. zmieniającego rozporządzenie w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. poz. 2092), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro rozporządzenie Ministra sprawiedliwości z dnia 20 grudnia 2012 r.
+1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. z 2018 r. poz. 22), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 23 października 2020 r. zmieniającego rozporządzenie w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. poz. 2092), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro
+rozporządzenie Ministra sprawiedliwości z dnia 20 grudnia 2012 r.
 w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych Na podstawie art. 37i ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r. poz. 2072 oraz z 2021 r. poz. 1080) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) szczegółowy tryb sprawowania nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych, zwanego dalej „nadzorem”;

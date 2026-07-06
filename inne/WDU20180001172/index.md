@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 1) rozporządzeniem Rady Ministrów z dnia 3 stycznia 2013 r. zmieniającym rozporządzenie w sprawie ustanowienia odznaki honorowej „Za zasługi dla budownictwa”, ustalenia jej wzoru, zasad i trybu nadawania, a także noszenia (Dz. U. poz. 102);
 2) rozporządzeniem Rady Ministrów z dnia 23 września 2016 r. zmieniającym rozporządzenie w sprawie ustanowienia odznaki honorowej „Za zasługi dla budownictwa”, ustalenia jej wzoru, zasad i trybu nadawania, a także noszenia (Dz. U. poz. 1650).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Rady Ministrów z dnia 3 stycznia 2013 r. zmieniającego rozporządzenie w sprawie ustanowienia odznaki honorowej „Za zasługi dla budownictwa”, ustalenia jej wzoru, zasad i trybu nadawania, a także noszenia (Dz. U. poz. 102), który stanowi: „§ 2. Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.”;
-2) § 2 rozporządzenia Rady Ministrów z dnia 23 września 2016 r. zmieniającego rozporządzenie w sprawie ustanowienia odznaki honorowej „Za zasługi dla budownictwa”, ustalenia jej wzoru, zasad i trybu nadawania, a także noszenia (Dz. U. poz. 1650), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 27 listopada 2015 r.”.
-Prezes Rady Ministrów: M. Morawiecki RoZpoRZądZenie rady mINIStróW z dnia 30 kwietnia 2002 r.
+1) § 2 rozporządzenia Rady Ministrów z dnia 3 stycznia 2013 r. zmieniającego rozporządzenie w sprawie ustanowienia odznaki honorowej „Za zasługi dla budownictwa”, ustalenia jej wzoru, zasad i trybu nadawania, a także noszenia (Dz. U. poz. 102), który stanowi: „ § 2. Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.”;
+2) § 2 rozporządzenia Rady Ministrów z dnia 23 września 2016 r. zmieniającego rozporządzenie w sprawie ustanowienia odznaki honorowej „Za zasługi dla budownictwa”, ustalenia jej wzoru, zasad i trybu nadawania, a także noszenia (Dz. U. poz. 1650), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 27 listopada 2015 r.”. Prezes Rady Ministrów: M. Morawiecki
+RoZpoRZądZenie rady mINIStróW z dnia 30 kwietnia 2002 r.
 w sprawie ustanowienia odznaki honorowej „Za zasługi dla budownictwa”, ustalenia jej wzoru, zasad i trybu nadawania, a także noszenia Na podstawie art. 4 ust. 2 i art. 6 ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r.
 poz. 38) zarządza się, co następuje:
 § 1. Ustanawia się odznakę honorową „Za zasługi dla budownictwa”, zwaną dalej „odznaką”.
@@ -53,7 +53,8 @@ poz. 38) zarządza się, co następuje:
 § 8. W razie zgubienia albo zniszczenia odznaki lub legitymacji stwierdzającej jej nadanie wydaje się wtórny egzemplarz odznaki lub legitymacji, za zwrotem kosztów.
 § 9. Koszty związane z nadaniem odznaki są pokrywane ze środków budżetu państwa w części, której dysponentem jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
 § 10. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia z dnia 30 kwietnia 2002 r.
+
+## Załączniki do rozporządzenia z dnia 30 kwietnia 2002 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR WNIOSKU WNIOSKU O O NADANIE NADANIE ODZNAKI ODZNAKI HONOROWEJ HONOROWEJ „ZA „ZA ZASŁUGI ZASŁUGI DLA DLA BUDOWNICTWA” BUDOWNICTWA” Załącznik nr 2 WZÓR ODZNAKI HONOROWEJ WZÓR ODZNAKI „ZA ZASŁUGI HONOROWEJ DLA BUDOWNICTWA” „ZA ZASŁUGI DLA BUDOWNICTWA” Załącznik nr 3 WZÓR WZÓR LEGITYMACJI LEGITYMACJI STWIERDZAJĄCEJ STWIERDZAJĄCEJ NADANIE NADANIE ODZNAKI ODZNAKI HONOROWEJ HONOROWEJ „ZA „ZA ZASŁUGI ZASŁUGI DLA DLA BUDOWNICTWA” BUDOWNICTWA” Okładka do legitymacji jest koloru bordowego i ma wymiary 154 × 108 mm.
 

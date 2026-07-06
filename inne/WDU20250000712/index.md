@@ -55,13 +55,9 @@ source: pdf
 - **1)** rozpoznawanie, zapobieganie i wykrywanie przestępstw przeciwko: o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090 oraz z 2024 r. poz. 1840), o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146), jeżeli pozostają w związku z korupcją lub działalnością godzącą w interesy ekonomiczne państwa,
     - **a)** działalności instytucji państwowych oraz samorządu terytorialnego, określonych w art. 228–231 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, a także o którym mowa w art. 14 ustawy z dnia 21 sierpnia 1997 r.
     - **b)** wymiarowi sprawiedliwości, określonych w art. 232, art. 233, art. 234, art. 235, art. 236 § 1 i art. 239 § 1, wyborom i referendum, określonych w art. 250a, porządkowi publicznemu, określonych w art. 258, wiarygodności dokumentów, określonych w art. 270–273 i art. 277a § 1, mieniu, określonych w art. 286, obrotowi gospodarczemu, określonych w art. 296–297, art. 299 i art. 305, obrotowi pieniędzmi i papierami wartościowymi, określonych w art. 310 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, a także o których mowa w art. 586–592 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) oraz określonych w art. 179–183 ustawy z dnia 29 lipca 2005 r.
-    - **c)** finansowaniu partii politycznych, określonych w art. 49d i 49f ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2023 r. poz.
-
-- **1215)** , jeżeli pozostają w związku z korupcją,
+    - **c)** finansowaniu partii politycznych, określonych w art. 49d i 49f ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2023 r. poz. 1215), jeżeli pozostają w związku z korupcją,
     - **d)** obowiązkom podatkowym i rozliczeniom z tytułu dotacji i subwencji, określonych w rozdziale 6 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2024 r. poz. 628, z późn. zm. ), jeżeli pozostają w związku z korupcją lub działalnością godzącą w interesy ekonomiczne państwa,
-    - **e)** zasadom rywalizacji sportowej, określonych w art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488 oraz z 2025 r. poz.
-
-- **28)** ,
+    - **e)** zasadom rywalizacji sportowej, określonych w art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2024 r. poz. 1488 oraz z 2025 r. poz. 28),
     - **f)** obrotowi lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego, wyrobami medycznymi określonymi w art. 54 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2024 r. poz. 930 oraz z 2025 r. poz. 129) – oraz ściganie ich sprawców;
 
 - **1a)** ujawnianie mienia zagrożonego przepadkiem w związku z przestępstwami, o których mowa w pkt 1;
@@ -1063,7 +1059,7 @@ source: pdf
 
 **Art. 55b.**
 
-1. Przełożony, o którym mowa w art. 55a ust. 1, realizuje w stosunku do funkcjonariusza pełniącego służbę w formie zdalnej obowiązki określone w art. 56a w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 –209 , art. 210 § 1–5, art. 212 ust. 1 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
+1. Przełożony, o którym mowa w art. 55a ust. 1, realizuje w stosunku do funkcjonariusza pełniącego służbę w formie zdalnej obowiązki określone w art. 56a w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 1 –209 , art. 210 § 1–5, art. 212 ust. 1 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
 
 2. Przełożony, o którym mowa w art. 55a ust. 1, przed rozpoczęciem przez funkcjonariusza służby pełnionej w formie zdalnej przekazuje mu informacje dotyczące:
 
@@ -1096,7 +1092,7 @@ source: pdf
 
 **Art. 56a.**
 
-1. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228, art. 229 § 1–1 , art. 230 § 2, art. 231, art. 234 § 1–3 , art. 235– 235 , art. 237–237 , art. 237 , art. 237 i art. 237 § 1 i 2 w zakresie dotyczącym odzieży i obuwia roboczego, art. 237 § 3, art. 237 § 4, art. 237 § 1 i 3–6 oraz art. 237 –237 .
+1. W sprawach bezpieczeństwa i higieny służby stosuje się odpowiednio przepisy działu dziesiątego Kodeksu pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 207 § 2 pkt 7, art. 209 § 4, art. 228, art. 229 § 1–1 , art. 230 § 2, art. 231, art. 234 § 1–3 , art. 235– 235 , art. 237–237 , art. 237 7 , art. 237 i art. 237 § 1 i 2 w zakresie dotyczącym odzieży i obuwia roboczego, art. 237 § 3, art. 237 § 4, art. 237 § 1 i 3–6 oraz art. 237 12 –237 .
 
 2. W zakresie określonym w ust. 1:
 
@@ -1104,7 +1100,7 @@ source: pdf
 - **2)** przełożony wykonuje obowiązki osoby kierującej pracownikami;
 - **3)** funkcjonariusz realizuje obowiązki i uprawnienia pracownika, uwzględniając zalecenia wydawane przez służbę bezpieczeństwa i higieny służby.
 
-3. Przepisy art. 209 , art. 209 , art. 210 § 1–5 oraz przepisy wykonawcze wydane na podstawie art. 210 § 6 Kodeksu pracy stosuje się, jeżeli nie zagraża to prawidłowej realizacji czynności podejmowanych w celu realizacji zadań, o których mowa w art. 2 ust. 1 lub art. 30.
+3. Przepisy art. 209 2 , art. 209 3 , art. 210 § 1–5 oraz przepisy wykonawcze wydane na podstawie art. 210 § 6 Kodeksu pracy stosuje się, jeżeli nie zagraża to prawidłowej realizacji czynności podejmowanych w celu realizacji zadań, o których mowa w art. 2 ust. 1 lub art. 30.
 
 4. Na pierwsze badanie okresowe funkcjonariusz jest kierowany w terminie 3 lat od dnia przyjęcia do służby.
 
@@ -1348,7 +1344,7 @@ source: pdf
 
 2. Funkcjonariuszowi, który po zwolnieniu ze służby w CBA podjął pracę, okres tej służby wlicza się do okresu zatrudnienia w zakresie wszelkich uprawnień wynikających z prawa pracy.
 
-**Art. 82.** Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przepis art. 189 stosuje się odpowiednio.
+**Art. 82.** Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 7 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przepis art. 189 stosuje się odpowiednio.
 
 **Art. 83.** Prezes Rady Ministrów określi, w drodze rozporządzenia, przebieg służby funkcjonariuszy. Rozporządzenie powinno określać:
 

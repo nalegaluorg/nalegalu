@@ -31,9 +31,8 @@ source: pdf
 poz. 1872) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 lutego 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 5 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U.
-poz. 1228), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.”;
-2) art. 9 ustawy z dnia 4 grudnia 2025 r. o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego (Dz. U. poz. 1872), który stanowi: „Art. 9. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 4 pkt 1, 3 i 4 oraz art. 6, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: W. Czarzasty
+poz. 1228), który stanowi: „ Art. 5. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.”;
+2) art. 9 ustawy z dnia 4 grudnia 2025 r. o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego (Dz. U. poz. 1872), który stanowi: „ Art. 9. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 4 pkt 1, 3 i 4 oraz art. 6, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 9 czerwca 2022 r.
 o wspieraniu i resocjalizacji nieletnich Uznając rodzinę za naturalne środowisko rozwoju człowieka oraz opierając się na zasadzie autonomii rodziny i pierwszoplanowej roli rodziców – matki i ojca – w przekazywaniu nieletnim wartości, zasad i niezbędnych wzorców, kierując się nadto prawem nieletnich do szczególnej troski i pomocy oraz zasadą subsydiarności, Rzeczpospolita Polska otacza rodzinę ochroną i wsparciem w wychowaniu, które respektując chrześcijański system wartości, za podstawę przyjmuje uniwersalne zasady etyki.
 Umacnianie poczucia odpowiedzialności rodzin za przygotowanie dzieci do życia we wspólnocie, jako indywidualnie ukształtowanej jednostki oraz za wychowanie nieletnich na osoby świadome swych obowiązków rodzinnych i obywatelskich jest wspólnym dobrem całego społeczeństwa.
@@ -520,7 +519,7 @@ W dążeniu do wzmacniania świadomości odpowiedzialności za własne czyny, pr
 
 9. Sąd rodzinny, orzekając w sprawie nieletniego, bierze pod uwagę wyniki mediacji oraz ugodę zawartą przed mediatorem.
 
-10. W zakresie nieuregulowanym w niniejszej ustawie do mediacji przepisy art. 183 –183 Kodeksu postępowania cywilnego stosuje się odpowiednio.
+10. W zakresie nieuregulowanym w niniejszej ustawie do mediacji przepisy art. 183 1 –183 Kodeksu postępowania cywilnego stosuje się odpowiednio.
 
 **Art. 58.**
 

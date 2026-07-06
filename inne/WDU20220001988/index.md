@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 27 grudnia 2013 r. w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U.
 z 2021 r. poz. 470), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 30 września 2021 r.
 zmieniającym rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1884).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 30 września 2021 r. zmieniającego rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1884), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 22 sierpnia 2022 r. (Dz. U. poz. 1988) ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2013 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 30 września 2021 r. zmieniającego rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1884), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 22 sierpnia 2022 r. (Dz. U. poz. 1988)
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2013 r.
 w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości Na podstawie art. 111 ust. 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648 i 1933) zarządza się, co następuje:
 § 1. 1. Ustala się Krajową Tablicę Przeznaczeń Częstotliwości, zwaną dalej „Tablicą”, stanowiącą załącznik nr 1 do rozporządzenia.
 2. Uwagi do przeznaczeń zakresów częstotliwości określonych w Tablicy zawiera załącznik nr 2 do rozporządzenia.
@@ -38,7 +38,9 @@ w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości Na podstawie art. 111 u
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 Rozporządzenie zostało ogłoszone w dniu 3 lutego 2014 r.
 Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 29 czerwca 2005 r. w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1127, z 2006 r. poz. 1792, z 2008 r. poz. 629, z 2009 r. poz. 1086, z 2010 r. poz. 627 oraz z 2012 r. poz. 537), które zgodnie z art. 25 ust. 1 ustawy z dnia 16 listopada 2012 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 1445 oraz z 2013 r. poz. 1635) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
-Załączniki do rozporządzenia Rady Ministrów Dziennik Ustaw – 3 – z dnia 27 grudnia 2013 r. (Dz. U. Poz. z 1988 2022 r. poz. …) Załączniki do rozporządzenia Rady Ministrów z dnia 27 grudnia 2013 r. (Dz. U. z 2022 r. poz. 1988) Załącznik nr 1 Załącznik nr 1 KRAJOWA KRAJOWA TABLICA TABLICA PRZEZNACZEŃ PRZEZNACZEŃ CZĘSTOTLIWOŚCI CZĘSTOTLIWOŚCI Lp. f (kHz) f (kHz) Przeznaczenie Użytkowanie 1 Poniżej 8,3 kHz (Nie przeznaczono)
+
+## Załącznik nr 1 — Załącznik nr 1 KRAJOWA KRAJOWA TABLICA TABLICA PRZEZNACZEŃ PRZEZNACZEŃ CZĘSTOTLIWOŚCI CZĘSTOTLIWOŚCI Lp. f (kHz) f (kHz) Przeznaczenie Użytkowanie 1 Poniżej 8,3 kHz (Nie przeznaczono)
+
 5.53 5.54 2 8,3 9,0 POMOCE METEOROLOGICZNE 5.54A cywilne 3 9,0 11,3 RADIONAWIGACJA cywilno-rządowe POMOCE METEOROLOGICZNE 5.54A cywilne 4 11,3 14,0 RADIONAWIGACJA cywilno-rządowe 5 14,00 19,95 STAŁA cywilno-rządowe RUCHOMA MORSKA 5.57 cywilno-rządowe
 5.56 6 19,95 20,05 WZORCOWY SYGNAŁ CZĘSTOTLIWOŚCI I CZASU (20 kHz) cywilne 7 20,05 70,00 STAŁA cywilno-rządowe RUCHOMA MORSKA 5.57 cywilno-rządowe
 5.56 8 70 72 RADIONAWIGACJA 5.60 rządowe 9 72 84 STAŁA cywilno-rządowe RUCHOMA MORSKA 5.57 cywilno-rządowe RADIONAWIGACJA 5.60 rządowe

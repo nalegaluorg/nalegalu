@@ -436,7 +436,7 @@ source: pdf
 - **5)** dane o niezdolności do samodzielnej egzystencji oraz okresie, na który została ustalona.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. W przypadku braku możliwości udostępnienia danych, o których mowa w ust. 1 albo 1a, powiatowe zespoły i wojewódzkie zespoły mogą korzystać z danych określonych w ust. 1 albo 1a w drodze pisemnej wymiany informacji. Podmioty wymienione w ust. 1 albo 1a przekazują te dane niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku powiatowego zespołu lub wojewódzkiego zespołu.”;
 
-- **5)** po art. 6b dodaje się art. 6b –6b w brzmieniu: „Art. 6b . 1. Decyzję ustalającą poziom potrzeby wsparcia wydaje wojewódzki zespół na wniosek osoby, o której mowa w art. 4b ust. 2, albo na wniosek podmiotu, o którym mowa w art. 6b ust. 1 i 2, dotyczący osoby, o której mowa w art. 4b ust. 2.
+- **5)** po art. 6b dodaje się art. 6b 3 –6b w brzmieniu: „Art. 6b . 1. Decyzję ustalającą poziom potrzeby wsparcia wydaje wojewódzki zespół na wniosek osoby, o której mowa w art. 4b ust. 2, albo na wniosek podmiotu, o którym mowa w art. 6b ust. 1 i 2, dotyczący osoby, o której mowa w art. 4b ust. 2.
 
 2. Kolejna decyzja ustalająca poziom potrzeby wsparcia, może zostać wydana na wniosek osoby, o której mowa w art. 4b ust. 2, albo wniosek podmiotu, o którym mowa w art. 6b ust. 1 i 2, dotyczący osoby, o której mowa w art. 4b ust. 2, złożony nie wcześniej niż 3 miesiące przed upływem terminu ważności posiadanej decyzji, z uwzględnieniem art. 6b ust. 1.
 

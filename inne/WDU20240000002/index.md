@@ -30,17 +30,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów, Fun
 1) rozporządzeniem Ministra Finansów z dnia 26 lipca 2022 r. zmieniającym rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1605);
 2) rozporządzeniem Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającym rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1303).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 114 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 listopada 2020 r. w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 2103), który stanowi: „§ 114. Towarzystwa prowadzące działalność na podstawie zezwolenia udzielonego przed dniem wejścia w życie niniejszego rozporządzenia są obowiązane do dostosowania prowadzonej działalności do § 3 ust. 1 pkt 7, w terminie do dnia 31 maja 2021 r.”;
-2) odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Finansów z dnia 26 lipca 2022 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1605), które stanowią: „ Niniejsze rozporządzenie:
-1) w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Komisji 2010/43/UE z dnia 1 lipca 2010 r.
-w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42 oraz Dz. Urz.
-UE L 277 z 02.08.2021, str. 141);
-2) wdraża dyrektywę delegowaną Komisji (UE) 2021/1270 z dnia 21 kwietnia 2021 r. zmieniającą dyrektywę 2010/43/UE w odniesieniu do ryzyk dla zrównoważonego rozwoju i czynników zrównoważonego rozwoju, które należy uwzględniać w przypadku przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 277 z 02.08.2021, str. 141).” „§ 2. Towarzystwa funduszy inwestycyjnych prowadzące działalność na podstawie zezwolenia udzielonego przed dniem wejścia w życie niniejszego rozporządzenia są obowiązane do dostosowania prowadzonej działalności do przepisów § 69a, § 76a i § 108 ust. 1 pkt 4a rozporządzenia zmienianego w § 1 oraz § 78 i § 88 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2022 r.”;
-3) § 2 i § 3 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1303), które stanowią: „§ 2. 1. Towarzystwo funduszy inwestycyjnych prowadzące działalność pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo w dniu wejścia w życie niniejszego rozporządzenia jest obowiązane do dostosowania prowadzonej działalności do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
-2. Przepisy § 52 ust. 2 oraz § 53 ust. 3a, 3b, ust. 4 pkt 5 i ust. 11 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się również w odniesieniu do jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo funduszy inwestycyjnych przed terminem na dostosowanie, o którym mowa w ust. 1, które są zbywane po tym terminie.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów: wz. A. Soboń ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 18 listopada 2020 r.
+1) § 114 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 listopada 2020 r. w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 2103), który stanowi: „ § 114. Towarzystwa prowadzące działalność na podstawie zezwolenia udzielonego przed dniem wejścia w życie niniejszego rozporządzenia są obowiązane do dostosowania prowadzonej działalności do § 3 ust. 1 pkt 7, w terminie do dnia 31 maja 2021 r.”;
+2) odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Finansów z dnia 26 lipca 2022 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1605), które stanowią: „ Niniejsze rozporządzenie: 1) w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 141); 2) wdraża dyrektywę delegowaną Komisji (UE) 2021/1270 z dnia 21 kwietnia 2021 r. zmieniającą dyrektywę 2010/43/UE w odniesieniu do ryzyk dla zrównoważonego rozwoju i czynników zrównoważonego rozwoju, które należy uwzględniać w przypadku przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 277 z 02.08.2021, str. 141).” „§ 2. Towarzystwa funduszy inwestycyjnych prowadzące działalność na podstawie zezwolenia udzielonego przed dniem wejścia w życie niniejszego rozporządzenia są obowiązane do dostosowania prowadzonej działalności do przepisów § 69a, § 76a i § 108 ust. 1 pkt 4a rozporządzenia zmienianego w § 1 oraz § 78 i § 88 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia. § 3. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2022 r.”;
+3) § 2 i § 3 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1303), które stanowią: „ § 2. 1. Towarzystwo funduszy inwestycyjnych prowadzące działalność pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo w dniu wejścia w życie niniejszego rozporządzenia jest obowiązane do dostosowania prowadzonej działalności do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia. 2. Przepisy § 52 ust. 2 oraz § 53 ust. 3a, 3b, ust. 4 pkt 5 i ust. 11 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się również w odniesieniu do jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo funduszy inwestycyjnych przed terminem na dostosowanie, o którym mowa w ust. 1, które są zbywane po tym terminie. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: wz. A. Soboń
+ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 18 listopada 2020 r.
 w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych Na podstawie art. 48a ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób, warunki i szczegółowy zakres działania systemu kontroli wewnętrznej, w tym systemu nadzoru zgodności działalności z prawem, systemu zarządzania ryzykiem oraz systemu audytu wewnętrznego w towarzystwie;
@@ -882,7 +875,51 @@ b) odmówiono udzielenia zezwolenia na prowadzenie działalności na rynku finan
 3. Polityka, o której mowa w ust. 1, podlega zatwierdzeniu przez zarząd i radę nadzorczą towarzystwa.
 § 114. (pominięty).
 § 115. Rozporządzenie wchodzi w życie z dniem 30 listopada 2020 r.
-Załączniki do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 listopada 2020 r. (poz. …) Załącznik nr 1 OBLICZANIE OBLICZANIE CAŁKOWITEJ CAŁKOWITEJ EKSPOZYCJI EKSPOZYCJI METODĄ METODĄ ZAANGAŻOWANIA ZAANGAŻOWANIA
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 System kontroli wewnętrznej
+
+##### Oddział 1 System nadzoru zgodności działalności z prawem
+
+##### Oddział 2 System audytu wewnętrznego
+
+##### Oddział 3 System zarządzania ryzykiem
+
+#### Rozdział 3 Konflikty interesów
+
+#### Rozdział 4 Działanie w najlepiej pojętym interesie funduszu inwestycyjnego otwartego i uczestników tego funduszu
+
+#### Rozdział 5 Tryb i warunki postępowania towarzystwa w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+##### Oddział 1 Kontakty z klientami w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych i specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+##### Oddział 2 Promowanie prowadzonej działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+##### Oddział 3 Prowadzenie przez towarzystwo działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+#### Rozdział 6 Ewidencja zawartych transakcji oraz ewidencja zleceń składanych przez uczestników funduszy inwestycyjnych otwartych
+
+#### Rozdział 7 Dokumentowanie źródeł będących podstawą decyzji inwestycyjnych oraz przechowywanie i archiwizowanie dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa
+
+#### Rozdział 8 Warunki techniczne i organizacyjne prowadzenia działalności
+
+#### Rozdział 9 Szczegółowe kryteria w zakresie spełniania wymogów posiadania odpowiedniej wiedzy i kompetencji lub wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania odpowiednich wymogów oraz ich utrzymywania i doskonalenia
+
+##### Oddział 1 Szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów posiadania odpowiedniej wiedzy i kompetencji
+
+##### Oddział 2 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób oraz osób, o których mowa w art. 45 ust. 4b ustawy
+
+##### Oddział 3 Szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia
+
+##### Oddział 4 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób
+
+#### Rozdział 10 Szczegółowe kryteria w zakresie spełniania wymogów przez członków zarządu i rady nadzorczej towarzystwa oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania tych wymogów oraz postępowania w zakresie ich utrzymywania i doskonalenia
+
+#### Rozdział 11 Przepis przejściowy i przepis końcowy
+
+## Załącznik nr 1 — OBLICZANIE OBLICZANIE CAŁKOWITEJ CAŁKOWITEJ EKSPOZYCJI EKSPOZYCJI METODĄ METODĄ ZAANGAŻOWANIA ZAANGAŻOWANIA
+
 § 1. Ilekroć w niniejszym załączniku jest mowa o:
 1) wartości referencyjnej instrumentu pochodnego - rozumie się przez to wyrażoną w walucie, w której są wyceniane aktywa funduszu inwestycyjnego otwartego, wartość nominalną instrumentu stanowiącego bazę instrumentu pochodnego lub wartość równoważną wartości nominalnej instrumentu stanowiącego bazę instrumentu pochodnego, wynikającą ze standardu instrumentu pochodnego (wystandaryzowane instrumenty pochodne) lub umowy (niewystandaryzowane instrumenty pochodne);
 2) duracji - rozumie się przez to jedną z dwóch miar ryzyka instrumentów opartych na stopie procentowej, stosowaną przez towarzystwo w odniesieniu do funduszu inwestycyjnego otwartego:
@@ -975,48 +1012,6 @@ c) kontrakt terminowy forward na stopę procentową (FRA): WR = wartość refere
 1) sumie wartości wszystkich kwot zaangażowania, o których mowa w § 4, po uwzględnieniu technik redukcji całkowitej ekspozycji;
 2) sumie wartości rynkowej papierów wartościowych, instrumentów rynku pieniężnego oraz środków pieniężnych, o których mowa w § 8;
 3) sumie wartości zaciągniętych pożyczek lub kredytów, w przypadku gdy towarzystwo nie skorzystało z wyłączenia, o którym mowa w § 17 ust. 2 rozporządzenia.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 System kontroli wewnętrznej
-
-##### Oddział 1 System nadzoru zgodności działalności z prawem
-
-##### Oddział 2 System audytu wewnętrznego
-
-##### Oddział 3 System zarządzania ryzykiem
-
-#### Rozdział 3 Konflikty interesów
-
-#### Rozdział 4 Działanie w najlepiej pojętym interesie funduszu inwestycyjnego otwartego i uczestników tego funduszu
-
-#### Rozdział 5 Tryb i warunki postępowania towarzystwa w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
-
-##### Oddział 1 Kontakty z klientami w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych i specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
-
-##### Oddział 2 Promowanie prowadzonej działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
-
-##### Oddział 3 Prowadzenie przez towarzystwo działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
-
-#### Rozdział 6 Ewidencja zawartych transakcji oraz ewidencja zleceń składanych przez uczestników funduszy inwestycyjnych otwartych
-
-#### Rozdział 7 Dokumentowanie źródeł będących podstawą decyzji inwestycyjnych oraz przechowywanie i archiwizowanie dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa
-
-#### Rozdział 8 Warunki techniczne i organizacyjne prowadzenia działalności
-
-#### Rozdział 9 Szczegółowe kryteria w zakresie spełniania wymogów posiadania odpowiedniej wiedzy i kompetencji lub wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania odpowiednich wymogów oraz ich utrzymywania i doskonalenia
-
-##### Oddział 1 Szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów posiadania odpowiedniej wiedzy i kompetencji
-
-##### Oddział 2 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób oraz osób, o których mowa w art. 45 ust. 4b ustawy
-
-##### Oddział 3 Szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia
-
-##### Oddział 4 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób
-
-#### Rozdział 10 Szczegółowe kryteria w zakresie spełniania wymogów przez członków zarządu i rady nadzorczej towarzystwa oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania tych wymogów oraz postępowania w zakresie ich utrzymywania i doskonalenia
-
-#### Rozdział 11 Przepis przejściowy i przepis końcowy
 
 ## Załącznik nr 2 — OBLICZANIE OBLICZANIE CAŁKOWITEJ CAŁKOWITEJ EKSPOZYCJI EKSPOZYCJI METODĄ METODĄ ABSOLUTNEJ ABSOLUTNEJ WARTOŚCI ZAGROŻONEJ WARTOŚCI ZAGROŻONEJ ORAZ ORAZ METODĄ METODĄ WZGLĘDNEJ WZGLĘDNEJ WARTOŚCI WARTOŚCI ZAGROŻONEJ ZAGROŻONEJ
 

@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkoln
 1) rozporządzeniem Ministra Edukacji i Nauki z dnia 18 kwietnia 2023 r. zmieniającym rozporządzenie w sprawie współczynników kosztochłonności (Dz. U. poz. 777);
 2) rozporządzeniem Ministra Nauki z dnia 4 kwietnia 2024 r. zmieniającym rozporządzenie w sprawie współczynników kosztochłonności (Dz. U. poz. 525).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 18 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie współczynników kosztochłonności (Dz. U. poz. 777), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2023 r.”;
-2) § 2 rozporządzenia Ministra Nauki z dnia 4 kwietnia 2024 r. zmieniającego rozporządzenie w sprawie współczynników kosztochłonności (Dz. U. poz. 525), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Nauki: D. Wieczorek ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 22 stycznia 2019 r.
+1) § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 18 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie współczynników kosztochłonności (Dz. U. poz. 777), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2023 r.”;
+2) § 2 rozporządzenia Ministra Nauki z dnia 4 kwietnia 2024 r. zmieniającego rozporządzenie w sprawie współczynników kosztochłonności (Dz. U. poz. 525), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Nauki: D. Wieczorek
+ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 22 stycznia 2019 r.
 w sprawie współczynników kosztochłonności Na podstawie art. 367 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r.
 poz. 742, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

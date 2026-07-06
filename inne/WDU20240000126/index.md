@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie zezwoleń na przejazd pojazdów nienormatywnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury z dnia 21 stycznia 2021 r. w sprawie zezwoleń na przejazd pojazdów nienormatywnych (Dz. U. poz. 212), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 25 października 2022 r. zmieniającym rozporządzenie w sprawie zezwoleń na przejazd pojazdów nienormatywnych (Dz. U. poz. 2270).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 25 października 2022 r. zmieniającego rozporządzenie w sprawie zezwoleń na przejazd pojazdów nienormatywnych (Dz. U. poz. 2270), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Infrastruktury: D. Klimczak ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 21 stycznia 2021 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 25 października 2022 r. zmieniającego rozporządzenie w sprawie zezwoleń na przejazd pojazdów nienormatywnych (Dz. U. poz. 2270), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Infrastruktury: D. Klimczak
+ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 21 stycznia 2021 r.
 w sprawie zezwoleń na przejazd pojazdów nienormatywnych Na podstawie art. 64i ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) warunki dystrybucji blankietów zezwoleń na przejazd pojazdu nienormatywnego, zwanych dalej „zezwoleniami”;

@@ -31,10 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2) rozporządzeniem Ministra Spraw Wewnętrznych z dnia 12 grudnia 2012 r. zmieniającym rozporządzenie w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych (Dz. U. poz. 1470);
 3) rozporządzeniem Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającym rozporządzenie w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych (Dz. U. poz. 1949).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 28 grudnia 2011 r. zmieniającego rozporządzenie w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych (Dz. U. Nr 295, poz. 1750), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 12 grudnia 2012 r. zmieniającego rozporządzenie w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych (Dz. U. poz. 1470), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2012 r.”;
-3) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych (Dz. U. poz. 1949), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.”.
-Minister Spraw Wewnętrznych: wz. P. Stachańczyk ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 27 września 2011 r.
+1) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 28 grudnia 2011 r. zmieniającego rozporządzenie w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych (Dz. U. Nr 295, poz. 1750), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 12 grudnia 2012 r. zmieniającego rozporządzenie w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych (Dz. U. poz. 1470), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2012 r.”;
+3) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych (Dz. U. poz. 1949), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.”. Minister Spraw Wewnętrznych: wz. P. Stachańczyk
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 27 września 2011 r.
 w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze weryfikacji danych Na podstawie art. 58 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2015 r. poz. 388) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób i tryb przeprowadzania kontroli korzystania z dostępu do danych za pomocą urządzeń teletransmisji danych w drodze weryfikacji;
@@ -73,7 +73,8 @@ w sprawie kontroli korzystania z dostępu do danych z rejestru PESEL w drodze we
 8. Odmowa podpisania protokołu przez kierownika kontrolowanego podmiotu lub osobę pełniącą jego obowiązki nie stanowi przeszkody do wystąpienia do ministra z wnioskiem, o którym mowa w § 10.
 § 10. W przypadku stwierdzenia niespełnienia warunków, o których mowa w art. 46 ust. 2 pkt 1 lub art. 48 ustawy z dnia 24 września 2010 r. o ewidencji ludności, w terminie 7 dni od dnia podpisania protokołu kontroli, kierownik zespołu kontrolnego występuje do ministra z wnioskiem o wydanie decyzji, o której mowa w art. 51 ust. 2 pkt 2 tej ustawy.
 § 11. Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2011 r.
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2011 r.
 
 ## Załącznik nr 1 — WZÓR UPOWAŻNIENIA DO PRZEPROWADZANIA KONTROLI WZÓR UPOWAŻNIENIA DO PRZEPROWADZANIA KONTROLI .............................., dnia ..............
 

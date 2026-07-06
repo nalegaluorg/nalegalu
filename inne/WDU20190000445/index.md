@@ -27,9 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie badań psychiatrycznych i psychologicznych osób ubiegających się lub posiadających pozwolenie na nabywanie oraz przechowywanie materiałów wybuchowych przeznaczonych do użytku cywilnego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 8 września 2003 r. w sprawie badań psychiatrycznych i psychologicznych osób ubiegających się lub posiadających pozwolenie na nabywanie oraz przechowywanie materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U. poz. 1536), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 14 września 2017 r. zmieniającym rozporządzenie w sprawie badań psychiatrycznych i psychologicznych osób ubiegających się lub posiadających pozwolenie na nabywanie oraz przechowywanie materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U. poz. 1791).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 14 września 2017 r. zmieniającego rozporządzenie w sprawie badań psychiatrycznych i psychologicznych osób ubiegających się lub posiadających pozwolenie na nabywanie oraz przechowywanie materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U. poz. 1791), które stanowią: „§ 2. Do postępowań w sprawach wydania orzeczenia lekarskiego lub psychologicznego, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: wz. J. Szczurek-Żelazko RoZpoRZądZenie mINIStra ZdrOWIa z dnia 8 września 2003 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 14 września 2017 r. zmieniającego rozporządzenie w sprawie badań psychiatrycznych i psychologicznych osób ubiegających się lub posiadających pozwolenie na nabywanie oraz przechowywanie materiałów wybuchowych przeznaczonych do użytku cywilnego (Dz. U. poz. 1791), które stanowią: „ § 2. Do postępowań w sprawach wydania orzeczenia lekarskiego lub psychologicznego, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. J. Szczurek-Żelazko
+RoZpoRZądZenie mINIStra ZdrOWIa z dnia 8 września 2003 r.
 w sprawie badań psychiatrycznych i psychologicznych osób ubiegających się lub posiadających pozwolenie na nabywanie oraz przechowywanie materiałów wybuchowych przeznaczonych do użytku cywilnego Na podstawie art. 13 ust. 4 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2019 r. poz. 45, 55 i 60) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) zakres badań psychiatrycznych i psychologicznych, którym są obowiązane poddać się osoby, o których mowa w art. 11 ust. 1 pkt 1 oraz art. 19 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego, zwanej dalej „ustawą”;
@@ -86,6 +85,8 @@ b) badanie psychologiczne – 160 zł;
 a) badanie psychiatryczne – 200 zł,
 b) badanie psychologiczne – 240 zł.
 § 12. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 września 2003 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 września 2003 r.
+
 WZÓR WZÓR WZÓR WZÓR
 

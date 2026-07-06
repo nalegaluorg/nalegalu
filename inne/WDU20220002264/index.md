@@ -27,9 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie rodzajów dokumentacji badań i orzeczeń psychologicznych, sposobu jej prowadzenia, przechowywania i udostępniania oraz wzorów stosowanych dokumentów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 14 lipca 2010 r. w sprawie rodzajów dokumentacji badań i orzeczeń psychologicznych, sposobu jej prowadzenia, przechowywania i udostępniania oraz wzorów stosowanych dokumentów (Dz. U. poz. 888), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 11 października 2019 r. zmieniającym rozporządzenie w sprawie rodzajów dokumentacji badań i orzeczeń psychologicznych, sposobu jej prowadzenia, przechowywania i udostępniania oraz wzorów stosowanych dokumentów (Dz. U. poz. 2127).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie rodzajów dokumentacji badań i orzeczeń psychologicznych, sposobu jej prowadzenia, przechowywania i udostępniania oraz wzorów stosowanych dokumentów (Dz. U. poz. 2127), które stanowią: „§ 2. Do dokumentacji badań, konsultacji i orzeczeń psychologicznych wydanych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 14 lipca 2010 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie rodzajów dokumentacji badań i orzeczeń psychologicznych, sposobu jej prowadzenia, przechowywania i udostępniania oraz wzorów stosowanych dokumentów (Dz. U. poz. 2127), które stanowią: „ § 2. Do dokumentacji badań, konsultacji i orzeczeń psychologicznych wydanych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 14 lipca 2010 r.
 w sprawie rodzajów dokumentacji badań i orzeczeń psychologicznych, sposobu jej prowadzenia, przechowywania i udostępniania oraz wzorów stosowanych dokumentów Na podstawie art. 11 ust. 5 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2022 r. poz. 437) zarządza się, co następuje:
 § 1. 1. Dokumentacja badań, konsultacji i orzeczeń psychologicznych, zwana dalej „dokumentacją”, obejmuje:
 1) dokumentację indywidualną, którą stanowią:
@@ -70,7 +69,9 @@ b) księga przeprowadzonych kontroli.
 § 6. 1. Udostępnienie dokumentacji następuje w sposób zapewniający zachowanie poufności i ochronę danych osobowych.
 2. Podmioty, o których mowa w art. 2 ust. 4 i art. 19 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy, otrzymują dokumenty do wglądu w siedzibie jednostki kontrolowanej.
 § 7. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 14 lipca 2010 r. (Dz. U. z 2022 r. poz. ….) Załącznik nr 1 WZÓR WZÓR .......................................................................... ….……………………..
+
+## Załącznik nr 1 — WZÓR WZÓR .......................................................................... ….……………………..
+
 SKIEROWANIE NA BADANIE PSYCHOLOGICZNE Działając na podstawie .…………………………………………………………………………………………..……… ……………………………..………………………………………………………………………………….………....… , kieruję: Pana/Panią ...........................................................................................................................................................
 numer PESEL (w przypadku osoby nieposiadającej numeru PESEL podać nazwę i numer dokumentu potwierdzającego tożsamość) …………............................................................................................................................
 zam. .......................................................................................................................................................................

@@ -27,11 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie dokumentacji prowadzonej przez podmioty prowadzące działalność w zakresie gier hazardowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 4 stycznia 2010 r. w sprawie dokumentacji prowadzonej przez podmioty prowadzące działalność w zakresie gier hazardowych (Dz. U. z 2018 r. poz. 632), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 28 grudnia 2018 r. zmieniającym rozporządzenie w sprawie dokumentacji prowadzonej przez podmioty prowadzące działalność w zakresie gier hazardowych (Dz. U. z 2019 r. poz. 26).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 28 grudnia 2018 r. zmieniającego rozporządzenie w sprawie dokumentacji prowadzonej przez podmioty prowadzące działalność w zakresie gier hazardowych (Dz. U. z 2019 r. poz. 26), które stanowią: „§ 2. Do dokumentacji, o której mowa w § 2 rozporządzenia zmienianego w § 1:
-1) prowadzonej przed dniem wejścia w życie niniejszego rozporządzenia,
-2) przedstawionej naczelnikowi urzędu celno-skarbowego przed dniem wejścia w życie niniejszego rozporządzenia, która nie została zarejestrowana i zabezpieczona urzędowo przed dniem wejścia w życie niniejszego rozporządzenia ̶̶̵ stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów: T. Kościński ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 stycznia 2010 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 28 grudnia 2018 r. zmieniającego rozporządzenie w sprawie dokumentacji prowadzonej przez podmioty prowadzące działalność w zakresie gier hazardowych (Dz. U. z 2019 r. poz. 26), które stanowią: „ § 2. Do dokumentacji, o której mowa w § 2 rozporządzenia zmienianego w § 1: 1) prowadzonej przed dniem wejścia w życie niniejszego rozporządzenia, 2) przedstawionej naczelnikowi urzędu celno-skarbowego przed dniem wejścia w życie niniejszego rozporządzenia, która nie została zarejestrowana i zabezpieczona urzędowo przed dniem wejścia w życie niniejszego rozporządzenia ̶̶̵ stosuje się przepisy dotychczasowe. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: T. Kościński
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 stycznia 2010 r.
 w sprawie dokumentacji prowadzonej przez podmioty prowadzące działalność w zakresie gier hazardowych Na podstawie art. 78 ust. 2 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2019 r. poz. 847 i 1495) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) warunki prowadzenia ksiąg:
@@ -72,7 +69,8 @@ b) rejestru napiwków w kasynie gry;
 2. Podmioty prowadzące działalność w zakresie gier hazardowych są obowiązane do uzupełnienia wpisów do ksiąg, o których mowa w § 5‒7, za okres od dnia 1 stycznia 2010 r. do dnia wejścia w życie rozporządzenia, w oparciu o posiadane dokumenty.
 3. Podmioty prowadzące działalność w zakresie gier hazardowych są obowiązane dostosować prowadzoną w dniu wejścia w życie rozporządzenia dokumentację, która nie jest zarejestrowana i zabezpieczona urzędowo pieczęciami przez właściwego naczelnika urzędu celnego, do wymogu określonego w § 4, w terminie 14 dni od dnia wejścia w życie rozporządzenia.
 § 12. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-Załączniki do rozporządzenia Ministra Finansów z dnia 4 stycznia 2010 r.
+
+## Załączniki do rozporządzenia Ministra Finansów z dnia 4 stycznia 2010 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR .............................................................
 

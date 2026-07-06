@@ -29,11 +29,8 @@ source: pdf
 1) ustawą z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228),
 2) ustawą z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 czerwca 2016 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), który stanowi: „Art. 191. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi w życie z dniem 1 stycznia 2013 r.”;
-2) art. 75 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), który stanowi: „Art. 75. Ustawa wchodzi w życie z dniem 4 marca 2016 r., z wyjątkiem:
-1) art. 2, art. 6 pkt 1, art. 7 pkt 3, art. 19 pkt 1 w zakresie prokuratora do spraw wojskowych,
-2) art. 3, art. 4 pkt 5–9, art. 6 pkt 2 lit. b i d, pkt 4, art. 9, art. 10, art. 13–16, art. 19 pkt 3, art. 20 pkt 10 lit. b i c, art. 21, art. 31–33, art. 45 § 3, art. 46, art. 50, art. 62 § 4, 6 i 7, art. 64 § 3, 5 i 6 oraz art. 66 – które wchodzą w życie z dniem 4 kwietnia 2016 r.”.
-Marszałek Sejmu: M. Kuchciński
+1) art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), który stanowi: „ Art. 191. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi w życie z dniem 1 stycznia 2013 r.”;
+2) art. 75 ustawy z dnia 28 stycznia 2016 r. – Przepisy wprowadzające ustawę – Prawo o prokuraturze (Dz. U. poz. 178), który stanowi: „ Art. 75. Ustawa wchodzi w życie z dniem 4 marca 2016 r., z wyjątkiem: 1) art. 2, art. 6 pkt 1, art. 7 pkt 3, art. 19 pkt 1 w zakresie prokuratora do spraw wojskowych, 2) art. 3, art. 4 pkt 5–9, art. 6 pkt 2 lit. b i d, pkt 4, art. 9, art. 10, art. 13–16, art. 19 pkt 3, art. 20 pkt 10 lit. b i c, art. 21, art. 31–33, art. 45 § 3, art. 46, art. 50, art. 62 § 4, 6 i 7, art. 64 § 3, 5 i 6 oraz art. 66 – które wchodzą w życie z dniem 4 kwietnia 2016 r.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 21 stycznia 1999 r.
 o sejmowej komisji śledczej
 

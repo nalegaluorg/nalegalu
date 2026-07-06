@@ -1563,8 +1563,10 @@ source: pdf
 
 **Art. 90.** Traci moc ustawa z dnia 24 kwietnia 1997 r. o przeciwdziałaniu narkomanii (Dz. U. z 2003 r. poz. 198 i 1143, z 2004 r. poz. 2390 oraz z 2005 r. poz. 1462).
 
-**Art. 91.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załączniki do ustawy z dnia 29 lipca 2005 r. (Dz. U. z 2023 r. poz.
+**Art. 91.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 
-- **1939)** Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony)
+## Załączniki do ustawy z dnia 29 lipca 2005 r.
 
+(Dz. U. z 2023 r. poz.
+1939) Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony)
 

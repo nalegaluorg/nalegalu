@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 19 stycznia 2018 r. w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia (Dz. U. poz. 190), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 29 stycznia 2020 r. zmieniającym rozporządzenie w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia (Dz. U. poz. 207).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 29 stycznia 2020 r. zmieniającego rozporządzenie w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia (Dz. U. poz. 207), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE mINIStrA ZDrOWIA z dnia 19 stycznia 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 29 stycznia 2020 r. zmieniającego rozporządzenie w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia (Dz. U. poz. 207), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
+ROZPORZĄDZENIE mINIStrA ZDrOWIA z dnia 19 stycznia 2018 r.
 w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia Na podstawie art. 73 ust. 11 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) zakres oraz tryb przeprowadzania badania lekarskiego w celu udzielenia urlopu dla poratowania zdrowia, zwanego dalej „badaniem lekarskim”;
@@ -44,7 +44,9 @@ w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania 
 § 5. 1. Wzór orzeczenia lekarskiego określa załącznik nr 2 do rozporządzenia.
 2. Orzeczenie lekarskie wydaje się w trzech egzemplarzach, z których jeden otrzymuje nauczyciel, drugi dyrektor szkoły, który skierował nauczyciela na badanie lekarskie, a trzeci jest dołączany do dokumentacji medycznej nauczyciela.
 § 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 19 stycznia 2018 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 19 stycznia 2018 r.
+
 WZÓR Załącznik nr 1 WZÓR .......................................... ................................
 Skierowanie na badanie lekarskie Działając na podstawie art. 73 ust. 10a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r.
 poz. 1762), kieruję na badanie lekarskie: Pana/Panią .....................................................................................................................................................................................

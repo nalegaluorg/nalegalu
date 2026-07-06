@@ -8,12 +8,10 @@ pos: 183
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o izbach rolniczych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 grudnia 2021 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o izbach rolniczych
 
 | Pole | Wartość |
 |---|---|
@@ -29,7 +27,6 @@ source: "isap-pdf"
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz. U. z 2018 r. poz. 1027), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw (Dz. U. poz. 1579) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 listopada 2021 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5–7 ustawy z dnia 8 lipca 2021 r. o zmianie ustawy o izbach rolniczych oraz niektórych innych ustaw (Dz. U. poz. 1579), które stanowią: „Art. 5. W latach 2021–2026 środki na dofinansowanie kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych odpowiednio w organizacjach, o których mowa w art. 35b ust. 1b ustawy zmienianej w art. 1, są ustalane w budżecie państwa w części, której dysponentem jest minister właściwy do spraw rolnictwa.
-Art. 50–55. (pominięte)
 
 **Art. 6.** W 2021 r. dofinansowywane są koszty związane z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych odpowiednio w organizacjach, o których mowa w art. 35b ust. 1b ustawy zmienianej w art. 1, poniesione od dnia 1 stycznia 2021 r.
 
@@ -91,7 +88,7 @@ Art. 50–55. (pominięte)
 - **16)** promowanie eksportu produktów rolnych;
 - **17)** rozwijanie współpracy z zagranicznymi organizacjami producentów rolnych;
 - **18)** współpraca z administracją publiczną w zakresie ochrony środowiska, zdrowia i wiejskiego dziedzictwa kulturowego;
-- **19)** przedstawianie opinii na temat oszacowania szkód, jeżeli został złożony wniosek, o którym mowa w art. 46d ust. 5 ustawy z dnia 13 października 1995 r. Prawo łowieckie (Dz. U. z 2020 r. poz. 1683 i 2320 oraz z 2021 r. poz. 1718 i 2112).
+- **19)** przedstawianie opinii na temat oszacowania szkód, jeżeli został złożony wniosek, o którym mowa w art. 46d ust. 5 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2020 r. poz. 1683 i 2320 oraz z 2021 r. poz. 1718 i 2112).
 
 2. Izby mogą wykonywać zadania zlecone z zakresu administracji rządowej, przekazane ustawami lub na podstawie porozumień z właściwymi organami administracji rządowej.
 
@@ -105,8 +102,8 @@ Art. 50–55. (pominięte)
 
 2. Termin do przedstawienia opinii, o której mowa w ust. 1, wynosi:
 
-- **1)** co najmniej 14 dni od dnia doręczenia projektu dla projektów przesłanych przez organy administracji rządowej w województwie;
-- **2)** 14 dni od dnia doręczenia projektu dla projektów przesłanych przez organy samorządu terytorialnego.
+- **1)** co najmniej 14 dni od dnia doręczenia projektu – dla projektów przesłanych przez organy administracji rządowej w województwie;
+- **2)** 14 dni od dnia doręczenia projektu – dla projektów przesłanych przez organy samorządu terytorialnego.
 
 3. Nieprzedstawienie przez izbę stanowiska w wyznaczonym terminie uważa się za akceptację przedłożonego projektu.
 
@@ -120,8 +117,8 @@ Art. 50–55. (pominięte)
 
 4. W postępowaniu administracyjnym organami wyższego stopnia są:
 
-- **1)** w sprawach z zakresu administracji rządowej wojewoda;
-- **2)** w sprawach z zakresu zadań własnych jednostek samorządu terytorialnego samorządowe kolegium odwoławcze.
+- **1)** w sprawach z zakresu administracji rządowej – wojewoda;
+- **2)** w sprawach z zakresu zadań własnych jednostek samorządu terytorialnego – samorządowe kolegium odwoławcze.
 
 **Art. 7.**
 
@@ -131,7 +128,7 @@ Art. 50–55. (pominięte)
 - **2)** może wyłącznie:
     - **a)** być wspólnikiem spółki z ograniczoną odpowiedzialnością lub akcjonariuszem spółki akcyjnej,
     - **b)** tworzyć fundacje,
-    - **c)** być członkiem wspierającym stowarzyszenia oraz założycielem lub członkiem związku stowarzyszeń które prowadzą działalność w zakresie zgodnym z ustawowymi i statutowymi zadaniami izby.
+    - **c)** być członkiem wspierającym stowarzyszenia oraz założycielem lub członkiem związku stowarzyszeń – które prowadzą działalność w zakresie zgodnym z ustawowymi i statutowymi zadaniami izby.
 
 2. Dochód izby z tytułu posiadania udziałów lub akcji w spółkach może być przeznaczony wyłącznie na realizację zadań ustawowych i statutowych izby.
 
@@ -219,6 +216,10 @@ Art. 50–55. (pominięte)
 
 **Art. 15.** W obradach walnego zgromadzenia mogą uczestniczyć bez prawa udziału w głosowaniu delegowani przedstawiciele:
 
+- **1)** organów samorządu województwa;
+- **2)** związków zawodowych rolników indywidualnych, mających struktury wojewódzkie zarejestrowane w sądzie właściwym dla związków zawodowych;
+- **3)** społeczno-zawodowych organizacji rolników, mających struktury wojewódzkie zarejestrowane w sądzie właściwym dla organizacji społeczno-zawodowych.
+
 **Art. 16.**
 
 1. Komisja rewizyjna składa się z 5 osób wybranych spośród członków walnego zgromadzenia.
@@ -257,6 +258,14 @@ Art. 50–55. (pominięte)
 8. W przypadku odwołania zarządu bez równoczesnego wyboru nowego zarządu dotychczasowy zarząd działa do czasu wyboru nowego zarządu.
 
 **Art. 19.** Do właściwości zarządu należą wszystkie sprawy izby niezastrzeżone ustawą lub statutem dla innych organów, a w szczególności:
+
+- **1)** przygotowywanie projektów uchwał walnego zgromadzenia;
+- **2)** opracowywanie projektów budżetu, wraz z planem finansowym;
+- **3)** przedstawianie walnemu zgromadzeniu do zatwierdzenia rocznych sprawozdań z działalności statutowej i finansowej;
+- **4)** podejmowanie uchwał w sprawach zaciągania kredytów i innych zobowiązań finansowych do wysokości ustalonej przez walne zgromadzenie;
+- **5)** ustalanie zasad wynagradzania pracowników biura izby oraz ustalanie wysokości wynagrodzenia dyrektora biura;
+- **6)** (uchylony)
+- **7)** podejmowanie czynności związanych z działalnością izby, o której mowa w art. 7 ust. 1 pkt 2.
 
 **Art. 20.**
 
@@ -463,14 +472,14 @@ Art. 50–55. (pominięte)
 1a. Koszty związane z uczestnictwem:
 
 - **1)** izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników, w tym rolniczych spółdzielni produkcyjnych i pracodawców rolnych, w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej,
-- **2)** Krajowej Rady Spółdzielczej, działającej na podstawie ustawy z dnia 16 września 1982 r. Prawo spółdzielcze (Dz. U. z 2021 r. poz. 648) w Głównym Komitecie Spółdzielczości Rolniczej (COGECA),
-- **3)** stowarzyszeń zrzeszających młodych rolników w Europejskiej Radzie Młodych Rolników (CEJA) są w latach 2015–2020 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.
+- **2)** Krajowej Rady Spółdzielczej, działającej na podstawie ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2021 r. poz. 648) w Głównym Komitecie Spółdzielczości Rolniczej (COGECA),
+- **3)** stowarzyszeń zrzeszających młodych rolników w Europejskiej Radzie Młodych Rolników (CEJA) – są w latach 2015–2020 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.
 
 1b. Koszty związane z uczestnictwem:
 
 - **1)** izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej,
 - **2)** stowarzyszeń zrzeszających młodych rolników w Europejskiej Radzie Młodych Rolników (CEJA),
-- **3)** organizacji pracodawców zrzeszających pracodawców rolnych w Grupie Pracodawców Rolniczych Organizacji Zawodowych Unii Europejskiej (GEOPA) są w latach 2021–2026 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.
+- **3)** organizacji pracodawców zrzeszających pracodawców rolnych w Grupie Pracodawców Rolniczych Organizacji Zawodowych Unii Europejskiej (GEOPA) – są w latach 2021–2026 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.
 
 2. Dofinansowania udziela się, na wniosek, Krajowej Radzie Izb Rolniczych, na podstawie umowy zawartej między Krajową Radą Izb Rolniczych a ministrem właściwym do spraw rolnictwa.
 
@@ -507,20 +516,20 @@ Art. 50–55. (pominięte)
 
 - **1)** szczegółowy zakres i tryb udzielania oraz sposób rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w organizacjach, o których mowa w ust. 1,
 - **2)** konieczne elementy umowy o udzielenie dofinansowania kosztów, o których mowa w ust. 1,
-- **3)** konieczne elementy informacji, o której mowa w ust. 4a mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych.
+- **3)** konieczne elementy informacji, o której mowa w ust. 4a – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych.
 
 6. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres i tryb udzielania oraz sposób rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej oraz stowarzyszeń zrzeszających młodych rolników w organizacjach, o których mowa w ust. 1a,
 - **2)** konieczne elementy umowy o udzielenie dofinansowania kosztów, o których mowa w ust. 1a,
-- **3)** konieczne elementy informacji, o której mowa w ust. 4a mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w organizacjach, o których mowa w ust. 1a, w wysokości co najmniej 95% kosztów.
+- **3)** konieczne elementy informacji, o której mowa w ust. 4a – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w organizacjach, o których mowa w ust. 1a, w wysokości co najmniej 95% kosztów.
 
 7. Rada Ministrów określi, w drodze rozporządzenia:
 
 - **1)** szczegółowy zakres i sposób udzielania oraz rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b,
 - **2)** wysokość dofinansowania,
 - **3)** sposób przekazywania środków finansowych z tytułu udzielenia dofinansowania,
-- **4)** elementy informacji, o której mowa w ust. 4b, oraz tryb opracowania tej informacji mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b, a także biorąc pod uwagę wysokość limitu środków finansowych na udzielenie dofinansowania z budżetu państwa w formie dotacji celowej oraz to, że w przypadku dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w tych organizacjach dofinansowanie to wynosi co najmniej 95% tych kosztów.
+- **4)** elementy informacji, o której mowa w ust. 4b, oraz tryb opracowania tej informacji – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b, a także biorąc pod uwagę wysokość limitu środków finansowych na udzielenie dofinansowania z budżetu państwa w formie dotacji celowej oraz to, że w przypadku dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w tych organizacjach dofinansowanie to wynosi co najmniej 95% tych kosztów.
 
 **Art. 35c.**
 
@@ -539,6 +548,12 @@ Art. 50–55. (pominięte)
 3. W skład Krajowej Rady wchodzą prezesi izb oraz wybrani przez walne zgromadzenie delegaci po jednym z każdej izby.
 
 **Art. 38.** Do zadań Krajowej Rady należy w szczególności:
+
+- **1)** reprezentowanie izb przed Sejmem, Senatem i organami administracji rządowej, z wyłączeniem administracji rządowej w województwie;
+- **2)** opiniowanie projektów aktów prawnych dotyczących rolnictwa i gospodarki żywnościowej oraz założeń i programów polityki rolnej;
+- **3)** przedstawianie właściwym organom, o których mowa w pkt 1, oraz organom samorządu terytorialnego wniosków w sprawie sytuacji w rolnictwie oraz inicjatyw w zakresie regulacji prawnych;
+- **4)** udzielanie izbom pomocy w wykonywaniu ich zadań;
+- **5)** zarządzanie wyborów do walnych zgromadzeń izb.
 
 **Art. 39.**
 
@@ -610,7 +625,7 @@ Art. 50–55. (pominięte)
 
 **Art. 47.**
 
-1. Nadzór nad działalnością Krajowej Rady sprawuje minister właściwy do spraw rolnictwa, a nad działalnością izb właściwi wojewodowie.
+1. Nadzór nad działalnością Krajowej Rady sprawuje minister właściwy do spraw rolnictwa, a nad działalnością izb – właściwi wojewodowie.
 
 2. Nadzór nad gospodarką izb w zakresie wykorzystania środków przekazanych na realizację zadań zleconych sprawuje organ zlecający te zadania.
 
@@ -627,6 +642,8 @@ Art. 50–55. (pominięte)
 **Art. 49.** W razie powtarzającego się naruszania prawa przez zarząd izby, minister właściwy do spraw rolnictwa może zwołać, na wniosek wojewody, walne zgromadzenie w celu rozpatrzenia jego wniosku o odwołanie zarządu i powołanie nowego zarządu.
 
 #### Rozdział 8 Przepisy szczególne, przejściowe i końcowe
+
+**Art. 50–55.** (pominięte)
 
 **Art. 56.**
 

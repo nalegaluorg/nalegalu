@@ -29,14 +29,8 @@ source: pdf
 1) ustawą z dnia 6 października 2022 r. o zmianie ustaw w celu przeciwdziałania lichwie (Dz. U. poz. 2339),
 2) ustawą z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 maja 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 14 ustawy z dnia 6 października 2022 r. o zmianie ustaw w celu przeciwdziałania lichwie (Dz. U. poz. 2339), który stanowi: „Art. 14. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1, art. 2, art. 4, art. 6 oraz art. 7 pkt 1, 3–7, 10 i 11, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
-2) art. 7 pkt 13, który wchodzi w życie z dniem 1 stycznia 2024 r.”;
-2) art. 76 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r.
-poz. 146), który stanowi: „Art. 76. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 65, art. 67 i art. 75, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 61 pkt 2 i art. 68, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+1) art. 14 ustawy z dnia 6 października 2022 r. o zmianie ustaw w celu przeciwdziałania lichwie (Dz. U. poz. 2339), który stanowi: „ Art. 14. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem: 1) art. 1, art. 2, art. 4, art. 6 oraz art. 7 pkt 1, 3–7, 10 i 11, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia; 2) art. 7 pkt 13, który wchodzi w życie z dniem 1 stycznia 2024 r.”;
+2) art. 76 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146), który stanowi: „ Art. 76. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 65, art. 67 i art. 75, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 61 pkt 2 i art. 68, które wchodzą w życie po upływie 2 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 23 marca 2017 r.
 o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami
 
@@ -572,7 +566,7 @@ o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i 
 
 7. Rekompensata nie może być wyższa niż koszty kredytodawcy bezpośrednio związane z przedterminową spłatą.
 
-**Art. 41.** W przypadku kredytów hipotecznych, dla których uzgodniono stałą stopę oprocentowania kredytu hipotecznego w danym okresie, przepisów art. 359 § 2 –2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny o odsetkach maksymalnych nie stosuje się w tym okresie, jednakże kredytodawca jest obowiązany przestrzegać tych przepisów w chwili ustalania wysokości odsetek oraz zawierania umowy o kredyt hipoteczny.
+**Art. 41.** W przypadku kredytów hipotecznych, dla których uzgodniono stałą stopę oprocentowania kredytu hipotecznego w danym okresie, przepisów art. 359 § 2 1 –2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny o odsetkach maksymalnych nie stosuje się w tym okresie, jednakże kredytodawca jest obowiązany przestrzegać tych przepisów w chwili ustalania wysokości odsetek oraz zawierania umowy o kredyt hipoteczny.
 
 #### Rozdział 6 Odstąpienie od umowy o kredyt hipoteczny przez konsumenta
 

@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Bu
 1) rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającym rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. z 2018 r. poz. 28);
 2) rozporządzeniem Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającym rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 788).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. z 2018 r. poz. 28), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 788), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r.”.
-Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 19 listopada 2013 r.
+1) § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 28 grudnia 2017 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. z 2018 r. poz. 28), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Infrastruktury z dnia 19 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie obsługi naziemnej w portach lotniczych (Dz. U. poz. 788), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r.”. Minister Infrastruktury: A. Adamczyk
+ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 19 listopada 2013 r.
 w sprawie obsługi naziemnej w portach lotniczych Na podstawie art. 182 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) szczegółowy wykaz rodzajów usług w poszczególnych kategoriach usług obsługi naziemnej, o których mowa w art. 176 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;

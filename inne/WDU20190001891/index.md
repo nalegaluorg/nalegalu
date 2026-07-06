@@ -28,9 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zwrotu akcyzy od samochodu osobowego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 24 lutego 2009 r. w sprawie zwrotu akcyzy od samochodu osobowego (Dz. U. z 2018 r.
 poz. 174), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 10 września 2018 r. zmieniającym rozporządzenie w sprawie zwrotu akcyzy od samochodu osobowego (Dz. U. poz. 1776).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 10 września 2018 r. zmieniającego rozporządzenie w sprawie zwrotu akcyzy od samochodu osobowego (Dz. U. poz. 1776), które stanowią: „§ 2. Do postępowań w sprawach zwrotu akcyzy od samochodu osobowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem 19 września 2018 r.”.
-Minister Finansów: wz. M. Morawiecki ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 24 lutego 2009 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 10 września 2018 r. zmieniającego rozporządzenie w sprawie zwrotu akcyzy od samochodu osobowego (Dz. U. poz. 1776), które stanowią: „ § 2. Do postępowań w sprawach zwrotu akcyzy od samochodu osobowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe. § 3. Rozporządzenie wchodzi w życie z dniem 19 września 2018 r.”. Minister Finansów: wz. M. Morawiecki
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 24 lutego 2009 r.
 w sprawie zwrotu akcyzy od samochodu osobowego Na podstawie art. 107 ust. 6 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, 1123, 1495, 1501, 1520 i 1556) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) szczegółowe warunki i tryb zwrotu akcyzy od samochodu osobowego;

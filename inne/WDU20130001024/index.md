@@ -34,7 +34,9 @@ b) zmiany danych w zakresie objętym wnioskiem o wpis do rejestru operatorów po
 c) zawieszenia albo zakończenia wykonywania działalności pocztowej – stanowiący załącznik nr 2 do rozporządzenia.
 § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Administracji i Cyfryzacji: M. Boni Minister Administracji i Cyfryzacji kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Administracji i Cyfryzacji (Dz. U. Nr 248, poz. 1479).
-Załączniki do rozporządzenia z dnia … (poz. …) Załączniki do rozporządzenia Ministra Administracji i Cyfryzacji z dnia 26 lipca Załącznik 2013 r. (poz. nr 1024) 1 Załącznik nr 1 WZÓR WZÓR PREZES URZĘDU KOMUNIKACJI ELEKTRONICZNEJ …..….………………………………………….
+
+## Załącznik nr 2013 — r. (poz. nr 1024) 1 Załącznik nr 1 WZÓR WZÓR PREZES URZĘDU KOMUNIKACJI ELEKTRONICZNEJ …..….………………………………………….
+
 (adres urzędu) WNIOSEK O WPIS DO REJESTRU OPERATORÓW POCZTOWYCH A. DANE WNIOSKODAWCY
 1. Firma przedsiębiorcy
 2. Siedziba i adres przedsiębiorcy albo miejsce zamieszkania przedsiębiorcy i adres głównego miejsca wykonywania działalności pocztowej

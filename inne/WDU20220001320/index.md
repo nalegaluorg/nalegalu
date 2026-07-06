@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 14 grudnia 2015 r. w sprawie odpadów promieniotwórczych i wypalonego paliwa jądrowego (Dz. U. poz. 2267), z uwzględnieniem zmian wprowadzonych:
 1) obwieszczeniem Prezesa Rady Ministrów z dnia 15 stycznia 2016 r. o sprostowaniu błędów (Dz. U. poz. 94);
 2) rozporządzeniem Rady Ministrów z dnia 10 marca 2021 r. zmieniającym rozporządzenie w sprawie odpadów promieniotwórczych i wypalonego paliwa jądrowego (Dz. U. poz. 663).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 1 oraz § 2 rozporządzenia Rady Ministrów z dnia 10 marca 2021 r. zmieniającego rozporządzenie w sprawie odpadów promieniotwórczych i wypalonego paliwa jądrowego (Dz. U. poz. 663), które stanowią: „ Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80).” „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 14 grudnia 2015 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 1 oraz § 2 rozporządzenia Rady Ministrów z dnia 10 marca 2021 r. zmieniającego rozporządzenie w sprawie odpadów promieniotwórczych i wypalonego paliwa jądrowego (Dz. U. poz. 663), które stanowią: „ Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80).” „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 14 grudnia 2015 r.
 w sprawie odpadów promieniotwórczych i wypalonego paliwa jądrowego Na podstawie art. 57a ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 1941 oraz z 2022 r.
 poz. 974) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
@@ -209,7 +209,6 @@ c) wysokoaktywnych, po 28 dniach ługowania w warunkach statycznych, nie może p
 3) informację o kategorii i podkategorii odpadu promieniotwórczego.
 § 39. Przepisów § 32 nie stosuje się do Krajowego Składowiska Odpadów Promieniotwórczych eksploatowanego w dniu wejścia w życie rozporządzenia.
 § 40. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Rady Ministrów z dnia 14 grudnia 2015 r.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -224,6 +223,8 @@ Załączniki do rozporządzenia Rady Ministrów z dnia 14 grudnia 2015 r.
 #### Rozdział 6 Szczegółowe wymagania w zakresie przygotowania odpadów promieniotwórczych do składowania
 
 #### Rozdział 7 Przepis przejściowy i końcowy
+
+## Załączniki do rozporządzenia Rady Ministrów z dnia 14 grudnia 2015 r.
 
 ## Załącznik nr 1 — WARTOŚCI AKTYWNOŚCI I STĘŻENIA PROMIENIOTWÓRCZEGO IZOTOPÓW PROMIENIOTWÓRCZYCH STANOWIĄCE PODSTAWĘ KWALIFIKOWANIA ODPADÓW PROMIENIOTWÓRCZYCH DO KATEGORII ODPADÓW WARTOŚCI PROMIENIOTWÓRCZYCH AKTYWNOŚCI I STĘŻENIA I PODKATEGORII PROMIENIOTWÓRCZEGO ZUŻYTYCH IZOTOPÓW ZAMKNIĘTYCH PROMIENIOTWÓRCZYCH ŹRÓDEŁ STANOWIĄCE PODSTAWĘ KWALIFIKOWANIA ODPADÓW PROMIENIOTWÓRCZYCH DO KATEGORII ODPADÓW PROMIENIOTWÓRCZYCH PROMIENIOTWÓRCZYCH I PODKATEGORII ZUŻYTYCH ZAMKNIĘTYCH ŹRÓDEŁ PROMIENIOTWÓRCZYCH 2 3 4 5 6 7 Objaśnienia: Izotopy promieniotwórcze opatrzone wskaźnikiem „+” lub „nat” oznaczają izotopy promieniotwórcze macierzyste znajdujące się w stanie równowagi wiekowej ze swymi pochodnymi. W takich przypadkach wartości aktywności i stężenia promieniotwórczego odnoszą się do izotopów promieniotwórczych macierzystych, uwzględniając również obecność izotopów promieniotwórczych pochodnych.
 

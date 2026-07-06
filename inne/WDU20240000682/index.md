@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska obszaru ochrony siedlisk Ostoja Sobkowsko-Korytnicka (PLH260032)
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia rządzenia Ministra Klimatu i Środowiska z dnia 13 kwietnia 2022 r. w sprawie specjalnego obszaru Sobkowsko-Korytnicka (PLH260032) (Dz. U. poz. 1182), z uwzględnieniem zmiany wprowadzonej Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmieniającym rozporządzenie w sprawie ochrony siedlisk Ostoja Sobkowsko-Korytnicka (PLH260032) (Dz. U. poz. 1968).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Ostoja Sobkowsko-Korytnicka (PLH260032) (Dz. U. poz. 1968), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 13 kwietnia 2022 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmieniającego rozporządzenie w sprawie ochrony siedlisk Ostoja Sobkowsko-Korytnicka (PLH260032) (Dz. U. poz. 1968), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska:
+ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 13 kwietnia 2022 r.
 w sprawie specjalnego obszaru ochrony siedlisk Ostoja Sobkowsko-Korytnicka Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
 i 1890) zarządza się, co następuje:
 § 1. 1. Wyznacza się specjalny obszar ochrony siedlisk Ostoja Sobkowsko-Korytnicka obszar 2204,05 ha, położony w województwie świętokrzyskim, składający się z pięciu powiązanych

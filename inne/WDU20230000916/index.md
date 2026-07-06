@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 1) rozporządzeniem Ministra Zdrowia z dnia 10 czerwca 2022 r. zmieniającym rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych (Dz. U. poz. 1433);
 2) rozporządzeniem Ministra Zdrowia z dnia 24 czerwca 2022 r. zmieniającym rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych (Dz. U. poz. 1366).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Zdrowia z dnia 10 czerwca 2022 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych (Dz. U. poz. 1433), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.”;
-2) § 2 rozporządzenia Ministra Zdrowia z dnia 24 czerwca 2022 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych (Dz. U. poz. 1366), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 6 listopada 2013 r.
+1) § 2 rozporządzenia Ministra Zdrowia z dnia 10 czerwca 2022 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych (Dz. U. poz. 1433), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.”;
+2) § 2 rozporządzenia Ministra Zdrowia z dnia 24 czerwca 2022 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych (Dz. U. poz. 1366), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 6 listopada 2013 r.
 w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770 oraz z 2023 r. poz. 605, 650 i 658) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) wykaz oraz warunki realizacji świadczeń gwarantowanych z zakresu programów zdrowotnych, zwanych dalej „świadczeniami gwarantowanymi”;

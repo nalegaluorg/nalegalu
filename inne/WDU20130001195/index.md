@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra spraw wewnętrznych i administracji w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania „Odznaki straży Granicznej”
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 marca 1997 r. w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania „Odznaki Straży Granicznej” (Dz. U. Nr 38, poz. 233), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych z dnia 13 kwietnia 2012 r.
 zmieniającym rozporządzenie w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania „Odznaki Straży Granicznej” (Dz. U. poz. 453).
-2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 13 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania „Odznaki Straży Granicznej” (Dz. U. poz. 453), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Spraw Wewnętrznych: wz. P. Stachańczyk rOzpOrzĄDzenie Ministra spraw wewnętrznych i aDMinistracJi z dnia 17 marca 1997 r.
+2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 13 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania „Odznaki Straży Granicznej” (Dz. U. poz. 453), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych: wz. P. Stachańczyk
+rOzpOrzĄDzenie Ministra spraw wewnętrznych i aDMinistracJi z dnia 17 marca 1997 r.
 w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania „Odznaki straży Granicznej” Na podstawie art. 7a pkt 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm. ) zarządza się, co następuje:
 § 1. Ustanawia się „Odznakę Straży Granicznej”, zwaną dalej „odznaką”.
 § 2. Odznaka stanowi wyróżnienie i może być nadawana funkcjonariuszom Straży Granicznej w uznaniu:
@@ -53,7 +53,9 @@ w sprawie określenia wzoru oraz szczegółowych zasad i trybu nadawania „Odzn
 § 9. W razie zgubienia lub zniszczenia odznaki albo legitymacji stwierdzającej jej nadanie, wydaje się wtórny egzemplarz za zwrotem kosztów.
 § 10. Koszty związane z nadaniem odznaki pokrywane są z budżetu państwa w części dotyczącej Straży Granicznej.
 § 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 marca 1997 r.
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 marca 1997 r.
+
 WZÓR WZÓR WNIOSEK O NADANIE „ODZNAKI STRAŻY GRANICZNEJ”
 1. Nr ewidencyjny PESEL 2. NAZWISKO 3. IMIONA
 4. Data urodzenia 5. Miejscowość urodzenia 6. Imię ojca ……………. ……………. …………….

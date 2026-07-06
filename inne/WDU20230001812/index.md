@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 1) rozporządzeniem Ministra Zdrowia z dnia 18 sierpnia 2022 r. zmieniającym rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 1795);
 2) rozporządzeniem Ministra Zdrowia z dnia 17 lipca 2023 r. zmieniającym rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 1499).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Zdrowia z dnia 18 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 1795), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.”;
-2) § 2 rozporządzenia Ministra Zdrowia z dnia 17 lipca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 1499), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 18 czerwca 2021 r.
+1) § 2 rozporządzenia Ministra Zdrowia z dnia 18 sierpnia 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 1795), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.”;
+2) § 2 rozporządzenia Ministra Zdrowia z dnia 17 lipca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 1499), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 18 czerwca 2021 r.
 w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu Na podstawie art. 112 ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605 i 650) zarządza się, co następuje:
 § 1. Głównemu Inspektoratowi Farmaceutycznemu nadaje się statut, stanowiący załącznik do rozporządzenia.
 § 2. Traci moc rozporządzenie Ministra Zdrowia z dnia 14 lipca 2009 r. w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 973).

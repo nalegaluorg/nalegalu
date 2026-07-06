@@ -1539,5 +1539,9 @@ source: pdf
 
 **Art. 61.** Przepisy wykonawcze wydane na podstawie art. 286 ust. 3 ustawy zmienianej w art. 56 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 286 ust. 6 ustawy zmienianej w art. 56 .
 
-**Art. 62.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 56 pkt 7, 7a i 10a, które wchodzą w życie z dniem 1 stycznia 2019 r. Załączniki do ustawy z dnia 17 2009 r. (Dz. U. z 2026 r. poz. 526) Załącznik Załącznik Załącznik
+**Art. 62.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 56 pkt 7, 7a i 10a, które wchodzą w życie z dniem 1 stycznia 2019 r.
+
+## Załączniki do ustawy z dnia 17 2009 r.
+
+(Dz. U. z 2026 r. poz. 526) Załącznik Załącznik Załącznik
 

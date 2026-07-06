@@ -24,289 +24,9 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1997-06-20 |
 | Data wydania | 1997-08-19 |
-| Ostatnia zmiana | 2026-06-08 |
+| Wejście w życie | 1998-01-01 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/602/text.pdf) |
-
-2. Zezwolenie, o którym mowa w ust. 1, wydaje, w drodze decyzji, organ zarządzający ruchem na drodze, na której planuje się przeprowadzenie prac badawczych, na pisemny wniosek organizatora prac badawczych.
-3. Wniosek, o którym mowa w ust. 2, zawiera w szczególności:
-1) imię, nazwisko lub firmę (nazwę) oraz adres zamieszkania lub siedziby organizatora prac badawczych;
-2) informację o miejscu i dacie rozpoczęcia oraz zakończenia prac badawczych;
-3) planowany przebieg trasy, po której będzie poruszał się pojazd autonomiczny;
-4) wykaz osób odpowiedzialnych za zabezpieczenie trasy pojazdu autonomicznego;
-5) podpis organizatora prac badawczych lub jego przedstawiciela.
-4. Do wniosku, o którym mowa w ust. 2, dołącza się:
-1) dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej organizatora prac badawczych za szkody powstałe w związku z prowadzeniem prac badawczych związanych z prowadzeniem pojazdów autonomicznych, która wchodzi w życie w przypadku uzyskania pozwolenia na prowadzenie prac badawczych;
-2) dowód opłacenia składki za to ubezpieczenie;
-3) kopię decyzji o profesjonalnej rejestracji pojazdów wydanej na podstawie art.
-80t ust. 2.
-5. Organ, o którym mowa w ust. 2, konsultuje z mieszkańcami gminy, na terenie której prowadzone będą prace badawcze, wniosek o przeprowadzenie prac badawczych, zamieszczając ten wniosek na swojej stronie internetowej i wyznaczając termin na zgłaszanie uwag. Termin ten nie może być krótszy niż 7 dni. W toku konsultacji właściciel nieruchomości położonej wzdłuż planowanej trasy, po której będzie poruszał się pojazd autonomiczny, może zgłosić sprzeciw.
-6. Organ, o którym mowa w ust. 2, wydaje zezwolenie, o którym mowa w ust. 1, po:
-1) uzyskaniu zgody właściwego zarządcy drogi, na której planuje się przeprowadzenie prac badawczych, oraz
-2) zasięgnięciu opinii właściwego ze względu na miejsce prowadzenia prac badawczych komendanta wojewódzkiego Policji dotyczącej wpływu badań na płynność ruchu po planowanej trasie, po której będzie poruszał się pojazd autonomiczny.] <Art. 65l. 1. Prowadzenie prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi w ruchu drogowym na drogach publicznych, zwanych dalej „pracami badawczymi”, jest możliwe pod warunkiem stosowania zasad ruchu drogowego, zapewnienia bezpieczeństwa ruchu drogowego oraz uzyskania zezwolenia na prowadzenie prac badawczych.
-2. Ustala się sześć poziomów automatyzacji, określonych w załączniku nr 3 do ustawy, w tym poziom „0” jako najniższy poziom automatyzacji i poziom „5” jako najwyższy poziom automatyzacji.
-3. Zezwolenia, o którym mowa w ust. 1, nie wymaga się w przypadku prowadzenia prac badawczych nad pojazdami zautomatyzowanymi o poziomie automatyzacji niższym niż poziom „3”, o którym mowa w załączniku nr 3 do ustawy.
-4. Pojazdy zautomatyzowane lub pojazdy w pełni zautomatyzowane stanowią pojazdy badawcze, wykorzystywane wyłącznie do prowadzenia działalności badawczo-rozwojowej w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r.
-poz. 278, z późn. zm. ) i nie podlegają dalszej odsprzedaży.
-5. Zezwolenie, o którym mowa w ust. 1, wydaje za opłatą Krajowy Koordynator Prac Badawczych, w drodze decyzji administracyjnej, na pisemny wniosek organizatora prac badawczych.
-6. Zezwolenie, o którym mowa w ust. 1, określa warunki prowadzenia prac badawczych na obszarach położonych na terenie nie więcej niż pięciu województw.
-7. Zezwolenie, o którym mowa w ust. 1, wydaje się na okres nie dłuższy niż 3 lata. Okres ten może zostać skrócony w trakcie obowiązywania zezwolenia, jeżeli ulegną zmianie warunki określone w zezwoleniu, cel i zakres prac badawczych oraz analiza zagrożeń i ocena ryzyka, o których mowa w ust. 11 pkt 6 i ust. 13 pkt 4. W przypadku, o którym mowa w zdaniu drugim, Krajowy Koordynator Prac Badawczych stwierdza, w drodze decyzji administracyjnej, wygaśnięcie zezwolenia.
-8. Zezwolenie, o którym mowa w ust. 1, podlega zmianie za opłatą, na pisemny wniosek organizatora prac badawczych, w drodze decyzji administracyjnej, w zakresie danych i informacji, o których mowa w ust. 11 pkt 4, 5 i 7, oraz dokumentów, o których mowa w ust. 13 pkt 1–3, przy czym zmiana danych, o których mowa w ust. 11 pkt 7, może dotyczyć także zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi będą prowadzone prace badawcze. W przypadku zastąpienia pojazdów lub zgłoszenia dodatkowych pojazdów, w liczbie nie większej niż 7, w okresie ważności zezwolenia, organizator prac badawczych przekazuje Krajowemu Koordynatorowi Prac Badawczych, najpóźniej 7 dni przed rozpoczęciem prac badawczych z udziałem tych pojazdów, informację o liczbie nowych pojazdów oraz ich dane, o których mowa w ust. 11 pkt 7, oraz dokumenty, o których mowa w ust. 14 pkt 1–9, bez potrzeby składania wniosku o zmianę zezwolenia oraz uiszczania opłaty.
-W takim przypadku nie wydaje się decyzji administracyjnej o zmianie zezwolenia.
-9. Krajowy Koordynator Prac Badawczych prowadzi kontrolę prac badawczych w zakresie zgodności prowadzonych prac badawczych z wydanym zezwoleniem.
-10. Do obowiązków Krajowego Koordynatora Prac Badawczych należy:
-1) wydawanie zezwoleń, o których mowa w ust. 1, i decyzji administracyjnych o stwierdzeniu wygaśnięcia tego zezwolenia oraz decyzji administracyjnych o odmowie wydania, zmianie, cofnięciu lub zawieszeniu tego zezwolenia;
-2) prowadzenie rejestru zezwoleń, o których mowa w ust. 1, w formie elektronicznej, zawierającego:
-a) imię i nazwisko albo firmę (nazwę) organizatora prac badawczych,
-b) okres, na jaki zostało wydane zezwolenie,
-c) obszar prac badawczych,
-d) cel i zakres prac badawczych;
-3) podawanie do publicznej wiadomości, przez opublikowanie na stronie internetowej Krajowego Koordynatora Prac Badawczych, informacji o wydanych zezwoleniach i o okresach prowadzonych prac badawczych oraz o obszarze, lokalizacji i drogach, na których będą prowadzone prace badawcze;
-4) monitorowanie prac badawczych w zakresie zgodności z warunkami określonymi w zezwoleniu;
-5) prowadzenie rejestru sprawozdań składanych przez organizatorów prac badawczych;
-6) prowadzenie rejestru zdarzeń, o których mowa w art. 65n ust. 1 pkt 4;
-7) badanie zgodności ze stanem faktycznym oświadczenia o przeprowadzeniu wewnętrznych testów symulacyjnych i prób fizycznych na zamkniętych drogach lub torach testowych;
-8) ocena przeprowadzonej analizy zagrożeń i ocena ryzyka, o których mowa w ust. 13 pkt 4 oraz ust. 14 pkt 4, w tym w zakresie ich kompletności i adekwatności do zakresu planowanych prac badawczych;
-9) współpraca w zakresie nadzoru nad prowadzeniem prac badawczych z podmiotami zagranicznymi, odpowiedzialnymi za nadzór nad pracami badawczymi w innych krajach;
-10) sporządzanie i przekazywanie do dnia 31 stycznia kolejnego roku do ministra właściwego do spraw transportu rocznego zestawienia prac badawczych, za poprzedni rok, w tym prac badawczych transgranicznych, zawierającego nazwę organizatora prac badawczych, okresy realizacji prac badawczych oraz obszar, lokalizację i drogi, na których prowadzone były prace badawcze, na które zostały wydane zezwolenia;
-11) administrowanie danymi zgromadzonymi w związku z wydawaniem zezwoleń, o których mowa w ust. 1, oraz pełnienie funkcji administratora danych osobowych przetwarzanych w związku z wydawaniem tych zezwoleń;
-12) przetwarzanie danych osobowych organizatora prac badawczych, o których mowa w pkt 2 lit. a, osoby reprezentującej organizatora prac badawczych, o których mowa w ust. 11 pkt 1 lub ust. 12 pkt 2, oraz właściciela pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze, o których mowa w ust. 11 pkt 2 lub ust. 12 pkt 3, oraz usuwanie tych danych po upływie 5 lat od dnia utraty ważności zezwolenia, o którym mowa w ust. 1, lub od dnia wydania decyzji administracyjnej o stwierdzeniu wygaśnięcia zezwolenia lub decyzji administracyjnej o odmowie wydania, zmianie, cofnięciu lub zawieszeniu tego zezwolenia, z wyłączeniem spraw wszczętych i niezakończonych prawomocnym rozstrzygnięciem.
-11. Wniosek, o którym mowa w ust. 5, zawiera:
-1) imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału organizatora prac badawczych oraz imię i nazwisko oraz adres zamieszkania lub adres do doręczeń elektronicznych osoby reprezentującej organizatora prac badawczych;
-2) imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału właściciela pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze;
-3) informację o okresie, na jaki ma zostać wydane zezwolenie na prowadzenie prac badawczych;
-4) informację o planowanym obszarze prowadzenia prac badawczych, ich lokalizację oraz drogi, po których będzie poruszał się pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany, z zastrzeżeniem że obszar prowadzenia prac badawczych może obejmować maksymalnie pięć województw;
-5) opis sposobu zarządzania pracami badawczymi i odpowiedzialności organizatora lub opis planowanej zmiany zezwolenia w tych zakresach;
-6) cel i zakres prac badawczych;
-7) dane pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze, a w przypadku wniosku o zmianę zezwolenia – dane zastępującego lub dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi będą prowadzone prace badawcze:
-a) numer rejestracyjny, z wyłączeniem profesjonalnego numeru rejestracyjnego,
-b) numer i datę decyzji o profesjonalnej rejestracji pojazdu,
-c) numer VIN pojazdu,
-d) informację o spełnieniu warunków określonych w art. 66 ust. 1 i ust. 4 pkt 1–4,
-e) deklarowany poziom automatyzacji pojazdu, zgodny z poziomami określonymi w załączniku nr 3 do ustawy;
-8) podpis organizatora prac badawczych lub osoby jego reprezentującej.
-12. Wniosek o zmianę zezwolenia, o którym mowa w ust. 8, zawiera:
-1) numer i datę zezwolenia na prowadzenie prac badawczych, którego dotyczy wniosek o zmianę tego zezwolenia;
-2) imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału organizatora prac badawczych oraz imię i nazwisko oraz adres zamieszkania lub adres do doręczeń elektronicznych osoby reprezentującej organizatora prac badawczych;
-3) imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału właściciela pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze;
-4) informację o planowanej zmianie zezwolenia w zakresie tego obszaru, ich lokalizacji oraz drogi, po których będzie poruszał się pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany, z zastrzeżeniem że obszar prowadzenia prac badawczych może obejmować maksymalnie pięć województw;
-5) opis planowanej zmiany sposobu zarządzania pracami badawczymi i odpowiedzialności organizatora;
-6) dane zastępującego lub dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze:
-a) numer rejestracyjny, z wyłączeniem profesjonalnego numeru rejestracyjnego,
-b) numer i datę decyzji o profesjonalnej rejestracji pojazdu,
-c) numer VIN pojazdu,
-d) informację o spełnieniu warunków określonych w art. 66 ust. 1 i ust. 4 pkt 1–4,
-e) deklarowany poziom automatyzacji pojazdu, zgodny z poziomami określonymi w załączniku nr 3 do ustawy;
-7) informację o zakresie zmian wynikających z dokumentów, o których mowa w ust. 13 pkt 1–3, o ile wniosek dotyczy tych zmian.
-13. Do wniosku, o którym mowa w ust. 5, dołącza się:
-1) dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, dotyczącej pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze, za szkody powstałe w związku z ruchem tego pojazdu;
-2) oświadczenie o dokonaniu opłacenia składki za ubezpieczenie, o którym mowa w pkt 1;
-3) w przypadku pojazdów zarejestrowanych w innym państwie członkowskim Unii Europejskiej – kopię dowodu rejestracyjnego;
-4) analizę zagrożeń oraz ocenę ryzyka związanego z zagrożeniami, sporządzone zgodnie z międzynarodową normą ISO 26262, dotyczącą bezpieczeństwa funkcjonalnego systemów elektrycznych lub elektronicznych montowanych w pojazdach drogowych;
-5) deklarację organizatora prac badawczych potwierdzającą, że prace badawcze nie będą powodować zagrożenia bezpieczeństwa w ruchu drogowym lub poważnego zakłócenia ruchu drogowego;
-6) oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że każdy z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, oraz że wnioskujący posiada udokumentowane prawo do dysponowania nimi, albo opinię rzeczoznawcy samochodowego, o którym mowa w art. 79a, lub służby technicznej, potwierdzającą, że dany pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, wraz z oświadczeniem, że wnioskujący posiada udokumentowane prawo do dysponowania nimi;
-7) oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że zostały przeprowadzone wewnętrzne testy symulacyjne i próby fizyczne, o których mowa w ust. 10 pkt 7;
-8) oświadczenie o wyposażeniu pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze, w rejestrator spełniający minimalne wymagania techniczne określone w przepisach wydanych na podstawie ust. 25 pkt 3;
-9) kopię decyzji o udzieleniu zezwolenia na odstępstwo od warunków technicznych, o której mowa w art. 67 ust. 1, o ile zastępujący lub dodatkowy pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym planowane jest prowadzenie prac badawczych, został uprzednio dopuszczony do ruchu na jego podstawie;
-10) dowód wniesienia opłaty, o której mowa w ust. 5.
-14. Do wniosku, o którym mowa w ust. 8, dołącza się:
-1) dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, dotyczącej pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze, za szkody powstałe w związku z ruchem tego pojazdu – o ile wniosek dotyczy zmiany zakresu danych zawartych w tych dokumentach lub zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
-2) oświadczenie o dokonaniu opłacenia składki za ubezpieczenie, o którym mowa w pkt 1 – o ile wniosek dotyczy zmiany w tym zakresie;
-3) w przypadku pojazdów zarejestrowanych w innym państwie członkowskim Unii Europejskiej – kopię dowodu rejestracyjnego – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
-4) analizę zagrożeń oraz ocenę ryzyka związanego z zagrożeniami, sporządzone zgodnie z międzynarodową normą ISO 26262, dotyczącą bezpieczeństwa funkcjonalnego systemów elektrycznych lub elektronicznych montowanych w pojazdach drogowych – w zakresie objętym wnioskowaną zmianą;
-5) deklarację organizatora prac badawczych potwierdzającą, że prace badawcze nie będą powodować zagrożenia bezpieczeństwa w ruchu drogowym lub poważnego zakłócenia ruchu drogowego – w zakresie objętym wnioskowaną zmianą;
-6) oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że każdy z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, oraz że wnioskujący posiada udokumentowane prawo do dysponowania nimi – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych, albo opinię rzeczoznawcy samochodowego, o którym mowa w art. 79a, lub służby technicznej, potwierdzającą, że dany pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym będą prowadzone prace badawcze spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, wraz z oświadczeniem, że wnioskujący posiada udokumentowane prawo do dysponowania nimi – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym planowane jest prowadzenie prac badawczych;
-7) oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że zostały przeprowadzone wewnętrzne testy symulacyjne i próby fizyczne, o których mowa w ust. 10 pkt 7 – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
-8) oświadczenie o wyposażeniu pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze, w rejestrator spełniający minimalne wymagania techniczne określone w przepisach wydanych na podstawie ust. 25 pkt 3 – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
-9) kopię decyzji o udzieleniu zezwolenia na odstępstwo od warunków technicznych, o której mowa w art. 67 ust. 1, o ile pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym będą prowadzone prace badawcze, został uprzednio dopuszczony do ruchu na jego podstawie;
-10) dowód wniesienia opłaty, o której mowa w ust. 8.
-15. Składający oświadczenie, o którym mowa w ust. 13 pkt 6 lub ust. 14 pkt 6, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że każdy z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz że posiadam udokumentowane prawo do dysponowania tymi pojazdami.”.
-Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-16. Składający oświadczenie, o którym mowa w ust. 13 pkt 7 lub ust. 14 pkt 7, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że zostały przeprowadzone wewnętrzne testy symulacyjne i próby fizyczne na zamkniętych drogach lub torach testowych każdego z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-17. Krajowy Koordynator Prac Badawczych niezwłocznie informuje o wydaniu zezwolenia, o którym mowa w ust. 1, oraz o zgłoszeniu przez organizatora prac badawczych zastąpienia pojazdów lub zgłoszenia nowych pojazdów, w okresie ważności zezwolenia, o którym mowa w ust. 1:
-1) komendanta wojewódzkiego Policji, właściwego dla obszaru planowanych prac badawczych;
-2) komendanta wojewódzkiego Państwowej Straży Pożarnej, właściwego dla obszaru planowanych prac badawczych;
-3) organ zarządzający ruchem na drodze w zakresie prowadzenia prac badawczych i organizacji ruchu na drogach, na których planowane są prace badawcze.
-18. Zadania Krajowego Koordynatora Prac Badawczych realizuje Dyrektor Instytutu Transportu Samochodowego.
-19. Minister właściwy do spraw transportu sprawuje nadzór nad działalnością Krajowego Koordynatora Prac Badawczych.
-20. Opłatę za wydanie zezwolenia, o którym mowa w ust. 1, lub opłatę za zmianę tego zezwolenia uiszcza się na wyodrębniony rachunek bankowy Instytutu Transportu Samochodowego, z zastrzeżeniem że prowizja stanowiąca:
-1) 10 % tych opłat jest przekazywana do budżetu województwa – właściwego ze względu na najdłuższy łączny odcinek dróg wojewódzkich,
-2) 10 % tych opłat jest przekazywana do budżetu powiatu – właściwego ze względu na najdłuższy łączny odcinek dróg powiatowych,
-3) 10 % tych opłat jest przekazywana do budżetu gminy – właściwej ze względu na najdłuższy łączny odcinek dróg gminnych – na których są prowadzone prace badawcze określone w tym zezwoleniu.
-21. Opłaty, o których mowa w ust. 20, stanowią przychód Instytutu Transportu Samochodowego, a prowizja, o której mowa w ust. 20, stanowi dochód właściwej jednostki samorządu terytorialnego.
-22. Jeżeli zezwolenie, o którym mowa w ust. 1, nie obejmuje dróg danej kategorii drogi, o których mowa w ust. 20, prowizja właściwa dla danej kategorii drogi podlega podziałowi w równych częściach na pozostałe kategorie dróg.
-23. Maksymalna wysokość stawki opłaty za:
-1) wydanie zezwolenia, o którym mowa w ust. 1, wynosi:
-a) 20 000 zł – w przypadku wniosku o wydanie tego zezwolenia obejmującego obszary położone na terenie jednego województwa,
-b) 40 000 zł – w przypadku wniosku o wydanie tego zezwolenia obejmującego obszary położone na terenie od dwóch do pięciu województw;
-2) zmianę zezwolenia, o którym mowa w ust. 1, wynosi 5000 zł.
-24. W przypadku odmowy wydania zezwolenia, o którym mowa w ust. 1, lub zmiany tego zezwolenia Krajowy Koordynator Prac Badawczych z urzędu, w terminie 30 dni od dnia, w którym decyzja o odmowie stała się ostateczna, zwraca 70 % opłaty za wydanie zezwolenia lub zmianę zezwolenia.
-25. Minister właściwy do spraw transportu, kierując się potrzebą uzyskania jednolitych informacji niezbędnych do wydania zezwolenia, o którym mowa w ust. 1, oraz potrzebą zapewnienia dostępu do jednolitych informacji o niezawodności funkcjonowania pojazdów zautomatyzowanych i pojazdów w pełni zautomatyzowanych, sposobie poruszania się tych pojazdów po drogach, sposobie sterowania tymi pojazdami i bezpieczeństwie ruchu drogowego, określi, w drodze rozporządzenia:
-1) wzory wniosków, o których mowa w ust. 5 i 8;
-2) wzór sprawozdania, o którym mowa w art. 65n ust. 1 pkt 5;
-3) minimalne wymagania techniczne dotyczące elektronicznego rejestratora, o którym mowa w art. 65n ust. 1 pkt 1, oraz sposób i format udostępniania danych na potrzeby rejestracji obrazu z przodu, z tyłu i z wnętrza pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi będą prowadzone prace badawcze, oraz dźwięku z wnętrza tych pojazdów.
-26. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wysokość opłat za:
-1) wydanie zezwolenia, o którym mowa w ust. 1, dla poszczególnych obszarów, o których mowa w ust. 23 pkt 1, z uwzględnieniem wielkości obszaru oraz okresu, na jaki zezwolenie będzie wydane, i liczby pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze i wskazanych w zezwoleniu, mając na uwadze poziom automatyzacji tych pojazdów oraz nakład pracy i koszty wydania zezwolenia;
-2) zmianę zezwolenia, o którym mowa w ust. 1, mając na uwadze nakład pracy w ramach rozpatrywania wniosku o tę zmianę i koszty zmiany tego zezwolenia.> [Art. 65m. 1. Organ wydający zezwolenie, o którym mowa w art. 65l ust. 1, odmawia jego wydania, jeżeli:
-1) organizator prac badawczych:
-a) nie podał we wniosku, o którym mowa w art. 65l ust. 2, informacji określonych w art. 65l ust. 3,
-b) nie dołączył do wniosku, o którym mowa w art. 65l ust. 2, dokumentów wskazanych w art. 65l ust. 4,
-c) nie uzyskał zgody i opinii, o których mowa w art. 65l ust. 6;
-2) pomimo spełnienia wymogów określonych w art. 65l ust. 3 i 4 istnieje niebezpieczeństwo, że prowadzenie prac badawczych będzie stanowić zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości;
-3) właściciel nieruchomości położonej wzdłuż planowanej trasy, po której będzie poruszał się pojazd autonomiczny, zgłosił sprzeciw.
-2. Organ wydający zezwolenie może:
-1) cofnąć zezwolenie, jeżeli:
-a) organizator prac badawczych podał we wniosku, o którym mowa w art. 65l ust. 2, nieprawdziwe informacje,
-b) prace badawcze prowadzone są niezgodnie z informacjami podanymi we wniosku, o którym mowa w art. 65l ust. 2,
-c) dalsze prowadzenie prac badawczych stanowi zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości;
-2) zawiesić zezwolenie, jeżeli dalsze prowadzenie prac badawczych może stanowić zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości – do czasu ustania tego zagrożenia.] <Art. 65m. 1. Krajowy Koordynator Prac Badawczych, w drodze decyzji administracyjnej, odmawia wydania lub zmiany zezwolenia, o którym mowa w art. 65l ust. 1, jeżeli:
-1) organizator prac badawczych:
-a) nie podał we wniosku, o którym mowa w art. 65l ust. 5 lub 8, danych i informacji, o których mowa w art. 65l ust. 11 lub 12,
-b) nie dołączył do wniosku, o którym mowa w art. 65l ust. 5 lub 8, dokumentów, o których mowa w art. 65l ust. 13 lub 14;
-2) mimo złożenia deklaracji, o której mowa w art. 65l ust. 13 pkt 5 lub ust. 14 pkt 5, stwierdzi, że prace badawcze będą stanowić zagrożenie bezpieczeństwa w ruchu drogowym lub poważne zakłócenie ruchu drogowego.
-2. Krajowy Koordynator Prac Badawczych na każdym etapie prac badawczych:
-1) cofa, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 65l ust. 1, jeżeli:
-a) organizator prac badawczych podał we wniosku, o którym mowa w art. 65l ust. 5 lub 8, nieprawdziwe informacje,
-b) prace badawcze są prowadzone niezgodnie z warunkami tego zezwolenia lub niezgodnie z analizą zagrożeń oraz oceną ryzyka, o których mowa w art. 65l ust. 13 pkt 4 lub ust. 14 pkt 4,
-c) w wyniku prowadzonych prac badawczych ujawniono incydent lub zdarzenie drogowe, stanowiące zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości, do którego doszło wskutek okoliczności, na które organizator prac badawczych miał wpływ lub godził się na ich powstanie;
-2) zawiesza, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 65l ust. 1, a okres obowiązywania zezwolenia ulega wydłużeniu o czas zawieszenia zezwolenia, w przypadku gdy:
-a) w wyniku rażących zaniedbań organizatora prac badawczych doszło do incydentu lub zdarzenia drogowego, a dalsze prowadzenie prac badawczych może stanowić zagrożenie dla życia lub zdrowia ludzkiego albo mienia – do czasu ustania tego zagrożenia,
-b) organizator prac badawczych nie zgłosił zmiany danych i informacji, o których mowa w art. 65l ust. 11 i 12, oraz nie aktualizował dokumentów, o których mowa w art. 65l ust. 13 i 14, w terminie 14 dni od dnia zaistnienia tych zmian – do czasu wypełnienia tego obowiązku,
-c) po zakończeniu obowiązującej umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, o której mowa w art. 65n ust. 4, organizator prac badawczych nie przedstawił polisy ubezpieczenia na kolejny okres ubezpieczenia pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi są prowadzone prace badawcze, za szkody powstałe w związku z ruchem tego pojazdu, do czasu przedłożenia nowej umowy ubezpieczenia.
-3. Krajowy Koordynator Prac Badawczych:
-1) przeprowadza kontrolę prowadzonych prac badawczych, przynajmniej raz w okresie ważności zezwolenia, o którym mowa w art. 65l ust. 1, w zakresie zgodności z warunkami określonymi w zezwoleniu i analizą zagrożeń oraz oceną ryzyka, o których mowa w art. 65l ust. 13 pkt 4 lub ust. 14 pkt 4;
-2) może wyznaczyć obserwatora do monitorowania prowadzonych prac badawczych, z zachowaniem obowiązku poinformowania o takim zamiarze organizatora prac badawczych z wyprzedzeniem co najmniej 3 dni przed planowanym dniem uczestnictwa w tych pracach wraz z podaniem imienia i nazwiska tego obserwatora oraz z zapewnieniem jego niezależności, bezstronności i braku konfliktu interesów.
-4. Obserwator, o którym mowa w ust. 3 pkt 2, jest obowiązany wykonywać czynności związane z monitorowaniem prowadzonych prac badawczych w sposób niezakłócający przebiegu prac badawczych, jak również uwzględniający potrzebę ochrony własności intelektualnej i tajemnicy przedsiębiorstwa organizatora prac badawczych lub innych podmiotów.
-5. Organizator prac badawczych jest obowiązany umożliwić uczestnictwo w prowadzonych pracach badawczych obserwatorowi, o którym mowa w ust. 3 pkt 2.
-6. Krajowy Koordynator Prac Badawczych może zawiesić, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 65l ust. 1, w przypadku uniemożliwienia przez organizatora prac badawczych uczestnictwa w pracach badawczych obserwatora, o którym mowa w ust. 3 pkt 2, lub niepoddania się kontroli, o której mowa w ust. 3 pkt 1, do czasu umożliwienia uczestnictwa obserwatora lub poddania się kontroli, z wyjątkiem uzasadnionej przerwy w prowadzeniu prac badawczych. Okres obowiązywania zezwolenia ulega wydłużeniu o czas zawieszenia zezwolenia.
-7. Organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w sprawach, o których mowa w ust. 1, 2 i 6 oraz art. 65l ust. 1, 5, 7, 8 i ust. 10 pkt 1, jest minister właściwy do spraw transportu.
-8. Krajowy Koordynator Prac Badawczych i osoby wyznaczone do prowadzenia spraw z zakresu wydawania zezwoleń, o których mowa w art. 65l ust. 1, i decyzji administracyjnych o stwierdzeniu wygaśnięcia tego zezwolenia oraz decyzji administracyjnych o odmowie wydania, zmianie, cofnięciu lub zawieszeniu tego zezwolenia oraz realizacji innych obowiązków Krajowego Koordynatora Prac Badawczych, o których mowa w art. 65l ust. 10 pkt 2–12, oraz prowadzenia spraw z zakresu kontroli prowadzonych prac badawczych, o której mowa w ust. 3 pkt 1, i występowania w roli obserwatora, o którym mowa w ust. 3 pkt 2, są obowiązani do:
-1) zachowania poufności danych udostępnianych im w toku prowadzenia postępowań administracyjnych, realizacji zadań i obowiązków Krajowego Koordynatora Prac Badawczych, prowadzenia spraw z zakresu kontroli prac badawczych i monitorowania tych prac, jak również pozyskanych w związku z tymi działaniami oraz po ich zakończeniu;
-2) powstrzymania się od:
-a) występowania w roli członków organów spółek handlowych lub pełnomocników przedsiębiorców, którzy są organizatorem prac badawczych,
-b) prowadzenia prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi na drogach publicznych w Polsce w rozumieniu niniejszej ustawy, w zakresie wydawanych zezwoleń na prowadzenie prac badawczych,
-c) bycia wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej prowadzącej działalność, o której mowa w lit. a,
-d) bezpośredniego posiadania akcji lub udziałów w spółkach handlowych organizatora prac badawczych,
-e) wykonywania zajęcia zarobkowego na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w lit. a, c i d.
-9. Krajowy Koordynator Prac Badawczych i osoby, o których mowa w ust. 8, składają oświadczenie dotyczące obowiązków określonych w ust. 8, zwane dalej „oświadczeniem o zachowaniu poufności i braku konfliktu interesów”.
-10. Oświadczenie o zachowaniu poufności i braku konfliktu interesów składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenie o zachowaniu poufności i braku konfliktu interesów jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że zachowam w poufności wszystkie dane i informacje pozyskane w ramach realizacji zadań i obowiązków, o których mowa w art. 65l ust. 10 oraz art. 65m ust. 3 pkt 1 i 2 ustawy – Prawo o ruchu drogowym, jak również pozyskanych w związku z tymi działaniami oraz po ich zakończeniu, oraz nie wykorzystam tych danych i informacji w celach innych niż określone w powyższych przepisach ustawy, a także nie posiadam konfliktu interesów w tym zakresie, a w szczególności nie prowadzę prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi na drogach publicznych w Polsce w rozumieniu ustawy – Prawo o ruchu drogowym, nie jestem członkiem organów spółek handlowych lub pełnomocnikiem przedsiębiorców, którzy są organizatorem prac badawczych, nie jestem wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej prowadzącej działalność w ramach prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, nie posiadam bezpośrednio akcji lub udziałów w spółkach handlowych prowadzących działalność, w ramach prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, nie wykonuję zajęć zarobkowych na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w art. 65m ust. 8 pkt 2 lit. a, c i d ustawy – Prawo o ruchu drogowym.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-11. Oświadczenie o zachowaniu poufności i braku konfliktu interesów składają:
-1) ministrowi właściwemu do spraw transportu – Krajowy Koordynator Prac Badawczych;
-2) Krajowemu Koordynatorowi Prac Badawczych – osoby obowiązane do złożenia oświadczenia, o których mowa w ust. 8.
-12. Oświadczenie o zachowaniu poufności i braku konfliktu interesów składa się:
-1) przed zawarciem umowy o pracę, zmianą stanowiska pracy lub zawarciem umowy cywilnoprawnej;
-2) corocznie do dnia 15 stycznia według stanu na dzień 31 grudnia roku poprzedniego;
-3) w terminie 14 dni od dnia powzięcia informacji o okolicznościach, o których mowa w ust. 8.
-13. Naruszenie obowiązków, o których mowa w ust. 8–12, stanowi podstawę do odmowy nawiązania stosunku pracy, rozwiązania stosunku pracy bez wypowiedzenia z winy pracownika, odmowy zawarcia lub wypowiedzenia umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze, odwołania ze stanowiska Krajowego Koordynatora Prac Badawczych.
-14. Oświadczenia o zachowaniu poufności i braku konfliktu interesów podlegają ocenie właściwego organu, o którym mowa w ust. 11 pkt 1 lub 2, pod względem możliwości wystąpienia w trakcie prowadzonego postępowania administracyjnego lub planowanej kontroli lub monitorowania prac badawczych. W przypadku stwierdzenia konfliktu interesów lub naruszenia obowiązku zachowania poufności osoba, o której mowa w ust. 8, podlega wyłączeniu z postępowania administracyjnego, nie uczestniczy w przeprowadzaniu kontroli lub monitorowaniu prac badawczych.
-15. Dyrektor Instytut Transportu Samochodowego w ramach prowadzonych działań zapewnia zachowanie w poufności danych i informacji pozyskanych w ramach realizacji zadań i obowiązków, o których mowa w ust. 3 pkt 1 i 2 oraz art. 65l ust. 10, jak również pozyskanych w związku z tymi działaniami oraz po ich zakończeniu, a także niewykorzystywanie tych danych i informacji przez Instytut Transportu Samochodowego w zakresie prowadzonych działań oraz w celach, innych niż określone w ustawie.
-16. W przypadku gdy Instytut Transportu Samochodowego poniósł szkodę wskutek naruszenia obowiązków, o których mowa w ust. 8, może dochodzić od osób, które naruszyły te obowiązki, wyrównania tej szkody na zasadach określonych w przepisach działu piątego rozdziału I ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661).> [Art. 65n. 1. Organizator prac badawczych jest obowiązany:
-1) umożliwić Policji wykonywanie czynności niezbędnych do zapewnienia bezpieczeństwa ruchu drogowego oraz ochrony życia i zdrowia ludzi oraz mienia w trakcie prowadzenia prac badawczych;
-2) zapewnić, aby w trakcie prowadzenia prac badawczych w pojeździe autonomicznym, w miejscu przeznaczonym dla kierującego, znajdowała się osoba posiadająca uprawnienia do kierowania pojazdem, która w każdej chwili może przejąć kontrolę nad tym pojazdem, w szczególności w razie wystąpienia zagrożenia dla bezpieczeństwa w ruchu drogowym;
-3) przekazywać do wiadomości publicznej informacje o planowanych pracach badawczych i przebiegu trasy, po której będzie poruszał się pojazd autonomiczny;
-4) przekazać Dyrektorowi Transportowego Dozoru Technicznego sprawozdanie z przeprowadzonych prac badawczych związanych z testowaniem pojazdów autonomicznych oraz ich wyposażenia, zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 2, w terminie 3 miesięcy od dnia zakończenia testów.
-2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór sprawozdania składanego przez organizatorów prac badawczych związanych z testowaniem pojazdów autonomicznych oraz ich wyposażenia, kierując się potrzebą zapewnienia dostępu do jednolitych informacji o niezawodności funkcjonowania tych pojazdów, sposobie poruszania się po drogach, sposobie sterowania tymi pojazdami i bezpieczeństwie ruchu drogowego.] < Art. 65n. 1. Organizator prac badawczych jest obowiązany:
-1) wyposażyć pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany, nad którym są prowadzone prace badawcze, w elektroniczny rejestrator, który rejestruje i przechowuje obraz z przodu, z tyłu i z wnętrza pojazdu oraz dźwięk z wnętrza pojazdu;
-2) prowadzić wewnętrzne testy symulacyjne i próby fizyczne na zamkniętych drogach lub torach testowych;
-3) rejestrować obecność kierowcy mającego kontrolę lub mogącego w każdej chwili przejąć kontrolę nad pojazdem zautomatyzowanym albo pojazdem w pełni zautomatyzowanym, nad którymi są prowadzone prace badawcze;
-4) rejestrować zdarzenia, w których doszło do wypadku z udziałem pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego, przechowywać zapisy tej rejestracji przez okres 12 miesięcy od daty zdarzenia, a także przekazywać te zapisy Krajowemu Koordynatorowi Prac Badawczych, wraz z opisem okoliczności i wskazaniem czasu oraz miejsca zdarzenia;
-5) przekazać Krajowemu Koordynatorowi Prac Badawczych sprawozdanie z przeprowadzonych prac badawczych, zgodnie z wzorem określonym w przepisach wydanych na podstawie art. 65l ust. 25 pkt 2, w terminie 30 dni od dnia zakończenia prac badawczych lub utraty ważności zezwolenia, o którym mowa w art. 65l ust. 1, przy uwzględnieniu, że organizator prac badawczych nie jest obowiązany do ujawniania w treści sprawozdania informacji stanowiących jego tajemnicę przedsiębiorstwa lub innych podmiotów;
-6) zapewnić, aby:
-a) w trakcie prowadzenia prac badawczych w pojeździe zautomatyzowanym albo w pojeździe w pełni zautomatyzowanym znajdowała się osoba posiadająca uprawnienia do kierowania pojazdem, odpowiednie do kategorii pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, która ma kontrolę lub może w każdej chwili przejąć kontrolę nad tym pojazdem i którą uważa się za kierującego,
-b) pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany i ich systemy podlegające pracom badawczym posiadały odpowiedni poziom cyberbezpieczeństwa,
-c) pojazd zautomatyzowany i pojazd w pełni zautomatyzowany oraz wszystkie systemy i prototypy pojazdu, a także inne systemy lub prototypy, nad którymi są prowadzone prace badawcze, były chronione przed nieuprawnionym dostępem, w szczególności dostępem przez Internet;
-7) uwzględnić cyberzagrożenia w zarządzaniu ryzykiem;
-8) zgłaszać w formie pisemnej, w postaci papierowej lub elektronicznej, Krajowemu Koordynatorowi Prac Badawczych informacje o rozpoczęciu i zakończeniu prac badawczych, odpowiednio nie później niż w terminie 7 dni przed rozpoczęciem lub zakończeniem prac badawczych;
-9) zgłaszać w formie pisemnej, w postaci papierowej lub elektronicznej, Krajowemu Koordynatorowi Prac Badawczych, który udzielił zezwolenia, o którym mowa w art. 65l ust. 1, zmiany danych i informacji, wskazanych we wniosku, o których mowa w art. 65l ust. 11, oraz aktualizować dokumenty do wniosku, o których mowa w art. 65l ust. 13;
-10) wystąpić do Krajowego Koordynatora Prac Badawczych z wnioskiem o zmianę zezwolenia, o którym mowa w art. 65l ust. 1, wraz z wymaganymi dokumentami, w zależności od zakresu zmiany, jeżeli zmiany, o których mowa w pkt 9, obejmują dane i informacje, o których mowa w art. 65l ust. 11 pkt 4, 5 i 7, lub wymagać będą aktualizacji dokumentów do wniosku, o których mowa w art. 65l ust. 13 pkt 1–3, z zastrzeżeniem art. 65l ust. 8 zdanie drugie.
-2. Sprawozdanie, o którym mowa w ust. 1 pkt 5, zawiera w szczególności:
-1) imię i nazwisko albo firmę (nazwę) organizatora prac badawczych;
-2) terminy rozpoczęcia i zakończenia prac badawczych;
-3) opis zautomatyzowanych i w pełni zautomatyzowanych systemów i funkcji w pojeździe zautomatyzowanym lub pojeździe w pełni zautomatyzowanym, nad którym były prowadzone prace badawcze, z uwzględnieniem ochrony informacji stanowiących tajemnicę przedsiębiorstwa organizatora prac badawczych lub innych podmiotów;
-4) cel i zakres prac badawczych;
-5) wykaz dokumentacji wykorzystanej lub sporządzonej podczas prac badawczych;
-6) opis przebiegu prac badawczych;
-7) opis wyników prac badawczych;
-8) podsumowanie wyników prac badawczych;
-9) informację o wystąpieniu i liczbie incydentów i zdarzeń z udziałem pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym były prowadzone prace badawcze.
-3. Posiadacz pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego ponosi odpowiedzialność za szkody na osobie lub mieniu wyrządzone komukolwiek przez ruch takiego pojazdu, na zasadzie określonej w art. 436 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U.
-z 2025 r. poz. 1071, 1172 i 1508). Do odpowiedzialności posiadacza, o której mowa w zdaniu pierwszym, nie stosuje się art. 436 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, o ile nie można przypisać winy żadnemu z posiadaczy pojazdów lub kierujących pojazdami, które się zderzyły.
-4. Posiadacz pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego jest obowiązany zawrzeć umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego, o którym mowa w art. 4 pkt 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2025 r. poz. 367, z późn. zm. ). Umowę obowiązkowego ubezpieczenia, o której mowa w zdaniu pierwszym, może zawrzeć również organizator prac badawczych.>
-Art. 140aa. 1. Za przejazd po drogach publicznych pojazdów nienormatywnych bez zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, lub niezgodnie z warunkami określonymi dla tego zezwolenia nakłada się karę pieniężną, w drodze decyzji administracyjnej.
-1a. W przypadku braku:
-1) wymaganej liczby pojazdów wykonujących pilotowanie,
-2) wymaganego wyposażenia lub oznakowania pojazdu wykonującego pilotowanie,
-3) wymaganego szkolenia, o którym mowa w art. 6 ust. 3a, przez pilota – nakłada się karę pieniężną, w drodze decyzji administracyjnej.
-2. Decyzję administracyjną o nałożeniu kary pieniężnej, o której mowa w ust. 1 i 1a, wydaje właściwy ze względu na miejsce przeprowadzanej kontroli organ Policji, Inspekcji Transportu Drogowego, Straży Granicznej, naczelnik urzędu celnoskarbowego lub zarządca drogi.
-3. Karę pieniężną, o której mowa w ust. 1, nakłada się na:
-1) podmiot wykonujący przejazd;
-2) podmiot wykonujący czynności ładunkowe, jeżeli wykonał te czynności w sposób powodujący przekroczenie któregokolwiek z wymiarów, nacisków osi lub masy całkowitej pojazdu lub zespołu pojazdów, w stosunku do wartości dopuszczalnych lub wartości określonych w zezwoleniu, o którym mowa w art.
-64 ust. 1 pkt 1, jeżeli okoliczności lub dowody wskazują, że podmiot ten miał wpływ lub godził się na powstanie naruszenia określonego w ust. 1;
-3) podmiot wykonujący inne niż wymienione w pkt 2 czynności związane z przejazdem pojazdu nienormatywnego, w szczególności na organizatora transportu, nadawcę, odbiorcę lub spedytora, jeżeli okoliczności lub dowody wskazują, że podmiot ten miał wpływ lub godził się na powstanie naruszenia określonego w ust. 1.
-3a. Karę pieniężną, o której mowa w ust. 1a, nakłada się na:
-1) podmiot wykonujący przejazd – w przypadku, o którym mowa w ust. 1a pkt 1;
-2) podmiot wykonujący pilotowanie – w przypadku, o którym mowa w ust. 1a pkt 2 i 3.
-3b. Kary, o której mowa w ust. 1, za przejazd pojazdu nienormatywnego bez zezwolenia kategorii V albo z przekroczonymi parametrami technicznymi pojazdu wskazanymi w tym zezwoleniu, w zakresie dopuszczalnego nacisku pojedynczej osi napędowej nie nakłada się, w przypadku gdy kontrolujący stwierdził jednoczesne naruszenie zakazu, o którym mowa w art. 41 ust. 2 albo art. 41a ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, albo przekroczenie dopuszczalnego nacisku pojedynczej osi napędowej, o którym mowa w art. 41b ust. 1 albo 3 tej ustawy.
-4. Nie wszczyna się postępowania w sprawie nałożenia kary pieniężnej, o której mowa w ust. 1 i ust. 1a pkt 1, wobec podmiotu wykonującego przejazd, a postępowanie wszczęte w tej sprawie umarza się, jeżeli:
-1) okoliczności sprawy i dowody wskazują, że ten podmiot:
-a) dochował należytej staranności w realizacji czynności związanych z przejazdem,
-b) nie miał wpływu na powstanie naruszenia, lub
-2) rzeczywista masa całkowita pojazdu nienormatywnego nie przekracza dopuszczalnej wielkości lub wielkości określonej w zezwoleniu, o którym mowa w art. 64 ust. 1 pkt 1, a przekroczenie dotyczy wyłącznie nacisku osi pojazdu w przypadku przewozu ładunków sypkich oraz drewna.
-5. Nie wszczyna się postępowania w sprawie nałożenia kary pieniężnej, o której mowa w ust. 1, wobec podmiotu wykonującego przejazd oraz inne czynności związane z przejazdem drogowym pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
-6. W przypadku stwierdzenia przejazdu po drogach publicznych pojazdów nienormatywnych należących do Sił Zbrojnych Rzeczypospolitej Polskiej bez zezwolenia lub niezgodnie z warunkami określonymi dla tego zezwolenia organ kontroli, o którym mowa w ust. 2, powiadamia właściwy terytorialnie ze względu na miejsce przeprowadzenia kontroli organ Żandarmerii Wojskowej.
-7. Organ Żandarmerii Wojskowej, o którym mowa w ust. 6, występuje do dowódcy jednostki wojskowej organizującej przejazd drogowy lub do jego przełożonego z wnioskiem o wszczęcie postępowania dyscyplinarnego, na zasadach określonych w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r.
-poz. 248 i 834).
-Art. 140ab. 1. Karę pieniężną, o której mowa w art. 140aa ust. 1, ustala się w wysokości:
-1) 1500 zł – za brak zezwolenia kategorii I;
-2) 5000 zł – za brak zezwolenia kategorii II–IV;
-3) za brak zezwolenia kategorii V:
-a) 6000 zł – gdy nacisk jednej lub wielu osi, rzeczywista masa całkowita lub wymiary pojazdu przekraczają dopuszczalne wartości nie więcej niż o 10 %,
-b) 10 000 zł – gdy nacisk jednej lub wielu osi, rzeczywista masa całkowita lub wymiary pojazdu przekraczają dopuszczalne wartości o więcej niż 10 % i nie więcej niż 20 %,
-c) 15 000 zł – w pozostałych przypadkach;
-4) 5000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt bez potwierdzonego zawiadomienia zarządcy drogi, o którym mowa w art. 64c ust.
-9;
-5) 3000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt niezgodnie z warunkami określonymi przez zarządcę drogi, o którym mowa w art. 64c ust. 9;
-6) 6000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt przy zgłoszonym przez zarządcę drogi sprzeciwie, o którym mowa w art. 64c ust. 10;
-7) 2000 zł – za niedotrzymanie warunków przejazdu określonych dla zezwolenia kategorii V lub podanych w tym dokumencie, innych niż parametry techniczne pojazdu lub zespołu pojazdów.
-2. W przypadku naruszeń zakazu, o którym mowa w art. 64 ust. 2, za przejazd pojazdem nienormatywnym nakłada się karę jak za przejazd bez zezwolenia.
-3. Karę pieniężną, o której mowa w art. 140aa ust. 1a, ustala się w wysokości:
-1) 3000 zł – za brak wymaganej liczby pojazdów wykonujących pilotowanie;
-2) 2000 zł – za brak wymaganego wyposażenia lub oznakowania pojazdu wykonującego pilotowanie;
-3) 2000 zł – za brak wymaganego szkolenia, o którym mowa w art. 6 ust. 3a.
-Art. 140ac. 1. Od decyzji o wymierzeniu kary pieniężnej, o której mowa w art.
-140aa ust. 1 i 1a, przysługuje odwołanie do organu nadrzędnego w stosunku do organu, który tę karę wymierzył, w terminie 14 dni od dnia doręczenia decyzji.
-2. Decyzja ostateczna podlega wykonaniu po upływie 30 dni od jej doręczenia, chyba że wstrzymano jej wykonanie. Organ kontroli, który wydał decyzję ostateczną, z urzędu wstrzymuje jej wykonanie, w drodze postanowienia, na które nie przysługuje zażalenie, w razie wniesienia skargi do sądu administracyjnego.
-3. Karę pieniężną uiszcza się w formie przekazu na wskazany w decyzji rachunek bankowy. Koszty związane z jej przekazaniem pokrywa obowiązany podmiot.
-4. Kara pieniężna, o której mowa w ust. 2, podlega przymusowemu ściągnięciu w trybie określonym w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
-5. Obowiązek uiszczenia kary pieniężnej, o której mowa w ust. 2, przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym kara powinna zostać uiszczona.
-Art. 140ad. 1. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie, o którym mowa w art. 140aa ust. 1, przez zagraniczny podmiot mający siedzibę w państwie, z którym Rzeczpospolita Polska nie jest związana umową o wzajemnej egzekucji kar pieniężnych, osoba przeprowadzająca kontrolę pobiera kaucję w wysokości odpowiadającej przewidywanej karze pieniężnej.
-2. Kaucję pobiera się:
-1) podczas kontroli na drodze – w formie gotówkowej, za pokwitowaniem na druku ścisłego zarachowania, lub za pomocą karty płatniczej;
-2) w terminie późniejszym – w formie przelewu na wyodrębniony rachunek bankowy organu prowadzącego postępowanie administracyjne w sprawie o nałożenie kary, a w przypadku poboru kaucji przez naczelnika urzędu celno-skarbowego – na wyodrębniony rachunek bankowy urzędu skarbowego określony w przepisach odrębnych, przy czym koszty przelewów ponosi obowiązany podmiot.
-3. Kaucja przechowywana jest na nieoprocentowanym rachunku bankowym, o którym mowa w ust. 2 pkt 2. Koszty związane z uiszczeniem kaucji w formie przelewu na rachunek bankowy lub za pomocą karty płatniczej – związane z autoryzacją transakcji i przekazem środków na właściwy rachunek bankowy – pokrywa obowiązany podmiot.
-4. Kaucję przekazuje się:
-1) na rachunek bankowy określony w decyzji o nałożeniu kary, w terminie, o którym mowa w art. 140ac ust. 2, albo
-2) na rachunek bankowy podmiotu, który ją wpłacił, w terminie 7 dni od dnia uprawomocnienia się decyzji lub orzeczenia uchylającego decyzję o nałożeniu kary pieniężnej.
-5. W przypadku gdy wysokość nałożonej kary jest mniejsza od wysokości pobranej kaucji, do powstałej różnicy stosuje się odpowiednio przepis ust. 4 pkt 2.
-6. Odpowiedzialność za szkody spowodowane ruchem pojazdów nienormatywnych ponosi wykonujący przejazd pojazdem nienormatywnym.
-7. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie, o którym mowa w art. 140aa ust. 1 lub 1a, przez podmiot, o którym mowa w ust. 1, osoba przeprowadzająca kontrolę na drodze zatrzymuje, za pokwitowaniem, dokumenty dotyczące przejazdu pojazdu nienormatywnego oraz dowód rejestracyjny (pozwolenie czasowe) pojazdu i usuwa pojazd, na koszt podmiotu wykonującego przejazd pojazdem nienormatywnym, na parking strzeżony, o którym mowa w art. 130a ust. 5c, a jeżeli ze względu na wymiary lub masę pojazdu umieszczenie pojazdu na tym parkingu jest niemożliwe – na inny, w miarę możliwości najbliższy parking strzeżony, jeżeli:
-1) nie pobrano kaucji lub
-2) nie usunięto stwierdzonego naruszenia.
-Art. 140ae. 1. Kary pieniężne, o których mowa w art. 140aa ust. 1 i 1a, są przekazywane odpowiednio do budżetów jednostek samorządu terytorialnego lub na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad.
-2. Środki z tytułu kar gromadzone na wyodrębnionym rachunku bankowym Generalnej Dyrekcji Dróg Krajowych i Autostrad są przekazywane w terminie pierwszych 2 dni roboczych po upływie tygodnia, w którym wpłynęły, na rachunek Krajowego Funduszu Drogowego, z przeznaczeniem na budowę lub przebudowę dróg krajowych, drogowych obiektów inżynierskich i przepraw promowych oraz na zakup urządzeń do ważenia pojazdów.
-3. Urzędy celno-skarbowe otrzymują prowizję od pobranych kar pieniężnych w wysokości 12 % nałożonej kary.
-4. Prowizja, o której mowa w ust. 3, stanowi dochód budżetu państwa.
-4a. Wojewódzkie inspektoraty transportu drogowego otrzymują prowizję od pobranych kar pieniężnych w wysokości 12 % nałożonej kary. Prowizja stanowi wpływ Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402).
-5. Od kar pieniężnych urzędy celno-skarbowe i wojewódzkie inspektoraty transportu drogowego odliczają prowizję, a pozostałą część kary, w terminie 4 dni po upływie każdych kolejnych 10 dni miesiąca, przekazują odpowiednio do podmiotów wymienionych w ust. 1.
-Art. 140af. 1. Grzywny, o których mowa w art. 96 § 3 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, pobierane przez organy Inspekcji Transportu Drogowego, nakładane na właściciela lub posiadacza pojazdu, o których mowa w art.
-78 ust. 4 i 5 ustawy, stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
-2. Kary porządkowe, o których mowa w art. 49 § 1 i 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, pobierane przez organy Inspekcji Transportu Drogowego, nakładane na osoby, o których mowa w art. 78 ust.
-4 i 5 ustawy, stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
-Art. 140ag. 1. Grzywny, o których mowa w art. 86, art. 86b, art. 87, art. 90, art.
-92, art. 92a § 2, art. 92b, art. 94 § 1–2, art. 96 § 1 pkt 2 i 3 oraz art. 97a ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, stanowią wpływy Krajowego Funduszu Drogowego.
-2. Właściwy naczelnik urzędu skarbowego oraz Główny Inspektor Transportu Drogowego przekazują kwoty z grzywien, o których mowa w ust. 1, w terminie pierwszych dwóch dni roboczych po zakończeniu tygodnia, w którym wpłynęły, na rachunek Krajowego Funduszu Drogowego z przeznaczeniem na finansowanie:
-1) zadań inwestycyjnych związanych z poprawą bezpieczeństwa ruchu drogowego na drogach krajowych;
-2) budowy lub przebudowy dróg krajowych.
-Art. 141–143. (pominięte)
 
 ### DZIAŁ I Przepisy ogólne
 
@@ -444,9 +164,8 @@ Art. 141–143. (pominięte)
 - **84)** blokada alkoholowa – urządzenie techniczne uniemożliwiające uruchomienie silnika pojazdu silnikowego i pojazdu szynowego, w przypadku gdy zawartość alkoholu w wydychanym przez kierującego powietrzu wynosi co najmniej 0,1 mg alkoholu w 1 dm ;
 - **85)** kalibracja blokady alkoholowej – ogół czynności służących wzorcowaniu blokady alkoholowej oraz regulacji tego urządzenia w sposób umożliwiający spełnienie wymagania, o którym mowa w pkt 84;
 - **86)** niezgodność – rozbieżność między danymi zgromadzonymi w centralnej ewidencji pojazdów, centralnej ewidencji kierowców albo centralnej ewidencji posiadaczy kart parkingowych a stanem prawnym ustalonym na podstawie dostępnych danych lub stanem faktycznym;
-- **87)** salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzące sprzedaż pojazdów samochodowych, przyczep lub motorowerów w lokalu na terytorium Rzeczypospolitej Polskiej i autoryzowane przez producenta pojazdów samochodowych, przyczep lub motorowerów lub jego upoważnionego przedstawiciela. Dotyczy to także sprzedaży w lokalu na terytorium Rzeczypospolitej Polskiej bezpośrednio prowadzonej przez producenta pojazdów samochodowych, przyczep lub motorowerów; <88) pojazd zautomatyzowany – pojazd zautomatyzowany w rozumieniu art. 3 pkt 21 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2144 z dnia 27 listopada 2019 r. w sprawie wymogów dotyczących homologacji typu pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, w odniesieniu do ich ogólnego bezpieczeństwa oraz ochrony osób znajdujących się w pojeździe i niechronionych uczestników ruchu drogowego, zmieniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/858 oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 78/2009, (WE) nr 79/2009 i (WE) nr 661/2009 oraz rozporządzenia Komisji (WE) nr 631/2009, (UE) nr 406/2010, (UE) nr 672/2010, (UE) nr 1003/2010, (UE) nr 1005/2010, (UE) nr 1008/2010, (UE) nr 1009/2010, (UE) nr 19/2011, (UE) nr 109/2011, (UE) nr 458/2011, (UE) nr 65/2012, (UE) nr 130/2012, (UE) nr 347/2012, (UE) nr 351/2012, (UE) nr 1230/2012 i (UE) 2015/166 (Dz. Urz. UE L 325 z 16.12.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) 2019/2144”;
-- **89)** pojazd w pełni zautomatyzowany – pojazd w pełni zautomatyzowany w rozumieniu art. 3 pkt 22 rozporządzenia (UE) 2019/2144;
-- **90)** organizator prac badawczych – podmiot prowadzący działalność badawczo-rozwojową, w tym obejmującą prowadzenie prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, w celu badania i oceny funkcji automatycznych, które nie wchodzą w zakres homologacji typu albo dopuszczenia indywidualnego pojazdu, lub podmiot uprawniony, o którym mowa w art. 80s ust. 2.>
+- **87)** salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, prowadzące sprzedaż pojazdów samochodowych, przyczep lub motorowerów w lokalu na terytorium Rzeczypospolitej Polskiej i autoryzowane przez producenta pojazdów samochodowych, przyczep lub motorowerów lub jego upoważnionego przedstawiciela. Dotyczy to także sprzedaży w lokalu na terytorium Rzeczypospolitej Polskiej bezpośrednio prowadzonej przez producenta pojazdów samochodowych, przyczep lub motorowerów;
+- **88)** pojazd zautomatyzowany – pojazd zautomatyzowany w rozumieniu art. 3 pkt 21 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2144 z dnia 27 listopada 2019 r. w sprawie wymogów dotyczących homologacji typu pojazdów silnikowych i ich przyczep oraz układów, komponentów i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów, w odniesieniu do ich ogólnego bezpieczeństwa oraz ochrony osób znajdujących się w pojeździe i niechronionych uczestników ruchu drogowego, zmieniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/858 oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 78/2009, (WE) nr 79/2009 i (WE) nr 661/2009 oraz rozporządzenia Komisji (WE) nr 631/2009, (UE) nr 406/2010, (UE) nr 672/2010, (UE) nr 1003/2010, (UE) nr 1005/2010, (UE) nr 1008/2010, (UE) nr 1009/2010, (UE) nr 19/2011, (UE) nr 109/2011, (UE) nr 458/2011, (UE) nr 65/2012, (UE) nr 130/2012, (UE) nr 347/2012, (UE) nr 351/2012, (UE) nr 1230/2012 i (UE) 2015/166 (Dz. Urz. UE L 325 z 16.12.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) 2019/2144”; 89) pojazd w pełni zautomatyzowany – pojazd w pełni zautomatyzowany w rozumieniu art. 3 pkt 22 rozporządzenia (UE) 2019/2144; 90) organizator prac badawczych – podmiot prowadzący działalność badawczo-rozwojową, w tym obejmującą prowadzenie prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, w celu badania i oceny funkcji automatycznych, które nie wchodzą w zakres homologacji typu albo dopuszczenia indywidualnego pojazdu, lub podmiot uprawniony, o którym mowa w art. 80s ust. 2.
 
 ### DZIAŁ II Ruch drogowy
 
@@ -484,8 +203,10 @@ Art. 141–143. (pominięte)
 - **5)** osoba działająca w imieniu zarządcy drogi lub osoba wykonująca roboty na drodze na zlecenie lub za zgodą zarządcy drogi;
 - **6)** osoba nadzorująca bezpieczne przejście dzieci przez jezdnię, w wyznaczonym miejscu;
 - **7)** kierujący autobusem szkolnym w miejscach postoju związanych z wsiadaniem lub wysiadaniem dzieci;
-- **7a)** ratownik górski podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej; <7b) ratownik wodny podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;>
-- **8)** strażnik leśny lub funkcjonariusz Straży Parku – na terenie odpowiednio lasu lub parku narodowego; [9) strażak Państwowej Straży Pożarnej podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;] <9) strażak Państwowej Straży Pożarnej, jeżeli wykonuje zadania określone w art. 1 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312 i 1366);> <9a) strażak ratownik ochotniczej straży pożarnej, jeżeli wykonuje zadania ochotniczych straży pożarnych określone w art. 3 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2025 r. poz. 244 i 900);> [10) członek ochotniczej straży pożarnej podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;] <10) strażak ochotniczej straży pożarnej, jeżeli wykonuje zadania ochotniczych straży pożarnych określone w art. 3 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych;>
+- **7a)** ratownik górski podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;
+- **7b)** ratownik wodny podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;
+- **8)** strażnik leśny lub funkcjonariusz Straży Parku – na terenie odpowiednio lasu lub parku narodowego;
+- **10)** strażak ochotniczej straży pożarnej, jeżeli wykonuje zadania ochotniczych straży pożarnych określone w art. 3 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych;
 - **11)** funkcjonariusz Służby Ochrony Państwa podczas wykonywania czynności związanych z zapewnieniem bezpieczeństwa ochranianych osób, obiektów i urządzeń;
 - **12)** pilot podczas wykonywania czynności związanych z pilotowaniem przejazdu pojazdu nienormatywnego.
 
@@ -1128,7 +849,7 @@ Art. 141–143. (pominięte)
 
 2c. Przewożenie dziecka w wieku do 7 lat wózkiem rowerowym w sposób, o którym mowa w art. 63 ust. 3 pkt 4, nie wymaga stosowania kasku ochronnego w przypadku, kiedy dziecko korzysta z pasów bezpieczeństwa, w które fabrycznie jest wyposażona przyczepa konstrukcyjnie przystosowana do przewozu osób, ciągnięta przez wózek rowerowy.
 
-2d. Zabrania się przewożenia dziecka w sposób, o którym mowa w art. 63 ust. 3 pkt 4, na rowerze z napędem, o którym mowa w art. 4 ust. 2 lit. a pkt (i) rozporządzenia 168/2013, oraz wózkiem rowerowym, jeżeli rower ten lub wózek rowerowy są wyposażone w silnik spalinowy.>
+2d. Zabrania się przewożenia dziecka w sposób, o którym mowa w art. 63 ust. 3 pkt 4, na rowerze z napędem, o którym mowa w art. 4 ust. 2 lit. a pkt (i) rozporządzenia 168/2013, oraz wózkiem rowerowym, jeżeli rower ten lub wózek rowerowy są wyposażone w silnik spalinowy.
 
 3. Kierującemu rowerem, hulajnogą elektryczną lub motorowerem zabrania się:
 
@@ -1178,7 +899,13 @@ Art. 141–143. (pominięte)
 - **3)** czepiania się pojazdów;
 - **4)** jazdy po jezdni, z wyjątkiem korzystania z przejazdu dla rowerów.
 
-**Art. 33c.** Kierujący hulajnogą elektryczną lub urządzeniem transportu osobistego, korzystając z drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu. [Art. 33d. 1. Zabrania się dopuszczania dziecka w wieku do 10 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze. 2. W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 10 lat wyłącznie pod opieką osoby dorosłej.] <Art. 33d. 1. Zabrania się dopuszczania dziecka w wieku do 13 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze. 2. W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 13 lat wyłącznie pod opieką osoby dorosłej.>
+**Art. 33c.** Kierujący hulajnogą elektryczną lub urządzeniem transportu osobistego, korzystając z drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu.
+
+**Art. 33d.**
+
+1. Zabrania się dopuszczania dziecka w wieku do 13 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze.
+
+2. W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 13 lat wyłącznie pod opieką osoby dorosłej.
 
 **Art. 34.**
 
@@ -1562,7 +1289,7 @@ Art. 141–143. (pominięte)
 
 4. Minister właściwy do spraw wewnętrznych, uwzględniając w szczególności konieczność zapewnienia porządku, sprawności i bezpieczeństwa ruchu drogowego, określi, w drodze rozporządzenia, okoliczności, w jakich używane są pojazdy uprzywilejowane w kolumnach.
 
-**Art. 53a.** Dopuszcza się poruszanie się pojazdu zespołu ratownictwa medycznego po wyznaczonych przez zarządcę drogi pasach ruchu dla autobusów.>
+**Art. 53a.** Dopuszcza się poruszanie się pojazdu zespołu ratownictwa medycznego po wyznaczonych przez zarządcę drogi pasach ruchu dla autobusów.
 
 **Art. 54.**
 
@@ -1647,7 +1374,7 @@ Art. 141–143. (pominięte)
 - **1)** pojazdów samochodowych biorących udział w rajdach zimowych i wyścigach zimowych za zgodą zarządcy drogi, wyrażoną w trybie określonym w art. 65a ust. 3 pkt 7a;
 - **2)** rowerów. <5. Zabrania się kierowania pojazdem silnikowym lub motorowerem w sposób:
 - **1)** powodujący celowy poślizg kół (drift);
-- **2)** powodujący celową utratę styczności z nawierzchnią chociażby jednego z kół pojazdu; nie dotyczy to kół na osiach podnoszonych w pojazdach kategorii N2, N3 i M3.>
+- **2)** powodujący celową utratę styczności z nawierzchnią chociażby jednego z kół pojazdu; nie dotyczy to kół na osiach podnoszonych w pojazdach kategorii N2, N3 i M3.
 
 **Art. 61.**
 
@@ -1893,7 +1620,9 @@ Art. 141–143. (pominięte)
 
 2. Minister właściwy do spraw transportu może zwolnić, w drodze decyzji administracyjnej, z obowiązku uzyskania zezwolenia na przejazd pojazdu nienormatywnego pojazd wykonujący przejazd w ramach pomocy humanitarnej lub medycznej, pod warunkiem uzyskania na przejazd zgody zarządców dróg właściwych dla trasy przejazdu.
 
-3. Zwolnienie, o którym mowa w ust. 2, wydaje się na wniosek zainteresowanego podmiotu wykonującego przejazd i właściwego organu państwowego, samorządowego lub organizacji humanitarnej. Art. 64ea. W przypadku wykonywania przejazdu pojazdem nienormatywnym na podstawie zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, kategorii innej niż wymagana albo na podstawie zezwolenia kategorii V z przekroczonymi parametrami technicznymi pojazdu lub zespołu pojazdów wskazanymi w tym zezwoleniu, przejazd pojazdu nienormatywnego uznaje się za wykonywany bez zezwolenia.
+3. Zwolnienie, o którym mowa w ust. 2, wydaje się na wniosek zainteresowanego podmiotu wykonującego przejazd i właściwego organu państwowego, samorządowego lub organizacji humanitarnej.
+
+**Art. 64ea.** W przypadku wykonywania przejazdu pojazdem nienormatywnym na podstawie zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, kategorii innej niż wymagana albo na podstawie zezwolenia kategorii V z przekroczonymi parametrami technicznymi pojazdu lub zespołu pojazdów wskazanymi w tym zezwoleniu, przejazd pojazdu nienormatywnego uznaje się za wykonywany bez zezwolenia.
 
 **Art. 64f.**
 
@@ -2084,8 +1813,7 @@ Art. 141–143. (pominięte)
 - **4)** ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1874);
 - **5)** ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 85);
 - **6)** ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 51);
-- **7)** ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz.
-- **47)** ;
+- **7)** ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 47);
 - **8)** ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Katolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 8);
 - **9)** ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 13).
 
@@ -2095,9 +1823,253 @@ Art. 141–143. (pominięte)
 
 **Art. 65i.** W sprawach nieuregulowanych w art. 65–65h stosuje się przepisy Kodeksu postępowania administracyjnego.
 
-**Art. 65j.** Do przewozu osób kolejką turystyczną stosuje się przepisy Oddziału 5 z wyłączeniem przepisów art. 65a ust. 2 pkt 2–5, 7–8, ust. 3 pkt 3, 6–11, ust. 4, art. 65b ust. 4 pkt 4 oraz art. 65h. Art. 65ja. Spotkanie właścicieli, posiadaczy lub użytkowników pojazdów samochodowych na otwartej lub ogólnodostępnej przestrzeni, którego celem jest prezentacja pojazdów samochodowych w liczbie większej niż 10, w szczególności wprowadzonych w nich modyfikacji, wymaga wcześniejszego zawiadomienia organu gminy. Do zawiadomienia stosuje się odpowiednio przepisy rozdziału 2 ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389).
+**Art. 65j.** Do przewozu osób kolejką turystyczną stosuje się przepisy Oddziału 5 z wyłączeniem przepisów art. 65a ust. 2 pkt 2–5, 7–8, ust. 3 pkt 3, 6–11, ust. 4, art. 65b ust. 4 pkt 4 oraz art. 65h.
 
-##### Oddział 6 [Wykorzystanie dróg na potrzeby prac badawczych nad pojazdami autonomicznymi] <Wykorzystanie dróg na potrzeby prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi> [Art. 65k. Ilekroć w niniejszym oddziale jest mowa o pojeździe autonomicznym, należy przez to rozumieć pojazd samochodowy, wyposażony w systemy sprawujące kontrolę nad ruchem tego pojazdu i umożliwiające jego ruch bez ingerencji kierującego, który w każdej chwili może przejąć kontrolę nad tym pojazdem.] [Art. 65l. 1. Prowadzenie prac badawczych związanych z testowaniem pojazdów autonomicznych w ruchu drogowym na drogach publicznych, w szczególności na potrzeby zastosowania pojazdów autonomicznych w transporcie zbiorowym i realizacji innych zadań publicznych, jest możliwe pod warunkiem spełnienia wymagań bezpieczeństwa i uzyskania zezwolenia na przeprowadzenie tych prac.
+**Art. 65ja.** Spotkanie właścicieli, posiadaczy lub użytkowników pojazdów samochodowych na otwartej lub ogólnodostępnej przestrzeni, którego celem jest prezentacja pojazdów samochodowych w liczbie większej niż 10, w szczególności wprowadzonych w nich modyfikacji, wymaga wcześniejszego zawiadomienia organu gminy. Do zawiadomienia stosuje się odpowiednio przepisy rozdziału 2 ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389).
+
+##### Oddział 6 [Wykorzystanie dróg na potrzeby prac badawczych nad pojazdami autonomicznymi] <Wykorzystanie dróg na potrzeby prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi>
+
+**Art. 65k.** Ilekroć w niniejszym oddziale jest mowa o pojeździe autonomicznym, należy przez to rozumieć pojazd samochodowy, wyposażony w systemy sprawujące kontrolę nad ruchem tego pojazdu i umożliwiające jego ruch bez ingerencji kierującego, który w każdej chwili może przejąć kontrolę nad tym pojazdem.]
+
+**Art. 65l.**
+
+1. Prowadzenie prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi w ruchu drogowym na drogach publicznych, zwanych dalej „pracami badawczymi”, jest możliwe pod warunkiem stosowania zasad ruchu drogowego, zapewnienia bezpieczeństwa ruchu drogowego oraz uzyskania zezwolenia na prowadzenie prac badawczych.
+
+2. Ustala się sześć poziomów automatyzacji, określonych w załączniku nr 3 do ustawy, w tym poziom „0” jako najniższy poziom automatyzacji i poziom „5” jako najwyższy poziom automatyzacji.
+
+3. Zezwolenia, o którym mowa w ust. 1, nie wymaga się w przypadku prowadzenia prac badawczych nad pojazdami zautomatyzowanymi o poziomie automatyzacji niższym niż poziom „3”, o którym mowa w załączniku nr 3 do ustawy.
+
+4. Pojazdy zautomatyzowane lub pojazdy w pełni zautomatyzowane stanowią pojazdy badawcze, wykorzystywane wyłącznie do prowadzenia działalności badawczo-rozwojowej w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, z późn. zm. ) i nie podlegają dalszej odsprzedaży.
+
+5. Zezwolenie, o którym mowa w ust. 1, wydaje za opłatą Krajowy Koordynator Prac Badawczych, w drodze decyzji administracyjnej, na pisemny wniosek organizatora prac badawczych.
+
+6. Zezwolenie, o którym mowa w ust. 1, określa warunki prowadzenia prac badawczych na obszarach położonych na terenie nie więcej niż pięciu województw.
+
+7. Zezwolenie, o którym mowa w ust. 1, wydaje się na okres nie dłuższy niż 3 lata. Okres ten może zostać skrócony w trakcie obowiązywania zezwolenia, jeżeli ulegną zmianie warunki określone w zezwoleniu, cel i zakres prac badawczych oraz analiza zagrożeń i ocena ryzyka, o których mowa w ust. 11 pkt 6 i ust. 13 pkt 4. W przypadku, o którym mowa w zdaniu drugim, Krajowy Koordynator Prac Badawczych stwierdza, w drodze decyzji administracyjnej, wygaśnięcie zezwolenia.
+
+8. Zezwolenie, o którym mowa w ust. 1, podlega zmianie za opłatą, na pisemny wniosek organizatora prac badawczych, w drodze decyzji administracyjnej, w zakresie danych i informacji, o których mowa w ust. 11 pkt 4, 5 i 7, oraz dokumentów, o których mowa w ust. 13 pkt 1–3, przy czym zmiana danych, o których mowa w ust. 11 pkt 7, może dotyczyć także zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi będą prowadzone prace badawcze. W przypadku zastąpienia pojazdów lub zgłoszenia dodatkowych pojazdów, w liczbie nie większej niż 7, w okresie ważności zezwolenia, organizator prac badawczych przekazuje Krajowemu Koordynatorowi Prac Badawczych, najpóźniej 7 dni przed rozpoczęciem prac badawczych z udziałem tych pojazdów, informację o liczbie nowych pojazdów oraz ich dane, o których mowa w ust. 11 pkt 7, oraz dokumenty, o których mowa w ust. 14 pkt 1–9, bez potrzeby składania wniosku o zmianę zezwolenia oraz uiszczania opłaty. W takim przypadku nie wydaje się decyzji administracyjnej o zmianie zezwolenia.
+
+9. Krajowy Koordynator Prac Badawczych prowadzi kontrolę prac badawczych w zakresie zgodności prowadzonych prac badawczych z wydanym zezwoleniem.
+
+10. Do obowiązków Krajowego Koordynatora Prac Badawczych należy:
+
+- **1)** wydawanie zezwoleń, o których mowa w ust. 1, i decyzji administracyjnych o stwierdzeniu wygaśnięcia tego zezwolenia oraz decyzji administracyjnych o odmowie wydania, zmianie, cofnięciu lub zawieszeniu tego zezwolenia;
+- **2)** prowadzenie rejestru zezwoleń, o których mowa w ust. 1, w formie elektronicznej, zawierającego:
+    - **a)** imię i nazwisko albo firmę (nazwę) organizatora prac badawczych,
+    - **b)** okres, na jaki zostało wydane zezwolenie,
+    - **c)** obszar prac badawczych,
+    - **d)** cel i zakres prac badawczych;
+
+- **3)** podawanie do publicznej wiadomości, przez opublikowanie na stronie internetowej Krajowego Koordynatora Prac Badawczych, informacji o wydanych zezwoleniach i o okresach prowadzonych prac badawczych oraz o obszarze, lokalizacji i drogach, na których będą prowadzone prace badawcze;
+- **4)** monitorowanie prac badawczych w zakresie zgodności z warunkami określonymi w zezwoleniu;
+- **5)** prowadzenie rejestru sprawozdań składanych przez organizatorów prac badawczych;
+- **6)** prowadzenie rejestru zdarzeń, o których mowa w art. 65n ust. 1 pkt 4;
+- **7)** badanie zgodności ze stanem faktycznym oświadczenia o przeprowadzeniu wewnętrznych testów symulacyjnych i prób fizycznych na zamkniętych drogach lub torach testowych;
+- **8)** ocena przeprowadzonej analizy zagrożeń i ocena ryzyka, o których mowa w ust. 13 pkt 4 oraz ust. 14 pkt 4, w tym w zakresie ich kompletności i adekwatności do zakresu planowanych prac badawczych;
+- **9)** współpraca w zakresie nadzoru nad prowadzeniem prac badawczych z podmiotami zagranicznymi, odpowiedzialnymi za nadzór nad pracami badawczymi w innych krajach;
+- **10)** sporządzanie i przekazywanie do dnia 31 stycznia kolejnego roku do ministra właściwego do spraw transportu rocznego zestawienia prac badawczych, za poprzedni rok, w tym prac badawczych transgranicznych, zawierającego nazwę organizatora prac badawczych, okresy realizacji prac badawczych oraz obszar, lokalizację i drogi, na których prowadzone były prace badawcze, na które zostały wydane zezwolenia;
+- **11)** administrowanie danymi zgromadzonymi w związku z wydawaniem zezwoleń, o których mowa w ust. 1, oraz pełnienie funkcji administratora danych osobowych przetwarzanych w związku z wydawaniem tych zezwoleń;
+- **12)** przetwarzanie danych osobowych organizatora prac badawczych, o których mowa w pkt 2 lit. a, osoby reprezentującej organizatora prac badawczych, o których mowa w ust. 11 pkt 1 lub ust. 12 pkt 2, oraz właściciela pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze, o których mowa w ust. 11 pkt 2 lub ust. 12 pkt 3, oraz usuwanie tych danych po upływie 5 lat od dnia utraty ważności zezwolenia, o którym mowa w ust. 1, lub od dnia wydania decyzji administracyjnej o stwierdzeniu wygaśnięcia zezwolenia lub decyzji administracyjnej o odmowie wydania, zmianie, cofnięciu lub zawieszeniu tego zezwolenia, z wyłączeniem spraw wszczętych i niezakończonych prawomocnym rozstrzygnięciem.
+
+11. Wniosek, o którym mowa w ust. 5, zawiera:
+
+- **1)** imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału organizatora prac badawczych oraz imię i nazwisko oraz adres zamieszkania lub adres do doręczeń elektronicznych osoby reprezentującej organizatora prac badawczych;
+- **2)** imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału właściciela pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze;
+- **3)** informację o okresie, na jaki ma zostać wydane zezwolenie na prowadzenie prac badawczych;
+- **4)** informację o planowanym obszarze prowadzenia prac badawczych, ich lokalizację oraz drogi, po których będzie poruszał się pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany, z zastrzeżeniem że obszar prowadzenia prac badawczych może obejmować maksymalnie pięć województw;
+- **5)** opis sposobu zarządzania pracami badawczymi i odpowiedzialności organizatora lub opis planowanej zmiany zezwolenia w tych zakresach;
+- **6)** cel i zakres prac badawczych;
+- **7)** dane pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze, a w przypadku wniosku o zmianę zezwolenia – dane zastępującego lub dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi będą prowadzone prace badawcze:
+    - **a)** numer rejestracyjny, z wyłączeniem profesjonalnego numeru rejestracyjnego,
+    - **b)** numer i datę decyzji o profesjonalnej rejestracji pojazdu,
+    - **c)** numer VIN pojazdu,
+    - **d)** informację o spełnieniu warunków określonych w art. 66 ust. 1 i ust. 4 pkt 1–4,
+    - **e)** deklarowany poziom automatyzacji pojazdu, zgodny z poziomami określonymi w załączniku nr 3 do ustawy;
+
+- **8)** podpis organizatora prac badawczych lub osoby jego reprezentującej.
+
+12. Wniosek o zmianę zezwolenia, o którym mowa w ust. 8, zawiera:
+
+- **1)** numer i datę zezwolenia na prowadzenie prac badawczych, którego dotyczy wniosek o zmianę tego zezwolenia;
+- **2)** imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału organizatora prac badawczych oraz imię i nazwisko oraz adres zamieszkania lub adres do doręczeń elektronicznych osoby reprezentującej organizatora prac badawczych;
+- **3)** imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału właściciela pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze;
+- **4)** informację o planowanej zmianie zezwolenia w zakresie tego obszaru, ich lokalizacji oraz drogi, po których będzie poruszał się pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany, z zastrzeżeniem że obszar prowadzenia prac badawczych może obejmować maksymalnie pięć województw;
+- **5)** opis planowanej zmiany sposobu zarządzania pracami badawczymi i odpowiedzialności organizatora;
+- **6)** dane zastępującego lub dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze:
+    - **a)** numer rejestracyjny, z wyłączeniem profesjonalnego numeru rejestracyjnego,
+    - **b)** numer i datę decyzji o profesjonalnej rejestracji pojazdu,
+    - **c)** numer VIN pojazdu,
+    - **d)** informację o spełnieniu warunków określonych w art. 66 ust. 1 i ust. 4 pkt 1–4,
+    - **e)** deklarowany poziom automatyzacji pojazdu, zgodny z poziomami określonymi w załączniku nr 3 do ustawy;
+
+- **7)** informację o zakresie zmian wynikających z dokumentów, o których mowa w ust. 13 pkt 1–3, o ile wniosek dotyczy tych zmian.
+
+13. Do wniosku, o którym mowa w ust. 5, dołącza się:
+
+- **1)** dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, dotyczącej pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze, za szkody powstałe w związku z ruchem tego pojazdu;
+- **2)** oświadczenie o dokonaniu opłacenia składki za ubezpieczenie, o którym mowa w pkt 1;
+- **3)** w przypadku pojazdów zarejestrowanych w innym państwie członkowskim Unii Europejskiej – kopię dowodu rejestracyjnego;
+- **4)** analizę zagrożeń oraz ocenę ryzyka związanego z zagrożeniami, sporządzone zgodnie z międzynarodową normą ISO 26262, dotyczącą bezpieczeństwa funkcjonalnego systemów elektrycznych lub elektronicznych montowanych w pojazdach drogowych;
+- **5)** deklarację organizatora prac badawczych potwierdzającą, że prace badawcze nie będą powodować zagrożenia bezpieczeństwa w ruchu drogowym lub poważnego zakłócenia ruchu drogowego;
+- **6)** oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że każdy z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, oraz że wnioskujący posiada udokumentowane prawo do dysponowania nimi, albo opinię rzeczoznawcy samochodowego, o którym mowa w art. 79a, lub służby technicznej, potwierdzającą, że dany pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, wraz z oświadczeniem, że wnioskujący posiada udokumentowane prawo do dysponowania nimi;
+- **7)** oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że zostały przeprowadzone wewnętrzne testy symulacyjne i próby fizyczne, o których mowa w ust. 10 pkt 7;
+- **8)** oświadczenie o wyposażeniu pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze, w rejestrator spełniający minimalne wymagania techniczne określone w przepisach wydanych na podstawie ust. 25 pkt 3;
+- **9)** kopię decyzji o udzieleniu zezwolenia na odstępstwo od warunków technicznych, o której mowa w art. 67 ust. 1, o ile zastępujący lub dodatkowy pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym planowane jest prowadzenie prac badawczych, został uprzednio dopuszczony do ruchu na jego podstawie;
+- **10)** dowód wniesienia opłaty, o której mowa w ust. 5.
+
+14. Do wniosku, o którym mowa w ust. 8, dołącza się:
+
+- **1)** dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, dotyczącej pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze, za szkody powstałe w związku z ruchem tego pojazdu – o ile wniosek dotyczy zmiany zakresu danych zawartych w tych dokumentach lub zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
+- **2)** oświadczenie o dokonaniu opłacenia składki za ubezpieczenie, o którym mowa w pkt 1 – o ile wniosek dotyczy zmiany w tym zakresie;
+- **3)** w przypadku pojazdów zarejestrowanych w innym państwie członkowskim Unii Europejskiej – kopię dowodu rejestracyjnego – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
+- **4)** analizę zagrożeń oraz ocenę ryzyka związanego z zagrożeniami, sporządzone zgodnie z międzynarodową normą ISO 26262, dotyczącą bezpieczeństwa funkcjonalnego systemów elektrycznych lub elektronicznych montowanych w pojazdach drogowych – w zakresie objętym wnioskowaną zmianą;
+- **5)** deklarację organizatora prac badawczych potwierdzającą, że prace badawcze nie będą powodować zagrożenia bezpieczeństwa w ruchu drogowym lub poważnego zakłócenia ruchu drogowego – w zakresie objętym wnioskowaną zmianą;
+- **6)** oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że każdy z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, oraz że wnioskujący posiada udokumentowane prawo do dysponowania nimi – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych, albo opinię rzeczoznawcy samochodowego, o którym mowa w art. 79a, lub służby technicznej, potwierdzającą, że dany pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym będą prowadzone prace badawcze spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, wraz z oświadczeniem, że wnioskujący posiada udokumentowane prawo do dysponowania nimi – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym planowane jest prowadzenie prac badawczych;
+- **7)** oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że zostały przeprowadzone wewnętrzne testy symulacyjne i próby fizyczne, o których mowa w ust. 10 pkt 7 – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
+- **8)** oświadczenie o wyposażeniu pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze, w rejestrator spełniający minimalne wymagania techniczne określone w przepisach wydanych na podstawie ust. 25 pkt 3 – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
+- **9)** kopię decyzji o udzieleniu zezwolenia na odstępstwo od warunków technicznych, o której mowa w art. 67 ust. 1, o ile pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym będą prowadzone prace badawcze, został uprzednio dopuszczony do ruchu na jego podstawie;
+- **10)** dowód wniesienia opłaty, o której mowa w ust. 8.
+
+15. Składający oświadczenie, o którym mowa w ust. 13 pkt 6 lub ust. 14 pkt 6, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że każdy z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz że posiadam udokumentowane prawo do dysponowania tymi pojazdami.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+16. Składający oświadczenie, o którym mowa w ust. 13 pkt 7 lub ust. 14 pkt 7, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że zostały przeprowadzone wewnętrzne testy symulacyjne i próby fizyczne na zamkniętych drogach lub torach testowych każdego z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+17. Krajowy Koordynator Prac Badawczych niezwłocznie informuje o wydaniu zezwolenia, o którym mowa w ust. 1, oraz o zgłoszeniu przez organizatora prac badawczych zastąpienia pojazdów lub zgłoszenia nowych pojazdów, w okresie ważności zezwolenia, o którym mowa w ust. 1:
+
+- **1)** komendanta wojewódzkiego Policji, właściwego dla obszaru planowanych prac badawczych;
+- **2)** komendanta wojewódzkiego Państwowej Straży Pożarnej, właściwego dla obszaru planowanych prac badawczych;
+- **3)** organ zarządzający ruchem na drodze w zakresie prowadzenia prac badawczych i organizacji ruchu na drogach, na których planowane są prace badawcze.
+
+18. Zadania Krajowego Koordynatora Prac Badawczych realizuje Dyrektor Instytutu Transportu Samochodowego.
+
+19. Minister właściwy do spraw transportu sprawuje nadzór nad działalnością Krajowego Koordynatora Prac Badawczych.
+
+20. Opłatę za wydanie zezwolenia, o którym mowa w ust. 1, lub opłatę za zmianę tego zezwolenia uiszcza się na wyodrębniony rachunek bankowy Instytutu Transportu Samochodowego, z zastrzeżeniem że prowizja stanowiąca:
+
+- **1)** 10 % tych opłat jest przekazywana do budżetu województwa – właściwego ze względu na najdłuższy łączny odcinek dróg wojewódzkich,
+- **2)** 10 % tych opłat jest przekazywana do budżetu powiatu – właściwego ze względu na najdłuższy łączny odcinek dróg powiatowych,
+- **3)** 10 % tych opłat jest przekazywana do budżetu gminy – właściwej ze względu na najdłuższy łączny odcinek dróg gminnych – na których są prowadzone prace badawcze określone w tym zezwoleniu.
+
+21. Opłaty, o których mowa w ust. 20, stanowią przychód Instytutu Transportu Samochodowego, a prowizja, o której mowa w ust. 20, stanowi dochód właściwej jednostki samorządu terytorialnego.
+
+22. Jeżeli zezwolenie, o którym mowa w ust. 1, nie obejmuje dróg danej kategorii drogi, o których mowa w ust. 20, prowizja właściwa dla danej kategorii drogi podlega podziałowi w równych częściach na pozostałe kategorie dróg.
+
+23. Maksymalna wysokość stawki opłaty za:
+
+- **1)** wydanie zezwolenia, o którym mowa w ust. 1, wynosi:
+    - **a)** 20 000 zł – w przypadku wniosku o wydanie tego zezwolenia obejmującego obszary położone na terenie jednego województwa,
+    - **b)** 40 000 zł – w przypadku wniosku o wydanie tego zezwolenia obejmującego obszary położone na terenie od dwóch do pięciu województw;
+
+- **2)** zmianę zezwolenia, o którym mowa w ust. 1, wynosi 5000 zł.
+
+24. W przypadku odmowy wydania zezwolenia, o którym mowa w ust. 1, lub zmiany tego zezwolenia Krajowy Koordynator Prac Badawczych z urzędu, w terminie 30 dni od dnia, w którym decyzja o odmowie stała się ostateczna, zwraca 70 % opłaty za wydanie zezwolenia lub zmianę zezwolenia.
+
+25. Minister właściwy do spraw transportu, kierując się potrzebą uzyskania jednolitych informacji niezbędnych do wydania zezwolenia, o którym mowa w ust. 1, oraz potrzebą zapewnienia dostępu do jednolitych informacji o niezawodności funkcjonowania pojazdów zautomatyzowanych i pojazdów w pełni zautomatyzowanych, sposobie poruszania się tych pojazdów po drogach, sposobie sterowania tymi pojazdami i bezpieczeństwie ruchu drogowego, określi, w drodze rozporządzenia:
+
+- **1)** wzory wniosków, o których mowa w ust. 5 i 8;
+- **2)** wzór sprawozdania, o którym mowa w art. 65n ust. 1 pkt 5;
+- **3)** minimalne wymagania techniczne dotyczące elektronicznego rejestratora, o którym mowa w art. 65n ust. 1 pkt 1, oraz sposób i format udostępniania danych na potrzeby rejestracji obrazu z przodu, z tyłu i z wnętrza pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi będą prowadzone prace badawcze, oraz dźwięku z wnętrza tych pojazdów.
+
+26. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wysokość opłat za:
+
+- **1)** wydanie zezwolenia, o którym mowa w ust. 1, dla poszczególnych obszarów, o których mowa w ust. 23 pkt 1, z uwzględnieniem wielkości obszaru oraz okresu, na jaki zezwolenie będzie wydane, i liczby pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze i wskazanych w zezwoleniu, mając na uwadze poziom automatyzacji tych pojazdów oraz nakład pracy i koszty wydania zezwolenia; 2) zmianę zezwolenia, o którym mowa w ust. 1, mając na uwadze nakład pracy w ramach rozpatrywania wniosku o tę zmianę i koszty zmiany tego zezwolenia.
+
+**Art. 65m.**
+
+1. Krajowy Koordynator Prac Badawczych, w drodze decyzji administracyjnej, odmawia wydania lub zmiany zezwolenia, o którym mowa w art. 65l ust. 1, jeżeli:
+
+- **1)** organizator prac badawczych:
+    - **a)** nie podał we wniosku, o którym mowa w art. 65l ust. 5 lub 8, danych i informacji, o których mowa w art. 65l ust. 11 lub 12,
+    - **b)** nie dołączył do wniosku, o którym mowa w art. 65l ust. 5 lub 8, dokumentów, o których mowa w art. 65l ust. 13 lub 14;
+
+- **2)** mimo złożenia deklaracji, o której mowa w art. 65l ust. 13 pkt 5 lub ust. 14 pkt 5, stwierdzi, że prace badawcze będą stanowić zagrożenie bezpieczeństwa w ruchu drogowym lub poważne zakłócenie ruchu drogowego.
+
+2. Krajowy Koordynator Prac Badawczych na każdym etapie prac badawczych:
+
+- **1)** cofa, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 65l ust. 1, jeżeli:
+    - **a)** organizator prac badawczych podał we wniosku, o którym mowa w art. 65l ust. 5 lub 8, nieprawdziwe informacje,
+    - **b)** prace badawcze są prowadzone niezgodnie z warunkami tego zezwolenia lub niezgodnie z analizą zagrożeń oraz oceną ryzyka, o których mowa w art. 65l ust. 13 pkt 4 lub ust. 14 pkt 4,
+    - **c)** w wyniku prowadzonych prac badawczych ujawniono incydent lub zdarzenie drogowe, stanowiące zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości, do którego doszło wskutek okoliczności, na które organizator prac badawczych miał wpływ lub godził się na ich powstanie;
+
+- **2)** zawiesza, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 65l ust. 1, a okres obowiązywania zezwolenia ulega wydłużeniu o czas zawieszenia zezwolenia, w przypadku gdy:
+    - **a)** w wyniku rażących zaniedbań organizatora prac badawczych doszło do incydentu lub zdarzenia drogowego, a dalsze prowadzenie prac badawczych może stanowić zagrożenie dla życia lub zdrowia ludzkiego albo mienia – do czasu ustania tego zagrożenia,
+    - **b)** organizator prac badawczych nie zgłosił zmiany danych i informacji, o których mowa w art. 65l ust. 11 i 12, oraz nie aktualizował dokumentów, o których mowa w art. 65l ust. 13 i 14, w terminie 14 dni od dnia zaistnienia tych zmian – do czasu wypełnienia tego obowiązku,
+    - **c)** po zakończeniu obowiązującej umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, o której mowa w art. 65n ust. 4, organizator prac badawczych nie przedstawił polisy ubezpieczenia na kolejny okres ubezpieczenia pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi są prowadzone prace badawcze, za szkody powstałe w związku z ruchem tego pojazdu, do czasu przedłożenia nowej umowy ubezpieczenia.
+
+3. Krajowy Koordynator Prac Badawczych:
+
+- **1)** przeprowadza kontrolę prowadzonych prac badawczych, przynajmniej raz w okresie ważności zezwolenia, o którym mowa w art. 65l ust. 1, w zakresie zgodności z warunkami określonymi w zezwoleniu i analizą zagrożeń oraz oceną ryzyka, o których mowa w art. 65l ust. 13 pkt 4 lub ust. 14 pkt 4;
+- **2)** może wyznaczyć obserwatora do monitorowania prowadzonych prac badawczych, z zachowaniem obowiązku poinformowania o takim zamiarze organizatora prac badawczych z wyprzedzeniem co najmniej 3 dni przed planowanym dniem uczestnictwa w tych pracach wraz z podaniem imienia i nazwiska tego obserwatora oraz z zapewnieniem jego niezależności, bezstronności i braku konfliktu interesów.
+
+4. Obserwator, o którym mowa w ust. 3 pkt 2, jest obowiązany wykonywać czynności związane z monitorowaniem prowadzonych prac badawczych w sposób niezakłócający przebiegu prac badawczych, jak również uwzględniający potrzebę ochrony własności intelektualnej i tajemnicy przedsiębiorstwa organizatora prac badawczych lub innych podmiotów.
+
+5. Organizator prac badawczych jest obowiązany umożliwić uczestnictwo w prowadzonych pracach badawczych obserwatorowi, o którym mowa w ust. 3 pkt 2.
+
+6. Krajowy Koordynator Prac Badawczych może zawiesić, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 65l ust. 1, w przypadku uniemożliwienia przez organizatora prac badawczych uczestnictwa w pracach badawczych obserwatora, o którym mowa w ust. 3 pkt 2, lub niepoddania się kontroli, o której mowa w ust. 3 pkt 1, do czasu umożliwienia uczestnictwa obserwatora lub poddania się kontroli, z wyjątkiem uzasadnionej przerwy w prowadzeniu prac badawczych. Okres obowiązywania zezwolenia ulega wydłużeniu o czas zawieszenia zezwolenia.
+
+7. Organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w sprawach, o których mowa w ust. 1, 2 i 6 oraz art. 65l ust. 1, 5, 7, 8 i ust. 10 pkt 1, jest minister właściwy do spraw transportu.
+
+8. Krajowy Koordynator Prac Badawczych i osoby wyznaczone do prowadzenia spraw z zakresu wydawania zezwoleń, o których mowa w art. 65l ust. 1, i decyzji administracyjnych o stwierdzeniu wygaśnięcia tego zezwolenia oraz decyzji administracyjnych o odmowie wydania, zmianie, cofnięciu lub zawieszeniu tego zezwolenia oraz realizacji innych obowiązków Krajowego Koordynatora Prac Badawczych, o których mowa w art. 65l ust. 10 pkt 2–12, oraz prowadzenia spraw z zakresu kontroli prowadzonych prac badawczych, o której mowa w ust. 3 pkt 1, i występowania w roli obserwatora, o którym mowa w ust. 3 pkt 2, są obowiązani do:
+
+- **1)** zachowania poufności danych udostępnianych im w toku prowadzenia postępowań administracyjnych, realizacji zadań i obowiązków Krajowego Koordynatora Prac Badawczych, prowadzenia spraw z zakresu kontroli prac badawczych i monitorowania tych prac, jak również pozyskanych w związku z tymi działaniami oraz po ich zakończeniu;
+- **2)** powstrzymania się od:
+    - **a)** występowania w roli członków organów spółek handlowych lub pełnomocników przedsiębiorców, którzy są organizatorem prac badawczych,
+    - **b)** prowadzenia prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi na drogach publicznych w Polsce w rozumieniu niniejszej ustawy, w zakresie wydawanych zezwoleń na prowadzenie prac badawczych,
+    - **c)** bycia wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej prowadzącej działalność, o której mowa w lit. a,
+    - **d)** bezpośredniego posiadania akcji lub udziałów w spółkach handlowych organizatora prac badawczych,
+    - **e)** wykonywania zajęcia zarobkowego na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w lit. a, c i d.
+
+9. Krajowy Koordynator Prac Badawczych i osoby, o których mowa w ust. 8, składają oświadczenie dotyczące obowiązków określonych w ust. 8, zwane dalej „oświadczeniem o zachowaniu poufności i braku konfliktu interesów”.
+
+10. Oświadczenie o zachowaniu poufności i braku konfliktu interesów składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenie o zachowaniu poufności i braku konfliktu interesów jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że zachowam w poufności wszystkie dane i informacje pozyskane w ramach realizacji zadań i obowiązków, o których mowa w art. 65l ust. 10 oraz art. 65m ust. 3 pkt 1 i 2 ustawy – Prawo o ruchu drogowym, jak również pozyskanych w związku z tymi działaniami oraz po ich zakończeniu, oraz nie wykorzystam tych danych i informacji w celach innych niż określone w powyższych przepisach ustawy, a także nie posiadam konfliktu interesów w tym zakresie, a w szczególności nie prowadzę prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi na drogach publicznych w Polsce w rozumieniu ustawy – Prawo o ruchu drogowym, nie jestem członkiem organów spółek handlowych lub pełnomocnikiem przedsiębiorców, którzy są organizatorem prac badawczych, nie jestem wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej prowadzącej działalność w ramach prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, nie posiadam bezpośrednio akcji lub udziałów w spółkach handlowych prowadzących działalność, w ramach prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, nie wykonuję zajęć zarobkowych na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w art. 65m ust. 8 pkt 2 lit. a, c i d ustawy – Prawo o ruchu drogowym.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+11. Oświadczenie o zachowaniu poufności i braku konfliktu interesów składają:
+
+- **1)** ministrowi właściwemu do spraw transportu – Krajowy Koordynator Prac Badawczych;
+- **2)** Krajowemu Koordynatorowi Prac Badawczych – osoby obowiązane do złożenia oświadczenia, o których mowa w ust. 8.
+
+12. Oświadczenie o zachowaniu poufności i braku konfliktu interesów składa się:
+
+- **1)** przed zawarciem umowy o pracę, zmianą stanowiska pracy lub zawarciem umowy cywilnoprawnej;
+- **2)** corocznie do dnia 15 stycznia według stanu na dzień 31 grudnia roku poprzedniego;
+- **3)** w terminie 14 dni od dnia powzięcia informacji o okolicznościach, o których mowa w ust. 8.
+
+13. Naruszenie obowiązków, o których mowa w ust. 8–12, stanowi podstawę do odmowy nawiązania stosunku pracy, rozwiązania stosunku pracy bez wypowiedzenia z winy pracownika, odmowy zawarcia lub wypowiedzenia umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze, odwołania ze stanowiska Krajowego Koordynatora Prac Badawczych.
+
+14. Oświadczenia o zachowaniu poufności i braku konfliktu interesów podlegają ocenie właściwego organu, o którym mowa w ust. 11 pkt 1 lub 2, pod względem możliwości wystąpienia w trakcie prowadzonego postępowania administracyjnego lub planowanej kontroli lub monitorowania prac badawczych. W przypadku stwierdzenia konfliktu interesów lub naruszenia obowiązku zachowania poufności osoba, o której mowa w ust. 8, podlega wyłączeniu z postępowania administracyjnego, nie uczestniczy w przeprowadzaniu kontroli lub monitorowaniu prac badawczych.
+
+15. Dyrektor Instytut Transportu Samochodowego w ramach prowadzonych działań zapewnia zachowanie w poufności danych i informacji pozyskanych w ramach realizacji zadań i obowiązków, o których mowa w ust. 3 pkt 1 i 2 oraz art. 65l ust. 10, jak również pozyskanych w związku z tymi działaniami oraz po ich zakończeniu, a także niewykorzystywanie tych danych i informacji przez Instytut Transportu Samochodowego w zakresie prowadzonych działań oraz w celach, innych niż określone w ustawie. 16. W przypadku gdy Instytut Transportu Samochodowego poniósł szkodę wskutek naruszenia obowiązków, o których mowa w ust. 8, może dochodzić od osób, które naruszyły te obowiązki, wyrównania tej szkody na zasadach określonych w przepisach działu piątego rozdziału I ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661). < Art. 65n. 1. Organizator prac badawczych jest obowiązany:
+
+- **1)** wyposażyć pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany, nad którym są prowadzone prace badawcze, w elektroniczny rejestrator, który rejestruje i przechowuje obraz z przodu, z tyłu i z wnętrza pojazdu oraz dźwięk z wnętrza pojazdu;
+- **2)** prowadzić wewnętrzne testy symulacyjne i próby fizyczne na zamkniętych drogach lub torach testowych;
+- **3)** rejestrować obecność kierowcy mającego kontrolę lub mogącego w każdej chwili przejąć kontrolę nad pojazdem zautomatyzowanym albo pojazdem w pełni zautomatyzowanym, nad którymi są prowadzone prace badawcze;
+- **4)** rejestrować zdarzenia, w których doszło do wypadku z udziałem pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego, przechowywać zapisy tej rejestracji przez okres 12 miesięcy od daty zdarzenia, a także przekazywać te zapisy Krajowemu Koordynatorowi Prac Badawczych, wraz z opisem okoliczności i wskazaniem czasu oraz miejsca zdarzenia;
+- **5)** przekazać Krajowemu Koordynatorowi Prac Badawczych sprawozdanie z przeprowadzonych prac badawczych, zgodnie z wzorem określonym w przepisach wydanych na podstawie art. 65l ust. 25 pkt 2, w terminie 30 dni od dnia zakończenia prac badawczych lub utraty ważności zezwolenia, o którym mowa w art. 65l ust. 1, przy uwzględnieniu, że organizator prac badawczych nie jest obowiązany do ujawniania w treści sprawozdania informacji stanowiących jego tajemnicę przedsiębiorstwa lub innych podmiotów;
+- **6)** zapewnić, aby:
+    - **a)** w trakcie prowadzenia prac badawczych w pojeździe zautomatyzowanym albo w pojeździe w pełni zautomatyzowanym znajdowała się osoba posiadająca uprawnienia do kierowania pojazdem, odpowiednie do kategorii pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, która ma kontrolę lub może w każdej chwili przejąć kontrolę nad tym pojazdem i którą uważa się za kierującego,
+    - **b)** pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany i ich systemy podlegające pracom badawczym posiadały odpowiedni poziom cyberbezpieczeństwa,
+    - **c)** pojazd zautomatyzowany i pojazd w pełni zautomatyzowany oraz wszystkie systemy i prototypy pojazdu, a także inne systemy lub prototypy, nad którymi są prowadzone prace badawcze, były chronione przed nieuprawnionym dostępem, w szczególności dostępem przez Internet;
+
+- **7)** uwzględnić cyberzagrożenia w zarządzaniu ryzykiem;
+- **8)** zgłaszać w formie pisemnej, w postaci papierowej lub elektronicznej, Krajowemu Koordynatorowi Prac Badawczych informacje o rozpoczęciu i zakończeniu prac badawczych, odpowiednio nie później niż w terminie 7 dni przed rozpoczęciem lub zakończeniem prac badawczych;
+- **9)** zgłaszać w formie pisemnej, w postaci papierowej lub elektronicznej, Krajowemu Koordynatorowi Prac Badawczych, który udzielił zezwolenia, o którym mowa w art. 65l ust. 1, zmiany danych i informacji, wskazanych we wniosku, o których mowa w art. 65l ust. 11, oraz aktualizować dokumenty do wniosku, o których mowa w art. 65l ust. 13;
+- **10)** wystąpić do Krajowego Koordynatora Prac Badawczych z wnioskiem o zmianę zezwolenia, o którym mowa w art. 65l ust. 1, wraz z wymaganymi dokumentami, w zależności od zakresu zmiany, jeżeli zmiany, o których mowa w pkt 9, obejmują dane i informacje, o których mowa w art. 65l ust. 11 pkt 4, 5 i 7, lub wymagać będą aktualizacji dokumentów do wniosku, o których mowa w art. 65l ust. 13 pkt 1–3, z zastrzeżeniem art. 65l ust. 8 zdanie drugie.
+
+2. Sprawozdanie, o którym mowa w ust. 1 pkt 5, zawiera w szczególności:
+
+- **1)** imię i nazwisko albo firmę (nazwę) organizatora prac badawczych;
+- **2)** terminy rozpoczęcia i zakończenia prac badawczych;
+- **3)** opis zautomatyzowanych i w pełni zautomatyzowanych systemów i funkcji w pojeździe zautomatyzowanym lub pojeździe w pełni zautomatyzowanym, nad którym były prowadzone prace badawcze, z uwzględnieniem ochrony informacji stanowiących tajemnicę przedsiębiorstwa organizatora prac badawczych lub innych podmiotów;
+- **4)** cel i zakres prac badawczych;
+- **5)** wykaz dokumentacji wykorzystanej lub sporządzonej podczas prac badawczych;
+- **6)** opis przebiegu prac badawczych;
+- **7)** opis wyników prac badawczych;
+- **8)** podsumowanie wyników prac badawczych;
+- **9)** informację o wystąpieniu i liczbie incydentów i zdarzeń z udziałem pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym były prowadzone prace badawcze.
+
+3. Posiadacz pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego ponosi odpowiedzialność za szkody na osobie lub mieniu wyrządzone komukolwiek przez ruch takiego pojazdu, na zasadzie określonej w art. 436 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508). Do odpowiedzialności posiadacza, o której mowa w zdaniu pierwszym, nie stosuje się art. 436 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, o ile nie można przypisać winy żadnemu z posiadaczy pojazdów lub kierujących pojazdami, które się zderzyły.
+
+4. Posiadacz pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego jest obowiązany zawrzeć umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego, o którym mowa w art. 4 pkt 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2025 r. poz. 367, z późn. zm. ). Umowę obowiązkowego ubezpieczenia, o której mowa w zdaniu pierwszym, może zawrzeć również organizator prac badawczych.
 
 ##### Oddział 7 Dopuszczenie do ruchu samochodów osobowych przeznaczonych do zawodów sportowych
 
@@ -2123,7 +2095,8 @@ Art. 141–143. (pominięte)
 - **1)** nie zagrażało bezpieczeństwu osób nim jadących lub innych uczestników ruchu, nie naruszało porządku ruchu na drodze i nie narażało kogokolwiek na szkodę;
 - **2)** nie zakłócało spokoju publicznego przez powodowanie hałasu przekraczającego poziom określony w przepisach szczegółowych;
 - **3)** nie powodowało wydzielania szkodliwych substancji w stopniu przekraczającym wielkości określone w przepisach szczegółowych;
-- **4)** nie powodowało niszczenia drogi; [5) zapewniało dostateczne pole widzenia kierowcy oraz łatwe, wygodne i pewne posługiwanie się urządzeniami do kierowania, hamowania, sygnalizacji i oświetlenia drogi przy równoczesnym jej obserwowaniu;] <5) zapewniało dostateczne pole widzenia kierowcy oraz łatwe, wygodne i pewne posługiwanie się urządzeniami do kierowania, hamowania, sygnalizacji i oświetlenia drogi przy równoczesnym jej obserwowaniu, z wyłączeniem pojazdu w pełni zautomatyzowanego;>
+- **4)** nie powodowało niszczenia drogi;
+- **5)** zapewniało dostateczne pole widzenia kierowcy oraz łatwe, wygodne i pewne posługiwanie się urządzeniami do kierowania, hamowania, sygnalizacji i oświetlenia drogi przy równoczesnym jej obserwowaniu, z wyłączeniem pojazdu w pełni zautomatyzowanego;
 - **6)** nie powodowało zakłóceń radioelektrycznych w stopniu przekraczającym wielkości określone w przepisach szczegółowych.
 
 1a. Pojazdy kategorii M oraz M powinny być wyposażone w homologowany ogranicznik prędkości ograniczający maksymalną prędkość tych pojazdów do 100 km/h, pojazdy kategorii N oraz N powinny być wyposażone w homologowany ogranicznik prędkości ograniczający maksymalną prędkość tych pojazdów do 90 km/h. Ogranicznik prędkości powinien być montowany przez producenta lub jednostkę przez niego upoważnioną.
@@ -2341,14 +2314,17 @@ Art. 141–143. (pominięte)
 
 - **1)** pojazdu, który był już zarejestrowany na terytorium Rzeczypospolitej Polskiej – w zakresie ust. 1 pkt 3;
 - **1a)** pojazdu, który był już zarejestrowany na terytorium Rzeczypospolitej Polskiej i od ostatniej rejestracji nie nastąpiła zmiana właściciela tego pojazdu, w przypadku gdy przerejestrowanie pojazdu jest dokonywane na wniosek właściciela tego pojazdu w związku ze zmianą jego miejsca zamieszkania (siedziby) – w zakresie dowodu własności pojazdu, o którym mowa w ust. 1 pkt 1;
-- **2)** pojazdu zakupionego po przepadku na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego – w zakresie ust. 1 pkt 5; <2a) pojazdu, którego własność przeszła na gminę na podstawie art. 50a ust. 2 zdanie drugie – w zakresie ust. 1 pkt 5;
-- **2b)** pojazdu, wobec którego sąd orzekł przepadek na rzecz powiatu w związku z wnioskiem, o którym mowa w art. 130a ust. 10 zdanie pierwsze – w zakresie ust. 1 pkt 5;>
+- **2)** pojazdu zakupionego po przepadku na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego – w zakresie ust. 1 pkt 5;
+- **2a)** pojazdu, którego własność przeszła na gminę na podstawie art. 50a ust. 2 zdanie drugie – w zakresie ust. 1 pkt 5; 2b) pojazdu, wobec którego sąd orzekł przepadek na rzecz powiatu w związku z wnioskiem, o którym mowa w art. 130a ust. 10 zdanie pierwsze – w zakresie ust. 1 pkt 5;
 - **3)** pojazdu zakupionego od Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Krajowej Administracji Skarbowej lub Sił Zbrojnych Rzeczypospolitej Polskiej – w zakresie ust. 1 pkt 5;
 - **4)** (uchylony)
 - **5)** pojazdu wycofanego czasowo z ruchu – w zakresie ust. 1 pkt 5; w tym przypadku zamiast dowodu rejestracyjnego wymaga się przedstawienia decyzji o czasowym wycofaniu pojazdu z ruchu;
 - **6)** (uchylony)
 - **7)** pojazdu wyrejestrowanego, o którym mowa w art. 79 ust. 4 pkt 3 – w przypadku powtórnej rejestracji – w zakresie ust. 1 pkt 5;
-- **8)** pojazdu, o którym mowa w art. 81 ust. 4 pkt 1 – w zakresie ust. 1 pkt 4; <9) pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej – w zakresie ust. 1 pkt 4, jeżeli informacja o aktualnym pozytywnym wyniku badania technicznego pojazdu jest zamieszczona w centralnej ewidencji pojazdów.> 2a. W przypadku pojazdu sprowadzanego z terytorium państwa niebędącego państwem członkowskim zamiast dowodu rejestracyjnego, o którym mowa w ust. 1 pkt 5, dopuszcza się przedstawienie innego dokumentu stwierdzającego rejestrację pojazdu, wydanego przez organ właściwy do rejestracji pojazdów w tym państwie.
+- **8)** pojazdu, o którym mowa w art. 81 ust. 4 pkt 1 – w zakresie ust. 1 pkt 4;
+- **9)** pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej – w zakresie ust. 1 pkt 4, jeżeli informacja o aktualnym pozytywnym wyniku badania technicznego pojazdu jest zamieszczona w centralnej ewidencji pojazdów.
+
+2a. W przypadku pojazdu sprowadzanego z terytorium państwa niebędącego państwem członkowskim zamiast dowodu rejestracyjnego, o którym mowa w ust. 1 pkt 5, dopuszcza się przedstawienie innego dokumentu stwierdzającego rejestrację pojazdu, wydanego przez organ właściwy do rejestracji pojazdów w tym państwie.
 
 2b. W przypadku pojazdu zabytkowego, zamiast dowodu rejestracyjnego, dopuszcza się przedstawienie oświadczenia właściciela pojazdu, złożonego pod rygorem odpowiedzialności karnej za fałszywe zeznania, że nie posiada dowodu rejestracyjnego.
 
@@ -2360,11 +2336,15 @@ Art. 141–143. (pominięte)
 
 5. W przypadku utraty dowodu rejestracyjnego pojazdu zarejestrowanego za granicą zamiast tego dokumentu należy przedstawić jego wtórnik albo dokument wystawiony przez organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu, potwierdzający dane zawarte w utraconym dokumencie niezbędne do rejestracji pojazdu. Jeżeli organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu za granicą odmówił wydania wtórnika dowodu rejestracyjnego albo dokumentu potwierdzającego dane zawarte w utraconym dokumencie, starosta może wystąpić do tego organu o potwierdzenie tych danych. Uzyskane potwierdzenie tych danych, w postaci papierowej albo elektronicznej, zastępuje dokument potwierdzający dane zawarte w utraconym dokumencie niezbędne do rejestracji pojazdu.
 
-6. W przypadku utraty dowodu rejestracyjnego pojazdu wywiezionego z kraju, uprzednio zarejestrowanego na terytorium Rzeczypospolitej Polskiej, organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej, na wniosek właściciela pojazdu, wydaje zaświadczenie potwierdzające dane zawarte w utraconym dowodzie rejestracyjnym. <Art. 72a. 1. W przypadku gdy pojazd wcześniej zarejestrowany w innym państwie członkowskim jest rejestrowany po raz pierwszy na terytorium Rzeczypospolitej Polskiej, organ rejestrujący za pośrednictwem Krajowego Punktu Kontaktowego, o którym mowa w art. 80k ust. 1, pobiera dane pojazdu z bazy danych państwa członkowskiego, w którym pojazd był wcześniej zarejestrowany, jeżeli dane te są dostępne.
+6. W przypadku utraty dowodu rejestracyjnego pojazdu wywiezionego z kraju, uprzednio zarejestrowanego na terytorium Rzeczypospolitej Polskiej, organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej, na wniosek właściciela pojazdu, wydaje zaświadczenie potwierdzające dane zawarte w utraconym dowodzie rejestracyjnym.
+
+**Art. 72a.**
+
+1. W przypadku gdy pojazd wcześniej zarejestrowany w innym państwie członkowskim jest rejestrowany po raz pierwszy na terytorium Rzeczypospolitej Polskiej, organ rejestrujący za pośrednictwem Krajowego Punktu Kontaktowego, o którym mowa w art. 80k ust. 1, pobiera dane pojazdu z bazy danych państwa członkowskiego, w którym pojazd był wcześniej zarejestrowany, jeżeli dane te są dostępne.
 
 2. Dane, o których mowa w ust. 1, organ rejestrujący porównuje z odpowiednimi danymi zamieszczonymi w dokumentach, o których mowa w art. 72 ust. 1 i 1b–3.
 
-3. Przepisy ust. 1 i 2 stosuje się wyłącznie w zakresie danych udostępnianych przy zastosowaniu urządzeń, oprogramowania i procedur określonych w art. 80l.>
+3. Przepisy ust. 1 i 2 stosuje się wyłącznie w zakresie danych udostępnianych przy zastosowaniu urządzeń, oprogramowania i procedur określonych w art. 80l.
 
 **Art. 73.**
 
@@ -2375,7 +2355,7 @@ Art. 141–143. (pominięte)
 - **1)** aplikacji mObywatel w rozumieniu art. 2 pkt 1 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019) albo,
 - **2)** usługi sieciowej. 1ah. Imię i nazwisko składającego wniosek o rejestrację pojazdu, jego numer PESEL oraz numer telefonu komórkowego, adres poczty elektronicznej lub adres do doręczeń elektronicznych za jego zgodą mogą być przekazane do rejestru danych kontaktowych osób fizycznych, o którym mowa w rozdziale 3a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. 1ai. W przypadku, o którym mowa w:
 - **1)** ust. 1ab pkt 1, dane dotyczące wniosku oraz dane zamieszczone we wniosku są zapisywane w centralnej ewidencji pojazdów,
-- **2)** ust. 1ab pkt 2, starosta wprowadza dane do centralnej ewidencji pojazdów – w zakresie i na zasadach określonych w art. 80b–80bb. 1aj. W przypadku, o którym mowa w ust. 1ab pkt 1, administrator danych i informacji zgromadzonych w centralnej ewidencji pojazdów przekazuje właściwemu staroście informację o złożonym wniosku o rejestrację pojazdu przez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący tę ewidencję do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z rejestracją pojazdów. 1ak. W przypadku, o którym mowa w ust. 1ab pkt 1, jeżeli starosta stwierdzi brak właściwości w zakresie rejestracji pojazdu, powiadamia o tym administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów, wskazując organ właściwy. Administrator danych i informacji zgromadzonych w centralnej ewidencji pojazdów przekazuje właściwemu staroście informację o złożonym wniosku o rejestrację pojazdu przez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący tę ewidencję do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z rejestracją pojazdów. 1al. W przypadku zachowania dotychczasowego numeru rejestracyjnego, o którym mowa w ust. 1a zdanie pierwsze, złożenie wniosku o rejestrację pojazdu za pomocą usługi udostępnionej przez ministra właściwego do spraw informatyzacji, o której mowa w ust. 1ab pkt 1, stanowi potwierdzenie zgodności kopii dokumentów dołączonych do wniosku o rejestrację pojazdu z ich oryginałami.> 1b. Właściciel albo podmiot, o którym mowa w ust. 2 i 5, będący posiadaczami pojazdu samochodowego zarejestrowanego na terytorium Rzeczypospolitej Polskiej, z wyłączeniem motocykla, mogą wnioskować do organu rejestrującego właściwego ze względu na miejsce ostatniej rejestracji pojazdu o wydanie dodatkowej zalegalizowanej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną. Dodatkowa tablica rejestracyjna posiada ten sam numer rejestracyjny co numer rejestracyjny pojazdu samochodowego. W przypadku gdy pojazd samochodowy nie posiada tablic rejestracyjnych zgodnych z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a, organ rejestrujący wydaje nową decyzję o rejestracji pojazdu wraz z kompletem zalegalizowanych tablic rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu samochodowego i nowym dowodem rejestracyjnym oraz dodatkową zalegalizowaną tablicę rejestracyjną.
+- **2)** ust. 1ab pkt 2, starosta wprowadza dane do centralnej ewidencji pojazdów – w zakresie i na zasadach określonych w art. 80b–80bb. 1aj. W przypadku, o którym mowa w ust. 1ab pkt 1, administrator danych i informacji zgromadzonych w centralnej ewidencji pojazdów przekazuje właściwemu staroście informację o złożonym wniosku o rejestrację pojazdu przez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący tę ewidencję do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z rejestracją pojazdów. 1ak. W przypadku, o którym mowa w ust. 1ab pkt 1, jeżeli starosta stwierdzi brak właściwości w zakresie rejestracji pojazdu, powiadamia o tym administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów, wskazując organ właściwy. Administrator danych i informacji zgromadzonych w centralnej ewidencji pojazdów przekazuje właściwemu staroście informację o złożonym wniosku o rejestrację pojazdu przez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący tę ewidencję do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z rejestracją pojazdów. 1al. W przypadku zachowania dotychczasowego numeru rejestracyjnego, o którym mowa w ust. 1a zdanie pierwsze, złożenie wniosku o rejestrację pojazdu za pomocą usługi udostępnionej przez ministra właściwego do spraw informatyzacji, o której mowa w ust. 1ab pkt 1, stanowi potwierdzenie zgodności kopii dokumentów dołączonych do wniosku o rejestrację pojazdu z ich oryginałami.
 
 1c. Dodatkową zalegalizowaną tablicę rejestracyjną, o której mowa w ust. 1b, organ rejestrujący wydaje po:
 
@@ -2421,7 +2401,11 @@ Art. 141–143. (pominięte)
 
 5. Właściwy miejscowo dla siedziby sejmiku województwa prezydent miasta na prawach powiatu udostępnia organom rejestrującym informacje z ewidencji tablic rejestracyjnych indywidualnych oraz pojemności rejestracyjne, o których mowa w ust. 1 pkt 2.
 
-6. Ewidencję tablic rejestracyjnych indywidualnych prowadzi się w sposób zabezpieczający przed zniszczeniem oraz dostępem osób nieuprawnionych. Wyznaczenia i udostępnienia pojemności rejestracyjnych, o których mowa w ust. 1 pkt 2, dokonuje się w sposób zabezpieczający przed dostępem osób nieuprawnionych. Art. 73aa. 1. Właściciel pojazdu jest obowiązany złożyć wniosek o jego rejestrację w terminie 30 dni od dnia:
+6. Ewidencję tablic rejestracyjnych indywidualnych prowadzi się w sposób zabezpieczający przed zniszczeniem oraz dostępem osób nieuprawnionych. Wyznaczenia i udostępnienia pojemności rejestracyjnych, o których mowa w ust. 1 pkt 2, dokonuje się w sposób zabezpieczający przed dostępem osób nieuprawnionych.
+
+**Art. 73aa.**
+
+1. Właściciel pojazdu jest obowiązany złożyć wniosek o jego rejestrację w terminie 30 dni od dnia:
 
 - **1)** nabycia pojazdu na terytorium Rzeczypospolitej Polskiej;
 - **2)** dopuszczenia do obrotu przez organ Krajowej Administracji Skarbowej pojazdu sprowadzonego z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej;
@@ -2449,9 +2433,8 @@ Art. 141–143. (pominięte)
 
 - **1)** zaświadczenie o demontażu pojazdu, o którym mowa w:
     - **a)** art. 79 ust. 2,
-    - **b)** art. 24 ust. 1 pkt 2 albo art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz.
+    - **b)** art. 24 ust. 1 pkt 2 albo art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz. 2056);
 
-- **2056)** ;
 - **2)** zaświadczenie o przyjęciu niekompletnego pojazdu, o którym mowa w art. 25 ust. 1 albo art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji;
 - **3)** zaświadczenie potwierdzające zgłoszenie kradzieży pojazdu;
 - **4)** postanowienie o umorzeniu postępowania przygotowawczego w sprawie kradzieży pojazdu.
@@ -2685,13 +2668,21 @@ Art. 141–143. (pominięte)
 
 - **1)** materiałów do produkcji tablic rejestracyjnych, o których mowa w ust. 3 pkt 4 i 5;
 - **2)** wyprodukowanych tablic rejestracyjnych;
-- **3)** sprzedanych tablic rejestracyjnych. Art. 75aa. 1. Organem właściwym do prowadzenia rejestru jest marszałek województwa właściwy ze względu na siedzibę przedsiębiorcy.
+- **3)** sprzedanych tablic rejestracyjnych.
+
+**Art. 75aa.**
+
+1. Organem właściwym do prowadzenia rejestru jest marszałek województwa właściwy ze względu na siedzibę przedsiębiorcy.
 
 2. Rejestr może być prowadzony w systemie teleinformatycznym.
 
 3. Właściwy marszałek województwa prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
 
-4. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych. Art. 75ab. 1. Wpisu do rejestru dokonuje się na podstawie wniosku przedsiębiorcy, zawierającego następujące dane:
+4. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych.
+
+**Art. 75ab.**
+
+1. Wpisu do rejestru dokonuje się na podstawie wniosku przedsiębiorcy, zawierającego następujące dane:
 
 - **1)** firmę przedsiębiorcy oraz jego siedzibę i adres albo adres zamieszkania;
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada;
@@ -2719,13 +2710,27 @@ Art. 141–143. (pominięte)
 - **2)** oznaczenie miejsca i datę złożenia oświadczenia;
 - **3)** podpis osoby uprawnionej do reprezentowania przedsiębiorcy, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
 
-5. Minister właściwy do spraw transportu określi wzór wniosku, o którym mowa w ust. 1, zawierającego oświadczenie o posiadaniu certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2, wraz z danymi umożliwiającymi jego identyfikację, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. Art. 75ac. 1. Wpisowi do rejestru podlegają dane określone w art. 75ab ust. 1 pkt 1–4 oraz informacje o certyfikacie, o którym mowa w art. 75a ust. 2 pkt 2.
+5. Minister właściwy do spraw transportu określi wzór wniosku, o którym mowa w ust. 1, zawierającego oświadczenie o posiadaniu certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2, wraz z danymi umożliwiającymi jego identyfikację, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+**Art. 75ac.**
+
+1. Wpisowi do rejestru podlegają dane określone w art. 75ab ust. 1 pkt 1–4 oraz informacje o certyfikacie, o którym mowa w art. 75a ust. 2 pkt 2.
 
 2. Wpisem do rejestru jest również wykreślenie albo zmiana wpisu.
 
-3. Wydając z urzędu zaświadczenie o dokonaniu wpisu do rejestru, właściwy marszałek województwa określa w nim zakres prowadzonej przez przedsiębiorcę działalności w zakresie produkcji tablic rejestracyjnych, zgodnie z art. 75a ust. 3. Art. 75ad. Rażącym naruszeniem warunków wykonywania działalności w zakresie produkcji tablic rejestracyjnych jest naruszenie warunków, o których mowa w art. 75a ust. 2 pkt 2, 3 i 5 oraz ust. 4 i 5, oraz określonych w przepisach dotyczących warunków oraz sposobu produkcji i dystrybucji tablic rejestracyjnych. Art. 75ae. 1. Właściwy marszałek województwa jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z dokumentami, o których mowa w art. 75ab ust. 2.
+3. Wydając z urzędu zaświadczenie o dokonaniu wpisu do rejestru, właściwy marszałek województwa określa w nim zakres prowadzonej przez przedsiębiorcę działalności w zakresie produkcji tablic rejestracyjnych, zgodnie z art. 75a ust. 3.
 
-2. Jeżeli właściwy marszałek województwa nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do niego upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy marszałek województwa wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis. Art. 75af. 1. Właściwy marszałek województwa wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
+**Art. 75ad.** Rażącym naruszeniem warunków wykonywania działalności w zakresie produkcji tablic rejestracyjnych jest naruszenie warunków, o których mowa w art. 75a ust. 2 pkt 2, 3 i 5 oraz ust. 4 i 5, oraz określonych w przepisach dotyczących warunków oraz sposobu produkcji i dystrybucji tablic rejestracyjnych.
+
+**Art. 75ae.**
+
+1. Właściwy marszałek województwa jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z dokumentami, o których mowa w art. 75ab ust. 2.
+
+2. Jeżeli właściwy marszałek województwa nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do niego upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy marszałek województwa wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
+
+**Art. 75af.**
+
+1. Właściwy marszałek województwa wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
 
 - **1)** przedsiębiorca złożył oświadczenie, o którym mowa w art. 75ab ust. 2 pkt 3, niezgodne ze stanem faktycznym;
 - **2)** przedsiębiorca nie usunął naruszeń warunków wymaganych prawem do wykonywania działalności regulowanej w wyznaczonym przez marszałka terminie;
@@ -2737,21 +2742,32 @@ Art. 141–143. (pominięte)
 
 4. W przypadku wydania decyzji, o której mowa w ust. 1, marszałek województwa z urzędu wykreśla przedsiębiorcę z rejestru.
 
-5. W przypadku wydania decyzji, o której mowa w ust. 1, jeżeli przedsiębiorca wykonuje działalność gospodarczą objętą wpisem także na podstawie wpisów do innych rejestrów działalności regulowanej w tym samym zakresie działalności gospodarczej, z urzędu wykreśla się przedsiębiorcę także z tych rejestrów działalności regulowanej. Art. 75ag. 1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 75af ust.
+5. W przypadku wydania decyzji, o której mowa w ust. 1, jeżeli przedsiębiorca wykonuje działalność gospodarczą objętą wpisem także na podstawie wpisów do innych rejestrów działalności regulowanej w tym samym zakresie działalności gospodarczej, z urzędu wykreśla się przedsiębiorcę także z tych rejestrów działalności regulowanej.
+
+**Art. 75ag.**
+
+1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 75af ust.
 
 1.
 
 2. Przepis ust. 1 stosuje się do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 75ae ust.
 
-2. Art. 75ah. Właściwy marszałek województwa wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+2.
 
-**Art. 75b.** Organ właściwy w sprawach rejestracji legalizuje tablice rejestracyjne, w tym profesjonalne tablice rejestracyjne, umieszczając na nich znak legalizacyjny. Art. 75ba. Warunki techniczne oraz wzór znaku legalizacyjnego służącego do legalizacji profesjonalnych tablic (tablicy) rejestracyjnych są zgodne z warunkami technicznymi i wzorem nalepki legalizacyjnej określonymi w przepisach wydanych na podstawie art. 75c pkt 2.
+**Art. 75ah.** Właściwy marszałek województwa wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+
+**Art. 75b.** Organ właściwy w sprawach rejestracji legalizuje tablice rejestracyjne, w tym profesjonalne tablice rejestracyjne, umieszczając na nich znak legalizacyjny.
+
+**Art. 75ba.** Warunki techniczne oraz wzór znaku legalizacyjnego służącego do legalizacji profesjonalnych tablic (tablicy) rejestracyjnych są zgodne z warunkami technicznymi i wzorem nalepki legalizacyjnej określonymi w przepisach wydanych na podstawie art. 75c pkt 2.
 
 **Art. 75c.** Minister właściwy do spraw transportu, uwzględniając konieczność prawidłowego zabezpieczenia obrotu tablicami rejestracyjnymi oraz materiałami mającymi szczególne znaczenie do produkcji tablic rejestracyjnych, określi, w drodze rozporządzenia:
 
 - **1)** warunki produkcji i szczegółowy sposób dystrybucji tablic rejestracyjnych i znaków legalizacyjnych oraz prowadzenia ewidencji, o których mowa w art. 75a ust. 6;
 - **2)** tryb legalizacji tablic rejestracyjnych, warunki techniczne oraz wzór znaku legalizacyjnego, o którym mowa w art. 75b;
-- **3)** materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych. Art. 75ca. Minister właściwy do spraw transportu, uwzględniając konieczność prawidłowego zabezpieczenia obrotu profesjonalnymi tablicami rejestracyjnymi oraz materiałami mającymi szczególne znaczenie dla produkcji tych tablic, określi, w drodze rozporządzenia:
+- **3)** materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych.
+
+**Art. 75ca.** Minister właściwy do spraw transportu, uwzględniając konieczność prawidłowego zabezpieczenia obrotu profesjonalnymi tablicami rejestracyjnymi oraz materiałami mającymi szczególne znaczenie dla produkcji tych tablic, określi, w drodze rozporządzenia:
+
 - **1)** warunki produkcji i szczegółowy sposób dystrybucji profesjonalnych tablic rejestracyjnych i znaków legalizacyjnych, materiały mające szczególne znaczenie dla produkcji tych tablic oraz warunki prowadzenia ewidencji, o których mowa w art. 75a ust. 6, w zakresie profesjonalnych tablic rejestracyjnych;
 - **2)** tryb legalizacji profesjonalnych tablic rejestracyjnych.
 
@@ -2888,7 +2904,7 @@ Art. 141–143. (pominięte)
 
 1a. W przypadku, o którym mowa w ust. 1 pkt 3, pojazd podlega wyrejestrowaniu na wniosek właściciela pojazdu będącego zbywcą albo nabywcą pojazdu wywożonego za granicę.
 
-2. W przypadku przekazania przedsiębiorcy prowadzącemu stację demontażu lub przedsiębiorcy prowadzącemu punkt zbierania pojazdów pojazdu innego niż określony w art. 3 pkt 4 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, w celu jego wyrejestrowania, przedsiębiorca wydaje zaświadczenie o demontażu tego pojazdu, odpowiadające wymogom określonym dla zaświadczenia, o którym mowa w art. 24 ust. 1 pkt 2 lub art. 33 ust. 3 tej ustawy. [3. W przypadku nieprzedłożenia przez właściciela pojazdu zaświadczenia o demontażu pojazdu, o którym mowa w ust. 2 bądź w art. 24 ust. 1 pkt 2 lub art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, lub zaświadczenia o przyjęciu niekompletnego pojazdu, o którym mowa w art. 25 ust. 1 lub art. 33 ust. 3 tej ustawy, albo równoważnego dokumentu wydanego w innym państwie, organ rejestrujący, po upływie 30 dni od dnia otrzymania informacji od administratora danych i informacji zgromadzonych w ewidencji o przekazaniu przez stację demontażu lub punkt zbierania pojazdów danych, o których mowa w art. 80b ust. 1 pkt 16, dokonuje wyrejestrowania pojazdu z urzędu.] <3. Organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu na podstawie informacji otrzymanej od administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów o przekazaniu przez stację demontażu lub punkt zbierania pojazdów danych, o których mowa w art. 80b ust. 1 pkt 16, niezwłocznie po dniu otrzymania tej informacji, jeżeli do tego dnia właściciel pojazdu nie złożył wniosku o wyrejestrowanie pojazdu na podstawie ust. 1 pkt 1 albo 6.> 3a. W przypadku otrzymania informacji od organu właściwego do rejestracji pojazdów państwa członkowskiego, innego niż Rzeczpospolita Polska, o zarejestrowaniu pojazdu, organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu.
+2. W przypadku przekazania przedsiębiorcy prowadzącemu stację demontażu lub przedsiębiorcy prowadzącemu punkt zbierania pojazdów pojazdu innego niż określony w art. 3 pkt 4 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, w celu jego wyrejestrowania, przedsiębiorca wydaje zaświadczenie o demontażu tego pojazdu, odpowiadające wymogom określonym dla zaświadczenia, o którym mowa w art. 24 ust. 1 pkt 2 lub art. 33 ust. 3 tej ustawy. [3. W przypadku nieprzedłożenia przez właściciela pojazdu zaświadczenia o demontażu pojazdu, o którym mowa w ust. 2 bądź w art. 24 ust. 1 pkt 2 lub art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, lub zaświadczenia o przyjęciu niekompletnego pojazdu, o którym mowa w art. 25 ust. 1 lub art. 33 ust. 3 tej ustawy, albo równoważnego dokumentu wydanego w innym państwie, organ rejestrujący, po upływie 30 dni od dnia otrzymania informacji od administratora danych i informacji zgromadzonych w ewidencji o przekazaniu przez stację demontażu lub punkt zbierania pojazdów danych, o których mowa w art. 80b ust. 1 pkt 16, dokonuje wyrejestrowania pojazdu z urzędu.] <3. Organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu na podstawie informacji otrzymanej od administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów o przekazaniu przez stację demontażu lub punkt zbierania pojazdów danych, o których mowa w art. 80b ust. 1 pkt 16, niezwłocznie po dniu otrzymania tej informacji, jeżeli do tego dnia właściciel pojazdu nie złożył wniosku o wyrejestrowanie pojazdu na podstawie ust. 1 pkt 1 albo 6.
 
 3b. Organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu w przypadku gdy wydane zostało pozwolenie czasowe na podstawie art. 74 ust. 2 pkt 2 lit. a i właściciel pojazdu złożył oświadczenie, o którym mowa w art. 74 ust. 6.
 
@@ -3022,10 +3038,11 @@ Art. 141–143. (pominięte)
     - **c)** (uchylona) – oraz o ich wtórnikach;
 
 - **8a)** o profesjonalnej rejestracji pojazdów, w tym wynikające z decyzji o profesjonalnej rejestracji pojazdów i dotyczące blankietów profesjonalnych dowodów rejestracyjnych;
-- **8b)** zamieszczone w wykazie pojazdów używanych w ruchu drogowym prowadzonym przez podmiot uprawniony, o którym mowa w art. 80s ust. 2: <8c) dotyczące wniosków o rejestrację pojazdów oraz zamieszczone w tych wnioskach;>
+- **8b)** zamieszczone w wykazie pojazdów używanych w ruchu drogowym prowadzonym przez podmiot uprawniony, o którym mowa w art. 80s ust. 2:
     - **a)** o pojazdach używanych przez podmiot uprawniony w ruchu drogowym z wykorzystaniem profesjonalnych dowodów rejestracyjnych,
     - **b)** o profesjonalnych dowodach rejestracyjnych;
 
+- **8c)** dotyczące wniosków o rejestrację pojazdów oraz zamieszczone w tych wnioskach;
 - **9)** o tablicach rejestracyjnych pojazdu i ich legalizacji oraz o ich wtórnikach;
 - **9a)** o profesjonalnych tablicach rejestracyjnych oraz ich legalizacji;
 - **10)** o badaniach technicznych pojazdu;
@@ -3041,15 +3058,20 @@ Art. 141–143. (pominięte)
 - **18)** o homologacji pojazdu, dopuszczeniu jednostkowym pojazdu, krajowym indywidualnym dopuszczeniu pojazdu, unijnym indywidualnym dopuszczeniu pojazdu, dopuszczeniu indywidualnym WE pojazdu, dopuszczeniu do ruchu drogowego pojazdu z końcowej partii produkcji;
 - **19)** identyfikator osoby lub podmiotu dokonujących w ewidencji wprowadzenia lub zmiany danych;
 - **20)** o zabezpieczeniach ustanowionych na pojeździe, w tym o zajęciu pojazdu przez organ egzekucyjny, oraz o ich zniesieniu;
-- **21)** o wymianie drogomierza; <21a) o wydanych zezwoleniach na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd;>
-- **22)** o odczycie wskazania drogomierza w czasie kontroli; <23) o przekroczeniach terminów, o których mowa w art. 78 ust. 2 pkt 1.> [2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 1 pkt 6 lit. e i f, pkt 7 lit. a, pkt 8–18 i 20–22, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także obowiązek monitorowania i sprawozdawczości w odniesieniu do emisji CO .] <2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 1 pkt 6 lit. e i f, pkt 7 lit. a, pkt 8–18 i 20–23, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także obowiązek monitorowania i sprawozdawczości w odniesieniu do emisji CO .>
+- **21)** o wymianie drogomierza;
+- **21a)** o wydanych zezwoleniach na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd;
+- **22)** o odczycie wskazania drogomierza w czasie kontroli;
+- **23)** o przekroczeniach terminów, o których mowa w art. 78 ust. 2 pkt 1. [2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 1 pkt 6 lit. e i f, pkt 7 lit. a, pkt 8–18 i 20–22, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także obowiązek monitorowania i sprawozdawczości w odniesieniu do emisji CO .] <2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 1 pkt 6 lit. e i f, pkt 7 lit. a, pkt 8–18 i 20–23, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także obowiązek monitorowania i sprawozdawczości w odniesieniu do emisji CO .>
 
 3. Danych zgromadzonych w ewidencji nie usuwa się.
 
 4. (uchylony)
 
-5. Administrator danych i informacji zgromadzonych w ewidencji przekazuje staroście informację o zatrzymaniu profesjonalnego dowodu rejestracyjnego oraz o niezwróceniu przez podmiot uprawniony, o którym mowa w art. 80s ust. 2, blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic (tablicy) rejestracyjnych w terminie określonym w art. 80y ust. 1 poprzez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący ewidencję do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z rejestracją pojazdów. Art. 80ba. 1. Dane, o których mowa w art. 80b ust. 1, są przekazywane do ewidencji: [1) przez organ właściwy w sprawach rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2–5 z wyłączeniem daty zgonu, pkt 8, 8a, 9 i 9a, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12, 13, 17, 18 i 20;] <1) przez organ właściwy w sprawach rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2–5 z wyłączeniem daty zgonu, pkt 8, [8a, 9 i 9a] <8a i 8c–9a>, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12, 13, 17, 18, 20 i 23;>
+5. Administrator danych i informacji zgromadzonych w ewidencji przekazuje staroście informację o zatrzymaniu profesjonalnego dowodu rejestracyjnego oraz o niezwróceniu przez podmiot uprawniony, o którym mowa w art. 80s ust. 2, blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic (tablicy) rejestracyjnych w terminie określonym w art. 80y ust. 1 poprzez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący ewidencję do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z rejestracją pojazdów.
 
+**Art. 80ba.** 1. Dane, o których mowa w art. 80b ust. 1, są przekazywane do ewidencji: [1) przez organ właściwy w sprawach rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2–5 z wyłączeniem daty zgonu, pkt 8, 8a, 9 i 9a, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12, 13, 17, 18 i 20;]
+
+- **1)** przez organ właściwy w sprawach rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2–5 z wyłączeniem daty zgonu, pkt 8, [8a, 9 i 9a] <8a i 8c–9a , pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12, 13, 17, 18, 20 i 23;
 - **2)** przez zakłady ubezpieczeń – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 6 i 11, oraz w przypadku zawierania umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów dla pojazdu niezarejestrowanego także pkt 1 i 13;
 - **2a)** przez podmiot uprawniony, o którym mowa w art. 80s ust. 2, któremu wydano decyzję o profesjonalnej rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 8b;
 - **3)** przez właściwą jednostkę organizacyjną Policji – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 14;
@@ -3075,7 +3097,11 @@ Art. 141–143. (pominięte)
 6. Minister właściwy do spraw informatyzacji:
 
 - **1)** może określić, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a rejestrami PESEL, REGON, TERYT, centralną ewidencją kierowców i centralną ewidencją posiadaczy kart parkingowych, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a innymi rejestrami i ewidencjami, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych;
-- **3)** w porozumieniu z ministrem właściwym do spraw instytucji finansowych określi, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a Ubezpieczeniowym Funduszem Gwarancyjnym oraz warunki, sposób i tryb współdziałania ewidencji i funduszu w zakresie przekazywania danych przez zakłady ubezpieczeń, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a Ubezpieczeniowym Funduszem Gwarancyjnym, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych. Art. 80bb. 1. W celu umożliwienia wprowadzenia danych do ewidencji, podmiotom wymienionym w art. 80ba ust. 1, zapewnia się dostęp do danych zgromadzonych w ewidencji.
+- **3)** w porozumieniu z ministrem właściwym do spraw instytucji finansowych określi, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a Ubezpieczeniowym Funduszem Gwarancyjnym oraz warunki, sposób i tryb współdziałania ewidencji i funduszu w zakresie przekazywania danych przez zakłady ubezpieczeń, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a Ubezpieczeniowym Funduszem Gwarancyjnym, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych.
+
+**Art. 80bb.**
+
+1. W celu umożliwienia wprowadzenia danych do ewidencji, podmiotom wymienionym w art. 80ba ust. 1, zapewnia się dostęp do danych zgromadzonych w ewidencji.
 
 2. Wprowadzenie danych do ewidencji następuje przez pobranie danych zgromadzonych w ewidencji, ich weryfikację, w szczególności w oparciu o posiadane dokumenty lub dane, oraz wpisanie do ewidencji nowych danych. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub w REGON, rozstrzygające są dane zgromadzone w tych rejestrach.
 
@@ -3091,7 +3117,13 @@ Art. 141–143. (pominięte)
 4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
 - **1)** zakres danych, do których zapewnia się dostęp podmiotom wymienionym w art. 80ba ust. 1, mając na względzie prawidłowość wykonywania przez poszczególne podmioty zadań wynikających z niniejszej ustawy;
-- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz tryb i sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości danych przekazywanych do ewidencji i jej referencyjny charakter. Art. 80bc. W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia. Art. 80bd. 33) 1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 80bb.
+- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz tryb i sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości danych przekazywanych do ewidencji i jej referencyjny charakter.
+
+**Art. 80bc.** W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia.
+
+**Art. 80bd.**
+
+- **33)** 1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 80bb.
 
 2. W przypadku gdy nie jest możliwe wyjaśnienie niezgodności, podmiot, o którym mowa w ust. 1, niezwłocznie powiadamia o niezgodności administratora danych i informacji zgromadzonych w ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot.
 
@@ -3114,8 +3146,11 @@ Art. 141–143. (pominięte)
 
 7. Administrator danych i informacji zgromadzonych w ewidencji umożliwi wprowadzenie do ewidencji danych bez uprzedniego wyjaśnienia niezgodności, jeżeli jest to niezbędne do realizacji zadań wynikających z przepisów odrębnych realizowanych przez podmioty obowiązane do wprowadzania danych do ewidencji w terminach wynikających z przepisów ustawowych.
 
-8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb wyjaśniania niezgodności danych zgromadzonych w centralnej ewidencji pojazdów przez podmioty, które je przekazują, mając na uwadze konieczność zapewnienia kompletności i poprawności danych w ewidencji, zapewnienie terminowej obsługi procesów administracyjnych powiązanych z ewidencją i ich bezpieczeństwo. Art. 80be. 34) 1. Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów:
+8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb wyjaśniania niezgodności danych zgromadzonych w centralnej ewidencji pojazdów przez podmioty, które je przekazują, mając na uwadze konieczność zapewnienia kompletności i poprawności danych w ewidencji, zapewnienie terminowej obsługi procesów administracyjnych powiązanych z ewidencją i ich bezpieczeństwo.
 
+**Art. 80be.**
+
+- **34)** 1. Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów:
 - **1)** firmę przedsiębiorcy oraz jego adres i siedzibę albo miejsce zamieszkania;
 - **2)** adres stacji kontroli pojazdów;
 - **3)** numer identyfikacyjny REGON;
@@ -3125,7 +3160,13 @@ Art. 141–143. (pominięte)
 - **7)** datę wykreślenia z rejestru;
 - **8)** imiona i nazwiska zatrudnionych diagnostów wraz z numerami ich uprawnień.
 
-2. Przekazanie danych, o których mowa w ust. 1, następuje niezwłocznie nie później niż w terminie 2 dni roboczych, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty. Art. 80bg. W celu zapewnienia możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812) minister właściwy do spraw informatyzacji zapewnia Agencji Bezpieczeństwa Wewnętrznego dostęp do ewidencji. Art. 80bh. 1. Tworzy się elektroniczny katalog marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, zwany dalej „katalogiem”.
+2. Przekazanie danych, o których mowa w ust. 1, następuje niezwłocznie nie później niż w terminie 2 dni roboczych, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty.
+
+**Art. 80bg.** W celu zapewnienia możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812) minister właściwy do spraw informatyzacji zapewnia Agencji Bezpieczeństwa Wewnętrznego dostęp do ewidencji.
+
+**Art. 80bh.**
+
+1. Tworzy się elektroniczny katalog marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, zwany dalej „katalogiem”.
 
 2. Katalog jest katalogiem referencyjnym służącym do wprowadzenia danych pojazdów do ewidencji na podstawie danych określonych w dokumentach przedstawionych do rejestracji pojazdu.
 
@@ -3261,37 +3302,70 @@ Art. 141–143. (pominięte)
 8. Minister właściwy do spraw informatyzacji, w drodze decyzji:
 
 - **1)** odmawia udostępniania danych za pomocą urządzeń teletransmisji danych, jeżeli podmioty, o których mowa w ust. 1, nie spełniają warunków, o których mowa w ust. 6;
-- **2)** cofa dostęp do danych udostępnianych za pomocą urządzeń teletransmisji danych, jeżeli podmioty, o których mowa w ust. 1, przestaną spełniać warunki, o których mowa w ust. 6. Art. 80ca. Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej. <Art. 80caa. Dane zgromadzone w ewidencji dotyczące pojazdów, z wyłączeniem danych właściciela, posiadacza lub użytkownika pojazdu, udostępnia się właściwym organom państw członkowskich Unii Europejskiej przy zastosowaniu urządzeń, oprogramowania i procedur określonych w art. 80l w celu umożliwienia weryfikacji danych przed rejestracją pojazdu w danym państwie członkowskim.> Art. 80cb. 1. Każdemu zainteresowanemu, po podaniu danych określonych w przepisach wydanych na podstawie ust. 3, dane zgromadzone w ewidencji udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego. <Raport z systemu teleinformatycznego potwierdza dane zgromadzone w ewidencji i nie wymaga podpisu ani pieczęci.>
+- **2)** cofa dostęp do danych udostępnianych za pomocą urządzeń teletransmisji danych, jeżeli podmioty, o których mowa w ust. 1, przestaną spełniać warunki, o których mowa w ust. 6.
+
+**Art. 80ca.** Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej.
+
+**Art. 80caa.** Dane zgromadzone w ewidencji dotyczące pojazdów, z wyłączeniem danych właściciela, posiadacza lub użytkownika pojazdu, udostępnia się właściwym organom państw członkowskich Unii Europejskiej przy zastosowaniu urządzeń, oprogramowania i procedur określonych w art. 80l w celu umożliwienia weryfikacji danych przed rejestracją pojazdu w danym państwie członkowskim.
+
+**Art. 80cb.**
+
+1. Każdemu zainteresowanemu, po podaniu danych określonych w przepisach wydanych na podstawie ust. 3, dane zgromadzone w ewidencji udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego. <Raport z systemu teleinformatycznego potwierdza dane zgromadzone w ewidencji i nie wymaga podpisu ani pieczęci.>
 
 2. Dane osobowe zgromadzone w ewidencji mogą być udostępniane po uwierzytelnieniu zainteresowanego na zasadach określonych w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
 - **1)** dane, których podanie jest wymagane do udostępnienia poszczególnych danych,
-- **2)** szczegółowy zakres udostępnianych danych – mając na uwadze konieczność zapewnienia bezpieczeństwa danych. Art. 80cba. Każdemu zainteresowanemu, po podaniu numeru rejestracyjnego pojazdu, udostępnia się, za pośrednictwem usługi sieciowej, następujące dane pojazdu:
+- **2)** szczegółowy zakres udostępnianych danych – mając na uwadze konieczność zapewnienia bezpieczeństwa danych.
+
+**Art. 80cba.** Każdemu zainteresowanemu, po podaniu numeru rejestracyjnego pojazdu, udostępnia się, za pośrednictwem usługi sieciowej, następujące dane pojazdu:
+
 - **1)** markę, typ i model (nazwę handlową);
 - **2)** poziom emisji zanieczyszczeń (normy EURO);
 - **3)** rodzaj paliwa, rodzaj pierwszego paliwa alternatywnego, rodzaj drugiego paliwa alternatywnego;
-- **4)** rok produkcji. Art. 80cc. 1. Dane zgromadzone w ewidencji udostępnia się także na wniosek właściciela pojazdu, posiadacza pojazdu wymienionego w art. 73 ust. 5 oraz użytkownika pojazdu użytkowanego na podstawie umowy leasingu, o rejestrację którego wnioskował leasingodawca (właściciel pojazdu), których one dotyczą.
+- **4)** rok produkcji.
 
-2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 80cd. 1. Minister właściwy do spraw informatyzacji może udostępnić dane zgromadzone w ewidencji innym podmiotom niż wymienione w art. 80c–80cc, w tym osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, jeżeli wykażą swój interes prawny.
+**Art. 80cc.**
 
-2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 80ce. 1. Dane lub informacje zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania, w sposób wykluczający możliwość identyfikacji osób lub pojazdów, z zachowaniem przepisów ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), jeżeli przepisy ustawy nie stanowią inaczej.
+1. Dane zgromadzone w ewidencji udostępnia się także na wniosek właściciela pojazdu, posiadacza pojazdu wymienionego w art. 73 ust. 5 oraz użytkownika pojazdu użytkowanego na podstawie umowy leasingu, o rejestrację którego wnioskował leasingodawca (właściciel pojazdu), których one dotyczą.
+
+2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci.
+
+**Art. 80cd.**
+
+1. Minister właściwy do spraw informatyzacji może udostępnić dane zgromadzone w ewidencji innym podmiotom niż wymienione w art. 80c–80cc, w tym osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, jeżeli wykażą swój interes prawny.
+
+2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci.
+
+**Art. 80ce.**
+
+1. Dane lub informacje zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania, w sposób wykluczający możliwość identyfikacji osób lub pojazdów, z zachowaniem przepisów ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), jeżeli przepisy ustawy nie stanowią inaczej.
 
 2. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
-3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych. Art. 80cf. 1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 80c ust. 5, art. 80cc ust. 2, art. 80cd ust. 2 oraz art. 80ce ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji.
+3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych.
 
-2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, rodzaj i zakres danych udostępnianych na podstawie art. 80c i art. 80cc–80ce, uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem. Art. 80cg. Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje:
+**Art. 80cf.**
+
+1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 80c ust. 5, art. 80cc ust. 2, art. 80cd ust. 2 oraz art. 80ce ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji.
+
+2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, rodzaj i zakres danych udostępnianych na podstawie art. 80c i art. 80cc–80ce, uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem.
+
+**Art. 80cg.** Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje:
 
 - **1)** nieodpłatnie, w przypadku danych: 2 organom administracji publicznej, niewymienionym w art. 80c ust. 1, w celach niekomercyjnych, 3, w celach komercyjnych i niekomercyjnych;
     - **a)** udostępnianych na podstawie art. 80c–80cc,
     - **b)** przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust.
     - **c)** udostępnianych na podstawie art. 80ce w sposób określony w art. 80ce ust.
 
-- **2)** odpłatnie, w przypadku danych: 2, w celach komercyjnych i niekomercyjnych. Art. 80ch. 1. Wysokość opłaty za udostępnienie danych jednostkowych dotyczących jednego pojazdu lub jednej osoby nie może być wyższa niż 2 % przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672 oraz z 2024 r. poz. 834 i 858).
+- **2)** odpłatnie, w przypadku danych: 2, w celach komercyjnych i niekomercyjnych.
     - **a)** udostępnianych na podstawie art. 80cd,
     - **b)** przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust.
+
+**Art. 80ch.**
+
+1. Wysokość opłaty za udostępnienie danych jednostkowych dotyczących jednego pojazdu lub jednej osoby nie może być wyższa niż 2 % przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672 oraz z 2024 r. poz. 834 i 858).
 
 2. Wysokość opłaty za udostępnianie danych z ewidencji do celów komercyjnych i niekomercyjnych określa się według wzoru: O = K × (A + B) + M gdzie: O – łączna kwota opłaty za udostępnienie danych do celów komercyjnych i niekomercyjnych, K – współczynnik wynoszący:
 
@@ -3472,7 +3546,11 @@ Art. 141–143. (pominięte)
 
 3. Każda zainteresowana osoba ma prawo do uzyskania informacji na temat własnych danych osobowych, które zostały przekazane innemu państwu członkowskiemu Unii Europejskiej, w tym informacji o dacie złożenia wniosku oraz o właściwym organie innego państwa członkowskiego Unii Europejskiej, który te dane osobowe uzyskał.
 
-**Art. 80r.** Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, wzór formularza do przekazywania informacji, o którym mowa w art. 80p ust. 4, kierując się zakresem informacji określonym w art. 80p ust. 1 oraz koniecznością ujednolicenia formy przekazywanych danych. Art. 80ra. Krajowy Punkt Kontaktowy umożliwia ponadto wymianę informacji dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej na zasadach określonych w przepisach art. 13ma–13mc i art. 13me ustawy z dnia 21 marca 1985 r. o drogach publicznych. <Art. 80rb. Krajowy Punkt Kontaktowy umożliwia również transgraniczną wymianę informacji między organami właściwymi do rejestracji pojazdów innych państw członkowskich i krajowymi organami właściwymi do rejestracji pojazdów, zgodnie z art. 72a i art. 80caa, w celu umożliwienia weryfikacji danych pojazdu przed jego rejestracją.>
+**Art. 80r.** Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, wzór formularza do przekazywania informacji, o którym mowa w art. 80p ust. 4, kierując się zakresem informacji określonym w art. 80p ust. 1 oraz koniecznością ujednolicenia formy przekazywanych danych.
+
+**Art. 80ra.** Krajowy Punkt Kontaktowy umożliwia ponadto wymianę informacji dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej na zasadach określonych w przepisach art. 13ma–13mc i art. 13me ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+
+**Art. 80rb.** Krajowy Punkt Kontaktowy umożliwia również transgraniczną wymianę informacji między organami właściwymi do rejestracji pojazdów innych państw członkowskich i krajowymi organami właściwymi do rejestracji pojazdów, zgodnie z art. 72a i art. 80caa, w celu umożliwienia weryfikacji danych pojazdu przed jego rejestracją.
 
 #### Rozdział 2d Profesjonalna rejestracja pojazdów
 
@@ -3481,7 +3559,7 @@ Art. 141–143. (pominięte)
 - **1)** przedsiębiorca posiadający na terytorium Rzeczypospolitej Polskiej siedzibę, a w przypadku przedsiębiorcy posiadającego siedzibę za granicą – oddział, zajmujący się produkcją, dystrybucją (sprzedażą prowadzoną w ramach handlu) lub badaniem pojazdów niezarejestrowanych wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą,
 - **2)** służba techniczna, o której mowa w art. 4 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, albo jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części przeprowadzająca badania pojazdu, przedmiotu wyposażenia lub części – zwani dalej „podmiotami uprawnionymi”.] <2. Podmiotami uprawnionymi w ramach prowadzonej działalności do posługiwania się profesjonalnym dowodem rejestracyjnym i profesjonalnymi tablicami (tablicą) rejestracyjnymi są:
 - **1)** przedsiębiorca posiadający na terytorium Rzeczypospolitej Polskiej siedzibę, a w przypadku przedsiębiorcy posiadającego siedzibę za granicą – oddział, zajmujący się produkcją, dystrybucją (sprzedażą prowadzoną w ramach handlu) lub badaniem pojazdów w ramach prowadzonej działalności badawczo-rozwojowej w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych,
-- **2)** służba techniczna, o której mowa w art. 4 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, albo jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części przeprowadzająca badania pojazdu, przedmiotu wyposażenia lub części – zwani dalej „podmiotami uprawnionymi”.>
+- **2)** służba techniczna, o której mowa w art. 4 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, albo jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części przeprowadzająca badania pojazdu, przedmiotu wyposażenia lub części – zwani dalej „podmiotami uprawnionymi”.
 
 3. Za przedsiębiorcę zajmującego się produkcją pojazdów, o którym mowa w ust. 2 pkt 1, uznaje się producenta pojazdu kompletnego, skompletowanego lub niekompletnego. [4. Przez jazdę testową rozumie się jazdę w ruchu drogowym pojazdem niezarejestrowanym wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą wykonywaną:
 
@@ -3490,7 +3568,7 @@ Art. 141–143. (pominięte)
 - **3)** przez podmiot uprawniony albo osoby, o których mowa w art. 80w ust. 2–4 – w celu przeprowadzenia testu produkowanego lub badanego pojazdu, w tym przedmiotu jego wyposażenia lub części, lub testu pojazdu będącego przedmiotem dystrybucji.] <4. Przez jazdę testową rozumie się jazdę w ruchu drogowym pojazdem wykonywaną:
 - **1)** z wykorzystaniem profesjonalnego dowodu rejestracyjnego i profesjonalnych tablic (tablicy) rejestracyjnych,
 - **2)** w ramach działalności prowadzonej przez podmiot uprawniony w zakresie, o którym mowa w ust. 2,
-- **3)** przez podmiot uprawniony albo osoby, o których mowa w art. 80w ust. 2–4 – w celu przeprowadzenia testu produkowanego pojazdu, w tym przedmiotu jego wyposażenia lub części, lub testu pojazdu będącego przedmiotem dystrybucji lub badania pojazdu w ramach prowadzenia działalności badawczo-rozwojowej w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.>
+- **3)** przez podmiot uprawniony albo osoby, o których mowa w art. 80w ust. 2–4 – w celu przeprowadzenia testu produkowanego pojazdu, w tym przedmiotu jego wyposażenia lub części, lub testu pojazdu będącego przedmiotem dystrybucji lub badania pojazdu w ramach prowadzenia działalności badawczo-rozwojowej w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
 
 5. Profesjonalny dowód rejestracyjny stanowi wypełniony przez starostę i podmiot uprawniony blankiet profesjonalnego dowodu rejestracyjnego. Blankiet profesjonalnego dowodu rejestracyjnego jest wypełniany w części przez starostę, a w części przez podmiot uprawniony, stosownie do zakresu określonego w przepisach wydanych na podstawie art. 80zc ust. 1 pkt 4.
 
@@ -3512,7 +3590,7 @@ Art. 141–143. (pominięte)
     - **a)** każdy z pojazdów, którymi będą wykonywane jazdy testowe, będzie spełniał warunki określone w art. 66, odpowiednie dla pojazdu, którym będą wykonywane te jazdy, a pojazd, którym będzie prowadzona działalność badawczo-rozwojowa w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, będzie spełniał wymagania techniczne opisane w art. 66 ust. 1 i ust. 4 pkt 1–4,
     - **b)** będzie używał w ruchu drogowym z wykorzystaniem profesjonalnego dowodu rejestracyjnego tylko pojazdów, dla których posiada udokumentowane prawo do dysponowania nimi, oraz wyłącznie w celu wykonywania jazd testowych, a w przypadku podmiotów prowadzących działalność badawczo-rozwojową w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych będzie wykorzystywał pojazdy wyłącznie do celów prowadzenia prac badawczych, które nie będą podlegały dalszej odsprzedaży,
     - **c)** podmiot prowadzący działalność badawczo-rozwojową w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ma ubezpieczenie OC dla prowadzonej działalności badawczo-rozwojowej,
-    - **d)** blankiety profesjonalnych dowodów rejestracyjnych będą wypełniane wyłącznie przez podmiot uprawniony albo osoby zatrudnione przez ten podmiot.>
+    - **d)** blankiety profesjonalnych dowodów rejestracyjnych będą wypełniane wyłącznie przez podmiot uprawniony albo osoby zatrudnione przez ten podmiot.
 
 2. Starosta właściwy ze względu na siedzibę albo oddział podmiotu uprawnionego, na wniosek tego podmiotu, wydaje za opłatą decyzję o profesjonalnej rejestracji pojazdów, blankiety profesjonalnych dowodów rejestracyjnych oraz profesjonalne tablice (tablicę) rejestracyjne.
 
@@ -3604,10 +3682,17 @@ Art. 141–143. (pominięte)
 
 1. W przypadku gdy doszło do utraty lub zniszczenia blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych, podmiot uprawniony jest obowiązany niezwłocznie złożyć staroście oświadczenie, że doszło do utraty lub zniszczenia blankietów profesjonalnych dowodów rejestracyjnych lub profesjonalnych dowodów rejestracyjnych, ze wskazaniem ich serii i numerów, lub że doszło do utraty lub zniszczenia profesjonalnych tablic (tablicy) rejestracyjnych, ze wskazaniem ich numeru rejestracyjnego i numeru znaku legalizacyjnego.
 
-2. Oświadczenie, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. Art. 80za. W przypadku gdy w okresie ważności decyzji o profesjonalnej rejestracji pojazdów doszło do utraty lub zniszczenia:
+2. Oświadczenie, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+**Art. 80za.** W przypadku gdy w okresie ważności decyzji o profesjonalnej rejestracji pojazdów doszło do utraty lub zniszczenia:
 
 - **1)** blankietów profesjonalnych dowodów rejestracyjnych lub
-- **2)** profesjonalnych tablic (tablicy) rejestracyjnych – podmiot uprawniony może złożyć staroście wniosek o wydanie za opłatą nowych blankietów w liczbie odpowiadającej liczbie blankietów utraconych lub zniszczonych lub nowych profesjonalnych tablic (tablicy) rejestracyjnych. Art. 80zb. 1. Starosta, w drodze decyzji, uchyla decyzję o profesjonalnej rejestracji pojazdów, w przypadku gdy:
+- **2)** profesjonalnych tablic (tablicy) rejestracyjnych – podmiot uprawniony może złożyć staroście wniosek o wydanie za opłatą nowych blankietów w liczbie odpowiadającej liczbie blankietów utraconych lub zniszczonych lub nowych profesjonalnych tablic (tablicy) rejestracyjnych.
+
+**Art. 80zb.**
+
+1. Starosta, w drodze decyzji, uchyla decyzję o profesjonalnej rejestracji pojazdów, w przypadku gdy:
+
 - **1)** przedsiębiorca zaprzestał prowadzenia działalności w zakresie produkcji, dystrybucji lub badania pojazdów;
 - **2)** służba techniczna, o której mowa w art. 4 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, albo jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części przeprowadzająca badania pojazdu, przedmiotu wyposażenia lub części zaprzestała przeprowadzania odpowiednich badań pojazdu, przedmiotu wyposażenia lub części;
 - **3)** ujawnione zostało, że po dniu wydania decyzji o profesjonalnej rejestracji pojazdów:
@@ -3627,7 +3712,12 @@ Art. 141–143. (pominięte)
 
 - **1)** nastąpiło uchylenie decyzji o profesjonalnej rejestracji pojazdów z przyczyn, o których mowa w ust. 1 pkt 3–9;
 - **2)** nastąpiło uchylenie decyzji o profesjonalnej rejestracji pojazdów z przyczyn, o których mowa w ust. 1 pkt 1 i 2, a podmiot uprawniony nie zwrócił staroście blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych albo nie złożył oświadczenia, o którym mowa w art. 80z ust. 1;
-- **3)** upłynął termin ważności decyzji o profesjonalnej rejestracji pojazdów, a w ciągu 30 dni od upływu tego terminu podmiot uprawniony nie zwrócił staroście blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych albo nie złożył oświadczenia, o którym mowa w art. 80z ust. 1. Art. 80zc. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+- **3)** upłynął termin ważności decyzji o profesjonalnej rejestracji pojazdów, a w ciągu 30 dni od upływu tego terminu podmiot uprawniony nie zwrócił staroście blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych albo nie złożył oświadczenia, o którym mowa w art. 80z ust. 1.
+
+**Art. 80zc.**
+
+1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+
 - **1)** czynności starosty w sprawach związanych z profesjonalną rejestracją pojazdów;
 - **2)** wzór:
     - **a)** wniosku o wydanie decyzji o profesjonalnej rejestracji pojazdów,
@@ -3652,11 +3742,19 @@ Art. 141–143. (pominięte)
 - **2)** konieczność prawidłowego zabezpieczenia blankietów profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic rejestracyjnych;
 - **3)** koszt wyprodukowania blankietów profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic (tablicy) rejestracyjnych;
 - **4)** koszty czynności administracyjnych związanych z wydawaniem decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjonalnych dowodów rejestracyjnych i zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych;
-- **5)** potrzebę minimalizowania obciążeń administracyjnych dla podmiotów uprawnionych. Art. 80zd. 1. Stawki opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, podlegają co 6 lat waloryzacji w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych ogółem za okres 6 poprzednich lat obliczonemu na podstawie średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogłaszanych w komunikatach Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+- **5)** potrzebę minimalizowania obciążeń administracyjnych dla podmiotów uprawnionych.
+
+**Art. 80zd.**
+
+1. Stawki opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, podlegają co 6 lat waloryzacji w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych ogółem za okres 6 poprzednich lat obliczonemu na podstawie średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogłaszanych w komunikatach Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 2. W przypadku gdy wskaźnik, o którym mowa w ust. 1, ma wartość ujemną, stawki opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, nie ulegają zmianie.
 
-3. Minister właściwy do spraw transportu, co 6 lat, nie później niż do dnia 31 października, ogłasza, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość stawek opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, obowiązujących od dnia 1 stycznia roku następnego, zaokrąglając je w górę do 0,5 złotego albo do złotego. Art. 80ze. 1. Podmiot uprawniony przechowuje:
+3. Minister właściwy do spraw transportu, co 6 lat, nie później niż do dnia 31 października, ogłasza, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość stawek opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, obowiązujących od dnia 1 stycznia roku następnego, zaokrąglając je w górę do 0,5 złotego albo do złotego.
+
+**Art. 80ze.**
+
+1. Podmiot uprawniony przechowuje:
 
 - **1)** decyzję o profesjonalnej rejestracji pojazdów,
 - **2)** blankiety profesjonalnych dowodów rejestracyjnych oraz profesjonalne dowody rejestracyjne,
@@ -3667,7 +3765,11 @@ Art. 141–143. (pominięte)
 - **1)** decyzję o profesjonalnej rejestracji pojazdów przez okres 5 lat od dnia, w którym upłynął termin ważności tej decyzji, lub od dnia uchylenia tej decyzji;
 - **2)** blankiety profesjonalnych dowodów rejestracyjnych, profesjonalne dowody rejestracyjne i profesjonalne tablice (tablicę) rejestracyjne do czasu ich zwrotu staroście.
 
-3. W przypadku kradzieży blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych podmiot uprawniony zawiadamia o tym fakcie właściwy organ Policji oraz starostę, który wydał decyzję o profesjonalnej rejestracji pojazdów. Art. 80zf. 1. Zabrania się:
+3. W przypadku kradzieży blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych podmiot uprawniony zawiadamia o tym fakcie właściwy organ Policji oraz starostę, który wydał decyzję o profesjonalnej rejestracji pojazdów.
+
+**Art. 80zf.**
+
+1. Zabrania się:
 
 - **1)** korzystania z profesjonalnego dowodu rejestracyjnego lub profesjonalnych tablic (tablicy) rejestracyjnych przez osobę do tego nieuprawnioną;
 - **2)** wykonywania jazdy testowej bez wypełnionego profesjonalnego dowodu rejestracyjnego.
@@ -3893,9 +3995,19 @@ Art. 141–143. (pominięte)
 
 6. W rejestrze przedsiębiorców prowadzących stację kontroli pojazdów umieszcza się dane przedsiębiorcy, o których mowa w ust. 3, z wyjątkiem adresu zamieszkania, jeżeli jest on inny niż adres siedziby.
 
-7. Starosta może wyrazić zgodę na umieszczanie nadanych cech identyfikacyjnych pojazdu przez stację kontroli pojazdów. Art. 83aa. Właściwy starosta wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru przedsiębiorców prowadzących stację kontroli pojazdów. Art. 83ab. 1. Właściwy starosta prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+7. Starosta może wyrazić zgodę na umieszczanie nadanych cech identyfikacyjnych pojazdu przez stację kontroli pojazdów.
 
-2. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych. Art. 83ac. 1. Właściwy starosta jest obowiązany dokonać wpisu przedsiębiorcy do rejestru przedsiębiorców prowadzących stację kontroli pojazdów w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem, o którym mowa w art. 83a ust. 4.
+**Art. 83aa.** Właściwy starosta wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru przedsiębiorców prowadzących stację kontroli pojazdów.
+
+**Art. 83ab.**
+
+1. Właściwy starosta prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+
+2. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych.
+
+**Art. 83ac.**
+
+1. Właściwy starosta jest obowiązany dokonać wpisu przedsiębiorcy do rejestru przedsiębiorców prowadzących stację kontroli pojazdów w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem, o którym mowa w art. 83a ust. 4.
 
 2. Jeżeli właściwy starosta nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do niego upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy starosta wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
 
@@ -3922,9 +4034,15 @@ Art. 141–143. (pominięte)
 
 3. Starosta może powierzyć, w drodze porozumienia, czynności kontrolne Dyrektorowi Transportowego Dozoru Technicznego.
 
-4. (uchylony) Art. 83ba. 1. Przedsiębiorca, którego wykreślono z rejestru przedsiębiorców prowadzących stację kontroli pojazdów, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 83b ust. 2 pkt 3.
+4. (uchylony)
 
-2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 83ac ust. 2. Art. 83bb. Właściwy starosta wykreśla przedsiębiorcę z rejestru przedsiębiorców prowadzących stację kontroli pojazdów na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+**Art. 83ba.**
+
+1. Przedsiębiorca, którego wykreślono z rejestru przedsiębiorców prowadzących stację kontroli pojazdów, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 83b ust. 2 pkt 3.
+
+2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 83ac ust. 2.
+
+**Art. 83bb.** Właściwy starosta wykreśla przedsiębiorcę z rejestru przedsiębiorców prowadzących stację kontroli pojazdów na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
 
 **Art. 83c.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
@@ -4036,7 +4154,12 @@ Art. 141–143. (pominięte)
 5. Minister właściwy do spraw informatyzacji może zlecić, z wyłączeniem stosowania przepisów dotyczących zamówień publicznych, zadania związane z budową, rozwojem, wdrożeniem i utrzymaniem systemu teleinformatycznego obsługującego:
 
 - **1)** centralną ewidencję kierowców,
-- **2)** centralną ewidencję pojazdów – wytwórcy dokumentów publicznych w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 564) lub instytucji gospodarki budżetowej, wobec której minister właściwy do spraw informatyzacji pełni funkcję organu założycielskiego. Art. 100aa. 1. W ewidencji gromadzi się dane o:
+- **2)** centralną ewidencję pojazdów – wytwórcy dokumentów publicznych w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 564) lub instytucji gospodarki budżetowej, wobec której minister właściwy do spraw informatyzacji pełni funkcję organu założycielskiego.
+
+**Art. 100aa.**
+
+1. W ewidencji gromadzi się dane o:
+
 - **1)** osobach posiadających lub którym cofnięto uprawnienia do kierowania pojazdami silnikowymi, tramwajami lub motorowerami, zwane dalej „uprawnieniami”;
 - **1a)** osobach posiadających lub którym unieważniono kartę kwalifikacji kierowcy;
 - **2)** osobach nieposiadających uprawnień, które kierując pojazdem popełniły naruszenie określone w przepisach wydanych na podstawie art. 105 ust. 1 pkt 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
@@ -4069,10 +4192,14 @@ Art. 141–143. (pominięte)
 - **4)** obywatelstwo;
 - **5)** adres zamieszkania;
 - **6)** datę zgonu;
-- **7)** o uprawnieniach; [8) o okresie próbnym i jego przedłużeniu;] <8) o okresie próbnym, jego przedłużeniu i nałożeniu uzupełniającego okresu próbnego;> 8a) o ukończeniu praktycznego szkolenia w zakresie zagrożeń w ruchu drogowym, o którym mowa w art. 91 ust. 6 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
+- **7)** o uprawnieniach;
+- **8)** o okresie próbnym, jego przedłużeniu i nałożeniu uzupełniającego okresu próbnego;
+- **8a)** o ukończeniu praktycznego szkolenia w zakresie zagrożeń w ruchu drogowym, o którym mowa w art. 91 ust. 6 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
 - **9)** o skierowaniu na kurs reedukacyjny;
 - **10)** o dokumentach stwierdzających uprawnienia;
-- **11)** o zastosowaniu zakazu prowadzenia pojazdów; [12) o wykroczeniach lub przestępstwach stanowiących naruszenia przepisów ruchu drogowego i przypisanych im punktach;] <12) o wykroczeniach lub przestępstwach stanowiących naruszenia przepisów ruchu drogowego i przypisanych im punktach oraz wysokości grzywien nałożonych w drodze mandatu karnego;> 12a) o uiszczeniu grzywien, o których mowa w pkt 12;
+- **11)** o zastosowaniu zakazu prowadzenia pojazdów;
+- **12)** o wykroczeniach lub przestępstwach stanowiących naruszenia przepisów ruchu drogowego i przypisanych im punktach oraz wysokości grzywien nałożonych w drodze mandatu karnego;
+- **12a)** o uiszczeniu grzywien, o których mowa w pkt 12;
 - **13)** o kierowaniu pojazdem w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu;
 - **14)** o zaświadczeniach ADR, o których mowa w przepisach o przewozie towarów niebezpiecznych;
 - **15)** o wydanych i cofniętych świadectwach kwalifikacji zawodowej potwierdzających uzyskanie odpowiednich kwalifikacji lub ukończenie szkolenia okresowego oraz o zaświadczeniach potwierdzających ukończenie modułów szkolenia okresowego, o których mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym;
@@ -4147,7 +4274,7 @@ Art. 141–143. (pominięte)
 - **6)** wynikające z zakresu złożonego przez wykładowcę egzaminu poszczególne rodzaje uprawnień, w zakresie których może prowadzić szkolenie, oraz daty ich uzyskania;
 - **7)** numer ewidencyjny ośrodka szkolenia kierowców lub numer ewidencyjny innego podmiotu, w których prowadzi szkolenie;
 - **8)** datę wydania zaświadczenia o wpisie do ewidencji;
-- **9)** o wpisach i skreśleniach.> 6a. W stosunku do osób, o których mowa w ust. 1 pkt 6, gromadzi się następujące dane:
+- **9)** o wpisach i skreśleniach.
 - **1)** imię i nazwisko;
 - **2)** datę i miejsce urodzenia;
 - **3)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu tożsamości oraz nazwę państwa, które wydało ten dokument;
@@ -4218,7 +4345,7 @@ Art. 141–143. (pominięte)
 - **6)** poszczególne rodzaje uprawnień, w zakresie których podmiot może prowadzić szkolenie, oraz daty ich uzyskania;
 - **7)** adresy pomieszczeń biurowych, sal wykładowych i placów manewrowych wraz z datami określającymi okres, na jaki podmiot posiada tytuł prawny do tych obiektów;
 - **8)** imiona, nazwiska i numery ewidencyjne instruktorów i wykładowców prowadzących szkolenie na rzecz podmiotu;
-- **9)** o wpisach i skreśleniach.> 7 . W odniesieniu do podmiotów, o których mowa w ust. 1 pkt 12, gromadzi się następujące dane:
+- **9)** o wpisach i skreśleniach.
 - **1)** firmę przedsiębiorcy oraz oznaczenie jego adresu i siedziby albo miejsca zamieszkania;
 - **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile posiada;
 - **3)** numer identyfikacji podatkowej (NIP) – o ile posiada;
@@ -4259,7 +4386,7 @@ Art. 141–143. (pominięte)
 - **4)** numer identyfikacyjny (REGON) ‒ o ile posiada;
 - **5)** wskazanie miejsca prowadzenia ośrodka szkolenia;
 - **6)** numer ewidencyjny;
-- **7)** o wpisach i skreśleniach.>
+- **7)** o wpisach i skreśleniach.
 
 8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w:
 
@@ -4287,7 +4414,12 @@ Art. 141–143. (pominięte)
 - **4)** ust. 7 pkt 9,
 - **5)** ust. 7 pkt 9,
 - **6)** ust. 7a pkt 5,
-- **7)** ust. 7b pkt 7 – przekazywanych przez podmioty, o których mowa w art. 100ac ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także konieczność zapewnienia prawidłowego funkcjonowania ewidencji oraz bezpieczeństwo gromadzonych w niej danych. Art. 100ab. 1. Danych zgromadzonych w ewidencji nie usuwa się, z wyłączeniem danych, o których mowa w:
+- **7)** ust. 7b pkt 7 – przekazywanych przez podmioty, o których mowa w art. 100ac ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także konieczność zapewnienia prawidłowego funkcjonowania ewidencji oraz bezpieczeństwo gromadzonych w niej danych.
+
+**Art. 100ab.**
+
+1. Danych zgromadzonych w ewidencji nie usuwa się, z wyłączeniem danych, o których mowa w:
+
 - **1)** art. 100aa ust. 4 pkt 11 oraz ust. 5 pkt 18, które podlegają usunięciu z ewidencji:
     - **a)** jeżeli dane o zakazie prowadzenia pojazdów podlegają usunięciu z Krajowego Rejestru Karnego,
     - **b)** po 5 latach od daty uprawomocnienia się orzeczenia o zastosowaniu zakazu prowadzenia pojazdów, jeżeli dane o tym zakazie nie podlegają gromadzeniu w Krajowym Rejestrze Karnym;
@@ -4296,29 +4428,32 @@ Art. 141–143. (pominięte)
 
 1a. W przypadku, o którym mowa w ust. 1 pkt 1 lit. b, dane, o których mowa w art. 100aa ust. 4 pkt 11 i ust. 5 pkt 18, są usuwane automatycznie.
 
-2. (uchylony) Art. 100ac. 1. Dane, o których mowa w art. 100aa ust. 2–7b, przekazują do ewidencji:
+2. (uchylony)
+
+**Art. 100ac.**
+
+1. Dane, o których mowa w art. 100aa ust. 2–7b, przekazują do ewidencji:
 
 - **1)** organ właściwy w sprawach wydawania dokumentów stwierdzających uprawnienie do kierowania pojazdami w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 1–5, [pkt 7–10 i pkt 23–26] <7, 8, 9, 10 i 23–26> oraz ust. 5 pkt 1–5, pkt 7–15a, pkt 17, 19, 21 i 22;
-- **2)** sąd, niezwłocznie po uprawomocnieniu się orzeczenia – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 11 i 13 oraz ust. 5 pkt 18; [3) odpowiednio do swoich kompetencji: organy kontroli ruchu drogowego, prokurator, sąd lub organ orzekający w sprawach o naruszenia w postępowaniu dyscyplinarnym – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 12;] <3) odpowiednio do swoich kompetencji: organy kontroli ruchu drogowego, prokurator, sąd lub organ orzekający w sprawach o naruszenia w postępowaniu dyscyplinarnym – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 12 i 12a;> 3a) właściwy naczelnik urzędu skarbowego oraz Główny Inspektor Transportu Drogowego – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 12a;
+- **2)** sąd, niezwłocznie po uprawomocnieniu się orzeczenia – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 11 i 13 oraz ust. 5 pkt 18;
+- **3)** odpowiednio do swoich kompetencji: organy kontroli ruchu drogowego, prokurator, sąd lub organ orzekający w sprawach o naruszenia w postępowaniu dyscyplinarnym – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 12 i 12a;
+- **3a)** właściwy naczelnik urzędu skarbowego oraz Główny Inspektor Transportu Drogowego – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 12a;
 - **4)** odpowiednio do swoich kompetencji: organy kontroli ruchu drogowego, prokurator lub sąd – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 10;
 - **5)** marszałek województwa lub Szef Inspektoratu Wsparcia Sił Zbrojnych – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 14;
 - **6)** wojewoda i dyrektor okręgowej komisji egzaminacyjnej – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 15 i ust. 5 pkt 24;
-- **7)** kierownik ośrodka szkolenia w zakresie uzyskiwania kwalifikacji zawodowej, o którym mowa w art. 39e ustawy z dnia 6 września 2001 r. o transporcie drogowym – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 15 oraz ust. 5 pkt 20, 20a i 24; <7a) kierownik ośrodka doskonalenia techniki jazdy w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 8a;> [8) starosta – w zakresie danych, o których mowa w:
+- **7)** kierownik ośrodka szkolenia w zakresie uzyskiwania kwalifikacji zawodowej, o którym mowa w art. 39e ustawy z dnia 6 września 2001 r. o transporcie drogowym – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 15 oraz ust. 5 pkt 20, 20a i 24;
+- **7a)** kierownik ośrodka doskonalenia techniki jazdy w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 8a; [8) starosta – w zakresie danych, o których mowa w: b) art. 100aa ust. 7 w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 11;]
     - **a)** art. 100aa ust. 4 pkt 16–19 i 21 oraz ust. 6 w stosunku do osób, o których mowa w art. 100aa ust. 1 pkt 5 i 10,
-    - **b)** art. 100aa ust. 7 w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 11;] <8) starosta – w zakresie danych, o których mowa w:
-    - **a)** art. 100aa ust. 4 pkt 16–19 i 21 oraz ust. 6 i 6e,
-    - **b)** art. 100aa ust. 7;> [9) wojewoda – w zakresie danych, o których mowa w:
+
+- **8)** starosta – w zakresie danych, o których mowa w: a) art. 100aa ust. 4 pkt 16–19 i 21 oraz ust. 6 i 6e, b) art. 100aa ust. 7; [9) wojewoda – w zakresie danych, o których mowa w: c) art. 100aa ust. 7b w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 15;]
     - **a)** art. 100aa ust. 4 pkt 17 w zakresie danych o instruktorze techniki jazdy i ośrodku doskonalenia techniki jazdy oraz w ust. 6 w stosunku do osób, o których mowa w art. 100aa ust. 1 pkt 9,
     - **b)** art. 100aa ust. 7 w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 13,
-    - **c)** art. 100aa ust. 7b w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 15;] <9) wojewoda – w zakresie danych, o których mowa w:
-    - **a)** art. 100aa ust. 4 pkt 17 w zakresie danych o instruktorze techniki jazdy i ośrodku doskonalenia techniki jazdy oraz w ust. 6d,
-    - **b)** art. 100aa ust. 7 i ust. 7b;> [10) marszałek województwa – w zakresie danych, o których mowa w:
+
+- **9)** wojewoda – w zakresie danych, o których mowa w: a) art. 100aa ust. 4 pkt 17 w zakresie danych o instruktorze techniki jazdy i ośrodku doskonalenia techniki jazdy oraz w ust. 6d, b) art. 100aa ust. 7 i ust. 7b; [10) marszałek województwa – w zakresie danych, o których mowa w: c) art. 100aa ust. 7a w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 14;]
     - **a)** art. 100aa ust. 6 w stosunku do osób, o których mowa w art. 100aa ust. 1 pkt 6–8,
     - **b)** art. 100aa ust. 7 w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 12,
-    - **c)** art. 100aa ust. 7a w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 14;] <10) marszałek województwa – w zakresie danych, o których mowa w:
-    - **a)** art. 100aa ust. 6a‒6c,
-    - **b)** art. 100aa ust. 7 i ust. 7a;>
 
+- **10)** marszałek województwa – w zakresie danych, o których mowa w: a) art. 100aa ust. 6a‒6c, b) art. 100aa ust. 7 i ust. 7a;
 - **11)** Biuro Informacyjne Krajowego Rejestru Karnego – w zakresie usunięcia danych o zakazie prowadzenia pojazdów, o którym mowa w art. 100aa ust. 4 pkt 11 i ust. 5 pkt 18, z Krajowego Rejestru Karnego;
 - **12)** kierownik ośrodka szkolenia kierowców – w zakresie danych, o których mowa w art. 100aa ust. 5 pkt 21;
 - **13)** dyrektor wojewódzkiego ośrodka ruchu drogowego – w zakresie danych, o których mowa w: 100aa ust. 1 pkt 4 i 4a;
@@ -4333,7 +4468,7 @@ Art. 141–143. (pominięte)
     - **a)** art. 100aa ust. 4 pkt 21 i 22 – w stosunku do osób, o których mowa w art.
     - **b)** art. 100aa ust. 5 pkt 16 i 16a w zakresie orzeczeń psychologicznych – w stosunku do osób, o których mowa w art. 100aa ust. 1 pkt 4 i 4a.
 
-2. Dane, o których mowa w art. 100aa ust. 2 oraz ust. 7a pkt 4, są uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję. [2a. Dane, o których mowa w art. 100aa ust. 4 pkt 7–12 i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 5, ust. 7 pkt 4 i 5 oraz ust. 7a pkt 5, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.] <2a. Dane, o których mowa w art. 100aa ust. 4 pkt 7–12a i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 5, ust. 7 pkt 4 i 5 oraz ust. 7a pkt 5, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.> <2a. Dane, o których mowa w art. 100aa ust. 4 pkt 7–12a i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 9, ust. 6a pkt 6 i 8, ust. 6b pkt 9 i 10, ust. 6c pkt 8 i 9, ust. 6d pkt 7 i 10, ust. 6e pkt 6 i 8, ust. 7 pkt 8, ust. 7 pkt 9, ust. 7 pkt 9, ust. 7a pkt 5 oraz ust. 7b pkt 7, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.>
+2. Dane, o których mowa w art. 100aa ust. 2 oraz ust. 7a pkt 4, są uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję. [2a. Dane, o których mowa w art. 100aa ust. 4 pkt 7–12 i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 5, ust. 7 pkt 4 i 5 oraz ust. 7a pkt 5, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.] <2a. Dane, o których mowa w art. 100aa ust. 4 pkt 7–12a i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 5, ust. 7 pkt 4 i 5 oraz ust. 7a pkt 5, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.> <2a. Dane, o których mowa w art. 100aa ust. 4 pkt 7–12a i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 9, ust. 6a pkt 6 i 8, ust. 6b pkt 9 i 10, ust. 6c pkt 8 i 9, ust. 6d pkt 7 i 10, ust. 6e pkt 6 i 8, ust. 7 pkt 8, ust. 7 pkt 9, ust. 7 pkt 9, ust. 7a pkt 5 oraz ust. 7b pkt 7, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.
 
 3. Podmioty wymienione w ust. 1, wprowadzają dane do ewidencji w czasie wykonania czynności skutkującej koniecznością przekazania danych do ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty.
 
@@ -4341,7 +4476,11 @@ Art. 141–143. (pominięte)
 
 4. Dane gromadzone w ewidencji są do niej przekazywane z rejestrów PESEL, REGON, TERYT, centralnej ewidencji pojazdów i centralnej ewidencji posiadaczy kart parkingowych, o ile są gromadzone w tych rejestrach.
 
-5. Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a rejestrami PESEL, REGON i TERYT, centralną ewidencją pojazdów i centralną ewidencją posiadaczy kart parkingowych, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a innymi rejestrami i ewidencjami, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych. Art. 100ad. 1. W celu umożliwienia wprowadzenia danych do ewidencji, podmiotom wymienionym w art. 100ac ust. 1 zapewnia się dostęp do danych zgromadzonych w ewidencji.
+5. Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a rejestrami PESEL, REGON i TERYT, centralną ewidencją pojazdów i centralną ewidencją posiadaczy kart parkingowych, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a innymi rejestrami i ewidencjami, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych.
+
+**Art. 100ad.**
+
+1. W celu umożliwienia wprowadzenia danych do ewidencji, podmiotom wymienionym w art. 100ac ust. 1 zapewnia się dostęp do danych zgromadzonych w ewidencji.
 
 2. Wprowadzenie danych do ewidencji następuje przez pobranie danych zgromadzonych w ewidencji, ich weryfikację, w szczególności w oparciu o posiadane dokumenty lub dane, oraz wpisanie do ewidencji nowych danych. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub REGON, rozstrzygające są dane zgromadzone w tych rejestrach.
 
@@ -4355,7 +4494,13 @@ Art. 141–143. (pominięte)
 4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
 - **1)** zakres danych, do których zapewnia się dostęp podmiotom wymienionym w art. 100ac ust. 1, mając na względzie prawidłowość wykonywania przez poszczególne podmioty zadań wynikających z niniejszej ustawy;
-- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz tryb i sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości przekazywanych danych do ewidencji i jej referencyjny charakter. Art. 100ae. W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia. Art. 100af. 58) 1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 100ad.
+- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz tryb i sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości przekazywanych danych do ewidencji i jej referencyjny charakter.
+
+**Art. 100ae.** W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia.
+
+**Art. 100af.**
+
+- **58)** 1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 100ad.
 
 2. W przypadku gdy nie jest możliwe wyjaśnienie niezgodności, podmiot, o którym mowa w ust. 1, niezwłocznie powiadamia o niezgodności administratora danych i informacji zgromadzonych w ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot.
 
@@ -4378,7 +4523,11 @@ Art. 141–143. (pominięte)
 
 8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb wyjaśniania niezgodności danych zgromadzonych w centralnej ewidencji kierowców przez podmioty, które je przekazują, mając na uwadze konieczność zapewnienia kompletności i poprawności danych w ewidencji, zapewnienie terminowej obsługi procesów administracyjnych powiązanych z ewidencją i ich bezpieczeństwo.
 
-9. Przepisów ust. 1–8 nie stosuje się do usunięcia z ewidencji danych dotyczących zakazu prowadzenia pojazdu. Art. 100ah. 1. Dane zgromadzone w ewidencji udostępnia się, o ile są one niezbędne do realizacji ich ustawowych zadań, następującym podmiotom:
+9. Przepisów ust. 1–8 nie stosuje się do usunięcia z ewidencji danych dotyczących zakazu prowadzenia pojazdu.
+
+**Art. 100ah.**
+
+1. Dane zgromadzone w ewidencji udostępnia się, o ile są one niezbędne do realizacji ich ustawowych zadań, następującym podmiotom:
 
 - **1)** Policji;
 - **2)** Inspekcji Transportu Drogowego;
@@ -4434,35 +4583,65 @@ Art. 141–143. (pominięte)
 7. Minister właściwy do spraw informatyzacji, w drodze decyzji:
 
 - **1)** odmawia udostępniania danych za pomocą urządzeń teletransmisji danych, jeżeli podmioty, o których mowa w ust. 1, nie spełniają warunków, o których mowa w ust. 5;
-- **2)** cofa dostęp do danych udostępnianych za pomocą urządzeń teletransmisji danych, jeżeli podmioty, o których mowa w ust. 1, przestaną spełniać warunki, o których mowa w ust. 5. Art. 100ai. 1. Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej.
+- **2)** cofa dostęp do danych udostępnianych za pomocą urządzeń teletransmisji danych, jeżeli podmioty, o których mowa w ust. 1, przestaną spełniać warunki, o których mowa w ust. 5.
 
-2. (uchylony) Art. 100aj. 1. Każdemu zainteresowanemu, po podaniu danych określonych w przepisach wydanych na podstawie ust. 3, dane zgromadzone w ewidencji, udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego.
+**Art. 100ai.**
+
+1. Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej.
+
+2. (uchylony)
+
+**Art. 100aj.**
+
+1. Każdemu zainteresowanemu, po podaniu danych określonych w przepisach wydanych na podstawie ust. 3, dane zgromadzone w ewidencji, udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego.
 
 2. Dane osobowe zgromadzone w ewidencji mogą być udostępniane po uwierzytelnieniu zainteresowanego na zasadach określonych w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
 3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
 - **1)** dane wymagane do uzyskania dostępu do poszczególnych danych,
-- **2)** szczegółowy zakres udostępnianych danych – mając na uwadze konieczność zapewnienia bezpieczeństwa danych. Art. 100ak. 1. Dane zgromadzone w ewidencji udostępnia się także osobie, której one dotyczą.
+- **2)** szczegółowy zakres udostępnianych danych – mając na uwadze konieczność zapewnienia bezpieczeństwa danych.
 
-2. Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej stanowi wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 100al. 1. Minister właściwy do spraw informatyzacji może udostępnić dane zgromadzone w ewidencji innym podmiotom niż wymienione w art. 100ag–100ak, w tym osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, jeżeli wykażą swój interes prawny.
+**Art. 100ak.**
 
-2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej stanowi wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 100am. 1. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania, w sposób wykluczający możliwość identyfikacji osób, z zachowaniem przepisów ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, jeżeli przepisy ustawy nie stanowią inaczej.
+1. Dane zgromadzone w ewidencji udostępnia się także osobie, której one dotyczą.
+
+2. Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej stanowi wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci.
+
+**Art. 100al.**
+
+1. Minister właściwy do spraw informatyzacji może udostępnić dane zgromadzone w ewidencji innym podmiotom niż wymienione w art. 100ag–100ak, w tym osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, jeżeli wykażą swój interes prawny.
+
+2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej stanowi wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci.
+
+**Art. 100am.**
+
+1. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania, w sposób wykluczający możliwość identyfikacji osób, z zachowaniem przepisów ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, jeżeli przepisy ustawy nie stanowią inaczej.
 
 2. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
-3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych. Art. 100an. 1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 100ah ust. 4, art. 100ak ust. 2, art. 100al ust. 2 oraz art. 100am ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji.
+3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych.
 
-2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, rodzaj i zakres danych udostępnianych na podstawie art. 100ah i art. 100ak–100am, uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem. Art. 100ao. Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje:
+**Art. 100an.**
+
+1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 100ah ust. 4, art. 100ak ust. 2, art. 100al ust. 2 oraz art. 100am ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji.
+
+2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, rodzaj i zakres danych udostępnianych na podstawie art. 100ah i art. 100ak–100am, uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem.
+
+**Art. 100ao.** Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje:
 
 - **1)** nieodpłatnie, w przypadku danych: 1, w celach niekomercyjnych,
     - **a)** udostępnianych na podstawie art. 100ah–100ak,
     - **b)** przekazywanych na podstawie art. 100am w sposób określony w art. 100am ust. 2 organom administracji publicznej, niewymienionym w art. 100ah ust.
     - **c)** udostępnianych na podstawie art. 100am w sposób określony w art. 100am ust. 3, w celach komercyjnych i niekomercyjnych;
 
-- **2)** odpłatnie, w przypadku danych: Art. 100ap. 1. Wysokość opłaty za udostępnienie danych jednostkowych dotyczących jednej osoby lub jednego podmiotu nie może być wyższa niż 2 % przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+- **2)** odpłatnie, w przypadku danych:
     - **a)** udostępnianych na podstawie art. 100al,
     - **b)** przekazywanych na podstawie art. 100am w sposób określony w art. 100am ust. 2, w celach komercyjnych i niekomercyjnych.
+
+**Art. 100ap.**
+
+1. Wysokość opłaty za udostępnienie danych jednostkowych dotyczących jednej osoby lub jednego podmiotu nie może być wyższa niż 2 % przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
 2. Wysokość opłaty za udostępnianie danych z ewidencji do celów komercyjnych i niekomercyjnych określa się według wzoru: O = K × (A + B) + M gdzie: O – łączna kwota opłaty za udostępnienie danych do celów komercyjnych i niekomercyjnych, K – współczynnik wynoszący:
 
@@ -4475,14 +4654,27 @@ Art. 141–143. (pominięte)
 
 - **1)** wysokość opłaty za udostępnienie danych jednostkowych z ewidencji,
 - **2)** warunki i sposób wnoszenia opłaty za udostępnienie danych z ewidencji,
-- **3)** sposób dokumentowania wniesienia opłaty za udostępnienie danych z ewidencji – mając na względzie zróżnicowaną postać składania wniosku o udostępnienie danych oraz tryb ich udostępniania do celów komercyjnych i niekomercyjnych. Art. 100aq. W celu zapewnienia możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, minister właściwy do spraw informatyzacji zapewnia Agencji Bezpieczeństwa Wewnętrznego dostęp do ewidencji. Art. 100ar. 1. Każdemu zainteresowanemu, który zostanie uwierzytelniony w systemie teleinformatycznym obsługującym ewidencję, po podaniu imienia i nazwiska oraz numeru blankietu wydanego w kraju prawa jazdy lub pozwolenia na kierowanie tramwajem, są udostępniane następujące dane:
+- **3)** sposób dokumentowania wniesienia opłaty za udostępnienie danych z ewidencji – mając na względzie zróżnicowaną postać składania wniosku o udostępnienie danych oraz tryb ich udostępniania do celów komercyjnych i niekomercyjnych.
+
+**Art. 100aq.** W celu zapewnienia możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, minister właściwy do spraw informatyzacji zapewnia Agencji Bezpieczeństwa Wewnętrznego dostęp do ewidencji.
+
+**Art. 100ar.**
+
+1. Każdemu zainteresowanemu, który zostanie uwierzytelniony w systemie teleinformatycznym obsługującym ewidencję, po podaniu imienia i nazwiska oraz numeru blankietu wydanego w kraju prawa jazdy lub pozwolenia na kierowanie tramwajem, są udostępniane następujące dane:
+
 - **1)** rodzaj oraz zakres uzyskanego uprawnienia;
 - **2)** data ważności uprawnienia;
 - **3)** data ważności dokumentu;
 - **4)** seria i numer blankietu;
 - **5)** informacja o zatrzymaniu dokumentu, jeżeli dokument pozostaje zatrzymany.
 
-2. Przepis ust. 1 stosuje się odpowiednio do tymczasowego elektronicznego prawa jazdy. Art. 100as. Dane zgromadzone w ewidencji dotyczące praw jazdy lub kart kwalifikacji kierowcy, lub świadectw kwalifikacji zawodowych udostępnia się właściwym organom państw członkowskich Unii Europejskiej przy użyciu elektronicznej sieci. Art. 100at. 1. W ewidencji gromadzi się następujące dane w celu automatycznego wygenerowania na ich podstawie tymczasowego elektronicznego prawa jazdy:
+2. Przepis ust. 1 stosuje się odpowiednio do tymczasowego elektronicznego prawa jazdy.
+
+**Art. 100as.** Dane zgromadzone w ewidencji dotyczące praw jazdy lub kart kwalifikacji kierowcy, lub świadectw kwalifikacji zawodowych udostępnia się właściwym organom państw członkowskich Unii Europejskiej przy użyciu elektronicznej sieci.
+
+**Art. 100at.**
+
+1. W ewidencji gromadzi się następujące dane w celu automatycznego wygenerowania na ich podstawie tymczasowego elektronicznego prawa jazdy:
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** datę i miejsce urodzenia;
@@ -4751,7 +4943,8 @@ Art. 141–143. (pominięte)
 - **1a)** ustalenia tożsamości kierującego pojazdem na podstawie danych z Rejestru Dowodów Osobistych;
 - **2)** sprawdzania wymaganych dokumentów, o których mowa w art. 38, oraz zezwolenia, o którym mowa w art. 106 ust. 1 pkt 5 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami; 2 ) weryfikacji danych o pojeździe, w tym danych o dokumentach pojazdu w centralnej ewidencji pojazdów; 2 ) weryfikacji danych o kierującym pojazdem w centralnej ewidencji kierowców; 2 ) weryfikacji danych o kierującym pojazdem, którego prawo jazdy lub karta kwalifikacji kierowcy zostały wydane przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej, w drodze teletransmisji przy użyciu elektronicznej sieci, w zakresie danych aktualnie dostępnych w elektronicznej sieci;
 - **2a)** (uchylony) 2b) sprawdzania zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1;
-- **3)** żądania poddania się przez kierującego pojazdem lub przez inną osobę, w stosunku do której zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem, badaniu w celu ustalenia zawartości w organizmie alkoholu lub środka działającego podobnie do alkoholu; <3a) żądania poddania się przez pasażera, o którym mowa w art. 8a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, badaniu w celu ustalenia zawartości w organizmie alkoholu lub środka działającego podobnie do alkoholu;>
+- **3)** żądania poddania się przez kierującego pojazdem lub przez inną osobę, w stosunku do której zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem, badaniu w celu ustalenia zawartości w organizmie alkoholu lub środka działającego podobnie do alkoholu;
+- **3a)** żądania poddania się przez pasażera, o którym mowa w art. 8a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, badaniu w celu ustalenia zawartości w organizmie alkoholu lub środka działającego podobnie do alkoholu;
 - **4)** sprawdzania stanu technicznego, wyposażenia, ładunku, wymiarów, masy lub nacisku osi pojazdu znajdującego się na drodze;
 - **4a)** odczytu w czasie kontroli wskazania drogomierza pojazdu, drogomierza pojazdu holowanego oraz drogomierza pojazdu przewożonego wraz z jednostką miary;
 - **5)** sprawdzania zapisów tachografu;
@@ -4775,7 +4968,9 @@ Art. 141–143. (pominięte)
 - **11)** kontroli przewozu drogowego towarów niebezpiecznych oraz wymagań związanych z tym przewozem;
 - **11a)** kontroli transportu odpadów w rozumieniu ustawy z dnia 14 grudnia 2012 r. o odpadach oraz wymagań związanych z tym transportem;
 - **11b)** zrywania plomb celem fizycznej kontroli przewożonych odpadów;
-- **12)** używania urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych, służących do wydawania wiążących poleceń uczestnikowi ruchu; [13) występowania w uzasadnionym przypadku z wnioskiem o ocenę stanu zdrowia kierującego pojazdem;] <13) występowania w uzasadnionym przypadku z wnioskiem o ocenę stanu zdrowia kierującego pojazdem lub pasażera, o którym mowa w art. 8a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;> 13a) występowania do starosty z wnioskiem o skierowanie kierowcy lub osoby posiadającej pozwolenie na kierowanie tramwajem na egzamin sprawdzający kwalifikacje, jeżeli istnieją uzasadnione i poważne zastrzeżenia co do kwalifikacji tej osoby;
+- **12)** używania urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych, służących do wydawania wiążących poleceń uczestnikowi ruchu;
+- **13)** występowania w uzasadnionym przypadku z wnioskiem o ocenę stanu zdrowia kierującego pojazdem lub pasażera, o którym mowa w art. 8a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
+- **13a)** występowania do starosty z wnioskiem o skierowanie kierowcy lub osoby posiadającej pozwolenie na kierowanie tramwajem na egzamin sprawdzający kwalifikacje, jeżeli istnieją uzasadnione i poważne zastrzeżenia co do kwalifikacji tej osoby;
 - **14)** pilotowania pojazdów, z wyłączeniem pojazdów nienormatywnych pilotowanych zgodnie z art. 64 ust. 1 pkt 3.
 
 3. Przepisów ust. 2 pkt 3, 4 i 6 nie stosuje się do szefów i cudzoziemskiego personelu przedstawicielstw dyplomatycznych, urzędów konsularnych i misji specjalnych państw obcych oraz organizacji międzynarodowych, korzystających z przywilejów i immunitetów dyplomatycznych lub konsularnych na mocy ustaw, umów bądź powszechnie uznanych zwyczajów międzynarodowych lub na zasadzie wzajemności, oraz do innych osób korzystających z tych przywilejów i immunitetów.
@@ -4890,7 +5085,21 @@ Art. 141–143. (pominięte)
 
 2. Art. 129 ust. 3 stosuje się odpowiednio do kontroli ruchu drogowego wykonywanej przez osoby, o których mowa w ust. 1.
 
-**Art. 129f.** Strażnicy straży gminnych (miejskich), strażnicy leśni oraz funkcjonariusze Straży Parku w związku z wykonywaniem czynności z zakresu kontroli ruchu drogowego są obowiązani do czasu przybycia Policji uniemożliwić kierowanie pojazdem osobie, co do której istnieje uzasadnione podejrzenie, że znajduje się ona w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu. Art. 129fa. 1. Pojazd wytypowany przez kontrolującego do sprawdzenia stanu technicznego w ramach kontroli ruchu drogowego podlega wstępnej drogowej kontroli technicznej, która jest przeprowadzana zgodnie z przepisami wydanymi na podstawie art. 131 ust. 1. 2. Główny Inspektor Transportu Drogowego w porozumieniu z Komendantem Głównym Policji planują i organizują wstępne drogowe kontrole techniczne pojazdów kategorii M , M , N i N i przyczep kategorii O i O w taki sposób, aby łączna liczba tych kontroli obejmowała w każdym roku kalendarzowym co najmniej 5 % łącznej liczby takich pojazdów zarejestrowanych na terytorium Rzeczypospolitej Polskiej. Art. 129fb. 1. W przypadku pojazdu kategorii M , M , N i N , przyczepy kategorii O i O i ciągnika kołowego kategorii T , T , T , T , T , T i T użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy kontrolujący, na podstawie wyników wstępnej drogowej kontroli technicznej, może skierować ten pojazd na szczegółową drogową kontrolę techniczną. Kierując pojazd na szczegółową drogową kontrolę techniczną, uwzględnia się w szczególności potrzebę ustalenia, czy pojazd ten zagraża bezpieczeństwu ruchu drogowego lub narusza wymagania ochrony środowiska. 2. Zakres szczegółowej drogowej kontroli technicznej, która ma być przeprowadzona, określa się w protokole drogowej kontroli technicznej. 3. Szczegółowa drogowa kontrola techniczna jest przeprowadzana zgodnie z przepisami wydanymi na podstawie art. 131 ust. 1 w:
+**Art. 129f.** Strażnicy straży gminnych (miejskich), strażnicy leśni oraz funkcjonariusze Straży Parku w związku z wykonywaniem czynności z zakresu kontroli ruchu drogowego są obowiązani do czasu przybycia Policji uniemożliwić kierowanie pojazdem osobie, co do której istnieje uzasadnione podejrzenie, że znajduje się ona w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu.
+
+**Art. 129fa.**
+
+1. Pojazd wytypowany przez kontrolującego do sprawdzenia stanu technicznego w ramach kontroli ruchu drogowego podlega wstępnej drogowej kontroli technicznej, która jest przeprowadzana zgodnie z przepisami wydanymi na podstawie art. 131 ust. 1.
+
+2. Główny Inspektor Transportu Drogowego w porozumieniu z Komendantem Głównym Policji planują i organizują wstępne drogowe kontrole techniczne pojazdów kategorii M , M , N i N i przyczep kategorii O i O w taki sposób, aby łączna liczba tych kontroli obejmowała w każdym roku kalendarzowym co najmniej 5 % łącznej liczby takich pojazdów zarejestrowanych na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 129fb.**
+
+1. W przypadku pojazdu kategorii M , M , N i N , przyczepy kategorii O i O i ciągnika kołowego kategorii T , T , T , T , T , T i T użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy kontrolujący, na podstawie wyników wstępnej drogowej kontroli technicznej, może skierować ten pojazd na szczegółową drogową kontrolę techniczną. Kierując pojazd na szczegółową drogową kontrolę techniczną, uwzględnia się w szczególności potrzebę ustalenia, czy pojazd ten zagraża bezpieczeństwu ruchu drogowego lub narusza wymagania ochrony środowiska.
+
+2. Zakres szczegółowej drogowej kontroli technicznej, która ma być przeprowadzona, określa się w protokole drogowej kontroli technicznej.
+
+3. Szczegółowa drogowa kontrola techniczna jest przeprowadzana zgodnie z przepisami wydanymi na podstawie art. 131 ust. 1 w:
 
 - **1)** mobilnej stacji kontroli drogowej,
 - **2)** wyznaczonym punkcie przeprowadzania kontroli drogowej obejmującym obszar o odpowiedniej powierzchni, na którym jest możliwa kontrola techniczna głównych układów w pojeździe odpowiedzialnych za bezpieczeństwo – przy użyciu przyrządów kontrolno-pomiarowych niezbędnych do przeprowadzenia takiej kontroli, w szczególności przyrządów niezbędnych do oceny stanu hamulców i skuteczności ich działania, układu kierowniczego, zawieszenia oraz uciążliwości pojazdu.
@@ -4899,7 +5108,11 @@ Art. 141–143. (pominięte)
 
 5. Wyniki szczegółowej drogowej kontroli technicznej zamieszcza się w protokole drogowej kontroli technicznej.
 
-6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, minimalne wymagania w zakresie wyposażenia mobilnej stacji kontroli drogowej oraz wyznaczonego punktu przeprowadzania kontroli drogowej i przyrządów kontrolnopomiarowych w nich stosowanych, uwzględniając zakres szczegółowej drogowej kontroli technicznej oraz potrzebę zapewnienia prawidłowej oceny stanu technicznego pojazdów poddawanych tej kontroli. Art. 129fc. 1. Szczegółową drogową kontrolę techniczną przeprowadza kontrolujący, który posiada:
+6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, minimalne wymagania w zakresie wyposażenia mobilnej stacji kontroli drogowej oraz wyznaczonego punktu przeprowadzania kontroli drogowej i przyrządów kontrolnopomiarowych w nich stosowanych, uwzględniając zakres szczegółowej drogowej kontroli technicznej oraz potrzebę zapewnienia prawidłowej oceny stanu technicznego pojazdów poddawanych tej kontroli.
+
+**Art. 129fc.**
+
+1. Szczegółową drogową kontrolę techniczną przeprowadza kontrolujący, który posiada:
 
 - **1)** uprawnienia, o których mowa w art. 84 ust. 2, albo
 - **2)** wykształcenie i praktykę, o których mowa w art. 84 ust. 2b, oraz odbył szkolenie dla kontrolujących w zakresie przeprowadzania szczegółowych drogowych kontroli technicznych – oraz nie rzadziej niż raz w ciągu 2 kolejnych lat uczestniczy w warsztatach dla kontrolujących przeprowadzających szczegółowe drogowe kontrole techniczne.
@@ -4998,9 +5211,12 @@ Art. 141–143. (pominięte)
 5. Minister właściwy do spraw zdrowia, uwzględniając skutki oddziaływania na organizm kierowcy środków działających podobnie do alkoholu, określi, w drodze rozporządzenia:
 
 - **1)** wykaz tych środków;
-- **2)** warunki i sposób przeprowadzania badań na ich obecność w organizmie. [Art. 129ja. W toku kontroli ruchu drogowego uprawniony organ kontroli może poddać kierującego pojazdem lub inną osobę, w stosunku do której zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem, badaniu w celu ustalenia w organizmie zawartości alkoholu lub obecności środka działającego podobnie do alkoholu.] <Art. 129ja. W toku kontroli ruchu drogowego uprawniony organ kontroli może poddać badaniu w celu ustalenia w organizmie zawartości alkoholu lub obecności środka działającego podobnie do alkoholu:
+- **2)** warunki i sposób przeprowadzania badań na ich obecność w organizmie.
+
+**Art. 129ja.** W toku kontroli ruchu drogowego uprawniony organ kontroli może poddać badaniu w celu ustalenia w organizmie zawartości alkoholu lub obecności środka działającego podobnie do alkoholu:
+
 - **1)** kierującego pojazdem lub inną osobę, w stosunku do której zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem;
-- **2)** pasażera, o którym mowa w art. 8a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.>
+- **2)** pasażera, o którym mowa w art. 8a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
 
 **Art. 129k.**
 
@@ -5232,7 +5448,7 @@ Art. 141–143. (pominięte)
 
 1. Policjant:
 
-- **1)** zatrzyma wydane w kraju prawo jazdy za pokwitowaniem w przypadku: o kierujących pojazdami, zgodnie z art. 98a ust. 5 lub 7 tej ustawy,> [d) przekroczenia przez kierującego pojazdem w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy liczby 20 punktów za naruszenie przepisów ruchu drogowego lub stwierdzenia, na podstawie prawomocnych rozstrzygnięć, że w okresie 2 lat od dnia wydania po raz pierwszy prawa jazdy popełnił on przestępstwo przeciwko bezpieczeństwu w komunikacji lub trzy wykroczenia określone w art. 86 § 1, 1a lub 2, art. 86b § 1, art. 87 § 1, art. 92a § 2, art. 92b, art. 97a lub art. 98 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2023 r. poz. 2119),] <d) przekroczenia przez kierującego pojazdem w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy liczby 20 punktów za naruszenie przepisów ruchu drogowego lub stwierdzenia, na podstawie prawomocnych rozstrzygnięć, że w okresie próbnym, o którym mowa w art. 91 ust. 1 albo art. 92 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, popełnił on: – przestępstwo przeciwko bezpieczeństwu w komunikacji lub – trzy wykroczenia określone w: – – art. 86 § 1, 1a lub 2, art. 86b § 1, art. 87 § 1, art. 92a § 2, art. 92b, art. 97a lub art. 98 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734), – – art. 90, art. 92 § 1 lub 2 lub art. 97 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, w związku z niestosowaniem się odpowiednio do art. 25 ust. 1–3 lub znaków drogowych regulujących pierwszeństwo przejazdu, sygnałów świetlnych zakazujących wjazdu za sygnalizator lub poleceń i sygnałów dawanych przez osoby kierujące ruchem lub uprawnione do jego kontroli,>
+- **1)** zatrzyma wydane w kraju prawo jazdy za pokwitowaniem w przypadku: o kierujących pojazdami, zgodnie z art. 98a ust. 5 lub 7 tej ustawy,> [d) przekroczenia przez kierującego pojazdem w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy liczby 20 punktów za naruszenie przepisów ruchu drogowego lub stwierdzenia, na podstawie prawomocnych rozstrzygnięć, że w okresie 2 lat od dnia wydania po raz pierwszy prawa jazdy popełnił on przestępstwo przeciwko bezpieczeństwu w komunikacji lub trzy wykroczenia określone w art. 86 § 1, 1a lub 2, art. 86b § 1, art. 87 § 1, art. 92a § 2, art. 92b, art. 97a lub art. 98 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2023 r. poz. 2119),] <d) przekroczenia przez kierującego pojazdem w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy liczby 20 punktów za naruszenie przepisów ruchu drogowego lub stwierdzenia, na podstawie prawomocnych rozstrzygnięć, że w okresie próbnym, o którym mowa w art. 91 ust. 1 albo art. 92 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, popełnił on: – przestępstwo przeciwko bezpieczeństwu w komunikacji lub – trzy wykroczenia określone w: – – art. 86 § 1, 1a lub 2, art. 86b § 1, art. 87 § 1, art. 92a § 2, art. 92b, art. 97a lub art. 98 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734), – – art. 90, art. 92 § 1 lub 2 lub art. 97 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, w związku z niestosowaniem się odpowiednio do art. 25 ust. 1–3 lub znaków drogowych regulujących pierwszeństwo przejazdu, sygnałów świetlnych zakazujących wjazdu za sygnalizator lub poleceń i sygnałów dawanych przez osoby kierujące ruchem lub uprawnione do jego kontroli,
     - **a)** uzasadnionego podejrzenia, że kierujący pojazdem znajduje się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu,
     - **b)** gdy upłynął termin ważności prawa jazdy, [c) przekroczenia przez kierującego pojazdem liczby 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od wydania skierowania na kurs reedukacyjny, o którym mowa w art. 99 ust. 1 pkt 4 lit. a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami,] <c) przekroczenia przez kierującego pojazdem liczby 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od dnia wysłania informacji o obowiązku ukończenia kursu reedukacyjnego, o którym mowa w art. 98a ust. 3 ustawy z dnia 5 stycznia 2011 r.
     - **e)** stwierdzenia braku dokumentu, o którym mowa w art. 38 ust. 1 pkt 3a lub 4a, lub prowadzenia pojazdu niewyposażonego w blokadę alkoholową w przypadku, o którym mowa w art. 13 ust. 5 pkt 7 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, [f) popełnienia w okresie próbnym, o którym mowa w art. 91 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, trzech wykroczeń przeciwko bezpieczeństwu w komunikacji lub jednego przestępstwa przeciwko bezpieczeństwu w komunikacji;] <f) uzasadnionego podejrzenia, że kierujący pojazdem znajdujący się w okresie próbnym, o którym mowa w art. 91 ust. 1 albo art. 92 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, narusza zakaz, o którym mowa w art. 91 ust. 3 pkt 1 tej ustawy;>
@@ -5369,6 +5585,135 @@ Art. 141–143. (pominięte)
 
 #### Rozdział 4 Kary pieniężne za przejazd pojazdów nienormatywnych bez zezwolenia lub niezgodnie z warunkami określonymi w zezwoleniu
 
+**Art. 140aa.**
+
+1. Za przejazd po drogach publicznych pojazdów nienormatywnych bez zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, lub niezgodnie z warunkami określonymi dla tego zezwolenia nakłada się karę pieniężną, w drodze decyzji administracyjnej.
+
+1a. W przypadku braku:
+
+- **1)** wymaganej liczby pojazdów wykonujących pilotowanie,
+- **2)** wymaganego wyposażenia lub oznakowania pojazdu wykonującego pilotowanie,
+- **3)** wymaganego szkolenia, o którym mowa w art. 6 ust. 3a, przez pilota – nakłada się karę pieniężną, w drodze decyzji administracyjnej.
+
+2. Decyzję administracyjną o nałożeniu kary pieniężnej, o której mowa w ust. 1 i 1a, wydaje właściwy ze względu na miejsce przeprowadzanej kontroli organ Policji, Inspekcji Transportu Drogowego, Straży Granicznej, naczelnik urzędu celnoskarbowego lub zarządca drogi.
+
+3. Karę pieniężną, o której mowa w ust. 1, nakłada się na:
+
+- **1)** podmiot wykonujący przejazd;
+- **2)** podmiot wykonujący czynności ładunkowe, jeżeli wykonał te czynności w sposób powodujący przekroczenie któregokolwiek z wymiarów, nacisków osi lub masy całkowitej pojazdu lub zespołu pojazdów, w stosunku do wartości dopuszczalnych lub wartości określonych w zezwoleniu, o którym mowa w art. 64 ust. 1 pkt 1, jeżeli okoliczności lub dowody wskazują, że podmiot ten miał wpływ lub godził się na powstanie naruszenia określonego w ust. 1;
+- **3)** podmiot wykonujący inne niż wymienione w pkt 2 czynności związane z przejazdem pojazdu nienormatywnego, w szczególności na organizatora transportu, nadawcę, odbiorcę lub spedytora, jeżeli okoliczności lub dowody wskazują, że podmiot ten miał wpływ lub godził się na powstanie naruszenia określonego w ust. 1.
+
+3a. Karę pieniężną, o której mowa w ust. 1a, nakłada się na:
+
+- **1)** podmiot wykonujący przejazd – w przypadku, o którym mowa w ust. 1a pkt 1;
+- **2)** podmiot wykonujący pilotowanie – w przypadku, o którym mowa w ust. 1a pkt 2 i 3.
+
+3b. Kary, o której mowa w ust. 1, za przejazd pojazdu nienormatywnego bez zezwolenia kategorii V albo z przekroczonymi parametrami technicznymi pojazdu wskazanymi w tym zezwoleniu, w zakresie dopuszczalnego nacisku pojedynczej osi napędowej nie nakłada się, w przypadku gdy kontrolujący stwierdził jednoczesne naruszenie zakazu, o którym mowa w art. 41 ust. 2 albo art. 41a ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, albo przekroczenie dopuszczalnego nacisku pojedynczej osi napędowej, o którym mowa w art. 41b ust. 1 albo 3 tej ustawy.
+
+4. Nie wszczyna się postępowania w sprawie nałożenia kary pieniężnej, o której mowa w ust. 1 i ust. 1a pkt 1, wobec podmiotu wykonującego przejazd, a postępowanie wszczęte w tej sprawie umarza się, jeżeli:
+
+- **1)** okoliczności sprawy i dowody wskazują, że ten podmiot:
+    - **a)** dochował należytej staranności w realizacji czynności związanych z przejazdem,
+    - **b)** nie miał wpływu na powstanie naruszenia, lub
+
+- **2)** rzeczywista masa całkowita pojazdu nienormatywnego nie przekracza dopuszczalnej wielkości lub wielkości określonej w zezwoleniu, o którym mowa w art. 64 ust. 1 pkt 1, a przekroczenie dotyczy wyłącznie nacisku osi pojazdu w przypadku przewozu ładunków sypkich oraz drewna.
+
+5. Nie wszczyna się postępowania w sprawie nałożenia kary pieniężnej, o której mowa w ust. 1, wobec podmiotu wykonującego przejazd oraz inne czynności związane z przejazdem drogowym pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
+
+6. W przypadku stwierdzenia przejazdu po drogach publicznych pojazdów nienormatywnych należących do Sił Zbrojnych Rzeczypospolitej Polskiej bez zezwolenia lub niezgodnie z warunkami określonymi dla tego zezwolenia organ kontroli, o którym mowa w ust. 2, powiadamia właściwy terytorialnie ze względu na miejsce przeprowadzenia kontroli organ Żandarmerii Wojskowej.
+
+7. Organ Żandarmerii Wojskowej, o którym mowa w ust. 6, występuje do dowódcy jednostki wojskowej organizującej przejazd drogowy lub do jego przełożonego z wnioskiem o wszczęcie postępowania dyscyplinarnego, na zasadach określonych w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248 i 834).
+
+**Art. 140ab.**
+
+1. Karę pieniężną, o której mowa w art. 140aa ust. 1, ustala się w wysokości:
+
+- **1)** 1500 zł – za brak zezwolenia kategorii I;
+- **2)** 5000 zł – za brak zezwolenia kategorii II–IV;
+- **3)** za brak zezwolenia kategorii V:
+    - **a)** 6000 zł – gdy nacisk jednej lub wielu osi, rzeczywista masa całkowita lub wymiary pojazdu przekraczają dopuszczalne wartości nie więcej niż o 10 %,
+    - **b)** 10 000 zł – gdy nacisk jednej lub wielu osi, rzeczywista masa całkowita lub wymiary pojazdu przekraczają dopuszczalne wartości o więcej niż 10 % i nie więcej niż 20 %,
+    - **c)** 15 000 zł – w pozostałych przypadkach;
+
+- **4)** 5000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt bez potwierdzonego zawiadomienia zarządcy drogi, o którym mowa w art. 64c ust. 9;
+- **5)** 3000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt niezgodnie z warunkami określonymi przez zarządcę drogi, o którym mowa w art. 64c ust. 9;
+- **6)** 6000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt przy zgłoszonym przez zarządcę drogi sprzeciwie, o którym mowa w art. 64c ust. 10;
+- **7)** 2000 zł – za niedotrzymanie warunków przejazdu określonych dla zezwolenia kategorii V lub podanych w tym dokumencie, innych niż parametry techniczne pojazdu lub zespołu pojazdów.
+
+2. W przypadku naruszeń zakazu, o którym mowa w art. 64 ust. 2, za przejazd pojazdem nienormatywnym nakłada się karę jak za przejazd bez zezwolenia.
+
+3. Karę pieniężną, o której mowa w art. 140aa ust. 1a, ustala się w wysokości:
+
+- **1)** 3000 zł – za brak wymaganej liczby pojazdów wykonujących pilotowanie;
+- **2)** 2000 zł – za brak wymaganego wyposażenia lub oznakowania pojazdu wykonującego pilotowanie;
+- **3)** 2000 zł – za brak wymaganego szkolenia, o którym mowa w art. 6 ust. 3a.
+
+**Art. 140ac.**
+
+1. Od decyzji o wymierzeniu kary pieniężnej, o której mowa w art. 140aa ust. 1 i 1a, przysługuje odwołanie do organu nadrzędnego w stosunku do organu, który tę karę wymierzył, w terminie 14 dni od dnia doręczenia decyzji.
+
+2. Decyzja ostateczna podlega wykonaniu po upływie 30 dni od jej doręczenia, chyba że wstrzymano jej wykonanie. Organ kontroli, który wydał decyzję ostateczną, z urzędu wstrzymuje jej wykonanie, w drodze postanowienia, na które nie przysługuje zażalenie, w razie wniesienia skargi do sądu administracyjnego.
+
+3. Karę pieniężną uiszcza się w formie przekazu na wskazany w decyzji rachunek bankowy. Koszty związane z jej przekazaniem pokrywa obowiązany podmiot.
+
+4. Kara pieniężna, o której mowa w ust. 2, podlega przymusowemu ściągnięciu w trybie określonym w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
+
+5. Obowiązek uiszczenia kary pieniężnej, o której mowa w ust. 2, przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym kara powinna zostać uiszczona.
+
+**Art. 140ad.**
+
+1. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie, o którym mowa w art. 140aa ust. 1, przez zagraniczny podmiot mający siedzibę w państwie, z którym Rzeczpospolita Polska nie jest związana umową o wzajemnej egzekucji kar pieniężnych, osoba przeprowadzająca kontrolę pobiera kaucję w wysokości odpowiadającej przewidywanej karze pieniężnej.
+
+2. Kaucję pobiera się:
+
+- **1)** podczas kontroli na drodze – w formie gotówkowej, za pokwitowaniem na druku ścisłego zarachowania, lub za pomocą karty płatniczej;
+- **2)** w terminie późniejszym – w formie przelewu na wyodrębniony rachunek bankowy organu prowadzącego postępowanie administracyjne w sprawie o nałożenie kary, a w przypadku poboru kaucji przez naczelnika urzędu celno-skarbowego – na wyodrębniony rachunek bankowy urzędu skarbowego określony w przepisach odrębnych, przy czym koszty przelewów ponosi obowiązany podmiot.
+
+3. Kaucja przechowywana jest na nieoprocentowanym rachunku bankowym, o którym mowa w ust. 2 pkt 2. Koszty związane z uiszczeniem kaucji w formie przelewu na rachunek bankowy lub za pomocą karty płatniczej – związane z autoryzacją transakcji i przekazem środków na właściwy rachunek bankowy – pokrywa obowiązany podmiot.
+
+4. Kaucję przekazuje się:
+
+- **1)** na rachunek bankowy określony w decyzji o nałożeniu kary, w terminie, o którym mowa w art. 140ac ust. 2, albo
+- **2)** na rachunek bankowy podmiotu, który ją wpłacił, w terminie 7 dni od dnia uprawomocnienia się decyzji lub orzeczenia uchylającego decyzję o nałożeniu kary pieniężnej.
+
+5. W przypadku gdy wysokość nałożonej kary jest mniejsza od wysokości pobranej kaucji, do powstałej różnicy stosuje się odpowiednio przepis ust. 4 pkt 2.
+
+6. Odpowiedzialność za szkody spowodowane ruchem pojazdów nienormatywnych ponosi wykonujący przejazd pojazdem nienormatywnym.
+
+7. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie, o którym mowa w art. 140aa ust. 1 lub 1a, przez podmiot, o którym mowa w ust. 1, osoba przeprowadzająca kontrolę na drodze zatrzymuje, za pokwitowaniem, dokumenty dotyczące przejazdu pojazdu nienormatywnego oraz dowód rejestracyjny (pozwolenie czasowe) pojazdu i usuwa pojazd, na koszt podmiotu wykonującego przejazd pojazdem nienormatywnym, na parking strzeżony, o którym mowa w art. 130a ust. 5c, a jeżeli ze względu na wymiary lub masę pojazdu umieszczenie pojazdu na tym parkingu jest niemożliwe – na inny, w miarę możliwości najbliższy parking strzeżony, jeżeli:
+
+- **1)** nie pobrano kaucji lub
+- **2)** nie usunięto stwierdzonego naruszenia.
+
+**Art. 140ae.**
+
+1. Kary pieniężne, o których mowa w art. 140aa ust. 1 i 1a, są przekazywane odpowiednio do budżetów jednostek samorządu terytorialnego lub na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad.
+
+2. Środki z tytułu kar gromadzone na wyodrębnionym rachunku bankowym Generalnej Dyrekcji Dróg Krajowych i Autostrad są przekazywane w terminie pierwszych 2 dni roboczych po upływie tygodnia, w którym wpłynęły, na rachunek Krajowego Funduszu Drogowego, z przeznaczeniem na budowę lub przebudowę dróg krajowych, drogowych obiektów inżynierskich i przepraw promowych oraz na zakup urządzeń do ważenia pojazdów.
+
+3. Urzędy celno-skarbowe otrzymują prowizję od pobranych kar pieniężnych w wysokości 12 % nałożonej kary.
+
+4. Prowizja, o której mowa w ust. 3, stanowi dochód budżetu państwa.
+
+4a. Wojewódzkie inspektoraty transportu drogowego otrzymują prowizję od pobranych kar pieniężnych w wysokości 12 % nałożonej kary. Prowizja stanowi wpływ Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402).
+
+5. Od kar pieniężnych urzędy celno-skarbowe i wojewódzkie inspektoraty transportu drogowego odliczają prowizję, a pozostałą część kary, w terminie 4 dni po upływie każdych kolejnych 10 dni miesiąca, przekazują odpowiednio do podmiotów wymienionych w ust. 1.
+
+**Art. 140af.**
+
+1. Grzywny, o których mowa w art. 96 § 3 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, pobierane przez organy Inspekcji Transportu Drogowego, nakładane na właściciela lub posiadacza pojazdu, o których mowa w art. 78 ust. 4 i 5 ustawy, stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
+
+2. Kary porządkowe, o których mowa w art. 49 § 1 i 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, pobierane przez organy Inspekcji Transportu Drogowego, nakładane na osoby, o których mowa w art. 78 ust. 4 i 5 ustawy, stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
+
+**Art. 140ag.**
+
+1. Grzywny, o których mowa w art. 86, art. 86b, art. 87, art. 90, art. 92, art. 92a § 2, art. 92b, art. 94 § 1–2, art. 96 § 1 pkt 2 i 3 oraz art. 97a ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, stanowią wpływy Krajowego Funduszu Drogowego.
+
+2. Właściwy naczelnik urzędu skarbowego oraz Główny Inspektor Transportu Drogowego przekazują kwoty z grzywien, o których mowa w ust. 1, w terminie pierwszych dwóch dni roboczych po zakończeniu tygodnia, w którym wpłynęły, na rachunek Krajowego Funduszu Drogowego z przeznaczeniem na finansowanie:
+
+- **1)** zadań inwestycyjnych związanych z poprawą bezpieczeństwa ruchu drogowego na drogach krajowych;
+- **2)** budowy lub przebudowy dróg krajowych.
+
 ### DZIAŁ Va Działania na rzecz bezpieczeństwa ruchu drogowego
 
 **Art. 140b.**
@@ -5500,12 +5845,20 @@ Art. 141–143. (pominięte)
 
 ### DZIAŁ Vb Kary pieniężne
 
-**Art. 140m.** (uchylony) Art. 140ma. 1. Podmiot uprawniony, który:
+**Art. 140m.** (uchylony)
+
+**Art. 140ma.**
+
+1. Podmiot uprawniony, który:
 
 - **1)** nie zwrócił staroście w terminie, o którym mowa w art. 80y ust. 1, blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych, podlega karze pieniężnej w wysokości 3000 zł;
 - **2)** nie prowadzi wykazu, o którym mowa w art. 80x ust. 1, podlega karze pieniężnej w wysokości 5000 zł.
 
-2. Podmiot uprawniony, któremu trzykrotnie w ciągu danego roku kalendarzowego zatrzymano profesjonalny dowód rejestracyjny, podlega karze pieniężnej w wysokości 2000 zł. Art. 140mb. 1. Kto będąc właścicielem pojazdu obowiązanym do złożenia wniosku o rejestrację pojazdu w terminie, o którym mowa w art. 73aa ust. 1 albo 2, nie złoży tego wniosku w terminie, podlega karze pieniężnej w wysokości 500 zł.
+2. Podmiot uprawniony, któremu trzykrotnie w ciągu danego roku kalendarzowego zatrzymano profesjonalny dowód rejestracyjny, podlega karze pieniężnej w wysokości 2000 zł.
+
+**Art. 140mb.**
+
+1. Kto będąc właścicielem pojazdu obowiązanym do złożenia wniosku o rejestrację pojazdu w terminie, o którym mowa w art. 73aa ust. 1 albo 2, nie złoży tego wniosku w terminie, podlega karze pieniężnej w wysokości 500 zł.
 
 2. Kto będąc właścicielem pojazdu obowiązanym do złożenia wniosku o rejestrację pojazdu w terminie, o którym mowa w art. 73aa ust. 3, nie złoży tego wniosku w terminie, podlega karze pieniężnej w wysokości 1000 zł.
 
@@ -5520,7 +5873,11 @@ Art. 141–143. (pominięte)
 
 6. Kto będąc właścicielem pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej wbrew przepisowi art. 78 ust. 2 pkt 1 nie zawiadamia starosty o zbyciu pojazdu w terminie, podlega karze pieniężnej w wysokości 250 zł.
 
-7. Kary pieniężne współwłaściciele pojazdu ponoszą solidarnie. <Art. 140mc. 1. Kto prowadzi prace badawcze nad pojazdem zautomatyzowanym albo pojazdem w pełni zautomatyzowanym bez wymaganego zezwolenia lub z naruszeniem warunków określonych w zezwoleniu, podlega karze pieniężnej.
+7. Kary pieniężne współwłaściciele pojazdu ponoszą solidarnie.
+
+**Art. 140mc.**
+
+1. Kto prowadzi prace badawcze nad pojazdem zautomatyzowanym albo pojazdem w pełni zautomatyzowanym bez wymaganego zezwolenia lub z naruszeniem warunków określonych w zezwoleniu, podlega karze pieniężnej.
 
 2. Karę pieniężną, o której mowa w ust. 1, ustala się w wysokości:
 
@@ -5542,7 +5899,7 @@ Art. 141–143. (pominięte)
 - **1)** wojewódzkiego inspektoratu transportu drogowego i przekazuje się w terminie pierwszych 2 dni roboczych po upływie tygodnia, w którym wpłynęły, do Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej;
 - **2)** komendy wojewódzkiej Policji lub oddziału Straży Granicznej.
 
-7. Środki, o których mowa w ust. 6 pkt 1, stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, a środki, o których mowa w ust. 6 pkt 2, stanowią dochód budżetu państwa.>
+7. Środki, o których mowa w ust. 6 pkt 1, stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, a środki, o których mowa w ust. 6 pkt 2, stanowią dochód budżetu państwa.
 
 **Art. 140n.**
 
@@ -5570,7 +5927,11 @@ Art. 141–143. (pominięte)
 
 ### DZIAŁ VI Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe
 
-**Art. 144.** (uchylony) Art. 145–148. (pominięte) [Art. 148a. 1. Do dnia 31 grudnia 2027 r. dopuszcza się poruszanie się pojazdów elektrycznych, o których mowa w art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, oraz pojazdów napędzanych wodorem, o których mowa w art. 2 pkt 15 tej ustawy, po wyznaczonych przez zarządcę drogi pasach ruchu dla autobusów. 2. Zarządca drogi może uzależnić poruszanie się pojazdów elektrycznych po wyznaczonych pasach ruchu dla autobusów od liczby osób poruszających się tymi pojazdami.] < Art. 148a. 1. Do dnia 1 stycznia 2028 r. dopuszcza się poruszanie się pojazdów elektrycznych, o których mowa w art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, oraz pojazdów napędzanych wodorem, o których mowa w art. 2 pkt 15 tej ustawy, oraz motocykli, o których mowa w art. 2 pkt 45, po wyznaczonych przez zarządcę drogi pasach ruchu dla autobusów. 2. Zarządca drogi może uzależnić poruszanie się pojazdów elektrycznych oraz motocykli po wyznaczonych pasach ruchu dla autobusów od liczby osób poruszających się tymi pojazdami.>
+**Art. 141–143.** (pominięte)
+
+**Art. 144.** (uchylony)
+
+**Art. 145–148.** (pominięte) < Art. 148a. 1. Do dnia 1 stycznia 2028 r. dopuszcza się poruszanie się pojazdów elektrycznych, o których mowa w art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, oraz pojazdów napędzanych wodorem, o których mowa w art. 2 pkt 15 tej ustawy, oraz motocykli, o których mowa w art. 2 pkt 45, po wyznaczonych przez zarządcę drogi pasach ruchu dla autobusów. 2. Zarządca drogi może uzależnić poruszanie się pojazdów elektrycznych oraz motocykli po wyznaczonych pasach ruchu dla autobusów od liczby osób poruszających się tymi pojazdami.
 
 **Art. 148b.**
 
@@ -5599,6 +5960,7 @@ Art. 141–143. (pominięte)
 
 - **1)** art. 49 ust. 2 pkt 5, art. 80, 99 i 109 ust. 4, które wchodzą w życie z dniem 1 lipca 1998 r.;
 - **2)** art. 39 ust. 3 i art. 85, które wchodzą w życie z dniem 1 stycznia 1999 r.;
-- **3)** art. 74 ust. 2 pkt 2 lit. a, art. 77, 87, 88, 90–98 i 100–108, które wchodzą w życie z dniem 1 lipca 1999 r. Załączniki do ustawy z dnia 20 czerwca (Dz. U. z 2024 r. poz. 1251)
+- **3)** art. 74 ust. 2 pkt 2 lit. a, art. 77, 87, 88, 90–98 i 100–108, które wchodzą w życie z dniem 1 lipca 1999 r.
 
+## Załączniki do ustawy z dnia 20 czerwca (Dz. U. z 2024 r. poz. 1251)
 

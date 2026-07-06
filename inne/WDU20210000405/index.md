@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie legitymacji służbowej funkcjonariuszy Centralnego Biura Antykorupcyjnego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 29 października 2013 r. w sprawie legitymacji służbowej funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 119), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 13 listopada 2020 r. zmieniającym rozporządzenie w sprawie legitymacji służbowej funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 2032).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 listopada 2020 r. zmieniającego rozporządzenie w sprawie legitymacji służbowej funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 2032), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZądZenie PREZESA RADY MINISTRÓW z dnia 29 października 2013 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 listopada 2020 r. zmieniającego rozporządzenie w sprawie legitymacji służbowej funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 2032), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZądZenie PREZESA RADY MINISTRÓW z dnia 29 października 2013 r.
 w sprawie legitymacji służbowej funkcjonariuszy Centralnego Biura Antykorupcyjnego Na podstawie art. 52 ust. 3 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r.
 poz. 1921 i 2020 oraz z 2020 r. poz. 1610 i 2320) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

@@ -32,12 +32,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 3) rozporządzeniem Prezesa Rady Ministrów z dnia 24 maja 2011 r. zmieniającym rozporządzenie grzywien nakładanych w drodze mandatów karnych za wybrane rodzaje wykroczeń (Dz.
 4) rozporządzeniem Prezesa Rady Ministrów z dnia 8 maja 2012 r. zmieniającym rozporządzenie grzywien nakładanych w drodze mandatów karnych za wybrane rodzaje wykroczeń (Dz.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie
-1) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 5 listopada 2008 r. zmieniającego rozporządzenie kości grzywien nakładanych w drodze mandatów karnych za wybrane rodzaje wykroczeń który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 stycznia 2011 r. zmieniającego wysokości grzywien nakładanych w drodze mandatów karnych za wybrane rodzaje wykroczeń który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-3) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 maja 2011 r. zmieniającego rozporządzenie kości grzywien nakładanych w drodze mandatów karnych za wybrane rodzaje wykroczeń który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-4) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 8 maja 2012 r. zmieniającego rozporządzenie grzywien nakładanych w drodze mandatów karnych za wybrane rodzaje wykroczeń (Dz.
-„§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 24 listopada 2003 r.
+1) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 5 listopada 2008 r. zmieniającego rozporządzenie kości grzywien nakładanych w drodze mandatów karnych za wybrane rodzaje wykroczeń który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 stycznia 2011 r. zmieniającego wysokości grzywien nakładanych w drodze mandatów karnych za wybrane rodzaje wykroczeń który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
+3) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 24 maja 2011 r. zmieniającego rozporządzenie kości grzywien nakładanych w drodze mandatów karnych za wybrane rodzaje wykroczeń który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”; 4) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 8 maja 2012 r. zmieniającego rozporządzenie grzywien nakładanych w drodze mandatów karnych za wybrane rodzaje wykroczeń (Dz. „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 24 listopada 2003 r.
 w sprawie wysokości grzywien nakładanych w drodze mandatów karnych za wybrane Na podstawie art. 95 § 6 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach z 2013 r. poz. 395, 765 i 1247) zarządza się, co następuje:
 § 1. 1. Rozporządzenie określa wysokość grzywien nakładanych w drodze mandatu karnego czeń przez uprawnione organy.
 2. Wysokość grzywien, o których mowa w ust. 1, określa załącznik do rozporządzenia.

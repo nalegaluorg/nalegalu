@@ -30,10 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkoln
 1) rozporządzeniem Ministra Nauki i Szkolnictwa Wyższego z dnia 31 lipca 2020 r. zmieniającym rozporządzenie w sprawie ewaluacji jakości działalności naukowej (Dz. U. poz. 1352);
 2) rozporządzeniem Ministra Edukacji i Nauki z dnia 19 października 2021 r. zmieniającym rozporządzenie w sprawie ewaluacji jakości działalności naukowej (Dz. U. poz. 1994).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 i § 3 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 31 lipca 2020 r. zmieniającego rozporządzenie w sprawie ewaluacji jakości działalności naukowej (Dz. U. poz. 1352), które stanowią: „§ 2. Minister właściwy do spraw szkolnictwa wyższego i nauki udostępni system teleinformatyczny, o którym mowa w § 23 ust. 1a rozporządzenia zmienianego w § 1, w terminie do dnia 30 czerwca 2021 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 19 października 2021 r. zmieniającego rozporządzenie w sprawie ewaluacji jakości działalności naukowej (Dz. U. poz. 1994), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Edukacji i Nauki: P. Czarnek ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 22 lutego 2019 r.
+1) § 2 i § 3 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 31 lipca 2020 r. zmieniającego rozporządzenie w sprawie ewaluacji jakości działalności naukowej (Dz. U. poz. 1352), które stanowią: „ § 2. Minister właściwy do spraw szkolnictwa wyższego i nauki udostępni system teleinformatyczny, o którym mowa w § 23 ust. 1a rozporządzenia zmienianego w § 1, w terminie do dnia 30 czerwca 2021 r. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 19 października 2021 r. zmieniającego rozporządzenie w sprawie ewaluacji jakości działalności naukowej (Dz. U. poz. 1994), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Edukacji i Nauki: P. Czarnek
+ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 22 lutego 2019 r.
 w sprawie ewaluacji jakości działalności naukowej Na podstawie art. 267 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
 z 2022 r. poz. 574, 583 i 655) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

@@ -515,7 +515,7 @@ source: pdf
 
 3. Pozaodsetkowe koszty kredytu wynikające z umowy o kredyt konsumencki nie należą się w części przekraczającej maksymalną wysokość pozaodsetkowych kosztów kredytu obliczoną w sposób określony w ust. 1–2.
 
-4. Przepisów art. 720 –720 Kodeksu cywilnego nie stosuje się do umowy pożyczki pieniężnej udzielanej przez instytucję pożyczkową na podstawie przepisów niniejszej ustawy.
+4. Przepisów art. 720 2 –720 Kodeksu cywilnego nie stosuje się do umowy pożyczki pieniężnej udzielanej przez instytucję pożyczkową na podstawie przepisów niniejszej ustawy.
 
 **Art. 36b.** W przypadku odroczenia spłaty zadłużenia wynikającego z umowy o kredyt konsumencki w okresie 120 dni od dnia wypłaty tego kredytu:
 
@@ -1030,5 +1030,7 @@ source: pdf
 
 **Art. 67.** Traci moc ustawa z dnia 20 lipca 2001 r. o kredycie konsumenckim (Dz. U. poz. 1081, z późn. zm. ).
 
-**Art. 68.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia . Załączniki do ustawy z dnia 12 maja (Dz. U. z 2025 r. poz. 1362) Załącznik Załącznik Załącznik Załącznik
+**Art. 68.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
+
+## Załączniki do ustawy z dnia 12 maja (Dz. U. z 2025 r. poz. 1362) Załącznik Załącznik Załącznik Załącznik
 

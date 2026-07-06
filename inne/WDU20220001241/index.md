@@ -27,11 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie służby przygotowawczej w Służbie Celno-Skarbowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 13 lipca 2017 r. w sprawie służby przygotowawczej w Służbie Celno-Skarbowej (Dz. U. poz. 1396), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 lipca 2021 r. zmieniającym rozporządzenie w sprawie służby przygotowawczej w Służbie Celno-Skarbowej (Dz. U. poz. 1437).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 lipca 2021 r. zmieniającego rozporządzenie w sprawie służby przygotowawczej w Służbie Celno-Skarbowej (Dz. U. poz. 1437), które stanowią: „§ 2. Do:
-1) szkoleń wstępnych oraz zasadniczego kursu zawodowego,
-2) egzaminu kończącego zasadniczy kurs zawodowy oraz egzaminu zawodowego – rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 13 lipca 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 lipca 2021 r. zmieniającego rozporządzenie w sprawie służby przygotowawczej w Służbie Celno-Skarbowej (Dz. U. poz. 1437), które stanowią: „ § 2. Do: 1) szkoleń wstępnych oraz zasadniczego kursu zawodowego, 2) egzaminu kończącego zasadniczy kurs zawodowy oraz egzaminu zawodowego – rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: M. Rzeczkowska
+ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 13 lipca 2017 r.
 w sprawie służby przygotowawczej w Służbie Celno-Skarbowej Na podstawie art. 155 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
 poz. 813, 835 i 1079) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

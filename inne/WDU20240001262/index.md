@@ -26,13 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1262/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2020 r. poz. 8), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 sierpnia 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720), który stanowi: „Art. 28. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 1 i 21–28 oraz art. 3, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-2) art. 1 pkt 2 lit. a tiret pierwsze, art. 7, art. 10, art. 11, art. 14 oraz art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-3) art. 4 i art. 19, które wchodzą w życie z dniem 1 czerwca 2024 r.;
-4) art. 5 pkt 1, 2, 4, 5 i 6 lit. b, art. 8 pkt 9 i 10 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-5) art. 12 pkt 1–3, 4 lit. a i pkt 5–11, które wchodzą w życie z dniem 1 stycznia 2025 r.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720), który stanowi: „ Art. 28. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 1 i 21–28 oraz art. 3, które wchodzą w życie z dniem 1 stycznia 2026 r.; 2) art. 1 pkt 2 lit. a tiret pierwsze, art. 7, art. 10, art. 11, art. 14 oraz art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 3) art. 4 i art. 19, które wchodzą w życie z dniem 1 czerwca 2024 r.; 4) art. 5 pkt 1, 2, 4, 5 i 6 lit. b, art. 8 pkt 9 i 10 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia; 5) art. 12 pkt 1–3, 4 lit. a i pkt 5–11, które wchodzą w życie z dniem 1 stycznia 2025 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 15 listopada 1984 r.
 Prawo przewozowe
 

@@ -26,10 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001376) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1376/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych (Dz. U. z 2022 r. poz. 406), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 września 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi: „Art. 84. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
-1) art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
-2) art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi: „ Art. 84. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem: 1) art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia; 2) art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 6 lipca 2007 r.
 o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych
 

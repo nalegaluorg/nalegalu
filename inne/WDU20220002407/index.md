@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Energii w sprawie rejestru systemu zapasów interwencyjnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Energii z dnia 15 maja 2019 r. w sprawie rejestru systemu zapasów interwencyjnych (Dz. U. poz. 956), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Klimatu i Środowiska z dnia 28 września 2021 r.
 zmieniającym rozporządzenie w sprawie rejestru systemu zapasów interwencyjnych (Dz. U. poz. 1823).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 28 września 2021 r. zmieniającego rozporządzenie w sprawie rejestru systemu zapasów interwencyjnych (Dz. U. poz. 1823), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Klimatu i Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ENERGII z dnia 15 maja 2019 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 28 września 2021 r. zmieniającego rozporządzenie w sprawie rejestru systemu zapasów interwencyjnych (Dz. U. poz. 1823), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Klimatu i Środowiska: A. Moskwa
+ROZPORZĄDZENIE MINISTRA ENERGII z dnia 15 maja 2019 r.
 w sprawie rejestru systemu zapasów interwencyjnych Na podstawie art. 13 ust. 5 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2022 r. poz. 1537 i 1723) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) szczegółową zawartość i sposób prowadzenia rejestru systemu zapasów interwencyjnych, zwanego dalej „rejestrem”;
@@ -89,7 +89,21 @@ b) oznaczenie formy prawnej właściciela tych zapasów.
 2) wykreślenie z rejestru określa załącznik nr 2 do rozporządzenia.
 § 12. Informacje, o których mowa w art. 8 ust. 5, art. 22 i art. 38 ust. 1 ustawy, są przekazywane Prezesowi Rządowej Agencji Rezerw Strategicznych w formie pisemnej w postaci papierowej lub w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym.
 § 13. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Energii Dziennik Ustaw – 5 – z dnia 15 maja 2019 r. (Dz. U. z 2022 r. poz. Poz. ….) 2407 Załącznik nr 1 WZÓR WZÓR ………………………..
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Szczegółowa zawartość i sposób prowadzenia rejestru
+
+#### Rozdział 3 Dokumenty będące podstawą dokonania wpisu do rejestru, zmiany tego wpisu lub wykreślenia z rejestru
+
+#### Rozdział 4 Wzory wniosków o dokonanie wpisu do rejestru i o wykreślenie z rejestru
+
+#### Rozdział 5 Sposób przekazywania informacji
+
+#### Rozdział 6 Przepis końcowy
+
+## Załącznik nr 1 — WZÓR WZÓR ………………………..
+
 (miejscowość, data) WNIOSEK o dokonanie wpisu do rejestru systemu zapasów interwencyjnych
 1. Firma producenta lub handlowca: ………………………………………………………… ……………………………………………………………………………………………..
 2. Forma prawna producenta lub handlowca: …...…………………………………………..
@@ -154,16 +168,4 @@ Załączniki : ………………………………………………………�
 (podpis osoby lub osób uprawnionych do złożenia wniosku ) Dokumenty, o których mowa w § 10 ust. 1 i 2 rozporządzenia Ministra Energii z dnia 15 maja 2019 r.
 w sprawie rejestru systemu zapasów interwencyjnych.
 W przypadku wniosku przekazywanego drogą elektroniczną kwalifikowany podpis elektroniczny, podpis zaufany lub podpis osobisty.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Szczegółowa zawartość i sposób prowadzenia rejestru
-
-#### Rozdział 3 Dokumenty będące podstawą dokonania wpisu do rejestru, zmiany tego wpisu lub wykreślenia z rejestru
-
-#### Rozdział 4 Wzory wniosków o dokonanie wpisu do rejestru i o wykreślenie z rejestru
-
-#### Rozdział 5 Sposób przekazywania informacji
-
-#### Rozdział 6 Przepis końcowy
 

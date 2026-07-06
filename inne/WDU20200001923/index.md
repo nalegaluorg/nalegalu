@@ -27,10 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury i Rozwoju w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2020 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 maja 2014 r. w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych (Dz. U. poz. 720), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury z dnia 3 września 2019 r. zmieniającym rozporządzenie w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych (Dz. U. poz. 1765).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Infrastruktury z dnia 3 września 2019 r. zmieniającego rozporządzenie w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych (Dz. U. poz. 1765), które stanowią: „§ 2. Do postępowań o wydanie świadectwa dopuszczenia do eksploatacji typu, dotyczących pojazdów kolejowych, o których mowa w § 11 pkt 3 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Do realizacji inwestycji kolejowych obejmujących budowę lub przebudowę infrastruktury kolejowej, w odniesieniu do których przed dniem wejścia w życie niniejszego rozporządzenia zostało wszczęte postępowanie o udzielenie zamówienia na projekt lub wykonawstwo, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 4. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem § 1 pkt 1, który wcho dzi w życie po upływie 9 miesięcy od dnia ogłoszenia.”.
-Minister Infrastruktury: A. Adamczyk RozpoRządzenIe MINISTRA INFRASTRuKTuRY I ROZWOju z dnia 13 maja 2014 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–4 rozporządzenia Ministra Infrastruktury z dnia 3 września 2019 r. zmieniającego rozporządzenie w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych (Dz. U. poz. 1765), które stanowią: „ § 2. Do postępowań o wydanie świadectwa dopuszczenia do eksploatacji typu, dotyczących pojazdów kolejowych, o których mowa w § 11 pkt 3 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem. § 3. Do realizacji inwestycji kolejowych obejmujących budowę lub przebudowę infrastruktury kolejowej, w odniesieniu do których przed dniem wejścia w życie niniejszego rozporządzenia zostało wszczęte postępowanie o udzielenie zamówienia na projekt lub wykonawstwo, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym. § 4. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem § 1 pkt 1, który wcho dzi w życie po upływie 9 miesięcy od dnia ogłoszenia.”. Minister Infrastruktury: A. Adamczyk
+RozpoRządzenIe MINISTRA INFRASTRuKTuRY I ROZWOju z dnia 13 maja 2014 r.
 w sprawie dopuszczania do eksploatacji określonych rodzajów budowli, urządzeń i pojazdów kolejowych Na podstawie art. 22f ust. 14 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2020 r. poz. 1043, 1378 i 1778) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) tryb wydawania, odmowy wydania i cofania świadectw dopuszczenia do eksploatacji typu;
@@ -526,7 +524,6 @@ c) wszelkie istotne informacje zawierające charakterystykę techniczną wyrobu.
 1) załączanie certyfikatu zgodności typu do wniosku o wydanie świadectwa dopuszczenia do eksploatacji typu;
 2) uzyskanie świadectwa dopuszczenia do eksploatacji typu dla rodzajów urządzeń i budowli wymienionych w rozdziale 3 i nieujętych dotychczas w wykazie określonym w rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 7 sierpnia 2012 r. w sprawie wykazu typów budowli przeznaczonych do prowadzenia ruchu kolejowego, typów urządzeń przeznaczonych do prowadzenia ruchu kolejowego oraz typów pojazdów kolejowych, na które są wydawane świadectwa dopuszczenia do eksploatacji typu (Dz. U. poz. 911).
 § 25. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 maja 2014 r.
 
 #### Rozdział 1 przepisy ogólne
 
@@ -543,6 +540,8 @@ Załączniki do rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 maja
 #### Rozdział 7 Szczegółowe warunki i tryb wydawania certyfikatów zgodności z typem i deklaracji zgodności z typem oraz procedura oceny zgodności z typem
 
 #### Rozdział 8 przepisy przejściowe i końcowe
+
+## Załączniki do rozporządzenia Ministra Infrastruktury i Rozwoju z dnia 13 maja 2014 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR CERTYFIKAT ZGODNOŚCI TYPU WZÓR POROZUMIENIE POROZUMIENIE W SPRAWIE W SPRAWIE WYKONANIA WYKONANIA PRÓB PRÓB EKSPLOATACYJNYCH EKSPLOATACYJNYCH Załącznik nr 3 WZÓR WZÓR ŚWIADECTWO dopuszczenia do eksploatacji typu Rodzaj i typ budowli/urządzenia/pojazdu kolejowego*: Producent lub jego upoważniony przedstawiciel: Charakterystyka budowli/urządzenia/pojazdu kolejowego*: Badania techniczne budowli/ urządzenia/ pojazdu kolejowego*: Warunki techniczne eksploatacji: Świadectwo jest ważne: Świadectwo wydano na wniosek: Podstawa prawna: Załącznik nr 4 WZÓR WZÓR NR: CERTYFIKAT ZGODNOŚCI Z TYPEM Załącznik nr 5 WZÓR WZÓR NR: DEKLARACJA ZGODNOŚCI Z TYPEM
 

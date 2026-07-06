@@ -31,12 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 2) rozporządzeniem Ministra Finansów z dnia 27 maja 2020 r. zmieniającym rozporządzenie w sprawie zgłoszeń celnych (Dz. U. poz. 969);
 3) rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającym rozporządzenie w sprawie zgłoszeń celnych (Dz. U. poz. 1187).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Finansów z dnia 23 grudnia 2019 r. zmieniającego rozporządzenie w sprawie zgłoszeń celnych (Dz. U. z 2020 r. poz. 1), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Finansów z dnia 27 maja 2020 r. zmieniającego rozporządzenie w sprawie zgłoszeń celnych (Dz. U. poz. 969), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającego rozporządzenie w sprawie zgłoszeń celnych (Dz. U. poz. 1187), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r., z wyjątkiem:
-1) § 1 pkt 2 w zakresie § 14 ust. 5, który wchodzi w życie z dniem ogłoszenia;
-2) § 1 pkt 1, 3 i 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński rOZPOrZĄDZENIE MINISTRA FINANSÓW z dnia 8 września 2016 r.
+1) § 2 rozporządzenia Ministra Finansów z dnia 23 grudnia 2019 r. zmieniającego rozporządzenie w sprawie zgłoszeń celnych (Dz. U. z 2020 r. poz. 1), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Finansów z dnia 27 maja 2020 r. zmieniającego rozporządzenie w sprawie zgłoszeń celnych (Dz. U. poz. 969), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 29 czerwca 2021 r. zmieniającego rozporządzenie w sprawie zgłoszeń celnych (Dz. U. poz. 1187), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r., z wyjątkiem: 1) § 1 pkt 2 w zakresie § 14 ust. 5, który wchodzi w życie z dniem ogłoszenia; 2) § 1 pkt 1, 3 i 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+rOZPOrZĄDZENIE MINISTRA FINANSÓW z dnia 8 września 2016 r.
 w sprawie zgłoszeń celnych Na podstawie art. 19 ust. 1 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2020 r. poz. 1382 oraz z 2021 r.
 poz. 802 i 1163) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

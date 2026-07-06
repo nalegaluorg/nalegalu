@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie zapotrzebowań oraz wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 12 października 2018 r. w sprawie zapotrzebowań oraz wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych (Dz. U. poz. 2008), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 11 października 2019 r. zmieniającym rozporządzenie w sprawie zapotrzebowań oraz wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych (Dz. U. poz. 2108).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie zapotrzebowań oraz wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych (Dz. U. poz. 2108), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 października 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie zapotrzebowań oraz wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych (Dz. U. poz. 2108), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 października 2018 r.
 w sprawie zapotrzebowań oraz wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych Na podstawie art. 96 ust. 9 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830, 974 i 1095) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób realizacji zapotrzebowania podmiotu wykonującego działalność leczniczą, zwanego dalej „zapotrzebowaniem”;
@@ -97,7 +97,8 @@ poz. 655, 830 i 974) – na recepcie w postaci papierowej, odrębnym dokumencie 
 3. Apteki mogą prowadzić ewidencję recept farmaceutycznych zgodnie z przepisami niniejszego rozporządzenia od pierwszego dnia miesiąca następującego po miesiącu jego wejścia w życie.
 4. Zapotrzebowania sporządzone przed dniem wejścia w życie niniejszego rozporządzenia mogą być realizowane.
 § 8. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 12 października 2018 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 12 października 2018 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR ZAPOTRZEBOWANIE PODMIOTU WYKONUJĄCEGO DZIAŁALNOŚĆ LECZNICZĄ ...............................................................................
 

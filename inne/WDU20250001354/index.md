@@ -30,20 +30,9 @@ source: pdf
 2) ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
 3) ustawą z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 września 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 88 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731), który stanowi: „Art. 88. Ustawa wchodzi w życie z dniem 28 czerwca 2025 r., z wyjątkiem art. 6 pkt 1, 2 i 5–9 oraz art. 39 pkt 6, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U.
-poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
-3) art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-4) art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-5) art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”;
-3) art. 26 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637), który stanowi: „Art. 26. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 9, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 25 marca 2025 r.;
-2) art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2025 r.;
-3) art. 1 pkt 3, 5 i 6, art. 12 i art. 13, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-4) art. 1 pkt 26 w zakresie dodawanego art. 26e, który wchodzi w życie z dniem 1 stycznia 2026 r.”.
-Marszałek Sejmu: S. Hołownia
+1) art. 88 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731), który stanowi: „ Art. 88. Ustawa wchodzi w życie z dniem 28 czerwca 2025 r., z wyjątkiem art. 6 pkt 1, 2 i 5–9 oraz art. 39 pkt 6, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „ Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: 1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.; 3) art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.; 4) art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia; 5) art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”;
+3) art. 26 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637), który stanowi: „ Art. 26. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 9, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 25 marca 2025 r.; 2) art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2025 r.; 3) art. 1 pkt 3, 5 i 6, art. 12 i art. 13, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia; 4) art. 1 pkt 26 w zakresie dodawanego art. 26e, który wchodzi w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 22 listopada 2013 r.
 o systemie powiadamiania ratunkowego
 

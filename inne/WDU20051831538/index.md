@@ -4356,7 +4356,7 @@ System rekompensat
 
 3. Udzielającemu pożyczki podporządkowanej nie przysługuje prawo wypowiedzenia umowy pożyczki podporządkowanej ani odstąpienia od tej umowy.
 
-4. Umowa pożyczki podporządkowanej uprawnia udzielającego pożyczki podporządkowanej do otrzymywania przez czas nieoznaczony odsetek od kwoty udzielonej pożyczki podporządkowanej. Przepisów art. 359 § 2 –2 , art. 365 i art. 395 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny nie stosuje się.
+4. Umowa pożyczki podporządkowanej uprawnia udzielającego pożyczki podporządkowanej do otrzymywania przez czas nieoznaczony odsetek od kwoty udzielonej pożyczki podporządkowanej. Przepisów art. 359 § 2 1 –2 , art. 365 i art. 395 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny nie stosuje się.
 
 5. Wierzytelność wynikająca z pożyczki podporządkowanej może być przedmiotem przeniesienia wyłącznie między podmiotami wymienionymi w art. 3 pkt 39b lit. a–m.
 

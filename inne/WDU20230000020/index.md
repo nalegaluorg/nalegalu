@@ -30,16 +30,8 @@ poz. 1824), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583),
 2) ustawą z dnia 8 kwietnia 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 830) oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 listopada 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583), który stanowi: „Art. 116. Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 lutego 2022 r., z wyjątkiem:
-1) art. 12 ust. 10–16, art. 72 oraz art. 89, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 95, który wchodzi w życie z dniem 27 marca 2022 r.”;
-2) art. 33 ustawy z dnia 8 kwietnia 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 830), który stanowi: „Art. 33. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r., z wyjątkiem:
-1) art. 1 pkt 12, pkt 21 lit. b i art. 7, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-2) art. 1 pkt 22, 24, pkt 26 lit. a i c, pkt 42 lit. b, pkt 44, art. 10, art. 11 pkt 3, art. 12, art. 17 pkt 1–14, 17 i 18 oraz art. 19–21, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-3) art. 1 pkt 29, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 kwietnia 2022 r.;
-4) art. 1 pkt 38 w zakresie art. 66a ust. 3–7 i 9–12, który wchodzi w życie po upływie 2 dni od dnia ogłoszenia;
-5) art. 17 pkt 15 i 16, które wchodzą w życie z dniem 1 stycznia 2023 r.”.
-Marszałek Sejmu: E. Witek
+1) art. 116 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583), który stanowi: „ Art. 116. Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 lutego 2022 r., z wyjątkiem: 1) art. 12 ust. 10–16, art. 72 oraz art. 89, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 95, który wchodzi w życie z dniem 27 marca 2022 r.”;
+2) art. 33 ustawy z dnia 8 kwietnia 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 830), który stanowi: „ Art. 33. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r., z wyjątkiem: 1) art. 1 pkt 12, pkt 21 lit. b i art. 7, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia; 2) art. 1 pkt 22, 24, pkt 26 lit. a i c, pkt 42 lit. b, pkt 44, art. 10, art. 11 pkt 3, art. 12, art. 17 pkt 1–14, 17 i 18 oraz art. 19–21, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 3) art. 1 pkt 29, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 kwietnia 2022 r.; 4) art. 1 pkt 38 w zakresie art. 66a ust. 3–7 i 9–12, który wchodzi w życie po upływie 2 dni od dnia ogłoszenia; 5) art. 17 pkt 15 i 16, które wchodzą w życie z dniem 1 stycznia 2023 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 19 sierpnia 2011 r.
 o języku migowym i innych środkach komunikowania się
 

@@ -31,16 +31,9 @@ z 2018 r. poz. 1252), z uwzględnieniem zmian wprowadzonych:
 2) ustawą z dnia 21 lutego 2019 r. o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw (Dz. U. poz. 492),
 3) ustawą z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 października 2019 r.
 2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje:
-1) art. 144 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. poz. 2215), który stanowi: „Art. 144. Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem:
-1) art. 124 pkt 4 lit. b, który wchodzi w życie z dniem 1 stycznia 2021 r.;
-2) art. 49 ust. 5 i 6, który wchodzi w życie z dniem 30 czerwca 2021 r.;
-3) art. 77 ust. 3 pkt 4, który wchodzi w życie z dniem 1 stycznia 2022 r.;
-4) art. 23 ust. 5 i 6, który wchodzi w życie z dniem 1 stycznia 2023 r.”;
-2) art. 26 ustawy z dnia 21 lutego 2019 r. o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw (Dz. U. poz. 492), który stanowi: „Art. 26. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 14 w zakresie art. 19c, art. 4 pkt 2, art. 7 pkt 1 oraz art. 10, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.”;
-3) art. 133 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534), który stanowi: „Art. 133. Ustawa wchodzi w życie z dniem 1 kwietnia 2019 r., z wyjątkiem:
-1) art. 95, art. 96 pkt 3, 5, 9–11, pkt 14 lit. c, pkt 21 lit. a, pkt 25, 26 i 39, art. 111 ust. 2, art. 128 i art. 130, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 39, art. 41 ust. 1 pkt 1 i ust. 5 pkt 1, art. 74 i art. 84 pkt 1 lit. c tiret drugie, które wchodzą w życie z dniem 1 kwietnia 2020 r.”.
-Marszałek Sejmu: E. Witek
+1) art. 144 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. poz. 2215), który stanowi: „ Art. 144. Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem: 1) art. 124 pkt 4 lit. b, który wchodzi w życie z dniem 1 stycznia 2021 r.; 2) art. 49 ust. 5 i 6, który wchodzi w życie z dniem 30 czerwca 2021 r.; 3) art. 77 ust. 3 pkt 4, który wchodzi w życie z dniem 1 stycznia 2022 r.; 4) art. 23 ust. 5 i 6, który wchodzi w życie z dniem 1 stycznia 2023 r.”;
+2) art. 26 ustawy z dnia 21 lutego 2019 r. o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw (Dz. U. poz. 492), który stanowi: „ Art. 26. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 14 w zakresie art. 19c, art. 4 pkt 2, art. 7 pkt 1 oraz art. 10, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.”;
+3) art. 133 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534), który stanowi: „ Art. 133. Ustawa wchodzi w życie z dniem 1 kwietnia 2019 r., z wyjątkiem: 1) art. 95, art. 96 pkt 3, 5, 9–11, pkt 14 lit. c, pkt 21 lit. a, pkt 25, 26 i 39, art. 111 ust. 2, art. 128 i art. 130, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 39, art. 41 ust. 1 pkt 1 i ust. 5 pkt 1, art. 74 i art. 84 pkt 1 lit. c tiret drugie, które wchodzą w życie z dniem 1 kwietnia 2020 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 3 marca 2000 r.
 o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi
 

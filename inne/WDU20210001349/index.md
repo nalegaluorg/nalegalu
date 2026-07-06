@@ -30,8 +30,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 poz. 1754), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 14 kwietnia 2020 r.
 zmieniającym rozporządzenie w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U. poz. 752).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 14 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U.
-poz. 752), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 26 stycznia 2016 r.
+poz. 752), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 26 stycznia 2016 r.
 w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego Na podstawie art. 100 § 14 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2021 r. poz. 457 i 1005) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób zaopatrywania, dystrybucji i rozliczania formularzy mandatu karnego oraz przydziału i rozliczania serii i numerów mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego;

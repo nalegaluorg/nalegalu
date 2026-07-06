@@ -27,10 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 2 grudnia 2021 r. o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku (Dz. U. z 2023 r.
 poz. 851), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 stycznia 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053), który stanowi: „Art. 12. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 6, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
-2) art. 1, art. 2 pkt 6 i art. 7, które wchodzą w życie z dniem 1 września 2023 r.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 12 ustawy z dnia 14 kwietnia 2023 r. o zmianie nazwy uczelni służb państwowych nadzorowanej przez Ministra Sprawiedliwości i o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1053), który stanowi: „ Art. 12. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 6, który wchodzi w życie z dniem następującym po dniu ogłoszenia; 2) art. 1, art. 2 pkt 6 i art. 7, które wchodzą w życie z dniem 1 września 2023 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 2 grudnia 2021 r.
 o wsparciu przygotowania III Igrzysk Europejskich w 2023 roku
 

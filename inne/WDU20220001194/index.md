@@ -31,10 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2) rozporządzeniem Ministra Zdrowia z dnia 1 lutego 2021 r. zmieniającym rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 231);
 3) rozporządzeniem Ministra Zdrowia z dnia 5 marca 2021 r. zmieniającym rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 427).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 95), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Zdrowia z dnia 1 lutego 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 231), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Zdrowia z dnia 5 marca 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 427), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”.
-Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 sierpnia 2020 r.
+1) § 2 rozporządzenia Ministra Zdrowia z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 95), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Zdrowia z dnia 1 lutego 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 231), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Zdrowia z dnia 5 marca 2021 r. zmieniającego rozporządzenie w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej (Dz. U. poz. 427), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 sierpnia 2020 r.
 w sprawie standardu organizacyjnego teleporady w ramach podstawowej opieki zdrowotnej Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974 i 1079) zarządza się, co następuje:
 § 1. Rozporządzenie określa standard organizacyjny teleporady udzielanej w ramach podstawowej opieki zdrowotnej, zwanej dalej „POZ”.
 § 2. Użyte w rozporządzeniu określenia oznaczają:

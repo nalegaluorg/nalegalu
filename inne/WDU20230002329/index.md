@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie wykazu dokumentów publicznych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 11 lipca 2019 r. w sprawie wykazu dokumentów publicznych (Dz. U. z 2022 r. poz. 2403), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 16 stycznia 2023 r. zmieniającym rozporządzenie w sprawie wykazu dokumentów publicznych (Dz. U. poz. 219).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 16 stycznia 2023 r. zmieniającego rozporządzenie w sprawie wykazu dokumentów publicznych (Dz. U. poz. 219), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 11 lipca 2019 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 16 stycznia 2023 r. zmieniającego rozporządzenie w sprawie wykazu dokumentów publicznych (Dz. U. poz. 219), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 11 lipca 2019 r.
 w sprawie wykazu dokumentów publicznych Na podstawie art. 6 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2023 r. poz. 1006 i 1872) zarządza się, co następuje:
 § 1. Rozporządzenie określa wykaz dokumentów publicznych należących do drugiej i trzeciej kategorii dokumentów publicznych.
 § 2. Dokumentami publicznymi kategorii drugiej są:

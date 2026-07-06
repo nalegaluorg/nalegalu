@@ -57,7 +57,8 @@ source: pdf
     - **b)** uchyla się ust. 5a;
 
 - **9)** w art. 29:
-    - **a)** w ust. 2: – uchyla się pkt 2 i 3, – pkt 4 otrzymuje brzmienie: „4) opiniowanie kandydatów na stanowiska: zastępcy dyrektora do spraw naukowych, sekretarza naukowego oraz kierowników komórek organizacyjnych wskazanych w regulaminie organizacyjnym, odpowiedzialnych za prowadzenie badań naukowych;”, – uchyla się pkt 4a, b) ust. 6 otrzymuje brzmienie: „6. Rada naukowa sporządza opinie, o których mowa w ust. 2 pkt 4, 5, 7, 9–13, w terminie nie dłuższym niż 30 dni.”;
+    - **a)** w ust. 2: – uchyla się pkt 2 i 3, – pkt 4 otrzymuje brzmienie: „4) opiniowanie kandydatów na stanowiska: zastępcy dyrektora do spraw naukowych, sekretarza naukowego oraz kierowników komórek organizacyjnych wskazanych w regulaminie organizacyjnym, odpowiedzialnych za prowadzenie badań naukowych;”, – uchyla się pkt 4a,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Rada naukowa sporządza opinie, o których mowa w ust. 2 pkt 4, 5, 7, 9–13, w terminie nie dłuższym niż 30 dni.”;
 
 - **10)** w art. 30:
     - **a)** ust. 2 otrzymuje brzmienie: „2. W skład rady naukowej, w liczbie określonej w statucie instytutu, wchodzą: 1) pracownicy naukowi i badawczo-techniczni instytutu, którzy stanowią co najmniej 40% składu rady; 2) osoby niebędące pracownikami instytutu, które stanowią co najmniej 50% składu rady.”,

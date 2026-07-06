@@ -29,17 +29,8 @@ source: pdf
 1) ustawą z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1901),
 2) ustawą z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) oraz zmian wynikających z przepisów ogłoszonych przed dniem 1 września 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 91 ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1901), który stanowi: „Art. 91. Ustawa wchodzi w życie z dniem 1 stycznia 2021 r.”;
-2) art. 146 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), który stanowi: „Art. 146. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 125 pkt 11 lit. b i pkt 13, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2019 r.;
-2) art. 129, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.;
-3) art. 111, art. 139 i art. 144, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-4) art. 84, który wchodzi w życie z dniem 1 lipca 2022 r.;
-5) art. 113 pkt 4 lit. b i pkt 5 oraz art. 140, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-6) art. 125 pkt 12, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z mocą od dnia 1 lipca 2019 r.;
-7) art. 125 pkt 10, 17, 18 i 20, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
-8) art. 113 pkt 19 i art. 142 ust. 4, które wchodzą w życie po upływie 36 miesięcy od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
+1) art. 91 ustawy z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 (Dz. U. poz. 2400 oraz z 2021 r. poz. 1901), który stanowi: „ Art. 91. Ustawa wchodzi w życie z dniem 1 stycznia 2021 r.”;
+2) art. 146 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079), który stanowi: „ Art. 146. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 125 pkt 11 lit. b i pkt 13, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2019 r.; 2) art. 129, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.; 3) art. 111, art. 139 i art. 144, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 4) art. 84, który wchodzi w życie z dniem 1 lipca 2022 r.; 5) art. 113 pkt 4 lit. b i pkt 5 oraz art. 140, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia; 6) art. 125 pkt 12, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z mocą od dnia 1 lipca 2019 r.; 7) art. 125 pkt 10, 17, 18 i 20, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia; 8) art. 113 pkt 19 i art. 142 ust. 4, które wchodzą w życie po upływie 36 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 7 lipca 2017 r.
 o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską Agencję Inwestycji i Handlu Spółka Akcyjna
 

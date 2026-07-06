@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 26 lipca 2010 r. w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej (Dz. U. z 2020 r. poz. 1900), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 17 kwietnia 2023 r. zmieniającym rozporządzenie w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej (Dz. U. poz. 800).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 17 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej (Dz. U. poz. 800), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Sprawiedliwości: A. Bodnar ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 26 lipca 2010 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 17 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej (Dz. U. poz. 800), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sprawiedliwości: A. Bodnar
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 26 lipca 2010 r.
 w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających w związku z pełnieniem służby w Służbie Więziennej Na podstawie art. 118 ust. 14 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) szczegółowy tryb ustalania okoliczności i przyczyn wypadków pozostających w związku z pełnieniem służby i chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby w Służbie Więziennej;
@@ -127,7 +127,6 @@ w sprawie ustalania okoliczności i przyczyn wypadków i chorób pozostających 
 § 26. Podstawowa jednostka służby medycyny pracy Służby Więziennej przesyła informację o podejrzeniu, rozpoznaniu i stwierdzeniu związku poszczególnych chorób ze służbą do Dyrektora Generalnego, sporządzoną według wzoru stanowiącego załącznik nr 8 do rozporządzenia.
 § 27. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się dotychczasowe przepisy.
 § 28. Rozporządzenie wchodzi w życie z dniem 13 sierpnia 2010 r.
-Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 26 lipca 2010 r.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -136,6 +135,8 @@ Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 26 lipca 2010 r
 #### Rozdział 3 Ustalanie okoliczności i przyczyny chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby
 
 #### Rozdział 4 Przepisy przejściowe i końcowe
+
+## Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 26 lipca 2010 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR .............................................................
 

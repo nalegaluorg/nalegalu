@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000077) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/77/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2024 r. poz. 953), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej (Dz. U. poz. 1302) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 stycznia 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 20 ustawy z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej (Dz. U. poz. 1302), który stanowi: „Art. 20. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 15, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 30 września 2025 r.”.
-Marszałek Sejmu: W. Czarzasty
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 20 ustawy z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej (Dz. U. poz. 1302), który stanowi: „ Art. 20. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 15, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 30 września 2025 r.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 17 grudnia 2021 r.
 o dodatku osłonowym
 

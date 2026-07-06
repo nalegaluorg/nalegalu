@@ -732,7 +732,7 @@ source: pdf
 
 3. Towar zatrzymuje się do czasu ustalenia, przez naczelnika urzędu celno-skarbowego właściwego ze względu na miejsce kontroli przewozu towarów, podmiotu posiadającego prawo do dysponowania towarem jak właściciel w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług i złożenia zgłoszenia. W przypadku nieustalenia podmiotu, który posiada prawo do dysponowania towarem jak właściciel, w terminie 60 dni od dnia zatrzymania towaru, orzeka się przepadek towaru na rzecz Skarbu Państwa.
 
-4. Z wnioskiem o orzeczenie przepadku towaru na rzecz Skarbu Państwa występuje do sądu cywilnego naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce kontroli przewozu towarów. Do spraw o przepadek towaru stosuje się odpowiednio przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
+4. Z wnioskiem o orzeczenie przepadku towaru na rzecz Skarbu Państwa występuje do sądu cywilnego naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce kontroli przewozu towarów. Do spraw o przepadek towaru stosuje się odpowiednio przepisy art. 610 1 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
 
 5. W przypadku towarów łatwo psujących się termin, o którym mowa w ust. 3, wynosi 3 dni.
 

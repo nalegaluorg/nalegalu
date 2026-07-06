@@ -31,10 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2) rozporządzeniem Ministra Zdrowia z dnia 3 kwietnia 2020 r. zmieniającym rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 585);
 3) rozporządzeniem Ministra Zdrowia z dnia 18 marca 2021 r. zmieniającym rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 511).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Zdrowia z dnia 21 grudnia 2006 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. z 2007 r. poz. 10), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Zdrowia z dnia 3 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 585), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Zdrowia z dnia 18 marca 2021 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 511), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: wz. W. Kraska ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 7 grudnia 2001 r.
+1) § 2 rozporządzenia Ministra Zdrowia z dnia 21 grudnia 2006 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. z 2007 r. poz. 10), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Zdrowia z dnia 3 kwietnia 2020 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 585), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Zdrowia z dnia 18 marca 2021 r. zmieniającego rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 511), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 7 grudnia 2001 r.
 w sprawie postępowania ze zwłokami i szczątkami ludzkimi Na podstawie art. 20 ust. 3 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2020 r.
 poz. 1947) zarządza się, co następuje:
 § 1. Rozporządzenie określa pojęcie zwłok, sposób postępowania ze zwłokami i szczątkami, warunki ekshumacji oraz przewozu zwłok i szczątków.

@@ -29,9 +29,8 @@ source: pdf
 1) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680),
 2) ustawą z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 lutego 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 38 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), który stanowi: „Art. 38. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 6 oraz art. 23, które wchodzą w życie po upływie 21 dni od dnia ogłoszenia.”;
-2) art. 11 ustawy z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556), który stanowi: „Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 i 7 oraz art. 10 pkt 2, które wchodzą w życie z dniem 1 kwietnia 2027 r.”.
-Marszałek Sejmu: W. Czarzasty
+1) art. 38 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), który stanowi: „ Art. 38. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 6 oraz art. 23, które wchodzą w życie po upływie 21 dni od dnia ogłoszenia.”;
+2) art. 11 ustawy z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556), który stanowi: „ Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 i 7 oraz art. 10 pkt 2, które wchodzą w życie z dniem 1 kwietnia 2027 r.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 9 września 2000 r.
 o podatku od czynności cywilnoprawnych
 

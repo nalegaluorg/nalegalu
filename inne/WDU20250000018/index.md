@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2024 r. poz. 395), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 listopada 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 88 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U.
-poz. 731), który stanowi: „Art. 88. Ustawa wchodzi w życie z dniem 28 czerwca 2025 r., z wyjątkiem art. 6 pkt 1, 2 i 5–9 oraz art. 39 pkt 6, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+poz. 731), który stanowi: „ Art. 88. Ustawa wchodzi w życie z dniem 28 czerwca 2025 r., z wyjątkiem art. 6 pkt 1, 2 i 5–9 oraz art. 39 pkt 6, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 21 grudnia 2000 r.
 o żegludze śródlądowej
 

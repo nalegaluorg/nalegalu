@@ -30,16 +30,8 @@ source: pdf
 2) ustawą z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U.
 poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409) oraz zmian wynikających z przepisów ogłoszonych przed dniem 26 stycznia 2018 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:
-1) art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), który stanowi: „Art. 191. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi w życie z dniem 1 stycznia 2013 r.”;
-2) art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409), który stanowi: „Art. 260. Ustawa wchodzi w życie z dniem 1 marca 2017 r., z wyjątkiem:
-1) art. 1, art. 4 pkt 1 i pkt 11 lit. c i d, lit. e w zakresie § 12 i 13 oraz lit. f, art. 11, art. 13, art. 27, art. 38 pkt 39 lit. a tiret drugie, pkt 65 lit. a, pkt 68 lit. a w zakresie pkt 1, pkt 76 lit. b tiret drugie, art. 119, art. 148, art. 160 ust. 2 i 3, art. 162 ust. 1 pkt 1, art. 164, art. 165 ust. 1, 2 i 6, art. 178, art. 190 ust. 1, art. 201 ust. 1 i art. 259 ust. 1, które wchodzą w życie z dniem ogłoszenia;
-2) art. 150, który wchodzi w życie z dniem 1 stycznia 2017 r.;
-2a) art. 112 pkt 2–4, które wchodzą w życie z dniem 27 lutego 2017 r.;
-3) art. 4 pkt 12, który wchodzi w życie z dniem 1 stycznia 2018 r.;
-4) art. 149a:
-a) pkt 1, który wchodzi w życie z dniem 13 listopada 2017 r.,
-b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”.
-Marszałek Sejmu: M. Kuchciński
+1) art. 191 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), który stanowi: „ Art. 191. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia z wyjątkiem art. 131, który wchodzi w życie z dniem 1 stycznia 2013 r.”;
+2) art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379, 1926 i 2409), który stanowi: „ Art. 260. Ustawa wchodzi w życie z dniem 1 marca 2017 r., z wyjątkiem: 1) art. 1, art. 4 pkt 1 i pkt 11 lit. c i d, lit. e w zakresie § 12 i 13 oraz lit. f, art. 11, art. 13, art. 27, art. 38 pkt 39 lit. a tiret drugie, pkt 65 lit. a, pkt 68 lit. a w zakresie pkt 1, pkt 76 lit. b tiret drugie, art. 119, art. 148, art. 160 ust. 2 i 3, art. 162 ust. 1 pkt 1, art. 164, art. 165 ust. 1, 2 i 6, art. 178, art. 190 ust. 1, art. 201 ust. 1 i art. 259 ust. 1, które wchodzą w życie z dniem ogłoszenia; 2) art. 150, który wchodzi w życie z dniem 1 stycznia 2017 r.; 2a) art. 112 pkt 2–4, które wchodzą w życie z dniem 27 lutego 2017 r.; 3) art. 4 pkt 12, który wchodzi w życie z dniem 1 stycznia 2018 r.; 4) art. 149a: a) pkt 1, który wchodzi w życie z dniem 13 listopada 2017 r., b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 22 czerwca 2001 r.
 o wykonywaniu Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów
 

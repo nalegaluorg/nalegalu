@@ -638,7 +638,7 @@ source: pdf
 
 5. Dodatkowy urlop, o którym mowa w ust. 1 i 2, wykorzystuje się w całości w roku kalendarzowym, w którym weteran oraz weteran poszkodowany pozostający w stosunku pracy mają do niego prawo, w terminie uzgodnionym z pracodawcą. Za niewykorzystany urlop nie przysługuje ekwiwalent pieniężny.
 
-6. Do dodatkowego urlopu, o którym mowa w ust. 1 i 2, stosuje się odpowiednio przepisy art. 154 , art. 172 oraz art. 172 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25).
+6. Do dodatkowego urlopu, o którym mowa w ust. 1 i 2, stosuje się odpowiednio przepisy art. 154 2 , art. 172 oraz art. 172 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25).
 
 #### Rozdział 6 Dodatek weterana poszkodowanego
 

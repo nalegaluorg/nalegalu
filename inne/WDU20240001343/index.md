@@ -27,9 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie aplikacji legislacyjnej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 28 kwietnia 2015 r. w sprawie aplikacji legislacyjnej (Dz. U. z 2021 r. poz. 1229), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 27 maja 2024 r. zmieniającym rozporządzenie w sprawie aplikacji legislacyjnej (Dz. U. poz. 796).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 maja 2024 r. zmieniającego rozporządzenie w sprawie aplikacji legislacyjnej (Dz. U. poz. 796), które stanowią: „§ 2. Do aplikacji edycji 2023/2024 stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: D. Tusk ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 28 kwietnia 2015 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 maja 2024 r. zmieniającego rozporządzenie w sprawie aplikacji legislacyjnej (Dz. U. poz. 796), które stanowią: „ § 2. Do aplikacji edycji 2023/2024 stosuje się przepisy dotychczasowe. § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: D. Tusk
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 28 kwietnia 2015 r.
 w sprawie aplikacji legislacyjnej Na podstawie art. 110 ust. 3 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409) zarządza się, co następuje:
 § 1. Aplikacja legislacyjna, zwana dalej „aplikacją”, jest prowadzona przez Rządowe Centrum Legislacji.
 § 2. Nadzór programowy nad aplikacją sprawuje Prezes Rządowego Centrum Legislacji.

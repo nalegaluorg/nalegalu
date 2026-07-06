@@ -28,9 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Energetyki, ustalenia jej wzoru oraz zasad i trybu nadawania i noszenia
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 30 listopada 2001 r. w sprawie ustanowienia odznaki honorowej „Za zasługi dla Energetyki”, ustalenia jej wzoru oraz zasad i trybu nadawania i noszenia (Dz. U. z 2017 r. poz. 1903), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 2 lipca 2021 r. zmieniającym rozporządzenie w sprawie ustanowienia odznaki honorowej „Za zasługi dla Energetyki”, ustalenia jej wzoru oraz zasad i trybu nadawania i noszenia (Dz. U.
 poz. 1539).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 2 lipca 2021 r. zmieniającego rozporządzenie w sprawie ustanowienia odznaki honorowej „Za zasługi dla Energetyki”, ustalenia jej wzoru oraz zasad i trybu nadawania i noszenia (Dz. U. poz. 1539), które stanowią: „§ 2. Wnioski o nadanie odznaki honorowej „Za zasługi dla Energetyki” złożone na podstawie przepisów rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia stanowią podstawę do rozstrzygnięcia w sprawie nadania tej odznaki na podstawie przepisów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 30 listopada 2001 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 2 lipca 2021 r. zmieniającego rozporządzenie w sprawie ustanowienia odznaki honorowej „Za zasługi dla Energetyki”, ustalenia jej wzoru oraz zasad i trybu nadawania i noszenia (Dz. U. poz. 1539), które stanowią: „ § 2. Wnioski o nadanie odznaki honorowej „Za zasługi dla Energetyki” złożone na podstawie przepisów rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia stanowią podstawę do rozstrzygnięcia w sprawie nadania tej odznaki na podstawie przepisów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 30 listopada 2001 r.
 w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Energetyki, ustalenia jej wzoru oraz zasad i trybu nadawania i noszenia Na podstawie art. 4 ust. 2 i art. 6 ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r.
 poz. 38 oraz z 2022 r. poz. 655) zarządza się, co następuje:
 § 1. Ustanawia się Odznakę Honorową za Zasługi dla Energetyki, zwaną dalej „odznaką”.
@@ -63,7 +62,9 @@ z 2022 r. poz. 1385, 1723 i 2127) albo innego podmiotu prowadzącego działalno�
 § 8. Ewidencję osób wyróżnionych odznaką prowadzi minister właściwy do spraw energii.
 § 9. Osoby, którym nadano odznakę „Zasłużony dla Energetyki” na podstawie przepisów obowiązujących przed wejściem w życie rozporządzenia, zachowują prawo do jej noszenia.
 § 10. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Rady Ministrów z dnia 30 listopada 2001 r.
+
+## Załączniki do rozporządzenia Rady Ministrów z dnia 30 listopada 2001 r.
+
 (Dz. U. z 2022 r. poz. ) Załącznik nr 1 WZÓR WZÓR Załącznik nr 2 WZÓR ODZNAKI HONOROWEJ ZA ZASŁUGI DLA ENRGETYKI WZÓR ODZNAKI HONOROWEJ ZA ZASŁUGI DLA ENERGETYKI Strona przednia Strona odwrotna Ze zmianą wprowadzoną przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1.
 Dziennik Ustaw – – 6 6 – – Poz. 2229 Załącznik nr 3 WZÓR LEGITYMACJI STWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ WZÓR LEGITYMACJI ZA STWIERDZAJĄCEJ ZASŁUGI DLA ENERGETYKI NADANIE ODZNAKI HONOROWEJ ZA ZASŁUGI DLA ENERGETYKI W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1.
 

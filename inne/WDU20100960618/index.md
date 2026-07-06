@@ -479,7 +479,7 @@ source: pdf
 
 3. Dyrektora, jego zastępców oraz głównego księgowego w okresie trwania stosunku pracy obowiązuje zakaz prowadzenia działalności konkurencyjnej określony w odrębnej umowie.
 
-4. Do zakazu, o którym mowa w ust. 3, stosuje się przepisy art. 101 , 101 i 101 Kodeksu pracy.
+4. Do zakazu, o którym mowa w ust. 3, stosuje się przepisy art. 101 1 , 101 i 101 Kodeksu pracy.
 
 5. Umowę, o której mowa w ust. 3, z dyrektorem oraz zastępcami dyrektora zawiera minister nadzorujący.
 
@@ -1021,7 +1021,7 @@ source: pdf
 
 4. Dyrektora, jego zastępców, głównego księgowego oraz pracownika naukowego w okresie trwania stosunku pracy obowiązuje zakaz prowadzenia działalności konkurencyjnej wobec jednostki organizacyjnej, jeżeli zakaz ten został określony w odrębnej umowie.
 
-5. Do zakazu, o którym mowa w ust. 4, stosuje się przepisy art. 101 , art. 101 i art. 101 Kodeksu pracy.
+5. Do zakazu, o którym mowa w ust. 4, stosuje się przepisy art. 101 1 , art. 101 i art. 101 Kodeksu pracy.
 
 #### Rozdział 10 Przepis końcowy
 

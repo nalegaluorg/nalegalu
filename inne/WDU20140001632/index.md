@@ -35,12 +35,10 @@ Nr 210, poz. 1253);
 poz. 1359).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 29 listopada 2007 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U.
-Nr 227, poz. 1678), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 września 2011 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U.
-Nr 210, poz. 1253), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U.
-poz. 1359), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SOCJALNEJ z dnia 15 maja 1996 r.
+Nr 227, poz. 1678), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 września 2011 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. Nr 210, poz. 1253), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 15 listopada 2013 r. zmieniającego rozporządzenie w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy (Dz. U. poz. 1359), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz
+ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SOCJALNEJ z dnia 15 maja 1996 r.
 w sprawie sposobu usprawiedliwiania nieobecności w pracy oraz udzielania pracownikom zwolnień od pracy Na podstawie art. 298 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502) zarządza się, co następuje:
 § 1. Przyczynami usprawiedliwiającymi nieobecność pracownika w pracy są zdarzenia i okoliczności określone przepisami prawa pracy, które uniemożliwiają stawienie się pracownika do pracy i jej świadczenie, a także inne przypadki niemożności wykonywania pracy wskazane przez pracownika i uznane przez pracodawcę za usprawiedliwiające nieobecność w pracy.
 § 2. 1. Pracownik powinien uprzedzić pracodawcę o przyczynie i przewidywanym okresie nieobecności w pracy, jeżeli przyczyna tej nieobecności jest z góry wiadoma lub możliwa do przewidzenia.

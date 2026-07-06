@@ -8,10 +8,10 @@ pos: 908
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 14 czerwca 2024 sprawie ogłoszenia jednolitego tekstu związkach zawodowych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o związkach zawodowych rolników indywidualnych
 
 | Pole | Wartość |
 |---|---|
@@ -25,97 +25,119 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000908) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/908/text.pdf) |
 
-1. Na podstawie art. 16 zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst dnia 7 kwietnia 1989 związkach zawodowych (Dz. 2022 99), uwzględnieniem zmiany wprowadzonej ustawą dnia 13 lipca 2023 zmianie podatku rolnym niektórych innych ustaw (Dz. 1450) zmian wynikających przepisów ogłoszonych przed dniem 13 czerwca 2024
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje art. 6 art. 7 dnia 13 lipca 2023 zmianie podatku rolnym niektórych innych ustaw (Dz. 1450), które stanowią: „Art. 6. W 2024 wniosek wpis na listę, której mowa w: art. 257b zmienianej art. 2,
-2) art. 35b zmienianej art. 3,
-3) art. 8c zmienianej art. 4 składa terminie do dnia 20 stycznia 2024
-
-**Art. 7.** Ustawa wchodzi życie dniem stycznia 2024 r.”. Marszałek Sejmu: S. Hołownia
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych (Dz. U. z 2022 r. poz. 99), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 13 lipca 2023 r. o zmianie ustawy o podatku rolnym oraz niektórych innych ustaw (Dz. U. poz. 1450) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 czerwca 2024 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 6 i art. 7 ustawy z dnia 13 lipca 2023 r. o zmianie ustawy o podatku rolnym oraz niektórych innych ustaw (Dz. U. poz. 1450), które stanowią: „ Art. 6. W 2024 r. wniosek o wpis na listę, o której mowa w: 1) art. 257b ust. 1 ustawy zmienianej w art. 2, 2) art. 35b ust. 1 ustawy zmienianej w art. 3, 3) art. 8c ust. 1 ustawy zmienianej w art. 4 – składa się w terminie do dnia 20 stycznia 2024 r. Art. 7. Ustawa wchodzi w życie z dniem 1 stycznia 2024 r.”. Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 7 kwietnia 1989 r.
+o związkach zawodowych rolników indywidualnych
 
 **Art. 1.**
 
-1. Rolnicy indywidualni prowadzący gospodarstwo osoby im bliskie pracujące stale wraz nimi tym gospodarstwie mają prawo tworzenia zrzeszania związkach zawodowych celu ochrony swych praw interesów zawodowych.
+1. Rolnicy indywidualni prowadzący gospodarstwo oraz osoby im bliskie pracujące stale wraz z nimi w tym gospodarstwie mają prawo tworzenia i zrzeszania się w związkach zawodowych rolników indywidualnych w celu ochrony swych praw i interesów zawodowych.
 
-2. Związki zawodowe działają zakresie ochrony własności gospodarstw, interesów ekonomicznych socjalnych swoich członków ich rodzin uczestniczą działaniach na rzecz rozwoju gospodarczego społecznego wsi rolnictwa.
+2. Związki zawodowe rolników indywidualnych działają w zakresie ochrony własności gospodarstw, interesów ekonomicznych i socjalnych swoich członków i ich rodzin oraz uczestniczą w działaniach na rzecz rozwoju gospodarczego oraz społecznego wsi i rolnictwa.
 
 **Art. 2.**
 
-1. Związki zawodowe działają zgodnie konstytucyjnymi zasadami ustrojowymi Rzeczypospolitej Polskiej, przepisami niniejszej innymi powszechnie obowiązującymi przepisami prawa, na podstawie zarejestrowanego statutu, zgodnego tymi zasadami przepisami.
+1. Związki zawodowe rolników indywidualnych działają zgodnie z konstytucyjnymi zasadami ustrojowymi Rzeczypospolitej Polskiej, przepisami niniejszej ustawy i innymi powszechnie obowiązującymi przepisami prawa, na podstawie zarejestrowanego statutu, zgodnego z tymi zasadami i przepisami.
 
-2. Związki zawodowe są samorządne, a szczególności mogą samodzielnie, sposób zgodny prawem, kształtować cele programy swojego działania, uchwalać statuty inne akty wewnętrzne dotyczące działalności związkowej określać struktury organizacyjne.
+2. Związki zawodowe rolników indywidualnych są samorządne, a w szczególności mogą samodzielnie, w sposób zgodny z prawem, kształtować cele i programy swojego działania, uchwalać statuty i inne akty wewnętrzne dotyczące działalności związkowej oraz określać struktury organizacyjne.
 
-3. Związki zawodowe są niezależne nie podlegają nadzorowi lub kontroli ze strony organów administracji państwowej. Organy te są obowiązane do powstrzymania od wszelkich działań prowadzących do ograniczenia niezależności związków lub ich działalności zgodnej prawem.
+3. Związki zawodowe rolników indywidualnych są niezależne i nie podlegają nadzorowi lub kontroli ze strony organów administracji państwowej. Organy te są obowiązane do powstrzymania się od wszelkich działań prowadzących do ograniczenia niezależności związków lub ich działalności zgodnej z prawem.
 
 **Art. 3.**
 
-1. Rolnicy zamierzający założyć związek zawodowy wybierają komitet założycielski uchwalają statut. Liczba założycieli związku dniu złożenia statutu do rejestracji nie może być mniejsza niż 30 osób, a związku zrzeszającego mających miejsce zamieszkania jednej wsi 10 osób, zastrzeżeniem 2.
+1. Rolnicy zamierzający założyć związek zawodowy rolników indywidualnych wybierają komitet założycielski i uchwalają statut. Liczba rolników założycieli związku w dniu złożenia statutu do rejestracji nie może być mniejsza niż 30 osób, a związku zrzeszającego rolników mających miejsce zamieszkania w jednej wsi – 10 osób, z zastrzeżeniem ust. 2.
 
-2. W przypadku związku ogólnokrajowym zakresie działania założycieli nie może być mniej niż po 30 mających miejsce zamieszkania co najmniej 25 województwach.
+2. W przypadku związku o ogólnokrajowym zakresie działania założycieli nie może być mniej niż po 30 rolników mających miejsce zamieszkania w co najmniej 25 województwach.
 
-**Art. 4.** Statut związku zawodowego określa nazwę, a ponadto siedzibę, terytorialny podmiotowy zakres działania cele związku, zasady nabywania utraty członkostwa, prawa obowiązki członków, strukturę organizacyjną władze związku, tryb dokonywania ich wyboru odwołania, źródła finansowania działalności związku, zasady uchwalania zmiany statutu sposób rozwiązania związku.
+**Art. 4.** Statut związku zawodowego rolników indywidualnych określa nazwę, a ponadto siedzibę, terytorialny i podmiotowy zakres działania oraz cele związku, zasady nabywania i utraty członkostwa, prawa i obowiązki członków, strukturę organizacyjną i władze związku, tryb dokonywania ich wyboru i odwołania, źródła finansowania działalności związku, zasady uchwalania i zmiany statutu oraz sposób rozwiązania związku.
 
 **Art. 5.**
 
-1. Związek zawodowy podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego. Związek uzyskuje osobowość prawną chwilą wpisania do Krajowego Rejestru Sądowego, zwanego dalej „rejestrem”.
+1. Związek zawodowy rolników indywidualnych podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego. Związek uzyskuje osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego, zwanego dalej „rejestrem”.
 
-2. Sąd rejestrowy odmówi rejestracji, jeżeli treść statutu wskazuje, że organizacja nie jest związkiem zawodowym rozumieniu albo postanowienia statutu są niezgodne jej przepisami.
+2. Sąd rejestrowy odmówi rejestracji, jeżeli treść statutu wskazuje, że organizacja nie jest związkiem zawodowym rolników indywidualnych w rozumieniu ustawy albo postanowienia statutu są niezgodne z jej przepisami.
 
-3. Właściwy organ związku zawodowego ma obowiązek niezwłocznie zawiadomić sąd rejestrowy zmianie statutu. W sprawie wpisania do rejestru zmiany statutu stosuje odpowiednio 2.
+3. Właściwy organ związku zawodowego rolników indywidualnych ma obowiązek niezwłocznie zawiadomić sąd rejestrowy o zmianie statutu. W sprawie wpisania do rejestru zmiany statutu stosuje się odpowiednio ust. 2.
 
-**Art. 6.** Sąd rejestrowy wykreśli związek zawodowy rejestru: razie podjęcia, sposób przewidziany statucie, uchwały rozwiązaniu związku;
+**Art. 6.** Sąd rejestrowy wykreśli związek zawodowy rolników indywidualnych z rejestru:
+
+- **1)** w razie podjęcia, w sposób przewidziany w statucie, uchwały o rozwiązaniu związku;
+- **2)** jeżeli liczba członków związku jest mniejsza od liczby określonej w art. 3. Właściwy organ związku ma obowiązek zawiadomić sąd rejestrowy o powyższych okolicznościach.
 
 **Art. 7.** (uchylony)
 
 **Art. 8.**
 
-1. Związki działające na podstawie niniejszej mają prawa obowiązki, jakie przepisy ustaw przyznają społeczno-zawodowym organizacjom zakresie reprezentacji obrony praw interesów rolników.
+1. Związki działające na podstawie niniejszej ustawy mają prawa i obowiązki, jakie przepisy ustaw przyznają społeczno-zawodowym organizacjom rolników w zakresie reprezentacji i obrony praw oraz interesów rolników.
 
-2. Organy państwowe samorządowe są obowiązane traktować na równi wszystkie związki zawodowe społeczno-zawodowe organizacje zakresie ich działalności, której mowa 1.
+2. Organy państwowe i samorządowe są obowiązane traktować na równi wszystkie związki zawodowe rolników indywidualnych i społeczno-zawodowe organizacje rolników w zakresie ich działalności, o której mowa w ust. 1.
 
-3. Koszty związane uczestnictwem związków zawodowych organizacjach, których mowa pkt 2, są latach 2021–2026 dofinansowywane na zasadach określonych przepisach izbach rolniczych.
+**Art. 8a.**
+
+1. Związki zawodowe rolników indywidualnych mogą przystępować do:
+
+- **1)** międzynarodowych organizacji rolniczych;
+- **2)** ponadnarodowych organizacji rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej.
+
+2. Koszty związane z uczestnictwem związków zawodowych rolników indywidualnych w organizacjach, o których mowa w ust. 1 pkt 2, są w latach 2014–2020 dofinansowywane na zasadach określonych w przepisach o izbach rolniczych.
+
+3. Koszty związane z uczestnictwem związków zawodowych rolników indywidualnych w organizacjach, o których mowa w ust. 1 pkt 2, są w latach 2021–2026 dofinansowywane na zasadach określonych w przepisach o izbach rolniczych.
 
 **Art. 8b.**
 
-- **2)** 1. Podatnik podatku rolnego, będący osobą fizyczną, może przekazać 1,5 % podatku rolnego obliczonego zgodnie odrębnymi przepisami na rzecz związku zawodowego wybranego przez siebie spośród związków zawodowych wpisanych na listę, której mowa art. 8c 1, jeżeli ten związek spełnia następujące warunki: został wpisany do rejestru co najmniej 6 lat przed dniem stycznia danego roku podatkowego;
-- **2)** ma na dzień stycznia danego roku podatkowego struktury organizacyjne co najmniej 10 województwach co najmniej 3 powiatach każdym tych województw, a liczba członków tego związku każdym powiatów wynosi co najmniej 30;
+- **2)** 1. Podatnik podatku rolnego, będący osobą fizyczną, może przekazać 1,5 % podatku rolnego obliczonego zgodnie z odrębnymi przepisami na rzecz związku zawodowego rolników indywidualnych wybranego przez siebie spośród związków zawodowych rolników indywidualnych wpisanych na listę, o której mowa w art. 8c ust. 1, jeżeli ten związek spełnia następujące warunki:
+- **1)** został wpisany do rejestru co najmniej 6 lat przed dniem 1 stycznia danego roku podatkowego;
+- **2)** ma na dzień 1 stycznia danego roku podatkowego struktury organizacyjne co najmniej w 10 województwach i co najmniej w 3 powiatach w każdym z tych województw, a liczba członków tego związku w każdym z powiatów wynosi co najmniej 30;
 - **3)** źródłem finansowania jego działalności są wpłaty ze składek członkowskich, przy czym roczna składka członkowska wynosi co najmniej 50 zł.
 
-2. Otrzymane przez związki zawodowe środki finansowe pochodzące 1,5 % podatku rolnego mogą być wykorzystane wyłącznie na działalność statutową tych związków.
+2. Otrzymane przez związki zawodowe rolników indywidualnych środki finansowe pochodzące z 1,5 % podatku rolnego mogą być wykorzystane wyłącznie na działalność statutową tych związków.
 
-3. Do gospodarki środkami, których mowa 2, stosuje odpowiednio przepisy dnia 27 sierpnia 2009 finansach publicznych (Dz. 2023 1270, późn. zm. ).
+3. Do gospodarki środkami, o których mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
 
 **Art. 8c.**
 
-- **2)** 1. Minister właściwy do spraw rolnictwa sporządza co roku listę związków zawodowych indywidualnych spełniających warunki określone art. 8b 1, zwaną dalej „listą”, umieszcza ją na stronie internetowej urzędu obsługującego tego ministra terminie do ostatniego dnia lutego danego roku podatkowego.
+- **2)** 1. Minister właściwy do spraw rolnictwa sporządza co roku listę związków zawodowych rolników indywidualnych spełniających warunki określone w art. 8b ust. 1, zwaną dalej „listą”, i umieszcza ją na stronie internetowej urzędu obsługującego tego ministra w terminie do ostatniego dnia lutego danego roku podatkowego.
 
-2. Wpisu związku zawodowego na listę dokonuje na wniosek danego związku złożony do ministra właściwego do spraw rolnictwa terminie do dnia 31 grudnia roku poprzedzającego rok podatkowy.
+2. Wpisu związku zawodowego rolników indywidualnych na listę dokonuje się na wniosek danego związku złożony do ministra właściwego do spraw rolnictwa w terminie do dnia 31 grudnia roku poprzedzającego rok podatkowy.
 
-3. Wniosek, którym mowa 2, zawiera: nazwę związku zawodowego jego siedzibę;
+3. Wniosek, o którym mowa w ust. 2, zawiera:
 
-- **2)** numer wpisu związku zawodowego rejestrze;
-- **3)** numer rachunku bankowego związku zawodowego albo rachunku tego związku spółdzielczej kasie oszczędnościowo-kredytowej;
-- **4)** podpis osoby albo osób uprawnionych do reprezentowania związku zawodowego indywidualnych.
+- **1)** nazwę związku zawodowego rolników indywidualnych i jego siedzibę;
+- **2)** numer wpisu związku zawodowego rolników indywidualnych w rejestrze;
+- **3)** numer rachunku bankowego związku zawodowego rolników indywidualnych albo rachunku tego związku w spółdzielczej kasie oszczędnościowo-kredytowej;
+- **4)** podpis osoby albo osób uprawnionych do reprezentowania związku zawodowego rolników indywidualnych.
 
-4. Do wniosku, którym mowa 2, dołącza dokumenty potwierdzające spełnienie warunków określonych art. 8b 1, tym co najmniej: listę członków związku zawodowego indywidualnych, podziałem na województwa powiaty, zawierającą:
+4. Do wniosku, o którym mowa w ust. 2, dołącza się dokumenty potwierdzające spełnienie warunków określonych w art. 8b ust. 1, w tym co najmniej:
 
-- **a)** imię nazwisko numer PESEL osoby będącej członkiem tego związku,
-- **b)** miejsce zamieszkania osoby będącej członkiem tego związku jej adres;
-- **2)** deklaracje członkowskie osób będących członkami związku zawodowego wymienionych na liście, której mowa pkt 1, lub inne dokumenty, których wynika, że dana osoba jest członkiem tego związku;
-- **3)** dokumenty, których wynika, że źródłem finansowania działalności związku zawodowego są wpłaty ze składek członkowskich roczna kwota składki członkowskiej wynosi co najmniej 50 zł. czej kasie oszczędnościowo-kredytowej.
+- **1)** listę członków związku zawodowego rolników indywidualnych, z podziałem na województwa i powiaty, zawierającą:
+    - **a)** imię i nazwisko oraz numer PESEL osoby będącej członkiem tego związku,
+    - **b)** miejsce zamieszkania osoby będącej członkiem tego związku i jej adres;
+
+- **2)** deklaracje członkowskie osób będących członkami związku zawodowego rolników indywidualnych wymienionych na liście, o której mowa w pkt 1, lub inne dokumenty, z których wynika, że dana osoba jest członkiem tego związku;
+- **3)** dokumenty, z których wynika, że źródłem finansowania działalności związku zawodowego rolników indywidualnych są wpłaty ze składek członkowskich i roczna kwota składki członkowskiej wynosi co najmniej 50 zł.
+
+5. Związek zawodowy rolników indywidualnych jest wpisywany na listę, jeżeli spełnia warunki określone w art. 8b ust. 1.
+
+6. Lista zawiera:
+
+- **1)** nazwę związku zawodowego rolników indywidualnych i jego siedzibę;
+- **2)** numer wpisu związku zawodowego rolników indywidualnych w rejestrze;
+- **3)** numer rachunku bankowego związku zawodowego rolników indywidualnych albo rachunku tego związku w spółdzielczej kasie oszczędnościowo-kredytowej.
 
 **Art. 9.**
 
-1. Sąd rejestrowy, razie stwierdzenia, że dany organ związku zawodowego prowadzi działalność sprzeczną Konstytucją Rzeczypospolitej Polskiej lub innymi ustawami, ustala trzymiesięczny termin dostosowania działalności tego organu do obowiązującego prawa.
+1. Sąd rejestrowy, w razie stwierdzenia, że dany organ związku zawodowego rolników indywidualnych prowadzi działalność sprzeczną z Konstytucją Rzeczypospolitej Polskiej lub innymi ustawami, ustala trzymiesięczny termin dostosowania działalności tego organu do obowiązującego prawa.
 
-2. W razie bezskutecznego upływu terminu przewidzianego sąd rejestrowy może orzec grzywnę do 5000 zł indywidualnie nakładaną na poszczególnych członków danego organu związkowego. Grzywna ulega umorzeniu, jeżeli po jej wymierzeniu organ związku dostosuje niezwłocznie swoją działalność do obowiązującego prawa.
+2. W razie bezskutecznego upływu terminu przewidzianego w ust. 1 sąd rejestrowy może orzec grzywnę do 5000 zł indywidualnie nakładaną na poszczególnych członków danego organu związkowego. Grzywna ulega umorzeniu, jeżeli po jej wymierzeniu organ związku dostosuje niezwłocznie swoją działalność do obowiązującego prawa.
 
-3. Jeżeli organ związku prowadzi działalność rażąco sprzeczną Konstytucją Rzeczypospolitej Polskiej lub innymi ustawami, a środki zastosowane na podstawie 2 okażą bezskuteczne, sąd rejestrowy może zażądać od właściwych władz związku przeprowadzenia, określonym terminie, nowych wyborów do tego organu, pod rygorem zawieszenia działalności tego organu.
+3. Jeżeli organ związku prowadzi działalność rażąco sprzeczną z Konstytucją Rzeczypospolitej Polskiej lub innymi ustawami, a środki zastosowane na podstawie ust. 1 i 2 okażą się bezskuteczne, sąd rejestrowy może zażądać od właściwych władz związku przeprowadzenia, w określonym terminie, nowych wyborów do tego organu, pod rygorem zawieszenia działalności tego organu.
 
-4. Jeżeli środki określone 1–3 okażą bezskuteczne, sąd rejestrowy orzeka skreśleniu związku rejestru.
+4. Jeżeli środki określone w ust. 1–3 okażą się bezskuteczne, sąd rejestrowy orzeka o skreśleniu związku z rejestru.
 
-5. Związek zawodowy skreślony rejestru związków jest zobowiązany niezwłocznie zaprzestać swojej działalności, a terminie 3 miesięcy od uprawomocnienia orzeczenia skreśleniu rejestru dokonać swojej likwidacji sposób przewidziany statucie.
+5. Związek zawodowy rolników indywidualnych skreślony z rejestru związków jest zobowiązany niezwłocznie zaprzestać swojej działalności, a w terminie 3 miesięcy od uprawomocnienia się orzeczenia o skreśleniu z rejestru dokonać swojej likwidacji w sposób przewidziany w statucie.
 
-6. Do spraw, których mowa 1–4, stosuje przepisy Kodeksu postępowania cywilnego postępowaniu nieprocesowym, tym że sąd rejestrowy orzeka tych sprawach po przeprowadzeniu rozprawy. Postępowanie tych sprawach wszczyna na wniosek prokuratora.
+6. Do spraw, o których mowa w ust. 1–4, stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, z tym że sąd rejestrowy orzeka w tych sprawach po przeprowadzeniu rozprawy. Postępowanie w tych sprawach wszczyna się na wniosek prokuratora.
 
-**Art. 10.** Ustawa wchodzi życie dniem ogłoszenia .
+**Art. 10.** Ustawa wchodzi w życie z dniem ogłoszenia .
 

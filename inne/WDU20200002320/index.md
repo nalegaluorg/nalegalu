@@ -43,9 +43,7 @@ source: pdf
 - **4)** operator wyznaczony – operatora wyznaczonego, o którym mowa w art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);
 - **5)** podmiot niepubliczny – osobę fizyczną i podmiot inny niż podmiot, o którym mowa w pkt 6;
 - **6)** podmiot publiczny:
-    - **a)** jednostkę sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz.
-
-- **1483)** ,
+    - **a)** jednostkę sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483),
     - **b)** inne niż określone w lit. a państwowe jednostki organizacyjne nieposiadające osobowości prawnej,
     - **c)** inne niż określone w lit. a osoby prawne utworzone w szczególnym celu zaspokajania potrzeb o charakterze powszechnym, niemające charakteru przemysłowego ani handlowego, jeżeli podmioty, o których mowa w tym przepisie oraz w lit. a i b, pojedynczo lub wspólnie, bezpośrednio albo pośrednio przez inny podmiot: – finansują je w ponad 50 % lub – posiadają ponad połowę udziałów albo akcji, lub – sprawują nadzór nad organem zarządzającym, lub – mają prawo do powoływania ponad połowy składu organu nadzorczego lub zarządzającego,
     - **d)** związki podmiotów, o których mowa w lit. a–c, jeżeli realizują zadania publiczne,
@@ -1033,7 +1031,7 @@ source: pdf
 
 **Art. 158.**
 
-1. W okresie od dnia wejścia w życie niniejszej ustawy do dnia poprzedzającego dzień zaistnienia obowiązku jej stosowania, o którym mowa w art. 155, do doręczania przez podmioty publiczne w rozumieniu ustawy zmienianej w art. 105 do podmiotów niebędących podmiotami publicznymi w rozumieniu tej ustawy, dokonywanego w systemie teleinformatycznym organu administracji publicznej, stosuje się art. 39, art. 39 , art. 40 § 4 oraz art. 46 § 4–9 ustawy zmienianej w art. 61 w brzmieniu dotychczasowym oraz art. 144a i art. 152a ustawy zmienianej w art. 84 w brzmieniu dotychczasowym.
+1. W okresie od dnia wejścia w życie niniejszej ustawy do dnia poprzedzającego dzień zaistnienia obowiązku jej stosowania, o którym mowa w art. 155, do doręczania przez podmioty publiczne w rozumieniu ustawy zmienianej w art. 105 do podmiotów niebędących podmiotami publicznymi w rozumieniu tej ustawy, dokonywanego w systemie teleinformatycznym organu administracji publicznej, stosuje się art. 39, art. 39 1 , art. 40 § 4 oraz art. 46 § 4–9 ustawy zmienianej w art. 61 w brzmieniu dotychczasowym oraz art. 144a i art. 152a ustawy zmienianej w art. 84 w brzmieniu dotychczasowym.
 
 2. (uchylony)
 

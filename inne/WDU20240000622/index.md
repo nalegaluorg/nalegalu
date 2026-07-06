@@ -370,11 +370,10 @@ source: pdf
 
 § 1. Do właściwości Izby Odpowiedzialności Zawodowej należą sprawy:
 
-- **1)** dyscyplinarne: poz. 1184 i 1268 oraz z 2023 r. poz. 1860), – z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166 oraz z 2023 r. poz. 1860), – z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2023 r. poz. 154), – z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799 oraz z 2023 r. poz. 1394 i 1615), – z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2021 r. poz. 1850 oraz z 2023 r. poz. 1972), – z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2022 r. poz. 2250), – z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), – z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2023 r. poz. 303 i 1860), – z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, – z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125), – z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342 oraz z 2023 r. poz. 1234), – z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych (Dz. U. z 2021 r. poz. 628), – z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2023 r. poz. 1213 i 1234), – z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz.
+- **1)** dyscyplinarne: poz. 1184 i 1268 oraz z 2023 r. poz. 1860), – z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166 oraz z 2023 r. poz. 1860), – z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2023 r. poz. 154), – z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799 oraz z 2023 r. poz. 1394 i 1615), – z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2021 r. poz. 1850 oraz z 2023 r. poz. 1972), – z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2022 r. poz. 2250), – z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), – z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2023 r. poz. 303 i 1860), – z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, – z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. z 2023 r. poz. 2125), – z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342 oraz z 2023 r. poz. 1234), – z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych (Dz. U. z 2021 r. poz. 628), – z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2023 r. poz. 1213 i 1234), – z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390), – z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 1691 i 1860);
     - **a)** sędziów Sądu Najwyższego,
     - **b)** rozpatrywane przez Sąd Najwyższy w związku z postępowaniami dyscyplinarnymi prowadzonymi na podstawie ustawy: – z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r.
 
-- **390)** , – z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2023 r. poz. 1691 i 1860);
 - **2)** o zezwolenie na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury;
 - **3)** z zakresu prawa pracy i ubezpieczeń społecznych dotyczące sędziów Sądu Najwyższego.
 
@@ -1124,7 +1123,7 @@ source: pdf
 
 **Art. 95.** W zakresie nieuregulowanym przepisami ustawy do skargi nadzwyczajnej, w tym postępowania w sprawie tej skargi, stosuje się w zakresie spraw:
 
-- **1)** cywilnych – przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dotyczące skargi kasacyjnej, z wyłączeniem art. 398 § 2 oraz art. 398 ;
+- **1)** cywilnych – przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dotyczące skargi kasacyjnej, z wyłączeniem art. 398 § 2 oraz art. 398 9 ;
 - **2)** karnych – przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego dotyczące kasacji.
 
 **Art. 96.**

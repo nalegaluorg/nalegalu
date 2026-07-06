@@ -27,9 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie przeprowadzania badania psychofizjologicznego, testu sprawności fizycznej oraz badania psychologicznego funkcjonariuszy Służby Celno-Skarbowej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 28 marca 2018 r. w sprawie przeprowadzania badania psychofizjologicznego, testu sprawności fizycznej oraz badania psychologicznego funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 641), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 5 września 2020 r. zmieniającym rozporządzenie w sprawie przeprowadzania badania psychofizjologicznego, testu sprawności fizycznej oraz badania psychologicznego funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 1584).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 5 września 2020 r. zmieniającego rozporządzenie w sprawie przeprowadzania badania psychofizjologicznego, testu sprawności fizycznej oraz badania psychologicznego funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 1584), które stanowią: „§ 2. Do ustalenia terminu testu sprawności fizycznej funkcjonariusza, który przed dniem wejścia w życie rozporządzenia nie przystąpił do testu sprawności fizycznej z przyczyn, o których mowa w § 5 ust. 2 rozporządzenia zmienianego w § 1, stosuje się przepisy tego rozporządzenia w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.”.
-Minister Finansów: T. Kościński ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 marca 2018 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 5 września 2020 r. zmieniającego rozporządzenie w sprawie przeprowadzania badania psychofizjologicznego, testu sprawności fizycznej oraz badania psychologicznego funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 1584), które stanowią: „ § 2. Do ustalenia terminu testu sprawności fizycznej funkcjonariusza, który przed dniem wejścia w życie rozporządzenia nie przystąpił do testu sprawności fizycznej z przyczyn, o których mowa w § 5 ust. 2 rozporządzenia zmienianego w § 1, stosuje się przepisy tego rozporządzenia w brzmieniu nadanym niniejszym rozporządzeniem. § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.”. Minister Finansów: T. Kościński
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 marca 2018 r.
 w sprawie przeprowadzania badania psychofizjologicznego, testu sprawności fizycznej oraz badania psychologicznego funkcjonariuszy Służby Celno-Skarbowej Na podstawie art. 177 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r.
 poz. 422, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
@@ -144,7 +143,21 @@ b) części szczegółowej przygotowującej do badania;
 § 26. Test sprawności fizycznej przeprowadzają podmioty, o których mowa w § 25 ust. 1 pkt 1 i 2.
 § 27. Do wniosków o przeprowadzenie badania psychofizjologicznego, testu sprawności fizycznej lub badania psychologicznego złożonych i nierozpatrzonych do dnia wejścia w życie rozporządzenia oraz do badań psychofizjologicznych, testów sprawności fizycznej lub badań psychologicznych zarządzonych i nieprzeprowadzonych lub niezakończonych do tego dnia stosuje się przepisy dotychczasowe.
 § 28. Rozporządzenie wchodzi w życie z dniem 30 marca 2018 r.
-Załączniki do rozporządzenia Ministra Finansów z dnia 28 marca 2018 r. (poz. …..) Załącznik nr 1 OPIS PRZEBIEGU TESTU SPRAWNOŚCI FIZYCZNEJ DLA FUNKCJONARIUSZA WYKONUJĄCEGO CZYNNOŚCI SPECJALNE ALBO FUNKCJONARIUSZA OPIS PRZEBIEGU TESTU SPRAWNOŚCI FIZYCZNEJ DLA FUNKCJONARIUSZA WYKONUJĄCEGO PRZEWIDZIANEGO CZYNNOŚCI SPECJALNE DO WYKONYWANIA ALBO FUNKCJONARIUSZA TYCH CZYNNOŚCI PRZEWIDZIANEGO DO WYKONYWANIA TYCH CZYNNOŚCI Test sprawności fizycznej polega na przeprowadzeniu badania zdolności motorycznych poprzez wykonanie niżej wymienionych prób sprawnościowych:
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Badania psychofizjologiczne
+
+#### Rozdział 3 Test sprawności fizycznej
+
+#### Rozdział 4 Badania psychologiczne
+
+#### Rozdział 5 Jednostki właściwe do przeprowadzania badań psychofizjologicznych, testu sprawności fizycznej oraz badań psychologicznych
+
+#### Rozdział 6 Przepisy przejściowe i końcowe
+
+## Załącznik nr 1 — OPIS PRZEBIEGU TESTU SPRAWNOŚCI FIZYCZNEJ DLA FUNKCJONARIUSZA WYKONUJĄCEGO CZYNNOŚCI SPECJALNE ALBO FUNKCJONARIUSZA OPIS PRZEBIEGU TESTU SPRAWNOŚCI FIZYCZNEJ DLA FUNKCJONARIUSZA WYKONUJĄCEGO PRZEWIDZIANEGO CZYNNOŚCI SPECJALNE DO WYKONYWANIA ALBO FUNKCJONARIUSZA TYCH CZYNNOŚCI PRZEWIDZIANEGO DO WYKONYWANIA TYCH CZYNNOŚCI Test sprawności fizycznej polega na przeprowadzeniu badania zdolności motorycznych poprzez wykonanie niżej wymienionych prób sprawnościowych:
+
 1) siła mięśni ramion: uginanie ramion w podporze z leżenia przodem;
 2) siła mięśni brzucha: skłony tułowia w przód z leżenia tyłem w ciągu 30 sekund;
 3) bieg na dystansie: 600 m kobiety, 1000 m mężczyźni;
@@ -171,18 +184,6 @@ Sposób wykonania próby sprawnościowej: Ćwiczący staje w dowolnej pozycji w 
 Sprzęt i pomoce: Taśma miernicza do wytyczenia trasy.
 Kryteria oceny próby sprawnościowej: Pokonanie dystansu z elementami marszu i biegu.
 Tabela norm dla funkcjonariusza kobiety: Lp. Badana zdolność Nazwa próby J.m. Grupa Oceny próby sprawnościowej motoryczna sprawnościowej wiekowa 5 4 3 2 1 Siła mięśni Uginanie ramion liczba I [do 30 lat] 16 i więcej 13 10 * ramion w podporze II [31–40 lat] 13 i więcej 10 7 * z leżenia przodem III [41–50 lat] 10 i więcej 7 4 * (kolana oparte o podłoże) 2 Siła mięśni Skłony tułowia liczba I [do 30 lat] 19 i więcej 17 14 * brzucha w przód z leżenia II [31–40 lat] 15 i więcej 13 9 * tyłem w ciągu III [41–50 lat] 11 i więcej 9 7 * 30 sekund 3 Wytrzymałość Bieg na dystansie min I [do 30 lat] 3:00 i mniej 3:25 3:45 * 600 m II [31–40 lat] 3:15 i mniej 3:40 4:00 * III [41–50 lat] 3:30 i mniej 3:55 4:15 * 4 Wytrzymałość Marszobieg na min IV [od 51 lat] Zaliczenie – czas wykonania 15 dystansie 1200 m Tabela norm dla funkcjonariusza mężczyzny: Lp. Badana zdolność Nazwa próby J.m. Grupa Oceny próby sprawnościowej motoryczna sprawnościowej wiekowa 5 4 3 2 1 Siła mięśni Uginanie ramion liczba I [do 30 lat] 24 i więcej 19 14 * ramion w podporze II [31–40 lat] 20 i więcej 15 10 * z leżenia przodem III [41–50 lat] 16 i więcej 10 7 * 2 Siła mięśni Skłony tułowia liczba I [do 30 lat] 29 i więcej 24 19 * brzucha w przód z leżenia II [31–40 lat] 24 i więcej 19 11 * tyłem w ciągu III [41–50 lat] 19 i więcej 14 9 * 30 sekund 3 Wytrzymałość Bieg na dystansie min I [do 30 lat] 4:00 i mniej 4:15 4:30 * 1000 m II [31–40 lat] 4:15 i mniej 4:30 4:45 * III [41–-50 lat] 4:30 i mniej 4:45 5:00 * 4 Wytrzymałość Marszobieg na min IV [od 51 lat] Zaliczenie – czas wykonania 20 dystansie 2000 m Uwaga: * Funkcjonariusz musi zaliczyć pozytywnie wszystkie próby sprawnościowe zawarte w teście sprawności fizycznej (uzyskanie wyniku słabszego niż określony w rubryce z oceną „3” oznacza brak zaliczenia próby).
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Badania psychofizjologiczne
-
-#### Rozdział 3 Test sprawności fizycznej
-
-#### Rozdział 4 Badania psychologiczne
-
-#### Rozdział 5 Jednostki właściwe do przeprowadzania badań psychofizjologicznych, testu sprawności fizycznej oraz badań psychologicznych
-
-#### Rozdział 6 Przepisy przejściowe i końcowe
 
 ## Załącznik nr 2 — INDYWIDUALNA INDYWIDUALNA KARTA KARTA OCENY OCENY SPRAWNOŚCI SPRAWNOŚCI FIZYCZNEJ FIZYCZNEJ FUNKCJONARIUSZA FUNKCJONARIUSZA SŁUŻBY CELNO-SKARBOWEJ SŁUŻBY CELNO-SKARBOWEJ Nazwisko Imię Stopień służbowy Stanowisko Komórka służbowe organizacyjna Data urodzenia DD MM RR Grupa wiekowa Grupy wiekowe I–III Data Próba Próba Próba Ocena ……………………….… sprawnościowa 1 sprawnościowa 2 sprawnościowa 3 końcowa * Instruktor prowadzący …………………………. Uginanie ramion Skłony tułowia Bieg na dystansie w podporze w przód z leżenia K: 600 m …………………………. z leżenia przodem tyłem w ciągu M: 1000 m (nazwisko, imię, stopień 30 sekund służbowy) Wynik Ocena Wynik Ocena Wynik Ocena * Ocena końcowa jest średnią arytmetyczną z ocen prób sprawnościowych, zaokrągloną do liczby całkowitej zgodnie z ogólnymi regułami matematycznymi.
 

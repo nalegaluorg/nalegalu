@@ -134,7 +134,7 @@ source: pdf
 - **20)** certyfikat kompetencji zawodowych – dokument potwierdzający posiadanie kwalifikacji i wiedzy niezbędnych do podjęcia i wykonywania działalności gospodarczej w zakresie transportu drogowego;
 - **21)** (uchylony) 21a) baza eksploatacyjna – miejsce będące w dyspozycji przedsiębiorcy, przystosowane do prowadzenia działalności transportowej w sposób zorganizowany i ciągły, w skład którego wchodzi co najmniej jeden z następujących elementów: miejsce postojowe dla pojazdów wykorzystywanych w transporcie drogowym, miejsce załadunku, rozładunku lub łączenia ładunków, miejsce konserwacji lub naprawy pojazdów; przez bazę eksploatacyjną należy rozumieć także centrum operacyjne pracodawcy, o którym mowa w przepisach rozporządzenia (WE) nr 561/2006;
 - **21b)** zezwolenie na odstępstwo – zezwolenie na odstępstwo od zakazu przewozu drogowego towarów, wydane przez właściwy organ państwa członkowskiego Unii Europejskiej na podstawie art. 1zc rozporządzenia Rady (WE) nr 765/2006 z dnia 18 maja 2006 r. dotyczącego środków ograniczających w związku z sytuacją na Białorusi i udziałem Białorusi w agresji Rosji wobec Ukrainy (Dz. Urz. UE L 134 z 20.05.2006, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 765/2006”, lub art. 3l rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE L 229 z 31.07.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 833/2014”;
-- **22)** obowiązki lub warunki przewozu drogowego – obowiązki lub warunki wynikające z przepisów ustawy oraz: UE L 190 z 12.07.2006, str. 1, z późn. zm. ),
+- **22)** obowiązki lub warunki przewozu drogowego – obowiązki lub warunki wynikające z przepisów ustawy oraz: UE L 190 z 12.07.2006, str. 1, z późn. zm. ), poz. 1226),
     - **a)** rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 3 z 05.01.2005, str. 1, z późn. zm. ),
     - **b)** rozporządzenia (WE) nr 561/2006,
     - **c)** rozporządzenia (WE) nr 1013/2006 Parlamentu Europejskiego i Rady z dnia 14 czerwca 2006 r. w sprawie przemieszczania odpadów (Dz. Urz.
@@ -147,12 +147,8 @@ source: pdf
     - **j)** ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe,
     - **k)** ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2025 r. poz. 733),
     - **l)** ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym,
-    - **m)** ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz.
-
-- **1580)** ,
-    - **n)** ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz.
-
-- **2063)** , poz. 1226),
+    - **m)** ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580),
+    - **n)** ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2063),
     - **o)** ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795),
     - **p)** ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2024 r. poz. 220),
     - **q)** ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448),
@@ -2328,7 +2324,7 @@ source: pdf
     - **j)** prawidłowości uiszczenia opłaty elektronicznej, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, w tym w ramach kontroli związanej z transgraniczną wymianą informacji, o której mowa w art. 13mg tej ustawy,
     - **k)** przestrzegania czasu pracy: – przedsiębiorców osobiście wykonujących: – – przewozy drogowe, do których ma zastosowanie rozporządzenie (WE) nr 561/2006 albo Umowa europejska dotycząca pracy załóg pojazdów wykonujących międzynarodowe przewozy drogowe (AETR), sporządzona w Genewie dnia 1 lipca 1970 r. (Dz. U.
     - **l)** przestrzegania ustalonych przez radę gminy, a w przypadku miasta stołecznego Warszawy – Radę Warszawy, cen za przewozy taksówkami i stawek taryfowych obowiązujących przy przewozie osób i ładunków taksówkami, o których mowa w art. 11b,
-    - **m)** dokumentów potwierdzających uzyskanie kwalifikacji, o których mowa w art. 39a ust. 1 pkt 5 i art. 39b , oraz ukończenie szkolenia, o którym mowa w art. 39a ust. 1 pkt 6;
+    - **m)** dokumentów potwierdzających uzyskanie kwalifikacji, o których mowa w art. 39a ust. 1 pkt 5 i art. 39b 2 , oraz ukończenie szkolenia, o którym mowa w art. 39a ust. 1 pkt 6;
 
 - **2)** prowadzenie postępowania administracyjnego, w tym wydawanie decyzji administracyjnych na zasadach określonych w ustawie, a także podejmowanie innych czynności w niej przewidzianych, w sprawach:
     - **a)** licencji wspólnotowej,

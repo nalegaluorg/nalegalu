@@ -29,10 +29,8 @@ source: pdf
 1) ustawą z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw (Dz. U. poz. 2191),
 2) ustawą z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2349) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 lutego 2022 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 8 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw (Dz. U. poz. 2191), który stanowi: „Art. 8. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2 pkt 2–6 oraz art. 4–7, które wchodzą w życie z dniem 1 stycznia 2022 r.”;
-2) art. 8 ustawy z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U.
-poz. 2349), który stanowi: „Art. 8. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 5, który wchodzi w życie z dniem 1 stycznia 2022 r.”.
-Marszałek Sejmu: E. Witek
+1) art. 8 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie granicy państwowej oraz niektórych innych ustaw (Dz. U. poz. 2191), który stanowi: „ Art. 8. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 2 pkt 2–6 oraz art. 4–7, które wchodzą w życie z dniem 1 stycznia 2022 r.”;
+2) art. 8 ustawy z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2349), który stanowi: „ Art. 8. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 5, który wchodzi w życie z dniem 1 stycznia 2022 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 29 września 2021 r.
 o rekompensacie w związku z wprowadzeniem stanu wyjątkowego na obszarze części województwa podlaskiego oraz części województwa lubelskiego w 2021 r.
 

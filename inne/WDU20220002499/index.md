@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie profilu wody w kąpielisku
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 4 listopada 2019 r. w sprawie profilu wody w kąpielisku (Dz. U. poz. 2206), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Klimatu i Środowiska z dnia 16 września 2021 r. zmieniającym rozporządzenie w sprawie profilu wody w kąpielisku (Dz. U. poz. 1751).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 16 września 2021 r. zmieniającego rozporządzenie w sprawie profilu wody w kąpielisku (Dz. U. poz. 1751), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 4 listopada 2019 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 16 września 2021 r. zmieniającego rozporządzenie w sprawie profilu wody w kąpielisku (Dz. U. poz. 1751), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: A. Moskwa
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 4 listopada 2019 r.
 w sprawie profilu wody w kąpielisku Na podstawie art. 51 ust. 4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób sporządzania profilu wody w kąpielisku;

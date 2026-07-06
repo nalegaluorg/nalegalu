@@ -293,7 +293,7 @@ source: pdf
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących
 
-**Art. 44.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm. ) uchyla się art. 270 .
+**Art. 44.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm. ) uchyla się art. 270 1 .
 
 **Art. 45.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2010 r. Nr 46, poz. 275, z późn. zm. ) wprowadza się następujące zmiany:
 

@@ -32,10 +32,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 poz. 367).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 7 lutego 2013 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U.
-poz. 223), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 lutego 2014 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U.
-poz. 367), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Spraw Wewnętrznych i Administracji: wz. S. Chwałek ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 19 grudnia 2005 r.
+poz. 223), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 lutego 2014 r. zmieniającego rozporządzenie w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego (Dz. U. poz. 367), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. S. Chwałek
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 19 grudnia 2005 r.
 w sprawie wart ochronnych pełnionych przez funkcjonariuszy Straży Granicznej na pokładzie statku powietrznego Na podstawie art. 11 ust. 7b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2016 r.
 poz. 1643, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

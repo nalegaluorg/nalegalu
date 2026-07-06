@@ -31,10 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospol
 2) rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. zmieniającym rozporządzenie – Regulamin Naczelnego Sądu Administracyjnego (Dz. U. poz. 250);
 3) rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 11 grudnia 2023 r. zmieniającym rozporządzenie – Regulamin Naczelnego Sądu Administracyjnego (Dz. U. poz. 2754).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lipca 2022 r. zmieniającego rozporządzenie – Regulamin Naczelnego Sądu Administracyjnego (Dz. U. poz. 1492), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 15 lipca 2022 r.”;
-2) § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. zmieniającego rozporządzenie – Regulamin Naczelnego Sądu Administracyjnego (Dz. U. poz. 250), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 11 grudnia 2023 r. zmieniającego rozporządzenie – Regulamin Naczelnego Sądu Administracyjnego (Dz. U. poz. 2754), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezydent Rzeczypospolitej Polskiej: A. Duda ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 lipca 2020 r.
+1) § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 14 lipca 2022 r. zmieniającego rozporządzenie – Regulamin Naczelnego Sądu Administracyjnego (Dz. U. poz. 1492), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 15 lipca 2022 r.”;
+2) § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 26 stycznia 2023 r. zmieniającego rozporządzenie – Regulamin Naczelnego Sądu Administracyjnego (Dz. U. poz. 250), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 11 grudnia 2023 r. zmieniającego rozporządzenie – Regulamin Naczelnego Sądu Administracyjnego (Dz. U. poz. 2754), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezydent Rzeczypospolitej Polskiej: A. Duda
+ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 4 lipca 2020 r.
 Regulamin Naczelnego Sądu Administracyjnego Na podstawie art. 43 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2022 r.
 poz. 2492 oraz z 2023 r. poz. 1615) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

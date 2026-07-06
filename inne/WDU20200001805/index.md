@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 28 lutego 2011 r. w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. z 2018 r. poz. 1016), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 25 września 2019 r. zmieniającym rozporządzenie w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 1917).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 25 września 2019 r. zmieniającego rozporządzenie w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 1917), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 28 lutego 2011 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 25 września 2019 r. zmieniającego rozporządzenie w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. poz. 1917), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 28 lutego 2011 r.
 w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji Na podstawie art. 174 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r.
 poz. 1427 i 1492) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

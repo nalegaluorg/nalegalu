@@ -26,8 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000438) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/438/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 lipca 2006 r. o spółdzielni europejskiej (Dz. U. z 2018 r. poz. 2043), z uwzględnieniem stanu prawnego na dzień 10 marca 2026 r. oraz zmiany wprowadzonej ustawą z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 ustawy z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556), który stanowi: „Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 i 7 oraz art. 10 pkt 2, które wchodzą w życie z dniem 1 kwietnia 2027 r.”.
-Marszałek Sejmu: W. Czarzasty
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 ustawy z dnia 26 września 2025 r. o zmianie ustawy o Krajowym Rejestrze Sądowym oraz niektórych innych ustaw (Dz. U. poz. 1556), który stanowi: „ Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 3 i 7 oraz art. 10 pkt 2, które wchodzą w życie z dniem 1 kwietnia 2027 r.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 22 lipca 2006 r.
 o spółdzielni europejskiej
 

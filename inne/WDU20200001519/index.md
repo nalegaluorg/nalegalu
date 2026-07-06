@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Fina
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U.
 poz. 1536), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 13 sierpnia 2019 r.
 zmieniającym rozporządzenie w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1614).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1614), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów: T. Kościński ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 9 sierpnia 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 13 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1614), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: T. Kościński
+ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 9 sierpnia 2017 r.
 w sprawie egzaminu na pośrednika kredytu hipotecznego Na podstawie art. 53 ust. 10 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2020 r. poz. 1027) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) wysokość opłat egzaminacyjnych dla osób składających egzamin na pośrednika kredytu hipotecznego, zwany dalej „egzaminem”, i sposób ich uiszczania;

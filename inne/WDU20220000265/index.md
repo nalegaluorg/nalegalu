@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodowej w sprawie sposobu używania znaków Sił Zbrojnych Rzeczypospolitej Polskiej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Obrony Narodowej z dnia 4 maja 2009 r. w sprawie sposobu używania znaków Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 1133), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Obrony Narodowej z dnia 4 grudnia 2020 r. zmieniającym rozporządzenie w sprawie sposobu używania znaków Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 2192).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 4 grudnia 2020 r. zmieniającego rozporządzenie w sprawie sposobu używania znaków Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 2192), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Obrony Narodowej: z up. W. Skurkiewicz ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 4 maja 2009 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 4 grudnia 2020 r. zmieniającego rozporządzenie w sprawie sposobu używania znaków Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 2192), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Obrony Narodowej: z up. W. Skurkiewicz
+ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 4 maja 2009 r.
 w sprawie sposobu używania znaków Sił Zbrojnych Rzeczypospolitej Polskiej Na podstawie art. 3 ustawy z dnia 19 lutego 1993 r. o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U.
 z 2019 r. poz. 1351) zarządza się, co następuje:
 § 1. Znaków orłów wojskowych używa się:

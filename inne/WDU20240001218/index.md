@@ -27,10 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r.
 o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 49 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), który stanowi: „Art. 49. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 4 ust. 2, który wchodzi w życie z dniem 21 sierpnia 2023 r.;
-2) art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, które wchodzą w życie z dniem 1 stycznia 2025 r.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 49 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), który stanowi: „ Art. 49. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 4 ust. 2, który wchodzi w życie z dniem 21 sierpnia 2023 r.; 2) art. 39 pkt 4, 5, 8, pkt 11 lit. b, pkt 12–14, 18 i 19 oraz art. 43, które wchodzą w życie z dniem 1 stycznia 2025 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 9 marca 2017 r.
 o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
 
@@ -738,7 +735,7 @@ o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu pa
 
 3. Towar zatrzymuje się do czasu ustalenia, przez naczelnika urzędu celno-skarbowego właściwego ze względu na miejsce kontroli przewozu towarów, podmiotu posiadającego prawo do dysponowania towarem jak właściciel w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług i złożenia zgłoszenia. W przypadku nieustalenia podmiotu, który posiada prawo do dysponowania towarem jak właściciel, w terminie 60 dni od dnia zatrzymania towaru, orzeka się przepadek towaru na rzecz Skarbu Państwa.
 
-4. Z wnioskiem o orzeczenie przepadku towaru na rzecz Skarbu Państwa występuje do sądu cywilnego naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce kontroli przewozu towarów. Do spraw o przepadek towaru stosuje się odpowiednio przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
+4. Z wnioskiem o orzeczenie przepadku towaru na rzecz Skarbu Państwa występuje do sądu cywilnego naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce kontroli przewozu towarów. Do spraw o przepadek towaru stosuje się odpowiednio przepisy art. 610 1 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
 
 5. W przypadku towarów łatwo psujących się termin, o którym mowa w ust. 3, wynosi 3 dni.
 

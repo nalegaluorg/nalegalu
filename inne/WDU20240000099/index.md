@@ -32,9 +32,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 i § 3 rozporządzenia Ministra Środowiska z dnia 17 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu zadań ochronnych dla obszaru Natura 2000 (Dz. U. poz. 506), które stanową: „§ 2. Plany zadań ochronnych dla obszaru Natura 2000, ustanowione przed dniem wejścia w życie rozporządzenia, zostaną dostosowane do jego wymogów w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia.
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 i § 3 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu zadań ochronnych dla obszaru Natura 2000 (Dz. U. poz. 2310), które stanowią: „§ 2. Do zmiany planów zadań ochronnych dla obszarów Natura 2000 ustanowionych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: P. Hennig-Kloska ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 17 lutego 2010 r.
+2) § 2 i § 3 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu zadań ochronnych dla obszaru Natura 2000 (Dz. U. poz. 2310), które stanowią: „ § 2. Do zmiany planów zadań ochronnych dla obszarów Natura 2000 ustanowionych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem. § 3. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”. Minister Klimatu i Środowiska: P. Hennig-Kloska
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 17 lutego 2010 r.
 w sprawie sporządzania projektu planu zadań ochronnych dla obszaru Natura 2000 Na podstawie art. 28 ust. 13 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
 § 1. Rozporządzenie określa dla obszaru Natura 2000, zwanego dalej „obszarem”:
 1) tryb sporządzania projektu planu zadań ochronnych;

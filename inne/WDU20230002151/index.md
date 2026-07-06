@@ -33,14 +33,9 @@ poz. 240),
 3) ustawą z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535) oraz zmian wynikających z przepisów ogłoszonych przed dniem 30 sierpnia 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 16 i art. 21 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw (Dz. U.
-z 2023 r. poz. 240), które stanowią: „Art. 16. Do badań krwi w celu ustalenia zawartości alkoholu w organizmie pracownika, których wyniku nie uzyskano przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 21. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, art. 3 pkt 1 i 3, art. 4 pkt 1 i 3, art. 5 pkt 1, art. 6, art. 7, art. 8, art. 9, art. 10 pkt 1, art. 12, art. 13 pkt 1 i 2, art. 15, art. 18 oraz art. 19, które wchodzą w życie po upływie dwóch miesięcy od dnia ogłoszenia.”;
-2) art. 24 ustawy z dnia 26 stycznia 2023 r. o zmianie ustaw w celu likwidowania zbędnych barier administracyjnych i prawnych (Dz. U. poz. 803), który stanowi: „Art. 24. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 10 i art. 20, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-2) art. 5, art. 14 i art. 19, które wchodzą w życie z dniem 1 lipca 2023 r.”;
-3) art. 24 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535), który stanowi: „Art. 24. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 12, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 marca 2023 r.;
-2) art. 13, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia ustawy zmienianej w art. 13.”.
-Marszałek Sejmu: E. Witek
+z 2023 r. poz. 240), które stanowią: „ Art. 16. Do badań krwi w celu ustalenia zawartości alkoholu w organizmie pracownika, których wyniku nie uzyskano przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.” „Art. 21. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, art. 3 pkt 1 i 3, art. 4 pkt 1 i 3, art. 5 pkt 1, art. 6, art. 7, art. 8, art. 9, art. 10 pkt 1, art. 12, art. 13 pkt 1 i 2, art. 15, art. 18 oraz art. 19, które wchodzą w życie po upływie dwóch miesięcy od dnia ogłoszenia.”;
+2) art. 24 ustawy z dnia 26 stycznia 2023 r. o zmianie ustaw w celu likwidowania zbędnych barier administracyjnych i prawnych (Dz. U. poz. 803), który stanowi: „ Art. 24. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 10 i art. 20, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia; 2) art. 5, art. 14 i art. 19, które wchodzą w życie z dniem 1 lipca 2023 r.”;
+3) art. 24 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o przeciwdziałaniu przemocy w rodzinie oraz niektórych innych ustaw (Dz. U. poz. 535), który stanowi: „ Art. 24. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: 1) art. 12, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 marca 2023 r.; 2) art. 13, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia ustawy zmienianej w art. 13.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 26 października 1982 r.
 o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie obywateli w trzeźwości za niezbędny warunek moralnego i materialnego dobra Narodu, stanowi się, co następuje:
 
@@ -298,9 +293,9 @@ o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie ob
 - **11)** kwotę opłaty do zapłaty;
 - **12)** pouczenie, że informacja stanowi podstawę do wystawienia tytułu wykonawczego na podstawie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ).
 
-19. Naczelnik Pierwszego Urzędu Skarbowego w Bydgoszczy do końca miesiąca następującego po terminie, o którym mowa w ust. 17, dokonuje podziału łącznych wpływów z opłaty w części, o której mowa w ust. 11, oraz z dodatkowej opłaty, o której mowa w ust. 21, proporcjonalnie do wpływów uzyskanych przez gminy za I i II kwartał z opłat, o których mowa w art. 11 , na podstawie danych publikowanych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych oraz przekazuje środki na rachunki bankowe Narodowego Funduszu Zdrowia i gmin.
+19. Naczelnik Pierwszego Urzędu Skarbowego w Bydgoszczy do końca miesiąca następującego po terminie, o którym mowa w ust. 17, dokonuje podziału łącznych wpływów z opłaty w części, o której mowa w ust. 11, oraz z dodatkowej opłaty, o której mowa w ust. 21, proporcjonalnie do wpływów uzyskanych przez gminy za I i II kwartał z opłat, o których mowa w art. 11 1 , na podstawie danych publikowanych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych oraz przekazuje środki na rachunki bankowe Narodowego Funduszu Zdrowia i gmin.
 
-20. Naczelnik Pierwszego Urzędu Skarbowego w Bydgoszczy do końca kwietnia następnego roku dokonuje podziału łącznych wpływów z opłaty w części, o której mowa w ust. 11, oraz z dodatkowej opłaty, o której mowa w ust. 21, proporcjonalnie do wpływów uzyskanych przez gminy za III i IV kwartał roku ubiegłego z opłat, o których mowa w art. 11 , na podstawie danych publikowanych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych oraz przekazuje środki na rachunki bankowe Narodowego Funduszu Zdrowia i gmin.
+20. Naczelnik Pierwszego Urzędu Skarbowego w Bydgoszczy do końca kwietnia następnego roku dokonuje podziału łącznych wpływów z opłaty w części, o której mowa w ust. 11, oraz z dodatkowej opłaty, o której mowa w ust. 21, proporcjonalnie do wpływów uzyskanych przez gminy za III i IV kwartał roku ubiegłego z opłat, o których mowa w art. 11 1 , na podstawie danych publikowanych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych oraz przekazuje środki na rachunki bankowe Narodowego Funduszu Zdrowia i gmin.
 
 21. W przypadku niedopełnienia obowiązków, o których mowa w ust. 17 pkt 1 lub 2, organ, o którym mowa w ust. 16, ustala, w drodze decyzji, dodatkową opłatę w wysokości:
 
@@ -526,9 +521,9 @@ o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie ob
 
 5. Opłatę, o której mowa w ust. 1, wnosi się najpóźniej w ostatnim dniu miesiąca, w którym stosownie do ust. 2 upłynął termin na złożenie zbiorczej deklaracji miesięcznej, na rachunek urzędu skarbowego, przy pomocy którego wykonuje swoje zadania naczelnik urzędu skarbowego właściwy na podstawie ust. 1a dla podmiotu, o którym mowa w ust. 1.
 
-5a. Naczelnik urzędu skarbowego, o którym mowa w ust. 5, przekazuje kwoty wpłaconych opłat, o których mowa w ust. 1, na rachunek Funduszu Zajęć Sportowych dla Uczniów, o którym mowa w art. 13 , w terminie 14 dni od dnia ich wpłaty.
+5a. Naczelnik urzędu skarbowego, o którym mowa w ust. 5, przekazuje kwoty wpłaconych opłat, o których mowa w ust. 1, na rachunek Funduszu Zajęć Sportowych dla Uczniów, o którym mowa w art. 13 3 , w terminie 14 dni od dnia ich wpłaty.
 
-5b. Zwrot kwoty nadpłat z tytułu opłaty, o której mowa w ust. 1, jest pokrywany ze środków Funduszu Zajęć Sportowych dla Uczniów, o którym mowa w art. 13 .
+5b. Zwrot kwoty nadpłat z tytułu opłaty, o której mowa w ust. 1, jest pokrywany ze środków Funduszu Zajęć Sportowych dla Uczniów, o którym mowa w art. 13 3 .
 
 5c. Minister właściwy do spraw kultury fizycznej na wniosek naczelnika urzędu skarbowego, o którym mowa w ust. 5, przekazuje w terminie 7 dni od dnia wpływu wniosku, na rachunek urzędu skarbowego, o którym mowa w ust. 5, środki niezbędne do realizacji kwoty nadpłaty, o której mowa w ust. 5b.
 
@@ -619,7 +614,7 @@ o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie ob
 
 - **9)** 1. Przedsiębiorca niebędący pracodawcą organizujący pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy albo osoby fizyczne prowadzące na własny rachunek działalność gospodarczą może przeprowadzać kontrolę trzeźwości tych osób oraz kontrolę na obecność w ich organizmach środków działających podobnie do alkoholu.
 
-2. W przypadkach, o których mowa w ust. 1, stosuje się odpowiednio art. 22 –22 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) oraz przepisy wydane na podstawie art. 22 tej ustawy.
+2. W przypadkach, o których mowa w ust. 1, stosuje się odpowiednio art. 22 1c –22 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) oraz przepisy wydane na podstawie art. 22 tej ustawy.
 
 3. W przypadku braku odrębnych przepisów do kontroli trzeźwości oraz kontroli na obecność środków działających podobnie do alkoholu u osób pozostających w stosunku służby przepisy, o których mowa w ust. 2, stosuje się odpowiednio.
 
@@ -664,12 +659,12 @@ o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie ob
 7. Warunkiem prowadzenia sprzedaży napojów alkoholowych do spożycia w miejscu lub poza miejscem sprzedaży jest:
 
 - **1)** posiadanie zezwolenia, o którym mowa w ust. 1;
-- **2)** wniesienie opłaty, o której mowa w art. 11 ;
+- **2)** wniesienie opłaty, o której mowa w art. 11 1 ;
 - **3)** zaopatrywanie się w napoje alkoholowe u producentów i przedsiębiorców:
     - **a)** posiadających odpowiednie zezwolenie na sprzedaż hurtową napojów alkoholowych lub
     - **b)** o których mowa w art. 9 ust. 6;
 
-- **4)** w terminach do dnia 1 lutego, 1 czerwca, 1 października każdego roku kalendarzowego objętego zezwoleniem, okazanie przedsiębiorcy zaopatrującemu dany punkt sprzedaży napojów alkoholowych odpowiedniego dowodu potwierdzającego dokonanie opłaty, o której mowa w art. 11 ;
+- **4)** w terminach do dnia 1 lutego, 1 czerwca, 1 października każdego roku kalendarzowego objętego zezwoleniem, okazanie przedsiębiorcy zaopatrującemu dany punkt sprzedaży napojów alkoholowych odpowiedniego dowodu potwierdzającego dokonanie opłaty, o której mowa w art. 11 1 ;
 - **5)** posiadanie tytułu prawnego do korzystania z lokalu, stanowiącego punkt sprzedaży;
 - **6)** wykonywanie działalności gospodarczej w zakresie objętym zezwoleniem tylko przez przedsiębiorcę w nim oznaczonego i wyłącznie w miejscu wymienionym w zezwoleniu;
 - **7)** zgłaszanie organowi zezwalającemu zmian stanu faktycznego i prawnego, w stosunku do danych zawartych w zezwoleniu, w terminie 14 dni od dnia powstania zmiany;
@@ -736,7 +731,7 @@ o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie ob
 - **1)** gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o których mowa w art. 4 ust. 2,
 - **2)** zadań realizowanych przez placówkę wsparcia dziennego, w której mowa w art. 9 pkt 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w ramach gminnego programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o którym mowa w art. 4 ust. 2 – i nie mogą być przeznaczone na inne cele.
 
-**Art. 18³.** Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 9, art. 18 i art. 18 , stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
+**Art. 18³.** Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 9, art. 18 i art. 18 1 , stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
 
 **Art. 18⁴.**
 
@@ -1083,7 +1078,7 @@ o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie ob
 - **6)** adres zamieszkania lub miejsce pobytu osoby doprowadzonej do izby wytrzeźwień lub placówki albo jednostki Policji;
 - **7)** opis zachowania osoby doprowadzonej do izby wytrzeźwień lub placówki albo jednostki Policji w czasie interwencji i transportu, z uwzględnieniem okoliczności uniemożliwiających doprowadzenie do miejsca zamieszkania lub pobytu;
 - **8)** wykaz przedmiotów posiadanych przez osobę doprowadzoną do izby wytrzeźwień lub placówki albo jednostki Policji;
-- **9)** informacje o okolicznościach określonych w art. 40 , będących podstawą przyjęcia do izby wytrzeźwień, placówki albo jednostki Policji;
+- **9)** informacje o okolicznościach określonych w art. 40 1 , będących podstawą przyjęcia do izby wytrzeźwień, placówki albo jednostki Policji;
 - **10)** dyspozycję co do dalszego postępowania z osobą doprowadzoną do izby wytrzeźwień lub placówki albo jednostki Policji po wytrzeźwieniu;
 - **11)** miejsce doprowadzenia oraz decyzję dyrektora izby wytrzeźwień, kierownika placówki albo komendanta jednostki Policji o przyjęciu lub odmowie przyjęcia.
 
@@ -1279,7 +1274,7 @@ o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi Uznając życie ob
 - **1)** dostarcza napoje alkoholowe do miejsc sprzedaży lub
 - **2)** nie uwidacznia informacji o szkodliwości spożywania alkoholu, podlega karze grzywny.
 
-**Art. 45¹.** Orzekanie w sprawach o czyny wymienione w art. 43 –45 następuje na podstawie przepisów o postępowaniu w sprawach o wykroczenia.
+**Art. 45¹.** Orzekanie w sprawach o czyny wymienione w art. 43 1 –45 następuje na podstawie przepisów o postępowaniu w sprawach o wykroczenia.
 
 **Art. 45².**
 

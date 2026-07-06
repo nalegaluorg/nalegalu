@@ -32,7 +32,8 @@ source: pdf
 - **1)** w art. 1 ust. 1 otrzymuje brzmienie: „1. Ustawa określa zasady nabywania obywatelstwa polskiego w drodze repatriacji, prawa repatrianta, a także zasady i tryb udzielania pomocy repatriantom i członkom ich rodzin.”;
 - **2)** po art. 1 dodaje się art. 1a w brzmieniu: „Art. 1a. Ilekroć w przepisach ustawy jest mowa o: 1) kandydacie na repatrianta – oznacza to osobę polskiego pochodzenia, wobec której konsul wydał decyzję o zakwalifikowaniu do wydania wizy krajowej w celu repatriacji albo – w przypadku osoby, która złożyła wniosek o wydanie wizy krajowej w celu repatriacji przed dniem 1 maja 2017 r. – decyzję o przyrzeczeniu wydania takiej wizy; 2) najbliższej rodzinie repatrianta – oznacza to małżonka repatrianta i małoletnie dziecko lub dzieci pozostające pod władzą rodzicielską co najmniej jednego z rodziców, którzy przybyli do Rzeczypospolitej Polskiej razem z repatriantem.”;
 - **3)** w art. 3b w ust. 1:
-    - **a)** w pkt 1: – lit. a otrzymuje brzmienie: „a) przyznania kandydatowi na repatrianta miejsca w ośrodku adaptacyjnym dla repatriantów, zwanym dalej „ośrodkiem”,”, − w lit. c przecinek zastępuje się średnikiem i uchyla się lit. d, b) pkt 2 otrzymuje brzmienie: „2) koordynowanie działań na rzecz pomocy repatriantom i członkom ich rodzin;”,
+    - **a)** w pkt 1: – lit. a otrzymuje brzmienie: „a) przyznania kandydatowi na repatrianta miejsca w ośrodku adaptacyjnym dla repatriantów, zwanym dalej „ośrodkiem”,”, − w lit. c przecinek zastępuje się średnikiem i uchyla się lit. d,
+    - **b)** pkt 2 otrzymuje brzmienie: „2) koordynowanie działań na rzecz pomocy repatriantom i członkom ich rodzin;”,
     - **c)** w pkt 8 w lit. e skreśla się wyrazy „ , oraz świadczenia, o którym mowa w art. 20c ust. 1”;
 
 - **4)** w art. 3c:

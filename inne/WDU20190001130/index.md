@@ -31,12 +31,9 @@ source: pdf
 3) ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U.
 poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 czerwca 2019 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 2 ustawy z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. Nr 79, poz. 664), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 2 ustawy z dnia 15 stycznia 2015 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. poz. 300), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „Art. 350. Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
-1) art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.”.
-Marszałek Sejmu: M. Kuchciński
+1) art. 2 ustawy z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. Nr 79, poz. 664), który stanowi: „ Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) art. 2 ustawy z dnia 15 stycznia 2015 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego” (Dz. U. poz. 300), który stanowi: „ Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „ Art. 350. Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem: 1) art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 23 maja 2001 r.
 o ustanowieniu programu wieloletniego „Budowa Kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego”
 

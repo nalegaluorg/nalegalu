@@ -8,12 +8,10 @@ pos: 499
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Medycznym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Medycznym
 
 | Pole | Wartość |
 |---|---|
@@ -39,7 +37,6 @@ source: "isap-pdf"
 9. W latach 2026–2029 maksymalna wysokość środków przekazanych z Funduszu Medycznego do Narodowego Funduszu Zdrowia na realizację zadania, o którym mowa w art. 31 ust. 1 ustawy zmienianej w art. 1, nie może być wyższa niż 840 mln zł rocznie.
 10. W 2025 r. zmiana planu finansowego Funduszu Medycznego powodująca zwiększenie planowanych kosztów i wydatków związanych z realizacją zadania, o którym mowa w art. 31 ust. 1 ustawy zmienianej w art. 1, nie wymaga zgody ministra właściwego do spraw finansów publicznych oraz opinii sejmowej komisji właściwej do spraw budżetu, o których mowa w art. 29 ust. 13 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r.
 poz. 1483).
-Art. 34–36. (pominięte)
 
 **Art. 4.** Ustawa wchodzi w życie z dniem 15 grudnia 2025 r., z wyjątkiem art. 1 pkt 1, 2, pkt 3 lit. a i b oraz pkt 4 i art. 2, które wchodzą w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 7 października 2020 r. o Funduszu Medycznym
 
@@ -47,9 +44,28 @@ Art. 34–36. (pominięte)
 
 **Art. 1.** Ustawa określa zasady:
 
+- **1)** działania Funduszu Medycznego, zwanego dalej „Funduszem”, oraz jego cele;
+- **2)** gromadzenia środków Funduszu;
+- **3)** udzielania finansowania i dofinansowania ze środków Funduszu.
+
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 
+- **1)** infrastrukturze strategicznej – rozumie się przez to infrastrukturę podmiotów leczniczych, o których mowa w art. 13 ust. 2, obejmującą w szczególności infrastrukturę niezbędną do udzielania świadczeń zdrowotnych lub wspierającą rozwój systemu kształcenia kadr medycznych;
+- **2)** podmiocie leczniczym – rozumie się przez to podmiot leczniczy, o którym mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156);
+- **3)** programie inwestycyjnym – rozumie się przez to finansowany ze środków subfunduszu infrastruktury strategicznej, subfunduszu modernizacji podmiotów leczniczych oraz subfunduszu infrastruktury na potrzeby obronne państwa program o okresie realizacji dłuższym niż rok;
+- **4)** projekcie strategicznym – rozumie się przez to projekt przyczyniający się do zwiększenia dostępności do świadczeń specjalistycznych, o których mowa w art. 5 pkt 36 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26 i 203), i świadczeń wysokospecjalistycznych, o których mowa w art. 5 pkt 39 tej ustawy, oraz wspierający rozwój systemu kształcenia kadr medycznych;
+- **5)** świadczeniobiorcy – rozumie się przez to świadczeniobiorcę, o którym mowa w art. 2 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **6)** świadczeniodawcy – rozumie się przez to świadczeniodawcę, o którym mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **7)** świadczeniu opieki zdrowotnej – rozumie się przez to świadczenie opieki zdrowotnej, o którym mowa w art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
 **Art. 3.** Celem Funduszu jest wsparcie działań zmierzających do poprawy zdrowia i jakości życia w Rzeczypospolitej Polskiej przez zapewnienie dodatkowych źródeł finansowania:
+
+- **1)** profilaktyki, wczesnego wykrywania, diagnostyki i leczenia chorób cywilizacyjnych, w tym chorób nowotworowych, chorób zakaźnych i chorób rzadkich;
+- **2)** infrastruktury ochrony zdrowia wpływającej na jakość i dostępność oraz bezpieczeństwo udzielanych świadczeń opieki zdrowotnej;
+- **3)** dostępu do wysokiej jakości świadczeń opieki zdrowotnej;
+- **4)** rozwoju systemu opieki zdrowotnej przez koncentrację działań wokół pacjenta i jego potrzeb, ze szczególnym uwzględnieniem poprawy jakości życia pacjentów i ich rodzin;
+- **5)** świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia;
+- **6)** świadczeń opieki zdrowotnej udzielanych świadczeniobiorcom poza granicami kraju.
 
 **Art. 4.** Minister właściwy do spraw zdrowia przeprowadza konkursy w sposób przejrzysty, rzetelny i bezstronny oraz zapewnia wnioskodawcom równy dostęp do informacji o warunkach i sposobie naboru oraz wyboru projektów.
 
@@ -81,7 +97,7 @@ Art. 34–36. (pominięte)
 - **3)** wysokość udzielonej dotacji;
 - **4)** termin wykorzystania dotacji, niedłuższy niż do dnia 31 grudnia danego roku budżetowego;
 - **5)** termin i sposób rozliczenia udzielonej dotacji;
-- **6)** termin zwrotu niewykorzystanej części dotacji, niedłuższy niż 15 dni od określonego w umowie dnia wykonania zadania, a w przypadku zadania realizowanego za granicą niedłuższy niż 30 dni od określonego w umowie dnia wykonania zadania;
+- **6)** termin zwrotu niewykorzystanej części dotacji, niedłuższy niż 15 dni od określonego w umowie dnia wykonania zadania, a w przypadku zadania realizowanego za granicą – niedłuższy niż 30 dni od określonego w umowie dnia wykonania zadania;
 - **7)** tryb kontroli wykonania zadania.
 
 7. W zakresie nieuregulowanym w ustawie do udzielania z Funduszu dotacji celowych i ich rozliczania stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846) właściwe dla dotacji udzielanych z budżetu państwa.
@@ -113,12 +129,33 @@ Art. 34–36. (pominięte)
 
 7. Na realizację zadań w ramach subfunduszy, o których mowa w ust. 4 pkt 1–3, dysponent Funduszu może zaciągać zobowiązania o charakterze wieloletnim do wysokości środków wynikających z:
 
-- **1)** programów inwestycyjnych w przypadku realizacji zadań w ramach subfunduszy, o których mowa w ust. 4 pkt 1, 2 i 5;
-- **2)** umów zawartych z Narodowym Funduszem Zdrowia, o których mowa w art. 30 ust. 12 zdanie pierwsze w przypadku realizacji zadań w ramach subfunduszu, o którym mowa w ust. 4 pkt 3.
+- **1)** programów inwestycyjnych – w przypadku realizacji zadań w ramach subfunduszy, o których mowa w ust. 4 pkt 1, 2 i 5;
+- **2)** umów zawartych z Narodowym Funduszem Zdrowia, o których mowa w art. 30 ust. 12 zdanie pierwsze – w przypadku realizacji zadań w ramach subfunduszu, o którym mowa w ust. 4 pkt 3.
 
 **Art. 7.** Fundusz gromadzi środki z przeznaczeniem na:
 
+- **1)** dofinansowanie zadania polegającego na budowie, przebudowie, modernizacji lub doposażeniu infrastruktury strategicznej w ramach subfunduszu infrastruktury strategicznej;
+- **2)** dofinansowanie zadania polegającego na budowie, modernizacji, przebudowie lub doposażeniu podmiotów leczniczych w ramach subfunduszu modernizacji podmiotów leczniczych;
+- **2a)** dofinansowanie zadania polegającego na wsparciu rozwoju innowacyjnych rozwiązań służących do udzielania świadczeń opieki zdrowotnej;
+- **2b)** dofinansowanie zadania polegającego na budowie, rozbudowie, modernizacji, przebudowie lub wyposażeniu podmiotów leczniczych w ramach subfunduszu infrastruktury na potrzeby obronne państwa;
+- **3)** finansowanie leków w ramach ratunkowego dostępu do technologii lekowych, o którym mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **3a)** finansowanie szczepionek do przeprowadzania zalecanych szczepień ochronnych w ramach Programu Szczepień Ochronnych, o którym mowa w art. 17 ust. 11 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26);
+- **4)** finansowanie technologii lekowej o wysokiej wartości klinicznej, o której mowa w art. 2 pkt 24a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2026 r. poz. 253) lub technologii lekowej o wysokim poziomie innowacyjności, o której mowa w art. 2 pkt 24b tej ustawy;
+- **5)** dofinansowanie zadania polegającego na zwiększaniu skuteczności programów zdrowotnych lub programów polityki zdrowotnej w ramach subfunduszu rozwoju profilaktyki;
+- **6)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia;
+- **7)** finansowanie świadczeń opieki zdrowotnej udzielanych świadczeniobiorcom poza granicami kraju;
+- **8)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia, związanych z diagnostyką genetyczną, zakwalifikowanych jako świadczenia gwarantowane z zakresów, o których mowa w art. 15 ust. 2 pkt 2 i 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **8a)** finansowanie świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia w zakresie leczenia chorób rzadkich w rozumieniu dyrektywy Parlamentu Europejskiego i Rady 2011/24/UE z dnia 9 marca 2011 r. w sprawie stosowania praw pacjentów w transgranicznej opiece zdrowotnej (Dz. Urz. UE L 88 z 04.04.2011, str. 45, z późn. zm. ), produktami leczniczymi terapii zaawansowanej, podawanymi jednorazowo w leczeniu szpitalnym, nieobjętych finansowaniem na podstawie art. 15 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **9)** dofinansowanie zadania polegającego na budowie, modernizacji, przebudowie lub doposażeniu centrów zdrowia 75+, o których mowa w ustawie z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej (Dz. U. z 2024 r. poz. 1666 i 1897 oraz z 2026 r. poz. 160), w ramach subfunduszu modernizacji podmiotów leczniczych;
+- **10)** finansowanie zadań związanych z poprawą jakości teleinformatycznej obsługi pacjentów.
+
 **Art. 8.** Przychodami Funduszu są:
+
+- **1)** wpływy z tytułu opłat, o których mowa w art. 95e ust. 6 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **2)** wpłaty z budżetu państwa przekazywane przez ministra właściwego do spraw zdrowia, w wysokości określonej corocznie w ustawie budżetowej na dany rok budżetowy, nieniższej niż 4,0 mld zł;
+- **3)** odsetki od zgromadzonych środków;
+- **4)** dobrowolne wpłaty, darowizny i zapisy;
+- **5)** wpływy z innych tytułów.
 
 **Art. 9.**
 
@@ -131,7 +168,7 @@ Art. 34–36. (pominięte)
 - **3)** dokonywanie, na podstawie informacji przekazanych przez ministra właściwego do spraw zdrowia, Narodowy Fundusz Zdrowia i Agencję Oceny Technologii Medycznych i Taryfikacji, corocznej analizy i oceny skuteczności finansowania przez Fundusz:
     - **a)** technologii lekowych,
     - **b)** świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia,
-    - **c)** świadczeń opieki zdrowotnej udzielanych świadczeniobiorcom poza granicami kraju pod względem poprawy ich dostępności i przygotowania rekomendacji na przyszłość;
+    - **c)** świadczeń opieki zdrowotnej udzielanych świadczeniobiorcom poza granicami kraju – pod względem poprawy ich dostępności i przygotowania rekomendacji na przyszłość;
 
 - **4)** dokonywanie, na podstawie informacji przekazanych przez ministra właściwego do spraw zdrowia, Narodowy Fundusz Zdrowia i Agencję Oceny Technologii Medycznych i Taryfikacji, corocznej analizy i oceny skuteczności finansowania przez Fundusz programów profilaktycznych pod względem zwiększenia ich skuteczności i przygotowania rekomendacji na przyszłość;
 - **5)** sporządzanie, na zlecenie ministra właściwego do spraw zdrowia, opinii na temat działalności Funduszu;
@@ -251,7 +288,7 @@ Art. 34–36. (pominięte)
 
 **Art. 17.** Do programów inwestycyjnych, o których mowa w art. 12 i art. 16 ust. 3, stosuje się odpowiednio przepisy wydane na podstawie art. 134 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-**Art. 18.** Do postępowania w zakresie konkursu, o którym mowa w art. 13 ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), z wyjątkiem przepisów dotyczących obliczania terminów oraz wyłączenia pracownika i organu.
+**Art. 18.** Do postępowania w zakresie konkursu, o którym mowa w art. 13 ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), z wyjątkiem przepisów dotyczących obliczania terminów oraz wyłączenia pracownika i organu.
 
 #### Rozdział 4 Subfundusz modernizacji podmiotów leczniczych
 
@@ -373,7 +410,7 @@ Art. 34–36. (pominięte)
 
 **Art. 26.** Wnioskodawcy nie przysługuje prawo wniesienia wniosku o dokonanie ponownej oceny wniosku o dofinansowanie w przypadku, gdy proponowany procent dofinansowania wniosku, o którym mowa w art. 25 ust. 3 pkt 7, wynosi 0.
 
-**Art. 27.** Do postępowania w zakresie konkursu, o którym mowa w art. 20 ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących obliczania terminów oraz wyłączenia pracownika i organu.
+**Art. 27.** Do postępowania w zakresie konkursu, o którym mowa w art. 20 ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów dotyczących obliczania terminów oraz wyłączenia pracownika i organu.
 
 #### Rozdział 4a Subfundusz infrastruktury na potrzeby obronne państwa
 
@@ -429,7 +466,7 @@ Art. 34–36. (pominięte)
 
 - **1)** uzyskania przez świadczeniodawcę pozytywnej opinii konsultanta krajowego w dziedzinie medycyny odpowiedniej ze względu na chorobę rzadką albo konsultanta wojewódzkiego w tej dziedzinie, która zawiera ocenę zasadności zastosowania produktu leczniczego terapii zaawansowanej u danej osoby, o której mowa w ust. 1, zawierającą w szczególności przedstawienie dowodów naukowych uprawdopodabniających przewagę kliniczną tego produktu leczniczego nad najlepszą dostępną terapią w ramach świadczeń gwarantowanych;
 - **2)** wyczerpania u danej osoby, o której mowa w ust. 1, wszystkich możliwych do zastosowania w chorobie rzadkiej dostępnych technologii medycznych finansowanych ze środków publicznych;
-- **3)** dopuszczenia do obrotu produktu leczniczego terapii zaawansowanej zgodnie z art. 3 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924, 1416, 1537 i 1795) lub pozostawania w obrocie na podstawie art. 29 ust. 5 lub 6 tej ustawy.
+- **3)** dopuszczenia do obrotu produktu leczniczego terapii zaawansowanej zgodnie z art. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924, 1416, 1537 i 1795) lub pozostawania w obrocie na podstawie art. 29 ust. 5 lub 6 tej ustawy.
 
 3. Prezes Narodowego Funduszu Zdrowia, w terminie do ostatniego dnia danego miesiąca kalendarzowego, składa do dysponenta Funduszu wniosek o przekazanie dotacji celowej, w wysokości odpowiadającej kwocie wydatkowanej przez Narodowy Fundusz Zdrowia w miesiącu poprzedzającym, na pokrycie kosztów świadczeń opieki zdrowotnej, o których mowa w ust. 1.
 
@@ -513,7 +550,7 @@ Art. 34–36. (pominięte)
 
 10. Rozliczenie przekazanych środków na dofinansowanie programu polityki zdrowotnej odbywa się na podstawie faktycznie poniesionych kosztów na realizację programu oraz przedstawionego Narodowemu Funduszowi Zdrowia sprawozdania z realizacji programu.
 
-11. Wnioskodawca w terminie 15 dni od dnia zakończenia realizacji programu polityki zdrowotnej, niepóźniej niż do dnia 15 stycznia roku kalendarzowego następującego po roku, w którym przekazano środki, albo w przypadku umowy wieloletniej po roku, w którym zakończono realizację umowy, przekazuje Narodowemu Funduszowi Zdrowia sprawozdanie z realizacji programu określające działania podjęte w ramach programu i koszty ich realizacji.
+11. Wnioskodawca w terminie 15 dni od dnia zakończenia realizacji programu polityki zdrowotnej, niepóźniej niż do dnia 15 stycznia roku kalendarzowego następującego po roku, w którym przekazano środki, albo w przypadku umowy wieloletniej – po roku, w którym zakończono realizację umowy, przekazuje Narodowemu Funduszowi Zdrowia sprawozdanie z realizacji programu określające działania podjęte w ramach programu i koszty ich realizacji.
 
 12. Przekazanie środków w ramach dofinansowania, o którym mowa w ust. 3, odbywa się na podstawie umowy zawartej przez Narodowy Fundusz Zdrowia z organem wykonawczym jednostki samorządu terytorialnego. Jednostka samorządu terytorialnego zwraca Narodowemu Funduszowi Zdrowia środki niewykorzystane lub wykorzystane niezgodnie z przeznaczeniem.
 
@@ -584,6 +621,8 @@ Art. 34–36. (pominięte)
 
 #### Rozdział 7 Zmiany w przepisach
 
+**Art. 34–36.** (pominięte)
+
 #### Rozdział 8 Przepisy dostosowujące i przejściowe oraz przepis końcowy
 
 **Art. 37.** Tworzy się Fundusz Medyczny.
@@ -592,16 +631,16 @@ Art. 34–36. (pominięte)
 
 1. Maksymalny limit wydatków z budżetu państwa będących skutkiem wejścia w życie niniejszej ustawy wynosi:
 
-- **1)** w 2020 r. 2,0 mld zł;
-- **2)** w 2021 r. 4,2 mld zł;
-- **3)** w 2022 r. 4,2 mld zł;
-- **4)** w 2023 r. 4,2 mld zł;
-- **5)** w 2024 r. 4,2 mld zł;
-- **6)** w 2025 r. 4,2 mld zł;
-- **7)** w 2026 r. 5,2 mld zł;
-- **8)** w 2027 r. 7,0 mld zł;
-- **9)** w 2028 r. 8,0 mld zł;
-- **10)** w 2029 r. 6,3 mld zł.
+- **1)** w 2020 r. – 2,0 mld zł;
+- **2)** w 2021 r. – 4,2 mld zł;
+- **3)** w 2022 r. – 4,2 mld zł;
+- **4)** w 2023 r. – 4,2 mld zł;
+- **5)** w 2024 r. – 4,2 mld zł;
+- **6)** w 2025 r. – 4,2 mld zł;
+- **7)** w 2026 r. – 5,2 mld zł;
+- **8)** w 2027 r. – 7,0 mld zł;
+- **9)** w 2028 r. – 8,0 mld zł;
+- **10)** w 2029 r. – 6,3 mld zł.
 
 2. Minister właściwy do spraw zdrowia monitoruje wykorzystanie limitów wydatków, o których mowa w ust. 1.
 
@@ -613,11 +652,11 @@ Art. 34–36. (pominięte)
 
 1. Przygotowanie przez Agencję Oceny Technologii Medycznych i Taryfikacji pierwszego wykazu technologii lekowych o wysokim poziomie innowacyjności, o którym mowa w art. 40a ust. 2 ustawy zmienianej w art. 36 , i przedstawienie go ministrowi właściwemu do spraw zdrowia nastąpi niepóźniej niż w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Pierwszy wykaz, o którym mowa w ust. 1, zawiera leki dopuszczone do obrotu w procedurze centralnej w Unii Europejskiej, o których mowa w art. 3 ust. 2 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944 i 1493), od dnia 1 stycznia 2020 r.
+2. Pierwszy wykaz, o którym mowa w ust. 1, zawiera leki dopuszczone do obrotu w procedurze centralnej w Unii Europejskiej, o których mowa w art. 3 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944 i 1493), od dnia 1 stycznia 2020 r.
 
 3. Agencja Oceny Technologii Medycznych i Taryfikacji przygotuje wykaz technologii lekowych o wysokiej wartości klinicznej, o którym mowa w art. 40a ust. 8 ustawy zmienianej w art. 36 , i przedstawi go ministrowi właściwemu do spraw zdrowia, w terminie 9 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-4. Wykaz, o którym mowa w ust. 3, zawiera leki dopuszczone do obrotu w procedurze centralnej w Unii Europejskiej, o których mowa w art. 3 ust. 2 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, od dnia 1 stycznia 2017 r.
+4. Wykaz, o którym mowa w ust. 3, zawiera leki dopuszczone do obrotu w procedurze centralnej w Unii Europejskiej, o których mowa w art. 3 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, od dnia 1 stycznia 2017 r.
 
 **Art. 40.**
 

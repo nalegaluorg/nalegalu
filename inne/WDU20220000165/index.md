@@ -27,9 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie badań psychologicznych osób ubiegających się o uprawnienia do kierowania pojazdami, kierowców oraz osób wykonujących pracę na stanowisku kierowcy
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 8 lipca 2014 r. w sprawie badań psychologicznych osób ubiegających się o uprawnienia do kierowania pojazdami, kierowców oraz osób wykonujących pracę na stanowisku kierowcy (Dz. U. poz. 937), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 3 lipca 2019 r. zmieniającym rozporządzenie w sprawie badań psychologicznych osób ubiegających się o uprawnienia do kierowania pojazdami, kierowców oraz osób wykonujących pracę na stanowisku kierowcy (Dz. U. poz. 1294).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 3 lipca 2019 r. zmieniającego rozporządzenie w sprawie badań psychologicznych osób ubiegających się o uprawnienia do kierowania pojazdami, kierowców oraz osób wykonujących pracę na stanowisku kierowcy (Dz. U. poz. 1294), które stanowią: „§ 2. Orzeczenia psychologiczne wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 lipca 2014 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 3 lipca 2019 r. zmieniającego rozporządzenie w sprawie badań psychologicznych osób ubiegających się o uprawnienia do kierowania pojazdami, kierowców oraz osób wykonujących pracę na stanowisku kierowcy (Dz. U. poz. 1294), które stanowią: „ § 2. Orzeczenia psychologiczne wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność przez okres, na jaki zostały wydane. § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 lipca 2014 r.
 w sprawie badań psychologicznych osób ubiegających się o uprawnienia do kierowania pojazdami, kierowców oraz osób wykonujących pracę na stanowisku kierowcy Na podstawie art. 90 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, 1997, 2269, 2328 i 2490) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) szczegółowe warunki, tryb, zakres i sposób przeprowadzania badań psychologicznych w zakresie psychologii transportu i wydawania orzeczeń psychologicznych;
@@ -95,7 +94,9 @@ b) ewidencji uprawnionych psychologów – wynosi 40 zł.
 2. Orzeczenia psychologiczne wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
 § 15. Pracownie psychologiczne, w których prowadzone są badania psychologiczne w zakresie psychologii transportu, mają obowiązek dostosować działalność do wymagań określonych w rozporządzeniu do dnia 31 grudnia 2015 r.
 § 16. Rozporządzenie wchodzi w życie z dniem 20 lipca 2014 r.
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 lipca 2014 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 lipca 2014 r.
+
 WZÓR Załącznik nr 1 WZÓR …………………………………………… ORZECZENIE PSYCHOLOGICZNE NR ...
 W wyniku badania psychologicznego przeprowadzonego na podstawie:
 a) art. 82 ust. 1 pkt 1 lit. a/ lit. b/ lit. c/ pkt 2/ pkt 3/ pkt 4 lit. a/ lit. b/ lit. c/ pkt 5** ,

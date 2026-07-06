@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju w sprawie wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju z dnia 11 lipca 2016 r. w sprawie wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych (Dz. U. poz. 1036), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Rozwoju i Finansów z dnia 27 września 2017 r. zmieniającym rozporządzenie w sprawie wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych (Dz. U. poz. 1882).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 27 września 2017 r. zmieniającego rozporządzenie w sprawie wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych (Dz. U. poz. 1882), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Przedsiębiorczości i Technologii: J. Emilewicz ROZPORZĄDZENIE MINISTRA ROZWOJU z dnia 11 lipca 2016 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 27 września 2017 r. zmieniającego rozporządzenie w sprawie wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych (Dz. U. poz. 1882), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Przedsiębiorczości i Technologii: J. Emilewicz
+ROZPORZĄDZENIE MINISTRA ROZWOJU z dnia 11 lipca 2016 r.
 w sprawie wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2017 r.
 poz. 1398 oraz z 2018 r. poz. 650 i 1338) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

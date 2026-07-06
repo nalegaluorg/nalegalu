@@ -27,8 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym (Dz. U. z 2017 r.
 poz. 2070), z uwzględnieniem zmian wprowadzonych ustawą z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 kwietnia 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 9 i art. 11 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581), które stanowią: „Art. 9. Do postępowań dotyczących roszczeń, o których mowa w art. 12 ust. 1 ustawy zmienianej w art. 5, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 12 ust. 1 ustawy zmienianej w art. 5 w brzmieniu nadanym niniejszą ustawą.” „Art. 11. Ustawa wchodzi w życie z dniem 1 stycznia 2023 r.”.
-Marszałek Sejmu: E. Witek
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 9 i art. 11 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581), które stanowią: „ Art. 9. Do postępowań dotyczących roszczeń, o których mowa w art. 12 ust. 1 ustawy zmienianej w art. 5, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 12 ust. 1 ustawy zmienianej w art. 5 w brzmieniu nadanym niniejszą ustawą.” „Art. 11. Ustawa wchodzi w życie z dniem 1 stycznia 2023 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 23 sierpnia 2007 r.
 o przeciwdziałaniu nieuczciwym praktykom rynkowym
 

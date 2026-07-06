@@ -8,12 +8,12 @@ pos: 592
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o podatku dochodowym od osób fizycznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podatku dochodowym od osób fizycznych
 
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.*
+*USTAWA z dnia 26 lipca 1991 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,76 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-04-17 |
 | Data wydania | 2026-04-30 |
-| Ostatnia zmiana | 2026-04-30 |
+| Ostatnia zmiana | 2026-06-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/592/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163), z uwzględnieniem stanu prawnego na dzień 1 kwietnia 2026 r. oraz zmian wprowadzonych:
-1) ustawą z dnia 20 lutego 2025 r. o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (Dz. U. poz. 340);
-2) ustawą z dnia 7 marca 2025 r. o unijnej sieci danych dotyczących poziomu zrównoważenia gospodarstw rolnych (FSDN) (Dz. U. poz. 368);
-3) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620);
-4) ustawą z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680);
-5) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych (Dz. U. poz. 1022);
-6) ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych (Dz. U. poz. 1180);
-7) ustawą z dnia 12 września 2025 r. o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301);
-8) ustawą z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej (Dz. U. poz. 1302);
-9) ustawą z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366);
-10) ustawą z dnia 7 listopada 2025 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych (Dz. U. poz. 1817);
-11) ustawą z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795);
-12) ustawą z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw (Dz. U. poz. 1804);
-13) ustawą z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U.
-poz. 1823);
-14) ustawą z dnia 21 listopada 2025 r. o zmianie ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1838);
-15) ustawą z dnia 21 listopada 2025 r. o zmianie ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 1858);
-16) ustawą z dnia 4 grudnia 2025 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw (Dz. U. poz. 1822);
-17) ustawą z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203);
-18) ustawą z dnia 13 lutego 2026 r. o zmianie ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 424).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 9 ustawy z dnia 20 lutego 2025 r. o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (Dz. U. poz. 340), który stanowi: „Art. 9. Ustawa wchodzi w życie z dniem 1 kwietnia 2025 r., z wyjątkiem art. 2–4 i art. 8, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
-2) art. 30 ustawy z dnia 7 marca 2025 r. o unijnej sieci danych dotyczących poziomu zrównoważenia gospodarstw rolnych (FSDN) (Dz. U. poz. 368), który stanowi: „Art. 30. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
-4) art. 38 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (Dz. U. poz. 680), który stanowi: „Art. 38. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 6 oraz art. 23, które wchodzą w życie po upływie 21 dni od dnia ogłoszenia.”;
-5) art. 4 i art. 5 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych (Dz. U. poz. 1022), które stanowią: „Art. 4. Przepisy art. 21 ust. 5c pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 17 ust. 6 pkt 1 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się do zezwoleń i decyzji o wsparciu, których cofnięcie lub uchylenie następuje po dniu 31 grudnia 2025 r.
-Art. 23zf. 1. Podmioty powiązane:
-1) obowiązane do sporządzania lokalnej dokumentacji cen transferowych w zakresie transakcji objętych tym obowiązkiem lub
-2) realizujące transakcje kontrolowane określone w art. 23z pkt 1–2 lub 9–11 składają naczelnikowi urzędu skarbowego właściwemu dla podatnika, w terminie do końca jedenastego miesiąca po zakończeniu roku podatkowego, informację o cenach transferowych za rok podatkowy, sporządzoną według wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-1a. W przypadku spółki niebędącej osobą prawną informacja o cenach transferowych jest składana naczelnikowi urzędu skarbowego właściwemu według:
-1) miejsca prowadzenia działalności;
-2) miejsca siedziby w przypadku prowadzenia działalności w więcej niż jednym miejscu;
-3) miejsca zamieszkania lub siedziby jednego ze wspólników w przypadku gdy nie jest możliwe ustalenie właściwości na podstawie pkt 1 i 2.
-1b. Informacja o cenach transferowych jest składana za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.
-2. Informacja o cenach transferowych zawiera:
-1) wskazanie organu, do którego jest składana, cel złożenia informacji i okres, za jaki jest składana;
-2) dane identyfikacyjne podmiotu;
-3) ogólne informacje finansowe podmiotu;
-4) informacje dotyczące podmiotów powiązanych i transakcji kontrolowanych;
-5) informacje dotyczące stosowanych cen transferowych oraz metod ich weryfikacji;
-6) dodatkowe informacje lub wyjaśnienia dotyczące danych lub informacji, o których mowa w pkt 2–5;
-7) oświadczenie podmiotu o tym, że lokalna dokumentacja cen transferowych została sporządzona zgodnie ze stanem rzeczywistym, a ceny transferowe objęte tą dokumentacją są ustalane na warunkach, które ustaliłyby między sobą podmioty niepowiązane.
-2a. Informacja o cenach transferowych jest sporządzana na podstawie:
-1) lokalnej dokumentacji cen transferowych w przypadku gdy podmiot powiązany był obowiązany do sporządzenia tej dokumentacji;
-2) sprawozdania finansowego lub innych dokumentów w przypadku gdy podmiot powiązany nie był obowiązany do sporządzenia tej dokumentacji.
-2b. Na potrzeby oświadczenia, o którym mowa w ust. 2 pkt 7, w przypadku otrzymania nieodpłatnie lub częściowo odpłatnie rzeczy lub praw, lub innych świadczeń w naturze stanowiących przychód, ceny transferowe uważa się za ustalone na warunkach, które ustaliłyby między sobą podmioty niepowiązane, jeżeli przychód ten został dla celów podatkowych wykazany zgodnie z zasadą ceny rynkowej.
-3. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 23za ust. 1, w zakresie transakcji wskazanych w tym przepisie. Przepis ust. 2 stosuje się odpowiednio.
-4. W przypadku transakcji kontrolowanych, o których mowa w art. 23z pkt 1–2 i 9–11, w informacji o cenach transferowych nie uwzględnia się informacji oraz oświadczenia, o których mowa w ust. 2 pkt 3 i 5–7.
-5. Informacja o cenach transferowych jest podpisywana przez:
-1) osobę fizyczną w przypadku podmiotu powiązanego będącego osobą fizyczną,
-2) osobę upoważnioną przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale w przypadku podmiotu powiązanego będącego przedsiębiorcą zagranicznym posiadającym oddział działający na terytorium Rzeczypospolitej Polskiej,
-3) kierownika jednostki w rozumieniu art. 3 ust. 1 pkt 6 ustawy o rachunkowości, a w przypadku gdy jednostką kieruje organ wieloosobowy przez wyznaczoną osobę wchodzącą w skład tego organu przy czym nie jest dopuszczalne podpisanie tej informacji przez pełnomocnika, z wyjątkiem pełnomocnika będącego adwokatem, radcą prawnym, doradcą podatkowym lub biegłym rewidentem.
-5a. Wyznaczenie osoby wchodzącej w skład organu wieloosobowego do podpisywania informacji o cenach transferowych nie zwalnia pozostałych osób wchodzących w skład tego organu z odpowiedzialności za niezłożenie tej informacji.
-6. Informacja o cenach transferowych jest wykorzystywana w celu analizy ryzyka zaniżenia dochodu do opodatkowania w zakresie cen transferowych oraz do innych analiz ekonomicznych lub statystycznych.
-7. (uchylony)
-8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych i informacji oraz treść oświadczenia zawartych w informacji o cenach transferowych, wraz z objaśnieniami co do sposobu jej sporządzenia, uwzględniając konieczność zapewnienia dokonywania prawidłowej analizy ryzyka zaniżenia dochodu do opodatkowania w obszarze cen transferowych oraz innych analiz ekonomicznych lub statystycznych.
-Art. 46–51. (pominięte)
-
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
-
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 1 pkt 3 w zakresie art. 22j ust. 12 oraz art. 2 pkt 3 w zakresie art. 16j ust. 12, które wchodzą w życie z dniem ogłoszenia.”;
-
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
-
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych
 
 #### Rozdział 1 Podmiot i przedmiot opodatkowania
 
@@ -127,10 +59,10 @@ Art. 46–51. (pominięte)
 
 2. Działalnością rolniczą, w rozumieniu ust. 1 pkt 1, jest działalność polegająca na wytwarzaniu produktów roślinnych lub zwierzęcych w stanie nieprzetworzonym (naturalnym) z własnych upraw albo hodowli lub chowu, w tym również produkcja materiału siewnego, szkółkarskiego, hodowlanego oraz reprodukcyjnego, produkcja warzywnicza gruntowa, szklarniowa i pod folią, produkcja roślin ozdobnych, grzybów uprawnych i sadownicza, hodowla i produkcja materiału zarodowego zwierząt, ptactwa i owadów użytkowych, produkcja zwierzęca typu przemysłowo-fermowego oraz hodowla ryb, a także działalność, w której minimalne okresy przetrzymywania zakupionych zwierząt i roślin, w trakcie których następuje ich biologiczny wzrost, wynoszą co najmniej:
 
-- **1)** miesiąc w przypadku roślin,
-- **2)** 16 dni w przypadku wysokointensywnego tuczu specjalizowanego gęsi lub kaczek,
-- **3)** 6 tygodni w przypadku pozostałego drobiu rzeźnego,
-- **4)** 2 miesiące w przypadku pozostałych zwierząt licząc od dnia nabycia.
+- **1)** miesiąc – w przypadku roślin,
+- **2)** 16 dni – w przypadku wysokointensywnego tuczu specjalizowanego gęsi lub kaczek,
+- **3)** 6 tygodni – w przypadku pozostałego drobiu rzeźnego,
+- **4)** 2 miesiące – w przypadku pozostałych zwierząt – licząc od dnia nabycia.
 
 3. Działami specjalnymi produkcji rolnej są: uprawy w szklarniach i ogrzewanych tunelach foliowych, uprawy grzybów i ich grzybni, uprawy roślin „in vitro”, fermowa hodowla i chów drobiu rzeźnego i nieśnego, wylęgarnie drobiu, hodowla i chów zwierząt futerkowych i laboratoryjnych, hodowla dżdżownic, hodowla entomofagów, hodowla jedwabników, prowadzenie pasiek oraz hodowla i chów innych zwierząt poza gospodarstwem rolnym.
 
@@ -161,7 +93,7 @@ Art. 46–51. (pominięte)
 - **4)** położonej na terytorium Rzeczypospolitej Polskiej nieruchomości lub praw do takiej nieruchomości, w tym ze zbycia jej w całości albo w części lub zbycia jakichkolwiek praw do takiej nieruchomości;
 - **5)** papierów wartościowych oraz pochodnych instrumentów finansowych niebędących papierami wartościowymi, dopuszczonych do publicznego obrotu na terytorium Rzeczypospolitej Polskiej w ramach regulowanego rynku giełdowego, w tym uzyskane ze zbycia tych papierów albo instrumentów oraz z realizacji praw z nich wynikających;
 - **5a)** umorzenia, odkupienia, wykupienia i unicestwienia w inny sposób tytułów uczestnictwa w funduszach kapitałowych utworzonych na podstawie przepisów obowiązujących w Rzeczypospolitej Polskiej oraz odpłatnego zbycia tych tytułów uczestnictwa;
-- **6)** tytułu przeniesienia własności udziałów (akcji) w spółce, ogółu praw i obowiązków w spółce niebędącej osobą prawną lub tytułów uczestnictwa w funduszu inwestycyjnym, instytucji wspólnego inwestowania lub innej osobie prawnej i praw o podobnym charakterze lub z tytułu należności będących następstwem posiadania tych udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw jeżeli co najmniej 50 % wartości aktywów tej spółki, spółki niebędącej osobą prawną, tego funduszu inwestycyjnego, tej instytucji wspólnego inwestowania lub osoby prawnej, bezpośrednio lub pośrednio, stanowią nieruchomości położone na terytorium Rzeczypospolitej Polskiej lub prawa do takich nieruchomości;
+- **6)** tytułu przeniesienia własności udziałów (akcji) w spółce, ogółu praw i obowiązków w spółce niebędącej osobą prawną lub tytułów uczestnictwa w funduszu inwestycyjnym, instytucji wspólnego inwestowania lub innej osobie prawnej i praw o podobnym charakterze lub z tytułu należności będących następstwem posiadania tych udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw – jeżeli co najmniej 50 % wartości aktywów tej spółki, spółki niebędącej osobą prawną, tego funduszu inwestycyjnego, tej instytucji wspólnego inwestowania lub osoby prawnej, bezpośrednio lub pośrednio, stanowią nieruchomości położone na terytorium Rzeczypospolitej Polskiej lub prawa do takich nieruchomości;
 - **6a)** tytułu przeniesienia własności udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw o podobnym charakterze w spółce nieruchomościowej;
 - **7)** tytułu należności regulowanych, w tym stawianych do dyspozycji, wypłacanych lub potrącanych, przez osoby fizyczne, osoby prawne albo jednostki organizacyjne nieposiadające osobowości prawnej, mające miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, niezależnie od miejsca zawarcia umowy i wykonania świadczenia;
 - **8)** niezrealizowanych zysków, o których mowa w art. 30da.
@@ -184,6 +116,112 @@ Art. 46–51. (pominięte)
 
 **Art. 5a.** Ilekroć w ustawie jest mowa o:
 
+- **1)** inwestycjach – oznacza to środki trwałe w budowie w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), zwanej dalej „ustawą o rachunkowości”;
+- **2)** składnikach majątkowych – oznacza to aktywa w rozumieniu ustawy o rachunkowości pomniejszone o przejęte długi funkcjonalnie związane z prowadzoną działalnością gospodarczą zbywcy, o ile długi te nie zostały uwzględnione w cenie nabycia, o której mowa w art. 22g ust. 3;
+- **3)** przedsiębiorstwie – oznacza to przedsiębiorstwo w rozumieniu przepisów Kodeksu cywilnego;
+- **4)** zorganizowanej części przedsiębiorstwa – oznacza to organizacyjnie i finansowo wyodrębniony w istniejącym przedsiębiorstwie zespół składników materialnych i niematerialnych, w tym zobowiązania, przeznaczonych do realizacji określonych zadań gospodarczych, który zarazem mógłby stanowić niezależne przedsiębiorstwo samodzielnie realizujące te zadania;
+- **5)** Ordynacji podatkowej – oznacza to ustawę z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. );
+- **6)** działalności gospodarczej albo pozarolniczej działalności gospodarczej – oznacza to działalność zarobkową:
+    - **a)** wytwórczą, budowlaną, handlową, usługową,
+    - **b)** polegającą na poszukiwaniu, rozpoznawaniu i wydobywaniu kopalin ze złóż,
+    - **c)** polegającą na wykorzystywaniu rzeczy oraz wartości niematerialnych i prawnych – prowadzoną we własnym imieniu bez względu na jej rezultat, w sposób zorganizowany i ciągły, z której uzyskane przychody nie są zaliczane do innych przychodów ze źródeł wymienionych w art. 10 ust. 1 pkt 1, 2 i 4–9;
+
+- **7)** ustawie o rehabilitacji zawodowej – rozumie się przez to ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26);
+- **8)** urzędzie skarbowym – oznacza to urząd skarbowy, przy pomocy którego odpowiednio właściwy dla podatnika lub płatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
+- **9)** (uchylony)
+- **10)** (uchylony)
+- **11)** papierach wartościowych – oznacza to papiery wartościowe, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. );
+- **12)** dyskoncie – oznacza to różnicę między kwotą uzyskaną z wykupu papieru wartościowego przez emitenta a wydatkami poniesionymi na nabycie papieru wartościowego na rynku pierwotnym lub wtórnym, a w przypadku nabycia papieru wartościowego w drodze spadku lub darowizny – różnicę między kwotą uzyskaną z wykupu a wydatkami poniesionymi przez spadkodawcę lub darczyńcę na nabycie tego papieru wartościowego;
+- **13)** pochodnych instrumentach finansowych – oznacza to instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c–i ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **14)** funduszach kapitałowych – oznacza to fundusze inwestycyjne oraz fundusze zagraniczne, o których mowa w przepisach o funduszach inwestycyjnych, oraz ubezpieczeniowe fundusze kapitałowe działające na podstawie przepisów o działalności ubezpieczeniowej i reasekuracyjnej, z wyjątkiem funduszy emerytalnych, o których mowa w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **14a)** alternatywnej spółce inwestycyjnej – oznacza to alternatywną spółkę inwestycyjną, o której mowa w art. 8a ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176);
+- **15)** ustawie o zryczałtowanym podatku dochodowym – oznacza to ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2025 r. poz. 843);
+- **16)** ustawie o działalności pożytku publicznego – oznacza to ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338);
+- **17)** ustawie o podatku od towarów i usług – oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811);
+- **18)** ustawie o partnerstwie publiczno-prywatnym – oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz. 426);
+- **18a)** ustawie o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków – oznacza to ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2025 r. poz. 1419 i 1847);
+- **18b)** budynku mieszkalnym jednorodzinnym – oznacza to budynek mieszkalny jednorodzinny w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847);
+- **18c)** przedsięwzięciu termomodernizacyjnym – oznacza to przedsięwzięcie termomodernizacyjne w rozumieniu art. 2 pkt 2 ustawy o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków;
+- **19)** (uchylony) 19a) samochodzie osobowym – oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu niewięcej niż 9 osób łącznie z kierowcą, z wyjątkiem:
+    - **a)** pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: – klasyfikowanego na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub – z otwartą częścią przeznaczoną do przewozu ładunków,
+    - **b)** pojazdu samochodowego, który posiada kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu,
+    - **c)** pojazdu specjalnego, jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym, i jeżeli spełnione są również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: – agregat elektryczny/spawalniczy, – do prac wiertniczych, – koparka, koparko-spycharka, – ładowarka, – podnośnik do prac konserwacyjno-montażowych, – żuraw samochodowy,
+    - **d)** pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług;
+
+- **20)** małym podatniku – oznacza to podatnika, u którego wartość przychodu ze sprzedaży (wraz z kwotą należnego podatku od towarów i usług) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 2 000 000 euro, a w przypadku przedsiębiorstwa w spadku również przychodu ze sprzedaży u zmarłego przedsiębiorcy; przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października poprzedniego roku podatkowego, w zaokrągleniu do 1000 zł;
+- **21)** certyfikacie rezydencji – oznacza to zaświadczenie o miejscu zamieszkania podatnika dla celów podatkowych wydane przez właściwy organ administracji podatkowej państwa miejsca zamieszkania podatnika;
+- **22)** zagranicznym zakładzie – oznacza to:
+    - **a)** stałą placówkę, poprzez którą podmiot mający miejsce zamieszkania na terytorium jednego państwa wykonuje całkowicie lub częściowo działalność na terytorium innego państwa, a w szczególności oddział, przedstawicielstwo, biuro, fabrykę, warsztat albo miejsce wydobywania bogactw naturalnych,
+    - **b)** plac budowy, budowę, montaż lub instalację, prowadzone na terytorium jednego państwa przez podmiot mający miejsce zamieszkania na terytorium innego państwa,
+    - **c)** osobę, która w imieniu i na rzecz podmiotu mającego miejsce zamieszkania na terytorium jednego państwa działa na terytorium innego państwa, jeżeli osoba ta ma pełnomocnictwo do zawierania w jego imieniu umów i pełnomocnictwo to faktycznie wykonuje – chyba że umowa o unikaniu podwójnego opodatkowania, której stroną jest Rzeczpospolita Polska, stanowi inaczej;
+
+- **23)** ustawie o emeryturach kapitałowych – oznacza to ustawę z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926);
+- **23a)** umowie o pomocy przy zbiorach – oznacza to umowę o pomocy przy zbiorach, o której mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2025 r. poz. 1770);
+- **24)** PKWiU – oznacza to Polską Klasyfikację Wyrobów i Usług wprowadzoną rozporządzeniem Rady Ministrów z dnia 4 września 2015 r. w sprawie Polskiej Klasyfikacji Wyrobów i Usług (PKWiU) (Dz. U. poz. 1676, z 2017 r. poz. 2453, z 2018 r. poz. 2440, z 2019 r. poz. 2554 oraz z 2020 r. poz. 556) ;
+- **25)** oznaczeniu „ex” – oznacza to, że zakres wymienionych wyrobów lub usług jest węższy niż określony w podanym grupowaniu PKWiU;
+- **26)** spółce niebędącej osobą prawną – oznacza to spółkę inną niż określona w pkt 28;
+- **27)** rachunku zbiorczym – oznacza to rachunek zbiorczy w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **28)** spółce – oznacza to:
+    - **a)** spółkę posiadającą osobowość prawną, w tym także spółkę zawiązaną na podstawie rozporządzenia Rady (WE) nr 2157/2001 z dnia 8 października 2001 r. w sprawie statutu spółki europejskiej (SE) (Dz. Urz. WE L 294 z 10.11.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 4, str. 251),
+    - **b)** spółkę kapitałową w organizacji,
+    - **c)** spółkę komandytową i spółkę komandytowo-akcyjną mające siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
+    - **d)** spółkę niemającą osobowości prawnej mającą siedzibę lub zarząd w innym państwie, jeżeli zgodnie z przepisami prawa podatkowego tego innego państwa jest traktowana jak osoba prawna i podlega w tym państwie opodatkowaniu od całości swoich dochodów bez względu na miejsce ich osiągania,
+    - **e)** spółkę jawną będącą podatnikiem podatku dochodowego od osób prawnych;
+
+- **29)** udziale (akcji) – oznacza to również ogół praw i obowiązków wspólnika w spółce, o której mowa w pkt 28 lit. c–e;
+- **29a)** wartości emisyjnej udziałów (akcji) – oznacza to cenę, po jakiej obejmowane są udziały (akcje), określoną w statucie lub umowie spółki, a w razie ich braku – w innym dokumencie o podobnym charakterze, nieniższą od wartości rynkowej tych udziałów (akcji);
+- **30)** kapitale zakładowym – oznacza to również kapitał akcyjny prostej spółki akcyjnej oraz kapitał podstawowy spółki, o której mowa w pkt 28 lit. c–e;
+- **31)** udziale w zyskach osób prawnych – oznacza to również udział w zyskach spółek, o których mowa w pkt 28 lit. c–e;
+- **31a)** udziale w kapitale – oznacza to również stosunek liczby akcji przysługujących akcjonariuszowi prostej spółki akcyjnej do liczby wszystkich akcji wyemitowanych w prostej spółce akcyjnej;
+- **31b)** wartości nominalnej udziałów (akcji) – oznacza to również cenę emisyjną akcji prostej spółki akcyjnej;
+- **32)** objęciu udziału (akcji) – oznacza to również uzyskanie przez wspólnika spółki, o której mowa w pkt 28 lit. c–e, ogółu praw i obowiązków wspólnika w tej spółce;
+- **33)** wspólniku – oznacza to również akcjonariusza;
+- **33a)** walucie wirtualnej – oznacza to walutę wirtualną w rozumieniu art. 2 ust. 2 pkt 26 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- **33b)** ustawie o podatku dochodowym od osób prawnych – oznacza to ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, z późn. zm. );
+- **33c)** ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu – oznacza to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2025 r. poz. 644 i 1669);
+- **33d)** rzeczywistym właścicielu – oznacza to podmiot, który spełnia łącznie następujące warunki:
+    - **a)** otrzymuje należność dla własnej korzyści, w tym decyduje samodzielnie o jej przeznaczeniu i ponosi ryzyko ekonomiczne związane z utratą tej należności lub jej części,
+    - **b)** nie jest pośrednikiem, przedstawicielem, powiernikiem lub innym podmiotem zobowiązanym do przekazania całości lub części należności innemu podmiotowi,
+    - **c)** prowadzi rzeczywistą działalność gospodarczą w kraju miejsca zamieszkania, jeżeli należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą, przy czym przy ocenie, czy podmiot prowadzi rzeczywistą działalność gospodarczą, uwzględnia się charakter oraz skalę działalności prowadzonej przez ten podmiot w zakresie otrzymanej należności;
+
+- **34)** komercjalizowanej własności intelektualnej – oznacza to:
+    - **a)** patent, dodatkowe prawo ochronne na wynalazek, prawo ochronne na wzór użytkowy, prawo z rejestracji wzoru przemysłowego lub prawo z rejestracji topografii układu scalonego oraz prawo do uzyskania powyższych praw lub prawo z pierwszeństwa – określone w ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170),
+    - **b)** autorskie prawa majątkowe do programu komputerowego,
+    - **c)** równowartość udokumentowanej wiedzy (informacji) nadającej się do wykorzystania w działalności przemysłowej, naukowej lub handlowej (know-how),
+    - **d)** prawa do korzystania z praw lub wartości wymienionych w lit. a–c na podstawie umowy licencyjnej;
+
+- **35)** podmiocie komercjalizującym – oznacza to twórcę uprawnionego do praw lub wartości wymienionych w pkt 34 lit. a–c, a także zawarcia umowy licencyjnej, o której mowa w pkt 34 lit. d, jeżeli wnosi do spółki kapitałowej komercjalizowaną własność intelektualną;
+- **36)** krótkiej sprzedaży – oznacza to krótką sprzedaż w rozumieniu art. 2 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1);
+- **37)** postępowaniu restrukturyzacyjnym – oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428, z 2025 r. poz. 1085, 1170 i 1172 oraz z 2026 r. poz. 176);
+- **38)** działalności badawczo-rozwojowej – oznacza to działalność twórczą obejmującą badania naukowe lub prace rozwojowe, podejmowaną w sposób systematyczny w celu zwiększenia zasobów wiedzy oraz wykorzystania zasobów wiedzy do tworzenia nowych zastosowań;
+- **39)** badaniach naukowych – oznacza to: poz. 1571, z późn. zm. ),
+    - **a)** badania podstawowe w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r.
+    - **b)** badania aplikacyjne w rozumieniu art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+
+- **40)** pracach rozwojowych – oznacza to prace rozwojowe w rozumieniu art. 4 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **41)** przepisach o systemie oświaty – oznacza to przepisy ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019 oraz z 2026 r. poz. 203 i 319), przepisy ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837 oraz z 2026 r. poz. 187 i 203) lub przepisy ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2025 r. poz. 439 i 1792 oraz z 2026 r. poz. 34 i 319);
+- **42)** ustawie o CEIDG – oznacza to ustawę z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2026 r. poz. 30);
+- **43)** przedsiębiorstwie w spadku – oznacza to przedsiębiorstwo w spadku w rozumieniu ustawy o zarządzie sukcesyjnym;
+- **44)** zarządzie sukcesyjnym – oznacza to zarząd sukcesyjny w rozumieniu ustawy o zarządzie sukcesyjnym;
+- **45)** zmarłym przedsiębiorcy – oznacza to zmarłego przedsiębiorcę, o którym mowa w art. 1 pkt 1 ustawy o zarządzie sukcesyjnym;
+- **46)** ustawie o pracowniczych planach kapitałowych – oznacza to ustawę z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2026 r. poz. 192);
+- **47)** ustawie o przeciwdziałaniu nadmiernym opóźnieniom – oznacza to ustawę z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790);
+- **47a)** marynarzu – oznacza to marynarza w rozumieniu ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2026 r. poz. 102);
+- **48)** żegludze międzynarodowej – oznacza to żeglugę między:
+    - **a)** portami polskimi a portami zagranicznymi, w tym także między portami polskimi, pod warunkiem że żegluga między portami polskimi jest częścią podróży morskiej do portu zagranicznego,
+    - **b)** portami polskimi a miejscami przeznaczenia położonymi poza granicą polskiego morza terytorialnego,
+    - **c)** portami zagranicznymi,
+    - **d)** miejscami przeznaczenia położonymi poza granicą polskiego morza terytorialnego,
+    - **e)** portami zagranicznymi a miejscami przeznaczenia położonymi poza granicą polskiego morza terytorialnego;
+
+- **49)** spółce nieruchomościowej – oznacza to podmiot inny niż osoba fizyczna, obowiązany do sporządzania bilansu na podstawie przepisów o rachunkowości, w którym:
+    - **a)** na pierwszy dzień roku podatkowego, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego – na pierwszy dzień roku obrotowego, co najmniej 50 % wartości rynkowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość rynkowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości oraz wartość rynkowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego pierwszy dzień roku podatkowego – w przypadku podmiotów rozpoczynających działalność,
+    - **b)** na ostatni dzień roku poprzedzającego rok podatkowy, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego – na ostatni dzień roku poprzedzającego rok obrotowy, co najmniej 50 % wartości bilansowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość bilansowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości i wartość bilansowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego ostatni dzień roku podatkowego poprzedzającego odpowiednio rok podatkowy albo rok obrotowy oraz w roku poprzedzającym odpowiednio rok podatkowy albo rok obrotowy przychody podatkowe, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego – przychody ujęte w wyniku finansowym netto, z tytułu najmu, podnajmu, dzierżawy, poddzierżawy, leasingu i innych umów o podobnym charakterze lub z przeniesienia własności, których przedmiotem są nieruchomości lub prawa do nieruchomości, o których mowa w art. 3 ust. 2b pkt 6, oraz z tytułu udziałów w innych spółkach nieruchomościowych, stanowiły co najmniej 60 % ogółu odpowiednio przychodów podatkowych albo przychodów ujętych w wyniku finansowym netto – w przypadku podmiotów innych niż określone w lit. a;
+
+- **50)** fundacji rodzinnej – oznacza to fundację rodzinną oraz fundację rodzinną w organizacji, o których mowa w ustawie z dnia 26 stycznia 2023 r. o fundacji rodzinnej (Dz. U. poz. 326 i 825);
+- **51)** ustawie o OIPE – oznacza to ustawę z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843);
+- **52)** rozporządzeniu 2019/1238 – oznacza to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1).
+
 **Art. 5b.**
 
 1. Za pozarolniczą działalność gospodarczą nie uznaje się czynności, jeżeli łącznie spełnione są następujące warunki:
@@ -198,6 +236,9 @@ Art. 46–51. (pominięte)
 
 **Art. 5d.** Spełnienie wymagań dla pojazdów samochodowych określonych w:
 
+- **1)** art. 5a pkt 19a lit. a i b stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań;
+- **2)** art. 5a pkt 19a lit. c stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym.
+
 **Art. 6.**
 
 1. Małżonkowie podlegają odrębnemu opodatkowaniu od osiąganych przez nich dochodów.
@@ -205,7 +246,7 @@ Art. 46–51. (pominięte)
 2. Małżonkowie podlegający obowiązkowi podatkowemu, o którym mowa w art. 3 ust. 1, pozostający w związku małżeńskim i we wspólności majątkowej:
 
 - **1)** przez cały rok podatkowy albo
-- **2)** od dnia zawarcia związku małżeńskiego do ostatniego dnia roku podatkowego w przypadku gdy związek małżeński został zawarty w trakcie roku podatkowego mogą być, z zastrzeżeniem ust. 8, na wspólny wniosek wyrażony w zeznaniu podatkowym, opodatkowani łącznie od sumy swoich dochodów określonych zgodnie z art. 9 ust. 1 i 1a, po uprzednim odliczeniu, odrębnie przez każdego z małżonków, kwot pomniejszających dochód; w tym przypadku podatek określa się na imię obojga małżonków w podwójnej wysokości podatku obliczonego od połowy łącznych dochodów małżonków.
+- **2)** od dnia zawarcia związku małżeńskiego do ostatniego dnia roku podatkowego – w przypadku gdy związek małżeński został zawarty w trakcie roku podatkowego – mogą być, z zastrzeżeniem ust. 8, na wspólny wniosek wyrażony w zeznaniu podatkowym, opodatkowani łącznie od sumy swoich dochodów określonych zgodnie z art. 9 ust. 1 i 1a, po uprzednim odliczeniu, odrębnie przez każdego z małżonków, kwot pomniejszających dochód; w tym przypadku podatek określa się na imię obojga małżonków w podwójnej wysokości podatku obliczonego od połowy łącznych dochodów małżonków.
 
 2a. Wniosek, o którym mowa w ust. 2, może być wyrażony przez jednego z małżonków. Wyrażenie wniosku przez jednego z małżonków traktuje się na równi ze złożeniem przez niego oświadczenia o upoważnieniu go przez jego współmałżonka do złożenia wniosku o łączne opodatkowanie ich dochodów. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za fałszywe zeznania.
 
@@ -214,20 +255,20 @@ Art. 46–51. (pominięte)
 3a. Zasady i sposób opodatkowania, o których mowa w ust. 2 i 3, mają zastosowanie również do:
 
 - **1)** małżonków, którzy mają miejsce zamieszkania dla celów podatkowych w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego albo w Konfederacji Szwajcarskiej,
-- **2)** małżonków, z których jeden podlega nieograniczonemu obowiązkowi podatkowemu w Rzeczypospolitej Polskiej a drugi ma miejsce zamieszkania dla celów podatkowych w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego albo w Konfederacji Szwajcarskiej jeżeli osiągnęli podlegające opodatkowaniu na terytorium Rzeczypospolitej Polskiej przychody w wysokości stanowiącej łącznie co najmniej 75 % całkowitego przychodu osiągniętego przez oboje małżonków w danym roku podatkowym i udokumentowali certyfikatem rezydencji miejsce zamieszkania dla celów podatkowych; przepis ust. 8 stosuje się odpowiednio.
+- **2)** małżonków, z których jeden podlega nieograniczonemu obowiązkowi podatkowemu w Rzeczypospolitej Polskiej a drugi ma miejsce zamieszkania dla celów podatkowych w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego albo w Konfederacji Szwajcarskiej – jeżeli osiągnęli podlegające opodatkowaniu na terytorium Rzeczypospolitej Polskiej przychody w wysokości stanowiącej łącznie co najmniej 75 % całkowitego przychodu osiągniętego przez oboje małżonków w danym roku podatkowym i udokumentowali certyfikatem rezydencji miejsce zamieszkania dla celów podatkowych; przepis ust. 8 stosuje się odpowiednio.
 
 4. (uchylony) 4a. (uchylony) 4b. (uchylony) 4c. Od dochodów jednego rodzica lub opiekuna prawnego, podlegającego obowiązkowi podatkowemu, o którym mowa w art. 3 ust. 1, będącego panną, kawalerem, wdową, wdowcem, rozwódką, rozwodnikiem, osobą, w stosunku do której orzeczono separację w rozumieniu odrębnych przepisów, lub osobą, której małżonek został pozbawiony praw rodzicielskich lub odbywa karę pozbawienia wolności, jeżeli ten rodzic lub opiekun w roku podatkowym samotnie wychowuje dzieci:
 
 - **1)** małoletnie,
 - **2)** pełnoletnie, które zgodnie z odrębnymi przepisami otrzymywały zasiłek (dodatek) pielęgnacyjny lub rentę socjalną,
-- **3)** pełnoletnie do ukończenia 25. roku życia, uczące się w szkołach, o których mowa w przepisach regulujących system oświatowy lub szkolnictwo wyższe, obowiązujących w Rzeczypospolitej Polskiej oraz w innym państwie podatek może być określony zgodnie z ust. 4d na wniosek wyrażony w rocznym zeznaniu podatkowym.
+- **3)** pełnoletnie do ukończenia 25. roku życia, uczące się w szkołach, o których mowa w przepisach regulujących system oświatowy lub szkolnictwo wyższe, obowiązujących w Rzeczypospolitej Polskiej oraz w innym państwie – podatek może być określony zgodnie z ust. 4d na wniosek wyrażony w rocznym zeznaniu podatkowym.
 
 4d. W przypadku, o którym mowa w ust. 4c, podatek jest określany w podwójnej wysokości podatku obliczonego od połowy dochodów osoby samotnie wychowującej dzieci, z uwzględnieniem art. 7, przy czym do sumy tych dochodów nie wlicza się dochodów (przychodów) opodatkowanych w sposób zryczałtowany na zasadach określonych w niniejszej ustawie.
 
 4e. Przepisu ust. 4c pkt 3 nie stosuje się, jeżeli dziecko, o którym mowa w tym przepisie, uzyskało w roku podatkowym:
 
 - **1)** dochody, z wyjątkiem renty rodzinnej, podlegające opodatkowaniu na zasadach określonych w art. 27 lub art. 30b lub
-- **2)** przychody, o których mowa w art. 21 ust. 1 pkt 148 i 152 w łącznej wysokości przekraczającej dwunastokrotność kwoty renty socjalnej określonej w ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2026 r. poz. 377), w wysokości obowiązującej w grudniu roku podatkowego.
+- **2)** przychody, o których mowa w art. 21 ust. 1 pkt 148 i 152 – w łącznej wysokości przekraczającej dwunastokrotność kwoty renty socjalnej określonej w ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. z 2026 r. poz. 377), w wysokości obowiązującej w grudniu roku podatkowego.
 
 4f. Sposób opodatkowania, o którym mowa w ust. 4d, nie ma zastosowania do osoby, która wychowuje wspólnie z drugim rodzicem albo opiekunem prawnym co najmniej jedno dziecko, w tym również gdy dziecko jest pod opieką naprzemienną, w związku z którą obydwojgu rodzicom zostało ustalone świadczenie wychowawcze zgodnie z art. 5 ust. 2a ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576, z 2025 r. poz. 619 i 1301 oraz z 2026 r. poz. 203).
 
@@ -249,7 +290,7 @@ Art. 46–51. (pominięte)
 
 - **1)** stosuje przepisy:
     - **a)** art. 30c lub
-    - **b)** ustawy o zryczałtowanym podatku dochodowym, z wyjątkiem art. 6 ust. 1a tej ustawy w zakresie osiągniętych w roku podatkowym przychodów, poniesionych kosztów uzyskania przychodów, zobowiązania lub uprawnienia do zwiększania lub pomniejszenia podstawy opodatkowania albo przychodów, zobowiązania lub uprawnienia do dokonywania innych doliczeń lub odliczeń;
+    - **b)** ustawy o zryczałtowanym podatku dochodowym, z wyjątkiem art. 6 ust. 1a tej ustawy – w zakresie osiągniętych w roku podatkowym przychodów, poniesionych kosztów uzyskania przychodów, zobowiązania lub uprawnienia do zwiększania lub pomniejszenia podstawy opodatkowania albo przychodów, zobowiązania lub uprawnienia do dokonywania innych doliczeń lub odliczeń;
 
 - **2)** podlega opodatkowaniu na zasadach wynikających z ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym lub ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych.
 
@@ -291,7 +332,7 @@ Art. 46–51. (pominięte)
 3. Równoznaczne z likwidacją działalności gospodarczej jest wygaśnięcie:
 
 - **1)** zarządu sukcesyjnego albo
-- **2)** uprawnienia do powołania zarządcy sukcesyjnego w przypadku gdy zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników.
+- **2)** uprawnienia do powołania zarządcy sukcesyjnego – w przypadku gdy zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników.
 
 4. Przychodami przedsiębiorstwa w spadku są wszystkie przychody związane z działalnością prowadzoną przez to przedsiębiorstwo, w tym w formie spółki cywilnej. Do przychodów zalicza się również przychody z odpłatnego zbycia składników majątku wchodzących w skład przedsiębiorstwa w spadku, niezależnie od tego, kiedy zostały nabyte przez zmarłego przedsiębiorcę, z wyłączeniem składników, których wartość początkowa ustalona zgodnie z art. 22g nie przekracza 1500 zł. W tym przypadku przepisu art. 14 ust. 2c nie stosuje się.
 
@@ -332,9 +373,9 @@ Art. 46–51. (pominięte)
 
 1. Opodatkowaniu podatkiem dochodowym podlegają wszelkiego rodzaju dochody, z wyjątkiem dochodów wymienionych w art. 21, 52, 52a i 52c oraz dochodów, od których na podstawie przepisów Ordynacji podatkowej zaniechano poboru podatku.
 
-1a. Jeżeli podatnik uzyskuje dochody z więcej niż jednego źródła, przedmiotem opodatkowania w danym roku podatkowym jest, z zastrzeżeniem art. 25e, art. 29–30cb, art. 30da–30dh, art. 30e–30g, art. 30j–30p oraz art. 44 ust. 7e i 7f, suma dochodów z wszystkich źródeł przychodów.
+1a. Jeżeli podatnik uzyskuje dochody z więcej niż jednego źródła, przedmiotem opodatkowania w danym roku podatkowym jest, z zastrzeżeniem art. 25e, art. 29– 30cb, art. 30da–30dh, art. 30e–30g, art. 30j–30p oraz art. 44 ust. 7e i 7f, suma dochodów z wszystkich źródeł przychodów.
 
-2. Dochodem ze źródła przychodów, jeżeli przepisy art. 23o, art. 23u, art. 24–24b, art. 24c, art. 24e, art. 30ca, art. 30da oraz art. 30f nie stanowią inaczej, jest nadwyżka sumy przychodów z tego źródła nad kosztami ich uzyskania osiągnięta w roku podatkowym. Jeżeli koszty uzyskania przekraczają sumę przychodów, różnica jest stratą ze źródła przychodów.
+2. Dochodem ze źródła przychodów, jeżeli przepisy art. 23o, art. 23u, art. 24– 24b, art. 24c, art. 24e, art. 30ca, art. 30da oraz art. 30f nie stanowią inaczej, jest nadwyżka sumy przychodów z tego źródła nad kosztami ich uzyskania osiągnięta w roku podatkowym. Jeżeli koszty uzyskania przekraczają sumę przychodów, różnica jest stratą ze źródła przychodów.
 
 3. O wysokość straty ze źródła przychodów, poniesionej w roku podatkowym, podatnik może:
 
@@ -379,14 +420,14 @@ Art. 46–51. (pominięte)
 3. Jeżeli podatnik, który wybrał sposób opodatkowania, o którym mowa w ust. 2, uzyska z działalności gospodarczej prowadzonej samodzielnie lub z tytułu prawa do udziału w zysku spółki niebędącej osobą prawną przychody ze świadczenia usług na rzecz byłego lub obecnego pracodawcy, odpowiadających czynnościom, które podatnik lub co najmniej jeden ze wspólników:
 
 - **1)** (uchylony)
-- **2)** wykonywał lub wykonuje w roku podatkowym w ramach stosunku pracy lub spółdzielczego stosunku pracy, podatnik ten traci w roku podatkowym prawo do opodatkowania w sposób określony w art. 30c i jest obowiązany do wpłacenia zaliczek od dochodu osiągniętego od początku roku, obliczonych przy zastosowaniu skali podatkowej, o której mowa w art. 27 ust. 1, oraz odsetek za zwłokę od zaległości z tytułu tych zaliczek.
+- **2)** wykonywał lub wykonuje w roku podatkowym – w ramach stosunku pracy lub spółdzielczego stosunku pracy, podatnik ten traci w roku podatkowym prawo do opodatkowania w sposób określony w art. 30c i jest obowiązany do wpłacenia zaliczek od dochodu osiągniętego od początku roku, obliczonych przy zastosowaniu skali podatkowej, o której mowa w art. 27 ust. 1, oraz odsetek za zwłokę od zaległości z tytułu tych zaliczek.
 
 4. (uchylony) 4a. Jeżeli dochody zmarłego przedsiębiorcy w roku podatkowym, w którym zmarł, były opodatkowane w sposób, o którym mowa w ust. 2, przedsiębiorstwo w spadku jest obowiązane stosować ten sposób opodatkowania do końca tego roku podatkowego.
 
 5. Jeżeli podatnik:
 
 - **1)** prowadzi działalność gospodarczą samodzielnie i jest wspólnikiem spółki niebędącej osobą prawną,
-- **2)** jest wspólnikiem spółki niebędącej osobą prawną wybór sposobu opodatkowania, o którym mowa w ust. 2, dotyczy wszystkich form prowadzenia tej działalności, do których mają zastosowanie przepisy ustawy.
+- **2)** jest wspólnikiem spółki niebędącej osobą prawną – wybór sposobu opodatkowania, o którym mowa w ust. 2, dotyczy wszystkich form prowadzenia tej działalności, do których mają zastosowanie przepisy ustawy.
 
 6. Dochody osiągane przez podatników ze źródła, o którym mowa w art. 10 ust. 1 pkt 6, są opodatkowane w formie ryczałtu od przychodów ewidencjonowanych, na zasadach określonych w ustawie o zryczałtowanym podatku dochodowym.
 
@@ -413,7 +454,7 @@ Art. 46–51. (pominięte)
     - **a)** nieruchomości lub ich części oraz udziału w nieruchomości,
     - **b)** spółdzielczego własnościowego prawa do lokalu mieszkalnego lub użytkowego oraz prawa do domu jednorodzinnego w spółdzielni mieszkaniowej,
     - **c)** prawa wieczystego użytkowania gruntów,
-    - **d)** innych rzeczy, jeżeli odpłatne zbycie nie następuje w wykonaniu działalności gospodarczej i zostało dokonane w przypadku odpłatnego zbycia nieruchomości i praw majątkowych określonych w lit. a–c przed upływem pięciu lat, licząc od końca roku kalendarzowego, w którym nastąpiło nabycie lub wybudowanie, a innych rzeczy przed upływem pół roku, licząc od końca miesiąca, w którym nastąpiło nabycie; w przypadku zamiany okresy te odnoszą się do każdej z osób dokonującej zamiany;
+    - **d)** innych rzeczy, – jeżeli odpłatne zbycie nie następuje w wykonaniu działalności gospodarczej i zostało dokonane w przypadku odpłatnego zbycia nieruchomości i praw majątkowych określonych w lit. a–c – przed upływem pięciu lat, licząc od końca roku kalendarzowego, w którym nastąpiło nabycie lub wybudowanie, a innych rzeczy – przed upływem pół roku, licząc od końca miesiąca, w którym nastąpiło nabycie; w przypadku zamiany okresy te odnoszą się do każdej z osób dokonującej zamiany;
 
 - **8a)** działalność prowadzona przez zagraniczną jednostkę kontrolowaną;
 - **8b)** niezrealizowane zyski, o których mowa w art. 30da;
@@ -421,7 +462,7 @@ Art. 46–51. (pominięte)
 
 2. Przepisów ust. 1 pkt 8 nie stosuje się do odpłatnego zbycia:
 
-- **1)** na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu do czasu ostatecznego przeniesienia własności przedmiotu umowy;
+- **1)** na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu – do czasu ostatecznego przeniesienia własności przedmiotu umowy;
 - **2)** w formie wniesienia wkładu niepieniężnego do spółki lub spółdzielni środków obrotowych, środków trwałych lub wartości niematerialnych i prawnych;
 - **3)** składników majątku, o których mowa w art. 14 ust. 2 pkt 1, z zastrzeżeniem ust. 3, nawet jeżeli przed zbyciem zostały wycofane z działalności gospodarczej, a między pierwszym dniem miesiąca następującego po miesiącu, w którym składniki majątku zostały wycofane z działalności i dniem ich odpłatnego zbycia, nie upłynęło 6 lat;
 - **4)** składników, o których mowa w art. 14 ust. 2 pkt 19, nawet jeżeli przed zbyciem zostały wycofane z działalności gospodarczej, a między pierwszym dniem miesiąca następującego po miesiącu, w którym składniki te zostały wycofane z działalności gospodarczej, i dniem ich odpłatnego zbycia nie upłynęło 6 lat.
@@ -432,7 +473,7 @@ Art. 46–51. (pominięte)
 
 5. W przypadku odpłatnego zbycia, nabytych w drodze spadku, nieruchomości lub praw majątkowych, określonych w ust. 1 pkt 8 lit. a–c, okres, o którym mowa w tym przepisie, liczy się od końca roku kalendarzowego, w którym nastąpiło nabycie lub wybudowanie tej nieruchomości lub nabycie prawa majątkowego przez spadkodawcę.
 
-6. W przypadku odpłatnego zbycia po ustaniu wspólności majątkowej małżeńskiej, nabytych do majątku wspólnego małżonków lub wybudowanych w trakcie trwania wspólności majątkowej małżeńskiej nieruchomości lub nabytych do majątku wspólnego małżonków praw majątkowych, określonych w ust. 1 pkt 8 lit. a–c, okres, o którym mowa w tym przepisie, liczy się od końca roku kalendarzowego, w którym nastąpiło ich nabycie do majątku wspólnego małżonków lub ich wybudowanie w trakcie trwania wspólności majątkowej małżeńskiej.
+6. W przypadku odpłatnego zbycia po ustaniu wspólności majątkowej małżeńskiej, nabytych do majątku wspólnego małżonków lub wybudowanych w trakcie trwania wspólności majątkowej małżeńskiej nieruchomości lub nabytych do majątku wspólnego małżonków praw majątkowych, określonych w ust. 1 pkt 8 lit. a– c, okres, o którym mowa w tym przepisie, liczy się od końca roku kalendarzowego, w którym nastąpiło ich nabycie do majątku wspólnego małżonków lub ich wybudowanie w trakcie trwania wspólności majątkowej małżeńskiej.
 
 7. Nie stanowi nabycia albo odpłatnego zbycia, o których mowa w ust. 1 pkt 8 lit. a–c, odpowiednio nabycie albo odpłatne zbycie, w drodze działu spadku, nieruchomości lub praw majątkowych, określonych w ust. 1 pkt 8 lit. a–c, do wysokości przysługującego podatnikowi udziału w spadku.
 
@@ -446,10 +487,10 @@ Art. 46–51. (pominięte)
 
 2a. Wartość pieniężną innych nieodpłatnych świadczeń ustala się:
 
-- **1)** jeżeli przedmiotem świadczenia są usługi wchodzące w zakres działalności gospodarczej dokonującego świadczenia według cen stosowanych wobec innych odbiorców;
-- **2)** jeżeli przedmiotem świadczeń są usługi zakupione według cen zakupu;
-- **3)** jeżeli przedmiotem świadczeń jest udostępnienie lokalu lub budynku według równowartości czynszu, jaki przysługiwałby w razie zawarcia umowy najmu tego lokalu lub budynku;
-- **4)** w pozostałych przypadkach na podstawie cen rynkowych stosowanych przy świadczeniu usług lub udostępnianiu rzeczy lub praw tego samego rodzaju i gatunku, z uwzględnieniem w szczególności ich stanu i stopnia zużycia oraz czasu i miejsca udostępnienia.
+- **1)** jeżeli przedmiotem świadczenia są usługi wchodzące w zakres działalności gospodarczej dokonującego świadczenia – według cen stosowanych wobec innych odbiorców;
+- **2)** jeżeli przedmiotem świadczeń są usługi zakupione – według cen zakupu;
+- **3)** jeżeli przedmiotem świadczeń jest udostępnienie lokalu lub budynku – według równowartości czynszu, jaki przysługiwałby w razie zawarcia umowy najmu tego lokalu lub budynku;
+- **4)** w pozostałych przypadkach – na podstawie cen rynkowych stosowanych przy świadczeniu usług lub udostępnianiu rzeczy lub praw tego samego rodzaju i gatunku, z uwzględnieniem w szczególności ich stanu i stopnia zużycia oraz czasu i miejsca udostępnienia.
 
 2b. Jeżeli świadczenia są częściowo odpłatne, przychodem podatnika jest różnica pomiędzy wartością tych świadczeń, ustaloną według zasad określonych w ust. 2 lub 2a, a odpłatnością ponoszoną przez podatnika.
 
@@ -471,15 +512,15 @@ Art. 46–51. (pominięte)
 
 1. Za przychody ze stosunku służbowego, stosunku pracy, pracy nakładczej oraz spółdzielczego stosunku pracy uważa się wszelkiego rodzaju wypłaty pieniężne oraz wartość pieniężną świadczeń w naturze bądź ich ekwiwalenty, bez względu na źródło finansowania tych wypłat i świadczeń, a w szczególności: wynagrodzenia zasadnicze, wynagrodzenia za godziny nadliczbowe, różnego rodzaju dodatki, nagrody, ekwiwalenty za niewykorzystany urlop i wszelkie inne kwoty niezależnie od tego, czy ich wysokość została z góry ustalona, a ponadto świadczenia pieniężne ponoszone za pracownika, jak również wartość innych nieodpłatnych świadczeń lub świadczeń częściowo odpłatnych.
 
-2. Wartość pieniężną świadczeń w naturze przysługujących pracownikom na podstawie odrębnych przepisów ustala się według przeciętnych cen stosowanych wobec innych odbiorców jeżeli przedmiotem świadczenia są rzeczy lub usługi wchodzące w zakres działalności pracodawcy.
+2. Wartość pieniężną świadczeń w naturze przysługujących pracownikom na podstawie odrębnych przepisów ustala się według przeciętnych cen stosowanych wobec innych odbiorców – jeżeli przedmiotem świadczenia są rzeczy lub usługi wchodzące w zakres działalności pracodawcy.
 
 2a. Wartość pieniężną nieodpłatnego świadczenia przysługującego pracownikowi z tytułu wykorzystywania samochodu służbowego do celów prywatnych ustala się w wysokości:
 
-- **1)** 250 zł miesięcznie dla samochodów:
+- **1)** 250 zł miesięcznie – dla samochodów: z 2024 r. poz. 1289, 1853 i 1881) lub pojazd napędzany wodorem w rozumieniu art. 2 pkt 15 tej ustawy;
     - **a)** o mocy silnika do 60 kW,
-    - **b)** stanowiących pojazd elektryczny w rozumieniu art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289, 1853 i 1881) lub pojazd napędzany wodorem w rozumieniu art. 2 pkt 15 tej ustawy;
+    - **b)** stanowiących pojazd elektryczny w rozumieniu art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U.
 
-- **2)** 400 zł miesięcznie dla samochodów innych niż wymienione w pkt 1.
+- **2)** 400 zł miesięcznie – dla samochodów innych niż wymienione w pkt 1.
 
 2b. W przypadku wykorzystywania samochodu służbowego do celów prywatnych przez część miesiąca wartość świadczenia ustala się za każdy dzień wykorzystywania samochodu do celów prywatnych w wysokości 1/30 kwot określonych w ust. 2a.
 
@@ -500,6 +541,21 @@ Art. 46–51. (pominięte)
 8. (uchylony)
 
 **Art. 13.** Za przychody z działalności wykonywanej osobiście, o której mowa w art. 10 ust. 1 pkt 2, uważa się:
+
+- **1)** (uchylony)
+- **2)** przychody z osobiście wykonywanej działalności artystycznej, literackiej, naukowej, trenerskiej, oświatowej i publicystycznej, w tym z tytułu udziału w konkursach z dziedziny nauki, kultury i sztuki oraz dziennikarstwa, przychody z tytułu udziału w badaniach i eksperymentach prowadzonych przez podmioty tworzące system szkolnictwa wyższego i nauki, jak również przychody z uprawiania sportu, stypendia sportowe przyznawane na podstawie odrębnych przepisów oraz przychody sędziów z tytułu prowadzenia zawodów sportowych;
+- **3)** przychody z działalności duchownych, osiągane z innego tytułu niż umowa o pracę;
+- **4)** przychody z działalności polskich arbitrów uczestniczących w procesach arbitrażowych z partnerami zagranicznymi;
+- **5)** przychody otrzymywane przez osoby wykonujące czynności związane z pełnieniem obowiązków społecznych lub obywatelskich, bez względu na sposób powoływania tych osób, nie wyłączając odszkodowania za utracony zarobek, z wyjątkiem przychodów, o których mowa w pkt 7;
+- **6)** przychody osób, którym organ władzy lub administracji państwowej albo samorządowej, sąd lub prokurator, na podstawie właściwych przepisów, zlecił wykonanie określonych czynności, a zwłaszcza przychody biegłych w postępowaniu sądowym, dochodzeniowym i administracyjnym oraz płatników, z zastrzeżeniem art. 14 ust. 2 pkt 10, i inkasentów należności publicznoprawnych, a także przychody z tytułu udziału w komisjach powoływanych przez organy władzy lub administracji państwowej albo samorządowej, z wyjątkiem przychodów, o których mowa w pkt 9;
+- **7)** przychody otrzymywane przez osoby, niezależnie od sposobu ich powoływania, należące do składu zarządów, rad nadzorczych, komisji lub innych organów stanowiących osób prawnych;
+- **7a)** przychody otrzymywane przez członków Rady Mediów Narodowych;
+- **8)** przychody z tytułu wykonywania usług, na podstawie umowy zlecenia lub umowy o dzieło, uzyskiwane wyłącznie od:
+    - **a)** osoby fizycznej prowadzącej działalność gospodarczą, osoby prawnej i jej jednostki organizacyjnej oraz jednostki organizacyjnej niemającej osobowości prawnej,
+    - **b)** właściciela (posiadacza) nieruchomości, w której lokale są wynajmowane, lub działającego w jego imieniu zarządcy albo administratora – jeżeli podatnik wykonuje te usługi wyłącznie dla potrzeb związanych z tą nieruchomością,
+    - **c)** przedsiębiorstwa w spadku – z wyjątkiem przychodów uzyskanych na podstawie umów zawieranych w ramach prowadzonej przez podatnika pozarolniczej działalności gospodarczej oraz przychodów, o których mowa w pkt 9;
+
+- **9)** przychody uzyskane na podstawie umów o zarządzanie przedsiębiorstwem, kontraktów menedżerskich lub umów o podobnym charakterze, w tym przychody z tego rodzaju umów zawieranych w ramach prowadzonej przez podatnika pozarolniczej działalności gospodarczej – z wyjątkiem przychodów, o których mowa w pkt 7.
 
 **Art. 14.**
 
@@ -539,7 +595,7 @@ Art. 46–51. (pominięte)
     - **a)** środkami trwałymi albo wartościami niematerialnymi i prawnymi, podlegającymi ujęciu w ewidencji środków trwałych oraz wartości niematerialnych i prawnych,
     - **b)** składnikami majątku, o których mowa w art. 22d ust. 1, z wyłączeniem składników, których wartość początkowa ustalona zgodnie z art. 22g nie przekracza 1500 zł,
     - **c)** składnikami majątku, które ze względu na przewidywany okres używania równy lub krótszy niż rok nie zostały zaliczone do środków trwałych albo wartości niematerialnych i prawnych,
-    - **d)** składnikami majątku stanowiącymi spółdzielcze prawo do lokalu użytkowego lub udział w takim prawie, które zgodnie z art. 22n ust. 3 nie podlegają ujęciu w ewidencji środków trwałych oraz wartości niematerialnych i prawnych wykorzystywanych na potrzeby związane z działalnością gospodarczą lub przy prowadzeniu działów specjalnych produkcji rolnej, z zastrzeżeniem ust. 2c; przy określaniu wysokości przychodów przepisy ust. 1 i art. 19 stosuje się odpowiednio;
+    - **d)** składnikami majątku stanowiącymi spółdzielcze prawo do lokalu użytkowego lub udział w takim prawie, które zgodnie z art. 22n ust. 3 nie podlegają ujęciu w ewidencji środków trwałych oraz wartości niematerialnych i prawnych – wykorzystywanych na potrzeby związane z działalnością gospodarczą lub przy prowadzeniu działów specjalnych produkcji rolnej, z zastrzeżeniem ust. 2c; przy określaniu wysokości przychodów przepisy ust. 1 i art. 19 stosuje się odpowiednio;
 
 - **2)** dotacje, subwencje, dopłaty, z zastrzeżeniem ust. 3 pkt 13 i ust. 9, i inne nieodpłatne świadczenia otrzymane na pokrycie kosztów albo jako zwrot wydatków, z wyjątkiem gdy przychody te są związane z otrzymaniem, zakupem albo wytworzeniem we własnym zakresie środków trwałych lub wartości niematerialnych i prawnych, od których, zgodnie z art. 22a–22o, dokonuje się odpisów amortyzacyjnych;
 - **3)** różnice kursowe;
@@ -550,15 +606,15 @@ Art. 46–51. (pominięte)
 - **7a)** wartość zwróconych wierzytelności wynikających z umowy, o której mowa w art. 23f, zaliczonych uprzednio do kosztów uzyskania przychodów na podstawie art. 23h;
 - **7b)** wartość należności umorzonych, przedawnionych lub odpisanych jako nieściągalne w tej części, od której dokonane odpisy aktualizujące zostały uprzednio zaliczone do kosztów uzyskania przychodów;
 - **7c)** równowartość odpisów aktualizujących wartość należności, uprzednio zaliczonych do kosztów uzyskania przychodów, w przypadku ustania przyczyn, dla których dokonano tych odpisów; 7ca) przychody z odpłatnego zbycia wierzytelności dotyczącej prowadzonej działalności gospodarczej, w tym w sposób określony w art. 17 ust. 1 pkt 9, w wysokości jej wartości wyrażonej w cenie określonej w umowie; w tym przypadku przepisy pkt 7b, 7c i 7e stosuje się odpowiednio;
-- **7d)** w przypadku obniżenia lub zwrotu podatku od towarów i usług lub zwrotu podatku akcyzowego zgodnie z odrębnymi przepisami naliczony podatek od towarów i usług lub zwrócony podatek akcyzowy, w tej części, w której podatek uprzednio został zaliczony do kosztów uzyskania przychodów;
+- **7d)** w przypadku obniżenia lub zwrotu podatku od towarów i usług lub zwrotu podatku akcyzowego zgodnie z odrębnymi przepisami – naliczony podatek od towarów i usług lub zwrócony podatek akcyzowy, w tej części, w której podatek uprzednio został zaliczony do kosztów uzyskania przychodów;
 - **7e)** równowartość rozwiązanych lub zmniejszonych rezerw, o których mowa w art. 23 ust. 1 pkt 22, zaliczonych uprzednio do kosztów uzyskania przychodów;
 - **7f)** kwota podatku od towarów i usług:
-    - **a)** nieuwzględniona w wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, podlegających amortyzacji zgodnie z art. 22a–22o, lub
-    - **b)** dotycząca innych rzeczy lub praw niebędących środkami trwałymi lub wartościami niematerialnymi i prawnymi, o których mowa w lit. a w tej części, w jakiej dokonano korekty powodującej zwiększenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług;
+    - **a)** nieuwzględniona w wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, podlegających amortyzacji zgodnie z art. 22a– 22o, lub
+    - **b)** dotycząca innych rzeczy lub praw niebędących środkami trwałymi lub wartościami niematerialnymi i prawnymi, o których mowa w lit. a – w tej części, w jakiej dokonano korekty powodującej zwiększenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług;
 
 - **7g)** przychody osiągnięte w związku ze zwrotem lub otrzymaniem pożyczki (kredytu), jeżeli pożyczka (kredyt) była waloryzowana kursem waluty obcej, w przypadku gdy:
-    - **a)** pożyczkodawca (kredytodawca) otrzymuje środki pieniężne stanowiące spłatę kapitału w wysokości wyższej od kwoty udzielonej pożyczki (kredytu) w wysokości różnicy pomiędzy kwotą zwróconego kapitału a kwotą udzielonej pożyczki (kredytu),
-    - **b)** pożyczkobiorca (kredytobiorca) zwraca tytułem spłaty pożyczki (kredytu) środki pieniężne stanowiące spłatę kapitału w wysokości niższej od kwoty otrzymanej pożyczki (kredytu) w wysokości różnicy pomiędzy kwotą otrzymanej pożyczki (kredytu) a kwotą zwróconego kapitału;
+    - **a)** pożyczkodawca (kredytodawca) otrzymuje środki pieniężne stanowiące spłatę kapitału w wysokości wyższej od kwoty udzielonej pożyczki (kredytu) – w wysokości różnicy pomiędzy kwotą zwróconego kapitału a kwotą udzielonej pożyczki (kredytu),
+    - **b)** pożyczkobiorca (kredytobiorca) zwraca tytułem spłaty pożyczki (kredytu) środki pieniężne stanowiące spłatę kapitału w wysokości niższej od kwoty otrzymanej pożyczki (kredytu) – w wysokości różnicy pomiędzy kwotą otrzymanej pożyczki (kredytu) a kwotą zwróconego kapitału;
 
 - **8)** wartość otrzymanych świadczeń w naturze i innych nieodpłatnych świadczeń, obliczonych zgodnie z art. 11 ust. 2–2b, z zastrzeżeniem ust. 2g i art. 21 ust. 1 pkt 125 i 125a;
 - **9)** otrzymane wynagrodzenie za obsługę pracowniczego programu emerytalnego uczestnika, w związku ze zwrotem środków pochodzących ze składki dodatkowej;
@@ -570,10 +626,10 @@ Art. 46–51. (pominięte)
 - **11)** przychody z najmu, podnajmu, dzierżawy, poddzierżawy oraz z innych umów o podobnym charakterze, składników majątku związanych z działalnością gospodarczą;
 - **12)** otrzymane odszkodowania za szkody dotyczące składników majątku związanych z prowadzoną działalnością gospodarczą lub z prowadzeniem działów specjalnych produkcji rolnej;
 - **13)** (uchylony)
-- **14)** przychody uzyskane z tytułu odpłatnego zbycia: o odnawialnych źródłach energii,
-    - **a)** świadectw pochodzenia otrzymanych przez podmioty zajmujące się wytwarzaniem energii elektrycznej z odnawialnych źródeł energii wydawanych na wniosek, o którym mowa w art. 45 ust. 1 ustawy z dnia 20 lutego 2015 r.
+- **14)** przychody uzyskane z tytułu odpłatnego zbycia: poz. 43);
+    - **a)** świadectw pochodzenia otrzymanych przez podmioty zajmujące się wytwarzaniem energii elektrycznej z odnawialnych źródeł energii wydawanych na wniosek, o którym mowa w art. 45 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii,
     - **b)** świadectw pochodzenia biogazu rolniczego otrzymanych przez podmioty zajmujące się wytwarzaniem biogazu rolniczego wydawanych na wniosek, o którym mowa w art. 49 ust. 1 ustawy wymienionej w lit. a,
-    - **c)** świadectw pochodzenia z kogeneracji otrzymanych przez przedsiębiorstwa energetyczne zajmujące się wytwarzaniem energii elektrycznej w wysokosprawnej kogeneracji na wniosek, o którym mowa w art. 9l ust. 3 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2026 r. poz. 43);
+    - **c)** świadectw pochodzenia z kogeneracji otrzymanych przez przedsiębiorstwa energetyczne zajmujące się wytwarzaniem energii elektrycznej w wysokosprawnej kogeneracji na wniosek, o którym mowa w art. 9l ust. 3 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r.
 
 - **15)** (uchylony)
 - **16)** środki pieniężne otrzymane przez wspólnika spółki niebędącej osobą prawną z tytułu wystąpienia z takiej spółki;
@@ -605,12 +661,12 @@ Art. 46–51. (pominięte)
 
 2i. Nie ustala się przychodu, o którym mowa w ust. 2h, jeżeli zapłata należności przez podatnika:
 
-- **1)** wynika z transakcji innej niż określona w art. 19 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) lub
+- **1)** wynika z transakcji innej niż określona w art. 19 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) lub
 - **2)** została dokonana przelewem na rachunek inny niż zawarty na dzień zlecenia przelewu w wykazie podmiotów, o którym mowa w art. 96b ust. 1 ustawy o podatku od towarów i usług, a podatnik złożył przy pierwszej zapłacie należności przelewem na ten rachunek zawiadomienie, o którym mowa w art. 117ba § 3 pkt 2 Ordynacji podatkowej, do naczelnika urzędu skarbowego właściwego dla podatnika, który dokonał zapłaty należności, w terminie 7 dni od dnia zlecenia przelewu, lub
 - **3)** została dokonana przelewem na rachunek banku lub rachunek spółdzielczej kasy oszczędnościowo-kredytowej:
     - **a)** służący do dokonywania rozliczeń z tytułu nabywanych przez ten bank lub tę kasę wierzytelności pieniężnych lub
     - **b)** wykorzystywany przez ten bank lub tę kasę do pobrania należności od nabywcy towarów lub usługobiorcy za dostawę towarów lub świadczenie usług, potwierdzone fakturą, i przekazania jej w całości albo części dostawcy towarów lub usługodawcy, lub
-    - **c)** prowadzony przez ten bank lub tę kasę w ramach gospodarki własnej, niebędący rachunkiem rozliczeniowym jeżeli odpowiednio bank, spółdzielcza kasa oszczędnościowo-kredytowa lub podmiot będący wystawcą faktury, wraz z informacją o numerze rachunku do zapłaty, przekazali podatnikowi informację, że rachunek wskazany do zapłaty jest rachunkiem, o którym mowa w lit. a, b lub c, lub
+    - **c)** prowadzony przez ten bank lub tę kasę w ramach gospodarki własnej, niebędący rachunkiem rozliczeniowym – jeżeli odpowiednio bank, spółdzielcza kasa oszczędnościowo-kredytowa lub podmiot będący wystawcą faktury, wraz z informacją o numerze rachunku do zapłaty, przekazali podatnikowi informację, że rachunek wskazany do zapłaty jest rachunkiem, o którym mowa w lit. a, b lub c, lub
 
 - **4)** została dokonana z zastosowaniem mechanizmu podzielonej płatności, o którym mowa w art. 108a ustawy o podatku od towarów i usług, lub
 - **5)** wynika z faktury dokumentującej czynności z tytułu wewnątrzwspólnotowego nabycia towarów, importu towarów, importu usług lub dostawy towarów rozliczanej przez nabywcę.
@@ -625,16 +681,16 @@ Art. 46–51. (pominięte)
 - **3a)** zwróconych innych wydatków niezaliczonych do kosztów uzyskania przychodów;
 - **3b)** zwróconych, umorzonych lub zaniechanych wpłat dokonywanych na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych na podstawie odrębnych przepisów, niezaliczonych do kosztów uzyskania przychodów;
 - **4)** (uchylony)
-- **5)** przychodów, które w rozumieniu przepisów o zakładowym funduszu świadczeń socjalnych zwiększają ten fundusz;
+- **5)** przychodów, które w rozumieniu przepisów o zakładowym funduszu świadczeń socjalnych – zwiększają ten fundusz;
 - **6)** kwoty stanowiącej równowartość umorzonych zobowiązań, w tym także umorzonych pożyczek (kredytów), jeżeli umorzenie zobowiązań jest związane z postępowaniem restrukturyzacyjnym lub postępowaniem upadłościowym;
 - **7)** zwolnionych od wpłat należności z tytułu podatku od towarów i usług oraz zwróconej różnicy podatku od towarów i usług, dokonywanych na podstawie odrębnych przepisów;
-- **8)** przychodów z odpłatnego zbycia na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu do czasu ostatecznego przeniesienia własności przedmiotu umowy;
+- **8)** przychodów z odpłatnego zbycia na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu – do czasu ostatecznego przeniesienia własności przedmiotu umowy;
 - **9)** (uchylony)
 - **10)** środków pieniężnych otrzymanych przez wspólnika spółki niebędącej osobą prawną z tytułu likwidacji takiej spółki;
 - **11)** środków pieniężnych otrzymanych przez wspólnika spółki niebędącej osobą prawną z tytułu wystąpienia z takiej spółki, w części odpowiadającej uzyskanej przed wystąpieniem przez wspólnika nadwyżce przychodów nad kosztami ich uzyskania, o których mowa w art. 8, pomniejszonej o wypłaty dokonane z tytułu udziału w tej spółce i wydatki niestanowiące kosztów uzyskania przychodów, o ile wcześniej nie pomniejszyły przychodu do opodatkowania, o którym mowa w ust. 2 pkt 16a;
 - **12)** przychodów z odpłatnego zbycia składników majątku:
     - **a)** pozostałych na dzień likwidacji prowadzonej samodzielnie działalności gospodarczej lub prowadzonych samodzielnie działów specjalnych produkcji rolnej,
-    - **b)** otrzymanych w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem wspólnika z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce, z wyjątkiem składników majątku stanowiących udziały (akcje), papiery wartościowe, tytuły uczestnictwa w funduszach kapitałowych, pochodne instrumenty finansowe oraz składników majątku, w wyniku otrzymania których Rzeczpospolita Polska traci prawo do opodatkowania dochodów z ich odpłatnego zbycia jeżeli od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiła likwidacja: prowadzonej samodzielnie działalności gospodarczej, prowadzonych samodzielnie działów specjalnych produkcji rolnej, spółki niebędącej osobą prawną lub nastąpiło wystąpienie wspólnika z takiej spółki albo zmniejszenie udziału kapitałowego w takiej spółce, do dnia ich odpłatnego zbycia upłynęło sześć lat i odpłatne zbycie nie następuje w wykonaniu działalności gospodarczej lub działów specjalnych produkcji rolnej;
+    - **b)** otrzymanych w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem wspólnika z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce, z wyjątkiem składników majątku stanowiących udziały (akcje), papiery wartościowe, tytuły uczestnictwa w funduszach kapitałowych, pochodne instrumenty finansowe oraz składników majątku, w wyniku otrzymania których Rzeczpospolita Polska traci prawo do opodatkowania dochodów z ich odpłatnego zbycia – jeżeli od pierwszego dnia miesiąca następującego po miesiącu, w którym nastąpiła likwidacja: prowadzonej samodzielnie działalności gospodarczej, prowadzonych samodzielnie działów specjalnych produkcji rolnej, spółki niebędącej osobą prawną lub nastąpiło wystąpienie wspólnika z takiej spółki albo zmniejszenie udziału kapitałowego w takiej spółce, do dnia ich odpłatnego zbycia upłynęło sześć lat i odpłatne zbycie nie następuje w wykonaniu działalności gospodarczej lub działów specjalnych produkcji rolnej;
 
 - **13)** kwot otrzymanych od agencji wykonawczych, jeżeli agencje te otrzymały środki na ten cel z budżetu państwa, z zastrzeżeniem ust. 9;
 - **14)** pobranych zaliczek na podatek dochodowy i zryczałtowanego podatku dochodowego, które nie zostały przekazane na rachunek urzędu skarbowego na podstawie art. 26eb ust. 1;
@@ -650,7 +706,7 @@ Art. 46–51. (pominięte)
 
 7. Przy określaniu wysokości przychodów, o których mowa w ust. 2 pkt 17, przepisy ust. 1 i art. 19 stosuje się odpowiednio.
 
-8. Przez środki pieniężne, o których mowa w ust. 3 pkt 10 i 11, rozumie się również wartość wierzytelności uprzednio zarachowanej jako przychód należny, pomniejszonej o należny podatek od towarów i usług, oraz wierzytelności z tytułu udzielonej przez spółkę niebędącą osobą prawną pożyczki z wyjątkiem wierzytelności z tytułu odsetek od opóźnionej zapłaty oraz wierzytelności z tytułu odsetek od takiej pożyczki, jeżeli wierzytelności te zostały spłacone na rzecz otrzymującego je wspólnika.
+8. Przez środki pieniężne, o których mowa w ust. 3 pkt 10 i 11, rozumie się również wartość wierzytelności uprzednio zarachowanej jako przychód należny, pomniejszonej o należny podatek od towarów i usług, oraz wierzytelności z tytułu udzielonej przez spółkę niebędącą osobą prawną pożyczki – z wyjątkiem wierzytelności z tytułu odsetek od opóźnionej zapłaty oraz wierzytelności z tytułu odsetek od takiej pożyczki, jeżeli wierzytelności te zostały spłacone na rzecz otrzymującego je wspólnika.
 
 9. Podatnik może zaliczyć do przychodów z działalności gospodarczej dotacje, subwencje, dopłaty, inne nieodpłatne świadczenia lub kwoty otrzymane od agencji wykonawczych, jeżeli do upływu terminu złożenia zeznania za rok podatkowy, w którym je otrzymał, określonego w art. 45 ust. 1, złoży właściwemu naczelnikowi urzędu skarbowego sporządzone na piśmie oświadczenie o zaliczeniu określonych dotacji, subwencji, dopłat, innych nieodpłatnych świadczeń lub kwot otrzymanych od agencji wykonawczych do przychodów. Do kosztów stanowiących odpisy amortyzacyjne od środków trwałych i wartości niematerialnych i prawnych sfinansowanych z przychodów, których dotyczy to oświadczenie, przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
 
@@ -683,7 +739,7 @@ Art. 46–51. (pominięte)
 
 - **1)** przychody z prowadzonej samodzielnie działalności gospodarczej w roku bezpośrednio poprzedzającym rok podatkowy nie przekroczyły kwoty 2 000 000 zł, przy czym w przypadku przedsiębiorstwa w spadku w przychodach uwzględnia się również przychody z działalności gospodarczej prowadzonej samodzielnie przez zmarłego przedsiębiorcę;
 - **2)** w związku z prowadzoną działalnością gospodarczą nie prowadzi ksiąg rachunkowych;
-- **3)** złoży właściwemu naczelnikowi urzędu skarbowego sporządzone na piśmie oświadczenie o wyborze metody kasowej rozliczania przychodów w terminie do dnia 20 lutego roku podatkowego, a w przypadku podatnika rozpoczynającego prowadzenie działalności gospodarczej w trakcie roku podatkowego w terminie do 20. dnia miesiąca następującego po miesiącu rozpoczęcia działalności gospodarczej, a jeżeli rozpoczęcie działalności gospodarczej nastąpiło w grudniu roku podatkowego w terminie do końca roku podatkowego.
+- **3)** złoży właściwemu naczelnikowi urzędu skarbowego sporządzone na piśmie oświadczenie o wyborze metody kasowej rozliczania przychodów w terminie do dnia 20 lutego roku podatkowego, a w przypadku podatnika rozpoczynającego prowadzenie działalności gospodarczej w trakcie roku podatkowego – w terminie do 20. dnia miesiąca następującego po miesiącu rozpoczęcia działalności gospodarczej, a jeżeli rozpoczęcie działalności gospodarczej nastąpiło w grudniu roku podatkowego – w terminie do końca roku podatkowego.
 
 2. W przypadku metody kasowej rozliczania przychodów za datę powstania przychodu uważa się dzień uregulowania należności, niepóźniejszy niż dzień:
 
@@ -697,7 +753,7 @@ Art. 46–51. (pominięte)
 
 4. Metoda kasowa rozliczania przychodów ma zastosowanie wyłącznie do przychodów, które:
 
-- **1)** wynikają z transakcji między podatnikiem a przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców oraz
+- **1)** wynikają z transakcji między podatnikiem a przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców oraz
 - **2)** są udokumentowane fakturami wystawionymi w terminach określonych zgodnie z odrębnymi przepisami.
 
 5. Metoda kasowa rozliczania przychodów nie ma zastosowania do przychodów wynikających z transakcji między podatnikiem a:
@@ -748,7 +804,7 @@ Art. 46–51. (pominięte)
 
 - **7)** przychody z odpłatnego zbycia prawa poboru, w tym również ze zbycia prawa poboru akcji nowej emisji przez pracowniczy fundusz emerytalny w imieniu członka funduszu;
 - **8)** przychody członków pracowniczych funduszy emerytalnych z tytułu przeniesienia akcji złożonych na rachunkach ilościowych do aktywów tych funduszy;
-- **9)** wartość wkładu określoną w statucie lub umowie spółki, a w razie ich braku wartość wkładu określoną w innym dokumencie o podobnym charakterze w przypadku wniesienia do spółki albo do spółdzielni wkładu niepieniężnego; jeżeli jednak wartość ta jest niższa od wartości rynkowej tego wkładu albo wartość wkładu nie została określona w statucie, umowie albo innym dokumencie o podobnym charakterze, za przychód uważa się wartość rynkową takiego wkładu określoną na dzień przeniesienia własności przedmiotu wkładu niepieniężnego; przepis art. 19 ust. 3 stosuje się odpowiednio;
+- **9)** wartość wkładu określoną w statucie lub umowie spółki, a w razie ich braku wartość wkładu określoną w innym dokumencie o podobnym charakterze – w przypadku wniesienia do spółki albo do spółdzielni wkładu niepieniężnego; jeżeli jednak wartość ta jest niższa od wartości rynkowej tego wkładu albo wartość wkładu nie została określona w statucie, umowie albo innym dokumencie o podobnym charakterze, za przychód uważa się wartość rynkową takiego wkładu określoną na dzień przeniesienia własności przedmiotu wkładu niepieniężnego; przepis art. 19 ust. 3 stosuje się odpowiednio;
 - **9a)** (uchylony)
 - **10)** przychody z odpłatnego zbycia pochodnych instrumentów finansowych oraz z realizacji praw z nich wynikających;
 - **11)** przychody z odpłatnego zbycia waluty wirtualnej;
@@ -757,8 +813,8 @@ Art. 46–51. (pominięte)
 1a. Przychód określony w ust. 1 pkt 9 powstaje w dniu:
 
 - **1)** zarejestrowania spółki, spółdzielni albo
-- **2)** wpisu do rejestru podwyższenia kapitału zakładowego spółki albo emisji nowych akcji w prostej spółce akcyjnej, albo 2a) przeniesienia na spółkę własności przedmiotu wkładu w przypadku gdy spółka lub podwyższenie kapitału spółki nie podlegają obowiązkowi rejestracji we właściwym rejestrze zgodnie z przepisami państwa, w którym spółka ma siedzibę lub zarząd, albo
-- **3)** wpisu do rejestru akcjonariuszy, o którym mowa w art. 300 § 1 albo art. 328 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187), jeżeli objęcie akcji jest związane odpowiednio z warunkową emisją akcji albo z warunkowym podwyższeniem kapitału zakładowego, albo
+- **2)** wpisu do rejestru podwyższenia kapitału zakładowego spółki albo emisji nowych akcji w prostej spółce akcyjnej, albo 2a) przeniesienia na spółkę własności przedmiotu wkładu – w przypadku gdy spółka lub podwyższenie kapitału spółki nie podlegają obowiązkowi rejestracji we właściwym rejestrze zgodnie z przepisami państwa, w którym spółka ma siedzibę lub zarząd, albo
+- **3)** wpisu do rejestru akcjonariuszy, o którym mowa w art. 300 § 1 albo art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187), jeżeli objęcie akcji jest związane odpowiednio z warunkową emisją akcji albo z warunkowym podwyższeniem kapitału zakładowego, albo
 - **4)** podjęcia uchwały o przyjęciu w poczet członków spółdzielni.
 - **5)** (uchylony) 1aa. (uchylony) 1ab. Przychód określony w ust. 1 pkt 6:
 - **1)** z odpłatnego zbycia udziałów (akcji), udziałów w spółdzielni oraz papierów wartościowych powstaje w momencie przeniesienia na nabywcę własności udziałów (akcji), udziałów w spółdzielni oraz papierów wartościowych;
@@ -806,7 +862,7 @@ Art. 46–51. (pominięte)
 
 1a. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również należne, choćby nie zostały faktycznie otrzymane, przychody z działalności wytwórczej w rolnictwie w zakresie wyrobu wina przez producentów wina w rozumieniu art. 2 pkt 23 ustawy z dnia 2 grudnia 2021 r. o wyrobach winiarskich (Dz. U. z 2023 r. poz. 550 oraz z 2025 r. poz. 769 i 1795) będących rolnikami wyrabiających mniej niż 100 hektolitrów wina w ciągu roku podatkowego wyłącznie z winogron pochodzących z upraw własnych winorośli. U podatników opodatkowanych podatkiem od towarów i usług za przychód z tej sprzedaży uważa się przychód pomniejszony o należny podatek od towarów i usług.
 
-1b. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się także przychody nieznajdujące pokrycia w ujawnionych źródłach lub pochodzące ze źródeł nieujawnionych. 1ba. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również przychody osiągane z działalności, o której mowa w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców. 1bb. W razie przekroczenia limitu przychodu należnego określonego w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców uznaje się, że podatnik, poczynając od dnia złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a jeżeli wniosek nie został złożony w terminie określonym w art. 5 ust. 4 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców poczynając od dnia następującego po dniu, w którym nastąpił bezskuteczny upływ tego terminu, uzyskuje przychody, o których mowa w art. 10 ust. 1 pkt 3. 1bc. Przychody osiągnięte w okresie od dnia, w którym przekroczono limit określony w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, do dnia poprzedzającego dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a jeżeli wniosek nie został złożony w terminie określonym w art. 5 ust. 4 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców do dnia, w którym nastąpił bezskuteczny upływ tego terminu, zalicza się do przychodów, o których mowa w ust. 1ba.
+1b. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się także przychody nieznajdujące pokrycia w ujawnionych źródłach lub pochodzące ze źródeł nieujawnionych. 1ba. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również przychody osiągane z działalności, o której mowa w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców. 1bb. W razie przekroczenia limitu przychodu należnego określonego w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców uznaje się, że podatnik, poczynając od dnia złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a jeżeli wniosek nie został złożony w terminie określonym w art. 5 ust. 4 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców – poczynając od dnia następującego po dniu, w którym nastąpił bezskuteczny upływ tego terminu, uzyskuje przychody, o których mowa w art. 10 ust. 1 pkt 3. 1bc. Przychody osiągnięte w okresie od dnia, w którym przekroczono limit określony w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, do dnia poprzedzającego dzień złożenia wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a jeżeli wniosek nie został złożony w terminie określonym w art. 5 ust. 4 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców – do dnia, w którym nastąpił bezskuteczny upływ tego terminu, zalicza się do przychodów, o których mowa w ust. 1ba.
 
 1c. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również przychody ze sprzedaży przetworzonych w sposób inny niż przemysłowy produktów roślinnych i zwierzęcych, z wyjątkiem przetworzonych produktów roślinnych i zwierzęcych uzyskanych w ramach prowadzonych działów specjalnych produkcji rolnej oraz produktów opodatkowanych podatkiem akcyzowym na podstawie odrębnych przepisów, jeżeli:
 
@@ -825,7 +881,7 @@ Art. 46–51. (pominięte)
 1h. Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również przychody z tytułu gromadzenia oszczędności na:
 
 - **1)** subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE,
-- **2)** subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej otrzymane przez beneficjenta OIPE w rozumieniu art. 2 pkt 6 rozporządzenia 2019/1238, w tym również osobę uprawnioną do otrzymania środków zgromadzonych na tych subkontach po śmierci oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE.
+- **2)** subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej – otrzymane przez beneficjenta OIPE w rozumieniu art. 2 pkt 6 rozporządzenia 2019/1238, w tym również osobę uprawnioną do otrzymania środków zgromadzonych na tych subkontach po śmierci oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE.
 
 2. Za zasiłki pieniężne z ubezpieczenia społecznego, o których mowa w ust. 1, uważa się kwoty wypłacanych przez zakład pracy lub organ rentowy zasiłków chorobowych, wyrównawczych, macierzyńskich, opiekuńczych oraz świadczeń rehabilitacyjnych.
 
@@ -843,7 +899,7 @@ Art. 46–51. (pominięte)
 
 - **1)** (uchylony)
 - **2)** renty przyznane na podstawie odrębnych przepisów o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin;
-- **3)** otrzymane odszkodowania lub zadośćuczynienia, jeżeli ich wysokość lub zasady ustalania wynikają wprost z przepisów odrębnych ustaw lub przepisów wykonawczych wydanych na podstawie tych ustaw lub aktów administracyjnych wydanych na podstawie tych przepisów, oraz otrzymane odszkodowania lub zadośćuczynienia, jeżeli ich wysokość lub zasady ustalania wynikają wprost z postanowień układów zbiorowych pracy, innych opartych na ustawie porozumień zbiorowych, regulaminów lub statutów, o których mowa w art. 9 § 1 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25), z wyjątkiem:
+- **3)** otrzymane odszkodowania lub zadośćuczynienia, jeżeli ich wysokość lub zasady ustalania wynikają wprost z przepisów odrębnych ustaw lub przepisów wykonawczych wydanych na podstawie tych ustaw lub aktów administracyjnych wydanych na podstawie tych przepisów, oraz otrzymane odszkodowania lub zadośćuczynienia, jeżeli ich wysokość lub zasady ustalania wynikają wprost z postanowień układów zbiorowych pracy, innych opartych na ustawie porozumień zbiorowych, regulaminów lub statutów, o których mowa w art. 9 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25), z wyjątkiem:
     - **a)** określonych w prawie pracy odpraw i odszkodowań z tytułu skrócenia okresu wypowiedzenia umowy o pracę,
     - **b)** odpraw pieniężnych wypłacanych na podstawie przepisów o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników,
     - **c)** odpraw i odszkodowań z tytułu skrócenia okresu wypowiedzenia funkcjonariuszom pozostającym w stosunku służbowym,
@@ -857,7 +913,7 @@ Art. 46–51. (pominięte)
     - **a)** otrzymanych w związku z prowadzoną działalnością gospodarczą,
     - **b)** dotyczących korzyści, które podatnik mógłby osiągnąć, gdyby mu szkody nie wyrządzono;
 
-- **3c)** odszkodowania w postaci renty przyznane na podstawie przepisów prawa cywilnego w razie uszkodzenia ciała lub wywołania rozstroju zdrowia, otrzymane przez poszkodowanego, który utracił całkowicie lub częściowo zdolność do pracy zarobkowej albo którego potrzeby zwiększyły się lub widoki powodzenia na przyszłość zmniejszyły, oraz odszkodowania w postaci renty przyznane na podstawie przepisów prawa cywilnego w razie spowodowania śmierci poszkodowanego, otrzymane przez osoby uprawnione, o których mowa w art. 446 § 2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184), a także miesięczne świadczenia na zapewnienie środków utrzymania, o których mowa w art. 753 § 1 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. );
+- **3c)** odszkodowania w postaci renty przyznane na podstawie przepisów prawa cywilnego w razie uszkodzenia ciała lub wywołania rozstroju zdrowia, otrzymane przez poszkodowanego, który utracił całkowicie lub częściowo zdolność do pracy zarobkowej albo którego potrzeby zwiększyły się lub widoki powodzenia na przyszłość zmniejszyły, oraz odszkodowania w postaci renty przyznane na podstawie przepisów prawa cywilnego w razie spowodowania śmierci poszkodowanego, otrzymane przez osoby uprawnione, o których mowa w art. 446 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184), a także miesięczne świadczenia na zapewnienie środków utrzymania, o których mowa w art. 753 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. );
 - **3d)** odszkodowania otrzymane na podstawie przepisów prawa geologicznego i górniczego;
 - **3e)** sumy pieniężne, o których mowa w art. 12 ust. 4 ustawy z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki (Dz. U. z 2023 r. poz. 1725);
 - **4)** kwoty otrzymane z tytułu ubezpieczeń majątkowych i osobowych, z wyjątkiem:
@@ -867,10 +923,10 @@ Art. 46–51. (pominięte)
 - **4a)** kwoty świadczeń kompensacyjnych wypłacanych z Funduszu Kompensacyjnego Szczepień Ochronnych, o którym mowa w art. 17b ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26);
 - **4b)** kwoty świadczeń kompensacyjnych wypłacanych na podstawie przepisów ustawy z dnia 9 marca 2023 r. o badaniach klinicznych produktów leczniczych stosowanych u ludzi (Dz. U. z 2026 r. poz. 2);
 - **4c)** kwoty świadczeń kompensacyjnych wypłacanych na podstawie przepisów ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26);
-- **5)** (uchylony) 5a) kwoty zwracane przez towarzystwo funduszy inwestycyjnych w związku z wygaśnięciem zezwolenia na utworzenie funduszu inwestycyjnego w wysokości wpłat wniesionych do funduszu;
+- **5)** (uchylony) 5a) kwoty zwracane przez towarzystwo funduszy inwestycyjnych w związku z wygaśnięciem zezwolenia na utworzenie funduszu inwestycyjnego – w wysokości wpłat wniesionych do funduszu;
 - **6)** (uchylony) 6a) wygrane w:
     - **a)** grach liczbowych, loteriach pieniężnych, grze telebingo, zakładach wzajemnych, loteriach promocyjnych, loteriach audioteksowych i loteriach fantowych, jeżeli jednorazowa wartość tych wygranych nie przekracza 2280 zł,
-    - **b)** grach na automatach, grach w karty, grach w kości, grach cylindrycznych, grach bingo pieniężne i grach bingo fantowe urządzanych i prowadzonych przez uprawniony podmiot na podstawie przepisów o grach hazardowych obowiązujących w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego;
+    - **b)** grach na automatach, grach w karty, grach w kości, grach cylindrycznych, grach bingo pieniężne i grach bingo fantowe – urządzanych i prowadzonych przez uprawniony podmiot na podstawie przepisów o grach hazardowych obowiązujących w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego;
 
 - **6b)** (uchylony)
 - **7)** odprawy pośmiertne i zasiłki pogrzebowe;
@@ -878,7 +934,7 @@ Art. 46–51. (pominięte)
 - **8a)** zasiłek macierzyński otrzymany na podstawie ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników;
 - **8b)** jednorazowe świadczenie otrzymane na podstawie ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem” (Dz. U. z 2024 r. poz. 1829);
 - **8c)** (uchylony) 8d) (uchylony) 8e) świadczenie wspierające, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429 i 2760 oraz z 2025 r. poz. 619);
-- **8f)** świadczenia „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka „Aktywny rodzic” (Dz. U. poz. 858, z 2025 r. poz. 619, 1083 i 1301 oraz z 2026 r. poz. 203);
+- **8f)** świadczenia „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858, z 2025 r. poz. 619, 1083 i 1301 oraz z 2026 r. poz. 203);
 - **9)** jednorazowe zasiłki z tytułu urodzenia dziecka, wypłacane z funduszów związków zawodowych;
 - **9a)** zapomogi, inne niż wymienione w pkt 26, wypłacane z funduszy zakładowej lub międzyzakładowej organizacji związkowej pracownikom należącym do tej organizacji, do wysokości nieprzekraczającej w roku podatkowym kwoty 1000 zł;
 - **10)** wartość ubioru służbowego (umundurowania), jeżeli jego używanie należy do obowiązków pracownika, lub ekwiwalentu pieniężnego za ten ubiór;
@@ -889,28 +945,28 @@ Art. 46–51. (pominięte)
 - **12)** (uchylony) 12a) (uchylony)
 - **13)** ekwiwalenty pieniężne za używane przez pracowników przy wykonywaniu pracy narzędzia, materiały lub sprzęt, stanowiące ich własność;
 - **14)** kwoty otrzymywane przez pracowników z tytułu zwrotu kosztów przeniesienia służbowego oraz zasiłków na zagospodarowanie i osiedlenie w związku z przeniesieniem służbowym, do wysokości 200 % wynagrodzenia należnego za miesiąc, w którym nastąpiło przeniesienie;
-- **14a)** wartość świadczenia otrzymanego przez pracownika z tytułu organizowanego przez pracodawcę dowozu pracowników autobusem w rozumieniu art. 2 pkt 41 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. );
+- **14a)** wartość świadczenia otrzymanego przez pracownika z tytułu organizowanego przez pracodawcę dowozu pracowników autobusem w rozumieniu art. 2 pkt 41 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. );
 - **15)** świadczenia osób otrzymywane z tytułu odbywania lub pełnienia:
     - **a)** służby wojskowej innej niż zawodowa służba wojskowa, z wyjątkiem uposażeń żołnierzy dobrowolnej zasadniczej służby wojskowej,
-    - **b)** służby zastępczej przyznane na podstawie odrębnych przepisów;
+    - **b)** służby zastępczej – przyznane na podstawie odrębnych przepisów;
 
 - **16)** diety i inne należności za czas:
     - **a)** podróży służbowej pracownika,
-    - **b)** podróży osoby niebędącej pracownikiem do wysokości określonej w odrębnych ustawach lub w przepisach wydanych przez ministra właściwego do spraw pracy w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju oraz poza granicami kraju, z zastrzeżeniem ust. 13 i 15c;
+    - **b)** podróży osoby niebędącej pracownikiem – do wysokości określonej w odrębnych ustawach lub w przepisach wydanych przez ministra właściwego do spraw pracy w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju oraz poza granicami kraju, z zastrzeżeniem ust. 13 i 15c;
 
-- **17)** diety oraz kwoty stanowiące zwrot kosztów, otrzymywane przez osoby wykonujące czynności związane z pełnieniem obowiązków społecznych i obywatelskich do wysokości nieprzekraczającej miesięcznie kwoty 3000 zł;
+- **17)** diety oraz kwoty stanowiące zwrot kosztów, otrzymywane przez osoby wykonujące czynności związane z pełnieniem obowiązków społecznych i obywatelskich – do wysokości nieprzekraczającej miesięcznie kwoty 3000 zł;
 - **17a)** kwoty stanowiące zwrot kosztów przysługujący członkom Rady Mediów Narodowych;
 - **18)** dodatek za rozłąkę przysługujący na podstawie odrębnych ustaw, przepisów wykonawczych wydanych na podstawie tych ustaw lub układów zbiorowych pracy, do wysokości diet za czas podróży służbowej na obszarze kraju, określonych w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju;
-- **19)** wartość świadczeń ponoszonych przez pracodawcę z tytułu zakwaterowania pracowników, z zastrzeżeniem ust. 14 do wysokości nieprzekraczającej miesięcznie kwoty 500 zł;
+- **19)** wartość świadczeń ponoszonych przez pracodawcę z tytułu zakwaterowania pracowników, z zastrzeżeniem ust. 14 – do wysokości nieprzekraczającej miesięcznie kwoty 500 zł;
 - **20)** część przychodów osób, o których mowa w art. 3 ust. 1, przebywających czasowo za granicą i uzyskujących w związku z tym pobytem przychody ze stosunku służbowego, stosunku pracy, pracy nakładczej oraz spółdzielczego stosunku pracy, za każdy dzień pobytu za granicą, w którym podatnik pozostawał w stosunku służbowym, stosunku pracy, pracy nakładczej oraz spółdzielczym stosunku pracy, w kwocie odpowiadającej 30 % diety określonej w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju, z zastrzeżeniem ust. 15 i 15c;
 - **20a)** (uchylony)
 - **21)** (uchylony)
 - **22)** (uchylony)
 - **23)** (uchylony) 23a) część dochodów osób, o których mowa w art. 3 ust. 1, przebywających czasowo za granicą i uzyskujących dochody z tytułu:
-    - **a)** stypendiów w wysokości stanowiącej równowartość diety z tytułu podróży służbowych poza granicami kraju, określonej w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju, za każdy dzień, w którym było otrzymywane stypendium,
+    - **a)** stypendiów – w wysokości stanowiącej równowartość diety z tytułu podróży służbowych poza granicami kraju, określonej w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju, za każdy dzień, w którym było otrzymywane stypendium,
     - **b)** ryczałtów na koszty utrzymania i zakwaterowania wypłacanych z budżetu państwa w związku ze skierowaniem do pracy dydaktycznej w szkołach i ośrodkach akademickich za granicą, przyznanych na podstawie odrębnych przepisów;
 
-- **23b)** zwrot kosztów poniesionych przez pracownika z tytułu używania pojazdów stanowiących własność pracownika, dla potrzeb zakładu pracy, w jazdach lokalnych, jeżeli obowiązek ponoszenia tych kosztów przez zakład pracy albo możliwość przyznania prawa do zwrotu tych kosztów wynika wprost z przepisów innych ustaw do wysokości miesięcznego ryczałtu pieniężnego albo do wysokości nieprzekraczającej kwoty ustalonej przy zastosowaniu stawek za 1 kilometr przebiegu pojazdu, określonych w odrębnych przepisach wydanych przez właściwego ministra, jeżeli przebieg pojazdu, z wyłączeniem wypłat ryczałtu pieniężnego, jest udokumentowany w ewidencji przebiegu pojazdu prowadzonej przez pracownika; przepis art. 23 ust. 7 stosuje się odpowiednio;
+- **23b)** zwrot kosztów poniesionych przez pracownika z tytułu używania pojazdów stanowiących własność pracownika, dla potrzeb zakładu pracy, w jazdach lokalnych, jeżeli obowiązek ponoszenia tych kosztów przez zakład pracy albo możliwość przyznania prawa do zwrotu tych kosztów wynika wprost z przepisów innych ustaw – do wysokości miesięcznego ryczałtu pieniężnego albo do wysokości nieprzekraczającej kwoty ustalonej przy zastosowaniu stawek za 1 kilometr przebiegu pojazdu, określonych w odrębnych przepisach wydanych przez właściwego ministra, jeżeli przebieg pojazdu, z wyłączeniem wypłat ryczałtu pieniężnego, jest udokumentowany w ewidencji przebiegu pojazdu prowadzonej przez pracownika; przepis art. 23 ust. 7 stosuje się odpowiednio;
 - **23c)** dochody marynarzy, którzy są obywatelami państwa członkowskiego Unii Europejskiej lub państwa należącego do Europejskiego Obszaru Gospodarczego, uzyskane z tytułu pracy na statkach morskich podnoszących banderę państwa członkowskiego Unii Europejskiej lub państwa należącego do Europejskiego Obszaru Gospodarczego, używanych do przewozu ładunku lub pasażerów w żegludze międzynarodowej, jeżeli była ona w danym roku podatkowym wykonywana łącznie przez okres co najmniej 183 dni, z wyjątkiem pracy wykonywanej na:
     - **a)** holownikach, na których mniej niż 50 % czasu pracy faktycznie wykonywanej przez holownik w ciągu roku stanowił przewóz ładunku lub pasażerów drogą morską,
     - **b)** pogłębiarkach, na których mniej niż 50 % czasu pracy faktycznie wykonywanej przez pogłębiarkę w ciągu roku stanowił przewóz wydobytego materiału drogą morską;
@@ -928,8 +984,8 @@ Art. 46–51. (pominięte)
 - **25c)** świadczenie pieniężne lub pomoc pieniężna przyznane na podstawie przepisów ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2024 r. poz. 906);
 - **25d)** świadczenia pieniężne przyznawane na podstawie art. 9 ustawy z dnia 22 listopada 2018 r. o grobach weteranów walk o wolność i niepodległość Polski (Dz. U. poz. 2529);
 - **26)** zapomogi otrzymane w przypadku indywidualnych zdarzeń losowych, klęsk żywiołowych, długotrwałej choroby lub śmierci:
-    - **a)** z funduszu socjalnego, zakładowego funduszu świadczeń socjalnych, z funduszy związków zawodowych lub zgodnie z odrębnymi przepisami wydanymi przez właściwego ministra niezależnie od ich wysokości,
-    - **b)** z innych źródeł do wysokości nieprzekraczającej w roku podatkowym kwoty 6000 zł;
+    - **a)** z funduszu socjalnego, zakładowego funduszu świadczeń socjalnych, z funduszy związków zawodowych lub zgodnie z odrębnymi przepisami wydanymi przez właściwego ministra – niezależnie od ich wysokości,
+    - **b)** z innych źródeł – do wysokości nieprzekraczającej w roku podatkowym kwoty 6000 zł;
 
 - **26a)** świadczenia otrzymane z tytułu jednorazowej pomocy materialnej finansowanej ze środków budżetu państwa lub budżetów jednostek samorządu terytorialnego w związku z zaistniałym zdarzeniem losowym;
 - **26b)** kwoty stanowiące zwrot kosztów z tytułu opieki nad dzieckiem lub osobą zależną, otrzymane na podstawie przepisów odrębnych ustaw lub przepisów wykonawczych do tych ustaw, finansowane z budżetu państwa, budżetów jednostek samorządu terytorialnego, Funduszu Pracy lub z budżetu Unii Europejskiej;
@@ -943,15 +999,15 @@ Art. 46–51. (pominięte)
     - **b)** bibliotece w rozumieniu ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393);
 
 - **29)** przychody uzyskane z tytułu odszkodowania wypłacanego stosownie do przepisów o gospodarce nieruchomościami lub z tytułu odpłatnego zbycia nieruchomości na cele uzasadniające jej wywłaszczenie oraz z tytułu sprzedaży nieruchomości w związku z realizacją przez nabywcę prawa pierwokupu, stosownie do przepisów o gospodarce nieruchomościami; nie dotyczy to przypadków, gdy właściciel nieruchomości, o której mowa w zdaniu pierwszym, nabył jej własność w okresie 2 lat przed wszczęciem postępowania wywłaszczeniowego bądź odpłatnym zbyciem nieruchomości za cenę niższą o co najmniej 50 % od wysokości uzyskanego odszkodowania lub ceny zbycia nieruchomości na cele uzasadniające jej wywłaszczenie lub w związku z realizacją prawa pierwokupu;
-- **29a)** przychody uzyskane z tytułu: o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu; 29aa) przychody uzyskane z tytułu odszkodowania wypłacanego zgodnie z art. 58 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531) oraz z tytułu sprzedaży nieruchomości w związku z realizacją przez nabywcę prawa pierwokupu, o którym mowa w art. 29b ust. 1 pkt 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, lub sprzedaży nieruchomości na szczególnych zasadach, określonych w art. 29b ust. 1 pkt 2 tej ustawy; nie dotyczy to przypadków, gdy właściciel nieruchomości, o której mowa w zdaniu pierwszym, nabył jej własność w okresie 2 lat przed wszczęciem postępowania wywłaszczeniowego bądź odpłatnym zbyciem nieruchomości za cenę niższą o co najmniej 50 % od wysokości uzyskanego odszkodowania lub ceny zbycia nieruchomości; 29ab) przychody z tytułu renty, o której mowa w art. 29c ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym; nie dotyczy to przypadków, gdy właściciel nieruchomości, o której mowa w tym przepisie, nabył jej własność w okresie 2 lat przed zbyciem nieruchomości za cenę niższą o co najmniej 50 % od wysokości ceny zbycia nieruchomości;
+- **29a)** przychody uzyskane z tytułu: 29aa) przychody uzyskane z tytułu odszkodowania wypłacanego zgodnie z art. 58 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747 oraz z 2025 r. poz. 1531) oraz z tytułu sprzedaży nieruchomości w związku z realizacją przez nabywcę prawa pierwokupu, o którym mowa w art. 29b ust. 1 pkt 1 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, lub sprzedaży nieruchomości na szczególnych zasadach, określonych w art. 29b ust. 1 pkt 2 tej ustawy; nie dotyczy to przypadków, gdy właściciel nieruchomości, o której mowa w zdaniu pierwszym, nabył jej własność w okresie 2 lat przed wszczęciem postępowania wywłaszczeniowego bądź odpłatnym zbyciem nieruchomości za cenę niższą o co najmniej 50 % od wysokości uzyskanego odszkodowania lub ceny zbycia nieruchomości; 29ab) przychody z tytułu renty, o której mowa w art. 29c ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym; nie dotyczy to przypadków, gdy właściciel nieruchomości, o której mowa w tym przepisie, nabył jej własność w okresie 2 lat przed zbyciem nieruchomości za cenę niższą o co najmniej 50 % od wysokości ceny zbycia nieruchomości;
     - **a)** odszkodowania wypłacanego stosownie do przepisów ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu (Dz. U. z 2025 r. poz. 1094), w tym z tytułu wywłaszczenia nieruchomości; nie dotyczy to przypadków, gdy właściciel nieruchomości, o której mowa w zdaniu pierwszym, nabył jej własność w okresie 2 lat przed wszczęciem postępowania wywłaszczeniowego za cenę niższą o co najmniej 50 % od wysokości uzyskanego odszkodowania,
     - **b)** odpłatnego zbycia nieruchomości lub jej części na podstawie przepisów ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu,
-    - **c)** odstąpienia od obowiązku wniesienia dopłaty, o którym mowa w art. 13h ust. 4 ustawy z dnia 11 sierpnia 2001 r.
+    - **c)** odstąpienia od obowiązku wniesienia dopłaty, o którym mowa w art. 13h ust. 4 ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów, przebudowy i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu;
 
 - **29b)** odszkodowania za szkody w środku trwałym, z wyłączeniem samochodu osobowego, w części wydatkowanej w roku podatkowym lub w roku bezpośrednio po nim następującym na remont tego środka trwałego albo na zakup lub na wytworzenie we własnym zakresie środka trwałego zaliczonego zgodnie z Klasyfikacją Środków Trwałych (KŚT) wydaną na podstawie odrębnych przepisów, zwaną dalej „Klasyfikacją”, do tego samego rodzaju co środek trwały, z którym związana była ta szkoda, przy czym przepis art. 23 ust. 1 pkt 45 stosuje się odpowiednio;
 - **30)** przychody uzyskane z tytułu sprzedaży prawa wieczystego użytkowania oraz nieruchomości nabytych stosownie do przepisów o gospodarce nieruchomościami w zamian za mienie pozostawione za granicą;
-- **30a)** przychody uzyskane z tytułu: poz. 2097), przez osoby uprawnione na podstawie tej ustawy,
-    - **a)** realizacji prawa do rekompensaty na podstawie ustawy z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U. z 2017 r.
+- **30a)** przychody uzyskane z tytułu: z 2017 r. poz. 2097), przez osoby uprawnione na podstawie tej ustawy,
+    - **a)** realizacji prawa do rekompensaty na podstawie ustawy z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej (Dz. U.
     - **b)** sprzedaży nieruchomości lub prawa użytkowania wieczystego, nabytych w związku z realizacją prawa do rekompensaty, o której mowa w lit. a, do wysokości odpowiadającej procentowemu udziałowi wartości tej rekompensaty w cenie nieruchomości lub prawa użytkowania wieczystego z dnia nabycia nieruchomości lub prawa użytkowania wieczystego;
 
 - **31)** (uchylony)
@@ -961,8 +1017,8 @@ Art. 46–51. (pominięte)
 - **35)** (uchylony)
 - **36)** dochody z tytułu prowadzenia szkół w rozumieniu przepisów o systemie oświaty, w części wydatkowanej na cele szkoły w roku podatkowym lub w roku po nim następującym;
 - **37)** dochody z tytułu urządzania przez uprawniony podmiot mający siedzibę na terytorium Rzeczypospolitej Polskiej loterii fantowych i gry bingo fantowe na podstawie zezwolenia wydanego na mocy odrębnych przepisów, o ile zostały przeznaczone na realizację określonych w zezwoleniu i regulaminie gry celów społecznie użytecznych;
-- **38)** świadczenia otrzymywane przez emerytów, rencistów lub osoby pobierające nauczycielskie świadczenie kompensacyjne, w związku z łączącym ich uprzednio z zakładem pracy stosunkiem służbowym, stosunkiem pracy lub spółdzielczym stosunkiem pracy, w tym od związków zawodowych do wysokości nieprzekraczającej w roku podatkowym kwoty 4500 zł;
-- **39)** stypendia i zapomogi, o których mowa w ustawie z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, oraz stypendia otrzymywane w ramach programów lub przedsięwzięć, o których mowa w art. 376 ust. 1 tej ustawy; w przypadku stypendiów przyznawanych przez osobę fizyczną lub osobę prawną niebędącą państwową ani samorządową osobą prawną zwolnienie ma zastosowanie, o ile zasady ich przyznawania zostały zatwierdzone przez ministra właściwego do spraw szkolnictwa wyższego i nauki;
+- **38)** świadczenia otrzymywane przez emerytów, rencistów lub osoby pobierające nauczycielskie świadczenie kompensacyjne, w związku z łączącym ich uprzednio z zakładem pracy stosunkiem służbowym, stosunkiem pracy lub spółdzielczym stosunkiem pracy, w tym od związków zawodowych – do wysokości nieprzekraczającej w roku podatkowym kwoty 4500 zł;
+- **39)** stypendia i zapomogi, o których mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, oraz stypendia otrzymywane w ramach programów lub przedsięwzięć, o których mowa w art. 376 ust. 1 tej ustawy; w przypadku stypendiów przyznawanych przez osobę fizyczną lub osobę prawną niebędącą państwową ani samorządową osobą prawną zwolnienie ma zastosowanie, o ile zasady ich przyznawania zostały zatwierdzone przez ministra właściwego do spraw szkolnictwa wyższego i nauki;
 - **39a)** stypendia i inne środki finansowe, o których mowa w art. 18 ust. 2 pkt 1 ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2025 r. poz. 1643);
 - **39b)** stypendia przyznawane przez instytuty naukowe Polskiej Akademii Nauk oraz instytuty badawcze, z ich funduszy stypendialnych;
 - **39c)** stypendia, o których mowa w art. 70b ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2026 r. poz. 168);
@@ -973,8 +1029,8 @@ Art. 46–51. (pominięte)
 - **39h)** stypendia, o których mowa w art. 22 ust. 1 ustawy z dnia 7 października 2022 r. o Instytucie Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego (Dz. U. z 2024 r. poz. 1409 i 1473);
 - **40)** świadczenia pomocy materialnej dla uczniów i osób uczestniczących w innych formach kształcenia, pochodzące z budżetu państwa, budżetów jednostek samorządu terytorialnego oraz ze środków własnych szkół przyznane na podstawie przepisów o systemie oświaty oraz inne stypendia za wyniki w nauce, których zasady przyznawania zostały zatwierdzone przez ministra właściwego do spraw oświaty i wychowania;
 - **40a)** nagrody otrzymane od Polskiego Komitetu Olimpijskiego i Polskiego Komitetu Paralimpijskiego za uzyskanie wyników na igrzyskach olimpijskich i paralimpijskich oraz nagrody otrzymane od Polskiego Związku Sportu Niesłyszących za uzyskanie wyników na igrzyskach głuchych; 40aa) nagrody otrzymane od Stowarzyszenia Olimpiady Specjalne Polska za uzyskanie wyników na światowych igrzyskach Olimpiad Specjalnych;
-- **40b)** stypendia dla uczniów i studentów, których wysokość i zasady udzielania zostały określone w uchwale organu stanowiącego jednostki samorządu terytorialnego, oraz stypendia dla uczniów i studentów przyznane przez organizacje, o których mowa w art. 3 ust. 2 i 3 ustawy o działalności pożytku publicznego, na podstawie regulaminów zatwierdzonych przez organy statutowe udostępnianych do publicznej wiadomości za pomocą Internetu, środków masowego przekazu lub wykładanych (wywieszanych) dla zainteresowanych w pomieszczeniach ogólnie dostępnych do wysokości nieprzekraczającej w roku podatkowym kwoty 3800 zł;
-- **40c)** zwrot kosztów przejazdu, o których mowa w art. 39 ust. 3 i 4 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe;
+- **40b)** stypendia dla uczniów i studentów, których wysokość i zasady udzielania zostały określone w uchwale organu stanowiącego jednostki samorządu terytorialnego, oraz stypendia dla uczniów i studentów przyznane przez organizacje, o których mowa w art. 3 ust. 2 i 3 ustawy o działalności pożytku publicznego, na podstawie regulaminów zatwierdzonych przez organy statutowe udostępnianych do publicznej wiadomości za pomocą Internetu, środków masowego przekazu lub wykładanych (wywieszanych) dla zainteresowanych w pomieszczeniach ogólnie dostępnych – do wysokości nieprzekraczającej w roku podatkowym kwoty 3800 zł;
+- **40c)** zwrot kosztów przejazdu, o których mowa w art. 39 ust. 3 i 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
 - **40d)** (uchylony) 40e) świadczenie pieniężne ze środków budżetu państwa, przysługujące na podstawie art. 36 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2026 r. poz. 95);
 - **41)** (uchylony)
 - **42)** (uchylony)
@@ -984,7 +1040,7 @@ Art. 46–51. (pominięte)
 - **45a)** świadczenie pieniężne przyznane na podstawie ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich (Dz. U. z 2021 r. poz. 2029);
 - **46)** dochody otrzymane przez podatnika, jeżeli:
     - **a)** pochodzą od rządów państw obcych, organizacji międzynarodowych lub międzynarodowych instytucji finansowych ze środków bezzwrotnej pomocy, w tym ze środków programów ramowych badań, rozwoju technicznego i prezentacji Unii Europejskiej i z programów NATO, przyznanych na podstawie jednostronnej deklaracji lub umów zawartych z tymi państwami, organizacjami lub instytucjami przez Radę Ministrów, właściwego ministra, agencje rządowe lub agencje wykonawcze, w tym również w przypadkach gdy przekazanie tych środków jest dokonywane za pośrednictwem podmiotu upoważnionego do rozdzielania środków bezzwrotnej pomocy oraz
-    - **b)** podatnik bezpośrednio realizuje cel programu finansowanego z bezzwrotnej pomocy; zwolnienie nie ma zastosowania do dochodów osób fizycznych, którym podatnik bezpośrednio realizujący cel programu zleca bez względu na rodzaj umowy wykonanie określonych czynności w związku z realizowanym przez niego programem;
+    - **b)** podatnik bezpośrednio realizuje cel programu finansowanego z bezzwrotnej pomocy; zwolnienie nie ma zastosowania do dochodów osób fizycznych, którym podatnik bezpośrednio realizujący cel programu zleca – bez względu na rodzaj umowy – wykonanie określonych czynności w związku z realizowanym przez niego programem;
 
 - **46a)** dochody uzyskane z instytucji Unii Europejskiej i Europejskiego Banku Inwestycyjnego, do których mają zastosowanie przepisy rozporządzenia nr 260/68 z dnia 29 lutego 1968 r. ustanawiającego warunki i procedurę stosowania podatku na rzecz Wspólnot Europejskich (Dz. Urz. WE L 056 z 04.03.1968, z późn. zm.);
 - **46b)** przychody posłów wybranych w Rzeczypospolitej Polskiej do Parlamentu Europejskiego otrzymane na podstawie regulacji wewnętrznych Parlamentu Europejskiego na pokrycie kosztów związanych z wykonywaniem przez nich mandatu posła;
@@ -996,15 +1052,15 @@ Art. 46–51. (pominięte)
 - **47g)** kwoty otrzymane tytułem zwrotu na zasadach określonych w art. 85 ust. 4 i art. 86 ust. 2 ustawy o pracowniczych planach kapitałowych;
 - **47h)** kwoty rekompensat wypłaconych na podstawie ustawy z dnia 9 maja 2023 r. o Funduszu Ochrony Rolnictwa (Dz. U. z 2025 r. poz. 308), z wyjątkiem kwot wypłaconych w związku z prowadzeniem działów specjalnych produkcji rolnej, z których dochody są opodatkowane według skali, o której mowa w art. 27 ust. 1, lub na zasadach, o których mowa w art. 30c;
 - **48)** (uchylony)
-- **49)** świadczenia otrzymane przez:
-    - **a)** osoby wymienione w art. 23 ust. 1 i 3 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1270) z tytułu odprawy mieszkaniowej,
+- **49)** świadczenia otrzymane przez: o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1270) z tytułu odprawy mieszkaniowej,
+    - **a)** osoby wymienione w art. 23 ust. 1 i 3 ustawy z dnia 22 czerwca 1995 r.
     - **b)** żołnierzy zawodowych z tytułu świadczenia mieszkaniowego, o którym mowa w art. 21 ust. 2 pkt 3 ustawy wymienionej w lit. a;
 
 - **49a)** ekwiwalent pieniężny w zamian za rezygnację z lokalu wypłacany na podstawie przepisów o Służbie Ochrony Państwa;
 - **50)** przychody otrzymane w związku ze zwrotem udziałów lub wkładów w spółdzielni, do wysokości wniesionych udziałów lub wkładów do spółdzielni;
 - **50a)** wartość majątku otrzymanego w związku z likwidacją osoby prawnej lub spółki, w części stanowiącej koszt nabycia lub objęcia udziałów (akcji) w tej spółce lub udziałów w zyskach osoby prawnej;
 - **50b)** przychody z tytułu przeniesienia własności składników majątku będących przedmiotem wkładu niepieniężnego (aportu) wnoszonych do spółki niebędącej osobą prawną, w tym wnoszonych do takiej spółki składników majątku otrzymanych przez podatnika w następstwie likwidacji spółki niebędącej osobą prawną bądź wystąpienia z takiej spółki albo zmniejszenia udziału kapitałowego w takiej spółce;
-- **51)** przychody otrzymane z tytułu zwrotu wspólnikom dopłat wniesionych do spółki zgodnie z odrębnymi przepisami w wysokości określonej w złotych na dzień ich faktycznego wniesienia;
+- **51)** przychody otrzymane z tytułu zwrotu wspólnikom dopłat wniesionych do spółki zgodnie z odrębnymi przepisami – w wysokości określonej w złotych na dzień ich faktycznego wniesienia;
 - **51a)** kwoty stanowiące 50 % przychodów uzyskanych przez komandytariusza z tytułu udziału w zyskach w spółce komandytowej mającej siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, z wyjątkiem przychodów uzyskiwanych przez komandytariusza z wypłat podzielonych zysków spółki osiągniętych w okresie opodatkowania ryczałtem od dochodów spółek, zgodnie z przepisami rozdziału 6b ustawy o podatku dochodowym od osób prawnych, niewięcej jednak niż 60 000 zł w roku podatkowym odrębnie z tytułu udziału w zyskach w każdej takiej spółce komandytowej, w której podatnik jest komandytariuszem;
 - **52)** odsetki i kwoty rekompensat otrzymanych na podstawie przepisów ustawy z dnia 20 grudnia 1996 r. o zasadach realizacji przedpłat na samochody osobowe (Dz. U. poz. 776);
 - **53)** wartość rekompensaty pieniężnej otrzymanej na podstawie przepisów o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent;
@@ -1015,15 +1071,15 @@ Art. 46–51. (pominięte)
 - **58)** wypłaty:
     - **a)** transferowe środków zgromadzonych w ramach pracowniczego programu emerytalnego do innego pracowniczego programu emerytalnego lub na indywidualne konto emerytalne w rozumieniu przepisów o indywidualnych kontach emerytalnych,
     - **b)** środków zgromadzonych w pracowniczym programie emerytalnym dokonane na rzecz uczestnika lub osób uprawnionych do tych środków po śmierci uczestnika,
-    - **c)** środków zgromadzonych w grupowej formie ubezpieczenia na życie związanej z funduszem inwestycyjnym lub w innej formie grupowego gromadzenia środków na cele emerytalne dla pracowników do pracowniczego programu emerytalnego, zgodnie z przepisami o pracowniczych programach emerytalnych z zastrzeżeniem ust. 33;
+    - **c)** środków zgromadzonych w grupowej formie ubezpieczenia na życie związanej z funduszem inwestycyjnym lub w innej formie grupowego gromadzenia środków na cele emerytalne dla pracowników – do pracowniczego programu emerytalnego, zgodnie z przepisami o pracowniczych programach emerytalnych – z zastrzeżeniem ust. 33;
 
 - **58a)** dochody z tytułu oszczędzania na indywidualnym koncie emerytalnym, w rozumieniu przepisów o indywidualnych kontach emerytalnych, uzyskane w związku z: 58aa) dochody z tytułu gromadzenia oszczędności na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE uzyskane w związku z: 58ab) przychody otrzymane przez małżonka z tytułu zwrotu środków na podstawie art. 20–22 ustawy o OIPE; 58ac) przychody z tytułu gromadzenia oszczędności na subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, jeżeli przychody (dochody) z tytułu takich świadczeń nie podlegałyby w całości opodatkowaniu podatkiem dochodowym od osób fizycznych lub byłyby zwolnione z tego podatku w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, zgodnie z którego przepisami prowadzone jest takie subkonto, gdyby wypłata została dokonana na rzecz osoby mającej miejsce zamieszkania w tym państwie;
     - **a)** gromadzeniem i wypłatą środków przez oszczędzającego,
     - **b)** wypłatą środków dokonaną na rzecz osób uprawnionych do tych środków po śmierci oszczędzającego,
-    - **c)** wypłatą transferową z tym że zwolnienie nie ma zastosowania w przypadku, gdy oszczędzający gromadził oszczędności na więcej niż jednym indywidualnym koncie emerytalnym, chyba że przepisy te przewidują taką możliwość;
+    - **c)** wypłatą transferową – z tym że zwolnienie nie ma zastosowania w przypadku, gdy oszczędzający gromadził oszczędności na więcej niż jednym indywidualnym koncie emerytalnym, chyba że przepisy te przewidują taką możliwość;
     - **a)** gromadzeniem oszczędności i wypłatą środków przez oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE,
     - **b)** wypłatą środków dokonaną na rzecz osób uprawnionych do tych środków po śmierci oszczędzającego w rozumieniu art. 2 pkt 7 ustawy o OIPE,
-    - **c)** wypłatą transferową na podstawie przepisów ustawy o OIPE, z tym że zwolnienie nie ma zastosowania w przypadku, gdy oszczędzający jednocześnie gromadził oszczędności na więcej niż jednym subkoncie OIPE, chyba że przepisy te przewidują taką możliwość;
+    - **c)** wypłatą transferową – na podstawie przepisów ustawy o OIPE, z tym że zwolnienie nie ma zastosowania w przypadku, gdy oszczędzający jednocześnie gromadził oszczędności na więcej niż jednym subkoncie OIPE, chyba że przepisy te przewidują taką możliwość;
 
 - **58b)** wypłaty transferowe środków zgromadzonych przez oszczędzającego na indywidualnym koncie zabezpieczenia emerytalnego:
     - **a)** pomiędzy instytucjami finansowymi prowadzącymi indywidualne konta zabezpieczenia emerytalnego,
@@ -1040,7 +1096,7 @@ Art. 46–51. (pominięte)
 - **59a)** zapomoga pieniężna, o której mowa w ustawie z dnia 20 maja 2005 r. o zapomodze pieniężnej dla niektórych emerytów, rencistów i osób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny w 2007 r. (Dz. U. poz. 852, z 2006 r. poz. 708 i 711 oraz z 2007 r. poz. 219);
 - **59b)** kwoty składek zewidencjonowanych na subkoncie, o którym mowa w art. 40a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199, 252 i 426), członka otwartego funduszu emerytalnego przekazane na rzecz byłego współmałżonka na subkonto, o którym mowa w art. 40e tej ustawy;
 - **60)** (uchylony)
-- **61)** kwoty umorzonych kredytów studenckich i kredytów na studia medyczne, udzielonych na podstawie przepisów ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **61)** kwoty umorzonych kredytów studenckich i kredytów na studia medyczne, udzielonych na podstawie przepisów ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **62)** (uchylony)
 - **63)** pomoc pieniężna, świadczenie pieniężne, dodatek kompensacyjny oraz ryczałt energetyczny przyznane na podstawie ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2021 r. poz. 1774);
 - **63a)** dochody podatników, z zastrzeżeniem ust. 5a–5cd, uzyskane z działalności gospodarczej prowadzonej na terenie specjalnej strefy ekonomicznej na podstawie zezwolenia, o którym mowa w art. 16 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 1604 oraz z 2025 r. poz. 1173), przy czym wielkość pomocy publicznej udzielanej w formie niniejszego zwolnienia nie może przekroczyć wielkości pomocy publicznej dla przedsiębiorcy, dopuszczalnej dla obszarów kwalifikujących się do uzyskania pomocy w największej wysokości, zgodnie z odrębnymi przepisami;
@@ -1051,28 +1107,28 @@ Art. 46–51. (pominięte)
 - **67)** wartość otrzymanych przez pracownika w związku z finansowaniem działalności socjalnej, o której mowa w przepisach o zakładowym funduszu świadczeń socjalnych, rzeczowych świadczeń oraz otrzymanych przez niego w tym zakresie świadczeń pieniężnych, sfinansowanych w całości ze środków zakładowego funduszu świadczeń socjalnych lub funduszy związków zawodowych, łącznie do wysokości nieprzekraczającej w roku podatkowym kwoty 1000 zł; rzeczowymi świadczeniami nie są bony, talony i inne znaki, uprawniające do ich wymiany na towary lub usługi;
 - **67a)** świadczenia otrzymane z zakładowego funduszu świadczeń socjalnych, związane z pobytem dzieci osób uprawnionych do tych świadczeń w żłobkach, klubach dziecięcych lub przedszkolach;
 - **67b)** świadczenia, które nie są finansowane z zakładowego funduszu świadczeń socjalnych, otrzymane od pracodawcy z tytułu objęcia dziecka pracownika opieką sprawowaną przez dziennego opiekuna lub uczęszczania dziecka pracownika do żłobka, klubu dziecięcego lub przedszkola, do wysokości nieprzekraczającej miesięcznie kwoty 1000 zł, na każde dziecko, o którym mowa w art. 27f ust. 1;
-- **68)** wartość wygranych w konkursach i grach organizowanych i emitowanych (ogłaszanych) przez środki masowego przekazu (prasa, radio i telewizja) oraz konkursach z dziedziny nauki, kultury, sztuki, dziennikarstwa i sportu, a także nagród związanych ze sprzedażą premiową towarów lub usług jeżeli jednorazowa wartość tych wygranych lub nagród nie przekracza kwoty 2000 zł; zwolnienie od podatku nagród związanych ze sprzedażą premiową towarów lub usług nie dotyczy nagród otrzymanych przez podatnika w związku z prowadzoną przez niego pozarolniczą działalnością gospodarczą, stanowiących przychód z tej działalności;
-- **68a)** wartość nieodpłatnych świadczeń, o których mowa w art. 20 ust. 1, otrzymanych od świadczeniodawcy w związku z jego promocją lub reklamą jeżeli jednorazowa wartość tych świadczeń nie przekracza kwoty 200 zł; zwolnienie nie ma zastosowania, jeżeli świadczenie jest dokonywane na rzecz pracownika świadczeniodawcy lub osoby pozostającej ze świadczeniodawcą w stosunku cywilnoprawnym;
+- **68)** wartość wygranych w konkursach i grach organizowanych i emitowanych (ogłaszanych) przez środki masowego przekazu (prasa, radio i telewizja) oraz konkursach z dziedziny nauki, kultury, sztuki, dziennikarstwa i sportu, a także nagród związanych ze sprzedażą premiową towarów lub usług – jeżeli jednorazowa wartość tych wygranych lub nagród nie przekracza kwoty 2000 zł; zwolnienie od podatku nagród związanych ze sprzedażą premiową towarów lub usług nie dotyczy nagród otrzymanych przez podatnika w związku z prowadzoną przez niego pozarolniczą działalnością gospodarczą, stanowiących przychód z tej działalności;
+- **68a)** wartość nieodpłatnych świadczeń, o których mowa w art. 20 ust. 1, otrzymanych od świadczeniodawcy w związku z jego promocją lub reklamą – jeżeli jednorazowa wartość tych świadczeń nie przekracza kwoty 200 zł; zwolnienie nie ma zastosowania, jeżeli świadczenie jest dokonywane na rzecz pracownika świadczeniodawcy lub osoby pozostającej ze świadczeniodawcą w stosunku cywilnoprawnym;
 - **69)** (uchylony)
 - **70)** (uchylony)
 - **71)** dochody ze sprzedaży produktów roślinnych i zwierzęcych pochodzących z własnej uprawy lub hodowli, niestanowiących działów specjalnych produkcji rolnej, przerobionych sposobem przemysłowym, jeżeli przerób polega na kiszeniu produktów roślinnych lub przetwórstwie mleka albo na uboju zwierząt rzeźnych i obróbce poubojowej tych zwierząt, w tym również na rozbiorze, podziale i klasyfikacji mięsa;
 - **71a)** przychody, o których mowa w art. 20 ust. 1c, do kwoty 100 000 zł rocznie;
-- **72)** dochody ze sprzedaży surowców roślin zielarskich i ziół dziko rosnących leśnych, jagód, owoców leśnych i grzybów leśnych (PKWiU ex 02.30.40.0) ze zbioru dokonywanego osobiście albo z udziałem członków najbliższej rodziny;
+- **72)** dochody ze sprzedaży surowców roślin zielarskich i ziół dziko rosnących leśnych, jagód, owoców leśnych i grzybów leśnych (PKWiU ex 02.30.40.0) – ze zbioru dokonywanego osobiście albo z udziałem członków najbliższej rodziny;
 - **73)** kwoty jednorazowej pomocy finansowej wypłaconej ofiarom prześladowań hitlerowskich przez Fundację Polsko-Niemieckie Pojednanie;
 - **74)** otrzymywane z zagranicy:
     - **a)** renty inwalidzkie z tytułu inwalidztwa wojennego,
     - **b)** kwoty zaopatrzenia przyznane ofiarom wojny oraz członkom ich rodzin,
-    - **c)** renty wypadkowe osób, których inwalidztwo powstało w związku z przymusowym pobytem na robotach w III Rzeszy Niemieckiej w latach 1939–1945, pod warunkiem przedstawienia płatnikowi dokumentu instytucji zagranicznej stwierdzającego charakter przyznanego świadczenia;
+    - **c)** renty wypadkowe osób, których inwalidztwo powstało w związku z przymusowym pobytem na robotach w III Rzeszy Niemieckiej w latach 1939–1945, – pod warunkiem przedstawienia płatnikowi dokumentu instytucji zagranicznej stwierdzającego charakter przyznanego świadczenia;
 
 - **75)** renty wypłacone osobom represjonowanym i członkom ich rodzin, przyznane na zasadach określonych w przepisach o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin;
 - **76)** kwoty diet i kieszonkowego dla gości zagranicznych przybywających do Polski w ramach programów i umów oraz wartość wyżywienia dla tłumaczy (pilotów) towarzyszących tym gościom, z wyjątkiem ekwiwalentów za to wyżywienie;
-- **77)** równoważniki pieniężne za brak lokalu mieszkalnego, otrzymane przez funkcjonariuszy Służby Celno-Skarbowej do wysokości nieprzekraczającej kwoty 2280 zł;
+- **77)** równoważniki pieniężne za brak lokalu mieszkalnego, otrzymane przez funkcjonariuszy Służby Celno-Skarbowej – do wysokości nieprzekraczającej kwoty 2280 zł;
 - **77a)** świadczenia mieszkaniowe otrzymane przez funkcjonariuszy służb mundurowych, przyznane na podstawie odrębnych ustaw dotyczących tych służb lub przepisów wykonawczych wydanych na podstawie tych ustaw;
 - **77b)** przychody z tytułu pokrytych przez Skarb Państwa kosztów zakwaterowania w kwaterze tymczasowej funkcjonariuszy służb mundurowych przeniesionych z urzędu do pełnienia służby albo delegowanych z urzędu do czasowego pełnienia służby w innej jednostce organizacyjnej lub miejscowości, przyznane na podstawie odrębnych ustaw dotyczących tych służb lub przepisów wykonawczych wydanych na podstawie tych ustaw;
 - **77c)** przychody z tytułu pokrytych przez Skarb Państwa kosztów zakwaterowania w kwaterze tymczasowej funkcjonariuszy Służby Więziennej, o których mowa w art. 73 ust. 1 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2025 r. poz. 1750 i 1823);
-- **78)** dopłaty do: wypoczynku zorganizowanego przez podmioty prowadzące działalność w tym zakresie, w formie wczasów, kolonii, obozów i zimowisk, w tym również połączonego z nauką, pobytu na leczeniu sanatoryjnym, w placówkach leczniczo-sanatoryjnych, rehabilitacyjno-szkoleniowych i leczniczo-opiekuńczych, oraz przejazdów związanych z tym wypoczynkiem i pobytem na leczeniu dzieci i młodzieży do lat 18:
-    - **a)** z funduszu socjalnego, zakładowego funduszu świadczeń socjalnych oraz zgodnie z odrębnymi przepisami wydanymi przez właściwego ministra niezależnie od ich wysokości,
-    - **b)** z innych źródeł do wysokości nieprzekraczającej w roku podatkowym kwoty 2000 zł;
+- **78)** dopłaty do: wypoczynku zorganizowanego przez podmioty prowadzące działalność w tym zakresie, w formie wczasów, kolonii, obozów i zimowisk, w tym również połączonego z nauką, pobytu na leczeniu sanatoryjnym, w placówkach leczniczo-sanatoryjnych, rehabilitacyjno-szkoleniowych i leczniczo-opiekuńczych, oraz przejazdów związanych z tym wypoczynkiem i pobytem na leczeniu – dzieci i młodzieży do lat 18:
+    - **a)** z funduszu socjalnego, zakładowego funduszu świadczeń socjalnych oraz zgodnie z odrębnymi przepisami wydanymi przez właściwego ministra – niezależnie od ich wysokości,
+    - **b)** z innych źródeł – do wysokości nieprzekraczającej w roku podatkowym kwoty 2000 zł;
 
 - **78a)** (uchylony)
 - **79)** świadczenia z pomocy społecznej;
@@ -1080,21 +1136,22 @@ Art. 46–51. (pominięte)
 - **80)** przychody ze stosunku służbowego otrzymane w służbie kandydackiej przez funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej;
 - **81)** (uchylony)
 - **82)** uposażenia funkcjonariuszy Organizacji Narodów Zjednoczonych, organizacji wyspecjalizowanych oraz innych międzynarodowych instytucji i organizacji, których Rzeczpospolita Polska jest członkiem i których statuty przewidują zwolnienie od podatku wypłacanych przez nie uposażeń, pod warunkiem posiadania przez podatnika dokumentów stwierdzających, że jest funkcjonariuszem takiej organizacji lub instytucji;
-- **82a)** kwoty podwyższenia uposażenia, o których mowa w art. 121a ust. 10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 421), w art. 125a ust. 10 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2026 r. poz. 367), w art. 105a ust. 10 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312 i 1366 oraz z 2026 r. poz. 252), w art. 136a ust. 3a ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26), w art. 96a ust. 3a ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2025 r. poz. 694, 718 i 1366), w art. 102a ust. 3a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718), w art. 60a ust. 10 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2025 r. poz. 1750 i 1823), w art. 231 ust. 11 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415), w art. 193 ust. 10 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r. poz. 1871 oraz z 2025 r. poz. 179, 718, 1366 i 1823), w art. 86 ust. 10 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2025 r. poz. 607 i 718), w art. 454 ust. 9 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26 i 426), oraz kwoty podwyższenia zasiłku macierzyńskiego, o których mowa w art. 31 ust. 3a ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26 i 441);
+- **82a)** kwoty podwyższenia uposażenia, o których mowa w art. 121a ust. 10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 421), w art. 125a ust. 10 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2026 r. poz. 367), w art. 105a ust. 10 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312 i 1366 oraz z 2026 r. poz. 252), w art. 136a ust. 3a ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26), w art. 96a ust. 3a ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2025 r. poz. 694, 718 i 1366), w art. 102a ust. 3a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718), w art. 60a ust. 10 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2025 r. poz. 1750 i
+- **1823)** , w art. 231 ust. 11 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415), w art. 193 ust. 10 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r. poz. 1871 oraz z 2025 r. poz. 179, 718, 1366 i 1823), w art. 86 ust. 10 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2025 r. poz. 607 i 718), w art. 454 ust. 9 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26 i 426), oraz kwoty podwyższenia zasiłku macierzyńskiego, o których mowa w art. 31 ust. 3a ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26 i 441);
 - **83)** świadczenia przyznane na podstawie odrębnych ustaw lub przepisów wykonawczych wydanych na podstawie tych ustaw żołnierzom oraz pracownikom wojska wykonującym zadania poza granicami państwa:
     - **a)** w składzie jednostki wojskowej użytej w celu udziału w konflikcie zbrojnym lub dla wzmocnienia sił państwa albo państw sojuszniczych, misji pokojowej, akcji zapobieżenia aktom terroryzmu lub ich skutkom,
-    - **b)** jako obserwator wojskowy lub osoba posiadająca status obserwatora wojskowego w misjach pokojowych organizacji międzynarodowych i sił wielonarodowych z wyjątkiem wynagrodzenia za pracę oraz uposażeń i innych należności pieniężnych przysługujących z tytułu pełnienia służby;
+    - **b)** jako obserwator wojskowy lub osoba posiadająca status obserwatora wojskowego w misjach pokojowych organizacji międzynarodowych i sił wielonarodowych – z wyjątkiem wynagrodzenia za pracę oraz uposażeń i innych należności pieniężnych przysługujących z tytułu pełnienia służby;
 
 - **83a)** świadczenia przyznane na podstawie odrębnych ustaw lub przepisów wykonawczych wydanych na podstawie tych ustaw policjantom, funkcjonariuszom Służby Celno-Skarbowej i Straży Granicznej, pracownikom jednostek policyjnych lub jednostek organizacyjnych Straży Granicznej wykonującym zadania poza granicami państwa w składzie kontyngentu w celu udziału w:
     - **a)** misji pokojowej, w tym jako obserwator w misji pokojowej organizacji międzynarodowych i sił wielonarodowych,
     - **b)** akcji zapobieżenia aktom terroryzmu lub ich skutkom,
-    - **c)** organizowaniu i kontroli ruchu granicznego, organizowaniu ochrony granicy państwowej lub zapewnieniu bezpieczeństwa w komunikacji międzynarodowej z wyjątkiem wynagrodzenia za pracę oraz uposażeń i innych należności pieniężnych przysługujących z tytułu pełnienia służby;
+    - **c)** organizowaniu i kontroli ruchu granicznego, organizowaniu ochrony granicy państwowej lub zapewnieniu bezpieczeństwa w komunikacji międzynarodowej – z wyjątkiem wynagrodzenia za pracę oraz uposażeń i innych należności pieniężnych przysługujących z tytułu pełnienia służby;
 
 - **83b)** wynagrodzenia za udzielanie pomocy służbom państwowym lub Biuru Nadzoru Wewnętrznego, wypłacane z funduszu operacyjnego, o którym mowa w odrębnych ustawach;
 - **83c)** świadczenia z tytułu pomocy przyznanej na podstawie art. 14 ustawy z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2016 r. poz. 1197) oraz udzielonej na podstawie art. 7 ustawy z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r. poz. 21 oraz z 2024 r. poz. 1228), a także inne świadczenia o podobnym charakterze otrzymane w związku z ujawnieniem wobec organu powołanego do ścigania przestępstw informacji dotyczących osób uczestniczących w popełnieniu przestępstwa oraz istotnych okoliczności jego popełnienia;
 - **83d)** świadczenia przyznane na podstawie odrębnych ustaw lub przepisów wykonawczych wydanych na podstawie tych ustaw:
     - **a)** żołnierzom oddelegowanym do urzędu, organizacji lub instytucji międzynarodowej albo państwa obcego, w których są wykonywane zadania związane z obronnością Rzeczypospolitej Polskiej,
-    - **b)** funkcjonariuszom Policji i Straży Granicznej oddelegowanym albo delegowanym do pełnienia służby poza granicami państwa w ramach wykonywania zadań określonych w przepisach prawa Unii Europejskiej lub umowach międzynarodowych wiążących Rzeczpospolitą Polską do urzędu, organizacji, instytucji międzynarodowej albo państwa obcego, w których są wykonywane zadania związane z zapewnieniem bezpieczeństwa wewnętrznego i porządku publicznego, ochrony granicy Rzeczypospolitej Polskiej oraz z zapobieganiem i przeciwdziałaniem nielegalnej migracji z wyjątkiem uposażeń i innych należności pieniężnych przysługujących z tytułu pełnienia służby;
+    - **b)** funkcjonariuszom Policji i Straży Granicznej oddelegowanym albo delegowanym do pełnienia służby poza granicami państwa w ramach wykonywania zadań określonych w przepisach prawa Unii Europejskiej lub umowach międzynarodowych wiążących Rzeczpospolitą Polską do urzędu, organizacji, instytucji międzynarodowej albo państwa obcego, w których są wykonywane zadania związane z zapewnieniem bezpieczeństwa wewnętrznego i porządku publicznego, ochrony granicy Rzeczypospolitej Polskiej oraz z zapobieganiem i przeciwdziałaniem nielegalnej migracji – z wyjątkiem uposażeń i innych należności pieniężnych przysługujących z tytułu pełnienia służby;
 
 - **84)** wartość świadczeń z tytułu uprawnień do ulgowych przejazdów środkami publicznego transportu zbiorowego kolejowego i autobusowego, wynikających z przepisów o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego;
 - **85)** wartość świadczeń z tytułu realizacji uprawnień do ulgowych lub bezpłatnych przejazdów środkami komunikacji miejskiej, przysługujących na podstawie odrębnych przepisów;
@@ -1108,20 +1165,20 @@ Art. 46–51. (pominięte)
 - **90c)** świadczenia, o których mowa w art. 145ga ust. 2 i 6 ustawy z dnia 6 kwietnia 1990 r. o Policji, w art. 147j ust. 2 i 2d ustawy z dnia 12 października 1990 r. o Straży Granicznej, w art. 49i ust. 2 i 6 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, w art. 9b ust. 1 i 5 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2023 r. poz. 755 oraz z 2026 r. poz. 50), w art. 85b ust. 2 i 6 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, w art. 288 ust. 14 i 18 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, w art. 4a ust. 2 i 6 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego oraz w art. 144a ust. 2 i 6 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa;
 - **91)** wypłacone, za pośrednictwem płatnika, przy emeryturach i rentach zagranicznych podwyżki (zwiększenia) mające charakter dodatków rodzinnych, pod warunkiem przedstawienia płatnikowi dokumentu stwierdzającego wysokość podwyżki;
 - **92)** świadczenia otrzymane na podstawie odrębnych przepisów przez członków rodzin zmarłych pracowników oraz zmarłych emerytów lub rencistów, do wysokości nieprzekraczającej w roku podatkowym kwoty 3000 zł;
-- **93)** dochody uzyskane z tytułu zakupu zakładowych budynków mieszkalnych lub lokali mieszkalnych przez dotychczasowych najemców w wysokości odpowiadającej różnicy między ceną rynkową tych budynków lub lokali a ceną zakupu;
+- **93)** dochody uzyskane z tytułu zakupu zakładowych budynków mieszkalnych lub lokali mieszkalnych przez dotychczasowych najemców – w wysokości odpowiadającej różnicy między ceną rynkową tych budynków lub lokali a ceną zakupu;
 - **94)** wynagrodzenia otrzymywane przez członków rolniczych spółdzielni produkcyjnych z tytułu użytkowania przez spółdzielnie wniesionych wkładów gruntowych;
 - **95)** odsetki z tytułu nieterminowej wypłaty wynagrodzeń i świadczeń z tytułów, o których mowa w art. 10 ust. 1 pkt 1;
 - **95a)** odsetki z tytułu nieterminowej wypłaty zasiłków pieniężnych z ubezpieczenia społecznego;
 - **95b)** odsetki z tytułu nieterminowej wypłaty należności niepodlegających opodatkowaniu podatkiem dochodowym, wolnych od podatku dochodowego lub od których na podstawie przepisów Ordynacji podatkowej zaniechano poboru podatku;
 - **96)** (uchylony)
 - **97)** dodatki mieszkaniowe i ryczałty na zakup opału, przyznane na podstawie odrębnych przepisów o dodatkach mieszkaniowych;
-- **97a)** dodatek energetyczny, otrzymany przez odbiorcę wrażliwego energii elektrycznej w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne;
-- **97b)** kwoty należności z tytułu: poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426) lub uchwały, o której mowa w art. 59 ust. 3 tej ustawy;
+- **97a)** dodatek energetyczny, otrzymany przez odbiorcę wrażliwego energii elektrycznej w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne;
+- **97b)** kwoty należności z tytułu: o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426) lub uchwały, o której mowa w art. 59 ust. 3 tej ustawy;
     - **a)** zaległej opłaty z tytułu czynszu najmu lokalu mieszkalnego,
     - **b)** zaległej opłaty za dostawy do lokalu mieszkalnego energii, gazu, wody oraz za odbiór ścieków, odpadów i nieczystości ciekłych,
     - **c)** odszkodowania za bezumowne korzystanie z lokalu mieszkalnego,
     - **d)** odsetek od należności, o których mowa w lit. a–c,
-    - **e)** nieuregulowanych kosztów dochodzenia i egzekucji należności, o których mowa w lit. a–d, w tym zasądzonych prawomocnym tytułem wykonawczym wraz z kosztami postępowania sądowego i egzekucyjnego umorzonych na podstawie art. 59 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r.
+    - **e)** nieuregulowanych kosztów dochodzenia i egzekucji należności, o których mowa w lit. a–d, w tym zasądzonych prawomocnym tytułem wykonawczym wraz z kosztami postępowania sądowego i egzekucyjnego – umorzonych na podstawie art. 59 ust. 1 ustawy z dnia 27 sierpnia 2009 r.
 
 - **98)** dodatek kombatancki oraz dodatek za tajne nauczanie przyznawane na podstawie odrębnych przepisów;
 - **98a)** kwoty refundacji z tytułu opłaconej składki na obowiązkowe ubezpieczenie odpowiedzialności cywilnej posiadaczy pojazdów samochodowych lub na dobrowolne ubezpieczenie casco pojazdów samochodowych, przyznanych na podstawie ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2025 r. poz. 195 oraz z 2026 r. poz. 26);
@@ -1144,23 +1201,23 @@ Art. 46–51. (pominięte)
     - **f)** przejazdu w celu potwierdzenia nabycia wiedzy i umiejętności lub uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności,
     - **g)** przejazdu do miejsca działań w zakresie reintegracji społecznej;
 
-- **102a)** dochody (przychody) uzyskane z tytułu: o rynku pracy i służbach zatrudnienia otrzymanych przez bezrobotnych i poszukujących pracy w ramach programów specjalnych w rozumieniu art. 2 pkt 31 tej ustawy,
+- **102a)** dochody (przychody) uzyskane z tytułu: o rynku pracy i służbach zatrudnienia oraz dodatków do stypendiów, o których mowa w art. 121 tej ustawy;
     - **a)** świadczeń otrzymanych przez bezrobotnych i poszukujących pracy w ramach realizacji działań, o których mowa w art. 197 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, oraz przez uczestników projektów pilotażowych, o których mowa w art. 2 pkt 33 i art. 211 tej ustawy,
-    - **b)** specyficznych elementów wspierających zatrudnienie w rozumieniu w art. 2 pkt 41 ustawy z dnia 20 marca 2025 r.
+    - **b)** specyficznych elementów wspierających zatrudnienie w rozumieniu w art. 2 pkt 41 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia otrzymanych przez bezrobotnych i poszukujących pracy w ramach programów specjalnych w rozumieniu art. 2 pkt 31 tej ustawy,
     - **c)** świadczeń otrzymanych w ramach bonu na kształcenie ustawiczne lub bonu na zasiedlenie, o których mowa w art. 107 ust. 3 oraz art. 208 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
-    - **d)** stypendiów otrzymanych na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz dodatków do stypendiów, o których mowa w art. 121 tej ustawy;
+    - **d)** stypendiów otrzymanych na podstawie ustawy z dnia 20 marca 2025 r.
 
 - **103)** (uchylony)
 - **104)** otrzymane przez posła lub senatora świadczenia pieniężne i wartość świadczeń rzeczowych (w naturze) na podstawie art. 23 ust. 3, art. 43 ust. 1, art. 44 ust. 1 i 2 oraz art. 46 ustawy z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. z 2024 r. poz. 907);
-- **105)** dochód uzyskany ze zbycia udziałów w spółce kapitałowej, udziałów w spółdzielni, papierów wartościowych oraz z umorzenia, odkupienia, wykupienia albo unicestwienia w inny sposób tytułów uczestnictwa w funduszach kapitałowych i ze zbycia tych tytułów uczestnictwa, otrzymanych w drodze darowizny w części odpowiadającej kwocie zapłaconego podatku od spadków i darowizn;
-- **105a)** dochody uzyskane z odpłatnego zbycia akcji objętych lub nabytych przez podatnika lub spadkodawcę podatnika w wyniku pierwszej oferty publicznej w rozumieniu art. 4 pkt 5 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. oraz z 2026 r. poz. 176), jeżeli:
+- **105)** dochód uzyskany ze zbycia udziałów w spółce kapitałowej, udziałów w spółdzielni, papierów wartościowych oraz z umorzenia, odkupienia, wykupienia albo unicestwienia w inny sposób tytułów uczestnictwa w funduszach kapitałowych i ze zbycia tych tytułów uczestnictwa, otrzymanych w drodze darowizny – w części odpowiadającej kwocie zapłaconego podatku od spadków i darowizn;
+- **105a)** dochody uzyskane z odpłatnego zbycia akcji objętych lub nabytych przez podatnika lub spadkodawcę podatnika w wyniku pierwszej oferty publicznej w rozumieniu art. 4 pkt 5 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592 oraz z 2026 r. poz. 176), jeżeli:
     - **a)** odpłatne zbycie tych akcji nastąpiło po upływie trzech lat od dnia, w którym akcje te zostały dopuszczone do obrotu na rynku regulowanym albo wprowadzone do alternatywnego systemu obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, oraz
     - **b)** podatnik albo spadkodawca podatnika, którzy objęli lub nabyli te akcje, nie byli ze spółką podmiotami powiązanymi w rozumieniu art. 23m ust. 1 pkt 4 w okresie dwóch lat poprzedzających dzień objęcia lub nabycia tych akcji odpowiednio przez podatnika albo spadkodawcę podatnika;
 
 - **106)** odszkodowania otrzymane na podstawie rezolucji Rady Bezpieczeństwa Narodów Zjednoczonych wypłacone osobom poszkodowanym na skutek działań wojennych w Kuwejcie;
 - **107)** nagrody wypłacone na podstawie przepisów wydanych przez właściwego ministra w sprawie organizowania zajęć rehabilitacyjnych w szpitalach psychiatrycznych i nagradzania uczestników tych zajęć;
 - **108)** kwoty pomocy pieniężnej i wartość innych świadczeń finansowanych ze środków budżetowych, przyznawanych repatriantom oraz osobom, które ubiegają się o udzielenie ochrony międzynarodowej;
-- **109)** przychody, o których mowa w art. 17 ust. 1 pkt 9, z zastrzeżeniem art. 24 ust. 23 jeżeli przedmiotem wkładu niepieniężnego jest przedsiębiorstwo lub jego zorganizowana część i spółka lub spółdzielnia otrzymująca wkład przyjęła dla celów podatkowych składniki majątku wchodzące w skład tego przedsiębiorstwa lub jego zorganizowanej części w wartości wynikającej z ksiąg podatkowych podmiotu wnoszącego ten wkład;
+- **109)** przychody, o których mowa w art. 17 ust. 1 pkt 9, z zastrzeżeniem art. 24 ust. 23 – jeżeli przedmiotem wkładu niepieniężnego jest przedsiębiorstwo lub jego zorganizowana część i spółka lub spółdzielnia otrzymująca wkład przyjęła dla celów podatkowych składniki majątku wchodzące w skład tego przedsiębiorstwa lub jego zorganizowanej części w wartości wynikającej z ksiąg podatkowych podmiotu wnoszącego ten wkład;
 - **110)** wartość świadczeń przysługujących osobom wykonującym zadania służby zagranicznej w placówce zagranicznej oraz wartość świadczeń przysługujących pracownikom polskich jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej, wynikających z przepisów odrębnych ustaw lub przepisów wykonawczych wydanych na ich podstawie, z wyjątkiem wynagrodzeń za pracę, ekwiwalentu pieniężnego za urlop wypoczynkowy, oraz zasiłków chorobowych i macierzyńskich;
 - **111)** oprocentowanie otrzymane w związku ze zwrotem nadpłaconych zobowiązań podatkowych i innych należności budżetowych, a także oprocentowanie zwrotu różnicy podatku od towarów i usług, w rozumieniu odrębnych przepisów;
 - **112)** zwrot kosztów dojazdu pracownika do zakładu pracy, jeżeli obowiązek ponoszenia tych kosztów przez zakład pracy wynika wprost z przepisów innych ustaw;
@@ -1171,20 +1228,20 @@ Art. 46–51. (pominięte)
 - **116a)** umorzone należności i wierzytelności przypadające agencjom płatniczym w ramach Wspólnej Polityki Rolnej, a także należności z tytułu nienależnie lub nadmiernie pobranych płatności w ramach systemów wsparcia bezpośredniego oraz w ramach wspierania rozwoju obszarów wiejskich z udziałem środków pochodzących z Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, od ustalenia których odstąpiono;
 - **117)** wartość otrzymanych świadczeń od wolontariuszy, udzielanych na zasadach określonych w ustawie o działalności pożytku publicznego;
 - **117a)** wartość nieodpłatnego świadczenia z tytułu pomocy prawnej udzielonej osobie uprawnionej i pobierającej świadczenie z pomocy społecznej lub zasiłek rodzinny, przyznane w formie decyzji administracyjnej na zasadach określonych odpowiednio w przepisach o pomocy społecznej oraz w przepisach o świadczeniach rodzinnych;
-- **118)** wartość nieodpłatnych świadczeń lub świadczeń częściowo odpłatnych oraz wartość świadczeń rzeczowych, z tytułu:
-    - **a)** opłat, o których mowa w art. 103 i art. 104 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
+- **118)** wartość nieodpłatnych świadczeń lub świadczeń częściowo odpłatnych oraz wartość świadczeń rzeczowych, z tytułu: o rynku pracy i służbach zatrudnienia,
+    - **a)** opłat, o których mowa w art. 103 i art. 104 ustawy z dnia 20 marca 2025 r.
     - **b)** szkoleń,
     - **c)** potwierdzenia nabycia wiedzy i umiejętności lub uzyskania dokumentu potwierdzającego nabycie wiedzy i umiejętności,
     - **d)** badań lekarskich lub psychologicznych,
     - **e)** ubezpieczenia od następstw nieszczęśliwych wypadków,
-    - **f)** umorzenia pożyczek edukacyjnych, o których mowa w art. 111 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia otrzymanych na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;
+    - **f)** umorzenia pożyczek edukacyjnych, o których mowa w art. 111 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia – otrzymanych na podstawie ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;
 
 - **118a)** wartość nieodpłatnych lub częściowo odpłatnych usług społecznych, udzielonych osobie na podstawie programu usług społecznych, o którym mowa w ustawie z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. z 2026 r. poz. 165);
 - **119)** odsetki od papierów wartościowych emitowanych przez Skarb Państwa oraz obligacji emitowanych przez jednostki samorządu terytorialnego, w części odpowiadającej kwocie odsetek zapłaconych przy nabyciu tych papierów wartościowych od emitenta;
 - **120)** odszkodowania wypłacone, na podstawie wyroków sądowych i zawartych umów (ugód), posiadaczom gruntów wchodzących w skład gospodarstwa rolnego, z tytułu:
     - **a)** ustanowienia służebności gruntowej,
     - **b)** rekultywacji gruntów,
-    - **c)** szkód powstałych w uprawach rolnych i drzewostanie w wyniku prowadzenia na tych gruntach, przez podmioty uprawnione na podstawie odrębnych przepisów, inwestycji dotyczących budowy infrastruktury przesyłowej ropy naftowej i produktów rafinacji ropy naftowej oraz budowy urządzeń infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2026 r. poz. 399);
+    - **c)** szkód powstałych w uprawach rolnych i drzewostanie – w wyniku prowadzenia na tych gruntach, przez podmioty uprawnione na podstawie odrębnych przepisów, inwestycji dotyczących budowy infrastruktury przesyłowej ropy naftowej i produktów rafinacji ropy naftowej oraz budowy urządzeń infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2026 r. poz. 399);
 
 - **120a)** wynagrodzenie otrzymane za ustanowienie służebności przesyłu w rozumieniu przepisów prawa cywilnego;
 - **121)** środki na założenie lub przystąpienie do spółdzielni socjalnej, o których mowa w art. 161 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia;
@@ -1201,21 +1258,21 @@ Art. 46–51. (pominięte)
 
 - **128)** świadczenia wypłacane bezrobotnym skierowanym do wykonywania prac społecznie użytecznych;
 - **129)** dotacje, w rozumieniu przepisów o finansach publicznych, otrzymane z budżetu państwa lub budżetów jednostek samorządu terytorialnego, z zastrzeżeniem ust. 36;
-- **129a)** świadczenia, w szczególności dotacje oraz kwoty umorzonych pożyczek, otrzymane ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej lub wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, na przygotowanie dokumentacji oraz realizację przedsięwzięcia, w tym otrzymane ze środków udostępnionych bankom zgodnie z art. 411 ust. 10 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176 i 426);
+- **129a)** świadczenia, w szczególności dotacje oraz kwoty umorzonych pożyczek, otrzymane ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej lub wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, na przygotowanie dokumentacji oraz realizację przedsięwzięcia, w tym otrzymane ze środków udostępnionych bankom zgodnie z art. 411 ust. 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176 i 426);
 - **129b)** (uchylony)
 - **130)** odsetki lub dyskonto od obligacji emitowanych przez Skarb Państwa i oferowanych na rynkach zagranicznych oraz dochody z odpłatnego zbycia tych obligacji uzyskane przez osoby fizyczne, o których mowa w art. 3 ust. 2a;
 - **130a)** odsetki lub dyskonto od listów zastawnych uzyskane przez osoby fizyczne, o których mowa w art. 3 ust. 2a;
 - **130b)** odsetki lub dyskonto od obligacji emitowanych przez Bank Gospodarstwa Krajowego i oferowanych na rynkach zagranicznych, przeznaczonych na finansowanie ustawowych celów działalności Banku Gospodarstwa Krajowego, dotyczących wspierania polityki gospodarczej Rady Ministrów, realizacji rządowych programów społeczno-gospodarczych oraz programów samorządności lokalnej i rozwoju regionalnego, oraz dochody z odpłatnego zbycia tych obligacji, uzyskane przez podatników, o których mowa w art. 3 ust. 2a;
 - **130c)** dochody osiągnięte przez podatnika, o którym mowa w art. 3 ust. 2a, z odsetek lub dyskonta od obligacji:
     - **a)** o terminie wykupu niekrótszym niż rok,
-    - **b)** dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa będącego stroną zawartej z Rzecząpospolitą Polską umowy o unikaniu podwójnego opodatkowania, której przepisy określają zasady opodatkowania dochodów z dywidend, odsetek oraz należności licencyjnych chyba że na moment osiągnięcia dochodu podatnik jest podmiotem powiązanym w rozumieniu art. 23m ust. 1 pkt 4 lub w rozumieniu art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych z emitentem tych obligacji oraz posiada, bezpośrednio lub pośrednio, łącznie z innymi podmiotami powiązanymi w rozumieniu tych przepisów więcej niż 10 % wartości nominalnej tych obligacji;
+    - **b)** dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa będącego stroną zawartej z Rzecząpospolitą Polską umowy o unikaniu podwójnego opodatkowania, której przepisy określają zasady opodatkowania dochodów z dywidend, odsetek oraz należności licencyjnych – chyba że na moment osiągnięcia dochodu podatnik jest podmiotem powiązanym w rozumieniu art. 23m ust. 1 pkt 4 lub w rozumieniu art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych z emitentem tych obligacji oraz posiada, bezpośrednio lub pośrednio, łącznie z innymi podmiotami powiązanymi w rozumieniu tych przepisów więcej niż 10 % wartości nominalnej tych obligacji;
 
 - **130d)** odsetki lub dyskonto od obligacji emitowanych przez Bankowy Fundusz Gwarancyjny i oferowanych na rynkach zagranicznych oraz dochody z odpłatnego zbycia tych obligacji, uzyskane przez podatników, o których mowa w art. 3 ust. 2a;
 - **131)** dochody z odpłatnego zbycia nieruchomości i praw majątkowych, o których mowa w art. 30e, w wysokości, która odpowiada iloczynowi tego dochodu i udziału wydatków poniesionych na własne cele mieszkaniowe w przychodzie z odpłatnego zbycia nieruchomości i praw majątkowych, jeżeli począwszy od dnia odpłatnego zbycia, niepóźniej niż w okresie trzech lat od końca roku podatkowego, w którym nastąpiło odpłatne zbycie, przychód uzyskany ze zbycia tej nieruchomości lub tego prawa majątkowego został wydatkowany na własne cele mieszkaniowe; udokumentowane wydatki poniesione na te cele uwzględnia się do wysokości przychodu z odpłatnego zbycia nieruchomości i praw majątkowych;
 - **131a)** przychody z dzierżawy lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych społecznym agencjom najmu, o których mowa w art. 22a ust. 1 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2025 r. poz. 1273 oraz z 2026 r. poz. 39),
 - **132)** przyznane przez krajowe i zagraniczne organy władzy i ich urzędy, w tym jednostki organizacyjne im podległe lub przez nie nadzorowane, oraz krajowe, zagraniczne i międzynarodowe organizacje (instytucje) i ich organy, nagrody:
     - **a)** za wybitne osiągnięcia z dziedziny nauki, kultury i sztuki,
-    - **b)** z tytułu działalności na rzecz praw człowieka w części przekazanej jako darowizna przez podatników, którzy otrzymali te nagrody, na rzecz instytucji realizującej cele określone w art. 4 ustawy o działalności pożytku publicznego, z zastrzeżeniem ust. 31;
+    - **b)** z tytułu działalności na rzecz praw człowieka – w części przekazanej jako darowizna przez podatników, którzy otrzymali te nagrody, na rzecz instytucji realizującej cele określone w art. 4 ustawy o działalności pożytku publicznego, z zastrzeżeniem ust. 31;
 
 - **133)** premia termomodernizacyjna, premia remontowa i premia kompensacyjna uzyskane na podstawie ustawy o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków;
 - **134)** świadczenia pieniężne otrzymane na podstawie ustawy z dnia 7 maja 2009 r. o zadośćuczynieniu rodzinom ofiar zbiorowych wystąpień wolnościowych w latach 1956–1989 (Dz. U. z 2020 r. poz. 678);
@@ -1227,8 +1284,8 @@ Art. 46–51. (pominięte)
 - **140)** kwota określona zgodnie z art. 27f ust. 8–10;
 - **141)** zwolnienie z opłaty za wydanie Karty Dużej Rodziny lub duplikatu Karty Dużej Rodziny członkowi rodziny wielodzietnej na podstawie ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2024 r. poz. 1512);
 - **142)** kwoty umorzonych zobowiązań niezwiązanych z pozarolniczą działalnością gospodarczą, jeżeli umorzenie zobowiązań związane jest z postępowaniem upadłościowym;
-- **143)** dochody kredytobiorców z tytułu:
-    - **a)** umorzonych należności otrzymanych na podstawie ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. z 2024 r. poz. 1385),
+- **143)** dochody kredytobiorców z tytułu: poz. 1385),
+    - **a)** umorzonych należności otrzymanych na podstawie ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej (Dz. U. z 2024 r.
     - **b)** niepodlegających zwrotowi kwot pokrywanych ze środków kredytodawcy za okres dodatkowej weryfikacji, o których mowa w art. 8a ust. 7 ustawy, o której mowa w lit. a;
 
 - **144)** wartość wyżywienia i zakwaterowania zapewnionego nieodpłatnie przez rolnika pomocnikowi rolnika w rozumieniu ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników;
@@ -1237,16 +1294,16 @@ Art. 46–51. (pominięte)
     - **a)** nieodpłatnego nabycia środków trwałych lub wartości niematerialnych i prawnych, w tym uzyskanych informacji w dziedzinie przemysłowej, handlowej lub naukowej (know-how),
     - **b)** nieodpłatnego nabycia prawa do używania środków trwałych lub wartości niematerialnych i prawnych, w tym uzyskanych informacji w dziedzinie przemysłowej, handlowej lub naukowej (know-how), na podstawie umowy użyczenia lub umowy o podobnym charakterze,
     - **c)** nieodpłatnego nabycia usług szkoleniowych,
-    - **d)** otrzymania bezzwrotnego wsparcia finansowego, pod warunkiem że wsparcie to jest przeznaczone i zostanie wykorzystane wyłącznie na produkty wojskowe będących przedmiotem zobowiązania offsetowego w ramach wykonywania umów zawieranych przez Skarb Państwa, których wejście w życie oraz stwierdzenie wykonania zostało zatwierdzone przez Radę Ministrów zgodnie z ustawą z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 1218);
+    - **d)** otrzymania bezzwrotnego wsparcia finansowego, pod warunkiem że wsparcie to jest przeznaczone i zostanie wykorzystane wyłącznie na produkty wojskowe – będących przedmiotem zobowiązania offsetowego w ramach wykonywania umów zawieranych przez Skarb Państwa, których wejście w życie oraz stwierdzenie wykonania zostało zatwierdzone przez Radę Ministrów zgodnie z ustawą z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 1218);
 
 - **147)** nagrody specjalne Prezesa Rady Ministrów przyznawane na podstawie art. 31a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160);
 - **147a)** nagrody, o których mowa w art. 14 ust. 1 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego;
-- **148)** przychody:
+- **148)** przychody: z 2025 r. poz. 1578),
     - **a)** ze stosunku służbowego, stosunku pracy, pracy nakładczej, spółdzielczego stosunku pracy,
     - **b)** z umów zlecenia, o których mowa w art. 13 pkt 8,
-    - **c)** z tytułu odbywania praktyki absolwenckiej, o której mowa w przepisach ustawy z dnia 17 lipca 2009 r. o praktykach absolwenckich (Dz. U. z 2025 r. poz. 1578),
-    - **d)** z tytułu odbywania stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe,
-    - **e)** z zasiłku macierzyńskiego, o którym mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa otrzymane przez podatnika do ukończenia 26. roku życia, do wysokości nieprzekraczającej w roku podatkowym kwoty 85 528 zł;
+    - **c)** z tytułu odbywania praktyki absolwenckiej, o której mowa w przepisach ustawy z dnia 17 lipca 2009 r. o praktykach absolwenckich (Dz. U.
+    - **d)** z tytułu odbywania stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,
+    - **e)** z zasiłku macierzyńskiego, o którym mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa – otrzymane przez podatnika do ukończenia 26. roku życia, do wysokości nieprzekraczającej w roku podatkowym kwoty 85 528 zł;
 
 - **148a)** kwoty otrzymane od podmiotów zobowiązanych, o których mowa w art. 10 ust. 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2025 r. poz. 711), w wyniku realizacji programów dofinansowań, o których mowa w art. 15a tej ustawy;
 - **149)** dodatek, o którym mowa w art. 16j ust. 6 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2026 r. poz. 37 i 203);
@@ -1256,35 +1313,35 @@ Art. 46–51. (pominięte)
     - **a)** ze stosunku służbowego, stosunku pracy, pracy nakładczej i spółdzielczego stosunku pracy,
     - **b)** z umów zlecenia, o których mowa w art. 13 pkt 8,
     - **c)** z pozarolniczej działalności gospodarczej, do których mają zastosowanie zasady opodatkowania określone w art. 27, art. 30c albo art. 30ca albo ustawie o zryczałtowanym podatku dochodowym w zakresie ryczałtu od przychodów ewidencjonowanych,
-    - **d)** z zasiłku macierzyńskiego, o którym mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa w czterech kolejno po sobie następujących latach podatkowych, licząc od początku roku, w którym podatnik przeniósł to miejsce zamieszkania, albo od początku roku następnego, z zastrzeżeniem ust. 39, 43 i 44;
+    - **d)** z zasiłku macierzyńskiego, o którym mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa – w czterech kolejno po sobie następujących latach podatkowych, licząc od początku roku, w którym podatnik przeniósł to miejsce zamieszkania, albo od początku roku następnego, z zastrzeżeniem ust. 39, 43 i 44;
 
 - **153)** przychody podatnika do wysokości nieprzekraczającej w roku podatkowym kwoty 85 528 zł, osiągnięte:
     - **a)** ze stosunku służbowego, stosunku pracy, pracy nakładczej i spółdzielczego stosunku pracy,
     - **b)** z umów zlecenia, o których mowa w art. 13 pkt 8,
     - **c)** z pozarolniczej działalności gospodarczej, do których mają zastosowanie zasady opodatkowania określone w art. 27, art. 30c albo art. 30ca albo ustawie o zryczałtowanym podatku dochodowym w zakresie ryczałtu od przychodów ewidencjonowanych,
-    - **d)** z zasiłku macierzyńskiego, o którym mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa który w roku podatkowym w stosunku do co najmniej czworga dzieci, o których mowa w art. 6 ust. 4c, z uwzględnieniem art. 6 ust. 4e i 8, wykonywał władzę rodzicielską, pełnił funkcję opiekuna prawnego, jeżeli dziecko z nim zamieszkiwało, lub sprawował funkcję rodziny zastępczej na podstawie orzeczenia sądu lub umowy zawartej ze starostą, a w przypadku pełnoletnich uczących się dzieci wykonywał ciążący na nim obowiązek alimentacyjny albo sprawował funkcję rodziny zastępczej, z zastrzeżeniem ust. 39 i 44–48;
+    - **d)** z zasiłku macierzyńskiego, o którym mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa – który w roku podatkowym w stosunku do co najmniej czworga dzieci, o których mowa w art. 6 ust. 4c, z uwzględnieniem art. 6 ust. 4e i 8, wykonywał władzę rodzicielską, pełnił funkcję opiekuna prawnego, jeżeli dziecko z nim zamieszkiwało, lub sprawował funkcję rodziny zastępczej na podstawie orzeczenia sądu lub umowy zawartej ze starostą, a w przypadku pełnoletnich uczących się dzieci – wykonywał ciążący na nim obowiązek alimentacyjny albo sprawował funkcję rodziny zastępczej, z zastrzeżeniem ust. 39 i 44–48;
 
-- **154)** przychody ze stosunku służbowego, stosunku pracy, pracy nakładczej, spółdzielczego stosunku pracy, z umów zlecenia, o których mowa w art. 13 pkt 8, z zasiłku macierzyńskiego, o którym mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, oraz z pozarolniczej działalności gospodarczej, do których mają zastosowanie zasady opodatkowania określone w art. 27, art. 30c albo art. 30ca albo ustawie o zryczałtowanym podatku dochodowym w zakresie ryczałtu od przychodów ewidencjonowanych, otrzymane przez podatnika po ukończeniu 60. roku życia w przypadku kobiety i 65. roku życia w przypadku mężczyzny, do wysokości nieprzekraczającej w roku podatkowym kwoty 85 528 zł pod warunkiem, że podatnik podlega z tytułu uzyskania tych przychodów ubezpieczeniom społecznym w rozumieniu ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz podatnik, mimo nabycia uprawnienia, nie otrzymuje:
+- **154)** przychody ze stosunku służbowego, stosunku pracy, pracy nakładczej, spółdzielczego stosunku pracy, z umów zlecenia, o których mowa w art. 13 pkt 8, z zasiłku macierzyńskiego, o którym mowa w ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, oraz z pozarolniczej działalności gospodarczej, do których mają zastosowanie zasady opodatkowania określone w art. 27, art. 30c albo art. 30ca albo ustawie o zryczałtowanym podatku dochodowym w zakresie ryczałtu od przychodów ewidencjonowanych, otrzymane przez podatnika po ukończeniu 60. roku życia w przypadku kobiety i 65. roku życia w przypadku mężczyzny, do wysokości nieprzekraczającej w roku podatkowym kwoty 85 528 zł pod warunkiem, że podatnik podlega z tytułu uzyskania tych przychodów ubezpieczeniom społecznym w rozumieniu ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz podatnik, mimo nabycia uprawnienia, nie otrzymuje: zm. ), o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia;
     - **a)** emerytury lub renty rodzinnej, o których mowa w ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników,
     - **b)** emerytury lub renty rodzinnej, o których mowa w ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2025 r. poz. 305 oraz z 2026 r. poz. 26),
-    - **c)** emerytury lub renty rodzinnej, o których mowa w ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121, z późn. zm. ),
+    - **c)** emerytury lub renty rodzinnej, o których mowa w ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2024 r. poz. 1121, z późn.
     - **d)** emerytury lub renty rodzinnej, o których mowa w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26 i 425),
     - **e)** świadczenia, o którym mowa w art. 30 ust. 1 pkt 4a,
-    - **f)** uposażenia przysługującego w stanie spoczynku lub uposażenia rodzinnego, o których mowa w ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ),
-    - **g)** świadczenia pieniężnego, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia;
+    - **f)** uposażenia przysługującego w stanie spoczynku lub uposażenia rodzinnego, o których mowa w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ),
+    - **g)** świadczenia pieniężnego, o którym mowa w ustawie z dnia 8 lutego 2023 r.
 
 - **155)** dochody (przychody) z tytułu nagrody, o której mowa w art. 47 ust. 8 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795);
 - **156)** spłaty części kredytu, o których mowa w art. 7 ustawy z dnia 1 października 2021 r. o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 % (Dz. U. z 2024 r. poz. 1724 oraz z 2025 r. poz. 1077);
 - **156a)** dopłaty do rat bezpiecznego kredytu 2 %, o których mowa w art. 9b ustawy z dnia 1 października 2021 r. o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2 %;
-- **157)** przychody, o których mowa w art. 20 ust. 1g:
+- **157)** przychody, o których mowa w art. 20 ust. 1g: o podatku od spadków i darowizn – z zastrzeżeniem ust. 49;
     - **a)** fundatora albo osoby będącej w stosunku do fundatora osobą, o której mowa w art. 4a ust. 1 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 1837 oraz z 2025 r. poz. 769, 1064 i 1854), uprawnionych do otrzymania mienia w związku z rozwiązaniem fundacji rodzinnej,
-    - **b)** beneficjenta fundacji rodzinnej z tytułu świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej, jeżeli beneficjentem jest fundator albo osoba będąca w stosunku do fundatora osobą, o której mowa w art. 4a ust. 1 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn z zastrzeżeniem ust. 49;
+    - **b)** beneficjenta fundacji rodzinnej z tytułu świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej, jeżeli beneficjentem jest fundator albo osoba będąca w stosunku do fundatora osobą, o której mowa w art. 4a ust. 1 ustawy z dnia 28 lipca 1983 r.
 
 - **158)** premie mieszkaniowe, o których mowa w rozdziale 3 ustawy z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U. z 2024 r. poz. 1704 oraz z 2025 r. poz. 1077);
 - **159)** odsetki od środków pieniężnych gromadzonych na podstawie umowy, o której mowa w art. 4 ust. 2 ustawy z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe, z uwzględnieniem art. 7 ust. 7 i 8 oraz art. 8 ust. 2 tej ustawy;
 - **160)** kwoty składek na ubezpieczenia społeczne zwolnione z obowiązku ich opłacenia zgodnie z art. 17a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, kwoty składek na Fundusz Pracy zwolnione z obowiązku ich opłacenia zgodnie z art. 259 ust. 1 pkt 4 lit. o ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz kwoty składek na Fundusz Solidarnościowy zwolnione z obowiązku ich opłacenia zgodnie z art. 4 ust. 1a ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym.
 
-1a. Do przychodów pracowników tymczasowych, w rozumieniu odrębnych przepisów, otrzymanych od pracodawcy użytkownika ma zastosowanie ust. 1 pkt 11–11b, 13 i 16.
+1a. Do przychodów pracowników tymczasowych, w rozumieniu odrębnych przepisów, otrzymanych od pracodawcy użytkownika ma zastosowanie ust. 1 pkt 11– 11b, 13 i 16.
 
 2. (uchylony) 2a. (uchylony)
 
@@ -1296,13 +1353,13 @@ Art. 46–51. (pominięte)
 
 5b. W razie cofnięcia zezwolenia, o którym mowa w ust. 1 pkt 63a, lub uchylenia decyzji o wsparciu, o której mowa w ust. 1 pkt 63b, podatnik traci prawo do zwolnienia i jest obowiązany do zapłaty podatku na zasadach określonych w ust. 5c.
 
-5c. W razie wystąpienia okoliczności, o których mowa w ust. 5b, podatnik jest obowiązany do zapłaty podatku należnego od dochodu wynikającego z cofniętego zezwolenia albo z uchylonej decyzji o wsparciu, w terminie właściwym do rozliczenia zaliczki za pierwszy okres przypadający do wpłaty zaliczki, o którym mowa w art. 44, następujący po miesiącu, w którym wystąpią te okoliczności, a gdy utrata prawa nastąpi w grudniu w zeznaniu rocznym. Kwotę podatku należnego do zapłaty stanowi:
+5c. W razie wystąpienia okoliczności, o których mowa w ust. 5b, podatnik jest obowiązany do zapłaty podatku należnego od dochodu wynikającego z cofniętego zezwolenia albo z uchylonej decyzji o wsparciu, w terminie właściwym do rozliczenia zaliczki za pierwszy okres przypadający do wpłaty zaliczki, o którym mowa w art. 44, następujący po miesiącu, w którym wystąpią te okoliczności, a gdy utrata prawa nastąpi w grudniu – w zeznaniu rocznym. Kwotę podatku należnego do zapłaty stanowi:
 
-- **1)** podatek niezapłacony od dochodu osiągniętego z działalności gospodarczej określonej w cofniętym zezwoleniu albo w uchylonej decyzji o wsparciu jeżeli podatnik korzystał z pomocy publicznej udzielonej w formie zwolnienia, o którym mowa w ust. 1 pkt 63a albo 63b:
+- **1)** podatek niezapłacony od dochodu osiągniętego z działalności gospodarczej określonej w cofniętym zezwoleniu albo w uchylonej decyzji o wsparciu – jeżeli podatnik korzystał z pomocy publicznej udzielonej w formie zwolnienia, o którym mowa w ust. 1 pkt 63a albo 63b:
     - **a)** wyłącznie w ramach jednego zezwolenia albo wyłącznie w ramach jednej decyzji o wsparciu, albo
     - **b)** w ramach więcej niż jednego zezwolenia lub w ramach więcej niż jednej decyzji o wsparciu albo w ramach zezwolenia lub zezwoleń i decyzji o wsparciu i jednocześnie podatnik ten prowadził księgę rachunkową w sposób zapewniający określenie dochodu z działalności określonej w cofniętym zezwoleniu lub w uchylonej decyzji o wsparciu oraz kwoty podatku niezapłaconego od tego dochodu, albo
 
-- **2)** kwota w wysokości stanowiącej maksymalną dopuszczalną pomoc publiczną określoną w zezwoleniu lub w tej uchylonej decyzji o wsparciu jeśli podatnik korzystał z pomocy publicznej udzielonej w formie zwolnienia, o którym mowa w ust. 1 pkt 63a albo 63b, w ramach więcej niż jednego zezwolenia lub w ramach więcej niż jednej decyzji o wsparciu albo w ramach zezwolenia lub zezwoleń i decyzji o wsparciu. 5ca. W przypadku prowadzenia przez przedsiębiorcę działalności gospodarczej również poza terenem specjalnej strefy ekonomicznej określonym w zezwoleniu lub terenem określonym w decyzji o wsparciu, działalność prowadzoną na terenie strefy lub na terenie określonym w decyzji o wsparciu wydziela się organizacyjnie, a wielkość zwolnienia określa się w oparciu o przychody i koszty uzyskania przychodów jednostki organizacyjnej prowadzącej działalność określoną w zezwoleniu lub w decyzji o wsparciu. 5caa. Przepis ust. 5ca stosuje się odpowiednio do ustalania wielkości zwolnienia od podatku dochodowego, w przypadku gdy na terenie określonym w zezwoleniu lub decyzji o wsparciu jest prowadzona odpowiednio działalność gospodarcza określona w tym zezwoleniu albo działalność gospodarcza, w ramach której jest realizowana nowa inwestycja oraz inna działalność podatnika. 5cb. Przy ustalaniu wielkości zwolnienia od podatku dochodowego, przysługującego przedsiębiorcy prowadzącemu działalność na podstawie zezwolenia lub na podstawie decyzji o wsparciu za pośrednictwem jednostki organizacyjnej, o której mowa w ust. 5ca, przepisy rozdziału 4b oddziału 2 stosuje się odpowiednio do transakcji między tą jednostką organizacyjną a pozostałą częścią przedsiębiorstwa podatnika. 5cc. Przepisów ust. 1 pkt 63a i 63b nie stosuje się, jeżeli:
+- **2)** kwota w wysokości stanowiącej maksymalną dopuszczalną pomoc publiczną określoną w zezwoleniu lub w tej uchylonej decyzji o wsparciu – jeśli podatnik korzystał z pomocy publicznej udzielonej w formie zwolnienia, o którym mowa w ust. 1 pkt 63a albo 63b, w ramach więcej niż jednego zezwolenia lub w ramach więcej niż jednej decyzji o wsparciu albo w ramach zezwolenia lub zezwoleń i decyzji o wsparciu. 5ca. W przypadku prowadzenia przez przedsiębiorcę działalności gospodarczej również poza terenem specjalnej strefy ekonomicznej określonym w zezwoleniu lub terenem określonym w decyzji o wsparciu, działalność prowadzoną na terenie strefy lub na terenie określonym w decyzji o wsparciu wydziela się organizacyjnie, a wielkość zwolnienia określa się w oparciu o przychody i koszty uzyskania przychodów jednostki organizacyjnej prowadzącej działalność określoną w zezwoleniu lub w decyzji o wsparciu. 5caa. Przepis ust. 5ca stosuje się odpowiednio do ustalania wielkości zwolnienia od podatku dochodowego, w przypadku gdy na terenie określonym w zezwoleniu lub decyzji o wsparciu jest prowadzona odpowiednio działalność gospodarcza określona w tym zezwoleniu albo działalność gospodarcza, w ramach której jest realizowana nowa inwestycja oraz inna działalność podatnika. 5cb. Przy ustalaniu wielkości zwolnienia od podatku dochodowego, przysługującego przedsiębiorcy prowadzącemu działalność na podstawie zezwolenia lub na podstawie decyzji o wsparciu za pośrednictwem jednostki organizacyjnej, o której mowa w ust. 5ca, przepisy rozdziału 4b oddziału 2 stosuje się odpowiednio do transakcji między tą jednostką organizacyjną a pozostałą częścią przedsiębiorstwa podatnika. 5cc. Przepisów ust. 1 pkt 63a i 63b nie stosuje się, jeżeli:
 - **1)** osiągnięcie dochodów z działalności gospodarczej prowadzonej na podstawie zezwolenia na terenie specjalnej strefy ekonomicznej lub osiągnięcie dochodów z działalności gospodarczej z realizacji nowej inwestycji określonej w decyzji o wsparciu następuje w związku z zawarciem umowy, dokonaniem innej czynności prawnej lub wielu powiązanych czynności prawnych lub dokonaniem czynności innej niż zawarcie umowy, których efektem jest podejmowanie w sposób sztuczny czynności faktycznych dokonanych przede wszystkim w celu uzyskania zwolnienia od podatku dochodowego, lub
 - **2)** czynności, o których mowa w pkt 1, nie mają rzeczywistego charakteru, lub
 - **3)** podatnik korzystający ze zwolnień podatkowych, o których mowa w ust. 1 pkt 63a i 63b, dokonuje czynności prawnej lub wielu powiązanych czynności prawnych, w tym związanych z działalnością nieobjętą tymi zwolnieniami, których głównym lub jednym z głównych celów jest uniknięcie opodatkowania lub uchylenie się od opodatkowania. 5cd. Podatnik traci prawo do zwolnienia podatkowego z dniem dokonania pierwszej z czynności, o których mowa w ust. 5cc. W takim przypadku ust. 5b i 5c stosuje się odpowiednio, ze skutkiem od tego dnia.
@@ -1371,12 +1428,12 @@ Art. 46–51. (pominięte)
     - **b)** nabycie spółdzielczego własnościowego prawa do lokalu mieszkalnego lub udziału w takim prawie, prawa do domu jednorodzinnego w spółdzielni mieszkaniowej lub udziału w takim prawie,
     - **c)** nabycie gruntu pod budowę budynku mieszkalnego lub udziału w takim gruncie, prawa użytkowania wieczystego takiego gruntu lub udziału w takim prawie, w tym również z rozpoczętą budową budynku mieszkalnego, oraz nabycie innego gruntu lub udziału w gruncie, prawa użytkowania wieczystego gruntu lub udziału w takim prawie, jeżeli w okresie, o którym mowa w ust. 1 pkt 131, grunt ten zmieni przeznaczenie na grunt pod budowę budynku mieszkalnego,
     - **d)** budowę, rozbudowę, nadbudowę, przebudowę lub remont własnego budynku mieszkalnego, jego części lub własnego lokalu mieszkalnego,
-    - **e)** rozbudowę, nadbudowę, przebudowę lub adaptację na cele mieszkalne własnego budynku niemieszkalnego, jego części, własnego lokalu niemieszkalnego lub własnego pomieszczenia niemieszkalnego położonych w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego albo w Konfederacji Szwajcarskiej;
+    - **e)** rozbudowę, nadbudowę, przebudowę lub adaptację na cele mieszkalne własnego budynku niemieszkalnego, jego części, własnego lokalu niemieszkalnego lub własnego pomieszczenia niemieszkalnego – położonych w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego albo w Konfederacji Szwajcarskiej;
 
 - **2)** wydatki poniesione na:
     - **a)** spłatę kredytu (pożyczki) oraz odsetek od tego kredytu (pożyczki) zaciągniętego przez podatnika przed dniem uzyskania przychodu z odpłatnego zbycia, o którym mowa w art. 10 ust. 1 pkt 8 lit. a–c, na cele określone w pkt 1,
     - **b)** spłatę kredytu (pożyczki) oraz odsetek od tego kredytu (pożyczki) zaciągniętego przez podatnika przed dniem uzyskania przychodu z odpłatnego zbycia, o którym mowa w art. 10 ust. 1 pkt 8 lit. a–c, na spłatę kredytu (pożyczki), o którym mowa w lit. a,
-    - **c)** spłatę każdego kolejnego kredytu (pożyczki) oraz odsetek od tego kredytu (pożyczki) zaciągniętego przez podatnika przed dniem uzyskania przychodu z odpłatnego zbycia, o którym mowa w art. 10 ust. 1 pkt 8 lit. a–c, na spłatę kredytu (pożyczki), o których mowa w lit. a lub b w banku lub w spółdzielczej kasie oszczędnościowo-kredytowej, mających siedzibę w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego albo w Konfederacji Szwajcarskiej, z zastrzeżeniem ust. 29 i 30;
+    - **c)** spłatę każdego kolejnego kredytu (pożyczki) oraz odsetek od tego kredytu (pożyczki) zaciągniętego przez podatnika przed dniem uzyskania przychodu z odpłatnego zbycia, o którym mowa w art. 10 ust. 1 pkt 8 lit. a–c, na spłatę kredytu (pożyczki), o których mowa w lit. a lub b – w banku lub w spółdzielczej kasie oszczędnościowo-kredytowej, mających siedzibę w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego albo w Konfederacji Szwajcarskiej, z zastrzeżeniem ust. 29 i 30;
 
 - **3)** wartość otrzymanego w ramach odpłatnego zbycia w drodze zamiany znajdującego się w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego albo w Konfederacji Szwajcarskiej:
     - **a)** budynku mieszkalnego, jego części lub udziału w takim budynku, lokalu mieszkalnego stanowiącego odrębną nieruchomość lub udziału w takim lokalu, lub
@@ -1393,9 +1450,9 @@ Art. 46–51. (pominięte)
 28. Za wydatki, o których mowa w ust. 25, nie uważa się wydatków poniesionych na:
 
 - **1)** nabycie gruntu lub udziału w gruncie, prawa wieczystego użytkowania gruntu lub udziału w takim prawie, budynku, jego części lub udziału w budynku, lub
-- **2)** budowę, rozbudowę, nadbudowę, przebudowę, adaptację lub remont budynku albo jego części przeznaczonych na cele rekreacyjne.
+- **2)** budowę, rozbudowę, nadbudowę, przebudowę, adaptację lub remont budynku albo jego części – przeznaczonych na cele rekreacyjne.
 
-29. W przypadku gdy kredyt (pożyczka), o którym mowa w ust. 25 pkt 2 lit. a–c, stanowi część kredytu (pożyczki) przeznaczonego na spłatę również innych niż wymienione w tych przepisach zobowiązań kredytowych (pożyczkowych) podatnika, za wydatki poniesione na cele, o których mowa w ust. 1 pkt 131, uważa się wydatki przypadające na spłatę kredytu (pożyczki) określonego w ust. 25 pkt 2 lit. a–c oraz zapłacone odsetki od tej części kredytu (pożyczki), która proporcjonalnie przypada na spłatę kredytu (pożyczki), o których mowa w ust. 25 pkt 2 lit. a–c.
+29. W przypadku gdy kredyt (pożyczka), o którym mowa w ust. 25 pkt 2 lit. a– c, stanowi część kredytu (pożyczki) przeznaczonego na spłatę również innych niż wymienione w tych przepisach zobowiązań kredytowych (pożyczkowych) podatnika, za wydatki poniesione na cele, o których mowa w ust. 1 pkt 131, uważa się wydatki przypadające na spłatę kredytu (pożyczki) określonego w ust. 25 pkt 2 lit. a–c oraz zapłacone odsetki od tej części kredytu (pożyczki), która proporcjonalnie przypada na spłatę kredytu (pożyczki), o których mowa w ust. 25 pkt 2 lit. a–c.
 
 30. Przepis ust. 1 pkt 131 nie ma zastosowania do tej części wydatków, o których mowa w ust. 25 pkt 2, które podatnik uwzględnił korzystając z ulg podatkowych, w rozumieniu Ordynacji podatkowej, przy opodatkowaniu podatkiem dochodowym oraz do tej części wydatków, o których mowa w ust. 25 pkt 2, którymi sfinansowane zostały wydatki określone w ust. 25 pkt 1, uwzględnione przez podatnika korzystającego z ulg podatkowych, w rozumieniu Ordynacji podatkowej, przy opodatkowaniu podatkiem dochodowym.
 
@@ -1403,31 +1460,31 @@ Art. 46–51. (pominięte)
 
 31. Zwolnienie, o którym mowa w ust. 1 pkt 132, stosuje się, jeżeli:
 
-- **1)** wysokość nagrody przekazanej na rzecz instytucji realizującej cele, o których mowa w art. 4 ustawy o działalności pożytku publicznego, jest udokumentowana dowodem wpłaty na rachunek bankowy obdarowanej instytucji, a w przypadku nagrody innej niż pieniężna dokumentem, z którego wynika wartość przekazanej nagrody, oraz oświadczeniem obdarowanej instytucji o jej przyjęciu;
+- **1)** wysokość nagrody przekazanej na rzecz instytucji realizującej cele, o których mowa w art. 4 ustawy o działalności pożytku publicznego, jest udokumentowana dowodem wpłaty na rachunek bankowy obdarowanej instytucji, a w przypadku nagrody innej niż pieniężna – dokumentem, z którego wynika wartość przekazanej nagrody, oraz oświadczeniem obdarowanej instytucji o jej przyjęciu;
 - **2)** nagroda, o której mowa w pkt 1, została przekazana najpóźniej do dnia upływu terminu dla złożenia zeznania podatkowego, o którym mowa w art. 45 ust. 1, składanego za rok podatkowy, w którym otrzymano nagrodę.
 
 32. Zwolnienie, o którym mowa w ust. 1 pkt 136, nie ma zastosowania do przychodów określonych w art. 12 ust. 1.
 
 33. Przez pracownicze programy emerytalne rozumie się pracownicze programy emerytalne utworzone i działające w oparciu o przepisy dotyczące pracowniczych programów emerytalnych obowiązujące w państwach członkowskich Unii Europejskiej lub w innych państwach należących do Europejskiego Obszaru Gospodarczego albo w Konfederacji Szwajcarskiej.
 
-34. Osoba, o której mowa w ust. 1 pkt 117a, jest obowiązana złożyć świadczeniodawcy sporządzone na piśmie oświadczenie o uprawnieniu i pobieraniu świadczenia z pomocy społecznej lub zasiłku rodzinnego, na zasadach określonych odpowiednio w przepisach o pomocy społecznej oraz w przepisach o świadczeniach rodzinnych, podając imię i nazwisko, adres zamieszkania, adres do doręczeń oraz adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy jeżeli posiada, numer PESEL oraz numer decyzji, na podstawie której osoba ta pobiera świadczenie z pomocy społecznej lub zasiłek rodzinny.
+34. Osoba, o której mowa w ust. 1 pkt 117a, jest obowiązana złożyć świadczeniodawcy sporządzone na piśmie oświadczenie o uprawnieniu i pobieraniu świadczenia z pomocy społecznej lub zasiłku rodzinnego, na zasadach określonych odpowiednio w przepisach o pomocy społecznej oraz w przepisach o świadczeniach rodzinnych, podając imię i nazwisko, adres zamieszkania, adres do doręczeń oraz adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy – jeżeli posiada, numer PESEL oraz numer decyzji, na podstawie której osoba ta pobiera świadczenie z pomocy społecznej lub zasiłek rodzinny.
 
 35. Zwolnienie, o którym mowa w ust. 1 pkt 23c, ma zastosowanie pod warunkiem złożenia urzędowi skarbowemu, o którym mowa w art. 45 ust. 1b, niepóźniej niż przed upływem terminu określonego w art. 45 ust. 1:
 
-- **1)** w przypadku pracy na statku podnoszącym polską banderę zaświadczenia, o którym mowa w art. 85 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu;
-- **2)** w przypadku pracy na statku podnoszącym inną, niż polska, banderę zaświadczenia armatora lub agencji zatrudnienia, o której mowa w art. 18 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu, zawierającego:
-    - **a)** imię i nazwisko marynarza, jego adres zamieszkania i numer PESEL, a w przypadku jego braku numer dokumentu potwierdzającego tożsamość,
+- **1)** w przypadku pracy na statku podnoszącym polską banderę – zaświadczenia, o którym mowa w art. 85 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu;
+- **2)** w przypadku pracy na statku podnoszącym inną, niż polska, banderę – zaświadczenia armatora lub agencji zatrudnienia, o której mowa w art. 18 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu, zawierającego:
+    - **a)** imię i nazwisko marynarza, jego adres zamieszkania i numer PESEL, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość,
     - **b)** informację o liczbie dni przepracowanych w roku na statku spełniającym wymagania, o których mowa w ust. 1 pkt 23c, przez marynarza, którego dotyczy zaświadczenie, z podaniem okresów zatrudnienia, nazwy i bandery statku,
     - **c)** informację o kwocie przychodu marynarza z tytułu pracy u armatora,
-    - **d)** informacje dotyczące armatora obejmujące: imię i nazwisko lub nazwę, adres miejsca zamieszkania albo adres siedziby, numer identyfikacji podatkowej lub zagraniczny numer identyfikacyjny podatnika, formę prawną.
+    - **d)** informacje dotyczące armatora obejmujące: – imię i nazwisko lub nazwę, – adres miejsca zamieszkania albo adres siedziby, – numer identyfikacji podatkowej lub zagraniczny numer identyfikacyjny podatnika, – formę prawną.
 
 35a. Zwolnienie, o którym mowa w ust. 1 pkt 29b, stosuje się także do otrzymanego odszkodowania w części odpowiadającej wartości wydatków poniesionych przez podatnika na cele określone w tym przepisie od dnia powstania szkody do dnia otrzymania odszkodowania, w części niezaliczonej do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
 35b. Do okresu, o którym mowa w ust. 1 pkt 23c, zalicza się okres:
 
-- **1)** podróży do miejsca rozpoczęcia pracy na statku, liczony wraz z dniem rozpoczęcia podróży z miejsca zamieszkania lub innego miejsca wskazanego w marynarskiej umowie o pracę, o której mowa w art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu, do dnia rozpoczęcia pracy na statku, a w przypadku statków obsługiwanych przez kolejno wymieniające się załogi statku lub część załogi statku jeden dzień przy każdorazowej zmianie załogi;
-- **2)** podróży z miejsca zakończenia pracy na statku, liczony wraz z dniem zakończenia pracy na statku, do dnia zakończenia podróży w miejscu zamieszkania lub innym miejscu wskazanym w marynarskiej umowie o pracę, o której mowa w art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu, a w przypadku statków obsługiwanych przez kolejno wymieniające się załogi statku lub część załogi statku jeden dzień przy każdorazowej zmianie załogi;
-- **3)** repatriacji i oczekiwania na repatriację w rozumieniu ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu w przypadku gdy na podstawie przepisów dotyczących kosztów ponoszenia repatriacji armator jest obowiązany do ponoszenia tych kosztów;
+- **1)** podróży do miejsca rozpoczęcia pracy na statku, liczony wraz z dniem rozpoczęcia podróży z miejsca zamieszkania lub innego miejsca wskazanego w marynarskiej umowie o pracę, o której mowa w art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu, do dnia rozpoczęcia pracy na statku, a w przypadku statków obsługiwanych przez kolejno wymieniające się załogi statku lub część załogi statku – jeden dzień przy każdorazowej zmianie załogi;
+- **2)** podróży z miejsca zakończenia pracy na statku, liczony wraz z dniem zakończenia pracy na statku, do dnia zakończenia podróży w miejscu zamieszkania lub innym miejscu wskazanym w marynarskiej umowie o pracę, o której mowa w art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu, a w przypadku statków obsługiwanych przez kolejno wymieniające się załogi statku lub część załogi statku – jeden dzień przy każdorazowej zmianie załogi;
+- **3)** repatriacji i oczekiwania na repatriację w rozumieniu ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu – w przypadku gdy na podstawie przepisów dotyczących kosztów ponoszenia repatriacji armator jest obowiązany do ponoszenia tych kosztów;
 - **4)** pobierania zasiłku chorobowego lub zasiłku macierzyńskiego oraz okresy niezdolności do pracy z tytułu wypadku przy pracy lub choroby, które miały miejsce w okresie zatrudnienia na statku, określone w zaświadczeniach lekarskich;
 - **5)** szkolenia lub przeszkolenia w jednostkach edukacyjnych, prowadzących szkolenia zgodnie z wymogami Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201, z późn. zm. );
 - **6)** szkolenia lub przeszkolenia innego niż wskazane w pkt 5, na które marynarz został skierowany przez armatora, a obowiązek odbycia tego szkolenia lub przeszkolenia wynika z odrębnych przepisów;
@@ -1471,10 +1528,10 @@ Art. 46–51. (pominięte)
 
 - **3)** podatnik:
     - **a)** posiada obywatelstwo polskie, Kartę Polaka lub obywatelstwo innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa należącego do Europejskiego Obszaru Gospodarczego albo Konfederacji Szwajcarskiej lub
-    - **b)** miał miejsce zamieszkania: nieprzerwanie co najmniej przez okres, o którym mowa w pkt 2, w państwie członkowskim Unii Europejskiej lub państwie należącym do Europejskiego Obszaru Gospodarczego, Konfederacji Szwajcarskiej, Australii, Republice Chile, Państwie Izrael, Japonii, Kanadzie, Meksykańskich Stanach Zjednoczonych, Nowej Zelandii, Republice Korei, Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub Stanach Zjednoczonych Ameryki, lub na terytorium Rzeczypospolitej Polskiej nieprzerwanie przez co najmniej 5 lat kalendarzowych poprzedzających okres, o którym mowa w pkt 2, oraz
+    - **b)** miał miejsce zamieszkania: – nieprzerwanie co najmniej przez okres, o którym mowa w pkt 2, w państwie członkowskim Unii Europejskiej lub państwie należącym do Europejskiego Obszaru Gospodarczego, Konfederacji Szwajcarskiej, Australii, Republice Chile, Państwie Izrael, Japonii, Kanadzie, Meksykańskich Stanach Zjednoczonych, Nowej Zelandii, Republice Korei, Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub Stanach Zjednoczonych Ameryki, lub – na terytorium Rzeczypospolitej Polskiej nieprzerwanie przez co najmniej 5 lat kalendarzowych poprzedzających okres, o którym mowa w pkt 2, oraz
 
 - **4)** posiada certyfikat rezydencji lub inny dowód dokumentujący miejsce zamieszkania dla celów podatkowych w okresie niezbędnym do ustalenia prawa do tego zwolnienia, oraz
-- **5)** nie korzystał uprzednio, w całości lub w części, z tego zwolnienia w przypadku podatników, którzy ponownie przeniosą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
+- **5)** nie korzystał uprzednio, w całości lub w części, z tego zwolnienia – w przypadku podatników, którzy ponownie przeniosą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.
 
 44. Suma przychodów zwolnionych od podatku na podstawie ust. 1 pkt 148 i 152–154 nie może w roku podatkowym przekroczyć kwoty 85 528 zł.
 
@@ -1482,8 +1539,8 @@ Art. 46–51. (pominięte)
 
 46. Podatnik korzystający ze zwolnienia, o którym mowa w ust. 1 pkt 153:
 
-- **1)** wyłącznie w zakresie przychodów podlegających opodatkowaniu zgodnie z art. 27, innych niż z pozarolniczej działalności gospodarczej, składa w terminie określonym w art. 45 ust. 1 informację, według ustalonego wzoru, zawierającą dane o liczbie dzieci i ich numery PESEL, a w przypadku braku tych numerów imiona, nazwiska oraz daty urodzenia dzieci;
-- **2)** w zakresie przychodów z pozarolniczej działalności gospodarczej podlegających opodatkowaniu zgodnie z art. 27, art. 30c lub zgodnie z przepisami ustawy o zryczałtowanym podatku dochodowym, w złożonym zeznaniu, o którym mowa w art. 45 ust. 1 lub ust. 1a pkt 2, lub zeznaniu, o którym mowa w art. 21 ust. 2 pkt 2 ustawy o zryczałtowanym podatku dochodowym, składanym za rok podatkowy, w którym korzystał ze zwolnienia, informuje o liczbie dzieci i ich numerach PESEL, a w przypadku braku tych numerów imionach, nazwiskach oraz datach urodzenia dzieci.
+- **1)** wyłącznie w zakresie przychodów podlegających opodatkowaniu zgodnie z art. 27, innych niż z pozarolniczej działalności gospodarczej, składa w terminie określonym w art. 45 ust. 1 informację, według ustalonego wzoru, zawierającą dane o liczbie dzieci i ich numery PESEL, a w przypadku braku tych numerów – imiona, nazwiska oraz daty urodzenia dzieci;
+- **2)** w zakresie przychodów z pozarolniczej działalności gospodarczej podlegających opodatkowaniu zgodnie z art. 27, art. 30c lub zgodnie z przepisami ustawy o zryczałtowanym podatku dochodowym, w złożonym zeznaniu, o którym mowa w art. 45 ust. 1 lub ust. 1a pkt 2, lub zeznaniu, o którym mowa w art. 21 ust. 2 pkt 2 ustawy o zryczałtowanym podatku dochodowym, składanym za rok podatkowy, w którym korzystał ze zwolnienia, informuje o liczbie dzieci i ich numerach PESEL, a w przypadku braku tych numerów – imionach, nazwiskach oraz datach urodzenia dzieci.
 
 47. Na żądanie organów podatkowych podatnik jest obowiązany przedstawić zaświadczenia, oświadczenia oraz inne dowody niezbędne do ustalenia prawa do zwolnienia, o którym mowa w ust. 1 pkt 153, w szczególności:
 
@@ -1492,12 +1549,12 @@ Art. 46–51. (pominięte)
 - **3)** odpis orzeczenia sądu o ustaleniu rodziny zastępczej lub umowę zawartą między rodziną zastępczą a starostą;
 - **4)** zaświadczenie o uczęszczaniu pełnoletniego dziecka do szkoły.
 
-48. Podatnik nie składa informacji, o której mowa w ust. 46 pkt 1, jeżeli w zeznaniu złożonym za rok podatkowy, w którym korzystał ze zwolnienia określonego w ust. 1 pkt 153, poinformował o liczbie dzieci i ich numerach PESEL, a w przypadku braku tych numerów o imionach, nazwiskach oraz datach urodzenia dzieci.
+48. Podatnik nie składa informacji, o której mowa w ust. 46 pkt 1, jeżeli w zeznaniu złożonym za rok podatkowy, w którym korzystał ze zwolnienia określonego w ust. 1 pkt 153, poinformował o liczbie dzieci i ich numerach PESEL, a w przypadku braku tych numerów – o imionach, nazwiskach oraz datach urodzenia dzieci.
 
 49. Zwolnienie, o którym mowa w ust. 1 pkt 157, stosuje się do części przychodów:
 
 - **1)** fundatora albo osoby będącej w stosunku do fundatora osobą, o której mowa w art. 4a ust. 1 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, uprawnionych do otrzymania mienia w związku z rozwiązaniem fundacji rodzinnej,
-- **2)** beneficjenta będącego fundatorem albo osobą będącą w stosunku do fundatora osobą, o której mowa w art. 4a ust. 1 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn odpowiadającej proporcji, o której mowa w art. 27 ust. 4 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej, według stanu na dzień uzyskania przychodu.
+- **2)** beneficjenta będącego fundatorem albo osobą będącą w stosunku do fundatora osobą, o której mowa w art. 4a ust. 1 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn – odpowiadającej proporcji, o której mowa w art. 27 ust. 4 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej, według stanu na dzień uzyskania przychodu.
 
 50. Zwolnienia, o którym mowa w ust. 1 pkt 127, nie stosuje się do świadczenia, o którym mowa w art. 2 ust. 2 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej.
 
@@ -1523,28 +1580,28 @@ Art. 46–51. (pominięte)
 
 - **1)** wartość przychodu określonego na podstawie art. 11 ust. 2 i 2a albo
 - **2)** wartość przychodu określonego na podstawie art. 11 ust. 2b powiększona o wydatki na nabycie częściowo odpłatnych rzeczy lub praw albo innych świadczeń, albo
-- **3)** równowartość wierzytelności (należności) uregulowanej przez wykonanie świadczenia niepieniężnego (w naturze), o którym mowa w art. 14 ust. 2e i 2f, pomniejszonej o naliczony w związku z przekazaniem tego świadczenia niepieniężnego podatek od towarów i usług pomniejszona o sumę odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1. 1da. W przypadku, o którym mowa w ust. 1d pkt 3, przepis art. 23 ust. 1 pkt 43 lit. a stosuje się odpowiednio. 1db. Jeżeli podatnik uzyskał przychód z odpłatnego zbycia lub umorzenia udziałów (akcji) albo wniesienia wkładu niepieniężnego w postaci udziałów (akcji), objętych lub nabytych w wyniku realizacji praw majątkowych albo w wyniku realizacji praw z papierów wartościowych lub realizacji praw z pochodnych instrumentów finansowych, w związku z którymi został określony przychód na podstawie art. 17 ust. 1 pkt 6 lit. b lub pkt 10 albo art. 18, wartość dochodu określonego z tego tytułu powiększa koszty uzyskania przychodu, o których mowa odpowiednio w ust. 1 lub ust. 1e albo w art. 23 ust. 1 pkt 38. 1dc. W przypadku realizacji praw z papierów wartościowych, o których mowa w art. 3 pkt 1 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub realizacji praw z pochodnych instrumentów finansowych uzyskanych w następstwie objęcia lub nabycia tych praw jako świadczenie w naturze lub nieodpłatne świadczenie, w związku z którymi został określony przychód, wartość tego przychodu powiększa koszty uzyskania przychodu ze źródła, do którego, zgodnie z art. 10 ust. 4, został zaliczony ten przychód.
+- **3)** równowartość wierzytelności (należności) uregulowanej przez wykonanie świadczenia niepieniężnego (w naturze), o którym mowa w art. 14 ust. 2e i 2f, pomniejszonej o naliczony w związku z przekazaniem tego świadczenia niepieniężnego podatek od towarów i usług – pomniejszona o sumę odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1. 1da. W przypadku, o którym mowa w ust. 1d pkt 3, przepis art. 23 ust. 1 pkt 43 lit. a stosuje się odpowiednio. 1db. Jeżeli podatnik uzyskał przychód z odpłatnego zbycia lub umorzenia udziałów (akcji) albo wniesienia wkładu niepieniężnego w postaci udziałów (akcji), objętych lub nabytych w wyniku realizacji praw majątkowych albo w wyniku realizacji praw z papierów wartościowych lub realizacji praw z pochodnych instrumentów finansowych, w związku z którymi został określony przychód na podstawie art. 17 ust. 1 pkt 6 lit. b lub pkt 10 albo art. 18, wartość dochodu określonego z tego tytułu powiększa koszty uzyskania przychodu, o których mowa odpowiednio w ust. 1 lub ust. 1e albo w art. 23 ust. 1 pkt 38. 1dc. W przypadku realizacji praw z papierów wartościowych, o których mowa w art. 3 pkt 1 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub realizacji praw z pochodnych instrumentów finansowych uzyskanych w następstwie objęcia lub nabycia tych praw jako świadczenie w naturze lub nieodpłatne świadczenie, w związku z którymi został określony przychód, wartość tego przychodu powiększa koszty uzyskania przychodu ze źródła, do którego, zgodnie z art. 10 ust. 4, został zaliczony ten przychód.
 
-1e. W przypadku objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni w zamian za wkład niepieniężny na dzień objęcia tych udziałów (akcji) albo wkładów ustala się koszt uzyskania przychodu, o którym mowa w art. 17 ust. 1 pkt 9, w wysokości:
+1e. W przypadku objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni w zamian za wkład niepieniężny – na dzień objęcia tych udziałów (akcji) albo wkładów – ustala się koszt uzyskania przychodu, o którym mowa w art. 17 ust. 1 pkt 9, w wysokości:
 
 - **1)** wartości początkowej przedmiotu wkładu, zaktualizowanej zgodnie z odrębnymi przepisami, pomniejszonej o sumę dokonanych przed wniesieniem tego wkładu odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1, jeżeli przedmiotem wkładu niepieniężnego są środki trwałe lub wartości niematerialne i prawne;
 - **2)** wartości, w części niezaliczonej w jakiejkolwiek formie do kosztów uzyskania przychodów:
-    - **a)** określonej zgodnie z art. 14 ust. 2 pkt 7ca albo art. 17 ust. 1 pkt 9 jeżeli przedmiotem wkładu są udziały (akcje) w spółce albo wkłady w spółdzielni objęte w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część,
+    - **a)** określonej zgodnie z art. 14 ust. 2 pkt 7ca albo art. 17 ust. 1 pkt 9 – jeżeli przedmiotem wkładu są udziały (akcje) w spółce albo wkłady w spółdzielni objęte w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część,
     - **b)** określonej zgodnie z art. 23 ust. 1 pkt 38, w przypadku gdy udziały (akcje) w spółce albo wkłady w spółdzielni, które są wnoszone w formie wkładu niepieniężnego, nie zostały objęte w zamian za wkład niepieniężny,
-    - **c)** określonej zgodnie z ust. 1f, w przypadku gdy udziały (akcje) w spółce albo wkłady w spółdzielni, które są wnoszone w formie wkładu niepieniężnego, zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części jeżeli przedmiotem wkładu niepieniężnego są udziały (akcje) w spółce albo wkłady w spółdzielni;
+    - **c)** określonej zgodnie z ust. 1f, w przypadku gdy udziały (akcje) w spółce albo wkłady w spółdzielni, które są wnoszone w formie wkładu niepieniężnego, zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części – jeżeli przedmiotem wkładu niepieniężnego są udziały (akcje) w spółce albo wkłady w spółdzielni;
 
-- **2a)** wartości odpowiadającej kwocie pożyczki, która została przekazana przez wnoszącego wkład na rachunek płatniczy tej spółki lub spółdzielni, niewyższej jednak niż wartość wkładu z tytułu tej pożyczki określona zgodnie z art. 17 ust. 1 pkt 9 jeżeli przedmiotem wkładu niepieniężnego jest wierzytelność z tytułu tej pożyczki;
-- **3)** faktycznie poniesionych, niezaliczonych do kosztów uzyskania przychodów, wydatków na nabycie lub wytworzenie innych niż wymienione w pkt 1–2a składników majątku podatnika jeżeli przedmiotem wkładu niepieniężnego są te inne składniki;
-- **4)** wydatków na nabycie lub wytworzenie składnika majątku, niezaliczonych do kosztów uzyskania przychodów w jakiejkolwiek formie lub wartości początkowej takiego składnika majątku pomniejszonej o sumę dokonanych od tego składnika odpisów amortyzacyjnych jeżeli składnik ten został otrzymany przez podatnika w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce;
-- **5)** przyjętej dla celów podatkowych wartości składników majątku, wynikającej z ksiąg, ewidencji i wykazu, o których mowa w art. 24 ust. 3a i art. 24a ust. 1, określonej na dzień objęcia udziałów (akcji), niewyższej jednak niż ich wartość, określona zgodnie z art. 17 ust. 1 pkt 9, z dnia objęcia w przypadku gdy udziały (akcje) wnoszone w formie wkładu niepieniężnego zostały objęte w następstwie przekształcenia przedsiębiorcy będącego osobą fizyczną w spółkę kapitałową;
-- **6)** przyjętej dla celów podatkowych wartości składników przedsiębiorstwa lub jego zorganizowanej części wynikającej z ksiąg podatkowych, określonej na dzień objęcia tych udziałów (akcji) albo wkładów w spółdzielni, niewyższej jednak niż wartość tych udziałów (akcji) lub wkładów z dnia ich objęcia, określona zgodnie z art. 17 ust. 1 pkt 9 w przypadku gdy przedmiotem wkładu jest przedsiębiorstwo lub jego zorganizowana część. 1ea. W przypadku objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni w zamian za wkład niepieniężny w postaci wierzytelności związanej z prowadzoną działalnością gospodarczą na dzień objęcia tych udziałów (akcji) albo wkładów ustala się koszt uzyskania przychodu, o którym mowa w art. 14 ust. 2 pkt 7ca, w wysokości:
-- **1)** kwoty udzielonej pożyczki, która została przekazana przez wnoszącego wkład na rachunek płatniczy tej spółki lub spółdzielni, niewyższej jednak niż wartość wkładu z tytułu tej pożyczki określona zgodnie z art. 14 ust. 2 pkt 7ca jeżeli przedmiotem wkładu niepieniężnego jest wierzytelność z tytułu tej pożyczki;
-- **2)** wartości wierzytelności, w części zaliczonej uprzednio do przychodów należnych na podstawie art. 14 jeżeli przedmiotem wkładu niepieniężnego jest wierzytelność zaliczona uprzednio do przychodów należnych podmiotu wnoszącego taki wkład.
+- **2a)** wartości odpowiadającej kwocie pożyczki, która została przekazana przez wnoszącego wkład na rachunek płatniczy tej spółki lub spółdzielni, niewyższej jednak niż wartość wkładu z tytułu tej pożyczki określona zgodnie z art. 17 ust. 1 pkt 9 – jeżeli przedmiotem wkładu niepieniężnego jest wierzytelność z tytułu tej pożyczki;
+- **3)** faktycznie poniesionych, niezaliczonych do kosztów uzyskania przychodów, wydatków na nabycie lub wytworzenie innych niż wymienione w pkt 1– 2a składników majątku podatnika – jeżeli przedmiotem wkładu niepieniężnego są te inne składniki;
+- **4)** wydatków na nabycie lub wytworzenie składnika majątku, niezaliczonych do kosztów uzyskania przychodów w jakiejkolwiek formie lub wartości początkowej takiego składnika majątku pomniejszonej o sumę dokonanych od tego składnika odpisów amortyzacyjnych – jeżeli składnik ten został otrzymany przez podatnika w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce;
+- **5)** przyjętej dla celów podatkowych wartości składników majątku, wynikającej z ksiąg, ewidencji i wykazu, o których mowa w art. 24 ust. 3a i art. 24a ust. 1, określonej na dzień objęcia udziałów (akcji), niewyższej jednak niż ich wartość, określona zgodnie z art. 17 ust. 1 pkt 9, z dnia objęcia – w przypadku gdy udziały (akcje) wnoszone w formie wkładu niepieniężnego zostały objęte w następstwie przekształcenia przedsiębiorcy będącego osobą fizyczną w spółkę kapitałową;
+- **6)** przyjętej dla celów podatkowych wartości składników przedsiębiorstwa lub jego zorganizowanej części wynikającej z ksiąg podatkowych, określonej na dzień objęcia tych udziałów (akcji) albo wkładów w spółdzielni, niewyższej jednak niż wartość tych udziałów (akcji) lub wkładów z dnia ich objęcia, określona zgodnie z art. 17 ust. 1 pkt 9 – w przypadku gdy przedmiotem wkładu jest przedsiębiorstwo lub jego zorganizowana część. 1ea. W przypadku objęcia udziałów (akcji) w spółce albo wkładów w spółdzielni w zamian za wkład niepieniężny w postaci wierzytelności związanej z prowadzoną działalnością gospodarczą – na dzień objęcia tych udziałów (akcji) albo wkładów – ustala się koszt uzyskania przychodu, o którym mowa w art. 14 ust. 2 pkt 7ca, w wysokości:
+- **1)** kwoty udzielonej pożyczki, która została przekazana przez wnoszącego wkład na rachunek płatniczy tej spółki lub spółdzielni, niewyższej jednak niż wartość wkładu z tytułu tej pożyczki określona zgodnie z art. 14 ust. 2 pkt 7ca – jeżeli przedmiotem wkładu niepieniężnego jest wierzytelność z tytułu tej pożyczki;
+- **2)** wartości wierzytelności, w części zaliczonej uprzednio do przychodów należnych na podstawie art. 14 – jeżeli przedmiotem wkładu niepieniężnego jest wierzytelność zaliczona uprzednio do przychodów należnych podmiotu wnoszącego taki wkład.
 
 1f. W przypadku odpłatnego zbycia udziałów (akcji) w spółce objętych w zamian za wkład niepieniężny, na dzień zbycia tych udziałów (akcji), koszt uzyskania przychodów ustala się w wysokości:
 
-- **1)** określonej zgodnie z art. 14 ust. 2 pkt 7ca albo art. 17 ust. 1 pkt 9 jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część, w tym również w zamian za wkład niepieniężny w postaci komercjalizowanej własności intelektualnej, 1a) określonej zgodnie z art. 17 ust. 1 pkt 9 jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, w przypadku gdy do przychodów takich nie ma zastosowania przepis art. 21 ust. 1 pkt 109,
-- **2)** przyjętej dla celów podatkowych wartości składników przedsiębiorstwa lub jego zorganizowanej części, wynikającej z ksiąg podatkowych, określonej na dzień objęcia tych udziałów (akcji), niewyższej jednak niż wartość tych udziałów (akcji) z dnia ich objęcia, określona zgodnie z art. 17 ust. 1 pkt 9 jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, w przypadku gdy do przychodów takich ma zastosowanie przepis art. 21 ust. 1 pkt 109 w części niezaliczonej w jakiejkolwiek formie do kosztów uzyskania przychodów.
+- **1)** określonej zgodnie z art. 14 ust. 2 pkt 7ca albo art. 17 ust. 1 pkt 9 – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część, w tym również w zamian za wkład niepieniężny w postaci komercjalizowanej własności intelektualnej, 1a) określonej zgodnie z art. 17 ust. 1 pkt 9 – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, w przypadku gdy do przychodów takich nie ma zastosowania przepis art. 21 ust. 1 pkt 109,
+- **2)** przyjętej dla celów podatkowych wartości składników przedsiębiorstwa lub jego zorganizowanej części, wynikającej z ksiąg podatkowych, określonej na dzień objęcia tych udziałów (akcji), niewyższej jednak niż wartość tych udziałów (akcji) z dnia ich objęcia, określona zgodnie z art. 17 ust. 1 pkt 9 – jeżeli zbywane udziały (akcje) zostały objęte w zamian za wkład niepieniężny w postaci przedsiębiorstwa lub jego zorganizowanej części, w przypadku gdy do przychodów takich ma zastosowanie przepis art. 21 ust. 1 pkt 109 – w części niezaliczonej w jakiejkolwiek formie do kosztów uzyskania przychodów.
 
 1g. W przypadku odpłatnego zbycia udziałów (akcji) objętych w wyniku podziału, o którym mowa w art. 24 ust. 5 pkt 7, kosztem uzyskania przychodu z odpłatnego zbycia udziałów (akcji) w spółce przejmującej lub nowo zawiązanej jest wartość emisyjna udziałów (akcji). 1ga. W przypadku odpłatnego zbycia udziałów (akcji) objętych w wyniku podziału lub łączenia spółek, o których mowa w art. 24 ust. 5 pkt 7a, z zastrzeżeniem art. 24 ust. 8, kosztem uzyskania przychodu z odpłatnego zbycia udziałów (akcji) w spółce przejmującej lub nowo zawiązanej jest wartość emisyjna objętych udziałów (akcji). 1gb. W przypadku odpłatnego zbycia udziałów (akcji) spółek podzielonych przez wydzielenie, z zastrzeżeniem art. 24 ust. 8, kosztem uzyskania przychodów u tego wspólnika są wydatki na nabycie lub objęcie udziałów (akcji) spółki podzielonej, ustalone zgodnie z ust. 1f albo art. 23 ust. 1 pkt 38 w takiej proporcji, w jakiej pozostaje wartość pozostałego w spółce po wydzieleniu majątku do wartości majątku spółki bezpośrednio przed podziałem. 1gc. W przypadku odpłatnego zbycia udziałów (akcji) spółki przejmującej, gdy połączenie nastąpiło bez przyznawania udziałów (akcji) spółki przejmującej, koszty uzyskania przychodów, o których mowa w ust. 1f albo art. 23 ust. 1 pkt 38, z tytułu nabycia lub objęcia udziałów (akcji) spółki przejmującej powiększa się o przypadające na zbywane udziały (akcje) koszty nabycia lub objęcia udziałów (akcji) spółki przejmowanej ustalone zgodnie z ust. 1f albo art. 23 ust. 1 pkt 38.
 
@@ -1556,10 +1613,10 @@ Art. 46–51. (pominięte)
 
 1k. W przypadku nabycia przedsiębiorstwa lub jego zorganizowanej części, w drodze wkładu niepieniężnego (aportu), wartość poszczególnych składników majątku, wchodzących w skład przedsiębiorstwa lub jego zorganizowanej części, ustala się:
 
-- **1)** w wysokości wartości początkowej, określonej w ewidencji środków trwałych oraz wartości niematerialnych i prawnych podmiotu wnoszącego wkład w przypadku składników zaliczonych do środków trwałych lub wartości niematerialnych i prawnych;
-- **2)** w wysokości przyjętej dla celów podatkowych i wynikającej z ksiąg podatkowych podmiotu wnoszącego wkład na dzień nabycia w przypadku pozostałych składników. 1ka. Przepis ust. 1k stosuje się odpowiednio do nabycia w drodze wkładu niepieniężnego przedsiębiorstwa lub jego zorganizowanej części podmiotu nieposiadającego siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej. 1kb. W przypadku przekształcenia spółki w spółkę niebędącą osobą prawną wartość poszczególnych składników majątku spółki przekształconej na dzień przekształcenia ustala się:
-- **1)** w wysokości wartości początkowej, określonej w ewidencji środków trwałych oraz wartości niematerialnych i prawnych spółki przekształcanej w przypadku składników majątku zaliczonych do środków trwałych lub wartości niematerialnych i prawnych;
-- **2)** w wysokości przyjętej dla celów podatkowych i wynikającej z ksiąg podatkowych spółki przekształcanej na dzień przekształcenia w przypadku pozostałych składników majątku. 1kc. W przypadku odpłatnego zbycia składników majątku, o których mowa w ust. 1kb, koszty uzyskania przychodów ustala się w wysokości, o której mowa w tym przepisie, pomniejszonej o dokonane od tych składników odpisy amortyzacyjne.
+- **1)** w wysokości wartości początkowej, określonej w ewidencji środków trwałych oraz wartości niematerialnych i prawnych podmiotu wnoszącego wkład – w przypadku składników zaliczonych do środków trwałych lub wartości niematerialnych i prawnych;
+- **2)** w wysokości przyjętej dla celów podatkowych i wynikającej z ksiąg podatkowych podmiotu wnoszącego wkład na dzień nabycia – w przypadku pozostałych składników. 1ka. Przepis ust. 1k stosuje się odpowiednio do nabycia w drodze wkładu niepieniężnego przedsiębiorstwa lub jego zorganizowanej części podmiotu nieposiadającego siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej. 1kb. W przypadku przekształcenia spółki w spółkę niebędącą osobą prawną wartość poszczególnych składników majątku spółki przekształconej na dzień przekształcenia ustala się:
+- **1)** w wysokości wartości początkowej, określonej w ewidencji środków trwałych oraz wartości niematerialnych i prawnych spółki przekształcanej – w przypadku składników majątku zaliczonych do środków trwałych lub wartości niematerialnych i prawnych;
+- **2)** w wysokości przyjętej dla celów podatkowych i wynikającej z ksiąg podatkowych spółki przekształcanej na dzień przekształcenia – w przypadku pozostałych składników majątku. 1kc. W przypadku odpłatnego zbycia składników majątku, o których mowa w ust. 1kb, koszty uzyskania przychodów ustala się w wysokości, o której mowa w tym przepisie, pomniejszonej o dokonane od tych składników odpisy amortyzacyjne.
 
 1l. W przypadku zbycia składników majątku wchodzących w skład przedsiębiorstwa lub jego zorganizowanej części, nabytych w sposób, o którym mowa w ust. 1k, koszty uzyskania przychodów ustala się w wysokości, o której mowa w tym przepisie, pomniejszonej o dokonane od tych składników odpisy amortyzacyjne. 1ł. W przypadku odpłatnego zbycia udziałów (akcji) spółki powstałej z przekształcenia przedsiębiorcy będącego osobą fizyczną w spółkę kapitałową, koszt uzyskania przychodów ustala się na dzień zbycia tych udziałów (akcji) w wysokości przyjętej dla celów podatkowych wartości składników majątku, wynikającej z ksiąg, ewidencji i wykazu, o których mowa w art. 24 ust. 3a i art. 24a ust. 1, określonej na dzień objęcia tych udziałów (akcji), niewyższej jednak niż ich wartość z dnia objęcia, określona zgodnie z art. 17 ust. 1 pkt 9.
 
@@ -1567,8 +1624,8 @@ Art. 46–51. (pominięte)
 
 1n. W przypadku prowadzenia przez podatnika, o którym mowa w art. 3 ust. 2a, działalności gospodarczej na terytorium Rzeczypospolitej Polskiej przez zagraniczny zakład wartość poszczególnych składników majątku wchodzących w skład tego zagranicznego zakładu ustala się, z zastrzeżeniem ust. 1, w wysokości:
 
-- **1)** wartości rynkowej określonej dla celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, o którym mowa w art. 30da, w państwie miejsca zamieszkania podatnika lub w państwie położenia jego zagranicznego zakładu, chyba że organ podatkowy określi tę wartość w innej wysokości w przypadku gdy składniki majątku, w tym przedsiębiorstwo lub zorganizowana część przedsiębiorstwa, są przenoszone z terytorium państwa członkowskiego Unii Europejskiej; przepis ust. 1l stosuje się odpowiednio, lub
-- **2)** przyjętej dla celów podatkowych i wynikającej z ksiąg podatkowych tego podatnika, niezaliczonej do kosztów w jakiejkolwiek formie, niewyższej jednak od wartości rynkowej składnika majątku jeżeli składnik ten jest przenoszony z państwa członkowskiego Unii Europejskiej, a państwo to nie określi dla tego składnika majątku wartości rynkowej, o której mowa w pkt 1, albo zwolni z opodatkowania tę wartość, albo jeżeli składnik ten jest przenoszony z terytorium państwa innego niż państwo członkowskie Unii Europejskiej; przepis ust. 1l stosuje się odpowiednio. 1na. Przepis ust. 1n stosuje się odpowiednio do podatnika, o którym mowa w art. 3 ust. 1, prowadzącego działalność gospodarczą na terytorium Rzeczypospolitej Polskiej, który:
+- **1)** wartości rynkowej określonej dla celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, o którym mowa w art. 30da, w państwie miejsca zamieszkania podatnika lub w państwie położenia jego zagranicznego zakładu, chyba że organ podatkowy określi tę wartość w innej wysokości – w przypadku gdy składniki majątku, w tym przedsiębiorstwo lub zorganizowana część przedsiębiorstwa, są przenoszone z terytorium państwa członkowskiego Unii Europejskiej; przepis ust. 1l stosuje się odpowiednio, lub
+- **2)** przyjętej dla celów podatkowych i wynikającej z ksiąg podatkowych tego podatnika, niezaliczonej do kosztów w jakiejkolwiek formie, niewyższej jednak od wartości rynkowej składnika majątku – jeżeli składnik ten jest przenoszony z państwa członkowskiego Unii Europejskiej, a państwo to nie określi dla tego składnika majątku wartości rynkowej, o której mowa w pkt 1, albo zwolni z opodatkowania tę wartość, albo jeżeli składnik ten jest przenoszony z terytorium państwa innego niż państwo członkowskie Unii Europejskiej; przepis ust. 1l stosuje się odpowiednio. 1na. Przepis ust. 1n stosuje się odpowiednio do podatnika, o którym mowa w art. 3 ust. 1, prowadzącego działalność gospodarczą na terytorium Rzeczypospolitej Polskiej, który:
 - **1)** przeniósł na terytorium Rzeczypospolitej Polskiej, w celu wykorzystywania w tej działalności, składnik majątku swojego zagranicznego zakładu, w tym w wyniku likwidacji tego zagranicznego zakładu, lub
 - **2)** przeniósł na terytorium Rzeczypospolitej Polskiej, w związku ze zmianą miejsca zamieszkania, składnik majątku wykorzystywany w działalności gospodarczej prowadzonej poza terytorium Rzeczypospolitej Polskiej, w tym w wyniku likwidacji takiej działalności.
 
@@ -1598,10 +1655,10 @@ Art. 46–51. (pominięte)
 
 2. Koszty uzyskania przychodów z tytułu stosunku służbowego, stosunku pracy, spółdzielczego stosunku pracy oraz pracy nakładczej:
 
-- **1)** wynoszą 250 zł miesięcznie, a za rok podatkowy łącznie niewięcej niż 3000 zł w przypadku gdy podatnik uzyskuje przychody z tytułu jednego stosunku służbowego, stosunku pracy, spółdzielczego stosunku pracy oraz pracy nakładczej;
-- **2)** nie mogą przekroczyć łącznie 4500 zł za rok podatkowy w przypadku gdy podatnik uzyskuje przychody równocześnie z tytułu więcej niż jednego stosunku służbowego, stosunku pracy, spółdzielczego stosunku pracy oraz pracy nakładczej;
-- **3)** wynoszą 300 zł miesięcznie, a za rok podatkowy łącznie niewięcej niż 3600 zł w przypadku gdy miejsce stałego lub czasowego zamieszkania podatnika jest położone poza miejscowością, w której znajduje się zakład pracy, i podatnik nie uzyskuje dodatku za rozłąkę;
-- **4)** nie mogą przekroczyć łącznie 5400 zł za rok podatkowy w przypadku gdy podatnik uzyskuje przychody równocześnie z tytułu więcej niż jednego stosunku służbowego, stosunku pracy, spółdzielczego stosunku pracy oraz pracy nakładczej, miejsce stałego lub czasowego zamieszkania podatnika jest położone poza miejscowością, w której znajduje się zakład pracy, i podatnik nie uzyskuje dodatku za rozłąkę.
+- **1)** wynoszą 250 zł miesięcznie, a za rok podatkowy łącznie niewięcej niż 3000 zł – w przypadku gdy podatnik uzyskuje przychody z tytułu jednego stosunku służbowego, stosunku pracy, spółdzielczego stosunku pracy oraz pracy nakładczej;
+- **2)** nie mogą przekroczyć łącznie 4500 zł za rok podatkowy – w przypadku gdy podatnik uzyskuje przychody równocześnie z tytułu więcej niż jednego stosunku służbowego, stosunku pracy, spółdzielczego stosunku pracy oraz pracy nakładczej;
+- **3)** wynoszą 300 zł miesięcznie, a za rok podatkowy łącznie niewięcej niż 3600 zł – w przypadku gdy miejsce stałego lub czasowego zamieszkania podatnika jest położone poza miejscowością, w której znajduje się zakład pracy, i podatnik nie uzyskuje dodatku za rozłąkę;
+- **4)** nie mogą przekroczyć łącznie 5400 zł za rok podatkowy – w przypadku gdy podatnik uzyskuje przychody równocześnie z tytułu więcej niż jednego stosunku służbowego, stosunku pracy, spółdzielczego stosunku pracy oraz pracy nakładczej, miejsce stałego lub czasowego zamieszkania podatnika jest położone poza miejscowością, w której znajduje się zakład pracy, i podatnik nie uzyskuje dodatku za rozłąkę.
 
 2a. (uchylony)
 
@@ -1613,7 +1670,7 @@ Art. 46–51. (pominięte)
 
 4. Koszty uzyskania przychodów są potrącane tylko w tym roku podatkowym, w którym zostały poniesione, z zastrzeżeniem ust. 4a–5, 6 i 10.
 
-4a. Koszty uzyskania przychodów, z wyjątkiem kosztów, o których mowa w ust. 8, poniesione w roku podatkowym, w którym podatnik stosuje metodę kasową, o której mowa w art. 14c, wynikające z transakcji dokonanych między podatnikiem a przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, są potrącane w roku podatkowym, w którym zostało uregulowane zobowiązanie, niewcześniej jednak niż w dacie poniesienia kosztu. Przepis art. 14c ust. 3 stosuje się odpowiednio.
+4a. Koszty uzyskania przychodów, z wyjątkiem kosztów, o których mowa w ust. 8, poniesione w roku podatkowym, w którym podatnik stosuje metodę kasową, o której mowa w art. 14c, wynikające z transakcji dokonanych między podatnikiem a przedsiębiorcą w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, są potrącane w roku podatkowym, w którym zostało uregulowane zobowiązanie, niewcześniej jednak niż w dacie poniesienia kosztu. Przepis art. 14c ust. 3 stosuje się odpowiednio.
 
 4b. Jeżeli uregulowanie zobowiązania następuje po likwidacji pozarolniczej działalności gospodarczej albo zmianie formy opodatkowania na zryczałtowaną formę opodatkowania określoną w ustawie o zryczałtowanym podatku dochodowym lub w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym, koszty uzyskania przychodów, o których mowa w ust. 4a, są potrącane w ostatnim okresie rozliczeniowym przed likwidacją pozarolniczej działalności gospodarczej lub zmianą formy opodatkowania.
 
@@ -1622,7 +1679,7 @@ Art. 46–51. (pominięte)
 5a. Koszty uzyskania przychodów bezpośrednio związane z przychodami, odnoszące się do przychodów danego roku podatkowego, a poniesione po zakończeniu tego roku podatkowego do dnia:
 
 - **1)** sporządzenia sprawozdania finansowego, zgodnie z odrębnymi przepisami, niepóźniej jednak niż do upływu terminu określonego do złożenia zeznania, jeżeli podatnicy są obowiązani do sporządzania takiego sprawozdania, albo
-- **2)** złożenia zeznania, niepóźniej jednak niż do upływu terminu określonego do złożenia tego zeznania, jeżeli podatnicy, zgodnie z odrębnymi przepisami, nie są obowiązani do sporządzania sprawozdania finansowego są potrącalne w roku podatkowym, w którym osiągnięte zostały odpowiadające im przychody.
+- **2)** złożenia zeznania, niepóźniej jednak niż do upływu terminu określonego do złożenia tego zeznania, jeżeli podatnicy, zgodnie z odrębnymi przepisami, nie są obowiązani do sporządzania sprawozdania finansowego – są potrącalne w roku podatkowym, w którym osiągnięte zostały odpowiadające im przychody.
 
 5b. Koszty uzyskania przychodów bezpośrednio związane z przychodami, odnoszące się do przychodów danego roku podatkowego, a poniesione po dniu, o którym mowa w ust. 5a pkt 1 albo pkt 2, są potrącalne w roku podatkowym następującym po roku, za który sporządzane jest sprawozdanie finansowe lub składane jest zeznanie.
 
@@ -1669,18 +1726,18 @@ Art. 46–51. (pominięte)
 
 8a. W przypadku odpłatnego zbycia przez spółkę niebędącą osobą prawną rzeczy i praw będących przedmiotem wkładu do takiej spółki za koszt uzyskania przychodu uważa się:
 
-- **1)** wartość początkową przyjętą przez spółkę w ewidencji środków trwałych oraz wartości niematerialnych i prawnych, ustaloną zgodnie z art. 22g ust. 1 pkt 4, pomniejszoną o sumę odpisów amortyzacyjnych jeżeli rzeczy te lub prawa były zaliczone do środków trwałych lub wartości niematerialnych i prawnych spółki;
-- **2)** wartość poniesionych wydatków na nabycie albo wytworzenie przedmiotu wkładu, niezaliczonych do kosztów uzyskania przychodów w jakiejkolwiek formie jeżeli rzeczy te lub prawa nie były zaliczone do środków trwałych lub wartości niematerialnych i prawnych spółki.
+- **1)** wartość początkową przyjętą przez spółkę w ewidencji środków trwałych oraz wartości niematerialnych i prawnych, ustaloną zgodnie z art. 22g ust. 1 pkt 4, pomniejszoną o sumę odpisów amortyzacyjnych – jeżeli rzeczy te lub prawa były zaliczone do środków trwałych lub wartości niematerialnych i prawnych spółki;
+- **2)** wartość poniesionych wydatków na nabycie albo wytworzenie przedmiotu wkładu, niezaliczonych do kosztów uzyskania przychodów w jakiejkolwiek formie – jeżeli rzeczy te lub prawa nie były zaliczone do środków trwałych lub wartości niematerialnych i prawnych spółki.
 
 9. Koszty uzyskania niektórych przychodów określa się:
 
-- **1)** z tytułu zapłaty twórcy za przeniesienie prawa własności wynalazku, topografii układu scalonego, wzoru użytkowego, wzoru przemysłowego, znaku towarowego lub wzoru zdobniczego w wysokości 50 % uzyskanego przychodu, z zastrzeżeniem ust. 9a;
-- **2)** z tytułu opłaty licencyjnej za przeniesienie prawa stosowania wynalazku, topografii układu scalonego, wzoru użytkowego, wzoru przemysłowego, znaku towarowego lub wzoru zdobniczego, otrzymanej w pierwszym roku trwania licencji od pierwszej jednostki, z którą zawarto umowę licencyjną w wysokości 50 % uzyskanego przychodu, z zastrzeżeniem ust. 9a;
-- **3)** z tytułu korzystania przez twórców z praw autorskich i artystów wykonawców z praw pokrewnych, w rozumieniu odrębnych przepisów, lub rozporządzania przez nich tymi prawami w wysokości 50 % uzyskanego przychodu, z zastrzeżeniem ust. 9a i 9b, z tym że koszty te oblicza się od przychodu pomniejszonego o potrącone przez płatnika w danym miesiącu składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b, których podstawę wymiaru stanowi ten przychód;
+- **1)** z tytułu zapłaty twórcy za przeniesienie prawa własności wynalazku, topografii układu scalonego, wzoru użytkowego, wzoru przemysłowego, znaku towarowego lub wzoru zdobniczego – w wysokości 50 % uzyskanego przychodu, z zastrzeżeniem ust. 9a;
+- **2)** z tytułu opłaty licencyjnej za przeniesienie prawa stosowania wynalazku, topografii układu scalonego, wzoru użytkowego, wzoru przemysłowego, znaku towarowego lub wzoru zdobniczego, otrzymanej w pierwszym roku trwania licencji od pierwszej jednostki, z którą zawarto umowę licencyjną – w wysokości 50 % uzyskanego przychodu, z zastrzeżeniem ust. 9a;
+- **3)** z tytułu korzystania przez twórców z praw autorskich i artystów wykonawców z praw pokrewnych, w rozumieniu odrębnych przepisów, lub rozporządzania przez nich tymi prawami – w wysokości 50 % uzyskanego przychodu, z zastrzeżeniem ust. 9a i 9b, z tym że koszty te oblicza się od przychodu pomniejszonego o potrącone przez płatnika w danym miesiącu składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b, których podstawę wymiaru stanowi ten przychód;
 - **3a)** (uchylony)
-- **4)** z tytułów określonych w art. 13 pkt 2, 4‒6 i 8 w wysokości 20 % uzyskanego przychodu, z tym że koszty te oblicza się od przychodu pomniejszonego o potrącone przez płatnika w danym miesiącu składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b, których podstawę wymiaru stanowi ten przychód;
+- **4)** z tytułów określonych w art. 13 pkt 2, 4‒6 i 8 – w wysokości 20 % uzyskanego przychodu, z tym że koszty te oblicza się od przychodu pomniejszonego o potrącone przez płatnika w danym miesiącu składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b, których podstawę wymiaru stanowi ten przychód;
 - **5)** z tytułów określonych w art. 13 pkt 7 i 9 w wysokości określonej w ust. 2 pkt 1, a jeżeli podatnik tego samego rodzaju przychody uzyskuje od więcej niż jednego podmiotu albo od tego samego podmiotu, ale z tytułu kilku stosunków prawnych, w wysokości określonej w ust. 2 pkt 2;
-- **6)** z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uzyskanych na podstawie umowy, do której stosuje się przepisy prawa cywilnego dotyczące umowy zlecenia lub o dzieło w wysokości 20 % uzyskanego przychodu, z tym że koszty te oblicza się od przychodu pomniejszonego o potrącone przez płatnika lub opłacone przez podatnika w danym miesiącu składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b, których podstawę wymiaru stanowi ten przychód.
+- **6)** z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uzyskanych na podstawie umowy, do której stosuje się przepisy prawa cywilnego dotyczące umowy zlecenia lub o dzieło – w wysokości 20 % uzyskanego przychodu, z tym że koszty te oblicza się od przychodu pomniejszonego o potrącone przez płatnika lub opłacone przez podatnika w danym miesiącu składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b, których podstawę wymiaru stanowi ten przychód.
 
 9a. W roku podatkowym łączne koszty uzyskania przychodów, o których mowa w ust. 9 pkt 1–3, nie mogą przekroczyć kwoty stanowiącej górną granicę pierwszego przedziału skali podatkowej, o której mowa w art. 27 ust. 1. 9aa. W przypadku zastosowania zwolnienia, o którym mowa w art. 21 ust. 1 pkt 148 lit. a, pkt 152 lit. a, pkt 153 lit. a oraz pkt 154 w zakresie przychodów ze stosunku służbowego, stosunku pracy, pracy nakładczej, spółdzielczego stosunku pracy, suma łącznych kosztów uzyskania przychodów, o których mowa w ust. 9 pkt 1–3, oraz przychodów zwolnionych od podatku na podstawie art. 21 ust. 1 pkt 148 lit. a, pkt 152 lit. a, pkt 153 lit. a oraz pkt 154 w zakresie przychodów ze stosunku służbowego, stosunku pracy, pracy nakładczej, spółdzielczego stosunku pracy, nie może w roku podatkowym przekroczyć kwoty stanowiącej górną granicę pierwszego przedziału skali podatkowej, o której mowa w art. 27 ust. 1.
 
@@ -1719,13 +1776,13 @@ Art. 46–51. (pominięte)
 
 - **1)** budowle, budynki oraz lokale będące odrębną własnością,
 - **2)** maszyny, urządzenia i środki transportu,
-- **3)** inne przedmioty o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane do używania na podstawie umowy najmu, dzierżawy lub umowy określonej w art. 23a pkt 1, zwane środkami trwałymi.
+- **3)** inne przedmioty – o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane do używania na podstawie umowy najmu, dzierżawy lub umowy określonej w art. 23a pkt 1, zwane środkami trwałymi.
 
 2. Amortyzacji podlegają również, z zastrzeżeniem art. 22c, niezależnie od przewidywanego okresu używania:
 
 - **1)** przyjęte do używania inwestycje w obcych środkach trwałych, zwane dalej „inwestycjami w obcych środkach trwałych”,
 - **2)** budynki i budowle wybudowane na cudzym gruncie,
-- **3)** składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami tych składników jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający zwane także środkami trwałymi;
+- **3)** składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami tych składników – jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający – zwane także środkami trwałymi;
 - **4)** tabor transportu morskiego w budowie (PKWiU ex 30.11).
 
 **Art. 22b.**
@@ -1737,23 +1794,29 @@ Art. 46–51. (pominięte)
 - **3)** (uchylony)
 - **4)** autorskie lub pokrewne prawa majątkowe,
 - **5)** licencje,
-- **6)** prawa określone w ustawie z dnia 30 czerwca 2000 r. Prawo własności przemysłowej,
-- **7)** wartość stanowiąca równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how) o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane przez niego do używania na podstawie umowy licencyjnej (sublicencji), umowy najmu, dzierżawy lub umowy określonej w art. 23a pkt 1, zwane wartościami niematerialnymi i prawnymi.
+- **6)** prawa określone w ustawie z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej,
+- **7)** wartość stanowiąca równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how) – o przewidywanym okresie używania dłuższym niż rok, wykorzystywane przez podatnika na potrzeby związane z prowadzoną przez niego działalnością gospodarczą albo oddane przez niego do używania na podstawie umowy licencyjnej (sublicencji), umowy najmu, dzierżawy lub umowy określonej w art. 23a pkt 1, zwane wartościami niematerialnymi i prawnymi.
 
 2. Amortyzacji podlegają również, z zastrzeżeniem art. 22c, niezależnie od przewidywanego okresu używania:
 
 - **1)** wartość firmy, jeżeli wartość ta powstała w wyniku nabycia przedsiębiorstwa lub jego zorganizowanej części w drodze:
     - **a)** kupna,
-    - **b)** przyjęcia do odpłatnego korzystania, a odpisów amortyzacyjnych, zgodnie z przepisami rozdziału 4a, dokonuje korzystający, 1a) wartość firmy, jeżeli w związku z przeniesieniem na terytorium Rzeczypospolitej Polskiej przedsiębiorstwa lub zorganizowanej części przedsiębiorstwa wartość ta została opodatkowana w państwie członkowskim Unii Europejskiej podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, o którym mowa w art. 30da w przypadku gdy przedsiębiorstwo lub jego zorganizowana część przenoszone są z tego państwa,
+    - **b)** przyjęcia do odpłatnego korzystania, a odpisów amortyzacyjnych, zgodnie z przepisami rozdziału 4a, dokonuje korzystający, 1a) wartość firmy, jeżeli w związku z przeniesieniem na terytorium Rzeczypospolitej Polskiej przedsiębiorstwa lub zorganizowanej części przedsiębiorstwa wartość ta została opodatkowana w państwie członkowskim Unii Europejskiej podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, o którym mowa w art. 30da – w przypadku gdy przedsiębiorstwo lub jego zorganizowana część przenoszone są z tego państwa,
 
 - **2)** koszty prac rozwojowych zakończonych wynikiem pozytywnym, który może być wykorzystany na potrzeby działalności gospodarczej podatnika, jeżeli:
     - **a)** produkt lub technologia wytwarzania są ściśle ustalone, a dotyczące ich koszty prac rozwojowych wiarygodnie określone, oraz
     - **b)** techniczna przydatność produktu lub technologii została przez podatnika odpowiednio udokumentowana i na tej podstawie podatnik podjął decyzję o wytwarzaniu tych produktów lub stosowaniu technologii, oraz
     - **c)** z dokumentacji dotyczącej prac rozwojowych wynika, że koszty prac rozwojowych zostaną pokryte spodziewanymi przychodami ze sprzedaży tych produktów lub zastosowania technologii,
 
-- **3)** składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający zwane także wartościami niematerialnymi i prawnymi.
+- **3)** składniki majątku, wymienione w ust. 1, niestanowiące własności lub współwłasności podatnika, wykorzystywane przez niego na potrzeby związane z prowadzoną działalnością na podstawie umowy określonej w art. 23a pkt 1, zawartej z właścicielem lub współwłaścicielami albo uprawnionymi do korzystania z tych wartości – jeżeli zgodnie z przepisami rozdziału 4a odpisów amortyzacyjnych dokonuje korzystający – zwane także wartościami niematerialnymi i prawnymi.
 
 **Art. 22c.** Amortyzacji nie podlegają:
+
+- **1)** grunty i prawa wieczystego użytkowania gruntów,
+- **2)** budynki mieszkalne wraz ze znajdującymi się w nich dźwigami, lokale mieszkalne stanowiące odrębną nieruchomość, spółdzielcze własnościowe prawo do lokalu mieszkalnego oraz prawo do domu jednorodzinnego w spółdzielni mieszkaniowej, służące prowadzonej działalności gospodarczej lub wydzierżawiane albo wynajmowane na podstawie umowy,
+- **3)** dzieła sztuki i eksponaty muzealne,
+- **4)** wartość firmy, jeżeli wartość ta powstała w inny sposób niż określony w art. 22b ust. 2 pkt 1 i 1a,
+- **5)** składniki majątku, które nie są używane na skutek zawieszenia wykonywania działalności gospodarczej na podstawie przepisów dotyczących zawieszenia wykonywania działalności gospodarczej albo zaprzestania działalności, w której te składniki były używane; w tym przypadku składniki te nie podlegają amortyzacji od miesiąca następującego po miesiącu, w którym zawieszono albo zaprzestano tej działalności – zwane odpowiednio środkami trwałymi lub wartościami niematerialnymi i prawnymi.
 
 **Art. 22d.**
 
@@ -1763,7 +1826,7 @@ Art. 46–51. (pominięte)
 
 **Art. 22e.**
 
-1. Jeżeli podatnicy nabędą lub wytworzą we własnym zakresie składniki majątku wymienione w art. 22a ust. 1 i art. 22b ust. 1, o wartości początkowej przekraczającej 10 000 zł, i ze względu na przewidywany przez nich okres używania równy lub krótszy niż rok nie zaliczą ich do środków trwałych albo wartości niematerialnych i prawnych, a faktyczny okres ich używania przekroczy rok podatnicy są obowiązani, w pierwszym miesiącu następującym po miesiącu, w którym ten rok upłynął:
+1. Jeżeli podatnicy nabędą lub wytworzą we własnym zakresie składniki majątku wymienione w art. 22a ust. 1 i art. 22b ust. 1, o wartości początkowej przekraczającej 10 000 zł, i ze względu na przewidywany przez nich okres używania równy lub krótszy niż rok nie zaliczą ich do środków trwałych albo wartości niematerialnych i prawnych, a faktyczny okres ich używania przekroczy rok – podatnicy są obowiązani, w pierwszym miesiącu następującym po miesiącu, w którym ten rok upłynął:
 
 - **1)** zaliczyć te składniki do środków trwałych albo wartości niematerialnych i prawnych, przyjmując je do ewidencji w cenie nabycia albo koszcie wytworzenia;
 - **2)** zmniejszyć koszty uzyskania przychodów o różnicę między ceną nabycia lub kosztem wytworzenia a kwotą odpisów amortyzacyjnych, przypadającą na okres ich dotychczasowego używania, obliczonych dla środków trwałych przy zastosowaniu stawek amortyzacyjnych określonych w Wykazie rocznych stawek amortyzacyjnych, stanowiącym załącznik nr 1 do ustawy, zwanym „Wykazem stawek amortyzacyjnych”, a dla wartości niematerialnych i prawnych przy zastosowaniu zasad określonych w art. 22m;
@@ -1780,7 +1843,7 @@ Art. 46–51. (pominięte)
 
 2. Podatnicy będący armatorami, z wyjątkiem tych, którzy ze względu na ogłoszoną upadłość nie prowadzą działalności gospodarczej, mogą dokonywać odpisów amortyzacyjnych od zamówionego przez nich taboru transportu morskiego w budowie, o którym mowa w art. 22a ust. 2 pkt 4.
 
-3. Odpisów amortyzacyjnych dokonuje się zgodnie z art. 22h–22m, gdy wartość początkowa środka trwałego albo wartości niematerialnej i prawnej w dniu przyjęcia do używania jest wyższa niż 10 000 zł. W przypadku gdy wartość początkowa jest równa lub niższa niż 10 000 zł, podatnicy, z zastrzeżeniem art. 22d ust. 1, mogą dokonywać odpisów amortyzacyjnych zgodnie z art. 22h–22m albo jednorazowo w miesiącu oddania do używania tego środka trwałego lub wartości niematerialnej i prawnej, albo w miesiącu następnym.
+3. Odpisów amortyzacyjnych dokonuje się zgodnie z art. 22h–22m, gdy wartość początkowa środka trwałego albo wartości niematerialnej i prawnej w dniu przyjęcia do używania jest wyższa niż 10 000 zł. W przypadku gdy wartość początkowa jest równa lub niższa niż 10 000 zł, podatnicy, z zastrzeżeniem art. 22d ust. 1, mogą dokonywać odpisów amortyzacyjnych zgodnie z art. 22h–22m albo jednorazowo – w miesiącu oddania do używania tego środka trwałego lub wartości niematerialnej i prawnej, albo w miesiącu następnym.
 
 4. Jeżeli tylko część nieruchomości lub lokalu użytkowego jest wykorzystywana do prowadzenia działalności gospodarczej, wynajmowana lub wydzierżawiana, odpisów amortyzacyjnych dokonuje się w wysokości ustalonej od wartości początkowej nieruchomości lub lokalu odpowiadającej stosunkowi powierzchni użytkowej wykorzystywanej do prowadzenia działalności gospodarczej, wynajmowanej lub wydzierżawianej, do ogólnej powierzchni użytkowej tej nieruchomości lub lokalu.
 
@@ -1790,19 +1853,19 @@ Art. 46–51. (pominięte)
 
 1. Za wartość początkową środków trwałych oraz wartości niematerialnych i prawnych, z uwzględnieniem ust. 2–18, uważa się:
 
-- **1)** w razie odpłatnego nabycia cenę ich nabycia, a jeżeli były używane przez podatnika przed wprowadzeniem ich do ewidencji środków trwałych oraz wartości niematerialnych i prawnych i nie były wcześniej amortyzowane cenę ich nabycia, niewyższą jednak od ich wartości rynkowej;
-- **1a)** w razie częściowo odpłatnego nabycia cenę ich nabycia powiększoną o wartość przychodu, określonego w art. 11 ust. 2b;
-- **2)** w razie wytworzenia we własnym zakresie koszt wytworzenia;
-- **3)** w razie nabycia w drodze spadku, darowizny lub w inny nieodpłatny sposób wartość rynkową z dnia nabycia, chyba że umowa darowizny albo umowa o nieodpłatnym przekazaniu określa tę wartość w niższej wysokości;
+- **1)** w razie odpłatnego nabycia – cenę ich nabycia, a jeżeli były używane przez podatnika przed wprowadzeniem ich do ewidencji środków trwałych oraz wartości niematerialnych i prawnych i nie były wcześniej amortyzowane – cenę ich nabycia, niewyższą jednak od ich wartości rynkowej;
+- **1a)** w razie częściowo odpłatnego nabycia – cenę ich nabycia powiększoną o wartość przychodu, określonego w art. 11 ust. 2b;
+- **2)** w razie wytworzenia we własnym zakresie – koszt wytworzenia;
+- **3)** w razie nabycia w drodze spadku, darowizny lub w inny nieodpłatny sposób – wartość rynkową z dnia nabycia, chyba że umowa darowizny albo umowa o nieodpłatnym przekazaniu określa tę wartość w niższej wysokości;
 - **4)** w razie nabycia w postaci wkładu niepieniężnego (aportu) wniesionego do spółki niebędącej osobą prawną:
-    - **a)** wartość początkową, od której dokonywane były odpisy amortyzacyjne jeżeli przedmiot wkładu był amortyzowany,
-    - **b)** wydatki poniesione na nabycie lub wytworzenie przedmiotu wkładu, niezaliczone do kosztów uzyskania przychodów w jakiejkolwiek formie jeżeli przedmiot wkładu nie był amortyzowany,
-    - **c)** wartość określoną zgodnie z art. 19 jeżeli ustalenie wydatków na nabycie lub wytworzenie przedmiotu wkładu przez wspólnika wnoszącego wkład, będącego osobą fizyczną, jest niemożliwe i przedmiot wkładu nie był wykorzystywany przez wnoszącego wkład w prowadzonej działalności gospodarczej, z wyłączeniem wartości niematerialnych i prawnych wytworzonych przez wspólnika we własnym zakresie;
+    - **a)** wartość początkową, od której dokonywane były odpisy amortyzacyjne – jeżeli przedmiot wkładu był amortyzowany,
+    - **b)** wydatki poniesione na nabycie lub wytworzenie przedmiotu wkładu, niezaliczone do kosztów uzyskania przychodów w jakiejkolwiek formie – jeżeli przedmiot wkładu nie był amortyzowany,
+    - **c)** wartość określoną zgodnie z art. 19 – jeżeli ustalenie wydatków na nabycie lub wytworzenie przedmiotu wkładu przez wspólnika wnoszącego wkład, będącego osobą fizyczną, jest niemożliwe i przedmiot wkładu nie był wykorzystywany przez wnoszącego wkład w prowadzonej działalności gospodarczej, z wyłączeniem wartości niematerialnych i prawnych wytworzonych przez wspólnika we własnym zakresie;
 
 - **5)** w razie otrzymania w związku z likwidacją spółki lub osoby prawnej, z zastrzeżeniem ust. 14b, ustaloną przez podatnika wartość poszczególnych środków trwałych oraz wartości niematerialnych i prawnych, niewyższą jednak od ich wartości rynkowej;
-- **6)** w razie nabycia, o którym mowa w art. 14 ust. 2e wartość wierzytelności (należności) uregulowanej w wyniku wykonania świadczenia niepieniężnego, o którym mowa w tym przepisie; przepis ust. 3 stosuje się odpowiednio;
-- **7)** w razie prowadzenia przez podatnika, o którym mowa w art. 3 ust. 2a, działalności gospodarczej na terytorium Rzeczypospolitej Polskiej przez zagraniczny zakład wartość, o której mowa w art. 22 ust. 1n;
-- **8)** w razie gdy podatnik, o którym mowa w art. 3 ust. 1, przeniósł w celu wykorzystywania w prowadzonej na terytorium Rzeczypospolitej Polskiej działalności gospodarczej składnik majątku swojego zagranicznego zakładu, w tym w wyniku jego likwidacji, lub przeniósł w związku ze zmianą miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej w celu wykorzystywania w tej działalności składnik majątku wykorzystywany w działalności gospodarczej prowadzonej poza terytorium Rzeczypospolitej Polskiej wartość określoną zgodnie z art. 22 ust. 1na.
+- **6)** w razie nabycia, o którym mowa w art. 14 ust. 2e – wartość wierzytelności (należności) uregulowanej w wyniku wykonania świadczenia niepieniężnego, o którym mowa w tym przepisie; przepis ust. 3 stosuje się odpowiednio;
+- **7)** w razie prowadzenia przez podatnika, o którym mowa w art. 3 ust. 2a, działalności gospodarczej na terytorium Rzeczypospolitej Polskiej przez zagraniczny zakład – wartość, o której mowa w art. 22 ust. 1n;
+- **8)** w razie gdy podatnik, o którym mowa w art. 3 ust. 1, przeniósł w celu wykorzystywania w prowadzonej na terytorium Rzeczypospolitej Polskiej działalności gospodarczej składnik majątku swojego zagranicznego zakładu, w tym w wyniku jego likwidacji, lub przeniósł w związku ze zmianą miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej w celu wykorzystywania w tej działalności składnik majątku wykorzystywany w działalności gospodarczej prowadzonej poza terytorium Rzeczypospolitej Polskiej – wartość określoną zgodnie z art. 22 ust. 1na.
 
 1a. Przepis ust. 1 pkt 4 lit. a i b stosuje się odpowiednio w przypadku składnika majątku wnoszonego w postaci wkładu niepieniężnego (aportu) do spółki niebędącej osobą prawną przez wspólnika, który składnik ten otrzymał w następstwie likwidacji spółki niebędącej osobą prawną, wystąpienia z takiej spółki albo zmniejszenia udziału kapitałowego w takiej spółce.
 
@@ -1816,7 +1879,9 @@ Art. 46–51. (pominięte)
 
 6. Wartość początkową składników majątku nabytych w sposób określony w ust. 1 pkt 3–5, wymagających montażu, powiększa się o wydatki poniesione na ich montaż.
 
-7. Wartość początkową inwestycji w obcych środkach trwałych oraz budynków i budowli wybudowanych na obcym gruncie ustala się, stosując odpowiednio ust. 3–5.
+7. Wartość początkową inwestycji w obcych środkach trwałych oraz budynków i budowli wybudowanych na obcym gruncie ustala się, stosując odpowiednio ust. 3–
+
+5.
 
 8. Jeżeli nie można ustalić ceny nabycia środków trwałych lub ich części nabytych przez podatników przed dniem założenia ewidencji lub sporządzenia wykazu, o których mowa w art. 22n, wartość początkową tych środków przyjmuje się w wysokości wynikającej z wyceny dokonanej przez podatnika, z uwzględnieniem cen rynkowych środków trwałych tego samego rodzaju z grudnia roku poprzedzającego rok założenia ewidencji lub sporządzenia wykazu oraz stanu i stopnia ich zużycia.
 
@@ -1826,7 +1891,7 @@ Art. 46–51. (pominięte)
 
 11. W razie gdy składnik majątku stanowi współwłasność podatnika, wartość początkową tego składnika ustala się w takiej proporcji jego wartości, w jakiej pozostaje udział podatnika we własności tego składnika majątku; zasada ta nie ma zastosowania do składników majątku stanowiących wspólność majątkową małżonków, chyba że małżonkowie wykorzystują składnik majątku w działalności gospodarczej prowadzonej odrębnie.
 
-12. W razie zmiany formy prawnej, a także połączenia albo podziału podmiotów dokonywanych na podstawie odrębnych przepisów wartość początkową środków trwałych oraz wartości niematerialnych i prawnych ustala się w wysokości wartości początkowej określonej w ewidencji (wykazie) podmiotu o zmienionej formie prawnej, podzielonego albo połączonego. Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi, w tym również powstałych z przekształcenia spółki.
+12. W razie zmiany formy prawnej, a także połączenia albo podziału podmiotów dokonywanych na podstawie odrębnych przepisów – wartość początkową środków trwałych oraz wartości niematerialnych i prawnych ustala się w wysokości wartości początkowej określonej w ewidencji (wykazie) podmiotu o zmienionej formie prawnej, podzielonego albo połączonego. Zasadę tę stosuje się odpowiednio do spółek niebędących osobami prawnymi, w tym również powstałych z przekształcenia spółki.
 
 13. Przepis ust. 12 stosuje się odpowiednio w razie:
 
@@ -1834,7 +1899,7 @@ Art. 46–51. (pominięte)
 - **2)** zmiany formy prawnej prowadzonej działalności, polegającej na połączeniu lub podziale dotychczasowych podmiotów albo zmianie wspólników spółki niebędącej osobą prawną,
 - **3)** (uchylony)
 - **4)** (uchylony)
-- **5)** zmiany działalności wykonywanej samodzielnie przez jednego z małżonków na działalność wykonywaną samodzielnie przez drugiego z małżonków jeżeli przed przerwą lub zmianą składniki majątku były wprowadzone do ewidencji (wykazu).
+- **5)** zmiany działalności wykonywanej samodzielnie przez jednego z małżonków na działalność wykonywaną samodzielnie przez drugiego z małżonków – jeżeli przed przerwą lub zmianą składniki majątku były wprowadzone do ewidencji (wykazu).
 
 13a. Przepis ust. 12 stosuje się odpowiednio w przypadku kontynuowania działalności po zmarłym przedsiębiorcy przez przedsiębiorstwo w spadku.
 
@@ -1855,7 +1920,7 @@ Art. 46–51. (pominięte)
 
 17. Jeżeli środki trwałe uległy ulepszeniu w wyniku przebudowy, rozbudowy, rekonstrukcji, adaptacji lub modernizacji, wartość początkową tych środków, ustaloną zgodnie z ust. 1, 3–9 i 11–15, powiększa się o sumę wydatków na ich ulepszenie, w tym także o wydatki na nabycie części składowych lub peryferyjnych, których jednostkowa cena nabycia przekracza 10 000 zł. Środki trwałe uważa się za ulepszone, gdy suma wydatków poniesionych na ich przebudowę, rozbudowę, rekonstrukcję, adaptację lub modernizację w danym roku podatkowym przekracza 10 000 zł i wydatki te powodują wzrost wartości użytkowej w stosunku do wartości z dnia przyjęcia środków trwałych do używania, mierzonej w szczególności okresem używania, zdolnością wytwórczą, jakością produktów uzyskiwanych za pomocą ulepszonych środków trwałych i kosztami ich eksploatacji.
 
-18. Wartość początkową praw majątkowych, w tym licencji i autorskich praw majątkowych, stanowi cena nabycia tych praw; jeżeli wynagrodzenie (opłaty) wynikające z umowy licencyjnej albo z umowy o przeniesienie innych praw majątkowych jest uzależnione od wysokości przychodów z licencji lub praw uzyskanych przez licencjobiorcę albo nabywcę przy ustalaniu wartości początkowej praw majątkowych, w tym licencji, nie uwzględnia się tej części wynagrodzenia.
+18. Wartość początkową praw majątkowych, w tym licencji i autorskich praw majątkowych, stanowi cena nabycia tych praw; jeżeli wynagrodzenie (opłaty) wynikające z umowy licencyjnej albo z umowy o przeniesienie innych praw majątkowych jest uzależnione od wysokości przychodów z licencji lub praw uzyskanych przez licencjobiorcę albo nabywcę – przy ustalaniu wartości początkowej praw majątkowych, w tym licencji, nie uwzględnia się tej części wynagrodzenia.
 
 19. (uchylony)
 
@@ -1897,11 +1962,11 @@ Art. 46–51. (pominięte)
 2. Podatnicy mogą podane w Wykazie stawek amortyzacyjnych stawki podwyższać:
 
 - **1)** dla budynków i budowli używanych w warunkach:
-    - **a)** pogorszonych przy zastosowaniu współczynników niewyższych niż 1,2,
-    - **b)** złych przy zastosowaniu współczynników niewyższych niż 1,4;
+    - **a)** pogorszonych – przy zastosowaniu współczynników niewyższych niż 1,2,
+    - **b)** złych – przy zastosowaniu współczynników niewyższych niż 1,4;
 
-- **2)** dla maszyn, urządzeń i środków transportu, z wyjątkiem morskiego taboru pływającego, używanych bardziej intensywnie w stosunku do warunków przeciętnych albo wymagających szczególnej sprawności technicznej przy zastosowaniu w tym okresie współczynników niewyższych niż 1,4;
-- **3)** dla maszyn i urządzeń zaliczonych do grupy 4–6 i 8 Klasyfikacji, poddanych szybkiemu postępowi technicznemu przy zastosowaniu współczynników niewyższych niż 2,0.
+- **2)** dla maszyn, urządzeń i środków transportu, z wyjątkiem morskiego taboru pływającego, używanych bardziej intensywnie w stosunku do warunków przeciętnych albo wymagających szczególnej sprawności technicznej – przy zastosowaniu w tym okresie współczynników niewyższych niż 1,4;
+- **3)** dla maszyn i urządzeń zaliczonych do grupy 4–6 i 8 Klasyfikacji, poddanych szybkiemu postępowi technicznemu – przy zastosowaniu współczynników niewyższych niż 2,0.
 
 3. W razie wystąpienia bądź ustania warunków uzasadniających podwyższenie stawek, o których mowa w ust. 2 pkt 1 i 2, stawki te ulegają podwyższeniu lub obniżeniu od miesiąca następującego po miesiącu, w którym zaistniały okoliczności uzasadniające te zmiany.
 
@@ -1915,59 +1980,59 @@ Art. 46–51. (pominięte)
 
 8. Przepisów ust. 4 i 5 nie stosuje się do środków trwałych wykorzystywanych przez podatników w działalności, z której przychody podlegają:
 
-- **1)** zwolnieniu z opodatkowania podatkiem dochodowym w okresie korzystania z takiego zwolnienia;
-- **2)** opodatkowaniu ryczałtem od przychodów ewidencjonowanych, podatkiem tonażowym lub zryczałtowanym podatkiem od wartości sprzedanej produkcji, o którym mowa w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych w okresie tego opodatkowania.
+- **1)** zwolnieniu z opodatkowania podatkiem dochodowym – w okresie korzystania z takiego zwolnienia;
+- **2)** opodatkowaniu ryczałtem od przychodów ewidencjonowanych, podatkiem tonażowym lub zryczałtowanym podatkiem od wartości sprzedanej produkcji, o którym mowa w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych – w okresie tego opodatkowania.
 
 **Art. 22j.**
 
 1. Podatnicy, z zastrzeżeniem art. 22l, mogą indywidualnie ustalić stawki amortyzacyjne dla używanych lub ulepszonych środków trwałych, po raz pierwszy wprowadzonych do ewidencji danego podatnika, z tym że okres amortyzacji nie może być krótszy niż:
 
 - **1)** dla środków trwałych zaliczonych do grupy 3–6 i 8 Klasyfikacji:
-    - **a)** 24 miesiące gdy ich wartość początkowa nie przekracza 25 000 zł,
-    - **b)** 36 miesięcy gdy ich wartość początkowa jest wyższa od 25 000 zł i nie przekracza 50 000 zł,
-    - **c)** 60 miesięcy w pozostałych przypadkach;
+    - **a)** 24 miesiące – gdy ich wartość początkowa nie przekracza 25 000 zł,
+    - **b)** 36 miesięcy – gdy ich wartość początkowa jest wyższa od 25 000 zł i nie przekracza 50 000 zł,
+    - **c)** 60 miesięcy – w pozostałych przypadkach;
 
-- **2)** dla środków transportu, w tym samochodów osobowych 30 miesięcy;
-- **3)** dla budynków (lokali) i budowli, innych niż wymienione w pkt 4 10 lat, z wyjątkiem:
+- **2)** dla środków transportu, w tym samochodów osobowych – 30 miesięcy;
+- **3)** dla budynków (lokali) i budowli, innych niż wymienione w pkt 4 – 10 lat, z wyjątkiem:
     - **a)** trwale związanych z gruntem budynków handlowo-usługowych wymienionych w rodzaju 103 Klasyfikacji i innych budynków niemieszkalnych wymienionych w rodzaju 109 Klasyfikacji, trwale związanych z gruntem,
-    - **b)** kiosków towarowych o kubaturze poniżej 500 m , domków kempingowych i budynków zastępczych dla których okres amortyzacji nie może być krótszy niż 3 lata;
+    - **b)** kiosków towarowych o kubaturze poniżej 500 m , domków kempingowych i budynków zastępczych – dla których okres amortyzacji – nie może być krótszy niż 3 lata;
 
-- **4)** dla budynków (lokali) niemieszkalnych, dla których stawka amortyzacyjna z Wykazu stawek amortyzacyjnych wynosi 2,5 % 40 lat pomniejszone o pełną liczbę lat, które upłynęły od dnia ich oddania po raz pierwszy do używania do dnia wprowadzenia do ewidencji środków trwałych oraz wartości niematerialnych i prawnych prowadzonej przez podatnika, z tym że okres amortyzacji nie może być krótszy niż 10 lat.
+- **4)** dla budynków (lokali) niemieszkalnych, dla których stawka amortyzacyjna z Wykazu stawek amortyzacyjnych wynosi 2,5 % – 40 lat pomniejszone o pełną liczbę lat, które upłynęły od dnia ich oddania po raz pierwszy do używania do dnia wprowadzenia do ewidencji środków trwałych oraz wartości niematerialnych i prawnych prowadzonej przez podatnika, z tym że okres amortyzacji nie może być krótszy niż 10 lat.
 
 2. Środki trwałe, o których mowa w ust. 1 pkt 1 i 2, uznaje się za:
 
-- **1)** używane jeżeli podatnik udowodni, że przed ich nabyciem były wykorzystywane przez podmiot inny niż podatnik co najmniej przez okres 6 miesięcy, lub
-- **2)** ulepszone jeżeli przed wprowadzeniem do ewidencji wydatki poniesione przez podatnika na ich ulepszenie stanowiły co najmniej 20 % wartości początkowej.
+- **1)** używane – jeżeli podatnik udowodni, że przed ich nabyciem były wykorzystywane przez podmiot inny niż podatnik co najmniej przez okres 6 miesięcy, lub
+- **2)** ulepszone – jeżeli przed wprowadzeniem do ewidencji wydatki poniesione przez podatnika na ich ulepszenie stanowiły co najmniej 20 % wartości początkowej.
 
 3. Środki trwałe, o których mowa w ust. 1 pkt 3, uznaje się za:
 
-- **1)** używane jeżeli podatnik wykaże, że przed ich nabyciem były wykorzystywane przez podmiot inny niż podatnik co najmniej przez okres 60 miesięcy, lub
-- **2)** ulepszone jeżeli przed wprowadzeniem do ewidencji wydatki poniesione przez podatnika na ulepszenie stanowiły co najmniej 30 % wartości początkowej.
+- **1)** używane – jeżeli podatnik wykaże, że przed ich nabyciem były wykorzystywane przez podmiot inny niż podatnik co najmniej przez okres 60 miesięcy, lub
+- **2)** ulepszone – jeżeli przed wprowadzeniem do ewidencji wydatki poniesione przez podatnika na ulepszenie stanowiły co najmniej 30 % wartości początkowej.
 
 4. Podatnicy mogą indywidualnie ustalić stawki amortyzacyjne dla przyjętych do używania inwestycji w obcych środkach trwałych, z tym że dla:
 
-- **1)** inwestycji w obcych budynkach (lokalach) lub budowlach okres amortyzacji nie może być krótszy niż 10 lat;
-- **2)** inwestycji w obcych środkach trwałych innych niż wymienione w pkt 1 okres amortyzacji ustala się według zasad określonych w ust. 1 pkt 1 i 2.
+- **1)** inwestycji w obcych budynkach (lokalach) lub budowlach – okres amortyzacji nie może być krótszy niż 10 lat;
+- **2)** inwestycji w obcych środkach trwałych innych niż wymienione w pkt 1 – okres amortyzacji ustala się według zasad określonych w ust. 1 pkt 1 i 2.
 
 5. (uchylony)
 
 6. Podatnicy mogą indywidualnie ustalić stawki amortyzacyjne dla wprowadzonych po raz pierwszy do ewidencji:
 
 - **1)** odwiertów rozpoznawczych lub wydobywczych,
-- **2)** platform wiertniczych lub produkcyjnych z tym że okres ich amortyzacji nie może być krótszy niż 60 miesięcy.
+- **2)** platform wiertniczych lub produkcyjnych – z tym że okres ich amortyzacji nie może być krótszy niż 60 miesięcy.
 
-7. Podatnicy będący mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców mogą indywidualnie ustalić stawki amortyzacyjne dla wytworzonych we własnym zakresie środków trwałych będących budynkami (lokalami) niemieszkalnymi i budowlami, zaliczonymi do grupy 1 i 2 Klasyfikacji, po raz pierwszy wprowadzonych do ewidencji środków trwałych oraz wartości niematerialnych i prawnych danego podatnika, w przypadku gdy ten środek trwały znajduje się na obszarze gminy zlokalizowanej w powiecie lub miasta na prawach powiatu, w których przeciętna stopa bezrobocia wynosi co najmniej 120 % przeciętnej stopy bezrobocia w kraju.
+7. Podatnicy będący mikroprzedsiębiorcami, małymi lub średnimi przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców mogą indywidualnie ustalić stawki amortyzacyjne dla wytworzonych we własnym zakresie środków trwałych będących budynkami (lokalami) niemieszkalnymi i budowlami, zaliczonymi do grupy 1 i 2 Klasyfikacji, po raz pierwszy wprowadzonych do ewidencji środków trwałych oraz wartości niematerialnych i prawnych danego podatnika, w przypadku gdy ten środek trwały znajduje się na obszarze gminy zlokalizowanej w powiecie lub miasta na prawach powiatu, w których przeciętna stopa bezrobocia wynosi co najmniej 120 % przeciętnej stopy bezrobocia w kraju.
 
 8. W przypadku gdy środek trwały, o którym mowa w ust. 7, znajduje się na obszarze gminy zlokalizowanej w powiecie, w którym przeciętna stopa bezrobocia wynosi:
 
-- **1)** od 120 % do 170 % przeciętnej stopy bezrobocia w kraju okres amortyzacji dla tego środka trwałego nie może być krótszy niż 10 lat;
-- **2)** powyżej 170 % przeciętnej stopy bezrobocia w kraju okres amortyzacji dla tego środka trwałego nie może być krótszy niż 5 lat.
+- **1)** od 120 % do 170 % przeciętnej stopy bezrobocia w kraju – okres amortyzacji dla tego środka trwałego nie może być krótszy niż 10 lat;
+- **2)** powyżej 170 % przeciętnej stopy bezrobocia w kraju – okres amortyzacji dla tego środka trwałego nie może być krótszy niż 5 lat.
 
 9. Spełnienie warunków, o których mowa w ust. 7, ustala się na miesiąc, w którym wystąpiło jedno z następujących zdarzeń:
 
 - **1)** uprawomocniła się decyzja o pozwoleniu na budowę;
 - **2)** upłynął termin na wniesienie sprzeciwu wobec dokonanego zgłoszenia budowy albo wydano zaświadczenie o braku podstaw do wniesienia takiego sprzeciwu;
-- **3)** środek trwały został po raz pierwszy wprowadzony do ewidencji środków trwałych oraz wartości niematerialnych i prawnych w przypadku gdy budowa tego środka trwałego nie wymaga uzyskania decyzji o pozwoleniu na budowę albo dokonania zgłoszenia budowy lub z innych przyczyn nie doszło do wydania takiej decyzji albo dokonania takiego zgłoszenia.
+- **3)** środek trwały został po raz pierwszy wprowadzony do ewidencji środków trwałych oraz wartości niematerialnych i prawnych – w przypadku gdy budowa tego środka trwałego nie wymaga uzyskania decyzji o pozwoleniu na budowę albo dokonania zgłoszenia budowy lub z innych przyczyn nie doszło do wydania takiej decyzji albo dokonania takiego zgłoszenia.
 
 10. Przez przeciętną stopę bezrobocia w powiecie i przeciętną stopę bezrobocia w kraju, o których mowa w ust. 7 i 8, rozumie się przeciętną stopę bezrobocia w powiecie i przeciętną stopę bezrobocia w kraju ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 255 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia w roku bezpośrednio poprzedzającym rok, w którym wystąpiło zdarzenie określone w ust. 9. Przez przeciętną stopę bezrobocia w powiecie rozumie się także przeciętną stopę bezrobocia w mieście na prawach powiatu.
 
@@ -1981,12 +2046,12 @@ Art. 46–51. (pominięte)
 
 1. Odpisów amortyzacyjnych można dokonywać od wartości początkowej maszyn i urządzeń zaliczonych do grupy 3–6 i 8 Klasyfikacji oraz środków transportu, z wyłączeniem samochodów osobowych, w pierwszym podatkowym roku ich używania przy zastosowaniu stawek podanych w Wykazie stawek amortyzacyjnych podwyższonych, z zastrzeżeniem ust. 2, o współczynnik niewyższy niż 2,0, a w następnych latach podatkowych od ich wartości początkowej pomniejszonej o dotychczasowe odpisy amortyzacyjne, ustalonej na początek kolejnych lat ich używania. Począwszy od roku podatkowego, w którym tak określona roczna kwota amortyzacji miałaby być niższa od rocznej kwoty amortyzacji obliczonej przy zastosowaniu metody określonej w art. 22i ust. 1, podatnicy dokonują dalszych odpisów amortyzacyjnych zgodnie z art. 22i.
 
-2. W przypadku używania środków trwałych, określonych w ust. 1, w zakładzie danego podatnika położonym na terenie gminy o szczególnym zagrożeniu wysokim bezrobociem strukturalnym albo w gminie zagrożonej recesją i degradacją społeczną, których wykaz na podstawie odrębnych przepisów ustala Rada Ministrów stawki podane w Wykazie stawek amortyzacyjnych można podwyższyć przy zastosowaniu współczynników niewyższych niż 3,0, dokonując obliczenia odpisów amortyzacyjnych zgodnie z zasadą określoną w ust. 1.
+2. W przypadku używania środków trwałych, określonych w ust. 1, w zakładzie danego podatnika położonym na terenie gminy o szczególnym zagrożeniu wysokim bezrobociem strukturalnym albo w gminie zagrożonej recesją i degradacją społeczną, których wykaz na podstawie odrębnych przepisów ustala Rada Ministrów – stawki podane w Wykazie stawek amortyzacyjnych można podwyższyć przy zastosowaniu współczynników niewyższych niż 3,0, dokonując obliczenia odpisów amortyzacyjnych zgodnie z zasadą określoną w ust. 1.
 
 3. Jeżeli w trakcie roku podatkowego:
 
 - **1)** gmina zostanie wyłączona z wykazu, o którym mowa w ust. 2, lub
-- **2)** podatnik przestanie mieć siedzibę na terenie gminy, o której mowa w ust. 2 podatnik może stosować do końca tego roku podwyższone stawki amortyzacyjne.
+- **2)** podatnik przestanie mieć siedzibę na terenie gminy, o której mowa w ust. 2 – podatnik może stosować do końca tego roku podwyższone stawki amortyzacyjne.
 
 4. (uchylony)
 
@@ -2033,7 +2098,7 @@ Art. 46–51. (pominięte)
 
 - **2)** po nabyciu środka trwałego, o którym mowa w ust. 14:
     - **a)** nie dokonał jednorazowego odpisu amortyzacyjnego od środka trwałego lub
-    - **b)** zbył odpłatnie środek trwały jest obowiązany do zwiększenia przychodów o wpłatę na poczet nabycia środka trwałego, o której mowa w art. 22 ust. 1s, odpowiednio na ostatni dzień prowadzenia działalności przed jej likwidacją, na ostatni dzień prowadzenia działalności przed zmianą formy opodatkowania, na dzień, w którym podatnik dokonał pierwszego odpisu na podstawie ust. 1 lub art. 22i, albo na dzień odpłatnego zbycia środka trwałego.
+    - **b)** zbył odpłatnie środek trwały – jest obowiązany do zwiększenia przychodów o wpłatę na poczet nabycia środka trwałego, o której mowa w art. 22 ust. 1s, odpowiednio na ostatni dzień prowadzenia działalności przed jej likwidacją, na ostatni dzień prowadzenia działalności przed zmianą formy opodatkowania, na dzień, w którym podatnik dokonał pierwszego odpisu na podstawie ust. 1 lub art. 22i, albo na dzień odpłatnego zbycia środka trwałego.
 
 **Art. 22l.**
 
@@ -2056,16 +2121,16 @@ Art. 46–51. (pominięte)
 6. Jeżeli zgodnie z przepisami rozdziału 4a:
 
 - **1)** odpisów amortyzacyjnych dokonuje korzystający albo
-- **2)** finansujący rezygnuje z dokonywania odpisów amortyzacyjnych oraz nastąpi zmiana, wygaśnięcie lub rozwiązanie umów, o których mowa w ust. 4 lub 5, i w związku z tym nie zostanie przeniesiona na korzystającego własność środków trwałych lub wartości niematerialnych i prawnych, właściciel przejmując te składniki majątku określa ich wartość początkową, zgodnie z art. 22g, przed zawarciem pierwszej umowy leasingu, pomniejszoną o spłatę wartości początkowej, o której mowa w art. 23a pkt 7, oraz o sumę dokonanych przez siebie odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1.
+- **2)** finansujący rezygnuje z dokonywania odpisów amortyzacyjnych – oraz nastąpi zmiana, wygaśnięcie lub rozwiązanie umów, o których mowa w ust. 4 lub 5, i w związku z tym nie zostanie przeniesiona na korzystającego własność środków trwałych lub wartości niematerialnych i prawnych, właściciel przejmując te składniki majątku określa ich wartość początkową, zgodnie z art. 22g, przed zawarciem pierwszej umowy leasingu, pomniejszoną o spłatę wartości początkowej, o której mowa w art. 23a pkt 7, oraz o sumę dokonanych przez siebie odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1.
 
 **Art. 22m.**
 
 1. Z zastrzeżeniem ust. 2 i 3 oraz art. 22ł ust. 1–3, okres dokonywania odpisów amortyzacyjnych od wartości niematerialnych i prawnych nie może być krótszy niż:
 
-- **1)** od licencji (sublicencji) na programy komputerowe oraz od praw autorskich 24 miesiące;
-- **2)** od licencji na wyświetlanie filmów oraz na emisję programów radiowych i telewizyjnych 24 miesiące;
-- **3)** od poniesionych kosztów zakończonych prac rozwojowych 12 miesięcy;
-- **4)** od pozostałych wartości niematerialnych i prawnych 60 miesięcy.
+- **1)** od licencji (sublicencji) na programy komputerowe oraz od praw autorskich – 24 miesiące;
+- **2)** od licencji na wyświetlanie filmów oraz na emisję programów radiowych i telewizyjnych – 24 miesiące;
+- **3)** od poniesionych kosztów zakończonych prac rozwojowych – 12 miesięcy;
+- **4)** od pozostałych wartości niematerialnych i prawnych – 60 miesięcy.
 
 2. Jeżeli wynikający z umowy okres używania praw majątkowych, o których mowa w ust. 1 pkt 2, jest krótszy od okresu ustalonego w tym przepisie, podatnicy mogą dokonywać odpisów amortyzacyjnych w okresie wynikającym z umowy.
 
@@ -2112,23 +2177,23 @@ Art. 46–51. (pominięte)
 
 **Art. 22p.**
 
-1. Podatnicy prowadzący pozarolniczą działalność gospodarczą nie zaliczają do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 19 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców:
+1. Podatnicy prowadzący pozarolniczą działalność gospodarczą nie zaliczają do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 19 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców:
 
 - **1)** została dokonana bez pośrednictwa rachunku płatniczego lub
-- **2)** została dokonana przelewem na rachunek inny niż zawarty na dzień zlecenia przelewu w wykazie podmiotów, o którym mowa w art. 96b ust. 1 ustawy o podatku od towarów i usług w przypadku dostawy towarów lub świadczenia usług, potwierdzonych fakturą, dokonanych przez dostawcę towarów lub usługodawcę zarejestrowanego na potrzeby podatku od towarów i usług jako podatnik VAT czynny, lub
+- **2)** została dokonana przelewem na rachunek inny niż zawarty na dzień zlecenia przelewu w wykazie podmiotów, o którym mowa w art. 96b ust. 1 ustawy o podatku od towarów i usług – w przypadku dostawy towarów lub świadczenia usług, potwierdzonych fakturą, dokonanych przez dostawcę towarów lub usługodawcę zarejestrowanego na potrzeby podatku od towarów i usług jako podatnik VAT czynny, lub
 - **3)** pomimo zawarcia na fakturze wyrazów „mechanizm podzielonej płatności” zgodnie z art. 106e ust. 1 pkt 18a ustawy o podatku od towarów i usług, została dokonana z pominięciem mechanizmu podzielonej płatności określonego w art. 108a ust. 1a tej ustawy.
 
-2. W przypadku zaliczenia do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 19 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców została dokonana z naruszeniem ust. 1, podatnicy prowadzący pozarolniczą działalność gospodarczą w tej części:
+2. W przypadku zaliczenia do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 19 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców została dokonana z naruszeniem ust. 1, podatnicy prowadzący pozarolniczą działalność gospodarczą w tej części:
 
 - **1)** zmniejszają koszty uzyskania przychodów albo
-- **2)** w przypadku braku możliwości zmniejszenia kosztów uzyskania przychodów zwiększają przychody w miesiącu, w którym odpowiednio została dokonana płatność bez pośrednictwa rachunku płatniczego, został zlecony przelew albo płatność została dokonana z pominięciem mechanizmu podzielonej płatności.
+- **2)** w przypadku braku możliwości zmniejszenia kosztów uzyskania przychodów – zwiększają przychody – w miesiącu, w którym odpowiednio została dokonana płatność bez pośrednictwa rachunku płatniczego, został zlecony przelew albo płatność została dokonana z pominięciem mechanizmu podzielonej płatności.
 
 3. Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku:
 
 - **1)** nabycia lub wytworzenia środków trwałych albo nabycia wartości niematerialnych i prawnych;
 - **2)** dokonania płatności:
     - **a)** po likwidacji pozarolniczej działalności gospodarczej,
-    - **b)** po zmianie formy opodatkowania na zryczałtowaną formę opodatkowania określoną w ustawie o zryczałtowanym podatku dochodowym albo w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym z tym że zmniejszenie kosztów uzyskania przychodów lub zwiększenie przychodów następuje za rok podatkowy, w którym nastąpiła likwidacja tej działalności, albo za rok podatkowy poprzedzający rok podatkowy, w którym nastąpiła zmiana formy opodatkowania.
+    - **b)** po zmianie formy opodatkowania na zryczałtowaną formę opodatkowania określoną w ustawie o zryczałtowanym podatku dochodowym albo w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym – z tym że zmniejszenie kosztów uzyskania przychodów lub zwiększenie przychodów następuje za rok podatkowy, w którym nastąpiła likwidacja tej działalności, albo za rok podatkowy poprzedzający rok podatkowy, w którym nastąpiła zmiana formy opodatkowania.
 
 4. Przepisów ust. 1 pkt 2 i ust. 2 w zakresie, w jakim przepis ten dotyczy płatności dokonanej z naruszeniem ust. 1 pkt 2, nie stosuje się, jeżeli zapłata należności przez podatnika:
 
@@ -2136,7 +2201,7 @@ Art. 46–51. (pominięte)
 - **2)** została dokonana przelewem na rachunek banku lub rachunek spółdzielczej kasy oszczędnościowo-kredytowej:
     - **a)** służący do dokonywania rozliczeń z tytułu nabywanych przez ten bank lub tę kasę wierzytelności pieniężnych lub
     - **b)** wykorzystywany przez ten bank lub tę kasę do pobrania należności od nabywcy towarów lub usługobiorcy za dostawę towarów lub świadczenie usług, potwierdzone fakturą, i przekazania jej w całości albo części dostawcy towarów lub usługodawcy, lub
-    - **c)** prowadzony przez ten bank lub tę kasę w ramach gospodarki własnej, niebędący rachunkiem rozliczeniowym jeżeli odpowiednio bank, spółdzielcza kasa oszczędnościowo-kredytowa lub podmiot będący wystawcą faktury, wraz z informacją o numerze rachunku do zapłaty, przekazali podatnikowi informację, że rachunek wskazany do zapłaty jest rachunkiem, o którym mowa w lit. a, b lub c, lub
+    - **c)** prowadzony przez ten bank lub tę kasę w ramach gospodarki własnej, niebędący rachunkiem rozliczeniowym – jeżeli odpowiednio bank, spółdzielcza kasa oszczędnościowo-kredytowa lub podmiot będący wystawcą faktury, wraz z informacją o numerze rachunku do zapłaty, przekazali podatnikowi informację, że rachunek wskazany do zapłaty jest rachunkiem, o którym mowa w lit. a, b lub c, lub
 
 - **3)** została dokonana z zastosowaniem mechanizmu podzielonej płatności, o którym mowa w art. 108a ustawy o podatku od towarów i usług, lub
 - **4)** wynika z faktury dokumentującej czynności z tytułu wewnątrzwspólnotowego nabycia towarów, importu towarów, importu usług lub dostawy towarów rozliczanej przez nabywcę.
@@ -2148,14 +2213,14 @@ Art. 46–51. (pominięte)
 - **1)** wydatków na:
     - **a)** nabycie gruntów lub prawa wieczystego użytkowania gruntów, z wyjątkiem opłat za wieczyste użytkowanie gruntów,
     - **b)** nabycie lub wytworzenie we własnym zakresie innych niż wymienione w lit. a środków trwałych oraz wartości niematerialnych i prawnych, w tym również wchodzących w skład nabytego przedsiębiorstwa lub jego zorganizowanych części,
-    - **c)** ulepszenie środków trwałych, które zgodnie z art. 22g ust. 17 powiększają wartość środków trwałych, stanowiącą podstawę naliczania odpisów amortyzacyjnych wydatki te, zaktualizowane zgodnie z odrębnymi przepisami, pomniejszone o sumę odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1, są jednak kosztem uzyskania przychodów przy określaniu dochodu z odpłatnego zbycia rzeczy określonych w art. 10 ust. 1 pkt 8 lit. d, oraz gdy odpłatne zbycie rzeczy i praw jest przedmiotem działalności gospodarczej, a także w przypadku odpłatnego zbycia składników majątku związanych z działalnością gospodarczą, o których mowa w art. 14 ust. 2 pkt 1, bez względu na czas ich poniesienia;
+    - **c)** ulepszenie środków trwałych, które zgodnie z art. 22g ust. 17 powiększają wartość środków trwałych, stanowiącą podstawę naliczania odpisów amortyzacyjnych – wydatki te, zaktualizowane zgodnie z odrębnymi przepisami, pomniejszone o sumę odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1, są jednak kosztem uzyskania przychodów przy określaniu dochodu z odpłatnego zbycia rzeczy określonych w art. 10 ust. 1 pkt 8 lit. d, oraz gdy odpłatne zbycie rzeczy i praw jest przedmiotem działalności gospodarczej, a także w przypadku odpłatnego zbycia składników majątku związanych z działalnością gospodarczą, o których mowa w art. 14 ust. 2 pkt 1, bez względu na czas ich poniesienia;
 
 - **2)** (uchylony)
 - **3)** (uchylony)
-- **4)** odpisów z tytułu zużycia samochodu osobowego, dokonywanych według zasad określonych w art. 22a–22o, w części ustalonej od wartości samochodu przewyższającej kwotę:
-    - **a)** 225 000 zł w przypadku samochodu osobowego będącego pojazdem elektrycznym w rozumieniu art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289, 1853 i 1881) oraz w przypadku samochodu osobowego będącego pojazdem napędzanym wodorem w rozumieniu art. 2 pkt 15 tej ustawy,
-    - **b)** 150 000 zł jeśli emisja CO silnika spalinowego samochodu osobowego, określona na podstawie danych zawartych w centralnej ewidencji pojazdów, o której mowa w art. 80a ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, wynosi mniej niż 50 g na kilometr,
-    - **c)** 100 000 zł jeśli emisja CO silnika spalinowego samochodu osobowego, określona na podstawie danych zawartych w centralnej ewidencji pojazdów, o której mowa w art. 80a ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, jest równa lub wyższa niż 50 g na kilometr;
+- **4)** odpisów z tytułu zużycia samochodu osobowego, dokonywanych według zasad określonych w art. 22a–22o, w części ustalonej od wartości samochodu przewyższającej kwotę: o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289, 1853 i 1881) oraz w przypadku samochodu osobowego będącego pojazdem napędzanym wodorem w rozumieniu art. 2 pkt 15 tej ustawy,
+    - **a)** 225 000 zł – w przypadku samochodu osobowego będącego pojazdem elektrycznym w rozumieniu art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r.
+    - **b)** 150 000 zł – jeśli emisja CO silnika spalinowego samochodu osobowego, określona na podstawie danych zawartych w centralnej ewidencji pojazdów, o której mowa w art. 80a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, wynosi mniej niż 50 g na kilometr,
+    - **c)** 100 000 zł – jeśli emisja CO silnika spalinowego samochodu osobowego, określona na podstawie danych zawartych w centralnej ewidencji pojazdów, o której mowa w art. 80a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, jest równa lub wyższa niż 50 g na kilometr;
 
 - **5)** strat w środkach trwałych oraz wartościach niematerialnych i prawnych w części pokrytej sumą odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1;
 - **6)** strat powstałych w wyniku likwidacji nie w pełni umorzonych środków trwałych, jeżeli środki te utraciły przydatność gospodarczą na skutek zmiany rodzaju działalności;
@@ -2165,13 +2230,13 @@ Art. 46–51. (pominięte)
     - **b)** odpisy i zwiększenia, które w rozumieniu przepisów o zakładowym funduszu świadczeń socjalnych obciążają koszty działalności pracodawcy, jeżeli środki pieniężne stanowiące równowartość tych odpisów i zwiększeń zostały wpłacone na rachunek Funduszu;
 
 - **8)** wydatków na:
-    - **a)** spłatę pożyczek (kredytów), z wyjątkiem skapitalizowanych odsetek od tych pożyczek (kredytów), z tym że kosztem uzyskania przychodów są wydatki na spłatę pożyczki (kredytu) w przypadku, gdy pożyczka (kredyt) była waloryzowana kursem waluty obcej, jeżeli: pożyczkobiorca (kredytobiorca) w związku ze spłatą pożyczki (kredytu) zwraca kwotę kapitału większą niż kwota otrzymanej pożyczki (kredytu) w wysokości różnicy pomiędzy kwotą zwrotu kapitału a kwotą otrzymanej pożyczki (kredytu), pożyczkodawca (kredytodawca) otrzymuje środki pieniężne stanowiące spłatę kapitału w wysokości niższej od kwoty udzielonej pożyczki (kredytu) w wysokości różnicy pomiędzy kwotą udzielonej pożyczki (kredytu) a kwotą zwróconego kapitału,
+    - **a)** spłatę pożyczek (kredytów), z wyjątkiem skapitalizowanych odsetek od tych pożyczek (kredytów), z tym że kosztem uzyskania przychodów są wydatki na spłatę pożyczki (kredytu) w przypadku, gdy pożyczka (kredyt) była waloryzowana kursem waluty obcej, jeżeli: – pożyczkobiorca (kredytobiorca) w związku ze spłatą pożyczki (kredytu) zwraca kwotę kapitału większą niż kwota otrzymanej pożyczki (kredytu) – w wysokości różnicy pomiędzy kwotą zwrotu kapitału a kwotą otrzymanej pożyczki (kredytu), – pożyczkodawca (kredytodawca) otrzymuje środki pieniężne stanowiące spłatę kapitału w wysokości niższej od kwoty udzielonej pożyczki (kredytu) – w wysokości różnicy pomiędzy kwotą udzielonej pożyczki (kredytu) a kwotą zwróconego kapitału,
     - **b)** spłatę innych zobowiązań, w tym z tytułu udzielonych gwarancji i poręczeń,
     - **c)** umorzenie kapitałów pozostających w związku z utworzeniem (nabyciem), powiększeniem lub ulepszeniem źródła przychodów;
 
 - **9)** odsetek od własnego kapitału włożonego przez podatnika w źródło przychodów;
 - **9a)** odsetek od udziału kapitałowego wspólnika spółki niebędącej osobą prawną;
-- **10)** wartości własnej pracy podatnika, jego małżonka i małoletnich dzieci, a w przypadku prowadzenia działalności w formie spółki niebędącej osobą prawną także małżonków i małoletnich dzieci wspólników tej spółki; kosztem uzyskania przychodów jest jednak wynagrodzenie małżonka podatnika i małoletnich dzieci podatnika, a w przypadku prowadzenia działalności w formie spółki niebędącej osobą prawną także małżonków i małoletnich dzieci wspólników tej spółki, należne z tytułów określonych w art. 12 ust. 1, art. 13 pkt 2, 8 i 9 lub z tytułu odbywania praktyk absolwenckich, o których mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich, z zastrzeżeniem pkt 55 i art. 22 ust. 6ba;
+- **10)** wartości własnej pracy podatnika, jego małżonka i małoletnich dzieci, a w przypadku prowadzenia działalności w formie spółki niebędącej osobą prawną – także małżonków i małoletnich dzieci wspólników tej spółki; kosztem uzyskania przychodów jest jednak wynagrodzenie małżonka podatnika i małoletnich dzieci podatnika, a w przypadku prowadzenia działalności w formie spółki niebędącej osobą prawną – także małżonków i małoletnich dzieci wspólników tej spółki, należne z tytułów określonych w art. 12 ust. 1, art. 13 pkt 2, 8 i 9 lub z tytułu odbywania praktyk absolwenckich, o których mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich, z zastrzeżeniem pkt 55 i art. 22 ust. 6ba;
 - **10a)** wartości pracy osób, o których mowa w art. 3 ustawy o zarządzie sukcesyjnym, na rzecz przedsiębiorstwa w spadku;
 - **11)** darowizn i ofiar wszelkiego rodzaju, z tym że kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia produktów spożywczych, o których mowa w art. 43 ust. 1 pkt 16 ustawy o podatku od towarów i usług, przekazanych na rzecz organizacji pożytku publicznego w rozumieniu przepisów ustawy o działalności pożytku publicznego, z przeznaczeniem wyłącznie na cele działalności charytatywnej prowadzonej przez te organizacje;
 - **12)** podatku dochodowego, podatku od spadków i darowizn;
@@ -2190,7 +2255,7 @@ Art. 46–51. (pominięte)
 - **16f)** dodatkowej opłaty, o której mowa w art. 12i ust. 1 i 1a ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. z 2026 r. poz. 149);
 - **16g)** dodatkowej opłaty, o której mowa w art. 9 ust. 21 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151);
 - **17)** wierzytelności odpisanych jako przedawnione;
-- **18)** odsetek za zwłokę z tytułu nieterminowych wpłat należności budżetowych i innych należności, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa;
+- **18)** odsetek za zwłokę z tytułu nieterminowych wpłat należności budżetowych i innych należności, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;
 - **19)** kar umownych i odszkodowań z tytułu wad dostarczonych towarów, wykonanych robót i usług oraz zwłoki w dostarczeniu towaru wolnego od wad lub zwłoki w usunięciu wad towarów albo wykonanych robót i usług;
 - **20)** wierzytelności odpisanych jako nieściągalne, z wyjątkiem wierzytelności lub ich części, które uprzednio na podstawie art. 14 zostały zarachowane jako przychody należne i których nieściągalność została udokumentowana w sposób określony w ust. 2;
 - **21)** odpisów aktualizujących, z tym że kosztem uzyskania przychodów są odpisy aktualizujące wartość należności, określone w ustawie o rachunkowości, od tej części należności, która była uprzednio zaliczona na podstawie art. 14 do przychodów należnych, a ich nieściągalność została uprawdopodobniona na podstawie ust. 3;
@@ -2204,56 +2269,56 @@ Art. 46–51. (pominięte)
 - **29)** wpłat, o których mowa w art. 21 ust. 1 i w art. 23 ustawy o rehabilitacji zawodowej;
 - **30)** składek na rzecz organizacji, do których przynależność podatnika nie jest obowiązkowa, z wyjątkiem:
     - **a)** wpłat podatników prowadzących działalność gospodarczą w dziedzinie turystyki, wypoczynku, sportu i rekreacji na rzecz Polskiej Organizacji Turystycznej,
-    - **b)** składek na rzecz organizacji zrzeszających przedsiębiorców i pracodawców, działających na podstawie odrębnych ustaw do wysokości łącznie nieprzekraczającej w roku podatkowym kwoty odpowiadającej 0,25 % kwoty wynagrodzeń wypłaconych w poprzednim roku podatkowym, stanowiących podstawę wymiaru składek na ubezpieczenie społeczne; jeżeli przedsiębiorca nie wypłacał tych wynagrodzeń, kwota składek zaliczana do kosztów uzyskania przychodów w roku podatkowym nie może przekroczyć kwoty 250 zł;
+    - **b)** składek na rzecz organizacji zrzeszających przedsiębiorców i pracodawców, działających na podstawie odrębnych ustaw – do wysokości łącznie nieprzekraczającej w roku podatkowym kwoty odpowiadającej 0,25 % kwoty wynagrodzeń wypłaconych w poprzednim roku podatkowym, stanowiących podstawę wymiaru składek na ubezpieczenie społeczne; jeżeli przedsiębiorca nie wypłacał tych wynagrodzeń, kwota składek zaliczana do kosztów uzyskania przychodów w roku podatkowym nie może przekroczyć kwoty 250 zł;
 
 - **31)** kosztów uzyskania przychodów ze źródeł przychodów znajdujących się na obszarze Rzeczypospolitej Polskiej lub za granicą, jeżeli dochody z tych źródeł w ogóle nie podlegają opodatkowaniu albo są zwolnione od podatku dochodowego;
 - **32)** naliczonych, lecz niezapłaconych albo umorzonych odsetek od zobowiązań, w tym również od pożyczek (kredytów);
 - **33)** odsetek, prowizji i różnic kursowych od pożyczek (kredytów) zwiększających koszty inwestycji w okresie realizacji tych inwestycji;
-- **34)** strat z odpłatnego zbycia wierzytelności, w tym w sposób określony w art. 17 ust. 1 pkt 9, z wyjątkiem wierzytelności lub jej części, które uprzednio na podstawie art. 14 zostały zarachowane jako przychód należny do wysokości uprzednio zarachowanej jako przychód należny;
+- **34)** strat z odpłatnego zbycia wierzytelności, w tym w sposób określony w art. 17 ust. 1 pkt 9, z wyjątkiem wierzytelności lub jej części, które uprzednio na podstawie art. 14 zostały zarachowane jako przychód należny – do wysokości uprzednio zarachowanej jako przychód należny;
 - **34a)** strat w części niepokrytej przychodami uzyskanymi z nabytych wierzytelności, w tym nabytego pakietu wierzytelności;
-- **34b)** wydatków na nabycie wierzytelności, jeżeli wierzytelność ta uprzednio została zbyta przez podatnika lub spółkę niebędącą osobą prawną, w której podatnik jest wspólnikiem w części przekraczającej przychód uzyskany przez podatnika z tego uprzedniego lub pierwszego zbycia;
+- **34b)** wydatków na nabycie wierzytelności, jeżeli wierzytelność ta uprzednio została zbyta przez podatnika lub spółkę niebędącą osobą prawną, w której podatnik jest wspólnikiem – w części przekraczającej przychód uzyskany przez podatnika z tego uprzedniego lub pierwszego zbycia;
 - **35)** (uchylony)
 - **36)** wydatków ponoszonych na rzecz pracowników z tytułu używania przez nich samochodów na potrzeby wykonywanej działalności:
     - **a)** w celu odbycia podróży służbowej (jazdy zamiejscowe) w wysokości przekraczającej kwotę ustaloną przy zastosowaniu stawek za jeden kilometr przebiegu pojazdu,
-    - **b)** w jazdach lokalnych w wysokości przekraczającej wysokość miesięcznego ryczałtu pieniężnego albo w wysokości przekraczającej stawki za jeden kilometr przebiegu pojazdu, określonych w odrębnych przepisach wydanych przez właściwego ministra;
+    - **b)** w jazdach lokalnych – w wysokości przekraczającej wysokość miesięcznego ryczałtu pieniężnego albo w wysokości przekraczającej stawki za jeden kilometr przebiegu pojazdu, określonych w odrębnych przepisach wydanych przez właściwego ministra;
 
-- **37)** składek na ubezpieczenie społeczne oraz Fundusz Pracy, Fundusz Solidarnościowy i inne fundusze celowe utworzone na podstawie odrębnych ustaw od nagród i premii wypłaconych w gotówce lub papierach wartościowych z dochodu po opodatkowaniu podatkiem dochodowym;
-- **37a)** wpłat dokonywanych do pracowniczych planów kapitałowych, o których mowa w ustawie o pracowniczych planach kapitałowych od nagród i premii wypłaconych z dochodu po opodatkowaniu podatkiem dochodowym;
+- **37)** składek na ubezpieczenie społeczne oraz Fundusz Pracy, Fundusz Solidarnościowy i inne fundusze celowe utworzone na podstawie odrębnych ustaw – od nagród i premii wypłaconych w gotówce lub papierach wartościowych z dochodu po opodatkowaniu podatkiem dochodowym;
+- **37a)** wpłat dokonywanych do pracowniczych planów kapitałowych, o których mowa w ustawie o pracowniczych planach kapitałowych – od nagród i premii wypłaconych z dochodu po opodatkowaniu podatkiem dochodowym;
 - **38)** wydatków na objęcie lub nabycie udziałów albo wkładów w spółdzielni, udziałów (akcji) oraz papierów wartościowych, a także wydatków na nabycie tytułów uczestnictwa w funduszach kapitałowych; wydatki takie są jednak kosztem uzyskania przychodu z odpłatnego zbycia tych udziałów w spółdzielni, udziałów (akcji) oraz papierów wartościowych, z wykupu przez emitenta obligacji, a także z umorzenia, odkupienia, wykupienia albo unicestwienia w inny sposób tytułów uczestnictwa w funduszach kapitałowych, z zastrzeżeniem ust. 3e, w części niezaliczonej w jakiejkolwiek formie do kosztów uzyskania przychodów;
-- **38a)** wydatków związanych z nabyciem pochodnych instrumentów finansowych do czasu realizacji praw wynikających z tych instrumentów albo rezygnacji z realizacji praw wynikających z tych instrumentów albo ich odpłatnego zbycia o ile wydatki te, stosownie do art. 22g ust. 3 i 4, nie powiększają wartości początkowej środka trwałego oraz wartości niematerialnych i prawnych;
+- **38a)** wydatków związanych z nabyciem pochodnych instrumentów finansowych – do czasu realizacji praw wynikających z tych instrumentów albo rezygnacji z realizacji praw wynikających z tych instrumentów albo ich odpłatnego zbycia – o ile wydatki te, stosownie do art. 22g ust. 3 i 4, nie powiększają wartości początkowej środka trwałego oraz wartości niematerialnych i prawnych;
 - **38b)** zapłaconych odsetek i prowizji od kredytu, za który nabyto papiery wartościowe, udziały (akcje), udziały w spółdzielni lub pochodne instrumenty finansowe, przypadających proporcjonalnie na tę część kredytu, która nie została wydatkowana na nabycie tych papierów wartościowych, udziałów (akcji), udziałów w spółdzielni lub pochodnych instrumentów finansowych;
 - **38c)** wydatków poniesionych przez wspólnika na nabycie lub objęcie udziałów (akcji) przekazywanych spółce nabywającej w drodze wymiany udziałów; wydatki te stanowią koszt uzyskania przychodów w przypadku odpłatnego zbycia lub umorzenia otrzymanych za nie udziałów (akcji) spółki nabywającej, ustalony zgodnie z pkt 38 i art. 22 ust. 1f;
 - **38d)** poniesionych wydatków związanych z zamianą waluty wirtualnej na inną walutę wirtualną;
 - **39)** (uchylony)
 - **40)** umorzonych pożyczek, jeżeli ich umorzenie nie jest związane z postępowaniem restrukturyzacyjnym lub postępowaniem upadłościowym;
-- **41)** umorzonych wierzytelności, z wyjątkiem wierzytelności lub jej części, które uprzednio na podstawie art. 14 zostały zarachowane jako przychody należne do wysokości zarachowanej jako przychód należny;
+- **41)** umorzonych wierzytelności, z wyjątkiem wierzytelności lub jej części, które uprzednio na podstawie art. 14 zostały zarachowane jako przychody należne – do wysokości zarachowanej jako przychód należny;
 - **42)** wydatków pracodawcy na działalność socjalną, o której mowa w przepisach o zakładowym funduszu świadczeń socjalnych; kosztem uzyskania przychodów są jednak świadczenia urlopowe wypłacone zgodnie z przepisami o zakładowym funduszu świadczeń socjalnych oraz koszty, o których mowa w art. 22 ust. 1p pkt 2;
 - **43)** podatku od towarów i usług, z tym że jest kosztem uzyskania przychodów:
-    - **a)** podatek naliczony: jeżeli podatnik zwolniony jest od podatku od towarów i usług lub nabył towary i usługi w celu wytworzenia albo odprzedaży towarów lub świadczenia usług zwolnionych od podatku od towarów i usług, w tej części, w której zgodnie z przepisami o podatku od towarów i usług podatnikowi nie przysługuje obniżenie kwoty lub zwrot różnicy podatku od towarów i usług jeżeli naliczony podatek od towarów i usług nie powiększa wartości środka trwałego lub wartości niematerialnej i prawnej,
-    - **b)** podatek należny: w przypadku importu usług oraz wewnątrzwspólnotowego nabycia towarów, jeżeli nie stanowi on podatku naliczonego w rozumieniu przepisów o podatku od towarów i usług; kosztem uzyskania przychodów nie jest jednak podatek należny w części przekraczającej kwotę podatku od nabycia tych towarów i usług, która mogłaby stanowić podatek naliczony w rozumieniu przepisów o podatku od towarów i usług, w przypadku przekazania lub zużycia przez podatnika towarów lub świadczenia usług na potrzeby reprezentacji i reklamy, obliczony zgodnie z odrębnymi przepisami, od nieodpłatnie przekazanych towarów, obliczony zgodnie z odrębnymi przepisami, w przypadku gdy wyłącznym warunkiem ich przekazania jest uprzednie nabycie przez otrzymującego towarów lub usług od przekazującego w określonej ilości lub wartości,
-    - **c)** kwota podatku od towarów i usług, nieuwzględniona w wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, podlegających amortyzacji zgodnie z art. 22a–22o, lub dotycząca innych rzeczy lub praw niebędących środkami trwałymi lub wartościami niematerialnymi i prawnymi podlegającymi tej amortyzacji w tej części, w jakiej dokonano korekty powodującej zmniejszenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług;
+    - **a)** podatek naliczony: – jeżeli podatnik zwolniony jest od podatku od towarów i usług lub nabył towary i usługi w celu wytworzenia albo odprzedaży towarów lub świadczenia usług zwolnionych od podatku od towarów i usług, – w tej części, w której zgodnie z przepisami o podatku od towarów i usług podatnikowi nie przysługuje obniżenie kwoty lub zwrot różnicy podatku od towarów i usług – jeżeli naliczony podatek od towarów i usług nie powiększa wartości środka trwałego lub wartości niematerialnej i prawnej,
+    - **b)** podatek należny: – w przypadku importu usług oraz wewnątrzwspólnotowego nabycia towarów, jeżeli nie stanowi on podatku naliczonego w rozumieniu przepisów o podatku od towarów i usług; kosztem uzyskania przychodów nie jest jednak podatek należny w części przekraczającej kwotę podatku od nabycia tych towarów i usług, która mogłaby stanowić podatek naliczony w rozumieniu przepisów o podatku od towarów i usług, – w przypadku przekazania lub zużycia przez podatnika towarów lub świadczenia usług na potrzeby reprezentacji i reklamy, obliczony zgodnie z odrębnymi przepisami, – od nieodpłatnie przekazanych towarów, obliczony zgodnie z odrębnymi przepisami, w przypadku gdy wyłącznym warunkiem ich przekazania jest uprzednie nabycie przez otrzymującego towarów lub usług od przekazującego w określonej ilości lub wartości,
+    - **c)** kwota podatku od towarów i usług, nieuwzględniona w wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, podlegających amortyzacji zgodnie z art. 22a–22o, lub dotycząca innych rzeczy lub praw niebędących środkami trwałymi lub wartościami niematerialnymi i prawnymi podlegającymi tej amortyzacji – w tej części, w jakiej dokonano korekty powodującej zmniejszenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług;
 
 - **44)** strat powstałych w wyniku nieobjętych zwolnieniem od podatku akcyzowego ubytków wyrobów akcyzowych oraz podatku akcyzowego od tych ubytków;
 - **45)** odpisów z tytułu zużycia środków trwałych oraz wartości niematerialnych i prawnych dokonywanych, według zasad określonych w art. 22a–22o, od tej części ich wartości, która odpowiada poniesionym wydatkom na nabycie lub wytworzenie we własnym zakresie tych środków lub wartości niematerialnych i prawnych, odliczonym od podstawy opodatkowania podatkiem dochodowym albo zwróconym podatnikowi w jakiejkolwiek formie;
 - **45a)** odpisów amortyzacyjnych od wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych:
-    - **a)** nabytych nieodpłatnie, z wyjątkiem nabytych w drodze spadku, jeżeli: nabycie to nie stanowi przychodu z tytułu nieodpłatnego otrzymania rzeczy lub praw lub dochód z tego tytułu jest zwolniony od podatku dochodowego, lub nabycie to korzysta ze zwolnienia od podatku od spadków i darowizn, lub nabycie to stanowi dochód, od którego na podstawie odrębnych przepisów zaniechano poboru podatku,
+    - **a)** nabytych nieodpłatnie, z wyjątkiem nabytych w drodze spadku, jeżeli: – nabycie to nie stanowi przychodu z tytułu nieodpłatnego otrzymania rzeczy lub praw lub – dochód z tego tytułu jest zwolniony od podatku dochodowego, lub – nabycie to korzysta ze zwolnienia od podatku od spadków i darowizn, lub – nabycie to stanowi dochód, od którego na podstawie odrębnych przepisów zaniechano poboru podatku,
     - **b)** jeżeli przed dniem 1 stycznia 1995 r. zostały nabyte lecz niezaliczone do środków trwałych albo wartości niematerialnych i prawnych,
-    - **c)** oddanych do nieodpłatnego używania za miesiące, w których składniki te były oddane do nieodpłatnego używania;
+    - **c)** oddanych do nieodpłatnego używania – za miesiące, w których składniki te były oddane do nieodpłatnego używania;
 
 - **45b)** odpisów amortyzacyjnych od wartości początkowej wartości niematerialnych i prawnych wniesionych do spółki niebędącej osobą prawną w postaci wkładu niepieniężnego, stanowiących równowartość uzyskanych informacji związanych z wiedzą w dziedzinie przemysłowej, handlowej, naukowej lub organizacyjnej (know-how);
-- **45c)** odpisów amortyzacyjnych od wartości początkowej wartości niematerialnych i prawnych, o których mowa w art. 22b ust. 1 pkt 4–7, jeżeli uprzednio te prawa lub wartości były przez podatnika lub spółkę niebędącą osobą prawną, której jest wspólnikiem, nabyte lub wytworzone a następnie zbyte w części przekraczającej przychód uzyskany przez podatnika z ich uprzedniego zbycia;
+- **45c)** odpisów amortyzacyjnych od wartości początkowej wartości niematerialnych i prawnych, o których mowa w art. 22b ust. 1 pkt 4–7, jeżeli uprzednio te prawa lub wartości były przez podatnika lub spółkę niebędącą osobą prawną, której jest wspólnikiem, nabyte lub wytworzone a następnie zbyte – w części przekraczającej przychód uzyskany przez podatnika z ich uprzedniego zbycia;
 - **46)** poniesionych wydatków z tytułu kosztów używania, stanowiącego własność podatnika prowadzącego działalność gospodarczą, samochodu osobowego niebędącego składnikiem majątku, o którym mowa w art. 14 ust. 2 pkt 1, oraz składek na ubezpieczenie takiego samochodu; te wydatki i składki w wysokości 20 % stanowią jednak koszty uzyskania przychodów pod warunkiem, że samochód ten jest wykorzystywany również do celów związanych z działalnością gospodarczą prowadzoną przez podatnika;
-- **46a)** 25 % poniesionych wydatków, z zastrzeżeniem pkt 36, z tytułu kosztów używania samochodu osobowego, innego niż określony w pkt 46, na potrzeby prowadzonej przez podatnika działalności gospodarczej jeżeli samochód osobowy jest wykorzystywany również do celów niezwiązanych z działalnością gospodarczą prowadzoną przez podatnika;
+- **46a)** 25 % poniesionych wydatków, z zastrzeżeniem pkt 36, z tytułu kosztów używania samochodu osobowego, innego niż określony w pkt 46, na potrzeby prowadzonej przez podatnika działalności gospodarczej – jeżeli samochód osobowy jest wykorzystywany również do celów niezwiązanych z działalnością gospodarczą prowadzoną przez podatnika;
 - **47)** składek na ubezpieczenie samochodu osobowego, innego niż określony w pkt 46, w wysokości przekraczającej ich część ustaloną w takiej proporcji, w jakiej kwota 150 000 zł pozostaje do wartości samochodu przyjętej dla celów ubezpieczenia;
 - **47a)** dotyczących samochodu osobowego opłat wynikających z umowy leasingu, o której mowa w art. 23a pkt 1, umowy najmu, dzierżawy lub innej umowy o podobnym charakterze, z wyjątkiem opłat z tytułu składek na ubezpieczenie samochodu osobowego, w wysokości przekraczającej ich część ustaloną w takiej proporcji, w jakiej kwota, o której mowa w pkt 4 odpowiednio w lit. b lub c, pozostaje do wartości samochodu osobowego będącego przedmiotem tej umowy;
 - **48)** strat powstałych w wyniku utraty lub likwidacji samochodów oraz kosztów ich remontów powypadkowych, jeżeli samochody nie były objęte ubezpieczeniem dobrowolnym;
-- **49)** wydatków poniesionych na zakup zużywających się stopniowo rzeczowych składników majątku przedsiębiorstwa, niezaliczanych zgodnie z odrębnymi przepisami do środków trwałych w przypadku stwierdzenia, że składniki te nie są wykorzystywane dla celów prowadzonej działalności gospodarczej, lecz służą celom osobistym podatnika, pracowników lub innych osób, albo bez uzasadnienia znajdują się poza siedzibą przedsiębiorstwa;
+- **49)** wydatków poniesionych na zakup zużywających się stopniowo rzeczowych składników majątku przedsiębiorstwa, niezaliczanych zgodnie z odrębnymi przepisami do środków trwałych – w przypadku stwierdzenia, że składniki te nie są wykorzystywane dla celów prowadzonej działalności gospodarczej, lecz służą celom osobistym podatnika, pracowników lub innych osób, albo bez uzasadnienia znajdują się poza siedzibą przedsiębiorstwa;
 - **50)** opłat sankcyjnych, które zgodnie z odrębnymi przepisami podlegają wpłacie do budżetu państwa lub budżetów jednostek samorządu terytorialnego;
 - **51)** kosztów utrzymania zakładowych obiektów socjalnych, w części pokrytej ze środków zakładowego funduszu świadczeń socjalnych;
-- **52)** wartości diet z tytułu podróży służbowych osób prowadzących działalność gospodarczą i osób z nimi współpracujących w części przekraczającej wysokość diet przysługujących pracownikom, określoną w odrębnych przepisach wydanych przez właściwego ministra;
+- **52)** wartości diet z tytułu podróży służbowych osób prowadzących działalność gospodarczą i osób z nimi współpracujących – w części przekraczającej wysokość diet przysługujących pracownikom, określoną w odrębnych przepisach wydanych przez właściwego ministra;
 - **53)** (uchylony)
 - **54)** strat (kosztów) powstałych w wyniku utraty dokonanych przedpłat (zaliczek, zadatków) w związku z niewykonaniem umowy;
-- **55)** niewypłaconych, niedokonanych lub niepostawionych do dyspozycji wypłat, świadczeń oraz innych należności z tytułów określonych w art. 12 ust. 1 i 6, art. 13 pkt 2 i 4–9 oraz w art. 18, świadczeń pieniężnych z tytułu odbywania praktyk absolwenckich, o których mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich, świadczeń pieniężnych z tytułu odbywania stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, a także zasiłków pieniężnych z ubezpieczenia społecznego wypłacanych przez zakład pracy, z zastrzeżeniem art. 22 ust. 6ba;
+- **55)** niewypłaconych, niedokonanych lub niepostawionych do dyspozycji wypłat, świadczeń oraz innych należności z tytułów określonych w art. 12 ust. 1 i 6, art. 13 pkt 2 i 4–9 oraz w art. 18, świadczeń pieniężnych z tytułu odbywania praktyk absolwenckich, o których mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich, świadczeń pieniężnych z tytułu odbywania stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, a także zasiłków pieniężnych z ubezpieczenia społecznego wypłacanych przez zakład pracy, z zastrzeżeniem art. 22 ust. 6ba;
 - **55a)** nieopłaconych do Zakładu Ubezpieczeń Społecznych składek, z zastrzeżeniem pkt 37 oraz art. 22 ust. 6bb, określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w części finansowanej przez płatnika składek; 55aa) niedokonanych wpłat do pracowniczych planów kapitałowych, o których mowa w ustawie o pracowniczych planach kapitałowych, w części finansowanej przez podmiot zatrudniający, z zastrzeżeniem pkt 37a;
 - **55b)** należnych, wypłaconych, dokonanych lub postawionych do dyspozycji wypłat, świadczeń oraz innych należności z tytułów określonych w art. 12 ust. 1 i art. 13 pkt 2, 5 i 7–9 cudzoziemcowi, który w okresie świadczenia pracy lub wykonywania osobiście działalności na terytorium Rzeczypospolitej Polskiej nie posiadał ważnego, wymaganego na podstawie odrębnych przepisów, dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej, a także składek z tytułu tych należności w części finansowanej przez płatnika składek oraz zasiłków pieniężnych z ubezpieczenia społecznego wypłacanych przez zakład pracy temu cudzoziemcowi;
 - **55c)** wypłaconych, dokonanych lub postawionych do dyspozycji wypłat, świadczeń oraz innych należności z tytułu nielegalnego zatrudnienia w rozumieniu art. 2 pkt 14 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia oraz wypłaconego pracownikowi wynagrodzenia w części, w jakiej pracodawca nie ujawnił ich właściwym organom państwowym;
@@ -2266,14 +2331,14 @@ Art. 46–51. (pominięte)
 
 - **58)** składek na ubezpieczenie zdrowotne, z wyjątkiem składek na ubezpieczenie zdrowotne zapłaconych w roku podatkowym na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26 i 203):
     - **a)** z tytułu pozarolniczej działalności gospodarczej opodatkowanej zgodnie z art. 30c,
-    - **b)** za osoby współpracujące z podatnikiem opodatkowanym w sposób określony w art. 30c przy czym łączna wysokość tych składek zaliczonych do kosztów uzyskania przychodów lub odliczonych od dochodu nie może przekroczyć w roku podatkowym 8700 zł ;
+    - **b)** za osoby współpracujące z podatnikiem opodatkowanym w sposób określony w art. 30c – przy czym łączna wysokość tych składek zaliczonych do kosztów uzyskania przychodów lub odliczonych od dochodu nie może przekroczyć w roku podatkowym 8700 zł ;
 
 - **59)** dodatkowej opłaty wymierzanej przez Zakład Ubezpieczeń Społecznych na podstawie przepisów o systemie ubezpieczeń społecznych;
 - **60)** (uchylony)
-- **61)** poniesionych wydatków oraz wartości przekazanych rzeczy, praw lub wykonanych usług, wynikających z czynności, które nie mogą być przedmiotem prawnie skutecznej umowy, w szczególności w związku z popełnieniem przestępstwa określonego w art. 229 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872);
+- **61)** poniesionych wydatków oraz wartości przekazanych rzeczy, praw lub wykonanych usług, wynikających z czynności, które nie mogą być przedmiotem prawnie skutecznej umowy, w szczególności w związku z popełnieniem przestępstwa określonego w art. 229 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872);
 - **62)** podatku od wydobycia niektórych kopalin;
 - **63)** (uchylony)
-- **64)** wszelkiego rodzaju opłat i należności za korzystanie lub prawo do korzystania z praw i wartości, o których mowa w art. 22b ust. 1 pkt 4–7, nabytych lub wytworzonych przez podatnika lub spółkę niebędącą osobą prawną, której jest wspólnikiem, a następnie zbytych w części przekraczającej przychód uzyskany przez podatnika z ich zbycia;
+- **64)** wszelkiego rodzaju opłat i należności za korzystanie lub prawo do korzystania z praw i wartości, o których mowa w art. 22b ust. 1 pkt 4–7, nabytych lub wytworzonych przez podatnika lub spółkę niebędącą osobą prawną, której jest wspólnikiem, a następnie zbytych – w części przekraczającej przychód uzyskany przez podatnika z ich zbycia;
 - **65)** podatku, o którym mowa w art. 30g;
 - **66)** daniny solidarnościowej, o której mowa w rozdziale 6a.
 
@@ -2290,7 +2355,7 @@ Art. 46–51. (pominięte)
 3. Nieściągalność wierzytelności, w przypadku określonym w ust. 1 pkt 21, uznaje się za uprawdopodobnioną, w szczególności gdy:
 
 - **1)** dłużnik zmarł, został wykreślony z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, postawiony w stan likwidacji lub została ogłoszona jego upadłość albo
-- **2)** zostało otwarte postępowanie restrukturyzacyjne lub został złożony wniosek o zatwierdzenie układu w postępowaniu o zatwierdzenie układu, o którym mowa w ustawie z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, lub zostało wszczęte postępowanie ugodowe w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków, albo
+- **2)** zostało otwarte postępowanie restrukturyzacyjne lub został złożony wniosek o zatwierdzenie układu w postępowaniu o zatwierdzenie układu, o którym mowa w ustawie z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, lub zostało wszczęte postępowanie ugodowe w rozumieniu przepisów o restrukturyzacji finansowej przedsiębiorstw i banków, albo
 - **3)** wierzytelność została zasądzona prawomocnym orzeczeniem sądu i skierowana na drogę postępowania egzekucyjnego, albo
 - **4)** wierzytelność jest kwestionowana przez dłużnika, na drodze powództwa sądowego.
 
@@ -2328,7 +2393,7 @@ Art. 46–51. (pominięte)
 
 6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, maksymalną wysokość wpłat dokonywanych przez przedsiębiorców, prowadzących działalność gospodarczą w dziedzinie turystyki, wypoczynku, sportu i rekreacji, na rzecz Polskiej Organizacji Turystycznej, uznawaną za koszt uzyskania przychodów.
 
-7. Ewidencja przebiegu pojazdu, o której mowa w ust. 5, powinna zawierać co najmniej następujące dane: nazwisko, imię i adres zamieszkania osoby używającej pojazdu, numer rejestracyjny pojazdu i pojemność silnika, kolejny numer wpisu, datę i cel wyjazdu, opis trasy (skąd dokąd), liczbę faktycznie przejechanych kilometrów, stawkę za 1 km przebiegu, kwotę wynikającą z przemnożenia liczby faktycznie przejechanych kilometrów i stawki za 1 km przebiegu oraz podpis podatnika (pracodawcy) i jego dane.
+7. Ewidencja przebiegu pojazdu, o której mowa w ust. 5, powinna zawierać co najmniej następujące dane: nazwisko, imię i adres zamieszkania osoby używającej pojazdu, numer rejestracyjny pojazdu i pojemność silnika, kolejny numer wpisu, datę i cel wyjazdu, opis trasy (skąd – dokąd), liczbę faktycznie przejechanych kilometrów, stawkę za 1 km przebiegu, kwotę wynikającą z przemnożenia liczby faktycznie przejechanych kilometrów i stawki za 1 km przebiegu oraz podpis podatnika (pracodawcy) i jego dane.
 
 8. Przepis ust. 1 pkt 38b stosuje się wyłącznie przy określaniu dochodu, o którym mowa w art. 24 ust. 5 pkt 1 oraz art. 30b ust. 2 pkt 1–4.
 
@@ -2342,6 +2407,23 @@ Art. 46–51. (pominięte)
 
 **Art. 23a.** Ilekroć w rozdziale jest mowa o:
 
+- **1)** umowie leasingu – rozumie się przez to umowę nazwaną w kodeksie cywilnym, a także każdą inną umowę, na mocy której jedna ze stron, zwana dalej „finansującym”, oddaje do odpłatnego używania albo używania i pobierania pożytków na warunkach określonych w ustawie drugiej stronie, zwanej dalej „korzystającym”, podlegające amortyzacji środki trwałe lub wartości niematerialne i prawne, a także grunty oraz prawo wieczystego użytkowania gruntów;
+- **2)** podstawowym okresie umowy leasingu – rozumie się przez to czas oznaczony, na jaki została zawarta ta umowa, z wyłączeniem czasu, na który może być przedłużona lub skrócona; w przypadku zmiany strony lub stron tej umowy podstawowy okres umowy uważa się za zachowany, jeżeli inne postanowienia umowy nie uległy zmianie;
+- **3)** odpisach amortyzacyjnych – rozumie się przez to odpisy amortyzacyjne dokonywane wyłącznie zgodnie z przepisami art. 22a–22m, z uwzględnieniem art. 23;
+- **4)** normatywnym okresie amortyzacji – rozumie się przez to w odniesieniu do:
+    - **a)** środków trwałych – okres, w którym odpisy amortyzacyjne, wynikające z zastosowania stawek amortyzacyjnych określonych w Wykazie stawek amortyzacyjnych, zrównują się z wartością początkową środków trwałych,
+    - **b)** wartości niematerialnych i prawnych – okres ustalony w art. 22m;
+
+- **5)** rzeczywistej wartości netto – rozumie się przez to:
+    - **a)** wartość początkową środków trwałych lub wartości niematerialnych i prawnych zaktualizowaną zgodnie z odrębnymi przepisami, pomniejszoną o sumę odpisów amortyzacyjnych, o których mowa w art. 22h ust. 1 pkt 1,
+    - **b)** wartość, o której mowa w art. 22ł ust. 6;
+
+- **6)** hipotetycznej wartości netto – rozumie się przez to wartość początkową określoną zgodnie z art. 22g pomniejszoną o:
+    - **a)** odpisy amortyzacyjne obliczone według zasad określonych w art. 22k ust. 1 z uwzględnieniem współczynnika 3 – w odniesieniu do środków trwałych,
+    - **b)** odpisy amortyzacyjne obliczone przy zastosowaniu trzykrotnie skróconych okresów amortyzowania, o których mowa w pkt 4 lit. b – w odniesieniu do wartości niematerialnych i prawnych;
+
+- **7)** spłacie wartości początkowej – rozumie się przez to faktycznie otrzymaną przez finansującego w opłatach ustalonych w umowie leasingu równowartość wartości początkowej środków trwałych lub wartości niematerialnych i prawnych, określoną zgodnie z art. 22g, w podstawowym okresie umowy leasingu; spłaty tej nie koryguje się o kwotę wypłaconą korzystającemu, o której mowa w art. 23d albo art. 23h.
+
 **Art. 23b.**
 
 1. Opłaty ustalone w umowie leasingu, ponoszone przez korzystającego w podstawowym okresie umowy z tytułu używania środków trwałych oraz wartości niematerialnych i prawnych stanowią przychód finansującego i odpowiednio w przypadku, o którym mowa w pkt 1, koszt uzyskania przychodów korzystającego, z zastrzeżeniem ust. 2 i 3, jeżeli:
@@ -2354,15 +2436,18 @@ Art. 46–51. (pominięte)
 
 - **1)** art. 6 ustawy o podatku dochodowym od osób prawnych,
 - **2)** przepisów o specjalnych strefach ekonomicznych,
-- **3)** art. 23 i 37 ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. z 1997 r. poz. 143, z 1998 r. poz. 1063 oraz z 1999 r. poz. 484 i 1178) do umowy tej stosuje się zasady opodatkowania określone w art. 23f–23h.
+- **3)** art. 23 i 37 ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. z 1997 r. poz. 143, z 1998 r. poz. 1063 oraz z 1999 r. poz. 484 i 1178) – do umowy tej stosuje się zasady opodatkowania określone w art. 23f–23h.
 
 3. W przypadku finansującego będącego spółką niebędącą osobą prawną ograniczenia, o których mowa w ust. 2, dotyczą także wspólników tych spółek.
 
 **Art. 23c.** Jeżeli po upływie podstawowego okresu umowy leasingu, o której mowa w art. 23b ust. 1, finansujący przenosi na korzystającego własność środków trwałych lub wartości niematerialnych i prawnych, będących przedmiotem tej umowy:
 
+- **1)** przychodem ze sprzedaży środków trwałych lub wartości niematerialnych i prawnych jest ich wartość wyrażona w cenie określonej w umowie sprzedaży; jeżeli jednak cena ta jest niższa od hipotetycznej wartości netto środków trwałych lub wartości niematerialnych i prawnych, przychód ten określa się w wysokości wartości rynkowej według zasad określonych w art. 19;
+- **2)** kosztem uzyskania przychodów przy ustalaniu dochodu ze sprzedaży jest rzeczywista wartość netto.
+
 **Art. 23d.**
 
-1. Jeżeli po upływie podstawowego okresu umowy leasingu, o której mowa w art. 23b ust. 1, finansujący przenosi na osobę trzecią własność środków trwałych lub wartości niematerialnych i prawnych, będących przedmiotem tej umowy, oraz wypłaca korzystającemu z tytułu spłaty ich wartości uzgodnioną kwotę przy określaniu przychodu ze sprzedaży i kosztu jego uzyskania stosuje się przepisy art. 14, art. 19, art. 22 i art. 23.
+1. Jeżeli po upływie podstawowego okresu umowy leasingu, o której mowa w art. 23b ust. 1, finansujący przenosi na osobę trzecią własność środków trwałych lub wartości niematerialnych i prawnych, będących przedmiotem tej umowy, oraz wypłaca korzystającemu z tytułu spłaty ich wartości uzgodnioną kwotę – przy określaniu przychodu ze sprzedaży i kosztu jego uzyskania stosuje się przepisy art. 14, art. 19, art. 22 i art. 23.
 
 2. Kwota wypłacona korzystającemu, w przypadku określonym w ust. 1, stanowi koszt uzyskania przychodów finansującego w dniu zapłaty do wysokości różnicy pomiędzy rzeczywistą wartością netto a hipotetyczną wartością netto.
 
@@ -2408,7 +2493,7 @@ Art. 46–51. (pominięte)
 
 **Art. 23i.**
 
-1. Jeżeli przedmiotem umowy leasingu zawartej na czas oznaczony są grunty lub prawo wieczystego użytkowania gruntów, a suma ustalonych w niej opłat odpowiada co najmniej wartości gruntów lub prawa wieczystego użytkowania gruntów równej wydatkom na ich nabycie do przychodów finansującego i odpowiednio do kosztów uzyskania przychodów korzystającego nie zalicza się opłat ustalonych w tej umowie, ponoszonych przez korzystającego w podstawowym okresie tej umowy z tytułu używania przedmiotu umowy, w części stanowiącej spłatę tej wartości; przepis art. 23f ust. 2 stosuje się odpowiednio.
+1. Jeżeli przedmiotem umowy leasingu zawartej na czas oznaczony są grunty lub prawo wieczystego użytkowania gruntów, a suma ustalonych w niej opłat odpowiada co najmniej wartości gruntów lub prawa wieczystego użytkowania gruntów równej wydatkom na ich nabycie – do przychodów finansującego i odpowiednio do kosztów uzyskania przychodów korzystającego nie zalicza się opłat ustalonych w tej umowie, ponoszonych przez korzystającego w podstawowym okresie tej umowy z tytułu używania przedmiotu umowy, w części stanowiącej spłatę tej wartości; przepis art. 23f ust. 2 stosuje się odpowiednio.
 
 2. Jeżeli po upływie podstawowego okresu umowy leasingu finansujący przenosi na korzystającego lub osobę trzecią własność gruntów lub prawo wieczystego użytkowania gruntów będących przedmiotem tej umowy, albo oddaje je korzystającemu do dalszego używania, do ustalenia przychodów i kosztów uzyskania przychodów stron umowy przepisy art. 23g i art. 23h stosuje się odpowiednio.
 
@@ -2443,18 +2528,18 @@ Art. 46–51. (pominięte)
 
 1. Ilekroć w niniejszym rozdziale jest mowa o:
 
-- **1)** cenie transferowej oznacza to rezultat finansowy warunków ustalonych lub narzuconych w wyniku istniejących powiązań, w tym cenę, wynagrodzenie, wynik finansowy lub wskaźnik finansowy;
-- **2)** podmiocie oznacza to osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej oraz zagraniczny zakład;
-- **3)** podmiotach niepowiązanych oznacza to podmioty inne niż podmioty powiązane;
-- **4)** podmiotach powiązanych oznacza to:
+- **1)** cenie transferowej – oznacza to rezultat finansowy warunków ustalonych lub narzuconych w wyniku istniejących powiązań, w tym cenę, wynagrodzenie, wynik finansowy lub wskaźnik finansowy;
+- **2)** podmiocie – oznacza to osobę fizyczną, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej oraz zagraniczny zakład;
+- **3)** podmiotach niepowiązanych – oznacza to podmioty inne niż podmioty powiązane;
+- **4)** podmiotach powiązanych – oznacza to:
     - **a)** podmioty, z których jeden podmiot wywiera znaczący wpływ na co najmniej jeden inny podmiot, lub
-    - **b)** podmioty, na które wywiera znaczący wpływ: ten sam inny podmiot lub małżonek, krewny lub powinowaty do drugiego stopnia osoby fizycznej wywierającej znaczący wpływ na co najmniej jeden podmiot, lub
+    - **b)** podmioty, na które wywiera znaczący wpływ: – ten sam inny podmiot lub – małżonek, krewny lub powinowaty do drugiego stopnia osoby fizycznej wywierającej znaczący wpływ na co najmniej jeden podmiot, lub
     - **c)** spółkę niebędącą osobą prawną i jej wspólnika, lub ca) spółkę, o której mowa w art. 5a pkt 28 lit. c, i jej komplementariusza, lub cb) spółkę, o której mowa w art. 5a pkt 28 lit. e, i jej wspólnika, lub
     - **d)** podatnika i jego zagraniczny zakład;
 
-- **5)** powiązaniach oznacza to relacje, o których mowa w pkt 4, występujące pomiędzy podmiotami powiązanymi;
-- **6)** transakcji kontrolowanej oznacza to identyfikowane na podstawie rzeczywistych zachowań stron działania o charakterze gospodarczym, w tym przypisywanie dochodów do zagranicznego zakładu, których warunki zostały ustalone lub narzucone w wyniku powiązań;
-- **7)** uprzednim porozumieniu cenowym oznacza to uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. z 2023 r. poz. 948).
+- **5)** powiązaniach – oznacza to relacje, o których mowa w pkt 4, występujące pomiędzy podmiotami powiązanymi;
+- **6)** transakcji kontrolowanej – oznacza to identyfikowane na podstawie rzeczywistych zachowań stron działania o charakterze gospodarczym, w tym przypisywanie dochodów do zagranicznego zakładu, których warunki zostały ustalone lub narzucone w wyniku powiązań;
+- **7)** uprzednim porozumieniu cenowym – oznacza to uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. z 2023 r. poz. 948).
 
 2. Przez wywieranie znaczącego wpływu, o którym mowa w ust. 1 pkt 4 lit. a i b, rozumie się:
 
@@ -2468,9 +2553,9 @@ Art. 46–51. (pominięte)
 
 3. Posiadanie pośrednio udziału lub prawa, o którym mowa w ust. 2 pkt 1, oznacza sytuację, w której jeden podmiot posiada w drugim podmiocie udział lub prawo za pośrednictwem innego podmiotu lub większej liczby podmiotów, przy czym wielkość posiadanego pośrednio udziału lub prawa odpowiada:
 
-- **1)** wielkości udziału albo prawa łączącego dowolne dwa podmioty spośród wszystkich podmiotów uwzględnianych przy ustalaniu posiadania pośrednio udziału lub prawa w przypadku gdy wszystkie wielkości udziałów lub praw łączących te podmioty są równe;
-- **2)** najniższej wielkości udziału lub prawa łączącego podmioty, pomiędzy którymi wielkość posiadanego pośrednio udziału lub prawa jest ustalana w przypadku gdy wielkości udziałów lub praw łączących te podmioty są różne;
-- **3)** sumie wielkości posiadanych pośrednio udziałów lub praw w przypadku gdy podmioty, pomiędzy którymi wielkość posiadanego pośrednio udziału lub prawa jest ustalana, łączy więcej niż jeden posiadany pośrednio udział lub prawo.
+- **1)** wielkości udziału albo prawa łączącego dowolne dwa podmioty spośród wszystkich podmiotów uwzględnianych przy ustalaniu posiadania pośrednio udziału lub prawa – w przypadku gdy wszystkie wielkości udziałów lub praw łączących te podmioty są równe;
+- **2)** najniższej wielkości udziału lub prawa łączącego podmioty, pomiędzy którymi wielkość posiadanego pośrednio udziału lub prawa jest ustalana – w przypadku gdy wielkości udziałów lub praw łączących te podmioty są różne;
+- **3)** sumie wielkości posiadanych pośrednio udziałów lub praw – w przypadku gdy podmioty, pomiędzy którymi wielkość posiadanego pośrednio udziału lub prawa jest ustalana, łączy więcej niż jeden posiadany pośrednio udział lub prawo.
 
 4. Jeżeli pomiędzy podmiotami występują relacje, które nie są ustanawiane lub utrzymywane z uzasadnionych przyczyn ekonomicznych, w tym mające na celu manipulowanie strukturą właścicielską lub tworzenie cyrkularnych struktur właścicielskich, to podmioty, pomiędzy którymi występują takie relacje, uznaje się za podmioty powiązane.
 
@@ -2491,7 +2576,7 @@ Art. 46–51. (pominięte)
 4. W przypadku gdy organ podatkowy uzna, że w porównywalnych okolicznościach podmioty niepowiązane kierujące się racjonalnością ekonomiczną nie zawarłyby danej transakcji kontrolowanej lub zawarłyby inną transakcję, lub dokonałyby innej czynności, zwanych dalej „transakcją właściwą”, uwzględniając:
 
 - **1)** warunki, które ustaliły między sobą podmioty powiązane,
-- **2)** fakt, że warunki ustalone między podmiotami powiązanymi uniemożliwiają określenie ceny transferowej na takim poziomie, na jaki zgodziłyby się podmioty niepowiązane kierujące się racjonalnością ekonomiczną, uwzględniając opcje realistycznie dostępne w momencie zawarcia transakcji organ ten określa dochód (stratę) podatnika bez uwzględnienia transakcji kontrolowanej, a w przypadku gdy jest to uzasadnione, określa dochód (stratę) podatnika z transakcji właściwej względem transakcji kontrolowanej.
+- **2)** fakt, że warunki ustalone między podmiotami powiązanymi uniemożliwiają określenie ceny transferowej na takim poziomie, na jaki zgodziłyby się podmioty niepowiązane kierujące się racjonalnością ekonomiczną, uwzględniając opcje realistycznie dostępne w momencie zawarcia transakcji – organ ten określa dochód (stratę) podatnika bez uwzględnienia transakcji kontrolowanej, a w przypadku gdy jest to uzasadnione, określa dochód (stratę) podatnika z transakcji właściwej względem transakcji kontrolowanej.
 
 5. Podstawą zastosowania ust. 4 nie może być wyłącznie:
 
@@ -2518,18 +2603,24 @@ Art. 46–51. (pominięte)
 
 5. W przypadku gdy zgodnie z art. 23o ust. 4 organ podatkowy:
 
-- **1)** pomija transakcję kontrolowaną odstępuje od zastosowania metody;
-- **2)** zastępuje transakcję kontrolowaną transakcją właściwą stosuje metodę odpowiednią dla transakcji właściwej.
+- **1)** pomija transakcję kontrolowaną – odstępuje od zastosowania metody;
+- **2)** zastępuje transakcję kontrolowaną transakcją właściwą – stosuje metodę odpowiednią dla transakcji właściwej.
 
 **Art. 23q.** Podatnik może dokonać korekty cen transferowych poprzez zmianę wysokości uzyskanych przychodów lub poniesionych kosztów uzyskania przychodów, jeżeli są spełnione łącznie następujące warunki:
+
+- **1)** w transakcjach kontrolowanych realizowanych przez podatnika w trakcie roku podatkowego ustalone zostały warunki, które ustaliłyby podmioty niepowiązane;
+- **2)** nastąpiła zmiana istotnych okoliczności mających wpływ na ustalone w trakcie roku podatkowego warunki lub znane są faktycznie poniesione koszty lub uzyskane przychody będące podstawą obliczenia ceny transferowej, a zapewnienie ich zgodności z warunkami, jakie ustaliłyby podmioty niepowiązane, wymaga dokonania korekty cen transferowych;
+- **3)** w momencie dokonania korekty podatnik posiada oświadczenie podmiotu powiązanego lub dowód księgowy potwierdzające dokonanie przez ten podmiot korekty cen transferowych w tej samej wysokości co podatnik;
+- **4)** istnieje podstawa prawna do wymiany informacji podatkowych z państwem, w którym podmiot powiązany, o którym mowa w pkt 3, ma miejsce zamieszkania, siedzibę lub zarząd.
+- **5)** (uchylony)
 
 **Art. 23r.**
 
 1. W przypadku transakcji kontrolowanych stanowiących usługi o niskiej wartości dodanej organ podatkowy odstępuje od określenia dochodu (straty) podatnika w zakresie wysokości narzutu na kosztach tych usług, jeżeli łącznie są spełnione następujące warunki:
 
 - **1)** narzut na kosztach tych usług został ustalony przy wykorzystaniu metody, o której mowa w art. 23p ust. 1 pkt 3 albo 4, i wynosi:
-    - **a)** niewięcej niż 5 % kosztów w przypadku nabycia usług,
-    - **b)** niemniej niż 5 % kosztów w przypadku świadczenia usług;
+    - **a)** niewięcej niż 5 % kosztów – w przypadku nabycia usług,
+    - **b)** niemniej niż 5 % kosztów – w przypadku świadczenia usług;
 
 - **2)** usługodawca nie jest podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową;
 - **3)** usługobiorca posiada kalkulację obejmującą następujące informacje:
@@ -2572,7 +2663,7 @@ Art. 46–51. (pominięte)
 
 - **1)** oceny zgodności warunków ustalonych przez podmioty powiązane z warunkami, jakie ustaliłyby między sobą podmioty niepowiązane, w tym kryteria porównywalności tych warunków,
 - **2)** określania wysokości dochodu (straty) podatnika w drodze oszacowania z zastosowaniem metod, o których mowa w art. 23p ust. 1–3, w tym określania wynagrodzenia z tytułu przeniesienia pomiędzy podmiotami powiązanymi istotnych ekonomicznie funkcji, aktywów lub kategorii ryzyka
-- **3)** (uchylony) mając na uwadze zapewnienie prawidłowości weryfikacji cen transferowych dokonywanej przez podatników i organy podatkowe oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych.
+- **3)** (uchylony) – mając na uwadze zapewnienie prawidłowości weryfikacji cen transferowych dokonywanej przez podatników i organy podatkowe oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych.
 
 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz krajów i terytoriów stosujących szkodliwą konkurencję podatkową, uwzględniając treść ustaleń w tym zakresie podjętych przez Organizację Współpracy Gospodarczej i Rozwoju, istnienie podstawy prawnej do wymiany informacji podatkowych między Rzecząpospolitą Polską a danym krajem lub terytorium, terminowość realizowania obowiązku wymiany informacji podatkowych oraz rzetelność, kompletność i czytelność przekazywanych informacji podatkowych, a także rzeczywiste cechy systemu podatkowego danego kraju lub terytorium mogące doprowadzić do stosowania szkodliwej konkurencji podatkowej.
 
@@ -2584,15 +2675,15 @@ Art. 46–51. (pominięte)
 
 2. Lokalna dokumentacja cen transferowych jest sporządzana dla transakcji kontrolowanej o charakterze jednorodnym, której wartość przekracza w roku podatkowym następujące progi dokumentacyjne:
 
-- **1)** 10 000 000 zł w przypadku transakcji towarowej;
-- **2)** 10 000 000 zł w przypadku transakcji finansowej;
-- **3)** 2 000 000 zł w przypadku transakcji usługowej;
-- **4)** 2 000 000 zł w przypadku innej transakcji niż określona w pkt 1–3.
+- **1)** 10 000 000 zł – w przypadku transakcji towarowej;
+- **2)** 10 000 000 zł – w przypadku transakcji finansowej;
+- **3)** 2 000 000 zł – w przypadku transakcji usługowej;
+- **4)** 2 000 000 zł – w przypadku innej transakcji niż określona w pkt 1–3.
 
 2a. W przypadku transakcji kontrolowanych z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub zagranicznym zakładem położonym na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, próg dokumentacyjny wynosi:
 
-- **1)** 2 500 000 zł w przypadku transakcji finansowej;
-- **2)** 500 000 zł w przypadku transakcji innej niż transakcja finansowa.
+- **1)** 2 500 000 zł – w przypadku transakcji finansowej;
+- **2)** 500 000 zł – w przypadku transakcji innej niż transakcja finansowa.
 
 3. Progi dokumentacyjne są ustalane odrębnie dla:
 
@@ -2612,18 +2703,18 @@ Art. 46–51. (pominięte)
 
 1. Wartość transakcji kontrolowanej, o której mowa w art. 23w ust. 2 i 2a, odpowiada:
 
-- **1)** wartości kapitału w przypadku pożyczki, kredytu lub depozytu;
-- **2)** wartości nominalnej w przypadku emisji obligacji;
-- **3)** sumie gwarancyjnej w przypadku poręczenia lub gwarancji;
-- **4)** wartości przypisanych przychodów lub kosztów w przypadku przypisania dochodu (straty) do zakładu zagranicznego;
-- **4a)** łącznej wartości wkładów wniesionych do spółki niemającej osobowości prawnej w przypadku umowy takiej spółki;
-- **5)** wartości właściwej dla danej transakcji kontrolowanej w przypadku pozostałych transakcji.
+- **1)** wartości kapitału – w przypadku pożyczki, kredytu lub depozytu;
+- **2)** wartości nominalnej – w przypadku emisji obligacji;
+- **3)** sumie gwarancyjnej – w przypadku poręczenia lub gwarancji;
+- **4)** wartości przypisanych przychodów lub kosztów – w przypadku przypisania dochodu (straty) do zakładu zagranicznego;
+- **4a)** łącznej wartości wkładów wniesionych do spółki niemającej osobowości prawnej – w przypadku umowy takiej spółki;
+- **5)** wartości właściwej dla danej transakcji kontrolowanej – w przypadku pozostałych transakcji.
 
 2. Wartość transakcji kontrolowanej, o której mowa w art. 23w ust. 2 i 2a, określa się na podstawie:
 
 - **1)** otrzymanych lub wystawionych faktur dotyczących danego roku podatkowego albo
-- **2)** umów lub innych dokumentów w przypadku gdy faktura nie została wystawiona lub w przypadku transakcji finansowych, albo
-- **3)** otrzymanych lub przekazanych płatności w przypadku gdy nie jest możliwe określenie tej wartości na podstawie pkt 1 i 2.
+- **2)** umów lub innych dokumentów – w przypadku gdy faktura nie została wystawiona lub w przypadku transakcji finansowych, albo
+- **3)** otrzymanych lub przekazanych płatności – w przypadku gdy nie jest możliwe określenie tej wartości na podstawie pkt 1 i 2.
 
 2a. Wartość transakcji kontrolowanej, o której mowa w art. 23w ust. 2 i 2a, pomniejsza się o podatek od towarów i usług, z wyjątkiem podatku od towarów i usług, który zgodnie z przepisami o podatku od towarów i usług nie stanowi podatku naliczonego, oraz naliczonego podatku od towarów i usług, w tej części, w której zgodnie z przepisami o podatku od towarów i usług podatnikowi nie przysługuje obniżenie kwoty lub zwrot różnicy podatku od towarów i usług.
 
@@ -2635,7 +2726,153 @@ Art. 46–51. (pominięte)
 
 **Art. 23z.** Obowiązek sporządzenia lokalnej dokumentacji cen transferowych, o którym mowa w art. 23w ust. 1, nie ma zastosowania do transakcji kontrolowanych:
 
+- **1)** zawieranych wyłącznie przez podmioty powiązane mające miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej w roku podatkowym, w którym każdy z tych podmiotów powiązanych spełnia łącznie następujące warunki:
+    - **a)** nie korzysta ze zwolnienia, o którym mowa w art. 21 ust. 1 pkt 63a i 63b,
+    - **b)** nie poniósł straty podatkowej;
+
+- **1a)** zawieranych wyłącznie:
+    - **a)** pomiędzy położonymi na terytorium Rzeczypospolitej Polskiej zagranicznymi zakładami podmiotów powiązanych mających miejsce zamieszkania, siedzibę lub zarząd na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego,
+    - **b)** przez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład podmiotu mającego miejsce zamieszkania, siedzibę lub zarząd na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego z podmiotem powiązanym mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej – w roku podatkowym, w którym przychody lub koszty uzyskania przychodów powstałe w wyniku takich transakcji kontrolowanych zostały przypisane do zagranicznego zakładu pod warunkiem, że żaden z podmiotów powiązanych w zakresie tych przychodów lub kosztów przypisanych do zagranicznego zakładu nie korzysta ze zwolnień, o których mowa w art. 21 ust. 1 pkt 63a i 63b, i nie poniósł straty podatkowej;
+
+- **2)** objętych uprzednim porozumieniem cenowym, porozumieniem inwestycyjnym, o którym mowa w art. 20zs § 1 Ordynacji podatkowej, albo porozumieniem podatkowym, o którym mowa w art. 20zb pkt 2 Ordynacji podatkowej, za okres, którego takie porozumienie dotyczy;
+- **3)** których wartość w całości trwale nie stanowi przychodu albo kosztu uzyskania przychodu, z wyłączeniem transakcji finansowych, transakcji kapitałowych oraz transakcji dotyczących inwestycji, środków trwałych lub wartości niematerialnych i prawnych;
+- **4)** w przypadku gdy powiązania wynikają wyłącznie z powiązania ze Skarbem Państwa lub jednostkami samorządu terytorialnego lub ich związkami;
+- **5)** w których cena została ustalona w trybie przetargu nieograniczonego na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. );
+- **6)** realizowanych między grupą producentów rolnych wpisaną do rejestru, o którym mowa w art. 9 ust. 1 ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145), a jej członkami, dotyczących odpłatnego zbycia:
+    - **a)** na rzecz grupy producentów rolnych produktów lub grup produktów wyprodukowanych w gospodarstwach członków takiej grupy,
+    - **b)** przez grupę producentów rolnych na rzecz jej członków towarów wykorzystywanych przez członka do produkcji produktów lub grup produktów, o których mowa w lit. a, oraz świadczenia usług związanych z tą produkcją;
+
+- **7)** realizowanych między wstępnie uznaną grupą producentów owoców i warzyw lub uznaną organizacją producentów owoców i warzyw, działających na podstawie ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2023 r. poz. 1318), a jej członkami, dotyczących odpłatnego zbycia:
+    - **a)** na rzecz takiej grupy lub organizacji produktów lub grup produktów wyprodukowanych w gospodarstwach członków takiej grupy lub organizacji,
+    - **b)** przez taką grupę lub organizację na rzecz jej członków towarów wykorzystywanych przez członka do produkcji produktów lub grup produktów, o których mowa w lit. a, oraz świadczenia usług związanych z tą produkcją;
+
+- **8)** polegających na przypisaniu dochodu do zagranicznego zakładu położonego na terytorium Rzeczypospolitej Polskiej przez podatników, o których mowa w art. 3 ust. 2a, jeżeli przepisy właściwych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, przewidują, że dochody te mogą być opodatkowane tylko w państwie innym niż Rzeczpospolita Polska;
+- **9)** polegających wyłącznie na dokonaniu rozliczenia pomiędzy podmiotami powiązanymi wydatków poniesionych na rzecz podmiotu niepowiązanego, jeżeli łącznie są spełnione następujące warunki:
+    - **a)** nie powstaje wartość dodana i rozliczenie następuje bez uwzględniania marży lub narzutu zysku,
+    - **b)** rozliczenie nie jest związane bezpośrednio z inną transakcją kontrolowaną,
+    - **c)** rozliczenie nastąpiło niezwłocznie po dokonaniu zapłaty na rzecz podmiotu niepowiązanego,
+    - **d)** podmiot powiązany nie jest podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową – przy czym w przypadku zastosowania klucza alokacji przepis art. 23r ust. 1 pkt 3 stosuje się odpowiednio;
+
+- **10)** stanowiących usługi o niskiej wartości dodanej – w przypadku spełnienia warunków określonych w art. 23r;
+- **11)** dotyczących pożyczki, kredytu lub emisji obligacji – w przypadku spełnienia warunków określonych w art. 23s.
+
+**Art. 23za.**
+
+1. Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy i spółki nie-będące osobami prawnymi dokonujący transakcji, innej niż transakcja kontrolowana, z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub zagranicznym zakładem położonym na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi – za rok obrotowy, przekracza:
+
+- **1)** 2 500 000 zł – w przypadku transakcji finansowej,
+- **2)** 500 000 zł – w przypadku transakcji innej niż transakcja finansowa – przy czym przepisy art. 23w ust. 1 i 3–5, art. 23x, art. 23z pkt 3 i 5–7, art. 23zc ust. 1 oraz art. 23zd stosuje się odpowiednio.
+
+1a. (uchylony) 1b. (uchylony)
+
+2. Wartość transakcji, o której mowa w ust. 1, wyrażoną w walucie obcej, przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień realizacji operacji gospodarczej lub zawarcia umowy.
+
+**Art. 23zb.**
+
+1. Podmioty powiązane, których sprawozdania finansowe są konsolidowane metodą pełną lub proporcjonalną, obowiązane do sporządzenia lokalnej dokumentacji cen transferowych dołączają do tej dokumentacji grupową dokumentację cen transferowych, sporządzoną za rok obrotowy, w terminie do końca dwunastego miesiąca po zakończeniu roku podatkowego, jeżeli należą do grupy podmiotów powiązanych:
+
+- **1)** dla której jest sporządzane skonsolidowane sprawozdanie finansowe;
+- **2)** której skonsolidowane przychody przekroczyły w poprzednim roku obrotowym kwotę 200 000 000 zł lub jej równowartość.
+
+2. Kwoty przychodów, o których mowa w ust. 1 pkt 2, wyrażone w walucie obcej przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski obowiązującego w ostatnim dniu roboczym sprawozdawczego roku obrotowego poprzedzającego rok obrotowy, którego dotyczy grupowa dokumentacja cen transferowych.
+
+3. Grupowa dokumentacja cen transferowych może być sporządzona przez podmiot powiązany obowiązany do dołączania grupowej dokumentacji cen transferowych lub inny podmiot należący do grupy podmiotów powiązanych. Sporządzenie grupowej dokumentacji cen transferowych przez inny podmiot z grupy podmiotów powiązanych nie zwalnia z odpowiedzialności za zgodność tej dokumentacji z art. 23zc ust. 2.
+
+4. W przypadku gdy grupowa dokumentacja cen transferowych została sporządzona w języku angielskim, organ podatkowy może wystąpić z żądaniem przedłożenia, w terminie 30 dni od dnia doręczenia tego żądania, grupowej dokumentacji cen transferowych w języku polskim.
+
+**Art. 23zc.**
+
+1. Lokalna dokumentacja cen transferowych zawiera następujące elementy:
+
+- **1)** opis podmiotu powiązanego;
+- **2)** opis transakcji, w tym analizę funkcji, ryzyk i aktywów;
+- **3)** analizę cen transferowych, w tym:
+    - **a)** analizę danych podmiotów niepowiązanych lub transakcji zawieranych z podmiotami niepowiązanymi lub pomiędzy podmiotami niepowiązanymi uznanych za porównywalne do warunków ustalonych w transakcjach kontrolowanych, zwaną dalej „analizą porównawczą”, albo
+    - **b)** analizę wykazującą zgodność warunków, na jakich została zawarta transakcja kontrolowana, z warunkami, jakie ustaliłyby podmioty niepowiązane, zwaną dalej „analizą zgodności” – w przypadku gdy sporządzenie analizy porównawczej nie jest właściwe w świetle danej metody weryfikacji cen transferowych lub nie jest możliwe przy zachowaniu należytej staranności;
+
+- **4)** informacje finansowe.
+
+1a. W przypadku transakcji, o których mowa w art. 23za ust. 1, lokalna dokumentacja cen transferowych zawiera również uzasadnienie gospodarcze tej transakcji, w szczególności opis spodziewanych korzyści ekonomicznych, w tym podatkowych.
+
+2. Grupowa dokumentacja cen transferowych zawiera następujące elementy dotyczące grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy o rachunkowości:
+
+- **1)** opis tej grupy;
+- **2)** opis istotnych wartości niematerialnych i prawnych tej grupy;
+- **3)** opis istotnych transakcji finansowych tej grupy;
+- **4)** informacje finansowe i podatkowe tej grupy.
+
+3. (uchylony) 3a. W przypadku:
+
+- **1)** transakcji kontrolowanych zawieranych przez podmioty powiązane będące mikroprzedsiębiorcą lub małym przedsiębiorcą w rozumieniu odpowiednio art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców,
+- **2)** transakcji innych niż transakcje kontrolowane, o których mowa w art. 23za ust. 1 – lokalna dokumentacja cen transferowych może nie zawierać analizy porównawczej lub analizy zgodności.
+
+3b. Przepis ust. 3a pkt 1 ma zastosowanie w przypadku przedsiębiorcy, który w ostatnim roku podatkowym spełnił warunki określone w art. 7 ust. 1 pkt 1 albo 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
+4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres elementów lokalnej dokumentacji cen transferowych i grupowej dokumentacji cen transferowych, mając na uwadze ułatwienie podatnikom sporządzania poprawnej dokumentacji cen transferowych oraz uwzględniając wytyczne Organizacji Współpracy Gospodarczej i Rozwoju w sprawie cen transferowych dla przedsiębiorstw wielonarodowych oraz administracji podatkowych.
+
+**Art. 23zd.** Analiza porównawcza oraz analiza zgodności podlegają aktualizacji nierzadziej niż co 3 lata, chyba że zmiana otoczenia ekonomicznego w stopniu znacznie wpływającym na sporządzoną analizę uzasadnia dokonanie aktualizacji w roku zaistnienia tej zmiany.
+
+**Art. 23ze.**
+
+1. Podmioty powiązane, które są obowiązane do sporządzania lokalnej dokumentacji cen transferowych lub grupowej dokumentacji cen transferowych, przedkładają, na żądanie organów podatkowych, tę dokumentację, w terminie 14 dni od dnia doręczenia tego żądania.
+
+2. W przypadku wystąpienia okoliczności wskazujących na prawdopodobieństwo zaniżenia wartości transakcji kontrolowanej lub niespełnienia warunków, o których mowa w art. 23r ust. 1 lub art. 23s ust. 1, organ podatkowy może zwrócić się do podatnika niebędącego mikroprzedsiębiorcą w rozumieniu art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, z uwzględnieniem art. 23zc ust. 3b, z żądaniem sporządzenia i przedłożenia lokalnej dokumentacji cen transferowych niezawierającej analizy porównawczej lub analizy zgodności dla wskazanych przez organ podatkowy transakcji kontrolowanych w roku podatkowym, w terminie 30 dni od dnia doręczenia takiego żądania. Żądanie wskazuje okoliczności świadczące o prawdopodobieństwie zaniżenia wartości transakcji kontrolowanej lub niespełnienia warunków, o których mowa w art. 23r ust. 1 lub art. 23s ust. 1.
+
+3. Organ podatkowy może wystąpić z żądaniem, o którym mowa w ust. 1, po upływie terminu, o którym mowa w art. 23w ust. 1, a w przypadku grupowej dokumentacji cen transferowych – po upływie terminu, o którym mowa w art. 23zb ust. 1.
+
+4. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami praw-nymi, o których mowa w art. 23za ust. 1, w zakresie transakcji wskazanych w tym przepisie. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
 ##### Oddział 4 Informacja o cenach transferowych
+
+**Art. 23zf.**
+
+1. Podmioty powiązane:
+
+- **1)** obowiązane do sporządzania lokalnej dokumentacji cen transferowych – w zakresie transakcji objętych tym obowiązkiem lub
+- **2)** realizujące transakcje kontrolowane określone w art. 23z pkt 1–2 lub 9–11 – składają naczelnikowi urzędu skarbowego właściwemu dla podatnika, w terminie do końca jedenastego miesiąca po zakończeniu roku podatkowego, informację o cenach transferowych za rok podatkowy, sporządzoną według wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+1a. W przypadku spółki niebędącej osobą prawną informacja o cenach transferowych jest składana naczelnikowi urzędu skarbowego właściwemu według:
+
+- **1)** miejsca prowadzenia działalności;
+- **2)** miejsca siedziby – w przypadku prowadzenia działalności w więcej niż jednym miejscu;
+- **3)** miejsca zamieszkania lub siedziby jednego ze wspólników – w przypadku gdy nie jest możliwe ustalenie właściwości na podstawie pkt 1 i 2.
+
+1b. Informacja o cenach transferowych jest składana za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.
+
+2. Informacja o cenach transferowych zawiera:
+
+- **1)** wskazanie organu, do którego jest składana, cel złożenia informacji i okres, za jaki jest składana;
+- **2)** dane identyfikacyjne podmiotu;
+- **3)** ogólne informacje finansowe podmiotu;
+- **4)** informacje dotyczące podmiotów powiązanych i transakcji kontrolowanych;
+- **5)** informacje dotyczące stosowanych cen transferowych oraz metod ich weryfikacji;
+- **6)** dodatkowe informacje lub wyjaśnienia dotyczące danych lub informacji, o których mowa w pkt 2–5;
+- **7)** oświadczenie podmiotu o tym, że lokalna dokumentacja cen transferowych została sporządzona zgodnie ze stanem rzeczywistym, a ceny transferowe objęte tą dokumentacją są ustalane na warunkach, które ustaliłyby między sobą podmioty niepowiązane.
+
+2a. Informacja o cenach transferowych jest sporządzana na podstawie:
+
+- **1)** lokalnej dokumentacji cen transferowych – w przypadku gdy podmiot powiązany był obowiązany do sporządzenia tej dokumentacji;
+- **2)** sprawozdania finansowego lub innych dokumentów – w przypadku gdy podmiot powiązany nie był obowiązany do sporządzenia tej dokumentacji.
+
+2b. Na potrzeby oświadczenia, o którym mowa w ust. 2 pkt 7, w przypadku otrzymania nieodpłatnie lub częściowo odpłatnie rzeczy lub praw, lub innych świadczeń w naturze stanowiących przychód, ceny transferowe uważa się za ustalone na warunkach, które ustaliłyby między sobą podmioty niepowiązane, jeżeli przychód ten został dla celów podatkowych wykazany zgodnie z zasadą ceny rynkowej.
+
+3. Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 23za ust. 1, w zakresie transakcji wskazanych w tym przepisie. Przepis ust. 2 stosuje się odpowiednio.
+
+4. W przypadku transakcji kontrolowanych, o których mowa w art. 23z pkt 1–2 i 9–11, w informacji o cenach transferowych nie uwzględnia się informacji oraz oświadczenia, o których mowa w ust. 2 pkt 3 i 5–7.
+
+5. Informacja o cenach transferowych jest podpisywana przez:
+
+- **1)** osobę fizyczną – w przypadku podmiotu powiązanego będącego osobą fizyczną,
+- **2)** osobę upoważnioną przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale – w przypadku podmiotu powiązanego będącego przedsiębiorcą zagranicznym posiadającym oddział działający na terytorium Rzeczypospolitej Polskiej,
+- **3)** kierownika jednostki w rozumieniu art. 3 ust. 1 pkt 6 ustawy o rachunkowości, a w przypadku gdy jednostką kieruje organ wieloosobowy – przez wyznaczoną osobę wchodzącą w skład tego organu – przy czym nie jest dopuszczalne podpisanie tej informacji przez pełnomocnika, z wyjątkiem pełnomocnika będącego adwokatem, radcą prawnym, doradcą podatkowym lub biegłym rewidentem.
+
+5a. Wyznaczenie osoby wchodzącej w skład organu wieloosobowego do podpisywania informacji o cenach transferowych nie zwalnia pozostałych osób wchodzących w skład tego organu z odpowiedzialności za niezłożenie tej informacji.
+
+6. Informacja o cenach transferowych jest wykorzystywana w celu analizy ryzyka zaniżenia dochodu do opodatkowania w zakresie cen transferowych oraz do innych analiz ekonomicznych lub statystycznych.
+
+7. (uchylony)
+
+8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych i informacji oraz treść oświadczenia zawartych w informacji o cenach transferowych, wraz z objaśnieniami co do sposobu jej sporządzenia, uwzględniając konieczność zapewnienia dokonywania prawidłowej analizy ryzyka zaniżenia dochodu do opodatkowania w obszarze cen transferowych oraz innych analiz ekonomicznych lub statystycznych.
 
 #### Rozdział 5 Szczególne zasady ustalania dochodu
 
@@ -2664,7 +2901,7 @@ Art. 46–51. (pominięte)
 
 3f. Wykaz, o którym mowa w ust. 3a, sporządza się również na dzień przekształcenia przedsiębiorcy będącego osobą fizyczną w jednoosobową spółkę kapitałową oraz na dzień zmniejszenia udziału kapitałowego w spółce niebędącej osobą prawną.
 
-3g. W przypadku przekształcenia spółki niebędącej osobą prawną w spółkę albo przejęcia spółki niebędącej osobą prawną przez spółkę w następstwie łączenia, na dzień poprzedzający dzień przekształcenia, a w przypadku przejęcia na dzień wpisu do rejestru połączenia, spółka niebędąca osobą prawną jest obowiązana do sporządzenia wykazu składników majątku jej przedsiębiorstwa oraz zamknięcia ksiąg, jeżeli spółka taka prowadzi księgi rachunkowe. Wykaz ten powinien zawierać co najmniej następujące dane:
+3g. W przypadku przekształcenia spółki niebędącej osobą prawną w spółkę albo przejęcia spółki niebędącej osobą prawną przez spółkę w następstwie łączenia, na dzień poprzedzający dzień przekształcenia, a w przypadku przejęcia – na dzień wpisu do rejestru połączenia, spółka niebędąca osobą prawną jest obowiązana do sporządzenia wykazu składników majątku jej przedsiębiorstwa oraz zamknięcia ksiąg, jeżeli spółka taka prowadzi księgi rachunkowe. Wykaz ten powinien zawierać co najmniej następujące dane:
 
 - **1)** liczbę porządkową;
 - **2)** określenie (nazwę) składnika majątku;
@@ -2675,7 +2912,7 @@ Art. 46–51. (pominięte)
 - **7)** wartość początkową składnika majątku;
 - **8)** metodę amortyzacji;
 - **9)** sumę odpisów amortyzacyjnych;
-- **10)** wartość składnika majątku przyjętą dla celów podatkowych w przypadku gdy składnik ten został nabyty w inny sposób niż w drodze zakupu.
+- **10)** wartość składnika majątku przyjętą dla celów podatkowych – w przypadku gdy składnik ten został nabyty w inny sposób niż w drodze zakupu.
 
 3h. W przypadkach, o których mowa w ust. 3g, przepis art. 8 ust. 6 ustawy o podatku dochodowym od osób prawnych stosuje się odpowiednio.
 
@@ -2687,12 +2924,12 @@ Art. 46–51. (pominięte)
 
 4a. Normy szacunkowe dochodu rocznego, o których mowa w ust. 4, stosuje się od jednostek powierzchni upraw lub innych jednostek rodzajów produkcji określonych w kolumnie 3 załącznika nr 2, z tym że w przypadku:
 
-- **1)** upraw w szklarniach i tunelach foliowych od 1 m powierzchni ogólnej obliczanej według wewnętrznej długości ścian;
-- **2)** upraw grzybów i ich grzybni od 1 m powierzchni zajętej pod te uprawy;
-- **3)** wylęgarni drobiu od 1 sztuki pisklęcia uzyskanego z wylęgu;
-- **4)** zwierząt laboratoryjnych od 1 sztuki sprzedanych zwierząt na podstawie zawartych umów dla potrzeb laboratoryjnych, badań i doświadczeń naukowych, analiz i testów prowadzonych w laboratoriach, a także kontroli procesów technologicznych;
-- **5)** hodowli i chowu zwierząt wymienionych pod lp. 15 lit. b–h załącznika nr 2 od 1 sztuki zwierząt sprzedanych;
-- **6)** hodowli ryb akwariowych od 1 dm objętości akwarium, obliczonej według wewnętrznych długości krawędzi.
+- **1)** upraw w szklarniach i tunelach foliowych – od 1 m powierzchni ogólnej obliczanej według wewnętrznej długości ścian;
+- **2)** upraw grzybów i ich grzybni – od 1 m powierzchni zajętej pod te uprawy;
+- **3)** wylęgarni drobiu – od 1 sztuki pisklęcia uzyskanego z wylęgu;
+- **4)** zwierząt laboratoryjnych – od 1 sztuki sprzedanych zwierząt – na podstawie zawartych umów dla potrzeb laboratoryjnych, badań i doświadczeń naukowych, analiz i testów prowadzonych w laboratoriach, a także kontroli procesów technologicznych;
+- **5)** hodowli i chowu zwierząt wymienionych pod lp. 15 lit. b–h załącznika nr 2 – od 1 sztuki zwierząt sprzedanych;
+- **6)** hodowli ryb akwariowych – od 1 dm objętości akwarium, obliczonej według wewnętrznych długości krawędzi.
 
 4b. Jeżeli rozmiary działów specjalnych produkcji rolnej przekraczają wielkości określone w załączniku nr 2, opodatkowaniu podlegają dochody uzyskane w roku podatkowym z całej powierzchni upraw lub wszystkich jednostek produkcji.
 
@@ -2706,17 +2943,17 @@ Art. 46–51. (pominięte)
 
 - **1)** przychody z umorzenia udziałów (akcji) lub ze zmniejszenia ich wartości;
 - **1a)** dochód ze zmniejszenia udziału kapitałowego wspólnika w spółce, o której mowa w art. 5a pkt 28 lit. c–e, które następuje w inny sposób niż określony w pkt 1;
-- **1b)** dochód z wystąpienia wspólnika ze spółki, o której mowa w art. 5a pkt 28 lit. c–e, które następuje w inny sposób niż określony w pkt 1;
+- **1b)** dochód z wystąpienia wspólnika ze spółki, o której mowa w art. 5a pkt 28 lit. c– e, które następuje w inny sposób niż określony w pkt 1;
 - **1c)** przychód ze zmniejszenia kapitału akcyjnego w prostej spółce akcyjnej;
 - **2)** (uchylony)
 - **3)** wartość majątku otrzymanego w związku z likwidacją osoby prawnej lub spółki;
-- **4)** dochód przeznaczony na podwyższenie kapitału zakładowego, a w spółdzielniach dochód przeznaczony na podwyższenie funduszu udziałowego oraz dochód stanowiący równowartość kwot przekazanych na ten kapitał (fundusz) z innych kapitałów (funduszy) takiej spółki albo spółdzielni;
+- **4)** dochód przeznaczony na podwyższenie kapitału zakładowego, a w spółdzielniach – dochód przeznaczony na podwyższenie funduszu udziałowego oraz dochód stanowiący równowartość kwot przekazanych na ten kapitał (fundusz) z innych kapitałów (funduszy) takiej spółki albo spółdzielni;
 - **5)** dywidendy z akcji złożonych przez członków pracowniczych funduszy emerytalnych na rachunkach ilościowych;
-- **6)** w przypadku połączenia lub podziału podmiotów dopłaty w gotówce otrzymane przez wspólników podmiotu przejmowanego, podmiotów łączonych lub dzielonych;
-- **7)** w przypadku podziału spółek, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie także majątek pozostający w spółce, nie stanowi zorganizowanej części przedsiębiorstwa ustalona na dzień poprzedzający dzień podziału nadwyżka wartości emisyjnej udziałów (akcji) przydzielonych w spółce przejmującej lub nowo zawiązanej nad kosztami nabycia lub objęcia udziałów (akcji) w spółce dzielonej, obliczonymi zgodnie z art. 22 ust. 1f albo art. 23 ust. 1 pkt 38; jeżeli podział spółki następuje przez wydzielenie, kosztem uzyskania przychodów jest wartość lub kwota wydatków poniesionych przez wspólnika na objęcie lub nabycie udziałów (akcji) w spółce dzielonej, ustalona w takiej proporcji, w jakiej pozostaje u tego wspólnika wartość wydzielanej części majątku spółki dzielonej do wartości majątku spółki dzielonej bezpośrednio przed podziałem;
-- **7a)** w przypadku połączenia spółek lub spółek niebędących osobami prawnymi albo podziału spółek w innych przypadkach niż określone w pkt 7 ustalona na dzień poprzedzający dzień połączenia lub podziału nadwyżka wartości emisyjnej udziałów (akcji) spółki przejmującej lub nowo zawiązanej, przydzielonych wspólnikowi spółki przejmowanej lub dzielonej, nad wydatkami na nabycie lub objęcie odpowiednio udziałów (akcji) w spółce przejmowanej lub dzielonej obliczonymi zgodnie z art. 22 ust. 1f albo art. 23 ust. 1 pkt 38 albo udziałów w spółce niebędącej osobą prawną; jeżeli podział spółki następuje przez wydzielenie majątku spółki stanowiącego zorganizowaną część przedsiębiorstwa, kosztem uzyskania przychodów są wydatki poniesione przez wspólnika na objęcie lub nabycie udziałów (akcji) w spółce dzielonej, ustalone w takiej proporcji, w jakiej pozostaje u tego wspólnika wartość wydzielonej z majątku spółki zorganizowanej części przedsiębiorstwa do wartości majątku spółki dzielonej bezpośrednio przed podziałem;
+- **6)** w przypadku połączenia lub podziału podmiotów – dopłaty w gotówce otrzymane przez wspólników podmiotu przejmowanego, podmiotów łączonych lub dzielonych;
+- **7)** w przypadku podziału spółek, jeżeli majątek przejmowany na skutek podziału, a przy podziale przez wydzielenie także majątek pozostający w spółce, nie stanowi zorganizowanej części przedsiębiorstwa – ustalona na dzień poprzedzający dzień podziału nadwyżka wartości emisyjnej udziałów (akcji) przydzielonych w spółce przejmującej lub nowo zawiązanej nad kosztami nabycia lub objęcia udziałów (akcji) w spółce dzielonej, obliczonymi zgodnie z art. 22 ust. 1f albo art. 23 ust. 1 pkt 38; jeżeli podział spółki następuje przez wydzielenie, kosztem uzyskania przychodów jest wartość lub kwota wydatków poniesionych przez wspólnika na objęcie lub nabycie udziałów (akcji) w spółce dzielonej, ustalona w takiej proporcji, w jakiej pozostaje u tego wspólnika wartość wydzielanej części majątku spółki dzielonej do wartości majątku spółki dzielonej bezpośrednio przed podziałem;
+- **7a)** w przypadku połączenia spółek lub spółek niebędących osobami prawnymi albo podziału spółek w innych przypadkach niż określone w pkt 7 – ustalona na dzień poprzedzający dzień połączenia lub podziału nadwyżka wartości emisyjnej udziałów (akcji) spółki przejmującej lub nowo zawiązanej, przydzielonych wspólnikowi spółki przejmowanej lub dzielonej, nad wydatkami na nabycie lub objęcie odpowiednio udziałów (akcji) w spółce przejmowanej lub dzielonej obliczonymi zgodnie z art. 22 ust. 1f albo art. 23 ust. 1 pkt 38 albo udziałów w spółce niebędącej osobą prawną; jeżeli podział spółki następuje przez wydzielenie majątku spółki stanowiącego zorganizowaną część przedsiębiorstwa, kosztem uzyskania przychodów są wydatki poniesione przez wspólnika na objęcie lub nabycie udziałów (akcji) w spółce dzielonej, ustalone w takiej proporcji, w jakiej pozostaje u tego wspólnika wartość wydzielonej z majątku spółki zorganizowanej części przedsiębiorstwa do wartości majątku spółki dzielonej bezpośrednio przed podziałem;
 - **7b)** wartość rynkowa udziałów (akcji) przekazanych wspólnikowi przez spółkę nabywającą przy wymianie udziałów, o której mowa w ust. 8a, wraz z zapłatą w gotówce w części przekraczającej wartość rynkową otrzymanych w zamian od wspólnika udziałów (akcji), ustalona na dzień wymiany udziałów;
-- **8)** wartość niepodzielonych zysków w spółce oraz wartość zysku przekazanego na inne kapitały niż kapitał zakładowy w spółce przekształcanej w przypadku przekształcenia spółki w spółkę niebędącą osobą prawną; przychód określa się na dzień przekształcenia;
+- **8)** wartość niepodzielonych zysków w spółce oraz wartość zysku przekazanego na inne kapitały niż kapitał zakładowy w spółce przekształcanej – w przypadku przekształcenia spółki w spółkę niebędącą osobą prawną; przychód określa się na dzień przekształcenia;
 - **9)** odsetki od udziału kapitałowego wypłacane na rzecz wspólnika przez spółkę, o której mowa w art. 5a pkt 28 lit. c–e;
 - **10)** odsetki od pożyczki udzielonej osobie prawnej lub spółce, o której mowa w art. 5a pkt 28 lit. c–e, jeżeli wypłata odsetek od takiej pożyczki lub ich wysokość uzależnione są od osiągnięcia zysku przez tę osobę prawną lub spółkę lub od wysokości tego zysku (pożyczka partycypacyjna);
 - **11)** zapłata, o której mowa w ust. 8a.
@@ -2733,14 +2970,14 @@ Art. 46–51. (pominięte)
 
 8. W przypadku połączenia spółek lub podziału spółek, o którym mowa w ust. 5 pkt 7a, z zastrzeżeniem ust. 8da i 8db, dochód (przychód) wspólnika spółki przejmowanej lub dzielonej nie podlega opodatkowaniu w momencie połączenia lub podziału spółek; przy ustalaniu dochodu z odpłatnego zbycia udziałów (akcji) spółki przejmującej lub nowo zawiązanej wspólnik ustala koszt uzyskania przychodów na podstawie:
 
-- **1)** art. 22 ust. 1f jeżeli udziały (akcje) w spółce przejmowanej lub dzielonej zostały objęte w zamian za wkład niepieniężny;
-- **2)** art. 23 ust. 1 pkt 38 jeżeli udziały (akcje) w spółce przejmowanej lub dzielonej zostały nabyte albo objęte za wkład pieniężny;
+- **1)** art. 22 ust. 1f – jeżeli udziały (akcje) w spółce przejmowanej lub dzielonej zostały objęte w zamian za wkład niepieniężny;
+- **2)** art. 23 ust. 1 pkt 38 – jeżeli udziały (akcje) w spółce przejmowanej lub dzielonej zostały nabyte albo objęte za wkład pieniężny;
 - **3)** wysokości wydatków na nabycie lub objęcie udziałów (akcji) spółki dzielonej, ustalonych zgodnie z pkt 1 lub 2, w takiej proporcji, w jakiej pozostaje u tego wspólnika wartość wydzielanej części majątku spółki dzielonej do wartości majątku spółki dzielonej bezpośrednio przed podziałem; pozostała część kwoty tych wydatków stanowi koszt uzyskania przychodów z odpłatnego zbycia udziałów (akcji) spółek podzielonych przez wydzielenie.
 
-8a. Jeżeli spółka nabywa od wspólnika innej spółki udziały (akcje) tej innej spółki oraz w zamian za udziały (akcje) tej innej spółki przekazuje jej wspólnikowi własne udziały (akcje) albo w zamian za udziały (akcje) tej innej spółki przekazuje wspólnikowi tej innej spółki własne udziały (akcje) wraz z zapłatą w gotówce w wysokości niewyższej niż 10 % wartości nominalnej własnych udziałów (akcji), a w przypadku braku wartości nominalnej wartości rynkowej tych udziałów (akcji), oraz jeżeli w wyniku nabycia:
+8a. Jeżeli spółka nabywa od wspólnika innej spółki udziały (akcje) tej innej spółki oraz w zamian za udziały (akcje) tej innej spółki przekazuje jej wspólnikowi własne udziały (akcje) albo w zamian za udziały (akcje) tej innej spółki przekazuje wspólnikowi tej innej spółki własne udziały (akcje) wraz z zapłatą w gotówce w wysokości niewyższej niż 10 % wartości nominalnej własnych udziałów (akcji), a w przypadku braku wartości nominalnej – wartości rynkowej tych udziałów (akcji), oraz jeżeli w wyniku nabycia:
 
 - **1)** spółka nabywająca uzyska bezwzględną większość praw głosu w spółce, której udziały (akcje) są nabywane, albo
-- **2)** spółka nabywająca, posiadająca bezwzględną większość praw głosu w spółce, której udziały (akcje) są nabywane, zwiększa ilość udziałów (akcji) w tej spółce do przychodów nie zalicza się wartości udziałów (akcji) przekazanych wspólnikowi tej innej spółki oraz wartości udziałów (akcji) nabytych przez spółkę, pod warunkiem że podmioty biorące udział w tej transakcji podlegają w państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego opodatkowaniu od całości swoich dochodów, bez względu na miejsce ich osiągnięcia (wymiana udziałów).
+- **2)** spółka nabywająca, posiadająca bezwzględną większość praw głosu w spółce, której udziały (akcje) są nabywane, zwiększa ilość udziałów (akcji) w tej spółce – do przychodów nie zalicza się wartości udziałów (akcji) przekazanych wspólnikowi tej innej spółki oraz wartości udziałów (akcji) nabytych przez spółkę, pod warunkiem że podmioty biorące udział w tej transakcji podlegają w państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego opodatkowaniu od całości swoich dochodów, bez względu na miejsce ich osiągnięcia (wymiana udziałów).
 
 8b. Przepis ust. 8a stosuje się, jeżeli łącznie spełnione są następujące warunki:
 
@@ -2768,14 +3005,14 @@ Art. 46–51. (pominięte)
 11. Jeżeli w wyniku realizacji programu motywacyjnego utworzonego przez:
 
 - **1)** spółkę akcyjną, od której podatnik uzyskuje świadczenia lub inne należności z tytułów określonych w art. 12 lub art. 13,
-- **2)** spółkę akcyjną będącą jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy o rachunkowości w stosunku do spółki, od której podatnik uzyskuje świadczenia oraz inne należności z tytułów określonych w art. 12 lub art. 13 podatnik faktycznie obejmuje lub nabywa akcje tej spółki lub akcje spółki w stosunku do niej dominującej, przychód z tego tytułu powstaje w momencie odpłatnego zbycia tych akcji.
+- **2)** spółkę akcyjną będącą jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy o rachunkowości w stosunku do spółki, od której podatnik uzyskuje świadczenia oraz inne należności z tytułów określonych w art. 12 lub art. 13 – podatnik faktycznie obejmuje lub nabywa akcje tej spółki lub akcje spółki w stosunku do niej dominującej, przychód z tego tytułu powstaje w momencie odpłatnego zbycia tych akcji.
 
 11a. Dochodem z odpłatnego zbycia akcji, o których mowa w ust. 11, jest różnica między przychodem uzyskanym z odpłatnego zbycia akcji a kosztami uzyskania przychodu określonymi na podstawie art. 23 ust. 1 pkt 38.
 
 11b. Przez program motywacyjny, o którym mowa w ust. 11, rozumie się system wynagradzania utworzony na podstawie uchwały walnego zgromadzenia przez:
 
 - **1)** spółkę akcyjną, dla osób uzyskujących od niej świadczenia lub inne należności z tytułów określonych w art. 12 lub art. 13, albo
-- **2)** spółkę akcyjną będącą jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy o rachunkowości w stosunku do spółki, od której osoby uprawnione do otrzymania świadczeń w ramach tego systemu wynagradzania uzyskują świadczenia lub inne należności z tytułów określonych w art. 12 lub art. 13 w wyniku którego osoby uprawnione do otrzymania świadczeń w ramach tego systemu wynagradzania bezpośrednio lub w wyniku realizacji praw z pochodnych instrumentów finansowych lub realizacji praw z papierów wartościowych, o których mowa w art. 3 pkt 1 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub realizacji innych praw majątkowych, nabywają prawo do faktycznego objęcia lub nabycia akcji spółki określonej w pkt 1 lub 2.
+- **2)** spółkę akcyjną będącą jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy o rachunkowości w stosunku do spółki, od której osoby uprawnione do otrzymania świadczeń w ramach tego systemu wynagradzania uzyskują świadczenia lub inne należności z tytułów określonych w art. 12 lub art. 13 – w wyniku którego osoby uprawnione do otrzymania świadczeń w ramach tego systemu wynagradzania bezpośrednio lub w wyniku realizacji praw z pochodnych instrumentów finansowych lub realizacji praw z papierów wartościowych, o których mowa w art. 3 pkt 1 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, lub realizacji innych praw majątkowych, nabywają prawo do faktycznego objęcia lub nabycia akcji spółki określonej w pkt 1 lub 2.
 
 12. (uchylony) 12a. Przepisy ust. 11–11b mają zastosowanie do dochodu uzyskanego przez osoby uprawnione z tytułu objęcia lub nabycia akcji spółek akcyjnych, których siedziba lub zarząd znajdują się na terytorium państwa członkowskiego Unii Europejskiej, państwa należącego do Europejskiego Obszaru Gospodarczego lub państwa, z którym Rzeczpospolita Polska zawarła umowę o unikaniu podwójnego opodatkowania.
 
@@ -2783,8 +3020,8 @@ Art. 46–51. (pominięte)
 
 13. Dochód z odpłatnego zbycia papierów wartościowych na rynku regulowanym w ramach krótkiej sprzedaży ustala się na dzień, w którym:
 
-- **1)** zbywca dokonał zwrotu pożyczonych papierów wartościowych lub miał go dokonać zgodnie z zawartą umową pożyczki tych papierów w przypadku gdy na potrzeby dokonania rozrachunku zbywca zawarł taką umowę;
-- **2)** na rachunku papierów wartościowych zbywcy dokonano, na potrzeby dokonania rozrachunku, zapisu papierów wartościowych będących przedmiotem krótkiej sprzedaży, niepóźniej niż na dzień rozrachunku w pozostałych przypadkach.
+- **1)** zbywca dokonał zwrotu pożyczonych papierów wartościowych lub miał go dokonać zgodnie z zawartą umową pożyczki tych papierów – w przypadku gdy na potrzeby dokonania rozrachunku zbywca zawarł taką umowę;
+- **2)** na rachunku papierów wartościowych zbywcy dokonano, na potrzeby dokonania rozrachunku, zapisu papierów wartościowych będących przedmiotem krótkiej sprzedaży, niepóźniej niż na dzień rozrachunku – w pozostałych przypadkach.
 
 14. Dochodem, o którym mowa w ust. 13, uzyskanym w roku podatkowym, jest różnica między sumą przychodów z odpłatnego zbycia papierów wartościowych a wydatkami poniesionymi na zapewnienie dostępności papierów wartościowych na potrzeby dokonania rozrachunku, w tym na nabycie zwróconych papierów wartościowych w przypadku, o którym mowa w ust. 13 pkt 1.
 
@@ -2793,13 +3030,15 @@ Art. 46–51. (pominięte)
 15a. Dochodem z tytułu inwestowania składki ubezpieczeniowej w związku z umową ubezpieczenia na życie lub dożycie, zawartą na podstawie odrębnych przepisów, w której świadczenie zakładu ubezpieczeń z tytułu dożycia jest:
 
 - **1)** ustalane na podstawie określonych indeksów lub innych wartości bazowych albo
-- **2)** równe składce ubezpieczeniowej powiększonej o określony w umowie ubezpieczenia wskaźnik jest różnica między wypłaconą kwotą świadczenia a składką wpłaconą do zakładu ubezpieczeń.
+- **2)** równe składce ubezpieczeniowej powiększonej o określony w umowie ubezpieczenia wskaźnik – jest różnica między wypłaconą kwotą świadczenia a składką wpłaconą do zakładu ubezpieczeń.
 
 15b. Przepis ust. 15a pkt 1 nie ma zastosowania do umów ubezpieczenia zawartych na podstawie odrębnych przepisów, dla których przy ustalaniu wartości rezerwy w dziale ubezpieczeń na życie jest stosowana stopa techniczna, o której mowa w przepisach o rachunkowości zakładów ubezpieczeń.
 
 16. Dochód uzyskany z tytułu zamiany akcji spółki konsolidowanej na akcje spółki konsolidującej lub prawa do ekwiwalentu w spółce konsolidowanej na akcje spółki konsolidującej, dokonywanej na podstawie ustawy z dnia 7 września 2007 r. o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego (Dz. U. z 2021 r. poz. 116) nie podlega opodatkowaniu w momencie zamiany akcji lub prawa do ekwiwalentu na akcje. Dochód, o którym mowa w zdaniu pierwszym, przypadający z zamiany akcji spółki konsolidowanej na zbyte akcje spółki konsolidującej lub zamiany prawa do ekwiwalentu w spółce konsolidowanej na akcje spółki konsolidującej podlega opodatkowaniu w momencie uzyskania dochodu ze zbycia akcji spółki konsolidującej otrzymanych w wyniku zamiany.
 
-17. Dochód z tytułu objęcia udziałów (akcji) w spółce kapitałowej w zamian za wkład niepieniężny w postaci know-how, w związku z realizacją celu Działania 3.1 Programu Operacyjnego Innowacyjna Gospodarka „Inicjowanie działalności innowacyjnej”, ustala się, z zastrzeżeniem ust. 18, na dzień, w którym upływa 5 lat od dnia uzyskania przychodu, o którym mowa w art. 17 ust. 1a, w wysokości określonej według stanu z dnia uzyskania przychodu.
+17. Dochód z tytułu objęcia udziałów (akcji) w spółce kapitałowej w zamian za wkład niepieniężny w postaci know-how, w związku z realizacją celu Działania
+
+3. 1 Programu Operacyjnego Innowacyjna Gospodarka „Inicjowanie działalności innowacyjnej”, ustala się, z zastrzeżeniem ust. 18, na dzień, w którym upływa 5 lat od dnia uzyskania przychodu, o którym mowa w art. 17 ust. 1a, w wysokości określonej według stanu z dnia uzyskania przychodu.
 
 18. W przypadku zbycia lub ustania bytu prawnego udziałów (akcji), o których mowa w ust. 17, przed upływem 5 lat od dnia uzyskania przychodu, o którym mowa w art. 17 ust. 1a, dochód z tytułu objęcia tych udziałów (akcji) ustala się na dzień ich zbycia lub ustania bytu prawnego w wysokości określonej według stanu z dnia uzyskania przychodu.
 
@@ -2817,27 +3056,28 @@ Art. 46–51. (pominięte)
 
 **Art. 24a.**
 
-1. Osoby fizyczne, przedsiębiorstwa w spadku, spółki cywilne osób fizycznych, spółki cywilne osób fizycznych i przedsiębiorstwa w spadku, spółki jawne osób fizycznych oraz spółki partnerskie, wykonujące działalność gospodarczą, są obowiązane prowadzić podatkową księgę przychodów i rozchodów, zwaną dalej „księgą”, z zastrzeżeniem ust. 3, 5 i 5a, albo księgi rachunkowe, zgodnie z odrębnymi przepisami, w sposób zapewniający ustalenie dochodu (straty), podstawy opodatkowania i wysokości należnego podatku za rok podatkowy, w tym za okres sprawozdawczy, a także uwzględniać w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacje niezbędne do obliczenia wysokości odpisów amortyzacyjnych zgodnie z przepisami art. 22a–22o.
+1. Osoby fizyczne, przedsiębiorstwa w spadku, spółki cywilne osób fizycznych, spółki cywilne osób fizycznych i przedsiębiorstwa w spadku, spółki jawne osób fizycznych oraz spółki partnerskie, wykonujące działalność gospodarczą, są obowiązane prowadzić podatkową księgę przychodów i rozchodów, [zwaną dalej „księgą”,] z zastrzeżeniem ust. 3, 5 i 5a, albo księgi rachunkowe, zgodnie z odrębnymi przepisami, w sposób zapewniający ustalenie dochodu (straty), podstawy opodatkowania i wysokości należnego podatku za rok podatkowy, w tym za okres sprawozdawczy, a także uwzględniać w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacje niezbędne do obliczenia wysokości odpisów amortyzacyjnych zgodnie z przepisami art. 22a–22o.
 
-1a. Podatnicy będący przedsiębiorcami żeglugowymi w rozumieniu ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym oraz podatnicy będący przedsiębiorcami okrętowymi w rozumieniu ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, prowadzący działalność opodatkowaną odpowiednio podatkiem tonażowym albo zryczałtowanym podatkiem od wartości sprzedanej produkcji oraz inną działalność opodatkowaną podatkiem dochodowym są obowiązani w prowadzonej księdze albo w prowadzonych księgach rachunkowych, o których mowa w ust. 1, wyodrębnić przychody i związane z nimi koszty na poszczególne rodzaje działalności podlegającej opodatkowaniu odpowiednio podatkiem tonażowym albo zryczałtowanym podatkiem od wartości sprzedanej produkcji i podatkiem dochodowym.
+1a. Podatnicy będący przedsiębiorcami żeglugowymi w rozumieniu ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym oraz podatnicy będący przedsiębiorcami okrętowymi w rozumieniu ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, prowadzący działalność opodatkowaną odpowiednio podatkiem tonażowym albo zryczałtowanym podatkiem od wartości sprzedanej produkcji oraz inną działalność opodatkowaną podatkiem dochodowym są obowiązani [w prowadzonej księdze albo w prowadzonych księgach rachunkowych, o których mowa w ust. 1,] <w podatkowej księdze przychodów i rozchodów albo księgach rachunkowych> wyodrębnić przychody i związane z nimi koszty na poszczególne rodzaje działalności podlegającej opodatkowaniu odpowiednio podatkiem tonażowym albo zryczałtowanym podatkiem od wartości sprzedanej produkcji i podatkiem dochodowym.
 
-1b. Podatnicy prowadzący działalność badawczo-rozwojową, którzy zamierzają skorzystać z odliczenia, o którym mowa w art. 26e, są obowiązani w prowadzonej księdze albo w prowadzonych księgach rachunkowych, o których mowa w ust. 1, wyodrębnić koszty działalności badawczo-rozwojowej.
+1b. Podatnicy prowadzący działalność badawczo-rozwojową, którzy zamierzają skorzystać z odliczenia, o którym mowa w art. 26e, są obowiązani w [prowadzonej księdze albo w prowadzonych księgach rachunkowych, o których mowa w ust. 1,] <w podatkowej księdze przychodów i rozchodów albo księgach rachunkowych> wyodrębnić koszty działalności badawczo-rozwojowej.
 
-1c. Przedsiębiorstwo w spadku jest obowiązane w prowadzonej księdze albo w prowadzonych księgach rachunkowych, o których mowa w ust. 1, dokonać zapisów dotyczących zdarzeń gospodarczych zaistniałych od otwarcia spadku do dnia dokonania zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a jeżeli zgłoszenia nie dokonano do dnia ustanowienia zarządu sukcesyjnego.
+1c. Przedsiębiorstwo w spadku jest obowiązane [w prowadzonej księdze albo w prowadzonych księgach rachunkowych, o których mowa w ust. 1,] <w podatkowej księdze przychodów i rozchodów albo księgach rachunkowych> dokonać zapisów dotyczących zdarzeń gospodarczych zaistniałych od otwarcia spadku do dnia dokonania zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a jeżeli zgłoszenia nie dokonano – do dnia ustanowienia zarządu sukcesyjnego.
 
-1d. W przypadku prowadzenia przez zmarłego przedsiębiorcę ewidencji środków trwałych oraz wartości niematerialnych i prawnych, o której mowa w art. 22n, przedsiębiorstwo w spadku kontynuuje prowadzenie tej ewidencji. 1da. Podatnicy są obowiązani prowadzić ewidencję faktur dokumentujących przychody rozliczane metodą kasową, o której mowa w art. 14c. Ewidencja ta zawiera datę wystawienia faktury, numer faktury, kwotę należności wynikającą z faktury oraz datę uregulowania należności. 1db. Przedsiębiorstwo w spadku kontynuuje po zmarłym przedsiębiorcy prowadzenie ewidencji faktur, o której mowa w ust. 1da.
+1d. W przypadku prowadzenia przez zmarłego przedsiębiorcę ewidencji środków trwałych oraz wartości niematerialnych i prawnych, o której mowa w art. 22n, przedsiębiorstwo w spadku kontynuuje prowadzenie tej ewidencji. 1da. Podatnicy są obowiązani prowadzić ewidencję faktur dokumentujących przychody rozliczane metodą kasową, o której mowa w art. 14c. Ewidencja ta zawiera datę wystawienia faktury, numer faktury, kwotę należności wynikającą z faktury oraz datę uregulowania należności. 1db. Przedsiębiorstwo w spadku kontynuuje po zmarłym przedsiębiorcy prowadzenie ewidencji faktur, o której mowa w ust. 1da. [1e. Podmioty, o których mowa w ust. 1 i ust. 2 pkt 2 oraz art. 15 ust. 2, prowadzące księgę, księgi rachunkowe lub ewidencję środków trwałych oraz wartości niematerialnych i prawnych są obowiązane prowadzić te księgi i ewidencję przy użyciu programów komputerowych oraz przesyłać właściwemu naczelnikowi urzędu skarbowego te księgi i ewidencję po zakończeniu roku podatkowego w terminie do dnia upływu terminu złożenia zeznania, o którym mowa w art. 45 ust. 1, za pomocą środków komunikacji elektronicznej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 Ordynacji podatkowej, na zasadach dotyczących przesyłania ksiąg podatkowych lub ich części określonych w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej.] <1e. Podmioty, o których mowa w ust. 1 i ust. 2 pkt 2 oraz art. 15 ust. 2, prowadzące podatkową księgę przychodów i rozchodów, księgi rachunkowe lub ewidencję środków trwałych oraz wartości niematerialnych i prawnych są obowiązane prowadzić te księgi i tę ewidencję przy użyciu programów komputerowych oraz przesyłać je właściwemu naczelnikowi urzędu skarbowego po zakończeniu roku podatkowego w terminie:
 
-1e. Podmioty, o których mowa w ust. 1 i ust. 2 pkt 2 oraz art. 15 ust. 2, prowadzące księgę, księgi rachunkowe lub ewidencję środków trwałych oraz wartości niematerialnych i prawnych są obowiązane prowadzić te księgi i ewidencję przy użyciu programów komputerowych oraz przesyłać właściwemu naczelnikowi urzędu skarbowego te księgi i ewidencję po zakończeniu roku podatkowego w terminie do dnia upływu terminu złożenia zeznania, o którym mowa w art. 45 ust. 1, za pomocą środków komunikacji elektronicznej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 Ordynacji podatkowej, na zasadach dotyczących przesyłania ksiąg podatkowych lub ich części określonych w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej.
+- **1)** do dnia upływu terminu złożenia zeznania, o którym mowa w art. 45 ust. 1 – w przypadku podatkowej księgi przychodów i rozchodów oraz ewidencji środków trwałych oraz wartości niematerialnych i prawnych,
+- **2)** do dnia 31 lipca – w przypadku ksiąg rachunkowych – za pomocą środków komunikacji elektronicznej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 Ordynacji podatkowej, na zasadach dotyczących przesyłania ksiąg podatkowych lub ich części określonych w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej.> 1f. W przypadku spółki niebędącej osobą prawną [księga] <podatkowa księga przychodów i rozchodów>, księgi rachunkowe lub ewidencja środków trwałych oraz wartości niematerialnych i prawnych są przesyłane naczelnikowi urzędu skarbowego właściwemu według miejsca prowadzenia działalności, a w przypadku prowadzenia działalności w więcej niż jednym miejscu – naczelnikowi urzędu skarbowego właściwemu według miejsca siedziby. W przypadku gdy nie jest możliwe ustalenie właściwości naczelnika urzędu skarbowego na podstawie zdania pierwszego, właściwość tę ustala się według miejsca zamieszkania jednego ze wspólników.
 
-1f. W przypadku spółki niebędącej osobą prawną księga, księgi rachunkowe lub ewidencja środków trwałych oraz wartości niematerialnych i prawnych są przesyłane naczelnikowi urzędu skarbowego właściwemu według miejsca prowadzenia działalności, a w przypadku prowadzenia działalności w więcej niż jednym miejscu naczelnikowi urzędu skarbowego właściwemu według miejsca siedziby. W przypadku gdy nie jest możliwe ustalenie właściwości naczelnika urzędu skarbowego na podstawie zdania pierwszego, właściwość tę ustala się według miejsca zamieszkania jednego ze wspólników.
+1g. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a Ordynacji podatkowej obejmuje również upoważnienie do podpisywania podatkowej księgi przychodów i rozchodów, ksiąg rachunkowych i ewidencji środków trwałych oraz wartości niematerialnych i prawnych, przesyłanych na podstawie ust. 1e.
 
-2. Obowiązek prowadzenia księgi dotyczy również osób:
+2. Obowiązek prowadzenia [księgi] <podatkowej księgi przychodów i rozchodów> dotyczy również osób:
 
 - **1)** wykonujących działalność na podstawie umów agencyjnych i umów na warunkach zlecenia, zawartych na podstawie odrębnych przepisów;
-- **2)** prowadzących działy specjalne produkcji rolnej, jeżeli osoby te zgłosiły zamiar prowadzenia tych ksiąg;
+- **2)** prowadzących działy specjalne produkcji rolnej, jeżeli osoby te zgłosiły zamiar prowadzenia [tych ksiąg] <tej księgi>;
 - **3)** duchownych, które zrzekły się opłacania zryczałtowanego podatku dochodowego.
 
-3. Obowiązek prowadzenia księgi nie dotyczy osób, które:
+3. Obowiązek prowadzenia [księgi] <podatkowej księgi przychodów i rozchodów> nie dotyczy osób, które:
 
 - **1)** opłacają podatek dochodowy w formach zryczałtowanych;
 - **2)** wykonują wyłącznie usługi przewozu osób i towarów taborem konnym;
@@ -2868,12 +3108,9 @@ Art. 46–51. (pominięte)
 
 6. Wyrażone w euro wielkości, o których mowa w ust. 4, 4b, 4c, 4e, 4f i 5, przelicza się na walutę polską według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy października roku poprzedzającego rok podatkowy.
 
-7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki, jakim powinna odpowiadać podatkowa księga przychodów i rozchodów, oraz szczegółowy zakres obowiązków związanych z jej prowadzeniem, w celu umożliwienia wykorzystania tej księgi jako dowodu pozwalającego na określenie zobowiązań podatkowych w prawidłowej wysokości.
+7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki, jakim powinna odpowiadać podatkowa księga przychodów i rozchodów, oraz szczegółowy zakres obowiązków związanych z jej prowadzeniem, w celu umożliwienia wykorzystania tej księgi jako dowodu pozwalającego na określenie zobowiązań podatkowych w prawidłowej wysokości. 8. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia: [1) zakres dodatkowych danych, o które należy uzupełnić prowadzone księgi i ewidencję podlegające przekazaniu na podstawie ust. 1e, oraz sposób ich wykazywania w tych księgach i ewidencji,] <1) zakres dodatkowych danych, o które należy uzupełnić podatkową księgę przychodów i rozchodów, księgi rachunkowe lub ewidencję środków trwałych oraz wartości niematerialnych i prawnych podlegające przesyłaniu na podstawie ust. 1e, oraz sposób ich wykazywania w tych księgach i tej ewidencji,> [2) grupy podmiotów zwolnionych z obowiązku prowadzenia księgi, ksiąg rachunkowych i ewidencji środków trwałych oraz wartości niematerialnych i prawnych przy użyciu programów komputerowych lub przesyłania księgi, ksiąg rachunkowych w całości albo części lub ewidencji środków trwałych oraz wartości niematerialnych i prawnych na podstawie ust. 1e]
 
-8. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:
-
-- **1)** zakres dodatkowych danych, o które należy uzupełnić prowadzone księgi i ewidencję podlegające przekazaniu na podstawie ust. 1e, oraz sposób ich wykazywania w tych księgach i ewidencji,
-- **2)** grupy podmiotów zwolnionych z obowiązku prowadzenia księgi, ksiąg rachunkowych i ewidencji środków trwałych oraz wartości niematerialnych i prawnych przy użyciu programów komputerowych lub przesyłania księgi, ksiąg rachunkowych w całości albo części lub ewidencji środków trwałych oraz wartości niematerialnych i prawnych na podstawie ust. 1e uwzględniając konieczność zapewnienia prawidłowości rozliczeń podatników oraz kontroli obowiązków podatników przez organ podatkowy, identyfikowania obszarów, w których występują nadużycia w podatku, lub narażonych na te nadużycia oraz możliwości techniczno-organizacyjne prowadzenia przez podatników ksiąg i ewidencji.
+- **2)** grupy podmiotów zwolnionych z obowiązku prowadzenia podatkowej księgi przychodów i rozchodów, ksiąg rachunkowych lub ewidencji środków trwałych oraz wartości niematerialnych i prawnych przy użyciu programów komputerowych lub przesyłania podatkowej księgi przychodów i rozchodów, ksiąg rachunkowych w całości albo części lub ewidencji środków trwałych oraz wartości niematerialnych i prawnych, na podstawie ust. 1e – uwzględniając konieczność zapewnienia prawidłowości rozliczeń podatników oraz kontroli obowiązków podatników przez organ podatkowy, identyfikowania obszarów, w których występują nadużycia w podatku, lub narażonych na te nadużycia oraz możliwości techniczno-organizacyjne prowadzenia przez podatników ksiąg i ewidencji.
 
 **Art. 24b.**
 
@@ -2881,15 +3118,17 @@ Art. 46–51. (pominięte)
 
 2. W przypadku podatników niebędących podatnikami, o których mowa w art. 3 ust. 1 i 3, obowiązanych do prowadzenia ksiąg wymienionych w art. 24a, gdy określenie dochodu na podstawie tych ksiąg nie jest możliwe, dochód określa się w drodze oszacowania, z zastosowaniem wskaźnika dochodu w stosunku do przychodu w wysokości:
 
-- **1)** 5 % z działalności w zakresie handlu hurtowego lub detalicznego;
-- **2)** 10 % z działalności budowlanej lub montażowej albo w zakresie usług transportowych;
-- **3)** 60 % z działalności w zakresie pośrednictwa, jeżeli wynagrodzenie jest określone w formie prowizji;
-- **4)** 80 % z działalności w zakresie usług adwokackich lub rzeczoznawstwa;
-- **5)** 20 % z pozostałych źródeł przychodów.
+- **1)** 5 % – z działalności w zakresie handlu hurtowego lub detalicznego;
+- **2)** 10 % – z działalności budowlanej lub montażowej albo w zakresie usług transportowych;
+- **3)** 60 % – z działalności w zakresie pośrednictwa, jeżeli wynagrodzenie jest określone w formie prowizji;
+- **4)** 80 % – z działalności w zakresie usług adwokackich lub rzeczoznawstwa;
+- **5)** 20 % – z pozostałych źródeł przychodów.
 
 3. Przez działalność w zakresie handlu hurtowego lub detalicznego, o której mowa w ust. 2 pkt 1, wykonywaną na terytorium Rzeczypospolitej Polskiej przez podatników niebędących podatnikami, o których mowa w art. 3 ust. 1 i 3, rozumie się odpłatne zbycie towarów polskim odbiorcom bez względu na miejsce zawarcia umowy.
 
-4. Przepisów ust. 2 i 3 nie stosuje się, jeżeli umowa w sprawie zapobieżenia podwójnemu opodatkowaniu, której Rzeczpospolita Polska jest stroną, zawarta z krajem, na terytorium którego podatnik ma siedzibę lub miejsce zamieszkania, stanowi inaczej. Art. 24ba. Podatnicy obowiązani do prowadzenia ksiąg rachunkowych lub ewidencji środków trwałych oraz wartości niematerialnych i prawnych albo wykazu środków trwałych oraz wartości niematerialnych i prawnych, którzy przenoszą poza terytorium Rzeczypospolitej Polskiej składniki majątku, o których mowa w art. 30da ust. 2 i art. 30dh ust. 3, są obowiązani wyodrębnić te składniki w prowadzonych księgach, ewidencji lub wykazie.
+4. Przepisów ust. 2 i 3 nie stosuje się, jeżeli umowa w sprawie zapobieżenia podwójnemu opodatkowaniu, której Rzeczpospolita Polska jest stroną, zawarta z krajem, na terytorium którego podatnik ma siedzibę lub miejsce zamieszkania, stanowi inaczej.
+
+**Art. 24ba.** Podatnicy obowiązani do prowadzenia ksiąg rachunkowych lub ewidencji środków trwałych oraz wartości niematerialnych i prawnych albo wykazu środków trwałych oraz wartości niematerialnych i prawnych, którzy przenoszą poza terytorium Rzeczypospolitej Polskiej składniki majątku, o których mowa w art. 30da ust. 2 i art. 30dh ust. 3, są obowiązani wyodrębnić te składniki w prowadzonych księgach, ewidencji lub wykazie.
 
 **Art. 24c.**
 
@@ -2950,7 +3189,7 @@ Art. 46–51. (pominięte)
 1. Za przychody, o których mowa w art. 20 ust. 1b, uważa się przychody:
 
 - **1)** nieznajdujące pokrycia w ujawnionych źródłach obejmujące przychody ze źródeł wskazanych przez podatnika, ujawnione w nieprawidłowej wysokości,
-- **2)** ze źródeł nieujawnionych obejmujące przychody ze źródeł niewskazanych przez podatnika i nieustalonych przez organ podatkowy w kwocie odpowiadającej nadwyżce wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi, uzyskanymi przed poniesieniem tego wydatku.
+- **2)** ze źródeł nieujawnionych obejmujące przychody ze źródeł niewskazanych przez podatnika i nieustalonych przez organ podatkowy – w kwocie odpowiadającej nadwyżce wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi, uzyskanymi przed poniesieniem tego wydatku.
 
 2. Za wydatek uznaje się wartość zgromadzonego w roku podatkowym mienia lub wysokość wydatkowanych w roku podatkowym środków, w przypadku gdy nie jest możliwe ustalenie roku podatkowego, w którym zgromadzono te środki.
 
@@ -3007,7 +3246,7 @@ Art. 46–51. (pominięte)
 - **1)** (uchylony)
 - **2)** składek określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych:
     - **a)** zapłaconych w roku podatkowym bezpośrednio na własne ubezpieczenia emerytalne, rentowe, chorobowe oraz wypadkowe podatnika oraz osób z nim współpracujących,
-    - **b)** potrąconych w roku podatkowym przez płatnika ze środków podatnika, z tym że w przypadku podatnika osiągającego przychody określone w art. 12 ust. 6, tylko w części obliczonej, w sposób określony w art. 33 ust. 4, od przychodu podlegającego opodatkowaniu odliczenie nie dotyczy składek, których podstawę wymiaru stanowi dochód (przychód) zwolniony od podatku na podstawie ustawy, oraz składek, których podstawę wymiaru stanowi dochód, od którego na podstawie przepisów Ordynacji podatkowej zaniechano poboru podatku;
+    - **b)** potrąconych w roku podatkowym przez płatnika ze środków podatnika, z tym że w przypadku podatnika osiągającego przychody określone w art. 12 ust. 6, tylko w części obliczonej, w sposób określony w art. 33 ust. 4, od przychodu podlegającego opodatkowaniu – odliczenie nie dotyczy składek, których podstawę wymiaru stanowi dochód (przychód) zwolniony od podatku na podstawie ustawy, oraz składek, których podstawę wymiaru stanowi dochód, od którego na podstawie przepisów Ordynacji podatkowej zaniechano poboru podatku;
 
 - **2a)** składek zapłaconych w roku podatkowym ze środków podatnika na obowiązkowe ubezpieczenie społeczne podatnika lub osób z nim współpracujących, zgodnie z przepisami dotyczącymi obowiązkowego ubezpieczenia społecznego obowiązującymi w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego lub w Konfederacji Szwajcarskiej, z zastrzeżeniem ust. 13a–13c; 2aa) (uchylony) 2b) wpłat na indywidualne konto zabezpieczenia emerytalnego dokonanych przez podatnika w roku podatkowym, do wysokości określonej w przepisach o indywidualnych kontach zabezpieczenia emerytalnego;
 - **2c)** składek członkowskich zapłaconych na rzecz związków zawodowych, w wysokości nieprzekraczającej w roku podatkowym kwoty 840 zł;
@@ -3018,12 +3257,12 @@ Art. 46–51. (pominięte)
 - **6a)** wydatków ponoszonych przez podatnika z tytułu użytkowania sieci Internet, w wysokości nieprzekraczającej w roku podatkowym kwoty 760 zł;
 - **7)** (uchylony)
 - **8)** (uchylony)
-- **9)** darowizn przekazanych na cele: o publicznej służbie krwi, w wysokości iloczynu kwoty rekompensaty określonej przepisami wydanymi na podstawie art. 11 ust. 2 tej ustawy i litrów oddanej krwi lub jej składników,
+- **9)** darowizn przekazanych na cele: poz. 578) – w wysokości dokonanej darowizny, niewięcej jednak niż kwoty stanowiącej 6 % dochodu.
     - **a)** określone w art. 4 ustawy o działalności pożytku publicznego, organizacjom, o których mowa w art. 3 ust. 2 i 3 tej ustawy, lub równoważnym organizacjom określonym w przepisach regulujących działalność pożytku publicznego obowiązujących w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, realizującym te cele, z zastrzeżeniem ust. 6e,
     - **b)** kultu religijnego,
-    - **c)** krwiodawstwa realizowanego przez honorowych dawców krwi na podstawie ustawy z dnia 22 sierpnia 1997 r.
-    - **d)** kształcenia zawodowego publicznym szkołom prowadzącym kształcenie zawodowe, o których mowa w art. 4 pkt 28a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe, oraz publicznym placówkom i centrom, o których mowa w art. 2 pkt 4 tej ustawy,
-    - **e)** określone w art. 7 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. z 2024 r. poz. 578) w wysokości dokonanej darowizny, niewięcej jednak niż kwoty stanowiącej 6 % dochodu.
+    - **c)** krwiodawstwa realizowanego przez honorowych dawców krwi na podstawie ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi, w wysokości iloczynu kwoty rekompensaty określonej przepisami wydanymi na podstawie art. 11 ust. 2 tej ustawy i litrów oddanej krwi lub jej składników,
+    - **d)** kształcenia zawodowego publicznym szkołom prowadzącym kształcenie zawodowe, o których mowa w art. 4 pkt 28a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, oraz publicznym placówkom i centrom, o których mowa w art. 2 pkt 4 tej ustawy,
+    - **e)** określone w art. 7 ust. 1 ustawy z dnia 11 sierpnia 2021 r. o przygotowaniu i realizacji inwestycji w zakresie odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ulicy Królewskiej w Warszawie (Dz. U. z 2024 r.
 
 - **10)** (uchylony)
 
@@ -3059,11 +3298,11 @@ Art. 46–51. (pominięte)
 
 7. Wysokość wydatków na cele określone w ust. 1, z zastrzeżeniem ust. 7c, ustala się na podstawie:
 
-- **1)** dowodu wpłaty na rachunek płatniczy obdarowanego lub jego rachunek w banku, inny niż rachunek płatniczy w przypadku darowizny pieniężnej;
-- **2)** dowodu, z którego wynikają dane identyfikujące darczyńcę oraz wartość przekazanej darowizny wraz z oświadczeniem obdarowanego o jej przyjęciu w przypadku darowizny innej niż pieniężna lub innej niż określona w ust. 1 pkt 9 lit. c;
+- **1)** dowodu wpłaty na rachunek płatniczy obdarowanego lub jego rachunek w banku, inny niż rachunek płatniczy – w przypadku darowizny pieniężnej;
+- **2)** dowodu, z którego wynikają dane identyfikujące darczyńcę oraz wartość przekazanej darowizny wraz z oświadczeniem obdarowanego o jej przyjęciu – w przypadku darowizny innej niż pieniężna lub innej niż określona w ust. 1 pkt 9 lit. c;
 - **3)** zaświadczenia jednostki organizacyjnej realizującej zadania w zakresie pobierania krwi o ilości bezpłatnie oddanej krwi lub jej składników przez krwiodawcę;
-- **4)** dokumentu stwierdzającego ich poniesienie, zawierającego w szczególności: dane identyfikujące kupującego (odbiorcę usługi lub towaru) i sprzedającego (towar lub usługę), rodzaj zakupionego towaru lub usługi oraz kwotę zapłaty w przypadkach innych niż wymienione w pkt 1–3;
-- **5)** dowodu wpłaty składek członkowskich na rzecz związku zawodowego, z którego wynikają co najmniej: dane identyfikujące członka związku zawodowego dokonującego wpłaty, nazwa organizacji związkowej, na rzecz której dokonano wpłaty, tytuł i data wpłaty oraz kwota wpłaconych składek, a w przypadku składek potrącanych przez pracodawcę na podstawie informacji, o której mowa w art. 39 ust. 1.
+- **4)** dokumentu stwierdzającego ich poniesienie, zawierającego w szczególności: dane identyfikujące kupującego (odbiorcę usługi lub towaru) i sprzedającego (towar lub usługę), rodzaj zakupionego towaru lub usługi oraz kwotę zapłaty – w przypadkach innych niż wymienione w pkt 1–3;
+- **5)** dowodu wpłaty składek członkowskich na rzecz związku zawodowego, z którego wynikają co najmniej: dane identyfikujące członka związku zawodowego dokonującego wpłaty, nazwa organizacji związkowej, na rzecz której dokonano wpłaty, tytuł i data wpłaty oraz kwota wpłaconych składek, a w przypadku składek potrącanych przez pracodawcę – na podstawie informacji, o której mowa w art. 39 ust. 1.
 
 7a. Za wydatki, o których mowa w ust. 1 pkt 6, uważa się wydatki poniesione na:
 
@@ -3081,16 +3320,13 @@ Art. 46–51. (pominięte)
 - **8)** utrzymanie psa asystującego, o którym mowa w ustawie o rehabilitacji zawodowej, w kwocie nieprzekraczającej w roku podatkowym 2280 zł;
 - **9)** opiekę pielęgniarską w domu nad osobą niepełnosprawną w okresie przewlekłej choroby uniemożliwiającej poruszanie się oraz usługi opiekuńcze świadczone dla osób niepełnosprawnych zaliczonych do I grupy inwalidztwa;
 - **10)** opłacenie tłumacza języka migowego;
-- **11)** kolonie i obozy dla dzieci i młodzieży niepełnosprawnej oraz dzieci osób niepełnosprawnych, które nie ukończyły
-
-25. roku życia;
-
-- **12)** leki, o których mowa w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924 i 1416, 1537 i 1795) w wysokości stanowiącej różnicę pomiędzy faktycznie poniesionymi wydatkami w danym miesiącu a kwotą 100 zł, jeżeli lekarz specjalista stwierdzi, że osoba niepełnosprawna powinna stosować stale lub czasowo te leki;
+- **11)** kolonie i obozy dla dzieci i młodzieży niepełnosprawnej oraz dzieci osób niepełnosprawnych, które nie ukończyły 25. roku życia;
+- **12)** leki, o których mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924 i 1416, 1537 i 1795) – w wysokości stanowiącej różnicę pomiędzy faktycznie poniesionymi wydatkami w danym miesiącu a kwotą 100 zł, jeżeli lekarz specjalista stwierdzi, że osoba niepełnosprawna powinna stosować stale lub czasowo te leki;
 - **13)** odpłatny przewóz:
-    - **a)** osoby niepełnosprawnej karetką transportu sanitarnego,
-    - **b)** osoby niepełnosprawnej, zaliczonej do I lub II grupy inwalidztwa, oraz dzieci niepełnosprawnych do lat 16 również innymi środkami transportu niż wymienione w lit. a;
+    - **a)** osoby niepełnosprawnej – karetką transportu sanitarnego,
+    - **b)** osoby niepełnosprawnej, zaliczonej do I lub II grupy inwalidztwa, oraz dzieci niepełnosprawnych do lat 16 – również innymi środkami transportu niż wymienione w lit. a;
 
-- **14)** używanie samochodu osobowego, stanowiącego własność (współwłasność) osoby niepełnosprawnej lub podatnika mającego na utrzymaniu osobę niepełnosprawną albo dziecko niepełnosprawne, które nie ukończyło 16. roku życia w wysokości nieprzekraczającej w roku podatkowym kwoty 2280 zł;
+- **14)** używanie samochodu osobowego, stanowiącego własność (współwłasność) osoby niepełnosprawnej lub podatnika mającego na utrzymaniu osobę niepełnosprawną albo dziecko niepełnosprawne, które nie ukończyło 16. roku życia – w wysokości nieprzekraczającej w roku podatkowym kwoty 2280 zł;
 - **15)** odpłatne przejazdy środkami transportu publicznego związane z pobytem:
     - **a)** na turnusie rehabilitacyjnym,
     - **b)** w zakładach, o których mowa w pkt 6,
@@ -3108,15 +3344,15 @@ Art. 46–51. (pominięte)
 - **2)** decyzji przyznającej rentę z tytułu całkowitej lub częściowej niezdolności do pracy, rentę szkoleniową albo rentę socjalną, albo
 - **3)** orzeczenia o niepełnosprawności osoby, która nie ukończyła 16 roku życia, wydanego na podstawie odrębnych przepisów.
 
-7e. Przepisy ust. 7a–7d i 7g stosuje się odpowiednio do podatników, na których utrzymaniu w roku podatkowym pozostają następujące osoby niepełnosprawne: osoba będąca w stosunku do podatnika lub jego małżonka osobą zaliczoną do I grupy podatkowej w rozumieniu przepisów ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn lub dziecko obce przyjęte na wychowanie przez podatnika lub jego małżonka, pod warunkiem że uzyskane w roku podatkowym dochody tych osób niepełnosprawnych nie przekraczają dwunastokrotności kwoty renty socjalnej określonej w ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej, w wysokości obowiązującej w grudniu roku podatkowego. Do dochodów, o których mowa w zdaniu pierwszym, nie zalicza się alimentów na rzecz dzieci, o których mowa w art. 6 ust. 4c, z uwzględnieniem art. 6 ust. 4e, świadczenia uzupełniającego, o którym mowa w art. 21 ust. 1 pkt 100a, dodatku energetycznego, o którym mowa w art. 5c ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, dodatku osłonowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2026 r. poz. 77), dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2024 r. poz. 1207), dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatku dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o których mowa w art. 1 pkt 2 i 3 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2024 r. poz. 1509 oraz z 2025 r. poz. 290 i 759), dodatku elektrycznego, o którym mowa w art. 27 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288 i 1831 oraz z 2025 r. poz. 565 i 1812), refundacji kwoty odpowiadającej podatkowi VAT, o której mowa w art. 18 ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu (Dz. U. z 2025 r. poz. 204), bonu energetycznego, o którym mowa w art. 2 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. z 2026 r. poz. 21), bonu ciepłowniczego, o którym mowa w ustawie z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej (Dz. U. poz. 1302 oraz z 2026 r. poz. 32), oraz przyznanych na podstawie odrębnych przepisów zasiłku pielęgnacyjnego, dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kolejnego dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów.
+7e. Przepisy ust. 7a–7d i 7g stosuje się odpowiednio do podatników, na których utrzymaniu w roku podatkowym pozostają następujące osoby niepełnosprawne: osoba będąca w stosunku do podatnika lub jego małżonka osobą zaliczoną do I grupy podatkowej w rozumieniu przepisów ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn lub dziecko obce przyjęte na wychowanie przez podatnika lub jego małżonka, pod warunkiem że uzyskane w roku podatkowym dochody tych osób niepełnosprawnych nie przekraczają dwunastokrotności kwoty renty socjalnej określonej w ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej, w wysokości obowiązującej w grudniu roku podatkowego. Do dochodów, o których mowa w zdaniu pierwszym, nie zalicza się alimentów na rzecz dzieci, o których mowa w art. 6 ust. 4c, z uwzględnieniem art. 6 ust. 4e, świadczenia uzupełniającego, o którym mowa w art. 21 ust. 1 pkt 100a, dodatku energetycznego, o którym mowa w art. 5c ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, dodatku osłonowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2026 r. poz. 77), dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2024 r. poz. 1207), dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatku dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o których mowa w art. 1 pkt 2 i 3 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2024 r. poz. 1509 oraz z 2025 r. poz. 290 i 759), dodatku elektrycznego, o którym mowa w art. 27 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. z 2024 r. poz. 1288 i 1831 oraz z 2025 r. poz. 565 i 1812), refundacji kwoty odpowiadającej podatkowi VAT, o której mowa w art. 18 ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu (Dz. U. z 2025 r. poz. 204), bonu energetycznego, o którym mowa w art. 2 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. z 2026 r. poz. 21), bonu ciepłowniczego, o którym mowa w ustawie z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej (Dz. U. poz. 1302 oraz z 2026 r. poz. 32), oraz przyznanych na podstawie odrębnych przepisów zasiłku pielęgnacyjnego, dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów oraz kolejnego dodatkowego rocznego świadczenia pieniężnego dla emerytów i rencistów.
 
 7f. Ilekroć w przepisach ust. 7a jest mowa o osobach zaliczonych do:
 
-- **1)** I grupy inwalidztwa należy przez to rozumieć odpowiednio osoby, w stosunku do których, na podstawie odrębnych przepisów, orzeczono:
+- **1)** I grupy inwalidztwa – należy przez to rozumieć odpowiednio osoby, w stosunku do których, na podstawie odrębnych przepisów, orzeczono:
     - **a)** całkowitą niezdolność do pracy oraz niezdolność do samodzielnej egzystencji albo aa) niezdolność do samodzielnej egzystencji, albo
     - **b)** znaczny stopień niepełnosprawności;
 
-- **2)** II grupy inwalidztwa należy przez to rozumieć odpowiednio osoby, w stosunku do których, na podstawie odrębnych przepisów, orzeczono:
+- **2)** II grupy inwalidztwa – należy przez to rozumieć odpowiednio osoby, w stosunku do których, na podstawie odrębnych przepisów, orzeczono:
     - **a)** całkowitą niezdolność do pracy albo
     - **b)** umiarkowany stopień niepełnosprawności.
 
@@ -3165,7 +3401,7 @@ Art. 46–51. (pominięte)
 - **1a)** poniesione w danym miesiącu należności z tytułów, o których mowa w art. 13 pkt 8 lit. a i c, oraz sfinansowane przez płatnika składki z tytułu tych należności określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w takiej części, w jakiej czas przeznaczony na wykonanie usługi w zakresie działalności badawczo-rozwojowej pozostaje w całości czasu przeznaczonego na wykonanie usługi na podstawie umowy zlecenia lub umowy o dzieło w danym miesiącu;
 - **2)** nabycie materiałów i surowców bezpośrednio związanych z prowadzoną działalnością badawczo-rozwojową;
 - **2a)** nabycie niebędącego środkami trwałymi sprzętu specjalistycznego wykorzystywanego bezpośrednio w prowadzonej działalności badawczo-rozwojowej, w szczególności naczyń i przyborów laboratoryjnych oraz urządzeń pomiarowych;
-- **3)** ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, a także nabycie od takiego podmiotu wyników prowadzonych przez niego badań naukowych, na potrzeby działalności badawczo-rozwojowej;
+- **3)** ekspertyzy, opinie, usługi doradcze i usługi równorzędne, świadczone lub wykonywane na podstawie umowy przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, a także nabycie od takiego podmiotu wyników prowadzonych przez niego badań naukowych, na potrzeby działalności badawczo-rozwojowej;
 - **4)** odpłatne korzystanie z aparatury naukowo-badawczej wykorzystywanej wyłącznie w prowadzonej działalności badawczo-rozwojowej, jeżeli to korzystanie nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 23m ust. 1 pkt 4;
 - **4a)** nabycie usługi wykorzystania aparatury naukowo-badawczej wyłącznie na potrzeby prowadzonej działalności badawczo-rozwojowej, jeżeli zakup usługi nie wynika z umowy zawartej z podmiotem powiązanym z podatnikiem w rozumieniu art. 23m ust. 1 pkt 4;
 - **5)** koszty uzyskania i utrzymania patentu, prawa ochronnego na wzór użytkowy, prawa z rejestracji wzoru przemysłowego, poniesione na:
@@ -3187,7 +3423,7 @@ Art. 46–51. (pominięte)
 
 3c. Wysokość kosztów kwalifikowanych, o których mowa w ust. 3a, nie może przekroczyć 10 % przychodów podatnika, o którym mowa w ust. 3a, osiągniętych w roku podatkowym ze źródła określonego w art. 10 ust. 1 pkt 3.
 
-3d. W przypadku podatników, o których mowa w ust. 3a, będących mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 100 % kosztów wskazanych w ust. 2 pkt 2–5, ust. 2a i 3, natomiast w przypadku pozostałych podatników, o których mowa w ust. 3a, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 100 % kosztów wskazanych w ust. 2 pkt 2–4a, ust. 2a i 3:
+3d. W przypadku podatników, o których mowa w ust. 3a, będących mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 100 % kosztów wskazanych w ust. 2 pkt 2–5, ust. 2a i 3, natomiast w przypadku pozostałych podatników, o których mowa w ust. 3a, odliczenie kosztów kwalifikowanych wskazanych w ust. 3a oraz 100 % kosztów wskazanych w ust. 2 pkt 2–4a, ust. 2a i 3:
 
 - **1)** jest dokonywane zgodnie z art. 5 ust. 1 rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 651/2014”, w formie i na warunkach, o których mowa w art. 5 ust. 2 lit. d rozporządzenia nr 651/2014;
 - **2)** stanowi pomoc, o której mowa w art. 25 lub art. 28 rozporządzenia nr 651/2014;
@@ -3195,18 +3431,18 @@ Art. 46–51. (pominięte)
 
 3e. W przypadku podatników, o których mowa w ust. 3a, odliczenie:
 
-- **1)** kosztów wskazanych w ust. 3a oraz 100 % kosztów wskazanych w ust. 2 pkt 2–4a i ust. 2a i 3 w przypadku, o którym mowa w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014,
-- **2)** 100 % kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014 stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
+- **1)** kosztów wskazanych w ust. 3a oraz 100 % kosztów wskazanych w ust. 2 pkt 2– 4a i ust. 2a i 3 w przypadku, o którym mowa w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014,
+- **2)** 100 % kosztów wskazanych w ust. 2 pkt 5, dokonane przez podatnika będącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, w przypadku, o którym mowa w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014 – stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej, która może być udzielona po zatwierdzeniu przez Komisję Europejską.
 
 3f. W przypadku podatników, o których mowa w ust. 3a, kwota, o którą został pomniejszony w roku podatkowym podatek dochodowy z tytułu odliczenia:
 
-- **1)** kosztów wskazanych w ust. 3a oraz 100 % kosztów wskazanych w ust. 2 pkt 2–4a, ust. 2a i 3, nie może przekroczyć dwukrotności kwot wymienionych w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014;
+- **1)** kosztów wskazanych w ust. 3a oraz 100 % kosztów wskazanych w ust. 2 pkt 2– 4a, ust. 2a i 3, nie może przekroczyć dwukrotności kwot wymienionych w art. 4 ust. 1 lit. i rozporządzenia nr 651/2014;
 - **2)** 100 % kosztów wskazanych w ust. 2 pkt 5, nie może przekroczyć dwukrotności kwoty wymienionej w art. 4 ust. 1 lit. l rozporządzenia nr 651/2014.
 
 3g. Intensywność pomocy publicznej nie może przekroczyć wartości określonych w:
 
-- **1)** art. 25 ust. 5–7 rozporządzenia nr 651/2014 w przypadku pomocy, o której mowa w ust. 3e pkt 1;
-- **2)** art. 28 ust. 3 i 4 rozporządzenia nr 651/2014 w przypadku pomocy, o której mowa w ust. 3e pkt 2.
+- **1)** art. 25 ust. 5–7 rozporządzenia nr 651/2014 – w przypadku pomocy, o której mowa w ust. 3e pkt 1;
+- **2)** art. 28 ust. 3 i 4 rozporządzenia nr 651/2014 – w przypadku pomocy, o której mowa w ust. 3e pkt 2.
 
 3h. Podatnik, o którym mowa w ust. 3a, nie może dokonywać odliczeń, o których mowa w ust. 3d, w przypadku gdy:
 
@@ -3219,7 +3455,7 @@ Art. 46–51. (pominięte)
 
 3k. Do kosztów kwalifikowanych stanowiących odpisy amortyzacyjne od środków trwałych i wartości niematerialnych i prawnych przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
 
-4. Koszty kwalifikowane ponoszone w ramach badań podstawowych podlegają odliczeniu wyłącznie pod warunkiem, że badania te są prowadzone na podstawie umowy lub porozumienia z podmiotem, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce.
+4. Koszty kwalifikowane ponoszone w ramach badań podstawowych podlegają odliczeniu wyłącznie pod warunkiem, że badania te są prowadzone na podstawie umowy lub porozumienia z podmiotem, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
 
 5. Koszty kwalifikowane podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy obliczenia podatku.
 
@@ -3227,20 +3463,24 @@ Art. 46–51. (pominięte)
 
 7. Kwota kosztów kwalifikowanych nie może przekroczyć:
 
-- **1)** w przypadku gdy podatnik, o którym mowa w ust. 3a, jest mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców 200 % kosztów, o których mowa w ust. 2–3a;
-- **2)** w przypadku pozostałych podatników, o których mowa w ust. 3a 200 % kosztów, o których mowa w ust. 2 pkt 1–4a i ust. 2a–3a, oraz 100 % kosztów, o których mowa w ust. 2 pkt 5;
-- **3)** w przypadku pozostałych podatników 100 % kosztów, o których mowa w ust. 2 pkt 2–5, ust. 2a i 3, oraz 200 % kosztów, o których mowa w ust. 2 pkt 1 i 1a.
+- **1)** w przypadku gdy podatnik, o którym mowa w ust. 3a, jest mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą, w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców – 200 % kosztów, o których mowa w ust. 2–3a;
+- **2)** w przypadku pozostałych podatników, o których mowa w ust. 3a – 200 % kosztów, o których mowa w ust. 2 pkt 1–4a i ust. 2a–3a, oraz 100 % kosztów, o których mowa w ust. 2 pkt 5;
+- **3)** w przypadku pozostałych podatników – 100 % kosztów, o których mowa w ust. 2 pkt 2–5, ust. 2a i 3, oraz 200 % kosztów, o których mowa w ust. 2 pkt 1 i 1a.
 
-8. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty kwalifikowane. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia odpowiednio w całej kwocie lub w pozostałej części dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia. Dokonując odliczenia, o którym mowa w zdaniu drugim, uwzględnia się kwoty pomniejszeń, o których mowa w art. 26eb ust. 1.
+8. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty kwalifikowane. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia. Dokonując odliczenia, o którym mowa w zdaniu drugim, uwzględnia się kwoty pomniejszeń, o których mowa w art. 26eb ust. 1.
 
 9. Przepisu ust. 8 zdanie drugie i trzecie nie stosuje się, jeżeli podatnik wykaże w zeznaniu kwotę przysługującą mu zgodnie z art. 26ea.
 
-10. Jeżeli podatnik zmarł przed upływem okresu określonego w ust. 8, nieodliczoną kwotę odlicza przedsiębiorstwo w spadku, jeżeli kwoty tej zmarły podatnik nie wykazał w zeznaniu zgodnie z art. 26ea. Nieodliczoną kwotę przedsiębiorstwo w spadku odlicza w okresie, w jakim prawo to przysługiwało zmarłemu podatnikowi. Art. 26ea. 1. Podatnikowi, który w roku rozpoczęcia prowadzenia działalności gospodarczej poniósł stratę albo osiągnął dochód niższy od kwoty przysługującego za ten rok odliczenia określonego w art. 26e ust. 1, przysługuje kwota stanowiąca:
+10. Jeżeli podatnik zmarł przed upływem okresu określonego w ust. 8, nieodliczoną kwotę odlicza przedsiębiorstwo w spadku, jeżeli kwoty tej zmarły podatnik nie wykazał w zeznaniu zgodnie z art. 26ea. Nieodliczoną kwotę przedsiębiorstwo w spadku odlicza w okresie, w jakim prawo to przysługiwało zmarłemu podatnikowi.
 
-- **1)** iloczyn najniższej stawki podatkowej określonej w skali, o której mowa w art. 27 ust. 1, oraz nieodliczonego na podstawie art. 26e ust. 1 odliczenia w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1 albo
-- **2)** 19 % nieodliczonego na podstawie art. 26e ust. 1 odliczenia w przypadku podatnika opodatkowanego według zasad określonych w art. 30c.
+**Art. 26ea.**
 
-2. Przepis ust. 1 stosuje się również w roku następującym bezpośrednio po roku rozpoczęcia działalności gospodarczej, jeżeli w tym roku podatnik, o którym mowa w ust. 1, jest mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
+1. Podatnikowi, który w roku rozpoczęcia prowadzenia działalności gospodarczej poniósł stratę albo osiągnął dochód niższy od kwoty przysługującego za ten rok odliczenia określonego w art. 26e ust. 1, przysługuje kwota stanowiąca:
+
+- **1)** iloczyn najniższej stawki podatkowej określonej w skali, o której mowa w art. 27 ust. 1, oraz nieodliczonego na podstawie art. 26e ust. 1 odliczenia – w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1 albo
+- **2)** 19 % nieodliczonego na podstawie art. 26e ust. 1 odliczenia – w przypadku podatnika opodatkowanego według zasad określonych w art. 30c.
+
+2. Przepis ust. 1 stosuje się również w roku następującym bezpośrednio po roku rozpoczęcia działalności gospodarczej, jeżeli w tym roku podatnik, o którym mowa w ust. 1, jest mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 3. Kwota wykazana przez podatnika w zeznaniu, przysługująca na podstawie ust. 1 lub 2, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis.
 
@@ -3248,12 +3488,16 @@ Art. 46–51. (pominięte)
 
 5. Podatnik jest obowiązany do zwrotu, na zasadach określonych w ust. 5a, wykazanej w zeznaniu kwoty, przysługującej mu na podstawie ust. 1 lub 2, jeżeli przed upływem trzech lat podatkowych, licząc od końca roku podatkowego, za który złożył to zeznanie, zlikwiduje działalność gospodarczą lub zostanie postawiony w stan upadłości albo spółka niebędąca osobą prawną, której jest wspólnikiem, z której działalnością związany był zwrot, zostanie postawiona w stan likwidacji lub upadłości.
 
-5a. W razie wystąpienia okoliczności, o których mowa w ust. 5, podatnik jest obowiązany w zeznaniu składanym za rok podatkowy, w którym wystąpiły te okoliczności, do zwiększenia podatku o kwotę zwrotu, a w razie wystąpienia nadpłaty do jej zmniejszenia o tę kwotę.
+5a. W razie wystąpienia okoliczności, o których mowa w ust. 5, podatnik jest obowiązany w zeznaniu składanym za rok podatkowy, w którym wystąpiły te okoliczności, do zwiększenia podatku o kwotę zwrotu, a w razie wystąpienia nadpłaty – do jej zmniejszenia o tę kwotę.
 
-6. Kwoty, o których mowa w ust. 1 i 2, podatnik wykazuje w zeznaniu, o którym mowa w art. 45. Art. 26eb. 1. Podatnik będący płatnikiem podatku dochodowego od osób fizycznych, który poniósł za rok podatkowy stratę lub osiągnął dochód niższy od kwoty przysługującego w roku podatkowym odliczenia na podstawie art. 26e, może pomniejszyć kwotę podlegających przekazaniu na rachunek urzędu skarbowego zaliczek na podatek dochodowy oraz zryczałtowanego podatku dochodowego wskazanych w ust. 2 o:
+6. Kwoty, o których mowa w ust. 1 i 2, podatnik wykazuje w zeznaniu, o którym mowa w art. 45.
 
-- **1)** iloczyn najniższej stawki podatkowej określonej w skali podatkowej, o której mowa w art. 27 ust. 1, oraz nieodliczonego na podstawie art. 26e odliczenia w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1, albo
-- **2)** 19 % nieodliczonego na podstawie art. 26e odliczenia w przypadku podatnika opodatkowanego według zasad określonych w art. 30c.
+**Art. 26eb.**
+
+1. Podatnik będący płatnikiem podatku dochodowego od osób fizycznych, który poniósł za rok podatkowy stratę lub osiągnął dochód niższy od kwoty przysługującego w roku podatkowym odliczenia na podstawie art. 26e, może pomniejszyć kwotę podlegających przekazaniu na rachunek urzędu skarbowego zaliczek na podatek dochodowy oraz zryczałtowanego podatku dochodowego wskazanych w ust. 2 o:
+
+- **1)** iloczyn najniższej stawki podatkowej określonej w skali podatkowej, o której mowa w art. 27 ust. 1, oraz nieodliczonego na podstawie art. 26e odliczenia – w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1, albo
+- **2)** 19 % nieodliczonego na podstawie art. 26e odliczenia – w przypadku podatnika opodatkowanego według zasad określonych w art. 30c.
 
 2. Przepis ust. 1 ma zastosowanie do zaliczek na podatek dochodowy i zryczałtowanego podatku dochodowego, o których mowa w art. 32 oraz art. 41 ust. 1 i 4, pobranych od dochodów (przychodów) osób fizycznych z tytułu:
 
@@ -3279,7 +3523,78 @@ Art. 46–51. (pominięte)
 
 **Art. 26f.** Podatnicy korzystający z odliczenia, o którym mowa w art. 26e, oraz podatnicy, którym przysługuje kwota określona w art. 26ea, są obowiązani wykazać w zeznaniu poniesione koszty kwalifikowane podlegające odliczeniu lub stanowiące podstawę do wyliczenia przysługującej podatnikowi kwoty.
 
-**Art. 26g.** Odliczenie, o którym mowa w art. 26e, oraz kwotę przysługującą podatnikowi na podstawie art. 26ea podatnik wykazuje w zeznaniu, w którym rozlicza przychody ze źródła określonego w art. 10 ust. 1 pkt 3. Art. 26ga. 1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 30 % sumy kosztów produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu, przy czym wysokość odliczenia nie może w roku podatkowym przekroczyć 10 % dochodu osiągniętego z pozarolniczej działalności gospodarczej. 2. Przez produkt rozumie się produkt w rozumieniu przepisów ustawy o rachunkowości, z wyłączeniem usługi. 3. Przez produkcję próbną nowego produktu rozumie się etap rozruchu technologicznego produkcji niewymagający dalszych prac projektowo-konstrukcyjnych lub inżynieryjnych, którego celem jest wykonanie prób i testów przed uruchomieniem procesu produkcji nowego produktu, powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych, przy czym etap rozruchu technologicznego obejmuje okres od momentu poniesienia pierwszego kosztu związanego z tym etapem do momentu rozpoczęcia produkcji nowego produktu. 4. Przez wprowadzenie na rynek nowego produktu rozumie się działania podejmowane w celu przygotowania dokumentacji służącej uzyskaniu w odniesieniu do produktu powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych certyfikatów i zezwoleń umożliwiających skierowanie produktu do sprzedaży. 5. Za koszty produkcji próbnej nowego produktu uznaje się:
+**Art. 26g.** Odliczenie, o którym mowa w art. 26e, oraz kwotę przysługującą podatnikowi na podstawie art. 26ea podatnik wykazuje w zeznaniu, w którym rozlicza przychody ze źródła określonego w art. 10 ust. 1 pkt 3.
+
+**Art. 26ga.**
+
+1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 30 % sumy kosztów produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu, przy czym wysokość odliczenia nie może w roku podatkowym przekroczyć 10 % dochodu osiągniętego z pozarolniczej działalności gospodarczej.
+
+2. Przez produkt rozumie się produkt w rozumieniu przepisów ustawy o rachunkowości, z wyłączeniem usługi.
+
+3. Przez produkcję próbną nowego produktu rozumie się etap rozruchu technologicznego produkcji niewymagający dalszych prac projektowo-konstrukcyjnych lub inżynieryjnych, którego celem jest wykonanie prób i testów przed uruchomieniem procesu produkcji nowego produktu, powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych, przy czym etap rozruchu technologicznego obejmuje okres od momentu poniesienia pierwszego kosztu związanego z tym etapem do momentu rozpoczęcia produkcji nowego produktu.
+
+4. Przez wprowadzenie na rynek nowego produktu rozumie się działania podejmowane w celu przygotowania dokumentacji służącej uzyskaniu w odniesieniu do produktu powstałego w wyniku prowadzenia przez podatnika prac badawczo-rozwojowych certyfikatów i zezwoleń umożliwiających skierowanie produktu do sprzedaży.
+
+5. Za koszty produkcji próbnej nowego produktu uznaje się:
+
+- **1)** cenę nabycia, o której mowa w art. 22g ust. 3, lub koszt wytworzenia, o którym mowa w art. 22g ust. 4, fabrycznie nowych środków trwałych niezbędnych do uruchomienia produkcji próbnej nowego produktu, zaliczonych do grup 3–6 i 8 Klasyfikacji;
+- **2)** wydatki na ulepszenie, o których mowa w art. 22g ust. 17, poniesione w celu dostosowania środka trwałego zaliczonego do grup 3–6 i 8 Klasyfikacji, do uruchomienia produkcji próbnej nowego produktu;
+- **3)** koszty nabycia materiałów i surowców nabytych wyłącznie w celu produkcji próbnej nowego produktu.
+
+6. Do kosztów wprowadzenia na rynek nowego produktu zalicza się koszty:
+
+- **1)** badań, ekspertyz, przygotowania dokumentacji niezbędnej do uzyskania certyfikatu, homologacji, znaku CE, znaku bezpieczeństwa, uzyskania lub utrzymania zezwolenia na obrót lub innych obowiązkowych dokumentów lub oznakowań związanych z dopuszczeniem do obrotu lub użytkowania oraz koszty opłat pobieranych w celu ich uzyskania, odnowienia lub przedłużenia;
+- **2)** badania cyklu życia produktu;
+- **3)** systemu weryfikacji technologii środowiskowych.
+
+7. Koszty produkcji próbnej nowego produktu i wprowadzenia na rynek nowego produktu pomniejsza się o podatek od towarów i usług, z wyjątkiem przypadków gdy zgodnie z odrębnymi przepisami podatek od towarów i usług nie stanowi podatku naliczonego albo podatnikowi nie przysługuje obniżenie kwoty należnego podatku o podatek naliczony albo zwrot różnicy podatku w rozumieniu ustawy o podatku od towarów i usług.
+
+8. W przypadku skorzystania z odliczenia kosztów produkcji próbnej nowego produktu, o których mowa w ust. 5 pkt 1 i 2, przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
+
+9. Odliczenie przysługuje, jeżeli koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu:
+
+- **1)** zostały faktycznie poniesione w roku podatkowym, za który jest dokonywane odliczenie;
+- **2)** nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy obliczenia podatku.
+
+10. Podatnikowi, który w roku podatkowym korzysta ze zwolnień podatkowych, o których mowa w art. 21 ust. 1 pkt 63a lub 63b, prawo do odliczenia przysługuje jedynie w odniesieniu do kosztów produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu, które nie są przez podatnika uwzględniane w kalkulacji dochodu zwolnionego z podatku na podstawie tych przepisów.
+
+11. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty produkcji próbnej nowego produktu lub wprowadzenia na rynek nowego produktu. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
+
+12. Przepis art. 26e ust. 10 stosuje się odpowiednio.
+
+**Art. 26gb.**
+
+1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej odlicza od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów do wysokości dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej, niewięcej jednak niż 1 000 000 zł w roku podatkowym.
+
+2. Przez produkty rozumie się rzeczy wytworzone przez podatnika.
+
+3. Przez zwiększenie przychodów ze sprzedaży produktów, o którym mowa w ust. 1, rozumie się odpłatne zbycie produktów do podmiotu niebędącego podmiotem powiązanym w rozumieniu art. 23m ust. 1 pkt 4.
+
+4. Podatnik jest uprawniony do skorzystania z odliczenia pod warunkiem, że w okresie 2 kolejno następujących po sobie lat podatkowych, licząc od roku podatkowego, w którym poniósł koszty zwiększenia przychodów, o których mowa w ust. 1, zwiększył przychody ze sprzedaży produktów w stosunku do przychodów z tego tytułu ustalonych na ostatni dzień roku podatkowego poprzedzającego rok poniesienia tych kosztów lub osiągnął przychody ze sprzedaży produktów dotychczas nieoferowanych, lub osiągnął przychody ze sprzedaży produktów dotychczas nieoferowanych w danym kraju.
+
+5. Przy ustalaniu spełnienia warunku, o którym mowa w ust. 4, uwzględnia się wyłącznie przychody, z których dochód podlega opodatkowaniu na terytorium Rzeczypospolitej Polskiej.
+
+6. W przypadku gdy podatnik, który skorzystał z odliczenia, nie spełni warunku, o którym mowa w ust. 4, jest obowiązany w zeznaniu składanym za rok podatkowy, w którym upłynął termin do osiągnięcia przychodów ze sprzedaży produktów, do odpowiedniego doliczenia kwoty uprzednio odliczonej.
+
+7. Za koszty poniesione w celu zwiększenia przychodów ze sprzedaży produktów uznaje się koszty:
+
+- **1)** uczestnictwa w targach poniesione na:
+    - **a)** organizację miejsca wystawowego,
+    - **b)** zakup biletów lotniczych dla pracowników i podatnika,
+    - **c)** zakwaterowanie i wyżywienie dla pracowników i podatnika;
+
+- **2)** działań promocyjno-informacyjnych, w tym zakupu przestrzeni reklamowych, przygotowania strony internetowej, publikacji prasowych, broszur, katalogów informacyjnych i ulotek, dotyczących produktów;
+- **3)** dostosowania opakowań produktów do wymagań kontrahentów;
+- **4)** przygotowania dokumentacji umożliwiającej sprzedaż produktów, w szczególności dotyczącej certyfikacji towarów oraz rejestracji znaków towarowych;
+- **5)** przygotowania dokumentacji niezbędnej do przystąpienia do przetargu, a także w celu składania ofert innym podmiotom.
+
+8. Podatnikowi, który w roku podatkowym korzysta ze zwolnień podatkowych, o których mowa w art. 21 ust. 1 pkt 63a lub 63b, prawo do odliczenia przysługuje jedynie w odniesieniu do kosztów uzyskania przychodów poniesionych w celu zwiększenia przychodów ze sprzedaży produktów, które nie są przez podatnika uwzględniane w kalkulacji dochodu zwolnionego z podatku na podstawie tych przepisów.
+
+9. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono koszty w celu zwiększenia przychodów ze sprzedaży produktów. W przypadku gdy podatnik poniósł za rok podatkowy stratę albo wielkość dochodu podatnika jest niższa od kwoty przysługujących mu odliczeń, odliczenia – odpowiednio w całej kwocie lub w pozostałej części – dokonuje się w zeznaniach za kolejno następujące po sobie sześć lat podatkowych następujących bezpośrednio po roku, w którym podatnik skorzystał lub miał prawo skorzystać z odliczenia.
+
+10. Koszty uzyskania przychodów poniesione w celu zwiększenia przychodów ze sprzedaży produktów podlegają odliczeniu, jeżeli nie zostały podatnikowi zwrócone w jakiejkolwiek formie lub nie zostały odliczone od podstawy opodatkowania podatkiem dochodowym.
+
+11. Przepis art. 26e ust. 10 stosuje się odpowiednio.
 
 **Art. 26h.**
 
@@ -3304,11 +3619,15 @@ Art. 46–51. (pominięte)
 
 9. W przypadku niezrealizowania przedsięwzięcia termomodernizacyjnego w terminie, o którym mowa w ust. 1, podatnik dolicza kwoty poprzednio odliczone do dochodu za rok podatkowy, w którym upłynął ten termin.
 
-10. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z ministrem właściwym do spraw klimatu, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz rodzajów materiałów budowlanych, urządzeń i usług związanych z realizacją przedsięwzięć termomodernizacyjnych, o których mowa w ust. 1, mając na uwadze zapewnienie poprawy efektywności energetycznej przedsięwzięć termomodernizacyjnych oraz ich wpływ na poprawę jakości powietrza. Art. 26ha. 1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych na działalność:
+10. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z ministrem właściwym do spraw klimatu, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz rodzajów materiałów budowlanych, urządzeń i usług związanych z realizacją przedsięwzięć termomodernizacyjnych, o których mowa w ust. 1, mając na uwadze zapewnienie poprawy efektywności energetycznej przedsięwzięć termomodernizacyjnych oraz ich wpływ na poprawę jakości powietrza.
+
+**Art. 26ha.**
+
+1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych na działalność:
 
 - **1)** sportową,
 - **2)** kulturalną w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej,
-- **3)** wspierającą szkolnictwo wyższe i naukę przy czym kwota odliczenia nie może przekroczyć kwoty dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej.
+- **3)** wspierającą szkolnictwo wyższe i naukę – przy czym kwota odliczenia nie może przekroczyć kwoty dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej.
 
 2. Za koszty uzyskania przychodów poniesione na działalność sportową uznaje się koszty poniesione na finansowanie:
 
@@ -3326,13 +3645,13 @@ Art. 46–51. (pominięte)
 5. Za koszty uzyskania przychodów poniesione na działalność wspierającą szkolnictwo wyższe i naukę uznaje się koszty poniesione na:
 
 - **1)** stypendia, o których mowa w:
-    - **a)** art. 97 i art. 213 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce,
-    - **b)** art. 283 ustawy z dnia 3 lipca 2018 r. Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm. );
+    - **a)** art. 97 i art. 213 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce,
+    - **b)** art. 283 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669, z późn. zm. );
 
-- **2)** finansowanie zatrudnionemu przez podatnika pracownikowi opłat, o których mowa w art. 163 ust. 2 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, określonych w umowie zawartej pomiędzy podmiotem prowadzącym kształcenie a osobą podejmującą kształcenie;
+- **2)** finansowanie zatrudnionemu przez podatnika pracownikowi opłat, o których mowa w art. 163 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, określonych w umowie zawartej pomiędzy podmiotem prowadzącym kształcenie a osobą podejmującą kształcenie;
 - **3)** finansowanie wynagrodzeń, wraz z pochodnymi, studentów odbywających u podatnika staże i praktyki przewidziane programem studiów;
-- **4)** sfinansowanie studiów dualnych, o których mowa w art. 62 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, na konkretnym kierunku studiów, w tym koszty praktyk;
-- **5)** wynagrodzenie wypłacane w okresie 6 miesięcy od dnia zatrudnienia przez podatnika organizującego praktyki zawodowe dla studentów danej uczelni pracownikowi będącemu absolwentem studiów w tej uczelni zatrudnionemu za pośrednictwem akademickiego biura karier, o którym mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, prowadzonego przez tę uczelnię.
+- **4)** sfinansowanie studiów dualnych, o których mowa w art. 62 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, na konkretnym kierunku studiów, w tym koszty praktyk;
+- **5)** wynagrodzenie wypłacane w okresie 6 miesięcy od dnia zatrudnienia przez podatnika organizującego praktyki zawodowe dla studentów danej uczelni pracownikowi będącemu absolwentem studiów w tej uczelni zatrudnionemu za pośrednictwem akademickiego biura karier, o którym mowa w art. 49 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, prowadzonego przez tę uczelnię.
 
 6. Odliczenie kosztów, o których mowa w ust. 5 pkt 3–5, przysługuje pod warunkiem, że są ponoszone na podstawie umowy zawartej przez podatnika z uczelnią.
 
@@ -3344,7 +3663,11 @@ Art. 46–51. (pominięte)
 
 10. Podatnik korzystający z odliczenia składa w terminie złożenia zeznania, w którym dokonuje tego odliczenia, informację, według ustalonego wzoru, zawierającą wykaz poniesionych kosztów podlegających odliczeniu.
 
-11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 23 ust. 1 pkt 45 nie stosuje się. Art. 26hb. 1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, wydatki:
+11. W przypadku skorzystania z odliczenia kosztów, o których mowa w ust. 1, przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
+
+**Art. 26hb.**
+
+1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, wydatki:
 
 - **1)** poniesione w roku podatkowym na wpłaty na fundusz remontowy wspólnoty mieszkaniowej lub spółdzielni mieszkaniowej utworzony, zgodnie z odrębnymi przepisami, dla zabytku nieruchomego wpisanego do rejestru zabytków lub znajdującego się w ewidencji zabytków;
 - **2)** na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytku nieruchomym wpisanym do rejestru zabytków.
@@ -3373,8 +3696,8 @@ Art. 46–51. (pominięte)
 
 7. Odliczenia wydatków, o których mowa w:
 
-- **1)** ust. 1 pkt 1 dokonuje się w zeznaniu składanym za rok podatkowy, w którym poniesiono te wydatki;
-- **2)** ust. 1 pkt 2 dokonuje się w zeznaniu składanym po otrzymaniu zaświadczenia, o którym mowa w ust. 2 pkt 2.
+- **1)** ust. 1 pkt 1 – dokonuje się w zeznaniu składanym za rok podatkowy, w którym poniesiono te wydatki;
+- **2)** ust. 1 pkt 2 – dokonuje się w zeznaniu składanym po otrzymaniu zaświadczenia, o którym mowa w ust. 2 pkt 2.
 
 8. Kwota odliczenia nieznajdująca pokrycia w rocznym dochodzie podatnika podlega odliczeniu w kolejnych latach, niedłużej jednak niż przez sześć lat, licząc od końca roku podatkowego, w którym dokonano odliczenia.
 
@@ -3391,15 +3714,20 @@ Art. 46–51. (pominięte)
 
 12. Ilekroć w ust. 1–11 jest mowa o:
 
-- **1)** powierzchni użytkowej oznacza to powierzchnię, o której mowa w art. 16 ust. 4 i 5 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn;
-- **2)** pracach konserwatorskich oznacza to prace konserwatorskie w rozumieniu art. 3 pkt 6 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
-- **3)** pracach restauratorskich oznacza to prace restauratorskie w rozumieniu art. 3 pkt 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
-- **4)** robotach budowlanych oznacza to roboty budowlane w rozumieniu art. 3 pkt 8 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
-- **5)** zabytku nieruchomym oznacza to zabytek nieruchomy, o którym mowa w art. 6 ust. 1 pkt 1 lit. c–e ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami. Art. 26hc. 1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % wydatków poniesionych na nabycie lub objęcie udziałów (akcji) w:
+- **1)** powierzchni użytkowej – oznacza to powierzchnię, o której mowa w art. 16 ust. 4 i 5 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn;
+- **2)** pracach konserwatorskich – oznacza to prace konserwatorskie w rozumieniu art. 3 pkt 6 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
+- **3)** pracach restauratorskich – oznacza to prace restauratorskie w rozumieniu art. 3 pkt 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
+- **4)** robotach budowlanych – oznacza to roboty budowlane w rozumieniu art. 3 pkt 8 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
+- **5)** zabytku nieruchomym – oznacza to zabytek nieruchomy, o którym mowa w art. 6 ust. 1 pkt 1 lit. c–e ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami.
+
+**Art. 26hc.**
+
+1. Podatnik może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % wydatków poniesionych na nabycie lub objęcie udziałów (akcji) w:
+
 - **1)** alternatywnej spółce inwestycyjnej lub
 - **2)** spółce kapitałowej, w której alternatywna spółka inwestycyjna:
     - **a)** posiada co najmniej 5 % udziałów (akcji),
-    - **b)** będzie posiadała co najmniej 5 % udziałów (akcji) w wyniku nabycia lub objęcia udziałów (akcji) w tej spółce w okresie 90 dni od dnia nabycia lub objęcia udziałów (akcji) w spółce kapitałowej przez podatnika do wysokości nieprzekraczającej 250 000 zł w roku podatkowym.
+    - **b)** będzie posiadała co najmniej 5 % udziałów (akcji) w wyniku nabycia lub objęcia udziałów (akcji) w tej spółce w okresie 90 dni od dnia nabycia lub objęcia udziałów (akcji) w spółce kapitałowej przez podatnika – do wysokości nieprzekraczającej 250 000 zł w roku podatkowym.
 
 2. Odliczenie przysługuje, jeżeli są spełnione łącznie następujące warunki:
 
@@ -3410,15 +3738,19 @@ Art. 46–51. (pominięte)
 
 3. Odliczenia dokonuje się w zeznaniu za rok podatkowy, w którym poniesiono wydatki.
 
-4. W przypadku niespełnienia warunku, o którym mowa w ust. 2 pkt 4, podatnik jest obowiązany doliczyć odpowiednio kwoty poprzednio odliczone do dochodu za rok podatkowy, w którym nastąpiło zbycie udziałów (akcji) w alternatywnej spółce inwestycyjnej lub w spółce kapitałowej. Art. 26hd. 1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 albo art. 30c ust. 2, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
+4. W przypadku niespełnienia warunku, o którym mowa w ust. 2 pkt 4, podatnik jest obowiązany doliczyć odpowiednio kwoty poprzednio odliczone do dochodu za rok podatkowy, w którym nastąpiło zbycie udziałów (akcji) w alternatywnej spółce inwestycyjnej lub w spółce kapitałowej.
 
-- **1)** 2500 zł w roku podatkowym w przypadku podatników zwolnionych z obowiązku prowadzenia ewidencji sprzedaży na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych przy zastosowaniu kas rejestrujących, zgodnie z przepisami o podatku od towarów i usług;
-- **2)** 1000 zł w roku podatkowym w przypadku podatników innych niż określeni w pkt 1.
+**Art. 26hd.**
+
+1. Podatnik uzyskujący przychody z pozarolniczej działalności gospodarczej może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 albo art. 30c ust. 2, wydatki na nabycie terminala płatniczego oraz wydatki związane z obsługą transakcji płatniczych przy użyciu terminala płatniczego poniesione w roku podatkowym, w którym rozpoczął przyjmowanie płatności przy użyciu terminala płatniczego, i w roku następującym po tym roku, do wysokości:
+
+- **1)** 2500 zł w roku podatkowym – w przypadku podatników zwolnionych z obowiązku prowadzenia ewidencji sprzedaży na rzecz osób fizycznych nieprowadzących działalności gospodarczej oraz rolników ryczałtowych przy zastosowaniu kas rejestrujących, zgodnie z przepisami o podatku od towarów i usług;
+- **2)** 1000 zł w roku podatkowym – w przypadku podatników innych niż określeni w pkt 1.
 
 2. Podatnik, o którym mowa w ust. 1, będący małym podatnikiem, któremu w roku podatkowym przysługuje prawo do otrzymania zwrotu różnicy podatku, o której mowa w art. 87 ust. 2 ustawy o podatku od towarów i usług, na zasadach określonych w art. 87 ust. 6d–6l tej ustawy:
 
-- **1)** przez co najmniej siedem miesięcy w przypadku podatnika, o którym mowa w art. 99 ust. 1 ustawy o podatku od towarów i usług,
-- **2)** przez co najmniej 2 kwartały w przypadku podatnika, o którym mowa w art. 99 ust. 2 i 3 ustawy o podatku od towarów i usług może odliczyć z tytułów, o których mowa w ust. 1, kwotę odpowiadającą 200 % poniesionych wydatków, niewięcej jednak niż 2000 zł w roku podatkowym, przy czym odliczenie przysługuje w każdym roku podatkowym, w którym podatnik poniósł wydatki, przy czym przepisów ust. 6 i 7 nie stosuje się.
+- **1)** przez co najmniej siedem miesięcy – w przypadku podatnika, o którym mowa w art. 99 ust. 1 ustawy o podatku od towarów i usług,
+- **2)** przez co najmniej 2 kwartały – w przypadku podatnika, o którym mowa w art. 99 ust. 2 i 3 ustawy o podatku od towarów i usług – może odliczyć z tytułów, o których mowa w ust. 1, kwotę odpowiadającą 200 % poniesionych wydatków, niewięcej jednak niż 2000 zł w roku podatkowym, przy czym odliczenie przysługuje w każdym roku podatkowym, w którym podatnik poniósł wydatki, przy czym przepisów ust. 6 i 7 nie stosuje się.
 
 3. Kwota odliczenia, o którym mowa w ust. 1 i 2, nie może w roku podatkowym przekroczyć kwoty dochodu uzyskanego przez podatnika z pozarolniczej działalności gospodarczej.
 
@@ -3444,7 +3776,11 @@ Art. 46–51. (pominięte)
 
 14. W przypadku skorzystania z odliczeń, o których mowa w ust. 1 i 2, przepisu art. 23 ust. 1 pkt 45 nie stosuje się.
 
-15. Przepis art. 26e ust. 10 stosuje się odpowiednio. Art. 26he. 1. Podatnik uzyskujący przychody ze źródła określonego w art. 10 ust. 1 pkt 3 może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę:
+15. Przepis art. 26e ust. 10 stosuje się odpowiednio.
+
+**Art. 26he.**
+
+1. Podatnik uzyskujący przychody ze źródła określonego w art. 10 ust. 1 pkt 3 może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę:
 
 - **1)** 12 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 1 rok nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie;
 - **2)** 15 000 złotych, jeżeli zatrudniony w ramach stosunku pracy żołnierz terytorialnej służby wojskowej, jak również żołnierz aktywnej rezerwy pełni co najmniej 2 lata nieprzerwanie terytorialną służbę wojskową lub służbę w aktywnej rezerwie;
@@ -3454,7 +3790,7 @@ Art. 46–51. (pominięte)
 
 2. Warunek, o którym mowa w ust. 1, dotyczący okresu służby żołnierza terytorialnej służby wojskowej lub żołnierza aktywnej rezerwy, ustala się na dzień 31 grudnia roku podatkowego albo ostatni dzień zatrudnienia tego żołnierza w roku podatkowym.
 
-3. Podatnik będący mikroprzedsiębiorcą lub małym przedsiębiorcą w rozumieniu odpowiednio art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców może podwyższać kwoty, o których mowa w ust. 1, o współczynnik 1,5.
+3. Podatnik będący mikroprzedsiębiorcą lub małym przedsiębiorcą w rozumieniu odpowiednio art. 7 ust. 1 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców może podwyższać kwoty, o których mowa w ust. 1, o współczynnik 1,5.
 
 4. Podatnik, który przez cały rok podatkowy zatrudnia w ramach stosunku pracy co najmniej 5 pracowników, w przeliczeniu na pełne etaty, który nie jest mikroprzedsiębiorcą lub małym przedsiębiorcą, może podwyższać kwoty, o których mowa w ust. 1, o współczynnik 1,2.
 
@@ -3497,7 +3833,7 @@ Art. 46–51. (pominięte)
 10. Przepisy ust. 1 i 2 stosuje się w przypadku, gdy spełnione są łącznie następujące warunki:
 
 - **1)** dłużnik na ostatni dzień miesiąca poprzedzającego dzień złożenia zeznania podatkowego nie jest w trakcie postępowania restrukturyzacyjnego, postępowania upadłościowego lub w trakcie likwidacji;
-- **2)** od daty wystawienia faktury (rachunku) lub zawarcia umowy dokumentującej wierzytelność nie upłynęły 2 lata, licząc od końca roku kalendarzowego, w którym została wystawiona faktura (rachunek) lub została zawarta umowa, a w przypadku gdy rok kalendarzowy, w którym wystawiono fakturę (rachunek), jest inny niż rok kalendarzowy, w którym zawarto umowę gdy nie upłynęły 2 lata, licząc od końca roku kalendarzowego późniejszej z tych czynności;
+- **2)** od daty wystawienia faktury (rachunku) lub zawarcia umowy dokumentującej wierzytelność nie upłynęły 2 lata, licząc od końca roku kalendarzowego, w którym została wystawiona faktura (rachunek) lub została zawarta umowa, a w przypadku gdy rok kalendarzowy, w którym wystawiono fakturę (rachunek), jest inny niż rok kalendarzowy, w którym zawarto umowę – gdy nie upłynęły 2 lata, licząc od końca roku kalendarzowego późniejszej z tych czynności;
 - **3)** transakcja handlowa zawarta jest w ramach działalności wierzyciela oraz działalności dłużnika, z których dochody podlegają opodatkowaniu podatkiem dochodowym na terytorium Rzeczypospolitej Polskiej.
 
 11. Okres 90 dni, o którym mowa w ust. 1 i 2, liczy się począwszy od pierwszego dnia następującego po określonym na fakturze (rachunku) lub w umowie upływie terminu do uregulowania zobowiązania.
@@ -3527,7 +3863,7 @@ Art. 46–51. (pominięte)
 
 **Art. 27.**
 
-1. Podatek dochodowy, z zastrzeżeniem art. 29–30f, pobiera się od podstawy jego obliczenia według następującej skali podatkowej: Podstawa obliczenia podatku w złotych Podatek wynosi ponad do 120 000 12 % minus kwota zmniejszająca podatek 3600 zł 120 000 10 800 zł + 32 % nadwyżki ponad 120 000 zł 1a. (uchylony) 1b. (uchylony) 1c. Wysokość kwoty zmniejszającej podatek określonej w pierwszym przedziale skali podatkowej, o której mowa w ust. 1, zwanej dalej „kwotą zmniejszającą podatek”, podlega weryfikacji przez ministra właściwego do spraw finansów publicznych.
+1. Podatek dochodowy, z zastrzeżeniem art. 29–30f, pobiera się od podstawy jego obliczenia według następującej skali podatkowej: 1a. (uchylony) 1b. (uchylony) 1c. Wysokość kwoty zmniejszającej podatek określonej w pierwszym przedziale skali podatkowej, o której mowa w ust. 1, zwanej dalej „kwotą zmniejszającą podatek”, podlega weryfikacji przez ministra właściwego do spraw finansów publicznych.
 
 1d. Minister właściwy do spraw finansów publicznych przedkłada Radzie Ministrów w terminie do 15 września danego roku propozycję zmiany kwoty zmniejszającej podatek na rok następny, w przypadku gdy kwota minimum egzystencji dla jednoosobowego gospodarstwa ustalonego przez Instytut Pracy i Spraw Socjalnych jest wyższa od 1/12 ilorazu kwoty zmniejszającej podatek oraz stawki podatku, określonych w pierwszym przedziale skali podatkowej, o której mowa w ust. 1.
 
@@ -3543,7 +3879,7 @@ Art. 46–51. (pominięte)
 
 7. (uchylony)
 
-8. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, oprócz dochodów podlegających opodatkowaniu, zgodnie z ust. 1, osiągał również dochody z tytułu działalności wykonywanej poza terytorium Rzeczypospolitej Polskiej lub ze źródeł przychodów znajdujących się poza terytorium Rzeczypospolitej Polskiej, zwolnione od podatku na podstawie umów o unikaniu podwójnego opodatkowania lub innych umów międzynarodowych podatek określa się w następujący sposób:
+8. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, oprócz dochodów podlegających opodatkowaniu, zgodnie z ust. 1, osiągał również dochody z tytułu działalności wykonywanej poza terytorium Rzeczypospolitej Polskiej lub ze źródeł przychodów znajdujących się poza terytorium Rzeczypospolitej Polskiej, zwolnione od podatku na podstawie umów o unikaniu podwójnego opodatkowania lub innych umów międzynarodowych – podatek określa się w następujący sposób:
 
 - **1)** do dochodów podlegających opodatkowaniu podatkiem dochodowym dodaje się dochody zwolnione od tego podatku i od sumy tych dochodów oblicza się podatek według skali określonej w ust. 1;
 - **2)** ustala się stopę procentową tego podatku do tak obliczonej sumy dochodów;
@@ -3563,7 +3899,9 @@ Art. 46–51. (pominięte)
 
 **Art. 27d.** (uchylony)
 
-**Art. 27e.** (uchylony) Art. 27ea. (uchylony)
+**Art. 27e.** (uchylony)
+
+**Art. 27ea.** (uchylony)
 
 **Art. 27f.**
 
@@ -3575,12 +3913,12 @@ Art. 46–51. (pominięte)
 
 2. Odliczeniu podlega za każdy miesiąc kalendarzowy roku podatkowego, w którym podatnik wykonywał władzę, pełnił funkcję albo sprawował opiekę, o których mowa w ust. 1, w stosunku do:
 
-- **1)** jednego małoletniego dziecka kwota 92,67 zł, jeżeli dochody podatnika:
+- **1)** jednego małoletniego dziecka – kwota 92,67 zł, jeżeli dochody podatnika:
     - **a)** pozostającego przez cały rok podatkowy w związku małżeńskim i jego małżonka, nie przekroczyły w roku podatkowym kwoty 112 000 zł,
     - **b)** niepozostającego w związku małżeńskim, w tym również przez część roku podatkowego, nie przekroczyły w roku podatkowym kwoty 56 000 zł, za wyjątkiem podatnika samotnie wychowującego małoletnie dziecko wymienionego w art. 6 ust. 4c i 4g, do którego ma zastosowanie kwota dochodu określona w lit. a;
 
-- **2)** dwojga małoletnich dzieci kwota 92,67 zł na każde dziecko;
-- **3)** trojga i więcej małoletnich dzieci kwota:
+- **2)** dwojga małoletnich dzieci – kwota 92,67 zł na każde dziecko;
+- **3)** trojga i więcej małoletnich dzieci – kwota:
     - **a)** 92,67 zł odpowiednio na pierwsze i drugie dziecko,
     - **b)** 166,67 zł na trzecie dziecko,
     - **c)** 225 zł na czwarte i każde kolejne dziecko.
@@ -3603,9 +3941,9 @@ Art. 46–51. (pominięte)
 
 3. W przypadku gdy w tym samym miesiącu kalendarzowym w stosunku do dziecka wykonywana jest władza, pełniona funkcja lub sprawowana opieka, o których mowa w ust. 1, każdemu z podatników przysługuje odliczenie w kwocie stanowiącej 1/30 kwoty obliczonej zgodnie z ust. 2 za każdy dzień sprawowania pieczy nad dzieckiem.
 
-4. Odliczenie dotyczy łącznie obojga rodziców, opiekunów prawnych dziecka albo rodziców zastępczych pozostających w związku małżeńskim. Kwotę tę podatnicy mogą odliczyć od podatku w dowolnej proporcji przez nich ustalonej. W przypadku braku porozumienia między podatnikami, którzy zgodnie z rozstrzygnięciem sądu wspólnie wykonują władzę rodzicielską nad małoletnim dzieckiem po rozwodzie lub w trakcie separacji (piecza naprzemienna), lub gdy miejsce zamieszkania dziecka jest takie samo jak miejsce zamieszkania obojga rodziców, opiekunów prawnych dziecka albo rodziców zastępczych pozostających w związku małżeńskim kwotę tę podatnicy odliczają w częściach równych. W pozostałych przypadkach odliczenie w wysokości 100 % stosuje podatnik, u którego dziecko ma miejsce zamieszkania w rozumieniu ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+4. Odliczenie dotyczy łącznie obojga rodziców, opiekunów prawnych dziecka albo rodziców zastępczych pozostających w związku małżeńskim. Kwotę tę podatnicy mogą odliczyć od podatku w dowolnej proporcji przez nich ustalonej. W przypadku braku porozumienia między podatnikami, którzy zgodnie z rozstrzygnięciem sądu wspólnie wykonują władzę rodzicielską nad małoletnim dzieckiem po rozwodzie lub w trakcie separacji (piecza naprzemienna), lub gdy miejsce zamieszkania dziecka jest takie samo jak miejsce zamieszkania obojga rodziców, opiekunów prawnych dziecka albo rodziców zastępczych pozostających w związku małżeńskim – kwotę tę podatnicy odliczają w częściach równych. W pozostałych przypadkach odliczenie w wysokości 100 % stosuje podatnik, u którego dziecko ma miejsce zamieszkania w rozumieniu ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
-5. Odliczenia dokonuje się w zeznaniu, o którym mowa w art. 45 ust. 1, podając liczbę dzieci i ich numery PESEL, a w przypadku braku tych numerów imiona, nazwiska oraz daty urodzenia dzieci. Na żądanie organów podatkowych, podatnik jest obowiązany przedstawić zaświadczenia, oświadczenia oraz inne dowody niezbędne do ustalenia prawa do odliczenia, w szczególności:
+5. Odliczenia dokonuje się w zeznaniu, o którym mowa w art. 45 ust. 1, podając liczbę dzieci i ich numery PESEL, a w przypadku braku tych numerów – imiona, nazwiska oraz daty urodzenia dzieci. Na żądanie organów podatkowych, podatnik jest obowiązany przedstawić zaświadczenia, oświadczenia oraz inne dowody niezbędne do ustalenia prawa do odliczenia, w szczególności:
 
 - **1)** odpis aktu urodzenia dziecka;
 - **2)** zaświadczenie sądu rodzinnego o ustaleniu opiekuna prawnego dziecka;
@@ -3628,7 +3966,7 @@ Art. 46–51. (pominięte)
 
 - **1)** rodzicom,
 - **2)** opiekunom prawnym dziecka,
-- **3)** rodzicom zastępczym do ustalenia wysokości składek, o których mowa w ust. 9, przyjmuje się łączną kwotę ich składek.
+- **3)** rodzicom zastępczym – do ustalenia wysokości składek, o których mowa w ust. 9, przyjmuje się łączną kwotę ich składek.
 
 11. Przepis ust. 10 stosuje się również do podatnika, który zawarł związek małżeński przed rozpoczęciem roku podatkowego, i którego małżonek zmarł w trakcie roku podatkowego.
 
@@ -3639,7 +3977,7 @@ Art. 46–51. (pominięte)
 1. Podatnik podlegający obowiązkowi podatkowemu określonemu w art. 3 ust. 1, rozliczający na zasadach określonych w art. 27 ust. 9 albo 9a uzyskane w roku podatkowym poza terytorium Rzeczypospolitej Polskiej dochody:
 
 - **1)** ze źródeł, o których mowa w art. 12 ust. 1, art. 13, art. 14, lub
-- **2)** z praw majątkowych w zakresie praw autorskich i praw pokrewnych w rozumieniu odrębnych przepisów, z wykonywanej poza terytorium Rzeczypospolitej Polskiej działalności artystycznej, literackiej, naukowej, oświatowej i publicystycznej, z wyjątkiem dochodów (przychodów) uzyskanych z tytułu korzystania z tych praw lub rozporządzania nimi ma prawo odliczyć od podatku dochodowego, obliczonego zgodnie z art. 27, kwotę obliczoną zgodnie z ust. 2.
+- **2)** z praw majątkowych w zakresie praw autorskich i praw pokrewnych w rozumieniu odrębnych przepisów, z wykonywanej poza terytorium Rzeczypospolitej Polskiej działalności artystycznej, literackiej, naukowej, oświatowej i publicystycznej, z wyjątkiem dochodów (przychodów) uzyskanych z tytułu korzystania z tych praw lub rozporządzania nimi – ma prawo odliczyć od podatku dochodowego, obliczonego zgodnie z art. 27, kwotę obliczoną zgodnie z ust. 2.
 
 2. Odliczeniu podlega kwota stanowiąca różnicę między podatkiem obliczonym zgodnie z art. 27 ust. 9 albo 9a a kwotą podatku obliczonego od dochodów ze źródeł, o których mowa w ust. 1, przy zastosowaniu do tych dochodów zasad określonych w art. 27 ust. 8. Odliczenie to nie może jednak przekroczyć kwoty 1360 zł.
 
@@ -3655,11 +3993,11 @@ Art. 46–51. (pominięte)
 
 1. Podatek dochodowy od uzyskanych na terytorium Rzeczypospolitej Polskiej przez osoby, o których mowa w art. 3 ust. 2a, przychodów:
 
-- **1)** z działalności określonej w art. 13 pkt 2 i 6–9 oraz z odsetek innych niż wymienione w art. 30a ust. 1, z praw autorskich lub z praw pokrewnych, z praw do projektów wynalazczych, znaków towarowych i wzorów zdobniczych, w tym również ze sprzedaży tych praw, z należności za udostępnienie tajemnicy receptury lub procesu produkcyjnego, za użytkowanie lub prawo do użytkowania urządzenia przemysłowego, handlowego lub naukowego, w tym także środka transportu, oraz za informacje związane ze zdobytym doświadczeniem w dziedzinie przemysłowej, handlowej lub naukowej (know-how) pobiera się w formie ryczałtu w wysokości 20 % przychodu;
-- **2)** z opłat za usługi w zakresie działalności widowiskowej, rozrywkowej lub sportowej, wykonywanej przez osoby fizyczne mające miejsce zamieszkania za granicą, a organizowanej za pośrednictwem osób fizycznych lub osób prawnych prowadzących działalność w zakresie imprez artystycznych, rozrywkowych lub sportowych na terytorium Rzeczypospolitej Polskiej pobiera się w formie ryczałtu w wysokości 20 % przychodu;
-- **3)** z tytułu należnych opłat za wywóz ładunków i pasażerów przyjętych do przewozu w portach polskich przez zagraniczne przedsiębiorstwa morskiej żeglugi handlowej, z wyjątkiem ładunków i pasażerów tranzytowych pobiera się w formie ryczałtu w wysokości 10 % przychodów;
-- **4)** uzyskanych na terytorium Rzeczypospolitej Polskiej przez zagraniczne przedsiębiorstwa żeglugi powietrznej, z wyłączeniem przychodów uzyskanych z lotniczego rozkładowego przewozu pasażerskiego, skorzystanie z którego wymaga posiadania biletu lotniczego przez pasażera pobiera się w formie ryczałtu w wysokości 10 % przychodów;
-- **5)** z tytułu świadczeń doradczych, księgowych, badania rynku, usług prawnych, usług reklamowych, zarządzania i kontroli, przetwarzania danych, usług rekrutacji pracowników i pozyskiwania personelu, gwarancji i poręczeń oraz świadczeń o podobnym charakterze pobiera się w formie ryczałtu w wysokości 20 % przychodu.
+- **1)** z działalności określonej w art. 13 pkt 2 i 6–9 oraz z odsetek innych niż wymienione w art. 30a ust. 1, z praw autorskich lub z praw pokrewnych, z praw do projektów wynalazczych, znaków towarowych i wzorów zdobniczych, w tym również ze sprzedaży tych praw, z należności za udostępnienie tajemnicy receptury lub procesu produkcyjnego, za użytkowanie lub prawo do użytkowania urządzenia przemysłowego, handlowego lub naukowego, w tym także środka transportu, oraz za informacje związane ze zdobytym doświadczeniem w dziedzinie przemysłowej, handlowej lub naukowej (know-how) – pobiera się w formie ryczałtu w wysokości 20 % przychodu;
+- **2)** z opłat za usługi w zakresie działalności widowiskowej, rozrywkowej lub sportowej, wykonywanej przez osoby fizyczne mające miejsce zamieszkania za granicą, a organizowanej za pośrednictwem osób fizycznych lub osób prawnych prowadzących działalność w zakresie imprez artystycznych, rozrywkowych lub sportowych na terytorium Rzeczypospolitej Polskiej – pobiera się w formie ryczałtu w wysokości 20 % przychodu;
+- **3)** z tytułu należnych opłat za wywóz ładunków i pasażerów przyjętych do przewozu w portach polskich przez zagraniczne przedsiębiorstwa morskiej żeglugi handlowej, z wyjątkiem ładunków i pasażerów tranzytowych – pobiera się w formie ryczałtu w wysokości 10 % przychodów;
+- **4)** uzyskanych na terytorium Rzeczypospolitej Polskiej przez zagraniczne przedsiębiorstwa żeglugi powietrznej, z wyłączeniem przychodów uzyskanych z lotniczego rozkładowego przewozu pasażerskiego, skorzystanie z którego wymaga posiadania biletu lotniczego przez pasażera – pobiera się w formie ryczałtu w wysokości 10 % przychodów;
+- **5)** z tytułu świadczeń doradczych, księgowych, badania rynku, usług prawnych, usług reklamowych, zarządzania i kontroli, przetwarzania danych, usług rekrutacji pracowników i pozyskiwania personelu, gwarancji i poręczeń oraz świadczeń o podobnym charakterze – pobiera się w formie ryczałtu w wysokości 20 % przychodu.
 
 2. Przepisy ust. 1 stosuje się z uwzględnieniem umów o unikaniu podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania lub niepobranie (niezapłacenie) podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.
 
@@ -3668,7 +4006,7 @@ Art. 46–51. (pominięte)
 4. Jeżeli podatnicy, o których mowa w art. 3 ust. 2a:
 
 - **1)** mają miejsce zamieszkania dla celów podatkowych w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego albo w Konfederacji Szwajcarskiej i
-- **2)** udokumentowali certyfikatem rezydencji miejsce zamieszkania dla celów podatkowych uzyskane przychody, o których mowa w ust. 1, podlegające opodatkowaniu na terytorium Rzeczypospolitej Polskiej mogą, na wniosek wyrażony w zeznaniu podatkowym składanym za dany rok podatkowy, opodatkować na zasadach określonych w art. 27 ust. 1. W tym przypadku pobrany od tych przychodów zryczałtowany podatek dochodowy, o którym mowa w ust. 1, traktuje się na równi z pobraną przez płatnika zaliczką na podatek dochodowy.
+- **2)** udokumentowali certyfikatem rezydencji miejsce zamieszkania dla celów podatkowych – uzyskane przychody, o których mowa w ust. 1, podlegające opodatkowaniu na terytorium Rzeczypospolitej Polskiej mogą, na wniosek wyrażony w zeznaniu podatkowym składanym za dany rok podatkowy, opodatkować na zasadach określonych w art. 27 ust. 1. W tym przypadku pobrany od tych przychodów zryczałtowany podatek dochodowy, o którym mowa w ust. 1, traktuje się na równi z pobraną przez płatnika zaliczką na podatek dochodowy.
 
 5. Przepis ust. 4 stosuje się, jeżeli istnieje podstawa prawna wynikająca z umowy o unikaniu podwójnego opodatkowania lub innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego państwa, w którym osoba fizyczna ma miejsce zamieszkania dla celów podatkowych.
 
@@ -3679,28 +4017,28 @@ Art. 46–51. (pominięte)
 1. Od dochodów (przychodów) pobiera się zryczałtowany podatek dochodowy:
 
 - **1)** (uchylony) 1a) (uchylony) 1b) (uchylony) 1c) (uchylony)
-- **2)** z tytułu wygranych w konkursach, grach i zakładach wzajemnych lub nagród związanych ze sprzedażą premiową, uzyskanych w państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego w wysokości 10 % wygranej lub nagrody;
+- **2)** z tytułu wygranych w konkursach, grach i zakładach wzajemnych lub nagród związanych ze sprzedażą premiową, uzyskanych w państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego – w wysokości 10 % wygranej lub nagrody;
 - **3)** (uchylony)
-- **4)** z tytułu świadczeń otrzymanych przez emerytów, rencistów lub osoby pobierające nauczycielskie świadczenie kompensacyjne, w związku z łączącym ich uprzednio z zakładem pracy stosunkiem służbowym, stosunkiem pracy, pracy nakładczej lub spółdzielczym stosunkiem pracy, w tym od związków zawodowych, z zastrzeżeniem art. 21 ust. 1 pkt 26 i 38 w wysokości 10 % należności;
-- **4a)** z tytułu świadczeń pieniężnych otrzymywanych po zwolnieniu ze służby przez funkcjonariuszy służb mundurowych oraz żołnierzy, w związku ze zwolnieniem tych osób ze służby stałej na podstawie odrębnych ustaw, przez okres roku co miesiąc lub za okres roku jednorazowo albo co miesiąc przez okres trzech miesięcy w wysokości 20 % należności;
-- **4b)** z tytułu świadczeń otrzymanych od banków, spółdzielczych kas oszczędnościowo-kredytowych lub instytucji finansowych w rozumieniu odrębnych przepisów, w związku z promocjami oferowanymi przez te podmioty w wysokości 19 % świadczenia;
-- **5)** (uchylony) 5a) z tytułu, o którym mowa w art. 13 pkt 2 i 5–9, jeżeli kwota należności określona w umowie zawartej z osobą niebędącą pracownikiem płatnika nie przekracza 200 zł w wysokości 12 % przychodu;
+- **4)** z tytułu świadczeń otrzymanych przez emerytów, rencistów lub osoby pobierające nauczycielskie świadczenie kompensacyjne, w związku z łączącym ich uprzednio z zakładem pracy stosunkiem służbowym, stosunkiem pracy, pracy nakładczej lub spółdzielczym stosunkiem pracy, w tym od związków zawodowych, z zastrzeżeniem art. 21 ust. 1 pkt 26 i 38 – w wysokości 10 % należności;
+- **4a)** z tytułu świadczeń pieniężnych otrzymywanych po zwolnieniu ze służby przez funkcjonariuszy służb mundurowych oraz żołnierzy, w związku ze zwolnieniem tych osób ze służby stałej na podstawie odrębnych ustaw, przez okres roku co miesiąc lub za okres roku jednorazowo albo co miesiąc przez okres trzech miesięcy – w wysokości 20 % należności;
+- **4b)** z tytułu świadczeń otrzymanych od banków, spółdzielczych kas oszczędnościowo-kredytowych lub instytucji finansowych w rozumieniu odrębnych przepisów, w związku z promocjami oferowanymi przez te podmioty – w wysokości 19 % świadczenia;
+- **5)** (uchylony) 5a) z tytułu, o którym mowa w art. 13 pkt 2 i 5–9, jeżeli kwota należności określona w umowie zawartej z osobą niebędącą pracownikiem płatnika nie przekracza 200 zł – w wysokości 12 % przychodu;
 - **6)** (uchylony)
-- **7)** (uchylony) 7a) z tytułu gromadzenia oszczędności na więcej niż jednym indywidualnym koncie emerytalnym, w rozumieniu przepisów o indywidualnych kontach emerytalnych w wysokości 75 % uzyskanego dochodu na każdym indywidualnym koncie emerytalnym;
-- **7b)** z tytułu gromadzenia oszczędności na więcej niż jednym subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE, jeżeli przepisy ustawy o OIPE nie przewidują takiej możliwości w wysokości 75 % uzyskanego dochodu z tytułu gromadzenia oszczędności na każdym subkoncie OIPE;
+- **7)** (uchylony) 7a) z tytułu gromadzenia oszczędności na więcej niż jednym indywidualnym koncie emerytalnym, w rozumieniu przepisów o indywidualnych kontach emerytalnych – w wysokości 75 % uzyskanego dochodu na każdym indywidualnym koncie emerytalnym;
+- **7b)** z tytułu gromadzenia oszczędności na więcej niż jednym subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE, jeżeli przepisy ustawy o OIPE nie przewidują takiej możliwości – w wysokości 75 % uzyskanego dochodu z tytułu gromadzenia oszczędności na każdym subkoncie OIPE;
 - **8)** (uchylony)
 - **9)** (uchylony)
 - **10)** (uchylony)
 - **11)** (uchylony)
 - **12)** (uchylony)
-- **13)** od jednorazowych odszkodowań za skrócenie okresu wypowiedzenia, wypłacanych żołnierzom zwalnianym z zawodowej służby wojskowej na podstawie art. 14 ust. 2 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 161) w wysokości 20 % przychodu;
-- **14)** od kwoty wypłat z indywidualnego konta zabezpieczenia emerytalnego, w tym wypłat na rzecz osoby uprawnionej na wypadek śmierci oszczędzającego dokonanych na podstawie art. 34a ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2026 r. poz. 91) w wysokości 10 % przychodu;
-- **14a)** od kwoty świadczeń z tytułu gromadzenia oszczędności na subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej w wysokości 10 % przychodu;
-- **15)** z tytułu odszkodowań przyznanych na podstawie przepisów o zakazie konkurencji, jeżeli zobowiązaną do zapłaty odszkodowania jest spółka, w której Skarb Państwa, jednostka samorządu terytorialnego, związek jednostek samorządu terytorialnego, państwowa osoba prawna lub komunalna osoba prawna dysponują bezpośrednio lub pośrednio większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, w tym także na podstawie porozumień z innymi osobami, w części, w której wysokość odszkodowania przekracza wysokość wynagrodzenia otrzymanego przez podatnika z tytułu umowy o pracę lub umowy o świadczenie usług wiążącej go ze spółką w okresie sześciu miesięcy poprzedzających pierwszy miesiąc wypłaty odszkodowania w wysokości 70 % tej części należnego odszkodowania;
-- **16)** z tytułu odpraw lub odszkodowań za skrócenie okresu wypowiedzenia umowy o pracę, której przedmiotem są czynności związane z zarządzaniem, lub umowy o świadczenie usług zarządzania, zawartych ze spółką, o której mowa w pkt 15, lub rozwiązania ich przed upływem terminu, na który zostały zawarte, w części, w jakiej wysokość odpraw lub odszkodowań przekracza trzykrotność miesięcznego wynagrodzenia otrzymanego przez podatnika z tytułu zawartej umowy w wysokości 70 % należnej odprawy lub odszkodowania;
-- **17)** z tytułu uzyskania przychodów, o których mowa w art. 20 ust. 1g w wysokości:
+- **13)** od jednorazowych odszkodowań za skrócenie okresu wypowiedzenia, wypłacanych żołnierzom zwalnianym z zawodowej służby wojskowej na podstawie art. 14 ust. 2 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 161) – w wysokości 20 % przychodu;
+- **14)** od kwoty wypłat z indywidualnego konta zabezpieczenia emerytalnego, w tym wypłat na rzecz osoby uprawnionej na wypadek śmierci oszczędzającego dokonanych na podstawie art. 34a ust. 1 pkt 2 ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2026 r. poz. 91) – w wysokości 10 % przychodu;
+- **14a)** od kwoty świadczeń z tytułu gromadzenia oszczędności na subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia 2019/1238, prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej – w wysokości 10 % przychodu;
+- **15)** z tytułu odszkodowań przyznanych na podstawie przepisów o zakazie konkurencji, jeżeli zobowiązaną do zapłaty odszkodowania jest spółka, w której Skarb Państwa, jednostka samorządu terytorialnego, związek jednostek samorządu terytorialnego, państwowa osoba prawna lub komunalna osoba prawna dysponują bezpośrednio lub pośrednio większością głosów na zgromadzeniu wspólników albo na walnym zgromadzeniu, w tym także na podstawie porozumień z innymi osobami, w części, w której wysokość odszkodowania przekracza wysokość wynagrodzenia otrzymanego przez podatnika z tytułu umowy o pracę lub umowy o świadczenie usług wiążącej go ze spółką w okresie sześciu miesięcy poprzedzających pierwszy miesiąc wypłaty odszkodowania – w wysokości 70 % tej części należnego odszkodowania;
+- **16)** z tytułu odpraw lub odszkodowań za skrócenie okresu wypowiedzenia umowy o pracę, której przedmiotem są czynności związane z zarządzaniem, lub umowy o świadczenie usług zarządzania, zawartych ze spółką, o której mowa w pkt 15, lub rozwiązania ich przed upływem terminu, na który zostały zawarte, w części, w jakiej wysokość odpraw lub odszkodowań przekracza trzykrotność miesięcznego wynagrodzenia otrzymanego przez podatnika z tytułu zawartej umowy – w wysokości 70 % należnej odprawy lub odszkodowania;
+- **17)** z tytułu uzyskania przychodów, o których mowa w art. 20 ust. 1g – w wysokości:
     - **a)** 10 % przychodów uzyskanych przez osobę będącą w stosunku do fundatora osobą zaliczoną do I lub II grupy podatkowej w rozumieniu przepisów ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn, w części odpowiadającej proporcji, o której mowa w art. 27 ust. 4 ustawy z dnia 26 stycznia 2023 r. o fundacji rodzinnej, według stanu na dzień uzyskania przychodu,
-    - **b)** 15 % przychodów w zakresie przychodów, które nie podlegają opodatkowaniu na podstawie lit. a.
+    - **b)** 15 % przychodów – w zakresie przychodów, które nie podlegają opodatkowaniu na podstawie lit. a.
 
 1a. (uchylony) 1b. (uchylony) 1c. (uchylony) 1d. (uchylony)
 
@@ -3748,12 +4086,12 @@ Art. 46–51. (pominięte)
 - **10)** od dochodu oszczędzającego na indywidualnym koncie emerytalnym z tytułu zwrotu albo częściowego zwrotu, w rozumieniu przepisów o indywidualnych kontach emerytalnych, środków zgromadzonych na tym koncie;
 - **10a)** od dochodu z tytułu zwrotu środków zgromadzonych na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy o OIPE;
 - **11)** od dochodu uczestnika pracowniczego programu emerytalnego z tytułu zwrotu środków zgromadzonych w ramach programu, w rozumieniu przepisów o pracowniczych programach emerytalnych;
-- **11a)** od dochodu uczestnika pracowniczego planu kapitałowego uzyskanego w związku z wypłatą dokonaną na podstawie art. 98 ustawy o pracowniczych planach kapitałowych w zakresie, w jakim uczestnik pracowniczego planu kapitałowego nie dokonał zwrotu wypłaconych środków w terminie wynikającym z umowy zawartej z wybraną instytucją finansową;
-- **11b)** od dochodu uczestnika pracowniczego planu kapitałowego z tytułu wypłaty środków, o których mowa w art. 99 ust. 1 pkt 2 ustawy o pracowniczych planach kapitałowych jeżeli wypłata będzie wypłacana w mniejszej ilości rat niż 120 miesięcznych rat, albo z tytułu wypłaty jednorazowej w przypadku określonym w art. 99 ust. 2 ustawy o pracowniczych planach kapitałowych;
+- **11a)** od dochodu uczestnika pracowniczego planu kapitałowego uzyskanego w związku z wypłatą dokonaną na podstawie art. 98 ustawy o pracowniczych planach kapitałowych – w zakresie, w jakim uczestnik pracowniczego planu kapitałowego nie dokonał zwrotu wypłaconych środków w terminie wynikającym z umowy zawartej z wybraną instytucją finansową;
+- **11b)** od dochodu uczestnika pracowniczego planu kapitałowego z tytułu wypłaty środków, o których mowa w art. 99 ust. 1 pkt 2 ustawy o pracowniczych planach kapitałowych – jeżeli wypłata będzie wypłacana w mniejszej ilości rat niż 120 miesięcznych rat, albo z tytułu wypłaty jednorazowej – w przypadku określonym w art. 99 ust. 2 ustawy o pracowniczych planach kapitałowych;
 - **11c)** od dochodu małżonka lub byłego małżonka uczestnika pracowniczego planu kapitałowego z tytułu zwrotu dokonanego na podstawie art. 80 ust. 2 ustawy o pracowniczych planach kapitałowych;
 - **11d)** od dochodu uczestnika pracowniczego planu kapitałowego uzyskanego z tytułu zwrotu zgromadzonych środków dokonanego na podstawie art. 105 ustawy o pracowniczych planach kapitałowych;
-- **11e)** od dochodu małżonka lub byłego małżonka, z tytułu wypłaty 75 % środków, które zostały mu przekazane w formie wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej lub rachunek lokaty terminowej, o których mowa w art. 80 ust. 2 ustawy o pracowniczych planach kapitałowych, dokonanej po osiągnięciu przez niego 60 roku życia jeżeli wypłata ta nastąpi w wyniku likwidacji rachunku terminowej lokaty oszczędnościowej lub rachunku lokaty terminowej albo nastąpi zmiana umowy takiego rachunku;
-- **11f)** od dochodu uczestnika pracowniczego planu kapitałowego z tytułu wypłaty 75 % środków zgromadzonych na rachunku w pracowniczym planie kapitałowym, które zostały przekazane w formie wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej lub rachunek lokaty terminowej, o których mowa w art. 102 ust. 3 ustawy o pracowniczych planach kapitałowych jeżeli wypłata ta nastąpi w wyniku likwidacji rachunku terminowej lokaty oszczędnościowej lub rachunku lokaty terminowej albo nastąpi zmiana umowy takiego rachunku;
+- **11e)** od dochodu małżonka lub byłego małżonka, z tytułu wypłaty 75 % środków, które zostały mu przekazane w formie wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej lub rachunek lokaty terminowej, o których mowa w art. 80 ust. 2 ustawy o pracowniczych planach kapitałowych, dokonanej po osiągnięciu przez niego 60 roku życia – jeżeli wypłata ta nastąpi w wyniku likwidacji rachunku terminowej lokaty oszczędnościowej lub rachunku lokaty terminowej albo nastąpi zmiana umowy takiego rachunku;
+- **11f)** od dochodu uczestnika pracowniczego planu kapitałowego z tytułu wypłaty 75 % środków zgromadzonych na rachunku w pracowniczym planie kapitałowym, które zostały przekazane w formie wypłaty transferowej na rachunek terminowej lokaty oszczędnościowej lub rachunek lokaty terminowej, o których mowa w art. 102 ust. 3 ustawy o pracowniczych planach kapitałowych – jeżeli wypłata ta nastąpi w wyniku likwidacji rachunku terminowej lokaty oszczędnościowej lub rachunku lokaty terminowej albo nastąpi zmiana umowy takiego rachunku;
 - **12)** od kwoty wypłaty gwarantowanej, o której mowa w art. 25b ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
 - **13)** od dochodu z tytułu otrzymania składników majątku w związku z likwidacją spółki niebędącej osobą prawną, wystąpieniem wspólnika z takiej spółki lub zmniejszeniem udziału kapitałowego w takiej spółce, w wyniku otrzymania których Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tych składników majątku.
 
@@ -3817,8 +4155,8 @@ Art. 46–51. (pominięte)
 
 19. Zryczałtowany podatek, obliczony zgodnie z ust. 1 pkt 4, od przychodów uzyskiwanych przez wspólnika z wypłat podzielonych zysków spółki osiągniętych przez tę spółkę w okresie opodatkowania ryczałtem od dochodów spółek, zgodnie z przepisami rozdziału 6b ustawy o podatku dochodowym od osób prawnych, jeżeli pochodzą z podziału zysków z tego okresu wyodrębnionych w kapitale własnym spółki, pomniejsza się o kwotę stanowiącą:
 
-- **1)** 90 % kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany w przypadku przychodów z podzielonego zysku wypłaconych z zysków spółki opodatkowanych zgodnie z art. 28o ust. 1 pkt 1 ustawy o podatku dochodowym od osób prawnych, albo
-- **2)** 70 % kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany w przypadku przychodów z podzielonego zysku wypłaconych z zysków spółki opodatkowanych zgodnie z art. 28o ust. 1 pkt 2 ustawy o podatku dochodowym od osób prawnych.
+- **1)** 90 % kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany – w przypadku przychodów z podzielonego zysku wypłaconych z zysków spółki opodatkowanych zgodnie z art. 28o ust. 1 pkt 1 ustawy o podatku dochodowym od osób prawnych, albo
+- **2)** 70 % kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany – w przypadku przychodów z podzielonego zysku wypłaconych z zysków spółki opodatkowanych zgodnie z art. 28o ust. 1 pkt 2 ustawy o podatku dochodowym od osób prawnych.
 
 20. Dochodem, o którym mowa w ust. 1 pkt 13, jest różnica między wartością rynkową otrzymanych składników majątku ustaloną na dzień ich otrzymania a wydatkami poniesionymi na ich nabycie lub wytworzenie, niezaliczonymi w jakiejkolwiek formie do kosztów uzyskania przychodów przez wspólnika lub spółkę niebędącą osobą prawną, przy czym przepisy art. 19 oraz art. 22 ust. 8a stosuje się odpowiednio.
 
@@ -3830,7 +4168,7 @@ Art. 46–51. (pominięte)
 - **2)** z odpłatnego zbycia udziałów (akcji),
 - **3)** z odpłatnego zbycia udziałów w spółdzielni,
 - **4)** z tytułu objęcia udziałów (akcji) albo wkładów w spółdzielni w zamian za wkład niepieniężny,
-- **5)** z umorzenia, odkupienia, wykupienia albo unicestwienia w inny sposób tytułów uczestnictwa w funduszach kapitałowych podatek dochodowy wynosi 19 % uzyskanego dochodu.
+- **5)** z umorzenia, odkupienia, wykupienia albo unicestwienia w inny sposób tytułów uczestnictwa w funduszach kapitałowych – podatek dochodowy wynosi 19 % uzyskanego dochodu.
 
 1a. Od dochodów uzyskanych z odpłatnego zbycia walut wirtualnych podatek dochodowy wynosi 19 % uzyskanego dochodu.
 
@@ -3844,7 +4182,7 @@ Art. 46–51. (pominięte)
 - **4)** różnica między sumą przychodów uzyskanych z odpłatnego zbycia udziałów (akcji) albo udziałów w spółdzielni a kosztami uzyskania przychodów określonymi na podstawie art. 22 ust. 1f oraz art. 23 ust. 1 pkt 38 i 38c,
 - **5)** różnica pomiędzy przychodem określonym zgodnie z art. 17 ust. 1 pkt 9 a kosztami uzyskania przychodów określonymi na podstawie art. 22 ust. 1e,
 - **6)** różnica między przychodem uzyskanym z odpłatnego zbycia udziałów (akcji) spółki kapitałowej powstałej w wyniku przekształcenia przedsiębiorcy będącego osobą fizyczną w jednoosobową spółkę kapitałową a kosztami uzyskania przychodów, określonymi na podstawie art. 22 ust. 1ł,
-- **7)** różnica między sumą przychodów uzyskanych z tytułu umorzenia, odkupienia, wykupienia albo unicestwienia w inny sposób tytułów uczestnictwa w funduszach kapitałowych a kosztami uzyskania przychodów, określonymi na podstawie art. 23 ust. 1 pkt 38 osiągnięta w roku podatkowym.
+- **7)** różnica między sumą przychodów uzyskanych z tytułu umorzenia, odkupienia, wykupienia albo unicestwienia w inny sposób tytułów uczestnictwa w funduszach kapitałowych a kosztami uzyskania przychodów, określonymi na podstawie art. 23 ust. 1 pkt 38 – osiągnięta w roku podatkowym.
 
 3. Przepisy ust. 1 i 1a stosuje się z uwzględnieniem umów o unikaniu podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska. Jednakże zastosowanie stawki podatku wynikającej z właściwej umowy o unikaniu podwójnego opodatkowania albo niezapłacenie podatku zgodnie z taką umową jest możliwe pod warunkiem udokumentowania dla celów podatkowych miejsca zamieszkania podatnika uzyskanym od niego certyfikatem rezydencji.
 
@@ -3881,7 +4219,7 @@ Art. 46–51. (pominięte)
 - **1)** składki na ubezpieczenia społeczne określone w art. 26 ust. 1 pkt 2 lit. a i pkt 2a;
 - **2)** składki na ubezpieczenie zdrowotne zapłacone w roku podatkowym na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych:
     - **a)** z tytułu pozarolniczej działalności gospodarczej opodatkowanej zgodnie z ust. 1,
-    - **b)** za osoby współpracujące z podatnikiem opodatkowanym w sposób określony w ust. 1 przy czym łączna wysokość tych składek zaliczonych do kosztów uzyskania przychodów lub odliczonych od dochodu nie może przekroczyć w roku podatkowym 8700 zł ;
+    - **b)** za osoby współpracujące z podatnikiem opodatkowanym w sposób określony w ust. 1 – przy czym łączna wysokość tych składek zaliczonych do kosztów uzyskania przychodów lub odliczonych od dochodu nie może przekroczyć w roku podatkowym 8700 zł ;
 
 - **3)** wpłaty na indywidualne konto zabezpieczenia emerytalnego określone w art. 26 ust. 1 pkt 2b;
 - **4)** darowiznę, o której mowa w art. 26 ust. 1 pkt 9 lit. d, w wysokości dokonanej darowizny, niewięcej jednak niż kwoty stanowiącej 6 % dochodu.
@@ -3907,7 +4245,11 @@ Art. 46–51. (pominięte)
 
 5. W przypadku podatnika, o którym mowa w art. 3 ust. 1, uzyskującego wyłącznie dochody z tytułu działalności wykonywanej poza terytorium Rzeczypospolitej Polskiej lub ze źródeł przychodów znajdujących się poza terytorium Rzeczypospolitej Polskiej, które nie są zwolnione od podatku dochodowego na podstawie umowy o unikaniu podwójnego opodatkowania, lub gdy z państwem, w którym dochody są osiągane, Rzeczpospolita Polska nie zawarła umowy o unikaniu podwójnego opodatkowania, zasadę określoną w ust. 4 stosuje się odpowiednio.
 
-6. Dochodów z pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, opodatkowanych w sposób określony w ust. 1, nie łączy się z dochodami opodatkowanymi na zasadach określonych w art. 27, art. 30b, art. 30ca, art. 30da, art. 30e i art. 30f. Art. 30ca. 1. Podatek od osiągniętego przez podatnika w ramach pozarolniczej działalności gospodarczej kwalifikowanego dochodu z kwalifikowanych praw własności intelektualnej wynosi 5 % podstawy opodatkowania.
+6. Dochodów z pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, opodatkowanych w sposób określony w ust. 1, nie łączy się z dochodami opodatkowanymi na zasadach określonych w art. 27, art. 30b, art. 30ca, art. 30da, art. 30e i art. 30f.
+
+**Art. 30ca.**
+
+1. Podatek od osiągniętego przez podatnika w ramach pozarolniczej działalności gospodarczej kwalifikowanego dochodu z kwalifikowanych praw własności intelektualnej wynosi 5 % podstawy opodatkowania.
 
 2. Kwalifikowanymi prawami własności intelektualnej są:
 
@@ -3918,11 +4260,11 @@ Art. 46–51. (pominięte)
 - **5)** dodatkowe prawo ochronne dla patentu na produkt leczniczy lub produkt ochrony roślin,
 - **6)** prawo z rejestracji produktu leczniczego i produktu leczniczego weterynaryjnego dopuszczonych do obrotu,
 - **7)** wyłączne prawo, o którym mowa w ustawie z dnia 26 czerwca 2003 r. o ochronie prawnej odmian roślin (Dz. U. z 2021 r. poz. 213 oraz z 2025 r. poz. 1709),
-- **8)** autorskie prawo do programu komputerowego podlegające ochronie prawnej na podstawie przepisów odrębnych ustaw lub ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, których przedmiot ochrony został wytworzony, rozwinięty lub ulepszony przez podatnika w ramach prowadzonej przez niego działalności badawczo-rozwojowej.
+- **8)** autorskie prawo do programu komputerowego – podlegające ochronie prawnej na podstawie przepisów odrębnych ustaw lub ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, których przedmiot ochrony został wytworzony, rozwinięty lub ulepszony przez podatnika w ramach prowadzonej przez niego działalności badawczo-rozwojowej.
 
 3. Podstawę opodatkowania stanowi suma kwalifikowanych dochodów z kwalifikowanych praw własności intelektualnej osiągniętych w roku podatkowym.
 
-4. Wysokość kwalifikowanego dochodu z kwalifikowanego prawa własności intelektualnej ustala się jako iloczyn dochodu z kwalifikowanego prawa własności intelektualnej osiągniętego w roku podatkowym i wskaźnika obliczonego według wzoru: (a+b)∗1,3 a+b+c+d w którym poszczególne litery oznaczają koszty faktycznie poniesione przez podatnika na: a prowadzoną bezpośrednio przez podatnika działalność badawczo-rozwojową związaną z kwalifikowanym prawem własności intelektualnej, b nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu niepowiązanego w rozumieniu art. 23m ust. 1 pkt 3, c nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu powiązanego w rozumieniu art. 23m ust. 1 pkt 4, d nabycie przez podatnika kwalifikowanego prawa własności intelektualnej.
+4. Wysokość kwalifikowanego dochodu z kwalifikowanego prawa własności intelektualnej ustala się jako iloczyn dochodu z kwalifikowanego prawa własności intelektualnej osiągniętego w roku podatkowym i wskaźnika obliczonego według wzoru: (a+b)∗1,3 a+b+c+d w którym poszczególne litery oznaczają koszty faktycznie poniesione przez podatnika na: a – prowadzoną bezpośrednio przez podatnika działalność badawczo-rozwojową związaną z kwalifikowanym prawem własności intelektualnej, b – nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu niepowiązanego w rozumieniu art. 23m ust. 1 pkt 3, c – nabycie wyników prac badawczo-rozwojowych związanych z kwalifikowanym prawem własności intelektualnej, innych niż wymienione w lit. d, od podmiotu powiązanego w rozumieniu art. 23m ust. 1 pkt 4, d – nabycie przez podatnika kwalifikowanego prawa własności intelektualnej.
 
 5. Do kosztów, o których mowa w ust. 4, nie zalicza się kosztów, które nie są bezpośrednio związane z kwalifikowanym prawem własności intelektualnej, w szczególności odsetek, opłat finansowych oraz kosztów związanych z nieruchomościami.
 
@@ -3949,19 +4291,159 @@ Art. 46–51. (pominięte)
 
 13. W przypadku wycofania zgłoszenia lub wniosku, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia lub odrzucenia wniosku o rejestrację podatnik jest obowiązany opodatkować zgodnie z art. 27 lub art. 30c kwalifikowane dochody z prawa własności intelektualnej uzyskane w okresie od dnia zgłoszenia lub złożenia wniosku, o którym mowa w ust. 12, do dnia wycofania wniosku lub zgłoszenia, odmowy udzielenia prawa ochronnego, odrzucenia zgłoszenia lub odrzucenia wniosku o rejestrację. W tym przypadku od podatku obliczonego od łącznej sumy dochodów odlicza się podatek zapłacony na podstawie ust. 1.
 
-14. Przepisy ust. 1–13 stosuje się odpowiednio do dochodów z licencji do korzystania z kwalifikowanego prawa własności intelektualnej przysługującej podatnikowi na podstawie umowy, w której zastrzeżono wyłączność korzystania przez podatnika z tego prawa, pod warunkiem uprzedniego prowadzenia przez podatnika prac badawczo-rozwojowych, których efektem jest kwalifikowane prawo własności intelektualnej, na które udzielono tej licencji. Art. 30cb. 1. Podatnicy podlegający opodatkowaniu na podstawie art. 30ca są obowiązani:
+14. Przepisy ust. 1–13 stosuje się odpowiednio do dochodów z licencji do korzystania z kwalifikowanego prawa własności intelektualnej przysługującej podatnikowi na podstawie umowy, w której zastrzeżono wyłączność korzystania przez podatnika z tego prawa, pod warunkiem uprzedniego prowadzenia przez podatnika prac badawczo-rozwojowych, których efektem jest kwalifikowane prawo własności intelektualnej, na które udzielono tej licencji.
+
+**Art. 30cb.**
+
+1. Podatnicy podlegający opodatkowaniu na podstawie art. 30ca są obowiązani:
 
 - **1)** wyodrębnić każde kwalifikowane prawo własności intelektualnej w prowadzonych księgach rachunkowych;
 - **2)** prowadzić księgi rachunkowe w sposób zapewniający ustalenie przychodów, kosztów uzyskania przychodów i dochodu (straty), przypadających na każde kwalifikowane prawo własności intelektualnej;
 - **3)** wyodrębnić koszty, o których mowa w art. 30ca ust. 4, przypadające na każde kwalifikowane prawo własności intelektualnej, w sposób zapewniający określenie kwalifikowanego dochodu;
-- **4)** dokonywać zapisów w prowadzonych księgach rachunkowych w sposób zapewniający ustalenie łącznego dochodu z kwalifikowanych praw własności intelektualnej w przypadku gdy podatnik wykorzystuje więcej niż jedno kwalifikowane prawo własności intelektualnej, a w prowadzonych księgach rachunkowych nie jest możliwe spełnienie warunków, o których mowa w pkt 2 i 3;
-- **5)** dokonywać zapisów w prowadzonych księgach rachunkowych w sposób zapewniający ustalenie dochodu z kwalifikowanych praw własności intelektualnej w odniesieniu do tego produktu lub tej usługi albo do tych produktów lub tych usług w przypadku gdy podatnik wykorzystuje jedno kwalifikowane prawo własności intelektualnej lub większą liczbę tych praw w produkcie lub usłudze albo w produktach lub usługach, a w prowadzonych księgach rachunkowych nie jest możliwe spełnienie warunków, o których mowa w pkt 2–4.
+- **4)** dokonywać zapisów w prowadzonych księgach rachunkowych w sposób zapewniający ustalenie łącznego dochodu z kwalifikowanych praw własności intelektualnej – w przypadku gdy podatnik wykorzystuje więcej niż jedno kwalifikowane prawo własności intelektualnej, a w prowadzonych księgach rachunkowych nie jest możliwe spełnienie warunków, o których mowa w pkt 2 i 3;
+- **5)** dokonywać zapisów w prowadzonych księgach rachunkowych w sposób zapewniający ustalenie dochodu z kwalifikowanych praw własności intelektualnej w odniesieniu do tego produktu lub tej usługi albo do tych produktów lub tych usług – w przypadku gdy podatnik wykorzystuje jedno kwalifikowane prawo własności intelektualnej lub większą liczbę tych praw w produkcie lub usłudze albo w produktach lub usługach, a w prowadzonych księgach rachunkowych nie jest możliwe spełnienie warunków, o których mowa w pkt 2–4.
 
 2. Podatnicy prowadzący podatkową księgę przychodów i rozchodów wykazują informacje, o których mowa w ust. 1, w odrębnej ewidencji.
 
 3. W przypadku gdy na podstawie ksiąg rachunkowych lub ewidencji, o której mowa w ust. 2, nie jest możliwe ustalenie dochodu (straty) z kwalifikowanych praw własności intelektualnej, podatnik jest obowiązany do zapłaty podatku zgodnie z art. 27 lub art. 30c.
 
-**Art. 30d.** (uchylony) Art. 30da. 1. Podatek od dochodów z niezrealizowanych zysków wynosi:
+**Art. 30d.** (uchylony)
+
+**Art. 30da.**
+
+1. Podatek od dochodów z niezrealizowanych zysków wynosi:
+
+- **1)** 19 % podstawy opodatkowania – gdy ustalana jest wartość podatkowa składnika majątku;
+- **2)** 3 % podstawy opodatkowania – gdy nie ustala się wartości podatkowej składnika majątku.
+
+2. Opodatkowaniu podatkiem od dochodów z niezrealizowanych zysków podlega:
+
+- **1)** przeniesienie składnika majątku poza terytorium Rzeczypospolitej Polskiej, w wyniku którego Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tego składnika majątku, przy czym przenoszony składnik majątku pozostaje własnością tego samego podmiotu;
+- **2)** zmiana rezydencji podatkowej przez podatnika podlegającego w Rzeczypospolitej Polskiej nieograniczonemu obowiązkowi podatkowemu, w wyniku której Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia składnika majątku będącego własnością tego podatnika, w związku z przeniesieniem jego miejsca zamieszkania do innego państwa.
+
+3. W przypadku składnika majątku niezwiązanego z działalnością gospodarczą opodatkowaniu podatkiem od dochodów z niezrealizowanych zysków w przypadku, o którym mowa w ust. 2 pkt 2, podlegają tylko składniki majątku stanowiące: ogół praw i obowiązków w spółce niebędącej osobą prawną, udziały w spółce, akcje i inne papiery wartościowe, pochodne instrumenty finansowe oraz tytuły uczestnictwa w funduszach kapitałowych, zwane dalej „majątkiem osobistym”, jeżeli podatnik ma miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej przez łącznie co najmniej pięć lat w dziesięcioletnim okresie poprzedzającym dzień zmiany rezydencji podatkowej.
+
+4. Przeniesienie składnika majątku poza terytorium Rzeczypospolitej Polskiej, o którym mowa w ust. 2 pkt 1, obejmuje w szczególności sytuację, w której:
+
+- **1)** podatnik, o którym mowa w art. 3 ust. 1, przenosi do swojego zagranicznego zakładu składnik majątku dotychczas związany z działalnością gospodarczą prowadzoną na terytorium Rzeczypospolitej Polskiej;
+- **2)** podatnik, o którym mowa w art. 3 ust. 2a, przenosi do państwa swojej rezydencji podatkowej lub do innego niż Rzeczpospolita Polska państwa, w którym prowadzi działalność gospodarczą poprzez zagraniczny zakład, składnik majątku dotychczas związany z działalnością gospodarczą prowadzoną na terytorium Rzeczypospolitej Polskiej przez zagraniczny zakład;
+- **3)** podatnik, o którym mowa w art. 3 ust. 2a, przenosi do innego państwa całość albo część działalności gospodarczej prowadzonej dotychczas poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład.
+
+5. Opodatkowanie podatkiem od dochodów z niezrealizowanych zysków w wyniku zmiany rezydencji podatkowej, o której mowa w ust. 2 pkt 2, nie dotyczy składników majątku, które po zmianie rezydencji podatkowej pozostają związane z położonym na terytorium Rzeczypospolitej Polskiej zagranicznym zakładem podatnika, który zmienił rezydencję podatkową.
+
+6. Dniem przeniesienia składnika majątku poza terytorium Rzeczypospolitej Polskiej jest dzień poprzedzający dzień, w którym składnik ten przestaje być przypisany do działalności prowadzonej na terytorium Rzeczypospolitej Polskiej, w tym poprzez zagraniczny zakład.
+
+7. Dochód z niezrealizowanych zysków stanowi nadwyżka wartości rynkowej składnika majątku ustalanej na dzień jego przeniesienia albo na dzień poprzedzający dzień zmiany rezydencji podatkowej ponad jego wartość podatkową.
+
+8. Wartość rynkową składnika majątku określa się:
+
+- **1)** zgodnie z art. 19 ust. 3 – w przypadku składników majątku osobistego i składników majątku, z których przeniesieniem nie wiąże się zmiana istotnych ekonomicznie funkcji, aktywów lub ryzyk;
+- **2)** zgodnie z art. 23o – w pozostałych przypadkach.
+
+9. Wartość rynkową składników majątku podatnika objętych małżeńską wspólnością majątkową określa się u każdego z małżonków w wysokości połowy wartości rynkowej tych składników majątku.
+
+10. Wartość podatkową składnika majątku stanowi wartość, niezaliczona uprzednio do kosztów uzyskania przychodów w jakiejkolwiek formie, jaka zostałaby przyjęta przez podatnika za koszt uzyskania przychodów, gdyby składnik ten został przez niego odpłatnie zbyty. Nie ustala się wartości podatkowej składnika majątku w przypadku, gdy zgodnie z odrębnymi przepisami, do celów opodatkowania podatkiem dochodowym nie uwzględnia się kosztów uzyskania przychodów z odpłatnego zbycia tego składnika majątku.
+
+11. Jeżeli przyjęta przez podatnika do opodatkowania dochodu z niezrealizowanych zysków wartość składnika majątku bez uzasadnionych przyczyn ekonomicznych odbiega od jego wartości rynkowej i w wyniku tego podatnik nie wykazuje dochodów z niezrealizowanych zysków albo wykazuje te dochody w zaniżonej wysokości, dochody podatnika oraz należny podatek od dochodów z niezrealizowanych zysków określa organ podatkowy.
+
+12. Podstawę opodatkowania podatkiem od dochodów z niezrealizowanych zysków stanowi suma dochodów z niezrealizowanych zysków ustalonych dla poszczególnych składników majątku. W przypadku przeniesienia przedsiębiorstwa lub jego zorganizowanej części dochód z niezrealizowanych zysków dotyczy całego przedsiębiorstwa (jego zorganizowanej części).
+
+13. Jeżeli podatnik, o którym mowa w art. 3 ust. 1, osiąga również dochody (przychody) poza terytorium Rzeczypospolitej Polskiej i dochody te podlegają w obcym państwie opodatkowaniu podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, dochody (przychody) te łączy się z dochodami (przychodami) osiąganymi na terytorium Rzeczypospolitej Polskiej. W tym przypadku od podatku obliczonego od łącznej sumy dochodów odlicza się kwotę równą podatkowi zapłaconemu w obcym państwie. Kwota odliczenia nie może jednak przekroczyć tej części podatku obliczonego przed dokonaniem odliczenia, która proporcjonalnie przypada na dochód uzyskany w obcym państwie.
+
+14. Podatnicy są obowiązani składać urzędom skarbowym deklaracje, według ustalonego wzoru, o wysokości dochodu z niezrealizowanych zysków do 7 dnia miesiąca następującego po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, oraz w tym terminie wpłacić podatek należny. Jeżeli po miesiącu, w którym łączna wartość rynkowa przenoszonych składników majątku przekroczyła kwotę 4 000 000 zł, przenoszone są kolejne składniki majątku, podatnicy obowiązani są składać deklarację do 7 dnia miesiąca następującego po miesiącu, w którym przenoszone są składniki, oraz w tym terminie wpłacić podatek należny.
+
+**Art. 30db.**
+
+1. Przepisów art. 30da nie stosuje się, jeżeli łączna wartość rynkowa przenoszonych składników majątku nie przekracza kwoty 4 000 000 zł.
+
+2. W przypadku małżonków, o których mowa w art. 30da ust. 9, limit wartości rynkowej składnika majątku określony w ust. 1 dotyczy łącznie obojga małżonków.
+
+**Art. 30dc.**
+
+1. Opodatkowania podatkiem od dochodów z niezrealizowanych zysków nie stosuje się do składnika majątku przeniesionego poza terytorium Rzeczypospolitej Polskiej na czas określony, niedłuższy jednak niż 12 miesięcy, gdy:
+
+- **1)** przeniesienie tego składnika majątku związane jest bezpośrednio z polityką zarządzania płynnością przedsiębiorstwa podatnika położonego na terytorium Rzeczypospolitej Polskiej i terytorium innego państwa;
+- **2)** przeniesienie papierów wartościowych lub innych składników majątku następuje na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności.
+
+2. W przypadku, o którym mowa w ust. 1, podatnik obowiązany jest zadeklarować w zeznaniu, o którym mowa w art. 45 ust. 1 i ust. 1a pkt 2, wartość rynkową składników majątku tymczasowo przeniesionych w roku podatkowym, za który jest składane zeznanie, oraz przewidywany termin przeniesienia ich z powrotem na terytorium Rzeczypospolitej Polskiej, jeżeli do dnia złożenia zeznania składniki te pozostają poza terytorium Rzeczypospolitej Polskiej.
+
+3. Jeżeli przed upływem 12 miesięcy, liczonych od pierwszego miesiąca następującego po miesiącu, w którym składnik majątku został przeniesiony poza terytorium Rzeczypospolitej Polskiej, spółka niebędąca osobą prawną, która przenosiła składnik majątku, została przejęta przez spółkę albo podatnik przekształcił formę prowadzonej działalności w jednoosobową spółkę kapitałową, wartość rynkowa składnika majątku, zadeklarowanego uprzednio jako tymczasowo przeniesiony poza terytorium Rzeczypospolitej Polskiej, podlega opodatkowaniu zgodnie z art. 30da ust. 1.
+
+4. W przypadku, o którym mowa w ust. 3, podatnik jest obowiązany złożyć do urzędu skarbowego deklarację o wysokości dochodu z niezrealizowanych zysków w terminie 7 dni od dnia przejęcia lub przekształcenia oraz w tym terminie wpłacić podatek należny.
+
+5. Jeżeli wartość składnika majątku, o którym mowa w ust. 3, oraz wartość składników majątku, o których mowa w art. 30db ust. 1, przekracza łącznie kwotę 4 000 000 zł, w deklaracji, o której mowa w ust. 4, podatnik obowiązany jest wykazać do opodatkowania wszystkie przeniesione składniki majątku.
+
+**Art. 30dd.**
+
+1. Zwalnia się od podatku od dochodów z niezrealizowanych zysków:
+
+- **1)** składniki majątku przekazane na cele określone w art. 4 ustawy o działalności pożytku publicznego organizacjom równoważnym do organizacji, o których mowa w art. 3 ust. 2 i 3 tej ustawy, określonym w przepisach regulujących działalność pożytku publicznego, obowiązujących w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego, prowadzącym działalność pożytku publicznego w sferze zadań publicznych, realizującym te cele – w przypadku gdy podatnik nie posiada praw do udziału w zysku lub majątku tej organizacji;
+- **2)** składniki majątku przeznaczone do służbowego użytku pracowników, bezpośrednio związane z wykonywaną pracą, niestanowiące aktywów trwałych lub obrotowych w rozumieniu przepisów o rachunkowości.
+
+2. Zwolnienia i odroczenia w opodatkowaniu, określone w art. 21 i art. 24, nie mają zastosowania do podatku od dochodów z niezrealizowanych zysków.
+
+**Art. 30de.**
+
+1. Podatnik może wystąpić do właściwego naczelnika urzędu skarbowego o rozłożenie na raty zapłaty całości albo części podatku od dochodów z niezrealizowanych zysków, na okres niedłuższy niż 5 lat, licząc od końca roku podatkowego, w którym powstał obowiązek jego zapłaty, jeżeli przeniesienie składników majątku albo przeniesienie rezydencji podatkowej następuje na terytorium państwa członkowskiego Unii Europejskiej lub innego państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną zawartej z Rzecząpospolitą Polską lub Unią Europejską umowy w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń (Dz. Urz. UE L 84 z 31.03.2010, s. 1).
+
+2. W przypadku gdy istnieje realne ryzyko nieodzyskania podatku od dochodów z niezrealizowanych zysków, rozłożenie na raty zapłaty całości albo części tego podatku następuje po przedłożeniu przez podatnika zabezpieczenia wykonania zobowiązania podatkowego z tego tytułu wraz z opłatą prolongacyjną w formie przewidzianej przepisami Ordynacji podatkowej dla zabezpieczeń wykonania zobowiązań podatkowych.
+
+3. Przy ocenie, czy istnieje realne ryzyko nieodzyskania podatku od dochodów z niezrealizowanych zysków, bierze się pod uwagę w szczególności, czy:
+
+- **1)** wartość bilansowa zobowiązań podatnika w ostatnich 3 latach podatkowych nie przekraczała 50 % wartości bilansowej jego aktywów;
+- **2)** podatnik właściwie regulował zobowiązania podatkowe w podatku dochodowym od osób fizycznych, w tym w zakresie obowiązków płatnika podatku dochodowego od należności wypłacanych z tytułów wymienionych w art. 12 ust. 1 i 6, art. 13 pkt 2 i 4–9 oraz art. 18, a jeżeli występowały zaległości w tych płatnościach – czy stanowiły one istotną wartość mogącą mieć wpływ na ocenę wypłacalności i rzetelności podatnika;
+- **3)** (uchylony)
+- **4)** w ostatnich 5 latach podatkowych toczyło się lub toczy się na dzień składania wniosku o rozłożenie podatku na raty, wobec podatnika, postępowanie w oparciu o przepisy regulujące unikanie lub uchylanie się od opodatkowania;
+- **5)** udzielenie przez podatnika gwarancji i poręczeń podmiotom powiązanym w rozumieniu art. 23m ust. 1 pkt 4 jest uzasadnione gospodarczo i ekonomicznie;
+- **6)** podmioty powiązane w rozumieniu art. 23m ust. 1 pkt 4 z podatnikiem nie są zagrożone upadłością lub likwidacją z powodu niewypłacalności.
+
+4. Zabezpieczenie wykonania zobowiązania, o którym mowa w ust. 2, w postaci gwarancji lub poręczenia może zostać przedłożone przez podmiot posiadający miejsce zamieszkania, siedzibę lub zarząd w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego, którego sytuacja finansowa i majątkowa daje podstawę do uznania, że jest on zdolny do wykonania obowiązków wynikających z tej gwarancji lub tego poręczenia.
+
+5. Rozłożenie na raty zapłaty podatku od dochodów z niezrealizowanych zysków następuje w drodze decyzji, w której organ podatkowy w szczególności:
+
+- **1)** ustala wysokość i terminy spłaty rat oraz wysokość opłaty prolongacyjnej;
+- **2)** informuje o okolicznościach skutkujących wygaśnięciem decyzji i postawieniem zobowiązania z tytułu podatku od dochodów z niezrealizowanych zysków w stan wymagalności.
+
+6. Decyzja, o której mowa w ust. 5, wygasa w przypadku, gdy:
+
+- **1)** podatnik dokona zbycia w jakiejkolwiek formie przeniesionych poza terytorium Rzeczypospolitej Polskiej składników majątku, w tym przypisanych do zagranicznego zakładu położonego poza terytorium Rzeczypospolitej Polskiej;
+- **2)** przeniesione poza terytorium Rzeczypospolitej Polskiej składniki majątku, w tym przypisane do zagranicznego zakładu, zostaną ponownie przeniesione do innego państwa niż państwo członkowskie Unii Europejskiej, chyba że przeniesienie to nastąpi do państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną umowy zawartej z Rzecząpospolitą Polską lub Unią Europejską w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń;
+- **3)** podatnik zmieni ponownie rezydencję podatkową na rezydencję podatkową państwa innego niż państwo członkowskie Unii Europejskiej, chyba że ponowna zmiana rezydencji podatkowej nastąpi do państwa należącego do Europejskiego Obszaru Gospodarczego, które jest stroną umowy zawartej z Rzecząpospolitą Polską lub Unią Europejską w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności podatkowych, równoważnej wzajemnej pomocy przewidzianej w dyrektywie Rady 2010/24/UE z dnia 16 marca 2010 r. w sprawie wzajemnej pomocy przy odzyskiwaniu wierzytelności dotyczących podatków, ceł i innych obciążeń;
+- **4)** nastąpi upadłość podatnika lub podmiotu, który udzielił podatnikowi zabezpieczenia wykonania zobowiązania podatkowego, o którym mowa w ust. 2, w postaci gwarancji lub poręczenia;
+- **5)** podatnik nie dotrzymał terminu płatności którejkolwiek z rat lub opłaty prolongacyjnej.
+
+7. W okresie rozłożenia podatku od dochodów z niezrealizowanych zysków na raty podatnik jest obowiązany do składania na ostatni dzień każdego roku kalendarzowego informacji o wystąpieniu lub niewystąpieniu zdarzeń, o których mowa w ust. 6 pkt 1–4. Informację składa się do naczelnika urzędu skarbowego, który wydał decyzję, o której mowa w ust. 5, do 7 dnia pierwszego miesiąca następującego po roku kalendarzowym, którego dotyczy ta informacja.
+
+8. W przypadku zmiany rezydencji podatkowej właściwym naczelnikiem urzędu skarbowego, o którym mowa w ust. 1, jest naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych.
+
+9. W sprawach nieuregulowanych w ust. 1–8 stosuje się przepisy Ordynacji podatkowej.
+
+**Art. 30df.**
+
+1. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym przeniósł składnik majątku poza terytorium Rzeczypospolitej Polskiej, przeniósł go z powrotem na terytorium Rzeczypospolitej Polskiej, może on wystąpić o zwrot podatku od dochodów z niezrealizowanych zysków w części przypadającej na ten składnik.
+
+2. Jeżeli podatnik w okresie 5 lat, liczonych od końca roku podatkowego, w którym zmienił rezydencję podatkową, ponownie stanie się osobą, o której mowa w art. 3 ust. 1, może on wystąpić o zwrot zapłaconego podatku od dochodów z niezrealizowanych zysków. Zwrot nie dotyczy podatku przypadającego na składniki majątku, które pozostają związane z położonym poza granicami Rzeczypospolitej Polskiej zagranicznym zakładem podatnika.
+
+**Art. 30dg.**
+
+1. Jeżeli na podstawie art. 22 ust. 1n pkt 1, ust. 1na lub art. 22g ust. 1 pkt 7 lub 8 podatnik uwzględni w kosztach uzyskania przychodów wartość rynkową składnika majątku określoną w państwie członkowskim Unii Europejskiej do celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, podatnik ten jest obowiązany dołączyć do zeznania, o którym mowa w art. 45 ust. 1 i ust. 1a pkt 2, informację, według ustalonego wzoru, o wysokości wartości rynkowej tego składnika. Do informacji tej podatnik jest obowiązany dołączyć dokument wydany lub potwierdzony przez właściwy organ państwa, o którym mowa w zdaniu pierwszym, o wysokości wartości rynkowej tego składnika.
+
+2. Informację, o której mowa w ust. 1, składa się za rok podatkowy, w którym podatnik uwzględnił w kosztach uzyskania przychodów wartość rynkową składnika majątku, określoną przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej.
+
+3. Naczelnik urzędu skarbowego może określić wartość rynkową składnika majątku podatnika, o którym mowa w ust. 1, w innej wysokości niż przyjęta dla celów opodatkowania podatkiem równoważnym do podatku od dochodów z niezrealizowanych zysków, jeżeli wartość ta jest wyższa od wartości rynkowej.
+
+**Art. 30dh.**
+
+1. W przypadku gdy przenoszącym składnik majątku jest spółka niebędąca osobą prawną, przepisy art. 30da–30dg stosuje się do podatników posiadających prawa do udziału w zyskach takiej spółki. W takim przypadku przepisy art. 8 ust. 1 stosuje się odpowiednio.
+
+2. Ilekroć w ust. 1 i art. 30da–30dg jest mowa o składniku majątku, rozumie się przez to również przedsiębiorstwo lub zorganizowaną część przedsiębiorstwa.
+
+3. Przepisy ust. 1 i 2, art. 30da–30dg stosuje się odpowiednio do:
+
+- **1)** nieodpłatnego przekazania innemu podmiotowi położonego na terytorium Rzeczypospolitej Polskiej składnika majątku,
+- **2)** wniesienia składnika majątku do podmiotu innego niż spółka lub spółdzielnia – jeżeli w związku z tym przekazaniem albo wniesieniem wkładu Rzeczpospolita Polska traci prawo do opodatkowania dochodów ze zbycia tego składnika majątku.
+
+**Art. 30di.** (uchylony)
 
 **Art. 30e.**
 
@@ -3995,20 +4477,20 @@ Art. 46–51. (pominięte)
 
 2. Użyte w niniejszym artykule określenie:
 
-- **1)** zagraniczna jednostka oznacza:
+- **1)** zagraniczna jednostka – oznacza:
     - **a)** osobę prawną,
     - **b)** spółkę kapitałową w organizacji,
     - **c)** jednostkę organizacyjną niemającą osobowości prawnej inną niż spółka niemająca osobowości prawnej,
     - **d)** spółkę niemającą osobowości prawnej, o której mowa w art. 1 ust. 3 pkt 2 ustawy o podatku dochodowym od osób prawnych,
     - **e)** fundację, trust lub inny podmiot albo stosunek prawny o charakterze powierniczym,
     - **f)** podatkową grupę kapitałową lub spółkę z podatkowej grupy kapitałowej, która samodzielnie spełniałaby warunek, o którym mowa w ust. 3 pkt 3 lit. c, gdyby nie była częścią podatkowej grupy kapitałowej,
-    - **g)** wydzieloną organizacyjnie lub prawnie część zagranicznej spółki lub innego podmiotu mającego osobowość prawną albo niemającego osobowości prawnej nieposiadające siedziby, zarządu ani rejestracji na terytorium Rzeczypospolitej Polskiej, w których podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada, bezpośrednio lub pośrednio, udział w kapitale, prawo głosu w organach kontrolnych, stanowiących lub zarządzających lub prawo do uczestnictwa w zysku, w tym ich ekspektatywę, lub w których w przyszłości będzie uprawniony do nabycia takich praw, w tym jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym, lub nad którymi podatnik sprawuje kontrolę faktyczną;
+    - **g)** wydzieloną organizacyjnie lub prawnie część zagranicznej spółki lub innego podmiotu mającego osobowość prawną albo niemającego osobowości prawnej – nieposiadające siedziby, zarządu ani rejestracji na terytorium Rzeczypospolitej Polskiej, w których podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada, bezpośrednio lub pośrednio, udział w kapitale, prawo głosu w organach kontrolnych, stanowiących lub zarządzających lub prawo do uczestnictwa w zysku, w tym ich ekspektatywę, lub w których w przyszłości będzie uprawniony do nabycia takich praw, w tym jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym, lub nad którymi podatnik sprawuje kontrolę faktyczną;
 
-- **1a)** prawo do uczestnictwa w zysku oznacza również prawo do uzyskania środków należących do zagranicznej jednostki w związku z jej likwidacją, prawo do otrzymania świadczenia pieniężnego lub niepieniężnego, w tym jego ekspektatywy, jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym, lub ekspektatywę uzyskania zysków zagranicznej jednostki wypracowanych lub uzyskanych w przyszłości;
-- **1b)** kontrola faktyczna oznacza kontrolę, która, uwzględniając okoliczności faktyczne, pozwala na wywieranie dominującego wpływu na funkcjonowanie zagranicznej jednostki poprzez wpływ na podejmowanie decyzji na najwyższym szczeblu w sprawach dotyczących zagranicznej jednostki lub możliwość kierowania lub wpływania na jej codzienne działanie, przy czym kontrola faktyczna wynika w szczególności z powiązań umownych, między innymi umowy kreującej zagraniczną jednostkę, decyzji sądu lub innego dokumentu regulującego założenie lub funkcjonowanie tej jednostki, udzielonych pełnomocnictw lub powiązań faktycznych między zagraniczną jednostką i podatnikiem;
-- **2)** instrumenty finansowe oznacza instrumenty finansowe wymienione w art. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
-- **3)** jednostka zależna oznacza podmiot, o którym mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, albo zagraniczną jednostkę niespełniającą warunków określonych w ust. 3 pkt 3 lit. b i c, pkt 4 lit. b–d lub pkt 5 lit. b–d, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 50 % udziałów w kapitale, lub co najmniej 50 % praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 50 % prawa do uczestnictwa w zysku;
-- **4)** podmiot powiązany oznacza:
+- **1a)** prawo do uczestnictwa w zysku – oznacza również prawo do uzyskania środków należących do zagranicznej jednostki w związku z jej likwidacją, prawo do otrzymania świadczenia pieniężnego lub niepieniężnego, w tym jego ekspektatywy, jako założyciel (fundator) lub beneficjent fundacji, trustu lub innego podmiotu albo stosunku prawnego o charakterze powierniczym, lub ekspektatywę uzyskania zysków zagranicznej jednostki wypracowanych lub uzyskanych w przyszłości;
+- **1b)** kontrola faktyczna – oznacza kontrolę, która, uwzględniając okoliczności faktyczne, pozwala na wywieranie dominującego wpływu na funkcjonowanie zagranicznej jednostki poprzez wpływ na podejmowanie decyzji na najwyższym szczeblu w sprawach dotyczących zagranicznej jednostki lub możliwość kierowania lub wpływania na jej codzienne działanie, przy czym kontrola faktyczna wynika w szczególności z powiązań umownych, między innymi umowy kreującej zagraniczną jednostkę, decyzji sądu lub innego dokumentu regulującego założenie lub funkcjonowanie tej jednostki, udzielonych pełnomocnictw lub powiązań faktycznych między zagraniczną jednostką i podatnikiem;
+- **2)** instrumenty finansowe – oznacza instrumenty finansowe wymienione w art. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **3)** jednostka zależna – oznacza podmiot, o którym mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, albo zagraniczną jednostkę niespełniającą warunków określonych w ust. 3 pkt 3 lit. b i c, pkt 4 lit. b–d lub pkt 5 lit. b–d, w których podatnik posiada, bezpośrednio lub pośrednio, co najmniej 50 % udziałów w kapitale, lub co najmniej 50 % praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 50 % prawa do uczestnictwa w zysku;
+- **4)** podmiot powiązany – oznacza:
     - **a)** osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w której podatnik posiada, bezpośrednio lub pośrednio, co najmniej 25 % udziałów w kapitale lub co najmniej 25 % praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25 % prawa do uczestnictwa w zysku,
     - **b)** małżonka podatnika, a także jego krewnych do drugiego stopnia,
     - **c)** osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej, w której podmiot wskazany w lit. b posiada, bezpośrednio lub pośrednio, co najmniej 25 % udziałów w kapitale lub co najmniej 25 % praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 25 % prawa do uczestnictwa w zysku.
@@ -4022,22 +4504,22 @@ Art. 46–51. (pominięte)
 - **1)** zagraniczna jednostka mająca siedzibę lub zarząd lub zarejestrowana lub położona na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 23v ust. 2 lub w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 86a § 10 Ordynacji podatkowej albo
 - **2)** zagraniczna jednostka mająca siedzibę lub zarząd lub zarejestrowana lub położona na terytorium państwa innego niż wskazane w pkt 1, z którym:
     - **a)** Rzeczpospolita Polska nie ratyfikowała umowy międzynarodowej, w szczególności umowy o unikaniu podwójnego opodatkowania, albo
-    - **b)** Unia Europejska nie ratyfikowała umowy międzynarodowej stanowiącej podstawę do uzyskania od organów podatkowych tego państwa informacji podatkowych, albo
+    - **b)** Unia Europejska nie ratyfikowała umowy międzynarodowej – stanowiącej podstawę do uzyskania od organów podatkowych tego państwa informacji podatkowych, albo
 
 - **3)** zagraniczna jednostka spełniająca łącznie następujące warunki:
     - **a)** w jednostce tej podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada bezpośrednio lub pośrednio ponad 50 % udziałów w kapitale lub ponad 50 % praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50 % prawa do uczestnictwa w zysku lub sprawuje kontrolę faktyczną nad zagraniczną jednostką,
-    - **b)** co najmniej 33 % przychodów tej jednostki osiągniętych w roku podatkowym, o którym mowa w ust. 7, pochodzi: z dywidend i innych przychodów z udziału w zyskach osób prawnych, ze zbycia udziałów (akcji) w spółce, ogółu praw i obowiązków w spółce niebędącej osobą prawną, tytułów uczestnictwa w funduszu inwestycyjnym, instytucji wspólnego inwestowania lub innej osobie prawnej i praw o podobnym charakterze, z wierzytelności, z tytułu usług doradczych, księgowych, badania rynku, usług prawnych, usług reklamowych, zarządzania i kontroli, przetwarzania danych, usług rekrutacji pracowników i pozyskiwania personelu oraz świadczeń o podobnym charakterze, z tytułu najmu, podnajmu, dzierżawy, poddzierżawy i innych umów o podobnym charakterze, z odsetek i pożytków od wszelkiego rodzaju pożyczek, z części odsetkowej raty leasingowej, z poręczeń i gwarancji, z praw autorskich lub praw własności przemysłowej, w tym z tytułu zbycia tych praw, z praw autorskich lub praw własności przemysłowej uwzględnionych w cenie sprzedaży produktu lub usługi, ze zbycia i realizacji praw z instrumentów finansowych, z działalności ubezpieczeniowej, bankowej lub innej działalności finansowej, z transakcji z podmiotami powiązanymi, w przypadku gdy jednostka nie wytwarza w związku z tymi transakcjami wartości dodanej pod względem ekonomicznym lub wartość ta jest znikoma,
+    - **b)** co najmniej 33 % przychodów tej jednostki osiągniętych w roku podatkowym, o którym mowa w ust. 7, pochodzi: – z dywidend i innych przychodów z udziału w zyskach osób prawnych, – ze zbycia udziałów (akcji) w spółce, ogółu praw i obowiązków w spółce niebędącej osobą prawną, tytułów uczestnictwa w funduszu inwestycyjnym, instytucji wspólnego inwestowania lub innej osobie prawnej i praw o podobnym charakterze, – z wierzytelności, – z tytułu usług doradczych, księgowych, badania rynku, usług prawnych, usług reklamowych, zarządzania i kontroli, przetwarzania danych, usług rekrutacji pracowników i pozyskiwania personelu oraz świadczeń o podobnym charakterze, – z tytułu najmu, podnajmu, dzierżawy, poddzierżawy i innych umów o podobnym charakterze, – z odsetek i pożytków od wszelkiego rodzaju pożyczek, – z części odsetkowej raty leasingowej, – z poręczeń i gwarancji, – z praw autorskich lub praw własności przemysłowej, w tym z tytułu zbycia tych praw, – z praw autorskich lub praw własności przemysłowej uwzględnionych w cenie sprzedaży produktu lub usługi, – ze zbycia i realizacji praw z instrumentów finansowych, – z działalności ubezpieczeniowej, bankowej lub innej działalności finansowej, – z transakcji z podmiotami powiązanymi, w przypadku gdy jednostka nie wytwarza w związku z tymi transakcjami wartości dodanej pod względem ekonomicznym lub wartość ta jest znikoma,
     - **c)** faktycznie zapłacony podatek dochodowy przez tę jednostkę jest niższy o co najmniej 25 % od podatku dochodowego od osób prawnych, który byłby od niej należny z zastosowaniem stawki podatku, o której mowa w art. 19 ust. 1 pkt 1 ustawy o podatku dochodowym od osób prawnych, gdyby jednostka ta była podatnikiem, o którym mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, przy czym przez podatek faktycznie zapłacony rozumie się podatek niepodlegający zwrotowi lub odliczeniu w jakiejkolwiek formie, w tym na rzecz innego podmiotu, albo
 
 - **4)** zagraniczna jednostka spełniająca łącznie następujące warunki:
     - **a)** w jednostce tej podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada bezpośrednio lub pośrednio ponad 50 % udziałów w kapitale lub ponad 50 % praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50 % prawa do uczestnictwa w zysku lub sprawuje kontrolę faktyczną nad zagraniczną jednostką,
     - **b)** faktycznie zapłacony podatek dochodowy przez tę jednostkę jest niższy o co najmniej 25 % od podatku dochodowego od osób prawnych, który byłby od niej należny przy zastosowaniu stawki podatku, o której mowa w art. 19 ust. 1 pkt 1 ustawy o podatku dochodowym od osób prawnych, gdyby jednostka ta była podatnikiem, o którym mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, przy czym przez podatek faktycznie zapłacony rozumie się podatek niepodlegający zwrotowi lub odliczeniu w jakiejkolwiek formie, w tym na rzecz innego podmiotu,
-    - **c)** przychody tej jednostki, o których mowa w pkt 3 lit. b, są niższe niż 30 % sumy wartości posiadanych: udziałów (akcji) w innej spółce, ogółu praw i obowiązków w spółce niebędącej osobą prawną, tytułów uczestnictwa w funduszu inwestycyjnym, instytucji wspólnego inwestowania lub innej osobie prawnej, należności będących następstwem posiadania tych udziałów (akcji), praw o podobnym charakterze do tych udziałów (akcji), ogółu praw i obowiązków lub tytułów uczestnictwa, nieruchomości lub ruchomości będących własnością albo współwłasnością podatnika lub używanych przez niego na podstawie umowy leasingu, wartości niematerialnych i prawnych, należności z tytułów, o których mowa w pkt 3 lit. b, wobec podmiotów powiązanych,
-    - **d)** aktywa, o których mowa w lit. c, stanowią co najmniej 50 % wartości aktywów takiej jednostki, przy czym przy ustalaniu tej proporcji w wartości aktywów, o których mowa w lit. c, nie uwzględnia się udziałów (akcji) w innej spółce: niemającej siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej oraz nieposiadającej, bezpośrednio lub pośrednio, udziałów (akcji) w spółce mającej siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, albo
+    - **c)** przychody tej jednostki, o których mowa w pkt 3 lit. b, są niższe niż 30 % sumy wartości posiadanych: – udziałów (akcji) w innej spółce, ogółu praw i obowiązków w spółce niebędącej osobą prawną, tytułów uczestnictwa w funduszu inwestycyjnym, instytucji wspólnego inwestowania lub innej osobie prawnej, należności będących następstwem posiadania tych udziałów (akcji), praw o podobnym charakterze do tych udziałów (akcji), ogółu praw i obowiązków lub tytułów uczestnictwa, – nieruchomości lub ruchomości będących własnością albo współwłasnością podatnika lub używanych przez niego na podstawie umowy leasingu, – wartości niematerialnych i prawnych, – należności z tytułów, o których mowa w pkt 3 lit. b, wobec podmiotów powiązanych,
+    - **d)** aktywa, o których mowa w lit. c, stanowią co najmniej 50 % wartości aktywów takiej jednostki, przy czym przy ustalaniu tej proporcji w wartości aktywów, o których mowa w lit. c, nie uwzględnia się udziałów (akcji) w innej spółce: – niemającej siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej oraz – nieposiadającej, bezpośrednio lub pośrednio, udziałów (akcji) w spółce mającej siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, albo
 
 - **5)** zagraniczna jednostka spełniająca łącznie następujące warunki:
     - **a)** w jednostce tej podatnik, o którym mowa w art. 3 ust. 1, samodzielnie lub wspólnie z podmiotami powiązanymi lub innymi podatnikami mającymi miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, posiada bezpośrednio lub pośrednio ponad 50 % udziałów w kapitale lub ponad 50 % praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub ponad 50 % prawa do uczestnictwa w zysku lub sprawuje kontrolę faktyczną nad zagraniczną jednostką,
-    - **b)** dochód jednostki przekracza dochód obliczony według wzoru: (b + c + d) × 20 % w którym poszczególne litery oznaczają: b wartość bilansową aktywów jednostki, c roczne koszty zatrudnienia jednostki, d zakumulowaną (zsumowaną) dotychczasową wartość odpisów amortyzacyjnych w rozumieniu przepisów o rachunkowości,
+    - **b)** dochód jednostki przekracza dochód obliczony według wzoru: (b + c + d) × 20 % w którym poszczególne litery oznaczają: b – wartość bilansową aktywów jednostki, c – roczne koszty zatrudnienia jednostki, d – zakumulowaną (zsumowaną) dotychczasową wartość odpisów amortyzacyjnych w rozumieniu przepisów o rachunkowości,
     - **c)** mniej niż 75 % przychodów tej jednostki pochodzi z transakcji dokonywanych z podmiotami niepowiązanymi mającymi miejsce zamieszkania, siedzibę, zarząd, rejestrację lub położenie w tym samym państwie co ta jednostka,
     - **d)** faktycznie zapłacony podatek dochodowy przez tę jednostkę jest niższy o co najmniej 25 % od podatku dochodowego od osób prawnych, który byłby od niej należny z zastosowaniem stawki podatku, o której mowa w art. 19 ust. 1 pkt 1 ustawy o podatku dochodowym od osób prawnych, gdyby jednostka ta była podatnikiem, o którym mowa w art. 3 ust. 1 ustawy o podatku dochodowym od osób prawnych, przy czym przez podatek faktycznie zapłacony rozumie się podatek niepodlegający zwrotowi lub odliczeniu w jakiejkolwiek formie, w tym na rzecz innego podmiotu.
 
@@ -4092,7 +4574,7 @@ Art. 46–51. (pominięte)
 
 14. Przepis ust. 13 stosuje się pod warunkiem istnienia podstawy prawnej wynikającej z umowy o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub innej umowy międzynarodowej, której stroną jest Unia Europejska, do uzyskania przez organ podatkowy informacji podatkowych od organu podatkowego innego państwa, w którym dochód został uzyskany.
 
-15. Podatnicy są obowiązani do prowadzenia rejestru zagranicznych jednostek, o których mowa w ust. 3 pkt 1 i 2 oraz pkt 3 lit. a, a w przypadku zagranicznych jednostek posiadających siedzibę lub zarząd na terytorium państwa członkowskiego Unii Europejskiej lub Europejskiego Obszaru Gospodarczego rejestru zagranicznych jednostek spełniających warunki określone w ust. 3 pkt 3.
+15. Podatnicy są obowiązani do prowadzenia rejestru zagranicznych jednostek, o których mowa w ust. 3 pkt 1 i 2 oraz pkt 3 lit. a, a w przypadku zagranicznych jednostek posiadających siedzibę lub zarząd na terytorium państwa członkowskiego Unii Europejskiej lub Europejskiego Obszaru Gospodarczego – rejestru zagranicznych jednostek spełniających warunki określone w ust. 3 pkt 3.
 
 15a. Podatnicy po zakończeniu roku podatkowego, o którym mowa w ust. 7, niepóźniej niż przed upływem terminu do złożenia zeznania o wysokości dochodu zagranicznej jednostki kontrolowanej osiągniętego w roku podatkowym, są obowiązani do zaewidencjonowania zdarzeń zaistniałych w zagranicznej jednostce kontrolowanej w ewidencji odrębnej od ewidencji rachunkowych wskazanych w art. 24a albo w art. 15 ust. 1 ustawy o zryczałtowanym podatku dochodowym w sposób zapewniający określenie wysokości dochodu, podstawy obliczenia podatku i wysokości należnego podatku za rok podatkowy, w tym także do uwzględnienia w ewidencji środków trwałych oraz wartości niematerialnych i prawnych informacji niezbędnych do określenia wysokości odpisów amortyzacyjnych zgodnie z przepisami art. 22a–22o.
 
@@ -4117,7 +4599,7 @@ Art. 46–51. (pominięte)
 21. Przepisy ust. 1–20a oraz art. 45 ust. 1aa stosuje się odpowiednio do:
 
 - **1)** podatnika prowadzącego działalność gospodarczą przez położony poza terytorium Rzeczypospolitej Polskiej zagraniczny zakład, chyba że dochody tego zakładu zostały uwzględnione przez podatnika w podstawie opodatkowania ustalonej zgodnie z art. 26 lub art. 30c;
-- **2)** podatnika, o którym mowa w art. 3 ust. 2a, prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład w zakresie związanym z działalnością tego zakładu.
+- **2)** podatnika, o którym mowa w art. 3 ust. 2a, prowadzącego działalność poprzez położony na terytorium Rzeczypospolitej Polskiej zagraniczny zakład – w zakresie związanym z działalnością tego zakładu.
 
 22. Dla ustalenia statusu zagranicznej jednostki lub spełnienia warunku kontroli nad zagraniczną jednostką nie uwzględnia się relacji pomiędzy podmiotami, które nie są ustanawiane lub utrzymywane z uzasadnionych przyczyn ekonomicznych, w tym mających na celu manipulowanie strukturą właścicielską lub tworzenie cyrkularnych struktur właścicielskich.
 
@@ -4132,14 +4614,14 @@ Art. 46–51. (pominięte)
 
 2. Zwalnia się od podatku od przychodów z budynków przychód ze środka trwałego będącego budynkiem mieszkalnym oddanym do używania w ramach realizacji programów rządowych i samorządowych dotyczących budownictwa społecznego, jeżeli zwolnienie to stanowi rekompensatę spełniającą warunki określone w decyzji Komisji z dnia 20 grudnia 2011 r. w sprawie stosowania art. 106 ust. 2 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy państwa w formie rekompensaty z tytułu świadczenia usług publicznych, przyznawanej przedsiębiorstwom zobowiązanym do wykonywania usług świadczonych w ogólnym interesie gospodarczym (Dz. Urz. UE L 7 z 11.01.2012, str. 3).
 
-3. Przychód, o którym mowa w ust. 1, stanowi ustalona na pierwszy dzień każdego miesiąca wartość początkowa podlegającego opodatkowaniu środka trwałego wynikająca z prowadzonej ewidencji, a w miesiącu, w którym środek trwały został wprowadzony do ewidencji wartość początkowa ustalona na dzień wprowadzenia środka trwałego do ewidencji.
+3. Przychód, o którym mowa w ust. 1, stanowi ustalona na pierwszy dzień każdego miesiąca wartość początkowa podlegającego opodatkowaniu środka trwałego wynikająca z prowadzonej ewidencji, a w miesiącu, w którym środek trwały został wprowadzony do ewidencji – wartość początkowa ustalona na dzień wprowadzenia środka trwałego do ewidencji.
 
 4. W miesiącu, w którym dokonano zbycia budynku lub oddania go do używania na podstawie umowy leasingu, o której mowa w art. 23f, przychód z tego budynku ustala się wyłącznie u podatnika, który zbył ten budynek lub oddał go do używania na podstawie umowy leasingu. Zasadę, o której mowa w zdaniu pierwszym, stosuje się odpowiednio w przypadku zbycia udziału we współwłasności budynku.
 
 5. W przypadku gdy budynek stanowi:
 
-- **1)** współwłasność podatnika przy obliczaniu wartości początkowej przyjmuje się wartość wynikającą z ewidencji tego podatnika;
-- **2)** własność albo współwłasność spółki niebędącej osobą prawną przy obliczaniu wartości początkowej przypadającej na wspólnika przepis art. 8 ust. 1 stosuje się odpowiednio.
+- **1)** współwłasność podatnika – przy obliczaniu wartości początkowej przyjmuje się wartość wynikającą z ewidencji tego podatnika;
+- **2)** własność albo współwłasność spółki niebędącej osobą prawną – przy obliczaniu wartości początkowej przypadającej na wspólnika przepis art. 8 ust. 1 stosuje się odpowiednio.
 
 6. W przypadku gdy budynek został oddany do używania w części, przychód ustala się proporcjonalnie do udziału powierzchni użytkowej oddanej do używania w całkowitej powierzchni użytkowej tego budynku. Proporcję, o której mowa w zdaniu pierwszym, ustala się na dzień określony w ust. 3.
 
@@ -4163,8 +4645,8 @@ Art. 46–51. (pominięte)
 
 16. Jeżeli organ podatkowy określi zobowiązanie podatkowe lub stratę w innej wysokości niż wynikająca z zeznania podatkowego, podatnikowi przysługuje prawo do zwrotu w wysokości:
 
-- **1)** różnicy pomiędzy kwotą zapłaconego i nieodliczonego podatku od przychodów z budynków a kwotą podatku określoną przez organ podatkowy zgodnie z art. 27 lub art. 30c w przypadku określenia przez organ podatkowy zobowiązania podatkowego, albo
-- **2)** zapłaconego i nieodliczonego podatku od przychodów z budynków w przypadku określenia przez organ podatkowy straty.
+- **1)** różnicy pomiędzy kwotą zapłaconego i nieodliczonego podatku od przychodów z budynków a kwotą podatku określoną przez organ podatkowy zgodnie z art. 27 lub art. 30c – w przypadku określenia przez organ podatkowy zobowiązania podatkowego, albo
+- **2)** zapłaconego i nieodliczonego podatku od przychodów z budynków – w przypadku określenia przez organ podatkowy straty.
 
 17. W przypadku gdy budynek został oddany do używania na podstawie umowy leasingu w rozumieniu art. 23a pkt 1, przepisy ust. 1–16 stosuje się wyłącznie do podmiotu dokonującego odpisów amortyzacyjnych zgodnie z art. 22a–22o.
 
@@ -4179,12 +4661,12 @@ Art. 46–51. (pominięte)
 2. Podstawę obliczenia daniny solidarnościowej stanowi nadwyżka ponad 1 000 000 zł sumy dochodów podlegających opodatkowaniu na zasadach określonych w art. 27 ust. 1, 9 i 9a, art. 30b, art. 30c oraz art. 30f po ich pomniejszeniu o:
 
 - **1)** kwoty składek, o których mowa w art. 26 ust. 1 pkt 2 i 2a, oraz składek, o których mowa w art. 30c ust. 2 pkt 2,
-- **2)** kwoty, o których mowa w art. 30f ust. 5 odliczone od tych dochodów.
+- **2)** kwoty, o których mowa w art. 30f ust. 5 – odliczone od tych dochodów.
 
 3. Przy ustalaniu wysokości podstawy obliczenia daniny solidarnościowej w roku kalendarzowym, o którym mowa w ust. 4, uwzględnia się dochody i kwoty pomniejszające te dochody zgodnie z ust. 2 wykazywane w:
 
 - **1)** rocznym obliczeniu podatku, o którym mowa w art. 34 ust. 7, jeżeli podatek wynikający z tego rozliczenia jest podatkiem należnym,
-- **2)** zeznaniach wymienionych w art. 45 ust. 1, ust. 1a pkt 1 i 2 oraz ust. 1aa których termin złożenia upływa w okresie od dnia następującego po dniu upływu terminu na złożenie deklaracji o wysokości daniny solidarnościowej w roku poprzedzającym ten rok kalendarzowy do dnia upływu terminu, o którym mowa w ust. 4.
+- **2)** zeznaniach wymienionych w art. 45 ust. 1, ust. 1a pkt 1 i 2 oraz ust. 1aa – których termin złożenia upływa w okresie od dnia następującego po dniu upływu terminu na złożenie deklaracji o wysokości daniny solidarnościowej w roku poprzedzającym ten rok kalendarzowy do dnia upływu terminu, o którym mowa w ust. 4.
 
 4. Osoby fizyczne, o których mowa w ust. 1, są obowiązane składać urzędom skarbowym deklarację o wysokości daniny solidarnościowej, według udostępnionego wzoru, w terminie do dnia 30 kwietnia roku kalendarzowego i w tym terminie wpłacić daninę solidarnościową. Przepisy art. 45 ust. 1b i 1c stosuje się odpowiednio.
 
@@ -4198,8 +4680,8 @@ Art. 46–51. (pominięte)
 
 2. Uprawnienia organu podatkowego przysługują naczelnikowi urzędu skarbowego właściwemu w sprawach podatku dochodowego od osób fizycznych, a w przypadku:
 
-- **1)** gdy jest to uzasadnione ochroną informacji niejawnych i wymogami bezpieczeństwa państwa organowi wymienionemu w art. 13a Ordynacji podatkowej;
-- **2)** spraw, o których mowa w art. 119g § 1 Ordynacji podatkowej Szefowi Krajowej Administracji Skarbowej.
+- **1)** gdy jest to uzasadnione ochroną informacji niejawnych i wymogami bezpieczeństwa państwa – organowi wymienionemu w art. 13a Ordynacji podatkowej;
+- **2)** spraw, o których mowa w art. 119g § 1 Ordynacji podatkowej – Szefowi Krajowej Administracji Skarbowej.
 
 #### Rozdział 6b Ryczałt od przychodów zagranicznych osób przenoszących miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej
 
@@ -4246,6 +4728,12 @@ Art. 46–51. (pominięte)
 
 **Art. 30o.** Podatnik traci prawo do opodatkowania ryczałtem:
 
+- **1)** od początku roku podatkowego, w którym złożył oświadczenie o rezygnacji z opodatkowania ryczałtem – jeżeli w terminie do końca stycznia tego roku podatkowego złoży urzędowi skarbowemu oświadczenie o rezygnacji z opodatkowania ryczałtem według ustalonego wzoru, przy czym przepis art. 45 ust. 1b stosuje się odpowiednio;
+- **2)** z końcem roku podatkowego poprzedzającego rok:
+    - **a)** w którym przeniósł miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, albo
+    - **b)** za który nie wpłacił w terminie w całości lub części ryczałtu za rok podatkowy, albo
+    - **c)** w którym nie poniósł wydatków, o których mowa w art. 30m ust. 1.
+
 **Art. 30p.**
 
 1. Do członka rodziny podatnika podlegającego opodatkowaniu ryczałtem przepisy niniejszego rozdziału stosuje się odpowiednio, przy czym:
@@ -4273,7 +4761,7 @@ Art. 46–51. (pominięte)
 
 4. Wycofanie i zmiana złożonego uprzednio oświadczenia lub wniosku następuje w drodze nowego oświadczenia lub wniosku, o którym mowa w ust. 1.
 
-5. Jeżeli podatnik złoży płatnikowi oświadczenie lub wniosek mające wpływ na obliczanie zaliczki, płatnik uwzględnia to oświadczenie lub ten wniosek najpóźniej od miesiąca następującego po miesiącu, w którym je otrzymał, a w przypadku płatnika, o którym mowa w art. 34 najpóźniej od drugiego miesiąca następującego po miesiącu, w którym je otrzymał.
+5. Jeżeli podatnik złoży płatnikowi oświadczenie lub wniosek mające wpływ na obliczanie zaliczki, płatnik uwzględnia to oświadczenie lub ten wniosek najpóźniej od miesiąca następującego po miesiącu, w którym je otrzymał, a w przypadku płatnika, o którym mowa w art. 34 – najpóźniej od drugiego miesiąca następującego po miesiącu, w którym je otrzymał.
 
 6. Oświadczenie i wniosek mające wpływ na obliczenie zaliczki dotyczą również kolejnych lat podatkowych, chyba że odrębny przepis stanowi inaczej.
 
@@ -4334,14 +4822,14 @@ Art. 46–51. (pominięte)
 
 2. Zaliczki za miesiące od stycznia do grudnia wynoszą:
 
-- **1)** za miesiące, w których dochód podatnika uzyskany od początku roku od danego płatnika nie przekroczył kwoty 120 000 zł 12 % dochodu uzyskanego w danym miesiącu;
-- **2)** za miesiąc, w którym dochód podatnika uzyskany od początku roku od danego płatnika przekroczył kwotę 120 000 zł 12 % od tej części dochodu uzyskanego w tym miesiącu, która nie przekroczyła tej kwoty, i 32 % od nadwyżki ponad kwotę 120 000 zł;
-- **3)** za miesiące następujące po miesiącu, o którym mowa w pkt 2 32 % dochodu uzyskanego w danym miesiącu od danego płatnika.
+- **1)** za miesiące, w których dochód podatnika uzyskany od początku roku od danego płatnika nie przekroczył kwoty 120 000 zł – 12 % dochodu uzyskanego w danym miesiącu;
+- **2)** za miesiąc, w którym dochód podatnika uzyskany od początku roku od danego płatnika przekroczył kwotę 120 000 zł – 12 % od tej części dochodu uzyskanego w tym miesiącu, która nie przekroczyła tej kwoty, i 32 % od nadwyżki ponad kwotę 120 000 zł;
+- **3)** za miesiące następujące po miesiącu, o którym mowa w pkt 2 – 32 % dochodu uzyskanego w danym miesiącu od danego płatnika.
 
 3. Jeżeli podatnik złoży płatnikowi oświadczenie, że za dany rok zamierza opodatkować dochody w sposób określony w art. 6 ust. 2 albo 4d, a za rok podatkowy przewidywane, określone w oświadczeniu:
 
-- **1)** dochody podatnika nie przekroczą kwoty 120 000 zł, a małżonek lub dziecko nie uzyskują żadnych dochodów, które łączy się z dochodami podatnika zaliczki za wszystkie miesiące roku podatkowego wynoszą 12 % dochodu uzyskanego w danym miesiącu od tego płatnika i są dodatkowo pomniejszane za każdy miesiąc o kwotę stanowiącą 1/12 kwoty zmniejszającej podatek w przypadku oświadczenia dotyczącego opodatkowania dochodów na zasadach określonych w art. 6 ust. 2 albo 4d;
-- **2)** dochody podatnika przekroczą kwotę 120 000 zł, a dochody małżonka lub dziecka, które łączy się z dochodami podatnika, nie przekraczają tej kwoty zaliczki za wszystkie miesiące roku podatkowego wynoszą 12 % dochodu uzyskanego w danym miesiącu od tego płatnika.
+- **1)** dochody podatnika nie przekroczą kwoty 120 000 zł, a małżonek lub dziecko nie uzyskują żadnych dochodów, które łączy się z dochodami podatnika – zaliczki za wszystkie miesiące roku podatkowego wynoszą 12 % dochodu uzyskanego w danym miesiącu od tego płatnika i są dodatkowo pomniejszane za każdy miesiąc o kwotę stanowiącą 1/12 kwoty zmniejszającej podatek w przypadku oświadczenia dotyczącego opodatkowania dochodów na zasadach określonych w art. 6 ust. 2 albo 4d;
+- **2)** dochody podatnika przekroczą kwotę 120 000 zł, a dochody małżonka lub dziecka, które łączy się z dochodami podatnika, nie przekraczają tej kwoty – zaliczki za wszystkie miesiące roku podatkowego wynoszą 12 % dochodu uzyskanego w danym miesiącu od tego płatnika.
 
 4. Za dochód, o którym mowa w ust. 2 i 3, uważa się uzyskane w ciągu miesiąca przychody, o których mowa w ust. 1, po odliczeniu kosztów uzyskania w wysokości określonej w art. 22 ust. 2 pkt 1 albo 3 lub ust. 9 pkt 1–3 oraz po odliczeniu potrąconych przez płatnika w danym miesiącu składek na ubezpieczenie społeczne, o których mowa w art. 26 ust. 1 pkt 2 lit. b lub pkt 2a.
 
@@ -4410,13 +4898,13 @@ Art. 46–51. (pominięte)
 - **3)** nie korzysta z możliwości opodatkowania jego dochodów w sposób określony w art. 6 ust. 2 albo 4d,
 - **4)** nie uzyskał dochodów powodujących obliczenie należnego podatku w sposób określony w art. 27 ust. 8,
 - **5)** (uchylony)
-- **6)** nie ma obowiązku doliczenia kwot uprzednio odliczonych podatek wynikający z rozliczenia rocznego jest podatkiem należnym od podatnika za dany rok, chyba że właściwy organ wyda decyzję określającą wysokość zobowiązania podatkowego w innej wysokości.
+- **6)** nie ma obowiązku doliczenia kwot uprzednio odliczonych – podatek wynikający z rozliczenia rocznego jest podatkiem należnym od podatnika za dany rok, chyba że właściwy organ wyda decyzję określającą wysokość zobowiązania podatkowego w innej wysokości.
 
-10. Jeżeli podatnik dokonał zwrotu nienależnie pobranych emerytur i rent lub zasiłków z ubezpieczenia społecznego, rent strukturalnych, rent socjalnych, dodatków dopełniających, świadczeń przedemerytalnych, zasiłków przedemerytalnych, nauczycielskich świadczeń kompensacyjnych, rodzicielskich świadczeń uzupełniających, otrzymanych bezpośrednio z tego organu, a obowiązek poboru zaliczek przez ten organ trwa organ rentowy odejmuje od dochodu kwoty zwrotów dokonanych w roku podatkowym przy ustalaniu wysokości zaliczek oraz w rocznym obliczeniu dochodu, zamieszczając na tym rozliczeniu odpowiednie informacje.
+10. Jeżeli podatnik dokonał zwrotu nienależnie pobranych emerytur i rent lub zasiłków z ubezpieczenia społecznego, rent strukturalnych, rent socjalnych, dodatków dopełniających, świadczeń przedemerytalnych, zasiłków przedemerytalnych, nauczycielskich świadczeń kompensacyjnych, rodzicielskich świadczeń uzupełniających, otrzymanych bezpośrednio z tego organu, a obowiązek poboru zaliczek przez ten organ trwa – organ rentowy odejmuje od dochodu kwoty zwrotów dokonanych w roku podatkowym przy ustalaniu wysokości zaliczek oraz w rocznym obliczeniu dochodu, zamieszczając na tym rozliczeniu odpowiednie informacje.
 
-10a. W przypadku przyznania podatnikowi prawa do emerytury, renty z tytułu niezdolności do pracy, renty szkoleniowej, renty socjalnej, renty rodzinnej, renty strukturalnej lub zasiłków z ubezpieczenia społecznego, za okres, za który podatnik pobierał świadczenie z innego organu rentowego w wysokości uwzględniającej zaliczkę na podatek i składkę na ubezpieczenie zdrowotne organ rentowy odejmuje te kwoty od przyznanego świadczenia przy ustalaniu wysokości zaliczek oraz w rocznym obliczeniu podatku, zamieszczając na tym rozliczeniu odpowiednie informacje.
+10a. W przypadku przyznania podatnikowi prawa do emerytury, renty z tytułu niezdolności do pracy, renty szkoleniowej, renty socjalnej, renty rodzinnej, renty strukturalnej lub zasiłków z ubezpieczenia społecznego, za okres, za który podatnik pobierał świadczenie z innego organu rentowego w wysokości uwzględniającej zaliczkę na podatek i składkę na ubezpieczenie zdrowotne – organ rentowy odejmuje te kwoty od przyznanego świadczenia przy ustalaniu wysokości zaliczek oraz w rocznym obliczeniu podatku, zamieszczając na tym rozliczeniu odpowiednie informacje.
 
-10b. W przypadku przyznania podatnikowi prawa do emerytury, renty z tytułu niezdolności do pracy, renty szkoleniowej, renty socjalnej, zasiłków z ubezpieczenia społecznego lub renty rodzinnej, za okres, za który podatnik pobierał zasiłek, dodatek szkoleniowy, stypendium albo inne świadczenie pieniężne z tytułu pozostawania bez pracy, nauczycielskie świadczenie kompensacyjne, zasiłek przedemerytalny lub świadczenie przedemerytalne, pobrane z tego tytułu kwoty w wysokości uwzględniającej zaliczkę na podatek i składkę na ubezpieczenie zdrowotne organ rentowy odejmuje od przyznanego świadczenia przy ustalaniu wysokości zaliczek oraz w rocznym obliczeniu podatku, zamieszczając na tym rozliczeniu odpowiednie informacje.
+10b. W przypadku przyznania podatnikowi prawa do emerytury, renty z tytułu niezdolności do pracy, renty szkoleniowej, renty socjalnej, zasiłków z ubezpieczenia społecznego lub renty rodzinnej, za okres, za który podatnik pobierał zasiłek, dodatek szkoleniowy, stypendium albo inne świadczenie pieniężne z tytułu pozostawania bez pracy, nauczycielskie świadczenie kompensacyjne, zasiłek przedemerytalny lub świadczenie przedemerytalne, pobrane z tego tytułu kwoty w wysokości uwzględniającej zaliczkę na podatek i składkę na ubezpieczenie zdrowotne – organ rentowy odejmuje od przyznanego świadczenia przy ustalaniu wysokości zaliczek oraz w rocznym obliczeniu podatku, zamieszczając na tym rozliczeniu odpowiednie informacje.
 
 11. (uchylony)
 
@@ -4424,8 +4912,8 @@ Art. 46–51. (pominięte)
 
 13. Organ rentowy jest obowiązany:
 
-- **1)** pobrać różnicę, o której mowa w ust. 12, z dochodu za miesiąc, za który pobrana została ostatnia zaliczka w przypadku gdy stosunek uzasadniający pobór zaliczek ustał w styczniu albo w lutym, albo
-- **2)** sporządzić i przekazać imienną informację o wysokości uzyskanego dochodu w przypadku gdy nie ma możliwości pobrania różnicy, o której mowa w ust. 12, zgodnie z pkt 1.
+- **1)** pobrać różnicę, o której mowa w ust. 12, z dochodu za miesiąc, za który pobrana została ostatnia zaliczka – w przypadku gdy stosunek uzasadniający pobór zaliczek ustał w styczniu albo w lutym, albo
+- **2)** sporządzić i przekazać imienną informację o wysokości uzyskanego dochodu – w przypadku gdy nie ma możliwości pobrania różnicy, o której mowa w ust. 12, zgodnie z pkt 1.
 
 14. Imienna informacja o wysokości uzyskanego dochodu przekazana na podstawie ust. 13 pkt 2 zastępuje roczne obliczenie podatku. W takim przypadku organ rentowy informuje podatnika o przyczynie i skutkach przekazania imiennej informacji o wysokości uzyskanego dochodu.
 
@@ -4433,15 +4921,15 @@ Art. 46–51. (pominięte)
 
 1. Do poboru zaliczek miesięcznych jako płatnicy są obowiązane:
 
-- **1)** osoby prawne i ich jednostki organizacyjne od wypłacanych przez nie emerytur i rent z zagranicy,
-- **2)** osoby prawne i ich jednostki organizacyjne, zakłady pracy oraz inne jednostki organizacyjne od wypłacanych przez nie stypendiów,
-- **3)** areszty śledcze oraz zakłady karne od należności za pracę przypadającej tymczasowo aresztowanym oraz skazanym,
-- **4)** centra integracji społecznej od wypłacanych świadczeń integracyjnych i motywacyjnej premii integracyjnej, przyznanych na podstawie ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 1718),
-- **5)** organy zatrudnienia od świadczeń wypłacanych z Funduszu Pracy,
-- **6)** wojewódzkie urzędy pracy od świadczeń wypłacanych z Funduszu Gwarantowanych Świadczeń Pracowniczych,
-- **7)** spółdzielnie od oprocentowania wkładów pieniężnych członków spółdzielni, zaliczonego w ciężar kosztów spółdzielni,
-- **8)** oddziały Agencji Mienia Wojskowego od wypłacanych żołnierzom świadczeń pieniężnych wynikających z przepisów ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej,
-- **9)** podmioty przyjmujące na praktykę absolwencką lub staż uczniowski od świadczeń pieniężnych wypłacanych z tytułu odbywania praktyk absolwenckich, o których mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich, lub odbywania stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe pomniejszonych o potrącone przez płatnika w danym miesiącu składki, o których mowa w art. 26 ust. 1 pkt 2 lit. b.
+- **1)** osoby prawne i ich jednostki organizacyjne – od wypłacanych przez nie emerytur i rent z zagranicy,
+- **2)** osoby prawne i ich jednostki organizacyjne, zakłady pracy oraz inne jednostki organizacyjne – od wypłacanych przez nie stypendiów,
+- **3)** areszty śledcze oraz zakłady karne – od należności za pracę przypadającej tymczasowo aresztowanym oraz skazanym,
+- **4)** centra integracji społecznej – od wypłacanych świadczeń integracyjnych i motywacyjnej premii integracyjnej, przyznanych na podstawie ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 1718),
+- **5)** organy zatrudnienia – od świadczeń wypłacanych z Funduszu Pracy,
+- **6)** wojewódzkie urzędy pracy – od świadczeń wypłacanych z Funduszu Gwarantowanych Świadczeń Pracowniczych,
+- **7)** spółdzielnie – od oprocentowania wkładów pieniężnych członków spółdzielni, zaliczonego w ciężar kosztów spółdzielni,
+- **8)** oddziały Agencji Mienia Wojskowego – od wypłacanych żołnierzom świadczeń pieniężnych wynikających z przepisów ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej,
+- **9)** podmioty przyjmujące na praktykę absolwencką lub staż uczniowski – od świadczeń pieniężnych wypłacanych z tytułu odbywania praktyk absolwenckich, o których mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich, lub odbywania stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – pomniejszonych o potrącone przez płatnika w danym miesiącu składki, o których mowa w art. 26 ust. 1 pkt 2 lit. b.
 
 2. Zaliczki, o których mowa w ust. 1 pkt 1–4, za miesiące od stycznia do grudnia ustala się w sposób określony w art. 32 ust. 2 albo 3, z tym że w przypadku poboru zaliczek od emerytur i rent z zagranicy stosuje się postanowienia umowy o unikaniu podwójnego opodatkowania, zawartej z państwem, z którego pochodzą te emerytury i renty.
 
@@ -4470,7 +4958,7 @@ Art. 46–51. (pominięte)
 2. Płatnicy będący:
 
 - **1)** zakładami pracy chronionej kwoty pobranych zaliczek na podatek od przychodów z tytułów określonych w art. 12 oraz od zasiłków pieniężnych z ubezpieczenia społecznego, wypłacanych przez tych płatników:
-    - **a)** za miesiące od początku roku do miesiąca włącznie, w którym dochód podatnika uzyskany od początku roku u tego płatnika przekroczył kwotę stanowiącą górną granicę pierwszego przedziału skali, o której mowa w art. 27 ust. 1, przekazują: w 40 % na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, w 60 % na zakładowy fundusz rehabilitacji osób niepełnosprawnych,
+    - **a)** za miesiące od początku roku do miesiąca włącznie, w którym dochód podatnika uzyskany od początku roku u tego płatnika przekroczył kwotę stanowiącą górną granicę pierwszego przedziału skali, o której mowa w art. 27 ust. 1, przekazują: – w 40 % na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, – w 60 % na zakładowy fundusz rehabilitacji osób niepełnosprawnych,
     - **b)** za miesiące następujące po miesiącu, w którym dochód podatnika uzyskany od początku roku u tego płatnika przekroczył kwotę, o której mowa w lit. a, przekazują na zasadach określonych w ust. 1;
 
 - **2)** zakładami aktywności zawodowej kwoty pobranych zaliczek na podatek od przychodów z tytułów określonych w art. 12 oraz od zasiłków pieniężnych z ubezpieczenia społecznego, wypłacanych przez tych płatników:
@@ -4480,10 +4968,10 @@ Art. 46–51. (pominięte)
 2a. Płatnicy, o których mowa w art. 32, którzy utracili status zakładu pracy chronionej, zatrudniający osoby niepełnosprawne, kwoty pobranych zaliczek na podatek od przychodów tych osób z tytułów określonych w art. 12 oraz od zasiłków pieniężnych z ubezpieczenia społecznego wypłacanych przez tych płatników tym osobom:
 
 - **1)** za miesiące od początku roku do miesiąca włącznie, w którym dochód osoby niepełnosprawnej uzyskany od początku roku u tego płatnika przekroczył kwotę stanowiącą górną granicę pierwszego przedziału skali, o której mowa w art. 27 ust. 1, przekazują w wysokości:
-    - **a)** 25 % na zakładowy fundusz rehabilitacji osób niepełnosprawnych w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości od 25 do 30 %,
-    - **b)** 50 % na zakładowy fundusz rehabilitacji osób niepełnosprawnych w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości od 30 do 35 %,
-    - **c)** 75 % na zakładowy fundusz rehabilitacji osób niepełnosprawnych w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości od 35 do 40 %,
-    - **d)** 100 % na zakładowy fundusz rehabilitacji osób niepełnosprawnych w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości co najmniej 40 % w pozostałej części na zasadach określonych w ust. 1;
+    - **a)** 25 % na zakładowy fundusz rehabilitacji osób niepełnosprawnych – w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości od 25 do 30 %,
+    - **b)** 50 % na zakładowy fundusz rehabilitacji osób niepełnosprawnych – w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości od 30 do 35 %,
+    - **c)** 75 % na zakładowy fundusz rehabilitacji osób niepełnosprawnych – w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości od 35 do 40 %,
+    - **d)** 100 % na zakładowy fundusz rehabilitacji osób niepełnosprawnych – w przypadku płatników osiągających wskaźnik zatrudnienia osób niepełnosprawnych w wysokości co najmniej 40 % – w pozostałej części na zasadach określonych w ust. 1;
 
 - **2)** za miesiące następujące po miesiącu, w którym dochód osoby niepełnosprawnej uzyskany od początku roku u tego płatnika przekroczył kwotę, o której mowa w pkt 1, kwoty pobranych zaliczek na podatek płatnicy przekazują na zasadach określonych w ust. 1.
 
@@ -4564,7 +5052,7 @@ Art. 46–51. (pominięte)
 
 - **1)** wygranych (nagród), o których mowa w art. 30 ust. 1 pkt 2,
 - **2)** świadczeń, o których mowa w art. 30 ust. 1 pkt 4 i 4b,
-- **3)** świadczeń, o których mowa w art. 13 pkt 2 i 4–9 oraz w art. 18 nie są pieniądze, podatnik jest obowiązany wpłacić płatnikowi kwotę zaliczki lub należnego zryczałtowanego podatku przed udostępnieniem wygranej (nagrody) lub świadczenia.
+- **3)** świadczeń, o których mowa w art. 13 pkt 2 i 4–9 oraz w art. 18 – nie są pieniądze, podatnik jest obowiązany wpłacić płatnikowi kwotę zaliczki lub należnego zryczałtowanego podatku przed udostępnieniem wygranej (nagrody) lub świadczenia.
 
 7a. Jeżeli przedmiotem świadczenia lub mieniem, o których mowa w art. 20 ust. 1g, nie są pieniądze lub wartości pieniężne oraz takie świadczenie lub mienie przysługują podatnikowi za okres dłuższy niż miesiąc, przy obliczaniu zryczałtowanego podatku za poszczególne miesiące przyjmuje się ich wartość przypadającą na jeden miesiąc.
 
@@ -4609,7 +5097,7 @@ Art. 46–51. (pominięte)
 - **1)** posiada dokumenty wymagane przez przepisy prawa podatkowego dla zastosowania stawki podatku albo zwolnienia lub niepobrania podatku, wynikających z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania;
 - **2)** po przeprowadzeniu weryfikacji, o której mowa w ust. 4aa, nie posiada wiedzy uzasadniającej przypuszczenie, że istnieją okoliczności wykluczające możliwość zastosowania stawki podatku albo zwolnienia lub niepobrania podatku, wynikających z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania.
 
-16. Oświadczenie, o którym mowa w ust. 15, składa kierownik jednostki w rozumieniu art. 3 ust. 1 pkt 6 ustawy o rachunkowości, a w przypadku gdy jednostką kieruje organ wieloosobowy wyznaczona osoba wchodząca w skład tego organu, przy czym nie jest dopuszczalne złożenie tego oświadczenia przez pełnomocnika.
+16. Oświadczenie, o którym mowa w ust. 15, składa kierownik jednostki w rozumieniu art. 3 ust. 1 pkt 6 ustawy o rachunkowości, a w przypadku gdy jednostką kieruje organ wieloosobowy – wyznaczona osoba wchodząca w skład tego organu, przy czym nie jest dopuszczalne złożenie tego oświadczenia przez pełnomocnika.
 
 17. Oświadczenie, o którym mowa w ust. 15, płatnik jest obowiązany złożyć do organu podatkowego wskazanego w art. 44f ust. 15, niepóźniej niż ostatniego dnia drugiego miesiąca następującego po miesiącu, w którym doszło do przekroczenia kwoty określonej w ust. 12, przy czym wykonanie tego obowiązku po dokonaniu wypłaty (świadczenia) lub postawieniu do dyspozycji pieniędzy lub wartości pieniężnych nie zwalnia płatnika z obowiązku dochowania należytej staranności przed ich dokonaniem lub postawieniem do dyspozycji.
 
@@ -4633,7 +5121,7 @@ Art. 46–51. (pominięte)
 - **1)** listów zastawnych;
 - **2)** obligacji:
     - **a)** o terminie wykupu niekrótszym niż rok,
-    - **b)** dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa będącego stroną zawartej z Rzecząpospolitą Polską umowy o unikaniu podwójnego opodatkowania, której przepisy określają zasady opodatkowania dochodów z dywidend, odsetek oraz należności licencyjnych z wyłączeniem płatnika, o którym mowa w ust. 4d i 10 w zakresie dochodów (przychodów) uzyskanych przez podatnika, o którym mowa w art. 3 ust. 1.
+    - **b)** dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa będącego stroną zawartej z Rzecząpospolitą Polską umowy o unikaniu podwójnego opodatkowania, której przepisy określają zasady opodatkowania dochodów z dywidend, odsetek oraz należności licencyjnych – z wyłączeniem płatnika, o którym mowa w ust. 4d i 10 w zakresie dochodów (przychodów) uzyskanych przez podatnika, o którym mowa w art. 3 ust. 1.
 
 24a. Niepobranie podatku w przypadku, o którym mowa w ust. 24 pkt 2, następuje pod warunkiem złożenia przez emitenta do organu podatkowego, o którym mowa w art. 44f ust. 15, oświadczenia, że emitent dochował należytej staranności w poinformowaniu podmiotów z nim powiązanych w rozumieniu art. 23m ust. 1 pkt 4 lub w rozumieniu art. 11a ust. 1 pkt 4 ustawy o podatku dochodowym od osób prawnych, z wyłączeniem podmiotów, w przypadku których powiązania wynikają wyłącznie z powiązania ze Skarbem Państwa lub jednostkami samorządu terytorialnego lub ich związkami, o warunkach zwolnienia, o którym mowa w art. 21 ust. 1 pkt 130c, w stosunku do tych podmiotów powiązanych. Zdania pierwszego nie stosuje się do Skarbu Państwa będącego emitentem obligacji.
 
@@ -4663,7 +5151,7 @@ Art. 46–51. (pominięte)
 
 - **1)** ma siedzibę lub zarząd albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej;
 - **2)** przez 24 miesiące poprzedzające dzień zawarcia umowy nie posiadała zaległości w podatkach stanowiących dochód budżetu państwa, przekraczających 3 % kwoty należnych zobowiązań podatkowych w poszczególnych podatkach, przy czym udział zaległości w kwocie podatku ustala się w stosunku do kwoty należnych wpłat za okres rozliczeniowy, którego dotyczy zaległość;
-- **3)** przez 24 miesiące poprzedzające dzień zawarcia umowy osoba fizyczna będąca podatnikiem, a w przypadku podatników niebędących osobami fizycznymi osoba będąca wspólnikiem spółki cywilnej lub handlowej niemającej osobowości prawnej, członkiem organów zarządzających, osobą prowadzącą księgi rachunkowe, nie została prawomocnie skazana na podstawie ustawy z dnia 10 września 1999 r. Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633 oraz z 2026 r. poz. 347 i 421) za popełnienie przestępstwa skarbowego;
+- **3)** przez 24 miesiące poprzedzające dzień zawarcia umowy osoba fizyczna będąca podatnikiem, a w przypadku podatników niebędących osobami fizycznymi – osoba będąca wspólnikiem spółki cywilnej lub handlowej niemającej osobowości prawnej, członkiem organów zarządzających, osobą prowadzącą księgi rachunkowe, nie została prawomocnie skazana na podstawie ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633 oraz z 2026 r. poz. 347 i 421) za popełnienie przestępstwa skarbowego;
 - **4)** jest uprawniona do zawodowego wykonywania doradztwa podatkowego zgodnie z przepisami o doradztwie podatkowym lub do usługowego prowadzenia ksiąg rachunkowych zgodnie z przepisami o rachunkowości.
 
 3. Przedstawiciela podatkowego ustanawia się w drodze umowy zawartej w formie pisemnej, zawierającej co najmniej:
@@ -4679,7 +5167,7 @@ Art. 46–51. (pominięte)
 
 7. W przypadku niedopełnienia obowiązku, o którym mowa w ust. 1, spółka nieruchomościowa podlega karze pieniężnej. Karę pieniężną nakłada naczelnik urzędu skarbowego właściwy dla podatnika, w drodze decyzji, w wysokości do 1 000 000 zł.
 
-8. W zakresie nieuregulowanym w ust. 7 do nakładania kary pieniężnej stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+8. W zakresie nieuregulowanym w ust. 7 do nakładania kary pieniężnej stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 9. Do postępowania w sprawie nałożenia kary pieniężnej stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej, przy czym od decyzji w sprawie nałożenia kary pieniężnej przysługuje odwołanie do dyrektora izby administracji skarbowej.
 
@@ -4712,7 +5200,7 @@ Art. 46–51. (pominięte)
 
 9. W zakresie nieuregulowanym w ust. 1–8 stosuje się odpowiednio przepisy art. 44f ust. 3, 5–8 i 11 oraz przepisy art. 120, art. 121 § 1, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 § 3b, art. 165a, art. 168, art. 169 § 1–2, art. 170, art. 171, art. 208, art. 213 w zakresie uzupełniania lub sprostowania pouczenia co do prawa wniesienia skargi do sądu administracyjnego, art. 214, art. 215 oraz działu IV rozdziałów 3a, 5–7, 10, 11, 14, 16 i 23 Ordynacji podatkowej.
 
-10. Organem podatkowym właściwym w sprawach wydawania opinii o stosowaniu preferencji jest naczelnik urzędu skarbowego właściwy według miejsca zamieszkania podatnika, a w przypadku podatników wymienionych w art. 3 ust. 2a oraz podatników będących osobami uprawnionymi z papierów wartościowych zapisanych na rachunkach zbiorczych, których tożsamość nie została płatnikowi ujawniona w trybie przewidzianym w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych.
+10. Organem podatkowym właściwym w sprawach wydawania opinii o stosowaniu preferencji jest naczelnik urzędu skarbowego właściwy według miejsca zamieszkania podatnika, a w przypadku podatników wymienionych w art. 3 ust. 2a oraz podatników będących osobami uprawnionymi z papierów wartościowych zapisanych na rachunkach zbiorczych, których tożsamość nie została płatnikowi ujawniona w trybie przewidzianym w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi – naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych.
 
 11. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób przesyłania wniosku o wydanie opinii o stosowaniu preferencji za pomocą środków komunikacji elektronicznej, uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tym wniosku, a także potrzebę ich ochrony przed nieuprawnionym dostępem.
 
@@ -4720,14 +5208,14 @@ Art. 46–51. (pominięte)
 
 **Art. 42.**
 
-1. Płatnicy, o których mowa w art. 41, przekazują kwoty pobranych zaliczek na podatek oraz kwoty zryczałtowanego podatku w terminie do 20 dnia miesiąca następującego po miesiącu, w którym pobrano zaliczki (podatek) na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy według miejsca zamieszkania płatnika wykonuje swoje zadania, a jeżeli płatnik nie jest osobą fizyczną, według siedziby bądź miejsca prowadzenia działalności, gdy płatnik nie posiada siedziby. Jednakże w przypadku gdy podatek został pobrany zgodnie z art. 30a ust. 2a, płatnicy, o których mowa w art. 41 ust. 10, przekazują kwotę tego podatku na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych wykonuje swoje zadania.
+1. Płatnicy, o których mowa w art. 41, przekazują kwoty pobranych zaliczek na podatek oraz kwoty zryczałtowanego podatku w terminie do 20 dnia miesiąca następującego po miesiącu, w którym pobrano zaliczki (podatek) – na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy według miejsca zamieszkania płatnika wykonuje swoje zadania, a jeżeli płatnik nie jest osobą fizyczną, według siedziby bądź miejsca prowadzenia działalności, gdy płatnik nie posiada siedziby. Jednakże w przypadku gdy podatek został pobrany zgodnie z art. 30a ust. 2a, płatnicy, o których mowa w art. 41 ust. 10, przekazują kwotę tego podatku na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych wykonuje swoje zadania.
 
 1a. W terminie do końca stycznia roku następującego po roku podatkowym płatnicy, o których mowa w art. 41, są obowiązani przesłać do urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy według miejsca zamieszkania płatnika wykonuje swoje zadania, a jeżeli płatnik nie jest osobą fizyczną, według siedziby bądź miejsca prowadzenia działalności, gdy płatnik nie posiada siedziby, roczne deklaracje, według ustalonego wzoru. Jednakże roczne deklaracje dotyczące podatku pobranego zgodnie z art. 30a ust. 2a płatnicy, o których mowa w art. 41 ust. 10, przesyłają do urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych wykonuje swoje zadania. Przepis art. 38 ust. 1b stosuje się odpowiednio.
 
 2. Płatnicy, o których mowa w ust. 1, są obowiązani przesłać podatnikom, o których mowa:
 
-- **1)** w art. 3 ust. 1, oraz urzędom skarbowym przy pomocy których naczelnicy urzędów skarbowych właściwi według miejsca zamieszkania podatnika wykonują swoje zadania imienne informacje o wysokości dochodu, o którym mowa w art. 41 ust. 1, sporządzone według ustalonego wzoru;
-- **2)** w art. 3 ust. 2a, oraz urzędom skarbowym, przy pomocy których naczelnicy urzędów skarbowych właściwi w sprawach opodatkowania osób zagranicznych wykonują swoje zadania, w terminie do końca lutego roku następującego po roku podatkowym imienne informacje sporządzone według ustalonego wzoru, również gdy płatnik w roku podatkowym sporządzał i przekazywał informacje w trybie przewidzianym w ust. 4.
+- **1)** w art. 3 ust. 1, oraz urzędom skarbowym przy pomocy których naczelnicy urzędów skarbowych właściwi według miejsca zamieszkania podatnika wykonują swoje zadania – imienne informacje o wysokości dochodu, o którym mowa w art. 41 ust. 1, sporządzone według ustalonego wzoru;
+- **2)** w art. 3 ust. 2a, oraz urzędom skarbowym, przy pomocy których naczelnicy urzędów skarbowych właściwi w sprawach opodatkowania osób zagranicznych wykonują swoje zadania, w terminie do końca lutego roku następującego po roku podatkowym – imienne informacje sporządzone według ustalonego wzoru, również gdy płatnik w roku podatkowym sporządzał i przekazywał informacje w trybie przewidzianym w ust. 4.
 
 3. W razie zaprzestania przez płatnika prowadzenia działalności przed upływem terminu dla złożenia informacji, o których mowa w ust. 2 pkt 2, informacje te płatnik składa niepóźniej niż w dniu zaprzestania prowadzenia działalności.
 
@@ -4782,7 +5270,7 @@ Art. 46–51. (pominięte)
 
 2. W okresie, o którym mowa w art. 1a ust. 2 pkt 1 albo 2, na przedsiębiorstwie w spadku ciążą również obowiązki określone w art. 42a.
 
-3. Obowiązki przedsiębiorstwa w spadku wykonuje zarządca sukcesyjny, a w przypadku jego braku osoby, o których mowa w art. 14 ustawy o zarządzie sukcesyjnym, dokonujące czynności, o których mowa w art. 13 tej ustawy.
+3. Obowiązki przedsiębiorstwa w spadku wykonuje zarządca sukcesyjny, a w przypadku jego braku – osoby, o których mowa w art. 14 ustawy o zarządzie sukcesyjnym, dokonujące czynności, o których mowa w art. 13 tej ustawy.
 
 4. W składanych deklaracjach i informacjach uwzględnia się kwoty dotyczące wypłaconych należności oraz dokonanych świadczeń od początku roku podatkowego, w tym należności i świadczenia wypłacone lub dokonane od otwarcia spadku.
 
@@ -4796,8 +5284,8 @@ Art. 46–51. (pominięte)
 
 1. Płatnicy oraz podmioty, o których mowa w art. 42a, przesyłają roczne obliczenie podatku, o którym mowa w art. 34 ust. 7, oraz informacje, o których mowa w art. 34 ust. 8, art. 35 ust. 6, art. 39 ust. 1 i 3, art. 42 ust. 2 pkt 1, art. 42a ust. 1 oraz art. 42e ust. 6:
 
-- **1)** urzędowi skarbowemu w terminie do końca stycznia roku następującego po roku podatkowym;
-- **2)** podatnikowi w terminie do końca lutego roku następującego po roku podatkowym.
+- **1)** urzędowi skarbowemu – w terminie do końca stycznia roku następującego po roku podatkowym;
+- **2)** podatnikowi – w terminie do końca lutego roku następującego po roku podatkowym.
 
 2. W przypadku zaprzestania prowadzenia działalności przed upływem terminów, o których mowa w ust. 1, obowiązek przesłania rocznego obliczenia podatku oraz informacji, o których mowa w ust. 1, jest wykonywany niepóźniej niż w dniu zaprzestania prowadzenia działalności.
 
@@ -4822,13 +5310,13 @@ Art. 46–51. (pominięte)
 1. Podatnicy osiągający dochody:
 
 - **1)** z działalności gospodarczej, o której mowa w art. 14,
-- **2)** (uchylony) są obowiązani bez wezwania wpłacać w ciągu roku podatkowego zaliczki na podatek dochodowy według zasad określonych w ust. 3, z zastrzeżeniem ust. 3f–3h.
+- **2)** (uchylony) – są obowiązani bez wezwania wpłacać w ciągu roku podatkowego zaliczki na podatek dochodowy według zasad określonych w ust. 3, z zastrzeżeniem ust. 3f–3h.
 
 1a. Podatnicy osiągający dochody bez pośrednictwa płatników:
 
 - **1)** ze stosunku pracy z zagranicy,
 - **2)** z emerytur i rent z zagranicy,
-- **3)** z tytułów określonych w art. 13 pkt 2, 4 i 6–9, z zastrzeżeniem ust. 1 pkt 1 są obowiązani bez wezwania wpłacać w ciągu roku podatkowego zaliczki na podatek dochodowy, według zasad określonych w ust. 3a.
+- **3)** z tytułów określonych w art. 13 pkt 2, 4 i 6–9, z zastrzeżeniem ust. 1 pkt 1 – są obowiązani bez wezwania wpłacać w ciągu roku podatkowego zaliczki na podatek dochodowy, według zasad określonych w ust. 3a.
 
 1b. Podatnicy, o których mowa w art. 3 ust. 2a, uzyskujący przychody określone w art. 29 bez pośrednictwa płatników, są obowiązani bez wezwania wpłacać zryczałtowany podatek dochodowy na zasadach, o których mowa w art. 29, za miesiące, w których uzyskali ten przychód, w terminie do dnia 20 następnego miesiąca za miesiąc poprzedni. Podatek za grudzień jest płatny przed upływem terminu określonego na złożenie zeznania.
 
@@ -4836,7 +5324,7 @@ Art. 46–51. (pominięte)
 
 1d. Podatnik, o którym mowa w ust. 1c, jeżeli dokonał w trakcie roku podatkowego wpłaty zaliczki jest obowiązany do wpłacania kolejnych zaliczek od dochodów uzyskanych z tego tytułu w następnych miesiącach, aż do końca tego roku podatkowego.
 
-1e. (uchylony) 1f. Miesięczne zaliczki obliczone w sposób określony w ust. 1c podatnik jest obowiązany wpłacać na rachunek urzędu skarbowego, w terminie do 20 dnia miesiąca następującego po miesiącu, w którym uzyskał dochód, a za grudzień przed upływem terminu określonego na złożenie zeznania.
+1e. (uchylony) 1f. Miesięczne zaliczki obliczone w sposób określony w ust. 1c podatnik jest obowiązany wpłacać na rachunek urzędu skarbowego, w terminie do 20 dnia miesiąca następującego po miesiącu, w którym uzyskał dochód, a za grudzień – przed upływem terminu określonego na złożenie zeznania.
 
 1g. Podatnik uzyskujący przychody z tytułu umowy o pomocy przy zbiorach może w ciągu roku podatkowego wpłacać zaliczki miesięczne, stosując do uzyskanego dochodu najniższą stawkę podatkową określoną w skali, o której mowa w art. 27 ust. 1. Przy obliczaniu zaliczki podatnik może stosować wyższą stawkę podatkową określoną w skali, o której mowa w art. 27 ust. 1.
 
@@ -4848,7 +5336,7 @@ Art. 46–51. (pominięte)
 - **2)** zaliczkę za ten miesiąc stanowi podatek obliczony od tego dochodu według zasad określonych w art. 26 i art. 27;
 - **3)** zaliczkę za dalsze miesiące ustala się w wysokości różnicy pomiędzy podatkiem należnym od dochodu osiągniętego od początku roku a sumą zaliczek za miesiące poprzedzające.
 
-3a. Podatnicy uzyskujący dochody, o których mowa w ust. 1a, są obowiązani w terminie do 20 dnia miesiąca następującego po miesiącu, w którym dochód był uzyskany, a za grudzień przed upływem terminu określonego na złożenie zeznania, wpłacać zaliczki miesięczne, stosując do uzyskanego dochodu najniższą stawkę podatkową określoną w skali, o której mowa w art. 27 ust. 1. Za dochód, o którym mowa w zdaniu pierwszym, uważa się uzyskane w ciągu miesiąca przychody po odliczeniu miesięcznych kosztów uzyskania w wysokości określonej w art. 22 ust. 2 lub 9 oraz zapłaconych w danym miesiącu składek, o których mowa w art. 26 ust. 1 pkt 2 lub 2a. Przy obliczaniu zaliczki podatnik może stosować wyższą stawkę podatkową określoną w skali, o której mowa w art. 27 ust. 1. 3aa. (uchylony) 3ab. Zaliczkę obliczoną w sposób określony w ust. 3a podatnik może pomniejszyć o kwotę stanowiącą niewięcej niż 1/12 kwoty zmniejszającej podatek, przy czym przepisy art. 31b i art. 31c stosuje się odpowiednio.
+3a. Podatnicy uzyskujący dochody, o których mowa w ust. 1a, są obowiązani w terminie do 20 dnia miesiąca następującego po miesiącu, w którym dochód był uzyskany, a za grudzień – przed upływem terminu określonego na złożenie zeznania, wpłacać zaliczki miesięczne, stosując do uzyskanego dochodu najniższą stawkę podatkową określoną w skali, o której mowa w art. 27 ust. 1. Za dochód, o którym mowa w zdaniu pierwszym, uważa się uzyskane w ciągu miesiąca przychody po odliczeniu miesięcznych kosztów uzyskania w wysokości określonej w art. 22 ust. 2 lub 9 oraz zapłaconych w danym miesiącu składek, o których mowa w art. 26 ust. 1 pkt 2 lub 2a. Przy obliczaniu zaliczki podatnik może stosować wyższą stawkę podatkową określoną w skali, o której mowa w art. 27 ust. 1. 3aa. (uchylony) 3ab. Zaliczkę obliczoną w sposób określony w ust. 3a podatnik może pomniejszyć o kwotę stanowiącą niewięcej niż 1/12 kwoty zmniejszającej podatek, przy czym przepisy art. 31b i art. 31c stosuje się odpowiednio.
 
 3b. (uchylony) 3c. (uchylony) 3d. Podatnicy, o których mowa w art. 3 ust. 2a, uzyskujący z zagranicy dochody z pracy wykonywanej na terytorium Rzeczypospolitej Polskiej na podstawie stosunku pracy, są obowiązani wpłacać zaliczki na zasadach określonych w ust. 3a, po przekroczeniu okresu, który zgodnie z umową o unikaniu podwójnego opodatkowania stanowi warunek wyłączenia z opodatkowania tych dochodów na terytorium Rzeczypospolitej Polskiej; w tym przypadku przy obliczaniu pierwszej zaliczki podatnik jest obowiązany uwzględnić dochody uzyskane od początku roku podatkowego.
 
@@ -4872,12 +5360,12 @@ Art. 46–51. (pominięte)
 
 6. Zaliczki miesięczne od dochodów wymienionych w ust. 1, wpłaca się w terminie do 20 dnia każdego miesiąca za miesiąc poprzedni. Zaliczki kwartalne podatnicy wpłacają w terminie do 20 dnia każdego miesiąca następującego po kwartale, za który wpłacana jest zaliczka. Zaliczkę za ostatni miesiąc lub ostatni kwartał roku podatkowego podatnik wpłaca w terminie do 20 stycznia następnego roku podatkowego.
 
-6a. (uchylony) 6aa. Jeżeli zmarły przedsiębiorca w roku podatkowym, w którym zmarł, wpłacał zaliczki w sposób określony w ust. 3g albo 3h, przedsiębiorstwo w spadku może stosować ten sposób w tym roku podatkowym. 6ab. Pierwszą zaliczkę przedsiębiorstwo w spadku oblicza za miesiąc albo kwartał, w którym dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a jeżeli zgłoszenia nie dokonano za miesiąc albo kwartał, w którym został ustanowiony zarząd sukcesyjny, uwzględniając przy jej obliczeniu dochody przedsiębiorstwa osiągnięte od otwarcia spadku, i wpłaca w terminie do 20 dnia następnego miesiąca albo kwartału.
+6a. (uchylony) 6aa. Jeżeli zmarły przedsiębiorca w roku podatkowym, w którym zmarł, wpłacał zaliczki w sposób określony w ust. 3g albo 3h, przedsiębiorstwo w spadku może stosować ten sposób w tym roku podatkowym. 6ab. Pierwszą zaliczkę przedsiębiorstwo w spadku oblicza za miesiąc albo kwartał, w którym dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a jeżeli zgłoszenia nie dokonano – za miesiąc albo kwartał, w którym został ustanowiony zarząd sukcesyjny, uwzględniając przy jej obliczeniu dochody przedsiębiorstwa osiągnięte od otwarcia spadku, i wpłaca w terminie do 20 dnia następnego miesiąca albo kwartału.
 
 6b. Podatnicy, o których mowa w ust. 1 pkt 1, z wyłączeniem przedsiębiorstw w spadku, mogą wpłacać zaliczki miesięczne w danym roku podatkowym w uproszczonej formie w wysokości 1/12 kwoty obliczonej, z zastrzeżeniem ust. 6h, przy zastosowaniu skali podatkowej obowiązującej w danym roku podatkowym określonej w art. 27 ust. 1, od dochodu z pozarolniczej działalności gospodarczej wykazanego w zeznaniu o wysokości osiągniętego dochodu (poniesionej straty), o którym mowa w art. 45 ust. 1, lub w zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) z pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, opodatkowanych na zasadach określonych w art. 30c, o którym mowa w art. 45 ust. 1a pkt 2, złożonym:
 
 - **1)** w roku podatkowym poprzedzającym dany rok podatkowy albo
-- **2)** w roku podatkowym poprzedzającym dany rok podatkowy o dwa lata jeżeli w zeznaniu, o którym mowa w pkt 1, podatnicy nie wykazali dochodu z pozarolniczej działalności gospodarczej albo wykazali dochód w wysokości nieprzekraczającej kwoty stanowiącej iloraz kwoty zmniejszającej podatek oraz najniższej stawki podatku, określonych w pierwszym przedziale skali podatkowej, o której mowa w art. 27 ust. 1; jeżeli również w tym zeznaniu podatnicy nie wykazali dochodu z pozarolniczej działalności gospodarczej albo wykazali dochód z tego źródła w wysokości nieprzekraczającej kwoty stanowiącej iloraz kwoty zmniejszającej podatek oraz najniższej stawki podatku, określonych w pierwszym przedziale skali podatkowej, o której mowa w art. 27 ust. 1, nie są możliwe wpłaty zaliczek w uproszczonej formie.
+- **2)** w roku podatkowym poprzedzającym dany rok podatkowy o dwa lata – jeżeli w zeznaniu, o którym mowa w pkt 1, podatnicy nie wykazali dochodu z pozarolniczej działalności gospodarczej albo wykazali dochód w wysokości nieprzekraczającej kwoty stanowiącej iloraz kwoty zmniejszającej podatek oraz najniższej stawki podatku, określonych w pierwszym przedziale skali podatkowej, o której mowa w art. 27 ust. 1; jeżeli również w tym zeznaniu podatnicy nie wykazali dochodu z pozarolniczej działalności gospodarczej albo wykazali dochód z tego źródła w wysokości nieprzekraczającej kwoty stanowiącej iloraz kwoty zmniejszającej podatek oraz najniższej stawki podatku, określonych w pierwszym przedziale skali podatkowej, o której mowa w art. 27 ust. 1, nie są możliwe wpłaty zaliczek w uproszczonej formie.
 
 6c. Podatnicy, którzy wybrali uproszczoną formę wpłacania zaliczek, są obowiązani:
 
@@ -4892,9 +5380,9 @@ Art. 46–51. (pominięte)
 
 6f. Jeżeli podatnik złoży korektę zeznania, o którym mowa w art. 45 ust. 1 lub ust. 1a pkt 2, powodującą zmianę wysokości podstawy obliczenia miesięcznych zaliczek wpłacanych w uproszczonej formie, kwota tych zaliczek:
 
-- **1)** ulega zwiększeniu lub zmniejszeniu, odpowiednio do zmiany wysokości podstawy ich obliczenia jeżeli zeznanie korygujące zostało złożone w urzędzie skarbowym do końca roku poprzedzającego rok, za który zaliczki są płacone w uproszczonej formie;
-- **2)** ulega zwiększeniu lub zmniejszeniu począwszy od miesiąca następującego po miesiącu, w którym została złożona korekta, odpowiednio do zmiany wysokości podstawy ich obliczenia jeżeli zeznanie korygujące zostało złożone w roku, za który zaliczki są płacone w uproszczonej formie;
-- **3)** nie zmienia się jeżeli zeznanie korygujące zostało złożone w terminie późniejszym niż wymieniony w pkt 1 i 2.
+- **1)** ulega zwiększeniu lub zmniejszeniu, odpowiednio do zmiany wysokości podstawy ich obliczenia – jeżeli zeznanie korygujące zostało złożone w urzędzie skarbowym do końca roku poprzedzającego rok, za który zaliczki są płacone w uproszczonej formie;
+- **2)** ulega zwiększeniu lub zmniejszeniu począwszy od miesiąca następującego po miesiącu, w którym została złożona korekta, odpowiednio do zmiany wysokości podstawy ich obliczenia – jeżeli zeznanie korygujące zostało złożone w roku, za który zaliczki są płacone w uproszczonej formie;
+- **3)** nie zmienia się – jeżeli zeznanie korygujące zostało złożone w terminie późniejszym niż wymieniony w pkt 1 i 2.
 
 6g. W przypadku gdy właściwy organ podatkowy stwierdzi inną wysokość dochodu z pozarolniczej działalności gospodarczej niż wysokość dochodu z tej działalności wykazana w zeznaniu, o którym mowa w art. 45 ust. 1 lub ust. 1a pkt 2, albo w zeznaniu korygującym, przepisy ust. 6f stosuje się odpowiednio.
 
@@ -4923,23 +5411,23 @@ Art. 46–51. (pominięte)
 
 7e. Podatnicy korzystający ze zwolnienia, o którym mowa w ust. 7a, wykazują w zeznaniu o wysokości osiągniętego dochodu (poniesionej straty) składanym za rok podatkowy, w którym korzystali z tego zwolnienia, dochód osiągnięty (stratę poniesioną) z pozarolniczej działalności gospodarczej. Dochodu tego nie łączy się z dochodami z innych źródeł. Strata podlega rozliczeniu zgodnie z art. 9.
 
-7f. Dochód z pozarolniczej działalności gospodarczej, o którym mowa w ust. 7e, łączy się z dochodem (stratą) z tego źródła, wykazanym w zeznaniach o wysokości osiągniętego dochodu (poniesionej straty) składanych za pięć kolejnych lat następujących bezpośrednio po roku, w którym podatnik korzystał ze zwolnienia w wysokości 20 % tego dochodu w każdym z tych lat. Przepis ten stosuje się odpowiednio również do podatników, którzy w latach następujących po roku korzystania ze zwolnienia wybrali sposób opodatkowania na zasadach określonych w art. 30c.
+7f. Dochód z pozarolniczej działalności gospodarczej, o którym mowa w ust. 7e, łączy się z dochodem (stratą) z tego źródła, wykazanym w zeznaniach o wysokości osiągniętego dochodu (poniesionej straty) składanych za pięć kolejnych lat następujących bezpośrednio po roku, w którym podatnik korzystał ze zwolnienia – w wysokości 20 % tego dochodu w każdym z tych lat. Przepis ten stosuje się odpowiednio również do podatników, którzy w latach następujących po roku korzystania ze zwolnienia wybrali sposób opodatkowania na zasadach określonych w art. 30c.
 
 7g. Podatnicy tracą prawo do zwolnienia, jeżeli odpowiednio w roku lub za rok korzystania ze zwolnienia albo w pięciu następnych latach podatkowych:
 
 - **1)** zlikwidowali działalność gospodarczą albo została ogłoszona ich upadłość lub upadłość spółki niebędącej osobą prawną, której są wspólnikami, lub
 - **2)** osiągnęli przychód z pozarolniczej działalności gospodarczej średniomiesięcznie w wysokości stanowiącej równowartość w złotych kwoty niższej niż 1000 euro, przeliczonej według średniego kursu euro, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roku poprzedniego, lub
 - **3)** w którymkolwiek z miesięcy w tych latach zmniejszą przeciętne miesięczne zatrudnienie na podstawie umowy o pracę o więcej niż 10 %, w stosunku do najwyższego przeciętnego miesięcznego zatrudnienia w roku poprzedzającym rok podatkowy, lub
-- **4)** mają zaległości z tytułu podatków stanowiących dochód budżetu państwa, ceł oraz składek na ubezpieczenie społeczne i ubezpieczenie zdrowotne, o którym mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; określenie lub wymierzenie w innej formie w wyniku postępowania prowadzonego przez właściwy organ zaległości z wymienionych tytułów nie pozbawia podatnika prawa do skorzystania ze zwolnienia, jeżeli zaległość ta wraz z odsetkami za zwłokę zostanie uregulowana w terminie 14 dni od dnia doręczenia decyzji ostatecznej.
+- **4)** mają zaległości z tytułu podatków stanowiących dochód budżetu państwa, ceł oraz składek na ubezpieczenie społeczne i ubezpieczenie zdrowotne, o którym mowa w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; określenie lub wymierzenie w innej formie – w wyniku postępowania prowadzonego przez właściwy organ – zaległości z wymienionych tytułów nie pozbawia podatnika prawa do skorzystania ze zwolnienia, jeżeli zaległość ta wraz z odsetkami za zwłokę zostanie uregulowana w terminie 14 dni od dnia doręczenia decyzji ostatecznej.
 
 7h. Przeciętne miesięczne zatrudnienie, o którym mowa w ust. 7c pkt 2 oraz ust. 7g pkt 3, ustala się w przeliczeniu na pełne etaty, pomijając liczby po przecinku; w przypadku gdy przeciętne miesięczne zatrudnienie jest mniejsze od jedności, przyjmuje się liczbę jeden.
 
 7i. Podatnicy, którzy utracili prawo do zwolnienia:
 
-- **1)** w roku podatkowym, w którym korzystają z tego zwolnienia są obowiązani do wpłacenia należnych zaliczek od dochodu osiągniętego od początku roku, w terminie do 20 dnia miesiąca następującego po miesiącu, w którym utracili prawo do zwolnienia, chyba że przed upływem tego terminu złożyli zeznanie o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym, w którym korzystali ze zwolnienia, i zapłacili podatek na zasadach określonych w art. 45; w tych przypadkach nie nalicza się odsetek za zwłokę od zaległości z tytułu tych zaliczek;
-- **2)** w okresie między dniem 1 stycznia następnego roku a upływem terminu określonego na złożenie zeznania o wysokości osiągniętego dochodu (poniesionej straty) za rok podatkowy, w którym korzystali ze zwolnienia są obowiązani do złożenia zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym, w którym korzystali ze zwolnienia i zapłaty podatku, na zasadach określonych w art. 45; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu zaliczek za poszczególne miesiące roku, w którym podatnicy korzystali ze zwolnienia;
-- **3)** w okresie między upływem terminu określonego dla złożenia zeznania o wysokości osiągniętego dochodu (poniesionej straty) za rok podatkowy, w którym korzystali ze zwolnienia, a upływem terminu określonego na złożenie zeznania o wysokości osiągniętego dochodu (poniesionej straty) za pierwszy rok podatkowy następujący po roku, w którym korzystali ze zwolnienia są obowiązani do złożenia korekty zeznania, o którym mowa w pkt 2, i zapłaty podatku wraz z odsetkami za zwłokę; odsetki nalicza się od dnia następnego po upływie terminu określonego dla złożenia zeznania o wysokości osiągniętego dochodu (poniesionej straty) za rok podatkowy, w którym mieli obowiązek złożyć to zeznanie;
-- **4)** w okresie od upływu terminu określonego dla złożenia zeznania o wysokości osiągniętego dochodu (poniesionej straty) za pierwszy rok podatkowy następujący po roku, w którym korzystali ze zwolnienia, do końca piątego roku podatkowego następującego po roku, w którym korzystali ze zwolnienia są obowiązani do złożenia:
+- **1)** w roku podatkowym, w którym korzystają z tego zwolnienia – są obowiązani do wpłacenia należnych zaliczek od dochodu osiągniętego od początku roku, w terminie do 20 dnia miesiąca następującego po miesiącu, w którym utracili prawo do zwolnienia, chyba że przed upływem tego terminu złożyli zeznanie o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym, w którym korzystali ze zwolnienia, i zapłacili podatek na zasadach określonych w art. 45; w tych przypadkach nie nalicza się odsetek za zwłokę od zaległości z tytułu tych zaliczek;
+- **2)** w okresie między dniem 1 stycznia następnego roku a upływem terminu określonego na złożenie zeznania o wysokości osiągniętego dochodu (poniesionej straty) za rok podatkowy, w którym korzystali ze zwolnienia – są obowiązani do złożenia zeznania o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym, w którym korzystali ze zwolnienia i zapłaty podatku, na zasadach określonych w art. 45; w tym przypadku nie nalicza się odsetek za zwłokę od zaległości z tytułu zaliczek za poszczególne miesiące roku, w którym podatnicy korzystali ze zwolnienia;
+- **3)** w okresie między upływem terminu określonego dla złożenia zeznania o wysokości osiągniętego dochodu (poniesionej straty) za rok podatkowy, w którym korzystali ze zwolnienia, a upływem terminu określonego na złożenie zeznania o wysokości osiągniętego dochodu (poniesionej straty) za pierwszy rok podatkowy następujący po roku, w którym korzystali ze zwolnienia – są obowiązani do złożenia korekty zeznania, o którym mowa w pkt 2, i zapłaty podatku wraz z odsetkami za zwłokę; odsetki nalicza się od dnia następnego po upływie terminu określonego dla złożenia zeznania o wysokości osiągniętego dochodu (poniesionej straty) za rok podatkowy, w którym mieli obowiązek złożyć to zeznanie;
+- **4)** w okresie od upływu terminu określonego dla złożenia zeznania o wysokości osiągniętego dochodu (poniesionej straty) za pierwszy rok podatkowy następujący po roku, w którym korzystali ze zwolnienia, do końca piątego roku podatkowego następującego po roku, w którym korzystali ze zwolnienia – są obowiązani do złożenia:
     - **a)** korekty zeznania, o którym mowa w pkt 2, i zapłaty podatku wraz z odsetkami za zwłokę; odsetki nalicza się od dnia następnego po upływie terminu określonego dla złożenia zeznania o wysokości osiągniętego dochodu (poniesionej straty) za rok podatkowy, w którym mieli obowiązek złożyć to zeznanie,
     - **b)** korekt zeznań o wysokości osiągniętego dochodu (poniesionej straty), w których doliczyli po 20 % dochodu, o którym mowa w ust. 7e, składanych za kolejne lata podatkowe następujące po roku korzystania ze zwolnienia.
 
@@ -4997,7 +5485,7 @@ Art. 46–51. (pominięte)
 
 **Art. 44b.** (uchylony)
 
-#### Rozdział 7a (uchylony)
+#### Rozdział 7a
 
 #### Rozdział 7b Zwrot podatku z tytułu wypłaconych należności
 
@@ -5008,7 +5496,7 @@ Art. 46–51. (pominięte)
 2. Wniosek o zwrot podatku może złożyć:
 
 - **1)** podatnik, w tym podatnik, o którym mowa w art. 3 ust. 2a, który w związku z uzyskaniem należności, od której został pobrany podatek, osiąga przychód podlegający opodatkowaniu zgodnie z przepisami niniejszej ustawy,
-- **2)** płatnik, jeżeli wpłacił podatek z własnych środków i poniósł ciężar ekonomiczny tego podatku zwany dalej „wnioskodawcą”.
+- **2)** płatnik, jeżeli wpłacił podatek z własnych środków i poniósł ciężar ekonomiczny tego podatku – zwany dalej „wnioskodawcą”.
 
 3. Wniosek o zwrot podatku zawiera oświadczenie co do zgodności z prawdą faktów przedstawionych we wniosku oraz co do zgodności z oryginałem dokumentacji załączonej do wniosku. Obowiązek złożenia oświadczenia, o którym mowa w zdaniu pierwszym, istnieje także na dalszym etapie postępowania w odniesieniu do przedstawianych kolejnych faktów oraz przekazywanej uzupełniającej dokumentacji.
 
@@ -5017,9 +5505,9 @@ Art. 46–51. (pominięte)
 - **1)** certyfikat rezydencji podatnika, przy czym przepisy art. 41 ust. 9a i 9b stosuje się odpowiednio;
 - **2)** dokumentację dotyczącą przelewów bankowych lub inne dokumenty wskazujące na sposób rozliczenia lub przekazania należności objętych wnioskiem;
 - **3)** dokumentację dotyczącą zobowiązania do wypłaty należności;
-- **4)** oświadczenie podatnika, że w odniesieniu do czynności, w związku z którą składany jest wniosek o zwrot podatku, podatnik jest podmiotem, na którym ciąży obowiązek podatkowy, a także oświadczenie podatnika, że podatnik albo jego zagraniczny zakład jest rzeczywistym właścicielem wypłacanych należności w przypadku, o którym mowa w ust. 2 pkt 1;
-- **5)** oświadczenie podatnika, że prowadzi rzeczywistą działalność gospodarczą w kraju miejsca zamieszkania podatnika dla celów podatkowych, z którą wiąże się uzyskany przychód w przypadku, o którym mowa w ust. 2 pkt 1, gdy należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą;
-- **6)** dokumentację wskazującą na ustalenia umowne, z powodu których płatnik wpłacił podatek z własnych środków i poniósł ciężar ekonomiczny tego podatku w przypadku, o którym mowa w ust. 2 pkt 2;
+- **4)** oświadczenie podatnika, że w odniesieniu do czynności, w związku z którą składany jest wniosek o zwrot podatku, podatnik jest podmiotem, na którym ciąży obowiązek podatkowy, a także oświadczenie podatnika, że podatnik albo jego zagraniczny zakład jest rzeczywistym właścicielem wypłacanych należności – w przypadku, o którym mowa w ust. 2 pkt 1;
+- **5)** oświadczenie podatnika, że prowadzi rzeczywistą działalność gospodarczą w kraju miejsca zamieszkania podatnika dla celów podatkowych, z którą wiąże się uzyskany przychód – w przypadku, o którym mowa w ust. 2 pkt 1, gdy należności są uzyskiwane w związku z prowadzoną działalnością gospodarczą;
+- **6)** dokumentację wskazującą na ustalenia umowne, z powodu których płatnik wpłacił podatek z własnych środków i poniósł ciężar ekonomiczny tego podatku – w przypadku, o którym mowa w ust. 2 pkt 2;
 - **7)** uzasadnienie wnioskodawcy, że spełnione są warunki będące przedmiotem oświadczeń, o których mowa w pkt 4 i 5.
 
 4a. Przepisy ust. 4 pkt 4 i 5 stosuje się w przypadku, gdy z przepisów odrębnych lub umów o unikaniu podwójnego opodatkowania wynika obowiązek badania spełnienia przesłanek, o których mowa w tych przepisach.
@@ -5067,7 +5555,7 @@ Art. 46–51. (pominięte)
 - **2)** pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, opodatkowanych na zasadach określonych w art. 30c;
 - **3)** odpłatnego zbycia nieruchomości i praw majątkowych opodatkowanych na zasadach określonych w art. 30e. 1aa. Podatnicy osiągający dochody z działalności prowadzonej przez zagraniczne jednostki kontrolowane, na zasadach określonych w art. 30f, są obowiązani składać urzędom skarbowym odrębne zeznanie, według ustalonego wzoru, o wysokości dochodu z zagranicznej jednostki kontrolowanej osiągniętego w roku podatkowym, o którym mowa w art. 30f ust. 7, w terminie do końca dziewiątego miesiąca następnego roku podatkowego i w tym terminie wpłacić podatek należny. Jeżeli podatnik osiąga dochody z więcej niż jednej zagranicznej jednostki kontrolowanej, składa odrębne zeznanie o dochodach z każdej z tych jednostek.
 
-1b. Urzędem skarbowym, o którym mowa w ust. 1–1aa, jest urząd skarbowy, przy pomocy którego naczelnik urzędu skarbowego właściwy według miejsca zamieszkania podatnika w dniu składania zeznania wykonuje swoje zadania, a gdy zamieszkanie na terytorium Rzeczypospolitej Polskiej ustało przed złożeniem zeznania urząd skarbowy, przy pomocy którego naczelnik urzędu skarbowego właściwy według ostatniego miejsca zamieszkania na jej terytorium wykonuje swoje zadania, z zastrzeżeniem ust. 1c, a w przypadku przedsiębiorstwa w spadku, urząd skarbowy, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania podatkiem dochodowym według miejsca zamieszkania na dzień otwarcia spadku zmarłego przedsiębiorcy wykonuje swoje zadania.
+1b. Urzędem skarbowym, o którym mowa w ust. 1–1aa, jest urząd skarbowy, przy pomocy którego naczelnik urzędu skarbowego właściwy według miejsca zamieszkania podatnika w dniu składania zeznania wykonuje swoje zadania, a gdy zamieszkanie na terytorium Rzeczypospolitej Polskiej ustało przed złożeniem zeznania – urząd skarbowy, przy pomocy którego naczelnik urzędu skarbowego właściwy według ostatniego miejsca zamieszkania na jej terytorium wykonuje swoje zadania, z zastrzeżeniem ust. 1c, a w przypadku przedsiębiorstwa w spadku, urząd skarbowy, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania podatkiem dochodowym według miejsca zamieszkania na dzień otwarcia spadku zmarłego przedsiębiorcy wykonuje swoje zadania.
 
 1c. W przypadku podatników, o których mowa w art. 3 ust. 2a, urzędem skarbowym, o którym mowa w ust. 1 i 1a, jest urząd skarbowy, przy pomocy którego naczelnik urzędu skarbowego właściwy w sprawach opodatkowania osób zagranicznych wykonuje swoje zadania.
 
@@ -5085,10 +5573,10 @@ Art. 46–51. (pominięte)
 
 3e. Jeżeli z zeznania wynika nadpłata, podatnik w tym zeznaniu może wskazać rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, którego jest posiadaczem albo współposiadaczem, inny niż związany z prowadzoną działalnością gospodarczą, na który ma nastąpić jej zwrot. Wskazany rachunek aktualizuje poprzednio zgłoszony rachunek służący do zwrotu podatku lub nadpłaty.
 
-3f. Spółki nieruchomościowe oraz podatnicy posiadający, bezpośrednio lub pośrednio, w spółce nieruchomościowej udziały (akcje) dające co najmniej 5 % praw głosu w spółce albo ogół praw i obowiązków dający co najmniej 5 % prawa do udziału w zysku spółki niebędącej osobą prawną, albo co najmniej 5 % ogólnej liczby tytułów uczestnictwa lub praw o podobnym charakterze są obowiązani przekazywać Szefowi Krajowej Administracji Skarbowej w terminie do końca trzeciego miesiąca po zakończeniu roku podatkowego spółki nieruchomościowej, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego do końca trzeciego miesiąca po zakończeniu roku obrotowego spółki nieruchomościowej, informację:
+3f. Spółki nieruchomościowe oraz podatnicy posiadający, bezpośrednio lub pośrednio, w spółce nieruchomościowej udziały (akcje) dające co najmniej 5 % praw głosu w spółce albo ogół praw i obowiązków dający co najmniej 5 % prawa do udziału w zysku spółki niebędącej osobą prawną, albo co najmniej 5 % ogólnej liczby tytułów uczestnictwa lub praw o podobnym charakterze są obowiązani przekazywać Szefowi Krajowej Administracji Skarbowej w terminie do końca trzeciego miesiąca po zakończeniu roku podatkowego spółki nieruchomościowej, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego – do końca trzeciego miesiąca po zakończeniu roku obrotowego spółki nieruchomościowej, informację:
 
-- **1)** o podmiotach posiadających, bezpośrednio lub pośrednio, w tej spółce nieruchomościowej udziały (akcje), ogół praw i obowiązków, tytuły uczestnictwa lub prawa o podobnym charakterze, wraz z podaniem liczby posiadanych przez każdego z nich takich praw w przypadku informacji przekazywanych przez spółki nieruchomościowe,
-- **2)** o liczbie posiadanych, bezpośrednio lub pośrednio, w tej spółce nieruchomościowej udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw o podobnym charakterze w przypadku informacji przekazywanych przez podatników będących wspólnikami spółek nieruchomościowych według stanu na ostatni dzień roku podatkowego spółki nieruchomościowej, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego na ostatni dzień jej roku obrotowego.
+- **1)** o podmiotach posiadających, bezpośrednio lub pośrednio, w tej spółce nieruchomościowej udziały (akcje), ogół praw i obowiązków, tytuły uczestnictwa lub prawa o podobnym charakterze, wraz z podaniem liczby posiadanych przez każdego z nich takich praw – w przypadku informacji przekazywanych przez spółki nieruchomościowe,
+- **2)** o liczbie posiadanych, bezpośrednio lub pośrednio, w tej spółce nieruchomościowej udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw o podobnym charakterze – w przypadku informacji przekazywanych przez podatników będących wspólnikami spółek nieruchomościowych – według stanu na ostatni dzień roku podatkowego spółki nieruchomościowej, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego – na ostatni dzień jej roku obrotowego.
 
 3g. W celu obliczenia posiadania pośredniego, o którym mowa w ust. 3f, przepis art. 23m ust. 3 stosuje się odpowiednio.
 
@@ -5131,6 +5619,10 @@ Art. 46–51. (pominięte)
 
 **Art. 45a.** Jeżeli jest to uzasadnione ochroną informacji niejawnych i wymogami bezpieczeństwa państwa:
 
+- **1)** zadania naczelnika urzędu skarbowego, o którym mowa w art. 39 ust. 1 i art. 42 ust. 2 pkt 2, pełni organ wymieniony w art. 13a Ordynacji podatkowej;
+- **2)** zadania urzędu skarbowego, o którym mowa w art. 45 ust. 1, pełni urząd obsługujący organ, o którym mowa w art. 13a Ordynacji podatkowej;
+- **3)** przekazania 1,5 % podatku należnego z zeznań podatkowych albo ich korekt, o którym mowa w art. 45c ust. 1, złożonych urzędowi, o którym mowa w pkt 2, dokonuje naczelnik urzędu skarbowego właściwy według siedziby urzędu, o którym mowa w pkt 2, na podstawie otrzymanej od tego urzędu sporządzonej na piśmie informacji.
+
 **Art. 45b.**
 
 1. Minister właściwy do spraw finansów publicznych udostępni w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu ustalone wzory:
@@ -5145,16 +5637,18 @@ Art. 46–51. (pominięte)
 
 - **1)** nazwę, symbol oraz wariant formularza;
 - **2)** dane identyfikacyjne;
-- **3)** objaśnienia co do sposobu wypełniania, terminu i miejsca składania formularza. Art. 45ba. Oświadczenia, roczne obliczenie podatku, informacje i deklaracje, o których mowa w art. 30j ust. 1 pkt 1, art. 30o pkt 1, art. 34 ust. 7 i 8, art. 35 ust. 6, art. 38 ust. 1a i 1b, art. 39 ust. 1–4, art. 42 ust. 1a–4, art. 42a ust. 1 oraz art. 42e ust. 5 i 6, składa się urzędowi skarbowemu za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.
+- **3)** objaśnienia co do sposobu wypełniania, terminu i miejsca składania formularza.
+
+**Art. 45ba.** Oświadczenia, roczne obliczenie podatku, informacje i deklaracje, o których mowa w art. 30j ust. 1 pkt 1, art. 30o pkt 1, art. 34 ust. 7 i 8, art. 35 ust. 6, art. 38 ust. 1a i 1b, art. 39 ust. 1–4, art. 42 ust. 1a–4, art. 42a ust. 1 oraz art. 42e ust. 5 i 6, składa się urzędowi skarbowemu za pomocą środków komunikacji elektronicznej zgodnie z przepisami Ordynacji podatkowej.
 
 **Art. 45c.**
 
 1. Naczelnik urzędu skarbowego właściwy miejscowo dla złożenia zeznania podatkowego, na wniosek, o którym mowa w ust. 3 i 3a, przekazuje na rzecz jednej organizacji pożytku publicznego działającej na podstawie ustawy o działalności pożytku publicznego, wybranej przez podatnika z wykazu, o którym mowa w ustawie o działalności pożytku publicznego, zwanej dalej „organizacją pożytku publicznego”, kwotę w wysokości nieprzekraczającej 1,5 % podatku należnego wynikającego:
 
 - **1)** z zeznania podatkowego złożonego przed upływem terminu określonego na jego złożenie, albo
-- **2)** z korekty zeznania, o którym mowa w pkt 1, jeżeli została dokonana w ciągu miesiąca od upływu terminu dla złożenia zeznania podatkowego po jej zaokrągleniu do pełnych dziesiątek groszy w dół.
+- **2)** z korekty zeznania, o którym mowa w pkt 1, jeżeli została dokonana w ciągu miesiąca od upływu terminu dla złożenia zeznania podatkowego – po jej zaokrągleniu do pełnych dziesiątek groszy w dół.
 
-2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, niepóźniej niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) za traktowanie przesyłki listowej jako przesyłki poleconej.
+2. Warunkiem przekazania kwoty, o której mowa w ust. 1, jest zapłata w pełnej wysokości podatku należnego stanowiącego podstawę obliczenia kwoty, która ma być przekazana na rzecz organizacji pożytku publicznego, niepóźniej niż w terminie dwóch miesięcy od upływu terminu dla złożenia zeznania podatkowego. Za zapłacony podatek, o którym mowa w zdaniu pierwszym, uważa się również zaległość podatkową, której wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) za traktowanie przesyłki listowej jako przesyłki poleconej.
 
 3. Za wniosek uważa się wskazanie przez podatnika w zeznaniu podatkowym albo w korekcie zeznania, o których mowa w ust. 1, jednej organizacji pożytku publicznego poprzez podanie jej numeru wpisu do Krajowego Rejestru Sądowego oraz kwoty do przekazania na rzecz tej organizacji, w wysokości nieprzekraczającej 1,5 % podatku należnego.
 
@@ -5172,9 +5666,9 @@ Art. 46–51. (pominięte)
 
 5. Naczelnik urzędu skarbowego właściwy według siedziby organizacji pożytku publicznego, we wrześniu roku następującego po roku podatkowym przekazuje organizacji pożytku publicznego zbiorczą informację o:
 
-- **1)** danych identyfikacyjnych (imię, nazwisko i adres, a w przypadku przedsiębiorstwa w spadku dane tego przedsiębiorstwa), w tym obojga małżonków, którzy na wniosek podlegają łącznemu opodatkowaniu, oraz
+- **1)** danych identyfikacyjnych (imię, nazwisko i adres, a w przypadku przedsiębiorstwa w spadku – dane tego przedsiębiorstwa), w tym obojga małżonków, którzy na wniosek podlegają łącznemu opodatkowaniu, oraz
 - **2)** wysokości kwoty, o której mowa w ust. 1, przekazanej na rzecz tej organizacji,
-- **3)** przeznaczeniu kwoty, o której mowa w ust. 1, przez organizację pożytku publicznego (cel szczegółowy) jeżeli podatnik w zeznaniu podatkowym lub w korekcie zeznania, o których mowa w ust. 1, wyraził zgodę na przekazanie organizacji pożytku publicznego danych wymienionych w pkt 1 i 2, lub wskazał cel szczegółowy, o którym mowa w pkt 3.
+- **3)** przeznaczeniu kwoty, o której mowa w ust. 1, przez organizację pożytku publicznego (cel szczegółowy) – jeżeli podatnik w zeznaniu podatkowym lub w korekcie zeznania, o których mowa w ust. 1, wyraził zgodę na przekazanie organizacji pożytku publicznego danych wymienionych w pkt 1 i 2, lub wskazał cel szczegółowy, o którym mowa w pkt 3.
 
 6. Naczelnik urzędu skarbowego odstępuje od przekazania 1,5 % podatku na rzecz organizacji pożytku publicznego, jeżeli:
 
@@ -5188,7 +5682,17 @@ Art. 46–51. (pominięte)
 
 8. Minister właściwy do spraw finansów publicznych, uwzględniając potrzebę sprawnego zorganizowania procesu przekazywania kwot z tytułu 1,5 % podatku, może upoważnić, w drodze rozporządzenia, podległy organ, inny niż określony w ust. 1, do realizacji zadania, o którym mowa w ust. 1.
 
-9. (uchylony) Art. 45ca. (uchylony) Art. 45cb. (uchylony) Art. 45cc. (uchylony) Art. 45cd. 1. Z dniem 15 lutego roku następującego po roku podatkowym organ podatkowy udostępnia podatnikowi, z wyjątkiem podatnika będącego przedsiębiorstwem w spadku, za pośrednictwem konta w e-Urzędzie Skarbowym zeznania, o których mowa w art. 45 ust. 1 oraz ust. 1a pkt 1 i 2, oraz informację, o której mowa w art. 21 ust. 46 pkt 1, uwzględniając w nich dane będące w posiadaniu Szefa Krajowej Administracji Skarbowej, w tym dane:
+9. (uchylony)
+
+**Art. 45ca.** (uchylony)
+
+**Art. 45cb.** (uchylony)
+
+**Art. 45cc.** (uchylony)
+
+**Art. 45cd.**
+
+1. Z dniem 15 lutego roku następującego po roku podatkowym organ podatkowy udostępnia podatnikowi, z wyjątkiem podatnika będącego przedsiębiorstwem w spadku, za pośrednictwem konta w e-Urzędzie Skarbowym zeznania, o których mowa w art. 45 ust. 1 oraz ust. 1a pkt 1 i 2, oraz informację, o której mowa w art. 21 ust. 46 pkt 1, uwzględniając w nich dane będące w posiadaniu Szefa Krajowej Administracji Skarbowej, w tym dane:
 
 - **1)** zawarte w rocznym obliczeniu podatku i informacjach, o których mowa w art. 21 ust. 46 pkt 1, art. 34 ust. 7 i 8, art. 35 ust. 6, art. 39 ust. 1 i 3, art. 42 ust. 2 pkt 1, art. 42a ust. 1 oraz art. 42e ust. 6;
 - **2)** o wpłaconych w trakcie roku podatkowego przez podatnika zaliczkach.
@@ -5206,11 +5710,19 @@ Art. 46–51. (pominięte)
 - **1)** organ rentowy dokonał rocznego obliczenia podatku, a podatek wynikający z tego obliczenia jest podatkiem należnym na podstawie art. 34 ust. 9;
 - **2)** podatnik złożył zeznanie, nie korzystając z zeznania udostępnionego przez organ podatkowy.
 
-6. Akceptacji i odrzucenia udostępnionego zeznania lub informacji oraz akceptacji zmian wprowadzonych do złożonego zeznania lub informacji podatnik dokonuje za pośrednictwem konta w e-Urzędzie Skarbowym. Jeżeli podatnik nie dokona akceptacji udostępnionego zeznania lub informacji przed upływem terminu określonego na ich złożenie albo je odrzuci przed tym terminem, składa zeznanie lub informację bez pośrednictwa konta w e-Urzędzie Skarbowym. Art. 45ce. 1. W przypadku stwierdzenia przez organ podatkowy, że złożone zeznanie zawiera błędy lub oczywiste omyłki powstałe z winy organu podatkowego, organ podatkowy koryguje zeznanie, dokonując stosownych poprawek lub uzupełnień. Przepisy art. 274 § 2–4 i 6 Ordynacji podatkowej stosuje się odpowiednio.
+6. Akceptacji i odrzucenia udostępnionego zeznania lub informacji oraz akceptacji zmian wprowadzonych do złożonego zeznania lub informacji podatnik dokonuje za pośrednictwem konta w e-Urzędzie Skarbowym. Jeżeli podatnik nie dokona akceptacji udostępnionego zeznania lub informacji przed upływem terminu określonego na ich złożenie albo je odrzuci przed tym terminem, składa zeznanie lub informację bez pośrednictwa konta w e-Urzędzie Skarbowym.
+
+**Art. 45ce.**
+
+1. W przypadku stwierdzenia przez organ podatkowy, że złożone zeznanie zawiera błędy lub oczywiste omyłki powstałe z winy organu podatkowego, organ podatkowy koryguje zeznanie, dokonując stosownych poprawek lub uzupełnień. Przepisy art. 274 § 2–4 i 6 Ordynacji podatkowej stosuje się odpowiednio.
 
 2. Od zaległości związanych z korektą zeznania, o której mowa w ust. 1, nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia upływu terminu do wniesienia sprzeciwu, o którym mowa w art. 274 § 3 Ordynacji podatkowej.
 
-3. W przypadku gdy przed dokonaniem korekty zeznania przez organ podatkowy podatnik skoryguje zeznanie w zakresie, o którym mowa w ust. 1, od zaległości związanych z korektą zeznania nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia złożenia korekty. Art. 45cf. 1. W przypadku braku wpłaty różnicy, o której mowa w art. 45 ust. 4 pkt 1 i 2, przez podatnika, o którym mowa w art. 45cd ust. 4, organ podatkowy w terminie miesiąca od dnia upływu terminu płatności informuje podatnika o obowiązku jej wpłaty w terminie 7 dni od dnia doręczenia tej informacji.
+3. W przypadku gdy przed dokonaniem korekty zeznania przez organ podatkowy podatnik skoryguje zeznanie w zakresie, o którym mowa w ust. 1, od zaległości związanych z korektą zeznania nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia złożenia korekty.
+
+**Art. 45cf.**
+
+1. W przypadku braku wpłaty różnicy, o której mowa w art. 45 ust. 4 pkt 1 i 2, przez podatnika, o którym mowa w art. 45cd ust. 4, organ podatkowy w terminie miesiąca od dnia upływu terminu płatności informuje podatnika o obowiązku jej wpłaty w terminie 7 dni od dnia doręczenia tej informacji.
 
 1a. Informacja, o której mowa w ust. 1, może, zamiast podpisu osoby upoważnionej do jej wydania, zawierać podpis mechanicznie odtwarzany tej osoby lub nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do jej wydania.
 
@@ -5220,21 +5732,37 @@ Art. 46–51. (pominięte)
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
 
+**Art. 46–51.** (pominięte)
+
 #### Rozdział 10 Przepisy epizodyczne, przejściowe i końcowe
 
 **Art. 52.** Zwalnia się od podatku dochodowego:
+
+- **1)** w okresie od dnia 1 stycznia 2001 r. do dnia 31 grudnia 2003 r. dochody:
+    - **a)** z odpłatnego zbycia nabytych przed dniem 1 stycznia 2003 r. obligacji Skarbu Państwa wyemitowanych po dniu 1 stycznia 1989 r. oraz obligacji wyemitowanych przez jednostki samorządu terytorialnego po dniu 1 stycznia 1997 r.,
+    - **b)** z odpłatnego zbycia papierów wartościowych, które są dopuszczone do publicznego obrotu papierami wartościowymi, nabytych na podstawie publicznej oferty lub na giełdzie papierów wartościowych, albo w regulowanym pozagiełdowym wtórnym obrocie publicznym, albo na podstawie zezwolenia udzielonego w trybie art. 92 lub 93 przepisów ustawy z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. poz. 754, z późn. zm. )
+    - **c)** (uchylona) – przy czym zwolnienie nie ma zastosowania, jeżeli sprzedaż tych papierów wartościowych jest przedmiotem działalności gospodarczej,
+    - **d)** uzyskane z realizacji praw wynikających z papierów wartościowych, o których mowa w art. 3 ust. 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi;
+
+- **2)** wypłacane po dniu 31 grudnia 1991 r. należne za okres do 31 grudnia 1991 r.:
+    - **a)** przychody ze stosunku służbowego, stosunku pracy, spółdzielczego stosunku pracy oraz z tytułu umów o pracę nakładczą,
+    - **b)** prowizje, premie, nagrody z zysku (dochodu) oraz nagrody z zakładowego funduszu nagród należne z tytułów, o których mowa pod lit. a, – jeżeli przychody te były zwolnione w 1991 r. od podatku od wynagrodzeń na podstawie przepisów płacowych;
+
+- **3)** odprawy emerytalno-rentowe, nagrody jubileuszowe i inne jednorazowe wypłaty, do których pracownik nabył prawo w 1992 r. i których podstawę naliczania stanowi wynagrodzenie ustalone według stawek lub kwot obowiązujących do dnia 31 grudnia 1991 r., jeżeli przychody te były zwolnione w 1991 r. od podatku od wynagrodzeń na podstawie przepisów płacowych;
+- **4)** krajowe emerytury i renty oraz inne świadczenia z ubezpieczenia społecznego należne za okres do dnia 31 grudnia 1991 r.
+- **5)** (uchylony)
 
 **Art. 52a.**
 
 1. Zwalnia się od podatku dochodowego:
 
-- **1)** dochody z tytułu odsetek i dyskonta od papierów wartościowych wyemitowanych przez Skarb Państwa oraz obligacji wyemitowanych przez jednostki samorządu terytorialnego nabytych przez podatnika przed dniem 1 grudnia 2001 r.;
+- **1)** dochody z tytułu odsetek i dyskonta od papierów wartościowych wyemitowanych przez Skarb Państwa oraz obligacji wyemitowanych przez jednostki samorządu terytorialnego – nabytych przez podatnika przed dniem 1 grudnia 2001 r.;
 - **2)** dochody (przychody), o których mowa w art. 30a ust. 1 pkt 3, jeżeli są wypłacane albo stawiane do dyspozycji podatnika od środków pieniężnych zgromadzonych przez podatnika przed dniem 1 grudnia 2001 r., na podstawie umów zawartych na czas oznaczony przed tym dniem;
-- **3)** dochody z tytułu udziału w funduszach kapitałowych, o których mowa w art. 30a ust. 1 pkt 5 i art. 30b ust. 1 pkt 5, jeżeli dochody te są wypłacane podatnikowi na podstawie umów zawartych lub zapisów dokonanych przez podatnika przed dniem 1 grudnia 2001 r.; zwolnienie nie dotyczy dochodów uzyskanych w związku z przystąpieniem podatnika do programu oszczędzania z funduszem kapitałowym, bez względu na formę tego programu w zakresie dochodów z tytułu wpłat (wkładów) do funduszu dokonanych począwszy od dnia 1 grudnia 2001 r., z zastrzeżeniem art. 21 ust. 1 pkt 58 i 59.
+- **3)** dochody z tytułu udziału w funduszach kapitałowych, o których mowa w art. 30a ust. 1 pkt 5 i art. 30b ust. 1 pkt 5, jeżeli dochody te są wypłacane podatnikowi na podstawie umów zawartych lub zapisów dokonanych przez podatnika przed dniem 1 grudnia 2001 r.; zwolnienie nie dotyczy dochodów uzyskanych w związku z przystąpieniem podatnika do programu oszczędzania z funduszem kapitałowym, bez względu na formę tego programu – w zakresie dochodów z tytułu wpłat (wkładów) do funduszu dokonanych począwszy od dnia 1 grudnia 2001 r., z zastrzeżeniem art. 21 ust. 1 pkt 58 i 59.
 - **4)** (uchylony)
 - **5)** (uchylony)
 
-2. Zwolnienie, o którym mowa w ust. 1 pkt 2, nie ma zastosowania do dochodów (przychodów) od środków pieniężnych zgromadzonych przez podatnika przed dniem 1 grudnia 2001 r., na podstawie umów zawartych na czas oznaczony przed tym dniem wypłacanych lub stawianych do dyspozycji na podstawie tych umów zmienionych, przedłużonych lub odnowionych począwszy od dnia 1 grudnia 2001 r.
+2. Zwolnienie, o którym mowa w ust. 1 pkt 2, nie ma zastosowania do dochodów (przychodów) od środków pieniężnych zgromadzonych przez podatnika przed dniem 1 grudnia 2001 r., na podstawie umów zawartych na czas oznaczony przed tym dniem – wypłacanych lub stawianych do dyspozycji na podstawie tych umów zmienionych, przedłużonych lub odnowionych począwszy od dnia 1 grudnia 2001 r.
 
 3. Jeżeli wypłata dochodów (przychodów) wynika z umów zawartych w okresie od dnia 1 grudnia 2001 r. do dnia 28 lutego 2002 r., podatek, o którym mowa w art. 30a ust. 1 pkt 3, określa się w wysokości przypadającej proporcjonalnie na okres, w którym podatnikowi nie przysługuje zwolnienie na podstawie ust. 1 pkt 2.
 
@@ -5259,9 +5787,15 @@ Art. 46–51. (pominięte)
 
 **Art. 52d.** Zwalnia się z podatku dochodowego kwoty rekompensaty wypłacane na podstawie:
 
+- **1)** ustawy z dnia 16 grudnia 2004 r. o rekompensacie przysługującej w związku z odstąpieniem w roku 2002 od waloryzacji dodatku kombatanckiego (Dz. U. poz. 2779);
+- **2)** ustawy z dnia 15 kwietnia 2005 r. o rekompensacie przysługującej w związku z odstąpieniem w roku 2002 od waloryzacji świadczeń pieniężnych przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych oraz osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. poz. 725).
+
 **Art. 52e.** Zwalnia się od podatku dochodowego kwoty umorzenia zaległości oraz zwrotu wynikające z ustawy z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla podatników uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 894 oraz z 2012 r. poz. 1529).
 
 **Art. 52f.** Zwalnia się od podatku dochodowego:
+
+- **1)** zasiłek macierzyński przyznany na podstawie art. 20,
+- **2)** kwoty podwyższenia uposażenia oraz kwoty podwyższenia zasiłku macierzyńskiego przyznane na podstawie art. 21 – ustawy z dnia 24 lipca 2015 r. o zmianie ustawy o świadczeniach rodzinnych oraz niektórych innych ustaw (Dz. U. poz. 1217 i 1735).
 
 **Art. 52g.** Zwalnia się od podatku dochodowego kwoty jednorazowego dodatku pieniężnego, o którym mowa w ustawie z dnia 15 stycznia 2016 r. o jednorazowym dodatku pieniężnym dla niektórych emerytów, rencistów i osób pobierających świadczenia przedemerytalne, zasiłki przedemerytalne, emerytury pomostowe albo nauczycielskie świadczenia kompensacyjne w 2016 r. (Dz. U. poz. 2011).
 
@@ -5289,15 +5823,20 @@ Art. 46–51. (pominięte)
 
 7. Użyte w niniejszym artykule określenie:
 
-- **1)** apteka ogólnodostępna oznacza aptekę ogólnodostępną w rozumieniu art. 87 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne;
-- **2)** punkt apteczny oznacza punkt apteczny w rozumieniu art. 70 ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne. Art. 52ja. 1. Podatnik może od dochodu z pozarolniczej działalności gospodarczej lub dochodu z działów specjalnych produkcji rolnej, ustalonego za 2021 r. zgodnie z art. 9, art. 23m–23u, art. 24 ust. 1–2b i 3b–3e lub art. 24b ust. 1 i 2, odliczyć poniesione w tym roku:
+- **1)** apteka ogólnodostępna – oznacza aptekę ogólnodostępną w rozumieniu art. 87 ust. 1 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;
+- **2)** punkt apteczny – oznacza punkt apteczny w rozumieniu art. 70 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
+
+**Art. 52ja.**
+
+1. Podatnik może od dochodu z pozarolniczej działalności gospodarczej lub dochodu z działów specjalnych produkcji rolnej, ustalonego za 2021 r. zgodnie z art. 9, art. 23m–23u, art. 24 ust. 1–2b i 3b–3e lub art. 24b ust. 1 i 2, odliczyć poniesione w tym roku:
+
 - **1)** wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
 - **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2021 r. poz. 1376 i 1595),
-- **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania pomniejszone o podatek od towarów i usług.
+- **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania – pomniejszone o podatek od towarów i usług.
 
 2. Odliczenie od dochodu z działów specjalnych produkcji rolnej stosuje się, jeżeli dochód ten został ustalony na podstawie ksiąg rachunkowych lub podatkowej księgi przychodów i rozchodów.
 
-3. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu do wysokości kwoty stanowiącej iloczyn 500 zł oraz liczby zewnętrznych systemów lokalizacyjnych lub urządzeń pokładowych, przy czym liczba tych systemów lub urządzeń nie może być większa niż liczba pojazdów, które wykonały w 2021 r. co najmniej jeden przejazd, za który podatnik, a w przypadku podatników będących wspólnikami spółki niebędącej osobą prawną ta spółka, uiścili opłatę elektroniczną z wykorzystaniem tego zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego.
+3. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu do wysokości kwoty stanowiącej iloczyn 500 zł oraz liczby zewnętrznych systemów lokalizacyjnych lub urządzeń pokładowych, przy czym liczba tych systemów lub urządzeń nie może być większa niż liczba pojazdów, które wykonały w 2021 r. co najmniej jeden przejazd, za który podatnik, a w przypadku podatników będących wspólnikami spółki niebędącej osobą prawną – ta spółka, uiścili opłatę elektroniczną z wykorzystaniem tego zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego.
 
 4. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu od dochodu opodatkowanego na zasadach określonych w art. 27 lub art. 30c, przy czym suma odliczeń nie może przekroczyć kwoty podlegającej odliczeniu określonej zgodnie z ust. 3.
 
@@ -5309,9 +5848,13 @@ Art. 46–51. (pominięte)
 
 8. Użyte w niniejszym artykule określenie:
 
-- **1)** opłata elektroniczna oznacza opłatę elektroniczną, o której mowa w art. 13ha ustawy z dnia 21 marca 1985 r. o drogach publicznych;
-- **2)** urządzenie pokładowe oznacza urządzenie pokładowe, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywane do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS;
-- **3)** zewnętrzny system lokalizacyjny oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS. Art. 52jb. 1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych w roku podatkowym na robotyzację, przy czym kwota odliczenia nie może przekraczać kwoty dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej.
+- **1)** opłata elektroniczna – oznacza opłatę elektroniczną, o której mowa w art. 13ha ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+- **2)** urządzenie pokładowe – oznacza urządzenie pokładowe, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywane do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS;
+- **3)** zewnętrzny system lokalizacyjny – oznacza zewnętrzny system lokalizacyjny, o którym mowa w art. 13i ust. 3a ustawy z dnia 21 marca 1985 r. o drogach publicznych, wykorzystywany do poboru opłaty elektronicznej za pomocą Systemu Poboru Opłaty Elektronicznej KAS.
+
+**Art. 52jb.**
+
+1. Podatnik prowadzący pozarolniczą działalność gospodarczą może odliczyć od podstawy obliczenia podatku, ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2, kwotę stanowiącą 50 % kosztów uzyskania przychodów poniesionych w roku podatkowym na robotyzację, przy czym kwota odliczenia nie może przekraczać kwoty dochodu uzyskanego przez podatnika w roku podatkowym z pozarolniczej działalności gospodarczej.
 
 2. Za koszty uzyskania przychodów poniesione na robotyzację uznaje się:
 
@@ -5353,23 +5896,25 @@ Art. 46–51. (pominięte)
 
 5a. Nie podlegają odliczeniu, o którym mowa w ust. 1, koszty uzyskania przychodów poniesione na robotyzację dotyczące działań lub aktywów:
 
-- **1)** o których mowa w art. 2 ust. 1 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. Urz. UE L 275 z 25.10.2003, str. 32, z późn. zm. Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 631), z wyjątkiem działań i aktywów, których prognozowane emisje gazów cieplarnianych są poniżej średniej wartości 10 % najbardziej wydajnych instalacji w 2016 i 2017 r. (t ekwiwalentu CO2/t) oraz wartości wskaźnika emisyjności (uprawnienia/t) na lata 2021–2025, określonych w rozporządzeniu wykonawczym Komisji (UE) 2021/447 z dnia 12 marca 2021 r. określającym zmienione wartości wskaźników emisyjności na potrzeby przydziału bezpłatnych uprawnień do emisji na lata 2021–2025 zgodnie z art. 10a ust. 2 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 87 z 15.03.2021, str. 29);
+- **1)** o których mowa w art. 2 ust. 1 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. Urz. UE L 275 z 25.10.2003, str. 32, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 631), z wyjątkiem działań i aktywów, których prognozowane emisje gazów cieplarnianych są poniżej średniej wartości 10 % najbardziej wydajnych instalacji w 2016 i 2017 r. (t ekwiwalentu CO2/t) oraz wartości wskaźnika emisyjności (uprawnienia/t) na lata 2021–2025, określonych w rozporządzeniu wykonawczym Komisji (UE) 2021/447 z dnia 12 marca 2021 r. określającym zmienione wartości wskaźników emisyjności na potrzeby przydziału bezpłatnych uprawnień do emisji na lata 2021–2025 zgodnie z art. 10a ust. 2 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 87 z 15.03.2021, str. 29);
 - **2)** związanych z działalnością:
     - **a)** górniczą polegającą na wydobywaniu lub magazynowaniu paliw kopalnych oraz działalnością polegającą na przeróbce, dystrybucji lub spalaniu paliw kopalnych, z wyjątkiem projektów w zakresie wytwarzania energii elektrycznej lub ciepła oraz związanej z tym infrastruktury przesyłowej i dystrybucyjnej, wykorzystujących gaz ziemny, które spełniają warunki określone w załączniku III do Wytycznych technicznych KE dotyczących stosowania zasady „Nie czyń poważnych szkód” (2021/C58/01),
     - **b)** składowisk odpadów, spalarni odpadów lub instalacji do mechaniczno-biologicznego przetwarzania odpadów.
 
-6. Podatnik, który zbył środki trwałe lub wartości niematerialne i prawne wymienione w ust. 2 pkt 1 i 2 przed końcem okresu ich amortyzacji, a w przypadku umowy leasingu, o którym mowa w art. 23f przed końcem podstawowego okresu umowy leasingu, jest obowiązany w zeznaniu składanym za rok podatkowy, w którym nastąpiło to zbycie, do zwiększenia podstawy obliczenia podatku o kwotę odliczeń uprzednio dokonanych na podstawie ust. 1.
+6. Podatnik, który zbył środki trwałe lub wartości niematerialne i prawne wymienione w ust. 2 pkt 1 i 2 przed końcem okresu ich amortyzacji, a w przypadku umowy leasingu, o którym mowa w art. 23f – przed końcem podstawowego okresu umowy leasingu, jest obowiązany w zeznaniu składanym za rok podatkowy, w którym nastąpiło to zbycie, do zwiększenia podstawy obliczenia podatku o kwotę odliczeń uprzednio dokonanych na podstawie ust. 1.
 
 7. Podatnik korzystający z odliczenia składa w terminie złożenia zeznania, w którym dokonuje tego odliczenia, informację, według ustalonego wzoru, zawierającą wykaz poniesionych kosztów podlegających odliczeniu.
 
-8. W zakresie nieuregulowanym w ust. 1–7 do odliczenia kosztów uzyskania przychodów poniesionych na robotyzację stosuje się odpowiednio przepisy art. 26e ust. 3k, 5, 6, ust. 8 zdanie pierwsze i drugie i ust. 10 oraz art. 26g. Art. 52jc. 48) Zwalnia się od podatku dochodowego dodatek osłonowy, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym, dodatek węglowy, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym, dodatek dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o których mowa w ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, dodatek elektryczny, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, refundację kwoty odpowiadającej podatkowi VAT, o której mowa w ustawie z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu, bon energetyczny, o którym mowa w ustawie z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego, oraz bon ciepłowniczy, o którym mowa w ustawie z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej.
+8. W zakresie nieuregulowanym w ust. 1–7 do odliczenia kosztów uzyskania przychodów poniesionych na robotyzację stosuje się odpowiednio przepisy art. 26e ust. 3k, 5, 6, ust. 8 zdanie pierwsze i drugie i ust. 10 oraz art. 26g.
+
+**Art. 52jc.** Zwalnia się od podatku dochodowego dodatek osłonowy, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o dodatku osłonowym, dodatek węglowy, o którym mowa w ustawie z dnia 5 sierpnia 2022 r. o dodatku węglowym, dodatek dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła i dodatek dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, o których mowa w ustawie z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, dodatek elektryczny, o którym mowa w ustawie z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej, refundację kwoty odpowiadającej podatkowi VAT, o której mowa w ustawie z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu, bon energetyczny, o którym mowa w ustawie z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego, oraz bon ciepłowniczy, o którym mowa w ustawie z dnia 12 września 2025 r. o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej.
 
 **Art. 52k.**
 
 1. Podatnicy, którzy z powodu COVID-19, o którym mowa w ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, z późn. zm. ), zwanej dalej „ustawą o COVID-19”:
 
 - **1)** ponieśli w 2020 r. stratę z pozarolniczej działalności gospodarczej oraz
-- **2)** uzyskali w 2020 r. łączne przychody z pozarolniczej działalności gospodarczej niższe o co najmniej 50 % od łącznych przychodów uzyskanych w 2019 r. z tej działalności mogą jednorazowo obniżyć o wysokość tej straty, niewięcej jednak niż o kwotę 5 000 000 zł, odpowiednio dochód lub przychód uzyskany w 2019 r. z pozarolniczej działalności gospodarczej.
+- **2)** uzyskali w 2020 r. łączne przychody z pozarolniczej działalności gospodarczej niższe o co najmniej 50 % od łącznych przychodów uzyskanych w 2019 r. z tej działalności – mogą jednorazowo obniżyć o wysokość tej straty, niewięcej jednak niż o kwotę 5 000 000 zł, odpowiednio dochód lub przychód uzyskany w 2019 r. z pozarolniczej działalności gospodarczej.
 
 2. Przez łączne przychody, o których mowa w ust. 1 pkt 2, rozumie się sumę przychodów uwzględnianych przy obliczaniu podatku na podstawie art. 27 ust. 1 i art. 30c oraz ryczałtu od przychodów ewidencjonowanych.
 
@@ -5379,7 +5924,18 @@ Art. 46–51. (pominięte)
 
 **Art. 52l.** Limit zwolnienia przedmiotowego, o którym mowa w art. 21 ust. 1:
 
+- **1)** pkt 9a – w okresie od 2020 r. do końca roku podatkowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, wynosi 3000 zł;
+- **2)** pkt 26 lit. b – w okresie od 2020 r. do końca roku podatkowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, wynosi 10 000 zł;
+- **3)** pkt 67 – w okresie od 2020 r. do końca roku podatkowego następującego po roku, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, wynosi 2000 zł;
+- **4)** pkt 78 lit. b – w okresie od 2020 r. do końca roku podatkowego następującego po roku, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, wynosi 3000 zł.
+
 **Art. 52m.** Wolne od podatku dochodowego są otrzymane lub postawione do dyspozycji podatnika:
+
+- **1)** świadczenia postojowe, o których mowa w art. 15zq ustawy o COVID-19;
+- **1a)** dodatkowe świadczenia postojowe, o których mowa w art. 15zs ustawy o COVID-19;
+- **2)** świadczenia polegające na zakwaterowaniu i wyżywieniu, o których mowa w art. 15x ust. 3 pkt 1 ustawy o COVID-19;
+- **3)** zasiłki otrzymane na podstawie art. 31zy ustawy o COVID-19;
+- **4)** jednorazowe dodatkowe świadczenie postojowe, o którym mowa w art. 15zs ustawy o COVID-19.
 
 **Art. 52n.**
 
@@ -5393,12 +5949,12 @@ Art. 46–51. (pominięte)
 
 2. W przypadku darowizny, o której mowa w ust. 1, przekazanej:
 
-- **1)** do dnia 30 kwietnia 2020 r. odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
-- **2)** w maju 2020 r. odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
-- **3)** od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. odliczeniu podlega kwota odpowiadająca wartości darowizny;
-- **4)** od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
-- **5)** od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
-- **6)** od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 odliczeniu podlega kwota odpowiadająca wartości darowizny.
+- **1)** do dnia 30 kwietnia 2020 r. – odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
+- **2)** w maju 2020 r. – odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
+- **3)** od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. – odliczeniu podlega kwota odpowiadająca wartości darowizny;
+- **4)** od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. – odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
+- **5)** od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. – odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
+- **6)** od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 – odliczeniu podlega kwota odpowiadająca wartości darowizny.
 
 2a. Odliczenie, o którym mowa w ust. 1 i ust. 2 pkt 1 i 2, przysługuje również w przypadku, gdy przekazanie darowizny nastąpiło przy udziale organizacji pożytku publicznego, jeżeli:
 
@@ -5415,14 +5971,19 @@ Art. 46–51. (pominięte)
 
 2. Przepis ust. 1 stosuje się odpowiednio do płatników, o których mowa w art. 41 ust. 1 i 4, dokonujących świadczeń z tytułu działalności wykonywanej osobiście, o której mowa w art. 13 pkt 8 oraz z tytułu praw autorskich i praw pokrewnych.
 
-**Art. 52p.** (uchylony) Art. 52pa. Zwalnia się z podatku od przychodów z budynków przychody podlegające opodatkowaniu na podstawie art. 30g, ustalone za okres:
+**Art. 52p.** (uchylony)
+
+**Art. 52pa.** Zwalnia się z podatku od przychodów z budynków przychody podlegające opodatkowaniu na podstawie art. 30g, ustalone za okres:
+
+- **1)** od dnia 1 marca 2020 r. do dnia 31 grudnia 2020 r.;
+- **2)** od dnia 1 stycznia 2021 r. do końca miesiąca, w którym stan epidemii został odwołany – w przypadku obowiązywania po dniu 31 grudnia 2020 r. stanu epidemii ogłoszonego z powodu COVID-19.
 
 **Art. 52q.**
 
 1. Zwalnia się z obowiązku, o którym mowa w art. 44 ust. 17 pkt 2 i ust. 23 oraz art. 26i ust. 1 pkt 2 i ust. 2 pkt 2, odpowiednio za poszczególne okresy rozliczeniowe lub rok podatkowy, w których spełnione zostały łącznie następujące warunki:
 
 - **1)** w danym roku podatkowym obowiązywał stan epidemii ogłoszony z powodu COVID-19;
-- **2)** uzyskane przez podatnika odpowiednio w danym okresie rozliczeniowym lub roku podatkowym przychody, o których mowa w art. 14, są niższe o co najmniej 50 % w stosunku do analogicznego okresu poprzedniego roku podatkowego, a w przypadku podatnika, który rozpoczął prowadzenie działalności gospodarczej w roku poprzedzającym rok podatkowy w stosunku do uzyskanych w tym roku średnich przychodów;
+- **2)** uzyskane przez podatnika odpowiednio w danym okresie rozliczeniowym lub roku podatkowym przychody, o których mowa w art. 14, są niższe o co najmniej 50 % w stosunku do analogicznego okresu poprzedniego roku podatkowego, a w przypadku podatnika, który rozpoczął prowadzenie działalności gospodarczej w roku poprzedzającym rok podatkowy – w stosunku do uzyskanych w tym roku średnich przychodów;
 - **3)** podatnik poniósł odpowiednio w danym okresie rozliczeniowym lub roku podatkowym negatywne konsekwencje ekonomiczne z powodu COVID-19.
 
 2. Warunku, o którym mowa w ust. 1 pkt 2, nie stosuje się do podatników, którzy:
@@ -5468,7 +6029,15 @@ Art. 46–51. (pominięte)
 
 3. Przepis ust. 1 stosuje się również w przypadku, gdy podatnik nie posiada kwalifikowanego prawa własności intelektualnej ani ekspektatywy uzyskania kwalifikowanego prawa, pod warunkiem zgłoszenia lub złożenia wniosku o uzyskanie takiego prawa ochronnego do właściwego organu, w terminie 6 miesięcy, licząc od końca miesiąca, za który przy obliczaniu zaliczki na podatek zastosował 5 % stawkę podatku.
 
-4. Przepisy art. 30ca stosuje się odpowiednio. Art. 52ua. Zwalnia się od podatku dochodowego kwoty dodatku solidarnościowego, o którym mowa w ustawie z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19 (Dz. U. z 2022 r. poz. 93). Art. 52ub. Zwalnia się od podatku dochodowego kwotę jednorazowego świadczenia pieniężnego, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o jednorazowym świadczeniu pieniężnym dla działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych (Dz. U. poz. 2430). Art. 52uc. Zwalnia się od podatku dochodowego kwotę dodatkowego świadczenia, o której mowa w ustawie z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1358). Art. 52ud. Zwalnia się od podatku dochodowego kwotę jednorazowego świadczenia pieniężnego za określony miesiąc przeznaczonego na ograniczenie niektórych skutków ekonomicznych związanych z sytuacją ekologiczną na rzece Odrze, o którym mowa w ustawie z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014 i 2015).
+4. Przepisy art. 30ca stosuje się odpowiednio.
+
+**Art. 52ua.** Zwalnia się od podatku dochodowego kwoty dodatku solidarnościowego, o którym mowa w ustawie z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w celu przeciwdziałania negatywnym skutkom COVID-19 (Dz. U. z 2022 r. poz. 93).
+
+**Art. 52ub.** Zwalnia się od podatku dochodowego kwotę jednorazowego świadczenia pieniężnego, o którym mowa w ustawie z dnia 17 grudnia 2021 r. o jednorazowym świadczeniu pieniężnym dla działaczy opozycji antykomunistycznej oraz osób represjonowanych z powodów politycznych (Dz. U. poz. 2430).
+
+**Art. 52uc.** Zwalnia się od podatku dochodowego kwotę dodatkowego świadczenia, o której mowa w ustawie z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. poz. 1358).
+
+**Art. 52ud.** Zwalnia się od podatku dochodowego kwotę jednorazowego świadczenia pieniężnego za określony miesiąc przeznaczonego na ograniczenie niektórych skutków ekonomicznych związanych z sytuacją ekologiczną na rzece Odrze, o którym mowa w ustawie z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku z sytuacją ekologiczną na rzece Odrze (Dz. U. poz. 2014 i 2015).
 
 **Art. 52v.**
 
@@ -5481,7 +6050,11 @@ Art. 46–51. (pominięte)
 
 3. Jeżeli podatnik, któremu organ rentowy przekazał roczne obliczenie podatku będącego podatkiem należnym za 2019 r. na podstawie art. 34 ust. 9, nie złożył wniosku, o którym mowa w ust. 1, organ podatkowy przekazuje kwotę w wysokości 1 % tego podatku organizacji pożytku publicznego, którą podatnik wskazał we wniosku zawartym w zeznaniu, o którym mowa w art. 45 ust. 1, korekcie tego zeznania, albo w oświadczeniu, o którym mowa w art. 45c ust. 3a, złożonych za 2018 r.
 
-4. Przekazanie kwoty w wysokości 1 % podatku należnego, o którym mowa w ust. 1, następuje na podstawie oświadczenia, o którym mowa w art. 45c ust. 3a, sporządzonego za 2019 r. przez organ podatkowy za pośrednictwem portalu podatkowego. Przepisy art. 45c stosuje się odpowiednio. Art. 52va. 1. Jeżeli do końca miesiąca poprzedzającego miesiąc, w którym upływa termin do złożenia zeznania podatkowego za rok podatkowy, nie zostanie odwołany stan epidemii ogłoszony z powodu COVID-19, przekazanie kwoty w wysokości nieprzekraczającej 1 % podatku należnego następuje również w przypadku, gdy wniosek, o którym mowa w art. 45c ust. 3 i 3a, zostanie złożony po terminie do jego złożenia, niepóźniej jednak niż do końca miesiąca następującego po miesiącu, w którym upływa termin do złożenia zeznania podatkowego, złożenia korekty tego zeznania albo złożenia oświadczenia, określony odpowiednio w art. 45c ust. 1 pkt 1 albo 2 albo ust. 3a zdaniu drugim.
+4. Przekazanie kwoty w wysokości 1 % podatku należnego, o którym mowa w ust. 1, następuje na podstawie oświadczenia, o którym mowa w art. 45c ust. 3a, sporządzonego za 2019 r. przez organ podatkowy za pośrednictwem portalu podatkowego. Przepisy art. 45c stosuje się odpowiednio.
+
+**Art. 52va.**
+
+1. Jeżeli do końca miesiąca poprzedzającego miesiąc, w którym upływa termin do złożenia zeznania podatkowego za rok podatkowy, nie zostanie odwołany stan epidemii ogłoszony z powodu COVID-19, przekazanie kwoty w wysokości nieprzekraczającej 1 % podatku należnego następuje również w przypadku, gdy wniosek, o którym mowa w art. 45c ust. 3 i 3a, zostanie złożony po terminie do jego złożenia, niepóźniej jednak niż do końca miesiąca następującego po miesiącu, w którym upływa termin do złożenia zeznania podatkowego, złożenia korekty tego zeznania albo złożenia oświadczenia, określony odpowiednio w art. 45c ust. 1 pkt 1 albo 2 albo ust. 3a zdaniu drugim.
 
 2. (uchylony)
 
@@ -5495,8 +6068,8 @@ Art. 46–51. (pominięte)
 
 2. Podatnicy, którzy na 2020 r. wybrali uproszczoną formę wpłacania zaliczek, o której mowa w art. 44 ust. 6b, mogą zmniejszyć zaliczkę, o której mowa w art. 44 ust. 6i, należną za miesiąc, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do okresu, w którym wierzytelność została uregulowana lub zbyta, o:
 
-- **1)** 17 % wartości wierzytelności, o której mowa w ust. 1 w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1 albo
-- **2)** 19 % wartości wierzytelności, o której mowa w ust. 1 w przypadku podatnika opodatkowanego według zasad określonych w art. 30c.
+- **1)** 17 % wartości wierzytelności, o której mowa w ust. 1 – w przypadku podatnika opodatkowanego według zasad określonych w art. 27 ust. 1 albo
+- **2)** 19 % wartości wierzytelności, o której mowa w ust. 1 – w przypadku podatnika opodatkowanego według zasad określonych w art. 30c.
 
 3. Jeżeli wartość zmniejszenia zaliczki należnej przysługującego na podstawie ust. 2 jest wyższa od tej zaliczki, o nieodliczoną wartość zmniejsza się zaliczki należne za kolejne miesiące.
 
@@ -5517,20 +6090,20 @@ Art. 46–51. (pominięte)
 
 2. Przez placówkę oświatową rozumie się:
 
-- **1)** podmioty, o których mowa w art. 2 pkt 1–4 i 7 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe;
-- **2)** uczelnie w rozumieniu ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce;
+- **1)** podmioty, o których mowa w art. 2 pkt 1–4 i 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **2)** uczelnie w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **3)** placówki opiekuńczo-wychowawcze w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej.
 
 3. Odliczenie stosuje się w przypadku, gdy przedmiotem darowizny są komputery, o których mowa w ust. 1, kompletne, zdatne do użytku i wyprodukowane niewcześniej niż 3 lata przed dniem ich przekazania.
 
 4. W przypadku darowizny, o której mowa w ust. 1, przekazanej:
 
-- **1)** do dnia 30 kwietnia 2020 r. odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
-- **2)** w maju 2020 r. odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
-- **3)** od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. odliczeniu podlega kwota odpowiadająca wartości darowizny;
-- **4)** od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
-- **5)** od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
-- **6)** od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 odliczeniu podlega kwota odpowiadająca wartości darowizny.
+- **1)** do dnia 30 kwietnia 2020 r. – odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
+- **2)** w maju 2020 r. – odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
+- **3)** od dnia 1 czerwca 2020 r. do dnia 30 września 2020 r. – odliczeniu podlega kwota odpowiadająca wartości darowizny;
+- **4)** od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. – odliczeniu podlega kwota odpowiadająca 200 % wartości darowizny;
+- **5)** od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. – odliczeniu podlega kwota odpowiadająca 150 % wartości darowizny;
+- **6)** od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 – odliczeniu podlega kwota odpowiadająca wartości darowizny.
 
 5. Odliczeniu podlegają darowizny nieodliczone na podstawie art. 26 ust. 1 pkt 9 i art. 52n oraz art. 11, art. 57b i art. 57e ustawy o zryczałtowanym podatku dochodowym.
 
@@ -5545,41 +6118,89 @@ Art. 46–51. (pominięte)
 2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19, realizowanego w okresie od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, na rzecz:
 
 - **1)** podmiotów wymienionych w art. 52n ust. 1,
-- **2)** podmiotów lub jednostek, do których zadań ustawowych należy przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19 o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne. Art. 52za. 1. Do przychodów z pozarolniczej działalności gospodarczej nie zalicza się wartości otrzymanych od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, darowizn, o których mowa w art. 52n i art. 52x, przez podatników, o których mowa w art. 52n ust. 1 i art. 52x ust. 1.
+- **2)** podmiotów lub jednostek, do których zadań ustawowych należy przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19 – o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-2. Do przychodów nie zalicza się wartości nieodpłatnych świadczeń otrzymanych do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, przez podatników, o których mowa w art. 52n ust. 1 oraz art. 52z ust. 2 pkt 2. Art. 52zb. Przepisu art. 23 ust. 1 pkt 19 nie stosuje się do zapłaconych kar umownych i odszkodowań, jeżeli wada dostarczonych towarów, wykonanych robót i usług oraz zwłoka w dostarczeniu towaru wolnego od wad lub zwłoka w usunięciu wad towarów albo wykonanych robót i usług, powstała w związku ze stanem zagrożenia epidemicznego lub stanem epidemii, ogłoszonego z powodu COVID-19. Art. 52zc. Wolna od podatku dochodowego jest wartość Polskich Bonów Turystycznych otrzymanych na podstawie ustawy z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym (Dz. U. z 2023 r. poz. 35 oraz z 2025 r. poz. 1806). Art. 52zd. 51) Zwalnia się od podatku dochodowego kwoty jednorazowych odpraw pieniężnych, o których mowa w art. 11d ust. 4b i art. 11da ust. 2 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2024 r. poz. 1383 oraz z 2025 r. poz. 1822). Art. 52ze. Wolna od podatku dochodowego jest wartość świadczenia wynikającego z realizacji prawa do zakupu odbiornika cyfrowego przyznanego na podstawie ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 1399). Art. 52zf. 1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
+**Art. 52za.**
+
+1. Do przychodów z pozarolniczej działalności gospodarczej nie zalicza się wartości otrzymanych od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, darowizn, o których mowa w art. 52n i art. 52x, przez podatników, o których mowa w art. 52n ust. 1 i art. 52x ust. 1.
+
+2. Do przychodów nie zalicza się wartości nieodpłatnych świadczeń otrzymanych do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, przez podatników, o których mowa w art. 52n ust. 1 oraz art. 52z ust. 2 pkt 2.
+
+**Art. 52zb.** Przepisu art. 23 ust. 1 pkt 19 nie stosuje się do zapłaconych kar umownych i odszkodowań, jeżeli wada dostarczonych towarów, wykonanych robót i usług oraz zwłoka w dostarczeniu towaru wolnego od wad lub zwłoka w usunięciu wad towarów albo wykonanych robót i usług, powstała w związku ze stanem zagrożenia epidemicznego lub stanem epidemii, ogłoszonego z powodu COVID-19.
+
+**Art. 52zc.** Wolna od podatku dochodowego jest wartość Polskich Bonów Turystycznych otrzymanych na podstawie ustawy z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym (Dz. U. z 2023 r. poz. 35 oraz z 2025 r. poz. 1806).
+
+**Art. 52zd.** Zwalnia się od podatku dochodowego kwoty jednorazowych odpraw pieniężnych, o których mowa w art. 11d ust. 4b i art. 11da ust. 2 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2024 r. poz. 1383 oraz z 2025 r. poz. 1822).
+
+**Art. 52ze.** Wolna od podatku dochodowego jest wartość świadczenia wynikającego z realizacji prawa do zakupu odbiornika cyfrowego przyznanego na podstawie ustawy z dnia 24 lutego 2022 r. o wsparciu gospodarstw domowych w ponoszeniu kosztów związanych ze zmianą standardu nadawania naziemnej telewizji cyfrowej (Dz. U. poz. 1399).
+
+**Art. 52zf.**
+
+1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
 
 - **1)** organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub równoważnym organizacjom określonym w przepisach regulujących działalność pożytku publicznego obowiązujących na terytorium Ukrainy,
 - **2)** jednostkom samorządu terytorialnego, 2a) wojewodom,
 - **3)** Rządowej Agencji Rezerw Strategicznych,
-- **4)** podmiotom wykonującym na terytorium Rzeczypospolitej Polskiej lub na terytorium Ukrainy działalność leczniczą lub działalność z zakresu ratownictwa medycznego o ile koszty wytworzenia lub cena nabycia nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
+- **4)** podmiotom wykonującym na terytorium Rzeczypospolitej Polskiej lub na terytorium Ukrainy działalność leczniczą lub działalność z zakresu ratownictwa medycznego – o ile koszty wytworzenia lub cena nabycia nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
 2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1. Art. 52zg. Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zf, otrzymanych w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. przez podatników, o których mowa w art. 52zf ust. 1. Art. 52zh. Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. przez podatników będących obywatelami Ukrainy, którzy w tym okresie przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej. Art. 52zi. Zwalnia się od podatku dochodowego świadczenie pieniężne, o którym mowa w art. 13 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167, 232, 834 i 854). Art. 52zj. W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych). Art. 52zk. 1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
+3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1.
+
+**Art. 52zg.** Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zf, otrzymanych w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. przez podatników, o których mowa w art. 52zf ust. 1.
+
+**Art. 52zh.** Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. przez podatników będących obywatelami Ukrainy, którzy w tym okresie przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 52zi.** Zwalnia się od podatku dochodowego świadczenie pieniężne, o którym mowa w art. 13 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167, 232, 834 i 854).
+
+**Art. 52zj.** W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 24 lutego 2022 r. do dnia 31 grudnia 2022 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych).
+
+**Art. 52zk.**
+
+1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
 
 - **1)** organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub równoważnym organizacjom określonym w przepisach regulujących działalność pożytku publicznego obowiązujących na terytorium Ukrainy,
 - **2)** jednostkom samorządu terytorialnego,
 - **3)** wojewodom,
 - **4)** Rządowej Agencji Rezerw Strategicznych,
-- **5)** podmiotom wykonującym na terytorium Rzeczypospolitej Polskiej lub na terytorium Ukrainy działalność leczniczą lub działalność z zakresu ratownictwa medycznego o ile koszty wytworzenia lub cena nabycia nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
+- **5)** podmiotom wykonującym na terytorium Rzeczypospolitej Polskiej lub na terytorium Ukrainy działalność leczniczą lub działalność z zakresu ratownictwa medycznego – o ile koszty wytworzenia lub cena nabycia nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
 2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1. Art. 52zl. Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zk, otrzymanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. przez podatników, o których mowa w art. 52zk ust. 1. Art. 52zm. Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. przez podatników będących obywatelami Ukrainy, którzy po dniu 23 lutego 2022 r. przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej. Art. 52zn. W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych). Art. 52zo. 1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
+3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1.
+
+**Art. 52zl.** Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zk, otrzymanych w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. przez podatników, o których mowa w art. 52zk ust. 1.
+
+**Art. 52zm.** Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. przez podatników będących obywatelami Ukrainy, którzy po dniu 23 lutego 2022 r. przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 52zn.** W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych).
+
+**Art. 52zo.**
+
+1. Kosztem uzyskania przychodów są koszty wytworzenia lub cena nabycia rzeczy lub praw będących przedmiotem darowizn przekazanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. na cele związane z przeciwdziałaniem skutkom działań wojennych na terytorium Ukrainy:
 
 - **1)** organizacjom, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, lub równoważnym organizacjom określonym w przepisach regulujących działalność pożytku publicznego obowiązujących na terytorium Ukrainy,
 - **2)** jednostkom samorządu terytorialnego,
 - **3)** wojewodom,
 - **4)** Rządowej Agencji Rezerw Strategicznych,
-- **5)** podmiotom wykonującym na terytorium Rzeczypospolitej Polskiej lub na terytorium Ukrainy działalność leczniczą lub działalność z zakresu ratownictwa medycznego o ile koszty wytworzenia lub cena nabycia nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
+- **5)** podmiotom wykonującym na terytorium Rzeczypospolitej Polskiej lub na terytorium Ukrainy działalność leczniczą lub działalność z zakresu ratownictwa medycznego – o ile koszty wytworzenia lub cena nabycia nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
 2. Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie skutkom działań wojennych na terytorium Ukrainy, realizowanego w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. na rzecz podmiotów wymienionych w ust. 1, o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
 
-3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1. Art. 52zp. 53) Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zo, otrzymanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. przez podatników, o których mowa w art. 52zo ust. 1. Art. 52zq. 53) Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. przez podatników będących obywatelami Ukrainy, którzy po dniu 23 lutego 2022 r. przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej. Art. 52zr. 54) W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, w brzmieniu obowiązującym przed dniem 5 marca 2026 r., spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych). Art. 52zs. 55) Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego, do wysokości nieprzekraczającej w roku podatkowym kwoty 2280 zł, wypłacony funkcjonariuszom:
+3. Podatnik może odliczyć od dochodu lub przychodu darowizny rzeczy lub praw majątkowych zgodnie z art. 26 ust. 1 pkt 9 niniejszej ustawy lub art. 11 ust. 1 ustawy o zryczałtowanym podatku dochodowym również w przypadku, gdy koszty wytworzenia lub cena nabycia tych rzeczy lub praw majątkowych zostały zaliczone do kosztów uzyskania przychodów na podstawie ust. 1.
+
+**Art. 52zp.** Do przychodów nie zalicza się wartości darowizn oraz nieodpłatnych świadczeń, o których mowa w art. 52zo, otrzymanych w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. przez podatników, o których mowa w art. 52zo ust. 1.
+
+**Art. 52zq.** Zwalnia się od podatku dochodowego pomoc humanitarną otrzymaną w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. przez podatników będących obywatelami Ukrainy, którzy po dniu 23 lutego 2022 r. przybyli z terytorium Ukrainy, na skutek toczących się na tym terytorium działań wojennych, na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 52zr.** W przypadku osób fizycznych, o których mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, w brzmieniu obowiązującym przed dniem 5 marca 2026 r., spełnienie warunku określonego w art. 3 ust. 1a pkt 1 w okresie od dnia 1 stycznia 2024 r. do dnia 31 grudnia 2026 r. stwierdza się na podstawie pisemnego oświadczenia tej osoby o posiadaniu na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodka interesów życiowych).
+
+**Art. 52zs.** Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego, do wysokości nieprzekraczającej w roku podatkowym kwoty 2280 zł, wypłacony funkcjonariuszom:
 
 - **1)** Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Straży Granicznej, Państwowej Straży Pożarnej, od dnia wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (Dz. U. poz. 1366),
-- **2)** Służby Więziennej, od dnia wejścia w życie ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1823) jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania. Art. 52zt. 55) Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego wypłacony funkcjonariuszom Służby Ochrony Państwa od dnia wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania.
+- **2)** Służby Więziennej, od dnia wejścia w życie ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1823) – jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania.
+
+**Art. 52zt.** Zwalnia się od podatku dochodowego równoważnik pieniężny za brak lokalu mieszkalnego wypłacony funkcjonariuszom Służby Ochrony Państwa od dnia wejścia w życie ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby, jeżeli prawo do tego równoważnika wynika z dotychczasowych przepisów określających zasady jego przyznania.
 
 **Art. 53.** (uchylony)
 
@@ -5590,12 +6211,12 @@ Art. 46–51. (pominięte)
 1. Z dniem 1 stycznia 1992 r. tracą moc:
 
 - **1)** ustawa z dnia 4 lutego 1949 r. o podatku od wynagrodzeń (Dz. U. poz. 41, z 1956 r. poz. 201, z 1959 r. poz. 69 oraz z 1963 r. poz. 309);
-- **2)** ustawa z dnia 26 lutego 1982 r. o opodatkowaniu jednostek gospodarki uspołecznionej (Dz. U. z 1987 r. poz. 77, z 1989 r. poz. 12, 192 i 443, z 1990 r. poz. 126 oraz z 1991 r. poz. 30) w części dotyczącej podatku od płac;
+- **2)** ustawa z dnia 26 lutego 1982 r. o opodatkowaniu jednostek gospodarki uspołecznionej (Dz. U. z 1987 r. poz. 77, z 1989 r. poz. 12, 192 i 443, z 1990 r. poz. 126 oraz z 1991 r. poz. 30) – w części dotyczącej podatku od płac;
 - **3)** ustawa z dnia 28 lipca 1983 r. o podatku wyrównawczym (Dz. U. poz. 188, z 1984 r. poz. 268, z 1988 r. poz. 254, z 1989 r. poz. 192 oraz z 1991 r. poz. 345);
 - **4)** ustawa z dnia 16 grudnia 1972 r. o podatku dochodowym (Dz. U. z 1989 r. poz. 147 i 443 oraz z 1991 r. poz. 30, 155 i 253);
-- **5)** ustawa z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2017 r. poz. 1892) w zakresie dotyczącym podatku rolnego od dochodów osób fizycznych z działów specjalnych produkcji rolnej;
+- **5)** ustawa z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2017 r. poz. 1892) – w zakresie dotyczącym podatku rolnego od dochodów osób fizycznych z działów specjalnych produkcji rolnej;
 - **6)** art. 27 ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz. U. poz. 253);
-- **7)** przepisy ustaw szczególnych, w części zawierającej przedmiotowe lub podmiotowe zwolnienia osób fizycznych od podatków, o których mowa w pkt 1–5, albo obniżki tych podatków.
+- **7)** przepisy ustaw szczególnych, w części zawierającej przedmiotowe lub podmiotowe zwolnienia osób fizycznych od podatków, o których mowa w pkt 1– 5, albo obniżki tych podatków.
 
 2. Przepisy:
 
@@ -5632,7 +6253,7 @@ Art. 46–51. (pominięte)
 
 7. (uchylony)
 
-8. Ilekroć w przepisach o ubezpieczeniu społecznym jest mowa o wynagrodzeniu, uposażeniu, przychodzie, dochodzie, podstawie wymiaru składek, przeciętnym wynagrodzeniu, przewidywanym przeciętnym wynagrodzeniu należy przez to rozumieć po dniu 31 grudnia 1991 r. kwoty uwzględniające podatek dochodowy, z zastrzeżeniem ust. 9 i 10.
+8. Ilekroć w przepisach o ubezpieczeniu społecznym jest mowa o wynagrodzeniu, uposażeniu, przychodzie, dochodzie, podstawie wymiaru składek, przeciętnym wynagrodzeniu, przewidywanym przeciętnym wynagrodzeniu – należy przez to rozumieć po dniu 31 grudnia 1991 r. kwoty uwzględniające podatek dochodowy, z zastrzeżeniem ust. 9 i 10.
 
 9. Wskaźnik pierwszej w 1992 r. waloryzacji emerytur i rent ustala się dzieląc kwotę przewidywanego na dany kwartał przeciętnego wynagrodzenia bez uwzględnienia zwiększeń wynagrodzenia z tytułu wprowadzenia podatku dochodowego przez kwotę przewidywanego przeciętnego wynagrodzenia stanowiącego podstawę ostatnio przeprowadzonej waloryzacji. Kwotę przewidywanego przeciętnego wynagrodzenia bez uwzględnienia zwiększeń wynagrodzenia z tytułu wprowadzenia podatku dochodowego ogłosi Prezes Głównego Urzędu Statystycznego w trybie określonym w odrębnej ustawie o zaopatrzeniu emerytalnym pracowników i ich rodzin.
 
@@ -5652,5 +6273,5 @@ Art. 46–51. (pominięte)
 
 3. Podatnicy, którzy osiągają dochody określone w ust. 1, są obowiązani wpłacać zaliczki miesięczne na podatek oraz składać zeznania roczne według zasad określonych w art. 44 i 45.
 
-**Art. 58.** Ustawa wchodzi w życie z dniem 1 stycznia 1992 r., z wyjątkiem art. 46, 47, 50 i 51, które wchodzą w życie z dniem ogłoszenia z mocą od dnia 1 lipca 1991 r. WYKAZ ROCZNYCH STAWEK AMORTYZACYJNYCH Symbol KŚT Pozycja Stawka % (grupa, podgrupa Nazwa środków trwałych lub rodzaj) 1 2 3 4 01 2,5 10 Budynki niemieszkalne 110 Placówki opiekuńczo-wychowawcze, domy opieki społecznej bez opieki medycznej 121 Lokale niemieszkalne 4,5 102 Podziemne garaże i zadaszone parkingi oraz budynki kontroli ruchu powietrznego (wieże) 104 Zbiorniki, silosy oraz magazyny podziemne, zbiorniki i komory podziemne (z wyłączeniem budynków magazynowych i naziemnych) 10 103 Kioski towarowe o kubaturze poniżej 500 m 109 trwale związane z gruntem Domki kempingowe, budynki zastępcze trwale związane z gruntem 010 Plantacje wikliny 02 2,5 224 Budowle wodne, z wyłączeniem urządzeń melioracji wodnych, doków stałych zalądowionych, wałów i grobli 21 Budowle sklasyfikowane jako budowle do uzdatniania wód, z wyjątkiem studni wierconych 290 Budowle sportowe i rekreacyjne, z wyłączeniem ogrodów i parków publicznych, skwerów, ogrodów botanicznych i zoologicznych 291 Wieże przeciwpożarowe 225 Urządzenia melioracji wodnych podstawowych 226 Urządzenia melioracji wodnych szczegółowych 4,5 2 Obiekty inżynierii lądowej i wodnej, z wyłączeniem ogrodów i parków publicznych, skwerów, ogrodów botanicznych i zoologicznych 10 211 Przewody sieci technologicznych wewnątrzzakładowych 221 Urządzenia zabezpieczające ruch pociągów 14 202 Wieże ekstrakcyjne 20 200 Wieże wiertnicze, wieżomaszty 03 7 3 Kotły i maszyny energetyczne 14 322 Silniki spalinowe na paliwo lekkie (niezespolone) 323 Silniki spalinowe na paliwo ciężkie (niezespolone) 324 Silniki spalinowe na paliwo gazowe (niezespolone) 325 Silniki powietrzne 343 Zespoły elektroenergetyczne przenośne z silnikami spalinowymi na paliwo lekkie 344 Zespoły elektroenergetyczne z silnikami spalinowymi na paliwo ciężkie 349 Reaktory jądrowe 04 7 431 Filtry (prasy) błotniarki Cedzidła mechaniczne 450 Piece do przerobu surowców (z wyjątkiem pieców do przerobu surowców wielokomorowych) 451 Piece do przetwarzania paliw (z wyjątkiem pieców koksowniczych) 454 Piece do wypalania tunelowe 473 Aparaty bębnowe 475 Suszarki komorowe (z wyjątkiem suszarek z półkami obrotowymi i zgarniaczami) 10 4 Maszyny, urządzenia i aparaty ogólnego zastosowania 14 41 Obrabiarki do metali 44 Maszyny i urządzenia do przetłaczania i sprężania cieczy i gazów 46 Aparaty do wymiany ciepła (z wyjątkiem wymienników przeponowych rurowych oraz chłodnic odmulin i prób kołowych rozkładni gazu) 47 Maszyny, urządzenia i aparaty do operacji i procesów materiałowych, w tym suszarki z półkami obrotowymi i zgarniaczami (z wyjątkiem: kolumn, aparatów bębnowych, suszarek komorowych bezpółkowych, tradycyjnych, owiewnych, półkowych owiewnych, próżniowych z grzejnymi półkami, suszarek z górnym i dolnym rozpylaniem cieczy oraz suszarek z pneumatycznym rozpylaczem ciał stałych i innych suszarek, odbieralnic hydraulicznych rozkładni gazu) 18 449 Urządzenia dystrybucyjne do benzyny i olejów elektryczne i przepływomierze składowe do cieczy i paliw płynnych 461 Wymienniki płynów obiegowych przy produkcji sody 469 Chłodnice odmulin i prób kołowych rozkładni gazu 472 Kolumny nitracyjne i denitracyjne 479 Odbieralnice hydrauliczne rozkładni gazu 481 Aparaty i urządzenia do powierzchniowej obróbki metali sposobem chemicznym i elektrogalwanicznym 482 Aparaty i urządzenia do powierzchniowej obróbki metali sposobem cieplnym 484 Urządzenia do spawania i napawania łukowego w ochronie gazów oraz do spawania i napawania plazmowego Wytwornice acetylenowe przenośne wysokiego ciśnienia Zgrzewarki oporowe i tarcicowe Urządzenia do metalizacji natryskowej i do natryskiwania tworzywami sztucznymi 486 Maszyny i urządzenia do przygotowywania maszynowych nośników danych oraz maszyny analityczne 488 Samodzielne urządzenia do automatycznej regulacji i sterowania procesami 489 Roboty przemysłowe 20 434 Maszyny do zamykania słoi Maszyny do zamykania puszek 461 Wymienniki przeponowe rurowe sklasyfikowane jako chłodnice kwasu siarkowego 30 487 Zespoły komputerowe 05 7 506 Aparaty do rektyfikacji powietrza 507 Krystalizatory Komory potne 548 Maszyny, urządzenia i aparaty do produkcji materiału zecerskiego 583 Koparki i zwałowarki w kopalniach odkrywkowych węgla Koparki w piaskowniach przemysłu węglowego 10 512 Maszyny i urządzenia do eksploatacji otworów wiertniczych 513 Maszyny i urządzenia do przeróbki mechanicznej rud i węgla 514 Maszyny i urządzenia aglomerowni Maszyny i urządzenia wielkopiecowe Maszyny i urządzenia hutnicze stalowni Nożyce hutnicze do cięcia na gorąco, tabor hutniczy, walcowniczy Inne maszyny, urządzenia i aparaty hutnicze 520 Maszyny i urządzenia dla przemysłu kamieniarskiego: Traki ramowe i tarczowe Cyrkularki Szlifierki Tokarki i wiertarki do kamienia Kombajny do robót przygotowawczych 523 Maszyny i urządzenia dla przemysłu cementowego 525 Autoklawy 529 Maszyny i urządzenia do produkcji elementów z lastriko i sztucznego kamienia 56 Maszyny, urządzenia i aparaty dla przemysłu rolnego 582 Maszyny do robót drogowych: pojemniki do bitumu stalowe o pojemności powyżej 20 000 l odśnieżarki dróg, ulic i placów o mocy silników powyżej 120 KM 14 50 Maszyny, urządzenia i aparaty dla przemysłu chemicznego 517 Maszyny i urządzenia torfiarskie 52 Maszyny dla przemysłu surowców mineralnych 53 Maszyny do produkcji wyrobów z metali i tworzyw sztucznych 54 Maszyny, urządzenia i aparaty do obróbki i przerobu drewna, produkcji wyrobów z drewna oraz maszyny, urządzenia i aparaty dla przemysłu papierniczego i poligraficznego 55 Maszyny i urządzenia do produkcji wyrobów włókienniczych i odzieżowych oraz do obróbki skóry i produkcji wyrobów z niej 561 Maszyny, urządzenia i aparaty do produkcji napojów 568 Maszyny, urządzenia i aparaty dla przemysłu piekarniczego (z wyjątkiem pieców ceramicznych, cyklotermicznych i specjalnych) 57 Maszyny, urządzenia i aparaty dla przemysłu spożywczego 59 Maszyny, urządzenia i narzędzia rolnicze i gospodarki leśnej 18 505 Piece prażalnicze fluidezyjne 51 Maszyny, urządzenia i aparaty wiertnicze, górnicze, gazownicze, odlewnicze, torfiarskie oraz geodezyjne i kartograficzne 58 Maszyny do robót ziemnych, budowlanych i drogowych 20 506 Odgazowywacze 510 Maszyny i urządzenia wiertnicze 511 Obudowy zmechanizowane 518 Aparaty i urządzenia do: pomiarów magnetycznych, pomiarów geologicznych, pomiarów sejsmicznych i radiometrycznych, elektrycznego profilowania odwiertów, karotażu gazowego, perforacji otworów wiertniczych 535 Aparaty specjalne do wytwarzania kwasu wolframowego i maszyny do redukcyjnych, próżniowych i specjalnych wytopów metali Maszyny do produkcji węglanów i past emulsyjnych Urządzenia do produkcji półprzewodników 579 Dystrybutory Młynki młotkowe Maszyny i urządzenia do przerobu odpadów zwierzęcych na mąkę pastewną i tłuszcze utylizacyjne Inne maszyny i urządzenia do przerobu odpadów zwierzęcych 580 Maszyny do robót ziemnych i fundamentowych 581 Maszyny do robót budowlanych 582 Szczotki mechaniczne i osprzęt do utrzymania dróg 25 501 Aparaty szklane i porcelanowe do destylacji Porcelanowe młyny kulowe 511 Maszyny górnicze, z wyłączeniem obudów zmechanizowanych 524 Piece do topienia żużla wielkopiecowego i bazaltu 571 Autoklawy do hydrolizy Neutralizatory stalowe oraz neutralizatory i hydrolizatory betonowe lub murowane 581 Wibratory Wibromłoty oraz zacieraczki do tynku 06 4,5 600 Zbiorniki naziemne ceglane 601 Zbiorniki naziemne betonowe (z wyjątkiem wyposażonych w wykładzinę chemoodporną dla kwasu ponitracyjnego) 623 Urządzenia telefoniczne systemów nośnych na liniach WN 641 Wyciągi kopalniane (bez wyciągów przy głębieniu szybów) 648 Towarowe kolejki linowe i dźwignice linowe 656 Akumulatory hydrauliczne 660 Wagi pojazdowe, wagonowe i inne wbudowane 10 6 Urządzenia techniczne 18 61 Urządzenia rozdzielcze i aparatura energii elektrycznej przewoźna 641 Dźwigniki, wciągarki i wciągniki przejezdne oraz nieprzejezdne, kołowroty, wyciągniki (z wyjątkiem kołowrotów szybowych oraz wyciągników kopalnianych łącznie z wyciągami przy głębieniu szybów, a także wyciągi kolei i kolejek linowych) 662 Projektory przenośne 16 mm i 35 mm 681 Kontenery 20 629 Telefony komórkowe 669 Kasy fiskalne i rejestrujące (z wyjątkiem zaliczonych do poz. 04 zespoły komputerowe) 633 Baterie akumulatorów elektrycznych stacjonarnych Baterie akumulatorów elektrycznych zasadowych 662 Ekrany kinowe 644 Przenośniki w kopalniach i zakładach przetwórczych rud i węgla 664 Urządzenia do przeprowadzania badań technicznych 25 644 Przenośniki zgrzebłowe ciężkie i lekkie 07 7 70 Tabor kolejowy naziemny 71 Tabor kolejowy podziemny 72 Tabor tramwajowy 73 Pozostały tabor szynowy naziemny 77 Tabor pływający 14 700 Drezyny i przyczepy do drezyn 710 Lokomotywy akumulatorowe Lokomotywy ognioszczelne i typu „Karlik” Wozy kopalniane 770 Kontenerowce 773 Wodoloty 780 Samoloty 781 Śmigłowce 743 Samochody specjalne 745 Trolejbusy i samochody ciężarowe o napędzie elektrycznym 746 Ciągniki 747 Naczepy i przyczepy 76 Pozostały tabor bezszynowy (wózki jezdniowe akumulatorowe, widłowe i inne wózki jezdniowe) 18 745 Pozostałe samochody o napędzie elektrycznym 783 Balony 789 Pozostałe środki transportu lotniczego 79 Pozostałe środki transportu 20 740 Motocykle, przyczepy i wózki motocyklowe 741 Samochody osobowe 742 Samochody ciężarowe 744 Autobusy i autokary 782 Szybowce 08 10 805 Wyposażenie kin, teatrów, placówek kulturalno-oświatowych oraz instrumenty muzyczne 806 Kioski, budki, baraki, domki kempingowe niezwiązane trwale z gruntem 14 803 Maszyny biurowe piszące, liczące i licząco-piszące Dalekopisy do maszyn matematycznych 20 8 Narzędzia, przyrządy, ruchomości i wyposażenie 25 801 Elektroniczna aparatura kontrolno-pomiarowa do przeprowadzania badań laboratoryjnych 802 Aparaty i sprzęt do hydro- i mechanoterapii 804 Wyposażenie cyrkowe Objaśnienia: 1. Za pogorszone warunki używania budynków i budowli, o których mowa w art. 22i ust. 2 pkt 1 lit. a, uważa się używanie tych środków trwałych pod ciągłym działaniem wody, par wodnych, znacznych drgań, nagłych zmian temperatury oraz innych czynników powodujących przyspieszenie zużycia obiektu. 2. Za złe warunki używania budynków i budowli, o których mowa w art. 22i ust. 2 pkt 1 lit. b, uważa się używanie tych środków trwałych pod wpływem niszczących środków chemicznych, a zwłaszcza gdy służą one produkcji, wytwarzaniu lub przechowywaniu żrących środków chemicznych. Dotyczy to również przypadków silnego działania na budynek lub budowlę niszczących środków chemicznych rozproszonych w atmosferze, wodzie lub wydzielających się w postaci oparów, których źródłem są inne obiekty znajdujące się w pobliżu. 3. Przez maszyny, urządzenia i środki transportu wymagające szczególnej sprawności technicznej, o których mowa w art. 22i ust. 2 pkt 2, rozumie się te obiekty, które używane są w pracy na trzy zmiany, mimo że nie działają ze swej istoty w ruchu ciągłym, używane w warunkach terenowych, w warunkach leśnych, pod ziemią lub innych wskazujących na bardziej intensywne zużycie. 4. Przez maszyny i urządzenia grupy 4–6 i 8 Klasyfikacji poddanych szybkiemu postępowi technicznemu, o których mowa w art. 22i ust. 2 pkt 3, rozumie się maszyny, urządzenia i aparaturę, w których zastosowane są układy mikroprocesorowe lub systemy komputerowe, spełniające założone funkcje dzięki wykorzystaniu w nich najnowszych zdobyczy techniki, a także pozostałą aparaturę naukowo-badawczą i doświadczalno-produkcyjną. TABELA RODZAJÓW I ROZMIARÓW DZIAŁÓW SPECJALNYCH PRODUKCJI ROLNEJ ORAZ NORM SZACUNKOWYCH DOCHODU ROCZNEGO Jednostka Norma szacunkowa Lp. Rodzaje upraw i produkcji powierzchni upraw dochodu rocznego lub rodzajów produkcji zł gr 1 2 3 4 1 Uprawy w szklarniach ogrzewanych powyżej 25 m :
+**Art. 58.** Ustawa wchodzi w życie z dniem 1 stycznia 1992 r., z wyjątkiem art. 46, 47, 50 i 51, które wchodzą w życie z dniem ogłoszenia z mocą od dnia 1 lipca 1991 r.
 

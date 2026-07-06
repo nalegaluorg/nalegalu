@@ -587,5 +587,9 @@ source: pdf
 
 **Art. 28a.** (uchylony)
 
-**Art. 29.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 6, art. 8–11, art. 17, art. 18 i art. 20–28, które wchodzą w życie z dniem 31 sierpnia 2015 r. Załączniki do ustawy z dnia 5 sierpnia 2015 r. (Dz. U. z 2026 r. poz. 44) Załącznik nr 1 Załącznik nr 2 Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony)
+**Art. 29.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 6, art. 8–11, art. 17, art. 18 i art. 20–28, które wchodzą w życie z dniem 31 sierpnia 2015 r.
+
+## Załączniki do ustawy z dnia 5 sierpnia 2015 r.
+
+(Dz. U. z 2026 r. poz. 44) Załącznik nr 1 Załącznik nr 2 Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony)
 

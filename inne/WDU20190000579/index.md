@@ -27,11 +27,7 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2017 r.
 poz. 1218), z uwzględnieniem zmian wprowadzonych ustawą z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2019 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 236 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), który stanowi: „Art. 236. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 184, który wchodzi w życie z dniem 1 lipca 2018 r.;
-2) art. 185, który wchodzi w życie z dniem 11 lipca 2019 r.;
-3) art. 188, który wchodzi w życie z dniem 1 października 2018 r.”.
-Marszałek Sejmu: M. Kuchciński
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 236 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), który stanowi: „ Art. 236. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 184, który wchodzi w życie z dniem 1 lipca 2018 r.; 2) art. 185, który wchodzi w życie z dniem 11 lipca 2019 r.; 3) art. 188, który wchodzi w życie z dniem 1 października 2018 r.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 30 maja 1989 r.
 o izbach gospodarczych
 

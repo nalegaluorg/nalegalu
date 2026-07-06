@@ -36,7 +36,9 @@ w sprawie wzorów oświadczenia o wyborze opodatkowania zryczałtowanym podatkie
 § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Finansów: T. Kościński
 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).
-Załączniki do rozporządzenia Ministra Finansów z dnia 16 marca 2020 r. (poz. 621) Załącznik nr 1 Załącznikidoroz p orządzenia Ministra Finansówzdnia …… p oz….. Załącznik nr1 POLTAX
+
+## Załącznik nr 1 — Załącznikidoroz p orządzenia Ministra Finansówzdnia …… p oz….. Załącznik nr1 POLTAX
+
 1. Identyfikator podatkowy NIP podatnika 2. Nr dokumentu 3. Status PWS-1 OŚWIADCZENIE O WYBORZE OPODATKOWANIA ZRYCZAŁTOWANYM PODATKIEM OD WARTOŚCI SPRZEDANEJ PRODUKCJI Podstawa prawna: Art. 7 ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych (Dz. U. z 2019 r.
 poz. 471, z późn. zm.), zwanej dalej „ustawą”.
 Składający: Przedsiębiorca okrętowy, o którym mowa w art. 2 ust. 1 pkt 4 ustawy (podatnik).

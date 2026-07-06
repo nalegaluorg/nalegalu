@@ -37,7 +37,7 @@ source: pdf
 
 **Art. 2.** Pracodawca wydaje świadectwo pracy zgodnie z dotychczasowymi przepisami, jeżeli w dniu wejścia w życie niniejszej ustawy trwa kolejna umowa o pracę nawiązana w okolicznościach określonych w art. 97 § 1 Kodeksu pracy, w brzmieniu obowiązującym przed tym dniem.
 
-**Art. 3.** Przepisy art. 97 § 1 –1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się do stosunków pracy nawiązanych na podstawie umów o pracę wymienionych w tych przepisach, poczynając od dnia wejścia w życie ustawy.
+**Art. 3.** Przepisy art. 97 § 1 1 –1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się do stosunków pracy nawiązanych na podstawie umów o pracę wymienionych w tych przepisach, poczynając od dnia wejścia w życie ustawy.
 
 **Art. 4.** Do okresu 30 dni, o którym mowa w art. 229 § 1 zdanie drugie ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, wlicza się okres po ustaniu zatrudnienia u pracodawcy określonego w tym przepisie, przypadający bezpośrednio przed dniem wejścia w życie niniejszej ustawy.
 

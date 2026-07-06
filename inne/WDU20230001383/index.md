@@ -30,41 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki Mor
 1) rozporządzeniem Ministra Infrastruktury z dnia 1 września 2021 r. zmieniającym rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 1811);
 2) rozporządzeniem Ministra Infrastruktury z dnia 20 kwietnia 2022 r. zmieniającym rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 1018).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2–6 rozporządzenia Ministra Infrastruktury z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 1811), które stanowią: „§ 2. Przepisy § 44 pkt 2a i § 57 pkt 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się również do uczniów dotychczasowych szkół ponadgimnazjalnych, którzy rozpoczęli kształcenie od roku szkolnego 2019/2020 w zawodzie technik nawigator morski albo technik mechanik okrętowy, zgodnie z podstawą programową kształcenia w zawodzie szkolnictwa branżowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082).
-§ 3. Dyplomy, świadectwa, świadectwa przeszkolenia, zezwolenia i potwierdzenia uznania wydane przez dyrektorów urzędów morskich na podstawie przepisów dotychczasowych zachowują ważność na czas, na jaki zostały wydane, i mogą być wymienione na wniosek zainteresowanego.
-§ 4. W sprawach o wydanie, wymianę lub odnowienie dokumentów kwalifikacyjnych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
-§ 5. W sprawach o wydanie zaświadczenia o ukończeniu szkolenia, o którym mowa w § 10a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, dla osób, które rozpoczęły szkolenie przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
-§ 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) odnośnika nr 2 oraz § 2–4 rozporządzenia Ministra Infrastruktury z dnia 20 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 1018), które stanowią: „²⁾ Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2008/106/WE z dnia 19 listopada 2008 r. w sprawie minimalnego poziomu wyszkolenia marynarzy (wersja przekształcona) (Dz. Urz. UE L 323 z 03.12.2008, str. 33, Dz. Urz. UE L 343 z 14.12.2012, str. 78 oraz Dz. Urz.
-UE L 188 z 12.07.2019, str. 94).” „§ 2. 1. Dyplomy oficera wachtowego na statkach o pojemności brutto 500 i powyżej, starszego oficera na statkach o pojemności brutto od 500 do 3000, starszego oficera na statkach o pojemności brutto 3000 i powyżej, oficera wachtowego żeglugi przybrzeżnej, kapitana żeglugi przybrzeżnej, oficera mechanika wachtowego na statkach o mocy maszyn 750 kW i powyżej, drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW, drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej oraz starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW wydane na podstawie przepisów dotychczasowych zachowują ważność przez okres, na jaki zostały wydane, z zastrzeżeniem ust. 5 i 6.
-2. Świadectwo starszego motorzysty oraz dyplom oficera mechanika w żegludze krajowej wydane na podstawie przepisów dotychczasowych zachowują ważność przez okres 5 lat od dnia wejścia w życie niniejszego rozporządzenia.
-3. Dyplomy szypra 2 klasy żeglugi krajowej oraz szypra 1 klasy żeglugi krajowej wydane na podstawie przepisów dotychczasowych oraz dyplomy szypra 2 klasy żeglugi krajowej i szypra 1 klasy żeglugi krajowej wydane na podstawie przepisów, o których mowa w § 99 ust. 1, § 100 ust. 1 oraz § 103 ust. 1 rozporządzenia zmienianego w § 1, zachowują ważność przez okres 5 lat od dnia wejścia w życie niniejszego rozporządzenia.
-4. Dotychczasowe uprawnienia wynikające z dyplomów i świadectwa, o których mowa w ust. 1–3, zachowują ważność przez okres ważności poszczególnych dokumentów.
-5. Dyplomy i świadectwo, o których mowa w ust. 1–3, na wniosek zainteresowanego podlegają wymianie na odpowiednie dyplomy i świadectwo określone w niniejszym rozporządzeniu:
-1) dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej – na dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej;
-2) dyplom starszego oficera na statkach o pojemności brutto od 500 do 3000 – na dyplom starszego oficera na statkach o pojemności brutto od 500 do 3000;
-3) dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej – na dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej;
-4) dyplom oficera wachtowego żeglugi przybrzeżnej – na dyplom oficera wachtowego żeglugi przybrzeżnej;
-5) dyplom kapitana żeglugi przybrzeżnej – na dyplom kapitana żeglugi przybrzeżnej;
-6) dyplom oficera mechanika wachtowego na statkach o mocy maszyn 750 kW i powyżej – na dyplom oficera mechanika wachtowego na statkach o mocy maszyn 750 kW i powyżej;
-7) dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW – na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW;
-8) dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej – na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej;
-9) dyplom starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW – na dyplom starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW;
-10) świadectwo starszego motorzysty – na świadectwo starszego motorzysty;
-11) dyplom szypra 2 klasy żeglugi krajowej – na dyplom szypra 2 klasy żeglugi krajowej;
-12) dyplom szypra 1 klasy żeglugi krajowej – na dyplom szypra 1 klasy żeglugi krajowej;
-13) dyplom oficera mechanika w żegludze krajowej – na dyplom oficera mechanika w żegludze krajowej.
-6. Wymianę i odnowienie dokumentów, o których mowa w ust. 5 pkt 1–9, przeprowadza się na zasadach określonych w § 96 rozporządzenia zmienianego w § 1.
-7. Wniosek, o którym mowa w ust. 5, zawiera dane identyfikacyjne wnioskodawcy:
-1) nazwisko i imię (imiona);
-2) datę i miejsce urodzenia;
-3) adres zamieszkania;
-4) obywatelstwo;
-5) płeć;
-6) nr telefonu lub adres poczty elektronicznej, jeżeli posiada.
-§ 3. W sprawach o wydanie, wymianę lub odnowienie dokumentów kwalifikacyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 4. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”.
-Minister Infrastruktury: A. Adamczyk ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 23 kwietnia 2018 r.
+1) § 2–6 rozporządzenia Ministra Infrastruktury z dnia 1 września 2021 r. zmieniającego rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 1811), które stanowią: „ § 2. Przepisy § 44 pkt 2a i § 57 pkt 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się również do uczniów dotychczasowych szkół ponadgimnazjalnych, którzy rozpoczęli kształcenie od roku szkolnego 2019/2020 w zawodzie technik nawigator morski albo technik mechanik okrętowy, zgodnie z podstawą programową kształcenia w zawodzie szkolnictwa branżowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082). § 3. Dyplomy, świadectwa, świadectwa przeszkolenia, zezwolenia i potwierdzenia uznania wydane przez dyrektorów urzędów morskich na podstawie przepisów dotychczasowych zachowują ważność na czas, na jaki zostały wydane, i mogą być wymienione na wniosek zainteresowanego. § 4. W sprawach o wydanie, wymianę lub odnowienie dokumentów kwalifikacyjnych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe. § 5. W sprawach o wydanie zaświadczenia o ukończeniu szkolenia, o którym mowa w § 10a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, dla osób, które rozpoczęły szkolenie przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe. § 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) odnośnika nr 2 oraz § 2–4 rozporządzenia Ministra Infrastruktury z dnia 20 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich (Dz. U. poz. 1018), które stanowią: „ ²⁾ Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2008/106/WE z dnia 19 listopada 2008 r. w sprawie minimalnego poziomu wyszkolenia marynarzy (wersja przekształcona) (Dz. Urz. UE L 323 z 03.12.2008, str. 33, Dz. Urz. UE L 343 z 14.12.2012, str. 78 oraz Dz. Urz. UE L 188 z 12.07.2019, str. 94).” „§ 2. 1. Dyplomy oficera wachtowego na statkach o pojemności brutto 500 i powyżej, starszego oficera na statkach o pojemności brutto od 500 do 3000, starszego oficera na statkach o pojemności brutto 3000 i powyżej, oficera wachtowego żeglugi przybrzeżnej, kapitana żeglugi przybrzeżnej, oficera mechanika wachtowego na statkach o mocy maszyn 750 kW i powyżej, drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW, drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej oraz starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW wydane na podstawie przepisów dotychczasowych zachowują ważność przez okres, na jaki zostały wydane, z zastrzeżeniem ust. 5 i 6. 2. Świadectwo starszego motorzysty oraz dyplom oficera mechanika w żegludze krajowej wydane na podstawie przepisów dotychczasowych zachowują ważność przez okres 5 lat od dnia wejścia w życie niniejszego rozporządzenia. 3. Dyplomy szypra 2 klasy żeglugi krajowej oraz szypra 1 klasy żeglugi krajowej wydane na podstawie przepisów dotychczasowych oraz dyplomy szypra 2 klasy żeglugi krajowej i szypra 1 klasy żeglugi krajowej wydane na podstawie przepisów, o których mowa w § 99 ust. 1, § 100 ust. 1 oraz § 103 ust. 1 rozporządzenia zmienianego w § 1, zachowują ważność przez okres 5 lat od dnia wejścia w życie niniejszego rozporządzenia. 4. Dotychczasowe uprawnienia wynikające z dyplomów i świadectwa, o których mowa w ust. 1–3, zachowują ważność przez okres ważności poszczególnych dokumentów. 5. Dyplomy i świadectwo, o których mowa w ust. 1–3, na wniosek zainteresowanego podlegają wymianie na odpowiednie dyplomy i świadectwo określone w niniejszym rozporządzeniu: 1) dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej – na dyplom oficera wachtowego na statkach o pojemności brutto 500 i powyżej; 2) dyplom starszego oficera na statkach o pojemności brutto od 500 do 3000 – na dyplom starszego oficera na statkach o pojemności brutto od 500 do 3000; 3) dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej – na dyplom starszego oficera na statkach o pojemności brutto 3000 i powyżej; 4) dyplom oficera wachtowego żeglugi przybrzeżnej – na dyplom oficera wachtowego żeglugi przybrzeżnej; 5) dyplom kapitana żeglugi przybrzeżnej – na dyplom kapitana żeglugi przybrzeżnej; 6) dyplom oficera mechanika wachtowego na statkach o mocy maszyn 750 kW i powyżej – na dyplom oficera mechanika wachtowego na statkach o mocy maszyn 750 kW i powyżej; 7) dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW – na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW; 8) dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej – na dyplom drugiego oficera mechanika na statkach o mocy maszyn głównych 3000 kW i powyżej; 9) dyplom starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW – na dyplom starszego oficera mechanika na statkach o mocy maszyn głównych od 750 kW do 3000 kW; 10) świadectwo starszego motorzysty – na świadectwo starszego motorzysty; 11) dyplom szypra 2 klasy żeglugi krajowej – na dyplom szypra 2 klasy żeglugi krajowej; 12) dyplom szypra 1 klasy żeglugi krajowej – na dyplom szypra 1 klasy żeglugi krajowej; 13) dyplom oficera mechanika w żegludze krajowej – na dyplom oficera mechanika w żegludze krajowej. 6. Wymianę i odnowienie dokumentów, o których mowa w ust. 5 pkt 1–9, przeprowadza się na zasadach określonych w § 96 rozporządzenia zmienianego w § 1. 7. Wniosek, o którym mowa w ust. 5, zawiera dane identyfikacyjne wnioskodawcy: 1) nazwisko i imię (imiona); 2) datę i miejsce urodzenia; 3) adres zamieszkania; 4) obywatelstwo; 5) płeć; 6) nr telefonu lub adres poczty elektronicznej, jeżeli posiada. § 3. W sprawach o wydanie, wymianę lub odnowienie dokumentów kwalifikacyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem. § 4. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Minister Infrastruktury: A. Adamczyk
+ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 23 kwietnia 2018 r.
 w sprawie wyszkolenia i kwalifikacji członków załóg statków morskich Na podstawie art. 68 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515, 1604, 2185 i 2687 oraz z 2023 r. poz. 261) zarządza się, co następuje:
 § 1. 1. Rozporządzenie określa:
 1) szczegółowe wymagania kwalifikacyjne do zajmowania stanowisk na statkach morskich, w tym również na statkach nieobjętych umowami, o których mowa w art. 62 ust. 1 pkt 1–4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwanej dalej „ustawą”;
@@ -797,7 +765,43 @@ w sprawie wyszkolenia i kwalifikacji zawodowych marynarzy oraz rozporządzenia M
 § 110. 1. Posiadanie zaświadczenia o ukończeniu programu szkolenia na poziomie pomocniczym, o którym mowa w § 14 pkt 1, § 20 ust. 1 pkt 1 i 2 oraz § 22 ust. 1 pkt 1 i 2, nie dotyczy osób, które rozpoczęły to szkolenie przed dniem 25 listopada 2015 r.
 2. Przepisy rozporządzenia odnoszące się do uczniów szkół ponadpodstawowych stosuje się również do uczniów szkół ponadgimnazjalnych i klas dotychczasowych szkół ponadgimnazjalnych do dnia ukończenia tych szkół przez uczniów rozpoczynających naukę w roku szkolnym 2019/2020.
 § 111. Rozporządzenie wchodzi w życie z dniem ogłoszenia , z wyjątkiem § 79 i § 85, które wchodzą w życie z dniem 1 lipca 2018 r.
-Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 23 2018 r. (Dz. U. z 2023 r. poz. ) Załącznik W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 3.
+
+### DZIAŁ I Przepisy ogólne
+
+### DZIAŁ II Kwalifikacje nieoficerskie
+
+#### Rozdział 1 Dział pokładowy statków morskich
+
+#### Rozdział 2 Dział maszynowy statków morskich
+
+#### Rozdział 3 Kucharze okrętowi
+
+### DZIAŁ III Kwalifikacje oficerskie
+
+#### Rozdział 1 Dział pokładowy w żegludze międzynarodowej
+
+#### Rozdział 2 Dział pokładowy w żegludze przybrzeżnej
+
+#### Rozdział 3 Dział pokładowy w żegludze krajowej
+
+#### Rozdział 4 Dział maszynowy w żegludze międzynarodowej
+
+#### Rozdział 5 Dział maszynowy w żegludze krajowej
+
+### DZIAŁ IV Kwalifikacje zawodowe w rybołówstwie morskim
+
+### DZIAŁ V Świadectwa dodatkowych przeszkoleń i warunki ich odnawiania
+
+#### Rozdział 1 Przeszkolenia w zakresie bezpieczeństwa i ochrony
+
+#### Rozdział 2 Dodatkowe przeszkolenia specjalistyczne
+
+### DZIAŁ VI Sposób zaliczania praktyki pływania na poszczególnych typach statków, okresy ważności i warunki odnawiania świadectw i dyplomów, sposób ewidencji dokumentów kwalifikacyjnych
+
+### DZIAŁ VII Przepisy przejściowe i końcowe
+
+## Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 23 2018 r. (Dz. U. z 2023 r. poz. ) Załącznik W brzmieniu ustalonym przez § 1 pkt 15 rozporządzenia, o którym mowa w odnośniku 3.
+
 Dziennik Ustaw – 48 – Załącznik Poz. 1383 nr 2 ZEZWOLENIE DISPENSATION ZEZWOLENIE DISPENSATION Załącznik nr 3 ŚWIADECTWO MŁODSZEGO MARYNARZA POKŁADOWEGO DECK HAND CERTIFICATE ŚWIADECTWO MARYNARZA WACHTOWEGO RATING FORMING PART OF NAVIGATIONAL WATCH CERTIFICATE ŚWIADECTWO STARSZEGO MARYNARZA RATING AS ABLE SEAFARER DECK CERTIFICATE Załącznik ŚWIADECTWO MŁODSZEGO MOTORZYSTY WIPER CERTIFICATE Ze zmianami wprowadzonymi przez § 1 pkt 18 rozporządzenia, o którym mowa w odnośniku 3, oraz przez § rozporządzenia, o którym mowa w odnośniku 4.
 ŚWIADECTWO ELEKTROMONTERA ELECTRO-TECHNICAL RATING CERTIFICATE Załącznik ŚWIADECTWO MŁODSZEGO KUCHARZA OKRĘTOWEGO COOK ASSISTANT CERTIFICATE Ze zmianą wprowadzoną przez § 1 pkt 19 rozporządzenia, o którym mowa w odnośniku 3.
 ŚWIADECTWO KUCHARZA OKRĘTOWEGO COOK CERTIFICATE Załącznik DYPLOM OFICERA WACHTOWEGO W brzmieniu ustalonym przez § 1 pkt 20 rozporządzenia, o którym mowa w odnośniku 3; ze zmianą wprowadzoną 13 rozporządzenia, o którym mowa w odnośniku 4.
@@ -847,38 +851,4 @@ W/w marynarz był zatrudniony przez: ...........................................
 ......................................................................................................................................................
 Dodatkowe informacje o statku, obowiązkach lub rejonach żeglugi: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… Kapitan/Master .......................................................
 Pieczątka statku / Ship's stamp – 143 – Załącznik do rozporządzenia zmieniającego rozporządzenie w prawie kwalifikacji członków załóg statków Załącznik nr morskich NAZWA MORSKIEJ JEDNOSTKI EDUKACYJNEJ WYSTAWIAJĄCEJ ZAŚWIADCZENIE Zaświadczenie nr …… o ukończeniu szkolenia Dodany przez § 1 pkt 25 rozporządzenia, o którym mowa w odnośniku 3.
-
-### DZIAŁ I Przepisy ogólne
-
-### DZIAŁ II Kwalifikacje nieoficerskie
-
-#### Rozdział 1 Dział pokładowy statków morskich
-
-#### Rozdział 2 Dział maszynowy statków morskich
-
-#### Rozdział 3 Kucharze okrętowi
-
-### DZIAŁ III Kwalifikacje oficerskie
-
-#### Rozdział 1 Dział pokładowy w żegludze międzynarodowej
-
-#### Rozdział 2 Dział pokładowy w żegludze przybrzeżnej
-
-#### Rozdział 3 Dział pokładowy w żegludze krajowej
-
-#### Rozdział 4 Dział maszynowy w żegludze międzynarodowej
-
-#### Rozdział 5 Dział maszynowy w żegludze krajowej
-
-### DZIAŁ IV Kwalifikacje zawodowe w rybołówstwie morskim
-
-### DZIAŁ V Świadectwa dodatkowych przeszkoleń i warunki ich odnawiania
-
-#### Rozdział 1 Przeszkolenia w zakresie bezpieczeństwa i ochrony
-
-#### Rozdział 2 Dodatkowe przeszkolenia specjalistyczne
-
-### DZIAŁ VI Sposób zaliczania praktyki pływania na poszczególnych typach statków, okresy ważności i warunki odnawiania świadectw i dyplomów, sposób ewidencji dokumentów kwalifikacyjnych
-
-### DZIAŁ VII Przepisy przejściowe i końcowe
 

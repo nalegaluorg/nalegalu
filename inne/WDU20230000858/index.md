@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Zagranicznych w sprawie rejestrów Kart Polaka
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Zagranicznych z dnia 22 grudnia 2017 r. w sprawie rejestrów Kart Polaka (Dz. U. poz. 2475), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Zagranicznych z dnia 7 stycznia 2020 r.
 zmieniającym rozporządzenie w sprawie rejestrów Kart Polaka (Dz. U. poz. 32).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Zagranicznych z dnia 7 stycznia 2020 r. zmieniającego rozporządzenie w sprawie rejestrów Kart Polaka (Dz. U. poz. 32), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Spraw Zagranicznych: Z. Rau ROZPORZĄDZENIE MINISTRA SPRAW ZAGRANICZNYCH z dnia 22 grudnia 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Zagranicznych z dnia 7 stycznia 2020 r. zmieniającego rozporządzenie w sprawie rejestrów Kart Polaka (Dz. U. poz. 32), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Spraw Zagranicznych: Z. Rau
+ROZPORZĄDZENIE MINISTRA SPRAW ZAGRANICZNYCH z dnia 22 grudnia 2017 r.
 w sprawie rejestrów Kart Polaka Na podstawie art. 24 ust. 2 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2023 r. poz. 192) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób prowadzenia rejestru złożonych wniosków o przyznanie Karty Polaka lub przedłużenie jej ważności, decyzji wydanych w tych sprawach, przyznanych i unieważnionych Kart Polaka oraz Kart Polaka, które utraciły ważność z mocy prawa, zwanego dalej „rejestrem lokalnym”;

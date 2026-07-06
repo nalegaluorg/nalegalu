@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie określenia wzorców dotyczących spółki jawnej udostępnionych w systemie teleinformatycznym
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Sprawiedliwości z dnia 14 stycznia 2015 r. w sprawie określenia wzorców dotyczących spółki jawnej udostępnionych w systemie teleinformatycznym (Dz. U. poz. 68), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Sprawiedliwości z dnia 8 stycznia 2016 r. zmieniającym rozporządzenie w sprawie określenia wzorców dotyczących spółki jawnej udostępnionych w systemie teleinformatycznym (Dz. U. poz. 111).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 8 stycznia 2016 r. zmieniającego rozporządzenie w sprawie określenia wzorców dotyczących spółki jawnej udostępnionych w systemie teleinformatycznym (Dz. U. poz. 111), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.”.
-Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 14 stycznia 2015 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 8 stycznia 2016 r. zmieniającego rozporządzenie w sprawie określenia wzorców dotyczących spółki jawnej udostępnionych w systemie teleinformatycznym (Dz. U. poz. 111), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.”. Minister Sprawiedliwości: Z. Ziobro
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 14 stycznia 2015 r.
 w sprawie określenia wzorców dotyczących spółki jawnej udostępnionych w systemie teleinformatycznym Na podstawie art. 23 § 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2016 r. poz. 1578, 1579, 2255 i 2260 oraz z 2017 r. poz. 791) zarządza się, co następuje:
 § 1. 1. Ustala się następujące wzorce dotyczące spółki jawnej udostępnione w systemie teleinformatycznym:
 1) wzorzec umowy spółki jawnej, zwany dalej „wzorcem umowy”, stanowiący załącznik nr 1 do rozporządzenia;
@@ -54,7 +54,9 @@ w sprawie określenia wzorców dotyczących spółki jawnej udostępnionych w sy
 § 9. Umowa spółki zawarta przy wykorzystaniu wzorca umowy podlega zmianom w zakresie postanowień przewidzianych we wzorcu określonym w załączniku nr 2, w tym również w zakresie możliwości wyboru innego wariantu postanowienia umownego, z wyjątkiem postanowień § 1 i § 13 ust. 2 wzorca umowy.
 § 10. Po podpisaniu dokumentu sporządzonego przy wykorzystaniu wzorca, w dokumencie pochodzącym z systemu teleinformatycznego umieszczana jest informacja o osobie podpisującej wraz z oznaczeniem rodzaju podpisu.
 § 11. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia , z wyjątkiem § 1 ust. 1 pkt 2, 6 i 7 oraz § 9, które wchodzą w życie z dniem 1 kwietnia 2016 r.
-Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 8 stycznia 2016 r. (poz.
+
+## Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 8 stycznia 2016 r. (poz.
+
 …) Załącznik nr 1 WZORZEC WZORZEC UMOWY UMOWY SPÓŁKI SPÓŁKI JAWNEJ JAWNEJ Umowa spółki jawnej z dnia …….
 § 1 Stawający:
 1) ………………………………………………………………………………………………………...,

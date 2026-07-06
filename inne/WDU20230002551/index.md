@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Cyfryzacji w sprawie profilu zaufanego i podpisu zaufanego
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Cyfryzacji z dnia 29 czerwca 2020 r. w sprawie profilu zaufanego i podpisu zaufanego (Dz. U. poz. 1194), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Cyfryzacji z dnia 16 czerwca 2021 r. zmieniającym rozporządzenie w sprawie profilu zaufanego i podpisu zaufanego (Dz. U. poz. 1076).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Cyfryzacji z dnia 16 czerwca 2021 r. zmieniającego rozporządzenie w sprawie profilu zaufanego i podpisu zaufanego (Dz. U. poz. 1076), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 17 czerwca 2021 r.”.
-Minister Cyfryzacji: wz. P. Lewandowski ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 29 czerwca 2020 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Cyfryzacji z dnia 16 czerwca 2021 r. zmieniającego rozporządzenie w sprawie profilu zaufanego i podpisu zaufanego (Dz. U. poz. 1076), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 17 czerwca 2021 r.”. Minister Cyfryzacji: wz. P. Lewandowski
+ROZPORZĄDZENIE MINISTRA CYFRYZACJI z dnia 29 czerwca 2020 r.
 w sprawie profilu zaufanego i podpisu zaufanego Na podstawie art. 20d ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703) zarządza się, co następuje:
 § 1. Rozporządzenie określa warunki:
 1) wydawania, przedłużania ważności, wykorzystywania i unieważniania profilu zaufanego, w tym:

@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 11 kwietnia 2011 r. w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. Nr 86, poz. 471), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 21 listopada 2014 r. zmieniającym rozporządzenie w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. poz. 1729).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 21 listopada 2014 r. zmieniającego rozporządzenie w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. poz. 1729), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: E. Kopacz ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 11 kwietnia 2011 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 21 listopada 2014 r. zmieniającego rozporządzenie w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa (Dz. U. poz. 1729), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: E. Kopacz
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 11 kwietnia 2011 r.
 w sprawie organizacji i trybu działania Rządowego Centrum Bezpieczeństwa Na podstawie art. 10 ust. 4 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2013 r. poz. 1166) zarządza się, co następuje:
 § 1. 1. W skład Rządowego Centrum Bezpieczeństwa, zwanego dalej „Centrum”, wchodzą:
 1) kierownictwo:

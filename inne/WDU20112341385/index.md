@@ -93,9 +93,7 @@ source: pdf
 
 **Art. 5.**
 
-1. Rodzina lub osoba samotnie gospodarująca, w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz.
-
-- **1214)** , poszkodowana w wyniku wystąpienia powodzi, w celu zaspokojenia niezbędnej potrzeby bytowej może otrzymać jednorazowy zasiłek powodziowy w kwocie do 2 tys. zł, zwany dalej „zasiłkiem”.
+1. Rodzina lub osoba samotnie gospodarująca, w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214), poszkodowana w wyniku wystąpienia powodzi, w celu zaspokojenia niezbędnej potrzeby bytowej może otrzymać jednorazowy zasiłek powodziowy w kwocie do 2 tys. zł, zwany dalej „zasiłkiem”.
 
 2. Zasiłek jest przyznawany niezależnie od dochodów rodziny lub osoby samotnie gospodarującej, w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej, i nie podlega zwrotowi, z zastrzeżeniem ust. 7.
 
@@ -992,9 +990,7 @@ source: pdf
 
 2. Kredyt uzyskany na podstawie przepisów ustawy z dnia 8 lipca 1999 r. o dopłatach do oprocentowania kredytów bankowych udzielonych na usuwanie skutków powodzi nie może zostać przeznaczony na spłatę kredytu lub pożyczki udzielanej ze środków publicznych lub z dopłatami do oprocentowania ze środków publicznych.
 
-**Art. 26.** Na wniosek poszkodowanego, będącego kredytobiorcą w rozumieniu ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2024 r. poz.
-
-- **1774)** , którego mieszkanie (dom jednorodzinny) zostało uszkodzone lub zniszczone na skutek powodzi, bank zawiesza spłatę kredytu wraz z odsetkami, bez względu na wysokość dochodu jego gospodarstwa domowego, na okres wskazany we wniosku, jednak nie dłuższy niż rok. Wniosek składa się w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2.
+**Art. 26.** Na wniosek poszkodowanego, będącego kredytobiorcą w rozumieniu ustawy z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2024 r. poz. 1774), którego mieszkanie (dom jednorodzinny) zostało uszkodzone lub zniszczone na skutek powodzi, bank zawiesza spłatę kredytu wraz z odsetkami, bez względu na wysokość dochodu jego gospodarstwa domowego, na okres wskazany we wniosku, jednak nie dłuższy niż rok. Wniosek składa się w terminie określonym w przepisach wydanych na podstawie art. 1 ust. 2.
 
 **Art. 26a.**
 
@@ -1527,7 +1523,7 @@ source: pdf
 
 **Art. 40cb.** W przypadku przeniesienia pacjenta do objęcia opieką przez innego świadczeniodawcę realizującego umowę zawartą z Narodowym Funduszem Zdrowia będącego skutkiem powodzi, w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych i przepisów wydanych na podstawie tej ustawy dotyczących skierowań oraz list oczekujących na udzielenie świadczenia nie stosuje się.
 
-**Art. 40cc.** Gmina poszkodowana w wyniku wystąpienia powodzi, wskazana w przepisach wydanych na podstawie art. 1 ust. 2, albo gmina z nią sąsiadująca, może przeznaczyć dochody, o których mowa w art. 9 ust. 3 pkt 1, art. 11 , art. 18 lub art. 18 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, na zadania związane z przeciwdziałaniem skutkom powodzi negatywnie wpływającym na realizację gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o których mowa w art. 4 ust. 2 tej ustawy, w szczególności w placówkach wsparcia dziennego, o których mowa w art. 9 pkt 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, i w ośrodkach, o których mowa w art. 3 ust. 1 pkt 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej.
+**Art. 40cc.** Gmina poszkodowana w wyniku wystąpienia powodzi, wskazana w przepisach wydanych na podstawie art. 1 ust. 2, albo gmina z nią sąsiadująca, może przeznaczyć dochody, o których mowa w art. 9 ust. 3 pkt 1, art. 11 1 , art. 18 lub art. 18 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), w okresie wskazanym w przepisach wydanych na podstawie art. 1 ust. 2, na zadania związane z przeciwdziałaniem skutkom powodzi negatywnie wpływającym na realizację gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o których mowa w art. 4 ust. 2 tej ustawy, w szczególności w placówkach wsparcia dziennego, o których mowa w art. 9 pkt 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, i w ośrodkach, o których mowa w art. 3 ust. 1 pkt 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej.
 
 **Art. 40d.**
 

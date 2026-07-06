@@ -26,12 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001900) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1900/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984), z uwzględnieniem zmian wprowadzonych ustawą z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 grudnia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 35 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863), który stanowi: „Art. 35. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 12, który wchodzi w życie z dniem 1 stycznia 2025 r.;
-2) art. 3, który wchodzi w życie z dniem 1 kwietnia 2025 r.;
-3) art. 13, który wchodzi w życie z dniem 22 czerwca 2025 r.;
-4) art. 10, który wchodzi w życie z dniem 1 lipca 2025 r.”.
-Marszałek Sejmu: W. Czarzasty
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 35 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863), który stanowi: „ Art. 35. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 12, który wchodzi w życie z dniem 1 stycznia 2025 r.; 2) art. 3, który wchodzi w życie z dniem 1 kwietnia 2025 r.; 3) art. 13, który wchodzi w życie z dniem 22 czerwca 2025 r.; 4) art. 10, który wchodzi w życie z dniem 1 lipca 2025 r.”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 7 lipca 2022 r.
 o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom
 

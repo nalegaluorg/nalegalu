@@ -254,7 +254,7 @@ source: pdf
 
 **Art. 21.**
 
-1. Do umów o pracę zawartych między agencją pracy tymczasowej a pracownikiem tymczasowym nie stosuje się art. 25 , art. 30 § 4, art. 38 § 1 i art. 45 § 1 Kodeksu pracy.
+1. Do umów o pracę zawartych między agencją pracy tymczasowej a pracownikiem tymczasowym nie stosuje się art. 25 1 , art. 30 § 4, art. 38 § 1 i art. 45 § 1 Kodeksu pracy.
 
 2. Jeżeli wypowiedzenie umowy o pracę pracownikowi tymczasowemu nastąpiło z naruszeniem przepisów o wypowiadaniu takiej umowy, pracownikowi przysługuje wyłącznie odszkodowanie.
 

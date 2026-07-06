@@ -169,7 +169,11 @@ source: pdf
 
 § 2. Wynagrodzenie, o którym mowa w § 1, obejmuje wszystkie składniki wynagrodzenia, bez względu na ich nazwę i charakter, a także inne świadczenia związane z pracą, przyznawane pracownikom w formie pieniężnej lub w innej formie niż pieniężna.
 
-§ 3. Pracami o jednakowej wartości są prace, których wykonywanie wymaga od pracowników porównywalnych kwalifikacji zawodowych, potwierdzonych dokumentami przewidzianymi w odrębnych przepisach lub praktyką i doświadczeniem zawodowym, a także porównywalnej odpowiedzialności i wysiłku. Art. 18 3ca . § 1. Osoba ubiegająca się o zatrudnienie na danym stanowisku otrzymuje od pracodawcy informację o:
+§ 3. Pracami o jednakowej wartości są prace, których wykonywanie wymaga od pracowników porównywalnych kwalifikacji zawodowych, potwierdzonych dokumentami przewidzianymi w odrębnych przepisach lub praktyką i doświadczeniem zawodowym, a także porównywalnej odpowiedzialności i wysiłku.
+
+**Art. 18³ca.**
+
+§ 1. Osoba ubiegająca się o zatrudnienie na danym stanowisku otrzymuje od pracodawcy informację o:
 
 - **1)** wynagrodzeniu, o którym mowa w art. 18 § 2, jego początkowej wysokości lub jego przedziale – opartym na obiektywnych, neutralnych kryteriach, w szczególności pod względem płci, oraz
 - **2)** odpowiednich postanowieniach układu zbiorowego pracy lub regulaminu wynagradzania – w przypadku gdy pracodawca jest objęty układem zbiorowym pracy lub obowiązuje u niego regulamin wynagradzania.
@@ -218,9 +222,9 @@ source: pdf
 
 § 1. Przez nawiązanie stosunku pracy pracownik zobowiązuje się do wykonywania pracy określonego rodzaju na rzecz pracodawcy i pod jego kierownictwem oraz w miejscu i czasie wyznaczonym przez pracodawcę, a pracodawca – do zatrudniania pracownika za wynagrodzeniem.
 
-§ 1. Zatrudnienie w warunkach określonych w § 1 jest zatrudnieniem na podstawie stosunku pracy, bez względu na nazwę zawartej przez strony umowy.
+§ 1¹. Zatrudnienie w warunkach określonych w § 1 jest zatrudnieniem na podstawie stosunku pracy, bez względu na nazwę zawartej przez strony umowy.
 
-§ 1. Nie jest dopuszczalne zastąpienie umowy o pracę umową cywilnoprawną przy zachowaniu warunków wykonywania pracy, określonych w § 1.
+§ 1². Nie jest dopuszczalne zastąpienie umowy o pracę umową cywilnoprawną przy zachowaniu warunków wykonywania pracy, określonych w § 1.
 
 § 2. Pracownikiem może być osoba, która ukończyła 18 lat. Na warunkach określonych w dziale dziewiątym pracownikiem może być również osoba, która nie ukończyła 18 lat.
 
@@ -273,7 +277,7 @@ source: pdf
 
 § 2. Kontrola trzeźwości nie może naruszać godności oraz innych dóbr osobistych pracownika.
 
-§ 3. Kontrola trzeźwości jest przeprowadzana przez pracodawcę w sposób ustalony zgodnie z § 10, uwzględniający wymagania wynikające z przepisów wydanych na podstawie art. 22 .
+§ 3. Kontrola trzeźwości jest przeprowadzana przez pracodawcę w sposób ustalony zgodnie z § 10, uwzględniający wymagania wynikające z przepisów wydanych na podstawie art. 22 1g .
 
 § 4. Kontrola trzeźwości obejmuje badanie przy użyciu metod niewymagających badania laboratoryjnego za pomocą urządzenia posiadającego ważny dokument potwierdzający jego kalibrację lub wzorcowanie.
 
@@ -382,13 +386,13 @@ source: pdf
 - **2)** sposób dokumentowania badań przeprowadzanych lub zlecanych przez uprawniony organ powołany do ochrony porządku publicznego,
 - **3)** wykaz środków działających podobnie do alkoholu – mając na uwadze metodykę przeprowadzania takich badań, konieczność zapewnienia ochrony życia i zdrowia pracowników lub innych osób lub ochrony mienia, a także konieczność sprawnego przeprowadzania badań i zagwarantowania wiarygodności wyników badania krwi i moczu przy jednoczesnym poszanowaniu godności oraz innych dóbr osobistych pracownika i zasad ochrony danych osobowych.
 
-**Art. 22¹h.** Przepisy art. 22 –22 oraz przepisy wydane na podstawie art. 22 stosuje się odpowiednio do pracodawców organizujących pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy oraz osoby fizyczne prowadzące na własny rachunek działalność gospodarczą, a także do osób fizycznych wykonujących pracę na innej podstawie niż stosunek pracy oraz osób fizycznych prowadzących na własny rachunek działalność gospodarczą, których praca jest organizowana przez tych pracodawców.
+**Art. 22¹h.** Przepisy art. 22 1c –22 oraz przepisy wydane na podstawie art. 22 stosuje się odpowiednio do pracodawców organizujących pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy oraz osoby fizyczne prowadzące na własny rachunek działalność gospodarczą, a także do osób fizycznych wykonujących pracę na innej podstawie niż stosunek pracy oraz osób fizycznych prowadzących na własny rachunek działalność gospodarczą, których praca jest organizowana przez tych pracodawców.
 
 **Art. 22².**
 
 § 1. Jeżeli jest to niezbędne do zapewnienia bezpieczeństwa pracowników lub ochrony mienia lub kontroli produkcji lub zachowania w tajemnicy informacji, których ujawnienie mogłoby narazić pracodawcę na szkodę, pracodawca może wprowadzić szczególny nadzór nad terenem zakładu pracy lub terenem wokół zakładu pracy w postaci środków technicznych umożliwiających rejestrację obrazu (monitoring).
 
-§ 1. Monitoring nie obejmuje pomieszczeń udostępnianych zakładowej organizacji związkowej.
+§ 1¹. Monitoring nie obejmuje pomieszczeń udostępnianych zakładowej organizacji związkowej.
 
 § 2. Monitoring nie obejmuje pomieszczeń sanitarnych, szatni, stołówek oraz palarni, chyba że stosowanie monitoringu w tych pomieszczeniach jest niezbędne do realizacji celu określonego w § 1 i nie naruszy to godności oraz innych dóbr osobistych pracownika, w szczególności poprzez zastosowanie technik uniemożliwiających rozpoznanie przebywających w tych pomieszczeniach osób. Monitoring pomieszczeń sanitarnych wymaga uzyskania uprzedniej zgody zakładowej organizacji związkowej, a jeżeli u pracodawcy nie działa zakładowa organizacja związkowa – uprzedniej zgody przedstawicieli pracowników wybranych w trybie przyjętym u danego pracodawcy.
 
@@ -456,16 +460,16 @@ source: pdf
 
 § 1. Umowę o pracę zawiera się na okres próbny, na czas określony albo na czas nieokreślony.
 
-§ 2. Umowę o pracę na okres próbny zawiera się na okres nieprzekraczający 3 miesięcy, z zastrzeżeniem § 2 –2 , w celu sprawdzenia kwalifikacji pracownika i możliwości jego zatrudnienia w celu wykonywania określonego rodzaju pracy.
+§ 2. Umowę o pracę na okres próbny zawiera się na okres nieprzekraczający 3 miesięcy, z zastrzeżeniem § 2 1 –2 , w celu sprawdzenia kwalifikacji pracownika i możliwości jego zatrudnienia w celu wykonywania określonego rodzaju pracy.
 
-§ 2. Strony mogą uzgodnić w umowie o pracę na okres próbny, że umowę tę przedłuża się o czas urlopu, a także o czas innej usprawiedliwionej nieobecności pracownika w pracy, jeżeli wystąpią takie nieobecności.
+§ 2¹. Strony mogą uzgodnić w umowie o pracę na okres próbny, że umowę tę przedłuża się o czas urlopu, a także o czas innej usprawiedliwionej nieobecności pracownika w pracy, jeżeli wystąpią takie nieobecności.
 
-§ 2. Umowę o pracę na okres próbny zawiera się na okres nieprzekraczający:
+§ 2². Umowę o pracę na okres próbny zawiera się na okres nieprzekraczający:
 
 - **1)** 1 miesiąca – w przypadku zamiaru zawarcia umowy o pracę na czas określony krótszy niż 6 miesięcy;
 - **2)** 2 miesięcy – w przypadku zamiaru zawarcia umowy o pracę na czas określony wynoszący co najmniej 6 miesięcy i krótszy niż 12 miesięcy.
 
-§ 2. Strony mogą jednokrotnie wydłużyć w umowie o pracę na okres próbny okresy, o których mowa w § 2 , nie więcej jednak niż o 1 miesiąc, jeżeli jest to uzasadnione rodzajem pracy.
+§ 2³. Strony mogą jednokrotnie wydłużyć w umowie o pracę na okres próbny okresy, o których mowa w § 2 2 , nie więcej jednak niż o 1 miesiąc, jeżeli jest to uzasadnione rodzajem pracy.
 
 § 3. Ponowne zawarcie umowy o pracę na okres próbny z tym samym pracownikiem jest dopuszczalne, jeżeli pracownik ma być zatrudniony w celu wykonywania innego rodzaju pracy.
 
@@ -484,7 +488,7 @@ source: pdf
 - **3)** w celu wykonywania pracy przez okres kadencji,
 - **4)** w przypadku gdy pracodawca wskaże obiektywne przyczyny leżące po jego stronie – jeżeli ich zawarcie w danym przypadku służy zaspokojeniu rzeczywistego okresowego zapotrzebowania i jest niezbędne w tym zakresie w świetle wszystkich okoliczności zawarcia umowy.
 
-§ 4. Przepisów § 1 i 3 nie stosuje się w przypadku przedłużenia umowy o pracę do dnia porodu zgodnie z art. 177 § 3.
+§ 4¹. Przepisów § 1 i 3 nie stosuje się w przypadku przedłużenia umowy o pracę do dnia porodu zgodnie z art. 177 § 3.
 
 § 5. Pracodawca zawiadamia właściwego okręgowego inspektora pracy, w formie pisemnej lub elektronicznej, o zawarciu umowy o pracę, o której mowa w § 4 pkt 4, wraz ze wskazaniem przyczyn zawarcia takiej umowy, w terminie 5 dni roboczych od dnia jej zawarcia.
 
@@ -514,11 +518,11 @@ source: pdf
 - **5)** dzień rozpoczęcia pracy;
 - **6)** w przypadku umowy o pracę na okres próbny:
     - **a)** czas jej trwania lub dzień jej zakończenia oraz, gdy strony tak uzgodnią, postanowienie o przedłużeniu umowy o czas urlopu, a także o czas innej usprawiedliwionej nieobecności pracownika w pracy, jeżeli wystąpią takie nieobecności,
-    - **b)** okres, na który strony mają zamiar zawrzeć umowę o pracę na czas określony w przypadku, o którym mowa w art. 25 § 2 , a także postanowienie o wydłużeniu umowy w przypadku, o którym mowa w art. 25 § 2 ;
+    - **b)** okres, na który strony mają zamiar zawrzeć umowę o pracę na czas określony w przypadku, o którym mowa w art. 25 § 2 2 , a także postanowienie o wydłużeniu umowy w przypadku, o którym mowa w art. 25 § 2 3 ;
 
 - **7)** w przypadku umowy o pracę na czas określony – czas jej trwania lub dzień jej zakończenia.
 
-§ 1. W przypadku zawarcia umowy o pracę na czas określony w celu, o którym mowa w art. 25 § 4 pkt 1–3, lub w przypadku, o którym mowa w art. 25 § 4 pkt 4, w umowie określa się ten cel lub okoliczności tego przypadku, przez zamieszczenie informacji o obiektywnych przyczynach uzasadniających zawarcie takiej umowy.
+§ 1¹. W przypadku zawarcia umowy o pracę na czas określony w celu, o którym mowa w art. 25 § 4 pkt 1–3, lub w przypadku, o którym mowa w art. 25 § 4 pkt 4, w umowie określa się ten cel lub okoliczności tego przypadku, przez zamieszczenie informacji o obiektywnych przyczynach uzasadniających zawarcie takiej umowy.
 
 § 2. Umowę o pracę zawiera się na piśmie. Jeżeli umowa o pracę nie została zawarta z zachowaniem formy pisemnej, pracodawca przed dopuszczeniem pracownika do pracy potwierdza pracownikowi na piśmie ustalenia co do stron umowy, rodzaju umowy oraz jej warunków.
 
@@ -541,13 +545,13 @@ source: pdf
 
 - **2)** nie później niż w terminie 30 dni od dnia dopuszczenia pracownika do pracy, o nazwie instytucji zabezpieczenia społecznego, do których wpływają składki na ubezpieczenia społeczne związane ze stosunkiem pracy oraz informacje na temat ochrony związanej z zabezpieczeniem społecznym, zapewnianej przez pracodawcę; nie dotyczy to przypadku, w którym pracownik dokonuje wyboru instytucji zabezpieczenia społecznego.
 
-§ 3. Poinformowanie pracownika o warunkach zatrudnienia, o których mowa w § 3 pkt 1 lit. a–f, h–k i pkt 2, może nastąpić przez wskazanie w postaci papierowej lub elektronicznej odpowiednich przepisów prawa pracy oraz prawa ubezpieczeń społecznych.
+§ 3¹. Poinformowanie pracownika o warunkach zatrudnienia, o których mowa w § 3 pkt 1 lit. a–f, h–k i pkt 2, może nastąpić przez wskazanie w postaci papierowej lub elektronicznej odpowiednich przepisów prawa pracy oraz prawa ubezpieczeń społecznych.
 
-§ 3. Pracodawca informuje pracownika w postaci papierowej lub elektronicznej o zmianie adresu swojej siedziby, a w przypadku pracodawcy będącego osobą fizyczną nieposiadającego siedziby – adresu zamieszkania, nie później niż w terminie 7 dni od dnia zmiany adresu.
+§ 3². Pracodawca informuje pracownika w postaci papierowej lub elektronicznej o zmianie adresu swojej siedziby, a w przypadku pracodawcy będącego osobą fizyczną nieposiadającego siedziby – adresu zamieszkania, nie później niż w terminie 7 dni od dnia zmiany adresu.
 
-§ 3. Pracodawca informuje pracownika w postaci papierowej lub elektronicznej o zmianie warunków zatrudnienia, o których mowa w § 3, a także o objęciu pracownika układem zbiorowym pracy lub innym porozumieniem zbiorowym niezwłocznie, nie później jednak niż w dniu, w którym taka zmiana ma zastosowanie do pracownika. Nie dotyczy to przypadku, w którym zmiana warunków zatrudnienia wynika ze zmiany przepisów prawa pracy oraz prawa ubezpieczeń społecznych, jeżeli przepisy te zostały wskazane w informacji przekazanej pracownikowi.
+§ 3³. Pracodawca informuje pracownika w postaci papierowej lub elektronicznej o zmianie warunków zatrudnienia, o których mowa w § 3, a także o objęciu pracownika układem zbiorowym pracy lub innym porozumieniem zbiorowym niezwłocznie, nie później jednak niż w dniu, w którym taka zmiana ma zastosowanie do pracownika. Nie dotyczy to przypadku, w którym zmiana warunków zatrudnienia wynika ze zmiany przepisów prawa pracy oraz prawa ubezpieczeń społecznych, jeżeli przepisy te zostały wskazane w informacji przekazanej pracownikowi.
 
-§ 3. Informacje, o których mowa w § 3–3 , pracodawca może przekazać pracownikowi w postaci elektronicznej, jeżeli będą dostępne dla pracownika z możliwością ich wydrukowania oraz przechowywania, a pracodawca zachowa dowód ich przekazania lub otrzymania przez pracownika.
+§ 3⁴. Informacje, o których mowa w § 3–3 , pracodawca może przekazać pracownikowi w postaci elektronicznej, jeżeli będą dostępne dla pracownika z możliwością ich wydrukowania oraz przechowywania, a pracodawca zachowa dowód ich przekazania lub otrzymania przez pracownika.
 
 § 4. Zmiana warunków umowy o pracę wymaga formy pisemnej.
 
@@ -570,7 +574,7 @@ source: pdf
 
 § 4. Pracodawca informuje pracownika w postaci papierowej lub elektronicznej o zmianie warunków zatrudnienia, o których mowa w § 2, niezwłocznie, nie później jednak niż w dniu, w którym taka zmiana ma zastosowanie do pracownika. Nie dotyczy to przypadku, w którym zmiana warunków zatrudnienia wynika ze zmiany przepisów prawa pracy, jeżeli przepisy te zostały wskazane w informacji przekazanej pracownikowi.
 
-§ 5. (uchylony) § 5 . Do informacji, o których mowa w § 2 i 3, przepis art. 29 § 3 stosuje się odpowiednio.
+§ 5. (uchylony) § 5 1 . Do informacji, o których mowa w § 2 i 3, przepis art. 29 § 3 stosuje się odpowiednio.
 
 § 6. Przepisy § 2–4 i 5 stosuje się odpowiednio do stosunków pracy nawiązanych na innej podstawie niż umowa o pracę.
 
@@ -582,7 +586,7 @@ source: pdf
 
 **Art. 29³.**
 
-§ 1. Pracownik zatrudniony u danego pracodawcy co najmniej 6 miesięcy może raz w roku kalendarzowym wystąpić do pracodawcy z wnioskiem, złożonym w postaci papierowej lub elektronicznej, o zmianę rodzaju umowy o pracę na umowę o pracę na czas nieokreślony lub o bardziej przewidywalne i bezpieczne warunki pracy, w tym polegające na zmianie rodzaju pracy lub zatrudnieniu w pełnym wymiarze czasu pracy. Nie dotyczy to pracownika zatrudnionego na podstawie umowy o pracę na okres próbny. Do okresu zatrudnienia pracownika u danego pracodawcy wlicza się pracownikowi okres zatrudnienia u poprzedniego pracodawcy, jeżeli zmiana pracodawcy nastąpiła na zasadach określonych w art. 23 , a także w innych przypadkach, gdy z mocy odrębnych przepisów nowy pracodawca jest następcą prawnym w stosunkach pracy nawiązanych przez pracodawcę poprzednio zatrudniającego tego pracownika.
+§ 1. Pracownik zatrudniony u danego pracodawcy co najmniej 6 miesięcy może raz w roku kalendarzowym wystąpić do pracodawcy z wnioskiem, złożonym w postaci papierowej lub elektronicznej, o zmianę rodzaju umowy o pracę na umowę o pracę na czas nieokreślony lub o bardziej przewidywalne i bezpieczne warunki pracy, w tym polegające na zmianie rodzaju pracy lub zatrudnieniu w pełnym wymiarze czasu pracy. Nie dotyczy to pracownika zatrudnionego na podstawie umowy o pracę na okres próbny. Do okresu zatrudnienia pracownika u danego pracodawcy wlicza się pracownikowi okres zatrudnienia u poprzedniego pracodawcy, jeżeli zmiana pracodawcy nastąpiła na zasadach określonych w art. 23 1 , a także w innych przypadkach, gdy z mocy odrębnych przepisów nowy pracodawca jest następcą prawnym w stosunkach pracy nawiązanych przez pracodawcę poprzednio zatrudniającego tego pracownika.
 
 § 2. Pracodawca powinien, w miarę możliwości, uwzględnić wniosek pracownika, o którym mowa w § 1.
 
@@ -595,11 +599,11 @@ source: pdf
 - **1)** wystąpienie przez pracownika z wnioskiem, o którym mowa w art. 29 § 1;
 - **2)** jednoczesne pozostawanie w stosunku pracy z innym pracodawcą lub jednoczesne pozostawanie w stosunku prawnym będącym podstawą świadczenia pracy innym niż stosunek pracy, chyba że ograniczenia w tym zakresie wynikają z odrębnych przepisów albo zachodzi przypadek określony w art. 101 § 1;
 - **3)** dochodzenie przez pracownika udzielenia informacji, o których mowa w art. 29 § 3, 3 i 3 oraz art. 29 § 2 i 4;
-- **4)** skorzystanie z praw, o których mowa w art. 94 .
+- **4)** skorzystanie z praw, o których mowa w art. 94 13 .
 
 § 2. Pracodawca udowodni, że przy rozwiązywaniu umowy o pracę lub zastosowaniu działania mającego skutek równoważny z rozwiązaniem umowy o pracę kierował się powodami innymi niż wskazane w § 1.
 
-§ 3. Jeżeli pracownik uważa, że przyczyną rozwiązania umowy o pracę na okres próbny za wypowiedzeniem albo zastosowania działania mającego skutek równoważny z rozwiązaniem umowy o pracę było jednoczesne pozostawanie w stosunku pracy z innym pracodawcą lub jednoczesne pozostawanie w stosunku prawnym innym niż stosunek pracy, lub dochodzenie udzielenia informacji, o których mowa w art. 29 § 3, 3 i 3 oraz art. 29 § 2 i 4, lub skorzystanie z praw, o których mowa w art. 94 , może, w terminie 7 dni od dnia złożenia oświadczenia woli pracodawcy o rozwiązaniu umowy o pracę na okres próbny za wypowiedzeniem albo zastosowania działania mającego skutek równoważny z rozwiązaniem umowy o pracę, złożyć do pracodawcy wniosek w postaci papierowej lub elektronicznej o wskazanie przyczyny uzasadniającej to rozwiązanie umowy o pracę albo zastosowanie działania.
+§ 3. Jeżeli pracownik uważa, że przyczyną rozwiązania umowy o pracę na okres próbny za wypowiedzeniem albo zastosowania działania mającego skutek równoważny z rozwiązaniem umowy o pracę było jednoczesne pozostawanie w stosunku pracy z innym pracodawcą lub jednoczesne pozostawanie w stosunku prawnym innym niż stosunek pracy, lub dochodzenie udzielenia informacji, o których mowa w art. 29 § 3, 3 i 3 oraz art. 29 § 2 i 4, lub skorzystanie z praw, o których mowa w art. 94 13 , może, w terminie 7 dni od dnia złożenia oświadczenia woli pracodawcy o rozwiązaniu umowy o pracę na okres próbny za wypowiedzeniem albo zastosowania działania mającego skutek równoważny z rozwiązaniem umowy o pracę, złożyć do pracodawcy wniosek w postaci papierowej lub elektronicznej o wskazanie przyczyny uzasadniającej to rozwiązanie umowy o pracę albo zastosowanie działania.
 
 § 4. Pracodawca udziela pracownikowi odpowiedzi na wniosek, o którym mowa w § 3, w postaci papierowej lub elektronicznej w terminie 7 dni od dnia złożenia przez pracownika wniosku.
 
@@ -617,7 +621,7 @@ source: pdf
 
 § 2. Umowa o pracę na okres próbny rozwiązuje się z upływem tego okresu, a przed jego upływem może być rozwiązana za wypowiedzeniem.
 
-§ 2. Okres wypowiedzenia umowy o pracę obejmujący tydzień lub miesiąc albo ich wielokrotność kończy się odpowiednio w sobotę lub w ostatnim dniu miesiąca.
+§ 2¹. Okres wypowiedzenia umowy o pracę obejmujący tydzień lub miesiąc albo ich wielokrotność kończy się odpowiednio w sobotę lub w ostatnim dniu miesiąca.
 
 § 3. Oświadczenie każdej ze stron o wypowiedzeniu lub rozwiązaniu umowy o pracę bez wypowiedzenia powinno nastąpić na piśmie.
 
@@ -655,7 +659,7 @@ source: pdf
 - **2)** 1 miesiąc, jeżeli pracownik był zatrudniony co najmniej 6 miesięcy;
 - **3)** 3 miesiące, jeżeli pracownik był zatrudniony co najmniej 3 lata.
 
-§ 1. Do okresu zatrudnienia, o którym mowa w § 1, wlicza się pracownikowi okres zatrudnienia u poprzedniego pracodawcy, jeżeli zmiana pracodawcy nastąpiła na zasadach określonych w art. 23 , a także w innych przypadkach, gdy z mocy odrębnych przepisów nowy pracodawca jest następcą prawnym w stosunkach pracy nawiązanych przez pracodawcę poprzednio zatrudniającego tego pracownika.
+§ 1¹. Do okresu zatrudnienia, o którym mowa w § 1, wlicza się pracownikowi okres zatrudnienia u poprzedniego pracodawcy, jeżeli zmiana pracodawcy nastąpiła na zasadach określonych w art. 23 1 , a także w innych przypadkach, gdy z mocy odrębnych przepisów nowy pracodawca jest następcą prawnym w stosunkach pracy nawiązanych przez pracodawcę poprzednio zatrudniającego tego pracownika.
 
 § 2. (uchylony)
 
@@ -737,7 +741,7 @@ source: pdf
 
 § 2. Sąd pracy może nie uwzględnić żądania pracownika uznania wypowiedzenia za bezskuteczne lub przywrócenia do pracy, jeżeli ustali, że uwzględnienie takiego żądania jest niemożliwe lub niecelowe; w takim przypadku sąd pracy orzeka o odszkodowaniu. Jeżeli przed wydaniem orzeczenia upłynął termin, do którego umowa o pracę zawarta na czas określony miała trwać, lub jeżeli przywrócenie do pracy byłoby niewskazane ze względu na krótki okres, jaki pozostał do upływu tego terminu, pracownikowi przysługuje wyłącznie odszkodowanie.
 
-§ 3. Przepisu § 2 zdanie pierwsze nie stosuje się do pracowników, o których mowa w art. 39 i 177, oraz w przepisach szczególnych dotyczących ochrony pracowników przed wypowiedzeniem lub rozwiązaniem umowy o pracę, chyba że uwzględnienie żądania pracownika przywrócenia do pracy jest niemożliwe z przyczyn określonych w art. 41 ; w takim przypadku sąd pracy orzeka o odszkodowaniu.
+§ 3. Przepisu § 2 zdanie pierwsze nie stosuje się do pracowników, o których mowa w art. 39 i 177, oraz w przepisach szczególnych dotyczących ochrony pracowników przed wypowiedzeniem lub rozwiązaniem umowy o pracę, chyba że uwzględnienie żądania pracownika przywrócenia do pracy jest niemożliwe z przyczyn określonych w art. 41 1 ; w takim przypadku sąd pracy orzeka o odszkodowaniu.
 
 **Art. 46.** (uchylony)
 
@@ -811,7 +815,7 @@ source: pdf
 
 § 1. Pracownik może rozwiązać umowę o pracę bez wypowiedzenia, jeżeli zostanie wydane orzeczenie lekarskie stwierdzające szkodliwy wpływ wykonywanej pracy na zdrowie pracownika, a pracodawca nie przeniesie go w terminie wskazanym w orzeczeniu lekarskim do innej pracy, odpowiedniej ze względu na stan jego zdrowia i kwalifikacje zawodowe.
 
-§ 1. Pracownik może rozwiązać umowę o pracę w trybie określonym w § 1 także wtedy, gdy pracodawca dopuścił się ciężkiego naruszenia podstawowych obowiązków wobec pracownika; w takim przypadku pracownikowi przysługuje odszkodowanie w wysokości wynagrodzenia za okres wypowiedzenia. W przypadku rozwiązania umowy o pracę zawartej na czas określony odszkodowanie przysługuje w wysokości wynagrodzenia za czas, do którego umowa miała trwać, nie więcej jednak niż za okres wypowiedzenia.
+§ 1¹. Pracownik może rozwiązać umowę o pracę w trybie określonym w § 1 także wtedy, gdy pracodawca dopuścił się ciężkiego naruszenia podstawowych obowiązków wobec pracownika; w takim przypadku pracownikowi przysługuje odszkodowanie w wysokości wynagrodzenia za okres wypowiedzenia. W przypadku rozwiązania umowy o pracę zawartej na czas określony odszkodowanie przysługuje w wysokości wynagrodzenia za czas, do którego umowa miała trwać, nie więcej jednak niż za okres wypowiedzenia.
 
 § 2. Oświadczenie pracownika o rozwiązaniu umowy o pracę bez wypowiedzenia powinno nastąpić na piśmie, z podaniem przyczyny uzasadniającej rozwiązanie umowy. Przepis art. 52 § 2 stosuje się odpowiednio.
 
@@ -845,11 +849,11 @@ source: pdf
 
 ##### Oddział 6a Uprawnienia pracodawcy w razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia
 
-**Art. 61¹.** W razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia na podstawie art. 55 § 1 , pracodawcy przysługuje roszczenie o odszkodowanie. O odszkodowaniu orzeka sąd pracy.
+**Art. 61¹.** W razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia na podstawie art. 55 § 1 1 , pracodawcy przysługuje roszczenie o odszkodowanie. O odszkodowaniu orzeka sąd pracy.
 
 **Art. 61².**
 
-§ 1. Odszkodowanie, o którym mowa w art. 61 , przysługuje w wysokości wynagrodzenia pracownika za okres wypowiedzenia. W przypadku rozwiązania umowy o pracę zawartej na czas określony, odszkodowanie przysługuje w wysokości wynagrodzenia za czas, do którego umowa miała trwać, nie więcej jednak niż za okres wypowiedzenia.
+§ 1. Odszkodowanie, o którym mowa w art. 61 1 , przysługuje w wysokości wynagrodzenia pracownika za okres wypowiedzenia. W przypadku rozwiązania umowy o pracę zawartej na czas określony, odszkodowanie przysługuje w wysokości wynagrodzenia za czas, do którego umowa miała trwać, nie więcej jednak niż za okres wypowiedzenia.
 
 § 2. W razie orzeczenia przez sąd pracy o odszkodowaniu, przepisu art. 55 § 3 nie stosuje się.
 
@@ -873,10 +877,10 @@ source: pdf
 
 § 3. Przepis § 1 nie ma zastosowania w przypadku:
 
-- **1)** przejęcia pracownika przez nowego pracodawcę na zasadach określonych w art. 23 ;
+- **1)** przejęcia pracownika przez nowego pracodawcę na zasadach określonych w art. 23 1 ;
 - **2)** ustanowienia zarządu sukcesyjnego z chwilą śmierci pracodawcy, zgodnie z ustawą z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), zwanej dalej „ustawą o zarządzie sukcesyjnym”.
 
-§ 4. W przypadku, o którym mowa w § 3 pkt 2, umowa o pracę z pracownikiem wygasa z dniem wygaśnięcia zarządu sukcesyjnego, chyba że przed tym dniem nastąpiło przejęcie pracownika przez nowego pracodawcę na zasadach określonych w art. 23 .
+§ 4. W przypadku, o którym mowa w § 3 pkt 2, umowa o pracę z pracownikiem wygasa z dniem wygaśnięcia zarządu sukcesyjnego, chyba że przed tym dniem nastąpiło przejęcie pracownika przez nowego pracodawcę na zasadach określonych w art. 23 1 .
 
 § 5. W przypadku gdy zgodnie z ustawą o zarządzie sukcesyjnym nie ustanowiono zarządu sukcesyjnego z chwilą śmierci pracodawcy, umowa o pracę wygasa z upływem 30 dni od dnia śmierci pracodawcy, chyba że przed upływem tego terminu osoba, o której mowa w art. 14 ustawy o zarządzie sukcesyjnym, albo zarządca sukcesyjny uzgodni z pracownikiem, na mocy pisemnego porozumienia stron, że stosunek pracy będzie kontynuowany na dotychczasowych zasadach:
 
@@ -976,7 +980,7 @@ source: pdf
 § 1. W przypadku wykonywania pracy zdalnej na podstawie art. 67 § 1 pkt 1 informacja, o której mowa w art. 29 § 3, obejmuje dodatkowo co najmniej:
 
 - **1)** określenie jednostki organizacyjnej pracodawcy, w której strukturze znajduje się stanowisko pracy pracownika wykonującego pracę zdalną;
-- **2)** wskazanie osoby lub organu, o których mowa w art. 3 , odpowiedzialnych za współpracę z pracownikiem wykonującym pracę zdalną oraz upoważnionych do przeprowadzania kontroli w miejscu wykonywania pracy zdalnej.
+- **2)** wskazanie osoby lub organu, o których mowa w art. 3 1 , odpowiedzialnych za współpracę z pracownikiem wykonującym pracę zdalną oraz upoważnionych do przeprowadzania kontroli w miejscu wykonywania pracy zdalnej.
 
 § 2. W przypadku wykonywania pracy zdalnej na podstawie art. 67 § 1 pkt 2 oraz § 3 pracodawca przekazuje pracownikowi informacje określone w § 1, w postaci papierowej lub elektronicznej, najpóźniej w dniu rozpoczęcia przez niego wykonywania pracy zdalnej.
 
@@ -1033,7 +1037,7 @@ source: pdf
 
 **Art. 67³¹.**
 
-§ 1. Pracodawca realizuje w stosunku do pracownika w czasie wykonywania przez niego pracy zdalnej obowiązki w zakresie wynikającym z rodzaju i warunków wykonywanej pracy określone w dziale dziesiątym, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 , art. 212 pkt 1 i 4, art. 213, art. 214, art. 232 i art. 233.
+§ 1. Pracodawca realizuje w stosunku do pracownika w czasie wykonywania przez niego pracy zdalnej obowiązki w zakresie wynikającym z rodzaju i warunków wykonywanej pracy określone w dziale dziesiątym, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 209 1 , art. 212 pkt 1 i 4, art. 213, art. 214, art. 232 i art. 233.
 
 § 2. W przypadku, o którym mowa w art. 67 § 1 pkt 1, szkolenie wstępne w dziedzinie bezpieczeństwa i higieny pracy osoby przyjmowanej do pracy na stanowisko administracyjno-biurowe może być przeprowadzone w całości za pośrednictwem środków komunikacji elektronicznej. Pracownik potwierdza w postaci papierowej lub elektronicznej ukończenie szkolenia.
 
@@ -1070,7 +1074,7 @@ source: pdf
 
 § 1. Praca zdalna może być wykonywana okazjonalnie, na wniosek pracownika złożony w postaci papierowej lub elektronicznej, w wymiarze nieprzekraczającym 24 dni w roku kalendarzowym.
 
-§ 2. Do pracy zdalnej, o której mowa w § 1, nie stosuje się przepisów art. 67 –67 oraz art. 67 § 3.
+§ 2. Do pracy zdalnej, o której mowa w § 1, nie stosuje się przepisów art. 67 19 –67 oraz art. 67 § 3.
 
 § 3. Kontrola wykonywania pracy zdalnej, o której mowa w § 1, kontrola w zakresie bezpieczeństwa i higieny pracy lub kontrola przestrzegania wymogów w zakresie bezpieczeństwa i ochrony informacji, w tym procedur ochrony danych osobowych, odbywa się na zasadach ustalonych z pracownikiem.
 
@@ -1084,7 +1088,7 @@ source: pdf
 
 § 1. Stosunek pracy nawiązuje się na podstawie powołania w przypadkach określonych w odrębnych przepisach.
 
-§ 1. Stosunek pracy, o którym mowa w § 1, nawiązuje się na czas nieokreślony, a jeżeli na podstawie przepisów szczególnych pracownik został powołany na czas określony, stosunek pracy nawiązuje się na okres objęty powołaniem.
+§ 1¹. Stosunek pracy, o którym mowa w § 1, nawiązuje się na czas nieokreślony, a jeżeli na podstawie przepisów szczególnych pracownik został powołany na czas określony, stosunek pracy nawiązuje się na okres objęty powołaniem.
 
 § 2. (uchylony)
 
@@ -1110,9 +1114,9 @@ source: pdf
 
 § 1. Pracownik zatrudniony na podstawie powołania może być w każdym czasie – niezwłocznie lub w określonym terminie – odwołany ze stanowiska przez organ, który go powołał. Dotyczy to również pracownika, który na podstawie przepisów szczególnych został powołany na stanowisko na czas określony.
 
-§ 1. Odwołanie powinno być dokonane na piśmie.
+§ 1¹. Odwołanie powinno być dokonane na piśmie.
 
-§ 1. Stosunek pracy z pracownikiem odwołanym ze stanowiska rozwiązuje się na zasadach określonych w przepisach niniejszego oddziału, chyba że przepisy szczególne stanowią inaczej.
+§ 1². Stosunek pracy z pracownikiem odwołanym ze stanowiska rozwiązuje się na zasadach określonych w przepisach niniejszego oddziału, chyba że przepisy szczególne stanowią inaczej.
 
 § 2. Odwołanie jest równoznaczne z wypowiedzeniem umowy o pracę. W okresie wypowiedzenia pracownik ma prawo do wynagrodzenia w wysokości przysługującej przed odwołaniem.
 
@@ -1158,15 +1162,15 @@ source: pdf
 
 #### Rozdział I Ustalanie wynagrodzenia za pracę i innych świadczeń związanych z pracą
 
-**Art. 77¹.** Warunki wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą ustalają układy zbiorowe pracy, zgodnie z przepisami ustawy z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych, z zastrzeżeniem przepisów art. 77 –77 .
+**Art. 77¹.** Warunki wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą ustalają układy zbiorowe pracy, zgodnie z przepisami ustawy z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych, z zastrzeżeniem przepisów art. 77 2 –77 .
 
 **Art. 77².**
 
 § 1. Pracodawca zatrudniający co najmniej 50 pracowników, nieobjętych zakładowym układem zbiorowym pracy ani ponadzakładowym układem zbiorowym pracy odpowiadającym wymaganiom określonym w § 3, ustala warunki wynagradzania za pracę w regulaminie wynagradzania.
 
-§ 1. Pracodawca zatrudniający mniej niż 50 pracowników, nieobjętych zakładowym układem zbiorowym pracy ani ponadzakładowym układem zbiorowym pracy odpowiadającym wymaganiom określonym w § 3, może ustalić warunki wynagradzania za pracę w regulaminie wynagradzania.
+§ 1¹. Pracodawca zatrudniający mniej niż 50 pracowników, nieobjętych zakładowym układem zbiorowym pracy ani ponadzakładowym układem zbiorowym pracy odpowiadającym wymaganiom określonym w § 3, może ustalić warunki wynagradzania za pracę w regulaminie wynagradzania.
 
-§ 1. Pracodawca zatrudniający co najmniej 20 i mniej niż 50 pracowników, nieobjętych zakładowym układem zbiorowym pracy ani ponadzakładowym układem zbiorowym pracy odpowiadającym wymaganiom określonym w § 3, ustala warunki wynagradzania za pracę w regulaminie wynagradzania, jeżeli zakładowa organizacja związkowa wystąpi z wnioskiem o jego ustalenie.
+§ 1². Pracodawca zatrudniający co najmniej 20 i mniej niż 50 pracowników, nieobjętych zakładowym układem zbiorowym pracy ani ponadzakładowym układem zbiorowym pracy odpowiadającym wymaganiom określonym w § 3, ustala warunki wynagradzania za pracę w regulaminie wynagradzania, jeżeli zakładowa organizacja związkowa wystąpi z wnioskiem o jego ustalenie.
 
 § 2. W regulaminie wynagradzania pracodawca może ustalić także inne świadczenia związane z pracą i zasady ich przyznawania.
 
@@ -1210,7 +1214,7 @@ source: pdf
 
 § 1. Wynagrodzenie za pracę powinno być tak ustalone, aby odpowiadało w szczególności rodzajowi wykonywanej pracy i kwalifikacjom wymaganym przy jej wykonywaniu, a także uwzględniało ilość i jakość świadczonej pracy.
 
-§ 2. W celu określenia wynagrodzenia za pracę ustala się, w trybie przewidzianym w art. 77 –77 , wysokość oraz zasady przyznawania pracownikom stawek wynagrodzenia za pracę określonego rodzaju lub na określonym stanowisku, a także innych (dodatkowych) składników wynagrodzenia, jeżeli zostały one przewidziane z tytułu wykonywania określonej pracy.
+§ 2. W celu określenia wynagrodzenia za pracę ustala się, w trybie przewidzianym w art. 77 1 –77 , wysokość oraz zasady przyznawania pracownikom stawek wynagrodzenia za pracę określonego rodzaju lub na określonym stanowisku, a także innych (dodatkowych) składników wynagrodzenia, jeżeli zostały one przewidziane z tytułu wykonywania określonej pracy.
 
 **Art. 79.** (uchylony)
 
@@ -1334,7 +1338,7 @@ source: pdf
 - **2)** wypadku w drodze do pracy lub z pracy albo choroby przypadającej w czasie ciąży – w okresie wskazanym w pkt 1 – pracownik zachowuje prawo do 100 % wynagrodzenia;
 - **3)** poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów – w okresie wskazanym w pkt 1 – pracownik zachowuje prawo do 100 % wynagrodzenia.
 
-§ 1. (uchylony)
+§ 1¹. (uchylony)
 
 § 2. Wynagrodzenie, o którym mowa w § 1, oblicza się według zasad obowiązujących przy ustalaniu podstawy wymiaru zasiłku chorobowego i wypłaca za każdy dzień niezdolności do pracy, nie wyłączając dni wolnych od pracy.
 
@@ -1469,7 +1473,7 @@ source: pdf
 - **3)** małżonkowi (wdowie i wdowcowi);
 - **4)** rodzicom, w tym ojczymowi i macosze oraz osobom przysposabiającym.
 
-**Art. 94¹⁰.** W przypadku nieodebrania poprzedniej postaci dokumentacji pracowniczej zgodnie z art. 94 , pracodawca może zniszczyć poprzednią postać takiej dokumentacji.
+**Art. 94¹⁰.** W przypadku nieodebrania poprzedniej postaci dokumentacji pracowniczej zgodnie z art. 94 9 , pracodawca może zniszczyć poprzednią postać takiej dokumentacji.
 
 **Art. 94¹¹.** Dokumentacja pracownicza prowadzona i przechowywana w postaci elektronicznej jest równoważna z dokumentacją pracowniczą prowadzoną i przechowywaną w postaci papierowej.
 
@@ -1488,15 +1492,15 @@ source: pdf
 
 § 1. W związku z rozwiązaniem lub wygaśnięciem stosunku pracy pracodawca jest obowiązany wydać pracownikowi świadectwo pracy w dniu, w którym następuje ustanie stosunku pracy, jeżeli nie zamierza nawiązać z nim kolejnego stosunku pracy w ciągu 7 dni od dnia rozwiązania lub wygaśnięcia poprzedniego stosunku pracy. Jeżeli z przyczyn obiektywnych wydanie świadectwa pracy pracownikowi albo osobie przez niego upoważnionej w tym terminie nie jest możliwe, pracodawca w ciągu 7 dni od dnia upływu tego terminu przesyła świadectwo pracy pracownikowi lub tej osobie za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) albo doręcza je w inny sposób. Świadectwo pracy dotyczy okresu lub okresów zatrudnienia, za które dotychczas nie wydano świadectwa pracy.
 
-§ 1. W przypadku nawiązania z tym samym pracownikiem kolejnego stosunku pracy w ciągu 7 dni od dnia rozwiązania lub wygaśnięcia poprzedniego stosunku pracy, pracodawca jest obowiązany wydać pracownikowi świadectwo pracy wyłącznie na jego wniosek, złożony w postaci papierowej lub elektronicznej; wniosek może być złożony w każdym czasie i dotyczyć wydania świadectwa pracy dotyczącego poprzedniego okresu zatrudnienia albo wszystkich okresów zatrudnienia, za które dotychczas nie wydano świadectwa pracy.
+§ 1¹. W przypadku nawiązania z tym samym pracownikiem kolejnego stosunku pracy w ciągu 7 dni od dnia rozwiązania lub wygaśnięcia poprzedniego stosunku pracy, pracodawca jest obowiązany wydać pracownikowi świadectwo pracy wyłącznie na jego wniosek, złożony w postaci papierowej lub elektronicznej; wniosek może być złożony w każdym czasie i dotyczyć wydania świadectwa pracy dotyczącego poprzedniego okresu zatrudnienia albo wszystkich okresów zatrudnienia, za które dotychczas nie wydano świadectwa pracy.
 
-§ 1. W przypadku, o którym mowa w § 1 , pracodawca jest obowiązany wydać pracownikowi świadectwo pracy w ciągu 7 dni od dnia złożenia wniosku.
+§ 1². W przypadku, o którym mowa w § 1 1 , pracodawca jest obowiązany wydać pracownikowi świadectwo pracy w ciągu 7 dni od dnia złożenia wniosku.
 
-§ 1. Wydanie świadectwa pracy nie może być uzależnione od uprzedniego rozliczenia się pracownika z pracodawcą.
+§ 1³. Wydanie świadectwa pracy nie może być uzależnione od uprzedniego rozliczenia się pracownika z pracodawcą.
 
 § 2. W świadectwie pracy należy podać informacje dotyczące okresu i rodzaju wykonywanej pracy, zajmowanych stanowisk, trybu rozwiązania albo okoliczności wygaśnięcia stosunku pracy, a także inne informacje niezbędne do ustalenia uprawnień pracowniczych i uprawnień z ubezpieczenia społecznego. Ponadto w świadectwie pracy zamieszcza się wzmiankę o zajęciu wynagrodzenia za pracę w myśl przepisów o postępowaniu egzekucyjnym. Na żądanie pracownika w świadectwie pracy należy podać także informację o wysokości i składnikach wynagrodzenia oraz o uzyskanych kwalifikacjach.
 
-§ 2. Pracownik może w ciągu 14 dni od otrzymania świadectwa pracy wystąpić z wnioskiem do pracodawcy o sprostowanie świadectwa pracy. W razie nieuwzględnienia wniosku pracownikowi przysługuje, w ciągu 14 dni od zawiadomienia o odmowie sprostowania świadectwa pracy, prawo wystąpienia z żądaniem jego sprostowania do sądu pracy. W przypadku niezawiadomienia przez pracodawcę o odmowie sprostowania świadectwa pracy, żądanie sprostowania świadectwa pracy wnosi się do sądu pracy.
+§ 2¹. Pracownik może w ciągu 14 dni od otrzymania świadectwa pracy wystąpić z wnioskiem do pracodawcy o sprostowanie świadectwa pracy. W razie nieuwzględnienia wniosku pracownikowi przysługuje, w ciągu 14 dni od zawiadomienia o odmowie sprostowania świadectwa pracy, prawo wystąpienia z żądaniem jego sprostowania do sądu pracy. W przypadku niezawiadomienia przez pracodawcę o odmowie sprostowania świadectwa pracy, żądanie sprostowania świadectwa pracy wnosi się do sądu pracy.
 
 § 3. Jeżeli z orzeczenia sądu pracy wynika, że rozwiązanie z pracownikiem umowy o pracę bez wypowiedzenia z jego winy nastąpiło z naruszeniem przepisów o rozwiązywaniu w tym trybie umów o pracę, pracodawca jest obowiązany zamieścić w świadectwie pracy informację, że rozwiązanie umowy o pracę nastąpiło za wypowiedzeniem dokonanym przez pracodawcę.
 
@@ -1563,7 +1567,7 @@ source: pdf
 
 #### Rozdział III Kwalifikacje zawodowe pracowników
 
-**Art. 102.** Kwalifikacje zawodowe pracowników wymagane do wykonywania pracy określonego rodzaju lub na określonym stanowisku mogą być ustalane w przepisach prawa pracy przewidzianych w art. 77 –77 , w zakresie nieuregulowanym w przepisach szczególnych.
+**Art. 102.** Kwalifikacje zawodowe pracowników wymagane do wykonywania pracy określonego rodzaju lub na określonym stanowisku mogą być ustalane w przepisach prawa pracy przewidzianych w art. 77 1 –77 , w zakresie nieuregulowanym w przepisach szczególnych.
 
 **Art. 103.** (utracił moc)
 
@@ -1602,11 +1606,11 @@ source: pdf
 **Art. 103⁵.** Pracownik podnoszący kwalifikacje zawodowe:
 
 - **1)** który bez uzasadnionych przyczyn nie podejmie podnoszenia kwalifikacji zawodowych albo przerwie podnoszenie tych kwalifikacji,
-- **2)** z którym pracodawca rozwiąże stosunek pracy bez wypowiedzenia z jego winy, w trakcie podnoszenia kwalifikacji zawodowych lub po jego ukończeniu, w terminie określonym w umowie, o której mowa w art. 103 , nie dłuższym niż 3 lata,
-- **3)** który w okresie wskazanym w pkt 2 rozwiąże stosunek pracy za wypowiedzeniem, z wyjątkiem wypowiedzenia umowy o pracę z przyczyn określonych w art. 94 ,
-- **4)** który w okresie wskazanym w pkt 2 rozwiąże stosunek pracy bez wypowiedzenia na podstawie art. 55 lub art. 94 , mimo braku przyczyn określonych w tych przepisach – jest obowiązany do zwrotu kosztów poniesionych przez pracodawcę na ten cel z tytułu dodatkowych świadczeń, w wysokości proporcjonalnej do okresu zatrudnienia po ukończeniu podnoszenia kwalifikacji zawodowych lub okresu zatrudnienia w czasie ich podnoszenia.
+- **2)** z którym pracodawca rozwiąże stosunek pracy bez wypowiedzenia z jego winy, w trakcie podnoszenia kwalifikacji zawodowych lub po jego ukończeniu, w terminie określonym w umowie, o której mowa w art. 103 4 , nie dłuższym niż 3 lata,
+- **3)** który w okresie wskazanym w pkt 2 rozwiąże stosunek pracy za wypowiedzeniem, z wyjątkiem wypowiedzenia umowy o pracę z przyczyn określonych w art. 94 3 ,
+- **4)** który w okresie wskazanym w pkt 2 rozwiąże stosunek pracy bez wypowiedzenia na podstawie art. 55 lub art. 94 3 , mimo braku przyczyn określonych w tych przepisach – jest obowiązany do zwrotu kosztów poniesionych przez pracodawcę na ten cel z tytułu dodatkowych świadczeń, w wysokości proporcjonalnej do okresu zatrudnienia po ukończeniu podnoszenia kwalifikacji zawodowych lub okresu zatrudnienia w czasie ich podnoszenia.
 
-**Art. 103⁶.** Pracownikowi zdobywającemu lub uzupełniającemu wiedzę i umiejętności na zasadach innych, niż określone w art. 103 –103 , mogą być przyznane:
+**Art. 103⁶.** Pracownikowi zdobywającemu lub uzupełniającemu wiedzę i umiejętności na zasadach innych, niż określone w art. 103 1 –103 , mogą być przyznane:
 
 - **1)** zwolnienie z całości lub części dnia pracy bez zachowania prawa do wynagrodzenia,
 - **2)** urlop bezpłatny – w wymiarze ustalonym w porozumieniu zawieranym między pracodawcą i pracownikiem.
@@ -1617,7 +1621,7 @@ source: pdf
 
 § 1. Regulamin pracy ustala organizację i porządek w procesie pracy oraz związane z tym prawa i obowiązki pracodawcy i pracowników.
 
-§ 1. Pracodawca zatrudniający co najmniej 50 pracowników wprowadza regulamin pracy, chyba że w zakresie przewidzianym w § 1 obowiązują postanowienia układu zbiorowego pracy.
+§ 1¹. Pracodawca zatrudniający co najmniej 50 pracowników wprowadza regulamin pracy, chyba że w zakresie przewidzianym w § 1 obowiązują postanowienia układu zbiorowego pracy.
 
 § 2. Pracodawca zatrudniający mniej niż 50 pracowników może wprowadzić regulamin pracy, chyba że w zakresie przewidzianym w § 1 obowiązują postanowienia układu zbiorowego pracy.
 
@@ -1811,7 +1815,7 @@ source: pdf
 
 - **1)** rozkład czasu pracy pracownika wynika z prawa pracy, obwieszczenia, o którym mowa w art. 150 § 1, albo z umowy o pracę;
 - **2)** w porozumieniu z pracownikiem ustali czas niezbędny do wykonania powierzonych zadań, uwzględniając wymiar czasu pracy wynikający z norm określonych w § 1; w takim przypadku rozkład czasu pracy ustala pracownik;
-- **3)** na wniosek pracownika złożony w postaci papierowej lub elektronicznej stosuje do niego rozkłady czasu pracy, o których mowa w art. 140 ;
+- **3)** na wniosek pracownika złożony w postaci papierowej lub elektronicznej stosuje do niego rozkłady czasu pracy, o których mowa w art. 140 1 ;
 - **4)** na wniosek pracownika złożony w postaci papierowej lub elektronicznej ustali mu indywidualny rozkład czasu pracy.
 
 § 5. Jeżeli w danym miesiącu, ze względu na rozkład czasu pracy w przyjętym okresie rozliczeniowym, pracownik nie ma obowiązku wykonywania pracy, przysługuje mu wynagrodzenie w wysokości nie niższej niż minimalne wynagrodzenie za pracę ustalane na podstawie odrębnych przepisów; w przypadku pracownika zatrudnionego w niepełnym wymiarze czasu pracy wysokość tego wynagrodzenia ustala się proporcjonalnie do tego wymiaru czasu pracy.
@@ -1825,7 +1829,7 @@ source: pdf
 
 § 2. Każde święto występujące w okresie rozliczeniowym i przypadające w innym dniu niż niedziela obniża wymiar czasu pracy o 8 godzin.
 
-§ 2. (utracił moc)
+§ 2¹. (utracił moc)
 
 § 3. Wymiar czasu pracy pracownika w okresie rozliczeniowym, ustalony zgodnie z art. 129 § 1, ulega w tym okresie obniżeniu o liczbę godzin usprawiedliwionej nieobecności w pracy, przypadających do przepracowania w czasie tej nieobecności, zgodnie z przyjętym rozkładem czasu pracy.
 
@@ -1979,7 +1983,7 @@ source: pdf
 
 § 5. Przepis § 1 w zakresie zwolnienia od pracy udzielanego w wymiarze godzinowym stosuje się odpowiednio do pracownika, dla którego dobowa norma czasu pracy, wynikająca z odrębnych przepisów, jest niższa niż 8 godzin.
 
-§ 6. Do pracownika, o którym mowa w § 1, stosuje się odpowiednio art. 186 .
+§ 6. Do pracownika, o którym mowa w § 1, stosuje się odpowiednio art. 186 4 .
 
 **Art. 149.**
 
@@ -1993,18 +1997,18 @@ source: pdf
 
 § 2. Pracodawca, u którego nie działa zakładowa organizacja związkowa, a także pracodawca, u którego zakładowa organizacja związkowa nie wyraża zgody na ustalenie lub zmianę systemów i rozkładów czasu pracy oraz okresów rozliczeniowych czasu pracy, może stosować okres rozliczeniowy czasu pracy, o którym mowa w art. 135 § 2 i 3 – po uprzednim zawiadomieniu właściwego okręgowego inspektora pracy.
 
-§ 3. Przedłużenie okresu rozliczeniowego czasu pracy zgodnie z art. 129 § 2 oraz rozkłady czasu pracy, o których mowa w art. 140 , ustala się:
+§ 3. Przedłużenie okresu rozliczeniowego czasu pracy zgodnie z art. 129 § 2 oraz rozkłady czasu pracy, o których mowa w art. 140 1 , ustala się:
 
 - **1)** w układzie zbiorowym pracy lub w porozumieniu z zakładowymi organizacjami związkowymi; jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia z organizacjami związkowymi reprezentatywnymi w rozumieniu art. 25 ust. 1 lub 2 ustawy o związkach zawodowych, z których każda zrzesza co najmniej 5 % pracowników zatrudnionych u pracodawcy, albo
 - **2)** w porozumieniu zawieranym z przedstawicielami pracowników, wyłonionymi w trybie przyjętym u danego pracodawcy – jeżeli u pracodawcy nie działają zakładowe organizacje związkowe.
 
 § 4. Pracodawca przekazuje kopię porozumienia w sprawie przedłużenia okresu rozliczeniowego czasu pracy, o którym mowa w § 3, właściwemu okręgowemu inspektorowi pracy w terminie 5 dni roboczych od dnia zawarcia porozumienia.
 
-§ 5. Rozkłady czasu pracy, o których mowa w art. 140 , mogą być także stosowane na wniosek pracownika złożony w postaci papierowej lub elektronicznej, niezależnie od ustalenia takich rozkładów czasu pracy w trybie określonym w § 3.
+§ 5. Rozkłady czasu pracy, o których mowa w art. 140 1 , mogą być także stosowane na wniosek pracownika złożony w postaci papierowej lub elektronicznej, niezależnie od ustalenia takich rozkładów czasu pracy w trybie określonym w § 3.
 
 § 6. Zastosowanie do pracownika systemów czasu pracy, o których mowa w art. 143 i 144, następuje na podstawie umowy o pracę.
 
-§ 7. Do obwieszczenia, o którym mowa w § 1, stosuje się odpowiednio art. 104 .
+§ 7. Do obwieszczenia, o którym mowa w § 1, stosuje się odpowiednio art. 104 3 .
 
 #### Rozdział V Praca w godzinach nadliczbowych
 
@@ -2017,7 +2021,7 @@ source: pdf
 
 § 2. Przepisu § 1 pkt 2 nie stosuje się do pracowników zatrudnionych na stanowiskach pracy, na których występują przekroczenia najwyższych dopuszczalnych stężeń lub natężeń czynników szkodliwych dla zdrowia.
 
-§ 2. Nie stanowi pracy w godzinach nadliczbowych czas odpracowania zwolnienia od pracy, udzielonego pracownikowi, na jego wniosek złożony w postaci papierowej lub elektronicznej, w celu załatwienia spraw osobistych. Odpracowanie zwolnienia od pracy nie może naruszać prawa pracownika do odpoczynku, o którym mowa w art. 132 i 133.
+§ 2¹. Nie stanowi pracy w godzinach nadliczbowych czas odpracowania zwolnienia od pracy, udzielonego pracownikowi, na jego wniosek złożony w postaci papierowej lub elektronicznej, w celu załatwienia spraw osobistych. Odpracowanie zwolnienia od pracy nie może naruszać prawa pracownika do odpoczynku, o którym mowa w art. 132 i 133.
 
 § 3. Liczba godzin nadliczbowych przepracowanych w związku z okolicznościami określonymi w § 1 pkt 2 nie może przekroczyć dla poszczególnego pracownika 150 godzin w roku kalendarzowym.
 
@@ -2138,7 +2142,7 @@ source: pdf
 
 **Art. 151¹¹.**
 
-§ 1. Pracownikowi wykonującemu pracę w niedziele i święta, w przypadkach, o których mowa w art. 151 pkt 1–9 i 11 oraz w przepisach ustawy, o której mowa w art. 151 , pracodawca jest obowiązany zapewnić inny dzień wolny od pracy:
+§ 1. Pracownikowi wykonującemu pracę w niedziele i święta, w przypadkach, o których mowa w art. 151 pkt 1–9 i 11 oraz w przepisach ustawy, o której mowa w art. 151 9b , pracodawca jest obowiązany zapewnić inny dzień wolny od pracy:
 
 - **1)** w zamian za pracę w niedzielę – w okresie 6 dni kalendarzowych poprzedzających lub następujących po takiej niedzieli;
 - **2)** w zamian za pracę w święto – w ciągu okresu rozliczeniowego.
@@ -2218,7 +2222,7 @@ source: pdf
 
 § 2. Pracownikowi, który przed ustaniem stosunku pracy w ciągu roku kalendarzowego wykorzystał urlop w wymiarze wyższym niż wynikający z § 1 pkt 1, przysługuje u kolejnego pracodawcy urlop w odpowiednio niższym wymiarze; łączny wymiar urlopu w roku kalendarzowym nie może być jednak niższy niż wynikający z okresu przepracowanego w tym roku u wszystkich pracodawców.
 
-§ 2. Przepis § 1 pkt 2 stosuje się odpowiednio do pracownika podejmującego pracę u kolejnego pracodawcy w ciągu innego roku kalendarzowego niż rok, w którym ustał jego stosunek pracy z poprzednim pracodawcą.
+§ 2¹. Przepis § 1 pkt 2 stosuje się odpowiednio do pracownika podejmującego pracę u kolejnego pracodawcy w ciągu innego roku kalendarzowego niż rok, w którym ustał jego stosunek pracy z poprzednim pracodawcą.
 
 § 3. (uchylony)
 
@@ -2265,9 +2269,9 @@ source: pdf
 
 **Art. 163.**
 
-§ 1. Urlopy powinny być udzielane zgodnie z planem urlopów. Plan urlopów ustala pracodawca, biorąc pod uwagę wnioski pracowników i konieczność zapewnienia normalnego toku pracy. Planem urlopów nie obejmuje się części urlopu udzielanego pracownikowi zgodnie z art. 167 .
+§ 1. Urlopy powinny być udzielane zgodnie z planem urlopów. Plan urlopów ustala pracodawca, biorąc pod uwagę wnioski pracowników i konieczność zapewnienia normalnego toku pracy. Planem urlopów nie obejmuje się części urlopu udzielanego pracownikowi zgodnie z art. 167 2 .
 
-§ 1. Pracodawca nie ustala planu urlopów, jeżeli zakładowa organizacja związkowa wyraziła na to zgodę; dotyczy to także pracodawcy, u którego nie działa zakładowa organizacja związkowa. W takich przypadkach pracodawca ustala termin urlopu po porozumieniu z pracownikiem. Przepis § 1 zdanie drugie i trzecie stosuje się odpowiednio.
+§ 1¹. Pracodawca nie ustala planu urlopów, jeżeli zakładowa organizacja związkowa wyraziła na to zgodę; dotyczy to także pracodawcy, u którego nie działa zakładowa organizacja związkowa. W takich przypadkach pracodawca ustala termin urlopu po porozumieniu z pracownikiem. Przepis § 1 zdanie drugie i trzecie stosuje się odpowiednio.
 
 § 2. Plan urlopów podaje się do wiadomości pracowników w sposób przyjęty u danego pracodawcy.
 
@@ -2299,13 +2303,13 @@ source: pdf
 
 § 2. Pracodawca jest obowiązany pokryć koszty poniesione przez pracownika w bezpośrednim związku z odwołaniem go z urlopu.
 
-**Art. 167¹.** W okresie wypowiedzenia umowy o pracę pracownik jest obowiązany wykorzystać przysługujący mu urlop, jeżeli w tym okresie pracodawca udzieli mu urlopu. W takim przypadku wymiar udzielonego urlopu, z wyłączeniem urlopu zaległego, nie może przekraczać wymiaru wynikającego z przepisów art. 155 .
+**Art. 167¹.** W okresie wypowiedzenia umowy o pracę pracownik jest obowiązany wykorzystać przysługujący mu urlop, jeżeli w tym okresie pracodawca udzieli mu urlopu. W takim przypadku wymiar udzielonego urlopu, z wyłączeniem urlopu zaległego, nie może przekraczać wymiaru wynikającego z przepisów art. 155 1 .
 
 **Art. 167².** Pracodawca jest obowiązany udzielić na żądanie pracownika i w terminie przez niego wskazanym nie więcej niż 4 dni urlopu w każdym roku kalendarzowym. Pracownik zgłasza żądanie udzielenia urlopu najpóźniej w dniu rozpoczęcia urlopu.
 
 **Art. 167³.** Łączny wymiar urlopu wykorzystanego przez pracownika na zasadach i w trybie określonych w art. 167 nie może przekroczyć w roku kalendarzowym 4 dni, niezależnie od liczby pracodawców, z którymi pracownik pozostaje w danym roku w kolejnych stosunkach pracy.
 
-**Art. 168.** Urlopu niewykorzystanego w terminie ustalonym zgodnie z art. 163 należy pracownikowi udzielić najpóźniej do dnia 30 września następnego roku kalendarzowego; nie dotyczy to części urlopu udzielanego zgodnie z art. 167 .
+**Art. 168.** Urlopu niewykorzystanego w terminie ustalonym zgodnie z art. 163 należy pracownikowi udzielić najpóźniej do dnia 30 września następnego roku kalendarzowego; nie dotyczy to części urlopu udzielanego zgodnie z art. 167 2 .
 
 **Art. 169.** (uchylony)
 
@@ -2349,7 +2353,7 @@ source: pdf
 
 **Art. 173².** Okres urlopu opiekuńczego wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.
 
-**Art. 173³.** Do pracownika, o którym mowa w art. 173 § 1, stosuje się odpowiednio przepisy art. 177 § 1, 1 , 4 i 4 , art. 186 i art. 188 .
+**Art. 173³.** Do pracownika, o którym mowa w art. 173 § 1, stosuje się odpowiednio przepisy art. 177 § 1, 1 , 4 i 4 , art. 186 i art. 188 1 .
 
 #### Rozdział II Urlopy bezpłatne
 
@@ -2397,7 +2401,7 @@ source: pdf
 - **1)** prowadzić przygotowań do wypowiedzenia lub rozwiązania bez wypowiedzenia stosunku pracy z tą pracownicą lub tym pracownikiem;
 - **2)** wypowiedzieć ani rozwiązać stosunku pracy z tą pracownicą lub tym pracownikiem, chyba że zachodzą przyczyny uzasadniające rozwiązanie umowy bez wypowiedzenia z ich winy i reprezentująca tę pracownicę lub tego pracownika zakładowa organizacja związkowa wyraziła zgodę na rozwiązanie umowy.
 
-§ 1. W przypadku złożenia wniosku, o którym mowa w § 1, wcześniej niż w terminach określonych w art. 180 § 9, art. 180 § 4, art. 182 § 1, art. 182 § 2 oraz art. 183 § 6 zakaz, o którym mowa w § 1, zaczyna obowiązywać na:
+§ 1¹. W przypadku złożenia wniosku, o którym mowa w § 1, wcześniej niż w terminach określonych w art. 180 § 9, art. 180 § 4, art. 182 § 1, art. 182 § 2 oraz art. 183 § 6 zakaz, o którym mowa w § 1, zaczyna obowiązywać na:
 
 - **1)** 14 dni przed rozpoczęciem korzystania z części urlopu macierzyńskiego oraz części urlopu na warunkach urlopu macierzyńskiego;
 - **2)** 21 dni przed rozpoczęciem korzystania z uzupełniającego urlopu macierzyńskiego oraz urlopu rodzicielskiego albo jego części;
@@ -2407,11 +2411,11 @@ source: pdf
 
 § 3. Umowa o pracę zawarta na czas określony albo na okres próbny przekraczający jeden miesiąc, która uległaby rozwiązaniu po upływie trzeciego miesiąca ciąży, ulega przedłużeniu do dnia porodu.
 
-§ 3. Przepisu § 3 nie stosuje się do umowy o pracę na czas określony zawartej w celu zastępstwa pracownika w czasie jego usprawiedliwionej nieobecności w pracy.
+§ 3¹. Przepisu § 3 nie stosuje się do umowy o pracę na czas określony zawartej w celu zastępstwa pracownika w czasie jego usprawiedliwionej nieobecności w pracy.
 
 § 4. Rozwiązanie przez pracodawcę umowy o pracę za wypowiedzeniem w okresie ciąży oraz w okresie urlopu macierzyńskiego, a także od dnia złożenia przez pracownicę lub pracownika wniosku o udzielenie urlopu macierzyńskiego albo jego części, urlopu na warunkach urlopu macierzyńskiego albo jego części, uzupełniającego urlopu macierzyńskiego, urlopu ojcowskiego albo jego części, urlopu rodzicielskiego albo jego części – do dnia zakończenia tego urlopu może nastąpić tylko w razie ogłoszenia upadłości lub likwidacji pracodawcy. Pracodawca jest obowiązany uzgodnić termin rozwiązania umowy o pracę z zakładową organizacją związkową reprezentującą tę pracownicę lub tego pracownika. W przypadku niemożności zapewnienia w tym okresie pracownicy lub pracownikowi innego zatrudnienia przysługują im świadczenia określone w odrębnych przepisach. Okres pobierania tych świadczeń wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.
 
-§ 4. Istnienie przyczyn, o których mowa w § 1 pkt 2 i § 4, udowodni pracodawca.
+§ 4¹. Istnienie przyczyn, o których mowa w § 1 pkt 2 i § 4, udowodni pracodawca.
 
 § 5. (uchylony)
 
@@ -2477,9 +2481,9 @@ source: pdf
 
 § 7. Pracownikowi – ojcu wychowującemu dziecko albo pracownikowi – innemu członkowi najbliższej rodziny przysługuje, w przypadku rezygnacji przez ubezpieczoną – matkę dziecka, legitymującą się orzeczeniem o niezdolności do samodzielnej egzystencji, z pobierania zasiłku macierzyńskiego po wykorzystaniu przez nią tego zasiłku za okres co najmniej 8 tygodni po porodzie, prawo do części urlopu macierzyńskiego przypadającej po dniu rezygnacji przez ubezpieczoną – matkę dziecka z pobierania zasiłku macierzyńskiego.
 
-§ 8. W przypadkach, o których mowa w § 4 i 6, pracownica składa pracodawcy wniosek w postaci papierowej lub elektronicznej w sprawie rezygnacji z korzystania z części urlopu macierzyńskiego w terminie nie krótszym niż 7 dni przed przystąpieniem do pracy. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 . Pracodawca jest obowiązany uwzględnić wniosek pracownicy.
+§ 8. W przypadkach, o których mowa w § 4 i 6, pracownica składa pracodawcy wniosek w postaci papierowej lub elektronicznej w sprawie rezygnacji z korzystania z części urlopu macierzyńskiego w terminie nie krótszym niż 7 dni przed przystąpieniem do pracy. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownicy.
 
-§ 9. Części urlopu macierzyńskiego, o której mowa w § 4 pkt 1, § 5, § 6 pkt 1 i § 7, pracodawca udziela, odpowiednio, pracownikowi – ojcu wychowującemu dziecko albo pracownikowi – innemu członkowi najbliższej rodziny, na wniosek w postaci papierowej lub elektronicznej składany w terminie nie krótszym niż 14 dni przed rozpoczęciem korzystania z części urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 . Pracodawca jest obowiązany uwzględnić wniosek pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny.
+§ 9. Części urlopu macierzyńskiego, o której mowa w § 4 pkt 1, § 5, § 6 pkt 1 i § 7, pracodawca udziela, odpowiednio, pracownikowi – ojcu wychowującemu dziecko albo pracownikowi – innemu członkowi najbliższej rodziny, na wniosek w postaci papierowej lub elektronicznej składany w terminie nie krótszym niż 14 dni przed rozpoczęciem korzystania z części urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny.
 
 § 10. Pracownica, która przebywa w szpitalu albo innym zakładzie leczniczym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne ze względu na stan zdrowia uniemożliwiający jej sprawowanie osobistej opieki nad dzieckiem, po wykorzystaniu po porodzie co najmniej 8 tygodni urlopu macierzyńskiego, może przerwać urlop macierzyński na okres pobytu w tym szpitalu albo zakładzie leczniczym, jeżeli:
 
@@ -2503,7 +2507,7 @@ source: pdf
 - **2)** porzucenia dziecka przez matkę nieobjętą ubezpieczeniem, o którym mowa w pkt 1, albo nieposiadającą tytułu do objęcia takim ubezpieczeniem,
 - **3)** niemożności sprawowania osobistej opieki nad dzieckiem przez matkę nieobjętą ubezpieczeniem, o którym mowa w pkt 1, albo nieposiadającą tytułu do objęcia takim ubezpieczeniem, legitymującą się orzeczeniem o niezdolności do samodzielnej egzystencji – pracownikowi – ojcu wychowującemu dziecko albo pracownikowi – innemu członkowi najbliższej rodziny przysługuje prawo do części urlopu macierzyńskiego przypadającej po dniu zgonu matki dziecka, porzucenia przez nią dziecka albo powstania niezdolności do samodzielnej egzystencji.
 
-§ 16. W okolicznościach, o których mowa w § 10 pkt 1 i § 11–13 i 15, części urlopu macierzyńskiego udziela się na wniosek składany w postaci papierowej lub elektronicznej przez pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 . Pracodawca jest obowiązany uwzględnić wniosek pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny.
+§ 16. W okolicznościach, o których mowa w § 10 pkt 1 i § 11–13 i 15, części urlopu macierzyńskiego udziela się na wniosek składany w postaci papierowej lub elektronicznej przez pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika – ojca wychowującego dziecko albo pracownika – innego członka najbliższej rodziny.
 
 § 17. W przypadku podjęcia przez matkę dziecka nieposiadającą tytułu do objęcia ubezpieczeniem społecznym w razie choroby i macierzyństwa, określonym w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, zatrudnienia w wymiarze nie niższym niż połowa pełnego wymiaru czasu pracy, pracownikowi – ojcu wychowującemu dziecko przysługuje, w okresie trwania zatrudnienia matki dziecka, prawo do części urlopu macierzyńskiego przypadającej od dnia podjęcia zatrudnienia przez matkę dziecka aż do wyczerpania wymiaru, o którym mowa w § 1. Przepis § 9 stosuje się odpowiednio.
 
@@ -2527,7 +2531,7 @@ source: pdf
 
 § 4. Uzupełniający urlop macierzyński jest udzielany jednorazowo na wniosek składany w postaci papierowej lub elektronicznej przez pracownicę albo pracownika – ojca wychowującego dziecko w terminie nie krótszym niż 21 dni przed zakończeniem korzystania z urlopu macierzyńskiego. Pracodawca jest obowiązany uwzględnić wniosek.
 
-§ 5. Do wniosku dołącza się zaświadczenie wydane przez szpital, w którym przebywało dziecko, oraz dokumenty określone w przepisach wydanych na podstawie art. 186 . Zaświadczenie zawiera informacje o okresie pobytu dziecka w szpitalu oraz o urodzeniu dziecka:
+§ 5. Do wniosku dołącza się zaświadczenie wydane przez szpital, w którym przebywało dziecko, oraz dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Zaświadczenie zawiera informacje o okresie pobytu dziecka w szpitalu oraz o urodzeniu dziecka:
 
 - **1)** przed ukończeniem 28. tygodnia ciąży lub z masą urodzeniową nie większą niż 1000 g;
 - **2)** po ukończeniu 28. tygodnia ciąży i przed ukończeniem 37. tygodnia ciąży i z masą urodzeniową większą niż 1000 g;
@@ -2571,7 +2575,7 @@ source: pdf
 
 **Art. 182¹d.**
 
-§ 1. Urlop rodzicielski jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika – rodzica dziecka w terminie nie krótszym niż 21 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 . Pracodawca jest obowiązany uwzględnić wniosek pracownika.
+§ 1. Urlop rodzicielski jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika – rodzica dziecka w terminie nie krótszym niż 21 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika.
 
 § 2. Liczbę części urlopu ustala się w oparciu o liczbę złożonych wniosków o udzielenie urlopu. W liczbie wykorzystanych części urlopu uwzględnia się także liczbę wniosków o zasiłek macierzyński za okres odpowiadający okresowi urlopu rodzicielskiego albo jego części, złożonych przez ubezpieczoną – matkę dziecka lub ubezpieczonego – ojca dziecka.
 
@@ -2590,14 +2594,14 @@ source: pdf
 - **1)** 82 tygodni – w przypadku, o którym mowa w art. 180 § 1 pkt 1;
 - **2)** 86 tygodni – w przypadkach, o których mowa w art. 180 § 1 pkt 2–5.
 
-§ 1. W przypadku łączenia przez pracownika – rodzica dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, korzystania z urlopu rodzicielskiego z wykonywaniem pracy u pracodawcy udzielającego tego urlopu wymiar urlopu rodzicielskiego ulega wydłużeniu proporcjonalnie do wymiaru czasu pracy wykonywanej przez pracownika – rodzica dziecka w trakcie korzystania z urlopu lub jego części, nie dłużej jednak niż do:
+§ 1¹. W przypadku łączenia przez pracownika – rodzica dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, korzystania z urlopu rodzicielskiego z wykonywaniem pracy u pracodawcy udzielającego tego urlopu wymiar urlopu rodzicielskiego ulega wydłużeniu proporcjonalnie do wymiaru czasu pracy wykonywanej przez pracownika – rodzica dziecka w trakcie korzystania z urlopu lub jego części, nie dłużej jednak niż do:
 
 - **1)** 130 tygodni – w przypadku, o którym mowa w art. 180 § 1 pkt 1;
 - **2)** 134 tygodni – w przypadkach, o których mowa w art. 180 § 1 pkt 2–5.
 
 § 2. Okres, o który urlop rodzicielski ulega wydłużeniu, stanowi iloczyn liczby tygodni, przez jaką pracownik łączy korzystanie z urlopu rodzicielskiego z wykonywaniem pracy u pracodawcy udzielającego tego urlopu i wymiaru czasu pracy wykonywanej przez pracownika w trakcie korzystania z urlopu rodzicielskiego.
 
-§ 3. W przypadku gdy łączenie korzystania z urlopu z wykonywaniem pracy, o którym mowa w § 1 albo § 1 , odbywa się przez część urlopu rodzicielskiego, proporcjonalne wydłużenie wymiaru tego urlopu, następuje wyłącznie w odniesieniu do tej części urlopu rodzicielskiego.
+§ 3. W przypadku gdy łączenie korzystania z urlopu z wykonywaniem pracy, o którym mowa w § 1 albo § 1 1 , odbywa się przez część urlopu rodzicielskiego, proporcjonalne wydłużenie wymiaru tego urlopu, następuje wyłącznie w odniesieniu do tej części urlopu rodzicielskiego.
 
 § 4. W przypadku gdy powstała w wyniku wydłużenia wymiaru urlopu rodzicielskiego część urlopu rodzicielskiego nie odpowiada wielokrotności tygodnia, jest ona udzielana w dniach. Przy udzielaniu urlopu niepełny dzień pomija się.
 
@@ -2618,9 +2622,9 @@ source: pdf
 - **1)** ukończenia przez dziecko 12 miesiąca życia albo
 - **2)** upływu 12 miesięcy od dnia uprawomocnienia się postanowienia orzekającego przysposobienie dziecka i nie dłużej niż do ukończenia przez dziecko 14 roku życia.
 
-§ 1. Urlop ojcowski może być wykorzystany jednorazowo albo nie więcej niż w 2 częściach, z których żadna nie może być krótsza niż tydzień.
+§ 1¹. Urlop ojcowski może być wykorzystany jednorazowo albo nie więcej niż w 2 częściach, z których żadna nie może być krótsza niż tydzień.
 
-§ 2. Urlop ojcowski jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika – ojca w terminie nie krótszym niż 7 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 . Pracodawca jest obowiązany uwzględnić wniosek pracownika.
+§ 2. Urlop ojcowski jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika – ojca w terminie nie krótszym niż 7 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika.
 
 § 3. Do urlopu ojcowskiego stosuje się odpowiednio przepisy art. 45 § 3, art. 47, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 181 i art. 183 § 1.
 
@@ -2636,7 +2640,7 @@ source: pdf
 - **4)** 35 tygodni – w przypadku jednoczesnego przyjęcia czworga dzieci,
 - **5)** 37 tygodni – w przypadku jednoczesnego przyjęcia pięciorga i więcej dzieci – nie dłużej jednak niż do ukończenia przez dziecko 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego, nie dłużej niż do ukończenia przez nie 10 roku życia.
 
-§ 1. Pracownik, który przyjął dziecko na wychowanie i wystąpił do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka, ma prawo do urlopu na warunkach urlopu macierzyńskiego w wymiarze:
+§ 1¹. Pracownik, który przyjął dziecko na wychowanie i wystąpił do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka, ma prawo do urlopu na warunkach urlopu macierzyńskiego w wymiarze:
 
 - **1)** 20 tygodni – w przypadku przyjęcia jednego dziecka,
 - **2)** 31 tygodni – w przypadku jednoczesnego przyjęcia dwojga dzieci,
@@ -2646,9 +2650,9 @@ source: pdf
 
 § 2. Do urlopu na warunkach urlopu macierzyńskiego przepisy art. 45 § 3, art. 47, art. 57 § 2, art. 163 § 3, art. 165 pkt 4, art. 166 pkt 4, art. 180 § 4–17, art. 180 § 2 i art. 181 stosuje się odpowiednio.
 
-§ 3. Pracownik, o którym mowa w § 1, który przyjął dziecko w wieku do 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego, do 10 roku życia, oraz pracownik, o którym mowa w § 1 , który przyjął dziecko w wieku do 14 roku życia ‒ ma prawo do 9 tygodni urlopu na warunkach urlopu macierzyńskiego.
+§ 3. Pracownik, o którym mowa w § 1, który przyjął dziecko w wieku do 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego, do 10 roku życia, oraz pracownik, o którym mowa w § 1 1 , który przyjął dziecko w wieku do 14 roku życia ‒ ma prawo do 9 tygodni urlopu na warunkach urlopu macierzyńskiego.
 
-§ 3. Pracownik, o którym mowa w § 1 albo § 1 , ma prawo do uzupełniającego urlopu macierzyńskiego na zasadach określonych w art. 180 , jeżeli pobyt dziecka w szpitalu miał miejsce po przyjęciu dziecka na wychowanie.
+§ 3¹. Pracownik, o którym mowa w § 1 albo § 1 1 , ma prawo do uzupełniającego urlopu macierzyńskiego na zasadach określonych w art. 180 2 , jeżeli pobyt dziecka w szpitalu miał miejsce po przyjęciu dziecka na wychowanie.
 
 § 4. Pracownicy, którzy przyjęli dziecko na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, mają prawo do urlopu rodzicielskiego w celu sprawowania opieki nad tym dzieckiem w wymiarze do:
 
@@ -2656,31 +2660,31 @@ source: pdf
 - **2)** 43 tygodni – w przypadkach, o których mowa w § 1 pkt 2–5;
 - **3)** 38 tygodni – w przypadku, o którym mowa w § 3.
 
-§ 4. Pracownicy, którzy przyjęli dziecko na wychowanie i wystąpili do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka, mają prawo do urlopu rodzicielskiego w celu sprawowania opieki nad tym dzieckiem w wymiarze do:
+§ 4¹. Pracownicy, którzy przyjęli dziecko na wychowanie i wystąpili do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka, mają prawo do urlopu rodzicielskiego w celu sprawowania opieki nad tym dzieckiem w wymiarze do:
 
 - **1)** 41 tygodni – w przypadku, o którym mowa w § 1 pkt 1,
 - **2)** 43 tygodni – w przypadkach, o których mowa w § 1 pkt 2–5 – nie dłużej jednak niż do ukończenia przez dziecko 14 roku życia.
 
-§ 4. Pracownicy, o których mowa w § 3, którzy przyjęli na wychowanie dziecko w wieku do ukończenia 14 roku życia, mają prawo do 38 tygodni urlopu rodzicielskiego.
+§ 4². Pracownicy, o których mowa w § 3, którzy przyjęli na wychowanie dziecko w wieku do ukończenia 14 roku życia, mają prawo do 38 tygodni urlopu rodzicielskiego.
 
-§ 4. Pracownicy, o których mowa w § 4, w przypadku dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, mają prawo do urlopu rodzicielskiego w celu sprawowania opieki nad tym dzieckiem w wymiarze do:
+§ 4³. Pracownicy, o których mowa w § 4, w przypadku dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, mają prawo do urlopu rodzicielskiego w celu sprawowania opieki nad tym dzieckiem w wymiarze do:
 
 - **1)** 65 tygodni – w przypadku, o którym mowa w § 1 pkt 1;
 - **2)** 67 tygodni – w przypadkach, o których mowa w § 1 pkt 2–5;
 - **3)** 62 tygodni – w przypadku, o którym mowa w § 3.
 
-§ 4. Pracownicy, o których mowa w § 4 , w przypadku dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, mają prawo do urlopu rodzicielskiego w celu sprawowania opieki nad tym dzieckiem w wymiarze do:
+§ 4⁴. Pracownicy, o których mowa w § 4 1 , w przypadku dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, mają prawo do urlopu rodzicielskiego w celu sprawowania opieki nad tym dzieckiem w wymiarze do:
 
 - **1)** 65 tygodni – w przypadku, o którym mowa w § 1 pkt 1,
 - **2)** 67 tygodni – w przypadkach, o których mowa w § 1 pkt 2–5 – nie dłużej jednak niż do ukończenia przez dziecko 14 roku życia.
 
-§ 4. Pracownicy, o których mowa w § 3, którzy przyjęli na wychowanie dziecko w wieku do ukończenia 14 roku życia, w przypadku dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, mają prawo do 62 tygodni urlopu rodzicielskiego.
+§ 4⁵. Pracownicy, o których mowa w § 3, którzy przyjęli na wychowanie dziecko w wieku do ukończenia 14 roku życia, w przypadku dziecka posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3 ustawy z dnia 4 listopada 2016 r. o wsparciu kobiet w ciąży i rodzin „Za życiem”, mają prawo do 62 tygodni urlopu rodzicielskiego.
 
-§ 4. Urlop rodzicielski jest udzielany jednorazowo albo nie więcej niż w 5 częściach.
+§ 4⁶. Urlop rodzicielski jest udzielany jednorazowo albo nie więcej niż w 5 częściach.
 
-§ 5. Do urlopu rodzicielskiego stosuje się odpowiednio przepisy art. 182 § 3–7 i art. 182 –182 .
+§ 5. Do urlopu rodzicielskiego stosuje się odpowiednio przepisy art. 182 § 3–7 i art. 182 1c –182 .
 
-§ 6. Urlop na warunkach urlopu macierzyńskiego jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika w terminie 7 dni od dnia przyjęcia dziecka na wychowanie jako rodzina zastępcza albo przyjęcia dziecka na wychowanie i wystąpienia do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka. Urlop rozpoczyna się w terminie określonym we wniosku pracownika, jednak nie później niż 21 dni od dnia odpowiednio przyjęcia dziecka na wychowanie jako rodzina zastępcza albo przyjęcia dziecka na wychowanie i wystąpienia do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 . Pracodawca jest obowiązany uwzględnić wniosek pracownika.
+§ 6. Urlop na warunkach urlopu macierzyńskiego jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika w terminie 7 dni od dnia przyjęcia dziecka na wychowanie jako rodzina zastępcza albo przyjęcia dziecka na wychowanie i wystąpienia do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka. Urlop rozpoczyna się w terminie określonym we wniosku pracownika, jednak nie później niż 21 dni od dnia odpowiednio przyjęcia dziecka na wychowanie jako rodzina zastępcza albo przyjęcia dziecka na wychowanie i wystąpienia do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika.
 
 § 7. Pracownik, który korzysta lub korzystał z urlopu na warunkach urlopu macierzyńskiego w związku z przyjęciem dziecka na wychowanie jako rodzina zastępcza, a następnie wystąpił do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka, ma prawo do urlopu na warunkach urlopu macierzyńskiego w związku z wystąpieniem do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka w wymiarze określonym w § 1 obniżonym o wykorzystany urlop na warunkach urlopu macierzyńskiego w związku z przyjęciem dziecka na wychowanie jako rodzina zastępcza.
 
@@ -2710,7 +2714,7 @@ source: pdf
 
 § 3. Jeżeli z powodu stanu zdrowia potwierdzonego orzeczeniem o niepełnosprawności lub stopniu niepełnosprawności dziecko wymaga osobistej opieki pracownika, niezależnie od urlopu, o którym mowa w § 2, może być udzielony urlop wychowawczy w wymiarze do 36 miesięcy, jednak na okres nie dłuższy niż do ukończenia przez dziecko 18 roku życia.
 
-§ 3. Urlopy w wymiarach, o których mowa w § 2 i 3, przysługują łącznie obojgu rodzicom lub opiekunom dziecka.
+§ 3¹. Urlopy w wymiarach, o których mowa w § 2 i 3, przysługują łącznie obojgu rodzicom lub opiekunom dziecka.
 
 § 4. Każdemu z rodziców lub opiekunów dziecka przysługuje wyłączne prawo do jednego miesiąca urlopu wychowawczego z wymiaru urlopu określonego w § 2 i 3. Prawa tego nie można przenieść na drugiego z rodziców lub opiekunów dziecka.
 
@@ -2718,9 +2722,9 @@ source: pdf
 
 § 6. Z urlopu wychowawczego mogą jednocześnie korzystać oboje rodzice lub opiekunowie dziecka. W takim przypadku łączny wymiar urlopu wychowawczego nie może przekraczać wymiaru, o którym mowa w § 2 i 3.
 
-§ 7. Urlop wychowawczy jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika w terminie nie krótszym niż 21 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 . Pracodawca jest obowiązany uwzględnić wniosek pracownika. Pracownik może wycofać wniosek o udzielenie urlopu wychowawczego nie później niż na 7 dni przed rozpoczęciem korzystania z urlopu, składając pracodawcy w postaci papierowej lub elektronicznej oświadczenie w tej sprawie.
+§ 7. Urlop wychowawczy jest udzielany na wniosek w postaci papierowej lub elektronicznej składany przez pracownika w terminie nie krótszym niż 21 dni przed rozpoczęciem korzystania z urlopu. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Pracodawca jest obowiązany uwzględnić wniosek pracownika. Pracownik może wycofać wniosek o udzielenie urlopu wychowawczego nie później niż na 7 dni przed rozpoczęciem korzystania z urlopu, składając pracodawcy w postaci papierowej lub elektronicznej oświadczenie w tej sprawie.
 
-§ 7. Jeżeli wniosek, o którym mowa w § 7, został złożony bez zachowania terminu pracodawca udziela urlopu wychowawczego nie później niż z dniem upływu 21 dni od dnia złożenia wniosku.
+§ 7¹. Jeżeli wniosek, o którym mowa w § 7, został złożony bez zachowania terminu pracodawca udziela urlopu wychowawczego nie później niż z dniem upływu 21 dni od dnia złożenia wniosku.
 
 § 8. Urlop wychowawczy jest udzielany nie więcej niż w 5 częściach. Liczbę części urlopu ustala się w oparciu o liczbę złożonych wniosków o udzielenie urlopu.
 
@@ -2757,7 +2761,7 @@ source: pdf
 
 § 1. Pracownik uprawniony do urlopu wychowawczego może złożyć pracodawcy wniosek w postaci papierowej lub elektronicznej o obniżenie jego wymiaru czasu pracy do wymiaru nie niższego niż połowa pełnego wymiaru czasu pracy w okresie, w którym mógłby korzystać z takiego urlopu. Pracodawca jest obowiązany uwzględnić wniosek pracownika.
 
-§ 2. Wniosek, o którym mowa w § 1, składa się na 21 dni przed rozpoczęciem wykonywania pracy w obniżonym wymiarze czasu pracy. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 . Jeżeli wniosek został złożony bez zachowania terminu, pracodawca obniża wymiar czasu pracy nie później niż z upływem 21 dni od dnia złożenia wniosku.
+§ 2. Wniosek, o którym mowa w § 1, składa się na 21 dni przed rozpoczęciem wykonywania pracy w obniżonym wymiarze czasu pracy. Do wniosku dołącza się dokumenty określone w przepisach wydanych na podstawie art. 186 8a . Jeżeli wniosek został złożony bez zachowania terminu, pracodawca obniża wymiar czasu pracy nie później niż z upływem 21 dni od dnia złożenia wniosku.
 
 § 3. W przypadku skorzystania przez pracownika z części urlopu wychowawczego pracownik ten może korzystać z obniżonego wymiaru czasu pracy, o którym mowa w § 1, przez okres odpowiadający pozostałemu do wykorzystania wymiarowi urlopu wychowawczego, nie dłużej jednak niż do zakończenia roku kalendarzowego, w którym dziecko kończy 6 rok życia.
 
@@ -2839,7 +2843,7 @@ source: pdf
 
 § 1. Młodocianym w rozumieniu kodeksu jest osoba, która ukończyła 15 lat, a nie przekroczyła 18 lat.
 
-§ 2. Zabronione jest zatrudnianie osoby, która nie ukończyła 15 lat, z zastrzeżeniem art. 191 § 2 –2 .
+§ 2. Zabronione jest zatrudnianie osoby, która nie ukończyła 15 lat, z zastrzeżeniem art. 191 § 2 1 –2 .
 
 **Art. 191.**
 
@@ -2850,22 +2854,22 @@ source: pdf
 
 § 2. Młodociany nieposiadający kwalifikacji zawodowych może być zatrudniony tylko w celu przygotowania zawodowego.
 
-§ 2. Osoba, która ukończyła ośmioletnią szkołą podstawową, niemająca 15 lat, może być zatrudniona na zasadach określonych dla młodocianych w roku kalendarzowym, w którym kończy 15 lat.
+§ 2¹. Osoba, która ukończyła ośmioletnią szkołą podstawową, niemająca 15 lat, może być zatrudniona na zasadach określonych dla młodocianych w roku kalendarzowym, w którym kończy 15 lat.
 
-§ 2. Osoba, która ukończyła ośmioletnią szkołę podstawową, niemająca 15 lat, z wyjątkiem osoby, o której mowa w § 2 , może być zatrudniona na zasadach określonych dla młodocianych w celu przygotowania zawodowego w formie nauki zawodu.
+§ 2². Osoba, która ukończyła ośmioletnią szkołę podstawową, niemająca 15 lat, z wyjątkiem osoby, o której mowa w § 2 1 , może być zatrudniona na zasadach określonych dla młodocianych w celu przygotowania zawodowego w formie nauki zawodu.
 
-§ 2. Osoba, która nie ukończyła ośmioletniej szkoły podstawowej, niemająca 15 lat, może być zatrudniona na zasadach określonych dla młodocianych w celu przygotowania zawodowego w formie przyuczenia do wykonywania określonej pracy.
+§ 2³. Osoba, która nie ukończyła ośmioletniej szkoły podstawowej, niemająca 15 lat, może być zatrudniona na zasadach określonych dla młodocianych w celu przygotowania zawodowego w formie przyuczenia do wykonywania określonej pracy.
 
-§ 2. Zawarcie umowy o pracę w celu przygotowania zawodowego z osobą, o której mowa w § 2 i § 2 , jest dopuszczalne w przypadku wyrażenia na to zgody przez przedstawiciela ustawowego lub opiekuna prawnego tej osoby oraz uzyskania pozytywnej opinii poradni psychologiczno-pedagogicznej.
+§ 2⁴. Zawarcie umowy o pracę w celu przygotowania zawodowego z osobą, o której mowa w § 2 i § 2 3 , jest dopuszczalne w przypadku wyrażenia na to zgody przez przedstawiciela ustawowego lub opiekuna prawnego tej osoby oraz uzyskania pozytywnej opinii poradni psychologiczno-pedagogicznej.
 
-§ 2. W przypadku osoby, o której mowa w § 2 , wymagane jest również uzyskanie zezwolenia dyrektora ośmioletniej szkoły podstawowej, w której obwodzie mieszka ta osoba, na spełnianie obowiązku szkolnego poza szkołą.
+§ 2⁵. W przypadku osoby, o której mowa w § 2 3 , wymagane jest również uzyskanie zezwolenia dyrektora ośmioletniej szkoły podstawowej, w której obwodzie mieszka ta osoba, na spełnianie obowiązku szkolnego poza szkołą.
 
-§ 2. Z osobą, która ukończyła 15 lat i nie ukończyła ośmioletniej szkoły podstawowej, może być, na wniosek jej przedstawiciela ustawowego lub opiekuna, zawarta umowa o pracę w celu przygotowania zawodowego odbywanego w formie przyuczenia do wykonywania określonej pracy, jeżeli:
+§ 2⁶. Z osobą, która ukończyła 15 lat i nie ukończyła ośmioletniej szkoły podstawowej, może być, na wniosek jej przedstawiciela ustawowego lub opiekuna, zawarta umowa o pracę w celu przygotowania zawodowego odbywanego w formie przyuczenia do wykonywania określonej pracy, jeżeli:
 
 - **1)** została ona przyjęta do oddziału przysposabiającego do pracy utworzonego w ośmioletniej szkole podstawowej albo
 - **2)** uzyskała zezwolenie dyrektora ośmioletniej szkoły podstawowej, w której obwodzie mieszka, na spełnianie obowiązku szkolnego poza szkołą oraz uzyskała pozytywną opinię poradni psychologiczno-pedagogicznej.
 
-§ 2. Z osobą, która ukończyła 15 lat i nie ukończyła ośmioletniej szkoły podstawowej, spełniającą obowiązek szkolny poza szkołą, może być, po ukończeniu przez nią przygotowania zawodowego w formie przyuczenia do wykonywania określonej pracy, zawarta umowa o pracę w celu przygotowania zawodowego w formie nauki zawodu. Przepis § 2 pkt 2 stosuje się odpowiednio.
+§ 2⁷. Z osobą, która ukończyła 15 lat i nie ukończyła ośmioletniej szkoły podstawowej, spełniającą obowiązek szkolny poza szkołą, może być, po ukończeniu przez nią przygotowania zawodowego w formie przyuczenia do wykonywania określonej pracy, zawarta umowa o pracę w celu przygotowania zawodowego w formie nauki zawodu. Przepis § 2 pkt 2 stosuje się odpowiednio.
 
 § 3. Rada Ministrów określi w drodze rozporządzenia zasady i warunki odbywania przygotowania zawodowego oraz zasady wynagradzania młodocianych w tym okresie.
 
@@ -2960,7 +2964,7 @@ source: pdf
 
 § 3. Do czasu pracy młodocianego wlicza się czas nauki w wymiarze wynikającym z obowiązkowego programu zajęć szkolnych, bez względu na to, czy odbywa się ona w godzinach pracy.
 
-§ 3. Jeżeli dobowy wymiar czasu pracy młodocianego jest dłuższy niż 4,5 godziny, pracodawca jest obowiązany wprowadzić przerwę w pracy trwającą nieprzerwanie 30 minut, wliczaną do czasu pracy.
+§ 3¹. Jeżeli dobowy wymiar czasu pracy młodocianego jest dłuższy niż 4,5 godziny, pracodawca jest obowiązany wprowadzić przerwę w pracy trwającą nieprzerwanie 30 minut, wliczaną do czasu pracy.
 
 § 4. (uchylony)
 
@@ -2968,7 +2972,7 @@ source: pdf
 
 § 1. Młodocianego nie wolno zatrudniać w godzinach nadliczbowych ani w porze nocnej.
 
-§ 1. Pora nocna dla młodocianego przypada pomiędzy godzinami 22 a 6 . W przypadkach określonych w art. 191 § 2 –2 i § 2 pora nocna przypada pomiędzy godzinami 20 a 6 .
+§ 1¹. Pora nocna dla młodocianego przypada pomiędzy godzinami 22 a 6 . W przypadkach określonych w art. 191 § 2 1 –2 i § 2 pora nocna przypada pomiędzy godzinami 20 a 6 .
 
 § 2. Przerwa w pracy młodocianego obejmująca porę nocną powinna trwać nieprzerwanie nie mniej niż 14 godzin.
 
@@ -3018,7 +3022,7 @@ source: pdf
 - **6)** zapewniać wykonanie nakazów, wystąpień, decyzji i zarządzeń wydawanych przez organy nadzoru nad warunkami pracy;
 - **7)** zapewniać wykonanie zaleceń społecznego inspektora pracy.
 
-§ 2. Koszty działań podejmowanych przez pracodawcę w zakresie bezpieczeństwa i higieny pracy w żaden sposób nie mogą obciążać pracowników.
+§ 2¹. Koszty działań podejmowanych przez pracodawcę w zakresie bezpieczeństwa i higieny pracy w żaden sposób nie mogą obciążać pracowników.
 
 § 3. Pracodawca oraz osoba kierująca pracownikami są obowiązani znać, w zakresie niezbędnym do wykonywania ciążących na nich obowiązków, przepisy o ochronie pracy, w tym przepisy oraz zasady bezpieczeństwa i higieny pracy.
 
@@ -3049,7 +3053,7 @@ source: pdf
 
 § 2. Wyznaczenie koordynatora, o którym mowa w § 1, nie zwalnia poszczególnych pracodawców z obowiązku zapewnienia bezpieczeństwa i higieny pracy zatrudnionym przez nich pracownikom.
 
-§ 3. Pracodawca, na którego terenie wykonują prace pracownicy zatrudnieni przez różnych pracodawców, jest obowiązany dostarczać tym pracodawcom, w celu przekazania pracownikom, informacje, o których mowa w art. 207 .
+§ 3. Pracodawca, na którego terenie wykonują prace pracownicy zatrudnieni przez różnych pracodawców, jest obowiązany dostarczać tym pracodawcom, w celu przekazania pracownikom, informacje, o których mowa w art. 207 1 .
 
 **Art. 209.** (uchylony)
 
@@ -3096,7 +3100,7 @@ source: pdf
 
 § 2. Jeżeli powstrzymanie się od wykonywania pracy nie usuwa zagrożenia, o którym mowa w § 1, pracownik ma prawo oddalić się z miejsca zagrożenia, zawiadamiając o tym niezwłocznie przełożonego.
 
-§ 2. Pracownik nie może ponosić jakichkolwiek niekorzystnych dla niego konsekwencji z powodu powstrzymania się od pracy lub oddalenia się z miejsca zagrożenia w przypadkach, o których mowa w § 1 i 2.
+§ 2¹. Pracownik nie może ponosić jakichkolwiek niekorzystnych dla niego konsekwencji z powodu powstrzymania się od pracy lub oddalenia się z miejsca zagrożenia w przypadkach, o których mowa w § 1 i 2.
 
 § 3. Za czas powstrzymania się od wykonywania pracy lub oddalenia się z miejsca zagrożenia w przypadkach, o których mowa w § 1 i 2, pracownik zachowuje prawo do wynagrodzenia.
 
@@ -3242,7 +3246,7 @@ source: pdf
 
 § 1. Pracodawca jest obowiązany zapewnić, aby prace, przy których istnieje możliwość wystąpienia szczególnego zagrożenia dla zdrowia lub życia ludzkiego, były wykonywane przez co najmniej dwie osoby, w celu zapewnienia asekuracji.
 
-§ 2. Wykaz prac, o których mowa w § 1, ustala pracodawca po konsultacji z pracownikami lub ich przedstawicielami, uwzględniając przepisy wydane na podstawie art. 237 .
+§ 2. Wykaz prac, o których mowa w § 1, ustala pracodawca po konsultacji z pracownikami lub ich przedstawicielami, uwzględniając przepisy wydane na podstawie art. 237 15 .
 
 #### Rozdział VI Profilaktyczna ochrona zdrowia
 
@@ -3279,19 +3283,19 @@ source: pdf
 
 **Art. 229.**
 
-§ 1. Wstępnym badaniom lekarskim, z zastrzeżeniem § 1 , podlegają:
+§ 1. Wstępnym badaniom lekarskim, z zastrzeżeniem § 1 1 , podlegają:
 
 - **1)** osoby przyjmowane do pracy;
 - **2)** pracownicy młodociani przenoszeni na inne stanowiska pracy i inni pracownicy przenoszeni na stanowiska pracy, na których występują czynniki szkodliwe dla zdrowia lub warunki uciążliwe.
 
-§ 1. Wstępnym badaniom lekarskim nie podlegają osoby:
+§ 1¹. Wstępnym badaniom lekarskim nie podlegają osoby:
 
 - **1)** przyjmowane ponownie do pracy u tego samego pracodawcy na to samo stanowisko lub na stanowisko o takich samych warunkach pracy w ciągu 30 dni po rozwiązaniu lub wygaśnięciu poprzedniego stosunku pracy z tym pracodawcą;
 - **2)** przyjmowane do pracy u innego pracodawcy na dane stanowisko w ciągu 30 dni po rozwiązaniu lub wygaśnięciu poprzedniego stosunku pracy, jeżeli posiadają aktualne orzeczenie lekarskie stwierdzające brak przeciwwskazań do pracy w warunkach pracy opisanych w skierowaniu na badania lekarskie i pracodawca ten stwierdzi, że warunki te odpowiadają warunkom występującym na danym stanowisku pracy, z wyłączeniem osób przyjmowanych do wykonywania prac szczególnie niebezpiecznych.
 
-§ 1. Przepis § 1 pkt 2 stosuje się odpowiednio w przypadku przyjmowania do pracy osoby pozostającej jednocześnie w stosunku pracy z innym pracodawcą.
+§ 1². Przepis § 1 pkt 2 stosuje się odpowiednio w przypadku przyjmowania do pracy osoby pozostającej jednocześnie w stosunku pracy z innym pracodawcą.
 
-§ 1. Pracodawca żąda od osoby, o której mowa w § 1 pkt 2 oraz w § 1 , aktualnego orzeczenia lekarskiego stwierdzającego brak przeciwwskazań do pracy na danym stanowisku oraz skierowania na badania będące podstawą wydania tego orzeczenia.
+§ 1³. Pracodawca żąda od osoby, o której mowa w § 1 pkt 2 oraz w § 1 2 , aktualnego orzeczenia lekarskiego stwierdzającego brak przeciwwskazań do pracy na danym stanowisku oraz skierowania na badania będące podstawą wydania tego orzeczenia.
 
 § 2. Pracownik podlega okresowym badaniom lekarskim. W przypadku niezdolności do pracy trwającej dłużej niż 30 dni, spowodowanej chorobą, pracownik podlega ponadto kontrolnym badaniom lekarskim w celu ustalenia zdolności do wykonywania pracy na dotychczasowym stanowisku.
 
@@ -3306,21 +3310,21 @@ source: pdf
 - **1)** po zaprzestaniu pracy w kontakcie z tymi substancjami, czynnikami lub pyłami;
 - **2)** po rozwiązaniu stosunku pracy, jeżeli zainteresowana osoba zgłosi wniosek o objęcie takimi badaniami.
 
-§ 6. Badania, o których mowa w § 1, 2 i 5, są przeprowadzane na koszt pracodawcy, z zastrzeżeniem § 6 . Pracodawca ponosi ponadto inne koszty profilaktycznej opieki zdrowotnej nad pracownikami, niezbędnej z uwagi na warunki pracy.
+§ 6. Badania, o których mowa w § 1, 2 i 5, są przeprowadzane na koszt pracodawcy, z zastrzeżeniem § 6 1 . Pracodawca ponosi ponadto inne koszty profilaktycznej opieki zdrowotnej nad pracownikami, niezbędnej z uwagi na warunki pracy.
 
-§ 6. W przypadku gdy pracownik skierowany na wstępne, okresowe albo kontrolne badania lekarskie spełnia warunki objęcia programem zdrowotnym lub programem polityki zdrowotnej, lekarz przeprowadzający wstępne, okresowe albo kontrolne badania lekarskie kieruje pracownika, za jego zgodą, do udziału w programie zdrowotnym lub programie polityki zdrowotnej. Jeżeli pracownik wykona wstępne, okresowe albo kontrolne badania lekarskie zgodnie z programem zdrowotnym lub programem polityki zdrowotnej, badania te są finansowane na zasadach określonych w programie zdrowotnym lub programie polityki zdrowotnej.
+§ 6¹. W przypadku gdy pracownik skierowany na wstępne, okresowe albo kontrolne badania lekarskie spełnia warunki objęcia programem zdrowotnym lub programem polityki zdrowotnej, lekarz przeprowadzający wstępne, okresowe albo kontrolne badania lekarskie kieruje pracownika, za jego zgodą, do udziału w programie zdrowotnym lub programie polityki zdrowotnej. Jeżeli pracownik wykona wstępne, okresowe albo kontrolne badania lekarskie zgodnie z programem zdrowotnym lub programem polityki zdrowotnej, badania te są finansowane na zasadach określonych w programie zdrowotnym lub programie polityki zdrowotnej.
 
-§ 6. Jeżeli zakres badań określonych w programie zdrowotnym lub programie polityki zdrowotnej nie odpowiada pełnemu zakresowi badań wymaganych w celu wydania orzeczenia lekarskiego dotyczącego przeciwwskazań do pracy na określonym stanowisku w warunkach pracy opisanych w skierowaniu, o którym mowa w § 4a, określonych w przepisach wydanych na podstawie § 8, lekarz przeprowadzający wstępne, okresowe albo kontrolne badania lekarskie wydaje pracownikowi również skierowanie na przeprowadzenie pozostałych badań wynikających z tych przepisów.
+§ 6². Jeżeli zakres badań określonych w programie zdrowotnym lub programie polityki zdrowotnej nie odpowiada pełnemu zakresowi badań wymaganych w celu wydania orzeczenia lekarskiego dotyczącego przeciwwskazań do pracy na określonym stanowisku w warunkach pracy opisanych w skierowaniu, o którym mowa w § 4a, określonych w przepisach wydanych na podstawie § 8, lekarz przeprowadzający wstępne, okresowe albo kontrolne badania lekarskie wydaje pracownikowi również skierowanie na przeprowadzenie pozostałych badań wynikających z tych przepisów.
 
-§ 6. Lekarz wydaje orzeczenie lekarskie stwierdzające brak przeciwwskazań do pracy w warunkach pracy opisanych w skierowaniu, o którym mowa w § 4a, wyłącznie na podstawie wyników badań, których zakres odpowiada zakresowi badań określonych w przepisach wydanych na podstawie § 8.
+§ 6³. Lekarz wydaje orzeczenie lekarskie stwierdzające brak przeciwwskazań do pracy w warunkach pracy opisanych w skierowaniu, o którym mowa w § 4a, wyłącznie na podstawie wyników badań, których zakres odpowiada zakresowi badań określonych w przepisach wydanych na podstawie § 8.
 
-§ 6. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, wykaz programów zdrowotnych lub programów polityki zdrowotnej realizowanych przez ministra właściwego do spraw zdrowia lub Narodowy Fundusz Zdrowia, które uwzględnia lekarz w ramach przeprowadzania badania wstępnego, badania okresowego albo badania kontrolnego pracownika.
+§ 6⁴. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, wykaz programów zdrowotnych lub programów polityki zdrowotnej realizowanych przez ministra właściwego do spraw zdrowia lub Narodowy Fundusz Zdrowia, które uwzględnia lekarz w ramach przeprowadzania badania wstępnego, badania okresowego albo badania kontrolnego pracownika.
 
-§ 6. Do przeprowadzania badań w zakresie wskazanym w programie zdrowotnym lub programie polityki zdrowotnej stosuje się § 3.
+§ 6⁵. Do przeprowadzania badań w zakresie wskazanym w programie zdrowotnym lub programie polityki zdrowotnej stosuje się § 3.
 
 § 7. Pracodawca przechowuje orzeczenia wydane na podstawie badań lekarskich, o których mowa w § 1, 2 i 5, orzeczenia i skierowania uzyskane na podstawie § 1 oraz skierowania, o których mowa w § 4a.
 
-§ 7. W przypadku stwierdzenia, że warunki określone w skierowaniu, o którym mowa w § 1 , nie odpowiadają warunkom występującym na danym stanowisku pracy, pracodawca zwraca osobie przyjmowanej do pracy to skierowanie oraz orzeczenie lekarskie wydane w wyniku tego skierowania.
+§ 7¹. W przypadku stwierdzenia, że warunki określone w skierowaniu, o którym mowa w § 1 3 , nie odpowiadają warunkom występującym na danym stanowisku pracy, pracodawca zwraca osobie przyjmowanej do pracy to skierowanie oraz orzeczenie lekarskie wydane w wyniku tego skierowania.
 
 § 8. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia:
 
@@ -3352,7 +3356,7 @@ source: pdf
 
 § 3. Pracodawca jest obowiązany prowadzić rejestr wypadków przy pracy.
 
-§ 3. Pracodawca jest obowiązany przechowywać protokół ustalenia okoliczności i przyczyn wypadku przy pracy wraz z pozostałą dokumentacją powypadkową przez 10 lat.
+§ 3¹. Pracodawca jest obowiązany przechowywać protokół ustalenia okoliczności i przyczyn wypadku przy pracy wraz z pozostałą dokumentacją powypadkową przez 10 lat.
 
 § 4. Koszty związane z ustalaniem okoliczności i przyczyn wypadków przy pracy ponosi pracodawca.
 
@@ -3362,12 +3366,12 @@ source: pdf
 
 § 2. Obowiązek, o którym mowa w § 1, dotyczy także lekarza podmiotu właściwego do rozpoznania choroby zawodowej, o którym mowa w przepisach wydanych na podstawie art. 237 § 1 pkt 6.
 
-§ 2. W każdym przypadku podejrzenia choroby zawodowej:
+§ 2¹. W każdym przypadku podejrzenia choroby zawodowej:
 
 - **1)** lekarz,
 - **2)** lekarz dentysta, który podczas wykonywania zawodu powziął takie podejrzenie u pacjenta – kieruje na badania w celu wydania orzeczenia o rozpoznaniu choroby zawodowej albo o braku podstaw do jej rozpoznania.
 
-§ 2. Zgłoszenia podejrzenia choroby zawodowej może również dokonać pracownik lub były pracownik, który podejrzewa, że występujące u niego objawy mogą wskazywać na taką chorobę, przy czym pracownik aktualnie zatrudniony zgłasza podejrzenie za pośrednictwem lekarza sprawującego nad nim profilaktyczną opiekę zdrowotną.
+§ 2². Zgłoszenia podejrzenia choroby zawodowej może również dokonać pracownik lub były pracownik, który podejrzewa, że występujące u niego objawy mogą wskazywać na taką chorobę, przy czym pracownik aktualnie zatrudniony zgłasza podejrzenie za pośrednictwem lekarza sprawującego nad nim profilaktyczną opiekę zdrowotną.
 
 § 3. W razie rozpoznania u pracownika choroby zawodowej, pracodawca jest obowiązany:
 
@@ -3396,7 +3400,7 @@ source: pdf
 - **5)** sposób i tryb postępowania dotyczący zgłaszania podejrzenia, rozpoznawania i stwierdzania chorób zawodowych,
 - **6)** podmioty właściwe w sprawie rozpoznawania chorób zawodowych – uwzględniając aktualną wiedzę w zakresie patogenezy i epidemiologii chorób powodowanych przez czynniki szkodliwe dla człowieka występujące w środowisku pracy oraz kierując się koniecznością zapobiegania występowaniu wypadków przy pracy i chorób zawodowych.
 
-§ 1. Rada Ministrów wskaże w drodze rozporządzenia instytut medycyny pracy, do którego pracodawca przesyła zawiadomienie o skutkach choroby zawodowej oraz termin, w którym ma ono być przesłane, mając na uwadze specjalizację instytutu oraz rodzaj prowadzonych w nim badań.
+§ 1¹. Rada Ministrów wskaże w drodze rozporządzenia instytut medycyny pracy, do którego pracodawca przesyła zawiadomienie o skutkach choroby zawodowej oraz termin, w którym ma ono być przesłane, mając na uwadze specjalizację instytutu oraz rodzaj prowadzonych w nim badań.
 
 § 2. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, wzór protokołu ustalenia okoliczności i przyczyn wypadku przy pracy zawierający dane dotyczące poszkodowanego, składu zespołu powypadkowego, wypadku i jego skutków, stwierdzenie, że wypadek jest lub nie jest wypadkiem przy pracy, oraz wnioski i zalecane środki profilaktyczne, a także pouczenie dla stron postępowania powypadkowego.
 
@@ -3423,13 +3427,13 @@ source: pdf
 
 § 2. Pracodawca jest obowiązany zapewnić przeszkolenie pracownika w zakresie bezpieczeństwa i higieny pracy przed dopuszczeniem go do pracy oraz prowadzenie okresowych szkoleń w tym zakresie. Szkolenie pracownika przed dopuszczeniem do pracy nie jest wymagane w przypadku podjęcia przez niego pracy na tym samym stanowisku pracy, które zajmował u danego pracodawcy bezpośrednio przed nawiązaniem z tym pracodawcą kolejnej umowy o pracę.
 
-§ 2. Pracodawca jest obowiązany odbyć szkolenie w dziedzinie bezpieczeństwa i higieny pracy w zakresie niezbędnym do wykonywania ciążących na nim obowiązków. Szkolenie to powinno być okresowo powtarzane.
+§ 2¹. Pracodawca jest obowiązany odbyć szkolenie w dziedzinie bezpieczeństwa i higieny pracy w zakresie niezbędnym do wykonywania ciążących na nim obowiązków. Szkolenie to powinno być okresowo powtarzane.
 
-§ 2. Szkolenie okresowe pracownika, o którym mowa w § 2, nie jest wymagane w przypadku pracownika na stanowisku administracyjno-biurowym, gdy rodzaj przeważającej działalności pracodawcy w rozumieniu przepisów o statystyce publicznej znajduje się w grupie działalności, dla której ustalono nie wyższą niż trzecia kategorię ryzyka w rozumieniu przepisów o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, chyba że z oceny ryzyka, o której mowa w art. 226 pkt 1, wynika, że jest to konieczne.
+§ 2². Szkolenie okresowe pracownika, o którym mowa w § 2, nie jest wymagane w przypadku pracownika na stanowisku administracyjno-biurowym, gdy rodzaj przeważającej działalności pracodawcy w rozumieniu przepisów o statystyce publicznej znajduje się w grupie działalności, dla której ustalono nie wyższą niż trzecia kategorię ryzyka w rozumieniu przepisów o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, chyba że z oceny ryzyka, o której mowa w art. 226 pkt 1, wynika, że jest to konieczne.
 
-§ 2. W przypadku gdy rodzaj przeważającej działalności pracodawcy w rozumieniu przepisów o statystyce publicznej znajdzie się w grupie działalności, dla której zostanie ustalona wyższa niż trzecia kategoria ryzyka w rozumieniu przepisów o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, pracodawca jest obowiązany przeprowadzić szkolenie okresowe pracownika, o którym mowa w § 2 , w zakresie bezpieczeństwa i higieny pracy, w terminie nie dłuższym niż 6 miesięcy, licząc od dnia ustalenia wyższej kategorii ryzyka.
+§ 2³. W przypadku gdy rodzaj przeważającej działalności pracodawcy w rozumieniu przepisów o statystyce publicznej znajdzie się w grupie działalności, dla której zostanie ustalona wyższa niż trzecia kategoria ryzyka w rozumieniu przepisów o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, pracodawca jest obowiązany przeprowadzić szkolenie okresowe pracownika, o którym mowa w § 2 2 , w zakresie bezpieczeństwa i higieny pracy, w terminie nie dłuższym niż 6 miesięcy, licząc od dnia ustalenia wyższej kategorii ryzyka.
 
-§ 2. Przepis § 2 stosuje się odpowiednio, gdy z dokonanej oceny ryzyka, o której mowa w art. 226 pkt 1, wynika, że przeprowadzenie szkolenia okresowego pracownika, o którym mowa w § 2 , stało się konieczne. Szkolenie okresowe przeprowadza się w terminie nie dłuższym niż 6 miesięcy, licząc od dnia dokonania oceny ryzyka.
+§ 2⁴. Przepis § 2 stosuje się odpowiednio, gdy z dokonanej oceny ryzyka, o której mowa w art. 226 pkt 1, wynika, że przeprowadzenie szkolenia okresowego pracownika, o którym mowa w § 2 2 , stało się konieczne. Szkolenie okresowe przeprowadza się w terminie nie dłuższym niż 6 miesięcy, licząc od dnia dokonania oceny ryzyka.
 
 § 3. Szkolenia, o których mowa w § 2, odbywają się w czasie pracy i na koszt pracodawcy.
 
@@ -3542,7 +3546,7 @@ source: pdf
 
 § 3. Komisja bhp w związku z wykonywaniem zadań wymienionych w § 1 korzysta z ekspertyz lub opinii specjalistów spoza zakładu pracy w przypadkach uzgodnionych z pracodawcą i na jego koszt.
 
-**Art. 237¹³a.** Przedstawiciele pracowników, o których mowa w art. 237 i art. 237 , są wybierani przez zakładowe organizacje związkowe, a jeżeli u pracodawcy takie organizacje nie działają – przez pracowników, w trybie przyjętym w zakładzie pracy.
+**Art. 237¹³a.** Przedstawiciele pracowników, o których mowa w art. 237 i art. 237 12 , są wybierani przez zakładowe organizacje związkowe, a jeżeli u pracodawcy takie organizacje nie działają – przez pracowników, w trybie przyjętym w zakładzie pracy.
 
 #### Rozdział XII Obowiązki organów sprawujących nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi
 
@@ -3675,19 +3679,21 @@ source: pdf
 
 § 1. Jeżeli pracownik nie dokonał – bez swojej winy – w terminie czynności, o których mowa w art. 97 § 2 i w art. 264, sąd pracy na jego wniosek postanowi przywrócenie uchybionego terminu.
 
-§ 2. Wniosek o przywrócenie terminu wnosi się do sądu pracy w ciągu 7 dni od dnia ustania przyczyny uchybienia terminu. We wniosku należy uprawdopodobnić okoliczności uzasadniające przywrócenie terminu. Art. 266–280. 15)
+§ 2. Wniosek o przywrócenie terminu wnosi się do sądu pracy w ciągu 7 dni od dnia ustania przyczyny uchybienia terminu. We wniosku należy uprawdopodobnić okoliczności uzasadniające przywrócenie terminu.
+
+**Art. 266–280.** (uchylone)
 
 ### DZIAŁ TRZYNASTY Odpowiedzialność za wykroczenia przeciwko prawom pracownika
 
 **Art. 281.**
 
-§ 1. Kto, będąc pracodawcą lub działając w jego imieniu:
+§ 1. Kto, będąc pracodawcą lub działając w jego imieniu: 1) zawiera umowę cywilnoprawną w warunkach, w których zgodnie z art. 22 § 1 powinna być zawarta umowa o pracę, 1a) nie zawiadamia właściwego okręgowego inspektora pracy, w formie pisemnej lub elektronicznej, o zawarciu umowy o pracę, o której mowa w art. 25 § 4 pkt 4, wraz ze wskazaniem przyczyn zawarcia takiej umowy, w terminie 5 dni roboczych od dnia jej zawarcia,
 
-- **1)** zawiera umowę cywilnoprawną w warunkach, w których zgodnie z art. 22 § 1 powinna być zawarta umowa o pracę, 1a) nie zawiadamia właściwego okręgowego inspektora pracy, w formie pisemnej lub elektronicznej, o zawarciu umowy o pracę, o której mowa w art. 25 § 4 pkt 4, wraz ze wskazaniem przyczyn zawarcia takiej umowy, w terminie 5 dni roboczych od dnia jej zawarcia, <1b) narusza zakaz, o którym mowa w art. 34 ust. 2l ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. ),>
+- **1b)** narusza zakaz, o którym mowa w art. 34 ust. 2l ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. ),
 - **2)** nie potwierdza na piśmie zawartej z pracownikiem umowy o pracę przed dopuszczeniem go do pracy, 2a) nie informuje pracownika w terminie o warunkach jego zatrudnienia, naruszając w sposób rażący przepisy art. 29 § 3, 3 i 3 oraz art. 29 § 2 i 4, 2b) nie udziela pracownikowi w terminie w postaci papierowej lub elektronicznej odpowiedzi na wniosek lub nie informuje o przyczynie odmowy uwzględnienia wniosku, o których mowa w art. 29 § 3,
 - **3)** wypowiada lub rozwiązuje z pracownikiem stosunek pracy bez wypowiedzenia, naruszając w sposób rażący przepisy prawa pracy,
 - **4)** stosuje wobec pracowników inne kary niż przewidziane w przepisach prawa pracy o odpowiedzialności porządkowej pracowników,
-- **5)** narusza przepisy o czasie pracy lub przepisy o uprawnieniach pracowników związanych z rodzicielstwem i zatrudnianiu młodocianych, 5a) narusza przepisy o elastycznej organizacji pracy, o której mowa w art. 188 , 5b) narusza przepisy o urlopie opiekuńczym, o którym mowa w art. 173 –173 , 5c) narusza przepisy dotyczące uwzględnienia wniosków, o których mowa w art. 142 i art. 67 § 6 i 7, 5d) narusza przepisy dotyczące pokrywania przez pracodawcę kosztów szkoleń, o którym mowa w art. 94 ,
+- **5)** narusza przepisy o czasie pracy lub przepisy o uprawnieniach pracowników związanych z rodzicielstwem i zatrudnianiu młodocianych, 5a) narusza przepisy o elastycznej organizacji pracy, o której mowa w art. 188 1 , 5b) narusza przepisy o urlopie opiekuńczym, o którym mowa w art. 173 1 –173 , 5c) narusza przepisy dotyczące uwzględnienia wniosków, o których mowa w art. 142 i art. 67 § 6 i 7, 5d) narusza przepisy dotyczące pokrywania przez pracodawcę kosztów szkoleń, o którym mowa w art. 94 13 ,
 - **6)** nie prowadzi dokumentacji pracowniczej, 6a) nie przechowuje dokumentacji pracowniczej przez okres, o którym mowa w art. 94 pkt 9b, art. 94 § 2 i art. 94 pkt 2, albo przez dłuższy okres, jeżeli wynika on z odrębnych przepisów,
 - **7)** pozostawia dokumentację pracowniczą w warunkach grożących uszkodzeniem lub zniszczeniem – [podlega karze grzywny od 1000 zł do 30 000 zł] <podlega karze grzywny od 2000 zł do 60 000 zł >.
 
@@ -3735,7 +3741,7 @@ source: pdf
 
 § 2. Jednakże roszczenia pracodawcy o naprawienie szkody, wyrządzonej przez pracownika wskutek niewykonania lub nienależytego wykonania obowiązków pracowniczych, ulegają przedawnieniu z upływem 1 roku od dnia, w którym pracodawca powziął wiadomość o wyrządzeniu przez pracownika szkody, nie później jednak niż z upływem 3 lat od jej wyrządzenia.
 
-§ 2. Przepis § 2 stosuje się także do roszczenia pracodawcy, o którym mowa w art. 61 oraz w art. 101 § 2.
+§ 2¹. Przepis § 2 stosuje się także do roszczenia pracodawcy, o którym mowa w art. 61 oraz w art. 101 § 2.
 
 § 3. Jeżeli pracownik umyślnie wyrządził szkodę, do przedawnienia roszczenia o naprawienie tej szkody stosuje się przepisy Kodeksu cywilnego.
 

@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 1) rozporządzeniem Ministra Rozwoju Regionalnego i Budownictwa z dnia 24 stycznia 2001 r. zmieniającym rozporządzenie w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych (Dz. U. poz. 89);
 2) rozporządzeniem Ministra Inwestycji i Rozwoju z dnia 29 maja 2019 r. zmieniającym rozporządzenie w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych (Dz. U. poz. 1086).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Rozwoju Regionalnego i Budownictwa z dnia 24 stycznia 2001 r. zmieniającego rozporządzenie w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych (Dz. U. poz. 89), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 29 maja 2019 r. zmieniającego rozporządzenie w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych (Dz. U. poz. 1086), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Rozwoju: J. Emilewicz ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 15 kwietnia 1999 r.
+1) § 2 rozporządzenia Ministra Rozwoju Regionalnego i Budownictwa z dnia 24 stycznia 2001 r. zmieniającego rozporządzenie w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych (Dz. U. poz. 89), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Inwestycji i Rozwoju z dnia 29 maja 2019 r. zmieniającego rozporządzenie w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych (Dz. U. poz. 1086), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rozwoju: J. Emilewicz
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 15 kwietnia 1999 r.
 w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych Na podstawie art. 19 ust. 1 pkt 2 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r.
 poz. 276, 284, 782 i 1086) zarządza się, co następuje:
 § 1. Rozporządzenie określa sposób i tryb ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych oraz rodzaje znaków nie podlegających ochronie.

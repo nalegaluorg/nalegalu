@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 21 maja 2014 r. w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych (Dz. U. poz. 668), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów z dnia 22 czerwca 2015 r. zmieniającym rozporządzenie w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych (Dz. U. poz. 913).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 czerwca 2015 r. zmieniającego rozporządzenie w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych (Dz. U. poz. 913), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Finansów: P. Szałamacha ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 21 maja 2014 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 czerwca 2015 r. zmieniającego rozporządzenie w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych (Dz. U. poz. 913), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Finansów: P. Szałamacha
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 21 maja 2014 r.
 w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych Na podstawie art. 65 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
 z 2016 r. poz. 599 i 868) zarządza się, co następuje:
 § 1. Rozporządzenie określa sposób ustalania i dokumentowania wydatków egzekucyjnych, w szczególności sposób ustalania i rozliczania wydatków wspólnych, poniesionych w związku z egzekucją u dwu lub więcej zobowiązanych oraz przypadki, w których wydatki ustala się w formie zryczałtowanej.

@@ -42,7 +42,9 @@ Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja,
 § 4. Wystąpienie, o którym mowa w § 2, doręcza się na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2022 r. poz. 569 i 1002), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy, albo przesyłką rejestrowaną w rozumieniu art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896).
 § 5. Rozporządzenie wchodzi w życie z dniem 14 lipca 2022 r.
 Minister Cyfryzacji: wz. J. Cieszyński Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Cyfryzacji z dnia 21 grudnia 2018 r. w sprawie określenia wzorów wniosków o udostępnienie danych z rejestru mieszkańców i rejestru PESEL oraz trybu uzyskiwania zgody na udostępnienie danych po wykazaniu interesu faktycznego (Dz. U. poz. 2523 oraz z 2019 r. poz. 1212), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 6 ustawy z dnia 14 października 2021 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw (Dz. U. poz. 1978 oraz z 2022 r. poz. 583).
-Załączniki do rozporządzenia Ministra Cyfryzacji z dnia 14 lipca 2022 r. (poz. 1493) Załącznikdorozporządzenia Ministra Cyfryzacji Załącznik nr 1 z dnia ........................................
+
+## Załącznik nr 1 — z dnia ........................................
+
 WZÓR WZÓR Rzeczpospolita EL/WUDJ/1 Polska Wniosek o udostępnienie danych jednostkowych z rejestru mieszkańców oraz rejestru PESEL Instrukcja wypełniania w 3 krokach WYPEŁNIAJ WIELKIMI LITERAMI
 1. Dane organu gminy, do którego kierowany jest wniosek Typ wniosku
 2. Dane wnioskodawcy Adres korespondencyjny – Adres elektroniczny

@@ -30,16 +30,8 @@ source: pdf
 2) ustawą z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 7 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy o aplikacji mObywatel oraz niektórych innych ustaw (Dz. U.
-poz. 1019), który stanowi: „Art. 7. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 3 w zakresie art. 3c oraz art. 1 pkt 5, które wchodzą w życie z dniem 31 grudnia 2025 r.;
-2) art. 3, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia;
-3) art. 4 pkt 4, który wchodzi w życie z dniem 1 września 2025 r.”;
-2) art. 54 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203), który stanowi: „Art. 54. Ustawa wchodzi w życie z dniem 5 marca 2026 r., z wyjątkiem:
-1) art. 17 pkt 3 lit. d tiret drugie i pkt 51 w zakresie uchylenia art. 110, które wchodzą w życie z dniem 1 stycznia 2027 r.;
-2) art. 17 pkt 46 i 51 w zakresie uchylenia art. 113, które wchodzą w życie z dniem 5 marca 2027 r.;
-3) art. 14, który wchodzi w życie z dniem 1 września 2027 r.;
-4) art. 17 pkt 22–31, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”.
-Marszałek Sejmu: W. Czarzasty
+poz. 1019), który stanowi: „ Art. 7. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 3 w zakresie art. 3c oraz art. 1 pkt 5, które wchodzą w życie z dniem 31 grudnia 2025 r.; 2) art. 3, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia; 3) art. 4 pkt 4, który wchodzi w życie z dniem 1 września 2025 r.”;
+2) art. 54 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203), który stanowi: „ Art. 54. Ustawa wchodzi w życie z dniem 5 marca 2026 r., z wyjątkiem: 1) art. 17 pkt 3 lit. d tiret drugie i pkt 51 w zakresie uchylenia art. 110, które wchodzą w życie z dniem 1 stycznia 2027 r.; 2) art. 17 pkt 46 i 51 w zakresie uchylenia art. 113, które wchodzą w życie z dniem 5 marca 2027 r.; 3) art. 14, który wchodzi w życie z dniem 1 września 2027 r.; 4) art. 17 pkt 22–31, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”. Marszałek Sejmu: W. Czarzasty
 USTAWA z dnia 7 maja 2010 r.
 o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 

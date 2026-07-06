@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie przeprowadzania szkolenia myśliwych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 listopada 2010 r. w sprawie przeprowadzania szkolenia myśliwych (Dz. U. z 2012 r. poz. 1092), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 20 marca 2019 r. zmieniającym rozporządzenie w sprawie przeprowadzania szkolenia myśliwych (Dz. U. poz. 590).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 marca 2019 r. zmieniającego rozporządzenie w sprawie przeprowadzania szkolenia myśliwych (Dz. U. poz. 590), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 26 listopada 2010 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 marca 2019 r. zmieniającego rozporządzenie w sprawie przeprowadzania szkolenia myśliwych (Dz. U. poz. 590), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski
+ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 26 listopada 2010 r.
 w sprawie przeprowadzania szkolenia myśliwych Na podstawie art. 18 ust. 7 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2019 r.
 poz. 824) zarządza się, co następuje:
 § 1. Rozporządzenie określa:

@@ -26,27 +26,7 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/76/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2023 r. poz. 1354), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 50 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762), który stanowi: „Art. 50. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, z wyjątkiem:
-1) art. 4 pkt 2 i art. 46, które wchodzą w życie z dniem 30 listopada 2023 r.;
-2) art. 1 pkt 3 lit. g, pkt 30, pkt 31 w zakresie dodawanych art. 38aa–38ac, art. 38ae i art. 38af, oraz art. 1 pkt 48 lit. a, pkt 98–106, pkt 113 lit. a w zakresie dodawanego pkt 1b i lit. d, pkt 121, a także art. 10 pkt 3, art. 16 i art. 32, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-3) art. 11, który wchodzi w życie z dniem 1 lipca 2024 r.;
-4) art. 1:
-a) pkt 31 w zakresie dodawanego art. 38ad,
-b) pkt 41,
-c) pkt 53 lit. b w zakresie, w jakim dotyczy prosumenta wirtualnego energii odnawialnej,
-d) pkt 129 lit. l,
-e) pkt 130,
-f) pkt 131 lit. f w zakresie dodawanego ust. 7 pkt 3,
-g) pkt 134 w zakresie dodawanych art. 184k–184m – które wchodzą w życie z dniem 2 lipca 2024 r.;
-5) art. 1:
-a) pkt 63 lit. b i lit. c w zakresie dodawanego pkt 4a,
-b) pkt 69, 81 i 82,
-c) pkt 85, 87 i pkt 88 lit. a – w zakresie dodawanych w tych przepisach wyrazów „art. 70h ust. 3 pkt 6” i wyrazów „art. 83h ust. 3 pkt 6 i 7”,
-d) pkt 86 w zakresie, w jakim dotyczy wytwórcy, który uzyskał wsparcie, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1, albo wygrał aukcję na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1,
-e) pkt 90 lit. f tiret drugie w zakresie, w jakim dotyczy aukcji na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1, i wsparcia, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1,
-f) pkt 91 lit. b, d, f i g – w zakresie, w jakim dotyczą aukcji na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1, i wsparcia, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1,
-g) pkt 92, 93, pkt 129 lit. h i pkt 131 lit. e – w zakresie, w jakim dotyczą wytwórcy, który uzyskał wsparcie, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1, albo wygrał aukcję na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1 – które wchodzą w życie z dniem 1 lipca 2025 r.”.
-Marszałek Sejmu: S. Hołownia
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 50 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762), który stanowi: „ Art. 50. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, z wyjątkiem: 1) art. 4 pkt 2 i art. 46, które wchodzą w życie z dniem 30 listopada 2023 r.; 2) art. 1 pkt 3 lit. g, pkt 30, pkt 31 w zakresie dodawanych art. 38aa–38ac, art. 38ae i art. 38af, oraz art. 1 pkt 48 lit. a, pkt 98–106, pkt 113 lit. a w zakresie dodawanego pkt 1b i lit. d, pkt 121, a także art. 10 pkt 3, art. 16 i art. 32, które wchodzą w życie z dniem 1 stycznia 2024 r.; 3) art. 11, który wchodzi w życie z dniem 1 lipca 2024 r.; 4) art. 1: a) pkt 31 w zakresie dodawanego art. 38ad, b) pkt 41, c) pkt 53 lit. b w zakresie, w jakim dotyczy prosumenta wirtualnego energii odnawialnej, d) pkt 129 lit. l, e) pkt 130, f) pkt 131 lit. f w zakresie dodawanego ust. 7 pkt 3, g) pkt 134 w zakresie dodawanych art. 184k–184m – które wchodzą w życie z dniem 2 lipca 2024 r.; 5) art. 1: a) pkt 63 lit. b i lit. c w zakresie dodawanego pkt 4a, b) pkt 69, 81 i 82, c) pkt 85, 87 i pkt 88 lit. a – w zakresie dodawanych w tych przepisach wyrazów „art. 70h ust. 3 pkt 6” i wyrazów „art. 83h ust. 3 pkt 6 i 7”, d) pkt 86 w zakresie, w jakim dotyczy wytwórcy, który uzyskał wsparcie, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1, albo wygrał aukcję na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1, e) pkt 90 lit. f tiret drugie w zakresie, w jakim dotyczy aukcji na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1, i wsparcia, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1, f) pkt 91 lit. b, d, f i g – w zakresie, w jakim dotyczą aukcji na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1, i wsparcia, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1, g) pkt 92, 93, pkt 129 lit. h i pkt 131 lit. e – w zakresie, w jakim dotyczą wytwórcy, który uzyskał wsparcie, o którym mowa w art. 70g–70j ustawy zmienianej w art. 1, albo wygrał aukcję na wsparcie operacyjne, o której mowa w art. 83b ust. 1 ustawy zmienianej w art. 1 – które wchodzą w życie z dniem 1 lipca 2025 r.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 22 października 2004 r.
 o jednostkach doradztwa rolniczego
 

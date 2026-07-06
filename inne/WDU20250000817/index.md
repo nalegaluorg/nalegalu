@@ -29,13 +29,8 @@ source: pdf
 1) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907),
 2) ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy o Agencji Mienia Wojskowego (Dz. U. poz. 603) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 czerwca 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 203 i art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), które stanowią: „Art. 203. Fundusz Modernizacji Bezpieczeństwa Publicznego, o którym mowa w ustawie zmienianej w art. 194, staje się Funduszem Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności.” „Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
-1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia;
-3) art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-4) art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”;
-2) art. 2 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy o Agencji Mienia Wojskowego (Dz. U. poz. 603), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+1) art. 203 i art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), które stanowią: „ Art. 203. Fundusz Modernizacji Bezpieczeństwa Publicznego, o którym mowa w ustawie zmienianej w art. 194, staje się Funduszem Modernizacji Bezpieczeństwa Publicznego i Ochrony Ludności.” „Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem: 1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia; 3) art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.; 4) art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”;
+2) art. 2 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy o Agencji Mienia Wojskowego (Dz. U. poz. 603), który stanowi: „ Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
 USTAWA z dnia 10 lipca 2015 r.
 o Agencji Mienia Wojskowego
 

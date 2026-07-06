@@ -2959,7 +2959,7 @@ source: pdf
 
 3. Za osobę kierującą pracownikami w rozumieniu przepisów działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, a także przepisów wykonawczych wydanych na jego podstawie, uważa się przełożonego lub funkcjonariusza albo pracownika odpowiedzialnego za funkcjonowanie służby, działu, oddziału, zespołu lub grupy funkcjonariuszy.
 
-4. W sprawach bezpieczeństwa i higieny służby do funkcjonariuszy stosuje się odpowiednio przepisy działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 209 , art. 209 , art. 210, art. 229 § 1, art. 230, art. 231, art. 234 § 2, art. 235–235 , art. 237–237 , art. 237 § 1 pkt 1 i § 2–4, art. 237 , art. 237 § 3, art. 237 § 4 i art. 237 –237 .
+4. W sprawach bezpieczeństwa i higieny służby do funkcjonariuszy stosuje się odpowiednio przepisy działu dziesiątego ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, a także przepisy wykonawcze wydane na jego podstawie, z wyłączeniem przepisów art. 209 2 , art. 209 3 , art. 210, art. 229 § 1, art. 230, art. 231, art. 234 § 2, art. 235–235 , art. 237–237 , art. 237 § 1 pkt 1 i § 2–4, art. 237 8 , art. 237 § 3, art. 237 § 4 i art. 237 11a –237 .
 
 5. Funkcjonariusz jest obowiązany:
 
@@ -3653,7 +3653,7 @@ source: pdf
 
 **Art. 165.**
 
-1. Funkcjonariuszowi przysługują szczególne uprawnienia związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 i art. 188 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
+1. Funkcjonariuszowi przysługują szczególne uprawnienia związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 186 i art. 188 1 , jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
 
 2. Funkcjonariusz po zakończeniu urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego, urlopu ojcowskiego, urlopu opiekuńczego lub urlopu wychowawczego pełni służbę na dotychczasowym stanowisku służbowym, a jeżeli nie jest to możliwe – na stanowisku równorzędnym z zajmowanym przed rozpoczęciem urlopu, na warunkach nie mniej korzystnych od tych, które obowiązywałyby, gdyby funkcjonariusz nie korzystał z urlopu.
 

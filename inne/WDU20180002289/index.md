@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w s
 1) rozporządzeniem Ministra Gospodarki z dnia 3 października 2011 r. zmieniającym rozporządzenie w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1344);
 2) rozporządzeniem Ministra Rozwoju i Finansów z dnia 12 grudnia 2017 r. zmieniającym rozporządzenie w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej (Dz. U. z 2018 r. poz. 6).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Gospodarki z dnia 3 października 2011 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1344), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej (Dz. U. z 2018 r. poz. 6), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Przedsiębiorczości i Technologii: J. Emilewicz ROZPORZąDZENIE MINISTRA GOSPODARkI z dnia 31 sierpnia 2009 r.
+1) § 2 rozporządzenia Ministra Gospodarki z dnia 3 października 2011 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej (Dz. U. poz. 1344), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 12 grudnia 2017 r. zmieniającego rozporządzenie w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej (Dz. U. z 2018 r. poz. 6), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Przedsiębiorczości i Technologii: J. Emilewicz
+ROZPORZąDZENIE MINISTRA GOSPODARkI z dnia 31 sierpnia 2009 r.
 w sprawie ustalenia planu rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej Na podstawie art. 9 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2017 r.
 poz. 1010 oraz z 2018 r. poz. 650, 1162, 1669 i 2193) zarządza się, co następuje:
 § 1. Ustala się plan rozwoju Pomorskiej Specjalnej Strefy Ekonomicznej, stanowiący załącznik do rozporządzenia.

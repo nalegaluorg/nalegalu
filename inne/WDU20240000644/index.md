@@ -31,10 +31,9 @@ poz. 401), z uwzględnieniem zmian wprowadzonych:
 1) rozporządzeniem Ministra Środowiska z dnia 17 kwietnia 2012 r. zmieniającym rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 507);
 2) rozporządzeniem Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającym rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 2311).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Środowiska z dnia 17 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 507), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 i § 3 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 2311), które stanowią: „§ 2. W stosunku do projektów planów ochrony dla obszaru Natura 2000 sporządzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Klimatu i Środowiska: P. Hennig-Kloska ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 30 marca 2010 r.
+1) § 2 rozporządzenia Ministra Środowiska z dnia 17 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 507), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 i § 3 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 (Dz. U. poz. 2311), które stanowią: „ § 2. W stosunku do projektów planów ochrony dla obszaru Natura 2000 sporządzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: P. Hennig-Kloska
+ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 30 marca 2010 r.
 w sprawie sporządzania projektu planu ochrony dla obszaru Natura 2000 Na podstawie art. 29 ust. 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
 § 1. Rozporządzenie określa dla obszaru Natura 2000, zwanego dalej „obszarem”:
 1) tryb sporządzania projektu planu ochrony;

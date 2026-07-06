@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej”
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 16 sierpnia 2017 r. w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej” (Dz. U. z 2019 r. poz. 2102), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 lipca 2021 r. zmieniającym rozporządzenie w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej” (Dz. U. poz. 1415).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 lipca 2021 r. zmieniającego rozporządzenie w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej” (Dz. U. poz. 1415), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów: M. Rzeczkowska ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 16 sierpnia 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 lipca 2021 r. zmieniającego rozporządzenie w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej” (Dz. U. poz. 1415), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: M. Rzeczkowska
+ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 16 sierpnia 2017 r.
 w sprawie odznaki „Zasłużony dla Krajowej Administracji Skarbowej” Na podstawie art. 6 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
 poz. 813, z późn. zm. ) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
@@ -109,7 +109,9 @@ Przepis § 7 ust. 1 stosuje się odpowiednio.
 § 11. Ewidencję osób wyróżnionych odznaką prowadzi komórka organizacyjna w urzędzie obsługującym ministra właściwego do spraw finansów publicznych właściwa w sprawach związanych z nadawaniem odznaki.
 § 12. W razie utraty odznaki, miniaturki lub legitymacji, na wniosek osoby wyróżnionej, wydaje się wtórny egzemplarz odpowiednio odznaki, miniaturki lub legitymacji, za zwrotem kosztów ich wytworzenia.
 § 13. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia , z wyjątkiem § 2 ust. 1 pkt 6, który wchodzi w życie z dniem 1 stycznia 2018 r.
-Załączniki do rozporządzenia Ministra Rozwoju i Finansów z dnia 16 sierpnia 2017 r. (Dz. U. z 2022 r. poz.….) Załącznik nr 1 WZÓR WZÓR Nr ............
+
+## Załącznik nr 1 — WZÓR WZÓR Nr ............
+
 WNIOSEK O NADANIE BRĄZOWEJ/ SREBRNEJ/ ZŁOTEJ* ODZNAKI „ZASŁUŻONY DLA KRAJOWEJ ADMINISTRACJI SKARBOWEJ”
 1. Imiona 2. Nazwisko ………….................................. .................................................................................................
 ……………………………….. ……………………………………………………………...

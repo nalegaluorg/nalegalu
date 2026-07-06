@@ -35,7 +35,9 @@ zarządza się, co następuje:
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Cyfryzacji: wz. A. Andruszkiewicz Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716).
 Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1000, 1641 i 1978 oraz z 2022 r. poz. 350, 583, 655 i 830.
-Załączniki do rozporządzenia Ministra Cyfryzacji z dnia 6 maja 2022 r. (poz. 996) Załączniki do rozporządzenia Ministra Cyfryzacji Załącznik nr WZÓR z dnia ….......................... r. (poz. ….....) WZÓR Załącznik nr 1 Rzeczpospolita Oznaczenie organu EL/W/1 Polska Wniosek o nadanie numeru PESEL
+
+## Załącznik nr 1 — Rzeczpospolita Oznaczenie organu EL/W/1 Polska Wniosek o nadanie numeru PESEL
+
 1. WYPEŁNIAJ WIELKIMI LITERAMI
 2. Pole wyboru zaznaczaj lub
 3. Wypełniaj kolorem czarnym lub niebieskim

@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie statutu Narodowej Agencji Wymiany Akademickiej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 12 września 2017 r. w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 1771), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Edukacji i Nauki z dnia 12 stycznia 2021 r. zmieniającym rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 96).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 96), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Edukacji i Nauki: P. Czarnek ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 12 września 2017 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 12 stycznia 2021 r. zmieniającego rozporządzenie w sprawie statutu Narodowej Agencji Wymiany Akademickiej (Dz. U. poz. 96), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Edukacji i Nauki: P. Czarnek
+ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 12 września 2017 r.
 w sprawie statutu Narodowej Agencji Wymiany Akademickiej Na podstawie art. 16 ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2019 r.
 poz. 1582) zarządza się, co następuje:
 § 1. Narodowej Agencji Wymiany Akademickiej nadaje się statut, stanowiący załącznik do rozporządzenia.

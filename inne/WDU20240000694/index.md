@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie określenia wzoru i trybu nadawania sztandaru jednostkom organizacyjnym Straży Granicznej oraz trybu nadawania tym jednostkom imion
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 3 września 1996 r. w sprawie określenia wzoru i trybu nadawania sztandaru jednostkom organizacyjnym Straży Granicznej oraz trybu nadawania tym jednostkom imion (Dz. U. z 2018 r. poz. 1132), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2023 r. zmieniającym rozporządzenie w sprawie określenia wzoru i trybu nadawania sztandaru jednostkom organizacyjnym Straży Granicznej oraz trybu nadawania tym jednostkom imion (Dz. U. poz. 1533).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2023 r. zmieniającego rozporządzenie w sprawie określenia wzoru i trybu nadawania sztandaru jednostkom organizacyjnym Straży Granicznej oraz trybu nadawania tym jednostkom imion (Dz. U. poz. 1533), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.”.
-Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 3 września 1996 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 2023 r. zmieniającego rozporządzenie w sprawie określenia wzoru i trybu nadawania sztandaru jednostkom organizacyjnym Straży Granicznej oraz trybu nadawania tym jednostkom imion (Dz. U. poz. 1533), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.”. Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
+ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 3 września 1996 r.
 w sprawie określenia wzoru i trybu nadawania sztandaru jednostkom organizacyjnym Straży Granicznej oraz trybu nadawania tym jednostkom imion Na podstawie art. 7a pkt 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608) zarządza się, co następuje:
 § 1. Rozporządzenie określa wzór i tryb nadawania sztandaru jednostkom organizacyjnym Straży Granicznej oraz tryb nadawania tym jednostkom imion.
 § 2. Sztandar może być nadany następującym jednostkom organizacyjnym Straży Granicznej:
@@ -78,7 +78,6 @@ W dolnej części wieńca, na złączeniu ramion, znajdują się litery „SG”
 § 14. Komendant jednostki organizacyjnej składa ministrowi właściwemu do spraw wewnętrznych za pośrednictwem Komendanta Głównego Straży Granicznej wniosek o nadanie imienia, zawierający historyczne uzasadnienie nadania wnioskowanego imienia, wraz z pisemną akceptacją, o której mowa w § 13 ust. 2. Komendant Główny Straży Granicznej przedstawia wniosek ministrowi właściwemu do spraw wewnętrznych wraz z opinią.
 § 15. Jednostki organizacyjne, którym nadano sztandary i imiona przed wejściem w życie niniejszego rozporządzenia, zachowują te sztandary i imiona na mocy dotychczasowych aktów nadania.
 § 16. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Spraw Wewnętrznych z dnia 3 września 1996 r.
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -89,6 +88,8 @@ Załączniki do rozporządzenia Ministra Spraw Wewnętrznych z dnia 3 września 
 #### Rozdział 4 Tryb nadawania imion jednostkom organizacyjnym Straży Granicznej
 
 #### Rozdział 5 Przepisy końcowe
+
+## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych z dnia 3 września 1996 r.
 
 ## Załącznik nr 1 — SZTANDAR JEDNOSTKI ORGANIZACYJNEJ STRAŻY GRANICZNEJ SZTANDAR JEDNOSTKI ORGANIZACYJNEJ STRAŻY GRANICZNEJ Załącznik nr 2 SZTANDAR SZTANDAR JEDNOSTKI ORGANIZACYJNEJ JEDNOSTKI ORGANIZACYJNEJ STRAŻY GRANICZNEJ STRAŻY GRANICZNEJ Załącznik nr 3 SZTANDAR JEDNOSTKI ORGANIZACYJNEJ SZTANDAR JEDNOSTKI ORGANIZACYJNEJ STRAŻY GRANICZNEJ STRAŻY GRANICZNEJ Załącznik nr 4 SZTANDAR SZTANDAR JEDNOSTKI JEDNOSTKI ORGANIZACYJNEJ ORGANIZACYJNEJ STRAŻY GRANICZNEJ STRAŻY GRANICZNEJ Załącznik nr 5 GŁOWICA GŁOWICA SZTANDARU SZTANDARU JEDNOSTKI JEDNOSTKI ORGANIZACYJNEJ ORGANIZACYJNEJ STRAŻY GRANICZNEJ STRAŻY GREANICZNEJ Załącznik nr 6 GŁOWICA SZTANDARU JEDNOSTKI ORGANIZACYJNEJ GŁOWICA SZTANDARU JEDNOSTKI STRAŻY ORGANIZACYJNEJ GRANICZNEJ STRAŻY GRANICZNEJ
 

@@ -1,12 +1,12 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 411
+Acts excluded from publication due to quality issues. Total: 397
 
 | Address | Reason |
 |---------|--------|
 | WDU19480270183 | No text extracted from PDF — may be a scanned document |
 | WDU19490410294 | source article inventory failed: eli-html=0 AST=14 dup_ast=3 FAIL; duplicate in  |
-| WDU19570390174 | source article inventory failed: eli-html=0 AST=7 dup_ast=3 FAIL; duplicate in A |
+| WDU19570390174 | unclosed amendment quotation for unknown articles |
 | WDU19710270252 | source article inventory failed: eli-html=0 AST=4 dup_ast=1 FAIL; duplicate in A |
 | WDU19820110082 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19840340184 | missing article structure — act type requires Art. markers but parsed AST has 0  |
@@ -14,8 +14,8 @@ Acts excluded from publication due to quality issues. Total: 411
 | WDU19860420201 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19860470228 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19890060035 | missing article structure — act type requires Art. markers but parsed AST has 0  |
-| WDU19890100056 | source article inventory failed: eli-html=1 AST=8 missing_from_ast=1 FAIL; missi |
-| WDU19890300162 | source article inventory failed: eli-html=0 AST=24 dup_ast=3 FAIL; duplicate in  |
+| WDU19890100056 | source article inventory failed: eli-html=1 AST=4 missing_from_ast=1 FAIL; missi |
+| WDU19890300162 | unclosed amendment quotation for 49 |
 | WDU19890340180 | unclosed amendment quotation for 489 |
 | WDU19890340182 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19890740437 | source article inventory failed: eli-html=0 AST=27 dup_ast=9 FAIL; duplicate in  |
@@ -32,7 +32,6 @@ Acts excluded from publication due to quality issues. Total: 411
 | WDU19900790466 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19911030448 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19920580280 | missing article structure — act type requires Art. markers but parsed AST has 0  |
-| WDU19930050022 | source article inventory failed: eli-html=0 AST=5 dup_ast=1 FAIL; duplicate in A |
 | WDU19930470212 | unclosed amendment quotation for unknown articles |
 | WDU19940530215 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19940620265 | missing Polish diacritics — only 8 in 1634 letters (0.49%) — likely ASCII-only e |
@@ -41,31 +40,24 @@ Acts excluded from publication due to quality issues. Total: 411
 | WDU19950850426 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19960010001 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19960060041 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU19960450198 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
-| WDU19961270593 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
 | WDU19961490704 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19970430271 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19970800508 | missing article structure — act type requires Art. markers but parsed AST has 0  |
 | WDU19971020642 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19971110726 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU19980460293 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU19981060668 | rendered round-trip failed: AST=237 rendered=237 dup_rendered=28 low_sim=36 word |
+| WDU19981060668 | rendered round-trip failed: AST=157 rendered=157 dup_rendered=8 low_sim=8 word_l |
 | WDU19981130714 | missing article structure — act type requires Art. markers but parsed AST has 0  |
-| WDU19981621124 | source article inventory failed: eli-html=0 AST=11 dup_ast=1 FAIL; duplicate in  |
 | WDU19990130114 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU19990400401 | source article inventory failed: eli-html=0 AST=14 dup_ast=3 FAIL; duplicate in  |
 | WDU19991011182 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20001131186 | rendered round-trip failed: AST=47 rendered=47 low_sim=1 FAIL; low similarity: 4 |
-| WDU20001141190 | source article inventory failed: eli-html=0 AST=7 dup_ast=2 FAIL; duplicate in A |
-| WDU20011101190 | source article inventory failed: eli-html=0 AST=30 dup_ast=2 FAIL; duplicate in  |
-| WDU20011251372 | source article inventory failed: eli-html=0 AST=13 dup_ast=1 FAIL; duplicate in  |
+| WDU20001131186 | rendered round-trip failed: AST=11 rendered=11 low_sim=1 FAIL; low similarity: 4 |
+| WDU20011101190 | source article inventory failed: eli-html=0 AST=17 dup_ast=1 FAIL; duplicate in  |
 | WDU20011381565 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20020780717 | CID font encoding failure — unreadable glyphs (4 occurrence(s)); character-space |
 | WDU20021090966 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20021411183 | unclosed amendment quotation for unknown articles |
 | WDU20021561306 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20021861560 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
-| WDU20022001680 | source article inventory failed: eli-html=0 AST=6 dup_ast=2 FAIL; duplicate in A |
 | WDU20022382025 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20040430412 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20041521597 | source article inventory failed: eli-html=0 AST=2 dup_ast=1 FAIL; duplicate in A |
@@ -78,8 +70,6 @@ Acts excluded from publication due to quality issues. Total: 411
 | WDU20072311704 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20080540326 | source article inventory failed: eli-html=0 AST=4 dup_ast=1 FAIL; duplicate in A |
 | WDU20080960621 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
-| WDU20081180746 | source article inventory failed: eli-html=0 AST=7 dup_ast=1 FAIL; duplicate in A |
-| WDU20082161369 | source article inventory failed: eli-html=0 AST=3 dup_ast=1 FAIL; duplicate in A |
 | WDU20092011542 | PostScript CE garbled diacritics — unrepaired encoding (3 occurrence(s): 'àc', ' |
 | WDU20100110066 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20100210109 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -113,6 +103,7 @@ Acts excluded from publication due to quality issues. Total: 411
 | WDU20130000924 | excessive repetition — '..................................................…' app |
 | WDU20130001246 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130001413 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20130001441 | omitted-provisions quotation ran into the next item ('4) § 2 rozporządzenia Mini |
 | WDU20130001576 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130001619 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140000221 | No extracted text at /Users/michal/repos/nalegaluorg/extracted/DU_2014_221.txt.  |
@@ -190,7 +181,7 @@ Acts excluded from publication due to quality issues. Total: 411
 | WDU20180000546 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180000605 | excessive repetition — '..................................................…' app |
 | WDU20180000640 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
-| WDU20180000650 | rendered round-trip failed: AST=280 rendered=280 dup_rendered=4 low_sim=4 word_l |
+| WDU20180000650 | rendered round-trip failed: AST=298 rendered=298 dup_rendered=4 low_sim=4 word_l |
 | WDU20180000888 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180000898 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180001237 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -224,7 +215,6 @@ Acts excluded from publication due to quality issues. Total: 411
 | WDU20190001112 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190001126 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190001230 | excessive repetition — '..................................................…' app |
-| WDU20190001309 | source article inventory failed: eli-html=0 AST=34 dup_ast=2 FAIL; duplicate in  |
 | WDU20190001361 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190001406 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20190001478 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
@@ -375,7 +365,7 @@ Acts excluded from publication due to quality issues. Total: 411
 | WDU20240000335 | character-spaced text — 3 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000351 | CID font encoding failure — unreadable glyphs (3 occurrence(s)) |
 | WDU20240000402 | processing failed without diagnostic (stage=error; stale rendered output ignored |
-| WDU20240000453 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
+| WDU20240000453 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); missing paragra |
 | WDU20240000458 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000515 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000569 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
@@ -387,7 +377,7 @@ Acts excluded from publication due to quality issues. Total: 411
 | WDU20240000798 | CID font encoding failure — unreadable glyphs (1 occurrence(s)); excessive repet |
 | WDU20240000823 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20240000871 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20240000903 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
+| WDU20240000903 | CID font encoding failure — unreadable glyphs (1 occurrence(s)); missing paragra |
 | WDU20240000955 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20240000992 | CID font encoding failure — unreadable glyphs (2 occurrence(s)); character-space |
 | WDU20240000996 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
@@ -411,7 +401,3 @@ Acts excluded from publication due to quality issues. Total: 411
 | WDU20240001850 | excessive repetition — '..................................................…' app |
 | WDU20240001898 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
 | WDU20240001954 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
-| WDU20260000662 | rendered round-trip failed: AST=167 rendered=167 dup_rendered=3 low_sim=3 word_l |
-| WDU20260000711 | rendered round-trip failed: AST=160 rendered=160 dup_rendered=1 low_sim=1 word_l |
-| WDU20260000722 | rendered round-trip failed: AST=83 rendered=83 dup_rendered=3 low_sim=3 word_los |
-| WDU20260000734 | rendered round-trip failed: AST=12 rendered=12 dup_rendered=1 low_sim=1 FAIL; lo |

@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Samorządu Terytorialnego, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 12 czerwca 2015 r. w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Samorządu Terytorialnego, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia (Dz. U. poz. 969), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Rady Ministrów z dnia 24 czerwca 2016 r. zmieniającym rozporządzenie w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Samorządu Terytorialnego, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia (Dz. U. poz. 984).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 24 czerwca 2016 r. zmieniającego rozporządzenie w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Samorządu Terytorialnego, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia (Dz. U. poz. 984), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE rady mINIStróW z dnia 12 czerwca 2015 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 24 czerwca 2016 r. zmieniającego rozporządzenie w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Samorządu Terytorialnego, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia (Dz. U. poz. 984), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE rady mINIStróW z dnia 12 czerwca 2015 r.
 w sprawie ustanowienia Odznaki Honorowej za Zasługi dla Samorządu Terytorialnego, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia Na podstawie art. 4 ust. 2 i art. 6 ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r.
 poz. 38) zarządza się, co następuje:
 § 1. 1. Ustanawia się Odznakę Honorową za Zasługi dla Samorządu Terytorialnego, zwaną dalej „odznaką”.
@@ -58,7 +58,9 @@ poz. 38) zarządza się, co następuje:
 § 10. W razie utraty odznaki, miniaturki lub dyplomu potwierdzającego jej nadanie wydaje się wtórny egzemplarz odpowiednio odznaki, miniaturki lub dyplomu, za zwrotem, przez osobę wyróżnioną, kosztów ich wytworzenia.
 § 11. Koszty związane z nadaniem odznaki są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw administracji publicznej.
 § 12. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia RadyMinistrów z dnia 12 czerwca 2015 r.
+
+## Załączniki do rozporządzenia RadyMinistrów z dnia 12 czerwca 2015 r.
+
 (poz. …) Załącznik nr 1 WZÓR WZÓR WNIOSEK O NADANIE ODZNAKI HONOROWEJ ZA ZASŁUGI DLA SAMORZĄDU TERYTORIALNEGO
 1. Imię (imiona) 2. Nazwisko (wypełnić drukowanymi literami)
 3. Nr PESEL 4. Imię ojca (wypełnić drukowanymi literami)

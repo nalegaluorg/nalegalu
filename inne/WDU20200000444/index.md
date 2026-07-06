@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2016 r. w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności (Dz. U. poz. 398), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 30 stycznia 2019 r. zmieniającym rozporządzenie w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności (Dz. U. poz. 306).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 stycznia 2019 r. zmieniającego rozporządzenie w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności (Dz. U. poz. 306), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”.
-Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 marca 2016 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 stycznia 2019 r. zmieniającego rozporządzenie w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności (Dz. U. poz. 306), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski
+ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 marca 2016 r.
 w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności Na podstawie art. 38 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
 z 2019 r. poz. 2178 oraz z 2020 r. poz. 285) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
@@ -83,7 +83,9 @@ c) pobrania próbek – stanowiący załącznik nr 5 do rozporządzenia,
 d) pobrania próbek chmielu w ramach procedury jego certyfikacji – stanowiący załącznik nr 6 do rozporządzenia,
 e) ustalenia klas jakości świeżych owoców i warzyw – stanowiący załącznik nr 7 do rozporządzenia.
 § 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsiz dnia 18 marca2016 r. (poz.
+
+## Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsiz dnia 18 marca2016 r. (poz.
+
 .........) Załącznik nr1 WZÓR ZAŚWIADCZENIA OWPISANIU DO REJESTRU RZECZOZNAWCÓW WZÓR ZAŚWIADCZENIA O WPISANIU DO REJESTRU RZECZOZNAWCÓW awers rewers awers rewers Zaświadczenie jest ważne z dowodem tożsamości seria ........................................................
 ZAŚWIADCZENIE NR ...........................
 numer ......................................................

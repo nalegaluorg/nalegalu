@@ -30,8 +30,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 z 2022 r. poz. 1988), z uwzględnieniem zmian wprowadzonych:
 1) obwieszczeniem Prezesa Rady Ministrów z dnia 3 marca 2023 r. o sprostowaniu błędu (Dz. U. poz. 439);
 2) rozporządzeniem Rady Ministrów z dnia 7 sierpnia 2023 r. zmieniającym rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1621).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 7 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1621), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 16 listopada 2023 r. (Dz. U. poz. 2518) ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2013 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 7 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1621), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 16 listopada 2023 r. (Dz. U. poz. 2518)
+ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2013 r.
 w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości Na podstawie art. 111 ust. 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581 oraz z 2023 r. poz. 1394, 1703 i 2005) zarządza się, co następuje:
 § 1. 1. Ustala się Krajową Tablicę Przeznaczeń Częstotliwości, zwaną dalej „Tablicą”, stanowiącą załącznik nr 1 do rozporządzenia.
 2. Uwagi do przeznaczeń zakresów częstotliwości określonych w Tablicy zawiera załącznik nr 2 do rozporządzenia.

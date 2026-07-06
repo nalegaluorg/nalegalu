@@ -281,9 +281,9 @@ source: pdf
 - **11)** kwotę opłaty do zapłaty;
 - **12)** pouczenie, że informacja stanowi podstawę do wystawienia tytułu wykonawczego na podstawie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ).
 
-19. Naczelnik Pierwszego Urzędu Skarbowego w Bydgoszczy do końca miesiąca następującego po terminie, o którym mowa w ust. 17, dokonuje podziału łącznych wpływów z opłaty w części, o której mowa w ust. 11, oraz z dodatkowej opłaty, o której mowa w ust. 21, proporcjonalnie do wpływów uzyskanych przez gminy za I i II kwartał z opłat, o których mowa w art. 11 , na podstawie danych publikowanych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych oraz przekazuje środki na rachunki bankowe Narodowego Funduszu Zdrowia i gmin.
+19. Naczelnik Pierwszego Urzędu Skarbowego w Bydgoszczy do końca miesiąca następującego po terminie, o którym mowa w ust. 17, dokonuje podziału łącznych wpływów z opłaty w części, o której mowa w ust. 11, oraz z dodatkowej opłaty, o której mowa w ust. 21, proporcjonalnie do wpływów uzyskanych przez gminy za I i II kwartał z opłat, o których mowa w art. 11 1 , na podstawie danych publikowanych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych oraz przekazuje środki na rachunki bankowe Narodowego Funduszu Zdrowia i gmin.
 
-20. Naczelnik Pierwszego Urzędu Skarbowego w Bydgoszczy do końca kwietnia następnego roku dokonuje podziału łącznych wpływów z opłaty w części, o której mowa w ust. 11, oraz z dodatkowej opłaty, o której mowa w ust. 21, proporcjonalnie do wpływów uzyskanych przez gminy za III i IV kwartał roku ubiegłego z opłat, o których mowa w art. 11 , na podstawie danych publikowanych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych oraz przekazuje środki na rachunki bankowe Narodowego Funduszu Zdrowia i gmin.
+20. Naczelnik Pierwszego Urzędu Skarbowego w Bydgoszczy do końca kwietnia następnego roku dokonuje podziału łącznych wpływów z opłaty w części, o której mowa w ust. 11, oraz z dodatkowej opłaty, o której mowa w ust. 21, proporcjonalnie do wpływów uzyskanych przez gminy za III i IV kwartał roku ubiegłego z opłat, o których mowa w art. 11 1 , na podstawie danych publikowanych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych oraz przekazuje środki na rachunki bankowe Narodowego Funduszu Zdrowia i gmin.
 
 21. W przypadku niedopełnienia obowiązków, o których mowa w ust. 17 pkt 1 lub 2, organ, o którym mowa w ust. 16, ustala, w drodze decyzji, dodatkową opłatę w wysokości:
 
@@ -511,9 +511,9 @@ source: pdf
 
 5. Opłatę, o której mowa w ust. 1, wnosi się najpóźniej w ostatnim dniu miesiąca, w którym stosownie do ust. 2 upłynął termin na złożenie zbiorczej deklaracji miesięcznej, na rachunek urzędu skarbowego, przy pomocy którego wykonuje swoje zadania naczelnik urzędu skarbowego właściwy na podstawie ust. 1a dla podmiotu, o którym mowa w ust. 1.
 
-5a. Naczelnik urzędu skarbowego, o którym mowa w ust. 5, przekazuje kwoty wpłaconych opłat, o których mowa w ust. 1, na rachunek Funduszu Zajęć Sportowych dla Uczniów, o którym mowa w art. 13 , w terminie 14 dni od dnia ich wpłaty.
+5a. Naczelnik urzędu skarbowego, o którym mowa w ust. 5, przekazuje kwoty wpłaconych opłat, o których mowa w ust. 1, na rachunek Funduszu Zajęć Sportowych dla Uczniów, o którym mowa w art. 13 3 , w terminie 14 dni od dnia ich wpłaty.
 
-5b. Zwrot kwoty nadpłat z tytułu opłaty, o której mowa w ust. 1, jest pokrywany ze środków Funduszu Zajęć Sportowych dla Uczniów, o którym mowa w art. 13 .
+5b. Zwrot kwoty nadpłat z tytułu opłaty, o której mowa w ust. 1, jest pokrywany ze środków Funduszu Zajęć Sportowych dla Uczniów, o którym mowa w art. 13 3 .
 
 5c. Minister właściwy do spraw kultury fizycznej na wniosek naczelnika urzędu skarbowego, o którym mowa w ust. 5, przekazuje w terminie 7 dni od dnia wpływu wniosku, na rachunek urzędu skarbowego, o którym mowa w ust. 5, środki niezbędne do realizacji kwoty nadpłaty, o której mowa w ust. 5b.
 
@@ -604,7 +604,7 @@ source: pdf
 
 1. Przedsiębiorca niebędący pracodawcą organizujący pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy albo osoby fizyczne prowadzące na własny rachunek działalność gospodarczą może przeprowadzać kontrolę trzeźwości tych osób oraz kontrolę na obecność w ich organizmach środków działających podobnie do alkoholu.
 
-2. W przypadkach, o których mowa w ust. 1, stosuje się odpowiednio art. 22 – 22 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) oraz przepisy wydane na podstawie art. 22 tej ustawy.
+2. W przypadkach, o których mowa w ust. 1, stosuje się odpowiednio art. 22 1c – 22 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) oraz przepisy wydane na podstawie art. 22 tej ustawy.
 
 3. W przypadku braku odrębnych przepisów do kontroli trzeźwości oraz kontroli na obecność środków działających podobnie do alkoholu u osób pozostających w stosunku służby przepisy, o których mowa w ust. 2, stosuje się odpowiednio.
 
@@ -649,12 +649,12 @@ source: pdf
 7. Warunkiem prowadzenia sprzedaży napojów alkoholowych do spożycia w miejscu lub poza miejscem sprzedaży jest:
 
 - **1)** posiadanie zezwolenia, o którym mowa w ust. 1;
-- **2)** wniesienie opłaty, o której mowa w art. 11 ;
+- **2)** wniesienie opłaty, o której mowa w art. 11 1 ;
 - **3)** zaopatrywanie się w napoje alkoholowe u producentów i przedsiębiorców:
     - **a)** posiadających odpowiednie zezwolenie na sprzedaż hurtową napojów alkoholowych lub
     - **b)** o których mowa w art. 9 ust. 6;
 
-- **4)** w terminach do dnia 1 lutego, 1 czerwca, 1 października każdego roku kalendarzowego objętego zezwoleniem, okazanie przedsiębiorcy zaopatrującemu dany punkt sprzedaży napojów alkoholowych odpowiedniego dowodu potwierdzającego dokonanie opłaty, o której mowa w art. 11 ;
+- **4)** w terminach do dnia 1 lutego, 1 czerwca, 1 października każdego roku kalendarzowego objętego zezwoleniem, okazanie przedsiębiorcy zaopatrującemu dany punkt sprzedaży napojów alkoholowych odpowiedniego dowodu potwierdzającego dokonanie opłaty, o której mowa w art. 11 1 ;
 - **5)** posiadanie tytułu prawnego do korzystania z lokalu, stanowiącego punkt sprzedaży;
 - **6)** wykonywanie działalności gospodarczej w zakresie objętym zezwoleniem tylko przez przedsiębiorcę w nim oznaczonego i wyłącznie w miejscu wymienionym w zezwoleniu;
 - **7)** zgłaszanie organowi zezwalającemu zmian stanu faktycznego i prawnego, w stosunku do danych zawartych w zezwoleniu, w terminie 14 dni od dnia powstania zmiany;
@@ -721,7 +721,7 @@ source: pdf
 - **1)** gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o których mowa w art. 4 ust. 2,
 - **2)** zadań realizowanych przez placówkę wsparcia dziennego, w której mowa w art. 9 pkt 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, w ramach gminnego programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii, o którym mowa w art. 4 ust. 2 – i nie mogą być przeznaczone na inne cele.
 
-**Art. 18³.** Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 9, art. 18 i art. 18 , stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
+**Art. 18³.** Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 9, art. 18 i art. 18 1 , stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414).
 
 **Art. 18⁴.**
 
@@ -1068,7 +1068,7 @@ source: pdf
 - **6)** adres zamieszkania lub miejsce pobytu osoby doprowadzonej do izby wytrzeźwień lub placówki albo jednostki Policji;
 - **7)** opis zachowania osoby doprowadzonej do izby wytrzeźwień lub placówki albo jednostki Policji w czasie interwencji i transportu, z uwzględnieniem okoliczności uniemożliwiających doprowadzenie do miejsca zamieszkania lub pobytu;
 - **8)** wykaz przedmiotów posiadanych przez osobę doprowadzoną do izby wytrzeźwień lub placówki albo jednostki Policji;
-- **9)** informacje o okolicznościach określonych w art. 40 , będących podstawą przyjęcia do izby wytrzeźwień, placówki albo jednostki Policji;
+- **9)** informacje o okolicznościach określonych w art. 40 1 , będących podstawą przyjęcia do izby wytrzeźwień, placówki albo jednostki Policji;
 - **10)** dyspozycję co do dalszego postępowania z osobą doprowadzoną do izby wytrzeźwień lub placówki albo jednostki Policji po wytrzeźwieniu;
 - **11)** miejsce doprowadzenia oraz decyzję dyrektora izby wytrzeźwień, kierownika placówki albo komendanta jednostki Policji o przyjęciu lub odmowie przyjęcia.
 
@@ -1264,7 +1264,7 @@ source: pdf
 - **1)** dostarcza napoje alkoholowe do miejsc sprzedaży lub
 - **2)** nie uwidacznia informacji o szkodliwości spożywania alkoholu, podlega karze grzywny.
 
-**Art. 45¹.** Orzekanie w sprawach o czyny wymienione w art. 43 –45 następuje na podstawie przepisów o postępowaniu w sprawach o wykroczenia.
+**Art. 45¹.** Orzekanie w sprawach o czyny wymienione w art. 43 1 –45 następuje na podstawie przepisów o postępowaniu w sprawach o wykroczenia.
 
 **Art. 45².**
 

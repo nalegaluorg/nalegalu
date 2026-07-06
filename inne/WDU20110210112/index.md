@@ -5865,5 +5865,9 @@ Wybory uzupełniające i przedterminowe
 
 ### DZIAŁ X Przepis końcowy
 
-**Art. 517.** Ustawa wchodzi w życie w terminie określonym w ustawie – Przepisy wprowadzające ustawę – Kodeks wyborczy. Załączniki do ustawy z dnia 5 2011 r. (Dz. U. z 2025 r. poz. Załącznik Załącznik Załącznik
+**Art. 517.** Ustawa wchodzi w życie w terminie określonym w ustawie – Przepisy wprowadzające ustawę – Kodeks wyborczy.
+
+## Załączniki do ustawy z dnia 5 2011 r. (Dz. U. z 2025 r. poz.
+
+Załącznik Załącznik Załącznik
 

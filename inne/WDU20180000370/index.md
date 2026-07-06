@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 1 marca 2012 r. w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 245), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 20 stycznia 2017 r. zmieniającym rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 179).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 20 stycznia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 179), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”.
-Minister Finansów: wz. W. Janczyk ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 1 marca 2012 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 20 stycznia 2017 r. zmieniającego rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 179), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”. Minister Finansów: wz. W. Janczyk
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 1 marca 2012 r.
 w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy Na podstawie art. 171a § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm. ) zarządza się, co następuje:
 § 1. Obowiązek prowadzenia metryki sprawy jest wyłączony w sprawie:
 1) zaliczenia wpłaty na poczet zaległości podatkowych,

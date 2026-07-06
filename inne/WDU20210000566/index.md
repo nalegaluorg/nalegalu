@@ -27,9 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 7 lipca 2016 r. w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1 (Dz. U. poz. 1085), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 11 października 2019 r. zmieniającym rozporządzenie w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1 (Dz. U. poz. 1987).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1 (Dz. U. poz. 1987), które stanowią: „§ 2. Do zapotrzebowań, o których mowa w § 6 rozporządzenia zmienianego w § 1, sporządzonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 7 lipca 2016 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1 (Dz. U. poz. 1987), które stanowią: „ § 2. Do zapotrzebowań, o których mowa w § 6 rozporządzenia zmienianego w § 1, sporządzonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: A. Niedzielski
+ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 7 lipca 2016 r.
 w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1 Na podstawie art. 40 ust. 5 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050) zarządza się, co następuje:
 § 1. 1. Rozporządzenie określa:
 1) szczegółowe warunki i tryb wydawania oraz cofania zezwoleń na obrót hurtowy środkami odurzającymi lub substancjami psychotropowymi;
@@ -117,7 +116,8 @@ e) ilość wydaną, wyrażoną w miligramach, gramach, kilogramach, sztukach, al
 § 13. 1. Podmioty prowadzące obrót hurtowy środkami odurzającymi lub substancjami psychotropowymi oraz podmioty prowadzące obrót hurtowy prekursorami kategorii 1 dostosują prowadzoną działalność do wymogów niniejszego rozporządzenia w terminie 6 miesięcy od dnia jego wejścia w życie.
 2. Do postępowań w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1 wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
 § 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załączniki do rozporządzenia Ministra Zdrowia z dnia 7 lipca 2016 r.
+
+## Załączniki do rozporządzenia Ministra Zdrowia z dnia 7 lipca 2016 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR ............................................................
 

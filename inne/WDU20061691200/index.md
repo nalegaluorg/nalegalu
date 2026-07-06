@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o systemie monitorowania i kontrolowania jakości paliw
+# Ustawa z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw
 
 *USTAWA z dnia 25 sierpnia 2006 r.*
 
@@ -24,6 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2006-08-25 |
 | Data wydania | 2006-09-25 |
+| Wejście w życie | 2007-01-01 |
 | Ostatnia zmiana | 2026-02-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061691200) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1200/text.pdf) |
 
@@ -343,7 +344,11 @@ source: pdf
 
 1. Dystrybutory używane na stacjach paliwowych do paliw ciekłych zawierających dodatki metaliczne należy oznakować, umieszczając na nich widoczną i czytelną informację o następującej treści: „Zawiera dodatki metaliczne”.
 
-2. Wymóg oznakowania dystrybutorów, o którym mowa w ust. 1, dotyczy także dystrybutorów używanych na stacjach zakładowych. Art. 9ca. 1. Przedsiębiorcy wykonujący działalność gospodarczą w zakresie wprowadzania do obrotu paliw ciekłych na stacjach paliwowych oraz stacjach zakładowych są obowiązani do oznakowania pistoletów wydawczych i dystrybutorów w sposób określający rodzaj wydawanego paliwa ciekłego.
+2. Wymóg oznakowania dystrybutorów, o którym mowa w ust. 1, dotyczy także dystrybutorów używanych na stacjach zakładowych.
+
+**Art. 9ca.**
+
+1. Przedsiębiorcy wykonujący działalność gospodarczą w zakresie wprowadzania do obrotu paliw ciekłych na stacjach paliwowych oraz stacjach zakładowych są obowiązani do oznakowania pistoletów wydawczych i dystrybutorów w sposób określający rodzaj wydawanego paliwa ciekłego.
 
 2. Informacja o rodzaju paliwa ciekłego wykorzystywanego do napędu pojazdu samochodowego jest umieszczana:
 
@@ -800,11 +805,13 @@ source: pdf
 
 **Art. 30g.** (uchylony)
 
-**Art. 30h.** (uchylony) Art. 30ha. (uchylony)
+**Art. 30h.** (uchylony)
+
+**Art. 30ha.** (uchylony)
 
 **Art. 30i.** (uchylony)
 
-**Art. 30j.** (uchylony) [Art. 30k. Prezes Urzędu Regulacji Energetyki może żądać od podmiotu realizującego Narodowy Cel Redukcyjny przedstawienia dokumentów lub informacji dotyczących realizacji Narodowego Celu Redukcyjnego, z zachowaniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.]
+**Art. 30j.** (uchylony)
 
 #### Rozdział 3 Przepisy karne
 
@@ -885,9 +892,7 @@ source: pdf
 - **10)** przedsiębiorca wprowadzający do obrotu paliwo stałe z przeznaczeniem, o którym mowa w art. 1 ust. 2, oraz z przeznaczeniem innym niż określone w art. 1 ust. 2, który wbrew obowiązkowi nie przechowuje kopii dokumentów, o których mowa w art. 6b ust. 1;
 - **11)** przedsiębiorca, który nie przestrzega obowiązków, o których mowa w art. 9ca ust. 1–3; [12) podmiot realizujący Narodowy Cel Redukcyjny, który odmawia przedstawienia dokumentów lub informacji, o których mowa w art. 30k;
 - **13)** podmiot realizujący Narodowy Cel Redukcyjny, który wprowadza w błąd Prezesa Urzędu Regulacji Energetyki w zakresie przedstawianych dokumentów lub informacji, o których mowa w art. 30k;]
-- **14)** przedsiębiorca wytwarzający, transportujący, magazynujący, wprowadzający do obrotu lub gromadzący w stacji zakładowej wodór, a także przedsiębiorca prowadzący hurtownię wodoru, który nie przekazał w terminie informacji, o której mowa w art. 27b ust. 1 lub 2, lub podał w tej informacji nieprawdziwe dane. [Art. 35b. 1. W przypadku niewykonania obowiązku, o którym mowa w art. 30b ust. 1 i 2, przez podmioty wspólnie realizujące ten obowiązek, karze pieniężnej podlegają te podmioty, które nie zrealizowały tego obowiązku w przypadku rozliczania samodzielnej jego realizacji.
-
-2. (uchylony)]
+- **14)** przedsiębiorca wytwarzający, transportujący, magazynujący, wprowadzający do obrotu lub gromadzący w stacji zakładowej wodór, a także przedsiębiorca prowadzący hurtownię wodoru, który nie przekazał w terminie informacji, o której mowa w art. 27b ust. 1 lub 2, lub podał w tej informacji nieprawdziwe dane.
 
 **Art. 35c.** [1. Wysokość kary pieniężnej wymierzonej w przypadkach, o których mowa w art. 35a pkt 1–3, 6, 8 i 11–14, wynosi 5000 zł.] <1. Wysokość kary pieniężnej wymierzonej w przypadkach, o których mowa w art. 35a pkt 1–3, 6, 11 i 14, wynosi 5000 zł.> 2. (uchylony) [3. Wysokość kary pieniężnej wymierzonej w przypadku, o którym mowa w art. 35a pkt 7, oblicza się według wzoru: K= S × O × W, gdzie poszczególne symbole oznaczają: K – wysokość kary pieniężnej, wyrażoną w złotych [zł], S – 215,00 złotych za tonę ekwiwalentu dwutlenku węgla [zł/tCO ], O – wartość niewykonanego obowiązku, o którym mowa w art. 30b ust. 1 i 2, wyrażoną w tonach ekwiwalentu dwutlenku węgla w przeliczeniu na jednostkę energii [tCO /MJ], z dokładnością do dziesięciu miejsc po przecinku, W – odpowiednio wartość opałową lub energetyczną paliw ciekłych, biopaliw ciekłych, gazu skroplonego (LPG), sprężonego gazu ziemnego (CNG), skroplonego gazu ziemnego (LNG) lub wodoru, rozporządzanych przez dokonanie jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw na terytorium Rzeczypospolitej Polskiej lub zużytych na potrzeby własne na tym terytorium, oraz energii elektrycznej sprzedawanej odbiorcy końcowemu lub zużywanej na potrzeby własne, liczoną za rok, w którym podmiot ten nie wykonał obowiązku, o którym mowa w art. 30b ust. 1 i 2, wyrażoną w jednostkach energii [MJ]. 4. Wysokość kary pieniężnej, o której mowa w ust. 3, nie może przekroczyć 15 % przychodu ukaranego podmiotu realizującego Narodowy Cel Redukcyjny, osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna związana jest z działalnością prowadzoną na podstawie koncesji, wysokość kary nie może przekroczyć 15 % przychodu ukaranego podmiotu realizującego Narodowy Cel Redukcyjny, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.] 5. Wysokość kary pieniężnej wymierzanej w przypadkach, o których mowa w art. 35a pkt 9 i 10, wynosi:
 

@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wysokości opłaty za sporządzenie kopii oraz odpisu dokumentów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 18 grudnia 2015 r. w sprawie wysokości opłaty za sporządzenie kopii oraz odpisu dokumentów (Dz. U. poz. 2182), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rozwoju i Finansów z dnia 13 lipca 2017 r. zmieniającym rozporządzenie w sprawie wysokości opłaty za sporządzenie kopii oraz odpisu dokumentów (Dz. U. poz. 1409).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 13 lipca 2017 r. zmieniającego rozporządzenie w sprawie wysokości opłaty za sporządzenie kopii oraz odpisu dokumentów (Dz. U. poz. 1409), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Finansów: T. Czerwińska ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 18 grudnia 2015 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 13 lipca 2017 r. zmieniającego rozporządzenie w sprawie wysokości opłaty za sporządzenie kopii oraz odpisu dokumentów (Dz. U. poz. 1409), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: T. Czerwińska
+ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 18 grudnia 2015 r.
 w sprawie wysokości opłaty za sporządzenie kopii oraz odpisu dokumentów Na podstawie art. 270b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn.
 zm. ) zarządza się, co następuje:
 § 1. Opłata za sporządzenie przez organ podatkowy kopii lub odpisu dokumentu wynosi:

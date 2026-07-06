@@ -29,8 +29,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Prezesa Rady Ministrów z dnia 14 września 2011 r. w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz. U. z 2015 r. poz. 971), z uwzględnieniem zmian wprowadzonych rozporządzeniem Prezesa Rady Ministrów z dnia 5 października 2016 r.
 zmieniającym rozporządzenie w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz. U. poz. 1625).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 5 października 2016 r. zmieniającego rozporządzenie w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych (Dz. U.
-poz. 1625), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 7 października 2016 r.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 14 września 2011 r.
+poz. 1625), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 7 października 2016 r.”. Prezes Rady Ministrów: M. Morawiecki
+ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 14 września 2011 r.
 w sprawie sporządzania i doręczania dokumentów elektronicznych oraz udostępniania formularzy, wzorów i kopii dokumentów elektronicznych Na podstawie art. 16 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) warunki organizacyjno-techniczne doręczania dokumentów elektronicznych, w tym reguły tworzenia elektronicznej skrzynki podawczej;

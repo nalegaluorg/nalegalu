@@ -134,7 +134,7 @@ Przepisy przejściowe i końcowe
 
 **Art. 13.**
 
-1. Pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji oznacza się, z uwzględnieniem art. 14 i art. 15 , według daty zgłoszenia wynalazku, wzoru użytkowego albo wzoru przemysłowego w Urzędzie Patentowym.
+1. Pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji oznacza się, z uwzględnieniem art. 14 i art. 15 1 , według daty zgłoszenia wynalazku, wzoru użytkowego albo wzoru przemysłowego w Urzędzie Patentowym.
 
 2. Zgłoszenie uważa się za dokonane, z zastrzeżeniem art. 31 ust. 4, w dniu, w którym wpłynęło ono do Urzędu Patentowego z zachowaniem formy pisemnej również za pomocą telefaksu lub w postaci elektronicznej.
 
@@ -418,7 +418,7 @@ Przepisy przejściowe i końcowe
 
 - **1)** zgłaszający nie jest uprawniony do korzystania z uprzedniego pierwszeństwa;
 - **2)** zgłoszenie dokonane za granicą, na którym zgłaszający opiera swoje zastrzeżenie uprzedniego pierwszeństwa, nie jest pierwszym zgłoszeniem w rozumieniu przepisu art. 14;
-- **3)** wystawa, na której wystawienie jest podstawą zastrzeżenia uprzedniego pierwszeństwa przez zgłaszającego, nie spełnia wymagań określonych w art. 15 ;
+- **3)** wystawa, na której wystawienie jest podstawą zastrzeżenia uprzedniego pierwszeństwa przez zgłaszającego, nie spełnia wymagań określonych w art. 15 1 ;
 - **4)** wynalazek zgłoszony w Urzędzie Patentowym lub odpowiednia część tego wynalazku różni się od wynalazku, do którego zgłaszającemu przysługuje uprzednie pierwszeństwo;
 - **5)** zgłaszający uchybił przewidzianym w art. 14 i art. 15 terminom dla dokonania zgłoszenia albo terminowi dla złożenia dowodu pierwszeństwa lub innego dokumentu bądź oświadczenia wymaganego do uzyskania pierwszeństwa lub
 - **6)** zgłaszający złożył, z naruszeniem przepisu art. 35, oświadczenie o korzystaniu z uprzedniego pierwszeństwa.
@@ -793,7 +793,7 @@ Przepisy przejściowe i końcowe
 - **1)** upływu okresu, na który został udzielony;
 - **2)** zrzeczenia się patentu przez uprawnionego przed Urzędem Patentowym, za zgodą osób, którym służą prawa na patencie;
 - **3)** nieuiszczenia w przewidzianym terminie opłaty okresowej albo
-- **4)** trwałej utraty możliwości korzystania z wynalazku, z zastrzeżeniem art. 93 , z powodu braku potrzebnego do tego materiału biologicznego, który stał się niedostępny i nie może być odtworzony na podstawie opisu.
+- **4)** trwałej utraty możliwości korzystania z wynalazku, z zastrzeżeniem art. 93 7 , z powodu braku potrzebnego do tego materiału biologicznego, który stał się niedostępny i nie może być odtworzony na podstawie opisu.
 
 2. W sprawach, o których mowa w ust. 1 pkt 2–4, Urząd Patentowy wydaje decyzje stwierdzające wygaśnięcie patentu.
 
@@ -1106,7 +1106,7 @@ Przepisy przejściowe i końcowe
 
 **Art. 118.**
 
-1. Do wzorów przemysłowych i praw z rejestracji wzorów przemysłowych przepisy art. 32, art. 35–37, art. 39, art. 39 , art. 41, art. 42 ust. 1, art. 46, art. 50, art. 55, art. 66 ust. 2, art. 67, art. 68, art. 70–75, art. 76–79, art. 81–88, art. 90 i art. 92 stosuje się odpowiednio.
+1. Do wzorów przemysłowych i praw z rejestracji wzorów przemysłowych przepisy art. 32, art. 35–37, art. 39, art. 39 1 , art. 41, art. 42 ust. 1, art. 46, art. 50, art. 55, art. 66 ust. 2, art. 67, art. 68, art. 70–75, art. 76–79, art. 81–88, art. 90 i art. 92 stosuje się odpowiednio.
 
 2. Zmiany dokonywane w zgłoszeniu w toku jego rozpatrywania nie mogą dotyczyć samego wzoru i jego odmian przedstawionych w opisie i na rysunku oraz na fotografiach. Zakaz ten nie obejmuje przypadków dokonania korekty zastrzeganej postaci wytworu, jeżeli nie spowoduje to zmiany tożsamości wzoru i bez której uzyskanie prawa z rejestracji wzoru przemysłowego byłoby niemożliwe.
 
@@ -1301,7 +1301,7 @@ Przepisy przejściowe i końcowe
 
 1. Do czasu wydania decyzji zgłaszający może dokonywać w zgłoszeniu uzupełnień i poprawek, które nie mogą prowadzić do zmiany istoty znaku towarowego ani rozszerzać wykazu towarów, dla których znak ten został zgłoszony.
 
-1. Do czasu wydania decyzji zgłaszający może złożyć wniosek o usunięcie ze znaku towarowego oznaczeń, o których mowa w art. 129 . Przepis ust. 1 stosuje się odpowiednio. Wraz z wnioskiem, zgłaszający przesyła zmienione fotografie lub odbitki znaku towarowego, o ile są one w zgłoszeniu wymagane.
+1. Do czasu wydania decyzji zgłaszający może złożyć wniosek o usunięcie ze znaku towarowego oznaczeń, o których mowa w art. 129 1 . Przepis ust. 1 stosuje się odpowiednio. Wraz z wnioskiem, zgłaszający przesyła zmienione fotografie lub odbitki znaku towarowego, o ile są one w zgłoszeniu wymagane.
 
 2. Zgłaszający może, z zastrzeżeniem ust.1, podzielić zgłoszenie w stosunku do wskazanych towarów, z zachowaniem daty pierwszeństwa.
 
@@ -1325,9 +1325,9 @@ Przepisy przejściowe i końcowe
 
 **Art. 145.**
 
-1. Jeżeli Urząd Patentowy stwierdzi brak warunków wymaganych do uzyskania prawa ochronnego na znak towarowy z przyczyn, o których mowa w art. 129 , art. 136 i art. 136 , wydaje decyzję o odmowie udzielenia prawa ochronnego na znak towarowy.
+1. Jeżeli Urząd Patentowy stwierdzi brak warunków wymaganych do uzyskania prawa ochronnego na znak towarowy z przyczyn, o których mowa w art. 129 1 , art. 136 i art. 136 3 , wydaje decyzję o odmowie udzielenia prawa ochronnego na znak towarowy.
 
-2. W przypadku gdy brak warunków wymaganych do uzyskania prawa ochronnego na znak towarowy z przyczyn, o których mowa w art. 129 , art. 136 i art. 136 , dotyczy tylko niektórych towarów, Urząd Patentowy wydaje decyzję o odmowie udzielenia prawa ochronnego na znak towarowy dla tych towarów.
+2. W przypadku gdy brak warunków wymaganych do uzyskania prawa ochronnego na znak towarowy z przyczyn, o których mowa w art. 129 1 , art. 136 i art. 136 3 , dotyczy tylko niektórych towarów, Urząd Patentowy wydaje decyzję o odmowie udzielenia prawa ochronnego na znak towarowy dla tych towarów.
 
 3. Przed wydaniem decyzji, o których mowa w ust. 1 i 2, Urząd Patentowy informuje zgłaszającego o zebranych dowodach i okolicznościach mogących świadczyć o istnieniu przeszkód do uzyskania prawa ochronnego na znak towarowy i wyznacza mu termin do zajęcia stanowiska.
 
@@ -1335,21 +1335,21 @@ Przepisy przejściowe i końcowe
 
 **Art. 146¹.**
 
-1. Urząd Patentowy niezwłocznie dokonuje ogłoszenia w „Biuletynie Urzędu Patentowego” o zgłoszeniu znaku towarowego, co do którego nie stwierdzono braku warunków wymaganych do uzyskania prawa ochronnego na znak towarowy z przyczyn, o których mowa w art. 129 , art. 136 i art. 136 .
+1. Urząd Patentowy niezwłocznie dokonuje ogłoszenia w „Biuletynie Urzędu Patentowego” o zgłoszeniu znaku towarowego, co do którego nie stwierdzono braku warunków wymaganych do uzyskania prawa ochronnego na znak towarowy z przyczyn, o których mowa w art. 129 1 , art. 136 i art. 136 3 .
 
 2. Przed ogłoszeniem, o którym mowa w ust. 1, jednak nie później niż w terminie 2 miesięcy od daty zgłoszenia, Urząd Patentowy ujawnia informacje o znaku towarowym, dacie pierwszeństwa, dacie i numerze zgłoszenia, wykazie towarów i usług, imieniu i nazwisku lub nazwie zgłaszającego, jego miejscu zamieszkania lub siedzibie oraz kodzie kraju.
 
 3. Po uprawomocnieniu się decyzji o odmowie udzielenia prawa ochronnego na znak towarowy, o której mowa w art. 145 ust. 2, Urząd Patentowy dokonuje ogłoszenia w „Biuletynie Urzędu Patentowego” o zgłoszeniu znaku towarowego dla pozostałych towarów.
 
-4. Osoby trzecie mogą zgłaszać uwagi co do istnienia okoliczności, o których mowa w art. 129 , art. 136 i art. 136 .
+4. Osoby trzecie mogą zgłaszać uwagi co do istnienia okoliczności, o których mowa w art. 129 1 , art. 136 i art. 136 3 .
 
-5. Urząd Patentowy może wydać decyzję o odmowie udzielenia prawa ochronnego na znak towarowy, w przypadku powzięcia informacji o okolicznościach, o których mowa w art. 129 , art. 136 i art. 136 , także po ogłoszeniu o zgłoszeniu znaku towarowego. Przepis art. 145 ust. 3 stosuje się odpowiednio.
+5. Urząd Patentowy może wydać decyzję o odmowie udzielenia prawa ochronnego na znak towarowy, w przypadku powzięcia informacji o okolicznościach, o których mowa w art. 129 1 , art. 136 i art. 136 3 , także po ogłoszeniu o zgłoszeniu znaku towarowego. Przepis art. 145 ust. 3 stosuje się odpowiednio.
 
 6. Dla zgłoszenia znaku towarowego podlegającego ogłoszeniu, Urząd Patentowy sporządza zawiadomienie o istnieniu identycznych lub podobnych znaków towarowych z wcześniejszym pierwszeństwem, przeznaczonych do oznaczania takich samych lub podobnych towarów i przekazuje je zgłaszającemu. Zawiadomienie to ma charakter wyłącznie informacyjny i nie jest wiążące.
 
 **Art. 147.**
 
-1. Po bezskutecznym upływie terminu na złożenie sprzeciwu, o którym mowa w art. 152 ust. 1, Urząd Patentowy wydaje decyzję o udzieleniu prawa ochronnego na znak towarowy, chyba że powziął, po ogłoszeniu o zgłoszeniu znaku towarowego, informację o okolicznościach, o których mowa w art. 129 , art. 136 i art. 136 .
+1. Po bezskutecznym upływie terminu na złożenie sprzeciwu, o którym mowa w art. 152 ust. 1, Urząd Patentowy wydaje decyzję o udzieleniu prawa ochronnego na znak towarowy, chyba że powziął, po ogłoszeniu o zgłoszeniu znaku towarowego, informację o okolicznościach, o których mowa w art. 129 1 , art. 136 i art. 136 3 .
 
 1. Po prawomocnym zakończeniu wszystkich postępowań w sprawie sprzeciwu, Urząd Patentowy odmawia udzielenia prawa ochronnego na znak towarowy w zakresie, w którym sprzeciwy zostały uznane za zasadne, a w pozostałym zakresie udziela prawa ochronnego na znak towarowy.
 
@@ -1375,15 +1375,15 @@ Przepisy przejściowe i końcowe
 
 1. Urząd Patentowy po otrzymaniu z Biura Międzynarodowego informacji o wyznaczeniu na terytorium Rzeczypospolitej Polskiej międzynarodowego znaku towarowego, niezwłocznie dokonuje ogłoszenia o tym wyznaczeniu w „Biuletynie Urzędu Patentowego”.
 
-2. Osoby trzecie mogą zgłaszać uwagi co do istnienia okoliczności, o których mowa w art. 129 , art. 136 i art. 136 .
+2. Osoby trzecie mogą zgłaszać uwagi co do istnienia okoliczności, o których mowa w art. 129 1 , art. 136 i art. 136 3 .
 
 **Art. 152².**
 
-1. W przypadku stwierdzenia braku warunków wymaganych do uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego z przyczyn, o których mowa w art. 129 , art. 136 , art. 138 ust. 3 i 4 oraz art. 141, Urząd Patentowy przekazuje do Biura Międzynarodowego, w trybie, formie i języku przewidzianych w Porozumieniu lub Protokole, notę, w której zawiadamia o powodach uniemożliwiających uznanie na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego (wstępna odmowa uznania ochrony), a także wyznacza uprawnionemu z rejestracji międzynarodowego znaku towarowego termin do zajęcia stanowiska w sprawie.
+1. W przypadku stwierdzenia braku warunków wymaganych do uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego z przyczyn, o których mowa w art. 129 1 , art. 136 1 , art. 138 ust. 3 i 4 oraz art. 141, Urząd Patentowy przekazuje do Biura Międzynarodowego, w trybie, formie i języku przewidzianych w Porozumieniu lub Protokole, notę, w której zawiadamia o powodach uniemożliwiających uznanie na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego (wstępna odmowa uznania ochrony), a także wyznacza uprawnionemu z rejestracji międzynarodowego znaku towarowego termin do zajęcia stanowiska w sprawie.
 
 2. Po upływie terminu wskazanego w ust. 1 Urząd Patentowy wydaje decyzję w sprawie uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego (decyzja w sprawie uznania ochrony), chyba że wniesiono sprzeciw, o którym mowa w art. 152 ust. 1.
 
-**Art. 152³.** W przypadku gdy brak warunków wymaganych do uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego z przyczyn, o których mowa w art. 129 , art. 136 , art. 138 ust. 3 i 4 oraz art. 141, dotyczy tylko niektórych towarów, Urząd Patentowy wydaje decyzję o odmowie uznania ochrony dla tych towarów. Przepis art. 152 ust. 1 stosuje się odpowiednio.
+**Art. 152³.** W przypadku gdy brak warunków wymaganych do uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego z przyczyn, o których mowa w art. 129 1 , art. 136 1 , art. 138 ust. 3 i 4 oraz art. 141, dotyczy tylko niektórych towarów, Urząd Patentowy wydaje decyzję o odmowie uznania ochrony dla tych towarów. Przepis art. 152 ust. 1 stosuje się odpowiednio.
 
 **Art. 152⁴.** (uchylony)
 
@@ -1397,17 +1397,17 @@ Przepisy przejściowe i końcowe
 
 2. W przypadku wniesienia sprzeciwu wobec wyznaczenia na terytorium Rzeczypospolitej Polskiej międzynarodowego znaku towarowego, Urząd Patentowy przekazuje do Biura Międzynarodowego, w trybie, formie i języku przewidzianych w Porozumieniu lub Protokole, notę o powodach mogących uniemożliwić uznanie ochrony w całości lub części (wstępna odmowa uznania ochrony oparta na sprzeciwie).
 
-3. Do postępowania w sprawie sprzeciwu wobec wyznaczenia na terytorium Rzeczypospolitej Polskiej międzynarodowego znaku towarowego przepisy art. 152 ust. 2–7 oraz art. 152 –152 stosuje się odpowiednio.
+3. Do postępowania w sprawie sprzeciwu wobec wyznaczenia na terytorium Rzeczypospolitej Polskiej międzynarodowego znaku towarowego przepisy art. 152 ust. 2–7 oraz art. 152 18 –152 stosuje się odpowiednio.
 
 **Art. 152⁶b.**
 
-1. Po bezskutecznym upływie terminu na wniesienie sprzeciwu, o którym mowa w art. 152 ust. 1, Urząd Patentowy wydaje decyzję o uznaniu na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego (decyzja o uznaniu ochrony), chyba że stwierdził brak warunków wymaganych do uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego, z przyczyn, o których mowa w art. 129 , art. 136 , art. 138 ust. 3 i 4 oraz art. 141. Decyzję tę Urząd Patentowy przekazuje do Biura Międzynarodowego wraz z notą, w terminach wskazanych w Porozumieniu lub Protokole. Tryb przekazania, formę i język noty reguluje Porozumienie lub Protokół.
+1. Po bezskutecznym upływie terminu na wniesienie sprzeciwu, o którym mowa w art. 152 ust. 1, Urząd Patentowy wydaje decyzję o uznaniu na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego (decyzja o uznaniu ochrony), chyba że stwierdził brak warunków wymaganych do uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego, z przyczyn, o których mowa w art. 129 1 , art. 136 1 , art. 138 ust. 3 i 4 oraz art. 141. Decyzję tę Urząd Patentowy przekazuje do Biura Międzynarodowego wraz z notą, w terminach wskazanych w Porozumieniu lub Protokole. Tryb przekazania, formę i język noty reguluje Porozumienie lub Protokół.
 
 2. Po prawomocnym zakończeniu wszystkich postępowań w sprawie sprzeciwu, Urząd Patentowy odmawia uznania na terytorium Rzeczypospolitej Polskiej ochrony międzynarodowego znaku towarowego w zakresie, w którym sprzeciwy uznane zostały za zasadne, a w pozostałym zakresie uznaje na terytorium Rzeczypospolitej Polskiej ochronę międzynarodowego znaku towarowego.
 
 **Art. 152⁶c.**
 
-1. Jeżeli Urząd Patentowy nie stwierdził przeszkód do udzielenia prawa ochronnego, o których mowa w art. 129 i art. 136 , oraz spełnione zostały warunki, o których mowa w art. 138 ust. 3 i 4 oraz art. 141, a także nie wniesiono sprzeciwu, o którym mowa w art. 152 ust. 1, wydaje, w terminach wskazanych w Porozumieniu lub Protokole, decyzję o uznaniu ochrony, którą przekazuje do Biura Międzynarodowego wraz z notą, której tryb przekazania, formę i język przewiduje Porozumienie lub Protokół.
+1. Jeżeli Urząd Patentowy nie stwierdził przeszkód do udzielenia prawa ochronnego, o których mowa w art. 129 i art. 136 1 , oraz spełnione zostały warunki, o których mowa w art. 138 ust. 3 i 4 oraz art. 141, a także nie wniesiono sprzeciwu, o którym mowa w art. 152 ust. 1, wydaje, w terminach wskazanych w Porozumieniu lub Protokole, decyzję o uznaniu ochrony, którą przekazuje do Biura Międzynarodowego wraz z notą, której tryb przekazania, formę i język przewiduje Porozumienie lub Protokół.
 
 2. W przypadku, o którym mowa w ust. 1, decyzji o uznaniu ochrony nie doręcza się uprawnionemu.
 
@@ -1630,7 +1630,7 @@ Przepisy przejściowe i końcowe
 
 **Art. 164.**
 
-1. Prawo ochronne na znak towarowy może być unieważnione na wniosek, w całości lub części, jeżeli nie zostały spełnione warunki wymagane do uzyskania tego prawa z przyczyn, o których mowa w art. 129 , art. 136 oraz art. 136 , i w przypadku istnienia wcześniejszego prawa, o którym mowa w art. 132 ust. 1–3.
+1. Prawo ochronne na znak towarowy może być unieważnione na wniosek, w całości lub części, jeżeli nie zostały spełnione warunki wymagane do uzyskania tego prawa z przyczyn, o których mowa w art. 129 1 , art. 136 oraz art. 136 3 , i w przypadku istnienia wcześniejszego prawa, o którym mowa w art. 132 ust. 1–3.
 
 2. W przypadku gdy podstawą wniosku jest wcześniejsze prawo, o którym mowa w art. 129 ust. 4 lub art. 132 ust. 1–3, na prawo to może powoływać się jedynie uprawniony z tego prawa oraz osoba uprawniona do wykonywania praw wynikających z tego prawa. Przepis art. 133 stosuje się odpowiednio.
 
@@ -1651,7 +1651,7 @@ Przepisy przejściowe i końcowe
 - **2)** wcześniejszy znak towarowy nie nabrał jeszcze wystarczająco odróżniającego charakteru, aby możliwe było stwierdzenie ryzyka wprowadzenia odbiorców w błąd, o którym mowa w art. 132 ust. 1 pkt 3, o ile przepis ten stanowi podstawę wniosku o unieważnienie;
 - **3)** wcześniejszy znak towarowy nie uzyskał jeszcze renomy, o której mowa w art. 132 ust. 1 pkt 4, o ile przepis ten stanowi podstawę wniosku o unieważnienie.
 
-4. W przypadku gdy podstawą wniosku o unieważnienie prawa ochronnego na wspólny znak towarowy lub znak towarowy gwarancyjny jest art. 136 lub art. 136 , Urząd Patentowy odmawia unieważnienia prawa ochronnego na wspólny znak towarowy lub znak towarowy gwarancyjny, jeżeli po zmianie przez uprawnionego regulaminu używania znaku są spełnione warunki, o których mowa w tych przepisach.
+4. W przypadku gdy podstawą wniosku o unieważnienie prawa ochronnego na wspólny znak towarowy lub znak towarowy gwarancyjny jest art. 136 lub art. 136 3 , Urząd Patentowy odmawia unieważnienia prawa ochronnego na wspólny znak towarowy lub znak towarowy gwarancyjny, jeżeli po zmianie przez uprawnionego regulaminu używania znaku są spełnione warunki, o których mowa w tych przepisach.
 
 **Art. 166.**
 
@@ -2446,7 +2446,7 @@ Przepisy przejściowe i końcowe
 
 1. Po upływie terminu wyznaczonego stronie do udzielenia odpowiedzi na wniosek Urząd Patentowy wyznacza termin rozprawy, o czym zawiadamia strony lub ich pełnomocników, doręczając im jednocześnie odpis odpowiedzi na wniosek, jeżeli została udzielona.
 
-2. W sprawach wymienionych w art. 255 ust. 6, w art. 255 , w art. 255 ust. 2, w art. 255 ust. 3, a także w przypadku przywrócenia terminu określonego w art. 255 ust. 6, Urząd Patentowy może orzekać na posiedzeniach niejawnych.
+2. W sprawach wymienionych w art. 255 ust. 6, w art. 255 4 , w art. 255 ust. 2, w art. 255 ust. 3, a także w przypadku przywrócenia terminu określonego w art. 255 ust. 6, Urząd Patentowy może orzekać na posiedzeniach niejawnych.
 
 3. W zawiadomieniu o rozprawie określa się termin, miejsce i przedmiot rozprawy.
 

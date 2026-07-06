@@ -30,9 +30,8 @@ z 2022 r. poz. 1215), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej (Dz. U. poz. 1459),
 2) ustawą z dnia 13 stycznia 2023 r. o zmianie ustawy o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 oraz niektórych innych ustaw (Dz. U. poz. 181) oraz zmian wynikających z przepisów ogłoszonych przed dniem 2 marca 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 79 ustawy z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej (Dz. U. poz. 1459), który stanowi: „Art. 79. Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 36–42, art. 61 i art. 65–68, które wchodzą w życie z dniem 1 marca 2023 r.”;
-2) art. 11 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 oraz niektórych innych ustaw (Dz. U. poz. 181), który stanowi: „Art. 11. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
+1) art. 79 ustawy z dnia 28 kwietnia 2022 r. o Akademii Kopernikańskiej (Dz. U. poz. 1459), który stanowi: „ Art. 79. Ustawa wchodzi w życie z dniem 1 września 2022 r., z wyjątkiem art. 36–42, art. 61 i art. 65–68, które wchodzą w życie z dniem 1 marca 2023 r.”;
+2) art. 11 ustawy z dnia 13 stycznia 2023 r. o zmianie ustawy o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 oraz niektórych innych ustaw (Dz. U. poz. 181), który stanowi: „ Art. 11. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 31 lipca 1981 r.
 o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe
 

@@ -36,13 +36,11 @@ poz. 898);
 4) rozporządzeniem Ministra Sprawiedliwości z dnia 7 lipca 2023 r. zmieniającym rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 1338).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 15 lutego 2016 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U.
-poz. 269 i 416), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”;
-2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 29 lipca 2016 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U.
-poz. 1213), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 30 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 898), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-4) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 7 lipca 2023 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U.
-poz. 1338), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro Załącznik do obwieszczenia Ministra Sprawiedliwości z dnia 20 września 2023 r. (Dz. U. poz. 2179) ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 kwietnia 2012 r.
+poz. 269 i 416), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”;
+2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 29 lipca 2016 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 1213), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 30 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 898), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+4) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 7 lipca 2023 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 1338), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro Załącznik do obwieszczenia Ministra Sprawiedliwości z dnia 20 września 2023 r. (Dz. U. poz. 2179)
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 kwietnia 2012 r.
 w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym Na podstawie art. 125 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r.
 poz. 1550, 1429, 1606, 1615, 1667 i 1860) zarządza się, co następuje:
 § 1. (uchylony).
@@ -72,8 +70,11 @@ Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
 W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1.
 Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 maja 2002 r. w sprawie określenia wzorów i sposobu udostępniania stronom urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 728 oraz z 2005 r. poz. 704) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 14 sierpnia 2003 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy wniosków stosowanych w sądach rejonowych prowadzących księgi wieczyste w systemie informatycznym (Dz. U. poz. 1527, z 2009 r. poz. 189 oraz z 2011 r. poz. 462), które utraciły moc z dniem wejścia w życie ustawy z dnia 16 września 2011 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U.
 poz. 1381).
-Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. (Dz. U. z 2023 r. poz. 2179) Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony) Załącznik nr 6 (uchylony) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1.
-Załączniki do rozporządzenia z dnia 7 lipca 2023 r. (Dz. U. poz.
+
+## Załącznik nr 1 — (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony) Załącznik nr 6 (uchylony) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1.
+
+## Załączniki do rozporządzenia z dnia 7 lipca 2023 r. (Dz. U. poz.
+
 ….) Załącznik nr 7 WZÓR Załącznik nr 7 WZÓR strona 1 Adnotacja o wpłynięciu wniosku: KW-ZAL Wniosek o założenie księgi wieczystej Rejestr Ksiąg Wieczystych Numer Dz. Kw: Uiszczono opłatę w kwocie (w zł): POUCZENIE • Formularz należy wypełnić w języku polskim, czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
 • Wnioskodawca wypełnia tylko pola jasne wniosku, z tym że pola niewypełnione należy przekreślić.
 • Wniosek można złożyć w biurze podawczym wydziału ksiąg wieczystych lub nadać w polskiej placówce operatora świadczącego pocztowe usługi powszechne na terytorium Rzeczypospolitej Polskiej albo w zagranicznej placówce pocztowej operatora świadczącego pocztowe usługi powszechne na terytorium innego państwa członkowskiego Unii Europejskiej na adres tego wydziału.

@@ -28,8 +28,8 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu w sprawie wypadków i incydentów lotniczych
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu z dnia 18 stycznia 2007 r. w sprawie wypadków i incydentów lotniczych (Dz. U.
 poz. 225), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającym rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Infrastruktury i Budownictwa: A. Adamczyk ROZPORZĄDZENIE MINISTRA TRANSPORTU z dnia 18 stycznia 2007 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 3 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie wypadków i incydentów lotniczych (Dz. U. poz. 1539), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Infrastruktury i Budownictwa: A. Adamczyk
+ROZPORZĄDZENIE MINISTRA TRANSPORTU z dnia 18 stycznia 2007 r.
 w sprawie wypadków i incydentów lotniczych Na podstawie art. 139 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089) zarządza się, co następuje:
 § 1. Rozporządzenie określa:
 1) sposób działania systemu obowiązkowego zgłaszania zdarzeń w lotnictwie cywilnym i sposób prowadzenia bazy danych o zdarzeniach lotniczych;

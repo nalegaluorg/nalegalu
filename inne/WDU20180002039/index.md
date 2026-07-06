@@ -31,12 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 2) rozporządzeniem Ministra Sprawiedliwości z dnia 22 grudnia 2008 r. zmieniającym rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1666);
 3) rozporządzeniem Ministra Sprawiedliwości z dnia 28 sierpnia 2017 r. zmieniającym rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1715).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 1993 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 440), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 22 grudnia 2008 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U.
-poz. 1666), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U.
-poz. 1715), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Minister Sprawiedliwości: Z. Ziobro ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 12 kwietnia 1991 r.
+1) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 5 października 1993 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 440), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 22 grudnia 2008 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1666), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”;
+3) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 28 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym (Dz. U. poz. 1715), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Sprawiedliwości: Z. Ziobro
+ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 12 kwietnia 1991 r.
 w sprawie prowadzenia ksiąg notarialnych oraz przekazywania na przechowanie dokumentów sądom rejonowym Na podstawie art. 90 § 2 ustawy z dnia 14 lutego 1991 r. ‒ Prawo o notariacie (Dz. U. z 2017 r. poz. 2291 oraz z 2018 r. poz. 398, 723, 1496, 1629 i 1669) zarządza się, co następuje:
 § 1. 1. Notariusz prowadzi, według ustalonych wzorów, następujące księgi notarialne:
 1) repertorium A;

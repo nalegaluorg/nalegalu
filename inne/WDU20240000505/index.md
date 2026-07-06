@@ -266,7 +266,7 @@ source: pdf
 5. W zakresie nieuregulowanym w ustawie do decyzji, o której mowa w ust. 4:
 
 - **1)** stosuje się odpowiednio przepisy art. 11 ust. 8 i 9, art. 103 ust. 1, 3, 4 i 5, art. 104–106 i art. 109 ust. 1–5 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
-- **2)** stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), z wyjątkiem przepisów art. 9, art. 10, art. 13, art. 31, art. 35 § 2–5, art. 36–38, art. 39 , art. 48, art. 49, art. 61 § 4, art. 66a, art. 73, art. 78, art. 79, art. 81, art. 89–96, art. 105 § 2, art. 106, art. 109 i art. 127–140 tej ustawy.
+- **2)** stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), z wyjątkiem przepisów art. 9, art. 10, art. 13, art. 31, art. 35 § 2–5, art. 36–38, art. 39 1 , art. 48, art. 49, art. 61 § 4, art. 66a, art. 73, art. 78, art. 79, art. 81, art. 89–96, art. 105 § 2, art. 106, art. 109 i art. 127–140 tej ustawy.
 
 6. (uchylony)
 
@@ -350,7 +350,7 @@ source: pdf
 6. W zakresie nieuregulowanym w ustawie do decyzji oraz do postępowania w sprawie wydania decyzji, o której mowa w ust. 1:
 
 - **1)** stosuje się odpowiednio przepisy art. 11 ust. 8 i 9, art. 103 ust. 1, 3, 4 i 5, art. 104–106 i art. 109 ust. 1–5 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
-- **2)** stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów art. 9, art. 10, art. 13, art. 31, art. 35 § 2–5, art. 36–38, art. 39 , art. 48, art. 49, art. 61 § 4, art. 66a, art. 73, art. 78, art. 79, art. 81, art. 89–96, art. 105 § 2, art. 106, art. 109 i art. 127–140 tej ustawy.
+- **2)** stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów art. 9, art. 10, art. 13, art. 31, art. 35 § 2–5, art. 36–38, art. 39 1 , art. 48, art. 49, art. 61 § 4, art. 66a, art. 73, art. 78, art. 79, art. 81, art. 89–96, art. 105 § 2, art. 106, art. 109 i art. 127–140 tej ustawy.
 
 **Art. 19e.**
 

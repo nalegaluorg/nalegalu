@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie kamiennogórskiej specjalnej strefy ekonomicznej
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie kamiennogórskiej specjalnej strefy ekonomicznej (Dz. U. z 2016 r. poz. 1794), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 21 czerwca 2017 r. zmieniającym rozporządzenie w sprawie kamiennogórskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1340).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 21 czerwca 2017 r. zmieniającego rozporządzenie w sprawie kamiennogórskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1340), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Prezes Rady Ministrów: M. Morawiecki RozpoRządzenie RADY MINISTRÓW z dnia 15 grudnia 2008 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 21 czerwca 2017 r. zmieniającego rozporządzenie w sprawie kamiennogórskiej specjalnej strefy ekonomicznej (Dz. U. poz. 1340), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
+RozpoRządzenie RADY MINISTRÓW z dnia 15 grudnia 2008 r.
 w sprawie kamiennogórskiej specjalnej strefy ekonomicznej Na podstawie art. 4 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2017 r.
 poz. 1010 oraz z 2018 r. poz. 650, 1162, 1669 i 2193) zarządza się, co następuje:
 § 1. 1. Kamiennogórska Specjalna Strefa Ekonomiczna Małej Przedsiębiorczości, ustanowiona rozporządzeniem Rady Ministrów z dnia 9 września 1997 r. w sprawie ustanowienia Specjalnej Strefy Ekonomicznej w Kamiennej Górze (Dz. U.

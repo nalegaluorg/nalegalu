@@ -30,9 +30,9 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Bu
 1) rozporządzeniem Ministra Infrastruktury z dnia 12 stycznia 2022 r. zmieniającym rozporządzenie w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego (Dz. U. poz. 129);
 2) rozporządzeniem Ministra Infrastruktury z dnia 14 kwietnia 2023 r. zmieniającym rozporządzenie w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego (Dz. U. poz. 786).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
-1) § 2 rozporządzenia Ministra Infrastruktury z dnia 12 stycznia 2022 r. zmieniającego rozporządzenie w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego (Dz. U. poz. 129), który stanowi: „§ 2. Rozporządzenie wchodzi w życie z dniem 31 stycznia 2022 r.”;
-2) § 2 rozporządzenia Ministra Infrastruktury z dnia 14 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego (Dz. U. poz. 786), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia.”.
-Minister Infrastruktury: D. Klimczak ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 13 kwietnia 2012 r.
+1) § 2 rozporządzenia Ministra Infrastruktury z dnia 12 stycznia 2022 r. zmieniającego rozporządzenie w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego (Dz. U. poz. 129), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 31 stycznia 2022 r.”;
+2) § 2 rozporządzenia Ministra Infrastruktury z dnia 14 kwietnia 2023 r. zmieniającego rozporządzenie w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego (Dz. U. poz. 786), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia.”. Minister Infrastruktury: D. Klimczak
+ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 13 kwietnia 2012 r.
 w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego Na podstawie art. 75c pkt 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) zarządza się, co następuje:
 § 1. 1. Przepisy rozporządzenia określają:
 1) tryb legalizacji tablic rejestracyjnych pojazdów;
