@@ -33,7 +33,9 @@ poz. 190) załączniki nr 1–3 do rozporządzenia otrzymują brzmienie określo
 Minister Finansów: P. Szałamacha
 1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184.
-Załączniki do rozporządzenia Ministra Finansów z dnia 18 grudnia 2015 r. (poz. 2209) Załącznik nr 1 Załączniki do rozporządzenia Ministra Finansów z dnia 2015 r. (poz. ) Załącznik nr 1 POLTAX
+
+## Załącznik nr 1 — Załączniki do rozporządzenia Ministra Finansów z dnia 2015 r. (poz. ) Załącznik nr 1 POLTAX
+
 1. Identyfikator podatkowy NIP obowiązanego 2. Nr dokumentu 3. Status ORD-TK INFORMACJA O UMOWACH MOGĄCYCH MIEĆ WPŁYW NA POWSTANIE OBOWIĄZKU PODATKOWEGO LUB WYSOKOŚĆ ZOBOWIĄZANIA PODATKOWEGO INNYCH OSÓB
 4. Od (dzień - miesiąc - rok) 5. Do (dzień - miesiąc - rok) 6. Nr informacji/Ogółem liczba inf.
 za okres / Podstawa prawna: Art. 82 § 1 pkt 1 oraz § 5 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z poźn. zm.).

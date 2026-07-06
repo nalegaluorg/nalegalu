@@ -6,26 +6,25 @@ publisher: DU
 year: 2017
 pos: 1522
 act_type: Rozporządzenie
-status: obowiązujący
+status: akt objęty tekstem jednolitym
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 sierpnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1522 Załącznik nr 1 LISTA OZNACZEŃ FORM PRAWNYCH PODMIOTÓW OBJĘTYCH SYSTEMEM INTEGRACJI REJESTRÓW Austria Oznaczenie podlegające wpisowi do Lp. Oznaczenie w języku urzędowym Krajowego Rejestru Sądowego
 
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2017 poz. 1522 |
 | ISAP | WDU20170001522 |
 | Typ aktu | Rozporządzenie |
-| Status | obowiązujący |
+| Status | akt objęty tekstem jednolitym |
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-02 |
 | Data wydania | 2017-08-10 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001522) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1522/text.pdf) |
 
-Z ł c ik n M Austria Oznaczenie podlegające wpisowi do Lp. Oznaczenie w języku urzędowym Krajowego Rejestru Sądowego
 1. Aktiengesellschaft AKTIENGESELLSCHAFT Gesellschaft mit beschränkter GESELLSCHAFT MIT BESCHRANKTER
 2. Haftung HAFTUNG
 3. Europäische Gesellschaft (SE) EUROPAISCHE GESELLSCHAFT (SE) Rechtsform ausländischen Rechts RECHTSFORM AUSLANDISCHEN
@@ -33,20 +32,19 @@ Z ł c ik n M Austria Oznaczenie podlegające wpisowi do Lp. Oznaczenie w język
 1.
 anonyme / Aktiengesellschaft ANONYME / AKTIENGESELLSCHAFT Naamloze vennootschap van NAAMLOZE VENNOOTSCHAP VAN publiek recht / Société anonyme PUBLIEK RECHT /SOCIETE ANONYME
 2.
-de droit public / Öffentlich- DE DROIT PUBLIC / OFFENTLICHrechtliche Aktiengesellschaft RECHTLICHE AKTIENGESELLSCHAFT
+de droit public / Öffentlich- DE DROIT PUBLIC / OFFENTLICHrechtliche Aktiengesellschaft RECHTLICHE AKTIENGESELLSCHAFT Burgerlijke vennootschap onder BURGERLIJKE VENNOOTSCHAP ONDER vorm van naamloze vennootschap VORM VAN NAAMLOZE / Société civile sous forme de VENNOOTSCHAP / SOCIETE CIVILE
 3.
-Burgerlijke vennootschap onder BURGERLIJKE VENNOOTSCHAP ONDER vorm van naamloze vennootschap VORM VAN NAAMLOZE / Société civile sous forme de VENNOOTSCHAP / SOCIETE CIVILE société anonyme / Zivilrechtliche SOUS FORME DE SOCIETE ANONYME / Gesellschaft in der Rechtsform ZIVILRECHTLICHE GESELLSCHAFT IN einer Aktiengesellschaft DER RECHTSFORM EINER AKTIENGESELLSCHAFT Naamloze vennootschap met een NAAMLOZE VENNOOTSCHAP MET EEN sociaal oogmerk / Société SOCIAAL OOGMERK / SOCIETE
+société anonyme / Zivilrechtliche SOUS FORME DE SOCIETE ANONYME / Gesellschaft in der Rechtsform ZIVILRECHTLICHE GESELLSCHAFT IN einer Aktiengesellschaft DER RECHTSFORM EINER AKTIENGESELLSCHAFT Naamloze vennootschap met een NAAMLOZE VENNOOTSCHAP MET EEN sociaal oogmerk / Société SOCIAAL OOGMERK / SOCIETE
 4. anonyme à finalité sociale / ANONYME A FINALITE SOCIALE / Aktiengesellschaft mit sozialer AKTIENGESELLSCHAFT MIT SOZIALER Zielsetzung ZIELSETZUNG Commanditaire vennootschap op COMMANDITAIRE VENNOOTSCHAP OP aandelen / Société en commandite AANDELEN / SOCIETE EN COMMANDITE
 5. par actions / PAR ACTIONS / Kommanditgesellschaft auf KOMMANDITGESELLSCHAFT AUF Aktien AKTIEN Burgerlijke vennootschap onder BURGERLIJKE VENNOOTSCHAP ONDER vorm van commanditaire VORM VAN COMMANDITAIRE vennootschap op aandelen / VENNOOTSCHAP OP AANDELEN / Société civile sous forme de SOCIETE CIVILE SOUS FORME DE
-6. société en commandite par actions SOCIETE EN COMMANDITE PAR / Zivilrechtliche Gesellschaft in ACTIONS / ZIVILRECHTLICHE der Rechtsform einer GESELLSCHAFT IN DER RECHTSFORM Kommanditgesellschaft auf EINER KOMMANDITGESELLSCHAFT Aktien AUF AKTIEN Commanditaire vennootschap op aandelen met een sociaal oogmerk / Société en commandite par
+6. société en commandite par actions SOCIETE EN COMMANDITE PAR / Zivilrechtliche Gesellschaft in ACTIONS / ZIVILRECHTLICHE der Rechtsform einer GESELLSCHAFT IN DER RECHTSFORM Kommanditgesellschaft auf EINER KOMMANDITGESELLSCHAFT Aktien AUF AKTIEN Commanditaire vennootschap op COMMANDITAIRE VENNOOTSCHAP OP aandelen met een sociaal oogmerk AANDELEN MET EEN SOCIAAL / Société en commandite par OOGMERK / SOCIETE EN COMMANDITE
 7.
-actions à finalité sociale / Kommanditgesellschaft auf Aktien mit sozialer Zielsetzung COMMANDITAIRE VENNOOTSCHAP OP AANDELEN MET EEN SOCIAAL OOGMERK / SOCIETE EN COMMANDITE PAR ACTIONS A FINALITE SOCIALE / KOMMANDITGESELLSCHAFT AUF AKTIEN MIT SOZIALER ZIELSETZUNG Besloten vennootschap met BESLOTEN VENNOOTSCHAP MET beperkte aansprakelijkheid / BEPERKTE AANSPRAKELIJKHEID /
+actions à finalité sociale / PAR ACTIONS A FINALITE SOCIALE / Kommanditgesellschaft auf KOMMANDITGESELLSCHAFT AUF Aktien mit sozialer Zielsetzung AKTIEN MIT SOZIALER ZIELSETZUNG Besloten vennootschap met BESLOTEN VENNOOTSCHAP MET beperkte aansprakelijkheid / BEPERKTE AANSPRAKELIJKHEID /
 8. Société privée à responsabilité SOCIETE PRIVEE A RESPONSABILITE limitée / Privatgesellschaft mit LIMITEE / PRIVATGESELLSCHAFT MIT beschränkter Haftung BESCHRANKTER HAFTUNG
 9. Burgerlijke vennootschap onder BURGERLIJKE VENNOOTSCHAP ONDER vorm van besloten vennootschap VORM VAN BESLOTEN VENNOOTSCHAP met beperkte aansprakelijkheid / MET BEPERKTE AANSPRAKELIJKHEID / Société civile sous forme de SOCIETE CIVILE SOUS FORME DE société privée à responsabilité SOCIETE PRIVEE A RESPONSABILITE limitée / Zivilrechtliche LIMITEE / ZIVILRECHTLICHE Gesellschaft in der Rechtsform GESELLSCHAFT IN DER RECHTSFORM einer Privatgesellschaft mit EINER PRIVATGESELLSCHAFT MIT beschränkter Haftung BESCHRANKTER HAFTUNG BESLOTEN VENNOOTSCHAP MET Besloten vennootschap met BEPERKTE AANSPRAKELIJKHEID MET beperkte aansprakelijkheid met EEN SOCIAAL OOGMERK / SOCIETE een sociaal oogmerk / Société PRIVEE A RESPONSABILITE LIMITEE A
 10. privée à responsabilité limitée à FINALITE SOCIALE / finalité sociale / Privatgesellschaft PRIVATGESELLSCHAFT MIT mit beschränkter Haftung mit BESCHRANKTER HAFTUNG MIT sozialer Zielsetzung SOZIALER ZIELSETZUNG EENPERSOONS BESLOTEN Eenpersoons besloten VENNOOTSCHAP MET BEPERKTE vennootschap met beperkte AANSPRAKELIJKHEID / SOCIETE PRIVEE aansprakelijkheid / Société privée A RESPONSABILITE LIMITEE
-11. à responsabilité limitée UNIPERSONNELLE / unipersonnelle / Privatgesellschaft PRIVATGESELLSCHAFT MIT mit beschränkter Haftung mit BESCHRANKTER HAFTUNG MIT EINEM einem Alleingesellschafter ALLEINGESELLSCHAFTER
-12.
-Eenpersoons besloten vennootschap met beperkte aansprakelijkheid met een sociaal oogmerk / Société privée à responsabilité limitée unipersonnelle à finalité sociale / Privatgesellschaft mit beschränkter Haftung mit sozialer Zielsetzung mit einem EENPERSOONS BESLOTEN VENNOOTSCHAP MET BEPERKTE AANSPRAKELIJKHEID MET EEN SOCIAAL OOGMERK / SOCIETE PRIVEE A RESPONSABILITE LIMITEE UNIPERSONNELLE A FINALITE SOCIALE / PRIVATGESELLSCHAFT MIT BESCHRANKTER HAFTUNG MIT SOZIALER ZIELSETZUNG MIT EINEM Alleingesellschafter ALLEINGESELLSCHAFTER Europese vennootschap (Societas EUROPESE VENNOOTSCHAP (SOCIETAS Europaea) / Société européenne EUROPAEA) / SOCIETE EUROPEENNE
+11. à responsabilité limitée UNIPERSONNELLE / unipersonnelle / Privatgesellschaft PRIVATGESELLSCHAFT MIT mit beschränkter Haftung mit BESCHRANKTER HAFTUNG MIT EINEM einem Alleingesellschafter ALLEINGESELLSCHAFTER Eenpersoons besloten EENPERSOONS BESLOTEN vennootschap met beperkte VENNOOTSCHAP MET BEPERKTE aansprakelijkheid met een sociaal AANSPRAKELIJKHEID MET EEN oogmerk / Société privée à SOCIAAL OOGMERK / SOCIETE PRIVEE
+12. responsabilité limitée A RESPONSABILITE LIMITEE unipersonnelle à finalité sociale / UNIPERSONNELLE A FINALITE SOCIALE Privatgesellschaft mit / PRIVATGESELLSCHAFT MIT beschränkter Haftung mit sozialer BESCHRANKTER HAFTUNG MIT Zielsetzung mit einem SOZIALER ZIELSETZUNG MIT EINEM Alleingesellschafter ALLEINGESELLSCHAFTER Europese vennootschap (Societas EUROPESE VENNOOTSCHAP (SOCIETAS Europaea) / Société européenne EUROPAEA) / SOCIETE EUROPEENNE
 13.
 (Societas Europaea) / Europäische (SOCIETAS EUROPAEA) / EUROPAISCHE Gesellschaft (Societas Europaea) GESELLSCHAFT (SOCIETAS EUROPAEA) Buitenlandse onderneming / BUITENLANDSE ONDERNEMING /
 14. Entreprise étrangère / ENTREPRISE ETRANGERE / Ausländische Gesellschaft AUSLANDISCHE GESELLSCHAFT Bułgaria Oznaczenie w języku Oznaczenie podlegające wpisowi do Lp.
@@ -59,14 +57,14 @@ urzędowym Krajowego Rejestru Sądowego
 6. Еднолично акционерно IEDNOLICHNO AKTSIONIERNO дружество DRUZHIESTVO
 7. Еднолично дружество с IEDNOLICHNO DRUZHIESTVO S ограничена отговорност OGRANICHIENA OTGOVORNOST
 8. Акционерно дружество със AKTSIONIERNO DRUZHIESTVO SS специална инвестиционна цел SPIETSIALNA INVIESTITSIONNA TSIEL
-9. Клон на чуждестранен търговец KLON NA CHUZHDIESTRANIEN TRGOVIETS Chorwacja Oznaczenie podlegające wpisowi do Lp. Oznaczenie w języku urzędowym Krajowego Rejestru Sądowego
+9. Клон на чуждестранен KLON NA CHUZHDIESTRANIEN търговец TRGOVIETS Chorwacja Oznaczenie podlegające wpisowi do Lp. Oznaczenie w języku urzędowym Krajowego Rejestru Sądowego
 1. Dioničko društvo DIONICKO DRUSTVO Društvo s ograničenom DRUSTVO S OGRANICENOM
 2. odgovornošću ODGOVORNOSCU Jednostavno društvo s ograničenom JEDNOSTAVNO DRUSTVO S
 3. odgovornošću OGRANICENOM ODGOVORNOSCU
 4. Europsko društvo EUROPSKO DRUSTVO
 5. Inozemna podružnica INOZEMNA PODRUZNICA Cypr Oznaczenie podlegające wpisowi do Lp. Oznaczenie w języku urzędowym Krajowego Rejestru Sądowego DEMOSIA ETAIREIA ∆ηµοσια εταιρεια περιορισµενησ ευθυνησ
-1. PERIORISMENES EUTHUNES ME µε µετοχεσ METOKHES IDIOTIKE ETAIREIA Ιδιωτικη εταιρεια περιορισµενησ ευθυνησ
-2. PERIORISMENES EUTHUNES ME µε µετοχεσ METOKHES ETAIREIA PERIORISMENES Εταιρεια περιορισµενησ ευθυνησ µε EUTHUNES ME EGGUESE,
+1. µε µετοχεσ PERIORISMENES EUTHUNES ME METOKHES IDIOTIKE ETAIREIA Ιδιωτικη εταιρεια περιορισµενησ ευθυνησ
+2. µε µετοχεσ PERIORISMENES EUTHUNES ME METOKHES ETAIREIA PERIORISMENES Εταιρεια περιορισµενησ ευθυνησ µε EUTHUNES ME EGGUESE,
 3. εγγυηση, χωρισ µετοχικο κεφαλαιο KHORIS METOKHIKO KEPHALAIO ETAIREIA PERIORISMENES Εταιρεια περιορισµενησ ευθυνησ µε EUTHUNES ME EGGUESE, KAI
 4. εγγυηση, και που εχει µετοχικο κεφαλαιο POU EKHEI METOKHIKO KEPHALAIO Ευρωπαικη δηµοσια εταιρεια EUROPAIKE DEMOSIA ETAIREIA
 5. περιορισµενησ ευθυνησ PERIORISMENES EUTHUNES
@@ -82,8 +80,7 @@ urzędowym Krajowego Rejestru Sądowego
 5. SE-Selskab SE-SELSKAB
 6. Filial af udenlandsk aktieselskab, FILIAL AF UDENLANDSK kommanditaktieselskab AKTIESELSKAB, KOMMANDITAKTIESELSKAB
 7. Filial af udenlandsk anpartsselskab FILIAL AF UDENLANDSK eller selskab ANPARTSSELSKAB ELLER SELSKAB
-8. Filial af SE-selskab FILIAL AF SE-SELSKAB Estonia Lp.
-Oznaczenie podlegające wpisowi do Oznaczenie w języku urzędowym Krajowego Rejestru Sądowego
+8. Filial af SE-selskab FILIAL AF SE-SELSKAB Estonia Oznaczenie podlegające wpisowi do Lp. Oznaczenie w języku urzędowym Krajowego Rejestru Sądowego
 1. Aktsiaselts AKTSIASELTS
 2. Osaühing OSAUHING
 3. Euroopa äriühing EUROOPA ARIUHING
@@ -98,9 +95,9 @@ urzędowym Krajowego Rejestru Sądowego
 7. Eurooppayhtiö / Europabolag EUROOPPAYHTIO / EUROPABOLAG
 8. Sivuliike SIVULIIKE Francja Oznaczenie podlegające wpisowi do Lp. Oznaczenie w języku urzędowym Krajowego Rejestru Sądowego
 1. Société Anonyme SOCIETE ANONYME Société d’Exercice Libéral à Forme SOCIETE D'EXERCICE LIBERAL A FORME
-2. Anonyme ANONYME
+2. Anonyme ANONYME Société de Participations Financières de SOCIETE DE PARTICIPATIONS
 3.
-Société de Participations Financières de SOCIETE DE PARTICIPATIONS Professions Libérales (SPFPL) sous FINANCIERES DE PROFESSIONS forme de SA LIBERALES (SPFPL) SOUS FORME DE SA SOCIETE COOPERATIVE A FORME
+Professions Libérales (SPFPL) sous FINANCIERES DE PROFESSIONS forme de SA LIBERALES (SPFPL) SOUS FORME DE SA SOCIETE COOPERATIVE A FORME
 4. Société coopérative à forme anonyme ANONYME Union d'économie sociale - Société UNION D'ECONOMIE SOCIALE - SOCIETE
 5. coopérative à forme anonyme COOPERATIVE A FORME ANONYME
 6. Société en Commandite par Actions SOCIETE EN COMMANDITE PAR ACTIONS Société d’Exercice Libéral en SOCIETE D'EXERCICE LIBERAL EN
@@ -109,27 +106,25 @@ Société de Participations Financières de SOCIETE DE PARTICIPATIONS Profession
 9. Société à Responsabilité Limitée SOCIETE A RESPONSABILITE LIMITEE Entreprise Unipersonnelle à ENTREPRISE UNIPERSONNELLE A
 10. Responsabilité Limitée RESPONSABILITE LIMITEE Société d’Exercice Libéral à SOCIETE D'EXERCICE LIBERAL A
 11. Responsabilité Limitée RESPONSABILITE LIMITEE SOCIETE D'EXERCICE LIBERAL A Société d’Exercice Libéral à
-12. RESPONSABILITE LIMITEE Responsabilité Limitée Unipersonnelle UNIPERSONNELLE
+12. Responsabilité Limitée Unipersonnelle RESPONSABILITE LIMITEE UNIPERSONNELLE
 13. SPFPL sous forme de SARL SPFPL SOUS FORME DE SARL Société coopérative à responsabilité SOCIETE COOPERATIVE A
-14. limitée RESPONSABILITE LIMITEE
-15.
-Union d'économie sociale - Société coopérative à responsabilité limitée UNION D'ECONOMIE SOCIALE - SOCIETE COOPERATIVE A RESPONSABILITE LIMITEE
+14. limitée RESPONSABILITE LIMITEE UNION D'ECONOMIE SOCIALE - SOCIETE Union d'économie sociale - Société
+15. coopérative à responsabilité limitée COOPERATIVE A RESPONSABILITE LIMITEE
 16. Société par Actions Simplifiée SOCIETE PAR ACTIONS SIMPLIFIEE Société par Actions Simplifiée SOCIETE PAR ACTIONS SIMPLIFIEE
-17. Unipersonnelle UNIPERSONNELLE
-18.
-Sociétés d’Exercice Libéral par Actions Simplifiées SOCIETES D'EXERCICE LIBERAL PAR ACTIONS SIMPLIFIEES SOCIETE D'EXERCICE LIBERAL PAR Société d'Exercice Libéral par Actions
-19. ACTIONS SIMPLIFIEE UNIPERSONNELLE Simplifiée Unipersonnelle (SELASU) (SELASU)
+17. Unipersonnelle UNIPERSONNELLE Sociétés d’Exercice Libéral par Actions SOCIETES D'EXERCICE LIBERAL PAR
+18. Simplifiées ACTIONS SIMPLIFIEES SOCIETE D'EXERCICE LIBERAL PAR Société d'Exercice Libéral par Actions
+19. Simplifiée Unipersonnelle (SELASU) ACTIONS SIMPLIFIEE UNIPERSONNELLE (SELASU)
 20. SPFPL sous forme de SAS SPFPL SOUS FORME DE SAS Société coopérative de production par SOCIETE COOPERATIVE DE PRODUCTION
 21. actions simplifiée PAR ACTIONS SIMPLIFIEE Union d'économie sociale - Société UNION D'ECONOMIE SOCIALE - SOCIETE
 22. coopérative par actions simplifiée COOPERATIVE PAR ACTIONS SIMPLIFIEE
 23. Société Européenne SOCIETE EUROPEENNE Société anonyme d'un Etat membre de SOCIETE ANONYME D'UN ETAT MEMBRE
 24. la CE ou partie à l'accord sur l'Espace DE LA CE OU PARTIE A L'ACCORD SUR économique européen L'ESPACE ECONOMIQUE EUROPEEN SOCIETE ANONYME D'UN ETAT NON Société anonyme d'un Etat non membre MEMBRE DE LA CE OU NON PARTIE A
 25. de la CE ou non partie à l'accord sur L'ACCORD SUR L'ESPACE ECONOMIQUE l'Espace économique européen EUROPEEN Société à responsabilité limitée d'un SOCIETE A RESPONSABILITE LIMITEE Etat membre de la CE ou partie à D'UN ETAT MEMBRE DE LA CE OU PARTIE
-26. l'accord sur l'Espace économique A L'ACCORD SUR L'ESPACE ECONOMIQUE européen EUROPEEN Société à responsabilité limitée d'un Etat non membre de la CE ou non
-27. partie à l'accord sur l'Espace économique européen SOCIETE A RESPONSABILITE LIMITEE D'UN ETAT NON MEMBRE DE LA CE OU NON PARTIE A L'ACCORD SUR L'ESPACE ECONOMIQUE EUROPEEN Société en commandite par actions d'un SOCIETE EN COMMANDITE PAR ACTIONS Etat membre de la CE ou partie à D'UN ETAT MEMBRE DE LA CE OU PARTIE
-28. l'accord sur l'Espace économique A L'ACCORD SUR L'ESPACE ECONOMIQUE européen EUROPEEN Société en commandite par actions d'un
+26. l'accord sur l'Espace économique A L'ACCORD SUR L'ESPACE ECONOMIQUE européen EUROPEEN Société à responsabilité limitée d'un SOCIETE A RESPONSABILITE LIMITEE Etat non membre de la CE ou non D'UN ETAT NON MEMBRE DE LA CE OU
+27. partie à l'accord sur l'Espace NON PARTIE A L'ACCORD SUR L'ESPACE économique européen ECONOMIQUE EUROPEEN Société en commandite par actions d'un SOCIETE EN COMMANDITE PAR ACTIONS Etat membre de la CE ou partie à D'UN ETAT MEMBRE DE LA CE OU PARTIE
+28. l'accord sur l'Espace économique A L'ACCORD SUR L'ESPACE ECONOMIQUE européen EUROPEEN Société en commandite par actions d'un SOCIETE EN COMMANDITE PAR ACTIONS
 29.
-Etat non membre de la CE ou non SOCIETE EN COMMANDITE PAR ACTIONS D'UN ETAT NON MEMBRE DE LA CE OU partie à l'accord sur l'Espace NON PARTIE A L'ACCORD SUR L'ESPACE économique européen ECONOMIQUE EUROPEEN SOCIETE EN COMMANDITE PAR ACTIONS Société par actions d'un Etat membre D'UN ETAT NON MEMBRE DE LA CE OU
+Etat non membre de la CE ou non D'UN ETAT NON MEMBRE DE LA CE OU partie à l'accord sur l'Espace NON PARTIE A L'ACCORD SUR L'ESPACE économique européen ECONOMIQUE EUROPEEN SOCIETE EN COMMANDITE PAR ACTIONS Société par actions d'un Etat membre D'UN ETAT NON MEMBRE DE LA CE OU
 30. de la CE ou partie à l'accord sur NON PARTIE A L'ACCORD SUR L'ESPACE l'Espace économique européen ECONOMIQUE EUROPEEN
 31. Société de droit étranger SOCIETE DE DROIT ETRANGER Grecja Oznaczenie podlegające wpisowi do Lp. Oznaczenie w języku urzędowym Krajowego Rejestru Sądowego
 1. Ανώνυµη εταιρεία ANONUME ETAIREIA
@@ -241,7 +236,7 @@ urzędowym Krajowego Rejestru Sądowego
 5. Società consortile a SOCIETA' CONSORTILE A responsabilità limitata RESPONSABILITA' LIMITATA
 6. Società a responsabilità limitata SOCIETA' A RESPONSABLITA' LIMITATA semplificata SEMPLIFICATA
 7. Società europea SOCIETA EUROPEA
-8. Soggetto estero o societa' SOGGETTO ESTERO O SOCIETA' costituita in base a leggi di altro COSTITUITA IN BASE A LEGGI DI ALTRO stato STATO Austria Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
+8. Soggetto estero o societa' SOGGETTO ESTERO O SOCIETA' costituita in base a leggi di altro COSTITUITA IN BASE A LEGGI DI ALTRO stato STATO LISTA NAZW REJESTRÓW, W KTÓRYCH ZAREJESTROWANE SĄ PODMIOTY OBJĘTE SYSTEMEM INTEGRACJI REJESTRÓW Austria Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
 1. Österreichisches Firmenbuch OSTERREICHISCHES FIRMENBUCH Belgia Nazwa w języku urzędowym Nazwa podlegająca wpisowi do Lp.
 Krajowego Rejestru Sądowego
 15. Kruispuntbank van Ondernemingen / KRUISPUNTBANK VAN ONDERNEMINGEN / Banque-Carrefour des Entreprises / BANQUE-CARREFOUR DES ENTREPRISES / Zentrale Unternehmensdatenbank ZENTRALE UNTERNEHMENSDATENBANK Bułgaria Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
@@ -253,11 +248,10 @@ Krajowego Rejestru Sądowego
 5. Äriregister ARIREGISTER Finlandia Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
 9. Patentti-ja Rekisterihallitus PATENTTI-JA REKISTERIHALLITUS Francja Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
 32. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Bourg-en-Bresse SOCIETES BOURG-EN-BRESSE
-33.
-Registre du Commerce et des Sociétés Saint-Quentin REGISTRE DU COMMERCE ET DES SOCIETES SAINT-QUENTIN
+33. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Saint-Quentin SAINT-QUENTIN
 34. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Soissons SOCIETES SOISSONS
 35. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Cusset SOCIETES CUSSET
-36. Registre du Commerce et des Sociétés Montluҫon REGISTRE DU COMMERCE ET DES SOCIETES MONTLUCON
+36. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Montluҫon SOCIETES MONTLUCON
 37. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Manosque SOCIETES MANOSQUE
 38. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Gap GAP
 39. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Antibes SOCIETES ANTIBES
@@ -278,15 +272,15 @@ Registre du Commerce et des Sociétés Saint-Quentin REGISTRE DU COMMERCE ET DES
 54. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Caen CAEN
 55. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Lisieux SOCIETES LISIEUX
 56. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Aurillac SOCIETES AURILLAC
-57. Registre du Commerce et des Sociétés Angoulême REGISTRE DU COMMERCE ET DES SOCIETES ANGOULEME
+57. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Angoulême SOCIETES ANGOULEME
 58. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES La Rochelle LA ROCHELLE
 59. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Saintes SOCIETES SAINTES
 60. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Bourges SOCIETES BOURGES
 61. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Brive BRIVE
-62. Registre du Commerce et des Sociétés Ajaccio REGISTRE DU COMMERCE ET DES SOCIETES AJACCIO
+62. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Ajaccio SOCIETES AJACCIO
 63. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Bastia SOCIETES BASTIA
 64. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Dijon DIJON
-65. Registre du Commerce et des Sociétés Saint-Brieuc REGISTRE DU COMMERCE ET DES SOCIETES SAINT-BRIEUC
+65. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Saint-Brieuc SOCIETES SAINT-BRIEUC
 66. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Guéret SOCIETES GUERET
 67. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Bergerac SOCIETES BERGERAC
 68. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Périgueux SOCIETES PERIGUEUX
@@ -307,15 +301,15 @@ Registre du Commerce et des Sociétés Saint-Quentin REGISTRE DU COMMERCE ET DES
 83. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Rennes SOCIETES RENNES
 84. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Saint-Malo SAINT-MALO
 85. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Châteauroux SOCIETES CHATEAUROUX
-86. Registre du Commerce et des Sociétés Tours REGISTRE DU COMMERCE ET DES SOCIETES TOURS
+86. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Tours SOCIETES TOURS
 87. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Grenoble SOCIETES GRENOBLE
 88. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Vienne SOCIETES VIENNE
 89. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Lons-le-Saunier LONS-LE-SAUNIER
 90. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Dax DAX
-91. Registre du Commerce et des Sociétés Mont-de-Marsan REGISTRE DU COMMERCE ET DES SOCIETES MONT-DE-MARSAN
+91. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Mont-de-Marsan SOCIETES MONT-DE-MARSAN
 92. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Blois BLOIS
 93. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Roanne SOCIETES ROANNE
-94. Registre du Commerce et des Sociétés Saint-Étienne REGISTRE DU COMMERCE ET DES SOCIETES SAINT-ETIENNE
+94. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Saint-Étienne SOCIETES SAINT-ETIENNE
 95. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Le Puy-en-Velay LE PUY-EN-VELAY
 96. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Nantes SOCIETES NANTES
 97. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Saint-Nazaire SAINT-NAZAIRE
@@ -326,10 +320,10 @@ Registre du Commerce et des Sociétés Saint-Quentin REGISTRE DU COMMERCE ET DES
 102. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Angers SOCIETES ANGERS
 103. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Cherbourg SOCIETES CHERBOURG
 104. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Coutances SOCIETES COUTANCES
-105. Registre du Commerce et des Sociétés Châlons-en-Champagne REGISTRE DU COMMERCE ET DES SOCIETES CHALONS-EN-CHAMPAGNE
+105. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Châlons-en-Champagne SOCIETES CHALONS-EN-CHAMPAGNE
 106. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Reims REIMS
 107. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Chaumont SOCIETES CHAUMONT
-108. Registre du Commerce et des Sociétés Laval REGISTRE DU COMMERCE ET DES SOCIETES LAVAL
+108. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Laval SOCIETES LAVAL
 109. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Briey BRIEY
 110. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Nancy SOCIETES NANCY
 111. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Bar-le-Duc BAR-LE-DUC
@@ -343,13 +337,13 @@ Registre du Commerce et des Sociétés Saint-Quentin REGISTRE DU COMMERCE ET DES
 119. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Beauvais SOCIETES BEAUVAIS
 120. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Compiègne SOCIETES COMPIEGNE
 121. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Alençon SOCIETES ALENCON
-122. Registre du Commerce et des Sociétés Arras REGISTRE DU COMMERCE ET DES SOCIETES ARRAS
+122. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Arras SOCIETES ARRAS
 123. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Boulogne-sur-Mer SOCIETES BOULOGNE-SUR-MER
 124. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Clermont-Ferrand SOCIETES CLERMONT-FERRAND
 125. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Bayonne SOCIETES BAYONNE
 126. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Pau PAU
 127. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Tarbes SOCIETES TARBES
-128. Registre du Commerce et des Sociétés Perpignan REGISTRE DU COMMERCE ET DES SOCIETES PERPIGNAN
+128. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Perpignan SOCIETES PERPIGNAN
 129. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES Lyon LYON
 130. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Villefranche-Tarare SOCIETES VILLEFRANCHE-TARARE
 131. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Vesoul SOCIETES VESOUL
@@ -378,7 +372,7 @@ Registre du Commerce et des Sociétés Saint-Quentin REGISTRE DU COMMERCE ET DES
 154. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Toulon SOCIETES TOULON
 155. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Avignon SOCIETES AVIGNON
 156. REGISTRE DU COMMERCE ET DES Registre du Commerce et des Sociétés SOCIETES La Roche-sur-Yon LA ROCHE-SUR-YON
-157. Registre du Commerce et des Sociétés Poitiers REGISTRE DU COMMERCE ET DES SOCIETES POITIERS
+157. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Poitiers SOCIETES POITIERS
 158. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Limoges SOCIETES LIMOGES
 159. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Épinal SOCIETES EPINAL
 160. Registre du Commerce et des Sociétés REGISTRE DU COMMERCE ET DES Auxerre SOCIETES AUXERRE
@@ -409,8 +403,7 @@ Registre du Commerce et des Sociétés Saint-Quentin REGISTRE DU COMMERCE ET DES
 23. Registro Mercantil de Cuenca REGISTRO MERCANTIL DE CUENCA
 24. Registro Mercantil de Girona REGISTRO MERCANTIL DE GIRONA
 25. Registro Mercantil de Granada REGISTRO MERCANTIL DE GRANADA
-26.
-Registro Mercantil de Guadalajara REGISTRO MERCANTIL DE GUADALAJARA
+26. REGISTRO MERCANTIL DE Registro Mercantil de Guadalajara GUADALAJARA
 27. Registro Mercantil de Gipuzkoa REGISTRO MERCANTIL DE GIPUZKOA
 28. Registro Mercantil de Huelva REGISTRO MERCANTIL DE HUELVA
 29. Registro Mercantil de Huesca REGISTRO MERCANTIL DE HUESCA
@@ -452,8 +445,8 @@ Registro Mercantil de Guadalajara REGISTRO MERCANTIL DE GUADALAJARA
 5. Handelsregister HANDELSREGISTER Irlandia Nazwa w języku urzędowym Nazwa podlegająca wpisowi do Lp.
 Krajowego Rejestru Sądowego
 8. The Companies Registration THE COMPANIES REGISTRATION Office / An Oifig um Chlarú OFFICE - AN OIFIG UM CHLARU Cuideachtaí CUIDEACHTAI Islandia Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
-7. Fyrirtækjaskrá RSK FYRIRTAEKJASKRA RSK Liechtenstein Lp. Nazwa w języku urzędowym Nazwa podlegająca wpisowi do Krajowego Rejestru Sądowego
-5. Amt für Justiz Handelsregister AMT FUR JUSTIZ - HANDELSREGISTER Litwa Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
+7. Fyrirtækjaskrá RSK FYRIRTAEKJASKRA RSK Liechtenstein Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
+5. Amt für Justiz – Handelsregister AMT FUR JUSTIZ - HANDELSREGISTER Litwa Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
 4. Juridinių asmenų registras JURIDINIU ASMENU REGISTRAS Luksemburg Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
 5. Registre de commerce et des REGISTRE DE COMMERCE ET DES sociétés SOCIETES Łotwa Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
 6. Latvijas Republikas Uzņēmumu Reģistrs LATVIJAS REPUBLIKAS UZNEMUMU REGISTRS Malta Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
@@ -574,9 +567,8 @@ Krajowego Rejestru Sądowego
 120. Amtsgericht Würzburg AMTSGERICHT WURZBURG
 121. Amtsgericht Zweibrücken AMTSGERICHT ZWEIBRUCKEN Norwegia Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
 5. Foretaksregisteret FORETAKSREGISTERET Portugalia Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
-7. Registo Comercial REGISTO COMERCIAL Rumunia Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
-8.
-Oficiul Naţional al Registrului OFICIUL NATIONAL AL REGISTRULUI Comerţului COMERTULUI Słowacja Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
+7. Registo Comercial REGISTO COMERCIAL Rumunia Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego Oficiul Naţional al Registrului OFICIUL NATIONAL AL REGISTRULUI
+8. Comerţului COMERTULUI Słowacja Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
 5. Obchodný register OBCHODNU REGISTER Słowenia Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
 6. Poslovni register Slovenije POSLOVNI REGISTER SLOVENIJE Szwecja Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego
 7. Bolagsverket BOLAGSVERKET Węgry Nazwa podlegająca wpisowi do Lp. Nazwa w języku urzędowym Krajowego Rejestru Sądowego

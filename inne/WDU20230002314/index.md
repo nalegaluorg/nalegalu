@@ -8,10 +8,10 @@ pos: 2314
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 października 2023 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2314 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 12 października 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-07-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002314) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2314/text.pdf) |
 
-Poz. 2314 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 12 października 2023 r.
 zmieniające rozporządzenie w sprawie informacji przekazywanych organowi egzekucyjnemu przez dłużnika zajętej wierzytelności Na podstawie art. 70 § 2b ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
-z 2022 r. poz. 479, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Finansów z dnia 23 lipca 2020 r. w sprawie informacji przekazywanych organowi egzekucyjnemu przez dłużnika zajętej wierzytelności (Dz. U. poz. 1313) w § 2:
+z 2022 r. poz. 479, z późn. zm. ) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Finansów z dnia 23 lipca 2020 r. w sprawie informacji przekazywanych organowi egzekucyjnemu przez dłużnika zajętej wierzytelności (Dz. U. poz. 1313) w § 2:
 1) w ust. 1:
 a) pkt 1 i 2 otrzymują brzmienie: „1) numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL) albo numer identyfikacji podatkowej (NIP), albo numer identyfikacji w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (numer REGON), albo numer w Krajowym Rejestrze Sądowym, albo inny numer identyfikacyjny, podany przez organ egzekucyjny w zawiadomieniu o zajęciu wierzytelności lub prawa majątkowego:
 a) zobowiązanego albo
@@ -38,7 +38,7 @@ d) podmiotu niebędącego zobowiązanym, który uzyskał korzyść majątkową w
 a) zobowiązanego albo
 b) małżonka zobowiązanego, albo
 c) podmiotu, o którym mowa w pkt 1 lit. c, albo
-d) podmiotu, o którym mowa w pkt 1 lit. d – w przypadku braku danych, o których mowa w pkt 1;”, Dziennik Ustaw – 2 – Poz. 2314
+d) podmiotu, o którym mowa w pkt 1 lit. d – w przypadku braku danych, o których mowa w pkt 1;”,
 b) pkt 4 otrzymuje brzmienie: „4) skrót „ZBIEG” – w przypadku zbiegu egzekucji administracyjnej i sądowej, zbiegu egzekucji administracyjnych, zbiegu egzekucji administracyjnej i zabezpieczenia administracyjnego, zbiegu egzekucji administracyjnej i zabezpieczenia sądowego, zbiegu zabezpieczenia administracyjnego i egzekucji sądowej, zbiegu zabezpieczeń administracyjnych albo zbiegu zabezpieczenia administracyjnego i sądowego.”;
 2) w ust. 2:
 a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli ze względu na liczbę zobowiązanych albo podmiotów, o których mowa w ust. 1 pkt 1 lit. c albo d, nie jest możliwe podanie w poleceniu przelewu wszystkich informacji, o których mowa w ust. 1, dłużnik zajętej wierzytelności:”,

@@ -66,7 +66,7 @@ o zmianie ustawy o
 
 - **16)** po art. 39 dodaje art. 39'- 39 w brzmieniu: dyrektora go w czyn "Art. 39'. Dyrektora na na okres nie 6 okres 5 lat lub na czas cy, dalsze przez niego fun kcji podstawowym interesom Art. 39 2 1. Rada pracownicza dyrek Na okres zawieszenia tora po opi rada pracownicza wyznacza tymczasowe nii organu Organ go kierownika cielski przedstawia w terminie jed nego od dnia zwrócenia 2. Od decyzji o zawieszeniu dyrektoro o Nieprzedstawienie opinii w po wi oraz organowi terminie nie wstrzymuje sprzeciw w trybie art. 61. powania w sprawie dyrektora. Wniesienie sprzeciwu nie wstrzymuje wy decyzji.
 
-2. Od decyzji rady pracowniczej. o której mowa w ust. 1, organowi 3. W okresie zawieszenia dyrektor prawo do umoty biorstwa zachowuje prawo do dotychcza wowanego sprzeciwu w terminie dwóch sowego wynagrodzenia oraz inne upraw tygodni od otrzymania zawiadomienia. nienia ze stosunku pracy. Wniesienie sprzeciwu wstrzymuje wyko Art. 39 nanie decyzji. . 1. Dyrektor jego osoby
+2. Od decyzji rady pracowniczej. o której mowa w ust. 1, organowi 3. W okresie zawieszenia dyrektor prawo do umoty biorstwa zachowuje prawo do dotychcza wowanego sprzeciwu w terminie dwóch sowego wynagrodzenia oraz inne upraw tygodni od otrzymania zawiadomienia. nienia ze stosunku pracy. Wniesienie sprzeciwu wstrzymuje wyko Art. 39 7 nanie decyzji. . 1. Dyrektor jego osoby
 
 3. W razie podtrzymania decyzji przez zatrudnione na stanowiskach organowi nych oraz rady pracowniczej prawo wniesienia w nie lub akcji w pod siedmiu dni sprawy do w ter miotach gospodarczych tworzonych przez minie czternastu dni wyznacza . . to a w nich w stosunku pracy, ani
 

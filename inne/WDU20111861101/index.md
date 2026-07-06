@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l
+# Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
 
 | Pole | Wartość |
 |---|---|

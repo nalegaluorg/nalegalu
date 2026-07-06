@@ -33,7 +33,9 @@ zmieniające rozporządzenie w sprawie wzorów wniosków o udzielenie pomocy kie
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
-Załączniki do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 9 listopada 2020 r. (poz. 2102) Załącznik nr 1 Załączniki do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 9 listopada 2020 r. (poz. ….) WZÓR Załącznik nr 1 WZÓR ZTW–2 ZAGRANICZNY TYTUŁ WYKONAWCZY STOSOWANY W EGZEKUCJI NALEŻNOŚCI PIENIĘŻNYCH (1) PAŃSTW CZŁONKOWSKICH LUB PAŃSTW TRZECICH Podstawa prawna: art. 101 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2020 r. poz. 765), zwanej dalej „ustawą o wzajemnej pomocy”
+
+## Załącznik nr 1 — Załączniki do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 9 listopada 2020 r. (poz. ….) WZÓR Załącznik nr 1 WZÓR ZTW–2 ZAGRANICZNY TYTUŁ WYKONAWCZY STOSOWANY W EGZEKUCJI NALEŻNOŚCI PIENIĘŻNYCH (1) PAŃSTW CZŁONKOWSKICH LUB PAŃSTW TRZECICH Podstawa prawna: art. 101 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2020 r. poz. 765), zwanej dalej „ustawą o wzajemnej pomocy”
+
 1. Numer zagranicznego tytułu wykonawczego 2. Data wystawienia 3. Rodzaj dokumentu
 1. Zagraniczny tytuł wykonawczy 2. Zmieniony zagraniczny tytuł wykonawczy
 4. Nazwa i adres siedziby lub inne dane dotyczące organu lub urzędu występującego z wnioskiem o odzyskanie należności pieniężnych 5. Państwo
@@ -68,12 +70,15 @@ OBJAŚNIENIA DOTYCZĄCE WYPEŁNIANIA ZAGRANICZNEGO TYTUŁU WYKONAWCZEGO ZTW–2 
 Obowiązkowe wypełnienie pozycji dotyczy elementów określonych w art. 102 ust. 2 ustawy o wzajemnej pomocy.
 W pozostałym zakresie podaje się dane będące w posiadaniu centralnego biura łącznikowego.
 Datę podaje się w formacie dd-mm-rrrr.
+Część wstępna poz. 3 – zaznaczyć właściwy kwadrat.
 Jeżeli zaznaczono kwadrat 2, wpisuje się w poz. 1 numer zmienionego (dotychczasowego) tytułu wykonawczego, natomiast w poz. 2 – datę wystawienia zmienionego tytułu wykonawczego.
 Jeżeli wypełniono poz. 6 i 7, wpisuje się w poz. 1 numer dotychczasowego tytułu wykonawczego, natomiast w poz. 2 – datę wystawienia dotychczasowego tytułu wykonawczego.
 poz. 5 – wpisuje się nazwę państwa członkowskiego lub państwa trzeciego występującego z wnioskiem o odzyskanie należności pieniężnych objętych tym tytułem.
+Część A poz. 1 – zaznaczyć właściwy kwadrat.
 poz. 4 – jeżeli podmiotem jest przedsiębiorca będący osobą fizyczną, obligatoryjne jest podanie jego imienia i nazwiska.
 poz. 14 – wskazuje się inne dane będące w posiadaniu centralnego biura łącznikowego, umożliwiające identyfikację podatnika: numer PESEL, numer NIP, numer REGON, datę urodzenia, imię ojca lub imię matki, numer identyfikacyjny nadany w innym kraju, w szczególności numer podatkowy lub numer ubezpieczeniowy, lub kraj wydania i numer paszportu.
 Jeżeli zagraniczny tytuł wykonawczy dotyczy kilku podmiotów, zgodnie z pierwotnym tytułem wykonawczym oraz z wnioskiem o odzyskanie należności pieniężnych, po bloku A1. dodaje się bloki A2., A3. itd., chyba że do przeprowadzenia egzekucji administracyjnej właściwe są różne organy egzekucyjne.
+Część B poz. 4 – nie wypełnia się, jeżeli w poz. 3 wpisano okres, którego dotyczy należność pieniężna. Wpisuje się datę zaistnienia zdarzenia, które spowodowało powstanie obowiązku uiszczenia należności pieniężnej wskazanej w poz. 1 i 2.
 poz. 7 – wpisuje się wysokość innych należności pieniężnych (odsetek, kosztów i innych należności) wskazanych we wniosku o odzyskanie należności pieniężnych powstałych w państwie członkowskim lub państwie trzecim.
 poz. 11 – wpisuje się numer rachunku bankowego podmiotu wymienionego w poz. 10.
 poz. 12 – wpisuje się nazwę banku prowadzącego rachunek bankowy podmiotu wymienionego w poz. 10.
@@ -81,14 +86,7 @@ poz. 13 – wpisuje się kod identyfikacyjny banku prowadzącego rachunek bankow
 poz. 14 – wpisuje się dane, na które należy powołać się przy dokonywaniu przelewu należności pieniężnych na rachunek wskazany w poz. 11. Jeżeli we wniosku o odzyskanie należności pieniężnych państwo członkowskie lub państwo trzecie nie wskaże danych, na które należy się powołać przy dokonywaniu przelewu, podaje się imię i nazwisko / nazwę podmiotu oraz numer wniosku o odzyskanie należności pieniężnych.
 W przypadku zagranicznego tytułu wykonawczego sporządzonego w odniesieniu do kilku należności pieniężnych po bloku B1.
 dodaje się bloki B2., B3. itd.
-
-## Część wstępna poz. 3 – zaznaczyć właściwy kwadrat.
-
-## Część A poz. 1 – zaznaczyć właściwy kwadrat.
-
-## Część B poz. 4 – nie wypełnia się, jeżeli w poz. 3 wpisano okres, którego dotyczy należność pieniężna. Wpisuje się datę zaistnienia zdarzenia, które spowodowało powstanie obowiązku uiszczenia należności pieniężnej wskazanej w poz. 1 i 2.
-
-## Część D Wypełnia się w przypadku wydania dalszego zagranicznego tytułu wykonawczego. W przypadku niewypełniania pozycja (część) może zostać pominięta (niewydrukowana).
+Część D Wypełnia się w przypadku wydania dalszego zagranicznego tytułu wykonawczego. W przypadku niewypełniania pozycja (część) może zostać pominięta (niewydrukowana).
 
 ## Załącznik nr 2 — Załącznik nr 2 WZÓR WZÓR ZZ–Z ZARZĄDZENIE ZABEZPIECZENIA (1) STOSOWANE PRZY ZABEZPIECZANIU NALEŻNOŚCI PIENIĘŻNYCH PAŃSTW CZŁONKOWSKICH LUB PAŃSTW TRZECICH Podstawa prawna: ustawa z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2020 r. poz. 765), zwana dalej „ustawą o wzajemnej pomocy” art. 85 art. 108
 
