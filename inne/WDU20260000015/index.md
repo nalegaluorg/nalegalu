@@ -8,10 +8,10 @@ pos: 15
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zawodach pielęgniarki i położnej
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zawodach pielęgniarki i położnej
 
 *USTAWA z dnia 15 lipca 2011 r.*
 
@@ -26,8 +26,6 @@ source: "isap-pdf"
 | Data wydania | 2026-01-08 |
 | Ostatnia zmiana | 2026-05-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000015) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/15/text.pdf) |
-
-Art. 88–90. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -45,6 +43,22 @@ Art. 88–90. (pominięte)
 **Art. 2.** Zawody pielęgniarki i położnej są samodzielnymi zawodami medycznymi.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** prawie wykonywania zawodu – należy przez to rozumieć odpowiednio prawo wykonywania zawodu pielęgniarki lub prawo wykonywania zawodu położnej;
+- **2)** państwie członkowskim Unii Europejskiej – należy przez to rozumieć również państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym oraz Konfederację Szwajcarską;
+- **3)** obywatelach państw członkowskich Unii Europejskiej – należy przez to rozumieć obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej, a także:
+    - **a)** członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164),
+    - **b)** obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej w rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079),
+    - **c)** cudzoziemców posiadających zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **d)** cudzoziemców, którym nadano status uchodźcy lub udzielono ochrony uzupełniającej,
+    - **e)** obywateli państw trzecich, którzy ubiegają się o przyjęcie na terytorium Rzeczypospolitej Polskiej w celu podjęcia pracy w zawodzie wymagającym wysokich kwalifikacji lub w celu mobilności długoterminowej posiadacza Niebieskiej Karty UE, w rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **f)** obywateli państw trzecich, którzy zostali przyjęci na terytorium Rzeczypospolitej Polskiej w celach innych niż wykonywanie pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym i mają prawo do wykonywania pracy oraz posiadają dokument pobytowy wydany zgodnie z rozporządzeniem Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r. ustanawiającym jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm.), oraz obywateli państw trzecich, którzy zostali przyjęci na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym,
+    - **g)** obywateli państw trzecich posiadających zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 151 ust. 1, art. 151b ust. 1, art. 157a ust. 1 lub art. 157g ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **h)** obywateli państw trzecich posiadających wizę krajową w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej, z adnotacją „student”, wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych, wizę krajową w celu odbycia stażu lub wizę krajową w celu udziału w programie wolontariatu europejskiego,
+    - **i)** obywateli państw trzecich przebywających na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
+    - **j)** obywateli państw trzecich przebywających na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
+
+- **4)** podmiocie leczniczym – należy przez to rozumieć podmiot leczniczy, o którym mowa w art. 4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211).
 
 #### Rozdział 2 Zasady wykonywania zawodów
 
@@ -151,6 +165,12 @@ Art. 88–90. (pominięte)
 - **6)** zatrudnienie w komórkach organizacyjnych zakładu leczniczego o profilu zabiegowym – zgodnie z posiadanymi kwalifikacjami i umiejętnościami zawodowymi.
 
 **Art. 6.** Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Pielęgniarek i Położnych, określi, w drodze rozporządzenia:
+
+- **1)** rodzaj i zakres świadczeń zapobiegawczych, diagnostycznych, leczniczych i rehabilitacyjnych, które mogą być udzielane samodzielnie bez zlecenia lekarskiego przez pielęgniarkę i położną,
+- **2)** wykaz produktów leczniczych oraz środków pomocniczych, do stosowania których są uprawnione pielęgniarki i położne samodzielnie bez zlecenia lekarskiego,
+- **3)** rodzaje materiałów, które mogą być pobierane przez pielęgniarkę i położną do celów diagnostycznych samodzielnie bez zlecenia lekarskiego,
+- **4)** rodzaj i zakres medycznych czynności ratunkowych wykonywanych przez pielęgniarkę,
+- **5)** wykaz badań diagnostycznych do samodzielnego przeprowadzania przez pielęgniarkę i położną – biorąc pod uwagę niezbędne kwalifikacje oraz wymagany zakres umiejętności i obowiązków.
 
 **Art. 7.** Zawód pielęgniarki i położnej może wykonywać osoba posiadająca prawo wykonywania zawodu stwierdzone albo przyznane przez właściwą okręgową radę pielęgniarek i położnych oraz osoba, o której mowa w art. 24 i art. 25.
 
@@ -275,6 +295,10 @@ Art. 88–90. (pominięte)
 
 **Art. 16.** Pielęgniarka i położna są obowiązane:
 
+- **1)** informować pacjenta o jego prawach zgodnie z przepisami ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **2)** udzielić pacjentowi lub jego przedstawicielowi ustawowemu albo osobie wskazanej przez pacjenta informacji o stanie zdrowia pacjenta, w zakresie koniecznym do sprawowania opieki pielęgnacyjnej lub opieki podczas ciąży oraz prowadzenia porodu i połogu;
+- **3)** zgłosić Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działanie niepożądane produktu leczniczego zgodnie z ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne.
+
 **Art. 17.**
 
 1. Pielęgniarka i położna są obowiązane do zachowania w tajemnicy informacji związanych z pacjentem, uzyskanych w związku z wykonywaniem zawodu.
@@ -378,6 +402,10 @@ Art. 88–90. (pominięte)
 
 **Art. 25.** Pielęgniarka lub położna o odpowiednio wysokich kwalifikacjach, nieposiadające prawa wykonywania zawodu na terytorium Rzeczypospolitej Polskiej, ale posiadające to prawo w innym państwie, mogą brać udział w naradzie pielęgniarskiej lub położnych oraz udzielać świadczeń zdrowotnych wymienionych w art. 4 ust. 1 lub w art. 5 ust. 1, których potrzeba wynika z narady, jeżeli zostały zaproszone przez:
 
+- **1)** szpitale lub instytuty badawcze, o których mowa w art. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080);
+- **2)** Naczelną Radę Pielęgniarek i Położnych lub właściwą okręgową radę pielęgniarek i położnych;
+- **3)** pielęgniarkę lub położną posiadającą prawo wykonywania zawodu na terytorium Rzeczypospolitej Polskiej, każdorazowo po uzyskaniu zgody właściwej okręgowej rady pielęgniarek i położnych.
+
 **Art. 26.**
 
 1. Pielęgniarka lub położna, które nie wykonują zawodu łącznie przez okres dłuższy niż 5 lat w okresie ostatnich 6 lat, a zamierzają podjąć jego wykonywanie, mają obowiązek zawiadomić o tym właściwą okręgową radę pielęgniarek i położnych i odbyć trwające nie dłużej niż 6 miesięcy przeszkolenie pod nadzorem innej osoby uprawnionej do wykonywania odpowiednio zawodu pielęgniarki lub położnej, legitymującej się co najmniej 5-letnim doświadczeniem zawodowym, zwanej dalej „opiekunem”. Opiekuna wskazuje kierownik podmiotu, w którym odbywa się przeszkolenie.
@@ -423,6 +451,11 @@ Art. 88–90. (pominięte)
 #### Rozdział 3 Prawo wykonywania zawodu
 
 **Art. 28.** Prawo wykonywania zawodu pielęgniarki przysługuje osobie:
+
+- **1)** posiadającej świadectwo lub dyplom ukończenia polskiej szkoły pielęgniarskiej bądź uzyskane w innym państwie niż państwo członkowskie Unii Europejskiej świadectwo lub dyplom, pod warunkiem że dyplom lub świadectwo zostały uznane w Rzeczypospolitej Polskiej za równorzędne ze świadectwem ukończenia szkoły pielęgniarskiej lub dyplomem, zgodnie z odrębnymi przepisami, oraz że spełniają minimalne wymogi kształcenia określone w przepisach prawa Unii Europejskiej;
+- **2)** posiadającej pełną zdolność do czynności prawnych;
+- **3)** której stan zdrowia pozwala na wykonywanie zawodu pielęgniarki;
+- **4)** która wykazuje nienaganną postawę etyczną.
 
 **Art. 28a.** Prawo wykonywania zawodu pielęgniarki przysługuje obywatelowi państwa członkowskiego Unii Europejskiej, który posiada dyplom, świadectwo lub inny dokument potwierdzający posiadanie formalnych kwalifikacji do wykonywania zawodu pielęgniarki odpowiedzialnej za opiekę ogólną uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej i tytuł zawodowy „Registered Nurse – Adult”, „Registered General Nurse” lub „State Registered Nurse” oraz spełnia warunki, o których mowa w art. 28 pkt 2–4.
 
@@ -475,7 +508,15 @@ Art. 88–90. (pominięte)
 
 **Art. 30a.** Za równoważne z dyplomem, świadectwem lub innym dokumentem potwierdzającym posiadanie formalnych kwalifikacji, uprawniającym do wykonywania w Rzeczypospolitej Polskiej zawodu pielęgniarki, o których mowa w wykazie określonym na podstawie art. 34 ust. 2, uważa się dokumenty:
 
+- **1)** wydane przez odpowiednie władze w Rumunii i potwierdzające kwalifikacje pielęgniarki, o których mowa w art. 30 ust. 2 pkt 2 i 3, pod warunkiem że został do nich dołączony dokument potwierdzający posiadanie kwalifikacji uzyskanych na podstawie specjalnego programu podwyższania kwalifikacji Diplomă de licență, o którym mowa w art. 3 ust. 2 wspólnego zarządzenia Ministra Edukacji Narodowej i Ministra Zdrowia nr 4317/943/2014 z dnia 11 sierpnia 2014 r. w sprawie zatwierdzenia specjalnego programu podwyższania kwalifikacji dotyczącego kształcenia podstawowego pielęgniarek odpowiedzialnych za opiekę ogólną odbytego przed dniem 1 stycznia 2007 r. dla absolwentów szkół pomaturalnych i wyższych (Dziennik Urzędowy Rumunii nr 624 z dnia 26 sierpnia 2014 r.), wraz z suplementem do dyplomu potwierdzającym, że dana osoba ukończyła specjalny program podwyższania kwalifikacji, lub
+- **2)** uzyskane na poziomie ponadśrednim, o których mowa w art. 4 zarządzenia Ministra Edukacji Narodowej nr 5114/2014 w sprawie zatwierdzenia metodologii organizacji, prowadzenia i ukończenia specjalnego programu podwyższania kwalifikacji dotyczącego kształcenia podstawowego pielęgniarek odpowiedzialnych za opiekę ogólną odbytego przed dniem 1 stycznia 2007 r. dla absolwentów szkół pomaturalnych (Dziennik Urzędowy Rumunii nr 5 z dnia 6 stycznia 2015 r.), pod warunkiem że został do nich dołączony dokument potwierdzający posiadanie kwalifikacji uzyskanych na podstawie specjalnego programu podwyższania kwalifikacji Certificat de revalorizare a competenţelor profesionale, o którym mowa w art. 3 ust. 1 oraz w załączniku 3 do wspólnego zarządzenia Ministra Edukacji Narodowej i Ministra Zdrowia nr 4317/943/2014 z dnia 11 sierpnia 2014 r. w sprawie zatwierdzenia specjalnego programu podwyższania kwalifikacji dotyczącego kształcenia podstawowego pielęgniarek odpowiedzialnych za opiekę ogólną odbytego przed dniem 1 stycznia 2007 r. dla absolwentów szkół pomaturalnych i wyższych oraz w art. 16 zarządzenia Ministra Edukacji Narodowej nr 5114/2014 w sprawie zatwierdzenia metodologii organizacji, prowadzenia i ukończenia specjalnego programu podwyższania kwalifikacji dotyczącego kształcenia podstawowego pielęgniarek odpowiedzialnych za opiekę ogólną odbytego przed dniem 1 stycznia 2007 r. dla absolwentów szkół pomaturalnych.
+
 **Art. 31.** Prawo wykonywania zawodu położnej przysługuje osobie:
+
+- **1)** posiadającej świadectwo lub dyplom ukończenia polskiej szkoły położnych bądź uzyskane w innym państwie niż państwo członkowskie Unii Europejskiej, pod warunkiem że dyplom lub świadectwo zostały uznane w Rzeczypospolitej Polskiej za równorzędne ze świadectwem ukończenia szkoły położnych lub dyplomem, zgodnie z odrębnymi przepisami, oraz że spełniają minimalne wymogi kształcenia określone w przepisach prawa Unii Europejskiej;
+- **2)** posiadającej pełną zdolność do czynności prawnych;
+- **3)** której stan zdrowia pozwala na wykonywanie zawodu położnej;
+- **4)** która wykazuje nienaganną postawę etyczną.
 
 **Art. 31a.** Prawo wykonywania zawodu położnej przysługuje obywatelowi państwa członkowskiego Unii Europejskiej, który posiada dyplom, świadectwo lub inny dokument potwierdzający posiadanie formalnych kwalifikacji do wykonywania zawodu położnej uzyskane przed dniem 1 stycznia 2021 r. w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej i tytuł zawodowy „Registered Midwife” lub „Midwife” oraz spełnia warunki, o których mowa w art. 31 pkt 2–4.
 
@@ -612,8 +653,7 @@ Art. 88–90. (pominięte)
 
 - **1)** na wniosek pielęgniarki albo położnej zgody na wykonywanie zawodu w innym podmiocie udzielił minister właściwy do spraw zdrowia, w drodze decyzji administracyjnej, której nadaje się rygor natychmiastowej wykonalności, na podstawie zaświadczenia, o którym mowa w ust. 1 pkt 2, wydanego przez kolejny podmiot wykonujący działalność leczniczą, w którym występuje szczególnie duże zapotrzebowanie na świadczenia zdrowotne udzielane przez pielęgniarki lub położne;
 - **2)** minister właściwy do spraw zdrowia skierował pielęgniarkę albo położną w drodze decyzji administracyjnej do pracy w podmiocie wykonującym działalność leczniczą, w którym występuje szczególnie duże zapotrzebowanie na świadczenia udzielane przez pielęgniarki lub położne;
-- **3)** pielęgniarka albo położna została skierowana do pracy przy zwalczaniu epidemii na podstawie art. 47 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz.
-- **1675)** .
+- **3)** pielęgniarka albo położna została skierowana do pracy przy zwalczaniu epidemii na podstawie art. 47 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675).
 - **4)** (uchylony)
 
 11. Prawo wykonywania zawodu, o którym mowa w ust. 6, wygasa w przypadku:
@@ -1093,6 +1133,12 @@ Art. 88–90. (pominięte)
 
 **Art. 60.** Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Pielęgniarek i Położnych, określi, w drodze rozporządzenia:
 
+- **1)** tryb i zakres działania Krajowej Rady,
+- **2)** tryb udzielania akredytacji, w tym sposób przeprowadzania oceny niezbędnej do udzielenia i utrzymania akredytacji, oraz dane, jakie powinien zawierać wniosek o jej przeprowadzenie,
+- **3)** wysokość opłat za przeprowadzenie postępowania akredytacyjnego oraz za wydanie certyfikatu,
+- **4)** tryb wyłaniania członków Krajowej Rady, w tym dane, jakie powinno zawierać ogłoszenie o naborze kandydatów, dane objęte wnioskiem o zgłoszeniu kandydata, a także termin rozpatrzenia wniosku – biorąc pod uwagę konieczność sprawnego przeprowadzenia postępowania akredytacyjnego przez Krajową Radę;
+- **5)** wysokość wynagrodzenia członków Krajowej Rady, biorąc pod uwagę, że jego miesięczna wysokość nie może przekroczyć przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłaty nagród z zysku za ubiegły rok, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
 #### Rozdział 6 Kształcenie podyplomowe oraz inne formy podnoszenia kwalifikacji przez pielęgniarki i położne
 
 **Art. 61.**
@@ -1206,7 +1252,7 @@ Art. 88–90. (pominięte)
 
 6. Członkom państwowej komisji egzaminacyjnej przysługuje wynagrodzenie za przeprowadzenie egzaminu państwowego. Wynagrodzenia członków państwowej komisji egzaminacyjnej są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
-7. Pielęgniarka i położna przystępujące do egzaminu państwowego, o którym mowa w ust. 2, są obowiązane do wniesienia opłaty za ten egzamin. Opłata stanowi dochód budżetu państwa. [8. Opłata, o której mowa w ust. 7, jest wnoszona na rachunek bankowy wskazany przez Centrum podany za pomocą SMK w trakcie składania wniosku, o którym mowa w ust. 11. Opłata powinna być uiszczona niezwłocznie po złożeniu wniosku, nie później niż w terminie 5 dni od upływu terminu składania wniosków wskazanego przez Centrum.] <8. Opłata, o której mowa w ust. 7, jest wnoszona na rachunek bankowy wskazany w SMK w trakcie składania wniosku, o którym mowa w ust. 11. Opłatę uiszcza się niezwłocznie po złożeniu wniosku, nie później niż w terminie 5 dni od upływu terminu składania wniosków wskazanego przez CEM.>
+7. Pielęgniarka i położna przystępujące do egzaminu państwowego, o którym mowa w ust. 2, są obowiązane do wniesienia opłaty za ten egzamin. Opłata stanowi dochód budżetu państwa. [8. Opłata, o której mowa w ust. 7, jest wnoszona na rachunek bankowy wskazany przez Centrum podany za pomocą SMK w trakcie składania wniosku, o którym mowa w ust. 11. Opłata powinna być uiszczona niezwłocznie po złożeniu wniosku, nie później niż w terminie 5 dni od upływu terminu składania wniosków wskazanego przez Centrum.] <8. Opłata, o której mowa w ust. 7, jest wnoszona na rachunek bankowy wskazany w SMK w trakcie składania wniosku, o którym mowa w ust. 11. Opłatę uiszcza się niezwłocznie po złożeniu wniosku, nie później niż w terminie 5 dni od upływu terminu składania wniosków wskazanego przez CEM.
 
 9. [W przypadku niewniesienia opłaty, o której mowa w ust. 7, albo wniesienia jej w wysokości niższej niż należna, dyrektor Centrum wzywa wnioskodawcę do uzupełnienia braków formalnych, za pomocą SMK lub za pomocą środków komunikacji elektronicznej pod adresem poczty elektronicznej wskazanym przez wnioskodawcę we wniosku.] <W przypadku niewniesienia opłaty, o której mowa w ust. 7, albo wniesienia jej w wysokości niższej niż należna, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych, za pomocą SMK lub za pomocą środków komunikacji elektronicznej pod adresem poczty elektronicznej wskazanym przez wnioskodawcę we wniosku.> Przepisu art. 64 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
@@ -1234,13 +1280,9 @@ Art. 88–90. (pominięte)
 
 - **1)** organizacja i realizacja stażu;
 - **2)** kontrola prawidłowości przebiegu stażu;
-- **3)** dokonanie zaliczenia świadczeń zdrowotnych określonych w programie stażu. [Art. 68. 1. Obsługę organizacyjną państwowej komisji egzaminacyjnej zapewnia Centrum.
+- **3)** dokonanie zaliczenia świadczeń zdrowotnych określonych w programie stażu.
 
-2. Centrum jest państwową jednostką budżetową podległą ministrowi właściwemu do spraw zdrowia, finansowaną z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia.
-
-3. Centrum jest kierowane przez dyrektora powoływanego i odwoływanego przez ministra właściwego do spraw zdrowia.
-
-4. Minister właściwy do spraw zdrowia nadaje, w drodze zarządzenia, statut Centrum, określający jego szczegółową strukturę organizacyjną, uwzględniając konieczność sprawnego wykonywania zadań wynikających z ustawy.] <Art. 68. Obsługę organizacyjną państwowej komisji egzaminacyjnej zapewnia CEM.>
+**Art. 68.** Obsługę organizacyjną państwowej komisji egzaminacyjnej zapewnia CEM.
 
 **Art. 69.**
 
@@ -1642,6 +1684,10 @@ Art. 88–90. (pominięte)
 
 **Art. 81.** Organizator kształcenia jest obowiązany:
 
+- **1)** przechowywać dokumentację przebiegu kształcenia podyplomowego, w tym protokoły przebiegu egzaminów lub innych form zakończenia kształcenia, przez okres 10 lat od dnia zakończenia kształcenia;
+- **2)** prowadzić rejestr wydanych zaświadczeń o odbyciu określonego rodzaju kształcenia podyplomowego;
+- **3)** rejestrować przebieg zajęć teoretycznych prowadzonych z wykorzystaniem metod i technik kształcenia na odległość, w zakresie obejmującym dźwięk; nośnik z zarejestrowanymi zajęciami stanowi integralną część dokumentacji przebiegu kształcenia podyplomowego.
+
 **Art. 82.**
 
 1. Organ prowadzący rejestr jest uprawniony do kontroli organizatorów kształcenia wpisanych do rejestru.
@@ -1770,6 +1816,8 @@ Art. 88–90. (pominięte)
 
 #### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
+**Art. 88–90.** (pominięte)
+
 **Art. 91.**
 
 1. Osoby, które w dniu wejścia w życie ustawy posiadają stwierdzone albo przyznane prawo wykonywania zawodu, zachowują to prawo.
@@ -1848,7 +1896,42 @@ Art. 88–90. (pominięte)
 
 **Art. 103.** Traci moc ustawa z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej (Dz. U. z 2009 r. poz. 1217 i 1706, z 2010 r. poz. 1578 oraz z 2011 r. poz. 235, 622 i 654).
 
-**Art. 104.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 95 i art. 99, które wchodzą w życie z dniem ogłoszenia . Załączniki do ustawy z dnia 15 lipca 2011 r. (Dz. U. z 2026 r. poz.
+**Art. 104.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem art. 95 i art. 99, które wchodzą w życie z dniem ogłoszenia .
+
+## Załączniki do ustawy z dnia 15 lipca 2011 r.
+
+(Dz. U. z 2026 r. poz. 15) Załącznik nr 1
+1) „Gesundheits- und Krankenpflegerin /Gesundheits- und Krankenpfleger” w Republice Federalnej Niemiec;
+2) „Hospitalier(ère)/Verpleegassistent(e)” lub „Infirmier(ère) hospitalier(ère)/Ziekenhuisverpleger (verpleegster)” w Królestwie Belgii;
+3) „Mедицинска сестра” w Republice Bułgarii;
+4) „Sygeplejerske” w Królestwie Danii;
+5) „Infirmier(ère)” w Republice Francuskiej;
+6) „Registered General Nurse” w Republice Irlandii;
+7) „Infermiere professionale” w Republice Włoskiej;
+8) „Infirmier” w Wielkim Księstwie Luksemburga;
+9) „Verpleegkundige” w Królestwie Niderlandów;
+10) „State Registered Nurse” lub „Registered General Nurse” w Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej;
+11) „Διπλωµατούχος ή πτυχιούχος νοσοκόµος, νοσηλευτής ή νοσηλεύτρια” w Republice Greckiej;
+12) „Enfermero/a diplomado/a” w Królestwie Hiszpanii;
+13) „Enfermeiro” w Republice Portugalii;
+14) „Diplomierte Gesundheits- und Krankenschwester – Diplomierter Gesundheits- und Krankenpfleger” w Republice Austrii;
+15) „Sairaanhoitaja/Sjukskötare” w Republice Finlandii;
+16) „Sjuksköterska” w Królestwie Szwecji;
+17) „Všeobecná sestra/Všeobecný ošetřovatel” w Republice Czeskiej;
+18) „Õde” w Republice Estońskiej;
+19) „Εγγεγραµµένος Νοσηλευτής” w Republice Cypryjskiej;
+20) „Māsa” w Republice Łotewskiej;
+21) „Bendrosios praktikos slaugytojas” w Republice Litewskiej;
+22) „Ápoló” w Republice Węgierskiej;
+23) „Infermier Registrat tal–Ewwel Livell” w Republice Malty;
+24) „Asistent medical generalist” w Rumunii;
+25) „Diplomirana medicinska sestra / Diplomirani zdravstvenik” w Republice Słowenii;
+26) „Sestra” w Republice Słowackiej;
+26a) „Medicinska sestra opće njege/medicinski tehničar opće njege” lub „Prvostupnik (baccalaureus) sestrinstva/prvostupnica (baccalaurea) sestrinstva” w Republice Chorwacji;
+27) „Hjúkrunarfræðingur” w Republice Islandii;
+28) „Krankenschwester Krankenpfleger” w Księstwie Liechtensteinu;
+29) „Sykepleier” w Królestwie Norwegii;
+30) „Infirmiere”, „Infirmier”, „Krankenschwester”, „Krankenpfleger”, „Infermiera” lub „Infermiere” w Konfederacji Szwajcarskiej.
 
 ## Załącznik nr 2
 

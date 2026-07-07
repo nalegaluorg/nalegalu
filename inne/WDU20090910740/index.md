@@ -8,10 +8,10 @@ pos: 740
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o towarach paczkowanych
+# Ustawa z dnia 7 maja 2009 r. o towarach paczkowanych
 
 *USTAWA z dnia 7 maja 2009 r.*
 
@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-05-07 |
 | Data wydania | 2009-06-15 |
+| Wejście w życie | 2009-06-30 |
 | Ostatnia zmiana | 2026-03-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090910740) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/740/text.pdf) |
 
@@ -38,6 +39,27 @@ source: "isap-pdf"
 3. Przepisy ustawy nie naruszają przepisów odrębnych dotyczących produktów, opakowań oraz warunków wprowadzania ich do obrotu.
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
+
+- **1)** towar paczkowany – produkt umieszczony w opakowaniu jednostkowym dowolnego rodzaju, którego ilość nominalna, jednakowa dla całej partii, odmierzona bez udziału nabywcy, nieprzekraczająca 50 kg lub 50 l, nie może zostać zmieniona bez naruszenia opakowania;
+- **2)** produkt – produkt w rozumieniu art. 3 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/988 z dnia 10 maja 2023 r. w sprawie ogólnego bezpieczeństwa produktów, zmieniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1025/2012 i dyrektywę Parlamentu Europejskiego i Rady (UE) 2020/1828 oraz uchylającego dyrektywę 2001/95/WE Parlamentu Europejskiego i Rady i dyrektywę Rady 87/357/EWG (Dz. Urz. UE L 135 z 23.05.2023, str. 1, z późn. zm. );
+- **3)** opakowanie – opakowanie w rozumieniu art. 4 pkt 1 i 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2020 r. poz. 1114 oraz z 2021 r. poz. 2151);
+- **4)** butelka miarowa – pojemnik oznaczony znakiem „3”, zamykany lub przystosowany do zamykania, przeznaczony do przechowywania, transportu lub dostarczania cieczy, o pojemności nominalnej od 50 ml do 5 l włącznie, posiadający charakterystykę konstrukcyjną i jednolitość wytwarzania zapewniającą odpowiednią dokładność pomiaru zawartej w nim cieczy przez napełnienie do określonego poziomu lub w określonym procencie jego pojemności całkowitej, bez konieczności wykonywania niezależnego pomiaru ilości nalewanej do niego cieczy, wykonany ze szkła lub innego materiału posiadającego taką sztywność i stabilność, która zapewnia pojemnikowi zachowanie takich samych właściwości metrologicznych, jakie zapewnia szkło;
+- **5)** paczkowanie – umieszczenie odmierzonej porcji produktu w opakowaniu jednostkowym w celu wprowadzenia go do obrotu jako towaru paczkowanego;
+- **6)** paczkujący – przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i
+- **1570)** , który paczkuje produkty na terytorium Rzeczypospolitej Polskiej i wprowadza towar paczkowany do obrotu;
+- **7)** zlecający paczkowanie – przedsiębiorcę, który zleca paczkowanie produktu innemu podmiotowi i wprowadza towar paczkowany do obrotu jako paczkujący na terytorium Rzeczypospolitej Polskiej;
+- **8)** paczkujący na zlecenie – przedsiębiorcę, który paczkuje produkty na zlecenie i przekazuje towary paczkowane zlecającemu paczkowanie;
+- **9)** importer – przedsiębiorcę, który sprowadza towar paczkowany na terytorium Rzeczypospolitej Polskiej z państwa niebędącego stroną umowy o Europejskim Obszarze Gospodarczym i wprowadza go do obrotu;
+- **10)** sprowadzający – przedsiębiorcę, który sprowadza towar paczkowany nieoznaczony znakiem „e” na terytorium Rzeczypospolitej Polskiej z innego państwa – strony umowy o Europejskim Obszarze Gospodarczym i wprowadza go do obrotu;
+- **11)** metoda referencyjna – metodę statystycznej kontroli towarów paczkowanych lub butelek miarowych, stosowaną przez organy kontroli w celu stwierdzenia poprawności procesu paczkowania produktów lub produkcji butelek miarowych;
+- **12)** kontrola wewnętrzna ilości towaru paczkowanego – kontrolę dotyczącą ilości produktu w opakowaniu, wykonywaną w trakcie procesu paczkowania;
+- **13)** kontrola wewnętrzna butelek miarowych – kontrolę dotyczącą określonych w ustawie wymagań dla butelek miarowych, wykonywaną przez producenta w trakcie procesu produkcyjnego;
+- **14)** partia towaru paczkowanego (partia) – określoną liczbę jednakowych towarów paczkowanych, o takiej samej ilości nominalnej, zapakowanych w tych samych warunkach i w określonym przedziale czasu;
+- **15)** próbka towaru paczkowanego (próbka) – pobraną losowo z partii określoną liczbę towarów paczkowanych, na podstawie której dokonuje się oceny partii;
+- **16)** błąd ilości towaru paczkowanego, oznaczony znakiem T – różnicę między ilością rzeczywistą a ilością nominalną towaru paczkowanego;
+- **17)** dopuszczalna ujemna wartość błędu ilości towaru paczkowanego, oznaczona znakiem T – maksymalną dopuszczalną różnicę między ilością rzeczywistą a ilością nominalną produktu podaną przez paczkującego;
+- **18)** ilość nominalna towaru paczkowanego – deklarowaną przez paczkującego i oznaczoną na opakowaniu ilość produktu w towarze paczkowanym, bez opakowania oraz bez dodatkowych materiałów lub produktów zapakowanych razem z produktem, jaką towar paczkowany powinien zawierać;
+- **19)** ilość rzeczywista towaru paczkowanego – przeznaczoną dla nabywcy ilość produktu w towarze paczkowanym, bez opakowania i bez dodatkowych materiałów lub produktów zapakowanych razem z produktem, jaką towar paczkowany faktycznie zawiera; w przypadku produktów, których ilość wyraża się w jednostkach objętości, z wyjątkiem produktów zamrożonych, ilość rzeczywista powinna być określana w temperaturze 20°C.
 
 **Art. 3.** Do obrotu mogą być wprowadzane towary paczkowane spełniające wymagania określone w ustawie.
 
@@ -346,7 +368,54 @@ source: "isap-pdf"
 
 **Art. 43.** Traci moc ustawa z dnia 6 września 2001 r. o towarach paczkowanych (Dz. U. poz. 1409, z późn. zm. ).
 
-**Art. 44.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załączniki do ustawy z dnia 7 maja 2009 r. (Dz. U. z 2022 r. poz.
+**Art. 44.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+## Załączniki do ustawy z dnia 7 maja 2009 r.
+
+(Dz. U. z 2022 r. poz. 2255) Załącznik nr 1 Załącznik nr 2 Dopuszczalne błędy ilości rzeczywistej towaru paczkowanego
+§ 1. 1. Partia towarów paczkowanych powinna spełniać jednocześnie następujące wymagania metrologiczne dotyczące:
+a) dopuszczalnej ujemnej wartości błędu ilości (niedoboru) towaru paczkowanego,
+b) średniej ilości rzeczywistej produktu w opakowaniu w stosunku do jego ilości nominalnej.
+2. Średnia ilość rzeczywista towaru paczkowanego, oznaczona „𝑥”, wyznaczona podczas kontroli partii towaru paczkowanego, powinna być nie mniejsza niż:
+a) ilość nominalna towaru paczkowanego, oznaczona dalej 𝑄 – w przypadku kontroli całej partii towarów zgodnie z § 6 ust. 3 lit. c,
+b) wartość podana w § 6 ust. 3 lit. a, (tabela 4 – dla próbek, które nie ulegają zniszczeniu podczas badania) lub w lit. b, (tabela 5 – dla próbek, które ulegają w badaniu zniszczeniu, czyli są podczas badania otwierane lub w inny sposób ulegają uszkodzeniu) – w przypadku zastosowania statystycznej metody oceny partii.
+3. Dopuszczalną ujemną wartość błędu ilości towaru paczkowanego 𝑇 , ustala się zgodnie z podaną poniżej tabelą 1.
+TABELA 1 Przy stosowaniu tabeli, wartości dopuszczalnych błędów 𝑇 , wyrażonych w procentach 𝑄 zaokrągla się przy przeliczaniu na jednostki masy lub objętości do: – następnej dziesiętnej części g albo ml – 𝑄 ≤ 1000 g albo 1000 ml, – następnej całkowitej wartości g albo ml – 𝑄 > 1000 g albo 1000 ml.
+4. W kontrolowanej partii nie więcej niż 2% towarów paczkowanych może mieć błąd ilości towaru paczkowanego co najwyżej dwukrotnie większy niż błąd 𝑇 podany w tabeli 1.
+5. W kontrolowanej partii nie może być towarów paczkowanych, których błąd ujemny przekracza dwukrotną wartość błędu 𝑇 podanego w tabeli 1.
+6. Nie określa się dodatniej wartości błędu ilości towaru paczkowanego 𝑇 (nadmiaru ilości towaru w opakowaniu).
+7. Błąd pomiaru podczas wyznaczania ilości rzeczywistej towaru paczkowanego nie powinien przekraczać 20% dopuszczalnej ujemnej wartości błędu ilości towaru paczkowanego (𝑇 ).
+Kontrola towarów paczkowanych
+§ 2. 1. Kontroli podlega partia towaru paczkowanego. Partia towaru paczkowanego wystarczająca do pobrania próbki w celu wyznaczenia średniej ilości produktu w opakowaniu metodą statystyczną powinna zawierać co najmniej 100 jednostek towaru.
+2. Wynikiem kontroli partii towaru paczkowanego jest jej przyjęcie (zaakceptowanie), w przypadku gdy spełnia ona wymagania metrologiczne określone w niniejszym załączniku, albo jej odrzucenie (zdyskwalifikowanie i uznanie tej partii za wadliwą), jeżeli takich wymagań partia ta nie spełnia.
+3. Jeżeli partia brana jest z linii paczkującej, to liczność partii stanowią wszystkie towary przyjęte przez system kontrolny paczkującego, zapakowane w czasie jednej godziny przy maksymalnej wydajności linii. Jeżeli partia nie jest brana z linii paczkującej, to wielkość partii powinna być ograniczona do 10 000 jednostek towaru.
+4. Z partii pobierana jest losowo próbka, która jest oznaczana jeszcze przed rozpoczęciem pierwszego pomiaru kontrolnego. Próbkę tę stanowią towary w liczbie określonej w § 4 ust. 1 (tabela 2). Partia towaru, zawierająca mniej niż 100 towarów paczkowanych podlegających badaniom nieniszczącym, kontrolowana jest w całości.
+5. Jeżeli jest to konieczne do zapewnienia prawidłowości badania, to w czasie kontroli towary paczkowane mogą być niszczone (kontrola niszcząca). Kontrolę niszczącą należy ograniczać do niezbędnych przypadków i stosować dla partii zawierającej co najmniej 100 jednostek towaru, dla mniejszych partii zaś kontrolę niszczącą należy ograniczać do przypadków wynikających ze skarg nabywców i poddawać jej 10% towarów z partii, lecz nie mniej niż 2 jednostki.
+6. Przyjęcie partii towaru paczkowanego następuje wtedy, gdy w wyniku badania pobranej próbki stwierdzono, że spełnione są wymagania określone w § 4–6, dotyczące odpowiednio: – ilości rzeczywistej towarów paczkowanych wchodzących w skład próbki w stosunku do ilości nominalnej oraz – średniej ilości rzeczywistej towarów paczkowanych wchodzących w skład próbki w stosunku do jego ilości nominalnej.
+7. Jeżeli partia towaru paczkowanego nie spełnia tych wymagań, to zostaje odrzucona.
+Wyznaczanie ilości rzeczywistej towaru paczkowanego
+§ 3. 1. Ilość rzeczywistą towaru paczkowanego, wyrażoną w jednostkach masy, wyznacza się bezpośrednio przez pomiar masy.
+2. Ilość rzeczywistą towaru paczkowanego, wyrażoną w jednostkach objętości, wyznacza się w zależności od właściwości produktu: – bezpośrednio przez pomiar objętości, – pośrednio przez pomiar masy i gęstości.
+3. Minimalna akceptowana ilość rzeczywista towaru paczkowanego jest równa różnicy między ilością nominalną 𝑄 towaru paczkowanego a dopuszczalnym błędem ujemnym 𝑇 , określonym w § 1 ust. 3 (tabela 1).
+4. Towary paczkowane o ilości rzeczywistej mniejszej niż minimalnie akceptowana uważa się za wadliwe.
+Kontrola nieniszcząca
+§ 4. 1. Próbki, które nie ulegają zniszczeniu w czasie kontroli, podlegają kontroli wyrywkowej dwustopniowej i ocenie według tabeli 2.
+TABELA 2
+2. Jeżeli liczba wadliwych jednostek, stwierdzona w wyniku badania próbki nr 1, należy do zbioru liczb kwalifikujących partię, to należy przyjąć tę partię towaru paczkowanego bez pobierania próbki nr 2.
+3. Jeżeli liczba wadliwych jednostek, stwierdzona w wyniku badania próbki nr 1, należy do zbioru liczb dyskwalifikujących partię, to należy odrzucić tę partię.
+4. Jeżeli liczba wadliwych jednostek, stwierdzona w wyniku badania próbki nr 1, jest większa od największej liczby kwalifikującej partię, ale mniejsza od najmniejszej liczby dyskwalifikującej partię, to należy pobrać i zbadać próbkę nr 2.
+5. Jeżeli liczba będąca sumą wadliwych jednostek z próbek 1 i 2 należy do zbioru liczb kwalifikujących partię (dla sumy liczb towarów paczkowanych obu próbek), to należy przyjąć tę partię towaru paczkowanego. W przeciwnym razie partię towaru paczkowanego należy odrzucić.
+Kontrola niszcząca
+§ 5. 1. Próbki, które ulegają zniszczeniu w czasie kontroli, podlegają kontroli wyrywkowej jednostopniowej i ocenie według tabeli 3 TABELA 3
+2. Jeżeli liczba wadliwych jednostek, wyznaczona w wyniku badania próbki należy do zbioru liczb kwalifikujących partię, to należy przyjąć tę partię towaru.
+W przeciwnym razie partię towaru należy odrzucić.
+Wyznaczanie średniej ilości rzeczywistej towarów paczkowanych wchodzących w skład próbki
+§ 6. 1. Średnią ilość rzeczywistą 𝑥 towarów paczkowanych w próbce wyznacza się według wzoru: ∑ 𝑥 𝑥 = 𝑛 gdzie: 𝑥 – Suma wyznaczonych wartości ilości rzeczywistej towarów paczkowanych wchodzących w skład próbki, 𝑛 – liczność próbki.
+2. Odchylenie standardowe 𝑠 w badanej próbce o liczności 𝑛 wyznacza się według wzoru:
+3. Średnia ilość rzeczywista 𝑥 towaru paczkowanego z danej próbki nie powinna być mniejsza niż:
+a) wartość kwalifikująca podana w tabeli 4 – przy statystycznej kontroli partii dla próbek, które nie ulegają zniszczeniu w czasie badania TABELA 4 gdzie znaczenie symboli występujących w tabeli jest następujące: 𝑄 – ilość nominalna towaru paczkowanego, 𝑠 – odchylenie standardowe badanej próbki,
+b) wartość kwalifikująca podana w tabeli 5 – przy statystycznej kontroli partii dla próbek, które ulegają zniszczeniu w czasie badania TABELA 5
+c) ilość nominalna 𝑄 towaru paczkowanego – dla partii kontrolowanych w całości.
 
 ## Załącznik nr 3 — Wymiary podane na rysunku są wartością względną; są one funkcją średnicy okręgu opisanego na małej literze „e”.
 

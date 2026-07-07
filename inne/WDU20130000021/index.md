@@ -8,10 +8,10 @@ pos: 21
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o odpadach
+# Ustawa z dnia 14 grudnia 2012 r. o odpadach
 
 *USTAWA z dnia 14 grudnia 2012 r.*
 
@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-08 |
 | Data wydania | 2013-01-08 |
-| Ostatnia zmiana | 2026-03-03 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000021) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/21/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -34,6 +34,24 @@ source: "isap-pdf"
 **Art. 1.** Ustawa określa środki służące ochronie środowiska, życia i zdrowia ludzi przez zapobieganie powstawaniu odpadów i zmniejszenie ich ilości oraz negatywnego wpływu wytwarzania odpadów i gospodarowania nimi, a także przez zmniejszenie całkowitego wpływu użytkowania zasobów oraz poprawę efektywności takiego użytkowania, w celu przejścia na gospodarkę o obiegu zamkniętym.
 
 **Art. 2.** Przepisów ustawy nie stosuje się do:
+
+- **1)** gazów i pyłów wprowadzanych do atmosfery;
+- **2)** gruntu w pierwotnym położeniu (w miejscu), w tym niewydobytej zanieczyszczonej gleby, i budynków trwale związanych z gruntem;
+- **3)** niezanieczyszczonej gleby i innych materiałów występujących w stanie naturalnym, wydobytych w trakcie robót budowlanych, pod warunkiem, że materiał ten zostanie wykorzystany do celów budowlanych w stanie naturalnym na terenie, na którym został wydobyty;
+- **4)** odpadów promieniotwórczych;
+- **5)** wycofanych z użytku materiałów wybuchowych;
+- **6)** biomasy w postaci: określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem (WE) nr 1069/2009”,
+    - **a)** odchodów podlegających przepisom rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r.
+    - **b)** słomy,
+    - **c)** innych, niebędących niebezpiecznymi, naturalnych substancji pochodzących z produkcji rolniczej lub leśnej – wykorzystywanej w rolnictwie, leśnictwie lub do produkcji energii z takiej biomasy za pomocą procesów lub metod, które nie są szkodliwe dla środowiska ani nie stanowią zagrożenia dla życia i zdrowia ludzi;
+
+- **7)** osadów przemieszczanych w obrębie wód powierzchniowych w celu związanym z gospodarowaniem wodami lub drogami wodnymi, zarządzaniem wodami lub urządzeniami wodnymi lub ochroną przed powodzią bądź ograniczaniem skutków powodzi i susz, rekultywacją, refulacją, pozyskiwaniem lub uzdatnianiem terenu, jeżeli osady te nie są niebezpieczne;
+- **8)** ścieków;
+- **9)** produktów ubocznych pochodzenia zwierzęcego, w tym produktów przetworzonych, objętych rozporządzeniem (WE) nr 1069/2009, z wyjątkiem tych, które są odpadami przewidzianymi do składowania na składowisku odpadów albo do przekształcania termicznego lub do wykorzystania w zakładzie produkującym biogaz lub w kompostowni, zgodnie z tym rozporządzeniem;
+- **10)** zwłok zwierząt, które poniosły śmierć w inny sposób niż przez ubój, w tym zwierząt uśmierconych w celu wyeliminowania chorób epizootycznych, i które są unieszkodliwiane zgodnie z rozporządzeniem (WE) nr 1069/2009;
+- **11)** mas ziemnych lub skalnych przemieszczanych w związku z wydobywaniem kopalin ze złóż, jeżeli koncesja na wydobywanie kopalin ze złóż lub plan ruchu zakładu górniczego zatwierdzony decyzją, o których mowa w ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633), lub miejscowy plan zagospodarowania przestrzennego dla terenu górniczego określają warunki i sposób ich zagospodarowania;
+- **12)** (uchylony)
+- **13)** substancji, które są przeznaczone do użycia jako materiały paszowe w rozumieniu art. 3 ust. 2 lit. g rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2009 z dnia 13 lipca 2009 r. w sprawie wprowadzania na rynek i stosowania pasz, zmieniającego rozporządzenie (WE) nr 1831/2003 Parlamentu Europejskiego i Rady i uchylającego dyrektywę Rady 79/373/EWG, dyrektywę Komisji 80/511/EWG, dyrektywy Rady 82/471/EWG, 83/228/EWG, 93/74/EWG, 93/113/WE i 96/25/WE oraz decyzję Komisji 2004/217/WE (Dz. Urz. UE L 229 z 01.09.2009, str. 1, z późn. zm. ) i w których skład nie wchodzą produkty uboczne pochodzenia zwierzęcego w rozumieniu art. 3 pkt 1 rozporządzenia (WE) nr 1069/2009 oraz które nie zawierają tych produktów.
 
 #### Rozdział 2 Objaśnienia określeń ustawowych
 
@@ -179,6 +197,12 @@ source: "isap-pdf"
 
 **Art. 10.** Przedmiot lub substancję powstające w wyniku procesu produkcyjnego, którego podstawowym celem nie jest ich produkcja, uznaje się za produkt uboczny niebędący odpadem, jeżeli łącznie są spełnione następujące warunki:
 
+- **1)** dalsze wykorzystywanie przedmiotu lub substancji jest pewne;
+- **2)** przedmiot lub substancja mogą być wykorzystywane bezpośrednio bez dalszego przetwarzania, innego niż normalna praktyka przemysłowa;
+- **3)** przedmiot lub substancja są produkowane jako integralna część procesu produkcyjnego;
+- **4)** przedmiot lub substancja spełniają wszystkie istotne wymagania, w tym prawne, w zakresie produktu, ochrony środowiska oraz życia i zdrowia ludzi, dla określonego wykorzystania danego przedmiotu lub danej substancji i wykorzystanie takie nie doprowadzi do ogólnych negatywnych oddziaływań na środowisko, życie lub zdrowie ludzi;
+- **5)** przedmiot lub substancja spełniają szczegółowe warunki uznania danego przedmiotu lub danej substancji za produkt uboczny, jeżeli zostały one określone w przepisach prawa Unii Europejskiej albo w przepisach wydanych na podstawie art. 11 ust. 6.
+
 **Art. 11.**
 
 1. Wytwórca przedmiotu lub substancji, o których mowa w art. 10, jest obowiązany do przedłożenia marszałkowi województwa właściwemu ze względu na miejsce ich wytwarzania zgłoszenia uznania przedmiotu lub substancji za produkt uboczny.
@@ -261,6 +285,10 @@ source: "isap-pdf"
 #### Rozdział 1 Ochrona życia i zdrowia ludzi oraz środowiska
 
 **Art. 16.** Gospodarkę odpadami należy prowadzić w sposób zapewniający ochronę życia i zdrowia ludzi oraz środowiska, w szczególności gospodarka odpadami nie może:
+
+- **1)** powodować zagrożenia dla wody, powietrza, gleby, roślin lub zwierząt;
+- **2)** powodować uciążliwości przez hałas lub zapach;
+- **3)** wywoływać niekorzystnych skutków dla terenów wiejskich lub miejsc o szczególnym znaczeniu, w tym kulturowym i przyrodniczym.
 
 #### Rozdział 2 Hierarchia sposobów postępowania z odpadami
 
@@ -389,6 +417,19 @@ source: "isap-pdf"
 5. Przepisu ust. 2 nie stosuje się do systemów rozszerzonej odpowiedzialności producenta ustanowionych przepisami ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz. 2056), ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2022 r. poz. 1113) oraz ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2022 r. poz. 1622).
 
 **Art. 22a.** W ramach systemu rozszerzonej odpowiedzialności producenta wprowadzający produkty do obrotu na terytorium kraju, którzy realizują obowiązki samodzielnie, albo podmioty realizujące w ich imieniu obowiązki:
+
+- **1)** nie ograniczają wykonywania obowiązków do przypadków, w których zbieranie i przetwarzanie odpadów przynosi największe zyski;
+- **2)** zapewniają odpowiednią dostępność systemu zbierania odpadów na obszarze, na którym wprowadzają produkty do obrotu;
+- **3)** posiadają środki finansowe i organizacyjne niezbędne do wykonywania obowiązków;
+- **4)** stosują mechanizmy samokontroli, w szczególności audyty, w zakresie:
+    - **a)** zarządzania finansami przeznaczonymi na realizację obowiązków,
+    - **b)** gromadzenia danych i sporządzania sprawozdań dotyczących produktów wprowadzanych do obrotu,
+    - **c)** zbierania i przetwarzania odpadów powstałych z produktów;
+
+- **5)** udostępniają publicznie informacje o realizacji celów w zakresie gospodarowania odpadami, w tym realizacji obowiązków określonych w pkt 1–4, a w przypadku podmiotów realizujących obowiązki w imieniu wprowadzających produkty do obrotu na terytorium kraju – podmioty te udostępniają dodatkowo informacje o:
+    - **a)** strukturze własności i członkostwa tych podmiotów,
+    - **b)** wkładach finansowych wnoszonych przez wprowadzających produkty do obrotu na terytorium kraju, w odniesieniu do każdej tony produktu wprowadzonego do obrotu,
+    - **c)** procedurze wyboru podmiotów gospodarujących odpadami.
 
 #### Rozdział 6 Zbieranie i transport odpadów
 
@@ -1398,6 +1439,12 @@ source: "isap-pdf"
 
 **Art. 48.** Zezwolenie na zbieranie odpadów i zezwolenie na przetwarzanie odpadów wygasa:
 
+- **1)** po upływie czasu, na jaki zostało wydane;
+- **2)** jeżeli podmiot objęty zezwoleniem zaprzestał działalności objętej zezwoleniem lub z innych powodów zezwolenie stało się bezprzedmiotowe;
+- **3)** na wniosek podmiotu objętego zezwoleniem;
+- **4)** jeżeli podmiot objęty zezwoleniem nie rozpoczął działalności objętej zezwoleniem w terminie roku od dnia, w którym zezwolenie stało się ostateczne;
+- **5)** jeżeli podmiot objęty zezwoleniem nie prowadził działalności objętej zezwoleniem przez 2 lata.
+
 **Art. 48a.**
 
 1. Posiadacz odpadów obowiązany do uzyskania zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów, z wyłączeniem zarządzającego składowiskiem odpadów, jest obowiązany do ustanowienia zabezpieczenia roszczeń w wysokości umożliwiającej pokrycie kosztów wykonania zastępczego:
@@ -1831,6 +1878,11 @@ source: "isap-pdf"
 
 **Art. 62.** Marszałek województwa odmawia, w drodze decyzji, wpisu do rejestru w przypadku gdy podmiot:
 
+- **1)** nie uiścił opłaty rejestrowej w wymaganej wysokości;
+- **2)** będący wprowadzającym sprzęt, który wprowadza do obrotu sprzęt przeznaczony dla gospodarstw domowych, nie wniósł w wymaganej wysokości zabezpieczenia finansowego, o którym mowa w art. 27 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym;
+- **3)** będący organizacją odzysku sprzętu elektrycznego i elektronicznego nie wpłacił na rachunek bankowy w banku prowadzącym rachunek tej organizacji kapitału zakładowego w wymaganej wysokości, o której mowa w art. 63 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym;
+- **4)** będący organizacją odzysku, o której mowa w ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, nie wpłacił na rachunek bankowy w banku prowadzącym rachunek bankowy organizacji odzysku kapitału zakładowego w wymaganej wysokości, o której mowa w art. 6 ust. 1 tej ustawy.
+
 **Art. 63.** Podmiot, o którym mowa w art. 57 ust. 1, jest obowiązany umieszczać numer rejestrowy na dokumentach sporządzanych w związku z prowadzoną działalnością.
 
 **Art. 64.**
@@ -2034,6 +2086,13 @@ source: "isap-pdf"
 
 **Art. 71.** Uproszczoną ewidencję odpadów z zastosowaniem jedynie karty przekazania odpadów prowadzą:
 
+- **1)** podmioty, które:
+    - **a)** wytwarzają odpady niebezpieczne w ilości do 100 kilogramów rocznie,
+    - **b)** wytwarzają odpady inne niż niebezpieczne, niebędące odpadami komunalnymi, w ilości do 5 ton rocznie;
+
+- **2)** transportujący odpady wykonujący wyłącznie usługę transportu odpadów;
+- **3)** władający powierzchnią ziemi, na której komunalne osady ściekowe są stosowane w celach, o których mowa w art. 96 ust. 1 pkt 1–3.
+
 **Art. 71a.**
 
 1. Kartę przekazania odpadów komunalnych sporządza podmiot odbierający odpady komunalne od właścicieli nieruchomości przed rozpoczęciem odbierania tych odpadów, odrębnie dla każdego ładunku transportowanych odpadów komunalnych danego rodzaju przekazywanych do następnego posiadacza odpadów albo do prowadzonych przez siebie stacji przeładunkowej, miejsca zbierania odpadów komunalnych lub miejsca przetwarzania odpadów komunalnych.
@@ -2181,6 +2240,11 @@ source: "isap-pdf"
 7. Organizacja odzysku, o której mowa w ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, do rocznego sprawozdania, o którym mowa w ust. 1, dołącza wykaz przedsiębiorców, w imieniu których działa.
 
 **Art. 74a.** Organizacja odzysku sprzętu elektrycznego i elektronicznego, o której mowa w ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, jest obowiązana do sporządzania rocznego sprawozdania o:
+
+- **1)** wprowadzających sprzęt, z którymi organizacja zawarła umowy, o których mowa w art. 11 ust. 3 tej ustawy, zawierający firmy przedsiębiorców oraz oznaczenia ich siedzib i numery rejestrowe;
+- **2)** masie zebranego zużytego sprzętu pochodzącego z gospodarstw domowych oraz z innych źródeł niż gospodarstwa domowe, masie zużytego sprzętu przetworzonego w zakładzie przetwarzania, masie zużytego sprzętu przygotowanego do ponownego użycia, masie odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia, poddanych recyklingowi, innym niż recykling procesom odzysku oraz unieszkodliwianiu, z podziałem na grupy sprzętu;
+- **3)** osiągniętych poziomach zbierania, odzysku oraz przygotowaniu do ponownego użycia i recyklingu zużytego sprzętu elektrycznego i elektronicznego;
+- **4)** przeprowadzonych przez nią publicznych kampaniach edukacyjnych wraz ze wskazaniem wysokości środków przeznaczonych na ten cel lub wysokości należnych środków oraz wysokości osiągniętego przychodu netto, o których mowa w art. 62 ust. 2 albo 3 tej ustawy.
 
 **Art. 75.**
 
@@ -2437,6 +2501,9 @@ source: "isap-pdf"
 3. Administrator BDO współpracuje z Szefem Krajowego Centrum Informacji Kryminalnej w zakresie niezbędnym do realizacji jego zadań ustawowych.
 
 **Art. 84.** Minister właściwy do spraw klimatu określi, w drodze rozporządzenia:
+
+- **1)** adres strony internetowej rejestru umożliwiającej dostęp do indywidualnego konta w BDO,
+- **2)** zakres uprawnień dla poszczególnych użytkowników – mając na uwadze zapewnienie sprawnego przetwarzania informacji zgodnie z wymaganiami informatyzacji działalności podmiotów realizujących zadania publiczne, a także zakres zadań publicznych realizowanych przez użytkowników.
 
 **Art. 84a.**
 
@@ -2765,6 +2832,9 @@ source: "isap-pdf"
 
 **Art. 109.** Do składowania na składowisku odpadów mogą być dopuszczone wyłącznie odpady:
 
+- **1)** w stosunku do których została sporządzona podstawowa charakterystyka odpadów, przeprowadzono testy zgodności, o ile są wymagane zgodnie z art. 113, i dokonano weryfikacji, o której mowa w art. 114 ust. 2;
+- **2)** spełniają kryteria dopuszczenia odpadów do składowania na składowisku odpadów, określone w przepisach wydanych na podstawie art. 118.
+
 **Art. 110.**
 
 1. Podstawową charakterystykę odpadów sporządza wytwórca lub posiadacz odpadów odpowiedzialny za gospodarowanie odpadami, kierujący odpady do składowania na składowisko odpadów, a w przypadku odpadów komunalnych – podmiot odbierający odpady komunalne od właścicieli nieruchomości, o którym mowa w ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach.
@@ -2870,7 +2940,15 @@ source: "isap-pdf"
 
 **Art. 118.** Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia:
 
+- **1)** odpady obojętne, dla których podstawową charakterystykę odpadów sporządza się bez przeprowadzania badań, o których mowa w art. 110 ust. 2 pkt 1 lit. h,
+- **2)** kryteria dopuszczenia odpadów do składowania na składowisku odpadów danego typu,
+- **3)** zakres badań, o których mowa w art. 117 ust. 1 – kierując się właściwościami odpadów i potrzebą zapewnienia właściwego postępowania z odpadami na składowisku odpadów oraz uwzględniając rodzaje odpadów i zawartość w nich substancji organicznych.
+
 **Art. 119.** Zarządzający składowiskiem odpadów, przed przyjęciem odpadów do składowania na składowisku odpadów, jest obowiązany także:
+
+- **1)** ustalić masę przyjmowanych odpadów;
+- **2)** sprawdzić zgodność przyjmowanych odpadów z danymi zawartymi w karcie przekazania odpadów lub dokumentach wymaganych przy międzynarodowym przemieszczaniu odpadów;
+- **3)** w przypadku odpadów rtęci metalicznej – sprawdzić pojemniki i certyfikat wymagane dla składowania tych odpadów.
 
 **Art. 120.**
 
@@ -2994,6 +3072,10 @@ source: "isap-pdf"
 
 **Art. 128.** Zarządzający składowiskiem odpadów może rozpocząć działalność polegającą na prowadzeniu składowiska odpadów po uzyskaniu kolejno:
 
+- **1)** pozwolenia zintegrowanego albo zezwolenia na przetwarzanie odpadów;
+- **2)** pozwolenia na użytkowanie składowiska odpadów;
+- **3)** decyzji zatwierdzającej instrukcję prowadzenia składowiska odpadów.
+
 **Art. 129.**
 
 1. Decyzję zatwierdzającą instrukcję prowadzenia składowiska odpadów wydaje, na wniosek zarządzającego składowiskiem, marszałek województwa, a w przypadku przedsięwzięć i zdarzeń na terenach zamkniętych – regionalny dyrektor ochrony środowiska. Właściwość miejscową organu określa się według miejsca lokalizacji składowiska odpadów.
@@ -3061,6 +3143,13 @@ source: "isap-pdf"
 **Art. 133.** W przypadku gdy z przeglądu ekologicznego lub dokumentacji hydrogeologicznej wynika brak możliwości monitorowania wód powierzchniowych, podziemnych lub gazu składowiskowego, właściwy organ, o którym mowa w art. 129 ust. 1, w decyzji zatwierdzającej instrukcję prowadzenia składowiska odpadów, może określić odrębny zakres prowadzenia monitoringu danego składowiska odpadów, odstępując od wymogów określonych w przepisach wydanych na podstawie art. 124 ust. 6 pkt 2.
 
 **Art. 134.** Właściwy organ, o którym mowa w art. 129 ust. 1, odmawia, w drodze decyzji, zatwierdzenia instrukcji prowadzenia składowiska odpadów, w przypadku gdy:
+
+- **1)** zarządzający składowiskiem odpadów nie posiada tytułu prawnego do dysponowania całą nieruchomością, na której jest zlokalizowane składowisko odpadów wraz ze wszystkimi instalacjami i urządzeniami, związanymi z prowadzeniem tego składowiska, w okresie obejmującym fazę eksploatacyjną i poeksploatacyjną;
+- **2)** sposób prowadzenia składowiska odpadów jest sprzeczny z pozwoleniem na budowę;
+- **3)** sposób prowadzenia składowiska odpadów mógłby powodować zagrożenia dla życia, zdrowia ludzi lub dla środowiska;
+- **4)** kierownik składowiska odpadów nie posiada świadectwa stwierdzającego kwalifikacje w zakresie gospodarowania odpadami, odpowiednie do prowadzonych procesów przetwarzania odpadów;
+- **5)** zarządzający składowiskiem odpadów będący osobą fizyczną prowadzącą działalność gospodarczą albo wspólnik, prokurent, członek rady nadzorczej lub członek zarządu zarządzającego składowiskiem będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej został skazany prawomocnym wyrokiem sądu za przestępstwa przeciwko środowisku lub za przestępstwa, o których mowa w art. 163, art. 164 lub art. 168 w związku z art. 163 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny;
+- **6)** wobec zarządzającego składowiskiem prawomocnie orzeczono karę pieniężną za przestępstwa przeciwko środowisku na podstawie przepisów ustawy z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary.
 
 **Art. 135.**
 
@@ -3553,6 +3642,9 @@ source: "isap-pdf"
 
 **Art. 181.** Kto wbrew przepisom art. 85 i art. 88, PCB:
 
+- **1)** poddaje odzyskowi lub
+- **2)** spala na statkach podlega karze aresztu albo grzywny.
+
 **Art. 182.** Kto wbrew przepisowi art. 92 miesza oleje odpadowe z innymi odpadami niebezpiecznymi, w tym zawierającymi PCB, w czasie ich zbierania lub magazynowania, jeżeli poziom określonych substancji w olejach odpadowych przekracza dopuszczalne wartości, podlega karze aresztu albo grzywny.
 
 **Art. 183.**
@@ -3584,6 +3676,10 @@ source: "isap-pdf"
 
 **Art. 188.** Kto, prowadząc punkt zbierania odpadów metali, przyjmuje odpady metali inne niż metalowe odpady opakowaniowe po produktach żywnościowych:
 
+- **1)** bez potwierdzenia tożsamości osoby przekazującej te odpady, lub
+- **2)** bez wypełnienia formularza przyjęcia odpadów metali, lub
+- **3)** wypełniając formularz przyjęcia odpadów metali niezgodnie ze stanem rzeczywistym podlega karze aresztu albo grzywny.
+
 **Art. 189.**
 
 1. Kto, będąc zarządzającym składowiskiem odpadów, przyjmuje do składowania odpady, w stosunku do których:
@@ -3612,6 +3708,9 @@ source: "isap-pdf"
 **Art. 191.** Kto, wbrew przepisowi art. 155, termicznie przekształca odpady poza spalarnią odpadów lub współspalarnią odpadów podlega karze aresztu albo grzywny.
 
 **Art. 192.** Kto będąc zarządzającym spalarnią odpadów lub współspalarnią odpadów:
+
+- **1)** przyjmując odpady do ich termicznego przekształcenia, nie ustala masy odpadów lub nie sprawdza zgodności przyjmowanych odpadów z danymi zawartymi w dokumentach, o których mowa w art. 160 ust. 2 pkt 2, lub
+- **2)** przyjmując odpady niebezpieczne do ich termicznego przekształcenia, nie zapoznaje się z opisem odpadów lub nie pobiera, lub nie przechowuje próbek tych odpadów, zgodnie z art. 160 ust. 3 podlega karze aresztu albo grzywny.
 
 **Art. 193.** Orzekanie w sprawach, o których mowa w art. 171–192 następuje na zasadach i w trybie określonych w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
 
@@ -3679,7 +3778,14 @@ source: "isap-pdf"
 
 **Art. 197.** Wojewódzki inspektor ochrony środowiska stwierdza naruszenie w szczególności na podstawie:
 
+- **1)** kontroli, w tym dokonanych w ich trakcie pomiarów lub za pomocą innych środków;
+- **2)** pomiarów i badań prowadzonych przez podmiot obowiązany do takich pomiarów i badań;
+- **3)** zawiadomienia dokonanego odpowiednio przez marszałka województwa, regionalnego dyrektora ochrony środowiska lub ministra właściwego do spraw klimatu.
+
 **Art. 198.** W decyzji wymierzającej administracyjną karę pieniężną określa się w szczególności:
+
+- **1)** rodzaj naruszenia i dzień stwierdzenia naruszenia;
+- **2)** wysokość administracyjnej kary pieniężnej.
 
 **Art. 199.** Przy ustalaniu wysokości administracyjnej kary pieniężnej wojewódzki inspektor ochrony środowiska uwzględnia rodzaj naruszenia i jego wpływ na życie i zdrowie ludzi oraz środowisko, okres trwania naruszenia i rozmiary prowadzonej działalności oraz bierze pod uwagę skutki tych naruszeń i wielkość zagrożenia.
 
@@ -3697,7 +3803,9 @@ source: "isap-pdf"
 
 #### Rozdział 1 Zmiany w przepisach obowiązujących
 
-**Art. 203.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 27 kwietnia 2001 r. o odpadach – należy przez to rozumieć ustawę z dnia 14 grudnia 2012 r. o odpadach. Art. 204–221. (pominięte)
+**Art. 203.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 27 kwietnia 2001 r. o odpadach – należy przez to rozumieć ustawę z dnia 14 grudnia 2012 r. o odpadach.
+
+**Art. 204–221.** (pominięte)
 
 #### Rozdział 2 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 
@@ -3713,7 +3821,7 @@ source: "isap-pdf"
 
 **Art. 226a.**
 
-11¹. W okresie do dnia 31 grudnia 2026 r. zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów nie wygasa ze względu na upływ czasu, na jaki zostało wydane, jeżeli posiadacz odpadów w terminie nie później niż trzy miesiące przed upływem tego czasu złoży wniosek o wydanie nowego zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów.
+1. W okresie do dnia 31 grudnia 2026 r. zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów nie wygasa ze względu na upływ czasu, na jaki zostało wydane, jeżeli posiadacz odpadów w terminie nie później niż trzy miesiące przed upływem tego czasu złoży wniosek o wydanie nowego zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów.
 
 2. Dotychczasowe zezwolenie na zbieranie odpadów zezwolenie na przetwarzanie odpadów wygasa w dniu następującym po dniu, w którym:
 
@@ -3881,13 +3989,21 @@ source: "isap-pdf"
 - **3)** sprawozdań – na podstawie art. 24 ust. 1, art. 31 ust. 1, art. 40, art. 51 ust. 1, art. 56 ust. 1 i art. 67 ust. 1 oraz wykazu zakładów przetwarzania, o którym mowa w art. 33 ust. 4 ustawy z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym,
 - **4)** sprawozdań – na podstawie art. 34 ust. 2, art. 35 ust. 1, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach – sporządzają i składają je, za rok 2015 i za rok 2016, stosując przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych, sprawozdań lub wykazu zakładów przetwarzania lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym podlega karze grzywny, o której mowa w art. 180a.
 
-2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe. Art. 237aa. 1. Podmioty, o których mowa w art. 73 i art. 75, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania:
+2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe.
+
+**Art. 237aa.**
+
+1. Podmioty, o których mowa w art. 73 i art. 75, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania:
 
 - **1)** zbiorczych zestawień danych o rodzajach i ilości odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urządzeniach służących do odzysku i unieszkodliwiania tych odpadów – na podstawie art. 37 ust. 1 i 2 ustawy, o której mowa w art. 252,
 - **2)** sprawozdań – na podstawie art. 15 ust. 1, art. 30 ust. 1 i art. 38 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji,
 - **3)** sprawozdań – na podstawie art. 34 ust. 2, art. 35 ust. 1, art. 36 ust. 4, art. 37 ust. 6, art. 41 ust. 3, art. 59 ust. 3 i art. 64 ust. 5 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach – sporządzają i składają je, za rok 2017 i za rok 2018, stosując przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
 
-2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe. Art. 237ab. 1. Podmioty, o których mowa w art. 73 ust. 1 pkt 3, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania sprawozdań na podstawie art. 4 ust. 5, art. 10 ust. 1 i 2 oraz art. 15 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej – w zakresie dotyczącym produktów, o których mowa w załączniku nr 4a do tej ustawy, sporządzają i składają je, za rok 2017 i za rok 2018, stosując odpowiednio przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
+2. Do złożonych zbiorczych zestawień danych i sprawozdań, o których mowa w ust. 1, stosuje się przepisy dotychczasowe.
+
+**Art. 237ab.**
+
+1. Podmioty, o których mowa w art. 73 ust. 1 pkt 3, obowiązane przed dniem wejścia w życie niniejszej ustawy do sporządzania i składania sprawozdań na podstawie art. 4 ust. 5, art. 10 ust. 1 i 2 oraz art. 15 ust. 1 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej – w zakresie dotyczącym produktów, o których mowa w załączniku nr 4a do tej ustawy, sporządzają i składają je, za rok 2017 i za rok 2018, stosując odpowiednio przepisy dotychczasowe, z tym że ten, kto wbrew obowiązkowi, nie sporządza i nie przekazuje tych zbiorczych zestawień danych lub sprawozdań lub wykonuje ten obowiązek nieterminowo lub niezgodnie ze stanem rzeczywistym, podlega karze grzywny, o której mowa w art. 180a.
 
 2. Do złożonych sprawozdań, o których mowa w ust. 1, stosuje się odpowiednio przepisy dotychczasowe.
 
@@ -3957,7 +4073,11 @@ source: "isap-pdf"
 
 1. Podmioty, o których mowa w art. 73 i art. 75, obowiązane na podstawie tych przepisów do sporządzania sprawozdań w zakresie sprzętu elektrycznego i elektronicznego oraz zużytego sprzętu, sporządzają je za rok 2018 zgodnie z art. 73, art. 74 i art. 75 i składają je do Głównego Inspektora Ochrony Środowiska w terminie do dnia 15 marca 2019 r.
 
-2. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzory formularzy sprawozdań, o których mowa w ust. 1, za rok 2018, mając na uwadze potrzebę ujednolicenia zakresu danych przekazywanych przez przedsiębiorców oraz ułatwienia przekazywania danych do Głównego Inspektora Ochrony Środowiska. Art. 237ea. 1. Podmioty obowiązane do sporządzenia za rok 2019 sprawozdań, o których mowa w art. 73 i art. 74a, składają je w terminie do dnia 11 września 2020 r.
+2. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzory formularzy sprawozdań, o których mowa w ust. 1, za rok 2018, mając na uwadze potrzebę ujednolicenia zakresu danych przekazywanych przez przedsiębiorców oraz ułatwienia przekazywania danych do Głównego Inspektora Ochrony Środowiska.
+
+**Art. 237ea.**
+
+1. Podmioty obowiązane do sporządzenia za rok 2019 sprawozdań, o których mowa w art. 73 i art. 74a, składają je w terminie do dnia 11 września 2020 r.
 
 2. Podmioty obowiązane do sporządzenia za rok 2019 sprawozdań, o których mowa w art. 75, składają je w terminie do dnia 31 października 2020 r., z wyjątkiem podmiotów, o których mowa w art. 75 ust. 2 pkt 4 i 5, które składają je w terminie do dnia 11 września 2020 r.
 
@@ -4019,6 +4139,9 @@ source: "isap-pdf"
 
 **Art. 243a.** Dopuszcza się aby gminnym składowiskiem odpadów zarządzała jednostka sektora finansów publicznych, jeżeli dla tego składowiska odpadów:
 
+- **1)** wydano decyzję o zgodzie na zamknięcie składowiska odpadów na podstawie art. 54 ust. 1 ustawy, o której mowa w art. 252, lub decyzję o zamknięciu składowiska odpadów na podstawie art. 54c ust. 1 ustawy, o której mowa w art. 252, lub
+- **2)** w terminie do dnia 31 grudnia 2015 r. wydano decyzję o wyrażeniu zgody na zamknięcie składowiska odpadów na podstawie art. 146 lub art. 148 ust. 3.
+
 **Art. 244.** Zarządzający składowiskiem odpadów tworzy fundusz rekultywacyjny, o którym mowa w art. 137 ust. 2, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 244a.**
@@ -4039,7 +4162,14 @@ source: "isap-pdf"
 
 **Art. 247.** Do wpływów z kar pieniężnych wymierzanych na podstawie:
 
+- **1)** art. 80 ust. 1 ustawy, o której mowa w art. 214 , stosuje się art. 402 ust. 8 ustawy, o której mowa w art. 207 , w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy;
+- **2)** art. 79b ustawy, o której mowa w art. 252, stosuje się art. 402 ust. 12 ustawy, o której mowa w art. 207 , w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy;
+- **3)** art. 79c ustawy, o której mowa w art. 252, stosuje się art. 402 ust. 12 i 14 ustawy, o której mowa w art. 207 , w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+
 **Art. 248.** Przekazane na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej wpływy z kar pieniężnych wymierzanych na podstawie:
+
+- **1)** art. 80 ust. 1 ustawy, o której mowa w art. 214 ,
+- **2)** art. 79b i art. 79c ustawy, o której mowa w art. 252 – stanowią przychody tego Funduszu i są uwzględniane przy ustalaniu wysokości zobowiązania określonego w art. 401c ust. 9 ustawy, o której mowa w art. 207 .
 
 **Art. 249.** Starostowie przekażą akta prowadzonych przez siebie wszczętych i niezakończonych spraw administracyjnych, w których odpowiednio właściwym organem stał się marszałek województwa albo regionalny dyrektor ochrony środowiska, tym organom w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, na podstawie protokołów zdawczo-odbiorczych.
 
@@ -4160,6 +4290,83 @@ source: "isap-pdf"
 **Art. 252.** Traci moc ustawa z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2010 r. poz. 1243, z późn. zm. ).
 
 **Art. 253.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem przepisów:
+
+- **1)** art. 207 pkt 17 w zakresie art. 402 ust. 2a i 2b w brzmieniu nadanym niniejszą ustawą oraz art. 209 pkt 7, które wchodzą w życie z dniem 1 stycznia 2014 r.;
+- **2)** art. 178, art. 179, art. 194 ust. 1 pkt 5, art. 213 pkt 8, które wchodzą w życie po upływie 36 miesięcy od dnia wejścia w życie ustawy, z tym że wymienione przepisy stosuje się od daty utworzenia BDO ogłoszonej w komunikacie, o którym mowa w art. 238 ust. 2;
+- **3)** art. 207 pkt 18, który wchodzi w życie z dniem 1 stycznia 2016 r.
+
+## Załączniki do ustawy z dnia 14 grudnia 2012 r.
+
+(Dz. U. z 2023 r. poz. 1587) Załącznik nr NIEWYCZERPUJĄCY WYKAZ PROCESÓW ODZYSKU R1 Wykorzystanie głównie jako paliwa lub innego środka wytwarzania energii(*) R2 Odzysk/regeneracja rozpuszczalników R3 Recykling lub odzysk substancji organicznych, które nie są stosowane jako rozpuszczalniki (w tym kompostowanie i inne biologiczne procesy przekształcania)(**) R4 Recykling lub odzysk metali i związków metali(***) R5 Recykling lub odzysk innych materiałów nieorganicznych(****) R6 Regeneracja kwasów lub zasad R7 Odzysk składników stosowanych do redukcji zanieczyszczeń R8 Odzysk składników z katalizatorów R9 Powtórna rafinacja lub inne sposoby ponownego użycia olejów R10 Obróbka na powierzchni ziemi przynosząca korzyści dla rolnictwa lub poprawę stanu środowiska R11 Wykorzystywanie odpadów uzyskanych w wyniku któregokolwiek z procesów wymienionych w pozycji R1–R10 R12 Wymiana odpadów w celu poddania ich któremukolwiek z procesów wymienionych w pozycji R1–R11(*****) R13 Magazynowanie odpadów poprzedzające którykolwiek z procesów wymienionych w pozycji R1–R12 (z wyjątkiem wstępnego magazynowania u wytwórcy odpadów) Załącznik nr NIEWYCZERPUJĄCY WYKAZ PROCESÓW UNIESZKODLIWIANIA D1 Składowanie w gruncie lub na powierzchni ziemi (np. składowiska itp.) D2 Przetwarzanie w glebie i ziemi (np. biodegradacja odpadów płynnych lub szlamów w glebie i ziemi itd.) D3 Głębokie zatłaczanie (np. zatłaczanie odpadów w postaci umożliwiającej pompowanie do odwiertów, wysadów solnych lub naturalnie powstających komór itd.) D4 Retencja powierzchniowa (np. umieszczanie odpadów ciekłych i szlamów w dołach, poletkach osadowych lub lagunach itd.) D5 Składowanie na składowiskach w sposób celowo zaprojektowany (np. umieszczanie w uszczelnionych oddzielnych komorach, przykrytych i izolowanych od siebie wzajemnie i od środowiska itd.) D6 Odprowadzanie do wód z wyjątkiem mórz i oceanów D7 Odprowadzanie do mórz i oceanów, w tym lokowanie na dnie mórz D8 Obróbka biologiczna, niewymieniona w innej pozycji niniejszego załącznika, w wyniku której powstają ostateczne związki lub mieszanki, które są unieszkodliwiane za pomocą któregokolwiek spośród procesów wymienionych w poz. D1–D12 D9 Obróbka fizyczno-chemiczna, niewymieniona w innej pozycji niniejszego załącznika, w wyniku której powstają ostateczne związki lub mieszaniny unieszkodliwiane za pomocą któregokolwiek spośród procesów wymienionych w pozycjach D1–D12 (np. odparowanie, suszenie, kalcynacja itp.) D10 Przekształcanie termiczne na lądzie D11 Przekształcanie termiczne na morzu D12 Trwałe składowanie (np. umieszczanie pojemników w kopalniach itd.) D13 Sporządzanie mieszanki lub mieszanie przed poddaniem odpadów któremukolwiek z procesów wymienionych w pozycjach D1–D12 D14 Przepakowywanie przed poddaniem któremukolwiek z procesów wymienionych w pozycjach D1–D13 D15 Magazynowanie poprzedzające którykolwiek z procesów wymienionych w pozycjach D1–D14 (z wyjątkiem wstępnego magazynowania u wytwórcy odpadów) _____________________ Załącznik nr 2a NIEWYCZERPUJĄCY WYKAZ KATEGORII ODPADÓW NIEPALNYCH
+1) odpady obojętne określone w przepisach wydanych na podstawie art. 118;
+2) odpady spełniające kryteria dopuszczenia odpadów do składowania na składowisku odpadów obojętnych, określone w przepisach wydanych na podstawie art. 118;
+3) odpady budowlane i rozbiórkowe, z wyłączeniem odpadów drewna, odpadów tworzyw sztucznych, odpadów papieru i odpadów oklein;
+4) szkło;
+5) odpady zeszklone i z procesów zeszkliwiania;
+6) minerały (np. piasek i kamienie, kruszywo);
+7) gleba i ziemia, w tym urobek z pogłębiania;
+8) odpady metali;
+9) odpady fosfogipsów;
+10) odpady gipsów;
+11) żużle, popioły paleniskowe, pyły z kotłów, popioły lotne, w tym piaski ze złóż fluidalnych, mieszanki popiołowo-żużlowe;
+12) rdzenie i formy odlewnicze;
+13) odpady materiałów ceramicznych;
+14) odpady powstałe z materiałów ogniotrwałych;
+15) odpady spoiw mineralnych, w tym cementu, wapna i tynku;
+16) odpadowy siarczan żelazowy;
+17) osady z dekarbonizacji wody;
+18) odpady z fizykochemicznej obróbki kamienia wapiennego – z przesiewu i przepału kamienia wapiennego.
+Załącznik nr Załącznik nr SKŁADNIKI, KTÓRE MOGĄ POWODOWAĆ, ŻE ODPADY SĄ ODPADAMI NIEBEZPIECZNYMI
+1) beryl, związki berylu,
+2) związki wanadu,
+3) związki chromu (VI),
+4) związki kobaltu,
+5) związki niklu,
+6) związki miedzi,
+7) związki cynku,
+8) arsen, związki arsenu,
+9) selen, związki selenu,
+10) związki srebra,
+11) kadm, związki kadmu,
+12) związki cyny,
+13) antymon, związki antymonu,
+14) tellur, związki telluru,
+15) związki baru z wyjątkiem siarczanu baru,
+16) rtęć, związki rtęci,
+17) tal, związki talu,
+18) ołów, związki ołowiu,
+19) siarczki nieorganiczne,
+20) nieorganiczne związki fluoru, z wyjątkiem fluorku wapnia,
+21) cyjanki nieorganiczne,
+22) następujące metale alkaliczne lub metale ziem alkalicznych: lit, sód, potas, wapń, magnez w postaci niezwiązanej,
+23) kwaśne roztwory lub kwasy w postaci stałej,
+24) roztwory zasadowe i zasady w postaci stałej,
+25) azbest (pył i włókna),
+26) fosfor, związki fosforu, z wyjątkiem fosforanów mineralnych,
+27) karbonylki metali,
+28) nadtlenki,
+29) chlorany,
+30) nadchlorany,
+31) azydki,
+32) farmaceutyki oraz związki stosowane w medycynie lub w weterynarii,
+33) biocydy i substancje fitofarmaceutyczne,
+34) substancje zakaźne,
+35) kreozoty,
+36) izocyjaniany, tiocyjaniany,
+37) cyjanki organiczne (np. nitryle),
+38) fenole, związki fenolowe,
+39) halogenowane rozpuszczalniki,
+40) rozpuszczalniki organiczne, z wyjątkiem rozpuszczalników halogenowanych,
+41) związki halogenoorganiczne, z wyjątkiem obojętnych materiałów spolimeryzowanych i innych substancji, o których mowa w niniejszym załączniku,
+42) aromatyczne, policykliczne i heterocykliczne związki organiczne,
+43) aminy alifatyczne,
+44) aminy aromatyczne,
+45) etery,
+46) substancje o właściwościach wybuchowych, z wyjątkiem substancji wyszczególnionych w innych punktach niniejszego załącznika,
+47) organiczne związki siarki,
+48) jakiekolwiek pochodne polichlorowanego dibenzofuranu,
+49) jakiekolwiek pochodne polichlorowanej dibenzo-p-dioksyny,
+50) węglowodory i ich związki z tlenem, azotem lub siarką nieuwzględnione w inny sposób w niniejszym załączniku.
 
 ## Załącznik nr 4 — a PRZYKŁADOWE INSTRUMENTY EKONOMICZNE I INNE ŚRODKI, KTÓRE MAJĄ ZACHĘCAĆ DO STOSOWANIA HIERARCHII SPOSOBÓW POSTĘPOWANIA Z ODPADAMI
 

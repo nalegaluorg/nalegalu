@@ -8,10 +8,10 @@ pos: 666
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o bateriach i akumulatorach
+# Ustawa z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach
 
 *USTAWA z dnia 24 kwietnia 2009 r.*
 
@@ -24,18 +24,30 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-04-24 |
 | Data wydania | 2009-05-28 |
+| Wejście w życie | 2009-06-12 |
 | Ostatnia zmiana | 2025-07-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090790666) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/666/text.pdf) |
-
-Art. 104–114. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
 
+- **1)** wymagania dotyczące wprowadzanych do obrotu baterii i akumulatorów;
+- **2)** zasady wprowadzania do obrotu baterii i akumulatorów;
+- **3)** zasady zbierania, przetwarzania, recyklingu i unieszkodliwiania zużytych baterii i zużytych akumulatorów.
+
 **Art. 2.** Ustawa ma na celu:
 
+- **1)** ograniczenie negatywnego wpływu baterii i akumulatorów oraz zużytych baterii i zużytych akumulatorów na środowisko przez redukcję ilości substancji niebezpiecznych w bateriach i akumulatorach oraz właściwe zbieranie i recykling powstających z nich odpadów, w tym przez wspieranie wysokiego poziomu zbierania zużytych baterii przenośnych i zużytych akumulatorów przenośnych;
+- **2)** zharmonizowanie wymogów dotyczących zawartości metali ciężkich w bateriach i akumulatorach oraz wymogów dotyczących ich oznakowania;
+- **3)** zapewnienie sprawnego funkcjonowania rynku wewnętrznego i uniknięcia zniekształcenia konkurencji w obrębie Unii Europejskiej.
+
 **Art. 3.** Ustawa reguluje prawa i obowiązki podmiotów:
+
+- **1)** wprowadzających do obrotu baterie lub akumulatory;
+- **2)** dystrybuujących baterie lub akumulatory lub sprzęt;
+- **3)** zbierających, przetwarzających, dokonujących recyklingu lub unieszkodliwiania zużytych baterii lub zużytych akumulatorów;
+- **4)** użytkujących baterie lub akumulatory.
 
 **Art. 4.**
 
@@ -73,6 +85,51 @@ Art. 104–114. (pominięte)
 **Art. 5.** W sprawach dotyczących zużytych baterii i zużytych akumulatorów w zakresie nieuregulowanym w ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach.
 
 **Art. 6.** Użyte w ustawie określenia oznaczają:
+
+- **1)** bateria, akumulator – źródło energii elektrycznej wytwarzanej przez bezpośrednie przetwarzanie energii chemicznej, które składa się z jednego albo kilku:
+    - **a)** pierwotnych ogniw baterii nienadających się do powtórnego naładowania albo
+    - **b)** wtórnych ogniw baterii nadających się do powtórnego naładowania;
+
+- **2)** bateria przemysłowa, akumulator przemysłowy – baterię i akumulator, które są przeznaczone wyłącznie do celów przemysłowych, zawodowych lub do używania w pojazdach elektrycznych, w szczególności określone w załączniku nr 1 do ustawy;
+- **3)** bateria przenośna, akumulator przenośny – baterię i akumulator, w tym ogniwo guzikowe lub zestaw, które są szczelnie zamknięte i mogą być przenoszone w ręku oraz nie stanowią baterii przemysłowej i akumulatora przemysłowego albo baterii samochodowej i akumulatora samochodowego, w szczególności określone w załączniku nr 2 do ustawy;
+- **4)** bateria samochodowa, akumulator samochodowy – baterię i akumulator, które są używane do rozruszników, oświetlenia lub inicjowania zapłonu w pojazdach;
+- **5)** decyzje związane z gospodarką odpadami – decyzje, o których mowa w art. 41 ustawy z dnia 14 grudnia 2012 r. o odpadach oraz w art. 181 ust. 1 pkt 1 i 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647);
+- **5a)** eksport – wywóz baterii lub akumulatorów z terytorium kraju na terytorium państwa niebędącego państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym w celu wyprowadzenia z terytorium kraju;
+- **6)** elektronarzędzie bezprzewodowe – podręczny sprzęt zasilany baterią lub akumulatorem, który jest przeznaczony do wykorzystania w działalności serwisowej, budowlanej lub ogrodniczej, w tym narzędzia przeznaczone do toczenia, frezowania, szlifowania, rozdrabniania, piłowania, ścinania, wiercenia, przebijania otworów, wykrawania, kucia, nitowania, skręcania, polerowania lub podobnej obróbki drewna, metalu i innych materiałów, a także do koszenia, cięcia i innych prac;
+- **7)** import – przywóz baterii lub akumulatorów z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym w celu wprowadzenia do obrotu na terytorium kraju;
+- **8)** marszałek województwa – odpowiednio:
+    - **a)** w przypadku wprowadzającego baterie lub akumulatory – marszałka województwa właściwego ze względu na siedzibę lub miejsce zamieszkania wprowadzającego baterie lub akumulatory, a w przypadku braku siedziby lub miejsca zamieszkania na terytorium kraju – Marszałka Województwa Mazowieckiego,
+    - **b)** w przypadku zbierającego zużyte baterie lub zużyte akumulatory, prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów lub prowadzącego recykling zużytych baterii lub zużytych akumulatorów – marszałka województwa właściwego ze względu na miejsce prowadzenia działalności w zakresie zbierania, przetwarzania lub recyklingu zużytych baterii lub zużytych akumulatorów;
+
+- **9)** miejsce odbioru – wyznaczoną część obiektu budowlanego, którym włada podmiot, którego podstawowa działalność nie polega na gospodarowaniu odpadami, w tym szkoły, placówki oświatowej lub kulturalno-oświatowej, siedziby urzędu lub instytucji, punkt świadczący usługi w zakresie wymiany zużytych baterii lub zużytych akumulatorów lub placówkę handlową prowadzoną przez sprzedawcę detalicznego lub sprzedawcę hurtowego, do których użytkownik końcowy może oddać zużyte baterie przenośne i zużyte akumulatory przenośne;
+- **10)** ogniwo guzikowe – małą baterię przenośną i akumulator przenośny o średnicy większej niż wysokość, które są wykorzystywane do specjalnych celów, w szczególności do zasilania aparatów słuchowych, zegarków, małych urządzeń przenośnych lub urządzeń do zasilania rezerwowego;
+- **10a)** podmiot pośredniczący – podmiot, za pośrednictwem którego wprowadzający baterie lub akumulatory wykonuje obowiązki w zakresie i na zasadach określonych w ustawie;
+- **11)** poziom zbierania – wyrażony w procentach stosunek masy zużytych baterii przenośnych i zużytych akumulatorów przenośnych zebranych zgodnie z ustawą w danym roku kalendarzowym do średniej masy baterii przenośnych i akumulatorów przenośnych wprowadzonych do obrotu przez wprowadzającego baterie lub akumulatory w danym roku kalendarzowym oraz w dwóch latach poprzednich;
+- **12)** przedsiębiorca – przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222, 621 i 622);
+- **13)** przetwarzanie – czynności podejmowane po dostarczeniu zużytych baterii lub zużytych akumulatorów prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów w celu ich sortowania, przygotowania do recyklingu lub unieszkodliwiania;
+- **14)** sprzedawca detaliczny – przedsiębiorcę, który w ramach wykonywanej działalności gospodarczej udostępnia odpłatnie lub nieodpłatnie baterie lub akumulatory w celu używania przez użytkowników końcowych, w tym także jako przynależność albo część składową urządzenia lub dodatek do innych produktów;
+- **15)** sprzedawca hurtowy – przedsiębiorcę, który w ramach wykonywanej działalności gospodarczej udostępnia odpłatnie lub nieodpłatnie baterie lub akumulatory w celu ich dalszego odpłatnego lub nieodpłatnego udostępniania, w tym także jako przynależność albo część składową urządzenia lub dodatek do innych produktów;
+- **16)** sprzęt – sprzęt w rozumieniu art. 4 pkt 13 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2024 r. poz. 573), który jest w całości albo w części zasilany bateriami lub akumulatorami lub jest przystosowany do tego rodzaju zasilania;
+- **17)** terytorium kraju – terytorium Rzeczypospolitej Polskiej;
+- **18)** urząd marszałkowski – odpowiednio:
+    - **a)** w przypadku wprowadzającego baterie lub akumulatory – urząd marszałkowski właściwy ze względu na siedzibę lub miejsce zamieszkania wprowadzającego baterie lub akumulatory, a w przypadku braku siedziby lub miejsca zamieszkania na terytorium kraju – Urząd Marszałkowski Województwa Mazowieckiego,
+    - **b)** w przypadku zbierającego zużyte baterie lub zużyte akumulatory lub prowadzącego zakład przetwarzania zużytych baterii lub zużytych akumulatorów – urząd marszałkowski właściwy ze względu na miejsce prowadzenia działalności w zakresie zbierania lub przetwarzania zużytych baterii lub zużytych akumulatorów;
+
+- **19)** użytkownik końcowy – podmiot wykorzystujący energię elektryczną z baterii lub akumulatorów;
+- **20)** wewnątrzwspólnotowa dostawa – wywóz baterii lub akumulatorów z terytorium kraju na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **21)** wewnątrzwspólnotowe nabycie – przywóz baterii lub akumulatorów z terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym w celu wprowadzenia do obrotu na terytorium kraju;
+- **22)** wprowadzający baterie lub akumulatory – przedsiębiorcę, który wykonuje działalność gospodarczą w zakresie wprowadzania do obrotu baterii lub akumulatorów, w tym zamontowanych w sprzęcie lub pojazdach, po raz pierwszy na terytorium kraju; za wprowadzającego baterie lub akumulatory uważa się także przedsiębiorcę:
+    - **a)** dokonującego importu lub wewnątrzwspólnotowego nabycia baterii lub akumulatorów na potrzeby wykonywanej działalności gospodarczej,
+    - **b)** który zlecił wytworzenie baterii lub akumulatorów i którego oznaczenie zostało umieszczone na bateriach lub akumulatorach;
+
+- **23)** wprowadzanie do obrotu – odpłatne albo nieodpłatne udostępnienie na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym w celu używania lub dystrybucji;
+- **24)** zbierający zużyte baterie lub zużyte akumulatory:
+    - **a)** podmiot prowadzący punkt zbierania odpadów, posiadający zezwolenie na prowadzenie działalności w zakresie zbierania odpadów w postaci zużytych baterii lub zużytych akumulatorów,
+    - **b)** gminną jednostkę organizacyjną prowadzącą działalność w zakresie odbierania odpadów komunalnych,
+    - **c)** przedsiębiorcę wpisanego do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości;
+
+- **25)** zestaw – zespół baterii lub akumulatorów połączonych ze sobą lub otoczonych zewnętrzną osłoną w taki sposób, że nie jest przeznaczony do dzielenia na części ani otwierania przez użytkownika końcowego;
+- **26)** zużyte baterie, zużyte akumulatory – baterie i akumulatory będące odpadami w rozumieniu art. 3 ust. 1 pkt 6 ustawy z dnia 14 grudnia 2012 r. o odpadach.
 
 **Art. 7.**
 
@@ -214,7 +271,9 @@ Art. 104–114. (pominięte)
 
 1. Przedsiębiorca przed rozpoczęciem działalności w zakresie wprowadzania do obrotu baterii lub akumulatorów na terytorium kraju lub przetwarzania zużytych baterii lub zużytych akumulatorów, przed dokonaniem pierwszego wprowadzenia do obrotu baterii lub akumulatorów na terytorium kraju lub pierwszego przetwarzania zużytych baterii lub zużytych akumulatorów, jest obowiązany do uzyskania wpisu do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
 
-2. Podmiot pośredniczący przed rozpoczęciem działalności jest obowiązany do uzyskania wpisu do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach. Art. 19–26. (uchylone)
+2. Podmiot pośredniczący przed rozpoczęciem działalności jest obowiązany do uzyskania wpisu do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+
+**Art. 19–26.** (uchylone)
 
 #### Rozdział 5 Obowiązki wprowadzających baterie lub akumulatory
 
@@ -412,9 +471,18 @@ Art. 104–114. (pominięte)
 
 **Art. 48.** Sprzedawca detaliczny baterii przenośnych lub akumulatorów przenośnych, którego powierzchnia sprzedaży w rozumieniu art. 2 pkt 19 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527 i 680) przekracza 25 m , jest obowiązany do:
 
+- **1)** przyjęcia selektywnie zebranych zużytych baterii przenośnych i zużytych akumulatorów przenośnych od użytkownika końcowego przez udostępnienie pojemnika na zużyte baterie przenośne i zużyte akumulatory przenośne, bez możliwości żądania od niego zapłaty za ich przyjęcie;
+- **2)** przekazania zużytych baterii i zużytych akumulatorów, o których mowa w pkt 1, sprzedawcy hurtowemu lub zbierającemu zużyte baterie lub zużyte akumulatory.
+
 **Art. 49.** Sprzedawca hurtowy baterii przenośnych lub akumulatorów przenośnych jest obowiązany do:
 
+- **1)** przyjęcia zużytych baterii przenośnych i zużytych akumulatorów przenośnych od użytkownika końcowego oraz od sprzedawcy detalicznego, któremu przekazał baterie przenośne lub akumulatory przenośne, bez możliwości żądania od niego zapłaty za ich przyjęcie;
+- **2)** przekazania zużytych baterii i zużytych akumulatorów, o których mowa w pkt 1, zbierającemu zużyte baterie lub zużyte akumulatory.
+
 **Art. 50.** Przedsiębiorca świadczący usługi w zakresie wymiany zużytych baterii lub zużytych akumulatorów jest obowiązany do:
+
+- **1)** przyjęcia selektywnie zebranych zużytych baterii przenośnych i zużytych akumulatorów przenośnych od użytkownika końcowego, bez możliwości żądania od niego zapłaty za ich przyjęcie;
+- **2)** przekazania zużytych baterii i zużytych akumulatorów, o których mowa w pkt 1, zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów.
 
 **Art. 51.**
 
@@ -426,6 +494,11 @@ Art. 104–114. (pominięte)
 - **2)** nieodpłatnego dostarczenia pojemników do gromadzenia zużytych baterii przenośnych i zużytych akumulatorów przenośnych.
 
 **Art. 52.** Prowadzący miejsce odbioru jest zwolniony z obowiązku:
+
+- **1)** uzyskania zezwolenia na zbieranie odpadów, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach;
+- **2)** uzyskania wpisu do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach;
+- **3)** zgłoszenia zmiany sposobu użytkowania obiektu budowlanego lub jego części, o którym mowa w art. 71 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418), w związku ze zbieraniem zużytych baterii lub zużytych akumulatorów;
+- **4)** prowadzenia ewidencji odpadów, o której mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
 
 #### Rozdział 9 Opłata depozytowa oraz obowiązki sprzedawców detalicznych baterii kwasowo-ołowiowych lub akumulatorów kwasowo-ołowiowych
 
@@ -719,6 +792,10 @@ Art. 104–114. (pominięte)
 
 **Art. 81.** Kto, wbrew przepisom art. 31:
 
+- **1)** nie odbiera od użytkownika końcowego zużytych baterii samochodowych, zużytych akumulatorów samochodowych, zużytych baterii przemysłowych lub zużytych akumulatorów przemysłowych,
+- **2)** nie odbiera na własny koszt od użytkownika końcowego, sprzedawcy detalicznego oraz sprzedawcy hurtowego zużytych baterii samochodowych kwasowo-ołowiowych, zużytych akumulatorów samochodowych kwasowo-ołowiowych, zużytych baterii przemysłowych kwasowo-ołowiowych lub zużytych akumulatorów przemysłowych kwasowo-ołowiowych lub nie przekazuje ich do przetwarzania i recyklingu,
+- **3)** nie dołącza do baterii samochodowych kwasowo-ołowiowych, akumulatorów samochodowych kwasowo-ołowiowych, baterii przemysłowych kwasowo-ołowiowych lub akumulatorów przemysłowych kwasowo-ołowiowych informacji o warunkach i trybie ich zwrotu oraz o zorganizowanych dla nich punktach zbierania – podlega karze grzywny.
+
 **Art. 82.** (uchylony)
 
 **Art. 83.** Kto, wbrew przepisom art. 34, nie prowadzi lub nie przechowuje ewidencji obejmującej informacje o rodzaju i masie wprowadzonych do obrotu baterii i akumulatorów, lub prowadzi ewidencję nierzetelnie, podlega karze grzywny.
@@ -729,17 +806,38 @@ Art. 104–114. (pominięte)
 
 **Art. 86.** Kto, wbrew przepisom art. 48:
 
+- **1)** nie przyjmuje selektywnie zebranych zużytych baterii przenośnych lub zużytych akumulatorów przenośnych od użytkownika końcowego lub żąda od niego zapłaty za ich przyjęcie,
+- **2)** nie przekazuje zużytych baterii lub zużytych akumulatorów, o których mowa w pkt 1, sprzedawcy hurtowemu lub zbierającemu zużyte baterie lub zużyte akumulatory – podlega karze grzywny.
+
 **Art. 87.** Kto, wbrew przepisom art. 49:
+
+- **1)** nie przyjmuje zużytych baterii przenośnych lub zużytych akumulatorów przenośnych od użytkownika końcowego oraz od sprzedawcy detalicznego, któremu przekazał baterie przenośne lub akumulatory przenośne, lub żąda zapłaty za ich przyjęcie,
+- **2)** nie przekazuje zużytych baterii lub zużytych akumulatorów, o których mowa w pkt 1, zbierającemu zużyte baterie lub zużyte akumulatory – podlega karze grzywny.
 
 **Art. 88.** Kto, wbrew przepisom art. 50:
 
+- **1)** nie przyjmuje selektywnie zebranych zużytych baterii przenośnych lub zużytych akumulatorów przenośnych od użytkownika końcowego lub żąda od niego zapłaty za ich przyjęcie,
+- **2)** nie przekazuje zużytych baterii lub zużytych akumulatorów, o których mowa w pkt 1, zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów – podlega karze grzywny.
+
 **Art. 89.** Kto, wbrew przepisom art. 53:
 
+- **1)** nie przyjmuje zużytych baterii samochodowych kwasowo-ołowiowych lub zużytych akumulatorów samochodowych kwasowo-ołowiowych od użytkownika końcowego,
+- **2)** nie umieszcza w punkcie sprzedaży, w widocznym miejscu, informacji o:
+    - **a)** warunkach i trybie zwrotu zużytych baterii i zużytych akumulatorów, o których mowa w pkt 1, oraz możliwości zwrotu pobranej opłaty depozytowej w punkcie sprzedaży,
+    - **b)** punktach zbierania zużytych baterii i zużytych akumulatorów, o których mowa w pkt 1, zorganizowanych przez wprowadzającego baterie lub akumulatory, którego baterie lub akumulatory sprzedaje – podlega karze grzywny.
+
 **Art. 90.** Kto, wbrew przepisom art. 54:
+
+- **1)** nie pobiera od kupującego opłaty depozytowej lub nie potwierdza jej pobrania,
+- **2)** w terminie 30 dni od dnia pobrania opłaty depozytowej, nie przyjmuje zużytych baterii samochodowych kwasowo-ołowiowych, zużytych akumulatorów samochodowych kwasowo-ołowiowych lub nie zwraca pobranej opłaty depozytowej wraz z potwierdzeniem jej zwrotu,
+- **3)** w terminie 45 dni od dnia sprzedaży, nie przyjmuje od kupującego wprowadzonych przez siebie do obrotu baterii i akumulatorów lub nie zwraca pobranej opłaty depozytowej, lub nie potwierdza jej zwrotu – podlega karze grzywny.
 
 **Art. 91.** Kto, wbrew przepisowi art. 57, nie odbiera zużytych baterii przenośnych lub zużytych akumulatorów przenośnych od prowadzącego miejsce odbioru, z którym ma zawartą umowę, o której mowa w art. 51 ust. 1, podlega karze grzywny.
 
 **Art. 92.** Kto, wbrew przepisom art. 59:
+
+- **1)** nie prowadzi lub nie przechowuje ewidencji obejmującej informacje o masie zebranych zużytych baterii przenośnych i zużytych akumulatorów przenośnych, ogółem i w rozbiciu na poszczególnych wprowadzających baterie lub akumulatory, z którymi ma zawartą umowę, lub prowadzi ewidencję nierzetelnie
+- **2)** (uchylony) – podlega karze grzywny.
 
 **Art. 92a.** Kto, wbrew przepisom art. 59a, nie udostępnia zaświadczenia o zebranych zużytych bateriach przenośnych i zużytych akumulatorach przenośnych albo nie udostępnia zaświadczenia w terminie lub udostępnia zaświadczenie zawierające informacje nierzetelne, podlega karze grzywny.
 
@@ -795,6 +893,8 @@ Art. 104–114. (pominięte)
 
 #### Rozdział 14 Zmiany w przepisach obowiązujących
 
+**Art. 104–114.** (pominięte)
+
 #### Rozdział 15 Przepisy epizodyczne, przejściowe, dostosowujące i końcowe
 
 **Art. 114a.** Roczny raport o funkcjonowaniu gospodarki bateriami i akumulatorami oraz zużytymi bateriami i zużytymi akumulatorami, w tym informacje na temat osiągniętych poziomów zbierania oraz recyklingu, o którym mowa w art. 72 ust. 2, za 2019 r. Główny Inspektor Ochrony Środowiska sporządza i przedkłada ministrowi właściwemu do spraw środowiska, w terminie do dnia 30 listopada 2020 r.
@@ -842,6 +942,14 @@ Art. 104–114. (pominięte)
 2. Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, wzory zbiorczych sprawozdań, o których mowa w ust. 1, oraz sposób ich przekazywania, kierując się potrzebą ujednolicenia sprawozdań.
 
 **Art. 122.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 11 ust. 2 i 3, art. 15 ust. 1 pkt 1 i ust. 2, art. 48, art. 49, art. 77, art. 86, art. 87 i art. 99, które wchodzą w życie w terminie 3 miesięcy od dnia ogłoszenia;
+- **2)** art. 9 ust. 4, który wchodzi w życie z dniem 26 września 2009 r.;
+- **3)** art. 17–26 i art. 79, które wchodzą w życie z dniem 1 października 2009 r.;
+- **4)** art. 30, art. 32–43, art. 53–56, art. 65, art. 69, art. 72, art. 80, art. 82–85, art. 89, art. 90, art. 100, art. 104–106, art. 111 pkt 1–13 i 15–20 oraz art. 114 pkt 2, które wchodzą w życie z dniem 1 stycznia 2010 r.;
+- **5)** art. 111 pkt 14, który wchodzi w życie z dniem 1 maja 2010 r.;
+- **6)** art. 15 ust. 1 pkt 2 i 3, które wchodzą w życie z dniem 26 września 2011 r.;
+- **7)** art. 66–68, które wchodzą w życie z dniem 1 stycznia 2012 r.
 
 ## Załącznik nr 1 — BATERIE PRZEMYSŁOWE I AKUMULATORY PRZEMYSŁOWE
 

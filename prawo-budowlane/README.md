@@ -2,11 +2,10 @@
 
 Akty prawne z dziedziny: **Prawo budowlane**.
 
-Łącznie: **43** aktów
+Łącznie: **42** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
-| [WDU20260000538](WDU20260000538/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000524](WDU20260000524/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000024](WDU20260000024/index.md) | Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o planowaniu i zagospodaro | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250001847](WDU20250001847/index.md) | Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy - Prawo budowlane oraz nie | Ustawa | obowiązujący |  |
@@ -50,4 +49,4 @@ Akty prawne z dziedziny: **Prawo budowlane**.
 | [WDU19961000465](WDU19961000465/index.md) | Ustawa z dnia 5 lipca 1996 r. o zmianie ustawy - Prawo budowlane. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19940890414](WDU19940890414/index.md) | Ustawa z dnia 7 lipca 1994 r. - Prawo budowlane. | Ustawa | akt posiada tekst jednolity | [tak](WDU19940890414/orzecznictwo.md) |
 
-*43 aktów • [← Powrót do spisu głównego](../README.md)*
+*42 aktów • [← Powrót do spisu głównego](../README.md)*

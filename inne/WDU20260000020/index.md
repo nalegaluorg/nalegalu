@@ -8,10 +8,10 @@ pos: 20
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o krajowym systemie cyberbezpieczeństwa
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 grudnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o krajowym systemie cyberbezpieczeństwa
 
 *USTAWA z dnia 5 lipca 2018 r.*
 
@@ -26,8 +26,6 @@ source: "isap-pdf"
 | Data wydania | 2026-01-09 |
 | Ostatnia zmiana | 2026-03-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/20/text.pdf) |
-
-Art. 77–82. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -48,6 +46,69 @@ Art. 77–82. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** CSIRT GOV – Zespół Reagowania na Incydenty Bezpieczeństwa Komputerowego działający na poziomie krajowym, prowadzony przez Szefa Agencji Bezpieczeństwa Wewnętrznego;
+- **2)** CSIRT MON – Zespół Reagowania na Incydenty Bezpieczeństwa Komputerowego działający na poziomie krajowym, prowadzony przez Ministra Obrony Narodowej;
+- **3)** CSIRT NASK – Zespół Reagowania na Incydenty Bezpieczeństwa Komputerowego działający na poziomie krajowym, prowadzony przez Naukową i Akademicką Sieć Komputerową – Państwowy Instytut Badawczy;
+- **3a)** CSIRT sektorowy – Zespół Reagowania na Incydenty Bezpieczeństwa Komputerowego, działający na poziomie sektora lub podsektora, ustanowiony przez organ właściwy do spraw cyberbezpieczeństwa dla danego sektora lub podsektora;
+- **3b)** abonent nazwy domeny – podmiot będący stroną umowy o utrzymywanie nazwy domeny zawartej z rejestrem nazw domen najwyższego poziomu (TLD), za pośrednictwem podmiotu świadczącego usługi rejestracji nazw domen;
+- **3c)** adres do doręczeń elektronicznych – adres, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3);
+- **3d)** bezpieczeństwo systemów informacyjnych – odporność systemów informacyjnych, przy danym poziomie pewności, na zdarzenia naruszające poufność, integralność, dostępność i autentyczność przetwarzanych danych lub związanych z nimi usług oferowanych przez te systemy;
+- **4)** cyberbezpieczeństwo – cyberbezpieczeństwo w rozumieniu art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/881 z dnia 17 kwietnia 2019 r. w sprawie ENISA (Agencji Unii Europejskiej ds. Cyberbezpieczeństwa) oraz certyfikacji cyberbezpieczeństwa w zakresie technologii informacyjno-komunikacyjnych oraz uchylenia rozporządzenia (UE) nr 526/2013 (akt o cyberbezpieczeństwie) (Dz. Urz. UE L 151 z
+
+07. 06.2019, str. 15, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/881”;
+
+- **4a)** cyberzagrożenie – cyberzagrożenie w rozumieniu art. 2 pkt 8 rozporządzenia 2019/881;
+- **4b)** dostawca sieci dostarczania treści – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która dostarcza treści i usługi cyfrowe do sieci rozproszonych geograficznie serwerów służących zapewnieniu wysokiej i łatwej dostępności tych treści i usług cyfrowych lub ich szybkiego dostarczania na rzecz użytkowników Internetu w imieniu dostawców treści i usług, z wyłączeniem przedsiębiorców komunikacji elektronicznej;
+- **4c)** dostawca sprzętu lub oprogramowania – producenta, upoważnionego przedstawiciela, importera lub dystrybutora, w rozumieniu odpowiednio art. 2 pkt 3–6 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 765/2008 z dnia 9 lipca 2008 r. ustanawiającego wymagania w zakresie akredytacji i uchylającego rozporządzenie (EWG) nr 339/93 (Dz. Urz. UE L 218 z
+
+13. 08.2008, str. 30, z późn. zm. ), produktu ICT, usługi ICT lub procesu ICT;
+
+- **4d)** dostawca internetowej platformy handlowej – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która dostarcza internetową platformę handlową, o której mowa w art. 2 pkt 8 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172);
+- **4e)** dostawca chmury obliczeniowej – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która świadczy usługę umożliwiającą dostęp do skalowalnego i elastycznego zbioru zasobów obliczeniowych do wspólnego wykorzystywania przez wielu użytkowników;
+- **4f)** dostawca platformy sieci usług społecznościowych – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która świadczy usługę świadczoną drogą elektroniczną w rozumieniu przepisów ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513), która umożliwia użytkownikom końcowym łączenie się z innymi osobami oraz komunikowanie się i wymianę, udostępnianie i odkrywanie treści za pomocą wielu urządzeń;
+- **4g)** dostawca usług DNS – podmiot, który świadczy dostępne publicznie rekurencyjne usługi rozpoznawania nazw domen na rzecz ogółu użytkowników końcowych Internetu lub autorytatywne usługi rozpoznawania nazw domen do użytku ogółu użytkowników końcowych Internetu, z wyjątkiem głównych serwerów nazw;
+- **4h)** dostawca usługi centrum przetwarzania danych – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która świadczy usługę obejmującą struktury lub grupy struktur przeznaczone do scentralizowanego hostingu, zapewniania wzajemnego połączenia i eksploatacji produktów ICT, usług ICT lub procesów ICT służącego do świadczenia usług przechowywania, przetwarzania i transportu danych wraz ze wszystkimi obiektami i całą infrastrukturą, zapewniającymi dystrybucję energii elektrycznej i kontrolę środowiskową;
+- **4i)** dostawca usług zarządzanych – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która świadczy usługi związane z instalacją, eksploatacją lub konserwacją produktów ICT, usług ICT, procesów ICT lub systemów informacyjnych przez wsparcie lub aktywną administrację przeprowadzane u usługobiorcy na miejscu lub zdalnie;
+- **4j)** dostawca usług zarządzanych w zakresie cyberbezpieczeństwa – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która świadczy usługi polegające na realizacji lub wsparciu dla realizacji działań związanych z zarządzaniem ryzykiem w cyberbezpieczeństwie, w tym obsługę incydentów, testów bezpieczeństwa, audytów systemów informacyjnych, doradztwo;
+- **4k)** dostawca usług zaufania – dostawcę usług zaufania w rozumieniu art. 3 pkt 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str.
+- **73)** , zwanego dalej „rozporządzeniem 910/2014”;
+- **4l)** dostawca wyszukiwarki internetowej – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która świadczy usługę wyszukiwarki internetowej, o której mowa w art. 2 pkt 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1150 z dnia 20 czerwca 2019 r. w sprawie propagowania sprawiedliwości i przejrzystości dla użytkowników biznesowych korzystających z usług pośrednictwa internetowego (Dz. Urz. UE L 186 z 11.07.2019, str. 57);
+- **5)** incydent – zdarzenie, które ma lub może mieć niekorzystny wpływ na bezpieczeństwo systemów informacyjnych;
+- **6)** incydent krytyczny – incydent skutkujący znaczną szkodą dla bezpieczeństwa lub porządku publicznego, interesów międzynarodowych, interesów gospodarczych, działania instytucji publicznych, praw i wolności obywatelskich lub życia i zdrowia ludzi, klasyfikowany przez właściwy CSIRT MON, CSIRT NASK lub CSIRT GOV;
+- **7)** incydent poważny – incydent, który powoduje lub może spowodować poważne obniżenie jakości lub przerwanie ciągłości świadczenia usługi przez podmiot kluczowy lub podmiot ważny, straty finansowe dla tego podmiotu lub wpływa na inne osoby fizyczne, osoby prawne, jednostki organizacyjne nieposiadające osobowości prawnej przez wywołanie poważnej szkody materialnej lub niematerialnej;
+- **8)** incydent w cyberbezpieczeństwie na dużą skalę – incydent, którego skutki przekraczają możliwości reagowania państwa lub który ma poważny wpływ na inne państwo członkowskie Unii Europejskiej;
+- **8a)** kierownik podmiotu kluczowego lub podmiotu ważnego – kierownik jednostki w rozumieniu art. 3 ust. 1 pkt 6 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ) kierujący podmiotem kluczowym lub podmiotem ważnym, a w przypadku podmiotu kluczowego lub podmiotu ważnego będącego jednostką sektora finansów publicznych – kierownik jednostki sektora finansów publicznych, o którym mowa w art. 53 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846);
+- **9)** (uchylony)
+- **10)** obsługa incydentu – czynności umożliwiające wykrywanie, rejestrowanie, analizowanie, klasyfikowanie, priorytetyzację, podejmowanie działań naprawczych i ograniczenie skutków incydentu;
+- **10a)** organizacja badawcza – niebędącą podmiotem kluczowym osobę prawną, albo jednostkę organizacyjną nieposiadającą osobowości prawnej, której podstawową działalnością jest działalność, o której mowa w art. 4 ust. 2 pkt 2 lub ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), w zakresie, w jakim prowadzi ją z wykorzystaniem systemów informacyjnych;
+- **11)** podatność – właściwości produktu ICT lub usługi ICT, które mogą być wykorzystane przez cyberzagrożenie;
+- **11a)** podmiot finansowy – podmiot, o którym mowa w art. 2 ust. 1 lit. a–t rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniającego rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2022/2554”;
+- **11b)** podmiot publiczny – podmiot wskazany w załączniku nr 1 lub 2 do ustawy w sektorze podmioty publiczne;
+- **11c)** podmiot krytyczny – podmiot krytyczny w rozumieniu art. 2 pkt 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2022/2557 z dnia 14 grudnia 2022 r. w sprawie odporności podmiotów krytycznych i uchylającej dyrektywę Rady 2008/114/WE (Dz. Urz. UE L 333 z 27.12.2022, str. 164), zwanej dalej „dyrektywą 2022/2557”;
+- **11d)** podmiot świadczący usługi rejestracji nazw domen – rejestratora lub agenta działającego w imieniu rejestratorów, w tym dostawcę lub odsprzedawcę usług w zakresie prywatnej rejestracji lub pośrednictwa w rejestracji;
+- **11e)** potencjalne zdarzenie dla cyberbezpieczeństwa – zdarzenie, które mogło mieć niekorzystny wpływ na bezpieczeństwo systemów informacyjnych, które jednak nie wystąpiło lub któremu udało się zapobiec;
+- **11f)** poważne cyberzagrożenie – cyberzagrożenie, które przez swoje właściwości techniczne może mieć poważny wpływ na bezpieczeństwo systemów informacyjnych lub użytkowników tych systemów przez wywołanie poważnej szkody materialnej lub niematerialnej;
+- **11g)** projekt – przedsięwzięcie realizowane w ramach programu, o którym mowa w art. 45a ust. 1, na podstawie umowy o dofinansowanie, zawieranej między beneficjentem a podmiotem udzielającym pomocy;
+- **11h)** poważny incydent związany z ICT – poważny incydent związany z technologiami informacyjno-komunikacyjnymi w rozumieniu art. 3 pkt 10 rozporządzenia 2022/2554;
+- **11i)** przedsiębiorca komunikacji elektronicznej – przedsiębiorcę komunikacji elektronicznej w rozumieniu art. 2 pkt 39 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820);
+- **11j)** przedsiębiorca telekomunikacyjny – przedsiębiorcę telekomunikacyjnego w rozumieniu art. 2 pkt 40 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
+- **11k)** proces ICT – proces ICT w rozumieniu art. 2 pkt 14 rozporządzenia 2019/881;
+- **11l)** produkt ICT – produkt ICT w rozumieniu art. 2 pkt 12 rozporządzenia 2019/881;
+- **11m)** usługa ICT – usługę ICT w rozumieniu art. 2 pkt 13 rozporządzenia 2019/881;
+- **11n)** rejestr nazw domen najwyższego poziomu (TLD) – podmiot, któremu powierzono konkretną domenę najwyższego poziomu (TLD) i który odpowiada za zarządzanie nią, w tym za rejestrację nazw domen w ramach TLD oraz za jej techniczne funkcjonowanie, w tym za obsługę jej serwerów nazw, utrzymanie jej baz danych oraz dystrybucję plików strefowych TLD we wszystkich serwerach nazw, bez względu na to, czy którekolwiek z tych działań jest wykonywane przez sam podmiot czy zlecane na zewnątrz, ale z wyłączeniem sytuacji, w których rejestr wykorzystuje nazwy TLD wyłącznie do własnego użytku;
+- **12)** ryzyko – kombinację prawdopodobieństwa wystąpienia zdarzenia niepożądanego i jego konsekwencji;
+- **13)** szacowanie ryzyka – całościowy proces identyfikacji, analizy i oceny ryzyka;
+- **14)** system informacyjny:
+    - **a)** system teleinformatyczny, o którym mowa w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160), lub
+    - **b)** urządzenie lub grupę połączonych urządzeń i oprogramowania zaprogramowanych w celu przetwarzania danych – wraz z danymi przetwarzanymi w postaci elektronicznej;
+
+- **14a)** właściwy organ w rozumieniu rozporządzenia 2022/2554 – Komisję Nadzoru Finansowego w zakresie nadzoru przewidzianego rozporządzeniem 2022/2554;
+- **15)** (uchylony)
+- **16)** (uchylony)
+- **17)** (uchylony)
+- **18)** zarządzanie incydentem – obsługę incydentu, wyszukiwanie powiązań między incydentami, usuwanie przyczyn ich wystąpienia oraz opracowywanie wniosków wynikających z obsługi incydentu;
+- **19)** zarządzanie ryzykiem – skoordynowane działania w zakresie zarządzania cyberbezpieczeństwem w odniesieniu do oszacowanego ryzyka.
+
 **Art. 2a.** W przypadku podmiotu publicznego pod pojęciem usługi rozumie się także zadanie publiczne realizowane przez ten podmiot.
 
 **Art. 3.** Krajowy system cyberbezpieczeństwa ma na celu zapewnienie cyberbezpieczeństwa na poziomie krajowym, w tym niezakłóconego świadczenia usług przez podmioty kluczowe lub podmioty ważne, przez osiągnięcie odpowiedniego poziomu bezpieczeństwa systemów informacyjnych służących do świadczenia tych usług oraz zapewnienie obsługi incydentów.
@@ -55,6 +116,28 @@ Art. 77–82. (pominięte)
 **Art. 3a.** W ramach obsługi incydentów podmiot krajowego systemu cyberbezpieczeństwa może w szczególności podejmować działania w celu wykrywania źródła lub dokonywania analizy aktywności, w tym ruchu sieciowego, powodujących wystąpienie incydentu zakłócającego świadczenie usług przez ten podmiot.
 
 **Art. 4.** Krajowy system cyberbezpieczeństwa obejmuje:
+
+- **1)** podmioty kluczowe;
+- **2)** podmioty ważne;
+- **3)** CSIRT MON;
+- **4)** CSIRT NASK;
+- **5)** CSIRT GOV;
+- **6)** CSIRT sektorowe;
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** (uchylony)
+- **10)** (uchylony)
+- **11)** (uchylony)
+- **12)** (uchylony)
+- **13)** (uchylony)
+- **14)** (uchylony)
+- **15)** (uchylony)
+- **16)** (uchylony)
+- **17)** organy właściwe do spraw cyberbezpieczeństwa;
+- **17a)** Połączone Centrum Operacyjne Cyberbezpieczeństwa, zwane dalej „PCOC”;
+- **18)** Pojedynczy Punkt Kontaktowy do spraw cyberbezpieczeństwa, zwany dalej „Pojedynczym Punktem Kontaktowym”;
+- **19)** Pełnomocnika Rządu do Spraw Cyberbezpieczeństwa, zwanego dalej „Pełnomocnikiem”;
+- **20)** Kolegium do Spraw Cyberbezpieczeństwa, zwane dalej „Kolegium”.
 
 #### Rozdział 2 Identyfikacja i rejestracja podmiotów kluczowych lub podmiotów ważnych
 
@@ -459,6 +542,12 @@ Art. 77–82. (pominięte)
 
 **Art. 8d.** Kierownik podmiotu kluczowego lub podmiotu ważnego:
 
+- **1)** podejmuje decyzje w zakresie przygotowania, wdrażania, stosowania, przeglądu i nadzoru systemu zarządzania bezpieczeństwem informacji w podmiocie;
+- **2)** planuje adekwatne środki finansowe na realizację obowiązków z zakresu cyberbezpieczeństwa;
+- **3)** przydziela zadania z zakresu cyberbezpieczeństwa w tym podmiocie i nadzoruje ich wykonanie;
+- **4)** zapewnia, że personel podmiotu jest świadomy obowiązków z zakresu cyberbezpieczeństwa i zna wewnętrzne regulacje podmiotu w tym zakresie;
+- **5)** zapewnia zgodność działania tego podmiotu z przepisami prawa oraz z wewnętrznymi regulacjami podmiotu.
+
 **Art. 8e.**
 
 1. Kierownik podmiotu kluczowego lub podmiotu ważnego oraz osoba, której powierzono obowiązki kierownika w zakresie cyberbezpieczeństwa, raz w roku kalendarzowym przechodzi szkolenie.
@@ -480,6 +569,19 @@ Art. 77–82. (pominięte)
 11.
 
 **Art. 8g.** Podmiot kluczowy będący dostawcą usług zarządzanych w zakresie cyberbezpieczeństwa świadczącym usługę obsługi incydentów udostępnia na swojej stronie internetowej co najmniej następujące informacje na temat swojej działalności:
+
+- **1)** nazwę (firmę);
+- **2)** zakres działania, w tym:
+    - **a)** oferowany rodzaj wsparcia,
+    - **b)** zasady współpracy i wymiany informacji,
+    - **c)** politykę komunikacji;
+
+- **3)** oferowane usługi oraz politykę obsługi incydentów i koordynacji incydentów;
+- **4)** dane kontaktowe, w tym:
+    - **a)** adres ze wskazaniem strefy czasowej,
+    - **b)** numer telefonu, adres poczty elektronicznej oraz wskazanie innych dostępnych środków komunikacji elektronicznej z dostawcą,
+    - **c)** dane o wykorzystywanych kluczach publicznych i sposobach szyfrowania komunikacji z dostawcą,
+    - **d)** sposoby kontaktu z dostawcą, w tym sposób zgłaszania incydentów.
 
 **Art. 8h.**
 
@@ -633,6 +735,11 @@ Art. 77–82. (pominięte)
 
 **Art. 12a.** Sprawozdanie końcowe, o którym mowa w art. 11 ust. 1 pkt 4c, zawiera:
 
+- **1)** szczegółowy opis incydentu poważnego, w tym spowodowane zakłócenia i szkody;
+- **2)** rodzaj zagrożenia lub przyczynę, która prawdopodobnie była źródłem incydentu;
+- **3)** zastosowane i wdrażane środki ograniczające ryzyko;
+- **4)** transgraniczne skutki incydentu, jeżeli wystąpiły.
+
 **Art. 12b.**
 
 1. W przypadku gdy obsługa incydentu poważnego nie zakończyła się w terminie składania sprawozdania końcowego, o którym mowa w art. 11 ust. 1 pkt 4c, podmiot kluczowy lub podmiot ważny przekazuje właściwemu CSIRT sektorowemu sprawozdanie z postępu obsługi tego incydentu.
@@ -703,6 +810,9 @@ Art. 77–82. (pominięte)
 8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wykaz certyfikatów uprawniających do przeprowadzenia audytu, uwzględniając zakres wiedzy specjalistycznej wymaganej od osób legitymujących się poszczególnymi certyfikatami.
 
 **Art. 16.** Podmiot:
+
+- **1)** kluczowy lub ważny realizuje obowiązki, o których mowa w niniejszym rozdziale, w terminie 12 miesięcy,
+- **2)** kluczowy zapewnia przeprowadzenie audytu po raz pierwszy w terminie 24 miesięcy – od dnia spełnienia przesłanek uznania za podmiot kluczowy lub podmiot ważny.
 
 **Art. 16a.** (uchylony)
 
@@ -782,9 +892,18 @@ Art. 77–82. (pominięte)
 
 **Art. 16f.** Podmioty publiczne, dla których jednostka wyznaczona realizuje obowiązki z zakresu cyberbezpieczeństwa, współpracują z tą jednostką w szczególności przez:
 
+- **1)** przekazywanie informacji o incydentach;
+- **2)** wykonywanie decyzji kierownika tej jednostki w zakresie systemu zarządzania bezpieczeństwem informacji;
+- **3)** publikowanie na swojej stronie internetowej adresu strony internetowej jednostki wyznaczonej zawierającej informacje o cyberbezpieczeństwie, zgodnie z art. 9;
+- **4)** uczestnictwo kierownika tej jednostki w szkoleniach z zakresu cyberbezpieczeństwa, jeżeli są prowadzone przez jednostkę wyznaczoną.
+
 **Art. 16g.** W celu prawidłowego wykonania obowiązków, o których mowa w art. 11 i art. 12, kierownik jednostki wyznaczonej, o której mowa w art. 16e, może wskazać podmiotom publicznym terminy na przekazanie informacji o incydentach.
 
 **Art. 16h.** Jednostka wyznaczona, o której mowa w art. 16e:
+
+- **1)** zgłasza w imieniu podmiotu publicznego wczesne ostrzeżenie, zgłoszenie incydentu poważnego, sprawozdanie okresowe i sprawozdanie końcowe, o których mowa w art. 11 ust. 1 pkt 4–4c, do CSIRT sektorowego;
+- **2)** wskazuje osobę kontaktową do podmiotów publicznych, dla których realizuje zadania z zakresu cyberbezpieczeństwa;
+- **3)** korzysta z systemu teleinformatycznego, o którym mowa w art. 46 ust. 1, w celu realizacji obowiązków, o których mowa w rozdziale 3.
 
 #### Rozdział 4 (uchylony)
 
@@ -977,9 +1096,7 @@ Art. 77–82. (pominięte)
 
 **Art. 27.**
 
-1. CSIRT GOV jest właściwy w zakresie incydentów związanych ze zdarzeniami o charakterze terrorystycznym, o których mowa w art. 2 pkt 7 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz.
-
-- **194)** .
+1. CSIRT GOV jest właściwy w zakresie incydentów związanych ze zdarzeniami o charakterze terrorystycznym, o których mowa w art. 2 pkt 7 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194).
 
 2. CSIRT MON jest właściwy w zakresie incydentów związanych ze zdarzeniami o charakterze terrorystycznym, o których mowa w art. 5 ust. 1 pkt 2a ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2024 r. poz. 1405 oraz z 2025 r. poz. 179 i 1366).
 
@@ -1200,6 +1317,13 @@ Art. 77–82. (pominięte)
 
 **Art. 36d.** Rada Ministrów określi, w drodze rozporządzenia:
 
+- **1)** tryb przeprowadzania oceny bezpieczeństwa, o której mowa w art. 36a,
+- **2)** szczegółowe informacje przekazywane do CSIRT niezbędne do przeprowadzenia oceny bezpieczeństwa,
+- **3)** rodzaje przeprowadzanych testów bezpieczeństwa w ramach oceny bezpieczeństwa, o których mowa w art. 36a ust. 2,
+- **4)** sposób niszczenia materiałów zawierających informacje, o których mowa w art. 36b ust. 10,
+- **5)** tryb działania komisji, o której mowa w art. 36b ust. 11 zdanie pierwsze,
+- **6)** wzór protokołu zniszczenia materiałów zawierających informacje, o których mowa w art. 36b ust. 10 – mając na uwadze konieczność zapewnienia sprawnego przeprowadzenia oceny bezpieczeństwa, bezpieczeństwo systemów informacyjnych podlegających ocenie, rodzaj materiałów podlegających zniszczeniu i konieczność zapewnienia efektywności i przejrzystości prowadzonych działań komisji.
+
 #### Rozdział 7 Zasady udostępniania informacji i przetwarzania danych osobowych
 
 **Art. 37.**
@@ -1307,6 +1431,32 @@ Art. 77–82. (pominięte)
 #### Rozdział 8 Organy właściwe do spraw cyberbezpieczeństwa
 
 **Art. 41.** Organami właściwymi do spraw cyberbezpieczeństwa są:
+
+- **1)** dla sektora energii – minister właściwy do spraw energii;
+- **1a)** dla sektora inwestycji energii jądrowej – minister właściwy do spraw energii;
+- **2)** dla sektora transportu z wyłączeniem podsektora transportu wodnego – minister właściwy do spraw transportu;
+- **3)** dla podsektora transportu wodnego – minister właściwy do spraw gospodarki morskiej i minister właściwy do spraw żeglugi śródlądowej;
+- **4)** dla sektora bankowego i infrastruktury rynków finansowych – Komisja Nadzoru Finansowego;
+- **5)** dla sektora ochrony zdrowia z wyłączeniem podmiotów, o których mowa w art. 26 ust. 5 pkt 1 – minister właściwy do spraw zdrowia;
+- **6)** dla sektora ochrony zdrowia obejmującego podmioty, o których mowa w art. 26 ust. 5 pkt 1 – Minister Obrony Narodowej;
+- **7)** dla sektora zaopatrzenia w wodę pitną i jej dystrybucji – minister właściwy do spraw gospodarki wodnej;
+- **8)** dla sektora infrastruktury cyfrowej z wyłączeniem podmiotów, o których mowa w art. 26 ust. 5 pkt 1, oraz z wyłączeniem podsektora komunikacji elektronicznej – minister właściwy do spraw informatyzacji;
+- **8a)** dla podsektora komunikacji elektronicznej, z wyłączeniem podmiotów, o których mowa w art. 26 ust. 5 pkt 1 – Prezes Urzędu Komunikacji Elektronicznej;
+- **9)** dla sektora infrastruktury cyfrowej obejmującego podmioty, o których mowa w art. 26 ust. 5 pkt 1 – Minister Obrony Narodowej;
+- **9a)** dla sektora zbiorowego odprowadzania ścieków – minister właściwy do spraw gospodarki wodnej;
+- **9b)** dla sektora zarządzania usług ICT – minister właściwy do spraw informatyzacji;
+- **9c)** dla sektora przestrzeni kosmicznej – minister właściwy do spraw gospodarki;
+- **9d)** dla sektora produkcji, wytwarzania i dystrybucji chemikaliów – minister właściwy do spraw gospodarki;
+- **9e)** dla sektora produkcji, przetwarzania i dystrybucji żywności – minister właściwy do spraw rolnictwa;
+- **9f)** dla sektora produkcji, z wyłączeniem podsektora produkcja wyrobów medycznych i wyrobów medycznych do diagnostyki in vitro – minister właściwy do spraw gospodarki;
+- **9g)** dla podsektora produkcji wyrobów medycznych i wyrobów medycznych do diagnostyki in vitro – minister właściwy do spraw zdrowia;
+- **9h)** dla sektora usług pocztowych – Prezes Urzędu Komunikacji Elektronicznej;
+- **9i)** dla sektora gospodarowania odpadami – minister właściwy do spraw klimatu;
+- **9j)** dla sektora dostawców usług cyfrowych – minister właściwy do spraw informatyzacji;
+- **9k)** dla sektora badań naukowych, z wyłączeniem podmiotów, o których mowa w art. 26 ust. 5 pkt 1 – minister właściwy do spraw szkolnictwa wyższego i nauki;
+- **9l)** dla sektora badań naukowych obejmującego podmioty, o których mowa w art. 26 ust. 5 pkt 1 – Minister Obrony Narodowej.
+- **10)** (uchylony)
+- **11)** (uchylony)
 
 **Art. 41a.**
 
@@ -1624,6 +1774,13 @@ Art. 77–82. (pominięte)
 
 **Art. 48.** Minister właściwy do spraw informatyzacji prowadzi Pojedynczy Punkt Kontaktowy, do którego zadań należy:
 
+- **1)** odbieranie zgłoszeń incydentu dotyczącego więcej niż jednego sektora lub dotyczącego innych państw członkowskich Unii Europejskiej z Pojedynczych Punktów Kontaktowych w innych państwach członkowskich Unii Europejskiej, także przekazywanie tych zgłoszeń do CSIRT MON, CSIRT NASK, CSIRT GOV lub CSIRT sektorowego;
+- **2)** przekazywanie, na wniosek właściwego CSIRT MON, CSIRT NASK lub CSIRT GOV, zgłoszenia incydentu dotyczącego więcej niż jednego sektora lub innych państw członkowskich Unii Europejskiej do Pojedynczych Punktów Kontaktowych w innych państwach członkowskich Unii Europejskiej;
+- **3)** zapewnienie reprezentacji Rzeczypospolitej Polskiej w Grupie Współpracy;
+- **4)** zapewnienie współpracy z Komisją Europejską w dziedzinie cyberbezpieczeństwa;
+- **5)** koordynacja współpracy między organami właściwymi do spraw cyberbezpieczeństwa i organami władzy publicznej w Rzeczypospolitej Polskiej z odpowiednimi organami w państwach członkowskich Unii Europejskiej;
+- **6)** zapewnienie wymiany informacji na potrzeby Grupy Współpracy oraz Sieci CSIRT.
+
 **Art. 49.**
 
 1. Pojedynczy Punkt Kontaktowy przekazuje Grupie Współpracy:
@@ -1696,7 +1853,22 @@ Art. 77–82. (pominięte)
 
 **Art. 51.** Minister Obrony Narodowej jest odpowiedzialny za:
 
+- **1)** współpracę Sił Zbrojnych Rzeczypospolitej Polskiej z właściwymi organami Organizacji Traktatu Północnoatlantyckiego, Unii Europejskiej i organizacji międzynarodowych w obszarze obrony narodowej w zakresie cyberbezpieczeństwa;
+- **2)** zapewnienie zdolności Siłom Zbrojnym Rzeczypospolitej Polskiej w układzie krajowym, sojuszniczym i koalicyjnym do prowadzenia działań militarnych w przypadku cyberzagrożenia powodującego konieczność działań obronnych;
+- **3)** rozwijanie umiejętności Sił Zbrojnych Rzeczypospolitej Polskiej w zakresie zapewnienia cyberbezpieczeństwa przez organizację specjalistycznych przedsięwzięć szkoleniowych;
+- **4)** pozyskiwanie i rozwój narzędzi służących budowaniu zdolności zapewnienia cyberbezpieczeństwa w Siłach Zbrojnych Rzeczypospolitej Polskiej;
+- **5)** koordynację działań związanych z obsługą incydentów w czasie stanu wojennego lub w czasie wojny, z zastrzeżeniem kompetencji Naczelnego Dowódcy Sił Zbrojnych;
+- **6)** ocenę wpływu incydentów poważnych i krytycznych na system obronny państwa;
+- **7)** ocenę cyberzagrożeń, w zakresie ich wpływu na system obronny państwa oraz przedstawianie właściwym organom, w przypadku wprowadzenia stanu wojennego lub stanu wojny, propozycji dotyczących działań obronnych z zastrzeżeniem kompetencji Naczelnego Dowódcy Sił Zbrojnych;
+- **8)** koordynację, we współpracy z ministrem właściwym do spraw wewnętrznych i ministrem właściwym do spraw informatyzacji, realizacji zadań organów administracji rządowej i jednostek samorządu terytorialnego w czasie stanu wojennego lub w czasie wojny dotyczących działań obronnych w przypadku cyberzagrożenia z zastrzeżeniem kompetencji Naczelnego Dowódcy Sił Zbrojnych.
+
 **Art. 52.** Minister Obrony Narodowej prowadzi Narodowy Punkt Kontaktowy do współpracy z Organizacją Traktatu Północnoatlantyckiego, do którego zadań należy:
+
+- **1)** zapewnienie współpracy w obszarze obrony narodowej z właściwymi organami Organizacji Traktatu Północnoatlantyckiego w zakresie cyberbezpieczeństwa;
+- **2)** koordynacja działań w zakresie wzmacniania zdolności obronnych w przypadku cyberzagrożenia;
+- **3)** zapewnienie współpracy między narodowymi i sojuszniczymi siłami zbrojnymi w zakresie zapewnienia cyberbezpieczeństwa;
+- **4)** rozwijanie systemów wymiany informacji o cyberzagrożeniach w obszarze obrony narodowej;
+- **5)** udział w realizacji celów Organizacji Traktatu Północnoatlantyckiego w obszarze cyberbezpieczeństwa i kryptologii.
 
 #### Rozdział 10a Zadania ministra właściwego do spraw energii
 
@@ -1719,6 +1891,12 @@ Art. 77–82. (pominięte)
 **Art. 52c.** Minister właściwy do spraw zagranicznych prowadzi i koordynuje działalność dyplomatyczną w zakresie cyberbezpieczeństwa w stosunkach z państwami trzecimi i organizacjami międzynarodowymi.
 
 **Art. 52d.** Minister właściwy do spraw informatyzacji przekazuje ministrowi właściwemu do spraw zagranicznych, z wyłączeniem danych osobowych:
+
+- **1)** informacje, odebrane i wysyłane przez Pojedynczy Punkt Kontaktowy, o wystąpieniu incydentu dotyczącego innych państw wraz z krótkim opisem i wskazaniem wszystkich państw, których dotyczył incydent;
+- **2)** sprawozdanie, o którym mowa w art. 49 ust. 6;
+- **3)** informacje pochodzące z Grupy Współpracy, o których mowa w art. 49 ust. 3 pkt 4–6;
+- **4)** informacje, o których mowa w art. 49 ust. 1;
+- **5)** informacje, odebrane i wysyłane przez Pojedynczy Punkt Kontaktowy, dotyczące sytuacji kryzysowych w cyberprzestrzeni.
 
 #### Rozdział 10c Organy odpowiedzialne za zarządzanie incydentami i zarządzanie kryzysowe w cyberbezpieczeństwie na dużą skalę
 
@@ -1930,7 +2108,18 @@ Art. 77–82. (pominięte)
 
 **Art. 54.** Do kontroli realizowanej wobec podmiotów kluczowych lub podmiotów ważnych:
 
+- **1)** będących przedsiębiorcami stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **2)** niebędących przedsiębiorcami stosuje się przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej;
+- **3)** będących jednostkami samorządu terytorialnego stosuje się przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej.
+
 **Art. 55.** Osoba prowadząca czynności kontrolne wobec podmiotów będących przedsiębiorcami ma prawo do:
+
+- **1)** swobodnego wstępu i poruszania się po terenie podmiotu kontrolowanego bez obowiązku uzyskiwania przepustki;
+- **2)** wglądu do dokumentów dotyczących działalności podmiotu kontrolowanego, pobierania za pokwitowaniem oraz zabezpieczania dokumentów związanych z zakresem kontroli, z zachowaniem przepisów o tajemnicy prawnie chronionej;
+- **3)** sporządzania, a w razie potrzeby żądania sporządzenia, niezbędnych do kontroli kopii, odpisów lub wyciągów z dokumentów oraz zestawień lub obliczeń;
+- **4)** przetwarzania danych osobowych w zakresie niezbędnym do realizacji celu kontroli;
+- **5)** żądania złożenia ustnych lub pisemnych wyjaśnień w sprawach dotyczących zakresu kontroli;
+- **6)** przeprowadzania oględzin urządzeń, nośników oraz systemów informacyjnych.
 
 **Art. 56.**
 
@@ -2090,6 +2279,62 @@ Art. 77–82. (pominięte)
 8. Zadania Pełnomocnika są finansowane z części budżetowej, której dysponentem jest minister właściwy do spraw informatyzacji.
 
 **Art. 62a¹.** Przy Pełnomocniku działa PCOC, jako organ pomocniczy w sprawach koordynowania działań i realizowania polityki rządu w zakresie zapewnienia cyberbezpieczeństwa w Rzeczypospolitej Polskiej. 2. W skład PCOC wchodzą:
+
+- **1)** Pełnomocnik;
+- **2)** sekretarz PCOC;
+- **3)** przedstawiciele:
+    - **a)** ministra – członka Rady Ministrów właściwego do spraw koordynowania działalności służb specjalnych, jeżeli został powołany,
+    - **b)** ministra właściwego do spraw informatyzacji,
+    - **c)** ministra właściwego do spraw wewnętrznych,
+    - **d)** ministra właściwego do spraw zagranicznych,
+    - **e)** Ministra Obrony Narodowej,
+    - **f)** Ministra Sprawiedliwości,
+    - **g)** Szefa Kancelarii Prezesa Rady Ministrów,
+    - **h)** organów właściwych do spraw cyberbezpieczeństwa,
+    - **i)** CSIRT GOV,
+    - **j)** CSIRT MON,
+    - **k)** CSIRT NASK,
+    - **l)** CSIRT sektorowych,
+    - **m)** Dowódcy Komponentu Wojsk Obrony Cyberprzestrzeni,
+    - **n)** dyrektora Rządowego Centrum Bezpieczeństwa,
+    - **o)** Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,
+    - **p)** Komendanta Głównego Policji,
+    - **q)** Komendanta Służby Ochrony Państwa,
+    - **r)** Komendanta Głównego Straży Granicznej,
+    - **s)** Prokuratora Krajowego,
+    - **t)** Szefa Agencji Bezpieczeństwa Wewnętrznego,
+    - **u)** Szefa Agencji Wywiadu,
+    - **v)** Szefa Służby Kontrwywiadu Wojskowego,
+    - **w)** Szefa Służby Wywiadu Wojskowego.
+
+3. Prezydent Rzeczypospolitej Polskiej może skierować do udziału w pracach PCOC swojego przedstawiciela.
+
+4. Na posiedzenia PCOC mogą być zapraszani przedstawiciele podmiotów kluczowych, podmiotów ważnych lub innych podmiotów, jeżeli wymaga tego temat spotkania.
+
+5. Posiedzeniu PCOC przewodniczy Pełnomocnik.
+
+6. Do zadań PCOC należy:
+
+- **1)** wymiana informacji na temat cyberzagrożeń, incydentów i podatności na poziomie krajowym;
+- **2)** wymiana informacji o wynikach szacowania ryzyka związanego z ujawnionymi cyberzagrożeniami oraz zaistniałymi incydentami;
+- **3)** wymiana informacji o przeprowadzanych badaniach, o których mowa w art. 33 ust. 1;
+- **4)** wymiana informacji dotyczących sytuacji kryzysowych w cyberprzestrzeni;
+- **5)** przygotowywanie bieżących informacji na temat sytuacji w cyberprzestrzeni dla Pełnomocnika;
+- **6)** wymiana informacji dotycząca procesów i współpracy międzynarodowej w zakresie bezpieczeństwa w cyberprzestrzeni.
+
+7. Sekretarz PCOC organizuje pracę PCOC i w tym zakresie może występować do CSIRT MON, CSIRT NASK, CSIRT GOV, CSIRT sektorowych oraz organów administracji rządowej o przedstawienie informacji niezbędnych w sprawach rozpatrywanych przez PCOC.
+
+8. Sekretarza PCOC powołuje Pełnomocnik spośród osób spełniających wymagania określone w przepisach o ochronie informacji niejawnych w zakresie dostępu do informacji niejawnych o klauzuli „tajne”. Sekretarza PCOC odwołuje Pełnomocnik.
+
+9. Sekretarz PCOC może powołać swojego zastępcę spośród osób spełniających wymagania określone w ust. 8. Zastępcę sekretarza PCOC odwołuje sekretarz PCOC.
+
+10. W przypadku nieobecności sekretarza PCOC jego obowiązki wykonuje zastępca sekretarza PCOC.
+
+11. Obsługę PCOC zapewnia ministerstwo lub inny urząd administracji rządowej obsługujący Pełnomocnika.
+
+12. Pełnomocnik określi, w drodze zarządzenia, tryb pracy PCOC, mając na uwadze charakter zadań PCOC oraz konieczność zapewnienia jego sprawnej pracy.
+
+13. Zarządzenie jest publikowane na stronie podmiotowej Biuletynu Informacji Publicznej Pełnomocnika.
 
 **Art. 63.**
 
@@ -2689,17 +2934,30 @@ Art. 77–82. (pominięte)
 
 #### Rozdział 15 Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
 
+**Art. 77–82.** (pominięte)
+
 **Art. 83.** Cyberzagrożenia, mogące doprowadzić do sytuacji kryzysowej, po raz pierwszy zostaną ujęte w Raporcie o zagrożeniach bezpieczeństwa narodowego, który zostanie sporządzony z udziałem Pełnomocnika, po wejściu w życie ustawy.
 
 **Art. 84.** Prezes Rady Ministrów powoła Pełnomocnika w terminie 3 miesięcy od dnia wejścia w życie ustawy.
 
 **Art. 85.** Minister właściwy do spraw informatyzacji przekaże Komisji Europejskiej informacje o:
 
+- **1)** wyznaczonych organach właściwych do spraw cyberbezpieczeństwa, Pojedynczym Punkcie Kontaktowym oraz o ich zadaniach;
+- **2)** zakresie zadań CSIRT MON, CSIRT NASK i CSIRT GOV, w tym o głównych elementach procedur postępowania w przypadku incydentu.
+
 **Art. 86.** Organy właściwe do spraw cyberbezpieczeństwa w terminie do dnia 9 listopada 2018 r. wydadzą decyzje o uznaniu za operatora usługi kluczowej oraz przekażą ministrowi właściwemu do spraw informatyzacji wnioski o wpisanie operatorów usług kluczowych do wykazu, o którym mowa w art. 7.
 
 **Art. 87.** Minister właściwy do spraw informatyzacji w terminie do dnia 9 sierpnia 2018 r. przekaże Grupie Współpracy sprawozdanie podsumowujące o:
 
+- **1)** incydentach poważnych zgłaszanych przez operatorów usług kluczowych, mających wpływ na ciągłość świadczenia przez nich usług kluczowych w Rzeczypospolitej Polskiej oraz ciągłość świadczenia usług kluczowych w państwach członkowskich Unii Europejskiej;
+- **2)** zgłaszanych przez dostawców usług cyfrowych incydentach istotnych, w tym dotyczących dwóch lub większej liczby państw członkowskich Unii Europejskiej.
+
 **Art. 88.** Minister właściwy do spraw informatyzacji w terminie do dnia 9 listopada 2018 r. przekaże Komisji Europejskiej informacje o:
+
+- **1)** krajowych środkach umożliwiających identyfikację operatorów usług kluczowych;
+- **2)** wykazie usług kluczowych;
+- **3)** liczbie zidentyfikowanych operatorów usług kluczowych w każdym z sektorów, o którym mowa w załączniku nr 1 do ustawy, ze wskazaniem ich znaczenia w odniesieniu do tego sektora;
+- **4)** progach istotności skutku zakłócającego dla świadczonej usługi kluczowej branych pod uwagę przy kwalifikowaniu podmiotów jako operatorów usług kluczowych.
 
 **Art. 89.** Minister właściwy do spraw informatyzacji uruchomi system teleinformatyczny, o którym mowa w art. 46 ust. 1, do dnia 1 stycznia 2021 r.
 
@@ -2883,7 +3141,7 @@ Art. 77–82. (pominięte)
 
 ## Załącznik nr 1 — SEKTORY KLUCZOWE
 
-1) Podmioty z uwzględnieniem pkt 2–4: SEKTORY WAŻNE KATEGORIE FUNKCJI KRYTYCZNYCH DLA BEZPIECZEŃSTWA SIECI I USŁUG WYMOGI DLA SYSTEMU ZARZĄDZANIA BEZPIECZEŃSTWEM INFORMACJI PODMIOTU WAŻNEGO BĘDĄCEGO PODMIOTEM PUBLICZNYM I. System zarządzania bezpieczeństwem informacji dla podmiotu ważnego będącego publicznym obejmuje co najmniej:
+1) Podmioty z uwzględnieniem pkt 2–4: Załącznik SEKTORY WAŻNE Załącznik KATEGORIE FUNKCJI KRYTYCZNYCH DLA BEZPIECZEŃSTWA SIECI I USŁUG Załącznik WYMOGI DLA SYSTEMU ZARZĄDZANIA BEZPIECZEŃSTWEM INFORMACJI PODMIOTU WAŻNEGO BĘDĄCEGO PODMIOTEM PUBLICZNYM I. System zarządzania bezpieczeństwem informacji dla podmiotu ważnego będącego publicznym obejmuje co najmniej:
 1) inwentaryzację produktów ICT, usług ICT i procesów ICT służących do przetwarzania
 2) kontrolowanie podstawowych wersji używanego produktów ICT lub usług ICT, a jeżeli korzystanie z mechanizmów kontroli instalacji produktów ICT lub usług ICT na urządzeniach, tym na urządzeniach mobilnych;
 3) zapewnienie ochrony przetwarzanych informacji przed ich kradzieżą, nieuprawnionym uszkodzeniami lub zakłóceniami, w zakresie:
@@ -2895,7 +3153,7 @@ c) udokumentowania mechanizmów zapewnienia ochrony przetwarzanych informacji kr
 6) bezzwłoczne cofanie przyznanych uprawnień w przypadku stwierdzenia braku podstawy do informacji na stałe lub zawieszanie uprawnień w przypadku niewykonywania obowiązków najmniej przez jeden miesiąc;
 7) modyfikację zakresu przyznanych uprawnień, jeżeli jest to zasadne z uwagi na zmianę wykonywanych zadań i zakresu dostępu do informacji;
 8) ustanowienie podstawowych zasad gwarantujących bezpieczną pracę przy przetwarzaniu mobilnym i pracy na odległość;
-1 ustawy z dnia 28 lipca 2023 r. o zwalczaniu nadużyć w komunikacji elektronicznej;
+9) kontrolę usług poczty elektronicznej wykorzystującej mechanizmy, o których mowa 1 ustawy z dnia 28 lipca 2023 r. o zwalczaniu nadużyć w komunikacji elektronicznej;
 10) wykonywanie zapasowych kopii danych odseparowanych logicznie i fizycznie przetwarzanych w systemach informacyjnych dla realizacji zadania publicznego;
 11) testowanie pod kątem kompletności i możliwości odtworzenia danych zawartych w kopiach;
 12) przygotowanie i testowanie procedury w przypadku wystąpienia awarii lub incydentu;
@@ -2911,7 +3169,7 @@ d) świadomość skutków naruszenia zasad bezpieczeństwa informacji;
 18) określenie procedur i zasad działania podmiotu na wypadek wystąpienia cyberzagrożenia w przypadku wystąpienia incydentu.
 II. System zarządzania bezpieczeństwem informacji dla podmiotu ważnego będącego publicznym może dodatkowo obejmować:
 1) stosowanie środków zapewniających bezpieczeństwo informacji, w tym produktów ICT lub procesów ICT minimalizujących ryzyko błędów ludzkich;
-ramach wspólnego wykonywania obowiązków z zakresu cyberbezpieczeństwa jednostki wyznaczonej, o której mowa w art. 16e ust. 1;
+2) stosowanie dedykowanych usług poczty elektronicznej dla podmiotu na podstawie ramach wspólnego wykonywania obowiązków z zakresu cyberbezpieczeństwa jednostki wyznaczonej, o której mowa w art. 16e ust. 1;
 3) zapewnienie wysokiej dostępności systemów informacyjnych:
 a) w zakresie określenia czasu dostępu do systemów informacyjnych,
 b) przez zapewnianie zdolności działania systemu informacyjnego i jego niezależnie od wystąpienia awarii lub incydentu;

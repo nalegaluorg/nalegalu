@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# l p
+# Ustawa z dnia 22 października 2010 r. o zmianie ustawy o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
 
 | Pole | Wartość |
 |---|---|

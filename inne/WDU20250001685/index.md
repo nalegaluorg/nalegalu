@@ -8,10 +8,10 @@ pos: 1685
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o systemie handlu uprawnieniami do emisji gazów cieplarnianych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o systemie handlu uprawnieniami do emisji gazów cieplarnianych
 
 *USTAWA z dnia 12 czerwca 2015 r.*
 
@@ -26,8 +26,6 @@ source: "isap-pdf"
 | Data wydania | 2025-12-03 |
 | Ostatnia zmiana | 2026-01-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001685) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1685/text.pdf) |
-
-Art. 110–123. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -52,9 +50,78 @@ Art. 110–123. (pominięte)
 
 **Art. 2.** Przepisów ustawy nie stosuje się do emisji gazów cieplarnianych z:
 
+- **1)** instalacji lub jej części stosowanej do badania, rozwoju lub testowania nowych produktów i procesów technologicznych oraz instalacji wykorzystującej wyłącznie biomasę;
+- **2)** instalacji spalania odpadów niebezpiecznych lub instalacji spalania odpadów komunalnych o całkowitej nominalnej mocy cieplnej nie większej niż 20MW;
+- **3)** operacji lotniczej: poz. 212, z późn. zm. ), w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty (Dz. Urz. UE L 293 z 31.10.2008, str. 3) na trasach w regionach najbardziej oddalonych określonych w art. 349 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE 2012 C/326, str. 47) lub na trasach, których oferowana zdolność przewozowa nie przekracza 30 000 miejsc rocznie,
+    - **a)** wykonywanej wyłącznie w celu przewozu podczas oficjalnej misji panującego monarchy i członków jego najbliższej rodziny, szefów państw, szefów rządów i ministrów wchodzących w skład rządu państwa innego niż państwo członkowskie Unii Europejskiej, jeżeli taki jej charakter został potwierdzony w planie lotu,
+    - **b)** wojskowej, wykonywanej przez wojskowe statki powietrzne, Służby CelnoSkarbowej, Policji, Straży Granicznej, Żandarmerii Wojskowej, straży miejskiej i innych służb ochrony bezpieczeństwa i porządku publicznego,
+    - **c)** związanej z działaniami poszukiwawczo-ratowniczymi, przeciwpożarowej i gaśniczej, z pomocą humanitarną lub służb ratowniczych, jeżeli jest ona wykonywana na podstawie zezwolenia właściwego organu,
+    - **d)** wykonywanej zgodnie z przepisami dla lotów z widocznością (lot VFR), określonych w załączniku 2 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r.
+    - **e)** kończącej się na lotnisku, z którego wystartował statek powietrzny, i wykonywanej bez międzylądowania,
+    - **f)** szkoleniowej, wykonywanej wyłącznie w celu uzyskania licencji lub uzyskania uprawnień przez członków personelu lotniczego, jeżeli jest to potwierdzone w planie lotu, pod warunkiem że nie jest ona wykorzystywana do przewozu pasażerów ani ładunku lub do przebazowania statku powietrznego,
+    - **g)** wykonywanej wyłącznie w celu przeprowadzenia badań naukowych lub sprawdzenia, przetestowania lub przeprowadzenia procesu certyfikacji statku powietrznego lub urządzenia pokładowego lub naziemnego,
+    - **h)** wykonywanej przez statek powietrzny o maksymalnej certyfikowanej masie startowej poniżej 5700 kg,
+    - **i)** wykonywanej w ramach zobowiązań z tytułu wykonywania obowiązków użyteczności publicznej zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r.
+    - **j)** wykonywanej przez operatora statku powietrznego będącego przewoźnikiem lotniczym w rozumieniu ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431), który realizuje: – mniej niż 243 operacje lotnicze w każdym z trzech kolejnych czteromiesięcznych okresów w roku kalendarzowym, z zastrzeżeniem art. 95a, albo – operacje lotnicze, z których łączna roczna wielkość emisji wynosi mniej niż 10 000 Mg CO .
+
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** biomasie – rozumie się przez to biomasę, o której mowa w art. 3 pkt 21 rozporządzenia wykonawczego Komisji (UE) 2018/2066 z dnia 19 grudnia 2018 r. w sprawie monitorowania i raportowania w zakresie emisji gazów cieplarnianych na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady oraz zmieniającego rozporządzenie Komisji (UE) nr 2012/601 (Dz. Urz. UE L 334 z 31.12.2018, str. 1 oraz Dz. Urz. UE L 423 z 15.12.2020, str. 37), zwanego dalej „rozporządzeniem Komisji (UE) 2018/2066”;
+- **2)** biopaliwie – rozumie się przez to biopaliwo, o którym mowa w art. 3 pkt 23 rozporządzenia Komisji (UE) 2018/2066;
+- **3)** biopłynie – rozumie się przez to biopłyn, o którym mowa w art. 3 pkt 22 rozporządzenia Komisji (UE) 2018/2066;
+- **3a)** eksploatacji instalacji – rozumie się przez to użytkowanie instalacji zarówno w normalnym trybie działalności, jak i przy wydarzeniach nietypowych, o których mowa w art. 20 ust. 1 rozporządzenia Komisji (UE) 2018/2066, a także utrzymywanie w sprawności tej instalacji;
+- **4)** emisji – rozumie się przez to gazy cieplarniane wprowadzane do powietrza w wyniku działań człowieka, związanych z eksploatacją instalacji lub z wykonywaną operacją lotniczą;
+- **5)** gazach cieplarnianych – rozumie się przez to:
+    - **a)** gazy: – dwutlenek węgla (CO ), – metan (CH ), – podtlenek azotu (N O), – fluorowęglowodory (HFCs), – perfluorowęglowodory (PFCs), – sześciofluorek siarki (SF ),
+    - **b)** inne niż wymienione w lit. a gazowe składniki atmosfery zarówno naturalne, jak i antropogeniczne, które pochłaniają i reemitują promieniowanie podczerwone;
+
+- **6)** grupie kapitałowej – rozumie się przez to grupę kapitałową, o której mowa w art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
+- **7)** instalacji – rozumie się przez to stacjonarne urządzenie techniczne lub zespół takich urządzeń, w których są prowadzone jedno lub więcej działań określonych w załączniku nr 1 do ustawy oraz wszelkie inne czynności posiadające bezpośredni techniczny związek ze wskazanymi działaniami prowadzonymi w danym miejscu, które powodują emisję lub mają wpływ na jej wielkość;
+- **8)** instalacji nowej – rozumie się przez to instalację, która po raz pierwszy uzyskała zezwolenie na emisję gazów cieplarnianych w okresie rozpoczynającym się 3 miesiące przed terminem przedłożenia wykazu, o którym mowa w art. 26d ust. 3, i kończącym się 3 miesiące przed terminem przedłożenia kolejnego wykazu;
+- **9)** instalacji wytwarzającej energię elektryczną – rozumie się przez to instalację, która po dniu 31 grudnia 2004 r. wytwarzała energię elektryczną przeznaczoną do sprzedaży osobom trzecim, i w której nie prowadzi się innych rodzajów działań określonych w załączniku nr 1 do ustawy niż spalanie paliw;
+- **10)** jednostce poświadczonej redukcji emisji – rozumie się przez to jednostkę poświadczonej redukcji emisji w rozumieniu art. 2 pkt 12 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673 oraz z 2024 r. poz. 834 i 1940);
+- **11)** jednostce redukcji emisji – rozumie się przez to jednostkę redukcji emisji w rozumieniu art. 2 pkt 14 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji;
+- **12)** okresie rozliczeniowym – rozumie się przez to okres od dnia 1 stycznia 2013 r. do dnia 31 grudnia 2020 r. oraz każdy następujący po nim dziesięcioletni okres;
+- **13)** operacji lotniczej – rozumie się przez to lot statku powietrznego, który rozpoczyna się lub kończy na terytorium państwa członkowskiego Unii Europejskiej, Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
+- **14)** operatorze statku powietrznego – rozumie się przez to podmiot, który użytkuje statek powietrzny w czasie wykonywania operacji lotniczej lub właściciela statku powietrznego w przypadku gdy podmiot ten nie jest znany lub nie został wskazany przez właściciela statku powietrznego, jeżeli: ustanawiającej system handlu przydziałami emisji gazów cieplarnianych we Wspólnocie oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. Urz. UE L 275 z 25.10.2003, str. 32, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 631), zwanej dalej „dyrektywą 2003/87/WE” lub
+    - **a)** Rzeczpospolita Polska została dla tego operatora wskazana jako administrujące państwo członkowskie w rozporządzeniu Komisji Europejskiej wydanym w związku z art. 18a ust. 3 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r.
+    - **b)** posiada koncesję na podjęcie i wykonywanie działalności gospodarczej w zakresie przewozu lotniczego, o której mowa w art. 164 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, lub
+    - **c)** posiada certyfikat upoważniający operatora statku powietrznego do wykonywania działalności gospodarczej przy użyciu statków powietrznych, o którym mowa w art. 160 ustawy określonej w lit. b, lub
+    - **d)** posiada upoważnienie dla przewoźnika lotniczego będącego przedsiębiorcą zagranicznym z państwa członkowskiego Unii Europejskiej, o którym mowa w art. 192a ustawy określonej w lit. b, lub
+    - **e)** posiada zezwolenie dla obcych przewoźników lotniczych na wykonywanie przewozów lotniczych do lub z Rzeczypospolitej Polskiej wydane na podstawie art. 193 ustawy określonej w lit. b, lub
+    - **f)** jest użytkownikiem statku powietrznego w rozumieniu art. 2 pkt 3 ustawy określonej w lit. b;
+
+- **14a)** paliwie z biomasy – rozumie się przez to paliwa z biomasy, o których mowa w art. 3 pkt 21a rozporządzenia Komisji (UE) 2018/2066;
+- **15)** (uchylony)
+- **16)** prowadzącym instalację – rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, która posiada tytuł prawny do władania instalacją w celu jej eksploatacji;
+- **17)** rejestrze Unii – rozumie się przez to rejestr Unii, o którym mowa w art. 4 rozporządzenia delegowanego Komisji (UE) 2019/1122 z dnia 12 marca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do funkcjonowania rejestru Unii (Dz. Urz. UE L 177 z 02.07.2019, str. 3 oraz Dz. Urz. UE L 177 z 02.07.2019, str. 66), zwanego dalej „rozporządzeniem Komisji (UE) 2019/1122”;
+- **18)** spalaniu – rozumie się przez to każde utlenianie paliwa, niezależnie od sposobu wykorzystania uzyskanej w tym procesie energii cieplnej, elektrycznej lub mechanicznej, oraz wszelkie inne bezpośrednio z tym związane czynności, w tym przemywanie gazów odlotowych;
+- **19)** statku powietrznym – rozumie się przez to statek powietrzny w rozumieniu art. 2 pkt 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **20)** tonokilometrze – rozumie się przez to 1 Mg ładunku handlowego, stanowiącego łączną masę towarów, przesyłek pocztowych i pasażerów, przewiezionego na odległość 1 km;
+- **21)** tytule prawnym – rozumie się przez to tytuł prawny, o którym mowa w art. 3 pkt 41 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647 i 1080);
+- **22)** uprawnieniu do emisji – rozumie się przez to uprawnienie do wprowadzania do powietrza ekwiwalentu, w rozumieniu art. 2 pkt 4 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, dwutlenku węgla (CO ) utworzone w ramach:
+    - **a)** systemu lub
+    - **b)** systemu handlu uprawnieniami do emisji gazów cieplarnianych Konfederacji Szwajcarskiej – które służy do rozliczania wielkości emisji w ramach każdego z tych systemów i którym można rozporządzać na zasadach określonych w ustawie;
+
+- **23)** weryfikatorze – rozumie się przez to:
+    - **a)** osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną w rozumieniu art. 3 pkt 3 rozporządzenia wykonawczego Komisji (UE) 2018/2067 z dnia 19 grudnia 2018 r. w sprawie weryfikacji danych oraz akredytacji weryfikatorów na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 334 z 31.12.2018, str. 94), zwanego dalej „rozporządzeniem Komisji (UE) 2018/2067”,
+    - **b)** osobę fizyczną, która uzyskała akredytację w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej zgodnie z rozporządzeniem, o którym mowa w lit. a – która przeprowadza weryfikację zgodnie z rozporządzeniem, o którym mowa w lit. a;
+
+- **24)** zakładzie – rozumie się przez to zakład, o którym mowa w art. 3 pkt 48 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **25)** zezwoleniu – rozumie się przez to decyzję zezwalającą na emisję gazów cieplarnianych z instalacji i określającą obowiązki prowadzącego instalację w zakresie monitorowania.
+
 **Art. 4.** Minister właściwy do spraw klimatu:
+
+- **1)** jest organem właściwym do wykonywania zadań wynikających z: w sprawie harmonogramu, kwestii administracyjnych oraz pozostałych aspektów sprzedaży na aukcji uprawnień do emisji gazów cieplarnianych na mocy dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady ustanawiającej system handlu przydziałami emisji gazów cieplarnianych we Wspólnocie (Dz. Urz. UE L 302 z 18.11.2010, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem Komisji (UE) nr 1031/2010”,
+    - **a)** rozporządzenia Komisji (UE) nr 1031/2010 z dnia 12 listopada 2010 r.
+    - **b)** rozporządzenia Komisji (UE) 2018/2067,
+    - **c)** rozporządzenia Komisji (UE) 2018/2066,
+    - **d)** rozporządzenia Komisji (UE) 2019/1122,
+    - **e)** rozporządzenia delegowanego Komisji (UE) 2019/331 z dnia 19 grudnia 2018 r. w sprawie ustanowienia przejściowych zasad dotyczących zharmonizowanego przydziału bezpłatnych uprawnień do emisji w całej Unii na podstawie art. 10a dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 59 z 27.02.2019, str. 8), zwanego dalej „rozporządzeniem Komisji (UE) 2019/331”,
+    - **f)** rozporządzenia delegowanego Komisji (UE) 2019/1603 z dnia 18 lipca 2019 r. uzupełniającego dyrektywę 2003/87/WE Parlamentu Europejskiego i Rady w odniesieniu do środków przyjętych przez Organizację Międzynarodowego Lotnictwa Cywilnego w odniesieniu do monitorowania, raportowania i weryfikacji emisji lotniczych w celu wdrożenia globalnego środka rynkowego (Dz. Urz. UE L 250 z 30.09.2019, str. 10), zwanego dalej „rozporządzeniem Komisji (UE) 2019/1603” – chyba że przepisy ustawy stanowią inaczej;
+
+- **2)** pełni funkcję punktu kontaktowego, o którym mowa w art. 70 ust. 2 rozporządzenia Komisji (UE) 2018/2067;
+- **3)** prowadzi koordynację, o której mowa w art. 10 rozporządzenia Komisji (UE) 2018/2066.
 
 **Art. 5.**
 
@@ -70,6 +137,10 @@ Art. 110–123. (pominięte)
 
 **Art. 6.** Minister właściwy do spraw klimatu w sprawach rozstrzyganych na podstawie ustawy jest organem wyższego stopnia, w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), w stosunku do:
 
+- **1)** marszałka województwa;
+- **2)** starosty;
+- **3)** regionalnego dyrektora ochrony środowiska.
+
 **Art. 7.**
 
 1. Systemem administruje Krajowy ośrodek bilansowania i zarządzania emisjami, o którym mowa w art. 3 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, zwany dalej „Krajowym ośrodkiem”.
@@ -80,6 +151,9 @@ Art. 110–123. (pominięte)
 - **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
 
 **Art. 7a.** Ilekroć w ustawie jest mowa o obowiązku przekazywania, przedkładania, składania, sporządzania lub dołączania dokumentów, informacji, planów, sprawozdań, raportów lub wniosków na piśmie utrwalonym w postaci papierowej i w postaci elektronicznej, wymóg ten należy uznać za spełniony, jeżeli:
+
+- **1)** do pisma utrwalonego w postaci papierowej zostanie dołączona postać elektroniczna tego pisma umożliwiająca przetwarzanie zawartych w nim danych albo
+- **2)** pismo utrwalone w postaci elektronicznej opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym będzie miało formę umożliwiającą przetwarzanie zawartych w nim danych.
 
 #### Rozdział 2 Zarządzanie rachunkami w rejestrze Unii
 
@@ -1830,6 +1904,8 @@ Art. 110–123. (pominięte)
 
 #### Rozdział 15 Zmiany w przepisach obowiązujących
 
+**Art. 110–123.** (pominięte)
+
 #### Rozdział 16 Przepisy przejściowe i końcowe
 
 **Art. 124.**
@@ -2026,7 +2102,11 @@ Art. 110–123. (pominięte)
 
 4. Poświadczenia, o których mowa w ust. 1 i 2, potwierdzają spełnienie przez biopaliwa, biopłyny lub paliwa z biomasy w rozumieniu art. 3 pkt 21a rozporządzenia Komisji (UE) 2018/2066, kryteriów zrównoważonego rozwoju lub kryteriów ograniczania emisji gazów cieplarnianych, zgodnie z art. 38 ust. 5 tego rozporządzenia, w stosownych przypadkach w odniesieniu do etapów ich pozyskiwania, wytwarzania lub przetwarzania.
 
-5. Do raportu na temat wielkości emisji, o którym mowa w ust. 1, przepisów art. 86 ust. 3 i 4 nie stosuje się. Art. 141ba. 1. W przypadku wykorzystywania w 2024 r. do spalania biopaliw, biopłynów lub paliw z biomasy, które na podstawie art. 38 ust. 5 rozporządzenia Komisji (UE) 2018/2066 podlegają kryteriom zrównoważonego rozwoju lub kryteriom ograniczania emisji gazów cieplarnianych, prowadzący instalację lub operator statku powietrznego, który w raporcie na temat wielkości emisji za 2024 r. przyjmuje dla tych biopaliw, biopłynów lub paliw z biomasy współczynnik emisyjny wynoszący zero, wykazuje spełnienie tych kryteriów za pomocą poświadczeń wydanych w ramach systemu certyfikacji zatwierdzonego przez Komisję Europejską w drodze decyzji, o której mowa w art. 30 ust. 4 dyrektywy 2018/2001, lub w ramach systemu krajowego ocenionego przez Komisję Europejską jako spełniający warunki na podstawie art. 30 ust. 6 akapit trzeci tej dyrektywy.
+5. Do raportu na temat wielkości emisji, o którym mowa w ust. 1, przepisów art. 86 ust. 3 i 4 nie stosuje się.
+
+**Art. 141ba.**
+
+1. W przypadku wykorzystywania w 2024 r. do spalania biopaliw, biopłynów lub paliw z biomasy, które na podstawie art. 38 ust. 5 rozporządzenia Komisji (UE) 2018/2066 podlegają kryteriom zrównoważonego rozwoju lub kryteriom ograniczania emisji gazów cieplarnianych, prowadzący instalację lub operator statku powietrznego, który w raporcie na temat wielkości emisji za 2024 r. przyjmuje dla tych biopaliw, biopłynów lub paliw z biomasy współczynnik emisyjny wynoszący zero, wykazuje spełnienie tych kryteriów za pomocą poświadczeń wydanych w ramach systemu certyfikacji zatwierdzonego przez Komisję Europejską w drodze decyzji, o której mowa w art. 30 ust. 4 dyrektywy 2018/2001, lub w ramach systemu krajowego ocenionego przez Komisję Europejską jako spełniający warunki na podstawie art. 30 ust. 6 akapit trzeci tej dyrektywy.
 
 2. W przypadku, o którym mowa w ust. 1, prowadzący instalację lub operator statku powietrznego może wykazać spełnianie kryteriów zrównoważonego rozwoju lub kryteriów ograniczania emisji gazów cieplarnianych za pomocą poświadczeń wydanych w ramach systemu certyfikacji, który uzyskał wstępną pozytywną ocenę Komisji Europejskiej w toku postępowania, o którym mowa w art. 30 ust. 5 dyrektywy 2018/2001, jeżeli:
 
@@ -2130,7 +2210,17 @@ Art. 110–123. (pominięte)
 
 **Art. 151.** Traci moc ustawa z dnia 28 kwietnia 2011 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. poz. 695 oraz z 2013 r. poz. 1238).
 
-**Art. 152.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załączniki do ustawy z dnia 12 czerwca 2015 r. (Dz. U. z 2025 r. poz.
+**Art. 152.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+## Załączniki do ustawy z dnia 12 czerwca 2015 r.
+
+(Dz. U. z 2025 r. poz. 1685) Załącznik nr 1
+1. Przy określaniu wartości progowych odnoszących się do zdolności produkcyjnej instalacji, bierze się pod uwagę parametry tego samego rodzaju charakteryzujące skalę działań prowadzonych w instalacji, to jest moc cieplną instalacji lub zdolność produkcyjną instalacji. Jeżeli w instalacji prowadzone jest więcej niż jedno działanie tego samego rodzaju parametry odnoszące się do tych działań sumuje się, chyba że z przyczyn formalnych lub technicznych jest ograniczona możliwość działania wszystkich instalacji jednocześnie.
+2. Przez zdolność produkcyjną instalacji rozumie się maksymalną ilość wyrobu lub wyrobów, która może być wytworzona w jednostce czasu w normalnych warunkach pracy instalacji.
+3. W przypadku włączania instalacji do systemu na podstawie wartości progowej odniesionej do nominalnej mocy cieplnej uwzględnia się sumę nominalnej mocy cieplnej wszystkich stacjonarnych urządzeń technicznych, w których zachodzi spalanie, obejmujących w szczególności: wszystkie rodzaje kotłów, palników, turbin, podgrzewaczy, pieców, w tym pieców do kalcynacji, pieców do prażenia, suszarnie, silniki, ogniwa paliwowe, pochodnie gazowe. Przy obliczeniach nominalnej mocy cieplnej nie uwzględnia się stacjonarnych urządzeń technicznych o nominalnej mocy cieplnej poniżej 3 MW oraz stacjonarnych urządzeń technicznych wykorzystujących wyłącznie biomasę, przez które rozumie się stacjonarne urządzenie techniczne wykorzystujące paliwa kopalne wyłącznie podczas rozruchu lub wyłączeń.
+4. Przez nominalną moc cieplną instalacji rozumie się ilość energii wprowadzonej do instalacji w paliwie w jednostce czasu przy jej nominalnym obciążeniu.
+5. W przypadku instalacji służącej do działań, dla których wartość progowa nie została określona przy pomocy nominalnej mocy cieplnej, o włączeniu tej instalacji do systemu decyduje wartość progowa odniesiona do zdolności produkcyjnej instalacji.
+6. W przypadku przekroczenia wartości progowej nominalnej mocy cieplnej lub zdolności produkcyjnej jakiegokolwiek rodzaju instalacji, wszystkie stacjonarne urządzenia techniczne, w których dochodzi do spalania innego niż spalanie odpadów niebezpiecznych lub komunalnych, muszą być objęte zezwoleniem na emisję gazów cieplarnianych z instalacji.
 
 ## Załącznik nr 2
 

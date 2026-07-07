@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo podatkowe**.
 
-Łącznie: **190** aktów
+Łącznie: **188** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -124,7 +124,6 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20102471652](WDU20102471652/index.md) | Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o podatku od towarów i us | Ustawa | obowiązujący | [tak](WDU20102471652/orzecznictwo.md) |
 | [WDU20102261478](WDU20102261478/index.md) | Ustawa z dnia 25 listopada 2010 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący | [tak](WDU20102261478/orzecznictwo.md) |
 | [WDU20102261476](WDU20102261476/index.md) | Ustawa z dnia 29 października 2010 r. o zmianie ustawy o podatku od towarów | Ustawa | obowiązujący | [tak](WDU20102261476/orzecznictwo.md) |
-| [WDU20102191442](WDU20102191442/index.md) | Ustawa z dnia 24 września 24 września 2010 r. o zmianie ustawy o podatku do | Ustawa | obowiązujący |  |
 | [WDU20101971306](WDU20101971306/index.md) | Ustawa z dnia 24 września 2010 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący |  |
 | [WDU20100750473](WDU20100750473/index.md) | Ustawa z dnia 18 marca 2010 r. o zmianie ustawy o podatku dochodowym od osó | Ustawa | obowiązujący |  |
 | [WDU20100570357](WDU20100570357/index.md) | Ustawa z dnia 19 lutego 2010 r. o zmianie ustawy o podatku od towarów i usł | Ustawa | obowiązujący |  |
@@ -179,7 +178,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20010160166](WDU20010160166/index.md) | Ustawa z dnia 3 lutego 2001 r. o zmianie ustawy o nabywaniu nieruchomości p | Ustawa | obowiązujący |  |
 | [WDU20001221324](WDU20001221324/index.md) | Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy o powszechnym ubezpieczen | Ustawa | obowiązujący |  |
 | [WDU20001221315](WDU20001221315/index.md) | Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o postępowaniu egzekucyjny | Ustawa | obowiązujący | [tak](WDU20001221315/orzecznictwo.md) |
-| [WDU20001041104](WDU20001041104/index.md) | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący | [tak](WDU20001041104/orzecznictwo.md) |
+| [WDU20001041104](WDU20001041104/index.md) | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
 | [WDU20000600700](WDU20000600700/index.md) | Ustawa z dnia 9 czerwca 2000 r. o zmianie ustawy o podatku dochodowym od os | Ustawa | obowiązujący |  |
 | [WDU19990951101](WDU19990951101/index.md) | Ustawa z dnia 20 listopada 1999 r. o zmianie ustawy o podatku dochodowym od | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19990951101/orzecznictwo.md) |
 | [WDU19981440931](WDU19981440931/index.md) | Ustawa z dnia 20 listopada 1998 r. o zmianie ustawy o podatku dochodowym od | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19981440931/orzecznictwo.md) |
@@ -191,10 +190,9 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU19961370639](WDU19961370639/index.md) | Ustawa z dnia 21 listopada 1996 r. o zmianie ustawy o podatku dochodowym od | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19961370638](WDU19961370638/index.md) | Ustawa z dnia 21 listopada 1996 r. o zmianie ustawy o podatku dochodowym od | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19961370638/orzecznictwo.md) |
 | [WDU19951420704](WDU19951420704/index.md) | Ustawa z dnia 13 października 1995 r. o zmianie ustawy o podatku dochodowym | Ustawa | obowiązujący |  |
-| [WDU19950960478](WDU19950960478/index.md) | Ustawa z dnia 8 czerwca 1995 r. o zmianie ustawy o działalności ubezpieczen | Ustawa | obowiązujący |  |
 | [WDU19941260626](WDU19941260626/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 19 listopada 1994 r. | Obwieszczenie | obowiązujący |  |
 | [WDU19940870406](WDU19940870406/index.md) | Ustawa z dnia 28 maja 1994 r. o zmianie ustawy o podatku dochodowym od osób | Ustawa | obowiązujący |  |
 | [WDU19920210086](WDU19920210086/index.md) | Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych | Ustawa | akt posiada tekst jednolity | [tak](WDU19920210086/orzecznictwo.md) |
 | [WDU19910800350](WDU19910800350/index.md) | Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910800350/orzecznictwo.md) |
 
-*190 aktów • [← Powrót do spisu głównego](../README.md)*
+*188 aktów • [← Powrót do spisu głównego](../README.md)*

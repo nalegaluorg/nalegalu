@@ -32,17 +32,9 @@ source: pdf
 poz. 2456) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 marca 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 3 ustawy z dnia 24 marca 2022 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U.
-poz. 975), który stanowi: „Art. 3. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2022 r., z wyjątkiem art. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-2) art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi: „Art. 45. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 i art. 30, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
-2) art. 25 i art. 42, które wchodzą w życie po upływie 6 tygodni od dnia ogłoszenia;
-3) art. 27 i art. 43, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-4) art. 28, który wchodzi w życie z dniem 1 sierpnia 2022 r.”;
-3) art. 12 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), który stanowi: „Art. 12. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 1 i 2, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
-2) art. 5 pkt 2, pkt 6 lit. a, pkt 8, pkt 9, pkt 10 lit. a, pkt 12, pkt 15–17 i pkt 20, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
-3) art. 5 pkt 5 i pkt 11 lit. a oraz art. 8, które wchodzą w życie z dniem 1 stycznia 2025 r.”.
-Marszałek Sejmu: E. Witek
+poz. 975), który stanowi: „ Art. 3. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2022 r., z wyjątkiem art. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) art. 45 ustawy z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych (Dz. U. poz. 1561), który stanowi: „ Art. 45. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 i art. 30, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia; 2) art. 25 i art. 42, które wchodzą w życie po upływie 6 tygodni od dnia ogłoszenia; 3) art. 27 i art. 43, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 4) art. 28, który wchodzi w życie z dniem 1 sierpnia 2022 r.”;
+3) art. 12 ustawy z dnia 29 września 2022 r. o zmianie niektórych ustaw wspierających poprawę warunków mieszkaniowych (Dz. U. poz. 2456), który stanowi: „ Art. 12. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem: 1) art. 1 pkt 1 i 2, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia; 2) art. 5 pkt 2, pkt 6 lit. a, pkt 8, pkt 9, pkt 10 lit. a, pkt 12, pkt 15–17 i pkt 20, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia; 3) art. 5 pkt 5 i pkt 11 lit. a oraz art. 8, które wchodzą w życie z dniem 1 stycznia 2025 r.”. Marszałek Sejmu: E. Witek
 USTAWA z dnia 21 czerwca 2001 r.
 o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego
 

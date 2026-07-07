@@ -8,10 +8,10 @@ pos: 865
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o odpadach wydobywczych
+# Ustawa z dnia 10 lipca 2008 r. o odpadach wydobywczych
 
 *USTAWA z dnia 10 lipca 2008 r.*
 
@@ -24,10 +24,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-10 |
 | Data wydania | 2008-07-31 |
+| Wejście w życie | 2008-08-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081380865) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/865/text.pdf) |
-
-Art. 48–52. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -44,9 +43,7 @@ Art. 48–52. (pominięte)
 
 3. W sprawach dotyczących postępowania z odpadami wydobywczymi w zakresie nieuregulowanym w ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, 1250 i 1726), z wyjątkiem działu II rozdziału 7 i działu VIII rozdziału 1.
 
-4. W sprawach dotyczących postępowania z odpadami wydobywczymi będącymi odpadami promieniotwórczymi stosuje się przepisy ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 1941 oraz z 2022 r. poz.
-
-- **974)** .
+4. W sprawach dotyczących postępowania z odpadami wydobywczymi będącymi odpadami promieniotwórczymi stosuje się przepisy ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 1941 oraz z 2022 r. poz. 974).
 
 **Art. 2.**
 
@@ -449,6 +446,11 @@ Art. 48–52. (pominięte)
 
 **Art. 20.** Właściwy organ odmówi wydania zezwolenia na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych, jeżeli zamierzony sposób prowadzenia obiektu unieszkodliwiania odpadów wydobywczych:
 
+- **1)** jest sprzeczny z wymaganiami przepisów o odpadach;
+- **2)** mógłby powodować zagrożenie dla życia i zdrowia ludzi lub zagrożenie dla środowiska;
+- **3)** jest sprzeczny z programem gospodarowania odpadami wydobywczymi;
+- **4)** jest sprzeczny z planami gospodarki odpadami, o których mowa w ustawie z dnia 27 kwietnia 2001 r. o odpadach .
+
 **Art. 21.**
 
 1. Jeżeli posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych narusza przepisy ustawy lub działa niezgodnie z zezwoleniem na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych, właściwy organ wzywa go do niezwłocznego zaniechania naruszeń.
@@ -478,6 +480,12 @@ Art. 48–52. (pominięte)
 4. Posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych, w którym są składowane odpady zawierające części palne, jest obowiązany do stosowania środków technicznych zapobiegających powstawaniu pożarów.
 
 **Art. 25.** Lokalizacja obiektu unieszkodliwiania odpadów wydobywczych powinna uwzględniać zakazy i ograniczenia wynikające w szczególności z następujących ustaw:
+
+- **1)** ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2021 r. poz. 1326 i 2163);
+- **2)** ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+- **3)** ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm. );
+- **4)** ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916 i 1726);
+- **5)** ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2021 r. poz. 1301).
 
 **Art. 26.**
 
@@ -657,6 +665,11 @@ Art. 48–52. (pominięte)
 
 **Art. 35.** Wewnętrzny plan operacyjno-ratowniczy, o którym mowa w art. 36 ust. 2, oraz zewnętrzny plan operacyjno-ratowniczy, o którym mowa w art. 37 ust. 1, ma na celu:
 
+- **1)** zapobieganie i kontrolowanie poważnych wypadków i innych niebezpiecznych zdarzeń tak, aby zmniejszyć ich skutki oraz, w szczególności, ograniczyć szkody dla zdrowia i życia ludzi oraz dla środowiska;
+- **2)** wprowadzenie środków niezbędnych do ochrony zdrowia i życia ludzi oraz środowiska przed skutkami poważnych wypadków i innych niebezpiecznych zdarzeń;
+- **3)** przekazanie niezbędnych informacji społeczeństwu oraz właściwym służbom i organom;
+- **4)** podjęcie działań i czynności zmierzających do ograniczenia oddziaływania na środowisko lub przywrócenia środowiska do właściwego stanu.
+
 **Art. 36.**
 
 1. Posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych kategorii A jest obowiązany do zaprojektowania, wyboru lokalizacji, budowy, prowadzenia i zamknięcia obiektu unieszkodliwiania odpadów wydobywczych kategorii A w sposób zapobiegający wystąpieniu poważnego wypadku oraz ograniczający jego niekorzystne skutki dla życia, zdrowia ludzi lub środowiska, w tym zapobiegający transgranicznemu oddziaływaniu.
@@ -798,6 +811,8 @@ Art. 48–52. (pominięte)
 
 #### Rozdział 10 Zmiany w przepisach obowiązujących
 
+**Art. 48–52.** (pominięte)
+
 #### Rozdział 11 Przepisy przejściowe i końcowe
 
 **Art. 53.**
@@ -817,6 +832,10 @@ Art. 48–52. (pominięte)
 3. Posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych jest obowiązany dostosować się do wymagań dotyczących gwarancji finansowych do dnia 1 maja 2014 r.
 
 **Art. 55.** Posiadacz odpadów prowadzący obiekt unieszkodliwiania odpadów wydobywczych, który prowadził działalność w dniu poprzedzającym dzień wejścia w życie ustawy jest obowiązany wykazać w ocenie ryzyka obiektu unieszkodliwiania odpadów wydobywczych, że stężenie cyjanku dysocjującego w słabym kwasie w miejscu zrzutu odpadów przeróbczych do stawu osadowego nie przekracza:
+
+- **1)** 50 ppm – od dnia wejścia w życie ustawy;
+- **2)** 25 ppm – od dnia 1 maja 2013 r.;
+- **3)** 10 ppm – od dnia 1 maja 2018 r.
 
 **Art. 56.**
 
@@ -860,7 +879,21 @@ Art. 48–52. (pominięte)
 
 2. Spis, o którym mowa w art. 44 ust. 3, publikuje się po raz pierwszy w Biuletynie Informacji Publicznej, na stronie podmiotowej organu, do dnia 1 maja 2012 r.
 
-**Art. 61.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem art. 2 ust. 1 pkt 4, art. 26 ust. 3 oraz art. 51, które wchodzą w życie z dniem 1 maja 2012 r. Załączniki do ustawy z dnia 10 lipca 2008 r. (Dz. U. z 2022 r. poz.
+**Art. 61.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem art. 2 ust. 1 pkt 4, art. 26 ust. 3 oraz art. 51, które wchodzą w życie z dniem 1 maja 2012 r.
+
+## Załączniki do ustawy z dnia 10 lipca 2008 r.
+
+(Dz. U. z 2022 r. poz. 2336) Załącznik nr 1 SYSTEM ZARZĄDZANIA BEZPIECZEŃSTWEM W celu wprowadzenia systemu zarządzania bezpieczeństwem wdrażającego politykę zapobiegania poważnym wypadkom należy wziąć pod uwagę następujące elementy:
+1) politykę zapobiegania poważnym wypadkom, która powinna obejmować ogólne cele oraz zasady działania posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych kategorii A w odniesieniu do kontroli ryzyka wystąpienia poważnych wypadków;
+2) system zarządzania bezpieczeństwem, który powinien obejmować część ogólnego systemu zarządzania, zawierającego strukturę organizacyjną, zakres odpowiedzialności, praktyki, procedury, procesy i zasoby konieczne do określenia i wprowadzenia w życie polityki zapobiegania poważnym wypadkom;
+3) system zarządzania bezpieczeństwem uwzględniający następujące zagadnienia:
+a) rola i obowiązki personelu zarządzającego poważnym ryzykiem na wszystkich poziomach organizacji; określenie potrzeb szkoleniowych takiego personelu oraz zapewnienie takich szkoleń, oraz zaangażowanie pracowników, a w szczególnych przypadkach podwykonawców,
+b) przyjęcie i wprowadzenie w życie procedur systematycznego określenia poważnego ryzyka wynikającego z prawidłowego i nieprawidłowego działania oraz ocena prawdopodobieństwa ich wystąpienia i dotkliwości,
+c) przyjęcie i wprowadzenie w życie procedur i instrukcji bezpiecznego funkcjonowania, z uwzględnieniem utrzymania zakładu, procesów w nim zachodzących, sprzętu oraz tymczasowych przerw w jego funkcjonowaniu,
+d) przyjęcie i wprowadzanie w życie procedur dotyczących planowanych zmian lub tworzenia nowych obiektów unieszkodliwiania odpadów wydobywczych,
+e) przyjęcie i wprowadzenie w życie procedur dotyczących identyfikacji przewidywalnych sytuacji awaryjnych w drodze systematycznej analizy oraz przygotowanie, testowanie i przegląd planów awaryjnych mających na celu szybką reakcję na takie sytuacje,
+f) przyjęcie i wprowadzenie w życie procedur w celu zapewnienia stałej oceny zgodności systemu zarządzania bezpieczeństwem z polityką zapobiegania poważnym wypadkom opracowaną przez posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych kategorii A, oraz procedur badania i podejmowania odpowiednich działań w przypadku braku takiej zgodności; procedury te powinny obejmować przyjęty przez posiadacza odpadów prowadzącego obiekt unieszkodliwiania odpadów wydobywczych kategorii A system zgłaszania poważnych wypadków lub sytuacji niebezpiecznych, szczególnie tych związanych z przypadkami braku działania środków ochronnych oraz ich badaniem i środkami podjętymi w oparciu o wcześniej wyciągnięte wnioski,
+g) przyjęcie i wprowadzenie w życie procedur systematycznej, okresowej oceny polityki zapobiegania poważnym wypadkom oraz przydatności do określonego celu systemu zarządzania bezpieczeństwem; przegląd dokumentów dotyczących działania wspomnianej polityki i systemu zarządzania bezpieczeństwem oraz ich uaktualnianie przez kierownictwo wyższego szczebla.
 
 ## Załącznik nr 2 — INFORMACJA PRZEKAZYWANA ZAINTERESOWANEJ SPOŁECZNOŚCI Informacje opracowywane przez właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej, które mają być przekazane zainteresowanej społeczności, obejmują:
 

@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Inne**.
 
-Łącznie: **18107** aktów
+Łącznie: **17826** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -55,7 +55,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20260000618](WDU20260000618/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000616](WDU20260000616/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 13 kwietnia 2026 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20260000615](WDU20260000615/index.md) | Ustawa z dnia 13 marca 2026 r. o zmianie ustawy o sporcie | Ustawa | obowiązujący |  |
-| [WDU20260000614](WDU20260000614/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000612](WDU20260000612/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000611](WDU20260000611/index.md) | Obwieszczenie Ministra Obrony Narodowej z dnia 20 kwietnia 2026 r. w sprawi | Obwieszczenie | obowiązujący |  |
 | [WDU20260000610](WDU20260000610/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 kwietnia  | Obwieszczenie | obowiązujący |  |
@@ -68,7 +67,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20260000594](WDU20260000594/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 23 kwietnia 2026 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20260000593](WDU20260000593/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 26 kwietnia 2026 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20260000591](WDU20260000591/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 kwietnia  | Obwieszczenie | obowiązujący |  |
-| [WDU20260000590](WDU20260000590/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000584](WDU20260000584/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000583](WDU20260000583/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000574](WDU20260000574/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 kwietnia  | Obwieszczenie | obowiązujący |  |
@@ -86,14 +84,12 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20260000542](WDU20260000542/index.md) | Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o wykonywaniu mandatu posł | Ustawa | obowiązujący |  |
 | [WDU20260000541](WDU20260000541/index.md) | Obwieszczenie Ministra Zdrowia z dnia 14 kwietnia 2026 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
 | [WDU20260000536](WDU20260000536/index.md) | Obwieszczenie Ministra Funduszy i Polityki Regionalnej z dnia 10 kwietnia 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20260000532](WDU20260000532/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000529](WDU20260000529/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000526](WDU20260000526/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000522](WDU20260000522/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000521](WDU20260000521/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000520](WDU20260000520/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 30 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000517](WDU20260000517/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 10 kwietnia 2026 r. w sprawie | Obwieszczenie | obowiązujący |  |
-| [WDU20260000515](WDU20260000515/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000511](WDU20260000511/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000508](WDU20260000508/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000507](WDU20260000507/index.md) | Ustawa z dnia 13 marca 2026 r. o zmianie ustawy o Centralnej Ewidencji i In | Ustawa | obowiązujący |  |
@@ -136,7 +132,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20260000393](WDU20260000393/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000384](WDU20260000384/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000383](WDU20260000383/index.md) | Obwieszczenie Ministra Zdrowia z dnia 23 stycznia 2026 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
-| [WDU20260000377](WDU20260000377/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000375](WDU20260000375/index.md) | Obwieszczenie Ministra Zdrowia z dnia 9 marca 2026 r. w sprawie ogłoszenia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000373](WDU20260000373/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 12 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000370](WDU20260000370/index.md) | Ustawa z dnia 27 lutego 2026 r. o zmianie ustawy - Prawo o ustroju sądów po | Ustawa | obowiązujący |  |
@@ -198,7 +193,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20260000159](WDU20260000159/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000158](WDU20260000158/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 lutego 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000157](WDU20260000157/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 202 | Obwieszczenie | obowiązujący |  |
-| [WDU20260000156](WDU20260000156/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000153](WDU20260000153/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 5 lutego 2026 r. w sprawie og | Obwieszczenie | obowiązujący |  |
 | [WDU20260000151](WDU20260000151/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000150](WDU20260000150/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 27 stycznia 2026 r. w sprawie | Obwieszczenie | obowiązujący |  |
@@ -219,7 +213,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20260000102](WDU20260000102/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000101](WDU20260000101/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000096](WDU20260000096/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia  | Obwieszczenie | obowiązujący |  |
-| [WDU20260000095](WDU20260000095/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000094](WDU20260000094/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000091](WDU20260000091/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000090](WDU20260000090/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia  | Obwieszczenie | obowiązujący |  |
@@ -313,7 +306,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250001759](WDU20250001759/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20250001756](WDU20250001756/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 grudnia 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20250001754](WDU20250001754/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada | Obwieszczenie | obowiązujący |  |
-| [WDU20250001753](WDU20250001753/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 listopada | Obwieszczenie | obowiązujący |  |
 | [WDU20250001750](WDU20250001750/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | obowiązujący |  |
 | [WDU20250001749](WDU20250001749/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | obowiązujący |  |
 | [WDU20250001746](WDU20250001746/index.md) | Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o rehabilitacji zawodow | Ustawa | obowiązujący |  |
@@ -340,7 +332,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250001696](WDU20250001696/index.md) | Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o ochronie zwierząt | Ustawa | obowiązujący |  |
 | [WDU20250001694](WDU20250001694/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada | Obwieszczenie | obowiązujący |  |
 | [WDU20250001693](WDU20250001693/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | obowiązujący |  |
-| [WDU20250001688](WDU20250001688/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | obowiązujący |  |
 | [WDU20250001685](WDU20250001685/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | obowiązujący |  |
 | [WDU20250001683](WDU20250001683/index.md) | Obwieszczenie Ministra Finansów i Gospodarki z dnia 18 listopada 2025 r. w  | Obwieszczenie | obowiązujący |  |
 | [WDU20250001682](WDU20250001682/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 listopada | Obwieszczenie | obowiązujący |  |
@@ -397,7 +388,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250001533](WDU20250001533/index.md) | Ustawa z dnia 26 września 2025 r. zmieniająca ustawę o zmianie ustawy - Pra | Ustawa | obowiązujący |  |
 | [WDU20250001532](WDU20250001532/index.md) | Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 27 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20250001531](WDU20250001531/index.md) | Ustawa z dnia 24 września 2025 r. o zmianie ustawy o Centralnym Porcie Komu | Ustawa | obowiązujący |  |
-| [WDU20250001529](WDU20250001529/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20250001526](WDU20250001526/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20250001519](WDU20250001519/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20250001507](WDU20250001507/index.md) | Ustawa z dnia 12 września 2025 r. o zmianie ustawy o sporcie | Ustawa | akt objęty tekstem jednolitym |  |
@@ -611,7 +601,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20250000806](WDU20250000806/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000803](WDU20250000803/index.md) | Obwieszczenie Ministra Obrony Narodowej z dnia 11 czerwca 2025 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20250000799](WDU20250000799/index.md) | Ustawa z dnia 21 maja 2025 r. o zmianie ustawy o ochronie zdrowia przed nas | Ustawa | obowiązujący |  |
-| [WDU20250000798](WDU20250000798/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000797](WDU20250000797/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000794](WDU20250000794/index.md) | Ustawa z dnia 9 maja 2025 r. o zmianie niektórych ustaw w celu zapewnienia  | Ustawa | obowiązujący |  |
 | [WDU20250000783](WDU20250000783/index.md) | Obwieszczenie Ministra Nauki i Szkolnictwa Wyższego z dnia 2 czerwca 2025 r | Obwieszczenie | obowiązujący |  |
@@ -1046,9 +1035,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001755](WDU20240001755/index.md) | Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o szczególnych rozwiązan | Ustawa | obowiązujący |  |
 | [WDU20240001753](WDU20240001753/index.md) | Rozporządzenie Ministra Sportu i Turystyki z dnia 27 listopada 2024 r. w sp | Rozporządzenie | obowiązujący |  |
 | [WDU20240001752](WDU20240001752/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 28 listopada 2024 r. w sprawie  | Obwieszczenie | obowiązujący |  |
-| [WDU20240001751](WDU20240001751/index.md) | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 15 listo | Obwieszczenie | obowiązujący |  |
 | [WDU20240001750](WDU20240001750/index.md) | Rozporządzenie Ministra Finansów z dnia 17 listopada 2024 r. w sprawie uzna | Rozporządzenie | obowiązujący |  |
-| [WDU20240001749](WDU20240001749/index.md) | Obwieszczenie Ministra Infrastruktury z dnia 13 listopada 2024 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20240001748](WDU20240001748/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 listopada 2024 r. | Rozporządzenie | obowiązujący |  |
 | [WDU20240001747](WDU20240001747/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 listopada | Obwieszczenie | obowiązujący |  |
 | [WDU20240001745](WDU20240001745/index.md) | Rozporządzenie Ministra Aktywów Państwowych z dnia 21 listopada 2024 r. zmi | Rozporządzenie | obowiązujący |  |
@@ -1058,7 +1045,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001740](WDU20240001740/index.md) | Obwieszczenie Ministra Infrastruktury z dnia 13 listopada 2024 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20240001738](WDU20240001738/index.md) | Rozporządzenie Ministra Zdrowia z dnia 22 listopada 2024 r. w sprawie ilośc | Rozporządzenie | obowiązujący |  |
 | [WDU20240001737](WDU20240001737/index.md) | Rozporządzenie Rady Ministrów z dnia 26 listopada 2024 r. zmieniające rozpo | Rozporządzenie | obowiązujący |  |
-| [WDU20240001736](WDU20240001736/index.md) | Obwieszczenie Ministra Infrastruktury z dnia 7 listopada 2024 r. w sprawie  | Obwieszczenie | obowiązujący |  |
 | [WDU20240001735](WDU20240001735/index.md) | Rozporządzenie Ministra Finansów z dnia 12 listopada 2024 r. w sprawie tryb | Rozporządzenie | obowiązujący |  |
 | [WDU20240001733](WDU20240001733/index.md) | Obwieszczenie Ministra Zdrowia z dnia 18 listopada 2024 r. w sprawie ogłosz | Obwieszczenie | obowiązujący |  |
 | [WDU20240001732](WDU20240001732/index.md) | Rozporządzenie Rady Ministrów z dnia 20 listopada 2024 r. zmieniające rozpo | Rozporządzenie | obowiązujący |  |
@@ -1093,7 +1079,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001699](WDU20240001699/index.md) | Obwieszczenie Ministra Zdrowia z dnia 6 listopada 2024 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
 | [WDU20240001698](WDU20240001698/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 12 listopada 2024 r. zmieniaj | Rozporządzenie | obowiązujący |  |
 | [WDU20240001697](WDU20240001697/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 listopada 2024 r. | Rozporządzenie | obowiązujący |  |
-| [WDU20240001696](WDU20240001696/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada  | Obwieszczenie | obowiązujący |  |
 | [WDU20240001694](WDU20240001694/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 listopada 2024 r. | Rozporządzenie | obowiązujący |  |
 | [WDU20240001693](WDU20240001693/index.md) | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 13 list | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001692](WDU20240001692/index.md) | Ustawa z dnia 11 października 2024 r. o zmianie ustawy o ochronie przeciwpo | Ustawa | obowiązujący |  |
@@ -1211,7 +1196,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001545](WDU20240001545/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 11 października 2024 r. w spr | Obwieszczenie | obowiązujący |  |
 | [WDU20240001544](WDU20240001544/index.md) | Ustawa z dnia 25 września 2024 r. o zmianie ustawy o delegowaniu kierowców  | Ustawa | obowiązujący |  |
 | [WDU20240001543](WDU20240001543/index.md) | Rozporządzenie Ministra Zdrowia z dnia 10 października 2024 r. zmieniające  | Rozporządzenie | obowiązujący |  |
-| [WDU20240001541](WDU20240001541/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20240001540](WDU20240001540/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 7 października 2024 r. zmieni | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001538](WDU20240001538/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 paździer | Obwieszczenie | obowiązujący |  |
 | [WDU20240001537](WDU20240001537/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 11 października 2024 r. zmie | Rozporządzenie | obowiązujący |  |
@@ -1225,7 +1209,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001522](WDU20240001522/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 października 2024 | Rozporządzenie | obowiązujący |  |
 | [WDU20240001516](WDU20240001516/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 29 września 2024 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20240001515](WDU20240001515/index.md) | Rozporządzenie Ministra Cyfryzacji z dnia 7 października 2024 r. w sprawie  | Rozporządzenie | obowiązujący |  |
-| [WDU20240001513](WDU20240001513/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20240001512](WDU20240001512/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20240001511](WDU20240001511/index.md) | Obwieszczenie Ministra Finansów z dnia 2 października 2024 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
 | [WDU20240001510](WDU20240001510/index.md) | Rozporządzenie Ministra Finansów z dnia 9 października 2024 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -1418,7 +1401,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001262](WDU20240001262/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 19 sierpnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20240001261](WDU20240001261/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 sierpnia 2024 r. w | Rozporządzenie | obowiązujący |  |
 | [WDU20240001257](WDU20240001257/index.md) | Rozporządzenie Ministra Zdrowia z dnia 12 sierpnia 2024 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20240001256](WDU20240001256/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 19 lipca 2024 r. w sprawie og | Obwieszczenie | obowiązujący |  |
 | [WDU20240001255](WDU20240001255/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 6 sierpnia 2024 r. w sp | Rozporządzenie | obowiązujący |  |
 | [WDU20240001254](WDU20240001254/index.md) | Ustawa z dnia 26 lipca 2024 r. o zmianie ustawy o prawie autorskim i prawac | Ustawa | obowiązujący |  |
 | [WDU20240001252](WDU20240001252/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 11 sierpnia 2024 r. zmieniaj | Rozporządzenie | obowiązujący |  |
@@ -1552,7 +1534,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001076](WDU20240001076/index.md) | Rozporządzenie Ministra Cyfryzacji z dnia 17 lipca 2024 r. w sprawie rodzaj | Rozporządzenie | obowiązujący |  |
 | [WDU20240001075](WDU20240001075/index.md) | Rozporządzenie Ministra Zdrowia z dnia 16 lipca 2024 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001074](WDU20240001074/index.md) | Rozporządzenie Rady Ministrów z dnia 16 lipca 2024 r. zmieniające rozporząd | Rozporządzenie | obowiązujący |  |
-| [WDU20240001073](WDU20240001073/index.md) | Obwieszczenie Ministra Obrony Narodowej z dnia 27 czerwca 2024 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20240001072](WDU20240001072/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 lipca 2024 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001071](WDU20240001071/index.md) | Rozporządzenie Rady Ministrów z dnia 12 lipca 2024 r. zmieniające rozporząd | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001070](WDU20240001070/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 12 lipca 2024 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -1565,7 +1546,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001060](WDU20240001060/index.md) | Rozporządzenie Rady Ministrów z dnia 8 lipca 2024 r. zmieniające rozporządz | Rozporządzenie | obowiązujący |  |
 | [WDU20240001059](WDU20240001059/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 26 czerwca 2024 r. w spr | Obwieszczenie | obowiązujący |  |
 | [WDU20240001058](WDU20240001058/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 26 czerwca 2024 r. w sp | Rozporządzenie | obowiązujący |  |
-| [WDU20240001057](WDU20240001057/index.md) | Obwieszczenie Ministra Obrony Narodowej z dnia 27 czerwca 2024 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20240001056](WDU20240001056/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 15 lipca 2024 r. w sprawie okr | Rozporządzenie | obowiązujący |  |
 | [WDU20240001055](WDU20240001055/index.md) | Rozporządzenie Ministra Zdrowia z dnia 4 lipca 2024 r. zmieniające rozporzą | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240001053](WDU20240001053/index.md) | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 11 lipc | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -1597,7 +1577,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240001020](WDU20240001020/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 5 lipca 2024 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20240001018](WDU20240001018/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 26 czerwca 2024 r. w sp | Rozporządzenie | obowiązujący |  |
 | [WDU20240001017](WDU20240001017/index.md) | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 24 czer | Rozporządzenie | obowiązujący |  |
-| [WDU20240001016](WDU20240001016/index.md) | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 26 czerw | Obwieszczenie | obowiązujący |  |
 | [WDU20240001015](WDU20240001015/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 25 czerwca 2024 r. w sprawie  | Obwieszczenie | obowiązujący |  |
 | [WDU20240001013](WDU20240001013/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 26 czerwca 2024 r. w spr | Obwieszczenie | obowiązujący |  |
 | [WDU20240001012](WDU20240001012/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 26 czerwca 2024 r. w spr | Obwieszczenie | obowiązujący |  |
@@ -1725,7 +1704,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000848](WDU20240000848/index.md) | Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 4 czerwca 20 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000847](WDU20240000847/index.md) | Rozporządzenie Ministra Finansów z dnia 5 czerwca 2024 r. w sprawie zaniech | Rozporządzenie | obowiązujący |  |
 | [WDU20240000846](WDU20240000846/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 1 czerwca 2024 r. w sprawie o | Obwieszczenie | obowiązujący |  |
-| [WDU20240000845](WDU20240000845/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000843](WDU20240000843/index.md) | Rozporządzenie Ministra Zdrowia z dnia 3 czerwca 2024 r. zmieniające rozpor | Rozporządzenie | obowiązujący |  |
 | [WDU20240000842](WDU20240000842/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 6 czerwca 2024 r. zmieniające  | Rozporządzenie | obowiązujący |  |
 | [WDU20240000841](WDU20240000841/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 6 czerwca 2024 r. zmieniające  | Rozporządzenie | obowiązujący |  |
@@ -1887,7 +1865,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000608](WDU20240000608/index.md) | Rozporządzenie Ministra Finansów z dnia 18 kwietnia 2024 r. w sprawie zanie | Rozporządzenie | obowiązujący |  |
 | [WDU20240000606](WDU20240000606/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 kwietnia 2024 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20240000602](WDU20240000602/index.md) | Obwieszczenie Ministra Infrastruktury z dnia 10 kwietnia 2024 r. w sprawie  | Obwieszczenie | obowiązujący |  |
-| [WDU20240000601](WDU20240000601/index.md) | Obwieszczenie Ministra Finansów z dnia 21 marca 2024 r. w sprawie ogłoszeni | Obwieszczenie | obowiązujący |  |
 | [WDU20240000600](WDU20240000600/index.md) | Rozporządzenie Ministra Edukacji z dnia 16 kwietnia 2024 r. zmieniające roz | Rozporządzenie | obowiązujący |  |
 | [WDU20240000599](WDU20240000599/index.md) | Rozporządzenie Rady Ministrów z dnia 4 kwietnia 2024 r. w sprawie wykazu st | Rozporządzenie | obowiązujący |  |
 | [WDU20240000598](WDU20240000598/index.md) | Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 17 kwietnia  | Rozporządzenie | obowiązujący |  |
@@ -1954,7 +1931,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000501](WDU20240000501/index.md) | Rozporządzenie Ministra Spraw Zagranicznych z dnia 28 marca 2024 r. zmienia | Rozporządzenie | obowiązujący |  |
 | [WDU20240000499](WDU20240000499/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000496](WDU20240000496/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 marca 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20240000495](WDU20240000495/index.md) | Obwieszczenie Ministra Zdrowia z dnia 21 marca 2024 r. w sprawie ogłoszenia | Obwieszczenie | obowiązujący |  |
 | [WDU20240000494](WDU20240000494/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 marca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000493](WDU20240000493/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 marca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000492](WDU20240000492/index.md) | Ustawa z dnia 7 marca 2024 r. o zmianie zakresu obowiązywania Traktatu o ko | Ustawa | obowiązujący |  |
@@ -1989,13 +1965,11 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000460](WDU20240000460/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 20 marca 20 | Rozporządzenie | obowiązujący |  |
 | [WDU20240000456](WDU20240000456/index.md) | Rozporządzenie Ministra Zdrowia z dnia 19 marca 2024 r. w sprawie kursów up | Rozporządzenie | obowiązujący |  |
 | [WDU20240000455](WDU20240000455/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 22 marca 2024 r. w sprawie ogło | Obwieszczenie | obowiązujący |  |
-| [WDU20240000452](WDU20240000452/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 marca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000451](WDU20240000451/index.md) | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 25 marc | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000448](WDU20240000448/index.md) | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 25 marc | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000447](WDU20240000447/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 marca  | Rozporządzenie | obowiązujący |  |
 | [WDU20240000446](WDU20240000446/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 marca  | Rozporządzenie | obowiązujący |  |
 | [WDU20240000445](WDU20240000445/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 marca  | Rozporządzenie | obowiązujący |  |
-| [WDU20240000443](WDU20240000443/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 marca 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000442](WDU20240000442/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000439](WDU20240000439/index.md) | Obwieszczenie Ministra Obrony Narodowej z dnia 15 marca 2024 r. w sprawie o | Obwieszczenie | obowiązujący |  |
 | [WDU20240000438](WDU20240000438/index.md) | Rozporządzenie Ministra Edukacji z dnia 22 marca 2024 r. zmieniające rozpor | Rozporządzenie | obowiązujący |  |
@@ -2014,7 +1988,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000420](WDU20240000420/index.md) | Rozporządzenie Ministra Zdrowia z dnia 13 marca 2024 r. w sprawie substancj | Rozporządzenie | obowiązujący |  |
 | [WDU20240000417](WDU20240000417/index.md) | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 marc | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000416](WDU20240000416/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 202 | Obwieszczenie | obowiązujący |  |
-| [WDU20240000414](WDU20240000414/index.md) | Ustawa z dnia 22 lutego 2024 r. o zmianie ustawy o Krajowej Sieci Onkologic | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20240000411](WDU20240000411/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 marca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000408](WDU20240000408/index.md) | Obwieszczenie Ministra Finansów z dnia 5 marca 2024 r. w sprawie ogłoszenia | Obwieszczenie | obowiązujący |  |
 | [WDU20240000404](WDU20240000404/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 14 marca 2024 r. w sprawie  | Rozporządzenie | obowiązujący |  |
@@ -2034,7 +2007,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000385](WDU20240000385/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 11 marca 2024 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20240000382](WDU20240000382/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 11 marca 2024 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20240000381](WDU20240000381/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2024 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20240000380](WDU20240000380/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000378](WDU20240000378/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2024 r. zmi | Rozporządzenie | obowiązujący |  |
 | [WDU20240000377](WDU20240000377/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000371](WDU20240000371/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 7 marca 2024 r. w sprawie s | Rozporządzenie | obowiązujący |  |
@@ -2076,7 +2048,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000317](WDU20240000317/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000316](WDU20240000316/index.md) | Rozporządzenie Ministra Finansów z dnia 23 lutego 2024 r. w sprawie postępo | Rozporządzenie | obowiązujący |  |
 | [WDU20240000315](WDU20240000315/index.md) | Rozporządzenie Ministra Finansów z dnia 28 lutego 2024 r. w sprawie oświadc | Rozporządzenie | obowiązujący |  |
-| [WDU20240000314](WDU20240000314/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 lutego  | Obwieszczenie | obowiązujący |  |
 | [WDU20240000313](WDU20240000313/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 1 marca 2024 r. w sprawie C | Rozporządzenie | obowiązujący |  |
 | [WDU20240000311](WDU20240000311/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000310](WDU20240000310/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lutego 20 | Obwieszczenie | obowiązujący |  |
@@ -2085,7 +2056,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000305](WDU20240000305/index.md) | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 26 luteg | Obwieszczenie | obowiązujący |  |
 | [WDU20240000302](WDU20240000302/index.md) | Obwieszczenie Ministra Edukacji z dnia 2 lutego 2024 r. w sprawie ogłoszeni | Obwieszczenie | obowiązujący |  |
 | [WDU20240000301](WDU20240000301/index.md) | Rozporządzenie Rady Ministrów z dnia 1 marca 2024 r. zmieniające rozporządz | Rozporządzenie | obowiązujący |  |
-| [WDU20240000300](WDU20240000300/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 lutego 2024 r. sygn. akt SK 90/22 | Orzeczenie | obowiązujący |  |
 | [WDU20240000299](WDU20240000299/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lutego 2024 r. zm | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000294](WDU20240000294/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000292](WDU20240000292/index.md) | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych | Umowa międzynarodowa | obowiązujący |  |
@@ -2125,7 +2095,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000228](WDU20240000228/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2024 r. w  | Rozporządzenie | obowiązujący |  |
 | [WDU20240000227](WDU20240000227/index.md) | Ustawa z dnia 26 stycznia 2024 r. o zmianie ustawy o Narodowym Centrum Bada | Ustawa | obowiązujący |  |
 | [WDU20240000224](WDU20240000224/index.md) | Rozporządzenie Ministra Zdrowia z dnia 14 lutego 2024 r. zmieniające rozpor | Rozporządzenie | obowiązujący |  |
-| [WDU20240000219](WDU20240000219/index.md) | Obwieszczenie Ministra Rozwoju i Technologii z dnia 29 stycznia 2024 r. w s | Obwieszczenie | obowiązujący |  |
 | [WDU20240000218](WDU20240000218/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 14 lutego 2024 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
 | [WDU20240000217](WDU20240000217/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 lutego 2024 r. zm | Rozporządzenie | obowiązujący |  |
 | [WDU20240000216](WDU20240000216/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 lutego  | Obwieszczenie | obowiązujący |  |
@@ -2145,7 +2114,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000198](WDU20240000198/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 15 lutego 2024 r. w spr | Rozporządzenie | obowiązujący |  |
 | [WDU20240000197](WDU20240000197/index.md) | Rozporządzenie Ministra Finansów z dnia 14 lutego 2024 r. zmieniające rozpo | Rozporządzenie | obowiązujący |  |
 | [WDU20240000196](WDU20240000196/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 14 lutego 2024 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
-| [WDU20240000194](WDU20240000194/index.md) | Obwieszczenie Ministra Nauki z dnia 9 lutego 2024 r. w sprawie ogłoszenia j | Obwieszczenie | obowiązujący |  |
 | [WDU20240000193](WDU20240000193/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 lutego 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000192](WDU20240000192/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 13 lutego 2024 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
 | [WDU20240000191](WDU20240000191/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 13 lutego 2024 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
@@ -2205,8 +2173,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000101](WDU20240000101/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20240000100](WDU20240000100/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20240000099](WDU20240000099/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 21 stycznia 2024 r. w sp | Obwieszczenie | obowiązujący |  |
-| [WDU20240000096](WDU20240000096/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 stycznia 2024 r. sygn. akt K 29/2 | Orzeczenie | obowiązujący |  |
-| [WDU20240000095](WDU20240000095/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 stycznia 2024 r. sygn. akt K 23/2 | Orzeczenie | obowiązujący |  |
 | [WDU20240000094](WDU20240000094/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20240000093](WDU20240000093/index.md) | Rozporządzenie Ministra Finansów z dnia 22 stycznia 2024 r. zmieniające roz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20240000091](WDU20240000091/index.md) | Rozporządzenie Rady Ministrów z dnia 15 stycznia 2024 r. w sprawie realizac | Rozporządzenie | obowiązujący |  |
@@ -2259,7 +2225,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20240000019](WDU20240000019/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 8 grudnia 2023 r. w sprawie o | Obwieszczenie | obowiązujący |  |
 | [WDU20240000016](WDU20240000016/index.md) | Rozporządzenie Ministra Zdrowia z dnia 22 grudnia 2023 r. w sprawie wzorów  | Rozporządzenie | obowiązujący |  |
 | [WDU20240000015](WDU20240000015/index.md) | Obwieszczenie Ministra Edukacji z dnia 27 grudnia 2023 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
-| [WDU20240000014](WDU20240000014/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 listopada 2023 r.  | Obwieszczenie | obowiązujący |  |
 | [WDU20240000013](WDU20240000013/index.md) | Rozporządzenie Ministra Finansów z dnia 29 grudnia 2023 r. zmieniające rozp | Rozporządzenie | obowiązujący |  |
 | [WDU20240000012](WDU20240000012/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 grudnia 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20240000010](WDU20240000010/index.md) | Protokół zmieniający Umowę między Rzecząpospolitą Polską a Baliwatem Guerns | Umowa międzynarodowa | obowiązujący |  |
@@ -2289,7 +2254,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002804](WDU20230002804/index.md) | Rozporządzenie Ministra Zdrowia z dnia 27 grudnia 2023 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002803](WDU20230002803/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 7 grudnia 2023 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20230002801](WDU20230002801/index.md) | Rozporządzenie Ministra Zdrowia z dnia 27 grudnia 2023 r. w sprawie sposobu | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20230002800](WDU20230002800/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 grudnia 2023 r. sygn. akt SK 109/ | Orzeczenie | obowiązujący |  |
 | [WDU20230002797](WDU20230002797/index.md) | Rozporządzenie Ministra Finansów z dnia 22 grudnia 2023 r. w sprawie przesy | Rozporządzenie | obowiązujący |  |
 | [WDU20230002796](WDU20230002796/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 7 grudnia 2023 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20230002795](WDU20230002795/index.md) | Rozporządzenie Ministra Finansów z dnia 22 grudnia 2023 r. zmieniające rozp | Rozporządzenie | obowiązujący |  |
@@ -2332,11 +2296,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002744](WDU20230002744/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 listopada 2023 r.  | Obwieszczenie | obowiązujący |  |
 | [WDU20230002743](WDU20230002743/index.md) | Obwieszczenie Ministra Funduszy i Polityki Regionalnej z dnia 6 grudnia 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20230002742](WDU20230002742/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 4 grudnia 2023 r. w spra | Obwieszczenie | obowiązujący |  |
-| [WDU20230002741](WDU20230002741/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 grudnia 2023 r. sygn. akt SK 110/ | Orzeczenie | obowiązujący |  |
-| [WDU20230002740](WDU20230002740/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 grudnia 2023 r. sygn. akt P 12/22 | Orzeczenie | obowiązujący |  |
-| [WDU20230002739](WDU20230002739/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 grudnia 2023 r. sygn. akt P 20/19 | Orzeczenie | obowiązujący |  |
 | [WDU20230002736](WDU20230002736/index.md) | Obwieszczenie Ministra Edukacji i Nauki z dnia 4 grudnia 2023 r. w sprawie  | Obwieszczenie | obowiązujący |  |
-| [WDU20230002735](WDU20230002735/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 2023 r. sygn. akt K 8/21 | Orzeczenie | obowiązujący |  |
 | [WDU20230002734](WDU20230002734/index.md) | Rozporządzenie Ministra Zdrowia z dnia 7 grudnia 2023 r. w sprawie wzoru ka | Rozporządzenie | obowiązujący |  |
 | [WDU20230002733](WDU20230002733/index.md) | Rozporządzenie Ministra Zdrowia z dnia 6 grudnia 2023 r. w sprawie wzorów k | Rozporządzenie | obowiązujący |  |
 | [WDU20230002732](WDU20230002732/index.md) | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 11 grudnia 202 | Rozporządzenie | obowiązujący |  |
@@ -2358,7 +2318,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002701](WDU20230002701/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 grudnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20230002700](WDU20230002700/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 4 grudnia 2023 r. w spra | Obwieszczenie | obowiązujący |  |
 | [WDU20230002699](WDU20230002699/index.md) | Ustawa z dnia 12 grudnia 2023 r. o zmianie ustawy o doręczeniach elektronic | Ustawa | obowiązujący |  |
-| [WDU20230002698](WDU20230002698/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 5 grudnia 2023 r. sygn. akt P 2/17 | Orzeczenie | obowiązujący |  |
 | [WDU20230002697](WDU20230002697/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 8 grudnia 2023 r. w sprawie o | Obwieszczenie | obowiązujący |  |
 | [WDU20230002696](WDU20230002696/index.md) | Rozporządzenie Rady Ministrów z dnia 16 grudnia 2023 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002693](WDU20230002693/index.md) | Rozporządzenie Rady Ministrów z dnia 6 grudnia 2023 r. w sprawie wykonywani | Rozporządzenie | obowiązujący |  |
@@ -2432,7 +2391,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002611](WDU20230002611/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 27 listopada 202 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002610](WDU20230002610/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 listopada 2023 r. zmieniające roz | Rozporządzenie | obowiązujący |  |
 | [WDU20230002609](WDU20230002609/index.md) | Rozporządzenie Ministra Finansów z dnia 22 listopada 2023 r. zmieniające ro | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230002608](WDU20230002608/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 listopada 2023 r. sygn. akt K 17/ | Orzeczenie | obowiązujący |  |
 | [WDU20230002607](WDU20230002607/index.md) | Rozporządzenie Ministra Finansów z dnia 24 listopada 2023 r. zmieniające ro | Rozporządzenie | obowiązujący |  |
 | [WDU20230002604](WDU20230002604/index.md) | Rozporządzenie Ministra Aktywów Państwowych z dnia 24 listopada 2023 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002603](WDU20230002603/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 listopada 2023 r. zmieniające roz | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2511,7 +2469,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002494](WDU20230002494/index.md) | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 27 październik | Rozporządzenie | obowiązujący |  |
 | [WDU20230002493](WDU20230002493/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 listopada 2023 r. w  | Rozporządzenie | obowiązujący |  |
 | [WDU20230002491](WDU20230002491/index.md) | Umowa w zakresie bezpieczeństwa między Rządem Rzeczypospolitej Polskiej a O | Umowa międzynarodowa | obowiązujący |  |
-| [WDU20230002490](WDU20230002490/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 listopada 2023 r. sygn. akt P 7/2 | Orzeczenie | obowiązujący |  |
 | [WDU20230002489](WDU20230002489/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 listopada 2023 r. w | Obwieszczenie | obowiązujący |  |
 | [WDU20230002487](WDU20230002487/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 8 listopada 2023 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20230002486](WDU20230002486/index.md) | Rozporządzenie Ministra Zdrowia z dnia 14 listopada 2023 r. zmieniające roz | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2521,7 +2478,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002482](WDU20230002482/index.md) | Rozporządzenie Rady Ministrów z dnia 27 października 2023 r. w sprawie przy | Rozporządzenie | obowiązujący |  |
 | [WDU20230002481](WDU20230002481/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 7 listopada 2023 r. w sprawi | Rozporządzenie | obowiązujący |  |
 | [WDU20230002480](WDU20230002480/index.md) | Rozporządzenie Rady Ministrów z dnia 30 października 2023 r. w sprawie Naro | Rozporządzenie | obowiązujący |  |
-| [WDU20230002479](WDU20230002479/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 listopada 2023 r. sygn. akt K 1/23 | Orzeczenie | obowiązujący |  |
 | [WDU20230002478](WDU20230002478/index.md) | Obwieszczenie Ministra Aktywów Państwowych z dnia 10 listopada 2023 r. w sp | Obwieszczenie | obowiązujący |  |
 | [WDU20230002477](WDU20230002477/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 listopada 2023 r. w  | Rozporządzenie | obowiązujący |  |
 | [WDU20230002476](WDU20230002476/index.md) | Rozporządzenie Ministra Finansów z dnia 13 listopada 2023 r. zmieniające ro | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2531,7 +2487,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002470](WDU20230002470/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 10 listopad | Rozporządzenie | obowiązujący |  |
 | [WDU20230002469](WDU20230002469/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 23 października 2023 r. w sp | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20230002468](WDU20230002468/index.md) | Obwieszczenie Ministra Edukacji i Nauki z dnia 27 października 2023 r. w sp | Obwieszczenie | obowiązujący |  |
-| [WDU20230002467](WDU20230002467/index.md) | Obwieszczenie Ministra Finansów z dnia 9 listopada 2023 r. w sprawie ogłosz | Obwieszczenie | obowiązujący |  |
 | [WDU20230002464](WDU20230002464/index.md) | Rozporządzenie Ministra Zdrowia z dnia 10 listopada 2023 r. w sprawie zmian | Rozporządzenie | obowiązujący |  |
 | [WDU20230002461](WDU20230002461/index.md) | Rozporządzenie Ministra Zdrowia z dnia 13 października 2023 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002460](WDU20230002460/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 listopada 2023 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2603,7 +2558,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002318](WDU20230002318/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 19 października 2023 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20230002317](WDU20230002317/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 11 października 2023 r. zmien | Rozporządzenie | obowiązujący |  |
 | [WDU20230002316](WDU20230002316/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 16 października 2023 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230002315](WDU20230002315/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 3 paździer | Obwieszczenie | obowiązujący |  |
 | [WDU20230002314](WDU20230002314/index.md) | Rozporządzenie Ministra Finansów z dnia 12 października 2023 r. zmieniające | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20230002311](WDU20230002311/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 października 2023 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002310](WDU20230002310/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 20 października 2023 r. | Rozporządzenie | obowiązujący |  |
@@ -2615,7 +2569,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002298](WDU20230002298/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20230002295](WDU20230002295/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 października 2023 | Rozporządzenie | obowiązujący |  |
 | [WDU20230002294](WDU20230002294/index.md) | Rozporządzenie Ministra Zdrowia z dnia 19 października 2023 r. zmieniające  | Rozporządzenie | obowiązujący |  |
-| [WDU20230002291](WDU20230002291/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 października 2023 r. sygn. akt SK | Orzeczenie | obowiązujący |  |
 | [WDU20230002289](WDU20230002289/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 października 2023 | Rozporządzenie | obowiązujący |  |
 | [WDU20230002286](WDU20230002286/index.md) | Rozporządzenie Rady Ministrów z dnia 26 września 2023 r. w sprawie oczyszcz | Rozporządzenie | obowiązujący |  |
 | [WDU20230002284](WDU20230002284/index.md) | Rozporządzenie Ministra Zdrowia z dnia 20 października 2023 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -2667,7 +2620,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002211](WDU20230002211/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20230002210](WDU20230002210/index.md) | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 11 październik | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002209](WDU20230002209/index.md) | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 11 październik | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230002208](WDU20230002208/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 października 2023 r. sygn. akt SK  | Orzeczenie | obowiązujący |  |
 | [WDU20230002206](WDU20230002206/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 października 2023 | Rozporządzenie | obowiązujący |  |
 | [WDU20230002204](WDU20230002204/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 2 października 2023 r. zmieni | Rozporządzenie | obowiązujący |  |
 | [WDU20230002203](WDU20230002203/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 wrześni | Obwieszczenie | obowiązujący |  |
@@ -2723,7 +2675,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002124](WDU20230002124/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 września 2023 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20230002118](WDU20230002118/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 wrześn | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002117](WDU20230002117/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 18 września 2023 r. w spraw | Rozporządzenie | obowiązujący |  |
-| [WDU20230002116](WDU20230002116/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 września 2023 r. sygn. akt SK 14/ | Orzeczenie | obowiązujący |  |
 | [WDU20230002115](WDU20230002115/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 22 września 2023 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002113](WDU20230002113/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 28 sierpnia 2023 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20230002109](WDU20230002109/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 21 września | Rozporządzenie | obowiązujący |  |
@@ -2765,7 +2716,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002054](WDU20230002054/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmienia | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002053](WDU20230002053/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20230002052](WDU20230002052/index.md) | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 19 września 20 | Rozporządzenie | obowiązujący |  |
-| [WDU20230002045](WDU20230002045/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 sierpnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20230002043](WDU20230002043/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 18 września 2023 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20230002041](WDU20230002041/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 26 września | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002039](WDU20230002039/index.md) | Rozporządzenie Rady Ministrów dnia 15 września 2023 r. zmieniające rozporzą | Rozporządzenie | obowiązujący |  |
@@ -2787,7 +2737,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230002010](WDU20230002010/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 13 września 2023 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230002009](WDU20230002009/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 sierpnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20230002008](WDU20230002008/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 września 2023 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230002007](WDU20230002007/index.md) | Obwieszczenie Ministra Rozwoju i Technologii z dnia 31 sierpnia 2023 r. w s | Obwieszczenie | obowiązujący |  |
 | [WDU20230002005](WDU20230002005/index.md) | Ustawa z dnia 30 sierpnia 2023 r. o zmianie ustawy - Prawo oświatowe oraz n | Ustawa | obowiązujący |  |
 | [WDU20230002004](WDU20230002004/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 4 września 2023 r. w spr | Obwieszczenie | obowiązujący |  |
 | [WDU20230002003](WDU20230002003/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 14 września 2023 r. zmienia | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -3239,14 +3188,11 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230001333](WDU20230001333/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 10 lipca 20 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230001331](WDU20230001331/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 30 czerwca 2023 r. w sprawie og | Obwieszczenie | obowiązujący |  |
 | [WDU20230001324](WDU20230001324/index.md) | Obwieszczenie Ministra Zdrowia z dnia 9 czerwca 2023 r. w sprawie ogłoszeni | Obwieszczenie | obowiązujący |  |
-| [WDU20230001323](WDU20230001323/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 lipca 2023 r. sygn. akt SK 8/20 | Orzeczenie | obowiązujący |  |
 | [WDU20230001321](WDU20230001321/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 czerwc | Rozporządzenie | obowiązujący |  |
 | [WDU20230001320](WDU20230001320/index.md) | Rozporządzenie Rady Ministrów z dnia 7 lipca 2023 r. zmieniające rozporządz | Rozporządzenie | obowiązujący |  |
 | [WDU20230001318](WDU20230001318/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 maja 2023 | Obwieszczenie | obowiązujący |  |
 | [WDU20230001316](WDU20230001316/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 czerwc | Rozporządzenie | obowiązujący |  |
 | [WDU20230001315](WDU20230001315/index.md) | Rozporządzenie Ministra Finansów z dnia 29 czerwca 2023 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230001313](WDU20230001313/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 lipca 2023 r. sygn. akt SK 14/21 | Orzeczenie | obowiązujący |  |
-| [WDU20230001312](WDU20230001312/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 lipca 2023 r. sygn. akt SK 23/21 | Orzeczenie | obowiązujący |  |
 | [WDU20230001311](WDU20230001311/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 czerwc | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230001306](WDU20230001306/index.md) | Rozporządzenie Rady Ministrów z dnia 5 lipca 2023 r. zmieniające rozporządz | Rozporządzenie | obowiązujący |  |
 | [WDU20230001303](WDU20230001303/index.md) | Rozporządzenie Ministra Finansów z dnia 29 czerwca 2023 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -3325,7 +3271,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230001178](WDU20230001178/index.md) | Rozporządzenie Ministra Finansów z dnia 21 czerwca 2023 r. w sprawie korzys | Rozporządzenie | obowiązujący |  |
 | [WDU20230001177](WDU20230001177/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 maja 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20230001176](WDU20230001176/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 czerwca 2023 r. w | Rozporządzenie | obowiązujący |  |
-| [WDU20230001175](WDU20230001175/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 czerwca 2023 r. sygn. akt SK 42/2 | Orzeczenie | obowiązujący |  |
 | [WDU20230001174](WDU20230001174/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 czerwca 2023 r. zm | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230001171](WDU20230001171/index.md) | Rozporządzenie Ministra Finansów z dnia 16 czerwca 2023 r. w sprawie środkó | Rozporządzenie | obowiązujący |  |
 | [WDU20230001169](WDU20230001169/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 22 maja 2023 r. w sprawie ob | Rozporządzenie | obowiązujący |  |
@@ -3345,7 +3290,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230001154](WDU20230001154/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 maja 2023 | Obwieszczenie | obowiązujący |  |
 | [WDU20230001153](WDU20230001153/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 czerwca 2023 r. zm | Rozporządzenie | obowiązujący |  |
 | [WDU20230001152](WDU20230001152/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 czerwca 2023 r. z | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230001151](WDU20230001151/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 czerwca 2023 r. sygn. akt SK 83/1 | Orzeczenie | obowiązujący |  |
 | [WDU20230001150](WDU20230001150/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 czerwca 2023 r. z | Rozporządzenie | obowiązujący |  |
 | [WDU20230001148](WDU20230001148/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 czerwca 2023 r. z | Rozporządzenie | obowiązujący |  |
 | [WDU20230001147](WDU20230001147/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 czerwca 2023 r. z | Rozporządzenie | obowiązujący |  |
@@ -3460,7 +3404,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230000958](WDU20230000958/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 11 maja 2023 r. zmieni | Rozporządzenie | obowiązujący |  |
 | [WDU20230000954](WDU20230000954/index.md) | Rozporządzenie Ministra Zdrowia z dnia 18 maja 2023 r. w sprawie wysokości  | Rozporządzenie | obowiązujący |  |
 | [WDU20230000953](WDU20230000953/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 12 maja 2023 r. zmieniające ro | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230000951](WDU20230000951/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 maja 2023 r. sygn. akt P 12/18 | Orzeczenie | obowiązujący |  |
 | [WDU20230000948](WDU20230000948/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20230000945](WDU20230000945/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 3 kwietnia 2023 r. w spr | Obwieszczenie | obowiązujący |  |
 | [WDU20230000942](WDU20230000942/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 20 kwietnia 2023 r. w  | Rozporządzenie | obowiązujący |  |
@@ -3485,7 +3428,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230000915](WDU20230000915/index.md) | Rozporządzenie Rady Ministrów z dnia 26 kwietnia 2023 r. zmieniające rozpor | Rozporządzenie | obowiązujący |  |
 | [WDU20230000912](WDU20230000912/index.md) | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 11 maja 2023 r | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000911](WDU20230000911/index.md) | Rozporządzenie Rady Ministrów z dnia 12 maja 2023 r. w sprawie ustanowienia | Rozporządzenie | obowiązujący |  |
-| [WDU20230000909](WDU20230000909/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 9 maja 2023 r. sygn. akt SK 81/19 | Orzeczenie | obowiązujący |  |
 | [WDU20230000906](WDU20230000906/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 maja 2023 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000903](WDU20230000903/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 19 kwietnia 2023 r. zm | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000897](WDU20230000897/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 maja 20 | Rozporządzenie | obowiązujący |  |
@@ -3514,7 +3456,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230000852](WDU20230000852/index.md) | Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o ochronie konkurencji i kon | Ustawa | obowiązujący |  |
 | [WDU20230000845](WDU20230000845/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 kwietnia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20230000844](WDU20230000844/index.md) | Rozporządzenie Rady Ministrów z dnia 12 kwietnia 2023 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230000842](WDU20230000842/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 kwietnia 2023 r. sygn. akt SK 53/ | Orzeczenie | obowiązujący |  |
 | [WDU20230000841](WDU20230000841/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 14 kwietnia 2023 r. w sprawie o | Obwieszczenie | obowiązujący |  |
 | [WDU20230000839](WDU20230000839/index.md) | Ustawa z dnia 14 kwietnia 2023 r. o wykonaniu Umowy o handlu i współpracy m | Ustawa | obowiązujący |  |
 | [WDU20230000837](WDU20230000837/index.md) | Rozporządzenie Ministra Zdrowia z dnia 27 kwietnia 2023 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -3530,11 +3471,9 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230000809](WDU20230000809/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 25 kwietnia 2023 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20230000808](WDU20230000808/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 kwietn | Rozporządzenie | obowiązujący |  |
 | [WDU20230000803](WDU20230000803/index.md) | Ustawa z dnia 26 stycznia 2023 r. o zmianie ustaw w celu likwidowania zbędn | Ustawa | obowiązujący |  |
-| [WDU20230000801](WDU20230000801/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 kwietnia 2023 r. sygn. akt SK 75/ | Orzeczenie | obowiązujący |  |
 | [WDU20230000800](WDU20230000800/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 17 kwietnia 2023 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000799](WDU20230000799/index.md) | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 18 kwietnia 2023 | Rozporządzenie | obowiązujący |  |
 | [WDU20230000798](WDU20230000798/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 31 marca 2023 r. w sprawie ogło | Obwieszczenie | obowiązujący |  |
-| [WDU20230000796](WDU20230000796/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 kwietnia 2023 r. sygn. akt SK 85/ | Orzeczenie | obowiązujący |  |
 | [WDU20230000795](WDU20230000795/index.md) | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 23 kwietnia 20 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000794](WDU20230000794/index.md) | Rozporządzenie Ministra Finansów z dnia 24 kwietnia 2023 r. zmieniające roz | Rozporządzenie | obowiązujący |  |
 | [WDU20230000793](WDU20230000793/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 20 kwietnia 2023 r. zmienia | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -3564,7 +3503,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230000744](WDU20230000744/index.md) | Rozporządzenie Ministra Zdrowia z dnia 17 kwietnia 2023 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000743](WDU20230000743/index.md) | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia 4 kwietnia 202 | Rozporządzenie | obowiązujący |  |
 | [WDU20230000740](WDU20230000740/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 kwietnia 2023 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20230000739](WDU20230000739/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 kwietnia 2023 r. sygn. akt P 5/19 | Orzeczenie | obowiązujący |  |
 | [WDU20230000737](WDU20230000737/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 kwietnia 2023 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20230000736](WDU20230000736/index.md) | Rozporządzenie Ministra Finansów z dnia 18 kwietnia 2023 r. zmieniające roz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000734](WDU20230000734/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 marca 2023 r. w s | Rozporządzenie | akt posiada tekst jednolity |  |
@@ -3803,7 +3741,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20230000359](WDU20230000359/index.md) | Rozporządzenie Ministra Zdrowia z dnia 24 lutego 2023 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000357](WDU20230000357/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 26 stycznia 2023 r. w sprawie o | Obwieszczenie | obowiązujący |  |
 | [WDU20230000354](WDU20230000354/index.md) | Rozporządzenie Ministra Zdrowia z dnia 23 lutego 2023 r. w sprawie zakażeń  | Rozporządzenie | obowiązujący |  |
-| [WDU20230000353](WDU20230000353/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 lutego 2023 r. sygn. akt SK 71/20 | Orzeczenie | obowiązujący |  |
 | [WDU20230000352](WDU20230000352/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 24 lutego 2023 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20230000350](WDU20230000350/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 15 lutego 2023 r. w spr | Rozporządzenie | obowiązujący |  |
 | [WDU20230000348](WDU20230000348/index.md) | Rozporządzenie Ministra Zdrowia z dnia 23 lutego 2023 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -4032,14 +3969,12 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220002803](WDU20220002803/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 22 grudnia 2022 r. zmieniając | Rozporządzenie | obowiązujący |  |
 | [WDU20220002802](WDU20220002802/index.md) | Rozporządzenie Ministra Finansów z dnia 22 grudnia 2022 r. w sprawie wyznac | Rozporządzenie | obowiązujący |  |
 | [WDU20220002801](WDU20220002801/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 20 grudnia 2022 r. w sprawi | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20220002797](WDU20220002797/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 grudnia 2022 r. sygn. akt SK 66/2 | Orzeczenie | obowiązujący |  |
 | [WDU20220002796](WDU20220002796/index.md) | Rozporządzenie Ministra Cyfryzacji z dnia 19 grudnia 2022 r. w sprawie inwe | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20220002795](WDU20220002795/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 12 grudnia 2022 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002794](WDU20220002794/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 23 grudnia 2022 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002793](WDU20220002793/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 23 grudnia 2022 r. w sp | Rozporządzenie | obowiązujący |  |
 | [WDU20220002792](WDU20220002792/index.md) | Rozporządzenie Ministra Finansów z dnia 22 grudnia 2022 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002791](WDU20220002791/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 20 grudnia 2022 r. w sprawie | Rozporządzenie | obowiązujący |  |
-| [WDU20220002790](WDU20220002790/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 grudnia 2022 r. sygn. akt SK 78/2 | Orzeczenie | obowiązujący |  |
 | [WDU20220002789](WDU20220002789/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 21 grudnia 2022  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002787](WDU20220002787/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 22 grudnia 2022 r. w sprawie  | Rozporządzenie | obowiązujący |  |
 | [WDU20220002786](WDU20220002786/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 7 grudnia 2022 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -4103,7 +4038,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220002699](WDU20220002699/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 16 grudnia 2022 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002698](WDU20220002698/index.md) | Ustawa z dnia 1 grudnia 2022 r. o zaniechaniu ścigania za niektóre czyny zw | Ustawa | obowiązujący |  |
 | [WDU20220002696](WDU20220002696/index.md) | Rozporządzenie Ministra Zdrowia z dnia 13 grudnia 2022 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20220002695](WDU20220002695/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 grudnia 2022 r. sygn. akt K 3/22 | Orzeczenie | obowiązujący |  |
 | [WDU20220002694](WDU20220002694/index.md) | Rozporządzenie Ministra Finansów z dnia 9 grudnia 2022 r. w sprawie informa | Rozporządzenie | obowiązujący |  |
 | [WDU20220002693](WDU20220002693/index.md) | Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 11 grudnia 2 | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20220002690](WDU20220002690/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 9 grudnia 2022 r. w sprawie  | Rozporządzenie | obowiązujący |  |
@@ -4124,7 +4058,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220002664](WDU20220002664/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 grudnia 2022 r. zm | Rozporządzenie | obowiązujący |  |
 | [WDU20220002662](WDU20220002662/index.md) | Rozporządzenie Ministra Zdrowia z dnia 12 grudnia 2022 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002660](WDU20220002660/index.md) | Rozporządzenie Ministra Finansów z dnia 14 grudnia 2022 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20220002659](WDU20220002659/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 grudnia 2022 r. sygn. akt K 4/21 | Orzeczenie | obowiązujący |  |
 | [WDU20220002658](WDU20220002658/index.md) | Rozporządzenie Ministra Zdrowia z dnia 15 grudnia 2022 r. w sprawie zmiany  | Rozporządzenie | obowiązujący |  |
 | [WDU20220002657](WDU20220002657/index.md) | Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 11 grudnia 2 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002656](WDU20220002656/index.md) | Rozporządzenie Ministra Finansów z dnia 15 grudnia 2022 r. w sprawie opłat  | Rozporządzenie | obowiązujący |  |
@@ -4218,7 +4151,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220002493](WDU20220002493/index.md) | Rozporządzenie Ministra Aktywów Państwowych z dnia 1 grudnia 2022 r. zmieni | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002489](WDU20220002489/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 30 listopada 2022 r. z | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002482](WDU20220002482/index.md) | Rozporządzenie Ministra Spraw Zagranicznych z dnia 20 listopada 2022 r. w s | Rozporządzenie | obowiązujący |  |
-| [WDU20220002480](WDU20220002480/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 listopada 2022 r. sygn. akt SK 11 | Orzeczenie | obowiązujący |  |
 | [WDU20220002477](WDU20220002477/index.md) | Rozporządzenie Ministra Zdrowia z dnia 9 listopada 2022 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220002476](WDU20220002476/index.md) | Ustawa z dnia 27 października 2022 r. o zmianie ustawy o systemie ubezpiecz | Ustawa | obowiązujący |  |
 | [WDU20220002475](WDU20220002475/index.md) | Ustawa z dnia 6 października 2022 r. o zmianie ustawy o Narodowym Instytuci | Ustawa | akt objęty tekstem jednolitym |  |
@@ -4525,7 +4457,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220001850](WDU20220001850/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 23 sierpnia 2022 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20220001849](WDU20220001849/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 31 sierpnia 2022 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20220001848](WDU20220001848/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 4 sierpnia 2022 r. w sprawie  | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20220001846](WDU20220001846/index.md) | Ustawa z dnia 22 lipca 2022 r. o usprawnieniu procesu inwestycyjnego Centra | Ustawa | obowiązujący |  |
 | [WDU20220001845](WDU20220001845/index.md) | Rozporządzenie Ministra Zdrowia z dnia 31 sierpnia 2022 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220001844](WDU20220001844/index.md) | Rozporządzenie Ministra Finansów z dnia 1 września 2022 r. w sprawie opłaty | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20220001841](WDU20220001841/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 31 sierpnia 2022 r. zmieniaj | Rozporządzenie | obowiązujący |  |
@@ -4688,7 +4619,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220001567](WDU20220001567/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 6 lipca 2022 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20220001566](WDU20220001566/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 13 lipca 2022 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20220001565](WDU20220001565/index.md) | Rozporządzenie Ministra Finansów z dnia 7 lipca 2022 r. w sprawie legitymac | Rozporządzenie | obowiązujący |  |
-| [WDU20220001564](WDU20220001564/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 lipca 2022 r. sygn. akt SK 20/19 | Orzeczenie | obowiązujący |  |
 | [WDU20220001562](WDU20220001562/index.md) | Rozporządzenie Ministra Zdrowia z dnia 26 lipca 2022 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220001561](WDU20220001561/index.md) | Ustawa z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20220001556](WDU20220001556/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2022 r. w  | Obwieszczenie | obowiązujący |  |
@@ -4702,7 +4632,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220001536](WDU20220001536/index.md) | Rozporządzenie Rady Ministrów z dnia 18 lipca 2022 r. zmieniające rozporząd | Rozporządzenie | obowiązujący |  |
 | [WDU20220001535](WDU20220001535/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20220001534](WDU20220001534/index.md) | Ustawa z dnia 9 czerwca 2022 r. o zmianie ustawy o komercjalizacji i restru | Ustawa | obowiązujący |  |
-| [WDU20220001532](WDU20220001532/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 lipca 2022 r. sygn. akt SK 13/20 | Orzeczenie | obowiązujący |  |
 | [WDU20220001531](WDU20220001531/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 5 lipca 2022 r. w sprawie ś | Rozporządzenie | obowiązujący |  |
 | [WDU20220001529](WDU20220001529/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2022 | Obwieszczenie | obowiązujący |  |
 | [WDU20220001528](WDU20220001528/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 13 lipca 2022 r. zmieniające r | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -4782,11 +4711,9 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220001374](WDU20220001374/index.md) | Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o księgach wieczystych i hip | Ustawa | obowiązujący |  |
 | [WDU20220001373](WDU20220001373/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 czerwc | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220001372](WDU20220001372/index.md) | Rozporządzenie Ministra Zdrowia z dnia 24 czerwca 2022 r. w sprawie wzoru d | Rozporządzenie | obowiązujący |  |
-| [WDU20220001371](WDU20220001371/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 czerwca 2022 r. sygn. akt SK 3/20 | Orzeczenie | obowiązujący |  |
 | [WDU20220001370](WDU20220001370/index.md) | Ustawa z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekol | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20220001366](WDU20220001366/index.md) | Rozporządzenie Ministra Zdrowia z dnia 24 czerwca 2022 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220001365](WDU20220001365/index.md) | Rozporządzenie Rady Ministrów z dnia 21 czerwca 2022 r. zmieniające rozporz | Rozporządzenie | obowiązujący |  |
-| [WDU20220001364](WDU20220001364/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 czerwca 2022 r. sygn. akt SK 32/1 | Orzeczenie | obowiązujący |  |
 | [WDU20220001361](WDU20220001361/index.md) | Rozporządzenie Ministra Rozwoju i Technologii z dnia 24 czerwca 2022 r. zmi | Rozporządzenie | obowiązujący |  |
 | [WDU20220001359](WDU20220001359/index.md) | Rozporządzenie Ministra Finansów z dnia 23 czerwca 2022 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220001358](WDU20220001358/index.md) | Ustawa z dnia 26 maja 2022 r. o kolejnym w 2022 r. dodatkowym rocznym świad | Ustawa | obowiązujący |  |
@@ -4828,7 +4755,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220001272](WDU20220001272/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 10 czerwca 2022  | Rozporządzenie | obowiązujący |  |
 | [WDU20220001271](WDU20220001271/index.md) | Obwieszczenie Ministra Zdrowia z dnia 30 maja 2022 r. w sprawie ogłoszenia  | Obwieszczenie | obowiązujący |  |
 | [WDU20220001270](WDU20220001270/index.md) | Ustawa z dnia 26 maja 2022 r. o zmianie ustawy o krajowym systemie ewidencj | Ustawa | obowiązujący |  |
-| [WDU20220001268](WDU20220001268/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 czerwca 2022 r. sygn. akt SK 68/19 | Orzeczenie | obowiązujący |  |
 | [WDU20220001267](WDU20220001267/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 6 czerwca 2022 r. w spr | Rozporządzenie | obowiązujący |  |
 | [WDU20220001266](WDU20220001266/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 maja 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20220001261](WDU20220001261/index.md) | Ustawa z dnia 28 kwietnia 2022 r. o zmianie ustawy o inwestycjach w zakresi | Ustawa | obowiązujący |  |
@@ -4976,12 +4902,10 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220000962](WDU20220000962/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 20 kwietnia 2022 | Rozporządzenie | obowiązujący |  |
 | [WDU20220000961](WDU20220000961/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 25 marca 2022 r. w spra | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20220000959](WDU20220000959/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 14 kwietnia 2022 r. w sp | Obwieszczenie | obowiązujący |  |
-| [WDU20220000958](WDU20220000958/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 kwietnia 2022 r. sygn. akt SK 53/ | Orzeczenie | obowiązujący |  |
 | [WDU20220000957](WDU20220000957/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 maja 2022 r. zmien | Rozporządzenie | obowiązujący |  |
 | [WDU20220000956](WDU20220000956/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 12 kwietnia 2022 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220000955](WDU20220000955/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 kwietnia 2022 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220000954](WDU20220000954/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 29 kwietnia | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20220000953](WDU20220000953/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 kwietnia 2022 r. sygn. akt K 12/2 | Orzeczenie | obowiązujący |  |
 | [WDU20220000951](WDU20220000951/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 28 kwietnia 2022 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20220000950](WDU20220000950/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 kwietnia 2022 r. w sprawie dokume | Rozporządzenie | obowiązujący |  |
 | [WDU20220000949](WDU20220000949/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 22 kwietnia 2022 r. w spraw | Rozporządzenie | obowiązujący |  |
@@ -5143,7 +5067,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220000646](WDU20220000646/index.md) | Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o Agencji Restrukturyzacji | Ustawa | obowiązujący |  |
 | [WDU20220000645](WDU20220000645/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 21 marca 2022 r. w sprawie  | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20220000644](WDU20220000644/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 21 marca 2022 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20220000643](WDU20220000643/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 marca 2022 r. sygn. akt K 7/21 | Orzeczenie | obowiązujący |  |
 | [WDU20220000642](WDU20220000642/index.md) | Rozporządzenie Rady Ministrów z dnia 17 marca 2022 r. zmieniające rozporząd | Rozporządzenie | obowiązujący |  |
 | [WDU20220000640](WDU20220000640/index.md) | Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o Funduszu rozwoju przewoz | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20220000630](WDU20220000630/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 marca 2022 r. w spr | Obwieszczenie | obowiązujący |  |
@@ -5211,7 +5134,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220000483](WDU20220000483/index.md) | Ustawa z dnia 27 stycznia 2022 r. o zmianie ustawy o przygotowaniu i realiz | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20220000482](WDU20220000482/index.md) | Rozporządzenie Ministra Zdrowia z dnia 23 lutego 2022 r. zmieniające rozpor | Rozporządzenie | obowiązujący |  |
 | [WDU20220000481](WDU20220000481/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 18 lutego 2022 r. w spr | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20220000480](WDU20220000480/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 lutego 2022 r. sygn. akt P 10/19 | Orzeczenie | obowiązujący |  |
 | [WDU20220000475](WDU20220000475/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20220000474](WDU20220000474/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 22 lutego 2022 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220000472](WDU20220000472/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 22 lutego 2022 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -5258,7 +5180,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220000374](WDU20220000374/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 9 lutego 2022 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20220000373](WDU20220000373/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 12 stycznia 2022 r. w s | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20220000365](WDU20220000365/index.md) | Rozporządzenie Ministra Zdrowia z dnia 2 lutego 2022 r. zmieniające rozporz | Rozporządzenie | obowiązujący |  |
-| [WDU20220000361](WDU20220000361/index.md) | Obwieszczenie Ministra Finansów z dnia 17 grudnia 2021 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
 | [WDU20220000359](WDU20220000359/index.md) | Traktat w sprawie Eurokorpusu i statusu jego Dowództwa zawarty między Repub | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20220000358](WDU20220000358/index.md) | Rozporządzenie Ministra Zdrowia z dnia 9 lutego 2022 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220000355](WDU20220000355/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 16 grudnia 2021 r. w sprawie  | Obwieszczenie | akt posiada tekst jednolity |  |
@@ -5278,7 +5199,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20220000293](WDU20220000293/index.md) | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 grudnia | Obwieszczenie | obowiązujący |  |
 | [WDU20220000287](WDU20220000287/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 12 stycznia 2022 r. w s | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20220000285](WDU20220000285/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 lutego 2022 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20220000284](WDU20220000284/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 grudnia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20220000283](WDU20220000283/index.md) | Rozporządzenie Ministra Zdrowia z dnia 3 lutego 2022 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20220000282](WDU20220000282/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 grudnia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20220000280](WDU20220000280/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 grudnia 2021 r. w  | Obwieszczenie | obowiązujący |  |
@@ -5549,7 +5469,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210002165](WDU20210002165/index.md) | Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy - Prawo o ruchu drogowy | Ustawa | obowiązujący |  |
 | [WDU20210002164](WDU20210002164/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 202 | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20210002163](WDU20210002163/index.md) | Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie gruntów roln | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20210002161](WDU20210002161/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 listopada 2021 r. sygn. akt K 6/2 | Orzeczenie | obowiązujący |  |
 | [WDU20210002152](WDU20210002152/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 15 listopada 2021 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20210002151](WDU20210002151/index.md) | Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektór | Ustawa | obowiązujący |  |
 | [WDU20210002147](WDU20210002147/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 17 listopad | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -5592,17 +5511,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210002052](WDU20210002052/index.md) | Ustawa z dnia 1 października 2021 r. o zmianie niektórych ustaw w celu popr | Ustawa | obowiązujący |  |
 | [WDU20210002050](WDU20210002050/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 14 października 2021 r. | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20210002049](WDU20210002049/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 8 listopada 2021 r. w sprawi | Rozporządzenie | obowiązujący |  |
-| [WDU20210002042](WDU20210002042/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 25 | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210002040](WDU20210002040/index.md) | Rozporządzenie Ministra Finansów z dnia 29 października 2021 r. zmieniające | Rozporządzenie | obowiązujący |  |
-| [WDU20210002038](WDU20210002038/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 8 listopa | Rozporządzenie | obowiązujący |  |
-| [WDU20210002035](WDU20210002035/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 19 października 2021 r. | Rozporządzenie | obowiązujący |  |
-| [WDU20210002033](WDU20210002033/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 5 listopada 2021 r. w sprawie  | Rozporządzenie | obowiązujący |  |
-| [WDU20210002032](WDU20210002032/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 13 października 2021 r. w sp | Rozporządzenie | obowiązujący |  |
-| [WDU20210002030](WDU20210002030/index.md) | Rozporządzenie Rady Ministrów z dnia 28 października 2021 r. w sprawie udzi | Rozporządzenie | obowiązujący |  |
 | [WDU20210002029](WDU20210002029/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 październ | Obwieszczenie | obowiązujący |  |
-| [WDU20210002028](WDU20210002028/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 9 listopa | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210002026](WDU20210002026/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 22 października 2021 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210002024](WDU20210002024/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 | Rozporządzenie | obowiązujący |  |
 | [WDU20210002023](WDU20210002023/index.md) | Obwieszczenie Ministra Edukacji i Nauki z dnia 20 października 2021 r. w sp | Obwieszczenie | obowiązujący |  |
 | [WDU20210002022](WDU20210002022/index.md) | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 21 października  | Rozporządzenie | obowiązujący |  |
 | [WDU20210002019](WDU20210002019/index.md) | Obwieszczenie Ministra Infrastruktury z dnia 16 września 2021 r. w sprawie  | Obwieszczenie | obowiązujący |  |
@@ -5681,7 +5590,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210001860](WDU20210001860/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 6  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001859](WDU20210001859/index.md) | Rozporządzenie Ministra Zdrowia z dnia 8 października 2021 r. zmieniające r | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001855](WDU20210001855/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 października 2021  | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210001852](WDU20210001852/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 października 2021 r. sygn. akt K 3 | Orzeczenie | obowiązujący |  |
 | [WDU20210001851](WDU20210001851/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 października 2021  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001849](WDU20210001849/index.md) | Rozporządzenie Ministra Zdrowia z dnia 28 września 2021 r. w sprawie ogólno | Rozporządzenie | obowiązujący |  |
 | [WDU20210001848](WDU20210001848/index.md) | Rozporządzenie Ministra Aktywów Państwowych z dnia 6 października 2021 r. w | Rozporządzenie | obowiązujący |  |
@@ -5904,7 +5812,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210001453](WDU20210001453/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 28 lipca 2021 r. w sprawie tur | Rozporządzenie | obowiązujący |  |
 | [WDU20210001451](WDU20210001451/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 27 lipca 2021 r. zmieniające | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001450](WDU20210001450/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 27 lipca 2021 r. w sprawie og | Obwieszczenie | obowiązujący |  |
-| [WDU20210001446](WDU20210001446/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 lipca 2021 r. sygn. akt SK 82/19 | Orzeczenie | obowiązujący |  |
 | [WDU20210001443](WDU20210001443/index.md) | Obwieszczenie Ministra Kultury, Dziedzictwa Narodowego i Sportu z dnia 22 l | Obwieszczenie | obowiązujący |  |
 | [WDU20210001441](WDU20210001441/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 28 lipca 2021 r. w sprawie wz | Rozporządzenie | obowiązujący |  |
 | [WDU20210001438](WDU20210001438/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 sierpnia 2021 r. w | Rozporządzenie | obowiązujący |  |
@@ -5913,8 +5820,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210001430](WDU20210001430/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 30 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001429](WDU20210001429/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 lipca 2021 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001428](WDU20210001428/index.md) | Obwieszczenie Ministra Edukacji i Nauki z dnia 20 lipca 2021 r. w sprawie o | Obwieszczenie | obowiązujący |  |
-| [WDU20210001424](WDU20210001424/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 lipca 2021 r. sygn. akt K 10/18 | Orzeczenie | obowiązujący |  |
-| [WDU20210001423](WDU20210001423/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 lipca 2021 r. sygn. akt SK 60/19 | Orzeczenie | obowiązujący |  |
 | [WDU20210001422](WDU20210001422/index.md) | Rozporządzenie Ministra Zdrowia z dnia 3 sierpnia 2021 r. w sprawie Dobrej  | Rozporządzenie | obowiązujący |  |
 | [WDU20210001419](WDU20210001419/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 22 lipca 2021 r | Rozporządzenie | obowiązujący |  |
 | [WDU20210001417](WDU20210001417/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2021 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -5974,16 +5879,13 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210001320](WDU20210001320/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 15 lipca 2021 r. w sprawie au | Rozporządzenie | obowiązujący |  |
 | [WDU20210001316](WDU20210001316/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 16 | Rozporządzenie | obowiązujący |  |
 | [WDU20210001311](WDU20210001311/index.md) | Rozporządzenie Rady Ministrów z dnia 15 lipca 2021 r. zmieniające rozporząd | Rozporządzenie | obowiązujący |  |
-| [WDU20210001309](WDU20210001309/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 14 lipca 2021 r. sygn. akt P 7/20 | Orzeczenie | obowiązujący |  |
 | [WDU20210001304](WDU20210001304/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 7 lipca 2021 r. | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001302](WDU20210001302/index.md) | Konwencja o ochronie podwodnego dziedzictwa kulturowego, przyjęta w Paryżu  | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20210001300](WDU20210001300/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2021 r. w  | Obwieszczenie | obowiązujący |  |
-| [WDU20210001295](WDU20210001295/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 1 lipca 2021 r. sygn. akt SK 23/17 | Orzeczenie | obowiązujący |  |
 | [WDU20210001292](WDU20210001292/index.md) | Ustawa z dnia 20 maja 2021 r. o zmianie ustawy o świadczeniach opieki zdrow | Ustawa | obowiązujący |  |
 | [WDU20210001289](WDU20210001289/index.md) | Rozporządzenie Ministra Zdrowia z dnia 24 czerwca 2021 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001288](WDU20210001288/index.md) | Rozporządzenie Ministra Zdrowia z dnia 24 czerwca 2021 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001287](WDU20210001287/index.md) | Rozporządzenie Rady Ministrów z dnia 23 czerwca 2021 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210001282](WDU20210001282/index.md) | Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 21  | Obwieszczenie | obowiązujący |  |
 | [WDU20210001273](WDU20210001273/index.md) | Rozporządzenie Ministra Zdrowia z dnia 12 lipca 2021 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001272](WDU20210001272/index.md) | Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 21  | Obwieszczenie | obowiązujący |  |
 | [WDU20210001265](WDU20210001265/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 czerwca 2021 r. z | Rozporządzenie | obowiązujący |  |
@@ -6006,11 +5908,9 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210001235](WDU20210001235/index.md) | Rozporządzenie Ministra Zdrowia z dnia 5 lipca 2021 r. zmieniające rozporzą | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210001231](WDU20210001231/index.md) | Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 21  | Obwieszczenie | obowiązujący |  |
 | [WDU20210001230](WDU20210001230/index.md) | Obwieszczenie Ministra Infrastruktury z dnia 10 czerwca 2021 r. w sprawie o | Obwieszczenie | obowiązujący |  |
-| [WDU20210001228](WDU20210001228/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 czerwca 2021 r. sygn. akt SK 37/1 | Orzeczenie | obowiązujący |  |
 | [WDU20210001227](WDU20210001227/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 1 lipca 2021 r. w sp | Rozporządzenie | obowiązujący |  |
 | [WDU20210001225](WDU20210001225/index.md) | Obwieszczenie Ministra Zdrowia z dnia 10 czerwca 2021 r. w sprawie ogłoszen | Obwieszczenie | obowiązujący |  |
 | [WDU20210001224](WDU20210001224/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 11 czerwca 2021 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210001223](WDU20210001223/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 czerwca 2021 r. sygn. akt P 10/20 | Orzeczenie | obowiązujący |  |
 | [WDU20210001220](WDU20210001220/index.md) | Obwieszczenie Ministra Infrastruktury z dnia 10 czerwca 2021 r. w sprawie o | Obwieszczenie | obowiązujący |  |
 | [WDU20210001219](WDU20210001219/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20210001216](WDU20210001216/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 9 czerwca 2021 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -6160,9 +6060,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000924](WDU20210000924/index.md) | Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11  | Obwieszczenie | obowiązujący |  |
 | [WDU20210000922](WDU20210000922/index.md) | Ustawa z dnia 20 kwietnia 2021 r. o zmianie ustaw regulujących przygotowani | Ustawa | obowiązujący |  |
 | [WDU20210000920](WDU20210000920/index.md) | Rozporządzenie Ministra Zdrowia z dnia 18 maja 2021 r. zmieniające rozporzą | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210000918](WDU20210000918/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 maja 2021 r. sygn. akt K 15/16 | Orzeczenie | obowiązujący |  |
 | [WDU20210000916](WDU20210000916/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 maja 2 | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210000914](WDU20210000914/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 maja 2021 r. sygn. akt SK 19/15 | Orzeczenie | obowiązujący |  |
 | [WDU20210000910](WDU20210000910/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 11 maja 2021 r. w sprawie m | Rozporządzenie | obowiązujący |  |
 | [WDU20210000906](WDU20210000906/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 10 maja 2021 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20210000904](WDU20210000904/index.md) | Ustawa z dnia 15 kwietnia 2021 r. o zmianie ustawy o płatnościach w ramach  | Ustawa | obowiązujący |  |
@@ -6192,7 +6090,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000855](WDU20210000855/index.md) | Rozporządzenie Ministra Zdrowia z dnia 5 maja 2021 r. zmieniające rozporząd | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000849](WDU20210000849/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 31 marca 2021 r | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000848](WDU20210000848/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 16 kwietnia 202 | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210000847](WDU20210000847/index.md) | Ustawa z dnia 17 marca 2021 r. o zmianie ustawy - Prawo lotnicze | Ustawa | obowiązujący |  |
 | [WDU20210000845](WDU20210000845/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 12 kwietnia 2021 r. w sp | Obwieszczenie | obowiązujący |  |
 | [WDU20210000840](WDU20210000840/index.md) | Rozporządzenie Ministra Klimatu i Środowiska z dnia 23 kwietnia 2021 r. w s | Rozporządzenie | obowiązujący |  |
 | [WDU20210000836](WDU20210000836/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 28 kwietnia 2021 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -6238,7 +6135,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000745](WDU20210000745/index.md) | Rozporządzenie Ministra Zdrowia z dnia 22 kwietnia 2021 r. w sprawie zmiany | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000744](WDU20210000744/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 20 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000738](WDU20210000738/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietn | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210000734](WDU20210000734/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 kwietnia 2021 r. sygn. akt SK 97/ | Orzeczenie | obowiązujący |  |
 | [WDU20210000733](WDU20210000733/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 12 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000732](WDU20210000732/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 12 kwietnia 2021 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20210000731](WDU20210000731/index.md) | Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportu z dnia 16  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -6253,7 +6149,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000707](WDU20210000707/index.md) | Poprawki z 2018 r. do Konwencji o pracy na morzu, przyjętej w Genewie dnia  | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20210000703](WDU20210000703/index.md) | Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 1 k | Obwieszczenie | obowiązujący |  |
 | [WDU20210000702](WDU20210000702/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 8  | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210000696](WDU20210000696/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 kwietnia 2021 r. sygn. akt K 20/2 | Orzeczenie | obowiązujący |  |
 | [WDU20210000694](WDU20210000694/index.md) | Ustawa z dnia 30 marca 2021 r. o zmianie ustawy o podatku akcyzowym oraz ni | Ustawa | obowiązujący |  |
 | [WDU20210000693](WDU20210000693/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 12 kwietnia 2021 r. zmieniając | Rozporządzenie | obowiązujący |  |
 | [WDU20210000692](WDU20210000692/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 marca 202 | Obwieszczenie | obowiązujący |  |
@@ -6282,7 +6177,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000636](WDU20210000636/index.md) | Rozporządzenie Ministra Zdrowia z dnia 7 kwietnia 2021 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000635](WDU20210000635/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 25 marca 2021 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000631](WDU20210000631/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 31 marca 2021 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210000629](WDU20210000629/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 marca 2021 r. sygn. akt SK 24/18 | Orzeczenie | obowiązujący |  |
 | [WDU20210000627](WDU20210000627/index.md) | Rozporządzenie Rady Ministrów z dnia 10 marca 2021 r. w sprawie przypadków, | Rozporządzenie | obowiązujący |  |
 | [WDU20210000619](WDU20210000619/index.md) | Ustawa z dnia 25 lutego 2021 r. o zmianie ustawy - Prawo oświatowe oraz nie | Ustawa | obowiązujący |  |
 | [WDU20210000616](WDU20210000616/index.md) | Ustawa z dnia 17 marca 2021 r. o zmianie ustawy o zapobieganiu oraz zwalcza | Ustawa | akt objęty tekstem jednolitym |  |
@@ -6385,7 +6279,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000407](WDU20210000407/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 26 lutego 2021 r. zmieniające | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000405](WDU20210000405/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 25 lutego 2021 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
 | [WDU20210000403](WDU20210000403/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 lutego 20 | Obwieszczenie | obowiązujący |  |
-| [WDU20210000401](WDU20210000401/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 lutego 2021 r. sygn. akt SK 39/19 | Orzeczenie | obowiązujący |  |
 | [WDU20210000399](WDU20210000399/index.md) | Obwieszczenie Ministra Zdrowia z dnia 19 lutego 2021 r. w sprawie ogłoszeni | Obwieszczenie | obowiązujący |  |
 | [WDU20210000393](WDU20210000393/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 25 lutego 2021 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
 | [WDU20210000392](WDU20210000392/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 10 lutego 2021 r. w sprawie o | Obwieszczenie | obowiązujący |  |
@@ -6422,7 +6315,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000294](WDU20210000294/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 11 | Rozporządzenie | obowiązujący |  |
 | [WDU20210000292](WDU20210000292/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lutego 2021 r. zm | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000285](WDU20210000285/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 12 | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210000282](WDU20210000282/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 9 lutego 2021 r. sygn. akt P 15/17 | Orzeczenie | obowiązujący |  |
 | [WDU20210000280](WDU20210000280/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 13 stycznia 2021 r. w sp | Obwieszczenie | obowiązujący |  |
 | [WDU20210000277](WDU20210000277/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 9 lutego 2021 r. w sprawie u | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000274](WDU20210000274/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 3 lutego 2021 r. w sprawie ogło | Obwieszczenie | obowiązujący |  |
@@ -6462,7 +6354,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000189](WDU20210000189/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 stycznia 2021 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000184](WDU20210000184/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 stycznia 2021 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20210000180](WDU20210000180/index.md) | Ustawa z dnia 21 stycznia 2021 r. o zmianie ustawy o Służbie Więziennej, us | Ustawa | obowiązujący |  |
-| [WDU20210000175](WDU20210000175/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 października 2020 r. sygn. akt K  | Orzeczenie | obowiązujący |  |
 | [WDU20210000172](WDU20210000172/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 21 | Rozporządzenie | obowiązujący |  |
 | [WDU20210000170](WDU20210000170/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 grudnia 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20210000169](WDU20210000169/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 21 stycznia 2021 r. w sprawie o | Obwieszczenie | obowiązujący |  |
@@ -6529,10 +6420,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000030](WDU20210000030/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 30 grudnia 2020 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000027](WDU20210000027/index.md) | Rozporządzenie Rady Ministrów z dnia 1 grudnia 2020 r. zmieniające rozporzą | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000024](WDU20210000024/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 20 | Obwieszczenie | obowiązujący |  |
-| [WDU20210000022](WDU20210000022/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 grudnia 2020 r. sygn. akt SK 46/1 | Orzeczenie | obowiązujący |  |
 | [WDU20210000021](WDU20210000021/index.md) | Ustawa z dnia 10 grudnia 2020 r. o zmianie ustawy o Krajowej Szkole Sądowni | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20210000020](WDU20210000020/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 grudnia 2020 r. sygn. akt SK 26/1 | Orzeczenie | obowiązujący |  |
-| [WDU20210000019](WDU20210000019/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 grudnia 2020 r. sygn. akt SK 9/16 | Orzeczenie | obowiązujący |  |
 | [WDU20210000017](WDU20210000017/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 2 grudnia 2020 r. w sprawie K | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20210000016](WDU20210000016/index.md) | Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 1 g | Obwieszczenie | obowiązujący |  |
 | [WDU20210000013](WDU20210000013/index.md) | Rozporządzenie Ministra Zdrowia z dnia 31 grudnia 2020 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -6629,7 +6517,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200002304](WDU20200002304/index.md) | Rozporządzenie Ministra Zdrowia z dnia 17 grudnia 2020 r. w sprawie zmiany  | Rozporządzenie | obowiązujący |  |
 | [WDU20200002303](WDU20200002303/index.md) | Rozporządzenie Rady Ministrów z dnia 30 listopada 2020 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200002300](WDU20200002300/index.md) | Rozporządzenie Rady Ministrów z dnia 30 listopada 2020 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20200002299](WDU20200002299/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 grudnia 2020 r. sygn. akt SK 12/2 | Orzeczenie | obowiązujący |  |
 | [WDU20200002298](WDU20200002298/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 16 grudnia 2020 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200002297](WDU20200002297/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 4 grudnia 2020  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200002295](WDU20200002295/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 17 | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -6683,9 +6570,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200002192](WDU20200002192/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 4 grudnia 2020 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200002190](WDU20200002190/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 4 grudnia 2020 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20200002187](WDU20200002187/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 listopada | Obwieszczenie | obowiązujący |  |
-| [WDU20200002186](WDU20200002186/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 2 grudnia 2020 r. sygn. akt SK 9/17 | Orzeczenie | obowiązujący |  |
 | [WDU20200002185](WDU20200002185/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 25 listopada 20 | Rozporządzenie | obowiązujący |  |
-| [WDU20200002184](WDU20200002184/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 1 grudnia 2020 r. sygn. akt P 6/19 | Orzeczenie | obowiązujący |  |
 | [WDU20200002183](WDU20200002183/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 listopada | Obwieszczenie | obowiązujący |  |
 | [WDU20200002182](WDU20200002182/index.md) | Rozporządzenie Ministra Edukacji i Nauki z dnia 4 grudnia 2020 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200002177](WDU20200002177/index.md) | Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sportu z dnia 3 g | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -6730,13 +6615,11 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200002074](WDU20200002074/index.md) | Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 4 listopada 2020  | Obwieszczenie | obowiązujący |  |
 | [WDU20200002073](WDU20200002073/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 20 listopada 2020 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20200002071](WDU20200002071/index.md) | Obwieszczenie Ministra Klimatu i Środowiska z dnia 5 listopada 2020 r. w sp | Obwieszczenie | obowiązujący |  |
-| [WDU20200002070](WDU20200002070/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 listopada 2020 r. sygn. akt SK 5/ | Orzeczenie | obowiązujący |  |
 | [WDU20200002068](WDU20200002068/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 23 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200002065](WDU20200002065/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 8 październi | Obwieszczenie | obowiązujący |  |
 | [WDU20200002064](WDU20200002064/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 listopada | Obwieszczenie | obowiązujący |  |
 | [WDU20200002063](WDU20200002063/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200002058](WDU20200002058/index.md) | Rozporządzenie Rady Ministrów z dnia 19 listopada 2020 r. zmieniające rozpo | Rozporządzenie | obowiązujący |  |
-| [WDU20200002056](WDU20200002056/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20200002049](WDU20200002049/index.md) | Rozporządzenie Rady Ministrów z dnia 10 listopada 2020 r. w sprawie ustanow | Rozporządzenie | obowiązujący |  |
 | [WDU20200002045](WDU20200002045/index.md) | Rozporządzenie Ministra Zdrowia z dnia 26 października 2020 r. w sprawie za | Rozporządzenie | obowiązujący |  |
 | [WDU20200002044](WDU20200002044/index.md) | Rozporządzenie Ministra Zdrowia z dnia 18 listopada 2020 r. zmieniające roz | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -6940,7 +6823,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001586](WDU20200001586/index.md) | Rozporządzenie Ministra Zdrowia z dnia 11 września 2020 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001585](WDU20200001585/index.md) | Rozporządzenie Ministra Finansów z dnia 4 września 2020 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001584](WDU20200001584/index.md) | Rozporządzenie Ministra Finansów z dnia 5 września 2020 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20200001583](WDU20200001583/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 września 2020 r. sygn. akt K 13/1 | Orzeczenie | obowiązujący |  |
 | [WDU20200001582](WDU20200001582/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 11 września 2020 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001580](WDU20200001580/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 2 września 2020 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001578](WDU20200001578/index.md) | Ustawa z dnia 14 sierpnia 2020 r. o zmianie ustawy o działaczach opozycji a | Ustawa | obowiązujący |  |
@@ -6970,7 +6852,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001529](WDU20200001529/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 14 sierpnia 2020 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001527](WDU20200001527/index.md) | Rozporządzenie Rady Ministrów z dnia 31 sierpnia 2020 r. w sprawie współpra | Rozporządzenie | obowiązujący |  |
 | [WDU20200001525](WDU20200001525/index.md) | Rozporządzenie Rady Ministrów z dnia 3 września 2020 r. w sprawie ustanowie | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20200001521](WDU20200001521/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 25 sierpnia 2020 r. sygn. akt SK 33/ | Orzeczenie | obowiązujący |  |
 | [WDU20200001520](WDU20200001520/index.md) | Obwieszczenie Ministra Edukacji Narodowej z dnia 18 sierpnia 2020 r. w spra | Obwieszczenie | obowiązujący |  |
 | [WDU20200001519](WDU20200001519/index.md) | Obwieszczenie Ministra Finansów z dnia 19 sierpnia 2020 r. w sprawie ogłosz | Obwieszczenie | obowiązujący |  |
 | [WDU20200001518](WDU20200001518/index.md) | Rozporządzenie Ministra Klimatu z dnia 27 sierpnia 2020 r. w sprawie wzoru  | Rozporządzenie | obowiązujący |  |
@@ -7004,7 +6885,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001461](WDU20200001461/index.md) | Rozporządzenie Ministra Rozwoju z dnia 29 lipca 2020 r. zmieniające rozporz | Rozporządzenie | obowiązujący |  |
 | [WDU20200001460](WDU20200001460/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 sierpnia 2020 r. w | Rozporządzenie | obowiązujący |  |
 | [WDU20200001459](WDU20200001459/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 19 sierpnia 2020 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20200001458](WDU20200001458/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 sierpnia 2020 r. sygn. akt K 46/1 | Orzeczenie | obowiązujący |  |
 | [WDU20200001457](WDU20200001457/index.md) | Rozporządzenie Ministra Klimatu z dnia 29 lipca 2020 r. w sprawie wzoru rap | Rozporządzenie | obowiązujący |  |
 | [WDU20200001456](WDU20200001456/index.md) | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 19 sierpnia 202 | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20200001455](WDU20200001455/index.md) | Obwieszczenie Ministra Edukacji Narodowej z dnia 6 sierpnia 2020 r. w spraw | Obwieszczenie | obowiązujący |  |
@@ -7062,7 +6942,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001339](WDU20200001339/index.md) | Ustawa z dnia 15 lipca 2020 r. o systemach homologacji typu UE i nadzoru ry | Ustawa | obowiązujący |  |
 | [WDU20200001338](WDU20200001338/index.md) | Rozporządzenie Rady Ministrów z dnia 27 lipca 2020 r. zmieniające rozporząd | Rozporządzenie | obowiązujący |  |
 | [WDU20200001337](WDU20200001337/index.md) | Ustawa z dnia 28 maja 2020 r. o zmianie ustawy o substancjach chemicznych i | Ustawa | obowiązujący |  |
-| [WDU20200001336](WDU20200001336/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 lipca 2020 r. Sygn. akt K 4/19 | Orzeczenie | obowiązujący |  |
 | [WDU20200001326](WDU20200001326/index.md) | Rozporządzenie Rady Ministrów z dnia 28 lipca 2020 r. zmieniające rozporząd | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001321](WDU20200001321/index.md) | Rozporządzenie Ministra Rozwoju z dnia 28 lipca 2020 r. w sprawie uprawnień | Rozporządzenie | obowiązujący |  |
 | [WDU20200001317](WDU20200001317/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 27 lipca 2020 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -7071,7 +6950,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001312](WDU20200001312/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 7 lipca 2020 r. w sprawie wyk | Rozporządzenie | obowiązujący |  |
 | [WDU20200001309](WDU20200001309/index.md) | Obwieszczenie Ministra Edukacji Narodowej z dnia 9 lipca 2020 r. w sprawie  | Obwieszczenie | obowiązujący |  |
 | [WDU20200001308](WDU20200001308/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca  | Rozporządzenie | obowiązujący |  |
-| [WDU20200001307](WDU20200001307/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 lipca 2020 r. sygn. akt P 19/19 | Orzeczenie | obowiązujący |  |
 | [WDU20200001306](WDU20200001306/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 15 lipca 2020 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001305](WDU20200001305/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 17 lipca 2020 r. w sprawie pr | Rozporządzenie | obowiązujący |  |
 | [WDU20200001302](WDU20200001302/index.md) | Obwieszczenie Ministra Edukacji Narodowej z dnia 22 lipca 2020 r. w sprawie | Obwieszczenie | obowiązujący |  |
@@ -7180,16 +7058,13 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001087](WDU20200001087/index.md) | Ustawa z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz ni | Ustawa | obowiązujący |  |
 | [WDU20200001086](WDU20200001086/index.md) | Ustawa z dnia 19 czerwca 2020 r. o dopłatach do oprocentowania kredytów ban | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20200001080](WDU20200001080/index.md) | Rozporządzenie Rady Ministrów z dnia 4 czerwca 2020 r. w sprawie ustanowien | Rozporządzenie | obowiązujący |  |
-| [WDU20200001075](WDU20200001075/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 17 czerwca 2020 r. sygn. akt SK 26/1 | Orzeczenie | obowiązujący |  |
 | [WDU20200001073](WDU20200001073/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 czerwca 2020 r. zm | Rozporządzenie | obowiązujący |  |
 | [WDU20200001072](WDU20200001072/index.md) | Rozporządzenie Ministra Finansów z dnia 10 czerwca 2020 r. w sprawie wyznac | Rozporządzenie | obowiązujący |  |
 | [WDU20200001069](WDU20200001069/index.md) | Ustawa z dnia 7 maja 2020 r. o zmianie ustawy o nawozach i nawożeniu oraz u | Ustawa | obowiązujący |  |
 | [WDU20200001068](WDU20200001068/index.md) | Ustawa z dnia 19 czerwca 2020 r. o dodatku solidarnościowym przyznawanym w  | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20200001056](WDU20200001056/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 12 czerwca 2020 r. zmieniające | Rozporządzenie | obowiązujący |  |
-| [WDU20200001055](WDU20200001055/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 czerwca 2020 r. sygn. akt K 3/19 | Orzeczenie | obowiązujący |  |
 | [WDU20200001051](WDU20200001051/index.md) | Rozporządzenie Ministra Zdrowia z dnia 8 czerwca 2020 r. w sprawie zakresu  | Rozporządzenie | obowiązujący |  |
 | [WDU20200001049](WDU20200001049/index.md) | Rozporządzenie Ministra Zdrowia z dnia 16 czerwca 2020 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20200001047](WDU20200001047/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 czerwca 2020 r. sygn. akt K 11/18 | Orzeczenie | obowiązujący |  |
 | [WDU20200001045](WDU20200001045/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 czerwc | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001040](WDU20200001040/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 1 czerwca 2020 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001038](WDU20200001038/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 4 czerwca 2020 r. w sprawie t | Rozporządzenie | obowiązujący |  |
@@ -7200,10 +7075,8 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200001024](WDU20200001024/index.md) | Rozporządzenie Rady Ministrów z dnia 5 czerwca 2020 r. w sprawie legalnych  | Rozporządzenie | obowiązujący |  |
 | [WDU20200001023](WDU20200001023/index.md) | Rozporządzenie Rady Ministrów z dnia 4 czerwca 2020 r. zmieniające rozporzą | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001021](WDU20200001021/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 8 czerwca 2020 r. zmieniające | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20200001020](WDU20200001020/index.md) | Obwieszczenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 8 m | Obwieszczenie | obowiązujący |  |
 | [WDU20200001019](WDU20200001019/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 28 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200001018](WDU20200001018/index.md) | Rozporządzenie Ministra Klimatu z dnia 30 maja 2020 r. w sprawie sposobu us | Rozporządzenie | obowiązujący |  |
-| [WDU20200001017](WDU20200001017/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 2 czerwca 2020 r. sygn. akt P 13/19 | Orzeczenie | obowiązujący |  |
 | [WDU20200001013](WDU20200001013/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 16 marca 2020 r. w sprawie ogło | Obwieszczenie | obowiązujący |  |
 | [WDU20200001012](WDU20200001012/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 czerwca 2020 r. w  | Rozporządzenie | obowiązujący |  |
 | [WDU20200001009](WDU20200001009/index.md) | Rozporządzenie Rady Ministrów z dnia 3 czerwca 2020 r. zmieniające rozporzą | Rozporządzenie | obowiązujący |  |
@@ -7219,7 +7092,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200000982](WDU20200000982/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2020 | Obwieszczenie | obowiązujący |  |
 | [WDU20200000980](WDU20200000980/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 maja 2020 r. zmie | Rozporządzenie | obowiązujący |  |
 | [WDU20200000978](WDU20200000978/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 maja 2020 r. zmie | Rozporządzenie | obowiązujący |  |
-| [WDU20200000976](WDU20200000976/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 maja 2020 r. sygn. akt P 2/18 | Orzeczenie | obowiązujący |  |
 | [WDU20200000975](WDU20200000975/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 maja 2020 r. zmie | Rozporządzenie | obowiązujący |  |
 | [WDU20200000974](WDU20200000974/index.md) | Obwieszczenie Ministra Funduszy i Polityki Regionalnej z dnia 22 maja 2020  | Obwieszczenie | obowiązujący |  |
 | [WDU20200000973](WDU20200000973/index.md) | Rozporządzenie Ministra Sportu z dnia 15 maja 2020 r. zmieniające rozporząd | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -7277,7 +7149,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200000817](WDU20200000817/index.md) | Obwieszczenie Ministra Zdrowia z dnia 30 kwietnia 2020 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
 | [WDU20200000816](WDU20200000816/index.md) | Obwieszczenie Ministra Obrony Narodowej z dnia 24 kwietnia 2020 r. w sprawi | Obwieszczenie | obowiązujący |  |
 | [WDU20200000812](WDU20200000812/index.md) | Obwieszczenie Ministra Zdrowia z dnia 30 kwietnia 2020 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
-| [WDU20200000807](WDU20200000807/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 29 kwietnia 2020 r. sygn. akt P 19/1 | Orzeczenie | obowiązujący |  |
 | [WDU20200000804](WDU20200000804/index.md) | Rozporządzenie Ministra Zdrowia z dnia 4 maja 2020 r. zmieniające rozporząd | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000801](WDU20200000801/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 kwietnia 2020 r.  | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20200000799](WDU20200000799/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 kwietnia 2020 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -7292,7 +7163,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200000772](WDU20200000772/index.md) | Obwieszczenie Ministra Finansów z dnia 8 kwietnia 2020 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
 | [WDU20200000771](WDU20200000771/index.md) | Rozporządzenie Ministra Klimatu z dnia 28 kwietnia 2020 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000770](WDU20200000770/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 23 kwietnia 2020 r. w sprawie  | Rozporządzenie | obowiązujący |  |
-| [WDU20200000769](WDU20200000769/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 kwietnia 2020 r. sygn. akt SK 66/ | Orzeczenie | obowiązujący |  |
 | [WDU20200000768](WDU20200000768/index.md) | Rozporządzenie Ministra Finansów z dnia 23 kwietnia 2020 r. zmieniające roz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000767](WDU20200000767/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 23 kwietnia 2020 r. w sprawie  | Rozporządzenie | obowiązujący |  |
 | [WDU20200000766](WDU20200000766/index.md) | Rozporządzenie Ministra Zdrowia z dnia 27 kwietnia 2020 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -7416,7 +7286,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200000420](WDU20200000420/index.md) | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 12 marca 2020 r | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000419](WDU20200000419/index.md) | Rozporządzenie Ministra Finansów z dnia 11 marca 2020 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000416](WDU20200000416/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 27 lutego 2020 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
-| [WDU20200000413](WDU20200000413/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 marca 2020 r. sygn. akt P 22/19 | Orzeczenie | obowiązujący |  |
 | [WDU20200000412](WDU20200000412/index.md) | Ustawa z dnia 23 stycznia 2020 r. o zmianie ustawy o wspieraniu termomodern | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20200000400](WDU20200000400/index.md) | Ustawa z dnia 13 lutego 2020 r. o zmianie ustawy o transporcie kolejowym or | Ustawa | obowiązujący |  |
 | [WDU20200000399](WDU20200000399/index.md) | Rozporządzenie Ministra Cyfryzacji z dnia 10 marca 2020 r. w sprawie szczeg | Rozporządzenie | obowiązujący |  |
@@ -7492,7 +7361,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200000239](WDU20200000239/index.md) | Rozporządzenie Ministra Finansów z dnia 10 lutego 2020 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000238](WDU20200000238/index.md) | Rozporządzenie Ministra Finansów z dnia 10 lutego 2020 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000236](WDU20200000236/index.md) | Rozporządzenie Ministra Finansów z dnia 7 lutego 2020 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20200000227](WDU20200000227/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20200000225](WDU20200000225/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 30 stycznia 2020 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000223](WDU20200000223/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 stycznia 2020 r. w | Obwieszczenie | obowiązujący |  |
 | [WDU20200000216](WDU20200000216/index.md) | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 30 stycznia 202 | Rozporządzenie | obowiązujący |  |
@@ -7529,7 +7397,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20200000133](WDU20200000133/index.md) | Ustawa z dnia 9 stycznia 2020 r. o zmianie ustawy o Krajowej Szkole Sądowni | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20200000131](WDU20200000131/index.md) | Protokół o zrównoważonym rolnictwie i rozwoju obszarów wiejskich do Ramowej | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20200000129](WDU20200000129/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2 | Obwieszczenie | obowiązujący |  |
-| [WDU20200000127](WDU20200000127/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 grudnia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20200000125](WDU20200000125/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 15 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20200000124](WDU20200000124/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 10 stycznia 2020 r. w sprawie | Obwieszczenie | obowiązujący |  |
 | [WDU20200000120](WDU20200000120/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 styczn | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -7648,7 +7515,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190002426](WDU20190002426/index.md) | Rozporządzenie Ministra Finansów z dnia 13 grudnia 2019 r. w sprawie wzorów | Rozporządzenie | obowiązujący |  |
 | [WDU20190002425](WDU20190002425/index.md) | Obwieszczenie Ministra Finansów z dnia 13 grudnia 2019 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
 | [WDU20190002424](WDU20190002424/index.md) | Rozporządzenie Ministra Finansów z dnia 13 grudnia 2019 r. w sprawie dotacj | Rozporządzenie | obowiązujący |  |
-| [WDU20190002421](WDU20190002421/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 2019 r. sygn. akt P 13/18 | Orzeczenie | obowiązujący |  |
 | [WDU20190002419](WDU20190002419/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 grudni | Rozporządzenie | obowiązujący |  |
 | [WDU20190002417](WDU20190002417/index.md) | Rozporządzenie Ministra Klimatu z dnia 11 grudnia 2019 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190002416](WDU20190002416/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 11 grudnia 2019 r. w sprawie  | Rozporządzenie | obowiązujący |  |
@@ -7656,7 +7522,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190002411](WDU20190002411/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 10 grudnia 2019 r. w sprawi | Rozporządzenie | obowiązujący |  |
 | [WDU20190002409](WDU20190002409/index.md) | Rozporządzenie Ministra Zdrowia z dnia 3 grudnia 2019 r. w sprawie rejestru | Rozporządzenie | obowiązujący |  |
 | [WDU20190002408](WDU20190002408/index.md) | Rozporządzenie Ministra Zdrowia z dnia 3 grudnia 2019 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20190002406](WDU20190002406/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 grudnia 2019 r. sygn. akt SK 16/1 | Orzeczenie | obowiązujący |  |
 | [WDU20190002402](WDU20190002402/index.md) | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20190002401](WDU20190002401/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 listopada 2019 r.  | Obwieszczenie | obowiązujący |  |
 | [WDU20190002398](WDU20190002398/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 14 listopada 2019 r. zmienia | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -7672,7 +7537,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190002359](WDU20190002359/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 25 listopada 2019 r. zmieni | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190002358](WDU20190002358/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 28 | Rozporządzenie | obowiązujący |  |
 | [WDU20190002356](WDU20190002356/index.md) | Rozporządzenie Ministra Zdrowia z dnia 3 grudnia 2019 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20190002355](WDU20190002355/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 listopada 2019 r. sygn. akt P 9/1 | Orzeczenie | obowiązujący |  |
 | [WDU20190002354](WDU20190002354/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 listop | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190002352](WDU20190002352/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 27 listopada 2019 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190002345](WDU20190002345/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 14 listopada 2019 r. w sp | Rozporządzenie | obowiązujący |  |
@@ -7681,9 +7545,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190002342](WDU20190002342/index.md) | Rozporządzenie Ministra Środowiska z dnia 31 października 2019 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190002338](WDU20190002338/index.md) | Rozporządzenie Ministra Zdrowia z dnia 26 listopada 2019 r. zmieniające roz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190002335](WDU20190002335/index.md) | Rozporządzenie Ministra Zdrowia z dnia 27 listopada 2019 r. w sprawie zakre | Rozporządzenie | obowiązujący |  |
-| [WDU20190002334](WDU20190002334/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 listopada 2019 r. sygn. akt SK 6/ | Orzeczenie | obowiązujący |  |
 | [WDU20190002332](WDU20190002332/index.md) | Rozporządzenie Ministra Aktywów Państwowych z dnia 27 listopada 2019 r. w s | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20190002331](WDU20190002331/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 listopada 2019 r. sygn. akt K 4/1 | Orzeczenie | obowiązujący |  |
 | [WDU20190002330](WDU20190002330/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 27 listopada 2019 r. w sprawi | Rozporządzenie | obowiązujący |  |
 | [WDU20190002328](WDU20190002328/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 21 listopad | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20190002324](WDU20190002324/index.md) | Rozporządzenie Rady Ministrów z dnia 26 listopada 2019 r. w sprawie szczegó | Rozporządzenie | obowiązujący |  |
@@ -7757,9 +7619,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190002200](WDU20190002200/index.md) | Ustawa z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących po | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20190002198](WDU20190002198/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 18 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20190002197](WDU20190002197/index.md) | Ustawa z dnia 11 września 2019 r. o pracy na statkach rybackich | Ustawa | akt posiada tekst jednolity |  |
-| [WDU20190002196](WDU20190002196/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 października 2019 r. sygn. akt P  | Orzeczenie | obowiązujący |  |
 | [WDU20190002194](WDU20190002194/index.md) | Ustawa z dnia 16 października 2019 r. o zmianie ustawy o uzyskiwaniu tytułu | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20190002193](WDU20190002193/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 5 listopada 2019 r. sygn. akt P 14/1 | Orzeczenie | obowiązujący |  |
 | [WDU20190002192](WDU20190002192/index.md) | Rozporządzenie Ministra Środowiska z dnia 30 października 2019 r. zmieniają | Rozporządzenie | obowiązujący |  |
 | [WDU20190002191](WDU20190002191/index.md) | Rozporządzenie Ministra Zdrowia z dnia 21 października 2019 r. w sprawie Kr | Rozporządzenie | obowiązujący |  |
 | [WDU20190002190](WDU20190002190/index.md) | Rozporządzenie Ministra Zdrowia z dnia 16 października 2019 r. w sprawie Kr | Rozporządzenie | obowiązujący |  |
@@ -7893,7 +7753,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190001918](WDU20190001918/index.md) | Rozporządzenie Ministra Finansów, Inwestycji i Rozwoju z dnia 3 październik | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190001917](WDU20190001917/index.md) | Rozporządzenie Rady Ministrów z dnia 25 września 2019 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190001916](WDU20190001916/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 września 2019 r. w | Obwieszczenie | obowiązujący |  |
-| [WDU20190001915](WDU20190001915/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 25 września 2019 r. sygn. akt SK 31/ | Orzeczenie | obowiązujący |  |
 | [WDU20190001913](WDU20190001913/index.md) | Konwencja Rady Europy o koprodukcji filmowej (poprawiona), sporządzona w Ro | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20190001912](WDU20190001912/index.md) | Rozporządzenie Rady Ministrów z dnia 17 września 2019 r. zmieniające rozpor | Rozporządzenie | obowiązujący |  |
 | [WDU20190001911](WDU20190001911/index.md) | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 7 października  | Rozporządzenie | obowiązujący |  |
@@ -8162,22 +8021,17 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190001385](WDU20190001385/index.md) | Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 16 lipca 20 | Rozporządzenie | obowiązujący |  |
 | [WDU20190001383](WDU20190001383/index.md) | Rozporządzenie Ministra Środowiska z dnia 22 lipca 2019 r. w sprawie kryter | Rozporządzenie | obowiązujący |  |
 | [WDU20190001382](WDU20190001382/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 9 lipca 2019 r. w sprawie s | Rozporządzenie | obowiązujący |  |
-| [WDU20190001378](WDU20190001378/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2019 r. sygn. akt K 3/16 | Orzeczenie | obowiązujący |  |
 | [WDU20190001376](WDU20190001376/index.md) | Rozporządzenie Ministra Finansów z dnia 28 czerwca 2019 r. w sprawie funkcj | Rozporządzenie | obowiązujący |  |
 | [WDU20190001375](WDU20190001375/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 lipca  | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20190001374](WDU20190001374/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lipca 2019 | Obwieszczenie | obowiązujący |  |
-| [WDU20190001371](WDU20190001371/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lipca 2019 | Obwieszczenie | obowiązujący |  |
 | [WDU20190001370](WDU20190001370/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lipca 2019 | Obwieszczenie | obowiązujący |  |
 | [WDU20190001369](WDU20190001369/index.md) | Rozporządzenie Ministra Energii z dnia 19 lipca 2019 r. w sprawie sposobu o | Rozporządzenie | obowiązujący |  |
-| [WDU20190001368](WDU20190001368/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 lipca 2019 r. sygn. akt SK 20/18 | Orzeczenie | obowiązujący |  |
 | [WDU20190001367](WDU20190001367/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 18 lipca 2019 r. w sprawie o | Rozporządzenie | obowiązujący |  |
 | [WDU20190001366](WDU20190001366/index.md) | Obwieszczenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27  | Obwieszczenie | obowiązujący |  |
 | [WDU20190001365](WDU20190001365/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 lipca 2 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190001364](WDU20190001364/index.md) | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 17 lipca 2019 r | Rozporządzenie | obowiązujący |  |
 | [WDU20190001359](WDU20190001359/index.md) | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 18 lipca 2019 r | Rozporządzenie | obowiązujący |  |
 | [WDU20190001358](WDU20190001358/index.md) | Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o wsparciu kredytobiorców zn | Ustawa | obowiązujący |  |
-| [WDU20190001349](WDU20190001349/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 lipca 2019 r. sygn. akt SK 14/18 | Orzeczenie | obowiązujący |  |
-| [WDU20190001346](WDU20190001346/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 lipca 2019 r. sygn. akt SK 16/17 | Orzeczenie | obowiązujący |  |
 | [WDU20190001345](WDU20190001345/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 9 lipca 2019 r. w sprawie wa | Rozporządzenie | obowiązujący |  |
 | [WDU20190001341](WDU20190001341/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 lipca 2 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190001340](WDU20190001340/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 11 lipca 2019 r. | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -8229,17 +8083,13 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190001260](WDU20190001260/index.md) | Rozporządzenie Ministra Finansów z dnia 3 lipca 2019 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190001259](WDU20190001259/index.md) | Obwieszczenie Ministra Zdrowia z dnia 19 czerwca 2019 r. w sprawie ogłoszen | Obwieszczenie | obowiązujący |  |
 | [WDU20190001258](WDU20190001258/index.md) | Rozporządzenie Ministra Energii z dnia 4 lipca 2019 r. zmieniające rozporzą | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20190001257](WDU20190001257/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 2019 r. sygn. akt SK 2/17 | Orzeczenie | obowiązujący |  |
-| [WDU20190001255](WDU20190001255/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 2019 r. sygn. akt K 8/17 | Orzeczenie | obowiązujący |  |
 | [WDU20190001254](WDU20190001254/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 4 lipca 2019 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20190001249](WDU20190001249/index.md) | Poprawki do Protokołu montrealskiego w sprawie substancji zubożających wars | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20190001248](WDU20190001248/index.md) | Ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy o Polskiej Agencji Kosmic | Ustawa | obowiązujący |  |
 | [WDU20190001246](WDU20190001246/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 czerwca 2019 r. z | Rozporządzenie | obowiązujący |  |
 | [WDU20190001245](WDU20190001245/index.md) | Rozporządzenie Ministra Spraw Zagranicznych z dnia 26 czerwca 2019 r. w spr | Rozporządzenie | obowiązujący |  |
 | [WDU20190001243](WDU20190001243/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 czerwca 2019 r. z | Rozporządzenie | obowiązujący |  |
-| [WDU20190001242](WDU20190001242/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 25 czerwca 2019 r. sygn. akt SK 27/1 | Orzeczenie | obowiązujący |  |
 | [WDU20190001240](WDU20190001240/index.md) | Umowa między Rzecząpospolitą Polską a Królestwem Danii w sprawie rozgranicz | Umowa międzynarodowa | obowiązujący |  |
-| [WDU20190001238](WDU20190001238/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 2019 r. sygn. akt K 16/17 | Orzeczenie | obowiązujący |  |
 | [WDU20190001237](WDU20190001237/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 czerwca 2019  | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20190001236](WDU20190001236/index.md) | Rozporządzenie Ministra Zdrowia z dnia 27 czerwca 2019 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190001235](WDU20190001235/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 czerwca 2019 r. z | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -8286,7 +8136,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190001138](WDU20190001138/index.md) | Dokumenty poprawek do Konstytucji i Konwencji Międzynarodowego Związku Tele | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20190001137](WDU20190001137/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 czerwca 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20190001136](WDU20190001136/index.md) | Rozporządzenie Ministra Zdrowia z dnia 4 czerwca 2019 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20190001135](WDU20190001135/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 czerwca 2019 r. sygn. akt P 20/17 | Orzeczenie | obowiązujący |  |
 | [WDU20190001131](WDU20190001131/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 6 czerwca 2019 r. zmieniając | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190001130](WDU20190001130/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 czerwca 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20190001129](WDU20190001129/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 7 czerwca 2019 r. w sprawie w | Rozporządzenie | obowiązujący |  |
@@ -8355,7 +8204,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190001014](WDU20190001014/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 15 maja 2019 r. zmieniające | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190001013](WDU20190001013/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 maja 2019 | Obwieszczenie | obowiązujący |  |
 | [WDU20190001012](WDU20190001012/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 maja 2019 | Obwieszczenie | obowiązujący |  |
-| [WDU20190001009](WDU20190001009/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 maja 2019 r. sygn. akt SK 22/16 | Orzeczenie | obowiązujący |  |
 | [WDU20190001008](WDU20190001008/index.md) | Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 21 maja 201 | Rozporządzenie | obowiązujący |  |
 | [WDU20190001007](WDU20190001007/index.md) | Rozporządzenie Ministra Finansów z dnia 27 maja 2019 r. w sprawie wzoru inf | Rozporządzenie | obowiązujący |  |
 | [WDU20190001004](WDU20190001004/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 27 maja 2019 r.  | Rozporządzenie | obowiązujący |  |
@@ -8368,8 +8216,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000992](WDU20190000992/index.md) | Ustawa z dnia 12 kwietnia 2019 r. o zmianie ustawy o Instytucie Pamięci Nar | Ustawa | obowiązujący |  |
 | [WDU20190000986](WDU20190000986/index.md) | Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy o promocji zatrudnienia  | Ustawa | obowiązujący |  |
 | [WDU20190000984](WDU20190000984/index.md) | Rozporządzenie Ministra Finansów z dnia 17 maja 2019 r. w sprawie pokrywani | Rozporządzenie | obowiązujący |  |
-| [WDU20190000980](WDU20190000980/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 maja 2019 r. sygn. akt SK 31/17 | Orzeczenie | obowiązujący |  |
-| [WDU20190000979](WDU20190000979/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 maja 2019 r. sygn. akt SK 26/17 | Orzeczenie | obowiązujący |  |
 | [WDU20190000978](WDU20190000978/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 16 maja 2 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190000975](WDU20190000975/index.md) | Obwieszczenie Ministra Przedsiębiorczości i Technologii z dnia 15 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20190000969](WDU20190000969/index.md) | Ustawa z dnia 26 kwietnia 2019 r. o Narodowej Strategii Onkologicznej | Ustawa | obowiązujący |  |
@@ -8398,7 +8244,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000901](WDU20190000901/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 kwietnia 2019 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20190000899](WDU20190000899/index.md) | Rozporządzenie Rady Ministrów z dnia 29 kwietnia 2019 r. zmieniające rozpor | Rozporządzenie | obowiązujący |  |
 | [WDU20190000898](WDU20190000898/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 16 kwietnia 2019 r. w sprawi | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20190000897](WDU20190000897/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 maja 2019 r. sygn. akt K 45/16 | Orzeczenie | obowiązujący |  |
 | [WDU20190000895](WDU20190000895/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 maja 20 | Rozporządzenie | obowiązujący |  |
 | [WDU20190000893](WDU20190000893/index.md) | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 26 kwietnia 201 | Rozporządzenie | obowiązujący |  |
 | [WDU20190000890](WDU20190000890/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietn | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -8413,10 +8258,8 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000873](WDU20190000873/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 7 maja 2019 r. w sprawie lim | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20190000872](WDU20190000872/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maja 2019 r. zmien | Rozporządzenie | obowiązujący |  |
 | [WDU20190000866](WDU20190000866/index.md) | Rozporządzenie Ministra Finansów z dnia 29 kwietnia 2019 r. w sprawie obowi | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20190000861](WDU20190000861/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 kwietnia 2019 r. sygn. akt SK 21/ | Orzeczenie | obowiązujący |  |
 | [WDU20190000860](WDU20190000860/index.md) | Ustawa z dnia 4 kwietnia 2019 r. o przedkładaniu niektórych dokumentów urzę | Ustawa | obowiązujący |  |
 | [WDU20190000859](WDU20190000859/index.md) | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 9 maja  | Rozporządzenie | obowiązujący |  |
-| [WDU20190000858](WDU20190000858/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 kwietnia 2019 r. sygn. akt K 14/1 | Orzeczenie | obowiązujący |  |
 | [WDU20190000856](WDU20190000856/index.md) | Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 25 kwietnia | Rozporządzenie | obowiązujący |  |
 | [WDU20190000855](WDU20190000855/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 16 kwietnia 2019 r. w sprawi | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20190000854](WDU20190000854/index.md) | Rozporządzenie Ministra Finansów z dnia 17 kwietnia 2019 r. w sprawie postę | Rozporządzenie | obowiązujący |  |
@@ -8496,7 +8339,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000682](WDU20190000682/index.md) | Obwieszczenie Przewodniczącego Krajowej Rady Radiofonii i Telewizji z dnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20190000680](WDU20190000680/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 21 marca  | Rozporządzenie | obowiązujący |  |
 | [WDU20190000678](WDU20190000678/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 2  | Rozporządzenie | obowiązujący |  |
-| [WDU20190000674](WDU20190000674/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 kwietnia 2019 r. sygn. akt SK 13/1 | Orzeczenie | obowiązujący |  |
 | [WDU20190000668](WDU20190000668/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 27 marca 2019 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190000666](WDU20190000666/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 28 marca 2019 r. zmieniaj | Rozporządzenie | obowiązujący |  |
 | [WDU20190000665](WDU20190000665/index.md) | Rozporządzenie Rady Ministrów z dnia 11 marca 2019 r. w sprawie zniesienia  | Rozporządzenie | obowiązujący |  |
@@ -8524,7 +8366,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000617](WDU20190000617/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 5 marca 2019 r. w sprawie zak | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20190000613](WDU20190000613/index.md) | Rozporządzenie Ministra Finansów z dnia 21 marca 2019 r. w sprawie opłaty z | Rozporządzenie | obowiązujący |  |
 | [WDU20190000610](WDU20190000610/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 14 marca 2019 r. w sprawie ogło | Obwieszczenie | obowiązujący |  |
-| [WDU20190000609](WDU20190000609/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 25 marca 2019 r. sygn. akt K 12/18 | Orzeczenie | obowiązujący |  |
 | [WDU20190000607](WDU20190000607/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 27 marca 20 | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20190000606](WDU20190000606/index.md) | Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 22 marca 20 | Rozporządzenie | obowiązujący |  |
 | [WDU20190000605](WDU20190000605/index.md) | Rozporządzenie Ministra Zdrowia z dnia 29 marca 2019 r. w sprawie szczegóło | Rozporządzenie | obowiązujący |  |
@@ -8553,11 +8394,9 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000561](WDU20190000561/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 14 marca  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190000559](WDU20190000559/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190000557](WDU20190000557/index.md) | Umowa ustanawiająca Europejskie Laboratorium Biologii Molekularnej, sporząd | Umowa międzynarodowa | obowiązujący |  |
-| [WDU20190000552](WDU20190000552/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 7 marca 2019 r. w sprawie ogłos | Obwieszczenie | obowiązujący |  |
 | [WDU20190000551](WDU20190000551/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca  | Rozporządzenie | obowiązujący |  |
 | [WDU20190000547](WDU20190000547/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 12 marca 2019 r. w sprawie wa | Rozporządzenie | obowiązujący |  |
 | [WDU20190000546](WDU20190000546/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 12 marca 2019 r. w sprawie pr | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20190000539](WDU20190000539/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 6 marca 2019 r. sygn. akt P 20/16 | Orzeczenie | obowiązujący |  |
 | [WDU20190000538](WDU20190000538/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca  | Rozporządzenie | obowiązujący |  |
 | [WDU20190000536](WDU20190000536/index.md) | Rozporządzenie Ministra Środowiska z dnia 12 marca 2019 r. w sprawie wskaźn | Rozporządzenie | obowiązujący |  |
 | [WDU20190000534](WDU20190000534/index.md) | Ustawa z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz | Ustawa | akt posiada tekst jednolity |  |
@@ -8566,7 +8405,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000530](WDU20190000530/index.md) | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 15 marc | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190000529](WDU20190000529/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji oraz Ministra Sp | Rozporządzenie | obowiązujący |  |
 | [WDU20190000528](WDU20190000528/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 1  | Rozporządzenie | obowiązujący |  |
-| [WDU20190000525](WDU20190000525/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 6 marca 2019 r. sygn. akt K 18/17 | Orzeczenie | obowiązujący |  |
 | [WDU20190000523](WDU20190000523/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 marca  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190000516](WDU20190000516/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 14 | Rozporządzenie | obowiązujący |  |
 | [WDU20190000514](WDU20190000514/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 8 marca 2019 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -8742,8 +8580,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000139](WDU20190000139/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 stycznia 2019 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190000137](WDU20190000137/index.md) | Rozporządzenie Ministra Finansów z dnia 22 stycznia 2019 r. zmieniające roz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190000133](WDU20190000133/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 13 grudnia 2018 r. w sprawie og | Obwieszczenie | obowiązujący |  |
-| [WDU20190000131](WDU20190000131/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 17 stycznia 2019 r. sygn. akt K 1/18 | Orzeczenie | obowiązujący |  |
-| [WDU20190000128](WDU20190000128/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 stycznia 2019 r. sygn. akt P 19/1 | Orzeczenie | obowiązujący |  |
 | [WDU20190000127](WDU20190000127/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 17 stycznia | Rozporządzenie | obowiązujący |  |
 | [WDU20190000126](WDU20190000126/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 31 grudnia 2018 r. w sprawie og | Obwieszczenie | obowiązujący |  |
 | [WDU20190000115](WDU20190000115/index.md) | Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o organizowaniu i prowadze | Ustawa | akt objęty tekstem jednolitym |  |
@@ -8769,7 +8605,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000081](WDU20190000081/index.md) | Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o Policji | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20190000078](WDU20190000078/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 13 grudni | Rozporządzenie | obowiązujący |  |
 | [WDU20190000077](WDU20190000077/index.md) | Rozporządzenie Ministra Zdrowia z dnia 9 stycznia 2019 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20190000076](WDU20190000076/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 stycznia 2019 r. sygn. akt SK 6/16 | Orzeczenie | obowiązujący |  |
 | [WDU20190000072](WDU20190000072/index.md) | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 7 grudni | Obwieszczenie | obowiązujący |  |
 | [WDU20190000067](WDU20190000067/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 styczn | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190000065](WDU20190000065/index.md) | Porozumienie z dnia 28 grudnia 2017 r. między Rządem Rzeczypospolitej Polsk | Umowa międzynarodowa | obowiązujący |  |
@@ -8803,7 +8638,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000019](WDU20190000019/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 29 grudnia 2018  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20190000016](WDU20190000016/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 20 grudnia 2018 r. w sprawie  | Rozporządzenie | obowiązujący |  |
 | [WDU20190000015](WDU20190000015/index.md) | Ustawa z dnia 9 listopada 2018 r. o zmianie ustawy o Policji oraz niektóryc | Ustawa | obowiązujący |  |
-| [WDU20190000010](WDU20190000010/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 grudnia 2018 r. sygn. akt SK 27/1 | Orzeczenie | obowiązujący |  |
 | [WDU20190000009](WDU20190000009/index.md) | Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o służbie zagranicznej or | Ustawa | obowiązujący |  |
 | [WDU20190000008](WDU20190000008/index.md) | Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o ujawnianiu informacji o  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20190000003](WDU20190000003/index.md) | Rozporządzenie Ministra Finansów z dnia 31 grudnia 2018 r. w sprawie kontro | Rozporządzenie | obowiązujący |  |
@@ -8904,7 +8738,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180002382](WDU20180002382/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 5 grudnia 2018 r. w sprawie s | Rozporządzenie | obowiązujący |  |
 | [WDU20180002381](WDU20180002381/index.md) | Rozporządzenie Ministra Zdrowia z dnia 12 grudnia 2018 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180002380](WDU20180002380/index.md) | Rozporządzenie Ministra Finansów z dnia 13 grudnia 2018 r. w sprawie maksym | Rozporządzenie | obowiązujący |  |
-| [WDU20180002377](WDU20180002377/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 2018 r. sygn. akt P 133/1 | Orzeczenie | obowiązujący |  |
 | [WDU20180002376](WDU20180002376/index.md) | Rozporządzenie Ministra Zdrowia z dnia 12 grudnia 2018 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180002374](WDU20180002374/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 18 grudnia  | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20180002373](WDU20180002373/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 grudnia | Rozporządzenie | obowiązujący |  |
@@ -8935,7 +8768,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180002325](WDU20180002325/index.md) | Rozporządzenie Ministra Finansów z dnia 7 grudnia 2018 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180002324](WDU20180002324/index.md) | Rozporządzenie Ministra Cyfryzacji z dnia 11 grudnia 2018 r. w sprawie waru | Rozporządzenie | obowiązujący |  |
 | [WDU20180002323](WDU20180002323/index.md) | Rozporządzenie Rady Ministrów z dnia 27 listopada 2018 r. w sprawie trybu u | Rozporządzenie | obowiązujący |  |
-| [WDU20180002322](WDU20180002322/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 5 grudnia 2018 r. sygn. akt K 6/17 | Orzeczenie | obowiązujący |  |
 | [WDU20180002320](WDU20180002320/index.md) | Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o zwalczaniu dopingu w spo | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20180002319](WDU20180002319/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 30 listopada 2018 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20180002317](WDU20180002317/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 grudnia 2018 r. zm | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -8944,9 +8776,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180002306](WDU20180002306/index.md) | Rozporządzenie Ministra Środowiska z dnia 3 grudnia 2018 r. w sprawie roczn | Rozporządzenie | obowiązujący |  |
 | [WDU20180002305](WDU20180002305/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 23 listopada 2018 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20180002304](WDU20180002304/index.md) | Rozporządzenie Ministra Zdrowia z dnia 6 grudnia 2018 r. w sprawie przekazy | Rozporządzenie | obowiązujący |  |
-| [WDU20180002302](WDU20180002302/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 6 grudnia 2018 r. sygn. akt SK 19/16 | Orzeczenie | obowiązujący |  |
 | [WDU20180002301](WDU20180002301/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 30 listopada 2018 r. w spraw | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20180002300](WDU20180002300/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 grudnia 2018 r. sygn. akt P 12/17 | Orzeczenie | obowiązujący |  |
 | [WDU20180002299](WDU20180002299/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 23 listopada 2018 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20180002295](WDU20180002295/index.md) | Rozporządzenie Ministra Finansów z dnia 30 listopada 2018 r. w sprawie okre | Rozporządzenie | obowiązujący |  |
 | [WDU20180002293](WDU20180002293/index.md) | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 3 grudnia 2018  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -8962,7 +8792,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180002279](WDU20180002279/index.md) | Rozporządzenie Ministra Energii z dnia 3 grudnia 2018 r. w sprawie obniżeni | Rozporządzenie | obowiązujący |  |
 | [WDU20180002278](WDU20180002278/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 31 października 2018 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180002276](WDU20180002276/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 listop | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20180002275](WDU20180002275/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 listopada 2018 r. sygn. akt SK 3/ | Orzeczenie | obowiązujący |  |
 | [WDU20180002274](WDU20180002274/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 21 listopada 2018 r. zmienia | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180002270](WDU20180002270/index.md) | Ustawa z dnia 9 listopada 2018 r. o Instytucie Europy Środkowej | Ustawa | obowiązujący |  |
 | [WDU20180002266](WDU20180002266/index.md) | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 15 listopada 201 | Rozporządzenie | obowiązujący |  |
@@ -9012,7 +8841,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180002168](WDU20180002168/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 14 listopada 2018 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20180002166](WDU20180002166/index.md) | Rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 16 listopad | Rozporządzenie | obowiązujący |  |
 | [WDU20180002161](WDU20180002161/index.md) | Ustawa z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg | Ustawa | akt posiada tekst jednolity |  |
-| [WDU20180002160](WDU20180002160/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 listopada 2018 r. sygn. akt SK 17 | Orzeczenie | obowiązujący |  |
 | [WDU20180002158](WDU20180002158/index.md) | Rozporządzenie Ministra Finansów z dnia 31 października 2018 r. w sprawie ś | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20180002155](WDU20180002155/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 paździ | Rozporządzenie | obowiązujący |  |
 | [WDU20180002151](WDU20180002151/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 26 października 2018 r. w sp | Rozporządzenie | obowiązujący |  |
@@ -9038,7 +8866,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180002116](WDU20180002116/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 listopada 2018 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20180002111](WDU20180002111/index.md) | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 16 października  | Rozporządzenie | obowiązujący |  |
 | [WDU20180002108](WDU20180002108/index.md) | Porozumienie między Unią Europejską i jej państwami członkowskimi, z jednej | Umowa międzynarodowa | obowiązujący |  |
-| [WDU20180002102](WDU20180002102/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 października 2018 r. sygn. akt K  | Orzeczenie | obowiązujący |  |
 | [WDU20180002101](WDU20180002101/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 23 października 2018 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180002100](WDU20180002100/index.md) | Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 19 październ | Obwieszczenie | obowiązujący |  |
 | [WDU20180002093](WDU20180002093/index.md) | Rozporządzenie Ministra Finansów z dnia 15 października 2018 r. zmieniające | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -9120,9 +8947,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180001941](WDU20180001941/index.md) | Obwieszczenie Ministra Finansów z dnia 26 września 2018 r. w sprawie ogłosz | Obwieszczenie | obowiązujący |  |
 | [WDU20180001940](WDU20180001940/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 27 września 2018 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001939](WDU20180001939/index.md) | Rozporządzenie Ministra Środowiska z dnia 3 października 2018 r. w sprawie  | Rozporządzenie | obowiązujący |  |
-| [WDU20180001937](WDU20180001937/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 października 2018 r. sygn. akt SK  | Orzeczenie | obowiązujący |  |
 | [WDU20180001934](WDU20180001934/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 26 | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20180001933](WDU20180001933/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 2 października 2018 r. sygn. akt K 2 | Orzeczenie | obowiązujący |  |
 | [WDU20180001929](WDU20180001929/index.md) | Ustawa z dnia 13 września 2018 r. o zmianie ustawy o szczególnych rozwiązan | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20180001925](WDU20180001925/index.md) | Ustawa z dnia 13 września 2018 r. o zmianie ustawy o świadczeniach pieniężn | Ustawa | obowiązujący |  |
 | [WDU20180001923](WDU20180001923/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 września 2018 r.  | Rozporządzenie | obowiązujący |  |
@@ -9228,7 +9053,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180001697](WDU20180001697/index.md) | Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz us | Ustawa | obowiązujący |  |
 | [WDU20180001695](WDU20180001695/index.md) | Program realizacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem R | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20180001694](WDU20180001694/index.md) | Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o żegludze śródlądowej | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20180001693](WDU20180001693/index.md) | Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o partnerstwie publiczno-pry | Ustawa | obowiązujący |  |
 | [WDU20180001692](WDU20180001692/index.md) | Rozporządzenie Rady Ministrów z dnia 3 września 2018 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001691](WDU20180001691/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 sierpnia 2018 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20180001690](WDU20180001690/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 10 sierpnia 2018 r. w spraw | Rozporządzenie | akt posiada tekst jednolity |  |
@@ -9244,7 +9068,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180001673](WDU20180001673/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 13 sierpnia 2018 r. w sprawi | Rozporządzenie | obowiązujący |  |
 | [WDU20180001672](WDU20180001672/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 sierpn | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001670](WDU20180001670/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 24 sierpnia 2018 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20180001669](WDU20180001669/index.md) | Ustawa z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szk | Ustawa | obowiązujący |  |
 | [WDU20180001668](WDU20180001668/index.md) | Ustawa z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20180001667](WDU20180001667/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 sierpnia 2018 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001665](WDU20180001665/index.md) | Zmiany do załącznika I do Konwencji w sprawie transgranicznych skutków awar | Umowa międzynarodowa | obowiązujący |  |
@@ -9309,7 +9132,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180001547](WDU20180001547/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 25 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001546](WDU20180001546/index.md) | Ustawa z dnia 15 czerwca 2018 r. o ustanowieniu Medalu Stulecia Odzyskanej  | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20180001545](WDU20180001545/index.md) | Rozporządzenie Ministra Środowiska z dnia 18 czerwca 2018 r. w sprawie spec | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20180001544](WDU20180001544/index.md) | Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o usługach zaufania oraz ide | Ustawa | obowiązujący |  |
 | [WDU20180001540](WDU20180001540/index.md) | Ustawa z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków miesz | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20180001539](WDU20180001539/index.md) | Ustawa z dnia 15 czerwca 2018 r. o zmianie ustawy o systemie monitorowania  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20180001538](WDU20180001538/index.md) | Rozporządzenie Ministra Zdrowia z dnia 30 lipca 2018 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -9376,7 +9198,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180001392](WDU20180001392/index.md) | Obwieszczenie Ministra Infrastruktury z dnia 20 czerwca 2018 r. w sprawie o | Obwieszczenie | obowiązujący |  |
 | [WDU20180001391](WDU20180001391/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 22 czerwca 2018 r. w sprawie | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20180001388](WDU20180001388/index.md) | Rozporządzenie Rady Ministrów z dnia 4 lipca 2018 r. zmieniające rozporządz | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20180001387](WDU20180001387/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 17 lipca 2018 r. sygn. akt K 9/17 | Orzeczenie | obowiązujący |  |
 | [WDU20180001383](WDU20180001383/index.md) | Rozporządzenie Ministra Zdrowia z dnia 12 lipca 2018 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001377](WDU20180001377/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmi | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001375](WDU20180001375/index.md) | Ustawa z dnia 7 czerwca 2018 r. o zmianie ustawy - Prawo farmaceutyczne ora | Ustawa | obowiązujący |  |
@@ -9386,7 +9207,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180001367](WDU20180001367/index.md) | Porozumienie o Międzynarodowym Programie Energetycznym, sporządzone w Paryż | Porozumienie | obowiązujący |  |
 | [WDU20180001366](WDU20180001366/index.md) | Ustawa z dnia 6 czerwca 2018 r. o zmianie ustawy o finansach publicznych | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20180001365](WDU20180001365/index.md) | Ustawa z dnia 6 czerwca 2018 r. o zmianie ustawy o działalności pożytku pub | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20180001363](WDU20180001363/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 lipca 2018 r. sygn. akt SK 3/17 | Orzeczenie | obowiązujący |  |
 | [WDU20180001359](WDU20180001359/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 czerwca 2018 r. z | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001356](WDU20180001356/index.md) | Ustawa z dnia 6 czerwca 2018 r. o zmianie ustawy o biokomponentach i biopal | Ustawa | obowiązujący |  |
 | [WDU20180001353](WDU20180001353/index.md) | Obwieszczenie Ministra Sprawiedliwości z dnia 4 lipca 2018 r. w sprawie ogł | Obwieszczenie | obowiązujący |  |
@@ -9402,7 +9222,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180001319](WDU20180001319/index.md) | Rozporządzenie Ministra Zdrowia z dnia 27 czerwca 2018 r. w sprawie szczegó | Rozporządzenie | obowiązujący |  |
 | [WDU20180001318](WDU20180001318/index.md) | Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o wykonywaniu mandatu posła  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20180001317](WDU20180001317/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 27 czerwca 2018 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20180001315](WDU20180001315/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 lipca 2018 r. sygn. akt K 16/16 | Orzeczenie | obowiązujący |  |
 | [WDU20180001309](WDU20180001309/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20180001308](WDU20180001308/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 czerwca 2018 r. sygn. akt SK 4/17 | Orzeczenie | obowiązujący |  |
 | [WDU20180001306](WDU20180001306/index.md) | Ustawa z dnia 7 czerwca 2018 r. o zmianie ustawy o Narodowym Instytucie Wol | Ustawa | akt objęty tekstem jednolitym |  |
@@ -9436,7 +9255,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180001235](WDU20180001235/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20180001233](WDU20180001233/index.md) | Rozporządzenie Ministra Inwestycji i Rozwoju z dnia 13 czerwca 2018 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001232](WDU20180001232/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 8 czerwca 2018 r. w sprawie p | Rozporządzenie | obowiązujący |  |
-| [WDU20180001230](WDU20180001230/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 czerwca 2018 r. sygn. akt SK 34/1 | Orzeczenie | obowiązujący |  |
 | [WDU20180001229](WDU20180001229/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 czerwca 2018 r. sygn. akt K 47/14 | Orzeczenie | obowiązujący |  |
 | [WDU20180001224](WDU20180001224/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 12 czerwc | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001221](WDU20180001221/index.md) | Protokół do Układu o stabilizacji i stowarzyszeniu pomiędzy Wspólnotami Eur | Umowa międzynarodowa | obowiązujący |  |
@@ -9652,7 +9470,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180000741](WDU20180000741/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 5 kwietnia 2018 r. w sprawie og | Obwieszczenie | obowiązujący |  |
 | [WDU20180000739](WDU20180000739/index.md) | Rozporządzenie Ministra Sportu i Turystyki z dnia 12 kwietnia 2018 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180000731](WDU20180000731/index.md) | Umowa ramowa o partnerstwie i współpracy między Unią Europejską i jej państ | Umowa międzynarodowa | obowiązujący |  |
-| [WDU20180000730](WDU20180000730/index.md) | Ustawa z dnia 26 stycznia 2018 r. - Przepisy wprowadzające ustawę o Straży  | Ustawa | obowiązujący |  |
 | [WDU20180000729](WDU20180000729/index.md) | Ustawa z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20180000728](WDU20180000728/index.md) | Ustawa z dnia 28 lutego 2018 r. o zmianie ustawy o kierujących pojazdami | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20180000727](WDU20180000727/index.md) | Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o uznaniu za nieważne orzec | Ustawa | akt objęty tekstem jednolitym |  |
@@ -9874,7 +9691,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180000230](WDU20180000230/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 styczn | Rozporządzenie | obowiązujący |  |
 | [WDU20180000226](WDU20180000226/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 23 stycznia 2018 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180000224](WDU20180000224/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 styczn | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20180000221](WDU20180000221/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 stycznia  | Obwieszczenie | obowiązujący |  |
 | [WDU20180000218](WDU20180000218/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 styczn | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180000216](WDU20180000216/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 22 styczn | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180000215](WDU20180000215/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 styczn | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -10028,7 +9844,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20170002422](WDU20170002422/index.md) | Ustawa z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektór | Ustawa | obowiązujący |  |
 | [WDU20170002421](WDU20170002421/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 7 grudnia 2017 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20170002419](WDU20170002419/index.md) | Rozporządzenie Ministra Środowiska z dnia 21 grudnia 2017 r. w sprawie Cent | Rozporządzenie | obowiązujący |  |
-| [WDU20170002418](WDU20170002418/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 14 grudnia 2017 r. sygn. akt K 36/15 | Orzeczenie | obowiązujący |  |
 | [WDU20170002417](WDU20170002417/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 7 grudnia 2017 r. w spraw | Rozporządzenie | obowiązujący |  |
 | [WDU20170002413](WDU20170002413/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 18 grudnia 2017 r. zmieni | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20170002412](WDU20170002412/index.md) | Rozporządzenie Ministra Środowiska z dnia 15 grudnia 2017 r. w sprawie pozi | Rozporządzenie | obowiązujący |  |
@@ -10818,7 +10633,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20170000630](WDU20170000630/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 20 marca 2017 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20170000628](WDU20170000628/index.md) | Ustawa z dnia 9 marca 2017 r. o zmianie ustawy o funkcjonowaniu górnictwa w | Ustawa | obowiązujący |  |
 | [WDU20170000625](WDU20170000625/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 marca 2017 r. w s | Rozporządzenie | obowiązujący |  |
-| [WDU20170000624](WDU20170000624/index.md) | Ustawa z dnia 10 lutego 2017 r. - Przepisy wprowadzające ustawę o Krajowym  | Ustawa | obowiązujący |  |
 | [WDU20170000623](WDU20170000623/index.md) | Ustawa z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20170000622](WDU20170000622/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 13 marca 2017 r. w sprawi | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20170000618](WDU20170000618/index.md) | Umowa ramowa o wszechstronnym partnerstwie i współpracy między Unią Europej | Umowa międzynarodowa | obowiązujący |  |
@@ -11094,7 +10908,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20160002263](WDU20160002263/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 21 grudnia 2016 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20160002262](WDU20160002262/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 21 grudnia 2016 r. w spra | Rozporządzenie | obowiązujący |  |
 | [WDU20160002261](WDU20160002261/index.md) | Ustawa z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej | Ustawa | akt posiada tekst jednolity |  |
-| [WDU20160002260](WDU20160002260/index.md) | Ustawa z dnia 16 grudnia 2016 r. - Przepisy wprowadzające ustawę o zasadach | Ustawa | obowiązujący |  |
 | [WDU20160002259](WDU20160002259/index.md) | Ustawa z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20160002255](WDU20160002255/index.md) | Ustawa z dnia 16 grudnia 2016 r. o zmianie niektórych ustaw w celu poprawy  | Ustawa | obowiązujący |  |
 | [WDU20160002251](WDU20160002251/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 23 grudni | Rozporządzenie | obowiązujący |  |
@@ -11205,7 +11018,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20160002085](WDU20160002085/index.md) | Rozporządzenie Ministra Środowiska z dnia 14 grudnia 2016 r. w sprawie wyso | Rozporządzenie | obowiązujący |  |
 | [WDU20160002084](WDU20160002084/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 9 grudnia 2016 r. w sprawie  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20160002076](WDU20160002076/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 6  | Rozporządzenie | obowiązujący |  |
-| [WDU20160002074](WDU20160002074/index.md) | Ustawa z dnia 13 grudnia 2016 r. - Przepisy wprowadzające ustawę o organiza | Ustawa | obowiązujący |  |
 | [WDU20160002073](WDU20160002073/index.md) | Ustawa z dnia 30 listopada 2016 r. o statusie sędziów Trybunału Konstytucyj | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20160002072](WDU20160002072/index.md) | Ustawa z dnia 30 listopada 2016 r. o organizacji i trybie postępowania prze | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20160002068](WDU20160002068/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 12 grudnia 2016 r. w spra | Rozporządzenie | obowiązujący |  |
@@ -11259,7 +11071,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20160001955](WDU20160001955/index.md) | Ustawa z dnia 1 grudnia 2016 r. o zmianie niektórych ustaw w zakresie bezpi | Ustawa | obowiązujący |  |
 | [WDU20160001954](WDU20160001954/index.md) | Ustawa z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracj | Ustawa | obowiązujący |  |
 | [WDU20160001952](WDU20160001952/index.md) | Rozporządzenie Rady Ministrów z dnia 17 listopada 2016 r. zmieniające rozpo | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20160001948](WDU20160001948/index.md) | Ustawa z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajow | Ustawa | obowiązujący |  |
 | [WDU20160001947](WDU20160001947/index.md) | Ustawa z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20160001946](WDU20160001946/index.md) | Rozporządzenie Ministra Rozwoju i Finansów z dnia 18 listopada 2016 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20160001945](WDU20160001945/index.md) | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 17 listo | Obwieszczenie | obowiązujący |  |
@@ -12017,7 +11828,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20160000047](WDU20160000047/index.md) | Rozporządzenie Ministra Finansów z dnia 4 stycznia 2016 r. w sprawie obowią | Rozporządzenie | obowiązujący |  |
 | [WDU20160000043](WDU20160000043/index.md) | Umowa o Wyszehradzkim Instytucie Patentowym, sporządzona w Bratysławie dnia | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20160000039](WDU20160000039/index.md) | Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 23 grudnia 2015 | Rozporządzenie | obowiązujący |  |
-| [WDU20160000035](WDU20160000035/index.md) | Ustawa z dnia 29 grudnia 2015 r. o zmianie ustawy o systemie oświaty oraz n | Ustawa | obowiązujący |  |
 | [WDU20160000034](WDU20160000034/index.md) | Ustawa z dnia 30 grudnia 2015 r. o zmianie ustawy o służbie cywilnej oraz n | Ustawa | obowiązujący |  |
 | [WDU20160000028](WDU20160000028/index.md) | Rozporządzenie Rady Ministrów z dnia 14 grudnia 2015 r. w sprawie oceny okr | Rozporządzenie | obowiązujący |  |
 | [WDU20160000027](WDU20160000027/index.md) | Ustawa z dnia 22 grudnia 2015 r. o zmianie ustawy o kierujących pojazdami | Ustawa | akt objęty tekstem jednolitym |  |
@@ -12469,7 +12279,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20150001337](WDU20150001337/index.md) | Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy o ewidencji ludności | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20150001336](WDU20150001336/index.md) | Ustawa z dnia 9 lipca 2015 r. o zmianie ustawy o Straży Granicznej oraz nie | Ustawa | obowiązujący |  |
 | [WDU20150001335](WDU20150001335/index.md) | Ustawa z dnia 24 lipca 2015 r. o zmianie ustawy - Prawo o ruchu drogowym or | Ustawa | obowiązujący |  |
-| [WDU20150001333](WDU20150001333/index.md) | Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy o rachunkowości oraz niektó | Ustawa | obowiązujący |  |
 | [WDU20150001331](WDU20150001331/index.md) | Obwieszczenie Ministra Zdrowia z dnia 19 sierpnia 2015 r. w sprawie ogłosze | Obwieszczenie | obowiązujący |  |
 | [WDU20150001328](WDU20150001328/index.md) | Rozporządzenie Ministra Środowiska z dnia 29 lipca 2015 r. w sprawie wykorz | Rozporządzenie | obowiązujący |  |
 | [WDU20150001327](WDU20150001327/index.md) | Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o kierujących pojazdami | Ustawa | akt objęty tekstem jednolitym |  |
@@ -12829,7 +12638,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20150000366](WDU20150000366/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 2 marca 2015 r. zmieniające ro | Rozporządzenie | obowiązujący |  |
 | [WDU20150000364](WDU20150000364/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2015 r. w s | Rozporządzenie | obowiązujący |  |
 | [WDU20150000359](WDU20150000359/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 2 marca 2015 r. w sprawie za | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20150000357](WDU20150000357/index.md) | Ustawa z dnia 20 lutego 2015 r. o zmianie ustawy o systemie oświaty oraz ni | Ustawa | obowiązujący |  |
 | [WDU20150000350](WDU20150000350/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 marca 2015 r. zmi | Rozporządzenie | obowiązujący |  |
 | [WDU20150000349](WDU20150000349/index.md) | Ustawa z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z u | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20150000347](WDU20150000347/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 marca 2015 r. zmie | Rozporządzenie | obowiązujący |  |
@@ -13178,7 +12986,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140001390](WDU20140001390/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 października 2014  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20140001387](WDU20140001387/index.md) | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Słowackiej | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20140001385](WDU20140001385/index.md) | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Serbii o w | Umowa międzynarodowa | obowiązujący |  |
-| [WDU20140001381](WDU20140001381/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 4 września 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20140001375](WDU20140001375/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 września 2014 r. sygn. akt SK 22/ | Orzeczenie | obowiązujący |  |
 | [WDU20140001374](WDU20140001374/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 września 2014 r. sygn. akt U 4/13 | Orzeczenie | obowiązujący |  |
 | [WDU20140001371](WDU20140001371/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 września 2014 r. w spr | Rozporządzenie | akt posiada tekst jednolity |  |
@@ -13381,7 +13188,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140000900](WDU20140000900/index.md) | Ustawa z dnia 30 maja 2014 r. o zmianie ustawy o zapasach ropy naftowej, pr | Ustawa | obowiązujący |  |
 | [WDU20140000899](WDU20140000899/index.md) | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 10 czerwca 2014 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20140000898](WDU20140000898/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 17 czerwca 2014 r. sygn. akt P 6/12 | Orzeczenie | obowiązujący |  |
-| [WDU20140000897](WDU20140000897/index.md) | Ustawa z dnia 5 czerwca 2014 r. o zmianie ustawy - Prawo geodezyjne i karto | Ustawa | obowiązujący |  |
 | [WDU20140000896](WDU20140000896/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 czerwca 2014 r. zm | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20140000891](WDU20140000891/index.md) | Drugi Protokół Fakultatywny do Międzynarodowego Paktu Praw Obywatelskich i  | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20140000887](WDU20140000887/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 16 czerwca 2014 r. zmieni | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -13434,7 +13240,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140000775](WDU20140000775/index.md) | Rozporządzenie Ministra Zdrowia z dnia 3 czerwca 2014 r. w sprawie wzoru wn | Rozporządzenie | obowiązujący |  |
 | [WDU20140000773](WDU20140000773/index.md) | Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o powszechnym obowiązku  | Ustawa | obowiązujący |  |
 | [WDU20140000772](WDU20140000772/index.md) | Rozporządzenie Ministra Zdrowia z dnia 6 czerwca 2014 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20140000768](WDU20140000768/index.md) | Ustawa z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonywania niektórych | Ustawa | obowiązujący | [tak](WDU20140000768/orzecznictwo.md) |
 | [WDU20140000766](WDU20140000766/index.md) | Rozporządzenie Ministra Finansów z dnia 28 maja 2014 r. w sprawie wykazu do | Rozporządzenie | obowiązujący |  |
 | [WDU20140000757](WDU20140000757/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 26 maja 2014 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20140000756](WDU20140000756/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 czerwca 2014 r. w  | Rozporządzenie | obowiązujący |  |
@@ -13799,7 +13604,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20130001607](WDU20130001607/index.md) | Rozporządzenie Ministra Środowiska z dnia 9 grudnia 2013 r. w sprawie wzoru | Rozporządzenie | obowiązujący |  |
 | [WDU20130001602](WDU20130001602/index.md) | Umowa między Rzecząpospolitą Polską a Księstwem Andory o wymianie informacj | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20130001600](WDU20130001600/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 13 grudnia 2013 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20130001593](WDU20130001593/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 listopada 2013 r. sygn. akt K 17/ | Orzeczenie | obowiązujący | [tak](WDU20130001593/orzecznictwo.md) |
 | [WDU20130001590](WDU20130001590/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 10 grudnia 2013 r. zmieniają | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20130001588](WDU20130001588/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 grudnia 2013 r. sygn. akt K 16/13 | Orzeczenie | obowiązujący |  |
 | [WDU20130001585](WDU20130001585/index.md) | Rozporządzenie Rady Ministrów z dnia 6 grudnia 2013 r. zmieniające rozporzą | Rozporządzenie | obowiązujący |  |
@@ -14074,7 +13878,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20130000832](WDU20130000832/index.md) | Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 2 kwietnia 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20130000831](WDU20130000831/index.md) | Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 3 lipca 2013 r. z | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20130000830](WDU20130000830/index.md) | Ustawa z dnia 24 maja 2013 r. o zmianie ustawy o księgach wieczystych i hip | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20130000829](WDU20130000829/index.md) | Ustawa z dnia 13 czerwca 2013 r. o zmianie ustaw regulujących wykonywanie n | Ustawa | obowiązujący | [tak](WDU20130000829/orzecznictwo.md) |
 | [WDU20130000827](WDU20130000827/index.md) | Ustawa z dnia 13 czerwca 2013 r. o zmianie ustawy o systemie oświaty oraz n | Ustawa | obowiązujący |  |
 | [WDU20130000826](WDU20130000826/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 czerwca 2013 r. sygn. akt K 12/10 | Orzeczenie | obowiązujący |  |
 | [WDU20130000825](WDU20130000825/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 2013 r. sygn. akt K 33/12 | Orzeczenie | obowiązujący |  |
@@ -14380,7 +14183,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20130000027](WDU20130000027/index.md) | Rozporządzenie Rady Ministrów z dnia 2 stycznia 2013 r. w sprawie zakazu st | Rozporządzenie | obowiązujący |  |
 | [WDU20130000025](WDU20130000025/index.md) | Rozporządzenie Ministra Środowiska z dnia 20 grudnia 2012 r. w sprawie spos | Rozporządzenie | obowiązujący |  |
 | [WDU20130000024](WDU20130000024/index.md) | Rozporządzenie Ministra Środowiska z dnia 20 grudnia 2012 r. zmieniające ro | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20130000021](WDU20130000021/index.md) | Ustawa z dnia 14 grudnia 2012 r. o odpadach | Ustawa | akt posiada tekst jednolity | [tak](WDU20130000021/orzecznictwo.md) |
+| [WDU20130000021](WDU20130000021/index.md) | Ustawa z dnia 14 grudnia 2012 r. o odpadach | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20130000017](WDU20130000017/index.md) | Rozporządzenie Rady Ministrów z dnia 18 grudnia 2012 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20130000011](WDU20130000011/index.md) | Rozporządzenie Rady Ministrów z dnia 21 grudnia 2012 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20130000007](WDU20130000007/index.md) | Ustawa z dnia 9 listopada 2012 r. o zmianie ustawy o bezpieczeństwie i rato | Ustawa | obowiązujący | [tak](WDU20130000007/orzecznictwo.md) |
@@ -15069,7 +14872,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20112051203](WDU20112051203/index.md) | Ustawa z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państ | Ustawa | akt posiada tekst jednolity | [tak](WDU20112051203/orzecznictwo.md) |
 | [WDU20112051202](WDU20112051202/index.md) | Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o wspieraniu rozwoju obszar | Ustawa | obowiązujący |  |
 | [WDU20112041195](WDU20112041195/index.md) | Ustawa z dnia 16 września 2011 r. o zmianie ustawy o dostępie do informacji | Ustawa | obowiązujący | [tak](WDU20112041195/orzecznictwo.md) |
-| [WDU20112031192](WDU20112031192/index.md) | Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy - Prawo o ustroju sądów  | Ustawa | obowiązujący | [tak](WDU20112031192/orzecznictwo.md) |
 | [WDU20112011183](WDU20112011183/index.md) | Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o służbie cywilnej oraz  | Ustawa | obowiązujący |  |
 | [WDU20112011180](WDU20112011180/index.md) | Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o niektórych formach pop | Ustawa | obowiązujący | [tak](WDU20112011180/orzecznictwo.md) |
 | [WDU20111991175](WDU20111991175/index.md) | Ustawa z dnia 19 sierpnia 2011 r. o usługach płatniczych | Ustawa | akt posiada tekst jednolity | [tak](WDU20111991175/orzecznictwo.md) |
@@ -15090,7 +14892,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20111781061](WDU20111781061/index.md) | Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy - Przepisy wprowadzające us | Ustawa | obowiązujący |  |
 | [WDU20111781060](WDU20111781060/index.md) | Ustawa z dnia 15 lipca 2011 r. o krajowym systemie ekozarządzania i audytu  | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20111781058](WDU20111781058/index.md) | Ustawa z dnia 30 czerwca 2011 r. o zmianie ustawy o świadczeniu przez prawn | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20111741039](WDU20111741039/index.md) | Ustawa z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej | Ustawa | akt posiada tekst jednolity | [tak](WDU20111741039/orzecznictwo.md) |
+| [WDU20111741039](WDU20111741039/index.md) | Ustawa z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20111741038](WDU20111741038/index.md) | Ustawa z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych | Ustawa | akt posiada tekst jednolity | [tak](WDU20111741038/orzecznictwo.md) |
 | [WDU20111731029](WDU20111731029/index.md) | Ustawa z dnia 15 lipca 2011 r. o Ośrodku Studiów Wschodnich im. Marka Karpi | Ustawa | obowiązujący |  |
 | [WDU20111711016](WDU20111711016/index.md) | Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy o zasadach ewidencji i iden | Ustawa | obowiązujący |  |
@@ -15099,7 +14901,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20111681005](WDU20111681005/index.md) | Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy o czasie pracy kierowców or | Ustawa | obowiązujący |  |
 | [WDU20111681004](WDU20111681004/index.md) | Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy o Rzeczniku Praw Obywatelsk | Ustawa | obowiązujący |  |
 | [WDU20111681003](WDU20111681003/index.md) | Ustawa z dnia 10 czerwca 2011 r. o zmianie ustawy o żegludze śródlądowej or | Ustawa | obowiązujący |  |
-| [WDU20111681002](WDU20111681002/index.md) | Ustawa z dnia 10 czerwca 2011 r. o zmianie ustawy o komercjalizacji, restru | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20111681001](WDU20111681001/index.md) | Ustawa z dnia 10 czerwca 2011 r. o zmianie ustawy o emeryturach i rentach z | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20111630981](WDU20111630981/index.md) | Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze | Ustawa | akt posiada tekst jednolity | [tak](WDU20111630981/orzecznictwo.md) |
 | [WDU20111610966](WDU20111610966/index.md) | Ustawa z dnia 13 maja 2011 r. o zmianie ustawy o działalności lobbingowej w | Ustawa | akt objęty tekstem jednolitym |  |
@@ -15200,7 +15001,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20110530277](WDU20110530277/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 1 marca 2011 r. sygn. akt P 21/09 | Orzeczenie | obowiązujący | [tak](WDU20110530277/orzecznictwo.md) |
 | [WDU20110510263](WDU20110510263/index.md) | Ustawa z dnia 25 lutego 2011 r. zmieniająca ustawę o zmianie ustawy o broni | Ustawa | obowiązujący |  |
 | [WDU20110500255](WDU20110500255/index.md) | Ustawa z dnia 5 stycznia 2011 r. o zmianie ustawy o ochronie granicy państw | Ustawa | obowiązujący |  |
-| [WDU20110480247](WDU20110480247/index.md) | Ustawa z dnia 4 lutego 2011 r. o zmianie ustawy o transporcie drogowym | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20110480247/orzecznictwo.md) |
+| [WDU20110480247](WDU20110480247/index.md) | Ustawa z dnia 4 lutego 2011 r. o zmianie ustawy o transporcie drogowym | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20110450235](WDU20110450235/index.md) | Ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 | Ustawa | akt posiada tekst jednolity | [tak](WDU20110450235/orzecznictwo.md) |
 | [WDU20110380196](WDU20110380196/index.md) | Ustawa z dnia 1 lutego 2011 r. o zmianie ustawy o udzielaniu przez Skarb Pa | Ustawa | obowiązujący |  |
 | [WDU20110380195](WDU20110380195/index.md) | Ustawa z dnia 5 stycznia 2011 r. o zmianie ustawy o broni i amunicji oraz u | Ustawa | obowiązujący | [tak](WDU20110380195/orzecznictwo.md) |
@@ -15335,7 +15136,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20101340903](WDU20101340903/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 5 lipca 2010 r. sygn. akt P 31/09 | Orzeczenie | obowiązujący |  |
 | [WDU20101330898](WDU20101330898/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 29 czerwca 2010 r. sygn. akt P 28/09 | Orzeczenie | obowiązujący |  |
 | [WDU20101270858](WDU20101270858/index.md) | Ustawa z dnia 25 czerwca 2010 r. o zmianie ustawy o kontroli skarbowej oraz | Ustawa | obowiązujący | [tak](WDU20101270858/orzecznictwo.md) |
-| [WDU20101270857](WDU20101270857/index.md) | Ustawa z dnia 25 czerwca 2010 r. o sporcie | Ustawa | akt posiada tekst jednolity | [tak](WDU20101270857/orzecznictwo.md) |
 | [WDU20101250842](WDU20101250842/index.md) | Ustawa z dnia 10 czerwca 2010 r. o zmianie ustawy o przeciwdziałaniu przemo | Ustawa | obowiązujący | [tak](WDU20101250842/orzecznictwo.md) |
 | [WDU20101230835](WDU20101230835/index.md) | Ustawa z dnia 24 czerwca 2010 r. o szczególnych rozwiązaniach związanych z  | Ustawa | obowiązujący |  |
 | [WDU20101220828](WDU20101220828/index.md) | Obwieszczenie Państwowej Komisji Wyborczej z dnia 5 lipca 2010 r. o wynikac | Obwieszczenie | obowiązujący |  |
@@ -15503,7 +15303,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20091601275](WDU20091601275/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 września 2009 r. sygn. akt P 33/0 | Orzeczenie | obowiązujący |  |
 | [WDU20091591262](WDU20091591262/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 września 2009 r. sygn. akt SK 3/0 | Orzeczenie | obowiązujący |  |
 | [WDU20091591261](WDU20091591261/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 września 2009 r. sygn. akt P 46/0 | Orzeczenie | obowiązujący |  |
-| [WDU20091571241](WDU20091571241/index.md) | Ustawa z dnia 27 sierpnia 2009 r. Przepisy wprowadzające ustawę o finansach | Ustawa | obowiązujący | [tak](WDU20091571241/orzecznictwo.md) |
 | [WDU20091571240](WDU20091571240/index.md) | Ustawa z dnia 27 sierpnia 2009 r. o finansach publicznych | Ustawa | akt posiada tekst jednolity | [tak](WDU20091571240/orzecznictwo.md) |
 | [WDU20091561239](WDU20091561239/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 14 września 2009 r. sygn. akt SK 47/ | Orzeczenie | obowiązujący | [tak](WDU20091561239/orzecznictwo.md) |
 | [WDU20091441177](WDU20091441177/index.md) | Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy o wykonywaniu mandatu posła | Ustawa | akt objęty tekstem jednolitym |  |
@@ -15520,7 +15319,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20091231026](WDU20091231026/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 lipca 2009 r. sygn. akt P 65/07 | Orzeczenie | obowiązujący |  |
 | [WDU20091221007](WDU20091221007/index.md) | Ustawa z dnia 17 lipca 2009 r. o zmianie ustawy o Państwowym Ratownictwie M | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20091190999](WDU20091190999/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 21 lipca 2009 r. sygn. akt K 7/09 | Orzeczenie | obowiązujący |  |
-| [WDU20091180989](WDU20091180989/index.md) | Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o świadczeniach opieki zd | Ustawa | obowiązujący | [tak](WDU20091180989/orzecznictwo.md) |
+| [WDU20091180989](WDU20091180989/index.md) | Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o świadczeniach opieki zd | Ustawa | obowiązujący |  |
 | [WDU20091170988](WDU20091170988/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 lipca 2009 r. sygn. akt K 64/07 | Orzeczenie | obowiązujący | [tak](WDU20091170988/orzecznictwo.md) |
 | [WDU20091160979](WDU20091160979/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 lipca 2009 r. sygn. akt K 36/08 | Orzeczenie | obowiązujący |  |
 | [WDU20091160976](WDU20091160976/index.md) | Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o systemie identyfikacji  | Ustawa | obowiązujący |  |
@@ -15565,7 +15364,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20090910751](WDU20090910751/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 maja 2009 r. sygn. akt P 87/08 | Orzeczenie | obowiązujący | [tak](WDU20090910751/orzecznictwo.md) |
 | [WDU20090910742](WDU20090910742/index.md) | Ustawa z dnia 7 maja 2009 r. o zmianie ustawy o spółdzielniach socjalnych o | Ustawa | obowiązujący | [tak](WDU20090910742/orzecznictwo.md) |
 | [WDU20090910741](WDU20090910741/index.md) | Ustawa z dnia 7 maja 2009 r. o zadośćuczynieniu rodzinom ofiar zbiorowych w | Ustawa | akt posiada tekst jednolity | [tak](WDU20090910741/orzecznictwo.md) |
-| [WDU20090910740](WDU20090910740/index.md) | Ustawa z dnia 7 maja 2009 r. o towarach paczkowanych | Ustawa | akt posiada tekst jednolity | [tak](WDU20090910740/orzecznictwo.md) |
+| [WDU20090910740](WDU20090910740/index.md) | Ustawa z dnia 7 maja 2009 r. o towarach paczkowanych | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20090910739](WDU20090910739/index.md) | Ustawa z dnia 5 marca 2009 r. o zmianie ustawy - Prawo o ruchu drogowym ora | Ustawa | obowiązujący |  |
 | [WDU20090890737](WDU20090890737/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 maja 2009 r. sygn. akt K 47/07 | Orzeczenie | obowiązujący |  |
 | [WDU20090860720](WDU20090860720/index.md) | Ustawa z dnia 22 maja 2009 r. o zmianie ustawy o autostradach płatnych oraz | Ustawa | obowiązujący |  |
@@ -15578,7 +15377,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20090790669](WDU20090790669/index.md) | Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy o służbie wojskowej żołn | Ustawa | obowiązujący | [tak](WDU20090790669/orzecznictwo.md) |
 | [WDU20090790668](WDU20090790668/index.md) | Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy o ochronie zwierząt | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20090790667](WDU20090790667/index.md) | Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy o ubezpieczeniu społeczn | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20090790667/orzecznictwo.md) |
-| [WDU20090790666](WDU20090790666/index.md) | Ustawa z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach | Ustawa | akt posiada tekst jednolity | [tak](WDU20090790666/orzecznictwo.md) |
+| [WDU20090790666](WDU20090790666/index.md) | Ustawa z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20090790665](WDU20090790665/index.md) | Ustawa z dnia 3 kwietnia 2009 r. o zmianie ustawy o państwowej kompensacie  | Ustawa | obowiązujący | [tak](WDU20090790665/orzecznictwo.md) |
 | [WDU20090790664](WDU20090790664/index.md) | Ustawa z dnia 3 kwietnia 2009 r. o zmianie ustawy o ustanowieniu programu w | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20090790663](WDU20090790663/index.md) | Ustawa z dnia 2 kwietnia 2009 r. o zmianie ustawy - Prawo o ruchu drogowym | Ustawa | akt objęty tekstem jednolitym |  |
@@ -15609,7 +15408,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20090630533](WDU20090630533/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 kwietnia 2009 r. sygn. akt P 11/0 | Orzeczenie | obowiązujący | [tak](WDU20090630533/orzecznictwo.md) |
 | [WDU20090630532](WDU20090630532/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 kwietnia 2009 r. sygn. akt K 37/06 | Orzeczenie | obowiązujący |  |
 | [WDU20090630531](WDU20090630531/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 kwietnia 2009 r. sygn. akt P/08 | Orzeczenie | obowiązujący |  |
-| [WDU20090630520](WDU20090630520/index.md) | Ustawa z dnia 20 marca 2009 r. o zmianie ustawy o przeciwdziałaniu narkoman | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20090630520/orzecznictwo.md) |
 | [WDU20090630518](WDU20090630518/index.md) | Ustawa z dnia 20 marca 2009 r. o zmianie ustawy o zapobieganiu zanieczyszcz | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20090620517](WDU20090620517/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 kwietnia 2009 r. sygn. akt P 53/08 | Orzeczenie | obowiązujący |  |
 | [WDU20090620504](WDU20090620504/index.md) | Ustawa z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych | Ustawa | akt posiada tekst jednolity | [tak](WDU20090620504/orzecznictwo.md) |
@@ -15656,7 +15454,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20090090057](WDU20090090057/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 stycznia 2009 r. sygn. akt K 45/0 | Orzeczenie | obowiązujący | [tak](WDU20090090057/orzecznictwo.md) |
 | [WDU20090090056](WDU20090090056/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 stycznia 2009 r. sygn. akt P 6/07 | Orzeczenie | obowiązujący |  |
 | [WDU20090080038](WDU20090080038/index.md) | Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy o systemie ubezpieczeń spo | Ustawa | obowiązujący | [tak](WDU20090080038/orzecznictwo.md) |
-| [WDU20090060033](WDU20090060033/index.md) | Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o promocji zatrudnienia i | Ustawa | obowiązujący | [tak](WDU20090060033/orzecznictwo.md) |
 | [WDU20090030016](WDU20090030016/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 6 stycznia 2009 r. sygn. akt SK 22/0 | Orzeczenie | obowiązujący |  |
 | [WDU20090030011](WDU20090030011/index.md) | Ustawa z dnia 6 grudnia 2008 r. o podatku akcyzowym | Ustawa | akt posiada tekst jednolity | [tak](WDU20090030011/orzecznictwo.md) |
 | [WDU20090010004](WDU20090010004/index.md) | Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy - Prawo o ustroju sądów p | Ustawa | obowiązujący | [tak](WDU20090010004/orzecznictwo.md) |
@@ -15789,29 +15586,24 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20081440900](WDU20081440900/index.md) | Ustawa z dnia 10 lipca 2008 r. o zmianie ustawy o rachunkowości | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20081440900/orzecznictwo.md) |
 | [WDU20081440899](WDU20081440899/index.md) | Ustawa z dnia 26 czerwca 2008 r. o zmianie ustawy o paszach | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20081430894](WDU20081430894/index.md) | Ustawa z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla podatników  | Ustawa | obowiązujący | [tak](WDU20081430894/orzecznictwo.md) |
-| [WDU20081380875](WDU20081380875/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 lipca 2008 r. sygn. akt P 41/07 | Orzeczenie | obowiązujący |  |
 | [WDU20081380874](WDU20081380874/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 lipca 2008 r. sygn. akt K 24/07 | Orzeczenie | obowiązujący |  |
 | [WDU20081380873](WDU20081380873/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 21 lipca 2008 r. sygn. akt P 49/07 | Orzeczenie | obowiązujący |  |
 | [WDU20081380872](WDU20081380872/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 lipca 2008 r. sygn. akt P 27/07 | Orzeczenie | obowiązujący |  |
-| [WDU20081380865](WDU20081380865/index.md) | Ustawa z dnia 10 lipca 2008 r. o odpadach wydobywczych | Ustawa | akt posiada tekst jednolity | [tak](WDU20081380865/orzecznictwo.md) |
+| [WDU20081380865](WDU20081380865/index.md) | Ustawa z dnia 10 lipca 2008 r. o odpadach wydobywczych | Ustawa | akt posiada tekst jednolity |  |
 | [WDU20081380863](WDU20081380863/index.md) | Ustawa z dnia 12 czerwca 2008 r. uchylająca ustawę o klasyfikacji drewna su | Ustawa | obowiązujący |  |
 | [WDU20081340850](WDU20081340850/index.md) | Ustawa z dnia 27 czerwca 2008 r. o zmianie ustawy o pomocy osobom uprawnion | Ustawa | obowiązujący |  |
 | [WDU20081310838](WDU20081310838/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2008 r. sygn. akt P 15/08 | Orzeczenie | obowiązujący |  |
-| [WDU20081310837](WDU20081310837/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2008 r. sygn. akt K 33/06 | Orzeczenie | obowiązujący | [tak](WDU20081310837/orzecznictwo.md) |
 | [WDU20081300829](WDU20081300829/index.md) | Ustawa z dnia 12 czerwca 2008 r. o zmianie ustawy o doradztwie podatkowym | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20081270817](WDU20081270817/index.md) | Ustawa z dnia 13 czerwca 2008 r. o zmianie ustawy o informatyzacji działaln | Ustawa | obowiązujący |  |
 | [WDU20081270816](WDU20081270816/index.md) | Ustawa z dnia 12 czerwca 2008 r. o zmianie ustawy o organizacji rynku mleka | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20081230804](WDU20081230804/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 lipca 2008 r. sygn. akt P 36/07 | Orzeczenie | obowiązujący |  |
 | [WDU20081230803](WDU20081230803/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 lipca 2008 r. sygn. akt K 46/07 | Orzeczenie | obowiązujący | [tak](WDU20081230803/orzecznictwo.md) |
 | [WDU20081230802](WDU20081230802/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 lipca 2008 r. sygn. akt K 38/07 | Orzeczenie | obowiązujący | [tak](WDU20081230802/orzecznictwo.md) |
-| [WDU20081220798](WDU20081220798/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 czerwca 2008 r. sygn. akt K 52/07 | Orzeczenie | obowiązujący |  |
 | [WDU20081220797](WDU20081220797/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 czerwca 2008 r. sygn. akt K 51/07 | Orzeczenie | obowiązujący | [tak](WDU20081220797/orzecznictwo.md) |
 | [WDU20081220796](WDU20081220796/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 2008 r. sygn. akt SK 20/0 | Orzeczenie | obowiązujący | [tak](WDU20081220796/orzecznictwo.md) |
 | [WDU20081200779](WDU20081200779/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 1 lipca 2008 r. sygn. akt SK 40/07 | Orzeczenie | obowiązujący | [tak](WDU20081200779/orzecznictwo.md) |
 | [WDU20081200778](WDU20081200778/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 1 lipca 2008 r. sygn. akt K 23/07 | Orzeczenie | obowiązujący |  |
-| [WDU20081190772](WDU20081190772/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 czerwca 2008 r. sygn. akt P 8/07 | Orzeczenie | obowiązujący | [tak](WDU20081190772/orzecznictwo.md) |
 | [WDU20081190771](WDU20081190771/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 czerwca 2008 r. sygn. akt SK 16/0 | Orzeczenie | obowiązujący |  |
-| [WDU20081190770](WDU20081190770/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 czerwca 2008 r. sygn. akt P 18/06 | Orzeczenie | obowiązujący |  |
 | [WDU20081180746](WDU20081180746/index.md) | Ustawa z dnia 30 maja 2008 r. o zmianie ustawy o specjalnych strefach ekono | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20081180745](WDU20081180745/index.md) | Ustawa z dnia 9 maja 2008 r. o zwrocie nadpłaty w podatku akcyzowym zapłaco | Ustawa | obowiązujący | [tak](WDU20081180745/orzecznictwo.md) |
 | [WDU20081160740](WDU20081160740/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 czerwca 2008 r. sygn. akt P 23/07 | Orzeczenie | obowiązujący |  |
@@ -15821,7 +15613,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20081100706](WDU20081100706/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 czerwca 2008 r. sygn. akt P 37/07 | Orzeczenie | obowiązujący | [tak](WDU20081100706/orzecznictwo.md) |
 | [WDU20081070687](WDU20081070687/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 czerwca 2008 r. sygn. akt K 50/05 | Orzeczenie | obowiązujący |  |
 | [WDU20081070686](WDU20081070686/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 czerwca 2008 r. sygn. akt SK 17/0 | Orzeczenie | obowiązujący |  |
-| [WDU20081000649](WDU20081000649/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 czerwca 2008 r. sygn. akt P 4/06 | Orzeczenie | obowiązujący |  |
 | [WDU20081000648](WDU20081000648/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 czerwca 2008 r. sygn. akt K 42/07 | Orzeczenie | obowiązujący |  |
 | [WDU20080980634](WDU20080980634/index.md) | Ustawa z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Roln | Ustawa | akt posiada tekst jednolity | [tak](WDU20080980634/orzecznictwo.md) |
 | [WDU20080970628](WDU20080970628/index.md) | Ustawa z dnia 25 kwietnia 2008 r. o nadaniu nowej nazwy Akademii Muzycznej  | Ustawa | obowiązujący |  |
@@ -15831,7 +15622,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20080960620](WDU20080960620/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 maja 2008 r. sygn. akt SK 25/07 | Orzeczenie | obowiązujący | [tak](WDU20080960620/orzecznictwo.md) |
 | [WDU20080960619](WDU20080960619/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 maja 2008 r. sygn. akt P 18/07 | Orzeczenie | obowiązujący | [tak](WDU20080960619/orzecznictwo.md) |
 | [WDU20080960608](WDU20080960608/index.md) | Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy o państwowej kompensacie | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20080930597](WDU20080930597/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 maja 2008 r. sygn. akt SK 9/07 | Orzeczenie | obowiązujący |  |
 | [WDU20080930585](WDU20080930585/index.md) | Ustawa z dnia 25 kwietnia 2008 r. o zmianie ustawy o postępowaniu w sprawac | Ustawa | obowiązujący |  |
 | [WDU20080930584](WDU20080930584/index.md) | Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy o informowaniu pracownik | Ustawa | obowiązujący |  |
 | [WDU20080930583](WDU20080930583/index.md) | Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy - Prawo atomowe | Ustawa | akt objęty tekstem jednolitym |  |
@@ -15848,7 +15638,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20080720427](WDU20080720427/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 kwietnia 2008 r. sygn. akt K 40/0 | Orzeczenie | obowiązujący |  |
 | [WDU20080700416](WDU20080700416/index.md) | Ustawa z dnia 18 marca 2008 r. o zmianie ustawy o udzielaniu cudzoziemcom o | Ustawa | obowiązujący |  |
 | [WDU20080670411](WDU20080670411/index.md) | Ustawa z dnia 28 marca 2008 r. o zmianie ustawy o emeryturach i rentach z F | Ustawa | obowiązujący | [tak](WDU20080670411/orzecznictwo.md) |
-| [WDU20080660410](WDU20080660410/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 kwietnia 2008 r. sygn. akt P 26/0 | Orzeczenie | obowiązujący |  |
 | [WDU20080660409](WDU20080660409/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 kwietnia 2008 r. sygn. akt P 9/06 | Orzeczenie | obowiązujący |  |
 | [WDU20080660402](WDU20080660402/index.md) | Ustawa z dnia 18 marca 2008 r. o zmianie ustawy o Biurze Ochrony Rządu oraz | Ustawa | obowiązujący | [tak](WDU20080660402/orzecznictwo.md) |
 | [WDU20080660401](WDU20080660401/index.md) | Ustawa z dnia 18 marca 2008 r. o nadaniu nowej nazwy Akademii Ekonomicznej  | Ustawa | obowiązujący |  |
@@ -15857,7 +15646,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20080590368](WDU20080590368/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 1 kwietnia 2008 r. sygn. akt SK 96/0 | Orzeczenie | obowiązujący |  |
 | [WDU20080590367](WDU20080590367/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 1 kwietnia 2008 r. sygn. akt SK 77/0 | Orzeczenie | obowiązujący | [tak](WDU20080590367/orzecznictwo.md) |
 | [WDU20080590359](WDU20080590359/index.md) | Ustawa z dnia 7 lutego 2008 r. o zmianie ustawy o transporcie kolejowym | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20080580358](WDU20080580358/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 marca 2008 r. sygn. akt SK 17/05 | Orzeczenie | obowiązujący |  |
 | [WDU20080580351](WDU20080580351/index.md) | Ustawa z dnia 12 marca 2008 r. o zmianie ustawy o zawodach lekarza i dentys | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20080580351/orzecznictwo.md) |
 | [WDU20080570350](WDU20080570350/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 31 marca 2008 r. sygn. akt P 20/07 | Orzeczenie | obowiązujący |  |
 | [WDU20080570349](WDU20080570349/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 31 marca 2008 r. sygn. akt SK 75/06 | Orzeczenie | obowiązujący |  |
@@ -15886,7 +15674,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20080380222](WDU20080380222/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 lutego 2008 r. sygn. akt P 48/06 | Orzeczenie | obowiązujący |  |
 | [WDU20080370214](WDU20080370214/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 lutego 2008 r. sygn. akt K 30/07 | Orzeczenie | obowiązujący |  |
 | [WDU20080300188](WDU20080300188/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 lutego 2008 r. sygn. akt SK 82/06 | Orzeczenie | obowiązujący |  |
-| [WDU20080270162](WDU20080270162/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 5 lutego 2008 r. sygn. akt K 34/06 | Orzeczenie | obowiązujący |  |
 | [WDU20080110059](WDU20080110059/index.md) | Ustawa z dnia 20 grudnia 2007 r. o zmianie ustawy o Agencji Bezpieczeństwa  | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20080110059/orzecznictwo.md) |
 | [WDU20080070040](WDU20080070040/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 stycznia 2008 r. sygn. akt P 35/06 | Orzeczenie | obowiązujący |  |
 | [WDU20072471845](WDU20072471845/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 grudnia 2007 r. sygn. akt P 39/06 | Orzeczenie | obowiązujący | [tak](WDU20072471845/orzecznictwo.md) |
@@ -15895,7 +15682,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20072471821](WDU20072471821/index.md) | Ustawa z dnia 6 grudnia 2007 r. o zmianie ustawy - Karta Nauczyciela | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20072471821/orzecznictwo.md) |
 | [WDU20072451816](WDU20072451816/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 grudnia 2007 r. sygn. akt K 52/05 | Orzeczenie | obowiązujący |  |
 | [WDU20072451815](WDU20072451815/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 grudnia 2007 r. sygn. akt SK 54/0 | Orzeczenie | obowiązujący |  |
-| [WDU20072421779](WDU20072421779/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 grudnia 2007 r. sygn. akt SK 37/0 | Orzeczenie | obowiązujący |  |
 | [WDU20072351735](WDU20072351735/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 2007 r. sygn. akt U 6/06 | Orzeczenie | obowiązujący |  |
 | [WDU20072351734](WDU20072351734/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 grudnia 2007 r. sygn. akt P 43/07 | Orzeczenie | obowiązujący |  |
 | [WDU20072311703](WDU20072311703/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 grudnia 2007 r. sygn. akt K 26/05 | Orzeczenie | obowiązujący |  |
@@ -15903,20 +15689,16 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20072301698](WDU20072301698/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 listopada 2007 r. sygn. akt K 39/ | Orzeczenie | obowiązujący | [tak](WDU20072301698/orzecznictwo.md) |
 | [WDU20072271680](WDU20072271680/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 29 listopada 2007 r. sygn. akt SK 43 | Orzeczenie | obowiązujący |  |
 | [WDU20072261674](WDU20072261674/index.md) | Ustawa z dnia 24 listopada 2007 r. o zmianie ustawy o doradztwie podatkowym | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20072251673](WDU20072251673/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 listopada 2007 r. sygn. akt SK 39 | Orzeczenie | obowiązujący |  |
 | [WDU20072251672](WDU20072251672/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 listopada 2007 r. sygn. akt SK 18 | Orzeczenie | obowiązujący | [tak](WDU20072251672/orzecznictwo.md) |
 | [WDU20072251671](WDU20072251671/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 listopada 2007 r. sygn. akt P 24/ | Orzeczenie | obowiązujący |  |
 | [WDU20072251670](WDU20072251670/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 listopada 2007 r. sygn. akt SK 57 | Orzeczenie | obowiązujący |  |
 | [WDU20072211650](WDU20072211650/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 14 listopada 2007 r. sygn. akt SK 16 | Orzeczenie | obowiązujący |  |
-| [WDU20072211649](WDU20072211649/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 listopada 2007 r. sygn. akt P 42/ | Orzeczenie | obowiązujący |  |
 | [WDU20072111549](WDU20072111549/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 listopada 2007 r. sygn. akt K 18/0 | Orzeczenie | obowiązujący |  |
 | [WDU20072111548](WDU20072111548/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 6 listopada 2007 r. sygn. akt U 8/05 | Orzeczenie | obowiązujący |  |
 | [WDU20072091520](WDU20072091520/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 października 2007 r. sygn. akt P  | Orzeczenie | obowiązujący |  |
 | [WDU20072091519](WDU20072091519/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 października 2007 r. sygn. akt P  | Orzeczenie | obowiązujący |  |
-| [WDU20072041482](WDU20072041482/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 października 2007 r. sygn. akt SK | Orzeczenie | obowiązujący | [tak](WDU20072041482/orzecznictwo.md) |
 | [WDU20072001446](WDU20072001446/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 października 2007 r. sygn. akt P  | Orzeczenie | obowiązujący |  |
 | [WDU20072001445](WDU20072001445/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 października 2007 r. sygn. akt P  | Orzeczenie | obowiązujący |  |
-| [WDU20071951414](WDU20071951414/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 października 2007 r. sygn. akt SK | Orzeczenie | obowiązujący |  |
 | [WDU20071951413](WDU20071951413/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 października 2007 r. sygn. akt K  | Orzeczenie | obowiązujący |  |
 | [WDU20071921395](WDU20071921395/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 9 października 2007 r. sygn. akt SK  | Orzeczenie | obowiązujący |  |
 | [WDU20071921394](WDU20071921394/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 października 2007 r. sygn. akt K 2 | Orzeczenie | obowiązujący |  |
@@ -15938,22 +15720,17 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20071811287](WDU20071811287/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy - Prawo o notariacie ora | Ustawa | obowiązujący | [tak](WDU20071811287/orzecznictwo.md) |
 | [WDU20071811286](WDU20071811286/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie i uchyleniu niektórych upoważni | Ustawa | obowiązujący |  |
 | [WDU20071801280](WDU20071801280/index.md) | Ustawa z dnia 7 września 2007 r. o Karcie Polaka | Ustawa | akt posiada tekst jednolity | [tak](WDU20071801280/orzecznictwo.md) |
-| [WDU20071791279](WDU20071791279/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 września 2007 r. sygn. akt SK 4/0 | Orzeczenie | obowiązujący |  |
 | [WDU20071761243](WDU20071761243/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o promocji zatrudnienia  | Ustawa | obowiązujący | [tak](WDU20071761243/orzecznictwo.md) |
-| [WDU20071761242](WDU20071761242/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o służbie wojskowej żołn | Ustawa | obowiązujący | [tak](WDU20071761242/orzecznictwo.md) |
 | [WDU20071761241](WDU20071761241/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o rencie socjalnej | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20071761240](WDU20071761240/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o zakładach opieki zdrow | Ustawa | obowiązujący | [tak](WDU20071761240/orzecznictwo.md) |
 | [WDU20071761238](WDU20071761238/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie niektórych ustaw w związku z cz | Ustawa | obowiązujący |  |
 | [WDU20071761237](WDU20071761237/index.md) | Ustawa z dnia 6 lipca 6 lipca 2007 r. o zmianie ustawy o zawodach pielęgnia | Ustawa | obowiązujący |  |
 | [WDU20071761236](WDU20071761236/index.md) | Ustawa z dnia 29 czerwca 2007 r. o zmianie ustawy o recyklingu pojazdów wyc | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20071761236/orzecznictwo.md) |
 | [WDU20071751235](WDU20071751235/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 września 2007 r. sygn. akt P 11/0 | Orzeczenie | obowiązujący | [tak](WDU20071751235/orzecznictwo.md) |
 | [WDU20071731219](WDU20071731219/index.md) | Ustawa z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrz | Ustawa | akt posiada tekst jednolity | [tak](WDU20071731219/orzecznictwo.md) |
 | [WDU20071731218](WDU20071731218/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o gospodarce nieruchomoś | Ustawa | obowiązujący | [tak](WDU20071731218/orzecznictwo.md) |
-| [WDU20071711208](WDU20071711208/index.md) | Ustawa z dnia 23 sierpnia 2007 r. o zmianie ustawy o sporcie kwalifikowanym | Ustawa | obowiązujący |  |
 | [WDU20071711207](WDU20071711207/index.md) | Ustawa z dnia 23 sierpnia 2007 r. o zniesieniu Wojewódzkich Kolegiów Skarbo | Ustawa | obowiązujący |  |
 | [WDU20071711206](WDU20071711206/index.md) | Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom  | Ustawa | akt posiada tekst jednolity | [tak](WDU20071711206/orzecznictwo.md) |
 | [WDU20071701205](WDU20071701205/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 5 września 2007 r. sygn. akt P 21/06 | Orzeczenie | obowiązujący | [tak](WDU20071701205/orzecznictwo.md) |
-| [WDU20071681188](WDU20071681188/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 września 2007 r. sygn. akt P 19/07 | Orzeczenie | obowiązujący |  |
 | [WDU20071681187](WDU20071681187/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 września 2007 r. sygn. akt P 43/06 | Orzeczenie | obowiązujący |  |
 | [WDU20071661172](WDU20071661172/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o świadczeniach opieki z | Ustawa | obowiązujący | [tak](WDU20071661172/orzecznictwo.md) |
 | [WDU20071651171](WDU20071651171/index.md) | Ustawa z dnia 7 września 2007 r. o zmianie ustawy o ujawnianiu informacji o | Ustawa | akt objęty tekstem jednolitym |  |
@@ -15989,7 +15766,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20071240872](WDU20071240872/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 lipca 2007 r. sygn. akt SK 1/06 | Orzeczenie | obowiązujący |  |
 | [WDU20071240871](WDU20071240871/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 2 lipca 2007 r. sygn. akt K 41/05 | Orzeczenie | obowiązujący |  |
 | [WDU20071240859](WDU20071240859/index.md) | Ustawa z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów | Ustawa | akt posiada tekst jednolity | [tak](WDU20071240859/orzecznictwo.md) |
-| [WDU20071230858](WDU20071230858/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 2007 r. sygn. SK 29/05 | Orzeczenie | obowiązujący | [tak](WDU20071230858/orzecznictwo.md) |
 | [WDU20071230851](WDU20071230851/index.md) | Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o gospodarowaniu nierucho | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20071230851/orzecznictwo.md) |
 | [WDU20071230850](WDU20071230850/index.md) | Ustawa z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego | Ustawa | akt posiada tekst jednolity | [tak](WDU20071230850/orzecznictwo.md) |
 | [WDU20071230849](WDU20071230849/index.md) | Ustawa z dnia 15 czerwca 2007 r. o lekarzu sądowym | Ustawa | obowiązujący | [tak](WDU20071230849/orzecznictwo.md) |
@@ -16009,7 +15785,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20071070732](WDU20071070732/index.md) | Ustawa z dnia 24 maja 2007 r. o zmianie ustawy o powszechnym obowiązku obro | Ustawa | obowiązujący |  |
 | [WDU20071060731](WDU20071060731/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 maja 2007 r. sygn. akt SK 68/06 | Orzeczenie | obowiązujący | [tak](WDU20071060731/orzecznictwo.md) |
 | [WDU20071050721](WDU20071050721/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 29 maja 2007 r. sygn. akt P 20/06 | Orzeczenie | obowiązujący |  |
-| [WDU20071050720](WDU20071050720/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 29 maja 2007 r. sygn. akt P 8/06 | Orzeczenie | obowiązujący |  |
 | [WDU20071020691](WDU20071020691/index.md) | Ustawa z dnia 24 maja 2007 r. o zmianie ustawy o ubezpieczeniach obowiązkow | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20071020691/orzecznictwo.md) |
 | [WDU20071020690](WDU20071020690/index.md) | Ustawa z dnia 9 maja 2007 r. o zmianie ustawy o pracownikach sądów i prokur | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20071020690/orzecznictwo.md) |
 | [WDU20071020689](WDU20071020689/index.md) | Ustawa z dnia 9 maja 2007 r. o zmianie ustawy - Karta Nauczyciela | Ustawa | akt objęty tekstem jednolitym |  |
@@ -16048,7 +15823,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20070610411](WDU20070610411/index.md) | Ustawa z dnia 16 lutego 2007 r. o zmianie ustawy o radiofonii i telewizji | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20070610410](WDU20070610410/index.md) | Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy - Prawo dewizowe oraz in | Ustawa | obowiązujący | [tak](WDU20070610410/orzecznictwo.md) |
 | [WDU20070590405](WDU20070590405/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 marca 2007 r. sygn. akt K 29/06 | Orzeczenie | obowiązujący |  |
-| [WDU20070570390](WDU20070570390/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 marca 2007 r. sygn. akt K 47/05 | Orzeczenie | obowiązujący |  |
 | [WDU20070570381](WDU20070570381/index.md) | Ustawa z dnia 7 marca 2007 r. o zmianie ustawy - Prawo o ruchu drogowym | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20070560366](WDU20070560366/index.md) | Ustawa z dnia 7 marca 2007 r. o zmianie ustawy o organizacji rynków owoców  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20070530359](WDU20070530359/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 marca 2007 r. sygn. akt U 1/07 | Orzeczenie | obowiązujący |  |
@@ -16058,7 +15832,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20070520343](WDU20070520343/index.md) | Ustawa z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowy | Ustawa | akt posiada tekst jednolity | [tak](WDU20070520343/orzecznictwo.md) |
 | [WDU20070500331](WDU20070500331/index.md) | Ustawa z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów | Ustawa | akt posiada tekst jednolity | [tak](WDU20070500331/orzecznictwo.md) |
 | [WDU20070490328](WDU20070490328/index.md) | Ustawa z dnia 7 marca 2007 r. o zmianie ustawy o dopłatach do ubezpieczeń u | Ustawa | obowiązujący |  |
-| [WDU20070480327](WDU20070480327/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 marca 2007 r. sygn. akt K 8/07 | Orzeczenie | obowiązujący |  |
 | [WDU20070480326](WDU20070480326/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 marca 2007 r. sygn. akt K 54/05 | Orzeczenie | obowiązujący |  |
 | [WDU20070480320](WDU20070480320/index.md) | Ustawa z dnia 16 lutego 2007 o zmianie ustawy o pomocy społecznej | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20070480320/orzecznictwo.md) |
 | [WDU20070470319](WDU20070470319/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 marca 2007 r. sygn. akt K 28/05 | Orzeczenie | obowiązujący |  |
@@ -16114,7 +15887,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20062271665](WDU20062271665/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 grudnia 2006 r. sygn. akt P 35/05 | Orzeczenie | obowiązujący |  |
 | [WDU20062271658](WDU20062271658/index.md) | Ustawa z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju | Ustawa | akt posiada tekst jednolity | [tak](WDU20062271658/orzecznictwo.md) |
 | [WDU20062261657](WDU20062261657/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 29 listopada 2006 r. sygn. akt SK 51 | Orzeczenie | obowiązujący |  |
-| [WDU20062261656](WDU20062261656/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 listopada 2006 r. sygn. akt SK 19 | Orzeczenie | obowiązujący |  |
 | [WDU20062251635](WDU20062251635/index.md) | Ustawa z dnia 16 listopada 2006 r. o opłacie skarbowej | Ustawa | akt posiada tekst jednolity | [tak](WDU20062251635/orzecznictwo.md) |
 | [WDU20062221630](WDU20062221630/index.md) | Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o świadczeniach rodzinn | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20062221629](WDU20062221629/index.md) | Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o podatku od spadków i  | Ustawa | obowiązujący | [tak](WDU20062221629/orzecznictwo.md) |
@@ -16134,9 +15906,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20062081537](WDU20062081537/index.md) | Ustawa z dnia 18 października 2006 r. o likwidacji niepodjętych depozytów | Ustawa | obowiązujący | [tak](WDU20062081537/orzecznictwo.md) |
 | [WDU20062081535](WDU20062081535/index.md) | Ustawa z dnia 22 września 2006 r. o zmianie ustawy o dodatkach mieszkaniowy | Ustawa | obowiązujący |  |
 | [WDU20062081534](WDU20062081534/index.md) | Ustawa z dnia 22 września 2006 r. o zmianie ustawy o emeryturach i rentach  | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20062081532](WDU20062081532/index.md) | Ustawa z dnia 22 września 2006 r. o likwidacji funduszu im. Komisji Edukacj | Ustawa | obowiązujący |  |
 | [WDU20062071530](WDU20062071530/index.md) | Obwieszczenie Państwowej Komisji Wyborczej z dnia 15 listopada 2006 r. o zb | Obwieszczenie | obowiązujący |  |
-| [WDU20062061522](WDU20062061522/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 listopada 2006 r. sygn. akt K 30/0 | Orzeczenie | obowiązujący | [tak](WDU20062061522/orzecznictwo.md) |
 | [WDU20062061521](WDU20062061521/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 listopada 2006 r. sygn. akt SK 42/ | Orzeczenie | obowiązujący |  |
 | [WDU20062021493](WDU20062021493/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 listopada 2006 r. sygn. akt K 31/0 | Orzeczenie | obowiązujący |  |
 | [WDU20062021492](WDU20062021492/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 października 2006 r. sygn. akt P  | Orzeczenie | obowiązujący |  |
@@ -16259,7 +16029,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20060790550](WDU20060790550/index.md) | Ustawa z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzan | Ustawa | obowiązujący | [tak](WDU20060790550/orzecznictwo.md) |
 | [WDU20060790549](WDU20060790549/index.md) | Ustawa z dnia 10 marca 2006 r. o zmianie ustawy o pracownikach samorządowyc | Ustawa | obowiązujący |  |
 | [WDU20060790546](WDU20060790546/index.md) | Ustawa z dnia 10 maja 2006 r. o administrowaniu obrotem usługowym z zagrani | Ustawa | akt posiada tekst jednolity |  |
-| [WDU20060750530](WDU20060750530/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 kwietnia 2006 r. sygn. akt P 9/05 | Orzeczenie | obowiązujący |  |
 | [WDU20060750529](WDU20060750529/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 19 kwietnia 2006 r. sygn. akt K 6/06 | Orzeczenie | obowiązujący |  |
 | [WDU20060750519](WDU20060750519/index.md) | Ustawa z dnia 23 marca 2006 r. o zmianie ustawy o ubezpieczeniu społecznym  | Ustawa | obowiązujący | [tak](WDU20060750519/orzecznictwo.md) |
 | [WDU20060730501](WDU20060730501/index.md) | Ustawa z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowe | Ustawa | obowiązujący |  |
@@ -16274,12 +16043,10 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20060630441](WDU20060630441/index.md) | Ustawa z dnia 10 marca 2006 r. zmieniająca ustawę o zmianie ustawy o odpada | Ustawa | obowiązujący |  |
 | [WDU20060630440](WDU20060630440/index.md) | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy o rehabilitacji zawodowej  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20060610438](WDU20060610438/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 kwietnia 2006 r. sygn. akt P 16/05 | Orzeczenie | obowiązujący |  |
-| [WDU20060610437](WDU20060610437/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 kwietnia 2006 r. sygn. akt K 11/04 | Orzeczenie | obowiązujący |  |
 | [WDU20060610436](WDU20060610436/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 kwietnia 2006 r. sygn. akt SK 46/0 | Orzeczenie | obowiązujący |  |
 | [WDU20060530385](WDU20060530385/index.md) | Ustawa z dnia 23 marca 2006 r. o zmianie ustawy o pomocy państwa w spłacie  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20060520379](WDU20060520379/index.md) | Ustawa z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cen | Ustawa | akt posiada tekst jednolity | [tak](WDU20060520379/orzecznictwo.md) |
 | [WDU20060520378](WDU20060520378/index.md) | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy - Prawo atomowe | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20060510377](WDU20060510377/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 marca 2006 r. sygn. akt K 4/06 | Orzeczenie | obowiązujący |  |
 | [WDU20060500363](WDU20060500363/index.md) | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy o organizacji rynku mleka  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20060500362](WDU20060500362/index.md) | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy o ochronie zabytków i opie | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20060490359](WDU20060490359/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 21 marca 2006 r. sygn. akt K 13/05 | Orzeczenie | obowiązujący |  |
@@ -16289,16 +16056,13 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20060450322](WDU20060450322/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 marca 2006 r. sygn. akt SK 11/05 | Orzeczenie | obowiązujący |  |
 | [WDU20060450319](WDU20060450319/index.md) | Ustawa z dnia 17 lutego 2006 r. o likwidacji Rządowego Centrum Studiów Stra | Ustawa | obowiązujący | [tak](WDU20060450319/orzecznictwo.md) |
 | [WDU20060380268](WDU20060380268/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 lutego 2006 r. sygn. akt P 13/05 | Orzeczenie | obowiązujący |  |
-| [WDU20060380267](WDU20060380267/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 lutego 2006 r. sygn. akt P 21/05 | Orzeczenie | obowiązujący |  |
 | [WDU20060340243](WDU20060340243/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 21 lutego 2006 r. sygn. akt K 1/05 | Orzeczenie | obowiązujący |  |
 | [WDU20060340242](WDU20060340242/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 20 lutego 2006 r. sygn. akt K. 9/05 | Orzeczenie | obowiązujący |  |
-| [WDU20060300215](WDU20060300215/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 14 lutego 2006 r. sygn. akt P 22/05 | Orzeczenie | obowiązujący |  |
 | [WDU20060250192](WDU20060250192/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 lutego 2006 r. sygn. akt SK 45/04 | Orzeczenie | obowiązujący | [tak](WDU20060250192/orzecznictwo.md) |
 | [WDU20060220171](WDU20060220171/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 31 stycznia 2006 r. sygn. akt K 23/0 | Orzeczenie | obowiązujący | [tak](WDU20060220171/orzecznictwo.md) |
 | [WDU20060220170](WDU20060220170/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 stycznia 2006 r. sygn. akt SK 39/ | Orzeczenie | obowiązujący |  |
 | [WDU20060210165](WDU20060210165/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 stycznia 2006 r. sygn. akt SK 52/ | Orzeczenie | obowiązujący |  |
 | [WDU20060210164](WDU20060210164/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 stycznia 2006 r. sygn. akt SK 40/ | Orzeczenie | obowiązujący |  |
-| [WDU20060170141](WDU20060170141/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 stycznia 2006 r. sygn. akt K 21/0 | Orzeczenie | obowiązujący |  |
 | [WDU20060170127](WDU20060170127/index.md) | Ustawa z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego | Ustawa | akt posiada tekst jednolity | [tak](WDU20060170127/orzecznictwo.md) |
 | [WDU20060150119](WDU20060150119/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 17 stycznia 2006 r. sygn. akt U 6/04 | Orzeczenie | obowiązujący |  |
 | [WDU20060150118](WDU20060150118/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 16 stycznia 2006 r. sygn. akt SK 30/ | Orzeczenie | obowiązujący |  |
@@ -16326,7 +16090,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20052502116](WDU20052502116/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 grudnia 2005 r. sygn. akt K 32/04 | Orzeczenie | obowiązujący |  |
 | [WDU20052482102](WDU20052482102/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 6 grudnia 2005 r. sygn. akt SK 33/04 | Orzeczenie | obowiązujący |  |
 | [WDU20052462092](WDU20052462092/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 6 grudnia 2005 r. sygn. akt SK 7/05 | Orzeczenie | obowiązujący |  |
-| [WDU20052462091](WDU20052462091/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 5 grudnia 2005 r. sygn. akt SK 26/05 | Orzeczenie | obowiązujący |  |
 | [WDU20052412037](WDU20052412037/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 29 listopada 2005 r. sygn. akt P 16/ | Orzeczenie | obowiązujący |  |
 | [WDU20052392020](WDU20052392020/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 listopada 2005 r. sygn. akt K 22/ | Orzeczenie | obowiązujący |  |
 | [WDU20052331994](WDU20052331994/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 listopada 2005 r. sygn. akt P 3/0 | Orzeczenie | obowiązujący |  |
@@ -16334,12 +16097,10 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20052321980](WDU20052321980/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 listopada 2005 r. sygn. akt SK 8/ | Orzeczenie | obowiązujący |  |
 | [WDU20052321979](WDU20052321979/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 21 listopada 2005 r. sygn. akt P 10/ | Orzeczenie | obowiązujący |  |
 | [WDU20052251939](WDU20052251939/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 listopada 2005 r. sygn. akt SK 25/ | Orzeczenie | obowiązujący |  |
-| [WDU20052251938](WDU20052251938/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 listopada 2005 r. sygn. akt P 20/0 | Orzeczenie | obowiązujący |  |
 | [WDU20052221914](WDU20052221914/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 26 października 2005 r. sygn. akt k  | Orzeczenie | obowiązujący |  |
 | [WDU20052161833](WDU20052161833/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 24 października 2005 r. sygn. akt P  | Orzeczenie | obowiązujący |  |
 | [WDU20052101758](WDU20052101758/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 października 2005 r. sygn. akt SK | Orzeczenie | obowiązujący | [tak](WDU20052101758/orzecznictwo.md) |
 | [WDU20052101757](WDU20052101757/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 17 października 2005 r. sygn. akt K  | Orzeczenie | obowiązujący |  |
-| [WDU20052051704](WDU20052051704/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 5 października 2005 r. sygn. akt SK  | Orzeczenie | obowiązujący |  |
 | [WDU20052031683](WDU20052031683/index.md) | Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o zapobieganiu zanieczyszcza | Ustawa | obowiązujący |  |
 | [WDU20052011678](WDU20052011678/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 4 października 2005 r. sygn. akt K 3 | Orzeczenie | obowiązujący |  |
 | [WDU20052011677](WDU20052011677/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 października 2005 r. sygn. akt K 4 | Orzeczenie | obowiązujący |  |
@@ -16362,7 +16123,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20051751462](WDU20051751462/index.md) | Ustawa z dnia 29 lipca 2005 r. o zmianie niektórych ustaw w związku ze zmia | Ustawa | obowiązujący | [tak](WDU20051751462/orzecznictwo.md) |
 | [WDU20051751461](WDU20051751461/index.md) | Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o zawodach pielęgniarki i p | Ustawa | obowiązujący | [tak](WDU20051751461/orzecznictwo.md) |
 | [WDU20051751459](WDU20051751459/index.md) | Ustawa z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczyst | Ustawa | akt posiada tekst jednolity | [tak](WDU20051751459/orzecznictwo.md) |
-| [WDU20051751458](WDU20051751458/index.md) | Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o odpadach oraz o zmianie n | Ustawa | obowiązujący | [tak](WDU20051751458/orzecznictwo.md) |
 | [WDU20051721440](WDU20051721440/index.md) | Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o drogach publicznych oraz  | Ustawa | obowiązujący |  |
 | [WDU20051721439](WDU20051721439/index.md) | Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o godle, barwach i hymnie R | Ustawa | obowiązujący |  |
 | [WDU20051691421](WDU20051691421/index.md) | Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z F | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20051691421/orzecznictwo.md) |
@@ -16376,7 +16136,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20051671398](WDU20051671398/index.md) | Ustawa z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych | Ustawa | akt posiada tekst jednolity | [tak](WDU20051671398/orzecznictwo.md) |
 | [WDU20051671397](WDU20051671397/index.md) | Ustawa z dnia 27 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z F | Ustawa | obowiązujący | [tak](WDU20051671397/orzecznictwo.md) |
 | [WDU20051671396](WDU20051671396/index.md) | Ustawa z dnia 8 lipca 2005 r. o zmianie ustawy o ubezpieczeniach obowiązkow | Ustawa | obowiązujący | [tak](WDU20051671396/orzecznictwo.md) |
-| [WDU20051641366](WDU20051641366/index.md) | Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o promocji zatrudnienia i i | Ustawa | obowiązujący | [tak](WDU20051641366/orzecznictwo.md) |
 | [WDU20051631361](WDU20051631361/index.md) | Ustawa z dnia 30 czerwca 2005 r. o zmianie ustawy - Prawo o adwokaturze i n | Ustawa | obowiązujący | [tak](WDU20051631361/orzecznictwo.md) |
 | [WDU20051571315](WDU20051571315/index.md) | Ustawa z dnia 7 lipca 2005 r. o zmianie niektórych ustaw dotyczących nabywa | Ustawa | obowiązujący | [tak](WDU20051571315/orzecznictwo.md) |
 | [WDU20051571314](WDU20051571314/index.md) | Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o minimalnym wynagrodzeniu z | Ustawa | obowiązujący | [tak](WDU20051571314/orzecznictwo.md) |
@@ -16401,7 +16160,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20051321111](WDU20051321111/index.md) | Ustawa z dnia 30 czerwca 2005 r. o kinematografii | Ustawa | akt posiada tekst jednolity | [tak](WDU20051321111/orzecznictwo.md) |
 | [WDU20051321110](WDU20051321110/index.md) | Ustawa z dnia 17 czerwca 2005 r. o zmianie ustawy o służbie cywilnej oraz n | Ustawa | obowiązujący |  |
 | [WDU20051321103](WDU20051321103/index.md) | Ustawa z dnia 6 maja 2005 r. o zmianie ustawy - Kodeks postępowania w spraw | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20051311102](WDU20051311102/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 5 lipca 2005 r. sygn. akt SK 26/04 | Orzeczenie | obowiązujący | [tak](WDU20051311102/orzecznictwo.md) |
 | [WDU20051311091](WDU20051311091/index.md) | Ustawa z dnia 17 czerwca 2005 r. o zmianie ustawy o organizowaniu i prowadz | Ustawa | obowiązujący |  |
 | [WDU20051301090](WDU20051301090/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 29 czerwca 2005 r. sygn. akt SK 34/0 | Orzeczenie | obowiązujący | [tak](WDU20051301090/orzecznictwo.md) |
 | [WDU20051301086](WDU20051301086/index.md) | Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy o Państwowej Inspekcji San | Ustawa | akt objęty tekstem jednolitym |  |
@@ -16416,7 +16174,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20051221022](WDU20051221022/index.md) | Ustawa z dnia 3 czerwca 2005 r. o ustanowieniu programu wieloletniego \"Wym | Ustawa | obowiązujący |  |
 | [WDU20051221020](WDU20051221020/index.md) | Ustawa z dnia 6 maja 2005 r. o zmianie ustawy o pracownikach samorządowych, | Ustawa | obowiązujący |  |
 | [WDU20051191015](WDU20051191015/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 czerwca 2005 r. sygn. akt K 17/04 | Orzeczenie | obowiązujący |  |
-| [WDU20051100936](WDU20051100936/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 14 czerwca 2005 r. sygn. akt P 18/03 | Orzeczenie | obowiązujący |  |
 | [WDU20051090925](WDU20051090925/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 czerwca 2005 r. sygn. akt K 23/04 | Orzeczenie | obowiązujący |  |
 | [WDU20051020861](WDU20051020861/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 31 maja 2005 r. sygn. akt K 27/04 | Orzeczenie | obowiązujący | [tak](WDU20051020861/orzecznictwo.md) |
 | [WDU20051020852](WDU20051020852/index.md) | Ustawa z dnia 20 maja 2005 r. o dodatku pieniężnym dla niektórych emerytów, | Ustawa | obowiązujący | [tak](WDU20051020852/orzecznictwo.md) |
@@ -16439,8 +16196,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20050860742](WDU20050860742/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 9 maja 2005 r. sygn. akt SK 14/04 | Orzeczenie | obowiązujący |  |
 | [WDU20050850729](WDU20050850729/index.md) | Ustawa z dnia 22 kwietnia 2005 r. o zmianie ustawy o zbiorowym zaopatrzeniu | Ustawa | obowiązujący | [tak](WDU20050850729/orzecznictwo.md) |
 | [WDU20050850728](WDU20050850728/index.md) | Ustawa z dnia 21 kwietnia 2005 r. o opłatach abonamentowych | Ustawa | akt posiada tekst jednolity | [tak](WDU20050850728/orzecznictwo.md) |
-| [WDU20050850727](WDU20050850727/index.md) | Ustawa z dnia 15 kwietnia 2005 r. o zmianie ustawy o ochronie informacji ni | Ustawa | obowiązujący | [tak](WDU20050850727/orzecznictwo.md) |
-| [WDU20050850726](WDU20050850726/index.md) | Ustawa z dnia 15 kwietnia 2005 r. o zmianie ustawy o kulturze fizycznej ora | Ustawa | obowiązujący | [tak](WDU20050850726/orzecznictwo.md) |
+| [WDU20050850727](WDU20050850727/index.md) | Ustawa z dnia 15 kwietnia 2005 r. o zmianie ustawy o ochronie informacji ni | Ustawa | obowiązujący |  |
 | [WDU20050830719](WDU20050830719/index.md) | Ustawa z dnia 15 kwietnia 2005 r. nadzorze uzupełniającym nad instytucjami  | Ustawa | akt posiada tekst jednolity | [tak](WDU20050830719/orzecznictwo.md) |
 | [WDU20050780684](WDU20050780684/index.md) | Ustawa z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji pu | Ustawa | akt posiada tekst jednolity | [tak](WDU20050780684/orzecznictwo.md) |
 | [WDU20050770680](WDU20050770680/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 27 kwietnia 2005 r. sygn. akt P 1/05 | Orzeczenie | obowiązujący |  |
@@ -16460,7 +16216,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20050590517](WDU20050590517/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 30 marca 2005 r. sygn. akt K 19/02 | Orzeczenie | obowiązujący |  |
 | [WDU20050570503](WDU20050570503/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 marca 2005 r. sygn. akt K 22/04 | Orzeczenie | obowiązujący |  |
 | [WDU20050570502](WDU20050570502/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 21 marca 2005 r. sygn. akt P 5/04 | Orzeczenie | obowiązujący |  |
-| [WDU20050570501](WDU20050570501/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 21 marca 2005 r. sygn. akt SK 24/04 | Orzeczenie | obowiązujący | [tak](WDU20050570501/orzecznictwo.md) |
 | [WDU20050530469](WDU20050530469/index.md) | Ustawa z dnia 4 marca 2005 r. o zmianie ustawy o organizacji rynku mleka i  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20050480462](WDU20050480462/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 marca 2005 r. sygn. akt K 9/04 | Orzeczenie | obowiązujący | [tak](WDU20050480462/orzecznictwo.md) |
 | [WDU20050480461](WDU20050480461/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 14 marca 2005 r. sygn. akt K 35/04 | Orzeczenie | obowiązujący |  |
@@ -16474,7 +16229,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20050390377](WDU20050390377/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 22 lutego 2005 r. sygn. akt K 10/04 | Orzeczenie | obowiązujący |  |
 | [WDU20050380364](WDU20050380364/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 lutego 2005 r. sygn. akt P 7/03 | Orzeczenie | obowiązujący |  |
 | [WDU20050370336](WDU20050370336/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 21 lutego 2005 r. sygn. akt U 3/04 | Orzeczenie | obowiązujący |  |
-| [WDU20050330291](WDU20050330291/index.md) | Ustawa z dnia 21 stycznia 2005 r. o zmianie ustawy o obowiązkach przedsiębi | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20050330290](WDU20050330290/index.md) | Ustawa z dnia 21 stycznia 2005 r. o zmianie ustawy o zakwaterowaniu Sił Zbr | Ustawa | obowiązujący | [tak](WDU20050330290/orzecznictwo.md) |
 | [WDU20050330288](WDU20050330288/index.md) | Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o samorządowych kolegia | Ustawa | obowiązujący |  |
 | [WDU20050300262](WDU20050300262/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 lutego 2005 r. sygn. akt K 48/04 | Orzeczenie | obowiązujący |  |
@@ -16491,13 +16245,10 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20050230186](WDU20050230186/index.md) | Ustawa z dnia 7 stycznia 2005 r. o zmianie ustawy o wychowaniu o wychowaniu | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20050220185](WDU20050220185/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 31 stycznia 2005 r. sygn. akt SK 27/ | Orzeczenie | obowiązujący |  |
 | [WDU20050170141](WDU20050170141/index.md) | Ustawa z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych o | Ustawa | akt posiada tekst jednolity | [tak](WDU20050170141/orzecznictwo.md) |
-| [WDU20050140122](WDU20050140122/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 stycznia 2005 r. sygn. akt K 15/0 | Orzeczenie | obowiązujący |  |
 | [WDU20050140115](WDU20050140115/index.md) | Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy o Agencji Rynku Rolnego i | Ustawa | obowiązujący | [tak](WDU20050140115/orzecznictwo.md) |
 | [WDU20050140114](WDU20050140114/index.md) | Ustawa z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypli | Ustawa | akt posiada tekst jednolity | [tak](WDU20050140114/orzecznictwo.md) |
-| [WDU20050130111](WDU20050130111/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 stycznia 2005 r. sygn. akt P 15/0 | Orzeczenie | obowiązujący | [tak](WDU20050130111/orzecznictwo.md) |
 | [WDU20050110089](WDU20050110089/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 stycznia 2005 r. sygn. akt K 24/0 | Orzeczenie | obowiązujący |  |
 | [WDU20050110088](WDU20050110088/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 stycznia 2005 r. sygn. akt SK 60/ | Orzeczenie | obowiązujący |  |
-| [WDU20050110087](WDU20050110087/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 10 stycznia 2005 r. sygn. akt K 31/0 | Orzeczenie | obowiązujący |  |
 | [WDU20050100072](WDU20050100072/index.md) | Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy o zakazie stosowania wyro | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20050100071](WDU20050100071/index.md) | Ustawa z dnia 17 grudnia 2004 r. o zmianie ustawy o świadczeniach pieniężny | Ustawa | obowiązujący | [tak](WDU20050100071/orzecznictwo.md) |
 | [WDU20050100069](WDU20050100069/index.md) | Ustawa z dnia 17 grudnia 2004 r. o zmianie ustawy o narodowym zasobie archi | Ustawa | akt objęty tekstem jednolitym |  |
@@ -16521,7 +16272,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20042732720](WDU20042732720/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 grudnia 2004 r. sygn. akt K 20/04 | Orzeczenie | obowiązujący |  |
 | [WDU20042732703](WDU20042732703/index.md) | Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o finansach publicznych | Ustawa | obowiązujący | [tak](WDU20042732703/orzecznictwo.md) |
 | [WDU20042732702](WDU20042732702/index.md) | Ustawa z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego | Ustawa | akt posiada tekst jednolity | [tak](WDU20042732702/orzecznictwo.md) |
-| [WDU20042682662](WDU20042682662/index.md) | Ustawa z dnia 8 października 2004 r. o ustanowieniu Medalu za Zasługi dla S | Ustawa | obowiązujący |  |
 | [WDU20042672647](WDU20042672647/index.md) | Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o Agencji Bezpieczeństw | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20042642641](WDU20042642641/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 6 grudnia 2004 r. sygn. akt SK 29/04 | Orzeczenie | obowiązujący |  |
 | [WDU20042612598](WDU20042612598/index.md) | Ustawa z dnia 19 listopada 2004 r. o zmianie ustawy o organizowaniu i prowa | Ustawa | akt objęty tekstem jednolitym |  |
@@ -16642,7 +16392,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20040930895](WDU20040930895/index.md) | Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy o bezpieczeństwie morski | Ustawa | obowiązujący |  |
 | [WDU20040930891](WDU20040930891/index.md) | Ustawa z 16 kwietnia 2004 r. o zmianie ustawy o ochronie konkurencji i kons | Ustawa | obowiązujący | [tak](WDU20040930891/orzecznictwo.md) |
 | [WDU20040930890](WDU20040930890/index.md) | Ustawa z dnia 16 kwietnia 2004 r. o zmianie ustawy o finansach publicznych  | Ustawa | obowiązujący |  |
-| [WDU20040920885](WDU20040920885/index.md) | Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy o zawodach pielęgniarki  | Ustawa | obowiązujący | [tak](WDU20040920885/orzecznictwo.md) |
 | [WDU20040920884](WDU20040920884/index.md) | Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy - Prawo o ruchu drogowym | Ustawa | obowiązujący |  |
 | [WDU20040920883](WDU20040920883/index.md) | Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy o transporcie kolejowym | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20040920882](WDU20040920882/index.md) | Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy - Prawo farmaceutyczne,  | Ustawa | obowiązujący |  |
@@ -16732,7 +16481,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20032062010](WDU20032062010/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 17 listopada 2003 r. sygn. akt K 32/ | Orzeczenie | obowiązujący |  |
 | [WDU20032051993](WDU20032051993/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 października 2003 r. sygn. akt K 4 | Orzeczenie | obowiązujący |  |
 | [WDU20032021958](WDU20032021958/index.md) | Ustawa z dnia 12 listopada 2003 r. o zmianie ustawy o zryczałtowanym podatk | Ustawa | obowiązujący |  |
-| [WDU20032001953](WDU20032001953/index.md) | Ustawa z dnia 14 listopada 2003 r. o zmianie ustawy o drogach publicznych o | Ustawa | obowiązujący | [tak](WDU20032001953/orzecznictwo.md) |
+| [WDU20032001953](WDU20032001953/index.md) | Ustawa z dnia 14 listopada 2003 r. o zmianie ustawy o drogach publicznych o | Ustawa | obowiązujący |  |
 | [WDU20031991952](WDU20031991952/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 13 listopada 2003 r. sygn. akt K 51/ | Orzeczenie | obowiązujący |  |
 | [WDU20031991939](WDU20031991939/index.md) | Ustawa z dnia 17 października 2003 r. o zmianie ustawy o Biurze Ochrony Rzą | Ustawa | obowiązujący | [tak](WDU20031991939/orzecznictwo.md) |
 | [WDU20031991938](WDU20031991938/index.md) | Ustawa z dnia 17 października 2003 r. o zmianie ustawy o służbie medycyny p | Ustawa | obowiązujący |  |
@@ -17030,7 +16779,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20011541799](WDU20011541799/index.md) | Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o kształtowaniu wynagrodz | Ustawa | obowiązujący | [tak](WDU20011541799/orzecznictwo.md) |
 | [WDU20011541798](WDU20011541798/index.md) | Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o zawodzie psychologa i s | Ustawa | obowiązujący |  |
 | [WDU20011541796](WDU20011541796/index.md) | Ustawa z dnia 17 grudnia 2001 r. o zmianie ustawy o powszechnym ubezpieczen | Ustawa | obowiązujący |  |
-| [WDU20011541794](WDU20011541794/index.md) | Ustawa z dnia 17 grudnia 2001 r. zmieniająca ustawę o zmianie ustawy - Kart | Ustawa | obowiązujący | [tak](WDU20011541794/orzecznictwo.md) |
 | [WDU20011541793](WDU20011541793/index.md) | Ustawa z dnia 17 grudnia 2001 r. o zmianie ustawy o gospodarowaniu nierucho | Ustawa | obowiązujący | [tak](WDU20011541793/orzecznictwo.md) |
 | [WDU20011541792](WDU20011541792/index.md) | Ustawa z dnia 17 grudnia 2001 r. o zmianie ustawy o pomocy społecznej, usta | Ustawa | obowiązujący | [tak](WDU20011541792/orzecznictwo.md) |
 | [WDU20011541791](WDU20011541791/index.md) | Ustawa z dnia 17 grudnia 2001 r. o zmianie ustawy o funduszu alimentacyjnym | Ustawa | obowiązujący | [tak](WDU20011541791/orzecznictwo.md) |
@@ -17216,6 +16964,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20001141190](WDU20001141190/index.md) | Ustawa z dnia 16 listopada 2000 r. o zmianie ustawy o gwarantowanych przez  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20001141189](WDU20001141189/index.md) | Ustawa z dnia 26 października 2000 r. o zmianie ustawy o zawodzie lekarza w | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20001141188](WDU20001141188/index.md) | Ustawa z dnia 26 października 2000 r. o sposobie obliczania wartości roczne | Ustawa | akt posiada tekst jednolity | [tak](WDU20001141188/orzecznictwo.md) |
+| [WDU20001131186](WDU20001131186/index.md) | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o rachunkowości. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20001111181](WDU20001111181/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 grudnia 2000 r. sygn. akt SK. 9/2 | Orzeczenie | obowiązujący |  |
 | [WDU20001101178](WDU20001101178/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 2000 r. sygn. akt U. 2/20 | Orzeczenie | obowiązujący |  |
 | [WDU20001091165](WDU20001091165/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 5 grudnia 2000 r. sygn. akt K. 35/99 | Orzeczenie | obowiązujący |  |
@@ -17228,7 +16977,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20001031098](WDU20001031098/index.md) | Ustawa z dnia 26 października 2000 r. o Polskim Rejestrze Statków. | Ustawa | akt posiada tekst jednolity | [tak](WDU20001031098/orzecznictwo.md) |
 | [WDU20001011091](WDU20001011091/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 8 listopada 2000 r. sygn. akt SK. 18 | Orzeczenie | obowiązujący |  |
 | [WDU20001001085](WDU20001001085/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 15 listopada 2000 r. sygn. akt P. 12 | Orzeczenie | obowiązujący |  |
-| [WDU20001001084](WDU20001001084/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 14 listopada 2000 r. sygn. akt K. 7/ | Orzeczenie | obowiązujący |  |
 | [WDU20000961056](WDU20000961056/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 7 listopada 2000 r. sygn. akt K. 16/ | Orzeczenie | obowiązujący |  |
 | [WDU20000951041](WDU20000951041/index.md) | Ustawa z dnia 13 października 2000 r. o zmianie ustawy o dochodach jednoste | Ustawa | obowiązujący | [tak](WDU20000951041/orzecznictwo.md) |
 | [WDU20000931028](WDU20000931028/index.md) | Ustawa z dnia 21 września 2000 r. o zwolnieniu świadczeń z tytułu prześlado | Ustawa | obowiązujący |  |
@@ -17302,10 +17050,8 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20000290355](WDU20000290355/index.md) | Ustawa z dnia 16 marca 2000 r. o zmianie ustawy o własności lokali oraz zmi | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20000290355/orzecznictwo.md) |
 | [WDU20000280352](WDU20000280352/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 kwietnia 2000 r. sygn. akt K. 8/9 | Orzeczenie | akt objęty tekstem jednolitym |  |
 | [WDU20000280351](WDU20000280351/index.md) | Wyrok Trybunału Konstytucyjnego z 11 kwietnia 2000 r. sygn. akt K.15/98. | Orzeczenie | obowiązujący |  |
-| [WDU20000280346](WDU20000280346/index.md) | Konwencja o ochronie środowiska morskiego obszaru Morza Bałtyckiego, sporzą | Konwencja | obowiązujący |  |
 | [WDU20000270341](WDU20000270341/index.md) | Rozporządzenie Ministra Środowiska z dnia 4 kwietnia 2000 r. w sprawie wyma | Rozporządzenie | obowiązujący | [tak](WDU20000270341/orzecznictwo.md) |
 | [WDU20000270321](WDU20000270321/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 30 marca 2000 r. w sprawi | Rozporządzenie | obowiązujący |  |
-| [WDU20000260313](WDU20000260313/index.md) | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 14 marca 2000 r. | Rozporządzenie | akt posiada tekst jednolity | [tak](WDU20000260313/orzecznictwo.md) |
 | [WDU20000260306](WDU20000260306/index.md) | Ustawa z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi p | Ustawa | akt posiada tekst jednolity | [tak](WDU20000260306/orzecznictwo.md) |
 | [WDU20000230294](WDU20000230294/index.md) | Obwieszczenie Ministra Skarbu Państwa z dnia 14 marca 2000 r. w sprawie ogł | Obwieszczenie | obowiązujący | [tak](WDU20000230294/orzecznictwo.md) |
 | [WDU20000220291](WDU20000220291/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 28 marca 2000 r. sygn. akt K. 27/99. | Orzeczenie | obowiązujący |  |
@@ -17531,7 +17277,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19981621118](WDU19981621118/index.md) | Ustawa z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpie | Ustawa | akt posiada tekst jednolity | [tak](WDU19981621118/orzecznictwo.md) |
 | [WDU19981621117](WDU19981621117/index.md) | Ustawa z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych | Ustawa | akt posiada tekst jednolity | [tak](WDU19981621117/orzecznictwo.md) |
 | [WDU19981621116](WDU19981621116/index.md) | Ustawa z dnia 16 grudnia 1998 r. o zmianie ustawy o powszechnym ubezpieczen | Ustawa | obowiązujący |  |
-| [WDU19981621115](WDU19981621115/index.md) | Ustawa z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowo | Ustawa | obowiązujący | [tak](WDU19981621115/orzecznictwo.md) |
+| [WDU19981621115](WDU19981621115/index.md) | Ustawa z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowo | Ustawa | obowiązujący |  |
 | [WDU19981601065](WDU19981601065/index.md) | Ustawa z dnia 18 grudnia 1998 r. o zmianie ustawy o wynagrodzeniu osób zajm | Ustawa | obowiązujący | [tak](WDU19981601065/orzecznictwo.md) |
 | [WDU19981601062](WDU19981601062/index.md) | Ustawa z dnia 18 grudnia 1998 r. o zmianie ustawy o regionalnych izbach obr | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19981601058](WDU19981601058/index.md) | Ustawa z dnia 3 grudnia 1998 r. o zmianie ustawy o podatkach i opłatach lok | Ustawa | akt objęty tekstem jednolitym |  |
@@ -17547,7 +17293,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19981450944](WDU19981450944/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 listopada 1998 r. sygn. akt SK.7/ | Orzeczenie | obowiązujący |  |
 | [WDU19981440930](WDU19981440930/index.md) | Ustawa z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od n | Ustawa | akt posiada tekst jednolity | [tak](WDU19981440930/orzecznictwo.md) |
 | [WDU19981430928](WDU19981430928/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 17 listopada 1998 r. sygn. akt K. 42 | Orzeczenie | obowiązujący |  |
-| [WDU19981430916](WDU19981430916/index.md) | Ustawa z dnia 4 czerwca 1998 r. o zmianie ustawy o zawodzie felczera. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19981380898](WDU19981380898/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 3 listopada 1998 r. sygn. akt K. 12/ | Orzeczenie | obowiązujący |  |
 | [WDU19981370887](WDU19981370887/index.md) | Ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19981370887/orzecznictwo.md) |
 | [WDU19981330872](WDU19981330872/index.md) | Ustawa z dnia 13 października 1998 r. Przepisy wprowadzające ustawy reformu | Ustawa | obowiązujący | [tak](WDU19981330872/orzecznictwo.md) |
@@ -17556,7 +17301,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19981310860](WDU19981310860/index.md) | Ustawa z dnia 18 czerwca 1998 r. o zmianie ustawy o ujawnieniu pracy lub sł | Ustawa | obowiązujący | [tak](WDU19981310860/orzecznictwo.md) |
 | [WDU19981200786](WDU19981200786/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 1 września 1998 r. sygn. akt U. 1/98 | Orzeczenie | obowiązujący |  |
 | [WDU19981170759](WDU19981170759/index.md) | Ustawa z dnia 25 lipca 1998 r. o zmianie ustawy o systemie oświaty. | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU19981170756](WDU19981170756/index.md) | Ustawa z dnia 18 lipca 1998 r. o zmianie ustawy o powszechnym ubezpieczeniu | Ustawa | obowiązujący | [tak](WDU19981170756/orzecznictwo.md) |
 | [WDU19981130716](WDU19981130716/index.md) | Ustawa z dnia 24 lipca 1998 r. zmieniająca ustawę o zmianie ustawy o ewiden | Ustawa | obowiązujący |  |
 | [WDU19981080683](WDU19981080683/index.md) | Ustawa z dnia 16 lipca 1998 r. o zmianie ustawy o waloryzacji udziałów czło | Ustawa | obowiązujący | [tak](WDU19981080683/orzecznictwo.md) |
 | [WDU19981080681](WDU19981080681/index.md) | Ustawa z dnia 3 lipca 1998 r. o zmianie ustawy o podatku rolnym. | Ustawa | akt objęty tekstem jednolitym |  |
@@ -17622,11 +17366,9 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19971130736](WDU19971130736/index.md) | Ustawa z dnia 27 sierpnia 1997 r. o stosowaniu szczególnych rozwiązań podat | Ustawa | obowiązujący |  |
 | [WDU19971130734](WDU19971130734/index.md) | Ustawa z dnia 20 sierpnia 1997 r. o zmianie ustaw o regionalnych izbach obr | Ustawa | obowiązujący | [tak](WDU19971130734/orzecznictwo.md) |
 | [WDU19971130733](WDU19971130733/index.md) | Ustawa z dnia 20 sierpnia 1997 r. o zmianie ustawy o ewidencji ludności i d | Ustawa | obowiązujący |  |
-| [WDU19971130732](WDU19971130732/index.md) | Ustawa z dnia 1 sierpnia 1997 r. o zmianie ustawy o wychowaniu w trzeźwości | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19971130732/orzecznictwo.md) |
 | [WDU19971130731](WDU19971130731/index.md) | Ustawa z dnia 31 lipca 1997 r. o zmianie ustawy o ochronie zdrowia psychicz | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19971110725](WDU19971110725/index.md) | Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy o ochronie przeciwpożaro | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19971110725/orzecznictwo.md) |
 | [WDU19971110724](WDU19971110724/index.md) | Ustawa z dnia 21 sierpnia 1997 r. o ochronie zwierząt. | Ustawa | akt posiada tekst jednolity | [tak](WDU19971110724/orzecznictwo.md) |
-| [WDU19971110723](WDU19971110723/index.md) | Ustawa z dnia 21 sierpnia 1997 r. o zmianie ustawy o najmie lokali mieszkal | Ustawa | obowiązujący | [tak](WDU19971110723/orzecznictwo.md) |
 | [WDU19971100715](WDU19971100715/index.md) | Ustawa z dnia 27 sierpnia 1997 r. o zmianie ustawy - Prawo łowieckie. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19971070692](WDU19971070692/index.md) | Ustawa z dnia 29 sierpnia 1997 r. o zmianie ustawy o stosowaniu szczególnyc | Ustawa | obowiązujący |  |
 | [WDU19971070691](WDU19971070691/index.md) | Ustawa z dnia 28 sierpnia 1997 r. o zmianie ustawy o zrekompensowaniu okres | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19971070691/orzecznictwo.md) |
@@ -17646,7 +17388,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19971030651](WDU19971030651/index.md) | Ustawa z dnia 1 sierpnia 1997 r. o zmianie ustawy o niektórych formach popi | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19971030650](WDU19971030650/index.md) | Ustawa z dnia 26 czerwca 1997 r. o finansowaniu Papieskiej Akademii Teologi | Ustawa | obowiązujący |  |
 | [WDU19971010629](WDU19971010629/index.md) | Ustawa z dnia 26 czerwca 1997 r. o zmianie ustawy - Prawo przewozowe. | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU19971010628](WDU19971010628/index.md) | Ustawa z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających | Ustawa | akt posiada tekst jednolity | [tak](WDU19971010628/orzecznictwo.md) |
+| [WDU19971010628](WDU19971010628/index.md) | Ustawa z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających | Ustawa | akt posiada tekst jednolity |  |
 | [WDU19970980604](WDU19970980604/index.md) | Ustawa z dnia 27 czerwca 1997 r. o partiach politycznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19970980604/orzecznictwo.md) |
 | [WDU19970980603](WDU19970980603/index.md) | Ustawa z dnia 26 czerwca 1997 r. o zmianie ustawy o komercjalizacji i prywa | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19970980603/orzecznictwo.md) |
 | [WDU19970980602](WDU19970980602/index.md) | Ustawa z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym. | Ustawa | akt posiada tekst jednolity | [tak](WDU19970980602/orzecznictwo.md) |
@@ -17728,7 +17470,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19961000461](WDU19961000461/index.md) | Ustawa z dnia 28 czerwca 1996 r. o zmianie niektórych ustaw o zaopatrzeniu  | Ustawa | obowiązujący | [tak](WDU19961000461/orzecznictwo.md) |
 | [WDU19961000460](WDU19961000460/index.md) | Ustawa z dnia 27 czerwca 1996 r. o zmianie ustawy o uprawnieniach do bezpła | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19960910409](WDU19960910409/index.md) | Ustawa z dnia 4 lipca 1996 r. o zmianie ustaw o podatku rolnym, o lasach, o | Ustawa | obowiązujący | [tak](WDU19960910409/orzecznictwo.md) |
-| [WDU19960900407](WDU19960900407/index.md) | Ustawa z dnia 27 czerwca 1996 r. o zmianie ustawy o organizowaniu i prowadz | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19960900406](WDU19960900406/index.md) | Ustawa z dnia 14 czerwca 1996 r. o łączeniu i grupowaniu niektórych banków  | Ustawa | obowiązujący | [tak](WDU19960900406/orzecznictwo.md) |
 | [WDU19960890401](WDU19960890401/index.md) | Ustawa z dnia 5 lipca 1996 r. zmieniająca ustawę o zmianie ustawy o samorzą | Ustawa | obowiązujący | [tak](WDU19960890401/orzecznictwo.md) |
 | [WDU19960870396](WDU19960870396/index.md) | Ustawa z dnia 14 czerwca 1996 r. o zmianie ustawy - Karta Nauczyciela. | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19960870396/orzecznictwo.md) |
@@ -17742,7 +17483,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19960590268](WDU19960590268/index.md) | Ustawa z dnia 25 kwietnia 1996 r. o zmianie ustawy o gospodarowaniu nieruch | Ustawa | obowiązujący | [tak](WDU19960590268/orzecznictwo.md) |
 | [WDU19960580262](WDU19960580262/index.md) | Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy o regionalnych izbach obrac | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19960580261](WDU19960580261/index.md) | Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy o samorządzie terytorialnym | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19960580261/orzecznictwo.md) |
-| [WDU19960520237](WDU19960520237/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 26 kwietnia 1996 r.  | Obwieszczenie | obowiązujący |  |
 | [WDU19960520236](WDU19960520236/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 26 kwietnia 1996 r.  | Obwieszczenie | obowiązujący |  |
 | [WDU19960520235](WDU19960520235/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 23 kwietnia 1996 r.  | Obwieszczenie | obowiązujący |  |
 | [WDU19960450198](WDU19960450198/index.md) | Ustawa z dnia 15 marca 1996 r. o zmianie ustawy o nabywaniu nieruchomości p | Ustawa | akt objęty tekstem jednolitym |  |
@@ -17774,7 +17514,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19951270615](WDU19951270615/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 27 października 1995 | Obwieszczenie | obowiązujący |  |
 | [WDU19951240601](WDU19951240601/index.md) | Ustawa z dnia 29 września 1995 r. o zmianie ustawy o samorządzie terytorial | Ustawa | obowiązujący | [tak](WDU19951240601/orzecznictwo.md) |
 | [WDU19951200576](WDU19951200576/index.md) | Ustawa z dnia 25 sierpnia 1995 r. o zmianie ustawy o zawodzie lekarza weter | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU19951040515](WDU19951040515/index.md) | Ustawa z dnia 21 lipca 1995 r. o zmianie ustaw: o urzędzie Ministra Spraw W | Ustawa | obowiązujący | [tak](WDU19951040515/orzecznictwo.md) |
 | [WDU19951010504](WDU19951010504/index.md) | Ustawa z dnia 21 lipca 1995 r. o zmianie ustawy o systemie oświaty oraz nie | Ustawa | obowiązujący | [tak](WDU19951010504/orzecznictwo.md) |
 | [WDU19950990486](WDU19950990486/index.md) | Ustawa z dnia 23 czerwca 1995 r. o zmianie ustawy o pracowniczych ogrodach  | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19950990486/orzecznictwo.md) |
 | [WDU19950970482](WDU19950970482/index.md) | Ustawa z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatol | Ustawa | akt posiada tekst jednolity | [tak](WDU19950970482/orzecznictwo.md) |
@@ -17810,7 +17549,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19941210591](WDU19941210591/index.md) | Ustawa z dnia 29 września 1994 r. o rachunkowości. | Ustawa | akt posiada tekst jednolity | [tak](WDU19941210591/orzecznictwo.md) |
 | [WDU19941190567](WDU19941190567/index.md) | Ustawa z dnia 12 października 1994 r. o zasadach przekazywania zakładowych  | Ustawa | akt posiada tekst jednolity | [tak](WDU19941190567/orzecznictwo.md) |
 | [WDU19941110537](WDU19941110537/index.md) | Ustawa z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach p | Ustawa | akt posiada tekst jednolity | [tak](WDU19941110537/orzecznictwo.md) |
-| [WDU19941110536](WDU19941110536/index.md) | Ustawa z dnia 2 września 1994 r. o zmianie ustawy - Prawo przewozowe. | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19941110536/orzecznictwo.md) |
 | [WDU19941110535](WDU19941110535/index.md) | Ustawa z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego. | Ustawa | akt posiada tekst jednolity | [tak](WDU19941110535/orzecznictwo.md) |
 | [WDU19940990482](WDU19940990482/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 9 września 1994 r. o | Obwieszczenie | obowiązujący | [tak](WDU19940990482/orzecznictwo.md) |
 | [WDU19940980473](WDU19940980473/index.md) | Ustawa z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w prze | Ustawa | akt posiada tekst jednolity | [tak](WDU19940980473/orzecznictwo.md) |
@@ -17818,7 +17556,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19940860405](WDU19940860405/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 13 lipca 1994 r. o u | Obwieszczenie | obowiązujący |  |
 | [WDU19940860398](WDU19940860398/index.md) | Ustawa z dnia 7 lipca 1994 r. o ubezpieczeniach gwarantowanych przez Skarb  | Ustawa | akt posiada tekst jednolity | [tak](WDU19940860398/orzecznictwo.md) |
 | [WDU19940860397](WDU19940860397/index.md) | Ustawa z dnia 24 czerwca 1994 r. zmieniająca ustawę o zmianie ustawy o samo | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU19940860396](WDU19940860396/index.md) | Ustawa z dnia 24 czerwca 1994 r. o przedłużeniu kadencji kolegiów odwoławcz | Ustawa | obowiązujący |  |
 | [WDU19940860395](WDU19940860395/index.md) | Ustawa z dnia 10 czerwca 1994 r. o uregulowaniu niektórych praw majątkowych | Ustawa | obowiązujący |  |
 | [WDU19940850388](WDU19940850388/index.md) | Ustawa z dnia 24 czerwca 1994 r. o własności lokali. | Ustawa | akt posiada tekst jednolity | [tak](WDU19940850388/orzecznictwo.md) |
 | [WDU19940840386](WDU19940840386/index.md) | Ustawa z dnia 7 lipca 1994 r. o denominacji złotego. | Ustawa | obowiązujący | [tak](WDU19940840386/orzecznictwo.md) |
@@ -17906,7 +17643,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19910810351](WDU19910810351/index.md) | Ustawa z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910810351/orzecznictwo.md) |
 | [WDU19910770335](WDU19910770335/index.md) | Ustawa z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska | Ustawa | akt posiada tekst jednolity | [tak](WDU19910770335/orzecznictwo.md) |
 | [WDU19910750331](WDU19910750331/index.md) | Ustawa z dnia 26 lipca 1991 r. o zmianie ustawy o zwrocie korzyści uzyskany | Ustawa | obowiązujący |  |
-| [WDU19910750329](WDU19910750329/index.md) | Ustawa z dnia 19 lipca 1991 r. o zmianie ustaw o przedsiębiorstwach państwo | Ustawa | obowiązujący | [tak](WDU19910750329/orzecznictwo.md) |
 | [WDU19910660287](WDU19910660287/index.md) | Ustawa z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefaliczn | Ustawa | akt posiada tekst jednolity | [tak](WDU19910660287/orzecznictwo.md) |
 | [WDU19910640273](WDU19910640273/index.md) | Ustawa z dnia 28 czerwca 1991 r. o uchyleniu ustawy o Narodowej Radzie Kult | Ustawa | obowiązujący |  |
 | [WDU19910640271](WDU19910640271/index.md) | Ustawa z dnia 14 czerwca 1991 r. o zmianie ustawy o cmentarzach i chowaniu  | Ustawa | akt objęty tekstem jednolitym |  |
@@ -17945,7 +17681,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19900440256](WDU19900440256/index.md) | Ustawa z dnia 21 czerwca 1990 r. o zniesieniu Akademii Nauk Społecznych. | Ustawa | obowiązujący |  |
 | [WDU19900440255](WDU19900440255/index.md) | Ustawa z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie  | Ustawa | obowiązujący | [tak](WDU19900440255/orzecznictwo.md) |
 | [WDU19900430253](WDU19900430253/index.md) | Ustawa z dnia 21 czerwca 1990 r. o zmianie niektórych ustaw dotyczących sam | Ustawa | obowiązujący | [tak](WDU19900430253/orzecznictwo.md) |
-| [WDU19900430252](WDU19900430252/index.md) | Ustawa z dnia 8 czerwca 1990 r. o przywróceniu Akademii Wychowania Fizyczne | Ustawa | obowiązujący |  |
 | [WDU19900360206](WDU19900360206/index.md) | Ustawa z dnia 24 maja 1990 r. o zmianie niektórych przepisów o zaopatrzeniu | Ustawa | obowiązujący | [tak](WDU19900360206/orzecznictwo.md) |
 | [WDU19900340199](WDU19900340199/index.md) | Ustawa z dnia 18 maja 1990 r. o zmianie ustawy o samorządzie terytorialnym  | Ustawa | obowiązujący |  |
 | [WDU19900340198](WDU19900340198/index.md) | Ustawa z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w  | Ustawa | obowiązujący | [tak](WDU19900340198/orzecznictwo.md) |
@@ -17953,15 +17688,11 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19900320191](WDU19900320191/index.md) | Ustawa z dnia 10 maja 1990 r. Przepisy wprowadzające ustawę o samorządzie t | Ustawa | obowiązujący | [tak](WDU19900320191/orzecznictwo.md) |
 | [WDU19900300179](WDU19900300179/index.md) | Ustawa z dnia 6 kwietnia 1990 r. o Policji. | Ustawa | akt posiada tekst jednolity | [tak](WDU19900300179/orzecznictwo.md) |
 | [WDU19900290175](WDU19900290175/index.md) | Ustawa z dnia 27 kwietnia 1990 r. o zmianie ustawy o zmianach w organizacji | Ustawa | obowiązujący |  |
-| [WDU19900290173](WDU19900290173/index.md) | Ustawa z dnia 11 kwietnia 1990 r. o uchyleniu ustawy o kontroli publikacji  | Ustawa | obowiązujący |  |
-| [WDU19900290171](WDU19900290171/index.md) | Ustawa z dnia 11 kwietnia 1990 r. zmieniająca ustawę o zmianie Konstytucji  | Ustawa | obowiązujący |  |
 | [WDU19900280160](WDU19900280160/index.md) | Ustawa z dnia 6 kwietnia 1990 r. o przywróceniu Święta Narodowego Trzeciego | Ustawa | obowiązujący |  |
 | [WDU19900280159](WDU19900280159/index.md) | Ustawa z dnia 6 kwietnia 1990 r. o zniesieniu 22 lipca jako Narodowego Świę | Ustawa | obowiązujący |  |
 | [WDU19900210126](WDU19900210126/index.md) | Ustawa z dnia 23 marca 1990 r. o zmianie ustawy o postępowaniu egzekucyjnym | Ustawa | obowiązujący |  |
-| [WDU19900200121](WDU19900200121/index.md) | Ustawa z dnia 22 marca 1990 r. o zmianie ustawy o Prokuraturze Polskiej Rze | Ustawa | obowiązujący | [tak](WDU19900200121/orzecznictwo.md) |
 | [WDU19900170099](WDU19900170099/index.md) | Ustawa z dnia 9 marca 1990 r. o zmianie ustawy o przedsiębiorstwach państwo | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19900170099/orzecznictwo.md) |
 | [WDU19900100068](WDU19900100068/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 8 lutego 1990 r. o u | Obwieszczenie | obowiązujący |  |
-| [WDU19890740443](WDU19890740443/index.md) | Ustawa z dnia 28 grudnia 1989 r. o zmianie niektórych ustaw regulujących za | Ustawa | obowiązujący | [tak](WDU19890740443/orzecznictwo.md) |
 | [WDU19890740440](WDU19890740440/index.md) | Ustawa z dnia 28 grudnia 1989 r. o uporządkowaniu stosunków kredytowych. | Ustawa | obowiązujący | [tak](WDU19890740440/orzecznictwo.md) |
 | [WDU19890670406](WDU19890670406/index.md) | Ustawa z dnia 30 listopada 1989 r. o Funduszu Daru Narodowego. | Ustawa | obowiązujący |  |
 | [WDU19890640391](WDU19890640391/index.md) | Ustawa z dnia 7 grudnia 1989 r. o zmianie ustawy o szczególnych uprawnienia | Ustawa | obowiązujący | [tak](WDU19890640391/orzecznictwo.md) |
@@ -17978,7 +17709,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19890340185](WDU19890340185/index.md) | Ustawa z dnia 29 maja 1989 r. o nadaniu Akademii Rolniczo-Technicznej w Ols | Ustawa | obowiązujący |  |
 | [WDU19890340184](WDU19890340184/index.md) | Ustawa z dnia 29 maja 1989 r. o nadaniu Uniwersytetowi Wrocławskiemu im. Bo | Ustawa | obowiązujący |  |
 | [WDU19890340179](WDU19890340179/index.md) | Ustawa z dnia 29 maja 1989 r. o przebaczeniu i puszczeniu w niepamięć niekt | Ustawa | obowiązujący | [tak](WDU19890340179/orzecznictwo.md) |
-| [WDU19890340178](WDU19890340178/index.md) | Ustawa z dnia 29 maja 1989 r. o przekazaniu dotychczasowych kompetencji Rad | Ustawa | obowiązujący | [tak](WDU19890340178/orzecznictwo.md) |
 | [WDU19890320169](WDU19890320169/index.md) | Ustawa z dnia 24 maja 1989 r. o zmianie ustawy o ubezpieczeniu społecznym r | Ustawa | obowiązujący | [tak](WDU19890320169/orzecznictwo.md) |
 | [WDU19890300163](WDU19890300163/index.md) | Ustawa z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne. | Ustawa | akt posiada tekst jednolity | [tak](WDU19890300163/orzecznictwo.md) |
 | [WDU19890290155](WDU19890290155/index.md) | Ustawa z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania. | Ustawa | akt posiada tekst jednolity | [tak](WDU19890290155/orzecznictwo.md) |
@@ -17986,17 +17716,16 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19890200104](WDU19890200104/index.md) | Ustawa z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach. | Ustawa | akt posiada tekst jednolity | [tak](WDU19890200104/orzecznictwo.md) |
 | [WDU19890170092](WDU19890170092/index.md) | Ustawa z dnia 22 marca 1989 r. o rzemiośle. | Ustawa | akt posiada tekst jednolity | [tak](WDU19890170092/orzecznictwo.md) |
 | [WDU19890110063](WDU19890110063/index.md) | Obwieszczenie Ministra Pracy i Polityki Socjalnej z dnia 11 lutego 1989 r.  | Obwieszczenie | obowiązujący | [tak](WDU19890110063/orzecznictwo.md) |
+| [WDU19890100056](WDU19890100056/index.md) | Ustawa z dnia 24 lutego 1989 r. o zmianie ustawy o sprzedaży państwowych ni | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19890100055](WDU19890100055/index.md) | Ustawa z dnia 24 lutego 1989 r. o zmianie ustawy o scalaniu gruntów. | Ustawa | obowiązujący |  |
 | [WDU19890060036](WDU19890060036/index.md) | Ustawa z dnia 15 lutego 1989 r. o nadaniu Wyższej Szkole Pedagogicznej w Zi | Ustawa | obowiązujący |  |
 | [WDU19890030014](WDU19890030014/index.md) | Ustawa z dnia 31 stycznia 1989 r. o nadaniu Akademii Medycznej w Bydgoszczy | Ustawa | obowiązujący |  |
 | [WDU19890030010](WDU19890030010/index.md) | Ustawa z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw p | Ustawa | akt posiada tekst jednolity | [tak](WDU19890030010/orzecznictwo.md) |
 | [WDU19880200135](WDU19880200135/index.md) | Ustawa z dnia 17 czerwca 1988 r. o zmianie niektórych przepisów prawa karne | Ustawa | obowiązujący |  |
 | [WDU19880190132](WDU19880190132/index.md) | Ustawa z dnia 16 czerwca 1988 r. o zmianie niektórych ustaw regulujących za | Ustawa | obowiązujący |  |
-| [WDU19870330181](WDU19870330181/index.md) | Ustawa z dnia 23 października 1987 r. o zmianie niektórych ustaw regulujący | Ustawa | obowiązujący | [tak](WDU19870330181/orzecznictwo.md) |
 | [WDU19870330180](WDU19870330180/index.md) | Ustawa z dnia 23 października 1987 r. o zmianach w zakresie działania niekt | Ustawa | obowiązujący |  |
 | [WDU19870280157](WDU19870280157/index.md) | Ustawa z dnia 25 września 1987 r. o nadaniu Państwowej Wyższej Szkole Sztuk | Ustawa | obowiązujący |  |
 | [WDU19870210123](WDU19870210123/index.md) | Ustawa z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich. | Ustawa | akt posiada tekst jednolity | [tak](WDU19870210123/orzecznictwo.md) |
-| [WDU19860470226](WDU19860470226/index.md) | Ustawa z dnia 18 grudnia 1986 r. o zmianie niektórych ustaw określających f | Ustawa | obowiązujący |  |
 | [WDU19860390193](WDU19860390193/index.md) | Ustawa z dnia 24 października 1986 r. o zmianie niektórych przepisów prawa  | Ustawa | obowiązujący |  |
 | [WDU19860260126](WDU19860260126/index.md) | Ustawa z dnia 17 lipca 1986 r. o szczególnym postępowaniu wobec sprawców ni | Ustawa | obowiązujący | [tak](WDU19860260126/orzecznictwo.md) |
 | [WDU19860120072](WDU19860120072/index.md) | Ustawa z dnia 10 kwietnia 1986 r. o zmianie ustawy o przedsiębiorstwach mie | Ustawa | obowiązujący |  |
@@ -18011,7 +17740,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19840550282](WDU19840550282/index.md) | Ustawa z dnia 3 grudnia 1984 r. o uznaniu ważności umów o przekazanie gospo | Ustawa | obowiązujący | [tak](WDU19840550282/orzecznictwo.md) |
 | [WDU19840530272](WDU19840530272/index.md) | Ustawa z dnia 15 listopada 1984 r. Prawo przewozowe. | Ustawa | akt posiada tekst jednolity | [tak](WDU19840530272/orzecznictwo.md) |
 | [WDU19840520268](WDU19840520268/index.md) | Ustawa z dnia 15 listopada 1984 r. o podatku rolnym. | Ustawa | akt posiada tekst jednolity | [tak](WDU19840520268/orzecznictwo.md) |
-| [WDU19840360192](WDU19840360192/index.md) | Ustawa z dnia 21 lipca 1984 r. o amnestii. | Ustawa | obowiązujący | [tak](WDU19840360192/orzecznictwo.md) |
 | [WDU19840360191](WDU19840360191/index.md) | Ustawa z dnia 21 lipca 1984 r. o utworzeniu Akademii Medycznej w Bydgoszczy | Ustawa | obowiązujący |  |
 | [WDU19840360190](WDU19840360190/index.md) | Ustawa z dnia 21 lipca 1984 r. o utworzeniu Uniwersytetu Szczecińskiego. | Ustawa | obowiązujący |  |
 | [WDU19840210097](WDU19840210097/index.md) | Ustawa z dnia 6 kwietnia 1984 r. o fundacjach. | Ustawa | akt posiada tekst jednolity | [tak](WDU19840210097/orzecznictwo.md) |
@@ -18019,7 +17747,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19840050024](WDU19840050024/index.md) | Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe. | Ustawa | akt posiada tekst jednolity | [tak](WDU19840050024/orzecznictwo.md) |
 | [WDU19830630287](WDU19830630287/index.md) | Ustawa z dnia 22 listopada 1983 r. o zmianie ustawy o amnestii. | Ustawa | obowiązujący |  |
 | [WDU19830450207](WDU19830450207/index.md) | Ustawa z dnia 28 lipca 1983 r. o podatku od spadków i darowizn. | Ustawa | akt posiada tekst jednolity | [tak](WDU19830450207/orzecznictwo.md) |
-| [WDU19830440203](WDU19830440203/index.md) | Ustawa z dnia 28 lipca 1983 r. o zmianie niektórych przepisów z zakresu pra | Ustawa | obowiązujący | [tak](WDU19830440203/orzecznictwo.md) |
 | [WDU19830390177](WDU19830390177/index.md) | Ustawa z dnia 21 lipca 1983 r. o amnestii. | Ustawa | obowiązujący | [tak](WDU19830390177/orzecznictwo.md) |
 | [WDU19830380173](WDU19830380173/index.md) | Ustawa z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach. | Ustawa | akt posiada tekst jednolity | [tak](WDU19830380173/orzecznictwo.md) |
 | [WDU19830350163](WDU19830350163/index.md) | Ustawa z dnia 24 czerwca 1983 r. o społecznej inspekcji pracy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19830350163/orzecznictwo.md) |
@@ -18068,15 +17795,12 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19580110037](WDU19580110037/index.md) | Ustawa z dnia 25 lutego 1958 r. o uregulowaniu stanu prawnego mienia pozost | Ustawa | obowiązujący | [tak](WDU19580110037/orzecznictwo.md) |
 | [WDU19570390173](WDU19570390173/index.md) | Ustawa z dnia 13 lipca 1957 r. o uchyleniu dekretu z dnia 9 lutego 1953 r.  | Ustawa | obowiązujący | [tak](WDU19570390173/orzecznictwo.md) |
 | [WDU19570310137](WDU19570310137/index.md) | Ustawa z dnia 29 maja 1957 r. o uregulowaniu spraw własności niektórych nie | Ustawa | obowiązujący |  |
-| [WDU19560540245](WDU19560540245/index.md) | Ustawa z dnia 15 listopada 1956 r. o zmianie organizacji współpracy kultura | Ustawa | obowiązujący |  |
 | [WDU19560540243](WDU19560540243/index.md) | Ustawa z dnia 15 listopada 1956 r. o odpowiedzialności Państwa za szkody wy | Ustawa | obowiązujący | [tak](WDU19560540243/orzecznictwo.md) |
 | [WDU19560410188](WDU19560410188/index.md) | Ustawa z dnia 11 września 1956 r. o przejściu więziennictwa do zakresu dzia | Ustawa | obowiązujący |  |
 | [WDU19560110057](WDU19560110057/index.md) | Ustawa z dnia 27 kwietnia 1956 r. o amnestii. | Ustawa | obowiązujący | [tak](WDU19560110057/orzecznictwo.md) |
 | [WDU19550470316](WDU19550470316/index.md) | Rozporządzenie Rady Ministrów z dnia 7 grudnia 1955 r. w sprawie tablic i p | Rozporządzenie | obowiązujący |  |
 | [WDU19550180107](WDU19550180107/index.md) | Dekret z dnia 18 kwietnia 1955 r. o uwłaszczeniu i o uregulowaniu innych sp | Dekret | akt posiada tekst jednolity | [tak](WDU19550180107/orzecznictwo.md) |
 | [WDU19530230093](WDU19530230093/index.md) | Dekret z dnia 23 kwietnia 1953 r. o świadczeniach w celu zwalczania klęsk ż | Dekret | obowiązujący | [tak](WDU19530230093/orzecznictwo.md) |
-| [WDU19520460309](WDU19520460309/index.md) | Ustawa z dnia 22 listopada 1952 r. o amnestii. | Ustawa | obowiązujący | [tak](WDU19520460309/orzecznictwo.md) |
-| [WDU19510050039](WDU19510050039/index.md) | Ustawa z dnia 8 stycznia 1951 r. o zniesieniu powiatowych i wojewódzkich ko | Ustawa | obowiązujący |  |
 | [WDU19510040028](WDU19510040028/index.md) | Ustawa z dnia 18 stycznia 1951 r. o dniach wolnych od pracy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19510040028/orzecznictwo.md) |
 | [WDU19510010001](WDU19510010001/index.md) | Ustawa z dnia 8 stycznia 1951 r. o przejęciu aptek na własność Państwa. | Ustawa | obowiązujący | [tak](WDU19510010001/orzecznictwo.md) |
 | [WDU19500360336](WDU19500360336/index.md) | Ustawa z dnia 20 lipca 1950 r. o zawodzie felczera. | Ustawa | akt posiada tekst jednolity | [tak](WDU19500360336/orzecznictwo.md) |
@@ -18087,11 +17811,9 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19500090087](WDU19500090087/index.md) | Ustawa z dnia 20 marca 1950 r. o przejęciu przez Państwo dóbr martwej ręki, | Ustawa | obowiązujący | [tak](WDU19500090087/orzecznictwo.md) |
 | [WDU19490320238](WDU19490320238/index.md) | Ustawa z dnia 27 kwietnia 1949 r. o zmianie przepisów postępowania karnego. | Ustawa | obowiązujący |  |
 | [WDU19490180118](WDU19490180118/index.md) | Ustawa z dnia 9 marca 1949 r. o zakładaniu rejestrów spółdzielni, których r | Ustawa | obowiązujący |  |
-| [WDU19480570456](WDU19480570456/index.md) | Ustawa z dnia 18 listopada 1948 r. o przejściu na własność Państwa niektóry | Ustawa | obowiązujący | [tak](WDU19480570456/orzecznictwo.md) |
 | [WDU19470660410](WDU19470660410/index.md) | Dekret z dnia 28 października 1947 r. o mocy prawnej ksiąg wieczystych na o | Dekret | obowiązujący | [tak](WDU19470660410/orzecznictwo.md) |
 | [WDU19470520266](WDU19470520266/index.md) | Ustawa z dnia 2 lipca 1947 r. o upamiętnieniu męczeństwa Narodu Polskiego i | Ustawa | obowiązujący |  |
 | [WDU19470520265](WDU19470520265/index.md) | Ustawa z dnia 2 lipca 1947 r. o upamiętnieniu męczeństwa Narodu Polskiego i | Ustawa | obowiązujący |  |
-| [WDU19470200078](WDU19470200078/index.md) | Ustawa z dnia 22 lutego 1947 r. o amnestii. | Ustawa | obowiązujący | [tak](WDU19470200078/orzecznictwo.md) |
 | [WDU19460720394](WDU19460720394/index.md) | Dekret z dnia 20 grudnia 1946 r. o zmianie ustawy z dnia 3 stycznia 1946 r. | Dekret | obowiązujący | [tak](WDU19460720394/orzecznictwo.md) |
 | [WDU19460620342](WDU19460620342/index.md) | Dekret z dnia 15 listopada 1946 r. o zajęciu majątku państw pozostających z | Dekret | obowiązujący |  |
 | [WDU19460540305](WDU19460540305/index.md) | Dekret z dnia 8 października 1946 r. o zmianie dekretu z dnia 7 lipca 1945  | Dekret | obowiązujący |  |
@@ -18108,10 +17830,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19360300240](WDU19360300240/index.md) | Ustawa z dnia 21 kwietnia 1936 r. o stosunku Państwa do Muzułmańskiego Zwią | Ustawa | obowiązujący | [tak](WDU19360300240/orzecznictwo.md) |
 | [WDU19350220129](WDU19350220129/index.md) | Ustawa z dnia 18 marca 1935 r. o pobieraniu odsetek od zaległości w podatka | Ustawa | akt posiada tekst jednolity |  |
 | [WDU19330390311](WDU19330390311/index.md) | Ustawa z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19330390311/orzecznictwo.md) |
-| [WDU19320290277](WDU19320290277/index.md) | Ustawa z dnia 18 lutego 1932 r. w sprawie przystąpienia Polski do konwencji | Ustawa | obowiązujący |  |
-| [WDU19320260236](WDU19320260236/index.md) | Ustawa z dnia 9 marca 1932 r. o Funduszu Obrotowym Reformy Rolnej. | Ustawa | akt posiada tekst jednolity |  |
-| [WDU19320190128](WDU19320190128/index.md) | Ustawa z dnia 28 stycznia 1932 r. w sprawie zatwierdzenia zgłoszonego przez | Ustawa | obowiązujący |  |
 | [WDU19310380294](WDU19310380294/index.md) | Ustawa z dnia 17 marca 1931 r. w sprawie przystąpienia Polski do traktatu,  | Ustawa | obowiązujący |  |
 | [WDU19200310178](WDU19200310178/index.md) | Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców | Ustawa | akt posiada tekst jednolity | [tak](WDU19200310178/orzecznictwo.md) |
 
-*18107 aktów • [← Powrót do spisu głównego](../README.md)*
+*17826 aktów • [← Powrót do spisu głównego](../README.md)*

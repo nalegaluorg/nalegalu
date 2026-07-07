@@ -8,10 +8,10 @@ pos: 2211
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o imprezach turystycznych i powiązanych usługach turystycznych
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 11 października 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o imprezach turystycznych i powiązanych usługach turystycznych
 
 *USTAWA z dnia 24 listopada 2017 r.*
 
@@ -27,11 +27,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-01-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002211) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2211/text.pdf) |
 
-Art. 61–71. (pominięte)
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** warunki oferowania, sprzedaży i realizacji imprez turystycznych oraz powiązanych usług turystycznych na terytorium Rzeczypospolitej Polskiej, a także za granicą, jeżeli umowy z podróżnymi są zawierane przez przedsiębiorców turystycznych mających siedzibę na terytorium Rzeczypospolitej Polskiej;
+- **2)** zasady funkcjonowania Turystycznego Funduszu Gwarancyjnego.
 
 **Art. 2.**
 
@@ -41,7 +42,33 @@ Art. 61–71. (pominięte)
 
 **Art. 3.** Ustawy nie stosuje się do:
 
+- **1)** imprez turystycznych oraz powiązanych usług turystycznych, które są oferowane oraz których zamawianie i realizowanie jest ułatwiane okazjonalnie, na zasadach niezarobkowych i wyłącznie ograniczonej grupie podróżnych;
+- **2)** imprez turystycznych i powiązanych usług turystycznych nabywanych na podstawie umowy generalnej o organizowanie podróży służbowych zawieranej między przedsiębiorcą turystycznym a przedsiębiorcą w rozumieniu art. 43 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933) albo podmiotem prowadzącym działalność odpłatną;
+- **3)** imprez turystycznych oraz powiązanych usług turystycznych trwających krócej niż 24 godziny, chyba że obejmują nocleg.
+
 **Art. 4.** Ilekroć w ustawie jest mowa o:
+
+- **1)** usłudze turystycznej – należy przez to rozumieć:
+    - **a)** przewóz pasażerów,
+    - **b)** zakwaterowanie w celach innych niż pobytowe, które nie jest nieodłącznym elementem przewozu pasażerów,
+    - **c)** wynajem pojazdów samochodowych lub innych pojazdów silnikowych,
+    - **d)** inną usługę świadczoną podróżnym, która nie stanowi integralnej części usług wskazanych w lit. a–c;
+
+- **2)** imprezie turystycznej – należy przez to rozumieć połączenie co najmniej dwóch różnych rodzajów usług turystycznych na potrzeby tej samej podróży lub wakacji, spełniające warunki, o których mowa w art. 5 ust. 1;
+- **3)** umowie o udział w imprezie turystycznej – należy przez to rozumieć umowę dotyczącą imprezy turystycznej jako całości lub, jeżeli impreza turystyczna jest realizowana na podstawie odrębnych umów, wszystkie umowy obejmujące poszczególne usługi turystyczne w ramach tej samej imprezy turystycznej;
+- **4)** rozpoczęciu imprezy turystycznej – należy przez to rozumieć rozpoczęcie wykonywania usług turystycznych w ramach tej samej imprezy turystycznej;
+- **5)** powiązanych usługach turystycznych – należy przez to rozumieć niestanowiące imprezy turystycznej połączenie co najmniej dwóch różnych rodzajów usług turystycznych nabytych na potrzeby tej samej podróży lub wakacji, objęte odrębnymi umowami z dostawcami poszczególnych usług turystycznych, spełniające warunki, o których mowa w art. 6 ust. 1;
+- **6)** podróżnym – należy przez to rozumieć każdego, kto chce zawrzeć umowę lub jest uprawniony do podróżowania na podstawie umowy zawartej w zakresie stosowania ustawy;
+- **7)** przedsiębiorcy turystycznym – należy przez to rozumieć organizatora turystyki, przedsiębiorcę ułatwiającego nabywanie powiązanych usług turystycznych, agenta turystycznego lub dostawcę usług turystycznych, będącego przedsiębiorcą w rozumieniu art. 43 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny albo prowadzącego działalność odpłatną;
+- **8)** organizatorze turystyki – należy przez to rozumieć przedsiębiorcę turystycznego, który tworzy i sprzedaje lub oferuje do sprzedaży imprezy turystyczne, bezpośrednio lub za pośrednictwem innego przedsiębiorcy turystycznego lub razem z innym przedsiębiorcą turystycznym, lub też przedsiębiorcę turystycznego, który przekazuje dane podróżnego innemu przedsiębiorcy turystycznemu zgodnie z art. 5 ust. 1 pkt 2 lit. e;
+- **9)** agencie turystycznym – należy przez to rozumieć przedsiębiorcę turystycznego innego niż organizator turystyki, który na podstawie umowy agencyjnej sprzedaje lub oferuje do sprzedaży imprezy turystyczne utworzone przez organizatora turystyki;
+- **10)** trwałym nośniku – należy przez to rozumieć materiał lub narzędzie umożliwiające podróżnemu lub przedsiębiorcy turystycznemu przechowywanie informacji kierowanych osobiście do niego, w sposób umożliwiający dostęp do informacji w przyszłości przez czas odpowiedni do celów, jakim te informacje służą, i które pozwalają na odtworzenie przechowywanych informacji w niezmienionej postaci;
+- **11)** punkcie sprzedaży – należy przez to rozumieć ruchome lub stałe miejsce prowadzenia sprzedaży imprez turystycznych lub powiązanych usług turystycznych, jak również strony internetowe sprzedaży lub podobne punkty sprzedaży online, z uwzględnieniem przypadków, gdy internetowe strony sprzedaży lub punkty sprzedaży online przedstawiane są podróżnym jako jeden punkt obsługi, w tym usługa dostępna telefonicznie;
+- **12)** powrocie do kraju – należy przez to rozumieć powrót podróżnego do miejsca rozpoczęcia podróży lub do innego miejsca uzgodnionego przez strony umowy;
+- **13)** turystycznym rachunku powierniczym – należy przez to rozumieć rachunek powierniczy w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm. ) należący do organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych, służący gromadzeniu środków pieniężnych wpłacanych przez podróżnych;
+- **14)** zabezpieczeniu finansowym – należy przez to rozumieć gwarancję bankową, gwarancję ubezpieczeniową, umowę ubezpieczenia na rzecz podróżnych lub umowę o turystyczny rachunek powierniczy, o których mowa w art. 7 ust. 2 pkt 1–3;
+- **15)** nieuniknionych i nadzwyczajnych okolicznościach – należy przez to rozumieć sytuację pozostającą poza kontrolą strony powołującej się na taką sytuację, której skutków nie można było uniknąć, nawet gdyby podjęto wszelkie rozsądne działania;
+- **16)** niezgodności – należy przez to rozumieć niewykonanie lub nienależyte wykonanie usług turystycznych objętych imprezą turystyczną.
 
 **Art. 5.**
 
@@ -80,10 +107,8 @@ Art. 61–71. (pominięte)
     - **b)** zwrot wpłat wniesionych tytułem zapłaty za imprezę turystyczną lub każdą opłaconą usługę przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych, w przypadku gdy z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych lub osób, które działają w ich imieniu, impreza turystyczna lub którakolwiek opłacona usługa przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych nie została lub nie zostanie zrealizowana,
     - **c)** zwrot części wpłat wniesionych tytułem zapłaty za imprezę turystyczną odpowiadającą części imprezy turystycznej lub za każdą usługę opłaconą przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych odpowiadającą części usługi, która nie została lub nie zostanie zrealizowana z przyczyn dotyczących organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych, lub osób, które działają w ich imieniu;
 
-- **2)** składać marszałkowi województwa oryginały lub poświadczone za zgodność z oryginałem przez adwokata, radcę prawnego lub notariusza kopie posiadanego zabezpieczenia finansowego, nie później niż 14 dni przed upływem terminu obowiązywania umowy lub gwarancji poprzedniej; przedsiębiorcy turystyczni zaprzestający działalności albo zawieszający działalność są zwolnieni z tego obowiązku, jeżeli zawiadomią marszałka województwa o zaprzestaniu albo zawieszeniu działalności organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych; [3) prowadzić wykaz umów o udział w imprezie turystycznej oraz umów zawartych przez podróżnego z przedsiębiorcą ułatwiającym nabywanie powiązanych usług turystycznych, zwany dalej „wykazem umów”;] <3) prowadzić i aktualizować wykaz umów o udział w imprezie turystycznej oraz umów zawartych przez podróżnego z przedsiębiorcą ułatwiającym nabywanie powiązanych usług turystycznych, zwany dalej „wykazem umów”:
-    - **a)** w systemie teleinformatycznym Ubezpieczeniowego Funduszu Gwarancyjnego, o którym mowa w art. 15ka ust. 2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2025 r. poz. 764), albo
-    - **b)** poza systemem, o którym mowa w lit. a, pod warunkiem terminowego przekazywania wykazu umów do Ubezpieczeniowego Funduszu Gwarancyjnego;>
-
+- **2)** składać marszałkowi województwa oryginały lub poświadczone za zgodność z oryginałem przez adwokata, radcę prawnego lub notariusza kopie posiadanego zabezpieczenia finansowego, nie później niż 14 dni przed upływem terminu obowiązywania umowy lub gwarancji poprzedniej; przedsiębiorcy turystyczni zaprzestający działalności albo zawieszający działalność są zwolnieni z tego obowiązku, jeżeli zawiadomią marszałka województwa o zaprzestaniu albo zawieszeniu działalności organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych;
+- **3)** prowadzić i aktualizować wykaz umów o udział w imprezie turystycznej oraz umów zawartych przez podróżnego z przedsiębiorcą ułatwiającym nabywanie powiązanych usług turystycznych, zwany dalej „wykazem umów”: a) w systemie teleinformatycznym Ubezpieczeniowego Funduszu Gwarancyjnego, o którym mowa w art. 15ka ust. 2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2025 r. poz. 764), albo b) poza systemem, o którym mowa w lit. a, pod warunkiem terminowego przekazywania wykazu umów do Ubezpieczeniowego Funduszu Gwarancyjnego;
 - **4)** składać terminowo do Ubezpieczeniowego Funduszu Gwarancyjnego deklaracje zawierające:
     - **a)** wyliczenie wysokości należnych składek na Turystyczny Fundusz Gwarancyjny,
     - **b)** określenie liczby i rodzaju umów, o których mowa w pkt 3, zawartych w danym miesiącu oraz liczby podróżnych objętych tymi umowami,
@@ -128,22 +153,25 @@ Art. 61–71. (pominięte)
 
 1. Wykaz umów zawiera następujące dane:
 
-- **1)** numer rezerwacji lub umowy; <1a) przedmiot umowy;>
+- **1)** numer rezerwacji lub umowy;
+- **1a)** przedmiot umowy;
 - **2)** termin zawarcia umowy;
 - **3)** termin imprezy turystycznej lub wykonania usługi w ramach powiązanych usług turystycznych;
-- **4)** liczbę podróżnych objętych umową; [5) łączną cenę usług objętych umową;] <5) łączną cenę usług objętych umową albo poszczególne kwoty, które składają się na łączną cenę, w przypadku gdy te kwoty są podane w różnych walutach;> [6) miejsce lub trasę wykonania umowy;] <6) kraj i miejscowość albo kraj i trasę wykonania umowy oraz zakres terytorialny wykonywanej działalności objętej wpisem do rejestru;>
+- **4)** liczbę podróżnych objętych umową;
+- **6)** kraj i miejscowość albo kraj i trasę wykonania umowy oraz zakres terytorialny wykonywanej działalności objętej wpisem do rejestru;
 - **7)** rodzaj środka transportu, <w szczególności wskazanie transportu lotniczego w ramach przewozu czarterowego,> jeśli przewóz jest objęty umową;
 - **7a)** kody lotnisk Organizacji Międzynarodowego Lotnictwa Cywilnego (ICAO), jeżeli impreza turystyczna lub wykonywana usługa w ramach powiązanych usług turystycznych zawiera przelot;
 - **8)** terminy i wysokość faktycznie dokonanych przedpłat;
-- **9)** termin i wysokość zwrotu wpłat podróżnemu, jeśli zwrot został dokonany; <10) wskazanie, czy przed realizacją imprezy turystycznej lub powiązanej usługi turystycznej są przyjmowane przedpłaty.> [2. Marszałek województwa i minister właściwy do spraw turystyki, w trybie kontroli, mają prawo dostępu do danych zawartych w wykazie umów.] <2. Marszałek województwa i minister właściwy do spraw turystyki, w trybie kontroli organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych, mają prawo dostępu do danych zawartych w wykazie umów.> <2a. Organizatorzy turystyki oraz przedsiębiorcy ułatwiający nabywanie powiązanych usług turystycznych prowadzący wykaz umów poza systemem, o którym mowa w art. 7 ust. 1 pkt 3 lit. a, przekazują za pośrednictwem tego systemu wykaz umów w terminie do 14. dnia każdego miesiąca za poprzedni miesiąc kalendarzowy, według stanu aktualnego na dzień przekazania.
+- **9)** termin i wysokość zwrotu wpłat podróżnemu, jeśli zwrot został dokonany;
+- **10)** wskazanie, czy przed realizacją imprezy turystycznej lub powiązanej usługi turystycznej są przyjmowane przedpłaty. [2. Marszałek województwa i minister właściwy do spraw turystyki, w trybie kontroli, mają prawo dostępu do danych zawartych w wykazie umów.] <2. Marszałek województwa i minister właściwy do spraw turystyki, w trybie kontroli organizatora turystyki lub przedsiębiorcy ułatwiającego nabywanie powiązanych usług turystycznych, mają prawo dostępu do danych zawartych w wykazie umów.> <2a. Organizatorzy turystyki oraz przedsiębiorcy ułatwiający nabywanie powiązanych usług turystycznych prowadzący wykaz umów poza systemem, o którym mowa w art. 7 ust. 1 pkt 3 lit. a, przekazują za pośrednictwem tego systemu wykaz umów w terminie do 14. dnia każdego miesiąca za poprzedni miesiąc kalendarzowy, według stanu aktualnego na dzień przekazania.
 
 2b. Organizatorzy turystyki oraz przedsiębiorcy ułatwiający nabywanie powiązanych usług turystycznych niezwłocznie aktualizują dane, o których mowa w ust. 1, wprowadzone do systemu, o którym mowa w art. 7 ust. 1 pkt 3 lit. a, nie później niż w terminie 14 dni od dnia dokonania ich zmiany.
 
 2c. W przypadku niewykonania lub nienależytego wykonywania obowiązków, o których mowa w art. 7 ust. 1 pkt 3 oraz art. 9 ust. 2a i 2b, Ubezpieczeniowy Fundusz Gwarancyjny wzywa organizatora turystyki lub przedsiębiorcę ułatwiającego nabywanie powiązanych usług turystycznych za pośrednictwem systemu, o którym mowa w art. 7 ust. 1 pkt 3 lit. a, do wykonania tych obowiązków, w terminie nie dłuższym niż 14 dni od dnia wprowadzenia wezwania do tego systemu. Wezwanie jest wysyłane do wiadomości właściwego marszałka województwa.
 
-2d. W przypadku niedochowania terminu określonego w wezwaniu, o którym mowa w ust. 2c, Ubezpieczeniowy Fundusz Gwarancyjny występuje do właściwego marszałka województwa z wnioskiem o wydanie decyzji administracyjnej, o której mowa w art. 30 ust. 7 pkt 2.> [3. Na wniosek Ubezpieczeniowego Funduszu Gwarancyjnego, złożony w postaci elektronicznej, udostępnia się dane zawarte w wykazie umów. Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony do przetwarzania danych zawartych w wykazie umów, w zakresie niezbędnym do zapewnienia prawidłowego funkcjonowania Turystycznego Funduszu Gwarancyjnego oraz Turystycznego Funduszu Pomocowego, o którym mowa w art. 15kc ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2023 r. poz. 1327, 1429, 1723, 1860 i 2029).] <3. Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony do przetwarzania danych zawartych w wykazie umów, w zakresie niezbędnym do zapewnienia prawidłowego funkcjonowania Turystycznego Funduszu Gwarancyjnego oraz Turystycznego Funduszu Pomocowego, o którym mowa w art. 15kc ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.> <4. Ubezpieczeniowy Fundusz Gwarancyjny udostępnia dane, o których mowa w ust. 1 pkt 1–4 i 6–7a, zawarte w wykazie umów, marszałkowi województwa i ministrowi właściwemu do spraw turystyki w celu realizacji zadań przez te podmioty.
+2d. W przypadku niedochowania terminu określonego w wezwaniu, o którym mowa w ust. 2c, Ubezpieczeniowy Fundusz Gwarancyjny występuje do właściwego marszałka województwa z wnioskiem o wydanie decyzji administracyjnej, o której mowa w art. 30 ust. 7 pkt 2. Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony do przetwarzania danych zawartych w wykazie umów, w zakresie niezbędnym do zapewnienia prawidłowego funkcjonowania Turystycznego Funduszu Gwarancyjnego oraz Turystycznego Funduszu Pomocowego, o którym mowa w art. 15kc ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2023 r. poz. 1327, 1429, 1723, 1860 i 2029).] <3. Ubezpieczeniowy Fundusz Gwarancyjny jest uprawniony do przetwarzania danych zawartych w wykazie umów, w zakresie niezbędnym do zapewnienia prawidłowego funkcjonowania Turystycznego Funduszu Gwarancyjnego oraz Turystycznego Funduszu Pomocowego, o którym mowa w art. 15kc ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.> <4. Ubezpieczeniowy Fundusz Gwarancyjny udostępnia dane, o których mowa w ust. 1 pkt 1–4 i 6–7a, zawarte w wykazie umów, marszałkowi województwa i ministrowi właściwemu do spraw turystyki w celu realizacji zadań przez te podmioty.
 
-5. Ubezpieczeniowy Fundusz Gwarancyjny podaje do powszechnej wiadomości zbiorcze dane, o których mowa w ust. 1 pkt 1–4 i 6–7a, zawarte w wykazie umów, bez wskazywania danych identyfikujących przedsiębiorców turystycznych.>
+5. Ubezpieczeniowy Fundusz Gwarancyjny podaje do powszechnej wiadomości zbiorcze dane, o których mowa w ust. 1 pkt 1–4 i 6–7a, zawarte w wykazie umów, bez wskazywania danych identyfikujących przedsiębiorców turystycznych.
 
 **Art. 10.**
 
@@ -481,6 +509,15 @@ Art. 61–71. (pominięte)
 9a. Przepisu ust. 7 pkt 4 nie stosuje się w przypadku wystąpienia sytuacji, o której mowa w art. 24 ust. 4b.
 
 **Art. 31.** Rażącym naruszeniem warunków wykonywania działalności jest:
+
+- **1)** oferowanie lub sprzedaż imprez turystycznych lub powiązanych usług turystycznych bez uprzedniego zawarcia gwarancji lub umowy, o których mowa w art. 7 ust. 2 pkt 1 i 2, lub bez zawarcia umowy i złożenia oświadczenia, o którym mowa w art. 24 ust. 4;
+- **2)** uchylanie się, mimo wezwania, od obowiązku należytego i terminowego składania deklaracji lub opłacania należnych składek na Turystyczny Fundusz Gwarancyjny;
+- **3)** uchylanie się, mimo wezwania, od obowiązku należytego prowadzenia lub przekazywania i aktualizacji wykazu umów na zasadach określonych w art. 7 ust. 1 pkt 3 i art. 9 ust. 2a i 2b;
+- **4)** zawieranie przez przedsiębiorcę turystycznego kolejnych umów o udział w imprezie turystycznej lub ułatwianie nabywania powiązanych usług turystycznych lub przyjmowanie od podróżnych wpłat na poczet tych umów mimo złożenia oświadczenia o niewypłacalności lub w przypadku wystąpienia przez marszałka województwa o wypłatę środków z zabezpieczeń finansowych bez tego oświadczenia, zgodnie z art. 13 ust. 2;
+- **5)** zawieranie umów, o których mowa w art. 7 ust. 2 pkt 1 i 2, na kwoty zabezpieczenia finansowego niższe niż minimalne wysokości sum gwarancji bankowych lub ubezpieczeniowych lub minimalne sumy gwarancyjne umów ubezpieczeń na rzecz podróżnych;
+- **6)** nieprzedłożenie, mimo wezwania, marszałkowi województwa aktualnego dokumentu, o którym mowa w art. 7 ust. 2 pkt 1 lub 2;
+- **7)** wykonywanie działalności poza zakresem terytorialnym określonym we wpisie do rejestru;
+- **8)** przyjmowanie od podróżnych wpłat z pominięciem turystycznego rachunku powierniczego, mimo złożenia oświadczenia, o którym mowa w art. 24 ust. 4.
 
 **Art. 32.**
 
@@ -903,6 +940,8 @@ Art. 61–71. (pominięte)
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących
 
+**Art. 61–71.** (pominięte)
+
 #### Rozdział 10 Przepisy przejściowe i końcowe
 
 **Art. 72.**
@@ -946,7 +985,29 @@ Art. 61–71. (pominięte)
 
 4. Minister właściwy do spraw turystyki monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizm korygujący, o którym mowa w ust. 3.
 
-**Art. 76.** Ustawa wchodzi w życie z dniem 1 lipca 2018 r. Załączniki do ustawy z dnia 24 listopada 2017 r. (Dz. U. z 2023 r. poz.
+**Art. 76.** Ustawa wchodzi w życie z dniem 1 lipca 2018 r.
+
+## Załączniki do ustawy z dnia 24 listopada 2017 r.
+
+(Dz. U. z 2023 r. poz. 2211) Załącznik nr 1 Zaoferowane Państwu połączenie usług turystycznych stanowi imprezę turystyczną w rozumieniu dyrektywy (UE) 2015/2302.
+W związku z powyższym będą Państwu przysługiwały wszystkie prawa UE mające zastosowanie do imprez turystycznych. Przedsiębiorstwo XY/przedsiębiorstwa XY będzie/będą ponosiło(-ły) pełną odpowiedzialność za należytą realizację całości imprezy turystycznej.
+Ponadto, zgodnie z wymogami prawa, przedsiębiorstwo XY/przedsiębiorstwa XY posiada(-ją) zabezpieczenie w celu zapewnienia zwrotu Państwa wpłat i, jeżeli transport jest elementem imprezy turystycznej, zapewnienia Państwa powrotu do kraju w przypadku, gdyby przedsiębiorstwo XY/przedsiębiorstwa XY stało(-y) się niewypłacalne.
+Więcej informacji dotyczących najważniejszych praw zgodnie z dyrektywą (UE) 2015/2302 [do udostępnienia w postaci hiperłącza].
+Korzystając z hiperłącza, podróżny otrzyma następujące informacje: Najważniejsze prawa zgodnie z dyrektywą (UE) 2015/2302 – Przed zawarciem umowy o udział w imprezie turystycznej podróżni otrzymają wszystkie niezbędne informacje na temat imprezy turystycznej.
+– Zawsze co najmniej jeden przedsiębiorca ponosi odpowiedzialność za należyte wykonanie wszystkich usług turystycznych objętych umową.
+– Podróżni otrzymują awaryjny numer telefonu lub dane punktu kontaktowego, dzięki którym mogą skontaktować się z organizatorem turystyki lub agentem turystycznym.
+– Podróżni mogą przenieść imprezę turystyczną na inną osobę, powiadamiając o tym w rozsądnym terminie, z zastrzeżeniem ewentualnych dodatkowych kosztów.
+– Cena imprezy turystycznej może zostać podwyższona jedynie wtedy, gdy wzrosną określone koszty (na przykład koszty paliwa) i zostało to wyraźnie przewidziane w umowie; w żadnym przypadku podwyżka ceny nie może nastąpić później niż 20 dni przed rozpoczęciem imprezy turystycznej. Jeżeli podwyżka ceny przekracza 8% ceny imprezy turystycznej, podróżny może rozwiązać umowę. Jeśli organizator turystyki zastrzega sobie prawo do podwyższenia ceny, podróżny ma prawo do obniżki ceny, jeżeli obniżyły się odpowiednie koszty.
+– Podróżni mogą rozwiązać umowę bez ponoszenia jakiejkolwiek opłaty za rozwiązanie i uzyskać pełen zwrot wszelkich wpłat, jeżeli jeden z istotnych elementów imprezy turystycznej, inny niż cena, zmieni się w znaczący sposób.
+Jeżeli przedsiębiorca odpowiedzialny za imprezę turystyczną odwoła ją przed rozpoczęciem, podróżni mają prawo do zwrotu wpłat oraz, w stosownych przypadkach, do rekompensaty.
+– W wyjątkowych okolicznościach – na przykład jeżeli w docelowym miejscu podróży występują poważne problemy związane z bezpieczeństwem, które mogą wpłynąć na imprezę turystyczną – podróżni mogą, przed rozpoczęciem imprezy turystycznej, rozwiązać umowę bez ponoszenia jakiejkolwiek opłaty za rozwiązanie.
+– Ponadto podróżni mogą w każdym momencie przed rozpoczęciem imprezy turystycznej rozwiązać umowę za odpowiednią i możliwą do uzasadnienia opłatą.
+– Jeżeli po rozpoczęciu imprezy turystycznej jej znaczące elementy nie mogą zostać zrealizowane zgodnie z umową, będą musiały zostać zaproponowane podróżnemu, bez dodatkowych kosztów, odpowiednie alternatywne usługi.
+W przypadku gdy usługi nie są świadczone zgodnie z umową, co istotnie wpływa na realizację imprezy turystycznej, a organizator turystyki nie zdoła usunąć problemu, podróżni mogą rozwiązać umowę bez opłaty za rozwiązanie.
+– Podróżni są również uprawnieni do otrzymania obniżki ceny lub rekompensaty za szkodę w przypadku niewykonania lub nienależytego wykonania usług turystycznych.
+– Organizator turystyki musi zapewnić pomoc podróżnemu, który znajdzie się w trudnej sytuacji.
+– W przypadku gdy organizator turystyki stanie się niewypłacalny, wpłaty zostaną zwrócone. Jeżeli organizator turystyki stanie się niewypłacalny po rozpoczęciu imprezy turystycznej i jeżeli impreza turystyczna obejmuje transport, zapewniony jest powrót podróżnych do kraju. XY wykupił w YZ [podmiot zapewniający ochronę na wypadek niewypłacalności, np. fundusz gwarancyjny lub zakład ubezpieczeń] zabezpieczenie na wypadek niewypłacalności. Podróżni mogą kontaktować się z tym podmiotem lub, w odpowiednich przypadkach, z właściwym organem (dane kontaktowe, wraz z nazwą, adresem geograficznym, adresem poczty elektronicznej i numerem telefonu), jeżeli z powodu niewypłacalności XY dojdzie do odmowy świadczenia usług.
+Dyrektywa (UE) 2015/2302 [HIPERŁĄCZE] przetransponowana do prawa krajowego [HIPERŁĄCZE].
 
 ## Załącznik nr 2 — Zaoferowane Państwu połączenie usług turystycznych stanowi imprezę turystyczną w rozumieniu dyrektywy (UE) 2015/2302.
 

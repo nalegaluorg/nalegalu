@@ -1,30 +1,29 @@
 {
-  "generated_at": "2026-07-06T22:53:09Z",
+  "generated_at": "2026-07-07T18:53:24Z",
   "acts": {
-    "published": 18985,
-    "rejected": 417,
+    "published": 18696,
+    "rejected": 704,
     "total_in_db": 20168
   },
   "content": {
-    "total_body_chars": 578971226,
-    "total_articles": 209690,
-    "avg_body_chars": 30496,
-    "avg_articles": 11.0
+    "total_body_chars": 570535124,
+    "total_articles": 202769,
+    "avg_body_chars": 30516,
+    "avg_articles": 10.8
   },
   "sources": {
-    "pdf": 18741,
-    "eli-html": 242,
-    "unknown": 2
+    "pdf": 18488,
+    "eli-html": 208
   },
   "act_types": {
-    "Rozporządzenie": 9859,
-    "Ustawa": 4850,
-    "Obwieszczenie": 2511,
-    "Orzeczenie": 1373,
+    "Rozporządzenie": 9848,
+    "Ustawa": 4785,
+    "Obwieszczenie": 2462,
+    "Orzeczenie": 1210,
     "Umowa międzynarodowa": 329,
     "Protokół": 18,
     "Dekret": 10,
-    "Konwencja": 9,
+    "Konwencja": 8,
     "Porozumienie": 8,
     "Postanowienie": 6,
     "Uchwała": 5,
@@ -34,24 +33,24 @@
     "Oświadczenie": 1
   },
   "statuses": {
-    "obowiązujący": 11998,
-    "akt objęty tekstem jednolitym": 5090,
-    "akt posiada tekst jednolity": 1887,
+    "obowiązujący": 11721,
+    "akt objęty tekstem jednolitym": 5081,
+    "akt posiada tekst jednolity": 1884,
     "akt jednorazowy": 10
   },
   "domains": {
-    "inne": 18107,
-    "prawo-podatkowe": 190,
+    "inne": 17826,
+    "prawo-podatkowe": 188,
     "prawo-karne": 159,
-    "prawo-cywilne": 141,
-    "prawo-administracyjne": 67,
-    "prawo-pracy": 66,
+    "prawo-cywilne": 140,
+    "prawo-administracyjne": 66,
     "prawo-ochrony-srodowiska": 65,
-    "prawo-budowlane": 43,
+    "prawo-pracy": 64,
+    "prawo-budowlane": 42,
     "prawo-energetyczne": 35,
     "prawo-bankowe": 28,
     "prawo-handlowe": 25,
-    "prawo-zamowien": 19,
+    "prawo-zamowien": 18,
     "prawo-upadlosciowe": 17,
     "prawo-ochrony-danych": 8,
     "prawo-morskie": 7,
@@ -59,12 +58,12 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 683,
+    "quality_gate_blocked": 659,
     "original_pdf_for_unified_skipped": 1084,
-    "consolidated_article_coverage_checked": 708,
-    "consolidated_article_coverage_with_gaps": 477,
-    "consolidated_article_coverage_unexplained_gaps": 10889,
-    "rejected_scans": 1,
-    "rejected_other": 416
+    "consolidated_article_coverage_checked": 723,
+    "consolidated_article_coverage_with_gaps": 491,
+    "consolidated_article_coverage_unexplained_gaps": 11112,
+    "rejected_scans": 6,
+    "rejected_other": 698
   }
 }
