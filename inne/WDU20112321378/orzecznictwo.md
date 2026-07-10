@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 16 września 2011 r. o redukcji niektórych obowiązków obywateli i przedsiębiorców*
 
-Łącznie: **299** orzeczeń
+Łącznie: **300** orzeczeń
 (pominięto 86 orzeczeń sądów rejonowych)
 
 ## art. 2 (4)
@@ -307,7 +307,7 @@ Orzeczenia powołujące: *Ustawa z dnia 16 września 2011 r. o redukcji niektór
 - 2018-05-30 | SO | [III AUa 344/18](https://www.saos.org.pl/judgments/352753) | Wyrok
 - 2014-06-11 | SO | [VII U 807/13](https://www.saos.org.pl/judgments/213044) | Wyrok
 
-## (ogólnie) (90)
+## (ogólnie) (91)
 
 - 2023-07-31 | SO | [III AUa 364/23](https://www.saos.org.pl/judgments/504939) | Wyrok
 - 2021-10-13 | SO | [III AUa 939/19](https://www.saos.org.pl/judgments/458005) | Wyrok
@@ -343,6 +343,7 @@ Orzeczenia powołujące: *Ustawa z dnia 16 września 2011 r. o redukcji niektór
 - 2012-06-11 | SO | [III AUa 960/11](https://www.saos.org.pl/judgments/1163) | Wyrok
 - 2012-05-31 | SO | [III AUa 1539/11](https://www.saos.org.pl/judgments/537172) | Wyrok
 - 2013-09-03 | SO | [III AUa 60/13](https://www.saos.org.pl/judgments/36553) | Postanowienie
+- 2026-05-08 | SO | [VII U 506/26](https://www.saos.org.pl/judgments/547757) | Wyrok
 - 2024-07-31 | SO | [VII U 625/18](https://www.saos.org.pl/judgments/512180) | Wyrok
 - 2023-11-15 | SO | [VII U 1589/21](https://www.saos.org.pl/judgments/512004) | Wyrok
 - 2023-07-26 | SO | [VII U 1320/22](https://www.saos.org.pl/judgments/511957) | Wyrok

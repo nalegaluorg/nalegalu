@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-06-19 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001150) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1150/text.pdf) |
 
 w sprawie nagród ministra właściwego do spraw zdrowia dla nauczycieli akademickich Na podstawie art. 458 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.

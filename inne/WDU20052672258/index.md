@@ -43,9 +43,7 @@ source: pdf
 **Art. 6.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2004 r. Nr 253, poz. 2531 oraz z 2005 r. Nr 17, poz. 141 i Nr 85, poz. 728) wprowadza się następujące zmiany: [1) w art. 6 w ust. 2 po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) inicjowanie i podejmowanie działań w zakresie ochrony zasad etyki dziennikarskiej;”;] Pkt 1 niezgodny z Konstytucją - wyrok TK (Dz.U. z 2006 r. Nr 51, poz. 377).
 
 - **2)** w art. 7:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. W skład Krajowej Rady wchodzi pięciu członków powoływanych: 2 przez Sejm, 1 przez Senat i 2 przez Prezydenta, spośród osób wyróżniających się wiedzą i doświadczeniem w zakresie środków społecznego przekazu.”, [b) ust. 2 otrzymuje brzmienie: „2. Przewodniczącego Krajowej Rady powołuje i odwołuje Prezydent spośród członków Krajowej Rady.”,] Pkt 2 lit. b niezgodny z Konstytucją - wyrok TK (Dz.U. z 2006 r. Nr 51, poz.
-
-- **377)** .
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W skład Krajowej Rady wchodzi pięciu członków powoływanych: 2 przez Sejm, 1 przez Senat i 2 przez Prezydenta, spośród osób wyróżniających się wiedzą i doświadczeniem w zakresie środków społecznego przekazu.”, [b) ust. 2 otrzymuje brzmienie: „2. Przewodniczącego Krajowej Rady powołuje i odwołuje Prezydent spośród członków Krajowej Rady.”,] Pkt 2 lit. b niezgodny z Konstytucją - wyrok TK (Dz.U. z 2006 r. Nr 51, poz. 377).
     - **c)** uchyla się ust. 2a,
     - **d)** ust. 4 otrzymuje brzmienie: „4. Kadencja członków Krajowej Rady trwa 6 lat, licząc od dnia powołania ostatniego członka. Członkowie Krajowej Rady pełnią swe funkcje do czasu powołania następców.”;
 

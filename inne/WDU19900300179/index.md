@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1990-04-06 |
 | Data wydania | 1990-05-10 |
-| Ostatnia zmiana | 2026-06-11 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900300179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/179/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -945,7 +945,7 @@ source: pdf
 
 **Art. 16.**
 
-1. W przypadkach, o których mowa w art. 11 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2024 r. poz. 383 i 1248 oraz z 2025 r. poz. 179), policjanci mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–13 i 17–21 tej ustawy, lub wykorzystać te środki.
+1. W przypadkach, o których mowa w art. 11 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2026 r. poz. 244, 737 i 815), policjanci mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–13 i 17–23 tej ustawy, lub wykorzystać te środki.
 
 2. W przypadkach, o których mowa w art. 45 pkt 1–3 i pkt 4 lit. a i b oraz w art. 47 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, policjanci mogą użyć broni palnej lub ją wykorzystać.
 
@@ -1006,7 +1006,15 @@ source: pdf
 
 **Art. 18c.**
 
-1. W przypadkach, o których mowa w art. 18 ust. 1 niniejszej ustawy lub w art. 22 ust. 1 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych, Komendant Główny Policji, Komendant CBŚP, Komendant CBZC lub komendant wojewódzki Policji może zarządzić zastosowanie przez Policję urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wyeliminowania zagrożenia lub jego skutków, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
+1. Komendant Główny Policji, Komendant CBŚP, Komendant CBZC lub komendant wojewódzki Policji:
+
+- **1)** w celu realizacji zadań, o których mowa w art. 1 ust. 2 pkt 1, 2, 3a i 4a, lub
+- **2)** w przypadkach, o których mowa w: z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176 i 607), lub
+    - **a)** art. 156ze ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U.
+    - **b)** art. 28a ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2024 r. poz. 597 oraz z 2026 r. poz. 815), lub
+    - **c)** art. 11 pkt 17 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, lub
+
+- **3)** po wprowadzeniu trzeciego lub czwartego stopnia alarmowego, o których mowa odpowiednio w art. 15 ust. 5 lub 6 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych – może podjąć decyzję o dopuszczalności zastosowania przez Policję urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wyeliminowania zagrożenia lub jego skutków, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
 
 2. O zastosowaniu urządzeń, o których mowa w ust. 1, Komendant Główny Policji, Komendant CBŚP, Komendant CBZC lub komendant wojewódzki Policji niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.
 
@@ -1203,7 +1211,7 @@ source: pdf
 
 1n. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory dokumentów obowiązujących przy przetwarzaniu danych, uwzględniając potrzebę ochrony danych przed nieuprawnionym dostępem i przesłanki zaniechania zbierania określonych rodzajów informacji, a w przypadku wymiany informacji – uwzględniając konieczność dostosowania się do wymogów określonych przez organy innych państw, zobowiązania międzynarodowe Rzeczypospolitej Polskiej lub przez Międzynarodową Organizację Policji Kryminalnej – Interpol.
 
-1o. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory kart daktyloskopijnych, na których dane daktyloskopijne są pobierane przez upoważnione podmioty i przekazywane Komendantowi Głównemu Policji w celu przetwarzania w zbiorach danych daktyloskopijnych, oraz tryb i sposób ich przekazywania Komendantowi Głównemu Policji przez obowiązane do tego służby, instytucje państwowe oraz organy władzy publicznej – uwzględniając charakter realizowanych zadań i celów przeznaczenia danej karty daktyloskopijnej.
+1o. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory kart daktyloskopijnych, na których dane daktyloskopijne są pobierane przez upoważnione podmioty i przekazywane Komendantowi Głównemu Policji w celu przetwarzania w zbiorach danych biometrycznych, oraz tryb i sposób ich przekazywania Komendantowi Głównemu Policji przez obowiązane do tego służby, instytucje państwowe oraz organy władzy publicznej – uwzględniając charakter realizowanych zadań i celów przeznaczenia danej karty daktyloskopijnej.
 
 2. (uchylony) 2a. (uchylony) 2aa. W celu realizacji zadań ustawowych Policja jest uprawniona do wymiany informacji, w tym danych osobowych, z organami ścigania państw członkowskich Unii Europejskiej i innych państw, agencjami Unii Europejskiej zajmującymi się zapobieganiem i zwalczaniem przestępczości, Międzynarodową Organizacją Policji Kryminalnej – Interpol oraz innymi organizacjami międzynarodowymi na zasadach i warunkach określonych w przepisach odrębnych, prawie Unii Europejskiej oraz umowach międzynarodowych. 2ab. Policja jest uprawniona do przetwarzania i wymiany informacji, w tym danych osobowych osób ubiegających się o przyjęcie do pracy w agencjach Unii Europejskiej zajmujących się zapobieganiem lub zwalczaniem czynów zabronionych, międzynarodowych organach sądowniczych, międzynarodowych organach ścigania oraz w Międzynarodowej Organizacji Policji Kryminalnej – Interpol, za zgodą tych osób. Policja, przekazując wyniki przetwarzania, zastrzega, że nie udostępnia się ich osobie, której dane osobowe dotyczą. 2ac. (uchylony) 2ad. Policja może pobierać, uzyskiwać, gromadzić, przetwarzać i wykorzystywać informacje w celu realizacji zadań ustawowych, w tym dane osobowe, o następujących osobach, także bez ich wiedzy i zgody:
 
@@ -1617,12 +1625,12 @@ source: pdf
 
 **Art. 21h.**
 
-1. Komendant Główny Policji prowadzi następujące zbiory danych daktyloskopijnych, których jest administratorem w rozumieniu przepisów o ochronie danych osobowych:
+1. Komendant Główny Policji prowadzi następujące zbiory danych biometrycznych, których jest administratorem w rozumieniu przepisów o ochronie danych osobowych:
 
-- **1)** Centralną Registraturę Daktyloskopijną, w której są gromadzone karty daktyloskopijne i chejroskopijne zawierające odciski linii papilarnych osób,
-- **2)** zbiór automatycznie przetwarzający dane daktyloskopijne, w którym są przetwarzane informacje, w tym dane osobowe, o odciskach linii papilarnych osób, niezidentyfikowanych śladach linii papilarnych z miejsc przestępstw oraz śladach linii papilarnych, które mogą pochodzić od osób zaginionych – zwane dalej „zbiorami danych daktyloskopijnych”.
+- **1)** Centralną Registraturę Daktyloskopijną, w której gromadzi się karty daktyloskopijne palców i dłoni, zawierające odciski linii papilarnych osób,
+- **2)** zbiór automatycznie przetwarzający dane biometryczne, w którym przetwarza się informacje, w tym dane osobowe, w postaci odcisków linii papilarnych osób, wizerunku twarzy lub wizerunku osoby, niezidentyfikowane ślady linii papilarnych z miejsc przestępstw oraz ślady linii papilarnych, które mogą pochodzić od osób zaginionych – zwane dalej „zbiorami danych biometrycznych”.
 
-2. W zbiorach danych daktyloskopijnych są przetwarzane:
+2. W zbiorach danych biometrycznych są przetwarzane:
 
 - **1)** informacje, w tym dane osobowe, dotyczące: 73a ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688),
     - **a)** osób podejrzanych lub podejrzanych o popełnienie przestępstw ściganych z oskarżenia publicznego,
@@ -1638,24 +1646,28 @@ source: pdf
     - **k)** osób, o których mowa w lit. a, b i e, również w przypadku przestępstw ściganych z oskarżenia prywatnego, będących obywatelami państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia 2019/816;
 
 - **2)** informacje, w tym dane osobowe, przetwarzane w zbiorze danych, o którym mowa w ust. 1 pkt 1, obejmują:
-    - **a)** imiona, nazwiska lub pseudonimy,
+    - **a)** imiona, nazwiska, w tym wcześniej stosowane imiona i nazwiska, lub pseudonimy,
     - **b)** imiona i nazwiska rodowe rodziców tych osób,
     - **c)** datę i miejsce urodzenia,
-    - **d)** oznaczenie i cechy identyfikacyjne dokumentu tożsamości,
+    - **d)** rodzaj i numer dokumentu tożsamości lub dokumentu podróży, trzyliterowy kod państwa wydającego oraz datę ważności tego dokumentu,
     - **e)** adres zamieszkania,
     - **f)** numer PESEL,
     - **g)** obywatelstwo i płeć,
     - **h)** oznaczenie i numer sprawy,
     - **i)** miejsce i powód daktyloskopowania,
-    - **j)** odciski linii papilarnych palców i dłoni;
+    - **j)** odciski linii papilarnych palców i dłoni,
+    - **k)** wizerunek twarzy lub wizerunek osoby,
+    - **l)** w przypadku osób, o których mowa w pkt 1 lit. g – zeskanowaną kolorową kopię dokumentu tożsamości lub dokumentu podróży, a w przypadku gdy nie jest on dostępny – innego dokumentu ułatwiającego identyfikację, wraz z adnotacją o ich autentyczności;
 
 - **3)** informacje, w tym dane osobowe, przetwarzane w zbiorze danych, o którym mowa w ust. 1 pkt 2, obejmujące:
     - **a)** obrazy odcisków linii papilarnych,
-    - **b)** rok urodzenia,
+    - **b)** datę albo rok urodzenia,
     - **c)** płeć,
     - **d)** rodzaj rejestracji,
     - **e)** datę wprowadzenia,
-    - **f)** jednostkę organizacyjną wprowadzającą;
+    - **f)** jednostkę organizacyjną wprowadzającą,
+    - **g)** wizerunek twarzy lub wizerunek osoby,
+    - **h)** obywatelstwo;
 
 - **4)** informacje, w tym dane osobowe, dotyczące niezidentyfikowanych śladów linii papilarnych z miejsc przestępstw obejmujące:
     - **a)** obrazy śladów linii papilarnych,
@@ -1671,15 +1683,15 @@ source: pdf
     - **d)** jednostkę organizacyjną wprowadzającą,
     - **e)** oznaczenie i numer sprawy.
 
-3. W zbiorach danych daktyloskopijnych przetwarza się, z wyłączeniem przechowywania, informacje, w tym dane osobowe, dotyczące osób o nieustalonej tożsamości lub usiłujących ukryć swoją tożsamość oraz zwłok ludzkich o nieustalonej tożsamości, obejmujące:
+3. W zbiorach danych biometrycznych przetwarza się, z wyłączeniem przechowywania, informacje, w tym dane osobowe, dotyczące osób o nieustalonej tożsamości lub usiłujących ukryć swoją tożsamość oraz zwłok ludzkich o nieustalonej tożsamości, obejmujące:
 
 - **1)** obrazy odcisków linii papilarnych;
 - **2)** płeć;
 - **3)** oznaczenie i numer sprawy.
 
-**Art. 21i.** Informacje, w tym dane osobowe, wprowadza się do zbiorów danych daktyloskopijnych na podstawie wniosku organu prowadzącego postępowanie lub poszukiwanie osoby zaginionej.
+**Art. 21i.** Informacje, w tym dane osobowe, wprowadza się do zbiorów danych biometrycznych na podstawie wniosku organu prowadzącego postępowanie lub poszukiwanie osoby zaginionej.
 
-**Art. 21j.** Informacje, w tym dane osobowe, przetwarzane w zbiorach danych daktyloskopijnych oraz uzyskane w wyniku ich przetwarzania są udzielane bezpłatnie organom prowadzącym:
+**Art. 21j.** Informacje, w tym dane osobowe, przetwarzane w zbiorach danych biometrycznych oraz uzyskane w wyniku ich przetwarzania są udzielane bezpłatnie organom prowadzącym:
 
 - **1)** postępowanie karne;
 - **2)** postępowanie w sprawach nieletnich;
@@ -1688,17 +1700,19 @@ source: pdf
 
 **Art. 21k.**
 
-1. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. a–h oraz k, są przechowywane w zbiorach danych daktyloskopijnych w celu prowadzenia czynności identyfikacyjnych.
+1. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. a–h oraz k, są przechowywane w zbiorach danych biometrycznych w celu prowadzenia czynności identyfikacyjnych.
 
-2. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. a–f oraz k, są przechowywane w zbiorach danych daktyloskopijnych i wykorzystywane w celu prowadzenia czynności wykrywczych.
+2. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. a–g oraz k, są przechowywane w zbiorach danych biometrycznych i wykorzystywane w celu prowadzenia czynności wykrywczych, z zastrzeżeniem ust. 4.
 
-3. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. j, są przetwarzane w zbiorach danych daktyloskopijnych w celu wyeliminowania, spośród wszystkich zebranych w toku prowadzonego postępowania, śladów pozostawionych przez osoby, o których mowa w art. 20 ust. 1l.
+3. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. j, są przetwarzane w zbiorach danych biometrycznych w celu wyeliminowania, spośród wszystkich zebranych w toku prowadzonego postępowania, śladów pozostawionych przez osoby, o których mowa w art. 20 ust. 1l.
+
+4. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. g, mogą być wykorzystywane w celu prowadzenia czynności wykrywczych wyłącznie w odniesieniu do przestępstw o charakterze terrorystycznym lub przestępstw, o których mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego.
 
 **Art. 21l.**
 
-1. W weryfikacji, o której mowa w art. 16 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości, uczestniczą jednostki organizacyjne Policji, służby, instytucje państwowe lub organy władzy publicznej, które przekazały informacje, w tym dane osobowe, do zbiorów danych daktyloskopijnych.
+1. W weryfikacji, o której mowa w art. 16 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości, uczestniczą jednostki organizacyjne Policji, służby, instytucje państwowe lub organy władzy publicznej, które przekazały informacje, w tym dane osobowe, do zbiorów danych biometrycznych.
 
-2. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. a–c, e, f oraz k, usuwa się ze zbiorów danych daktyloskopijnych, w przypadku gdy:
+2. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. a–c, e, f oraz k, usuwa się ze zbiorów danych biometrycznych, w przypadku gdy:
 
 - **1)** zostało umorzone postępowanie z uwagi na to, że:
     - **a)** czynu stanowiącego podstawę wprowadzenia danych osobowych do zbioru danych nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia,
@@ -1711,21 +1725,22 @@ source: pdf
 
 - **3)** utracą swoją przydatność eliminacyjną, jednakże nie dłużej niż po upływie 5 lat od dnia ustania stosunku służbowego lub pracy – w przypadku osób, o których mowa w art. 20 ust. 1l.
 
-3. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. g, usuwa się ze zbiorów danych daktyloskopijnych, jeżeli osoba, której dane dotyczą:
+3. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. g, usuwa się ze zbiorów danych biometrycznych, jeżeli osoba, której dane dotyczą:
 
 - **1)** uzyskała obywatelstwo polskie;
 - **2)** ukończyła 100. rok życia;
-- **3)** zmarła.
+- **3)** zmarła;
+- **4)** uzyskała obywatelstwo jednego z państw członkowskich Unii Europejskiej.
 
-4. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1, usuwa się ze zbiorów danych daktyloskopijnych po uzyskaniu wiarygodnej informacji.
+4. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1, usuwa się ze zbiorów danych biometrycznych po uzyskaniu wiarygodnej informacji.
 
 **Art. 21m.**
 
-1. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. i, usuwa się ze zbiorów danych daktyloskopijnych po upływie okresu przedawnienia karalności przestępstwa, na wniosek organu prowadzącego postępowanie karne.
+1. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. i, usuwa się ze zbiorów danych biometrycznych po upływie okresu przedawnienia karalności przestępstwa, na wniosek organu prowadzącego postępowanie karne.
 
-2. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. h, usuwa się ze zbiorów danych daktyloskopijnych, w przypadku odnalezienia lub ustalenia miejsca pobytu osoby zaginionej lub po upływie 55 lat od dnia rozpoczęcia ich przetwarzania w zbiorach danych daktyloskopijnych. Informacje te, w tym dane osobowe, usuwa się na wniosek jednostki organizacyjnej, służby, instytucji państwowej lub organu władzy publicznej prowadzącej poszukiwanie.
+2. Informacje, w tym dane osobowe, o których mowa w art. 21h ust. 2 pkt 1 lit. h, usuwa się ze zbiorów danych biometrycznych, w przypadku odnalezienia lub ustalenia miejsca pobytu osoby zaginionej lub po upływie 55 lat od dnia rozpoczęcia ich przetwarzania w zbiorach danych biometrycznych. Informacje te, w tym dane osobowe, usuwa się na wniosek jednostki organizacyjnej, służby, instytucji państwowej lub organu władzy publicznej prowadzącej poszukiwanie.
 
-**Art. 21n.** Usunięcia informacji, w tym danych osobowych, ze zbioru danych daktyloskopijnych, w tym zniszczenia kart daktyloskopijnych i chejroskopijnych, dokonuje komisja powołana przez Komendanta Głównego Policji, sporządzając z tych czynności protokół.
+**Art. 21n.** Usunięcia informacji, w tym danych osobowych, ze zbioru danych biometrycznych, w tym zniszczenia kart daktyloskopijnych i chejroskopijnych, dokonuje komisja powołana przez Komendanta Głównego Policji, sporządzając z tych czynności protokół.
 
 **Art. 21na.** Zadania, o których mowa w art. 21a–21e oraz art. 21h–21n, Komendant Główny Policji realizuje przy pomocy CLKP.
 
@@ -1736,7 +1751,7 @@ source: pdf
 1a. W KSIP Policja może przetwarzać dane biometryczne w postaci:
 
 - **1)** wizerunków osób w celu realizacji zadań, o których mowa w art. 1 ust. 2, w zakresie celów identyfikacyjnych lub weryfikacji tożsamości osób, której dotyczą realizowane zadania lub wykonywane czynności, o których mowa w art. 14 ust. 1 i 2, oraz jeżeli zadania Policji dotyczą celów określonych w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości, także w zakresie realizacji celów wykrywczych lub dowodowych;
-- **2)** danych daktyloskopijnych w zakresie niezbędnym do powiązania informacji, w tym danych osobowych dotyczących osób lub śladów, o których mowa w art. 21h ust. 2 pkt 1, z danymi przetwarzanymi w zbiorach danych daktyloskopijnych, o których mowa w art. 21h w zakresie danych określonych w art. 21h ust. 2 pkt 2–5.
+- **2)** danych daktyloskopijnych w zakresie niezbędnym do powiązania informacji, w tym danych osobowych dotyczących osób lub śladów, o których mowa w art. 21h ust. 2 pkt 1, z danymi przetwarzanymi w zbiorach danych biometrycznych, o których mowa w art. 21h w zakresie danych określonych w art. 21h ust. 2 pkt 2–5.
 
 1b. Dane osobowe zgromadzone w KSIP w celu realizacji zadań ustawowych, o których mowa w art. 1 ust. 1 i ust. 2 pkt 1–4, Policja przechowuje przez okres niezbędny do realizacji ustawowych zadań Policji. Organy Policji dokonują weryfikacji tych danych po zakończeniu sprawy, w ramach której dane te zostały wprowadzone do zbioru, a ponadto nie rzadziej niż co 10 lat od dnia uzyskania lub pobrania informacji usuwają zbędne dane.
 
@@ -2311,7 +2326,9 @@ source: pdf
     - **c)** aspiranckiego – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 3,
     - **d)** oficerskiego – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 4 – i zdanie egzaminu końcowego;
 
-- **2)** studiów w Akademii Policji w Szczytnie – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 4, i zdanie egzaminu końcowego z zakresu szkolenia, o którym mowa w pkt 1 lit. d.
+- **2)** studiów w Akademii Policji w Szczytnie – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 4, i zdanie egzaminu końcowego z zakresu szkolenia, o którym mowa w pkt 1 lit. d;
+- **3)** studiów na kierunku lekarskim, na podstawie skierowania, o którym mowa w art. 34a, i uzyskanie dyplomu ich ukończenia – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 4;
+- **4)** studiów na kierunku medycznym przygotowującym do wykonywania zawodu pielęgniarki, ratownika medycznego lub fizjoterapeuty, na podstawie skierowania, o którym mowa w art. 34a, i uzyskanie uprawnień do wykonywania tego zawodu – w przypadku kwalifikacji, o których mowa w ust. 2 pkt 3.
 
 9. Za równoznaczne ze spełnieniem warunków określonych w ust. 8 pkt 1:
 
@@ -2351,23 +2368,27 @@ source: pdf
 
 1. Policjanta można skierować na przeszkolenie, do szkoły, na studia wyższe lub podyplomowe w kraju albo za granicą lub na aplikację w zawodach prawniczych, które są realizowane poza jednostkami szkoleniowymi Policji.
 
-2. Z policjantem w służbie stałej, którego zamierza się skierować na koszt Policji na przeszkolenie, do szkoły, na studia wyższe lub podyplomowe w kraju albo za granicą lub na aplikację w zawodach prawniczych, które są realizowane poza jednostkami szkoleniowymi Policji, zawiera się umowę, jeżeli koszt ten w dniu skierowania przekracza kwotę sześciokrotności wysokości minimalnego wynagrodzenia za pracę ustalanego w danym roku na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
+2. W przypadku skierowania na koszt Policji, o którym mowa w ust. 1, z policjantem zawiera się umowę, jeżeli koszt nauki i utrzymania w dniu skierowania przekracza kwotę trzykrotnej wysokości minimalnego wynagrodzenia za pracę ustalanego w danym roku na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
 
-3. Policjant, który został zwolniony ze służby przed upływem 5 lat od dnia ukończenia nauki lub szkoleń wymienionych w ust. 2, których koszty zostały pokryte z budżetu Policji, jest obowiązany do zwrotu tych kosztów.
+3. Policjant jest obowiązany do zwrotu kosztów nauki i utrzymania, które zostały pokryte z budżetu Policji, w przypadku zwolnienia go ze służby przed upływem:
+
+- **1)** 3 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę trzykrotnej wysokości minimalnego wynagrodzenia za pracę, albo
+- **2)** 5 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę pięciokrotnej wysokości minimalnego wynagrodzenia za pracę, albo
+- **3)** 10 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę dziesięciokrotnej wysokości minimalnego wynagrodzenia za pracę – chyba że zwolnienie ze służby nastąpiło z przyczyn określonych w art. 41 ust. 1 pkt 1 oraz ust. 2 pkt 6 i 7.
 
 4. Umowa, o której mowa w ust. 2, określa wzajemne prawa i obowiązki stron związane ze skierowaniem, w szczególności warunki zwrotu kosztów poniesionych na naukę i utrzymanie policjanta, w przypadku:
 
 - **1)** nieukończenia przez niego przeszkolenia, szkoły, studiów wyższych lub podyplomowych w kraju albo za granicą lub aplikacji w zawodach prawniczych w wyniku uzyskania negatywnej oceny końcowej albo przerwania nauki z winy policjanta;
-- **2)** zwolnienia ze służby w okresie, o którym mowa w ust. 3, z przyczyn określonych w art. 41 ust. 1 pkt 3–5, ust. 2 pkt 1, 2, 5, 7–9 oraz ust. 3.
+- **2)** zwolnienia ze służby w okresie, o którym mowa w ust. 3, z przyczyn określonych w art. 41 ust. 1 pkt 2–5, ust. 2 pkt 1, 2, 5, 7a–9 oraz ust. 3.
 
 5. Zwrot poniesionych kosztów następuje w wysokości:
 
-- **1)** kosztów poniesionych przez Policję – w przypadkach, o których mowa w ust. 4 pkt 1 oraz art. 41 ust. 1 pkt 3–5 i ust. 2 pkt 2 i 8;
+- **1)** kosztów poniesionych przez Policję – w przypadkach, o których mowa w ust. 4 pkt 1 oraz art. 41 ust. 1 pkt 2–5 i ust. 2 pkt 2 i 8;
 - **2)** proporcjonalnej do pozostałego, wynikającego z umowy, okresu służby pełnionej po zakończeniu nauki – w pozostałych przypadkach.
 
-6. Zwrot kosztów, o którym mowa w ust. 3, nie obejmuje uposażenia policjanta.
+6. Zwrot kosztów, o którym mowa w ust. 3 i 5, nie obejmuje uposażenia policjanta.
 
-7. Komendant Główny Policji może zwolnić policjanta z obowiązku zwrotu kosztów, o których mowa w ust. 3, w całości albo w części na pisemny wniosek policjanta uzasadniony jego szczególną sytuacją życiową, rodzinną lub materialną.
+7. Komendant Główny Policji może zwolnić policjanta z obowiązku zwrotu kosztów, o których mowa w ust. 3 i 5, w całości albo w części na pisemny wniosek policjanta uzasadniony jego szczególną sytuacją życiową, rodzinną lub materialną.
 
 **Art. 34b.** Na szkolenie, o którym mowa w art. 34 ust. 8 pkt 1, policjanta kieruje przełożony za pośrednictwem komórki organizacyjnej Policji właściwej w sprawach szkolenia Komendy Głównej Policji, CBŚP, BSWP, CBZC, CLKP, komendy wojewódzkiej Policji, Komendy Stołecznej Policji, Akademii Policji w Szczytnie albo szkoły policyjnej.
 
@@ -5401,8 +5422,8 @@ source: pdf
 - **3)** krajowego punktu kontaktowego do spraw współpracy przy wymianie danych rejestracyjnych pojazdów, o którym mowa w art. 12 ust. 2 decyzji Rady 2008/615/WSiSW;
 - **4)** krajowego punktu kontaktowego do spraw wymiany danych osobowych i nieosobowych, o którym mowa w art. 15 decyzji Rady 2008/615/WSiSW;
 - **5)** punktu kontaktowego, o którym mowa w art. 17 ust. 1 decyzji Rady 2008/616/WSiSW w sprawie wdrożenia decyzji 2008/615/WSiSW w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 z 06.08.2008, str. 12);
-- **6)** krajowego punktu kontaktowego, o którym mowa w art. 9 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 98/2013 z dnia 15 stycznia 2013 r. w sprawie wprowadzania do obrotu i używania prekursorów materiałów wybuchowych (Dz. Urz. UE L 39 z 09.02.2013, str. 1), zwanego dalej „rozporządzeniem (UE) nr 98/2013”;
-- **7)** krajowego punktu dostępu do systemu Eurodac, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 603/2013 z dnia 26 czerwca 2013 r. w sprawie ustanowienia systemu Eurodac do porównywania odcisków palców w celu skutecznego stosowania rozporządzenia (UE) nr 604/2013 w sprawie ustanowienia kryteriów i mechanizmów ustalania państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej złożonego w jednym z państw członkowskich przez obywatela państwa trzeciego lub bezpaństwowca oraz w sprawie występowania o porównanie z danymi Eurodac przez organy ścigania państw członkowskich i Europol na potrzeby ochrony porządku publicznego, oraz zmieniającym rozporządzenie (UE) nr 1077/2011 ustanawiające Europejską Agencję ds. Zarządzania Operacyjnego Wielkoskalowymi Systemami Informatycznymi w Przestrzeni Wolności, Bezpieczeństwa i Sprawiedliwości (wersja przekształcona) (Dz. Urz. UE L 180 z 29.06.2013, str. 1), zwanym dalej „rozporządzeniem (UE) 603/2013”.
+- **6)** krajowego punktu kontaktowego, o którym mowa w art. 9 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 98/2013 z dnia 15 stycznia 2013 r. w sprawie wprowadzania do obrotu i używania prekursorów materiałów wybuchowych (Dz. Urz. UE L 39 z 09.02.2013, str. 1), zwanego dalej „rozporządzeniem (UE) nr 98/2013”.
+- **7)** (uchylony)
 
 2. Do zadań krajowego punktu kontaktowego, o którym mowa w ust. 1 pkt 1, należy:
 
@@ -5438,14 +5459,9 @@ source: pdf
 - **5)** upowszechnianie wytycznych, o których mowa w art. 9 ust. 5 rozporządzenia (UE) nr 98/2013, w ramach współpracy między właściwymi organami i podmiotami gospodarczymi;
 - **6)** wymiana informacji z właściwymi krajowymi punktami kontaktowymi innych państw członkowskich Unii Europejskiej, w szczególności za pomocą urządzeń teletransmisji danych, w celu zapobiegania przestępstwom o charakterze terrorystycznym.
 
-5b. Do zadań krajowego punktu dostępu do systemu Eurodac, o którym mowa w ust. 1 pkt 7, należy:
+5b. (uchylony)
 
-- **1)** przesyłanie do systemu Eurodac danych daktyloskopijnych wraz z właściwymi numerami referencyjnymi zgodnie z art. 24 ust. 1 rozporządzenia (UE) 603/2013;
-- **2)** weryfikowanie wyników porównania zgodnie z art. 25 ust. 4 rozporządzenia (UE) 603/2013;
-- **3)** komunikowanie się z systemem Eurodac zgodnie z art. 26 rozporządzenia (UE) 603/2013;
-- **4)** przekazywanie wyników porównania danych daktyloskopijnych z danymi Eurodac właściwym organom.
-
-6. Zadania, o których mowa w ust. 2, 3 i 5b, Komendant Główny Policji wykonuje przy pomocy CLKP.
+6. Zadania, o których mowa w ust. 2 i 3, Komendant Główny Policji wykonuje przy pomocy CLKP.
 
 **Art. 145k.**
 

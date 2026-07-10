@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-08-02 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1501/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -158,7 +158,7 @@ source: pdf
 
 - **1)** przepisy art. 30 § 5 i art. 34 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), zwanej dalej „Kodeksem postępowania administracyjnego”, stosuje się odpowiednio, z tym że wojewoda wyznacza z urzędu przedstawiciela dla osoby nieobecnej lub niezdolnej do czynności prawnych uprawnionego do działania w postępowaniu do czasu wyznaczenia takiego przedstawiciela lub kuratora przez sąd;
 - **2)** nie stosuje się przepisu art. 33 § 4 Kodeksu postępowania administracyjnego;
-- **3)** nie zawiesza się postępowania w przypadkach określonych w art. 97 § 1 pkt 1–3a Kodeksu postępowania administracyjnego.
+- **3)** nie zawiesza się postępowania w przypadkach określonych w art. 97 § 1 pkt 1– 3a Kodeksu postępowania administracyjnego.
 
 7. Nieuregulowany stan prawny nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych lub brak danych w ewidencji gruntów i budynków pozwalających na ustalenie danych osobowych, w szczególności adresu właściciela lub użytkownika wieczystego nieruchomości, nie stanowi przeszkody do wszczęcia i prowadzenia postępowania o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych, jej wydania i doręczenia oraz zawiadomienia o jej wydaniu.
 
@@ -373,14 +373,14 @@ source: pdf
 
 2. Przepisu ust. 1 nie stosuje się, jeżeli:
 
-- **1)** nabywcą nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych jest:
+- **1)** nabywcą nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych jest: o Centralnym Porcie Komunikacyjnym, lub spółka, o której mowa w art. 15 ust. 1 tej ustawy, poz. 120 i 295) prowadzące działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, których mienie zostało ujawnione w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122), w przypadku nabycia nieruchomości na cele związane z budową mienia określonego w art. 1 ust. 2 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. U. z 2020 r. poz. 2173), z 2022 r. poz. 2569 oraz z 2023 r. poz. 326, 412 i 595),
     - **a)** jednostka samorządu terytorialnego,
     - **b)** Skarb Państwa,
-    - **c)** spółka celowa, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, lub spółka, o której mowa w art. 15 ust. 1 tej ustawy,
+    - **c)** spółka celowa, o której mowa w ustawie z dnia 10 maja 2018 r.
     - **d)** spółka prawa handlowego: – której wyłącznym udziałowcem albo akcjonariuszem jest Skarb Państwa, będąca operatorem systemu przesyłowego albo posiadająca koncesję na przesyłanie paliw ciekłych, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm. ), – która jest operatorem systemu dystrybucyjnego gazowego w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, w przypadku nabycia nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych na cele związane z budową systemu dystrybucyjnego gazowego,
-    - **e)** spółka kapitałowa lub grupa kapitałowa w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120 i 295) prowadzące działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, których mienie zostało ujawnione w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122), w przypadku nabycia nieruchomości na cele związane z budową mienia określonego w art. 1 ust. 2 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. U. z 2020 r. poz. 2173),
+    - **e)** spółka kapitałowa lub grupa kapitałowa w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r.
     - **f)** parki narodowe, w przypadku nabycia nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych na cele związane z ochroną przyrody,
-    - **g)** podmiot, który skorzystał z prawa pierwokupu na podstawie przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U. z 2022 r. poz. 2569 oraz z 2023 r. poz. 326, 412 i 595),
+    - **g)** podmiot, który skorzystał z prawa pierwokupu na podstawie przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego (Dz. U.
     - **h)** osoba bliska zbywcy;
 
 - **2)** nabycie nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych następuje za zgodą ministra właściwego do spraw informatyzacji wyrażonej w drodze decyzji administracyjnej wydanej na wniosek nabywcy, jeżeli wykaże, że nabycie nie uniemożliwi lub nie utrudni realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych i nie będzie stanowiło zagrożenia dla funkcjonowania Krajowego Centrum Przetwarzania Danych.
@@ -410,7 +410,7 @@ source: pdf
 - **2)** udziałów lub akcji na rzecz osoby bliskiej;
 - **3)** udziałów lub akcji przez Skarb Państwa;
 - **4)** udziałów lub akcji na rzecz spółki, o której mowa w art. 18 ust. 2 pkt 1 lit. d;
-- **5)** udziałów lub akcji na rzecz spółki kapitałowej lub grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, których mienie zostało ujawnione w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
+- **5)** udziałów lub akcji na rzecz spółki kapitałowej lub grupy kapitałowej w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, których mienie zostało ujawnione w wykazie, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
 - **6)** udziałów lub akcji na rzecz podmiotu, który skorzystał z prawa pierwokupu na podstawie przepisów ustawy z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego;
 - **7)** udziałów lub akcji na rzecz Spółki Celowej, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, lub spółki, o której mowa w art. 15 ust. 1 tej ustawy.
 
@@ -665,7 +665,9 @@ source: pdf
 
 5. Stan prawny nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, oraz siedziby i adresy właścicieli i użytkowników wieczystych ustala się według ewidencji gruntów i budynków. Przepisy art. 12 ust. 7 i 8, art. 14 ust. 1–4 i art. 16 ust. 3–9 stosuje się odpowiednio.
 
-6. Przepis art. 401 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne ma zastosowanie również w tych postępowaniach, w których liczba stron nie przekracza 10.
+6. Przepis art. 401 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne ma zastosowanie również w tych postępowaniach, w których liczba stron nie przekracza
+
+10.
 
 7. W sprawach określonych w ust. 1 w stosunku do:
 

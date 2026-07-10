@@ -114,9 +114,7 @@ source: pdf
 
 1. Prawo do świadczenia pieniężnego i pomocy pieniężnej przysługuje działaczowi opozycji antykomunistycznej lub osobie represjonowanej z powodów politycznych o potwierdzonym statusie działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, zwanym dalej „osobą uprawnioną”.
 
-2. W przypadku gdy podstawą potwierdzenia statusu działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych były wyłącznie okoliczności i zdarzenia będące podstawą uprawnień kombatanckich na podstawie ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz.
-
-- **2039)** , osobie uprawnionej przysługuje – według jej wyboru – prawo do świadczenia pieniężnego albo prawo do dodatku kombatanckiego, świadczenia w wysokości dodatku kombatanckiego, ryczałtu energetycznego i dodatku kompensacyjnego.
+2. W przypadku gdy podstawą potwierdzenia statusu działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych były wyłącznie okoliczności i zdarzenia będące podstawą uprawnień kombatanckich na podstawie ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039), osobie uprawnionej przysługuje – według jej wyboru – prawo do świadczenia pieniężnego albo prawo do dodatku kombatanckiego, świadczenia w wysokości dodatku kombatanckiego, ryczałtu energetycznego i dodatku kompensacyjnego.
 
 3. Warunkiem przyznania przez Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych osobom, o których mowa w ust. 1, świadczenia pieniężnego jest przedłożenie przez taką osobę zaświadczenia organu emerytalnego lub rentowego o dokonanej rezygnacji z pobierania dodatku kombatanckiego, świadczenia w wysokości dodatku kombatanckiego, ryczałtu energetycznego i dodatku kompensacyjnego w okresie pobierania świadczenia pieniężnego. Informację o przyznaniu świadczenia pieniężnego Urząd do Spraw Kombatantów i Osób Represjonowanych przekazuje właściwemu organowi emerytalnemu lub rentowemu.
 

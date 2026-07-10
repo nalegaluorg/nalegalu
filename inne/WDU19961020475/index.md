@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1996-07-05 |
 | Data wydania | 1996-08-19 |
-| Ostatnia zmiana | 2026-06-10 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961020475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/475/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -655,9 +655,7 @@ source: pdf
     - **a)** podmiotami, o których mowa w pkt 1a, oraz z podmiotami, o których mowa w art. 3 i art. 4 ust. 1,
     - **b)** pozostałymi przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162).
 
-2. Doradcy podatkowi mogą wykonywać swój zawód, uczestnicząc w spółkach, o których mowa w ust. 1 pkt 1a, pod warunkiem że komplementariuszami w spółce komandytowej i spółce komandytowo-akcyjnej oraz wspólnikami w pozostałych spółkach są wyłącznie doradcy podatkowi, adwokaci, radcowie prawni, biegli rewidenci, rzecznicy patentowi lub prawnicy zagraniczni wykonujący stałą praktykę na podstawie przepisów ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz.
-
-- **823)** , z tym że większość komplementariuszy w spółce komandytowej i spółce komandytowo-akcyjnej oraz wspólników w pozostałych spółkach stanowią podmioty wymienione w art. 3. Jeżeli w spółce komandytowej i spółce komandytowo-akcyjnej jest nie więcej niż dwóch komplementariuszy lub pozostałe spółki składają się z dwóch wspólników, jeden z nich powinien być podmiotem wymienionym w art. 3.
+2. Doradcy podatkowi mogą wykonywać swój zawód, uczestnicząc w spółkach, o których mowa w ust. 1 pkt 1a, pod warunkiem że komplementariuszami w spółce komandytowej i spółce komandytowo-akcyjnej oraz wspólnikami w pozostałych spółkach są wyłącznie doradcy podatkowi, adwokaci, radcowie prawni, biegli rewidenci, rzecznicy patentowi lub prawnicy zagraniczni wykonujący stałą praktykę na podstawie przepisów ustawy z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 823), z tym że większość komplementariuszy w spółce komandytowej i spółce komandytowo-akcyjnej oraz wspólników w pozostałych spółkach stanowią podmioty wymienione w art. 3. Jeżeli w spółce komandytowej i spółce komandytowo-akcyjnej jest nie więcej niż dwóch komplementariuszy lub pozostałe spółki składają się z dwóch wspólników, jeden z nich powinien być podmiotem wymienionym w art. 3.
 
 3. Doradca podatkowy wykonujący zawód w ramach stosunku pracy, o którym mowa w ust. 1 pkt 2 lit. b, wykonuje czynności doradztwa podatkowego jedynie na rzecz podmiotu, w którym jest zatrudniony. W przypadku gdy podmiotem zatrudniającym doradcę podatkowego jest podmiot zobowiązany do sporządzenia skonsolidowanego sprawozdania finansowego, o którym mowa w rozdziale 6 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ), doradca podatkowy w ramach stosunku pracy może wykonywać czynności doradztwa podatkowego także na rzecz podmiotów objętych tym sprawozdaniem sporządzanym przez podmiot, w którym jest zatrudniony.
 

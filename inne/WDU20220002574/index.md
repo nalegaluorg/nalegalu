@@ -248,8 +248,7 @@ Wpisać: państwo urodzenia wnioskodawcy, język ojczysty wnioskodawcy.
 Dziennik Ustaw 7 – 14 – Poz. 2574
 2.27. Wpisać datę podpisania wniosku.
 2.28. W tym miejscu należy umieścić podpis wnioskodawcy zawierający się w obrębie ramki.
-2.29. Urząd Transportu Kolejowego dodaje w tym miejscu wewnętrzny numer referencyjny (np.
-numer poczty przychodzącej).
+2.29. Urząd Transportu Kolejowego dodaje w tym miejscu wewnętrzny numer referencyjny (np. numer poczty przychodzącej).
 2.30. Urząd Transportu Kolejowego wpisuje datę otrzymania wniosku.
 * Wybrać właściwe.
 

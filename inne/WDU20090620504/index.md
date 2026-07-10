@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2009-03-20 |
 | Data wydania | 2009-04-21 |
-| Ostatnia zmiana | 2024-03-15 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090620504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/504/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -383,9 +383,7 @@ source: pdf
 - **4)** wydawania poleceń porządkowych osobom zakłócającym porządek publiczny lub zachowującym się niezgodnie z regulaminem imprezy masowej lub regulaminem obiektu (terenu), a w przypadku niewykonania tych poleceń – wezwania ich do opuszczenia imprezy masowej;
 - **5)** ujęcia, w celu niezwłocznego przekazania Policji, osób stwarzających bezpośrednie zagrożenie dla dóbr powierzonych ochronie oraz osób dopuszczających się czynów zabronionych.
 
-2. W przypadkach, o których mowa w art. 11 pkt 1 i 2 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz.
-
-- **202)** , służby porządkowe mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1 lit. a i b, pkt 2 lit. a i pkt 12 lit. a tej ustawy.
+2. W przypadkach, o których mowa w art. 11 pkt 1 i 2 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz. 202), służby porządkowe mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1 lit. a i b, pkt 2 lit. a i pkt 12 lit. a tej ustawy.
 
 3. Użycie środków przymusu bezpośredniego oraz dokumentowanie tego użycia odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 

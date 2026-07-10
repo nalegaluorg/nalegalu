@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1991-03-21 |
 | Data wydania | 1991-04-18 |
-| Ostatnia zmiana | 2026-03-25 |
+| Ostatnia zmiana | 2026-06-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910320131) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/131/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -1316,9 +1316,7 @@ source: pdf
 
 1. W zakresie nieuregulowanym w przepisach, jeżeli jest to niezbędne do ochrony życia, zdrowia lub mienia, obronności i bezpieczeństwa państwa, ochrony środowiska morskiego na morzu, w porcie morskim, przystani oraz w pasie technicznym, a także ochrony żeglugi i portów morskich – dyrektor urzędu morskiego może ustanawiać w zakresie określonym w art. 42 ust. 2 przepisy porządkowe zawierające zakazy lub nakazy określonego zachowania oraz tworzyć i ogłaszać strefy czasowo zamknięte dla żeglugi i rybołówstwa, uprawiania sportów wodnych i nurkowych, znajdujące się w strefie odpowiedzialności terytorialnej danego urzędu i będące w granicach morskich wód wewnętrznych i morza terytorialnego.
 
-1a. W przypadku gdy przepisy porządkowe, o których mowa w ust. 1, mają wpływ na wykonywanie rybołówstwa morskiego w rozumieniu art. 2 ust. 1 pkt 21 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2024 r. poz.
-
-- **243)** , dyrektor urzędu morskiego wydaje te przepisy po zasięgnięciu opinii Głównego Inspektora Rybołówstwa Morskiego, z wyjątkiem okoliczności określonej w ust. 6. Brak wydania opinii w terminie 14 dni od dnia otrzymania projektu przepisów porządkowych uważa się za opinię pozytywną.
+1a. W przypadku gdy przepisy porządkowe, o których mowa w ust. 1, mają wpływ na wykonywanie rybołówstwa morskiego w rozumieniu art. 2 ust. 1 pkt 21 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2024 r. poz. 243), dyrektor urzędu morskiego wydaje te przepisy po zasięgnięciu opinii Głównego Inspektora Rybołówstwa Morskiego, z wyjątkiem okoliczności określonej w ust. 6. Brak wydania opinii w terminie 14 dni od dnia otrzymania projektu przepisów porządkowych uważa się za opinię pozytywną.
 
 2. Przepisy porządkowe, o których mowa w ust. 1, ustanawia się w formie zarządzenia porządkowego.
 

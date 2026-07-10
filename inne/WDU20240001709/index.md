@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-08 |
 | Data wydania | 2024-11-22 |
-| Ostatnia zmiana | 2025-07-15 |
+| Ostatnia zmiana | 2026-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001709) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1709/text.pdf) |
 
 w sprawie rejestracji i oznaczania pojazdów, wymagań dla tablic rejestracyjnych oraz wzorów innych dokumentów związanych z rejestracją pojazdów Na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U.

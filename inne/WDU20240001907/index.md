@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-05 |
 | Data wydania | 2024-12-23 |
-| Ostatnia zmiana | 2026-06-22 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001907) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1907/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -111,7 +111,7 @@ source: pdf
 
 1. Zadania ochrony ludności i obrony cywilnej są wykonywane przez organy ochrony ludności i obrony cywilnej oraz podmioty ochrony ludności i obrony cywilnej, w zależności od rodzaju i skali zagrożeń i właściwości tych organów lub podmiotów, na zasadach przewidzianych w niniejszej ustawie oraz innych przepisach prawa, w szczególności w ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897 oraz z 2024 r. poz. 1717), ustawie z dnia 21 czerwca 2002 r. o stanie wyjątkowym (Dz. U. z 2017 r. poz. 1928), ustawie z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 2091 oraz z 2024 r. poz. 1907) oraz ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ).
 
-2. Podmioty ochrony ludności i obrony cywilnej są obowiązane do współpracy z organami ochrony ludności i obrony cywilnej, stosownie do swoich możliwości, kompetencji, obszaru działania oraz zakresu działania ujętego w planach, o których mowa w art. 5 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, i planach ciągłości działania.
+2. Podmioty ochrony ludności i obrony cywilnej są obowiązane do współpracy z organami ochrony ludności i obrony cywilnej, stosownie do swoich możliwości, kompetencji, obszaru działania oraz zakresu działania ujętego w planach zarządzania kryzysowego, o których mowa w art. 3 pkt 16 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, i planach ciągłości działania.
 
 3. W czasie stanu nadzwyczajnego przedsiębiorcy będący podmiotami ochrony ludności i obrony cywilnej w pierwszej kolejności wykonują usługi i świadczenia na rzecz infrastruktury niezbędnej do realizacji zadań ochrony ludności i obrony cywilnej, z uwzględnieniem potrzeb organów ochrony ludności i obrony cywilnej.
 
@@ -328,7 +328,7 @@ source: pdf
 - **3)** informowanie Rady Ministrów o realizacji zadań ochrony ludności i obrony cywilnej;
 - **4)** ocena wykonywania zadań ochrony ludności i obrony cywilnej na obszarze kraju;
 - **5)** przygotowywanie i wdrażanie rozwiązań organizacyjnych na potrzeby ochrony ludności i obrony cywilnej;
-- **6)** analizowanie wniosków z ocen ryzyka mających wpływ na bezpieczeństwo i ochronę ludności i obronę cywilną, o których mowa w Raporcie o zagrożeniach bezpieczeństwa narodowego, o którym mowa w art. 5a ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, i informacji pochodzących z raportów Rządowego Centrum Bezpieczeństwa oraz centrów służb podległych mu i nadzorowanych przez niego, a także przedstawianie propozycji rozwiązań w tym zakresie;
+- **6)** analizowanie wniosków z ocen ryzyka mających wpływ na bezpieczeństwo i ochronę ludności i obronę cywilną, o których mowa w Krajowej Ocenie Ryzyka, o której mowa w art. 6e ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, i informacji pochodzących z raportów Rządowego Centrum Bezpieczeństwa oraz centrów służb podległych mu i nadzorowanych przez niego, a także przedstawianie propozycji rozwiązań w tym zakresie;
 - **7)** opracowywanie Programu Ochrony Ludności i Obrony Cywilnej i monitorowanie jego realizacji;
 - **8)** przygotowywanie propozycji do projektu budżetu państwa w zakresie ochrony ludności i obrony cywilnej;
 - **9)** planowanie potrzeb w zakresie środków finansowych i materiałowych niezbędnych do realizacji zadań własnych oraz przez podległe mu i nadzorowane przez niego jednostki w zakresie ochrony ludności;
@@ -718,7 +718,7 @@ source: pdf
 
 #### Rozdział 5 Planowanie w ochronie ludności i obronie cywilnej
 
-**Art. 38.** Organy ochrony ludności i Dyrektor Rządowego Centrum Bezpieczeństwa uwzględniają w planach, o których mowa w art. 5 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym:
+**Art. 38.** Organy ochrony ludności i Dyrektor Rządowego Centrum Bezpieczeństwa uwzględniają w planach zarządzania kryzysowego, o których mowa w art. 3 pkt 16 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym:
 
 - **1)** plany ewakuacji ludności;
 - **2)** wyciągi z Centralnej Ewidencji Zasobów, Centralnej Ewidencji OZO oraz Ewidencji Obrony Cywilnej;
@@ -744,13 +744,15 @@ source: pdf
 
 **Art. 40.**
 
-1. Dyrektor Rządowego Centrum Bezpieczeństwa opracowuje krajowy plan ewakuacji.
+1. Dyrektor Rządowego Centrum Bezpieczeństwa opracowuje, we współpracy z Szefem Sztabu Generalnego Wojska Polskiego, krajowy plan ewakuacji.
 
 2. Krajowy plan ewakuacji opracowuje się na podstawie wojewódzkich planów ewakuacji ludności.
 
-3. Krajowy plan ewakuacji opracowuje się na okres 3 lat. Krajowy plan ewakuacji podlega aktualizacji stosownie do potrzeb.
+3. Krajowy plan ewakuacji oraz wojewódzkie plany ewakuacji ludności opracowuje się na okres 3 lat.
 
-4. Krajowy plan ewakuacji jest zatwierdzany przez ministra właściwego do spraw wewnętrznych.
+4. Krajowy plan ewakuacji oraz wojewódzkie plany ewakuacji ludności są aktualizowane w każdym czasie stosownie do potrzeb.
+
+5. Krajowy plan ewakuacji jest zatwierdzany przez ministra właściwego do spraw wewnętrznych.
 
 **Art. 41.**
 
@@ -772,7 +774,7 @@ source: pdf
 
 2. Wojewoda określa obszary i kierunki ewakuacji ludności, w tym miejsca przyjęcia ludności. Wojewoda koordynuje przygotowanie wkładów do wojewódzkiego planu ewakuacji ludności przez wójtów (burmistrzów, prezydentów miast) i starostów na obszarze województwa, wskazując zadania, o których mowa w art. 39 ust. 2, realizowane przez poszczególne gminy i powiaty.
 
-**Art. 44.** Wojewódzki plan ewakuacji ludności stanowi załącznik funkcjonalny do planu zarządzania kryzysowego województwa. Wkłady, o których mowa w art. 43, stanowią załącznik funkcjonalny do planów zarządzania kryzysowego odpowiednio gminy i powiatu.
+**Art. 44.** Wojewódzki plan ewakuacji ludności stanowi załącznik funkcjonalny do wojewódzkiego planu reagowania kryzysowego, o którym mowa w art. 6j ust. 1 pkt 5 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym. Wkłady, o których mowa w art. 43, stanowią załączniki funkcjonalne do planów reagowania kryzysowego odpowiednio gminy i powiatu.
 
 **Art. 45.**
 

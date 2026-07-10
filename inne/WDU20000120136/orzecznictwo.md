@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 21 stycznia 2000 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji publicznej.*
 
 Łącznie: **70** orzeczeń
-(pominięto 25 orzeczeń sądów rejonowych)
+(pominięto 26 orzeczeń sądów rejonowych)
 
 ## art. 15 (1)
 

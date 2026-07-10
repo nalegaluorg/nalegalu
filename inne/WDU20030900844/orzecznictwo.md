@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników.*
 
-Łącznie: **716** orzeczeń
-(pominięto 1195 orzeczeń sądów rejonowych)
+Łącznie: **717** orzeczeń
+(pominięto 1196 orzeczeń sądów rejonowych)
 
 ## art. 0 (1)
 
@@ -358,7 +358,7 @@ Orzeczenia powołujące: *Ustawa z dnia 13 marca 2003 r. o szczególnych zasadac
 - 2013-10-16 | SO | [III AUa 115/13](https://www.saos.org.pl/judgments/35027) | Wyrok
 - 2024-05-06 | SO | [VIII U 2287/23](https://www.saos.org.pl/judgments/513706) | Uzasadnienie
 
-## art. 8 (205)
+## art. 8 (206)
 
 - 2011-07-05 | TK | [P 14/10](https://www.saos.org.pl/judgments/110304) | Wyrok ★
 - 2015-07-21 | SN | [III PK 148/14](https://www.saos.org.pl/judgments/243057) | Wyrok ★
@@ -420,6 +420,7 @@ Orzeczenia powołujące: *Ustawa z dnia 13 marca 2003 r. o szczególnych zasadac
 - 2015-10-14 | SO | [III APa 21/15](https://www.saos.org.pl/judgments/490350) | Wyrok
 - 2013-09-24 | SO | [III AUa 336/13](https://www.saos.org.pl/judgments/22906) | Wyrok
 - 2012-10-24 | SO | [III AUa 559/12](https://www.saos.org.pl/judgments/2707) | Wyrok
+- 2026-04-30 | SO | [VII Pa 224/25](https://www.saos.org.pl/judgments/547245) | Wyrok
 - 2025-10-03 | SO | [VI P 241/20](https://www.saos.org.pl/judgments/544927) | Wyrok
 - 2025-06-30 | SO | [VI P 824/24](https://www.saos.org.pl/judgments/535402) | Wyrok
 - 2025-06-18 | SO | [VII Pa 74/24](https://www.saos.org.pl/judgments/530865) | Wyrok
@@ -578,7 +579,7 @@ Orzeczenia powołujące: *Ustawa z dnia 13 marca 2003 r. o szczególnych zasadac
 - 2020-01-07 | SO | [VIII Pa 140/19](https://www.saos.org.pl/judgments/402591) | Uzasadnienie
 - 2018-01-09 | SO | [VIII Pa 9/16](https://www.saos.org.pl/judgments/324285) | Uzasadnienie
 
-## art. 10 (349)
+## art. 10 (350)
 
 - 2015-07-02 | SN | [III PZP 4/15](https://www.saos.org.pl/judgments/242928) | Uchwała ★
 - 2008-01-04 | SN | [I PZP 9/07](https://www.saos.org.pl/judgments/86960) | Uchwała ★
@@ -712,6 +713,7 @@ Orzeczenia powołujące: *Ustawa z dnia 13 marca 2003 r. o szczególnych zasadac
 - 2012-10-01 | SO | [III AUa 407/12](https://www.saos.org.pl/judgments/824) | Wyrok
 - 2012-08-14 | SO | [III AUa 620/12](https://www.saos.org.pl/judgments/572) | Wyrok
 - 2024-12-02 | SO | [III APa 16/22](https://www.saos.org.pl/judgments/523017) | Uzasadnienie
+- 2026-04-30 | SO | [VII Pa 224/25](https://www.saos.org.pl/judgments/547245) | Wyrok
 - 2025-10-03 | SO | [VI P 241/20](https://www.saos.org.pl/judgments/544927) | Wyrok
 - 2025-06-30 | SO | [VI P 824/24](https://www.saos.org.pl/judgments/535402) | Wyrok
 - 2025-06-18 | SO | [VII Pa 74/24](https://www.saos.org.pl/judgments/530865) | Wyrok

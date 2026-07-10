@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2026-02-13 |
 | Data wydania | 2026-02-24 |
-| Ostatnia zmiana | 2026-06-16 |
+| Ostatnia zmiana | 2026-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/208/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -47,20 +47,18 @@ source: pdf
 - **1)** administrator danych – administratora, o którym mowa w art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. );
 - **2)** administrator systemu – podmiot odpowiedzialny za techniczno-organizacyjną obsługę systemu teleinformatycznego;
 - **2a)** apteka – aptekę ogólnodostępną i punkt apteczny w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924, 1416, 1537 i 1795);
+- **2b)** aplikacja wspierająca dobrostan – aplikację wspierającą dobrostan w rozumieniu art. 2 ust. 2 lit. ab rozporządzenia Parlamentu Europejskiego i Rady (UE) 2025/327 z dnia 11 lutego 2025 r. w sprawie europejskiej przestrzeni danych dotyczących zdrowia oraz zmiany dyrektywy 2011/24/UE i rozporządzenia (UE) 2024/2847 (Dz. Urz. UE L 2025/327 z 05.03.2025);
 - **3)** certyfikat do uwierzytelniania danych – poświadczenie elektroniczne, wydawane na wniosek usługodawcy przez system, o którym mowa w art. 7 ust. 1, służące do potwierdzania pochodzenia i integralności danych przekazywanych lub udostępnianych przez usługodawcę;
 - **3a)** certyfikat do uwierzytelniania systemu – poświadczenie elektroniczne, wydawane przez system, o którym mowa w art. 7 ust. 1, służące do:
-    - **a)** uwierzytelniania systemu usługodawcy w Systemie Informacji Medycznej, zwanym dalej „SIM”, oraz w dziedzinowych systemach teleinformatycznych,
+    - **a)** uwierzytelniania systemu usługodawcy w Systemie Informacji Medycznej, zwanym dalej „SIM”, w Platformie Usług Inteligentnych oraz w dziedzinowych systemach teleinformatycznych,
     - **b)** wzajemnego uwierzytelniania systemów teleinformatycznych usługodawców lub innych podmiotów przetwarzających jednostkowe dane medyczne;
 
 - **4)** dane – litery, wyrazy, cyfry, teksty, liczby, znaki, symbole, obrazy, kombinacje liter, cyfr, liczb, symboli i znaków, zebrane w zbiory o określonej strukturze, dostępne według określonych kryteriów, w tym dane osobowe;
 - **5)** dziedzinowy system teleinformatyczny – system teleinformatyczny wspomagający określony obszar funkcjonowania systemu ochrony zdrowia;
-- **6)** elektroniczna dokumentacja medyczna − dokumenty wytworzone w postaci elektronicznej opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych:
-    - **a)** recepty,
-    - **b)** określone w przepisach wydanych na podstawie art. 13a,
-    - **c)** skierowania określone w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26),
-    - **d)** zlecenia na zaopatrzenie i zlecenia naprawy, o których mowa w art. 38 ust. 4a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907 i 1192),
-    - **e)** Karty Szczepień, o których mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26),
-    - **f)** wyniki badania histopatologicznego;
+- **6)** elektroniczna dokumentacja medyczna – dokumenty wytworzone w postaci elektronicznej: o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581 oraz z 2026 r. poz. 26 i 791), poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26, 203 i 791), – zlecenia na zaopatrzenie i zlecenia naprawy, o których mowa w art. 38 ust. 4a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2026 r. poz. 253 i 791), – Karty Szczepień, o których mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26 i 791), – wyniki badań histopatologicznych, – karty diagnostyki i leczenia onkologicznego, o których mowa w art. 39 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. z 2024 r. poz. 1208), – plany leczenia onkologicznego w rozumieniu art. 2 pkt 11 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej, – Karty Opieki Kardiologicznej, o których mowa w art. 39 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej (Dz. U. poz. 779), – orzeczenia lekarskie określone w przepisach wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25 i 473),
+    - **a)** karta pacjenta, o której mowa w art. 30b ustawy z dnia 6 listopada 2008 r.
+    - **b)** opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych: – recepty, – określone w przepisach wydanych na podstawie art. 13a, – skierowania określone w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r.
+    - **c)** opis konsultacji medycznej, o którym mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, opatrzony kwalifikowanym podpisem elektronicznym lub podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład Ubezpieczeń Społecznych;
 
 - **7)** jednostkowe dane medyczne – dane osoby fizycznej o udzielonych, udzielanych i planowanych świadczeniach opieki zdrowotnej oraz dotyczące jej stanu zdrowia, w tym profilaktyki zdrowotnej i realizacji programów zdrowotnych;
 - **8)** dokument elektroniczny – dokument elektroniczny, o którym mowa w art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703);
@@ -133,7 +131,7 @@ source: pdf
     - **f)** wykształcenie,
     - **g)** numer PESEL, ga) serię i numer dowodu osobistego lub paszportu oraz datę ważności tych dokumentów, gb) status cudzoziemca, o którym mowa w art. 8 pkt 24a ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274, z późn.
     - **h)** datę urodzenia,
-    - **i)** w przypadku osób, które nie mają nadanego numeru PESEL – seria i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem wykonawczym Komisji (UE) 2015/1501”, ia) w przypadku noworodków, które nie mają nadanego numeru PESEL i nie posiadają serii i numeru innego dokumentu stwierdzającego tożsamość – numer PESEL przedstawiciela ustawowego albo seria i numer jego paszportu albo innego dokumentu stwierdzającego jego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501,
+    - **i)** w przypadku osób, które nie mają nadanego numeru PESEL – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem wykonawczym Komisji (UE) 2015/1501”, albo osobisty numer identyfikacyjny, o którym mowa w tabeli 2 załącznika do rozporządzenia wykonawczego Komisji (UE) 2024/2977 z dnia 28 listopada 2024 r. w sprawie ustanowienia zasad stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w odniesieniu do danych identyfikujących osobę i elektronicznych poświadczeń atrybutów wydawanych europejskim portfelom tożsamości cyfrowej (Dz. Urz. UE L 2024/2977 z 04.12.2024), lub numer dokumentu, o którym mowa w tabeli 5 załącznika do tego rozporządzenia, ia) w przypadku noworodków, które nie mają nadanego numeru PESEL i nie posiadają serii i numeru innego dokumentu stwierdzającego tożsamość – numer PESEL przedstawiciela ustawowego albo seria i numer jego paszportu albo innego dokumentu stwierdzającego jego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501,
     - **j)** adres miejsca zamieszkania i adres do korespondencji, ja) adres zameldowania,
     - **k)** adres miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli dana osoba nie ma na terytorium Rzeczypospolitej Polskiej miejsca zamieszkania,
     - **l)** adres poczty elektronicznej,
@@ -161,6 +159,7 @@ source: pdf
 1. System informacji obejmuje bazy danych funkcjonujące w ramach:
 
 - **1)** SIM;
+- **1a)** Platformy Usług Inteligentnych;
 - **2)** dziedzinowych systemów teleinformatycznych:
     - **a)** Systemu Rejestru Usług Medycznych Narodowego Funduszu Zdrowia, zwanego dalej „Systemem RUM – NFZ”,
     - **b)** Systemu Statystyki w Ochronie Zdrowia, [c) Systemu Ewidencji Zasobów Ochrony Zdrowia,] <c) Systemu Ewidencji Potencjału Świadczeniodawcy, zwanego dalej „EPS”,>
@@ -182,17 +181,28 @@ source: pdf
 - **1)** Platformę Udostępniania On-Line Usług i Zasobów Cyfrowych Rejestrów Medycznych;
 - **2)** Elektroniczną Platformę Gromadzenia, Analizy i Udostępnienia Zasobów Cyfrowych o Zdarzeniach Medycznych.
 
-3. Systemy teleinformatyczne obsługujące system informacji w zakresie przypisanych im zadań korzystają z usług dostarczanych przez Elektroniczną Platformę Usług Administracji Publicznej. [3a. Dane zawarte w systemach, o których mowa w ust. 1 pkt 1, pkt 2 lit. a, e, g– j, l i m oraz pkt 3, nie podlegają udostępnianiu na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).] <3a. Dane zawarte w systemach, o których mowa w ust. 1 pkt 1, pkt 2 lit. a, c, e, g–j, l i m oraz pkt 3, nie podlegają udostępnianiu na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).
+3. Systemy teleinformatyczne obsługujące system informacji w zakresie przypisanych im zadań korzystają z usług dostarczanych przez Elektroniczną Platformę Usług Administracji Publicznej.
+
+3a. Dane zawarte w systemach, o których mowa w ust. 1 pkt 1, 1a, pkt 2 [lit. a, e, g–j, l i m] < lit. a, c, e, g–j, l i m > oraz pkt 3, nie podlegają udostępnianiu na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844) oraz w ustawie z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524).
+
+3b. Na podstawie rejestrów, o których mowa w art. 15 ust. 1, art. 16 ust. 1, art. 17 ust. 1 i art. 17a ust. 1, mogą być weryfikowane i aktualizowane dane przetwarzane w:
 
 - **1)** rejestrach medycznych;
 - **2)** rejestrze podmiotów wykonujących działalność leczniczą, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej;
-- **3)** systemach teleinformatycznych, dla których administratorem danych jest minister właściwy do spraw zdrowia lub organy, o których mowa w art. 33 ust. 2 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2025 r. poz. 1275 i 1846).
+- **3)** Krajowym Rejestrze Zezwoleń na Prowadzenie Aptek Ogólnodostępnych, Punktów Aptecznych oraz Rejestrze Udzielonych Zezwoleń na Prowadzenie Aptek Szpitalnych i Zakładowych, o którym mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne;
+- **4)** systemach teleinformatycznych, dla których administratorem danych jest minister właściwy do spraw zdrowia lub organy, o których mowa w art. 33 ust. 2 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2025 r. poz. 1275 i 1846 oraz z 2026 r. poz. 160 i 187).
 
 3c. Podmioty prowadzące bazy danych, o których mowa w ust. 1, zapewniają ministrowi właściwemu do spraw zdrowia oraz jednostce podległej ministrowi właściwemu do spraw zdrowia, właściwej w zakresie systemów informacyjnych ochrony zdrowia, w zakresie realizacji zadań publicznych, nieodpłatny dostęp do danych zawartych w tych bazach danych. Dane osobowe podlegają ochronie na podstawie przepisów o ochronie danych osobowych i są chronione przed dostępem do nich osób nieuprawnionych.
 
 4. Systemy teleinformatyczne obsługujące system informacji w zakresie danych dotyczących obiektów przestrzennych wykorzystują za pośrednictwem usług dostępnych w geoportalu infrastruktury informacji przestrzennej, o którym mowa w art. 13 ust. 1 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, referencyjne bazy danych, o których mowa w art. 4 ust. 1a pkt 4–6, 8, 9 i 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, a także dostarczają do geoportalu infrastruktury informacji przestrzennej dane adresowe usługodawców.
 
 5. Minister właściwy do spraw zdrowia może powierzyć, w drodze porozumienia, właściwemu ministrowi wykonywanie zadań związanych z dostarczeniem, utrzymaniem, obsługą techniczną oraz zachowaniem ciągłości funkcjonowania systemów teleinformatycznych.
+
+**Art. 5a.**
+
+1. W przypadku dokonania pseudonimizacji danych informacje umożliwiające odwrócenie pseudonimizacji są przechowywane z zastosowaniem szczególnych środków bezpieczeństwa. Dane mogą podlegać agregacji.
+
+2. Dane pseudonimizowane, które zachowują możliwość powiązania zdarzeń medycznych dotyczących tej samej osoby fizycznej w czasie, podlegają separacji i zabezpieczeniom organizacyjnym oraz technicznym zgodnym z art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych).
 
 #### Rozdział 2 Systemy teleinformatyczne obsługujące system informacji
 
@@ -214,7 +224,7 @@ source: pdf
 1. Elektroniczna Platforma Gromadzenia, Analizy i Udostępnienia Zasobów Cyfrowych o Zdarzeniach Medycznych jest systemem teleinformatycznym, który umożliwia w szczególności:
 
 - **1)** dostęp usługobiorców do informacji o udzielonych i planowanych świadczeniach opieki zdrowotnej zgromadzonych w SIM oraz raportów z udostępnienia danych ich dotyczących;
-- **1a)** składanie przez usługobiorców lub ich przedstawicieli ustawowych oświadczeń, deklaracji i wniosków, o których mowa odpowiednio w art. 7a ust. 1 pkt 3–5, 9, 10, 12 i 14;
+- **1a)** składanie przez usługobiorców lub ich przedstawicieli ustawowych oświadczeń, deklaracji, wniosków i zamówień, o których mowa odpowiednio w art. 7a ust. 1 pkt 3–5, 9, 10, 12, 14 i 19;
 - **1b)** przekazywanie przez Zakład Ubezpieczeń Społecznych informacji, o których mowa w art. 60a ust. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz ich przechowywanie;
 - **1c)** przekazywanie przez płatnika, o którym mowa w art. 2 pkt 9 lit. a, informacji o wysokości składki na ubezpieczenie zdrowotne płaconej przez usługobiorców;
 - **2)** przekazywanie przez usługodawców i płatnika, o którym mowa w art. 2 pkt 9 lit. a, do SIM informacji o udzielonych, udzielanych i planowanych świadczeniach opieki zdrowotnej;
@@ -225,13 +235,16 @@ source: pdf
 - **7)** dostęp wojewodów do danych zbiorczych niezbędnych do realizacji zadań określonych w art. 10 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 - **8)** dostęp ministra właściwego do spraw zdrowia do danych niezbędnych do realizacji zadań określonych w art. 11 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 - **9)** przekazywanie danych statystycznych, o których mowa w ustawie z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2025 r. poz. 594 i 1006) oraz w ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2025 r. poz. 1590) dla potrzeb statystyki publicznej;
-- **10)** przekazywanie i odbieranie danych osobowych i jednostkowych danych medycznych usługobiorców w zakresie wymiany recepty transgranicznej w rozumieniu art. 2 pkt 35aa ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zwanej dalej „receptą transgraniczną”;
+- **10)** przekazywanie i odbieranie danych osobowych i jednostkowych danych medycznych usługobiorców w zakresie wymiany recepty transgranicznej w rozumieniu art. 2 pkt 35aa ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zwanej dalej „receptą transgraniczną”, oraz karty pacjenta, o której mowa w art. 30b ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, zwanej dalej „kartą pacjenta”;
 - **11)** uzyskiwanie przez lekarzy, lekarzy dentystów, pielęgniarki, położne, felczerów, starszych felczerów, fizjoterapeutów, farmaceutów, techników farmaceutycznych oraz osoby wykonujące czynności pomocnicze przy udzielaniu świadczeń opieki zdrowotnej informacji o uprawnieniach dodatkowych usługobiorców oraz informacji o posiadaniu przez nich orzeczenia o niepełnosprawności albo orzeczenia o stopniu niepełnosprawności;
 - **12)** gromadzenie danych służących do obliczania wskaźników jakości opieki onkologicznej i generowania na podstawie tych informacji raportów o poziomie jakości opieki w ramach Krajowej Sieci Onkologicznej, o której mowa w art. 3 ust. 1 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. z 2024 r. poz. 1208);
 - **13)** gromadzenie danych służących do obliczania wskaźników jakości opieki kardiologicznej, o których mowa w przepisach wydanych na podstawie art. 19 ust. 2 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej (Dz. U. poz. 779), i generowanie na podstawie tych danych raportów o poziomie jakości opieki kardiologicznej w ramach Krajowej Sieci Kardiologicznej, o której mowa w art. 3 ust. 1 tej ustawy;
 - **14)** generowanie i obsługę elektronicznej Karty Opieki Kardiologicznej, o której mowa w art. 39 ust. 1 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej;
 - **15)** prowadzenie centralnej elektronicznej rejestracji na świadczenia opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
-- **16)** dokonywanie oceny spełniania przez świadczeniobiorców kryteriów włączenia do programu zdrowotnego w celu weryfikacji dopuszczalności dokonania zgłoszenia centralnego, o którym mowa w art. 23e ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na świadczenie realizowane w ramach programu zdrowotnego.
+- **16)** dokonywanie oceny spełniania przez świadczeniobiorców kryteriów włączenia do programu zdrowotnego w celu weryfikacji dopuszczalności dokonania zgłoszenia centralnego, o którym mowa w art. 23e ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na świadczenie realizowane w ramach programu zdrowotnego;
+- **17)** generowanie i udostępnianie na podstawie zindywidualizowanych jednostkowych danych medycznych zawartych w SIM analiz i raportów służących do oceny stanu zdrowia usługobiorcy oraz stosowanych u niego terapii;
+- **18)** przekazywanie przez podmioty, o których mowa w art. 11c ust. 3, do SIM danych dotyczących usługobiorcy rejestrowanych przez wyroby medyczne lub aplikacje wspierające dobrostan;
+- **19)** przechowywanie i udostępnianie dokumentacji medycznej w postaci elektronicznej, o której mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, w przypadku, o którym mowa w art. 30a ust. 9 tej ustawy.
 
 1a. W systemie, o którym mowa w ust. 1, na potrzeby centralnej elektronicznej rejestracji, o której mowa w art. 23c ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, są przetwarzane dane:
 
@@ -248,11 +261,11 @@ source: pdf
 
 2. Administratorem systemu Elektronicznej Platformy Gromadzenia, Analizy i Udostępnienia Zasobów Cyfrowych o Zdarzeniach Medycznych jest jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia.
 
-2a. Jednostka, o której mowa w ust. 2, wykonuje zadania Krajowego Punktu Kontaktowego do spraw Transgranicznej Opieki Zdrowotnej, w zakresie wymiany recepty transgranicznej w postaci elektronicznej, zwanego dalej „KPK”.
+2a. Jednostka, o której mowa w ust. 2, wykonuje zadania Krajowego Punktu Kontaktowego do spraw Transgranicznej Opieki Zdrowotnej, zwanego dalej „KPK”, w zakresie wymiany recepty transgranicznej w postaci elektronicznej oraz przekazywania i odbierania danych osobowych i jednostkowych danych medycznych usługobiorców, w tym danych osobowych i jednostkowych danych medycznych zawartych w karcie pacjenta, w celu prowadzenia konsultacji medycznych lub leczenia usługobiorców w ramach transgranicznej opieki zdrowotnej.
 
 2b. Do zadań KPK, o których mowa w ust. 2a, należy:
 
-- **1)** przygotowanie, testowanie, wdrożenie, uruchomienie i obsługa w zakresie wymiany recepty transgranicznej w postaci elektronicznej przez umożliwienie elektronicznego przesyłania danych między Rzecząpospolitą Polską a innymi państwami członkowskimi Unii Europejskiej lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronami umowy o Europejskim Obszarze Gospodarczym w ramach świadczenia usług transgranicznej opieki zdrowotnej;
+- **1)** przygotowanie, testowanie, wdrożenie, uruchomienie, obsługiwanie i utrzymywanie w zakresie wymiany recepty transgranicznej w postaci elektronicznej oraz przekazywania i odbierania danych osobowych i jednostkowych danych medycznych usługobiorców, w tym danych osobowych i jednostkowych danych medycznych zawartych w karcie pacjenta, przez umożliwienie elektronicznego przesyłania danych między Rzecząpospolitą Polską a innymi państwami członkowskimi Unii Europejskiej lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronami umowy o Europejskim Obszarze Gospodarczym;
 - **2)** współpraca z Komisją Europejską i krajowymi punktami kontaktowymi do spraw transgranicznej opieki zdrowotnej działającymi w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym.
 
 3. Zadaniem jednostki, o której mowa w ust. 2, jest dostarczenie oraz utrzymanie Elektronicznej Platformy Gromadzenia, Analizy i Udostępnienia Zasobów Cyfrowych o Zdarzeniach Medycznych, zapewnienie bezpieczeństwa i integralności udostępnianych i pobieranych danych oraz nadawanie uprawnień dostępu do danych.
@@ -265,6 +278,31 @@ source: pdf
 - **2)** pozostałych usługodawców – osoba uprawniona do złożenia wniosku o wpis do rejestru podmiotów wykonujących działalność leczniczą.
 
 3c. Po akceptacji gotowości usługodawcy przez jednostkę, o której mowa w ust. 2, usługodawca jest obowiązany do podłączenia się do systemu, o którym mowa w ust. 1.
+
+3d. Jednostka, o której mowa w ust. 2, może czasowo ograniczyć lub zablokować dostęp usługodawcy lub pracownika medycznego do systemu, o którym mowa w ust. 1, jeżeli poweźmie podejrzenie na podstawie informacji zgromadzonych w SIM lub uzyskanych od usługodawcy, pracownika medycznego, usługobiorcy lub organów ścigania o:
+
+- **1)** korzystaniu z systemu, o którym mowa w ust. 1, lub danych w nim przetwarzanych w sposób niezgodny z przepisami prawa lub zasadami bezpieczeństwa przetwarzania danych osobowych lub jednostkowych danych medycznych lub
+- **2)** wystąpieniu zagrożenia dla bezpieczeństwa przetwarzania tych danych.
+
+3e. Ograniczenie lub zablokowanie dostępu, o których mowa w ust. 3d, następuje po dokonaniu weryfikacji i oceny zasadności informacji, wskazujących na naruszenie lub zagrożenie, na podstawie danych przetwarzanych w systemie, o którym mowa w ust. 1, w zakresie niezbędnym do zapewnienia bezpieczeństwa przetwarzania danych osobowych i jednostkowych danych medycznych usługobiorców oraz przysługujących im uprawnień.
+
+3f. O przyczynach ograniczenia lub zablokowania dostępu do systemu, o którym mowa w ust. 1, jednostka, o której mowa w ust. 2, niezwłocznie informuje usługodawcę lub pracownika medycznego, którego ograniczenie lub zablokowanie dostępu dotyczy, wyznaczając mu odpowiedni termin na złożenie przez niego wyjaśnień lub wprowadzenie zmian niezbędnych do usunięcia naruszenia lub zagrożenia.
+
+3g. Dostęp do systemu, o którym mowa w ust. 1, przywraca się niezwłocznie po potwierdzeniu przez jednostkę, o której mowa w ust. 2, usunięcia naruszenia lub zagrożenia na podstawie danych przetwarzanych w systemie, o którym mowa w ust. 1, wyjaśnień przekazanych przez usługodawcę lub pracownika medycznego, którego dotyczy ograniczenie, lub informacji uzyskanych od organów ścigania.
+
+3h. W związku z ograniczeniem lub zablokowaniem dostępu do systemu, o którym mowa w ust. 1, informacje dotyczące:
+
+- **1)** charakteru oraz podstawy podejrzenia, o którym mowa w ust. 3d,
+- **2)** podjętych czynności weryfikacyjnych oraz czasu ich trwania,
+- **3)** ograniczenia lub zablokowania dostępu do systemu,
+- **4)** wyjaśnień przekazanych przez usługodawcę lub pracownika medycznego,
+- **5)** przywrócenia dostępu do systemu – podlegają udokumentowaniu w dokumentacji prowadzonej przez jednostkę, o której mowa w ust. 2, w formie notatek służbowych, korespondencji oraz zapisów w systemie teleinformatycznym tej jednostki.
+
+3i. Dokumentację, o której mowa w ust. 3h, przechowuje się przez okres 3 lat, licząc od dnia dokonania ostatniej czynności w sprawie ograniczenia lub zablokowania dostępu do systemu, o którym mowa w ust. 1.
+
+3j. W przypadku ograniczenia lub zablokowania dostępu do systemu, o którym mowa w ust. 1, trwającego dłużej niż 3 dni usługodawca lub pracownik medyczny może zwrócić się do ministra właściwego do spraw zdrowia z wnioskiem złożonym w postaci elektronicznej o weryfikację prawidłowości czynności podejmowanych przez jednostkę, o której mowa w ust. 2. Wniosek jest rozpatrywany niezwłocznie, niepóźniej jednak niż w terminie 3 dni, licząc od dnia jego złożenia.
+
+3k. Minister właściwy do spraw zdrowia po przeprowadzeniu weryfikacji prawidłowości czynności podejmowanych przez jednostkę, o której mowa w ust. 2, może zobowiązać tę jednostkę do niezwłocznego przywrócenia usługodawcy lub pracownikowi medycznemu dostępu do systemu, o którym mowa w ust. 1.
 
 4. Za pośrednictwem systemów teleinformatycznych, dla których administratorem systemu jest jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia, Narodowy Fundusz Zdrowia lub Zakład Ubezpieczeń Społecznych, dane są udostępniane uprawnionym użytkownikom identyfikowanym w co najmniej jednym z tych systemów oraz prezentowane w systemie, w którym ci użytkownicy są identyfikowani.
 
@@ -284,7 +322,7 @@ source: pdf
 - **6)** dostęp do informacji o wystawionych zaświadczeniach lekarskich, o których mowa w art. 55 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
 - **7)** dostęp do informacji o wysokości składki na ubezpieczenie zdrowotne płaconej przez usługobiorcę;
 - **8)** dostęp do informacji o wysokości kwoty podlegającej refundacji dla poszczególnych produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych wydanych usługobiorcy;
-- **9)** składanie oświadczeń o wyrażeniu zgody na przetwarzanie danych osobowych i jednostkowych danych medycznych usługobiorcy koniecznych w procesie realizacji recepty transgranicznej w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub o jej wycofaniu;
+- **9)** składanie oświadczeń o wyrażeniu zgody na przetwarzanie danych osobowych i jednostkowych danych medycznych usługobiorcy koniecznych w procesie realizacji recepty transgranicznej lub generowanych w karcie pacjenta w celu odbycia konsultacji medycznej lub podjęcia leczenia przez usługobiorcę w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym lub o jej wycofaniu;
 - **10)** składanie deklaracji wyboru świadczeniodawcy, udzielającego świadczeń z zakresu podstawowej opieki zdrowotnej, lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej lub położnej podstawowej opieki zdrowotnej, o której mowa w art. 10 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2025 r. poz. 515), oraz dostęp do informacji o wybranym świadczeniodawcy udzielającym świadczeń z zakresu podstawowej opieki zdrowotnej, lekarzu podstawowej opieki zdrowotnej, pielęgniarce podstawowej opieki zdrowotnej lub położnej podstawowej opieki zdrowotnej;
 - **11)** dostęp do informacji o usługodawcy i udzielanych przez niego świadczeniach opieki zdrowotnej;
 - **12)** składanie wniosków o wydanie Europejskiej Karty Ubezpieczenia Zdrowotnego, o której mowa w art. 51 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „EKUZ”;
@@ -293,7 +331,12 @@ source: pdf
 - **15)** dostęp do informacji o profilaktyce i zdrowym trybie życia na podstawie jednostkowych danych medycznych usługobiorcy;
 - **16)** udzielanie odpowiedzi na badania ankietowe w zakresie jakości opieki zdrowotnej;
 - **17)** dostęp do informacji o wystawionych zleceniach, o których mowa w art. 38 ust. 4a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych;
-- **18)** dokonanie zgłoszenia centralnego, o którym mowa w art. 23e ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na świadczenia opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1 tej ustawy.
+- **18)** dokonanie zgłoszenia centralnego, o którym mowa w art. 23e ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, na świadczenia opieki zdrowotnej, o których mowa w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1 tej ustawy;
+- **19)** składanie zamówienia na wystawienie recepty niezbędnej do kontynuacji leczenia, o której mowa w art. 42 ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2026 r. poz. 37, 203 i 791) lub w art. 15b ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej;
+- **20)** samodzielne przekazywanie przez usługobiorcę informacji istotnych dla oceny stanu jego zdrowia oraz dostęp do analiz i raportów dokonywanych na podstawie tych informacji;
+- **21)** dostęp do danych dotyczących usługobiorcy rejestrowanych przez wyroby medyczne lub aplikacje wspierające dobrostan, przekazanych do SIM przez podmioty, o których mowa w art. 11c ust. 3;
+- **22)** dostęp do analiz i raportów, o których mowa w art. 7 ust. 1 pkt 17;
+- **23)** dostęp do orzeczeń lekarskich, o których mowa w przepisach wydanych na podstawie art. 229 § 8 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 2. Składanie oświadczeń, o których mowa w ust. 1 pkt 5, wymaga identyfikacji wykorzystującej co najmniej dwa czynniki uwierzytelnienia należące do co najmniej dwóch różnych kategorii, o których mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1502 z dnia 8 września 2015 r. w sprawie ustanowienia minimalnych specyfikacji technicznych i procedur dotyczących poziomów bezpieczeństwa w zakresie środków identyfikacji elektronicznej na podstawie art. 8 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 7, z późn. zm. ).
 
@@ -348,11 +391,11 @@ source: pdf
 
 **Art. 8b.**
 
-1. Usługodawcy i podmioty prowadzące rejestry medyczne są obowiązane zapewniać zgodność swoich systemów teleinformatycznych z minimalnymi wymaganiami technicznymi i funkcjonalnymi zamieszczanymi w Biuletynie Informacji Publicznej ministra właściwego do spraw zdrowia, w terminie 9 miesięcy od dnia ich zamieszczenia.
+1. Usługodawcy, podmioty prowadzące rejestry medyczne oraz podmioty, o których mowa w art. 11c ust. 3 pkt 3 i 4, są obowiązani zapewniać zgodność swoich systemów teleinformatycznych z minimalnymi wymaganiami technicznymi i funkcjonalnymi zamieszczanymi w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw zdrowia w terminie 9 miesięcy, licząc od dnia ich zamieszczenia.
 
 2. Termin, o którym mowa w ust. 1, może ulec wydłużeniu przez ministra właściwego do spraw zdrowia, w drodze obwieszczenia.
 
-3. Minimalne wymagania techniczne i funkcjonalne, z wyjątkiem wymagań określonych w art. 8a i art. 8c, przed ich zamieszczeniem w Biuletynie Informacji Publicznej ministra właściwego do spraw zdrowia podlegają konsultacjom z usługodawcami i podmiotami prowadzącymi rejestry medyczne.
+3. Minimalne wymagania techniczne i funkcjonalne, z wyjątkiem wymagań określonych w art. 8a i art. 8c, przed ich zamieszczeniem w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia podlegają konsultacjom z usługodawcami, podmiotami prowadzącymi rejestry medyczne oraz podmiotami, o których mowa w art. 11c ust. 3 pkt 3 i 4.
 
 4. Konsultacje, o których mowa w ust. 3, prowadzi jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia, przez zamieszczenie na swojej stronie internetowej projektu minimalnych wymagań technicznych i funkcjonalnych, z wyjątkiem wymagań określonych w art. 8a i art. 8c, ze wskazaniem sposobu i terminu zgłaszania uwag.
 
@@ -380,7 +423,7 @@ source: pdf
 
 1. (uchylony)
 
-2. Jeżeli administrator danych przetwarzanych w SIM, dziedzinowych systemach teleinformatycznych lub rejestrach medycznych lub podmiot przez niego upoważniony zawarł umowę o powierzeniu przetwarzania danych osobowych, o której mowa w art. 28 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), podmiot, któremu powierzono przetwarzanie tych danych, jest obowiązany do stworzenia warunków organizacyjnych i technicznych zapewniających ochronę przetwarzanych danych, w szczególności zabezpieczenia danych przed nieuprawnionym dostępem, nielegalnym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą.
+2. Jeżeli administrator danych przetwarzanych w SIM, Platformie Usług Inteligentnych, dziedzinowych systemach teleinformatycznych lub rejestrach medycznych lub podmiot przez niego upoważniony zawarł umowę o powierzeniu przetwarzania danych osobowych, o której mowa w art. 28 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), podmiot, któremu powierzono przetwarzanie tych danych, jest obowiązany do stworzenia warunków organizacyjnych i technicznych zapewniających ochronę przetwarzanych danych, w szczególności zabezpieczenia danych przed nieuprawnionym dostępem do tych danych lub ich nielegalnym ujawnieniem, pozyskaniem, modyfikacją, uszkodzeniem, zniszczeniem lub utratą.
 
 3. Administrator danych, o którym mowa w ust. 2, lub podmiot przez niego upoważniony może kontrolować podmioty, którym powierzono przetwarzanie danych osobowych w zakresie realizacji wymagań, o których mowa w ust. 2, oraz sposobu realizacji celów powierzenia danych przetwarzanych w systemach, o których mowa w ust. 2.
 
@@ -396,20 +439,25 @@ source: pdf
 
 **Art. 10.**
 
-1. SIM jest systemem teleinformatycznym służącym przetwarzaniu danych dotyczących udzielonych, udzielanych i planowanych świadczeń opieki zdrowotnej udostępnianych przez systemy teleinformatyczne usługodawców.
+1. SIM jest systemem teleinformatycznym służącym przetwarzaniu danych dotyczących udzielonych, udzielanych i planowanych świadczeń opieki zdrowotnej, danych dotyczących stanu zdrowia, udostępnianych przez systemy teleinformatyczne usługodawców oraz danych przekazywanych przez usługobiorców lub ich przedstawicieli ustawowych oraz podmioty, o których mowa w art. 11c ust. 3 pkt 3 i 4.
 
 2. W powiązaniu z danymi, o których mowa w ust. 1, w SIM są przetwarzane i udostępniane w postaci elektronicznej:
 
-- **1)** dane osobowe i jednostkowe dane medyczne o usługobiorcach, w zakresie określonym w art. 4 ust. 3;
+- **1)** dane osobowe i jednostkowe dane medyczne o usługobiorcach w zakresie określonym w art. 4 ust. 3, w tym dane rejestrowane przez wyroby medyczne lub aplikacje wspierające dobrostan;
 - **2)** dane o usługodawcach;
 - **3)** dane o pracownikach medycznych;
 - **3a)** dane osób, o których mowa w art. 31b ust. 1;
 - **4)** dane o płatnikach, o których mowa w art. 2 pkt 9 lit. a;
 - **5)** dane dotyczące udzielonych świadczeń opieki zdrowotnej finansowanych lub współfinansowanych ze środków publicznych oraz kwoty środków publicznych wydatkowanych na sfinansowanie tych świadczeń, o których mowa w art. 192 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 - **6)** dane umożliwiające wymianę dokumentów elektronicznych pomiędzy usługodawcami oraz usługodawcami a płatnikami, o których mowa w art. 2 pkt 9 lit. a;
-- **7)** dane dotyczące produktów leczniczych.
+- **7)** dane dotyczące produktów leczniczych;
+- **8)** dane dotyczące wyrobów medycznych obejmujące: o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych,
+    - **a)** nazwę wyrobu medycznego,
+    - **b)** niepowtarzalny kod identyfikacyjny wyrobu medycznego,
+    - **c)** dane, o których mowa w art. 37 ust. 2 ustawy z dnia 12 maja 2011 r.
+    - **d)** dane określone w przepisach wydanych na podstawie art. 40 ust. 3 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej.
 
-3. Dane, o których mowa w ust. 2 pkt 1, są pozyskiwane do SIM z Centralnego Wykazu Usługobiorców, o którym mowa w art. 15, oraz z systemów informatycznych usługodawców.
+3. Dane, o których mowa w ust. 2 pkt 1 i 8, są pozyskiwane do SIM z Centralnego Wykazu Usługobiorców, o którym mowa w art. 15, z systemów teleinformatycznych usługodawców, od podmiotów, o których mowa w art. 11c ust. 3 pkt 3 i 4, i od usługobiorców lub ich przedstawicieli ustawowych.
 
 4. Dane, o których mowa w ust. 2 pkt 2, są pozyskiwane do SIM z Centralnego Wykazu Usługodawców, o którym mowa w art. 16.
 
@@ -423,6 +471,8 @@ source: pdf
 
 6b. Dane, o których mowa w ust. 2 pkt 7, są pozyskiwane do SIM z Centralnego Wykazu Produktów Leczniczych, o którym mowa w art. 17a.
 
+6c. Informacje przekazywane do SIM przez usługobiorców lub ich przedstawicieli ustawowych, w tym dane rejestrowane przez wyroby medyczne lub aplikacje wspierające dobrostan, podlegają odrębnemu oznaczeniu od danych pochodzących z dokumentacji medycznej.
+
 7. Administratorem systemu SIM jest jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia.
 
 8. Administratorem danych przetwarzanych w SIM jest minister właściwy do spraw zdrowia.
@@ -431,13 +481,13 @@ source: pdf
 
 1. Usługodawcy są obowiązani prowadzić elektroniczną dokumentację medyczną.
 
-1a. Elektroniczna dokumentacja medyczna jest prowadzona przez usługodawców w formatach zamieszczonych w Biuletynie Informacji Publicznej ministra właściwego do spraw zdrowia.
+1a. Elektroniczna dokumentacja medyczna, o której mowa w art. 2 pkt 6 lit. b i c, jest prowadzona przez usługodawców w formatach zamieszczonych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw zdrowia.
 
 1b. Usługodawcy są obowiązani dokonywać wymiany elektronicznej dokumentacji medycznej określonej w przepisach wydanych na podstawie art. 13a, zgodnie ze standardami wymiany elektronicznej dokumentacji medycznej, zamieszczonymi w Biuletynie Informacji Publicznej ministra właściwego do spraw zdrowia.
 
 2. Dane osobowe i jednostkowe dane medyczne, zawarte w elektronicznej dokumentacji medycznej usługobiorcy, zgromadzone w systemie teleinformatycznym usługodawcy, są udostępniane za pośrednictwem SIM.
 
-3. Usługodawca przekazuje do SIM dane zdarzenia medycznego przetwarzanego w systemie informacji w celu umożliwienia innemu usługodawcy pobrania danych osobowych lub jednostkowych danych medycznych zawartych w elektronicznej dokumentacji medycznej lub dokumentacji medycznej, o której mowa w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, niezbędnych do prowadzenia diagnostyki lub zapewnienia ciągłości leczenia. Dane te są udostępniane Narodowemu Funduszowi Zdrowia w celu rozliczania świadczeń opieki zdrowotnej.
+3. Usługodawca przekazuje do SIM dane zdarzenia medycznego przetwarzanego w systemie informacji w celu umożliwienia innemu usługodawcy pobrania danych osobowych lub jednostkowych danych medycznych zawartych w elektronicznej dokumentacji medycznej lub dokumentacji medycznej, o której mowa w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, niezbędnych do prowadzenia diagnostyki lub zapewnienia ciągłości leczenia. Dane dotyczące świadczeń finansowanych ze środków publicznych są udostępniane Narodowemu Funduszowi Zdrowia w celu rozliczania świadczeń opieki zdrowotnej.
 
 4. Dane zdarzenia medycznego przetwarzane w systemie informacji obejmują:
 
@@ -454,8 +504,8 @@ source: pdf
 5. Usługodawca zamieszcza w SIM:
 
 - **1)** w czasie rzeczywistym:
-    - **a)** recepty, o których mowa w art. 2 pkt 6 lit. a, oraz skierowania określone w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
-    - **b)** dane dotyczące realizacji recepty, o której mowa w art. 2 pkt 6 lit. a, lub zmiany statusu skierowania określonego w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+    - **a)** recepty, o których mowa w art. 2 pkt 6 lit. b tiret pierwsze, oraz skierowania, o których mowa w art. 2 pkt 6 lit. b tiret trzecie,
+    - **b)** dane dotyczące realizacji recepty, o której mowa w art. 2 pkt 6 lit. b tiret pierwsze, lub zmiany statusu skierowania, o którym mowa w art. 2 pkt 6 lit. b tiret trzecie;
 
 - **2)** wynik badania histopatologicznego niezwłocznie po jego sporządzeniu, który jest przechowywany w SIM przez okres wynikający z przepisów ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
 
@@ -520,7 +570,8 @@ source: pdf
 3. W systemie Krajowej Sieci Kardiologicznej są przetwarzane także dane o:
 
 - **1)** zdarzeniu medycznym – przetwarzane w systemie informacji, dotyczące usługobiorcy objętego opieką kardiologiczną w rozumieniu art. 2 pkt 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej;
-- **2)** udzielonych i planowanych świadczeniach opieki zdrowotnej finansowanych ze środków publicznych – przetwarzane w Systemie RUM – NFZ, o którym mowa w art. 22 ust. 1, dotyczące usługobiorcy objętego opieką kardiologiczną w rozumieniu art. 2 pkt 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej.
+- **2)** udzielonych i planowanych świadczeniach opieki zdrowotnej finansowanych ze środków publicznych – przetwarzane w Systemie RUM – NFZ, o którym mowa w art. 22 ust. 1, dotyczące usługobiorcy objętego opieką kardiologiczną w rozumieniu art. 2 pkt 12 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej;
+- **3)** usługobiorcy objętym opieką kardiologiczną – przetwarzane w systemie Domowej Opieki Medycznej i systemie e-Konsylium.
 
 4. Raporty, o których mowa w ust. 1, mogą być generowane z systemu Krajowej Sieci Kardiologicznej przez:
 
@@ -539,6 +590,137 @@ source: pdf
 - **2)** ośrodkowi koordynującemu, o którym mowa w art. 11 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej – w zakresie niezbędnym do realizacji jego zadań.
 
 6. Dane zawarte w systemie Krajowej Sieci Kardiologicznej mogą być udostępniane w celu prowadzenia badań naukowych i do celów statystycznych w sposób uniemożliwiający ich powiązanie z konkretną osobą fizyczną.
+
+**Art. 11c.**
+
+1. System Domowej Opieki Medycznej stanowi moduł SIM umożliwiający gromadzenie za pośrednictwem systemów teleinformatycznych lub systemów łączności danych osobowych i jednostkowych danych medycznych usługobiorcy rejestrowanych przez wyroby medyczne lub aplikacje wspierające dobrostan stosowane przez tego usługobiorcę lub zbieranych przez niego samodzielnie, oraz monitorowanie na podstawie tych danych stanu zdrowia usługobiorcy w celu zapewnienia mu adekwatnej do jego stanu zdrowia opieki zdrowotnej.
+
+2. W systemie Domowej Opieki Medycznej są przetwarzane:
+
+- **1)** dane osobowe usługobiorcy obejmujące:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** identyfikator, o którym mowa w art. 17c ust. 2,
+    - **c)** numer telefonu,
+    - **d)** adres poczty elektronicznej;
+
+- **2)** jednostkowe dane medyczne usługobiorcy obejmujące wyniki badań diagnostycznych, zalecenia i ordynacje lekarskie, a także pomiary i obserwacje istotne dla oceny stanu zdrowia usługobiorcy wprowadzane przez niego samodzielnie lub rejestrowane przez wyroby medyczne lub aplikacje wspierające dobrostan;
+- **3)** dane dotyczące usługodawców obejmujące:
+    - **a)** nazwę podmiotu leczniczego,
+    - **b)** nazwę zakładu leczniczego,
+    - **c)** nazwę jednostki organizacyjnej – w przypadku podmiotu leczniczego, w którego strukturze organizacyjnej wyodrębniono jednostki organizacyjne,
+    - **d)** identyfikator miejsca udzielania świadczeń, o którym mowa w art. 17c ust. 4 pkt 1;
+
+- **4)** dane pracowników medycznych obejmujące:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** identyfikator, o którym mowa w art. 17c ust. 5,
+    - **c)** zawód medyczny;
+
+- **5)** nazwa podmiotu, o którym mowa w ust. 3 pkt 3 lub 4;
+- **6)** dane dotyczące wyrobów medycznych, o których mowa w art. 10 ust. 2 pkt 8;
+- **7)** dane identyfikujące aplikację wspierającą dobrostan, w szczególności:
+    - **a)** nazwa aplikacji lub
+    - **b)** numer seryjny, lub
+    - **c)** identyfikator urządzenia.
+
+3. Dane, o których mowa w ust. 2, są przekazywane do systemu Domowej Opieki Medycznej w zakresie niezbędnym do realizacji celu określonego w ust. 1 przez:
+
+- **1)** usługobiorców – za pośrednictwem IKP;
+- **2)** usługodawców;
+- **3)** podmioty, które wprowadziły do obrotu lub do używania wyroby medyczne, które przysługują usługobiorcom w oparciu o przepisy wydane na podstawie art. 38 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych;
+- **4)** podmioty, które wprowadziły do obrotu lub do używania inne wyroby medyczne niż te, o których mowa w pkt 3, lub aplikacje wspierające dobrostan, wyłącznie na żądanie pacjenta i za jego zgodą.
+
+4. Podmioty, o których mowa w ust. 3 pkt 3 i 4, mogą przekazywać dane wyłącznie po spełnieniu warunków, o których mowa w art. 8b ust. 1.
+
+5. Minister właściwy do spraw zdrowia zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw zdrowia wykaz wyrobów medycznych lub aplikacji wspierających dobrostan rejestrujących dane usługobiorców, wprowadzonych do obrotu lub do używania przez podmioty, o których mowa w ust. 3 pkt 3 i 4, których systemy spełniają warunki, o których mowa w art. 8b ust. 1, i przekazują dane do systemu Domowej Opieki Medycznej.
+
+6. Dane, o których mowa w ust. 2, są przechowywane w systemie Domowej Opieki Medycznej przez okres 5 lat, licząc od końca roku kalendarzowego, w którym je wprowadzono lub przekazano.
+
+7. Minister właściwy do spraw zdrowia przekazuje między systemem Domowej Opieki Medycznej a SIM dane, o których mowa w ust. 2 pkt 1 lit. a i b oraz pkt 2–6, w celu monitorowania polityki zdrowotnej państwa oraz podnoszenia jakości i zwiększania dostępności świadczeń opieki zdrowotnej, a także w celu monitorowania stanu zdrowia usługobiorców oraz zapewnienia im adekwatnej do ich stanu zdrowia opieki zdrowotnej.
+
+8. Minister właściwy do spraw zdrowia udostępnia dane gromadzone w systemie Domowej Opieki Medycznej, o których mowa w ust. 2:
+
+- **1)** Narodowemu Funduszowi Zdrowia,
+- **2)** Agencji Badań Medycznych,
+- **3)** Agencji Oceny Technologii Medycznych i Taryfikacji,
+- **4)** Urzędowi Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych – w celu monitorowania polityki zdrowotnej państwa oraz podnoszenia jakości i zwiększania dostępności świadczeń opieki zdrowotnej, a także w celu oceny skuteczności klinicznej i efektywności kosztowej technologii medycznych.
+
+**Art. 11d.**
+
+1. System e-Konsylium stanowi moduł SIM umożliwiający usługodawcy udzielającemu świadczeń opieki zdrowotnej finansowanych ze środków publicznych przeprowadzanie na jego wniosek konsultacji medycznych z innym usługodawcą za pośrednictwem systemów teleinformatycznych lub systemów łączności w ramach udzielania świadczeń opieki zdrowotnej przez wnioskującego usługodawcę.
+
+2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, świadczenia opieki zdrowotnej, w ramach których jest możliwe przeprowadzanie konsultacji medycznych w systemie e-Konsylium, mając na uwadze specyfikę realizacji świadczeń opieki zdrowotnej, w przypadku których jest możliwe przeprowadzanie konsultacji medycznych za pośrednictwem systemów teleinformatycznych lub systemów łączności, bez pogorszenia jakości i bezpieczeństwa udzielania świadczeń opieki zdrowotnej, wydajność, poziom dostępności, przepustowość i skalowalność systemu e-Konsylium oraz zapewnienie bezpieczeństwa i integralności danych przetwarzanych w celu przeprowadzania konsultacji medycznych.
+
+3. W systemie e-Konsylium są przetwarzane:
+
+- **1)** dane usługobiorców, o których mowa w art. 4 ust. 3 pkt 1 lit. a–c, g–j, k–p oraz u–w i pkt 2, pochodzące z SIM oraz dokumentacji medycznej usługobiorcy niezbędne do przeprowadzania konsultacji medycznych;
+- **2)** dane dotyczące usługodawców obejmujące:
+    - **a)** nazwę podmiotu leczniczego,
+    - **b)** nazwę zakładu leczniczego,
+    - **c)** nazwę jednostki organizacyjnej – w przypadku podmiotu leczniczego, w którego strukturze organizacyjnej wyodrębniono jednostki organizacyjne,
+    - **d)** identyfikator miejsca udzielania świadczeń, o którym mowa w art. 17c ust. 4 pkt 1;
+
+- **3)** dane pracowników medycznych obejmujące:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** identyfikator, o którym mowa w art. 17c ust. 5,
+    - **c)** zawód medyczny,
+    - **d)** numer telefonu kontaktowego,
+    - **e)** adres poczty elektronicznej.
+
+4. W ramach przeprowadzania konsultacji medycznych, o których mowa w ust. 1, jest sporządzana karta konsultacji oraz opis przeprowadzanej konsultacji medycznej, o których mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, a także może być dokonane nagranie dźwięku lub obrazu przeprowadzanej konsultacji medycznej.
+
+5. Dane, o których mowa w ust. 3, są przechowywane w systemie e-Konsylium w przypadku:
+
+- **1)** dokumentów, o których mowa w ust. 4 – przez okres 20 lat, licząc od końca roku kalendarzowego, w którym sporządzono opis przeprowadzanej konsultacji medycznej;
+- **2)** nagrania, o którym mowa w ust. 4 – przez okres 9 miesięcy od dnia zakończenia przeprowadzanej konsultacji medycznej;
+- **3)** innych danych medycznych przetwarzanych w systemie e-Konsylium – przez okres 3 miesięcy od dnia zakończenia przeprowadzanej konsultacji medycznej.
+
+6. Nagranie, o którym mowa w ust. 4, jest przechowywane w systemie e-Konsylium w celu zapewnienia jakości i kompletności dokumentacji medycznej usługobiorcy w sposób zapewniający jego integralność, poufność i rozliczalność, w szczególności z zastosowaniem kontroli dostępu oraz rejestrowania operacji dostępu.
+
+7. Dane, o których mowa w ust. 3, pochodzące z dokumentacji medycznej usługobiorcy są przekazywane do systemu e-Konsylium przez usługodawców.
+
+8. Minister właściwy do spraw zdrowia przekazuje do systemu e-Konsylium dane, o których mowa w ust. 3, przetwarzane w SIM, a także przekazuje do SIM dokumenty, o których mowa w ust. 4, przetwarzane w systemie e-Konsylium w celu monitorowania polityki zdrowotnej państwa oraz podnoszenia jakości i zwiększania dostępności świadczeń opieki zdrowotnej, a także w celu monitorowania stanu zdrowia usługobiorców oraz zapewnienia im adekwatnej do ich stanu zdrowia opieki zdrowotnej.
+
+9. Minister właściwy do spraw zdrowia może udostępnić dokumenty, o których mowa w ust. 4, gromadzone w systemie e-Konsylium:
+
+- **1)** Narodowemu Funduszowi Zdrowia,
+- **2)** Agencji Badań Medycznych,
+- **3)** Agencji Oceny Technologii Medycznych i Taryfikacji – w celu monitorowania polityki zdrowotnej państwa oraz podnoszenia jakości i zwiększania dostępności świadczeń opieki zdrowotnej.
+
+**Art. 11e.**
+
+1. Hurtownia Danych e-Zdrowia stanowi moduł SIM będący zorganizowanym, spójnym i interoperacyjnym zbiorem danych pochodzących z baz danych, systemów administracji publicznej, rejestrów medycznych oraz narzędzi analitycznych, umożliwiający ich przetwarzanie w sposób zapewniający ich integralność, bezpieczeństwo i dostępność.
+
+2. Hurtownia Danych e-Zdrowia gromadzi dane przetwarzane w:
+
+- **1)** systemach, o których mowa w art. 5 ust. 1;
+- **2)** rejestrze podmiotów wykonujących działalność leczniczą, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **3)** Krajowym Rejestrze Zezwoleń na Prowadzenie Aptek Ogólnodostępnych, Punktów Aptecznych oraz Rejestrze Udzielonych Zezwoleń na Prowadzenie Aptek Szpitalnych i Zakładowych, o którym mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne;
+- **4)** systemach teleinformatycznych, dla których administratorem danych jest minister właściwy do spraw zdrowia lub są organy, o których mowa w art. 33 ust. 2 ustawy z dnia 4 września 1997 r. o działach administracji rządowej, albo jest Narodowy Fundusz Zdrowia.
+
+3. Zbiory danych pochodzące z baz danych, systemów administracji publicznej, rejestrów medycznych oraz narzędzi analitycznych po przekazaniu do Hurtowni Danych e-Zdrowia są pseudonimizowane.
+
+4. Dane pseudonimizowane gromadzone w Hurtowni Danych e-Zdrowia przetwarza się w celu:
+
+- **1)** prowadzenia analiz epidemiologicznych i statystycznych;
+- **2)** mapowania potrzeb zdrowotnych;
+- **3)** monitorowania jakości i dostępności świadczeń opieki zdrowotnej;
+- **4)** oceny kosztów i efektywności świadczeń opieki zdrowotnej;
+- **5)** identyfikowania potrzeb zdrowotnych populacji, w tym planowania polityki zdrowotnej i wydatkowania środków publicznych;
+- **6)** prowadzenia analiz wspierających wykonywanie zadań ustawowych określonych w odrębnych przepisach przez organy administracji publicznej oraz podmioty nadzorowane przez ministra właściwego do spraw zdrowia.
+
+5. Dane przetwarzane w Hurtowni Danych e-Zdrowia podlegają zabezpieczeniom organizacyjnym i technicznym adekwatnym do ryzyka zgodnie z art. 32 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych).
+
+6. Dane umożliwiające identyfikację osoby fizycznej, w tym numery PESEL, przechowuje się w Hurtowni Danych e-Zdrowia również po śmierci osoby, której dotyczą, wyłącznie w celu zapewnienia spójności analiz i wprowadzania danych historycznych z innych systemów.
+
+7. Dane gromadzone w Hurtowni Danych e-Zdrowia przechowuje się przez okres niekrótszy niż okres przechowywania dokumentacji medycznej, z której pochodzą te dane, określony w art. 29 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
+
+8. Analizy, o których mowa w ust. 4 pkt 1 i 6, oraz inne dokumenty tworzone w wyniku realizacji celów, o których mowa w ust. 4, są udostępniane:
+
+- **1)** Agencji Oceny Technologii Medycznych i Taryfikacji,
+- **2)** Głównemu Inspektorowi Farmaceutycznemu,
+- **3)** Narodowemu Funduszowi Zdrowia,
+- **4)** Głównemu Inspektorowi Sanitarnemu,
+- **5)** innym podmiotom upoważnionym na podstawie odrębnych przepisów – w celu realizacji ich zadań.
 
 **Art. 12.**
 
@@ -563,11 +745,16 @@ source: pdf
     - **a)** oświadczeń, o których mowa w art. 7a ust. 1 pkt 3–5 i 9,
     - **b)** deklaracji wyboru, o których mowa w art. 10 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej,
     - **c)** wniosków o wydanie EKUZ,
-    - **d)** wniosków i skarg, o których mowa w art. 7a ust. 1 pkt 14;
+    - **d)** wniosków i skarg, o których mowa w art. 7a ust. 1 pkt 14,
+    - **e)** zamówień, o których mowa w art. 7a ust. 1 pkt 19;
 
 - **3c)** umożliwienia lekarzom, lekarzom dentystom, pielęgniarkom, położnym, felczerom, starszym felczerom, fizjoterapeutom, farmaceutom, technikom farmaceutycznym oraz osobom wykonującym czynności pomocnicze przy udzielaniu świadczeń opieki zdrowotnej pozyskiwania informacji, o których mowa w art. 4 ust. 3 pkt 1 lit. n oraz o;
 - **3d)** umożliwienia usługobiorcom uczestnictwa w badaniach ankietowych w zakresie jakości opieki zdrowotnej;
 - **3e)** umożliwienia usługobiorcom realizacji recept transgranicznych;
+- **3f)** umożliwienia pracownikom medycznym dostępu do danych zawartych w karcie pacjenta;
+- **3g)** generowania i udostępniania na podstawie zindywidualizowanych jednostkowych danych medycznych analiz i raportów służących do oceny stanu zdrowia usługobiorcy i stosowanych u niego terapii;
+- **3h)** umożliwienia usługobiorcom samodzielnego przekazywania informacji istotnych dla oceny stanu ich zdrowia oraz dostępu do analiz i raportów generowanych na podstawie tych informacji;
+- **3i)** generowania usługobiorcom i pracownikom medycznym dostępu do danych rejestrowanych przez wyroby medyczne lub aplikacje wspierające dobrostan stosowane przez usługobiorców;
 - **4)** analizy przepływu środków publicznych przeznaczonych na finansowanie świadczeń opieki zdrowotnej;
 - **5)** uzyskania informacji niezbędnych do wykonywania zadań określonych w art. 10 i art. 11 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych przez podmioty wymienione w tych przepisach;
 - **6)** dokonywania przez uprawnione podmioty oceny zapotrzebowania na świadczenia opieki zdrowotnej oraz przetwarzania danych dla potrzeb rejestrów medycznych, o których mowa w art. 19;
@@ -604,9 +791,15 @@ source: pdf
 
 **Art. 13b.**
 
-1. Usługodawca może dokonać zmiany postaci dokumentacji medycznej prowadzonej i przechowywanej w postaci papierowej na postać elektroniczną, zwanej dalej „digitalizacją dokumentacji medycznej”, z wyłączeniem dokumentacji medycznej będącej materiałem archiwalnym w rozumieniu art. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164 oraz z 2025 r. poz. 1173).
+1. Usługodawca może dokonać zmiany postaci dokumentacji medycznej prowadzonej i przechowywanej w postaci papierowej na postać elektroniczną, zwanej dalej „digitalizacją dokumentacji medycznej”.
 
-2. Digitalizacja dokumentacji medycznej następuje przez sporządzenie jej odwzorowania cyfrowego i opatrzenie go kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym przez osobę upoważnioną przez usługodawcę do potwierdzenia zgodności odwzorowania cyfrowego z dokumentem w postaci papierowej.
+2. Digitalizacja dokumentacji medycznej następuje przez sporządzenie jej odwzorowania cyfrowego i opatrzenie go kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym lub zaawansowaną pieczęcią elektroniczną weryfikowaną kwalifikowanym certyfikatem usługodawcy przez osobę upoważnioną przez usługodawcę do potwierdzenia zgodności odwzorowania cyfrowego z dokumentem w postaci papierowej.
+
+2a. Digitalizacja dokumentacji medycznej może nastąpić również przez sporządzenie jej odwzorowania cyfrowego za pomocą narzędzia informatycznego i opatrzenie go kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym lub zaawansowaną pieczęcią elektroniczną weryfikowaną kwalifikowanym certyfikatem usługodawcy przez osobę upoważnioną przez usługodawcę do potwierdzenia zgodności odwzorowania cyfrowego z dokumentem w postaci papierowej.
+
+2b. Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia może udostępniać nieodpłatnie narzędzie informatyczne przeznaczone do digitalizacji dokumentacji medycznej.
+
+2c. Minister właściwy do spraw zdrowia zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw zdrowia rodzaje dokumentacji medycznej możliwej do digitalizacji za pomocą narzędzia informatycznego, o którym mowa w ust. 2b.
 
 3. Dokument powstały w wyniku digitalizacji dokumentacji medycznej jest równoważny oryginałowi tego dokumentu.
 
@@ -614,6 +807,8 @@ source: pdf
 
 - **1)** digitalizacji dokumentacji medycznej;
 - **2)** możliwości odbioru dokumentacji medycznej w postaci papierowej we wskazanym terminie, niekrótszym niż 1 rok od dnia przekazania informacji, o której mowa w pkt 1.
+
+4a. Podmiot udzielający świadczeń zdrowotnych może przekazać do SIM za pomocą narzędzia, o którym mowa w ust. 2a, dokument powstały w wyniku digitalizacji.
 
 5. Prawo odbioru dokumentacji medycznej w postaci papierowej przysługuje usługobiorcy, jego przedstawicielowi ustawowemu lub osobie upoważnionej przez usługobiorcę, a po śmierci usługobiorcy także osobie bliskiej na zasadach określonych w art. 26 ust. 2–2b ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
 
@@ -692,11 +887,11 @@ source: pdf
 
 4. (uchylony)
 
-5. Usługodawca wykorzystuje certyfikat do uwierzytelniania danych w celu potwierdzenia pochodzenia i integralności danych w odniesieniu do procesów realizowanych w ramach SIM oraz dziedzinowych systemów teleinformatycznych.
+5. Usługodawca wykorzystuje certyfikat do uwierzytelniania danych w celu potwierdzenia pochodzenia i integralności danych w odniesieniu do procesów realizowanych w ramach SIM, Platformy Usług Inteligentnych oraz dziedzinowych systemów teleinformatycznych.
 
 5a. Usługodawca wykorzystuje certyfikat do uwierzytelniania systemu w celu uwierzytelnienia systemu teleinformatycznego usługodawcy:
 
-- **1)** w SIM;
+- **1)** w SIM i Platformie Usług Inteligentnych;
 - **2)** w procesie wymiany elektronicznej dokumentacji medycznej między systemami teleinformatycznymi usługodawców.
 
 6. Dane do Centralnego Wykazu Usługodawców są przekazywane przez:
@@ -717,7 +912,7 @@ source: pdf
 - **3)** (uchylony)
 - **4)** prawa wykonywania zawodu, jeżeli dotyczy;
 - **4a)** indywidualnego identyfikatora wpisu, o którym mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych, w przypadku osób, o których mowa w art. 1 ust. 1 pkt 1 tej ustawy;
-- **4b)** informacji, o których mowa w art. 4 ust. 1 pkt 3, 4, 9 i 12 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych, w przypadku osób, o których mowa w art. 1 ust. 1 pkt 1 tej ustawy;
+- **4b)** informacji, o których mowa w art. 4 ust. 1 pkt 3, 4 i 9–14 ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych, w przypadku osób, o których mowa w art. 1 ust. 1 pkt 1 tej ustawy;
 - **5)** (uchylony)
 - **6)** identyfikatorów nadanych w innych rejestrach medycznych – jeżeli dotyczy;
 - **7)** daty zgonu albo daty znalezienia zwłok, jeżeli dotyczą;
@@ -740,7 +935,7 @@ source: pdf
 
 5a. Dane dotyczące specjalizacji są przekazywane do Centralnego Wykazu Pracowników Medycznych za pośrednictwem Systemu Monitorowania Kształcenia Pracowników Medycznych.
 
-6. Minister właściwy do spraw zdrowia przekazuje datę zgonu albo datę znalezienia zwłok pracownika medycznego, o którym mowa w ust. 1, do podmiotów prowadzących rejestry medyczne pracowników medycznych.
+6. Minister właściwy do spraw zdrowia przekazuje datę zgonu albo datę znalezienia zwłok pracownika medycznego, o którym mowa w ust. 1, do podmiotów prowadzących rejestry pracowników medycznych.
 
 **Art. 17a.**
 
@@ -795,7 +990,7 @@ source: pdf
 
 1. Podstawą identyfikacji w systemie informacji usługobiorcy, usługodawcy, miejsca udzielenia świadczenia opieki zdrowotnej, pracownika medycznego i osoby upoważnionej, o której mowa w art. 31b ust. 1, jest unikalny identyfikator.
 
-2. Identyfikator usługobiorcy stanowi numer PESEL usługobiorcy, a w przypadku osób, którym nie nadano numeru PESEL – seria i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501.
+2. Identyfikator usługobiorcy stanowi numer PESEL usługobiorcy, a w przypadku osób, którym nie nadano numeru PESEL – seria i numer paszportu albo innego dokumentu stwierdzającego tożsamość, albo w przypadku transgranicznej opieki zdrowotnej identyfikator usługodawcy stanowi niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501, albo osobisty numer identyfikacyjny, o którym mowa w tabeli 2 załącznika do rozporządzenia wykonawczego Komisji (UE) 2024/2977 z dnia 28 listopada 2024 r. w sprawie ustanowienia zasad stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w odniesieniu do danych identyfikujących osobę i elektronicznych poświadczeń atrybutów wydawanych europejskim portfelom tożsamości cyfrowej (Dz. Urz. UE L 2024/2977 z 04.12.2024), albo numer dokumentu, o którym mowa w tabeli 5 załącznika do tego rozporządzenia.
 
 3. Identyfikator usługodawcy stanowi:
 
@@ -995,7 +1190,12 @@ source: pdf
 
 5. System RUM – NFZ jest finansowany ze środków Narodowego Funduszu Zdrowia.
 
-6. System RUM – NFZ udostępnia SIM dane dotyczące świadczeń opieki zdrowotnej finansowanych ze środków publicznych, o których mowa w przepisach wydanych na podstawie art. 190 ust. 1–3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, dane dotyczące realizacji recept na leki refundowane, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, o których mowa w art. 45a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, oraz dane przetwarzane w elektronicznym systemie monitorowania programów zdrowotnych, o których mowa w art. 188e ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, pozwalające na dokonywanie oceny spełniania przez świadczeniobiorców kryteriów włączenia do programu zdrowotnego w celu weryfikacji dopuszczalności dokonania zgłoszenia centralnego na świadczenie realizowane w ramach programu zdrowotnego.
+6. System RUM – NFZ udostępnia SIM dane:
+
+- **1)** dotyczące świadczeń opieki zdrowotnej finansowanych ze środków publicznych, o których mowa w przepisach wydanych na podstawie art. 190 ust. 1–3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **2)** dotyczące realizacji recept na leki refundowane, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, o których mowa w art. 45a ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych;
+- **3)** przetwarzane w elektronicznym systemie monitorowania programów zdrowotnych, o których mowa w art. 188e ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, pozwalające na dokonywanie oceny spełniania przez świadczeniobiorców kryteriów włączenia do programu zdrowotnego w celu weryfikacji dopuszczalności dokonania zgłoszenia centralnego na świadczenie realizowane w ramach programu zdrowotnego;
+- **4)** dotyczące udzielonych i planowanych świadczeń opieki zdrowotnej realizowanych w ramach programów zdrowotnych obejmujących profilaktykę zdrowotną świadczeniobiorców w celu umożliwienia zapewnienia tym świadczeniobiorcom świadczeń gwarantowanych realizowanych w ramach podstawowej opieki zdrowotnej lub programów zdrowotnych.
 
 7. (uchylony)
 
@@ -1115,13 +1315,13 @@ source: pdf
 
 **Art. 27.**
 
-1. System Monitorowania Dostępności do Świadczeń Opieki Zdrowotnej jest systemem teleinformatycznym, w którym przetwarzane są zbiorcze dane i informacje, o których mowa w art. 20 i art. 23 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, przekazywane przez Narodowy Fundusz Zdrowia oraz zbiorcze dane uzyskane na podstawie art. 10 ust. 2 pkt 1.
+1. System Monitorowania Dostępności do Świadczeń Opieki Zdrowotnej jest systemem teleinformatycznym Narodowego Funduszu Zdrowia, w którym są przetwarzane dane i informacje, o których mowa w art. 23 ust. 1–6 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, gromadzone przez Narodowy Fundusz Zdrowia.
 
 2. (uchylony)
 
-3. Administratorem danych przetwarzanych w Systemie Monitorowania Dostępności do Świadczeń Opieki Zdrowotnej jest minister właściwy do spraw zdrowia.
+3. Administratorem danych przetwarzanych w Systemie Monitorowania Dostępności do Świadczeń Opieki Zdrowotnej jest Narodowy Fundusz Zdrowia.
 
-4. Administratorem systemu jest jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia.
+4. Administratorem Systemu Monitorowania Dostępności do Świadczeń Opieki Zdrowotnej jest Narodowy Fundusz Zdrowia.
 
 **Art. 28.**
 
@@ -1264,13 +1464,16 @@ source: pdf
 - **6)** określenie przyczyny cofnięcia albo wygaśnięcia upoważnienia;
 - **7)** unikalny identyfikator upoważnienia nadany przez RAM.
 
-8. Minister właściwy do spraw zdrowia udostępnia odpowiednio usługodawcom w odniesieniu do recept, zleceń na zaopatrzenie, zleceń naprawy, skierowań i Karty Szczepień lub Zakładowi Ubezpieczeń Społecznych w odniesieniu do zaświadczeń lekarskich raz dziennie, za pośrednictwem systemu teleinformatycznego, informacje, o których mowa w ust. 7 pkt 1 lit. b, pkt 2 lit. b oraz pkt 3–5, a także datę ostatniej aktualizacji wpisu w RAM i przyczynę tej aktualizacji, w formie dokumentu elektronicznego, zapisanego w formacie XML oraz opatrzonego pieczęcią elektroniczną.
+8. Minister właściwy do spraw zdrowia udostępnia:
+
+- **1)** usługodawcom w odniesieniu do elektronicznej dokumentacji medycznej, o której mowa w art. 2 pkt 6 lit. b i c, lub
+- **2)** Zakładowi Ubezpieczeń Społecznych w odniesieniu do zaświadczeń lekarskich – raz dziennie, za pośrednictwem systemu teleinformatycznego, informacje, o których mowa w ust. 7 pkt 1 lit. b, pkt 2 lit. b oraz pkt 3–5, a także datę ostatniej aktualizacji wpisu w RAM i przyczynę tej aktualizacji, w formie dokumentu elektronicznego, zapisanego w formacie XML oraz opatrzonego pieczęcią elektroniczną.
 
 9. Zakład Ubezpieczeń Społecznych, na podstawie udostępnionej informacji, o której mowa w ust. 7 pkt 1 lit. b i pkt 2 lit. b, dokonuje weryfikacji, czy możliwe jest udostępnienie osobie upoważnionej możliwości wystawiania zaświadczeń lekarskich w formie dokumentu elektronicznego za pośrednictwem systemu teleinformatycznego udostępnionego bezpłatnie przez Zakład Ubezpieczeń Społecznych, i przekazuje wynik tej weryfikacji ministrowi właściwemu do spraw zdrowia przez wprowadzenie tego wyniku do RAM, za pośrednictwem systemu teleinformatycznego obsługującego ten rejestr, w formie dokumentu elektronicznego, zapisanego w formacie XML oraz opatrzonego pieczęcią elektroniczną.
 
 10. Upoważnienie do wystawiania zaświadczeń lekarskich obowiązuje od dnia otrzymania z Zakładu Ubezpieczeń Społecznych informacji o pozytywnym wyniku weryfikacji, o której mowa w ust. 9, albo od wprowadzonej przez wystawiającego zaświadczenie lekarskie daty obowiązywania upoważnienia do wystawiania zaświadczeń lekarskich – w zależności, która z okoliczności nastąpi później.
 
-11. Upoważnienie do wystawiania recept, zleceń na zaopatrzenie, zleceń naprawy i skierowań, a także do dokonywania wpisów w Karcie Szczepień obowiązuje od dnia następującego po dniu jego udzielenia albo od wprowadzonej przez wystawiającego daty obowiązywania upoważnienia – w zależności, która z okoliczności nastąpi później.
+11. Upoważnienie do wystawiania elektronicznej dokumentacji medycznej, o której mowa w art. 2 pkt 6 lit. b i c, lub do dokonywania w niej wpisów obowiązuje od dnia następującego po dniu jego udzielenia albo od wprowadzonej przez wystawiającego daty obowiązywania upoważnienia – w zależności, która z okoliczności nastąpi później.
 
 12. Upoważnienia, o których mowa w ust. 1, są przechowywane w RAM.
 
@@ -1286,9 +1489,76 @@ source: pdf
 
 2. System Obsługi Importu Docelowego umożliwia składanie zapotrzebowań, o których mowa w art. 4 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zgłoszenia o konieczności wydania zgody na czasowe dopuszczenie do obrotu produktu leczniczego, o którym mowa w art. 4 ust. 8 tej ustawy, a także zapotrzebowań, o których mowa w art. 29a ust. 2 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448 oraz z 2025 r. poz. 1424), rozpatrzenie złożonego zapotrzebowania lub zgłoszenia oraz komunikację z ministrem właściwym do spraw zdrowia.
 
-3. System Obsługi Importu Docelowego zawiera również dane, o których mowa w art. 4d ust. 3 i art. 4e ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
+3. System Obsługi Importu Docelowego zawiera również dane, o których mowa w art. 4d ust. 3 i 4 i art. 4e ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 
 4. Administratorem danych przetwarzanych w Systemie Obsługi Importu Docelowego jest minister właściwy do spraw zdrowia.
+
+#### Rozdział 5a Platforma Usług Inteligentnych
+
+**Art. 31d.**
+
+1. Platforma Usług Inteligentnych jest systemem teleinformatycznym, który umożliwia usługodawcom będącym podmiotami leczniczymi prowadzącymi działalność leczniczą w rodzaju świadczenia szpitalne i udzielającym świadczeń finansowanych ze środków publicznych dostęp do certyfikowanych narzędzi z wykorzystaniem systemów i modeli sztucznej inteligencji, zwanych dalej „narzędziami wspomagającymi”.
+
+2. W Platformie Usług Inteligentnych przetwarza się:
+
+- **1)** dane dotyczące lekarzy i elektroradiologów korzystających z narzędzi wspomagających obejmujące:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** identyfikator, o którym mowa w art. 17c ust. 5,
+    - **c)** nazwę specjalizacji, jeżeli dotyczy;
+
+- **2)** dane dotyczące usługobiorcy obejmujące:
+    - **a)** identyfikator, o którym mowa w art. 17c ust. 2,
+    - **b)** wiek,
+    - **c)** płeć;
+
+- **3)** dane dotyczące usługodawcy obejmujące:
+    - **a)** nazwę podmiotu leczniczego,
+    - **b)** nazwę zakładu leczniczego,
+    - **c)** nazwę jednostki organizacyjnej – w przypadku podmiotu leczniczego, w którego strukturze organizacyjnej wyodrębniono jednostki organizacyjne,
+    - **d)** identyfikator miejsca udzielania świadczeń, o którym mowa w art. 17c ust. 4 pkt 1;
+
+- **4)** dane zawarte w skierowaniu, o którym mowa w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **5)** jednostkowe dane medyczne obejmujące:
+    - **a)** dane obrazowe, w tym dane biometryczne: cechy twarzy, sylwetki, układu kostnego lub innego materiału antropologicznego, uzyskane na podstawie badań rentgenowskich, rezonansu magnetycznego lub tomografii komputerowej,
+    - **b)** inne dane mające wpływ na wynik diagnostyki medycznej.
+
+3. Dane, o których mowa w ust. 2, są przekazywane do Platformy Usług Inteligentnych przez usługodawców w celu przeprowadzenia analizy przez dane narzędzie wspomagające.
+
+4. Dane, o których mowa w ust. 2, przetwarza się w Platformie Usług Inteligentnych w celu:
+
+- **1)** wsparcia procesu diagnostycznego przez dostarczenie usługodawcom, o których mowa w ust. 1, wyników analizy badań obrazowych;
+- **2)** weryfikacji i nadzoru nad działaniem narzędzi wspomagających;
+- **3)** monitorowania jakości i efektywności wykorzystania systemów i modeli sztucznej inteligencji w diagnostyce obrazowej, w tym zbierania danych w zakresie skuteczności tych systemów i modeli.
+
+5. Dane dotyczące usługobiorcy, o których mowa w ust. 2 pkt 2, i jednostkowe dane medyczne, o których mowa w ust. 2 pkt 5, przekazywane do przetwarzania przez narzędzia wspomagające podlegają pseudonimizacji w sposób uniemożliwiający bezpośrednią identyfikację osoby fizycznej, jeżeli nie uniemożliwia to wsparcia procesu diagnostycznego, o którym mowa w ust. 4 pkt 1.
+
+6. Dane umożliwiające identyfikację osoby fizycznej, w tym numery PESEL, przechowuje się w Platformie Usług Inteligentnych również po śmierci osoby, której dotyczą, wyłącznie w celu zapewnienia sporządzenia raportów i analiz.
+
+7. Dane obrazowe i wyniki analizy dokonanej przez narzędzia wspomagające są przechowywane do dnia pobrania wyników tej analizy przez usługodawcę, ale niedłużej niż przez okres 6 miesięcy od dnia przekazania danych obrazowych do Platformy Usług Inteligentnych przez usługodawcę.
+
+8. Po pobraniu przez usługodawcę wyników analizy dokonanej przez narzędzia wspomagające albo po upływie terminu, o którym mowa w ust. 7, dane obrazowe i wyniki tej analizy podlegają całkowitej i nieodwracalnej anonimizacji.
+
+9. Dane obrazowe i wyniki analizy dokonanej przez narzędzia wspomagające po anonimizacji, o której mowa w ust. 8, przetwarza się w Platformie Usług Inteligentnych w celu:
+
+- **1)** rozwoju i doskonalenia usług inteligentnych w zakresie wspomagania diagnostyki obrazowej;
+- **2)** prowadzenia prac naukowo-badawczych;
+- **3)** prowadzenia działań o charakterze edukacyjnym lub szkoleniowym.
+
+10. Minister właściwy do spraw zdrowia przekazuje do Platformy Usług Inteligentnych dane, o których mowa w ust. 2 pkt 1–4, przetwarzane w SIM, a także przekazuje do SIM dane, o których mowa w ust. 2, przetwarzane w Platformie Usług Inteligentnych w celu efektywnego korzystania z Platformy Usług Inteligentnych.
+
+11. Administratorem danych przetwarzanych w Platformie Usług Inteligentnych jest minister właściwy do spraw zdrowia.
+
+12. Administratorem Platformy Usług Inteligentnych jest jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia.
+
+13. Minister właściwy do spraw zdrowia zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw zdrowia informacje o narzędziach wspomagających dostępnych w ramach Platformy Usług Inteligentnych oraz maksymalną liczbę usługodawców, dla których jest możliwy dostęp do narzędzi wspomagających.
+
+14. Usługodawcy są podłączani do Platformy Usług Inteligentnych za pośrednictwem systemu, o którym mowa w art. 7 ust. 1, po zgłoszeniu deklaracji gotowości integracji ich systemów z Platformą Usług Inteligentnych.
+
+15. Deklarację, o której mowa w ust. 14, składa, w postaci elektronicznej, do jednostki, o której mowa w ust. 12, w imieniu usługodawcy osoba uprawniona do złożenia wniosku o wpis do rejestru podmiotów wykonujących działalność leczniczą, o którym mowa w art. 100 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
+
+16. Usługodawcy są podłączani do Platformy Usług Inteligentnych do czasu osiągnięcia maksymalnej liczby usługodawców, o której mowa w ust. 13, według kolejności wpływu deklaracji, o których mowa w ust. 14, z tym że w pierwszej kolejności są uwzględniani usługodawcy zakwalifikowani do systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej, o którym mowa w art. 95l ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+17. Minister właściwy do spraw zdrowia niezwłocznie zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw zdrowia informację o podłączeniu maksymalnej liczby usługodawców, o której mowa w ust. 13.
 
 #### Rozdział 6 Zasady przekazywania danych do systemu informacji i ich udostępniania
 
@@ -1314,15 +1584,16 @@ source: pdf
 
 1. Dostęp do danych osobowych lub jednostkowych danych medycznych usługobiorców, przetwarzanych w systemie teleinformatycznym usługodawcy lub w SIM, mają:
 
-- **1)** pracownik medyczny, który wytworzył elektroniczną dokumentację medyczną zawierającą dane osobowe lub jednostkowe dane medyczne usługobiorcy;
-- **2)** pracownik medyczny wykonujący zawód u usługodawcy, u którego została wytworzona elektroniczna dokumentacja medyczna zawierająca dane osobowe lub jednostkowe dane medyczne usługobiorcy, w związku z wykonywaniem przez niego zawodu u tego usługodawcy, jeżeli jest to niezbędne do prowadzenia diagnostyki lub zapewnienia ciągłości leczenia;
+- **1)** pracownik medyczny, który wytworzył elektroniczną dokumentację medyczną zawierającą dane osobowe lub jednostkowe dane medyczne usługobiorcy lub zlecił jej wytworzenie;
+- **2)** pracownik medyczny wykonujący zawód u usługodawcy, u którego została wytworzona elektroniczna dokumentacja medyczna zawierająca dane osobowe lub jednostkowe dane medyczne usługobiorcy lub na którego zlecenie zostało udzielone świadczenie opieki zdrowotnej lub została zrealizowana procedura medyczna, w związku z wykonywaniem przez niego zawodu u tego usługodawcy, jeżeli jest to niezbędne do prowadzenia diagnostyki lub zapewnienia ciągłości leczenia lub w celu rozliczania świadczeń opieki zdrowotnej;
 - **2a)** pracownik medyczny wykonujący zawód u usługodawcy udzielającego usługobiorcy świadczeń diagnostyki onkologicznej lub leczenia onkologicznego lub opieki kardiologicznej, jeżeli jest to niezbędne do monitorowania stanu zdrowia lub zapewnienia ciągłości opieki onkologicznej lub opieki kardiologicznej usługobiorcy;
 - **3)** lekarz, pielęgniarka lub położna udzielający usługobiorcy świadczeń opieki zdrowotnej w ramach umowy o udzielanie świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej;
+- **3a)** pracownik medyczny wykonujący zawód u usługodawcy, który zleca przeprowadzenie konsultacji medycznej w systemie e-Konsylium lub przeprowadza tę konsultację w tym systemie;
 - **4)** każdy pracownik medyczny w sytuacji zagrożenia życia usługobiorcy;
-- **5)** inne osoby wykonujące czynności pomocnicze przy udzielaniu świadczeń opieki zdrowotnej u usługodawcy, na podstawie upoważnienia udzielonego przez tego usługodawcę:
-    - **a)** u którego została wytworzona elektroniczna dokumentacja medyczna zawierająca dane osobowe lub jednostkowe dane medyczne usługobiorcy lub
-    - **b)** na którego zlecenie zostało udzielone świadczenie opieki zdrowotnej lub została zrealizowana procedura medyczna, lub
-    - **c)** realizującego świadczenia opieki zdrowotnej w ramach umowy o udzielanie świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej lub ambulatoryjnej opieki specjalistycznej.
+- **5)** inne osoby wykonujące czynności pomocnicze przy udzielaniu świadczeń opieki zdrowotnej u usługodawcy, na podstawie upoważnienia udzielonego przez tego usługodawcę realizującego: o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych – w zakresie niezbędnym do rejestracji na udzielenie świadczeń opieki zdrowotnej lub ich rozliczania.
+    - **a)** świadczenia opieki zdrowotnej w ramach koordynacji udzielania świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej lub
+    - **b)** świadczenia z zakresu diagnostyki onkologicznej lub leczenia onkologicznego lub opieki kardiologicznej, lub
+    - **c)** świadczenia opieki zdrowotnej, określone w przepisach wydanych na podstawie art. 23h ust. 2 pkt 1 ustawy z dnia 27 sierpnia 2004 r.
 
 1a. W przypadkach innych niż określone w ust. 1 udostępnienie danych osobowych lub jednostkowych danych medycznych z systemu teleinformatycznego usługodawcy lub z SIM następuje za zgodą usługobiorcy lub jego przedstawiciela ustawowego. Wyrażając zgodę, wskazuje się zakres czasowy i przedmiotowy dostępu do tych danych.
 
@@ -1400,7 +1671,7 @@ source: pdf
 - **2)** dbanie o rozwój systemu informacji;
 - **3)** prowadzenie stałego audytu rejestrów medycznych w ochronie zdrowia i systemów teleinformatycznych obsługujących te rejestry.
 
-4. Jednostka, o której mowa w ust. 2, składa ministrowi właściwemu do spraw zdrowia raz w roku, w terminie do dnia 31 marca, sprawozdanie z funkcjonowania systemu informacji. Sprawozdanie składa się za poprzedni rok kalendarzowy.
+4. Jednostka, o której mowa w ust. 2, składa ministrowi właściwemu do spraw zdrowia raz w roku, w terminie do dnia 31 marca, sprawozdanie z funkcjonowania systemów teleinformatycznych, dla których pełni funkcję administratora systemu. Sprawozdanie składa się za poprzedni rok kalendarzowy.
 
 5. W stosunku do jednostki, o której mowa w ust. 2, w zakresie przetwarzania przez nią jednostkowych danych medycznych, stosuje się odpowiednio przepisy art. 24 ust. 5 i 6 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
 

@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-02 |
 | Data wydania | 2022-01-05 |
-| Ostatnia zmiana | 2026-03-30 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/24/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -81,18 +81,18 @@ source: pdf
 - **23)** producent wina – producenta w rozumieniu art. 2 ust. 2 rozporządzenia 2018/273, który przetwarza na terytorium Rzeczypospolitej Polskiej świeże winogrona, moszcz winogronowy lub młode wino w trakcie fermentacji na wino lub moszcz;
 - **24)** drobny producent wina z upraw własnych – producenta wina spełniającego wymagania określone dla drobnego producenta w rozumieniu art. 2 ust. 3 rozporządzenia 2018/273, który wyrabia w danym roku winiarskim, biorąc pod uwagę średnią roczną produkcję co najmniej z trzech kolejnych lat winiarskich, średnio mniej niż 1000 hektolitrów wina, wyrobionego z surowców pochodzących z:
     - **a)** upraw własnych winorośli lub
-    - **b)** upraw winorośli położonych na obszarze województwa, w którym jest zlokalizowane miejsce wyrobu wina, lub powiatów sąsiadujących z tym województwem, w ilości nie większej niż 50% wagowo wszystkich surowców pochodzących z upraw winorośli;
+    - **b)** upraw winorośli położonych na obszarze województwa, w którym jest zlokalizowane miejsce wyrobu wina, lub powiatów sąsiadujących z tym województwem, w ilości niewiększej niż 50 % wagowo wszystkich surowców pochodzących z upraw winorośli;
 
 - **25)** produkty sektora wina – produkty, o których mowa w załączniku I część XII do rozporządzenia nr 1308/2013, z wyłączeniem octu winnego o kodach CN 2209 00 11 i 2209 00 19;
 - **26)** rok winiarski – rok gospodarczy, o którym mowa w art. 6 lit. d rozporządzenia nr 1308/2013;
 - **27)** rozlew – rozlewanie wyrobu winiarskiego do opakowań jednostkowych;
-- **28)** rzeczywista zawartość alkoholu – zawartość alkoholu w % objętościowych określoną przez liczbę jednostek objętości alkoholu 100% zawartą w 100 jednostkach objętości wyrobu winiarskiego w temperaturze 20°C.
+- **28)** rzeczywista zawartość alkoholu – zawartość alkoholu w % objętościowych określoną przez liczbę jednostek objętości alkoholu 100 % zawartą w 100 jednostkach objętości wyrobu winiarskiego w temperaturze 20 °C.
 
 **Art. 3.**
 
 1. Wyrobami winiarskimi w rozumieniu ustawy są:
 
-- **1)** fermentowane napoje winiarskie określone w art. 5 ust. 1, które są otrzymywane w drodze fermentacji alkoholowej nastawów, o których mowa w art. 2 pkt 11‒ 21, o rzeczywistej zawartości alkoholu przekraczającej 1,2% objętościowych, które mają smak, zapach i kolor specyficzne dla danego napoju, pochodzące od użytych do ich wyrobu surowców poddanych fermentacji; w przypadku ich aromatyzowania lub barwienia dopuszcza się zmianę smaku, zapachu lub koloru na pochodzący z procesu aromatyzowania lub barwienia, o ile takie procesy produkcyjne zostały przewidziane dla danej kategorii fermentowanego napoju winiarskiego;
+- **1)** fermentowane napoje winiarskie określone w art. 5 ust. 1, które są otrzymywane w drodze fermentacji alkoholowej nastawów, o których mowa w art. 2 pkt 11‒ 21, o rzeczywistej zawartości alkoholu przekraczającej 1,2 % objętościowych, które mają smak, zapach i kolor specyficzne dla danego napoju, pochodzące od użytych do ich wyrobu surowców poddanych fermentacji; w przypadku ich aromatyzowania lub barwienia dopuszcza się zmianę smaku, zapachu lub koloru na pochodzący z procesu aromatyzowania lub barwienia, o ile takie procesy produkcyjne zostały przewidziane dla danej kategorii fermentowanego napoju winiarskiego;
 - **2)** produkty sektora wina określone w załączniku VII część II pkt 1–9, 15 i 16 do rozporządzenia nr 1308/2013, zwane dalej „winami”;
 - **3)** aromatyzowane produkty sektora wina określone w art. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 251/2014 z dnia 26 lutego 2014 r. w sprawie definicji, opisu, prezentacji, etykietowania i ochrony oznaczeń geograficznych aromatyzowanych produktów sektora wina, uchylającego rozporządzenie Rady (EWG) nr 1601/91 (Dz. Urz. UE L 84 z 20.03.2014, str. 14, z późn. zm. ).
 
@@ -100,9 +100,7 @@ source: pdf
 
 **Art. 4.**
 
-1. Z uwzględnieniem zasad i warunków określonych w przepisach, o których mowa w art. 1 ust. 1 pkt 4, do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i
-
-- **2185)** , zwanej dalej „Kpa”, chyba że przepisy niniejszej ustawy stanowią inaczej.
+1. Z uwzględnieniem zasad i warunków określonych w przepisach, o których mowa w art. 1 ust. 1 pkt 4, do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), zwanej dalej „Kpa”, chyba że przepisy niniejszej ustawy stanowią inaczej.
 
 2. Jeżeli przepisy ustawy przewidują złożenie wniosku do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „KOWR”, lub do wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych, wniosek ten składa się na piśmie.
 
@@ -116,39 +114,39 @@ source: pdf
 
 1. Fermentowane napoje winiarskie oznacza się nazwami odpowiadającymi nazwom wymienionych poniżej kategorii, do których te napoje można zakwalifikować:
 
-- **1)** miód pitny jakościowy – będący miodem pitnym otrzymanym w wyniku fermentacji alkoholowej nastawu na miód pitny jakościowy, z możliwością słodzenia miodem, dodania ziół lub przypraw korzennych lub barwienia wyłącznie karmelem powstałym z miodu, leżakowanym nie krócej niż przez 6 miesięcy oraz w którym w wyrobie gotowym jedna część objętościowa miodu przypada na:
-    - **a)** połowę części objętościowej wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 15%, lecz nieprzekraczającej 18% objętościowych, z możliwością dodatku destylatu miodowego – w przypadku „półtoraka”,
-    - **b)** jedną część objętościową wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 15%, lecz nieprzekraczającej 18% objętościowych, z możliwością dodatku destylatu miodowego – w przypadku „dwójniaka”,
-    - **c)** dwie części objętościowe wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 12%, lecz nieprzekraczającej 15% objętościowych – w przypadku „trójniaka”,
-    - **d)** trzy części objętościowe wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 9%, lecz nieprzekraczającej 12% objętościowych – w przypadku „czwórniaka”;
+- **1)** miód pitny jakościowy – będący miodem pitnym otrzymanym w wyniku fermentacji alkoholowej nastawu na miód pitny jakościowy, z możliwością słodzenia miodem, dodania ziół lub przypraw korzennych lub barwienia wyłącznie karmelem powstałym z miodu, leżakowanym niekrócej niż przez 6 miesięcy oraz w którym w wyrobie gotowym jedna część objętościowa miodu przypada na:
+    - **a)** połowę części objętościowej wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 15 %, lecz nieprzekraczającej 18 % objętościowych, z możliwością dodatku destylatu miodowego – w przypadku „półtoraka”,
+    - **b)** jedną część objętościową wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 15 %, lecz nieprzekraczającej 18 % objętościowych, z możliwością dodatku destylatu miodowego – w przypadku „dwójniaka”,
+    - **c)** dwie części objętościowe wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 12 %, lecz nieprzekraczającej 15 % objętościowych – w przypadku „trójniaka”,
+    - **d)** trzy części objętościowe wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 9 %, lecz nieprzekraczającej 12 % objętościowych – w przypadku „czwórniaka”;
 
-- **2)** wino owocowe jakościowe – będące winem owocowym o rzeczywistej zawartości alkoholu od 8,5%, lecz nieprzekraczającej 15% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe jakościowe, z możliwością słodzenia sacharozą, moszczami owocowymi, zagęszczonymi sokami owocowymi lub miodem, leżakowanym nie krócej niż przez 3 miesiące;
-- **3)** cydr jakościowy – będący cydrem o rzeczywistej zawartości alkoholu przekraczającej 1,2%, lecz nieprzekraczającej 8,5% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na cydr jakościowy, z możliwością słodzenia moszczem jabłkowym, sokiem jabłkowym, zagęszczonym sokiem jabłkowym lub miodem;
-- **4)** perry jakościowe – będące perry o rzeczywistej zawartości alkoholu przekraczającej 1,2%, lecz nieprzekraczającej 8,5% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na perry jakościowe, z możliwością słodzenia moszczem gruszkowym, sokiem gruszkowym, zagęszczonym sokiem gruszkowym lub miodem;
-- **5)** cydr lodowy – będący napojem o rzeczywistej zawartości alkoholu od 7%, lecz nieprzekraczającej 15% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na cydr lodowy, bez dodatku wody, leżakowanym nie krócej niż przez 6 miesięcy;
-- **6)** perry lodowe – będące napojem o rzeczywistej zawartości alkoholu od 7%, lecz nieprzekraczającej 15% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na perry lodowe, bez dodatku wody, leżakowanym nie krócej niż przez 6 miesięcy;
+- **2)** wino owocowe jakościowe – będące winem owocowym o rzeczywistej zawartości alkoholu od 8,5 %, lecz nieprzekraczającej 15 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe jakościowe, z możliwością słodzenia sacharozą, moszczami owocowymi, zagęszczonymi sokami owocowymi lub miodem, leżakowanym niekrócej niż przez 3 miesiące;
+- **3)** cydr jakościowy – będący cydrem o rzeczywistej zawartości alkoholu przekraczającej 1,2 %, lecz nieprzekraczającej 8,5 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na cydr jakościowy, z możliwością słodzenia moszczem jabłkowym, sokiem jabłkowym, zagęszczonym sokiem jabłkowym lub miodem;
+- **4)** perry jakościowe – będące perry o rzeczywistej zawartości alkoholu przekraczającej 1,2 %, lecz nieprzekraczającej 8,5 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na perry jakościowe, z możliwością słodzenia moszczem gruszkowym, sokiem gruszkowym, zagęszczonym sokiem gruszkowym lub miodem;
+- **5)** cydr lodowy – będący napojem o rzeczywistej zawartości alkoholu od 7 %, lecz nieprzekraczającej 15 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na cydr lodowy, bez dodatku wody, leżakowanym niekrócej niż przez 6 miesięcy;
+- **6)** perry lodowe – będące napojem o rzeczywistej zawartości alkoholu od 7 %, lecz nieprzekraczającej 15 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na perry lodowe, bez dodatku wody, leżakowanym niekrócej niż przez 6 miesięcy;
 - **7)** miód pitny – będący napojem otrzymanym w wyniku fermentacji alkoholowej nastawu na miód pitny, z możliwością słodzenia sacharozą lub miodem, dodania ziół lub przypraw korzennych lub barwienia oraz w którym w wyrobie gotowym jedna część objętościowa miodu przypada na:
-    - **a)** połowę części objętościowej wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 15%, lecz nieprzekraczającej 18% objętościowych, z możliwością dodatku alkoholu – w przypadku „półtoraka”,
-    - **b)** jedną część objętościową wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 15%, lecz nieprzekraczającej 18% objętościowych, z możliwością dodatku alkoholu – w przypadku „dwójniaka”,
-    - **c)** dwie części objętościowe wody albo wody z sokiem oraz rzeczywistej zawartości alkoholu od 12%, lecz nieprzekraczającej 15% objętościowych – w przypadku „trójniaka”,
-    - **d)** trzy części objętościowe wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 9%, lecz nieprzekraczającej 12% objętościowych – w przypadku „czwórniaka”;
+    - **a)** połowę części objętościowej wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 15 %, lecz nieprzekraczającej 18 % objętościowych, z możliwością dodatku alkoholu – w przypadku „półtoraka”,
+    - **b)** jedną część objętościową wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 15 %, lecz nieprzekraczającej 18 % objętościowych, z możliwością dodatku alkoholu – w przypadku „dwójniaka”,
+    - **c)** dwie części objętościowe wody albo wody z sokiem oraz rzeczywistej zawartości alkoholu od 12 %, lecz nieprzekraczającej 15 % objętościowych – w przypadku „trójniaka”,
+    - **d)** trzy części objętościowe wody albo wody z sokiem oraz o rzeczywistej zawartości alkoholu od 9 %, lecz nieprzekraczającej 12 % objętościowych – w przypadku „czwórniaka”;
 
-- **8)** wino owocowe – będące napojem o rzeczywistej zawartości alkoholu od 8,5%, lecz nieprzekraczającej 15% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe, z możliwością słodzenia glukozą, fruktozą, zagęszczonym sokiem owocowym, sokiem owocowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e oraz f lub barwienia;
-- **9)** cydr – będący napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2%, lecz nieprzekraczającej 8,5% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na cydr, z możliwością słodzenia glukozą, fruktozą, zagęszczonym sokiem jabłkowym, sokiem jabłkowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e, f oraz g lub barwienia;
-- **10)** perry – będące napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2%, lecz nieprzekraczającej 8,5% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na perry, z możliwością słodzenia glukozą, fruktozą, zagęszczonym sokiem gruszkowym, sokiem gruszkowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e, f oraz g lub barwienia;
-- **11)** wino owocowe niskoalkoholowe – będące napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2%, lecz poniżej 8,5% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe albo z wina owocowego w wyniku częściowego usunięcia alkoholu wyłącznie metodami fizycznymi, z możliwością słodzenia glukozą, fruktozą, zagęszczonym sokiem owocowym, sokiem owocowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e, f oraz g lub barwienia;
-- **12)** wino owocowe likierowe – będące napojem o rzeczywistej zawartości alkoholu od 15%, lecz nieprzekraczającej 22% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe, z dodatkiem alkoholu rektyfikowanego lub destylatu owocowego, z możliwością słodzenia glukozą, fruktozą, zagęszczonym sokiem owocowym, sokiem owocowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e oraz f lub barwienia;
-- **13)** wino z soku winogronowego – będące napojem o rzeczywistej zawartości alkoholu od 8,5%, lecz nieprzekraczającej 18% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na wino z soku winogronowego, z możliwością dodania alkoholu rektyfikowanego lub destylatu winogronowego, słodzenia substancjami określonymi w art. 2 pkt 4 lit. a‒c, e oraz f lub barwienia;
-- **14)** wino miodowe – będące napojem o rzeczywistej zawartości alkoholu od 8,5%, lecz nieprzekraczającej 15% objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na miód pitny, z możliwością słodzenia zagęszczonym sokiem owocowym, sokiem owocowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e oraz f, dodania ziół lub przypraw korzennych lub barwienia;
-- **15)** napój winny owocowy – będący napojem o rzeczywistej zawartości alkoholu od 4,5%, lecz nieprzekraczającej 15% objętościowych, zawierającym co najmniej 50% objętościowych wina owocowego albo otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe o obniżonym maksymalnie o 50% udziale soków w nastawie, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒g lub barwienia;
-- **16)** napój winny miodowy – będący napojem o rzeczywistej zawartości alkoholu od 4,5%, lecz nieprzekraczającej 15% objętościowych, zawierającym co najmniej 50% objętościowych miodu pitnego albo otrzymanym w wyniku fermentacji alkoholowej nastawu na miód pitny, w którym udział miodu nie może być niższy niż 150 kg na 1000 litrów nastawu na miód pitny, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒g lub barwienia;
-- **17)** wino owocowe aromatyzowane – będące napojem o rzeczywistej zawartości alkoholu od 8,5%, lecz nieprzekraczającej 22% objętościowych, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, zawierającym co najmniej 75% objętościowych wina owocowego, z możliwością dodania alkoholu rektyfikowanego, destylatu miodowego lub destylatu owocowego, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒ f lub barwienia;
-- **18)** cydr aromatyzowany – będący napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2%, lecz nieprzekraczającej 8,5% objętościowych, zawierającym co najmniej 85% objętościowych cydru lub wina jabłkowego, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒ g lub barwienia;
-- **19)** perry aromatyzowane – będące napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2%, lecz nieprzekraczającej 8,5% objętościowych, zawierającym co najmniej 85% objętościowych perry lub wina gruszkowego, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒ g lub barwienia;
-- **20)** aromatyzowane wino owocowe niskoalkoholowe – będące napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2%, lecz poniżej 8,5% objętościowych, zawierającym co najmniej 75% objętościowych wina owocowego lub wina owocowego niskoalkoholowego, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒g lub barwienia;
-- **21)** aromatyzowane wino z soku winogronowego – będące napojem o rzeczywistej zawartości alkoholu od 6,5%, lecz nieprzekraczającej 22% objętościowych, poddanym aromatyzowaniu, zawierającym co najmniej 75% objętościowych wina z soku winogronowego, z możliwością dodania alkoholu rektyfikowanego lub destylatu winogronowego, słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒f lub barwienia;
-- **22)** aromatyzowany napój winny owocowy – będący napojem o rzeczywistej zawartości alkoholu od 4,5%, lecz nieprzekraczającej 15% objętościowych, zawierającym co najmniej 50% objętościowych wina owocowego albo otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe o obniżonym maksymalnie o 50% udziale soków w nastawie, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒g lub barwienia;
-- **23)** aromatyzowany napój winny miodowy – będący napojem o rzeczywistej zawartości alkoholu od 4,5%, lecz nieprzekraczającej 15% objętościowych, zawierającym co najmniej 50% objętościowych miodu pitnego albo otrzymanym w wyniku fermentacji alkoholowej nastawu na miód pitny, w którym udział miodu jest nie niższy niż 150 kg na 1000 litrów nastawu na miód pitny, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒ g lub barwienia.
+- **8)** wino owocowe – będące napojem o rzeczywistej zawartości alkoholu od 8,5 %, lecz nieprzekraczającej 15 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe, z możliwością słodzenia glukozą, fruktozą, zagęszczonym sokiem owocowym, sokiem owocowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e oraz f lub barwienia;
+- **9)** cydr – będący napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2 %, lecz nieprzekraczającej 8,5 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na cydr, z możliwością słodzenia glukozą, fruktozą, zagęszczonym sokiem jabłkowym, sokiem jabłkowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e, f oraz g lub barwienia;
+- **10)** perry – będące napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2 %, lecz nieprzekraczającej 8,5 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na perry, z możliwością słodzenia glukozą, fruktozą, zagęszczonym sokiem gruszkowym, sokiem gruszkowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e, f oraz g lub barwienia;
+- **11)** wino owocowe niskoalkoholowe – będące napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2 %, lecz poniżej 8,5 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe albo z wina owocowego w wyniku częściowego usunięcia alkoholu wyłącznie metodami fizycznymi, z możliwością słodzenia glukozą, fruktozą, zagęszczonym sokiem owocowym, sokiem owocowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e, f oraz g lub barwienia;
+- **12)** wino owocowe likierowe – będące napojem o rzeczywistej zawartości alkoholu od 15 %, lecz nieprzekraczającej 22 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe, z dodatkiem alkoholu rektyfikowanego lub destylatu owocowego, z możliwością słodzenia glukozą, fruktozą, zagęszczonym sokiem owocowym, sokiem owocowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e oraz f lub barwienia;
+- **13)** wino z soku winogronowego – będące napojem o rzeczywistej zawartości alkoholu od 8,5 %, lecz nieprzekraczającej 18 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na wino z soku winogronowego, z możliwością dodania alkoholu rektyfikowanego lub destylatu winogronowego, słodzenia substancjami określonymi w art. 2 pkt 4 lit. a‒c, e oraz f lub barwienia;
+- **14)** wino miodowe – będące napojem o rzeczywistej zawartości alkoholu od 8,5 %, lecz nieprzekraczającej 15 % objętościowych, otrzymanym w wyniku fermentacji alkoholowej nastawu na miód pitny, z możliwością słodzenia zagęszczonym sokiem owocowym, sokiem owocowym lub substancjami określonymi w art. 2 pkt 4 lit. a, e oraz f, dodania ziół lub przypraw korzennych lub barwienia;
+- **15)** napój winny owocowy – będący napojem o rzeczywistej zawartości alkoholu od 4,5 %, lecz nieprzekraczającej 15 % objętościowych, zawierającym co najmniej 50 % objętościowych wina owocowego albo otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe o obniżonym maksymalnie o 50 % udziale soków w nastawie, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒g lub barwienia;
+- **16)** napój winny miodowy – będący napojem o rzeczywistej zawartości alkoholu od 4,5 %, lecz nieprzekraczającej 15 % objętościowych, zawierającym co najmniej 50 % objętościowych miodu pitnego albo otrzymanym w wyniku fermentacji alkoholowej nastawu na miód pitny, w którym udział miodu nie może być niższy niż 150 kg na 1000 litrów nastawu na miód pitny, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒g lub barwienia;
+- **17)** wino owocowe aromatyzowane – będące napojem o rzeczywistej zawartości alkoholu od 8,5 %, lecz nieprzekraczającej 22 % objętościowych, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, zawierającym co najmniej 75 % objętościowych wina owocowego, z możliwością dodania alkoholu rektyfikowanego, destylatu miodowego lub destylatu owocowego, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒ f lub barwienia;
+- **18)** cydr aromatyzowany – będący napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2 %, lecz nieprzekraczającej 8,5 % objętościowych, zawierającym co najmniej 85 % objętościowych cydru lub wina jabłkowego, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒ g lub barwienia;
+- **19)** perry aromatyzowane – będące napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2 %, lecz nieprzekraczającej 8,5 % objętościowych, zawierającym co najmniej 85 % objętościowych perry lub wina gruszkowego, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒ g lub barwienia;
+- **20)** aromatyzowane wino owocowe niskoalkoholowe – będące napojem o rzeczywistej zawartości alkoholu przekraczającej 1,2 %, lecz poniżej 8,5 % objętościowych, zawierającym co najmniej 75 % objętościowych wina owocowego lub wina owocowego niskoalkoholowego, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒g lub barwienia;
+- **21)** aromatyzowane wino z soku winogronowego – będące napojem o rzeczywistej zawartości alkoholu od 6,5 %, lecz nieprzekraczającej 22 % objętościowych, poddanym aromatyzowaniu, zawierającym co najmniej 75 % objętościowych wina z soku winogronowego, z możliwością dodania alkoholu rektyfikowanego lub destylatu winogronowego, słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒f lub barwienia;
+- **22)** aromatyzowany napój winny owocowy – będący napojem o rzeczywistej zawartości alkoholu od 4,5 %, lecz nieprzekraczającej 15 % objętościowych, zawierającym co najmniej 50 % objętościowych wina owocowego albo otrzymanym w wyniku fermentacji alkoholowej nastawu na wino owocowe o obniżonym maksymalnie o 50 % udziale soków w nastawie, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒g lub barwienia;
+- **23)** aromatyzowany napój winny miodowy – będący napojem o rzeczywistej zawartości alkoholu od 4,5 %, lecz nieprzekraczającej 15 % objętościowych, zawierającym co najmniej 50 % objętościowych miodu pitnego albo otrzymanym w wyniku fermentacji alkoholowej nastawu na miód pitny, w którym udział miodu jest nieniższy niż 150 kg na 1000 litrów nastawu na miód pitny, poddanym aromatyzowaniu substancjami innymi niż uzyskane z winogron, z możliwością słodzenia substancjami określonymi w art. 2 pkt 4 lit. a, b oraz d‒g lub barwienia.
 
 2. Fermentowane napoje winiarskie są wprowadzane do obrotu wyłącznie pod nazwami kategorii określonymi w ust. 1.
 
@@ -168,7 +166,7 @@ source: pdf
 
 **Art. 7.**
 
-1. Działalność gospodarcza w zakresie wyrobu wyrobów winiarskich, w tym rozlewu tych wyrobów przez tego samego przedsiębiorcę, który je wyrobił, lub rozlewu wyrobów winiarskich przez przedsiębiorcę, który ich nie wyrobił, zwana dalej „działalnością gospodarczą w zakresie wyrobu lub rozlewu wyrobów winiarskich”, jest działalnością regulowaną, o której mowa w przepisach ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221), i wymaga uzyskania wpisu do rejestru przedsiębiorców wykonujących działalność w zakresie wyrobu lub rozlewu wyrobów winiarskich, zwanego dalej „rejestrem”.
+1. Działalność gospodarcza w zakresie wyrobu wyrobów winiarskich, w tym rozlewu tych wyrobów przez tego samego przedsiębiorcę, który je wyrobił, lub rozlewu wyrobów winiarskich przez przedsiębiorcę, który ich nie wyrobił, zwana dalej „działalnością gospodarczą w zakresie wyrobu lub rozlewu wyrobów winiarskich”, jest działalnością regulowaną, o której mowa w przepisach ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826 oraz z 2026 r. poz. 507), i wymaga uzyskania wpisu do rejestru przedsiębiorców wykonujących działalność w zakresie wyrobu lub rozlewu wyrobów winiarskich, zwanego dalej „rejestrem”.
 
 2. Działalność gospodarcza w zakresie:
 
@@ -200,16 +198,16 @@ source: pdf
     - **c)** spółką komandytową – którego komplementariusz nie był skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa w lit. a, a w przypadku komplementariusza będącego osobą prawną – którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za te przestępstwa,
     - **d)** spółką komandytowo-akcyjną – którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa w lit. a;
 
-- **3)** nie zalega z należnościami wobec Skarbu Państwa, Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego, a w przypadku zalegania z należnościami z tytułu podatków stanowiących dochód budżetu państwa – jeżeli zostało przyjęte zabezpieczenie, o którym mowa w art. 33d § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707 oraz z 2023 r. poz. 180), wykonania decyzji określającej lub ustalającej wysokość zobowiązania podatkowego, o której mowa w art. 52 ust. 3a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2022 r. poz. 143, z późn. zm. ), co potwierdzają wydane na jego wniosek zaświadczenia.
+- **3)** nie zalega z należnościami wobec Skarbu Państwa, Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego, a w przypadku zalegania z należnościami z tytułu podatków stanowiących dochód budżetu państwa – jeżeli zostało przyjęte zabezpieczenie, o którym mowa w art. 33d § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2026 r. poz. 622), wykonania decyzji określającej lub ustalającej wysokość zobowiązania podatkowego, o której mowa w art. 52 ust. 3a ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2026 r. poz. 412 i 414), co potwierdzają wydane na jego wniosek zaświadczenia.
 
 **Art. 9.**
 
-1. Spełnienie warunków określonych w art. 8 ust. 1 pkt 2 i 4 nie jest wymagane do dokonania wpisu do rejestru przedsiębiorcy wykonującego działalność gospodarczą w zakresie wyrobu fermentowanych napojów winiarskich z surowców uzyskanych we własnym gospodarstwie, jeżeli w danym roku kalendarzowym przedsiębiorca ten wyrabia łącznie nie więcej niż 1000 hektolitrów:
+1. Spełnienie warunków określonych w art. 8 ust. 1 pkt 2 i 4 nie jest wymagane do dokonania wpisu do rejestru przedsiębiorcy wykonującego działalność gospodarczą w zakresie wyrobu fermentowanych napojów winiarskich z surowców uzyskanych we własnym gospodarstwie, jeżeli w danym roku kalendarzowym przedsiębiorca ten wyrabia łącznie niewięcej niż 1000 hektolitrów:
 
-- **1)** wina owocowego jakościowego, cydru jakościowego, perry jakościowego, cydru lodowego, perry lodowego, cydru lub perry z owoców uzyskanych z własnych drzew lub krzewów owocowych, przy czym ilość wyrobionych napojów wynosi nie więcej niż 100 hektolitrów przypadających proporcjonalnie na każdy posiadany hektar gruntu rolnego, oraz posiada tytuł prawny do co najmniej 0,5 hektara gruntu rolnego obsadzonego drzewami lub krzewami owocowymi, z których pozyskuje owoce;
+- **1)** wina owocowego jakościowego, cydru jakościowego, perry jakościowego, cydru lodowego, perry lodowego, cydru lub perry z owoców uzyskanych z własnych drzew lub krzewów owocowych, przy czym ilość wyrobionych napojów wynosi niewięcej niż 100 hektolitrów przypadających proporcjonalnie na każdy posiadany hektar gruntu rolnego, oraz posiada tytuł prawny do co najmniej 0,5 hektara gruntu rolnego obsadzonego drzewami lub krzewami owocowymi, z których pozyskuje owoce;
 - **2)** miodu pitnego jakościowego z miodu uzyskanego z własnej pasieki, przy czym ilość wyrobionego miodu pitnego jakościowego nie może być większa niż 20 litrów na każdy posiadany pień pszczeli, oraz prowadzi pasiekę powyżej 10 pni pszczelich i jest wpisany do prowadzonego przez powiatowego lekarza weterynarii rejestru, o którym mowa w art. 55 pkt 2 lit. a ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795).
 
-2. W ramach limitu określonego w ust. 1 fermentowane napoje winiarskie, o których mowa w ust. 1, mogą zostać również wyrobione z nabytych owoców i miodu, jeżeli surowce te są wytwarzane w województwie, w którym jest prowadzony wyrób tych napojów, lub powiatach sąsiadujących z tym województwem, i stanowią nie więcej niż 50% wagowo wszystkich owoców i miodu wykorzystywanych do wyrobu tych napojów.
+2. W ramach limitu określonego w ust. 1 fermentowane napoje winiarskie, o których mowa w ust. 1, mogą zostać również wyrobione z nabytych owoców i miodu, jeżeli surowce te są wytwarzane w województwie, w którym jest prowadzony wyrób tych napojów, lub powiatach sąsiadujących z tym województwem, i stanowią niewięcej niż 50 % wagowo wszystkich owoców i miodu wykorzystywanych do wyrobu tych napojów.
 
 **Art. 10.**
 
@@ -255,7 +253,7 @@ source: pdf
 
 1. Wpisu przedsiębiorcy do rejestru dokonuje się w terminie 7 dni od dnia wpływu do Dyrektora Generalnego KOWR wniosku o wpis do rejestru.
 
-2. Jeżeli Dyrektor Generalny KOWR nie dokona wpisu przedsiębiorcy do rejestru w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do Dyrektora Generalnego KOWR upłynęło 14 dni, przedsiębiorca może rozpocząć działalność gospodarczą po uprzednim zawiadomieniu o tym Dyrektora Generalnego KOWR na piśmie. Nie dotyczy to przypadku, gdy Dyrektor Generalny KOWR wezwał przedsiębiorcę do uzupełnienia wniosku o wpis do rejestru nie później niż przed upływem 7 dni od dnia wpływu tego wniosku. W takim przypadku termin, o którym mowa w zdaniu pierwszym, liczy się od dnia wpływu do Dyrektora Generalnego KOWR uzupełnienia wniosku o wpis do rejestru.
+2. Jeżeli Dyrektor Generalny KOWR nie dokona wpisu przedsiębiorcy do rejestru w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do Dyrektora Generalnego KOWR upłynęło 14 dni, przedsiębiorca może rozpocząć działalność gospodarczą po uprzednim zawiadomieniu o tym Dyrektora Generalnego KOWR na piśmie. Nie dotyczy to przypadku, gdy Dyrektor Generalny KOWR wezwał przedsiębiorcę do uzupełnienia wniosku o wpis do rejestru niepóźniej niż przed upływem 7 dni od dnia wpływu tego wniosku. W takim przypadku termin, o którym mowa w zdaniu pierwszym, liczy się od dnia wpływu do Dyrektora Generalnego KOWR uzupełnienia wniosku o wpis do rejestru.
 
 **Art. 12.**
 
@@ -271,7 +269,7 @@ source: pdf
 
 **Art. 13.**
 
-1. W przypadku gdy przedsiębiorca naruszył warunki, o których mowa w art. 8 ust. 1 lub 2, Dyrektor Generalny KOWR wzywa tego przedsiębiorcę do usunięcia stwierdzonych naruszeń w wyznaczonym terminie, nie krótszym niż 7 dni od dnia otrzymania tego wezwania.
+1. W przypadku gdy przedsiębiorca naruszył warunki, o których mowa w art. 8 ust. 1 lub 2, Dyrektor Generalny KOWR wzywa tego przedsiębiorcę do usunięcia stwierdzonych naruszeń w wyznaczonym terminie, niekrótszym niż 7 dni od dnia otrzymania tego wezwania.
 
 2. Jeżeli:
 
@@ -289,7 +287,7 @@ source: pdf
 
 **Art. 14.**
 
-1. Przedsiębiorca, wobec którego wydano decyzję o zakazie wykonywania działalności gospodarczej w zakresie wyrobu lub rozlewu wyrobów winiarskich, może uzyskać wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania tej decyzji.
+1. Przedsiębiorca, wobec którego wydano decyzję o zakazie wykonywania działalności gospodarczej w zakresie wyrobu lub rozlewu wyrobów winiarskich, może uzyskać wpis do rejestru w tym samym zakresie działalności gospodarczej niewcześniej niż po upływie 3 lat od dnia wydania tej decyzji.
 
 2. Przepis ust. 1 stosuje się do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru, z wyłączeniem przypadku określonego w art. 11 ust. 2.
 
@@ -312,15 +310,17 @@ source: pdf
 
 7. Jeżeli zostały spełnione wymagania określone w ustawie do przeniesienia na następcę prawnego uprawnień wynikających z wpisu do rejestru, Dyrektor Generalny KOWR dokonuje zmiany wpisu w rejestrze.
 
-8. W przypadku gdy został ustanowiony zarząd sukcesyjny, o którym mowa w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), ma zastosowanie art. 45 tej ustawy.
+8. W przypadku gdy został ustanowiony zarząd sukcesyjny, o którym mowa w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170 oraz z 2026 r. poz. 507), ma zastosowanie art. 45 tej ustawy.
 
 9. Dyrektor Generalny KOWR wykreśla przedsiębiorcę z rejestru:
 
 - **1)** na jego wniosek;
-- **2)** w przypadku gdy: <10. Wykreślenie, o którym mowa w ust. 9 pkt 1, jest czynnością materialno-techniczną.>
+- **2)** w przypadku gdy:
     - **a)** decyzja o zakazie wykonywania działalności gospodarczej w zakresie wyrobu lub rozlewu wyrobów winiarskich, o której mowa w art. 13 ust. 2, stała się ostateczna,
     - **b)** przedsiębiorca nie jest wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego od 6 miesięcy od dnia uzyskania informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o braku wpisu albo wykreśleniu przedsiębiorcy,
     - **c)** następca prawny nie złożył wniosku, o którym mowa w ust. 1 pkt 1, albo nie złożył tego wniosku w terminie określonym w ust. 3.
+
+10. Wykreślenie, o którym mowa w ust. 9 pkt 1, jest czynnością materialno-techniczną.
 
 **Art. 16.** Przedsiębiorca wykonujący działalność gospodarczą w zakresie wyrobu lub rozlewu wyrobów winiarskich zawiadamia Dyrektora Generalnego KOWR o jej zakończeniu lub zawieszeniu jej wykonywania, w terminie 14 dni od dnia tego zakończenia lub zawieszenia.
 
@@ -356,7 +356,7 @@ source: pdf
 
 1. Producent wina wyrabia wino lub moszcz z winogron pozyskanych z upraw winorośli wpisanych do ewidencji winnic położonych na terytorium Rzeczypospolitej Polskiej, zwanej dalej „ewidencją winnic” – w przypadku gdy wino lub moszcz są wyrabiane z winogron pozyskanych z upraw winorośli położonych na terytorium Rzeczypospolitej Polskiej.
 
-2. Producent wina zamierzający wyrabiać wino lub moszcz winogronowy przekazuje Dyrektorowi Generalnemu KOWR informację o tym zamiarze nie później niż na 2 tygodnie przed rozpoczęciem produkcji wina lub moszczu winogronowego, lecz nie później niż do dnia 15 września danego roku winiarskiego, na formularzu udostępnionym na stronie internetowej KOWR. Termin ten nie podlega przywróceniu.
+2. Producent wina zamierzający wyrabiać wino lub moszcz winogronowy przekazuje Dyrektorowi Generalnemu KOWR informację o tym zamiarze niepóźniej niż na 2 tygodnie przed rozpoczęciem produkcji wina lub moszczu winogronowego, lecz niepóźniej niż do dnia 15 września danego roku winiarskiego, na formularzu udostępnionym na stronie internetowej KOWR. Termin ten nie podlega przywróceniu.
 
 3. Informacja, o której mowa w ust. 2, zawiera:
 
@@ -460,11 +460,9 @@ source: pdf
 2. Do prowadzenia i aktualizacji wykazu, o którym mowa w art. 8 ust. 3 rozporządzenia 2018/273, i wykazu, o którym mowa w art. 28 ust. 3 rozporządzenia 2018/273, wykorzystuje się dane o podmiotach objętych tymi wykazami:
 
 - **1)** zawarte w ewidencji winnic lub rejestrze;
-- **2)** zgromadzone:
+- **2)** zgromadzone: poz. 2151).
     - **a)** na podstawie informacji o zamiarze wyrobu wina przekazanych przez producentów wina na podstawie art. 21 ust. 2,
-    - **b)** przez marszałka województwa wydającego zezwolenie, o którym mowa w art. 9 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165 i
-
-- **240)** .
+    - **b)** przez marszałka województwa wydającego zezwolenie, o którym mowa w art. 9 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r.
 
 3. Za działalność, o której mowa w art. 2 ust. 1 lit. g rozporządzenia 2018/273, uznaje się działalność gospodarczą obejmującą bezpośrednią sprzedaż wina i moszczu winogronowego konsumentom w ilościach mniejszych niż 1000 hektolitrów w danym roku kalendarzowym.
 
@@ -486,7 +484,7 @@ source: pdf
 
 3. Producent wina może we wniosku, o którym mowa w ust. 1, podać również inne niż wymienione w ust. 2 pkt 1 dane kontaktowe producenta wina, w tym adres poczty elektronicznej, adres strony internetowej lub numer telefonu.
 
-4. Wniosek, o którym mowa w ust. 1, składa się nie później niż na 2 tygodnie przed dokonaniem zbioru winogron, które mają zostać przeznaczone do wyrobu danej partii wina lub moszczu, lecz nie później niż do dnia 15 września danego roku winiarskiego, na formularzu udostępnionym na stronie internetowej Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
+4. Wniosek, o którym mowa w ust. 1, składa się niepóźniej niż na 2 tygodnie przed dokonaniem zbioru winogron, które mają zostać przeznaczone do wyrobu danej partii wina lub moszczu, lecz niepóźniej niż do dnia 15 września danego roku winiarskiego, na formularzu udostępnionym na stronie internetowej Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych.
 
 5. W przypadku gdy wino lub moszcz zostały wyrobione z winogron pochodzących z upraw winorośli wpisanych do ewidencji winnic gdy:
 
@@ -601,7 +599,7 @@ source: pdf
 
 2. W przypadku określonym w załączniku VIII część I sekcja A pkt 3 do rozporządzenia nr 1308/2013 minister właściwy do spraw rynków rolnych może zwiększyć limit określony w załączniku VIII część I sekcja A pkt 2 lit. a do rozporządzenia nr 1308/2013, ogłaszając informację o zwiększeniu tego limitu na stronie urzędu obsługującego tego ministra.
 
-3. Maksymalna całkowita objętościowa zawartość alkoholu dla win czerwonych, o której mowa w załączniku VIII część I sekcja B pkt 7 do rozporządzenia nr 1308/2013, wynosi 12% objętościowych.
+3. Maksymalna całkowita objętościowa zawartość alkoholu dla win czerwonych, o której mowa w załączniku VIII część I sekcja B pkt 7 do rozporządzenia nr 1308/2013, wynosi 12 % objętościowych.
 
 4. (uchylony)
 
@@ -611,7 +609,7 @@ source: pdf
 
 1. Producenci wina wyrabiający poniżej 50 hektolitrów wina lub moszczu winogronowego w roku winiarskim są zwolnieni, zgodnie z art. 14 ust. 3 rozporządzenia 2019/934, z obowiązku wycofywania wytłoków i osadu drożdżowego powstałych przy wyrobie wina, zwanych dalej „produktami ubocznymi”.
 
-2. Producenci wina inni niż wymienieni w ust. 1 przekazują, nie później niż na 2 dni robocze przed planowanym terminem przeprowadzenia wycofania produktów ubocznych przez przeznaczenie do destylacji, o której mowa w art. 14 ust. 4 rozporządzenia 2019/934, wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych właściwemu ze względu na miejsce wyrobu wina zgłoszenie zamiaru takiego wycofania, w którym wskazują:
+2. Producenci wina inni niż wymienieni w ust. 1 przekazują, niepóźniej niż na 2 dni robocze przed planowanym terminem przeprowadzenia wycofania produktów ubocznych przez przeznaczenie do destylacji, o której mowa w art. 14 ust. 4 rozporządzenia 2019/934, wojewódzkiemu inspektorowi jakości handlowej artykułów rolno-spożywczych właściwemu ze względu na miejsce wyrobu wina zgłoszenie zamiaru takiego wycofania, w którym wskazują:
 
 - **1)** ilość produktów ubocznych przeznaczonych do wycofania;
 - **2)** zawartość alkoholu w wycofywanych produktach ubocznych;
@@ -626,7 +624,7 @@ source: pdf
 - **3)** zawartość alkoholu w wycofywanych produktach ubocznych;
 - **4)** datę przeprowadzenia wycofania produktów ubocznych.
 
-5. Zawartość alkoholu w produktach ubocznych zgodnie z załącznikiem VIII część II lit. D pkt 1 do rozporządzenia nr 1308/2013 jest wyższa niż 0,4% objętościowych i wynosi co najmniej 5% w odniesieniu do objętości alkoholu w wyrabianym winie.
+5. Zawartość alkoholu w produktach ubocznych zgodnie z załącznikiem VIII część II lit. D pkt 1 do rozporządzenia nr 1308/2013 jest wyższa niż 0,4 % objętościowych i wynosi co najmniej 5 % w odniesieniu do objętości alkoholu w wyrabianym winie.
 
 **Art. 38.**
 
@@ -695,17 +693,17 @@ source: pdf
 - **4)** będąc wpisanym do rejestru, wbrew obowiązkowi wynikającemu z art. 16 nie informuje o zakończeniu lub zawieszeniu wykonywania działalności gospodarczej w zakresie wyrobu lub rozlewu wyrobów winiarskich lub nie przekazuje tej informacji w terminie określonym w tym przepisie,
 - **5)** będąc producentem wina, wyrabia wino w miejscu innym niż miejsce wyrobu wina wskazane w informacji, o której mowa w art. 21 ust. 2,
 - **6)** podaje we wniosku o wpis do ewidencji winnic niezgodne ze stanem faktycznym informacje o miejscu położenia uprawy winorośli, z której winogron wyrabia się wino przeznaczone do wprowadzenia do obrotu, lub podaje niezgodne ze stanem faktycznym nazwy uprawianych odmian winorośli lub ich synonimy,
-- **7)** wbrew obowiązkowi wynikającemu z art. 147 ust. 2 rozporządzenia 1308/2018 nie prowadzi rejestru przychodów lub rozchodów zgodnie z przepisami rozdziału V rozporządzenia 2018/273 lub rozdziału IV rozporządzenia 2018/274, dokonuje w rejestrze przychodów lub rozchodów wpisów niezgodnych ze stanem faktycznym lub nie wprowadza danych do rejestru przychodów lub rozchodów w terminach określonych w art. 20 rozporządzenia 2018/274,
-- **8)** wbrew obowiązkowi wynikającemu z art. 147 ust. 1 rozporządzenia 1308/2018 i art. 8 ust. 1 rozporządzenia 2018/274 nie zapewnia podczas przewozu produktów sektora wina wymaganych dokumentów towarzyszących, nie przedstawia właściwym organom tych dokumentów na każdym etapie przewozu produktów sektora wina lub nie zapewnia, że te dokumenty spełniają wymogi określone w art. 10 ust. 2–5 rozporządzenia 2018/273 lub w załączniku V do rozporządzenia 2018/273, lub w art. 26 ust. 3,
+- **7)** wbrew obowiązkowi wynikającemu z art. 147 ust. 2 rozporządzenia 1308/2013 nie prowadzi rejestru przychodów lub rozchodów zgodnie z przepisami rozdziału V rozporządzenia 2018/273 lub rozdziału IV rozporządzenia 2018/274, dokonuje w rejestrze przychodów lub rozchodów wpisów niezgodnych ze stanem faktycznym lub nie wprowadza danych do rejestru przychodów lub rozchodów w terminach określonych w art. 20 rozporządzenia 2018/274,
+- **8)** wbrew obowiązkowi wynikającemu z art. 147 ust. 1 rozporządzenia 1308/2013 i art. 8 ust. 1 rozporządzenia 2018/274 nie zapewnia podczas przewozu produktów sektora wina wymaganych dokumentów towarzyszących, nie przedstawia właściwym organom tych dokumentów na każdym etapie przewozu produktów sektora wina lub nie zapewnia, że te dokumenty spełniają wymogi określone w art. 10 ust. 2–5 rozporządzenia 2018/273 lub w załączniku V do rozporządzenia 2018/273, lub w art. 26 ust. 3,
 - **9)** będąc plantatorem winorośli, producentem wina lub przedsiębiorcą wpisanym do rejestru rozlewającym wino, którego nie wyrobił, nie składa deklaracji, o których mowa w art. 32 ust. 1 i art. 33 ust. 1, w terminach określonych w tych przepisach, mimo wezwania do złożenia tych deklaracji na podstawie art. 34 ust. 2,
 - **10)** wbrew obowiązkowi określonemu w art. 37 ust. 2 nie dokonuje zgłoszenia zamiaru wycofania produktów ubocznych na zasadach określonych w art. 14 rozporządzenia 2019/934 w terminie określonym w art. 37 ust. 2 lub nie wskazuje w tym zgłoszeniu danych określonych w tym przepisie,
 - **11)** będąc producentem wina nie zapewnia spełniania wymagań dla produktów ubocznych określonych w art. 37 ust. 5 – podlega karze grzywny.
 
 **Art. 43.**
 
-1. Orzekanie w sprawach o czyny, o których mowa w art. 40 ust. 1 i art. 42, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+1. Orzekanie w sprawach o czyny, o których mowa w art. 40 ust. 1 i art. 42, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm. ).
 
-2. Orzekanie w sprawach o czyny, o których mowa w art. 40 ust. 2, następuje w trybie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, 1855, 2582 i 2600).
+2. Orzekanie w sprawach o czyny, o których mowa w art. 40 ust. 2, następuje w trybie przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2026 r. poz. 490, 421 i 638).
 
 #### Rozdział 6 Zmiany w przepisach
 
@@ -715,39 +713,39 @@ source: pdf
 
 **Art. 53.**
 
-1. Z dniem wejścia w życie ustawy rejestr, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 50, staje się rejestrem, o którym mowa w art. 7 ust. 1, z tym że wpisy przedsiębiorców do rejestru dokonane na podstawie:
+1. Z dniem wejścia w życie ustawy rejestr, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 50 , staje się rejestrem, o którym mowa w art. 7 ust. 1, z tym że wpisy przedsiębiorców do rejestru dokonane na podstawie:
 
-- **1)** art. 19 ust. 1 pkt 1 ustawy zmienianej w art. 50 stają się wpisami, o których mowa w art. 9 ust. 1 pkt 1, w zakresie wyrobu wina owocowego jakościowego, cydru jakościowego, perry jakościowego, cydru lodowego, perry lodowego, cydru lub perry, w tym rozlewu tych wyrobów, w ilości nie większej niż 100 hektolitrów przypadających proporcjonalnie na każdy posiadany hektar gruntu rolnego obsadzonego drzewami lub krzewami owocowymi, w łącznej, maksymalnej ilości wyrobu fermentowanych napojów winiarskich nie większej niż 1000 hektolitrów;
-- **2)** art. 19 ust. 1 pkt 2 ustawy zmienianej w art. 50 stają się wpisami, o których mowa w art. 9 ust. 1 pkt 2, w zakresie wyrobu miodu pitnego jakościowego, w tym rozlewu tego wyrobu, w ilości nie większej niż 20 litrów przypadających proporcjonalnie na każdy posiadany pień pszczeli, w łącznej, maksymalnej ilości wyrobu fermentowanych napojów winiarskich nie większej niż 1000 hektolitrów.
+- **1)** art. 19 ust. 1 pkt 1 ustawy zmienianej w art. 50 stają się wpisami, o których mowa w art. 9 ust. 1 pkt 1, w zakresie wyrobu wina owocowego jakościowego, cydru jakościowego, perry jakościowego, cydru lodowego, perry lodowego, cydru lub perry, w tym rozlewu tych wyrobów, w ilości niewiększej niż 100 hektolitrów przypadających proporcjonalnie na każdy posiadany hektar gruntu rolnego obsadzonego drzewami lub krzewami owocowymi, w łącznej, maksymalnej ilości wyrobu fermentowanych napojów winiarskich niewiększej niż 1000 hektolitrów;
+- **2)** art. 19 ust. 1 pkt 2 ustawy zmienianej w art. 50 stają się wpisami, o których mowa w art. 9 ust. 1 pkt 2, w zakresie wyrobu miodu pitnego jakościowego, w tym rozlewu tego wyrobu, w ilości niewiększej niż 20 litrów przypadających proporcjonalnie na każdy posiadany pień pszczeli, w łącznej, maksymalnej ilości wyrobu fermentowanych napojów winiarskich niewiększej niż 1000 hektolitrów.
 
 2. Dyrektor Generalny KOWR w terminie 30 dni od dnia wejścia w życie ustawy dokonuje z urzędu zmiany wpisów, o których mowa w ust. 1, w zakresie wynikającym z tego przepisu, i wystawia przedsiębiorcy wpisanemu do rejestru na podstawie ust. 1 zaświadczenie o dokonaniu zmiany wpisu.
 
 **Art. 54.**
 
-1. Do postępowań prowadzonych przez ministra właściwego do spraw rynków rolnych na podstawie ustawy zmienianej w art. 50, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy, w zakresie spraw związanych z wykonywaniem zadań przejętych przez Dyrektora Generalnego KOWR stosuje się przepisy niniejszej ustawy.
+1. Do postępowań prowadzonych przez ministra właściwego do spraw rynków rolnych na podstawie ustawy zmienianej w art. 50 , wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy, w zakresie spraw związanych z wykonywaniem zadań przejętych przez Dyrektora Generalnego KOWR stosuje się przepisy niniejszej ustawy.
 
 2. Minister właściwy do spraw rynków rolnych przekazuje Dyrektorowi Generalnemu KOWR akta spraw, o których mowa w ust. 1, w terminie 7 dni od dnia wejścia w życie ustawy.
 
 3. W przypadku spraw, o których mowa w ust. 1, termin określony w art. 11 ust. 1 liczy się od dnia przekazania akt danej sprawy na podstawie ust. 2.
 
-4. Do uchylenia i zmiany decyzji oraz wznowienia postępowania w sprawach rozstrzygniętych przed dniem wejścia w życie niniejszej ustawy przez ministra właściwego do spraw rynków rolnych na podstawie ustawy zmienianej w art. 50:
+4. Do uchylenia i zmiany decyzji oraz wznowienia postępowania w sprawach rozstrzygniętych przed dniem wejścia w życie niniejszej ustawy przez ministra właściwego do spraw rynków rolnych na podstawie ustawy zmienianej w art. 50 :
 
 - **1)** stosuje się przepisy niniejszej ustawy;
 - **2)** jest właściwy Dyrektor Generalny KOWR.
 
-**Art. 55.** Minister właściwy do spraw rynków rolnych przekazuje Dyrektorowi Generalnemu KOWR dane zgromadzone w rejestrze, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 50, wraz z dokumentacją, która dotyczy wpisów do tego rejestru, w tym aktami spraw innymi niż te, o których mowa w art. 54 ust. 1, w terminie 7 dni od dnia wejścia w życie ustawy.
+**Art. 55.** Minister właściwy do spraw rynków rolnych przekazuje Dyrektorowi Generalnemu KOWR dane zgromadzone w rejestrze, o którym mowa w art. 17 ust. 1 ustawy zmienianej w art. 50 , wraz z dokumentacją, która dotyczy wpisów do tego rejestru, w tym aktami spraw innymi niż te, o których mowa w art. 54 ust. 1, w terminie 7 dni od dnia wejścia w życie ustawy.
 
-**Art. 56.** Do postępowań w sprawach określonych w art. 27 ust. 3 i art. 46 ust. 1 ustawy zmienianej w art. 50, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+**Art. 56.** Do postępowań w sprawach określonych w art. 27 ust. 3 i art. 46 ust. 1 ustawy zmienianej w art. 50 , wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 57.**
 
-1. Do danych zawartych w ewidencji, o której mowa w art. 28 ustawy zmienianej w art. 50, stosuje się przepisy art. 39.
+1. Do danych zawartych w ewidencji, o której mowa w art. 28 ustawy zmienianej w art. 50 , stosuje się przepisy art. 39.
 
-2. Wnioski o wpis do ewidencji, o której mowa w art. 28 ustawy zmienianej w art. 50, złożone przed dniem wejścia w życie niniejszej ustawy uznaje się za informację o zamiarze wyrobu wina, o której mowa w art. 21 ust. 2, lub za wniosek o wpis do ewidencji winnic, o którym mowa w art. 22 ust. 4.
+2. Wnioski o wpis do ewidencji, o której mowa w art. 28 ustawy zmienianej w art. 50 , złożone przed dniem wejścia w życie niniejszej ustawy uznaje się za informację o zamiarze wyrobu wina, o której mowa w art. 21 ust. 2, lub za wniosek o wpis do ewidencji winnic, o którym mowa w art. 22 ust. 4.
 
-3. W przypadku gdy wniosek o wpis do ewidencji, o której mowa w art. 28 ustawy zmienianej w art. 50, nie zawiera wszystkich danych, jakie powinna zawierać informacja, o której mowa w art. 21 ust. 2, lub jakie powinien zawierać wniosek, o którym mowa w art. 22 ust. 4, Dyrektor Generalny KOWR wzywa wnioskodawcę do uzupełnienia tych danych w wyznaczonym terminie, nie krótszym niż 30 dni.
+3. W przypadku gdy wniosek o wpis do ewidencji, o której mowa w art. 28 ustawy zmienianej w art. 50 , nie zawiera wszystkich danych, jakie powinna zawierać informacja, o której mowa w art. 21 ust. 2, lub jakie powinien zawierać wniosek, o którym mowa w art. 22 ust. 4, Dyrektor Generalny KOWR wzywa wnioskodawcę do uzupełnienia tych danych w wyznaczonym terminie, niekrótszym niż 30 dni.
 
-**Art. 58.** Obrót fermentowanymi napojami winiarskimi wyrabianymi lub wprowadzonymi do obrotu na podstawie przepisów ustawy zmienianej w art. 50 dopuszcza się nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+**Art. 58.** Obrót fermentowanymi napojami winiarskimi wyrabianymi lub wprowadzonymi do obrotu na podstawie przepisów ustawy zmienianej w art. 50 dopuszcza się niedłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 59.** Ustawa wchodzi w życie po upływie 60 dni od dnia ogłoszenia , z wyjątkiem art. 39, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
 

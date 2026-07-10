@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-21 |
 | Data wydania | 2021-03-15 |
-| Ostatnia zmiana | 2026-03-04 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000464) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/464/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -35,7 +35,7 @@ source: pdf
 
 1. Służba zagraniczna chroni interesy Rzeczypospolitej Polskiej w relacjach z innymi państwami, organizacjami międzynarodowymi i innymi podmiotami zagranicznymi.
 
-2. Służba zagraniczna chroni interesy obywateli polskich za granicą na zasadach określonych w ustawie z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 1329).
+2. Służba zagraniczna chroni interesy obywateli polskich za granicą na zasadach określonych w ustawie z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 1329 oraz z 2025 r. poz. 1006 i 1171).
 
 **Art. 3.**
 
@@ -48,10 +48,9 @@ source: pdf
 
 2. W skład służby zagranicznej nie wchodzą:
 
-- **1)** niebędące członkami korpusu służby cywilnej osoby zatrudnione w urzędzie obsługującym ministra właściwego do spraw zagranicznych na podstawie przepisów ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917);
+- **1)** niebędące członkami korpusu służby cywilnej osoby zatrudnione w urzędzie obsługującym ministra właściwego do spraw zagranicznych na podstawie przepisów ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2025 r. poz. 1459 oraz z 2026 r. poz. 26 i 160);
 - **2)** osoby zatrudnione w placówce zagranicznej Rzeczypospolitej Polskiej na podstawie umowy o pracę zawartej zgodnie z prawem państwa przyjmującego;
-- **3)** osoby zatrudnione w placówce zagranicznej Rzeczypospolitej Polskiej na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i
-- **1222)** , w tym osoby zatrudnione na czas wykonywania funkcji w placówce przez członka rodziny;
+- **3)** osoby zatrudnione w placówce zagranicznej Rzeczypospolitej Polskiej na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25 i 473), w tym osoby zatrudnione na czas wykonywania funkcji w placówce przez członka rodziny;
 - **4)** konsulowie honorowi, o których mowa w ustawie z dnia 25 czerwca 2015 r. – Prawo konsularne;
 - **5)** osoby wyznaczone przez innych niż minister właściwy do spraw zagranicznych ministrów lub kierowników jednostek sektora finansów publicznych, które wykonują zadania w placówkach zagranicznych na rzecz tych ministrów lub tych kierowników.
 
@@ -59,17 +58,17 @@ source: pdf
 
 1. Stosunek pracy w służbie zagranicznej wygasa w dniu ukończenia 65 lat przez osobę, o której mowa w art. 3 ust. 1 pkt 1, 3 i 4.
 
-2. Jeżeli osoba, o której mowa w art. 3 ust. 1 pkt 1, 3 i 4, nie później niż na 6 miesięcy i nie wcześniej niż na 12 miesięcy przed ukończeniem 65 lat złoży dyrektorowi generalnemu służby zagranicznej oświadczenie na piśmie o woli kontynuowania zatrudnienia wraz z aktualnym orzeczeniem lekarskim stwierdzającym brak przeciwwskazań do pracy na zajmowanym stanowisku, jej stosunek pracy nie wygasa, chyba że dyrektor generalny służby zagranicznej, uwzględniając potrzeby służby zagranicznej, odmówi zgody na jej dalsze zatrudnienie.
+2. Jeżeli osoba, o której mowa w art. 3 ust. 1 pkt 1, 3 i 4, niepóźniej niż na 6 miesięcy i niewcześniej niż na 12 miesięcy przed ukończeniem 65 lat złoży dyrektorowi generalnemu służby zagranicznej oświadczenie na piśmie o woli kontynuowania zatrudnienia wraz z aktualnym orzeczeniem lekarskim stwierdzającym brak przeciwwskazań do pracy na zajmowanym stanowisku, jej stosunek pracy nie wygasa, chyba że dyrektor generalny służby zagranicznej, uwzględniając potrzeby służby zagranicznej, odmówi zgody na jej dalsze zatrudnienie.
 
 3. Odmowa zgody na dalsze zatrudnienie następuje na piśmie w terminie 30 dni od dnia otrzymania dokumentów, o których mowa w ust. 2. Odmowa zgody na dalsze zatrudnienie zawiera uzasadnienie oraz pouczenie o przysługującym pracownikowi prawie odwołania do sądu pracy.
 
-4. Od odmowy zgody na dalsze zatrudnienie przysługuje odwołanie. Odwołanie wnosi się do sądu pracy w terminie 21 dni od dnia doręczenia odmowy zgody na dalsze zatrudnienie. Przepisy art. 45 § 1 i 2, art. 47 zdanie pierwsze, art. 47 1 , art. 48 i art. 51 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
+4. Od odmowy zgody na dalsze zatrudnienie przysługuje odwołanie. Odwołanie wnosi się do sądu pracy w terminie 21 dni od dnia doręczenia odmowy zgody na dalsze zatrudnienie. Przepisy art. 45 § 1 i 2, art. 47 zdanie pierwsze, art. 47 , art. 48 i art. 51 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy stosuje się odpowiednio.
 
 5. W przypadku, o którym mowa w ust. 1, dyplomata zawodowy po wygaśnięciu stosunku pracy w służbie zagranicznej zachowuje prawo do posługiwania się ostatnim nadanym mu stopniem dyplomatycznym z określeniem „w stanie spoczynku”.
 
 **Art. 5.**
 
-1. W służbie zagranicznej nie może być zatrudniona osoba, która w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. pracowała lub pełniła służbę w organach bezpieczeństwa państwa lub była współpracownikiem tych organów w rozumieniu przepisów ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273 i 834).
+1. W służbie zagranicznej nie może być zatrudniona osoba, która w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. pracowała lub pełniła służbę w organach bezpieczeństwa państwa lub była współpracownikiem tych organów w rozumieniu przepisów ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2025 r. poz. 1519).
 
 2. Przepis ust. 1 stosuje się także do niebędących członkami służby zagranicznej osób, o których mowa w art. 3 ust. 2 pkt 1–3, o ile osoby te są obywatelami polskimi.
 
@@ -97,16 +96,16 @@ source: pdf
 
 5. Szef Służby Zagranicznej wydaje zgodę, o której mowa w ust. 1, albo odmawia jej wydania w terminie 30 dni od dnia otrzymania opinii Szefa Agencji Bezpieczeństwa Wewnętrznego.
 
-**Art. 6.** W zakresie nieuregulowanym w ustawie do osób wchodzących w skład służby zagranicznej, zwanych dalej „członkami służby zagranicznej”, z wyłączeniem żołnierzy pełniących służbę w placówkach zagranicznych, stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409).
+**Art. 6.** W zakresie nieuregulowanym w ustawie do osób wchodzących w skład służby zagranicznej, zwanych dalej „członkami służby zagranicznej”, z wyłączeniem żołnierzy pełniących służbę w placówkach zagranicznych, stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2026 r. poz. 590).
 
 **Art. 7.** Ilekroć w ustawie jest mowa o:
 
 - **1)** ambasadorze – oznacza to, mianowanego w trybie określonym w Konstytucji Rzeczypospolitej Polskiej, pełnomocnego przedstawiciela Rzeczypospolitej Polskiej w innym państwie lub przy organizacji międzynarodowej;
 - **1a)** ambasadorze tytularnym – oznacza to najwyższy stopień dyplomatyczny nadawany dyplomacie zawodowemu;
-- **2)** członkach rodziny – oznacza to:
+- **2)** członkach rodziny – oznacza to: z 2024 r. poz. 1649, z 2025 r. poz. 1302 oraz z 2026 r. poz. 26), wymagające stałej opieki członka służby zagranicznej;
     - **a)** małżonka,
     - **b)** dzieci: własne, małżonka, przysposobione oraz wzięte na utrzymanie i wychowanie w ramach rodzin zastępczych, rodzinnych domów dziecka – w wieku do 18 lat bądź będące w wieku określonym odrębnymi przepisami, dotyczącymi zasiłków rodzinnych i pielęgnacyjnych,
-    - **c)** osoby niepełnosprawne niezdolne do samodzielnej egzystencji w rozumieniu przepisów ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 256, 859 i 1246), wymagające stałej opieki członka służby zagranicznej;
+    - **c)** osoby niepełnosprawne niezdolne do samodzielnej egzystencji w rozumieniu przepisów ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U.
 
 - **3)** dyplomacie delegowanym – oznacza to osobę wyznaczoną przez innego niż minister właściwy do spraw zagranicznych ministra lub kierownika jednostki sektora finansów publicznych, która wykonuje zadania w placówce zagranicznej określone przez organ wyznaczający;
 - **4)** dyplomacie zawodowym – oznacza to osobę zatrudnioną w urzędzie obsługującym ministra właściwego do spraw zagranicznych na podstawie mianowania, której nadano stopień dyplomatyczny;
@@ -117,7 +116,7 @@ source: pdf
 - **9)** pracowniku krajowym – oznacza to osobę zatrudnioną w urzędzie obsługującym ministra właściwego do spraw zagranicznych na podstawie powołania w celu wykonywania obowiązków członka personelu pomocniczego albo personelu obsługi w placówce zagranicznej;
 - **10)** pracowniku zagranicznym – oznacza to osobę zatrudnioną w urzędzie obsługującym ministra właściwego do spraw zagranicznych na podstawie powołania w celu wykonywania obowiązków członka personelu dyplomatyczno-konsularnego w placówce zagranicznej;
 - **11)** służbie cywilnej – oznacza to służbę cywilną w rozumieniu przepisów ustawy z dnia 21 listopada 2008 r. o służbie cywilnej;
-- **12)** tajemnicy dyplomatycznej – oznacza to informacje, dane oraz wiedzę, niestanowiące informacji niejawnych w rozumieniu przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222), z którymi członek służby zagranicznej zapoznał się w związku z pełnieniem obowiązków i które ze względu na dobro służby zagranicznej mogły być udostępnione wyłącznie osobom do tego uprawnionym, a ich ujawnienie mogłoby szkodzić polityce zagranicznej Rzeczypospolitej Polskiej i naruszać jej wizerunek międzynarodowy.
+- **12)** tajemnicy dyplomatycznej – oznacza to informacje, dane oraz wiedzę, niestanowiące informacji niejawnych w rozumieniu przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209), z którymi członek służby zagranicznej zapoznał się w związku z pełnieniem obowiązków i które ze względu na dobro służby zagranicznej mogły być udostępnione wyłącznie osobom do tego uprawnionym, a ich ujawnienie mogłoby szkodzić polityce zagranicznej Rzeczypospolitej Polskiej i naruszać jej wizerunek międzynarodowy.
 
 #### Rozdział 2 Organizacja i funkcjonowanie służby zagranicznej
 
@@ -232,7 +231,7 @@ source: pdf
 - **4)** o którym mowa w art. 4;
 - **5)** dwukrotnej odmowy przyjęcia przez dyplomatę zawodowego dwóch następujących po sobie wyznaczeń stanowiska w placówce zagranicznej lub komórce organizacyjnej urzędu obsługującego ministra właściwego do spraw zagranicznych, które są zgodne z jego kwalifikacjami i umiejętnościami oraz przebiegiem kariery zawodowej.
 
-4. W przypadku, o którym mowa w ust. 3 pkt 5, drugie wyznaczenie dyplomacie zawodowemu stanowiska w placówce zagranicznej lub komórce organizacyjnej urzędu obsługującego ministra właściwego do spraw zagranicznych może nastąpić nie wcześniej niż po upływie miesiąca od dnia odmowy przyjęcia przez dyplomatę zawodowego wyznaczonego stanowiska.
+4. W przypadku, o którym mowa w ust. 3 pkt 5, drugie wyznaczenie dyplomacie zawodowemu stanowiska w placówce zagranicznej lub komórce organizacyjnej urzędu obsługującego ministra właściwego do spraw zagranicznych może nastąpić niewcześniej niż po upływie miesiąca od dnia odmowy przyjęcia przez dyplomatę zawodowego wyznaczonego stanowiska.
 
 **Art. 17.**
 
@@ -246,7 +245,7 @@ source: pdf
 
 5. Szczegóły oddelegowania dyplomaty zawodowego, w szczególności dotyczące okresu oddelegowania, zakresu obowiązków oddelegowanego, miejsca wykonywania obowiązków przez oddelegowanego reguluje porozumienie zawarte pomiędzy Szefem Służby Zagranicznej, Szefem Kancelarii Prezydenta Rzeczypospolitej Polskiej oraz oddelegowanym dyplomatą zawodowym.
 
-6. Dyplomacie zawodowemu Szef Służby Zagranicznej zapewnia, po zakończeniu oddelegowania, zatrudnienie na stanowisku co najmniej równorzędnym z zajmowanym przed oddelegowaniem, a jeżeli nie jest to możliwe – na innym stanowisku z wynagrodzeniem nie niższym niż przysługujące przed oddelegowaniem.
+6. Dyplomacie zawodowemu Szef Służby Zagranicznej zapewnia, po zakończeniu oddelegowania, zatrudnienie na stanowisku co najmniej równorzędnym z zajmowanym przed oddelegowaniem, a jeżeli nie jest to możliwe – na innym stanowisku z wynagrodzeniem nieniższym niż przysługujące przed oddelegowaniem.
 
 7. Czas oddelegowania wlicza się do stażu w służbie zagranicznej, od którego zależą uprawnienia pracownicze dyplomaty zawodowego, w tym w szczególności w odniesieniu do kryteriów nadania stopnia dyplomatycznego.
 
@@ -289,7 +288,7 @@ source: pdf
 
 4. Członkowi korpusu służby cywilnej zatrudnionemu w urzędzie obsługującym ministra innego niż minister właściwy do spraw zagranicznych oraz w urzędach, o których mowa w art. 2 ust. 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, urlopu bezpłatnego na czas powołania w celu wykonywania obowiązków członka personelu pomocniczego lub personelu obsługi w placówce zagranicznej udziela dyrektor generalny urzędu, w którym członek korpusu służby cywilnej jest zatrudniony.
 
-5. Jeżeli powołanie dotyczy małżonka członka służby zagranicznej skierowanego do pełnienia funkcji w placówce zagranicznej, powołanie następuje na okres nie dłuższy niż okres pełnienia funkcji w placówce zagranicznej przez małżonka, będącego członkiem służby zagranicznej.
+5. Jeżeli powołanie dotyczy małżonka członka służby zagranicznej skierowanego do pełnienia funkcji w placówce zagranicznej, powołanie następuje na okres niedłuższy niż okres pełnienia funkcji w placówce zagranicznej przez małżonka, będącego członkiem służby zagranicznej.
 
 6. Czynności z zakresu prawa pracy w stosunku do pracownika krajowego, o którym mowa w ust. 5, wykonuje w imieniu dyrektora generalnego służby zagranicznej kierownik placówki zagranicznej.
 
@@ -304,9 +303,9 @@ source: pdf
 
 2. Wyznaczenie i odwołanie, o którym mowa w ust. 1, nie wymaga uzasadnienia.
 
-3. Jeżeli wyznaczenie stanowiska skutkuje koniecznością zmiany miejsca pobytu członka służby zagranicznej, wyznaczenie stanowiska następuje z wyprzedzeniem nie krótszym niż 2 miesiące, chyba że na skrócenie tego okresu członek służby zagranicznej wyraził zgodę.
+3. Jeżeli wyznaczenie stanowiska skutkuje koniecznością zmiany miejsca pobytu członka służby zagranicznej, wyznaczenie stanowiska następuje z wyprzedzeniem niekrótszym niż 2 miesiące, chyba że na skrócenie tego okresu członek służby zagranicznej wyraził zgodę.
 
-4. W przypadku zmiany miejsca pobytu członka służby zagranicznej, który przesiedla się wraz z członkami rodziny, wyznaczenie stanowiska następuje z wyprzedzeniem nie krótszym niż 3 miesiące, chyba że na skrócenie tego okresu członek służby zagranicznej wyraził zgodę.
+4. W przypadku zmiany miejsca pobytu członka służby zagranicznej, który przesiedla się wraz z członkami rodziny, wyznaczenie stanowiska następuje z wyprzedzeniem niekrótszym niż 3 miesiące, chyba że na skrócenie tego okresu członek służby zagranicznej wyraził zgodę.
 
 5. Minister właściwy do spraw zagranicznych, kierując się specyfiką i charakterem zadań służby zagranicznej oraz koniecznością zapewnienia bezpieczeństwa jej członkom, określi, w drodze zarządzenia, placówki zagraniczne, na które wyjazd następuje bez członków ich rodzin.
 
@@ -324,7 +323,7 @@ source: pdf
 
 4. Pracownicy delegowani otrzymują wynagrodzenie i inne świadczenia określone w ustawie na zasadach przewidzianych odpowiednio dla personelu pomocniczego lub personelu obsługi.
 
-5. Pracodawca, o którym mowa w ust. 1, może wystąpić do Szefa Służby Zagranicznej o nadanie dyplomacie delegowanemu wyższego stopnia dyplomatycznego, jeżeli uzasadnia to przebieg jego pracy zawodowej, z tym że takie wystąpienie może nastąpić nie wcześniej niż po upływie 2 lat od nadania ostatniego stopnia. Szef Służby Zagranicznej nadaje wyższy stopień dyplomatyczny w terminie miesiąca od dnia złożenia wniosku.
+5. Pracodawca, o którym mowa w ust. 1, może wystąpić do Szefa Służby Zagranicznej o nadanie dyplomacie delegowanemu wyższego stopnia dyplomatycznego, jeżeli uzasadnia to przebieg jego pracy zawodowej, z tym że takie wystąpienie może nastąpić niewcześniej niż po upływie 2 lat od nadania ostatniego stopnia. Szef Służby Zagranicznej nadaje wyższy stopień dyplomatyczny w terminie miesiąca od dnia złożenia wniosku.
 
 **Art. 24.** Członka służby zagranicznej, gdy jest to uzasadnione interesem służby zagranicznej, za jego zgodą, można oddelegować do wykonywania obowiązków w organizacjach i instytucjach międzynarodowych.
 
@@ -332,7 +331,7 @@ source: pdf
 
 1. Jeżeli wymaga tego interes służby zagranicznej, członka służby zagranicznej można przenieść do dyspozycji kadr służby zagranicznej na okres:
 
-- **1)** nie dłuższy niż 6 miesięcy poprzedzający wyznaczenie stanowiska w służbie zagranicznej;
+- **1)** niedłuższy niż 6 miesięcy poprzedzający wyznaczenie stanowiska w służbie zagranicznej;
 - **2)** oddelegowania, o którym mowa w art. 24;
 - **3)** długotrwałego niewykonywania obowiązków służbowych z innych przyczyn.
 
@@ -349,7 +348,7 @@ source: pdf
 - **1)** attaché obrony (wojskowego, morskiego, lotniczego) albo
 - **2)** zastępcy attaché obrony (wojskowego, morskiego, lotniczego).
 
-3. Minister właściwy do spraw zagranicznych i Minister Obrony Narodowej określą, w drodze zarządzenia, szczególne zasady wykonywania obowiązków służbowych przez osoby, o których mowa w ust. 1, a także organizację i funkcjonowanie w placówkach zagranicznych ataszatów obrony, z uwzględnieniem przepisów ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222, 1248 i 1585) oraz ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 2098).
+3. Minister właściwy do spraw zagranicznych i Minister Obrony Narodowej określą, w drodze zarządzenia, szczególne zasady wykonywania obowiązków służbowych przez osoby, o których mowa w ust. 1, a także organizację i funkcjonowanie w placówkach zagranicznych ataszatów obrony, z uwzględnieniem przepisów ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26, 426 i 635) oraz ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2025 r. poz. 694, 718 i 1366).
 
 **Art. 28.**
 
@@ -418,7 +417,7 @@ source: pdf
 
 7. Szef Służby Zagranicznej określa skład i tryb pracy komisji, w tym sposób przeprowadzenia wyższej kwalifikacji dyplomatycznej oraz ustalenia jej wyniku.
 
-8. W przypadku uzyskania negatywnego wyniku wyższej kwalifikacji dyplomatycznej dyplomata zawodowy może do niej przystąpić ponownie nie wcześniej niż po upływie 2 lat.
+8. W przypadku uzyskania negatywnego wyniku wyższej kwalifikacji dyplomatycznej dyplomata zawodowy może do niej przystąpić ponownie niewcześniej niż po upływie 2 lat.
 
 **Art. 30b.**
 
@@ -455,7 +454,7 @@ source: pdf
 
 3. (uchylony)
 
-4. Przed nadaniem stopnia dyplomatycznego osoba, o której mowa w ust. 1 i 2, przedkłada dyrektorowi generalnemu służby zagranicznej informację w rozumieniu przepisów ustawy z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2024 r. poz. 276) stwierdzającą brak karalności za przestępstwo umyślne lub umyślne przestępstwo skarbowe, wydaną nie później niż 3 miesiące przed dniem nadania stopnia dyplomatycznego.
+4. Przed nadaniem stopnia dyplomatycznego osoba, o której mowa w ust. 1 i 2, przedkłada dyrektorowi generalnemu służby zagranicznej informację w rozumieniu przepisów ustawy z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2024 r. poz. 276, z 2025 r. poz. 1235 oraz z 2026 r. poz. 252 i 421) stwierdzającą brak karalności za przestępstwo umyślne lub umyślne przestępstwo skarbowe, wydaną niepóźniej niż 3 miesiące przed dniem nadania stopnia dyplomatycznego.
 
 5. Minister właściwy do spraw zagranicznych określi, w drodze rozporządzenia:
 
@@ -489,8 +488,7 @@ source: pdf
 1. Kierujący placówką zagraniczną:
 
 - **1)** jest przełożonym wszystkich członków służby zagranicznej w kierowanej przez niego placówce zagranicznej oraz osób, o których mowa w art. 3 ust. 2;
-- **2)** odpowiada za bezpieczeństwo placówki zagranicznej i zapewnia jej ochronę, z wyłączeniem przypadków, o których mowa w art. 4 ust. 1 pkt 3b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266 i 1860 oraz z 2024 r. poz. 1222 i
-- **1248)** oraz w art. 3 pkt 1 lit. f ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2024 r. poz. 325 i 1222).
+- **2)** odpowiada za bezpieczeństwo placówki zagranicznej i zapewnia jej ochronę, z wyłączeniem przypadków, o których mowa w art. 4 ust. 1 pkt 3b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2026 r. poz. 159) oraz w art. 3 pkt 1 lit. f ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z późn. zm. ).
 
 2. (uchylony)
 
@@ -581,7 +579,7 @@ source: pdf
 
 - **1)** szkolenia teoretycznego trwającego co najmniej 2 miesiące;
 - **2)** stażu w urzędzie obsługującym ministra właściwego do spraw zagranicznych trwającego co najmniej 4 miesiące;
-- **3)** staży zagranicznych trwających łącznie nie dłużej niż 6 miesięcy.
+- **3)** staży zagranicznych trwających łącznie niedłużej niż 6 miesięcy.
 
 6. Przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej dotyczące służby przygotowawczej i pierwszej oceny stosuje się odpowiednio, z tym że pierwszą ocenę w służbie zagranicznej sporządza się po upływie 1 roku.
 
@@ -601,7 +599,7 @@ source: pdf
 
 4. Umowa o pracę z aplikantem dyplomatyczno-konsularnym, będącym urzędnikiem służby cywilnej, przekształca się na czas odbywania aplikacji dyplomatyczno-konsularnej w umowę o pracę na czas określony na okres 1 roku.
 
-5. Z aplikantem dyplomatyczno-konsularnym, który nie złożył egzaminu dyplomatyczno-konsularnego z wynikiem pozytywnym, umowę o pracę na czas określony można przedłużyć na okres, który umożliwia złożenie egzaminu dyplomatyczno-konsularnego, jednak nie dłuższy niż okres roku.
+5. Z aplikantem dyplomatyczno-konsularnym, który nie złożył egzaminu dyplomatyczno-konsularnego z wynikiem pozytywnym, umowę o pracę na czas określony można przedłużyć na okres, który umożliwia złożenie egzaminu dyplomatyczno-konsularnego, jednak niedłuższy niż okres roku.
 
 6. W przypadku niezłożenia egzaminu dyplomatyczno-konsularnego przez urzędnika służby cywilnej w terminie określonym w ust. 5, dyrektor generalny służby zagranicznej powiadamia niezwłocznie Szefa Służby Cywilnej o konieczności wyznaczenia stanowiska urzędnikowi służby cywilnej w urzędzie innym niż urząd obsługujący ministra właściwego do spraw zagranicznych. W takim przypadku przepis art. 66 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej stosuje się odpowiednio.
 
@@ -662,7 +660,7 @@ source: pdf
 
 2. Na stanowisko zastępcy dyrektora w urzędzie obsługującym ministra właściwego do spraw zagranicznych, będące wyższym stanowiskiem w służbie cywilnej, może zostać powołany także członek personelu pomocniczego lub inna osoba spełniająca wymagania określone w art. 31 ust. 1 pkt 4–7, która spełnia wymagania określone w art. 53 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
 
-3. Na stanowisko kierownicze w komórce organizacyjnej w urzędzie obsługującym ministra właściwego do spraw zagranicznych, o której mowa w art. 39 ust. 2 pkt 2 i 3 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050 i 1473), może zostać powołany także członek personelu pomocniczego lub inna osoba spełniająca wymagania określone w art. 31 ust. 1 pkt 5–7, która spełnia wymagania określone w art. 53 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
+3. Na stanowisko kierownicze w komórce organizacyjnej w urzędzie obsługującym ministra właściwego do spraw zagranicznych, o której mowa w art. 39 ust. 2 pkt 2 i 3 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160), może zostać powołany także członek personelu pomocniczego lub inna osoba spełniająca wymagania określone w art. 31 ust. 1 pkt 5–7, która spełnia wymagania określone w art. 53 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
 
 4. Na stanowisko zastępcy dyrektora w komórce organizacyjnej w urzędzie obsługującym ministra właściwego do spraw zagranicznych może zostać powołany także członek personelu pomocniczego lub inna osoba spełniająca wymagania określone w art. 31 ust. 1 pkt 5–7, która spełnia wymagania określone w art. 53 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
 
@@ -690,7 +688,7 @@ source: pdf
 - **2)** nagana;
 - **3)** nagana z pozbawieniem możliwości awansowania przez okres 2 lat;
 - **4)** (uchylony)
-- **5)** obniżenie wynagrodzenia zasadniczego, nie więcej niż o 25 % – przez okres nie dłuższy niż 6 miesięcy;
+- **5)** obniżenie wynagrodzenia zasadniczego, niewięcej niż o 25 % – przez okres niedłuższy niż 6 miesięcy;
 - **6)** wydalenie z pracy w służbie zagranicznej.
 
 3. W służbie zagranicznej działa rzecznik dyscyplinarny służby zagranicznej, będący rzecznikiem dyscyplinarnym w rozumieniu przepisów ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
@@ -735,9 +733,9 @@ source: pdf
     - **a)** urlopu wypoczynkowego,
     - **b)** dnia wolnego za święto obniżające wymiar czasu pracy,
     - **c)** dnia zwolnienia od pracy, za które pracownik zachowuje prawo do wynagrodzenia,
-    - **d)** okoliczności, o których mowa w art. 173 1 , art. 188 i art. 189 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+    - **d)** okoliczności, o których mowa w art. 173 , art. 188 i art. 189 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 
-- **2)** nieobecność z tytułu niezdolności do pracy wskutek choroby lub odosobnienia w związku z chorobą zakaźną trwająca nieprzerwanie w okresie każdego roku kalendarzowego nie dłużej niż 33 dni.
+- **2)** nieobecność z tytułu niezdolności do pracy wskutek choroby lub odosobnienia w związku z chorobą zakaźną trwająca nieprzerwanie w okresie każdego roku kalendarzowego niedłużej niż 33 dni.
 
 3. Dodatek zagraniczny nie jest składnikiem wynagrodzenia i nie stanowi podstawy obliczania ekwiwalentu pieniężnego za urlop wypoczynkowy.
 
@@ -789,7 +787,7 @@ source: pdf
 - **2)** pokrycie części kosztów eksploatacji lokalu mieszkalnego;
 - **3)** zwrot uzasadnionych i udokumentowanych kosztów leczenia członka służby zagranicznej i członków jego rodziny przebywających z nim na stałe w państwie przyjmującym.
 
-2. Pracodawca zapewnia członkowi służby zagranicznej świadczenia, o których mowa w ust. 1, także jeżeli nie przebywa on w państwie przyjmującym nie dłużej niż 3 miesiące w roku kalendarzowym w związku z usprawiedliwioną nieobecnością w pracy.
+2. Pracodawca zapewnia członkowi służby zagranicznej świadczenia, o których mowa w ust. 1, także jeżeli nie przebywa on w państwie przyjmującym niedłużej niż 3 miesiące w roku kalendarzowym w związku z usprawiedliwioną nieobecnością w pracy.
 
 3. Członkom służby zagranicznej będącym małżeństwem przysługuje uprawnienie do korzystania z jednego lokalu mieszkalnego, o którym mowa w ust. 1 pkt 1, jeżeli zostaną im wyznaczone stanowiska w tej samej placówce zagranicznej lub w różnych placówkach zagranicznych, ale znajdujących się na terenie tej samej aglomeracji miejskiej.
 
@@ -835,17 +833,14 @@ source: pdf
 - **1)** koszty pobytu i leczenia w szpitalu lub w innym zakładzie leczniczym, wizyt lekarskich, porodów i opieki nad ciężarną oraz noworodkiem, porad i badań lekarskich oraz zabiegów leczniczych, z wyjątkiem kosztów pobytu i leczenia w sanatorium lub uzdrowisku, porad i zabiegów z zakresu kosmetyki oraz osobistych wydatków chorego – w wysokości 100 %;
 - **2)** koszty badań dodatkowych zleconych przez lekarza – w wysokości 100 %;
 - **3)** koszty obowiązkowych szczepień ochronnych zleconych przez Światową Organizację Zdrowia (WHO), miejscową lub krajową służbę zdrowia – w wysokości 100 %;
-- **4)** koszty rehabilitacji zaleconej przez lekarza, w tym fizykoterapii, elektroterapii, kinezyterapii, gimnastyki korekcyjnej u dzieci i młodzieży do
-
-18. roku życia – w wysokości 50 %;
-
+- **4)** koszty rehabilitacji zaleconej przez lekarza, w tym fizykoterapii, elektroterapii, kinezyterapii, gimnastyki korekcyjnej u dzieci i młodzieży do 18. roku życia – w wysokości 50 %;
 - **5)** koszty leczenia cukrzycy (wizyty lekarskie, analizy, lekarstwa, testy, wstrzykiwacze) – w wysokości 100 %;
 - **6)** koszty leczenia stomatologicznego, zachowawczego i profilaktycznego – w wysokości 70 %;
 - **7)** koszty chirurgii stomatologicznej, ekstrakcji zębów, badania rentgenowskiego zębów – w wysokości 100 %;
-- **8)** koszty porad z zakresu protetyki i ortodoncji, uzupełnień protetycznych, z wyjątkiem implantów – nie częściej niż raz na pięć lat, aparatów ortodontycznych ruchomych dla dzieci i młodzieży do 12. roku życia, przy spełnieniu warunku zakończenia zleconego przez specjalistę leczenia przed końcem wykonywania przez członka służby zagranicznej obowiązków w placówce zagranicznej – w wysokości 50 %;
+- **8)** koszty porad z zakresu protetyki i ortodoncji, uzupełnień protetycznych, z wyjątkiem implantów – nieczęściej niż raz na pięć lat, aparatów ortodontycznych ruchomych dla dzieci i młodzieży do 12. roku życia, przy spełnieniu warunku zakończenia zleconego przez specjalistę leczenia przed końcem wykonywania przez członka służby zagranicznej obowiązków w placówce zagranicznej – w wysokości 50 %;
 - **9)** koszty zakupu leków na zlecenie lekarza – w wysokości 70 %, a w przypadku członków służby zagranicznej wykonujących obowiązki w placówce zagranicznej mającej siedzibę w miejscu określonym w przepisach wydanych na podstawie art. 58 ust. 4 – w wysokości 100 %;
 - **10)** koszty zakupu artykułów medycznych zaleconych przez lekarza, w tym strzykawek i igieł jednorazowych oraz materiałów opatrunkowych, z wyjątkiem ortez, kul ortopedycznych, rajstop przeciwżylakowych, pończoch kompresyjnych przeciwżylakowych – w wysokości 100 %;
-- **11)** koszty zakupu soczewek korekcyjnych (soczewek dwuogniskowych, standardowych soczewek kontaktowych), zleconych przez lekarza okulistę lub optyka, nie częściej niż raz na 2 lata i tylko w przypadku zmiany ich mocy – w wysokości 50 % kosztów soczewek korekcyjnych; w przypadku dzieci i młodzieży do 18. roku życia w razie pogorszenia się wady wzroku dopuszcza się zwrot kosztów zakupu soczewek korekcyjnych częściej, w zależności od zlecenia lekarza.
+- **11)** koszty zakupu soczewek korekcyjnych (soczewek dwuogniskowych, standardowych soczewek kontaktowych), zleconych przez lekarza okulistę lub optyka, nieczęściej niż raz na 2 lata i tylko w przypadku zmiany ich mocy – w wysokości 50 % kosztów soczewek korekcyjnych; w przypadku dzieci i młodzieży do 18. roku życia w razie pogorszenia się wady wzroku dopuszcza się zwrot kosztów zakupu soczewek korekcyjnych częściej, w zależności od zlecenia lekarza.
 
 2. Członkowi służby zagranicznej oraz członkom jego rodziny przebywającym z nim na stałe w państwie przyjmującym, którzy są uprawnieni do świadczeń opieki zdrowotnej przysługujących ubezpieczonemu, zgodnie z przepisami o koordynacji, na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, przysługuje wyłącznie zwrot kosztów leczenia, które zgodnie z przepisami obowiązującymi w państwie przyjmującym nie są pokrywane przez instytucję zagraniczną, na której koszt są udzielane świadczenia opieki zdrowotnej, do wysokości i na zasadach określonych w ust. 1.
 
@@ -877,7 +872,7 @@ source: pdf
 
 1. Członkowi służby zagranicznej wykonującemu obowiązki w placówce zagranicznej przysługuje:
 
-- **1)** pokrycie kosztów przejazdu, wraz z członkami rodziny przebywającymi z nim na stałe w państwie przyjmującym, do kraju i z powrotem – w ramach podróży urlopowej raz na 2 lata, z tym że nie wcześniej niż po upływie 18 miesięcy od dnia podjęcia obowiązków w placówce zagranicznej; koszty przejazdu pokrywa się ponownie po każdych następnych 2 latach pracy w placówce zagranicznej; kosztów przejazdu nie pokrywa się w roku kalendarzowym planowanego odwołania członka służby zagranicznej ze stanowiska w placówce zagranicznej;
+- **1)** pokrycie kosztów przejazdu, wraz z członkami rodziny przebywającymi z nim na stałe w państwie przyjmującym, do kraju i z powrotem – w ramach podróży urlopowej raz na 2 lata, z tym że niewcześniej niż po upływie 18 miesięcy od dnia podjęcia obowiązków w placówce zagranicznej; koszty przejazdu pokrywa się ponownie po każdych następnych 2 latach pracy w placówce zagranicznej; kosztów przejazdu nie pokrywa się w roku kalendarzowym planowanego odwołania członka służby zagranicznej ze stanowiska w placówce zagranicznej;
 - **2)** zwrot kosztów podróży do Rzeczypospolitej Polskiej i z powrotem w związku ze zgonem małżonka członka służby zagranicznej lub zgonu jego rodziców, rodzeństwa lub dziecka;
 - **3)** zwrot kosztów przewozu do Rzeczypospolitej Polskiej zwłok lub szczątków ludzkich w przypadku zgonu członka rodziny członka służby zagranicznej przebywającego z nim na stałe w państwie przyjmującym.
 
@@ -888,7 +883,7 @@ source: pdf
 - **1)** pokrycie kosztów podróży przesiedleniowej do kraju oraz ryczałt na pokrycie kosztów przewozu mienia osobistego ustalone zgodnie z przepisami art. 53a ust. 1 pkt 1 i 2 oraz ust. 4;
 - **2)** korzystanie na dotychczasowych zasadach z lokalu mieszkalnego przydzielonego uprzednio zmarłemu członkowi służby zagranicznej – na czas niezbędny do zorganizowania przewozu do kraju zwłok lub szczątków ludzkich i zorganizowania podróży przesiedleniowej.
 
-4. W przypadku zgonu członka służby zagranicznej wykonującego obowiązki w placówce zagranicznej zwrot kosztów przewozu do kraju jego zwłok lub szczątków ludzkich przysługuje osobom uprawnionym do dokonania pochówku zgodnie z ustawą z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2024 r. poz. 576).
+4. W przypadku zgonu członka służby zagranicznej wykonującego obowiązki w placówce zagranicznej zwrot kosztów przewozu do kraju jego zwłok lub szczątków ludzkich przysługuje osobom uprawnionym do dokonania pochówku zgodnie z ustawą z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2025 r. poz. 1590).
 
 **Art. 53i.**
 
@@ -1032,7 +1027,7 @@ source: pdf
 
 **Art. 85c.** W celu wykonania przepisów niniejszej ustawy Prezes Rady Ministrów może dokonać, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
 
-**Art. 86.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16 ust. 6 ustawy zmienianej w art. 71 w brzmieniu dotychczasowym zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 6 ustawy zmienianej w art. 71 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+**Art. 86.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16 ust. 6 ustawy zmienianej w art. 71 w brzmieniu dotychczasowym zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 6 ustawy zmienianej w art. 71 w brzmieniu nadanym niniejszą ustawą, niedłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 87.** (uchylony)
 

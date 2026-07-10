@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1998-11-20 |
 | Data wydania | 1998-11-27 |
-| Ostatnia zmiana | 2025-11-27 |
+| Ostatnia zmiana | 2026-06-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981440930) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/930/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -304,63 +304,37 @@ source: pdf
     - **b)** pośrednictwa w sprzedaży motocykli oraz części i akcesoriów do nich (PKWiU 45.40.40.0),
     - **c)** pośrednictwa w sprzedaży hurtowej (PKWiU grupa 46.1),
     - **d)** magazynowania i przechowywania cieczy i gazów (PKWiU 52.10.12.0), magazynowania i przechowywania towarów w strefach wolnocłowych (PKWiU ex 52.10.19.0), parkingowych (PKWiU 52.21.24.0), obsługi centrali wzywania radio-taxi (PKWiU ex 52.21.29.0), pilotowania na wodach morskich i przybrzeżnych (PKWiU ex 52.22.13.0), pilotowania na wodach śródlądowych (PKWiU ex 52.22.14.0),
-    - **e)** licencyjnych związanych z: – nabywaniem praw do książek, broszur, ulotek, map itp. (PKWiU
+    - **e)** licencyjnych związanych z: – nabywaniem praw do książek, broszur, ulotek, map itp. (PKWiU 58.11.60.0), – nabywaniem praw do korzystania z wykazów i list (np. adresowych, telefonicznych) (PKWiU 58.12.30.0), – nabywaniem praw do czasopism i pozostałych periodyków (PKWiU 58.14.40.0), – nabywaniem praw do pozostałych wyrobów drukowanych (PKWiU 58.19.30.0), – nabywaniem praw do korzystania z gier komputerowych (PKWiU 58.21.40.0), – nabywaniem praw do korzystania z programów komputerowych (PKWiU 58.29.50.0),
+    - **f)** związanych ze sprzedażą miejsca reklamowego w wykazach i listach (np. adresowych, telefonicznych) (PKWiU 58.12.40.0),
+    - **g)** (uchylona)
+    - **h)** związanych z nadawaniem programów ogólnodostępnych i abonamentowych (PKWiU dział 60),
+    - **i)** przetwarzania danych (PKWiU ex 63.11.1), przesyłania strumieni wideo przez Internet (PKWiU 59.11.25.0), przesyłania strumieni audio przez Internet (PKWiU 59.20.36.0), agencji informacyjnych (PKWiU 63.91.1) oraz pozostałych w zakresie informacji, gdzie indziej niesklasyfikowanych (PKWiU 63.99),
+    - **j)** finansowych i ubezpieczeniowych (PKWiU sekcja K), innych niż świadczone w ramach wolnych zawodów,
+    - **k)** związanych z obsługą nieruchomości, świadczonych na zlecenie (PKWiU 68.3),
+    - **l)** prawnych, rachunkowo-księgowych i doradztwa podatkowego (PKWiU dział 69), innych niż świadczone w ramach wolnych zawodów,
+    - **m)** firm centralnych (head office); usług doradztwa związanych z zarządzaniem (PKWiU ex dział 70), z wyjątkiem usług doradztwa związanych z zarządzaniem rynkiem rybnym (PKWiU 70.22.16.), innych niż świadczone w ramach wolnych zawodów,
+    - **n)** (uchylona)
+    - **o)** reklamowych; usług badania rynku i opinii publicznej (PKWiU dział 73),
+    - **p)** (uchylona)
+    - **q)** fotograficznych (PKWiU 74.2),
+    - **r)** tłumaczeń pisemnych i ustnych (PKWiU 74.3), innych niż świadczone w ramach wolnych zawodów,
+    - **s)** związanych z zatrudnieniem (PKWiU dział 78),
+    - **t)** przez organizatorów turystyki, pośredników i agentów turystycznych oraz pozostałych usług rezerwacji i usług z nią związanych (PKWiU dział 79),
+    - **u)** detektywistycznych i ochroniarskich (PKWiU dział 80), z wyjątkiem robót związanych z instalowaniem systemów przeciwpożarowych i przeciwwłamaniowych z późniejszym monitoringiem,
+    - **v)** obsługi nieruchomości wykonywanych na zlecenie, polegających m.in. na utrzymaniu porządku w budynkach, kontroli systemów ogrzewania, wentylacji, klimatyzacji, wykonywaniu drobnych napraw (PKWiU 81.10.10.0), dezynfekcji i tępienia szkodników (PKWiU 81.29.11.0), związanych ze wspomaganiem prowadzenia działalności gospodarczej, gdzie indziej niesklasyfikowane (PKWiU 82.9), centrów telefonicznych (call center) (PKWiU 82.20.10.0), powielania (PKWiU 82.19.11.0), związanych z organizowaniem kongresów, targów i wystaw (PKWiU 82.30),
+    - **w)** (uchylona)
+    - **x)** w zakresie pomocy społecznej bez zakwaterowania (PKWiU ex dział 88), z wyłączeniem usług pomocy społecznej bez zakwaterowania w zakresie odwiedzania i pomocy domowej świadczonych osobom niepełnosprawnym (PKWiU 88.10.14), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej świadczonych osobom dorosłym niepełnosprawnym (PKWiU 88.10.15), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi, z wyłączeniem opieki nad dziećmi niepełnosprawnymi (PKWiU 88.91.11), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi i młodzieżą niepełnosprawną (PKWiU 88.91.12), usług pomocy społecznej bez zakwaterowania świadczonych przez opiekunki do dzieci (PKWiU 88.91.13), pozostałych usług pomocy społecznej bez zakwaterowania, gdzie indziej niesklasyfikowane (PKWiU 88.99.19),
+    - **y)** kulturalnych i rozrywkowych (PKWiU dział 90),
+    - **z)** związanych ze sportem, rozrywką i rekreacją (PKWiU dział 93);
 
-58. 11.60.0), – nabywaniem praw do korzystania z wykazów i list (np. adresowych, telefonicznych) (PKWiU 58.12.30.0), – nabywaniem praw do czasopism i pozostałych periodyków (PKWiU
-
-58. 14.40.0), – nabywaniem praw do pozostałych wyrobów drukowanych (PKWiU
-
-58. 19.30.0), – nabywaniem praw do korzystania z gier komputerowych (PKWiU
-
-58. 21.40.0), – nabywaniem praw do korzystania z programów komputerowych (PKWiU 58.29.50.0), adresowych, telefonicznych) (PKWiU 58.12.40.0),
-
-- **f)** związanych ze sprzedażą miejsca reklamowego w wykazach i listach (np.
-- **g)** (uchylona)
-- **h)** związanych z nadawaniem programów ogólnodostępnych i abonamentowych (PKWiU dział 60),
-- **i)** przetwarzania danych (PKWiU ex 63.11.1), przesyłania strumieni wideo przez Internet (PKWiU 59.11.25.0), przesyłania strumieni audio przez Internet (PKWiU 59.20.36.0), agencji informacyjnych (PKWiU 63.91.1) oraz pozostałych w zakresie informacji, gdzie indziej niesklasyfikowanych (PKWiU 63.99),
-- **j)** finansowych i ubezpieczeniowych (PKWiU sekcja K), innych niż świadczone w ramach wolnych zawodów,
-- **k)** związanych z obsługą nieruchomości, świadczonych na zlecenie (PKWiU
-
-68. 3),
-
-- **l)** prawnych, rachunkowo-księgowych i doradztwa podatkowego (PKWiU dział 69), innych niż świadczone w ramach wolnych zawodów,
-- **m)** firm centralnych (head office); usług doradztwa związanych z zarządzaniem (PKWiU ex dział 70), z wyjątkiem usług doradztwa związanych z zarządzaniem rynkiem rybnym (PKWiU 70.22.16.), innych niż świadczone w ramach wolnych zawodów,
-- **n)** (uchylona)
-- **o)** reklamowych; usług badania rynku i opinii publicznej (PKWiU dział 73),
-- **p)** (uchylona)
-- **q)** fotograficznych (PKWiU 74.2),
-- **r)** tłumaczeń pisemnych i ustnych (PKWiU 74.3), innych niż świadczone w ramach wolnych zawodów,
-- **s)** związanych z zatrudnieniem (PKWiU dział 78),
-- **t)** przez organizatorów turystyki, pośredników i agentów turystycznych oraz pozostałych usług rezerwacji i usług z nią związanych (PKWiU dział 79),
-- **u)** detektywistycznych i ochroniarskich (PKWiU dział 80), z wyjątkiem robót związanych z instalowaniem systemów przeciwpożarowych i przeciwwłamaniowych z późniejszym monitoringiem,
-- **v)** obsługi nieruchomości wykonywanych na zlecenie, polegających m.in. na utrzymaniu porządku w budynkach, kontroli systemów ogrzewania, wentylacji, klimatyzacji, wykonywaniu drobnych napraw (PKWiU
-
-81. 10.10.0), dezynfekcji i tępienia szkodników (PKWiU 81.29.11.0), związanych ze wspomaganiem prowadzenia działalności gospodarczej, gdzie indziej niesklasyfikowane (PKWiU 82.9), centrów telefonicznych (call center) (PKWiU 82.20.10.0), powielania (PKWiU 82.19.11.0), związanych z organizowaniem kongresów, targów i wystaw (PKWiU
-
-82. 30),
-
-- **w)** (uchylona)
-- **x)** w zakresie pomocy społecznej bez zakwaterowania (PKWiU ex dział 88), z wyłączeniem usług pomocy społecznej bez zakwaterowania w zakresie odwiedzania i pomocy domowej świadczonych osobom niepełnosprawnym (PKWiU 88.10.14), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej świadczonych osobom dorosłym niepełnosprawnym (PKWiU 88.10.15), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi, z wyłączeniem opieki nad dziećmi niepełnosprawnymi (PKWiU 88.91.11), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi i młodzieżą niepełnosprawną (PKWiU 88.91.12), usług pomocy społecznej bez zakwaterowania świadczonych przez opiekunki do dzieci (PKWiU
-
-88. 91.13), pozostałych usług pomocy społecznej bez zakwaterowania, gdzie indziej niesklasyfikowane (PKWiU 88.99.19),
-
-- **y)** kulturalnych i rozrywkowych (PKWiU dział 90),
-- **z)** związanych ze sportem, rozrywką i rekreacją (PKWiU dział 93);
 - **2a)** 14 % przychodów ze świadczenia usług:
     - **a)** w zakresie opieki zdrowotnej (PKWiU dział 86),
     - **b)** architektonicznych i inżynierskich; usług badań i analiz technicznych (PKWiU dział 71),
     - **c)** w zakresie specjalistycznego projektowania (PKWiU 74.1);
 
 - **2b)** 12 % przychodów ze świadczenia usług:
-    - **a)** związanych z wydawaniem: – pakietów gier komputerowych (PKWiU ex 58.21.10.0), z wyłączeniem publikowania gier komputerowych w trybie on-line, – pakietów oprogramowania systemowego (PKWiU 58.29.1), – pakietów oprogramowania użytkowego (PKWiU 58.29.2), – oprogramowania komputerowego pobieranego z Internetu (PKWiU ex
-
-58. 29.3), z wyłączeniem pobierania oprogramowania w trybie on-line,
-
-- **b)** związanych z doradztwem w zakresie sprzętu komputerowego (PKWiU
-
-62. 02.10.0), związanych z oprogramowaniem (PKWiU ex 62.01.1), objętych grupowaniem „Oryginały oprogramowania komputerowego” (PKWiU 62.01.2), związanych z doradztwem w zakresie oprogramowania (PKWiU ex 62.02), w zakresie instalowania oprogramowania (PKWiU ex
-
-62. 09.20.0), związanych z zarządzaniem siecią i systemami informatycznymi (PKWiU 62.03.1);
+    - **a)** związanych z wydawaniem: – pakietów gier komputerowych (PKWiU ex 58.21.10.0), z wyłączeniem publikowania gier komputerowych w trybie on-line, – pakietów oprogramowania systemowego (PKWiU 58.29.1), – pakietów oprogramowania użytkowego (PKWiU 58.29.2), – oprogramowania komputerowego pobieranego z Internetu (PKWiU ex 58.29.3), z wyłączeniem pobierania oprogramowania w trybie on-line,
+    - **b)** związanych z doradztwem w zakresie sprzętu komputerowego (PKWiU 62.02.10.0), związanych z oprogramowaniem (PKWiU ex 62.01.1), objętych grupowaniem „Oryginały oprogramowania komputerowego” (PKWiU 62.01.2), związanych z doradztwem w zakresie oprogramowania (PKWiU ex 62.02), w zakresie instalowania oprogramowania (PKWiU ex 62.09.20.0), związanych z zarządzaniem siecią i systemami informatycznymi (PKWiU 62.03.1);
 
 - **3)** 10 % przychodów ze świadczenia usług w zakresie kupna i sprzedaży nieruchomości na własny rachunek (PKWiU 68.10.1);
 - **4)** 8,5 % przychodów do kwoty 100 000 zł oraz 12,5 % przychodów od nadwyżki ponad kwotę 100 000 zł z tytułu:
@@ -369,11 +343,9 @@ source: pdf
     - **c)** świadczenia usług związanych z zakwaterowaniem (PKWiU dział 55),
     - **d)** świadczenia usług wynajmu i obsługi nieruchomości własnych lub dzierżawionych (PKWiU 68.20.1),
     - **e)** wykonywania usług w zakresie badań naukowych i prac rozwojowych (PKWiU dział 72),
-    - **f)** wynajmu i dzierżawy: – samochodów osobowych i furgonetek, bez kierowcy (PKWiU
+    - **f)** wynajmu i dzierżawy: – samochodów osobowych i furgonetek, bez kierowcy (PKWiU 77.11.10.0), – pozostałych pojazdów samochodowych (z wyłączeniem motocykli), bez kierowcy (PKWiU 77.12.1), – środków transportu wodnego bez załogi (PKWiU 77.34.10.0), – środków transportu lotniczego bez załogi (PKWiU 77.35.10.0), – pojazdów szynowych (bez obsługi) (PKWiU 77.39.11.0), – kontenerów (PKWiU 77.39.12.0), – motocykli, przyczep kempingowych i samochodów z częścią mieszkalną, bez kierowcy (PKWiU 77.39.13.0), – własności intelektualnej i podobnych produktów z wyłączeniem prac chronionych prawem autorskim (PKWiU 77.40),
+    - **g)** świadczenia usług pomocy społecznej z zakwaterowaniem (PKWiU dział
 
-77. 11.10.0), – pozostałych pojazdów samochodowych (z wyłączeniem motocykli), bez kierowcy (PKWiU 77.12.1), – środków transportu wodnego bez załogi (PKWiU 77.34.10.0), – środków transportu lotniczego bez załogi (PKWiU 77.35.10.0), – pojazdów szynowych (bez obsługi) (PKWiU 77.39.11.0), – kontenerów (PKWiU 77.39.12.0), – motocykli, przyczep kempingowych i samochodów z częścią mieszkalną, bez kierowcy (PKWiU 77.39.13.0), – własności intelektualnej i podobnych produktów z wyłączeniem prac chronionych prawem autorskim (PKWiU 77.40),
-
-- **g)** świadczenia usług pomocy społecznej z zakwaterowaniem (PKWiU dział
 - **87)** ;
 - **5)** 8,5 %:
     - **a)** przychodów z działalności usługowej, w tym przychodów z działalności gastronomicznej w zakresie sprzedaży napojów o zawartości alkoholu powyżej 1,5 %, z zastrzeżeniem pkt 1–4 oraz 6–8,
@@ -393,14 +365,12 @@ source: pdf
 - **7)** 3,0 % przychodów:
     - **a)** z działalności gastronomicznej, z wyjątkiem przychodów ze sprzedaży napojów o zawartości alkoholu powyżej 1,5 %,
     - **b)** z działalności usługowej w zakresie handlu, z zastrzeżeniem pkt 2 i 3,
-    - **c)** ze świadczenia usług związanych z produkcją zwierzęcą (PKWiU
+    - **c)** ze świadczenia usług związanych z produkcją zwierzęcą (PKWiU 01.62.10.0),
+    - **d)** z działalności rybaków morskich i zalewowych w zakresie sprzedaży ryb i innych surowców pochodzących z własnych połowów, z wyjątkiem sprzedaży konserw oraz prezerw z ryb i innych surowców z połowów,
+    - **e)** o których mowa w art. 14 ust. 2 pkt 2, 5–10 i 19–21 ustawy o podatku dochodowym,
+    - **f)** z odpłatnego zbycia ruchomych składników majątku wykorzystywanych w pozarolniczej działalności gospodarczej, nawet jeżeli przed zbyciem zostały wycofane z tej działalności gospodarczej, a pomiędzy pierwszym dniem miesiąca następującego po miesiącu, w którym składnik majątku został wycofany z działalności, i dniem jego zbycia nie upłynęło sześć lat, będących: – środkami trwałymi podlegającymi ujęciu w wykazie środków trwałych oraz wartości niematerialnych i prawnych, – składnikami majątku, o których mowa w art. 22d ust. 1 ustawy o podatku dochodowym, z wyłączeniem składników, których wartość początkowa, ustalona zgodnie z art. 22g ustawy o podatku dochodowym, nie przekracza 1500 zł, – składnikami majątku, które ze względu na przewidywany okres używania równy rokowi lub krótszy niż rok nie zostały zaliczone do środków trwałych albo wartości niematerialnych i prawnych,
+    - **g)** z odpłatnego zbycia ruchomych składników majątku przedsiębiorstwa w spadku;
 
-01. 62.10.0),
-
-- **d)** z działalności rybaków morskich i zalewowych w zakresie sprzedaży ryb i innych surowców pochodzących z własnych połowów, z wyjątkiem sprzedaży konserw oraz prezerw z ryb i innych surowców z połowów,
-- **e)** o których mowa w art. 14 ust. 2 pkt 2, 5–10 i 19–21 ustawy o podatku dochodowym,
-- **f)** z odpłatnego zbycia ruchomych składników majątku wykorzystywanych w pozarolniczej działalności gospodarczej, nawet jeżeli przed zbyciem zostały wycofane z tej działalności gospodarczej, a pomiędzy pierwszym dniem miesiąca następującego po miesiącu, w którym składnik majątku został wycofany z działalności, i dniem jego zbycia nie upłynęło sześć lat, będących: – środkami trwałymi podlegającymi ujęciu w wykazie środków trwałych oraz wartości niematerialnych i prawnych, – składnikami majątku, o których mowa w art. 22d ust. 1 ustawy o podatku dochodowym, z wyłączeniem składników, których wartość początkowa, ustalona zgodnie z art. 22g ustawy o podatku dochodowym, nie przekracza 1500 zł, – składnikami majątku, które ze względu na przewidywany okres używania równy rokowi lub krótszy niż rok nie zostały zaliczone do środków trwałych albo wartości niematerialnych i prawnych,
-- **g)** z odpłatnego zbycia ruchomych składników majątku przedsiębiorstwa w spadku;
 - **8)** 2 % przychodów, o których mowa w art. 6 ust. 1d.
 
 2. Podatek zryczałtowany, o którym mowa w ust. 1, pobiera się bez pomniejszania przychodu o koszty uzyskania.
@@ -494,9 +464,13 @@ source: pdf
 
 11a. Podatnicy są obowiązani prowadzić ewidencję faktur dokumentujących przychody rozliczane metodą kasową, o której mowa w art. 14c ustawy o podatku dochodowym. Ewidencja ta zawiera datę wystawienia faktury, numer faktury, kwotę należności wynikającą z faktury oraz datę uregulowania należności.
 
-11b. Przedsiębiorstwo w spadku kontynuuje po zmarłym przedsiębiorcy prowadzenie ewidencji faktur, o której mowa w ust. 11a. <12. Podmioty, o których mowa w ust. 1, prowadzące ewidencję lub wykaz środków trwałych oraz wartości niematerialnych i prawnych są obowiązane prowadzić tę ewidencję i wykaz przy użyciu programów komputerowych oraz przesyłać właściwemu naczelnikowi urzędu skarbowego tę ewidencję i wykaz po zakończeniu roku podatkowego w terminie do dnia upływu terminu złożenia zeznania, o którym mowa w art. 21 ust. 2 pkt 2, za pomocą środków komunikacji elektronicznej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 ustawy – Ordynacja podatkowa, na zasadach dotyczących przesyłania ksiąg podatkowych lub ich części określonych w przepisach wydanych na podstawie art. 193a § 3 ustawy – Ordynacja podatkowa.
+11b. Przedsiębiorstwo w spadku kontynuuje po zmarłym przedsiębiorcy prowadzenie ewidencji faktur, o której mowa w ust. 11a.
+
+12. Podmioty, o których mowa w ust. 1, prowadzące ewidencję lub wykaz środków trwałych oraz wartości niematerialnych i prawnych są obowiązane prowadzić tę ewidencję i wykaz przy użyciu programów komputerowych oraz przesyłać właściwemu naczelnikowi urzędu skarbowego tę ewidencję i wykaz po zakończeniu roku podatkowego w terminie do dnia upływu terminu złożenia zeznania, o którym mowa w art. 21 ust. 2 pkt 2, za pomocą środków komunikacji elektronicznej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 ustawy – Ordynacja podatkowa, na zasadach dotyczących przesyłania ksiąg podatkowych lub ich części określonych w przepisach wydanych na podstawie art. 193a § 3 ustawy – Ordynacja podatkowa.
 
 13. W przypadku spółki niebędącej osobą prawną ewidencja lub wykaz środków trwałych oraz wartości niematerialnych i prawnych są przesyłane naczelnikowi urzędu skarbowego właściwemu według miejsca prowadzenia działalności, a w przypadku prowadzenia działalności w więcej niż jednym miejscu – naczelnikowi urzędu skarbowego właściwemu według miejsca siedziby. W przypadku gdy nie jest możliwe ustalenie właściwości naczelnika urzędu skarbowego na podstawie zdania pierwszego, właściwość tę ustala się według miejsca zamieszkania jednego ze wspólników.
+
+13a. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy – Ordynacja podatkowa obejmuje również upoważnienie do podpisywania ewidencji i wykazu środków trwałych oraz wartości niematerialnych i prawnych przesyłanych na podstawie ust. 12.
 
 14. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:
 

@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1997-06-27 |
 | Data wydania | 1997-07-28 |
-| Ostatnia zmiana | 2025-04-30 |
+| Ostatnia zmiana | 2026-07-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970850539) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/539/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -73,9 +73,7 @@ source: pdf
 
 **Art. 6a.**
 
-1. Materiały biblioteczne wchodzące w skład narodowego zasobu bibliotecznego, które nie stanowią zabytków w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz.
-
-- **840)** , nie mogą być wywożone za granicę na stałe, z wyjątkiem przypadków określonych w art. 26 i art. 42 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. z 2019 r. poz. 1591), gdy wywóz odbywa się w wykonaniu prawomocnego wyroku nakazującego zwrot zagranicznego narodowego dobra kultury, o którym mowa w art. 18 ust. 1 tej ustawy, na terytorium państwa Unii Europejskiej albo na podstawie pozwoleń, o których mowa w art. 39 ust. 1 lub art. 43 ust. 1 tej ustawy.
+1. Materiały biblioteczne wchodzące w skład narodowego zasobu bibliotecznego, które nie stanowią zabytków w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840), nie mogą być wywożone za granicę na stałe, z wyjątkiem przypadków określonych w art. 26 i art. 42 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. z 2019 r. poz. 1591), gdy wywóz odbywa się w wykonaniu prawomocnego wyroku nakazującego zwrot zagranicznego narodowego dobra kultury, o którym mowa w art. 18 ust. 1 tej ustawy, na terytorium państwa Unii Europejskiej albo na podstawie pozwoleń, o których mowa w art. 39 ust. 1 lub art. 43 ust. 1 tej ustawy.
 
 2. Materiały biblioteczne wchodzące w skład narodowego zasobu bibliotecznego, które nie stanowią zabytków w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, mogą być czasowo wywożone za granicę po uzyskaniu:
 

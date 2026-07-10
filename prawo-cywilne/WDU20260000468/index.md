@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-27 |
 | Data wydania | 2026-04-07 |
-| Ostatnia zmiana | 2026-06-22 |
+| Ostatnia zmiana | 2026-06-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000468) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/468/text.pdf) |
 
 ### TYTUŁ WSTĘPNY Przepisy ogólne

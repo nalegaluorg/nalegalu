@@ -139,8 +139,7 @@ W kolumnie A „Kod UFK” stosuje się kod UFK określony przez organ nadzoru.
 W kolumnie B „Nazwa UFK” wykazuje się aktualną na dzień sprawozdawczy nazwę UFK zgodną z rejestrem UFK prowadzonym przez organ nadzoru.
 8 W kolumnie D „Opis pozycji sprawozdania” w wierszu:
 1) B.I.:
-a) „1. Zwiększenia funduszu tytułem składek ubezpieczeniowych zwiększających wartość funduszu” wykazuje się wartość składek zaalokowanych w UFK, za które zostały nabyte jednostki UFK w okresie sprawozdawczym. Składki ubezpieczeniowe wykazuje się po pomniejszeniu o opłaty i potrącenia pobierane od składek (np.
-prowizje od wpłaty składek, opłaty za ryzyko) oraz opłaty alokacyjne dokonane przed rejestracją składek na rachunku jednostek prowadzonym na rzecz ubezpieczającego albo ubezpieczonego,
+a) „1. Zwiększenia funduszu tytułem składek ubezpieczeniowych zwiększających wartość funduszu” wykazuje się wartość składek zaalokowanych w UFK, za które zostały nabyte jednostki UFK w okresie sprawozdawczym. Składki ubezpieczeniowe wykazuje się po pomniejszeniu o opłaty i potrącenia pobierane od składek (np. prowizje od wpłaty składek, opłaty za ryzyko) oraz opłaty alokacyjne dokonane przed rejestracją składek na rachunku jednostek prowadzonym na rzecz ubezpieczającego albo ubezpieczonego,
 b) „2. Zwiększenia funduszu pozostałe przychody” wykazuje wartość jednostek dodatkowych przyznanych ubezpieczającym lub ubezpieczonym, jeżeli umowa ubezpieczenia je przewiduje,
 c) „3. Zwiększenia funduszu pozostałe zwiększenia” wykazuje się zwiększenia z tytułu transferu środków z innych UFK oraz udzielonych gwarancji;
 2) B.II.:

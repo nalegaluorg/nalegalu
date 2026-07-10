@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2011-06-09 |
 | Data wydania | 2011-07-21 |
-| Ostatnia zmiana | 2026-06-03 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111490887) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/887/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne

@@ -24,16 +24,14 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-27 |
 | Data wydania | 2017-11-30 |
-| Ostatnia zmiana | 2025-05-06 |
+| Ostatnia zmiana | 2026-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002217) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2217/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa cele i organizację podstawowej opieki zdrowotnej oraz zasady zapewnienia odpowiedniej jakości świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej.
 
-**Art. 2.** Podstawowa opieka zdrowotna stanowi miejsce pierwszego kontaktu świadczeniobiorcy, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ), zwanego dalej „świadczeniobiorcą”, z systemem ochrony zdrowia, z wyłączeniem sytuacji, w których świadczeniobiorca znajduje się w stanie nagłego zagrożenia zdrowotnego, o którym mowa w art. 3 pkt 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz.
-
-- **91)** , lub udzielane są mu świadczenia, o których mowa w art. 57 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą o świadczeniach”, w ramach którego jest zapewniony dostęp do profilaktycznych, diagnostycznych, leczniczych, pielęgnacyjnych oraz rehabilitacyjnych świadczeń opieki zdrowotnej finansowanych ze środków publicznych.
+**Art. 2.** Podstawowa opieka zdrowotna stanowi miejsce pierwszego kontaktu świadczeniobiorcy, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm. ), zwanego dalej „świadczeniobiorcą”, z systemem ochrony zdrowia, z wyłączeniem sytuacji, w których świadczeniobiorca znajduje się w stanie nagłego zagrożenia zdrowotnego, o którym mowa w art. 3 pkt 8 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91), lub udzielane są mu świadczenia, o których mowa w art. 57 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą o świadczeniach”, w ramach którego jest zapewniony dostęp do profilaktycznych, diagnostycznych, leczniczych, pielęgnacyjnych oraz rehabilitacyjnych świadczeń opieki zdrowotnej finansowanych ze środków publicznych.
 
 **Art. 3.** Podstawowa opieka zdrowotna ma na celu:
 
@@ -53,6 +51,12 @@ source: pdf
 2. Lekarz POZ w ramach koordynacji, o której mowa w art. 4, inicjuje lub kontynuuje postępowanie diagnostyczno-lecznicze podejmowane w odniesieniu do świadczeniobiorcy przez innego świadczeniodawcę, w rozumieniu ustawy o świadczeniach, zwanego dalej „świadczeniodawcą”, w ramach swoich kompetencji zawodowych, zgodnie z aktualną wiedzą medyczną.
 
 3. Pielęgniarka POZ i położna POZ, o których mowa w ust. 1, w ramach współpracy z lekarzem POZ, rozpoznają warunki i potrzeby zdrowotne u świadczeniobiorcy oraz problemy pielęgnacyjne, planują i sprawują kompleksową opiekę pielęgniarską, a także kontynuują postępowanie terapeutyczne zlecone przez innego świadczeniodawcę, w ramach swoich kompetencji zawodowych, zgodnie z aktualną wiedzą medyczną.
+
+**Art. 5a.**
+
+1. Lekarz POZ w ramach koordynacji opieki zdrowotnej nad świadczeniobiorcą oraz swoich kompetencji zawodowych może, orzekając o stanie zdrowia świadczeniobiorcy oraz ordynując leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, zgodnie z aktualną wiedzą medyczną, korzystać z jednostkowych danych medycznych, analiz i raportów udostępnianych mu przez System Informacji Medycznej, o którym mowa w art. 10 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2026 r. poz. 208, 252 i 791).
+
+2. Pielęgniarka POZ i położna POZ w ramach współpracy z lekarzem POZ w zakresie rozpoznawania warunków i potrzeb zdrowotnych u świadczeniobiorcy oraz problemów pielęgnacyjnych, planowania i sprawowania kompleksowej opieki pielęgniarskiej, a także kontynuowania postępowania terapeutycznego zleconego przez innego świadczeniodawcę, mogą również, w ramach swoich kompetencji zawodowych oraz zgodnie z aktualną wiedzą medyczną, korzystać z jednostkowych danych medycznych, analiz i raportów udostępnianych im przez System Informacji Medycznej, o którym mowa w art. 10 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
 **Art. 6.**
 

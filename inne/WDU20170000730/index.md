@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2017-03-09 |
 | Data wydania | 2017-04-06 |
-| Ostatnia zmiana | 2025-02-19 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/730/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -235,9 +235,7 @@ source: pdf
 
 1. Związek metropolitalny może tworzyć stowarzyszenia z jednostkami samorządu terytorialnego.
 
-2. Do stowarzyszeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz.
-
-- **2261)** , z tym że do utworzenia stowarzyszenia jest wymaganych co najmniej 3 założycieli.
+2. Do stowarzyszeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), z tym że do utworzenia stowarzyszenia jest wymaganych co najmniej 3 założycieli.
 
 3. Związek metropolitalny może nawiązywać współpracę z podmiotami o charakterze metropolitalnym z innych państw.
 

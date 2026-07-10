@@ -1614,8 +1614,7 @@ b) tworzy krótkie, proste, spójne i logiczne wy- 4) stosuje zasady konstruowan
 4) uczestniczy w rozmowie w typowych sytuacjach 1) rozpoczyna, prowadzi i kończy rozmowę związanych z realizacją zadań zawodowych – re- 2) uzyskuje i przekazuje informacje i wyjaśnienia aguje w języku obcym nowożytnym w sposób 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zrozumiały, adekwatnie do sytuacji komunika- zgadza się lub nie zgadza z opiniami innych osób cyjnej, ustnie lub w formie prostego tekstu:
 a) reaguje ustnie (np. podczas rozmowy z innym 4) prowadzi proste negocjacje związane z czynnośpracownikiem, klientem, kontrahentem, w tym ciami zawodowymi rozmowy telefonicznej) w typowych sytua- 5) stosuje zwroty i formy grzecznościowe cjach związanych z wykonywaniem czynności 6) dostosowuje styl wypowiedzi do sytuacji zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-5) zmienia formę przekazu ustnego lub pisemnego 1) przekazuje w języku obcym nowożytnym inforw języku obcym nowożytnym w typowych sytu- macje zawarte w materiałach wizualnych (np.
-acjach związanych z wykonywaniem czynności wykresach, symbolach, piktogramach, schemazawodowych tach) oraz audiowizualnych (np. filmach instruktażowych)
+5) zmienia formę przekazu ustnego lub pisemnego 1) przekazuje w języku obcym nowożytnym inforw języku obcym nowożytnym w typowych sytu- macje zawarte w materiałach wizualnych (np. acjach związanych z wykonywaniem czynności wykresach, symbolach, piktogramach, schemazawodowych tach) oraz audiowizualnych (np. filmach instruktażowych)
 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację
@@ -2531,8 +2530,7 @@ e) napęd
 6) stosuje dokumentację do wykonywania kopyt, form oraz elementów łodzi i jachtów
 4) dobiera materiały stosowane do produkcji ko- 1) rozróżnia materiały stosowane do produkcji pyt, form oraz elementów łodzi i jachtów kopyt, form
 2) rozróżnia materiały stosowane do produkcji elementów łodzi i jachtów, takie jak: aluminium, stal nierdzewna, drewno, materiały drewnopochodne (sklejka, płyta stolarska), tworzywa sztuczne, włókna szklane, maty szklane, żywice epoksydowe, poliestrowe, fenolowe, tkaniny rowingowe, żywice winyloestrowe, tworzywa piankowe, szpachlówki
-3) określa właściwości materiałów stosowanych do produkcji elementów łodzi i jachtów, np.
-czas utwardzania, odporność na temperaturę w przypadku stosowanych żywic
+3) określa właściwości materiałów stosowanych do produkcji elementów łodzi i jachtów, np. czas utwardzania, odporność na temperaturę w przypadku stosowanych żywic
 4) dobiera materiały do produkcji kopyt i form
 5) dobiera materiały stosowane w produkcji elementów łodzi i jachtów w zależności od parametrów technicznych, takich jak: rodzaj jachtu lub łodzi, wymiary kadłuba, maksymalna prędkość, rodzaj napędu
 6) dobiera materiały stosowane do produkcji elementów łodzi i jachtów w zależności od etapu procesu technologicznego (materiały do wykonania form elementów laminowanych, materiały do laminacji)
@@ -3749,8 +3747,7 @@ e) napęd
 4) opisuje elementy łodzi i jachtów
 5) wskazuje elementy łodzi i jachtów
 6) posługuje się nazewnictwem elementów konstrukcyjnych łodzi i jachtów i ich wyposażenia w języku polskim i angielskim
-2) identyfikuje materiały do wytwarzania elemen- 1) określa właściwości materiałów używanych tów łodzi i jachtów w branży jachtowej, takich jak: aluminium, stal nierdzewna, drewno, materiały drewnopochodne (np.
-sklejka, płyta stolarska, fornir), tworzywa sztuczne, włókna szklane, maty szklane, żywice epoksydowe, poliestrowe, fenolowe, gumowe, zbrojenie szklane, tkaniny rowingowe, żywice winyloestrowe
+2) identyfikuje materiały do wytwarzania elemen- 1) określa właściwości materiałów używanych tów łodzi i jachtów w branży jachtowej, takich jak: aluminium, stal nierdzewna, drewno, materiały drewnopochodne (np. sklejka, płyta stolarska, fornir), tworzywa sztuczne, włókna szklane, maty szklane, żywice epoksydowe, poliestrowe, fenolowe, gumowe, zbrojenie szklane, tkaniny rowingowe, żywice winyloestrowe
 2) określa materiały pomocnicze stosowane w produkcji łodzi i jachtów
 3) analizuje dokumentację do wykonywania kopyt, 1) analizuje przepisy prawa dotyczące nadzoru, buform oraz elementów łodzi i jachtów dowy i wyposażenia jachtów i łodzi
 2) stosuje przepisy prawa dotyczące nadzoru, budowy i wyposażenia jachtów i łodzi
@@ -3862,8 +3859,7 @@ i) drenażową
 4) rozróżnia urządzenia i narzędzia używane do prac konserwacyjno-remontowych i naprawczych: polerki, szlifierki, piły, nożyce
 5) dobiera urządzenia i narzędzia do wykonania określonych prac konserwacyjno-remontowych i naprawczych, elementów łodzi i jachtów oraz wyposażenia:
 a) do wykonania zabezpieczeń antykorozyjnych elementów metalowych (np. relingów, masztów, bomów)
-b) do zapobiegania powstawaniu odbarwień elementów drewnopochodnych, wykonywania impregnacji tkanin, usuwania pleśni (np.
-z masztów, materacy)
+b) do zapobiegania powstawaniu odbarwień elementów drewnopochodnych, wykonywania impregnacji tkanin, usuwania pleśni (np. z masztów, materacy)
 c) usuwania pęknięć i odprysków elementów laminowanych, usuwania przecieków
 6) dobiera materiały do prac konserwacyjnych
 5) wykonuje prace konserwacyjno-remontowe i na- 1) wykonuje prace remontowe elementów kadłuba prawcze i pokładu łodzi i jachtów
@@ -3888,8 +3884,7 @@ a) tworzy krótkie, proste, spójne i logiczne wy- wskazówek, określa zasady) 
 b) tworzy krótkie, proste, spójne i logiczne wy- charakterze powiedzi pisemne dotyczące czynności zawo- 5) stosuje formalny lub nieformalny styl wypowiedowych (np. komunikat, e-mail, instrukcję, dzi adekwatnie do sytuacji wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sytuacjach 1) rozpoczyna, prowadzi i kończy rozmowę związanych z realizacją zadań zawodowych – re- 2) uzyskuje i przekazuje informacje i wyjaśnienia aguje w języku obcym nowożytnym w sposób 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zrozumiały, adekwatnie do sytuacji komunika- zgadza się lub nie zgadza z opiniami innych osób cyjnej, ustnie lub w formie prostego tekstu: 4) prowadzi proste negocjacje związane z czynnośa) reaguje ustnie (np. podczas rozmowy z innym ciami zawodowymi pracownikiem, klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych 5) pyta o upodobania i intencje innych osób, proposytuacjach związanych z wykonywaniem nuje, zachęca czynności zawodowych 6) stosuje zwroty i formy grzecznościowe
 b) reaguje w formie prostego tekstu pisanego 7) dostosowuje styl wypowiedzi do sytuacji (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
-5) zmienia formę przekazu ustnego lub pisemnego 1) przekazuje w języku obcym nowożytnym inforw języku obcym nowożytnym w typowych sytu- macje zawarte w materiałach wizualnych (np.
-acjach związanych z wykonywaniem czynności wykresach, symbolach, piktogramach, schemazawodowych tach) oraz audiowizualnych (np. filmach instruktażowych)
+5) zmienia formę przekazu ustnego lub pisemnego 1) przekazuje w języku obcym nowożytnym inforw języku obcym nowożytnym w typowych sytu- macje zawarte w materiałach wizualnych (np. acjach związanych z wykonywaniem czynności wykresach, symbolach, piktogramach, schemazawodowych tach) oraz audiowizualnych (np. filmach instruktażowych)
 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub w tym języku obcym nowożytnym
 4) przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację

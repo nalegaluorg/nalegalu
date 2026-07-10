@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2003-03-27 |
 | Data wydania | 2003-05-10 |
-| Ostatnia zmiana | 2026-04-28 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030800717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -755,9 +755,7 @@ source: pdf
     - **i)** zmiany ustaleń w związku z wpisem obiektu lub obszaru do rejestru zabytków, skreśleniem obiektu lub obszaru z rejestru zabytków lub ujęciem zabytku w wojewódzkiej lub gminnej ewidencji zabytków,
     - **j)** zmiany przebiegu sieci uzbrojenia terenu w rozumieniu art. 2 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, która nie powoduje zwiększenia związanych z nimi ograniczeń zabudowy i zagospodarowania terenu,
     - **k)** uchylenia zakazu lokalizacji zamontowanych na budynku instalacji odnawialnych źródeł energii wykorzystujących do wytwarzania energii wyłącznie energię promieniowania słonecznego lub mikroinstalacji w rozumieniu art. 2 pkt 19 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii,
-    - **l)** uchylenia ustaleń uniemożliwiających lokalizowanie inwestycji celu publicznego z zakresu łączności publicznej, o których mowa w art. 46 ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311 i 1019 oraz z 2026 r. poz.
-
-- **203)** .
+    - **l)** uchylenia ustaleń uniemożliwiających lokalizowanie inwestycji celu publicznego z zakresu łączności publicznej, o których mowa w art. 46 ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311 i 1019 oraz z 2026 r. poz. 203).
 
 2. Postępowania uproszczonego nie stosuje się, jeżeli plan miejscowy albo jego zmiana, o których mowa w ust. 1 pkt 1 i pkt 2 lit. d–l, dotyczą:
 

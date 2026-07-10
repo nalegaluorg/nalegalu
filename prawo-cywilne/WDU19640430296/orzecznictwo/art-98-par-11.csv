@@ -27,6 +27,7 @@ saos_id|date|court|case_number|type|score|saos_url
 539639|2025-01-28|SO|I ACa 1248/22|Wyrok|56|https://www.saos.org.pl/judgments/539639
 528889|2025-01-23|SO|I ACa 1629/22|Wyrok|56|https://www.saos.org.pl/judgments/528889
 533846|2024-12-19|SO|I ACa 1626/22|Wyrok|56|https://www.saos.org.pl/judgments/533846
+547129|2024-12-13|SO|I ACa 1618/23|Wyrok|56|https://www.saos.org.pl/judgments/547129
 534420|2024-12-04|SO|I ACa 2125/23|Wyrok|56|https://www.saos.org.pl/judgments/534420
 531492|2024-10-31|SO|I ACa 2307/23|Wyrok|56|https://www.saos.org.pl/judgments/531492
 529325|2024-09-17|SO|I ACa 8/24|Wyrok|56|https://www.saos.org.pl/judgments/529325
@@ -324,6 +325,7 @@ saos_id|date|court|case_number|type|score|saos_url
 485443|2023-02-07|SO|I ACa 872/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/485443
 477682|2022-09-27|SO|III APa 14/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/477682
 357117|2018-07-19|SO|III AUa 1176/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/357117
+547408|2025-11-19|SO|I C 113/25|Wyrok|40|https://www.saos.org.pl/judgments/547408
 537136|2025-09-25|SO|VII U 1873/24|Wyrok|40|https://www.saos.org.pl/judgments/537136
 547017|2025-09-02|SO|IV P 331/24|Wyrok|40|https://www.saos.org.pl/judgments/547017
 527863|2025-05-22|SO|VII Pa 126/24|Wyrok|40|https://www.saos.org.pl/judgments/527863

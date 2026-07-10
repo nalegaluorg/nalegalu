@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-25 |
 | Data wydania | 2024-10-28 |
-| Ostatnia zmiana | 2025-06-16 |
+| Ostatnia zmiana | 2026-06-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001583) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1583/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwości w sprawie zakładania i prowadzenia ksiąg wieczystych w systemie teleinformatycznym

@@ -10,20 +10,20 @@ Akty z największą liczbą powiązanych orzeczeń sądowych:
 
 | Akt | Orzeczeń | Orzecznictwo |
 |-----|---:|---|
-| [Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.](prawo-cywilne/WDU19640430296/index.md) | 172 479 | [orzecznictwo.md](prawo-cywilne/WDU19640430296/orzecznictwo.md) |
-| [Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny.](prawo-cywilne/WDU19640160093/index.md) | 115 264 | [orzecznictwo.md](prawo-cywilne/WDU19640160093/orzecznictwo.md) |
-| [Ustawa z dnia 6 czerwca 1997 r. - Kodeks karny.](prawo-karne/WDU19970880553/index.md) | 43 444 | [orzecznictwo.md](prawo-karne/WDU19970880553/orzecznictwo.md) |
-| [Ustawa z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego.](prawo-karne/WDU19970890555/index.md) | 40 021 | [orzecznictwo.md](prawo-karne/WDU19970890555/orzecznictwo.md) |
-| [Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.](prawo-konstytucyjne/WDU19970780483/index.md) | 33 539 | [orzecznictwo.md](prawo-konstytucyjne/WDU19970780483/orzecznictwo.md) |
-| [Ustawa z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ub](inne/WDU19981621118/index.md) | 22 994 | [orzecznictwo.md](inne/WDU19981621118/orzecznictwo.md) |
-| [Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy.](prawo-pracy/WDU19740240141/index.md) | 21 746 | [orzecznictwo.md](prawo-pracy/WDU19740240141/orzecznictwo.md) |
-| [Ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społeczny](inne/WDU19981370887/index.md) | 17 636 | [orzecznictwo.md](inne/WDU19981370887/orzecznictwo.md) |
-| [Ustawa z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnyc](inne/WDU20051671398/index.md) | 12 480 | [orzecznictwo.md](inne/WDU20051671398/orzecznictwo.md) |
-| [Ustawa z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego](prawo-administracyjne/WDU19600300168/index.md) | 9 164 | [orzecznictwo.md](prawo-administracyjne/WDU19600300168/orzecznictwo.md) |
+| [Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.](prawo-cywilne/WDU19640430296/index.md) | 172 670 | [orzecznictwo.md](prawo-cywilne/WDU19640430296/orzecznictwo.md) |
+| [Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny.](prawo-cywilne/WDU19640160093/index.md) | 115 421 | [orzecznictwo.md](prawo-cywilne/WDU19640160093/orzecznictwo.md) |
+| [Ustawa z dnia 6 czerwca 1997 r. - Kodeks karny.](prawo-karne/WDU19970880553/index.md) | 43 484 | [orzecznictwo.md](prawo-karne/WDU19970880553/orzecznictwo.md) |
+| [Ustawa z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego.](prawo-karne/WDU19970890555/index.md) | 40 037 | [orzecznictwo.md](prawo-karne/WDU19970890555/orzecznictwo.md) |
+| [Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.](prawo-konstytucyjne/WDU19970780483/index.md) | 33 580 | [orzecznictwo.md](prawo-konstytucyjne/WDU19970780483/orzecznictwo.md) |
+| [Ustawa z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ub](inne/WDU19981621118/index.md) | 23 002 | [orzecznictwo.md](inne/WDU19981621118/orzecznictwo.md) |
+| [Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy.](prawo-pracy/WDU19740240141/index.md) | 21 756 | [orzecznictwo.md](prawo-pracy/WDU19740240141/orzecznictwo.md) |
+| [Ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społeczny](inne/WDU19981370887/index.md) | 17 658 | [orzecznictwo.md](inne/WDU19981370887/orzecznictwo.md) |
+| [Ustawa z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnyc](inne/WDU20051671398/index.md) | 12 491 | [orzecznictwo.md](inne/WDU20051671398/orzecznictwo.md) |
+| [Ustawa z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego](prawo-administracyjne/WDU19600300168/index.md) | 9 172 | [orzecznictwo.md](prawo-administracyjne/WDU19600300168/orzecznictwo.md) |
 
 ## Orzecznictwo
 
-Repozytorium zawiera kompaktowe indeksy orzecznictwa — łącznie **654 006** powiązań między orzeczeniami a aktami prawnymi.
+Repozytorium zawiera kompaktowe indeksy orzecznictwa — łącznie **655 014** powiązań między orzeczeniami a aktami prawnymi.
 
 Każdy akt prawny, na który powołują się orzeczenia, posiada plik `orzecznictwo.md` z listą cytujących orzeczeń pogrupowanych wg artykułu. Dla największych aktów (np. Kodeks cywilny) orzecznictwo jest podzielone na osobne pliki per artykuł.
 
@@ -62,20 +62,20 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 | [Ochrona danych osobowych](prawo-ochrony-danych/README.md) | 8 | [Pełna lista aktów →](prawo-ochrony-danych/README.md) (2 z orzecznictwem) |
 | [Prawo administracyjne](prawo-administracyjne/README.md) | 66 | [Pełna lista aktów →](prawo-administracyjne/README.md) (16 z orzecznictwem) |
 | [Prawo bankowe](prawo-bankowe/README.md) | 28 | [Pełna lista aktów →](prawo-bankowe/README.md) (8 z orzecznictwem) |
-| [Prawo budowlane](prawo-budowlane/README.md) | 42 | [Pełna lista aktów →](prawo-budowlane/README.md) (7 z orzecznictwem) |
-| [Prawo cywilne](prawo-cywilne/README.md) | 140 | [Pełna lista aktów →](prawo-cywilne/README.md) (59 z orzecznictwem) |
-| [Prawo energetyczne](prawo-energetyczne/README.md) | 35 | [Pełna lista aktów →](prawo-energetyczne/README.md) (7 z orzecznictwem) |
+| [Prawo budowlane](prawo-budowlane/README.md) | 44 | [Pełna lista aktów →](prawo-budowlane/README.md) (7 z orzecznictwem) |
+| [Prawo cywilne](prawo-cywilne/README.md) | 141 | [Pełna lista aktów →](prawo-cywilne/README.md) (61 z orzecznictwem) |
+| [Prawo energetyczne](prawo-energetyczne/README.md) | 35 | [Pełna lista aktów →](prawo-energetyczne/README.md) (8 z orzecznictwem) |
 | [Prawo handlowe](prawo-handlowe/README.md) | 25 | [Pełna lista aktów →](prawo-handlowe/README.md) (8 z orzecznictwem) |
-| [Prawo karne](prawo-karne/README.md) | 159 | [Pełna lista aktów →](prawo-karne/README.md) (55 z orzecznictwem) |
+| [Prawo karne](prawo-karne/README.md) | 162 | [Pełna lista aktów →](prawo-karne/README.md) (55 z orzecznictwem) |
 | [Prawo konstytucyjne](prawo-konstytucyjne/README.md) | 2 | [Pełna lista aktów →](prawo-konstytucyjne/README.md) (1 z orzecznictwem) |
 | [Prawo morskie](prawo-morskie/README.md) | 7 | [Pełna lista aktów →](prawo-morskie/README.md) (2 z orzecznictwem) |
 | [Prawo ochrony środowiska](prawo-ochrony-srodowiska/README.md) | 65 | [Pełna lista aktów →](prawo-ochrony-srodowiska/README.md) (9 z orzecznictwem) |
-| [Prawo podatkowe](prawo-podatkowe/README.md) | 188 | [Pełna lista aktów →](prawo-podatkowe/README.md) (33 z orzecznictwem) |
+| [Prawo podatkowe](prawo-podatkowe/README.md) | 193 | [Pełna lista aktów →](prawo-podatkowe/README.md) (34 z orzecznictwem) |
 | [Prawo pracy](prawo-pracy/README.md) | 64 | [Pełna lista aktów →](prawo-pracy/README.md) (26 z orzecznictwem) |
 | [Prawo telekomunikacyjne](prawo-telekomunikacyjne/README.md) | 6 | [Pełna lista aktów →](prawo-telekomunikacyjne/README.md) (2 z orzecznictwem) |
-| [Prawo upadłościowe](prawo-upadlosciowe/README.md) | 17 | [Pełna lista aktów →](prawo-upadlosciowe/README.md) (6 z orzecznictwem) |
+| [Prawo upadłościowe](prawo-upadlosciowe/README.md) | 18 | [Pełna lista aktów →](prawo-upadlosciowe/README.md) (6 z orzecznictwem) |
 | [Prawo zamówień publicznych](prawo-zamowien/README.md) | 18 | [Pełna lista aktów →](prawo-zamowien/README.md) (7 z orzecznictwem) |
-| [Inne](inne/README.md) | 17826 | [Pełna lista aktów →](inne/README.md) (1212 z orzecznictwem) |
+| [Inne](inne/README.md) | 19472 | [Pełna lista aktów →](inne/README.md) (1236 z orzecznictwem) |
 
 ## Bramka jakości
 
@@ -100,7 +100,7 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 
 **PASSED** — 380 tests — 380 passed, 0 failed, 0 errors, 33 skipped
 
-Ostatni przebieg: 2026-07-06 23:09 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+Ostatni przebieg: 2026-07-07 18:39 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
 
 <!-- STATS:START -->
 ## Statystyki
@@ -109,23 +109,23 @@ Ostatni przebieg: 2026-07-06 23:09 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESU
 
 | | Wartość |
 |---|---:|
-| Opublikowane akty | **18,696** |
-| Odrzucone (jakość) | 704 |
-| Artykuły | 202,769 |
-| Znaki treści | 570.5M |
-| Śr. znaków/akt | 30,516 |
-| Śr. artykułów/akt | 10.8 |
+| Opublikowane akty | **20,354** |
+| Odrzucone (jakość) | 6,105 |
+| Artykuły | 207,014 |
+| Znaki treści | 595.2M |
+| Śr. znaków/akt | 29,243 |
+| Śr. artykułów/akt | 10.2 |
 
 **Źródła danych:**
 
-- PDF: 18,488 (99%)
+- PDF: 20,146 (99%)
 - ELI HTML: 208 (1%)
 
-*Odrzucone: 6 skanów bez OCR, 659 zablokowanych przez bramkę jakości, 698 inne*
+*Odrzucone: 5 skanów bez OCR, 737 zablokowanych przez bramkę jakości, 6100 inne*
 
-*Od 2026-05-18: +5,375 aktów*
+*Od 2026-05-18: +7,033 aktów*
 
-*Ostatnia aktualizacja: 2026-07-07*
+*Ostatnia aktualizacja: 2026-07-10*
 <!-- STATS:END -->
 
 ## Zakres i ograniczenia
@@ -136,4 +136,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*18696 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-07-07*
+*20354 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-07-10*

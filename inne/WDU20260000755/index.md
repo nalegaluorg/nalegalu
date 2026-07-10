@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2026-05-15 |
 | Data wydania | 2026-06-10 |
-| Ostatnia zmiana | 2026-06-12 |
+| Ostatnia zmiana | 2026-06-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/755/text.pdf) |
 
 **Art. 1.** Ustawa określa zasady prowadzenia Krajowego Rejestru Oznakowanych Psów i Kotów, zwanego dalej „KROPiK”, oraz zasady znakowania i rejestracji w KROPiK, zwanej dalej „rejestracją”, psów z gatunku Canis lupus familiaris i kotów z gatunku Felis silvestris catus.

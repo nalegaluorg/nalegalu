@@ -912,8 +912,7 @@ Uwaga: Opłatę za wprowadzanie gazów lub pyłów do powietrza oblicza się wed
 839. 17 02 01 Drewno 120,76
 840. 17 02 02 Szkło 26,07
 841. 17 02 03 Tworzywa sztuczne 32,46
-842. 17 02 04* Odpady drewna, szkła i tworzyw sztucznych zawierające lub 165,54 zanieczyszczone substancjami niebezpiecznymi (np.
-drewniane podkłady kolejowe)
+842. 17 02 04* Odpady drewna, szkła i tworzyw sztucznych zawierające lub 165,54 zanieczyszczone substancjami niebezpiecznymi (np. drewniane podkłady kolejowe)
 843. 17 03 Mieszanki bitumiczne, smoła i produkty smołowe
 844. 17 03 01* Mieszanki bitumiczne zawierające smołę 63,03
 845. 17 03 02 Mieszanki bitumiczne inne niż wymienione w 17 03 01 19,64

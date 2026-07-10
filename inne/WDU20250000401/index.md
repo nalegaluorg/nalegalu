@@ -1,0 +1,162 @@
+---
+title: Rozporządzenie Rady Ministrów z dnia 13 marca 2025 r. zmieniające rozporządzenie w sprawie wykazu dokumentów publicznych
+address: WDU20250000401
+eli: DU/2025/401
+publisher: DU
+year: 2025
+pos: 401
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 401 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 13 marca 2025 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2025 poz. 401 |
+| ISAP | WDU20250000401 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2025-03-13 |
+| Data wydania | 2025-03-27 |
+| Wejście w życie | 2027-03-28 |
+| Ostatnia zmiana | 2025-03-28 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000401) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/401/text.pdf) |
+
+zmieniające rozporządzenie w sprawie wykazu dokumentów publicznych Na podstawie art. 6 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863) zarządza się, co następuje:
+§ 1. W rozporządzeniu Rady Ministrów z dnia 11 lipca 2019 r. w sprawie wykazu dokumentów publicznych (Dz. U.
+z 2023 r. poz. 2329) wprowadza się następujące zmiany:
+1) w § 2:
+a) w pkt 1: – lit. c otrzymuje brzmienie: „c) legitymacja posiadacza broni, o której mowa w przepisach wydanych na podstawie art. 31 ust. 1 ustawy,”, – uchyla się lit. i,
+b) w pkt 5 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d–f w brzmieniu: „d) świadectwo ukończenia studiów podyplomowych, o którym mowa w art. 160 ust. 4 ustawy,
+e) dyplom doktorski i dyplom habilitacyjny, o których mowa w art. 179 ust. 1 ustawy,
+f) zaświadczenie wydawane po przeprowadzeniu postępowania nostryfikacyjnego dyplomu ukończenia studiów za granicą, o którym mowa w przepisach wydanych na podstawie art. 327 ust. 8 pkt 5 ustawy;”,
+c) pkt 6 otrzymuje brzmienie: „6) dokumenty, o których mowa w ustawie z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2024 r.
+poz. 676 i 1897), zwanej dalej „ustawą”:
+a) „Prawo wykonywania zawodu farmaceuty”, o którym mowa w przepisach wydanych na podstawie art. 17 ust. 4 ustawy,
+b) dyplom specjalisty, o którym mowa w przepisach wydanych na podstawie art. 71 pkt 9 ustawy;”,
+d) uchyla się pkt 7,
+e) w pkt 10 lit. a i b otrzymują brzmienie: „a) zaświadczenie o prawie wykonywania zawodu lekarza weterynarii, o którym mowa w przepisach wydanych na podstawie art. 2d ust. 4 ustawy,
+b) dyplom lekarza weterynarii posiadającego tytuł specjalisty, o którym mowa w przepisach wydanych na podstawie art. 3i ustawy;”,
+f) pkt 13 otrzymuje brzmienie: „13) dokumenty, o których mowa w ustawie z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U.
+z 2023 r. poz. 2125 oraz z 2024 r. poz. 1897), zwanej dalej „ustawą”:
+a) dyplom specjalisty, o którym mowa w przepisach wydanych na podstawie art. 61 pkt 10 ustawy,
+b) „Prawo wykonywania zawodu diagnosty laboratoryjnego”, o którym mowa w przepisach wydanych na podstawie art. 71 ust. 6 ustawy;”,
+g) w pkt 19 w lit. e kropkę zastępuje się średnikiem i dodaje się pkt 20–26 w brzmieniu: „20) dokumenty, o których mowa w przepisach wydanych na podstawie art. 2 ust. 1 ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2023 r. poz. 1952):
+a) dyplom ukończenia Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego,
+b) certyfikat znajomości języka obcego wydany przez Krajową Szkołę Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego;
+21) dyplomy hydrografa morskiego kategorii A i kategorii B, o których mowa w przepisach wydanych na podstawie art. 41e ust. 5 pkt 4 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125);
+22) legitymacja służbowa pracownika stacji sanitarno-epidemiologicznej, o której mowa w przepisach wydanych na podstawie art. 15 ust. 2 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416);
+23) legitymacja członka Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego oraz upoważnienie dla osób korzystających z uprawnień członka Komisji Badania Wypadków Lotniczych Lotnictwa Państwowego, o których mowa w przepisach wydanych na podstawie art. 140 ust. 2f ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z 2024 r. poz. 731 i 1222 oraz z 2025 r. poz. 31, 179 i 374);
+24) legitymacja służbowa strażnika straży gminnej (miejskiej), o której mowa w przepisach wydanych na podstawie art. 21 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2021 r. poz. 1763);
+25) „Prawo wykonywania zawodu ratownika medycznego”, o którym mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. z 2025 r. poz. 339);
+26) legitymacja służbowa kontrolera, o której mowa w przepisach wydanych na podstawie art. 134 ust. 2 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r.
+poz. 1124, z późn. zm. ).”;
+2) w § 3:
+a) w pkt 1: – lit. a otrzymuje brzmienie: „a) zezwolenie na wykonywanie zawodu przewoźnika drogowego, o którym mowa w przepisach wydanych na podstawie art. 17 ust. 1 pkt 1 ustawy,”, – uchyla się lit. b, – lit. c–f otrzymują brzmienie: „c) licencja na wykonywanie krajowego transportu drogowego w zakresie przewozu osób samochodem osobowym, o której mowa w przepisach wydanych na podstawie art. 17 ust. 1 pkt 2 ustawy,
+d) licencja na wykonywanie krajowego transportu drogowego w zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą, o której mowa w przepisach wydanych na podstawie art. 17 ust. 1 pkt 3 ustawy,
+e) licencja na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie rzeczy, o której mowa w przepisach wydanych na podstawie art. 17 ust. 1 pkt 5 ustawy,
+f) licencja na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką, o której mowa w przepisach wydanych na podstawie art. 17 ust. 1 pkt 4 ustawy,”, – uchyla się lit. g, h oraz k, – lit. l otrzymuje brzmienie: „l) zaświadczenie na przewozy drogowe na potrzeby własne, o którym mowa w przepisach wydanych na podstawie art. 33 ust. 10 ustawy,”, – uchyla się lit. m i n, – lit. o–r otrzymują brzmienie: „o) zezwolenie na międzynarodowy przewóz drogowy rzeczy na terytorium Rzeczypospolitej Polskiej, o którym mowa w przepisach wydanych na podstawie art. 29b pkt 4 ustawy,
+p) zezwolenie na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym oraz zezwolenie na wykonywanie regularnych specjalnych przewozów osób w międzynarodowym transporcie drogowym, o których mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,
+q) zezwolenie na wykonywanie okazjonalnych przewozów osób w międzynarodowym transporcie drogowym, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,
+r) zezwolenie na wykonywanie wahadłowych przewozów osób w międzynarodowym transporcie drogowym, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,”, – dodaje się lit. s–zf w brzmieniu: „s) licencja na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie osób, o której mowa w przepisach wydanych na podstawie art. 17 ust. 1 pkt 6 ustawy,
+t) zezwolenie na wykonywanie międzynarodowego transportu drogowego osób na lub przez terytorium Rzeczypospolitej Polskiej pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu nie więcej niż 9-ciu osób łącznie z kierowcą, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,
+u) wypis z zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,
+v) wypis z zezwolenia na wykonywanie regularnych specjalnych przewozów osób w krajowym transporcie drogowym, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,
+w) wypis z zezwolenia na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,
+x) wypis z zezwolenia na wykonywanie regularnych specjalnych przewozów osób w międzynarodowym transporcie drogowym, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,
+y) wypis z zezwolenia na wykonywanie okazjonalnych przewozów osób w międzynarodowym transporcie drogowym, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,
+z) wypis z zezwolenia na wykonywanie wahadłowych przewozów osób w międzynarodowym transporcie drogowym, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy, za) wypis z zezwolenia na wykonywanie zawodu przewoźnika drogowego, o którym mowa w przepisach wydanych na podstawie art. 17 ust. 1 pkt 1 ustawy, zb) wypis z licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób samochodem osobowym, o którym mowa w przepisach wydanych na podstawie art. 17 ust. 1 pkt 2 ustawy, zc) wypis z licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą, o którym mowa w przepisach wydanych na podstawie art. 17 ust. 1 pkt 3 ustawy, zd) wypis z licencji na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką, o którym mowa w przepisach wydanych na podstawie art. 17 ust. 1 pkt 4 ustawy, ze) wypis z zaświadczenia na przewozy drogowe na potrzeby własne, o którym mowa w przepisach wydanych na podstawie art. 33 ust. 10 ustawy, zf) zezwolenie na przewóz kabotażowy na terytorium Rzeczypospolitej Polskiej, o którym mowa w przepisach wydanych na podstawie art. 29b pkt 4 ustawy;”,
+b) pkt 3 i 4 otrzymują brzmienie: „3) dokumenty, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącym wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm. ):
+a) świadectwo kierowcy,
+b) wypis ze świadectwa kierowcy;
+4) zaświadczenie na wykonywanie publicznego transportu zbiorowego, o którym mowa w przepisach wydanych na podstawie art. 28a ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2025 r.
+poz. 285);”,
+c) w pkt 5: – lit. a otrzymuje brzmienie: „a) legitymacja instruktora, o której mowa w przepisach wydanych na podstawie art. 40 ust. 1 pkt 3 lit. b ustawy,”, – lit. c–e otrzymują brzmienie: „c) zaświadczenie o wpisie do ewidencji wykładowców, o którym mowa w przepisach wydanych na podstawie art. 40 ust. 1 pkt 3 lit. c ustawy,
+d) świadectwo instruktora techniki jazdy, o którym mowa w przepisach wydanych na podstawie art. 120 ust. 1 pkt 6 lit. d ustawy,
+e) zezwolenie na kierowanie pojazdem uprzywilejowanym i pojazdem przewożącym wartości pieniężne, o którym mowa w przepisach wydanych na podstawie art. 111 ust. 1 pkt 3 ustawy,”, – uchyla się lit. f oraz g,
+d) w pkt 7: – wprowadzenie do wyliczenia otrzymuje brzmienie: „dokumenty, o których mowa w ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze, zwanej dalej „ustawą”:”, – uchyla się lit. a–j, – lit. n otrzymuje brzmienie: „n) wykaz zatwierdzeń szczególnych, o którym mowa w art. 163b ustawy,”, – uchyla się lit. p,
+e) w pkt 9 uchyla się lit. a,
+f) uchyla się pkt 10,
+g) pkt 11 otrzymuje brzmienie: „11) dokumenty, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/2031 z dnia 26 października 2016 r. w sprawie środków ochronnych przeciwko agrofagom roślin, zmieniającym rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 228/2013, (UE) nr 652/2014 i (UE) nr 1143/2014 oraz uchylającym dyrektywy Rady 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/WE, 2000/29/WE, 2006/91/WE i 2007/33/WE (Dz. Urz. UE L 317 z 23.11.2016, str. 4, z późn. zm. ):
+a) fitosanitarne świadectwo dla eksportu,
+b) fitosanitarne świadectwo dla reeksportu;”,
+h) pkt 13 i 14 otrzymują brzmienie: „13) legitymacja studencka, o której mowa w przepisach wydanych na podstawie art. 81 pkt 6 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+14) dokumenty, o których mowa w przepisach wydanych na podstawie art. 11 ust. 2 i 4 ustawy z dnia 7 września 1991 r. o systemie oświaty:
+a) świadectwo ukończenia szkoły podstawowej, świadectwo ukończenia szkoły ponadpodstawowej,
+b) świadectwo ukończenia szkoły artystycznej i dyplom ukończenia szkoły artystycznej,
+c) świadectwo potwierdzające kwalifikację w zawodzie i dyplom potwierdzający kwalifikacje zawodowe,
+d) certyfikat kwalifikacji zawodowej i dyplom zawodowy,
+e) zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty,
+f) zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia oraz zaświadczenie o zdaniu egzaminów eksternistycznych z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły II stopnia,
+g) legitymacja szkolna,
+h) legitymacja przedszkolna dla dzieci niepełnosprawnych;”,
+i) pkt 16 otrzymuje brzmienie: „16) legitymacja służbowa nauczyciela, o której mowa w przepisach wydanych na podstawie art. 11c ust. 11 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i 1871);”,
+j) uchyla się pkt 25,
+k) uchyla się pkt 30–32,
+l) pkt 34 otrzymuje brzmienie: „34) dokumenty, o których mowa w przepisach wydanych na podstawie art. 47b ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r.
+poz. 146, z późn. zm. );”,
+m) pkt 37 otrzymuje brzmienie: „37) dokumenty, o których mowa w ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U.
+z 2024 r. poz. 1290), zwanej dalej „ustawą”:
+a) świadectwo stwierdzające posiadanie kwalifikacji w zawodzie geolog, o którym mowa w przepisach wydanych na podstawie art. 69 ust. 1 pkt 4 ustawy,
+b) legitymacja służbowa pracownika Państwowego Instytutu Geologicznego – Państwowego Instytutu Badawczego realizującego zadania państwowej służby geologicznej, o której mowa w przepisach wydanych na podstawie art. 163 ust. 10 ustawy;”,
+n) dodaje się pkt 38–59 w brzmieniu: „38) dokumenty, o których mowa w przepisach wydanych na podstawie art. 61 ustawy z dnia 23 lipca 2003 r.
+o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907):
+a) jednorazowe pozwolenie na stały wywóz zabytku za granicę,
+b) jednorazowe pozwolenie na czasowy wywóz zabytku za granicę,
+c) wielokrotne pozwolenie indywidualne na czasowy wywóz zabytku za granicę,
+d) wielokrotne pozwolenie ogólne na czasowy wywóz zabytków za granicę;
+39) dokumenty, o których mowa w przepisach wydanych na podstawie art. 29a ust. 4 pkt 3 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385):
+a) jednorazowe pozwolenie na czasowy wywóz za granicę muzealium,
+b) wielokrotne pozwolenie indywidualne na czasowy wywóz za granicę muzealium,
+c) wielokrotne pozwolenie ogólne na czasowy wywóz za granicę muzealium – które nie stanowi zabytku w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami oraz jest wpisane do inwentarza muzealiów w muzeum będącym instytucją kultury;
+40) dokumenty, o których mowa w przepisach wydanych na podstawie art. 6a ust. 5 pkt 3 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393):
+a) jednorazowe pozwolenie na czasowy wywóz za granicę materiału bibliotecznego,
+b) wielokrotne pozwolenie indywidualne na czasowy wywóz za granicę materiału bibliotecznego,
+c) wielokrotne pozwolenie ogólne na czasowy wywóz za granicę materiału bibliotecznego – wchodzącego w skład narodowego zasobu bibliotecznego i niestanowiącego zabytku w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami;
+41) dokumenty, o których mowa w rozporządzeniu wykonawczym Komisji (UE) nr 1081/2012 z dnia 9 listopada 2012 r. do celów rozporządzenia Rady (WE) nr 116/2009 w sprawie wywozu dóbr kultury (Dz. Urz.
+UE L 324 z 22.11.2012, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem nr 1081/2012”:
+a) pozwolenie standardowe, o którym mowa w art. 2 ust. 1 rozporządzenia nr 1081/2012,
+b) szczególne pozwolenie otwarte, o którym mowa w art. 2 ust. 2 rozporządzenia nr 1081/2012,
+c) ogólne pozwolenie otwarte, o którym mowa w art. 2 ust. 3 rozporządzenia nr 1081/2012;
+42) dokumenty, o których mowa w ustawie z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U.
+z 2019 r. poz. 1591), zwanej dalej „ustawą”:
+a) pozwolenie na stały wywóz dobra kultury za granicę, niebędącego zabytkiem, o którym mowa w przepisach wydanych na podstawie art. 39 ust. 9 pkt 2 ustawy,
+b) pozwolenie na stały wywóz dobra kultury za granicę, niebędącego zabytkiem, o którym mowa w przepisach wydanych na podstawie art. 43 ust. 10 pkt 2 ustawy;
+43) legitymacja pracownika socjalnego, o której mowa w przepisach wydanych na podstawie art. 107 ust. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572);
+44) legitymacja służbowa pracownika Urzędu Ochrony Danych Osobowych, o której mowa w przepisach wydanych na podstawie art. 47 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r.
+poz. 1781);
+45) legitymacja służbowa pracowników Inspekcji Handlowej, o której mowa w przepisach wydanych na podstawie art. 35 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2025 r. poz. 229);
+46) wojskowe świadectwo dopuszczenia do przewozu towarów niebezpiecznych, o którym mowa w przepisach wydanych na podstawie art. 8 ust. 2 pkt 3 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643);
+47) legitymacja służbowa Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej, wiceprezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej, radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej i referendarza, o których mowa w przepisach wydanych na podstawie art. 33 ust. 4 ustawy z dnia 15 grudnia 2016 r.
+o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1192);
+48) dokumenty, o których mowa w ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980), zwanej dalej „ustawą”:
+a) legitymacja służbowa pracowników Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych dokonujących kontroli, o której mowa w przepisach wydanych na podstawie art. 20a ust. 7 ustawy,
+b) świadectwo jakości handlowej, o którym mowa w przepisach wydanych na podstawie art. 31 ust. 8 pkt 1 ustawy;
+49) dokumenty, o których mowa w przepisach wydanych na podstawie art. 35 ust. 9 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588):
+a) świadectwo jakości potwierdzające zgodność produktu rolnego lub środka spożywczego posiadającego chronioną nazwę pochodzenia ze specyfikacją produktu,
+b) świadectwo jakości potwierdzające zgodność wina posiadającego chronioną nazwę pochodzenia ze specyfikacją produktu,
+c) świadectwo jakości potwierdzające zgodność produktu rolnego lub środka spożywczego posiadającego chronione oznaczenie geograficzne ze specyfikacją produktu,
+d) świadectwo jakości potwierdzające zgodność wina posiadającego chronione oznaczenie geograficzne ze specyfikacją produktu,
+e) świadectwo jakości potwierdzające zgodność napoju spirytusowego posiadającego oznaczenie geograficzne ze specyfikacją produktu,
+f) świadectwo jakości potwierdzające zgodność produktu rolnego lub środka spożywczego będącego gwarantowaną tradycyjną specjalnością ze specyfikacją produktu;
+50) dokumenty, o których mowa w ustawie z dnia 20 lipca 2017 r. − Prawo wodne (Dz. U. z 2024 r. poz. 1087, 1089 i 1473 oraz z 2025 r. poz. 216), zwanej dalej „ustawą”:
+a) legitymacja służbowa pracownika Państwowego Gospodarstwa Wodnego Wody Polskie, o której mowa w przepisach wydanych na podstawie art. 338 ustawy,
+b) legitymacja służbowa pracownika państwowej służby hydrologiczno-meteorologicznej i legitymacja służbowa pracownika państwowej służby do spraw bezpieczeństwa budowli piętrzących, o których mowa w przepisach wydanych na podstawie art. 383 ust. 6 ustawy;
+51) książka operatora, o której mowa w przepisach wydanych na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277);
+52) zaświadczenie kwalifikacyjne wymagane przy obsłudze i konserwacji urządzeń technicznych, o którym mowa w przepisach wydanych na podstawie art. 23 ust. 5 pkt 7 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194);
+53) zaświadczenie potwierdzające przygotowanie zawodowe do wykonywania prac związanych z dostępem do materiałów wybuchowych przeznaczonych do użytku cywilnego, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 6 pkt 4 ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2022 r. poz. 2378);
+54) certyfikat znajomości języka polskiego, o którym mowa w przepisach wydanych na podstawie art. 11i pkt 10 ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2024 r. poz. 1556);
+55) akt powołania do wykonywania zawodu rzeczoznawcy do spraw zabezpieczeń przeciwpożarowych, o którym mowa w przepisach wydanych na podstawie art. 11l pkt 5 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188);
+56) licencja wspólnotowa, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącym wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych;
+57) licencja wspólnotowa, o której mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającym rozporządzenie (WE) nr 561/2006;
+58) świadectwa kwalifikacji oraz dokument będący połączeniem unijnych świadectw kwalifikacji i żeglarskiej książeczki pracy, o których mowa w rozporządzeniu wykonawczym Komisji (UE) 2020/182 z dnia 14 stycznia 2020 r. w sprawie wzorów stosowanych w dziedzinie kwalifikacji zawodowych w żegludze śródlądowej (Dz. Urz. UE L 38 z 11.02.2020, str. 1);
+59) zaświadczenie wydawane w związku z działalnością transportową prowadzoną na potrzeby własne w zakresie przewozu autokarowego i autobusowego między państwami członkowskimi na podstawie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006, o którym mowa w rozporządzeniu Komisji (UE) nr 361/2014 z dnia 9 kwietnia 2014 r. ustanawiającym szczegółowe zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 w odniesieniu do dokumentów dotyczących międzynarodowego autokarowego i autobusowego przewozu osób oraz uchylającym rozporządzenie Komisji (WE) nr 2121/98 (Dz. Urz. UE L 107 z 10.04.2014, str. 39, z późn. zm. ).”.
+§ 2. Rozporządzenie wchodzi w życie po upływie 2 lat od dnia ogłoszenia, z wyjątkiem § 1:
+1) pkt 1 lit. a i d, pkt 2 lit. a tiret drugie, czwarte i szóste, lit. b w zakresie § 3 pkt 4, lit. c tiret trzecie, lit. d tiret drugie i czwarte, lit. e, f, j oraz k, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+2) pkt 2 lit. i, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 74 ust. 1 pkt 1 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717).
+Prezes Rady Ministrów: D. Tusk
+

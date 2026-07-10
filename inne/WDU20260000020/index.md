@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-12-29 |
 | Data wydania | 2026-01-09 |
-| Ostatnia zmiana | 2026-03-24 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/20/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -804,7 +804,7 @@ source: pdf
 7. Podmiot kluczowy lub podmiot ważny przekazuje kopię raportu z przeprowadzonego audytu na wniosek:
 
 - **1)** (uchylony)
-- **2)** dyrektora Rządowego Centrum Bezpieczeństwa – w przypadku gdy podmiot kluczowy lub podmiot ważny jest jednocześnie właścicielem, posiadaczem samoistnym albo posiadaczem zależnym obiektów, instalacji, urządzeń lub usług wchodzących w skład infrastruktury krytycznej, wymienionych w wykazie, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
+- **2)** dyrektora Rządowego Centrum Bezpieczeństwa – w przypadku gdy podmiot kluczowy lub podmiot ważny jest jednocześnie operatorem infrastruktury krytycznej, o którym mowa w art. 3 pkt 3a ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2026 r. poz. 574 i 815);
 - **3)** Szefa Agencji Bezpieczeństwa Wewnętrznego.
 
 8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wykaz certyfikatów uprawniających do przeprowadzenia audytu, uwzględniając zakres wiedzy specjalistycznej wymaganej od osób legitymujących się poszczególnymi certyfikatami.
@@ -951,7 +951,7 @@ source: pdf
     - **c)** cyberzagrożeń,
     - **d)** potencjalnych zdarzeń dla cyberbezpieczeństwa;
 
-- **13)** wspólne opracowywanie i przekazywanie ministrowi właściwemu do spraw informatyzacji części Raportu o zagrożeniach bezpieczeństwa narodowego, o którym mowa w art. 5a ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, dotyczącej cyberbezpieczeństwa;
+- **13)** wspólne opracowywanie i przekazywanie ministrowi właściwemu do spraw informatyzacji propozycji do ujęcia w projekcie Krajowej Oceny Ryzyka, o której mowa w art. 6e ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, dotyczących cyberbezpieczeństwa;
 - **14)** zapewnienie zaplecza analitycznego oraz badawczo-rozwojowego, które w szczególności:
     - **a)** prowadzi zaawansowane analizy złośliwego oprogramowania oraz analizy podatności,
     - **b)** monitoruje wskaźniki cyberzagrożeń,
@@ -984,7 +984,7 @@ source: pdf
 
 5. Do zadań CSIRT MON należy koordynacja obsługi incydentów zgłaszanych przez:
 
-- **1)** podmioty podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane, w tym podmioty, których systemy teleinformatyczne lub sieci teleinformatyczne objęte są jednolitym wykazem obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
+- **1)** podmioty podległe Ministrowi Obrony Narodowej lub przez niego nadzorowane;
 - **2)** przedsiębiorcy realizujący zadania na rzecz Sił Zbrojnych, o których mowa w art. 648 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080);
 - **3)** Ministra Obrony Narodowej.
 
@@ -1020,8 +1020,8 @@ source: pdf
 - **4c)** Państwowe Gospodarstwo Wodne Wody Polskie;
 - **4d)** Polski Fundusz Rozwoju i inne instytucje rozwoju, o których mowa w art. 2 ust. 1 pkt 3–6 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2026 r. poz. 9);
 - **4e)** Urząd Komisji Nadzoru Finansowego;
-- **5)** inne niż wymienione w pkt 1–4 oraz ust. 5 podmioty, których systemy teleinformatyczne lub sieci teleinformatyczne objęte są jednolitym wykazem obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
-- **6)** podmioty, o których mowa w ust. 6, jeżeli incydent dotyczy systemów teleinformatycznych lub sieci teleinformatycznych objętych jednolitym wykazem obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym.
+- **5)** inne niż wymienione w pkt 1–4 oraz ust. 5 podmioty, których systemy teleinformatyczne lub sieci teleinformatyczne objęte są wykazem, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
+- **6)** podmioty, o których mowa w ust. 6, jeżeli incydent dotyczy systemów teleinformatycznych lub sieci teleinformatycznych objętych wykazem, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym.
 
 8. CSIRT MON, CSIRT NASK lub CSIRT GOV, który otrzymał zgłoszenie incydentu, a nie jest właściwy do koordynacji jego obsługi, przekazuje niezwłocznie to zgłoszenie do właściwego CSIRT wraz z otrzymanymi informacjami.
 
@@ -1735,6 +1735,8 @@ source: pdf
 - **8)** wymianę informacji o aktach ministra właściwego do spraw informatyzacji, Pełnomocnika, organów właściwych do spraw cyberbezpieczeństwa oraz Prezesa Rady Ministrów, o których mowa w art. 33 ust. 4, art. 42 ust. 1 pkt 5, art. 45 ust. 3, art. 67, art. 67a, art. 67b ust. 15, art. 67g ust. 1 i art. 67l ust. 1.
 
 1a. W systemie teleinformatycznym prowadzi się wykaz.
+
+1b. System teleinformatyczny zapewnia wymianę informacji między organami do spraw podmiotów krytycznych, o których mowa w art. 6zk ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, dyrektorem Rządowego Centrum Bezpieczeństwa a podmiotami krytycznymi, o których mowa w art. 3 pkt 1a tej ustawy.
 
 2. CSIRT MON, CSIRT NASK, CSIRT GOV, CSIRT sektorowe, organy właściwe do spraw cyberbezpieczeństwa oraz Prezes Urzędu Ochrony Danych Osobowych korzystają z systemu teleinformatycznego w celu realizacji swoich zadań ustawowych.
 

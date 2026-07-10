@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2017-09-08 |
 | Data wydania | 2017-09-15 |
-| Ostatnia zmiana | 2026-03-13 |
+| Ostatnia zmiana | 2026-06-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001746) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1746/text.pdf) |
 
 w sprawie szczegółowych zasad gospodarki finansowej Zasobu Własności Rolnej Skarbu Państwa Na podstawie art. 20 ust. 6 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2016 r. poz. 1491 i 2260 oraz z 2017 r. poz. 624 i 1566) zarządza się, co następuje:

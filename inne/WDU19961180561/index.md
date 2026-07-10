@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1996-08-30 |
 | Data wydania | 1996-10-07 |
-| Ostatnia zmiana | 2026-01-02 |
+| Ostatnia zmiana | 2026-06-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961180561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/561/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -56,7 +56,7 @@ source: pdf
 
 - **6)** rolnikach lub rybakach – rozumie się przez to osoby fizyczne prowadzące gospodarstwo rolne lub rybackie, z którego w okresie pięciu lat przed wykreśleniem przedsiębiorstwa państwowego z rejestru przedsiębiorców dostarczono bezpośrednio lub pośrednio do tego przedsiębiorstwa surowce o wartości co najmniej 100 q żyta według cen przyjmowanych do obliczania podatku rolnego w ostatnim roku przed wykreśleniem przedsiębiorstwa państwowego z rejestru przedsiębiorców;
 - **7)** (uchylony)
-- **8)** jednostce dominującej – rozumie się przez to jednostkę dominującą, o której mowa w art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
+- **8)** jednostce dominującej – rozumie się przez to jednostkę dominującą, o której mowa w art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2026 r. poz. 522, 640 i 644);
 - **9)** jednostce zależnej – rozumie się przez to jednostkę zależną, o której mowa w art. 3 ust. 1 pkt 39 ustawy z dnia 29 września 1994 r. o rachunkowości;
 - **10)** grupie kapitałowej – rozumie się przez to grupę kapitałową, o której mowa w art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości.
 
@@ -114,7 +114,7 @@ source: pdf
 
 1. Nie jest zbyciem akcji na zasadach ogólnych zbycie akcji na rzecz:
 
-- **1)** jednostki samorządu terytorialnego w drodze darowizny, zgodnie z art. 11 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940);
+- **1)** jednostki samorządu terytorialnego w drodze darowizny, zgodnie z art. 11 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373);
 - **2)** spółek, której akcjonariuszami są wyłącznie Skarb Państwa lub inne państwowe osoby prawne.
 
 2. Uprawnieni pracownicy w spółce powstałej w wyniku komercjalizacji przedsiębiorstwa państwowego albo przez wniesienie przedsiębiorstwa do spółki, której akcje zostały zbyte zgodnie z ust. 1, zachowują uprawnienia do nieodpłatnego nabycia akcji. Przepisy art. 36–38 oraz art. 38b i art. 38c stosuje się odpowiednio, przy czym przewidziane w tych przepisach kompetencje w zakresie zbywania akcji na rzecz uprawnionych pracowników wykonuje minister właściwy do spraw aktywów państwowych, organ wykonawczy jednostki samorządu terytorialnego albo organ wykonawczy związku jednostek samorządu terytorialnego.
@@ -141,7 +141,7 @@ source: pdf
 
 1. Do spółki powstałej w wyniku komercjalizacji, o ile ustawa nie stanowi inaczej, stosuje się przepisy Kodeksu spółek handlowych.
 
-2. Do akcji Skarbu Państwa nie stosuje się przepisów art. 21 11 , art. 199 i art. 359 w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96).
+2. Do akcji Skarbu Państwa nie stosuje się przepisów art. 21 , art. 199 i art. 359 w zakresie dotyczącym umorzenia przymusowego oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176, 187 i 644).
 
 3. (uchylony)
 
@@ -190,7 +190,7 @@ source: pdf
 
 **Art. 12.**
 
-1. W czasie, w którym Skarb Państwa pozostaje jedynym akcjonariuszem spółki powstałej w wyniku komercjalizacji, członków rady nadzorczej powołuje i odwołuje walne zgromadzenie, z tym że dwie piąte składu rady nadzorczej stanowią, z zastrzeżeniem ust. 2, osoby wybrane przez pracowników albo osoby wybrane w jednej piątej przez pracowników i w jednej piątej przez rolników lub rybaków.
+1. W czasie, w którym Skarb Państwa pozostaje jedynym akcjonariuszem spółki powstałej w wyniku komercjalizacji, członków rady nadzorczej powołuje i odwołuje walne zgromadzenie, z tym że dwie piąte składu rady nadzorczej stanowią, z zastrzeżeniem ust. 2 , osoby wybrane przez pracowników albo osoby wybrane w jednej piątej przez pracowników i w jednej piątej przez rolników lub rybaków.
 
 2. (uchylony)
 
@@ -294,7 +294,7 @@ source: pdf
 
 3. Każdemu rolnikowi i rybakowi przysługuje prawo nabycia akcji w równej liczbie.
 
-4. Rolnicy i rybacy mają prawo do nabycia akcji nie więcej niż w dwóch spółkach.
+4. Rolnicy i rybacy mają prawo do nabycia akcji niewięcej niż w dwóch spółkach.
 
 5. Minister Rolnictwa i Gospodarki Żywnościowej określi, w drodze rozporządzenia, sposób wykazania przez uprawnionych rolników i rybaków okoliczności, o których mowa w art. 2 pkt 6, oraz szczegółowy tryb nabywania przez nich akcji.
 
@@ -346,7 +346,7 @@ source: pdf
 
 - **1)** śmierć uprawnionego pracownika, rolnika lub rybaka nastąpiła przed upływem terminu wygaśnięcia prawa do nieodpłatnego nabycia akcji;
 - **2)** oświadczenie o zamiarze nabycia akcji zostało złożone przez uprawnionego pracownika, rolnika lub rybaka albo jego spadkobiercę z zachowaniem terminu, o którym mowa w art. 38 ust. 1;
-- **3)** został złożony wniosek o stwierdzenie nabycia spadku nie później niż w dniu, w którym upłynął termin wygaśnięcia prawa, o którym mowa w art. 38 ust. 2, albo w tym terminie został przedstawiony zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza.
+- **3)** został złożony wniosek o stwierdzenie nabycia spadku niepóźniej niż w dniu, w którym upłynął termin wygaśnięcia prawa, o którym mowa w art. 38 ust. 2, albo w tym terminie został przedstawiony zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza.
 
 6. W razie przerwania biegu terminu, o którym mowa w ust. 5, termin ten biegnie na nowo od dnia uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku.
 
@@ -398,7 +398,7 @@ source: pdf
 - **1)** spółek z udziałem Skarbu Państwa lub państwowej osoby prawnej, w których ponad połowa akcji albo udziałów należy do Skarbu Państwa lub innych państwowych osób prawnych;
 - **2)** przedsiębiorców, w stosunku do których osoby, o których mowa w pkt 1, są przedsiębiorcami dominującymi, w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów.
 
-4d. Oprocentowanie pożyczek nie może być niższe niż maksymalna stawka oprocentowania środków przyjętych w depozyt przez Ministra Finansów określona według przepisów wydanych na podstawie art. 78g ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. ) powiększona o jeden punkt procentowy.
+4d. Oprocentowanie pożyczek nie może być niższe niż maksymalna stawka oprocentowania środków przyjętych w depozyt przez Ministra Finansów określona według przepisów wydanych na podstawie art. 78g ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680) powiększona o jeden punkt procentowy.
 
 4d. W przypadku udzielenia pożyczki zgodnie z ust. 4d i 4d , na rachunku Funduszu, o którym mowa w ust. 1, gromadzi się całość dochodów z tytułu odsetek oraz przychodów z tytułu spłaty pożyczek.
 
@@ -416,9 +416,7 @@ source: pdf
 - **2)** udzielania dotacji, o których mowa w ust. 1 pkt 3,
 - **3)** udzielania pożyczek, o których mowa w ust. 4d – mając na względzie potrzebę zapewnienia prawidłowej gospodarki finansowej Funduszu, o którym mowa w ust. 1, oraz ochronę interesów Skarbu Państwa.
 
-7. Z przychodów uzyskanych z prywatyzacji przeznacza się, na zasadach i w trybie określonym w ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz.
-
-- **291)** środki na rachunek rezerw poręczeniowych i gwarancyjnych Skarbu Państwa.
+7. Z przychodów uzyskanych z prywatyzacji przeznacza się, na zasadach i w trybie określonym w ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291 oraz z 2026 r. poz. 635 i 680) środki na rachunek rezerw poręczeniowych i gwarancyjnych Skarbu Państwa.
 
 8. (uchylony)
 
@@ -546,7 +544,7 @@ source: pdf
 
 7. Do obejmowania akcji przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw aktywów państwowych, na podstawie ust. 5, nie stosuje się przepisu art. 9b ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
 
-8. Łączna wartość środków przeznaczonych na objęcie akcji w spółce Agencja Rozwoju Przemysłu S.A. wynosi nie więcej niż 900 000 000 zł.
+8. Łączna wartość środków przeznaczonych na objęcie akcji w spółce Agencja Rozwoju Przemysłu S.A. wynosi niewięcej niż 900 000 000 zł.
 
 9. Agencja Rozwoju Przemysłu S.A. prowadzi odrębną ewidencję księgową dla działań, o których mowa w ust. 6, w tym jest obowiązana do prawidłowego przypisywania przychodów i kosztów na podstawie metod mających obiektywne uzasadnienie.
 

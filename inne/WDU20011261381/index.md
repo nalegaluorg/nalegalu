@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2001-09-06 |
 | Data wydania | 2001-10-31 |
-| Ostatnia zmiana | 2026-05-27 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011261381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1381/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -3618,7 +3618,7 @@ source: pdf
 - **4)** określenie zakresu prowadzenia działalności hurtowej, w tym rodzajów produktów leczniczych albo produktów leczniczych weterynaryjnych mających stanowić przedmiot obrotu w przypadku ograniczenia asortymentu;
 - **5)** datę podjęcia zamierzonej działalności;
 - **6)** datę sporządzenia wniosku i podpis osoby składającej wniosek;
-- **7)** imię i nazwisko osoby odpowiedzialnej za prowadzenie hurtowni oraz numer prawa wykonywania zawodu w przypadku osób będących farmaceutami albo numer PESEL w przypadku pozostałych osób, a w przypadku osób, którym nie nadano numeru PESEL, identyfikator nadawany zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+- **7)** imię i nazwisko Osoby Odpowiedzialnej oraz identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, numer PESEL w przypadku osoby niebędącej pracownikiem medycznym w rozumieniu art. 2 pkt 11 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, z późn. zm.), zwanym dalej „rozporządzeniem wykonawczym Komisji (UE) 2015/1501”.
 
 1a. Wniosek o udzielenie zezwolenia na prowadzenie hurtowni farmaceutycznej składa się w postaci papierowej albo elektronicznej.
 
@@ -3870,7 +3870,7 @@ source: pdf
 
 - **1)** dane wymienione w art. 76 ust. 1 pkt 1–6 i 8;
 - **2)** unikalny identyfikator hurtowni farmaceutycznej;
-- **3)** imię i nazwisko osoby odpowiedzialnej za prowadzenie hurtowni oraz numer prawa wykonywania zawodu, a w przypadku jego braku – numer PESEL; w przypadku osób, którym nie nadano numeru PESEL – identyfikator nadawany zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+- **3)** imię i nazwisko Osoby Odpowiedzialnej oraz identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, numer PESEL w przypadku osoby niebędącej pracownikiem medycznym w rozumieniu art. 2 pkt 11 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501.
 
 3. Wydanie zezwolenia, jego zmiana, cofnięcie lub wygaśnięcie wymaga wprowadzenia zmian w rejestrze, o którym mowa w ust. 1 albo 1a.
 
@@ -5287,8 +5287,7 @@ source: pdf
     - **c)** są wytwórcami wyrobów medycznych lub ich autoryzowanymi przedstawicielami;
 
 - **2)** być wspólnikami lub partnerami spółki handlowej lub stroną umowy spółki cywilnej prowadzącej działalność, o której mowa w pkt 1;
-- **3)** być członkami organów spółdzielni lub członkami organów organizacji pozarządowych, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz.
-- **1338)** , oraz podmiotów wymienionych w art. 3 ust. 3 tej ustawy prowadzących działalność, o której mowa w pkt 1;
+- **3)** być członkami organów spółdzielni lub członkami organów organizacji pozarządowych, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), oraz podmiotów wymienionych w art. 3 ust. 3 tej ustawy prowadzących działalność, o której mowa w pkt 1;
 - **4)** posiadać akcji lub udziałów w spółkach handlowych prowadzących działalność, o której mowa w pkt 1, oraz udziałów w spółdzielniach prowadzących działalność, o której mowa w pkt 1;
 - **5)** posiadać jednostek uczestnictwa w funduszach inwestycyjnych inwestujących wyłącznie w sektor farmaceutyczny posiadających akcje lub udziały w spółkach handlowych wykonujących działalność, o której mowa w pkt 1;
 - **6)** prowadzić działalności gospodarczej, o której mowa w pkt 1;

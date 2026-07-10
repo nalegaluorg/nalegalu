@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-18 |
 | Data wydania | 2011-10-24 |
-| Ostatnia zmiana | 2026-04-30 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112281368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1368/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -126,15 +126,13 @@ source: pdf
 - **30)** wstrzymaniu operacji – należy przez to rozumieć decyzję zakazującą kontynuowania pracy statku ze względu na wykazane uchybienia, które pojedynczo lub razem mogłyby uczynić dalszą pracę statku niebezpieczną;
 - **31)** zakazie wejścia do portu – należy przez to rozumieć decyzję wydaną kapitanowi lub armatorowi statku skutkującą, zgodnie z przepisami Unii Europejskiej dotyczącymi inspekcji państwa portu, zakazem wejścia do wszystkich portów i kotwicowisk państw członkowskich Unii Europejskiej;
 - **32)** (uchylony)
-- **33)** umowach międzynarodowych – należy przez to rozumieć: poz. 106), zwaną dalej „Konwencją o zapobieganiu zderzeniom”, poz. 1679 i 1680), zwaną dalej „Konwencją MARPOL”, z 1983 r. poz. 247 i 248), zwaną dalej „Konwencją TONNAGE”,
+- **33)** umowach międzynarodowych – należy przez to rozumieć: poz. 106), zwaną dalej „Konwencją o zapobieganiu zderzeniom”, poz. 1679 i 1680), zwaną dalej „Konwencją MARPOL”, z 1983 r. poz. 247 i 248), zwaną dalej „Konwencją TONNAGE”, (Dz. U. z 2013 r. poz. 845, z 2017 r. poz. 512, z 2019 r. poz. 962, z 2021 r. poz. 707 oraz z 2025 r. poz. 1129), zwaną dalej „Konwencją MLC”,
     - **a)** Konwencję SOLAS,
     - **b)** Międzynarodową konwencję o liniach ładunkowych, sporządzoną w Londynie dnia 5 kwietnia 1966 r. (Dz. U. z 1969 r. poz. 282) wraz z Protokołem z 1988 r. dotyczącym Międzynarodowej konwencji o liniach ładunkowych, 1966, sporządzonym w Londynie dnia 11 listopada 1988 r. (Dz. U. z 2009 r. poz. 372 i 373), zwaną dalej „Konwencją o liniach ładunkowych”,
     - **c)** Konwencję w sprawie międzynarodowych przepisów o zapobieganiu zderzeniom na morzu z 1972 roku, sporządzoną w Londynie dnia 20 października 1972 r. (Dz. U. z 1977 r. poz. 61 i 62 oraz z 1984 r.
     - **d)** Międzynarodową konwencję o zapobieganiu zanieczyszczaniu morza przez statki, 1973, sporządzoną w Londynie dnia 2 listopada 1973 r., oraz Protokół z 1978 r. dotyczący tej konwencji, sporządzony w Londynie dnia 17 lutego 1978 r. (Dz. U. z 1987 r. poz. 101, z późn. zm. ) oraz Protokołem z 1997 r. uzupełniającym Międzynarodową konwencję o zapobieganiu zanieczyszczaniu morza przez statki, 1973, zmodyfikowaną przynależnym do niej Protokółem z 1978 r., sporządzonym w Londynie dnia 26 września 1997 r. (Dz. U. z 2005 r.
     - **e)** Międzynarodową konwencję o pomierzaniu pojemności statków z 1969 r., sporządzoną w Londynie dnia 23 czerwca 1969 r. (Dz. U.
-    - **f)** Międzynarodową konwencję w sprawie kontroli szkodliwych systemów przeciwporostowych na statkach, podpisaną w Londynie dnia 5 października 2001 r. (Dz. U. z 2008 r. poz. 851 i 852 oraz z 2022 r. poz.
-
-- **2636)** , (Dz. U. z 2013 r. poz. 845, z 2017 r. poz. 512, z 2019 r. poz. 962, z 2021 r. poz. 707 oraz z 2025 r. poz. 1129), zwaną dalej „Konwencją MLC”,
+    - **f)** Międzynarodową konwencję w sprawie kontroli szkodliwych systemów przeciwporostowych na statkach, podpisaną w Londynie dnia 5 października 2001 r. (Dz. U. z 2008 r. poz. 851 i 852 oraz z 2022 r. poz. 2636),
     - **g)** Konwencję o pracy na morzu, przyjętą przez Konferencję Ogólną Międzynarodowej Organizacji Pracy w Genewie dnia 23 lutego 2006 r.
     - **h)** Międzynarodową konwencję o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzoną w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201, z późn. zm. ), zwaną dalej „Konwencją STCW”,
     - **i)** Międzynarodową konwencję o wymaganiach w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht dla załóg statków rybackich, sporządzoną w Londynie dnia 7 lipca 1995 r. (Dz. U. z 2015 r. poz. 1654 i 1655), zwaną dalej „Konwencją STCW-F”,

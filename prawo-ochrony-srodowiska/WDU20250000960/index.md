@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-06-26 |
 | Data wydania | 2025-07-21 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000960) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/960/text.pdf) |
 
 ### DZIAŁ I Zasady ogólne
@@ -3741,7 +3741,7 @@ source: pdf
 - **21)** opiniują, w odniesieniu do bezpośrednich zagrożeń szkodą w wodach oraz szkody w wodach, decyzje, o których mowa w art. 13 ust. 3 oraz art. 15 ust. 1 pkt 2 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2020 r. poz. 2187);
 - **22)** gromadzą, przetwarzają, udostępniają i przekazują informacje na potrzeby planowania przestrzennego i centrów zarządzania kryzysowego;
 - **23)** planują utrzymanie śródlądowych dróg wodnych;
-- **24)** współdziałają z wojewodami w zakresie opracowywania wojewódzkiego planu zarządzania kryzysowego;
+- **24)** współdziałają z wojewodami w zakresie opracowywania wojewódzkiego planu zarządzania ryzykiem oraz wojewódzkiego planu reagowania kryzysowego;
 - **25)** podejmują działania mające na celu bilansowanie ilościowe i jakościowe wód powierzchniowych i podziemnych;
 - **26)** podejmują działania mające na celu zapewnienie na potrzeby ludności, przemysłu oraz rolnictwa wody w odpowiedniej ilości i jakości;
 - **27)** pełnią funkcję organu regulacyjnego, o którym mowa w art. 27a ust. 1 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757);
@@ -8304,8 +8304,7 @@ source: pdf
 - **1566)** ,
 - **2)** ustawy z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu (Dz. U. z 2016 r. poz. 1067 oraz z 2017 r. poz. 1566),
 - **3)** ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2017 r. poz. 1122 i 1566),
-- **4)** ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2016 r. poz. 825 oraz z 2017 r. poz.
-- **1566)** ,
+- **4)** ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2016 r. poz. 825 oraz z 2017 r. poz. 1566),
 - **5)** ustawy z dnia 19 grudnia 2008 r. o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego (Dz. U. z 2016 r. poz. 592),
 - **6)** ustawy z dnia 24 czerwca 2010 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z 2010 r. (Dz. U. poz. 835 i 993),
 - **7)** ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2016 r. poz. 1731 i 2260 oraz z 2017 r. poz. 1566),

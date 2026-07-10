@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-30 |
-| Ostatnia zmiana | 2026-06-05 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1668/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne

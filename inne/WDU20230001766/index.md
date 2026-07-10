@@ -6,7 +6,7 @@ publisher: DU
 year: 2023
 pos: 1766
 act_type: Rozporządzenie
-status: obowiązujący
+status: akt objęty tekstem jednolitym
 domain: null
 source: pdf
 ---
@@ -18,11 +18,11 @@ source: pdf
 | Adres publikacyjny | Dz.U. 2023 poz. 1766 |
 | ISAP | WDU20230001766 |
 | Typ aktu | Rozporządzenie |
-| Status | obowiązujący |
+| Status | akt objęty tekstem jednolitym |
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-28 |
 | Data wydania | 2023-08-31 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-07-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1766/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków wynagradzania pracowników Krajowej Szkoły Sądownictwa i Prokuratury Na podstawie art. 55 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury poz. 217 i 2695) zarządza się, co następuje:

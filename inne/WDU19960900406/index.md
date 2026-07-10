@@ -34,8 +34,7 @@ source: pdf
 2. Przepisy ustawy stosuje się do banków w formie spółki akcyjnej, których kapitał akcyjny należy w całości do:
 
 - **1)** Skarbu Państwa,
-- **2)** banku państwowego, w rozumieniu ustawy z dnia 31 stycznia 1989 r. - Prawo bankowe (Dz. U. z 1992 r. Nr 72, poz. 359, z 1993 r. Nr 6, poz. 29, Nr 28, poz. 127 i Nr 134, poz. 646, z 1994 r. Nr 80, poz. 369 i Nr 121, poz. 591, z 1995 r. Nr 4, poz. 18 i Nr 133, poz. 654 oraz z 1996 r. Nr 10, poz. 61 i Nr 75, poz.
-- **357)** ,
+- **2)** banku państwowego, w rozumieniu ustawy z dnia 31 stycznia 1989 r. - Prawo bankowe (Dz. U. z 1992 r. Nr 72, poz. 359, z 1993 r. Nr 6, poz. 29, Nr 28, poz. 127 i Nr 134, poz. 646, z 1994 r. Nr 80, poz. 369 i Nr 121, poz. 591, z 1995 r. Nr 4, poz. 18 i Nr 133, poz. 654 oraz z 1996 r. Nr 10, poz. 61 i Nr 75, poz. 357),
 - **3)** przedsiębiorstwa państwowego, w rozumieniu ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 1991 r. Nr 18, poz. 80, Nr 75, poz. 329, Nr 101, poz. 444 i Nr 107, poz. 464, z 1993 r. Nr 18, poz. 82 i Nr 60, poz. 280, z 1994 r. Nr 1, poz. 3, Nr 80, poz. 368 i Nr 113, poz. 547 oraz z 1995 r. Nr 1, poz. 2, Nr 95, poz. 474 i Nr 154, poz. 791),
 - **4)** spółki akcyjnej, której kapitał akcyjny należy do Skarbu Państwa. Przepisy ustawy stosuje się również do banku w formie spółki akcyjnej, którego kapitał należy łącznie do dwóch lub więcej podmiotów wymienionych w pkt 1-4.
 

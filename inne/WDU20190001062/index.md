@@ -170,8 +170,7 @@ Jeżeli nie jest możliwe, aby odległość między świadczeniodawcami na teren
 12. W uzasadnionych przypadkach w spotkaniach wielodyscyplinarnego zespołu terapeutycznego:
 1) uczestniczy koordynator organizacyjny, jeżeli jest nim inna osoba niż personel określony w ust. 10;
 2) uczestniczy personel świadczeniodawcy, którego obecność jest istotna dla realizacji zadań zespołu (np. pracownik rejestracji, pracownik działu administracyjnego);
-3) uczestniczą osoby niebędące personelem świadczeniodawcy, których wiedza i doświadczenia są istotne dla realizacji zadań zespołu (np.
-przedstawiciel organizacji pacjentów, pracownik opieki społecznej).
+3) uczestniczą osoby niebędące personelem świadczeniodawcy, których wiedza i doświadczenia są istotne dla realizacji zadań zespołu (np. przedstawiciel organizacji pacjentów, pracownik opieki społecznej).
 13. Wielodyscyplinarny zespół terapeutyczny, o którym mowa w § 4a ust. 1 pkt 1 lit. c, realizuje następujące zadania:
 1) wypracowuje zasady współpracy i komunikacji w zespole, które mają na celu zapewnienie optymalnej jakości udzielanych świadczeń oraz zapewnienie realizacji świadczenia Kompleksowa opieka onkologiczna nad świadczeniobiorcą z nowotworem piersi zgodnie z warunkami;
 2) na bieżąco ocenia stan kliniczny świadczeniobiorcy;

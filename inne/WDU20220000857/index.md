@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2022-02-24 |
 | Data wydania | 2022-04-20 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000857) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/857/text.pdf) |
 
 **Art. 1.** Ustawa określa zasady:

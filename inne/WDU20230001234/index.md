@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-05-26 |
 | Data wydania | 2023-06-29 |
-| Ostatnia zmiana | 2026-04-30 |
+| Ostatnia zmiana | 2026-06-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text.pdf) |
 
 **Art. 1.** Ustawa określa:

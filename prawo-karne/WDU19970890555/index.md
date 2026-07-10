@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1997-06-06 |
 | Data wydania | 1997-08-02 |
-| Ostatnia zmiana | 2026-06-11 |
+| Ostatnia zmiana | 2026-07-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970890555) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.pdf) |
 
 ### DZIAŁ I Przepisy wstępne
@@ -1146,7 +1146,11 @@ source: pdf
 
 § 3. Pismo można również pozostawić osobie upoważnionej do odbioru korespondencji w miejscu stałego zatrudnienia adresata.
 
-**Art. 133a.** [§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w sposób umożliwiający uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.] <§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także stronie, która dokonała wyboru takiego sposobu doręczania, przez umieszczenie ich treści w portalu informacyjnym w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.> <§ 1a. Oświadczenie o wyborze doręczeń dokonywanych w sposób, o którym mowa w § 1, lub oświadczenie o rezygnacji z nich strona składa za pośrednictwem portalu informacyjnego i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie o rezygnacji z doręczeń dokonywanych w sposób, o którym mowa w § 1, można złożyć również na piśmie.>
+**Art. 133a.**
+
+§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także stronie, która dokonała wyboru takiego sposobu doręczania, przez umieszczenie ich treści w portalu informacyjnym w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.
+
+§ 1a. Oświadczenie o wyborze doręczeń dokonywanych w sposób, o którym mowa w § 1, lub oświadczenie o rezygnacji z nich strona składa za pośrednictwem portalu informacyjnego i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie o rezygnacji z doręczeń dokonywanych w sposób, o którym mowa w § 1, można złożyć również na piśmie.
 
 § 2. Sąd może doręczyć pismo procesowe lub inne pismo w sposób określony w § 1, jeżeli dysponuje nim w postaci elektronicznej. Nie dotyczy to pism, które podlegają doręczeniu wraz z odpisami pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu, chyba że zostały złożone przez umieszczenie ich treści w portalu informacyjnym na podstawie art. 428 § 3.
 
@@ -1868,7 +1872,7 @@ source: pdf
 
 § 1b. W postępowaniu w sprawach o przestępstwa w ruchu lądowym określone w rozdziale XXI Kodeksu karnego należy także uzyskać informacje z centralnej ewidencji kierowców oraz z ewidencji kierowców naruszających przepisy ruchu drogowego prowadzonej przez Policję, dotyczące oskarżonego. Jeżeli od sporządzenia tych informacji upłynął okres 6 miesięcy, należy uzyskać je ponownie.
 
-§ 1c. Na potrzeby ustalenia, a także potwierdzenia lub weryfikacji tożsamości oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/816 z dnia 17 kwietnia 2019 r. ustanawiającego scentralizowany system służący do ustalania państw członkowskich posiadających informacje o wyrokach skazujących wydanych wobec obywateli państw trzecich i bezpaństwowców (ECRIS-TCN) na potrzeby uzupełnienia europejskiego systemu przekazywania informacji z rejestrów karnych oraz zmieniającego rozporządzenie (UE) 2018/1726 (Dz. Urz. UE L 135 z 22.05.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/816”, należy od niego pobrać odciski linii papilarnych oraz przekazać je wraz z jego danymi osobowymi do zbiorów danych daktyloskopijnych prowadzonych przez Komendanta Głównego Policji. Nadany karcie daktyloskopijnej numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 000), zamieszcza się w aktach postępowania. Przepis art. 74 § 2 pkt 1 i § 3a stosuje się odpowiednio. [§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania odpis lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.] <§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania kopię lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.>
+§ 1c. Na potrzeby ustalenia, a także potwierdzenia lub weryfikacji tożsamości oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/816 z dnia 17 kwietnia 2019 r. ustanawiającego scentralizowany system służący do ustalania państw członkowskich posiadających informacje o wyrokach skazujących wydanych wobec obywateli państw trzecich i bezpaństwowców (ECRIS-TCN) na potrzeby uzupełnienia europejskiego systemu przekazywania informacji z rejestrów karnych oraz zmieniającego rozporządzenie (UE) 2018/1726 (Dz. Urz. UE L 135 z 22.05.2019, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2019/816”, należy od niego pobrać odciski linii papilarnych oraz przekazać je wraz z jego danymi osobowymi do zbiorów danych biometrycznych prowadzonych przez Komendanta Głównego Policji. Nadany karcie daktyloskopijnej numer rejestracyjny zbioru automatycznie przetwarzającego dane biometryczne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, zamieszcza się w aktach postępowania. Przepis art. 74 § 2 pkt 1 i § 3a stosuje się odpowiednio. [§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania odpis lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.] <§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania kopię lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.>
 
 § 2a. Jeżeli organ prowadzący postępowanie powziął informację o prawomocnym skazaniu, przepis § 2 stosuje się odpowiednio do orzeczeń skazujących wydanych przez sąd innego państwa członkowskiego Unii Europejskiej.
 
@@ -2104,8 +2108,7 @@ source: pdf
 - **16g)** niezawiadomienia o przestępstwie;
 - **17)** łapownictwa i płatnej protekcji;
 - **18)** stręczycielstwa, kuplerstwa i sutenerstwa;
-- **19)** przestępstw określonych w rozdziale XVI ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oraz w art. 5– 8 Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego w Rzymie dnia 17 lipca 1998 r. (Dz. U. z 2003 r. poz. 708 oraz z 2018 r. poz.
-- **1753)** , zwanego dalej „Statutem”.
+- **19)** przestępstw określonych w rozdziale XVI ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oraz w art. 5– 8 Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego w Rzymie dnia 17 lipca 1998 r. (Dz. U. z 2003 r. poz. 708 oraz z 2018 r. poz. 1753), zwanego dalej „Statutem”.
 
 § 3a. Kontrola i utrwalanie treści rozmów telefonicznych są dopuszczalne również w celu ujawnienia mienia zagrożonego przepadkiem, o którym mowa w art. 45 § 2 Kodeksu karnego albo art. 33 § 2 Kodeksu karnego skarbowego.
 
@@ -3128,8 +3131,8 @@ source: pdf
 
 - **1)** imię i nazwisko oskarżonego, inne dane o jego osobie, w tym numer telefonu, telefaksu i adres poczty elektronicznej lub informację o ich nieposiadaniu przez oskarżonego lub niemożności ich ustalenia, dane o zastosowaniu środka zapobiegawczego oraz zabezpieczenia majątkowego;
 - **1a)** informację o złożonym przez oskarżonego oświadczeniu o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody;
-- **1b)** numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, albo informację o niemożności jego ustalenia – w przypadku oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia 2019/816;
-- **1c)** numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, o ile oskarżyciel nim dysponuje – w przypadku oskarżonego będącego obywatelem państwa członkowskiego Unii Europejskiej, o którym mowa w art. 2 rozporządzenia 2019/816;
+- **1b)** numer rejestracyjny zbioru automatycznie przetwarzającego dane biometryczne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, albo informację o niemożności jego ustalenia – w przypadku oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia 2019/816;
+- **1c)** numer rejestracyjny zbioru automatycznie przetwarzającego dane biometryczne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, o ile oskarżyciel nim dysponuje – w przypadku oskarżonego będącego obywatelem państwa członkowskiego Unii Europejskiej, o którym mowa w art. 2 rozporządzenia 2019/816;
 - **2)** dokładne określenie zarzucanego oskarżonemu czynu ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz skutków, a zwłaszcza wysokości powstałej szkody;
 - **3)** wskazanie, że czyn został popełniony w warunkach wymienionych w art. 64, art. 64a lub art. 65 Kodeksu karnego albo art. 37 § 1 Kodeksu karnego skarbowego;
 - **4)** wskazanie przepisów ustawy karnej, pod które zarzucany czyn podpada;
@@ -4689,7 +4692,7 @@ source: pdf
 
 **Art. 529.**
 
-- **10)** Wniesieniu i rozpoznaniu kasacji na korzyść oskarżonego nie stoi na przeszkodzie wykonanie kary, zatarcie skazania, akt łaski ani też okoliczność wyłączająca ściganie lub uzasadniająca zawieszenie postępowania.
+- **9)** Wniesieniu i rozpoznaniu kasacji na korzyść oskarżonego nie stoi na przeszkodzie wykonanie kary, zatarcie skazania, akt łaski ani też okoliczność wyłączająca ściganie lub uzasadniająca zawieszenie postępowania.
 
 **Art. 530.**
 

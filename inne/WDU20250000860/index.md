@@ -233,9 +233,7 @@ source: pdf
 
 § 4. Jeżeli w wypadkach, o których mowa w § 1, obwiniony nie ma obrońcy z wyboru, wyznacza mu się obrońcę z urzędu.
 
-**Art. 22.** Gdy wymaga tego dobro wymiaru sprawiedliwości, obwinionemu, który nie ma obrońcy z wyboru, wyznacza się na jego wniosek obrońcę z urzędu, jeżeli w sposób należyty wykaże, że nie jest w stanie ponieść kosztów obrony bez poważnego uszczerbku dla niezbędnego utrzymania siebie i rodziny. Podstawą odmowy wyznaczenia obrońcy z urzędu nie może być skorzystanie przez obwinionego z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego, o których mowa w ustawie z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2024 r. poz.
-
-- **1534)** . Przepis art. 78 § 2 Kodeksu postępowania karnego stosuje się.
+**Art. 22.** Gdy wymaga tego dobro wymiaru sprawiedliwości, obwinionemu, który nie ma obrońcy z wyboru, wyznacza się na jego wniosek obrońcę z urzędu, jeżeli w sposób należyty wykaże, że nie jest w stanie ponieść kosztów obrony bez poważnego uszczerbku dla niezbędnego utrzymania siebie i rodziny. Podstawą odmowy wyznaczenia obrońcy z urzędu nie może być skorzystanie przez obwinionego z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego, o których mowa w ustawie z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2024 r. poz. 1534). Przepis art. 78 § 2 Kodeksu postępowania karnego stosuje się.
 
 **Art. 23.**
 

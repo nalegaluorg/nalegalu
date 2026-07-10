@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2020-04-07 |
 | Data wydania | 2020-04-23 |
-| Ostatnia zmiana | 2025-09-16 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/718/text.pdf) |
 
 w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, z późn. zm. ) zarządza się, co następuje:

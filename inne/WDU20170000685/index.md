@@ -25,8 +25,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000685) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/685/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 marca 2016 r. o szczególnych rozwiązaniach związanych z organizacją wizyty Jego Świątobliwości Papieża Franciszka w Rzeczypospolitej Polskiej oraz Światowych Dni Młodzieży – Kraków 2016 (Dz. U. poz.
-393), z uwzględnieniem zmian wprowadzonych ustawą z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296 i 1579) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 marca 2016 r. o szczególnych rozwiązaniach związanych z organizacją wizyty Jego Świątobliwości Papieża Franciszka w Rzeczypospolitej Polskiej oraz Światowych Dni Młodzieży – Kraków 2016 (Dz. U. poz. 393), z uwzględnieniem zmian wprowadzonych ustawą z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz.
 U. poz. 904) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 marca 2017 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 65 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. poz. 904), który stanowi: „ Art. 65. Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 43, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Marszałek Sejmu: M. Kuchciński
 USTAWA z dnia 18 marca 2016 r.
@@ -87,9 +86,7 @@ o szczególnych rozwiązaniach związanych z organizacją wizyty Jego Świątobl
 
 **Art. 6.**
 
-1. Udostępnienie przez Policję informacji, o których mowa w art. 5 ust. 1, w celu zapewnienia bezpieczeństwa i porządku publicznego podczas Światowych Dni Młodzieży, a także w celu zapobiegania popełnianiu przestępstw i wykroczeń pozostających z nimi w związku oraz wykrywania i ścigania ich sprawców, organom władzy publicznej, służbom i instytucjom państwowym, w tym również zagranicznym i międzynarodowym, odbywa się na zasadach określonych w ustawie z dnia 6 kwietnia 1990 r. o Policji, ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz.
-
-- **922)** , ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948), a także umowach międzynarodowych, których Rzeczpospolita Polska jest stroną.
+1. Udostępnienie przez Policję informacji, o których mowa w art. 5 ust. 1, w celu zapewnienia bezpieczeństwa i porządku publicznego podczas Światowych Dni Młodzieży, a także w celu zapobiegania popełnianiu przestępstw i wykroczeń pozostających z nimi w związku oraz wykrywania i ścigania ich sprawców, organom władzy publicznej, służbom i instytucjom państwowym, w tym również zagranicznym i międzynarodowym, odbywa się na zasadach określonych w ustawie z dnia 6 kwietnia 1990 r. o Policji, ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922), ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948), a także umowach międzynarodowych, których Rzeczpospolita Polska jest stroną.
 
 2. Udostępnienie przez Policję informacji, o których mowa w art. 5 ust. 1 pkt 2, następuje pod warunkiem uzyskania zgody organu, służby lub instytucji, która te informacje uzyskała lub przetwarzała, udzielanej w przypadku, gdy udostępnienie tych informacji nie utrudni lub nie uniemożliwi realizacji zadań tego organu, służby lub instytucji.
 

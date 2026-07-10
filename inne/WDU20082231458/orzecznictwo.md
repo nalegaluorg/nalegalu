@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych*
 
 Łącznie: **160** orzeczeń
-(pominięto 230 orzeczeń sądów rejonowych)
+(pominięto 232 orzeczeń sądów rejonowych)
 
 ## art. 2 (19)
 

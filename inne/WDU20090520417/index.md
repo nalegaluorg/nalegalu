@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2008-11-06 |
 | Data wydania | 2009-03-31 |
-| Ostatnia zmiana | 2026-06-11 |
+| Ostatnia zmiana | 2026-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090520417) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/417/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -333,7 +333,7 @@ source: pdf
 
 4. Dokumentacja medyczna może być udostępniona także szkole wyższej lub instytutowi badawczemu do wykorzystania w celach naukowych, bez ujawniania nazwiska i innych danych umożliwiających identyfikację osoby, której dokumentacja dotyczy.
 
-5. Elektroniczna dokumentacja medyczna, o której mowa w art. 2 pkt 6 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, jest udostępniana na zasadach określonych w przepisach tej ustawy, ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
+5. (uchylony)
 
 **Art. 27.**
 
@@ -423,9 +423,9 @@ source: pdf
 
 7. W przypadku gdy nie jest możliwe ustalenie podmiotu odpowiedzialnego za przechowywanie dokumentacji medycznej po zaprzestaniu wykonywania działalności leczniczej, za przechowywanie dokumentacji medycznej odpowiada wojewoda.
 
-8. Przepisów ust. 2–7 nie stosuje się do dokumentacji medycznej, o której mowa w ust. 9.
+8. Przepisów ust. 3–7 nie stosuje się do dokumentacji medycznej prowadzonej w postaci elektronicznej przez podmioty udzielające świadczeń zdrowotnych, o której mowa w przepisach wydanych na podstawie art. 30.
 
-9. Dokumentacja medyczna, o której mowa w przepisach wydanych na podstawie art. 13a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, po zaprzestaniu wykonywania działalności leczniczej jest przechowywana i udostępniana przez jednostkę podległą ministrowi właściwemu do spraw zdrowia, właściwą w zakresie systemów informacyjnych ochrony zdrowia, w Systemie Informacji Medycznej, o którym mowa w art. 10 tej ustawy.
+9. Dokumentacja medyczna prowadzona w postaci elektronicznej przez podmioty udzielające świadczeń zdrowotnych, o której mowa w przepisach wydanych na podstawie art. 30, po zaprzestaniu wykonywania działalności leczniczej, jest przechowywana i udostępniana przez jednostkę podległą ministrowi właściwemu do spraw zdrowia właściwą w zakresie systemów informacyjnych ochrony zdrowia w Systemie Informacji Medycznej, o którym mowa w art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. Podmiot udzielający świadczeń zdrowotnych przed zaprzestaniem wykonywania działalności leczniczej informuje pacjentów o miejscu przechowywania i udostępniania tej dokumentacji.
 
 10. (uchylony)
 
@@ -434,6 +434,60 @@ source: pdf
 12. W przypadku zaprzestania przetwarzania danych osobowych zawartych w dokumentacji medycznej przez podmiot, któremu powierzono takie przetwarzanie, w szczególności w związku z jego likwidacją, jest on obowiązany do przekazania danych osobowych zawartych w dokumentacji medycznej podmiotowi, o którym mowa w ust. 3 i 7, który powierzył przetwarzanie tych danych.
 
 13. Przepisy art. 13, art. 14, art. 23, art. 24 i art. 26–29 oraz przepisy wydane na podstawie art. 30 stosuje się odpowiednio do podmiotów, które przechowują i udostępniają dokumentację medyczną po zaprzestaniu wykonywania działalności leczniczej przez podmiot udzielający świadczeń zdrowotnych.
+
+**Art. 30b.**
+
+1. Karta pacjenta jest dokumentem obejmującym dane osobowe i jednostkowe dane medyczne o pacjencie dostępne w Systemie Informacji Medycznej, o którym mowa w art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, i stanowi dokument, o którym mowa w art. 14 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2025/327 z dnia 11 lutego 2025 r. w sprawie europejskiej przestrzeni danych dotyczących zdrowia oraz zmiany dyrektywy 2011/24/UE i rozporządzenia (UE) 2024/2847 (Dz. Urz. UE L 2025/327 z 05.03.2025).
+
+2. Karta pacjenta jest dokumentem generowanym przez System Informacji Medycznej, o którym mowa w art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, na żądanie pracownika medycznego uprawnionego do dostępu do danych pacjenta zgodnie z zasadami określonymi w art. 35 tej ustawy.
+
+3. Karta pacjenta jest dokumentem obejmującym:
+
+- **1)** dane pacjenta, o których mowa w art. 25 ust. 1 pkt 1, a także adres poczty elektronicznej oraz numer telefonu pacjenta lub jego przedstawiciela ustawowego;
+- **2)** informacje o wybranych lekarzu, pielęgniarce lub położnej podstawowej opieki zdrowotnej obejmujące:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** numer prawa wykonywania zawodu,
+    - **c)** nazwę, adres siedziby, numer telefonu oraz adres poczty elektronicznej podmiotu leczniczego udzielającego świadczeń zdrowotnych z zakresu podstawowej opieki zdrowotnej oraz jednostki lub komórki organizacyjnej tego podmiotu, jeżeli zostały wyodrębnione;
+
+- **3)** jednostkowe dane medyczne w rozumieniu art. 2 pkt 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia dotyczące:
+    - **a)** grupy krwi pacjenta lub informacji o braku potwierdzonego wyniku grupy krwi,
+    - **b)** alergii i nietolerancji lub informacji o braku potwierdzonych danych o występujących alergiach i nietolerancjach,
+    - **c)** produktów leczniczych przepisanych pacjentowi na recepcie,
+    - **d)** szczepień ochronnych wykonanych u pacjenta, jeżeli są znane, lub informacji o braku potwierdzonych danych o wykonanych szczepieniach ochronnych,
+    - **e)** istotnych i przewlekłych problemów zdrowotnych stwierdzonych u pacjenta, jeżeli są znane, lub informacji o braku potwierdzonych danych o ich występowaniu,
+    - **f)** operacji i zabiegów, którym poddany został pacjent, jeżeli są znane, lub informacji o braku potwierdzonych danych o ich wykonaniu,
+    - **g)** wyrobów medycznych zaimplantowanych u pacjenta lub informacji o braku potwierdzonych danych o zaimplantowanych wyrobach medycznych,
+    - **h)** badań, którym poddany został pacjent, jeżeli są znane;
+
+- **4)** identyfikator karty pacjenta.
+
+4. Dane, o których mowa w ust. 3 pkt 3, są uwzględniane w karcie pacjenta w sposób zapewniający ich przejrzystość i użyteczność oraz umożliwiający osobom wykonującym zawód medyczny sprawną ocenę aktualnego stanu zdrowia pacjenta, z uwzględnieniem istotnych i przewlekłych problemów zdrowotnych.
+
+5. Karta pacjenta może być przekazana innym państwom członkowskim Unii Europejskiej lub państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym po uprzednim wyrażeniu zgody przez pacjenta za pośrednictwem Internetowego Konta Pacjenta, o którym mowa w art. 7a ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, na wniosek osoby wykonującej zawód medyczny i prowadzącej leczenie pacjenta w tym państwie, w celu prowadzenia konsultacji medycznych lub leczenia pacjenta w ramach transgranicznej opieki zdrowotnej.
+
+6. W celu przekazania karty pacjenta innym państwom członkowskim Unii Europejskiej lub państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym System Informacji Medycznej, o którym mowa w art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, generuje tę kartę wraz z dodatkowymi oznaczeniami „Polska”, „transgraniczna” i identyfikatorem karty pacjenta dla potrzeb wymiany transgranicznej, z wyłączeniem informacji o pielęgniarce lub położnej podstawowej opieki zdrowotnej, o których mowa w ust. 3 pkt 2. Karta pacjenta jest przekazywana innym państwom członkowskim Unii Europejskiej lub państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym za pośrednictwem Krajowego Punktu Kontaktowego do spraw Transgranicznej Opieki Zdrowotnej, o którym mowa w art. 7 ust. 2a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zwanego dalej „KPK”, który zapewnia tłumaczenie danych, o których mowa w ust. 3, w zakresie niezbędnym do wymiany transgranicznej.
+
+7. System Informacji Medycznej, o którym mowa w art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, może odbierać dane osobowe i jednostkowe dane medyczne pacjentów wytworzone w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym zawarte w dokumencie, o którym mowa w art. 14 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2025/327 z dnia 11 lutego 2025 r. w sprawie europejskiej przestrzeni danych dotyczących zdrowia oraz zmiany dyrektywy 2011/24/UE i rozporządzenia (UE) 2024/2847, i udostępniać je osobom wykonującym zawód medyczny zgodnie z zasadami określonymi w art. 35 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+
+8. Osoba wykonująca zawód medyczny w celu przeprowadzenia konsultacji medycznej lub leczenia pacjentów w ramach transgranicznej opieki zdrowotnej może wnioskować o udostępnienie danych, o których mowa w ust. 7, za pośrednictwem Systemu Informacji Medycznej, o którym mowa w art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. Osoba wykonująca zawód medyczny weryfikuje tożsamość pacjenta, którego dane dotyczą, oraz informuje go o miejscu, w którym są dostępne informacje dotyczące przetwarzania jego danych osobowych. Przepisu o obowiązku poinformowania o przetwarzaniu danych osobowych nie stosuje się w przypadku, o którym mowa w art. 35 ust. 1 pkt 4 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+
+9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+- **1)** szczegółowy zakres danych, o których mowa w ust. 3 pkt 3, okresy, z których dane podlegają uwzględnieniu w karcie pacjenta, oraz sposób uwzględniania danych prezentowanych w karcie pacjenta,
+- **2)** sposób i zakres tłumaczenia danych, o których mowa w ust. 3, przekazywanych innym państwom członkowskim Unii Europejskiej lub państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym,
+- **3)** sposób odbierania danych, o których mowa w ust. 7, wytworzonych w innych państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym oraz sposób weryfikacji tożsamości pacjentów, których te dane dotyczą – mając na uwadze konieczność zapewnienia kompletności, rzetelności i bezpieczeństwa tych danych oraz ich przydatności do oceny i monitorowania stanu zdrowia pacjenta i konieczność zapewnienia ciągłości leczenia pacjenta.
+
+10. Minister właściwy do spraw zdrowia zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra:
+
+- **1)** wykaz państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, do których Rzeczpospolita Polska przekazuje kartę pacjenta, oraz wykaz państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, od których odbiera dane osobowe i jednostkowe dane medyczne pacjentów wytworzone w tych państwach;
+- **2)** określenie rodzaju danych niezbędnych do weryfikacji tożsamości pacjenta notyfikowanych przez państwo pochodzenia pacjenta będące państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stroną umowy o Europejskim Obszarze Gospodarczym.
+
+11. KPK udostępnia Komisji Europejskiej:
+
+- **1)** słowniki krajowe zawierające zbiory pojęć niezbędne do przyporządkowania treści do treści zawartej w słownikach transgranicznych;
+- **2)** kartę pacjenta w formacie umożliwiającym automatyczne tłumaczenie.
+
+12. W przypadku stwierdzenia niezgodności treści karty pacjenta z treścią karty jej tłumaczenia dokonanego przez KPK lub krajowe punkty kontaktowe do spraw transgranicznej opieki zdrowotnej innych państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym rozstrzygająca jest treść karty pacjenta sporządzona w języku polskim.
 
 #### Rozdział 8 Prawo pacjenta do zgłoszenia sprzeciwu wobec opinii albo orzeczenia lekarza
 

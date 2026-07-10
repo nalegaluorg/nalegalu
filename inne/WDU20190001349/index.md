@@ -1,0 +1,32 @@
+---
+title: Wyrok Trybunału Konstytucyjnego z dnia 3 lipca 2019 r. sygn. akt SK 14/18
+address: WDU20190001349
+eli: DU/2019/1349
+publisher: DU
+year: 2019
+pos: 1349
+act_type: Orzeczenie
+status: obowiązujący
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1349 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 3 lipca 2019 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 1349 |
+| ISAP | WDU20190001349 |
+| Typ aktu | Orzeczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2019-07-03 |
+| Data wydania | 2019-07-19 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001349) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1349/text.pdf) |
+
+sygn. akt SK 14/18 Trybunał Konstytucyjny w składzie: Stanisław Rymar – przewodniczący, Leon Kieres, Mariusz Muszyński, Justyn Piskorski, Andrzej Zielonacki – sprawozdawca, po rozpoznaniu w trybie art. 92 ust. 1 pkt 1 ustawy z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym (Dz. U. poz. 2072, ze zm.), na posiedzeniu niejawnym w dniu 3 lipca 2019 r., skargi konstytucyjnej Julii Hanasz-Kubicy o zbadanie zgodności: art. 1 ust. 2 ustawy z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki (Dz. U. Nr 179, poz. 1843, ze zm.) w zakresie, w jakim wyłącza możliwość złożenia skargi na przewlekłość postępowania w sprawie nadania klauzuli wykonalności, co jest równoznaczne z zamknięciem drogi sądowej w rozumieniu art. 77 ust. 2 Konstytucji, poprzez uniemożliwienie przeciwdziałania przewlekłości postępowania klauzulowego oraz wykluczenie rekompensaty za nieuzasadnioną zwłokę w rozpoznaniu sprawy, z art. 45 ust. 1 w związku z art. 2 i art. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej, orzeka:
+Art. 1 ust. 2 ustawy z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki (Dz. U. z 2018 r. poz. 75) w zakresie, w jakim nie dotyczy postępowania o nadanie klauzuli wykonalności orzeczeniu wydanemu w sprawie prowadzonej w trybie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, ze zm.), jest niezgodny z art. 45 ust. 1 i art. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
+Ponadto postanawia: na podstawie art. 59 ust. 1 pkt 2 ustawy z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym (Dz. U. poz. 2072 oraz z 2019 r. poz. 125) umorzyć postępowanie w pozostałym zakresie.
+Orzeczenie zapadło większością głosów.
+

@@ -52,12 +52,10 @@ poz. 1570, 1598 i 1852) zarządza się, co następuje:
 14) usług transportu wodnego śródlądowego pasażerskiego łodziami wycieczkowymi (PKWiU 50.30.13.0);
 15) usług pozostałego transportu wodnego śródlądowego pasażerskiego (PKWiU 50.30.19.0);
 16) usług transportu lotniczego regularnego krajowego pasażerskiego (PKWiU 51.10.11.0);
-17) usług transportu lotniczego nieregularnego krajowego pasażerskiego, z wyłączeniem w celach widokowych (PKWiU
-51.10.12.0);
+17) usług transportu lotniczego nieregularnego krajowego pasażerskiego, z wyłączeniem w celach widokowych (PKWiU 51.10.12.0);
 18) usług hotelarskich i podobnych usług związanych z zakwaterowaniem (PKWiU 55.10);
 19) usług obiektów noclegowych turystycznych i miejsc krótkotrwałego zakwaterowania (PKWiU 55.20);
-20) usług świadczonych przez pola kempingowe (włączając pola dla pojazdów kempingowych) i pola namiotowe (PKWiU
-55.30);
+20) usług świadczonych przez pola kempingowe (włączając pola dla pojazdów kempingowych) i pola namiotowe (PKWiU 55.30);
 21) pozostałych usług związanych z zakwaterowaniem (PKWiU 55.90);
 22) usług restauracji i pozostałych placówek gastronomicznych (PKWiU 56.10);
 23) usług przygotowywania i dostarczania żywności (katering) dla odbiorców zewnętrznych (PKWiU 56.21);

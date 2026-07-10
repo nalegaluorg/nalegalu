@@ -83,8 +83,7 @@ source: pdf
     - **b)** granic obszaru, w stosunku do którego decyzja o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej ma wywołać skutek, o którym mowa w art. 19 ust. 3 i art. 23 ust. 1 oraz 1a,
     - **c)** granic obszaru, w stosunku do którego decyzja o ustaleniu lokalizacji strategicznej inwestycji w zakresie sieci przesyłowej ma wywołać skutek, o którym mowa w art. 22 ust. 1, w tym obszaru objętego zakazem lub nakazem, o którym mowa w art. 22 ust. 2;
 
-- **1a)** współrzędne geocentryczne geodezyjne linii rozgraniczających teren przeznaczony pod budowę inwestycji lokalizowanej w polskich obszarach morskich w rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz.
-- **1125)** ;
+- **1a)** współrzędne geocentryczne geodezyjne linii rozgraniczających teren przeznaczony pod budowę inwestycji lokalizowanej w polskich obszarach morskich w rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125);
 - **2)** określenie zmian w dotychczasowym sposobie zagospodarowania i uzbrojeniu terenu;
 - **3)** analizę powiązania inwestycji z uzbrojeniem terenu;
 - **4)** charakterystykę planowanej inwestycji obejmującą określenie:

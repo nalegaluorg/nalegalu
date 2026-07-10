@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 16 listopada 2006 r. o opłacie skarbowej*
 
-Łącznie: **289** orzeczeń
-(pominięto 1418 orzeczeń sądów rejonowych)
+Łącznie: **290** orzeczeń
+(pominięto 1426 orzeczeń sądów rejonowych)
 
 ## art. 1 (128)
 
@@ -268,7 +268,7 @@ Orzeczenia powołujące: *Ustawa z dnia 16 listopada 2006 r. o opłacie skarbowe
 - 2014-07-09 | SO | [I ACa 598/14](https://www.saos.org.pl/judgments/74403) | Wyrok
 - 2014-04-25 | SO | [I ACa 242/14](https://www.saos.org.pl/judgments/76032) | Wyrok
 
-## (ogólnie) (90)
+## (ogólnie) (91)
 
 - 2025-12-11 | SO | [I AGa 148/23](https://www.saos.org.pl/judgments/542925) | Wyrok
 - 2025-09-22 | SO | [I AGa 136/23](https://www.saos.org.pl/judgments/542793) | Wyrok
@@ -305,6 +305,7 @@ Orzeczenia powołujące: *Ustawa z dnia 16 listopada 2006 r. o opłacie skarbowe
 - 2013-07-04 | SO | [I ACa 218/13](https://www.saos.org.pl/judgments/20293) | Wyrok
 - 2013-05-23 | SO | [I ACa 162/13](https://www.saos.org.pl/judgments/13482) | Wyrok
 - 2019-04-04 | SO | [I ACo 92/18](https://www.saos.org.pl/judgments/454150) | Postanowienie
+- 2025-10-27 | SO | [I Ca 214/25](https://www.saos.org.pl/judgments/547289) | Wyrok
 - 2023-05-15 | SO | [I C 1433/22](https://www.saos.org.pl/judgments/522590) | Wyrok
 - 2022-11-15 | SO | [I C 619/19](https://www.saos.org.pl/judgments/522274) | Wyrok
 - 2021-12-28 | SO | [XIV C 613/16](https://www.saos.org.pl/judgments/455403) | Wyrok

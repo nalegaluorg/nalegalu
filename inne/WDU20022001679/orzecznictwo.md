@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.*
 
-Łącznie: **528** orzeczeń
-(pominięto 301 orzeczeń sądów rejonowych)
+Łącznie: **529** orzeczeń
+(pominięto 302 orzeczeń sądów rejonowych)
 
 ## art. 1 (5)
 
@@ -580,8 +580,9 @@ Orzeczenia powołujące: *Ustawa z dnia 10 października 2002 r. o minimalnym wy
 
 - 2019-07-19 | SO | [VIII Ua 40/19](https://www.saos.org.pl/judgments/391218) | Uzasadnienie
 
-## (ogólnie) (135)
+## (ogólnie) (136)
 
+- 2026-01-26 | SO | [I AGa 142/24](https://www.saos.org.pl/judgments/547471) | Wyrok
 - 2025-05-21 | SO | [III AUa 817/24](https://www.saos.org.pl/judgments/537941) | Wyrok
 - 2024-05-28 | SO | [I ACa 2656/23](https://www.saos.org.pl/judgments/519159) | Wyrok
 - 2024-05-21 | SO | [III AUa 543/23](https://www.saos.org.pl/judgments/505051) | Wyrok

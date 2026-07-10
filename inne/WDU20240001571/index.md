@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-09-11 |
 | Data wydania | 2024-10-24 |
-| Ostatnia zmiana | 2026-05-22 |
+| Ostatnia zmiana | 2026-06-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001571) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1571/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne

@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-22 |
 | Data wydania | 2016-01-14 |
-| Ostatnia zmiana | 2026-06-08 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/64/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -279,9 +279,7 @@ source: pdf
 - **1)** dane podmiotu, o którym mowa w art. 14:
     - **a)** nazwę lub firmę albo imię i nazwisko, w przypadku osoby fizycznej,
     - **b)** siedzibę i adres albo adres zamieszkania oraz adres do doręczeń, w przypadku osoby fizycznej,
-    - **c)** numer identyfikacji podatkowej (NIP), numer PESEL lub, w przypadku osoby zagranicznej, o której mowa w art. 3 pkt 5 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470 oraz z 2024 r. poz.
-
-- **1222)** , inny numer przypisany do celów identyfikacji podatkowej w kraju siedziby lub zamieszkania,
+    - **c)** numer identyfikacji podatkowej (NIP), numer PESEL lub, w przypadku osoby zagranicznej, o której mowa w art. 3 pkt 5 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470 oraz z 2024 r. poz. 1222), inny numer przypisany do celów identyfikacji podatkowej w kraju siedziby lub zamieszkania,
     - **d)** numer w Krajowym Rejestrze Sądowym (KRS), o ile został nadany,
     - **e)** imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania, w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną,
     - **f)** adres elektroniczny osoby składającej wniosek w imieniu podmiotu, o którym mowa w art. 14;

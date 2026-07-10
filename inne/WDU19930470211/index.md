@@ -241,8 +241,7 @@ source: pdf
 
 **Art. 17g.** Czynem nieuczciwej konkurencji jest nieuzasadnione wydłużanie terminów zapłaty za dostarczone towary lub wykonane usługi, polegające w szczególności na:
 
-- **1)** naruszeniu przepisów ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz.
-- **1790)** ;
+- **1)** naruszeniu przepisów ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790);
 - **2)** rażącym odstępstwie od dobrych praktyk handlowych, które narusza zasadę działania w dobrej wierze i zasadę rzetelności;
 - **3)** niedostosowaniu do harmonogramu dostawy towarów lub harmonogramu wykonania usługi;
 - **4)** nieuwzględnieniu właściwości towaru lub usługi, które są przedmiotem umowy.

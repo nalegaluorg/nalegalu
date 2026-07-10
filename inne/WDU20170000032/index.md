@@ -43,14 +43,11 @@ o wyposażeniu morskim
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
-- **1)** konwencjach międzynarodowych – należy przez to rozumieć:
-    - **a)** Konwencję w sprawie międzynarodowych przepisów o zapobieganiu zderzeniom na morzu z 1972 roku, sporządzoną w Londynie dnia 20 października 1972 r. (Dz. U. z 1977 r. poz. 61 i 62 oraz z 1984 r. poz.
-
-- **106)** , z 2016 r. poz. 761 i 773), Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/90/UE z dnia 23 lipca 2014 r. w sprawie wyposażenia morskiego i uchylającą dyrektywę Rady 96/98/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 146).
+- **1)** konwencjach międzynarodowych – należy przez to rozumieć: z 2016 r. poz. 761 i 773), Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/90/UE z dnia 23 lipca 2014 r. w sprawie wyposażenia morskiego i uchylającą dyrektywę Rady 96/98/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 146).
+    - **a)** Konwencję w sprawie międzynarodowych przepisów o zapobieganiu zderzeniom na morzu z 1972 roku, sporządzoną w Londynie dnia 20 października 1972 r. (Dz. U. z 1977 r. poz. 61 i 62 oraz z 1984 r. poz. 106),
     - **b)** Międzynarodową konwencję o zapobieganiu zanieczyszczaniu morza przez statki, 1973, sporządzoną w Londynie dnia 2 listopada 1973 r. (Dz. U.
-    - **c)** Międzynarodową konwencję o bezpieczeństwie życia na morzu, 1974, sporządzoną w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz.
+    - **c)** Międzynarodową konwencję o bezpieczeństwie życia na morzu, 1974, sporządzoną w Londynie dnia 1 listopada 1974 r. (Dz. U. z 2016 r. poz. 869);
 
-- **869)** ;
 - **2)** normach dotyczących badań – należy przez to rozumieć normy dotyczące metod i wyników badań wyposażenia morskiego określone przez:
     - **a)** Międzynarodową Organizację Morską,
     - **b)** Międzynarodową Organizację Normalizacyjną,

@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-07-01 |
 | Data wydania | 2024-08-01 |
-| Ostatnia zmiana | 2025-12-04 |
+| Ostatnia zmiana | 2026-06-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1157/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie towarów, których przewóz jest objęty systemem monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi

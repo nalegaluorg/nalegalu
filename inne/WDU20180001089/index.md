@@ -1589,9 +1589,7 @@ source: pdf
 - **5)** jest położona:
     - **a)** na obszarach szczególnego zagrożenia powodzią,
     - **b)** na terenach osuwisk oraz terenach zagrożonych ruchami masowymi ziemi,
-    - **c)** w odległości mniejszej niż dziesięciokrotność całkowitej wysokości elektrowni wiatrowej w rozumieniu przepisów ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2024 r. poz.
-
-- **317)** ,
+    - **c)** w odległości mniejszej niż dziesięciokrotność całkowitej wysokości elektrowni wiatrowej w rozumieniu przepisów ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2024 r. poz. 317),
     - **d)** na obszarze parku narodowego, rezerwatu przyrody, parku krajobrazowego, na obszarze chronionego krajobrazu lub na terenie obszaru Natura 2000,
     - **e)** na obszarze rewitalizacji lub w jego sąsiedztwie,
     - **f)** na terenie specjalnej strefy ekonomicznej lub w jej sąsiedztwie,
@@ -1802,9 +1800,7 @@ source: pdf
 
 **Art. 115.**
 
-1. W terminie trzech miesięcy od dnia wydania ostatecznej decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK Pełnomocnik występuje do starosty o wydanie opinii w zakresie wystąpienia skutków, o których mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2023 r. poz.
-
-- **1197)** , w związku z realizowaną inwestycją w zakresie CPK.
+1. W terminie trzech miesięcy od dnia wydania ostatecznej decyzji o ustaleniu lokalizacji inwestycji w zakresie CPK Pełnomocnik występuje do starosty o wydanie opinii w zakresie wystąpienia skutków, o których mowa w art. 4 ust. 1 pkt 2 ustawy z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów (Dz. U. z 2023 r. poz. 1197), w związku z realizowaną inwestycją w zakresie CPK.
 
 2. Starosta stwierdza, w drodze postanowienia, wystąpienie skutków, o których mowa w ust. 3. Na postanowienie służy zażalenie.
 

@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 28 lipca 1983 r. o podatku od spadków i darowizn.*
 
 Łącznie: **37** orzeczeń
-(pominięto 38 orzeczeń sądów rejonowych)
+(pominięto 40 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 

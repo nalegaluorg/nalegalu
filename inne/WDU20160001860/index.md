@@ -178,8 +178,5 @@ source: pdf
 
 **Art. 14–20.** (pominięte)
 
-**Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem art. 7, art. 12 i art. 18 pkt 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia . Załącznik do ustawy z dnia 4 listopada 2016 r. (Dz. U. z 2024 r. poz.
-
-- **1901)** (pominięty)
-
+**Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem art. 7, art. 12 i art. 18 pkt 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia . Załącznik do ustawy z dnia 4 listopada 2016 r. (Dz. U. z 2024 r. poz. 1901) (pominięty)
 

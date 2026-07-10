@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2013-03-08 |
 | Data wydania | 2013-03-28 |
-| Ostatnia zmiana | 2025-12-16 |
+| Ostatnia zmiana | 2026-06-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/403/text.pdf) |
 
 **Art. 1.** Ustawa określa szczególne uprawnienia wierzyciela i obowiązki dłużnika w związku z terminami zapłaty w transakcjach handlowych, skutki niewykonania takich obowiązków oraz postępowanie w sprawie nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych.
@@ -55,8 +55,7 @@ source: pdf
     - **a)** w przypadku transakcji handlowych, w których dłużnikiem jest podmiot publiczny będący podmiotem leczniczym – odsetki w wysokości równej sumie stopy referencyjnej Narodowego Banku Polskiego i ośmiu punktów procentowych,
     - **b)** w przypadku transakcji handlowych, w których dłużnikiem nie jest podmiot publiczny będący podmiotem leczniczym – odsetki w wysokości równej sumie stopy referencyjnej Narodowego Banku Polskiego i dziesięciu punktów procentowych;
 
-- **4)** podmiot leczniczy – podmiot, o którym mowa w art. 4 ust. 1 pkt 2–4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz.
-- **991)** ;
+- **4)** podmiot leczniczy – podmiot, o którym mowa w art. 4 ust. 1 pkt 2–4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991);
 - **5)** mikroprzedsiębiorca, mały przedsiębiorca, średni przedsiębiorca – odpowiednio mikroprzedsiębiorcę, małego przedsiębiorcę i średniego przedsiębiorcę w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i art. 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. );
 - **6)** duży przedsiębiorca – przedsiębiorcę niebędącego mikroprzedsiębiorcą, małym przedsiębiorcą ani średnim przedsiębiorcą;
 - **7)** grupa kapitałowa – grupę kapitałową w rozumieniu art. 4 pkt 14 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2021 r. poz. 275, z 2022 r. poz. 2581 i 2640 oraz z 2023 r. poz. 852).

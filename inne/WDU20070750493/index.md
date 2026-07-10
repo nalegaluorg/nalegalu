@@ -58,8 +58,7 @@ source: pdf
     - **b)** pobór oraz odprowadzanie wód powierzchniowych lub podziemnych,
     - **c)** retencjonowanie śródlądowych wód powierzchniowych;
 
-- **5)** z zakresu ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706 oraz z 2020 r. poz.
-- **322)** :
+- **5)** z zakresu ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2019 r. poz. 706 oraz z 2020 r. poz. 322):
     - **a)** zamknięte użycie mikroorganizmów genetycznie zmodyfikowanych,
     - **b)** zamknięte użycie organizmów genetycznie zmodyfikowanych,
     - **c)** zamierzone uwolnienie organizmów genetycznie zmodyfikowanych do środowiska,

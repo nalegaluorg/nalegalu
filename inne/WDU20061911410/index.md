@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2006-09-08 |
 | Data wydania | 2006-10-20 |
-| Ostatnia zmiana | 2026-02-27 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061911410) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1410/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -77,8 +77,7 @@ source: pdf
 - **12a)** pacjent urazowy dziecięcy – osobę do ukończenia 18. roku życia w stanie nagłego zagrożenia zdrowotnego spowodowanego działaniem czynnika zewnętrznego, którego następstwem są ciężkie, mnogie lub wielonarządowe obrażenia ciała;
 - **13)** obszar działania – obszar działania zespołu ratownictwa medycznego, określony w sposób zapewniający realizację parametrów czasów dotarcia, o których mowa w art. 24, w ramach którego zespół ten będzie dysponowany na miejsce zdarzenia w pierwszej kolejności;
 - **14)** rejon operacyjny – rejon działania dyspozytorni medycznej określony w wojewódzkim planie działania systemu;
-- **14a)** dyspozytornia medyczna – komórkę organizacyjną urzędu wojewódzkiego wskazaną w wojewódzkim planie działania systemu, utworzoną w celu przyjmowania i obsługi zgłoszeń alarmowych przekazywanych z centrów powiadamiania ratunkowego, o których mowa w art. 3 ust. 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2025 r. poz.
-- **1354)** , przyjmowania powiadomień o zdarzeniach oraz wykonywania zadań przez dyspozytorów medycznych;
+- **14a)** dyspozytornia medyczna – komórkę organizacyjną urzędu wojewódzkiego wskazaną w wojewódzkim planie działania systemu, utworzoną w celu przyjmowania i obsługi zgłoszeń alarmowych przekazywanych z centrów powiadamiania ratunkowego, o których mowa w art. 3 ust. 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2025 r. poz. 1354), przyjmowania powiadomień o zdarzeniach oraz wykonywania zadań przez dyspozytorów medycznych;
 - **14b)** segregacja medyczna – proces ustalenia kolejności udzielania świadczeń opieki zdrowotnej w szpitalnych oddziałach ratunkowych oraz w zespołach ratownictwa medycznego, realizowany wobec osób w stanie nagłego zagrożenia zdrowotnego, uwzględniający stan zdrowia tych osób;
 - **15)** System Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego – system, na który składają się:
     - **a)** system teleinformatyczny umożliwiający przyjmowanie zgłoszeń alarmowych z centrów powiadamiania ratunkowego, o których mowa w art. 3 ust. 2 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego, oraz powiadomień o zdarzeniach, dysponowanie zespołów ratownictwa medycznego, rejestrowanie zdarzeń medycznych, prezentację położenia geograficznego miejsca zdarzenia, pozycjonowanie zespołów ratownictwa medycznego oraz wsparcie realizacji zadań przez zespoły ratownictwa medycznego, dyspozytorów medycznych, wojewódzkiego koordynatora ratownictwa medycznego i krajowego koordynatora ratownictwa medycznego oraz

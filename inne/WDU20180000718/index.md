@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-29 |
 | Data wydania | 2018-04-12 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/718/text.pdf) |
 
 w sprawie wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 114 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2017 r. poz. 1920 i 2405 oraz z 2018 r. poz. 138 i 650) zarządza się, co następuje:

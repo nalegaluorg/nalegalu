@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-23 |
 | Data wydania | 2023-09-26 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2002/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki, Pracy i Polityki Społecznej w sprawie zapasów paliw w przedsiębiorstwach energetycznych

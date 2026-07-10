@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2019-01-17 |
 | Data wydania | 2019-02-11 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/255/text.pdf) |
 
 w sprawie nadzoru nad jakością wody w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli Na podstawie art. 48 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r.

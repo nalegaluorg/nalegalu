@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym*
 
 Łącznie: **67** orzeczeń
-(pominięto 158 orzeczeń sądów rejonowych)
+(pominięto 159 orzeczeń sądów rejonowych)
 
 ## art. 1 (22)
 

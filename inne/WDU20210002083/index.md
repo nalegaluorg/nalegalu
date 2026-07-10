@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-14 |
 | Data wydania | 2021-11-18 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-03-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002083) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2083/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie świadectwa dopuszczenia pojazdu ADR

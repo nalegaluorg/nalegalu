@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym*
 
-Łącznie: **467** orzeczeń
-(pominięto 984 orzeczeń sądów rejonowych)
+Łącznie: **468** orzeczeń
+(pominięto 988 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 
@@ -142,7 +142,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2019-03-05 | SO | [III Ca 1973/18](https://www.saos.org.pl/judgments/384265) | Uzasadnienie
 - 2017-09-05 | SO | [III Ca 874/17](https://www.saos.org.pl/judgments/307444) | Uzasadnienie
 
-## art. 4 (206)
+## art. 4 (207)
 
 - 2015-04-16 | SN | [III SK 24/14](https://www.saos.org.pl/judgments/168853) | Wyrok ★
 - 2015-04-09 | SN | [III SK 47/14](https://www.saos.org.pl/judgments/168794) | Wyrok ★
@@ -151,6 +151,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 sierpnia 2007 r. o przeciwdziałaniu 
 - 2014-03-04 | SN | [III SK 34/13](https://www.saos.org.pl/judgments/104619) | Wyrok ★
 - 2016-02-24 | SN | [III SK 18/15](https://www.saos.org.pl/judgments/244731) | Postanowienie
 - 2014-05-15 | SN | [III SK 75/13](https://www.saos.org.pl/judgments/165821) | Postanowienie
+- 2026-01-20 | SO | [I ACa 794/23](https://www.saos.org.pl/judgments/547469) | Wyrok
 - 2025-09-30 | SO | [I ACa 887/23](https://www.saos.org.pl/judgments/536340) | Wyrok
 - 2025-07-09 | SO | [I ACa 1576/22](https://www.saos.org.pl/judgments/542615) | Wyrok
 - 2025-07-08 | SO | [I ACa 1663/22](https://www.saos.org.pl/judgments/543514) | Wyrok

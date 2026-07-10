@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-20 |
 | Data wydania | 2025-05-12 |
-| Ostatnia zmiana | 2026-06-05 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000620) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/620/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -507,8 +507,8 @@ source: pdf
 - **4)** prowadzenie i udostępnianie informacji dotyczących ofert pracy, staży, praktyk studenckich, targów i giełd pracy oraz praktyk zawodowych, z wyłączeniem praktyk zawodowych organizowanych przez szkoły prowadzące kształcenie zawodowe;
 - **5)** prowadzenie przez WUP rejestrów, w tym rejestru agencji zatrudnienia, oraz prowadzenie przez ministra właściwego do spraw pracy rejestru podmiotów akredytowanych oraz publikowanie informacji o tych agencjach i podmiotach oraz o świadczonych przez nie usługach;
 - **6)** prowadzenie sprawozdawczości statystycznej z zakresu rynku pracy i działalności publicznych służb zatrudnienia, w tym w zakresie badań ujętych w programie badań statystycznych statystyki publicznej;
-- **7)** realizację zadań wynikających z przepisów innych ustaw, w tym: o systemie teleinformatycznym do obsługi niektórych umów (Dz. U. z 2024 r. poz. 1661 oraz z 2025 r. poz. 620),
-    - **a)** obsługę umów, o których mowa w art. 1 ustawy z dnia 16 listopada 2022 r.
+- **7)** realizację zadań wynikających z przepisów innych ustaw, w tym: z 2024 r. poz. 1661, z 2025 r. poz. 620 oraz z 2026 r. poz. 734),
+    - **a)** obsługę umów, umów związanych z zatrudnieniem albo porozumień, o których mowa w art. 1 ustawy z dnia 16 listopada 2022 r. o systemie teleinformatycznym eUmowy do obsługi niektórych umów (Dz. U.
     - **b)** ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej,
     - **c)** ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy;
 
@@ -4632,7 +4632,7 @@ source: pdf
 - **2)** przejazdów i szkoleń członków rad rynku pracy, o których mowa w art. 13 ust. 2 i 3, oraz obsługi tych rad;
 - **3)** reprezentowania przez ministra właściwego do spraw pracy publicznych służb zatrudnienia, o którym mowa w art. 25 ust. 1 pkt 1 lit. g;
 - **4)** wprowadzania, rozwijania i eksploatacji systemów teleinformatycznych, o których mowa w art. 25 ust. 1 pkt 7, i technologii cyfrowych w publicznych służbach zatrudnienia i OHP służących realizacji zadań wynikających z ustawy;
-- **5)** budowy, funkcjonowania i rozwijania systemu teleinformatycznego do obsługi umów, o którym mowa w ustawie z dnia 16 listopada 2022 r. o systemie teleinformatycznym do obsługi niektórych umów, w zakresie właściwości ministra właściwego do spraw pracy;
+- **5)** budowy, funkcjonowania i rozwijania systemu teleinformatycznego do obsługi umów, umów związanych z zatrudnieniem albo porozumień, o którym mowa w ustawie z dnia 16 listopada 2022 r. o systemie teleinformatycznym eUmowy do obsługi niektórych umów, w zakresie właściwości ministra właściwego do spraw pracy;
 - **6)** określenia zapotrzebowania na zawody, kwalifikacje i umiejętności na rynku pracy, o którym mowa w art. 32 ust. 1 pkt 3;
 - **7)** usług pocztowych, usług tłumaczenia oraz materiałów biurowych i papierniczych, ponoszonych w ramach wykonywania zadań wynikających z koordynacji systemów zabezpieczenia społecznego, o których mowa w art. 32 ust. 1 pkt 11;
 - **8)** opracowywania i rozpowszechniania informacji zawodowych oraz zakupu materiałów i wyposażenia w celu prowadzenia pośrednictwa pracy lub poradnictwa zawodowego przez publiczne służby zatrudnienia i OHP;

@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1997-04-10 |
 | Data wydania | 1997-06-04 |
-| Ostatnia zmiana | 2026-05-22 |
+| Ostatnia zmiana | 2026-07-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970540348) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/348/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

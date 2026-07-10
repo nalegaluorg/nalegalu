@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 23 czerwca 1973 r. o opłatach w sprawach karnych.*
 
-Łącznie: **8558** orzeczeń w **79** artykułach
-(pominięto 20619 orzeczeń sądów rejonowych)
+Łącznie: **8560** orzeczeń w **79** artykułach
+(pominięto 20642 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -14,11 +14,11 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 |---|---:|---:|---:|---:|---:|---:|---|
 | art. 1 | 837 | 0 | 140 | 697 | 0 | 0 | [art-1.csv](orzecznictwo/art-1.csv) |
 | art. 1 § 11 | 1 | 0 | 0 | 1 | 0 | 0 | [art-1-par-11.csv](orzecznictwo/art-1-par-11.csv) |
-| art. 2 | 3460 | 0 | 1439 | 2021 | 0 | 0 | [art-2.csv](orzecznictwo/art-2.csv) |
+| art. 2 | 3461 | 0 | 1439 | 2022 | 0 | 0 | [art-2.csv](orzecznictwo/art-2.csv) |
 | art. 2 § 1 | 6 | 0 | 5 | 1 | 0 | 0 | [art-2-par-1.csv](orzecznictwo/art-2-par-1.csv) |
 | art. 2 § 2 | 1 | 0 | 0 | 1 | 0 | 0 | [art-2-par-2.csv](orzecznictwo/art-2-par-2.csv) |
 | art. 2 § 14 | 4 | 0 | 2 | 2 | 0 | 0 | [art-2-par-14.csv](orzecznictwo/art-2-par-14.csv) |
-| art. 3 | 2757 | 0 | 835 | 1922 | 0 | 0 | [art-3.csv](orzecznictwo/art-3.csv) |
+| art. 3 | 2758 | 0 | 835 | 1923 | 0 | 0 | [art-3.csv](orzecznictwo/art-3.csv) |
 | art. 3 § 1 | 4 | 0 | 0 | 4 | 0 | 0 | [art-3-par-1.csv](orzecznictwo/art-3-par-1.csv) |
 | art. 5 | 41 | 0 | 8 | 33 | 0 | 0 | [art-5.csv](orzecznictwo/art-5.csv) |
 | art. 6 | 441 | 0 | 144 | 297 | 0 | 0 | [art-6.csv](orzecznictwo/art-6.csv) |
@@ -45,7 +45,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 17 § 17 | 3 | 0 | 0 | 3 | 0 | 0 | [art-17-par-17.csv](orzecznictwo/art-17-par-17.csv) |
 | art. 19 | 1 | 0 | 1 | 0 | 0 | 0 | [art-19.csv](orzecznictwo/art-19.csv) |
 | art. 20 | 3 | 0 | 1 | 2 | 0 | 0 | [art-20.csv](orzecznictwo/art-20.csv) |
-| art. 21 | 443 | 0 | 7 | 436 | 0 | 0 | [art-21.csv](orzecznictwo/art-21.csv) |
+| art. 21 | 444 | 0 | 7 | 437 | 0 | 0 | [art-21.csv](orzecznictwo/art-21.csv) |
 | art. 28 | 1 | 0 | 0 | 1 | 0 | 0 | [art-28.csv](orzecznictwo/art-28.csv) |
 | art. 29 | 4 | 0 | 0 | 4 | 0 | 0 | [art-29.csv](orzecznictwo/art-29.csv) |
 | art. 44 | 1 | 0 | 0 | 1 | 0 | 0 | [art-44.csv](orzecznictwo/art-44.csv) |

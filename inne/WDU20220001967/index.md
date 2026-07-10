@@ -139,22 +139,18 @@ source: pdf
 - **3)** podmiotów innych niż podmioty, o których mowa w pkt 2, które na mocy ustawy, umowy lub innego tytułu prawnego są uprawnione lub zobowiązane do zapewnienia dostaw ciepła do lokali mieszkalnych na potrzeby zużycia przez gospodarstwa domowe albo w lokalach podmiotów, o których mowa w pkt 4, w zakresie, w jakim zużywają ciepło na potrzeby określone w tych przepisach;
 - **4)** o ile złożą oświadczenie, o którym mowa w art. 6 ust. 1 – podmiotów będących:
     - **a)** podmiotem udzielającym świadczeń opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, w jakim zużywa ciepło na potrzeby udzielania tych świadczeń,
-    - **b)** jednostką organizacyjną pomocy społecznej w rozumieniu art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz.
-
-- **1283)** , w zakresie, w jakim zużywa ciepło na potrzeby świadczenia pomocy społecznej,
+    - **b)** jednostką organizacyjną pomocy społecznej w rozumieniu art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283), w zakresie, w jakim zużywa ciepło na potrzeby świadczenia pomocy społecznej,
     - **c)** noclegownią albo ogrzewalnią, o których mowa w art. 48a ust. 3 albo 4 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
     - **d)** jednostką organizacyjną wspierania rodziny i systemu pieczy zastępczej w rozumieniu art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177, 742, 743 i
 
-- **858)** , w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności, o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338, 743 i 858), w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
+- **858)** , w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności, o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338, 743 i 858), w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności, o spółdzielniach socjalnych (Dz. U. z 2023 r. poz. 802), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności, o związkach zawodowych (Dz. U. z 2022 r. poz. 854), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności, 3 pkt 2–4 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 281 i 1229), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
     - **e)** podmiotem systemu oświaty, o którym mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
     - **f)** podmiotem tworzącym system szkolnictwa wyższego i nauki, o którym mowa w art. 7 ust. 1 pkt 1–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
     - **g)** podmiotem prowadzącym żłobek lub klub dziecięcy, a także dziennym opiekunem, o których mowa w art. 2 ust. 1 ustawy z dnia 4 lutego 2011 r.
     - **h)** kościołem lub innym związkiem wyznaniowym, o których mowa w art. 2 pkt 1 ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2023 r. poz. 265), w zakresie, w jakim zużywa ciepło na potrzeby działalności niegospodarczej,
     - **i)** podmiotem prowadzącym działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87), w zakresie, w jakim zużywa ciepło na potrzeby tej działalności,
     - **j)** podmiotem prowadzącym działalność archiwalną, o której mowa w art. 22 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164), w zakresie, w jakim zużywa ciepło na potrzeby tej działalności,
-    - **k)** ochotniczą strażą pożarną w rozumieniu art. 1 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2024 r. poz.
-
-- **233)** , w zakresie, w jakim zużywa ciepło na potrzeby realizacji zadań określonych w tej ustawie, o spółdzielniach socjalnych (Dz. U. z 2023 r. poz. 802), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności, o związkach zawodowych (Dz. U. z 2022 r. poz. 854), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności, 3 pkt 2–4 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 281 i 1229), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
+    - **k)** ochotniczą strażą pożarną w rozumieniu art. 1 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2024 r. poz. 233), w zakresie, w jakim zużywa ciepło na potrzeby realizacji zadań określonych w tej ustawie,
     - **l)** placówką zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, o której mowa w art. 67 i art. 69 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
     - **m)** rodzinnym domem pomocy, o którym mowa w art. 52 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, albo mieszkaniem treningowym lub wspomaganym, o którym mowa w art. 53 tej ustawy, w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
     - **n)** centrum integracji społecznej, o którym mowa w art. 3 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2022 r. poz. 2241), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
@@ -169,8 +165,7 @@ source: pdf
 2. Średniej ceny wytwarzania ciepła z rekompensatą i maksymalnej ceny dostawy ciepła nie stosuje się do odbiorców w zakresie, w jakim korzystają ze wsparcia na cele ogrzewania na podstawie przepisów:
 
 - **1)** ustawy z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu (Dz. U. poz. 202, z późn. zm. );
-- **2)** ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2024 r. poz.
-- **1207)** ;
+- **2)** ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2024 r. poz. 1207);
 - **2a)** ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu (Dz. U. z 2024 r. poz. 303, 834 i 859);
 - **3)** art. 24 lub art. 26.
 
@@ -710,9 +705,8 @@ source: pdf
     - **a)** świadczeń rodzinnych oraz dodatków do zasiłku rodzinnego, o których mowa odpowiednio w art. 2 i art. 8 ustawy z dnia 28 listopada 2003 r.
     - **b)** świadczenia wychowawczego, o którym mowa w art. 4 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U.
     - **c)** dodatku osłonowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2024 r. poz. 953),
-    - **d)** dodatku mieszkaniowego, o którym mowa w art. 2 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz.
+    - **d)** dodatku mieszkaniowego, o którym mowa w art. 2 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz. 1335);
 
-- **1335)** ;
 - **3)** dane zgromadzone w rejestrze PESEL oraz rejestrze mieszkańców, o których mowa odpowiednio w art. 6 ust. 1 i art. 6a ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2024 r. poz. 736 i 854).
 
 22. Jeżeli podczas weryfikacji wniosku o wypłatę dodatku dla gospodarstw domowych wystąpią wątpliwości dotyczące gospodarstwa domowego wnioskodawcy, wójt, burmistrz albo prezydent miasta może przeprowadzić wywiad środowiskowy, który ma na celu ustalenie faktycznego stanu danego gospodarstwa domowego zgodnie z ust. 2 odpowiednio pkt 1 i 2, odnośnie samotnego zamieszkiwania w przypadku jednoosobowych gospodarstw domowych oraz wspólnie stale zamieszkujących i gospodarujących z wnioskodawcą w przypadku gospodarstw domowych wieloosobowych. Przepis art. 25 ust. 2 stosuje się.
@@ -1166,8 +1160,7 @@ source: pdf
 
 3. Do wprowadzania i bieżącej aktualizacji informacji, o których mowa w ust. 1:
 
-- **1)** pkt 1 – obowiązane są pośredniczące podmioty węglowe, o których mowa w art. 2 ust. 1 pkt 23a ustawy zmienianej w art. 45 , oraz gminy w zakresie, o którym mowa w art. 5 ust. 4 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. z 2024 r. poz.
-- **114)** ;
+- **1)** pkt 1 – obowiązane są pośredniczące podmioty węglowe, o których mowa w art. 2 ust. 1 pkt 23a ustawy zmienianej w art. 45 , oraz gminy w zakresie, o którym mowa w art. 5 ust. 4 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. z 2024 r. poz. 114);
 - **2)** pkt 2 – obowiązane są podmioty, o których mowa w art. 3 ust. 2.
 
 4. Korzystanie z systemu teleinformatycznego, o którym mowa w ust. 1, w celu wprowadzania informacji, o których mowa w ust. 1 pkt 1 i 2, wymaga utworzenia w tym systemie konta stanowiącego wydzieloną część tego systemu, zawierającą zbiór danych identyfikujących użytkownika z przyporządkowanymi zasobami tego systemu.

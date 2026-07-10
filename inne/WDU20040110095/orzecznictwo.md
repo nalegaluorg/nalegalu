@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt*
 
-Łącznie: **14** orzeczeń
+Łącznie: **15** orzeczeń
 (pominięto 6 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
@@ -10,8 +10,9 @@ Orzeczenia powołujące: *Ustawa z dnia 18 grudnia 2003 r. o zakładach lecznicz
 - 2016-02-15 | SO | [III AUa 415/15](https://www.saos.org.pl/judgments/222550) | Wyrok
 - 2015-08-20 | SO | [III AUa 430/15](https://www.saos.org.pl/judgments/177877) | Wyrok
 
-## art. 2 (7)
+## art. 2 (8)
 
+- 2026-04-16 | SO | [III AUa 963/25](https://www.saos.org.pl/judgments/547211) | Wyrok
 - 2026-03-31 | SO | [III AUa 726/25](https://www.saos.org.pl/judgments/546031) | Wyrok
 - 2016-08-31 | SO | [III AUa 2206/15](https://www.saos.org.pl/judgments/251937) | Wyrok
 - 2016-02-15 | SO | [III AUa 415/15](https://www.saos.org.pl/judgments/222550) | Wyrok
@@ -33,8 +34,9 @@ Orzeczenia powołujące: *Ustawa z dnia 18 grudnia 2003 r. o zakładach lecznicz
 
 - 2016-02-15 | SO | [III AUa 415/15](https://www.saos.org.pl/judgments/222550) | Wyrok
 
-## art. 16 (2)
+## art. 16 (3)
 
+- 2026-04-16 | SO | [III AUa 963/25](https://www.saos.org.pl/judgments/547211) | Wyrok
 - 2026-03-31 | SO | [III AUa 726/25](https://www.saos.org.pl/judgments/546031) | Wyrok
 - 2016-02-15 | SO | [III AUa 415/15](https://www.saos.org.pl/judgments/222550) | Wyrok
 

@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 10 kwietnia 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o podstawowej opiece zdrowotnej
 
+*USTAWA z dnia 27 października 2017 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2025 poz. 515 |
@@ -22,14 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-04-10 |
 | Data wydania | 2025-04-18 |
-| Ostatnia zmiana | 2025-04-22 |
+| Ostatnia zmiana | 2026-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000515) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/515/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz. 2527), z uwzględnieniem zmian wprowadzonych ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 kwietnia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 41 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U.
-poz. 1897), który stanowi: „ Art. 41. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem: 1) art. 12, art. 15, art. 19 i art. 40, które wchodzą w życie z dniem 30 grudnia 2024 r.; 2) art. 9 pkt 14 i 15 oraz art. 28 ust. 5 i 6, które wchodzą w życie z dniem 16 stycznia 2025 r.; 3) art. 2 pkt 3 i 4 oraz art. 35, które wchodzą w życie z dniem 1 września 2025 r.; 4) art. 9 pkt 7 lit. b–e i pkt 9, które wchodzą w życie z dniem 1 stycznia 2027 r.”. Marszałek Sejmu: wz. P. Zgorzelski
-USTAWA z dnia 27 października 2017 r.
-o podstawowej opiece zdrowotnej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -55,6 +51,12 @@ o podstawowej opiece zdrowotnej
 2. Lekarz POZ w ramach koordynacji, o której mowa w art. 4, inicjuje lub kontynuuje postępowanie diagnostyczno-lecznicze podejmowane w odniesieniu do świadczeniobiorcy przez innego świadczeniodawcę, w rozumieniu ustawy o świadczeniach, zwanego dalej „świadczeniodawcą”, w ramach swoich kompetencji zawodowych, zgodnie z aktualną wiedzą medyczną.
 
 3. Pielęgniarka POZ i położna POZ, o których mowa w ust. 1, w ramach współpracy z lekarzem POZ, rozpoznają warunki i potrzeby zdrowotne u świadczeniobiorcy oraz problemy pielęgnacyjne, planują i sprawują kompleksową opiekę pielęgniarską, a także kontynuują postępowanie terapeutyczne zlecone przez innego świadczeniodawcę, w ramach swoich kompetencji zawodowych, zgodnie z aktualną wiedzą medyczną.
+
+**Art. 5a.**
+
+1. Lekarz POZ w ramach koordynacji opieki zdrowotnej nad świadczeniobiorcą oraz swoich kompetencji zawodowych może, orzekając o stanie zdrowia świadczeniobiorcy oraz ordynując leki, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, zgodnie z aktualną wiedzą medyczną, korzystać z jednostkowych danych medycznych, analiz i raportów udostępnianych mu przez System Informacji Medycznej, o którym mowa w art. 10 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2026 r. poz. 208, 252 i 791).
+
+2. Pielęgniarka POZ i położna POZ w ramach współpracy z lekarzem POZ w zakresie rozpoznawania warunków i potrzeb zdrowotnych u świadczeniobiorcy oraz problemów pielęgnacyjnych, planowania i sprawowania kompleksowej opieki pielęgniarskiej, a także kontynuowania postępowania terapeutycznego zleconego przez innego świadczeniodawcę, mogą również, w ramach swoich kompetencji zawodowych oraz zgodnie z aktualną wiedzą medyczną, korzystać z jednostkowych danych medycznych, analiz i raportów udostępnianych im przez System Informacji Medycznej, o którym mowa w art. 10 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
 
 **Art. 6.**
 
@@ -131,7 +133,9 @@ o podstawowej opiece zdrowotnej
 
 **Art. 9.**
 
-1. Świadczeniobiorca ma prawo wyboru świadczeniodawcy, udzielającego świadczeń z zakresu podstawowej opieki zdrowotnej, spośród świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń z zakresu podstawowej opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ), art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ), art. 115 § 1a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2024 r. poz. 706 i 1907) i art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. z 2024 r. poz. 978 i 1228).
+1. Świadczeniobiorca ma prawo wyboru świadczeniodawcy, udzielającego świadczeń z zakresu podstawowej opieki zdrowotnej, spośród świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń z zakresu podstawowej opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ), art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ), art. 115 § 1a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2024 r. poz. 706 i 1907) i art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. z 2024 r. poz. 978 i
+
+- **1228)** .
 
 2. Świadczeniobiorca, w ramach wyboru, o którym mowa w ust. 1, wybiera lekarza POZ, pielęgniarkę POZ lub położną POZ.
 

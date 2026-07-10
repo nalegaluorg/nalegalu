@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-06-13 |
 | Data wydania | 2025-06-25 |
-| Ostatnia zmiana | 2026-03-20 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000826) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/826/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -973,7 +973,7 @@ source: pdf
     - **a)** udział Skarbu Państwa lub państwowej osoby prawnej przekracza 50 % kapitału zakładowego albo 50 % liczby akcji lub
     - **b)** udział spółki, o której mowa w lit. a, przekracza 50 % kapitału zakładowego albo 50 % liczby akcji;
 
-- **2a)** nieruchomość jest wydzierżawiana spółkom kapitałowym, o których mowa w art. 1 ust. 1 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. U. z 2025 r. poz. 470), w celu budowy, modernizacji lub rozbudowy urządzeń lub instalacji związanych z wytwarzaniem energii elektrycznej, zapewniających bezpieczeństwo i podtrzymujących funkcjonalność mienia ujawnionego w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907);
+- **2a)** nieruchomość jest wydzierżawiana spółkom kapitałowym, o których mowa w art. 1 ust. 1 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. U. z 2025 r. poz. 470), w celu budowy, modernizacji lub rozbudowy urządzeń lub instalacji związanych z wytwarzaniem energii elektrycznej, zapewniających bezpieczeństwo i podtrzymujących funkcjonalność mienia ujawnionego w wykazie, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907);
 - **3)** nieruchomość, której użytkowanie wygasło na podstawie art. 16 ust. 2 z dniem 31 grudnia 1993 r., jest wydzierżawiana spółdzielni produkcji rolnej nadal faktycznie władającej tą nieruchomością;
 - **4)** nieruchomość przeznaczona przez Krajowy Ośrodek pod ogródek przydomowy jest wydzierżawiana osobie korzystającej dotychczas z takiego ogródka bez tytułu prawnego w związku z utratą mocy obowiązującej układu zbiorowego pracy albo zakładowej umowy zbiorowej;
 - **5)** nieruchomość będąca dotychczas w administrowaniu lub jej część jest wydzierżawiana spółce, a łącznie spełnione są następujące warunki:

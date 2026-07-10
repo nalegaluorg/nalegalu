@@ -56,8 +56,7 @@ source: pdf
 - **7)** fundusz inwestycyjny – specjalistyczny fundusz inwestycyjny otwarty, o którym mowa w ustawie o funduszach inwestycyjnych, lub ubezpieczeniowy fundusz kapitałowy;
 - **8)** gromadzenie środków – przyjmowanie wpłat podstawowych, wpłat dodatkowych do PPK, wpłaty powitalnej, dopłat rocznych, wypłat transferowych, wpłat dokonanych w ramach konwersji lub zamiany, lub środków przekazanych przez likwidatora, o których mowa w art. 87 ust. 21, oraz zyski z inwestowania środków zgromadzonych w PPK;
 - **9)** grupa kapitałowa – grupę kapitałową w rozumieniu art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
-- **10)** IKE – indywidualne konto emerytalne w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2026 r. poz.
-- **91)** ;
+- **10)** IKE – indywidualne konto emerytalne w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2026 r. poz. 91);
 - **11)** instytucja finansowa – fundusz inwestycyjny zarządzany przez towarzystwo funduszy inwestycyjnych, które zostało umieszczone w ewidencji PPK w trybie przepisów rozdziału 10, fundusz emerytalny zarządzany przez PTE albo pracownicze towarzystwo emerytalne, które zostały umieszczone w ewidencji PPK w trybie przepisów rozdziału 10, lub zakład ubezpieczeń, który został umieszczony w ewidencji PPK w trybie przepisów rozdziału 10;
 - **12)** konwersja:
     - **a)** jednoczesne odkupienie jednostek uczestnictwa w jednym funduszu inwestycyjnym, będącym funduszem zdefiniowanej daty, o którym mowa w art. 38, i nabycie, za środki pieniężne uzyskane z tego odkupienia, jednostek uczestnictwa w innym funduszu inwestycyjnym będącym funduszem zdefiniowanej daty lub w subfunduszu zdefiniowanej daty wydzielonym w funduszu inwestycyjnym z wydzielonymi subfunduszami, zarządzanym przez to samo towarzystwo funduszy inwestycyjnych albo ten sam zakład ubezpieczeń lub
@@ -290,8 +289,7 @@ source: pdf
 3. Zawieranie przez podmiot zatrudniający umowy o prowadzenie PPK w imieniu i na rzecz osób zatrudnionych w podmiocie zatrudniającym nie stanowi:
 
 - **1)** działalności maklerskiej w rozumieniu art. 69 ustawy o obrocie instrumentami finansowymi;
-- **2)** działalności w zakresie dystrybucji ubezpieczeń w rozumieniu art. 4 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2026 r. poz.
-- **12)** ;
+- **2)** działalności w zakresie dystrybucji ubezpieczeń w rozumieniu art. 4 ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2026 r. poz. 12);
 - **3)** działalności w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych, wykonywanej na podstawie art. 32 ustawy o funduszach inwestycyjnych;
 - **4)** działalności akwizycyjnej w rozumieniu art. 92 ust. 1 ustawy o organizacji i funkcjonowaniu funduszy emerytalnych.
 

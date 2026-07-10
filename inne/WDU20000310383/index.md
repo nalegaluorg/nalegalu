@@ -53,9 +53,7 @@ source: pdf
 
 1. Upoważnia się ministra właściwego do spraw Skarbu Państwa do sprzedaży akcji zgromadzonych przed dniem wejścia w życie niniejszej ustawy, z przeznaczeniem na cele związane z reformą systemu ubezpieczeń społecznych, i do przekazania uzyskanych wpływów na te cele.
 
-2. Akcje spółek, należące przed dniem wejścia w życie niniejszej ustawy do rezerw mienia Skarbu Państwa na podstawie uchwały nr 86 Rady Ministrów z dnia 4 października 1993 r. w sprawie utworzenia rezerw mienia Skarbu Państwa na cele reprywatyzacji (Monitor Polski Nr 52, poz. 482 oraz z 1994 r. Nr 33, poz.
-
-- **269)** , przeznacza się na cele związane z zaspokojeniem roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa.
+2. Akcje spółek, należące przed dniem wejścia w życie niniejszej ustawy do rezerw mienia Skarbu Państwa na podstawie uchwały nr 86 Rady Ministrów z dnia 4 października 1993 r. w sprawie utworzenia rezerw mienia Skarbu Państwa na cele reprywatyzacji (Monitor Polski Nr 52, poz. 482 oraz z 1994 r. Nr 33, poz. 269), przeznacza się na cele związane z zaspokojeniem roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa.
 
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

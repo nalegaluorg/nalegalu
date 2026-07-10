@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2001-08-24 |
 | Data wydania | 2001-10-25 |
-| Ostatnia zmiana | 2026-02-19 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011231353) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1353/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -1122,9 +1122,9 @@ source: pdf
 
 **Art. 42.**
 
-1. W przypadkach, o których mowa w art. 11 pkt 1–6 i 8–15 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze Żandarmerii Wojskowej mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–5, 7–9, 11, pkt 12 lit. a, c i d, pkt 13 i 17–21 tej ustawy, lub wykorzystać te środki.
+1. W przypadkach, o których mowa w art. 11 pkt 1–6 i 8–16 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze Żandarmerii Wojskowej mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–9, 11, pkt 12 lit. a, c oraz d, pkt 13, 14 i 17–23 tej ustawy, lub wykorzystać te środki.
 
-2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i e, pkt 2, 3 i pkt 4 lit. a i b oraz w art. 47 pkt 1–3 i 5–7 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze Żandarmerii Wojskowej mogą użyć broni palnej lub ją wykorzystać.
+2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c oraz e, pkt 2, 3 i pkt 4 lit. a oraz b oraz art. 47 pkt 1–3 i 5–8 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze Żandarmerii Wojskowej mogą użyć broni palnej lub ją wykorzystać.
 
 3. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
@@ -1204,9 +1204,9 @@ source: pdf
 
 1. Żołnierzom wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych przysługują uprawnienia określone w art. 17 ust. 1 pkt 1, 2, 4–6, 8, 11 i 16.
 
-2. W przypadkach, o których mowa w art. 11 pkt 1–6 i 8–15 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–5, 7–9, 11, pkt 12 lit. a, c i d, pkt 13, 17 i 19–21 tej ustawy, lub wykorzystać te środki.
+2. W przypadkach, o których mowa w art. 11 pkt 1–6 i 8–14 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–5, 7–9, 11, pkt 12 lit. a, c oraz d, pkt 13, 17 i 19–23 tej ustawy, lub wykorzystać te środki.
 
-3. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i e, pkt 2, 3, pkt 4 lit. a i b oraz w art. 47 pkt 1–3, 5 i 6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych mogą użyć broni palnej lub ją wykorzystać.
+3. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c oraz e, pkt 2, 3 i pkt 4 lit. a oraz b oraz art. 47 pkt 1–3 i 5–8 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych mogą użyć broni palnej lub ją wykorzystać.
 
 4. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 

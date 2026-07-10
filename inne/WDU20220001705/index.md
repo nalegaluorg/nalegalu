@@ -250,8 +250,7 @@ sytuacji i relacji z rozmówcą.
 4) odczytuje sens tekstów artystycznych i publicystycznych, również tych umieszczonych w internecie, uwzględniając zawarte w nich informacje zarówno jawne, jak i ukryte;
 5) nazywa swoje reakcje czytelnicze (np. wrażenia);
 6) formułuje wnioski wynikające z przesłanek zawartych w tekście;
-7) rozpoznaje wypowiedź o charakterze np.
-informacyjnym, ekspresywnym i impresywnym;
+7) rozpoznaje wypowiedź o charakterze np. informacyjnym, ekspresywnym i impresywnym;
 8) odróżnia opinię od faktu.
 5. Ortografia i interpunkcja. Uczeń:
 1) pisze poprawnie pod względem ortograficznym spełnia wymagania określone dla zakresu podstawowego.

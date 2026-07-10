@@ -33,9 +33,7 @@ source: pdf
 
 - **1)** ewidencjonowanie, gromadzenie, przechowywanie, opracowywanie, zabezpieczenie, udostępnianie i publikowanie dokumentów organów bezpieczeństwa państwa, wytworzonych oraz gromadzonych od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r., a także organów bezpieczeństwa Trzeciej Rzeszy Niemieckiej i Związku Socjalistycznych Republik Radzieckich, dotyczących:
     - **a)** popełnionych na osobach narodowości polskiej lub obywatelach polskich innych narodowości w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.: – zbrodni nazistowskich, – zbrodni komunistycznych, – zbrodni ukraińskich nacjonalistów i członków ukraińskich formacji kolaborujących z Trzecią Rzeszą Niemiecką, – innych przestępstw stanowiących zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne,
-    - **b)** innych represji z motywów politycznych, jakich dopuścili się funkcjonariusze polskich organów ścigania lub wymiaru sprawiedliwości albo osoby działające na ich zlecenie, a ujawnionych w treści orzeczeń zapadłych na podstawie ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. z 2021 r. poz.
-
-- **1693)** ,
+    - **b)** innych represji z motywów politycznych, jakich dopuścili się funkcjonariusze polskich organów ścigania lub wymiaru sprawiedliwości albo osoby działające na ich zlecenie, a ujawnionych w treści orzeczeń zapadłych na podstawie ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego (Dz. U. z 2021 r. poz. 1693),
     - **c)** działalności organów bezpieczeństwa państwa, o których mowa w art. 5;
 
 - **1a)** opracowywanie, publikowanie i udostępnianie inwentarza archiwalnego Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;

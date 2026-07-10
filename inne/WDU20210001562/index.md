@@ -1009,10 +1009,8 @@ d) stosuje strategie komunikacyjne i kompen- 5) wykorzystuje kontekst (tam, gdzi
 3) zabezpiecza siebie, poszkodowanego i miejsce wypadku
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
-6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np.
-krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
-7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np.
-omdlenie, zawał, udar
+6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
+7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji MEC.10.2. Podstawy spawalnictwa Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) określa rodzaje połączeń spajanych 1) omawia i dokonuje podziału połączeń spajanych
 2) rozpoznaje stosowane połączenia na podstawie budowy konstrukcji

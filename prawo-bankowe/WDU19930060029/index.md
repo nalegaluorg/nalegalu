@@ -66,8 +66,7 @@ a) dotychczasowa treść otrzymuje oznaczenie ust. I,
 b) dodaje się ust. 2 w brzmieniu: "2. Bank Gospodarstwa Krajowego jest bankiem państwowym 1 działa na podstawie ustawy - Prawo bankowe, z tym że do zakresu jego działalności należy również wykonywanie czynności:
 1) dotyczących instytucji kredytowych zlikwidowanych lub uznanych za zlikwidowane na podstawie dekretów z dnia 25 października 1948 r.:
 a) o zasadach i trybie likwidacji niektórych przedsiębiorstw bankowych (Dz.U. Nr 52, poz. 410, z 1949 r. Nr 35, poz. 2561 z 1951 r. Nr31, poz. 240),
-b) o zasadach i trybie likwidacji niektórych instytucji kredytu długoterminowego (Dz.U. Nr 52, poz. 411 iz 1951 r. Nr 31, poz.
-241),
+b) o zasadach i trybie likwidacji niektórych instytucji kredytu długoterminowego (Dz.U. Nr 52, poz. 411 iz 1951 r. Nr 31, poz. 241),
 c) o reformie bankowej (Dz.U. z 1951 r. Nr 36, poz. 279 1 z 1957 r. Nr 31, poz. 136),
 2) zleconych przez Ministra Finansów, przy czym warunki wykonania zlecenia bank uzgadnia ze zlecającym.";
 5) po art. 119 dodaje się art. 119! w brzmieniu: "Art. 119'. « Wokresie przejściowym - nie dłużej niż do końca 1993 roku - określone w art. 35 w ust. I wskaźniki koncentracji kredytów nie dotyczą kredytów udzielanych Spółdzielniom Budownictwa Mieszkaniowego przez Powszechną Kasę Oszczędności - bank państwowy.".

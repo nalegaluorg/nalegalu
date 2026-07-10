@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 12 marca 2004 r. o pomocy społecznej*
 
 Łącznie: **186** orzeczeń
-(pominięto 192 orzeczeń sądów rejonowych)
+(pominięto 193 orzeczeń sądów rejonowych)
 
 ## art. 2 (6)
 

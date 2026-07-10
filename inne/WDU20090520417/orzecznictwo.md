@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta*
 
 Łącznie: **511** orzeczeń
-(pominięto 360 orzeczeń sądów rejonowych)
+(pominięto 361 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 

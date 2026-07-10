@@ -294,14 +294,12 @@ source: pdf
 
 5. Przepisów ust. 1–4 nie stosuje się, jeżeli:
 
-- **1)** nabywcą nieruchomości rolnej jest: o Centralnym Porcie Komunikacyjnym, lub spółka, o której mowa w art. 15 ust. 1 tej ustawy, w zakresie zadań powierzonych przez Spółkę Celową zgodnie z art. 15 ust. 2 tej ustawy,
+- **1)** nabywcą nieruchomości rolnej jest: o Centralnym Porcie Komunikacyjnym, lub spółka, o której mowa w art. 15 ust. 1 tej ustawy, w zakresie zadań powierzonych przez Spółkę Celową zgodnie z art. 15 ust. 2 tej ustawy, o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących,
     - **a)** jednostka samorządu terytorialnego,
     - **b)** Skarb Państwa, ba) spółka, o której mowa w art. 2a ust. 3 pkt 1 lit. ca, w przypadku nabycia nieruchomości rolnej na cele związane z budową, modernizacją lub rozbudową systemu dystrybucyjnego gazowego, bb) spółka kapitałowa lub grupa kapitałowa, o których mowa w art. 2a ust. 3 pkt 1 lit. cb, w przypadku nabycia nieruchomości rolnej na cele związane z budową, modernizacją lub rozbudową mienia określonego w art. 1 ust. 2 ustawy z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw aktywów państwowych oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych,
     - **c)** osoba bliska zbywcy,
     - **d)** Spółka Celowa, o której mowa w ustawie z dnia 10 maja 2018 r.
-    - **e)** spółdzielnia produkcji rolnej, w wyniku: – wykonania prawa pierwokupu, o którym mowa w art. 147 § 2 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz.
-
-- **593)** , lub – zbycia wkładu gruntowego przez członka tej spółdzielni, o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących,
+    - **e)** spółdzielnia produkcji rolnej, w wyniku: – wykonania prawa pierwokupu, o którym mowa w art. 147 § 2 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593), lub – zbycia wkładu gruntowego przez członka tej spółdzielni,
     - **f)** członek spółdzielni produkcji rolnej, o którym mowa w art. 2a ust. 3 pkt 1 lit. i,
     - **g)** inwestor, o którym mowa w art. 3a ust. 2 ustawy z dnia 29 czerwca 2011 r.
     - **h)** park narodowy nabywający nieruchomość rolną na cele związane z ochroną przyrody;

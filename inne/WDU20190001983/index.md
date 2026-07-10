@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2019-10-11 |
 | Data wydania | 2019-10-18 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001983) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1983/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu wydawania pozwoleń oraz dokumentów niezbędnych do przywozu, wywozu, wewnątrzwspólnotowego nabycia lub wewnątrzwspólnotowej dostawy środków odurzających, substancji psychotropowych lub prekursorów kategorii 1 Na podstawie art. 37 ust. 12 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852, 1655 i 1818) zarządza się, co następuje:

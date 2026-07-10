@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 29 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rezerwach strategicznych
 
+*USTAWA z dnia 17 grudnia 2020 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2026 poz. 733 |
@@ -22,17 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2026-06-29 |
 | Data wydania | 2026-06-05 |
-| Ostatnia zmiana | 2026-06-08 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000733) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/733/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2024 r. poz. 1598), z uwzględnieniem stanu prawnego na dzień 27 maja 2026 r. oraz zmian wprowadzonych:
-1) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);
-2) ustawą z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „ Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem: 1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia; 3) art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.; 4) art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”;
-2) art. 54 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203), który stanowi: „ Art. 54. Ustawa wchodzi w życie z dniem 5 marca 2026 r., z wyjątkiem: 1) art. 17 pkt 3 lit. d tiret drugie i pkt 51 w zakresie uchylenia art. 110, które wchodzą w życie z dniem 1 stycznia 2027 r.; 2) art. 17 pkt 46 i 51 w zakresie uchylenia art. 113, które wchodzą w życie z dniem 5 marca 2027 r.; 3) art. 14, który wchodzi w życie z dniem 1 września 2027 r.; 4) art. 17 pkt 22–31, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”. Marszałek Sejmu: W. Czarzasty
-USTAWA z dnia 17 grudnia 2020 r.
-o rezerwach strategicznych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -45,6 +38,7 @@ o rezerwach strategicznych
 - **3)** specjalistyczny asortyment techniczny rezerw strategicznych – stanowiące część rezerw strategicznych materiały, maszyny, urządzenia i konstrukcje umożliwiające sprawne odtwarzanie uszkodzonych lub zniszczonych elementów infrastruktury, których wykorzystanie może ograniczyć skutki zaistniałej katastrofy naturalnej lub awarii technicznej;
 - **4)** specjalistyczny asortyment medyczny rezerw strategicznych – stanowiące część rezerw strategicznych maszyny, urządzenia i inne przedmioty wykorzystywane do celów związanych z ochroną zdrowia;
 - **5)** sytuacja kryzysowa – sytuację, o której mowa w art. 3 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
+- **5a)** wirtualne środowisko informatyczne – wydzielona przestrzeń wielosystemowa oparta na ograniczonych zasobach fizycznych;
 - **6)** wymiana rezerw strategicznych – cykliczne zastępowanie określonej ilości danego asortymentu rezerw strategicznych o upływającym terminie ważności, przydatności do spożycia lub używania tym samym asortymentem i w tej samej ilości, posiadającym wymagane cechy lub właściwości;
 - **7)** zamiana rezerw strategicznych – zastępowanie asortymentu rezerw strategicznych innym asortymentem w ramach jednej grupy rodzajowej, równoważnym pod względem ilości, jakości i zastosowania lub właściwości;
 - **8)** ustawa o finansach publicznych – ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680);
@@ -54,17 +48,19 @@ o rezerwach strategicznych
 - **12)** ustawa o zapasach ropy naftowej, produktów naftowych i gazu ziemnego – ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2026 r. poz. 599);
 - **13)** ustawa o zarządzaniu kryzysowym – ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym.
 
-**Art. 3.**
+**Art. 3.** Rezerwy strategiczne tworzy się na wypadek zagrożenia bezpieczeństwa i obronności państwa, bezpieczeństwa, porządku i zdrowia publicznego oraz wystąpienia klęski żywiołowej lub sytuacji kryzysowej, w celach wsparcia wykonywania zadań w zakresie bezpieczeństwa i obronności państwa, ochrony ludności i obrony cywilnej, odtworzenia infrastruktury krytycznej, złagodzenia zakłóceń w ciągłości dostaw służących funkcjonowaniu gospodarki i zaspokojeniu podstawowych potrzeb obywateli, ratowania ich życia i zdrowia, realizacji interesów narodowych Rzeczypospolitej Polskiej w dziedzinie bezpieczeństwa narodowego, wypełnienia jej zobowiązań międzynarodowych, a także udzielania pomocy i wsparcia podmiotom prawa międzynarodowego publicznego.
 
-- **1)** Rezerwy strategiczne tworzy się na wypadek zagrożenia bezpieczeństwa i obronności państwa, bezpieczeństwa, porządku i zdrowia publicznego oraz wystąpienia klęski żywiołowej lub sytuacji kryzysowej, w celach wsparcia wykonywania zadań w zakresie bezpieczeństwa i obronności państwa, ochrony ludności i obrony cywilnej, odtworzenia infrastruktury krytycznej, złagodzenia zakłóceń w ciągłości dostaw służących funkcjonowaniu gospodarki i zaspokojeniu podstawowych potrzeb obywateli, ratowania ich życia i zdrowia, realizacji interesów narodowych Rzeczypospolitej Polskiej w dziedzinie bezpieczeństwa narodowego, wypełnienia jej zobowiązań międzynarodowych, a także udzielania pomocy i wsparcia podmiotom prawa międzynarodowego publicznego.
+**Art. 4.** Rezerwy strategiczne mogą stanowić surowce, materiały, urządzenia, maszyny, konstrukcje, elementy infrastruktury krytycznej, moc produkcyjna, moc usługowa, wirtualne środowisko informatyczne, fizyczne i wirtualne zasoby teleinformatyczne, produkty naftowe, produkty rolne i rolno-spożywcze, środki spożywcze i ich składniki, wyroby medyczne, produkty lecznicze, produkty lecznicze weterynaryjne oraz substancje czynne w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2026 r. poz. 612 i 791), materiały wybuchowe, broń, amunicja oraz ich istotne części, ładunki miotające oraz wyroby i technologie o przeznaczeniu wojskowym lub policyjnym w rozumieniu ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743 oraz z 2026 r. poz. 471 i 646), produkty biobójcze, a także inne produkty – niezbędne do realizacji celów, o których mowa w art. 3.
 
-**Art. 4.** Rezerwy strategiczne mogą stanowić surowce, materiały, urządzenia, maszyny, konstrukcje, elementy infrastruktury krytycznej, moc produkcyjna, moc usługowa, zwierzęta gospodarskie, produkty naftowe, produkty rolne i rolno-spożywcze, środki spożywcze i ich składniki, wyroby medyczne, produkty lecznicze, produkty lecznicze weterynaryjne oraz substancje czynne w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2026 r. poz. 612), materiały wybuchowe, broń, amunicja oraz ich istotne części, ładunki miotające oraz wyroby i technologie o przeznaczeniu wojskowym lub policyjnym w rozumieniu ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743 oraz z 2026 r. poz. 471 i 646), produkty biobójcze, a także inne produkty – niezbędne do realizacji celów, o których mowa w art. 3.
+**Art. 5.**
 
-**Art. 5.** Rezerwy strategiczne stanowią wyodrębniony majątek Skarbu Państwa, z zastrzeżeniem art. 6.
+1. Agencja w imieniu własnym dokonuje zakupu asortymentu, o którym mowa w art. 4, z przeznaczeniem do rezerw strategicznych oraz zawiera umowy, o których mowa w art. 17 i art. 18, w celu utworzenia rezerw strategicznych.
+
+2. Rezerwy strategiczne stanowią wyodrębniony majątek Skarbu Państwa, z zastrzeżeniem art. 6.
 
 **Art. 6.** W przypadkach uzasadnionych rachunkiem ekonomicznym lub szczególnymi względami technologicznymi lub organizacyjnymi dopuszcza się utrzymywanie rezerw strategicznych w postaci asortymentu powierzonego organom administracji publicznej albo stanowiącego własność przedsiębiorców lub podmiotów niebędących przedsiębiorcami, w magazynach będących w ich dyspozycji.
 
-**Art. 7.** Do decyzji wydawanych przez ministra właściwego do spraw wewnętrznych w zakresie rezerw strategicznych oraz organy i podmioty, o których mowa w art. 8 ust. 2, w przypadku, o którym mowa w art. 29, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+**Art. 7.** Do decyzji wydawanych przez ministra właściwego do spraw wewnętrznych w zakresie rezerw strategicznych oraz decyzji, o której mowa w art. 32 ust. 1, a także do decyzji wydawanych przez organy i podmioty, o których mowa w art. 8 ust. 2, w przypadku, o którym mowa w art. 29, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 #### Rozdział 2 Zasady opracowywania Rządowego Programu Rezerw Strategicznych i finansowania rezerw strategicznych
 
@@ -78,7 +74,7 @@ o rezerwach strategicznych
 - **2)** Ministrem Sprawiedliwości;
 - **3)** ministrem właściwym do spraw administracji publicznej;
 - **4)** ministrem właściwym do spraw energii;
-- **5)** ministrem właściwym do spraw gospodarki złożami kopalin;
+- **5)** ministrem właściwym do spraw gospodarki surowcami energetycznymi;
 - **6)** ministrem – Członkiem Rady Ministrów – Koordynatorem Służb Specjalnych, jeżeli został powołany;
 - **7)** ministrem właściwym do spraw gospodarki morskiej;
 - **8)** ministrem właściwym do spraw łączności;
@@ -109,9 +105,9 @@ o rezerwach strategicznych
 
 4. Organy i podmioty, o których mowa w ust. 2, przekazują ministrowi właściwemu do spraw wewnętrznych, w terminie przez niego określonym, w zakresie swojej właściwości:
 
-- **1)** ocenę ryzyka wystąpienia zagrożeń wykonywaną w ramach opracowywania planów zarządzania kryzysowego, z uwzględnieniem sposobów i środków reagowania na te zagrożenia, zgodnie z art. 12 ust. 2 pkt 1 i 2 ustawy o zarządzaniu kryzysowym;
-- **2)** wnioski wynikające z wykonania postanowień Narodowego Programu Ochrony Infrastruktury Krytycznej, o którym mowa w art. 5b ustawy o zarządzaniu kryzysowym, w zakresie sprawowania nadzoru nad systemami infrastruktury krytycznej;
-- **3)** wykazy potrzeb wynikających z oceny ryzyka, dotyczących utworzenia rezerw strategicznych w danym asortymencie i ilości, w podziale na poszczególne lata, wraz ze wskazaniem ich planowanego przeznaczenia, a w przypadku specjalistycznego asortymentu technicznego rezerw strategicznych także miejsca jego przechowywania;
+- **1)** ocenę ryzyka zidentyfikowanych zagrożeń, uwzględniającą sposoby i środki reagowania na te zagrożenia, zawartą w opracowanych planach zarządzania kryzysowego, o których mowa w art. 3 pkt 16 ustawy o zarządzaniu kryzysowym;
+- **2)** wnioski wynikające z wykonania postanowień Strategii Odporności Podmiotów Krytycznych, o której mowa w art. 6f ust. 1 ustawy o zarządzaniu kryzysowym, w zakresie sprawowania nadzoru nad infrastrukturą krytyczną oraz podmiotami krytycznymi zapewniającymi świadczenie usług kluczowych;
+- **3)** wykazy potrzeb wynikających z oceny ryzyka, dotyczących utworzenia rezerw strategicznych w danym asortymencie i w danej ilości, w podziale na poszczególne lata, wraz z uzasadnieniem;
 - **4)** informacje o:
     - **a)** przeglądzie i ocenie skuteczności wykonywania aktualnie realizowanego Programu,
     - **b)** zobowiązaniach międzynarodowych Rzeczypospolitej Polskiej,
@@ -122,8 +118,8 @@ o rezerwach strategicznych
 
 1. Projekt Programu zawiera w szczególności:
 
-- **1)** wnioski dotyczące tworzenia, utrzymywania i likwidacji rezerw strategicznych wynikające z oceny ryzyka wystąpienia zagrożeń dla bezpieczeństwa i obronności państwa, bezpieczeństwa, porządku i zdrowia publicznego, klęski żywiołowej lub sytuacji kryzysowej, o której mowa w Raporcie o zagrożeniach bezpieczeństwa narodowego określonym w art. 5a ustawy o zarządzaniu kryzysowym, oraz wnioski, o których mowa w art. 8 ust. 4 pkt 2;
-- **2)** dane dotyczące asortymentów rezerw strategicznych i ich ilości, jakie należy utworzyć w poszczególnych latach, ze wskazaniem ich planowanego przeznaczenia, a w przypadku specjalistycznego asortymentu technicznego rezerw strategicznych także miejsca jego przechowywania;
+- **1)** wnioski dotyczące tworzenia, utrzymywania i likwidacji rezerw strategicznych, wynikające z oceny ryzyka zidentyfikowanych zagrożeń zawartej w Krajowej Ocenie Ryzyka, o której mowa w art. 6e ust. 1 ustawy o zarządzaniu kryzysowym, oraz wnioski, o których mowa w art. 8 ust. 4 pkt 2;
+- **2)** dane dotyczące asortymentów rezerw strategicznych i ich ilości, jakie należy utworzyć w poszczególnych latach, wraz z uzasadnieniem;
 - **3)** przewidywane koszty tworzenia, utrzymywania i likwidacji rezerw strategicznych w poszczególnych latach;
 - **4)** przewidywane koszty funkcjonowania Agencji, w podziale na poszczególne lata;
 - **5)** ocenę wykonania obowiązującego Programu, w tym zalecenia dotyczące odtworzenia wykorzystanych lub zużytych rezerw strategicznych oraz likwidacji określonych asortymentów rezerw strategicznych.
@@ -138,7 +134,12 @@ o rezerwach strategicznych
 
 1. Rada Ministrów, na wniosek ministra właściwego do spraw wewnętrznych złożony w terminie nie później niż do dnia 30 kwietnia danego roku, w drodze uchwały, przyjmuje Program lub jego aktualizację nie później niż do dnia 31 maja danego roku.
 
-2. Przyjęty przez Radę Ministrów Program minister właściwy do spraw wewnętrznych niezwłocznie przekazuje organom i podmiotom, o których mowa w art. 8 ust. 2.
+2. Minister właściwy do spraw wewnętrznych, po przyjęciu Programu przez Radę Ministrów, niezwłocznie przekazuje:
+
+- **1)** Program – Agencji i organom, o których mowa w art. 8 ust. 2 pkt 1–3;
+- **2)** wyciąg z Programu, zawierający informacje dotyczące asortymentów rezerw strategicznych i ich ilości, z podziałem na poszczególne lata – organom i podmiotom, o których mowa w art. 8 ust. 2 pkt 4–22.
+
+3. Przepisy ust. 2 stosuje się do aktualizacji Programu.
 
 **Art. 11.**
 
@@ -147,8 +148,8 @@ o rezerwach strategicznych
 2. Program jest finansowany z budżetu państwa w formie:
 
 - **1)** dotacji celowej przeznaczonej na finansowanie lub dofinansowanie kosztów:
-    - **a)** zakupu asortymentu w celu utworzenia rezerw strategicznych,
-    - **b)** przechowywania rezerw strategicznych, w tym ich magazynowania, wymiany, zamiany i konserwacji,
+    - **a)** zakupu asortymentu w celu utworzenia rezerw strategicznych oraz odtworzenia udostępnionych rezerw strategicznych,
+    - **b)** utrzymywania i przechowywania rezerw strategicznych, w tym ich zamiany, wymiany i konserwacji,
     - **c)** związanych ze sprzedażą zlikwidowanych rezerw strategicznych albo nieodpłatnym przekazaniem zlikwidowanych i niesprzedanych rezerw strategicznych,
     - **d)** poddania odzyskowi lub unieszkodliwienia zlikwidowanych rezerw strategicznych będących odpadami,
     - **e)** organizowania usług, o których mowa w art. 31 ust. 1 pkt 4,
@@ -160,13 +161,16 @@ o rezerwach strategicznych
 
 **Art. 12.**
 
-1. W budżecie państwa tworzy się rezerwę celową z przeznaczeniem na finansowanie działań ministra właściwego do spraw wewnętrznych w zakresie rezerw strategicznych, w sytuacjach zagrożeń, o których mowa w art. 3, na skutek zdarzeń, których nie można było przewidzieć ani im przeciwdziałać, w szczególności na finansowanie kosztów:
+1. W budżecie państwa tworzy się rezerwę celową z przeznaczeniem na finansowanie działań ministra właściwego do spraw wewnętrznych w sytuacjach zagrożeń, o których mowa w art. 3, na skutek zdarzeń, których nie można było przewidzieć ani im przeciwdziałać, w szczególności na finansowanie kosztów:
 
 - **1)** udostępnienia rezerw strategicznych, w tym wydawania, przetransportowania i dystrybucji udostępnionych rezerw strategicznych do ostatecznych odbiorców;
 - **2)** innych usług niezbędnych do udostępnienia rezerw strategicznych ostatecznym odbiorcom;
 - **3)** przetworzenia i przetrzymania udostępnionych rezerw strategicznych, jeżeli jest to konieczne;
-- **4)** niezbędnych czynności Agencji i organów, na których rzecz rezerwy strategiczne udostępniono, oraz podmiotów, którym je wydano, w zakresie organizacji i realizacji udostępnienia rezerw strategicznych, na zasadach określonych w ustawie;
-- **5)** utworzenia rezerw strategicznych nieobjętych Programem, o których mowa w art. 14.
+- **4)** zakupu danego asortymentu rezerw lub usług w ramach udostępnienia rezerw strategicznych utrzymywanych na podstawie umów, o których mowa w art. 17 i art. 18;
+- **5)** niezbędnych czynności Agencji i organów, na rzecz których rezerwy strategiczne udostępniono, oraz podmiotów, którym je wydano, w zakresie organizacji i realizacji udostępnienia rezerw strategicznych, na zasadach określonych w ustawie;
+- **6)** utworzenia i utrzymywania rezerw strategicznych nieobjętych Programem, o których mowa w art. 14;
+- **7)** odtworzenia udostępnionych rezerw strategicznych objętych Programem;
+- **8)** realizacji zadań, o których mowa w art. 32.
 
 2. Wysokość rezerwy, o której mowa w ust. 1, jest ustalana corocznie w ustawie budżetowej.
 
@@ -176,18 +180,25 @@ o rezerwach strategicznych
 
 1. Minister właściwy do spraw wewnętrznych, w drodze decyzji, tworzy rezerwy strategiczne, zgodnie z ustaleniami Programu, z zastrzeżeniem art. 14.
 
-2. Decyzja o utworzeniu rezerw strategicznych zawiera co najmniej określenie asortymentu i jego ilości oraz przeznaczenia tworzonych rezerw strategicznych.
+2. Decyzja o utworzeniu rezerw strategicznych określa w szczególności:
+
+- **1)** sposób utworzenia rezerw strategicznych przez Agencję;
+- **2)** rodzaj i ilość asortymentu rezerw strategicznych.
 
 3. Decyzję o utworzeniu rezerw strategicznych wykonuje Agencja.
 
-4. Wykonując decyzję o utworzeniu rezerw strategicznych, Agencja dokonuje nabycia określonej ilości asortymentu rezerw strategicznych i przechowuje zakupiony asortyment, zawiera umowy, o których mowa w art. 17 lub w art. 18.
+4. Wykonując decyzję o utworzeniu rezerw strategicznych, Agencja:
 
-5. W przypadkach, w których nie mają zastosowania przepisy o zamówieniach publicznych, Agencja, dokonując zakupu asortymentu rezerw strategicznych lub zawierając umowy, o których mowa w art. 17 i art. 18, stosuje przejrzyste, niedyskryminacyjne i konkurencyjne warunki wyłaniania sprzedawcy tego asortymentu lub podmiotu, z którym zostanie zawarta umowa, o której mowa w art. 17 i art. 18, w szczególności:
+- **1)** dokonuje nabycia określonej ilości asortymentu rezerw strategicznych;
+- **2)** przechowuje zakupiony asortyment rezerw strategicznych;
+- **3)** zawiera umowy, o których mowa w art. 17 lub art. 18;
+- **4)** może przyjąć określony asortyment w formie darowizny z przeznaczeniem do rezerw strategicznych.
 
-- **1)** przesyła zapytania ofertowe do podmiotów wykonujących działalność gospodarczą w zakresie produkcji, handlu, świadczenia usług, magazynowania oraz dysponujących odpowiednią bazą magazynową i gwarantujących odpowiednią jakość poszukiwanego asortymentu rezerw strategicznych, a także zapewniających bezpieczeństwo danych osobowych i ochronę informacji niejawnych, zgodnie z odrębnymi przepisami;
+5. W przypadkach, w których nie mają zastosowania przepisy o zamówieniach publicznych, Agencja, dokonując zakupu asortymentu rezerw strategicznych lub usług związanych z utrzymywaniem rezerw strategicznych, lub zawierając umowy, o których mowa w art. 17 i art. 18, stosuje przejrzyste, niedyskryminacyjne i konkurencyjne warunki wyłaniania sprzedawcy tego asortymentu, tej usługi lub tego podmiotu, z którym zostanie zawarta umowa, o której mowa w art. 17 i art. 18, w szczególności:
+
+- **1)** przesyła zapytania ofertowe do podmiotów wykonujących działalność gospodarczą w zakresie produkcji, handlu, świadczenia określonych usług, w tym przechowywania, oraz dysponujących odpowiednią bazą magazynową i gwarantujących odpowiednią jakość poszukiwanego asortymentu rezerw strategicznych, a także zapewniających ochronę informacji niejawnych, zgodnie z odrębnymi przepisami;
 - **2)** zaprasza do negocjacji podmioty oferujące najkorzystniejsze ekonomicznie warunki sprzedaży, świadczenia usług i przechowywania asortymentu rezerw strategicznych, biorąc pod uwagę relację ceny do jakości;
-- **3)** przeprowadza negocjacje cenowe w zakresie zakupu określonej ilości asortymentu rezerw strategicznych, świadczenia usług, a także kalkuluje według cen rynkowych i uzgadnia wynagrodzenie za przechowywanie asortymentu rezerw strategicznych;
-- **4)** przedstawia projekt umowy oraz ją zawiera.
+- **3)** przeprowadza negocjacje cenowe z uwzględnieniem cen rynkowych w zakresie zakupu określonej ilości asortymentu rezerw strategicznych lub zakupu określonych usług.
 
 6. W przypadku gdy wystąpiło zagrożenie bezpieczeństwa i obronności państwa, bezpieczeństwa, porządku i zdrowia publicznego lub wystąpiła klęska żywiołowa, lub sytuacja kryzysowa, wykonanie decyzji o utworzeniu rezerw strategicznych na ten cel odbywa się z wyłączeniem ust. 5 oraz przepisów o zamówieniach publicznych.
 
@@ -202,9 +213,11 @@ o rezerwach strategicznych
 
 2. Decyzję, o której mowa w ust. 1, minister właściwy do spraw wewnętrznych wydaje z urzędu lub na wniosek organu lub podmiotu, o którym mowa w art. 8 ust. 2, uwzględniając stan rezerw i wnioski innych organów lub podmiotów, o których mowa w art. 8 ust. 2.
 
+3. Do decyzji, o której mowa w ust. 1, przepisy art. 13 ust. 2–6 stosuje się odpowiednio.
+
 **Art. 14a.**
 
-- **5)** 1. Agencja jest uprawniona do prowadzenia wszelkich działań obejmujących przyjęcie w formie darowizny, w tym w ramach Unijnego Mechanizmu Ochrony Ludności, o którym mowa w decyzji Parlamentu Europejskiego i Rady nr 1313/2013/EU z dnia 17 grudnia 2013 r. w sprawie Unijnego Mechanizmu Ochrony Ludności (Dz. Urz. UE L 347 z 20.12.2013, str. 924), albo nabycie oraz transport, przechowywanie i wydanie, produktów leczniczych i wyrobów medycznych, w tym niedopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej, a stosowanych w krajach pochodzenia cudzoziemców.
+1. Agencja jest uprawniona do prowadzenia wszelkich działań obejmujących przyjęcie w formie darowizny, w tym w ramach Unijnego Mechanizmu Ochrony Ludności, o którym mowa w decyzji Parlamentu Europejskiego i Rady nr 1313/2013/EU z dnia 17 grudnia 2013 r. w sprawie Unijnego Mechanizmu Ochrony Ludności (Dz. Urz. UE L 347 z 20.12.2013, str. 924), albo nabycie oraz transport, przechowywanie i wydanie, produktów leczniczych i wyrobów medycznych, w tym niedopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej, a stosowanych w krajach pochodzenia cudzoziemców.
 
 2. Produkty lecznicze i wyroby medyczne nabyte w sposób, o którym mowa w ust. 1, przeznaczone są do podawania cudzoziemcom, w tym w celu zapewnienia ciągłości leczenia rozpoczętego w kraju pochodzenia.
 
@@ -222,10 +235,10 @@ o rezerwach strategicznych
 
 1. Agencja może oddać dany asortyment rezerw strategicznych na przechowanie, za wynagrodzeniem, na podstawie umowy przechowania zawartej z:
 
-- **1)** przedsiębiorcą:
+- **1)** przedsiębiorcą: o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, zapewniającym przechowanie tego asortymentu zgodnie z warunkami określonymi w art. 33 ust. 1–3a tej ustawy oraz przepisami wydanymi na podstawie art. 33 ust. 4 tej ustawy,
     - **a)** wykonującym działalność gospodarczą w zakresie produkcji, handlu lub magazynowania danego asortymentu,
     - **b)** dysponującym odpowiednią bazą magazynową,
-    - **c)** gwarantującym właściwą jakość przechowywanego asortymentu rezerw strategicznych w okresie jego przechowywania, a w przypadku materiałów wybuchowych, broni, amunicji oraz ich istotnych części, ładunków miotających oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym w rozumieniu ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, zapewniającym przechowanie tego asortymentu zgodnie z warunkami określonymi w art. 33 ust. 1–3a tej ustawy oraz przepisami wydanymi na podstawie art. 33 ust. 4 tej ustawy,
+    - **c)** gwarantującym właściwą jakość przechowywanego asortymentu rezerw strategicznych w okresie jego przechowywania, a w przypadku materiałów wybuchowych, broni, amunicji oraz ich istotnych części, ładunków miotających oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym w rozumieniu ustawy z dnia 13 czerwca 2019 r.
     - **d)** posiadającym odpowiednie zezwolenia, koncesje lub licencje na przechowywanie danego asortymentu, wymagane na podstawie odrębnych ustaw;
 
 - **2)** organem administracji publicznej lub podmiotem niebędącym przedsiębiorcą, spełniającymi warunki, o których mowa w pkt 1 lit. b–d.
@@ -253,9 +266,9 @@ o rezerwach strategicznych
 
 2. Do umowy, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 16 ust. 2 pkt 1, 3–5 i 7–10. Umowa określa dodatkowo:
 
-- **1)** wysokość wynagrodzenia za utrzymywanie rezerw z możliwością ich zakupu lub wynajmu na rzecz Skarbu Państwa;
-- **2)** zobowiązanie podmiotu, z którym zawarto umowę, do stałej gotowości sprzedaży lub wynajmu na rzecz Skarbu Państwa asortymentu przechowywanych rezerw;
-- **3)** tryb i warunki, w tym cenę sprzedaży asortymentu będącego przedmiotem umowy na rzecz Skarbu Państwa lub wysokość czynszu najmu tego asortymentu, do którego uiszczenia będzie zobowiązany Skarb Państwa w przypadku wydania, przez upoważniony organ, decyzji o udostępnieniu rezerw strategicznych.
+- **1)** wysokość wynagrodzenia za utrzymywanie rezerw z możliwością ich zakupu lub najmu na rzecz Agencji;
+- **2)** zobowiązanie podmiotu, z którym zawarto umowę, do stałej gotowości do sprzedaży lub najmu na rzecz Agencji asortymentu przechowywanych rezerw;
+- **3)** tryb i warunki, w tym cenę sprzedaży asortymentu będącego przedmiotem umowy na rzecz Agencji lub wysokość czynszu najmu tego asortymentu, do którego uiszczenia będzie zobowiązana Agencja w przypadku wydania, przez upoważniony organ, decyzji o udostępnieniu rezerw strategicznych.
 
 3. Agencja niezwłocznie rozwiązuje umowę, o której mowa w ust. 1, w przypadku:
 
@@ -310,8 +323,10 @@ o rezerwach strategicznych
 - **1)** oznaczenie organu lub podmiotu, na którego rzecz rezerwy strategiczne są udostępnione;
 - **2)** określenie udostępnionego asortymentu rezerw strategicznych i jego ilości;
 - **3)** oznaczenie organu lub podmiotu, któremu udostępnione rezerwy strategiczne będą wydane do użycia;
-- **4)** wskazanie, czy udostępnienie rezerw strategicznych następuje z obowiązkiem zwrotu, lub zobowiązanie do zwrotu niewykorzystanej części udostępnionych rezerw strategicznych;
-- **5)** inne szczególne warunki udostępnienia rezerw strategicznych, w tym dotyczące obowiązku przetransportowania rezerw lub ich przetworzenia lub obowiązku zawarcia umowy dotyczącej udostępnienia z obowiązkiem zwrotu, jeżeli jest to konieczne ze względu na właściwości udostępnionego asortymentu rezerw strategicznych lub jest uzasadnione innymi względami.
+- **4)** wskazanie, czy udostępnienie rezerw strategicznych następuje bez obowiązku zwrotu, z obowiązkiem zwrotu lub z obowiązkiem zwrotu niewykorzystanej części udostępnionych rezerw strategicznych;
+- **5)** wskazanie innych szczególnych warunków udostępnienia rezerw strategicznych, w tym dotyczących obowiązku przetransportowania rezerw strategicznych, ich montażu, zainstalowania lub przetworzenia lub obowiązku pokrycia kosztów przeglądów, konserwacji, napraw i demontażu, jeżeli jest to konieczne ze względu na właściwości udostępnionego asortymentu rezerw strategicznych lub uzasadnione innymi względami;
+- **6)** określenie, czy udostępnione bez obowiązku zwrotu rezerwy strategiczne podlegają odtworzeniu, wraz ze wskazaniem ich ilości oraz źródeł finansowania odtworzenia;
+- **7)** określenie źródła finansowania kosztów udostępnienia.
 
 6. Minister właściwy do spraw wewnętrznych niezwłocznie wydaje decyzję o udostępnieniu rezerw strategicznych. Decyzja ta podlega natychmiastowemu wykonaniu przez Agencję.
 
@@ -321,6 +336,12 @@ o rezerwach strategicznych
 
 - **1)** asortymentu, w odniesieniu do którego została zawarta umowa, o której mowa w art. 17,
 - **2)** asortymentu lub usług objętych umową, o której mowa w art. 18 – Agencja niezwłocznie dokonuje odpowiednio nabycia, wynajmu tego asortymentu lub zawiera umowę o świadczeniu usługi, z uwzględnieniem postanowień właściwych umów, o których mowa w art. 18, a następnie jego udostępnienia.
+
+9. W przypadku wydania decyzji o udostępnieniu rezerw strategicznych bez obowiązku zwrotu własność asortymentu rezerw strategicznych przechodzi na organ lub podmiot, któremu udostępnione rezerwy strategiczne zostały wydane do użycia, z dniem jego wydania.
+
+10. W przypadku wydania decyzji o udostępnieniu rezerw strategicznych z obowiązkiem zwrotu utrzymanie wydanych rezerw strategicznych w należytym stanie, w tym ich montaż, zainstalowanie lub przetworzenie lub dokonywanie wymaganych przeglądów, konserwacji i napraw, obciąża organ lub podmiot, któremu udostępnione rezerwy strategiczne zostały wydane do użycia.
+
+11. Do zakupu usług transportowych oraz innych usług logistycznych związanych z wykonaniem decyzji o udostępnieniu rezerw strategicznych nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2026 r. poz. 793), jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
 
 **Art. 20.**
 
@@ -339,18 +360,18 @@ o rezerwach strategicznych
 - **3)** dystrybuuje udostępnione rezerwy strategiczne do odbiorców ostatecznych;
 - **4)** zapewnia przetrzymanie udostępnionych rezerw strategicznych, jeżeli jest taka potrzeba;
 - **5)** wykorzystuje udostępnione rezerwy strategiczne zgodnie z ich przeznaczeniem;
-- **6)** zwraca Agencji niewykorzystaną część udostępnionych rezerw strategicznych;
+- **6)** zwraca Agencji niewykorzystaną część udostępnionych rezerw strategicznych, jeżeli zostały udostępnione z obowiązkiem zwrotu niewykorzystanej części;
 - **7)** zwraca Agencji udostępnione rezerwy strategiczne, jeżeli zostały udostępnione z obowiązkiem zwrotu.
 
 3. W przypadku udostępnienia rezerw strategicznych z obowiązkiem zwrotu udostępnienie następuje na podstawie umowy zawartej między Agencją a podmiotem, któremu udostępnione rezerwy zostały wydane.
 
 **Art. 21.**
 
-1. Minister właściwy do spraw wewnętrznych może, w drodze decyzji, udostępnić określony specjalistyczny asortyment techniczny rezerw strategicznych, mając na względzie potrzebę wsparcia realizacji celów społecznych lub przedsięwzięć gospodarczych, w szczególności związanych z budową, modernizacją lub remontem infrastruktury. Przepisy art. 19 ust. 2 i 4 oraz ust. 5 pkt 1–3 stosuje się odpowiednio.
+1. Minister właściwy do spraw wewnętrznych może, w drodze decyzji, udostępnić określony specjalistyczny asortyment techniczny rezerw strategicznych, mając na względzie potrzebę przeciwdziałania skutkom klęski żywiołowej lub sytuacji kryzysowej lub ich usuwania lub wsparcia realizacji celów społecznych lub przedsięwzięć gospodarczych, w szczególności związanych z odtworzeniem, budową, modernizacją lub remontem infrastruktury. Przepisy art. 19 ust. 2 i 4 oraz ust. 5 pkt 1– 3 stosuje się odpowiednio.
 
 2. Decyzję, o której mowa w ust. 1, wykonuje Agencja.
 
-3. Udostępnienie specjalistycznego asortymentu technicznego rezerw strategicznych jest dokonywane nieodpłatnie na rzecz państwowych jednostek organizacyjnych, jednostek samorządu terytorialnego lub utworzonych przez nie jednostek organizacyjnych, w przypadku wystąpienia sytuacji mającej znamiona klęski żywiołowej lub sytuacji kryzysowej, w celu zaspokojenia potrzeb społecznych lub gospodarczych.
+3. Udostępnienie specjalistycznego asortymentu technicznego rezerw strategicznych jest dokonywane nieodpłatnie na rzecz państwowych jednostek organizacyjnych, jednostek samorządu terytorialnego lub utworzonych przez nie jednostek organizacyjnych w przypadku wystąpienia klęski żywiołowej lub sytuacji kryzysowej lub w celu zaspokojenia potrzeb społecznych lub gospodarczych, w szczególności związanych z odtworzeniem, budową, modernizacją lub remontem infrastruktury.
 
 4. Specjalistyczny asortyment techniczny rezerw strategicznych jest udostępniany na podstawie umowy zawartej na czas oznaczony między Agencją a jednostką, o której mowa w ust. 3.
 
@@ -358,15 +379,13 @@ o rezerwach strategicznych
 
 **Art. 22.**
 
-1. Agencja może nieodpłatnie udostępnić maszyny lub urządzenia stanowiące część specjalistycznego asortymentu technicznego rezerw strategicznych na rzecz jednostek samorządu terytorialnego, utworzonych przez nie jednostek organizacyjnych, służb, inspekcji lub innych jednostek, mając na względzie konieczność realizacji zadań, o których mowa w art. 3.
+1. Agencja może odpłatnie udostępnić określony specjalistyczny asortyment techniczny rezerw strategicznych na rzecz jednostek samorządu terytorialnego, utworzonych przez nie jednostek organizacyjnych, służb, inspekcji lub innych jednostek, o których mowa w art. 8 ust. 2 pkt 22, oraz na rzecz przedsiębiorców, mając na względzie potrzebę wsparcia w realizacji celów społecznych lub przedsięwzięć gospodarczych.
 
-2. Udostępnienie specjalistycznego asortymentu technicznego rezerw strategicznych, o którym mowa w ust. 1, jest dokonywane na wniosek podmiotów określonych w ust. 1, w celu realizacji przez te podmioty zadań, o których mowa w art. 1 ust. 2 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 2021 r. poz. 679).
+2. Udostępnienie specjalistycznego asortymentu technicznego rezerw strategicznych jest dokonywane na wniosek podmiotów, o których mowa w ust. 1.
 
-3. Agencja może udostępnić odpłatnie specjalistyczny asortyment techniczny rezerw strategicznych, o którym mowa w ust. 1, na rzecz podmiotów określonych w ust. 1 oraz na rzecz przedsiębiorców, mając na względzie potrzebę wsparcia w realizacji celów społecznych lub przedsięwzięć gospodarczych.
+3. Specjalistyczny asortyment techniczny rezerw strategicznych jest udostępniany na podstawie umowy zawartej na czas oznaczony między Agencją a podmiotem, o którym mowa w ust. 1.
 
-4. Specjalistyczny asortyment techniczny rezerw strategicznych, o którym mowa w ust. 1, jest udostępniany na podstawie umowy zawartej na czas oznaczony między Agencją a podmiotem, o którym mowa w ust. 3.
-
-5. Umowa, o której mowa w ust. 4, określa w szczególności warunki udostępnienia specjalistycznego asortymentu technicznego rezerw strategicznych oraz jego zwrotu.
+4. Umowa, o której mowa w ust. 3, określa w szczególności warunki udostępnienia specjalistycznego asortymentu technicznego rezerw strategicznych oraz jego zwrotu.
 
 **Art. 23.**
 
@@ -378,9 +397,24 @@ o rezerwach strategicznych
 
 4. Specjalistyczny asortyment medyczny rezerw strategicznych jest udostępniany na podstawie umowy zawartej na czas oznaczony między Agencją a podmiotem, o którym mowa w ust. 3.
 
-5. Umowa, o której mowa w ust. 4, określa w szczególności warunki udostępnienia asortymentu określonego w ust. 1.
+5. Umowa, o której mowa w ust. 4, określa w szczególności warunki udostępnienia specjalistycznego asortymentu medycznego rezerw strategicznych oraz jego zwrotu.
 
-**Art. 24.** Agencja opracowuje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw wewnętrznych szczegółową procedurę udostępnienia rezerw strategicznych, w tym czasowego, zwrotnego udostępnienia specjalistycznego asortymentu technicznego rezerw strategicznych oraz specjalistycznego asortymentu medycznego rezerw strategicznych.
+**Art. 23a.**
+
+1. Minister właściwy do spraw wewnętrznych może, w drodze decyzji, udostępnić wirtualne środowisko informatyczne oraz fizyczne lub wirtualne zasoby informatyczne, mając na względzie potrzebę wsparcia realizacji celów związanych z cyberbezpieczeństwem państwa oraz konieczność odtworzenia zasobów cyfrowych. Przepisy art. 19 ust. 2 i 4 oraz ust. 5 pkt 1–3 stosuje się odpowiednio.
+
+2. Decyzję, o której mowa w ust. 1, wykonuje Agencja.
+
+3. Udostępnienie wirtualnego środowiska informatycznego oraz fizycznych lub wirtualnych zasobów informatycznych jest dokonywane odpłatnie na rzecz państwowych jednostek organizacyjnych, jednostek samorządu terytorialnego lub utworzonych przez nie jednostek organizacyjnych w przypadku wystąpienia zagrożenia cyberbezpieczeństwa państwa lub konieczności odtworzenia zasobów cyfrowych.
+
+4. Wirtualne środowisko informatyczne oraz fizyczne lub wirtualne zasoby informatyczne są udostępniane na podstawie umowy zawartej na czas oznaczony pomiędzy Agencją a podmiotem, o którym mowa w ust. 3.
+
+5. Umowa, o której mowa w ust. 4, określa w szczególności warunki udostępnienia wirtualnego środowiska informatycznego oraz fizycznych lub wirtualnych zasobów informatycznych oraz ich zwrotu.
+
+**Art. 24.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, procedurę:
+
+- **1)** udostępnienia rezerw strategicznych, w tym czasowego, zwrotnego udostępnienia specjalistycznego asortymentu technicznego rezerw strategicznych, specjalistycznego asortymentu medycznego rezerw strategicznych oraz udostępnienia wirtualnego środowiska informatycznego oraz fizycznych lub wirtualnych zasobów informatycznych,
+- **2)** zwrotu rezerw strategicznych, w tym zwrotu specjalistycznego asortymentu technicznego rezerw strategicznych, specjalistycznego asortymentu medycznego rezerw strategicznych oraz wirtualnego środowiska informatycznego oraz fizycznych lub wirtualnych zasobów informatycznych – mając na względzie konieczność zapewnienia prawidłowej i efektywnej realizacji zadań Agencji.
 
 #### Rozdział 5 Likwidacja rezerw strategicznych
 
@@ -435,7 +469,7 @@ o rezerwach strategicznych
 
 **Art. 27a.**
 
-1. Minister właściwy do spraw wewnętrznych może zlikwidować, w drodze decyzji, określony asortyment rezerw strategicznych, utworzonych na podstawie art. 14 ze względu na konieczność:
+1. Minister właściwy do spraw wewnętrznych może zlikwidować, w drodze decyzji, określony asortyment rezerw strategicznych ze względu na konieczność:
 
 - **1)** złagodzenia zakłóceń w ciągłości dostaw danego asortymentu rezerw strategicznych służących funkcjonowaniu gospodarki lub zaspokojeniu podstawowych potrzeb obywateli;
 - **2)** udzielenia pomocy i wsparcia podmiotom prawa międzynarodowego publicznego lub ochrony bezpieczeństwa i obronności państwa.
@@ -449,7 +483,7 @@ o rezerwach strategicznych
 - **1)** za pierwsze półrocze danego roku – w terminie do dnia 31 sierpnia tego roku;
 - **2)** za drugie półrocze danego roku – w terminie do dnia 28 lutego roku następnego.
 
-**Art. 28.** Agencja opracowuje i przedstawia do zatwierdzenia ministrowi właściwemu do spraw wewnętrznych szczegółową procedurę sprzedaży oraz nieodpłatnego przekazania zlikwidowanych rezerw strategicznych.
+**Art. 28.** (uchylony)
 
 #### Rozdział 5a Rezerwy strategiczne do zabezpieczenia realizacji zadań związanych z Planem zabezpieczenia potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców
 
@@ -528,13 +562,26 @@ o rezerwach strategicznych
 
 1. W przypadku wystąpienia lub wysokiego ryzyka wystąpienia zagrożeń, o których mowa w art. 3, organy i podmioty, o których mowa w art. 8 ust. 2, mogą powierzyć Agencji, w drodze decyzji, dokonanie zakupu, magazynowanie, dystrybucję lub wydawanie określonych asortymentów towarów w ich imieniu i na ich rzecz.
 
-2. W przypadku, o którym mowa w ust. 1, organ lub podmiot powierzający Agencji określone zadanie wskazuje rodzaj i ilość asortymentu, zakres jego magazynowania, w tym czas tego magazynowania, oraz organy lub podmioty, którym dany asortyment zostanie wydany, oraz warunki wydania.
+2. W przypadku, o którym mowa w ust. 1, organ lub podmiot, o którym mowa w art. 8 ust. 2, powierzający Agencji określone zadanie wskazuje rodzaj i ilość asortymentu, zakres jego przechowywania, w tym czas tego przechowywania, oraz organy lub podmioty, którym dany asortyment zostanie wydany, oraz warunki jego wydania, a także określa wysokość środków przeznaczonych na finansowanie tego zadania.
 
 3. Koszty działań Agencji zleconych na podstawie ust. 1 są finansowane ze środków organów oraz podmiotów, o których mowa w ust. 1.
+
+3a. Środki przeznaczone na sfinansowanie zadania oraz na pokrycie kosztów, o których mowa w ust. 3, organ lub podmiot, o którym mowa w art. 8 ust. 2, powierzający Agencji określone zadanie przekazuje Agencji na podstawie zawartego z nią porozumienia.
+
+3b. Środki, o których mowa w ust. 3a, nie stanowią przychodu Agencji, a ich przekazanie nie wymaga dokonywania zmian w planie finansowym Agencji.
 
 4. Wykonanie decyzji, o których mowa w ust. 1, odbywa się z wyłączeniem art. 13 ust. 5 oraz przepisów o zamówieniach publicznych.
 
 5. Na podstawie decyzji, o której mowa w ust. 1, Agencja dokonuje zakupu określonego asortymentu z zachowaniem pierwszeństwa w odniesieniu do innych podmiotów.
+
+**Art. 29a.**
+
+1. Agencja, za zgodą ministra właściwego do spraw wewnętrznych, może wykonywać zadania związane z:
+
+- **1)** przeciwdziałaniem wystąpieniu zagrożenia bezpieczeństwa i obronności państwa, porządku i zdrowia publicznego, klęski żywiołowej lub sytuacji kryzysowej,
+- **2)** udzielaniem pomocy humanitarnej ludności znajdującej się w sytuacji zagrożenia życia lub zdrowia – na podstawie przepisów prawa międzynarodowego publicznego, procedur organizacji międzynarodowych oraz porozumień tworzących wiążące zobowiązanie wobec Agencji.
+
+2. Agencja może wykonywać zadania, o których mowa w ust. 1, po zapewnieniu środków finansowych na ich wykonywanie, w tym na pokrycie wydatków niekwalifikowanych, zgodnie z ustawą o finansach publicznych.
 
 #### Rozdział 7 Zadania i organizacja Agencji
 
@@ -561,25 +608,51 @@ o rezerwach strategicznych
     - **e)** poddanie zlikwidowanych rezerw odzyskowi lub przekazanie ich do unieszkodliwienia, zgodnie z zasadami gospodarowania odpadami określonymi w ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm. ),
     - **f)** zawieranie i wykonywanie umów, o których mowa w art. 16–18;
 
-- **3)** wykonywanie decyzji organów lub podmiotów, o których mowa w art. 8 ust. 2, dotyczących zakupu, magazynowania i wydawania określonych asortymentów towarów zgodnie z zasadami określonymi w rozdziale 6;
+- **3)** wykonywanie decyzji organów lub podmiotów, o których mowa w art. 8 ust. 2, dotyczących zakupu, przechowywania, dystrybucji i wydawania określonych asortymentów towarów zgodnie z zasadami określonymi w rozdziale 6;
 - **4)** organizowanie usług, w tym usług transportowo-logistycznych, na własną rzecz, w celu, o którym mowa w art. 3, oraz na rzecz innych organów lub podmiotów wykonujących działania wspierające zadania w zakresie określonym w art. 3;
 - **5)** zarządzanie nieruchomościami stanowiącymi własność lub pozostającymi w posiadaniu Agencji, a także ich oddawanie do odpłatnego korzystania, w szczególności na podstawie umów najmu i dzierżawy lub świadczenie innych usług związanych z zarządzaniem nieruchomościami;
 - **6)** prowadzenie inwestycji związanych z budową lub modernizacją infrastruktury technicznej służącej do utrzymywania rezerw strategicznych oraz innych inwestycji związanych z wykonywaniem zadań Agencji, w tym w szczególności w zakresie, o którym mowa w pkt 5;
 - **7)** udostępnianie rezerw strategicznych oraz realizacja innych zadań w ramach udzielania pomocy i wsparcia podmiotom prawa międzynarodowego publicznego;
 - **8)** tworzenie i utrzymywanie zapasów agencyjnych ropy naftowej i paliw na zasadach określonych w ustawie o zapasach ropy naftowej i produktów naftowych oraz wykonywanie innych obowiązków wynikających z tej ustawy;
+- **8a)** wykonywanie zadań, o których mowa w art. 29a ust. 1;
 - **9)** przeprowadzanie kontroli, o której mowa w art. 48;
-- **10)** opracowywanie projektu informacji o asortymencie rezerw strategicznych, ich ilości i wartości oraz ich finansowaniu, wykorzystaniu i rozmieszczeniu, w terminach do dnia 30 września każdego roku za I półrocze i do dnia 31 marca każdego roku za rok poprzedni;
-- **11)** przekazywanie Ministrowi Obrony Narodowej, Ministrowi Sprawiedliwości, ministrowi właściwemu do spraw wewnętrznych lub Szefowi Agencji Bezpieczeństwa Wewnętrznego aktualnego wykazu ilości oraz miejsc przechowywania asortymentów rezerw strategicznych zgodnych ze zgłoszonymi przez nich potrzebami, o których mowa w art. 8 ust. 4 pkt 3 – w terminie do dnia 30 sierpnia każdego roku;
+- **10)** opracowywanie informacji o asortymencie rezerw strategicznych, ilości i wartości rezerw strategicznych oraz ich finansowaniu, wykorzystaniu i rozmieszczeniu, w terminach do dnia 15 września każdego roku za I półrocze i do dnia 31 marca każdego roku za rok poprzedni;
+- **11)** przekazywanie Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw transportu, ministrowi właściwemu do spraw wewnętrznych i Szefowi Agencji Bezpieczeństwa Wewnętrznego informacji o ilości i rozmieszczeniu rezerw strategicznych ujętych w Programie, w terminach do dnia 15 września każdego roku za I półrocze i do dnia 31 marca każdego roku za rok poprzedni;
 - **12)** sporządzanie planów, informacji, procedur i sprawozdań oraz innych dokumentów w zakresie określonym w ustawie lub w innych ustawach;
-- **13)** wykonywanie innych zadań określonych w odrębnych ustawach lub w Programie.
+- **13)** wykonywanie innych zadań określonych w odrębnych ustawach lub w Programie;
+- **14)** prowadzenie działalności informacyjnej, promocyjnej i edukacyjnej w zakresie zadań Agencji.
 
-2. Do czynności realizowanych przez Agencję w ramach zadań, o których mowa w ust. 1 pkt 6, nie stosuje się przepisów art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373).
+2. Do czynności realizowanych przez Agencję w ramach zadań, o których mowa w ust. 1 pkt 5, nie stosuje się przepisów art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373).
 
 **Art. 32.**
 
-1. Minister właściwy do spraw wewnętrznych może powierzyć Agencji, w drodze decyzji, realizację innych zadań niż określone w art. 31 w związku z tworzeniem, utrzymywaniem, udostępnianiem i likwidacją rezerw strategicznych.
+1. Minister właściwy do spraw wewnętrznych może powierzyć Agencji, w drodze decyzji, realizację innych zadań niż określone w art. 31 na terytorium Rzeczypospolitej Polskiej lub, w porozumieniu z ministrem właściwym do spraw zagranicznych, poza jej granicami, związanych z:
 
-2. Powierzając zadania, o których mowa w ust. 1, minister właściwy do spraw wewnętrznych zapewnia Agencji na ten cel odpowiednie środki finansowe.
+- **1)** wystąpieniem zagrożenia bezpieczeństwa i obronności państwa, porządku i zdrowia publicznego, klęski żywiołowej lub sytuacji kryzysowej;
+- **2)** wypełnieniem zobowiązania międzynarodowego albo udzieleniem pomocy lub wsparcia:
+    - **a)** podmiotowi prawa międzynarodowego publicznego,
+    - **b)** podmiotowi krajowemu, zagranicznemu lub międzynarodowemu podejmującemu działania w zakresie niesienia pomocy humanitarnej lub usuwania skutków sytuacji kryzysowej.
+
+2. Realizując zadania, o których mowa w ust. 1, Agencja jest uprawniona w szczególności do:
+
+- **1)** nabywania, zbywania, transportowania, przechowywania, wydawania oraz do wywozu poza terytorium Rzeczypospolitej Polskiej i przywozu z terytorium innego państwa określonego asortymentu;
+- **2)** nabywania oraz świadczenia usług, w tym usług o charakterze logistycznym, transportowym i magazynowym, na terytorium Rzeczypospolitej Polskiej lub poza jej granicami;
+- **3)** zlecania wykonania robót budowlanych oraz usług związanych z ich wykonaniem;
+- **4)** przyjmowania i przekazywania darowizn.
+
+3. Powierzając Agencji zadania, o których mowa w ust. 1, minister właściwy do spraw wewnętrznych zapewnia jej na ten cel odpowiednie środki finansowe.
+
+4. Wydając decyzję, o której mowa w ust. 1, minister właściwy do spraw wewnętrznych może nadać jej rygor natychmiastowej wykonalności. Decyzja nie wymaga uzasadnienia.
+
+5. Do udzielania zamówień niezbędnych do realizacji decyzji, o której mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
+
+6. Agencja, w terminie 30 dni od dnia udzielenia zamówienia, o którym mowa w ust. 5, zamieszcza w Biuletynie Zamówień Publicznych informację o udzieleniu tego zamówienia, w której podaje:
+
+- **1)** datę i miejsce zawarcia umowy lub informację o zawarciu umowy drogą elektroniczną;
+- **2)** opis przedmiotu umowy, z wyszczególnieniem odpowiednio ilości asortymentu lub zakresu usług;
+- **3)** cenę albo cenę maksymalną, jeżeli cena nie jest znana w chwili zamieszczenia ogłoszenia;
+- **4)** wskazanie okoliczności faktycznych uzasadniających udzielenie zamówienia bez zastosowania przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych;
+- **5)** nazwę (firmę) podmiotu albo imię i nazwisko osoby, z którymi została zawarta umowa.
 
 **Art. 33.**
 
@@ -674,6 +747,8 @@ o rezerwach strategicznych
 
 4. Termin składania dokumentów, określony w ogłoszeniu o naborze, nie może być krótszy niż 10 dni od dnia zamieszczenia tego ogłoszenia w Biuletynie Informacji Publicznej Agencji.
 
+5. Przepisów ust. 1–4 nie stosuje się do naboru wewnętrznego spośród pracowników Agencji do zatrudnienia na wolne stanowiska pracy w Agencji.
+
 **Art. 37.** Z przeprowadzonego naboru sporządza się protokół, który zawiera w szczególności:
 
 - **1)** wskazanie stanowiska pracy, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i adresy nie więcej niż 3 najlepszych kandydatów;
@@ -692,18 +767,14 @@ o rezerwach strategicznych
 
 **Art. 39.** Jeżeli stosunek pracy osoby wyłonionej w drodze naboru ustał przed upływem 3 miesięcy od dnia jego nawiązania, można zatrudnić na tym samym stanowisku osobę, która została umieszczona na kolejnym miejscu w protokole sporządzonym z przeprowadzonego naboru. Przepisy art. 38 stosuje się odpowiednio.
 
-**Art. 40.**
+**Art. 40.** Pracownicy Agencji zatrudnieni na stanowisku:
 
-1. Pracownicy Agencji zatrudnieni:
+- **1)** głównego księgowego,
+- **2)** zastępcy dyrektora biura lub na stanowisku równorzędnym,
+- **3)** kierownika działu lub na stanowisku równorzędnym,
+- **4)** kierownika składnicy lub na stanowisku równorzędnym – składają Prezesowi Agencji oświadczenia o stanie majątkowym na zasadach, w trybie i w terminach określonych w przepisach ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2025 r. poz. 499 oraz z 2026 r. poz. 160 i 177) oraz podlegają ograniczeniom w prowadzeniu działalności gospodarczej takim jak pracownicy agencji państwowych, o których mowa w art. 2 pkt 10 tej ustawy.
 
-- **1)** na stanowisku zastępcy dyrektora biura lub na stanowisku równorzędnym,
-- **2)** na stanowisku kierownika działu lub na stanowisku równorzędnym,
-- **3)** na stanowisku kierownika składnicy lub na stanowisku równorzędnym – podlegają ograniczeniom w prowadzeniu działalności gospodarczej, takim jak pracownicy agencji państwowych, o których mowa w art. 2 pkt 10 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2025 r. poz. 499 oraz z 2026 r. poz. 160 i 177).
-
-2. Pracownicy Agencji zatrudnieni:
-
-- **1)** w komórce organizacyjnej realizującej zadania z zakresu kontroli na stanowiskach, w zakresie których zawarte są zadania dotyczące wykonywania kontroli oraz jej planowania, koordynacji i realizacji zaleceń pokontrolnych,
-- **2)** w komórce organizacyjnej realizującej zadania z zakresu udzielania zamówień publicznych oraz zawierania wszelkich umów na dostawy, usługi lub roboty budowlane na stanowiskach, w zakresie których zawarte są zadania dotyczące rozeznania rynku, kontaktów z oferentami, ustalania warunków zamówień i rozliczania ich wykonania – składają Prezesowi Agencji oświadczenia o stanie majątkowym na zasadach, w trybie i w terminach określonych w przepisach ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne.
+**Art. 40a.** Agencja wykonuje obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), przez udostępnienie informacji, o których mowa w art. 13 ust. 1 i 2 tego rozporządzenia, na swojej stronie internetowej lub w Biuletynie Informacji Publicznej na stronie podmiotowej Agencji. W takim przypadku Agencja podczas pozyskiwania danych osobowych informuje osobę, której dane dotyczą, o miejscu udostępnienia tych informacji.
 
 #### Rozdział 8 Gospodarka finansowa Agencji
 
@@ -717,18 +788,21 @@ o rezerwach strategicznych
     - **a)** realizację zadań Agencji określonych w ustawie oraz w innych ustawach, w szczególności w ustawie o zapasach ropy naftowej, produktów naftowych i gazu ziemnego, z wyłączeniem zadań realizowanych przez Agencję w zakresie zapasów interwencyjnych,
     - **b)** finansowanie lub dofinansowanie inwestycji związanych z wykonywaniem zadań Agencji, w tym dotyczących budowy lub modernizacji infrastruktury technicznej utrzymywania rezerw strategicznych oraz innych inwestycji związanych z wykonywaniem zadań Agencji;
 
-- **2)** dotacje celowe na realizację zadań, o których mowa w art. 32;
+- **2)** dotacje celowe na realizację zadań, o których mowa w art. 12 ust. 1;
 - **3)** dotacje podmiotowe z budżetu państwa przeznaczone na dofinansowanie bieżącej działalności Agencji, w tym zarządzania realizacją zadań, o których mowa w art. 31, z wyłączeniem zadań w zakresie zapasów interwencyjnych określonych w ustawie o zapasach ropy naftowej, produktów naftowych i gazu ziemnego;
 - **4)** przychody uzyskiwane ze sprzedaży rezerw strategicznych;
 - **5)** przychody uzyskiwane ze świadczonych przez Agencję usług;
 - **6)** darowizny;
 - **7)** przychody z innych tytułów;
 - **8)** dotacje celowe z budżetu państwa udzielone na realizację zadań Agencji na rzecz Sił Zbrojnych związanych z Planem zabezpieczenia potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców, o którym mowa w art. 651 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny;
-- **9)** przychody uzyskiwane z tytułu sprzedaży rezerw strategicznych, o których mowa w art. 28a ust. 1.
+- **9)** przychody uzyskiwane z tytułu sprzedaży rezerw strategicznych, o których mowa w art. 28a ust. 1;
+- **10)** środki pochodzące z budżetu Unii Europejskiej.
 
-3. Przychody, o których mowa w ust. 2 pkt 4–7, przeznacza się na realizację zadań Agencji, o których mowa w art. 31, oraz na bieżącą działalność Agencji, w tym wynagrodzenia jej pracowników.
+3. Przychody, o których mowa w ust. 2 pkt 4–7, przeznacza się na realizację zadań Agencji, o których mowa w art. 31 i art. 32, oraz na bieżącą działalność Agencji, w tym wynagrodzenia jej pracowników.
 
 3a. Przychody Agencji, o których mowa w ust. 2 pkt 9, przeznacza się w całości na odtworzenie rezerw strategicznych, o których mowa w art. 28a ust. 1.
+
+3b. Przychody Agencji, o których mowa w ust. 2 pkt 10, przeznacza się na realizację zadań Agencji, o których mowa w art. 31 ust. 1.
 
 4. Agencja może zaciągać zobowiązania na okres realizacji danego zadania przekraczający rok budżetowy, jeżeli wydatki niezbędne na obsługę zobowiązania zostały określone w rocznym planie finansowym, o którym mowa w art. 42 ust. 1.
 
@@ -746,7 +820,7 @@ o rezerwach strategicznych
 - **2)** dotacje z budżetu państwa;
 - **3)** zestawienie kosztów:
     - **a)** funkcjonowania Agencji, według ich rodzajów,
-    - **b)** realizacji zadań określonych w ustawie oraz w ustawie o zapasach ropy naftowej, produktów naftowych i gazu ziemnego, z wyszczególnieniem: – kosztów realizacji tych zadań przez inne podmioty, – wynagrodzeń i składek od nich naliczanych, – płatności odsetkowych wynikających z zaciągniętych zobowiązań, – zakupu towarów i usług;
+    - **b)** realizacji zadań określonych w ustawie oraz w ustawie o zapasach ropy naftowej, produktów naftowych i gazu ziemnego, z uwzględnieniem: – kosztów realizacji tych zadań przez inne podmioty, – zakupu towarów i usług;
 
 - **4)** wynik finansowy;
 - **5)** środki na wydatki majątkowe;
@@ -756,10 +830,7 @@ o rezerwach strategicznych
 
 2. Agencja, w porozumieniu z ministrem właściwym do spraw wewnętrznych, ustala projekt rocznego planu finansowego Agencji. Minister właściwy do spraw wewnętrznych zatwierdza projekt planu i przekazuje go ministrowi właściwemu do spraw finansów publicznych, w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
 
-3. W ramach projektu planu finansowego Agencji jest sporządzany plan:
-
-- **1)** dochodów i wydatków Agencji ujmowanych w terminie ich zapłaty;
-- **2)** rzeczowy rezerw strategicznych.
+3. Agencja, w terminie 30 dni od dnia ogłoszenia ustawy budżetowej na dany rok, przekazuje ministrowi właściwemu do spraw wewnętrznych plan rzeczowy rezerw strategicznych stanowiący załącznik do planu finansowego Agencji.
 
 4. Agencja sporządza i przekazuje ministrowi właściwemu do spraw wewnętrznych sprawozdania finansowe i związane z nimi informacje, w trybie i na zasadach określonych w ustawie o finansach publicznych.
 
@@ -775,7 +846,7 @@ o rezerwach strategicznych
 
 **Art. 44.**
 
-1. Należności i wierzytelności pieniężne Agencji z tytułu wykonywania zadań, o których mowa w art. 31 ust. 1 pkt 1, 2, 4–8 i 13, mające charakter cywilnoprawny mogą być umarzane w całości albo w części lub ich spłata może być odraczana, lub rozkładana na raty.
+1. Należności i wierzytelności Agencji mające charakter cywilnoprawny, w szczególności z tytułu wykonywania zadań, o których mowa w art. 31 ust. 1 pkt 1, 2, 4–8 i 13, mogą być umarzane w całości albo w części lub ich spłata może być odraczana lub rozkładana na raty.
 
 2. Należności i wierzytelności, o których mowa w ust. 1, mogą być umarzane w całości, jeżeli wystąpi co najmniej jedna z następujących przesłanek:
 
@@ -821,6 +892,7 @@ o rezerwach strategicznych
 1. Do umarzania, odraczania terminów lub rozkładania na raty spłat należności i wierzytelności Agencji, o których mowa w art. 44, są uprawnieni:
 
 - **1)** Prezes Agencji – w odniesieniu do należności i wierzytelności, których wartość należności głównej nie przekracza kwoty 40 000 zł;
+- **1a)** minister właściwy do spraw gospodarki surowcami energetycznymi – w odniesieniu do należności i wierzytelności wynikających z wykonywania zadań, o których mowa w art. 31 ust. 1 pkt 8, których wartość należności głównej przekracza kwotę 40 000 zł;
 - **2)** minister właściwy do spraw wewnętrznych – w pozostałych przypadkach.
 
 2. Umorzenie należności i wierzytelności Agencji oraz odroczenie terminu spłaty całości lub części należności albo rozłożenie płatności całości lub części należności na raty następuje na podstawie umowy zawartej między Agencją a dłużnikiem, z zastrzeżeniem ust. 4.
@@ -833,6 +905,8 @@ o rezerwach strategicznych
 4. W przypadkach, o których mowa w art. 44 ust. 2 pkt 3–5, umorzenie należności i wierzytelności następuje w formie jednostronnego oświadczenia woli.
 
 5. Przepisy ust. 1–4 oraz art. 44 i art. 45 stosuje się odpowiednio do umarzania, odraczania lub rozkładania na raty spłat odsetek od tych należności i wierzytelności oraz do umarzania, odraczania lub rozkładania na raty spłat innych należności ubocznych.
+
+**Art. 46a.** Przepisów art. 44–46 nie stosuje się do zawarcia ugody na podstawie art. 54a ustawy o finansach publicznych.
 
 **Art. 47.** Agencja może dokonywać sprzedaży wymagalnych wierzytelności powstałych w związku z wykonywaniem zadań, o których mowa w art. 31 ust. 1 pkt 1, 2, 4–8 i 13, w przypadku utraty przez dłużników Agencji zdolności do spłaty zadłużenia.
 
@@ -921,7 +995,7 @@ o rezerwach strategicznych
 
 **Art. 69.**
 
-1. Rządowy Program Rezerw Strategicznych określony na lata 2017–2021 i przyjęty na podstawie przepisów ustawy uchylanej w art. 80 staje się Programem w rozumieniu niniejszej ustawy i jest realizowany nie dłużej jednak niż do upłynięcia okresu, na który został przyjęty, i może być aktualizowany na podstawie przepisów niniejszej ustawy.
+1. Rządowy Program Rezerw Strategicznych określony na lata 2017– 2021 i przyjęty na podstawie przepisów ustawy uchylanej w art. 80 staje się Programem w rozumieniu niniejszej ustawy i jest realizowany nie dłużej jednak niż do upłynięcia okresu, na który został przyjęty, i może być aktualizowany na podstawie przepisów niniejszej ustawy.
 
 2. W terminie dwóch miesięcy od dnia wejścia w życie niniejszej ustawy Prezes Rady Ministrów podejmie prace nad kolejnym Programem.
 

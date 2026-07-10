@@ -53,6 +53,5 @@ Terminy udzielenia świadczeń zdrowotnych :
 3) trzeci trymestr ciąży – ......................................................
 ................................................................
 _________________________ Ze zmianami wprowadzonymi przez § 1 rozporządzenia Ministra Zdrowia z dnia 30 października 2019 r.
-zmieniającego rozporządzenie w sprawie formy opieki medycznej nad kobietą w ciąży, uprawniającej do dodatku z tytułu urodzenia dziecka oraz wzoru zaświadczenia potwierdzającego pozostawanie pod tą opieką (Dz. U. poz.
-2229), które weszło w życie z dniem 30 listopada 2019 r.
+zmieniającego rozporządzenie w sprawie formy opieki medycznej nad kobietą w ciąży, uprawniającej do dodatku z tytułu urodzenia dziecka oraz wzoru zaświadczenia potwierdzającego pozostawanie pod tą opieką (Dz. U. poz. 2229), które weszło w życie z dniem 30 listopada 2019 r.
 

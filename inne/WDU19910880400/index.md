@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1991-08-24 |
 | Data wydania | 1991-10-08 |
-| Ostatnia zmiana | 2026-05-27 |
+| Ostatnia zmiana | 2026-06-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910880400) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/400/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -2883,6 +2883,28 @@ source: pdf
 **Art. 106.**
 
 1. Strażak może być skierowany do szkoły, na przeszkolenie lub na studia.
+
+1a. Ze strażakiem, którego zamierza się skierować na koszt Państwowej Straży Pożarnej do szkoły, na przeszkolenie lub studia, zawiera się umowę, jeżeli koszt nauki i utrzymania w dniu skierowania przekracza kwotę trzykrotnej wysokości minimalnego wynagrodzenia za pracę ustalanego w danym roku na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
+
+1b. Strażak jest obowiązany do zwrotu kosztów nauki i utrzymania, które zostały pokryte z budżetu Państwowej Straży Pożarnej, w przypadku zwolnienia go ze służby przed upływem:
+
+- **1)** 3 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę trzykrotnej wysokości minimalnego wynagrodzenia za pracę, albo
+- **2)** 5 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę pięciokrotnej wysokości minimalnego wynagrodzenia za pracę, albo
+- **3)** 10 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę dziesięciokrotnej wysokości minimalnego wynagrodzenia za pracę – chyba że zwolnienie ze służby nastąpiło z przyczyn określonych w art. 43 ust. 2 pkt 1 oraz ust. 3 pkt 4 i 6.
+
+1c. Umowa, o której mowa w ust. 1a, określa wzajemne prawa i obowiązki stron związane ze skierowaniem, w szczególności warunki zwrotu kosztów poniesionych na naukę i utrzymanie strażaka, w przypadku:
+
+- **1)** nieukończenia przez niego szkoły, przeszkolenia lub studiów w wyniku uzyskania negatywnej oceny końcowej albo przerwania nauki z winy strażaka;
+- **2)** zwolnienia ze służby w okresie, o którym mowa w ust. 1b, z przyczyn określonych w art. 43 ust. 2 pkt 2–6 oraz ust. 3 pkt 2, 4a, 5 i 7.
+
+1d. Zwrot poniesionych kosztów następuje w wysokości:
+
+- **1)** kosztów poniesionych przez Państwową Straż Pożarną;
+- **2)** proporcjonalnej do pozostałego, wynikającego z umowy, okresu służby pełnionej po zakończeniu nauki.
+
+1e. Zwrot kosztów, o którym mowa w ust. 1b i 1d, nie obejmuje uposażenia strażaka.
+
+1f. Komendant Główny Państwowej Straży Pożarnej może zwolnić strażaka z obowiązku zwrotu kosztów, o których mowa w ust. 1b i 1d, w całości albo w części na pisemny wniosek strażaka uzasadniony jego szczególną sytuacją życiową, rodzinną lub materialną.
 
 2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, rodzaje placówek, do których może być skierowany strażak, oraz należności pieniężne przysługujące strażakom w przypadkach, o których mowa w ust. 1, a w szczególności:
 

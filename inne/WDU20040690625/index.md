@@ -718,6 +718,5 @@ source: pdf
 
 ## Załączniki do ustawy z dnia 11 marca 2004 r.
 
-(Dz. U. z 2023 r. poz.
-1035) Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony)
+(Dz. U. z 2023 r. poz. 1035) Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony)
 

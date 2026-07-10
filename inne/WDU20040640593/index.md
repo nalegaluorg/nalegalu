@@ -143,8 +143,7 @@ source: pdf
 - **5)** świadczenia przysługującego bezrobotnemu na podstawie przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia z tytułu wykonywania prac społecznie użytecznych;
 - **5a)** świadczenia pieniężnego, o którym mowa w ustawie z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2024 r. poz. 906 oraz z 2026 r. poz. 566), i pomocy pieniężnej, o której mowa w art. 19 ust. 2 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039 oraz z 2026 r. poz. 26), w art. 7a ust. 2 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych (Dz. U. z 2021 r. poz. 1774), w art. 5a ust. 2 ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2021 r. poz. 1818), w art. 10a ust. 2 ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. z 2021 r. poz. 1820 oraz z 2026 r. poz. 26) oraz w art. 10 ust. 2 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych;
 - **6)** dochodu z powierzchni użytków rolnych poniżej 1 ha przeliczeniowego;
-- **7)** świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2026 r. poz.
-- **508)** ;
+- **7)** świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2026 r. poz. 508);
 - **8)** świadczenia pieniężnego, o którym mowa w art. 8a ust. 1 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2026 r. poz. 76);
 - **9)** świadczenia pieniężnego przyznawanego na podstawie art. 9 ustawy z dnia 22 listopada 2018 r. o grobach weteranów walk o wolność i niepodległość Polski (Dz. U. poz. 2529);
 - **10)** nagrody specjalnej Prezesa Rady Ministrów przyznawanej na podstawie art. 31a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160);
@@ -586,9 +585,7 @@ source: pdf
 
 5. Do zlecania zadań, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
-6. Zlecenie realizacji zadań z zakresu pomocy społecznej, o którym mowa w ust. 1, nie wyłącza możliwości zawierania umów o partnerstwie publiczno-prywatnym w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz.
-
-- **426)** , których przedmiotem jest budowa, remont, utrzymanie lub wyposażenie domów pomocy społecznej. Do średniego miesięcznego kosztu utrzymania w domu pomocy społecznej nie wlicza się wynagrodzenia partnera prywatnego za budowę, remont, utrzymanie i wyposażenie domu pomocy społecznej.
+6. Zlecenie realizacji zadań z zakresu pomocy społecznej, o którym mowa w ust. 1, nie wyłącza możliwości zawierania umów o partnerstwie publiczno-prywatnym w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz. 426), których przedmiotem jest budowa, remont, utrzymanie lub wyposażenie domów pomocy społecznej. Do średniego miesięcznego kosztu utrzymania w domu pomocy społecznej nie wlicza się wynagrodzenia partnera prywatnego za budowę, remont, utrzymanie i wyposażenie domu pomocy społecznej.
 
 7. Podmioty uprawnione, którym zlecono realizację zadania z zakresu pomocy społecznej, a w przypadku wykonywania zleconego zadania poprzez jednostki organizacyjne pomocy społecznej – te jednostki, są administratorami danych osobowych przetwarzanych w celu udzielania świadczeń z pomocy społecznej przez te podmioty i jednostki.
 

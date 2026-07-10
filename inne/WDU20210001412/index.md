@@ -688,11 +688,9 @@ Tabela 30 – klasa obiektów OT_RTPW_P Wartość słownikowa Lp. Nazwa atrybutu
 2) ramkę i zakres treści pozaramkowej map;
 3) zasady redakcji nazw i opisów objaśniających na mapach.
 2. W poszczególnych znakach graficznych prezentowanych na mapach za punkt reprezentujący położenie obiektu w terenie należy przyjąć:
-1) środek geometryczny – dla znaków o regularnym kształcie geometrycznym, np.
-dworzec autobusowy, słup energetyczny, studnia głębinowa, zbiornik materiałów sypkich i inne;
+1) środek geometryczny – dla znaków o regularnym kształcie geometrycznym, np. dworzec autobusowy, słup energetyczny, studnia głębinowa, zbiornik materiałów sypkich i inne;
 2) środek podstawy – dla znaków o rozszerzonej podstawie, np. odosobniona mogiła, pomnik, komin przemysłowy, wejście do jaskini i inne;
-3) wierzchołek kąta prostego – dla znaków mających kąt prosty przy podstawie, np.
-drzewo pomnik przyrody, stacja meteorologiczna, turbina wiatrowa i inne;
+3) wierzchołek kąta prostego – dla znaków mających kąt prosty przy podstawie, np. drzewo pomnik przyrody, stacja meteorologiczna, turbina wiatrowa i inne;
 4) środek geometryczny dolnej figury – dla znaków będących kombinacją figur geometrycznych, np. kaplica, transformator, wieża i inne.
 3. Znaki punktowe i elementy deseni obiektów powierzchniowych wnosi się prostopadle do osi Y układu współrzędnych.
 4. Wymiary arkusza mapy topograficznej i ogólnogeograficznej w przyjętym międzynarodowym podziale wynoszą odpowiednio dla skali:

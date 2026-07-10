@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 28 lutego 2003 r. Prawo upadłościowe*
 
-Łącznie: **2082** orzeczeń
+Łącznie: **2083** orzeczeń
 (pominięto 1264 orzeczeń sądów rejonowych)
 
 ## art. 1 (36)
@@ -4641,9 +4641,10 @@ Orzeczenia powołujące: *Ustawa z dnia 28 lutego 2003 r. Prawo upadłościowe*
 - 2014-03-10 | SO | [VI Gz 38/14](https://www.saos.org.pl/judgments/38282) | Postanowienie
 - 2013-07-11 | SO | [VI Gz 186/13](https://www.saos.org.pl/judgments/15824) | Postanowienie
 
-## art. 164 (5)
+## art. 164 (6)
 
 - 2011-05-05 | TK | [P 110/08](https://www.saos.org.pl/judgments/110302) | Wyrok ★
+- 2023-11-09 | SO | [I ACa 1311/23](https://www.saos.org.pl/judgments/547435) | Wyrok
 - 2019-02-14 | SO | [I ACa 884/18](https://www.saos.org.pl/judgments/412945) | Wyrok
 - 2015-04-27 | SO | [IX GC 921/13](https://www.saos.org.pl/judgments/219919) | Wyrok
 - 2018-02-28 | SO | [VI Gz 57/18](https://www.saos.org.pl/judgments/333903) | Postanowienie

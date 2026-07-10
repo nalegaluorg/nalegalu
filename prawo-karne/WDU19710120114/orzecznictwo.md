@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń.*
 
-Łącznie: **1346** orzeczeń
-(pominięto 2082 orzeczeń sądów rejonowych)
+Łącznie: **1347** orzeczeń
+(pominięto 2086 orzeczeń sądów rejonowych)
 
 ## art. 1 (49)
 
@@ -1916,7 +1916,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń.*
 
 - 2011-07-20 | TK | [K 9/11](https://www.saos.org.pl/judgments/206301) | Wyrok ★
 
-## art. 77 (18)
+## art. 77 (19)
 
 - 2014-09-30 | TK | [U 4/13](https://www.saos.org.pl/judgments/206651) | Wyrok ★
 - 2008-11-26 | TK | [U 1/08](https://www.saos.org.pl/judgments/108958) | Wyrok ★
@@ -1936,11 +1936,13 @@ Orzeczenia powołujące: *Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń.*
 - 2018-03-20 | SO | [V Ca 618/17](https://www.saos.org.pl/judgments/335240) | Wyrok
 - 2017-06-30 | SO | [IV Ka 507/17](https://www.saos.org.pl/judgments/293691) | Wyrok
 - 2016-05-18 | SO | [II K 120/15](https://www.saos.org.pl/judgments/229529) | Wyrok
+- 2026-06-17 | SO | [V Ka 252/26](https://www.saos.org.pl/judgments/547622) | Zarządzenie
 
-## art. 77 § 1 (2)
+## art. 77 § 1 (3)
 
 - 2026-03-03 | SO | [VI Ka 1721/25](https://www.saos.org.pl/judgments/544178) | Wyrok
 - 2020-06-30 | SO | [II W 380/19](https://www.saos.org.pl/judgments/424963) | Wyrok
+- 2026-06-17 | SO | [V Ka 252/26](https://www.saos.org.pl/judgments/547622) | Zarządzenie
 
 ## art. 78 (5)
 

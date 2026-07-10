@@ -114,9 +114,7 @@ source: pdf
     - **d)** właściwego zarządcy drogi – w odniesieniu do obszarów pasa drogowego, zgodnie z przepisami ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2023 r. poz. 645, 760, 1193 i 1688),
     - **e)** właściwego zarządcy terenów kolejowych – w odniesieniu do obszarów kolejowych, zgodnie z przepisami ustawy z dnia 28 marca 2003 r.
     - **f)** właściwego miejscowo zarządu województwa oraz wójta (burmistrza, prezydenta miasta),
-    - **g)** ministra właściwego do spraw gospodarki morskiej – w odniesieniu do nieruchomości, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz.
-
-- **1796)** ,
+    - **g)** ministra właściwego do spraw gospodarki morskiej – w odniesieniu do nieruchomości, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796),
     - **h)** dyrektora właściwego urzędu morskiego – w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r. poz. 960, 1688 i 2029),
     - **i)** ministra właściwego do spraw zdrowia – w przypadku, gdy inwestycja dotyczy terenów uzdrowisk lub obszarów ochrony uzdrowiskowej;
 

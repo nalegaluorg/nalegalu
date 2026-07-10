@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego.*
 
 Łącznie: **1711** orzeczeń w **107** artykułach
-(pominięto 3508 orzeczeń sądów rejonowych)
+(pominięto 3516 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).

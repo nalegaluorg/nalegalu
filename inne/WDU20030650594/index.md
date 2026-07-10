@@ -128,8 +128,7 @@ source: pdf
 
 2. W przypadku wykonywania praw w funduszu zagranicznym, spółce zarządzającej, unijnym AFI lub zarządzającym z UE w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi BGK nie stosuje obowiązków wynikających z:
 
-- **1)** przepisów ustawy z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. z 2020 r. poz.
-- **1907)** ;
+- **1)** przepisów ustawy z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. z 2020 r. poz. 1907);
 - **2)** przepisów ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
 
 3. W przypadku utworzenia przez BGK funduszu zagranicznego, spółki zarządzającej, unijnego AFI lub zarządzającego z UE w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi lub uczestnictwa BGK w tych podmiotach, lub zamiaru utworzenia przez BGK takich podmiotów, lub zamiaru uczestnictwa BGK w takich podmiotach nie stosuje się obowiązków wynikających z przepisów działu III ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz. 1714).

@@ -2,15 +2,16 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatniczych*
 
-Łącznie: **180** orzeczeń
+Łącznie: **182** orzeczeń
 (pominięto 231 orzeczeń sądów rejonowych)
 
-## art. 2 (9)
+## art. 2 (10)
 
 - 2020-10-28 | SO | [III AUa 822/19](https://www.saos.org.pl/judgments/424797) | Wyrok
 - 2019-02-15 | SO | [III AUa 700/17](https://www.saos.org.pl/judgments/378598) | Wyrok
 - 2019-01-22 | SO | [V ACa 1507/17](https://www.saos.org.pl/judgments/379690) | Wyrok
 - 2014-05-26 | KIO | [KIO 928/14](https://www.saos.org.pl/judgments/161235) | Wyrok
+- 2025-11-26 | SO | [VI Ca 737/24](https://www.saos.org.pl/judgments/547783) | Wyrok
 - 2024-12-11 | SO | [II Ca 2269/23](https://www.saos.org.pl/judgments/521692) | Wyrok
 - 2021-12-08 | SO | [I C 648/20](https://www.saos.org.pl/judgments/469020) | Wyrok
 - 2018-01-25 | SO | [I C 538/17](https://www.saos.org.pl/judgments/334079) | Wyrok
@@ -185,9 +186,10 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 
 - 2020-03-02 | SO | [I AGa 4/19](https://www.saos.org.pl/judgments/414428) | Wyrok
 
-## art. 32 (1)
+## art. 32 (2)
 
 - 2020-03-02 | SO | [I AGa 4/19](https://www.saos.org.pl/judgments/414428) | Wyrok
+- 2025-11-26 | SO | [VI Ca 737/24](https://www.saos.org.pl/judgments/547783) | Wyrok
 
 ## art. 34 (1)
 
@@ -211,7 +213,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 
 - 2020-06-23 | SO | [VII U 4831/19](https://www.saos.org.pl/judgments/448205) | Wyrok
 
-## art. 40 (21)
+## art. 40 (22)
 
 - 2023-06-30 | SO | [I ACa 785/22](https://www.saos.org.pl/judgments/494583) | Wyrok
 - 2023-04-19 | SO | [I AGa 292/21](https://www.saos.org.pl/judgments/495017) | Wyrok
@@ -230,6 +232,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2021-12-08 | SO | [I C 648/20](https://www.saos.org.pl/judgments/469020) | Wyrok
 - 2017-04-11 | SO | [V Ca 762/16](https://www.saos.org.pl/judgments/282384) | Wyrok
 - 2017-01-02 | SO | [III C 86/16](https://www.saos.org.pl/judgments/292749) | Wyrok
+- 2026-05-04 | SO | [VI C 1081/25](https://www.saos.org.pl/judgments/547427) | Uzasadnienie
 - 2024-02-22 | SO | [III Ca 1133/22](https://www.saos.org.pl/judgments/531306) | Uzasadnienie
 - 2023-06-01 | SO | [VII C 277/22](https://www.saos.org.pl/judgments/511677) | Uzasadnienie
 - 2021-07-27 | SO | [XIII Ga 833/20](https://www.saos.org.pl/judgments/444280) | Uzasadnienie
@@ -244,7 +247,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2021-07-22 | SO | [IV U 423/21](https://www.saos.org.pl/judgments/467050) | Wyrok
 - 2020-11-19 | SO | [IV U 351/20](https://www.saos.org.pl/judgments/466902) | Wyrok
 
-## art. 42 (51)
+## art. 42 (52)
 
 - 2024-03-26 | SO | [I ACa 568/22](https://www.saos.org.pl/judgments/521106) | Wyrok
 - 2023-04-19 | SO | [I AGa 292/21](https://www.saos.org.pl/judgments/495017) | Wyrok
@@ -261,6 +264,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2013-10-01 | SO | [III AUa 2434/12](https://www.saos.org.pl/judgments/24484) | Wyrok
 - 2012-10-23 | SO | [VI ACa 552/12](https://www.saos.org.pl/judgments/6935) | Wyrok
 - 2025-12-19 | SO | [I C 235/24](https://www.saos.org.pl/judgments/545161) | Wyrok
+- 2025-11-26 | SO | [VI Ca 737/24](https://www.saos.org.pl/judgments/547783) | Wyrok
 - 2024-12-12 | SO | [I C 209/23](https://www.saos.org.pl/judgments/545158) | Wyrok
 - 2024-12-11 | SO | [II Ca 2269/23](https://www.saos.org.pl/judgments/521692) | Wyrok
 - 2024-06-26 | SO | [I C 356/23](https://www.saos.org.pl/judgments/529596) | Wyrok
@@ -382,7 +386,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2016-01-27 | SO | [I C 1908/14](https://www.saos.org.pl/judgments/202556) | Uzasadnienie
 - 2016-01-15 | SO | [I C 307/15](https://www.saos.org.pl/judgments/202606) | Uzasadnienie
 
-## art. 46 (57)
+## art. 46 (58)
 
 - 2025-07-09 | SO | [I ACa 2151/22](https://www.saos.org.pl/judgments/537531) | Wyrok
 - 2024-07-25 | SO | [I ACa 1638/23](https://www.saos.org.pl/judgments/541801) | Wyrok
@@ -404,6 +408,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o usługach płatnic
 - 2018-07-19 | SO | [I ACa 348/17](https://www.saos.org.pl/judgments/352864) | Wyrok
 - 2018-05-24 | SO | [VI ACa 217/17](https://www.saos.org.pl/judgments/363986) | Wyrok
 - 2017-03-10 | SO | [I ACa 1174/16](https://www.saos.org.pl/judgments/282093) | Wyrok
+- 2025-11-26 | SO | [VI Ca 737/24](https://www.saos.org.pl/judgments/547783) | Wyrok
 - 2024-12-12 | SO | [I C 209/23](https://www.saos.org.pl/judgments/545158) | Wyrok
 - 2024-12-11 | SO | [II Ca 2269/23](https://www.saos.org.pl/judgments/521692) | Wyrok
 - 2024-09-25 | SO | [I C 313/23](https://www.saos.org.pl/judgments/545178) | Wyrok

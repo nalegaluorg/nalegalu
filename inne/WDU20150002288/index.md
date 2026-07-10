@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-11 |
 | Data wydania | 2015-12-30 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002288) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2288/text.pdf) |
 
 w sprawie Państwowej Komisji do spraw Poświadczania Znajomości Języka Polskiego jako Obcego Na podstawie art. 11m ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2011 r. Nr 43, poz. 224 i Nr 84, poz. 455 oraz z 2015 r. poz. 1132) zarządza się, co następuje:

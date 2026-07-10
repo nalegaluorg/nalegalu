@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-23 |
 | Data wydania | 2023-07-05 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-06-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1276/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie wyłączenia niektórych obowiązków w zakresie zgłoszeń przewozu towarów

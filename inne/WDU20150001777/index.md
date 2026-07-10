@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-09 |
 | Data wydania | 2015-11-03 |
-| Ostatnia zmiana | 2026-01-30 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1777/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -146,9 +146,8 @@ source: pdf
 
 **Art. 9.**
 
-1. Obszar gminy znajdujący się w stanie kryzysowym z powodu koncentracji negatywnych zjawisk społecznych, w szczególności bezrobocia, ubóstwa, przestępczości, wysokiej liczby mieszkańców będących osobami ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2022 r. poz.
+1. Obszar gminy znajdujący się w stanie kryzysowym z powodu koncentracji negatywnych zjawisk społecznych, w szczególności bezrobocia, ubóstwa, przestępczości, wysokiej liczby mieszkańców będących osobami ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2022 r. poz. 2240), niskiego poziomu edukacji lub kapitału społecznego, a także niewystarczającego poziomu uczestnictwa w życiu publicznym i kulturalnym, można wyznaczyć jako obszar zdegradowany w przypadku występowania na nim ponadto co najmniej jednego z następujących negatywnych zjawisk:
 
-- **2240)** , niskiego poziomu edukacji lub kapitału społecznego, a także niewystarczającego poziomu uczestnictwa w życiu publicznym i kulturalnym, można wyznaczyć jako obszar zdegradowany w przypadku występowania na nim ponadto co najmniej jednego z następujących negatywnych zjawisk:
 - **1)** gospodarczych – w szczególności niskiego stopnia przedsiębiorczości, słabej kondycji lokalnych przedsiębiorstw lub
 - **2)** środowiskowych – w szczególności przekroczenia standardów jakości środowiska, obecności odpadów stwarzających zagrożenie dla życia, zdrowia ludzi lub stanu środowiska, lub
 - **3)** przestrzenno-funkcjonalnych – w szczególności niewystarczającego wyposażenia w infrastrukturę techniczną i społeczną lub jej złego stanu technicznego, braku dostępu do podstawowych usług lub ich niskiej jakości, niedostosowania rozwiązań urbanistycznych do zmieniających się funkcji obszaru, niedostosowania infrastruktury do potrzeb osób ze szczególnymi potrzebami, o których mowa w ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, niskiego poziomu obsługi komunikacyjnej, niedoboru lub niskiej jakości terenów publicznych, lub

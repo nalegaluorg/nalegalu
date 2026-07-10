@@ -355,9 +355,7 @@ obejmują dane przestrzenne oparte na pomiarach, modelach lub na kombinacji tych
 
 **Art. 35.** (pominięty)
 
-**Art. 36.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 4 marca 2010 r. (Dz. U. z 2025 r. poz.
-
-- **242)** TEMATY DANYCH PRZESTRZENNYCH
+**Art. 36.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 4 marca 2010 r. (Dz. U. z 2025 r. poz. 242) TEMATY DANYCH PRZESTRZENNYCH
 
 #### Rozdział 1 Pierwsza grupa tematyczna Do pierwszej grupy tematycznej należą następujące tematy:
 

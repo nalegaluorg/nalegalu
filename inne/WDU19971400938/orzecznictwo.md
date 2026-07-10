@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim.*
 
-Łącznie: **640** orzeczeń
+Łącznie: **659** orzeczeń
 (pominięto 52 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
@@ -73,12 +73,13 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 
 - 2000-06-28 | TK | [K 25/99](https://www.saos.org.pl/judgments/206021) | Wyrok ★
 
-## art. 24 (546)
+## art. 24 (558)
 
 - 2026-02-27 | SO | [I ACa 1317/24](https://www.saos.org.pl/judgments/547007) | Wyrok
 - 2026-02-27 | SO | [I ACa 3975/23](https://www.saos.org.pl/judgments/546886) | Wyrok
 - 2026-02-26 | SO | [I ACa 1306/24](https://www.saos.org.pl/judgments/545908) | Wyrok
 - 2026-02-23 | SO | [I ACa 1170/24](https://www.saos.org.pl/judgments/546550) | Wyrok
+- 2026-02-09 | SO | [I ACa 805/23](https://www.saos.org.pl/judgments/547470) | Wyrok
 - 2026-02-03 | SO | [I ACa 397/24](https://www.saos.org.pl/judgments/545351) | Wyrok
 - 2026-01-16 | SO | [I ACa 2244/25](https://www.saos.org.pl/judgments/544995) | Wyrok
 - 2026-01-13 | SO | [I ACa 2287/25](https://www.saos.org.pl/judgments/542512) | Wyrok
@@ -101,8 +102,10 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2025-09-30 | SO | [I ACa 887/23](https://www.saos.org.pl/judgments/536340) | Wyrok
 - 2025-09-24 | SO | [I ACa 3325/24](https://www.saos.org.pl/judgments/543527) | Wyrok
 - 2025-09-23 | SO | [I ACa 172/23](https://www.saos.org.pl/judgments/543515) | Wyrok
+- 2025-09-19 | SO | [I ACa 9/24](https://www.saos.org.pl/judgments/547354) | Wyrok
 - 2025-09-19 | SO | [I ACa 35/23](https://www.saos.org.pl/judgments/544342) | Wyrok
 - 2025-09-17 | SO | [I ACa 915/23](https://www.saos.org.pl/judgments/536607) | Wyrok
+- 2025-09-11 | SO | [I ACa 2002/24](https://www.saos.org.pl/judgments/547347) | Wyrok
 - 2025-08-21 | SO | [I ACa 2120/22](https://www.saos.org.pl/judgments/537068) | Wyrok
 - 2025-08-08 | SO | [I ACa 2112/23](https://www.saos.org.pl/judgments/533089) | Wyrok
 - 2025-07-23 | SO | [I ACa 1746/22](https://www.saos.org.pl/judgments/537056) | Wyrok
@@ -131,6 +134,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2025-04-11 | SO | [I ACa 2325/23](https://www.saos.org.pl/judgments/546616) | Wyrok
 - 2025-04-11 | SO | [I ACa 368/22](https://www.saos.org.pl/judgments/541175) | Wyrok
 - 2025-04-08 | SO | [I ACa 1478/22](https://www.saos.org.pl/judgments/539516) | Wyrok
+- 2025-03-28 | SO | [I ACa 2181/22](https://www.saos.org.pl/judgments/547710) | Wyrok
 - 2025-03-28 | SO | [I ACa 829/23](https://www.saos.org.pl/judgments/546008) | Wyrok
 - 2025-03-28 | SO | [I ACa 3220/23](https://www.saos.org.pl/judgments/525563) | Wyrok
 - 2025-03-27 | SO | [I ACa 4026/24](https://www.saos.org.pl/judgments/539015) | Wyrok
@@ -149,9 +153,12 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2024-12-19 | SO | [I ACa 1626/22](https://www.saos.org.pl/judgments/533846) | Wyrok
 - 2024-12-19 | SO | [V ACa 174/23](https://www.saos.org.pl/judgments/520759) | Wyrok
 - 2024-12-17 | SO | [I ACa 3328/24](https://www.saos.org.pl/judgments/533648) | Wyrok
+- 2024-12-13 | SO | [I ACa 1618/23](https://www.saos.org.pl/judgments/547129) | Wyrok
+- 2024-12-12 | SO | [I ACa 3001/22](https://www.saos.org.pl/judgments/547463) | Wyrok
 - 2024-12-12 | SO | [V ACa 960/23](https://www.saos.org.pl/judgments/532610) | Wyrok
 - 2024-12-10 | SO | [I ACa 48/24](https://www.saos.org.pl/judgments/546803) | Wyrok
 - 2024-12-10 | SO | [I ACa 1509/22](https://www.saos.org.pl/judgments/534419) | Wyrok
+- 2024-12-09 | SO | [I ACa 3772/23](https://www.saos.org.pl/judgments/547167) | Wyrok
 - 2024-12-09 | SO | [I ACa 586/24](https://www.saos.org.pl/judgments/546806) | Wyrok
 - 2024-12-04 | SO | [I ACa 1647/23](https://www.saos.org.pl/judgments/546785) | Wyrok
 - 2024-11-29 | SO | [I ACa 1255/22](https://www.saos.org.pl/judgments/533522) | Wyrok
@@ -178,6 +185,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2024-09-19 | SO | [I ACa 2958/23](https://www.saos.org.pl/judgments/532704) | Wyrok
 - 2024-09-16 | SO | [I ACa 3040/23](https://www.saos.org.pl/judgments/529107) | Wyrok
 - 2024-09-10 | SO | [I ACa 821/23](https://www.saos.org.pl/judgments/544199) | Wyrok
+- 2024-09-09 | SO | [V ACa 873/23](https://www.saos.org.pl/judgments/547621) | Wyrok
 - 2024-09-06 | SO | [I ACa 150/23](https://www.saos.org.pl/judgments/544187) | Wyrok
 - 2024-09-04 | SO | [I ACa 2736/23](https://www.saos.org.pl/judgments/528767) | Wyrok
 - 2024-09-04 | SO | [I ACa 1091/22](https://www.saos.org.pl/judgments/527799) | Wyrok
@@ -248,9 +256,11 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2024-01-08 | SO | [I ACa 2783/23](https://www.saos.org.pl/judgments/543523) | Wyrok
 - 2024-01-08 | SO | [I ACa 156/22](https://www.saos.org.pl/judgments/517859) | Wyrok
 - 2023-12-28 | SO | [I ACa 594/22](https://www.saos.org.pl/judgments/494365) | Wyrok
+- 2023-12-21 | SO | [I ACa 2784/23](https://www.saos.org.pl/judgments/547712) | Wyrok
 - 2023-12-21 | SO | [V ACa 1184/23](https://www.saos.org.pl/judgments/516871) | Wyrok
 - 2023-12-20 | SO | [I ACa 333/22](https://www.saos.org.pl/judgments/494074) | Wyrok
 - 2023-12-19 | SO | [I ACa 860/22](https://www.saos.org.pl/judgments/494663) | Wyrok
+- 2023-12-14 | SO | [I ACa 1676/22](https://www.saos.org.pl/judgments/547541) | Wyrok
 - 2023-12-13 | SO | [I ACa 1137/23](https://www.saos.org.pl/judgments/493379) | Wyrok
 - 2023-12-12 | SO | [I ACa 1469/21](https://www.saos.org.pl/judgments/517715) | Wyrok
 - 2023-12-07 | SO | [I ACa 2123/22](https://www.saos.org.pl/judgments/531177) | Wyrok
@@ -276,6 +286,8 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2023-10-30 | SO | [I ACa 1949/22](https://www.saos.org.pl/judgments/532971) | Wyrok
 - 2023-10-30 | SO | [I ACa 1876/22](https://www.saos.org.pl/judgments/493832) | Wyrok
 - 2023-10-30 | SO | [I ACa 1856/22](https://www.saos.org.pl/judgments/493823) | Wyrok
+- 2023-10-25 | SO | [I ACa 1913/22](https://www.saos.org.pl/judgments/547455) | Wyrok
+- 2023-10-24 | SO | [I ACa 1687/22](https://www.saos.org.pl/judgments/547448) | Wyrok
 - 2023-10-20 | SO | [I ACa 1785/22](https://www.saos.org.pl/judgments/524927) | Wyrok
 - 2023-10-19 | SO | [I ACa 952/22](https://www.saos.org.pl/judgments/494780) | Wyrok
 - 2023-10-19 | SO | [I ACa 1378/22](https://www.saos.org.pl/judgments/493579) | Wyrok
@@ -622,8 +634,9 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2022-05-12 | SO | [III Ca 655/21](https://www.saos.org.pl/judgments/473880) | Uzasadnienie
 - 2022-05-09 | SO | [III Ca 2559/21](https://www.saos.org.pl/judgments/473856) | Uzasadnienie
 
-## art. 24 § 3 (1)
+## art. 24 § 3 (2)
 
+- 2025-03-28 | SO | [I ACa 2181/22](https://www.saos.org.pl/judgments/547710) | Wyrok
 - 2024-09-04 | SO | [I ACa 1091/22](https://www.saos.org.pl/judgments/527799) | Wyrok
 
 ## art. 25 (2)
@@ -656,10 +669,11 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2008-08-07 | KIO | [KIO/UZP 766/08](https://www.saos.org.pl/judgments/112975) | Wyrok
 - 2008-04-02 | KIO | [KIO/UZP 237/08](https://www.saos.org.pl/judgments/112538) | Wyrok
 
-## art. 32 (147)
+## art. 32 (153)
 
 - 2002-02-14 | SN | [III CZP 81/01](https://www.saos.org.pl/judgments/81208) | Uchwała ★
 - 2026-02-23 | SO | [I ACa 1170/24](https://www.saos.org.pl/judgments/546550) | Wyrok
+- 2026-02-09 | SO | [I ACa 805/23](https://www.saos.org.pl/judgments/547470) | Wyrok
 - 2026-01-09 | SO | [I ACa 1093/24](https://www.saos.org.pl/judgments/543367) | Wyrok
 - 2025-12-01 | SO | [I ACa 33/23](https://www.saos.org.pl/judgments/541495) | Wyrok
 - 2025-11-25 | SO | [I ACa 4241/24](https://www.saos.org.pl/judgments/540056) | Wyrok
@@ -668,6 +682,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2025-10-31 | SO | [I ACa 753/25](https://www.saos.org.pl/judgments/544198) | Wyrok
 - 2025-09-23 | SO | [I ACa 172/23](https://www.saos.org.pl/judgments/543515) | Wyrok
 - 2025-09-19 | SO | [I ACa 35/23](https://www.saos.org.pl/judgments/544342) | Wyrok
+- 2025-09-11 | SO | [I ACa 2002/24](https://www.saos.org.pl/judgments/547347) | Wyrok
 - 2025-07-22 | SO | [I ACa 2069/22](https://www.saos.org.pl/judgments/542618) | Wyrok
 - 2025-07-18 | SO | [I ACa 707/23](https://www.saos.org.pl/judgments/537991) | Wyrok
 - 2025-07-17 | SO | [I ACa 1698/22](https://www.saos.org.pl/judgments/543136) | Wyrok
@@ -688,6 +703,8 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2025-02-17 | SO | [I ACa 1123/24](https://www.saos.org.pl/judgments/536903) | Wyrok
 - 2025-01-28 | SO | [I ACa 1248/22](https://www.saos.org.pl/judgments/539639) | Wyrok
 - 2024-12-19 | SO | [I ACa 1626/22](https://www.saos.org.pl/judgments/533846) | Wyrok
+- 2024-12-13 | SO | [I ACa 1618/23](https://www.saos.org.pl/judgments/547129) | Wyrok
+- 2024-12-12 | SO | [I ACa 3001/22](https://www.saos.org.pl/judgments/547463) | Wyrok
 - 2024-12-04 | SO | [I ACa 1647/23](https://www.saos.org.pl/judgments/546785) | Wyrok
 - 2024-11-29 | SO | [I ACa 1255/22](https://www.saos.org.pl/judgments/533522) | Wyrok
 - 2024-11-28 | SO | [I ACa 1086/22](https://www.saos.org.pl/judgments/533841) | Wyrok
@@ -696,6 +713,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2024-11-07 | SO | [I ACa 1036/22](https://www.saos.org.pl/judgments/531805) | Wyrok
 - 2024-10-16 | SO | [I ACa 1997/23](https://www.saos.org.pl/judgments/531964) | Wyrok
 - 2024-09-10 | SO | [I ACa 821/23](https://www.saos.org.pl/judgments/544199) | Wyrok
+- 2024-09-09 | SO | [V ACa 873/23](https://www.saos.org.pl/judgments/547621) | Wyrok
 - 2024-09-03 | SO | [I ACa 891/22](https://www.saos.org.pl/judgments/494696) | Wyrok
 - 2024-09-02 | SO | [I ACa 586/23](https://www.saos.org.pl/judgments/546674) | Wyrok
 - 2024-07-31 | SO | [I ACa 1841/23](https://www.saos.org.pl/judgments/541802) | Wyrok
@@ -722,6 +740,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2023-11-17 | SO | [I ACa 2000/22](https://www.saos.org.pl/judgments/539163) | Wyrok
 - 2023-11-14 | SO | [I ACa 2751/22](https://www.saos.org.pl/judgments/539263) | Wyrok
 - 2023-10-30 | SO | [I ACa 1876/22](https://www.saos.org.pl/judgments/493832) | Wyrok
+- 2023-10-25 | SO | [I ACa 1913/22](https://www.saos.org.pl/judgments/547455) | Wyrok
 - 2023-10-19 | SO | [I ACa 952/22](https://www.saos.org.pl/judgments/494780) | Wyrok
 - 2023-09-28 | SO | [I ACa 532/22](https://www.saos.org.pl/judgments/494283) | Wyrok
 - 2023-09-26 | SO | [I ACa 1375/22](https://www.saos.org.pl/judgments/493577) | Wyrok
@@ -861,17 +880,23 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 
 - 2025-04-08 | SO | [I ACa 1478/22](https://www.saos.org.pl/judgments/539516) | Wyrok
 
-## (ogólnie) (54)
+## (ogólnie) (61)
 
 - 2026-02-13 | SO | [I ACa 1317/24](https://www.saos.org.pl/judgments/543850) | Wyrok
 - 2025-12-18 | SO | [I ACa 731/25](https://www.saos.org.pl/judgments/545921) | Wyrok
 - 2025-11-28 | SO | [I ACa 433/24](https://www.saos.org.pl/judgments/545920) | Wyrok
+- 2025-09-16 | SO | [I ACa 3315/23](https://www.saos.org.pl/judgments/547131) | Wyrok
+- 2025-09-03 | SO | [I ACa 520/24](https://www.saos.org.pl/judgments/547132) | Wyrok
+- 2025-08-27 | SO | [I ACa 3737/23](https://www.saos.org.pl/judgments/547352) | Wyrok
 - 2025-08-08 | SO | [I ACa 1879/24](https://www.saos.org.pl/judgments/533355) | Wyrok
 - 2025-07-17 | SO | [I ACa 1032/25](https://www.saos.org.pl/judgments/542552) | Wyrok
 - 2025-05-28 | SO | [I ACa 3051/23](https://www.saos.org.pl/judgments/546659) | Wyrok
 - 2025-05-16 | SO | [I ACa 2853/23](https://www.saos.org.pl/judgments/546656) | Wyrok
 - 2025-04-15 | SO | [I ACa 2424/23](https://www.saos.org.pl/judgments/546617) | Wyrok
 - 2025-04-11 | SO | [I ACa 2445/23](https://www.saos.org.pl/judgments/546618) | Wyrok
+- 2025-03-06 | SO | [I ACa 2223/23](https://www.saos.org.pl/judgments/547547) | Wyrok
+- 2024-11-29 | SO | [I ACa 1310/23](https://www.saos.org.pl/judgments/547434) | Wyrok
+- 2024-11-29 | SO | [I ACa 1281/23](https://www.saos.org.pl/judgments/547127) | Wyrok
 - 2024-11-21 | SO | [I ACa 1219/23](https://www.saos.org.pl/judgments/539158) | Wyrok
 - 2024-11-15 | SO | [I ACa 1271/23](https://www.saos.org.pl/judgments/533424) | Wyrok
 - 2024-10-29 | SO | [I ACa 870/23](https://www.saos.org.pl/judgments/545407) | Wyrok
@@ -890,6 +915,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Po
 - 2023-12-14 | SO | [I ACa 2996/22](https://www.saos.org.pl/judgments/519394) | Wyrok
 - 2023-11-30 | SO | [I ACa 1704/22](https://www.saos.org.pl/judgments/533087) | Wyrok
 - 2023-11-14 | SO | [I ACa 1970/22](https://www.saos.org.pl/judgments/542295) | Wyrok
+- 2023-11-07 | SO | [I ACa 1957/22](https://www.saos.org.pl/judgments/547457) | Wyrok
 - 2023-10-24 | SO | [I ACa 1695/22](https://www.saos.org.pl/judgments/532969) | Wyrok
 - 2023-10-24 | SO | [I ACa 1930/22](https://www.saos.org.pl/judgments/493846) | Wyrok
 - 2023-10-23 | SO | [I ACa 1887/22](https://www.saos.org.pl/judgments/493834) | Wyrok

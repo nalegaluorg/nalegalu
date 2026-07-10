@@ -23,7 +23,7 @@ source: pdf
 | Status | akt posiada tekst jednolity |
 | W mocy | tak |
 | Data ogłoszenia | 2000-07-20 |
-| Ostatnia zmiana | 2026-06-11 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000620718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/718/text.pdf) |
 
 **Art. 1.**

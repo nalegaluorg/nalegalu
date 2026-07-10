@@ -25,7 +25,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990010006) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/6/text.pdf) |
 
 Na podstawie art. 89 ust. 4 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643) w związku z wyrokiem Trybunału Konstytucyjnego z dnia 3 czerwca 1998 r. sygn. K.
-34/97 ogłaszam utratę mocy obowiązującej przepisów art. 7 ust. 1, 2 i 4 ustawy z dnia 9 maja 1997 zmianie ustawy o związkach zawodowych oraz o zmianie niektórych innych ustaw (Dz. U. Nr 82, poz.
-518).
+34/97 ogłaszam utratę mocy obowiązującej przepisów art. 7 ust. 1, 2 i 4 ustawy z dnia 9 maja 1997 zmianie ustawy o związkach zawodowych oraz o zmianie niektórych innych ustaw (Dz. U. Nr 82, poz. 518).
 Wyrok Konstytucyjnego z dnia 3 czerwca 1998 r., sygn. K. 34/97 zostało opublikowane w Orzecznictwie Trybunału Konstytucyjnego Zbiór Urzędowy nr 4/1998, poz. 49.
 

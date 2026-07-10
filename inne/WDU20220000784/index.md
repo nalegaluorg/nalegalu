@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2022-04-05 |
 | Data wydania | 2022-04-08 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000784) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/784/text.pdf) |
 
 w sprawie praktyki zawodowej w aptece Na podstawie art. 12 ust. 6 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 184 i 655) zarządza się, co następuje:

@@ -416,8 +416,7 @@ III. Tworzenie wypowiedzi
 3) rozpoznaje imiesłowy;
 4) wyróżnia regionalne i środowiskowe odmiany języka;
 5) rozpoznaje nazwy osobowe i miejscowe, poznaje poprawne formy gramatyczne imion, nazwisk, nazw miejscowych i nazw mieszkańców;
-6) rozpoznaje słownictwo ogólnopolskie i słownictwo o ograniczonym zasięgu (np.
-terminy naukowe, archaizmy, kolokwializmy), dostrzegając zróżnicowanie słownictwa;
+6) rozpoznaje słownictwo ogólnopolskie i słownictwo o ograniczonym zasięgu (np. terminy naukowe, archaizmy, kolokwializmy), dostrzegając zróżnicowanie słownictwa;
 7) zna sposoby wzbogacania słownictwa;
 8) rozróżnia treść i zakres znaczeniowy wyrazu;
 9) zna typy skrótów i skrótowców oraz określa ich funkcje;

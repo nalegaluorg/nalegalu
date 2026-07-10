@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1996-12-05 |
 | Data wydania | 1997-03-26 |
-| Ostatnia zmiana | 2026-03-18 |
+| Ostatnia zmiana | 2026-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970280152) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/152/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -87,10 +87,10 @@ source: pdf
 - **2)** kierownik specjalizacji;
 - **3)** konsultant wojewódzki;
 - **4)** konsultant krajowy;
-- **5)** kierownik podmiotu, o którym mowa w art. 15c ust. 1;
+- **5)** (uchylony)
 - **6)** kierownik podmiotu, o którym mowa w art. 19f ust. 1;
-- **7)** koordynator, o którym mowa w art. 15g ust. 1;
-- **8)** opiekun, o którym mowa w art. 15b ust. 1;
+- **7)** (uchylony)
+- **8)** (uchylony)
 - **9)** osoba, która ukończyła co najmniej 10 semestrów z sześcioletnich jednolitych studiów magisterskich na kierunku lekarskim, oraz osoba, która ukończyła co najmniej 8 semestrów z pięcioletnich jednolitych studiów magisterskich na kierunku lekarsko-dentystycznym.
 
 6. Warunkiem dokonywania przez osoby określone w ust. 5 czynności za pomocą SMK jest uwierzytelnienie osoby, która konto założyła, i weryfikacja uprawnień tej osoby.
@@ -106,10 +106,10 @@ source: pdf
 - **2)** kierownika specjalizacji – właściwa jednostka uprawniona do prowadzenia szkolenia specjalizacyjnego;
 - **3)** konsultanta wojewódzkiego – właściwy miejscowo wojewoda;
 - **4)** konsultanta krajowego – minister właściwy do spraw zdrowia;
-- **5)** kierownika podmiotu, o którym mowa w art. 15c ust. 1 – właściwa jednostka uprawniona do prowadzenia stażu podyplomowego;
+- **5)** (uchylony)
 - **6)** kierownika podmiotu, o którym mowa w art. 19f ust. 1 – właściwa jednostka akredytowana do prowadzenia szkolenia specjalizacyjnego;
-- **7)** koordynatora, o którym mowa w art. 15g ust. 1 – właściwa jednostka uprawniona do prowadzenia stażu podyplomowego;
-- **8)** opiekuna, o którym mowa w art. 15b ust. 1 – właściwa jednostka uprawniona do prowadzenia stażu podyplomowego;
+- **7)** (uchylony)
+- **8)** (uchylony)
 - **9)** osoby, o której mowa w ust. 5 pkt 9 – właściwa dla danej osoby uczelnia prowadząca kształcenie na kierunku lekarskim lub lekarsko-dentystycznym.
 
 **Art. 4.** Lekarz ma obowiązek wykonywać zawód, zgodnie ze wskazaniami aktualnej wiedzy medycznej, dostępnymi mu metodami i środkami zapobiegania, rozpoznawania i leczenia chorób, zgodnie z zasadami etyki zawodowej oraz z należytą starannością.
@@ -1154,11 +1154,11 @@ source: pdf
 
 - **1)** realizowania stażu podyplomowego zgodnie z programem stażu podyplomowego;
 - **2)** utrzymywania stałej współpracy z opiekunem;
-- **3)** bieżącego wypełniania, za pomocą SMK, „Elektronicznej karty stażu podyplomowego lekarza” albo „Elektronicznej karty stażu podyplomowego lekarza dentysty”, zwanych dalej „EKSP”.
+- **3)** bieżącego wypełniania „Karty stażu podyplomowego lekarza” albo „Karty stażu podyplomowego lekarza dentysty”, zwaną dalej „KSP”.
 
 **Art. 15c.**
 
-1. Podmiotami uprawnionymi do prowadzenia stażu podyplomowego, zwanymi dalej „podmiotami prowadzącymi staż”, w tym części stażu, zwanej dalej „stażem cząstkowym”, lub części stażu cząstkowego, są:
+1. Pfart. 15d.odmiotami uprawnionymi do prowadzenia stażu podyplomowego, zwanymi dalej „podmiotami prowadzącymi staż”, w tym części stażu, zwanej dalej „stażem cząstkowym”, lub części stażu cząstkowego, są:
 
 - **1)** podmiot leczniczy,
 - **2)** lekarz dentysta wykonujący działalność leczniczą w formie indywidualnej lub grupowej praktyki lekarskiej, lub indywidualnej specjalistycznej praktyki lekarskiej,
@@ -1198,9 +1198,9 @@ source: pdf
 
 **Art. 15d.**
 
-1. Okręgowa rada lekarska w drodze uchwały, w porozumieniu z marszałkiem województwa, kieruje, za pomocą SMK, do odbycia stażu podyplomowego na obszarze swojego działania lekarzy i lekarzy dentystów, którym przyznała prawo wykonywania zawodu, o którym mowa w art. 5 ust. 7 oraz art. 7 ust. 2, i których wpisała na listę członków izby.
+1. Okręgowa rada lekarska w drodze uchwały, w porozumieniu z marszałkiem województwa, kieruje do odbycia stażu podyplomowego na obszarze swojego działania lekarzy i lekarzy dentystów, którym przyznała prawo wykonywania zawodu, o którym mowa w art. 5 ust. 7 oraz art. 7 ust. 2, i których wpisała na listę członków izby.
 
-2. Skierowanie, o którym mowa w ust. 1, następuje na wniosek lekarza albo lekarza dentysty składany za pomocą SMK, zawierający:
+2. Skierowanie, o którym mowa w ust. 1, następuje na wniosek lekarza albo lekarza dentysty zawierający:
 
 - **1)** imię (imiona) i nazwisko;
 - **2)** datę i miejsce urodzenia;
@@ -1222,7 +1222,7 @@ source: pdf
 
 5. W przypadku braku możliwości odbycia stażu podyplomowego przez lekarza albo lekarza dentystę na obszarze działania okręgowej izby lekarskiej, której jest członkiem, za zgodą tego lekarza albo lekarza dentysty okręgowa rada lekarska tej izby uzgadnia z inną okręgową radą lekarską możliwość odbycia przez lekarza albo lekarza dentystę stażu podyplomowego na obszarze jej działania.
 
-6. W przypadku, o którym mowa w ust. 5, okręgowa rada lekarska, na obszarze działania której lekarz albo lekarz dentysta będzie odbywał staż podyplomowy, wpisuje tego lekarza albo lekarza dentystę na listę członków i kieruje go, za pomocą SMK, do odbycia stażu podyplomowego.
+6. W przypadku, o którym mowa w ust. 5, okręgowa rada lekarska, na obszarze działania której lekarz albo lekarz dentysta będzie odbywał staż podyplomowy, wpisuje tego lekarza albo lekarza dentystę na listę członków i kieruje go do odbycia stażu podyplomowego.
 
 **Art. 15e.**
 
@@ -1235,9 +1235,9 @@ source: pdf
 
 **Art. 15f.**
 
-1. Dokumentem potwierdzającym zrealizowanie programu stażu podyplomowego jest EKSP.
+1. Dokumentem potwierdzającym zrealizowanie programu stażu podyplomowego jest KSP prowadzona w postaci papierowej.
 
-2. EKSP zawiera:
+2. KSP zawiera:
 
 - **1)** dane lekarza stażysty:
     - **a)** imię (imiona) i nazwisko,
@@ -1262,7 +1262,9 @@ source: pdf
 - **13)** informację o zaliczeniu stażu podyplomowego;
 - **14)** datę zakończenia stażu podyplomowego.
 
-3. Właściwa okręgowa rada lekarska potwierdza, za pomocą SMK, odbycie i zaliczenie stażu podyplomowego na podstawie EKSP oraz, na wniosek lekarza stażysty, wydaje zaświadczenie wygenerowane z SMK, potwierdzające odbycie stażu podyplomowego.
+2a. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, wzór KSP, uwzględniając zapewnienie przejrzystości tych dokumentów oraz prawidłowego potwierdzania realizacji programu stażu podyplomowego.
+
+3. Właściwa okręgowa rada lekarska na podstawie KSP potwierdza odbycie i zaliczenie stażu podyplomowego oraz, na wniosek lekarza stażysty, wydaje zaświadczenie potwierdzające odbycie stażu podyplomowego.
 
 4. Zaświadczenie zawiera:
 
@@ -1279,21 +1281,21 @@ source: pdf
 
 1. Podmiot prowadzący staż, w porozumieniu z właściwą okręgową radą lekarską, wyznacza koordynatora szkolenia lekarza stażysty, zwanego dalej „koordynatorem”.
 
-2. W podmiocie leczniczym koordynatora wyznacza, za pomocą SMK, kierownik podmiotu spośród lekarzy wykonujących w nim zawód, posiadających specjalizację, a w przypadku gdy staż podyplomowy prowadzi lekarz, o którym mowa w art. 15c ust. 1 pkt 2 albo 3, funkcję koordynatora pełni ten lekarz.
+2. W podmiocie leczniczym koordynatora wyznacza kierownik podmiotu spośród lekarzy wykonujących w nim zawód, posiadających specjalizację, a w przypadku gdy staż podyplomowy prowadzi lekarz, o którym mowa w art. 15c ust. 1 pkt 2 albo 3, funkcję koordynatora pełni ten lekarz.
 
 3. Koordynator:
 
-- **1)** planuje i nadzoruje, za pomocą SMK, przebieg realizacji stażu podyplomowego oraz, wspólnie z opiekunem, decyduje w sprawach związanych ze szkoleniem lekarzy stażystów, wystawia lekarzom stażystom opinię dotyczącą predyspozycji zawodowych oraz zalicza staż podyplomowy, po stwierdzeniu zrealizowania programu stażu podyplomowego w EKSP;
-- **2)** ustala z lekarzem stażystą, za pomocą SMK, indywidualny harmonogram realizacji personalizowanej części programu stażu;
+- **1)** planuje i nadzoruje przebieg realizacji stażu podyplomowego oraz, wspólnie z opiekunem, decyduje w sprawach związanych ze szkoleniem lekarzy stażystów, wystawia lekarzom stażystom opinię dotyczącą predyspozycji zawodowych oraz zalicza staż podyplomowy, po potwierdzeniu zrealizowania programu stażu podyplomowego w KSP;
+- **2)** ustala z lekarzem stażystą indywidualny harmonogram realizacji personalizowanej części programu stażu;
 - **3)** organizuje seminaria dotyczące realizacji programu poszczególnych staży cząstkowych;
-- **4)** potwierdza w EKSP odbycie szkoleń, o których mowa w art. 15 ust. 3 pkt 4 i 5, ust. 4 pkt 3 i 4 i ust. 5, na podstawie przedstawionych zaświadczeń wystawionych przez organizatorów szkoleń;
-- **5)** potwierdza w EKSP udział lekarza stażysty w konferencjach, kursach lub szkoleniach, o których mowa w art. 15 ust. 6, na podstawie przedstawionych dokumentów poświadczających ukończenie wskazanej formy kształcenia.
+- **4)** potwierdza w KSP odbycie szkoleń, o których mowa w art. 15 ust. 3 pkt 4 i 5, ust. 4 pkt 3 i 4 i ust. 5, na podstawie przedstawionych zaświadczeń wystawionych przez organizatorów szkoleń;
+- **5)** potwierdza w KSP udział lekarza stażysty w konferencjach, kursach lub szkoleniach, o których mowa w art. 15 ust. 6, na podstawie przedstawionych dokumentów poświadczających ukończenie wskazanej formy kształcenia.
 
 4. Za wykonywanie zadań określonych w ust. 3 koordynator otrzymuje wynagrodzenie ze środków, o których mowa w art. 15i ust. 3 pkt 1.
 
 **Art. 15h.**
 
-1. Opiekun wyznaczany każdorazowo przez koordynatora, za pomocą SMK, spośród osób wskazanych w sposób określony w ust. 3, jest odpowiedzialny za realizację przez lekarza stażystę programu stażu cząstkowego lub części stażu cząstkowego.
+1. Opiekun wyznaczany każdorazowo przez koordynatora spośród osób wskazanych w sposób określony w ust. 3, jest odpowiedzialny za realizację przez lekarza stażystę programu stażu cząstkowego lub części stażu cząstkowego.
 
 2. Opiekun może nadzorować odbywanie stażu cząstkowego wyłącznie przez jednego lekarza stażystę, a w sytuacji szczególnie uzasadnionej, za zgodą koordynatora, przez dwóch lekarzy stażystów.
 
@@ -1302,7 +1304,7 @@ source: pdf
 - **1)** podmiocie leczniczym jest lekarz wskazany przez kierownika tego podmiotu, z tym że w oddziale albo innej komórce organizacyjnej szpitala opiekuna wskazuje ordynator albo inny lekarz kierujący oddziałem, spośród lekarzy wykonujących zawód w tym oddziale albo komórce;
 - **2)** indywidualnej praktyce lekarskiej, indywidualnej specjalistycznej praktyce lekarskiej lub grupowej praktyce lekarskiej wykonywanej przez lekarza albo w indywidualnej praktyce lekarskiej albo indywidualnej specjalistycznej praktyce lekarskiej albo grupowej praktyce lekarskiej wykonywanej przez lekarza dentystę, jest lekarz prowadzący tę praktykę.
 
-4. Opiekun potwierdza w EKSP realizację staży, o których mowa w art. 15 ust. 3 pkt 1, 2 i 6 oraz ust. 4 pkt 1 i 5.
+4. Opiekun potwierdza w KSP realizację staży, o których mowa w art. 15 ust. 3 pkt 1, 2 i 6 oraz ust. 4 pkt 1 i 5.
 
 **Art. 15i.**
 
@@ -3749,18 +3751,18 @@ source: pdf
 
 **Art. 41a.**
 
-1. Lekarz może udzielić upoważnienia do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zleceń na zaopatrzenie i zleceń naprawy, o których mowa w art. 2 pkt 6 lit. d ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, a także do dokonywania wpisów w Karcie Szczepień, o której mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, w jego imieniu osobie wykonującej:
+1. Lekarz może udzielić upoważnienia do wystawiania elektronicznej dokumentacji medycznej, o której mowa w art. 2 pkt 6 lit. b i c ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub dokonywania w niej wpisów, w jego imieniu, osobie wykonującej:
 
-- **1)** zawód medyczny, o której mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+- **1)** zawód medyczny w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
 - **2)** czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
 
-2. Osoby upoważnione do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zleceń na zaopatrzenie i zleceń naprawy, o których mowa w art. 2 pkt 6 lit. d ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, a także do dokonywania wpisów w Karcie Szczepień, o której mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, mogą być dopuszczone do przetwarzania danych osobowych zawartych w tych dokumentach po wydaniu im przez podmiot wykonujący działalność leczniczą upoważnienia do przetwarzania danych osobowych. Osoby te mogą być obecne przy udzielaniu świadczeń zdrowotnych oraz są obowiązane do zachowania poufności wszelkich informacji i danych uzyskanych w związku z wystawianiem recepty, skierowania, zlecenia na zaopatrzenie lub zlecenia naprawy, a także w związku z dokonaniem wpisu w Karcie Szczepień. Obowiązek zachowania poufności obowiązuje również po śmierci pacjenta.
+2. Osoba upoważniona, o której mowa w ust. 1, może być dopuszczona do przetwarzania danych osobowych zawartych w elektronicznej dokumentacji medycznej, o której mowa w art. 2 pkt 6 lit. b i c ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, po wydaniu jej przez podmiot wykonujący działalność leczniczą upoważnienia do przetwarzania danych osobowych. Osoba ta może być obecna przy udzielaniu świadczeń zdrowotnych oraz jest obowiązana do zachowania poufności wszelkich informacji i danych uzyskanych w związku z realizacją czynności, o których mowa w ust. 1. Obowiązek zachowania poufności tych informacji i danych istnieje również po śmierci pacjenta, którego dotyczą te informacje i dane.
 
-3. Upoważnienie do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zleceń na zaopatrzenie i zleceń naprawy, o których mowa w art. 2 pkt 6 lit. d ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, a także do dokonywania wpisów w Karcie Szczepień, o której mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, może być udzielone na okres nie dłuższy niż 12 miesięcy, przy czym po upływie tego okresu można udzielić kolejnych upoważnień na okres nie dłuższy niż 12 miesięcy. Upoważnienie to może być w każdym czasie cofnięte przez lekarza lub podmiot wykonujący działalność leczniczą. Cofnięcie upoważnienia do wystawiania recept lub skierowań, lub zleceń na zaopatrzenie, lub zleceń naprawy, a także do dokonywania wpisów w Karcie Szczepień, przez podmiot wykonujący działalność leczniczą następuje po uprzednim uzgodnieniu z lekarzem.
+3. Upoważnienie, o którym mowa w ust. 1, może być udzielone na okres niedłuższy niż 12 miesięcy, przy czym po upływie tego okresu można udzielić kolejnego upoważnienia, o którym mowa w ust. 1, na okres niedłuższy niż 12 miesięcy. Upoważnienie to może być w każdym czasie cofnięte przez lekarza lub podmiot wykonujący działalność leczniczą. Cofnięcie tego upoważnienia przez podmiot wykonujący działalność leczniczą następuje po uprzednim uzgodnieniu z lekarzem.
 
-4. Od dnia udzielenia upoważnienia do wystawiania recept, o których mowa w art. 2 pkt 6 lit. a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zleceń na zaopatrzenie i zleceń naprawy, o których mowa w art. 2 pkt 6 lit. d ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub skierowań określonych w przepisach wydanych na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, a także do dokonywania wpisów w Karcie Szczepień, o której mowa w art. 21a ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, do dnia jego cofnięcia albo wygaśnięcia osoba upoważniona jest obowiązana do zapewnienia zgodności danych zamieszczonych na tych receptach, skierowaniach, zleceniach i w Karcie Szczepień z danymi zawartymi w dokumentacji medycznej.
+4. Od dnia udzielenia upoważnienia, o którym mowa w ust. 1, do dnia jego cofnięcia albo wygaśnięcia osoba upoważniona, o której mowa w ust. 1, jest obowiązana do zapewnienia zgodności danych zamieszczonych w elektronicznej dokumentacji medycznej, o której mowa w art. 2 pkt 6 lit. b i c ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, z danymi zawartymi w dokumentacji medycznej.
 
-5. Udzielanie upoważnień, o których mowa w ust. 1, następuje za pośrednictwem Rejestru Asystentów Medycznych, o którym mowa w art. 5 ust. 1 pkt 2 lit. l ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, na zasadach określonych w tej ustawie.
+5. Udzielanie upoważnienia, o którym mowa w ust. 1, i jego odwoływanie następuje za pośrednictwem Rejestru Asystentów Medycznych, o którym mowa w art. 5 ust. 1 pkt 2 lit. l ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, na zasadach określonych w tej ustawie.
 
 **Art. 42.**
 

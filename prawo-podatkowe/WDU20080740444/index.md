@@ -44,10 +44,7 @@ source: pdf
 - **2)** bawełny i odziarnionych produktów roślinnych dla przemysłu włókienniczego (PKWiU ex 01.11.7),
 - **3)** kauczuku naturalnego (PKWiU 01.11.80),
 - **4)** ziół suszonych sortowanych całych,
-- **5)** roślin dla przemysłu perfumeryjnego i farmacji itp.(PKWiU ex 01.11.9) 2 01.12 Warzywa, specjalne rośliny ogrodnicze; produkty szkółkarskie 3 01.13.1 Winogrona 4 ex 01.13.23 Owoce pozostałe; ziarna chleba świętojańskiego - z wyłączeniem ziarna chleba świętojańskiego i chleba świętojańskiego (PKWiU 01.13.23-00.30), papai (PKWiU 01.13.23-00.50), owoców kiwi (PKWiU 01.13.23-00.60) i owoców południowych pozostałych osobno niewymienionych (PKWiU ex
-
-01. 13.23-00.90) 5 01.13.24-00.10 Orzechy laskowe 6 01.13.24-00.20 Orzechy włoskie 7 ex 01.13.40-00.90 Rośliny przyprawowe pozostałe - wyłącznie surowce roślin zielarskich oraz nasiona roślin przyprawowych 8 ex 01.2 Zwierzęta żywe i produkty pochodzenia zwierzęcego – z wyłączeniem:
-
+- **5)** roślin dla przemysłu perfumeryjnego i farmacji itp.(PKWiU ex 01.11.9) 2 01.12 Warzywa, specjalne rośliny ogrodnicze; produkty szkółkarskie 3 01.13.1 Winogrona 4 ex 01.13.23 Owoce pozostałe; ziarna chleba świętojańskiego - z wyłączeniem ziarna chleba świętojańskiego i chleba świętojańskiego (PKWiU 01.13.23-00.30), papai (PKWiU 01.13.23-00.50), owoców kiwi (PKWiU 01.13.23-00.60) i owoców południowych pozostałych osobno niewymienionych (PKWiU ex 01.13.23-00.90) 5 01.13.24-00.10 Orzechy laskowe 6 01.13.24-00.20 Orzechy włoskie 7 ex 01.13.40-00.90 Rośliny przyprawowe pozostałe - wyłącznie surowce roślin zielarskich oraz nasiona roślin przyprawowych 8 ex 01.2 Zwierzęta żywe i produkty pochodzenia zwierzęcego – z wyłączeniem:
 - **1)** wełny i sierści zwierzęcej cienkiej i grubej,
 - **2)** zwierząt żywych pozostałych (PKWiU 01.25.10), z zastrzeżeniem pozycji 9,
 - **3)** kokonów jedwabników, nadających się do motania (PKWiU 01.25.24),

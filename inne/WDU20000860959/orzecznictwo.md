@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych.*
 
 Łącznie: **55** orzeczeń
-(pominięto 36 orzeczeń sądów rejonowych)
+(pominięto 37 orzeczeń sądów rejonowych)
 
 ## art. 1 (11)
 

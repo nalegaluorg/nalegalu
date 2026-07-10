@@ -2,11 +2,13 @@
 
 Akty prawne z dziedziny: **Prawo budowlane**.
 
-Łącznie: **42** aktów
+Łącznie: **44** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
+| [WDU20260000781](WDU20260000781/index.md) | Ustawa z dnia 30 kwietnia 2026 r. o zmianie ustawy o planowaniu i zagospoda | Ustawa | obowiązujący |  |
 | [WDU20260000524](WDU20260000524/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
+| [WDU20260000226](WDU20260000226/index.md) | Rozporządzenie Ministra Finansów i Gospodarki z dnia 18 lutego 2026 r. w sp | Rozporządzenie | obowiązujący |  |
 | [WDU20260000024](WDU20260000024/index.md) | Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy o planowaniu i zagospodaro | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250001847](WDU20250001847/index.md) | Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy - Prawo budowlane oraz nie | Ustawa | obowiązujący |  |
 | [WDU20250001668](WDU20250001668/index.md) | Ustawa z dnia 5 listopada 2025 r. o zmianie ustawy o planowaniu i zagospoda | Ustawa | obowiązujący |  |
@@ -49,4 +51,4 @@ Akty prawne z dziedziny: **Prawo budowlane**.
 | [WDU19961000465](WDU19961000465/index.md) | Ustawa z dnia 5 lipca 1996 r. o zmianie ustawy - Prawo budowlane. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19940890414](WDU19940890414/index.md) | Ustawa z dnia 7 lipca 1994 r. - Prawo budowlane. | Ustawa | akt posiada tekst jednolity | [tak](WDU19940890414/orzecznictwo.md) |
 
-*42 aktów • [← Powrót do spisu głównego](../README.md)*
+*44 aktów • [← Powrót do spisu głównego](../README.md)*

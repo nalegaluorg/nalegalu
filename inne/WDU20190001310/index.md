@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-03 |
 | Data wydania | 2019-07-15 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001310) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1310/text.pdf) |
 
 w sprawie Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego Na podstawie art. 24g ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2019 r.

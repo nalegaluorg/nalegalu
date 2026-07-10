@@ -70,10 +70,8 @@ source: pdf
 - **14)** alternatywna spółka inwestycyjna, o której mowa w art. 8a ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
 - **15)** zarządzający ASI, o którym mowa w art. 8b ust. 2 pkt 2 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
 - **16)** podmiot z siedzibą lub miejscem zamieszkania na terytorium Rzeczypospolitej Polskiej, prowadzący, na podstawie zezwolenia Komisji Nadzoru Finansowego, działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub tytułów uczestnictwa funduszy zagranicznych oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do Europejskiego Obszaru Gospodarczego, o którym mowa w art. 32 ust. 2 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
-- **17)** instytucja pożyczkowa, o której mowa w art. 5 pkt 2a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2024 r. poz. 1497 oraz z 2025 r. poz.
-- **146)** , mająca siedzibę na terytorium państwa członkowskiego lub Konfederacji Szwajcarskiej;
-- **18)** związek rewizyjny utworzony przez banki spółdzielcze, o którym mowa w art. 15 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r. poz.
-- **265)** ;
+- **17)** instytucja pożyczkowa, o której mowa w art. 5 pkt 2a ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2024 r. poz. 1497 oraz z 2025 r. poz. 146), mająca siedzibę na terytorium państwa członkowskiego lub Konfederacji Szwajcarskiej;
+- **18)** związek rewizyjny utworzony przez banki spółdzielcze, o którym mowa w art. 15 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2025 r. poz. 265);
 - **19)** jednostka zarządzająca systemem ochrony, o której mowa w art. 22d ust. 1 pkt 2 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających;
 - **20)** agent rozliczeniowy, o którym mowa w art. 2 pkt 1a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30, 731 i 1222 oraz z 2025 r. poz. 146);
 - **21)** biuro usług płatniczych, o którym mowa w art. 2 pkt 2a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych;
@@ -209,8 +207,7 @@ source: pdf
 - **39)** art. 59e–59i ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim,
 - **40)** art. 150–153b ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych,
 - **41)** art. 33 i art. 34 ustawy z dnia 16 września 2011 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego (Dz. U. z 2021 r. poz. 1445) ,
-- **42)** art. 87–98 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz.
-- **708)** ,
+- **42)** art. 87–98 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708),
 - **43)** art. 430–440 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej,
 - **44)** art. 332–334 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2024 r. poz. 487 oraz z 2025 r. poz. 146),
 - **45)** art. 40–45 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725),

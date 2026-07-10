@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1995-02-03 |
 | Data wydania | 1995-02-22 |
-| Ostatnia zmiana | 2026-01-30 |
+| Ostatnia zmiana | 2026-07-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950160078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/78/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -401,8 +401,7 @@ source: pdf
 
 2. Do rekultywacji gruntów, o których mowa w ust. 1, stosuje się odpowiednio do gruntów zanieczyszczonych:
 
-- **1)** po dniu 30 kwietnia 2007 r. – przepisy ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2020 r. poz.
-- **2187)** ;
+- **1)** po dniu 30 kwietnia 2007 r. – przepisy ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2020 r. poz. 2187);
 - **2)** przed dniem 30 kwietnia 2007 r. – przepisy ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
 
 #### Rozdział 5a Dochody związane z wyłączeniem z produkcji gruntów rolnych

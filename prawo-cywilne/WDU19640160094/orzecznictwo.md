@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadzające kodeks cywilny.*
 
-Łącznie: **425** orzeczeń
-(pominięto 212 orzeczeń sądów rejonowych)
+Łącznie: **430** orzeczeń
+(pominięto 213 orzeczeń sądów rejonowych)
 
 ## art. 1 (63)
 
@@ -525,7 +525,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadza
 - 2014-10-24 | SO | [II C 1440/13](https://www.saos.org.pl/judgments/67395) | Wyrok
 - 2014-06-17 | SO | [II C 1131/13](https://www.saos.org.pl/judgments/147107) | Uzasadnienie
 
-## art. 50 (300)
+## art. 50 (305)
 
 - 2025-11-17 | SO | [I ACa 2351/24](https://www.saos.org.pl/judgments/546794) | Wyrok
 - 2025-11-03 | SO | [I ACa 1984/23](https://www.saos.org.pl/judgments/538677) | Wyrok
@@ -535,6 +535,10 @@ Orzeczenia powołujące: *Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadza
 - 2025-03-28 | SO | [I ACa 829/23](https://www.saos.org.pl/judgments/546008) | Wyrok
 - 2025-03-28 | SO | [I ACa 768/23](https://www.saos.org.pl/judgments/546007) | Wyrok
 - 2025-03-20 | SO | [I ACa 476/23](https://www.saos.org.pl/judgments/545995) | Wyrok
+- 2024-12-13 | SO | [I ACa 1717/23](https://www.saos.org.pl/judgments/547449) | Wyrok
+- 2024-12-13 | SO | [I ACa 1631/23](https://www.saos.org.pl/judgments/547447) | Wyrok
+- 2024-12-13 | SO | [I ACa 1618/23](https://www.saos.org.pl/judgments/547129) | Wyrok
+- 2024-12-09 | SO | [I ACa 3772/23](https://www.saos.org.pl/judgments/547167) | Wyrok
 - 2024-12-09 | SO | [I ACa 586/24](https://www.saos.org.pl/judgments/546806) | Wyrok
 - 2024-12-09 | SO | [I ACa 1909/23](https://www.saos.org.pl/judgments/546788) | Wyrok
 - 2024-12-09 | SO | [I ACa 1845/23](https://www.saos.org.pl/judgments/546787) | Wyrok
@@ -596,6 +600,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadza
 - 2023-12-15 | SO | [I ACa 7/23](https://www.saos.org.pl/judgments/539274) | Wyrok
 - 2023-12-11 | SO | [V ACa 675/23](https://www.saos.org.pl/judgments/541478) | Wyrok
 - 2023-11-30 | SO | [I ACa 894/22](https://www.saos.org.pl/judgments/494704) | Wyrok
+- 2023-11-14 | SO | [I ACa 2987/22](https://www.saos.org.pl/judgments/547462) | Wyrok
 - 2023-11-14 | SO | [I ACa 2949/22](https://www.saos.org.pl/judgments/542298) | Wyrok
 - 2023-10-25 | SO | [I ACa 838/22](https://www.saos.org.pl/judgments/494639) | Wyrok
 - 2023-10-25 | SO | [I ACa 2993/22](https://www.saos.org.pl/judgments/494031) | Wyrok

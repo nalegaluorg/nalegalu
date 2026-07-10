@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 13 października 1998 r. Przepisy wprowadzające ustawy reformujące administrację publiczną.*
 
 Łącznie: **216** orzeczeń
-(pominięto 59 orzeczeń sądów rejonowych)
+(pominięto 60 orzeczeń sądów rejonowych)
 
 ## art. 14 (3)
 

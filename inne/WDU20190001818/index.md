@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-09-24 |
-| Ostatnia zmiana | 2026-02-19 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001818) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1818/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -67,8 +67,7 @@ source: pdf
 - **9)** ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26);
 - **10)** ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837);
 - **11)** ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620, 1746 i 1794);
-- **12)** ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz.
-- **1718)** ;
+- **12)** ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 1718);
 - **13)** ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87 oraz z 2025 r. poz. 1173);
 - **14)** ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2026 r. poz. 95);
 - **15)** ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278);

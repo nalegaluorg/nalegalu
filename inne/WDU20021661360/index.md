@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2002-08-30 |
 | Data wydania | 2002-10-07 |
-| Ostatnia zmiana | 2026-05-06 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021661360) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1360/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

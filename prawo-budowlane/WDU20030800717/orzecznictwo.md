@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym*
 
-Łącznie: **501** orzeczeń
+Łącznie: **502** orzeczeń
 (pominięto 262 orzeczeń sądów rejonowych)
 
 ## art. 1 (6)
@@ -334,7 +334,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospod
 - 2017-08-23 | SO | [XII C 2207/13](https://www.saos.org.pl/judgments/307175) | Wyrok
 - 2014-01-21 | SO | [XV Ca 1211/13](https://www.saos.org.pl/judgments/47666) | Postanowienie
 
-## art. 36 (254)
+## art. 36 (255)
 
 - 2012-10-16 | TK | [K 4/10](https://www.saos.org.pl/judgments/110900) | Wyrok ★
 - 2010-03-18 | TK | [K 8/08](https://www.saos.org.pl/judgments/109666) | Wyrok ★
@@ -362,6 +362,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospod
 - 2006-12-19 | SN | [V CSK 332/06](https://www.saos.org.pl/judgments/164819) | Wyrok ★
 - 2013-11-21 | SN | [III CSK 43/13](https://www.saos.org.pl/judgments/103601) | Postanowienie
 - 2011-12-08 | SN | [IV CSK 159/11](https://www.saos.org.pl/judgments/96514) | Postanowienie
+- 2026-01-30 | SO | [I ACa 1203/23](https://www.saos.org.pl/judgments/547402) | Wyrok
 - 2025-12-29 | SO | [I ACa 146/25](https://www.saos.org.pl/judgments/540833) | Wyrok
 - 2025-12-01 | SO | [I ACa 1579/22](https://www.saos.org.pl/judgments/544873) | Wyrok
 - 2025-11-14 | SO | [I ACa 1901/23](https://www.saos.org.pl/judgments/544437) | Wyrok
@@ -599,7 +600,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospod
 
 - 2019-11-20 | SO | [I ACa 687/18](https://www.saos.org.pl/judgments/404120) | Wyrok
 
-## art. 37 (99)
+## art. 37 (100)
 
 - 2010-02-09 | TK | [P 58/08](https://www.saos.org.pl/judgments/109726) | Wyrok ★
 - 2012-07-25 | TK | [SK 13/12](https://www.saos.org.pl/judgments/110989) | Postanowienie ★
@@ -611,6 +612,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospod
 - 2010-10-27 | SN | [V CSK 86/10](https://www.saos.org.pl/judgments/93291) | Wyrok ★
 - 2009-04-23 | SN | [IV CSK 508/08](https://www.saos.org.pl/judgments/90097) | Wyrok ★
 - 2013-11-21 | SN | [III CSK 43/13](https://www.saos.org.pl/judgments/103601) | Postanowienie
+- 2026-01-30 | SO | [I ACa 1203/23](https://www.saos.org.pl/judgments/547402) | Wyrok
 - 2025-12-29 | SO | [I ACa 146/25](https://www.saos.org.pl/judgments/540833) | Wyrok
 - 2024-12-12 | SO | [I ACa 688/22](https://www.saos.org.pl/judgments/533847) | Wyrok
 - 2024-02-28 | SO | [I ACa 1126/21](https://www.saos.org.pl/judgments/519728) | Wyrok

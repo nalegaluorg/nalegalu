@@ -328,8 +328,5 @@ source: pdf
 
 **Art. 41.** Traci moc dekret z dnia 16 października 1945 r. o stosunku Państwa do Kościoła Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. poz. 259).
 
-**Art. 42.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 30 czerwca 1995 r. (Dz. U. z 2023 r. poz.
-
-- **000)** WYKAZ PARAFII KOŚCIOŁA EWANGELICKO-METODYSTYCZNEGO W RZECZYPOSPOLITEJ POLSKIEJ Parafia Bielsko-Biała Parafia Bydgoszcz Parafia Bytom Parafia Chodzież Parafia Dąbrówno Parafia Elbląg Parafia Ełk Parafia Gdańsk-Wrzeszcz Parafia Gierzwałd Parafia Gliwice Parafia Grudziądz Parafia Inowrocław Parafia Katowice Parafia Kielce Parafia Koszalin Parafia Kraków Parafia Kroplewo Parafia Kwidzyn Parafia Lipowo Parafia Łódź Parafia Łukta Parafia Międzyrzecz Parafia Olsztynek Parafia Ostróda Parafia Pabianice Parafia Piętki Parafia Poznań Parafia Przemyśl Parafia Siemiany Parafia Słonecznik Parafia Słupsk Parafia Smykowo Parafia Stare Juchy Parafia Szczecin Parafia Ścinawka Średnia Parafia Tarnów Parafia Warszawa Parafia Wrocław
-
+**Art. 42.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 30 czerwca 1995 r. (Dz. U. z 2023 r. poz. 000) WYKAZ PARAFII KOŚCIOŁA EWANGELICKO-METODYSTYCZNEGO W RZECZYPOSPOLITEJ POLSKIEJ Parafia Bielsko-Biała Parafia Bydgoszcz Parafia Bytom Parafia Chodzież Parafia Dąbrówno Parafia Elbląg Parafia Ełk Parafia Gdańsk-Wrzeszcz Parafia Gierzwałd Parafia Gliwice Parafia Grudziądz Parafia Inowrocław Parafia Katowice Parafia Kielce Parafia Koszalin Parafia Kraków Parafia Kroplewo Parafia Kwidzyn Parafia Lipowo Parafia Łódź Parafia Łukta Parafia Międzyrzecz Parafia Olsztynek Parafia Ostróda Parafia Pabianice Parafia Piętki Parafia Poznań Parafia Przemyśl Parafia Siemiany Parafia Słonecznik Parafia Słupsk Parafia Smykowo Parafia Stare Juchy Parafia Szczecin Parafia Ścinawka Średnia Parafia Tarnów Parafia Warszawa Parafia Wrocław
 

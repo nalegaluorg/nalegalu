@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o działaniach antyterrorystycznych
 
+*USTAWA z dnia 10 czerwca 2016 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2025 poz. 194 |
@@ -22,17 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-02-05 |
 | Data wydania | 2025-02-14 |
-| Ostatnia zmiana | 2025-02-17 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/194/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2024 r. poz. 92), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248),
-2) ustawą z dnia 18 października 2024 r. o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 1684) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 13 ustawy z dnia 26 lipca 2024 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (Dz. U. poz. 1248), który stanowi: „ Art. 13. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 9 i art. 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
-2) art. 5 ustawy z dnia 18 października 2024 r. o zmianie ustawy o działaniach antyterrorystycznych i ustawy o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. poz. 1684), który stanowi: „ Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 10 czerwca 2016 r.
-o działaniach antyterrorystycznych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -42,7 +35,7 @@ o działaniach antyterrorystycznych
 
 - **1)** działaniach antyterrorystycznych – należy przez to rozumieć działania organów administracji publicznej polegające na zapobieganiu zdarzeniom o charakterze terrorystycznym, przygotowaniu do przejmowania nad nimi kontroli w drodze zaplanowanych przedsięwzięć, reagowaniu w przypadku wystąpienia takich zdarzeń oraz usuwaniu ich skutków, w tym odtwarzaniu zasobów przeznaczonych do reagowania na nie;
 - **2)** działaniach kontrterrorystycznych – należy przez to rozumieć działania wobec sprawców, osób przygotowujących lub pomagających w dokonaniu przestępstwa o charakterze terrorystycznym, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965), prowadzone w celu wyeliminowania bezpośredniego zagrożenia życia, zdrowia lub wolności osób lub mienia przy wykorzystaniu specjalistycznych sił i środków oraz specjalistycznej taktyki działania;
-- **3)** infrastrukturze administracji publicznej – należy przez to rozumieć systemy oraz obiekty niezbędne dla zapewnienia bezpiecznego i ciągłego funkcjonowania organów administracji publicznej;
+- **3)** (uchylony)
 - **4)** infrastrukturze krytycznej – należy przez to rozumieć infrastrukturę krytyczną, o której mowa w art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907);
 - **5)** Ministrze Koordynatorze Służb Specjalnych – należy przez to rozumieć Ministra – Członka Rady Ministrów, którego zakres działania, wyznaczony na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050 i 1473), obejmuje zadania związane z działalnością służb specjalnych w rozumieniu ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, 1222, 1562, 1684 i 1871);
 - **6)** miejscu zdarzenia o charakterze terrorystycznym – należy przez to rozumieć przestrzeń otwartą lub zamkniętą, w której nastąpiło zdarzenie o charakterze terrorystycznym lub w której wystąpił lub miał wystąpić jego skutek, oraz przestrzeń, w której występują zagrożenia związane ze zdarzeniem o charakterze terrorystycznym;
@@ -61,17 +54,17 @@ o działaniach antyterrorystycznych
 
 **Art. 4.**
 
-1. Organy administracji publicznej, właściciele i posiadacze obiektów, instalacji, urządzeń infrastruktury administracji publicznej lub infrastruktury krytycznej współpracują z organami, służbami i instytucjami właściwymi w sprawach bezpieczeństwa i zarządzania kryzysowego przy realizacji działań antyterrorystycznych.
+1. Organy administracji publicznej, operatorzy infrastruktury krytycznej, o których mowa w art. 3 pkt 3a ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, i kierownicy jednostek, o których mowa w art. 7 ust. 1 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532 oraz z 2026 r. poz. 815), współpracują z organami, służbami i instytucjami właściwymi w sprawach bezpieczeństwa i zarządzania kryzysowego przy realizacji działań antyterrorystycznych.
 
-2. Organy i podmioty, o których mowa w ust. 1, przekazują niezwłocznie Szefowi ABW będące w ich posiadaniu informacje dotyczące zagrożeń o charakterze terrorystycznym dla infrastruktury administracji publicznej lub infrastruktury krytycznej, w tym zagrożeń dla funkcjonowania systemów i sieci energetycznych, wodno-kanalizacyjnych, ciepłowniczych oraz teleinformatycznych istotnych z punktu widzenia bezpieczeństwa państwa.
+2. Organy i podmioty, o których mowa w ust. 1, przekazują niezwłocznie Szefowi ABW będące w ich posiadaniu informacje dotyczące zagrożeń o charakterze terrorystycznym, w tym zagrożeń dla funkcjonowania systemów i sieci energetycznych, wodno-kanalizacyjnych, ciepłowniczych oraz teleinformatycznych istotnych z punktu widzenia bezpieczeństwa państwa.
 
-3. W przypadku powzięcia informacji o możliwości wystąpienia zdarzenia o charakterze terrorystycznym zagrażającego infrastrukturze administracji publicznej lub infrastrukturze krytycznej, życiu lub zdrowiu ludzi, mieniu w znacznych rozmiarach, dziedzictwu narodowemu lub środowisku, Szef ABW może wydawać polecenia organom i podmiotom, o których mowa w ust. 1, z wyłączeniem podmiotów, o których mowa w art. 7, zagrożonym tymi zdarzeniami, mające na celu przeciwdziałanie zagrożeniom, ich usunięcie albo minimalizację, oraz przekazywać im informacje niezbędne do tego celu. Organy i podmioty, o których mowa w zdaniu pierwszym, informują Szefa ABW o podjętych działaniach w tym zakresie.
+3. W przypadku powzięcia informacji o możliwości wystąpienia zdarzenia o charakterze terrorystycznym zagrażającego infrastrukturze krytycznej, życiu lub zdrowiu ludzi, mieniu w znacznych rozmiarach, dziedzictwu narodowemu lub środowisku Szef ABW może wydawać polecenia organom i podmiotom, o których mowa w ust. 1, z wyłączeniem podmiotów, o których mowa w art. 7, zagrożonym tymi zdarzeniami mające na celu przeciwdziałanie zagrożeniom, ich usunięcie albo minimalizację oraz przekazywać im informacje niezbędne do tego celu. Organy i podmioty, o których mowa w zdaniu pierwszym, informują Szefa ABW o podjętych działaniach w tym zakresie.
 
 4. Szef ABW o podjętych działaniach, o których mowa w ust. 3, informuje niezwłocznie Ministra Koordynatora Służb Specjalnych, jeżeli został powołany.
 
 **Art. 5.**
 
-1. W celu realizacji zadania, o którym mowa w art. 3 ust. 1, Szef ABW koordynuje czynności analityczno-informacyjne podejmowane przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, oraz wymianę informacji przekazywanych przez Policję, Straż Graniczną, Straż Marszałkowską, Służbę Ochrony Państwa, Państwową Straż Pożarną, Generalnego Inspektora Informacji Finansowej, Krajową Administrację Skarbową, Żandarmerię Wojskową i Rządowe Centrum Bezpieczeństwa, dotyczących zdarzeń o charakterze terrorystycznym oraz danych o osobach, o których mowa w art. 6 ust. 1, przez ich gromadzenie, przetwarzanie i analizowanie.
+1. W celu realizacji zadania, o którym mowa w art. 3 ust. 1, Szef ABW koordynuje czynności analityczno-informacyjne podejmowane przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, oraz wymianę informacji przekazywanych przez Policję, Straż Graniczną, Straż Marszałkowską, Służbę Ochrony Państwa, Państwową Straż Pożarną, Generalnego Inspektora Informacji Finansowej, Krajową Administrację Skarbową, Żandarmerię Wojskową, straż ochrony kolei i Rządowe Centrum Bezpieczeństwa, dotyczących zdarzeń o charakterze terrorystycznym oraz danych o osobach, o których mowa w art. 6 ust. 1, przez ich gromadzenie, przetwarzanie i analizowanie.
 
 2. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych i Ministrem Obrony Narodowej oraz po zasięgnięciu opinii Szefa ABW, określi, w drodze rozporządzenia, katalog incydentów o charakterze terrorystycznym, uwzględniając potrzebę klasyfikacji informacji, o których mowa w ust. 1.
 
@@ -191,10 +184,14 @@ o działaniach antyterrorystycznych
 
 1. W przypadku wprowadzenia w trybie art. 16 ust. 1 drugiego stopnia alarmowego lub stopnia wyższego dokonuje się sprawdzenia zabezpieczeń obiektów na obszarze objętym stopniem alarmowym. Sprawdzenie zabezpieczeń przeprowadza:
 
-- **1)** Policja – w obiektach infrastruktury krytycznej;
-- **2)** Żandarmeria Wojskowa – w obiektach należących do komórek i jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych albo administrowanych przez te komórki i jednostki organizacyjne.
+- **1)** Policja – w obiektach infrastruktury krytycznej wskazanych przez Komendanta Głównego Policji w uzgodnieniu z Szefem ABW;
+- **2)** Żandarmeria Wojskowa – w obiektach stanowiących siedzibę urzędu obsługującego Ministra Obrony Narodowej oraz w obiektach należących do komórek i jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych albo administrowanych przez te komórki i jednostki organizacyjne, wskazanych przez Ministra Obrony Narodowej w uzgodnieniu z Szefem Służby Kontrwywiadu Wojskowego.
 
-2. Szef ABW, w uzgodnieniu z ministrem właściwym do spraw wewnętrznych, może wydać Policji zalecenie szczególnego zabezpieczenia poszczególnych obiektów uwzględniające rodzaj zagrożenia wystąpieniem zdarzenia o charakterze terrorystycznym.
+2. W przypadku wprowadzenia w trybie art. 16 ust. 1 drugiego stopnia alarmowego lub stopnia wyższego minister właściwy do spraw wewnętrznych, z urzędu lub na wniosek Szefa ABW, może wydać Policji zalecenie szczególnego zabezpieczenia poszczególnych obiektów, urządzeń, instalacji, sieci lub systemów stanowiących infrastrukturę krytyczną lub obszarów, obiektów lub urządzeń wpisanych do ewidencji, o której mowa w art. 5 ust. 5 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, uwzględniając rodzaj zagrożenia wystąpieniem zdarzenia o charakterze terrorystycznym.
+
+3. W przypadku wprowadzenia w trybie art. 16 ust. 1 trzeciego lub czwartego stopnia alarmowego minister właściwy do spraw wewnętrznych, z urzędu lub na wniosek Szefa ABW, może wydać Policji zalecenie szczególnego zabezpieczenia innych obiektów, urządzeń, instalacji, sieci, systemów lub obszarów niż określone w ust. 2, uwzględniając rodzaj zagrożenia wystąpieniem zdarzenia o charakterze terrorystycznym.
+
+4. Komendant Główny Policji i Szef ABW określą, w drodze porozumienia, tryb wskazywania obiektów infrastruktury krytycznej, o których mowa w ust. 1 pkt 1.
 
 **Art. 13.**
 
@@ -298,7 +295,7 @@ o działaniach antyterrorystycznych
 
 8. Stopnie wymienione w ust. 1 i 2 mogą być wprowadzane rozdzielnie lub łącznie.
 
-9. W przypadku wprowadzenia różnych stopni alarmowych i różnych stopni alarmowych CRP należy wykonać zadania przewidziane dla stopnia wyższego.
+9. W przypadku wprowadzenia różnych stopni alarmowych i różnych stopni alarmowych CRP należy wykonać przedsięwzięcia przewidziane dla stopnia wyższego.
 
 10. Stopnie alarmowe i stopnie alarmowe CRP odwołuje się niezwłocznie po minimalizacji zagrożenia lub skutków zdarzenia będącego przesłanką do ich wprowadzenia.
 
@@ -309,7 +306,7 @@ o działaniach antyterrorystycznych
 - **1)** na całym terytorium Rzeczypospolitej Polskiej;
 - **2)** na obszarze jednej lub kilku jednostek podziału terytorialnego kraju;
 - **3)** na obszarze określonym w sposób inny niż przez odniesienie do jednostek podziału terytorialnego kraju;
-- **4)** dla określonych obiektów jednostek organizacyjnych administracji publicznej, prokuratury, sądów lub innych obiektów infrastruktury administracji publicznej lub infrastruktury krytycznej;
+- **4)** dla określonych obiektów jednostek organizacyjnych administracji publicznej, prokuratury, sądów lub obiektów infrastruktury krytycznej;
 - **5)** w przypadku gdy skutki zdarzenia o charakterze terrorystycznym mogą dotyczyć obywateli polskich przebywających za granicą Rzeczypospolitej Polskiej lub instytucji polskich albo polskiej infrastruktury mieszczących się poza granicami Rzeczypospolitej Polskiej innych niż placówki zagraniczne Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840).
 
 2. Stopnie alarmowe lub stopnie alarmowe CRP wprowadza, zmienia i odwołuje, w drodze zarządzenia, w zależności od rodzaju zagrożenia zdarzeniem o charakterze terrorystycznym, Prezes Rady Ministrów, po zasięgnięciu opinii ministra właściwego do spraw zagranicznych i Szefa Agencji Wywiadu, a w przypadkach niecierpiących zwłoki – minister właściwy do spraw zagranicznych, po zasięgnięciu opinii Szefa Agencji Wywiadu, informując o tym niezwłocznie Prezesa Rady Ministrów:
@@ -332,11 +329,17 @@ o działaniach antyterrorystycznych
 
 **Art. 17.**
 
-1. W przypadku wprowadzenia stopnia alarmowego lub stopnia alarmowego CRP w trybie art. 16 ust. 1 Szef ABW powołuje sztab koordynacyjny, w skład którego wchodzą przedstawiciele wyznaczeni przez służby specjalne oraz podmioty, o których mowa w art. 5 ust. 1.
+1. W przypadku wprowadzenia pierwszego lub drugiego stopnia alarmowego lub pierwszego lub drugiego stopnia alarmowego CRP w trybie art. 16 ust. 1 Szef ABW może powołać sztab koordynacyjny, w którego skład wchodzą przedstawiciele wyznaczeni przez podmioty, o których mowa w art. 5 ust. 1.
+
+1a. W przypadku wprowadzenia trzeciego lub czwartego stopnia alarmowego lub trzeciego lub czwartego stopnia alarmowego CRP w trybie art. 16 ust. 1 Szef ABW powołuje sztab koordynacyjny, o którym mowa w ust. 1.
 
 2. Szef ABW może powołać do udziału w pracach sztabu koordynacyjnego, w zależności od rodzaju zdarzenia o charakterze terrorystycznym, przedstawicieli innych organów, o których mowa w art. 6 ust. 2 pkt 2, oraz przedstawiciela Prokuratora Generalnego, wyznaczonych przez te organy.
 
-3. Do zadań sztabu koordynacyjnego należy rekomendowanie zmiany lub odwołania stopnia alarmowego oraz form i zakresu współdziałania służb i organów wchodzących w skład sztabu koordynacyjnego i biorących udział w jego pracach.
+3. Do zadań sztabu koordynacyjnego należy:
+
+- **1)** rekomendowanie zmiany lub odwołania stopnia alarmowego lub stopnia alarmowego CRP;
+- **2)** dokonywanie oceny stopnia zagrożenia infrastruktury krytycznej zlokalizowanej na obszarze objętym obowiązywaniem stopnia alarmowego lub stopnia alarmowego CRP oraz wydawanie rekomendacji zmierzających do jej odpowiedniego zabezpieczenia;
+- **3)** rekomendowanie form i zakresu współdziałania podmiotów wchodzących w skład sztabu koordynacyjnego i biorących udział w jego pracach.
 
 #### Rozdział 4 Działania antyterrorystyczne na miejscu zdarzenia o charakterze terrorystycznym, w tym działania kontrterrorystyczne
 

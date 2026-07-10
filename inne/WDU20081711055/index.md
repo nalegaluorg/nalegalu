@@ -24,8 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2008-09-04 |
 | Data wydania | 2008-09-23 |
-| Wejście w życie | 2008-10-08 |
-| Ostatnia zmiana | 2026-06-19 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081711055) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1055/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -45,7 +44,8 @@ source: pdf
 - **1)** międzysystemowego Gazociągu Bałtyckiego (Baltic Pipe) stanowiącego połączenie systemów przesyłowych Rzeczypospolitej Polskiej i Królestwa Danii wraz z infrastrukturą niezbędną do jego obsługi na terenie obszarów morskich Rzeczypospolitej Polskiej;
 - **2)** obiektów, urządzeń i instalacji wchodzących w skład infrastruktury zapewniającej dostęp do portów o podstawowym znaczeniu dla gospodarki narodowej;
 - **3)** wykorzystywanych w wyłącznej strefie ekonomicznej sztucznych wysp, wszelkiego rodzaju konstrukcji i urządzeń przeznaczonych do rozpoznawania lub eksploatacji zasobów, jak również innych przedsięwzięć w zakresie gospodarczego badania i eksploatacji wyłącznej strefy ekonomicznej, w szczególności w celach energetycznych, w tym morskich farm wiatrowych w rozumieniu art. 3 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2024 r. poz. 182), zwanej dalej „ustawą o promowaniu”, i zespołów urządzeń służących do wyprowadzenia mocy w rozumieniu art. 3 pkt 13 ustawy o promowaniu, oraz podmorskich sieci elektroenergetycznych i światłowodowych lub rurociągów, a także związanej z nimi infrastruktury;
-- **4)** terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu.
+- **4)** terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu;
+- **5)** terminalu morskiego przeładunku ropy i paliw ciekłych w Gdańsku.
 
 **Art. 2.**
 
@@ -472,6 +472,86 @@ source: pdf
 
 3. Decyzję doręcza się za pośrednictwem posłańca lub przy użyciu telefaksu, poczty elektronicznej albo w szczególnych przypadkach – ogłasza się ustnie. W razie doręczenia decyzji przy użyciu telefaksu lub poczty elektronicznej, dowodem doręczenia jest potwierdzenie transmisji danych.
 
+**Art. 25a.**
+
+1. Centrum Bezpieczeństwa Morskiego, zwane dalej „CBM”, zapewnia wsparcie wymiany informacji pomiędzy organami lub podmiotami realizującymi zadania w zakresie zapobiegania, ograniczania lub usuwania poważnego niebezpieczeństwa grożącego:
+
+- **1)** obiektom portowym i portom morskim oraz związanej z nimi infrastrukturze,
+- **2)** obiektom, urządzeniom i instalacjom wchodzącym w skład infrastruktury zapewniającej dostęp do portów o podstawowym znaczeniu dla gospodarki narodowej,
+- **3)** zlokalizowanym na polskich obszarach morskich obiektom, urządzeniom i instalacjom wchodzącym w skład infrastruktury służącej do:
+    - **a)** wytwarzania lub przesyłania źródeł energii lub surowców energetycznych, w tym morskim farmom wiatrowym w rozumieniu art. 3 pkt 3 ustawy o promowaniu i zespołom urządzeń służącym do wyprowadzenia mocy w rozumieniu art. 3 pkt 13 tej ustawy oraz podmorskim sieciom elektroenergetycznym i światłowodowym lub rurociągom, a także związanej z nimi infrastrukturze,
+    - **b)** telekomunikacji w rozumieniu art. 2 pkt 70 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252 i 815),
+
+- **4)** wykorzystywanym w wyłącznej strefie ekonomicznej sztucznym wyspom, konstrukcjom i urządzeniom przeznaczonym do gospodarczego badania i eksploatacji zasobów wyłącznej strefy ekonomicznej – zwanym dalej „infrastrukturą morską”, oraz statkom, a także zadania w zakresie ochrony granicy państwowej na morzu oraz ochrony życia lub zdrowia ludzi, mienia w znacznych rozmiarach lub środowiska zlokalizowanych na polskich obszarach morskich w rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125, z 2025 r. poz. 409, 1535 i 1668 oraz z 2026 r. poz. 252).
+
+2. Siedziba CBM mieści się we wskazanym przez Komendanta Głównego Straży Granicznej oddziale Straży Granicznej.
+
+3. CBM kieruje wyznaczony przez Komendanta Głównego Straży Granicznej komendant oddziału Straży Granicznej lub jego zastępca, zwany dalej „Szefem CBM”.
+
+4. Do zadań CBM należy:
+
+- **1)** bieżące monitorowanie zagrożeń,
+- **2)** wspieranie wymiany informacji pomiędzy organami lub podmiotami, o których mowa w art. 25b ust. 1,
+- **3)** wspieranie współpracy z właściwymi organami innych państw,
+- **4)** wspieranie procesu decyzyjnego właściwych organów lub podmiotów oraz podejmowanych przez nie działań,
+- **5)** opracowywanie raportów dotyczących zagrożeń – w odniesieniu do żeglugi, infrastruktury morskiej, statków, granicy państwowej na morzu, życia lub zdrowia ludzi, mienia w znacznych rozmiarach lub środowiska na polskich obszarach morskich.
+
+5. CBM realizuje zadania w systemie całodobowym przez 7 dni w tygodniu.
+
+6. Koordynację wspólnej realizacji zadań określonych w ust. 4 zapewnia Szef CBM.
+
+**Art. 25b.**
+
+1. W ramach CBM współdziałają przedstawiciele Ministra Obrony Narodowej, Szefa Służby Kontrwywiadu Wojskowego, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Służby Wywiadu Wojskowego, Komendanta Głównego Policji, Komendanta Głównego Państwowej Straży Pożarnej, Szefa Krajowej Administracji Skarbowej, Dyrektora Morskiej Służby Poszukiwania i Ratownictwa, dyrektorów urzędów morskich oraz właściwych terytorialnie wojewodów, operatorów infrastruktury krytycznej, o których mowa w art. 3 pkt 3a ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, i kierowników jednostek, o których mowa w art. 7 ust. 1 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, którzy wspólnie ze Strażą Graniczną realizują zadania określone w art. 25a ust. 4 na zasadach określonych w porozumieniu zawartym między właściwym organem lub podmiotem a Komendantem Głównym Straży Granicznej.
+
+2. Wspólna realizacja zadań określonych w art. 25a ust. 4 w przypadku przedstawicieli:
+
+- **1)** Ministra Obrony Narodowej, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Krajowej Administracji Skarbowej, Dyrektora Morskiej Służby Poszukiwania i Ratownictwa oraz dyrektorów urzędów morskich – jest wykonywana w siedzibie CBM;
+- **2)** Szefa Agencji Wywiadu, Szefa Służby Kontrwywiadu Wojskowego, Szefa Służby Wywiadu Wojskowego, Komendanta Głównego Policji, Komendanta Głównego Państwowej Straży Pożarnej, właściwych terytorialnie wojewodów, operatorów infrastruktury krytycznej, o których mowa w art. 3 pkt 3a ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, i kierowników jednostek, o których mowa w art. 7 ust. 1 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia – jest wykonywana w siedzibie CBM lub w siedzibie organu lub podmiotu, którego jest przedstawicielem.
+
+3. Komendant Główny Straży Granicznej występuje do organu lub podmiotu, o których mowa w ust. 1, z wnioskiem o wyznaczenie przedstawicieli oraz zawarcie porozumienia.
+
+4. Wniosek, o którym mowa w ust. 3, zawiera w szczególności:
+
+- **1)** zakres zadań i obowiązków oraz kwalifikacje, uprawnienia lub umiejętności wymagane do ich wykonywania;
+- **2)** wymagania w zakresie posiadania poświadczenia bezpieczeństwa upoważniającego do dostępu do informacji niejawnych i okresu jego ważności;
+- **3)** proponowany czas pracy albo służby przedstawicieli organu lub podmiotu, o których mowa w ust. 1, z uwzględnieniem możliwości jej wykonywania w systemie zmianowym;
+- **4)** miejsce wykonywania zadań określonych w art. 25a ust. 4 przez przedstawicieli organu lub podmiotu, o których mowa w ust. 1;
+- **5)** liczbę przedstawicieli organu lub podmiotu, o których mowa w ust. 1, niezbędną do wykonywania zadań określonych w art. 25a ust. 4 w celu zapewnienia ciągłości działania CBM.
+
+5. Wniosek, o którym mowa w ust. 3, może zawierać imię i nazwisko przedstawiciela organu lub podmiotu, o których mowa w ust. 1. Organ lub podmiot, o których mowa w ust. 1, może odmówić wyznaczenia osoby, której dotyczy wniosek, jeżeli jest to uzasadnione potrzebami tego organu lub podmiotu.
+
+6. Organ lub podmiot, o których mowa w ust. 1, w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3, zawiadamia Komendanta Głównego Straży Granicznej o wyznaczonych przedstawicielach.
+
+7. Porozumienie, o którym mowa w ust. 1, określa w szczególności:
+
+- **1)** datę zawarcia porozumienia;
+- **2)** miejsce wykonywania zadań określonych w art. 25a ust. 4 przez przedstawicieli organu lub podmiotu, o których mowa w ust. 1;
+- **3)** imiona i nazwiska przedstawicieli organu lub podmiotu, o których mowa w ust. 1;
+- **4)** stopnie przedstawicieli organu lub podmiotu, o których mowa w ust. 1, w przypadku gdy są oni funkcjonariuszami albo żołnierzami;
+- **5)** numery poświadczeń bezpieczeństwa wydanych przedstawicielom organu lub podmiotu, o których mowa w ust. 1, daty ich wydania i wystawcę takich poświadczeń oraz okres ważności i oznaczenie klauzul upoważniających do przetwarzania informacji niejawnych;
+- **6)** zakres zadań i obowiązków przedstawicieli organu lub podmiotu, o których mowa w ust. 1, oraz sposób organizacji wykonywania tych zadań i obowiązków;
+- **7)** ustalony czas pracy albo służby przedstawicieli organu lub podmiotu, o których mowa w ust. 1;
+- **8)** osobę odpowiedzialną za organizację i koordynację zadań realizowanych w CBM oraz za monitorowanie ich realizacji.
+
+8. W przypadku planowanej zmiany przedstawiciela organ lub podmiot, o których mowa w ust. 1, wskazuje kolejnego przedstawiciela w celu zapewnienia ciągłości działania CBM. W takim przypadku dokonuje się zmiany zawartego porozumienia.
+
+9. Organ lub podmiot, o których mowa w ust. 1, wypłaca swoim przedstawicielom uposażenie albo wynagrodzenie i inne świadczenia oraz należności pieniężne.
+
+**Art. 25c.**
+
+1. W szczególnie uzasadnionych przypadkach związanych z zagrożeniem wystąpieniem poważnego niebezpieczeństwa Szef CBM powołuje sztab koordynacyjny, w którego skład wchodzą przedstawiciele organu lub podmiotu, o których mowa w art. 25b ust. 1.
+
+2. Do zadań sztabu koordynacyjnego należy dokonywanie aktualnej oceny stopnia zagrożenia infrastruktury morskiej, statków lub granicy państwowej na morzu oraz wydawanie rekomendacji zmierzających do odpowiedniego zabezpieczenia tej infrastruktury, tych statków lub tej granicy.
+
+**Art. 25d.**
+
+1. Organy i podmioty, o których mowa w art. 25b ust. 1, przekazują do CBM informacje na temat zagrożeń, o których mowa w art. 25a ust. 4.
+
+2. Prezes Rady Ministrów określi, w drodze rozporządzenia, katalog i klasyfikację zagrożeń, o których mowa w art. 25a ust. 4, uwzględniając potrzebę zapewnienia skutecznego i kompleksowego przekazywania informacji do CBM.
+
+**Art. 25e.** Komendant Główny Straży Granicznej, w terminie do dnia 31 marca każdego roku kalendarzowego, przedstawia ministrowi właściwemu do spraw wewnętrznych sprawozdanie z działania CBM w poprzednim roku kalendarzowym.
+
 **Art. 26.** W celu zapobieżenia lub ograniczenia zagrożenia ochrony żeglugi i portów dyrektor właściwego urzędu morskiego, w odniesieniu do każdego statku, może:
 
 - **1)** nakazać, aby statek udał się na określoną pozycję na morzu;
@@ -489,7 +569,8 @@ source: pdf
 - **2)** międzysystemowemu Gazociągowi Bałtyckiemu (Baltic Pipe) stanowiącemu połączenie systemów przesyłowych Rzeczypospolitej Polskiej i Królestwa Danii wraz z infrastrukturą niezbędną do jego obsługi na terenie obszarów morskich Rzeczypospolitej Polskiej,
 - **3)** obiektom, urządzeniom i instalacjom wchodzącym w skład infrastruktury zapewniającej dostęp do portów o podstawowym znaczeniu dla gospodarki narodowej,
 - **4)** wykorzystywanym w wyłącznej strefie ekonomicznej sztucznym wyspom, wszelkiego rodzaju konstrukcjom i urządzeniom przeznaczonym do rozpoznawania lub eksploatacji zasobów, jak również innym przedsięwzięciom w zakresie gospodarczego badania i eksploatacji wyłącznej strefy ekonomicznej, w szczególności w celach energetycznych, w tym morskim farmom wiatrowym w rozumieniu art. 3 pkt 3 ustawy o promowaniu i zespołom urządzeń służącym do wyprowadzenia mocy w rozumieniu art. 3 pkt 13 ustawy o promowaniu, oraz podmorskim sieciom elektroenergetycznym i światłowodowym lub rurociągom, a także związanej z nimi infrastrukturze,
-- **5)** terminalowi regazyfikacyjnemu skroplonego gazu ziemnego w Świnoujściu – powstałego na skutek użycia statku lub obiektu pływającego jako środka ataku o charakterze terrorystycznym, w przypadku gdy siły i środki Policji oraz Straży Granicznej są niewystarczające lub mogą okazać się niewystarczające, Minister Obrony Narodowej, na wniosek ministra właściwego do spraw wewnętrznych, może podjąć decyzję o zastosowaniu przez Siły Zbrojne Rzeczypospolitej Polskiej na polskich obszarach morskich niezbędnych środków, do zatopienia tego statku lub obiektu pływającego włącznie.
+- **5)** terminalowi regazyfikacyjnemu skroplonego gazu ziemnego w Świnoujściu,
+- **6)** terminalowi morskiego przeładunku ropy i paliw ciekłych w Gdańsku – powstałego na skutek użycia statku lub obiektu pływającego jako środka ataku o charakterze terrorystycznym, w przypadku gdy siły i środki Policji oraz Straży Granicznej są niewystarczające lub mogą okazać się niewystarczające, Minister Obrony Narodowej, na wniosek ministra właściwego do spraw wewnętrznych, może podjąć decyzję o zastosowaniu przez Siły Zbrojne Rzeczypospolitej Polskiej na polskich obszarach morskich niezbędnych środków, do zatopienia tego statku lub obiektu pływającego włącznie.
 
 2. Wniosek o podjęcie decyzji o zastosowaniu przez Siły Zbrojne Rzeczypospolitej Polskiej na polskich obszarach morskich niezbędnych środków w celu zapobieżenia, ograniczenia lub usunięcia poważnego i bezpośredniego niebezpieczeństwa grożącego obiektom, o których mowa w ust. 1, może być skutecznie przekazany także ustnie, telefonicznie, za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344) lub za pomocą innych środków łączności, a ich treść oraz istotne motywy takiego załatwienia sprawy utrwala się w formie pisemnej w postaci papierowej.
 
@@ -578,6 +659,27 @@ source: pdf
 1. Każdy, a w szczególności SSO, CSO i PFSO, ma obowiązek zastosowania się do poleceń i instrukcji dotyczących ochrony żeglugi i portów, wydanych przez organy administracji morskiej.
 
 2. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób przekazywania i obiegu informacji w zakresie ochrony żeglugi i portów, mając na uwadze konieczność zapewnienia bezpieczeństwa teleinformatycznego przetwarzanych i przekazywanych informacji oraz ochronę informacji niejawnych.
+
+#### Rozdział 6a Zapobieganie bezprawnemu wykonywaniu operacji z użyciem bezzałogowych obiektów pływających
+
+**Art. 28a.**
+
+1. Bezzałogowy obiekt pływający może zostać zniszczony, unieruchomiony albo może nad nim zostać przejęta kontrola, w przypadku gdy:
+
+- **1)** przebieg operacji lub działanie bezzałogowego obiektu pływającego:
+    - **a)** zagraża lub może zagrozić życiu lub zdrowiu ludzi lub zwierząt,
+    - **b)** stwarza lub może stworzyć zagrożenie dla chronionych obiektów, urządzeń lub obszarów,
+    - **c)** stwarza lub może stworzyć uzasadnione podejrzenie, że może zostać użyty jako środek ataku terrorystycznego,
+    - **d)** stwarza lub może stworzyć zagrożenie bezpieczeństwa jednostki pływającej lub życia lub zdrowia załogi lub pasażerów znajdujących się na jej pokładzie,
+    - **e)** utrudnia lub może utrudnić ruch w portach morskich lub powoduje lub może spowodować jego wstrzymanie lub ograniczenie;
+
+- **2)** bezzałogowy obiekt pływający wbrew zakazowi wykonuje operację na polskich obszarach morskich.
+
+2. Do zniszczenia, unieruchomienia bezzałogowego obiektu pływającego albo przejęcia nad nim kontroli, w związku z realizacją zadań ustawowych, są uprawnieni na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2026 r. poz. 244, 737 i 815) funkcjonariusze Policji, Straży Granicznej, Służby Ochrony Państwa oraz, zgodnie z zakresem właściwości miejscowej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, o których mowa w art. 2 pkt 7 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia.
+
+3. Do zniszczenia, unieruchomienia bezzałogowego obiektu pływającego albo przejęcia nad nim kontroli, w związku z realizacją zadań ustawowych, na terenie chronionych obiektów Sił Zbrojnych Rzeczypospolitej Polskiej oraz jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej są uprawnieni na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej żołnierze Żandarmerii Wojskowej oraz Sił Zbrojnych Rzeczypospolitej Polskiej.
+
+4. Za szkody powstałe w wyniku zniszczenia, unieruchomienia albo przejęcia kontroli nad bezzałogowym obiektem pływającym w przypadkach, o których mowa w ust. 1, odpowiada właściciel lub operator lub armator bezzałogowego obiektu pływającego zniszczonego, unieruchomionego albo nad którym przejęto kontrolę.
 
 #### Rozdział 7 Weryfikacja ochrony żeglugi i portów
 

@@ -140,8 +140,7 @@ I DOSKONALENIE − Doskonalenie wiedzy i umiejętności niezbędnych do ZAWODOWE
 − Dostrzeganie wkładu pracy innych osób.
 − Branie pod uwagę zdania innych osób.
 − Dzielenie się wiedzą i doświadczeniem.
-12. WYSTĄPIENIA − Wykorzystywanie różnych środków przekazu (np.
-PUBLICZNE narzędzi multimedialnych) i dbałość o sposób prezentacji (w tym autoprezentacji).
+12. WYSTĄPIENIA − Wykorzystywanie różnych środków przekazu (np. PUBLICZNE narzędzi multimedialnych) i dbałość o sposób prezentacji (w tym autoprezentacji).
 − Nawiązywanie i utrzymywanie kontaktu z audytorium.
 − Zarządzanie czasem wystąpienia, w szczególności przestrzeganie ram czasowych, elastyczne reagowanie na potrzeby audytorium.
 − Radzenie sobie ze stresem i emocjami, w szczególności wywołanymi krytyką i trudnymi pytaniami.

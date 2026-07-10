@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2003-03-28 |
 | Data wydania | 2003-05-17 |
-| Ostatnia zmiana | 2026-01-26 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030860789) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/789/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -120,9 +120,7 @@ source: pdf
 - **6e)** (uchylony) 6f) pojazd kolejowy specjalny – pojazd kolejowy przeznaczony do utrzymania, naprawy lub budowy infrastruktury kolejowej, lub przeznaczony do prowadzenia działań ratowniczych;
 - **6g)** krajowy rejestr infrastruktury (RINF) – rejestr infrastruktury kolejowej, a także bocznic kolejowych eksploatowanych na terytorium Rzeczypospolitej Polskiej;
 - **6h)** pojazd historyczny – pojazd kolejowy:
-    - **a)** wpisany do inwentarza muzealiów, o którym mowa w ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385), lub do inwentarza muzeum lub rejestru zabytków, lub wojewódzkiej ewidencji zabytków, o których mowa w ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz.
-
-- **1168)** , lub
+    - **a)** wpisany do inwentarza muzealiów, o którym mowa w ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385), lub do inwentarza muzeum lub rejestru zabytków, lub wojewódzkiej ewidencji zabytków, o których mowa w ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168), lub
     - **b)** będący lokomotywą parową eksploatowaną przed dniem 14 listopada 1997 r., lub
     - **c)** spełniający co najmniej jeden z następujących warunków: – zawiera rozwiązania konstrukcyjne o charakterze unikatowym dokumentujące etapy rozwoju techniki kolejowej, – jest związany z wydarzeniami historycznymi lub był użytkowany przez znane postacie historyczne;
 
@@ -479,9 +477,7 @@ source: pdf
 
 5a. Wojewoda uzgadnia projekt decyzji o ustaleniu lokalizacji inwestycji linii kolejowej z dyrektorem regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w zakresie dotyczącym zabudowy i zagospodarowania przestrzennego terenu położonego na obszarach szczególnego zagrożenia powodzią.
 
-5b. Uzgodnienia projektu decyzji o ustaleniu lokalizacji inwestycji linii kolejowej, o którym mowa w ust. 5a, dokonuje się w drodze decyzji, o której mowa w art. 166 ust. 5 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz.
-
-- **960)** , w terminie 14 dni od dnia doręczenia projektu decyzji o ustaleniu lokalizacji linii kolejowej. W przypadku niezajęcia stanowiska przez dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie we wskazanym terminie uzgodnienie uznaje się za dokonane.
+5b. Uzgodnienia projektu decyzji o ustaleniu lokalizacji inwestycji linii kolejowej, o którym mowa w ust. 5a, dokonuje się w drodze decyzji, o której mowa w art. 166 ust. 5 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960), w terminie 14 dni od dnia doręczenia projektu decyzji o ustaleniu lokalizacji linii kolejowej. W przypadku niezajęcia stanowiska przez dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie we wskazanym terminie uzgodnienie uznaje się za dokonane.
 
 5c. Stronami postępowania w sprawie wydania decyzji o uzgodnieniu projektu decyzji o ustaleniu lokalizacji inwestycji linii kolejowej są wnioskodawca oraz inwestor.
 
@@ -3802,6 +3798,24 @@ source: pdf
 3. Kopię wniosku, o którym mowa w ust. 2, zarządca, który go otrzymał, przekazuje do rozpatrzenia pozostałym zarządcom, których wniosek dotyczy.
 
 4. Zarządca, który otrzymał wniosek, o którym mowa w ust. 2, do czasu przydzielenia zdolności przepustowej, współpracuje z pozostałymi zarządcami w imieniu aplikanta.
+
+**Art. 29g.**
+
+1. W sytuacji kryzysowej, jeżeli wymagają tego potrzeby obronności lub istotny interes bezpieczeństwa państwa, właściwy miejscowo wojewoda może, w drodze rozporządzenia porządkowego, po zasięgnięciu opinii zarządcy infrastruktury kolejowej, wprowadzić czasowe ograniczenia w dostępie do infrastruktury kolejowej, w tym całkowicie wyłączyć dostęp do infrastruktury kolejowej. W tym celu właściwy miejscowo wojewoda może nałożyć na zarządcę infrastruktury kolejowej oraz inne organy i podmioty, w zakresie właściwości ich działania, obowiązki zapewniające wykonanie tego rozporządzenia.
+
+2. Rozporządzenie porządkowe określa:
+
+- **1)** linie kolejowe, opisane zgodnie z wykazem linii kolejowych zawartym w regulaminie sieci, o którym mowa w art. 32 ust. 1, wraz ze wskazaniem kilometraża odcinków linii kolejowych, na których wprowadza się czasowe ograniczenia w dostępie do infrastruktury kolejowej, w tym całkowicie wyłącza się dostęp do infrastruktury kolejowej;
+- **2)** rodzaj czasowego ograniczenia w dostępie do infrastruktury kolejowej, w tym wskazuje przewozy priorytetowe lub ładunki z pierwszeństwem dostępu do infrastruktury kolejowej oraz przejazdu;
+- **3)** okres, na który wprowadza się ograniczenia w dostępie do infrastruktury kolejowej, w tym całkowicie wyłącza się dostęp do infrastruktury kolejowej;
+- **4)** koordynatora przewozów priorytetowych lub ładunków z pierwszeństwem dostępu do infrastruktury kolejowej oraz przejazdu na liniach kolejowych, o których mowa w pkt 1;
+- **5)** obowiązki zarządcy infrastruktury kolejowej oraz innych organów i podmiotów.
+
+3. Rozporządzenie porządkowe, o którym mowa w ust. 1, może być ogłoszone w drodze obwieszczenia lub za pomocą środków komunikacji elektronicznej, lub w inny sposób zwyczajowo przyjęty na danym terenie.
+
+4. Operatorzy obiektów infrastruktury usługowej zapewniają pierwszeństwo w obsłudze przewozom priorytetowym lub ładunkom z pierwszeństwem dostępu do infrastruktury kolejowej oraz przejazdu, w zakresie wskazanym przez koordynatora, o którym mowa w ust. 2 pkt 4.
+
+5. Jeżeli w opinii, o której mowa w ust. 1, zarządca infrastruktury kolejowej wskazuje na konieczność wprowadzenia czasowego ograniczenia w dostępie do infrastruktury kolejowej, w tym całkowitego wyłączenia dostępu do infrastruktury kolejowej, zlokalizowanej poza obszarem właściwości wojewody wydającego rozporządzenie porządkowe, wojewoda przekazuje tę opinię pozostałym właściwym miejscowo wojewodom.
 
 **Art. 30.**
 

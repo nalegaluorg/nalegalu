@@ -106,8 +106,7 @@ Skierowanie na cykl zabiegów powinno zawierać:
 3) rozpoznanie w języku polskim;
 4) kod jednostki chorobowej według Klasyfikacji ICD-10;
 5) opis dysfunkcji narządu ruchu, deficytu neurologicznego lub innej przyczyny kierowania na rehabilitację;
-6) choroby przebyte i współistniejące oraz inne czynniki (np.
-wszczepione urządzenia wspomagające pracę układu krążeniowo-oddechowego lub metal w ciele pacjenta, przyjmowanie niektórych leków) mogące mieć istotny wpływ na proces rehabilitacji;
+6) choroby przebyte i współistniejące oraz inne czynniki (np. wszczepione urządzenia wspomagające pracę układu krążeniowo-oddechowego lub metal w ciele pacjenta, przyjmowanie niektórych leków) mogące mieć istotny wpływ na proces rehabilitacji;
 7) zlecone zabiegi fizjoterapeutyczne wraz z określeniem okolicy ciała, ewentualnej strony (prawa, lewa) oraz liczbę poszczególnych zabiegów w cyklu;
 8) pieczęć i podpis lekarza kierującego oraz datę wystawienia skierowania.
 8. Czas pracy gabinetu, zakładu rehabilitacji lub fizjoterapii: Gabinet, zakład rehabilitacji lub fizjoterapii jest czynny co najmniej 5 dni w tygodniu, nie krócej niż 5 godzin dziennie bez przerwy, w tym co najmniej 2 dni w przedziale czasowym od 13.00 do 18.00.

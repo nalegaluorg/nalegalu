@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-02-02 |
 | Data wydania | 2023-03-10 |
-| Ostatnia zmiana | 2026-05-25 |
+| Ostatnia zmiana | 2026-06-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000467) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/467/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek

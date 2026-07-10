@@ -193,9 +193,7 @@ source: pdf
 - **1)** skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, albo
 - **2)** zaświadczenia o braku przeciwwskazań do korzystania z danego rodzaju świadczeń zdrowotnych w danym uzdrowisku.
 
-**Art. 15.** W sprawach nieuregulowanych w ustawie do zakładów lecznictwa uzdrowiskowego mają zastosowanie przepisy ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620 i 637), ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz.
-
-- **581)** , ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2025 r. poz. 254) oraz ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692).
+**Art. 15.** W sprawach nieuregulowanych w ustawie do zakładów lecznictwa uzdrowiskowego mają zastosowanie przepisy ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620 i 637), ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581), ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2025 r. poz. 254) oraz ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692).
 
 **Art. 15a.** Do zakładów lecznictwa uzdrowiskowego nie mają zastosowania wymagania dotyczące minimalnych norm zatrudnienia w aptekach szpitalnych i działach farmacji szpitalnej, określonych w art. 87a ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905 i 924).
 

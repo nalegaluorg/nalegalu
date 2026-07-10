@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych.*
 
 Łącznie: **2076** orzeczeń
-(pominięto 618 orzeczeń sądów rejonowych)
+(pominięto 619 orzeczeń sądów rejonowych)
 
 ## art. 1 (36)
 

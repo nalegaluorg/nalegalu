@@ -49,8 +49,7 @@ Kryteria kwalifikacji osób wymagających udzielenia świadczenia:
 2) niepełnosprawność intelektualna z cechami dysmorfii lub bez nich, lub
 3) opóźnienie rozwoju psychoruchowego, lub
 4) autyzm z towarzyszącą niepełnosprawnością intelektualną lub opóźnieniem rozwoju, lub cechami dysmorfii lub wadami rozwojowymi, lub
-5) strukturalne wady wrodzone – dotyczące co najmniej jednego narządu lub układu, zespoły wad, duże wady izolowane jednego narządu, np.
-serca, nerek, mózgu, kończyn, lub
+5) strukturalne wady wrodzone – dotyczące co najmniej jednego narządu lub układu, zespoły wad, duże wady izolowane jednego narządu, np. serca, nerek, mózgu, kończyn, lub
 6) padaczka o podejrzewanym podłożu genetycznym, lub
 7) rozpoznanie lub podejrzenie zespołu genetycznego, w którym mogą występować zmiany typu zmiany liczby kopii (ang. Copy Number Variants, CNV) (mikrodelecje lub mikroduplikacje), lub
 8) badanie rodziców w przypadku stwierdzenia udziecka patogennej zmiany typu CNV, lub

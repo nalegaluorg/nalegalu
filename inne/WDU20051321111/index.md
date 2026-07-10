@@ -450,9 +450,7 @@ source: pdf
 
 3. Państwowa instytucja kultury wyspecjalizowana w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii udostępnia Instytutowi zgromadzone materiały filmowe, w tym materiały wyjściowe i promocyjne, w celu wykorzystania ich do działalności określonej w ustawie lub w statucie. Wysokość opłat za udostępnianie materiałów określi minister w drodze zarządzenia.
 
-4. Samorządy lokalne mogą tworzyć filmoteki regionalne w formie samorządowych instytucji kultury w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz.
-
-- **194)** . Zakres działania filmotek regionalnych określa ust. 2, ze szczególnym uwzględnieniem dziedzictwa kulturalnego kinematografii w regionie.
+4. Samorządy lokalne mogą tworzyć filmoteki regionalne w formie samorządowych instytucji kultury w rozumieniu ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz. 194). Zakres działania filmotek regionalnych określa ust. 2, ze szczególnym uwzględnieniem dziedzictwa kulturalnego kinematografii w regionie.
 
 5. Do działalności państwowej instytucji kultury wyspecjalizowanej w zakresie ochrony narodowego dziedzictwa kulturalnego w dziedzinie kinematografii i filmotek regionalnych w zakresie państwowego zasobu archiwalnego, określonej w ust. 2 pkt 1–3, stosuje się ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
 

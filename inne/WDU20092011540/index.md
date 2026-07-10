@@ -1470,9 +1470,7 @@ source: pdf
 - **2)** jednostka organizacyjna niemająca osobowości prawnej stanowiąca przedsiębiorstwo w spadku w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz.
 - **170)** w okresie od otwarcia spadku do dnia wygaśnięcia:
     - **a)** zarządu sukcesyjnego albo
-    - **b)** uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2025 r. poz.
-
-- **237)** .
+    - **b)** uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2025 r. poz. 237).
 
 2. Przedmiotem opodatkowania podatkiem od gier jest:
 

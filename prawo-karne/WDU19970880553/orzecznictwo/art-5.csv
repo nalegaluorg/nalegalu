@@ -209,8 +209,16 @@ saos_id|date|court|case_number|type|score|saos_url
 411270|2018-07-26|SO|II AKa 50/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/411270
 387788|2018-07-10|SO|II AKa 211/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/387788
 313145|2015-07-10|SO|II AKa 216/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/313145
+547301|2026-03-26|SO|I Ca 8/26|Wyrok|40|https://www.saos.org.pl/judgments/547301
+547275|2026-03-06|SO|I C 685/25|Wyrok|40|https://www.saos.org.pl/judgments/547275
+547291|2026-03-04|SO|I Ca 3/26|Wyrok|40|https://www.saos.org.pl/judgments/547291
+547268|2025-11-28|SO|I C 393/24|Wyrok|40|https://www.saos.org.pl/judgments/547268
+547289|2025-10-27|SO|I Ca 214/25|Wyrok|40|https://www.saos.org.pl/judgments/547289
+547495|2025-10-08|SO|I Ca 218/25|Wyrok|40|https://www.saos.org.pl/judgments/547495
+547288|2025-09-03|SO|I Ca 196/25|Wyrok|40|https://www.saos.org.pl/judgments/547288
 535683|2025-09-03|SO|I C 62/25|Wyrok|40|https://www.saos.org.pl/judgments/535683
 528182|2025-06-04|SO|I C 127/25|Wyrok|40|https://www.saos.org.pl/judgments/528182
+547300|2025-04-17|SO|I Ca 68/25|Wyrok|40|https://www.saos.org.pl/judgments/547300
 527650|2025-04-07|SO|I C 1176/24|Wyrok|40|https://www.saos.org.pl/judgments/527650
 524802|2025-02-28|SO|I C 76/23|Wyrok|40|https://www.saos.org.pl/judgments/524802
 521429|2025-02-10|SO|II Ca 115/24|Wyrok|40|https://www.saos.org.pl/judgments/521429
@@ -327,6 +335,7 @@ saos_id|date|court|case_number|type|score|saos_url
 9556|2013-03-12|SO|II Kop 3/13|Postanowienie|31|https://www.saos.org.pl/judgments/9556
 544939|2026-04-13|SO|VII C 513/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/544939
 537569|2025-11-17|SO|IV Ca 906/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/537569
+547662|2025-08-13|SO|I C 1921/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/547662
 537572|2025-07-01|SO|IV Ka 1144/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/537572
 527299|2025-04-30|SO|I C 1176/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/527299
 525188|2025-04-03|SO|VI Ka 55/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/525188

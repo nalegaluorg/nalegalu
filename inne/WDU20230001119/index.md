@@ -63,8 +63,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
 6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
-7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np.
-omdlenie, zawał, udar
+7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji AUD.10.2. Podstawy planowania produkcji filmowej i obsługi prawno-księgowej Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) opisuje proces produkcji filmowej i tele- 1) stosuje terminologię stosowaną w produkcji filmowej wizyjnej i telewizyjnej w języku polskim i angielskim
 2) wymienia rodzaje i zakres działalności podmiotów funkcjonujących na rynku audiowizualnym
@@ -185,8 +184,7 @@ a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) nazywa przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela instrukcji, wskazózadań zawodowych: wek, określa zasady)
 a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
-b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
 a) reaguje ustnie (np. podczas roz- 5) pyta o upodobania i intencje innych osób mowy z innym pracownikiem, 6) proponuje, zachęca klientem, kontrahentem, w tym roz- 7) stosuje zwroty i formy grzecznościowe mowy telefonicznej) w typowych 8) dostosowuje styl wypowiedzi do sytuacji sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
@@ -271,8 +269,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
 6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
-7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np.
-omdlenie, zawał, udar
+7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji AUD.11.2. Podstawy wiedzy o rynku animacji filmowej Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) opisuje proces kreacji artystycznej w ani- 1) stosuje terminologię stosowaną w twórczości i promacji filmowej dukcji animacji filmowej, w projektowaniu multimedialnym oraz w plastyce, w tym z zakresu realizacji obrazu filmu animowanego, kopiowania i obróbki filmu animowanego, grafiki komputerowej, publikacji i emisji obrazu, teorii barwy
 2) określa poszczególne etapy procesu kreacji artystycznej w animacji filmowej
@@ -418,8 +415,7 @@ b) tworzy matematyczny zapis ruchu w animacji 3D
 10) tworzy ruch postaci i obiektów, które wchodzą ze sobą w interakcje, na potrzeby animacji poklatkowej
 11) tworzy ruch postaci i obiektów w scenach zbiorowych na potrzeby animacji poklatkowej
 12) tworzy kluczowe fazy ruchu postaci i obiektu oraz za ich pomocą animuje postaci i obiekt, posługując się techniką blokowania
-3) stosuje procedury właściwe dla animacji 1) określa liczbę klatek między poszczególnymi pozami poklatkowej postaci i obiektu, odpowiednio do rodzaju ruchu (np.
-szybki, gwałtowny, powolny, płynny), stosując zasadę timingu w animacji poklatkowej
+3) stosuje procedury właściwe dla animacji 1) określa liczbę klatek między poszczególnymi pozami poklatkowej postaci i obiektu, odpowiednio do rodzaju ruchu (np. szybki, gwałtowny, powolny, płynny), stosując zasadę timingu w animacji poklatkowej
 2) określa liczbę klatek na sekundę animacji w technice poklatkowej
 3) określa różnice w użytkowaniu lalek i obiektów wykonanych z różnych materiałów AUD.11.8. Zarządzanie technikami animacji filmowej Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) rozróżnia techniki i procesy stosowane 1) rozróżnia techniki animacji filmowej w animacji filmowej 2) rozróżnia metody rejestracji animowanego obrazu filmowego
@@ -438,8 +434,7 @@ a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) nazywa przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela instrukcji, wskazózadań zawodowych: wek, określa zasady)
 a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
-b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
 a) reaguje ustnie (np. podczas roz- 5) pyta o upodobania i intencje innych osób mowy z innym pracownikiem, 6) proponuje, zachęca klientem, kontrahentem, w tym roz- 7) stosuje zwroty i formy grzecznościowe mowy telefonicznej) w typowych 8) dostosowuje styl wypowiedzi do sytuacji sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
@@ -569,8 +564,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
 6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
-7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np.
-omdlenie, zawał, udar
+7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji BUD.34.2. Techniczne podstawy aranżacji wnętrz Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) charakteryzuje style architektoniczne 1) rozróżnia style architektoniczne: klasyczny grecki, klasyczny rzymski, bizantyjski, romański, gotycki, renesansowy, barokowy, klasycystyczny, eklektyczny, secesyjny, ekspresjonistyczny, modernistyczny, postmodernistyczny
 2) wskazuje okresy historyczne, w których były wiodące poszczególne style architektoniczne
@@ -687,14 +681,12 @@ b) z głównymi technologiami stosowa- zawodowych nymi w danym zawodzie d) formu
 c) z dokumentacją związaną z danym związanych z wykonywaniem czynności zawodozawodem wych
 d) z usługami świadczonymi w danym e) świadczonych usług, w tym obsługi klienta zawodzie
 2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu ewentualnie łowane wyraźnie, w standardowej odmia- fragmentu wypowiedzi lub tekstu nie języka obcego nowożytnego, a także 2) znajduje w wypowiedzi lub tekście określone informaproste wypowiedzi pisemne w języku ob- cje cym nowożytnym w zakresie umożliwia- 3) rozpoznaje związki między poszczególnymi częściami jącym realizację zadań zawodowych: tekstu
-a) rozumie proste wypowiedzi ustne do- 4) układa informacje w określonym porządku tyczące czynności zawodowych (np.
-rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
+a) rozumie proste wypowiedzi ustne do- 4) układa informacje w określonym porządku tyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuacjach w zakresie umożliwiającym realizację za- zawodowych (np. udziela instrukcji, wskazówek, okreśdań zawodowych: la zasady)
 3) wyraża i uzasadnia swoje stanowisko
 a) tworzy krótkie, proste, spójne i lo- 4) stosuje zasady konstruowania tekstów o różnym charakgiczne wypowiedzi ustne dotyczące terze czynności zawodowych (np. polece- 5) stosuje formalny lub nieformalny styl wypowiedzi adenie, komunikat, instrukcję) kwatnie do sytuacji
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań za- 2) uzyskuje i przekazuje informacje i wyjaśnienia wodowych – reaguje w języku obcym no- 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgawożytnym w sposób zrozumiały, adekwat- dza się lub nie zgadza z opiniami innych osób nie do sytuacji komunikacyjnej, ustnie lub 4) prowadzi proste negocjacje związane z czynnościami w formie prostego tekstu: zawodowymi
 a) reaguje ustnie (np. podczas rozmowy 5) pyta o upodobania i intencje innych osób z innym pracownikiem, klientem, 6) proponuje, zachęca kontrahentem, w tym rozmowy tele- 7) stosuje zwroty i formy grzecznościowe fonicznej) w typowych sytuacjach 8) dostosowuje styl wypowiedzi do sytuacji związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
@@ -788,8 +780,7 @@ d) stosuje strategie komunikacyjne w przybliżeniu określić znaczenie słowa i
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
 6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotoki, zmiażdżenia, amputacje, złamania, oparzenia
-7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np.
-omdlenie, zawał, udar
+7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo- oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji BUD.35.2. Techniczne podstawy aranżacji wnętrz Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) charakteryzuje style architektoniczne 1) rozróżnia style architektoniczne: klasyczny grecki, klasyczny rzymski, bizantyjski, romański, gotycki, renesansowy, barokowy, klasycystyczny, eklektyczny, secesyjny, ekspresjonistyczny, modernistyczny, postmodernistyczny
 2) wskazuje okresy historyczne, w których były wiodące poszczególne style architektoniczne
@@ -915,12 +906,10 @@ d) techniki wykonania (np. stolarskie, tapicerowane)
 b) z głównymi technologiami stosowa- d) formularzy, specyfikacji oraz innych dokumentów nymi w danym zawodzie związanych z wykonywaniem czynności zawodoc) z dokumentacją związaną z danym wych zawodem e) świadczonych usług, w tym obsługi klienta
 d) z usługami świadczonymi w danym zawodzie
 2) rozumie proste wypowiedzi ustne artyku- 1) określa główną myśl wypowiedzi lub tekstu ewentualnie łowane wyraźnie, w standardowej odmia- fragmentu wypowiedzi lub tekstu nie języka obcego nowożytnego, a także 2) znajduje w wypowiedzi lub tekście określone informaproste wypowiedzi pisemne w języku ob- cje cym nowożytnym w zakresie umożliwia- 3) rozpoznaje związki między poszczególnymi częściami jącym realizację zadań zawodowych: tekstu
-a) rozumie proste wypowiedzi ustne do- 4) układa informacje w określonym porządku tyczące czynności zawodowych (np.
-rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
+a) rozumie proste wypowiedzi ustne do- 4) układa informacje w określonym porządku tyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuacjach w zakresie umożliwiającym realizację za- zawodowych (np. udziela instrukcji, wskazówek, okreśdań zawodowych: la zasady)
-a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym charakczynności zawodowych (np. polece- terze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi adeb) tworzy krótkie, proste, spójne i lo- kwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym charakczynności zawodowych (np. polece- terze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi adeb) tworzy krótkie, proste, spójne i lo- kwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zganowożytnym w sposób zrozumiały, ade- dza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
 a) reaguje ustnie (np. podczas rozmowy 5) pyta o upodobania i intencje innych osób z innym pracownikiem, klientem, 6) proponuje, zachęca kontrahentem, w tym rozmowy tele- 7) stosuje zwroty i formy grzecznościowe fonicznej) w typowych sytuacjach 8) dostosowuje styl wypowiedzi do sytuacji związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
@@ -1046,8 +1035,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
 6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
-7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np.
-omdlenie, zawał, udar
+7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji CHM.07.2. Podstawy gospodarowania odpadami Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) charakteryzuje dokumentację związaną 1) omawia rodzaje dokumentów stosowane w ewidencji z gospodarowaniem odpadami odpadów
 2) odczytuje z dokumentacji dopuszczone masy i sposoby postępowania z odpadami w zakresie zbierania, przetwarzania i wytwarzania
@@ -1189,8 +1177,7 @@ a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela instrukcji, wskazózadań zawodowych: wek, określa zasady)
 a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
-b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
 a) reaguje ustnie (np. podczas roz- 5) stosuje zwroty i formy grzecznościowe mowy z innym pracownikiem, 6) dostosowuje styl wypowiedzi do sytuacji klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
@@ -1277,8 +1264,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
 6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
-7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np.
-omdlenie, zawał, udar
+7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji CHM.08.2. Wykonywanie prac związanych z odbiorem i transportem odpadów Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) stosuje zasady i uwarunkowania zbiera- 1) rozróżnia rodzaje odpadów wyróżnionych ze względu nia odpadów na źródła ich powstawania, właściwości, użyteczność, stopień uciążliwości, ryzyko stwarzania zagrożeń dla zdrowia lub życia ludzi, mienia, środowiska
 2) rozróżnia podstawowe grupy surowców występujących w odpadach, w tym szkło, metal tworzywa sztuczne i papier
@@ -1343,8 +1329,7 @@ a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela prostych i krótkich inzadań zawodowych: strukcji, wskazówek)
 a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
-b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru) CHM.08.6. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru) CHM.08.6. Kompetencje personalne i społeczne Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) przestrzega zasad kultury i etyki zawodo- 1) stosuje zasady kultury i etyki podczas wykonywania wej zadań zawodowych
 2) rozróżnia zachowania etyczne i nieetyczne w zakresie wykonywanych zadań zawodowych
 3) przestrzega tajemnicy związanej z wykonywanym zawodem i miejscem pracy
@@ -1408,8 +1393,7 @@ e) monitorowania oddziaływania prowadzonej działalności związanej z gospodar
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
 6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
-7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np.
-omdlenie, zawał, udar
+7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji CHM.07.2. Podstawy gospodarowania odpadami Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) charakteryzuje dokumentację związaną 1) omawia rodzaje dokumentów stosowane w ewidencji z gospodarowaniem odpadami odpadów
 2) odczytuje z dokumentacji dopuszczone masy i sposoby postępowania z odpadami w zakresie zbierania, przetwarzania i wytwarzania
@@ -1552,8 +1536,7 @@ a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela instrukcji, wskazózadań zawodowych: wek, określa zasady)
 a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
-b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
 a) reaguje ustnie (np. podczas roz- 5) stosuje zwroty i formy grzecznościowe mowy z innym pracownikiem, 6) dostosowuje styl wypowiedzi do sytuacji klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
@@ -1635,8 +1618,7 @@ d) udzielania pierwszej pomocy
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
 6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
-7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np.
-omdlenie, zawał, udar
+7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji CHM.09.2. Podstawy gospodarowania odpadami Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) charakteryzuje dokumentację związaną 1) omawia rodzaje dokumentów stosowanych w ewidenz gospodarowaniem odpadami cji odpadów
 2) odczytuje z dokumentacji dopuszczalne masy odpadów i sposoby postępowania z odpadami w zakresie zbierania, przetwarzania i wytwarzania
@@ -1799,8 +1781,7 @@ a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuaw zakresie umożliwiającym realizację cjach zawodowych (np. udziela instrukcji, wskazózadań zawodowych: wek, określa zasady)
 a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym chaczynności zawodowych (np. polece- rakterze nie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi
-b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+b) tworzy krótkie, proste, spójne i lo- adekwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, nowożytnym w sposób zrozumiały, ade- zgadza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
 a) reaguje ustnie (np. podczas roz- 5) stosuje zwroty i formy grzecznościowe mowy z innym pracownikiem, 6) dostosowuje styl wypowiedzi do sytuacji klientem, kontrahentem, w tym rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
@@ -1929,12 +1910,10 @@ b) cechy wytrzymałościowe drewna i materiałów pochodnych
 3) określa zastosowanie gatunków drewna, materiałów nych i drewnopochodnych
 4) rozróżnia materiały drzewne i drewnopochodne:
 a) materiały drzewne zgodnie z PN-EN 844
-b) materiały drewnopochodne: sklejka, płyta (np.
-OSB (Oriented Stand Boards), pilśniowa, MDF dium Density Fibreboard), HDF (High Density ard), komórkowa)
+b) materiały drewnopochodne: sklejka, płyta (np. OSB (Oriented Stand Boards), pilśniowa, MDF dium Density Fibreboard), HDF (High Density ard), komórkowa)
 c) drewno klejone warstwowo
 2) charakteryzuje wady i uszkodzenia drewna 1) rozróżnia wady drewna (np. sęki, sinizna, pęknięcia, oraz materiałów drewnopochodnych kształtu i budowy, uszkodzenia mechaniczne, zabarwienia)
-2) rozróżnia wady materiałów drewnopochodnych (np.
-dzenia mechaniczne, rozwarstwienia, budowa płyty, wierzchni, obróbki)
+2) rozróżnia wady materiałów drewnopochodnych (np. dzenia mechaniczne, rozwarstwienia, budowa płyty, wierzchni, obróbki)
 3) objaśnia przyczyny powstawania wad drewna i materiałów drewnopochodnych
 4) wskazuje sposoby zapobiegania powstawaniu wad materiałów drzewnych i drewnopochodnych
 5) określa sposoby eliminowania wad drewna i materiałów drewnopochodnych
@@ -1986,8 +1965,7 @@ d) wymiary
 4) podejmuje działania eliminujące wady obróbki materiałów drzewnych i drewnopochodnych
 5) wprowadza zmiany w parametrach wpływające na poprawę jakości wytwarzanych produktów
 6) prowadzi bieżącą ewidencję oceny jakości
-8) charakteryzuje wymagania dotyczące 1) rozróżnia środki transportu i przechowywania materiałów, transportu wewnętrznego i składowania produktów i wyrobów drzewnych materiałów, produktów i wyrobów drzew- 2) opisuje budowę i zasady działania wybranych maszyn nych dzeń stosowanych do transportu wewnętrznego (np.
-widłowy, przenośniki rolkowe, taśmowe, łańcuchowe, zek paletowy)
+8) charakteryzuje wymagania dotyczące 1) rozróżnia środki transportu i przechowywania materiałów, transportu wewnętrznego i składowania produktów i wyrobów drzewnych materiałów, produktów i wyrobów drzew- 2) opisuje budowę i zasady działania wybranych maszyn nych dzeń stosowanych do transportu wewnętrznego (np. widłowy, przenośniki rolkowe, taśmowe, łańcuchowe, zek paletowy)
 3) organizuje stanowisko składowania i magazynowania riałów
 4) dobiera środki transportu wewnętrznego adekwatnie finiowanych potrzeb
 5) stosuje zasady składowania odpadów zgodnie z wymaganiami ochrony środowiska
@@ -2081,8 +2059,7 @@ b) z głównymi technologiami stosowa- wodowych nymi w danym zawodzie d) formula
 c) z dokumentacją związaną z danym za- związanych z wykonywaniem czynności zawodowych wodem e) świadczonych usług, w tym obsługi klienta
 d) z usługami świadczonymi w danym zawodzie
 2) rozumie proste wypowiedzi ustne artykuło- 1) określa główną myśl wypowiedzi lub tekstu, ewentualnie wane wyraźnie, w standardowej odmianie fragmentu wypowiedzi lub tekstu języka obcego nowożytnego, a także proste 2) znajduje w wypowiedzi lub tekście określone informacje wypowiedzi pisemne w języku obcym no- 3) rozpoznaje związki między poszczególnymi częściami wożytnym w zakresie umożliwiającym rea- 4) układa informacje w określonym porządku lizację zadań zawodowych:
-a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np.
-rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
+a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, spójne 1) opisuje przedmioty, działania i zjawiska związane z i logiczne wypowiedzi ustne i pisemne ciami zawodowymi w języku obcym nowożytnym w zakresie 2) przedstawia sposób postępowania w różnych sytuacjach umożliwiającym realizację zadań zawodo- wodowych (np. udziela instrukcji, wskazówek, określa wych: sady)
 a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym charakterze czynności zawodowych (np. polece- 5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie, komunikat, instrukcję) nie do sytuacji
@@ -2200,12 +2177,10 @@ b) cechy wytrzymałościowe drewna i materiałów pochodnych
 3) określa zastosowanie gatunków drewna, materiałów nych i drewnopochodnych
 4) rozróżnia materiały drzewne i drewnopochodne:
 a) materiały drzewne zgodnie z PN-EN 844
-b) materiały drewnopochodne: sklejka, płyta (np.
-OSB (Oriented Stand Boards), pilśniowa, MDF dium Density Fibreboard), HDF (High Density ard), komórkowa)
+b) materiały drewnopochodne: sklejka, płyta (np. OSB (Oriented Stand Boards), pilśniowa, MDF dium Density Fibreboard), HDF (High Density ard), komórkowa)
 c) drewno klejone warstwowo
 2) charakteryzuje wady i uszkodzenia drewna 1) rozróżnia wady drewna (np. sęki, sinizna, pęknięcia, oraz materiałów drewnopochodnych kształtu i budowy, uszkodzenia mechaniczne, zabarwienia)
-2) rozróżnia wady materiałów drewnopochodnych (np.
-dzenia mechaniczne, rozwarstwienia, budowa płyty, wierzchni, obróbki)
+2) rozróżnia wady materiałów drewnopochodnych (np. dzenia mechaniczne, rozwarstwienia, budowa płyty, wierzchni, obróbki)
 3) objaśnia przyczyny powstawania wad drewna i materiałów drewnopochodnych
 4) wskazuje sposoby zapobiegania powstawaniu wad materiałów drzewnych i drewnopochodnych
 5) określa sposoby eliminowania wad drewna i materiałów drewnopochodnych
@@ -2257,8 +2232,7 @@ d) wymiary
 4) podejmuje działania eliminujące wady obróbki materiałów drzewnych i drewnopochodnych
 5) wprowadza zmiany w parametrach wpływające na poprawę jakości wytwarzanych produktów
 6) prowadzi bieżącą ewidencję oceny jakości
-8) charakteryzuje wymagania dotyczące 1) rozróżnia środki transportu i przechowywania materiałów, transportu wewnętrznego i składowania produktów i wyrobów drzewnych materiałów, produktów i wyrobów drzew- 2) opisuje budowę i zasady działania wybranych maszyn nych dzeń stosowanych do transportu wewnętrznego (np.
-widłowy, przenośniki rolkowe, taśmowe, łańcuchowe, zek paletowy)
+8) charakteryzuje wymagania dotyczące 1) rozróżnia środki transportu i przechowywania materiałów, transportu wewnętrznego i składowania produktów i wyrobów drzewnych materiałów, produktów i wyrobów drzew- 2) opisuje budowę i zasady działania wybranych maszyn nych dzeń stosowanych do transportu wewnętrznego (np. widłowy, przenośniki rolkowe, taśmowe, łańcuchowe, zek paletowy)
 3) organizuje stanowisko składowania i magazynowania riałów
 4) dobiera środki transportu wewnętrznego adekwatnie finiowanych potrzeb
 5) stosuje zasady składowania odpadów zgodnie z wymaganiami ochrony środowiska
@@ -2352,8 +2326,7 @@ b) z głównymi technologiami stosowa- wodowych nymi w danym zawodzie d) formula
 c) z dokumentacją związaną z danym za- e) świadczonych usług, w tym obsługi klienta wodem
 d) z usługami świadczonymi w danym zawodzie
 2) rozumie proste wypowiedzi ustne artykuło- 1) określa główną myśl wypowiedzi lub tekstu, ewentualnie wane wyraźnie, w standardowej odmianie fragmentu wypowiedzi lub tekstu języka obcego nowożytnego, a także proste 2) znajduje w wypowiedzi lub tekście określone informacje wypowiedzi pisemne w języku obcym no- 3) rozpoznaje związki między poszczególnymi częściami wożytnym w zakresie umożliwiającym rea- 4) układa informacje w określonym porządku lizację zadań zawodowych:
-a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np.
-rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
+a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, spójne 1) opisuje przedmioty, działania i zjawiska związane z i logiczne wypowiedzi ustne i pisemne ściami zawodowymi w języku obcym nowożytnym w zakresie 2) przedstawia sposób postępowania w różnych sytuacjach umożliwiającym realizację zadań zawodo- wodowych (np. udziela instrukcji, wskazówek, określa wych: sady)
 a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym charakterze czynności zawodowych (np. polece- 5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie, komunikat, instrukcję) nie do sytuacji
@@ -2513,10 +2486,8 @@ b) z głównymi technologiami stosowa- dowych nymi w danym zawodzie d) formularz
 c) z dokumentacją związaną z danym za- zanych z wykonywaniem czynności zawodowych wodem e) świadczonych usług, w tym obsługi klienta
 d) z usługami świadczonymi w danym zawodzie
 2) rozumie proste wypowiedzi ustne artykuło- 1) określa główną myśl wypowiedzi lub tekstu, ewentualnie wane wyraźnie, w standardowej odmianie mentu wypowiedzi lub tekstu języka obcego nowożytnego, a także proste 2) znajduje w wypowiedzi lub tekście określone informacje wypowiedzi pisemne w języku obcym no- 3) rozpoznaje związki między poszczególnymi częściami wożytnym w zakresie umożliwiającym rea- 4) układa informacje w określonym porządku lizację zadań zawodowych:
-a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np.
-rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
-b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np.
-napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
+a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
+b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, spójne 1) opisuje przedmioty, działania i zjawiska związane z czynnoi logiczne wypowiedzi ustne i pisemne ściami zawodowymi w języku obcym nowożytnym w zakresie 2) przedstawia sposób postępowania w różnych sytuacjach umożliwiającym realizację zadań zawodo- dowych (np. udziela instrukcji, wskazówek, określa zasady) wych: 3) wyraża i uzasadnia swoje stanowisko
 a) tworzy krótkie, proste, spójne i lo- 4) stosuje zasady konstruowania tekstów o różnym charakterze giczne wypowiedzi ustne dotyczące 5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie czynności zawodowych (np. polecenie, do sytuacji komunikat, instrukcję)
 b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
@@ -2676,8 +2647,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
 6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
-7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np.
-omdlenie, zawał, udar
+7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji PGF.09.2. Podstawy wiedzy o książce Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) charakteryzuje historię książki 1) opisuje dzieje książki
 2) określa współczesne formy książki
@@ -2686,8 +2656,7 @@ omdlenie, zawał, udar
 2) charakteryzuje typologie wydawnictw 1) rozróżnia rodzaje i gatunki literackie
 2) określa działy księgarskie
 3) przyporządkowuje publikacje do działów księgarskich
-4) opisuje systemy katalogowania publikacji (np.
-THEMA, Allegro, Amazon, Empik)
+4) opisuje systemy katalogowania publikacji (np. THEMA, Allegro, Amazon, Empik)
 5) dostosowuje działy księgarskie do potrzeb i predyspozycji klienta
 6) posługuje się standardem ONIX (publishing protocol)
 3) charakteryzuje budowę książki 1) rozróżnia historyczne i nowoczesne formy książki
@@ -2842,8 +2811,7 @@ d) dobiera sposób prowadzenia rozmowy sprzedażowej do typu klienta
 2) projektuje działania promujące książkę i czytelnictwo, takie jak: konkursy literackie i plebiscyty czytelnicze, animacje literackie i czytelnicze, zajęcia artystyczne dla wybranych grup odbiorców
 3) planuje i organizuje spotkania autorskie
 4) opracowuje informacje o spotkaniu autorskim
-5) określa zasady stosowania prawa autorskiego, np.
-sposoby korzystania z wizerunku i banku zdjęć, licencjonowanie
+5) określa zasady stosowania prawa autorskiego, np. sposoby korzystania z wizerunku i banku zdjęć, licencjonowanie
 5) organizuje działalność wystawienniczą 1) opisuje najważniejsze imprezy targowe i festiwale lina targach i wystawach terackie w kraju
 2) opracowuje kryteria oceny miejsca ekspozycji w przestrzeni targowej
 3) dobiera miejsce ekspozycji w przestrzeni targowej do celu ekspozycji.
@@ -2872,8 +2840,7 @@ d) z usługami świadczonymi w danym e) świadczonych usług, w tym obsługi kli
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne i pi- z czynnościami zawodowymi semne w języku obcym nowożytnym w zakresie umożliwiającym realizację 2) przedstawia sposób postępowania w różnych sytuazadań zawodowych: cjach zawodowych (np. udziela instrukcji, wskazóa) tworzy krótkie, proste, spójne i lo- wek, określa zasady) giczne wypowiedzi ustne dotyczące 3) wyraża i uzasadnia swoje stanowisko czynności zawodowych (np. polece- 4) stosuje zasady konstruowania tekstów o różnym chanie, komunikat, instrukcję) rakterze
-b) tworzy krótkie, proste, spójne i lo- 5) stosuje formalny lub nieformalny styl wypowiedzi giczne wypowiedzi pisemne doty- adekwatnie do sytuacji czące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+b) tworzy krótkie, proste, spójne i lo- 5) stosuje formalny lub nieformalny styl wypowiedzi giczne wypowiedzi pisemne doty- adekwatnie do sytuacji czące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zganowożytnym w sposób zrozumiały, ade- dza się lub nie zgadza z opiniami innych osób kwatnie do sytuacji komunikacyjnej, ust- 4) prowadzi proste negocjacje związane z czynnościami nie lub w formie prostego tekstu: zawodowymi
 a) reaguje ustnie (np. podczas roz- 5) pyta o upodobania i intencje innych osób mowy z innym pracownikiem, 6) proponuje, zachęca klientem, kontrahentem, w tym roz- 7) stosuje zwroty i formy grzecznościowe mowy telefonicznej) w typowych 8) dostosowuje styl wypowiedzi do sytuacji sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
@@ -3078,8 +3045,7 @@ d) z usługami świadczonymi w danym zawodzie
 a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje), artykułowane wyraźnie, w standardowej odmianie języka
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane spójne i logiczne wypowiedzi ustne z czynnościami zawodowymi sprzedawcy i pisemne w języku obcym nowożyt- 2) przedstawia sposób postępowania w różnych sytuacjach nym w zakresie umożliwiającym reali- zawodowych (np. udziela odpowiedzi klientowi, wyjazację zadań zawodowych: śnia zasady)
-a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko, giczne wypowiedzi ustne doty- 4) stosuje zasady konstruowania tekstów o różnym charakczące czynności zawodowych (np. terze polecenie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi adeb) tworzy krótkie, proste, spójne i lo- kwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko, giczne wypowiedzi ustne doty- 4) stosuje zasady konstruowania tekstów o różnym charakczące czynności zawodowych (np. terze polecenie, komunikat, instrukcję) 5) stosuje formalny lub nieformalny styl wypowiedzi adeb) tworzy krótkie, proste, spójne i lo- kwatnie do sytuacji giczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych 1) rozpoczyna, prowadzi i kończy rozmowę sytuacjach związanych z realizacją za- 2) uzyskuje i przekazuje informacje i wyjaśnienia dań zawodowych – reaguje w języku 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza obcym nowożytnym w sposób się lub nie zgadza z opiniami innych osób zrozumiały, adekwatnie do sytuacji ko- 4) prowadzi proste negocjacje związane z czynnościami zamunikacyjnej, ustnie lub w formie pro- wodowymi stego tekstu: 5) pyta o upodobania i intencje innych osób
 a) reaguje ustnie (np. podczas roz- 6) proponuje, zachęca klienta mowy z innym pracownikiem, 7) stosuje zwroty i formy grzecznościowe klientem, kontrahentem, w tym 8) dostosowuje styl wypowiedzi do sytuacji rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
@@ -3338,8 +3304,7 @@ a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy
 b) rozumie proste wypowiedzi pisemne dotyczące czynności zawodowych (np. napisy, broszury, instrukcje obsługi, przewodniki, dokumentację zawodową)
 3) samodzielnie tworzy krótkie, proste, 1) opisuje przedmioty, działania i zjawiska związane z czynnospójne i logiczne wypowiedzi ustne i pi- ściami zawodowymi sprzedawcy semne w języku obcym nowożytnym 2) przedstawia sposób postępowania w różnych sytuacjach w zakresie umożliwiającym realizację wodowych (np. udziela odpowiedzi klientowi, wyjaśnia zadań zawodowych: sady)
 a) tworzy krótkie, proste, spójne i lo- 3) wyraża i uzasadnia swoje stanowisko giczne wypowiedzi ustne dotyczące 4) stosuje zasady konstruowania tekstów o różnym charakterze czynności zawodowych (np. polece- 5) stosuje formalny lub nieformalny styl wypowiedzi adekwatnie, komunikat, instrukcję) nie do sytuacji
-b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np.
-komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
+b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sy- 1) rozpoczyna, prowadzi i kończy rozmowę tuacjach związanych z realizacją zadań 2) uzyskuje i przekazuje informacje i wyjaśnienia zawodowych – reaguje w języku obcym 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza nowożytnym w sposób zrozumiały, lub nie zgadza z opiniami innych osób adekwatnie do sytuacji komunikacyjnej, 4) prowadzi proste negocjacje związane z czynnościami zawoustnie lub w formie prostego tekstu: dowymi
 a) reaguje ustnie (np. podczas roz- 5) pyta o upodobania i intencje innych osób mowy z innym pracownikiem, 6) proponuje, zachęca klienta klientem, kontrahentem, w tym roz- 7) stosuje zwroty i formy grzecznościowe mowy telefonicznej) w typowych 8) dostosowuje styl wypowiedzi do sytuacji sytuacjach związanych z wykonywaniem czynności zawodowych
 b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych

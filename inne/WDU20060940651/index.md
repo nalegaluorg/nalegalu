@@ -112,8 +112,7 @@ source: pdf
 - **6)** oświadczenie potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną jest osobą usamodzielnianą, o której mowa w art. 140 ust. 1 i 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej lub art. 88 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
 - **7)** zaświadczenie zakładu opieki zdrowotnej potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną jest osobą z zaburzeniami psychicznymi, o której mowa w art. 3 pkt 1 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917);
 - **8)** zaświadczenie zakładu karnego lub zakładu poprawczego, że osoba zamierzająca założyć spółdzielnię socjalną jest osobą pozbawioną wolności, osobą opuszczającą zakład karny albo osobą pełnoletnią opuszczającą zakład poprawczy;
-- **9)** oświadczenie potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną jest osobą starszą, o której mowa w art. 4 pkt 1 ustawy z dnia 11 września 2015 r. o osobach starszych (Dz. U. poz. 1705 oraz z 2024 r. poz.
-- **834)** ;
+- **9)** oświadczenie potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną jest osobą starszą, o której mowa w art. 4 pkt 1 ustawy z dnia 11 września 2015 r. o osobach starszych (Dz. U. poz. 1705 oraz z 2024 r. poz. 834);
 - **10)** zaświadczenie Urzędu do Spraw Cudzoziemców potwierdzające, że osoba zamierzająca założyć spółdzielnię socjalną uzyskała w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą;
 - **11)** uchwałę organu stanowiącego jednostki samorządu terytorialnego, kościelnej osoby prawnej lub organizacji pozarządowej o powołaniu spółdzielni socjalnej, w przypadku gdy organem założycielskim jest jednostka samorządu terytorialnego, kościelna osoba prawna lub organizacja pozarządowa.
 

@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie żeglugi i portów morskich
 
+*USTAWA z dnia 4 września 2008 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2024 poz. 597 |
@@ -22,13 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-03-21 |
 | Data wydania | 2024-04-18 |
-| Ostatnia zmiana | 2024-04-22 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000597) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/597/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2023 r. poz. 1433), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw (Dz. U. poz. 1489) oraz zmian wynikających z przepisów ogłoszonych przed dniem 13 marca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw (Dz. U. poz. 1489), który stanowi: „ Art. 11. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 4 września 2008 r.
-o ochronie żeglugi i portów morskich
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -47,7 +44,8 @@ o ochronie żeglugi i portów morskich
 - **1)** międzysystemowego Gazociągu Bałtyckiego (Baltic Pipe) stanowiącego połączenie systemów przesyłowych Rzeczypospolitej Polskiej i Królestwa Danii wraz z infrastrukturą niezbędną do jego obsługi na terenie obszarów morskich Rzeczypospolitej Polskiej;
 - **2)** obiektów, urządzeń i instalacji wchodzących w skład infrastruktury zapewniającej dostęp do portów o podstawowym znaczeniu dla gospodarki narodowej;
 - **3)** wykorzystywanych w wyłącznej strefie ekonomicznej sztucznych wysp, wszelkiego rodzaju konstrukcji i urządzeń przeznaczonych do rozpoznawania lub eksploatacji zasobów, jak również innych przedsięwzięć w zakresie gospodarczego badania i eksploatacji wyłącznej strefy ekonomicznej, w szczególności w celach energetycznych, w tym morskich farm wiatrowych w rozumieniu art. 3 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2024 r. poz. 182), zwanej dalej „ustawą o promowaniu”, i zespołów urządzeń służących do wyprowadzenia mocy w rozumieniu art. 3 pkt 13 ustawy o promowaniu, oraz podmorskich sieci elektroenergetycznych i światłowodowych lub rurociągów, a także związanej z nimi infrastruktury;
-- **4)** terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu.
+- **4)** terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu;
+- **5)** terminalu morskiego przeładunku ropy i paliw ciekłych w Gdańsku.
 
 **Art. 2.**
 
@@ -96,7 +94,10 @@ o ochronie żeglugi i portów morskich
 - **2)** porcie morskim – oznacza to akweny i grunty oraz związaną z nimi infrastrukturę portową, na obszarze których znajduje się jeden lub więcej obiektów portowych, objętych postanowieniami Kodeksu ISPS, rozporządzenia (WE) nr 725/2004 lub ustawy;
 - **3)** obiekcie portowym – oznacza to obiekt, o którym mowa w Prawidle 1/9 Rozdziału XI-2 Konwencji SOLAS;
 - **4)** planie ochrony portu morskiego – oznacza to plan zastosowania środków ochrony portu morskiego, statków, osób, ładunków, jednostek ładunkowych i zapasów statkowych, znajdujących się w obrębie tego portu – przed powstaniem zdarzeń naruszających ochronę; plan ochrony portu morskiego integruje plany ochrony obiektów portowych, które znajdują się w jego granicach;
-- **5)** planie ochrony obiektu portowego – oznacza to plan, o którym mowa w sekcji 2.1.5 w części A Kodeksu ISPS;
+- **5)** planie ochrony obiektu portowego – oznacza to plan, o którym mowa w sekcji
+
+2. 1.5 w części A Kodeksu ISPS;
+
 - **6)** planie ochrony statku – oznacza to plan, o którym mowa w sekcji 2.1.4 w części A Kodeksu ISPS;
 - **7)** oficerze ochrony portu morskiego – oznacza to kapitana portu morskiego;
 - **8)** PFSO – oznacza to oficera ochrony obiektu portowego;
@@ -189,7 +190,9 @@ o ochronie żeglugi i portów morskich
 
 **Art. 6.**
 
-1. Do zadań centralnego punktu kontaktowego, o którym mowa w sekcji 4.14 w części B Kodeksu ISPS, należy:
+1. Do zadań centralnego punktu kontaktowego, o którym mowa w sekcji
+
+4. 14 w części B Kodeksu ISPS, należy:
 
 - **1)** przekazywanie informacji CSO statków o polskiej przynależności;
 - **2)** przekazywanie Komisji Europejskiej i Międzynarodowej Organizacji Morskiej (IMO) oraz właściwym organom państw członkowskich Unii Europejskiej informacji o wprowadzonych środkach ochrony na morzu;
@@ -469,6 +472,86 @@ o ochronie żeglugi i portów morskich
 
 3. Decyzję doręcza się za pośrednictwem posłańca lub przy użyciu telefaksu, poczty elektronicznej albo w szczególnych przypadkach – ogłasza się ustnie. W razie doręczenia decyzji przy użyciu telefaksu lub poczty elektronicznej, dowodem doręczenia jest potwierdzenie transmisji danych.
 
+**Art. 25a.**
+
+1. Centrum Bezpieczeństwa Morskiego, zwane dalej „CBM”, zapewnia wsparcie wymiany informacji pomiędzy organami lub podmiotami realizującymi zadania w zakresie zapobiegania, ograniczania lub usuwania poważnego niebezpieczeństwa grożącego:
+
+- **1)** obiektom portowym i portom morskim oraz związanej z nimi infrastrukturze,
+- **2)** obiektom, urządzeniom i instalacjom wchodzącym w skład infrastruktury zapewniającej dostęp do portów o podstawowym znaczeniu dla gospodarki narodowej,
+- **3)** zlokalizowanym na polskich obszarach morskich obiektom, urządzeniom i instalacjom wchodzącym w skład infrastruktury służącej do:
+    - **a)** wytwarzania lub przesyłania źródeł energii lub surowców energetycznych, w tym morskim farmom wiatrowym w rozumieniu art. 3 pkt 3 ustawy o promowaniu i zespołom urządzeń służącym do wyprowadzenia mocy w rozumieniu art. 3 pkt 13 tej ustawy oraz podmorskim sieciom elektroenergetycznym i światłowodowym lub rurociągom, a także związanej z nimi infrastrukturze,
+    - **b)** telekomunikacji w rozumieniu art. 2 pkt 70 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252 i 815),
+
+- **4)** wykorzystywanym w wyłącznej strefie ekonomicznej sztucznym wyspom, konstrukcjom i urządzeniom przeznaczonym do gospodarczego badania i eksploatacji zasobów wyłącznej strefy ekonomicznej – zwanym dalej „infrastrukturą morską”, oraz statkom, a także zadania w zakresie ochrony granicy państwowej na morzu oraz ochrony życia lub zdrowia ludzi, mienia w znacznych rozmiarach lub środowiska zlokalizowanych na polskich obszarach morskich w rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125, z 2025 r. poz. 409, 1535 i 1668 oraz z 2026 r. poz. 252).
+
+2. Siedziba CBM mieści się we wskazanym przez Komendanta Głównego Straży Granicznej oddziale Straży Granicznej.
+
+3. CBM kieruje wyznaczony przez Komendanta Głównego Straży Granicznej komendant oddziału Straży Granicznej lub jego zastępca, zwany dalej „Szefem CBM”.
+
+4. Do zadań CBM należy:
+
+- **1)** bieżące monitorowanie zagrożeń,
+- **2)** wspieranie wymiany informacji pomiędzy organami lub podmiotami, o których mowa w art. 25b ust. 1,
+- **3)** wspieranie współpracy z właściwymi organami innych państw,
+- **4)** wspieranie procesu decyzyjnego właściwych organów lub podmiotów oraz podejmowanych przez nie działań,
+- **5)** opracowywanie raportów dotyczących zagrożeń – w odniesieniu do żeglugi, infrastruktury morskiej, statków, granicy państwowej na morzu, życia lub zdrowia ludzi, mienia w znacznych rozmiarach lub środowiska na polskich obszarach morskich.
+
+5. CBM realizuje zadania w systemie całodobowym przez 7 dni w tygodniu.
+
+6. Koordynację wspólnej realizacji zadań określonych w ust. 4 zapewnia Szef CBM.
+
+**Art. 25b.**
+
+1. W ramach CBM współdziałają przedstawiciele Ministra Obrony Narodowej, Szefa Służby Kontrwywiadu Wojskowego, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Służby Wywiadu Wojskowego, Komendanta Głównego Policji, Komendanta Głównego Państwowej Straży Pożarnej, Szefa Krajowej Administracji Skarbowej, Dyrektora Morskiej Służby Poszukiwania i Ratownictwa, dyrektorów urzędów morskich oraz właściwych terytorialnie wojewodów, operatorów infrastruktury krytycznej, o których mowa w art. 3 pkt 3a ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, i kierowników jednostek, o których mowa w art. 7 ust. 1 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, którzy wspólnie ze Strażą Graniczną realizują zadania określone w art. 25a ust. 4 na zasadach określonych w porozumieniu zawartym między właściwym organem lub podmiotem a Komendantem Głównym Straży Granicznej.
+
+2. Wspólna realizacja zadań określonych w art. 25a ust. 4 w przypadku przedstawicieli:
+
+- **1)** Ministra Obrony Narodowej, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Krajowej Administracji Skarbowej, Dyrektora Morskiej Służby Poszukiwania i Ratownictwa oraz dyrektorów urzędów morskich – jest wykonywana w siedzibie CBM;
+- **2)** Szefa Agencji Wywiadu, Szefa Służby Kontrwywiadu Wojskowego, Szefa Służby Wywiadu Wojskowego, Komendanta Głównego Policji, Komendanta Głównego Państwowej Straży Pożarnej, właściwych terytorialnie wojewodów, operatorów infrastruktury krytycznej, o których mowa w art. 3 pkt 3a ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, i kierowników jednostek, o których mowa w art. 7 ust. 1 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia – jest wykonywana w siedzibie CBM lub w siedzibie organu lub podmiotu, którego jest przedstawicielem.
+
+3. Komendant Główny Straży Granicznej występuje do organu lub podmiotu, o których mowa w ust. 1, z wnioskiem o wyznaczenie przedstawicieli oraz zawarcie porozumienia.
+
+4. Wniosek, o którym mowa w ust. 3, zawiera w szczególności:
+
+- **1)** zakres zadań i obowiązków oraz kwalifikacje, uprawnienia lub umiejętności wymagane do ich wykonywania;
+- **2)** wymagania w zakresie posiadania poświadczenia bezpieczeństwa upoważniającego do dostępu do informacji niejawnych i okresu jego ważności;
+- **3)** proponowany czas pracy albo służby przedstawicieli organu lub podmiotu, o których mowa w ust. 1, z uwzględnieniem możliwości jej wykonywania w systemie zmianowym;
+- **4)** miejsce wykonywania zadań określonych w art. 25a ust. 4 przez przedstawicieli organu lub podmiotu, o których mowa w ust. 1;
+- **5)** liczbę przedstawicieli organu lub podmiotu, o których mowa w ust. 1, niezbędną do wykonywania zadań określonych w art. 25a ust. 4 w celu zapewnienia ciągłości działania CBM.
+
+5. Wniosek, o którym mowa w ust. 3, może zawierać imię i nazwisko przedstawiciela organu lub podmiotu, o których mowa w ust. 1. Organ lub podmiot, o których mowa w ust. 1, może odmówić wyznaczenia osoby, której dotyczy wniosek, jeżeli jest to uzasadnione potrzebami tego organu lub podmiotu.
+
+6. Organ lub podmiot, o których mowa w ust. 1, w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 3, zawiadamia Komendanta Głównego Straży Granicznej o wyznaczonych przedstawicielach.
+
+7. Porozumienie, o którym mowa w ust. 1, określa w szczególności:
+
+- **1)** datę zawarcia porozumienia;
+- **2)** miejsce wykonywania zadań określonych w art. 25a ust. 4 przez przedstawicieli organu lub podmiotu, o których mowa w ust. 1;
+- **3)** imiona i nazwiska przedstawicieli organu lub podmiotu, o których mowa w ust. 1;
+- **4)** stopnie przedstawicieli organu lub podmiotu, o których mowa w ust. 1, w przypadku gdy są oni funkcjonariuszami albo żołnierzami;
+- **5)** numery poświadczeń bezpieczeństwa wydanych przedstawicielom organu lub podmiotu, o których mowa w ust. 1, daty ich wydania i wystawcę takich poświadczeń oraz okres ważności i oznaczenie klauzul upoważniających do przetwarzania informacji niejawnych;
+- **6)** zakres zadań i obowiązków przedstawicieli organu lub podmiotu, o których mowa w ust. 1, oraz sposób organizacji wykonywania tych zadań i obowiązków;
+- **7)** ustalony czas pracy albo służby przedstawicieli organu lub podmiotu, o których mowa w ust. 1;
+- **8)** osobę odpowiedzialną za organizację i koordynację zadań realizowanych w CBM oraz za monitorowanie ich realizacji.
+
+8. W przypadku planowanej zmiany przedstawiciela organ lub podmiot, o których mowa w ust. 1, wskazuje kolejnego przedstawiciela w celu zapewnienia ciągłości działania CBM. W takim przypadku dokonuje się zmiany zawartego porozumienia.
+
+9. Organ lub podmiot, o których mowa w ust. 1, wypłaca swoim przedstawicielom uposażenie albo wynagrodzenie i inne świadczenia oraz należności pieniężne.
+
+**Art. 25c.**
+
+1. W szczególnie uzasadnionych przypadkach związanych z zagrożeniem wystąpieniem poważnego niebezpieczeństwa Szef CBM powołuje sztab koordynacyjny, w którego skład wchodzą przedstawiciele organu lub podmiotu, o których mowa w art. 25b ust. 1.
+
+2. Do zadań sztabu koordynacyjnego należy dokonywanie aktualnej oceny stopnia zagrożenia infrastruktury morskiej, statków lub granicy państwowej na morzu oraz wydawanie rekomendacji zmierzających do odpowiedniego zabezpieczenia tej infrastruktury, tych statków lub tej granicy.
+
+**Art. 25d.**
+
+1. Organy i podmioty, o których mowa w art. 25b ust. 1, przekazują do CBM informacje na temat zagrożeń, o których mowa w art. 25a ust. 4.
+
+2. Prezes Rady Ministrów określi, w drodze rozporządzenia, katalog i klasyfikację zagrożeń, o których mowa w art. 25a ust. 4, uwzględniając potrzebę zapewnienia skutecznego i kompleksowego przekazywania informacji do CBM.
+
+**Art. 25e.** Komendant Główny Straży Granicznej, w terminie do dnia 31 marca każdego roku kalendarzowego, przedstawia ministrowi właściwemu do spraw wewnętrznych sprawozdanie z działania CBM w poprzednim roku kalendarzowym.
+
 **Art. 26.** W celu zapobieżenia lub ograniczenia zagrożenia ochrony żeglugi i portów dyrektor właściwego urzędu morskiego, w odniesieniu do każdego statku, może:
 
 - **1)** nakazać, aby statek udał się na określoną pozycję na morzu;
@@ -480,12 +563,14 @@ o ochronie żeglugi i portów morskich
 
 **Art. 27.**
 
-- **3)** 1. W celu zapobieżenia, ograniczenia lub usunięcia poważnego i bezpośredniego niebezpieczeństwa grożącego:
+1. W celu zapobieżenia, ograniczenia lub usunięcia poważnego i bezpośredniego niebezpieczeństwa grożącego:
+
 - **1)** statkom, obiektom portowym i portom oraz związanej z nimi infrastrukturze,
 - **2)** międzysystemowemu Gazociągowi Bałtyckiemu (Baltic Pipe) stanowiącemu połączenie systemów przesyłowych Rzeczypospolitej Polskiej i Królestwa Danii wraz z infrastrukturą niezbędną do jego obsługi na terenie obszarów morskich Rzeczypospolitej Polskiej,
 - **3)** obiektom, urządzeniom i instalacjom wchodzącym w skład infrastruktury zapewniającej dostęp do portów o podstawowym znaczeniu dla gospodarki narodowej,
 - **4)** wykorzystywanym w wyłącznej strefie ekonomicznej sztucznym wyspom, wszelkiego rodzaju konstrukcjom i urządzeniom przeznaczonym do rozpoznawania lub eksploatacji zasobów, jak również innym przedsięwzięciom w zakresie gospodarczego badania i eksploatacji wyłącznej strefy ekonomicznej, w szczególności w celach energetycznych, w tym morskim farmom wiatrowym w rozumieniu art. 3 pkt 3 ustawy o promowaniu i zespołom urządzeń służącym do wyprowadzenia mocy w rozumieniu art. 3 pkt 13 ustawy o promowaniu, oraz podmorskim sieciom elektroenergetycznym i światłowodowym lub rurociągom, a także związanej z nimi infrastrukturze,
-- **5)** terminalowi regazyfikacyjnemu skroplonego gazu ziemnego w Świnoujściu – powstałego na skutek użycia statku lub obiektu pływającego jako środka ataku o charakterze terrorystycznym, w przypadku gdy siły i środki Policji oraz Straży Granicznej są niewystarczające lub mogą okazać się niewystarczające, Minister Obrony Narodowej, na wniosek ministra właściwego do spraw wewnętrznych, może podjąć decyzję o zastosowaniu przez Siły Zbrojne Rzeczypospolitej Polskiej na polskich obszarach morskich niezbędnych środków, do zatopienia tego statku lub obiektu pływającego włącznie.
+- **5)** terminalowi regazyfikacyjnemu skroplonego gazu ziemnego w Świnoujściu,
+- **6)** terminalowi morskiego przeładunku ropy i paliw ciekłych w Gdańsku – powstałego na skutek użycia statku lub obiektu pływającego jako środka ataku o charakterze terrorystycznym, w przypadku gdy siły i środki Policji oraz Straży Granicznej są niewystarczające lub mogą okazać się niewystarczające, Minister Obrony Narodowej, na wniosek ministra właściwego do spraw wewnętrznych, może podjąć decyzję o zastosowaniu przez Siły Zbrojne Rzeczypospolitej Polskiej na polskich obszarach morskich niezbędnych środków, do zatopienia tego statku lub obiektu pływającego włącznie.
 
 2. Wniosek o podjęcie decyzji o zastosowaniu przez Siły Zbrojne Rzeczypospolitej Polskiej na polskich obszarach morskich niezbędnych środków w celu zapobieżenia, ograniczenia lub usunięcia poważnego i bezpośredniego niebezpieczeństwa grożącego obiektom, o których mowa w ust. 1, może być skutecznie przekazany także ustnie, telefonicznie, za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344) lub za pomocą innych środków łączności, a ich treść oraz istotne motywy takiego załatwienia sprawy utrwala się w formie pisemnej w postaci papierowej.
 
@@ -574,6 +659,27 @@ o ochronie żeglugi i portów morskich
 1. Każdy, a w szczególności SSO, CSO i PFSO, ma obowiązek zastosowania się do poleceń i instrukcji dotyczących ochrony żeglugi i portów, wydanych przez organy administracji morskiej.
 
 2. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób przekazywania i obiegu informacji w zakresie ochrony żeglugi i portów, mając na uwadze konieczność zapewnienia bezpieczeństwa teleinformatycznego przetwarzanych i przekazywanych informacji oraz ochronę informacji niejawnych.
+
+#### Rozdział 6a Zapobieganie bezprawnemu wykonywaniu operacji z użyciem bezzałogowych obiektów pływających
+
+**Art. 28a.**
+
+1. Bezzałogowy obiekt pływający może zostać zniszczony, unieruchomiony albo może nad nim zostać przejęta kontrola, w przypadku gdy:
+
+- **1)** przebieg operacji lub działanie bezzałogowego obiektu pływającego:
+    - **a)** zagraża lub może zagrozić życiu lub zdrowiu ludzi lub zwierząt,
+    - **b)** stwarza lub może stworzyć zagrożenie dla chronionych obiektów, urządzeń lub obszarów,
+    - **c)** stwarza lub może stworzyć uzasadnione podejrzenie, że może zostać użyty jako środek ataku terrorystycznego,
+    - **d)** stwarza lub może stworzyć zagrożenie bezpieczeństwa jednostki pływającej lub życia lub zdrowia załogi lub pasażerów znajdujących się na jej pokładzie,
+    - **e)** utrudnia lub może utrudnić ruch w portach morskich lub powoduje lub może spowodować jego wstrzymanie lub ograniczenie;
+
+- **2)** bezzałogowy obiekt pływający wbrew zakazowi wykonuje operację na polskich obszarach morskich.
+
+2. Do zniszczenia, unieruchomienia bezzałogowego obiektu pływającego albo przejęcia nad nim kontroli, w związku z realizacją zadań ustawowych, są uprawnieni na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2026 r. poz. 244, 737 i 815) funkcjonariusze Policji, Straży Granicznej, Służby Ochrony Państwa oraz, zgodnie z zakresem właściwości miejscowej, pracownicy ochrony specjalistycznych uzbrojonych formacji ochronnych, o których mowa w art. 2 pkt 7 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia.
+
+3. Do zniszczenia, unieruchomienia bezzałogowego obiektu pływającego albo przejęcia nad nim kontroli, w związku z realizacją zadań ustawowych, na terenie chronionych obiektów Sił Zbrojnych Rzeczypospolitej Polskiej oraz jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej są uprawnieni na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej żołnierze Żandarmerii Wojskowej oraz Sił Zbrojnych Rzeczypospolitej Polskiej.
+
+4. Za szkody powstałe w wyniku zniszczenia, unieruchomienia albo przejęcia kontroli nad bezzałogowym obiektem pływającym w przypadkach, o których mowa w ust. 1, odpowiada właściciel lub operator lub armator bezzałogowego obiektu pływającego zniszczonego, unieruchomionego albo nad którym przejęto kontrolę.
 
 #### Rozdział 7 Weryfikacja ochrony żeglugi i portów
 
@@ -1009,88 +1115,128 @@ o ochronie żeglugi i portów morskich
 
 **Art. 72.** Z dniem wejścia w życie niniejszej ustawy na statkach o polskiej przynależności oraz w portach i obiektach portowych obowiązuje poziom ochrony 1.
 
-**Art. 73.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z tym że art. 18 i art. 31 ust. 1 wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia. ELEMENTY OCENY STANU OCHRONY PORTU I. Ocena stanu ochrony portu będzie obejmować co najmniej: 1. Określenie i ocenę ważnych składników majątku i infrastruktury, które powinny być chronione. 2. Określenie potencjalnych zagrożeń składników majątku i infrastruktury oraz prawdopodobieństwa ich wystąpienia w celu ustanowienia środków ochrony i ustalenia kolejności ich użycia. 3. Określenie, wybór i ustalenie kolejności użycia środków przeciwdziałania oraz poziomu ich skuteczności w zależności od stopnia zagrożenia. 4. Określenie słabych punktów, z uwzględnieniem czynnika ludzkiego, w infrastrukturze, zasadach postępowania i procedurach. II. W tym celu ocena stanu ochrony powinna zawierać: 1. Określenie wszystkich obszarów istotnych z punktu widzenia ochrony, z uwzględnieniem ich granic. 2. Określenie istotnych zagadnień w zakresie ochrony wynikających z oddziaływania między środkami ochrony obiektów portowych a środkami ochrony portu. 3. Określenie, którzy pracownicy portu ze względu na wykonywane obowiązki zostaną poddani podstawowemu postępowaniu sprawdzającemu lub którzy powinni uzyskać poświadczenia bezpieczeństwa stosownie do przepisów o ochronie informacji niejawnych. 4. Określenie, w razie potrzeby, podziału portu na sektory według prawdopodobieństwa zajścia zdarzeń naruszających ochronę. Poszczególne obszary będą oceniane nie tylko jako potencjalne cele bezpośredniego ataku, ale również jako potencjalne drogi przejścia na wypadek zaatakowania obszarów sąsiednich. 5. Określenie zmienności zagrożeń, np. związanych ze zmianą sezonu. 6. Określenie charakterystycznych właściwości każdego sektora, takich jak: lokalizacja, dostęp, zasilanie, system komunikacyjny, własność i użytkownicy, oraz innych elementów istotnych z punktu widzenia ochrony. 7. Określenie prawdopodobnych scenariuszy zagrożeń portu. Celem zidentyfikowanego zagrożenia może być cały port lub poszczególne części jego infrastruktury, ładunek, bagaż, ludzie lub środki transportu w obrębie portu. 8. Określenie skutków właściwych dla danego scenariusza wystąpienia zagrożenia. Skutki mogą dotyczyć jednego lub większej liczby sektorów, przy czym określa się zarówno skutki bezpośrednie, jak i pośrednie; szczególną uwagę należy zwrócić na ryzyko wystąpienia strat w ludziach. 9. Określenie możliwości wystąpienia eskalacji zdarzeń naruszających ochronę. 10. Określenie podatności na zagrożenia każdego z sektorów. 11. Określenie wszystkich istotnych aspektów organizacyjnych niezbędnych do zapewnienia kompleksowej ochrony portu, w tym określenie zakresów kompetencji organów i podmiotów odpowiedzialnych za ochronę, wskazanie obowiązujących przepisów i istniejących procedur. 12. Określenie słabych punktów związanych z aspektami organizacyjnymi, prawnymi i proceduralnymi, istotnych z punktu widzenia konieczności zapewnienia kompleksowej ochrony portu. 13. Określenie środków, procedur i działań mających na celu wyeliminowanie ryzyka wystąpienia krytycznych słabych punktów. Należy zwrócić uwagę na potrzebę kontroli dostępu oraz środki kontroli dostępu lub ograniczenia dostępu, dotyczące całego portu lub jego sektorów, w szczególności na identyfikację pasażerów, pracowników portu oraz innych pracowników, gości i członków załóg statków, a także na wymogi monitorowania sektorów i prowadzonej działalności oraz kontrolę ładunku i bagażu. Środki, procedury i działania będą współmierne do dostrzeżonego zagrożenia, które może być różne w różnych sektorach. 14. Określenie, w jaki sposób wzmocnić środki, procedury oraz działania w przypadku wprowadzenia wyższego poziomu ochrony. 15. Określenie szczegółowych zasad postępowania w odniesieniu do zidentyfikowanych zagrożeń ochrony, takich jak „podejrzane”: ładunek, bagaż, zapasy paliwa lub żywności, osoby, paczki niewiadomego pochodzenia, oraz realnych zagrożeń (np. bomb). Zasady te powinny określać wymagania w zakresie weryfikacji takiego zagrożenia w miejscu jego wykrycia oraz po przetransportowaniu źródła zagrożenia w bezpieczne miejsce. 16. Określenie środków, procedur i działań mających na celu ograniczenie i złagodzenie skutków zagrożeń ochrony portu. 17. Określenie podziału zadań umożliwiających właściwe i poprawne wdrożenie środków, procedur i działań. 18. Analizę innych istniejących planów ochrony, określenie wzajemnych relacji pomiędzy rozwiązaniami zawartymi w tych planach oraz analizę oddziaływania z innymi środkami ochrony portu. Należy zwrócić uwagę również na środki i procedury przewidziane w innych planach reagowania (np. plan reagowania na wyciek ropy, plan reagowania w razie wypadku w porcie, plan na wypadek interwencji medycznej, plan reagowania w razie katastrofy nuklearnej itd.). 19. Określenie wymagań w zakresie wzajemnej komunikacji niezbędnych do prawidłowego wdrożenia środków i procedur. 20. Określenie środków mających zapewnić ochronę przed ujawnieniem informacji istotnych z punktu widzenia ochrony. 21. Określenie, jakie informacje muszą zostać udostępnione wszystkim stronom bezpośrednio zaangażowanym, a także, w razie potrzeby, opinii publicznej. ELEMENTY PLANU OCHRONY PORTU I. Ogólne aspekty planu ochrony portu: 1. Definiowanie wszystkich sektorów istotnych z punktu widzenia ochrony portu. W zależności od oceny stanu ochrony portu, środki, procedury i działania mogą się różnić w poszczególnych sektorach. W niektórych z nich może być wymagane zastosowanie „mocniejszych” środków zapobiegawczych niż w innych. Należy zwrócić szczególną uwagę na miejsca styku poszczególnych sektorów określone w ocenie stanu ochrony portu. 2. Zapewnienie koordynacji środków ochrony dla sektorów różniących się w zakresie wymaganej ochrony. 3. Określenie różnych środków ochrony w odniesieniu do różnych sektorów, zmieniających się poziomów ochrony oraz pozyskanych informacji o potencjalnym zagrożeniu. 4. Określenie struktury organizacyjnej ochrony portu. II. Szczegółowe aspekty planu ochrony portu: 1. Wymagania dotyczące dostępu. Wszystkie wymagania i poziomy ochrony zostaną kompleksowo włączone do planu ochrony portu. 2. Wymagania w zakresie kontroli dokumentów tożsamości, bagażu i ładunku. Wymagania mogą mieć zastosowanie do poszczególnych bądź wszystkich sektorów. Osoby wchodzące lub znajdujące się w danym sektorze mogą podlegać kontroli. Plan ochrony portu w odpowiedni sposób uwzględni wyniki oceny stanu ochrony portu, stanowiącej narzędzie, przy użyciu którego zostaną ustalone wymagania w zakresie ochrony dla każdego sektora, na każdym poziomie ochrony. Jeżeli zostaną wprowadzone specjalne karty identyfikacyjne dla celów ochrony portu, to zostaną ustanowione przejrzyste procedury ich wydawania, kontroli, używania i zwrotu. Procedury takie powinny uwzględniać szczególny charakter niektórych grup użytkowników portów, dopuszczając specjalne środki w celu ograniczenia negatywnych skutków wymagań dotyczących kontroli dostępu. Kategoryzacja powinna uwzględniać co najmniej: osoby podróżujące, urzędników oraz funkcjonariuszy służb państwowych, osoby stale pracujące w porcie lub regularnie go odwiedzające, mieszkańców portu oraz osoby okazjonalnie pracujące w porcie lub okazjonalnie go odwiedzające. 3. Łączność z organami współdziałającymi. W razie potrzeby plan powinien przewidywać połączenie systemu informacyjnego portu z systemami informacyjnymi organów i służb współdziałających. 4. Procedury i środki dotyczące postępowania z „podejrzanymi”: ładunkiem, bagażem, zapasami paliwa lub żywności, osobami, w tym wyznaczenie obszaru chronionego. Procedury i środki powinny obejmować inne zidentyfikowane zagrożenia ochrony. 5. Wymagania dotyczące sektorów lub działalności w obrębie sektorów. Zarówno potrzebę zastosowania różnych rozwiązań technicznych, jak i same rozwiązania określa się na podstawie oceny stanu ochrony portu. 6. Oznakowanie. Obszary, w których stosuje się wymagania dotyczące dostępu lub kontroli, powinny być odpowiednio oznakowane. Wymagania dotyczące dostępu i kontroli powinny uwzględniać obowiązujące przepisy prawne i przyjętą praktykę. 7. Komunikacja oraz poświadczenia bezpieczeństwa. Wszystkie istotne informacje dotyczące ochrony są odpowiednio przekazywane, zgodnie z przepisami w zakresie ochrony informacji niejawnych oraz zapisami zawartymi w planie. Ze względu na wrażliwość niektórych informacji, komunikacja powinna być oparta na zasadzie ścisłej potrzeby. 8. Raporty o naruszeniach ochrony. W celu zapewnienia szybkiego reagowania, plan ochrony portu powinien określać jasne wymagania dotyczące przekazywania oficerowi ochrony portu lub organowi ochrony portu raportów o wszystkich naruszeniach ochrony. 9. Integracja z innymi planami w zakresie ochrony. Plan uwzględnia rozwiązania przewidziane w innych planach oraz stosowane i obowiązujące w porcie inne działania zapobiegawcze i kontrolne. 10. Integracja z planami reagowania lub włączenie określonych środków reagowania, procedur i działań. Plan będzie szczegółowo opisywać wzajemne oddziaływanie i koordynację z innymi planami reagowania i planami awaryjnymi. 11. Wymogi dotyczące szkoleń i ćwiczeń. 12. Organizacja eksploatacyjnej ochrony portu i procedury robocze. Plan ochrony portu powinien szczegółowo określać organizację w zakresie ochrony portu, podział zadań i procedury robocze. Powinien również, w razie potrzeby, szczegółowo określać zasady koordynacji z oficerami ochrony obiektów portowych i statków. Plan ochrony portu powinien zawierać również:
+**Art. 73.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z tym że art. 18 i art. 31 ust. 1 wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.
 
-- **1)** dane dotyczące jednostki ochrony portu, w tym:
-    - **a)** stan etatowy,
-    - **b)** rodzaj i ilość uzbrojenia i amunicji,
-    - **c)** sposób zabezpieczenia broni i amunicji;
+## Załączniki do ustawy z dnia 4 września 2008 r.
 
-- **2)** dane dotyczące rodzaju zabezpieczeń technicznych;
-- **3)** zasady organizacji i wykonywania ochrony.
+(Dz. U. z 2024 r. poz. 597) Załącznik nr 1 ELEMENTY OCENY STANU OCHRONY PORTU I. Ocena stanu ochrony portu będzie obejmować co najmniej:
+1. Określenie i ocenę ważnych składników majątku i infrastruktury, które powinny być chronione.
+2. Określenie potencjalnych zagrożeń składników majątku i infrastruktury oraz prawdopodobieństwa ich wystąpienia w celu ustanowienia środków ochrony i ustalenia kolejności ich użycia.
+3. Określenie, wybór i ustalenie kolejności użycia środków przeciwdziałania oraz poziomu ich skuteczności w zależności od stopnia zagrożenia.
+4. Określenie słabych punktów, z uwzględnieniem czynnika ludzkiego, w infrastrukturze, zasadach postępowania i procedurach.
+II. W tym celu ocena stanu ochrony powinna zawierać:
+1. Określenie wszystkich obszarów istotnych z punktu widzenia ochrony, z uwzględnieniem ich granic.
+2. Określenie istotnych zagadnień w zakresie ochrony wynikających z oddziaływania między środkami ochrony obiektów portowych a środkami ochrony portu.
+3. Określenie, którzy pracownicy portu ze względu na wykonywane obowiązki zostaną poddani podstawowemu postępowaniu sprawdzającemu lub którzy powinni uzyskać poświadczenia bezpieczeństwa stosownie do przepisów o ochronie informacji niejawnych.
+4. Określenie, w razie potrzeby, podziału portu na sektory według prawdopodobieństwa zajścia zdarzeń naruszających ochronę. Poszczególne obszary będą oceniane nie tylko jako potencjalne cele bezpośredniego ataku, ale również jako potencjalne drogi przejścia na wypadek zaatakowania obszarów sąsiednich.
+5. Określenie zmienności zagrożeń, np. związanych ze zmianą sezonu.
+6. Określenie charakterystycznych właściwości każdego sektora, takich jak: lokalizacja, dostęp, zasilanie, system komunikacyjny, własność i użytkownicy, oraz innych elementów istotnych z punktu widzenia ochrony.
+7. Określenie prawdopodobnych scenariuszy zagrożeń portu. Celem zidentyfikowanego zagrożenia może być cały port lub poszczególne części jego infrastruktury, ładunek, bagaż, ludzie lub środki transportu w obrębie portu.
+8. Określenie skutków właściwych dla danego scenariusza wystąpienia zagrożenia. Skutki mogą dotyczyć jednego lub większej liczby sektorów, przy czym określa się zarówno skutki bezpośrednie, jak i pośrednie; szczególną uwagę należy zwrócić na ryzyko wystąpienia strat w ludziach.
+9. Określenie możliwości wystąpienia eskalacji zdarzeń naruszających ochronę.
+10. Określenie podatności na zagrożenia każdego z sektorów.
+11. Określenie wszystkich istotnych aspektów organizacyjnych niezbędnych do zapewnienia kompleksowej ochrony portu, w tym określenie zakresów kompetencji organów i podmiotów odpowiedzialnych za ochronę, wskazanie obowiązujących przepisów i istniejących procedur.
+12. Określenie słabych punktów związanych z aspektami organizacyjnymi, prawnymi i proceduralnymi, istotnych z punktu widzenia konieczności zapewnienia kompleksowej ochrony portu.
+13. Określenie środków, procedur i działań mających na celu wyeliminowanie ryzyka wystąpienia krytycznych słabych punktów. Należy zwrócić uwagę na potrzebę kontroli dostępu oraz środki kontroli dostępu lub ograniczenia dostępu, dotyczące całego portu lub jego sektorów, w szczególności na identyfikację pasażerów, pracowników portu oraz innych pracowników, gości i członków załóg statków, a także na wymogi monitorowania sektorów i prowadzonej działalności oraz kontrolę ładunku i bagażu. Środki, procedury i działania będą współmierne do dostrzeżonego zagrożenia, które może być różne w różnych sektorach.
+14. Określenie, w jaki sposób wzmocnić środki, procedury oraz działania w przypadku wprowadzenia wyższego poziomu ochrony.
+15. Określenie szczegółowych zasad postępowania w odniesieniu do zidentyfikowanych zagrożeń ochrony, takich jak „podejrzane”: ładunek, bagaż, zapasy paliwa lub żywności, osoby, paczki niewiadomego pochodzenia, oraz realnych zagrożeń (np. bomb). Zasady te powinny określać wymagania w zakresie weryfikacji takiego zagrożenia w miejscu jego wykrycia oraz po przetransportowaniu źródła zagrożenia w bezpieczne miejsce.
+16. Określenie środków, procedur i działań mających na celu ograniczenie i złagodzenie skutków zagrożeń ochrony portu.
+17. Określenie podziału zadań umożliwiających właściwe i poprawne wdrożenie środków, procedur i działań.
+18. Analizę innych istniejących planów ochrony, określenie wzajemnych relacji pomiędzy rozwiązaniami zawartymi w tych planach oraz analizę oddziaływania z innymi środkami ochrony portu. Należy zwrócić uwagę również na środki i procedury przewidziane w innych planach reagowania (np. plan reagowania na wyciek ropy, plan reagowania w razie wypadku w porcie, plan na wypadek interwencji medycznej, plan reagowania w razie katastrofy nuklearnej itd.).
+19. Określenie wymagań w zakresie wzajemnej komunikacji niezbędnych do prawidłowego wdrożenia środków i procedur.
+20. Określenie środków mających zapewnić ochronę przed ujawnieniem informacji istotnych z punktu widzenia ochrony.
+21. Określenie, jakie informacje muszą zostać udostępnione wszystkim stronom bezpośrednio zaangażowanym, a także, w razie potrzeby, opinii publicznej.
 
-13. Procedury przyjmowania i aktualizacji planu ochrony portu. OPŁATY I. TARYFA OPŁAT ZA PRZEPROWADZENIE CZYNNOŚCI URZĘDOWYCH ZWIĄZANYCH Z WYDANIEM DOKUMENTÓW OCHRONY PORTÓW
+## Załącznik nr 2 — ELEMENTY PLANU OCHRONY PORTU I. Ogólne aspekty planu ochrony portu:
+
+1. Definiowanie wszystkich sektorów istotnych z punktu widzenia ochrony portu.
+W zależności od oceny stanu ochrony portu, środki, procedury i działania mogą się różnić w poszczególnych sektorach. W niektórych z nich może być wymagane zastosowanie „mocniejszych” środków zapobiegawczych niż w innych. Należy zwrócić szczególną uwagę na miejsca styku poszczególnych sektorów określone w ocenie stanu ochrony portu.
+2. Zapewnienie koordynacji środków ochrony dla sektorów różniących się w zakresie wymaganej ochrony.
+3. Określenie różnych środków ochrony w odniesieniu do różnych sektorów, zmieniających się poziomów ochrony oraz pozyskanych informacji o potencjalnym zagrożeniu.
+4. Określenie struktury organizacyjnej ochrony portu.
+II. Szczegółowe aspekty planu ochrony portu:
+1. Wymagania dotyczące dostępu. Wszystkie wymagania i poziomy ochrony zostaną kompleksowo włączone do planu ochrony portu.
+2. Wymagania w zakresie kontroli dokumentów tożsamości, bagażu i ładunku.
+Wymagania mogą mieć zastosowanie do poszczególnych bądź wszystkich sektorów. Osoby wchodzące lub znajdujące się w danym sektorze mogą podlegać kontroli. Plan ochrony portu w odpowiedni sposób uwzględni wyniki oceny stanu ochrony portu, stanowiącej narzędzie, przy użyciu którego zostaną ustalone wymagania w zakresie ochrony dla każdego sektora, na każdym poziomie ochrony. Jeżeli zostaną wprowadzone specjalne karty identyfikacyjne dla celów ochrony portu, to zostaną ustanowione przejrzyste procedury ich wydawania, kontroli, używania i zwrotu. Procedury takie powinny uwzględniać szczególny charakter niektórych grup użytkowników portów, dopuszczając specjalne środki w celu ograniczenia negatywnych skutków wymagań dotyczących kontroli dostępu. Kategoryzacja powinna uwzględniać co najmniej: osoby podróżujące, urzędników oraz funkcjonariuszy służb państwowych, osoby stale pracujące w porcie lub regularnie go odwiedzające, mieszkańców portu oraz osoby okazjonalnie pracujące w porcie lub okazjonalnie go odwiedzające.
+3. Łączność z organami współdziałającymi.
+W razie potrzeby plan powinien przewidywać połączenie systemu informacyjnego portu z systemami informacyjnymi organów i służb współdziałających.
+4. Procedury i środki dotyczące postępowania z „podejrzanymi”: ładunkiem, bagażem, zapasami paliwa lub żywności, osobami, w tym wyznaczenie obszaru chronionego.
+Procedury i środki powinny obejmować inne zidentyfikowane zagrożenia ochrony.
+5. Wymagania dotyczące sektorów lub działalności w obrębie sektorów.
+Zarówno potrzebę zastosowania różnych rozwiązań technicznych, jak i same rozwiązania określa się na podstawie oceny stanu ochrony portu.
+6. Oznakowanie.
+Obszary, w których stosuje się wymagania dotyczące dostępu lub kontroli, powinny być odpowiednio oznakowane. Wymagania dotyczące dostępu i kontroli powinny uwzględniać obowiązujące przepisy prawne i przyjętą praktykę.
+7. Komunikacja oraz poświadczenia bezpieczeństwa.
+Wszystkie istotne informacje dotyczące ochrony są odpowiednio przekazywane, zgodnie z przepisami w zakresie ochrony informacji niejawnych oraz zapisami zawartymi w planie. Ze względu na wrażliwość niektórych informacji, komunikacja powinna być oparta na zasadzie ścisłej potrzeby.
+8. Raporty o naruszeniach ochrony.
+W celu zapewnienia szybkiego reagowania, plan ochrony portu powinien określać jasne wymagania dotyczące przekazywania oficerowi ochrony portu lub organowi ochrony portu raportów o wszystkich naruszeniach ochrony.
+9. Integracja z innymi planami w zakresie ochrony.
+Plan uwzględnia rozwiązania przewidziane w innych planach oraz stosowane i obowiązujące w porcie inne działania zapobiegawcze i kontrolne.
+10. Integracja z planami reagowania lub włączenie określonych środków reagowania, procedur i działań.
+Plan będzie szczegółowo opisywać wzajemne oddziaływanie i koordynację z innymi planami reagowania i planami awaryjnymi.
+11. Wymogi dotyczące szkoleń i ćwiczeń.
+12. Organizacja eksploatacyjnej ochrony portu i procedury robocze.
+Plan ochrony portu powinien szczegółowo określać organizację w zakresie ochrony portu, podział zadań i procedury robocze. Powinien również, w razie potrzeby, szczegółowo określać zasady koordynacji z oficerami ochrony obiektów portowych i statków.
+Plan ochrony portu powinien zawierać również:
+1) dane dotyczące jednostki ochrony portu, w tym:
+a) stan etatowy,
+b) rodzaj i ilość uzbrojenia i amunicji,
+c) sposób zabezpieczenia broni i amunicji;
+2) dane dotyczące rodzaju zabezpieczeń technicznych;
+3) zasady organizacji i wykonywania ochrony.
+13. Procedury przyjmowania i aktualizacji planu ochrony portu.
+
+## Załącznik nr 3 — OPŁATY I. TARYFA OPŁAT ZA PRZEPROWADZENIE CZYNNOŚCI URZĘDOWYCH ZWIĄZANYCH Z WYDANIEM DOKUMENTÓW OCHRONY PORTÓW
 
 1. Zatwierdzenie oceny stanu ochrony portu 1200 PLN
-
 2. Zatwierdzenie planu ochrony portu 1200 PLN II. TARYFA OPŁAT ZA PRZEPROWADZENIE CZYNNOŚCI URZĘDOWYCH ZWIĄZANYCH Z WYDANIEM DOKUMENTÓW OCHRONY OBIEKTÓW PORTOWYCH
-
 1. Wydanie potwierdzenia zgodności obiektu portowego 500 PLN
-
 2. Zatwierdzenie oceny stanu ochrony obiektu portowego 600 PLN
-
 3. Zatwierdzenie planu ochrony obiektu portowego 600 PLN
-
 4. Zatwierdzenie poprawek do oceny stanu ochrony obiektu portowego 100 PLN
-
 5. Zatwierdzenie poprawek do planu ochrony obiektu portowego 100 PLN
-
 6. Przeprowadzenie weryfikacji w celu stwierdzenia zgodności stanu ochrony obiektu portowego z zatwierdzonym planem i wymaganiami Kodeksu ISPS 800 PLN III. TARYFA OPŁAT ZA PRZEPROWADZENIE CZYNNOŚCI URZĘDOWYCH ZWIĄZANYCH Z WYDANIEM DOKUMENTÓW OCHRONY STATKÓW
-
 1. Przeprowadzenie weryfikacji w celu stwierdzenia zgodności stanu ochrony statku towarowego z zatwierdzonym planem i wymaganiami Kodeksu ISPS:
-
-1. 1. Statki o pojemności brutto powyżej 500 do 2000 800 PLN
-
-1. 2. Statki o pojemności brutto powyżej 2000 do 10 000 1200 PLN
-
-1. 3. Statki o pojemności brutto powyżej 10 000 1600 PLN
-
+1.1. Statki o pojemności brutto powyżej 500 do 2000 800 PLN
+1.2. Statki o pojemności brutto powyżej 2000 do 10 000 1200 PLN
+1.3. Statki o pojemności brutto powyżej 10 000 1600 PLN
 2. Przeprowadzenie weryfikacji w celu stwierdzenia zgodności stanu ochrony statku pasażerskiego z zatwierdzonym planem i wymaganiami Kodeksu ISPS:
-
-2. 1. Statki o pojemności brutto do 2000 1000 PLN
-
-2. 2. Statki o pojemności brutto powyżej 2000 do 10 000 2000 PLN
-
-2. 3. Statki o pojemności brutto powyżej 10 000 3000 PLN
-
+2.1. Statki o pojemności brutto do 2000 1000 PLN
+2.2. Statki o pojemności brutto powyżej 2000 do 10 000 2000 PLN
+2.3. Statki o pojemności brutto powyżej 10 000 3000 PLN
 3. Za tymczasowy międzynarodowy certyfikat ochrony statku lub międzynarodowy certyfikat ochrony statku 350 PLN
-
-4. 1. Zatwierdzenie planu ochrony statku 600 PLN
-
-4. 2. Zatwierdzenie poprawek do planu ochrony statku 300 PLN
-
-5. 1. Wydanie zapisu historii statku lub jego duplikatu 300 PLN
-
-5. 2. Wprowadzenie poprawek do zapisu historii statku 50 PLN IV. TARYFA OPŁAT ZA PRZEPROWADZENIE CZYNNOŚCI URZĘDOWYCH ZWIĄZANYCH Z WYDANIEM ŚWIADECTW PRZESZKOLENIA CSO I PFSO
-
+4.1. Zatwierdzenie planu ochrony statku 600 PLN
+4.2. Zatwierdzenie poprawek do planu ochrony statku 300 PLN
+5.1. Wydanie zapisu historii statku lub jego duplikatu 300 PLN
+5.2. Wprowadzenie poprawek do zapisu historii statku 50 PLN IV. TARYFA OPŁAT ZA PRZEPROWADZENIE CZYNNOŚCI URZĘDOWYCH ZWIĄZANYCH Z WYDANIEM ŚWIADECTW PRZESZKOLENIA CSO I PFSO
 1. Wydanie świadectwa przeszkolenia CSO 20 PLN
-
 2. Wydanie świadectwa przeszkolenia PFSO 20 PLN V. UWAGI DODATKOWE
-
 1. Opłata za potwierdzenie ważności dokumentu ochrony wynosi 50 % wartości stawki określonej za wydanie dokumentu ochrony.
-
 2. W przypadku gdy weryfikacja – z powodów niezależnych od właściwego urzędu morskiego – zostanie w całości lub częściowo przeprowadzona poza godzinami pracy właściwego urzędu morskiego, opłaty za weryfikację i wydanie dokumentu ochrony wynoszą 130 % opłaty podstawowej.
+3. Koszty przejazdów oraz pobytu członków zespołu poza siedzibą właściwego urzędu morskiego, związane z przeprowadzaniem weryfikacji, ponosi zleceniodawca.
 
-3. Koszty przejazdów oraz pobytu członków zespołu poza siedzibą właściwego urzędu morskiego, związane z przeprowadzaniem weryfikacji, ponosi zleceniodawca. KRYTERIA, KTÓRE POWINNA SPEŁNIAĆ ORGANIZACJA UBIEGAJĄCA SIĘ O UPOWAŻNIENIE Instytucja lub podmiot gospodarczy powinien udowodnić, że posiada:
+## Załącznik nr 4 — KRYTERIA, KTÓRE POWINNA SPEŁNIAĆ ORGANIZACJA UBIEGAJĄCA SIĘ O UPOWAŻNIENIE Instytucja lub podmiot gospodarczy powinien udowodnić, że posiada:
 
-- **1)** specjalistyczną wiedzę w dziedzinie istotnych aspektów ochrony;
-- **2)** odpowiednią znajomość zasad eksploatacji statków;
-- **3)** odpowiednią znajomość portów, zarządzania operacjami przeładunkowymi, znajomość zasad obrotu portowo-morskiego (jeżeli ma świadczyć usługi w odniesieniu do obiektów portowych);
-- **4)** zdolność do oceny prawdopodobnych zdarzeń i ryzyka w zakresie ochrony, które mogą pojawić się w czasie eksploatacji statków i obiektów portowych, np.: w relacji statek – statek, statek – obiekt portowy itp., oraz sposobów minimalizacji takiego ryzyka;
-- **5)** zdolność do utrzymywania, doskonalenia i podnoszenia wiedzy specjalistycznej pracowników;
-- **6)** określone zasady sprawowania funkcji kontrolnych oraz nadzoru nad pracownikami i ponoszenia odpowiedzialności;
-- **7)** zdolność do utrzymywania odpowiednich środków zapewniających uniknięcie nieuprawnionego dostępu lub ujawnienia do materiałów ważnych dla ochrony;
-- **8)** znajomość wymagań Rozdziału XI-2 Konwencji SOLAS oraz Kodeksu ISPS, a także prawa krajowego i międzynarodowego w tym zakresie;
-- **9)** wiedzę o bieżących zagrożeniach i sposobach zapobiegania im;
-- **10)** wiedzę w zakresie rozpoznawania i wykrywania wszystkich rodzajów broni biologicznej, chemicznej, masowego rażenia, substancji i urządzeń niebezpiecznych;
-- **11)** wiedzę na temat rozpoznawania, w sposób wolny od dyskryminacji, cech charakterystycznych i osobowych wzorów zachowań osób, które mogą zagrozić bezpieczeństwu, tak aby nie naruszyć dóbr osobistych i zasad takich, jak: tolerancja, równość oraz wolność sumienia i wyznania itp.;
-- **12)** znajomość środków ochrony, metod ich zastosowania i zapobiegania im;
-- **13)** znajomość systemów ochrony i nadzoru oraz ich wyposażenia, a także ograniczeń wynikających z eksploatacji portów, obiektów portowych i statków;
-- **14)** pracowników z ważnymi poświadczeniami bezpieczeństwa wydanymi w sytuacji wykonywania przez nich zadań wymagających dostępu do informacji niejawnych;
-- **15)** zdolność do wytwarzania, przetwarzania, przechowywania i przekazywania informacji niejawnych, odpowiednio do ich klauzuli tajności, zgodnie z przepisami o ochronie informacji niejawnych. DOKUMENTY, KTÓRE POWINNA PRZEDSTAWIĆ ORGANIZACJA UBIEGAJĄCA SIĘ O UPOWAŻNIENIE Instytucja lub podmiot gospodarczy występujące o wyznaczenie do pełnienia funkcji RSO dla statków powinny przedstawić do oceny:
-- **1)** procedurę certyfikacji statku na zgodność z wymaganiami Kodeksu ISPS w celu wydania międzynarodowego certyfikatu ochrony statku;
-- **2)** procedurę szkolenia, nadawania kompetencji i rejestracji audytorów ISPS;
-- **3)** wykaz audytorów ISPS;
-- **4)** wzór międzynarodowego certyfikatu ochrony statku.
+1) specjalistyczną wiedzę w dziedzinie istotnych aspektów ochrony;
+2) odpowiednią znajomość zasad eksploatacji statków;
+3) odpowiednią znajomość portów, zarządzania operacjami przeładunkowymi, znajomość zasad obrotu portowo-morskiego (jeżeli ma świadczyć usługi w odniesieniu do obiektów portowych);
+4) zdolność do oceny prawdopodobnych zdarzeń i ryzyka w zakresie ochrony, które mogą pojawić się w czasie eksploatacji statków i obiektów portowych, np.: w relacji statek – statek, statek – obiekt portowy itp., oraz sposobów minimalizacji takiego ryzyka;
+5) zdolność do utrzymywania, doskonalenia i podnoszenia wiedzy specjalistycznej pracowników;
+6) określone zasady sprawowania funkcji kontrolnych oraz nadzoru nad pracownikami i ponoszenia odpowiedzialności;
+7) zdolność do utrzymywania odpowiednich środków zapewniających uniknięcie nieuprawnionego dostępu lub ujawnienia do materiałów ważnych dla ochrony;
+8) znajomość wymagań Rozdziału XI-2 Konwencji SOLAS oraz Kodeksu ISPS, a także prawa krajowego i międzynarodowego w tym zakresie;
+9) wiedzę o bieżących zagrożeniach i sposobach zapobiegania im;
+10) wiedzę w zakresie rozpoznawania i wykrywania wszystkich rodzajów broni biologicznej, chemicznej, masowego rażenia, substancji i urządzeń niebezpiecznych;
+11) wiedzę na temat rozpoznawania, w sposób wolny od dyskryminacji, cech charakterystycznych i osobowych wzorów zachowań osób, które mogą zagrozić bezpieczeństwu, tak aby nie naruszyć dóbr osobistych i zasad takich, jak: tolerancja, równość oraz wolność sumienia i wyznania itp.;
+12) znajomość środków ochrony, metod ich zastosowania i zapobiegania im;
+13) znajomość systemów ochrony i nadzoru oraz ich wyposażenia, a także ograniczeń wynikających z eksploatacji portów, obiektów portowych i statków;
+14) pracowników z ważnymi poświadczeniami bezpieczeństwa wydanymi w sytuacji wykonywania przez nich zadań wymagających dostępu do informacji niejawnych;
+15) zdolność do wytwarzania, przetwarzania, przechowywania i przekazywania informacji niejawnych, odpowiednio do ich klauzuli tajności, zgodnie z przepisami o ochronie informacji niejawnych.
 
+## Załącznik nr 5 — DOKUMENTY, KTÓRE POWINNA PRZEDSTAWIĆ ORGANIZACJA UBIEGAJĄCA SIĘ O UPOWAŻNIENIE Instytucja lub podmiot gospodarczy występujące o wyznaczenie do pełnienia funkcji RSO dla statków powinny przedstawić do oceny:
+
+1) procedurę certyfikacji statku na zgodność z wymaganiami Kodeksu ISPS w celu wydania międzynarodowego certyfikatu ochrony statku;
+2) procedurę szkolenia, nadawania kompetencji i rejestracji audytorów ISPS;
+3) wykaz audytorów ISPS;
+4) wzór międzynarodowego certyfikatu ochrony statku.
 

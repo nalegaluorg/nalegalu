@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 15 kwietnia 2011 r. o działalności leczniczej*
 
 Łącznie: **691** orzeczeń
-(pominięto 483 orzeczeń sądów rejonowych)
+(pominięto 484 orzeczeń sądów rejonowych)
 
 ## art. 2 (53)
 

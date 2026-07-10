@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
+*USTAWA z dnia 7 maja 2010 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2026 poz. 562 |
@@ -22,18 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2026-04-17 |
 | Data wydania | 2026-04-24 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000562) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/562/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311), z uwzględnieniem stanu prawnego na dzień 9 kwietnia 2026 r. oraz zmian wprowadzonych:
-1) ustawą z dnia 9 lipca 2025 r. o zmianie ustawy o aplikacji mObywatel oraz niektórych innych ustaw (Dz. U. poz. 1019);
-2) ustawą z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 7 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy o aplikacji mObywatel oraz niektórych innych ustaw (Dz. U.
-poz. 1019), który stanowi: „ Art. 7. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 3 w zakresie art. 3c oraz art. 1 pkt 5, które wchodzą w życie z dniem 31 grudnia 2025 r.; 2) art. 3, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia; 3) art. 4 pkt 4, który wchodzi w życie z dniem 1 września 2025 r.”;
-2) art. 54 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203), który stanowi: „ Art. 54. Ustawa wchodzi w życie z dniem 5 marca 2026 r., z wyjątkiem: 1) art. 17 pkt 3 lit. d tiret drugie i pkt 51 w zakresie uchylenia art. 110, które wchodzą w życie z dniem 1 stycznia 2027 r.; 2) art. 17 pkt 46 i 51 w zakresie uchylenia art. 113, które wchodzą w życie z dniem 5 marca 2027 r.; 3) art. 14, który wchodzi w życie z dniem 1 września 2027 r.; 4) art. 17 pkt 22–31, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”. Marszałek Sejmu: W. Czarzasty
-USTAWA z dnia 7 maja 2010 r.
-o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -58,9 +50,9 @@ o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
 - **1)** sieć szerokopasmowa – sieć telekomunikacyjną służącą do zapewnienia szerokopasmowego dostępu do Internetu. Dostęp określa się jako szerokopasmowy, jeżeli wydajność łącza nie jest czynnikiem ograniczającym możliwość uruchomienia aplikacji dostępnych w sieci;
 - **2)** regionalna sieć szerokopasmowa – sieć szerokopasmową lub infrastrukturę telekomunikacyjną realizowaną przez jednostki samorządu terytorialnego, porozumienie, związek lub stowarzyszenie jednostek samorządu terytorialnego, porozumienie komunalne, spółkę kapitałową lub spółdzielnię z udziałem jednostki samorządu terytorialnego, zamawiającego w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2025 r. poz. 1688) albo przez partnera prywatnego w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz. 426) w ramach programów operacyjnych;
-- **3)** podmiot wykonujący zadania z zakresu użyteczności publicznej – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której przepisy szczególne przyznają zdolność prawną, zapewniającą infrastrukturę techniczną na potrzeby:
+- **3)** podmiot wykonujący zadania z zakresu użyteczności publicznej – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której przepisy szczególne przyznają zdolność prawną, zapewniającą infrastrukturę techniczną na potrzeby: poz. 43),
     - **a)** wytwarzania, przesyłania lub dystrybucji gazu, energii elektrycznej lub ciepła,
-    - **b)** zapewnienia oświetlenia w miejscach, o których mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43),
+    - **b)** zapewnienia oświetlenia w miejscach, o których mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r.
     - **c)** zaopatrzenia ludności w wodę, gromadzenia, przesyłania, oczyszczania lub odprowadzania ścieków, ogrzewania, systemów odwodnienia, w tym ciągów drenażowych,
     - **d)** transportu, w tym linii kolejowych, dróg, portów i lotnisk;
 
@@ -277,7 +269,7 @@ o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
 **Art. 16b.**
 
-- **5)** 1. Minister właściwy do spraw informatyzacji, w celu zapewnienia ochrony interesów i bezpieczeństwa Rzeczypospolitej Polskiej, może realizować zadania z zakresu informatyzacji na rzecz innego państwa dotkniętego konfliktem zbrojnym.
+1. Minister właściwy do spraw informatyzacji, w celu zapewnienia ochrony interesów i bezpieczeństwa Rzeczypospolitej Polskiej, może realizować zadania z zakresu informatyzacji na rzecz innego państwa dotkniętego konfliktem zbrojnym.
 
 2. Zadania, o których mowa w ust. 1, mogą być realizowane na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa, o którym mowa w ust. 1.
 
@@ -616,7 +608,7 @@ o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
 6. Wójt (burmistrz, prezydent miasta), starosta i marszałek województwa przekazują Prezesowi UKE w systemie teleinformatycznym, o którym mowa w art. 29b ust. 2, informacje o stawkach opłaty, o której mowa w art. 29b ust. 1 pkt 6, w terminie 14 dni od dnia wejścia w życie uchwały, o której mowa w art. 40 ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
 
-6a. Na wniosek Prezesa UKE dyrektor Rządowego Centrum Bezpieczeństwa udostępnia Prezesowi UKE, w terminie 14 dni od dnia otrzymania wniosku, wykazy infrastruktury krytycznej, o których mowa w art. 5 ust. 2 pkt 3 lit. k ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, znajdującej się na terenie województw, objęte wojewódzkimi planami zarządzania kryzysowego.
+6a. Na wniosek Prezesa UKE dyrektor Rządowego Centrum Bezpieczeństwa udostępnia Prezesowi UKE, w terminie 14 dni od dnia otrzymania wniosku, wyciągi z wykazu infrastruktury krytycznej, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, znajdującej się na terenie województw, objętej wojewódzkimi planami zarządzania kryzysowego.
 
 7. Podmioty inne niż wymienione w ust. 1–4, które ze względu na zakres swoich zadań posiadają w postaci elektronicznej informacje, o których mowa w art. 29b ust. 1 pkt 3, niezwłocznie przekazują je Prezesowi UKE, na jego wniosek.
 
@@ -657,10 +649,10 @@ o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
 1. System informacyjny PEM zapewnia publiczny i nieodpłatny dostęp do prezentowanych na stronie internetowej w postaci map cyfrowych i tabel następujących informacji:
 
-- **1)** o poziomach pola elektromagnetycznego pochodzących z pomiarów lub badań: poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176 i 426), poz. 425 oraz z 2025 r. poz. 1863),
-    - **a)** o których mowa w art. 122a ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r.
+- **1)** o poziomach pola elektromagnetycznego pochodzących z pomiarów lub badań:
+    - **a)** o których mowa w art. 122a ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176 i 426),
     - **b)** o których mowa w art. 123 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, zgromadzonych w systemie informatycznym Inspekcji Ochrony Środowiska „Ekoinfonet”,
-    - **c)** o których mowa w art. 17 ust. 3a ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r.
+    - **c)** o których mowa w art. 17 ust. 3a ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz. 425 oraz z 2025 r. poz. 1863),
     - **d)** prowadzonych przez podmioty inne niż wymienione w art. 122a ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska lub instytucje, poza Głównym Inspektorem Ochrony Środowiska, i wykonanych przez akredytowane laboratoria w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2023 r. poz. 215 oraz z 2025 r. poz. 1826);
 
 - **2)** o lokalizacjach instalacji radiokomunikacyjnych wykorzystywanych na cele ruchomych publicznych sieci telekomunikacyjnych, z wyłączeniem informacji o infrastrukturze krytycznej;
@@ -760,9 +752,7 @@ o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
 7. Lokalizowanie przestrzenne, wprowadzanie oraz aktualizacja informacji, o których mowa w ust. 4 pkt 1 oraz art. 29j, następuje w oparciu o informacje pochodzące z baz danych, o których mowa w art. 4 ust. 1a pkt 2, 4 i 6 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
 
-**Art. 29la.**
-
-- **6)** Minister właściwy do spraw informatyzacji może udostępniać informacje, o których mowa w art. 29j, art. 29k ust. 1 i 4 oraz art. 29l ust. 4 pkt 1, z wykorzystaniem usługi udostępnionej w aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019).
+**Art. 29la.** Minister właściwy do spraw informatyzacji może udostępniać informacje, o których mowa w art. 29j, art. 29k ust. 1 i 4 oraz art. 29l ust. 4 pkt 1, z wykorzystaniem usługi udostępnionej w aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019).
 
 **Art. 29m.**
 
@@ -1039,7 +1029,7 @@ o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
 4. Decyzję w sprawie koordynacji robót budowlanych obejmujących obiekty i roboty budowlane, o których mowa w art. 82 ust. 3 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, wydaje wojewoda właściwy ze względu na miejsce wykonywania robót budowlanych. Przepisy ust. 1–3 stosuje się odpowiednio.
 
-5. Do decyzji w sprawie koordynacji robót budowlanych przepisy art. 22 ust. 6–7a stosuje się odpowiednio.
+5. Do decyzji w sprawie koordynacji robót budowlanych przepisy art. 22 ust. 6– 7a stosuje się odpowiednio.
 
 **Art. 36d.** Operator sieci zawiera umowy o projektowaniu i wykonywaniu robót budowlanych dotyczących infrastruktury technicznej, uwzględniając obowiązki w zakresie koordynacji robót budowlanych.
 
@@ -1213,7 +1203,7 @@ o wspieraniu rozwoju usług i sieci telekomunikacyjnych
 
 - **1)** decyzję o środowiskowych uwarunkowaniach, wydaną zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940 oraz z 2025 r. poz. 1535), o ile jest wymagana;
 - **2)** uzgodnienia lokalizacji regionalnej sieci szerokopasmowej z właściwym zarządcą drogi – w odniesieniu do obszarów pasa drogowego lub obszarów w liniach rozgraniczających teren inwestycji drogowej określonych w decyzji o ustaleniu lokalizacji drogi, decyzji o ustaleniu lokalizacji drogi krajowej albo decyzji o zezwoleniu na realizację inwestycji drogowej a także obszarów przyległych do pasa drogowego;
-- **3)** opinie: poz. 1168 i 1673 oraz z 2026 r. poz. 483),
+- **3)** opinie: o transporcie kolejowym,
     - **a)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji lokalizowanych w miejscowościach uzdrowiskowych,
     - **b)** dyrektora właściwego urzędu morskiego – w odniesieniu do obszarów morskich, obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani,
     - **c)** właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych,
@@ -1223,8 +1213,8 @@ o wspieraniu rozwoju usług i sieci telekomunikacyjnych
     - **g)** właściwego regionalnego dyrektora ochrony środowiska – w odniesieniu do innych niż wymienione w lit. f obszarów objętych ochroną na podstawie przepisów o ochronie przyrody,
     - **h)** dyrektora właściwego regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz w odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach bezpośredniego zagrożenia powodzią,
     - **i)** dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe,
-    - **j)** właściwego wojewódzkiego konserwatora zabytków – w odniesieniu do zabytków chronionych na podstawie ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907, z 2025 r.
-    - **k)** właściwego zarządcy terenów kolejowych – w odniesieniu do obszarów kolejowych, zgodnie z przepisami ustawy z dnia 28 marca 2003 r. o transporcie kolejowym,
+    - **j)** właściwego wojewódzkiego konserwatora zabytków – w odniesieniu do zabytków chronionych na podstawie ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907, z 2025 r. poz. 1168 i 1673 oraz z 2026 r. poz. 483),
+    - **k)** właściwego zarządcy terenów kolejowych – w odniesieniu do obszarów kolejowych, zgodnie z przepisami ustawy z dnia 28 marca 2003 r.
     - **l)** właściwego marszałka województwa oraz starosty w zakresie zadań samorządowych, służących do realizacji inwestycji celu publicznego, o których mowa w art. 39 ust. 3 pkt 3 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – w odniesieniu do terenów nieobjętych planami zagospodarowania przestrzennego,
     - **m)** właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta, burmistrza lub prezydenta miasta.
 

@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2008-10-03 |
 | Data wydania | 2008-11-07 |
-| Ostatnia zmiana | 2026-06-03 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081991227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -495,8 +495,7 @@ source: pdf
     - **d)** informacje o wielkości i składzie izotopowym uwolnień substancji promieniotwórczych ze składowisk odpadów promieniotwórczych do środowiska,
     - **e)** informacje o zdarzeniach w składowiskach odpadów promieniotwórczych powodujących powstanie zagrożenia – z wyłączeniem informacji dotyczących ochrony fizycznej i zabezpieczeń materiałów jądrowych, a także informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji;
 
-- **10)** przez Prezesa Urzędu Dozoru Technicznego, z zakresu ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194 oraz z 2026 r. poz.
-- **252)** :
+- **10)** przez Prezesa Urzędu Dozoru Technicznego, z zakresu ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194 oraz z 2026 r. poz. 252):
     - **a)** informacje o funkcjonowaniu urządzeń, o których mowa w przepisach wykonawczych wydanych na podstawie art. 5 ust. 4 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym, zainstalowanych i eksploatowanych w elektrowni jądrowej,
     - **b)** roczne oceny dotyczące funkcjonowania urządzeń, o których mowa w przepisach wykonawczych wydanych na podstawie art. 5 ust. 4 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym, zainstalowanych i eksploatowanych w elektrowni jądrowej – z wyłączeniem informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji.
 

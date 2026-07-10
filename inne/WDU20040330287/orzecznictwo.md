@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej*
 
-Łącznie: **32** orzeczeń
+Łącznie: **33** orzeczeń
 (pominięto 15 orzeczeń sądów rejonowych)
 
 ## art. 3 (4)
@@ -44,9 +44,10 @@ Orzeczenia powołujące: *Ustawa z dnia 29 stycznia 2004 r. o Inspekcji Weteryna
 
 - 2015-02-13 | SO | [I ACa 872/14](https://www.saos.org.pl/judgments/129578) | Postanowienie
 
-## art. 16 (22)
+## art. 16 (23)
 
 - 2011-03-03 | SN | [III ZS 2/11](https://www.saos.org.pl/judgments/94365) | Wyrok ★
+- 2026-04-16 | SO | [III AUa 963/25](https://www.saos.org.pl/judgments/547211) | Wyrok
 - 2026-03-31 | SO | [III AUa 726/25](https://www.saos.org.pl/judgments/546031) | Wyrok
 - 2025-07-03 | SO | [III AUa 669/24](https://www.saos.org.pl/judgments/537930) | Wyrok
 - 2025-05-27 | SO | [III AUa 713/24](https://www.saos.org.pl/judgments/537937) | Wyrok

@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1983-07-28 |
 | Data wydania | 1983-08-11 |
-| Ostatnia zmiana | 2026-04-17 |
+| Ostatnia zmiana | 2026-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830450207) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1983/207/text.pdf) |
 
 #### Rozdział 1 Przedmiot opodatkowania
@@ -400,6 +400,16 @@ source: pdf
 6. Jeżeli przedmiotem aktu notarialnego, który ma być sporządzony, lub dokumentu, co do którego notariusz ma uwierzytelnić podpis, ma być zbycie praw do spadku albo zbycie lub obciążenie rzeczy lub praw majątkowych uzyskanych tytułem, określonym w art. 1, notariusz może dokonać tych czynności tylko za uprzednią pisemną zgodą naczelnika urzędu skarbowego albo po przedstawieniu zaświadczenia wydanego przez naczelnika urzędu skarbowego potwierdzającego, że nabycie jest zwolnione od podatku, że należny podatek został zapłacony albo zobowiązanie podatkowe wygasło wskutek przedawnienia.
 
 7. Przepisu ust. 6 nie stosuje się, gdy nabycie zbywanych lub obciążanych rzeczy lub praw majątkowych nastąpiło na podstawie umowy zawartej w formie aktu notarialnego lub było zwolnione od podatku na podstawie art. 4a.
+
+#### Rozdział 5a Przepisy epizodyczne
+
+**Art. 19a.**
+
+1. Zwalnia się od podatku darowizny, jeżeli w okresie od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2026 r. zostaną przeznaczone przez obdarowanego na usunięcie skutków powodzi z września 2024 r. na terenie gmin wskazanych w przepisach określających wykaz gmin, w których były lub są stosowane szczególne rozwiązania związane z usuwaniem skutków powodzi z września 2024 r., wydanych na podstawie art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2025 r. poz. 1402 i 1847).
+
+2. Do środka trwałego będącego przedmiotem darowizny, o której mowa w ust. 1, nie stosuje się przepisów art. 23 ust. 1 pkt 45 i pkt 45a lit. a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2026 r. poz. 592).
+
+**Art. 19b.** W zakresie, w jakim obdarowany nie przeznaczy do dnia 31 grudnia 2026 r. przedmiotu darowizny, o której mowa w art. 19a ust. 1, na cel określony w tym przepisie, jest obowiązany złożyć do dnia 31 stycznia 2027 r. właściwemu naczelnikowi urzędu skarbowego zeznanie podatkowe o nabyciu rzeczy lub praw majątkowych.
 
 #### Rozdział 6 Przepisy przejściowe i końcowe
 

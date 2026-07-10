@@ -776,9 +776,7 @@ source: pdf
 
 2. Kontroli działalności gospodarczej przedsiębiorcy dokonuje się w obecności kontrolowanego albo osoby przez niego upoważnionej.
 
-2a. W przypadku nieobecności osób, o których mowa w ust. 2, czynności kontrolne mogą być wykonywane w obecności innego pracownika kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz.
-
-- **326)** , lub w obecności przywołanego świadka, którym powinien być funkcjonariusz publiczny, niebędący jednak pracownikiem organu przeprowadzającego kontrolę.
+2a. W przypadku nieobecności osób, o których mowa w ust. 2, czynności kontrolne mogą być wykonywane w obecności innego pracownika kontrolowanego, który może być uznany za osobę, o której mowa w art. 97 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326), lub w obecności przywołanego świadka, którym powinien być funkcjonariusz publiczny, niebędący jednak pracownikiem organu przeprowadzającego kontrolę.
 
 3. Kierownik zespołu przekazuje kontrolowanemu protokół pokontrolny, do którego kontrolowany ma prawo zgłosić uwagi, w terminie 14 dni od dnia jego otrzymania.
 

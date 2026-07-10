@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 14 lutego 1991 r. Prawo o notariacie.*
 
 Łącznie: **689** orzeczeń
-(pominięto 741 orzeczeń sądów rejonowych)
+(pominięto 745 orzeczeń sądów rejonowych)
 
 ## art. 1 (22)
 

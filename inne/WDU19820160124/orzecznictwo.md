@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 26 maja 1982 r. Prawo o adwokaturze.*
 
-Łącznie: **3897** orzeczeń w **133** artykułach
-(pominięto 5180 orzeczeń sądów rejonowych)
+Łącznie: **3900** orzeczeń w **133** artykułach
+(pominięto 5187 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -51,7 +51,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 28 § 2 | 3 | 1 | 2 | 0 | 1 | 0 | [art-28-par-2.csv](orzecznictwo/art-28-par-2.csv) |
 | art. 28 § 6 | 1 | 0 | 1 | 0 | 0 | 0 | [art-28-par-6.csv](orzecznictwo/art-28-par-6.csv) |
 | art. 28 § 13 | 1 | 0 | 1 | 0 | 0 | 0 | [art-28-par-13.csv](orzecznictwo/art-28-par-13.csv) |
-| art. 29 | 3433 | 4 | 1862 | 1567 | 8 | 3 | [art-29.csv](orzecznictwo/art-29.csv) |
+| art. 29 | 3435 | 4 | 1864 | 1567 | 8 | 3 | [art-29.csv](orzecznictwo/art-29.csv) |
 | art. 29 § 1 | 85 | 0 | 17 | 68 | 0 | 0 | [art-29-par-1.csv](orzecznictwo/art-29-par-1.csv) |
 | art. 29 § 2 | 157 | 0 | 47 | 110 | 0 | 0 | [art-29-par-2.csv](orzecznictwo/art-29-par-2.csv) |
 | art. 29 § 3 | 9 | 0 | 4 | 5 | 0 | 0 | [art-29-par-3.csv](orzecznictwo/art-29-par-3.csv) |
@@ -144,7 +144,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | § 8 ust. 1 | 1 | 0 | 1 | 0 | 0 | 0 | [par-8-ust-1.csv](orzecznictwo/par-8-ust-1.csv) |
 | § 14 | 1 | 0 | 1 | 0 | 0 | 0 | [par-14.csv](orzecznictwo/par-14.csv) |
 | § 14 ust. 2 | 1 | 0 | 1 | 0 | 0 | 0 | [par-14-ust-2.csv](orzecznictwo/par-14-ust-2.csv) |
-| (ogólnie) | 132 | 0 | 84 | 48 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
+| (ogólnie) | 133 | 0 | 85 | 48 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
 
 ## Najważniejsze orzeczenia
 
@@ -1083,6 +1083,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 
 ### (ogólnie) (20 wiodących)
 
+- ★★ 2026-01-20 | SO | [I ACa 50/25](https://www.saos.org.pl/judgments/547552) | Wyrok (score: 56)
 - ★★ 2025-05-26 | SO | [I ACa 1490/22](https://www.saos.org.pl/judgments/540530) | Wyrok (score: 56)
 - ★★ 2025-03-26 | SO | [II AKa 472/24](https://www.saos.org.pl/judgments/534177) | Wyrok (score: 56)
 - ★★ 2025-01-16 | SO | [I ACa 658/23](https://www.saos.org.pl/judgments/536906) | Wyrok (score: 56)
@@ -1102,5 +1103,4 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2021-12-03 | SO | [I ACa 588/20](https://www.saos.org.pl/judgments/459888) | Wyrok (score: 56)
 - ★★ 2021-09-14 | SO | [I ACa 764/20](https://www.saos.org.pl/judgments/449592) | Wyrok (score: 56)
 - ★★ 2021-09-14 | SO | [I ACa 351/20](https://www.saos.org.pl/judgments/448136) | Wyrok (score: 56)
-- ★★ 2021-07-21 | SO | [I ACa 244/20](https://www.saos.org.pl/judgments/447960) | Wyrok (score: 56)
 

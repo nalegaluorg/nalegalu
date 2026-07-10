@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2008-05-30 |
 | Data wydania | 2008-07-02 |
-| Ostatnia zmiana | 2026-06-10 |
+| Ostatnia zmiana | 2026-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081160730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/730/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -57,8 +57,7 @@ source: pdf
 - **12)** przedsiębiorca – przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji nr 651/2014;
 - **13)** średni przedsiębiorca – średnie przedsiębiorstwo w rozumieniu załącznika I do rozporządzenia Komisji nr 651/2014;
 - **14)** udział własny – udział przedsiębiorcy w finansowaniu inwestycji technologicznej pochodzący ze środków własnych lub zewnętrznych źródeł finansowania, w postaci wolnej od wszelkiego publicznego wsparcia finansowego;
-- **15)** środki trwałe – środki trwałe w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106 oraz z 2022 r. poz.
-- **1488)** ;
+- **15)** środki trwałe – środki trwałe w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106 oraz z 2022 r. poz. 1488);
 - **16)** (uchylony)
 - **17)** przychody netto – przychody bez podatku od towarów i usług.
 

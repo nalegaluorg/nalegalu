@@ -60,8 +60,7 @@ Osiągnięcia dziecka na koniec wychowania przedszkolnego I. Fizyczny obszar roz
 II. Emocjonalny obszar rozwoju dziecka. Dziecko przygotowane do podjęcia nauki w szkole:
 1) rozpoznaje i nazywa podstawowe emocje, próbuje radzić sobie z ich przeżywaniem;
 2) szanuje emocje swoje i innych osób;
-3) przeżywa emocje w sposób umożliwiający mu adaptację w nowym otoczeniu, np.
-w nowej grupie dzieci, nowej grupie starszych dzieci, a także w nowej grupie dzieci i osób dorosłych;
+3) przeżywa emocje w sposób umożliwiający mu adaptację w nowym otoczeniu, np. w nowej grupie dzieci, nowej grupie starszych dzieci, a także w nowej grupie dzieci i osób dorosłych;
 4) przedstawia swoje emocje i uczucia, używając charakterystycznych dla dziecka form wyrazu;
 5) rozstaje się z rodzicami bez lęku, ma świadomość, że rozstanie takie bywa dłuższe lub krótsze;
 6) rozróżnia emocje i uczucia przyjemne i nieprzyjemne, ma świadomość, że odczuwają i przeżywają je wszyscy ludzie;
@@ -87,8 +86,7 @@ IV. Poznawczy obszar rozwoju dziecka. Dziecko przygotowane do podjęcia nauki w 
 4) rozpoznaje litery, którymi jest zainteresowane na skutek zabawy i spontanicznych odkryć, odczytuje krótkie wyrazy utworzone z poznanych liter w formie napisów drukowanych dotyczące treści znajdujących zastosowanie w codziennej aktywności;
 5) odpowiada na pytania, opowiada o zdarzeniach z przedszkola, objaśnia kolejność zdarzeń w prostych historyjkach obrazkowych, układa historyjki obrazkowe, recytuje wierszyki, układa i rozwiązuje zagadki;
 6) wykonuje własne eksperymenty językowe, nadaje znaczenie czynnościom, nazywa je, tworzy żarty językowe i sytuacyjne, uważnie słucha i nadaje znaczenie swym doświadczeniom;
-7) eksperymentuje rytmem, głosem, dźwiękami i ruchem, rozwijając swoją wyobraźnię muzyczną; słucha, odtwarza i tworzy muzykę, śpiewa piosenki, porusza się przy muzyce i do muzyki, dostrzega zmiany charakteru muzyki, np.
-dynamiki, tempa i wysokości dźwięku oraz wyraża ją ruchem, reaguje na sygnały, muzykuje z użyciem instrumentów oraz innych źródeł dźwięku; śpiewa piosenki z dziecięcego repertuaru oraz łatwe piosenki ludowe; chętnie uczestniczy w zbiorowym muzykowaniu; wyraża emocje i zjawiska pozamuzyczne różnymi środkami aktywności muzycznej; aktywnie słucha muzyki; wykonuje lub rozpoznaje melodie, piosenki i pieśni, np. ważne dla wszystkich dzieci w przedszkolu, np. hymn przedszkola, charakterystyczne dla uroczystości narodowych (hymn narodowy), potrzebne do organizacji uroczystości np. Dnia Babci i Dziadka, święta przedszkolaka (piosenki okazjonalne) i inne; w skupieniu słucha muzyki;
+7) eksperymentuje rytmem, głosem, dźwiękami i ruchem, rozwijając swoją wyobraźnię muzyczną; słucha, odtwarza i tworzy muzykę, śpiewa piosenki, porusza się przy muzyce i do muzyki, dostrzega zmiany charakteru muzyki, np. dynamiki, tempa i wysokości dźwięku oraz wyraża ją ruchem, reaguje na sygnały, muzykuje z użyciem instrumentów oraz innych źródeł dźwięku; śpiewa piosenki z dziecięcego repertuaru oraz łatwe piosenki ludowe; chętnie uczestniczy w zbiorowym muzykowaniu; wyraża emocje i zjawiska pozamuzyczne różnymi środkami aktywności muzycznej; aktywnie słucha muzyki; wykonuje lub rozpoznaje melodie, piosenki i pieśni, np. ważne dla wszystkich dzieci w przedszkolu, np. hymn przedszkola, charakterystyczne dla uroczystości narodowych (hymn narodowy), potrzebne do organizacji uroczystości np. Dnia Babci i Dziadka, święta przedszkolaka (piosenki okazjonalne) i inne; w skupieniu słucha muzyki;
 8) wykonuje własne eksperymenty graficzne farbą, kredką, ołówkiem, mazakiem itp., tworzy proste i złożone znaki, nadając im znaczenie, odkrywa w nich fragmenty wybranych liter, cyfr, kreśli wybrane litery i cyfry na gładkiej kartce papieru, wyjaśnia sposób powstania wykreślonych, narysowanych lub zapisanych kształtów, przetwarza obraz ruchowy na graficzny i odwrotnie, samodzielnie planuje ruch przed zapisaniem, np. znaku graficznego, litery i innych w przestrzeni sieci kwadratowej lub liniatury, określa kierunki i miejsca na kartce papieru;
 9) czyta obrazy, wyodrębnia i nazywa ich elementy, nazywa symbole i znaki znajdujące się w otoczeniu, wyjaśnia ich znaczenie;
 10) wymienia nazwę swojego kraju i jego stolicy, rozpoznaje symbole narodowe (godło, flaga, hymn), nazywa wybrane symbole związane z regionami Polski ukryte w podaniach, przysłowiach, legendach, bajkach, np. o smoku wawelskim, orientuje się, że Polska jest jednym z krajów Unii Europejskiej;
@@ -453,8 +451,7 @@ II. Edukacja matematyczna.
 Uczeń:
 1) określa i prezentuje wzajemne położenie przedmiotów na płaszczyźnie i w przestrzeni; określa i prezentuje kierunek ruchu przedmiotów oraz osób;
 określa położenie przedmiotu na prawo/na lewo od osoby widzianej z przodu (także przedstawionej na fotografii czy obrazku);
-2) porównuje przedmioty pod względem wyróżnionej cechy wielkościowej, np.
-długości czy masy; dokonuje klasyfikacji przedmiotów;
+2) porównuje przedmioty pod względem wyróżnionej cechy wielkościowej, np. długości czy masy; dokonuje klasyfikacji przedmiotów;
 3) posługuje się pojęciami: pion, poziom, skos.
 2. Osiągnięcia w zakresie rozumienia liczb i ich własności. Uczeń:
 1) liczy (w przód i wstecz) od podanej liczby po 1, po 2, po 10 itp.;
@@ -595,8 +592,7 @@ VII. Edukacja informatyczna.
 3) rozwiązuje zadania, zagadki i łamigłówki prowadzące do odkrywania algorytmów.
 2. Osiągnięcia w zakresie programowania i rozwiązywania problemów z wykorzystaniem komputera i innych urządzeń cyfrowych. Uczeń:
 1) programuje wizualnie: proste sytuacje lub historyjki według pomysłów własnych i pomysłów opracowanych wspólnie z innymi uczniami, pojedyncze polecenia, a także ich sekwencje sterujące obiektem na ekranie komputera bądź innego urządzenia cyfrowego;
-2) tworzy proste rysunki, dokumenty tekstowe, łącząc tekst z grafiką, np.
-zaproszenia, dyplomy, ulotki, ogłoszenia; powiększa, zmniejsza, kopiuje, wkleja i usuwa elementy graficzne i tekstowe – doskonali przy tym umiejętności pisania, czytania, rachowania i prezentowania swoich pomysłów;
+2) tworzy proste rysunki, dokumenty tekstowe, łącząc tekst z grafiką, np. zaproszenia, dyplomy, ulotki, ogłoszenia; powiększa, zmniejsza, kopiuje, wkleja i usuwa elementy graficzne i tekstowe – doskonali przy tym umiejętności pisania, czytania, rachowania i prezentowania swoich pomysłów;
 3) zapisuje efekty swojej pracy we wskazanym miejscu.
 3. Osiągnięcia w zakresie posługiwania się komputerem, urządzeniami cyfrowymi i sieciami komputerowymi. Uczeń:
 1) posługuje się komputerem lub innym urządzeniem cyfrowym oraz urządzeniami zewnętrznymi przy wykonywaniu zadania;
@@ -639,8 +635,7 @@ VIII. Edukacja muzyczna.
 3) realizuje schematy i tematy rytmiczne, eksperymentuje przy użyciu np. patyczków, pudełek, papieru, trawy, piszczałek, gwizdków, kogucików na wodę;
 4) wykonuje instrumenty m.in. z materiałów naturalnych i innych oraz wykorzystuje tak powstałe instrumenty do akompaniamentu, realizacji dźwięku podczas zabaw i zadań edukacyjnych, organizacji koncertów i przedstawień teatralnych;
 5) wykonuje akompaniament do śpiewu, stosuje gesty dźwiękotwórcze (np. tupanie, klaskanie, pstrykanie, uderzanie o uda);
-6) eksperymentuje i poszukuje dźwięków, fragmentów znanych melodii przy użyciu np.
-dzwonków, ksylofonu, fletu podłużnego, flażoletu – flecika polskiego;
+6) eksperymentuje i poszukuje dźwięków, fragmentów znanych melodii przy użyciu np. dzwonków, ksylofonu, fletu podłużnego, flażoletu – flecika polskiego;
 7) gra melodie piosenek i utworów instrumentalnych, do wyboru: na dzwonkach, ksylofonie, flecie podłużnym, flażolecie – fleciku polskim lub innych.
 5. Osiągnięcia w zakresie znajomości form zapisu dźwięku. Uczeń:
 1) wyjaśnia różne formy zapisu dźwięków, muzyki, np. nagranie przy pomocy komputera, dyktafonu, telefonu, czy zapis przy pomocy notacji muzycznej;
@@ -879,8 +874,7 @@ Proces edukacji w klasach I–III opiera się na podstawowych potrzebach dzieci.
 Rozwijanie kompetencji w zakresie języka obcego nowożytnego należy z założenia traktować jako proces wieloletni, naznaczony nierównomiernym rozwojem w zakresie poszczególnych umiejętności, zależny od warunków, w których kształcenie to się odbywa. Wprowadzenie do tego procesu stanowi I etap edukacyjny i na tym etapie język obcy nowożytny powinien przede wszystkim przyczyniać się do wszechstronnego rozwoju dziecka, a nie stanowić celu samego w sobie. Istotne jest, aby w tym okresie pomóc uczniom rozbudzić w sobie pozytywne nastawienie do nauki języka obcego nowożytnego oraz budować postawę otwartości i szacunku wobec różnorodności języków, kultur i narodowości, przy jednoczesnym wspieraniu ucznia w budowaniu poczucia własnej wartości i wiary we własne możliwości. Wprowadzenie w życie wszystkich tych założeń to zadanie niełatwe, wymagające odpowiednich warunków sprzyjających jego realizacji.
 W kształceniu językowym na I etapie edukacyjnym niezbędne jest:
 1) zapewnienie przez szkołę zajęć z takiego języka obcego nowożytnego, którego nauka może być kontynuowana na II i III etapie edukacyjnym (odpowiednio w klasach IV–VIII szkoły podstawowej i w szkole ponadpodstawowej);
-2) realizowanie treści zawartych w podstawie programowej kształcenia ogólnego z zakresu języka obcego nowożytnego w sposób spójny z treściami podstawy programowej kształcenia ogólnego dla edukacji wczesnoszkolnej z zakresu edukacji polonistycznej, matematycznej, społecznej, plastycznej, technicznej, informatycznej i muzycznej. Niezbędne jest zatem, aby nauczyciel języka obcego nowożytnego zapoznał się z całą podstawą programową kształcenia ogólnego dla szkoły podstawowej z zakresu edukacji wczesnoszkolnej i na bieżąco śledził jej realizację, tak aby edukacja z zakresu języka obcego nowożytnego wspierała i była wspierana przez treści nauczania określone dla pozostałych edukacji, przede wszystkim w zakresie kluczowych pojęć i umiejętności, takich jak np.
-liczenie, pisanie;
+2) realizowanie treści zawartych w podstawie programowej kształcenia ogólnego z zakresu języka obcego nowożytnego w sposób spójny z treściami podstawy programowej kształcenia ogólnego dla edukacji wczesnoszkolnej z zakresu edukacji polonistycznej, matematycznej, społecznej, plastycznej, technicznej, informatycznej i muzycznej. Niezbędne jest zatem, aby nauczyciel języka obcego nowożytnego zapoznał się z całą podstawą programową kształcenia ogólnego dla szkoły podstawowej z zakresu edukacji wczesnoszkolnej i na bieżąco śledził jej realizację, tak aby edukacja z zakresu języka obcego nowożytnego wspierała i była wspierana przez treści nauczania określone dla pozostałych edukacji, przede wszystkim w zakresie kluczowych pojęć i umiejętności, takich jak np. liczenie, pisanie;
 3) stosowanie przez nauczyciela technik uwzględniających możliwości i potrzeby rozwojowe dzieci, w tym przede wszystkim technik odwołujących się do multisensoryczności (wykorzystujących ruch, dźwięk, obraz), sprzyjających kształtowaniu twórczego podejścia i pozytywnego nastawienia do nauki języka obcego nowożytnego. Ważne jest, aby sala, w której odbywa się nauka języka obcego nowożytnego, dawała możliwość przeprowadzania ćwiczeń językowych wymagających ruchu, w tym ćwiczeń w parach i małych grupach oraz była odpowiednio wyposażona, tj. z dostępem do słowników, pomocy wizualnych, odtwarzacza płyt CD/plików dźwiękowych, komputera ze stałym łączem internetowym;
 4) stwarzanie sytuacji edukacyjnych sprzyjających poznawaniu i rozwijaniu przez dzieci własnych zainteresowań oraz pasji;
 5) używanie języka obcego nowożytnego nie tylko jako treści swoistej dla przedmiotu nauczania, ale również jako języka komunikacji podczas zajęć w różnych rodzajach interakcji, tj. zarówno nauczyciel – uczeń, jak i uczeń – uczeń. Język obcy nowożytny powinien – docelowo – stać się głównym narzędziem komunikacji podczas zajęć, nie wyklucza to jednak używania podczas zajęć języka rodzimego, np. do przekazania przez ucznia w języku polskim ogólnego sensu słuchanego tekstu w języku obcym nowożytnym;
@@ -1082,8 +1076,7 @@ I. Kształcenie literackie i kulturowe.
 8) określa wartości estetyczne poznawanych tekstów literackich;
 9) wykorzystuje w interpretacji utworów literackich odwołania do wartości uniwersalnych związane z postawami społecznymi, narodowymi, religijnymi, etycznymi i dokonuje ich hierarchizacji;
 10) wykorzystuje w interpretacji tekstów literackich elementy wiedzy o historii i kulturze;
-11) wykorzystuje w interpretacji utworów literackich potrzebne konteksty, np.
-biograficzny, historyczny, historycznoliteracki, kulturowy, filozoficzny, społeczny;
+11) wykorzystuje w interpretacji utworów literackich potrzebne konteksty, np. biograficzny, historyczny, historycznoliteracki, kulturowy, filozoficzny, społeczny;
 12) recytuje utwór literacki w interpretacji zgodnej z jego tematem i stylem.
 2. Odbiór tekstów kultury. Uczeń:
 1) wyszukuje w tekście potrzebne informacje oraz cytuje odpowiednie fragmenty tekstu publicystycznego, popularnonaukowego lub naukowego;
@@ -2655,8 +2648,7 @@ proponuje sposoby zapobiegania powiększaniu się „dziury ozonowej”;
 4) wymienia czynniki środowiska, które powodują korozję; proponuje sposoby zabezpieczania produktów zawierających żelazo przed rdzewieniem;
 5) opisuje właściwości fizyczne i chemiczne tlenku węgla(IV) oraz funkcję tego gazu w przyrodzie; projektuje i przeprowadza doświadczenie pozwalające otrzymać oraz wykryć tlenek węgla(IV) (np. w powietrzu wydychanym z płuc); pisze równania reakcji otrzymywania tlenku węgla(IV) (np. reakcja spalania węgla w tlenie, rozkład węglanów, reakcja węglanu wapnia z kwasem solnym);
 6) opisuje obieg tlenu i węgla w przyrodzie;
-7) projektuje i przeprowadza doświadczenie polegające na otrzymaniu wodoru oraz bada wybrane jego właściwości fizyczne i chemiczne; odczytuje z różnych źródeł (np.
-układu okresowego pierwiastków, wykresu rozpuszczalności) informacje dotyczące tego pierwiastka; wymienia jego zastosowania; pisze równania reakcji otrzymywania wodoru oraz równania reakcji wodoru z niemetalami; opisuje właściwości fizyczne oraz zastosowania wybranych wodorków niemetali (amoniaku, chlorowodoru, siarkowodoru);
+7) projektuje i przeprowadza doświadczenie polegające na otrzymaniu wodoru oraz bada wybrane jego właściwości fizyczne i chemiczne; odczytuje z różnych źródeł (np. układu okresowego pierwiastków, wykresu rozpuszczalności) informacje dotyczące tego pierwiastka; wymienia jego zastosowania; pisze równania reakcji otrzymywania wodoru oraz równania reakcji wodoru z niemetalami; opisuje właściwości fizyczne oraz zastosowania wybranych wodorków niemetali (amoniaku, chlorowodoru, siarkowodoru);
 8) projektuje i przeprowadza doświadczenie potwierdzające, że powietrze jest mieszaniną; opisuje skład i właściwości powietrza;
 9) opisuje właściwości fizyczne gazów szlachetnych; wyjaśnia, dlaczego są one bardzo mało aktywne chemicznie; wymienia ich zastosowania;
 10) wymienia źródła, rodzaje i skutki zanieczyszczeń powietrza; wymienia sposoby postępowania pozwalające chronić powietrze przed zanieczyszczeniami.
@@ -3031,8 +3023,7 @@ XIV. Zadania tekstowe. Uczeń:
 3) dostrzega zależności między podanymi informacjami;
 4) dzieli rozwiązanie zadania na etapy, stosując własne, poprawne, wygodne dla niego strategie rozwiązania;
 5) do rozwiązywania zadań osadzonych w kontekście praktycznym stosuje poznaną wiedzę z zakresu arytmetyki i geometrii oraz nabyte umiejętności rachunkowe, a także własne poprawne metody;
-6) weryfikuje wynik zadania tekstowego, oceniając sensowność rozwiązania np.
-poprzez szacowanie, sprawdzanie wszystkich warunków zadania, ocenianie rzędu wielkości otrzymanego wyniku;
+6) weryfikuje wynik zadania tekstowego, oceniając sensowność rozwiązania np. poprzez szacowanie, sprawdzanie wszystkich warunków zadania, ocenianie rzędu wielkości otrzymanego wyniku;
 7) układa zadania i łamigłówki, rozwiązuje je; stawia nowe pytania związane z sytuacją w rozwiązanym zadaniu.
 KLASY VII i VIII I. Potęgi o podstawach wymiernych. Uczeń:
 1) zapisuje iloczyn jednakowych czynników w postaci potęgi o wykładniku całkowitym dodatnim;

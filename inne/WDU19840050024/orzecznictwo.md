@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 26 stycznia 1984 r. Prawo prasowe.*
 
 Łącznie: **1149** orzeczeń
-(pominięto 473 orzeczeń sądów rejonowych)
+(pominięto 474 orzeczeń sądów rejonowych)
 
 ## art. 1 (241)
 

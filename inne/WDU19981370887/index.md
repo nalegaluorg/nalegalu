@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1998-10-13 |
 | Data wydania | 1998-11-10 |
-| Ostatnia zmiana | 2026-06-05 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981370887) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/887/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -1122,7 +1122,9 @@ source: pdf
 
 12. W przypadku pracowników, o których mowa w ust. 5a, zgłoszenie wyrejestrowania płatnik składek jest zobowiązany złożyć w terminie 30 dni od dnia ustania stosunku pracy.
 
-13. O wszelkich zmianach w stosunku do danych wykazanych w zgłoszeniach, o których mowa w ust. 10–12, płatnik składek zawiadamia Zakład w terminie 7 dni od zaistnienia zmian, stwierdzenia nieprawidłowości we własnym zakresie lub otrzymania zawiadomienia o stwierdzeniu nieprawidłowości przez Zakład.
+13. O wszelkich zmianach w stosunku do danych wykazanych w zgłoszeniach, o których mowa w ust. 10–12, płatnik składek zawiadamia Zakład w terminie 7 dni od zaistnienia zmian, stwierdzenia nieprawidłowości we własnym zakresie lub otrzymania zawiadomienia o stwierdzeniu nieprawidłowości przez Zakład. <13a. O zmianie adresu zameldowania na stałe miejsce pobytu, adresu zamieszkania, jeżeli jest inny niż adres zameldowania na stałe miejsce pobytu, adresu do korespondencji, jeżeli jest inny niż adres zameldowania na stałe miejsce pobytu i adres zamieszkania, a także zmianie innych danych kontaktowych ubezpieczony może zawiadomić Zakład za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład.
+
+13b. Zakład informuje płatnika składek za pośrednictwem profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład lub w sposób wskazany w art. 47a ust. 6 o dokonanych przez ubezpieczonego zmianach objętych zgłoszeniem do ubezpieczeń społecznych.
 
 14. O zmianach w stosunku do danych wykazanych w zgłoszeniu, o którym mowa w ust. 10, dotyczących tytułu ubezpieczenia oraz rodzajów ubezpieczeń i terminów ich powstania, płatnik składek zawiadamia Zakład poprzez złożenie zgłoszenia wyrejestrowania i ponownego zgłoszenia do ubezpieczeń społecznych zawierającego prawidłowe dane. O tych zmianach płatnik składek może zawiadomić Zakład z wykorzystaniem formularza elektronicznego, o którym mowa w art. 3 ust. 2 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2026 r. poz. 30).
 
@@ -2205,6 +2207,16 @@ source: pdf
 - **4)** datę powstania obowiązku ubezpieczeń społecznych lub ubezpieczenia zdrowotnego z innego tytułu niż wymienione w art. 6 ust. 1 pkt 9, 9a i 9c;
 - **5)** datę wyrejestrowania z ubezpieczeń społecznych lub z ubezpieczenia zdrowotnego z innego tytułu niż wymienione w art. 6 ust. 1 pkt 9, 9a i 9c;
 - **6)** kod tytułu ubezpieczenia.
+
+16a. Zakład przekazuje za pośrednictwem systemu, o którym mowa w art. 1 ust. 1 ustawy z dnia 16 listopada 2022 r. o systemie teleinformatycznym eUmowy do obsługi niektórych umów (Dz. U. z 2024 r. poz. 1661, z 2025 r. poz. 620 oraz z 2026 r. poz. 734), drogą elektroniczną, płatnikowi składek dane ubezpieczonego obejmujące:
+
+- **1)** imię i nazwisko,
+- **2)** datę urodzenia,
+- **3)** numer PESEL,
+- **4)** obywatelstwo,
+- **5)** wykazane w imiennym raporcie miesięcznym okresy przerw w opłacaniu składek,
+- **6)** informację o okresach niezdolności do pracy, za które wypłacono zasiłki, świadczenie rehabilitacyjne oraz za które odmówiono wypłaty tych świadczeń z podaniem przyczyny odmowy,
+- **7)** wypłacane świadczenia z ubezpieczenia emerytalnego i ubezpieczeń rentowych – w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 16 listopada 2022 r. o systemie teleinformatycznym eUmowy do obsługi niektórych umów.
 
 17. Zakład udostępnia ministrowi właściwemu do spraw finansów publicznych oraz organom Krajowej Administracji Skarbowej na ich żądanie dane:
 

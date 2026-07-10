@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2013-05-24 |
 | Data wydania | 2013-06-03 |
-| Ostatnia zmiana | 2026-06-08 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000628) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/628/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -76,7 +76,7 @@ source: pdf
 - **3)** ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366 oraz z 2026 r. poz. 50 i 187) oraz ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2025 r. poz. 184 oraz z 2026 r. poz. 50) – w zakresie działań podejmowanych wobec statków morskich i powietrznych;
 - **4)** ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917 oraz z 2026 r. poz. 187);
 - **5)** ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i 1795);
-- **5a)** ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176) – w zakresie działań podejmowanych przez żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej na podstawie art. 122b tej ustawy;
+- **5a)** ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176) – w zakresie działań podejmowanych przez żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej na podstawie art. 122b tej ustawy; 5ab) ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2026 r. poz. 13, 426 i 737) – w zakresie działań podejmowanych w celu umyślnego płoszenia osobników niedźwiedzia brunatnego, wilka lub żubra na podstawie art. 56 ust. 4e tej ustawy;
 - **5b)** ustawie z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2024 r. poz. 597) – w zakresie działań podejmowanych przez żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej na podstawie art. 27–27 tej ustawy;
 - **6)** ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26);
 - **7)** ustawie z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2022 r. poz. 1689).
@@ -104,11 +104,17 @@ source: pdf
 - **5)** pododdziale zwartym – należy przez to rozumieć zorganizowaną, jednolicie dowodzoną grupę funkcjonariuszy Policji, Straży Granicznej, Służby Więziennej lub żołnierzy Żandarmerii Wojskowej, wykonującą działania prewencyjne w razie zagrożenia lub zakłócenia bezpieczeństwa albo porządku publicznego;
 - **6)** użyciu środka przymusu bezpośredniego – należy przez to rozumieć zastosowanie środka przymusu bezpośredniego wobec osoby;
 - **7)** użyciu broni palnej – należy przez to rozumieć oddanie strzału w kierunku osoby z zastosowaniem amunicji penetracyjnej;
-- **8)** ważnych obiektach, urządzeniach lub obszarach – należy przez to rozumieć podlegające ochronie: poz. 1871 oraz z 2025 r. poz. 179, 718, 1366 i 1823) lub ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, – podlegające ochronie na podstawie przepisów ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2025 r. poz. 607 i 718), o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. ), oraz wchodzące w ich skład i powiązane z nimi systemy;
+- **8)** ważnych obiektach, urządzeniach lub obszarach – należy przez to rozumieć podlegające ochronie: poz. 1871 oraz z 2025 r. poz. 179, 718, 1366 i 1823) lub ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, – podlegające ochronie na podstawie przepisów ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2025 r. poz. 607 i 718),
     - **a)** obiekty, urządzenia lub obszary: – istotne dla bezpieczeństwa lub obronności państwa, nienaruszalności granicy państwowej, bezpieczeństwa ruchu kolejowego, gospodarki lub kultury narodowej, – centralnych organów państwowych, wymiaru sprawiedliwości, Krajowej Administracji Skarbowej, przedstawicielstw dyplomatycznych i urzędów konsularnych państw obcych albo organizacji międzynarodowych, – podlegające ochronie na podstawie przepisów ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r.
-    - **b)** obiekty ujęte w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, sporządzonym na podstawie art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r.
+    - **b)** obiekty, urządzenia, instalacje, sieci, systemy lub usługi lub połączone ze sobą funkcjonalnie obiekty, urządzenia, instalacje, sieci, systemy lub usługi ujęte w wykazie, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2026 r. poz. 574 i 815);
 
-- **9)** wykorzystaniu środka przymusu bezpośredniego – należy przez to rozumieć zastosowanie środka przymusu bezpośredniego wobec zwierzęcia albo zastosowanie go w celu zatrzymania, zablokowania lub unieruchomienia pojazdu lub pokonania przeszkody, a w przypadku bezzałogowego statku powietrznego – jego zniszczenia albo unieruchomienia albo przejęcia kontroli nad jego lotem;
+- **9)** wykorzystaniu środka przymusu bezpośredniego – należy przez to rozumieć zastosowanie środka przymusu bezpośredniego:
+    - **a)** wobec zwierzęcia,
+    - **b)** w celu zatrzymania, zablokowania lub unieruchomienia pojazdu lub pokonania przeszkody,
+    - **c)** w przypadku bezzałogowego statku powietrznego – w celu jego zniszczenia, unieruchomienia albo przejęcia kontroli nad jego lotem,
+    - **d)** w przypadku bezzałogowego obiektu pływającego – w celu jego zniszczenia, unieruchomienia albo przejęcia nad nim kontroli,
+    - **e)** w przypadku bezzałogowego obiektu lądowego – w celu jego zniszczenia, unieruchomienia albo przejęcia nad nim kontroli;
+
 - **10)** wykorzystaniu broni palnej – należy przez to rozumieć oddanie strzału z zastosowaniem amunicji penetracyjnej w kierunku zwierzęcia, przedmiotu lub w innym kierunku niestwarzającym zagrożenia dla osoby.
 
 **Art. 5.** Uprawniony do użycia lub wykorzystania środków przymusu bezpośredniego lub broni palnej, zwany dalej „uprawnionym”, może użyć środka przymusu bezpośredniego lub broni palnej lub wykorzystać je do celów określonych w niniejszej ustawie wyłącznie w zakresie realizacji zadań ustawowych podmiotu, w którym pełni służbę albo w którym jest zatrudniony.
@@ -180,7 +186,13 @@ source: pdf
 - **12)** pokonania biernego oporu;
 - **13)** pokonania czynnego oporu;
 - **14)** przeciwdziałania czynnościom zmierzającym do autoagresji;
-- **15)** zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem, w przypadkach, o których mowa w art. 156ze ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze.
+- **15)** zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem, w przypadkach, o których mowa w art. 156ze ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **16)** zniszczenia albo unieruchomienia bezzałogowego obiektu pływającego albo przejęcia nad nim kontroli w przypadkach, o których mowa w art. 28a ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich;
+- **17)** zniszczenia albo unieruchomienia bezzałogowego obiektu lądowego albo przejęcia nad nim kontroli, w przypadku gdy:
+    - **a)** zagraża lub może zagrozić życiu lub zdrowiu ludzi lub zwierząt,
+    - **b)** stwarza lub może stworzyć zagrożenie dla chronionych obiektów, urządzeń lub obszarów,
+    - **c)** zakłóca lub może zakłócić przebieg zgromadzenia lub imprezy masowej albo zagraża bezpieczeństwu ich uczestników,
+    - **d)** stwarza lub może stworzyć uzasadnione podejrzenie, że może zostać użyty jako środek ataku o charakterze terrorystycznym.
 
 **Art. 12.**
 
@@ -220,7 +232,9 @@ source: pdf
 - **18)** pojazdy służbowe;
 - **19)** środki przeznaczone do pokonywania zamknięć budowlanych i innych przeszkód, w tym materiały wybuchowe;
 - **20)** środki pirotechniczne o właściwościach ogłuszających lub olśniewających;
-- **21)** środki i urządzenia przeznaczone do zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem.
+- **21)** środki i urządzenia przeznaczone do zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem;
+- **22)** środki i urządzenia przeznaczone do zniszczenia albo unieruchomienia bezzałogowego obiektu pływającego albo przejęcia nad nim kontroli;
+- **23)** środki i urządzenia przeznaczone do zniszczenia albo unieruchomienia bezzałogowego obiektu lądowego albo przejęcia nad nim kontroli.
 
 2. Środki przymusu bezpośredniego, o których mowa w ust. 1 pkt 1 lit. b–d, pkt 5, 7, 8 i 11–13, można wykorzystać także wobec zwierzęcia, którego zachowanie zagraża bezpośrednio życiu lub zdrowiu uprawnionego lub innej osoby.
 
@@ -322,11 +336,13 @@ source: pdf
 
 **Art. 23.**
 
-1. Pocisków niepenetracyjnych miotanych z broni palnej lub urządzeń do tego przeznaczonych można użyć lub wykorzystać w przypadkach, o których mowa w art. 11 pkt 2–5, 7–11, 13 i 15.
+1. Pocisków niepenetracyjnych miotanych z broni palnej, broni pneumatycznej lub urządzeń do tego przeznaczonych można użyć lub je wykorzystać w przypadkach, o których mowa w art. 11 pkt 2–5, 7–11, 13 i 15–17.
 
 2. W przypadku zbiorowego zakłócenia porządku publicznego użycie pocisków niepenetracyjnych poprzedza się strzałem ostrzegawczym lub salwą ostrzegawczą w bezpiecznym kierunku, z wyjątkiem sytuacji, gdy miałoby to nastąpić w pomieszczeniach, obiektach aresztu śledczego, zakładu karnego, strzeżonego ośrodka lub aresztu dla cudzoziemców.
 
-3. Pocisków niepenetracyjnych używa się w celu obezwładnienia osób lub wykorzystuje się w celu obezwładnienia zwierzęcia przez zadanie bólu fizycznego, przy czym nie celuje się w głowę lub szyję, oraz w celu zniszczenia albo unieruchomienia bezzałogowego statku powietrznego.
+3. Pocisków niepenetracyjnych używa się w celu obezwładnienia osób lub wykorzystuje się je w celu obezwładnienia zwierzęcia przez zadanie bólu fizycznego, przy czym nie celuje się w głowę lub szyję, oraz w celu zniszczenia albo unieruchomienia bezzałogowego statku powietrznego, bezzałogowego obiektu pływającego lub bezzałogowego obiektu lądowego.
+
+4. Można użyć także pocisków niepenetracyjnych zawierających chemiczne środki obezwładniające lub barwiące lub je wykorzystać.
 
 **Art. 24.**
 
@@ -440,6 +456,39 @@ source: pdf
 - **3)** bezzałogowych statków powietrznych;
 - **4)** pocisków niepenetracyjnych lub innych przedmiotów miotanych za pomocą przeznaczonych do tego urządzeń oraz za pomocą broni palnej i broni pneumatycznej;
 - **5)** urządzeń emitujących skumulowaną wiązkę energii lub fal elektromagnetycznych.
+
+3. Środki i urządzenia przeznaczone do zniszczenia albo unieruchomienia bezzałogowego statku powietrznego albo przejęcia kontroli nad jego lotem uniemożliwiające telekomunikację na określonym obszarze mogą być zastosowane wyłącznie na zasadach określonych w przepisach odrębnych.
+
+**Art. 33b.**
+
+1. Środki i urządzenia przeznaczone do zniszczenia albo unieruchomienia bezzałogowego obiektu pływającego albo przejęcia nad nim kontroli można wykorzystać w przypadku, o którym mowa w art. 11 pkt 16.
+
+2. Zniszczenie albo unieruchomienie bezzałogowego obiektu pływającego albo przejęcie nad nim kontroli może nastąpić przez wykorzystanie:
+
+- **1)** bezzałogowych statków powietrznych;
+- **2)** pocisków niepenetracyjnych lub innych przedmiotów miotanych za pomocą przeznaczonych do tego urządzeń oraz za pomocą broni palnej i broni pneumatycznej;
+- **3)** urządzeń emitujących skumulowaną wiązkę energii lub fal elektromagnetycznych;
+- **4)** urządzeń zakłócających działanie systemów pozycjonowania obiektu pływającego;
+- **5)** urządzeń zakłócających komunikację pomiędzy operatorem a obiektem pływającym;
+- **6)** urządzeń technicznych przymocowanych do dna morskiego i służących do ochrony fizycznej;
+- **7)** bezzałogowych obiektów pływających.
+
+3. Środki i urządzenia przeznaczone do zniszczenia albo unieruchomienia bezzałogowego obiektu pływającego albo przejęcia nad nim kontroli uniemożliwiające telekomunikację na określonym obszarze mogą być zastosowane wyłącznie na zasadach określonych w przepisach odrębnych.
+
+**Art. 33c.**
+
+1. Środki i urządzenia przeznaczone do zniszczenia albo unieruchomienia bezzałogowego obiektu lądowego albo przejęcia nad nim kontroli można wykorzystać w przypadkach, o których mowa w art. 11 pkt 17.
+
+2. Zniszczenie albo unieruchomienie bezzałogowego obiektu lądowego albo przejęcie nad nim kontroli może nastąpić przez wykorzystanie:
+
+- **1)** bezzałogowych statków powietrznych;
+- **2)** pocisków niepenetracyjnych lub innych przedmiotów miotanych za pomocą przeznaczonych do tego urządzeń oraz za pomocą broni palnej i broni pneumatycznej;
+- **3)** urządzeń emitujących skumulowaną wiązkę energii lub fal elektromagnetycznych;
+- **4)** urządzeń zakłócających działanie systemów pozycjonowania obiektu lądowego;
+- **5)** urządzeń zakłócających komunikację pomiędzy operatorem a obiektem lądowym;
+- **6)** bezzałogowych obiektów lądowych.
+
+3. Środki i urządzenia przeznaczone do zniszczenia albo unieruchomienia bezzałogowego obiektu lądowego albo przejęcia nad nim kontroli uniemożliwiające telekomunikację na określonym obszarze mogą być zastosowane wyłącznie na zasadach określonych w przepisach odrębnych.
 
 **Art. 34.**
 
@@ -639,7 +688,8 @@ source: pdf
 - **4)** neutralizacja przedmiotów lub urządzeń mogących stwarzać niebezpieczeństwo wybuchu, powodujących jednocześnie bezpośrednie zagrożenie zdrowia lub życia uprawnionego lub innej osoby;
 - **5)** unieszkodliwienie zwierzęcia, którego zachowanie zagraża bezpośrednio życiu lub zdrowiu uprawnionego lub innej osoby;
 - **6)** oddanie strzału ostrzegawczego;
-- **7)** zniszczenia lub unieruchomienia bezzałogowego statku powietrznego, w przypadkach określonych w ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze.
+- **7)** zniszczenia lub unieruchomienia bezzałogowego statku powietrznego, w przypadkach określonych w ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **8)** zniszczenia albo unieruchomienia bezzałogowego obiektu lądowego w przypadkach, o których mowa w art. 11 pkt 17.
 
 **Art. 48.**
 

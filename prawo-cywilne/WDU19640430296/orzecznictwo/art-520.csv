@@ -55,6 +55,7 @@ saos_id|date|court|case_number|type|score|saos_url
 20938|2013-08-08|SO|I ACa 82/13|Wyrok|56|https://www.saos.org.pl/judgments/20938
 23713|2013-02-13|SO|VI ACa 952/12|Wyrok|56|https://www.saos.org.pl/judgments/23713
 543683|2025-10-02|SO|I ACa 2751/24|Postanowienie|47|https://www.saos.org.pl/judgments/543683
+547168|2025-07-24|SO|I ACa 3838/24|Postanowienie|47|https://www.saos.org.pl/judgments/547168
 526045|2025-05-13|SO|I ACz 659/25|Postanowienie|47|https://www.saos.org.pl/judgments/526045
 494083|2023-12-14|SO|I ACa 342/23|Postanowienie|47|https://www.saos.org.pl/judgments/494083
 494841|2023-10-09|SO|I ACz 1027/23|Postanowienie|47|https://www.saos.org.pl/judgments/494841
@@ -193,6 +194,7 @@ saos_id|date|court|case_number|type|score|saos_url
 533020|2025-05-16|SO|II Ca 3156/24|Postanowienie|31|https://www.saos.org.pl/judgments/533020
 531803|2025-05-13|SO|II Ca 571/24|Postanowienie|31|https://www.saos.org.pl/judgments/531803
 538369|2025-05-08|SO|II Ca 1592/24|Postanowienie|31|https://www.saos.org.pl/judgments/538369
+547632|2025-05-07|SO|IV Ca 2637/23|Postanowienie|31|https://www.saos.org.pl/judgments/547632
 538646|2025-04-24|SO|XV Ca 2721/24|Postanowienie|31|https://www.saos.org.pl/judgments/538646
 538647|2025-04-17|SO|XV Ca 638/22|Postanowienie|31|https://www.saos.org.pl/judgments/538647
 533384|2025-04-17|SO|II Ca 162/25|Postanowienie|31|https://www.saos.org.pl/judgments/533384
@@ -2358,6 +2360,7 @@ saos_id|date|court|case_number|type|score|saos_url
 531406|2025-07-07|SO|I Ns 125/19|Zarządzenie|27|https://www.saos.org.pl/judgments/531406
 533262|2025-06-16|SO|II Ca 1419/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/533262
 529548|2025-06-16|SO|VIII Pa 84/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/529548
+547387|2025-06-06|SO|III Nsm 63/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/547387
 542285|2025-02-19|SO|VII Ns 541/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/542285
 516695|2024-11-22|SO|I Ns 554/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/516695
 507606|2024-10-01|SO|IV Cz 229/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/507606

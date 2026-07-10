@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 30 czerwca 2000 r. Prawo własności przemysłowej.*
 
 Łącznie: **592** orzeczeń
-(pominięto 521 orzeczeń sądów rejonowych)
+(pominięto 522 orzeczeń sądów rejonowych)
 
 ## art. 1 (12)
 

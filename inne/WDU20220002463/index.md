@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2022-10-07 |
 | Data wydania | 2022-11-30 |
-| Ostatnia zmiana | 2026-06-11 |
+| Ostatnia zmiana | 2026-06-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002463) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2463/text.pdf) |
 
 **Art. 1.** Ustawa określa organizację i zadania Instytutu Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego, zwanego dalej „Instytutem”.
@@ -64,15 +64,15 @@ source: pdf
 - **2)** realizacją przez Instytut zadań, o których mowa w art. 3 ust. 2;
 - **3)** prawidłowością wydatkowania środków publicznych.
 
-3. Kontrolę w ramach nadzoru, o którym mowa w ust. 1, przeprowadza się w trybie i na zasadach określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224).
+3. Kontrolę w ramach nadzoru, o którym mowa w ust. 1, przeprowadza się w trybie i na zasadach określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2026 r. poz. 158).
 
 4. Dyrektor Instytutu i Rada Instytutu są obowiązani do realizacji zaleceń pokontrolnych wydanych w ramach realizacji nadzoru, o którym mowa w ust. 1.
 
 **Art. 4a.**
 
-1. W przypadku wprowadzenia na obszarze kraju albo jego części stanu nadzwyczajnego minister właściwy do spraw oświaty i wychowania może zlecić Instytutowi realizację zadań z zakresu oświaty i wychowania związanych z zapewnieniem dzieciom i młodzieży kształcenia i opieki na obszarze Rzeczypospolitej Polskiej w okresie obowiązywania tego stanu oraz do 6 miesięcy po jego zakończeniu, w szczególności zadań w ramach programów i przedsięwzięć, o których mowa w art. 90u ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854 i 1473). Na realizację tych zadań Instytut otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw oświaty i wychowania.
+1. W przypadku wprowadzenia na obszarze kraju albo jego części stanu nadzwyczajnego minister właściwy do spraw oświaty i wychowania może zlecić Instytutowi realizację zadań z zakresu oświaty i wychowania związanych z zapewnieniem dzieciom i młodzieży kształcenia i opieki na obszarze Rzeczypospolitej Polskiej w okresie obowiązywania tego stanu oraz do 6 miesięcy po jego zakończeniu, w szczególności zadań w ramach programów i przedsięwzięć, o których mowa w art. 90u ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019 oraz z 2026 r. poz. 203 i 319). Na realizację tych zadań Instytut otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw oświaty i wychowania.
 
-2. Przy realizacji zadań, o których mowa w ust. 1, Instytut może, na podstawie umów, współpracować z organizacjami pozarządowymi oraz podmiotami, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571 oraz z 2024 r. poz. 834).
+2. Przy realizacji zadań, o których mowa w ust. 1, Instytut może, na podstawie umów, współpracować z organizacjami pozarządowymi oraz podmiotami, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338).
 
 3. Instytut realizuje zadania, o których mowa w ust. 1, samodzielnie lub zleca ich realizację podmiotom wyłonionym w drodze otwartego konkursu ofert lub w drodze naboru wniosków w trybie ciągłym.
 
@@ -90,7 +90,9 @@ source: pdf
 
 3. Oddziałem zamiejscowym kieruje kierownik powoływany i odwoływany przez Dyrektora Instytutu po uzyskaniu opinii ministra właściwego do spraw zagranicznych.
 
-4. Powołanie, o którym mowa w ust. 3, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222).
+4. Powołanie, o którym mowa w ust. 3, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25 i
+
+- **473)** .
 
 5. Organizację wewnętrzną oddziału zamiejscowego określa regulamin nadany przez Dyrektora Instytutu.
 
@@ -99,9 +101,7 @@ source: pdf
 - **1)** ambasadorem Rzeczypospolitej Polskiej w państwie, na terenie którego funkcjonuje oddział zamiejscowy;
 - **2)** dyrektorem właściwego miejscowo instytutu polskiego będącego placówką podległą ministrowi właściwemu do spraw zagranicznych – jeżeli instytut polski funkcjonuje na terenie państwa, w którym funkcjonuje oddział zamiejscowy.
 
-7. Zamówienia publicznego na potrzeby własne oddziałów zamiejscowych Instytut może udzielić z wolnej ręki zgodnie z przepisami art. 213 i art. 217 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz.
-
-- **1320)** , jeżeli wartość tego zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
+7. Zamówienia publicznego na potrzeby własne oddziałów zamiejscowych Instytut może udzielić z wolnej ręki zgodnie z przepisami art. 213 i art. 217 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ), jeżeli wartość tego zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
 
 8. Finansowanie lub dofinansowanie realizacji zadań Instytutu w części realizowanej przez oddziały zamiejscowe następuje ze środków, o których mowa w art. 17 ust. 2.
 
@@ -109,7 +109,7 @@ source: pdf
 
 **Art. 5a.**
 
-1. W celu realizacji zadań, o których mowa w art. 3 ust. 2, Instytut może tworzyć, za zgodą ministra właściwego do spraw oświaty i wychowania udzieloną na wniosek Dyrektora Instytutu, po uprzednim poinformowaniu ministra właściwego do spraw zagranicznych, podmioty zależne będące jednostkami organizacyjnymi mającymi siedzibę poza terytorium Rzeczypospolitej Polskiej, w formie prawnej i organizacyjnej zależnej od miejsca ich utworzenia, w tym w formie spółki kapitałowej, zwane dalej „podmiotami zależnymi”. Przepisów art. 45 i art. 49 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) nie stosuje się.
+1. W celu realizacji zadań, o których mowa w art. 3 ust. 2, Instytut może tworzyć, za zgodą ministra właściwego do spraw oświaty i wychowania udzieloną na wniosek Dyrektora Instytutu, po uprzednim poinformowaniu ministra właściwego do spraw zagranicznych, podmioty zależne będące jednostkami organizacyjnymi mającymi siedzibę poza terytorium Rzeczypospolitej Polskiej, w formie prawnej i organizacyjnej zależnej od miejsca ich utworzenia, w tym w formie spółki kapitałowej, zwane dalej „podmiotami zależnymi”. Przepisów art. 45 i art. 49 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680) nie stosuje się.
 
 2. Wniosek o wyrażenie zgody, o której mowa w ust. 1, określa zamierzony termin utworzenia i proponowaną siedzibę podmiotu zależnego, a także zawiera informacje o zamierzonej formie prawnej i organizacyjnej podmiotu zależnego oraz uzasadnienie utworzenia podmiotu zależnego.
 
@@ -142,8 +142,8 @@ source: pdf
 - **4)** posiada potwierdzoną znajomość języka angielskiego na poziomie co najmniej B2;
 - **5)** nie była ukarana karą dyscyplinarną;
 - **6)** nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **7)** nie została ukarana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa w art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2024 r. poz. 104);
-- **8)** w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. nie pracowała i nie służyła w organach bezpieczeństwa państwa w rozumieniu art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273 i 834) oraz nie współpracowała z tymi organami.
+- **7)** nie została ukarana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa w art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2025 r. poz. 1484);
+- **8)** w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. nie pracowała i nie służyła w organach bezpieczeństwa państwa w rozumieniu art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2025 r. poz. 1519) oraz nie współpracowała z tymi organami.
 
 3. Przed powołaniem na stanowisko Dyrektora Instytutu osoba powoływana składa oświadczenie o spełnieniu wymagań, o których mowa w ust. 2, a w przypadku osoby urodzonej przed dniem 1 sierpnia 1972 r. – także oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, albo informację, o której mowa w art. 7 ust. 3a tej ustawy.
 
@@ -163,7 +163,7 @@ source: pdf
 
 3. Odwołanie następuje z dniem określonym w akcie odwołania.
 
-4. W przypadkach, o których mowa w ust. 1, minister właściwy do spraw oświaty i wychowania powierza zastępcy Dyrektora Instytutu pełnienie obowiązków Dyrektora Instytutu na okres nie dłuższy niż trzy miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne trzy miesiące.
+4. W przypadkach, o których mowa w ust. 1, minister właściwy do spraw oświaty i wychowania powierza zastępcy Dyrektora Instytutu pełnienie obowiązków Dyrektora Instytutu na okres niedłuższy niż trzy miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne trzy miesiące.
 
 **Art. 9.**
 
@@ -210,7 +210,7 @@ source: pdf
 - **1)** jeden członek będący przedstawicielem Prezesa Rady Ministrów, powoływany i odwoływany przez Prezesa Rady Ministrów;
 - **2)** jeden członek będący przedstawicielem ministra właściwego do spraw zagranicznych, powoływany i odwoływany przez tego ministra;
 - **3)** jeden członek będący przedstawicielem ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, powoływany i odwoływany przez tego ministra;
-- **4)** nie więcej niż sześciu członków powoływanych i odwoływanych przez ministra właściwego do spraw oświaty i wychowania.
+- **4)** niewięcej niż sześciu członków powoływanych i odwoływanych przez ministra właściwego do spraw oświaty i wychowania.
 
 2. Członkiem Rady Instytutu może być osoba, która:
 
@@ -324,9 +324,9 @@ source: pdf
 
 4. Stratę netto Instytutu pokrywa się z funduszu rezerwowego.
 
-5. Fundusz stypendialny tworzy się ze środków z dotacji podmiotowej, o której mowa w art. 17 ust. 2 pkt 1, w kwocie nie wyższej niż 5 % tej dotacji. Fundusz stypendialny może zostać powiększony o środki przekazane Instytutowi na podstawie odrębnych umów o finansowanie lub dofinansowanie stypendiów.
+5. Fundusz stypendialny tworzy się ze środków z dotacji podmiotowej, o której mowa w art. 17 ust. 2 pkt 1, w kwocie niewyższej niż 5 % tej dotacji. Fundusz stypendialny może zostać powiększony o środki przekazane Instytutowi na podstawie odrębnych umów o finansowanie lub dofinansowanie stypendiów.
 
-6. Zakładowy fundusz świadczeń socjalnych tworzy się na zasadach określonych w ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2024 r. poz. 288).
+6. Zakładowy fundusz świadczeń socjalnych tworzy się na zasadach określonych w ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2024 r. poz. 288 oraz z 2026 r. poz. 25).
 
 **Art. 21.**
 
@@ -361,9 +361,9 @@ source: pdf
 - **3)** ma pełną zdolność do czynności prawnych;
 - **4)** nie została skazana prawomocnym wyrokiem za przestępstwo umyślne lub umyślne przestępstwo skarbowe.
 
-10. W skład komisji ekspertów, o której mowa w ust. 8, nie może zostać powołana osoba, wobec której zachodzą przesłanki określone w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz.
+10. W skład komisji ekspertów, o której mowa w ust. 8, nie może zostać powołana osoba, wobec której zachodzą przesłanki określone w art. 24 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz.
 
-- **572)** dotyczące wyłączenia pracownika.
+- **1691)** dotyczące wyłączenia pracownika.
 
 11. Osoba wchodząca w skład komisji ekspertów, o której mowa w ust. 8, przed przystąpieniem do oceny wniosku, o którym mowa w ust. 4, składa Dyrektorowi Instytutu oświadczenie, że nie zachodzi żadna z okoliczności powodujących wyłączenie jej z udziału w ocenie wniosku oraz że nie zachodzą żadne okoliczności mogące budzić uzasadnione wątpliwości co do jej bezstronności względem osoby ubiegającej się o stypendium, o którym mowa w ust. 1.
 
@@ -436,9 +436,7 @@ source: pdf
 
 **Art. 25b.**
 
-1. Składanie wniosków o przyznanie stypendiów, o których mowa w art. 22 ust. 4, oraz ofert w otwartym konkursie ofert i wniosków, o których mowa w art. 23 ust. 1, jest dokonywane za pośrednictwem systemu teleinformatycznego w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307 i
-
-- **1222)** , w którym są przetwarzane niezbędne dane do prawidłowego przebiegu procesu przyznawania stypendiów, o których mowa w art. 22 ust. 1, lub udzielenia wsparcia, o którym mowa w art. 23 ust. 1.
+1. Składanie wniosków o przyznanie stypendiów, o których mowa w art. 22 ust. 4, oraz ofert w otwartym konkursie ofert i wniosków, o których mowa w art. 23 ust. 1, jest dokonywane za pośrednictwem systemu teleinformatycznego w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160), w którym są przetwarzane niezbędne dane do prawidłowego przebiegu procesu przyznawania stypendiów, o których mowa w art. 22 ust. 1, lub udzielenia wsparcia, o którym mowa w art. 23 ust. 1.
 
 2. Złożenie wniosków, o których mowa w art. 22 ust. 1, oraz ofert w otwartym konkursie ofert i wniosków, o których mowa w art. 23 ust. 1, za pośrednictwem systemu teleinformatycznego odbywa się za pomocą konta w systemie założonego dla wnioskodawcy lub oferenta.
 

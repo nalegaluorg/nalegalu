@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw*
 
-Łącznie: **74** orzeczeń
+Łącznie: **75** orzeczeń
 (pominięto 6 orzeczeń sądów rejonowych)
 
 ## art. 1 (20)
@@ -89,7 +89,7 @@ Orzeczenia powołujące: *Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy o s
 - 2015-06-24 | SO | [III AUa 1228/14](https://www.saos.org.pl/judgments/180970) | Wyrok
 - 2012-11-21 | SO | [III AUa 766/12](https://www.saos.org.pl/judgments/2826) | Wyrok
 
-## (ogólnie) (22)
+## (ogólnie) (23)
 
 - 2025-01-13 | SO | [III AUa 62/23](https://www.saos.org.pl/judgments/531302) | Wyrok
 - 2022-11-24 | SO | [III AUa 533/21](https://www.saos.org.pl/judgments/492030) | Wyrok
@@ -104,6 +104,7 @@ Orzeczenia powołujące: *Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy o s
 - 2014-02-27 | SO | [III AUa 777/13](https://www.saos.org.pl/judgments/528499) | Wyrok
 - 2012-10-31 | SO | [III AUa 878/12](https://www.saos.org.pl/judgments/2472) | Wyrok
 - 2012-10-09 | SO | [III AUa 563/12](https://www.saos.org.pl/judgments/2377) | Wyrok
+- 2026-05-08 | SO | [VII U 506/26](https://www.saos.org.pl/judgments/547757) | Wyrok
 - 2016-11-14 | SO | [IV U 1142/16](https://www.saos.org.pl/judgments/318652) | Wyrok
 - 2024-07-24 | SO | [VIII U 1114/24](https://www.saos.org.pl/judgments/524103) | Uzasadnienie
 - 2023-03-13 | SO | [VIII U 897/16](https://www.saos.org.pl/judgments/484403) | Uzasadnienie

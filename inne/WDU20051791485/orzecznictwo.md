@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii*
 
 Łącznie: **2938** orzeczeń w **127** artykułach
-(pominięto 2825 orzeczeń sądów rejonowych)
+(pominięto 2831 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).

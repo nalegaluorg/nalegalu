@@ -659,8 +659,7 @@ source: pdf
 **Art. 57.** Ustawa wchodzi w życie z dniem 1 lipca 1996 r., z wyjątkiem:
 
 - **1)** rozdziału 2 i art. 51, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
-- **2)** art. 34 ust. 3 i 4 oraz art. 42 ust. 3, które wchodzą w życie po upływie 4 miesięcy od dnia ogłoszenia. Załącznik do ustawy z dnia 9 maja 1996 r. (Dz. U. z 2024 r. poz.
-- **907)** Uwaga!
+- **2)** art. 34 ust. 3 i 4 oraz art. 42 ust. 3, które wchodzą w życie po upływie 4 miesięcy od dnia ogłoszenia. Załącznik do ustawy z dnia 9 maja 1996 r. (Dz. U. z 2024 r. poz. 907) Uwaga!
 
 1. Osoba składająca oświadczenie o stanie majątkowym obowiązana jest do zgodnego z prawdą, starannego i zupełnego wypełnienia każdej z rubryk.
 

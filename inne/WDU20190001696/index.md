@@ -85,9 +85,7 @@ source: pdf
 
 - **2)** w zakresie dostępności cyfrowej – wymagania określone w ustawie z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych;
 - **3)** w zakresie dostępności informacyjno-komunikacyjnej:
-    - **a)** obsługę z wykorzystaniem środków wspierających komunikowanie się, o których mowa w art. 3 pkt 5 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2023 r. poz.
-
-- **20)** , lub przez wykorzystanie zdalnego dostępu online do usługi tłumacza przez strony internetowe i aplikacje,
+    - **a)** obsługę z wykorzystaniem środków wspierających komunikowanie się, o których mowa w art. 3 pkt 5 ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2023 r. poz. 20), lub przez wykorzystanie zdalnego dostępu online do usługi tłumacza przez strony internetowe i aplikacje,
     - **b)** instalację urządzeń lub innych środków technicznych do obsługi osób słabosłyszących, w szczególności pętli indukcyjnych, systemów FM lub urządzeń opartych o inne technologie, których celem jest wspomaganie słyszenia,
     - **c)** zapewnienie na stronie internetowej danego podmiotu informacji o zakresie jego działalności – w postaci elektronicznego pliku zawierającego tekst odczytywalny maszynowo, nagrania treści w polskim języku migowym oraz informacji w tekście łatwym do czytania,
     - **d)** zapewnienie, na wniosek osoby ze szczególnymi potrzebami, komunikacji z podmiotem publicznym w formie określonej w tym wniosku.

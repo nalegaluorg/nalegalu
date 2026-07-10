@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 24 czerwca 1994 r. o własności lokali.*
 
 Łącznie: **2480** orzeczeń w **133** artykułach
-(pominięto 2753 orzeczeń sądów rejonowych)
+(pominięto 2759 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).

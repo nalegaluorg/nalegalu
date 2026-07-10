@@ -6,7 +6,7 @@ publisher: DU
 year: 2025
 pos: 1545
 act_type: Ustawa
-status: obowiązujący
+status: akt objęty tekstem jednolitym
 domain: null
 source: pdf
 ---
@@ -20,11 +20,11 @@ source: pdf
 | Adres publikacyjny | Dz.U. 2025 poz. 1545 |
 | ISAP | WDU20250001545 |
 | Typ aktu | Ustawa |
-| Status | obowiązujący |
+| Status | akt objęty tekstem jednolitym |
 | W mocy | tak |
 | Data ogłoszenia | 2025-10-17 |
 | Data wydania | 2025-11-12 |
-| Ostatnia zmiana | 2025-11-17 |
+| Ostatnia zmiana | 2026-06-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001545) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1545/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146 i 1069) wprowadza się następujące zmiany:

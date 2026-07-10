@@ -24,7 +24,6 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2026-05-15 |
 | Data wydania | 2026-06-11 |
-| Wejście w życie | 2026-06-12 |
 | Ostatnia zmiana | 2026-06-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000760) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/760/text.pdf) |
 

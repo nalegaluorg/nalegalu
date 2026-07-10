@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1982-09-16 |
 | Data wydania | 1982-10-08 |
-| Ostatnia zmiana | 2026-05-25 |
+| Ostatnia zmiana | 2026-06-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820310214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

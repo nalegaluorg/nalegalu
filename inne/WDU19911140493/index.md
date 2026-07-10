@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1991-10-25 |
 | Data wydania | 1991-12-12 |
-| Ostatnia zmiana | 2026-04-13 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911140493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/493/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

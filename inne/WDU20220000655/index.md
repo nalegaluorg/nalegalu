@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-11 |
 | Data wydania | 2022-03-23 |
-| Ostatnia zmiana | 2026-05-22 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -8838,8 +8838,8 @@ source: pdf
 
 **Art. 650.** Zadania przedsiębiorców w zakresie ochrony obiektów szczególnie ważnych dla bezpieczeństwa lub obronności państwa stanowią zadania, o których mowa w art. 613 ust. 2 i 3 oraz w:
 
-- **1)** art. 5 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532) w zakresie obiektów, w tym: obiektów budowlanych, urządzeń, instalacji, usług ujętych w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej;
-- **2)** przepisach wydanych na podstawie art. 6 ust. 7 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834, 1222, 1473, 1572 i 1907), w zakresie zadań z obszaru ochrony infrastruktury krytycznej.
+- **1)** art. 5 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532) w zakresie obiektów, w tym: obiektów budowlanych, urządzeń, instalacji, usług ujętych w wykazie, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym;
+- **2)** przepisach rozdziału 7 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym.
 
 #### Rozdział 2 Plan zabezpieczenia potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców
 
@@ -8968,9 +8968,7 @@ source: pdf
     - **e)** przestępstwo o charakterze terrorystycznym, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub mające na celu popełnienie tego przestępstwa,
     - **f)** przestępstwa przeciwko obrotowi gospodarczemu, o których mowa w art. 296–307 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub przestępstwo oszustwa, o którym mowa w art. 286 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
     - **g)** przestępstwa przeciwko wiarygodności dokumentów, o których mowa w art. 270–277d ustawy z dnia 6 czerwca 1997 r. – Kodeks karny,
-    - **h)** przestępstwo pracy małoletnich, o którym mowa w art. 9 ust. 2 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 1745 oraz z 2025 r. poz.
-
-- **621)** ,
+    - **h)** przestępstwo pracy małoletnich, o którym mowa w art. 9 ust. 2 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 1745 oraz z 2025 r. poz. 621),
     - **i)** przestępstwo, o którym mowa w art. 9 ust. 1 i ust. 3 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej,
     - **j)** przestępstwo skarbowe;
 

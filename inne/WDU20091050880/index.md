@@ -30,8 +30,7 @@ Sygn. akt K 54/07 W imieniu Rzeczypospolitej Polskiej Trybunał Konstytucyjny w 
 U. Nr 104, poz. 708) z art. 2, art. 7, art. 10, art. 20, art. 22, art. 30, art. 31 ust.
 3, art. 42 ust. 1, art. 47, art. 50, art. 51 i art. 202 ust. 1 Konstytucji, z art. 7 ust.
 1, art. 8 i art. 18 Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r.
-Nr 61, poz. 284), z art. 20 Prawnokarnej konwencji o korupcji, sporządzonej w Strasburgu dnia 27 stycznia 1999 r. (Dz. U. z 2005 r. Nr 29, poz. 249) oraz z preambułą art. 5, art. 6 i art. 7 Konwencji nr 108 Rady Europy o ochronie osób w związku z automatycznym przetwarzaniem danych osobowych, sporządzonej w Strasburgu dnia 28 stycznia 1981 r. (Dz. U. z 2003 r. Nr 3, poz.
-25);
+Nr 61, poz. 284), z art. 20 Prawnokarnej konwencji o korupcji, sporządzonej w Strasburgu dnia 27 stycznia 1999 r. (Dz. U. z 2005 r. Nr 29, poz. 249) oraz z preambułą art. 5, art. 6 i art. 7 Konwencji nr 108 Rady Europy o ochronie osób w związku z automatycznym przetwarzaniem danych osobowych, sporządzonej w Strasburgu dnia 28 stycznia 1981 r. (Dz. U. z 2003 r. Nr 3, poz. 25);
 2) art. 1 ust. 3 oraz art. 2 ust. 1 pkt 1 lit. b, c oraz d ustawy powołanej w punkcie 1 z art. 2, art. 20, art. 22, art. 31 ust. 3 i art. 42 ust. 1 Konstytucji oraz z art. 7 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności;
 3) art. 2 ust. 1 pkt 2-5 ustawy powołanej w punkcie 1 z art. 2, art. 10 i art. 202 ust. 1 Konstytucji;
 4) art. 5 ust. 2 i 3, art. 6 ust. 1 oraz art. 12 ust. 1 ustawy powołanej w punkcie 1 z art. 2 i art. 10 Konstytucji oraz z art. 20 Prawnokarnej konwencji o korupcji;
@@ -63,8 +62,7 @@ b) nie są niezgodne z art. 10 Konstytucji.
 6. Art. 22 ust. 1-3 ustawy powołanej w punkcie 1 w zakresie, w jakim dopuszcza uzyskiwanie (w tym także – niejawnie), gromadzenie, sprawdzanie i przetwarzanie informacji niezbędnych do zwalczania przestępstw, w obszarze należącym do ustawowo określonych zadań Centralnego Biura Antykorupcyjnego:
 a) jest zgodny z art. 47 w związku z art. 31 ust. 3, art. 51 w związku z art. 31 ust.
 3 i art. 30 Konstytucji,
-b) jest zgodny z art. 8 i art. 18 Konwencji powołanej w punkcie 1, jak również z preambułą, art. 5, art. 6 i art. 7 Konwencji nr 108 Rady Europy o ochronie osób w związku z automatycznym przetwarzaniem danych osobowych, sporządzonej w Strasburgu dnia 28 stycznia 1981 r. (Dz. U. z 2003 r. Nr 3, poz. 25 oraz z 2006 r. Nr 3, poz.
-15).
+b) jest zgodny z art. 8 i art. 18 Konwencji powołanej w punkcie 1, jak również z preambułą, art. 5, art. 6 i art. 7 Konwencji nr 108 Rady Europy o ochronie osób w związku z automatycznym przetwarzaniem danych osobowych, sporządzonej w Strasburgu dnia 28 stycznia 1981 r. (Dz. U. z 2003 r. Nr 3, poz. 25 oraz z 2006 r. Nr 3, poz. 15).
 7. Art. 22 ust. 4-7 ustawy powołanej w punkcie 1 w zakresie, w jakim umożliwia Centralnemu Biuru Antykorupcyjnemu zbieranie danych wskazanych w art. 27 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926 i Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238) oraz korzystanie z danych tego typu i informacji uzyskanych w wyniku wykonywania czynności operacyjno-rozpoznawczych bez wiedzy i zgody osoby, której dotyczą – bez zagwarantowania instrumentów kontroli sposobu przechowywania i weryfikacji danych oraz sposobu usuwania danych zbędnych dla wykonywania ustawowych zadań Centralnego Biura Antykorupcyjnego – jest niezgodny z art. 47 i art. 51 w związku z art.
 31 ust. 3 i art. 30 Konstytucji, z art. 8 i art. 18 Konwencji powołanej w punkcie 1, oraz z preambułą, art. 5, art. 6 i art. 7 Konwencji nr 108 Rady Europy powołanej w punkcie 6.
 8. Art. 22 ust. 8-10 ustawy powołanej w punkcie 1 jest niezgodny z art. 51 ust. 5 Konstytucji.

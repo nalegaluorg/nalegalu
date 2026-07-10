@@ -29,8 +29,7 @@ Na podstawie art. 48a ust. 3 ustawy z dnia 4 lipca 1991 r. o stosunku Państwa d
 Rozporządzenie określa szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji Regulacyjnej do Spraw Polskiego Autokefalicznego Kościoła Prawosławnego, zwanej dalej „Komisją”, i jej personelu pomocniczego.
 § 2.
 1. Komisja przeprowadza w sposób przewidziany w art. 47 i art. 48a ust. 1, 2, 4-6 i 8-11 ustawy z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz.U. Nr 66, poz. 287 i Nr 95, poz. 425, z 1993 r. Nr 7, poz.
-34, z 1994 r. Nr 1, poz. 3 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz.
-756), zwanej dalej „ustawą”.
+34, z 1994 r. Nr 1, poz. 3 oraz z 1998 r. Nr 59, poz. 375, Nr 106, poz. 668 i Nr 117, poz. 756), zwanej dalej „ustawą”.
 2. Komisja działa pod kierunkiem dwóch współprzewodniczących, z których jednego wyznacza Minister Spraw Wewnętrznych i Administracji, a drugiego – Prawosławny Metropolita Warszawski i Całej Polski.
 3. Współprzewodniczący przewodniczą kolejno posiedzeniom Komisji.
 4. Komisja wykonuje zadania i funkcje przewidziane w ustawie dla zespołu orzekającego.

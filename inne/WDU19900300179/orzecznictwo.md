@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 6 kwietnia 1990 r. o Policji.*
 
 Łącznie: **561** orzeczeń
-(pominięto 521 orzeczeń sądów rejonowych)
+(pominięto 522 orzeczeń sądów rejonowych)
 
 ## art. 1 (39)
 

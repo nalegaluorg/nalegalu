@@ -255,8 +255,7 @@ IV. Dokonywanie opisu i analizy dzieł tanecznych reprezentatywnych dla poszczeg
 2) opisuje i analizuje sposoby interpretacji dzieł tanecznych przez choreografów i tancerzy;
 3) analizuje rozwój tańca w ujęciu chronologicznym (fakty, cechy epoki, reprezentatywne style i kierunki);
 4) analizuje dzieło taneczne – jego formę i treść (np. strukturę, wątki fabularne, główne postacie, symbolikę i związki z epoką);
-5) analizuje związki tańca z innymi dziedzinami sztuki poprzez interpretację różnych elementów, np.
-wątku fabularnego zaczerpniętego z literatury, tła dźwiękowego, elementów scenografii oraz wykorzystanych środków multimedialnych;
+5) analizuje związki tańca z innymi dziedzinami sztuki poprzez interpretację różnych elementów, np. wątku fabularnego zaczerpniętego z literatury, tła dźwiękowego, elementów scenografii oraz wykorzystanych środków multimedialnych;
 6) opisuje uwarunkowania społeczne i historyczno-kulturowe sztuki tańca ze szczególnym uwzględnieniem:
 a) form tanecznych typowych dla różnych grup społecznych oraz wpływu wydarzeń historycznych na powstawanie nowych kierunków,
 b) form tanecznych i repertuaru scenicznego,

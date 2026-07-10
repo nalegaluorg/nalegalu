@@ -29,9 +29,7 @@ source: pdf
 
 **Art. 1.**
 
-1. Ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz.U. Nr 91, poz.
-
-- **578)** , zwana dalej "ustawą o samorządzie powiatowym", wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 2 ust. 5, art. 5, art. 6 ust. 1, art. 8 ust. 2, art. 9 ust. 1, art. 12 pkt 1-3, art. 13 ust. 1, art. 14 ust. 1-3, art. 15 ust. 1-3 i 5, art. 16 ust. 1 i 2, art. 17 ust. 1 i 2, art. 18, art. 19, art. 20, art. 21 ust. 1-3, 5, 7 i 8, art. 22, art. 23, art. 26, art. 27 ust. 1 i 2, art. 32 ust. 1, ust. 2 pkt 1, 2 i 5, ust. 3 i 4, art. 34 ust. 1, art. 35 ust. 1 i 3 pkt 1, art. 36 ust. 1, art. 37, art. 39, art. 40 ust. 1 i 2 pkt 1, art. 42 ust. 1, art. 43, art. 47 ust. 2, art. 62 ust. 2, art. 76 ust. 1 i 2, art. 77, art. 78 ust. 1, art. 79, art. 85 oraz art. 92 ust. 1 i 2, które wchodzą w życie z dniem ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej przez Państwową Komisję Wyborczą zbiorczych wyników wyborów do rad powiatów.
+1. Ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz.U. Nr 91, poz. 578), zwana dalej "ustawą o samorządzie powiatowym", wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 2 ust. 5, art. 5, art. 6 ust. 1, art. 8 ust. 2, art. 9 ust. 1, art. 12 pkt 1-3, art. 13 ust. 1, art. 14 ust. 1-3, art. 15 ust. 1-3 i 5, art. 16 ust. 1 i 2, art. 17 ust. 1 i 2, art. 18, art. 19, art. 20, art. 21 ust. 1-3, 5, 7 i 8, art. 22, art. 23, art. 26, art. 27 ust. 1 i 2, art. 32 ust. 1, ust. 2 pkt 1, 2 i 5, ust. 3 i 4, art. 34 ust. 1, art. 35 ust. 1 i 3 pkt 1, art. 36 ust. 1, art. 37, art. 39, art. 40 ust. 1 i 2 pkt 1, art. 42 ust. 1, art. 43, art. 47 ust. 2, art. 62 ust. 2, art. 76 ust. 1 i 2, art. 77, art. 78 ust. 1, art. 79, art. 85 oraz art. 92 ust. 1 i 2, które wchodzą w życie z dniem ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej przez Państwową Komisję Wyborczą zbiorczych wyników wyborów do rad powiatów.
 
 2. Akty prawa miejscowego, w szczególności statut powiatu oraz uchwały rady i zarządu powiatu podjęte przed dniem 1 stycznia 1999 r. na podstawie art. 6 ust. 1, art. 32 ust. 2 pkt 5, art. 35 ust. 1, art. 36 ust. 1, art. 37 oraz art. 40 ustawy o samorządzie powiatowym, wchodzą w życie nie wcześniej niż z dniem 1 stycznia 1999 r.
 
@@ -43,9 +41,7 @@ source: pdf
 
 **Art. 2.**
 
-1. Ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz.U. Nr 91, poz.
-
-- **576)** , zwana dalej "ustawą o samorządzie województwa", wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 2 ust. 1, art. 7, art. 8, art. 9, art. 15, art. 16 ust. 1, art. 18 pkt 1 lit. a), pkt 15, 17, 20 i 21, art. 19 ust. 1 i 2, art. 20, art. 21 ust. 1 i 2, art. 22, art. 23, art. 24 ust. 1, 2 i 5, art. 25, art. 27, art. 28, art. 29, art. 30 ust. 1 i 2, art. 31, art. 32, art. 41 ust. 2 pkt 1, 6 i 7 oraz ust. 3, art. 43 ust. 1, art. 44, art. 46 ust. 4, art. 73 ust. 1 i 2, art. 78, art. 79, art. 80, art. 81, art. 82, art. 83 oraz art. 89 ust. 1, 2 i 4, które wchodzą w życie z dniem ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej przez Państwową Komisję Wyborczą zbiorczych wyników wyborów do sejmików województw.
+1. Ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz.U. Nr 91, poz. 576), zwana dalej "ustawą o samorządzie województwa", wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 2 ust. 1, art. 7, art. 8, art. 9, art. 15, art. 16 ust. 1, art. 18 pkt 1 lit. a), pkt 15, 17, 20 i 21, art. 19 ust. 1 i 2, art. 20, art. 21 ust. 1 i 2, art. 22, art. 23, art. 24 ust. 1, 2 i 5, art. 25, art. 27, art. 28, art. 29, art. 30 ust. 1 i 2, art. 31, art. 32, art. 41 ust. 2 pkt 1, 6 i 7 oraz ust. 3, art. 43 ust. 1, art. 44, art. 46 ust. 4, art. 73 ust. 1 i 2, art. 78, art. 79, art. 80, art. 81, art. 82, art. 83 oraz art. 89 ust. 1, 2 i 4, które wchodzą w życie z dniem ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej przez Państwową Komisję Wyborczą zbiorczych wyników wyborów do sejmików województw.
 
 2. Akty prawa miejscowego, w szczególności statut województwa oraz uchwały sejmiku i zarządu województwa podjęte przed dniem 1 stycznia 1999 r. na podstawie art. 7, art. 8, art. 9, art. 18 pkt 1 lit. a), pkt 20 i 21, art. 41 ust. 2 pkt 7 oraz art. 89 ust. 1 ustawy o samorządzie województwa, wchodzą w życie nie wcześniej niż z dniem 1 stycznia 1999 r.
 
@@ -69,9 +65,7 @@ source: pdf
 
 3. Prezydia sejmików samorządowych pełnią swoją funkcję do dnia wyboru marszałka województwa, na którego obszarze znajduje się dotychczasowa siedziba sejmiku, jednak nie dłużej niż do dnia 31 grudnia 1998 r.
 
-**Art. 8.** W przypadku przeprowadzania wyborów uzupełniających, o których mowa w art. 20 ustawy z dnia 10 maja 1991 r. - Ordynacja wyborcza do Senatu Rzeczypospolitej Polskiej (Dz.U. z 1994 r. Nr 54, poz. 224, z 1997 r. Nr 70, poz. 443 i Nr 98, poz.
-
-- **604)** , po dniu 1 stycznia 1999 r., okręgiem wyborczym w wyborach uzupełniających do Senatu IV kadencji, wybranego w dniu 21 września 1997 r., jest obszar województwa istniejącego do dnia 31 grudnia 1998 r.
+**Art. 8.** W przypadku przeprowadzania wyborów uzupełniających, o których mowa w art. 20 ustawy z dnia 10 maja 1991 r. - Ordynacja wyborcza do Senatu Rzeczypospolitej Polskiej (Dz.U. z 1994 r. Nr 54, poz. 224, z 1997 r. Nr 70, poz. 443 i Nr 98, poz. 604), po dniu 1 stycznia 1999 r., okręgiem wyborczym w wyborach uzupełniających do Senatu IV kadencji, wybranego w dniu 21 września 1997 r., jest obszar województwa istniejącego do dnia 31 grudnia 1998 r.
 
 **Art. 9.** Z dniem wejścia w życie ustawy, o której mowa w art. 3, traci moc ustawa z dnia 22 marca 1990 r. o terenowych organach rządowej administracji ogólnej (Dz.U. z 1998 r. Nr 32, poz. 176).
 

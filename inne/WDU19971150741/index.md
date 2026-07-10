@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-21 |
 | Data wydania | 1997-09-29 |
-| Ostatnia zmiana | 2026-04-07 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971150741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/741/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -192,9 +192,7 @@ source: pdf
 
 1. Z zastrzeżeniem wyjątków wynikających z ustaw, nieruchomości mogą być przedmiotem obrotu. W szczególności nieruchomości mogą być przedmiotem sprzedaży, zamiany i zrzeczenia się, oddania w użytkowanie wieczyste, w najem lub dzierżawę, użyczenia, oddania w trwały zarząd, a także mogą być obciążane ograniczonymi prawami rzeczowymi, wnoszone jako wkłady niepieniężne (aporty) do spółek, przekazywane jako wyposażenie tworzonych przedsiębiorstw państwowych oraz jako majątek tworzonych fundacji.
 
-1a. Nieruchomość może być także przekazywana nieodpłatnie w drodze umowy partnerowi prywatnemu lub spółce, o której mowa w art. 14 ust. 1 albo 1a ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz.
-
-- **1637)** , na czas realizacji przedsięwzięcia w ramach partnerstwa publiczno-prywatnego.
+1a. Nieruchomość może być także przekazywana nieodpłatnie w drodze umowy partnerowi prywatnemu lub spółce, o której mowa w art. 14 ust. 1 albo 1a ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637), na czas realizacji przedsięwzięcia w ramach partnerstwa publiczno-prywatnego.
 
 1b. Nie oddaje się w użytkowanie wieczyste nieruchomości gruntowych na cele budownictwa mieszkaniowego, z wyjątkiem realizacji roszczeń o oddanie nieruchomości gruntowej w użytkowanie wieczyste oraz ustanowienia użytkowania wieczystego na rzecz spółdzielni mieszkaniowej albo ustanowienia użytkowania wieczystego w ramach gospodarowania nieruchomościami przez Krajowy Zasób Nieruchomości.
 

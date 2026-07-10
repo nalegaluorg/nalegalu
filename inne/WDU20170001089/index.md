@@ -2052,8 +2052,7 @@ source: pdf
 - **1)** dotacje podmiotowe z budżetu państwa na prowadzenie działalności, o której mowa w art. 90 ust. 1;
 - **2)** dotacje celowe z budżetu państwa na finansowanie lub dofinansowanie kosztów realizacji inwestycji;
 - **3)** darowizny, zapisy i spadki;
-- **4)** odsetki od wolnych środków przekazanych w depozyt zgodnie z ustawą z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz.
-- **1483)** ;
+- **4)** odsetki od wolnych środków przekazanych w depozyt zgodnie z ustawą z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483);
 - **5)** przychody z innych tytułów.
 
 **Art. 95c.** Na koszty Agencji składają się koszty sprawowania nadzoru publicznego, w tym koszty funkcjonowania Agencji i jej organów.

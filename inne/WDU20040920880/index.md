@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-16 |
 | Data wydania | 2004-04-30 |
-| Ostatnia zmiana | 2026-06-08 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920880) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/880/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
