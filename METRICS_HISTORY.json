@@ -676,18 +676,18 @@
   },
   {
     "date": "2026-07-10",
-    "published": 20354,
+    "published": 20287,
     "rejected": 6105,
-    "total_body_chars": 595212490,
-    "total_articles": 207014,
+    "total_body_chars": 589917515,
+    "total_articles": 203359,
     "sources": {
-      "pdf": 20146,
+      "pdf": 20079,
       "eli-html": 208
     },
     "act_types": {
-      "Rozporządzenie": 11194,
-      "Ustawa": 4804,
-      "Obwieszczenie": 2603,
+      "Rozporządzenie": 11165,
+      "Ustawa": 4794,
+      "Obwieszczenie": 2575,
       "Orzeczenie": 1334,
       "Umowa międzynarodowa": 357,
       "Protokół": 18,
@@ -702,13 +702,12 @@
       "Oświadczenie": 1
     },
     "statuses": {
-      "obowiązujący": 13165,
-      "akt objęty tekstem jednolitym": 5292,
-      "akt posiada tekst jednolity": 1887,
-      "akt jednorazowy": 10
+      "obowiązujący": 13115,
+      "akt objęty tekstem jednolitym": 5287,
+      "akt posiada tekst jednolity": 1885
     },
     "domains": {
-      "inne": 19472,
+      "inne": 19407,
       "prawo-podatkowe": 193,
       "prawo-karne": 162,
       "prawo-cywilne": 141,
@@ -719,8 +718,8 @@
       "prawo-energetyczne": 35,
       "prawo-bankowe": 28,
       "prawo-handlowe": 25,
-      "prawo-upadlosciowe": 18,
-      "prawo-zamowien": 18,
+      "prawo-upadlosciowe": 17,
+      "prawo-zamowien": 17,
       "prawo-ochrony-danych": 8,
       "prawo-morskie": 7,
       "prawo-telekomunikacyjne": 6,

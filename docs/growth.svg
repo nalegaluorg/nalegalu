@@ -7,31 +7,31 @@
 <line x1="65" y1="126.0" x2="635" y2="126.0" stroke="#e5e5e5" stroke-width="1"/>
 <line x1="65" y1="78.0" x2="635" y2="78.0" stroke="#e5e5e5" stroke-width="1"/>
 <line x1="65" y1="30.0" x2="635" y2="30.0" stroke="#e5e5e5" stroke-width="1"/>
-<text x="57" y="274.0" text-anchor="end" font-size="11" fill="#2563eb">12,576</text>
-<text x="57" y="226.0" text-anchor="end" font-size="11" fill="#2563eb">14,267</text>
-<text x="57" y="178.0" text-anchor="end" font-size="11" fill="#2563eb">15,958</text>
-<text x="57" y="130.0" text-anchor="end" font-size="11" fill="#2563eb">17,648</text>
-<text x="57" y="82.0" text-anchor="end" font-size="11" fill="#2563eb">19,339</text>
-<text x="57" y="34.0" text-anchor="end" font-size="11" fill="#2563eb">21,030</text>
+<text x="57" y="274.0" text-anchor="end" font-size="11" fill="#2563eb">12,586</text>
+<text x="57" y="226.0" text-anchor="end" font-size="11" fill="#2563eb">14,260</text>
+<text x="57" y="178.0" text-anchor="end" font-size="11" fill="#2563eb">15,934</text>
+<text x="57" y="130.0" text-anchor="end" font-size="11" fill="#2563eb">17,608</text>
+<text x="57" y="82.0" text-anchor="end" font-size="11" fill="#2563eb">19,282</text>
+<text x="57" y="34.0" text-anchor="end" font-size="11" fill="#2563eb">20,956</text>
 <text x="643" y="274.0" text-anchor="start" font-size="11" fill="#dc2626">0</text>
 <text x="643" y="226.0" text-anchor="start" font-size="11" fill="#dc2626">1,337</text>
 <text x="643" y="178.0" text-anchor="start" font-size="11" fill="#dc2626">2,675</text>
 <text x="643" y="130.0" text-anchor="start" font-size="11" fill="#dc2626">4,012</text>
 <text x="643" y="82.0" text-anchor="start" font-size="11" fill="#dc2626">5,350</text>
 <text x="643" y="34.0" text-anchor="start" font-size="11" fill="#dc2626">6,688</text>
-<polygon points="65.0,270.0 65.0,234.9 160.0,241.2 255.0,113.3 350.0,80.2 445.0,80.2 540.0,95.9 635.0,49.2 635.0,270.0" fill="#2563eb" fill-opacity="0.08"/>
-<polyline points="65.0,234.9 160.0,241.2 255.0,113.3 350.0,80.2 445.0,80.2 540.0,95.9 635.0,49.2" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="65.0,270.0 65.0,234.9 160.0,241.2 255.0,112.1 350.0,78.6 445.0,78.6 540.0,94.5 635.0,49.2 635.0,270.0" fill="#2563eb" fill-opacity="0.08"/>
+<polyline points="65.0,234.9 160.0,241.2 255.0,112.1 350.0,78.6 445.0,78.6 540.0,94.5 635.0,49.2" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
 <polyline points="65.0,260.1 160.0,252.2 255.0,254.1 350.0,255.1 445.0,255.1 540.0,255.8 635.0,50.9" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4,3" stroke-linejoin="round"/>
 <circle cx="65.0" cy="234.9" r="2" fill="#2563eb"/>
 <circle cx="160.0" cy="241.2" r="2" fill="#2563eb"/>
-<circle cx="255.0" cy="113.3" r="2" fill="#2563eb"/>
-<circle cx="350.0" cy="80.2" r="2" fill="#2563eb"/>
-<circle cx="445.0" cy="80.2" r="2" fill="#2563eb"/>
-<circle cx="540.0" cy="95.9" r="2" fill="#2563eb"/>
+<circle cx="255.0" cy="112.1" r="2" fill="#2563eb"/>
+<circle cx="350.0" cy="78.6" r="2" fill="#2563eb"/>
+<circle cx="445.0" cy="78.6" r="2" fill="#2563eb"/>
+<circle cx="540.0" cy="94.5" r="2" fill="#2563eb"/>
 <circle cx="635.0" cy="49.2" r="4" fill="#2563eb"/>
 <circle cx="635.0" cy="50.9" r="3" fill="#dc2626"/>
-<text x="630.0" y="37.2" text-anchor="end" font-size="12" font-weight="600" fill="#2563eb">20,354</text>
-<text x="630.0" y="49.2" text-anchor="end" font-size="10" fill="#16a34a">(+1,646/tydz.)</text>
+<text x="630.0" y="37.2" text-anchor="end" font-size="12" font-weight="600" fill="#2563eb">20,287</text>
+<text x="630.0" y="49.2" text-anchor="end" font-size="10" fill="#16a34a">(+1,579/tydz.)</text>
 <text x="630.0" y="66.9" text-anchor="end" font-size="11" fill="#dc2626">6,105</text>
 <text x="65.0" y="288" text-anchor="middle" font-size="10" fill="#888">18.05</text>
 <text x="160.0" y="288" text-anchor="middle" font-size="10" fill="#888">25.05</text>

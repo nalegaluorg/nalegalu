@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-10T12:32:38Z",
+  "generated_at": "2026-07-10T14:46:36Z",
   "acts": {
-    "published": 20354,
+    "published": 20287,
     "rejected": 6105,
     "total_in_db": 27227
   },
   "content": {
-    "total_body_chars": 595212490,
-    "total_articles": 207014,
-    "avg_body_chars": 29243,
-    "avg_articles": 10.2
+    "total_body_chars": 589917515,
+    "total_articles": 203359,
+    "avg_body_chars": 29078,
+    "avg_articles": 10.0
   },
   "sources": {
-    "pdf": 20146,
+    "pdf": 20079,
     "eli-html": 208
   },
   "act_types": {
-    "Rozporządzenie": 11194,
-    "Ustawa": 4804,
-    "Obwieszczenie": 2603,
+    "Rozporządzenie": 11165,
+    "Ustawa": 4794,
+    "Obwieszczenie": 2575,
     "Orzeczenie": 1334,
     "Umowa międzynarodowa": 357,
     "Protokół": 18,
@@ -33,13 +33,12 @@
     "Oświadczenie": 1
   },
   "statuses": {
-    "obowiązujący": 13165,
-    "akt objęty tekstem jednolitym": 5292,
-    "akt posiada tekst jednolity": 1887,
-    "akt jednorazowy": 10
+    "obowiązujący": 13115,
+    "akt objęty tekstem jednolitym": 5287,
+    "akt posiada tekst jednolity": 1885
   },
   "domains": {
-    "inne": 19472,
+    "inne": 19407,
     "prawo-podatkowe": 193,
     "prawo-karne": 162,
     "prawo-cywilne": 141,
@@ -50,8 +49,8 @@
     "prawo-energetyczne": 35,
     "prawo-bankowe": 28,
     "prawo-handlowe": 25,
-    "prawo-upadlosciowe": 18,
-    "prawo-zamowien": 18,
+    "prawo-upadlosciowe": 17,
+    "prawo-zamowien": 17,
     "prawo-ochrony-danych": 8,
     "prawo-morskie": 7,
     "prawo-telekomunikacyjne": 6,
@@ -59,7 +58,7 @@
   },
   "quality": {
     "quality_gate_blocked": 737,
-    "original_pdf_for_unified_skipped": 1094,
+    "original_pdf_for_unified_skipped": 1097,
     "consolidated_article_coverage_checked": 717,
     "consolidated_article_coverage_with_gaps": 487,
     "consolidated_article_coverage_unexplained_gaps": 10985,
