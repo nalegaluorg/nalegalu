@@ -120,9 +120,7 @@ source: pdf
 
 7. Wzrost wynagrodzeń, o którym mowa w ust. 1, w publicznych zakładach opieki zdrowotnej prowadzonych w formie jednostek budżetowych albo zakładów budżetowych, nie może przekroczyć miesięcznych stawek wynagrodzenia zasadniczego, o których mowa w przepisach wydanych na podstawie art. 40 ust. 2 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej.
 
-8. Do wzrostu wynagrodzeń, o którym mowa w ust. 1, w publicznych zakładach opieki zdrowotnej prowadzonych w formie jednostek budżetowych, o których mowa w art. 22 ust. 2 pkt 7 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, Nr 169, poz. 1420 oraz z 2006 r. Nr 45, poz. 319 i Nr 104, poz.
-
-- **708)** , nie stosuje się art. 22 ust. 7 tej ustawy.
+8. Do wzrostu wynagrodzeń, o którym mowa w ust. 1, w publicznych zakładach opieki zdrowotnej prowadzonych w formie jednostek budżetowych, o których mowa w art. 22 ust. 2 pkt 7 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, Nr 169, poz. 1420 oraz z 2006 r. Nr 45, poz. 319 i Nr 104, poz. 708), nie stosuje się art. 22 ust. 7 tej ustawy.
 
 9. Do wzrostu wynagrodzeń, o którym mowa w ust. 1, nie stosuje się wskaźników przyrostu przeciętnego miesięcznego wynagrodzenia, o których mowa w ustawie z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. z 1995, Nr 1, poz. 2, z późn. zm. ).
 

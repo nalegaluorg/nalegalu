@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1985-03-21 |
 | Data wydania | 1985-04-15 |
-| Ostatnia zmiana | 2026-01-13 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850140060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1985/60/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -2274,6 +2274,21 @@ source: pdf
 
 6. Właściwy organ nie udostępnia na podstawie ust. 1 i 3 danych osobowych, o których mowa w art. 9 ust. 1 rozporządzenia 2016/679, chyba że podmiot, o którym mowa w ust. 1, jest ustawowo upoważniony do przetwarzania tych danych.
 
+**Art. 20i.**
+
+1. W sytuacji kryzysowej, jeżeli wymagają tego potrzeby obronności lub istotny interes bezpieczeństwa państwa, właściwy miejscowo wojewoda może, w drodze rozporządzenia porządkowego, po zasięgnięciu opinii zarządcy drogi, wprowadzić czasowe ograniczenia w korzystaniu z dróg publicznych, w tym czasowo wyłączyć je z ruchu. W tym celu właściwy miejscowo wojewoda może nałożyć na zarządcę drogi, zarządzającego ruchem oraz inne organy i podmioty, w zakresie właściwości ich działania, obowiązki zapewniające wykonanie tego rozporządzenia.
+
+2. Czasowe ograniczenia w korzystaniu z dróg publicznych, w tym ich czasowe wyłączenie z ruchu, wprowadza się w sposób, który umożliwia przemieszczanie się w określonych kierunkach za pomocą innych dróg niepodlegających ograniczeniom w korzystaniu i niewyłączonych z ruchu.
+
+3. Rozporządzenie porządkowe określa:
+
+- **1)** odcinki dróg publicznych wyznaczone za pomocą współrzędnych geograficznych lub oznakowania umieszczonego na słupkach hektometrowych i kilometrowych, na których wprowadza się czasowe ograniczenia w korzystaniu lub czasowe wyłączenie z ruchu;
+- **2)** rodzaj czasowego ograniczenia w korzystaniu z dróg publicznych;
+- **3)** okres, na który wprowadza się ograniczenia w korzystaniu z dróg publicznych lub czasowe wyłączenie z ruchu;
+- **4)** obowiązki zarządcy drogi, zarządzającego ruchem oraz innych organów i podmiotów w zakresie, o którym mowa w ust. 1.
+
+4. Rozporządzenie porządkowe, o którym mowa w ust. 1, może być ogłoszone w drodze obwieszczenia lub za pomocą środków komunikacji elektronicznej, lub w inny sposób zwyczajowo przyjęty na danym terenie.
+
 **Art. 21.**
 
 1. Zarządca drogi, o którym mowa w art. 19 ust. 2 pkt 2–4 i ust. 5, może wykonywać swoje obowiązki przy pomocy jednostki organizacyjnej będącej zarządem drogi, utworzonej odpowiednio przez sejmik województwa, radę powiatu lub radę gminy. Jeżeli jednostka taka nie została utworzona, zadania zarządu drogi wykonuje zarządca.
@@ -3317,6 +3332,5 @@ source: pdf
 
 ## Załączniki do ustawy z dnia 21 marca 1985 r.
 
-(Dz. U. z 2025 r. poz.
-889) Załącznik nr 1 Załącznik nr 2
+(Dz. U. z 2025 r. poz. 889) Załącznik nr 1 Załącznik nr 2
 

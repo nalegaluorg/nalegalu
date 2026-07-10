@@ -64,8 +64,7 @@ Przeciwwskazania do udzielenia świadczenia opieki zdrowotnej:
 8) brak możliwości zniszczenia całego guza (nie dotyczy pacjentów, u których jest przewidziane łączenie termoablacji z innymi metodami leczenia z intencją radykalną, np. operacją chirurgiczną lub radioterapią stereotaktyczną).
 Kryteria kwalifikacji Do udzielenia świadczenia opieki i kryteria wyłączenia zdrowotnej kwalifikowani są z kwalifikacji do świadczeniobiorcy z: przezskórnej krioablacji 1) rozpoznaniem według zmiany w obrębie klatki Międzynarodowej Statystycznej piersiowej Klasyfikacji Chorób i Problemów Zdrowotnych ICD-10: C34 Nowotwór złośliwy oskrzela i płuca, C38 Nowotwór złośliwy serca, śródpiersia i opłucnej, C78.0 Wtórny nowotwór złośliwy płuc, C78.1 Wtórny nowotwór złośliwy śródpiersia, C78.2 Wtórny nowotwór złośliwy opłucnej;
 2) wielkością pojedynczej zmiany ≤3 cm (nie dotyczy zabiegów wykonywanych w celu przeciwbólowym);
-3) obecnością ≤5 zmian przerzutowych w przypadku wtórnych guzów złośliwych płuca (nie dotyczy pacjentów, u których przewidziane jest łączenie krioablacji z innymi metodami leczenia z intencją radykalną, np.
-operacją chirurgiczną lub radioterapią stereotaktyczną) lub
+3) obecnością ≤5 zmian przerzutowych w przypadku wtórnych guzów złośliwych płuca (nie dotyczy pacjentów, u których przewidziane jest łączenie krioablacji z innymi metodami leczenia z intencją radykalną, np. operacją chirurgiczną lub radioterapią stereotaktyczną) lub
 4) rozpoznaniem niedrobnokomórkowego raka płuca w stopniu zaawansowania I i brakiem możliwości zastosowania leczenia chirurgicznego oraz radioterapii radykalnej.
 Przeciwwskazania do udzielenia świadczenia opieki zdrowotnej:
 1) brak możliwości zniszczenia całego guza (nie dotyczy zabiegów wykonywanych w celu przeciwbólowym) lub

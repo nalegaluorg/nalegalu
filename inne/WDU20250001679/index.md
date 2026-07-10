@@ -6,7 +6,7 @@ publisher: DU
 year: 2025
 pos: 1679
 act_type: Ustawa
-status: obowiązujący
+status: akt objęty tekstem jednolitym
 domain: null
 source: pdf
 ---
@@ -20,11 +20,11 @@ source: pdf
 | Adres publikacyjny | Dz.U. 2025 poz. 1679 |
 | ISAP | WDU20250001679 |
 | Typ aktu | Ustawa |
-| Status | obowiązujący |
+| Status | akt objęty tekstem jednolitym |
 | W mocy | tak |
 | Data ogłoszenia | 2025-10-17 |
 | Data wydania | 2025-12-02 |
-| Ostatnia zmiana | 2025-12-09 |
+| Ostatnia zmiana | 2026-06-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1679/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2024 r. poz. 749 oraz z 2025 r. poz. 1172) wprowadza się następujące zmiany:

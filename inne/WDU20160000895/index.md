@@ -189,8 +189,7 @@ Realizację programu wychowania przedszkolnego, uwzględniającego podstawę pro
 W trosce o jednolite oddziaływanie wychowawcze nauczyciele:
 1) systematycznie informują rodziców o zadaniach wychowawczych i kształcących realizowanych w przedszkolu lub innej formie wychowania przedszkolnego, zapoznają rodziców z podstawą programową wychowania przedszkolnego i włączają ich do procesu nabywania przez dzieci wiadomości i umiejętności w niej określonych;
 2) informują rodziców o sukcesach i kłopotach ich dzieci, a także włączają ich do wspierania osiągnięć rozwojowych dzieci i łagodzenia trudności, na jakie one natrafiają;
-3) zachęcają rodziców do współdecydowania w sprawach przedszkola lub innej formy wychowania przedszkolnego, np.
-wspólnie organizują wydarzenia, w których biorą udział dzieci.
+3) zachęcają rodziców do współdecydowania w sprawach przedszkola lub innej formy wychowania przedszkolnego, np. wspólnie organizują wydarzenia, w których biorą udział dzieci.
 Rolą nauczyciela jest przygotowanie dziecka do podjęcia nauki w szkole podstawowej, z uwzględnieniem potrzeb dziecka, w tym potrzeby ruchu.
 W celu przygotowania dzieci do podjęcia nauki w szkole podstawowej nauczyciele powinni znać podstawę programową kształcenia ogólnego dla szkół podstawowych w zakresie I etapu edukacyjnego.
 PODSTAWA PROGRAMOWA KSZTAŁCENIA OGÓLNEGO DLA SZKÓŁ PODSTAWOWYCH Kształcenie ogólne w szkole podstawowej tworzy fundament wykształcenia – szkoła łagodnie wprowadza uczniów w świat wiedzy, dbając o ich harmonijny rozwój intelektualny, etyczny, emocjonalny, społeczny i fizyczny. Kształcenie to dzieli się na dwa etapy edukacyjne:
@@ -955,8 +954,7 @@ e) układ rozrodczy żeński – jajniki, jajowody, macica, pochwa i układ rozr
 6) proponuje sposoby rozdzielania mieszanin jednorodnych i niejednorodnych (filtrowanie, odparowanie, przesiewanie).
 15. Ruch i siły w przyrodzie. Uczeń:
 1) opisuje różne rodzaje ruchu;
-2) interpretuje prędkość jako drogę przebytą w jednostce czasu, wyznacza doświadczalnie prędkość swojego ruchu, np.
-marszu lub biegu;
+2) interpretuje prędkość jako drogę przebytą w jednostce czasu, wyznacza doświadczalnie prędkość swojego ruchu, np. marszu lub biegu;
 3) bada doświadczalnie siłę tarcia i oporu powietrza oraz wody, określa czynniki, od których te siły zależą, podaje przykłady zmniejszania i zwiększania siły tarcia i oporu w przyrodzie i przez człowieka oraz ich wykorzystanie w życiu codziennym.
 MATEMATYKA Cele kształcenia – wymagania ogólne I. Sprawność rachunkowa.
 Uczeń wykonuje proste działania pamięciowe na liczbach naturalnych, całkowitych i ułamkach, zna i stosuje algorytmy działań pisemnych oraz potrafi wykorzystać te umiejętności w sytuacjach praktycznych.

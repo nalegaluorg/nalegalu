@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1984-11-15 |
 | Data wydania | 1984-11-23 |
-| Ostatnia zmiana | 2025-12-05 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840520268) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1984/268/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

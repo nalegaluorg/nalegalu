@@ -44,6 +44,7 @@ saos_id|date|court|case_number|type|score|saos_url
 96701|2012-01-09|SN|I UK 278/11|Postanowienie|69|https://www.saos.org.pl/judgments/96701
 81561|2002-09-16|SN|I PKN 684/01|Postanowienie|69|https://www.saos.org.pl/judgments/81561
 78293|1998-05-06|SN|II UKN 27/98|Postanowienie|69|https://www.saos.org.pl/judgments/78293
+547311|2026-04-14|SO|III AUa 2071/24|Wyrok|56|https://www.saos.org.pl/judgments/547311
 540181|2025-10-16|SO|III AUa 490/24|Wyrok|56|https://www.saos.org.pl/judgments/540181
 543666|2025-09-26|SO|III AUa 127/25|Wyrok|56|https://www.saos.org.pl/judgments/543666
 531047|2025-05-21|SO|III AUa 776/24|Wyrok|56|https://www.saos.org.pl/judgments/531047
@@ -707,6 +708,7 @@ saos_id|date|court|case_number|type|score|saos_url
 8517|2012-01-24|SO|III AUa 993/11|Wyrok|56|https://www.saos.org.pl/judgments/8517
 46033|2010-10-13|SO|III APa 12/10|Wyrok|56|https://www.saos.org.pl/judgments/46033
 537950|2025-08-13|SO|III AUz 154/25|Postanowienie|47|https://www.saos.org.pl/judgments/537950
+547168|2025-07-24|SO|I ACa 3838/24|Postanowienie|47|https://www.saos.org.pl/judgments/547168
 349057|2018-04-30|SO|III AUa 406/17|Postanowienie|47|https://www.saos.org.pl/judgments/349057
 340720|2018-04-30|SO|III AUa 420/17|Postanowienie|47|https://www.saos.org.pl/judgments/340720
 349063|2018-04-18|SO|III AUa 445/17|Postanowienie|47|https://www.saos.org.pl/judgments/349063
@@ -740,6 +742,7 @@ saos_id|date|court|case_number|type|score|saos_url
 407255|2020-01-24|SO|III AUa 463/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/407255
 406645|2019-12-19|SO|III AUa 705/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/406645
 406140|2019-11-28|SO|III AUa 159/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/406140
+547755|2026-05-08|SO|VII U 1592/24|Wyrok|40|https://www.saos.org.pl/judgments/547755
 546604|2026-04-10|SO|VII U 1559/24|Wyrok|40|https://www.saos.org.pl/judgments/546604
 543728|2026-02-25|SO|VII U 1472/25|Wyrok|40|https://www.saos.org.pl/judgments/543728
 544725|2026-02-16|SO|VII U 583/24|Wyrok|40|https://www.saos.org.pl/judgments/544725

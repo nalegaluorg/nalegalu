@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2002-07-27 |
 | Data wydania | 2002-09-05 |
-| Ostatnia zmiana | 2026-05-13 |
+| Ostatnia zmiana | 2026-06-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021411184) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1184/text.pdf) |
 
 **Art. 1.**
@@ -45,9 +45,7 @@ source: pdf
 
 4. Uniwersytet prowadzi działalność dydaktyczną, także z uwzględnieniem potrzeb Sił Zbrojnych Rzeczypospolitej Polskiej.
 
-5. Uniwersytet prowadzi działalność w zakresie kształcenia podyplomowego.
-
-6. Minister Obrony Narodowej corocznie określa wielkość potrzeb Sił Zbrojnych Rzeczypospolitej Polskiej w zakresie kształcenia studentów w poszczególnych zawodach medycznych i zgłasza ministrowi właściwemu do spraw zdrowia w celu wykorzystania przy ustalaniu limitu przyjęć na studia.
+5. Uniwersytet prowadzi działalność w zakresie kształcenia podyplomowego. [6. Minister Obrony Narodowej corocznie określa wielkość potrzeb Sił Zbrojnych Rzeczypospolitej Polskiej w zakresie kształcenia studentów w poszczególnych zawodach medycznych i zgłasza ministrowi właściwemu do spraw zdrowia w celu wykorzystania przy ustalaniu limitu przyjęć na studia.]
 
 **Art. 3.**
 
@@ -87,7 +85,7 @@ source: pdf
 
 6. Słuchacze Wojskowej Akademii Medycznej, którzy stają się studentami Uniwersytetu, pełnią nadal czynną służbę wojskową w charakterze kandydatów na żołnierzy zawodowych, ich stosunek służbowy i wynikające z niego prawa, obowiązki oraz odpowiedzialność dyscyplinarną określają przepisy odrębne.
 
-**Art. 7.** Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw zdrowia, corocznie ustala i przekazuje dotację na działalność dydaktyczną na kształcenie studentów, o których mowa w art. 2 ust. 6 i art. 6 ust. 6.
+**Art. 7.** Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw zdrowia, corocznie ustala i przekazuje subwencję na działalność dydaktyczną na kształcenie studentów, o których mowa w [art. 2 ust. 6 i ] art. 6 ust. 6.
 
 **Art. 8.** Uniwersytet z dniem jego utworzenia staje się organem założycielskim dla wymienionych niżej zakładów opieki zdrowotnej w Łodzi:
 
@@ -112,9 +110,7 @@ source: pdf
 
 **Art. 11.**
 
-1. W zakresie uregulowanym niniejszą ustawą nie stosuje się art. 10 ust. 3 i 4 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383 oraz z 2002 r. Nr 4, poz. 33 i
-
-- **34)** .
+1. W zakresie uregulowanym niniejszą ustawą nie stosuje się art. 10 ust. 3 i 4 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383 oraz z 2002 r. Nr 4, poz. 33 i 34).
 
 2. Do studentów, o których mowa w art. 6 ust. 6, nie stosuje się art. 152 ustawy, o której mowa w ust. 1.
 

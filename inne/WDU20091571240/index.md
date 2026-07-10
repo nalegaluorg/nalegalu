@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2009-08-27 |
 | Data wydania | 2009-09-24 |
-| Ostatnia zmiana | 2026-06-03 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091571240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1240/text.pdf) |
 
 ### DZIAŁ I Zasady finansów publicznych
@@ -1665,9 +1665,8 @@ source: pdf
     - **d)** wydatki budżetu jednostki samorządu terytorialnego określone w uchwale budżetowej na kolejny rok mogą być wyższe niż dochody tego budżetu powiększone o nadwyżkę budżetową z lat ubiegłych i wolne środki, jedynie o kwotę związaną z realizacją zadań ze środków, o których mowa w art. 5 ust. 3,
     - **e)** Rada Ministrów dokonuje przeglądu obowiązujących przepisów w celu przedstawienia propozycji rozwiązań prawnych mających wpływ na poziom dochodów budżetu państwa, w tym dotyczących stosowania stawek podatku od towarów i usług,
     - **f)** Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych otrzymuje dotację celową z budżetu państwa na realizację zadania, o którym mowa w art. 26a ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r.
-    - **g)** organy administracji rządowej mogą zaciągać nowe zobowiązania na przygotowanie inwestycji, jeżeli mają zapewnione finansowanie z udziałem środków publicznych, o których mowa w art. 5 ust. 1 pkt 2 i 3, na maksymalnym dopuszczalnym poziomie, określonym w przepisach lub procedurach dotyczących danego rodzaju inwestycji, nie mniejszym niż 50 % całości kosztów, z tym że ograniczenia te nie dotyczą: – odbudowy lub przebudowy dróg krajowych w celu usunięcia zagrożenia naruszenia bezpieczeństwa w ruchu drogowym, – inwestycji, o których mowa w art. 37 ust. 1 ustawy z dnia 24 czerwca 2010 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z 2010 r. (Dz. U. poz. 835 i 993 oraz z 2025 r. poz. 680), – przygotowania, wdrożenia, budowy lub eksploatacji systemów elektronicznego poboru opłat, o których mowa w art. 13i ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz.
+    - **g)** organy administracji rządowej mogą zaciągać nowe zobowiązania na przygotowanie inwestycji, jeżeli mają zapewnione finansowanie z udziałem środków publicznych, o których mowa w art. 5 ust. 1 pkt 2 i 3, na maksymalnym dopuszczalnym poziomie, określonym w przepisach lub procedurach dotyczących danego rodzaju inwestycji, nie mniejszym niż 50 % całości kosztów, z tym że ograniczenia te nie dotyczą: – odbudowy lub przebudowy dróg krajowych w celu usunięcia zagrożenia naruszenia bezpieczeństwa w ruchu drogowym, – inwestycji, o których mowa w art. 37 ust. 1 ustawy z dnia 24 czerwca 2010 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z 2010 r. (Dz. U. poz. 835 i 993 oraz z 2025 r. poz. 680), – przygotowania, wdrożenia, budowy lub eksploatacji systemów elektronicznego poboru opłat, o których mowa w art. 13i ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889), – zobowiązania z tytułu odszkodowań za nieruchomości przejęte w trybie ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311);
 
-- **889)** , – zobowiązania z tytułu odszkodowań za nieruchomości przejęte w trybie ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311);
 - **3)** jest równa lub większa od 60 %, to:
     - **a)** stosuje się odpowiednio postanowienia pkt 2 lit. a, b oraz e–g,
     - **b)** Rada Ministrów, najpóźniej w terminie miesiąca od dnia ogłoszenia relacji, o której mowa w art. 38 pkt 1 lit. a, przedstawia Sejmowi program sanacyjny mający na celu ograniczenie tej relacji do poziomu poniżej 60 %,
@@ -4160,9 +4159,7 @@ source: pdf
 
 5. Ustalenie spełnienia warunku określonego w ust. 3b pkt 1 następuje na podstawie danych przedstawianych przez jednostkę samorządu terytorialnego, przy czym, określając łączny koszt obsługi długu związany z danym zobowiązaniem, należy uwzględnić koszty, które jednostka jest obowiązana zapłacić, w szczególności odsetki, opłaty i prowizje.
 
-**Art. 243a.** Środków, o których mowa w art. 26 ust. 2 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708 oraz z 2025 r. poz.
-
-- **1069)** , ani świadczeń emitenta należnych obligatariuszom uprawnionym z obligacji przychodowych nie uwzględnia się przy ustalaniu ograniczeń zadłużenia jednostek samorządu terytorialnego, o których mowa w art. 243.
+**Art. 243a.** Środków, o których mowa w art. 26 ust. 2 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708 oraz z 2025 r. poz. 1069), ani świadczeń emitenta należnych obligatariuszom uprawnionym z obligacji przychodowych nie uwzględnia się przy ustalaniu ograniczeń zadłużenia jednostek samorządu terytorialnego, o których mowa w art. 243.
 
 **Art. 244.**
 

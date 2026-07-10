@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2016-10-11 |
 | Data wydania | 2016-10-21 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001738) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1738/text.pdf) |
 
 w sprawie wzoru i sposobu prowadzenia listy rzeczników patentowych, wzoru legitymacji rzecznika patentowego oraz wysokości opłat od wniosku o wpis lub zmianę wpisu na liście rzeczników patentowych Na podstawie art. 26 ustawy z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2016 r. poz. 221 i 1579) zarządza się, co następuje:

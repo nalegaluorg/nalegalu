@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych*
 
-Łącznie: **47** orzeczeń
+Łącznie: **48** orzeczeń
 (pominięto 61 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
@@ -79,9 +79,10 @@ Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2005 r. o ofercie publicznej i 
 
 - 2011-07-14 | SO | [I ACa 246/11](https://www.saos.org.pl/judgments/14739) | Wyrok
 
-## art. 79 (1)
+## art. 79 (2)
 
 - 2017-04-26 | SO | [I ACa 142/16](https://www.saos.org.pl/judgments/320726) | Wyrok
+- 2021-10-25 | SO | [XII Ga 150/20](https://www.saos.org.pl/judgments/547628) | Wyrok
 
 ## art. 80 (1)
 

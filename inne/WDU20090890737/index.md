@@ -31,8 +31,7 @@ Sygn. akt K 47/07 W imieniu Rzeczypospolitej Polskiej Trybunał Konstytucyjny w 
 1. § 36 ust. 5 w związku z ust. 1 i ust. 2 pkt 2 rozporządzenia Rady Ministrów z dnia 21 września 2004 r. w sprawie wyceny nieruchomości i sporządzania operatu szacunkowego (Dz. U. Nr 207, poz. 2109 oraz z 2005 r. Nr 196, poz. 1628) jest zgodny z art. 92 ust. 1 w związku z art. 2 Konstytucji Rzeczypospolitej Polskiej oraz art. 159 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2004 r. Nr 261, poz. 2603 i Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 69, poz.
 468 i Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100 i Nr 42, poz. 335 i 340).
 2. § 36 ust. 5 w związku z ust. 1 i ust. 2 pkt 2 rozporządzenia powołanego w punkcie 1 nie jest niezgodny z art. 73 ust. 5 ustawy z dnia 13 października 1998 r. – Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. Nr 133, poz. 872 i Nr 162, poz. 1126, z 2000 r. Nr 6, poz. 70, Nr 12, poz. 136, Nr 17, poz. 228, Nr 19, poz. 239, Nr 52, poz. 632, Nr 95, poz. 1041 i Nr 122, poz. 1312, z 2001 r. Nr 45, poz.
-497, Nr 100, poz. 1084, Nr 111, poz. 1194 i Nr 145, poz. 1623 oraz z 2009 r. Nr 31, poz.
-206).
+497, Nr 100, poz. 1084, Nr 111, poz. 1194 i Nr 145, poz. 1623 oraz z 2009 r. Nr 31, poz. 206).
 Ponadto p o s t a n a w i a: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417 oraz z 2009 r. Nr 56, poz. 459) umorzyć postępowanie w pozostałym zakresie ze względu na zbędność wydania wyroku.
 UZASADNIENIE I
 1. W dniu 2 kwietnia 2007 r. Rada Miasta Legionowo (dalej: wnioskodawca) zwróciła się do Trybunału o zbadanie zgodności:

@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach.*
 
 Łącznie: **302** orzeczeń
-(pominięto 481 orzeczeń sądów rejonowych)
+(pominięto 482 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 

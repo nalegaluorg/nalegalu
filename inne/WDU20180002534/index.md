@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-28 |
 | Data wydania | 2018-12-31 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002534) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2534/text.pdf) |
 
 w sprawie sposobu przesyłania informacji o schemacie podatkowym za pomocą środków komunikacji elektronicznej Na podstawie art. 86n § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm. ) zarządza się, co następuje:

@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-12-04 |
 | Data wydania | 2025-12-23 |
-| Ostatnia zmiana | 2026-01-02 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001846) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1846/text.pdf) |
 
 **Art. 1.** Ustawa określa szczególne zasady realizacji zadań związanych z inwestycją A2.7.1 Fundusz Bezpieczeństwa i Obronności, zwaną dalej „inwestycją A2.7.1”, o której mowa w załączniku do decyzji wykonawczej Rady nr 9590/25 z dnia 17 czerwca 2025 r. zmieniającej decyzję wykonawczą z dnia 17 czerwca 2022 r. w sprawie zatwierdzenia oceny planu odbudowy i zwiększania odporności Polski, wydanej na podstawie art. 20 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającego Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm. ), zwanego dalej „rozporządzeniem 2021/241”, obejmujące:

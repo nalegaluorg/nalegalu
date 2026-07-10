@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wolności sporządzona w Rzymie dnia 4 listopada 1950 r., zmieniona następnie Protokołami nr 3, 5 i 8 oraz uzupełniona Protokołem nr 2.*
 
-Łącznie: **2541** orzeczeń
+Łącznie: **2542** orzeczeń
 (pominięto 618 orzeczeń sądów rejonowych)
 
 ## art. 0 (1)
@@ -1091,7 +1091,7 @@ Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wo
 - 2022-03-01 | SO | [VIII U 2579/21](https://www.saos.org.pl/judgments/461246) | Zarządzenie
 - 2021-02-04 | SO | [VIII U 2373/20](https://www.saos.org.pl/judgments/431876) | Zarządzenie
 
-## art. 10 (150)
+## art. 10 (151)
 
 - 2015-11-04 | TK | [K 1/14](https://www.saos.org.pl/judgments/206657) | Wyrok ★
 - 2015-10-06 | TK | [SK 54/13](https://www.saos.org.pl/judgments/206803) | Wyrok ★
@@ -1155,6 +1155,7 @@ Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wo
 - 2006-06-06 | SN | [IV KK 87/06](https://www.saos.org.pl/judgments/84377) | Postanowienie
 - 2005-10-14 | SN | [III CZP 67/05](https://www.saos.org.pl/judgments/163601) | Postanowienie
 - 2004-06-22 | SN | [V KK 70/04](https://www.saos.org.pl/judgments/82747) | Postanowienie
+- 2025-12-03 | SO | [I ACa 511/23](https://www.saos.org.pl/judgments/547465) | Wyrok
 - 2025-10-15 | SO | [I ACa 936/23](https://www.saos.org.pl/judgments/544997) | Wyrok
 - 2025-10-09 | SO | [I ACa 1260/22](https://www.saos.org.pl/judgments/545133) | Wyrok
 - 2023-11-27 | SO | [III AUa 1754/21](https://www.saos.org.pl/judgments/504822) | Wyrok
@@ -1763,9 +1764,10 @@ Orzeczenia powołujące: *Konwencja o Ochronie Praw Człowieka i Podstawowych Wo
 
 - 2007-02-26 | TK | [Tw 22/06](https://www.saos.org.pl/judgments/108484) | Postanowienie ★
 
-## art. 54 (6)
+## art. 54 (7)
 
 - 2009-02-18 | TK | [Kp 3/08](https://www.saos.org.pl/judgments/109000) | Wyrok ★
+- 2025-12-03 | SO | [I ACa 511/23](https://www.saos.org.pl/judgments/547465) | Wyrok
 - 2018-01-30 | SO | [I ACa 784/17](https://www.saos.org.pl/judgments/355651) | Wyrok
 - 2017-02-09 | SO | [I ACa 868/16](https://www.saos.org.pl/judgments/429419) | Wyrok
 - 2016-02-29 | SO | [I ACa 735/15](https://www.saos.org.pl/judgments/224352) | Wyrok

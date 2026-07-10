@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1999-09-10 |
 | Data wydania | 1999-10-15 |
-| Ostatnia zmiana | 2026-04-08 |
+| Ostatnia zmiana | 2026-07-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990830930) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/930/text.pdf) |
 
 ## TYTUŁ I PRZESTĘPSTWA SKARBOWE I WYKROCZENIA SKARBOWE

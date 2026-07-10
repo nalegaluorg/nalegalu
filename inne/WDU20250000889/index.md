@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 czerwca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o drogach publicznych
 
+*USTAWA z dnia 21 marca 1985 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2025 poz. 889 |
@@ -22,18 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-06-26 |
 | Data wydania | 2025-07-04 |
-| Ostatnia zmiana | 2025-07-08 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000889) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/889/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
-2) ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy o drogach publicznych (Dz. U. poz. 641) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 czerwca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U.
-poz. 1222), który stanowi: „ Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: 1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.; 3) art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.; 4) art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia; 5) art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”;
-2) art. 2 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy o drogach publicznych (Dz. U. poz. 641), który stanowi: „ Art. 2. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 21 marca 1985 r.
-o drogach publicznych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -107,7 +99,8 @@ o drogach publicznych
 - **24)** dostępność drogi ‒ cechę charakteryzującą gęstość połączeń danej drogi z innymi drogami przez skrzyżowania lub węzły oraz zakres dostępu do drogi przez zjazdy;
 - **25)** pojazd nienormatywny – pojazd lub zespół pojazdów w rozumieniu art. 2 pkt 35a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
 - **26)** transeuropejska sieć drogowa – sieć drogową na terytorium Rzeczypospolitej Polskiej określoną w załączniku I do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1315/2013 z dnia 11 grudnia 2013 r. w sprawie unijnych wytycznych dotyczących rozwoju transeuropejskiej sieci transportowej i uchylającego decyzję nr 661/2010/UE (Dz. Urz. UE L 348 z 20.12.2013, str. 1, z późn. zm. );
-- **27)** służby ratownicze – jednostki ochrony przeciwpożarowej w rozumieniu ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188) oraz zespoły ratownictwa medycznego w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637);
+- **27)** służby ratownicze – jednostki ochrony przeciwpożarowej w rozumieniu ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz.
+- **188)** oraz zespoły ratownictwa medycznego w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637);
 - **28)** ocena wpływu planowanej drogi na bezpieczeństwo ruchu drogowego – strategiczną analizę wpływu wariantów planowanej drogi na poziom bezpieczeństwa ruchu drogowego w sieci dróg publicznych znajdujących się w obszarze oddziaływania planowanej drogi;
 - **29)** audyt bezpieczeństwa ruchu drogowego – niezależną, szczegółową, techniczną ocenę cech projektowanej, budowanej, przebudowywanej lub użytkowanej drogi publicznej pod względem bezpieczeństwa uczestników ruchu drogowego;
 - **30)** (uchylony)
@@ -135,9 +128,9 @@ o drogach publicznych
 - **44a)** składniki interoperacyjności EETS – podstawowe składniki, grupy składników, podzespoły lub zespoły, które są włączone lub które są przeznaczone do włączenia do usługi EETS, od których pośrednio lub bezpośrednio zależy interoperacyjność tej usługi, w tym urządzenie na potrzeby poboru opłat w systemie elektronicznego poboru opłat i oprogramowanie;
 - **44b)** przydatność do stosowania w EETS – zdolność składnika interoperacyjności EETS do osiągnięcia i utrzymania określonej wydajności w czasie jego używania po zintegrowaniu go w sposób reprezentatywny z usługą EETS w powiązaniu z systemem elektronicznego poboru opłat podmiotu pobierającego opłaty na obszarze EETS;
 - **44c)** upoważniony przedstawiciel – przedstawiciela w rozumieniu art. 4 pkt 25 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568);
-- **44d)** usługa poboru opłat – usługę umożliwiającą korzystającym z dróg publicznych wypełnienie obowiązku uiszczenia opłat na obszarze EETS na podstawie jednej umowy, obejmującą:
+- **44d)** usługa poboru opłat – usługę umożliwiającą korzystającym z dróg publicznych wypełnienie obowiązku uiszczenia opłat na obszarze EETS na podstawie jednej umowy, obejmującą: o usługach płatniczych (Dz. U. z 2025 r. poz. 611),
     - **a)** zagwarantowanie, że podmiot pobierający opłaty otrzymuje opłaty, które są należne od korzystających z dróg publicznych,
-    - **b)** umożliwianie wnoszenia opłat za pomocą powszechnie dostępnych usług płatniczych w rozumieniu art. 3 ust. 1 i 2 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 611),
+    - **b)** umożliwianie wnoszenia opłat za pomocą powszechnie dostępnych usług płatniczych w rozumieniu art. 3 ust. 1 i 2 ustawy z dnia 19 sierpnia 2011 r.
     - **c)** zapewnianie obsługi korzystających z dróg publicznych obowiązanych do wnoszenia opłat za przejazdy po obszarze EETS,
     - **d)** wdrażanie i stosowanie polityk, o których mowa w art. 24 ust. 2 rozporządzenia 2016/679, w celu ochrony przetwarzanych danych osobowych,
     - **e)** umożliwianie dostarczania użytkownikowi drogi urządzenia na potrzeby poboru opłat w systemie elektronicznego poboru opłat, jeśli jest ono wymagane w tym systemie;
@@ -283,7 +276,9 @@ o drogach publicznych
 - **1)** 1 stanowisko – jeżeli liczba stanowisk wynosi 6–15;
 - **2)** 2 stanowiska – jeżeli liczba stanowisk wynosi 16–40;
 - **3)** 3 stanowiska – jeżeli liczba stanowisk wynosi 41–100;
-- **4)** 4 % ogólnej liczby stanowisk jeżeli ogólna liczba stanowisk wynosi więcej niż 100.
+- **4)** 4 % ogólnej liczby stanowisk jeżeli ogólna liczba stanowisk wynosi więcej niż
+
+100.
 
 **Art. 12b.**
 
@@ -825,7 +820,9 @@ o drogach publicznych
 
 4. Zabezpieczenie jest ustanawiane na okres nie krótszy niż rok, w wysokości określonej w umowie, o której mowa w art. 13iba ust. 5.
 
-**Art. 13ibc.** Jeżeli właściciel, posiadacz albo użytkownik pojazdu działa przez pełnomocnika, do pełnomocnictw przepisy działu IV rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622 i 769) stosuje się odpowiednio.
+**Art. 13ibc.** Jeżeli właściciel, posiadacz albo użytkownik pojazdu działa przez pełnomocnika, do pełnomocnictw przepisy działu IV rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622 i
+
+- **769)** stosuje się odpowiednio.
 
 **Art. 13ic.**
 
@@ -834,9 +831,9 @@ o drogach publicznych
 1a. Przepisu ust. 1 nie stosuje się w przypadku:
 
 - **1)** gdy przerwa, o której mowa w ust. 1, nastąpiła na skutek niesprawności lub awarii urządzeń lub systemów, o których mowa w art. 13i ust. 3a, uniemożliwiającej przekazywanie danych geolokalizacyjnych niezbędnych do poboru opłaty elektronicznej;
-- **2)** gdy pojazd samochodowy:
+- **2)** gdy pojazd samochodowy: o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218) oraz w przepisach wydanych na podstawie art. 3 ust. 11 tej ustawy;
     - **a)** uczestniczy w: – akcji ratowniczej lub humanitarnej, – usuwaniu skutków klęsk żywiołowych, – usuwaniu awarii,
-    - **b)** jest używany: – do przewozu żywych zwierząt, – na potrzeby skupu mleka, – do przewozu lekarstw i środków medycznych, – do przewozu towarów niebezpiecznych w ilościach, dla których wymagane jest oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej, – do przewozu betonu oraz pomp do jego tłoczenia, – do przewozu odpadów komunalnych lub nieczystości ciekłych – i są nim przewożone towary nieobjęte systemem monitorowania przewozu i obrotu, o których mowa w art. 3 ust. 4–7 i 10 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218) oraz w przepisach wydanych na podstawie art. 3 ust. 11 tej ustawy;
+    - **b)** jest używany: – do przewozu żywych zwierząt, – na potrzeby skupu mleka, – do przewozu lekarstw i środków medycznych, – do przewozu towarów niebezpiecznych w ilościach, dla których wymagane jest oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej, – do przewozu betonu oraz pomp do jego tłoczenia, – do przewozu odpadów komunalnych lub nieczystości ciekłych – i są nim przewożone towary nieobjęte systemem monitorowania przewozu i obrotu, o których mowa w art. 3 ust. 4–7 i 10 ustawy z dnia 9 marca 2017 r.
 
 - **3)** autobusu przewożącego pasażerów.
 
@@ -1171,7 +1168,7 @@ o drogach publicznych
 - **2)** bezgotówkowej, za pomocą karty płatniczej, przy czym koszty związane z autoryzacją transakcji i przekazem środków ponosi obowiązany podmiot, lub
 - **3)** przelewu na wyodrębniony rachunek bankowy Głównego Inspektora Transportu Drogowego, przy czym koszty przelewu ponosi obowiązany podmiot.
 
-5. Do poboru kaucji, o której mowa w ust. 1 pkt 1, przepisy art. 13m ust. 4–6 stosuje się odpowiednio.
+5. Do poboru kaucji, o której mowa w ust. 1 pkt 1, przepisy art. 13m ust. 4– 6 stosuje się odpowiednio.
 
 6. Do poboru kary pieniężnej, o której mowa w ust. 1 pkt 2, nie stosuje się terminu, o którym mowa w art. 13m ust. 1 zdanie pierwsze.
 
@@ -1255,7 +1252,7 @@ o drogach publicznych
 
 4. Przekazywany kanał technologiczny, o którym mowa w ust. 3, powinien odpowiadać warunkom technicznym określonym w odrębnych przepisach, jak również warunkom określonym w decyzji, o której mowa w art. 39 ust. 3.
 
-#### Rozdział 1a (uchylony)
+#### Rozdział 1a
 
 #### Rozdział 1b Usługa EETS
 
@@ -2277,6 +2274,21 @@ o drogach publicznych
 
 6. Właściwy organ nie udostępnia na podstawie ust. 1 i 3 danych osobowych, o których mowa w art. 9 ust. 1 rozporządzenia 2016/679, chyba że podmiot, o którym mowa w ust. 1, jest ustawowo upoważniony do przetwarzania tych danych.
 
+**Art. 20i.**
+
+1. W sytuacji kryzysowej, jeżeli wymagają tego potrzeby obronności lub istotny interes bezpieczeństwa państwa, właściwy miejscowo wojewoda może, w drodze rozporządzenia porządkowego, po zasięgnięciu opinii zarządcy drogi, wprowadzić czasowe ograniczenia w korzystaniu z dróg publicznych, w tym czasowo wyłączyć je z ruchu. W tym celu właściwy miejscowo wojewoda może nałożyć na zarządcę drogi, zarządzającego ruchem oraz inne organy i podmioty, w zakresie właściwości ich działania, obowiązki zapewniające wykonanie tego rozporządzenia.
+
+2. Czasowe ograniczenia w korzystaniu z dróg publicznych, w tym ich czasowe wyłączenie z ruchu, wprowadza się w sposób, który umożliwia przemieszczanie się w określonych kierunkach za pomocą innych dróg niepodlegających ograniczeniom w korzystaniu i niewyłączonych z ruchu.
+
+3. Rozporządzenie porządkowe określa:
+
+- **1)** odcinki dróg publicznych wyznaczone za pomocą współrzędnych geograficznych lub oznakowania umieszczonego na słupkach hektometrowych i kilometrowych, na których wprowadza się czasowe ograniczenia w korzystaniu lub czasowe wyłączenie z ruchu;
+- **2)** rodzaj czasowego ograniczenia w korzystaniu z dróg publicznych;
+- **3)** okres, na który wprowadza się ograniczenia w korzystaniu z dróg publicznych lub czasowe wyłączenie z ruchu;
+- **4)** obowiązki zarządcy drogi, zarządzającego ruchem oraz innych organów i podmiotów w zakresie, o którym mowa w ust. 1.
+
+4. Rozporządzenie porządkowe, o którym mowa w ust. 1, może być ogłoszone w drodze obwieszczenia lub za pomocą środków komunikacji elektronicznej, lub w inny sposób zwyczajowo przyjęty na danym terenie.
+
 **Art. 21.**
 
 1. Zarządca drogi, o którym mowa w art. 19 ust. 2 pkt 2–4 i ust. 5, może wykonywać swoje obowiązki przy pomocy jednostki organizacyjnej będącej zarządem drogi, utworzonej odpowiednio przez sejmik województwa, radę powiatu lub radę gminy. Jeżeli jednostka taka nie została utworzona, zadania zarządu drogi wykonuje zarządca.
@@ -2576,9 +2588,9 @@ o drogach publicznych
 
 7. Minister właściwy do spraw transportu, wydając rozporządzenie, o którym mowa w ust. 6:
 
-- **1)** uwzględnia:
+- **1)** uwzględnia: w sprawie zarządzania bezpieczeństwem infrastruktury drogowej (Dz. Urz. UE L 319 z 29.11.2008, str. 59), zwanej dalej „dyrektywą 2008/96/WE”,
     - **a)** liczbę i rodzaj wypadków drogowych, natężenie i rodzaj ruchu drogowego, parametry użytkowe i techniczne oraz stan techniczny drogi lub jej odcinka, analizę organizacji ruchu obowiązującej na danej drodze lub jej odcinku lub
-    - **b)** orientacyjne elementy ocen bezpieczeństwa ruchu drogowego obejmujących całą sieć określone w załączniku III do dyrektywy Parlamentu Europejskiego i Rady 2008/96/WE z dnia 19 listopada 2008 r. w sprawie zarządzania bezpieczeństwem infrastruktury drogowej (Dz. Urz. UE L 319 z 29.11.2008, str. 59), zwanej dalej „dyrektywą 2008/96/WE”,
+    - **b)** orientacyjne elementy ocen bezpieczeństwa ruchu drogowego obejmujących całą sieć określone w załączniku III do dyrektywy Parlamentu Europejskiego i Rady 2008/96/WE z dnia 19 listopada 2008 r.
     - **c)** potrzebę uspójnienia wyników oceny ryzyka;
 
 - **2)** może uwzględnić wytyczne, o których mowa w art. 5 ust. 5 dyrektywy 2008/96/WE, w przypadku ich wydania przez Komisję Europejską.
@@ -2712,8 +2724,8 @@ o drogach publicznych
 
 3. Zezwolenie na lokalizację zjazdu, o którym mowa w ust. 1, wydaje się na czas nieokreślony, z zastrzeżeniem ust. 5. W zezwoleniu na lokalizację zjazdu określa się miejsce lokalizacji zjazdu i jego parametry techniczne, a w zezwoleniu na przebudowę zjazdu – jego parametry techniczne, a także zamieszcza się, w przypadku obu zezwoleń, pouczenie o obowiązku:
 
-- **1)** przed rozpoczęciem robót budowlanych:
-    - **a)** dokonania czynności wymaganych przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane,
+- **1)** przed rozpoczęciem robót budowlanych: – Prawo budowlane,
+    - **a)** dokonania czynności wymaganych przepisami ustawy z dnia 7 lipca 1994 r.
     - **b)** uzyskania zezwolenia zarządcy drogi na prowadzenie robót w pasie drogowym;
 
 - **2)** uzgodnienia z zarządcą drogi projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego zjazdu – o ile projekt zagospodarowania działki lub terenu oraz projekt architektoniczno-budowlany jest wymagany.
@@ -3085,13 +3097,14 @@ o drogach publicznych
 
 4. Wprowadzenie albo ustanowienie zakazu jest dopuszczalne na drogach publicznych lub ich odcinkach, których parametry techniczne lub stan techniczny konstrukcji nawierzchni jezdni nie są dostosowane do ruchu pojazdów o dopuszczalnym nacisku pojedynczej osi napędowej powyżej 10 t albo powyżej 8 t, spełniających co najmniej jedną z następujących przesłanek:
 
-- **1)** droga lub jej odcinek przebiega przez obszar, na którym znajduje się: poz. 737, z późn. zm. ), lub – ze szkoły w rozumieniu art. 2 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, do której uczęszczają dzieci w wieku do lat 15, lub – z placówki opiekuńczo-wychowawczej, o której mowa w art. 93 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49), do której uczęszczają dzieci w wieku do lat 15,
+- **1)** droga lub jej odcinek przebiega przez obszar, na którym znajduje się: z 2024 r. poz. 338, 743 i 858 oraz z 2025 r. poz. 620), lub – z przedszkola w rozumieniu art. 2 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm. ), lub – ze szkoły w rozumieniu art. 2 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, do której uczęszczają dzieci w wieku do lat 15, lub – z placówki opiekuńczo-wychowawczej, o której mowa w art. 93 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49), do której uczęszczają dzieci w wieku do lat 15,
     - **a)** forma ochrony przyrody, o której mowa w art. 6 ust. 1 pkt 1 lub 5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub graniczy z takim obszarem,
-    - **b)** wyjście: – ze żłobka lub klubu dziecięcego, o których mowa w art. 2 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338, 743 i 858 oraz z 2025 r. poz. 620), lub – z przedszkola w rozumieniu art. 2 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r.
+    - **b)** wyjście: – ze żłobka lub klubu dziecięcego, o których mowa w art. 2 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U.
     - **c)** zabytek nieruchomy objęty formą ochrony zabytków, o której mowa w art. 7 pkt 1 lub 1a ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907), lub graniczy z takim obszarem;
 
 - **2)** droga lub jej odcinek przebiega przez teren zwartej zabudowy mieszkaniowej;
-- **3)** droga lub jej odcinek przebiega przez uzdrowisko albo obszar ochrony uzdrowiskowej w rozumieniu odpowiednio art. 2 pkt 3 i 4 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420 i 1572) lub graniczy z takim uzdrowiskiem albo obszarem ochrony uzdrowiskowej;
+- **3)** droga lub jej odcinek przebiega przez uzdrowisko albo obszar ochrony uzdrowiskowej w rozumieniu odpowiednio art. 2 pkt 3 i 4 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420 i
+- **1572)** lub graniczy z takim uzdrowiskiem albo obszarem ochrony uzdrowiskowej;
 - **4)** droga lub jej odcinek przebiega przez obszar górniczy w rozumieniu art. 6 ust. 1 pkt 5 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze lub graniczy z takim obszarem;
 - **5)** droga lub jej odcinek przebiega przez teren zagrożony ruchami masowymi ziemi, o którym mowa w art. 110a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647), lub teren, na którym występują te ruchy;
 - **6)** droga lub jej odcinek przebiega przy obiekcie budowlanym, dla którego wstrząsy lub drgania wynikające z ruchu pojazdów o dopuszczalnym nacisku pojedynczej osi napędowej powyżej 8 t mogą powodować uszkodzenie tego obiektu;
@@ -3254,11 +3267,7 @@ o drogach publicznych
 
 **Art. 43.**
 
-1. Obiekty budowlane przy drogach oraz niebędące obiektami budowlanymi reklamy umieszczone przy drogach poza obszarami zabudowanymi, powinny być usytuowane w odległości od zewnętrznej krawędzi jezdni co najmniej: Lp. Rodzaj drogi W terenie zabudowy Poza terenem zabudowy 1 Autostrada 30 m 50 m 2 Droga ekspresowa 20 m 40 m 3 Droga ogólnodostępna
-
-- **a)** krajowa 10 m 25 m
-- **b)** wojewódzka, powiatowa 8 m 20 m
-- **c)** gminna 6 m 15 m
+1. Obiekty budowlane przy drogach oraz niebędące obiektami budowlanymi reklamy umieszczone przy drogach poza obszarami zabudowanymi, powinny być usytuowane w odległości od zewnętrznej krawędzi jezdni co najmniej:
 
 2. W szczególnie uzasadnionych przypadkach usytuowanie obiektu budowlanego przy drodze, o której mowa w ust. 1 lp. 3 tabeli, w odległości mniejszej niż określona w ust. 1, może nastąpić wyłącznie za zgodą zarządcy drogi, wydaną przed uzyskaniem przez inwestora obiektu pozwolenia na budowę lub zgłoszeniem budowy albo wykonywania robót budowlanych. Przepis art. 38 ust. 3 stosuje się odpowiednio.
 
@@ -3292,7 +3301,7 @@ o drogach publicznych
 - **1)** po wydaniu przez Komisję Europejską specyfikacji w zakresie wdrażania inteligentnych systemów transportowych w obszarze transportu drogowego, szczegółowe wymagania techniczne lub operacyjne dla aplikacji ITS i usług ITS,
 - **2)** sposoby wdrażania aplikacji ITS i usług ITS – mając na uwadze potrzebę zapewnienia skoordynowanego i spójnego wdrażania inteligentnych systemów transportowych w obszarze transportu drogowego, zaspokajanie w możliwie szerokim zakresie potrzeb użytkowników ITS oraz uwzględniając zasady, o których mowa w ust. 2.
 
-#### Rozdział 5 (uchylony)
+#### Rozdział 5
 
 #### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe
 
@@ -3319,5 +3328,9 @@ o drogach publicznych
 
 **Art. 52.** Traci moc ustawa z dnia 29 marca 1962 r. o drogach publicznych (Dz. U. poz. 90 oraz z 1971 r. poz. 115).
 
-**Art. 53.** Ustawa wchodzi w życie z dniem 1 października 1985 r. (uchylony) (uchylony)
+**Art. 53.** Ustawa wchodzi w życie z dniem 1 października 1985 r.
+
+## Załączniki do ustawy z dnia 21 marca 1985 r.
+
+(Dz. U. z 2025 r. poz. 889) Załącznik nr 1 Załącznik nr 2
 

@@ -24,14 +24,14 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-24 |
 | Data wydania | 2015-08-27 |
-| Ostatnia zmiana | 2026-04-07 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1240/text.pdf) |
 
 #### Rozdział 1 Cele i zadania Rady Dialogu Społecznego
 
 **Art. 1.**
 
-1. Tworzy się Radę Dialogu Społecznego, zwaną dalej „Radą”, jako forum trójstronnej współpracy strony reprezentującej osoby wykonujące pracę zarobkową, o których mowa w art. 1 pkt 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608), zwanej dalej „stroną pracowników”, strony pracodawców, o których mowa w art. 1 pkt 2 tej ustawy, oraz strony rządowej, zwanych dalej „stronami Rady”.
+1. Tworzy się Radę Dialogu Społecznego, zwaną dalej „Radą”, jako forum trójstronnej współpracy strony reprezentującej osoby wykonujące pracę zarobkową, o których mowa w art. 1 pkt 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2026 r. poz. 549), zwanej dalej „stroną pracowników”, strony pracodawców, o których mowa w art. 1 pkt 2 tej ustawy, oraz strony rządowej, zwanych dalej „stronami Rady”.
 
 2. Rada prowadzi dialog w celu zapewnienia warunków rozwoju społeczno-gospodarczego oraz zwiększenia konkurencyjności polskiej gospodarki i spójności społecznej.
 
@@ -112,7 +112,7 @@ source: pdf
 
 3. Uzgodnienie projektu, o którym mowa w ust. 1, następuje w drodze uchwały strony pracowników i strony pracodawców Rady.
 
-4. Nieprzyjęcie projektu przez Radę Ministrów do dalszych prac wymaga przedstawienia przez właściwego ministra stronie pracowników i stronie pracodawców Rady, w terminie 2 miesięcy od dnia podjęcia decyzji o nieprzyjęciu projektu, nie później niż w terminie 4 miesięcy od dnia otrzymania projektu przez właściwego ministra, pisemnego uzasadnienia.
+4. Nieprzyjęcie projektu przez Radę Ministrów do dalszych prac wymaga przedstawienia przez właściwego ministra stronie pracowników i stronie pracodawców Rady, w terminie 2 miesięcy od dnia podjęcia decyzji o nieprzyjęciu projektu, niepóźniej niż w terminie 4 miesięcy od dnia otrzymania projektu przez właściwego ministra, pisemnego uzasadnienia.
 
 5. W przypadku wniesienia projektu ustawy do Sejmu z istotnymi zmianami, informacja zawierająca uzasadnienie zmian jest zamieszczana w uzasadnieniu projektu.
 
@@ -158,7 +158,7 @@ source: pdf
 
 2. Uzgodnienie wniosku, o którym mowa w ust. 1, następuje w drodze uchwały strony pracowników i strony pracodawców Rady.
 
-3. W przypadku przedłożenia wniosku, o którym mowa w ust. 1, właściwy minister, w terminie nie dłuższym niż 2 miesiące od dnia złożenia wniosku, przedstawia na piśmie stronie pracowników i stronie pracodawców Rady stanowisko Rady Ministrów w sprawie.
+3. W przypadku przedłożenia wniosku, o którym mowa w ust. 1, właściwy minister, w terminie niedłuższym niż 2 miesiące od dnia złożenia wniosku, przedstawia na piśmie stronie pracowników i stronie pracodawców Rady stanowisko Rady Ministrów w sprawie.
 
 4. Strona pracowników i strona pracodawców Rady mogą złożyć wspólny wniosek o przedstawienie stanowiska, o którym mowa w ust. 3, na najbliższym posiedzeniu Rady.
 
@@ -196,9 +196,9 @@ source: pdf
 
 **Art. 18.**
 
-1. Strona rządowa, nie później niż 30 dni przed przedstawieniem projektu ustawy budżetowej Sejmowi, kieruje projekt ustawy budżetowej na rok następny wraz z uzasadnieniem do Rady w celu zajęcia stanowiska przez strony pracowników i strony pracodawców.
+1. Strona rządowa, niepóźniej niż 30 dni przed przedstawieniem projektu ustawy budżetowej Sejmowi, kieruje projekt ustawy budżetowej na rok następny wraz z uzasadnieniem do Rady w celu zajęcia stanowiska przez strony pracowników i strony pracodawców.
 
-2. Strony pracowników i strony pracodawców Rady zajmują wspólne stanowisko w sprawie projektu ustawy budżetowej na rok następny, nie później niż w 10 dniu roboczym następującym po dniu, w którym otrzymały projekt.
+2. Strony pracowników i strony pracodawców Rady zajmują wspólne stanowisko w sprawie projektu ustawy budżetowej na rok następny, niepóźniej niż w 10 dniu roboczym następującym po dniu, w którym otrzymały projekt.
 
 3. W przypadku gdy w terminie, o którym mowa w ust. 2, strony nie uzgodnią wspólnego stanowiska, każda ze stron może, w terminie kolejnych 5 dni roboczych, zająć stanowisko w sprawie projektu ustawy budżetowej na rok następny.
 
@@ -238,7 +238,7 @@ source: pdf
 - **1)** zrzeszają więcej niż 300 000 członków będących osobami wykonującymi pracę zarobkową, o których mowa w art. 1 pkt 1 ustawy z dnia 23 maja 1991 r. o związkach zawodowych;
 - **2)** działają w podmiotach gospodarki narodowej, których podstawowy rodzaj działalności jest określony w więcej niż w połowie sekcji Polskiej Klasyfikacji Działalności (PKD), o której mowa w przepisach o statystyce publicznej.
 
-3. Przy ustalaniu kryterium liczebności, o którym mowa w ust. 2 pkt 1, uwzględnia się nie więcej niż po 100 000 członków organizacji związkowej będących osobami wykonującymi pracę zarobkową zatrudnionymi w podmiotach gospodarki narodowej, których podstawowy rodzaj działalności jest określony w jednej sekcji Polskiej Klasyfikacji Działalności (PKD), o której mowa w przepisach o statystyce publicznej. Organizacja związkowa ubiegająca się o uznanie jej za reprezentatywną organizację związkową przy ustalaniu liczby osób wykonujących pracę zarobkową, o której mowa w ust. 2 pkt 1, nie uwzględnia osób wykonujących pracę zarobkową zrzeszonych w tych spośród jej organizacji członkowskich, które są lub w okresie roku przed złożeniem wniosku o stwierdzenie reprezentatywności były zrzeszone w reprezentatywnej organizacji związkowej mającej przedstawicieli w składzie Rady.
+3. Przy ustalaniu kryterium liczebności, o którym mowa w ust. 2 pkt 1, uwzględnia się niewięcej niż po 100 000 członków organizacji związkowej będących osobami wykonującymi pracę zarobkową zatrudnionymi w podmiotach gospodarki narodowej, których podstawowy rodzaj działalności jest określony w jednej sekcji Polskiej Klasyfikacji Działalności (PKD), o której mowa w przepisach o statystyce publicznej. Organizacja związkowa ubiegająca się o uznanie jej za reprezentatywną organizację związkową przy ustalaniu liczby osób wykonujących pracę zarobkową, o której mowa w ust. 2 pkt 1, nie uwzględnia osób wykonujących pracę zarobkową zrzeszonych w tych spośród jej organizacji członkowskich, które są lub w okresie roku przed złożeniem wniosku o stwierdzenie reprezentatywności były zrzeszone w reprezentatywnej organizacji związkowej mającej przedstawicieli w składzie Rady.
 
 4. Strona pracowników może zapraszać do udziału w pracach Rady, z głosem doradczym, przedstawicieli związków zawodowych i organizacji związkowych niespełniających kryteriów określonych w ust. 2 i 3 oraz przedstawicieli organizacji społecznych i zawodowych.
 
@@ -246,7 +246,7 @@ source: pdf
 
 1. Stronę pracodawców w Radzie reprezentują przedstawiciele reprezentatywnych organizacji pracodawców.
 
-2. Za reprezentatywne organizacje pracodawców uznaje się ogólnokrajowe organizacje pracodawców o charakterze ponadbranżowym, funkcjonujące na podstawie ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. z 2015 r. poz. 2029 oraz z 2018 r. poz. 1608) lub ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2018 r. poz. 1267), spełniające łącznie następujące kryteria:
+2. Za reprezentatywne organizacje pracodawców uznaje się ogólnokrajowe organizacje pracodawców o charakterze ponadbranżowym, funkcjonujące na podstawie ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. z 2025 r. poz. 423) lub ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2026 r. poz. 46), spełniające łącznie następujące kryteria:
 
 - **1)** zrzeszają pracodawców, o których mowa w art. 1 pkt 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych, zwanych dalej „pracodawcami”, zatrudniających łącznie co najmniej 300 000 osób wykonujących pracę zarobkową, z zastrzeżeniem ust. 3;
 - **2)** zrzeszają pracodawców prowadzących podstawowy rodzaj działalności gospodarczej w co najmniej połowie sekcji Polskiej Klasyfikacji Działalności (PKD), o której mowa w przepisach o statystyce publicznej, z zastrzeżeniem ust. 4;
@@ -255,7 +255,7 @@ source: pdf
 3. Przy ustalaniu kryterium liczebności, o którym mowa w ust. 2 pkt 1:
 
 - **1)** w przypadku pracodawcy prowadzącego działalność w zakresie jednej sekcji PKD wszystkie osoby wykonujące pracę zarobkową są przyporządkowywane do tej sekcji albo
-- **2)** w przypadku pracodawcy prowadzącego działalność w więcej niż jednej sekcji PKD wszystkie zatrudnione osoby wykonujące pracę zarobkową zostają przyporządkowane do sekcji obejmującej podstawowy rodzaj działalności danego podmiotu – przy czym uwzględnia się nie więcej niż 100 000 osób wykonujących pracę zarobkową w danej sekcji PKD.
+- **2)** w przypadku pracodawcy prowadzącego działalność w więcej niż jednej sekcji PKD wszystkie zatrudnione osoby wykonujące pracę zarobkową zostają przyporządkowane do sekcji obejmującej podstawowy rodzaj działalności danego podmiotu – przy czym uwzględnia się niewięcej niż 100 000 osób wykonujących pracę zarobkową w danej sekcji PKD.
 
 4. Przy ustalaniu liczby sekcji, o których mowa w ust. 2 pkt 2, uwzględnia się sekcje obejmujące co najmniej 3000 osób wykonujących pracę zarobkową.
 
@@ -263,7 +263,7 @@ source: pdf
 
 **Art. 25.**
 
-1. Wnioski organizacji związkowych, o których mowa w art. 23 ust. 2, i organizacji pracodawców, o których mowa w art. 24 ust. 2, o stwierdzenie ich reprezentatywności rozpatruje Sąd Okręgowy w Warszawie, który wydaje w tej sprawie orzeczenie w ciągu 30 dni od dnia złożenia wniosku w trybie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360, z późn. zm. ) o postępowaniu nieprocesowym.
+1. Wnioski organizacji związkowych, o których mowa w art. 23 ust. 2, i organizacji pracodawców, o których mowa w art. 24 ust. 2, o stwierdzenie ich reprezentatywności rozpatruje Sąd Okręgowy w Warszawie, który wydaje w tej sprawie orzeczenie w ciągu 30 dni od dnia złożenia wniosku w trybie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473) o postępowaniu nieprocesowym.
 
 2. Z wnioskami, o których mowa w ust. 1, organizacje związkowe i organizacje pracodawców występują co 4 lata. Okres 4 lat liczy się od dnia uprawomocnienia się uprzednio wydanego orzeczenia.
 
@@ -275,7 +275,7 @@ source: pdf
 
 2. Liczbę przedstawicieli każdej z organizacji, o których mowa w art. 23 ust. 1 i art. 24 ust. 1, w składzie Rady ustalają wspólnie strony pracowników i strony pracodawców.
 
-3. Strona pracowników i strona pracodawców Rady mają równą liczbę przedstawicieli, nie więcej niż 25 każda ze stron.
+3. Strona pracowników i strona pracodawców Rady mają równą liczbę przedstawicieli, niewięcej niż 25 każda ze stron.
 
 4. Każda z organizacji, o których mowa w art. 23 ust. 1 i art. 24 ust. 1, ma równą liczbę przedstawicieli w ramach danej strony.
 
@@ -304,9 +304,9 @@ source: pdf
 
 4. Za udział w pracach Rady przysługuje ryczałt miesięczny:
 
-- **1)** przewodniczącemu oraz wiceprzewodniczącym Rady, z wyłączeniem przedstawicieli strony rządowej – w wysokości 76% przeciętnego wynagrodzenia w roku poprzednim ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, od pierwszego dnia następnego miesiąca po ogłoszeniu, zwanego dalej „przeciętnym wynagrodzeniem”;
-- **2)** członkom Rady, pełniącym funkcje przewodniczących zespołów problemowych, o których mowa w art. 34, z wyłączeniem przedstawicieli strony rządowej – w wysokości 65% przeciętnego wynagrodzenia;
-- **3)** pozostałym członkom Rady oraz sekretarzom Prezydium Rady, z wyłączeniem przedstawicieli strony rządowej – w wysokości 57% przeciętnego wynagrodzenia.
+- **1)** przewodniczącemu oraz wiceprzewodniczącym Rady, z wyłączeniem przedstawicieli strony rządowej – w wysokości 76 % przeciętnego wynagrodzenia w roku poprzednim ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, od pierwszego dnia następnego miesiąca po ogłoszeniu, zwanego dalej „przeciętnym wynagrodzeniem”;
+- **2)** członkom Rady, pełniącym funkcje przewodniczących zespołów problemowych, o których mowa w art. 34, z wyłączeniem przedstawicieli strony rządowej – w wysokości 65 % przeciętnego wynagrodzenia;
+- **3)** pozostałym członkom Rady oraz sekretarzom Prezydium Rady, z wyłączeniem przedstawicieli strony rządowej – w wysokości 57 % przeciętnego wynagrodzenia.
 
 5. Uprawnienie do ryczałtu przysługuje wyłącznie z jednego z tytułów wymienionych w ust. 4.
 
@@ -374,7 +374,7 @@ source: pdf
 
 1. Pracami Rady kieruje Prezydium Rady, w skład którego wchodzą przewodniczący Rady i wiceprzewodniczący Rady.
 
-2. Przedstawiciele każdej z organizacji, o których mowa w art. 23 ust. 1 i art. 24 ust. 1, oraz Prezes Rady Ministrów − w imieniu strony rządowej − wskazują po jednym wiceprzewodniczącym Rady, przy czym nie wskazuje wiceprzewodniczącego organizacja lub strona rządowa, której przedstawiciel jest przewodniczącym Rady.
+2. Przedstawiciele każdej z organizacji, o których mowa w art. 23 ust. 1 i art. 24 ust. 1, oraz Prezes Rady Ministrów – w imieniu strony rządowej – wskazują po jednym wiceprzewodniczącym Rady, przy czym nie wskazuje wiceprzewodniczącego organizacja lub strona rządowa, której przedstawiciel jest przewodniczącym Rady.
 
 3. Prezydium Rady koordynuje pracę Rady i jej zespołów problemowych, o których mowa w art. 34, w szczególności ustala harmonogram prac Rady, porządek posiedzenia Rady oraz rozpatruje sprawy przekazane przez Radę.
 
@@ -391,7 +391,7 @@ source: pdf
 - **3)** kierowanie w imieniu Rady wniosków i zapytań do właściwych organów;
 - **4)** wykonywanie innych czynności zleconych przez Radę.
 
-3. Przewodniczący Rady przedstawia Sejmowi i Senatowi corocznie, nie później niż do dnia:
+3. Przewodniczący Rady przedstawia Sejmowi i Senatowi corocznie, niepóźniej niż do dnia:
 
 - **1)** 15 października – informację o działalności Rady za okres swojej kadencji;
 - **2)** 31 maja – sprawozdanie z działalności Rady w roku poprzednim.
@@ -406,7 +406,7 @@ source: pdf
 
 **Art. 33.**
 
-1. Posiedzenia Rady oraz jej Prezydium odbywają się w zależności od potrzeb, nie rzadziej jednak niż raz na 2 miesiące.
+1. Posiedzenia Rady oraz jej Prezydium odbywają się w zależności od potrzeb, nierzadziej jednak niż raz na 2 miesiące.
 
 2. Rada, w drodze uchwały, może przekazać Prezydium Rady rozpatrzenie sprawy należącej do jej kompetencji, z wyjątkiem zadań, których realizacja przez Radę wynika z odrębnych ustaw.
 
@@ -519,7 +519,7 @@ source: pdf
 
 **Art. 45.**
 
-1. W sprawach, o których mowa w art. 44 ust. 1, WRDS wyraża opinię lub podejmuje uchwałę o konieczności wyznaczenia osoby z misją dobrej woli, którą będzie osoba z listy mediatorów, o której mowa w art. 11 ust. 1 ustawy z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. z 2018 r. poz. 399, 730 i 1608), z zastrzeżeniem ust. 2.
+1. W sprawach, o których mowa w art. 44 ust. 1, WRDS wyraża opinię lub podejmuje uchwałę o konieczności wyznaczenia osoby z misją dobrej woli, którą będzie osoba z listy mediatorów, o której mowa w art. 11 ust. 1 ustawy z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. z 2026 r. poz. 437), z zastrzeżeniem ust. 2.
 
 2. W szczególnych przypadkach, jeżeli wymaga tego interes społeczny, przewodniczący WRDS może samodzielnie zadecydować o konieczności wyznaczenia osoby z misją dobrej woli.
 
@@ -560,9 +560,9 @@ source: pdf
 
 1. WRDS obraduje na posiedzeniach plenarnych.
 
-2. Pierwsze posiedzenie WRDS zwołuje marszałek województwa nie później niż w terminie 3 miesięcy od złożenia wniosku, o którym mowa w art. 41 ust. 2.
+2. Pierwsze posiedzenie WRDS zwołuje marszałek województwa niepóźniej niż w terminie 3 miesięcy od złożenia wniosku, o którym mowa w art. 41 ust. 2.
 
-3. Posiedzenia WRDS odbywają się w zależności od potrzeb, nie rzadziej niż raz na trzy miesiące.
+3. Posiedzenia WRDS odbywają się w zależności od potrzeb, nierzadziej niż raz na trzy miesiące.
 
 4. Posiedzenia WRDS i prezydium WRDS zwołuje przewodniczący WRDS.
 
@@ -634,7 +634,7 @@ source: pdf
 
 1. Trójstronna Komisja do Spraw Społeczno-Gospodarczych działa do dnia powołania pierwszego składu Rady Dialogu Społecznego, na zasadach określonych w ustawie z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. poz. 1080, z późn. zm. ).
 
-2. Wojewódzkie komisje dialogu społecznego działają do dnia powołania pierwszych składów wojewódzkich rad dialogu społecznego, na zasadach określonych w ustawie z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+2. Wojewódzkie komisje dialogu społecznego działają do dnia powołania pierwszych składów wojewódzkich rad dialogu społecznego, na zasadach określonych w ustawie z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego, niedłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 3. Wojewoda uwzględni w kwocie dotacji celowej, o której mowa w art. 41 ust. 4, koszty stanowiące zwrot poniesionych w 2015 r. przez marszałków województw wydatków na działalność wojewódzkich rad dialogu społecznego.
 

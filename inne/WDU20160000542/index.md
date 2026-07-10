@@ -1459,7 +1459,6 @@ source: pdf
 
 - **1)** art. 102 pkt 1 lit. c w zakresie art. 1 ust. 2 pkt 2, który wchodzi w życie z dniem 22 lipca 2016 r.;
 - **2)** art. 105 pkt 4–8, które wchodzą w życie z dniem 1 stycznia 2017 r.;
-- **3)** art. 107 pkt 15 w zakresie art. 158a, który wchodzi w życie z dniem 12 czerwca 2018 r. Załącznik do ustawy z dnia 13 kwietnia 2016 r. (Dz. U. z 2025 r. poz.
-- **568)** (pominięty)
+- **3)** art. 107 pkt 15 w zakresie art. 158a, który wchodzi w życie z dniem 12 czerwca 2018 r. Załącznik do ustawy z dnia 13 kwietnia 2016 r. (Dz. U. z 2025 r. poz. 568) (pominięty)
 
 

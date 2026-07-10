@@ -136,15 +136,13 @@ orzeczenie ETPC z 8 czerwca 1995 r. w sprawie Jamil przeciwko Francji, skarga nr
 Na płaszczyźnie konstytucyjnej brak jest uregulowania, które nawiązywałoby do reguły intertemporalnej wysłowionej w art. 15 ust. 1 Paktu, art. 7 ust. 1 Konwencji oraz w art. 4 § 1 k.k. Do rangi zasady konstytucyjnej podniesiona jest zatem jedynie zasada nullum crimen, nulla poena sine lege, gwarantowana na płaszczyźnie ustawowej przez art.
 1 k.k.
 Jak już była o tym mowa powyżej, treść tej gwarancji określona w art. 42 ust. 1 Konstytucji ujęta jest stosunkowo wąsko. Jak stwierdza się w piśmiennictwie: „Konstytucyjnym warunkiem stosowania sankcji karnej czyni ona wyłącznie historyczną karalność ocenianego czynu w momencie jego popełnienia” (W. Wróbel, Zmiana normatywna i zasady intertemporalne w prawie karnym, Kraków 2003, s. 545 i 528; zob.
-także wyrok TK z 15 października 2008 r., sygn. P 32/06, OTK ZU nr 8/A/2008, poz.
-138).
+także wyrok TK z 15 października 2008 r., sygn. P 32/06, OTK ZU nr 8/A/2008, poz. 138).
 Mając na uwadze powyższe, należało rozważyć, czy gwarancja ochronna wynikająca z art. 42 ust. 1 Konstytucji obejmuje sytuację, w której zmiana w zakresie sankcji (tu – kary zastępczej) następuje po prawomocnym jej orzeczeniu, w toku postępowania wykonawczego.
 W orzecznictwie Trybunału przyjmuje się, że z zasady nullum crimen sine lege poenale anteriori wyrażonej w art. 42 ust. 1 Konstytucji wynikają następujące zasady szczegółowe:
 1) czyny zabronione muszą być określone w ustawie (nullum crimen sine lege scripta),
 2) typy przestępstw muszą być określone w sposób maksymalnie dokładny (nullum crimen sine lege certa),
 3) niedopuszczalne jest stosowanie (niekorzystnej dla sprawcy) analogii i wykładni rozszerzającej,
-4) ustawa karna wprowadzająca odpowiedzialność karną lub ją zaostrzająca nie może działać wstecz (nullum crimen sine lege praevia, lex retro non agit) – por. np.
-wyroki TK z: 8 lipca 2003 r., sygn. P 10/02 (OTK ZU nr 6/A/2003, poz. 62) i 9 czerwca 2010 r., sygn. SK 52/08 (OTK ZU nr 5/A/2010, poz. 50).
+4) ustawa karna wprowadzająca odpowiedzialność karną lub ją zaostrzająca nie może działać wstecz (nullum crimen sine lege praevia, lex retro non agit) – por. np. wyroki TK z: 8 lipca 2003 r., sygn. P 10/02 (OTK ZU nr 6/A/2003, poz. 62) i 9 czerwca 2010 r., sygn. SK 52/08 (OTK ZU nr 5/A/2010, poz. 50).
 Konstytucyjną zasadę nullum crimen sine lege poenali anteriori uzupełnia zatem zasada nulla poena sine lege poenale anteriori, zgodnie z którą kara za przestępstwo musi być określona i przewidziana we wcześniej wydanej ustawie (zob. wyrok TK z 9 czerwca 2010 r., sygn. SK 52/08).
 Przypomnienia wymaga także wyrok TK z 25 maja 2004 r., sygn. SK 44/03 (OTK ZU nr 5/A/2004, poz. 46), w którym podkreślono, że obywatel ma prawo oczekiwać, że będzie podlegał odpowiedzialności karnej na zasadach określonych w art. 42 ust. 1 Konstytucji.
 Na szczególną uwagę zasługuje tu myśl wyrażona w uzasadnieniu wyroku TK z 15 października 2008 r., sygn. P 32/06, w którym orzeczono o zgodności art. 1 pkt 2 ustawy z dnia 3 czerwca 2005 r. o zmianie ustawy – Kodeks karny (Dz. U. Nr 132, poz.

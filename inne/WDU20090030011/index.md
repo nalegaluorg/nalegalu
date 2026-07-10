@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-06 |
 | Data wydania | 2009-01-12 |
-| Ostatnia zmiana | 2026-05-27 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090030011) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/11/text.pdf) |
 
 Właściwość organów podatkowych
@@ -729,9 +729,7 @@ Podstawa opodatkowania i stawki akcyzy
 
 5a. Właściwość miejscową organu podatkowego w sprawach odnotowania obciążenia lub zwolnienia zabezpieczenia generalnego z obciążenia ustala się ze względu na miejsce dokonania czynności lub wystąpienia stanu faktycznego, stanowiących podstawę do tego odnotowania.
 
-5b. W przypadku gdy zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej, o której mowa w art. 37h ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2026 r. poz.
-
-- **218)** , zwanej dalej „opłatą paliwową”, wygasa na skutek zapłaty tego zobowiązania podatkowego lub tej opłaty paliwowej, organem właściwym do odnotowania zwolnienia zabezpieczenia generalnego z obciążenia jest naczelnik urzędu skarbowego, któremu podatnik składa deklarację podatkową.
+5b. W przypadku gdy zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej, o której mowa w art. 37h ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2026 r. poz. 218), zwanej dalej „opłatą paliwową”, wygasa na skutek zapłaty tego zobowiązania podatkowego lub tej opłaty paliwowej, organem właściwym do odnotowania zwolnienia zabezpieczenia generalnego z obciążenia jest naczelnik urzędu skarbowego, któremu podatnik składa deklarację podatkową.
 
 5c. Na wniosek podatnika zwolnienie zabezpieczenia generalnego z obciążenia na skutek zapłaty zobowiązania podatkowego lub zapłaty opłaty paliwowej może odnotować inny niż określony w ust. 5b naczelnik urzędu skarbowego, pod warunkiem że posiada on informację, że zobowiązanie podatkowe lub opłata paliwowa zostały zapłacone, lub podatnik przedstawi mu dokumenty potwierdzające dokonanie tej zapłaty.
 
@@ -3680,9 +3678,8 @@ Podstawa opodatkowania i stawki akcyzy
 
 2. Gwarant odpowiada całym swoim majątkiem, solidarnie z podatnikiem, jego następcami prawnymi oraz osobą, której udzielił gwarancji bankowej lub ubezpieczeniowej, złożonej przez tę osobę jako zabezpieczenie akcyzowe zamiast podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego lub łącznie z nim, za zobowiązanie podatkowe objęte gwarancją do czasu jego wygaśnięcia oraz za opłatę paliwową objętą gwarancją do czasu wygaśnięcia obowiązku jej zapłaty, wraz z odsetkami za zwłokę – do wysokości kwoty gwarancji.
 
-3. Gwarantem może być jedynie osoba prawna mająca siedzibę na terytorium Unii Europejskiej lub terytorium państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, oddział banku zagranicznego oraz główny oddział zakładu ubezpieczeń, które prowadzą na terytorium kraju działalność bankową lub ubezpieczeniową, w rozumieniu przepisów, odpowiednio, ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe lub ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2025 r. poz. 1526 oraz z 2026 r. poz.
+3. Gwarantem może być jedynie osoba prawna mająca siedzibę na terytorium Unii Europejskiej lub terytorium państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, oddział banku zagranicznego oraz główny oddział zakładu ubezpieczeń, które prowadzą na terytorium kraju działalność bankową lub ubezpieczeniową, w rozumieniu przepisów, odpowiednio, ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe lub ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2025 r. poz. 1526 oraz z 2026 r. poz. 176), oraz:
 
-- **176)** , oraz:
 - **1)** posiadają na podstawie tych przepisów uprawnienie do udzielania gwarancji bankowych lub ubezpieczeniowych na całym terytorium kraju;
 - **2)** zawiadomią na piśmie ministra właściwego do spraw finansów publicznych o zamiarze udzielania gwarancji bankowych lub ubezpieczeniowych, składanych jako zabezpieczenie akcyzowe.
 

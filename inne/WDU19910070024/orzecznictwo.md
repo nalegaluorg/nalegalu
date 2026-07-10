@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników.*
 
 Łącznie: **1914** orzeczeń
-(pominięto 1705 orzeczeń sądów rejonowych)
+(pominięto 1706 orzeczeń sądów rejonowych)
 
 ## art. 1 (43)
 

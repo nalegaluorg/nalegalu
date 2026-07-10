@@ -160,9 +160,7 @@ source: pdf
 - **2)** przeprowadzanie kontroli na miejscu;
 - **3)** ustalanie należności z tytułu:
     - **a)** nienależnych kwot pomocy,
-    - **b)** opłat, o których mowa w art. 33 ust. 1 pkt 2 lit. b–d ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz.
-
-- **1502)** ,
+    - **b)** opłat, o których mowa w art. 33 ust. 1 pkt 2 lit. b–d ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 1502),
     - **c)** nienależnie zwolnionych przez Krajowy Ośrodek Wsparcia Rolnictwa zabezpieczeń wniesionych przez przedsiębiorców uczestniczących w obrocie z zagranicą towarami, o których mowa w art. 6 ust. 1 pkt 7,
     - **d)** kar pieniężnych, o których mowa w art. 6 ust. 1 pkt 7 lit. d – oraz wzywanie beneficjenta do zwrotu kwot tych należności;
 
@@ -422,9 +420,7 @@ source: pdf
 
 1b. Po zakończeniu stosunku pracy z osobami, o których mowa w ust. 1a, dalsze zatrudnienie tych osób na wolnych stanowiskach pracy w Agencji wymaga przeprowadzenia naboru.
 
-1c. Na wolne stanowisko pracy w Agencji może zostać przeniesiony pracownik urzędu obsługującego ministra właściwego do spraw rozwoju wsi, w tym będący członkiem korpusu służby cywilnej w rozumieniu art. 3 pkt 3 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409 oraz z 2025 r. poz.
-
-- **620)** , w drodze porozumienia pracodawców, za zgodą tego pracownika.
+1c. Na wolne stanowisko pracy w Agencji może zostać przeniesiony pracownik urzędu obsługującego ministra właściwego do spraw rozwoju wsi, w tym będący członkiem korpusu służby cywilnej w rozumieniu art. 3 pkt 3 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409 oraz z 2025 r. poz. 620), w drodze porozumienia pracodawców, za zgodą tego pracownika.
 
 1d. W przypadku przeniesienia, o którym mowa w ust. 1c, z pracownikiem nawiązuje się stosunek pracy na podstawie umowy o pracę na czas nieokreślony lub na czas określony.
 

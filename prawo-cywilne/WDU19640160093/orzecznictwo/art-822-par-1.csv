@@ -44,6 +44,7 @@ saos_id|date|court|case_number|type|score|saos_url
 90351|2009-06-05|SN|IV CNP 36/09|Postanowienie|69|https://www.saos.org.pl/judgments/90351
 86204|2007-06-29|SN|II CSK 229/07|Postanowienie|69|https://www.saos.org.pl/judgments/86204
 86068|2007-06-15|SN|II CSK 75/07|Postanowienie|69|https://www.saos.org.pl/judgments/86068
+547706|2026-01-27|SO|I ACa 1142/23|Wyrok|56|https://www.saos.org.pl/judgments/547706
 546502|2025-12-11|SO|I ACa 491/23|Wyrok|56|https://www.saos.org.pl/judgments/546502
 545138|2025-12-10|SO|I ACa 488/23|Wyrok|56|https://www.saos.org.pl/judgments/545138
 546729|2025-12-02|SO|I ACa 1245/22|Wyrok|56|https://www.saos.org.pl/judgments/546729
@@ -3224,6 +3225,7 @@ saos_id|date|court|case_number|type|score|saos_url
 546577|2026-05-12|SO|VII C 683/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/546577
 545540|2026-04-17|SO|VII C 72/26|Uzasadnienie|27|https://www.saos.org.pl/judgments/545540
 544798|2026-04-15|SO|VII C 1403/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/544798
+547320|2026-03-31|SO|V GC 1189/24|Zarządzenie|27|https://www.saos.org.pl/judgments/547320
 543673|2025-11-28|SO|V GC 1494/24|Zarządzenie|27|https://www.saos.org.pl/judgments/543673
 536418|2025-10-29|SO|I C 34/24|Zarządzenie|27|https://www.saos.org.pl/judgments/536418
 545536|2025-10-06|SO|VII C 1348/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/545536

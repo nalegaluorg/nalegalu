@@ -1,0 +1,70 @@
+---
+title: Rozporządzenie Ministra Finansów i Gospodarki z dnia 27 maja 2026 r. zmieniające rozporządzenie w sprawie zwrotu podatku od towarów i usług niektórym podmiotom
+address: WDU20260000736
+eli: DU/2026/736
+publisher: DU
+year: 2026
+pos: 736
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 773366 Załącznik do rozporządzenia Ministra Finansów i Gospodarki z dnia 27 maja 2026 r. (poz. …) WZÓR Naczelnik Drugiego Urzędu Skarbowego Warszawa-Śródmieście Pieczęć wpływu /Receipt stamp/ Wniosek/Korekta wniosku o zwrot VAT /Application/Correction of VAT refund/(#) (przed wypełnieniem należy zapoznać się z objaśnieniami /before filling in read the explanatory notes/) (#) Niepotrzebne skreślić. /Cross out unnecessary./ (*) Zaznacz właściwy kwadrat. /Tick relevant box./ Do wniosku należy dołączyć zaświadczenie o rejestracji podatnika podatku od wartości dodanej lub podatku o podobnym charakterze w kraju siedziby – wymienione w załączniku do wniosku.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2026 poz. 736 |
+| ISAP | WDU20260000736 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2026-05-27 |
+| Data wydania | 2026-06-05 |
+| Wejście w życie | 2026-06-06 |
+| Ostatnia zmiana | 2026-06-08 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000736) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/736/text.pdf) |
+
+/To the application should be attached the specimen of certificate of taxpayer’s registration as taxpayer of the value added tax or a tax of similar nature in the country of establishment – specified in the Annex of the application./ ......................................................... ........................................ .........................................
+(miejscowość (data /date/) (podpis /signature/) /place (e.g. city, town, village)/) Objaśnienia: Wniosek należy złożyć na właściwym formularzu wypełnionym w języku polskim.
+Formularz wypełnia się DRUKOWANYMI LITERAMI, zaczynając każdy wpis na początku wiersza lub rubryki.
+W rubrykach typu |_|_|_|_|_|_| wstawia się niewięcej niż jeden znak (literę, cyfrę, znak przestankowy itp.).
+Wniosek składa się do Naczelnika Drugiego Urzędu Skarbowego Warszawa-Śródmieście, niepóźniej niż do dnia 30 września roku następującego po roku podatkowym, którego wniosek dotyczy.
+Jeżeli nie jest to pierwszy wniosek, należy podać numer ewidencyjny nadany w Polsce. Numer ten powinien być umieszczony w ramce w lewej górnej części wniosku.
+Wniosek powinien dotyczyć zakupów towarów i usług lub importu towarów dokonanych w okresie niekrótszym niż 3 miesiące i niedłuższym niż rok podatkowy. Wniosek może dotyczyć okresu krótszego, w przypadku gdy dotyczy ostatnich 3 miesięcy roku podatkowego.
+Jeżeli wniosek dotyczy okresu krótszego niż rok podatkowy, ale niekrótszego niż 3 miesiące, kwota wnioskowanego zwrotu podatku nie może być niższa niż kwota stanowiąca równowartość w złotych 400 euro. W przypadku gdy wniosek dotyczy całego roku podatkowego lub okresu krótszego niż ostatnie 3 miesiące tego roku, kwota wnioskowanego zwrotu podatku nie może być niższa niż kwota stanowiąca równowartość w złotych 50 euro.
+Przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym poprzedzającym dzień wystawienia faktury lub dokumentu celnego.
+W poz. 10 w lit. a podmiot uprawniony z państwa trzeciego powinien opisać rodzaj prowadzonej działalności, w ramach której nabył towary i usługi, tj. oświadczyć, że towary i usługi wyszczególnione w poz. 11 zostały wykorzystane do jego działalności jako podatnika w okresie ........, np. „Udział w Międzynarodowych Targach .............., które odbyły się w ............... w dniach ................., stanowisko nr ............” lub „Międzynarodowy przewóz towarów z ............... do ............... środkiem transportu ...............”.
+W poz. 10 w lit. b w kwadracie drugim i trzecim poprzez zaznaczenie podmiot uprawniony z państwa trzeciego powinien oświadczyć, że jedynie świadczył usługi lub dokonywał dostaw towarów, o których mowa w § 3 ust. 1 pkt 2 lit. a–l rozporządzenia, lub że świadczył usługi lub dokonywał dostaw towarów, o których mowa w § 3 ust. 1 pkt 2 lit. m–p rozporządzenia.
+Do wniosku dołącza się między innymi: – oryginał zaświadczenia wskazującego, że podmiot uprawniony z państwa trzeciego jest podatnikiem podatku od wartości dodanej lub podatku o podobnym charakterze, zarejestrowanym w kraju siedziby; zaświadczenie to wydaje organ podatkowy w kraju siedziby tego podmiotu uprawnionego; zaświadczenie stanowi integralną część wniosku; jeżeli podmiot uprawniony z państwa trzeciego składa wniosek częściej niż jeden raz w roku podatkowym, zaświadczenia nie dołącza się do każdego wniosku, pod warunkiem że nie upłynął rok od dnia jego wystawienia oraz nie nastąpiły żadne zmiany w zakresie objętym zaświadczeniem, – faktury, z których wynikają wnioskowane kwoty zwrotu, z wyjątkiem: – – faktur, dla których we wniosku został podany numer identyfikujący je w Krajowym Systemie e-Faktur, – – faktur elektronicznych, które podmiot uprawniony przesyła lub udostępnia naczelnikowi urzędu skarbowego w dniu złożenia wniosku, – oryginały dokumentów celnych, włączając w to dokumenty przesłane elektronicznie, z których wynikają wnioskowane kwoty zwrotu.
+Kwoty zwrotu podatku uzyskane nienależnie przez podmiot uprawniony z państwa trzeciego podlegają zwrotowi do urzędu skarbowego wraz z należnymi odsetkami. W przypadku niedokonania zwrotu podatku uzyskanego nienależnie wraz z należnymi odsetkami podmiotowi uprawnionemu nie przysługują żadne kolejne zwroty do wysokości niezwróconej kwoty.
+Zwrot podatku jest dokonywany w złotych na rachunek bankowy podmiotu uprawnionego w kraju lub w kraju jego siedziby działalności gospodarczej. W przypadku gdy zwrot podatku jest dokonywany na rachunek w kraju siedziby działalności gospodarczej podmiotu uprawnionego z państwa trzeciego, urząd skarbowy nie ponosi kosztów związanych z dokonaniem tego zwrotu.
+Koszty bankowe pomniejszają kwotę zwrotu podatku.
+Jeżeli po złożeniu wniosku o zwrot proporcja podatku podlegająca odliczeniu, o której mowa w art. 89 ust. 1b ustawy, zostanie skorygowana, podmiot uprawniony z państwa trzeciego dokonuje korekty kwoty żądanego lub otrzymanego zwrotu w tym roku podatkowym. Korekta jest dokonywana we wniosku w następnym roku podatkowym. Kwota korekty zwiększa lub zmniejsza kwotę żądanego zwrotu za ten okres – art. 89 ust. 1e pkt 1 ustawy.
+W przypadku gdy podmiot uprawniony z państwa trzeciego dokonuje we wniosku jedynie korekty, o której mowa w art. 89 ust. 1e pkt 2 ustawy, kwota wynikająca z korekty podatku zmniejszająca kwotę otrzymanego zwrotu podatku podlega wpłacie do urzędu skarbowego. Natomiast gdy korygowana kwota podatku zwiększa kwotę otrzymanego zwrotu podatku, kwota ta podlega zwrotowi z urzędu skarbowego.
+/Explanatory notes: The application must be made on the appropriate form completed in Polish.
+Complete the form in BLOCK LETTERS starting each entry at the beginning of the line or space provided.
+In those sections which are marked thus |_|_|_|_|_|_| do not insert more than one character (letter, figure, punctuation mark etc.).
+The application shall be submitted to the Head of the Second Tax Office for Warszawa-Śródmieście not later than by 30 September of the year following the tax year to which the application refers.
+If this is not first application the reference number in Poland shall be given. This number should be inserted in the box in the top left corner of the application.
+The application should refer to purchase of goods and services or the import of goods made during a period of not less than three months and not more than a tax year. It may relate to a shorter period in case it concerns the last three months of a tax year.
+If the period to which the application relates is less than one tax year, but is not less than three months, the total amount of tax refund for which application is made must not be less than PLN equivalent of EURO 400. In case if the period is one tax year, or remainder of a tax year, the amount of tax refund for which application is made must not be less than PLN equivalent of EURO 50.
+The conversions of the amounts expressed in EURO shall be made in accordance with the average EURO exchange rate published by the National Bank of Poland, applicable on the last working day preceding the day of invoice or customs document issue.
+In the item 10, letter a, the applicant should describe the nature of activities for which goods were acquired or services received, i.e. he should declare that the goods or services specified in item 11 were used for those activities as a taxable person during ……, e.g. „Participated in the International ……………. Fair, held in ………. from ……… to ………, stand No ………..” or „International carriage of goods as from ……. to …….. on ………..”.
+In the item 10, letter b, in the second and third checkbox, by ticking, the applicant should declare that it only provided services or goods referred to in § 3 subparagraph 1 point 2 letter a–l of the Regulation or that it provided services or goods referred to in § 3 subparagraph 1 point 2 letter m–p of the Regulation.
+Following documents shall be attached to the application: original certificate attesting that the eligible entity is a taxable person of the value added tax, or of the tax of similar nature, registered in the country of their establishment; the certificate shall be issued by the tax authority in the country of establishment; the certificate constitutes the integral part of the application; in case where the eligible entity files the application more frequently than once a tax year, the certificate shall not be enclosed to each application provided that a year has not yet elapsed since the date of its issue and no changes in the matters to which it refers have occurred;
+invoices on the basis of which the amount of tax refund for which application is made is determined, except for: – – invoices for which the invoice identification number in the National e-Invoice System was provided in the application, – – electronic invoices that the applicant sends or makes available to the head of the tax office on the day of submitting the application, original customs documents including documents send by electronic way on the basis of which the amount of tax refund for which application is made is determined.
+Tax which has been unduly refunded shall be reimbursed to the tax office along with interest due.
+In case where the undue tax refund has not been reimbursed along with the interest due, the eligible entity shall not obtain any further tax refunds to the unpaid amount.
+Tax refund shall be made in zloty to the bank account of the eligible entity in Poland or in the country of the seat of his economic activity. In case where tax refund is made to the bank account in the country of the seat of his economic activity, the tax office shall not incur the bank charges for the transfer. The bank charges for the transfer shall be deducted from the amount VAT refund.
+If subsequent to submission of the refund application the deductible proportion, referred to in art. 89 paragraph 1b of the VAT Act is adjusted the eligible entity shall make a correction to the amount applied for or already refunded. The correction shall be made in a refund application during the next tax year. The correction amount shall increase or decrease the amount refund applied for in this period – art. 89 paragraph 1e point 1 of the VAT Act.
+In case where the eligible entity merely shall made the correction, referred to in art. 89 paragraph 1e point 2 of the VAT Act the correction amount which decreases the amount refunded shall be reimbursed to the tax office. However when the correction tax amount increases the amount refunded shall be reimbursed from the tax office./ Załącznik do wniosku /Annex to the application/ ZAŚWIADCZENIE O REJESTRACJI PODATNIKA PODATKU OD WARTOŚCI DODANEJ LUB PODATKU O PODOBNYM CHARAKTERZE W KRAJU SIEDZIBY /The specimen of certificate of taxpayer’s registration as taxpayer of the value added tax or a tax of similar nature in the country of establishment/ Zaświadczenie o rejestracji podatnika podatku (podmiotu) /Certificate of registration as taxpayer (entity)/ ........................................................................................................................................................
+(nazwa i adres urzędu podatkowego /name and address of the competent authority/) poświadcza, że /certifies that/ ........................................................................................................
+........................................................................................................................................................
+(imię i nazwisko lub nazwa firmy /name and surname, or name of firm/) ........................................................................................................................................................
+(adres, siedziba działalności gospodarczej /address, seat of economic activity/) ........................................................................................................................................................
+(rodzaj prowadzonej działalności lub branża /nature of activity, or branch of industry/) został(a) zarejestrowany(-na) jako osoba (podmiot) podlegająca(-cy) podatkowi od wartości dodanej lub podatkowi o podobnym charakterze pod następującym numerem identyfikacyjnym /is registered as a person (entity) subject to the value added tax or a tax of similar nature under the following tax identification number/: ..........................
+...................................... ......................................... ............................................
+(data /date/) (pieczęć urzędowa (podpis /signature/) /official stamp/) (nazwisko i stanowisko /name and position/)
+

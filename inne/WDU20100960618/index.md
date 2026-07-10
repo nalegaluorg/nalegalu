@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2010-04-30 |
 | Data wydania | 2010-06-04 |
-| Ostatnia zmiana | 2026-06-09 |
+| Ostatnia zmiana | 2026-06-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100960618) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/618/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -60,7 +60,7 @@ source: pdf
 3. Instytut, poza zadaniami, o których mowa w ust. 1 i 2, może prowadzić:
 
 - **1)** kształcenie w szkole doktorskiej i na studiach podyplomowych, związane z prowadzonymi przez instytut badaniami naukowymi i pracami rozwojowymi,
-- **2)** inne formy kształcenia – na zasadach określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ).
+- **2)** inne formy kształcenia – na zasadach określonych w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
 
 4. Instytut może prowadzić działalność inną niż wymieniona w ust. 1–3. Działalność ta jest wyodrębniona pod względem finansowym i rachunkowym z działalności, o której mowa w ust. 1–3.
 
@@ -106,11 +106,11 @@ source: pdf
 
 4. Strukturę organizacyjną instytutu i tryb pracy jego komórek organizacyjnych określa regulamin organizacyjny ustalony przez dyrektora po zasięgnięciu opinii rady naukowej i zakładowych organizacji związkowych.
 
-5. Do czasu powołania dyrektora w tworzonym instytucie albo w instytucie powstałym w wyniku połączenia albo podziału minister nadzorujący wyznacza, na okres nie dłuższy niż 6 miesięcy, osobę pełniącą obowiązki dyrektora.
+5. Do czasu powołania dyrektora w tworzonym instytucie albo w instytucie powstałym w wyniku połączenia albo podziału minister nadzorujący wyznacza, na okres niedłuższy niż 6 miesięcy, osobę pełniącą obowiązki dyrektora.
 
 **Art. 7.**
 
-1. Instytut może zostać połączony z innym instytutem, podzielony, zreorganizowany, przekształcony w instytucję gospodarki budżetowej działającą na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) lub zlikwidowany, jeżeli minister nadzorujący uzna, że łączenie, podział, reorganizacja, przekształcenie lub likwidacja instytutu są uzasadnione merytorycznie, organizacyjnie i finansowo, z zastrzeżeniem ust. 4 i 5.
+1. Instytut może zostać połączony z innym instytutem, podzielony, zreorganizowany, przekształcony w instytucję gospodarki budżetowej działającą na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635) lub zlikwidowany, jeżeli minister nadzorujący uzna, że łączenie, podział, reorganizacja, przekształcenie lub likwidacja instytutu są uzasadnione merytorycznie, organizacyjnie i finansowo, z zastrzeżeniem ust. 4 i 5.
 
 2. Łączenie, podział, reorganizacja lub likwidacja instytutu może nastąpić również na wspólny wniosek rady naukowej i dyrektora instytutu po zasięgnięciu opinii zakładowych organizacji związkowych złożony ministrowi nadzorującemu.
 
@@ -122,7 +122,7 @@ source: pdf
 
 5. Do utworzenia instytucji gospodarki budżetowej, poprzez przekształcenie, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-6. W rozporządzeniu, o którym mowa w ust. 3, Rada Ministrów może wskazać nie więcej niż dwóch ministrów nadzorujących, określając zakres przedmiotowy nadzoru sprawowanego przez tych ministrów oraz wskazując kompetencje tych ministrów z zakresu nadzoru nad instytutem.
+6. W rozporządzeniu, o którym mowa w ust. 3, Rada Ministrów może wskazać niewięcej niż dwóch ministrów nadzorujących, określając zakres przedmiotowy nadzoru sprawowanego przez tych ministrów oraz wskazując kompetencje tych ministrów z zakresu nadzoru nad instytutem.
 
 **Art. 8.**
 
@@ -147,7 +147,7 @@ source: pdf
 
 1. Instytut, w drodze rozporządzenia Rady Ministrów, może być:
 
-- **1)** przekształcony w instytut naukowy Polskiej Akademii Nauk – po podjęciu uchwały w tej sprawie przez Prezydium Polskiej Akademii Nauk, w trybie określonym w art. 44 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796);
+- **1)** przekształcony w instytut naukowy Polskiej Akademii Nauk – po podjęciu uchwały w tej sprawie przez Prezydium Polskiej Akademii Nauk, w trybie określonym w art. 44 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2026 r. poz. 168);
 - **2)** (uchylony)
 - **3)** włączony do instytutu naukowego Polskiej Akademii Nauk – po uzgodnieniu z dyrektorem tego instytutu naukowego oraz z Prezesem Polskiej Akademii Nauk;
 - **4)** przekształcony w instytut działający w ramach Sieci Badawczej Łukasiewicz, zwany dalej „instytutem Sieci Łukasiewicz”.
@@ -201,7 +201,7 @@ source: pdf
 
 2. (uchylony)
 
-3. Do komercjalizacji instytutu stosuje się przepisy ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2023 r. poz. 343 oraz z 2024 r. poz. 123), z zastrzeżeniem ust. 4 i 5.
+3. Do komercjalizacji instytutu stosuje się przepisy ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2025 r. poz. 1478 i 1840), z zastrzeżeniem ust. 4 i 5.
 
 4. Komercjalizację instytutu poprzedza postępowanie przygotowawcze mające na celu ocenę celowości oraz warunków jego komercjalizacji.
 
@@ -235,7 +235,7 @@ source: pdf
 
 4. Z dniem ogłoszenia upadłości instytutu postępowanie likwidacyjne podlega umorzeniu.
 
-5. W sprawach nieuregulowanych niniejszą ustawą do upadłości instytutu stosuje się przepisy ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825, 1723, 1843 i 1860).
+5. W sprawach nieuregulowanych niniejszą ustawą do upadłości instytutu stosuje się przepisy ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172 oraz z 2026 r. poz. 331 i 340).
 
 **Art. 15.**
 
@@ -253,7 +253,7 @@ source: pdf
 
 2. Organ wskazany w akcie o utworzeniu instytutu wyposaża tworzony instytut w nieruchomości Skarbu Państwa. Na wyposażenie instytutu tworzonego z połączenia kilku instytutów przeznacza się nieruchomości stanowiące własność lub użytkowanie wieczyste gruntów łączonych instytutów; na jego wyposażenie mogą być również przeznaczone nieruchomości Skarbu Państwa.
 
-3. Skarb Państwa oraz jednostki samorządu terytorialnego mogą przekazywać instytutom nieruchomości w trybie i na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ).
+3. Skarb Państwa oraz jednostki samorządu terytorialnego mogą przekazywać instytutom nieruchomości w trybie i na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2026 r. poz. 399).
 
 4. Gospodarowanie mieniem instytutu odbywa się zgodnie z zasadami legalności, rzetelności, celowości, gospodarności i oszczędności.
 
@@ -261,7 +261,7 @@ source: pdf
 
 **Art. 17.**
 
-1. Do czynności prawnych dotyczących składników aktywów trwałych, w zakresie komercjalizacji wyników badań naukowych, prac rozwojowych oraz know-how związanego z tymi wynikami, nie stosuje się przepisów art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125).
+1. Do czynności prawnych dotyczących składników aktywów trwałych, w zakresie komercjalizacji wyników badań naukowych, prac rozwojowych oraz know-how związanego z tymi wynikami, nie stosuje się przepisów art. 38–41 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373).
 
 2. Instytut sprzedaje innym podmiotom, na podstawie umów prawa cywilnego, składniki aktywów trwałych w drodze publicznego przetargu na zasadach określonych w przepisach wydanych na podstawie art. 46 ust. 4 ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2023 r. poz. 437).
 
@@ -302,7 +302,7 @@ source: pdf
 
 8. Instytut osiąga przychody z:
 
-- **1)** subwencji i dotacji na podstawie ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce i ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z zastrzeżeniem ust. 9 i art. 21 ust. 6 oraz art. 48a ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080);
+- **1)** subwencji i dotacji na podstawie ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce i ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z zastrzeżeniem ust. 9 i art. 21 ust. 6 oraz art. 48a ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26, 426 i 635);
 - **2)** innych źródeł.
 
 9. Łączna kwota dotacji przyznanych w kolejnych latach na dofinansowanie inwestycji realizowanej przez instytut może wynosić do 100 % planowanej wartości kosztorysowej inwestycji.
@@ -328,7 +328,7 @@ source: pdf
 
 - **1)** statutowy, który stanowi równowartość majątku według stanu na dzień rozpoczęcia działalności;
 - **2)** rezerwowy, który tworzy się z nie mniej niż 8 % zysku netto za poprzedni rok obrotowy;
-- **3)** zakładowy fundusz świadczeń socjalnych, który tworzy się na zasadach określonych w ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2024 r. poz. 288).
+- **3)** zakładowy fundusz świadczeń socjalnych, który tworzy się na zasadach określonych w ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2024 r. poz. 288 oraz z 2026 r. poz. 25).
 
 2. Instytut może tworzyć fundusze:
 
@@ -351,7 +351,7 @@ source: pdf
 - **3)** funduszu nagród;
 - **4)** zakładowego funduszu świadczeń socjalnych.
 
-4a. Instytuty badawcze nadzorowane przez ministra właściwego do spraw informatyzacji mogą przeznaczyć zysk, o którym mowa w ust. 4, na zwiększenie Funduszu Cyberbezpieczeństwa, o którym mowa w art. 2 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2023 r. poz. 667).
+4a. Instytuty badawcze nadzorowane przez ministra właściwego do spraw informatyzacji mogą przeznaczyć zysk, o którym mowa w ust. 4, na zwiększenie Funduszu Cyberbezpieczeństwa, o którym mowa w art. 2 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1662, z 2025 r. poz. 1017 oraz z 2026 r. poz. 252).
 
 5. Dyrektor instytutu przedstawia do zatwierdzenia ministrowi nadzorującemu wniosek dotyczący podziału zysku, po zaopiniowaniu przez radę naukową. Minister nadzorujący, mając na względzie dbałość o prawidłowe funkcjonowanie instytutu, może dokonać innego niż wnioskowany podziału zysku.
 
@@ -377,7 +377,7 @@ source: pdf
 
 5. Rada Ministrów, w drodze rozporządzenia, nadaje instytutowi status państwowego instytutu badawczego, uwzględniając w szczególności wymagania, o których mowa w art. 4, oraz określając zakres zadań tego instytutu, źródła finansowania i wskazując dysponentów środków budżetowych przeznaczonych na realizację tych zadań.
 
-5a. W rozporządzeniu, o którym mowa w ust. 5, Rada Ministrów może wskazać nie więcej niż dwóch ministrów nadzorujących, określając zakres przedmiotowy nadzoru sprawowanego przez tych ministrów oraz wskazując kompetencje tych ministrów z zakresu nadzoru nad instytutem.
+5a. W rozporządzeniu, o którym mowa w ust. 5, Rada Ministrów może wskazać niewięcej niż dwóch ministrów nadzorujących, określając zakres przedmiotowy nadzoru sprawowanego przez tych ministrów oraz wskazując kompetencje tych ministrów z zakresu nadzoru nad instytutem.
 
 6. Państwowy instytut badawczy otrzymuje dotację celową na finansowanie realizacji zleconych zadań. Wysokość dotacji jest określana w ustawie budżetowej, na wniosek właściwych dysponentów części budżetowych.
 
@@ -450,7 +450,7 @@ source: pdf
 
 2. (uchylony) 2a. (uchylony)
 
-3. W przypadku odwołania dyrektora instytutu minister nadzorujący wyznacza do pełnienia obowiązków dyrektora jednego z jego zastępców albo inną osobę spełniającą warunki określone w art. 24 ust. 6 pkt 1–3 i 5 na okres nie dłuższy niż 6 miesięcy.
+3. W przypadku odwołania dyrektora instytutu minister nadzorujący wyznacza do pełnienia obowiązków dyrektora jednego z jego zastępców albo inną osobę spełniającą warunki określone w art. 24 ust. 6 pkt 1–3 i 5 na okres niedłuższy niż 6 miesięcy.
 
 3a. (uchylony)
 
@@ -479,7 +479,7 @@ source: pdf
 
 3. Dyrektora, jego zastępców oraz głównego księgowego w okresie trwania stosunku pracy obowiązuje zakaz prowadzenia działalności konkurencyjnej określony w odrębnej umowie.
 
-4. Do zakazu, o którym mowa w ust. 3, stosuje się przepisy art. 101 1 , 101 i 101 Kodeksu pracy.
+4. Do zakazu, o którym mowa w ust. 3, stosuje się przepisy art. 101 , 101 i 101 Kodeksu pracy.
 
 5. Umowę, o której mowa w ust. 3, z dyrektorem oraz zastępcami dyrektora zawiera minister nadzorujący.
 
@@ -510,7 +510,7 @@ source: pdf
 - **15)** wnioskowanie do dyrektora o mianowanie na stanowisko profesora lub profesora instytutu;
 - **16)** ustalanie programów studiów podyplomowych i programów kształcenia w szkołach doktorskich, prowadzonych przez instytut;
 - **17)** opiniowanie regulaminu zarządzania prawami autorskimi i prawami pokrewnymi oraz prawami własności przemysłowej oraz zasad komercjalizacji wyników badań naukowych i prac rozwojowych;
-- **18)** przypisywanie poziomów Polskiej Ramy Kwalifikacji do kwalifikacji nadawanych po ukończeniu studiów podyplomowych, o których mowa w art. 2 ust. 3 pkt 1, z uwzględnieniem art. 21 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226 oraz z 2023 r. poz. 2005);
+- **18)** przypisywanie poziomów Polskiej Ramy Kwalifikacji do kwalifikacji nadawanych po ukończeniu studiów podyplomowych, o których mowa w art. 2 ust. 3 pkt 1, z uwzględnieniem art. 21 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606);
 - **19)** podejmowanie decyzji o włączeniu do Zintegrowanego Systemu Kwalifikacji kwalifikacji nadawanych po ukończeniu studiów podyplomowych i innych form kształcenia, z uwzględnieniem informacji, o których mowa w art. 25 ust. 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji;
 - **20)** występowanie do ministra właściwego, o którym mowa w art. 2 pkt 14 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, z wnioskiem o włączenie do Zintegrowanego Systemu Kwalifikacji kwalifikacji nadawanych po ukończeniu innych form kształcenia, w tym szkoleń i kursów dokształcających, o których mowa w art. 2 ust. 3 pkt 2.
 
@@ -520,11 +520,11 @@ source: pdf
 
 5. Rada naukowa jest uprawniona do zajmowania stanowiska we wszystkich sprawach dotyczących działalności instytutu.
 
-6. Rada naukowa sporządza opinie, o których mowa w ust. 2 pkt 4, 5, 7, 9–13, w terminie nie dłuższym niż 30 dni.
+6. Rada naukowa sporządza opinie, o których mowa w ust. 2 pkt 4, 5, 7, 9–13, w terminie niedłuższym niż 30 dni.
 
 **Art. 30.**
 
-1. W skład rady naukowej instytutu wchodzi nie mniej niż dwanaście i nie więcej niż czterdzieści osób. Statut instytutu określa liczbę tych osób.
+1. W skład rady naukowej instytutu wchodzi niemniej niż dwanaście i niewięcej niż czterdzieści osób. Statut instytutu określa liczbę tych osób.
 
 2. W skład rady naukowej, w liczbie określonej w statucie instytutu, wchodzą:
 
@@ -533,7 +533,7 @@ source: pdf
 
 2a. (uchylony)
 
-3. Osoby posiadające stopień naukowy doktora habilitowanego albo tytuł profesora, zatrudnione w instytucie w pełnym wymiarze czasu pracy nie krócej niż rok przed dniem rozpoczęcia procedury powołania rady naukowej, wchodzą w jej skład w liczbie określonej w statucie instytutu.
+3. Osoby posiadające stopień naukowy doktora habilitowanego albo tytuł profesora, zatrudnione w instytucie w pełnym wymiarze czasu pracy niekrócej niż rok przed dniem rozpoczęcia procedury powołania rady naukowej, wchodzą w jej skład w liczbie określonej w statucie instytutu.
 
 4. Do rady naukowej wchodzą osoby spoza instytutu posiadające co najmniej stopień naukowy doktora oraz osoby wyróżniające się wiedzą i praktycznym dorobkiem w sferze gospodarczej objętej działalnością instytutu, które powołuje minister nadzorujący, w tym spośród kandydatów przedstawionych przez dyrektora.
 
@@ -563,7 +563,7 @@ source: pdf
 
 1. Rada naukowa wybiera spośród swoich członków w głosowaniu tajnym przewodniczącego i jego zastępców. Przewodniczącego rady naukowej wybiera się spośród członków rady powołanych przez ministra nadzorującego.
 
-1a. Funkcję przewodniczącego można pełnić łącznie nie dłużej niż przez 8 lat.
+1a. Funkcję przewodniczącego można pełnić łącznie niedłużej niż przez 8 lat.
 
 2. Przewodniczącym rady naukowej może być osoba posiadająca co najmniej stopień naukowy doktora.
 
@@ -633,7 +633,7 @@ source: pdf
 
 **Art. 36.**
 
-1. Minister nadzorujący, nie rzadziej niż raz na 3 lata, przeprowadza kontrolę instytutu.
+1. Minister nadzorujący, nierzadziej niż raz na 3 lata, przeprowadza kontrolę instytutu.
 
 2. Kontrola instytutu jest przeprowadzana w celu dokonania oceny:
 
@@ -656,7 +656,7 @@ source: pdf
 - **1)** jeżeli jest to niezbędne ze względu na potrzeby obronności i bezpieczeństwa publicznego;
 - **2)** w przypadku ogłoszenia stanu klęski żywiołowej lub stanu epidemii;
 - **3)** w celu wykonania zobowiązań międzynarodowych;
-- **4)** w przypadku gdy ministrowi nadzorującemu została powierzona realizacja zadania na podstawie art. 10c ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188 oraz z 2023 r. poz. 1195, 1234 i 1641).
+- **4)** w przypadku gdy ministrowi nadzorującemu została powierzona realizacja zadania na podstawie art. 10c ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160).
 
 1a. (uchylony) 1b. Rada Ministrów albo minister nadzorujący może nałożyć na instytut obowiązek wprowadzenia do jego planu działalności zadania z zakresu administracji rządowej wynikającego w szczególności z dokumentów rządowych przyjętych przez Radę Ministrów albo przez ministra nadzorującego albo wyznaczyć takie zadanie poza tym planem, zgodnie z zakresem działania określonym w statucie instytutu.
 
@@ -764,7 +764,7 @@ source: pdf
 
 3. Pracownicy naukowi podlegają okresowym ocenom dorobku naukowego i technicznego, dokonywanym przez radę naukową. Rada naukowa, dokonując oceny, uwzględnia w szczególności liczbę i jakość patentów, wdrożeń, publikacji naukowych oraz prowadzonych i planowanych badań naukowych lub prac rozwojowych.
 
-4. Pracownicy naukowi podlegają ocenom okresowym nie rzadziej niż raz na 4 lata. Tryb oceny okresowej określa regulamin ustanowiony przez dyrektora.
+4. Pracownicy naukowi podlegają ocenom okresowym nierzadziej niż raz na 4 lata. Tryb oceny okresowej określa regulamin ustanowiony przez dyrektora.
 
 5. Do obowiązków pracownika naukowego należy realizacja zadań statutowych instytutu, w szczególności poprzez:
 
@@ -777,7 +777,7 @@ source: pdf
 
 6. Do pracowników zatrudnionych na stanowisku asystenta nie stosuje się przepisu ust. 5 pkt 5.
 
-7. Wykonywanie obowiązków pracownika naukowego stanowi działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509).
+7. Wykonywanie obowiązków pracownika naukowego stanowi działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2025 r. poz. 24).
 
 **Art. 45.**
 
@@ -830,7 +830,7 @@ source: pdf
 
 4. Przepisów ust. 1 i 2 nie stosuje się do pracowników naukowych podejmujących zatrudnienie w ramach stosunku pracy:
 
-- **1)** w urzędach, o których mowa w art. 1 ust. 1 i ust. 2 pkt 1, 2 i 4a ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917);
+- **1)** w urzędach, o których mowa w art. 1 ust. 1 i ust. 2 pkt 1, 2 i 4a ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2025 r. poz. 1459 oraz z 2026 r. poz. 26 i 160);
 - **2)** w organach towarzystw naukowych i zawodowych;
 - **3)** w organach wymiaru sprawiedliwości;
 - **4)** w instytucjach kultury;
@@ -867,7 +867,7 @@ source: pdf
 
 3. Nabór pracowników badawczo-technicznych na stanowiska przewidziane dla żołnierzy zawodowych oraz funkcjonariuszy służb podległych ministrowi właściwemu do spraw wewnętrznych odbywa się na zasadach określonych w przepisach właściwych dla tych służb.
 
-**Art. 50.** Pracownicy badawczo-techniczni podlegają ocenom okresowym nie rzadziej niż raz na 4 lata. Do oceny stosuje się odpowiednio przepis art. 44 ust. 3.
+**Art. 50.** Pracownicy badawczo-techniczni podlegają ocenom okresowym nierzadziej niż raz na 4 lata. Do oceny stosuje się odpowiednio przepis art. 44 ust. 3.
 
 **Art. 51.** Pracownicy naukowi i badawczo-techniczni ponoszą odpowiedzialność dyscyplinarną za rażące naruszenie obowiązków lub uchybienie godności pracownika nauki.
 
@@ -898,7 +898,7 @@ source: pdf
 
 2. W składzie orzekającym komisji, o której mowa w ust. 1 pkt 2, co najmniej jeden z członków powinien posiadać tytuł zawodowy magistra prawa.
 
-3. Przewodniczącym składu orzekającego powinien być pracownik naukowy zatrudniony na stanowisku nie niższym niż obwiniony.
+3. Przewodniczącym składu orzekającego powinien być pracownik naukowy zatrudniony na stanowisku nieniższym niż obwiniony.
 
 **Art. 55.**
 
@@ -1021,7 +1021,7 @@ source: pdf
 
 4. Dyrektora, jego zastępców, głównego księgowego oraz pracownika naukowego w okresie trwania stosunku pracy obowiązuje zakaz prowadzenia działalności konkurencyjnej wobec jednostki organizacyjnej, jeżeli zakaz ten został określony w odrębnej umowie.
 
-5. Do zakazu, o którym mowa w ust. 4, stosuje się przepisy art. 101 1 , art. 101 i art. 101 Kodeksu pracy.
+5. Do zakazu, o którym mowa w ust. 4, stosuje się przepisy art. 101 , art. 101 i art. 101 Kodeksu pracy.
 
 #### Rozdział 10 Przepis końcowy
 

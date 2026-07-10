@@ -6,7 +6,7 @@ publisher: DU
 year: 2026
 pos: 441
 act_type: Ustawa
-status: obowiązujący
+status: akt objęty tekstem jednolitym
 domain: null
 source: pdf
 ---
@@ -20,11 +20,11 @@ source: pdf
 | Adres publikacyjny | Dz.U. 2026 poz. 441 |
 | ISAP | WDU20260000441 |
 | Typ aktu | Ustawa |
-| Status | obowiązujący |
+| Status | akt objęty tekstem jednolitym |
 | W mocy | tak |
 | Data ogłoszenia | 2026-02-13 |
 | Data wydania | 2026-03-31 |
-| Ostatnia zmiana | 2026-04-07 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000441) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/441/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26) wprowadza się następujące zmiany:

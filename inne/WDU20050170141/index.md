@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2005-01-06 |
 | Data wydania | 2005-01-31 |
-| Ostatnia zmiana | 2026-01-30 |
+| Ostatnia zmiana | 2026-06-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050170141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/141/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -46,6 +46,7 @@ source: pdf
 
 - **1)** białoruską;
 - **2)** czeską;
+- **2a)** grecką;
 - **3)** litewską;
 - **4)** niemiecką;
 - **5)** ormiańską;
@@ -356,7 +357,7 @@ source: pdf
 - **1a)** przedstawiciel Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
 - **2)** przedstawiciele mniejszości w liczbie:
     - **a)** dwóch przedstawicieli mniejszości białoruskiej,
-    - **b)** jeden przedstawiciel mniejszości czeskiej,
+    - **b)** jeden przedstawiciel mniejszości czeskiej, <ba) jeden przedstawiciel mniejszości greckiej,>
     - **c)** dwóch przedstawicieli mniejszości litewskiej,
     - **d)** dwóch przedstawicieli mniejszości niemieckiej,
     - **e)** jeden przedstawiciel mniejszości ormiańskiej,

@@ -703,8 +703,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 3) zabezpiecza siebie, poszkodowanego i miejsce wypadku
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
-6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np.
-krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
+6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
 7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji ELM.07.2. Podstawy robotyki Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) opisuje historię i pojęcia związane z rozwojem 1) wyjaśnia terminy związane z rozwojem robotyki robotyki i generacjami robotów
@@ -1455,8 +1454,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 3) zabezpiecza siebie, poszkodowanego i miejsce wypadku
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
-6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego np.
-krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
+6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
 7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji FRK.05.2. Podstawy podologii Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) wyjaśnia ogólną budowę i funkcje organizmu 1) wyjaśnia pojęcia z zakresu anatomii i fizjologii człowieka człowieka
@@ -2255,8 +2253,7 @@ EFEKTY KSZTAŁCENIA I KRYTERIA WERYFIKACJI TYCH EFEKTÓW Do wykonywania zadań z
 3) zabezpiecza siebie, poszkodowanego i miejsce wypadku
 4) układa poszkodowanego w pozycji bezpiecznej
 5) powiadamia odpowiednie służby
-6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np.
-krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
+6) prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie
 7) prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar
 8) wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji MOD.03.2. Podstawy odzieżownictwa Efekty kształcenia Kryteria weryfikacji Uczeń: Uczeń:
 1) charakteryzuje grupy wyrobów odzieżowych 1) opisuje wyroby odzieżowe w zależności od przeznaczenia, takie jak: bieliźniane, sportowe, wieczorowe, koktajlowe i niemowlęce
@@ -2420,8 +2417,7 @@ a) tworzy krótkie, proste, spójne i logiczne klientowi, wyjaśnia zasady) wypo
 b) tworzy krótkie, proste, spójne i logiczne 5) stosuje formalny lub nieformalny styl wypowiedzi wypowiedzi pisemne dotyczące czynności adekwatnie do sytuacji zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)
 4) uczestniczy w rozmowie w typowych sytuacjach 1) rozpoczyna, prowadzi i kończy rozmowę związanych z realizacją zadań zawodowych – 2) uzyskuje i przekazuje informacje i wyjaśnienia reaguje w języku obcym nowożytnym w sposób 3) wyraża swoje opinie i uzasadnia je, pyta o opinie, zrozumiały, adekwatnie do sytuacji komunikacyjnej, zgadza się lub nie zgadza z opiniami innych osób ustnie lub w formie prostego tekstu: 4) prowadzi proste negocjacje związane z czynnościami
 a) reaguje ustnie (np. podczas rozmowy z innym zawodowymi pracownikiem, klientem, kontrahentem, w tym 5) pyta o upodobania i intencje innych osób rozmowy telefonicznej) w typowych sytuacjach 6) proponuje, zachęca klienta związanych z wykonywaniem czynności 7) stosuje zwroty i formy grzecznościowe zawodowych 8) dostosowuje styl wypowiedzi do sytuacji
-b) reaguje w formie prostego tekstu pisanego (np.
-wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
+b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych
 5) zmienia formę przekazu ustnego lub pisemnego 1) przekazuje w języku obcym nowożytnym informacje w języku obcym nowożytnym w typowych zawarte w materiałach wizualnych (np. wykresach, sytuacjach związanych z wykonywaniem symbolach, piktogramach, czynności zawodowych schematach) oraz audiowizualnych (np. filmach instruktażowych)
 2) przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym
 3) przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub tym języku obcym nowożytnym

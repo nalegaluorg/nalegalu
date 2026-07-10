@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2004-08-27 |
 | Data wydania | 2004-09-27 |
-| Ostatnia zmiana | 2026-06-11 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042102135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2135/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -96,8 +96,7 @@ source: pdf
     - **b)** małżonka,
     - **c)** wstępnych pozostających z ubezpieczonym we wspólnym gospodarstwie domowym;
 
-- **3a)** działacz opozycji antykomunistycznej – osobę, o której mowa w art. 2 ust. 1 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2024 r. poz.
-- **906)** , o potwierdzonym statusie działacza opozycji antykomunistycznej;
+- **3a)** działacz opozycji antykomunistycznej – osobę, o której mowa w art. 2 ust. 1 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2024 r. poz. 906), o potwierdzonym statusie działacza opozycji antykomunistycznej;
 - **4)** felczer ubezpieczenia zdrowotnego – felczera lub starszego felczera udzielającego świadczeń opieki zdrowotnej u świadczeniodawcy, z którym zawarto umowę o udzielanie świadczeń opieki zdrowotnej;
 - **4a)** Fundusz Medyczny – Fundusz Medyczny, o którym mowa w ustawie z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889);
 - **5)** inwalida wojenny lub wojskowy – osobę, o której mowa w art. 6–8 lub w art. 30 ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2025 r. poz. 195);
@@ -5307,8 +5306,7 @@ source: pdf
 - **10)** wyliczanie kwot, o których mowa w art. 4 i art. 34 ustawy o refundacji oraz w art. 102 ust. 5 pkt 29;
 - **11)** monitorowanie i koordynowanie realizacji uprawnień wynikających z art. 24a– 24c, art. 44 ust. 1a–1c, art. 46 ust. 7–9, art. 47 ust. 2 i 2a, art. 47c oraz art. 57 ust. 2 pkt 10, 12 i 13;
 - **12)** wykonywanie zadań Krajowego Punktu Kontaktowego do spraw Transgranicznej Opieki Zdrowotnej, zwanego dalej „KPK”;
-- **13)** realizacja programów rządowych, o których mowa w art. 7 ust. 1 ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz.
-- **1848)** , w zakresie wsparcia zdrowotnego osób niepełnosprawnych;
+- **13)** realizacja programów rządowych, o których mowa w art. 7 ust. 1 ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2024 r. poz. 1848), w zakresie wsparcia zdrowotnego osób niepełnosprawnych;
 - **14)** finansowanie zadań, o których mowa w art. 15 ust. 1 pkt 5 i 6 oraz ust. 2 pkt 1 i 2 ustawy z dnia 21 lutego 2019 r. o Agencji Badań Medycznych (Dz. U. z 2025 r. poz. 259), przez przekazywanie środków finansowych Agencji Badań Medycznych w postaci odpisu, o którym mowa w ust. 3e;
 - **15)** finansowanie wydawania zaświadczeń, o których mowa w art. 133 § 2b ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, oraz czynności związanych z ich wydawaniem;
 - **16)** wspieranie zadań finansowanych w ramach Funduszu Rozwoju Kultury Fizycznej, o którym mowa w art. 86 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2025 r. poz. 595);
@@ -7236,9 +7234,7 @@ source: pdf
 5e. Informacje i dane zgromadzone w Funduszu, w zakresie wskazanym w ust. 5f, udostępnia się nieodpłatnie, drogą elektroniczną, następującym podmiotom:
 
 - **1)** za pośrednictwem ministra właściwego do spraw rodziny:
-    - **a)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2025 r. poz.
-
-- **1208)** , i wojewodzie w celu weryfikacji prawa do świadczeń rodzinnych osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin,
+    - **a)** organowi właściwemu, o którym mowa w art. 3 pkt 11 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2025 r. poz. 1208), i wojewodzie w celu weryfikacji prawa do świadczeń rodzinnych osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin,
     - **b)** organowi właściwemu wierzyciela, o którym mowa w art. 2 pkt 10 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2025 r. poz. 438 i 620), w celu weryfikacji prawa do świadczeń z funduszu alimentacyjnego osób ubiegających się o te świadczenia lub osób je pobierających oraz członków ich rodzin;
     - **c)** (uchylona)
     - **d)** (uchylona)
@@ -7247,8 +7243,7 @@ source: pdf
     - **a)** umożliwienia organom właściwym i wojewodom weryfikacji prawa do świadczeń, o których mowa w pkt 1,
     - **b)** w celu monitorowania przez ministra właściwego do spraw rodziny realizacji świadczeń, o których mowa w pkt 1;
 
-- **3)** Zakładowi Ubezpieczeń Społecznych w celu weryfikacji prawa do świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576 oraz z 2025 r. poz.
-- **619)** , świadczenia dobry start, świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym, oraz świadczeń „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619 i 1083).
+- **3)** Zakładowi Ubezpieczeń Społecznych w celu weryfikacji prawa do świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576 oraz z 2025 r. poz. 619), świadczenia dobry start, świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym, oraz świadczeń „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619 i 1083).
 
 5f. Zakres udostępnianych danych i informacji obejmuje: imię i nazwisko, numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość, a także informację o prawie do świadczeń opieki zdrowotnej według stanu na dzień udostępniania. W przypadku osoby, która nie ukończyła 18. roku życia i nie została zgłoszona do ubezpieczenia zdrowotnego, informacja o prawie do świadczeń obejmuje także informację, że dana osoba nie jest objęta ubezpieczeniem zdrowotnym.
 
@@ -7620,7 +7615,6 @@ source: pdf
 **Art. 252.** Ustawa wchodzi w życie z dniem 1 października 2004 r., z wyjątkiem:
 
 - **1)** art. 201, który wchodzi w życie z dniem 1 stycznia 2005 r.;
-- **2)** art. 239 ust. 1 i 2, które wchodzą w życie z dniem ogłoszenia ustawy. Załącznik do ustawy z dnia 27 sierpnia 2004 r. (Dz. U. z 2025 r. poz.
-- **1461)** (uchylony)
+- **2)** art. 239 ust. 1 i 2, które wchodzą w życie z dniem ogłoszenia ustawy. Załącznik do ustawy z dnia 27 sierpnia 2004 r. (Dz. U. z 2025 r. poz. 1461) (uchylony)
 
 

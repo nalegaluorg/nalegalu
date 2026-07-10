@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-02-20 |
 | Data wydania | 2024-02-28 |
-| Ostatnia zmiana | 2025-09-11 |
+| Ostatnia zmiana | 2026-06-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000268) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/268/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie programu pilotażowego leczenia gruźlicy wielolekoopornej w warunkach ambulatoryjnych

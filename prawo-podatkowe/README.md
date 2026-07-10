@@ -2,16 +2,20 @@
 
 Akty prawne z dziedziny: **Prawo podatkowe**.
 
-Łącznie: **188** aktów
+Łącznie: **193** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
+| [WDU20260000846](WDU20260000846/index.md) | Ustawa z dnia 29 maja 2026 r. o zmianie ustawy - Ordynacja podatkowa oraz n | Ustawa | obowiązujący |  |
+| [WDU20260000825](WDU20260000825/index.md) | Ustawa z dnia 29 maja 2026 r. o zmianie ustawy - Ordynacja podatkowa | Ustawa | obowiązujący |  |
+| [WDU20260000779](WDU20260000779/index.md) | Ustawa z dnia 15 maja 2026 r. o zmianie ustawy o podatku dochodowym od osób | Ustawa | obowiązujący |  |
 | [WDU20260000622](WDU20260000622/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 22 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000592](WDU20260000592/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000554](WDU20260000554/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000424](WDU20260000424/index.md) | Ustawa z dnia 13 lutego 2026 r. o zmianie ustawy o podatku dochodowym od os | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250001858](WDU20250001858/index.md) | Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o podatku dochodowym od | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250001838](WDU20250001838/index.md) | Ustawa z dnia 21 listopada 2025 r. o zmianie ustawy o podatku dochodowym od | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20250001828](WDU20250001828/index.md) | Rozporządzenie Ministra Finansów i Gospodarki z dnia 15 grudnia 2025 r. zmi | Rozporządzenie | obowiązujący |  |
 | [WDU20250001817](WDU20250001817/index.md) | Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
 | [WDU20250001811](WDU20250001811/index.md) | Ustawa z dnia 7 listopada 2025 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
 | [WDU20250001658](WDU20250001658/index.md) | Ustawa z dnia 6 listopada 2025 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
@@ -20,6 +24,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20250001426](WDU20250001426/index.md) | Ustawa z dnia 12 września 2025 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250001417](WDU20250001417/index.md) | Ustawa z dnia 12 września 2025 r. o zmianie ustawy - Ordynacja podatkowa | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250001414](WDU20250001414/index.md) | Ustawa z dnia 12 września 2025 r. o zmianie ustawy - Ordynacja podatkowa | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20250001311](WDU20250001311/index.md) | Rozporządzenie Ministra Finansów i Gospodarki z dnia 6 września 2025 r. w s | Rozporządzenie | obowiązujący |  |
 | [WDU20250001203](WDU20250001203/index.md) | Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy o podatku od towarów i us | Ustawa | obowiązujący |  |
 | [WDU20250001180](WDU20250001180/index.md) | Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy o weteranach działań poza | Ustawa | obowiązujący |  |
 | [WDU20250001074](WDU20250001074/index.md) | Ustawa z dnia 25 czerwca 2025 r. o zmianie ustawy o podatku dochodowym od o | Ustawa | akt objęty tekstem jednolitym |  |
@@ -178,7 +183,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20010160166](WDU20010160166/index.md) | Ustawa z dnia 3 lutego 2001 r. o zmianie ustawy o nabywaniu nieruchomości p | Ustawa | obowiązujący |  |
 | [WDU20001221324](WDU20001221324/index.md) | Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy o powszechnym ubezpieczen | Ustawa | obowiązujący |  |
 | [WDU20001221315](WDU20001221315/index.md) | Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o postępowaniu egzekucyjny | Ustawa | obowiązujący | [tak](WDU20001221315/orzecznictwo.md) |
-| [WDU20001041104](WDU20001041104/index.md) | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
+| [WDU20001041104](WDU20001041104/index.md) | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący | [tak](WDU20001041104/orzecznictwo.md) |
 | [WDU20000600700](WDU20000600700/index.md) | Ustawa z dnia 9 czerwca 2000 r. o zmianie ustawy o podatku dochodowym od os | Ustawa | obowiązujący |  |
 | [WDU19990951101](WDU19990951101/index.md) | Ustawa z dnia 20 listopada 1999 r. o zmianie ustawy o podatku dochodowym od | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19990951101/orzecznictwo.md) |
 | [WDU19981440931](WDU19981440931/index.md) | Ustawa z dnia 20 listopada 1998 r. o zmianie ustawy o podatku dochodowym od | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19981440931/orzecznictwo.md) |
@@ -195,4 +200,4 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU19920210086](WDU19920210086/index.md) | Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych | Ustawa | akt posiada tekst jednolity | [tak](WDU19920210086/orzecznictwo.md) |
 | [WDU19910800350](WDU19910800350/index.md) | Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910800350/orzecznictwo.md) |
 
-*188 aktów • [← Powrót do spisu głównego](../README.md)*
+*193 aktów • [← Powrót do spisu głównego](../README.md)*

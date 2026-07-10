@@ -46,7 +46,8 @@ w sprawie szkolenia dla osób ubiegających się o wydanie licencji detektywa Na
 3) pkt 4 ‒ wynosi 20 godzin.
 2. Szkolenia przeprowadza się w formie stacjonarnej, także z wykorzystywaniem metod i technik kształcenia na odległość.
 3. Organizator szkolenia prowadzonego z wykorzystaniem metod i technik kształcenia na odległość zapewnia interaktywny kontakt z uczestnikami szkolenia z wykorzystaniem środków komunikacji elektronicznej.
-4. Szkolenie kończy się zaliczeniem sprawdzającym przyswojenie przez uczestnika szkolenia zagadnień, o których mowa § 2.
+4. Szkolenie kończy się zaliczeniem sprawdzającym przyswojenie przez uczestnika szkolenia zagadnień, o których
+§ 2.
 5. Zaliczenie kształcenia prowadzonego z wykorzystywaniem metod i technik kształcenia na odległość nie może odbywać się z wykorzystaniem tych metod i technik.
 § 5. Jednostkami właściwymi do prowadzenia szkolenia są:
 1) podmioty, o których mowa w art. 2 pkt 4 ustawy z dnia 14 grudnia 2016 r. ‒ Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm. );

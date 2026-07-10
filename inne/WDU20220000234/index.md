@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2022-01-10 |
 | Data wydania | 2022-02-01 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000234) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/234/text.pdf) |
 
 w sprawie procesów rynku energii Na podstawie art. 11zh ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn.

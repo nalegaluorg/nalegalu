@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-12-06 |
 | Data wydania | 2025-01-10 |
-| Ostatnia zmiana | 2026-05-27 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000034) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/34/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -467,9 +467,9 @@ source: pdf
 
 **Art. 37.**
 
-1. W przypadkach, o których mowa w art. 11 pkt 1–6 i 9–15 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2024 r. poz. 383 i 1248 oraz z 2025 r. poz. 179), funkcjonariusz może użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, pkt 2 lit. a, pkt 5, 7, 9, 11, pkt 12 lit. a, c i d, pkt 13 i 17–21 tej ustawy, lub wykorzystać te środki.
+1. W przypadkach, o których mowa w art. 11 pkt 1–6 i 9–16 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2026 r. poz. 244, 737 i 815), funkcjonariusz może użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, pkt 2 lit. a, pkt 5, 7, 9, 11, pkt 12 lit. a, c oraz d, pkt 13 i 17–23 tej ustawy, lub wykorzystać te środki.
 
-2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i e, pkt 2 i pkt 3 lit. a z wyłączeniem pościgu za osobą, o której mowa w art. 45 pkt 1 lit. d, oraz w art. 47 pkt 1, pkt 2 lit. a i pkt 3–7 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusz może użyć broni palnej lub ją wykorzystać.
+2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c oraz e, pkt 2 i pkt 3 lit. a, z wyłączeniem pościgu za osobą, o której mowa w art. 45 pkt 1 lit. d, oraz w art. 47 pkt 1, pkt 2 lit. a i pkt 3–8 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusz może użyć broni palnej lub ją wykorzystać.
 
 3. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
@@ -488,7 +488,13 @@ source: pdf
 
 **Art. 39.**
 
-1. Komendant SOP, w celu realizacji zadań określonych w art. 3 pkt 1, może zarządzić zastosowanie urządzeń uniemożliwiających telekomunikację na określonym obszarze przez czas niezbędny do wykonywania czynności przez SOP, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
+1. Komendant SOP:
+
+- **1)** w celu realizacji zadań, o których mowa w art. 3 pkt 1, lub
+- **2)** w przypadkach, o których mowa w: z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176 i 607), lub
+    - **a)** art. 156ze ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U.
+    - **b)** art. 28a ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2024 r. poz. 597 oraz z 2026 r. poz. 815), lub
+    - **c)** art. 11 pkt 17 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej – może podjąć decyzję o dopuszczalności zastosowania przez SOP urządzeń uniemożliwiających telekomunikację na określonym obszarze przez czas niezbędny do wykonywania czynności przez SOP, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
 
 2. O zastosowaniu urządzeń, o których mowa w ust. 1, Komendant SOP niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.
 
@@ -1021,7 +1027,7 @@ source: pdf
 
 2a. Przedłużenie czasu służby funkcjonariusza ponad normę określoną w ust. 2 nie może spowodować przekroczenia przeciętnego 48-godzinnego tygodniowego wymiaru czasu służby w przyjętym okresie rozliczeniowym.
 
-3. Przepisu ust. 2 nie stosuje się do funkcjonariuszy skierowanych na szkolenie w systemie skoszarowanym, przebywających w podróży służbowej albo pełniących dyżury domowe.
+3. Przepisu ust. 2 nie stosuje się do funkcjonariuszy skierowanych na przeszkolenie, do szkoły, na studia wyższe lub podyplomowe w kraju albo za granicą lub na aplikację w zawodach prawniczych, które są realizowane poza SOP, skierowanych na szkolenie w systemie skoszarowanym, przebywających w podróży służbowej albo pełniących dyżury domowe.
 
 4. W zamian za czas służby przekraczający normę określoną w ust. 2 funkcjonariuszowi przysługuje:
 
@@ -1453,6 +1459,8 @@ source: pdf
 
 2. Na pierwszy stopień chorążego SOP może być mianowany funkcjonariusz, który ukończył co najmniej studia wyższe pierwszego stopnia i uzyskał tytuł zawodowy licencjata lub równorzędny.
 
+2a. Na pierwszy stopień chorążego SOP może być mianowany funkcjonariusz, który ukończył studia przygotowujące do wykonywania zawodów medycznych na podstawie skierowania przez Komendanta SOP i uzyskał uprawnienia do wykonywania zawodu pielęgniarki, ratownika medycznego lub fizjoterapeuty. Przepisów ust. 1 pkt 2, ust. 3 oraz 5–9 nie stosuje się.
+
 3. Egzaminy na pierwszy stopień podoficerski i chorążego SOP przeprowadza komisja egzaminacyjna powołana przez Komendanta SOP.
 
 4. Do egzaminu na pierwszy stopień podoficerski może być dopuszczony funkcjonariusz w służbie przygotowawczej i stałej, który posiada:
@@ -1490,7 +1498,9 @@ source: pdf
 1. Na pierwszy stopień oficerski SOP może być mianowany funkcjonariusz, który:
 
 - **1)** ukończył co najmniej studia wyższe drugiego stopnia lub jednolite studia magisterskie i uzyskał tytuł zawodowy magistra lub równorzędny;
-- **2)** odbył przeszkolenie specjalistyczne zakończone zdaniem egzaminu oficerskiego przed komisją powołaną przez Komendanta SOP.
+- **2)** odbył przeszkolenie specjalistyczne zakończone zdaniem egzaminu oficerskiego przed komisją powołaną przez Komendanta SOP albo odbył przeszkolenie specjalistyczne zakończone zdaniem egzaminu oficerskiego w Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu.
+
+1a. Na pierwszy stopień oficerski SOP może być mianowany funkcjonariusz, który na podstawie skierowania przez Komendanta SOP ukończył studia na kierunku lekarskim i uzyskał dyplom ich ukończenia. Przepisu ust. 1 pkt 2 nie stosuje się.
 
 2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
@@ -2181,6 +2191,34 @@ source: pdf
 - **7)** w celu przygotowania się i złożenia egzaminu kończącego specjalizację medyczną – 30 dni.
 
 **Art. 157.** Urlop szkoleniowy może być udzielony funkcjonariuszowi jednorazowo albo w częściach w okresie danego roku szkolnego lub akademickiego.
+
+**Art. 157a.**
+
+1. Funkcjonariusza można skierować do szkoły, na przeszkolenie lub na studia wyższe albo podyplomowe w kraju albo za granicą lub na aplikację w zawodach prawniczych, które są realizowane poza SOP.
+
+2. W przypadku skierowania na koszt SOP, o którym mowa w ust. 1, z funkcjonariuszem zawiera się umowę, jeżeli koszt nauki i utrzymania w dniu skierowania przekracza kwotę trzykrotnej wysokości minimalnego wynagrodzenia za pracę ustalanego w danym roku na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
+
+3. Funkcjonariusz jest obowiązany do zwrotu kosztów nauki i utrzymania, które zostały pokryte z budżetu SOP, w przypadku zwolnienia go ze służby przed upływem:
+
+- **1)** 3 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę trzykrotnej wysokości minimalnego wynagrodzenia za pracę, albo
+- **2)** 5 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę pięciokrotnej wysokości minimalnego wynagrodzenia za pracę, albo
+- **3)** 10 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę dziesięciokrotnej wysokości minimalnego wynagrodzenia za pracę – chyba że zwolnienie ze służby nastąpiło z przyczyn określonych w art. 107 ust. 1 pkt 1 oraz ust. 2 pkt 5 i 7.
+
+4. Umowa, o której mowa w ust. 2, określa wzajemne prawa i obowiązki stron związane ze skierowaniem, w szczególności warunki zwrotu kosztów poniesionych na naukę i utrzymanie funkcjonariusza, w przypadku:
+
+- **1)** nieukończenia szkoły, przeszkolenia, studiów wyższych albo podyplomowych w kraju albo za granicą lub aplikacji w zawodach prawniczych w wyniku uzyskania negatywnej oceny końcowej albo przerwania nauki z winy funkcjonariusza;
+- **2)** zwolnienia ze służby przed upływem okresu, o którym mowa w ust. 3, z przyczyn określonych w art. 107 ust. 1 pkt 2–8, ust. 2 pkt 1, 2, 4, 6, 8–11 oraz ust. 3.
+
+5. Zwrot kosztów poniesionych na naukę i utrzymanie funkcjonariusza następuje w wysokości:
+
+- **1)** kosztów poniesionych przez SOP – w przypadkach, o których mowa w ust. 4 pkt 1 oraz art. 107 ust. 1 pkt 2–8 i ust. 2 pkt 2 i 6;
+- **2)** proporcjonalnej do pozostałego wynikającego z umowy okresu służby pełnionej po zakończeniu nauki – w pozostałych przypadkach.
+
+6. Koszty, o których mowa w ust. 3 i 5, nie obejmują uposażenia funkcjonariusza.
+
+7. Komendant SOP może zwolnić funkcjonariusza z obowiązku zwrotu kosztów, o których mowa w ust. 3 i 5, w całości albo w części na pisemny wniosek funkcjonariusza uzasadniony jego szczególną sytuacją życiową, rodzinną lub materialną.
+
+8. Przepisy art. 154–157 stosuje się odpowiednio.
 
 **Art. 158.**
 

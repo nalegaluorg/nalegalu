@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-07 |
 | Data wydania | 2017-08-11 |
-| Ostatnia zmiana | 2026-05-25 |
+| Ostatnia zmiana | 2026-06-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001530) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1530/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -52,8 +52,8 @@ source: pdf
 - **1)** prowadzeniem spraw osób podejmujących i odbywających studia, kształcenie w szkołach doktorskich, studia podyplomowe, kształcenie specjalistyczne i inne formy kształcenia oraz uczestniczących w prowadzeniu działalności naukowej lub w prowadzeniu kształcenia na podstawie umów międzynarodowych lub innych porozumień;
 - **2)** prowadzeniem spraw osób podejmujących i odbywających studia, kształcenie w szkołach doktorskich, studia podyplomowe, kształcenie specjalistyczne i inne formy kształcenia oraz uczestniczących w prowadzeniu działalności naukowej lub w prowadzeniu kształcenia na podstawie decyzji ministra właściwego do spraw szkolnictwa wyższego i nauki, o której mowa w art. 323 ust. 1 pkt 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
 - **3)** prowadzeniem spraw z zakresu uznawalności wyższego wykształcenia oraz stopni naukowych i stopni w zakresie sztuki;
-- **3a)** prowadzeniem spraw z zakresu potwierdzania uprawnień do ubiegania się o przyjęcie na studia pierwszego stopnia, studia drugiego stopnia oraz jednolite studia magisterskie w Rzeczypospolitej Polskiej;
-- **4)** zapewnianiem obsługi administracyjnej i finansowej Państwowej Komisji do spraw Poświadczania Znajomości Języka Polskiego jako Obcego, działającej na podstawie ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2024 r. poz. 1556 oraz z 2025 r. poz. 622);
+- **3a)** prowadzeniem spraw z zakresu potwierdzania uprawnień do ubiegania się o przyjęcie na studia pierwszego stopnia, studia drugiego stopnia oraz jednolite studia magisterskie w Rzeczypospolitej Polskiej; [4) zapewnianiem obsługi administracyjnej i finansowej Państwowej Komisji do spraw Poświadczania Znajomości Języka Polskiego jako Obcego, działającej na podstawie ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2024 r. poz. 1556 oraz z 2025 r. poz. 622);]
+- **4)** zapewnianiem obsługi Państwowej Komisji do spraw Poświadczania Znajomości Języka Polskiego jako Obcego, działającej na podstawie ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2026 r. poz. 81 i 676);
 - **5)** uwierzytelnianiem dokumentów, o których mowa w art. 78 ust. 3 i art. 180 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, oraz uwierzytelnianiem dokumentów w przypadkach, o których mowa w art. 78 ust. 4 tej ustawy.
 
 4. Agencja może uczestniczyć w realizacji programów finansowanych z udziałem środków pochodzących z budżetu Unii Europejskiej.

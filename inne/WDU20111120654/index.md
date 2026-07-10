@@ -168,9 +168,7 @@ source: pdf
 
 9. W spółce kapitałowej, o której mowa w ust. 1 pkt 1 lub ust. 2 pkt 1, lub do której przystąpiły podmioty, o których mowa w ust. 8, wartość nominalna udziałów albo akcji należących do Skarbu Państwa lub jednostki samorządu terytorialnego nie może stanowić mniej niż 51 % kapitału zakładowego spółki, a w przypadku prostej spółki akcyjnej liczba akcji należących do Skarbu Państwa lub jednostki samorządu terytorialnego nie może stanowić mniej niż 51 % ogólnej liczby akcji tej spółki, oraz Skarb Państwa lub jednostka samorządu terytorialnego dysponuje bezpośrednio większością głosów na zgromadzeniu wspólników albo walnym zgromadzeniu.
 
-10. Przepisu ust. 9 nie stosuje się, jeżeli nabywcą lub obejmującym akcje spółki prowadzącej działalność w zakresie, o którym mowa w art. 2 pkt 1 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz.
-
-- **1135)** , jest spółka kapitałowa, wobec której Skarb Państwa sprawuje kontrolę w rozumieniu art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz. 1714).
+10. Przepisu ust. 9 nie stosuje się, jeżeli nabywcą lub obejmującym akcje spółki prowadzącej działalność w zakresie, o którym mowa w art. 2 pkt 1 ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz. 1135), jest spółka kapitałowa, wobec której Skarb Państwa sprawuje kontrolę w rozumieniu art. 4 pkt 4 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz. 1714).
 
 11. W spółce kapitałowej, w której Skarb Państwa, jednostka samorządu terytorialnego lub uczelnia medyczna posiada udziały albo akcje o wartości nominalnej niemniejszej niż 51 % kapitału zakładowego spółki, a w przypadku prostej spółki akcyjnej – niemniej niż 51 % ogólnej liczby akcji tej spółki, nie wypłaca się dywidendy.
 

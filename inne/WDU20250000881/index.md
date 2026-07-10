@@ -421,8 +421,7 @@ Art. 44zzzzl. 1. Dyrektor Instytutu Badań Edukacyjnych w Warszawie może, na wn
 
 - **1)** posiada kwalifikacje wymagane do zajmowania stanowiska nauczyciela w szkole, z zakresu której jest przeprowadzany egzamin ósmoklasisty, egzamin maturalny, egzamin zawodowy, albo jest nauczycielem akademickim specjalizującym się w dziedzinie, z którą są związane zajęcia edukacyjne wchodzące w zakres egzaminu;
 - **2)** posiada, uzyskany w okresie 6 lat przed złożeniem wniosku o wpis do ewidencji, co najmniej trzyletni staż pracy dydaktycznej w szkole publicznej, szkole niepublicznej, niepublicznej szkole artystycznej o uprawnieniach publicznej szkoły artystycznej, zakładzie kształcenia nauczycieli lub szkole wyższej albo co najmniej trzyletni staż pracy na stanowisku wymagającym kwalifikacji pedagogicznych w placówce doskonalenia nauczycieli, urzędzie organu administracji rządowej, kuratorium oświaty lub innej jednostce sprawującej nadzór pedagogiczny;
-- **3)** spełnia warunki określone w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i 1871 oraz z 2025 r. poz.
-- **620)** ;
+- **3)** spełnia warunki określone w art. 10 ust. 5 pkt 2–4a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986 i 1871 oraz z 2025 r. poz. 620);
 - **4)** ukończyła z wynikiem pozytywnym szkolenie dla kandydatów na egzaminatorów organizowane przez okręgową komisję egzaminacyjną, zakończone egzaminem ze znajomości zasad przeprowadzania, w szczególności oceniania, egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego.
 
 4. Do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu zawodowego może również być wpisana osoba, która:

@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-06-07 |
 | Data wydania | 2024-07-01 |
-| Ostatnia zmiana | 2024-07-02 |
+| Ostatnia zmiana | 2026-06-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000965) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/965/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zamknięć urzędowych

@@ -89,9 +89,7 @@ source: pdf
 - **4)** sposób rozliczania odzyskanych przez banki kwot niespłaconych kredytów,
 - **5)** tryb, terminy i warunki przekazywania bankom środków budżetowych na realizację poręczeń, o których mowa w pkt 1.
 
-**Art. 7.** Do poręczeń udzielanych przez Skarb Państwa na podstawie ustawy nie mają zastosowania przepisy ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. Nr 79, poz. 484, Nr 80, poz. 511, z 2000 r. Nr 48, poz. 550, Nr 60, poz. 693 i Nr 86, poz. 958, z 2001 r. Nr 16, poz. 167 i Nr 81, poz. 876, z 2002 r. Nr 25, poz. 253, Nr 121, poz. 1032 i Nr 216, poz. 1824 oraz z 2003 r. Nr 83, poz. 758 i Nr 139, poz.
-
-- **1325)** , z wyjątkiem art. 29, art. 31, art. 44-44b, art. 46 i art. 47.
+**Art. 7.** Do poręczeń udzielanych przez Skarb Państwa na podstawie ustawy nie mają zastosowania przepisy ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. Nr 79, poz. 484, Nr 80, poz. 511, z 2000 r. Nr 48, poz. 550, Nr 60, poz. 693 i Nr 86, poz. 958, z 2001 r. Nr 16, poz. 167 i Nr 81, poz. 876, z 2002 r. Nr 25, poz. 253, Nr 121, poz. 1032 i Nr 216, poz. 1824 oraz z 2003 r. Nr 83, poz. 758 i Nr 139, poz. 1325), z wyjątkiem art. 29, art. 31, art. 44-44b, art. 46 i art. 47.
 
 **Art. 8.** W ustawie z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, refundacji bankom wypłaconych premii gwarancyjnych oraz zmianie niektórych ustaw (Dz. U. z 1996 r. Nr 5, poz. 32 i Nr 106, poz. 496, z 1997 r. Nr 80, poz. 508 i Nr 103, poz. 652 oraz z 2000 r. Nr 3, poz.
 

@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-12-23 |
 | Data wydania | 2023-12-28 |
-| Ostatnia zmiana | 2026-05-13 |
+| Ostatnia zmiana | 2026-06-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002787) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2787/text.pdf) |
 
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie studiów

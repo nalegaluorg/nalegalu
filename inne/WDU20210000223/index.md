@@ -90,9 +90,7 @@ source: pdf
 
 7. Warunek, o którym mowa w ust. 6 pkt 2, nie dotyczy roszczenia o opłatę przekształceniową, o której mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów (Dz. U. z 2023 r. poz. 904).
 
-8. Cena 1 m powierzchni użytkowej lokalu lub budynku przeznaczonego do przekazania przez inwestora na własność gminie albo powiatowi w ramach rozliczenia „lokal za grunt” nie może przekroczyć wartości średniego wskaźnika przeliczeniowego kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych w rozumieniu art. 2 pkt 14 ustawy z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania (Dz. U. z 2021 r. poz. 2158, z 2022 r. poz. 1561 oraz z 2023 r. poz.
-
-- **1114)** , zwanego dalej „średnim wskaźnikiem przeliczeniowym”.
+8. Cena 1 m powierzchni użytkowej lokalu lub budynku przeznaczonego do przekazania przez inwestora na własność gminie albo powiatowi w ramach rozliczenia „lokal za grunt” nie może przekroczyć wartości średniego wskaźnika przeliczeniowego kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych w rozumieniu art. 2 pkt 14 ustawy z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania (Dz. U. z 2021 r. poz. 2158, z 2022 r. poz. 1561 oraz z 2023 r. poz. 1114), zwanego dalej „średnim wskaźnikiem przeliczeniowym”.
 
 9. Cena 1 m powierzchni użytkowej lokalu lub budynku przeznaczonego do przekazania przez inwestora na własność gminie albo powiatowi w ramach rozliczenia „lokal za grunt”, ustalona w sposób, o którym mowa w ust. 8, może zostać podwyższona w uchwale o zbyciu nieruchomości o nie więcej niż:
 

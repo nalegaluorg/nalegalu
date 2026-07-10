@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie osób i mienia
 
+*USTAWA z dnia 22 sierpnia 1997 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2025 poz. 532 |
@@ -22,17 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-24 |
 | Data wydania | 2025-04-24 |
-| Ostatnia zmiana | 2025-04-28 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/532/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907),
-2) ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „ Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem: 1) art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia; 3) art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.; 4) art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”;
-2) art. 33 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179), który stanowi: „ Art. 33. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 3 lit. c, art. 7 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 1 pkt 25 i 26, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 22 sierpnia 1997 r.
-o ochronie osób i mienia
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -95,7 +88,7 @@ o ochronie osób i mienia
 - **1)** w zakresie obronności państwa w szczególności:
     - **a)** zakłady produkcji specjalnej oraz zakłady, w których prowadzone są prace naukowo-badawcze lub konstruktorskie w zakresie takiej produkcji,
     - **b)** zakłady produkujące, remontujące i magazynujące uzbrojenie, urządzenia i sprzęt wojskowy,
-    - **c)** magazyny rezerw strategicznych, o których mowa w art. 15 ustawy z dnia 29 października 2010 r. o rezerwach strategicznych (Dz. U. z 2020 r. poz. 2051) ;
+    - **c)** magazyny rezerw strategicznych, o których mowa w art. 15 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2026 r. poz. 733 i 815);
 
 - **2)** w zakresie ochrony interesu gospodarczego państwa w szczególności:
     - **a)** zakłady mające bezpośredni związek z wydobyciem surowców mineralnych o strategicznym znaczeniu dla państwa,
@@ -103,7 +96,7 @@ o ochronie osób i mienia
     - **c)** banki i przedsiębiorstwa wytwarzające, przechowujące bądź transportujące wartości pieniężne w znacznych ilościach;
 
 - **3)** w zakresie bezpieczeństwa publicznego w szczególności:
-    - **a)** zakłady, obiekty i urządzenia mające istotne znaczenie dla funkcjonowania aglomeracji miejskich, których zniszczenie lub uszkodzenie może stanowić zagrożenie dla życia i zdrowia ludzi oraz środowiska, w szczególności elektrownie i ciepłownie, ujęcia wody, wodociągi i oczyszczalnie ścieków,
+    - **a)** zakłady, obiekty i urządzenia mające istotne znaczenie dla funkcjonowania powiatów lub miast na prawach powiatu, których zniszczenie lub uszkodzenie może stanowić zagrożenie dla życia i zdrowia ludzi oraz środowiska, w szczególności elektrownie i ciepłownie, ujęcia wody, wodociągi i oczyszczalnie ścieków,
     - **b)** zakłady stosujące, produkujące lub magazynujące w znacznych ilościach materiały jądrowe, źródła i odpady promieniotwórcze, materiały toksyczne, odurzające, wybuchowe bądź chemiczne o dużej podatności pożarowej lub wybuchowej,
     - **c)** rurociągi paliwowe, linie energetyczne i telekomunikacyjne, zapory wodne i śluzy oraz inne urządzenia znajdujące się w otwartym terenie, których zniszczenie lub uszkodzenie może stanowić zagrożenie dla życia lub zdrowia ludzi, środowiska albo spowodować poważne straty materialne;
 
@@ -113,15 +106,42 @@ o ochronie osób i mienia
     - **c)** muzea i inne obiekty, w których zgromadzone są dobra kultury narodowej,
     - **d)** archiwa państwowe;
 
-- **5)** obiekty, w tym obiekty budowlane, urządzenia, instalacje, usługi ujęte w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej.
+- **5)** obiekty, urządzenia lub instalacje lub połączone ze sobą funkcjonalnie obiekty, urządzenia lub instalacje ujęte w wykazie, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2026 r. poz. 574 i 815).
 
-3. Szczegółowe wykazy obszarów, obiektów i urządzeń, o których mowa w ust. 2, sporządzają: Prezes Narodowego Banku Polskiego, Krajowa Rada Radiofonii i Telewizji, ministrowie, kierownicy urzędów centralnych i wojewodowie w stosunku do podległych, podporządkowanych lub nadzorowanych jednostek organizacyjnych. Umieszczenie w wykazie określonego obszaru, obiektu lub urządzenia następuje w drodze decyzji administracyjnej.
+3. Szczegółowe wykazy obszarów, obiektów i urządzeń, o których mowa w ust. 2, sporządzają i na bieżąco aktualizują: Prezes Narodowego Banku Polskiego, Krajowa Rada Radiofonii i Telewizji, ministrowie, kierownicy urzędów centralnych i wojewodowie w stosunku do podległych, podporządkowanych lub nadzorowanych jednostek organizacyjnych oraz Komisja Nadzoru Finansowego w stosunku do podmiotów podlegających nadzorowi Komisji Nadzoru Finansowego w rozumieniu art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069 oraz z 2026 r. poz. 252 i 644). Umieszczenie w wykazie określonego obszaru, obiektu lub urządzenia następuje w drodze decyzji administracyjnej.
 
-4. Wykazy, o których mowa w ust. 3, Prezes Narodowego Banku Polskiego, Krajowa Rada Radiofonii i Telewizji, ministrowie i kierownicy urzędów centralnych przesyłają do właściwych terytorialnie wojewodów oraz bieżąco aktualizują.
+3a. Wykazy, o których mowa w ust. 3, są dokumentami niejawnymi.
 
-5. Wojewodowie prowadzą ewidencję obszarów, obiektów i urządzeń podlegających obowiązkowej ochronie, znajdujących się na terenie województwa. Ewidencja ma charakter poufny.
+4. Organy, o których mowa w ust. 3, przekazują wykazy, o których mowa w ust. 3, oraz ich aktualizacje właściwym terytorialnie wojewodom w terminie 14 dni odpowiednio od dnia ich sporządzenia lub aktualizacji.
 
-6. Wojewoda, w drodze decyzji administracyjnej, może umieścić w ewidencji, o której mowa w ust. 5, znajdujące się na terenie województwa obszary, obiekty i urządzenia innych podmiotów niż określone w ust. 3.
+4a. Starostowie i prezydenci miast na prawach powiatu informują wojewodę o zakładach, obiektach i urządzeniach, o których mowa w ust. 2 pkt 3 lit. a, znajdujących się na terenie powiatu.
+
+5. Wojewodowie prowadzą ewidencję obszarów, obiektów i urządzeń podlegających obowiązkowej ochronie, znajdujących się na terenie województwa. Ewidencja jest dokumentem niejawnym.
+
+5a. W wykazie, o którym mowa w ust. 3, prowadzonym przez ministra właściwego do spraw energii, może zostać ujęta morska farma wiatrowa, o której mowa w art. 3 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2025 r. poz. 498 i 1535 oraz z 2026 r. poz. 516). O umieszczeniu w wykazie morskiej farmy wiatrowej minister właściwy do spraw energii informuje wojewodę właściwego terytorialnie ze względu na umiejscowienie Centrum Bezpieczeństwa Morskiego, o którym mowa w art. 25a ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2024 r. poz. 597 oraz z 2026 r. poz. 815). Wojewoda, o którym mowa w zdaniu drugim, umieszcza morską farmę wiatrową w ewidencji, o której mowa w ust. 5.
+
+5b. Ewidencja, o której mowa w ust. 5, zawiera dane dotyczące w szczególności:
+
+- **1)** numeru wpisu;
+- **2)** nazwy obszaru, obiektu lub urządzenia;
+- **3)** adresu obszaru, obiektu lub urządzenia;
+- **4)** nazwy stanowiska kierownika jednostki, która zarządza obszarem, obiektem lub urządzeniem;
+- **5)** organu, o którym mowa w ust. 3, właściwego w stosunku do obszaru, obiektu lub urządzenia.
+
+6. Wojewoda, w drodze decyzji administracyjnej, może umieścić w ewidencji, o której mowa w ust. 5, znajdujące się na terenie województwa obszary, obiekty i urządzenia inne niż wpisane do wykazów, o których mowa w ust. 3, lub do wykazu, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, w tym zakłady, obiekty i urządzenia, o których mowa w ust. 2 pkt 3 lit. a.
+
+7. Wojewoda po otrzymaniu wykazów lub ich aktualizacji od organów, o których mowa w ust. 3, niezwłocznie aktualizuje ewidencję, o której mowa w ust. 5.
+
+8. Wojewoda, niezwłocznie po umieszczeniu obszaru, obiektu lub urządzenia w ewidencji, o której mowa w ust. 5, informuje o tym kierownika jednostki, który zarządza obszarami, obiektami i urządzeniami umieszczonymi w tej ewidencji, oraz odpowiednio organy, o których mowa w ust. 3, a także właściwego terytorialnie komendanta wojewódzkiego Policji oraz właściwego terytorialnie dyrektora delegatury Agencji Bezpieczeństwa Wewnętrznego.
+
+**Art. 5a.** Środki ochrony fizycznej oraz zabezpieczenie techniczne wykraczające poza granice obszaru, obiektu lub urządzenia podlegającego obowiązkowej ochronie mogą być stosowane od strony wody w odniesieniu do:
+
+- **1)** obiektów, o których mowa w art. 5 ust. 1, będących jednocześnie obiektami portowymi w rozumieniu art. 3 ust. 1 pkt 3 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich;
+- **2)** sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, o których mowa w art. 23 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125, z 2025 r. poz. 409, 1535 i 1668 oraz z 2026 r. poz. 252);
+- **3)** kabli i rurociągów układanych i utrzymywanych w obszarach morskich Rzeczypospolitej Polskiej, o których mowa w art. 26 ust. 1 oraz art. 27 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
+- **4)** morskiej farmy wiatrowej, o której mowa w art. 3 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych.
+
+**Art. 5b.** Morska farma wiatrowa, o której mowa w art. 3 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, może być ochraniana na zasadach określonych w ustawie również poza granicami Rzeczypospolitej Polskiej, na akwenach w polskiej strefie odpowiedzialności Morskiej Służby Poszukiwania i Ratownictwa zgodnie z Międzynarodową konwencją o poszukiwaniu i ratownictwie morskim, sporządzoną w Hamburgu dnia 27 kwietnia 1979 r. (Dz. U. z 1988 r. poz. 184 i 185), i w polskiej wyłącznej strefie ekonomicznej.
 
 **Art. 6.**
 
@@ -324,8 +344,9 @@ o ochronie osób i mienia
 - **2)** wnioskodawca nie spełnił wszystkich warunków określonych w promesie;
 - **3)** wystąpiły okoliczności, o których mowa w art. 17a pkt 1 i 2.
 
-5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia koncesji na wykonywanie działalności gospodarczej określonej w promesie właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170) albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli osoba ta przedłoży pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie jej tej koncesji, chyba że:
+5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia koncesji na wykonywanie działalności gospodarczej określonej w promesie właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz.
 
+- **170)** albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli osoba ta przedłoży pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie jej tej koncesji, chyba że:
 - **1)** uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy;
 - **2)** właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie koncesji, nie spełnił warunków określonych w promesie;
 - **3)** właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie koncesji, nie spełnił warunków wykonywania działalności objętej koncesją;
@@ -430,7 +451,7 @@ o ochronie osób i mienia
 
 1. Przedsiębiorca wykonujący działalność gospodarczą w zakresie usług ochrony osób i mienia jest obowiązany do spełnienia obowiązku ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z ochroną osób i mienia.
 
-2. Minister właściwy do spraw instytucji finansowych, w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanej działalności oraz zakres realizowanych zadań.
+2. Minister właściwy do spraw instytucji finansowych, w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obo-wiązkowego, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanej działalności oraz zakres realizowanych zadań.
 
 **Art. 22.**
 
@@ -544,7 +565,8 @@ o ochronie osób i mienia
 - **4)** osoby nadzorujące i kontrolujące pracę pracowników ochrony fizycznej nieposiadających wpisu na listę kwalifikowanych pracowników ochrony fizycznej;
 - **5)** pracowników ochrony mających prawo do czynności określonych:
     - **a)** w art. 36 ust. 1 pkt 4,
-    - **b)** w art. 36 ust. 1 pkt 5 po dopuszczeniu do posiadania broni w trybie przepisów ustawy o broni i amunicji;
+    - **b)** w art. 36 ust. 1 pkt 5 po dopuszczeniu do posiadania broni w trybie przepisów ustawy o broni i amunicji,
+    - **c)** w art. 36 ust. 1a–1c;
 
 - **6)** pracowników ochrony wykonujących zadania na obszarach, w obiektach i urządzeniach podlegających obowiązkowej ochronie.
 
@@ -722,15 +744,19 @@ o ochronie osób i mienia
 - **1)** ustalania uprawnień do przebywania na obszarach lub w obiektach chronionych oraz legitymowania osób w celu ustalenia ich tożsamości;
 - **2)** wezwania osób do opuszczenia obszaru lub obiektu w przypadku stwierdzenia braku uprawnień do przebywania na terenie chronionego obszaru lub obiektu albo stwierdzenia zakłócania porządku;
 - **3)** ujęcia w granicach obszarów lub obiektów chronionych lub poza ich granicami osób stwarzających w sposób oczywisty bezpośrednie zagrożenie życia lub zdrowia ludzkiego, a także chronionego mienia, w celu niezwłocznego oddania tych osób Policji;
-- **4)** użycia lub wykorzystania środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1 lit. a, b i d, pkt 2 lit. a, pkt 5, 7, 9, 11, pkt 12 lit. a oraz pkt 13 i 21 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2024 r. poz. 383 i 1248 oraz z 2025 r. poz. 179):
-    - **a)** w granicach chronionych obiektów i obszarów – w przypadkach, o których mowa w art. 11 pkt 2, 5, 8, 10, 13 i 15 tej ustawy,
+- **4)** użycia lub wykorzystania środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1 lit. a, b oraz d, pkt 2 lit. a, pkt 5, 7, 9, 11, pkt 12 lit. a, pkt 13 i 21–23 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2026 r. poz. 244, 737 i 815):
+    - **a)** w granicach chronionych obiektów i obszarów – w przypadkach, o których mowa w art. 11 pkt 2, 5, 8, 10, 13 i 15–17 tej ustawy,
     - **b)** poza granicami obiektów i obszarów chronionych – w przypadku, o którym mowa w art. 11 pkt 9 tej ustawy;
 
 - **5)** użycia lub wykorzystania broni palnej:
     - **a)** w granicach chronionych obiektów i obszarów – w przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i pkt 2 oraz art. 47 pkt 3, 6 i 7 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, z wyłączeniem przypadków przeciwdziałania czynnościom zmierzającym bezpośrednio do zamachów, o których mowa w art. 45 pkt 1 lit. a–c tej ustawy,
     - **b)** poza granicami obiektów i obszarów chronionych – w przypadkach, o których mowa w art. 45 pkt 1 lit. e oraz art. 47 pkt 3 i 6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
-1a. Środki przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 5 lub 11 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, mogą być wykorzystane wyłącznie zgodnie z art. 156ze ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z 2024 r. poz. 731 i 1222 oraz z 2025 r. poz. 31 i 179).
+1a. Środki przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 5 lub 11 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, mogą być wykorzystane wyłącznie zgodnie z art. 156ze ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176 i 607), art. 28a ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich lub art. 11 pkt 17 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+
+1b. Pracownik ochrony przy wykonywaniu zadań ochrony obiektów, o których mowa w art. 5 ust. 1, będących jednocześnie obiektami portowymi w rozumieniu art. 3 ust. 1 pkt 3 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich, w celu zabezpieczenia infrastruktury portowej przed uszkodzeniem może patrolować ten obiekt od strony wody jednostką pływającą.
+
+1c. Wykonując czynności, o których mowa w ust. 1b, pracownik ochrony ma prawo do wezwania osób przebywających w basenie portowym i nieposiadających do tego uprawnień do jego opuszczenia, a także do podjęcia interwencji wobec tych osób, w tym ujęcia ich oraz użycia środków przymusu bezpośredniego określonych w art. 12 ust. 1 pkt 1 lit. a, b oraz d, pkt 2 lit. a, pkt 11, 13 i 21–23 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej w przypadkach, o których mowa w art. 11 pkt 2, 5, 8, 10, 13 i 15–17 tej ustawy.
 
 2. Wewnętrzna służba ochrony lub przedsiębiorca prowadzący działalność gospodarczą w zakresie usług ochrony osób i mienia prowadzą ewidencję notatek użycia lub wykorzystania środków przymusu bezpośredniego i broni palnej przez pracowników ochrony.
 
@@ -795,7 +821,7 @@ o ochronie osób i mienia
 
 - **1)** kontroli organizacji i zasad działania, uzbrojenia, wyposażenia oraz współpracy z innymi formacjami i służbami;
 - **2)** kontroli zgodności aktualnego stanu ochrony jednostki z planem ochrony;
-- **3)** wstępie na teren obszarów i obiektów, a także innych miejsc, w których jest prowadzona ochrona, oraz żądaniu wyjaśnień i udostępniania bądź wglądu w dokumentację ochronną;
+- **3)** wstępie na teren obszarów i obiektów, a także innych miejsc, w których jest prowadzona ochrona, z wyłączeniem morskiej farmy wiatrowej, o której mowa w art. 3 pkt 3 ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, oraz żądaniu wyjaśnień i udostępniania bądź wglądu w dokumentację ochronną;
 - **4)** wstępie na teren siedziby przedsiębiorcy prowadzącego działalność w zakresie ochrony osób i mienia, w takich dniach i godzinach, w jakich jest prowadzona lub powinna być prowadzona działalność;
 - **5)** wydawaniu pisemnych zaleceń mających na celu usunięcie stwierdzonych nieprawidłowości i dostosowanie działalności specjalistycznej uzbrojonej formacji ochronnej do przepisów prawa.
 
@@ -952,9 +978,9 @@ o ochronie osób i mienia
 
 **Art. 47.**
 
-- **6)** 1. Specjalistyczne uzbrojone formacje ochronne w zakresie ochrony osób i mienia współpracują z Policją, podmiotami ochrony ludności i obrony cywilnej oraz strażami gminnymi (miejskimi).
+1. Specjalistyczne uzbrojone formacje ochronne w zakresie ochrony osób i mienia współpracują z Policją, podmiotami ochrony ludności i obrony cywilnej oraz strażami gminnymi (miejskimi).
 
-2. Współpracę kierownik jednostki chronionej przez specjalistyczne uzbrojone formacje ochronne podejmuje odpowiednio z właściwym terytorialnie:
+2. Współpracę, o której mowa w ust. 1, specjalistyczne uzbrojone formacje ochronne podejmują odpowiednio z właściwym terytorialnie:
 
 - **1)** komendantem jednostki organizacyjnej Policji;
 - **2)** organem ochrony ludności lub organem obrony cywilnej;
@@ -987,6 +1013,12 @@ o ochronie osób i mienia
 **Art. 50a.** Kto, wbrew obowiązkowi określonemu w art. 43 ust. 3 lub art. 43a ust. 18, nie usuwa, w terminie określonym w zaleceniu, naruszeń przepisów prawa lub nieprawidłowości stwierdzonych w ramach nadzoru sprawowanego przez Komendanta Głównego Policji lub Ministra Obrony Narodowej podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 **Art. 50b.** Kto osobie upoważnionej do przeprowadzania kontroli działalności gospodarczej wykonywanej w zakresie usług ochrony osób i mienia udaremnia lub utrudnia wykonanie czynności służbowej, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+**Art. 50c.**
+
+1. Kto, nie będąc do tego uprawnionym, przebywa na obszarze lub w obiekcie podlegającym obowiązkowej ochronie oraz nie opuszcza takiego obszaru lub obiektu wbrew żądaniu osoby uprawnionej, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+2. Kto, nie będąc do tego uprawnionym, przebywając na obszarze lub w obiekcie podlegającym obowiązkowej ochronie, utrudnia lub uniemożliwia korzystanie z tych obszarów, obiektów lub znajdujących się na ich terenie urządzeń lub instalacji, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 5.
 
 #### Rozdział 9 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 

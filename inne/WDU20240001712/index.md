@@ -172,8 +172,7 @@ source: pdf
 - **11)** wnoszenie powództwa na rzecz obywateli w sprawach o ustalenie istnienia lub treści stosunku pracy, a także wstępowanie, za zgodą powoda, do postępowania w tych sprawach w każdym jego stadium;
 - **12)** wydawanie i cofanie zezwoleń w przypadkach, o których mowa w art. 304 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **13)** (uchylony)
-- **14)** wykonywanie zadań określonych w ustawie z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2024 r. poz.
-- **73)** ;
+- **14)** wykonywanie zadań określonych w ustawie z dnia 10 czerwca 2016 r. o delegowaniu pracowników w ramach świadczenia usług (Dz. U. z 2024 r. poz. 73);
 - **14a)** udzielanie porad w celu wspierania równego traktowania obywateli państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, którzy korzystają z prawa do swobodnego przepływu pracowników, oraz członków ich rodzin w zakresie: 14aa) wykonywanie zadań określonych w ustawie z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523 oraz z 2024 r. poz. 1544);
     - **a)** dostępu do zatrudnienia,
     - **b)** warunków zatrudnienia i pracy, w szczególności w odniesieniu do wynagrodzenia, rozwiązania umowy, bezpieczeństwa i higieny pracy oraz, w przypadku utraty pracy, powrotu do pracy lub ponownego zatrudnienia,

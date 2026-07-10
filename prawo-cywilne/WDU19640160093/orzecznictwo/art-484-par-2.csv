@@ -112,10 +112,12 @@ saos_id|date|court|case_number|type|score|saos_url
 84833|2006-12-12|SN|I CSK 415/06|Postanowienie|69|https://www.saos.org.pl/judgments/84833
 545830|2026-04-28|SO|I AGa 137/24|Wyrok|56|https://www.saos.org.pl/judgments/545830
 543445|2026-03-03|SO|I ACa 2664/23|Wyrok|56|https://www.saos.org.pl/judgments/543445
+547471|2026-01-26|SO|I AGa 142/24|Wyrok|56|https://www.saos.org.pl/judgments/547471
 542925|2025-12-11|SO|I AGa 148/23|Wyrok|56|https://www.saos.org.pl/judgments/542925
 542844|2025-11-12|SO|I AGa 369/24|Wyrok|56|https://www.saos.org.pl/judgments/542844
 544001|2025-10-21|SO|I AGa 384/23|Wyrok|56|https://www.saos.org.pl/judgments/544001
 535634|2025-09-23|SO|I ACa 571/25|Wyrok|56|https://www.saos.org.pl/judgments/535634
+547355|2025-09-09|SO|I AGa 103/24|Wyrok|56|https://www.saos.org.pl/judgments/547355
 531516|2025-06-26|SO|I AGa 185/24|Wyrok|56|https://www.saos.org.pl/judgments/531516
 532154|2025-06-16|SO|V AGa 383/23|Wyrok|56|https://www.saos.org.pl/judgments/532154
 540868|2025-04-29|SO|V AGa 123/23|Wyrok|56|https://www.saos.org.pl/judgments/540868
@@ -1101,7 +1103,9 @@ saos_id|date|court|case_number|type|score|saos_url
 450586|2021-10-13|SO|I ACa 422/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/450586
 404579|2019-12-06|SO|III APa 48/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/404579
 372195|2017-03-07|SO|I ACa 340/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/372195
+547390|2025-10-31|SO|V GC 292/25|Wyrok|40|https://www.saos.org.pl/judgments/547390
 546546|2025-10-16|SO|V GC 287/25|Wyrok|40|https://www.saos.org.pl/judgments/546546
+547538|2025-07-25|SO|V GC 81/25|Wyrok|40|https://www.saos.org.pl/judgments/547538
 544537|2025-07-11|SO|V GC 27/25|Wyrok|40|https://www.saos.org.pl/judgments/544537
 529222|2024-10-10|SO|V GC 242/24|Wyrok|40|https://www.saos.org.pl/judgments/529222
 504573|2024-05-28|SO|II1 C 41/23|Wyrok|40|https://www.saos.org.pl/judgments/504573

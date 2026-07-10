@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 28 listopada 2003 r. o świadczeniach rodzinnych*
 
 Łącznie: **375** orzeczeń
-(pominięto 316 orzeczeń sądów rejonowych)
+(pominięto 317 orzeczeń sądów rejonowych)
 
 ## art. 2 (6)
 

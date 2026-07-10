@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2021-12-02 |
 | Data wydania | 2021-12-17 |
-| Ostatnia zmiana | 2026-03-24 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002333) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2333/text.pdf) |
 
 **Art. 1.** Ustawa określa zasady:
@@ -47,6 +47,7 @@ source: pdf
 - **1)** wpływy z kar pieniężnych, o których mowa w art. 73–73c ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20 i 252);
 - **1a)** wpływy z kar pieniężnych, o których mowa w art. 33 ustawy z dnia 25 czerwca 2025 r. o krajowym systemie certyfikacji cyberbezpieczeństwa (Dz. U. poz. 1017);
 - **1b)** wpływy z kar pieniężnych, o których mowa w art. 101 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781 oraz z 2026 r. poz. 252);
+- **1c)** wpływy z kar pieniężnych, o których mowa w art. 6zzr ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2026 r. poz. 574 i 815);
 - **2)** środki, o których mowa w ust. 6 i 8;
 - **3)** dotacje z budżetu państwa;
 - **4)** inne przychody.

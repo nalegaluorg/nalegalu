@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.*
 
-Łącznie: **439** orzeczeń
-(pominięto 953 orzeczeń sądów rejonowych)
+Łącznie: **441** orzeczeń
+(pominięto 956 orzeczeń sądów rejonowych)
 
 ## art. 1 (15)
 
@@ -125,7 +125,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.*
 - 2018-03-13 | SO | [XVII Ka 1579/17](https://www.saos.org.pl/judgments/338519) | Wyrok
 - 2015-10-26 | SO | [XVII Ka 666/15](https://www.saos.org.pl/judgments/189646) | Wyrok
 
-## art. 3 (122)
+## art. 3 (123)
 
 - 2009-01-08 | SN | [I CSK 482/08](https://www.saos.org.pl/judgments/89401) | Wyrok ★
 - 2025-10-31 | SO | [I ACa 753/25](https://www.saos.org.pl/judgments/544198) | Wyrok
@@ -134,6 +134,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.*
 - 2024-03-15 | SO | [V ACa 221/22](https://www.saos.org.pl/judgments/544780) | Wyrok
 - 2024-02-26 | SO | [V ACa 51/22](https://www.saos.org.pl/judgments/544173) | Wyrok
 - 2024-02-23 | SO | [V ACa 239/22](https://www.saos.org.pl/judgments/544713) | Wyrok
+- 2024-02-15 | SO | [I ACa 738/22](https://www.saos.org.pl/judgments/547716) | Wyrok
 - 2023-12-12 | SO | [I ACa 1469/21](https://www.saos.org.pl/judgments/517715) | Wyrok
 - 2023-12-07 | SO | [V ACa 276/22](https://www.saos.org.pl/judgments/544033) | Wyrok
 - 2023-12-06 | SO | [V ACa 434/22](https://www.saos.org.pl/judgments/543978) | Wyrok
@@ -288,8 +289,9 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2002 r. Prawo dewizowe.*
 - 2022-05-23 | SO | [V ACa 114/22](https://www.saos.org.pl/judgments/469193) | Wyrok
 - 2025-04-03 | SO | [II Ca 295/24](https://www.saos.org.pl/judgments/545032) | Wyrok
 
-## art. 9 (56)
+## art. 9 (57)
 
+- 2026-04-28 | SO | [I ACa 2756/23](https://www.saos.org.pl/judgments/547652) | Wyrok
 - 2024-02-26 | SO | [V ACa 870/23](https://www.saos.org.pl/judgments/540743) | Wyrok
 - 2024-01-26 | SO | [V ACa 428/22](https://www.saos.org.pl/judgments/543898) | Wyrok
 - 2024-01-11 | SO | [V ACa 426/22](https://www.saos.org.pl/judgments/544077) | Wyrok

@@ -2,15 +2,16 @@
 
 Akty prawne z dziedziny: **Prawo cywilne**.
 
-Łącznie: **140** aktów
+Łącznie: **141** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
+| [WDU20260000795](WDU20260000795/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000468](WDU20260000468/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000236](WDU20260000236/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 lutego 20 | Obwieszczenie | obowiązujący |  |
 | [WDU20260000184](WDU20260000184/index.md) | Ustawa z dnia 23 stycznia 2026 r. o zmianie ustawy o rzeczach znalezionych  | Ustawa | obowiązujący |  |
 | [WDU20250001518](WDU20250001518/index.md) | Ustawa z dnia 9 października 2025 r. o zmianie ustawy - Kodeks postępowania | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20250001508](WDU20250001508/index.md) | Ustawa z dnia 9 października 2025 r. o zmianie ustawy - Kodeks cywilny | Ustawa | obowiązujący |  |
+| [WDU20250001508](WDU20250001508/index.md) | Ustawa z dnia 9 października 2025 r. o zmianie ustawy - Kodeks cywilny | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20250001172](WDU20250001172/index.md) | Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy - Kodeks postępowania cyw | Ustawa | obowiązujący |  |
 | [WDU20250000897](WDU20250000897/index.md) | Ustawa z dnia 24 czerwca 2025 r. o zmianie ustawy - Kodeks rodzinny i opiek | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20240000653](WDU20240000653/index.md) | Ustawa z dnia 20 marca 2024 r. o zmianie ustawy - Kodeks cywilny, ustawy o  | Ustawa | obowiązujący |  |
@@ -84,7 +85,7 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU20100400222](WDU20100400222/index.md) | Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy - Kodeks cywilny | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20100400222/orzecznictwo.md) |
 | [WDU20100070045](WDU20100070045/index.md) | Ustawa z dnia 17 grudnia 2009 r. o zmianie ustawy - Kodeks postępowania cyw | Ustawa | obowiązujący | [tak](WDU20100070045/orzecznictwo.md) |
 | [WDU20090790662](WDU20090790662/index.md) | Ustawa z dnia 2 kwietnia 2009 r. o zmianie ustawy - Kodeks cywilny | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20090790662/orzecznictwo.md) |
-| [WDU20090690593](WDU20090690593/index.md) | Ustawa z dnia 19 marca 2009 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | akt objęty tekstem jednolitym |  |
+| [WDU20090690593](WDU20090690593/index.md) | Ustawa z dnia 19 marca 2009 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20090690593/orzecznictwo.md) |
 | [WDU20090690592](WDU20090690592/index.md) | Ustawa z dnia 19 marca 2009 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | obowiązujący | [tak](WDU20090690592/orzecznictwo.md) |
 | [WDU20090260156](WDU20090260156/index.md) | Ustawa z dnia 9 stycznia 2009 r. o zmianie ustawy - Kodeks postępowania cyw | Ustawa | obowiązujący | [tak](WDU20090260156/orzecznictwo.md) |
 | [WDU20082341571](WDU20082341571/index.md) | Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy - Kodeks postępowania cywi | Ustawa | obowiązujący | [tak](WDU20082341571/orzecznictwo.md) |
@@ -127,7 +128,7 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU20000220269](WDU20000220269/index.md) | Ustawa z dnia 2 marca 2000 r. o zmianie ustawy - Kodeks celny oraz ustawy - | Ustawa | obowiązujący |  |
 | [WDU19990520532](WDU19990520532/index.md) | Ustawa z dnia 21 maja 1999 r. o zmianie ustaw Kodeks rodzinny i opiekuńczy, | Ustawa | obowiązujący | [tak](WDU19990520532/orzecznictwo.md) |
 | [WDU19981170758](WDU19981170758/index.md) | Ustawa z dnia 24 lipca 1998 r. o zmianie ustawy - Kodeks cywilny oraz ustaw | Ustawa | obowiązujący | [tak](WDU19981170758/orzecznictwo.md) |
-| [WDU19981170757](WDU19981170757/index.md) | Ustawa z dnia 24 lipca 1998 r. o zmianie ustaw - Kodeks rodzinny i opiekuńc | Ustawa | obowiązujący |  |
+| [WDU19981170757](WDU19981170757/index.md) | Ustawa z dnia 24 lipca 1998 r. o zmianie ustaw - Kodeks rodzinny i opiekuńc | Ustawa | obowiązujący | [tak](WDU19981170757/orzecznictwo.md) |
 | [WDU19971170752](WDU19971170752/index.md) | Ustawa z dnia 21 sierpnia 1997 r. o zmianie ustaw - Prawo o ustroju sądów p | Ustawa | obowiązujący | [tak](WDU19971170752/orzecznictwo.md) |
 | [WDU19970430270](WDU19970430270/index.md) | Ustawa z dnia 20 lutego 1997 r. o zmianie ustawy - Kodeks postępowania cywi | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19961140542](WDU19961140542/index.md) | Ustawa z dnia 23 sierpnia 1996 r. o zmianie ustawy - Kodeks cywilny. | Ustawa | obowiązujący | [tak](WDU19961140542/orzecznictwo.md) |
@@ -147,4 +148,4 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU19640090060](WDU19640090060/index.md) | Ustawa z dnia 25 lutego 1964 r. - Przepisy wprowadzające kodeks rodzinny i  | Ustawa | obowiązujący | [tak](WDU19640090060/orzecznictwo.md) |
 | [WDU19640090059](WDU19640090059/index.md) | Ustawa z dnia 25 lutego 1964 r. - Kodeks rodzinny i opiekuńczy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640090059/orzecznictwo.md) |
 
-*140 aktów • [← Powrót do spisu głównego](../README.md)*
+*141 aktów • [← Powrót do spisu głównego](../README.md)*

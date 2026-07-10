@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Żandarmerii Wojskowej i wojskowych organach porządkowych
 
+*USTAWA z dnia 24 sierpnia 2001 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2026 poz. 159 |
@@ -22,19 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2026-02-05 |
 | Data wydania | 2026-02-12 |
-| Ostatnia zmiana | 2026-02-17 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/159/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r.
-poz. 12), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U. poz. 179),
-2) ustawą z dnia 18 grudnia 2025 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej na wypadek zagrożenia bezpieczeństwa państwa na polskich obszarach morskich oraz zapewnienia bezpieczeństwa na Morzu Bałtyckim (Dz. U. z 2026 r. poz. 50) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 lutego 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 33 ustawy z dnia 24 stycznia 2025 r. o zmianie ustawy – Prawo lotnicze oraz niektórych innych ustaw (Dz. U.
-poz. 179), który stanowi: „ Art. 33. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 3 lit. c, art. 7 i art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 1 pkt 25 i 26, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”;
-2) art. 6 ustawy z dnia 18 grudnia 2025 r. o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej na wypadek zagrożenia bezpieczeństwa państwa na polskich obszarach morskich oraz zapewnienia bezpieczeństwa na Morzu Bałtyckim (Dz. U. z 2026 r. poz. 50), który stanowi: „ Art. 6. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
-USTAWA z dnia 24 sierpnia 2001 r.
-o Żandarmerii Wojskowej i wojskowych organach porządkowych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -86,7 +77,8 @@ o Żandarmerii Wojskowej i wojskowych organach porządkowych
 - **1)** zapewnianie przestrzegania dyscypliny wojskowej;
 - **2)** ochranianie porządku publicznego na terenach i obiektach jednostek wojskowych oraz w miejscach publicznych;
 - **3)** ochranianie życia i zdrowia ludzi oraz mienia wojskowego przed zamachami naruszającymi te dobra;
-- **3a)** prowadzenie działań antyterrorystycznych w rozumieniu ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194) na obszarach lub w obiektach należących do komórek i jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych albo administrowanych przez te komórki i jednostki organizacyjne;
+- **3a)** prowadzenie działań antyterrorystycznych w rozumieniu ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz.
+- **194)** na obszarach lub w obiektach należących do komórek i jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych albo administrowanych przez te komórki i jednostki organizacyjne;
 - **3b)** ochranianie placówek zagranicznych Rzeczypospolitej Polskiej znajdujących się w miejscu stacjonowania Polskich Kontyngentów Wojskowych oraz ochrona personelu dyplomatyczno-konsularnego tych placówek;
 - **4)** wykrywanie przestępstw i wykroczeń, w tym skarbowych, popełnionych przez osoby, o których mowa w art. 3 ust. 2, ujawnianie i ściganie ich sprawców oraz ujawnianie i zabezpieczanie dowodów tych przestępstw i wykroczeń;
 - **4a)** dokonywanie analizy oświadczeń o stanie majątkowym żołnierzy zawodowych i przedstawianie Ministrowi Obrony Narodowej wniosków w tym względzie;
@@ -206,7 +198,7 @@ o Żandarmerii Wojskowej i wojskowych organach porządkowych
 
 9. Żandarmeria Wojskowa, w celu przeprowadzenia postępowań kwalifikacyjnych, przetwarza następujące dane:
 
-- **1)** w przypadku kandydata do pracy: o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26),
+- **1)** w przypadku kandydata do pracy:
     - **a)** wizerunek,
     - **b)** nazwisko, w tym nazwisko rodowe,
     - **c)** imię lub imiona,
@@ -218,7 +210,7 @@ o Żandarmerii Wojskowej i wojskowych organach porządkowych
     - **i)** obywatelstwo (obywatelstwa),
     - **j)** serię i numer dowodu osobistego,
     - **k)** numer PESEL,
-    - **l)** posiadany stopień wojskowy lub inny stopień w formacji określonej w art. 138 ustawy z dnia 11 marca 2022 r.
+    - **l)** posiadany stopień wojskowy lub inny stopień w formacji określonej w art. 138 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26),
     - **m)** serię i numer książeczki wojskowej,
     - **n)** adres miejsca zamieszkania,
     - **o)** serię i numer paszportu,
@@ -1110,7 +1102,8 @@ o Żandarmerii Wojskowej i wojskowych organach porządkowych
 - **6)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej, jest uczestnikiem funduszu inwestycyjnego, o którym mowa w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi,
 - **7)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest stroną umowy dotyczącej obrotu instrumentami finansowymi, o której mowa w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
 - **8)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest ubezpieczającym, ubezpieczonym lub uprawnionym z umowy ubezpieczenia w rozumieniu przepisów ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej,
-- **9)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest klientem usługi finansowania społecznościowego, o której mowa w art. 2 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1) – udostępnia się nieodpłatnie, w formie pisemnej lub za pomocą środków komunikacji elektronicznej, na wniosek Komendanta Głównego Żandarmerii Wojskowej albo komendanta oddziału Żandarmerii Wojskowej lub upoważnionych przez nich pisemnie żołnierzy.
+- **9)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest klientem usługi finansowania społecznościowego, o której mowa w art. 2 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str.
+- **1)** – udostępnia się nieodpłatnie, w formie pisemnej lub za pomocą środków komunikacji elektronicznej, na wniosek Komendanta Głównego Żandarmerii Wojskowej albo komendanta oddziału Żandarmerii Wojskowej lub upoważnionych przez nich pisemnie żołnierzy.
 
 5. Wniosek, o którym mowa w ust. 1, powinien zawierać:
 
@@ -1129,9 +1122,9 @@ o Żandarmerii Wojskowej i wojskowych organach porządkowych
 
 **Art. 42.**
 
-1. W przypadkach, o których mowa w art. 11 pkt 1–6 i 8–15 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze Żandarmerii Wojskowej mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–5, 7–9, 11, pkt 12 lit. a, c i d, pkt 13 i 17–21 tej ustawy, lub wykorzystać te środki.
+1. W przypadkach, o których mowa w art. 11 pkt 1–6 i 8–16 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze Żandarmerii Wojskowej mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–9, 11, pkt 12 lit. a, c oraz d, pkt 13, 14 i 17–23 tej ustawy, lub wykorzystać te środki.
 
-2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i e, pkt 2, 3 i pkt 4 lit. a i b oraz w art. 47 pkt 1–3 i 5–7 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze Żandarmerii Wojskowej mogą użyć broni palnej lub ją wykorzystać.
+2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c oraz e, pkt 2, 3 i pkt 4 lit. a oraz b oraz art. 47 pkt 1–3 i 5–8 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze Żandarmerii Wojskowej mogą użyć broni palnej lub ją wykorzystać.
 
 3. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
@@ -1211,9 +1204,9 @@ o Żandarmerii Wojskowej i wojskowych organach porządkowych
 
 1. Żołnierzom wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych przysługują uprawnienia określone w art. 17 ust. 1 pkt 1, 2, 4–6, 8, 11 i 16.
 
-2. W przypadkach, o których mowa w art. 11 pkt 1–6 i 8–15 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–5, 7–9, 11, pkt 12 lit. a, c i d, pkt 13, 17 i 19–21 tej ustawy, lub wykorzystać te środki.
+2. W przypadkach, o których mowa w art. 11 pkt 1–6 i 8–14 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–5, 7–9, 11, pkt 12 lit. a, c oraz d, pkt 13, 17 i 19–23 tej ustawy, lub wykorzystać te środki.
 
-3. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i e, pkt 2, 3, pkt 4 lit. a i b oraz w art. 47 pkt 1–3, 5 i 6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych mogą użyć broni palnej lub ją wykorzystać.
+3. W przypadkach, o których mowa w art. 45 pkt 1 lit. a–c oraz e, pkt 2, 3 i pkt 4 lit. a oraz b oraz art. 47 pkt 1–3 i 5–8 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, żołnierze wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych mogą użyć broni palnej lub ją wykorzystać.
 
 4. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 

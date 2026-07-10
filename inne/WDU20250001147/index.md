@@ -1,0 +1,176 @@
+---
+title: "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 1 sierpnia 2025 r. w sprawie wnioskowania do Krajowej Jednostki do spraw Systemu Wjazdu/Wyjazdu w zakresie wprowadzania danych do Systemu Wjazdu/Wyjazdu, ich modyfikowania i usuwania"
+address: WDU20250001147
+eli: DU/2025/1147
+publisher: DU
+year: 2025
+pos: 1147
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11114477 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 1 sierpnia 2025 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2025 poz. 1147 |
+| ISAP | WDU20250001147 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2025-08-01 |
+| Data wydania | 2025-08-20 |
+| Ostatnia zmiana | 2025-08-21 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001147) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1147/text.pdf) |
+
+w sprawie wnioskowania do Krajowej Jednostki do spraw Systemu Wjazdu/Wyjazdu w zakresie wprowadzania danych do Systemu Wjazdu/Wyjazdu, ich modyfikowania i usuwania Na podstawie art. 3 ust. 5 ustawy z dnia 18 października 2024 r. o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/ Wyjazdu (Dz. U. poz. 1688) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) sposób i tryb wnioskowania do Krajowej Jednostki do spraw Systemu Wjazdu/Wyjazdu, zwanej dalej „Krajową Jednostką ds. EES”, w zakresie wprowadzania danych do Systemu Wjazdu/Wyjazdu, zwanego dalej „EES”, ich modyfikowania i usuwania w przypadku braku bezpośredniego dostępu do EES spowodowanego przyczynami niezależnymi od organu;
+2) wzory wniosków o wprowadzenie danych do EES, ich modyfikację lub usunięcie.
+§ 2. Ilekroć w rozporządzeniu jest mowa o:
+1) organie – rozumie się przez to organy i służby, o których mowa w art. 3 ust. 2 ustawy z dnia 18 października 2024 r.
+o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu, zwanej dalej ,,ustawą”, uprawnione do wprowadzania, modyfikowania i usuwania danych EES;
+2) rozporządzeniu 2017/2226 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiające system wjazdu/wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określające warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniające konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011 (Dz. Urz. UE L 327 z 09.12.2017, str. 20, z późn. zm. ).
+§ 3. 1. Organ w przypadku stwierdzenia braku bezpośredniego dostępu do EES spowodowanego przyczynami niezależnymi występuje do Krajowej Jednostki ds. EES z właściwym wnioskiem o wprowadzenie danych do EES, ich modyfikację lub usunięcie, wskazując informacje o wystąpieniu przesłanek, które uzasadniają dostęp do EES za pośrednictwem Krajowej Jednostki ds. EES.
+2. Organ występuje do Krajowej Jednostki ds. EES z właściwym wnioskiem w formie elektronicznej. Jeżeli z powodów niezależnych od tego organu nie ma możliwości złożenia wniosku w formie elektronicznej, składa się go w formie pisemnej.
+3. Wzór wniosku o dodanie danych do EES, zgodnie z art. 19 rozporządzenia 2017/2226, w przypadku cofnięcia, unieważnienia lub przedłużenia pobytu krótkoterminowego jest określony w załączniku nr 1 do rozporządzenia.
+4. Wzór wniosku o utworzenie, zgodnie z art. 14 ust. 8 rozporządzenia 2017/2226, rejestru indywidualnego i wpisu dotyczącego wjazdu/wyjazdu na wniosek obywatela państwa trzeciego przebywającego na terytorium państwa członkowskiego, którego pobyt krótkoterminowy rozpoczyna się bezpośrednio po pobycie na podstawie dokumentu pobytowego lub wizy długoterminowej i nie utworzono wcześniej rejestru indywidualnego, jest określony w załączniku nr 2 do rozporządzenia.
+5. Wzór wniosku o utworzenie rejestru indywidualnego, aktualizację ostatniego wpisu dotyczącego wjazdu/wyjazdu oraz usunięcie istniejącego rejestru, zgodnie z art. 20 rozporządzenia 2017/2226, w przypadku obalenia domniemania, że obywatel państwa trzeciego nie spełnia warunków związanych z okresem dozwolonego pobytu na terytorium państw członkowskich lub przestał te warunki spełniać, jest określony w załączniku nr 3 do rozporządzenia.
+6. Wzór wniosku o zmianę danych, zgodnie z art. 35 ust. 1–5 rozporządzenia 2017/2226, przez ich sprostowanie, uzupełnienie lub usunięcie w przypadku posiadania dowodów wskazujących na to, że dane zarejestrowane w EES są niezgodne ze stanem faktycznym, niekompletne lub że zostały przetworzone w EES niezgodnie z rozporządzeniem 2017/2226, jest określony w załączniku nr 4 do rozporządzenia.
+7. Wzór wniosku o usunięcie danych w przypadku uzyskania przez obywatela państwa trzeciego polskiego obywatelstwa lub objęcia go zakresem art. 2 ust. 3 rozporządzenia 2017/2226, zgodnie z art. 35 ust. 6 rozporządzenia 2017/2226, jest określony w załączniku nr 5 do rozporządzenia.
+§ 4. 1. Krajowa Jednostka ds. EES weryfikuje przesłany wniosek pod względem formalnym, a następnie wprowadza, modyfikuje lub usuwa wnioskowane dane EES zgodnie z zakresem uprawnień organu do przetwarzania danych EES.
+2. O realizacji wniosku Krajowa Jednostka ds. EES informuje w sposób określony w § 3 ust. 2 organ uprawniony.
+§ 5. 1. Krajowa Jednostka ds. EES odmawia realizacji wniosku, jeżeli wniosek nie zawiera informacji, które są niezbędne, aby wprowadzić, modyfikować lub usunąć dane EES, oraz informacji, które jednoznacznie wskazują na to, że wystąpiły przyczyny niezależne od danego organu uniemożliwiające bezpośredni dostęp do EES.
+2. O odmowie realizacji wniosku Krajowa Jednostka ds. EES informuje w sposób określony w § 3 ust. 2 organ i wskazuje przyczynę odmowy.
+§ 6. Rozporządzenie wchodzi w życie z dniem określonym w decyzji Komisji Europejskiej zgodnie z art. 66 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiającego system wjazdu/ wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określającego warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniającego konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011.
+Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański Załącznik nr 1 WNIOSEK O DODANIE DANYCH DO SYSTEMU WJAZDU/WYJAZDU, ZGODNIEZART.19ROZPORZĄDZENIA2017/2226 , W PRZYPADKU COFNIĘCIA, UNIEWAŻNIENIA LUB PRZEDŁUŻENIA POBYTU KRÓTKOTERMINOWEGO A.ORGAN WNIOSKUJĄCY Nazwa organu: Znak sprawy: Telefon kontaktowy: Data wypełnienia(DD-MM-RRRR): Pieczęć i podpis osoby upoważnionej: B.INFORMACJE O WYSTĄPIENIU PRZYCZYN NIEZALEŻNYCH, KTÓREUZASADNIAJĄ DOSTĘP DO SYSTEMU WJAZDU/WYJAZDU, ZWANEGO DALEJ „EES”,ZA POŚREDNICTWEM KRAJOWEJ JEDNOSTKI DS. EES C.RODZAJ OPERACJI Przedłużenie Cofnięcie Unieważnienie ☐ ☐ ☐ D.PODSTAWA PRAWNA WPISU Dodawanie danych, zgodnie z art. 19 rozporządzenia 2017/2226 , w przypadku cofnięcia lub unieważnienia zezwolenia na pobyt krótkoterminowy: ☐ art. 19 ust.1 rozporządzenia2017/2226 ☐ art. 19 ust.3rozporządzenia2017/2226 E.REJESTR INDYWIDUALNY
+1.Nazwisko: 2.Imię lub imiona:
+3.Data urodzenia(DD-MM-RRRR): 4.Obywatelstwo lub obywatelstwa*:
+5.Płeć*: 6.Rodzaj, seriai numer dokumentu podróży lub dokumentów podróży itrzyliterowy kod państwa
+7.Data upływu ważności dokumentu podróżylub wydającego dokument podróżylub dokumenty dokumentów podróży (DD-MM-RRRR): podróży*:
+8. Wizerunek twarzy, o którym mowa w art. 15 9. Dane daktyloskopijne, o których mowa
+8. rozporządzenia Wizerunek twarzy, 2017/2226 o którym mowa w art. 15 9. w art. Dane 17 daktyloskopijne, ust. 1 lit. c rozporządzenia o których mowa 2017/2226 rozporządzenia (format JPG): 2017/2226 w (format art. 17 NIST): ust. 1 lit. c rozporządzenia 2017/2226 ☐ (format JPG): (format NIST): ☐ ☐ 10. Powód niezałączenia danych daktyloskopijnych, ☐ 10. zgodnie Powód z art. niezałączenia 17 ust. 3 i 4 danych rozporządzenia daktyloskopijnych, zgodnie 2017/2226 z art. *: 17 ust. 3 i 4 rozporządzenia 2017/2226 *:
+11. Informacja, czy obywatel państwa trzeciego korzysta z krajowego programu ułatwień państwa członkowskiego,
+11. zgodnie Informacja, z art. 8d czy rozporządzenia obywatel państwa 2016/399 trzeciego : korzysta z krajowego programu ułatwień państwa członkowskiego, ☐ zgodnie korzysta z art. z 8d krajowego rozporządzenia programu 2016/399 ułatwień : ☐ ☐ nie korzysta korzysta z krajowego z krajowego programu programu ułatwień ułatwień ☐ nie korzysta z krajowego programu ułatwień F. COFNIĘCIE LUB UNIEWAŻNIENIE ZEZWOLENIA NA POBYT KRÓTKOTERMINOWY F. COFNIĘCIE LUB UNIEWAŻNIENIE ZEZWOLENIA NA POBYT KRÓTKOTERMINOWY
+1. Informacja o statusie wskazująca, że cofnięto lub unieważniono zezwolenie na pobyt krótkoterminowy: ☐ 1. Informacja cofnięcie o zezwolenia statusie wskazująca, na pobyt krótkoterminowy że cofnięto lub unieważniono zezwolenie na pobyt krótkoterminowy: ☐ ☐ unieważnienie cofnięcie zezwolenia zezwolenia na pobyt na pobyt krótkoterminowy krótkoterminowy ☐ unieważnienie zezwolenia na pobyt krótkoterminowy
+2. Dane organu, który cofnął lub unieważnił zezwolenie
+2. na Dane pobyt organu, krótkoterminowy: który cofnął lub unieważnił zezwolenie na 3. Miejsce pobyt krótkoterminowy: i data wydania decyzji o cofnięciu lub
+3. unieważnieniu Miejsce i data zezwolenia wydania decyzji na pobyt o cofnięciu krótkoterminowy: lub unieważnieniu 4. Podstawy cofnięcia zezwolenia lub unieważnienia na pobyt krótkoterminowy: pobytu krótkoterminowego: ☐ 4. Podstawy decyzja cofnięcia nakazująca lub powrót unieważnienia wydana na pobytu mocy krótkoterminowego: dyrektywy Parlamentu Europejskiego i Rady 2008/115/WE ☐ ☐ decyzja każda inna nakazująca decyzja podjęta powrót przez wydana właściwe na mocy organy dyrektywy państwa Parlamentu członkowskiego Europejskiego zgodnie i Rady z prawem 2008/115/WE krajowym, ☐ skutkująca każda inna powrotem, decyzja podjęta wydaleniem przez właściwe lub dobrowolnym organy państwa wyjazdem członkowskiego obywatela państwa zgodnie trzeciego, z prawem który krajowym, nie spełnia skutkująca warunków powrotem, wjazdu wydaleniem lub pobytu lub na dobrowolnym terytorium państw wyjazdem członkowskich obywatela lub państwa przestał trzeciego, te warunki który spełniać nie
+5. Dane spełnia organu, warunków który wydał wjazdu decyzję lub pobytu do powrotu: na terytorium państw członkowskich lub przestał te warunki spełniać
+5. Dane organu, który wydał decyzję do powrotu:
+6. Miejsce i data wydania decyzji do powrotu:
+6. Miejsce i data wydania decyzji do powrotu: G. PRZEDŁUŻENIE ZEZWOLENIA NA POBYT KRÓTKOTERMINOWY G. PRZEDŁUŻENIE ZEZWOLENIA NA POBYT KRÓTKOTERMINOWY
+1. Decyzja o przedłużeniu okresu dozwolonego pobytu: ☐
+1. Decyzja o przedłużeniu okresu dozwolonego pobytu: ☐
+2. Dane organu, który przedłużył okres dozwolonego
+2. pobytu: Dane organu, który przedłużył okres dozwolonego pobytu: 3. Miejsce i data wydania decyzji o przedłużeniu okresu
+3. dozwolonego Miejsce i data pobytu: wydania decyzji o przedłużeniu okresu dozwolonego 4. Okres, na jaki pobytu: przedłużono okres dozwolonego pobytu:
+4. Okres, na jaki przedłużono okres dozwolonego pobytu:
+5. Nowa data upływu dozwolonego pobytu
+5. (DD-MM-RRRR): Nowa data upływu dozwolonego pobytu (DD-MM-RRRR): 6. Podstawy przedłużenia okresu dozwolonego pobytu:
+6. Podstawy przedłużenia okresu dozwolonego pobytu: Załącznik nr 2 WZÓR WZÓR WNIOSEK O UTWORZENIE, ZGODNIE Z ART. 14 UST. 8 ROZPORZĄDZENIA 2017/2226 , REJESTRU INDYWIDUALNEGO I WPISU DOTYCZĄCEGO WJAZDU/WYJAZDU NA WNIOSEK OBYWATELA PAŃSTWA TRZECIEGO PRZEBYWAJĄCEGO NA TERYTORIUM PAŃSTWA CZŁONKOWSKIEGO, KTÓREGO POBYT KRÓTKOTERMINOWY ROZPOCZYNA SIĘ BEZPOŚREDNIO PO POBYCIE NA PODSTAWIE DOKUMENTU POBYTOWEGO LUB WIZY DŁUGOTERMINOWEJ I NIE UTWORZONO WCZEŚNIEJ REJESTRU INDYWIDUALNEGO A. ORGAN WNIOSKUJĄCY Nazwa organu: Znak sprawy: Telefon kontaktowy: Data wypełnienia (DD-MM-RRRR): Pieczęć i podpis osoby upoważnionej: B. INFORMACJE O WYSTĄPIENIU PRZYCZYN NIEZALEŻNYCH, KTÓRE UZASADNIAJĄ DOSTĘP DO SYSTEMU WJAZDU/WYJAZDU, ZWANEGO DALEJ „ EES”, ZA POŚREDNICTWEM KRAJOWEJ JEDNOSTKI DS. EES C. RODZAJ OPERACJI Wprowadzenie: D. PODSTAWA PRAWNA WPISU Utworzenie, zgodnie z art. 14 ust. 8 rozporządzenia 2017/2226 , rejestru indywidualnego i wpisu dotyczącego wjazdu/wyjazdu na wniosek obywatela państwa trzeciego przebywającego na terytorium państwa członkowskiego, którego pobyt krótkoterminowy rozpoczyna się bezpośrednio po pobycie na podstawie dokumentu pobytowego lub wizy długoterminowej, i nie utworzono wcześniej rejestru indywidualnego E. REJESTR INDYWIDUALNY
+1. Nazwisko: 2. Imię lub imiona:
+3. Data urodzenia (DD-MM-RRRR): 4. Obywatelstwo lub obywatelstwa*:
+5. Płeć*: 6. Rodzaj, seria i numer dokumentu podróży lub dokumentów podróży i trzyliterowy kod państwa
+7. Data upływu ważności dokumentu podróży lub wydającego dokument podróży lub dokumenty dokumentów podróży (DD-MM-RRRR): podróży*:
+8. Wizerunek twarzy, o którym mowa w art. 15 9. Dane daktyloskopijne, o których mowa rozporządzenia 2017/2226 w art. 17 ust. 1 lit. c rozporządzenia 2017/2226 ☐ (format JPG): (format NIST): ☐ 10. Powód niezałączenia danych daktyloskopijnych, zgodnie z art. 17 ust. 3 i 4 rozporządzenia 2017/2226 *:
+11. Informacja, czy obywatel państwa trzeciego korzysta z krajowego programu ułatwień państwa członkowskiego, zgodnie z art. 8d rozporządzenia 2016/399 : ☐ korzysta z krajowego programu ułatwień ☐ nie korzysta z krajowego programu ułatwień F. DANE DOTYCZĄCE WJAZDU
+1. Data rozpoczęcia pobytu krótkoterminowego (DD-MM-RRRR): 2 . Organ dokonujący wpisu:
+3. Obywatel państwa trzeciego, który jest członkiem rodziny obywatela Unii Europejskiej, do którego ma zastosowanie dyrektywa 2004/38/WE , oraz nie posiada karty pobytowej przewidzianej w dyrektywie ☐ 2004/38 ani dokumentu pobytowego przewidzianego w rozporządzeniu (WE) 1030/2002
+4. Obywatel państwa trzeciego jest członkiem rodziny obywatela państwa trzeciego korzystającego – na mocy umowy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a państwem trzecim, z drugiej strony – z prawa do swobodnego przemieszczania się równoważnego prawu przysługującemu ☐ obywatelom Unii Europejskiej oraz nie posiada karty pobytowej przewidzianej w dyrektywie 2004/38/WE ani dokumentu pobytowego przewidzianego w rozporządzeniu (WE) 1030/2002
+5. Obywatel państwa trzeciego zwolniony z obowiązku wizowego na podstawie rozporządzenia 2018/1806 ☐ 6 . Numer naklejki wizowej wizy krótkoterminowej:
+7. Trzyliterowy kod wydającego państwa członkowskiego*: 8 . Rodzaj wizy krótkoterminowej*:
+9. Data zakończenia maksymalnego okresu pobytu dozwolonego na podstawie wizy krótkoterminowej (DD-MM-RRRR):
+10. Data upływu ważności wizy krótkoterminowej (DD-MM-RRRR):
+11. Liczba wjazdów i okres pobytu zgodnie z informacjami na naklejce wizowej wizy krótkoterminowej (tylko przy pierwszym wjeździe):
+12. Informacje, że wiza krótkoterminowa została wydana z ograniczoną ważnością terytorialną, zgodnie z art. 25 ust. 1 lit. b rozporządzenia nr (WE) 810/2009 : ☐ wiza wydana z ograniczoną ważnością terytorialną ☐ wiza bez ograniczonej ważności terytorialnej
+13. W przypadku państw członkowskich, które nie stosują w pełni dorobku Schengen, ale posługują się EES – powiadomienie wskazujące, czy obywatel państwa trzeciego korzystał przy wjeździe z krajowej wizy krótkoterminowej: ☐ korzystał z wizy krajowej krótkoterminowej ☐ nie korzystał z wizy krajowej krótkoterminowej G. POBYT KRÓTKOTERMINOWY
+1. Data rozpoczęcia pobytu krótkoterminowego (DD-MM-RRRR):
+2. Organ dokonujący wpisu: Dziennik Ustaw – 8 – Załącznik nr Poz. 3 1147 WZÓR WZÓR WNIOSEK O UTWORZENIE REJESTRU INDYWIDUALNEGO, AKTUALIZACJĘ OSTATNIEGO WPISU DOTYCZĄCEGO WJAZDU/WYJAZDU ORAZ USUNIĘCIE ISTNIEJĄCEGO REJESTRU, ZGODNIE Z ART. 20 ROZPORZĄDZENIA 2017/2226 , W PRZYPADKU OBALENIA DOMNIEMANIA, ŻE OBYWATEL PAŃSTWA TRZECIEGO NIE SPEŁNIA WARUNKÓW ZWIĄZANYCH Z OKRESEM DOZWOLONEGO POBYTU NA TERYTORIUM PAŃSTW CZŁONKOWSKICH LUB PRZESTAŁ TE WARUNKI SPEŁNIAĆ A. ORGAN WNIOSKUJĄCY Nazwa organu: Znak sprawy: Telefon kontaktowy: Data wypełnienia (DD-MM-RRRR): Pieczęć i podpis osoby upoważnionej: B. INFORMACJE O WYSTĄPIENIU PRZYCZYN NIEZALEŻNYCH, KTÓRE UZASADNIAJĄ DOSTĘP DO SYSTEMU WJAZDU/WYJAZDU, ZWANEGO DALEJ „EES”, ZA POŚREDNICTWEM KRAJOWEJ JEDNOSTKI DS. EES C. RODZAJ OPERACJI Utworzenie ☐ Aktualizacja ☐ Usunięcie ☐ D. PODSTAWA PRAWNA WPISU Utworzenie rejestru indywidualnego, aktualizacja ostatniego wpisu dotyczącego wjazdu/wyjazdu oraz usunięcie istniejącego rejestru, zgodnie z art. 20 rozporządzenia 2017/2226 , w przypadku obalenia domniemania, że obywatel państwa trzeciego nie spełnia warunków związanych z okresem dozwolonego pobytu na terytorium państw członkowskich lub przestał te warunki spełniać E. REJESTR INDYWIDUALNY
+1. Nazwisko: 2. Imię lub imiona:
+3. Data urodzenia (DD-MM-RRRR): 4. Obywatelstwo lub obywatelstwa*:
+5. Płeć*: 6. Rodzaj, seria i numer dokumentu podróży lub dokumentów podróży i trzyliterowy kod państwa
+7. Data upływu ważności dokumentu podróży lub wydającego dokument podróży lub dokumenty dokumentów podróży podróży*: (DD-MM-RRRR):
+8. Wizerunek twarzy, o którym mowa w art. 15 9. Dane daktyloskopijne, o których mowa w art. 17 ☐ ☐ rozporządzenia 2017/2226 ust. 1 lit. c rozporządzenia 2017/2226 (format JPG): (format NIST):
+10. Powód niezałączenia danych daktyloskopijnych, zgodnie z art. 17 ust. 3 i 4 rozporządzenia 2017/2226 *:
+11. Informacja, czy obywatel państwa trzeciego korzysta z krajowego programu ułatwień państwa członkowskiego, zgodnie z art. 8d rozporządzenia 2016/399 : ☐ korzysta z krajowego programu ułatwień ☐ nie korzysta z krajowego programu ułatwień F. DANE DOTYCZĄCE WJAZDU
+1. Data i godzina wjazdu (DD-MM-RRRR / GG:MM):
+2. Przejście graniczne wjazdu i organ, który zezwolił na wjazd:
+3. Obywatel państwa trzeciego, który jest członkiem rodziny obywatela Unii Europejskiej, do którego ma ☐ zastosowanie dyrektywa 2004/38/WE , lub członkiem rodziny obywatela państwa trzeciego korzystającego – na mocy umowy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a państwem trzecim, z drugiej strony – z prawa swobodnego przemieszczania się równoważnego prawu przysługującemu obywatelom Unii Europejskiej:
+4. Obywatel państwa trzeciego, który nie posiada karty pobytowej przewidzianej w dyrektywie 2004/38/WE ☐ ani dokumentu pobytowego przewidzianego w rozporządzeniu (WE) 1030/2002 :
+5. Numer naklejki wizowej wizy krótkoterminowej:
+6. Trzyliterowy kod wydającego państwa członkowskiego*:
+7. Rodzaj wizy krótkoterminowej*:
+8. Data zakończenia maksymalnego okresu pobytu dozwolonego na podstawie wizy krótkoterminowej (DD-MM-RRRR):
+9. Data upływu ważności wizy krótkoterminowej (DD-MM-RRRR):
+10. Liczba wjazdów i okres pobytu zgodnie z informacjami na naklejce wizowej wizy krótkoterminowej (tylko przy pierwszym wjeździe):
+11. Informacje, że wiza krótkoterminowa została wydana z ograniczoną ważnością terytorialną, zgodnie z art. 25 ust. 1 lit. b rozporządzenia nr (WE) 810/2009 : ☐ wiza wydana z ograniczoną ważnością terytorialną ☐ wiza bez ograniczonej ważności terytorialnej
+12. W przypadku państw członkowskich, które nie stosują w pełni dorobku Schengen, ale posługują się EES – powiadomienie wskazujące, czy obywatel państwa trzeciego korzystał przy wjeździe z krajowej wizy krótkoterminowej: ☐ korzystał z wizy krajowej krótkoterminowej ☐ nie korzystał z wizy krajowej krótkoterminowej G. DANE DOTYCZĄCE WYJAZDU
+1. Data i godzina wyjazdu (DD-MM-RRRR / GG:MM):
+2. Przejście graniczne wyjazdu:
+3. Numer naklejki wizowej wizy krótkoterminowej:
+4. Trzyliterowy kod wydającego państwa członkowskiego*:
+5. Rodzaj wizy krótkoterminowej*:
+6. Data zakończenia maksymalnego pobytu dozwolonego na podstawie wizy krótkoterminowej (DD-MM-RRRR):
+7. Data upływu ważności wizy krótkoterminowej (DD-MM-RRRR):
+8. Liczba wjazdów i okres pobytu zgodnie z informacjami na naklejce wizowej wizy krótkoterminowej (tylko przy pierwszym wjeździe):
+9. Informacje, że wiza krótkoterminowa została wydana z ograniczoną ważnością terytorialną, zgodnie z art. 25 ust. 1 lit. b rozporządzenia nr (WE) 810/2009 : ☐ wiza wydana z ograniczoną ważnością terytorialną ☐ wiza bez ograniczonej ważności terytorialnej
+10. W przypadku państw członkowskich, które nie stosują w pełni dorobku Schengen, ale posługują się EES – powiadomienie wskazujące, czy obywatel państwa trzeciego korzystał przy wjeździe z krajowej wizy krótkoterminowej: ☐ korzystał z wizy krajowej krótkoterminowej ☐ nie korzystał z wizy krajowej krótkoterminowej Załącznik nr 4 WZÓR WZÓR WNIOSEK O ZMIANĘ DANYCH, ZGODNIE Z ART. 35 UST. 1–5 ROZPORZĄDZENIA 2017/2226 , PRZEZ ICH SPROSTOWANIE, UZUPEŁNIENIE LUB USUNIĘCIE W PRZYPADKU POSIADANIA DOWODÓW WSKAZUJĄCYCH NA TO, ŻE DANE ZAREJESTROWANE W SYSTEMIE WJAZDU/WYJAZDU SĄ NIEZGODNE ZE STANEM FAKTYCZNYM, NIEKOMPLETNE LUB ŻE ZOSTAŁY PRZETWORZONE W SYSTEMIE WJAZDU/WYJAZDU NIEZGODNIE Z ROZPORZĄDZENIEM 2017/2226 A. ORGAN WNIOSKUJĄCY Nazwa organu: Znak sprawy: Telefon kontaktowy: Data wypełnienia (DD-MM-RRRR): Pieczęć i podpis osoby upoważnionej: B. INFORMACJE O WYSTĄPIENIU PRZYCZYN NIEZALEŻNYCH, KTÓRE UZASADNIAJĄ DOSTĘP DO SYSTEMU WJAZDU/WYJAZDU, ZWANEGO DALEJ „EES”, ZA POŚREDNICTWEM KRAJOWEJ JEDNOSTKI DS. EES C. RODZAJ OPERACJI Sprostowanie ☐ Uzupełnienie ☐ Usunięcie ☐ D. PODSTAWA PRAWNA WPISU Zmiana danych, zgodnie z art. 35 ust. 1–5 rozporządzenia 2017/2226 , przez ich sprostowanie, uzupełnienie lub usunięcie w przypadku posiadania dowodów wskazujących na to, że dane zarejestrowane w EES są niezgodne ze stanem faktycznym, niekompletne lub że zostały przetworzone w EES niezgodnie z rozporządzeniem 2017/2226 E. REJESTR INDYWIDUALNY
+1. Nazwisko: 2. Imię lub imiona:
+3. Data urodzenia (DD-MM-RRRR): 4. Obywatelstwo lub obywatelstwa*:
+5. Płeć*: 6. Rodzaj, seria i numer dokumentu podróży lub dokumentów podróży i trzyliterowy kod państwa
+7. Data upływu ważności dokumentu podróży lub wydającego dokument podróży lub dokumenty dokumentów podróży (DD-MM-RRRR): podróży*:
+8. Wizerunek twarzy, o którym mowa w art. 15 9. Dane daktyloskopijne, o których mowa rozporządzenia 2017/2226 w art. 17 ust. 1 lit. c rozporządzenia 2017/2226 ☐ (format JPG): (format NIST): ☐ 10. Powód niezałączenia danych daktyloskopijnych, zgodnie z art. 17 ust. 3 i 4 rozporządzenia 2017/2226 :
+11. Informacja, czy obywatel państwa trzeciego korzysta z krajowego programu ułatwień państwa członkowskiego, zgodnie z art. 8d rozporządzenia 2016/399 : ☐ korzysta z krajowego programu ułatwień ☐ nie korzysta z krajowego programu ułatwień
+12. Data rozpoczęcia pobytu krótkoterminowego (DD-MM-RRRR):
+13. Organ dokonujący wpisu: F. DANE DOTYCZĄCE WJAZDU
+1. Data i godzina wjazdu (DD-MM-RRRR / GG:MM):
+2. Przejście graniczne wjazdu i organ, który zezwolił na wjazd:
+3. Obywatel państwa trzeciego, który jest członkiem rodziny obywatela Unii Europejskiej, do którego ma ☐ zastosowanie dyrektywa 2004/38/WE , lub członkiem rodziny obywatela państwa trzeciego korzystającego – na mocy umowy między Unią Europejską i jej państwami członkowskimi, z jednej strony, a państwem trzecim, z drugiej strony – z prawa swobodnego przemieszczania się równoważnego prawu przysługującemu obywatelom Unii Europejskiej
+4. Obywatel państwa trzeciego, który nie posiada karty pobytowej przewidzianej w dyrektywie 2004/38/WE ani ☐ dokumentu pobytowego przewidzianego w rozporządzeniu (WE) 1030/2002
+5. Obywatel państwa trzeciego zwolniony z obowiązku wizowego na podstawie rozporządzenia 2018/1806 ☐
+6. Numer naklejki wizowej wizy krótkoterminowej:
+7. Trzyliterowy kod wydającego państwa członkowskiego*:
+8. Rodzaj wizy krótkoterminowej*:
+9. Data zakończenia maksymalnego pobytu dozwolonego na podstawie wizy krótkoterminowej (DD-MM-RRRR):
+10. Data upływu ważności wizy krótkoterminowej (DD-MM-RRRR):
+11. Liczba wjazdów i okres pobytu zgodnie z informacjami na naklejce wizowej wizy krótkoterminowej (tylko przy pierwszym wjeździe):
+12. Informacje, że wiza krótkoterminowa została wydana z ograniczoną ważnością terytorialną, zgodnie z art. 25 ust. 1 lit. b rozporządzenia nr (WE) 810/2009 : ☐ wiza wydana z ograniczoną ważnością terytorialną ☐ wiza bez ograniczonej ważności terytorialnej
+13. W przypadku państw członkowskich, które nie stosują w pełni dorobku Schengen, ale posługują się EES – powiadomienie wskazujące, czy obywatel państwa trzeciego korzystał przy wjeździe z krajowej wizy krótkoterminowej: ☐ korzystał z wizy krajowej krótkoterminowej ☐ nie korzystał z wizy krajowej krótkoterminowej G. DANE DOTYCZĄCE WYJAZDU
+1. Data i godzina wyjazdu (DD-MM-RRRR / GG:MM):
+2. Przejście graniczne wyjazdu:
+3. Obywatel państwa trzeciego zwolniony z obowiązku wizowego na podstawie rozporządzenia 2018/1806 ☐
+4. Numer naklejki wizowej wizy krótkoterminowej:
+5. Trzyliterowy kod wydającego państwa członkowskiego*:
+6. Rodzaj wizy krótkoterminowej*:
+7. Data zakończenia maksymalnego pobytu dozwolonego na podstawie wizy krótkoterminowej (DD-MM-RRRR):
+8. Data upływu ważności wizy krótkoterminowej (DD-MM-RRRR):
+9. Liczba wjazdów i okres pobytu zgodnie z informacjami na naklejce wizowej wizy krótkoterminowej (tylko przy pierwszym wjeździe):
+10. Informacje, że wiza krótkoterminowa została wydana z ograniczoną ważnością terytorialną, zgodnie z art. 25 ust. 1 lit. b rozporządzenia nr (WE) 810/2009 : ☐ wiza wydana z ograniczoną ważnością terytorialną ☐ wiza bez ograniczonej ważności terytorialnej
+11. W przypadku państw członkowskich, które nie stosują w pełni dorobku Schengen, ale posługują się EES – powiadomienie wskazujące, czy obywatel państwa trzeciego korzystał przy wjeździe z krajowej wizy krótkoterminowej: ☐ korzystał z wizy krajowej krótkoterminowej ☐ nie korzystał z wizy krajowej krótkoterminowej H. DANE DOTYCZĄCE ODMOWY WJAZDU
+1. Nazwisko: 2. Imię lub imiona:
+3. Data urodzenia (DD-MM-RRRR): 4. Obywatelstwo lub obywatelstwa*:
+5. Płeć*: 6. Rodzaj, seria i numer dokumentu podróży lub dokumentów podróży i trzyliterowy kod państwa
+7. Data upływu ważności dokumentu podróży lub wydającego dokument podróży lub dokumenty dokumentów podróży podróży*: (DD-MM-RRRR):
+8. Informacja, czy obywatel państwa trzeciego korzysta z krajowego programu ułatwień państwa członkowskiego, zgodnie z art. 8d rozporządzenia 2016/399 : ☐ korzysta z krajowego programu ułatwień ☐ nie korzysta z krajowego programu ułatwień
+9. Data i godzina odmowy wjazdu 10. Przejście graniczne: (DD-MM-RRRR / GG:MM):
+11. Organ, który odmówił wjazdu: 12. Litera lub litery odpowiadające przesłankom odmowy wjazdu, zgodnie z częścią B załącznika V do rozporządzenia 2016/399 *:
+13. Obywatel państwa trzeciego zwolniony z obowiązku wizowego na podstawie rozporządzenia nr 2018/1806
+14. Numer naklejki wizowej wizy krótkoterminowej:
+15. Trzyliterowy kod wydającego państwa członkowskiego*:
+16. Rodzaj wizy krótkoterminowej*:
+17. Data zakończenia maksymalnego okresu pobytu dozwolonego na podstawie wizy krótkoterminowej (DD-MM-RRRR):
+18. Data upływu ważności wizy krótkoterminowej (DD-MM-RRRR):
+19. Liczba wjazdów i okres pobytu zgodnie z informacjami na naklejce wizowej wizy krótkoterminowej (tylko przy pierwszym wjeździe):
+20. Informacje, że wiza krótkoterminowa została wydana z ograniczoną ważnością terytorialną, zgodnie z art. 25 ust. 1 lit. b rozporządzenia nr (WE) 810/2009 : ☐ wiza wydana z ograniczoną ważnością terytorialną ☐ wiza bez ograniczonej ważności terytorialnej
+21. W przypadku państw członkowskich, które nie stosują w pełni dorobku Schengen, ale posługują się EES – powiadomienie wskazujące, czy obywatel państwa trzeciego korzystał przy wjeździe z krajowej wizy krótkoterminowej: ☐ korzystał z wizy krajowej krótkoterminowej ☐ nie korzystał z wizy krajowej krótkoterminowej I. DANE DOTYCZĄCE USUNIĘCIA Z WYKAZU, O KTÓRYM MOWA W ART. 12 UST. 3 ROZPORZĄDZENIA 2017/2226 Podstawy usunięcia z wykazu: Dziennik Ustaw – 15 – Załącznik nr Poz. 5 1147 WZÓR WZÓR WNIOSEK O USUNIĘCIE DANYCH W PRZYPADKU UZYSKANIA PRZEZ OBYWATELA PAŃSTWA TRZECIEGO POLSKIEGO OBYWATELSTWA LUB OBJĘCIA GO ZAKRESEM ART. 2 UST. 3 ROZPORZĄDZENIA 2017/2226 , ZGODNIE Z ART. 35 UST. 6 ROZPORZĄDZENIA 2017/2226 A. ORGAN WNIOSKUJĄCY Nazwa organu: Znak sprawy: Telefon kontaktowy: Data wypełnienia (DD-MM-RRRR): Pieczęć i podpis osoby upoważnionej: B. INFORMACJE O WYSTĄPIENIU PRZYCZYN NIEZALEŻNYCH, KTÓRE UZASADNIAJĄ DOSTĘP DO SYSTEMU WJAZDU/WYJAZDU, ZWANEGO DALEJ „EES”, ZA POŚREDNICTWEM KRAJOWEJ JEDNOSTKI DS. EES C. RODZAJ OPERACJI Usunięcie D. PODSTAWA PRAWNA WPISU Usunięcie danych w przypadku uzyskania przez obywatela państwa trzeciego obywatelstwa państwa członkowskiego lub objęcia go zakresem art. 2 ust 3 rozporządzenia 2017/2226 , zgodnie z art. 35 ust. 6 rozporządzenia 2017/2226 E. PODSTAWY USUNIĘCIA Z EES LUB WYKAZU, O KTÓRYM MOWA W ART. 12 UST. 3 ROZPORZĄDZENIA 2017/2226 UWAGA: Usunięcie rejestru indywidualnego skutkuje usunięciem wszystkich powiązanych z nim wpisów dotyczących wjazdu/wyjazdu oraz odmów wjazdu F. REJESTR INDYWIDUALNY
+1. Nazwisko: 2. Imię lub imiona:
+3. Data urodzenia (DD-MM-RRRR): 4. Obywatelstwo lub obywatelstwa*:
+5. Płeć*: 6. Rodzaj, seria i numer dokumentu podróży lub dokumentów podróży i trzyliterowy kod państwa
+7. Data upływu ważności dokumentu podróży lub wydającego dokument podróży lub dokumenty dokumentów podróży podróży*: (DD-MM-RRRR):
+8. Informacja, czy obywatel państwa trzeciego korzysta z krajowego programu ułatwień państwa członkowskiego, zgodnie z art. 8d rozporządzenia 2016/399 : ☐ korzysta z krajowego programu ułatwień ☐ nie korzysta z krajowego programu ułatwień
+9. Data rozpoczęcia pobytu krótkoterminowego (DD-MM-RRRR):
+10. Organ dokonujący wpisu:
+

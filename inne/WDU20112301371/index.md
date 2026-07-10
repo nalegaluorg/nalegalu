@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-10-27 |
-| Ostatnia zmiana | 2026-06-11 |
+| Ostatnia zmiana | 2026-06-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112301371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1371/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -53,7 +53,7 @@ source: pdf
 3. Ustawę stosuje się również do wymiany oraz przetwarzania informacji:
 
 - **1)** (uchylony)
-- **2)** w sposób całkowicie lub częściowo zautomatyzowany, zgromadzonych w zbiorach danych referencyjnych, w szczególności obejmujących dane o wynikach analizy kwasu deoksyrybonukleinowego (DNA), oraz w zbiorach danych daktyloskopijnych;
+- **2)** w sposób całkowicie lub częściowo zautomatyzowany, zgromadzonych w zbiorach danych referencyjnych, w szczególności obejmujących dane o wynikach analizy kwasu deoksyrybonukleinowego (DNA), oraz w zbiorach danych biometrycznych;
 - **3)** uzyskanych przez podmioty, o których mowa w ust. 2, od Generalnego Inspektora Informacji Finansowej, obejmujących informacje finansowe, o których mowa w art. 2 ust. 2 pkt 10a ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2025 r. poz. 644 i 1669), oraz analizy finansowe, o których mowa w art. 2 ust. 2 pkt 1a tej ustawy.
 
 4. Ustawa nie narusza przepisów o pomocy prawnej w sprawach karnych oraz postanowień umów międzynarodowych dotyczących współpracy w sprawach zapobiegania przestępczości, jej zwalczania oraz współdziałania na terenach przygranicznych.
@@ -157,7 +157,7 @@ source: pdf
 - **13)** Systemu Informacji Finansowej;
 - **14)** Systemu Rejestracji Broni.
 
-2. Punkt kontaktowy posiada pośredni dostęp do zbiorów danych zawierających informacje o wynikach analizy kwasu deoksyrybonukleinowego (DNA) oraz zbiorów danych daktyloskopijnych prowadzonych na podstawie przepisów ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366).
+2. Punkt kontaktowy posiada pośredni dostęp do zbiorów danych zawierających informacje o wynikach analizy kwasu deoksyrybonukleinowego (DNA) oraz zbiorów danych biometrycznych prowadzonych na podstawie przepisów ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, z późn. zm. ).
 
 3. Punkt kontaktowy posiada pośredni dostęp do zbiorów danych i rejestrów, administrowanych przez podmioty uprawnione, o których mowa w art. 1 ust. 2, w zakresie niezbędnym do realizacji jego zadań.
 

@@ -73,6 +73,7 @@ saos_id|date|court|case_number|type|score|saos_url
 90542|2009-07-08|SN|II CNP 32/09|Postanowienie|69|https://www.saos.org.pl/judgments/90542
 90493|2009-06-26|SN|V CNP 37/09|Postanowienie|69|https://www.saos.org.pl/judgments/90493
 88343|2008-06-27|SN|III CZP 25/08|Postanowienie|69|https://www.saos.org.pl/judgments/88343
+547554|2026-02-18|SO|I ACa 810/23|Wyrok|56|https://www.saos.org.pl/judgments/547554
 540833|2025-12-29|SO|I ACa 146/25|Wyrok|56|https://www.saos.org.pl/judgments/540833
 544996|2025-12-08|SO|I ACa 230/23|Wyrok|56|https://www.saos.org.pl/judgments/544996
 538176|2025-11-05|SO|I ACa 2473/23|Wyrok|56|https://www.saos.org.pl/judgments/538176
@@ -91,6 +92,7 @@ saos_id|date|court|case_number|type|score|saos_url
 539015|2025-03-27|SO|I ACa 4026/24|Wyrok|56|https://www.saos.org.pl/judgments/539015
 539642|2025-03-24|SO|I AGa 15/18|Wyrok|56|https://www.saos.org.pl/judgments/539642
 531770|2025-03-20|SO|III APa 6/24|Wyrok|56|https://www.saos.org.pl/judgments/531770
+547548|2025-02-20|SO|I ACa 2379/23|Wyrok|56|https://www.saos.org.pl/judgments/547548
 537533|2025-02-17|SO|I AGa 104/23|Wyrok|56|https://www.saos.org.pl/judgments/537533
 536876|2025-02-17|SO|I ACa 245/23|Wyrok|56|https://www.saos.org.pl/judgments/536876
 536083|2025-02-06|SO|I ACa 1585/22|Wyrok|56|https://www.saos.org.pl/judgments/536083
@@ -4081,6 +4083,7 @@ saos_id|date|court|case_number|type|score|saos_url
 144831|2014-03-04|SO|I Co 419/13|Postanowienie|31|https://www.saos.org.pl/judgments/144831
 546473|2026-05-18|SO|XIII Ga 477/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/546473
 546577|2026-05-12|SO|VII C 683/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/546577
+547320|2026-03-31|SO|V GC 1189/24|Zarządzenie|27|https://www.saos.org.pl/judgments/547320
 543673|2025-11-28|SO|V GC 1494/24|Zarządzenie|27|https://www.saos.org.pl/judgments/543673
 536418|2025-10-29|SO|I C 34/24|Zarządzenie|27|https://www.saos.org.pl/judgments/536418
 545536|2025-10-06|SO|VII C 1348/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/545536

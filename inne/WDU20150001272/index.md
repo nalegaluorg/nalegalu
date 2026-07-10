@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2015-07-24 |
 | Data wydania | 2015-08-31 |
-| Ostatnia zmiana | 2026-01-27 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001272) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1272/text.pdf) |
 
 **Art. 1.** Ustawa określa:
@@ -327,7 +327,7 @@ source: pdf
 
 2. Podmiotem objętym ochroną jest przedsiębiorca z siedzibą w Rzeczypospolitej Polskiej, który:
 
-- **1)** posiada mienie, które zostało ujawnione w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. ), lub
+- **1)** posiada mienie, które zostało ujawnione w wykazie, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. ), lub
 - **2)** opracowuje lub modyfikuje oprogramowanie:
     - **a)** do sterowania elektrowniami, sieciami lub obsługą obiektów lub systemów zaopatrzenia w energię elektryczną, gaz, paliwo, olej opałowy lub ciepło sieciowe, lub
     - **b)** do zarządzania, kontrolowania i automatyzacji instalacji zaopatrzenia w wodę pitną lub oczyszczania ścieków, lub

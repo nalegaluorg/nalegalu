@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-11 |
 | Data wydania | 2023-08-18 |
-| Ostatnia zmiana | 2025-12-10 |
+| Ostatnia zmiana | 2026-06-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001642) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1642/text.pdf) |
 
 w sprawie katalogu danych gromadzonych w centralnej ewidencji pojazdów Na podstawie art. 80b ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) zarządza się, co następuje:

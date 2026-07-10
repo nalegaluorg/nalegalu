@@ -773,11 +773,14 @@ saos_id|date|court|case_number|type|score|saos_url
 162915|2005-01-19|SN|I CK 641/04|Postanowienie|69|https://www.saos.org.pl/judgments/162915
 79964|2000-09-27|SN|V CKN 1442/00|Postanowienie|69|https://www.saos.org.pl/judgments/79964
 76788|1995-03-02|SN|I PZP 3/95|Postanowienie|69|https://www.saos.org.pl/judgments/76788
+547653|2026-04-28|SO|I ACa 2774/23|Wyrok|56|https://www.saos.org.pl/judgments/547653
+547652|2026-04-28|SO|I ACa 2756/23|Wyrok|56|https://www.saos.org.pl/judgments/547652
 545830|2026-04-28|SO|I AGa 137/24|Wyrok|56|https://www.saos.org.pl/judgments/545830
 545293|2026-03-11|SO|VII AGa 1069/23|Wyrok|56|https://www.saos.org.pl/judgments/545293
 545301|2026-03-10|SO|I AGa 173/25|Wyrok|56|https://www.saos.org.pl/judgments/545301
 543190|2026-02-04|SO|III APa 6/25|Wyrok|56|https://www.saos.org.pl/judgments/543190
 546676|2026-01-30|SO|I ACa 838/23|Wyrok|56|https://www.saos.org.pl/judgments/546676
+547469|2026-01-20|SO|I ACa 794/23|Wyrok|56|https://www.saos.org.pl/judgments/547469
 543147|2026-01-13|SO|I ACa 74/25|Wyrok|56|https://www.saos.org.pl/judgments/543147
 543135|2026-01-12|SO|I ACa 1666/25|Wyrok|56|https://www.saos.org.pl/judgments/543135
 546502|2025-12-11|SO|I ACa 491/23|Wyrok|56|https://www.saos.org.pl/judgments/546502
@@ -790,6 +793,7 @@ saos_id|date|court|case_number|type|score|saos_url
 544445|2025-11-05|SO|I ACa 3350/24|Wyrok|56|https://www.saos.org.pl/judgments/544445
 540867|2025-10-30|SO|V ACa 641/25|Wyrok|56|https://www.saos.org.pl/judgments/540867
 543848|2025-10-20|SO|I ACa 1209/22|Wyrok|56|https://www.saos.org.pl/judgments/543848
+547346|2025-09-24|SO|I ACa 1762/25|Wyrok|56|https://www.saos.org.pl/judgments/547346
 537063|2025-09-18|SO|I ACa 2040/22|Wyrok|56|https://www.saos.org.pl/judgments/537063
 535190|2025-09-12|SO|VII AGa 7/25|Wyrok|56|https://www.saos.org.pl/judgments/535190
 543375|2025-09-10|SO|I ACa 3161/23|Wyrok|56|https://www.saos.org.pl/judgments/543375
@@ -5077,6 +5081,7 @@ saos_id|date|court|case_number|type|score|saos_url
 411714|2017-12-11|SO|II AKa 35/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/411714
 126217|2014-12-10|SO|I ACa 921/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/126217
 5998|2012-12-28|SO|I ACa 893/12|Uzasadnienie|42|https://www.saos.org.pl/judgments/5998
+547592|2026-05-27|SO|VII Pa 187/25|Wyrok|40|https://www.saos.org.pl/judgments/547592
 545249|2026-02-17|SO|I C 1035/24|Wyrok|40|https://www.saos.org.pl/judgments/545249
 545273|2026-02-04|SO|I C 741/24|Wyrok|40|https://www.saos.org.pl/judgments/545273
 545153|2026-02-04|SO|I C 176/25|Wyrok|40|https://www.saos.org.pl/judgments/545153
@@ -5294,6 +5299,7 @@ saos_id|date|court|case_number|type|score|saos_url
 456038|2021-11-09|SO|I C 1833/20|Wyrok|40|https://www.saos.org.pl/judgments/456038
 453870|2021-11-05|SO|II Ca 1147/21|Wyrok|40|https://www.saos.org.pl/judgments/453870
 457730|2021-10-28|SO|VI P 211/20|Wyrok|40|https://www.saos.org.pl/judgments/457730
+547628|2021-10-25|SO|XII Ga 150/20|Wyrok|40|https://www.saos.org.pl/judgments/547628
 474602|2021-10-20|SO|I C 2319/20|Wyrok|40|https://www.saos.org.pl/judgments/474602
 483509|2021-10-18|SO|III C 2067/17|Wyrok|40|https://www.saos.org.pl/judgments/483509
 474575|2021-10-08|SO|I C 147/18|Wyrok|40|https://www.saos.org.pl/judgments/474575
@@ -7104,6 +7110,8 @@ saos_id|date|court|case_number|type|score|saos_url
 125548|2014-06-24|SO|XV Ca 445/14|Postanowienie|31|https://www.saos.org.pl/judgments/125548
 50159|2014-03-20|SO|II Ca 2374/13|Postanowienie|31|https://www.saos.org.pl/judgments/50159
 27078|2013-11-15|SO|IV Ca 1642/12|Postanowienie|31|https://www.saos.org.pl/judgments/27078
+547427|2026-05-04|SO|VI C 1081/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/547427
+547320|2026-03-31|SO|V GC 1189/24|Zarządzenie|27|https://www.saos.org.pl/judgments/547320
 540990|2026-01-21|SO|XIII Ga 110/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/540990
 543446|2025-12-30|SO|I C 12/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/543446
 541889|2025-12-04|SO|I C 509/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/541889

@@ -832,9 +832,11 @@ saos_id|date|court|case_number|type|score|saos_url
 79790|2000-06-20|SN|I PKN 262/00|Postanowienie|69|https://www.saos.org.pl/judgments/79790
 79529|2000-02-03|SN|III RN 128/99|Postanowienie|69|https://www.saos.org.pl/judgments/79529
 78356|1998-05-26|SN|III SW 1/98|Postanowienie|69|https://www.saos.org.pl/judgments/78356
+547689|2026-05-13|SO|III AUa 2142/24|Wyrok|56|https://www.saos.org.pl/judgments/547689
 545511|2026-04-28|SO|III AUa 595/25|Wyrok|56|https://www.saos.org.pl/judgments/545511
 544844|2026-04-09|SO|III AUa 694/25|Wyrok|56|https://www.saos.org.pl/judgments/544844
 546030|2026-04-07|SO|III AUa 26/26|Wyrok|56|https://www.saos.org.pl/judgments/546030
+547210|2026-03-31|SO|III AUa 785/25|Wyrok|56|https://www.saos.org.pl/judgments/547210
 541284|2026-01-22|SO|III AUa 346/25|Wyrok|56|https://www.saos.org.pl/judgments/541284
 543147|2026-01-13|SO|I ACa 74/25|Wyrok|56|https://www.saos.org.pl/judgments/543147
 546052|2025-11-26|SO|I ACa 236/23|Wyrok|56|https://www.saos.org.pl/judgments/546052
@@ -2252,6 +2254,7 @@ saos_id|date|court|case_number|type|score|saos_url
 535298|2025-09-11|SO|VIII U 1965/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/535298
 535285|2025-09-05|SO|VIII U 1220/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/535285
 535293|2025-09-03|SO|VIII U 1392/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/535293
+547662|2025-08-13|SO|I C 1921/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/547662
 535941|2025-08-07|SO|IV U 576/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/535941
 534934|2025-08-05|SO|IV U 555/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/534934
 534842|2025-08-05|SO|IV U 683/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/534842

@@ -348,6 +348,8 @@ saos_id|date|court|case_number|type|score|saos_url
 79139|1999-07-06|SN|II UZ 69/99|Postanowienie|69|https://www.saos.org.pl/judgments/79139
 78588|1998-10-07|SN|II UKN 247/98|Postanowienie|69|https://www.saos.org.pl/judgments/78588
 545235|2026-03-30|SO|V ACa 662/17|Wyrok|56|https://www.saos.org.pl/judgments/545235
+547171|2026-03-04|SO|I ACa 4442/24|Wyrok|56|https://www.saos.org.pl/judgments/547171
+547130|2026-02-23|SO|I ACa 223/20|Wyrok|56|https://www.saos.org.pl/judgments/547130
 546885|2026-02-02|SO|I ACa 3947/24|Wyrok|56|https://www.saos.org.pl/judgments/546885
 538173|2025-10-29|SO|I ACa 1145/23|Wyrok|56|https://www.saos.org.pl/judgments/538173
 544341|2025-10-17|SO|I ACa 2386/23|Wyrok|56|https://www.saos.org.pl/judgments/544341
@@ -373,6 +375,7 @@ saos_id|date|court|case_number|type|score|saos_url
 545819|2024-10-04|SO|V ACa 2504/23|Wyrok|56|https://www.saos.org.pl/judgments/545819
 545286|2024-10-01|SO|V ACa 2221/23|Wyrok|56|https://www.saos.org.pl/judgments/545286
 545118|2024-09-09|SO|V ACa 1721/23|Wyrok|56|https://www.saos.org.pl/judgments/545118
+547534|2024-09-06|SO|V ACa 2661/23|Wyrok|56|https://www.saos.org.pl/judgments/547534
 528899|2024-08-30|SO|I AGa 169/24|Wyrok|56|https://www.saos.org.pl/judgments/528899
 529480|2024-07-01|SO|I ACa 59/23|Wyrok|56|https://www.saos.org.pl/judgments/529480
 494536|2024-06-27|SO|I ACa 75/24|Wyrok|56|https://www.saos.org.pl/judgments/494536
@@ -10223,6 +10226,7 @@ saos_id|date|court|case_number|type|score|saos_url
 140799|2012-12-21|SO|I Ns 273/11|Postanowienie|31|https://www.saos.org.pl/judgments/140799
 136359|2012-11-23|SO|I Ns 208/12|Postanowienie|31|https://www.saos.org.pl/judgments/136359
 541736|2026-01-15|SO|VIII Pa 188/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/541736
+547662|2025-08-13|SO|I C 1921/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/547662
 541144|2024-08-19|SO|III Ca 345/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/541144
 541142|2024-08-19|SO|III Ca 321/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/541142
 517452|2024-08-06|SO|VIII Pa 100/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/517452

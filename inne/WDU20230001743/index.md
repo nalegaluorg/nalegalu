@@ -76,8 +76,7 @@ source: pdf
 **Art. 4.** Ustawy nie stosuje się do:
 
 - **1)** broni historycznej, to jest broni palnej rozdzielnego ładowania, przystosowanej do strzelania wyłącznie przy wykorzystaniu prochu czarnego, wytworzonej przed 1900 r.;
-- **2)** broni palnej wpisanej do inwentarza muzealiów, o którym mowa w art. 21 ust. 1 i 1a ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385), lub wpisanej do rejestru zabytków albo na Listę Skarbów Dziedzictwa lub ujętej w wojewódzkiej ewidencji zabytków, o których mowa odpowiednio w art. 8 ust. 1, art. 14a oraz art. 22 ust. 2 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz.
-- **951)** ;
+- **2)** broni palnej wpisanej do inwentarza muzealiów, o którym mowa w art. 21 ust. 1 i 1a ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385), lub wpisanej do rejestru zabytków albo na Listę Skarbów Dziedzictwa lub ujętej w wojewódzkiej ewidencji zabytków, o których mowa odpowiednio w art. 8 ust. 1, art. 14a oraz art. 22 ust. 2 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951);
 - **3)** atrap broni niezdolnych do miotania pocisków z wykorzystaniem energii produktów powstałych w wyniku reakcji chemicznej ładunku miotającego i przekrojów broni służących do prezentacji sposobu działania mechanizmów broni – jeżeli nie zawierają istotnych części, które można wykorzystać zgodnie z ich przeznaczeniem w broni palnej.
 
 **Art. 4a.** Przepisów ustawy nie stosuje się do Rządowej Agencji Rezerw Strategicznych wykonującej zadania w zakresie tworzenia, utrzymywania i udostępnienia rezerw strategicznych oraz zadania na podstawie art. 29 i art. 32 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2023 r. poz. 294).
@@ -1952,9 +1951,8 @@ source: pdf
 
 **Art. 174.** Traci moc ustawa z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2018 r. poz. 2037 oraz z 2019 r. poz. 55).
 
-**Art. 175.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem przepisów art. 10 ust. 2, art. 17 ust. 2 pkt 2, art. 47 ust. 4 i 5, art. 59 ust. 4 i 5, art. 63 ust. 1 pkt 3, działu IV, art. 143 pkt 3, art. 171 oraz załącznika do ustawy, które wchodzą w życie z dniem 14 grudnia 2019 r. Załącznik do ustawy z dnia 13 czerwca 2019 r. (Dz. U. z 2023 r. poz.
+**Art. 175.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem przepisów art. 10 ust. 2, art. 17 ust. 2 pkt 2, art. 47 ust. 4 i 5, art. 59 ust. 4 i 5, art. 63 ust. 1 pkt 3, działu IV, art. 143 pkt 3, art. 171 oraz załącznika do ustawy, które wchodzą w życie z dniem 14 grudnia 2019 r. Załącznik do ustawy z dnia 13 czerwca 2019 r. (Dz. U. z 2023 r. poz. 1743) KATEGORIE I PODKATEGORIE STRZELECKIEJ BRONI PALNEJ I AMUNICJI DO STRZELECKIEJ BRONI PALNEJ Do celów niniejszego załącznika określenie:
 
-- **1743)** KATEGORIE I PODKATEGORIE STRZELECKIEJ BRONI PALNEJ I AMUNICJI DO STRZELECKIEJ BRONI PALNEJ Do celów niniejszego załącznika określenie:
 - **1)** „krótka strzelecka broń palna” oznacza strzelecką broń palną z lufą, której długość nie przekracza 30 cm lub której całkowita długość nie przekracza 60 centymetrów;
 - **2)** „długa strzelecka broń palna” oznacza każdą strzelecką broń palną inną niż krótka strzelecka broń palna;
 - **3)** „samoczynna strzelecka broń palna” oznacza strzelecką broń palną, która ładuje się automatycznie po każdorazowym oddaniu strzału i która może oddać więcej niż jeden strzał przy jednym uruchomieniu urządzenia spustowego;

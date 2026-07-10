@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1990-03-08 |
 | Data wydania | 1990-03-19 |
-| Ostatnia zmiana | 2026-06-05 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900160095) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/95/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

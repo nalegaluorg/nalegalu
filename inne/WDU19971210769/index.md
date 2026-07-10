@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-20 |
 | Data wydania | 1997-10-07 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971210769) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -74,7 +74,9 @@ source: pdf
 - **3)** utworzenie i eksploatacja połączeń Rejestru i katalogu w systemie teleinformatycznym;
 - **4)** utworzenie i eksploatacja połączeń Rejestru z systemem integracji rejestrów.
 
-3. Centralna Informacja wydaje odpisy, wyciągi i zaświadczenia oraz udziela informacji z Rejestru, które mają moc dokumentów urzędowych, jeżeli zostały wydane w postaci papierowej lub elektronicznej.
+3. Centralna Informacja wydaje odpisy, wyciągi i zaświadczenia oraz udziela informacji z Rejestru, które mają moc dokumentów urzędowych, jeżeli zostały wydane w postaci papierowej lub elektronicznej;
+
+- **5)** pełnienie funkcji organu zbierającego dane w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. ) w zakresie informacji, o których mowa w art. 63zf ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2026 r. poz. 522, 640 i 644).
 
 3a. Centralna Informacja wydaje z katalogu, za pośrednictwem systemu teleinformatycznego, dokumenty złożone w postaci elektronicznej albo kopie dokumentów złożonych w postaci papierowej poświadczone za zgodność z dokumentami znajdującymi się w aktach rejestrowych podmiotu.
 
@@ -311,11 +313,15 @@ source: pdf
 1. Informacja o:
 
 - **1)** zarejestrowaniu w systemie teleinformatycznym sprawy obejmująca numer w Rejestrze, sygnaturę sprawy i datę rejestracji sprawy albo
-- **2)** dokonaniu wpisu w pozycji Rejestru obejmująca numer w Rejestrze, sygnaturę sprawy, datę dokonania wpisu i numer wpisu – dotycząca podmiotu wpisanego do rejestru, o którym mowa w art. 1 ust. 2 pkt 1 lub 2, jest automatycznie przesyłana za pośrednictwem systemu teleinformatycznego każdemu, kto za pośrednictwem tego systemu wskazał numer w Rejestrze podmiotu, którego informacja ta ma dotyczyć. <1a. Informacje, o których mowa w ust. 1, mogą być automatycznie przesyłane za pośrednictwem aplikacji mObywatel, o której mowa w ustawie z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019), użytkownikowi tej aplikacji, który za jej pośrednictwem wskazał numer w Rejestrze podmiotu, którego informacja ta ma dotyczyć, a z którym użytkownik ten jest powiązany przez numer PESEL.>
+- **2)** dokonaniu wpisu w pozycji Rejestru obejmująca numer w Rejestrze, sygnaturę sprawy, datę dokonania wpisu i numer wpisu – dotycząca podmiotu wpisanego do rejestru, o którym mowa w art. 1 ust. 2 pkt 1 lub 2, jest automatycznie przesyłana za pośrednictwem systemu teleinformatycznego każdemu, kto za pośrednictwem tego systemu wskazał numer w Rejestrze podmiotu, którego informacja ta ma dotyczyć.
 
-2. [Informacje, o których mowa w ust. 1, są przesyłane przez wskazany okres, nie dłużej niż przez rok, albo do chwili rezygnacji z otrzymywania tych informacji.] <Informacje, o których mowa w ust. 1 i 1a, są przesyłane przez wskazany okres, niedłużej niż przez rok, albo do chwili rezygnacji z otrzymywania tych informacji.> Dopuszczalne jest przedłużanie tego okresu, każdorazowo na czas nie dłuższy niż rok. [3. Każdemu przesyła się jednocześnie informacje dotyczące nie więcej niż pięćdziesięciu podmiotów.] <3. Jednocześnie przesyła się informacje, o których mowa w ust. 1 i 1a, dotyczące niewięcej niż pięćdziesięciu podmiotów za pośrednictwem systemu teleinformatycznego i niewięcej niż pięćdziesięciu podmiotów za pośrednictwem aplikacji mObywatel.>
+1a. Informacje, o których mowa w ust. 1, mogą być automatycznie przesyłane za pośrednictwem aplikacji mObywatel, o której mowa w ustawie z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019), użytkownikowi tej aplikacji, który za jej pośrednictwem wskazał numer w Rejestrze podmiotu, którego informacja ta ma dotyczyć, a z którym użytkownik ten jest powiązany przez numer PESEL.
 
-4. [Informacja jest przesyłana automatycznie po:]<Informacje, o których mowa w ust. 1 i 1a, są przesyłane automatycznie po:>
+2. Informacje, o których mowa w ust. 1 i 1a, są przesyłane przez wskazany okres, niedłużej niż przez rok, albo do chwili rezygnacji z otrzymywania tych informacji. Dopuszczalne jest przedłużanie tego okresu, każdorazowo na czas nie dłuższy niż rok.
+
+3. Jednocześnie przesyła się informacje, o których mowa w ust. 1 i 1a, dotyczące niewięcej niż pięćdziesięciu podmiotów za pośrednictwem systemu teleinformatycznego i niewięcej niż pięćdziesięciu podmiotów za pośrednictwem aplikacji mObywatel.
+
+4. Informacje, o których mowa w ust. 1 i 1a, są przesyłane automatycznie po:
 
 - **1)** zarejestrowaniu w systemie teleinformatycznym sprawy dotyczącej podmiotu, którego numer w Rejestrze wskazano – w przypadku informacji, o której mowa w ust. 1 pkt 1, albo
 - **2)** dokonaniu wpisu w pozycji Rejestru podmiotu, którego numer w Rejestrze wskazano – w przypadku informacji, o której mowa w ust. 1 pkt 2.
@@ -474,9 +480,7 @@ source: pdf
 
 1e. (uchylony) 1f. W przypadku pozytywnej weryfikacji w systemie teleinformatycznym zgłoszeń, o których mowa w art. 19e ust. 1 i 8, wpis polega na automatycznym zamieszczeniu w rejestrze przedsiębiorców wzmianek, o których mowa w 40 pkt 2– 5d i 7.
 
-1g. Po zamieszczeniu w repozytorium dokumentów finansowych sprawozdania finansowego lub sprawozdania z badania są one przesyłane za pośrednictwem systemu teleinformatycznego do Centralnego Rejestru Danych Podatkowych.
-
-1h. Wpis informacji o otwarciu likwidacji, zakończeniu likwidacji, ogłoszeniu upadłości, zakończeniu postępowania upadłościowego oraz o wykreśleniu przedsiębiorcy zagranicznego polega na ich automatycznym zamieszczeniu w Rejestrze po przekazaniu z właściwych rejestrów za pośrednictwem systemu integracji rejestrów.
+1g. Po zamieszczeniu w repozytorium dokumentów finansowych sprawozdania finansowego lub sprawozdania z badania są one przesyłane za pośrednictwem systemu teleinformatycznego do Centralnego Rejestru Danych Podatkowych. <1ga. Dokumenty, o których mowa w art. 63zf ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości, po ich zamieszczeniu w repozytorium dokumentów finansowych są przekazywane za pośrednictwem systemu teleinformatycznego do europejskiego pojedynczego punktu dostępu w rozumieniu art. 1 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju.> 1h. Wpis informacji o otwarciu likwidacji, zakończeniu likwidacji, ogłoszeniu upadłości, zakończeniu postępowania upadłościowego oraz o wykreśleniu przedsiębiorcy zagranicznego polega na ich automatycznym zamieszczeniu w Rejestrze po przekazaniu z właściwych rejestrów za pośrednictwem systemu integracji rejestrów.
 
 1i. (uchylony)
 
@@ -676,9 +680,7 @@ source: pdf
 
 7. Wierzyciel, któremu przysługuje należność podlegająca egzekucji administracyjnej, w tym Skarb Państwa, wystawia tytuł wykonawczy przeciwko Skarbowi Państwa. Jeżeli tytuł wykonawczy został wystawiony przeciwko podmiotowi wykreślonemu z Rejestru, wierzyciel wystawia nowy tytuł wykonawczy przeciwko Skarbowi Państwa i kieruje go do organu egzekucyjnego bez potrzeby dołączania dokumentu wykazującego przejście dochodzonego obowiązku na następcę prawnego. Tytuł wykonawczy wystawiony przeciwko Skarbowi Państwa stanowi podstawę do kontynuowania postępowania egzekucyjnego wszczętego wobec podmiotu wykreślonego z Rejestru, a dokonane czynności egzekucyjne pozostają w mocy.
 
-8. W przypadku gdy podmiotem wykreślonym z Rejestru jest spółdzielnia mieszkaniowa z chwilą nabycia przez Skarb Państwa jej mienia spółdzielcze lokatorskie prawo do lokalu mieszkalnego przekształca się w prawo najmu podlegające przepisom ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz.
-
-- **725)** , a spółdzielcze własnościowe prawo do lokalu przekształca się w prawo odrębnej własności lokalu lub we własność domu jednorodzinnego.
+8. W przypadku gdy podmiotem wykreślonym z Rejestru jest spółdzielnia mieszkaniowa z chwilą nabycia przez Skarb Państwa jej mienia spółdzielcze lokatorskie prawo do lokalu mieszkalnego przekształca się w prawo najmu podlegające przepisom ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725), a spółdzielcze własnościowe prawo do lokalu przekształca się w prawo odrębnej własności lokalu lub we własność domu jednorodzinnego.
 
 9. Na wniosek osoby, która na podstawie ust. 8, nabyła odrębną własność lokalu albo własność domu jednorodzinnego, lub innej osoby mającej w tym interes prawny, sąd stwierdza nabycie tego prawa w postępowaniu nieprocesowym. Postanowienie o stwierdzeniu nabycia prawa odrębnej własności lokalu ustala wielkość udziału właściciela w nieruchomości wspólnej zgodnie z uchwałą zarządu spółdzielni mieszkaniowej, o której mowa w art. 42 ust. 2–5 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558), a w przypadku jej braku – zgodnie z art. 3 ust. 3 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688).
 

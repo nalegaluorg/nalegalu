@@ -36,8 +36,7 @@ source: pdf
     - **b)** rzeczy stanowiące dowody rzeczowe oraz rzeczy zatrzymane, co do których zapadło prawomocne orzeczenie o wydaniu ich uprawnionemu lub złożeniu do depozytu sądowego,
     - **c)** środki pieniężne, papiery wartościowe i rzeczy złożone do depozytu jako kaucje i wadia;
 
-- **2)** jednostką sektora finansów publicznych jest jednostka wymieniona w art. 9 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz.
-- **1240)** ;
+- **2)** jednostką sektora finansów publicznych jest jednostka wymieniona w art. 9 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240);
 - **3)** likwidacją niepodjętego depozytu jest przejście praw do tego depozytu na rzecz Skarbu Państwa.
 
 **Art. 3.** Ustawy nie stosuje się do rzeczy, pieniędzy i papierów wartościowych złożonych do depozytu, jeżeli przepisy szczególne regulują postępowanie związane ze złożeniem ich do depozytu i likwidacją w razie ich niepodjęcia.

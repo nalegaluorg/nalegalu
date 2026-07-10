@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1998-12-17 |
 | Data wydania | 1998-12-30 |
-| Ostatnia zmiana | 2026-03-04 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981621117) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/1117/text.pdf) |
 
 **Art. 1.** Ustawa dotyczy użycia lub pobytu poza granicami państwa związków operacyjnych i taktycznych oraz oddziałów i pododdziałów, zwanych dalej „jednostkami wojskowymi”.

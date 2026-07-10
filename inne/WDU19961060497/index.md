@@ -251,12 +251,9 @@ source: pdf
 
 - **1)** z dnia 29 grudnia 1982 r. o urzędzie Ministra Finansów oraz o urzędach i izbach skarbowych (Dz.U. z 1994 r. Nr 106, poz. 511 i z 1995 r. Nr 142, poz. 702),
 - **2)** z dnia 12 listopada 1985 r. o zmianach w organizacji oraz zakresie działania niektórych naczelnych i centralnych organów administracji państwowej (Dz.U. Nr 50, poz. 262, z 1987 r. Nr 33, poz. 180, z 1989 r. Nr 30, poz. 163, Nr 64, poz. 387 i Nr 73, poz. 433 i 434 oraz z 1990 r. Nr 34, poz. 198),
-- **3)** z dnia 23 października 1987 r. o utworzeniu urzędu Ministra Gospodarki Przestrzennej i Budownictwa (Dz.U. Nr 33, poz. 173 i z 1989 r. Nr 30, poz.
-- **163)** ,
-- **4)** z dnia 23 października 1987 r. o utworzeniu urzędu Ministra Współpracy Gospodarczej z Zagranicą (Dz.U. Nr 33, poz. 176 i z 1989 r. Nr 75, poz.
-- **445)** ,
-- **5)** z dnia 23 grudnia 1988 r. o utworzeniu Centralnego Urzędu Planowania (Dz.U. Nr 41, poz. 327, z 1990 r. Nr 87, poz. 505 i z 1996 r. Nr 90, poz.
-- **404)** ,
+- **3)** z dnia 23 października 1987 r. o utworzeniu urzędu Ministra Gospodarki Przestrzennej i Budownictwa (Dz.U. Nr 33, poz. 173 i z 1989 r. Nr 30, poz. 163),
+- **4)** z dnia 23 października 1987 r. o utworzeniu urzędu Ministra Współpracy Gospodarczej z Zagranicą (Dz.U. Nr 33, poz. 176 i z 1989 r. Nr 75, poz. 445),
+- **5)** z dnia 23 grudnia 1988 r. o utworzeniu Centralnego Urzędu Planowania (Dz.U. Nr 41, poz. 327, z 1990 r. Nr 87, poz. 505 i z 1996 r. Nr 90, poz. 404),
 - **6)** z dnia 6 kwietnia 1990 r. o urzędzie Ministra Spraw Wewnętrznych (Dz.U. Nr 30, poz. 181 i z 1995 r. Nr 104, poz. 515),
 - **7)** z dnia 13 lipca 1990 r. o utworzeniu urzędu Ministra Przekształceń Własnościowych (Dz.U. Nr 51, poz. 299),
 - **8)** z dnia 28 czerwca 1991 r. o utworzeniu urzędu Ministra Przemysłu i Handlu (Dz.U. Nr 66, poz. 286),

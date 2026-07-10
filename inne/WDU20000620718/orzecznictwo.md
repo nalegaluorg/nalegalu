@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych.*
 
 Łącznie: **272** orzeczeń
-(pominięto 20 orzeczeń sądów rejonowych)
+(pominięto 23 orzeczeń sądów rejonowych)
 
 ## art. 2 (112)
 

@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2018-01-30 |
 | Data wydania | 2018-01-31 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/285/text.pdf) |
 
 w sprawie określenia terytoriów państw lub ich części poza granicami Rzeczypospolitej Polskiej, na obszarze których wykonywanie obowiązków służbowych przez funkcjonariuszy Służby Ochrony Państwa wymaga zawarcia umowy ubezpieczenia od następstw nieszczęśliwych wypadków Na podstawie art. 143 ust. 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138) zarządza się, co następuje:

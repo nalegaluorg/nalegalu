@@ -861,8 +861,7 @@ source: pdf
 2. Przepisów art. 47–49, art. 51, art. 54–55a i art. 57 nie stosuje się do działalności gospodarczej przedsiębiorców w zakresie objętym nadzorem weterynaryjnym na podstawie:
 
 - **1)** ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2024 r. poz. 12);
-- **2)** ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz.
-- **1580)** ;
+- **2)** ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580);
 - **3)** ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905 i 924);
 - **4)** (uchylony)
 - **5)** (uchylony)

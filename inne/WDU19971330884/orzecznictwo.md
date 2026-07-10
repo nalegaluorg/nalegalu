@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych*
 
 Łącznie: **126** orzeczeń
-(pominięto 272 orzeczeń sądów rejonowych)
+(pominięto 273 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 

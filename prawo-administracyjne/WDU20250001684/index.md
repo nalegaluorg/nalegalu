@@ -1304,9 +1304,7 @@ source: pdf
 
 1. Powiaty mogą tworzyć stowarzyszenia, w tym również z gminami i województwami.
 
-2. Do stowarzyszeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz.
-
-- **2261)** , z tym że dla założenia stowarzyszenia wymaganych jest co najmniej 3 założycieli.
+2. Do stowarzyszeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), z tym że dla założenia stowarzyszenia wymaganych jest co najmniej 3 założycieli.
 
 **Art. 75a.** Zasady przystępowania powiatu do międzynarodowych zrzeszeń społeczności lokalnych i regionalnych określają odrębne przepisy.
 

@@ -348,9 +348,7 @@ source: pdf
 
 1. Szkolenie oraz kurs doszkalający, o którym mowa w art. 11a ust. 2, może prowadzić podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego.
 
-2. Za podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2, może zostać uznany związek, o którym mowa w art. 22 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz.
-
-- **2261)** , który zrzesza co najmniej siedem organizacji pozarządowych świadczących poradnictwo obywatelskie nieprzerwanie w okresie co najmniej siedmiu lat bezpośrednio poprzedzających złożenie wniosku o uznanie za podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2.
+2. Za podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2, może zostać uznany związek, o którym mowa w art. 22 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), który zrzesza co najmniej siedem organizacji pozarządowych świadczących poradnictwo obywatelskie nieprzerwanie w okresie co najmniej siedmiu lat bezpośrednio poprzedzających złożenie wniosku o uznanie za podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2.
 
 3. Minister Sprawiedliwości, na wniosek związku, o którym mowa w ust. 2, wydaje decyzję w przedmiocie uznania tego związku, za podmiot uprawniony do prowadzenia szkolenia oraz kursu doszkalającego, o którym mowa w art. 11a ust. 2. Do wniosku dołącza się dokumenty potwierdzające spełnianie warunku, o którym mowa w ust. 2.
 

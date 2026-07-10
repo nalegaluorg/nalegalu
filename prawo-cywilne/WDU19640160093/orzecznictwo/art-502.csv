@@ -16,6 +16,7 @@ saos_id|date|court|case_number|type|score|saos_url
 162749|2004-12-03|SN|IV CK 613/03|Wyrok|78|https://www.saos.org.pl/judgments/162749
 95108|2011-06-01|SN|II CSK 427/10|Postanowienie|69|https://www.saos.org.pl/judgments/95108
 85430|2007-03-15|SN|II CNP 31/07|Postanowienie|69|https://www.saos.org.pl/judgments/85430
+547468|2026-02-16|SO|I ACa 783/23|Wyrok|56|https://www.saos.org.pl/judgments/547468
 545920|2025-11-28|SO|I ACa 433/24|Wyrok|56|https://www.saos.org.pl/judgments/545920
 546794|2025-11-17|SO|I ACa 2351/24|Wyrok|56|https://www.saos.org.pl/judgments/546794
 537060|2025-09-10|SO|I ACa 1932/22|Wyrok|56|https://www.saos.org.pl/judgments/537060
@@ -296,6 +297,7 @@ saos_id|date|court|case_number|type|score|saos_url
 64794|2014-09-30|SO|X Ga 436/14|Wyrok|40|https://www.saos.org.pl/judgments/64794
 56454|2014-05-27|SO|XV Ca 179/14|Wyrok|40|https://www.saos.org.pl/judgments/56454
 498622|2024-04-22|SO|I C 5507/23|Postanowienie|31|https://www.saos.org.pl/judgments/498622
+547568|2026-05-27|SO|II C 19/26|Uzasadnienie|27|https://www.saos.org.pl/judgments/547568
 531588|2025-06-23|SO|II C 2189/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/531588
 533876|2025-04-23|SO|II C 287/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/533876
 521351|2025-01-17|SO|II C 1325/24|Zarządzenie|27|https://www.saos.org.pl/judgments/521351

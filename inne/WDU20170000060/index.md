@@ -195,9 +195,8 @@ source: pdf
     - **n)** pkt 21c otrzymuje brzmienie: „21c) egzaminie maturalnym – należy przez to rozumieć egzamin przeprowadzany dla absolwentów posiadających wykształcenie średnie lub wykształcenie średnie branżowe, umożliwiający uzyskanie świadectwa dojrzałości;”,
     - **o)** po pkt 21c dodaje się pkt 21d w brzmieniu: „21d) egzaminie ósmoklasisty – należy przez to rozumieć egzamin przeprowadzany w ostatnim roku nauki w szkole podstawowej, a w szkole artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej – w klasie, której zakres nauczania odpowiada klasie VIII szkoły podstawowej, sprawdzający wiadomości i umiejętności ucznia lub słuchacza określone w podstawie programowej kształcenia ogólnego;”,
     - **p)** pkt 22 otrzymuje brzmienie: „22) opłatach za korzystanie z wychowania przedszkolnego – należy przez to rozumieć opłaty za nauczanie, wychowanie i opiekę w przedszkolu, oddziale przedszkolnym w szkole podstawowej lub innej formie wychowania przedszkolnego, prowadzone w czasie przekraczającym czas bezpłatnego nauczania, wychowania i opieki, ustalony zgodnie z art. 13 ust. 1 pkt 2, ust. 2 lub 3 ustawy – Prawo oświatowe;”,
-    - **q)** w pkt 33 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „34) ustawie – Prawo oświatowe – należy przez to rozumieć ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz.
+    - **q)** w pkt 33 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „34) ustawie – Prawo oświatowe – należy przez to rozumieć ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59).”;
 
-- **59)** .”;
 - **4)** w art. 3 w pkt 13c oraz w art. 9ca w ust. 7 w pkt 3 wyrazy „art. 24 ust. 1” zastępuje się wyrazami „art. 46 ust. 1 ustawy – Prawo oświatowe”;
 - **5)** użyte w art. 3 w pkt 18, w art. 22ae w ust. 5a w pkt 1, w art. 22aga, w art. 44i w ust. 7 w pkt 1, w art. 44zr, w art. 44zzr w ust. 8, w art. 44zzzh w ust. 1 oraz w art. 44zzzx, w różnym przypadku i liczbie, wyrazy „upośledzenie umysłowe” zastępuje się użytymi w odpowiednim przypadku i odpowiedniej liczbie wyrazami „niepełnosprawność intelektualna”;
 - **6)** uchyla się art. 4–5f;
@@ -1004,8 +1003,7 @@ source: pdf
 
 **Art. 88.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2016 r. poz. 627, 904, 1241, 1579, 1948 i 2001) wprowadza się następujące zmiany:
 
-- **1)** w art. 31 w ust. 1 pkt 5 otrzymuje brzmienie: „5) posiada akredytację kuratora oświaty, o której mowa w art. 118 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz.
-- **59)** .”;
+- **1)** w art. 31 w ust. 1 pkt 5 otrzymuje brzmienie: „5) posiada akredytację kuratora oświaty, o której mowa w art. 118 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59).”;
 - **2)** w art. 41 ust. 1 otrzymuje brzmienie: „1. W podstawie programowej kształcenia ogólnego w poszczególnych typach szkół, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. b–h ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zawiera się treści umożliwiające przygotowanie ucznia szkoły podstawowej do ubiegania się o wydanie karty rowerowej.”;
 - **3)** w art. 58 w ust. 1 w pkt 1 oraz w art. 117 w ust. 2 w pkt 1 wyraz „średnie” zastępuje się wyrazami „średnie lub średnie branżowe”.
 

@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2011-05-12 |
 | Data wydania | 2011-06-13 |
-| Ostatnia zmiana | 2026-03-20 |
+| Ostatnia zmiana | 2026-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111220696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/696/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -1423,6 +1423,14 @@ source: pdf
 13. Przechowywanie i udostępnianie zlecenia wraz z dokumentacją, o których mowa w ust. 12, przez świadczeniodawcę, realizującego zlecenie odbywa się zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.).
 
 14. (uchylony)
+
+**Art. 38e.**
+
+1. Podmiot, który wprowadził do obrotu lub do używania wyrób medyczny, który przysługuje świadczeniobiorcom w oparciu o przepisy wydane na podstawie art. 38 ust. 4, jest obowiązany przekazywać do Systemu Informacji Medycznej, o którym mowa w art. 10 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, dane osobowe świadczeniobiorcy, o których mowa w art. 11c ust. 2 pkt 1 tej ustawy, i jednostkowe dane medyczne gromadzone przez niego w związku z użytkowaniem tego wyrobu przez usługobiorcę, jeżeli takie kryterium przyznania zostało określone w przepisach wydanych na podstawie art. 38 ust. 4.
+
+2. Dane, o których mowa w ust. 1, są przekazywane w celu monitorowania stanu zdrowia świadczeniobiorców stosujących te wyroby medyczne oraz prowadzenia analiz dotyczących zapotrzebowania na wyroby medyczne, w tym częstotliwości ich użytkowania oraz oceny skuteczności leczenia w powiązaniu z informacjami o stosowanych przez świadczeniobiorców produktach leczniczych.
+
+3. Dane, o których mowa w ust. 1, są przekazywane w czasie rzeczywistym lub adekwatnie do możliwości technicznych.
 
 **Art. 39.**
 

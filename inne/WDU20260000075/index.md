@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 
+*USTAWA z dnia 6 stycznia 2005 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2026 poz. 75 |
@@ -22,14 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2026-01-21 |
 | Data wydania | 2026-01-23 |
-| Ostatnia zmiana | 2026-01-26 |
+| Ostatnia zmiana | 2026-06-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000075) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/75/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r.
-poz. 823), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 9 lipca 2025 r. o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. poz. 1021) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 stycznia 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. poz. 1021), który stanowi: „ Art. 2. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
-USTAWA z dnia 6 stycznia 2005 r.
-o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -50,6 +46,7 @@ o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 
 - **1)** białoruską;
 - **2)** czeską;
+- **2a)** grecką;
 - **3)** litewską;
 - **4)** niemiecką;
 - **5)** ormiańską;
@@ -360,7 +357,7 @@ o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 - **1a)** przedstawiciel Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
 - **2)** przedstawiciele mniejszości w liczbie:
     - **a)** dwóch przedstawicieli mniejszości białoruskiej,
-    - **b)** jeden przedstawiciel mniejszości czeskiej,
+    - **b)** jeden przedstawiciel mniejszości czeskiej, <ba) jeden przedstawiciel mniejszości greckiej,>
     - **c)** dwóch przedstawicieli mniejszości litewskiej,
     - **d)** dwóch przedstawicieli mniejszości niemieckiej,
     - **e)** jeden przedstawiciel mniejszości ormiańskiej,
@@ -436,7 +433,7 @@ o mniejszościach narodowych i etnicznych oraz o języku regionalnym
 
 **Art. 30a.**
 
-- **1)** 1. Obsługę merytoryczną i administracyjną wchodzących w skład Komisji Wspólnej przedstawicieli mniejszości oraz przedstawicieli społeczności posługującej się językiem, o którym mowa w art. 19, w tym współprzewodniczącego Komisji Wspólnej, będącego przedstawicielem tych mniejszości i społeczności, zapewnia Kancelaria Sejmu.
+1. Obsługę merytoryczną i administracyjną wchodzących w skład Komisji Wspólnej przedstawicieli mniejszości oraz przedstawicieli społeczności posługującej się językiem, o którym mowa w art. 19, w tym współprzewodniczącego Komisji Wspólnej, będącego przedstawicielem tych mniejszości i społeczności, zapewnia Kancelaria Sejmu.
 
 2. Koszty związane z obsługą, o której mowa w ust. 1, są pokrywane z budżetu państwa ze środków, których dysponentem jest Szef Kancelarii Sejmu.
 

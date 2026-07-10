@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-515221|2023-12-11|SO|XVII AmT 32/22|Wyrok|https://www.saos.org.pl/judgments/515221
-515218|2023-11-22|SO|XVII AmT 28/22|Wyrok|https://www.saos.org.pl/judgments/515218
-515235|2023-05-29|SO|XVII AmT 57/21|Wyrok|https://www.saos.org.pl/judgments/515235
+saos_id|date|court|case_number|type|score|saos_url
+547268|2025-11-28|SO|I C 393/24|Wyrok|40|https://www.saos.org.pl/judgments/547268

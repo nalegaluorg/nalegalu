@@ -49,9 +49,7 @@ source: pdf
 - **1)** finansowanie działań, o których mowa w art. 5 ust. 1;
 - **2)** spłatę zobowiązań z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji.
 
-2. Za zobowiązania Banku Gospodarstwa Krajowego, o których mowa w ust. 1, z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji mogą być udzielane przez Skarb Państwa gwarancje i poręczenia, zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz.
-
-- **291)** , z tym że wymogu, o którym mowa w art. 7 ust. 2 pkt 2 tej ustawy, w zakresie, w jakim wymaga się, aby środki przeznaczone na spłatę kredytu pochodziły ze źródeł innych niż budżet państwa, nie stosuje się.
+2. Za zobowiązania Banku Gospodarstwa Krajowego, o których mowa w ust. 1, z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji mogą być udzielane przez Skarb Państwa gwarancje i poręczenia, zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291), z tym że wymogu, o którym mowa w art. 7 ust. 2 pkt 2 tej ustawy, w zakresie, w jakim wymaga się, aby środki przeznaczone na spłatę kredytu pochodziły ze źródeł innych niż budżet państwa, nie stosuje się.
 
 3. Gwarancje i poręczenia, o których mowa w ust. 2, są zwolnione z opłat prowizyjnych.
 

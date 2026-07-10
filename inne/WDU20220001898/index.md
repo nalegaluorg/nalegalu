@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-05 |
 | Data wydania | 2022-09-08 |
-| Ostatnia zmiana | 2026-04-27 |
+| Ostatnia zmiana | 2026-06-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001898) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1898/text.pdf) |
 
 w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2021 r.

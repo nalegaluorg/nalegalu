@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2020-07-15 |
 | Data wydania | 2020-07-17 |
-| Ostatnia zmiana | 2026-06-11 |
+| Ostatnia zmiana | 2026-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1262/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -39,10 +39,10 @@ source: pdf
     - **b)** częściowej niezdolności do pracy, całkowitej niezdolności do pracy, całkowitej niezdolności do pracy i samodzielnej egzystencji albo niezdolności do samodzielnej egzystencji, wydanym na podstawie przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych,
     - **c)** stałej albo długotrwałej niezdolności do pracy w gospodarstwie rolnym i do samodzielnej egzystencji albo trwałej lub okresowej całkowitej niezdolności do pracy w gospodarstwie rolnym i do samodzielnej egzystencji, wydanym na podstawie przepisów o ubezpieczeniu społecznym rolników;
 
-- **3)** imprezie turystycznej – należy przez to rozumieć imprezę turystyczną, o której mowa w art. 4 pkt 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2022 r. poz. 511 i 2185), imprezę turystyczną, o której mowa w art. 3 pkt 1 tej ustawy, oferowaną przez organizację pożytku publicznego, a także imprezę turystyczną, o której mowa w art. 3 pkt 3 tej ustawy, nieobejmującą noclegu, oferowaną przez organizację pożytku publicznego lub organizatora turystyki;
-- **4)** organizacji pożytku publicznego – należy przez to rozumieć organizację pożytku publicznego, o której mowa w art. 20 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2022 r. poz. 1327, 1265 i 1812);
+- **3)** imprezie turystycznej – należy przez to rozumieć imprezę turystyczną, o której mowa w art. 4 pkt 2 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. z 2023 r. poz. 2211 oraz z 2025 r. poz. 1806), imprezę turystyczną, o której mowa w art. 3 pkt 1 tej ustawy, oferowaną przez organizację pożytku publicznego, a także imprezę turystyczną, o której mowa w art. 3 pkt 3 tej ustawy, nieobejmującą noclegu, oferowaną przez organizację pożytku publicznego lub organizatora turystyki;
+- **4)** organizacji pożytku publicznego – należy przez to rozumieć organizację pożytku publicznego, o której mowa w art. 20 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338);
 - **5)** przedsiębiorcy turystycznym – należy przez to rozumieć przedsiębiorcę turystycznego, o którym mowa w art. 4 pkt 7 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych;
-- **6)** usłudze hotelarskiej – należy przez to rozumieć usługę hotelarską, o której mowa w art. 3 ust. 1 pkt 8 ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2020 r. poz. 2211 oraz z 2022 r. poz. 2185);
+- **6)** usłudze hotelarskiej – należy przez to rozumieć usługę hotelarską, o której mowa w art. 3 ust. 1 pkt 8 ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2023 r. poz. 1944);
 - **7)** organizatorze turystyki – należy przez to rozumieć organizatora turystyki, o którym mowa w art. 4 pkt 8 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych.
 
 **Art. 3.**
@@ -55,9 +55,9 @@ source: pdf
 
 1. Świadczenie w formie bonu przysługuje osobie:
 
-- **1)** mającej w dniu wejścia w życie ustawy przyznane prawo do: z 2022 r. poz. 1577 i 2140), zwanego dalej „świadczeniem wychowawczym”, lub
-    - **a)** świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U.
-    - **b)** dodatku, o którym mowa w art. 80 ust. 1a, art. 113a albo art. 115 ust. 2a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2022 r. poz. 447, 1700 i 2140), zwanego dalej „dodatkiem”,
+- **1)** mającej w dniu wejścia w życie ustawy przyznane prawo do:
+    - **a)** świadczenia wychowawczego, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U. z 2026 r. poz. 508), zwanego dalej „świadczeniem wychowawczym”, lub
+    - **b)** dodatku, o którym mowa w art. 80 ust. 1a, art. 113a albo art. 115 ust. 2a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301 oraz z 2026 r. poz. 187 i 203), zwanego dalej „dodatkiem”,
 
 - **2)** której w okresie od dnia następującego po dniu wejścia w życie ustawy do dnia 31 grudnia 2021 r. przyznano prawo do:
     - **a)** świadczenia wychowawczego na dziecko, na które wcześniej nie było przyznane prawo do tego świadczenia lub dodatku, o którym mowa w lit. b,
@@ -220,7 +220,7 @@ source: pdf
 
 **Art. 16.** POT wykonuje zadania związane z promocją bonu.
 
-**Art. 17.** Do zamówień na usługi lub dostawy udzielanych przez POT w celu realizacji zadań POT określonych w ustawie nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185).
+**Art. 17.** Do zamówień na usługi lub dostawy udzielanych przez POT w celu realizacji zadań POT określonych w ustawie nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 #### Rozdział 2 Realizacja bonu
 
@@ -313,9 +313,7 @@ source: pdf
 
 4. Od decyzji administracyjnych, o których mowa w ust. 2 i 3, przysługuje odwołanie do ministra właściwego do spraw turystyki.
 
-5. Organy administracji publicznej współpracują z POT w zakresie niezbędnym do prowadzenia postępowań administracyjnych wymienionych w ust.
-
-2.
+5. Organy administracji publicznej współpracują z POT w zakresie niezbędnym do prowadzenia postępowań administracyjnych wymienionych w ust. 2.
 
 **Art. 24.**
 
@@ -370,7 +368,7 @@ source: pdf
 
 5. ZUS udostępnia POT system teleinformatyczny w celu i w zakresie niezbędnym do realizacji zadań POT określonych w ustawie.
 
-**Art. 28.** Uwierzytelnianie podmiotów w systemie teleinformatycznym wymaga użycia profilu zaufanego, profilu osobistego, innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2021 r. poz. 1797), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online, albo innych technologii, jeżeli zostaną udostępnione w tym systemie.
+**Art. 28.** Uwierzytelnianie podmiotów w systemie teleinformatycznym wymaga użycia profilu zaufanego, profilu osobistego, innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725 oraz z 2026 r. poz. 252), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online, albo innych technologii, jeżeli zostaną udostępnione w tym systemie.
 
 **Art. 29.**
 
@@ -394,7 +392,7 @@ source: pdf
 
 1. Środki finansowe przeznaczone na realizację płatności za bony oraz koszty realizacji określonych w ustawie zadań przez ZUS są ponoszone z Funduszu Przeciwdziałania COVID-19, a w przypadku jego likwidacji – z budżetu państwa.
 
-2. Koszty realizacji określonych w ustawie zadań przez ZUS wynoszą 1% kwoty przekazanej na realizację płatności za bony.
+2. Koszty realizacji określonych w ustawie zadań przez ZUS wynoszą 1 % kwoty przekazanej na realizację płatności za bony.
 
 3. Środki finansowe przeznaczone na realizację płatności za bony oraz koszty realizacji określonych w ustawie zadań przez ZUS minister właściwy do spraw turystyki przekaże ZUS na podstawie pisemnych wniosków określających ich wysokość, składanych przez ZUS do 15 dnia każdego miesiąca, poprzedzającego miesiąc wypłaty.
 

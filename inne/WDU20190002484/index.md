@@ -79,8 +79,7 @@ o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2019 r. 
 2. Strażnik, który zgłasza ustne żądanie udzielenia niezbędnej pomocy, zawiadamia osobę o działaniu w sytuacjach, o których mowa w ust. 1, oraz przekazuje jej informacje, o których mowa w § 8 ust. 3.
 3. Żądanie zgłoszone ustnie potwierdza się niezwłocznie w sposób określony w § 8 ust. 2 i 3.
 § 10. 1. Strażnik zwraca się w nagłych przypadkach o udzielenie pomocy do jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej lub do organizacji społecznych, kierując wystąpienie do osób pełniących funkcje kierowników lub członków zarządu w tych jednostkach lub organizacjach albo do innych osób upoważnionych do podejmowania decyzji koniecznych do udzielenia pomocy lub w danym czasie dysponujących możliwościami jej udzielenia.
-2. W zakresie formy zwracania się o pomoc, o której mowa w ust. 1, stosuje się odpowiednio przepisy § 8 ust. 2 i 3
-§ 9.
+2. W zakresie formy zwracania się o pomoc, o której mowa w ust. 1, stosuje się odpowiednio przepisy § 8 ust. 2 i 3 oraz § 9.
 § 11. W nagłych przypadkach strażnik zwraca się ustnie do każdej osoby o udzielenie doraźnej pomocy, zawiadamiając tę osobę o nagłym przypadku oraz przekazując jej informacje, o których mowa w § 8 ust. 3.
 § 12. Strażnik informuje niezwłocznie bezpośredniego przełożonego o wystąpieniu z żądaniem udzielenia niezbędnej pomocy, zwróceniu się o udzielenie pomocy lub zwróceniu się o udzielenie doraźnej pomocy, a następnie sporządza notatkę służbową. W notatce służbowej strażnik określa podstawę prawną żądania lub wystąpienia oraz rodzaj i zakres udzielonej mu pomocy.
 § 13. 1. Strażnik wydaje pokwitowanie na otrzymane w ramach pomocy rzeczy lub dokumenty.

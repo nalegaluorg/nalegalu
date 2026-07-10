@@ -24,8 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2003-02-28 |
 | Data wydania | 2003-04-09 |
-| Wejście w życie | 2003-10-01 |
-| Ostatnia zmiana | 2026-03-25 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030600535) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/535/text.pdf) |
 
 ## CZĘŚĆ PIERWSZA PRZEPISY OGÓLNE O POSTĘPOWANIU UPADŁOŚCIOWYM I JEGO SKUTKACH

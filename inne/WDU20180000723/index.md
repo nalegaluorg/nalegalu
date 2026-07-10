@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-01 |
 | Data wydania | 2018-04-12 |
-| Ostatnia zmiana | 2026-02-26 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/723/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -76,8 +76,7 @@ source: pdf
     - **e)** tworzenia, prowadzenia działalności lub zarządzania spółkami kapitałowymi lub trustami – z wyjątkiem radców prawnych oraz prawników zagranicznych wykonujących zawód w ramach stosunku pracy lub służby w urzędach obsługujących organy administracji publicznej, innych państwowych lub samorządowych jednostkach organizacyjnych oraz w podmiotach innych niż spółki, o których mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2024 r. poz. 499), oraz doradców podatkowych wykonujących zawód w ramach stosunku pracy w podmiotach innych niż te, o których mowa w art. 4 ust. 1 pkt 1 i 3 ustawy z dnia 5 lipca 1996 r.
 
 - **15)** doradcy podatkowi w zakresie czynności doradztwa podatkowego innych niż wymienione w pkt 14 oraz biegli rewidenci;
-- **15a)** przedsiębiorcy w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz.
-- **222)** , których podstawową działalnością gospodarczą jest świadczenie usług polegających na sporządzaniu deklaracji, prowadzeniu ksiąg podatkowych, udzielaniu porad, opinii lub wyjaśnień z zakresu przepisów prawa podatkowego lub celnego, niebędący innymi instytucjami obowiązanymi;
+- **15a)** przedsiębiorcy w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222), których podstawową działalnością gospodarczą jest świadczenie usług polegających na sporządzaniu deklaracji, prowadzeniu ksiąg podatkowych, udzielaniu porad, opinii lub wyjaśnień z zakresu przepisów prawa podatkowego lub celnego, niebędący innymi instytucjami obowiązanymi;
 - **16)** przedsiębiorcy w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, niebędący innymi instytucjami obowiązanymi, świadczący usługi polegające na:
     - **a)** tworzeniu osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej,
     - **b)** pełnieniu funkcji członka zarządu lub umożliwianiu innej osobie pełnienia tej funkcji lub podobnej funkcji w osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej,
@@ -97,8 +96,7 @@ source: pdf
     - **a)** obrocie lub pośrednictwie w obrocie dziełami sztuki, przedmiotami kolekcjonerskimi oraz antykami w rozumieniu art. 120 ust. 1 pkt 1– 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U.
     - **b)** przechowywaniu dzieł sztuki, przedmiotów kolekcjonerskich oraz antyków w rozumieniu art. 120 ust. 1 pkt 1–3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, gdy działalność taka jest prowadzona z wykorzystaniem wolnego portu, o którym mowa w lit.
 
-- **25)** instytucje pożyczkowe w rozumieniu ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2024 r. poz. 1497 oraz z 2025 r. poz.
-- **146)** ;
+- **25)** instytucje pożyczkowe w rozumieniu ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2024 r. poz. 1497 oraz z 2025 r. poz. 146);
 - **26)** przedsiębiorcy wykonujący działalność lombardową, o których mowa w ustawie z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej (Dz. U. z 2024 r. poz. 1111);
 - **27)** podmiot obsługujący kredyty w rozumieniu art. 3 ust. 1 pkt 17 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146).
 
@@ -989,8 +987,7 @@ source: pdf
 - **3)** spółki komandytowo-akcyjne;
 - **4)** spółki z ograniczoną odpowiedzialnością;
 - **4a)** proste spółki akcyjne;
-- **5)** spółki akcyjne, z wyjątkiem spółek publicznych w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620 i 1863 oraz z 2025 r. poz.
-- **146)** ;
+- **5)** spółki akcyjne, z wyjątkiem spółek publicznych w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620 i 1863 oraz z 2025 r. poz. 146);
 - **6)** trusty, których powiernicy lub osoby zajmujące stanowiska równoważne:
     - **a)** mają miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej lub
     - **b)** nawiązują stosunki gospodarcze lub nabywają nieruchomość na terytorium Rzeczypospolitej Polskiej w imieniu lub na rzecz trustu;
@@ -1561,8 +1558,7 @@ source: pdf
 
 2. Generalny Inspektor udostępnia informacje, o których mowa w art. 72:
 
-- **1)** Centralnemu Biuru Antykorupcyjnemu – w trybie i na zasadach określonych w art. 22a ust. 5 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2024 r. poz. 184, 1222 i 1871 oraz z 2025 r. poz.
-- **179)** ;
+- **1)** Centralnemu Biuru Antykorupcyjnemu – w trybie i na zasadach określonych w art. 22a ust. 5 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2024 r. poz. 184, 1222 i 1871 oraz z 2025 r. poz. 179);
 - **2)** Szefowi Agencji Bezpieczeństwa Wewnętrznego – na warunkach określonych w art. 34 ust. 2a ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, 1222, 1562, 1684 i 1871 oraz z 2025 r. poz. 179);
 - **3)** Szefowi Krajowej Administracji Skarbowej – na warunkach określonych w art. 46 ust. 2a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 

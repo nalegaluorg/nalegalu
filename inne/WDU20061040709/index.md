@@ -715,9 +715,7 @@ source: pdf
 
 2a. W zakresie bezpieczeństwa i higieny służby żołnierzy zawodowych, o których mowa w ust. 1, stosuje się odpowiednio zasady określone w art. 11a ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego.
 
-3. W zakresie świadczenia teleinformatycznego, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1662 oraz z 2025 r. poz.
-
-- **1017)** , do żołnierzy zawodowych, o których mowa w ust. 1, stosuje się odpowiednio zasady określone w art. 83 ust. 1a i art. 83a ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego.
+3. W zakresie świadczenia teleinformatycznego, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1662 oraz z 2025 r. poz. 1017), do żołnierzy zawodowych, o których mowa w ust. 1, stosuje się odpowiednio zasady określone w art. 83 ust. 1a i art. 83a ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego.
 
 **Art. 47.**
 

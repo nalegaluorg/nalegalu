@@ -6,7 +6,7 @@ publisher: DU
 year: 2025
 pos: 1665
 act_type: Ustawa
-status: obowiązujący
+status: akt objęty tekstem jednolitym
 domain: null
 source: pdf
 ---
@@ -20,11 +20,11 @@ source: pdf
 | Adres publikacyjny | Dz.U. 2025 poz. 1665 |
 | ISAP | WDU20250001665 |
 | Typ aktu | Ustawa |
-| Status | obowiązujący |
+| Status | akt objęty tekstem jednolitym |
 | W mocy | tak |
 | Data ogłoszenia | 2025-11-07 |
 | Data wydania | 2025-11-28 |
-| Ostatnia zmiana | 2026-02-06 |
+| Ostatnia zmiana | 2026-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001665) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1665/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913 i 1301) wprowadza się następujące zmiany:

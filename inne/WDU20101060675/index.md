@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2010-05-07 |
 | Data wydania | 2010-06-16 |
-| Ostatnia zmiana | 2026-04-30 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101060675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/675/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -608,7 +608,7 @@ source: pdf
 
 6. Wójt (burmistrz, prezydent miasta), starosta i marszałek województwa przekazują Prezesowi UKE w systemie teleinformatycznym, o którym mowa w art. 29b ust. 2, informacje o stawkach opłaty, o której mowa w art. 29b ust. 1 pkt 6, w terminie 14 dni od dnia wejścia w życie uchwały, o której mowa w art. 40 ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
 
-6a. Na wniosek Prezesa UKE dyrektor Rządowego Centrum Bezpieczeństwa udostępnia Prezesowi UKE, w terminie 14 dni od dnia otrzymania wniosku, wykazy infrastruktury krytycznej, o których mowa w art. 5 ust. 2 pkt 3 lit. k ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, znajdującej się na terenie województw, objęte wojewódzkimi planami zarządzania kryzysowego.
+6a. Na wniosek Prezesa UKE dyrektor Rządowego Centrum Bezpieczeństwa udostępnia Prezesowi UKE, w terminie 14 dni od dnia otrzymania wniosku, wyciągi z wykazu infrastruktury krytycznej, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, znajdującej się na terenie województw, objętej wojewódzkimi planami zarządzania kryzysowego.
 
 7. Podmioty inne niż wymienione w ust. 1–4, które ze względu na zakres swoich zadań posiadają w postaci elektronicznej informacje, o których mowa w art. 29b ust. 1 pkt 3, niezwłocznie przekazują je Prezesowi UKE, na jego wniosek.
 

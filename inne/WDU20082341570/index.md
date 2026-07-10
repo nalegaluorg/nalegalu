@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-05 |
 | Data wydania | 2008-12-30 |
-| Ostatnia zmiana | 2026-04-17 |
+| Ostatnia zmiana | 2026-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1570/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -838,61 +838,11 @@ source: pdf
 - **1)** kwalifikacje osób przeprowadzających badanie kwalifikacyjne, o których mowa w ust. 1,
 - **2)** kwalifikacje osób przeprowadzających szczepienia ochronne przeciwko COVID-19, o których mowa w ust. 2 pkt 2 – uwzględniając konieczność zapewnienia bezpieczeństwa osób poddanych tym szczepieniom.
 
-**Art. 21d.**
+**Art. 21d.** (uchylony)
 
-1. Szczepienia ochronne przeciwko COVID-19 są przeprowadzane na podstawie skierowania określonego w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, zwanego dalej „skierowaniem”.
+**Art. 21e.** (uchylony)
 
-2. Skierowanie w postaci elektronicznej jest wystawiane przez:
-
-- **1)** system, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
-- **2)** lekarza za pośrednictwem systemu, o którym mowa w pkt 1 – zgodnie z kryteriami określonymi w przepisach wydanych na podstawie art. 3 ust. 4.
-
-2a. Skierowanie przechowuje się w systemie, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia. Dostęp do tego skierowania przysługuje usługodawcy w rozumieniu art. 2 pkt 15 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
-
-3. Skierowanie jest ważne przez okres 90 dni od dnia jego wystawienia.
-
-4. Do skierowania, o którym mowa w ust. 2 pkt 2, stosuje się art. 31b ust. 14 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
-
-5. Po wykonaniu szczepienia ochronnego przeciwko COVID-19 albo podaniu pierwszej dawki szczepionki przeciwko COVID-19 punkt szczepień dokonuje zmiany statusu informacji skierowania w systemie, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
-
-**Art. 21e.**
-
-1. Tworzy się centralny elektroniczny system rejestracji na szczepienia ochronne przeciwko COVID-19, zwany dalej „systemem rejestracji”, w którym są przetwarzane:
-
-- **1)** informacje niezbędne do przeprowadzania tych szczepień;
-- **2)** dane osoby poddającej się tym szczepieniom: imię i nazwisko, numer PESEL, numer i seria dokumentu tożsamości, numer telefonu, adres poczty elektronicznej, adres miejsca zamieszkania, oraz jednostkowe dane medyczne tej osoby;
-- **3)** dane zawarte w skierowaniu.
-
-2. Do systemu rejestracji dane o planowanych szczepieniach ochronnych przeciwko COVID-19:
-
-- **1)** wprowadza administrator systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia;
-- **2)** wprowadza się w ramach działalności: o systemie informacji w ochronie zdrowia, wystawiającego skierowanie,
-    - **a)** usługodawcy w rozumieniu art. 2 pkt 15 ustawy z dnia 28 kwietnia 2011 r.
-    - **b)** punktu szczepień.
-
-3. Do systemu rejestracji dane o przeprowadzanych szczepieniach ochronnych przeciwko COVID-19 wprowadza się w ramach działalności punktu szczepień.
-
-4. Administratorem danych zawartych w systemie rejestracji jest minister właściwy do spraw zdrowia.
-
-5. Obsługę techniczną systemu rejestracji zapewnia jednostka podległa ministrowi właściwemu do spraw zdrowia, właściwa w zakresie systemów informacyjnych ochrony zdrowia.
-
-6. W zakresie kierowania na szczepienia ochronne przeciwko COVID-19 system rejestracji korzysta z danych oraz usług dostarczanych przez System Informacji Medycznej, dziedzinowe systemy teleinformatyczne oraz rejestry medyczne, o których mowa w art. 5 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
-
-7. Dane dotyczące szczepień ochronnych przeciwko COVID-19 zawarte w systemie rejestracji, w tym jednostkowe dane medyczne, są przekazywane do systemu, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w celu prezentowania ich w Internetowym Koncie Pacjenta, o którym mowa w art. 7a tej ustawy, oraz monitorowania przebiegu szczepień.
-
-8. Jednostka podległa ministrowi właściwemu do spraw zdrowia właściwa w zakresie systemów informacyjnych ochrony zdrowia udostępnia dane o szczepieniach Narodowemu Funduszowi Zdrowia w celu kontrolowania i rozliczania udzielonych świadczeń opieki zdrowotnej.
-
-**Art. 21f.**
-
-1. Rejestracja na wykonanie szczepienia ochronnego przeciwko COVID-19 następuje w systemie rejestracji po udostępnieniu imienia i nazwiska oraz numeru PESEL osoby poddawanej temu szczepieniu, a w przypadku jego braku – numeru i serii dokumentu tożsamości wskazanego na skierowaniu, za pośrednictwem:
-
-- **1)** Internetowego Konta Pacjenta, o którym mowa w art. 7a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, lub telefonicznie;
-- **2)** usługodawcy wystawiającego skierowanie;
-- **3)** punktu szczepień.
-
-1a. Rejestracja na wykonanie szczepienia ochronnego przeciwko COVID-19 może nastąpić również po uwierzytelnieniu osoby poddawanej temu szczepieniu w inny sposób niż określony w ust. 1, za pośrednictwem systemu rejestracji.
-
-2. Podczas rejestracji na wykonanie szczepienia ochronnego przeciwko COVID-19 osoba poddawana temu szczepieniu może przekazać numer telefonu lub adres poczty elektronicznej. W takim przypadku informacja o terminie i miejscu szczepienia ochronnego przeciwko COVID-19 jest przekazywana przez jednostkę podległą ministrowi właściwemu do spraw zdrowia, właściwą w zakresie systemów informacyjnych ochrony zdrowia, w postaci wiadomości tekstowej na ten numer telefonu lub adres poczty elektronicznej.
+**Art. 21f.** (uchylony)
 
 #### Rozdział 5 Inne działania mające na celu zapobieganie zakażeniom i chorobom zakaźnym
 

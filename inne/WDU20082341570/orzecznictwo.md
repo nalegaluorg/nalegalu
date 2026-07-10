@@ -2,14 +2,14 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi*
 
-Łącznie: **105** orzeczeń
+Łącznie: **106** orzeczeń
 (pominięto 259 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 
 - 2021-11-10 | SO | [III AUa 93/21](https://www.saos.org.pl/judgments/452706) | Wyrok
 
-## art. 2 (25)
+## art. 2 (26)
 
 - 2026-01-29 | SO | [III APa 29/25](https://www.saos.org.pl/judgments/543456) | Wyrok
 - 2024-03-19 | SO | [I ACa 1596/21](https://www.saos.org.pl/judgments/520066) | Wyrok
@@ -19,6 +19,7 @@ Orzeczenia powołujące: *Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zw
 - 2016-06-01 | SO | [I ACa 878/14](https://www.saos.org.pl/judgments/249584) | Wyrok
 - 2015-11-04 | SO | [I ACa 1279/15](https://www.saos.org.pl/judgments/323172) | Wyrok
 - 2014-09-29 | SO | [I ACa 233/14](https://www.saos.org.pl/judgments/66113) | Wyrok
+- 2025-09-16 | SO | [VI U 8/25](https://www.saos.org.pl/judgments/547644) | Wyrok
 - 2025-08-14 | SO | [VI U 534/24](https://www.saos.org.pl/judgments/535405) | Wyrok
 - 2025-04-23 | SO | [VI U 535/24](https://www.saos.org.pl/judgments/530183) | Wyrok
 - 2024-08-27 | SO | [IV U 84/24](https://www.saos.org.pl/judgments/509164) | Wyrok

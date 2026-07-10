@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1998-06-05 |
 | Data wydania | 1998-07-24 |
-| Ostatnia zmiana | 2026-03-25 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980910578) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/578/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -1304,9 +1304,7 @@ source: pdf
 
 1. Powiaty mogą tworzyć stowarzyszenia, w tym również z gminami i województwami.
 
-2. Do stowarzyszeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz.
-
-- **2261)** , z tym że dla założenia stowarzyszenia wymaganych jest co najmniej 3 założycieli.
+2. Do stowarzyszeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), z tym że dla założenia stowarzyszenia wymaganych jest co najmniej 3 założycieli.
 
 **Art. 75a.** Zasady przystępowania powiatu do międzynarodowych zrzeszeń społeczności lokalnych i regionalnych określają odrębne przepisy.
 

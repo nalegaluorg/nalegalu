@@ -2510,9 +2510,7 @@ source: pdf
 
 6. W celu zabezpieczenia wierzytelności wynikającej z udzielonych pożyczek i gwarancji, o których mowa w ust. 1 pkt 1 i 3, Fundusz wymaga ustanowienia zabezpieczenia.
 
-7. Fundusz może udzielić Narodowemu Bankowi Polskiemu gwarancji spłaty kredytów, o których mowa w art. 42 ust. 1 oraz art. 43 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025 oraz z 2026 r. poz.
-
-- **340)** . Przepisy art. 80–84 ustawy – Prawo bankowe stosuje się odpowiednio.
+7. Fundusz może udzielić Narodowemu Bankowi Polskiemu gwarancji spłaty kredytów, o których mowa w art. 42 ust. 1 oraz art. 43 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025 oraz z 2026 r. poz. 340). Przepisy art. 80–84 ustawy – Prawo bankowe stosuje się odpowiednio.
 
 8. Jeżeli nie umówiono się inaczej, z dniem spełnienia przez Fundusz świadczenia z tytułu gwarancji, o której mowa w ust. 1 pkt 3 lub ust. 7, Fundusz nabywa z mocy prawa spłaconą wierzytelność wynikającą z udzielonego kredytu, pożyczki lub wyemitowanych i objętych obligacji do wysokości dokonanej zapłaty, wraz z przedmiotem zabezpieczenia ustanowionym przez pożyczkobiorcę, kredytobiorcę lub podmiot zarządzający aktywami oraz innymi prawami związanymi z nabytą wierzytelnością.
 

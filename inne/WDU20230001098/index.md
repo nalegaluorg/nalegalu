@@ -68,8 +68,7 @@ II. Wymagania techniczne w zakresie wyposażenia mikroinstalacji w układ zabezp
 3. Informacje na temat nastaw zabezpieczeń powinny być możliwe do odczytania z mikroinstalacji oraz określone w technicznej dokumentacji indywidualnej dla danej mikroinstalacji, dołączonej przez producenta lub instalatora .
 III. Warunki współpracy mikroinstalacji z systemem elektroenergetycznym w zakresie pracy i bezpieczeństwa mikroinstalacji
 1. Nastawy zadanych wartości, możliwych do ustawienia w mikroinstalacji, są możliwe do odczytania z mikroinstalacji, w szczególności z wyświetlacza, interfejsu użytkownika lub przez port komunikacyjny.
-2. Mikroinstalacje wyposaża się co najmniej w port wejściowy RS485 obsługujący protokół komunikacji (np.
-SUNSPEC).
+2. Mikroinstalacje wyposaża się co najmniej w port wejściowy RS485 obsługujący protokół komunikacji (np. SUNSPEC).
 3. Tabliczka znamionowa mikroinstalacji zawiera co najmniej następujące informacje:
 1) nazwę producenta lub znak firmowy;
 2) dane umożliwiające identyfikację urządzenia zgodnie z jego właściwościami, w tym typ, numer identyfikacyjny, oznaczenie serii lub partii i numer seryjny ;

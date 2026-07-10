@@ -397,8 +397,7 @@ source: pdf
 - **6)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034 i 1863 oraz z 2025 r. poz. 146);
 - **7)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146);
 - **8)** stanowiących tajemnicę w rozumieniu ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838, 1565 i 1863 oraz z 2025 r. poz. 146);
-- **9)** stanowiących tajemnicę w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz.
-- **1113)** ;
+- **9)** stanowiących tajemnicę w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz. 1113);
 - **10)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222 oraz z 2025 r. poz. 146);
 - **11)** stanowiących tajemnicę zawodową w rozumieniu ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984 i 1863).
 
@@ -409,8 +408,7 @@ source: pdf
 4. Informacje i dane, o których mowa w ust. 1:
 
 - **1)** dotyczące dokumentacji związanej z nadaniem NIP oraz aktualizowaniem danych zawartych w zgłoszeniach identyfikacyjnych, określonej w art. 13 ust. 1 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2025 r. poz. 237),
-- **2)** zawarte w aktach niezawierających informacji, o których mowa w art. 182 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz.
-- **111)** ,
+- **2)** zawarte w aktach niezawierających informacji, o których mowa w art. 182 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111),
 - **3)** dotyczące zawarcia z osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej umowy o wykonywanie czynności, o których mowa w art. 5 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, lub czynności, o których mowa w art. 3 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, umożliwiające weryfikację zawarcia takich umów i czasu ich obowiązywania,
 - **4)** dotyczące objęcia osoby fizycznej ubezpieczeniem społecznym i zwaloryzowanej wysokości składek na ubezpieczenie emerytalne osoby fizycznej, a także dane płatnika składek, o których mowa w art. 40, art. 45 i art. 50 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
 - **5)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej dokonywała transakcji dotyczących towarów giełdowych, o których mowa w ustawie z dnia 26 października 2000 r. o giełdach towarowych,

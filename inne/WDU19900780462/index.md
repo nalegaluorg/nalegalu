@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1990-10-12 |
 | Data wydania | 1990-11-19 |
-| Ostatnia zmiana | 2026-05-27 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900780462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/462/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -883,7 +883,15 @@ source: pdf
 
 **Art. 10e.**
 
-1. W celu realizacji zadań, o których mowa w art. 1 ust. 2 pkt 1, 2, 4–5d i 10, Komendant Główny Straży Granicznej, Komendant BSWSG lub komendant oddziału Straży Granicznej może zarządzić o zastosowaniu urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wykonywania czynności przez Straż Graniczną, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
+1. Komendant Główny Straży Granicznej, Komendant BSWSG lub komendant oddziału Straży Granicznej:
+
+- **1)** w celu realizacji zadań, o których mowa w art. 1 ust. 2 pkt 1, 2, 4–5d i 10, lub
+- **2)** w przypadkach, o których mowa w:
+    - **a)** art. 156ze ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, lub
+    - **b)** art. 28a ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2024 r. poz. 597 oraz z 2026 r. poz. 815), lub
+    - **c)** art. 11 pkt 17 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2026 r. poz. 244, 737 i 815), lub
+
+- **3)** po wprowadzeniu trzeciego lub czwartego stopnia alarmowego, o których mowa odpowiednio w art. 15 ust. 5 lub 6 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194 oraz z 2026 r. poz. 815) – może podjąć decyzję o dopuszczalności zastosowania przez Straż Graniczną urządzeń uniemożliwiających telekomunikację na określonym obszarze, przez czas niezbędny do wykonywania czynności przez Straż Graniczną, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
 
 2. O zastosowaniu urządzeń, o których mowa w ust. 1, Komendant Główny Straży Granicznej, Komendant BSWSG lub komendant oddziału Straży Granicznej niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.
 
@@ -1321,7 +1329,7 @@ source: pdf
 
 **Art. 23.**
 
-1. W przypadkach, o których mowa w art. 11 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusze mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–13 i 16–21 tej ustawy, lub wykorzystać te środki.
+1. W przypadkach, o których mowa w art. 11 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusze mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1–13 i 16–23 tej ustawy, lub wykorzystać te środki.
 
 2. W przypadkach, o których mowa w art. 45 pkt 1–3 i pkt 4 lit. a i b oraz w art. 47 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, funkcjonariusze mogą użyć broni palnej lub ją wykorzystać.
 
@@ -1714,13 +1722,16 @@ source: pdf
 
 - **1)** podstawowe – po zaliczeniu pierwszego semestru;
 - **2)** podoficerskie – po zaliczeniu drugiego semestru;
-- **3)** chorążych – po zaliczeniu trzeciego roku studiów.
+- **3)** chorążych – po ukończeniu studiów pierwszego stopnia i uzyskaniu dyplomu ich ukończenia;
+- **4)** oficerskie – po ukończeniu studiów drugiego stopnia i uzyskaniu dyplomu ich ukończenia.
 
-2. Kwalifikacje zawodowe, o których mowa w ust. 1 pkt 2–5 oraz w ust. 1a pkt 2 i 3, stanowią kwalifikacje specjalistyczne.
+2. Kwalifikacje zawodowe, o których mowa w ust. 1 pkt 2–5 oraz w ust. 1a pkt 2–4, stanowią kwalifikacje specjalistyczne.
 
 3. Warunkiem uzyskania kwalifikacji podstawowych jest ukończenie szkolenia podstawowego funkcjonariuszy.
 
-4. Warunkiem uzyskania kwalifikacji specjalistycznych jest ukończenie, w zależności od wykonywanych obowiązków, szkolenia w zakresie szkoły podoficerskiej, nauki w zakresie, o którym mowa w ust. 1a pkt 2, szkolenia w zakresie szkoły chorążych, nauki w zakresie, o którym mowa w ust. 1a pkt 3, przeszkolenia specjalistycznego do mianowania na pierwszy stopień oficerski Straży Granicznej lub szkolenia specjalistycznego dla kadry kierowniczej i dowódczej Straży Granicznej.
+4. Warunkiem uzyskania kwalifikacji specjalistycznych jest ukończenie, w zależności od wykonywanych obowiązków, szkolenia w zakresie szkoły podoficerskiej, nauki w zakresie, o którym mowa w ust. 1a pkt 2, szkolenia w zakresie szkoły chorążych, nauki w zakresie, o którym mowa w ust. 1a pkt 3, przeszkolenia specjalistycznego do mianowania na pierwszy stopień oficerski Straży Granicznej, nauki w zakresie, o którym mowa w ust. 1a pkt 4, lub szkolenia specjalistycznego dla kadry kierowniczej i dowódczej Straży Granicznej.
+
+4a. Za równoznaczne z uzyskaniem kwalifikacji zawodowych, o których mowa w ust. 1 pkt 4, uznaje się ukończenie studiów na kierunku lekarskim i uzyskanie dyplomu ich ukończenia.
 
 5. Za równoznaczne ze spełnieniem warunku, o którym mowa w ust. 4, uważa się:
 
@@ -1741,7 +1752,7 @@ source: pdf
 
 9. Warunek ukończenia studiów drugiego stopnia na określonym stanowisku służbowym nie dotyczy funkcjonariusza, który pełniąc zawodową służbę wojskową, uzyskał tytuł oficera dyplomowanego.
 
-**Art. 37c.** Warunek posiadania kwalifikacji kadry kierowniczej uważa się za spełniony przez funkcjonariusza, który w Straży Granicznej ukończył przeszkolenie specjalistyczne do mianowania na pierwszy stopień oficerski Straży Granicznej, obejmujące program w zakresie szkolenia specjalistycznego dla kadry kierowniczej i dowódczej Straży Granicznej.
+**Art. 37c.** Warunek posiadania kwalifikacji kadry kierowniczej uważa się za spełniony przez funkcjonariusza, który w Straży Granicznej ukończył przeszkolenie specjalistyczne do mianowania na pierwszy stopień oficerski Straży Granicznej, obejmujące program w zakresie szkolenia specjalistycznego dla kadry kierowniczej i dowódczej Straży Granicznej, lub ukończył naukę w zakresie, o którym mowa w art. 37b ust. 1a pkt 4.
 
 **Art. 37d.** Do stażu służby wymaganego do powołania lub mianowania na określone stanowisko służbowe zalicza się okresy służby lub pracy w Straży Granicznej, Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Siłach Zbrojnych Rzeczypospolitej Polskiej, Inspekcji Celnej, Służbie Celno-Skarbowej i Służbie Więziennej.
 
@@ -2362,7 +2373,7 @@ source: pdf
 
 **Art. 55.**
 
-1. Na pierwszy stopień oficerski Straży Granicznej może być mianowany funkcjonariusz, który posiada wykształcenie wyższe, odbył przeszkolenie specjalistyczne oraz posiada pozytywną opinię służbową.
+1. Na pierwszy stopień oficerski Straży Granicznej może być mianowany funkcjonariusz, który posiada wykształcenie wyższe, odbył przeszkolenie specjalistyczne oraz posiada pozytywną opinię służbową, albo ukończył naukę w zakresie, o którym mowa w art. 37b ust. 1a pkt 4, lub studia na kierunku lekarskim i uzyskał dyplom ich ukończenia.
 
 2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, rodzaje, zakres oraz sposób prowadzenia przeszkolenia specjalistycznego, o którym mowa w ust. 1. Rozporządzenie powinno określić formy, w jakich prowadzone jest przeszkolenie, sposób składania egzaminu, a także jednostki organizacyjne prowadzące przeszkolenie.
 
@@ -2959,21 +2970,29 @@ source: pdf
 
 1. Funkcjonariusza można skierować do szkoły, na przeszkolenie lub na studia wyższe albo podyplomowe w kraju albo za granicą.
 
-2. Z funkcjonariuszem w służbie stałej, którego zamierza się skierować na koszt Straży Granicznej do szkoły, na przeszkolenie realizowane poza Strażą Graniczną lub na studia wyższe albo podyplomowe w kraju albo za granicą, zawiera się umowę, jeżeli koszt ten w dniu skierowania przekracza kwotę sześciokrotności wysokości minimalnego wynagrodzenia za pracę ustalanego w danym roku na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
+2. W przypadku skierowania na koszt Straży Granicznej, o którym mowa w ust. 1, poza Straż Graniczną, z funkcjonariuszem zawiera się umowę, jeżeli koszt nauki i utrzymania w dniu skierowania przekracza kwotę trzykrotnej wysokości minimalnego wynagrodzenia za pracę ustalanego w danym roku na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
 
-2a. Z funkcjonariuszem, którego zamierza się skierować na studia do WSSG, zawiera się umowę.
+2a. Z funkcjonariuszem, którego zamierza się skierować na studia do WSSG albo na studia przygotowujące do wykonywania zawodów medycznych, zawiera się umowę.
 
 3. Umowa, o której mowa w ust. 2 i 2a, określa wzajemne prawa i obowiązki stron związane ze skierowaniem, w szczególności warunki zwrotu kosztów poniesionych na naukę i utrzymanie funkcjonariusza, w przypadku:
 
 - **1)** nieukończenia szkoły, przeszkolenia lub studiów w wyniku uzyskania negatywnej oceny końcowej albo przerwania nauki z winy funkcjonariusza;
-- **2)** zwolnienia ze służby przed upływem okresu określonego w umowie z przyczyn określonych w art. 45 ust. 1 pkt 3–5, ust. 2 pkt 1, 2, 5, 6 i 8–11 oraz ust. 3.
+- **2)** zwolnienia ze służby przed upływem okresu określonego w umowie z przyczyn określonych w art. 45 ust. 1 pkt 2–5, ust. 2 pkt 1, 2, 5, 6 i 9–11 oraz ust. 3.
 
 4. Zwrot kosztów poniesionych na naukę i utrzymanie funkcjonariusza następuje w wysokości:
 
-- **1)** kosztów poniesionych przez Straż Graniczną – w przypadkach, o których mowa w ust. 3 pkt 1 oraz art. 45 ust. 1 pkt 3–5 i ust. 2 pkt 2 i 10;
+- **1)** kosztów poniesionych przez Straż Graniczną – w przypadkach, o których mowa w ust. 3 pkt 1 oraz art. 45 ust. 1 pkt 2–5 i ust. 2 pkt 2 i 10;
 - **2)** proporcjonalnej do pozostałego, wynikającego z umowy, okresu służby pełnionej po zakończeniu nauki – w pozostałych przypadkach.
 
-5. Koszty, o których mowa w ust. 4, nie obejmują uposażenia funkcjonariusza.
+4a. Funkcjonariusz jest obowiązany do zwrotu kosztów nauki i utrzymania, które zostały pokryte z budżetu Straży Granicznej, w przypadku zwolnienia go ze służby przed upływem:
+
+- **1)** 3 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę trzykrotnej wysokości minimalnego wynagrodzenia za pracę, albo
+- **2)** 5 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę pięciokrotnej wysokości minimalnego wynagrodzenia za pracę, albo
+- **3)** 10 lat od dnia ukończenia nauki, jeżeli koszt ten przekracza kwotę dziesięciokrotnej wysokości minimalnego wynagrodzenia za pracę – chyba że zwolnienie ze służby nastąpiło z przyczyn określonych w art. 45 ust. 1 pkt 1 oraz ust. 2 pkt 7 i 8.
+
+5. Koszty, o których mowa w ust. 4 i 4a, nie obejmują uposażenia funkcjonariusza.
+
+6. Komendant Główny Straży Granicznej może zwolnić funkcjonariusza z obowiązku zwrotu kosztów, o których mowa w ust. 4 i 4a, w całości albo w części na pisemny wniosek funkcjonariusza uzasadniony jego szczególną sytuacją życiową, rodzinną lub materialną.
 
 **Art. 91.**
 

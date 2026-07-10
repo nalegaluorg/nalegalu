@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-09-12 |
 | Data wydania | 2025-09-29 |
-| Ostatnia zmiana | 2026-01-21 |
+| Ostatnia zmiana | 2026-07-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001302) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1302/text.pdf) |
 
 **Art. 1.** Ustawa reguluje zasady i tryb przyznawania, ustalania wysokości i wypłacania bonu ciepłowniczego oraz właściwość organów w tych sprawach.

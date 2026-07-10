@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2019-09-11 |
 | Data wydania | 2019-10-24 |
-| Ostatnia zmiana | 2026-05-27 |
+| Ostatnia zmiana | 2026-06-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2019/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -80,7 +80,7 @@ source: pdf
 
 **Art. 4.** Przepisy ustawy stosuje się do zamawiających publicznych, którymi są:
 
-- **1)** jednostki sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. );
+- **1)** jednostki sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680);
 - **2)** inne, niż określone w pkt 1, państwowe jednostki organizacyjne nieposiadające osobowości prawnej;
 - **3)** inne, niż określone w pkt 1, osoby prawne, utworzone w szczególnym celu zaspokajania potrzeb o charakterze powszechnym, niemających charakteru przemysłowego ani handlowego, jeżeli podmioty, o których mowa w tym przepisie oraz w pkt 1 i 2, pojedynczo lub wspólnie, bezpośrednio lub pośrednio przez inny podmiot:
     - **a)** finansują je w ponad 50 % lub
@@ -164,7 +164,7 @@ source: pdf
 - **20)** przedmiotowych środkach dowodowych – należy przez to rozumieć środki służące potwierdzeniu zgodności oferowanych dostaw, usług lub robót budowlanych z wymaganiami, cechami lub kryteriami określonymi w opisie przedmiotu zamówienia lub opisie kryteriów oceny ofert, lub wymaganiami związanymi z realizacją zamówienia;
 - **21)** robotach budowlanych – należy przez to rozumieć wykonanie albo zaprojektowanie i wykonanie robót budowlanych, określonych w załączniku II do dyrektywy 2014/24/UE, w załączniku I do dyrektywy 2014/25/UE oraz objętych działem 45 załącznika I do rozporządzenia (WE) nr 2195/2002 Parlamentu Europejskiego i Rady z dnia 5 listopada 2002 r. w sprawie Wspólnego Słownika Zamówień (CPV) (Dz. Urz. WE L 340 z 16.12.2002, str. 1, z późn. zm. ), zwanego dalej „Wspólnym Słownikiem Zamówień”, lub obiektu budowlanego, a także realizację obiektu budowlanego za pomocą dowolnych środków, zgodnie z wymaganiami określonymi przez zamawiającego;
 - **22)** sprzęcie wojskowym – należy przez to rozumieć wyposażenie specjalnie zaprojektowane lub zaadaptowane do potrzeb wojskowych i przeznaczone do użycia jako broń, amunicja lub materiały wojenne;
-- **23)** środkach komunikacji elektronicznej – należy przez to rozumieć środki komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344 oraz z 2024 r. poz. 1222);
+- **23)** środkach komunikacji elektronicznej – należy przez to rozumieć środki komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513);
 - **24)** środkach publicznych – należy przez to rozumieć środki publiczne w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **25)** udzieleniu zamówienia – należy przez to rozumieć zawarcie umowy w sprawie zamówienia publicznego;
 - **26)** umowie ramowej – należy przez to rozumieć umowę zawartą między zamawiającym a jednym lub większą liczbą wykonawców, której celem jest ustalenie warunków dotyczących zamówień, jakie mogą zostać udzielone w danym okresie, w szczególności cen i, jeżeli zachodzi taka potrzeba, przewidywanych ilości;
@@ -185,7 +185,7 @@ source: pdf
 
 **Art. 8.**
 
-1. Do czynności podejmowanych przez zamawiającego, wykonawców oraz uczestników konkursu w postępowaniu o udzielenie zamówienia i konkursie oraz do umów w sprawach zamówień publicznych stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061), jeżeli przepisy ustawy nie stanowią inaczej.
+1. Do czynności podejmowanych przez zamawiającego, wykonawców oraz uczestników konkursu w postępowaniu o udzielenie zamówienia i konkursie oraz do umów w sprawach zamówień publicznych stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184 i 507), jeżeli przepisy ustawy nie stanowią inaczej.
 
 2. Termin oznaczony w godzinach rozpoczyna się z początkiem pierwszej godziny i kończy się z upływem ostatniej godziny.
 
@@ -274,7 +274,7 @@ source: pdf
 - **4)** jest nabycie audycji i materiałów do audycji lub ich opracowanie, produkcja lub koprodukcja, jeżeli są przeznaczone na potrzeby świadczenia audiowizualnych usług medialnych lub radiowych usług medialnych – udzielanych przez dostawców audiowizualnych lub radiowych usług medialnych;
 - **5)** jest zakup czasu antenowego lub audycji od dostawców audiowizualnych lub radiowych usług medialnych;
 - **6)** jest nabycie własności lub innych praw do istniejących budynków lub nieruchomości;
-- **7)** są usługi finansowe związane z emisją, sprzedażą, kupnem lub zbyciem papierów wartościowych lub innych instrumentów finansowych, w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722), oraz operacje przeprowadzane z Europejskim Instrumentem Stabilności Finansowej i Europejskim Mechanizmem Stabilności;
+- **7)** są usługi finansowe związane z emisją, sprzedażą, kupnem lub zbyciem papierów wartościowych lub innych instrumentów finansowych, w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ), oraz operacje przeprowadzane z Europejskim Instrumentem Stabilności Finansowej i Europejskim Mechanizmem Stabilności;
 - **8)** są pożyczki lub kredyty, bez względu na to, czy wiążą się one z emisją, sprzedażą, kupnem lub zbyciem papierów wartościowych lub innych instrumentów finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, z wyjątkiem kredytów zaciąganych przez jednostki samorządu terytorialnego w ramach limitów zobowiązań określonych w uchwale budżetowej;
 - **9)** są usługi w dziedzinie obrony cywilnej, ochrony ludności i zapobiegania niebezpieczeństwom, świadczone przez organizacje lub stowarzyszenia o charakterze niekomercyjnym i objęte kodami CPV 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 oraz 85143000-3, określonymi we Wspólnym Słowniku Zamówień, z wyjątkiem usług transportu sanitarnego pacjentów;
 - **10)** (uchylony)
@@ -283,42 +283,42 @@ source: pdf
 2. Przepisów ustawy nie stosuje się do umów:
 
 - **1)** z zakresu prawa pracy;
-- **2)** koncesji na roboty budowlane oraz koncesji na usługi w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140), chyba że ustawa stanowi inaczej;
-- **3)** o których mowa w art. 149 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ).
+- **2)** koncesji na roboty budowlane oraz koncesji na usługi w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2025 r. poz. 1688), chyba że ustawa stanowi inaczej;
+- **3)** o których mowa w art. 149 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
 
 3. (uchylony)
 
-4. Przepisów ustawy nie stosuje się do zamówień dotyczących wytwarzania blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 16, 17, 19 i pkt 32 lit. a–e, g, h oraz m ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863), oraz ich personalizacji lub indywidualizacji.
+4. Przepisów ustawy nie stosuje się do zamówień dotyczących wytwarzania blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 pkt 16, 17, 19 i pkt 32 lit. a–e, g, h oraz m ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863 oraz z 2025 r. poz. 1881), oraz ich personalizacji lub indywidualizacji.
 
 5. Przepisów ustawy nie stosuje się do zamówień o wartości mniejszej niż progi unijne:
 
 - **1)** których przedmiotem są dostawy lub usługi służące wyłącznie do celów prac badawczych, eksperymentalnych, naukowych lub rozwojowych, które nie służą prowadzeniu przez zamawiającego produkcji masowej służącej osiągnięciu rentowności rynkowej lub pokryciu kosztów badań lub rozwoju;
 - **2)** których przedmiotem są dostawy lub usługi z zakresu działalności kulturalnej związanej z organizacją wystaw, koncertów, konkursów, festiwali, widowisk, spektakli teatralnych, przedsięwzięć z zakresu edukacji kulturalnej lub z gromadzeniem materiałów bibliotecznych przez biblioteki lub muzealiów, a także z zakresu działalności archiwalnej związanej z gromadzeniem materiałów archiwalnych, jeżeli zamówienia te nie służą wyposażaniu zamawiającego w środki trwałe przeznaczone do bieżącej obsługi jego działalności;
 - **3)** udzielanych przez inne niż określone w ust. 1 pkt 4 podmioty, których przedmiotem działalności jest produkcja i koprodukcja audycji i materiałów do audycji lub ich opracowanie, jeżeli zamówienia te są przeznaczone na potrzeby świadczenia audiowizualnych usług medialnych lub radiowych usług medialnych;
-- **4)** których przedmiotem są dostawy lub usługi z zakresu działalności oświatowej związanej z gromadzeniem w bibliotekach szkolnych podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych, o których mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750 i 854), jeżeli zamówienia te nie służą wyposażaniu zamawiającego w środki trwałe przeznaczone do bieżącej obsługi jego działalności;
+- **4)** których przedmiotem są dostawy lub usługi z zakresu działalności oświatowej związanej z gromadzeniem w bibliotekach szkolnych podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych, o których mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019 oraz z 2026 r. poz. 203 i 319), jeżeli zamówienia te nie służą wyposażaniu zamawiającego w środki trwałe przeznaczone do bieżącej obsługi jego działalności;
 - **5)** których przedmiotem są usługi lub roboty budowlane realizujące przedsięwzięcia rewitalizacyjne zawarte w gminnym programie rewitalizacji oraz wykonywane na obszarze Specjalnej Strefy Rewitalizacji, o których mowa odpowiednio w rozdziałach 4 i 5 ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278), jeżeli zamówienia te udzielane są:
     - **a)** przez gminę lub gminne jednostki organizacyjne organizacjom pozarządowym lub spółdzielniom socjalnym, a przedmiot zamówienia należy do działalności statutowej wykonawcy lub
     - **b)** w celu aktywizacji osób mających miejsce zamieszkania na obszarze Specjalnej Strefy Rewitalizacji, o której mowa w rozdziale 5 ustawy z dnia 9 października 2015 r. o rewitalizacji;
 
 - **6)** których przedmiotem są usługi z zakresu leśnictwa, objęte kodami CPV 77200000-2, 77210000-5, 77211000-2, 77211100-3, 77211200-4, 77211300-5, 77211400-6, 77211500-7, 77211600-8, 77220000-8, 77230000-1, 77231000-8, 77231200-0, 77231600-4 oraz 77231700-5 określonymi we Wspólnym Słowniku Zamówień;
-- **7)** udzielanych w ramach realizacji współpracy rozwojowej przez jednostki wojskowe, określone na podstawie art. 5 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2023 r. poz. 755);
+- **7)** udzielanych w ramach realizacji współpracy rozwojowej przez jednostki wojskowe, określone na podstawie art. 5 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2023 r. poz. 755 oraz z 2026 r. poz. 50);
 - **8)** udzielanych przez Ministra Sprawiedliwości – Prokuratora Generalnego albo jednostki organizacyjne mu podległe lub przez niego nadzorowane przywięziennym zakładom pracy, prowadzonym jako przedsiębiorstwa państwowe albo instytucje gospodarki budżetowej, związanych z zatrudnianiem osób pozbawionych wolności, jeżeli zasadnicza część działalności przywięziennego zakładu pracy dotyczy wykonywania zadań powierzonych mu przez Ministra Sprawiedliwości – Prokuratora Generalnego lub jednostki organizacyjne mu podległe lub przez niego nadzorowane, realizowanych samodzielnie lub przy udziale podwykonawców, pod warunkiem że co najmniej część zamówienia jest realizowana przez osoby pozbawione wolności;
-- **9)** udzielanych przez zarządzającego specjalną strefą ekonomiczną, o którym mowa w ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 1604), będącego podmiotem, o którym mowa w art. 4 pkt 3;
-- **10)** związanych z procesem wypłat środków gwarantowanych, o których mowa w art. 2 pkt 65 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2024 r. poz. 487), w szczególności usług świadczonych przez podmiot, z którym zostanie zawarta umowa o dokonanie wypłat środków gwarantowanych;
+- **9)** udzielanych przez zarządzającego specjalną strefą ekonomiczną, o którym mowa w ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2023 r. poz. 1604 oraz z 2025 r. poz. 1173), będącego podmiotem, o którym mowa w art. 4 pkt 3;
+- **10)** związanych z procesem wypłat środków gwarantowanych, o których mowa w art. 2 pkt 65 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2026 r. poz. 620 i 644), w szczególności usług świadczonych przez podmiot, z którym zostanie zawarta umowa o dokonanie wypłat środków gwarantowanych;
 - **11)** związanych z przymusową restrukturyzacją albo umorzeniem lub konwersją instrumentów kapitałowych lub zobowiązań kwalifikowalnych, o których mowa w art. 101 ust. 7 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, lub związanych z podejmowaniem działań i wykonywaniem uprawnień na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/23 z dnia 16 grudnia 2020 r. w sprawie ram na potrzeby prowadzenia działań naprawczych oraz restrukturyzacji i uporządkowanej likwidacji w odniesieniu do kontrahentów centralnych oraz zmieniającego rozporządzenia (UE) nr 1095/2010, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 806/2014 i (UE) 2015/2365 oraz dyrektywy 2002/47/WE, 2004/25/WE, 2007/36/WE, 2014/59/UE i (UE) 2017/1132 (Dz. Urz. UE L 22 z 22.01.2021, str. 1), zwanego dalej „rozporządzeniem nr 2021/23”, których przedmiotem jest: 241 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, aa) przeprowadzenie wyceny, o której mowa w art. 24 ust. 1 rozporządzenia nr 2021/23,
     - **a)** przeprowadzenie oszacowania, o którym mowa w art. 137 ust. 1 oraz art.
     - **b)** świadczenie usług doradztwa, w tym doradztwa strategicznego, ekonomiczno-finansowego, podatkowego, prawnego i informatycznego;
     - **c)** (uchylona)
 
 - **12)** (uchylony)
-- **13)** związanych z zastosowaniem rządowych instrumentów stabilizacji finansowej, o których mowa w ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2024 r. poz. 505), w szczególności zamówień, których przedmiotem jest:
+- **13)** związanych z zastosowaniem rządowych instrumentów stabilizacji finansowej, o których mowa w ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2024 r. poz. 505 oraz z 2026 r. poz. 176), w szczególności zamówień, których przedmiotem jest:
     - **a)** dokonanie aktualizacji oszacowania, o którym mowa w art. 19f ust. 8 tej ustawy,
     - **b)** świadczenie usług doradztwa, w tym doradztwa strategicznego, ekonomiczno-finansowego, podatkowego, prawnego i informatycznego,
     - **c)** powierzenie podmiotowi trzeciemu zarządzania prawami, o których mowa w art. 19b ust. 1 tej ustawy;
 
 - **14)** na usługi Banku Gospodarstwa Krajowego, w zakresie zlecenia przez:
     - **a)** ministra właściwego do spraw finansów publicznych spraw i czynności związanych z udzieleniem wsparcia, o którym mowa w art. 3 ust. 1 ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776), lub udzieleniem gwarancji spłaty kredytu refinansowego, o której mowa w art. 4 ust. 1 tej ustawy, w tym związanych z zabezpieczeniem lub obsługą udzielonego wsparcia lub udzielonej gwarancji,
-    - **b)** Narodowy Bank Polski spraw i czynności związanych z udzieleniem kredytów, o których mowa w art. 42 i art. 43 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025), w tym związanych z zabezpieczeniem lub obsługą tych kredytów.
+    - **b)** Narodowy Bank Polski spraw i czynności związanych z udzieleniem kredytów, o których mowa w art. 42 i art. 43 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025 oraz z 2026 r. poz. 340), w tym związanych z zabezpieczeniem lub obsługą tych kredytów.
 
 6. Do zasadniczej części działalności przywięziennego zakładu pracy, o której mowa w ust. 5 pkt 8, wlicza się działalność związaną z realizacją zamówień w związku ze społeczną i zawodową integracją osób, o których mowa w art. 94 ust. 1 pkt 5.
 
@@ -327,7 +327,7 @@ source: pdf
 1. Przepisów ustawy nie stosuje się do:
 
 - **1)** zamówień lub konkursów:
-    - **a)** którym nadano klauzulę zgodnie z przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632 i 1222) lub którym muszą towarzyszyć, na podstawie odrębnych przepisów, szczególne środki bezpieczeństwa lub
+    - **a)** którym nadano klauzulę zgodnie z przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209) lub którym muszą towarzyszyć, na podstawie odrębnych przepisów, szczególne środki bezpieczeństwa lub
     - **b)** jeżeli wymaga tego istotny interes bezpieczeństwa państwa – w zakresie, w jakim ochrona istotnych interesów bezpieczeństwa państwa nie może zostać zagwarantowana w inny sposób, w szczególności z zastosowaniem przepisów działu VI;
 
 - **2)** zamówień, dotyczących produkcji lub handlu bronią, amunicją lub materiałami wojennymi, o których mowa w art. 346 Traktatu o funkcjonowaniu Unii Europejskiej, jeżeli wymaga tego podstawowy interes bezpieczeństwa państwa, a udzielenie zamówienia bez zastosowania ustawy nie wpłynie negatywnie na warunki konkurencji na rynku wewnętrznym w odniesieniu do produktów, które nie są przeznaczone wyłącznie do celów wojskowych w zakresie, w jakim ochrona podstawowych interesów bezpieczeństwa państwa nie może zostać zagwarantowana w inny sposób, w szczególności z zastosowaniem przepisów działu VI.
@@ -411,7 +411,7 @@ source: pdf
 
 2. Zamawiający może ograniczyć dostęp do informacji związanych z postępowaniem o udzielenie zamówienia tylko w przypadkach określonych w ustawie.
 
-3. Nie ujawnia się informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233), jeżeli wykonawca, wraz z przekazaniem takich informacji, zastrzegł, że nie mogą być one udostępniane oraz wykazał, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa. Wykonawca nie może zastrzec informacji, o których mowa w art. 222 ust. 5.
+3. Nie ujawnia się informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2026 r. poz. 85), jeżeli wykonawca, wraz z przekazaniem takich informacji, zastrzegł, że nie mogą być one udostępniane oraz wykazał, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa. Wykonawca nie może zastrzec informacji, o których mowa w art. 222 ust. 5.
 
 4. Zamawiający może określić w dokumentach zamówienia lub w ogłoszeniu o zamówieniu wymaganie dotyczące zachowania poufnego charakteru informacji przekazanych wykonawcy w toku postępowania o udzielenie zamówienia.
 
@@ -468,7 +468,7 @@ source: pdf
 
 **Art. 23.**
 
-1. Zamawiający publiczni, o których mowa w art. 4 pkt 1 i 2, oraz ich związki, nie później niż w terminie 30 dni od dnia przyjęcia budżetu lub planu finansowego przez uprawniony organ, sporządzają plan postępowań o udzielenie zamówień, jakie przewidują przeprowadzić w danym roku finansowym. Plan zamieszcza się w Biuletynie Zamówień Publicznych, na zasadach określonych w dziale III w rozdziale 2, oraz na stronie internetowej zamawiającego.
+1. Zamawiający publiczni, o których mowa w art. 4 pkt 1 i 2, oraz ich związki, niepóźniej niż w terminie 30 dni od dnia przyjęcia budżetu lub planu finansowego przez uprawniony organ, sporządzają plan postępowań o udzielenie zamówień, jakie przewidują przeprowadzić w danym roku finansowym. Plan zamieszcza się w Biuletynie Zamówień Publicznych, na zasadach określonych w dziale III w rozdziale 2, oraz na stronie internetowej zamawiającego.
 
 2. W Biuletynie Zamówień Publicznych oraz na stronie internetowej zamawiającego plan postępowań o udzielenie zamówień mogą zamieszczać również zamawiający inni niż określeni w ust. 1.
 
@@ -564,7 +564,7 @@ source: pdf
 
 3. Przy obliczaniu wartości zamówienia na roboty budowlane uwzględnia się także wartość dostaw i usług oddanych przez zamawiającego do dyspozycji wykonawcy, o ile są one niezbędne do wykonania tych robót budowlanych.
 
-4. W przypadku zamówień udzielanych w częściach, do udzielenia zamówienia na daną część zamawiający może stosować przepisy ustawy właściwe dla wartości tej części zamówienia, jeżeli jej wartość jest mniejsza niż wyrażona w złotych równowartość kwoty 80 000 euro dla dostaw lub usług oraz 1 000 000 euro dla robót budowlanych, pod warunkiem że łączna wartość tych części wynosi nie więcej niż 20 % wartości zamówienia.
+4. W przypadku zamówień udzielanych w częściach, do udzielenia zamówienia na daną część zamawiający może stosować przepisy ustawy właściwe dla wartości tej części zamówienia, jeżeli jej wartość jest mniejsza niż wyrażona w złotych równowartość kwoty 80 000 euro dla dostaw lub usług oraz 1 000 000 euro dla robót budowlanych, pod warunkiem że łączna wartość tych części wynosi niewięcej niż 20 % wartości zamówienia.
 
 **Art. 31.**
 
@@ -596,7 +596,7 @@ source: pdf
 
 1. Wartość zamówienia na roboty budowlane ustala się na podstawie:
 
-- **1)** kosztorysu inwestorskiego sporządzanego na podstawie dokumentacji projektowej oraz specyfikacji technicznych wykonania i odbioru robót albo na podstawie planowanych kosztów robót budowlanych określonych w programie funkcjonalno-użytkowym, jeżeli przedmiotem zamówienia jest wykonanie robót budowlanych w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725, 834 i 1222);
+- **1)** kosztorysu inwestorskiego sporządzanego na podstawie dokumentacji projektowej oraz specyfikacji technicznych wykonania i odbioru robót albo na podstawie planowanych kosztów robót budowlanych określonych w programie funkcjonalno-użytkowym, jeżeli przedmiotem zamówienia jest wykonanie robót budowlanych w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2026 r. poz. 524, 605 i 646);
 - **2)** planowanych kosztów prac projektowych oraz planowanych kosztów robót budowlanych określonych w programie funkcjonalno-użytkowym, jeżeli przedmiotem zamówienia jest zaprojektowanie i wykonanie robót budowlanych w rozumieniu ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 
 2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, metody i podstawy:
@@ -615,12 +615,12 @@ source: pdf
 
 - **1)** nieoznaczony lub których okres obowiązywania nie może być oznaczony, wartością zamówienia jest wartość miesięczna pomnożona przez 48;
 - **2)** oznaczony:
-    - **a)** nie dłuższy niż 12 miesięcy, wartością zamówienia jest wartość ustalona z uwzględnieniem okresu wykonywania zamówienia,
+    - **a)** niedłuższy niż 12 miesięcy, wartością zamówienia jest wartość ustalona z uwzględnieniem okresu wykonywania zamówienia,
     - **b)** dłuższy niż 12 miesięcy, wartością zamówienia jest wartość ustalona z uwzględnieniem okresu wykonywania zamówienia, z uwzględnieniem również wartości końcowej przedmiotu umowy w sprawie zamówienia publicznego.
 
 3. Podstawą ustalenia wartości zamówienia na usługi, których łączna cena nie może być określona, jest:
 
-- **1)** całkowita wartość zamówienia przez cały okres jego realizacji – w przypadku zamówień udzielanych na okres oznaczony nie dłuższy niż 48 miesięcy;
+- **1)** całkowita wartość zamówienia przez cały okres jego realizacji – w przypadku zamówień udzielanych na okres oznaczony niedłuższy niż 48 miesięcy;
 - **2)** wartość miesięczna zamówienia pomnożona przez 48 – w przypadku zamówień udzielanych na czas nieoznaczony lub oznaczony dłuższy niż 48 miesięcy.
 
 4. Jeżeli zamówienie obejmuje usługi:
@@ -631,7 +631,7 @@ source: pdf
 
 **Art. 36.**
 
-1. Ustalenia wartości zamówienia dokonuje się nie wcześniej niż 3 miesiące przed dniem wszczęcia postępowania o udzielenie zamówienia, jeżeli przedmiotem zamówienia są dostawy lub usługi, oraz nie wcześniej niż 6 miesięcy przed dniem wszczęcia postępowania o udzielenie zamówienia, jeżeli przedmiotem zamówienia są roboty budowlane, z tym że w przypadku zamówień udzielanych w częściach powyższe terminy odnoszą się do wszczęcia pierwszego z postępowań.
+1. Ustalenia wartości zamówienia dokonuje się niewcześniej niż 3 miesiące przed dniem wszczęcia postępowania o udzielenie zamówienia, jeżeli przedmiotem zamówienia są dostawy lub usługi, oraz niewcześniej niż 6 miesięcy przed dniem wszczęcia postępowania o udzielenie zamówienia, jeżeli przedmiotem zamówienia są roboty budowlane, z tym że w przypadku zamówień udzielanych w częściach powyższe terminy odnoszą się do wszczęcia pierwszego z postępowań.
 
 2. Jeżeli po ustaleniu wartości zamówienia nastąpiła zmiana okoliczności mających wpływ na dokonane ustalenie, zamawiający przed wszczęciem postępowania dokonuje zmiany wartości zamówienia.
 
@@ -806,11 +806,11 @@ source: pdf
 - **3)** w okresie 3 lat przed wszczęciem postępowania o udzielenie zamówienia pozostawały w stosunku pracy lub zlecenia z wykonawcą, otrzymywały od wykonawcy wynagrodzenie z innego tytułu lub były członkami organów zarządzających lub organów nadzorczych wykonawców ubiegających się o udzielenie zamówienia;
 - **4)** pozostają z wykonawcą w takim stosunku prawnym lub faktycznym, że istnieje uzasadniona wątpliwość co do ich bezstronności lub niezależności w związku z postępowaniem o udzielenie zamówienia z uwagi na posiadanie bezpośredniego lub pośredniego interesu finansowego, ekonomicznego lub osobistego w określonym rozstrzygnięciu tego postępowania.
 
-3. Kierownik zamawiającego, członek komisji przetargowej oraz inne osoby wykonujące czynności związane z przeprowadzeniem postępowania o udzielenie zamówienia po stronie zamawiającego lub osoby mogące wpłynąć na wynik tego postępowania lub osoby udzielające zamówienia podlegają wyłączeniu z dokonywania tych czynności, jeżeli zostały prawomocnie skazane za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia, o którym mowa w art. 228–230a, art. 270, art. 276, art. 286, art. 287, art. 296, art. 296a, art. 297, art. 303 lub art. 305 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17 i 1228), zwanej dalej „Kodeksem karnym”, o ile nie nastąpiło zatarcie skazania.
+3. Kierownik zamawiającego, członek komisji przetargowej oraz inne osoby wykonujące czynności związane z przeprowadzeniem postępowania o udzielenie zamówienia po stronie zamawiającego lub osoby mogące wpłynąć na wynik tego postępowania lub osoby udzielające zamówienia podlegają wyłączeniu z dokonywania tych czynności, jeżeli zostały prawomocnie skazane za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia, o którym mowa w art. 228–230a, art. 270, art. 276, art. 286, art. 287, art. 296, art. 296a, art. 297, art. 303 lub art. 305 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), zwanej dalej „Kodeksem karnym”, o ile nie nastąpiło zatarcie skazania.
 
 4. Osoby, o których mowa w ust. 1 i 3, składają, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, oświadczenie w formie pisemnej o istnieniu albo braku istnienia okoliczności, o których mowa odpowiednio w ust. 2 lub 3. Przed odebraniem oświadczenia, kierownik zamawiającego lub osoba, której powierzył czynności w postępowaniu, uprzedza osoby składające oświadczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
-5. Oświadczenie o istnieniu okoliczności, o których mowa w ust. 2, składa się niezwłocznie po powzięciu wiadomości o ich istnieniu, a oświadczenie o braku istnienia tych okoliczności nie później niż przed zakończeniem postępowania o udzielenie zamówienia.
+5. Oświadczenie o istnieniu okoliczności, o których mowa w ust. 2, składa się niezwłocznie po powzięciu wiadomości o ich istnieniu, a oświadczenie o braku istnienia tych okoliczności niepóźniej niż przed zakończeniem postępowania o udzielenie zamówienia.
 
 6. Oświadczenie o braku lub istnieniu okoliczności, o których mowa w ust. 3, składa się przed rozpoczęciem wykonywania czynności związanych z przeprowadzeniem postępowania o udzielenie zamówienia.
 
@@ -858,7 +858,7 @@ source: pdf
 
 2. W postępowaniu o udzielenie zamówienia lub konkursie o wartości mniejszej niż progi unijne ofertę, wniosek o dopuszczenie do udziału w postępowaniu o udzielenie zamówienia lub w konkursie, oświadczenie, o którym mowa w art. 125 ust. 1, składa się, pod rygorem nieważności, w formie elektronicznej lub w postaci elektronicznej opatrzonej podpisem zaufanym lub podpisem osobistym.
 
-**Art. 64.** Zamawiający korzysta, w postępowaniu o udzielenie zamówienia lub w konkursie, tylko z takich narzędzi i urządzeń komunikacji elektronicznej, które są niedyskryminujące, ogólnie dostępne oraz interoperacyjne w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307 i 1222), z produktami powszechnie używanymi służącymi elektronicznemu przechowywaniu, przetwarzaniu i przesyłaniu danych, i które nie ograniczają wykonawcom dostępu do postępowania o udzielenie zamówienia lub konkursu.
+**Art. 64.** Zamawiający korzysta, w postępowaniu o udzielenie zamówienia lub w konkursie, tylko z takich narzędzi i urządzeń komunikacji elektronicznej, które są niedyskryminujące, ogólnie dostępne oraz interoperacyjne w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160), z produktami powszechnie używanymi służącymi elektronicznemu przechowywaniu, przetwarzaniu i przesyłaniu danych, i które nie ograniczają wykonawcom dostępu do postępowania o udzielenie zamówienia lub konkursu.
 
 **Art. 65.**
 
@@ -870,9 +870,9 @@ source: pdf
 - **4)** zamawiający wymaga przedstawienia modelu fizycznego, modelu w skali lub próbki, których nie można przekazać przy użyciu środków komunikacji elektronicznej;
 - **5)** jest to niezbędne z powodu naruszenia bezpieczeństwa środków komunikacji elektronicznej;
 - **6)** jest to niezbędne z uwagi na potrzebę ochrony informacji szczególnie wrażliwych, której nie można zagwarantować w sposób dostateczny przy użyciu środków komunikacji elektronicznej lub innych narzędzi, lub urządzeń, które są ogólnie dostępne dla wykonawców lub które mogłyby być udostępnione przez zamawiającego;
-- **7)** zamówienie jest udzielane lub konkurs jest organizowany przez placówkę zagraniczną Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 85, 834 i 1006) w państwie trzecim, niebędącym członkiem Unii Europejskiej, z którym Unia Europejska nie zawarła umowy o wzajemnym uznawaniu usług zaufania, o której mowa w art. 14 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 73), oraz wartość tego zamówienia lub konkursu jest mniejsza niż progi unijne.
+- **7)** zamówienie jest udzielane lub konkurs jest organizowany przez placówkę zagraniczną Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840) w państwie trzecim, niebędącym członkiem Unii Europejskiej, z którym Unia Europejska nie zawarła umowy o wzajemnym uznawaniu usług zaufania, o której mowa w art. 14 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 73), oraz wartość tego zamówienia lub konkursu jest mniejsza niż progi unijne.
 
-2. W przypadku odstąpienia przez zamawiającego od wymagania użycia środków komunikacji elektronicznej, z uwagi na wystąpienie jednej z okoliczności, o której mowa w ust. 1, w szczególności w odniesieniu do wniosku o dopuszczenie do udziału w postępowaniu lub konkursie, oferty, pracy konkursowej albo ich części, podmiotowego środka dowodowego lub przedmiotowego środka dowodowego, można je przekazać, zgodnie z wyborem zamawiającego, za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467 i 1222), osobiście lub za pośrednictwem posłańca.
+2. W przypadku odstąpienia przez zamawiającego od wymagania użycia środków komunikacji elektronicznej, z uwagi na wystąpienie jednej z okoliczności, o której mowa w ust. 1, w szczególności w odniesieniu do wniosku o dopuszczenie do udziału w postępowaniu lub konkursie, oferty, pracy konkursowej albo ich części, podmiotowego środka dowodowego lub przedmiotowego środka dowodowego, można je przekazać, zgodnie z wyborem zamawiającego, za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2026 r. poz. 558), osobiście lub za pośrednictwem posłańca.
 
 3. W przypadku odstąpienia przez zamawiającego od wymagania użycia środków komunikacji elektronicznej, z uwagi na wystąpienie jednej z okoliczności, o której mowa w ust. 1, wnioski o dopuszczenie do udziału w postępowaniu lub konkursie, wnioski, o których mowa w art. 371 ust. 3, oferty lub ich części składa się zgodnie z wyborem zamawiającego, pod rygorem nieważności, w formie pisemnej lub w formie lub postaci, o której mowa w art. 63.
 
@@ -946,7 +946,7 @@ source: pdf
 
 2. Załączniki do protokołu postępowania udostępnia się po dokonaniu wyboru najkorzystniejszej oferty albo unieważnieniu postępowania, z tym że:
 
-- **1)** oferty wraz z załącznikami udostępnia się niezwłocznie po otwarciu ofert, nie później jednak niż w terminie 3 dni od dnia otwarcia ofert, z uwzględnieniem art. 166 ust. 3 lub art. 291 ust. 2 zdanie drugie,
+- **1)** oferty wraz z załącznikami udostępnia się niezwłocznie po otwarciu ofert, niepóźniej jednak niż w terminie 3 dni od dnia otwarcia ofert, z uwzględnieniem art. 166 ust. 3 lub art. 291 ust. 2 zdanie drugie,
 - **2)** wnioski o dopuszczenie do udziału w postępowaniu wraz z załącznikami udostępnia się od dnia poinformowania o wynikach oceny tych wniosków – przy czym nie udostępnia się informacji, które mają charakter poufny, w tym przekazywanych w toku negocjacji lub dialogu.
 
 3. W przypadku gdy wniesienie żądania dotyczącego prawa, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, spowoduje ograniczenie przetwarzania danych osobowych zawartych w protokole postępowania lub załącznikach do tego protokołu, od dnia zakończenia postępowania o udzielenie zamówienia zamawiający nie udostępnia tych danych, chyba że zachodzą przesłanki, o których mowa w art. 18 ust. 2 rozporządzenia 2016/679.
@@ -988,7 +988,7 @@ source: pdf
 
 **Art. 81.**
 
-1. Zamawiający przekazuje Prezesowi Urzędu informację o złożonych wnioskach o dopuszczenie do udziału w postępowaniu lub ofertach, nie później niż w terminie 7 dni od dnia otwarcia odpowiednio ofert lub ofert dodatkowych albo ofert wstępnych lub ofert ostatecznych albo unieważnienia postępowania.
+1. Zamawiający przekazuje Prezesowi Urzędu informację o złożonych wnioskach o dopuszczenie do udziału w postępowaniu lub ofertach, niepóźniej niż w terminie 7 dni od dnia otwarcia odpowiednio ofert lub ofert dodatkowych albo ofert wstępnych lub ofert ostatecznych albo unieważnienia postępowania.
 
 2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, zakres danych zawartych w informacji, o której mowa w ust. 1, jej wzór, sposób sporządzania oraz sposób i tryb jej przekazywania, w tym sposób liczenia terminu, o którym mowa w ust. 1, mając na względzie obowiązek Prezesa Urzędu dokonywania bieżącej analizy funkcjonowania systemu zamówień, w tym w szczególności w zakresie informacji dotyczących rodzajów zamawiających, rodzajów i wartości zamówień, liczby wniosków o dopuszczenie do udziału w postępowaniu lub ofert i trybów postępowania o udzielenie zamówienia.
 
@@ -1043,7 +1043,7 @@ source: pdf
 
 **Art. 85.**
 
-1. Jeżeli wykonawca lub podmiot, który należy z wykonawcą do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 594), doradzał lub w inny sposób był zaangażowany w przygotowanie postępowania o udzielenie tego zamówienia, zamawiający podejmuje odpowiednie środki w celu zagwarantowania, że udział tego wykonawcy w postępowaniu nie zakłóci konkurencji, w szczególności przekazuje pozostałym wykonawcom istotne informacje, które przekazał lub uzyskał w związku z zaangażowaniem wykonawcy lub tego podmiotu w przygotowanie postępowania, oraz wyznacza odpowiedni termin na złożenie ofert. Zamawiający wskazuje w protokole postępowania środki mające na celu zapobieżenie zakłóceniu konkurencji.
+1. Jeżeli wykonawca lub podmiot, który należy z wykonawcą do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz. 1714), doradzał lub w inny sposób był zaangażowany w przygotowanie postępowania o udzielenie tego zamówienia, zamawiający podejmuje odpowiednie środki w celu zagwarantowania, że udział tego wykonawcy w postępowaniu nie zakłóci konkurencji, w szczególności przekazuje pozostałym wykonawcom istotne informacje, które przekazał lub uzyskał w związku z zaangażowaniem wykonawcy lub tego podmiotu w przygotowanie postępowania, oraz wyznacza odpowiedni termin na złożenie ofert. Zamawiający wskazuje w protokole postępowania środki mające na celu zapobieżenie zakłóceniu konkurencji.
 
 2. Wykonawca zaangażowany w przygotowanie postępowania o udzielenie zamówienia podlega wykluczeniu z tego postępowania wyłącznie w przypadku, gdy spowodowane tym zaangażowaniem zakłócenie konkurencji nie może być wyeliminowane w inny sposób niż przez wykluczenie wykonawcy z udziału w tym postępowaniu. Przed wykluczeniem wykonawcy zamawiający zapewnia temu wykonawcy możliwość udowodnienia, że jego zaangażowanie w przygotowanie postępowania o udzielenie zamówienia nie zakłóci konkurencji.
 
@@ -1132,16 +1132,17 @@ source: pdf
 
 1. Zamawiający może zastrzec w ogłoszeniu o zamówieniu, że o udzielenie zamówienia mogą ubiegać się wyłącznie wykonawcy mający status zakładu pracy chronionej, spółdzielnie socjalne oraz inni wykonawcy, których głównym celem lub głównym celem działalności ich wyodrębnionych organizacyjnie jednostek, które będą realizowały zamówienie, jest społeczna i zawodowa integracja osób społecznie marginalizowanych, w szczególności:
 
-- **1)** osób niepełnosprawnych w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i 1165),
-- **2)** bezrobotnych w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
+- **1)** osób niepełnosprawnych w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26),
+- **2)** bezrobotnych w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620, 1746 i 1794 oraz z 2026 r. poz. 451 i
+- **507)** ,
 - **3)** osób poszukujących pracy, niepozostających w zatrudnieniu lub niewykonujących innej pracy zarobkowej, w rozumieniu ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia,
-- **4)** osób usamodzielnianych, o których mowa w art. 140 ust. 1 i 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177, 742, 743 i 858),
-- **5)** osób pozbawionych wolności lub zwalnianych z zakładów karnych, o których mowa w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2024 r. poz. 706), mających trudności w integracji ze środowiskiem,
-- **6)** osób z zaburzeniami psychicznymi w rozumieniu ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917),
-- **7)** osób bezdomnych w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm. ),
-- **8)** osób, które uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą, o których mowa w ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1504 oraz z 2024 r. poz. 854),
+- **4)** osób usamodzielnianych, o których mowa w art. 140 ust. 1 i 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301 oraz z 2026 r. poz. 187 i 203),
+- **5)** osób pozbawionych wolności lub zwalnianych z zakładów karnych, o których mowa w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2025 r. poz. 911 i 1423), mających trudności w integracji ze środowiskiem,
+- **6)** osób z zaburzeniami psychicznymi w rozumieniu ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917 oraz z 2026 r. poz. 187),
+- **7)** osób bezdomnych w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2026 r. poz. 639),
+- **8)** osób, które uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą, o których mowa w ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619, 621 i 1794 oraz z 2026 r. poz. 203),
 - **9)** osób do 30. roku życia oraz po ukończeniu 50. roku życia, posiadających status osoby poszukującej pracy, bez zatrudnienia,
-- **10)** osób będących członkami mniejszości znajdującej się w niekorzystnej sytuacji, w szczególności będących członkami mniejszości narodowych i etnicznych w rozumieniu ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r. poz. 823) ‒ pod warunkiem, że procentowy wskaźnik zatrudnienia osób należących do jednej lub więcej kategorii, o których mowa w pkt 1–10, jest nie mniejszy niż 30 % osób zatrudnionych u wykonawcy albo w jego jednostce, która będzie realizowała zamówienie.
+- **10)** osób będących członkami mniejszości znajdującej się w niekorzystnej sytuacji, w szczególności będących członkami mniejszości narodowych i etnicznych w rozumieniu ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2026 r. poz. 75) ‒ pod warunkiem, że procentowy wskaźnik zatrudnienia osób należących do jednej lub więcej kategorii, o których mowa w pkt 1–10, jest niemniejszy niż 30 % osób zatrudnionych u wykonawcy albo w jego jednostce, która będzie realizowała zamówienie.
 
 1a. W przypadku udzielenia zamówienia przywięziennemu zakładowi pracy, zakładowi pracy chronionej, spółdzielni socjalnej lub innemu wykonawcy, o którym mowa w ust. 1, wartość procentowego wskaźnika, o którym mowa w ust. 1, ustala się w odniesieniu do ogólnego zatrudnienia w tym podmiocie osób społecznie marginalizowanych.
 
@@ -1152,7 +1153,7 @@ source: pdf
 
 **Art. 95.**
 
-1. Zamawiający określa w ogłoszeniu o zamówieniu lub dokumentach zamówienia na usługi lub roboty budowlane wymagania związane z realizacją zamówienia w zakresie zatrudnienia przez wykonawcę lub podwykonawcę na podstawie stosunku pracy osób wykonujących wskazane przez zamawiającego czynności w zakresie realizacji zamówienia, jeżeli wykonanie tych czynności polega na wykonywaniu pracy w sposób określony w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222).
+1. Zamawiający określa w ogłoszeniu o zamówieniu lub dokumentach zamówienia na usługi lub roboty budowlane wymagania związane z realizacją zamówienia w zakresie zatrudnienia przez wykonawcę lub podwykonawcę na podstawie stosunku pracy osób wykonujących wskazane przez zamawiającego czynności w zakresie realizacji zamówienia, jeżeli wykonanie tych czynności polega na wykonywaniu pracy w sposób określony w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25 i 473).
 
 2. W przypadku gdy zamawiający przewiduje wymagania, o których mowa w ust. 1, określa w dokumentach zamówienia w szczególności:
 
@@ -1173,7 +1174,7 @@ source: pdf
     - **c)** osób usamodzielnianych, o których mowa w art. 140 ust. 1 i 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej,
     - **d)** młodocianych, o których mowa w przepisach prawa pracy, w celu przygotowania zawodowego,
     - **e)** osób niepełnosprawnych w rozumieniu ustawy z dnia 27 sierpnia 1997 r.
-    - **f)** innych osób niż określone w lit. a–e, o których mowa w ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2022 r. poz. 2241) lub we właściwych przepisach państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego,
+    - **f)** innych osób niż określone w lit. a–e, o których mowa w ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2025 r. poz. 1718) lub we właściwych przepisach państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego,
     - **g)** osób do 30. roku życia oraz po ukończeniu 50. roku życia, posiadających status osoby poszukującej pracy, bez zatrudnienia.
 
 3. W przypadku, o którym mowa w ust. 2 pkt 2, zamawiający określa w dokumentach zamówienia liczbę i okres wymaganego zatrudnienia osób, których dotyczy ten wymóg.
@@ -1184,7 +1185,7 @@ source: pdf
 
 1. Zamawiający może żądać od wykonawców wniesienia wadium.
 
-2. Zamawiający określa kwotę wadium w wysokości nie większej niż 3 % wartości zamówienia.
+2. Zamawiający określa kwotę wadium w wysokości niewiększej niż 3 % wartości zamówienia.
 
 3. Jeżeli zamawiający dopuszcza składanie ofert częściowych lub udziela zamówienia w częściach, określa kwotę wadium dla każdej z części. Przepis ust. 2 stosuje się odpowiednio.
 
@@ -1199,7 +1200,7 @@ source: pdf
 - **1)** pieniądzu;
 - **2)** gwarancjach bankowych;
 - **3)** gwarancjach ubezpieczeniowych;
-- **4)** poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2024 r. poz. 419).
+- **4)** poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2025 r. poz. 98).
 
 8. Wadium wnoszone w pieniądzu wpłaca się przelewem na rachunek bankowy wskazany przez zamawiającego.
 
@@ -1209,13 +1210,13 @@ source: pdf
 
 **Art. 98.**
 
-1. Zamawiający zwraca wadium niezwłocznie, nie później jednak niż w terminie 7 dni od dnia wystąpienia jednej z okoliczności:
+1. Zamawiający zwraca wadium niezwłocznie, niepóźniej jednak niż w terminie 7 dni od dnia wystąpienia jednej z okoliczności:
 
 - **1)** upływu terminu związania ofertą;
 - **2)** zawarcia umowy w sprawie zamówienia publicznego;
 - **3)** unieważnienia postępowania o udzielenie zamówienia, z wyjątkiem sytuacji gdy nie zostało rozstrzygnięte odwołanie na czynność unieważnienia albo nie upłynął termin do jego wniesienia.
 
-2. Zamawiający, niezwłocznie, nie później jednak niż w terminie 7 dni od dnia złożenia wniosku zwraca wadium wykonawcy:
+2. Zamawiający, niezwłocznie, niepóźniej jednak niż w terminie 7 dni od dnia złożenia wniosku zwraca wadium wykonawcy:
 
 - **1)** który wycofał ofertę przed upływem terminu składania ofert;
 - **2)** którego oferta została odrzucona;
@@ -1305,7 +1306,7 @@ source: pdf
 - **6)** określonej etykiety;
 - **7)** instrukcji użytkowania;
 - **8)** procesów i metod produkcji na każdym etapie cyklu życia obiektów budowlanych;
-- **9)** dodatkowych badań i testów przeprowadzanych przez jednostki autoryzowane w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854 oraz z 2024 r. poz. 1089);
+- **9)** dodatkowych badań i testów przeprowadzanych przez jednostki autoryzowane w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568);
 - **10)** określonych zasad dotyczących projektowania i kosztorysowania;
 - **11)** warunków testowania, kontroli i odbioru obiektów budowlanych;
 - **12)** metod i technik budowy;
@@ -1390,15 +1391,13 @@ source: pdf
 
 1. Z postępowania o udzielenie zamówienia wyklucza się wykonawcę:
 
-- **1)** będącego osobą fizyczną, którego prawomocnie skazano za przestępstwo: o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2024 r. poz. 930),
+- **1)** będącego osobą fizyczną, którego prawomocnie skazano za przestępstwo:
     - **a)** udziału w zorganizowanej grupie przestępczej albo związku mającym na celu popełnienie przestępstwa lub przestępstwa skarbowego, o którym mowa w art. 258 Kodeksu karnego,
     - **b)** handlu ludźmi, o którym mowa w art. 189a Kodeksu karnego,
-    - **c)** o którym mowa w art. 228–230a, art. 250a Kodeksu karnego, w art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2023 r. poz. 2048 oraz z 2024 r. poz. 1166) lub w art. 54 ust. 1–4 ustawy z dnia 12 maja 2011 r.
+    - **c)** o którym mowa w art. 228–230a, art. 250a Kodeksu karnego, w art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2026 r. poz. 95 i 615) lub w art. 54 ust. 1–4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2026 r. poz. 253),
     - **d)** finansowania przestępstwa o charakterze terrorystycznym, o którym mowa w art. 165a Kodeksu karnego, lub przestępstwo udaremniania lub utrudniania stwierdzenia przestępnego pochodzenia pieniędzy lub ukrywania ich pochodzenia, o którym mowa w art. 299 Kodeksu karnego,
     - **e)** o charakterze terrorystycznym, o którym mowa w art. 115 § 20 Kodeksu karnego, lub mające na celu popełnienie tego przestępstwa,
-    - **f)** powierzenia wykonywania pracy małoletniemu cudzoziemcowi, o którym mowa w art. 9 ust. 2 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz.
-
-- **1745)** ,
+    - **f)** powierzenia wykonywania pracy małoletniemu cudzoziemcowi, o którym mowa w art. 9 ust. 2 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 1567),
     - **g)** przeciwko obrotowi gospodarczemu, o których mowa w art. 296– 307 Kodeksu karnego, przestępstwo oszustwa, o którym mowa w art. 286 Kodeksu karnego, przestępstwo przeciwko wiarygodności dokumentów, o których mowa w art. 270–277d Kodeksu karnego, lub przestępstwo skarbowe,
     - **h)** o którym mowa w art. 9 ust. 1 i 3 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej – lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
 
@@ -1408,7 +1407,7 @@ source: pdf
 - **5)** jeżeli zamawiający może stwierdzić, na podstawie wiarygodnych przesłanek, że wykonawca zawarł z innymi wykonawcami porozumienie mające na celu zakłócenie konkurencji, w szczególności jeżeli należąc do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, złożyli odrębne oferty, oferty częściowe lub wnioski o dopuszczenie do udziału w postępowaniu, chyba że wykażą, że przygotowali te oferty lub wnioski niezależnie od siebie;
 - **6)** jeżeli, w przypadkach, o których mowa w art. 85 ust. 1, doszło do zakłócenia konkurencji wynikającego z wcześniejszego zaangażowania tego wykonawcy lub podmiotu, który należy z wykonawcą do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, chyba że spowodowane tym zakłócenie konkurencji może być wyeliminowane w inny sposób niż przez wykluczenie wykonawcy z udziału w postępowaniu o udzielenie zamówienia.
 
-2. Z postępowania o udzielenie zamówienia, w przypadku zamówienia o wartości równej lub przekraczającej wyrażoną w złotych równowartość kwoty dla robót budowlanych – 20 000 000 euro, a dla dostaw lub usług – 10 000 000 euro, wyklucza się wykonawcę, który udaremnia lub utrudnia stwierdzenie przestępnego pochodzenia pieniędzy lub ukrywa ich pochodzenie, w związku z brakiem możliwości ustalenia beneficjenta rzeczywistego, w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843 oraz z 2024 r. poz. 850 i 1222).
+2. Z postępowania o udzielenie zamówienia, w przypadku zamówienia o wartości równej lub przekraczającej wyrażoną w złotych równowartość kwoty dla robót budowlanych – 20 000 000 euro, a dla dostaw lub usług – 10 000 000 euro, wyklucza się wykonawcę, który udaremnia lub utrudnia stwierdzenie przestępnego pochodzenia pieniędzy lub ukrywa ich pochodzenie, w związku z brakiem możliwości ustalenia beneficjenta rzeczywistego, w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2025 r. poz. 644 i 1669).
 
 **Art. 109.**
 
@@ -1474,7 +1473,9 @@ source: pdf
 - **1)** zdolności do występowania w obrocie gospodarczym;
 - **2)** uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile wynika to z odrębnych przepisów;
 - **3)** sytuacji ekonomicznej lub finansowej;
-- **4)** zdolności technicznej lub zawodowej. <3. Zamawiający określając warunki udziału w postępowaniu w zakresie, o którym mowa w ust. 2 pkt 4, stosuje poziomy zdolności określone w przepisach wydanych na podstawie art. 5 ust. 4 lub 5 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych (Dz. U. poz. 1235), chyba że nie jest to możliwe ze względu na charakter zamówienia albo gdy dla danego przedmiotu zamówienia poziomy zdolności nie zostały określone, co zamawiający wskazał w specyfikacji warunków zamówienia lub innych dokumentach zamówienia.
+- **4)** zdolności technicznej lub zawodowej.
+
+3. Zamawiający określając warunki udziału w postępowaniu w zakresie, o którym mowa w ust. 2 pkt 4, stosuje poziomy zdolności określone w przepisach wydanych na podstawie art. 5 ust. 4 lub 5 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych (Dz. U. poz. 1235 oraz z 2026 r. poz. 421), chyba że nie jest to możliwe ze względu na charakter zamówienia albo gdy dla danego przedmiotu zamówienia poziomy zdolności nie zostały określone, co zamawiający wskazał w specyfikacji warunków zamówienia lub innych dokumentach zamówienia.
 
 **Art. 113.** W odniesieniu do warunku dotyczącego zdolności do występowania w obrocie gospodarczym zamawiający może wymagać, aby wykonawcy prowadzący działalność gospodarczą lub zawodową byli wpisani do jednego z rejestrów zawodowych lub handlowych prowadzonych w kraju, w którym mają siedzibę lub miejsce zamieszkania.
 
@@ -1548,7 +1549,7 @@ source: pdf
 
 ##### Oddział 4 Podmiotowe środki dowodowe
 
-**Art. 124.** <1.> W postępowaniu o udzielenie zamówienia zamawiający:
+**Art. 124.** <1.>W postępowaniu o udzielenie zamówienia zamawiający:
 
 - **1)** żąda podmiotowych środków dowodowych na potwierdzenie braku podstaw wykluczenia;
 - **2)** może żądać podmiotowych środków dowodowych na potwierdzenie spełniania warunków udziału w postępowaniu lub kryteriów selekcji. <2. W postępowaniu o udzielenie zamówienia wykonawca zamiast odpowiednich podmiotowych środków dowodowych może złożyć certyfikat potwierdzający udzielenie certyfikacji wykonawców zamówień publicznych odpowiednio w zakresie, o którym mowa w art. 3 ust. 2 pkt 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych.
@@ -1573,7 +1574,7 @@ source: pdf
 
 **Art. 126.**
 
-1. Zamawiający przed wyborem najkorzystniejszej oferty wzywa wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie, nie krótszym niż 10 dni, aktualnych na dzień złożenia podmiotowych środków dowodowych.
+1. Zamawiający przed wyborem najkorzystniejszej oferty wzywa wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie, niekrótszym niż 10 dni, aktualnych na dzień złożenia podmiotowych środków dowodowych.
 
 2. Jeżeli jest to niezbędne do zapewnienia odpowiedniego przebiegu postępowania o udzielenie zamówienia, zamawiający może na każdym etapie postępowania, w tym na etapie składania wniosków o dopuszczenie do udziału w postępowaniu lub niezwłocznie po ich złożeniu, wezwać wykonawców do złożenia wszystkich lub niektórych podmiotowych środków dowodowych aktualnych na dzień ich złożenia.
 
@@ -1607,11 +1608,11 @@ source: pdf
 
 **Art. 128a.**
 
-1. Zamawiający, który powołuje się na okoliczności, o których mowa w art. 8 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, wzywa wykonawcę do złożenia wyjaśnień w wyznaczonym terminie nie krótszym niż 5 dni licząc od dnia wezwania.
+1. Zamawiający, który powołuje się na okoliczności, o których mowa w art. 8 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, wzywa wykonawcę do złożenia wyjaśnień w wyznaczonym terminie niekrótszym niż 5 dni licząc od dnia wezwania.
 
 2. W przypadku gdy zamawiający uzna wyjaśnienia złożone przez wykonawcę za niewystarczające, informuje podmiot certyfikujący, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, który wydał certyfikat, o którym mowa w art. 124 ust. 2, o okolicznościach, o których mowa w art. 8 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, wykazując, że wykonawca wprowadził ten podmiot w błąd, co mogło mieć istotny wpływ na udzielenie certyfikacji wykonawców zamówień publicznych, lub że wykonawca przestał spełniać warunki udzielenia tej certyfikacji. Zamawiający przekazuje podmiotowi certyfikującemu wyjaśnienia złożone przez wykonawcę.
 
-3. W przypadku zawieszenia ważności certyfikacji wykonawców zamówień publicznych na podstawie art. 12 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, zamawiający wzywa wykonawcę do złożenia, w wyznaczonym terminie nie krótszym niż 5 dni licząc od dnia wezwania, podmiotowych środków dowodowych w zakresie, w jakim złożony certyfikat, o którym mowa w art. 124 ust. 2, miał potwierdzać brak podstaw wykluczenia lub spełnianie warunków udziału w postępowaniu na potrzeby prowadzonego postępowania o udzielenie zamówienia. Przepisy art. 128 ust. 2–5 stosuje się odpowiednio.
+3. W przypadku zawieszenia ważności certyfikacji wykonawców zamówień publicznych na podstawie art. 12 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, zamawiający wzywa wykonawcę do złożenia, w wyznaczonym terminie niekrótszym niż 5 dni licząc od dnia wezwania, podmiotowych środków dowodowych w zakresie, w jakim złożony certyfikat, o którym mowa w art. 124 ust. 2, miał potwierdzać brak podstaw wykluczenia lub spełnianie warunków udziału w postępowaniu na potrzeby prowadzonego postępowania o udzielenie zamówienia. Przepisy art. 128 ust. 2–5 stosuje się odpowiednio.
 
 #### Rozdział 3 Tryby udzielania zamówień
 
@@ -1657,7 +1658,7 @@ source: pdf
 
 **Art. 133.**
 
-1. Zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do specyfikacji warunków zamówienia, zwanej dalej „SWZ”, od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej nie krócej niż do dnia udzielenia zamówienia.
+1. Zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do specyfikacji warunków zamówienia, zwanej dalej „SWZ”, od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej niekrócej niż do dnia udzielenia zamówienia.
 
 2. Jeżeli zamawiający nie może udostępnić części SWZ na stronie internetowej prowadzonego postępowania z powodu jednej z sytuacji określonej w art. 65 ust. 1, przekazuje ją w inny sposób określony przez zamawiającego w ogłoszeniu o zamówieniu.
 
@@ -1714,7 +1715,7 @@ source: pdf
 
 1. Wykonawca może zwrócić się do zamawiającego z wnioskiem o wyjaśnienie treści SWZ.
 
-2. Zamawiający jest obowiązany udzielić wyjaśnień niezwłocznie, jednak nie później niż na 6 dni przed upływem terminu składania ofert albo nie później niż na 4 dni przed upływem terminu składania ofert w przypadku, o którym mowa w art. 138 ust. 2 pkt 2, pod warunkiem że wniosek o wyjaśnienie treści SWZ wpłynął do zamawiającego nie później niż na odpowiednio 14 albo 7 dni przed upływem terminu składania ofert.
+2. Zamawiający jest obowiązany udzielić wyjaśnień niezwłocznie, jednak niepóźniej niż na 6 dni przed upływem terminu składania ofert albo niepóźniej niż na 4 dni przed upływem terminu składania ofert w przypadku, o którym mowa w art. 138 ust. 2 pkt 2, pod warunkiem że wniosek o wyjaśnienie treści SWZ wpłynął do zamawiającego niepóźniej niż na odpowiednio 14 albo 7 dni przed upływem terminu składania ofert.
 
 3. Jeżeli zamawiający nie udzieli wyjaśnień w terminach, o których mowa w ust. 2, przedłuża termin składania ofert o czas niezbędny do zapoznania się wszystkich zainteresowanych wykonawców z wyjaśnieniami niezbędnymi do należytego przygotowania i złożenia ofert.
 
@@ -1750,9 +1751,9 @@ source: pdf
 
 1. Termin składania ofert nie może być krótszy niż 35 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
 
-2. Zamawiający może wyznaczyć termin składania ofert krótszy niż termin określony w ust. 1, nie krótszy jednak niż 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej, w następujących przypadkach:
+2. Zamawiający może wyznaczyć termin składania ofert krótszy niż termin określony w ust. 1, niekrótszy jednak niż 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej, w następujących przypadkach:
 
-- **1)** opublikowania wstępnego ogłoszenia informacyjnego, o którym mowa w art. 89, o ile zawierało ono wszystkie informacje wymagane dla ogłoszenia o zamówieniu, w zakresie, w jakim były one dostępne w chwili publikacji wstępnego ogłoszenia informacyjnego, które zostało przekazane do publikacji Urzędowi Publikacji Unii Europejskiej lub zamieszczone na stronie internetowej zamawiającego na co najmniej 35 dni i nie więcej niż 12 miesięcy przed dniem przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej;
+- **1)** opublikowania wstępnego ogłoszenia informacyjnego, o którym mowa w art. 89, o ile zawierało ono wszystkie informacje wymagane dla ogłoszenia o zamówieniu, w zakresie, w jakim były one dostępne w chwili publikacji wstępnego ogłoszenia informacyjnego, które zostało przekazane do publikacji Urzędowi Publikacji Unii Europejskiej lub zamieszczone na stronie internetowej zamawiającego na co najmniej 35 dni i niewięcej niż 12 miesięcy przed dniem przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej;
 - **2)** jeżeli zachodzi pilna potrzeba udzielenia zamówienia i skrócenie terminu składania ofert jest uzasadnione.
 
 3. W sytuacjach określonych w art. 133 ust. 2 i 3 terminy składania ofert, o których mowa w ust. 1 i ust. 2 pkt 1, ulegają wydłużeniu o 5 dni.
@@ -1773,7 +1774,7 @@ source: pdf
 
 **Art. 140.** Przetarg ograniczony to tryb udzielenia zamówienia, w którym w odpowiedzi na ogłoszenie o zamówieniu, wnioski o dopuszczenie do udziału w postępowaniu mogą składać wszyscy zainteresowani wykonawcy, a oferty mogą składać wyłącznie wykonawcy zaproszeni do składania ofert.
 
-**Art. 141.** Zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do SWZ od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej nie krócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się.
+**Art. 141.** Zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do SWZ od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej niekrócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się.
 
 **Art. 142.**
 
@@ -1791,7 +1792,7 @@ source: pdf
 
 1. Do wyjaśnień oraz zmian treści SWZ, w zakresie niezbędnym do złożenia wniosku o dopuszczenie do udziału w postępowaniu, odpowiednio stosuje się przepisy art. 135 ust. 1 i 6, art. 136 i art. 137, z uwzględnieniem ust. 2‒5.
 
-2. Jeżeli wyjaśnienia treści SWZ są niezbędne do należytego przygotowania i złożenia wniosku o dopuszczenie do udziału w postępowaniu zamawiający jest obowiązany udzielić wyjaśnień w tym zakresie niezwłocznie, jednak nie później niż na 6 dni przed upływem terminu składania wniosku albo nie później niż na 4 dni przed upływem terminu składania wniosków w przypadku, o którym mowa w art. 144 ust. 2, pod warunkiem że wniosek o wyjaśnienie treści SWZ wpłynął do zamawiającego nie później niż na 14 dni, a w przypadku, o którym mowa w art. 144 ust. 2, na 7 dni, przed upływem terminu składania wniosku o dopuszczenie do udziału w postępowaniu.
+2. Jeżeli wyjaśnienia treści SWZ są niezbędne do należytego przygotowania i złożenia wniosku o dopuszczenie do udziału w postępowaniu zamawiający jest obowiązany udzielić wyjaśnień w tym zakresie niezwłocznie, jednak niepóźniej niż na 6 dni przed upływem terminu składania wniosku albo niepóźniej niż na 4 dni przed upływem terminu składania wniosków w przypadku, o którym mowa w art. 144 ust. 2, pod warunkiem że wniosek o wyjaśnienie treści SWZ wpłynął do zamawiającego niepóźniej niż na 14 dni, a w przypadku, o którym mowa w art. 144 ust. 2, na 7 dni, przed upływem terminu składania wniosku o dopuszczenie do udziału w postępowaniu.
 
 3. Jeżeli zamawiający nie udzieli wyjaśnień w terminach, o których mowa w ust. 2, przedłuża termin składania wniosków o dopuszczenie do udziału w postępowaniu o czas niezbędny do zapoznania się wszystkich zainteresowanych wykonawców z wyjaśnieniami niezbędnymi do należytego przygotowania i złożenia tych wniosków. Przedłużenie terminu składania wniosków o dopuszczenie do udziału w postępowaniu nie wpływa na bieg terminu składania wniosku o wyjaśnienie treści SWZ, o którym mowa w ust. 2.
 
@@ -1803,7 +1804,7 @@ source: pdf
 
 1. Termin składania wniosków o dopuszczenie do udziału w postępowaniu nie może być krótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
 
-2. Jeżeli zachodzi pilna potrzeba udzielenia zamówienia, należycie uzasadniona przez zamawiającego, może on wyznaczyć krótszy termin składania wniosków o dopuszczenie do udziału w postępowaniu, jednak nie krótszy niż 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
+2. Jeżeli zachodzi pilna potrzeba udzielenia zamówienia, należycie uzasadniona przez zamawiającego, może on wyznaczyć krótszy termin składania wniosków o dopuszczenie do udziału w postępowaniu, jednak niekrótszy niż 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
 
 **Art. 145.** Z zawartością wniosków o dopuszczenie do udziału w postępowaniu nie można zapoznać się przed upływem terminu na ich składanie.
 
@@ -1855,9 +1856,9 @@ source: pdf
 
 1. Termin składania ofert nie może być krótszy niż 30 dni od dnia przekazania zaproszenia do składania ofert.
 
-2. Zamawiający może wyznaczyć termin składania ofert krótszy niż termin określony w ust. 1, nie krótszy jednak niż 10 dni od dnia przekazania zaproszenia do składania ofert, w następujących przypadkach:
+2. Zamawiający może wyznaczyć termin składania ofert krótszy niż termin określony w ust. 1, niekrótszy jednak niż 10 dni od dnia przekazania zaproszenia do składania ofert, w następujących przypadkach:
 
-- **1)** opublikowania wstępnego ogłoszenia informacyjnego, o którym mowa w art. 89, o ile wstępne ogłoszenie informacyjne zawierało wszystkie informacje wymagane dla ogłoszenia o zamówieniu, w zakresie, w jakim były one dostępne w chwili publikacji wstępnego ogłoszenia informacyjnego, które zostało przekazane do publikacji Urzędowi Publikacji Unii Europejskiej lub zamieszczone na stronie internetowej zamawiającego na co najmniej 35 dni i nie więcej niż 12 miesięcy przed dniem przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej;
+- **1)** opublikowania wstępnego ogłoszenia informacyjnego, o którym mowa w art. 89, o ile wstępne ogłoszenie informacyjne zawierało wszystkie informacje wymagane dla ogłoszenia o zamówieniu, w zakresie, w jakim były one dostępne w chwili publikacji wstępnego ogłoszenia informacyjnego, które zostało przekazane do publikacji Urzędowi Publikacji Unii Europejskiej lub zamieszczone na stronie internetowej zamawiającego na co najmniej 35 dni i niewięcej niż 12 miesięcy przed dniem przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej;
 - **2)** jeżeli zachodzi pilna potrzeba udzielenia zamówienia i skrócenie terminu składania ofert jest uzasadnione.
 
 3. W przypadkach określonych w art. 133 ust. 2 i 3 terminy składania ofert, o których mowa w ust. 1 i ust. 2 pkt 1, ulegają wydłużeniu o 5 dni.
@@ -1895,7 +1896,7 @@ source: pdf
 2. Zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań od dnia:
 
 - **1)** publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej,
-- **2)** przekazania zaproszenia do negocjacji, w okolicznościach, o których mowa w art. 154 ust. 1 – nie krócej niż do dnia udzielenia zamówienia.
+- **2)** przekazania zaproszenia do negocjacji, w okolicznościach, o których mowa w art. 154 ust. 1 – niekrócej niż do dnia udzielenia zamówienia.
 
 3. Przepisy art. 133 ust. 2 i 3 stosuje się odpowiednio.
 
@@ -1971,9 +1972,9 @@ source: pdf
 
 1. Termin składania ofert wstępnych nie może być krótszy niż 30 dni od dnia przekazania zaproszenia do składania ofert wstępnych.
 
-2. Zamawiający może wyznaczyć termin składania ofert wstępnych krótszy niż termin określony w ust. 1, nie krótszy jednak niż 10 dni od dnia przekazania zaproszenia do składania ofert wstępnych, w następujących przypadkach:
+2. Zamawiający może wyznaczyć termin składania ofert wstępnych krótszy niż termin określony w ust. 1, niekrótszy jednak niż 10 dni od dnia przekazania zaproszenia do składania ofert wstępnych, w następujących przypadkach:
 
-- **1)** opublikowania wstępnego ogłoszenia informacyjnego, o którym mowa w art. 89, o ile wstępne ogłoszenie informacyjne zawierało wszystkie informacje wymagane dla ogłoszenia o zamówieniu, w zakresie, w jakim były one dostępne w chwili publikacji wstępnego ogłoszenia informacyjnego, które zostało przekazane do publikacji Urzędowi Publikacji Unii Europejskiej lub zamieszczone na stronie internetowej zamawiającego na co najmniej 35 dni i nie więcej niż 12 miesięcy przed dniem przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej;
+- **1)** opublikowania wstępnego ogłoszenia informacyjnego, o którym mowa w art. 89, o ile wstępne ogłoszenie informacyjne zawierało wszystkie informacje wymagane dla ogłoszenia o zamówieniu, w zakresie, w jakim były one dostępne w chwili publikacji wstępnego ogłoszenia informacyjnego, które zostało przekazane do publikacji Urzędowi Publikacji Unii Europejskiej lub zamieszczone na stronie internetowej zamawiającego na co najmniej 35 dni i niewięcej niż 12 miesięcy przed dniem przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej;
 - **2)** jeżeli zachodzi pilna potrzeba udzielenia zamówienia i skrócenie terminu składania ofert jest uzasadnione.
 
 3. W sytuacjach określonych w art. 133 ust. 2 i 3 terminy składania ofert wstępnych, o których mowa w ust. 1 i ust. 2 pkt 1, ulegają wydłużeniu o 5 dni.
@@ -2043,11 +2044,11 @@ source: pdf
 
 1. Zamówienia udziela się na podstawie kryteriów jakościowych, o których mowa w art. 242 ust. 2, oraz ceny lub kosztu.
 
-2. Zamawiający przypisuje wagi poszczególnym kryteriom oceny ofert, nie później niż wraz z zaproszeniem do składania ofert.
+2. Zamawiający przypisuje wagi poszczególnym kryteriom oceny ofert, niepóźniej niż wraz z zaproszeniem do składania ofert.
 
 **Art. 172.** W celu ustalenia przez wykonawców potrzeb zamawiającego dotyczących charakteru i zakresu zamówienia oraz wymagań formalnych i proceduralnych prowadzonego postępowania o udzielenie zamówienia zamawiający sporządza opis potrzeb i wymagań.
 
-**Art. 173.** Zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej nie krócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się odpowiednio.
+**Art. 173.** Zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej niekrócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się odpowiednio.
 
 **Art. 174.**
 
@@ -2172,7 +2173,7 @@ source: pdf
 
 1. Zamawiający sporządza opis potrzeb i wymagań w celu ustalenia przez wykonawców charakteru i zakresu wymaganego rozwiązania dotyczącego opracowania innowacyjnego produktu, usługi lub robót budowlanych oraz wymagań formalnych i proceduralnych dotyczących postępowania o udzielenie zamówienia.
 
-2. Zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej nie krócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się.
+2. Zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej niekrócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się.
 
 **Art. 192.**
 
@@ -2323,7 +2324,7 @@ source: pdf
 - **7)** kryteria oceny ofert i ich znaczenie;
 - **8)** miejsce i termin oraz sposób prowadzenia negocjacji z zamawiającym.
 
-3. Zamawiający zaprasza do negocjacji wykonawców w liczbie zapewniającej konkurencję, nie mniejszej niż 3, chyba że ze względu na specjalistyczny charakter zamówienia liczba wykonawców mogących je wykonać jest mniejsza, jednak nie mniejsza niż 2.
+3. Zamawiający zaprasza do negocjacji wykonawców w liczbie zapewniającej konkurencję, niemniejszej niż 3, chyba że ze względu na specjalistyczny charakter zamówienia liczba wykonawców mogących je wykonać jest mniejsza, jednak niemniejsza niż 2.
 
 4. W przypadku, o którym mowa w art. 209 ust. 1 pkt 1, zamawiający zaprasza do negocjacji co najmniej tych wykonawców, którzy złożyli oferty w postępowaniu prowadzonym w trybie przetargu nieograniczonego albo przetargu ograniczonego. Przepis ust. 3 stosuje się.
 
@@ -2369,8 +2370,7 @@ source: pdf
 - **7)** w przypadku udzielenia, w okresie 3 lat od dnia udzielenia zamówienia podstawowego, dotychczasowemu wykonawcy usług lub robót budowlanych, zamówienia polegającego na powtórzeniu podobnych usług lub robót budowlanych, jeżeli takie zamówienie było przewidziane w ogłoszeniu o zamówieniu dla zamówienia podstawowego i jest zgodne z jego przedmiotem oraz całkowita wartość tego zamówienia została uwzględniona przy obliczaniu jego wartości;
 - **8)** w przypadku udzielenia dotychczasowemu wykonawcy zamówienia podstawowego, zamówienia na dodatkowe dostawy, których celem jest częściowa wymiana dostarczonych produktów lub instalacji albo zwiększenie bieżących dostaw lub rozbudowa istniejących instalacji, jeżeli zmiana wykonawcy zobowiązywałaby zamawiającego do nabywania materiałów o innych właściwościach technicznych, co powodowałoby niekompatybilność techniczną lub nieproporcjonalnie duże trudności techniczne w użytkowaniu i utrzymaniu tych produktów lub instalacji;
 - **9)** możliwe jest udzielenie zamówienia na dostawy na szczególnie korzystnych warunkach w związku z likwidacją działalności innego podmiotu albo postępowaniem egzekucyjnym albo upadłościowym;
-- **10)** zamówienie na dostawy jest dokonywane na rynku towarowym, na którym regulowana i nadzorowana wielostronna struktura handlowa w sposób naturalny gwarantuje ceny rynkowe, w tym na giełdzie towarowej w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2024 r. poz.
-- **910)** , giełdzie towarowej innych państw członkowskich Europejskiego Obszaru Gospodarczego lub gdy dokonuje zakupu świadectw pochodzenia, świadectw pochodzenia biogazu rolniczego, świadectw pochodzenia z kogeneracji oraz świadectw efektywności energetycznej na giełdzie towarowej w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, lub na giełdzie towarowej innych państw członkowskich Europejskiego Obszaru Gospodarczego;
+- **10)** zamówienie na dostawy jest dokonywane na rynku towarowym, na którym regulowana i nadzorowana wielostronna struktura handlowa w sposób naturalny gwarantuje ceny rynkowe, w tym na giełdzie towarowej w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2025 r. poz. 1119 oraz z 2026 r. poz. 176 i 516), giełdzie towarowej innych państw członkowskich Europejskiego Obszaru Gospodarczego lub gdy dokonuje zakupu świadectw pochodzenia, świadectw pochodzenia biogazu rolniczego, świadectw pochodzenia z kogeneracji oraz świadectw efektywności energetycznej na giełdzie towarowej w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, lub na giełdzie towarowej innych państw członkowskich Europejskiego Obszaru Gospodarczego;
 - **11)** zamówienie udzielane jest przez zamawiającego, o którym mowa w art. 4 i art. 5 ust. 1 pkt 1, osobie prawnej, jeżeli spełnione są łącznie następujące warunki:
     - **a)** zamawiający sprawuje nad tą osobą prawną kontrolę, odpowiadającą kontroli sprawowanej nad własnymi jednostkami, polegającą na dominującym wpływie na cele strategiczne oraz istotne decyzje dotyczące zarządzania sprawami tej osoby prawnej; warunek ten jest również spełniony, gdy kontrolę taką sprawuje inna osoba prawna kontrolowana przez zamawiającego w taki sam sposób,
     - **b)** ponad 90 % działalności kontrolowanej osoby prawnej dotyczy wykonywania zadań powierzonych jej przez zamawiającego sprawującego kontrolę lub przez inną osobę prawną, nad którą ten zamawiający sprawuje kontrolę, o której mowa w lit. a,
@@ -2405,7 +2405,7 @@ source: pdf
 
 8. Zakazu udziału kapitału prywatnego, o którym mowa w ust. 1 pkt 11 lit. c, pkt 12 lit. c i pkt 13 lit. c, nie stosuje się do:
 
-- **1)** osób prawnych z udziałem partnera prywatnego wyłonionego zgodnie z ustawą z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637) lub
+- **1)** osób prawnych z udziałem partnera prywatnego wyłonionego zgodnie z ustawą z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz. 426) lub
 - **2)** udziału pracowników reprezentujących w sumie do 15 % kapitału zakładowego spółki, w przypadku prostej spółki akcyjnej – do 15 % akcji tej spółki, posiadających łącznie do 15 % głosów na zgromadzeniu wspólników albo walnym zgromadzeniu.
 
 9. Wykonawca, któremu udzielono zamówienia na podstawie ust. 1 pkt 11– 13, nie może powierzyć wykonania części zamówienia podwykonawcy, która dotyczy głównego przedmiotu zamówienia.
@@ -2428,15 +2428,15 @@ source: pdf
 
 1. Zamawiający zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie o zamiarze zawarcia umowy, przed udzieleniem zamówienia na podstawie art. 214 ust. 1 pkt 11–14, na zasadach określonych w dziale III rozdziale 2.
 
-2. Zamawiający może zawrzeć umowę w sprawie zamówienia udzielonego na podstawie art. 214 ust. 1 pkt 11–14 nie wcześniej niż po upływie 14 dni od dnia zamieszczenia ogłoszenia, o którym mowa w ust. 1.
+2. Zamawiający może zawrzeć umowę w sprawie zamówienia udzielonego na podstawie art. 214 ust. 1 pkt 11–14 niewcześniej niż po upływie 14 dni od dnia zamieszczenia ogłoszenia, o którym mowa w ust. 1.
 
-3. Zamawiający zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie o wyniku postępowania, niezwłocznie, ale nie później niż w terminie 14 dni od dnia zakończenia postępowania o udzielenie zamówienia na podstawie art. 214 ust. 1 pkt 11–14, na zasadach określonych w dziale III rozdziale 2.
+3. Zamawiający zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie o wyniku postępowania, niezwłocznie, ale niepóźniej niż w terminie 14 dni od dnia zakończenia postępowania o udzielenie zamówienia na podstawie art. 214 ust. 1 pkt 11–14, na zasadach określonych w dziale III rozdziale 2.
 
 **Art. 217.**
 
 1. Zamawiający, wraz z zaproszeniem do negocjacji, przekazuje wykonawcy informacje niezbędne do przeprowadzenia postępowania, w tym projektowane postanowienia, które zostaną wprowadzone do treści zawieranej umowy w sprawie zamówienia publicznego.
 
-2. Wykonawca składa oświadczenie, o którym mowa w art. 125 ust. 1, oraz podmiotowe środki dowodowe nie później niż wraz z zawarciem umowy w sprawie zamówienia publicznego.
+2. Wykonawca składa oświadczenie, o którym mowa w art. 125 ust. 1, oraz podmiotowe środki dowodowe niepóźniej niż wraz z zawarciem umowy w sprawie zamówienia publicznego.
 
 3. Zamawiający może odstąpić od żądania złożenia przez wykonawcę oświadczenia, o którym mowa w art. 125 ust. 1.
 
@@ -2458,14 +2458,14 @@ source: pdf
 
 **Art. 220.**
 
-1. Wykonawca jest związany ofertą nie dłużej niż:
+1. Wykonawca jest związany ofertą niedłużej niż:
 
 - **1)** 90 dni,
 - **2)** 120 dni – jeżeli wartość zamówienia dla robót budowlanych jest równa lub przekracza wyrażoną w złotych równowartość kwoty 20 000 000 euro, a dla dostaw lub usług – 10 000 000 euro – od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu związania ofertą jest dzień, w którym upływa termin składania ofert.
 
 2. Zamawiający określa w dokumentach zamówienia termin związania ofertą przez wskazanie daty.
 
-3. W przypadku gdy wybór najkorzystniejszej oferty nie nastąpi przed upływem terminu związania ofertą, o którym mowa w ust. 2, zamawiający przed upływem terminu związania ofertą, zwraca się jednokrotnie do wykonawców o wyrażenie zgody na przedłużenie tego terminu o wskazywany przez niego okres, nie dłuższy niż 60 dni.
+3. W przypadku gdy wybór najkorzystniejszej oferty nie nastąpi przed upływem terminu związania ofertą, o którym mowa w ust. 2, zamawiający przed upływem terminu związania ofertą, zwraca się jednokrotnie do wykonawców o wyrażenie zgody na przedłużenie tego terminu o wskazywany przez niego okres, niedłuższy niż 60 dni.
 
 4. Przedłużenie terminu związania ofertą, o którym mowa w ust. 2, wymaga złożenia przez wykonawcę pisemnego oświadczenia o wyrażeniu zgody na przedłużenie terminu związania ofertą.
 
@@ -2477,7 +2477,7 @@ source: pdf
 
 **Art. 222.**
 
-1. Otwarcie ofert następuje niezwłocznie po upływie terminu składania ofert, nie później niż następnego dnia po dniu, w którym upłynął termin składania ofert.
+1. Otwarcie ofert następuje niezwłocznie po upływie terminu składania ofert, niepóźniej niż następnego dnia po dniu, w którym upłynął termin składania ofert.
 
 2. Jeżeli otwarcie ofert następuje przy użyciu systemu teleinformatycznego, w przypadku awarii tego systemu, która powoduje brak możliwości otwarcia ofert w terminie określonym przez zamawiającego, otwarcie ofert następuje niezwłocznie po usunięciu awarii.
 
@@ -2520,7 +2520,7 @@ source: pdf
 - **1)** zarządzania procesem produkcji, świadczonych usług lub metody budowy;
 - **2)** wybranych rozwiązań technicznych, wyjątkowo korzystnych warunków dostaw, usług albo związanych z realizacją robót budowlanych;
 - **3)** oryginalności dostaw, usług lub robót budowlanych oferowanych przez wykonawcę;
-- **4)** zgodności z przepisami dotyczącymi kosztów pracy, których wartość przyjęta do ustalenia ceny nie może być niższa od minimalnego wynagrodzenia za pracę albo minimalnej stawki godzinowej, ustalonych na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667) lub przepisów odrębnych właściwych dla spraw, z którymi związane jest realizowane zamówienie;
+- **4)** zgodności z przepisami dotyczącymi kosztów pracy, których wartość przyjęta do ustalenia ceny nie może być niższa od minimalnego wynagrodzenia za pracę albo minimalnej stawki godzinowej, ustalonych na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773) lub przepisów odrębnych właściwych dla spraw, z którymi związane jest realizowane zamówienie;
 - **5)** zgodności z prawem w rozumieniu przepisów o postępowaniu w sprawach dotyczących pomocy publicznej;
 - **6)** zgodności z przepisami z zakresu prawa pracy i zabezpieczenia społecznego, obowiązującymi w miejscu, w którym realizowane jest zamówienie;
 - **7)** zgodności z przepisami z zakresu ochrony środowiska;
@@ -2536,7 +2536,7 @@ source: pdf
 
 **Art. 225.**
 
-1. Jeżeli została złożona oferta, której wybór prowadziłby do powstania u zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361 i 852), dla celów zastosowania kryterium ceny lub kosztu zamawiający dolicza do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
+1. Jeżeli została złożona oferta, której wybór prowadziłby do powstania u zamawiającego obowiązku podatkowego zgodnie z ustawą z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, z późn. zm. ), dla celów zastosowania kryterium ceny lub kosztu zamawiający dolicza do przedstawionej w tej ofercie ceny kwotę podatku od towarów i usług, którą miałby obowiązek rozliczyć.
 
 2. W ofercie, o której mowa w ust. 1, wykonawca ma obowiązek:
 
@@ -2829,7 +2829,7 @@ source: pdf
 
 **Art. 264.**
 
-1. Zamawiający zawiera umowę w sprawie zamówienia publicznego, z uwzględnieniem art. 577, w terminie nie krótszym niż 10 dni od dnia przesłania zawiadomienia o wyborze najkorzystniejszej oferty, jeżeli zawiadomienie to zostało przesłane przy użyciu środków komunikacji elektronicznej, albo 15 dni – jeżeli zostało przesłane w inny sposób.
+1. Zamawiający zawiera umowę w sprawie zamówienia publicznego, z uwzględnieniem art. 577, w terminie niekrótszym niż 10 dni od dnia przesłania zawiadomienia o wyborze najkorzystniejszej oferty, jeżeli zawiadomienie to zostało przesłane przy użyciu środków komunikacji elektronicznej, albo 15 dni – jeżeli zostało przesłane w inny sposób.
 
 2. Zamawiający może zawrzeć umowę w sprawie zamówienia publicznego przed upływem terminu, o którym mowa w ust. 1, jeżeli:
 
@@ -2841,7 +2841,7 @@ source: pdf
 
 **Art. 265.**
 
-1. Zamawiający nie później niż w terminie 30 dni od dnia zakończenia postępowania o udzielenie zamówienia przekazuje do publikacji Urzędowi Publikacji Unii Europejskiej ogłoszenie o udzieleniu zamówienia zawierające informację o wynikach tego postępowania.
+1. Zamawiający niepóźniej niż w terminie 30 dni od dnia zakończenia postępowania o udzielenie zamówienia przekazuje do publikacji Urzędowi Publikacji Unii Europejskiej ogłoszenie o udzieleniu zamówienia zawierające informację o wynikach tego postępowania.
 
 2. Zamawiający może w ogłoszeniu, o którym mowa w ust. 1, oznaczyć niektóre informacje jako nieprzeznaczone do publikacji, jeżeli ich ujawnienie w treści opublikowanego ogłoszenia mogłoby utrudnić egzekwowanie prawa lub w inny sposób byłoby sprzeczne z interesem publicznym, mogłoby zaszkodzić uzasadnionym interesom gospodarczym konkretnego wykonawcy lub mogłoby negatywnie wpłynąć na uczciwą konkurencję pomiędzy wykonawcami.
 
@@ -2849,7 +2849,7 @@ source: pdf
 
 #### Rozdział 1 Zakres zastosowania
 
-**Art. 266.** Do przygotowania i prowadzenia przez zamawiających publicznych postępowania o udzielenie zamówienia klasycznego o wartości mniejszej niż progi unijne stosuje się przepisy działu II, z wyjątkiem przepisów art. 83, art. 86, art. 87 ust. 3, art. 88–90, art. 97 ust. 2, [art. 124] <art. 124 ust. 1> , art. 125 ust. 2 i 6, art. 126, art. 127 ust. 1, art. 129, art. 130, art. 132–188, art. 220, art. 227 ust. 1, art. 257, art. 264 i art. 265, chyba że przepisy niniejszego działu stanowią inaczej.
+**Art. 266.** Do przygotowania i prowadzenia przez zamawiających publicznych postępowania o udzielenie zamówienia klasycznego o wartości mniejszej niż progi unijne stosuje się przepisy działu II, z wyjątkiem przepisów art. 83, art. 86, art. 87 ust. 3, art. 88–90, art. 97 ust. 2, art. 124 ust. 1, art. 125 ust. 2 i 6, art. 126, art. 127 ust. 1, art. 129, art. 130, art. 132–188, art. 220, art. 227 ust. 1, art. 257, art. 264 i art. 265, chyba że przepisy niniejszego działu stanowią inaczej.
 
 #### Rozdział 2 Ogłoszenia
 
@@ -2921,11 +2921,11 @@ source: pdf
 - **1)** braku podstaw wykluczenia;
 - **2)** spełniania warunków udziału w postępowaniu lub kryteriów selekcji.
 
-2. W trybie podstawowym oświadczenie, o którym mowa w art. 125 ust. 1, wykonawca dołącza do oferty składanej w odpowiedzi na ogłoszenie o zamówieniu. <W oświadczeniu wykonawca wskazuje, czy będzie posługiwał się certyfikatem, o którym mowa w art. 124 ust. 2. W przypadku gdy wykonawca będzie posługiwał się tym certyfikatem, w oświadczeniu podaje numer i oznaczenie tego certyfikatu, nazwę podmiotu certyfikującego, który wydał ten certyfikat, okres ważności certyfikacji wykonawców zamówień publicznych oraz wskazuje, w zakresie których podstaw wykluczenia lub warunków udziału w postępowaniu będzie posługiwał się tym certyfikatem.>
+2. W trybie podstawowym oświadczenie, o którym mowa w art. 125 ust. 1, wykonawca dołącza do oferty składanej w odpowiedzi na ogłoszenie o zamówieniu. <W oświadczeniu wykonawca wskazuje, czy będzie posługiwał się certyfikatem, o którym mowa w art. 124 ust. 2. W przypadku gdy wykonawca będzie posługiwał się tym certyfikatem, w oświadczeniu podaje numer i oznaczenie tego certyfikatu, nazwę podmiotu certyfikującego, który wydał ten certyfikat, okres ważności certyfikacji wykonawców zamówień publicznych oraz wskazuje, w zakresie których podstaw wykluczenia lub warunków udziału w postępowaniu będzie posługiwał się tym certyfikatem. >
 
 **Art. 274.**
 
-1. Zamawiający wzywa wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie, nie krótszym niż 5 dni od dnia wezwania, podmiotowych środków dowodowych, jeżeli wymagał ich złożenia w ogłoszeniu o zamówieniu lub dokumentach zamówienia, aktualnych na dzień złożenia podmiotowych środków dowodowych.
+1. Zamawiający wzywa wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie, niekrótszym niż 5 dni od dnia wezwania, podmiotowych środków dowodowych, jeżeli wymagał ich złożenia w ogłoszeniu o zamówieniu lub dokumentach zamówienia, aktualnych na dzień złożenia podmiotowych środków dowodowych.
 
 2. Jeżeli jest to niezbędne do zapewnienia odpowiedniego przebiegu postępowania o udzielenie zamówienia, zamawiający może na każdym etapie postępowania, w tym na etapie składania ofert podlegających negocjacjom lub niezwłocznie po ich złożeniu, wezwać wykonawców do złożenia wszystkich lub niektórych podmiotowych środków dowodowych, jeżeli wymagał ich złożenia w ogłoszeniu o zamówieniu lub dokumentach zamówienia, aktualnych na dzień ich złożenia.
 
@@ -2970,7 +2970,7 @@ source: pdf
 1. Od dnia zamieszczenia ogłoszenia o zamówieniu w Biuletynie Zamówień Publicznych zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do:
 
 - **1)** SWZ – w przypadkach, o których mowa w art. 275 pkt 1 i 2,
-- **2)** opisu potrzeb i wymagań – w przypadku, o którym mowa w art. 275 pkt 3 – nie krócej niż do dnia udzielenia zamówienia.
+- **2)** opisu potrzeb i wymagań – w przypadku, o którym mowa w art. 275 pkt 3 – niekrócej niż do dnia udzielenia zamówienia.
 
 2. Jeżeli zamawiający nie może udostępnić części SWZ albo części opisu potrzeb i wymagań na stronie internetowej prowadzonego postępowania, z powodu jednej z sytuacji określonej w art. 65 ust. 1, udostępnia je w inny sposób, określony w ogłoszeniu o zamówieniu.
 
@@ -3046,7 +3046,7 @@ source: pdf
 
 1. Wykonawca może zwrócić się do zamawiającego z wnioskiem o wyjaśnienie odpowiednio treści SWZ albo opisu potrzeb i wymagań.
 
-2. Zamawiający jest obowiązany udzielić wyjaśnień niezwłocznie, jednak nie później niż na 2 dni przed upływem terminu składania odpowiednio ofert albo ofert podlegających negocjacjom, pod warunkiem że wniosek o wyjaśnienie treści odpowiednio SWZ albo opisu potrzeb i wymagań wpłynął do zamawiającego nie później niż na 4 dni przed upływem terminu składania odpowiednio ofert albo ofert podlegających negocjacjom.
+2. Zamawiający jest obowiązany udzielić wyjaśnień niezwłocznie, jednak niepóźniej niż na 2 dni przed upływem terminu składania odpowiednio ofert albo ofert podlegających negocjacjom, pod warunkiem że wniosek o wyjaśnienie treści odpowiednio SWZ albo opisu potrzeb i wymagań wpłynął do zamawiającego niepóźniej niż na 4 dni przed upływem terminu składania odpowiednio ofert albo ofert podlegających negocjacjom.
 
 3. Jeżeli zamawiający nie udzieli wyjaśnień w terminie, o którym mowa w ust. 2, przedłuża termin składania odpowiednio ofert albo ofert podlegających negocjacjom o czas niezbędny do zapoznania się wszystkich zainteresowanych wykonawców z wyjaśnieniami niezbędnymi do należytego przygotowania i złożenia odpowiednio ofert albo ofert podlegających negocjacjom.
 
@@ -3125,7 +3125,7 @@ source: pdf
 
 **Art. 291.**
 
-1. W przypadku, o którym mowa w art. 275 pkt 2, prowadzone negocjacje mają charakter poufny. Zamawiający udostępnia oferty wraz z załącznikami złożone w odpowiedzi na ogłoszenie o zamówieniu niezwłocznie po otwarciu tych ofert, nie później jednak niż w terminie 3 dni od dnia ich otwarcia.
+1. W przypadku, o którym mowa w art. 275 pkt 2, prowadzone negocjacje mają charakter poufny. Zamawiający udostępnia oferty wraz z załącznikami złożone w odpowiedzi na ogłoszenie o zamówieniu niezwłocznie po otwarciu tych ofert, niepóźniej jednak niż w terminie 3 dni od dnia ich otwarcia.
 
 2. W przypadku, o którym mowa w art. 275 pkt 3, treść ofert, które podlegają negocjacjom, oraz prowadzone negocjacje mają charakter poufny. Zamawiający udostępnia te oferty wraz z załącznikami od dnia otwarcia ofert ostatecznych.
 
@@ -3192,7 +3192,7 @@ source: pdf
 
 2. Zamawiający wyznacza termin na złożenie odpowiednio oferty wstępnej albo oferty, z uwzględnieniem złożoności zamówienia oraz czasu potrzebnego na jej przygotowanie. Termin na złożenie odpowiednio oferty wstępnej albo oferty, w przypadku dostaw lub usług, nie może być krótszy niż 7 dni od dnia przekazania zaproszenia do składania odpowiednio ofert wstępnych albo ofert, a w przypadku robót budowlanych, nie może być krótszy niż 14 dni od dnia przekazania zaproszenia do składania odpowiednio ofert wstępnych albo ofert.
 
-3. W przypadku gdy zamawiający żąda od wykonawców wniesienia wadium, określa jego kwotę w wysokości nie większej niż 1,5 % wartości zamówienia.
+3. W przypadku gdy zamawiający żąda od wykonawców wniesienia wadium, określa jego kwotę w wysokości niewiększej niż 1,5 % wartości zamówienia.
 
 ##### Oddział 3 Negocjacje bez ogłoszenia
 
@@ -3241,9 +3241,9 @@ source: pdf
 
 **Art. 307.**
 
-1. Wykonawca jest związany ofertą do upływu terminu określonego datą w dokumentach zamówienia, jednak nie dłużej niż 30 dni od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu związania ofertą jest dzień, w którym upływa termin składania ofert.
+1. Wykonawca jest związany ofertą do upływu terminu określonego datą w dokumentach zamówienia, jednak niedłużej niż 30 dni od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu związania ofertą jest dzień, w którym upływa termin składania ofert.
 
-2. W przypadku gdy wybór najkorzystniejszej oferty nie nastąpi przed upływem terminu związania ofertą określonego w dokumentach zamówienia, zamawiający przed upływem terminu związania ofertą zwraca się jednokrotnie do wykonawców o wyrażenie zgody na przedłużenie tego terminu o wskazywany przez niego okres, nie dłuższy niż 30 dni.
+2. W przypadku gdy wybór najkorzystniejszej oferty nie nastąpi przed upływem terminu związania ofertą określonego w dokumentach zamówienia, zamawiający przed upływem terminu związania ofertą zwraca się jednokrotnie do wykonawców o wyrażenie zgody na przedłużenie tego terminu o wskazywany przez niego okres, niedłuższy niż 30 dni.
 
 3. Przedłużenie terminu związania ofertą, o którym mowa w ust. 2, wymaga złożenia przez wykonawcę pisemnego oświadczenia o wyrażeniu zgody na przedłużenie terminu związania ofertą.
 
@@ -3253,7 +3253,7 @@ source: pdf
 
 1. W przypadku postępowania o udzielenie zamówienia prowadzonego w trybie podstawowym, zamawiający może przewidzieć w ogłoszeniu o zamówieniu oraz w dokumentach zamówienia, że wybór najkorzystniejszej oferty zostanie poprzedzony aukcją elektroniczną, jeżeli warunki zamówienia, w szczególności opis przedmiotu zamówienia, są określone w dokumentach zamówienia w sposób precyzyjny i świadczenia mogą być sklasyfikowane za pomocą metod automatycznej oceny, oraz złożono co najmniej 2 oferty niepodlegające odrzuceniu.
 
-2. Zamawiający zawiera umowę w sprawie zamówienia publicznego, z uwzględnieniem art. 577, w terminie nie krótszym niż 5 dni od dnia przesłania zawiadomienia o wyborze najkorzystniejszej oferty, jeżeli zawiadomienie to zostało przesłane przy użyciu środków komunikacji elektronicznej, albo 10 dni, jeżeli zostało przesłane w inny sposób.
+2. Zamawiający zawiera umowę w sprawie zamówienia publicznego, z uwzględnieniem art. 577, w terminie niekrótszym niż 5 dni od dnia przesłania zawiadomienia o wyborze najkorzystniejszej oferty, jeżeli zawiadomienie to zostało przesłane przy użyciu środków komunikacji elektronicznej, albo 10 dni, jeżeli zostało przesłane w inny sposób.
 
 3. Zamawiający może zawrzeć umowę w sprawie zamówienia publicznego przed upływem terminu, o którym mowa w ust. 2, jeżeli:
 
@@ -3265,7 +3265,7 @@ source: pdf
 
 **Art. 309.**
 
-1. Zamawiający nie później niż w terminie 30 dni od dnia zakończenia postępowania o udzielenie zamówienia zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie o wyniku postępowania zawierające informację o udzieleniu zamówienia lub unieważnieniu postępowania.
+1. Zamawiający niepóźniej niż w terminie 30 dni od dnia zakończenia postępowania o udzielenie zamówienia zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie o wyniku postępowania zawierające informację o udzieleniu zamówienia lub unieważnieniu postępowania.
 
 2. Zamawiający może nie zawierać niektórych informacji w ogłoszeniu, o którym mowa w ust. 1, jeżeli ich ujawnienie w treści opublikowanego ogłoszenia mogłoby utrudnić egzekwowanie prawa lub w inny sposób byłoby sprzeczne z interesem publicznym, mogłoby zaszkodzić uzasadnionym interesom gospodarczym konkretnego wykonawcy lub mogłoby negatywnie wpłynąć na uczciwą konkurencję pomiędzy wykonawcami.
 
@@ -3287,7 +3287,7 @@ source: pdf
 
 2. Do umów ramowych stosuje się przepisy działu VII.
 
-3. Umowę ramową zawiera się na okres nie dłuższy niż 4 lata, z tym że ze względu na przedmiot zamówienia i szczególny interes zamawiającego umowa taka może być zawarta na okres dłuższy.
+3. Umowę ramową zawiera się na okres niedłuższy niż 4 lata, z tym że ze względu na przedmiot zamówienia i szczególny interes zamawiającego umowa taka może być zawarta na okres dłuższy.
 
 4. Zamawiający nie może wykorzystywać umowy ramowej do ograniczania konkurencji.
 
@@ -3379,7 +3379,7 @@ source: pdf
 
 **Art. 319.**
 
-1. Zamawiający wyznacza termin składania wniosków o dopuszczenie do udziału w dynamicznym systemie zakupów, nie krótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu do publikacji Urzędowi Publikacji Unii Europejskiej lub, gdy wstępne ogłoszenie informacyjne zawiera informacje wymagane dla ogłoszenia o zamówieniu, od dnia przekazania zaproszenia do potwierdzenia zainteresowania. Po przekazaniu zaproszenia do składania ofert dotyczących pierwszego zamówienia objętego dynamicznym systemem zakupów, kolejnych terminów na składanie wniosków o dopuszczenie do udziału w dynamicznym systemie zakupów nie wyznacza się.
+1. Zamawiający wyznacza termin składania wniosków o dopuszczenie do udziału w dynamicznym systemie zakupów, niekrótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu do publikacji Urzędowi Publikacji Unii Europejskiej lub, gdy wstępne ogłoszenie informacyjne zawiera informacje wymagane dla ogłoszenia o zamówieniu, od dnia przekazania zaproszenia do potwierdzenia zainteresowania. Po przekazaniu zaproszenia do składania ofert dotyczących pierwszego zamówienia objętego dynamicznym systemem zakupów, kolejnych terminów na składanie wniosków o dopuszczenie do udziału w dynamicznym systemie zakupów nie wyznacza się.
 
 2. W okresie obowiązywania dynamicznego systemu zakupów zamawiający zapewnia wykonawcom nieobjętym tym systemem możliwość złożenia wniosków o dopuszczenie do udziału w dynamicznym systemie zakupów.
 
@@ -3401,7 +3401,7 @@ source: pdf
 
 **Art. 323.**
 
-1. Zamawiający zaprasza jednocześnie wszystkich uczestników dynamicznego systemu zakupów do składania ofert na każde zamówienie udzielane w ramach tego systemu, w terminie nie krótszym niż 10 dni od dnia przekazania zaproszenia do składania ofert. Przepisu art. 151 nie stosuje się.
+1. Zamawiający zaprasza jednocześnie wszystkich uczestników dynamicznego systemu zakupów do składania ofert na każde zamówienie udzielane w ramach tego systemu, w terminie niekrótszym niż 10 dni od dnia przekazania zaproszenia do składania ofert. Przepisu art. 151 nie stosuje się.
 
 2. Jeżeli dynamiczny system zakupów został podzielony na kategorie dostaw, usług lub robót budowlanych, zamawiający zaprasza jednocześnie do składania ofert wszystkich wykonawców, którzy zostali dopuszczeni do składania ofert dotyczących danej kategorii.
 
@@ -3419,7 +3419,7 @@ source: pdf
 
 6. Aukcja elektroniczna może być przeprowadzona w przypadku udzielenia zamówienia w ramach dynamicznego systemu zakupów, na zasadach określonych w dziale II rozdziale 6.
 
-7. Zamawiający nie później niż w terminie 30 dni od dnia zakończenia postępowania o udzielenie zamówienia objętego dynamicznym systemem zakupów przekazuje Urzędowi Publikacji Unii Europejskiej ogłoszenie o udzieleniu zamówienia zawierające informację o wynikach tego postępowania. Ogłoszenia o udzieleniu zamówienia można grupować kwartalnie i przekazywać do publikacji w terminie 30 dni od ostatniego dnia każdego kwartału.
+7. Zamawiający niepóźniej niż w terminie 30 dni od dnia zakończenia postępowania o udzielenie zamówienia objętego dynamicznym systemem zakupów przekazuje Urzędowi Publikacji Unii Europejskiej ogłoszenie o udzieleniu zamówienia zawierające informację o wynikach tego postępowania. Ogłoszenia o udzieleniu zamówienia można grupować kwartalnie i przekazywać do publikacji w terminie 30 dni od ostatniego dnia każdego kwartału.
 
 **Art. 324.**
 
@@ -3584,7 +3584,7 @@ source: pdf
 
 2. Do ogłoszeń o konkursie stosuje się odpowiednio przepisy art. 86–88 i art. 90, a jeżeli wartość konkursu jest mniejsza niż progi unijne – przepisy art. 267 oraz art. 269–272.
 
-3. Zamawiający zapewnia, na stronie internetowej prowadzonego konkursu, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do regulaminu konkursu, odpowiednio od dnia publikacji ogłoszenia o konkursie w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia ogłoszenia o konkursie w Biuletynie Zamówień Publicznych, nie krócej niż do upływu terminu na składanie prac konkursowych.
+3. Zamawiający zapewnia, na stronie internetowej prowadzonego konkursu, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do regulaminu konkursu, odpowiednio od dnia publikacji ogłoszenia o konkursie w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia ogłoszenia o konkursie w Biuletynie Zamówień Publicznych, niekrócej niż do upływu terminu na składanie prac konkursowych.
 
 **Art. 341.**
 
@@ -3697,7 +3697,7 @@ source: pdf
 
 **Art. 356.**
 
-1. W terminie określonym w regulaminie konkursu, nie krótszym niż 15 dni od dnia zatwierdzenia rozstrzygnięcia konkursu, zamawiający w przypadku, o którym mowa w art. 326 pkt 1, wypłaca nagrodę pieniężną lub wydaje nagrodę rzeczową, a w przypadku, o którym mowa w art. 326 pkt 2, zaprasza do negocjacji w trybie negocjacji bez ogłoszenia lub zamówienia z wolnej ręki, odpowiednio autorów wybranych prac konkursowych lub autora wybranej pracy konkursowej i, jeśli przewidział nagrodę, wydaje lub wypłaca nagrodę.
+1. W terminie określonym w regulaminie konkursu, niekrótszym niż 15 dni od dnia zatwierdzenia rozstrzygnięcia konkursu, zamawiający w przypadku, o którym mowa w art. 326 pkt 1, wypłaca nagrodę pieniężną lub wydaje nagrodę rzeczową, a w przypadku, o którym mowa w art. 326 pkt 2, zaprasza do negocjacji w trybie negocjacji bez ogłoszenia lub zamówienia z wolnej ręki, odpowiednio autorów wybranych prac konkursowych lub autora wybranej pracy konkursowej i, jeśli przewidział nagrodę, wydaje lub wypłaca nagrodę.
 
 2. Jeżeli negocjacje prowadzone w trybie zamówienia z wolnej ręki z autorem wybranej pracy konkursowej nie doprowadziły do zawarcia umowy w sprawie zamówienia publicznego, zamawiający może zaprosić do negocjacji w tym trybie uczestnika konkursu, którego praca konkursowa otrzymała drugą w kolejności najwyższą ocenę, a zamawiający przewidział taką możliwość w regulaminie konkursu.
 
@@ -3720,7 +3720,7 @@ source: pdf
 **Art. 359.** Przy udzielaniu zamówień na usługi społeczne i inne szczególne usługi stosuje się przepisy ustawy właściwe dla:
 
 - **1)** zamówień klasycznych, o wartości równej lub przekraczającej progi unijne – jeżeli wartość zamówienia wyrażona w złotych jest równa lub przekracza równowartość kwoty 750 000 euro, z uwzględnieniem zmian wynikających z niniejszego rozdziału;
-- **2)** zamówień klasycznych o wartości mniejszej niż progi unijne – jeżeli wartość zamówienia wyrażona w złotych jest mniejsza niż równowartość kwoty 750 000 euro, nie mniejsza jednak niż równowartość kwoty 170 000 złotych.
+- **2)** zamówień klasycznych o wartości mniejszej niż progi unijne – jeżeli wartość zamówienia wyrażona w złotych jest mniejsza niż równowartość kwoty 750 000 euro, niemniejsza jednak niż równowartość kwoty 170 000 złotych.
 
 **Art. 360.** Zamawiający, udzielając zamówień, o których mowa w art. 359 pkt 1, może nie stosować przepisów ustawy dotyczących:
 
@@ -3741,7 +3741,7 @@ source: pdf
 
 2. W przypadkach, o których mowa w ust. 1, umowa w sprawie zamówienia publicznego nie może zostać zawarta na okres dłuższy niż 3 lata.
 
-3. Zamawiający może żądać dokumentów lub oświadczeń na potwierdzenie spełniania warunków, o których mowa w ust. 1 pkt 1–3, w szczególności zaświadczenia, o którym mowa w art. 27 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2024 r. poz. 113).
+3. Zamawiający może żądać dokumentów lub oświadczeń na potwierdzenie spełniania warunków, o których mowa w ust. 1 pkt 1–3, w szczególności zaświadczenia, o którym mowa w art. 27 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2025 r. poz. 806).
 
 ### DZIAŁ V Zamówienia sektorowe
 
@@ -3764,7 +3764,7 @@ source: pdf
 
 1. Zamawiający prowadzący działalność sektorową, o której mowa w art. 5 ust. 4 pkt 2, 3 i 7, nie stosują przepisów ustawy do udzielenia zamówień sektorowych na:
 
-- **1)** dostawy energii oraz paliw do wytwarzania energii, a także zakup świadectw pochodzenia lub świadectw pochodzenia biogazu rolniczego, w celu wykonania obowiązku, o którym mowa w art. 52 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762 oraz z 2024 r. poz. 834), zakup świadectw efektywności energetycznej, w celu wykonania obowiązku, o którym mowa w art. 10 ust. 1 pkt 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2024 r. poz. 1047), oraz zakup gwarancji pochodzenia, o których mowa w art. 120 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
+- **1)** dostawy energii oraz paliw do wytwarzania energii, a także zakup świadectw pochodzenia lub świadectw pochodzenia biogazu rolniczego, w celu wykonania obowiązku, o którym mowa w art. 52 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2026 r. poz. 68 i 516), zakup świadectw efektywności energetycznej, w celu wykonania obowiązku, o którym mowa w art. 10 ust. 1 pkt 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2025 r. poz. 711), oraz zakup gwarancji pochodzenia, o których mowa w art. 120 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
 - **2)** usługi przesyłania, magazynowania, dystrybucji paliw gazowych, skraplania gazu ziemnego i regazyfikacji skroplonego gazu ziemnego.
 
 2. Zamawiający prowadzący działalność sektorową, o której mowa w art. 5 ust. 4 pkt 1, nie stosują przepisów ustawy do udzielania zamówień na dostawy wody.
@@ -3773,7 +3773,7 @@ source: pdf
 
 1. Przepisów ustawy nie stosuje się do zamówień sektorowych na dostawy, udzielanych podmiotom:
 
-- **1)** których dane, wraz z danymi zamawiającego, objęte są rocznym skonsolidowanym sprawozdaniem finansowym w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619),
+- **1)** których dane, wraz z danymi zamawiającego, objęte są rocznym skonsolidowanym sprawozdaniem finansowym w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2026 r. poz. 522, 640 i 644),
 - **2)** w których zamawiający posiadają ponad połowę udziałów albo akcji, posiadają ponad połowę głosów wynikających z udziałów albo akcji, sprawują nadzór nad organem zarządzającym lub posiadają prawo mianowania ponad połowy składu organu nadzorczego lub zarządzającego,
 - **3)** które posiadają ponad połowę udziałów albo akcji zamawiającego, posiadają ponad połowę głosów wynikających z udziałów albo akcji zamawiającego, sprawują nadzór nad jego organem zarządzającym lub posiadają prawo mianowania ponad połowy składu jego organu nadzorczego lub zarządzającego,
 - **4)** które wspólnie z zamawiającym podlegają określonemu w pkt 3 wpływowi innego przedsiębiorcy ‒ jeżeli w okresie poprzednich 3 lat co najmniej 80 % przeciętnych przychodów tych podmiotów osiąganych ze świadczenia dostaw pochodziło ze świadczenia dostaw na rzecz zamawiającego lub podmiotów, o których mowa w pkt 1–4.
@@ -3813,7 +3813,7 @@ source: pdf
 
 **Art. 369.**
 
-1. Zamawiający może przekazać do publikacji Urzędowi Publikacji Unii Europejskiej lub zamieścić na stronie internetowej zamawiającego okresowe ogłoszenie informacyjne o planowanych w okresie nie dłuższym niż 12 miesięcy zamówieniach sektorowych lub umowach ramowych.
+1. Zamawiający może przekazać do publikacji Urzędowi Publikacji Unii Europejskiej lub zamieścić na stronie internetowej zamawiającego okresowe ogłoszenie informacyjne o planowanych w okresie niedłuższym niż 12 miesięcy zamówieniach sektorowych lub umowach ramowych.
 
 2. Jeżeli okresowe ogłoszenie informacyjne jest zamieszczane przez zamawiającego na stronie internetowej zamawiającego, zamawiający przekazuje Urzędowi Publikacji Unii Europejskiej ogłoszenie o publikacji okresowego ogłoszenia informacyjnego na stronie internetowej zamawiającego.
 
@@ -3832,7 +3832,7 @@ source: pdf
 - **3)** zaproszenie wykonawców do wyrażenia zainteresowania;
 - **4)** dodatkowe informacje określone w załączniku VI, części A, sekcji I i II do dyrektywy 2014/25/UE.
 
-5. Okresowe ogłoszenie informacyjne przekazuje się Urzędowi Publikacji Unii Europejskiej co najmniej na 35 dni i nie więcej niż na 12 miesięcy przed dniem wysłania zaproszenia do potwierdzenia zainteresowania.
+5. Okresowe ogłoszenie informacyjne przekazuje się Urzędowi Publikacji Unii Europejskiej co najmniej na 35 dni i niewięcej niż na 12 miesięcy przed dniem wysłania zaproszenia do potwierdzenia zainteresowania.
 
 6. Zaproszenie do potwierdzenia zainteresowania zawiera co najmniej:
 
@@ -3878,7 +3878,7 @@ source: pdf
 - **1)** bez zakończenia funkcjonowania systemu, przez przekazanie do publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia, o którym mowa w ust. 1;
 - **2)** w przypadku zakończenia funkcjonowania systemu, przez przekazanie do publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia, o którym mowa w art. 265 ust. 1.
 
-**Art. 373.** [1. Wykonawca ubiegający się o dopuszczenie do udziału w systemie kwalifikowania wykonawców składa wniosek wraz z oświadczeniem o niepodleganiu wykluczeniu oraz spełnianiu warunków udziału w systemie kwalifikowania wykonawców, określonych przez zamawiającego w ogłoszeniu o systemie kwalifikowania wykonawców, a jeżeli zamawiający żąda podmiotowych środków dowodowych lub przedmiotowych środków dowodowych, również te środki dowodowe. Przepisy art. 125 ust. 2–6, art. 127, art. 128 i art. 393 ust. 1 pkt 1 i 3 stosuje się odpowiednio.] <1. Wykonawca ubiegający się o dopuszczenie do udziału w systemie kwalifikowania wykonawców składa wniosek wraz z oświadczeniem o niepodleganiu wykluczeniu oraz spełnianiu warunków udziału w systemie kwalifikowania wykonawców, określonych przez zamawiającego w ogłoszeniu o systemie kwalifikowania wykonawców, a jeżeli zamawiający żąda podmiotowych środków dowodowych lub przedmiotowych środków dowodowych, również te środki dowodowe. Jeżeli zamawiający żąda podmiotowych środków dowodowych, wykonawca zamiast odpowiednich podmiotowych środków dowodowych może złożyć certyfikat, o którym mowa w art. 124 ust. 2. Przepisy art. 125 ust. 2–6, art. 127, art. 128 i art. 393 ust. 1 pkt 1 i 3 stosuje się odpowiednio.> 2. Zamawiający informuje wykonawcę o decyzji dotyczącej zakwalifikowania go do udziału w systemie kwalifikowania wykonawców niezwłocznie, nie później niż w terminie 4 miesięcy od dnia złożenia wniosku. 3. Jeżeli w ocenie zamawiającego podjęcie decyzji, o której mowa w ust. 2, nastąpi później niż w terminie 4 miesięcy od dnia złożenia wniosku, informuje on wnioskodawcę w terminie 2 miesięcy od dnia złożenia wniosku o powodach wydłużenia tego terminu oraz o dacie, do której jego wniosek zostanie rozpatrzony. Informacja o decyzji dotyczącej zakwalifikowania wykonawcy nie może nastąpić później niż w terminie 6 miesięcy od dnia złożenia wniosku przez wykonawcę. 4. Zamawiający zawiadamia niezwłocznie wykonawcę o odmowie dopuszczenia do udziału w systemie kwalifikowania wykonawców, jednak nie później niż w terminie 15 dni od dnia podjęcia decyzji, podając uzasadnienie faktyczne i prawne, z uwzględnieniem terminu, o którym mowa w ust. 3 zdanie drugie.
+**Art. 373.** [1. Wykonawca ubiegający się o dopuszczenie do udziału w systemie kwalifikowania wykonawców składa wniosek wraz z oświadczeniem o niepodleganiu wykluczeniu oraz spełnianiu warunków udziału w systemie kwalifikowania wykonawców, określonych przez zamawiającego w ogłoszeniu o systemie kwalifikowania wykonawców, a jeżeli zamawiający żąda podmiotowych środków dowodowych lub przedmiotowych środków dowodowych, również te środki dowodowe. Przepisy art. 125 ust. 2–6, art. 127, art. 128 i art. 393 ust. 1 pkt 1 i 3 stosuje się odpowiednio.] <1. Wykonawca ubiegający się o dopuszczenie do udziału w systemie kwalifikowania wykonawców składa wniosek wraz z oświadczeniem o niepodleganiu wykluczeniu oraz spełnianiu warunków udziału w systemie kwalifikowania wykonawców, określonych przez zamawiającego w ogłoszeniu o systemie kwalifikowania wykonawców, a jeżeli zamawiający żąda podmiotowych środków dowodowych lub przedmiotowych środków dowodowych, również te środki dowodowe. Jeżeli zamawiający żąda podmiotowych środków dowodowych, wykonawca zamiast odpowiednich podmiotowych środków dowodowych może złożyć certyfikat, o którym mowa w art. 124 ust. 2. Przepisy art. 125 ust. 2–6, art. 127, art. 128 i art. 393 ust. 1 pkt 1 i 3 stosuje się odpowiednio.> 2. Zamawiający informuje wykonawcę o decyzji dotyczącej zakwalifikowania go do udziału w systemie kwalifikowania wykonawców niezwłocznie, niepóźniej niż w terminie 4 miesięcy od dnia złożenia wniosku. 3. Jeżeli w ocenie zamawiającego podjęcie decyzji, o której mowa w ust. 2, nastąpi później niż w terminie 4 miesięcy od dnia złożenia wniosku, informuje on wnioskodawcę w terminie 2 miesięcy od dnia złożenia wniosku o powodach wydłużenia tego terminu oraz o dacie, do której jego wniosek zostanie rozpatrzony. Informacja o decyzji dotyczącej zakwalifikowania wykonawcy nie może nastąpić później niż w terminie 6 miesięcy od dnia złożenia wniosku przez wykonawcę. 4. Zamawiający zawiadamia niezwłocznie wykonawcę o odmowie dopuszczenia do udziału w systemie kwalifikowania wykonawców, jednak niepóźniej niż w terminie 15 dni od dnia podjęcia decyzji, podając uzasadnienie faktyczne i prawne, z uwzględnieniem terminu, o którym mowa w ust. 3 zdanie drugie.
 
 **Art. 374.**
 
@@ -3886,7 +3886,7 @@ source: pdf
 
 2. Wykonawcy wpisani do wykazu zakwalifikowanych wykonawców do odpowiedniej kategorii zamówień sektorowych nie są zobowiązani do potwierdzenia braku podstaw wykluczenia oraz spełniania warunków udziału wskazanych w ogłoszeniu o systemie kwalifikowania wykonawców przy kolejnych zamówieniach objętych tą kategorią zamówień sektorowych.
 
-3. Zamawiający informuje o zamiarze skreślenia z wykazu, o którym mowa w ust. 1, wykonawcę, który przestał spełniać kryteria kwalifikacji wykonawców nie później niż 15 dni przed planowanym skreśleniem.
+3. Zamawiający informuje o zamiarze skreślenia z wykazu, o którym mowa w ust. 1, wykonawcę, który przestał spełniać kryteria kwalifikacji wykonawców niepóźniej niż 15 dni przed planowanym skreśleniem.
 
 **Art. 375.**
 
@@ -3897,7 +3897,7 @@ source: pdf
 - **1)** zamawiający nie publikuje ogłoszenia o zamówieniu;
 - **2)** za dopuszczonych do udziału w postępowaniu uważa się wykonawców dopuszczonych do udziału w systemie kwalifikowania wykonawców, w określonej kategorii zamówień sektorowych;
 - **3)** zamawiający jednocześnie przekazuje wykonawcom dopuszczonym do udziału w systemie odpowiednio zaproszenie do składania ofert, ofert wstępnych, do udziału w dialogu lub do negocjacji w przypadku przetargu ograniczonego, partnerstwa innowacyjnego, dialogu konkurencyjnego lub sektorowych negocjacji z ogłoszeniem;
-- **4)** zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do dokumentów zamówienia, niezwłocznie, jednak nie później niż od dnia wysłania odpowiednio zaproszenia do składania ofert, ofert wstępnych, do udziału w dialogu lub do negocjacji w przypadku przetargu ograniczonego, partnerstwa innowacyjnego, dialogu konkurencyjnego lub sektorowych negocjacji z ogłoszeniem.
+- **4)** zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do dokumentów zamówienia, niezwłocznie, jednak niepóźniej niż od dnia wysłania odpowiednio zaproszenia do składania ofert, ofert wstępnych, do udziału w dialogu lub do negocjacji w przypadku przetargu ograniczonego, partnerstwa innowacyjnego, dialogu konkurencyjnego lub sektorowych negocjacji z ogłoszeniem.
 
 #### Rozdział 4 Tryby udzielania zamówień sektorowych
 
@@ -3928,7 +3928,7 @@ source: pdf
 
 1. Do przetargu nieograniczonego stosuje się przepisy art. 132–139.
 
-2. W postępowaniu prowadzonym w trybie przetargu nieograniczonego zamawiający może wyznaczyć termin składania ofert nie krótszy niż 15 dni – od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej, jeżeli informacja o zamówieniu została zawarta w okresowym ogłoszeniu informacyjnym dotyczącym zamówień planowanych w terminie 12 miesięcy, przekazanym lub zamieszczonym na stronie internetowej zamawiającego co najmniej na 35 dni przed dniem przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
+2. W postępowaniu prowadzonym w trybie przetargu nieograniczonego zamawiający może wyznaczyć termin składania ofert niekrótszy niż 15 dni – od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej, jeżeli informacja o zamówieniu została zawarta w okresowym ogłoszeniu informacyjnym dotyczącym zamówień planowanych w terminie 12 miesięcy, przekazanym lub zamieszczonym na stronie internetowej zamawiającego co najmniej na 35 dni przed dniem przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
 
 **Art. 379.**
 
@@ -3936,12 +3936,12 @@ source: pdf
 
 151.
 
-2. Zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do SWZ od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej lub od dnia wysłania zaproszenia do potwierdzenia zainteresowania, nie krócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się.
+2. Zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do SWZ od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej lub od dnia wysłania zaproszenia do potwierdzenia zainteresowania, niekrócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się.
 
 3. W postępowaniu prowadzonym w trybie przetargu ograniczonego zamawiający może wyznaczyć:
 
-- **1)** termin składania wniosków o dopuszczenie do udziału w postępowaniu nie krótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania, a w wyjątkowych przypadkach 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania;
-- **2)** termin składania ofert nie krótszy niż 10 dni, z uwzględnieniem czasu potrzebnego na przygotowanie i złożenie oferty;
+- **1)** termin składania wniosków o dopuszczenie do udziału w postępowaniu niekrótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania, a w wyjątkowych przypadkach 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania;
+- **2)** termin składania ofert niekrótszy niż 10 dni, z uwzględnieniem czasu potrzebnego na przygotowanie i złożenie oferty;
 - **3)** dowolny termin składania ofert, jeżeli wszyscy wykonawcy, którzy zostaną zaproszeni do składania ofert, wyrazili na to zgodę.
 
 **Art. 380.** Sektorowe negocjacje z ogłoszeniem to tryb udzielenia zamówienia, w którym w odpowiedzi na ogłoszenie opublikowane w Dzienniku Urzędowym Unii Europejskiej, stanowiące zaproszenie do ubiegania się o zamówienie, wykonawcy składają wnioski o dopuszczenie do udziału w postępowaniu, zamawiający zaprasza do negocjacji wykonawców dopuszczonych do udziału w postępowaniu, prowadzi z nimi negocjacje, a następnie zaprasza ich do składania ofert.
@@ -3950,12 +3950,12 @@ source: pdf
 
 1. Do sektorowych negocjacji z ogłoszeniem przepisy art. 155 ust. 1, art. 156 ust. 1 pkt 1–5 i 7–16, 18 i 19 oraz ust. 2 i 3, art. 157 ust. 1, art. 158 ust. 2, art. 167 i art. 168 stosuje się odpowiednio.
 
-2. Zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej lub od dnia wysłania zaproszenia do potwierdzenia zainteresowania, nie krócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się odpowiednio.
+2. Zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej lub od dnia wysłania zaproszenia do potwierdzenia zainteresowania, niekrócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się odpowiednio.
 
 3. W postępowaniu prowadzonym w trybie sektorowych negocjacji z ogłoszeniem zamawiający może wyznaczyć:
 
-- **1)** termin składania wniosków o dopuszczenie do udziału w postępowaniu nie krótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania, a w wyjątkowych przypadkach 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania;
-- **2)** termin składania ofert nie krótszy niż 10 dni od dnia przekazania zaproszenia do składania ofert, z uwzględnieniem czasu potrzebnego na przygotowanie i złożenie oferty;
+- **1)** termin składania wniosków o dopuszczenie do udziału w postępowaniu niekrótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania, a w wyjątkowych przypadkach 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania;
+- **2)** termin składania ofert niekrótszy niż 10 dni od dnia przekazania zaproszenia do składania ofert, z uwzględnieniem czasu potrzebnego na przygotowanie i złożenie oferty;
 - **3)** dowolny termin składania ofert, jeżeli wszyscy wykonawcy, którzy zostaną zaproszeni do składania ofert, wyrazili na to zgodę.
 
 4. Zamawiający zaprasza jednocześnie do negocjacji wykonawców, których wnioski o dopuszczenie do udziału w postępowaniu nie podlegały odrzuceniu.
@@ -3976,7 +3976,7 @@ source: pdf
 
 **Art. 384.** W postępowaniu prowadzonym w trybie dialogu konkurencyjnego lub partnerstwa innowacyjnego zamawiający może wyznaczyć termin składania:
 
-- **1)** wniosków o dopuszczenie do udziału w postępowaniu nie krótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania, a w wyjątkowych przypadkach 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania;
+- **1)** wniosków o dopuszczenie do udziału w postępowaniu niekrótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania, a w wyjątkowych przypadkach 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania;
 - **2)** ofert z uwzględnieniem czasu potrzebnego na przygotowanie i złożenie oferty.
 
 **Art. 385.**
@@ -4017,7 +4017,7 @@ source: pdf
 
 3. Zamawiający określa zasady i sposób udzielania zamówień na podstawie umowy ramowej w dokumentach zamówienia dotyczących umowy ramowej.
 
-4. Zamawiający może zawrzeć umowę ramową na okres nie dłuższy niż 8 lat, chyba że zachodzą wyjątkowe sytuacje uzasadnione przedmiotem umowy. Do umowy ramowej stosuje się przepisy działu VII.
+4. Zamawiający może zawrzeć umowę ramową na okres niedłuższy niż 8 lat, chyba że zachodzą wyjątkowe sytuacje uzasadnione przedmiotem umowy. Do umowy ramowej stosuje się przepisy działu VII.
 
 5. Udzielenie zamówienia objętego umową ramową może nastąpić wyłącznie między zamawiającymi wskazanymi w ogłoszeniu o zamówieniu a wykonawcami będącymi stronami umowy ramowej.
 
@@ -4208,7 +4208,7 @@ source: pdf
 
 2. Komunikacja, wymiana i przechowywanie informacji odbywa się w sposób zapewniający integralność, autentyczność, nienaruszalność oraz poufność tych informacji, w tym zapewniający możliwość zapoznania się z treścią wniosków o dopuszczenie do udziału w postępowaniu lub ofert wyłącznie po upływie terminu na ich składanie.
 
-3. Zgłoszenie wniosku o dopuszczenie do udziału w postępowaniu może nastąpić telefonicznie przed upływem terminu składania wniosków o dopuszczenie do udziału w postępowaniu. Wniosek uważa się za złożony w terminie, jeżeli przed upływem terminu składania wniosków o dopuszczenie do udziału w postępowaniu został on wysłany i zamawiający otrzymał go nie później niż w terminie 14 dni od dnia upływu terminu składania wniosków.
+3. Zgłoszenie wniosku o dopuszczenie do udziału w postępowaniu może nastąpić telefonicznie przed upływem terminu składania wniosków o dopuszczenie do udziału w postępowaniu. Wniosek uważa się za złożony w terminie, jeżeli przed upływem terminu składania wniosków o dopuszczenie do udziału w postępowaniu został on wysłany i zamawiający otrzymał go niepóźniej niż w terminie 14 dni od dnia upływu terminu składania wniosków.
 
 4. Zamawiający może wymagać, aby wnioski o dopuszczenie do udziału w postępowaniu, składane przy użyciu faksu, były potwierdzane w określonym przez zamawiającego terminie za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub przy użyciu środków komunikacji elektronicznej. Wymaganie takie, w tym termin przesyłania potwierdzeń za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub przy użyciu środków komunikacji elektronicznej, zamawiający wskazuje w ogłoszeniu o zamówieniu.
 
@@ -4263,7 +4263,7 @@ source: pdf
 
 4. Do wniosku o dopuszczenie do udziału w postępowaniu, a w przypadku negocjacji bez ogłoszenia do oferty, wykonawca dołącza oświadczenie, o którym mowa w art. 125 ust. 1, oraz podmiotowe środki dowodowe.
 
-5. Oświadczenie, o którym mowa w art. 125 ust. 1, oraz podmiotowe środki dowodowe, potwierdzają brak podstaw wykluczenia, spełnianie warunków udziału w postępowaniu lub kryteriów selekcji nie później niż na dzień składania wniosków o dopuszczenie do udziału w postępowaniu, a w przypadku negocjacji bez ogłoszenia nie później niż na dzień składania ofert.
+5. Oświadczenie, o którym mowa w art. 125 ust. 1, oraz podmiotowe środki dowodowe, potwierdzają brak podstaw wykluczenia, spełnianie warunków udziału w postępowaniu lub kryteriów selekcji niepóźniej niż na dzień składania wniosków o dopuszczenie do udziału w postępowaniu, a w przypadku negocjacji bez ogłoszenia niepóźniej niż na dzień składania ofert.
 
 6. Wykluczenie, na podstawie ust. 2 pkt 3, może nastąpić także w przypadku otrzymania przez zamawiającego, bezpośrednio lub pośrednio, pisemnego zawiadomienia od instytucji właściwych w sprawach ochrony bezpieczeństwa wewnętrznego lub zewnętrznego państwa, dysponujących informacjami w tym zakresie, o wystąpieniu zagrożenia dla obronności i bezpieczeństwa, w szczególności przekazania informacji o decyzji o cofnięciu świadectwa bezpieczeństwa przemysłowego, o której mowa w art. 66 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
 
@@ -4349,7 +4349,7 @@ source: pdf
 - **4)** informacje dotyczące ofert wariantowych, w tym informacje o sposobie przedstawiania ofert wariantowych oraz minimalne warunki, jakim muszą odpowiadać oferty wariantowe, jeżeli zamawiający dopuszcza ich składanie;
 - **5)** informację o przewidywanych zamówieniach, o których mowa w art. 415 ust. 2 pkt 5 i 6, jeżeli zamawiający przewiduje udzielenie takich zamówień.
 
-3. W przypadku gdy zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do SWZ od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej nie krócej niż do dnia udzielenia zamówienia, SWZ zawiera co najmniej:
+3. W przypadku gdy zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do SWZ od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej niekrócej niż do dnia udzielenia zamówienia, SWZ zawiera co najmniej:
 
 - **1)** informacje, o których mowa w art. 134 ust. 1 pkt 2–9 i 17–21 oraz ust. 2 pkt 2– 5, 7, 9, 10, 12–15, 17 i 18;
 - **2)** informacje, o których mowa w ust. 2 pkt 1 i 3–5;
@@ -4358,13 +4358,13 @@ source: pdf
 - **5)** opis sposobu przygotowywania wniosków o dopuszczenie do udziału w postępowaniu;
 - **6)** sposób oraz termin składania wniosków o dopuszczenie do udziału w postępowaniu.
 
-4. Jeżeli wyjaśnienia treści SWZ są niezbędne do należytego przygotowania i złożenia wniosku o dopuszczenie do udziału w postępowaniu zamawiający jest obowiązany udzielić wyjaśnień w tym zakresie niezwłocznie, jednak nie później niż na 6 dni przed upływem terminu składania wniosku albo nie później niż na 4 dni przed upływem terminu składania wniosków w przypadku, o którym mowa w ust. 7, pod warunkiem że wniosek o wyjaśnienie treści SWZ wpłynął do zamawiającego nie później niż na odpowiednio 14 dni lub 7 dni przed upływem terminu składania wniosku o dopuszczenie do udziału w postępowaniu.
+4. Jeżeli wyjaśnienia treści SWZ są niezbędne do należytego przygotowania i złożenia wniosku o dopuszczenie do udziału w postępowaniu zamawiający jest obowiązany udzielić wyjaśnień w tym zakresie niezwłocznie, jednak niepóźniej niż na 6 dni przed upływem terminu składania wniosku albo niepóźniej niż na 4 dni przed upływem terminu składania wniosków w przypadku, o którym mowa w ust. 7, pod warunkiem że wniosek o wyjaśnienie treści SWZ wpłynął do zamawiającego niepóźniej niż na odpowiednio 14 dni lub 7 dni przed upływem terminu składania wniosku o dopuszczenie do udziału w postępowaniu.
 
 5. Przedłużenie terminu składania wniosków o dopuszczenie do udziału w postępowaniu nie wpływa na bieg terminu składania wniosku o wyjaśnienie treści SWZ, o którym mowa w ust. 4.
 
 6. Do wyjaśnień oraz zmian treści SWZ przepisy art. 135 i art. 137 stosuje się odpowiednio.
 
-7. Jeżeli zachodzi pilna potrzeba udzielenia zamówienia, zamawiający może wyznaczyć krótszy termin składania wniosków o dopuszczenie do udziału w postępowaniu, jednak nie krótszy niż 10 dni od dnia przekazania do publikacji ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
+7. Jeżeli zachodzi pilna potrzeba udzielenia zamówienia, zamawiający może wyznaczyć krótszy termin składania wniosków o dopuszczenie do udziału w postępowaniu, jednak niekrótszy niż 10 dni od dnia przekazania do publikacji ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
 
 8. Zamawiający może ograniczyć liczbę wykonawców zapraszanych do składania ofert, których wnioski o dopuszczenie do udziału w postępowaniu nie podlegały odrzuceniu, o ile liczba ta jest wystarczająca, aby zapewnić konkurencję i nie jest mniejsza niż 3.
 
@@ -4384,9 +4384,9 @@ source: pdf
 
 14. W przypadku, o którym mowa w ust. 3, termin minimalny, o którym mowa w ust. 13, może zostać skrócony do 35 dni od dnia przekazania zaproszenia do składania ofert.
 
-15. W przypadku gdy informacja o zamówieniu została zawarta we wstępnym ogłoszeniu informacyjnym, o ile wstępne ogłoszenie informacyjne zawierało wszystkie informacje wymagane dla ogłoszenia o zamówieniu, w zakresie, w jakim informacje te są dostępne w chwili publikacji wstępnego ogłoszenia informacyjnego, które zostało przekazane do publikacji Urzędowi Publikacji Unii Europejskiej na co najmniej 52 dni i nie więcej niż 12 miesięcy przed dniem przekazania ogłoszenia o zamówieniu, zamawiający może wyznaczyć krótszy termin składania ofert, jednak nie krótszy niż 22 dni od dnia przekazania zaproszenia do składania ofert.
+15. W przypadku gdy informacja o zamówieniu została zawarta we wstępnym ogłoszeniu informacyjnym, o ile wstępne ogłoszenie informacyjne zawierało wszystkie informacje wymagane dla ogłoszenia o zamówieniu, w zakresie, w jakim informacje te są dostępne w chwili publikacji wstępnego ogłoszenia informacyjnego, które zostało przekazane do publikacji Urzędowi Publikacji Unii Europejskiej na co najmniej 52 dni i niewięcej niż 12 miesięcy przed dniem przekazania ogłoszenia o zamówieniu, zamawiający może wyznaczyć krótszy termin składania ofert, jednak niekrótszy niż 22 dni od dnia przekazania zaproszenia do składania ofert.
 
-16. Jeżeli zachodzi pilna potrzeba udzielenia zamówienia, zamawiający może wyznaczyć krótszy termin składania ofert, jednak nie krótszy niż 10 dni od dnia przekazania zaproszenia do składania ofert.
+16. Jeżeli zachodzi pilna potrzeba udzielenia zamówienia, zamawiający może wyznaczyć krótszy termin składania ofert, jednak niekrótszy niż 10 dni od dnia przekazania zaproszenia do składania ofert.
 
 **Art. 412.**
 
@@ -4397,14 +4397,14 @@ source: pdf
 - **1)** informacje, o których mowa w art. 134 ust. 2 pkt 2–5, 7, 9, 10, 12–15, 17 i 18 oraz art. 156 ust. 1 pkt 3–8, 18 i 19;
 - **2)** informacje, o których mowa w art. 411 ust. 2 pkt 1 i 3–5.
 
-3. W przypadku gdy zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp, do opisu potrzeb i wymagań oraz innych dokumentów zamówienia, od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej, nie krócej niż do dnia udzielenia zamówienia, opis potrzeb i wymagań zawiera co najmniej:
+3. W przypadku gdy zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp, do opisu potrzeb i wymagań oraz innych dokumentów zamówienia, od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej, niekrócej niż do dnia udzielenia zamówienia, opis potrzeb i wymagań zawiera co najmniej:
 
 - **1)** informacje, o których mowa w art. 134 ust. 2 pkt 2–5, 7, 9, 10, 12–15, 17 i 18 oraz art. 156 ust. 1 pkt 2–10, 14–16, 18 i 19;
 - **2)** informacje, o których mowa w art. 411 ust. 2 pkt 1 i 3–5;
 - **3)** podstawy wykluczenia, o których mowa w art. 405 ust. 2, jeżeli zamawiający je przewiduje;
 - **4)** informację, czy zamawiający przewiduje możliwość ograniczenia liczby wykonawców, których zaprosi do składania ofert wstępnych wraz z podaniem liczby wykonawców oraz kryteriów selekcji, jeżeli są ustalone.
 
-4. Jeżeli zachodzi pilna potrzeba udzielenia zamówienia, zamawiający może wyznaczyć krótszy termin składania wniosków o dopuszczenie do udziału w postępowaniu, jednak nie krótszy niż 10 dni od dnia przekazania do publikacji ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
+4. Jeżeli zachodzi pilna potrzeba udzielenia zamówienia, zamawiający może wyznaczyć krótszy termin składania wniosków o dopuszczenie do udziału w postępowaniu, jednak niekrótszy niż 10 dni od dnia przekazania do publikacji ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
 
 5. Zamawiający zaprasza jednocześnie do składania ofert wstępnych wykonawców, których wnioski o dopuszczenie do udziału w postępowaniu nie podlegały odrzuceniu, a w przypadku ustalenia kryteriów selekcji, zaprasza wykonawców, którzy spełniają te kryteria w liczbie określonej przez zamawiającego zgodnie z art. 159.
 
@@ -4430,7 +4430,7 @@ source: pdf
 - **2)** informacje, o których mowa w art. 174 ust. 2;
 - **3)** informacje, o których mowa w art. 411 ust. 2 pkt 1 i 3–5.
 
-4. W przypadku gdy zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań oraz innych dokumentów zamówienia, od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej, nie krócej niż do dnia udzielenia zamówienia, opis potrzeb i wymagań zawiera co najmniej:
+4. W przypadku gdy zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań oraz innych dokumentów zamówienia, od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej, niekrócej niż do dnia udzielenia zamówienia, opis potrzeb i wymagań zawiera co najmniej:
 
 - **1)** informacje, o których mowa w art. 134 ust. 2 pkt 2–5, 7, 9, 10, 13–15, 17 i 18 oraz art. 156 ust. 1 pkt 2–4, 9, 10, 14–16 i 19;
 - **2)** informacje, o których mowa w art. 174 ust. 2;
@@ -4531,7 +4531,7 @@ source: pdf
 
 **Art. 421.**
 
-1. Zamawiający zawiera umowę w sprawie zamówienia publicznego, z uwzględnieniem art. 577, w terminie nie krótszym niż 10 dni od dnia przesłania zawiadomienia o wyborze najkorzystniejszej oferty, jeżeli zawiadomienie to zostało przesłane przy użyciu środków komunikacji elektronicznej lub faksu, albo 15 dni – jeżeli zostało przesłane w inny sposób.
+1. Zamawiający zawiera umowę w sprawie zamówienia publicznego, z uwzględnieniem art. 577, w terminie niekrótszym niż 10 dni od dnia przesłania zawiadomienia o wyborze najkorzystniejszej oferty, jeżeli zawiadomienie to zostało przesłane przy użyciu środków komunikacji elektronicznej lub faksu, albo 15 dni – jeżeli zostało przesłane w inny sposób.
 
 2. Zamawiający może zawrzeć umowę w sprawie zamówienia publicznego przed upływem terminu, o którym mowa w ust. 1, jeżeli:
 
@@ -4558,7 +4558,7 @@ source: pdf
 
 1. Zamawiający, udzielając zamówienia w dziedzinach obronności i bezpieczeństwa, może zawrzeć umowę ramową po przeprowadzeniu postępowania, stosując odpowiednio przepisy dotyczące udzielania zamówienia w trybie przetargu ograniczonego, negocjacji z ogłoszeniem, dialogu konkurencyjnego, negocjacji bez ogłoszenia lub zamówienia z wolnej ręki.
 
-2. Umowę ramową zawiera się na okres nie dłuższy niż 7 lat.
+2. Umowę ramową zawiera się na okres niedłuższy niż 7 lat.
 
 3. Umowę ramową można zawrzeć na okres dłuższy niż 7 lat, jeżeli jest to konieczne ze względu na wystąpienie nadzwyczajnych okoliczności, przy uwzględnianiu oczekiwanego okresu funkcjonowania dostarczonych urządzeń, instalacji lub systemów, a także trudności technicznych, jakie może spowodować zmiana wykonawcy.
 
@@ -4594,7 +4594,7 @@ source: pdf
 
 3. Zamawiający, w czasie wykonywania umowy w sprawie zamówienia publicznego w dziedzinach obronności i bezpieczeństwa, w przypadku utraty przez podwykonawcę wiarygodności niezbędnej do wykluczenia zagrożenia dla bezpieczeństwa państwa zobowiązuje wykonawcę, w wyznaczonym terminie, do zmiany podwykonawcy lub realizacji tej części zamówienia samodzielnie.
 
-4. Jeżeli wykluczenie lub zmiana podwykonawcy, dotyczy podmiotu, na którego zasoby powoływał się wykonawca, zamawiający żąda, aby wykonawca w terminie określonym przez zamawiającego wykazał, że proponowany inny podwykonawca lub wykonawca samodzielnie spełnia je w stopniu nie mniejszym niż podwykonawca, na którego zasoby wykonawca powoływał się w trakcie postępowania o udzielenie zamówienia.
+4. Jeżeli wykluczenie lub zmiana podwykonawcy, dotyczy podmiotu, na którego zasoby powoływał się wykonawca, zamawiający żąda, aby wykonawca w terminie określonym przez zamawiającego wykazał, że proponowany inny podwykonawca lub wykonawca samodzielnie spełnia je w stopniu niemniejszym niż podwykonawca, na którego zasoby wykonawca powoływał się w trakcie postępowania o udzielenie zamówienia.
 
 **Art. 428.**
 
@@ -4660,7 +4660,7 @@ source: pdf
 - **1)** planowany termin zakończenia usługi, dostawy lub robót budowlanych, oraz, w razie potrzeby, planowane terminy wykonania poszczególnych części usługi, dostawy lub roboty budowlanej, określone w dniach, tygodniach, miesiącach lub latach, chyba że wskazanie daty wykonania umowy jest uzasadnione obiektywną przyczyną;
 - **2)** warunki zapłaty wynagrodzenia;
 - **3)** łączną maksymalną wysokość kar umownych, których mogą dochodzić strony;
-- **4)** w przypadku umów zawieranych na okres dłuższy niż 12 miesięcy: o pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427) ‒ jeżeli zmiany te będą miały wpływ na koszty wykonania zamówienia przez wykonawcę.
+- **4)** w przypadku umów zawieranych na okres dłuższy niż 12 miesięcy: o pracowniczych planach kapitałowych (Dz. U. z 2026 r. poz. 192) ‒ jeżeli zmiany te będą miały wpływ na koszty wykonania zamówienia przez wykonawcę.
     - **a)** wysokości kar umownych naliczanych wykonawcy z tytułu braku zapłaty lub nieterminowej zapłaty wynagrodzenia należnego podwykonawcom z tytułu zmiany wysokości wynagrodzenia, o której mowa w art. 439 ust. 5,
     - **b)** zasady wprowadzania zmian wysokości wynagrodzenia w przypadku zmiany: ‒ stawki podatku od towarów i usług oraz podatku akcyzowego, ‒ wysokości minimalnego wynagrodzenia za pracę albo wysokości minimalnej stawki godzinowej, ustalonych na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, ‒ zasad podlegania ubezpieczeniom społecznym lub ubezpieczeniu zdrowotnemu lub wysokości stawki składki na ubezpieczenia społeczne lub ubezpieczenie zdrowotne, ‒ zasad gromadzenia i wysokości wpłat do pracowniczych planów kapitałowych, o których mowa w ustawie z dnia 4 października 2018 r.
 
@@ -4742,7 +4742,7 @@ source: pdf
 - **4)** poręczeniach udzielanych przez podmioty, o których mowa w art. 6b ust. 5 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości;
 - **5)** w wekslach z poręczeniem wekslowym banku lub spółdzielczej kasy oszczędnościowo-kredytowej;
 - **6)** przez ustanowienie zastawu na papierach wartościowych emitowanych przez Skarb Państwa lub jednostkę samorządu terytorialnego;
-- **7)** przez ustanowienie zastawu rejestrowego na zasadach określonych w ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2018 r. poz. 2017).
+- **7)** przez ustanowienie zastawu rejestrowego na zasadach określonych w ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2018 r. poz. 2017 oraz z 2025 r. poz. 1792).
 
 4. Zamawiający żąda wniesienia zabezpieczenia zaliczki, jeżeli przewidywana wartość zaliczek przekracza 20 % wysokości wynagrodzenia wykonawcy.
 
@@ -4760,7 +4760,7 @@ source: pdf
 
 **Art. 444.**
 
-1. Organ sprawujący nadzór finansowy nad zamawiającym publicznym, w razie powzięcia wątpliwości co do prawidłowości zastosowania trybu udzielenia zamówienia z wolnej ręki na podstawie art. 214 ust. 1 pkt 11–14, zakazuje zawarcia umowy na czas wyjaśnienia sprawy, nie dłużej jednak niż na 21 dni.
+1. Organ sprawujący nadzór finansowy nad zamawiającym publicznym, w razie powzięcia wątpliwości co do prawidłowości zastosowania trybu udzielenia zamówienia z wolnej ręki na podstawie art. 214 ust. 1 pkt 11–14, zakazuje zawarcia umowy na czas wyjaśnienia sprawy, niedłużej jednak niż na 21 dni.
 
 2. Jeżeli organ sprawujący nadzór stwierdzi, że nie zachodzą podstawy do udzielenia zamówienia na podstawie art. 214 ust. 1 pkt 11–14, zakazuje zawarcia umowy, a jeżeli umowa została zawarta, zwraca się do zamawiającego o wypowiedzenie umowy albo odstąpienie od umowy, w wyznaczonym przez ten organ terminie.
 
@@ -4862,7 +4862,7 @@ source: pdf
 
 2. Zabezpieczenie ustala się w wysokości nieprzekraczającej 5 % ceny całkowitej podanej w ofercie albo maksymalnej wartości nominalnej zobowiązania zamawiającego wynikającego z umowy.
 
-3. Zabezpieczenie można ustalić w wysokości większej niż określona w ust. 2, nie większej jednak niż 10 % ceny całkowitej podanej w ofercie albo maksymalnej wartości nominalnej zobowiązania zamawiającego wynikającego z umowy, jeżeli jest to uzasadnione przedmiotem zamówienia lub wystąpieniem ryzyka związanego z realizacją zamówienia, co zamawiający opisał w SWZ lub innych dokumentach zamówienia.
+3. Zabezpieczenie można ustalić w wysokości większej niż określona w ust. 2, niewiększej jednak niż 10 % ceny całkowitej podanej w ofercie albo maksymalnej wartości nominalnej zobowiązania zamawiającego wynikającego z umowy, jeżeli jest to uzasadnione przedmiotem zamówienia lub wystąpieniem ryzyka związanego z realizacją zamówienia, co zamawiający opisał w SWZ lub innych dokumentach zamówienia.
 
 4. Jeżeli okres realizacji zamówienia jest dłuższy niż rok, zabezpieczenie, za zgodą zamawiającego, może być tworzone przez potrącenia z należności za częściowo wykonane dostawy, usługi lub roboty budowlane.
 
@@ -4872,11 +4872,11 @@ source: pdf
 
 7. W przypadku, o którym mowa w ust. 4, wniesienie pełnej wysokości zabezpieczenia nie może nastąpić później niż do połowy okresu, na który została zawarta umowa.
 
-8. Jeżeli okres, na jaki ma zostać wniesione zabezpieczenie, przekracza 5 lat, zabezpieczenie w pieniądzu wnosi się na cały ten okres, a zabezpieczenie w innej formie wnosi się na okres nie krótszy niż 5 lat, z jednoczesnym zobowiązaniem się wykonawcy do przedłużenia zabezpieczenia lub wniesienia nowego zabezpieczenia na kolejne okresy.
+8. Jeżeli okres, na jaki ma zostać wniesione zabezpieczenie, przekracza 5 lat, zabezpieczenie w pieniądzu wnosi się na cały ten okres, a zabezpieczenie w innej formie wnosi się na okres niekrótszy niż 5 lat, z jednoczesnym zobowiązaniem się wykonawcy do przedłużenia zabezpieczenia lub wniesienia nowego zabezpieczenia na kolejne okresy.
 
 9. W przypadku nieprzedłużenia lub niewniesienia nowego zabezpieczenia najpóźniej na 30 dni przed upływem terminu ważności dotychczasowego zabezpieczenia wniesionego w innej formie niż w pieniądzu, zamawiający zmienia formę na zabezpieczenie w pieniądzu, przez wypłatę kwoty z dotychczasowego zabezpieczenia.
 
-10. Wypłata, o której mowa w ust. 9, następuje nie później niż w ostatnim dniu ważności dotychczasowego zabezpieczenia.
+10. Wypłata, o której mowa w ust. 9, następuje niepóźniej niż w ostatnim dniu ważności dotychczasowego zabezpieczenia.
 
 **Art. 453.**
 
@@ -4884,7 +4884,7 @@ source: pdf
 
 2. Zamawiający może pozostawić na zabezpieczenie roszczeń z tytułu rękojmi za wady lub gwarancji kwotę nieprzekraczającą 30 % zabezpieczenia.
 
-3. Kwota, o której mowa w ust. 2, jest zwracana nie później niż w 15. dniu po upływie okresu rękojmi za wady lub gwarancji.
+3. Kwota, o której mowa w ust. 2, jest zwracana niepóźniej niż w 15. dniu po upływie okresu rękojmi za wady lub gwarancji.
 
 4. Zamawiający może dokonać częściowego zwrotu zabezpieczenia po wykonaniu części zamówienia, jeżeli przewidział taką możliwość w dokumentach zamówienia.
 
@@ -4964,9 +4964,9 @@ source: pdf
 
 3. Unieważnienie umowy wywołuje skutek od momentu jej zawarcia, z zastrzeżeniem art. 554 ust. 3 pkt 2 lit. b.
 
-4. Z przyczyn, o których mowa w ust. 1 oraz art. 458, nie można żądać stwierdzenia nieważności umowy na podstawie art. 189 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
+4. Z przyczyn, o których mowa w ust. 1 oraz art. 458, nie można żądać stwierdzenia nieważności umowy na podstawie art. 189 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473).
 
-5. Przepis ust. 1 nie wyłącza możliwości żądania unieważnienia umowy na podstawie art. 70 ustawy z dnia 23 kwietnia 1964 r. − Kodeks cywilny.
+5. Przepis ust. 1 nie wyłącza możliwości żądania unieważnienia umowy na podstawie art. 70 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
 
 **Art. 458.** Zmiana umowy podlega unieważnieniu, jeżeli została dokonana z naruszeniem art. 454 i art. 455. W takim przypadku stosuje się postanowienie umowne w brzmieniu obowiązującym przed tą zmianą.
 
@@ -5003,7 +5003,7 @@ source: pdf
 
 6. W przypadku, o którym mowa w ust. 5, jeżeli wobec podwykonawcy zachodzą podstawy wykluczenia, zamawiający żąda, aby wykonawca w terminie określonym przez zamawiającego zastąpił tego podwykonawcę pod rygorem niedopuszczenia podwykonawcy do realizacji części zamówienia.
 
-7. Jeżeli zmiana albo rezygnacja z podwykonawcy dotyczy podmiotu, na którego zasoby wykonawca powoływał się, na zasadach określonych w art. 118 ust. 1, w celu wykazania spełniania warunków udziału w postępowaniu, wykonawca jest obowiązany wykazać zamawiającemu, że proponowany inny podwykonawca lub wykonawca samodzielnie spełnia je w stopniu nie mniejszym niż podwykonawca, na którego zasoby wykonawca powoływał się w trakcie postępowania o udzielenie zamówienia. Przepis art. 122 stosuje się odpowiednio.
+7. Jeżeli zmiana albo rezygnacja z podwykonawcy dotyczy podmiotu, na którego zasoby wykonawca powoływał się, na zasadach określonych w art. 118 ust. 1, w celu wykazania spełniania warunków udziału w postępowaniu, wykonawca jest obowiązany wykazać zamawiającemu, że proponowany inny podwykonawca lub wykonawca samodzielnie spełnia je w stopniu niemniejszym niż podwykonawca, na którego zasoby wykonawca powoływał się w trakcie postępowania o udzielenie zamówienia. Przepis art. 122 stosuje się odpowiednio.
 
 8. Powierzenie wykonania części zamówienia podwykonawcom nie zwalnia wykonawcy z odpowiedzialności za należyte wykonanie tego zamówienia.
 
@@ -5045,7 +5045,7 @@ source: pdf
 
 3. Bezpośrednia zapłata obejmuje wyłącznie należne wynagrodzenie, bez odsetek, należnych podwykonawcy lub dalszemu podwykonawcy.
 
-4. Zamawiający, przed dokonaniem bezpośredniej zapłaty, jest obowiązany umożliwić wykonawcy zgłoszenie, pisemnie, uwag dotyczących zasadności bezpośredniej zapłaty wynagrodzenia podwykonawcy lub dalszemu podwykonawcy. Zamawiający informuje o terminie zgłaszania uwag nie krótszym niż 7 dni od dnia doręczenia tej informacji. W uwagach nie można powoływać się na potrącenie roszczeń wykonawcy względem podwykonawcy niezwiązanych z realizacją umowy o podwykonawstwo.
+4. Zamawiający, przed dokonaniem bezpośredniej zapłaty, jest obowiązany umożliwić wykonawcy zgłoszenie, pisemnie, uwag dotyczących zasadności bezpośredniej zapłaty wynagrodzenia podwykonawcy lub dalszemu podwykonawcy. Zamawiający informuje o terminie zgłaszania uwag niekrótszym niż 7 dni od dnia doręczenia tej informacji. W uwagach nie można powoływać się na potrącenie roszczeń wykonawcy względem podwykonawcy niezwiązanych z realizacją umowy o podwykonawstwo.
 
 5. W przypadku zgłoszenia uwag, o których mowa w ust. 4, w terminie wskazanym przez zamawiającego, zamawiający może:
 
@@ -5071,7 +5071,7 @@ source: pdf
 
 3. W ramach nadzoru nad Prezesem Urzędu minister właściwy do spraw gospodarki:
 
-- **1)** sprawuje kontrolę nad Prezesem Urzędu na zasadach i w trybie określonych w przepisach ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224);
+- **1)** sprawuje kontrolę nad Prezesem Urzędu na zasadach i w trybie określonych w przepisach ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2026 r. poz. 158);
 - **2)** zatwierdza plan, o którym mowa w art. 469 pkt 18;
 - **3)** dokonuje oceny działalności Prezesa Urzędu na podstawie sprawozdania, o którym mowa w art. 469 pkt 20, w terminie do dnia 30 września każdego roku;
 - **4)** może żądać od Prezesa Urzędu informacji lub udostępnienia dokumentów związanych z realizacją jego zadań.
@@ -5116,13 +5116,13 @@ source: pdf
 
 8. Członek komisji kwalifikacyjnej oraz osoba, o której mowa w ust. 7, mają obowiązek zachowania w tajemnicy informacji dotyczących osób ubiegających się o stanowisko, na które jest prowadzony nabór, uzyskanych w toku naboru.
 
-9. W toku naboru komisja kwalifikacyjna wyłania nie więcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw gospodarki.
+9. W toku naboru komisja kwalifikacyjna wyłania niewięcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw gospodarki.
 
 10. Z przeprowadzonego naboru komisja kwalifikacyjna sporządza protokół zawierający:
 
 - **1)** nazwę i adres Urzędu;
 - **2)** określenie stanowiska, na które był prowadzony nabór, oraz liczbę kandydatów;
-- **3)** imiona, nazwiska i adresy nie więcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu;
+- **3)** imiona, nazwiska i adresy niewięcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu;
 - **4)** informację o zastosowanych metodach i technikach naboru;
 - **5)** uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata;
 - **6)** skład komisji kwalifikacyjnej.
@@ -5202,7 +5202,7 @@ source: pdf
 
 **Art. 472.**
 
-1. Prezes Urzędu wykonuje zadania wynikające z ustawy przy pomocy nie więcej niż dwóch wiceprezesów Urzędu.
+1. Prezes Urzędu wykonuje zadania wynikające z ustawy przy pomocy niewięcej niż dwóch wiceprezesów Urzędu.
 
 2. Wiceprezesa Urzędu powołuje minister właściwy do spraw gospodarki, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, na wniosek Prezesa Urzędu. Minister właściwy do spraw gospodarki odwołuje wiceprezesa Urzędu na wniosek Prezesa Urzędu.
 
@@ -5228,7 +5228,7 @@ source: pdf
 
 **Art. 474.**
 
-1. W skład Izby wchodzi nie więcej niż 100 członków, powoływanych przez ministra właściwego do spraw gospodarki spośród osób spełniających wymagania, o których mowa w ust. 2, i które uzyskały najlepsze wyniki w postępowaniu kwalifikacyjnym.
+1. W skład Izby wchodzi niewięcej niż 100 członków, powoływanych przez ministra właściwego do spraw gospodarki spośród osób spełniających wymagania, o których mowa w ust. 2, i które uzyskały najlepsze wyniki w postępowaniu kwalifikacyjnym.
 
 2. Członkiem Izby może być osoba, która:
 
@@ -5273,7 +5273,7 @@ source: pdf
 4. Członek Izby składa Prezesowi Urzędu co roku, do dnia 31 marca, oświadczenie:
 
 - **1)** czy toczą się przeciwko niemu postępowania karne, wraz z informacją dotyczącą przedmiotu postępowania;
-- **2)** o stanie majątkowym według stanu na dzień 31 grudnia roku poprzedniego, stosując odpowiednio formularz, którego wzór jest określony w przepisach wydanych na podstawie ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090).
+- **2)** o stanie majątkowym według stanu na dzień 31 grudnia roku poprzedniego, stosując odpowiednio formularz, którego wzór jest określony w przepisach wydanych na podstawie ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2025 r. poz. 499 oraz z 2026 r. poz. 160 i 177).
 
 **Art. 477.**
 
@@ -5303,7 +5303,7 @@ source: pdf
 
 7. Komisja kwalifikacyjna składa się z siedmiu członków. Członkiem komisji może być wyłącznie osoba, której wiedza i doświadczenie w zakresie przepisów związanych z udzielaniem zamówień lub w zakresie prawa cywilnego, oraz jej autorytet, dają rękojmię prawidłowego i bezstronnego przebiegu postępowania kwalifikacyjnego.
 
-8. Jeżeli w postępowaniu kwalifikacyjnym minimalną liczbę punktów uzyska mniejsza liczba osób, niż wynika to z limitu określonego na podstawie ust. 4 pkt 1, minister właściwy do spraw gospodarki może ogłosić uzupełniające postępowanie kwalifikacyjne na członka Izby nie później niż w terminie 30 dni od dnia zakończenia postępowania kwalifikacyjnego. Do uzupełniającego postępowania kwalifikacyjnego przepisy ust. 1–7 stosuje się.
+8. Jeżeli w postępowaniu kwalifikacyjnym minimalną liczbę punktów uzyska mniejsza liczba osób, niż wynika to z limitu określonego na podstawie ust. 4 pkt 1, minister właściwy do spraw gospodarki może ogłosić uzupełniające postępowanie kwalifikacyjne na członka Izby niepóźniej niż w terminie 30 dni od dnia zakończenia postępowania kwalifikacyjnego. Do uzupełniającego postępowania kwalifikacyjnego przepisy ust. 1–7 stosuje się.
 
 9. W skład Izby, w miejsce kandydata wybranego w drodze postępowania kwalifikacyjnego albo uzupełniającego postępowania kwalifikacyjnego, który po ogłoszeniu wyniku postępowania zrezygnował z powołania, można powołać kolejną osobę, która uzyskała minimalną liczbę punktów, a nie została powołana w skład Izby w wyniku postępowania kwalifikacyjnego albo uzupełniającego postępowania kwalifikacyjnego, o ile powołanie to nastąpi w ciągu roku od dnia zakończenia odpowiednio postępowania kwalifikacyjnego albo uzupełniającego postępowania kwalifikacyjnego.
 
@@ -5342,7 +5342,7 @@ source: pdf
 - **12)** złożenia przez członka Izby wniosku o odwołanie;
 - **13)** trwałej niezdolności do pełnienia obowiązków członka Izby stwierdzonej przez orzecznika Zakładu Ubezpieczeń Społecznych lub odmowy bez uzasadnionej przyczyny poddania się ocenie zdolności do pełnienia tych obowiązków, mimo zalecenia Prezesa Izby.
 
-3. W skład Izby, w miejsce członka Izby odwołanego na podstawie ust. 2 pkt 10 lub 11, można powołać kolejną osobę, która uzyskała minimalną liczbę punktów, a nie została powołana w skład Izby w wyniku postępowania kwalifikacyjnego albo uzupełniającego postępowania kwalifikacyjnego, o ile postępowanie to zakończyło się nie wcześniej niż na rok przed dniem odwołania.
+3. W skład Izby, w miejsce członka Izby odwołanego na podstawie ust. 2 pkt 10 lub 11, można powołać kolejną osobę, która uzyskała minimalną liczbę punktów, a nie została powołana w skład Izby w wyniku postępowania kwalifikacyjnego albo uzupełniającego postępowania kwalifikacyjnego, o ile postępowanie to zakończyło się niewcześniej niż na rok przed dniem odwołania.
 
 **Art. 479.**
 
@@ -5402,7 +5402,7 @@ source: pdf
 
 **Art. 484.**
 
-1. Podstawę ustalenia wynagrodzenia zasadniczego Prezesa Izby, wiceprezesa Izby oraz pozostałych członków Izby stanowi wielokrotność kwoty bazowej ustalonej w ustawie budżetowej na dany rok, na podstawie art. 9 ust. 1 pkt 2 ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2023 r. poz. 2692 oraz z 2024 r. poz. 123), dla pracowników państwowej sfery budżetowej, o których mowa w art. 5 pkt 1 lit. a tej ustawy.
+1. Podstawę ustalenia wynagrodzenia zasadniczego Prezesa Izby, wiceprezesa Izby oraz pozostałych członków Izby stanowi wielokrotność kwoty bazowej ustalonej w ustawie budżetowej na dany rok, na podstawie art. 9 ust. 1 pkt 2 ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2024 r. poz. 1356), dla pracowników państwowej sfery budżetowej, o których mowa w art. 5 pkt 1 lit. a tej ustawy.
 
 2. Członkowi Izby przysługuje dodatek za wieloletnią pracę wynoszący, począwszy od szóstego roku pracy, 5 % miesięcznego wynagrodzenia zasadniczego i wzrastający po każdym roku pracy o 1 %, aż do osiągnięcia 20 % miesięcznego wynagrodzenia zasadniczego.
 
@@ -5448,7 +5448,7 @@ source: pdf
 
 1. Minister właściwy do spraw gospodarki zawiesza członka Izby w jego prawach i obowiązkach w przypadku przedstawienia mu zarzutu popełnienia umyślnego przestępstwa lub umyślnego przestępstwa skarbowego.
 
-2. Okres zawieszenia, o którym mowa w ust. 1, trwa do czasu zakończenia postępowania karnego, nie dłużej jednak niż przez 6 miesięcy.
+2. Okres zawieszenia, o którym mowa w ust. 1, trwa do czasu zakończenia postępowania karnego, niedłużej jednak niż przez 6 miesięcy.
 
 3. W okresie zawieszenia członek Izby zachowuje prawo do połowy wynagrodzenia.
 
@@ -5635,7 +5635,7 @@ source: pdf
 1. W trakcie pełnienia funkcji przez Prezesa Urzędu skład Rady:
 
 - **1)** podlega uzupełnieniu, jeżeli w wyniku wygaśnięcia członkostwa w Radzie, z powodu śmierci jej członka, jego odwołania albo rezygnacji, liczba członków byłaby mniejsza niż 10;
-- **2)** może być uzupełniony, zgodnie z art. 501 ust. 1, jeżeli liczba członków Rady jest nie mniejsza niż 10.
+- **2)** może być uzupełniony, zgodnie z art. 501 ust. 1, jeżeli liczba członków Rady jest niemniejsza niż 10.
 
 2. Kandydatów na członków Rady mogą zgłaszać podmioty, o których mowa w art. 501 ust. 2, w terminie 60 dni od dnia zamieszczenia w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw gospodarki informacji o uzupełnianiu składu Rady.
 
@@ -5643,7 +5643,7 @@ source: pdf
 
 1. Członkom Rady przysługuje wynagrodzenie za udział w pracach Rady. Wysokość wynagrodzenia uzależniona jest od zakresu obowiązków związanych z funkcją pełnioną w Radzie oraz liczby posiedzeń, w których uczestniczył członek Rady.
 
-2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wysokość wynagrodzenia przewodniczącego, wiceprzewodniczącego i pozostałych członków Rady, przysługującego za jedno posiedzenie, mając na względzie zakres obowiązków związanych z pełnioną przez nich funkcją oraz to, że wynagrodzenie nie może być mniejsze niż 5 % przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok powołania Rady, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672 oraz z 2024 r. poz. 834 i 858), i nie może przekroczyć 25 % tego wynagrodzenia.
+2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wysokość wynagrodzenia przewodniczącego, wiceprzewodniczącego i pozostałych członków Rady, przysługującego za jedno posiedzenie, mając na względzie zakres obowiązków związanych z pełnioną przez nich funkcją oraz to, że wynagrodzenie nie może być mniejsze niż 5 % przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok powołania Rady, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26 i 425), i nie może przekroczyć 25 % tego wynagrodzenia.
 
 3. Członkom Rady mającym miejsce zamieszkania w innej miejscowości niż siedziba Urzędu przysługują diety oraz zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
@@ -5675,7 +5675,7 @@ source: pdf
 
 1. Pisma w postępowaniu odwoławczym wnosi się w formie pisemnej albo w formie elektronicznej albo w postaci elektronicznej, z tym że odwołanie i przystąpienie do postępowania odwoławczego, wniesione w postaci elektronicznej, wymagają opatrzenia podpisem zaufanym.
 
-2. Pisma w formie pisemnej wnosi się za pośrednictwem operatora pocztowego, w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, osobiście, za pośrednictwem posłańca, a pisma w postaci elektronicznej wnosi się przy użyciu środków komunikacji elektronicznej, w tym na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045).
+2. Pisma w formie pisemnej wnosi się za pośrednictwem operatora pocztowego, w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, osobiście, za pośrednictwem posłańca, a pisma w postaci elektronicznej wnosi się przy użyciu środków komunikacji elektronicznej, w tym na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3 i 507).
 
 3. Pisma składane podczas rozprawy, która nie jest zdalną rozprawą, lub posiedzenia, które nie jest zdalnym posiedzeniem, wnosi się wraz z odpisami dla stron i uczestników postępowania odwoławczego, jeżeli pisma te są składane w formie pisemnej.
 
@@ -5751,7 +5751,7 @@ source: pdf
 - **1)** 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień, których wartość jest równa albo przekracza progi unijne;
 - **2)** 5 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, w przypadku zamówień, których wartość jest mniejsza niż progi unijne.
 
-4. Jeżeli zamawiający nie opublikował ogłoszenia o zamiarze zawarcia umowy lub mimo takiego obowiązku nie przesłał wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty lub nie zaprosił wykonawcy do złożenia oferty w ramach dynamicznego systemu zakupów lub umowy ramowej, odwołanie wnosi się nie później niż w terminie:
+4. Jeżeli zamawiający nie opublikował ogłoszenia o zamiarze zawarcia umowy lub mimo takiego obowiązku nie przesłał wykonawcy zawiadomienia o wyborze najkorzystniejszej oferty lub nie zaprosił wykonawcy do złożenia oferty w ramach dynamicznego systemu zakupów lub umowy ramowej, odwołanie wnosi się niepóźniej niż w terminie:
 
 - **1)** 15 dni od dnia zamieszczenia w Biuletynie Zamówień Publicznych ogłoszenia o wyniku postępowania albo 30 dni od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia, a w przypadku udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki ‒ ogłoszenia o wyniku postępowania albo ogłoszenia o udzieleniu zamówienia, zawierającego uzasadnienie udzielenia zamówienia w trybie negocjacji bez ogłoszenia albo zamówienia z wolnej ręki;
 - **2)** 6 miesięcy od dnia zawarcia umowy, jeżeli zamawiający:
@@ -5829,9 +5829,9 @@ source: pdf
 
 **Art. 521a.**
 
-1. Zamawiający przesyła podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, kopię odwołania, niezwłocznie, nie później niż w terminie 2 dni licząc od dnia jego otrzymania, w przypadku gdy odwołanie to zawiera twierdzenia dotyczące domniemania wynikającego z udzielonej certyfikacji wykonawców zamówień publicznych.
+1. Zamawiający przesyła podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, kopię odwołania, niezwłocznie, niepóźniej niż w terminie 2 dni licząc od dnia jego otrzymania, w przypadku gdy odwołanie to zawiera twierdzenia dotyczące domniemania wynikającego z udzielonej certyfikacji wykonawców zamówień publicznych.
 
-2. Podmiot certyfikujący, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, niezwłocznie, nie później niż w terminie 5 dni licząc od dnia otrzymania odwołania, doręcza Prezesowi Izby i przesyła do zamawiającego oraz wykonawcy wnoszącego odwołanie swoje stanowisko, wraz z uzasadnieniem, zawierające odniesienie się do twierdzeń, o których mowa w ust. 1, zawartych w odwołaniu.
+2. Podmiot certyfikujący, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, niezwłocznie, niepóźniej niż w terminie 5 dni licząc od dnia otrzymania odwołania, doręcza Prezesowi Izby i przesyła do zamawiającego oraz wykonawcy wnoszącego odwołanie swoje stanowisko, wraz z uzasadnieniem, zawierające odniesienie się do twierdzeń, o których mowa w ust. 1, zawartych w odwołaniu.
 
 ##### Oddział 3 Uwzględnienie odwołania przez zamawiającego
 
@@ -5855,7 +5855,7 @@ source: pdf
 
 ##### Oddział 4 Przystąpienie do postępowania odwoławczego
 
-**Art. 524.** Zamawiający przesyła niezwłocznie, nie później niż w terminie 2 dni od dnia otrzymania, odwołanie albo jego kopię innym wykonawcom uczestniczącym w postępowaniu o udzielenie zamówienia, a jeżeli odwołanie dotyczy treści ogłoszenia o zamówieniu lub dokumentów zamówienia, zamieszcza je również na stronie internetowej, na której jest zamieszczone ogłoszenie o zamówieniu lub są udostępniane dokumenty zamówienia, wzywając wykonawców do przystąpienia do postępowania odwoławczego.
+**Art. 524.** Zamawiający przesyła niezwłocznie, niepóźniej niż w terminie 2 dni od dnia otrzymania, odwołanie albo jego kopię innym wykonawcom uczestniczącym w postępowaniu o udzielenie zamówienia, a jeżeli odwołanie dotyczy treści ogłoszenia o zamówieniu lub dokumentów zamówienia, zamieszcza je również na stronie internetowej, na której jest zamieszczone ogłoszenie o zamówieniu lub są udostępniane dokumenty zamówienia, wzywając wykonawców do przystąpienia do postępowania odwoławczego.
 
 **Art. 525.**
 
@@ -5869,7 +5869,7 @@ source: pdf
 
 **Art. 526.**
 
-1. Zamawiający lub odwołujący może zgłosić opozycję przeciw przystąpieniu innego wykonawcy, nie później niż do czasu otwarcia rozprawy.
+1. Zamawiający lub odwołujący może zgłosić opozycję przeciw przystąpieniu innego wykonawcy, niepóźniej niż do czasu otwarcia rozprawy.
 
 2. Izba uwzględnia opozycję, jeżeli zgłaszający opozycję uprawdopodobni, że wykonawca nie ma interesu w uzyskaniu rozstrzygnięcia na korzyść strony, do której przystąpił. W przeciwnym przypadku Izba oddala opozycję.
 
@@ -5951,7 +5951,7 @@ source: pdf
 
 1. Dopuszczając dowód z opinii biegłego, skład orzekający, w postanowieniu, określa przedmiot opinii i dziedzinę, z której biegły jest powoływany, a także wskazuje dokumentację niezbędną do sporządzenia opinii.
 
-2. Izba może powołać biegłego spośród osób wpisanych na listę biegłych sądowych albo spoza tej listy, jeżeli ustalenie stanu faktycznego sprawy wymaga wiadomości specjalnych. Biegłemu przysługuje wynagrodzenie oraz zwrot poniesionych wydatków, w wysokości ustalonej zgodnie z przepisami tytułu III działu 2 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2024 r. poz. 959). Przepisy o biegłych dotyczące wynagrodzenia oraz zwrotu wydatków stosuje się odpowiednio do tłumaczy.
+2. Izba może powołać biegłego spośród osób wpisanych na listę biegłych sądowych albo spoza tej listy, jeżeli ustalenie stanu faktycznego sprawy wymaga wiadomości specjalnych. Biegłemu przysługuje wynagrodzenie oraz zwrot poniesionych wydatków, w wysokości ustalonej zgodnie z przepisami tytułu III działu 2 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2025 r. poz. 1228 oraz z 2026 r. poz. 346 i 473). Przepisy o biegłych dotyczące wynagrodzenia oraz zwrotu wydatków stosuje się odpowiednio do tłumaczy.
 
 3. W przypadku postępowania odwoławczego, którego dokumentacja zawiera informacje niejawne, skład orzekający powołuje biegłego, który posiada dostęp do informacji niejawnych.
 
@@ -6102,7 +6102,7 @@ source: pdf
 
 1. Izba ogłasza orzeczenie po zamknięciu rozprawy, na posiedzeniu jawnym oraz podaje ustnie motywy rozstrzygnięcia. Nieobecność stron nie wstrzymuje ogłoszenia orzeczenia.
 
-2. W sprawie zawiłej Izba może odroczyć ogłoszenie orzeczenia na czas nie dłuższy niż 5 dni. W postanowieniu o odroczeniu ogłoszenia orzeczenia Izba wyznacza termin jego ogłoszenia. Jeżeli ogłoszenie było odroczone, może go dokonać przewodniczący składu orzekającego albo wyznaczony przez Prezesa Izby członek składu orzekającego.
+2. W sprawie zawiłej Izba może odroczyć ogłoszenie orzeczenia na czas niedłuższy niż 5 dni. W postanowieniu o odroczeniu ogłoszenia orzeczenia Izba wyznacza termin jego ogłoszenia. Jeżeli ogłoszenie było odroczone, może go dokonać przewodniczący składu orzekającego albo wyznaczony przez Prezesa Izby członek składu orzekającego.
 
 **Art. 559.**
 
@@ -6140,7 +6140,7 @@ source: pdf
 
 1. Prezes Izby albo prezes sądu rozpatrującego skargę na orzeczenie Izby przesyła niezwłocznie Prezesowi Urzędu odpis prawomocnego orzeczenia o nałożeniu kary finansowej, w przypadku orzeczenia sądu – wraz z kopią zaskarżonego orzeczenia Izby.
 
-2. Prezes Urzędu jest wierzycielem w rozumieniu przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858, 859 i 1222).
+2. Prezes Urzędu jest wierzycielem w rozumieniu przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268 i 516).
 
 **Art. 567.**
 
@@ -6158,7 +6158,7 @@ source: pdf
 - **2)** stwierdzenia, że dalsze postępowanie stało się z innej przyczyny zbędne lub niedopuszczalne;
 - **3)** o którym mowa w art. 522.
 
-**Art. 568a.** W przypadku stwierdzenia w prawomocnie zakończonym postępowaniu odwoławczym, że domniemanie niepodlegania wykluczeniu lub zdolności do należytego wykonania zamówienia, wynikające z certyfikatu, o którym mowa w art. 124 ust. 2, zostało obalone co do całości albo części obejmującej określony zakres certyfikacji wykonawców zamówień publicznych, Prezes Izby przesyła niezwłocznie, w terminie nie dłuższym niż 3 dni robocze licząc od dnia wydania prawomocnego orzeczenia w tym postępowaniu, podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, informację w tym zakresie.
+**Art. 568a.** W przypadku stwierdzenia w prawomocnie zakończonym postępowaniu odwoławczym, że domniemanie niepodlegania wykluczeniu lub zdolności do należytego wykonania zamówienia, wynikające z certyfikatu, o którym mowa w art. 124 ust. 2, zostało obalone co do całości albo części obejmującej określony zakres certyfikacji wykonawców zamówień publicznych, Prezes Izby przesyła niezwłocznie, w terminie niedłuższym niż 3 dni robocze licząc od dnia wydania prawomocnego orzeczenia w tym postępowaniu, podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, informację w tym zakresie.
 
 ##### Oddział 10 Protokół
 
@@ -6230,7 +6230,7 @@ source: pdf
 
 3. Wniosek, o którym mowa w ust. 1, rozpoznaje skład orzekający wyznaczony do rozpoznania odwołania. Przepisy art. 488 ust. 4 i 5 i art. 490–492 stosuje się.
 
-4. W sprawie wniosku, o którym mowa w ust. 1, Izba rozstrzyga na posiedzeniu niejawnym, w formie postanowienia, nie później niż w terminie 5 dni od dnia jego złożenia. Na postanowienie Izby nie przysługuje skarga.
+4. W sprawie wniosku, o którym mowa w ust. 1, Izba rozstrzyga na posiedzeniu niejawnym, w formie postanowienia, niepóźniej niż w terminie 5 dni od dnia jego złożenia. Na postanowienie Izby nie przysługuje skarga.
 
 5. Izba umarza, w formie postanowienia, postępowanie wszczęte na skutek złożenia wniosku, o którym mowa w ust. 1, w przypadku:
 
@@ -6277,7 +6277,7 @@ source: pdf
 
 **Art. 587.**
 
-1. Sąd rozpoznaje sprawę niezwłocznie, nie później jednak niż w terminie miesiąca od dnia wpływu skargi do sądu.
+1. Sąd rozpoznaje sprawę niezwłocznie, niepóźniej jednak niż w terminie miesiąca od dnia wpływu skargi do sądu.
 
 2. Do rozpoznania skargi stosuje się odpowiednio przepisy art. 545 ust. 2 i 3.
 
@@ -6289,7 +6289,7 @@ source: pdf
 
 3. Jeżeli odwołanie zostaje odrzucone albo zachodzi podstawa do umorzenia postępowania, sąd uchyla wyrok lub zmienia postanowienie oraz odrzuca odwołanie albo umarza postępowanie.
 
-**Art. 588a.** W przypadku stwierdzenia w prawomocnie zakończonym postępowaniu skargowym, że domniemanie niepodlegania wykluczeniu lub zdolności do należytego wykonania zamówienia, wynikające z certyfikatu, o którym mowa w art. 124 ust. 2, zostało obalone co do całości albo części obejmującej określony zakres certyfikacji wykonawców zamówień publicznych, sąd rozpatrujący skargę na orzeczenie Izby przesyła niezwłocznie, w terminie nie dłuższym niż 3 dni robocze licząc od dnia wydania prawomocnego orzeczenia w tym postępowaniu, podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, informację w tym zakresie.
+**Art. 588a.** W przypadku stwierdzenia w prawomocnie zakończonym postępowaniu skargowym, że domniemanie niepodlegania wykluczeniu lub zdolności do należytego wykonania zamówienia, wynikające z certyfikatu, o którym mowa w art. 124 ust. 2, zostało obalone co do całości albo części obejmującej określony zakres certyfikacji wykonawców zamówień publicznych, sąd rozpatrujący skargę na orzeczenie Izby przesyła niezwłocznie, w terminie niedłuższym niż 3 dni robocze licząc od dnia wydania prawomocnego orzeczenia w tym postępowaniu, podmiotowi certyfikującemu, o którym mowa w art. 14 ust. 1 lub 2 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych, informację w tym zakresie.
 
 **Art. 589.**
 
@@ -6330,7 +6330,7 @@ source: pdf
 
 **Art. 594.**
 
-1. Sąd Polubowny przy Prokuratorii Generalnej Rzeczypospolitej Polskiej prowadzi mediację lub inne polubowne rozwiązanie sporu na podstawie przepisów ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1192).
+1. Sąd Polubowny przy Prokuratorii Generalnej Rzeczypospolitej Polskiej prowadzi mediację lub inne polubowne rozwiązanie sporu na podstawie przepisów ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1192, z 2025 r. poz. 1172 oraz z 2026 r. poz. 370).
 
 2. W sprawach nieuregulowanych w niniejszym dziale do mediacji lub innego polubownego rozwiązania sporu stosuje się odpowiednio przepisy części pierwszej księgi pierwszej tytułu VI działu II rozdziału 1 oddziału 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
 
@@ -6364,7 +6364,7 @@ source: pdf
 - **1)** zwraca się z wnioskiem o udostępnienie informacji o jej wyniku, w tym dokumentu kończącego kontrolę, do organu, który tę kontrolę przeprowadził, chyba że uzyskał tę informację w inny sposób;
 - **2)** uwzględnia wyniki przeprowadzonej wcześniej kontroli innego organu kontroli.
 
-3. Organ kontroli udostępnia informację, o której mowa w ust. 2, niezwłocznie, nie później jednak niż w terminie 30 dni od dnia otrzymania wniosku o jej udostępnienie.
+3. Organ kontroli udostępnia informację, o której mowa w ust. 2, niezwłocznie, niepóźniej jednak niż w terminie 30 dni od dnia otrzymania wniosku o jej udostępnienie.
 
 4. Zamawiający niezwłocznie po wszczęciu kontroli informuje organ kontroli o przeprowadzonej wcześniej kontroli danego zamówienia przez inny organ kontroli i udostępnia jej wyniki.
 
@@ -6463,13 +6463,11 @@ source: pdf
 
 3. (uchylony)
 
-4. Wszczęcie kontroli doraźnej może nastąpić nie później niż w terminie 4 lat od dnia udzielenia zamówienia lub unieważnienia postępowania o udzielenie zamówienia. W przypadku wszczęcia tej kontroli przed zawarciem umowy mają zastosowanie przepisy art. 613 ust. 4, art. 615 ust. 2 oraz art. 616 ust. 1, 3 i 5.
+4. Wszczęcie kontroli doraźnej może nastąpić niepóźniej niż w terminie 4 lat od dnia udzielenia zamówienia lub unieważnienia postępowania o udzielenie zamówienia. W przypadku wszczęcia tej kontroli przed zawarciem umowy mają zastosowanie przepisy art. 613 ust. 4, art. 615 ust. 2 oraz art. 616 ust. 1, 3 i 5.
 
 5. Prezes Urzędu informuje zamawiającego, a w przypadku kontroli wszczynanej na wniosek, wnioskodawcę oraz zamawiającego, o wszczęciu kontroli doraźnej.
 
-6. Prezes Urzędu wszczyna kontrolę doraźną na wniosek instytucji zarządzającej, o której mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2022 r. poz. 260), ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324 i 862), ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818), ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2023 r. poz.
-
-- **1105)** , ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014– 2020 (Dz. U. z 2023 r. poz. 2298) lub w ustawie z dnia 12 marca 2004 r. o pomocy społecznej, zwanej dalej „instytucją zarządzającą”, lub na wniosek agencji płatniczej, o której mowa w ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, jeżeli z uzasadnienia wniosku instytucji zarządzającej lub agencji płatniczej wynika, że zachodzi uzasadnione przypuszczenie, że w postępowaniu o udzielenie zamówienia doszło do naruszenia przepisów ustawy.
+6. Prezes Urzędu wszczyna kontrolę doraźną na wniosek instytucji zarządzającej, o której mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2022 r. poz. 260), ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198 i 1846), ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818), ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. z 2023 r. poz. 1105), ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014– 2020 (Dz. U. z 2023 r. poz. 2298 oraz z 2026 r. poz. 680) lub w ustawie z dnia 12 marca 2004 r. o pomocy społecznej, zwanej dalej „instytucją zarządzającą”, lub na wniosek agencji płatniczej, o której mowa w ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020, jeżeli z uzasadnienia wniosku instytucji zarządzającej lub agencji płatniczej wynika, że zachodzi uzasadnione przypuszczenie, że w postępowaniu o udzielenie zamówienia doszło do naruszenia przepisów ustawy.
 
 **Art. 608.**
 
@@ -6477,7 +6475,7 @@ source: pdf
 
 2. W przypadku niepotwierdzenia uzasadnionego przypuszczenia, o którym mowa w ust. 1, postępowanie wyjaśniające kończy się informacją o braku podstaw do dalszego prowadzenia kontroli. Do postępowania wyjaśniającego przepisów art. 606, art. 609 ust. 1 pkt 2 oraz art. 610 nie stosuje się.
 
-3. Postępowanie wyjaśniające musi zostać zakończone bez zbędnej zwłoki, nie później jednak niż w terminie 6 miesięcy od dnia wszczęcia kontroli doraźnej.
+3. Postępowanie wyjaśniające musi zostać zakończone bez zbędnej zwłoki, niepóźniej jednak niż w terminie 6 miesięcy od dnia wszczęcia kontroli doraźnej.
 
 **Art. 609.**
 
@@ -6554,7 +6552,7 @@ source: pdf
 
 2. W przypadku wniesienia zastrzeżeń, o których mowa w art. 617, zakończeniem kontroli uprzedniej jest doręczenie zamawiającemu informacji o ostatecznym rozpatrzeniu zastrzeżeń.
 
-3. Doręczenie informacji o wyniku kontroli uprzedniej następuje nie później niż w terminie 14 dni od dnia doręczenia materiałów, o których mowa w art. 605 ust. 1, a w przypadku kontroli uprzedniej szczególnie skomplikowanej nie później niż w terminie 30 dni od dnia doręczenia materiałów, o których mowa w art. 605 ust. 1.
+3. Doręczenie informacji o wyniku kontroli uprzedniej następuje niepóźniej niż w terminie 14 dni od dnia doręczenia materiałów, o których mowa w art. 605 ust. 1, a w przypadku kontroli uprzedniej szczególnie skomplikowanej niepóźniej niż w terminie 30 dni od dnia doręczenia materiałów, o których mowa w art. 605 ust. 1.
 
 4. Do czasu doręczenia informacji, o której mowa w ust. 1, nie można zawrzeć umowy.
 

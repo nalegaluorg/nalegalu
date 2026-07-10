@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2021-06-15 |
 | Data wydania | 2021-06-18 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1092/text.pdf) |
 
 w sprawie szczegółowych warunków realizacji rządowego programu „Dobry start” Na podstawie art. 187a ust. 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2020 r. poz. 821 oraz z 2021 r. poz. 159 i 1006) zarządza się, co następuje:

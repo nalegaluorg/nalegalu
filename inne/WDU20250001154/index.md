@@ -203,13 +203,7 @@ o opłacie skarbowej
 
 **Art. 20.** Traci moc ustawa z dnia 9 września 2000 r. o opłacie skarbowej (Dz. U. z 2004 r. poz. 2532, z późn. zm. ).
 
-**Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r. Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. poz. 115, 447, 550, 757, 788, 954, 1199, 1272, 1418, 1458 i 1485 oraz z 2006 r. poz. 360 i 1043. Załącznik do ustawy z dnia 16 listopada 2006 r. (Dz. U. z 2025 r. poz.
-
-- **1154)** WYKAZ PRZEDMIOTÓW OPŁATY SKARBOWEJ, STAWKI TEJ OPŁATY ORAZ ZWOLNIENIA Część Przedmiot opłaty skarbowej Stawka Zwolnienia 1 2 3 4 I. Dokonanie czynności urzędowej
-
-1. Sporządzenie aktu małżeństwa 84 zł
-
-2. Inne czynności kierownika urzędu stanu 11 zł 1) sporządzenie aktu urodzenia cywilnego lub zgonu
+**Art. 21.** Ustawa wchodzi w życie z dniem 1 stycznia 2007 r. Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. poz. 115, 447, 550, 757, 788, 954, 1199, 1272, 1418, 1458 i 1485 oraz z 2006 r. poz. 360 i 1043. Załącznik do ustawy z dnia 16 listopada 2006 r. (Dz. U. z 2025 r. poz. 1154) WYKAZ PRZEDMIOTÓW OPŁATY SKARBOWEJ, STAWKI TEJ OPŁATY ORAZ ZWOLNIENIA Część Przedmiot opłaty skarbowej Stawka Zwolnienia 1 2 3 4 I. Dokonanie czynności urzędowej 1. Sporządzenie aktu małżeństwa 84 zł 2. Inne czynności kierownika urzędu stanu 11 zł 1) sporządzenie aktu urodzenia cywilnego lub zgonu
 
 - **2)** przyjęcie oświadczenia o uznaniu ojcostwa lub oświadczeń małżonków, że dziecko będzie nosiło takie samo nazwisko, jakie nosi albo nosiłoby ich wspólne dziecko
 

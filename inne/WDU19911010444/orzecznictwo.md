@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 28 września 1991 r. o lasach.*
 
 Łącznie: **132** orzeczeń
-(pominięto 192 orzeczeń sądów rejonowych)
+(pominięto 193 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 

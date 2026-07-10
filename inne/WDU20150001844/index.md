@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-11-10 |
-| Ostatnia zmiana | 2026-06-03 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001844) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1844/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

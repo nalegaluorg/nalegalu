@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-28 |
 | Data wydania | 2023-06-30 |
-| Ostatnia zmiana | 2025-12-19 |
+| Ostatnia zmiana | 2026-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001247) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1247/text.pdf) |
 
 w sprawie obywatelstw, których posiadanie uprawnia do ubiegania się o wydanie polskiego dokumentu podróży dla cudzoziemca w warunkach określonych w art. 252a ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach Na podstawie art. 252a ust. 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547) zarządza się, co następuje:

@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne.*
 
 Łącznie: **912** orzeczeń
-(pominięto 3155 orzeczeń sądów rejonowych)
+(pominięto 3156 orzeczeń sądów rejonowych)
 
 ## art. 1 (35)
 

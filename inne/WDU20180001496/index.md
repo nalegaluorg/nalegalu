@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-05 |
 | Data wydania | 2018-08-07 |
-| Ostatnia zmiana | 2025-12-19 |
+| Ostatnia zmiana | 2026-06-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001496) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1496/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -57,8 +57,7 @@ source: pdf
 
 - **1)** ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796), w zakresie inwestycji dotyczących infrastruktury portowej oraz infrastruktury zapewniającej dostęp do portów lub przystani morskich,
 - **2)** ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311),
-- **3)** ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2025 r. poz.
-- **1234)** ,
+- **3)** ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2025 r. poz. 1234),
 - **4)** ustawie z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464),
 - **5)** ustawie z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2025 r. poz. 1222),
 - **6)** ustawie z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych (Dz. U. z 2025 r. poz. 311 i 1019),
@@ -153,8 +152,7 @@ source: pdf
 12. Wójt (burmistrz, prezydent miasta) nie później niż w terminie 3 dni od dnia zamieszczenia wniosku, o którym mowa w ust. 1, na stronie podmiotowej Biuletynu Informacji Publicznej gminy, a jeżeli gmina nie ma strony podmiotowej Biuletynu Informacji Publicznej na stronie internetowej gminy, powiadamia o możliwości przedstawiania opinii:
 
 - **1)** gminną lub inną właściwą, w rozumieniu art. 8 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, komisję urbanistyczno-architektoniczną;
-- **2)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji zlokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz.
-- **1135)** ;
+- **2)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji zlokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz. 1135);
 - **3)** dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych;
 - **4)** organ właściwy w sprawach ochrony gruntów rolnych – w odniesieniu do gruntów rolnych w rozumieniu przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82);
 - **5)** właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie – w odniesieniu do nieruchomości, na których znajdują się urządzenia melioracji wodnych;

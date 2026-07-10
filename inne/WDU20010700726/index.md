@@ -128,6 +128,5 @@ source: pdf
 
 ## Załączniki do ustawy z dnia 7 czerwca 2001 r.
 
-(Dz. U. z 2024 r. poz.
-1187) Załącznik nr 1 Załącznik nr 2
+(Dz. U. z 2024 r. poz. 1187) Załącznik nr 1 Załącznik nr 2
 

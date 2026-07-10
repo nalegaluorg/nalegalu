@@ -341,8 +341,7 @@ f) odpadnięcie części o niskiej energii kinetycznej.
 a) uszkodzenie lub wada przekładni głównej albo zamocowania wirnika, która mogła prowadzić do rozdzielenia się zespołu w locie lub nieprawidłowe działanie sterowania wirnikiem,
 b) uszkodzenie śmigła/wirnika ogonowego, układu napędowego i systemu wyważenia.
 21) Pomocnicze jednostki zasilające (APU):
-a) wyłączenie się lub uszkodzenie APU, gdy jest ono niezbędne do spełnienia wymagań eksploatacyjnych, np.
-ETOPS (loty o wydłużonym zasięgu samolotów dwusilnikowych), MEL (wykaz minimalnego wyposażenia),
+a) wyłączenie się lub uszkodzenie APU, gdy jest ono niezbędne do spełnienia wymagań eksploatacyjnych, np. ETOPS (loty o wydłużonym zasięgu samolotów dwusilnikowych), MEL (wykaz minimalnego wyposażenia),
 b) niemożność wyłączenia APU,
 c) nadmierne obroty,
 d) niemożność uruchomienia APU, gdy jest potrzebne z przyczyn eksploatacyjnych.

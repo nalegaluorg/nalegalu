@@ -1553,8 +1553,7 @@ source: pdf
 
 ## Załączniki do ustawy z dnia 19 sierpnia 2011 r.
 
-(Dz. U. z 2024 r. poz.
-643) Załącznik do ustawy z dnia 19 sierpnia 2011 r.
+(Dz. U. z 2024 r. poz. 643) Załącznik do ustawy z dnia 19 sierpnia 2011 r.
 
 ## Załącznik nr 1 — Załącznik nr 2
 

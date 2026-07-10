@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 23 maja 1991 r. o związkach zawodowych.*
 
 Łącznie: **435** orzeczeń
-(pominięto 377 orzeczeń sądów rejonowych)
+(pominięto 378 orzeczeń sądów rejonowych)
 
 ## art. 1 (21)
 

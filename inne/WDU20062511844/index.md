@@ -227,8 +227,7 @@ source: pdf
 - **2)** przedsięwzięcia, o którym mowa w art. 3 lub art. 6, realizowanego przez gminę albo jednoosobową spółkę gminną, lub przedsięwzięcia, o którym mowa w art. 4, realizowanego przez gminę, jednoosobową spółkę gminną albo związek międzygminny;
 - **3)** przedsięwzięcia, w którego kosztach gmina partycypuje w sposób określony zgodnie z art. 5 ust. 3 pkt 1 lub art. 5a ust. 1;
 - **4)** inwestycji mieszkaniowej w rozumieniu art. 2 pkt 6 ustawy z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania (Dz. U. z 2024 r. poz. 506);
-- **5)** inwestycji w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt” (Dz. U. z 2023 r. poz.
-- **1525)** ;
+- **5)** inwestycji w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt” (Dz. U. z 2023 r. poz. 1525);
 - **6)** inwestycji mieszkaniowej w rozumieniu art. 2 ust. 1 ustawy z dnia 4 listopada 2022 r. o kooperatywach mieszkaniowych oraz zasadach zbywania nieruchomości należących do gminnego zasobu nieruchomości w celu wsparcia realizacji inwestycji mieszkaniowych (Dz. U. z 2025 r. poz. 9) z wykorzystaniem nieruchomości, której dotyczy zgoda na udzielenie bonifikaty wyrażona na podstawie art. 12 ust. 3 pkt 4 tej ustawy.
 
 1a. Finansowego wsparcia na pokrycie części kosztów przedsięwzięcia infrastrukturalnego udziela się również powiatowi, jeżeli realizacja tego przedsięwzięcia jest powiązana z realizacją:

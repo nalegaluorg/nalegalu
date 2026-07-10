@@ -158,8 +158,7 @@ testu opis testu Uwaga: Do wykonania testu testową. Podczas wykonywania zawsze 
 1.1. Dla obrazu fantomu z PMMA o grubości 4,5 cm otrzymanego przy użyciu klinicznie stosowanych parametrów ekspozycji odchylenie obciążenia prądowoczasowego od wartości odniesienia mieści się w zakresie
 1.2. Dla obrazu fantomu z PMMA o grubości 4,5 cm otrzymanego przy
 1. Stałość ekspozycji użyciu klinicznie stosowanych parametrów ekspozycji odchylenie SNR wyznaczonego w ROI (o powierzchni około 1 cm ), którego środek znajduje się 60 mm od ściany klatki piersiowej, centralnie w stosunku do bocznych krawędzi detektora, od wartości odniesienia mieści się w zakresie Uwaga: Dla oceny testu jednorodności
-2. Jednorodność obrazu w systemach CR należy zminimalizować niejednorodności wiązki promieniowania wzdłuż osi katoda – anoda, np.
-metody przedstawionej w European Assurance in Breast Cancer Screening Edition, EUREF W systemach DR: dla obrazu fantomu z PMMA o grubości 4,5 cm otrzymanego przy użyciu klinicznie stosowanych parametrów ekspozycji odchylenie średniej wartości pikseli, zmierzonej w czterech ROI (każdy o powierzchni około 1 cm ), znajdujących się w rogach obrazu, od średniej wartości pikseli zmierzonej w ROI (o powierzchni około 1 cm ) znajdującym się w środku obrazu mieści się w zakresie W systemach CR: dla obrazu fantomu z PMMA o grubości 4,5 cm otrzymanego przy użyciu klinicznie stosowanych parametrów ekspozycji odchylenie średniej wartości pikseli, zmierzonej w czterech ROI (o powierzchni około 1 cm ), znajdujących się w rogach obrazu, od średniej wartości pikseli zmierzonej w ROI (o powierzchni około 1 cm ) znajdującym się w środku obrazu mieści się w zakresie
+2. Jednorodność obrazu w systemach CR należy zminimalizować niejednorodności wiązki promieniowania wzdłuż osi katoda – anoda, np. metody przedstawionej w European Assurance in Breast Cancer Screening Edition, EUREF W systemach DR: dla obrazu fantomu z PMMA o grubości 4,5 cm otrzymanego przy użyciu klinicznie stosowanych parametrów ekspozycji odchylenie średniej wartości pikseli, zmierzonej w czterech ROI (każdy o powierzchni około 1 cm ), znajdujących się w rogach obrazu, od średniej wartości pikseli zmierzonej w ROI (o powierzchni około 1 cm ) znajdującym się w środku obrazu mieści się w zakresie W systemach CR: dla obrazu fantomu z PMMA o grubości 4,5 cm otrzymanego przy użyciu klinicznie stosowanych parametrów ekspozycji odchylenie średniej wartości pikseli, zmierzonej w czterech ROI (o powierzchni około 1 cm ), znajdujących się w rogach obrazu, od średniej wartości pikseli zmierzonej w ROI (o powierzchni około 1 cm ) znajdującym się w środku obrazu mieści się w zakresie
 3. Kompensacja zmian 3.1. Dla obrazów grubości fantomu fantomów z PMMA i wartości wysokiego o grubości co najmniej napięcia 2,0 cm, 4,5 cm i 6,5– 7,0 cm otrzymanych przy użyciu klinicznie stosowanych parametrów ekspozycji odchylenie SNR wyznaczonego w ROI (o powierzchni około 1cm ), którego środek znajduje się 60 mm od strony klatki piersiowej dla danej grubości fantomu, od wartości odniesienia wyznaczonej dla danej grubości fantomu mieści się w zakresie
 3.2. Na obrazach fantomów z PMMA otrzymanych w teście z punktu 3.1 nie są widoczne artefakty
 4.1. Zmierzona wartość 130–200 siły kompresji zawiera się (odpowiada w przedziale
@@ -358,8 +357,7 @@ II.1. TESTY PODSTAWOWE MIERNIKI AKTYWNOŚCI BEZWZGLĘDNEJ Zakres Lp. Nazwa testu
 zliczeń należy przeprowadzić warunki dla danego radionuklidu wszystkich radionuklidów, dnia. Warunki i geometria
 2. Stałość wskazań ustalonymi podczas wyznaczania Odchylenie wyniku od wartości referencyjnej (po uwzględnieniu rozpadu radionuklidu) mieści się w zakresie Uwaga: Test należy wykonać referencyjnego źródła promieniotwórczego Precyzja Powtarzalność wyników
 3.
-zliczeń pomiaru obliczona dla co najmniej 30 pomiarów wynosi maksymalnie Uwaga: Test należy wykonać stosowanego klinicznie, (np.
-stosowanych aktywności.
+zliczeń pomiaru obliczona dla co najmniej 30 pomiarów wynosi maksymalnie Uwaga: Test należy wykonać stosowanego klinicznie, (np. stosowanych aktywności.
 dobrać tak, aby w sposób zakres stosowanych aktywności.
 Liniowość
 4. aktywności należy ustalić wskazań promieniotwórczego Odchylenie zmierzonej wartości aktywności od oczekiwanej wartości aktywności dla każdego punktu pomiarowego mieści się w zakresie ZESTAW DO POMIARU JODOCHWYTNOŚCI Zakres Lp. Nazwa testu opis testu Sprawdzanie poprawności ustawienia okna energetycznego na fotoszczycie.
@@ -1391,8 +1389,7 @@ Metoda wykonania testów, częstotliwość oraz kryteria są zgodne MIERNIKI AKT
 2. Stałość wskazań podczas wyznaczania wartości referencyjnej.
 Odchylenie wyniku od wartości referencyjnej (po uwzględnieniu rozpadu radionuklidu) wynosi maksymalnie Uwaga: Test należy wykonać przy źródła promieniotwórczego Precyzja Powtarzalność wyników
 3.
-zliczeń pomiaru obliczona dla co najmniej 30 pomiarów wynosi maksymalnie Uwaga: Test należy wykonać stosowanego klinicznie, (np.
-stosowanych aktywności. Punkty aby w sposób równomierny pokrywały aktywności. Oczekiwane wartości Liniowość podstawie prawa rozpadu promieniotwórczego
+zliczeń pomiaru obliczona dla co najmniej 30 pomiarów wynosi maksymalnie Uwaga: Test należy wykonać stosowanego klinicznie, (np. stosowanych aktywności. Punkty aby w sposób równomierny pokrywały aktywności. Oczekiwane wartości Liniowość podstawie prawa rozpadu promieniotwórczego
 4.
 wskazań Odchylenie zmierzonej wartości aktywności od oczekiwanej wartości aktywności dla każdego punktu pomiarowego wynosi maksymalnie ZESTAW DO POMIARU JODOCHWYTNOŚCI Zakres Lp. Nazwa testu opis testu kryterium
 1. Kalibracja Sprawdzanie poprawności energetyczna ustawienia okna energetycznego na fotoszczycie. W przypadku gdy okno energetyczne nie jest wycentrowane względem fotoszczytu, należy dokonać korekcji.

@@ -72,8 +72,7 @@ Jeśli podczas śledztwa lub dochodzenia zażądasz udziału czynnościach, prok
 w szczególnie uzasadnionym przypadku ze względu na postępowania. Jeżeli jesteś pozbawiony/pozbawiona wolności, może odmówić Ci udziału w czynności, gdy sprowadzenie poważne trudności (art. 317).
 Jeżeli czynność postępowania nie będzie mogła być powtórzona Ty i Twój obrońca możecie wziąć w niej udział, chyba że przeprowadzeniu spowoduje utratę lub zniekształcenie Jeśli istnieje obawa, że jakiegoś świadka nie będzie można w trakcie rozprawy, możesz zawnioskować o jego przesłuchanie zwrócić się do prokuratora o spowodowanie przesłuchania trybie (art. 316 8 3).
 Jeśli w postępowaniu dopuszczono dowód z opinii biegłego, możecie zapoznać się z pisemną opinią biegłego oraz wziąć przesłuchaniu (art. 318).
-6. Masz prawo dostępu do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
-śledztwo lub dochodzenie może odmówić Ci dostępu do ważny interes państwa lub dobro postępowania. Akta w postaci elektronicznej.
+6. Masz prawo dostępu do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np. śledztwo lub dochodzenie może odmówić Ci dostępu do ważny interes państwa lub dobro postępowania. Akta w postaci elektronicznej.
 Jeżeli przed skierowaniem sprawy do sądu prokurator wniosek o tymczasowe aresztowanie lub przedłużenie tymczasowego aresztowania — Tobie i Twojemu obrońcy sprawy w tej części, która zawiera dowody dołączone uzasadniona obawa niebezpieczeństwa dla życia, zdrowia świadka lub osoby dla niego najbliższej, zeznania takiego udostępnione (art. 15685i85a).
 Po skierowaniu sprawy do sądu Ty i Twój obrońca uzyskacie akt sprawy i będziecie mogli otrzymać kopie i odpisy żądanych lub samodzielnie je sporządzić (np. fotokopie). Jeżeli jest technicznie, informacje o aktach sprawy mogą być udostępnione pomocą systemu teleinformatycznego (art. 156 8 1).
 7. Masz prawo do końcowego zaznajomienia z materiałami Przed zamknięciem postępowania przygotowawczego o końcowe zaznajomienie z materiałami postępowania.
@@ -215,8 +214,7 @@ W postępowaniu przygotowawczym prowadzący postępowanie odmówić Tobie i Twoj
 Jeśli podczas śledztwa lub dochodzenia zażądasz udziału czynnościach, prokurator może Ci odmówić udziału w się to stać w szczególnie uzasadnionym przypadku ze względu postępowania. Jeżeli jesteś pozbawiony/pozbawiona wolności, może odmówić Ci udziału w czynności, gdy sprowadzenie poważne trudności (art. 317).
 Jeżeli czynność postępowania nie będzie mogła być powtórzona Ty i Twój obrońca możecie wziąć w niej udział, chyba że przeprowadzeniu spowoduje utratę lub zniekształcenie Jeśli istnieje obawa, że jakiegoś świadka nie będzie można w trakcie rozprawy, możesz zawnioskować o jego przesłuchanie zwrócić się do prokuratora o spowodowanie przesłuchania trybie (art. 316 8 3).
 Jeśli w postępowaniu dopuszczono dowód z opinii biegłego, możecie wziąć udział w jego przesłuchaniu oraz zapoznać opinią (art. 318).
-6. Masz prawo dostępu do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
-śledztwo lub dochodzenie może odmówić Ci dostępu ważny interes państwa lub dobro postępowania. Akta w postaci elektronicznej.
+6. Masz prawo dostępu do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np. śledztwo lub dochodzenie może odmówić Ci dostępu ważny interes państwa lub dobro postępowania. Akta w postaci elektronicznej.
 Jeżeli przed skierowaniem sprawy do sądu prokurator wniosek o tymczasowe aresztowanie lub przedłużenie tymczasowego aresztowania — Tobie i Twojemu obrońcy Sprawy w tej części, która zawiera dowody dołączone uzasadniona obawa niebezpieczeństwa dla życia, zdrowia świadka lub osoby dla niego najbliższej, zeznania takiego udostępnione (art. 156$5i85a).
 Po skierowaniu sprawy do sądu Ty i Twój obrońca uzyskacie akt sprawy i będziecie mogli otrzymać kopie i odpisy żądanych lub samodzielnie je sporządzić (np. fotokopie). Jeżeli jest technicznie, informacje o aktach sprawy mogą być udostępnione pomocą systemu teleinformatycznego (art. 156 8 1).
 7. Masz prawo do końcowego zaznajomienia z materiałami Przed zamknięciem postępowania możesz wnioskować zaznajomienie z materiałami postępowania. W tej czynności Twój obrońca (art. 3218 1i3).
@@ -356,8 +354,7 @@ Czynność nie zostanie przeprowadzona:
 zamieszczone w odrębnym załączniku. Może się z nim prowadzący postępowanie.
 Sąd lub organ prowadzący postępowanie przygotowawcze dane tylko wyjątkowo (art. 148a i art. 156a).
 Pytania zadawane Ci w trakcie przesłuchania nie mogą Twojego miejsca zamieszkania, miejsca pracy. Jest to dozwolone gdy ma znaczenie dla rozstrzygnięcia sprawy (art. 191
-6. Dostęp do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
-Prowadzący śledztwo lub dochodzenie może odmówić względu na ważny interes państwa lub dobro postępowania.
+6. Dostęp do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np. Prowadzący śledztwo lub dochodzenie może odmówić względu na ważny interes państwa lub dobro postępowania.
 udostępnione w postaci elektronicznej.
 Jeżeli prokurator odmówi Ci dostępu do akt, musi Cię o możliwości udostępnienia Ci akt w późniejszym terminie.
 jednak tylko wtedy, gdy złożysz wniosek, by to zrobił.
@@ -460,8 +457,7 @@ Czynność nie zostanie przeprowadzona:
 zamieszczone w odrębnym załączniku. Może się z nim prowadzący postępowanie.
 Sąd lub organ prowadzący postępowanie przygotowawcze dane tylko wyjątkowo (art. 148a i art. 156a).
 Pytania zadawane Ci w trakcie przesłuchania nie mogą Twojego miejsca zamieszkania, miejsca pracy. Jest to dozwolone gdy ma znaczenie dla rozstrzygnięcia sprawy (art. 191
-6. Dostęp do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np.
-Prowadzący śledztwo lub dochodzenie może odmówić względu na ważny interes państwa lub dobro postępowania.
+6. Dostęp do akt sprawy W każdym momencie śledztwa lub dochodzenia — również możesz żądać dostępu do akt sprawy. Możesz też zażądać odpisów i kopii z akt lub samodzielnie je sporządzić (np. Prowadzący śledztwo lub dochodzenie może odmówić względu na ważny interes państwa lub dobro postępowania.
 udostępnione w postaci elektronicznej.
 Jeżeli prokurator odmówi Ci dostępu do akt, musi Cię o możliwości udostępnienia Ci akt w późniejszym terminie.
 jednak tylko wtedy, gdy złożysz wniosek, by to zrobił.

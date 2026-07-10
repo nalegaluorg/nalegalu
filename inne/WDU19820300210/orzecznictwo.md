@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 16 września 1982 r. Prawo spółdzielcze.*
 
-Łącznie: **3454** orzeczeń w **918** artykułach
-(pominięto 2854 orzeczeń sądów rejonowych)
+Łącznie: **3462** orzeczeń w **918** artykułach
+(pominięto 2858 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -24,8 +24,8 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 3 § 2 | 2 | 1 | 0 | 1 | 1 | 0 | [art-3-par-2.csv](orzecznictwo/art-3-par-2.csv) |
 | art. 4 | 25 | 0 | 6 | 19 | 0 | 0 | [art-4.csv](orzecznictwo/art-4.csv) |
 | art. 4 § 1 | 4 | 0 | 0 | 4 | 0 | 0 | [art-4-par-1.csv](orzecznictwo/art-4-par-1.csv) |
-| art. 5 | 169 | 0 | 58 | 111 | 0 | 0 | [art-5.csv](orzecznictwo/art-5.csv) |
-| art. 5 § 1 | 146 | 0 | 44 | 102 | 0 | 0 | [art-5-par-1.csv](orzecznictwo/art-5-par-1.csv) |
+| art. 5 | 170 | 0 | 58 | 112 | 0 | 0 | [art-5.csv](orzecznictwo/art-5.csv) |
+| art. 5 § 1 | 147 | 0 | 44 | 103 | 0 | 0 | [art-5-par-1.csv](orzecznictwo/art-5-par-1.csv) |
 | art. 5 § 2 | 10 | 0 | 7 | 3 | 0 | 0 | [art-5-par-2.csv](orzecznictwo/art-5-par-2.csv) |
 | art. 5 § 4 | 1 | 0 | 0 | 1 | 0 | 0 | [art-5-par-4.csv](orzecznictwo/art-5-par-4.csv) |
 | art. 6 | 15 | 0 | 11 | 4 | 0 | 0 | [art-6.csv](orzecznictwo/art-6.csv) |
@@ -360,8 +360,8 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 90 | 15 | 0 | 11 | 4 | 0 | 0 | [art-90.csv](orzecznictwo/art-90.csv) |
 | art. 90 § 1 | 8 | 0 | 6 | 2 | 0 | 0 | [art-90-par-1.csv](orzecznictwo/art-90-par-1.csv) |
 | art. 90 § 2 | 2 | 0 | 2 | 0 | 0 | 0 | [art-90-par-2.csv](orzecznictwo/art-90-par-2.csv) |
-| art. 91 | 13 | 0 | 8 | 5 | 0 | 0 | [art-91.csv](orzecznictwo/art-91.csv) |
-| art. 91 § 1 | 6 | 0 | 4 | 2 | 0 | 0 | [art-91-par-1.csv](orzecznictwo/art-91-par-1.csv) |
+| art. 91 | 14 | 0 | 8 | 6 | 0 | 0 | [art-91.csv](orzecznictwo/art-91.csv) |
+| art. 91 § 1 | 7 | 0 | 4 | 3 | 0 | 0 | [art-91-par-1.csv](orzecznictwo/art-91-par-1.csv) |
 | art. 91 § 2 | 3 | 0 | 3 | 0 | 0 | 0 | [art-91-par-2.csv](orzecznictwo/art-91-par-2.csv) |
 | art. 92 | 10 | 0 | 1 | 9 | 0 | 0 | [art-92.csv](orzecznictwo/art-92.csv) |
 | art. 92 § 1 | 3 | 0 | 0 | 3 | 0 | 0 | [art-92-par-1.csv](orzecznictwo/art-92-par-1.csv) |
@@ -710,7 +710,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 264 | 1 | 0 | 0 | 1 | 0 | 0 | [art-264.csv](orzecznictwo/art-264.csv) |
 | art. 266 | 1 | 0 | 0 | 1 | 0 | 0 | [art-266.csv](orzecznictwo/art-266.csv) |
 | art. 266 § 1 | 1 | 0 | 0 | 1 | 0 | 0 | [art-266-par-1.csv](orzecznictwo/art-266-par-1.csv) |
-| art. 267 | 14 | 0 | 7 | 7 | 0 | 0 | [art-267.csv](orzecznictwo/art-267.csv) |
+| art. 267 | 15 | 0 | 7 | 8 | 0 | 0 | [art-267.csv](orzecznictwo/art-267.csv) |
 | art. 269 | 4 | 0 | 0 | 4 | 0 | 0 | [art-269.csv](orzecznictwo/art-269.csv) |
 | art. 276 | 2 | 0 | 2 | 0 | 0 | 0 | [art-276.csv](orzecznictwo/art-276.csv) |
 | art. 278 | 2 | 0 | 1 | 1 | 0 | 0 | [art-278.csv](orzecznictwo/art-278.csv) |
@@ -929,7 +929,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | § 108 | 1 | 0 | 1 | 0 | 0 | 0 | [par-108.csv](orzecznictwo/par-108.csv) |
 | § 148 | 1 | 0 | 0 | 1 | 0 | 0 | [par-148.csv](orzecznictwo/par-148.csv) |
 | § 188 | 1 | 0 | 1 | 0 | 0 | 0 | [par-188.csv](orzecznictwo/par-188.csv) |
-| (ogólnie) | 1267 | 0 | 669 | 598 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
+| (ogólnie) | 1273 | 0 | 675 | 598 | 0 | 0 | [ogolnie.csv](orzecznictwo/ogolnie.csv) |
 
 ## Najważniejsze orzeczenia
 

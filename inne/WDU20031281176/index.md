@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2003-06-13 |
 | Data wydania | 2003-07-21 |
-| Ostatnia zmiana | 2026-05-20 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031281176) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1176/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -33,15 +33,14 @@ source: pdf
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-- **1)** areszt dla cudzoziemców – areszt dla cudzoziemców w rozumieniu ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i
-- **1688)** ;
+- **1)** areszt dla cudzoziemców – areszt dla cudzoziemców w rozumieniu ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794 oraz z 2026 r. poz. 203);
 - **1a)** beneficjent ochrony czasowej – cudzoziemca należącego do grupy wysiedleńców wymienionej w decyzji Rady Unii Europejskiej stwierdzającej istnienie masowego napływu wysiedleńców, o której mowa w art. 106 ust. 1, cudzoziemca, o którym mowa w art. 106 ust. 2, oraz cudzoziemca należącego do grupy wysiedleńców wymienionej w przepisach wydanych na podstawie art. 107 ust. 1;
 - **2)** (uchylony)
 - **3)** (uchylony)
 - **4)** cudzoziemiec – cudzoziemca w rozumieniu ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach;
 - **4a)** dane biometryczne – wizerunek twarzy i odciski linii papilarnych pobrane w celu umieszczenia w dokumentach podróży przewidzianych w Konwencji Genewskiej w formie elektronicznej;
 - **5)** dokument podróży – dokument uznany przez właściwy organ Rzeczypospolitej Polskiej, uprawniający do przekroczenia granicy, wydany przez organ państwa obcego, organ polski lub organizację międzynarodową albo podmiot upoważniony przez organ państwa obcego lub obcą władzę o charakterze państwowym;
-- **6)** granica – granicę państwową Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2024 r. poz. 388 i 1635);
+- **6)** granica – granicę państwową Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2025 r. poz. 184 oraz z 2026 r. poz. 50);
 - **6a)** instrumentalizacja – prowadzenie przez państwo graniczące z Rzecząpospolitą Polską lub inny podmiot działań zmierzających do umożliwienia przekroczenia przez cudzoziemców wbrew przepisom prawa granicy zewnętrznej w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm. ), w szczególności z użyciem przemocy wobec funkcjonariuszy służb państwowych oraz żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej chroniących tę granicę lub w połączeniu z niszczeniem infrastruktury granicznej, mogących skutkować destabilizacją sytuacji wewnętrznej na terytorium Rzeczypospolitej Polskiej;
 - **7)** karta pobytu – dokument wydany cudzoziemcowi, który uzyskał zezwolenie na pobyt czasowy, zezwolenie na pobyt stały, zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, ochronę uzupełniającą, zgodę na pobyt ze względów humanitarnych lub status uchodźcy w Rzeczypospolitej Polskiej;
 - **7a)** kolejny wniosek o udzielenie ochrony międzynarodowej – wniosek o udzielenie ochrony międzynarodowej złożony przez cudzoziemca lub w jego imieniu po tym, jak w odniesieniu do poprzedniego wniosku o udzielenie ochrony międzynarodowej, który go dotyczył, została wydana decyzja ostateczna, w tym także o umorzeniu postępowania;
@@ -175,7 +174,7 @@ source: pdf
 - **1)** art. 45a i art. 45b ust. 2–4 – dotyczące wpisów danych cudzoziemca w Systemie Informacyjnym Schengen do celów, o których mowa w art. 3 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1860 z dnia 28 listopada 2018 r. w sprawie użytkowania Systemu Informacyjnego Schengen do celów powrotu nielegalnie przebywających obywateli państw trzecich (Dz. Urz. UE L 312 z 07.12.2018, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2018/1860”,
 - **2)** art. 46 i art. 54c – dotyczące wpisów danych cudzoziemca w Systemie Informacyjnym Schengen do celów odmowy wjazdu i pobytu na podstawie przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1861 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie odpraw granicznych, zmiany konwencji wykonawczej do układu z Schengen oraz zmiany i uchylenia rozporządzenia (WE) nr 1987/2006 (Dz. Urz. UE L 312 z 07.12.2018, str. 14, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2018/1861” – Komendant Główny Policji realizuje przy udziale funkcjonariuszy Straży Granicznej pełniących służbę w biurze SIRENE, o którym mowa w art. 35 ust. 1 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2023 r. poz. 1355 oraz z 2024 r. poz. 1688).
 
-**Art. 11c.** W celu realizacji zadań określonych w ustawie i w zakresie niezbędnym do realizacji tych zadań Szef Urzędu do Spraw Cudzoziemców, zwany dalej „Szefem Urzędu”, może pozyskiwać z systemu teleinformatycznego Straży Granicznej, przy wykorzystaniu systemu teleinformatycznego, o którym mowa w art. 449 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, informacje przetwarzane na podstawie art. 1 ust. 2 pkt 9 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ) dotyczące przekraczania przez cudzoziemców granicy Rzeczypospolitej Polskiej, jeżeli są spełnione następujące warunki:
+**Art. 11c.** W celu realizacji zadań określonych w ustawie i w zakresie niezbędnym do realizacji tych zadań Szef Urzędu do Spraw Cudzoziemców, zwany dalej „Szefem Urzędu”, może pozyskiwać z systemu teleinformatycznego Straży Granicznej, przy wykorzystaniu systemu teleinformatycznego, o którym mowa w art. 449 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, informacje przetwarzane na podstawie art. 1 ust. 2 pkt 9 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2026 r. poz. 367 i 646) dotyczące przekraczania przez cudzoziemców granicy Rzeczypospolitej Polskiej, jeżeli są spełnione następujące warunki:
 
 - **1)** system teleinformatyczny, za pośrednictwem którego są pozyskiwane te informacje, umożliwia identyfikację i rejestrację osób uzyskujących dostęp do danych Straży Granicznej oraz rejestruje zakres udostępnionych danych i datę udostępnienia danych;
 - **2)** Szef Urzędu posiada i stosuje zabezpieczenia techniczne i organizacyjne zapewniające poufność, integralność, dostępność i autentyczność danych.
@@ -412,13 +411,13 @@ source: pdf
 
 1. W przypadku gdy z przyczyn leżących po stronie organu Straży Granicznej nie jest możliwe przyjęcie wniosku o udzielenie ochrony międzynarodowej na formularzu w dniu, w którym cudzoziemiec stawił się osobiście w siedzibie tego organu i zadeklarował zamiar złożenia takiego wniosku, organ Straży Granicznej informuje cudzoziemca w języku dla niego zrozumiałym o terminie i miejscu przyjęcia wniosku o udzielenie ochrony międzynarodowej oraz sporządza protokół z tej czynności.
 
-2. W przypadku gdy cudzoziemiec będący osobą niepełnosprawną, osobą w podeszłym wieku, kobietą ciężarną, osobą samotnie wychowującą dziecko lub osobą przebywającą w pieczy zastępczej, szpitalu, areszcie śledczym lub zakładzie karnym nie może stawić się osobiście w siedzibie organu Straży Granicznej, pisemna deklaracja zamiaru złożenia wniosku o udzielenie ochrony międzynarodowej może być złożona za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717) lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513).
+2. W przypadku gdy cudzoziemiec będący osobą niepełnosprawną, osobą w podeszłym wieku, kobietą ciężarną, osobą samotnie wychowującą dziecko lub osobą przebywającą w pieczy zastępczej, szpitalu, areszcie śledczym lub zakładzie karnym nie może stawić się osobiście w siedzibie organu Straży Granicznej, pisemna deklaracja zamiaru złożenia wniosku o udzielenie ochrony międzynarodowej może być złożona za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2026 r. poz. 558) lub za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513).
 
 3. Wniosek o udzielenie ochrony międzynarodowej złożony przez cudzoziemca, o którym mowa w ust. 2, przyjmuje i rejestruje organ Straży Granicznej właściwy ze względu na miejsce pobytu cudzoziemca.
 
 4. Deklaracja zamiaru złożenia wniosku o udzielenie ochrony międzynarodowej może dotyczyć także osób, o których mowa w art. 25 ust. 1.
 
-5. W przypadkach, o których mowa w ust. 1 lub 2, przyjęcie wniosku o udzielenie ochrony międzynarodowej i jego rejestracja następują niezwłocznie, nie później jednak niż w terminie 3 dni roboczych od dnia przyjęcia deklaracji zamiaru złożenia takiego wniosku, a w razie masowego napływu cudzoziemców na terytorium Rzeczypospolitej Polskiej w celu uzyskania ochrony międzynarodowej – w terminie 10 dni roboczych.
+5. W przypadkach, o których mowa w ust. 1 lub 2, przyjęcie wniosku o udzielenie ochrony międzynarodowej i jego rejestracja następują niezwłocznie, niepóźniej jednak niż w terminie 3 dni roboczych od dnia przyjęcia deklaracji zamiaru złożenia takiego wniosku, a w razie masowego napływu cudzoziemców na terytorium Rzeczypospolitej Polskiej w celu uzyskania ochrony międzynarodowej – w terminie 10 dni roboczych.
 
 6. Organ Straży Granicznej rejestruje deklarację zamiaru złożenia wniosku o udzielenie ochrony międzynarodowej w rejestrze, o którym mowa w art. 119 ust. 1 pkt 1.
 
@@ -522,9 +521,9 @@ source: pdf
 - **2)** działania podejmowane w ramach instrumentalizacji stanowią poważne i rzeczywiste zagrożenie dla bezpieczeństwa państwa lub społeczeństwa, oraz
 - **3)** wprowadzenie tego ograniczenia jest niezbędne dla wyeliminowania zagrożenia, o którym mowa w pkt 2, a inne środki nie są wystarczające do jego wyeliminowania.
 
-2. Czasowe ograniczenie prawa do złożenia wniosku o udzielenie ochrony międzynarodowej może zostać wprowadzone na okres nie dłuższy niż 120 dni.
+2. Czasowe ograniczenie prawa do złożenia wniosku o udzielenie ochrony międzynarodowej może zostać wprowadzone na okres niedłuższy niż 120 dni.
 
-3. Jeżeli pomimo zbliżającego się upływu okresu obowiązywania czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej nie ustały przyczyny wprowadzenia tego ograniczenia, okres jego obowiązywania może zostać przedłużony, na czas oznaczony, nie dłuższy niż 60 dni, po wyrażeniu przez Sejm Rzeczypospolitej Polskiej zgody na to przedłużenie.
+3. Jeżeli pomimo zbliżającego się upływu okresu obowiązywania czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej nie ustały przyczyny wprowadzenia tego ograniczenia, okres jego obowiązywania może zostać przedłużony, na czas oznaczony, niedłuższy niż 60 dni, po wyrażeniu przez Sejm Rzeczypospolitej Polskiej zgody na to przedłużenie.
 
 4. Czasowe ograniczenie prawa do złożenia wniosku o udzielenie ochrony międzynarodowej może zostać zniesione na całym odcinku granicy, na którym jest ono stosowane, albo na części tego odcinka, przed upływem okresu obowiązywania tego ograniczenia, jeżeli ustały przyczyny jego wprowadzenia.
 
@@ -532,7 +531,7 @@ source: pdf
 
 6. Wprowadzając czasowe ograniczenie prawa do złożenia wniosku o udzielenie ochrony międzynarodowej, Rada Ministrów, w rozporządzeniu, o którym mowa w ust. 5, określa także okres obowiązywania czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej oraz odcinek granicy, na którym jest ono stosowane.
 
-7. Minister właściwy do spraw wewnętrznych informuje sejmową komisję właściwą do spraw wewnętrznych o złożeniu przez siebie wniosku, o którym mowa w ust. 5, nie później niż następnego dnia po jego złożeniu do Rady Ministrów.
+7. Minister właściwy do spraw wewnętrznych informuje sejmową komisję właściwą do spraw wewnętrznych o złożeniu przez siebie wniosku, o którym mowa w ust. 5, niepóźniej niż następnego dnia po jego złożeniu do Rady Ministrów.
 
 **Art. 33b.**
 
@@ -562,7 +561,7 @@ source: pdf
 
 **Art. 35.**
 
-1. Jeżeli sprawa dotycząca udzielenia ochrony międzynarodowej nie została załatwiona w terminie, o którym mowa w art. 34 ust. 1, i opóźnienie nie nastąpiło z winy wnioskodawcy, Szef Urzędu, na wniosek osoby, której dotyczy wniosek o udzielenie ochrony międzynarodowej, wydaje zaświadczenie, które wraz z tymczasowym zaświadczeniem tożsamości cudzoziemca uprawnia tę osobę do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na zasadach i w trybie określonych w ustawie z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621).
+1. Jeżeli sprawa dotycząca udzielenia ochrony międzynarodowej nie została załatwiona w terminie, o którym mowa w art. 34 ust. 1, i opóźnienie nie nastąpiło z winy wnioskodawcy, Szef Urzędu, na wniosek osoby, której dotyczy wniosek o udzielenie ochrony międzynarodowej, wydaje zaświadczenie, które wraz z tymczasowym zaświadczeniem tożsamości cudzoziemca uprawnia tę osobę do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na zasadach i w trybie określonych w ustawie z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621 i 1794 oraz z 2026 r. poz. 203 i 473).
 
 2. W zaświadczeniu, o którym mowa w ust. 1, potwierdza się, że sprawa dotycząca udzielenia ochrony międzynarodowej nie została zakończona w terminie 6 miesięcy i opóźnienie nie nastąpiło z winy wnioskodawcy, oraz wskazuje się imię (imiona) i nazwisko cudzoziemca uprawnionego do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na zasadach i w trybie określonych w ustawie z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.
 
@@ -757,7 +756,7 @@ source: pdf
 
 2. W przypadku, o którym mowa w ust. 1, Szef Urzędu przekazuje Komendantowi Głównemu Policji informację o wydaniu decyzji o pozbawieniu cudzoziemca statusu uchodźcy lub ochrony uzupełniającej lub o braku podstaw do pozbawienia cudzoziemca tego statusu lub tej ochrony w terminie 10 dni od dnia otrzymania wystąpienia o przeprowadzenie konsultacji, o których mowa w art. 10 lub art. 11 rozporządzenia nr 2018/1860.
 
-3. Jeżeli nie jest możliwe zachowanie terminu, o którym mowa w ust. 2, Szef Urzędu występuje przed jego upływem, za pośrednictwem Komendanta Głównego Policji, do właściwego organu innego państwa obszaru Schengen z wnioskiem o przedłużenie terminu, nie więcej jednak niż o 12 dni. Wniosek zawiera uzasadnienie. W takim przypadku Szef Urzędu przekazuje Komendantowi Głównemu Policji informację, o której mowa w ust. 2, w terminie 2 dni przed końcem terminu określonego we wniosku.
+3. Jeżeli nie jest możliwe zachowanie terminu, o którym mowa w ust. 2, Szef Urzędu występuje przed jego upływem, za pośrednictwem Komendanta Głównego Policji, do właściwego organu innego państwa obszaru Schengen z wnioskiem o przedłużenie terminu, niewięcej jednak niż o 12 dni. Wniosek zawiera uzasadnienie. W takim przypadku Szef Urzędu przekazuje Komendantowi Głównemu Policji informację, o której mowa w ust. 2, w terminie 2 dni przed końcem terminu określonego we wniosku.
 
 4. Komendant Główny Policji przekazuje właściwemu organowi innego państwa obszaru Schengen otrzymaną od Szefa Urzędu informację, o której mowa w ust. 2, w terminie 14 dni od dnia wystąpienia o przeprowadzenie konsultacji, o których mowa w art. 10 lub art. 11 rozporządzenia nr 2018/1860, a w przypadku przedłużenia tego terminu – w terminie przedłużonym.
 
@@ -831,7 +830,7 @@ source: pdf
 
 3. Pracownik urzędu obsługującego Szefa Urzędu wydaje cudzoziemcowi pismo po potwierdzeniu przez niego odbioru czytelnym podpisem zawierającym imię i nazwisko oraz wskazaniu daty odbioru.
 
-4. W przypadku gdy cudzoziemiec odmówi potwierdzenia odbioru pisma, pracownik urzędu obsługującego Szefa Urzędu, wydając to pismo, sama stwierdza datę doręczenia oraz wskazuje osobę, która odebrała pismo, i przyczynę braku jej podpisu.
+4. W przypadku gdy cudzoziemiec odmówi potwierdzenia odbioru pisma, pracownik urzędu obsługującego Szefa Urzędu, wydając to pismo, sam stwierdza datę doręczenia oraz wskazuje osobę, która odebrała pismo, i przyczynę braku jej podpisu.
 
 5. W razie niemożności doręczenia pisma w sposób określony w ust. 3 lub 4 pracownik urzędu obsługującego Szefa Urzędu przechowuje pismo przez okres 7 dni. Na tablicy ogłoszeń w ośrodku umieszcza się sporządzone w języku zrozumiałym dla cudzoziemca zawiadomienie o miejscu pozostawienia pisma wraz z informacją o możliwości jego odbioru w terminie 7 dni, licząc od dnia umieszczenia tego zawiadomienia.
 
@@ -849,7 +848,7 @@ source: pdf
 
 2. W przypadku, o którym mowa w ust. 1, Szef Urzędu przekazuje Komendantowi Głównemu Policji informację o wydaniu decyzji o pozbawieniu cudzoziemca statusu uchodźcy lub ochrony uzupełniającej lub o braku podstaw do pozbawienia cudzoziemca tego statusu lub tej ochrony w terminie 10 dni od dnia otrzymania wystąpienia o przeprowadzenie konsultacji, o których mowa w art. 28 lub art. 29 rozporządzenia nr 2018/1861.
 
-3. Jeżeli nie jest możliwe zachowanie terminu, o którym mowa w ust. 2, Szef Urzędu występuje przed jego upływem, za pośrednictwem Komendanta Głównego Policji, do właściwego organu innego państwa obszaru Schengen z wnioskiem o przedłużenie terminu, nie więcej jednak niż o 12 dni. Wniosek zawiera uzasadnienie. W takim przypadku Szef Urzędu przekazuje Komendantowi Głównemu Policji informację, o której mowa w ust. 2, w terminie 2 dni przed końcem terminu określonego we wniosku.
+3. Jeżeli nie jest możliwe zachowanie terminu, o którym mowa w ust. 2, Szef Urzędu występuje przed jego upływem, za pośrednictwem Komendanta Głównego Policji, do właściwego organu innego państwa obszaru Schengen z wnioskiem o przedłużenie terminu, niewięcej jednak niż o 12 dni. Wniosek zawiera uzasadnienie. W takim przypadku Szef Urzędu przekazuje Komendantowi Głównemu Policji informację, o której mowa w ust. 2, w terminie 2 dni przed końcem terminu określonego we wniosku.
 
 4. Komendant Główny Policji przekazuje właściwemu organowi innego państwa obszaru Schengen otrzymaną od Szefa Urzędu informację, o której mowa w ust. 2, w terminie 14 dni od dnia wystąpienia o przeprowadzenie konsultacji, o których mowa w art. 28 lub art. 29 rozporządzenia nr 2018/1861, a w przypadku przedłużenia tego terminu – w terminie przedłużonym.
 
@@ -889,7 +888,7 @@ source: pdf
 
 **Art. 55.**
 
-1. Wnioskodawcy i małżonkowi, w imieniu którego wnioskodawca występuje, wydaje się, niezwłocznie po przyjęciu wniosku o udzielenie ochrony międzynarodowej, nie później jednak niż w terminie 3 dni, tymczasowe zaświadczenie tożsamości cudzoziemca, zwane dalej „zaświadczeniem tożsamości”.
+1. Wnioskodawcy i małżonkowi, w imieniu którego wnioskodawca występuje, wydaje się, niezwłocznie po przyjęciu wniosku o udzielenie ochrony międzynarodowej, niepóźniej jednak niż w terminie 3 dni, tymczasowe zaświadczenie tożsamości cudzoziemca, zwane dalej „zaświadczeniem tożsamości”.
 
 2. Zaświadczenie tożsamości wydaje się także cudzoziemcowi przekazanemu przez inne państwo członkowskie na podstawie rozporządzenia 604/2013, który przed opuszczeniem terytorium Rzeczypospolitej Polskiej złożył wniosek o udzielenie ochrony międzynarodowej na terytorium Rzeczypospolitej Polskiej, niezwłocznie po złożeniu przez niego oświadczenia o zamiarze dalszego ubiegania się o udzielenie ochrony międzynarodowej.
 
@@ -993,18 +992,18 @@ source: pdf
 - **1)** sporządza protokół z tej czynności;
 - **2)** rejestruje deklarację zamiaru złożenia wniosku o udzielenie ochrony międzynarodowej w rejestrze, o którym mowa w art. 119 ust. 1 pkt 1;
 - **3)** występuje niezwłocznie do sądu opiekuńczego właściwego ze względu na miejsce pobytu małoletniego bez opieki z wnioskiem o:
-    - **a)** ustanowienie kuratora do reprezentowania go w postępowaniu w sprawie udzielenia ochrony międzynarodowej, przekazania do innego państwa członkowskiego na podstawie rozporządzenia 604/2013, udzielenia pomocy socjalnej oraz udzielenia pomocy w dobrowolnym powrocie do kraju pochodzenia, a także złożenia wniosku o udzielenie pomocy mającej na celu wspieranie procesu jego integracji, o którym mowa w art. 91 ust. 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302), oraz reprezentowania go w postępowaniu przed sądem administracyjnym w tych sprawach,
+    - **a)** ustanowienie kuratora do reprezentowania go w postępowaniu w sprawie udzielenia ochrony międzynarodowej, przekazania do innego państwa członkowskiego na podstawie rozporządzenia 604/2013, udzielenia pomocy socjalnej oraz udzielenia pomocy w dobrowolnym powrocie do kraju pochodzenia, a także złożenia wniosku o udzielenie pomocy mającej na celu wspieranie procesu jego integracji, o którym mowa w art. 91 ust. 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2026 r. poz. 639), oraz reprezentowania go w postępowaniu przed sądem administracyjnym w tych sprawach,
     - **b)** umieszczenie go w pieczy zastępczej.
 
 1a. Jeżeli małoletniemu bez opieki towarzyszy dorosły krewny w linii prostej drugiego stopnia lub w linii bocznej drugiego lub trzeciego stopnia, organ Straży Granicznej we wniosku, o którym mowa w ust. 1 pkt 3 lit. b, może wskazać powierzenie pełnienia funkcji rodziny zastępczej temu krewnemu, jeżeli wyrazi on na to zgodę.
 
-1b. Wraz z wnioskiem, o którym mowa w ust. 1 pkt 3 lit. b, organ Straży Granicznej może wystąpić z wnioskiem o udzielenie zabezpieczenia, o którym mowa w art. 755 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841), w postaci roztoczenia pieczy nad małoletnim bez opieki przez krewnego, o którym mowa w ust. 1a, na czas prowadzenia postępowania o umieszczenie małoletniego bez opieki w pieczy zastępczej.
+1b. Wraz z wnioskiem, o którym mowa w ust. 1 pkt 3 lit. b, organ Straży Granicznej może wystąpić z wnioskiem o udzielenie zabezpieczenia, o którym mowa w art. 755 § 1 pkt 4 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473), w postaci roztoczenia pieczy nad małoletnim bez opieki przez krewnego, o którym mowa w ust. 1a, na czas prowadzenia postępowania o umieszczenie małoletniego bez opieki w pieczy zastępczej.
 
 1c. Przepisu ust. 1 pkt 3 lit. b nie stosuje się, jeżeli został złożony wniosek o umieszczenie małoletniego bez opieki w strzeżonym ośrodku i sąd postanowił o umieszczeniu tego małoletniego w strzeżonym ośrodku.
 
-2. Sąd ustanawia kuratora niezwłocznie, nie później jednak niż w terminie 3 dni od dnia otrzymania wniosku, o którym mowa w ust. 1 pkt 3 lit. a.
+2. Sąd ustanawia kuratora niezwłocznie, niepóźniej jednak niż w terminie 3 dni od dnia otrzymania wniosku, o którym mowa w ust. 1 pkt 3 lit. a.
 
-3. Wniosek o udzielenie ochrony międzynarodowej złożony w imieniu małoletniego bez opieki przez kuratora przyjmuje i rejestruje niezwłocznie, nie później jednak niż w terminie 3 dni roboczych od dnia ustanowienia przez sąd kuratora, organ Straży Granicznej właściwy ze względu na miejsce pobytu małoletniego bez opieki.
+3. Wniosek o udzielenie ochrony międzynarodowej złożony w imieniu małoletniego bez opieki przez kuratora przyjmuje i rejestruje niezwłocznie, niepóźniej jednak niż w terminie 3 dni roboczych od dnia ustanowienia przez sąd kuratora, organ Straży Granicznej właściwy ze względu na miejsce pobytu małoletniego bez opieki.
 
 4. Przepisy ust. 1 pkt 3 i ust. 2 stosuje się także w przypadku:
 
@@ -1018,7 +1017,7 @@ source: pdf
 
 6. (uchylony)
 
-7. Sąd rozpatruje wniosek, o którym mowa w ust. 1 pkt 3 lit. b, niezwłocznie, nie później jednak niż w terminie 10 dni od dnia jego złożenia.
+7. Sąd rozpatruje wniosek, o którym mowa w ust. 1 pkt 3 lit. b, niezwłocznie, niepóźniej jednak niż w terminie 10 dni od dnia jego złożenia.
 
 8. W przypadku gdy w toku postępowania w sprawie udzielenia ochrony międzynarodowej wyjdzie na jaw, że wnioskodawcą jest małoletni bez opieki, z wnioskami, o których mowa w ust. 1 pkt 3, występuje Szef Urzędu.
 
@@ -1045,7 +1044,7 @@ source: pdf
 
 1. Szef Urzędu zawiadamia kuratora małoletniego bez opieki o terminie i miejscu przesłuchania.
 
-2. Zawiadomienie powinno być doręczone kuratorowi w terminie umożliwiającym mu poinformowanie małoletniego bez opieki o znaczeniu i możliwych skutkach przesłuchania oraz o sposobie przygotowania się do przesłuchania, nie później niż 7 dni przed terminem przesłuchania.
+2. Zawiadomienie powinno być doręczone kuratorowi w terminie umożliwiającym mu poinformowanie małoletniego bez opieki o znaczeniu i możliwych skutkach przesłuchania oraz o sposobie przygotowania się do przesłuchania, niepóźniej niż 7 dni przed terminem przesłuchania.
 
 **Art. 65.**
 
@@ -1075,7 +1074,7 @@ source: pdf
 
 2. W przypadku, o którym mowa w ust. 1, koszty pozostawania małoletniego bez opieki w pieczy zastępczej i koszty opieki medycznej są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Komendanta Głównego Straży Granicznej.
 
-3. Koszty opieki medycznej, o której mowa w ust. 2 nie obejmują kosztów określonych w przepisach ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897).
+3. Koszty opieki medycznej, o której mowa w ust. 2 nie obejmują kosztów określonych w przepisach ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26).
 
 **Art. 68.**
 
@@ -1148,7 +1147,7 @@ source: pdf
 
 1. Nieodpłatna pomoc prawna przysługuje wnioskodawcy i cudzoziemcowi, wobec którego została wydana decyzja o pozbawieniu go statusu uchodźcy lub ochrony uzupełniającej, zwanemu dalej „cudzoziemcem uprawnionym”, który działa bez adwokata lub radcy prawnego.
 
-2. Nieodpłatna pomoc prawna nie przysługuje cudzoziemcowi, wobec którego została wydana decyzja o pozbawieniu go statusu uchodźcy lub ochrony uzupełniającej, w przypadku gdy uzyskuje dochód większy niż 100 % kryteriów dochodowych określonych w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572).
+2. Nieodpłatna pomoc prawna nie przysługuje cudzoziemcowi, wobec którego została wydana decyzja o pozbawieniu go statusu uchodźcy lub ochrony uzupełniającej, w przypadku gdy uzyskuje dochód większy niż 100 % kryteriów dochodowych określonych w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
 
 3. Adwokat albo radca prawny, którzy udzielają nieodpłatnej pomocy prawnej, albo organizacja pozarządowa prowadząca działalność pożytku publicznego, uprawniona do udzielania nieodpłatnej pomocy prawnej informują cudzoziemca, wobec którego została wydana decyzja o pozbawieniu go statusu uchodźcy lub ochrony uzupełniającej, przed złożeniem przez niego oświadczenia, o wysokości dochodu, powyżej którego nie przysługuje nieodpłatna pomoc prawna.
 
@@ -1190,9 +1189,9 @@ source: pdf
 1. Nieodpłatnej pomocy prawnej udziela osobiście:
 
 - **1)** adwokat, radca prawny albo
-- **2)** osoba niebędąca adwokatem ani radcą prawnym, zatrudniona w organizacji pozarządowej prowadzącej działalność pożytku publicznego, uprawnionej do udzielania nieodpłatnej pomocy prawnej, spełniająca łącznie następujące warunki: – Prawo o adwokaturze (Dz. U. z 2024 r. poz. 1564), kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2024 r. poz. 499), w podmiotach świadczących pomoc prawną w państwach członkowskich, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej lub w organizacji pozarządowej prowadzącej działalność pożytku publicznego,
-    - **a)** posiada dyplom ukończenia studiów na kierunku prawo potwierdzający uzyskanie tytułu zawodowego magistra lub dyplom potwierdzający ukończenie wyższych studiów prawniczych za granicą, o którym mowa w art. 326 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, 1871 i 1897), albo dyplom ukończenia wyższych studiów prawniczych za granicą uznany za równoważny polskiemu dyplomowi potwierdzającemu uzyskanie tytułu zawodowego magistra zgodnie z art. 327 ust. 1 tej ustawy,
-    - **b)** co najmniej przez okres 3 lat wykonywała czynności bezpośrednio związane ze świadczeniem pomocy prawnej w sprawach o udzielenie ochrony międzynarodowej na podstawie umowy o pracę lub umowy cywilnoprawnej w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r.
+- **2)** osoba niebędąca adwokatem ani radcą prawnym, zatrudniona w organizacji pozarządowej prowadzącej działalność pożytku publicznego, uprawnionej do udzielania nieodpłatnej pomocy prawnej, spełniająca łącznie następujące warunki: z 2024 r. poz. 499, z 2025 r. poz. 1172 oraz z 2026 r. poz. 370), w podmiotach świadczących pomoc prawną w państwach członkowskich, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej lub w organizacji pozarządowej prowadzącej działalność pożytku publicznego,
+    - **a)** posiada dyplom ukończenia studiów na kierunku prawo potwierdzający uzyskanie tytułu zawodowego magistra lub dyplom potwierdzający ukończenie wyższych studiów prawniczych za granicą, o którym mowa w art. 326 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), albo dyplom ukończenia wyższych studiów prawniczych za granicą uznany za równoważny polskiemu dyplomowi potwierdzającemu uzyskanie tytułu zawodowego magistra zgodnie z art. 327 ust. 1 tej ustawy,
+    - **b)** co najmniej przez okres 3 lat wykonywała czynności bezpośrednio związane ze świadczeniem pomocy prawnej w sprawach o udzielenie ochrony międzynarodowej na podstawie umowy o pracę lub umowy cywilnoprawnej w kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 4a ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2024 r. poz. 1564, z 2025 r. poz. 1172 oraz z 2026 r. poz. 370), kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej lub komandytowo-akcyjnej, o których mowa w art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U.
     - **c)** korzysta z pełni praw publicznych oraz ma pełną zdolność do czynności prawnych,
     - **d)** nie była karana za umyślne przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe.
 
@@ -1377,7 +1376,7 @@ source: pdf
 
 **Art. 73.**
 
-1. Opieka medyczna obejmuje świadczenia opieki zdrowotnej w zakresie, w jakim osobom objętym obowiązkowym lub dobrowolnym ubezpieczeniem zdrowotnym przysługuje prawo do świadczeń na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, 858, 1222, 1593, 1615 i 1915), z wyłączeniem leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej.
+1. Opieka medyczna obejmuje świadczenia opieki zdrowotnej w zakresie, w jakim osobom objętym obowiązkowym lub dobrowolnym ubezpieczeniem zdrowotnym przysługuje prawo do świadczeń na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26 i 203), z wyłączeniem leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej.
 
 2. Opieka medyczna jest wykonywana na podstawie umów cywilnoprawnych zawartych między Szefem Urzędu a świadczeniodawcami w rozumieniu przepisów ustawy, o której mowa w ust. 1.
 
@@ -1430,15 +1429,15 @@ source: pdf
 - **2)** Szefa Urzędu;
 - **3)** podmiotu, o którym mowa w art. 82c ust. 3.
 
-6. Cudzoziemiec składa wniosek o udzielenie pomocy związanej z przeniesieniem go do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013, nie później jednak niż w terminie 21 dni od dnia doręczenia mu decyzji ostatecznej o umorzeniu postępowania w sprawie udzielenia mu ochrony międzynarodowej i przekazaniu go do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013.
+6. Cudzoziemiec składa wniosek o udzielenie pomocy związanej z przeniesieniem go do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013, niepóźniej jednak niż w terminie 21 dni od dnia doręczenia mu decyzji ostatecznej o umorzeniu postępowania w sprawie udzielenia mu ochrony międzynarodowej i przekazaniu go do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013.
 
 7. W przypadku niezachowania przez cudzoziemca terminu, o którym mowa w ust. 6, Komendant Główny Straży Granicznej pozostawia wniosek o udzielenie pomocy związanej z przeniesieniem do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 bez rozpoznania.
 
-8. Szef Urzędu, komendant oddziału Straży Granicznej, komendant placówki Straży Granicznej lub podmiot, o którym mowa w art. 82c ust. 3, niezwłocznie, jednak nie później niż w terminie 24 godzin, przekazuje wniosek o udzielenie pomocy związanej z przeniesieniem cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 Komendantowi Głównemu Straży Granicznej.
+8. Szef Urzędu, komendant oddziału Straży Granicznej, komendant placówki Straży Granicznej lub podmiot, o którym mowa w art. 82c ust. 3, niezwłocznie, jednak niepóźniej niż w terminie 24 godzin, przekazuje wniosek o udzielenie pomocy związanej z przeniesieniem cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 Komendantowi Głównemu Straży Granicznej.
 
-9. Komendant Główny Straży Granicznej niezwłocznie, nie później jednak niż w terminie 5 dni roboczych od dnia złożenia wniosku o udzielenie pomocy związanej z przeniesieniem cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 wydaje postanowienie o udzieleniu cudzoziemcowi pomocy związanej z przeniesieniem cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013. Na postanowienie nie przysługuje zażalenie.
+9. Komendant Główny Straży Granicznej niezwłocznie, niepóźniej jednak niż w terminie 5 dni roboczych od dnia złożenia wniosku o udzielenie pomocy związanej z przeniesieniem cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 wydaje postanowienie o udzieleniu cudzoziemcowi pomocy związanej z przeniesieniem cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013. Na postanowienie nie przysługuje zażalenie.
 
-10. Komendant Główny Straży Granicznej niezwłocznie, nie później jednak niż w terminie 48 godzin, informuje Szefa Urzędu o wydaniu postanowienia o udzieleniu cudzoziemcowi pomocy związanej z przeniesieniem go do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 lub pozostawieniu wniosku o udzielenie pomocy związanej z przeniesieniem cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 bez rozpoznania.
+10. Komendant Główny Straży Granicznej niezwłocznie, niepóźniej jednak niż w terminie 48 godzin, informuje Szefa Urzędu o wydaniu postanowienia o udzieleniu cudzoziemcowi pomocy związanej z przeniesieniem go do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 lub pozostawieniu wniosku o udzielenie pomocy związanej z przeniesieniem cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 bez rozpoznania.
 
 11. Komendant Główny Straży Granicznej, po uzyskaniu informacji od Szefa Urzędu o wydaniu decyzji o umorzeniu postępowania w sprawie udzielenia cudzoziemcowi ochrony międzynarodowej i przekazaniu tego cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013, zawiadamia niezwłocznie komendanta oddziału Straży Granicznej właściwego ze względu na miejsce pobytu wnioskodawcy o niezłożeniu przez wnioskodawcę wniosku o udzielenie mu pomocy związanej z przeniesieniem cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 w terminie 21 dni od dnia, w którym decyzja o umorzeniu postępowania w sprawie udzielenia mu ochrony międzynarodowej stała się ostateczna, lub o nieskorzystaniu przez wnioskodawcę z udzielonej mu pomocy związanej z tym przeniesieniem.
 
@@ -1524,7 +1523,7 @@ source: pdf
 
 1. (uchylony)
 
-2. Szef Urzędu może zlecić prowadzenie nauki języka polskiego na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320).
+2. Szef Urzędu może zlecić prowadzenie nauki języka polskiego na podstawie ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 3. Komendant Główny Straży Granicznej może zlecić przeniesienie cudzoziemca do innego państwa członkowskiego odpowiedzialnego za rozpatrzenie wniosku o udzielenie ochrony międzynarodowej na podstawie rozporządzenia 604/2013 podmiotowi, o którym mowa w art. 334 ust. 8 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach.
 
@@ -1535,22 +1534,19 @@ source: pdf
 - **1)** w następnym dniu po upływie okresu udzielania pomocy, o którym mowa w art. 74;
 - **2)** po doręczeniu decyzji o pozbawieniu pomocy socjalnej.
 
-2. Do egzekucji obowiązku opuszczenia ośrodka, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm. ), dotyczące obowiązków o charakterze niepieniężnym.
+2. Do egzekucji obowiązku opuszczenia ośrodka, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268 i 516), dotyczące obowiązków o charakterze niepieniężnym.
 
 **Art. 84.**
 
-1. Osobie, która pokryła koszty pogrzebu cudzoziemca zmarłego przed zakończeniem postępowania w sprawie udzielenia ochrony międzynarodowej, a w przypadku śmierci cudzoziemca korzystającego z pomocy socjalnej – w okresie, o którym mowa w art. 74, przysługuje zasiłek pogrzebowy w wysokości kosztów rzeczywiście poniesionych, nie większej jednak niż kwota zasiłku pogrzebowego wypłacana na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674).
+1. Osobie, która pokryła koszty pogrzebu cudzoziemca zmarłego przed zakończeniem postępowania w sprawie udzielenia ochrony międzynarodowej, a w przypadku śmierci cudzoziemca korzystającego z pomocy socjalnej – w okresie, o którym mowa w art. 74, przysługuje zasiłek pogrzebowy w wysokości kosztów rzeczywiście poniesionych, niewiększej jednak niż kwota zasiłku pogrzebowego wypłacana na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26 i 425).
 
 2. Jeżeli pogrzeb cudzoziemca odbywa się za granicą, zasiłek pogrzebowy obejmuje wyłącznie zwrot kosztów transportu zwłok do granicy.
 
-3. W przypadku gdy zwłoki cudzoziemca, o którym mowa w ust. 1, nie zostały pochowane przez podmioty, o których mowa w art. 10 ust. 1 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2024 r. poz. 576), pogrzeb cudzoziemca organizuje Szef Urzędu i pokrywa jego koszty z części budżetu państwa, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Szefa Urzędu.
+3. W przypadku gdy zwłoki cudzoziemca, o którym mowa w ust. 1, nie zostały pochowane przez podmioty, o których mowa w art. 10 ust. 1 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2025 r. poz. 1590), pogrzeb cudzoziemca organizuje Szef Urzędu i pokrywa jego koszty z części budżetu państwa, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Szefa Urzędu.
 
 3a. Przepisy ust. 1–3 stosuje się także do:
 
-- **1)** nowo narodzonego dziecka wnioskodawcy, które zmarło przed ukończeniem
-
-30. dnia życia, także gdy wobec dziecka nie zostało wszczęte postępowanie w sprawie udzielenia ochrony międzynarodowej – pod warunkiem przedstawienia odpisu skróconego lub zupełnego aktu zgonu;
-
+- **1)** nowo narodzonego dziecka wnioskodawcy, które zmarło przed ukończeniem 30. dnia życia, także gdy wobec dziecka nie zostało wszczęte postępowanie w sprawie udzielenia ochrony międzynarodowej – pod warunkiem przedstawienia odpisu skróconego lub zupełnego aktu zgonu;
 - **2)** dziecka wnioskodawcy, które urodziło się martwe – pod warunkiem przedstawienia odpisu skróconego aktu urodzenia z adnotacją o martwym urodzeniu lub odpisu zupełnego aktu urodzenia.
 
 4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb wypłaty zasiłków pogrzebowych oraz warunki pokrywania kosztów pogrzebu cudzoziemca ze środków budżetu państwa, z uwzględnieniem w szczególności:
@@ -1672,7 +1668,7 @@ source: pdf
 1. Wnioskodawcę lub osobę, w imieniu której wnioskodawca występuje, w przypadkach, o których mowa w art. 87 ust. 1, można zobowiązać do:
 
 - **1)** zgłaszania się w określonych odstępach czasu do wskazanego organu,
-- **2)** wpłaty zabezpieczenia pieniężnego w określonej wysokości, nie niższej niż dwukrotność minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę,
+- **2)** wpłaty zabezpieczenia pieniężnego w określonej wysokości, nieniższej niż dwukrotność minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę,
 - **3)** zamieszkiwania w wyznaczonym miejscu – do czasu, gdy decyzja w sprawie udzielenia ochrony międzynarodowej stanie się ostateczna.
 
 2. Postanowienie o zastosowaniu środków, o których mowa w ust. 1, wydaje organ Straży Granicznej, który zatrzymał wnioskodawcę lub osobę, w imieniu której wnioskodawca występuje. Na postanowienie przysługuje zażalenie do sądu rejonowego właściwego ze względu na siedzibę organu Straży Granicznej, który wydał postanowienie, w terminie 7 dni od dnia doręczenia postanowienia. Sąd rozpatruje zażalenie w terminie 7 dni.
@@ -1746,7 +1742,7 @@ source: pdf
 
 4. Kierownik strzeżonego ośrodka lub funkcjonariusz odpowiadający za funkcjonowanie aresztu dla cudzoziemców przekazuje odwołanie w terminie 2 dni sądowi, który rozpoznaje je niezwłocznie.
 
-5. Do postępowania w sprawie odwołania od decyzji, o której mowa w ust. 3, stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46) o postępowaniu w sprawie zażalenia na postanowienie w przedmiocie środka zapobiegawczego, przy czym funkcję oskarżyciela publicznego wykonuje Szef Urzędu.
+5. Do postępowania w sprawie odwołania od decyzji, o której mowa w ust. 3, stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2026 r. poz. 490, 421 i 638) o postępowaniu w sprawie zażalenia na postanowienie w przedmiocie środka zapobiegawczego, przy czym funkcję oskarżyciela publicznego wykonuje Szef Urzędu.
 
 **Art. 89c.** Wnioskodawcy lub osobie, w której imieniu wnioskodawca występuje, zwolnionym ze strzeżonego ośrodka lub z aresztu dla cudzoziemców na podstawie decyzji, o której mowa w art. 89b ust. 1 i 2, albo nieumieszczonym w strzeżonym ośrodku lub areszcie dla cudzoziemców z przyczyn określonych w art. 400 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, Szef Urzędu może, w drodze decyzji, nakazać przebywanie w określonym miejscu pobytu lub określonej miejscowości, których bez jego zezwolenia nie mogą opuszczać, do dnia, w którym decyzja w postępowaniu w sprawie nadania statusu uchodźcy stanie się ostateczna, oraz zobowiązać do zgłaszania się w określonych odstępach czasu do organu wskazanego w decyzji.
 
@@ -1826,11 +1822,11 @@ source: pdf
 
 **Art. 89l.**
 
-1. Cudzoziemiec, który zostaje pozbawiony statusu uchodźcy, jest obowiązany niezwłocznie zwrócić Szefowi Urzędu kartę pobytu i dokument podróży przewidziany w Konwencji Genewskiej, nie później jednak niż w terminie 14 dni od dnia, w którym decyzja w tej sprawie stała się ostateczna.
+1. Cudzoziemiec, który zostaje pozbawiony statusu uchodźcy, jest obowiązany niezwłocznie zwrócić Szefowi Urzędu kartę pobytu i dokument podróży przewidziany w Konwencji Genewskiej, niepóźniej jednak niż w terminie 14 dni od dnia, w którym decyzja w tej sprawie stała się ostateczna.
 
 2. Cudzoziemiec zobowiązany do powrotu jest obowiązany zwrócić kartę pobytu komendantowi placówki Straży Granicznej przy przekraczaniu granicy.
 
-3. Cudzoziemiec, który zostaje pozbawiony ochrony uzupełniającej, jest obowiązany zwrócić Szefowi Urzędu kartę pobytu niezwłocznie, nie później jednak niż w terminie 14 dni od dnia, w którym decyzja w tej sprawie stała się ostateczna.
+3. Cudzoziemiec, który zostaje pozbawiony ochrony uzupełniającej, jest obowiązany zwrócić Szefowi Urzędu kartę pobytu niezwłocznie, niepóźniej jednak niż w terminie 14 dni od dnia, w którym decyzja w tej sprawie stała się ostateczna.
 
 **Art. 89m.** Wymiana lub wydanie nowego dokumentu podróży przewidzianego w Konwencji Genewskiej następuje na wniosek cudzoziemca, po pobraniu jego danych biometrycznych.
 
@@ -1840,9 +1836,7 @@ source: pdf
 
 2. Cudzoziemcowi, który posiada status uchodźcy lub korzysta z ochrony uzupełniającej, kartę pobytu wydaje i wymienia Szef Urzędu.
 
-3. Po wydaniu karty pobytu, jej wymianie lub wydaniu kolejnej karty pobytu Szef Urzędu usuwa w terminie 5 dni roboczych od dnia wydania lub wymiany karty pobytu dane cudzoziemca zarejestrowane w Systemie Wjazdu/Wyjazdu, zwanym dalej „EES”, zgodnie z art. 35 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiającego system wjazdu/wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określającego warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniającego konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011 (Dz. Urz. UE L 327 z
-
-09. 12.2017, str. 20, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2017/2226”.
+3. Po wydaniu karty pobytu, jej wymianie lub wydaniu kolejnej karty pobytu Szef Urzędu usuwa w terminie 5 dni roboczych od dnia wydania lub wymiany karty pobytu dane cudzoziemca zarejestrowane w Systemie Wjazdu/Wyjazdu, zwanym dalej „EES”, zgodnie z art. 35 ust. 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/2226 z dnia 30 listopada 2017 r. ustanawiającego system wjazdu/wyjazdu (EES) w celu rejestrowania danych dotyczących wjazdu i wyjazdu obywateli państw trzecich przekraczających granice zewnętrzne państw członkowskich i danych dotyczących odmowy wjazdu w odniesieniu do takich obywateli oraz określającego warunki dostępu do EES na potrzeby ochrony porządku publicznego i zmieniającego konwencję wykonawczą do układu z Schengen i rozporządzenia (WE) nr 767/2008 i (UE) nr 1077/2011 (Dz. Urz. UE L 327 z 09.12.2017, str. 20, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2017/2226”.
 
 **Art. 89na.**
 
@@ -1945,7 +1939,7 @@ source: pdf
 
 6. W przypadku gdy Rada zamierza nadać cudzoziemcowi status uchodźcy lub udzielić ochrony uzupełniającej, może zwrócić się do komendanta oddziału Straży Granicznej, komendanta wojewódzkiego Policji, Szefa Agencji Bezpieczeństwa Wewnętrznego, a w razie potrzeby – także do innych organów, o przekazanie informacji, czy wobec wnioskodawcy lub osoby, w imieniu której wnioskodawca występuje, zachodzą okoliczności, o których mowa w art. 19 ust. 1 pkt 3 lub ust. 2 lub art. 20 ust. 1 pkt 2 lub ust. 2 lub 3. Do uzyskiwania informacji przez Radę stosuje się przepisy art. 45 ust. 2–4 i ust. 5.
 
-7. Przewodniczący przekazuje Szefowi Urzędu akta spraw w postępowaniach administracyjnych w celu archiwizacji, nie później niż w terminie 6 miesięcy od dnia zakończenia postępowania.
+7. Przewodniczący przekazuje Szefowi Urzędu akta spraw w postępowaniach administracyjnych w celu archiwizacji, niepóźniej niż w terminie 6 miesięcy od dnia zakończenia postępowania.
 
 **Art. 89za.**
 
@@ -2108,7 +2102,7 @@ source: pdf
 
 **Art. 110a.**
 
-1. Beneficjentowi ochrony czasowej na wniosek złożony w dowolnym organie gminy na terytorium Rzeczypospolitej Polskiej, nadaje się numer PESEL, o którym mowa w art. 15 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274, z późn. zm. ), ze statusem UKR, o którym mowa w art. 8 pkt 24a lit. d ustawy z dnia 24 września 2010 r. o ewidencji ludności.
+1. Beneficjentowi ochrony czasowej na wniosek złożony w dowolnym organie gminy na terytorium Rzeczypospolitej Polskiej, nadaje się numer PESEL, o którym mowa w art. 15 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2026 r. poz. 384), ze statusem UKR, o którym mowa w art. 8 pkt 24a lit. d ustawy z dnia 24 września 2010 r. o ewidencji ludności.
 
 2. Wniosek, o którym mowa w ust. 1, składa się w terminie 30 dni od dnia przekroczenia granicy Rzeczypospolitej Polskiej.
 
@@ -2337,9 +2331,11 @@ source: pdf
 - **2)** komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej – w zakresie, o którym mowa w ust. 20 pkt 2;
 - **3)** państwowego powiatowego inspektora sanitarnego – w zakresie, o którym mowa w ust. 20 pkt 3.
 
-22. Opinie, o których mowa w ust. 21, wydaje się, w terminie 7 dni roboczych, na wniosek właściciela lub faktycznie władającego obiektem budowlanym. Opinie mogą określać dodatkowe warunki lub ograniczenia niezbędne do zachowania podstawowych wymagań, o których mowa w ust. 20. Do wydawania opinii nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691). Opinię, o której mowa w ust. 21 pkt 2, wydaje się po przeprowadzeniu czynności kontrolno-rozpoznawczych, o których mowa w art. 23 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312 i 1366), w zakresie oceny zapewnienia w obiekcie budowlanym spełnienia podstawowych wymagań bezpieczeństwa pożarowego.
+22. Opinie, o których mowa w ust. 21, wydaje się, w terminie 7 dni roboczych, na wniosek właściciela lub faktycznie władającego obiektem budowlanym. Opinie mogą określać dodatkowe warunki lub ograniczenia niezbędne do zachowania podstawowych wymagań, o których mowa w ust. 20. Do wydawania opinii nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691). Opinię, o której mowa w ust. 21 pkt 2, wydaje się po przeprowadzeniu czynności kontrolno-rozpoznawczych, o których mowa w art. 23 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312 i 1366 oraz z 2026 r. poz. 252 i 646), w zakresie oceny zapewnienia w obiekcie budowlanym spełnienia podstawowych wymagań bezpieczeństwa pożarowego.
 
-23. Do obiektów, o których mowa w ust. 20, nie stosuje się przepisów art. 71 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847).
+23. Do obiektów, o których mowa w ust. 20, nie stosuje się przepisów art. 71 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2026 r. poz. 524, 605 i
+
+- **646)** .
 
 **Art. 112a.**
 
@@ -2376,7 +2372,7 @@ source: pdf
     - **b)** pkt 3 – zaświadczenie o zamieszkiwaniu w ośrodku zbiorowego zakwaterowania, o którym mowa w art. 112,
     - **c)** pkt 4 – dokument potwierdzający ciążę lub połóg.
 
-5. Przedstawienie przez beneficjenta ochrony czasowej dokumentu potwierdzającego numer PESEL ze statusem UKR, nie jest wymagane w przypadku, gdy świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907 i 1192) uzyska potwierdzenie posiadania przez beneficjenta ochrony czasowej numeru PESEL ze statusem UKR w sposób określony w art. 50 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+5. Przedstawienie przez beneficjenta ochrony czasowej dokumentu potwierdzającego numer PESEL ze statusem UKR, nie jest wymagane w przypadku, gdy świadczeniodawca lub niebędąca świadczeniodawcą osoba uprawniona w rozumieniu art. 2 pkt 14 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2026 r. poz. 253) uzyska potwierdzenie posiadania przez beneficjenta ochrony czasowej numeru PESEL ze statusem UKR w sposób określony w art. 50 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 6. Koszty świadczeń opieki zdrowotnej, o których mowa w ust. 1–3, są rozliczane ze świadczeniodawcami oraz aptekami przez Narodowy Fundusz Zdrowia, a finansowane z dotacji celowej z budżetu państwa udzielanej z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
@@ -2396,7 +2392,7 @@ source: pdf
 
 3. Opiekuna tymczasowego ustanawia sąd opiekuńczy właściwy ze względu na miejsce pobytu małoletniego bez opieki będącego beneficjentem ochrony czasowej.
 
-4. Opiekun tymczasowy powinien być ustanowiony przede wszystkim spośród krewnych, powinowatych lub innych osób dających rękojmię należytego wykonywania obowiązków opiekuna. Przepisy art. 148 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809 oraz z 2025 r. poz. 897) stosuje się.
+4. Opiekun tymczasowy powinien być ustanowiony przede wszystkim spośród krewnych, powinowatych lub innych osób dających rękojmię należytego wykonywania obowiązków opiekuna. Przepisy art. 148 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2026 r. poz. 236) stosuje się.
 
 5. Postępowanie o ustanowienie opiekuna tymczasowego może być wszczęte na wniosek lub z urzędu.
 
@@ -2514,7 +2510,7 @@ source: pdf
 - **1)** konsulom z krajów pochodzenia dzieci – w zakresie niezbędnym do realizacji umów międzynarodowych pomiędzy Rzecząpospolitą Polską a innymi państwami;
 - **2)** wojewodzie właściwemu dla miejsca pobytu małoletniego;
 - **3)** powiatowym centrom pomocy rodzinie;
-- **4)** organowi właściwemu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2025 r. poz. 1208), za pośrednictwem ministra właściwego do spraw rodziny – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, o których mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, osób pobierających te świadczenia oraz członków ich rodzin;
+- **4)** organowi właściwemu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2025 r. poz. 1208 oraz z 2026 r. poz. 203), za pośrednictwem ministra właściwego do spraw rodziny – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia rodzinne, o których mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, osób pobierających te świadczenia oraz członków ich rodzin;
 - **5)** Zakładowi Ubezpieczeń Społecznych – w celu weryfikacji danych dotyczących osób ubiegających się o świadczenie wychowawcze, o którym mowa w ustawie z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci, oraz świadczenie „Dobry start”, o którym mowa w przepisach wydanych na podstawie art. 187a ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, osób pobierających te świadczenia oraz członków ich rodzin;
 - **6)** sądom;
 - **7)** prokuratorom;
@@ -2556,7 +2552,7 @@ source: pdf
 
 1. Beneficjent ochrony czasowej może wykonywać pracę bez zezwolenia na pracę na zasadach określonych w ustawie z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej.
 
-2. Beneficjent ochrony czasowej może wykonywać działalność gospodarczą na zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794).
+2. Beneficjent ochrony czasowej może wykonywać działalność gospodarczą na zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794 oraz z 2026 r. poz. 507).
 
 **Art. 117.**
 
@@ -2750,7 +2746,7 @@ source: pdf
 
 **Art. 142.**
 
-1. Dokumenty wydane cudzoziemcom, do których stosuje się przepisy niniejszej ustawy, wydane na podstawie ustawy z dnia 25 czerwca 1997 r. o cudzoziemcach, zachowują ważność do czasu ich wymiany, nie dłużej jednak niż do końca okresu ich ważności.
+1. Dokumenty wydane cudzoziemcom, do których stosuje się przepisy niniejszej ustawy, wydane na podstawie ustawy z dnia 25 czerwca 1997 r. o cudzoziemcach, zachowują ważność do czasu ich wymiany, niedłużej jednak niż do końca okresu ich ważności.
 
 2. Karty pobytu wydane cudzoziemcom, o których mowa w art. 140, przed wejściem w życie ustawy, podlegają nieodpłatnej wymianie w terminie 6 miesięcy od dnia wejścia w życie ustawy.
 
@@ -2765,7 +2761,7 @@ source: pdf
 
 **Art. 144.** Wpisy do rejestrów prowadzonych na podstawie dotychczasowych przepisów z dniem wejścia w życie ustawy stają się wpisami do rejestrów prowadzonych na podstawie niniejszej ustawy.
 
-**Art. 145.** Do czasu wydania przepisów wykonawczych na podstawie upoważnień przewidzianych w ustawie, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie ustawy, zachowują moc przepisy dotychczasowe.
+**Art. 145.** Do czasu wydania przepisów wykonawczych na podstawie upoważnień przewidzianych w ustawie, niedłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie ustawy, zachowują moc przepisy dotychczasowe.
 
 **Art. 146.**
 
@@ -2776,4 +2772,6 @@ source: pdf
 3. Przepisy art. 108 ust. 1–3 tracą moc z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
 
 **Art. 147.** Ustawa wchodzi w życie z dniem 1 września 2003 r.
+
+## Załączniki do ustawy z dnia 13 2003 r. (Dz. U. z 2026 r. poz.
 

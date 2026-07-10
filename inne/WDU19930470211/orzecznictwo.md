@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji.*
 
 Łącznie: **890** orzeczeń
-(pominięto 557 orzeczeń sądów rejonowych)
+(pominięto 558 orzeczeń sądów rejonowych)
 
 ## art. 1 (20)
 

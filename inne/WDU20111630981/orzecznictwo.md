@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze*
 
-Łącznie: **281** orzeczeń
-(pominięto 411 orzeczeń sądów rejonowych)
+Łącznie: **282** orzeczeń
+(pominięto 414 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 
@@ -20,7 +20,7 @@ Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i 
 
 - 2020-01-16 | SO | [I ACa 788/19](https://www.saos.org.pl/judgments/408269) | Wyrok
 
-## art. 6 (18)
+## art. 6 (19)
 
 - 2014-11-18 | TK | [K 23/12](https://www.saos.org.pl/judgments/206461) | Wyrok ★
 - 2025-07-07 | SO | [III AUa 697/24](https://www.saos.org.pl/judgments/537933) | Wyrok
@@ -32,6 +32,7 @@ Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i 
 - 2024-05-06 | SO | [III AUa 53/24](https://www.saos.org.pl/judgments/505046) | Wyrok
 - 2024-03-13 | SO | [III AUa 52/24](https://www.saos.org.pl/judgments/505040) | Wyrok
 - 2023-11-29 | SO | [III AUa 1002/23](https://www.saos.org.pl/judgments/504657) | Wyrok
+- 2023-09-12 | SO | [I ACa 1730/21](https://www.saos.org.pl/judgments/547708) | Wyrok
 - 2020-12-09 | SO | [III AUa 1272/19](https://www.saos.org.pl/judgments/467882) | Wyrok
 - 2020-01-21 | SO | [V AGa 21/19](https://www.saos.org.pl/judgments/405910) | Wyrok
 - 2018-11-06 | SO | [V AGa 470/18](https://www.saos.org.pl/judgments/429009) | Wyrok
@@ -44,6 +45,10 @@ Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i 
 ## art. 7 (1)
 
 - 2017-12-06 | SO | [I ACa 592/17](https://www.saos.org.pl/judgments/335761) | Wyrok
+
+## art. 8 (1)
+
+- 2023-09-12 | SO | [I ACa 1730/21](https://www.saos.org.pl/judgments/547708) | Wyrok
 
 ## art. 10 (4)
 
@@ -99,8 +104,9 @@ Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i 
 - 2014-02-18 | TK | [K 29/12](https://www.saos.org.pl/judgments/160142) | Wyrok ★
 - 2012-09-28 | SO | [I ACa 247/12](https://www.saos.org.pl/judgments/314) | Wyrok
 
-## art. 36 (1)
+## art. 36 (2)
 
+- 2023-09-12 | SO | [I ACa 1730/21](https://www.saos.org.pl/judgments/547708) | Wyrok
 - 2015-12-17 | SO | [XVIII C 801/15](https://www.saos.org.pl/judgments/218833) | Wyrok
 
 ## art. 37 (1)
@@ -308,7 +314,7 @@ Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i 
 
 - 2014-11-18 | TK | [K 23/12](https://www.saos.org.pl/judgments/206461) | Wyrok ★
 
-## art. 144 (68)
+## art. 144 (69)
 
 - 2014-01-24 | SN | [V CSK 93/13](https://www.saos.org.pl/judgments/104185) | Wyrok ★
 - 2025-01-16 | SO | [V ACa 781/24](https://www.saos.org.pl/judgments/521949) | Wyrok
@@ -330,6 +336,7 @@ Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i 
 - 2023-10-30 | SO | [V ACa 613/22](https://www.saos.org.pl/judgments/509836) | Wyrok
 - 2023-10-17 | SO | [I ACa 455/22](https://www.saos.org.pl/judgments/494199) | Wyrok
 - 2023-09-29 | SO | [V ACa 505/21](https://www.saos.org.pl/judgments/509810) | Wyrok
+- 2023-09-12 | SO | [I ACa 1730/21](https://www.saos.org.pl/judgments/547708) | Wyrok
 - 2023-07-25 | SO | [I ACa 1381/22](https://www.saos.org.pl/judgments/493581) | Wyrok
 - 2023-07-21 | SO | [V ACa 318/21](https://www.saos.org.pl/judgments/509763) | Wyrok
 - 2023-07-17 | SO | [I ACa 1951/22](https://www.saos.org.pl/judgments/493856) | Wyrok
@@ -379,7 +386,7 @@ Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i 
 - 2014-11-12 | SO | [V ACa 315/14](https://www.saos.org.pl/judgments/71917) | Wyrok
 - 2014-06-26 | SO | [I ACa 249/14](https://www.saos.org.pl/judgments/56653) | Wyrok
 
-## art. 145 (50)
+## art. 145 (51)
 
 - 2013-11-22 | SN | [III CZP 75/13](https://www.saos.org.pl/judgments/103613) | Uchwała ★
 - 2014-01-24 | SN | [V CSK 93/13](https://www.saos.org.pl/judgments/104185) | Wyrok ★
@@ -395,6 +402,7 @@ Orzeczenia powołujące: *Ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i 
 - 2024-03-15 | SO | [V ACa 175/20](https://www.saos.org.pl/judgments/521789) | Wyrok
 - 2023-11-20 | SO | [I ACa 1193/23](https://www.saos.org.pl/judgments/493442) | Wyrok
 - 2023-10-17 | SO | [I ACa 455/22](https://www.saos.org.pl/judgments/494199) | Wyrok
+- 2023-09-12 | SO | [I ACa 1730/21](https://www.saos.org.pl/judgments/547708) | Wyrok
 - 2023-04-03 | SO | [I ACa 291/23](https://www.saos.org.pl/judgments/494019) | Wyrok
 - 2022-12-20 | SO | [I ACa 1832/22](https://www.saos.org.pl/judgments/493814) | Wyrok
 - 2022-12-07 | SO | [I ACa 1661/21](https://www.saos.org.pl/judgments/493746) | Wyrok

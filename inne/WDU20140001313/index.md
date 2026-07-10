@@ -415,8 +415,7 @@ c) zwiększenie wielkości serii ponad 10-krotnie w porównaniu z aktualnie 1, 2
 2. Numery badanych serii o proponowanej wielkości serii
 3. Wyniki badań analitycznych (w postaci tabeli porównawczej) z badania minimum jednej serii produkcyjnej substancji czynnej lub produktu pośredniego (jeżeli dotyczy), wytwarzanych w aktualnie zatwierdzonej i proponowanej wielkości. Dane dotyczące dwóch kolejnych pełnych serii produkcyjnych powinny być dostępne na żądanie i zgłaszane przez podmiot odpowiedzialny, jeżeli otrzymane wyniki wykraczają poza limity określone w specyfikacji (wraz z proponowanym sposobem postępowania)
 4. Kopia zatwierdzonych specyfikacji substancji czynnej (i produktu pośredniego, jeżeli dotyczy)
-5. Deklaracja odpowiednio podmiotu odpowiedzialnego lub posiadacza ASMF, że zmiany w procesie wytwarzania wynikają wyłącznie ze zwiększenia lub zmniejszenia serii (np.
-z zastosowania urządzeń o innej wielkości) oraz że zmiana nie wpływa niekorzystnie na odtwarzalność procesu, nie jest wynikiem nieoczekiwanego zdarzenia podczas procesu wytwarzania lub dotyczącego trwałości i że specyfikacje substancji czynnej lub produktów pośrednich pozostają bez zmian B.I.a.4 Zmiany dotyczące badań lub limitów Warunki, które Dokumentacja, Typ wewnątrzprocesowych stosowanych w należy spełnić którą należy zmiany procesie wytwarzania substancji czynnej: złożyć
+5. Deklaracja odpowiednio podmiotu odpowiedzialnego lub posiadacza ASMF, że zmiany w procesie wytwarzania wynikają wyłącznie ze zwiększenia lub zmniejszenia serii (np. z zastosowania urządzeń o innej wielkości) oraz że zmiana nie wpływa niekorzystnie na odtwarzalność procesu, nie jest wynikiem nieoczekiwanego zdarzenia podczas procesu wytwarzania lub dotyczącego trwałości i że specyfikacje substancji czynnej lub produktów pośrednich pozostają bez zmian B.I.a.4 Zmiany dotyczące badań lub limitów Warunki, które Dokumentacja, Typ wewnątrzprocesowych stosowanych w należy spełnić którą należy zmiany procesie wytwarzania substancji czynnej: złożyć
 a) zawężenie limitów 1, 2, 3, 4 1, 2 IA wewnątrzprocesowych
 b) dodanie nowych badań i limitów 1, 2, 5, 6 1, 2, 3, 4, 6 IA wewnątrzprocesowych
 c) wykreślenie nieistotnego badania 1, 2, 7 1, 2, 5 IA wewnątrzprocesowego
@@ -429,8 +428,7 @@ f) dodanie lub zastąpienie badania wewnątrzprocesowego ze względu na 1, 2, 3,
 4. Metoda badania nie ulega zmianie lub zmiany w metodzie badania są niewielkie
 5. Żadna nowa metoda badania nie dotyczy nowatorskiej, niestandardowej techniki ani standardowej techniki stosowanej w nowatorski sposób
 6. Nowa metoda badania nie należy do metod biologicznych, immunologicznych lub immunochemicznych ani metod przy użyciu odczynnika biologicznego dla biologicznej substancji czynnej (z wyjątkiem standardowych farmakopealnych metod mikrobiologicznych)
-7. Nie dotyczy parametrów krytycznych, takich jak: oznaczenie zawartości, zanieczyszczenia (pod warunkiem, że dany rozpuszczalnik nie jest stosowany w procesie wytwarzania substancji czynnej), fizycznych parametrów krytycznych, np.
-wielkość cząstek, badanie tożsamości, zawartość wody, gęstość nasypowa, gęstość po ubiciu, jakiegokolwiek parametru badanego nierutynowo Dokumentacja:
+7. Nie dotyczy parametrów krytycznych, takich jak: oznaczenie zawartości, zanieczyszczenia (pod warunkiem, że dany rozpuszczalnik nie jest stosowany w procesie wytwarzania substancji czynnej), fizycznych parametrów krytycznych, np. wielkość cząstek, badanie tożsamości, zawartość wody, gęstość nasypowa, gęstość po ubiciu, jakiegokolwiek parametru badanego nierutynowo Dokumentacja:
 1. Uaktualnione lub uzupełnione odpowiednie części lub moduły dokumentacji (przedstawione w formacie NTA lub CTD)
 2. Tabela porównawcza dotychczasowych i proponowanych badań lub limitów wewnątrzprocesowych
 3. Szczegóły każdej nowej niefarmakopealnej metody analitycznej i dane dotyczące walidacji, jeżeli dotyczy

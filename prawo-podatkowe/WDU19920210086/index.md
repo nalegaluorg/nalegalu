@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1992-02-15 |
 | Data wydania | 1992-03-10 |
-| Ostatnia zmiana | 2026-04-30 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920210086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/86/text.pdf) |
 
 #### Rozdział 1 Podmiot i przedmiot opodatkowania
@@ -218,8 +218,7 @@ source: pdf
 - **5a)** postępowaniu restrukturyzacyjnym – oznacza to postępowanie restrukturyzacyjne w rozumieniu ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428, z 2025 r. poz. 1085, 1170 i 1172 oraz z 2026 r. poz. 176);
 - **6)** urzędzie skarbowym – oznacza to urząd skarbowy, przy pomocy którego właściwy dla podatnika naczelnik urzędu skarbowego wykonuje swoje zadania;
 - **7)** ustawie o podatku od towarów i usług – oznacza to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811);
-- **8)** ustawie o partnerstwie publiczno-prywatnym – oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz.
-- **1637)** ;
+- **8)** ustawie o partnerstwie publiczno-prywatnym – oznacza to ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637);
 - **9)** (uchylony) 9a) samochodzie osobowym – oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu niewięcej niż 9 osób łącznie z kierowcą, z wyjątkiem:
     - **a)** pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: – klasyfikowanego na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub – z otwartą częścią przeznaczoną do przewozu ładunków,
     - **b)** pojazdu samochodowego, który posiada kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu,
@@ -361,8 +360,7 @@ source: pdf
 - **17)** Bankowy Fundusz Gwarancyjny;
 - **18)** podmiot zarządzający aktywami w rozumieniu ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2025 r. poz. 643, 1069 i 1844 oraz z 2026 r. poz. 176, 331 i 340);
 - **19)** Krajowy Ośrodek Wsparcia Rolnictwa;
-- **20)** jednostki dozoru technicznego, o których mowa w ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194 oraz z 2026 r. poz.
-- **252)** ;
+- **20)** jednostki dozoru technicznego, o których mowa w ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2024 r. poz. 1194 oraz z 2026 r. poz. 252);
 - **21)** Krajowy Zasób Nieruchomości;
 - **22)** Polską Agencję Nadzoru Audytowego, o której mowa w ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891);
 - **23)** kasy zapomogowo-pożyczkowe, o których mowa w ustawie z dnia 11 sierpnia 2021 r. o kasach zapomogowo-pożyczkowych (Dz. U. poz. 1666);
@@ -580,7 +578,7 @@ source: pdf
 
 1b. Podatnicy prowadzący działalność badawczo-rozwojową, którzy zamierzają skorzystać z odliczenia, o którym mowa w art. 18d, są obowiązani w ewidencji, o której mowa w ust. 1, wyodrębnić koszty działalności badawczo-rozwojowej.
 
-1c. Podatnicy prowadzący księgi rachunkowe są obowiązani prowadzić te księgi przy użyciu programów komputerowych oraz przesyłać właściwemu naczelnikowi urzędu skarbowego te księgi po zakończeniu roku podatkowego, w terminie do dnia upływu terminu złożenia zeznania, o którym mowa w art. 27 ust. 1, albo deklaracji, o której mowa w art. 28r ust. 1, za pomocą środków komunikacji elektronicznej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 Ordynacji podatkowej, na zasadach dotyczących przesyłania ksiąg podatkowych lub ich części określonych w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej.
+1c. Podatnicy prowadzący księgi rachunkowe są obowiązani prowadzić te księgi przy użyciu programów komputerowych oraz przesyłać właściwemu naczelnikowi urzędu skarbowego te księgi po zakończeniu roku podatkowego, w terminie [do dnia upływu terminu złożenia zeznania, o którym mowa w art. 27 ust. 1, albo deklaracji, o której mowa w art. 28r ust. 1] <do końca siódmego miesiąca po zakończeniu roku podatkowego>, za pomocą środków komunikacji elektronicznej, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 Ordynacji podatkowej, na zasadach dotyczących przesyłania ksiąg podatkowych lub ich części określonych w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej.
 
 1d. Z obowiązku, o którym mowa w ust. 1c, są zwolnieni podatnicy:
 
@@ -588,11 +586,13 @@ source: pdf
 - **2)** o których mowa w art. 27a;
 - **3)** prowadzący uproszczoną ewidencję przychodów i kosztów.
 
-1e. W przypadku spółek niebędących osobami prawnymi, których wspólnikami nie są wyłącznie osoby fizyczne, do prowadzenia ksiąg rachunkowych przy użyciu programów komputerowych i przesyłania tych ksiąg właściwemu naczelnikowi urzędu skarbowego, na podstawie ust. 1c, są obowiązane te spółki, przy czym księgi te są przekazywane w terminie do końca trzeciego miesiąca po zakończeniu roku obrotowego tych spółek.
+1e. W przypadku spółek niebędących osobami prawnymi, których wspólnikami nie są wyłącznie osoby fizyczne, do prowadzenia ksiąg rachunkowych przy użyciu programów komputerowych i przesyłania tych ksiąg właściwemu naczelnikowi urzędu skarbowego, na podstawie ust. 1c, są obowiązane te spółki, przy czym księgi te są przekazywane w terminie do końca [trzeciego] <siódmego> miesiąca po zakończeniu roku obrotowego tych spółek.
 
 1f. W przypadku, o którym mowa w ust. 1e, księgi rachunkowe są przesyłane naczelnikowi urzędu skarbowego właściwemu według miejsca prowadzenia działalności, a w przypadku prowadzenia działalności w więcej niż jednym miejscu – naczelnikowi urzędu skarbowego właściwemu według miejsca siedziby. W przypadku gdy nie jest możliwe ustalenie właściwości naczelnika urzędu skarbowego na podstawie zdania pierwszego, właściwość tę ustala się według miejsca siedziby jednego ze wspólników będącego podatnikiem.
 
 1g. Przepis ust. 1c stosuje się odpowiednio do spółek tworzących podatkową grupę kapitałową.
+
+1h. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a Ordynacji podatkowej obejmuje również upoważnienie do podpisywania ksiąg rachunkowych przesyłanych na podstawie ust. 1c i 1e.
 
 2. Jeżeli ustalenie dochodu (straty) w sposób określony w ust. 1 nie jest możliwe, dochód (stratę) ustala się w drodze oszacowania.
 
@@ -3861,9 +3861,7 @@ source: pdf
 
 - **5)** jeżeli w roku podatkowym większość uzyskanych przez nich przychodów innych niż z zysków kapitałowych zostało osiągniętych w związku z:
     - **a)** eksploatacją w transporcie międzynarodowym statków morskich lub statków powietrznych,
-    - **b)** wydobywaniem kopalin wymienionych w załączniku do ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz.
-
-- **69)** , których ceny zależą bezpośrednio lub pośrednio od notowań na światowych rynkach,
+    - **b)** wydobywaniem kopalin wymienionych w załączniku do ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2026 r. poz. 69), których ceny zależą bezpośrednio lub pośrednio od notowań na światowych rynkach,
     - **c)** wykonywaniem działalności leczniczej, o której mowa w art. 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej,
     - **d)** transakcjami, o których mowa w ust. 2 pkt 2;
 
@@ -5012,7 +5010,7 @@ source: pdf
 
 - **2)** 23 % w roku podatkowym:
     - **a)** rozpoczynającym się w 2027 r. – w przypadku podatnika utworzonego po dniu 31 grudnia 2026 r.,
-    - **b)** następującym bezpośrednio po roku, w którym zastosowano zgodnie z pkt 1 stawkę podatku w wysokości 23 % – w przypadku podatnika utworzonego przed dniem 1 stycznia 2026 r.,
+    - **b)** następującym bezpośrednio po roku, w którym zastosowano zgodnie z pkt 1 stawkę podatku w wysokości [23 %] <27 %> – w przypadku podatnika utworzonego przed dniem 1 stycznia 2026 r.,
     - **c)** kolejno następującym po roku określonym w lit. b – w przypadku gdy łączny dotychczasowy okres opodatkowania stawką 23 % trwał krócej niż dwanaście kolejnych miesięcy kalendarzowych.
 
 2. Podatnicy, o których mowa w art. 19 ust. 1 pkt 4, wpłacający zaliczki w formie uproszczonej na zasadach określonych w art. 25 ust. 6 albo 6a, są obowiązani do wpłaty tych zaliczek w wysokości kwoty określonej zgodnie z tymi przepisami:
@@ -5081,8 +5079,7 @@ source: pdf
 1. Podatnik może od dochodu z innych źródeł przychodów niż zyski kapitałowe, ustalonego zgodnie z art. 7, odliczyć poniesione w 2021 r.:
 
 - **1)** wydatki na nabycie zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego,
-- **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz.
-- **889)** ,
+- **2)** opłaty z tytułu umowy na obsługę zewnętrznego systemu lokalizacyjnego albo urządzenia pokładowego, o której mowa w art. 13i ust. 3b zdaniu drugim ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889),
 - **3)** opłaty z tytułu umowy leasingu, najmu lub dzierżawy zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego lub innej umowy o podobnym charakterze, na podstawie której taki system albo takie urządzenie zostały oddane do używania – pomniejszone o podatek od towarów i usług.
 
 2. Wydatki i opłaty, o których mowa w ust. 1, podlegają odliczeniu do wysokości kwoty stanowiącej iloczyn 500 zł oraz liczby zewnętrznych systemów lokalizacyjnych lub urządzeń pokładowych, przy czym liczba tych systemów lub urządzeń nie może być większa niż liczba pojazdów, które wykonały w 2021 r. co najmniej jeden przejazd, za który podatnik, a w przypadku podatników będących wspólnikami spółki niebędącej osobą prawną – ta spółka, uiścili opłatę elektroniczną z wykorzystaniem tego zewnętrznego systemu lokalizacyjnego lub urządzenia pokładowego.

@@ -69,9 +69,7 @@ source: pdf
     - **b)** za granicą – jest działalność gospodarcza w rozumieniu przepisów państwa, w którym jest ona wykonywana;
 
 - **20)** uprawnionym bankiem jest:
-    - **a)** bank mający siedzibę w kraju, który zgodnie z określonym w statucie przedmiotem działalności jest uprawniony do wykonywania czynności bankowej, o której mowa w art. 5 ust. 2 pkt 10 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz.
-
-- **879)** ,
+    - **a)** bank mający siedzibę w kraju, który zgodnie z określonym w statucie przedmiotem działalności jest uprawniony do wykonywania czynności bankowej, o której mowa w art. 5 ust. 2 pkt 10 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879),
     - **b)** utworzony w kraju oddział banku zagranicznego, który zgodnie z określonym w zezwoleniu na jego utworzenie przedmiotem działalności, jest uprawniony do wykonywania czynności bankowej, o której mowa w art. 5 ust. 2 pkt 10 ustawy wymienionej w lit. a,
     - **c)** utworzony w kraju oddział instytucji kredytowej, która jest uprawniona do wykonywania w państwie macierzystym czynności objętych czynnością bankową, o której mowa w art. 5 ust. 2 pkt 10 ustawy wymienionej w lit. a.
 
@@ -513,9 +511,7 @@ source: pdf
 - **1)** osobach krajowych w rozumieniu prawa dewizowego lub przepisów prawa dewizowego, należy przez to rozumieć rezydentów, o których mowa w art. 2 ust. 1 pkt 1;
 - **2)** osobach zagranicznych w rozumieniu prawa dewizowego lub przepisów prawa dewizowego, należy przez to rozumieć nierezydentów, o których mowa w art. 2 ust. 1 pkt 2.
 
-**Art. 60.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 2 grudnia 1994 r. – Prawo dewizowe (Dz. U. poz. 703, z 1995 r. poz. 641, z 1996 r. poz. 496 oraz z 1997 r. poz. 449) lub ustawie z dnia 18 grudnia 1998 r. – Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz.
-
-- **676)** , należy przez to rozumieć niniejszą ustawę.
+**Art. 60.** Ilekroć w obowiązujących przepisach jest mowa o ustawie z dnia 2 grudnia 1994 r. – Prawo dewizowe (Dz. U. poz. 703, z 1995 r. poz. 641, z 1996 r. poz. 496 oraz z 1997 r. poz. 449) lub ustawie z dnia 18 grudnia 1998 r. – Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676), należy przez to rozumieć niniejszą ustawę.
 
 **Art. 61.** Traci moc ustawa z dnia 18 grudnia 1998 r. – Prawo dewizowe (Dz. U. poz. 1063, z 1999 r. poz. 931, z 2000 r. poz. 1099 oraz z 2002 r. poz. 676).
 

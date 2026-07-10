@@ -479,8 +479,7 @@ source: pdf
 
 3. Przez sprzedaż detaliczną, o której mowa w ust. 2, rozumie się dokonywanie na terytorium Rzeczypospolitej Polskiej, w ramach działalności gospodarczej zbywcy, odpłatnego zbywania towarów konsumentom na podstawie umowy zawartej:
 
-- **1)** w lokalu przedsiębiorstwa w rozumieniu art. 2 pkt 3 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz.
-- **1172)** ,
+- **1)** w lokalu przedsiębiorstwa w rozumieniu art. 2 pkt 3 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172),
 - **2)** poza lokalem przedsiębiorstwa w rozumieniu art. 2 pkt 2 ustawy z dnia 30 maja 2014 r. o prawach konsumenta – także w przypadku, gdy zbywaniu towaru towarzyszy świadczenie usługi odrębnie niezaewidencjonowanej.
 
 **Art. 12b.**

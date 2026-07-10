@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 7 lipca 1994 r. - Prawo budowlane.*
 
 Łącznie: **3134** orzeczeń w **180** artykułach
-(pominięto 3174 orzeczeń sądów rejonowych)
+(pominięto 3178 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).

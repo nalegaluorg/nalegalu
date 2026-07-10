@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-03-20 |
 | Data wydania | 2025-05-12 |
-| Ostatnia zmiana | 2026-06-05 |
+| Ostatnia zmiana | 2026-06-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000621) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/621/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -411,7 +411,7 @@ source: pdf
 1. Podmiot powierzający pracę cudzoziemcowi, któremu wydano zezwolenie na pracę:
 
 - **1)** uwzględnia w umowie z cudzoziemcem warunki określone w zezwoleniu na pracę lub zmianę warunków, która nie wymaga zmiany lub uzyskania nowego zezwolenia na pracę;
-- **2)** przekazuje organowi, który wydał zezwolenie na pracę, kopię umowy z cudzoziemcem w języku polskim, za pomocą systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 7 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, przed powierzeniem pracy cudzoziemcowi, a w przypadku kiedy cudzoziemcowi powierzono pracę na podstawie umowy o pomocy przy zbiorach – w terminie 7 dni od dnia powierzenia pracy;
+- **2)** przekazuje organowi, który wydał zezwolenie na pracę, umowę z cudzoziemcem w języku polskim za pomocą systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 7 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, lub kopię umowy z cudzoziemcem w języku polskim za pomocą systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 7 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, przed powierzeniem pracy cudzoziemcowi, a w przypadku gdy cudzoziemcowi powierzono pracę na podstawie umowy o pomocy przy zbiorach – w terminie 7 dni od dnia powierzenia pracy;
 - **3)** w przypadku, o którym mowa w art. 6 ust. 1 pkt 1, dostosowuje wysokość wynagrodzenia cudzoziemca do kwoty nie niższej niż aktualna wysokość minimalnego wynagrodzenia za pracę lub kwota określona według minimalnej stawki godzinowej, o których mowa w przepisach o minimalnym wynagrodzeniu za pracę;
 - **4)** w przypadku, o którym mowa w art. 6 ust. 1 pkt 3, dostosowuje wysokość wynagrodzenia cudzoziemca do kwoty nie niższej niż 70 % aktualnej wysokości przeciętnego miesięcznego wynagrodzenia w województwie, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 30 ust. 2 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2024 r. poz. 1440 i 1635);
 - **5)** podwyższa wynagrodzenie cudzoziemca proporcjonalnie do zwiększenia wymiaru czasu pracy cudzoziemca zatrudnionego w niepełnym wymiarze czasu pracy lub liczby godzin, w których cudzoziemiec wykonuje pracę na podstawie umowy cywilnoprawnej;
@@ -1010,7 +1010,7 @@ source: pdf
 1. Polski podmiot powierzający pracę cudzoziemcowi, którego oświadczenie o powierzeniu pracy cudzoziemcowi zostało wpisane do ewidencji oświadczeń:
 
 - **1)** uwzględnia w umowie z cudzoziemcem warunki określone w oświadczeniu o powierzeniu pracy cudzoziemcowi lub zmianę warunków, która nie wymaga nowego oświadczenia;
-- **2)** przekazuje organowi, który wpisał oświadczenie o powierzeniu pracy cudzoziemcowi do ewidencji oświadczeń, kopię umowy z cudzoziemcem w języku polskim, za pomocą systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 7 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, przed powierzeniem pracy cudzoziemcowi;
+- **2)** przekazuje organowi, który wpisał oświadczenie o powierzeniu pracy cudzoziemcowi do ewidencji oświadczeń, umowę z cudzoziemcem w języku polskim za pomocą systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 7 lit. a ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, lub kopię umowy z cudzoziemcem w języku polskim za pomocą systemu teleinformatycznego, o którym mowa w art. 26 ust. 1 pkt 7 lit. b ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia, przed powierzeniem pracy cudzoziemcowi;
 - **3)** dostosowuje wysokość wynagrodzenia cudzoziemca do kwoty nie niższej niż aktualna wysokość minimalnego wynagrodzenia za pracę lub kwota określona według minimalnej stawki godzinowej, o których mowa w przepisach o minimalnym wynagrodzeniu za pracę;
 - **4)** podwyższa wynagrodzenie cudzoziemca proporcjonalnie do zwiększenia wymiaru czasu pracy cudzoziemca zatrudnionego w niepełnym wymiarze czasu pracy lub liczby godzin, w których cudzoziemiec wykonuje pracę na podstawie umowy cywilnoprawnej;
 - **5)** przekazuje cudzoziemcowi oświadczenie o powierzeniu pracy cudzoziemcowi wpisane do ewidencji oświadczeń;

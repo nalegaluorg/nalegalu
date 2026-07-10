@@ -21,6 +21,8 @@ saos_id|date|court|case_number|type|score|saos_url
 164042|2006-02-15|SN|IV CSK 17/05|Wyrok|78|https://www.saos.org.pl/judgments/164042
 97120|2012-02-10|SN|II PK 180/11|Postanowienie|69|https://www.saos.org.pl/judgments/97120
 545666|2026-02-27|SO|I ACa 2429/25|Wyrok|56|https://www.saos.org.pl/judgments/545666
+547468|2026-02-16|SO|I ACa 783/23|Wyrok|56|https://www.saos.org.pl/judgments/547468
+547714|2026-02-09|SO|I ACa 493/23|Wyrok|56|https://www.saos.org.pl/judgments/547714
 541278|2026-01-20|SO|I ACa 2738/23|Wyrok|56|https://www.saos.org.pl/judgments/541278
 541814|2025-12-29|SO|I ACa 252/23|Wyrok|56|https://www.saos.org.pl/judgments/541814
 540661|2025-12-22|SO|I ACa 2399/23|Wyrok|56|https://www.saos.org.pl/judgments/540661
@@ -93,6 +95,8 @@ saos_id|date|court|case_number|type|score|saos_url
 536413|2024-09-25|SO|I ACa 1318/22|Wyrok|56|https://www.saos.org.pl/judgments/536413
 545058|2024-09-23|SO|V ACa 1729/23|Wyrok|56|https://www.saos.org.pl/judgments/545058
 517035|2024-09-20|SO|V ACa 795/22|Wyrok|56|https://www.saos.org.pl/judgments/517035
+547694|2024-09-09|SO|V ACa 2019/23|Wyrok|56|https://www.saos.org.pl/judgments/547694
+547621|2024-09-09|SO|V ACa 873/23|Wyrok|56|https://www.saos.org.pl/judgments/547621
 545118|2024-09-09|SO|V ACa 1721/23|Wyrok|56|https://www.saos.org.pl/judgments/545118
 494696|2024-09-03|SO|I ACa 891/22|Wyrok|56|https://www.saos.org.pl/judgments/494696
 541805|2024-08-30|SO|I ACa 2267/23|Wyrok|56|https://www.saos.org.pl/judgments/541805
@@ -218,6 +222,8 @@ saos_id|date|court|case_number|type|score|saos_url
 509857|2022-12-06|SO|V ACa 762/22|Wyrok|56|https://www.saos.org.pl/judgments/509857
 509853|2022-12-06|SO|V ACa 726/22|Wyrok|56|https://www.saos.org.pl/judgments/509853
 510573|2022-12-05|SO|VI ACa 41/22|Wyrok|56|https://www.saos.org.pl/judgments/510573
+547780|2022-11-18|SO|V ACa 566/22|Wyrok|56|https://www.saos.org.pl/judgments/547780
+547747|2022-11-18|SO|V ACa 507/22|Wyrok|56|https://www.saos.org.pl/judgments/547747
 483067|2022-11-17|SO|VI ACa 1009/21|Wyrok|56|https://www.saos.org.pl/judgments/483067
 509792|2022-11-14|SO|V ACa 442/22|Wyrok|56|https://www.saos.org.pl/judgments/509792
 509839|2022-11-10|SO|V ACa 642/22|Wyrok|56|https://www.saos.org.pl/judgments/509839

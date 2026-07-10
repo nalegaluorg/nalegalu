@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-07 |
 | Data wydania | 2023-08-10 |
-| Ostatnia zmiana | 2026-03-03 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001587) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1587/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -590,7 +590,7 @@ source: pdf
 6i. W przypadku miejsca magazynowania lub składowania odpadów:
 
 - **1)** w jednostkach organizacyjnych podległych albo nadzorowanych przez Ministra Obrony Narodowej,
-- **2)** stanowiącego element obiektów, instalacji, urządzeń i usług ujętych w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122) – nie stosuje się przepisów ust. 6f–6h.
+- **2)** stanowiącego element infrastruktury krytycznej ujętej w wykazie, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2026 r. poz. 574 i 815) – nie stosuje się przepisów ust. 6f–6h.
 
 6j. Przepisów ust. 6a–6i nie stosuje się do odpadów wymienionych w załączniku nr 2a do ustawy oraz odpadów uznanych za niepalne zgodnie z art. 3 ust. 3c, niebędących odpadami niebezpiecznymi.
 
@@ -3821,7 +3821,7 @@ source: pdf
 
 **Art. 226a.**
 
-1. W okresie do dnia 31 grudnia 2026 r. zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów nie wygasa ze względu na upływ czasu, na jaki zostało wydane, jeżeli posiadacz odpadów w terminie nie później niż trzy miesiące przed upływem tego czasu złoży wniosek o wydanie nowego zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów.
+11¹. W okresie do dnia 31 grudnia 2026 r. zezwolenie na zbieranie odpadów lub zezwolenie na przetwarzanie odpadów nie wygasa ze względu na upływ czasu, na jaki zostało wydane, jeżeli posiadacz odpadów w terminie nie później niż trzy miesiące przed upływem tego czasu złoży wniosek o wydanie nowego zezwolenia na zbieranie odpadów lub zezwolenia na przetwarzanie odpadów.
 
 2. Dotychczasowe zezwolenie na zbieranie odpadów zezwolenie na przetwarzanie odpadów wygasa w dniu następującym po dniu, w którym:
 

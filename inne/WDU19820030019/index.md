@@ -1699,9 +1699,7 @@ source: pdf
 
 1. Organ prowadzący szkołę lub placówkę może określić przypadki, w jakich nauczycielowi zatrudnionemu w pełnym wymiarze zajęć można obniżyć tygodniowy obowiązkowy wymiar godzin zajęć, oraz warunki i tryb tego obniżenia.
 
-1a. Nauczycielowi niepełnosprawnemu zaliczonemu do znacznego lub umiarkowanego stopnia niepełnosprawności, dla którego maksymalny tygodniowy wymiar czasu pracy jest ustalany zgodnie z art. 15 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz.
-
-- **26)** , obniża się tygodniowy obowiązkowy wymiar godzin zajęć proporcjonalnie do obniżenia maksymalnego tygodniowego wymiaru czasu pracy, z zaokrągleniem do pełnych godzin w ten sposób, że czas zajęć do pół godziny pomija się, a powyżej pół godziny liczy się za pełną godzinę.
+1a. Nauczycielowi niepełnosprawnemu zaliczonemu do znacznego lub umiarkowanego stopnia niepełnosprawności, dla którego maksymalny tygodniowy wymiar czasu pracy jest ustalany zgodnie z art. 15 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26), obniża się tygodniowy obowiązkowy wymiar godzin zajęć proporcjonalnie do obniżenia maksymalnego tygodniowego wymiaru czasu pracy, z zaokrągleniem do pełnych godzin w ten sposób, że czas zajęć do pół godziny pomija się, a powyżej pół godziny liczy się za pełną godzinę.
 
 2. Obniżenie tygodniowego obowiązkowego wymiaru godzin zajęć nie może spowodować zmniejszenia wynagrodzenia oraz ograniczenia innych uprawnień nauczyciela.
 

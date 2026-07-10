@@ -115,10 +115,8 @@ source: pdf
 - **15)** Prezesa Urzędu Lotnictwa Cywilnego – w odniesieniu do obiektów budowanych na terenach pozostających w zasięgu ograniczeń wysokości zabudowy na lotnisku i w jego otoczeniu zgodnie z przepisami ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110 oraz z 2024 r. poz. 731 i 1222);
 - **16)** ministra właściwego do spraw gospodarki morskiej – w odniesieniu do nieruchomości, o których mowa w art. 3 ust. 1 ustawy o portach;
 - **17)** dyrektora parku narodowego – w odniesieniu do obszarów położonych w granicach parku i jego otuliny, zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478);
-- **18)** Ministra Obrony Narodowej – w odniesieniu do inwestycji mogących oddziaływać na: o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz.
+- **18)** Ministra Obrony Narodowej – w odniesieniu do inwestycji mogących oddziaływać na: o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130),
     - **a)** tereny zamknięte niezbędne dla obronności państwa, ustalone na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, oraz na ich strefy ochronne, o których mowa w ustawie z dnia 27 marca 2003 r.
-
-- **1130)** ,
     - **b)** strefy zamknięte dla żeglugi i rybołówstwa niezbędne dla obronności państwa, ustalone na podstawie ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
 
 - **19)** Głównego Inspektora Ochrony Środowiska – w odniesieniu do prowadzenia państwowego monitoringu środowiska, zgodnie z ustawą z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz. 425);

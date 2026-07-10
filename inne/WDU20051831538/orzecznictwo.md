@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi*
 
 Łącznie: **158** orzeczeń
-(pominięto 349 orzeczeń sądów rejonowych)
+(pominięto 350 orzeczeń sądów rejonowych)
 
 ## art. 1 (4)
 

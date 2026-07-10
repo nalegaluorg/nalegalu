@@ -737,9 +737,7 @@ source: pdf
 
 § 1a. W przypadku wydania postanowienia o pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału w egzaminie wstępnym albo złożenia niepóźniej niż 14 dni przed terminem egzaminu wstępnego pisemnego oświadczenia kandydata o odstąpieniu od udziału w egzaminie wstępnym, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji kwalifikacyjnej w terminie 30 dni od dnia złożenia tego wniosku.
 
-§ 2. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Notarialnej określa, w drodze rozporządzenia, wysokość opłaty – niewyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz.
-
-- **1773)** , zwanego dalej „minimalnym wynagrodzeniem” – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu wstępnego.
+§ 2. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Notarialnej określa, w drodze rozporządzenia, wysokość opłaty – niewyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), zwanego dalej „minimalnym wynagrodzeniem” – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu wstępnego.
 
 **Art. 71f.**
 
@@ -1331,13 +1329,9 @@ source: pdf
 
 § 5. (uchylony)
 
-§ 6. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości dokonane przez osobę, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości na podstawie art. 1 ust. 1, 2 albo ust. 3 ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. z 2024 r. poz.
+§ 6. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości dokonane przez osobę, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości na podstawie art. 1 ust. 1, 2 albo ust. 3 ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. z 2024 r. poz. 900), przed upływem 5 lat, licząc od dnia przekształcenia, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis organowi, który wydał decyzję o przekształceniu.
 
-- **900)** , przed upływem 5 lat, licząc od dnia przekształcenia, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis organowi, który wydał decyzję o przekształceniu.
-
-§ 7. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości lub prawa, o którym mowa w art. 4 ust. 2 ustawy z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym (Dz. U. z 2025 r. poz.
-
-- **573)** , na których ustanowiono zabezpieczenie odwróconego kredytu hipotecznego ujawnione w księdze wieczystej, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis bankowi, którego prawo ujawniono w tej księdze wieczystej.
+§ 7. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości lub prawa, o którym mowa w art. 4 ust. 2 ustawy z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym (Dz. U. z 2025 r. poz. 573), na których ustanowiono zabezpieczenie odwróconego kredytu hipotecznego ujawnione w księdze wieczystej, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis bankowi, którego prawo ujawniono w tej księdze wieczystej.
 
 § 8. Jeżeli akt notarialny dotyczy umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27), albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy, a deweloper jest właścicielem lub wieczystym użytkownikiem nieruchomości, notariusz sporządzający akt notarialny składa wniosek o wpis w księdze wieczystej roszczenia nabywcy, o którym mowa w art. 38 ust. 2 tej ustawy, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe.
 

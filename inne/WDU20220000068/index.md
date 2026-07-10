@@ -351,8 +351,7 @@ c) opis doboru osprzętu zabezpieczającego, automatyki zabezpieczającej, osprz
 4. Każdy napełniony zbiornik przenośny powinien być opatrzony znakiem identyfikującym wyłącznie ostatni zakład napełniający. Oznaczenie znakiem identyfikującym powinno zawierać się w powierzchni o wymiarach 5 cm × 5 cm, a sposób jego naniesienia nie powinien naruszać powłoki zbiornika.
 5. zbiorniki przenośne mogą być napełniane tylko przez osoby, które posiadają zaświadczenia kwalifikacyjne wydane przez organ właściwej jednostki dozoru technicznego.
 6. Dla zbiorników przenośnych używanych jako próbniki do poboru czynnika w instalacjach petrochemicznych nie mają zastosowania przepisy ust. 1 i 4.
-§ 62. 1. Wszystkie oznaczenia na zbiorniku przenośnym niedopuszczonym do eksploatacji ze względu na stan techniczny i nieprzeznaczonym do naprawy należy, w obecności inspektora przeprowadzającego badanie, odpowiednio usunąć, np.
-przez zasiatkowanie lub w inny trwały sposób odpowiedni do metody oznaczania przez zgłaszającego do badania.
+§ 62. 1. Wszystkie oznaczenia na zbiorniku przenośnym niedopuszczonym do eksploatacji ze względu na stan techniczny i nieprzeznaczonym do naprawy należy, w obecności inspektora przeprowadzającego badanie, odpowiednio usunąć, np. przez zasiatkowanie lub w inny trwały sposób odpowiedni do metody oznaczania przez zgłaszającego do badania.
 2. zbiornik niedopuszczony do eksploatacji, o którym mowa w ust. 1, powinien zostać pozbawiony cech użytkowych przez eksploatującego lub na jego zlecenie, w sposób uniemożliwiający jego dalszą eksploatację.
 § 63. Maksymalny okres eksploatacji zbiorników przenośnych nie może przekraczać okresu określonego przez wytwórcę w instrukcji eksploatacji lub oznaczonego na zbiorniku.
 § 64. Niedopuszczalne jest usuwanie:

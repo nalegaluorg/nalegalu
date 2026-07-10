@@ -341,12 +341,10 @@ source: pdf
 - **1)** w podmiotach leczniczych, o których mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799 i 1897 oraz z 2025 r. poz. 129);
 - **2)** w ramach ratownictwa górskiego i ratownictwa narciarskiego w rozumieniu odpowiednio art. 2 pkt 7 i 8 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. z 2023 r. poz. 1154);
 - **3)** w ramach ratownictwa wodnego w rozumieniu art. 2 pkt 4 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2023 r. poz. 714);
-- **4)** w ramach ratownictwa górniczego, o którym mowa w art. 122 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz.
-- **1290)** ;
+- **4)** w ramach ratownictwa górniczego, o którym mowa w art. 122 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290);
 - **5)** w ramach Morskiej Służby Poszukiwania i Ratownictwa, o której mowa w art. 116 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068 i 1933);
 - **6)** w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych niebędących podmiotami leczniczymi;
-- **7)** w jednostkach ochrony przeciwpożarowej, o których mowa w art. 15 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz.
-- **188)** , włączonych do krajowego systemu ratowniczo-gaśniczego, podczas działań ratowniczych, ćwiczeń oraz szkoleń;
+- **7)** w jednostkach ochrony przeciwpożarowej, o których mowa w art. 15 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188), włączonych do krajowego systemu ratowniczo-gaśniczego, podczas działań ratowniczych, ćwiczeń oraz szkoleń;
 - **8)** w ramach działań kontrterrorystycznych realizowanych przez służby podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane;
 - **9)** w ramach zadań Policji, o których mowa w art. 1 ust. 2 pkt 1–4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. ), oraz zadań realizowanych w Akademii Policji w Szczytnie i szkołach policyjnych, o których mowa w art. 4 ust. 3 pkt 1 tej ustawy;
 - **10)** w ramach zadań Służby Ochrony Państwa, o których mowa w art. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r. poz. 1871 oraz z 2025 r. poz. 179);

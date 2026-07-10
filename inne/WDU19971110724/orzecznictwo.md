@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 21 sierpnia 1997 r. o ochronie zwierząt.*
 
 Łącznie: **197** orzeczeń
-(pominięto 741 orzeczeń sądów rejonowych)
+(pominięto 743 orzeczeń sądów rejonowych)
 
 ## art. 1 (27)
 

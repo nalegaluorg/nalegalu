@@ -56,6 +56,8 @@ saos_id|date|court|case_number|type|score|saos_url
 81629|2002-10-09|SN|II UZ 94/02|Postanowienie|69|https://www.saos.org.pl/judgments/81629
 81422|2002-05-28|SN|II UKN 356/01|Postanowienie|69|https://www.saos.org.pl/judgments/81422
 81320|2002-03-27|SN|III RN 9/01|Postanowienie|69|https://www.saos.org.pl/judgments/81320
+547689|2026-05-13|SO|III AUa 2142/24|Wyrok|56|https://www.saos.org.pl/judgments/547689
+547775|2026-04-23|SO|III AUa 753/25|Wyrok|56|https://www.saos.org.pl/judgments/547775
 543714|2025-11-25|SO|III AUa 1031/25|Wyrok|56|https://www.saos.org.pl/judgments/543714
 538755|2025-11-21|SO|III AUa 147/25|Wyrok|56|https://www.saos.org.pl/judgments/538755
 545508|2025-11-04|SO|III AUa 1418/25|Wyrok|56|https://www.saos.org.pl/judgments/545508
@@ -2735,6 +2737,8 @@ saos_id|date|court|case_number|type|score|saos_url
 546611|2026-04-23|SO|VII U 506/25|Wyrok|40|https://www.saos.org.pl/judgments/546611
 545129|2026-03-31|SO|VII U 1729/25|Wyrok|40|https://www.saos.org.pl/judgments/545129
 545651|2026-03-10|SO|VII U 1534/24|Wyrok|40|https://www.saos.org.pl/judgments/545651
+547638|2026-03-09|SO|VI U 492/24|Wyrok|40|https://www.saos.org.pl/judgments/547638
+547425|2026-02-27|SO|IV U 245/22|Wyrok|40|https://www.saos.org.pl/judgments/547425
 542771|2026-02-13|SO|VII U 1450/24|Wyrok|40|https://www.saos.org.pl/judgments/542771
 542775|2026-02-11|SO|VII U 969/24|Wyrok|40|https://www.saos.org.pl/judgments/542775
 542818|2026-01-29|SO|VII U 1471/25|Wyrok|40|https://www.saos.org.pl/judgments/542818

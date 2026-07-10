@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-12 |
 | Data wydania | 2023-07-13 |
-| Ostatnia zmiana | 2025-08-22 |
+| Ostatnia zmiana | 2026-06-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001342) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1342/text.pdf) |
 
 w sprawie zakresu danych i wykazu rejestrów publicznych oraz systemów teleinformatycznych podmiotów publicznych, z których użytkownik aplikacji mObywatel może pobrać dane Na podstawie art. 6 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234) zarządza się, co następuje:

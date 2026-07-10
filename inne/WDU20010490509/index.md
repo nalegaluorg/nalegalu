@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2001-04-11 |
 | Data wydania | 2001-05-21 |
-| Ostatnia zmiana | 2026-03-09 |
+| Ostatnia zmiana | 2026-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010490509) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/509/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -46,10 +46,10 @@ source: pdf
     - **b)** zwalczanie nieuczciwej konkurencji;
 
 - **2)** państwach członkowskich – rozumie się przez to państwa członkowskie Unii Europejskiej, Konfederację Szwajcarską oraz państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
-- **3)** obywatelach państw członkowskich – rozumie się przez to: 519, 185 i 547),
-    - **a)** obywateli państw członkowskich oraz członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633),
+- **3)** obywatelach państw członkowskich – rozumie się przez to: 1079 i 1794 oraz z 2026 r. poz. 203),
+    - **a)** obywateli państw członkowskich oraz członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164 i 1794),
     - **b)** obywateli państw trzecich, jeżeli przysługuje im prawo podjęcia zatrudnienia lub samozatrudnienia na terytorium Rzeczypospolitej Polskiej,
-    - **c)** cudzoziemców posiadających zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz.
+    - **c)** cudzoziemców posiadających zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz.
     - **d)** cudzoziemców, którym w Rzeczypospolitej Polskiej nadano status uchodźcy lub udzielono ochrony uzupełniającej;
 
 - **4)** usługach transgranicznych – rozumie się przez to tymczasowe i okazjonalne wykonywanie czynności z zakresu pomocy w sprawach własności przemysłowej przez osoby, o których mowa w pkt 3, uprawnione do wykonywania tych czynności w państwie członkowskim;
@@ -130,7 +130,7 @@ source: pdf
 
 3. Rzecznik patentowy ma prawo sporządzania poświadczeń odpisów dokumentów za zgodność z okazanym oryginałem w zakresie określonym odrębnymi przepisami. Poświadczenie powinno zawierać podpis rzecznika patentowego, datę i oznaczenie miejsca jego sporządzenia, na żądanie – również godzinę dokonania czynności. Jeżeli dokument zawiera cechy szczególne (dopiski, poprawki lub uszkodzenia) rzecznik patentowy stwierdza to w poświadczeniu.
 
-4. Rzecznik patentowy może poświadczyć dokument w postaci elektronicznej w systemach teleinformatycznych, o których mowa w art. 175da ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907 oraz z 2025 r. poz. 526, 820 i 1172), w sposób w nich przewidziany.
+4. Rzecznik patentowy może poświadczyć dokument w postaci elektronicznej w systemach teleinformatycznych, o których mowa w art. 175da ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ), w sposób w nich przewidziany.
 
 **Art. 10.**
 
@@ -176,7 +176,7 @@ source: pdf
 
 4. Koszty, o których mowa w ust. 1, obejmują:
 
-- **1)** koszty zastępstwa w wysokości nie wyższej niż 150 % stawek minimalnych opłat w postępowaniu przed sądami administracyjnymi, określonych w przepisach wykonawczych wydanych na podstawie art. 13 ust. 2, oraz
+- **1)** koszty zastępstwa w wysokości niewyższej niż 150 % stawek minimalnych opłat w postępowaniu przed sądami administracyjnymi, określonych w przepisach wykonawczych wydanych na podstawie art. 13 ust. 2, oraz
 - **2)** niezbędne udokumentowane wydatki rzecznika patentowego.
 
 5. Wniosek o przyznanie kosztów nieopłaconej pomocy prawnej zawiera oświadczenie, że koszty te nie zostały zapłacone w całości lub w części.
@@ -188,7 +188,7 @@ source: pdf
 2. Obowiązek zachowania tajemnicy zawodowej nie dotyczy informacji:
 
 - **1)** udostępnianych na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
-- **2)** przekazywanych na podstawie przepisów rozdziału 11a działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) – w zakresie określonym tymi przepisami.
+- **2)** przekazywanych na podstawie przepisów rozdziału 11a działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2026 r. poz. 622) – w zakresie określonym tymi przepisami.
 
 **Art. 14a.**
 
@@ -216,13 +216,13 @@ source: pdf
 
 **Art. 16a.**
 
-1. Rzecznik patentowy wykonujący zawód obowiązany jest posiadać adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
+1. Rzecznik patentowy wykonujący zawód obowiązany jest posiadać adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3 i 507), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
 
 2. Krajowa Rada Rzeczników Patentowych występuje do ministra właściwego do spraw informatyzacji o wykreślenie adresu do doręczeń elektronicznych z bazy adresów elektronicznych w przypadku prawomocnego orzeczenia dyscyplinarnego o zawieszeniu prawa wykonywania zawodu rzecznika patentowego albo pozbawieniu prawa wykonywania zawodu rzecznika patentowego.
 
 **Art. 16b.**
 
-1. Rzecznik patentowy wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334).
+1. Rzecznik patentowy wykonujący zawód jest obowiązany posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych.
 
 2. (uchylony)
 
@@ -274,7 +274,7 @@ source: pdf
 
 4b. Od wniosku o wpis na listę rzeczników patentowych albo o zmianę wpisu pobiera się opłatę, która stanowi dochód budżetu państwa.
 
-4c. Wysokość opłaty od wniosku o wpis na listę rzeczników patentowych nie może przekroczyć 3 % kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok, w którym złożono wniosek o wpis, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672), zwanego dalej „przeciętnym wynagrodzeniem”, oraz 1,5 % kwoty przeciętnego wynagrodzenia od wniosku o zmianę wpisu.
+4c. Wysokość opłaty od wniosku o wpis na listę rzeczników patentowych nie może przekroczyć 3 % kwoty przeciętnego wynagrodzenia w gospodarce narodowej w roku kalendarzowym poprzedzającym rok, w którym złożono wniosek o wpis, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26 i 425), zwanego dalej „przeciętnym wynagrodzeniem”, oraz 1,5 % kwoty przeciętnego wynagrodzenia od wniosku o zmianę wpisu.
 
 **Art. 19.**
 
@@ -290,7 +290,7 @@ source: pdf
 2. Na listę rzeczników patentowych może być wpisany także obywatel państwa członkowskiego, który:
 
 - **1)** spełnia wymogi określone w ust. 1 pkt 2 i 3;
-- **2)** nabył kwalifikacje do wykonywania zawodu rzecznika patentowego uznane zgodnie z ustawą z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334);
+- **2)** nabył kwalifikacje do wykonywania zawodu rzecznika patentowego uznane zgodnie z ustawą z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2026 r. poz. 166);
 - **3)** posługuje się językiem polskim w stopniu niezbędnym do wykonywania zawodu na terytorium Rzeczypospolitej Polskiej, w szczególności umożliwiającym w ramach wykonywania zawodu występowanie w charakterze pełnomocnika w postępowaniach przed Urzędem Patentowym, a także w postępowaniu sądowym i sądowoadministracyjnym.
 
 3. (uchylony)
@@ -341,8 +341,8 @@ source: pdf
 - **1)** w części dotyczącej wiedzy technicznej w zakresie wynalazków i wzorów użytkowych – osoby, która zdała europejski egzamin kwalifikacyjny i jest wpisana na listę zawodowych pełnomocników prowadzoną przez Europejski Urząd Patentowy;
 - **2)** w części dotyczącej wiedzy prawnej w zakresie prawa cywilnego, prawa gospodarczego, prawa administracyjnego, postępowania administracyjnego, postępowania sądowoadministracyjnego i postępowania cywilnego – osoby, która zdała egzamin adwokacki lub radcowski albo uzyskała uprawnienia adwokata lub radcy prawnego;
 - **3)** w części dotyczącej wiedzy prawnej – osoby, która uzyskała stopień naukowy doktora nauk prawnych w zakresie własności przemysłowej;
-- **4)** w części dotyczącej wiedzy prawnej lub technicznej w zakresie odpowiadającym nabytej praktyce – osoby, która przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o zwolnienie z aplikacji wykonywała na podstawie umowy o pracę lub umowy cywilnoprawnej, pod kierunkiem rzecznika patentowego, wymagające wiedzy i praktyki rzecznikowskiej czynności bezpośrednio związane ze świadczeniem pomocy w sprawach własności przemysłowej, w szczególności w kancelarii patentowej, o której mowa w art. 5, kancelarii patentowej na terytorium innego państwa członkowskiego, komórce organizacyjnej przedsiębiorcy lub w podmiocie, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), wykonujących zadania w zakresie ochrony własności przemysłowej;
-- **5)** w części dotyczącej wiedzy prawnej lub technicznej w zakresie odpowiadającym wykonywanym zadaniom – osoby, która przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o zwolnienie z aplikacji była zatrudniona w Urzędzie Patentowym na stanowisku eksperta.
+- **4)** w części dotyczącej wiedzy prawnej lub technicznej w zakresie odpowiadającym nabytej praktyce – osoby, która przez okres co najmniej 4 lat w okresie niedłuższym niż 6 lat przed złożeniem wniosku o zwolnienie z aplikacji wykonywała na podstawie umowy o pracę lub umowy cywilnoprawnej, pod kierunkiem rzecznika patentowego, wymagające wiedzy i praktyki rzecznikowskiej czynności bezpośrednio związane ze świadczeniem pomocy w sprawach własności przemysłowej, w szczególności w kancelarii patentowej, o której mowa w art. 5, kancelarii patentowej na terytorium innego państwa członkowskiego, komórce organizacyjnej przedsiębiorcy lub w podmiocie, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), wykonujących zadania w zakresie ochrony własności przemysłowej;
+- **5)** w części dotyczącej wiedzy prawnej lub technicznej w zakresie odpowiadającym wykonywanym zadaniom – osoby, która przez okres co najmniej 4 lat w okresie niedłuższym niż 6 lat przed złożeniem wniosku o zwolnienie z aplikacji była zatrudniona w Urzędzie Patentowym na stanowisku eksperta.
 
 2. Zwolnienie od odbycia aplikacji rzecznikowskiej, zgodnie z ust. 1, następuje, na wniosek kandydata, w drodze uchwały Krajowej Rady Rzeczników Patentowych. Krajowa Rada Rzeczników Patentowych przesyła kopię uchwały, wraz z uzasadnieniem, Prezesowi Urzędu Patentowego.
 
@@ -530,7 +530,7 @@ source: pdf
 
 1. Do egzaminu kwalifikacyjnego dopuszcza się osobę, która ukończyła aplikację, z zastrzeżeniem art. 24 ust. 5.
 
-2. W przypadku niezaliczenia określonej części egzaminu kwalifikacyjnego egzamin może być powtarzany w tej części. Terminy, w których egzamin może być powtarzany, wyznacza Krajowa Rada Rzeczników Patentowych, na dzień przypadający nie wcześniej niż sześć miesięcy i nie później niż rok od dnia poprzedniego egzaminu. Na wniosek osoby przystępującej do egzaminu termin sześciu miesięcy może być skrócony.
+2. W przypadku niezaliczenia określonej części egzaminu kwalifikacyjnego egzamin może być powtarzany w tej części. Terminy, w których egzamin może być powtarzany, wyznacza Krajowa Rada Rzeczników Patentowych, na dzień przypadający niewcześniej niż sześć miesięcy i niepóźniej niż rok od dnia poprzedniego egzaminu. Na wniosek osoby przystępującej do egzaminu termin sześciu miesięcy może być skrócony.
 
 **Art. 33.**
 
@@ -681,7 +681,7 @@ source: pdf
 
 3. W Krajowym Zjeździe Rzeczników Patentowych, odbywającym się jako zjazd delegatów, udział biorą delegaci wybrani w okręgach spośród ogółu rzeczników patentowych oraz, z głosem doradczym, niebędący delegatami członkowie ustępującej Krajowej Rady Rzeczników Patentowych, Przewodniczący Odwoławczego Sądu Dyscyplinarnego, Przewodniczący Sądu Dyscyplinarnego, Przewodniczący Komisji Rewizyjnej oraz Rzecznik Dyscyplinarny.
 
-4. Krajowy Zjazd Rzeczników Patentowych zwołuje Krajowa Rada Rzeczników Patentowych nie później niż na 7 dni przed upływem kadencji organów samorządu.
+4. Krajowy Zjazd Rzeczników Patentowych zwołuje Krajowa Rada Rzeczników Patentowych niepóźniej niż na 7 dni przed upływem kadencji organów samorządu.
 
 **Art. 48.**
 
@@ -782,7 +782,7 @@ source: pdf
 - **6)** rozpatrywanie i zatwierdzanie sprawozdań okręgowej rady rzeczników patentowych;
 - **7)** wykonywanie innych zadań przewidzianych w statucie.
 
-4. Okręgowe zgromadzenie rzeczników patentowych zwołuje dziekan z własnej inicjatywy, a ponadto na dzień przypadający nie później niż dwa miesiące przed upływem kadencji organów samorządu – na podstawie uchwały Krajowej Rady Rzeczników Patentowych.
+4. Okręgowe zgromadzenie rzeczników patentowych zwołuje dziekan z własnej inicjatywy, a ponadto na dzień przypadający niepóźniej niż dwa miesiące przed upływem kadencji organów samorządu – na podstawie uchwały Krajowej Rady Rzeczników Patentowych.
 
 5. Okręgową radę rzeczników patentowych stanowią dziekan, który przewodniczy radzie, i członkowie, spośród których okręgowa rada rzeczników patentowych może wybrać wicedziekanów i sekretarza.
 
@@ -828,7 +828,7 @@ source: pdf
 
 - **1)** upomnienie;
 - **2)** nagana z ostrzeżeniem;
-- **3)** kara pieniężna nie niższa od 10-krotności i nie wyższa od 50-krotności miesięcznej składki członkowskiej obowiązującej w dacie orzeczenia dyscyplinarnego;
+- **3)** kara pieniężna nieniższa od 10-krotności i niewyższa od 50-krotności miesięcznej składki członkowskiej obowiązującej w dacie orzeczenia dyscyplinarnego;
 - **4)** zawieszenie prawa wykonywania zawodu rzecznika patentowego na czas od trzech miesięcy do pięciu lat;
 - **5)** pozbawienie prawa wykonywania zawodu rzecznika patentowego, a w stosunku do aplikantów – wydalenie z aplikacji.
 
@@ -840,7 +840,7 @@ source: pdf
 
 5. Obok kary nagany z ostrzeżeniem oraz kary pieniężnej można w stosunku do rzecznika patentowego orzec dodatkowo zakaz wykonywania patronatu na czas od roku do pięciu lat.
 
-6. Obok kary zawieszenia prawa wykonywania zawodu rzecznika patentowego orzeka się dodatkowo zakaz wykonywania patronatu na czas od dwóch lat do lat dziesięciu, jednakże nie krócej niż na okres zawieszenia.
+6. Obok kary zawieszenia prawa wykonywania zawodu rzecznika patentowego orzeka się dodatkowo zakaz wykonywania patronatu na czas od dwóch lat do lat dziesięciu, jednakże niekrócej niż na okres zawieszenia.
 
 7. Wobec aplikantów nie orzeka się kar, o których mowa w ust. 1 pkt 3 i 4.
 

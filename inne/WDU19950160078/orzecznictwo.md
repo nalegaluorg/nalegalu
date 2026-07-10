@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych.*
 
 Łącznie: **34** orzeczeń
-(pominięto 38 orzeczeń sądów rejonowych)
+(pominięto 39 orzeczeń sądów rejonowych)
 
 ## art. 2 (3)
 

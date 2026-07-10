@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o służbie cywilnej*
 
 Łącznie: **116** orzeczeń
-(pominięto 157 orzeczeń sądów rejonowych)
+(pominięto 159 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 

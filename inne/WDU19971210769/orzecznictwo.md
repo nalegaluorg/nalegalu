@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym.*
 
-Łącznie: **535** orzeczeń
-(pominięto 580 orzeczeń sądów rejonowych)
+Łącznie: **536** orzeczeń
+(pominięto 583 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 
@@ -250,8 +250,9 @@ Orzeczenia powołujące: *Ustawa z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze
 - 2016-07-27 | SO | [XIII Ga 31/16](https://www.saos.org.pl/judgments/239552) | Uzasadnienie
 - 2016-03-30 | SO | [VII Pz 27/16](https://www.saos.org.pl/judgments/217868) | Uzasadnienie
 
-## art. 15 (54)
+## art. 15 (55)
 
+- 2023-12-15 | SO | [I AGa 82/23](https://www.saos.org.pl/judgments/547557) | Wyrok
 - 2023-02-02 | SO | [I AGa 294/21](https://www.saos.org.pl/judgments/495019) | Wyrok
 - 2022-11-04 | SO | [I AGa 185/22](https://www.saos.org.pl/judgments/494932) | Wyrok
 - 2022-09-19 | SO | [V AGa 207/21](https://www.saos.org.pl/judgments/509900) | Wyrok
@@ -326,7 +327,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze
 - 2018-05-08 | SO | [III Ca 191/18](https://www.saos.org.pl/judgments/351400) | Uzasadnienie
 - 2017-02-16 | SO | [XIII Ga 785/16](https://www.saos.org.pl/judgments/271909) | Uzasadnienie
 
-## art. 17 (163)
+## art. 17 (164)
 
 - 2010-12-01 | TK | [Ts 204/07](https://www.saos.org.pl/judgments/110018) | Postanowienie ★
 - 2009-07-29 | TK | [Ts 204/07](https://www.saos.org.pl/judgments/109384) | Postanowienie ★
@@ -335,6 +336,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze
 - 2025-09-12 | SO | [VII AGa 7/25](https://www.saos.org.pl/judgments/535190) | Wyrok
 - 2025-01-15 | SO | [III AUa 32/24](https://www.saos.org.pl/judgments/539090) | Wyrok
 - 2024-01-19 | SO | [I ACa 2201/22](https://www.saos.org.pl/judgments/533428) | Wyrok
+- 2023-12-15 | SO | [I AGa 82/23](https://www.saos.org.pl/judgments/547557) | Wyrok
 - 2023-04-21 | SO | [I AGa 273/21](https://www.saos.org.pl/judgments/494998) | Wyrok
 - 2023-02-23 | SO | [I ACa 1708/21](https://www.saos.org.pl/judgments/493763) | Wyrok
 - 2022-09-19 | SO | [V AGa 207/21](https://www.saos.org.pl/judgments/509900) | Wyrok

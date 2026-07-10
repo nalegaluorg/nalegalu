@@ -147,9 +147,7 @@ source: pdf
 
 **Art. 5a.**
 
-1. W przypadku budowy obiektu liniowego, którego przebieg został ustalony w miejscowym planie zagospodarowania przestrzennego, a także wykonywania innych robót budowlanych dotyczących obiektu liniowego, gdy liczba stron w postępowaniu przekracza 20, stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz.
-
-- **1691)** , zwanej dalej „Kodeksem postępowania administracyjnego”.
+1. W przypadku budowy obiektu liniowego, którego przebieg został ustalony w miejscowym planie zagospodarowania przestrzennego, a także wykonywania innych robót budowlanych dotyczących obiektu liniowego, gdy liczba stron w postępowaniu przekracza 20, stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), zwanej dalej „Kodeksem postępowania administracyjnego”.
 
 1a. W przypadku budowy obiektu liniowego, którego przebieg został ustalony w miejscowym planie zagospodarowania przestrzennego lub decyzji o ustaleniu lokalizacji inwestycji celu publicznego, a także wykonywania innych robót budowlanych dotyczących tego obiektu, przepis art. 49 Kodeksu postępowania administracyjnego stosuje się także w przypadku nieruchomości o nieuregulowanym stanie prawnym w rozumieniu art. 113 ust. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080), na której są lub będą wykonywane roboty budowlane.
 
@@ -776,8 +774,7 @@ source: pdf
 
 - **2)** wiat o powierzchni zabudowy do 50 m , sytuowanych na działce, na której znajduje się budynek mieszkalny, lub przeznaczonej pod budownictwo mieszkaniowe, przy czym łączna liczba tych wiat na działce nie może przekraczać dwóch na każde 1000 m powierzchni działki;
 - **3)** wolno stojących altan o powierzchni zabudowy do 35 m , przy czym łączna liczba tych obiektów na działce nie może przekraczać dwóch na każde 500 m powierzchni działki;
-- **4)** altan działkowych i obiektów gospodarczych, o których mowa w ustawie z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2021 r. poz.
-- **1073)** ;
+- **4)** altan działkowych i obiektów gospodarczych, o których mowa w ustawie z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2021 r. poz. 1073);
 - **5)** wiat przystankowych i peronowych;
 - **6)** parterowych budynków o powierzchni zabudowy do 35 m , służących jako zaplecze do bieżącego utrzymania linii kolejowych, położonych na terenach stanowiących własność Skarbu Państwa, z wyjątkiem budynków sytuowanych na obszarze Natura 2000;
 - **7)** stanowisk postojowych dla samochodów osobowych do 10 stanowisk włącznie, z wyjątkiem sytuowanych na obszarze Natura 2000;
@@ -3119,8 +3116,7 @@ source: pdf
 - **3a)** usytuowanych na obszarze kolejowym; 3aa) dróg kolejowych wraz z infrastrukturą kolejową, obiektami, urządzeniami, służącymi do utrzymania tej infrastruktury i transportu kolejowego oraz sieciami uzbrojenia terenu – także niezwiązanymi z użytkowaniem drogi kolejowej, jeżeli konieczność ich budowy lub przebudowy wynika z budowy lub przebudowy drogi kolejowej;
 - **4)** lotnisk cywilnych wraz z obiektami i urządzeniami towarzyszącymi;
 - **5)** usytuowanych na terenach zamkniętych;
-- **5a)** dotyczących strategicznych inwestycji w zakresie sieci przesyłowych, o których mowa w ustawie z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz.
-- **1199)** ;
+- **5a)** dotyczących strategicznych inwestycji w zakresie sieci przesyłowych, o których mowa w ustawie z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2024 r. poz. 1199);
 - **5b)** elektrowni wiatrowych, w rozumieniu art. 2 pkt 1 ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych;
 - **5c)** inwestycji KZN.
 - **6)** (uchylony)

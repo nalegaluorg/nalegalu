@@ -6,7 +6,7 @@ publisher: DU
 year: 2023
 pos: 2652
 act_type: Rozporządzenie
-status: obowiązujący
+status: akt objęty tekstem jednolitym
 domain: null
 source: pdf
 ---
@@ -18,11 +18,11 @@ source: pdf
 | Adres publikacyjny | Dz.U. 2023 poz. 2652 |
 | ISAP | WDU20230002652 |
 | Typ aktu | Rozporządzenie |
-| Status | obowiązujący |
+| Status | akt objęty tekstem jednolitym |
 | W mocy | tak |
 | Data ogłoszenia | 2023-12-05 |
 | Data wydania | 2023-12-07 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2652/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowego zakresu informacji zawartych w komputerowej bazie danych Na podstawie art. 13 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2023 r.

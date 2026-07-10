@@ -1,0 +1,238 @@
+---
+title: Rozporządzenie Ministra Rozwoju i Technologii z dnia 16 kwietnia 2025 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia oraz szczegółowych warunków udzielania pomocy finansowej w ramach programów w obszarze innowacyjności gospodarki
+address: WDU20250000508
+eli: DU/2025/508
+publisher: DU
+year: 2025
+pos: 508
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 508 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 16 kwietnia 2025 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2025 poz. 508 |
+| ISAP | WDU20250000508 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2025-04-16 |
+| Data wydania | 2025-04-17 |
+| Wejście w życie | 2025-04-18 |
+| Ostatnia zmiana | 2025-04-18 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000508) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/508/text.pdf) |
+
+zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia oraz szczegółowych warunków udzielania pomocy finansowej w ramach programów w obszarze innowacyjności gospodarki Na podstawie art. 21i ustawy z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej (Dz. U. z 2022 r. poz. 2474) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Przedsiębiorczości i Technologii z dnia 20 września 2018 r. w sprawie szczegółowego przeznaczenia oraz szczegółowych warunków udzielania pomocy finansowej w ramach programów w obszarze innowacyjności gospodarki (Dz. U. poz. 1949 oraz z 2023 r. poz. 958) wprowadza się następujące zmiany:
+1) w § 2 ust. 3 otrzymuje brzmienie: „3. Pomoc finansowa stanowiąca pomoc de minimis udzielana jest zgodnie z warunkami określonymi w rozporządzeniu Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023), zwanym dalej „rozporządzeniem Komisji nr 2023/2831”.”;
+2) § 3 otrzymuje brzmienie: „§ 3. Ilekroć w rozporządzeniu jest mowa o:
+1) badaniach przemysłowych – należy przez to rozumieć badania przemysłowe w rozumieniu art. 2 pkt 85 rozporządzenia Komisji nr 651/2014;
+2) beneficjencie – należy przez to rozumieć podmiot, o którym mowa w art. 21c ustawy, któremu udzielono pomocy finansowej, o której mowa w art. 21b ustawy;
+3) dużych przedsiębiorcach – należy przez to rozumieć duże przedsiębiorstwa w rozumieniu art. 2 pkt 24 rozporządzenia Komisji nr 651/2014;
+4) eksperymentalnych pracach rozwojowych – należy przez to rozumieć eksperymentalne prace rozwojowe w rozumieniu art. 2 pkt 86 rozporządzenia Komisji nr 651/2014;
+5) innowacjach organizacyjnych – należy przez to rozumieć innowacje organizacyjne w rozumieniu art. 2 pkt 96 rozporządzenia Komisji nr 651/2014;
+6) innowacjach procesowych – należy przez to rozumieć innowacje w obrębie procesu w rozumieniu art. 2 pkt 97 rozporządzenia Komisji nr 651/2014;
+7) intensywności pomocy – należy przez to rozumieć intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia Komisji nr 651/2014;
+8) klastrach innowacyjnych – należy przez to rozumieć klastry innowacyjne w rozumieniu art. 2 pkt 92 rozporządzenia Komisji nr 651/2014;
+9) organizacji prowadzącej badania i upowszechniającej wiedzę – należy przez to rozumieć organizację prowadzącą badania i upowszechniającą wiedzę w rozumieniu art. 2 pkt 83 rozporządzenia Komisji nr 651/2014;
+10) MŚP – należy przez to rozumieć mikroprzedsiębiorcę, małego lub średniego przedsiębiorcę;
+11) rzeczowych aktywach trwałych – należy przez to rozumieć rzeczowe aktywa trwałe w rozumieniu art. 2 pkt 29 rozporządzenia Komisji nr 651/2014;
+12) studium wykonalności – należy przez to rozumieć studium wykonalności w rozumieniu art. 2 pkt 87 rozporządzenia Komisji nr 651/2014;
+13) usługach doradczych w zakresie innowacji – należy przez to rozumieć usługi doradcze w zakresie innowacji w rozumieniu art. 2 pkt 94 rozporządzenia Komisji nr 651/2014;
+14) usługach wsparcia innowacji – należy przez to rozumieć usługi wsparcia innowacji w rozumieniu art. 2 pkt 95 rozporządzenia Komisji nr 651/2014;
+15) wartościach niematerialnych i prawnych – należy przez to rozumieć wartości niematerialne i prawne w rozumieniu art. 2 pkt 30 rozporządzenia Komisji nr 651/2014.”;
+3) w § 4:
+a) ust. 2 i 3 otrzymują brzmienie: „2. Pomoc publiczna, z wyjątkiem pomocy publicznej, o której mowa w rozdziale 1h, nie może być udzielona przedsiębiorcy znajdującemu się w trudnej sytuacji w rozumieniu art. 2 pkt 18 rozporządzenia Komisji nr 651/2014.
+3. Pomoc de minimis nie może być udzielona w przypadkach wskazanych w art. 1 ust. 1 rozporządzenia Komisji nr 2023/2831.”,
+b) ust. 6 otrzymuje brzmienie: „6. W przypadku przedsiębiorcy pomoc finansowa może być udzielona, jeżeli przedsiębiorca prowadzi działalność gospodarczą na terytorium Rzeczypospolitej Polskiej potwierdzoną wpisem do odpowiedniego rejestru albo ewidencji.”;
+4) w § 5:
+a) ust. 1 otrzymuje brzmienie: „1. Pomoc finansowa może zostać udzielona, jeżeli wywołuje efekt zachęty w rozumieniu art. 6 ust. 2 zdanie drugie rozporządzenia Komisji nr 651/2014.”,
+b) uchyla się ust. 2,
+c) ust. 3 otrzymuje brzmienie: „3. Za rozpoczęcie prac nad projektem nie uważa się poniesienia kosztów, o których mowa w § 9l pkt 1, 3 i 11.”;
+5) § 6 otrzymuje brzmienie: „§ 6. Kosztami kwalifikowalnymi są koszty dokonane w sposób przejrzysty, racjonalny, efektywny i adekwatny do zaplanowanych przez wnioskodawcę działań i celów projektu oraz celów określonych dla działania, poniesione po dniu złożenia wniosku o udzielenie pomocy publicznej lub pomocy de minimis i do dnia wskazanego w umowie o udzielenie pomocy, z zastrzeżeniem że koszty, o których mowa w § 9l pkt 1, 3 i 11, uważa się za kwalifikowalne, jeżeli zostały poniesione nie wcześniej niż 12 miesięcy przed dniem złożenia wniosku o udzielenie pomocy.”;
+6) w § 7:
+a) ust. 4 i 5 otrzymują brzmienie: „4. Pomoc de minimis może być udzielana, pod warunkiem że łącznie z inną pomocą de minimis lub pomocą de minimis w sektorze rolnym, lub pomocą de minimis w sektorze rybołówstwa i akwakultury nie przekroczy kwoty 300 000 euro dla jednego przedsiębiorcy w okresie trzech lat.
+5. Do celów ustalenia dopuszczalnego pułapu pomocy de minimis przez jednego przedsiębiorcę rozumie się jedno przedsiębiorstwo, o którym mowa w art. 2 ust. 2 rozporządzenia Komisji nr 2023/2831.”,
+b) dodaje się ust. 6 w brzmieniu: „6. Pomoc de minimis uznaje się za przyznaną w dniu, w którym przedsiębiorca uzyskał prawo do otrzymania tej pomocy, niezależnie od terminu wypłacenia pomocy de minimis temu przedsiębiorcy.”;
+7) § 8 otrzymuje brzmienie: „§ 8. Pomoc publiczna nie może zostać udzielona, w przypadku gdy jej wysokość przekroczy progi określone w art. 4 ust. 1 lit. d, e, h, i, k–n rozporządzenia Komisji nr 651/2014.”;
+8) w § 9 ust. 2 i 3 otrzymują brzmienie: „2. Pomoc de minimis jest udzielana do końca sześciomiesięcznego okresu, o którym mowa w art. 7 ust. 3 rozporządzenia Komisji nr 2023/2831.
+3. Pomoc finansowa niestanowiąca pomocy publicznej ani pomocy de minimis jest udzielana do końca okresu kwalifikowalności, o którym mowa w art. 63 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm. ).”;
+9) po rozdziale 1 dodaje się rozdziały 1a–1i w brzmieniu: „Rozdział 1a Pomoc dla przedsiębiorców na projekty badawczo-rozwojowe
+§ 9a. Pomoc dla przedsiębiorców na projekty badawczo-rozwojowe, w tym projekty badawczo-rozwojowe, które uzyskały znak jakości w postaci pieczęci doskonałości w ramach programu „Horyzont 2020” lub „Horyzont Europa”, i współfinansowane projekty badawczo-rozwojowe oraz, w stosownych przypadkach, pomoc na współfinansowane łączenie w zespoły, jest udzielana, jeżeli zostały spełnione warunki określone w art. 25 ust. 1 rozporządzenia Komisji nr 651/2014.
+§ 9b. 1. Kosztami kwalifikowalnymi pomocy na projekty badawczo-rozwojowe są:
+1) koszty wynagrodzeń wraz z pozapłacowymi kosztami pracy, w tym składkami na ubezpieczenia społeczne i ubezpieczenie zdrowotne, osób zatrudnionych przy wykonywaniu projektu badawczo-rozwojowego w części, w jakiej wynagrodzenia te są bezpośrednio związane z jego wykonywaniem;
+2) koszty aparatury i sprzętu ponoszone w zakresie i przez okres, w jakich są one wykorzystywane na potrzeby projektu badawczo-rozwojowego, a w przypadku gdy aparatura i sprzęt nie są wykorzystywane na potrzeby projektu badawczo-rozwojowego przez cały okres ich użytkowania, za koszty kwalifikowalne uznaje się tylko koszty amortyzacji w okresie realizacji projektu badawczo-rozwojowego, obliczone zgodnie z przepisami o rachunkowości;
+3) koszty budynków i gruntów ponoszone w zakresie i przez okres, w jakich te nieruchomości są wykorzystywane przy wykonywaniu projektu badawczo-rozwojowego; w przypadku budynków za koszty kwalifikowalne uznaje się tylko koszty amortyzacji w okresie wykonywania tego projektu obliczone zgodnie z przepisami o rachunkowości, a w przypadku gruntów – koszty związane z przeniesieniem własności lub innych praw rzeczowych, koszty odpłatnego korzystania z gruntu lub faktycznie poniesione koszty kapitałowe;
+4) koszty badań prowadzonych na podstawie umowy, wiedzy i patentów nabytych lub użytkowanych na podstawie licencji udzielonej przez osoby trzecie niepowiązane z przedsiębiorcą w warunkach pełnej konkurencji oraz koszty usług doradczych i podobnych usług wykorzystywanych wyłącznie na potrzeby wykonywania projektu badawczo-rozwojowego;
+5) dodatkowe koszty ogólne i inne koszty operacyjne, w tym koszty materiałów, dostaw i podobnych produktów, ponoszone bezpośrednio w związku z realizacją projektu badawczo-rozwojowego.
+2. Koszty kwalifikowalne, o których mowa w ust. 1 pkt 5, można również obliczyć na podstawie uproszczonej metody kosztów w formie stawki ryczałtowej wynoszącej do 20 %, obliczanej od łącznej kwoty kosztów kwalifikowalnych projektu badawczo-rozwojowego, o których mowa w ust. 1 pkt 1–4.
+3. Kosztami kwalifikowalnymi pomocy dla przedsiębiorców na projekty badawczo-rozwojowe w przypadku studium wykonalności są koszty jego realizacji.
+4. Intensywność pomocy dla przedsiębiorców na projekty badawczo-rozwojowe dla poszczególnych beneficjentów nie może przekraczać:
+1) 100 % kosztów kwalifikowalnych – w przypadku badań podstawowych w rozumieniu art. 2 pkt 84 rozporządzenia Komisji nr 651/2014;
+2) 50 % kosztów kwalifikowalnych – w przypadku badań przemysłowych;
+3) 25 % kosztów kwalifikowalnych – w przypadku eksperymentalnych prac rozwojowych;
+4) 50 % kosztów kwalifikowalnych – w przypadku studiów wykonalności.
+5. Intensywność pomocy na badania przemysłowe i eksperymentalne prace rozwojowe zwiększa się do maksymalnej intensywności pomocy wynoszącej 80 % kosztów kwalifikowalnych zgodnie z pkt 1–5, z zastrzeżeniem że zwiększenia, o których mowa w pkt 3–5, nie mogą być łączone, o:
+1) 10 punktów procentowych – w przypadku średnich przedsiębiorców;
+2) 20 punktów procentowych – w przypadku małych przedsiębiorców;
+3) 15 punktów procentowych – w przypadku spełnienia jednego z poniższych warunków:
+a) projekt zakłada efektywną współpracę: – między przedsiębiorcami, wśród których co najmniej jeden jest MŚP, lub projekt jest realizowany w co najmniej dwóch państwach członkowskich Unii Europejskiej lub w państwie członkowskim Unii Europejskiej i w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, zwanego dalej „Porozumieniem EOG”, przy czym żaden pojedynczy przedsiębiorca nie ponosi więcej niż 70 % kosztów kwalifikowalnych, lub – między przedsiębiorcą i co najmniej jedną organizacją prowadzącą badania i upowszechniającą wiedzę, jeżeli ta organizacja ponosi co najmniej 10 % kosztów kwalifikowalnych i ma prawo do publikowania wyników projektu w zakresie, w jakim pochodzą one z prowadzonych przez tę organizację badań przemysłowych lub eksperymentalnych prac rozwojowych,
+b) wyniki projektu są szeroko rozpowszechniane podczas konferencji, za pośrednictwem publikacji, ogólnodostępnych baz bądź oprogramowania bezpłatnego lub otwartego,
+c) beneficjent zobowiązuje się do terminowego udostępnienia licencji związanych z wynikami badań dotyczących projektów badawczo-rozwojowych objętych pomocą, chronionych prawami własności intelektualnej, po cenie rynkowej i na zasadzie braku wyłączności i niedyskryminacji do użytku przez zainteresowane strony Porozumienia EOG,
+d) projekt badawczo-rozwojowy jest realizowany na obszarach województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego;
+4) 5 punktów procentowych – w przypadku gdy projekt badawczo-rozwojowy jest realizowany na obszarze województw dolnośląskiego i wielkopolskiego oraz regionu warszawskiego stołecznego na obszarach należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym lub Żabia Wola;
+5) 25 punktów procentowych – w przypadku gdy projekt badawczo-rozwojowy:
+a) został wybrany przez państwo członkowskie Unii Europejskiej w wyniku otwartego zaproszenia do udziału w projekcie opracowanym wspólnie przez co najmniej trzy państwa członkowskie Unii Europejskiej lub umawiające się strony Porozumienia EOG oraz
+b) wiąże się ze skuteczną współpracą w rozumieniu art. 2 pkt 90 rozporządzenia Komisji nr 651/2014 między przedsiębiorcami w co najmniej dwóch państwach członkowskich lub umawiających się stronach Porozumienia EOG, jeżeli beneficjentem jest MŚP, lub w co najmniej trzech państwach członkowskich Unii Europejskiej lub umawiających się stronach Porozumienia EOG, jeżeli beneficjentem jest duży przedsiębiorca, oraz
+c) jeżeli spełniony jest co najmniej jeden z dwóch następujących warunków: – wyniki projektu badawczo-rozwojowego są szeroko rozpowszechniane w co najmniej trzech państwach członkowskich Unii Europejskiej lub umawiających się stronach Porozumienia EOG podczas konferencji, za pośrednictwem publikacji, ogólnodostępnych baz bądź wolnego lub otwartego oprogramowania, lub – beneficjent zobowiązuje się do terminowego udostępnienia licencji związanych z wynikami badań dotyczących projektów badawczo-rozwojowych objętych pomocą, chronionych prawami własności intelektualnej, po cenie rynkowej i na zasadzie braku wyłączności i niedyskryminacji do użytku przez zainteresowane strony Porozumienia EOG.
+6. Intensywność pomocy na studium wykonalności zwiększa się o:
+1) 10 punktów procentowych – w przypadku średnich przedsiębiorców;
+2) 20 punktów procentowych – w przypadku małych przedsiębiorców.
+§ 9c. 1. Pomoc na innowacje procesowe i organizacyjne jest udzielana, jeżeli zostały spełnione warunki określone w art. 29 ust. 1 rozporządzenia Komisji nr 651/2014.
+2. Pomocy na innowacje procesowe i organizacyjne dla dużych przedsiębiorców udziela się, pod warunkiem że skutecznie współpracują z MŚP w zakresie działalności objętej tą pomocą, a współpracujące MŚP ponoszą co najmniej 30 % całkowitych kosztów kwalifikowalnych.
+§ 9d. Kosztami kwalifikowalnymi pomocy na innowacje procesowe i organizacyjne są:
+1) koszty wynagrodzeń wraz z pozapłacowymi kosztami pracy, w tym składkami na ubezpieczenia społeczne i ubezpieczenie zdrowotne, osób zatrudnionych przy wykonywaniu projektu w części, w jakiej wynagrodzenia te są bezpośrednio związane z jego wykonywaniem;
+2) koszty aparatury, sprzętu, budynków i gruntów w zakresie i przez okres, w jakich są one wykorzystywane na potrzeby projektu na innowacje procesowe i organizacyjne;
+3) koszty badań prowadzonych na podstawie umowy, wiedzy i patentów nabytych lub użytkowanych na podstawie licencji udzielonej przez osoby trzecie niepowiązane z przedsiębiorcą w warunkach pełnej konkurencji;
+4) dodatkowe koszty ogólne i inne koszty operacyjne, w tym koszty materiałów i podobnych produktów, ponoszone bezpośrednio w wyniku realizacji projektu na innowacje procesowe i organizacyjne.
+§ 9e. Intensywność pomocy na innowacje procesowe i organizacyjne nie może przekraczać:
+1) 15 % kosztów kwalifikowalnych – w przypadku dużych przedsiębiorców;
+2) 50 % kosztów kwalifikowalnych – w przypadku MŚP.
+§ 9f. 1. Pomoc dla MŚP na wspieranie innowacyjności jest udzielana, jeżeli zostały spełnione warunki określone w art. 28 ust. 1 rozporządzenia Komisji nr 651/2014.
+2. Za koszty kwalifikowalne pomocy dla MŚP na wspieranie innowacyjności uznaje się:
+1) koszty uzyskania, walidacji i obrony patentów i innych wartości niematerialnych i prawnych;
+2) koszty oddelegowania w rozumieniu art. 2 pkt 98 rozporządzenia Komisji nr 651/2014 wysoko wykwalifikowanego personelu w rozumieniu art. 2 pkt 93 rozporządzenia Komisji nr 651/2014 z organizacji prowadzącej badania i upowszechniającej wiedzę lub przez dużego przedsiębiorcę, który to personel zajmuje się działalnością badawczą, rozwojową i innowacyjną na nowo utworzonych u beneficjenta stanowiskach i nie zastępuje innego personelu;
+3) koszty usług doradczych w zakresie innowacji i usług wsparcia innowacji, w tym usług świadczonych przez organizacje prowadzące badania i upowszechniające wiedzę, infrastruktury badawcze w rozumieniu art. 2 pkt 91 rozporządzenia Komisji nr 651/2014, infrastruktury testowo-doświadczalne w rozumieniu art. 2 pkt 98a rozporządzenia Komisji nr 651/2014 lub klastry innowacyjne.
+3. Intensywność pomocy dla MŚP na wspieranie innowacyjności nie może przekraczać 50 % kosztów kwalifikowalnych.
+4. W szczególnym przypadku, jakim jest pomoc na usługi doradcze w zakresie innowacji i usługi wsparcia innowacji, intensywność pomocy zwiększa się do 100 % kosztów kwalifikowalnych, pod warunkiem że całkowita kwota pomocy na usługi doradcze w zakresie innowacji i usługi wsparcia innowacji nie przekracza 220 000 euro dla jednego MŚP w dowolnym trzyletnim okresie.
+§ 9g. 1. Pomoc dla klastrów innowacyjnych jest udzielana, jeżeli zostały spełnione warunki określone w art. 27 ust. 1 rozporządzenia Komisji nr 651/2014.
+2. Pomoc dla klastrów innowacyjnych jest udzielana:
+1) właścicielowi klastra – jako pomoc inwestycyjna na utworzenie lub modernizację klastrów innowacyjnych;
+2) operatorowi klastra – jako pomoc operacyjna, której czas trwania nie przekracza 10 lat od dnia udzielenia pomocy.
+3. Właściciel klastra jest podmiotem posiadającym osobowość prawną. Operator klastra, jeżeli nie jest tożsamy z właścicielem klastra, może posiadać osobowość prawną albo stanowić konsorcjum podmiotów nieposiadających odrębnej osobowości prawnej.
+4. We wszystkich przypadkach każdy podmiot musi prowadzić odrębną księgowość w zakresie kosztów i przychodów operacyjnych oraz kosztów i przychodów z działalności inwestycyjnej zgodnie z przepisami o rachunkowości.
+5. Za koszty kwalifikowalne pomocy operacyjnej dla klastrów innowacyjnych uznaje się koszty wynagrodzeń wraz z pozapłacowymi kosztami pracy, w tym składkami na ubezpieczenia społeczne i zdrowotne, osób zatrudnionych u operatora klastra przy realizacji projektu w części, w jakiej wynagrodzenia te są bezpośrednio związane z jego realizacją, i koszty administracyjne, w tym koszty ogólne, bezpośrednio związane z realizacją projektu, dotyczące:
+1) aktywizacji klastra w celu ułatwienia współpracy, dzielenia się informacjami oraz świadczenia lub kierowania specjalistycznych i dopasowanych usług wsparcia dla biznesu;
+2) marketingu klastra w celu zwiększenia udziału nowych przedsiębiorców lub organizacji oraz zwiększenia widoczności klastra;
+3) zarządzania zapleczem klastra, organizacji programów szkoleniowych, warsztatów i konferencji organizowanych w celu wsparcia dzielenia się wiedzą, tworzenia sieci kontaktów i współpracy transnarodowej.
+6. Intensywność pomocy operacyjnej dla klastrów innowacyjnych nie może przekraczać 50 % łącznych kwalifikowalnych kosztów w okresie, na który przyznawana jest pomoc.
+7. Pomoc inwestycyjna dla klastrów innowacyjnych może być udzielana na koszty inwestycji służące realizacji celów klastra innowacyjnego.
+8. Za koszty kwalifikowalne pomocy inwestycyjnej dla klastrów innowacyjnych uznaje się koszty:
+1) nabycia albo wytworzenia rzeczowych aktywów trwałych, z wyłączeniem prawa użytkowania wieczystego gruntu oraz prawa własności nieruchomości;
+2) nabycia robót i materiałów budowlanych;
+3) nabycia wartości niematerialnych i prawnych w formie patentów, licencji, know-how oraz innych praw własności intelektualnej, które:
+a) będą podlegać amortyzacji zgodnie z przepisami o rachunkowości,
+b) zostaną nabyte na warunkach rynkowych od osób trzecich niepowiązanych z właścicielem klastra,
+c) będą stanowić aktywa właściciela klastra i będą wykorzystywane w działalności klastra, o której mowa w ust. 5 pkt 1–3, przez co najmniej 5 lat, a w przypadku właściciela klastra będącego MŚP przez co najmniej 3 lata, od dnia zakończenia realizacji projektu, na który przyznano pomoc;
+4) zakupu subskrypcji obejmujących możliwość korzystania z oprogramowania;
+5) rat spłaty kapitału rzeczowych aktywów trwałych, z wyłączeniem nieruchomości zabudowanych i niezabudowanych, poniesione przez właściciela klastra do dnia zakończenia realizacji projektu, na który przyznano pomoc, do wysokości kapitału z dnia zawarcia umowy leasingu albo spłaty kapitału rzeczowych aktywów trwałych, z wyłączeniem nieruchomości zabudowanych i niezabudowanych, należnej finansującemu z tytułu umowy leasingu, o ile we wniosku o udzielenie pomocy finansujący jest wskazany przez wnioskodawcę jako podmiot upoważniony do poniesienia kosztu, przy czym umowa leasingu prowadzi do przeniesienia własności tych środków na właściciela klastra, z wyłączeniem leasingu zwrotnego.
+9. Intensywność pomocy inwestycyjnej dla klastrów innowacyjnych nie może przekraczać 50 % kosztów kwalifikowalnych.
+10. Intensywność pomocy inwestycyjnej dla klastrów innowacyjnych zwiększa się o:
+1) 15 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarach województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego;
+2) 5 punktów procentowych – w przypadku gdy inwestycja jest realizowana na obszarze województw dolnośląskiego i wielkopolskiego oraz regionu warszawskiego stołecznego na obszarach należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym lub Żabia Wola.
+11. Dostęp do pomieszczeń, zaplecza oraz działań klastra innowacyjnego jest udzielany użytkownikom na przejrzystych i niedyskryminacyjnych zasadach. Przedsiębiorcom, którzy finansują co najmniej 10 % kosztów inwestycji klastra innowacyjnego, można przyznać preferencyjny dostęp na bardziej korzystnych warunkach. Aby uniknąć nadmiernej rekompensaty, dostęp ten musi być proporcjonalny do wkładu przedsiębiorcy w koszty inwestycji, a warunki te należy podawać do wiadomości publicznej.
+12. Opłaty pobierane za korzystanie z aktywów materialnych klastra innowacyjnego i za uczestnictwo w działaniach klastra odpowiadają cenom rynkowym lub odzwierciedlają koszty korzystania z aktywów i koszty prowadzenia tych działań klastra z uwzględnieniem uzasadnionej marży.
+§ 9h. 1. Pomoc na usługi doradcze na rzecz MŚP jest udzielana, jeżeli zostały spełnione warunki określone w art. 18 ust. 1 rozporządzenia Komisji nr 651/2014.
+2. Kosztami kwalifikowalnymi pomocy na usługi doradcze na rzecz MŚP są koszty usług doradczych świadczonych na rzecz MŚP przez doradców zewnętrznych.
+3. Usługi doradcze nie mają charakteru ciągłego ani okresowego, nie są też związane ze zwykłymi kosztami operacyjnymi przedsiębiorstwa, takimi jak rutynowe usługi doradztwa podatkowego, regularne usługi prawnicze lub reklama.
+4. Intensywność pomocy na usługi doradcze na rzecz MŚP nie może przekraczać 50 % kosztów kwalifikowalnych.
+§ 9i. 1. Pomoc na udział MŚP w targach jest udzielana, jeżeli zostały spełnione warunki określone w art. 19 ust. 1 rozporządzenia Komisji nr 651/2014.
+2. Do kosztów kwalifikowalnych pomocy na udział MŚP w targach zalicza się koszty wynajmu, budowy i obsługi stoiska wystawowego podczas uczestnictwa MŚP w danych targach lub danej wystawie.
+3. Intensywność pomocy na udział MŚP w targach nie może przekraczać 50 % kosztów kwalifikowalnych.
+§ 9j. 1. Pomoc szkoleniowa jest udzielana, jeżeli zostały spełnione warunki określone w art. 31 ust. 1 rozporządzenia Komisji nr 651/2014.
+2. Pomocy szkoleniowej nie udziela się na szkolenia, których obowiązek przeprowadzenia przez przedsiębiorców wynika z przepisów prawa powszechnie obowiązującego.
+3. Za koszty kwalifikowalne pomocy szkoleniowej uznaje się:
+1) koszty usługi trenerskiej poniesione za czas, w którym osoby prowadzące szkolenia prowadzą szkolenia;
+2) koszty operacyjne osób prowadzących szkolenia i uczestników szkolenia bezpośrednio związane z projektem szkoleniowym, takie jak koszty podróży, koszty zakwaterowania, materiały bezpośrednio związane z projektem szkoleniowym oraz amortyzacja narzędzi i wyposażenia w zakresie, w jakim są wykorzystywane wyłącznie na potrzeby projektu szkoleniowego;
+3) koszty usług doradczych związanych z projektem szkoleniowym;
+4) koszty wynagrodzenia uczestników szkolenia i ogólne koszty pośrednie, w szczególności koszty administracyjne, koszty wynajmu pomieszczeń szkoleniowych i koszty ogólne, poniesione za czas, w którym uczestnicy biorą udział w szkoleniu.
+4. Intensywność pomocy szkoleniowej nie może przekraczać 50 % kosztów kwalifikowalnych.
+5. Intensywność pomocy szkoleniowej zwiększa się do maksymalnej intensywności pomocy wynoszącej 70 % kosztów kwalifikowalnych o:
+1) 10 punktów procentowych – w przypadku szkoleń dla pracowników niepełnosprawnych lub pracowników znajdujących się w szczególnie niekorzystnej sytuacji w rozumieniu odpowiednio art. 2 pkt 3 i 4 rozporządzenia Komisji nr 651/2014;
+2) 10 punktów procentowych – w przypadku pomocy na rzecz średniego przedsiębiorcy;
+3) 20 punktów procentowych – w przypadku pomocy na rzecz małego przedsiębiorcy.
+§ 9k. 1. Pomoc dla start-upów jest udzielana, jeżeli zostały spełnione warunki określone w art. 22 ust. 1 rozporządzenia Komisji nr 651/2014.
+2. Za przedsiębiorcę kwalifikującego się do udzielania pomocy dla start-upów uznaje się każdego małego przedsiębiorcę nienotowanego na giełdzie w okresie do 5 lat od dnia jego wpisu do rejestru lub ewidencji, pod warunkiem że taki przedsiębiorca spełnia łącznie następujące warunki:
+1) nie przejął działalności innego przedsiębiorstwa, chyba że obrót z przejmowanej działalności stanowi mniej niż 10 % obrotu kwalifikującego się przedsiębiorcy w roku obrotowym poprzedzającym przejęcie;
+2) nie dokonał jeszcze podziału zysku;
+3) nie przejął innego przedsiębiorstwa, chyba że obrót przejętego przedsiębiorstwa stanowi mniej niż 10 % obrotu kwalifikującego się przedsiębiorcy w roku obrotowym poprzedzającym przejęcie;
+4) nie powstał w wyniku połączenia, chyba że:
+a) obrót przedsiębiorstwa powstałego w wyniku połączenia jest wyższy o mniej niż 10 % od łącznego obrotu łączących się przedsiębiorstw w roku obrotowym poprzedzającym połączenie, lub
+b) powstał w wyniku połączenia kwalifikujących się przedsiębiorców, przy czym w takim przypadku pięcioletni okres kwalifikowalności rozpoczyna się od dnia najwcześniejszego wpisu do rejestru lub ewidencji przedsiębiorcy uczestniczącego w połączeniu.
+3. W przypadku przedsiębiorców kwalifikujących się do udzielenia pomocy dla start-upów, którzy nie podlegają rejestracji, pięcioletni okres kwalifikowalności rozpoczyna się od momentu, w którym przedsiębiorca rozpoczyna działalność gospodarczą, albo od momentu, w którym zaczyna on podlegać opodatkowaniu z tytułu działalności gospodarczej, w zależności od tego, który z nich przypada wcześniej.
+4. Pomocy dla start-upów udziela się w formie:
+1) pożyczek o stopach oprocentowania niezgodnych z warunkami rynkowymi, udzielonych na okres 10 lat, których maksymalna kwota nominalna stanowiąca równowartość w euro ustaloną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu udzielania pożyczki wynosi:
+a) 1,1 mln euro, lub
+b) 1,65 mln euro – w przypadku przedsiębiorców mających siedzibę na obszarze województw dolnośląskiego i wielkopolskiego oraz regionu warszawskiego stołecznego na obszarach należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym lub Żabia Wola, lub
+c) 2,2 mln euro – w przypadku przedsiębiorców mających siedzibę na obszarach województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego;
+2) dotacji, w wysokości do:
+a) 0,5 mln euro lub
+b) 0,75 mln euro w przypadku przedsiębiorców mających siedzibę na obszarze województw dolnośląskiego i wielkopolskiego oraz regionu warszawskiego stołecznego na obszarach należących do gmin: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kałuszyn, Kampinos, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym lub Żabia Wola, lub
+c) 1 mln euro w przypadku przedsiębiorców mających siedzibę na obszarach województw: kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego i zachodniopomorskiego oraz regionu mazowieckiego regionalnego.
+5. W przypadku udzielenia pomocy dla start-upów w formie pożyczek udzielonych na okres:
+1) od 5 do 10 lat – maksymalną kwotę nominalną można dostosować, mnożąc kwoty, o których mowa w ust. 4 pkt 1, przez iloraz 10 lat i okresu, na który udzielono danej pożyczki;
+2) krótszy niż 5 lat – maksymalna kwota nominalna wynosi tyle samo, co w przypadku pożyczek udzielonych na okres 5 lat.
+6. Formy pomocy, o których mowa w ust. 4, mogą być łączone, pod warunkiem że odsetek kwoty przyznanej w ramach jednego instrumentu pomocy, obliczony na postawie maksymalnych kwot pomocy dozwolonych w ramach danego instrumentu, jest uwzględniany do określenia pozostałego odsetka maksymalnej kwoty pomocy dozwolonej w ramach innych instrumentów wchodzących w skład takiego połączenia instrumentów.
+7. W przypadku małych przedsiębiorców spełniających warunki określone dla przedsiębiorstw innowacyjnych w rozumieniu art. 2 pkt 80 rozporządzenia Komisji nr 651/2014 kwoty maksymalne określone w ust. 4 podwaja się.
+§ 9l. Pomoc finansowa z przeznaczeniem, o którym mowa w art. 21b ustawy, może być udzielana jako pomoc de minimis, w przypadku gdy kosztami kwalifikowalnymi objętymi pomocą de minimis są koszty:
+1) usługi polegającej na opracowaniu dla danego przedsiębiorcy z sektora MŚP nowego lub znacząco ulepszonego wyrobu, usługi, technologii lub nowego projektu wzorniczego;
+2) projektu badawczo-rozwojowego realizowanego przez przedsiębiorców z sektora MŚP, w tym:
+a) koszty aparatury i sprzętu w zakresie i przez okres, w jakich są one wykorzystywane na potrzeby projektu badawczo-rozwojowego, a w przypadku gdy aparatura i sprzęt nie są wykorzystywane na potrzeby projektu badawczo-rozwojowego przez cały okres ich użytkowania, za koszty kwalifikowalne uznaje się tylko koszty amortyzacji odpowiadające okresowi realizacji projektu badawczo-rozwojowego, obliczone zgodnie z przepisami o rachunkowości,
+b) koszty badań prowadzonych na podstawie umowy, wiedzy i patentów nabytych lub użytkowanych na podstawie licencji udzielonej przez osoby trzecie niepowiązane z przedsiębiorcą,
+c) koszty usług doradczych i podobnych usług wykorzystywanych wyłącznie na potrzeby wykonywania projektu badawczo-rozwojowego,
+d) dodatkowe koszty ogólne i inne koszty operacyjne, w tym koszty materiałów, dostaw i podobnych produktów, ponoszone bezpośrednio w związku z realizacją projektu badawczo-rozwojowego, przy czym koszty te można obliczyć również na podstawie uproszczonej metody kosztów w formie stawki ryczałtowej wynoszącej do 20 %, obliczanej od łącznej kwoty kosztów kwalifikowalnych projektu badawczo-rozwojowego, o których mowa w lit. a–c;
+3) wstępnego orzeczenia rzecznika patentowego o zdolności patentowej wynalazku lub zdolności ochronnej wzoru użytkowego;
+4) uzyskania walidacji i obrony patentów i innych wartości niematerialnych i prawnych;
+5) wynagrodzeń wraz z pozapłacowymi kosztami pracy, takimi jak składki na ubezpieczenia społeczne i zdrowotne, osób zatrudnionych przy opracowaniu nowych, innowacyjnych produktów i usług, w części, w jakiej wynagrodzenia te są bezpośrednio związane z opracowaniem tych produktów i usług;
+6) dostępu do zagranicznej infrastruktury badawczo-rozwojowej oraz testowo-doświadczalnej;
+7) usługi doradczej o charakterze proinnowacyjnym, obejmującej różne rodzaje doradztwa służącego opracowaniu, testowaniu, wdrażaniu, wytwarzaniu, wprowadzeniu na rynek i promocji nowej technologii, nowego produktu lub procesu;
+8) szkolenia o charakterze proinnowacyjnym;
+9) udziału MŚP w seminariach, kongresach i konferencjach o tematyce innowacyjnej;
+10) transportu i ubezpieczenia osób i eksponatów w związku z udziałem w targach i misjach gospodarczych;
+11) rezerwacji miejsca wystawowego na targach, opłaty rejestracyjnej za udział w targach oraz wpisu do katalogu targowego;
+12) organizacji stoiska wystawowego na targach lub wystawie;
+13) reklamy w mediach targowych;
+14) informacyjno-promocyjne projektu;
+15) opracowania studium wykonalności;
+16) zakupu usług programistycznych, gotowego oprogramowania lub usług umożliwiających przechowywanie i przetwarzanie danych, w celu wsparcia procesów cyfryzacji beneficjenta w rozumieniu art. 2 pkt 103c rozporządzenia Komisji nr 651/2014;
+17) zakupu usług dostępu do przestrzeni danych, usług certyfikacyjnych i audytów cyberbezpieczeństwa umożliwiających taki dostęp oraz usług wspierających integrację wewnętrznych systemów informatycznych i zapewnienie ich interoperacyjności oraz cyberbezpieczeństwa;
+18) nabycia albo wytworzenia środków trwałych służących:
+a) wdrożeniu, testowaniu i walidowaniu w warunkach operacyjnych nowej technologii będącej wynikiem własnych badań prowadzonych przez przedsiębiorcę lub nowej technologii zakupionej w formie wartości niematerialnych i prawnych, w tym instalacji pilotażowych i demonstracyjnych,
+b) wytworzeniu instalacji pilotażowej i demonstracyjnej umożliwiającej prowadzenie badań i prac rozwojowych oraz testowanie i walidowanie ich wyników w warunkach rzeczywistych, w tym w warunkach przemysłowych lub polowych,
+c) uruchomieniu linii pilotażowych, linii demonstracyjnych i linii produkcyjnych służących próbnej produkcji do momentu rozpoczęcia właściwej (masowej) produkcji nowego produktu;
+19) zakupu materiałów, środków eksploatacyjnych i podobnych produktów, które nie są środkami trwałymi, służących:
+a) wdrożeniu, testowaniu i walidowaniu w warunkach operacyjnych nowej technologii będącej wynikiem własnych badań prowadzonych przez przedsiębiorcę lub nowej technologii zakupionej w formie wartości niematerialnych i prawnych, w tym instalacji pilotażowych i demonstracyjnych,
+b) wytworzeniu instalacji pilotażowej i demonstracyjnej umożliwiającej prowadzenie badań i prac rozwojowych oraz testowanie i walidowanie ich wyników w warunkach rzeczywistych, w tym w warunkach przemysłowych lub polowych,
+c) uruchomieniu linii pilotażowych, linii demonstracyjnych i linii produkcyjnych służących próbnej produkcji do momentu rozpoczęcia właściwej (masowej) produkcji nowego produktu;
+20) wykonanych przez ekspertów zewnętrznych studiów, ekspertyz, koncepcji i projektów technicznych niezbędnych do wytworzenia i uruchomienia instalacji pilotażowej i demonstracyjnej;
+21) nabycia wartości niematerialnych i prawnych w formie patentów, licencji, know-how oraz innych praw własności intelektualnej, jeżeli spełniają łącznie następujące warunki:
+a) są wykorzystywane wyłącznie przez podmioty, o których mowa w art. 21c ustawy, otrzymujące pomoc de minimis,
+b) podlegają amortyzacji zgodnie z przepisami o rachunkowości,
+c) są nabyte na warunkach rynkowych od osób trzecich niepowiązanych z podmiotami, o których mowa w art. 21c ustawy, otrzymującymi pomoc de minimis,
+d) stanowią aktywa podmiotów, o których mowa w art. 21c ustawy, otrzymujących pomoc de minimis przez co najmniej 5 lat od dnia otrzymania tej pomocy, a w przypadku MŚP przez co najmniej 3 lata od dnia otrzymania tej pomocy.
+§ 9m. Pomoc de minimis nie może przekroczyć 100 % wartości kosztów kwalifikowalnych, o których mowa w § 9l.”;
+10) uchyla się rozdziały 2–10;
+11) w § 31 w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) instalację pilotażową służącą wdrożeniu i testowaniu w warunkach operacyjnych nowej technologii będącej wynikiem prac naukowo-badawczych.”.
+§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Rozwoju i Technologii: K. Paszyk
+
+#### Rozdział 1b Pomoc na innowacje procesowe i organizacyjne
+
+#### Rozdział 1c Pomoc dla MŚP na wspieranie innowacyjności
+
+#### Rozdział 1d Pomoc dla klastrów innowacyjnych
+
+#### Rozdział 1e Pomoc na usługi doradcze na rzecz MŚP
+
+#### Rozdział 1f Wspieranie udziału MŚP w targach
+
+#### Rozdział 1g Pomoc szkoleniowa
+
+#### Rozdział 1h Pomoc dla start-upów
+
+#### Rozdział 1i Pomoc de minimis
+

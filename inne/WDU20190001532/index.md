@@ -24,18 +24,18 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-08-14 |
-| Ostatnia zmiana | 2026-02-04 |
+| Ostatnia zmiana | 2026-06-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1532/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
 
-**Art. 1.** Ustawa określa zasady, tryb udzielania oraz sposób obliczania wielkości pomocy publicznej z tytułu przenoszenia kosztów zakupu uprawnień do emisji w rozumieniu ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2023 r. poz. 589 i 2029) na ceny energii elektrycznej zużywanej do wytwarzania produktów w sektorach lub podsektorach energochłonnych, zwanej dalej „rekompensatami”.
+**Art. 1.** Ustawa określa zasady, tryb udzielania oraz sposób obliczania wielkości pomocy publicznej z tytułu przenoszenia kosztów zakupu uprawnień do emisji w rozumieniu ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2025 r. poz. 1685 i 1863) na ceny energii elektrycznej zużywanej do wytwarzania produktów w sektorach lub podsektorach energochłonnych, zwanej dalej „rekompensatami”.
 
 **Art. 2.** Do ubiegania się o rekompensaty są uprawnione podmioty wykonujące działalność w sektorze lub podsektorze energochłonnym, określonym w wykazie sektorów oraz podsektorów energochłonnych stanowiącym załącznik nr 1 do ustawy.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
-- **1)** instalacji – rozumie się przez to instalację w rozumieniu art. 3 pkt 6 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834 i 1089), wytwarzającą co najmniej jeden produkt z sektora lub podsektora energochłonnego, określonych w załączniku nr 1 do ustawy;
+- **1)** instalacji – rozumie się przez to instalację w rozumieniu art. 3 pkt 6 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, z późn. zm. ), wytwarzającą co najmniej jeden produkt z sektora lub podsektora energochłonnego, określonych w załączniku nr 1 do ustawy;
 - **2)** tytule prawnym – rozumie się przez to prawo własności, prawo użytkowania wieczystego, trwały zarząd, ograniczone prawo rzeczowe albo stosunek zobowiązaniowy;
 - **3)** weryfikatorze – rozumie się przez to:
     - **a)** osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, o której mowa w art. 3 pkt 3 rozporządzenia wykonawczego Komisji (UE) 2018/2067 z dnia 19 grudnia 2018 r. w sprawie weryfikacji danych oraz akredytacji weryfikatorów na podstawie dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 334 z 31.12.2018, str. 94),
@@ -43,11 +43,11 @@ source: pdf
 
 **Art. 4.**
 
-1. Do postępowania w sprawie przyznania rekompensat, zwrotu zaliczek, zwrotu rekompensat, zakazu ubiegania się o przyznanie rekompensat oraz nakładania kar pieniężnych, o których mowa w art. 26, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+1. Do postępowania w sprawie przyznania rekompensat, zwrotu zaliczek, zwrotu rekompensat, zakazu ubiegania się o przyznanie rekompensat oraz nakładania kar pieniężnych, o których mowa w art. 26, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 2. Od decyzji Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”, wydanych w postępowaniach, o których mowa w ust. 1, przysługuje odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów.
 
-3. Do postępowań w sprawie odwołania od decyzji Prezesa URE, o których mowa w ust. 2, stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o postępowaniu w sprawach z zakresu regulacji energetyki.
+3. Do postępowań w sprawie odwołania od decyzji Prezesa URE, o których mowa w ust. 2, stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473) o postępowaniu w sprawach z zakresu regulacji energetyki.
 
 4. Do postanowień, na które przysługuje zażalenie, wydanych przez Prezesa URE w toku postępowań, o których mowa w ust. 1, przepisy ust. 2 i 3 stosuje się odpowiednio. Zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia.
 
@@ -92,7 +92,7 @@ source: pdf
 
 5. (uchylony)
 
-6. Przez terminową cenę uprawnień do emisji, o której mowa w ust. 1–3, rozumie się średnią arytmetyczną dziennych cen zamknięcia dla kontraktów terminowych uprawnień do wprowadzenia do powietrza ekwiwalentu, w rozumieniu art. 2 pkt 4 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673 oraz z 2024 r. poz. 834), dwutlenku węgla (CO ) utworzonych w ramach systemu, który służy do rozliczania wielkości emisji, i którymi można rozporządzać w Unii Europejskiej na zasadach określonych w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, wykonywanych przez dostawę w grudniu roku, za który przyznawane są rekompensaty, na giełdach Intercontinental Exchange oraz European Energy Exchange, w dniach od 1 stycznia do 31 grudnia roku poprzedzającego dany rok kalendarzowy, za który przyznawane są rekompensaty. Terminową cenę uprawnień do emisji przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, z dnia notowania kontraktów terminowych uprawnień do wprowadzania do powietrza ekwiwalentu, w rozumieniu art. 2 pkt 4 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.
+6. Przez terminową cenę uprawnień do emisji, o której mowa w ust. 1–3, rozumie się średnią arytmetyczną dziennych cen zamknięcia dla kontraktów terminowych uprawnień do wprowadzenia do powietrza ekwiwalentu, w rozumieniu art. 2 pkt 4 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2026 r. poz. 526), dwutlenku węgla (CO ) utworzonych w ramach systemu, który służy do rozliczania wielkości emisji, i którymi można rozporządzać w Unii Europejskiej na zasadach określonych w ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, wykonywanych przez dostawę w grudniu roku, za który przyznawane są rekompensaty, na giełdach Intercontinental Exchange oraz European Energy Exchange, w dniach od 1 stycznia do 31 grudnia roku poprzedzającego dany rok kalendarzowy, za który przyznawane są rekompensaty. Terminową cenę uprawnień do emisji przelicza się na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski, z dnia notowania kontraktów terminowych uprawnień do wprowadzania do powietrza ekwiwalentu, w rozumieniu art. 2 pkt 4 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.
 
 7. W przypadku, o którym mowa w ust. 3:
 
@@ -119,7 +119,7 @@ source: pdf
 
 4. Wartość dodaną brutto, o której mowa w ust. 1, oblicza się według następujących zasad:
 
-- **1)** dla jednostek sporządzających rachunek zysków i strat zgodnie z art. 47 ust. 4 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619) w wariancie porównawczym – jako przychody netto ze sprzedaży i zrównane z nimi pomniejszone o koszty działalności operacyjnej po wyłączeniu kosztów amortyzacji, wynagrodzeń oraz ubezpieczeń społecznych i innych świadczeń na rzecz pracowników, powiększone o pozostałe przychody operacyjne i pomniejszone o pozostałe koszty operacyjne;
+- **1)** dla jednostek sporządzających rachunek zysków i strat zgodnie z art. 47 ust. 4 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2026 r. poz. 522, 640 i 644) w wariancie porównawczym – jako przychody netto ze sprzedaży i zrównane z nimi pomniejszone o koszty działalności operacyjnej po wyłączeniu kosztów amortyzacji, wynagrodzeń oraz ubezpieczeń społecznych i innych świadczeń na rzecz pracowników, powiększone o pozostałe przychody operacyjne i pomniejszone o pozostałe koszty operacyjne;
 - **2)** dla jednostek sporządzających rachunek zysków i strat zgodnie z art. 47 ust. 4 pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości w wariancie kalkulacyjnym – jako przychody netto ze sprzedaży produktów, towarów i materiałów pomniejszone o koszty sprzedanych produktów, towarów i materiałów, koszty sprzedaży oraz koszty ogólnego zarządu po wyłączeniu kosztów amortyzacji, wynagrodzeń oraz ubezpieczeń społecznych i innych świadczeń na rzecz pracowników, powiększone o pozostałe przychody operacyjne i pomniejszone o pozostałe koszty operacyjne;
 - **3)** dla jednostek sporządzających sprawozdania finansowe zgodnie z Międzynarodowymi Standardami Rachunkowości na podstawie art. 45 ustawy z dnia 29 września 1994 r. o rachunkowości – jako przychody ze sprzedaży powiększone o pozostałe przychody, pomniejszone o koszty działalności operacyjnej po wyłączeniu kosztów amortyzacji, wynagrodzeń oraz ubezpieczeń społecznych i innych świadczeń na rzecz pracowników oraz pomniejszone o pozostałe koszty operacyjne;
 - **4)** dla jednostek niesporządzających sprawozdań finansowych jednostki zgodnie z Międzynarodowymi Standardami Rachunkowości na podstawie art. 45 ustawy z dnia 29 września 1994 r. o rachunkowości – w sposób określony dla jednostek, o których mowa w pkt 1 albo 2.
@@ -152,7 +152,7 @@ source: pdf
 - **1)** dokumenty lub ich kopie potwierdzające posiadanie przez wnioskodawcę tytułu prawnego do instalacji albo, w przypadku wnioskodawcy występującego z wnioskiem po raz kolejny, oświadczenie, że stan faktyczny znany Prezesowi URE z urzędu w przedmiotowym zakresie nie uległ zmianie;
 - **1a)** dokumenty potwierdzające eksploatację instalacji w dacie składania wniosku;
 - **2)** dokumenty lub ich kopie potwierdzające spełnianie przez wnioskodawcę warunku, o którym mowa w art. 5 pkt 2;
-- **3)** oświadczenie wnioskodawcy o spełnianiu przez wnioskodawcę warunków uprawniających do przyznania rekompensat, o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17) oświadczam, że: – dane zawarte we wniosku i załącznikach do niego o przyznanie rekompensat są zgodne z prawdą; – znane mi są i spełniam warunki uprawniające do przyznania rekompensat wynikające z ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **3)** oświadczenie wnioskodawcy o spełnianiu przez wnioskodawcę warunków uprawniających do przyznania rekompensat, o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oświadczam, że: – dane zawarte we wniosku i załącznikach do niego o przyznanie rekompensat są zgodne z prawdą; – znane mi są i spełniam warunki uprawniające do przyznania rekompensat wynikające z ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
 - **4)** oświadczenie wnioskodawcy:
     - **a)** że nie jest przedsiębiorstwem znajdującym się w trudnej sytuacji w rozumieniu komunikatu Komisji – Wytyczne dotyczące pomocy państwa na ratowanie i restrukturyzację przedsiębiorstw niefinansowych znajdujących się w trudnej sytuacji,
     - **b)** że nie uzyskał innej pomocy publicznej, pomocy de minimis lub innego rodzaju finansowania pochodzącego z budżetu Unii Europejskiej, przyznanych na pokrycie tych samych kosztów kwalifikowanych, co objęte wnioskiem;
@@ -165,7 +165,7 @@ source: pdf
 
 - **1)** informację o wysokości wartości dodanej brutto w roku kalendarzowym, za który są przyznawane rekompensaty, o której mowa w art. 7b ust. 1, wraz z opinią biegłego rewidenta potwierdzającą prawidłowość jej wyliczenia;
 - **2)** (uchylony)
-- **3)** oświadczenie o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17) oświadczam, że informacja o wysokości wartości dodanej brutto w roku kalendarzowym, za który są przyznawane rekompensaty, jest zgodna z prawdą.”; klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+- **3)** oświadczenie o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oświadczam, że informacja o wysokości wartości dodanej brutto w roku kalendarzowym, za który są przyznawane rekompensaty, jest zgodna z prawdą.”; klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń;
 - **4)** dokumenty lub ich kopie stanowiące podstawę do określenia wartości dodanej brutto w roku kalendarzowym, za który są przyznawane rekompensaty, o której mowa w art. 7b ust. 1.
 
 7. Wniosek wraz z załącznikami, o których mowa w ust. 5 pkt 1–5 i 7, podlega weryfikacji przez weryfikatora w zakresie poprawności, wiarygodności oraz dokładności zawartych w nim danych. Z przeprowadzonej weryfikacji sporządza się opinię. Koszty weryfikacji ponosi wnioskodawca.
@@ -186,7 +186,7 @@ source: pdf
 
 **Art. 10a.**
 
-1. W celu uzyskania zaliczki na poczet rekompensaty za rok kalendarzowy objęty wnioskiem, zwanej dalej „zaliczką”, wnioskodawca dołącza do wniosku oświadczenie o ubieganie się o zaliczkę wraz z oświadczeniem o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383) oświadczam, że nie są mi znane okoliczności wykluczające możliwość wypłaty, na rachunek bankowy wskazany we wniosku o przyznanie rekompensat wynikających z ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych, zaliczki na poczet rekompensat za rok, którego dotyczy złożony wniosek.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+1. W celu uzyskania zaliczki na poczet rekompensaty za rok kalendarzowy objęty wnioskiem, zwanej dalej „zaliczką”, wnioskodawca dołącza do wniosku oświadczenie o ubieganie się o zaliczkę wraz z oświadczeniem o treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oświadczam, że nie są mi znane okoliczności wykluczające możliwość wypłaty, na rachunek bankowy wskazany we wniosku o przyznanie rekompensat wynikających z ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych, zaliczki na poczet rekompensat za rok, którego dotyczy złożony wniosek.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 2. Zaliczkę może uzyskać wnioskodawca, który:
 
@@ -199,7 +199,7 @@ source: pdf
 
 **Art. 10b.**
 
-1. Wysokość zaliczki oblicza się zgodnie ze wzorem: P Z = 0,6× R × P w którym poszczególne symbole oznaczają: Z – kwotę zaliczki obliczoną dla wnioskodawcy; R – wartość rekompensat wypłaconych wnioskodawcy w poprzednim roku kalendarzowym; P – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat dla roku kalendarzowego, za który są przyznawane rekompensaty; P – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat dla roku kalendarzowego poprzedzającego rok, za który są przyznawane rekompensaty.
+1. Wysokość zaliczki oblicza się zgodnie ze wzorem: P Z = 0,6× R × P w którym poszczególne symbole oznaczają: 𝑍 – kwotę zaliczki obliczoną dla wnioskodawcy; R – wartość rekompensat wypłaconych wnioskodawcy w poprzednim roku kalendarzowym; P – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat dla roku kalendarzowego, za który są przyznawane rekompensaty; P – terminową cenę uprawnień do emisji uwzględnianą przy obliczaniu rekompensat dla roku kalendarzowego poprzedzającego rok, za który są przyznawane rekompensaty.
 
 2. Zaliczki są wypłacane przez Bank z Funduszu Rekompensat Pośrednich Kosztów Emisji, o którym mowa w art. 21 ust. 1, w terminie 14 dni od dnia otrzymania wykazu, o którym mowa w art. 10a ust. 3.
 
@@ -211,7 +211,7 @@ source: pdf
 
 2. W decyzji o przyznaniu rekompensat Prezes URE określa wysokość przyznanych rekompensat.
 
-3. Prezes URE jest podmiotem udzielającym pomocy publicznej w rozumieniu ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702), w odniesieniu do pomocy publicznej udzielanej na podstawie ustawy.
+3. Prezes URE jest podmiotem udzielającym pomocy publicznej w rozumieniu ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2026 r. poz. 500), w odniesieniu do pomocy publicznej udzielanej na podstawie ustawy.
 
 4. Prezes URE, do dnia 7 listopada danego roku kalendarzowego, przekazuje ministrowi właściwemu do spraw gospodarki oraz Bankowi w postaci elektronicznej umożliwiającej przetwarzanie zawartych w nim danych, wykaz podmiotów, którym przyznano rekompensaty w tym roku kalendarzowym.
 
@@ -238,13 +238,13 @@ source: pdf
 
 **Art. 12a.**
 
-1. Podmiot, któremu zostały przyznane rekompensaty, będący podmiotem, o którym mowa w art. 36 ust. 1 lub 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2024 r. poz. 1047), jest obowiązany do ograniczenia emisji gazów cieplarnianych w rozumieniu art. 3 pkt 4 i 5 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych lub poprawy efektywności energetycznej w rozumieniu art. 2 pkt 3 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej.
+1. Podmiot, któremu zostały przyznane rekompensaty, będący podmiotem, o którym mowa w art. 36 ust. 1 lub 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2025 r. poz. 711), jest obowiązany do ograniczenia emisji gazów cieplarnianych w rozumieniu art. 3 pkt 4 i 5 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych lub poprawy efektywności energetycznej w rozumieniu art. 2 pkt 3 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej.
 
 2. Obowiązek, o którym mowa w ust. 1, uznaje się za spełniony, jeżeli podmiot, o którym mowa w ust. 1:
 
 - **1)** zrealizował przedsięwzięcia służące poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej wskazane w ostatnim na dzień złożenia wniosku audycie energetycznym przedsiębiorstwa, o którym mowa w rozdziale 5 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, dla których okres zwrotu nakładów nie przekracza 3 lat, albo
 - **2)** wykazał, że w roku kalendarzowym, za który zostały przyznane rekompensaty, co najmniej 30 % energii elektrycznej, w odniesieniu do której podmiot ten uzyskał rekompensaty, zostało wytworzonej ze źródeł zapewniających uniknięcie emisji gazów cieplarnianych w rozumieniu art. 3 pkt 4 i 5 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, albo
-- **3)** poniósł nakłady finansowe, w wysokości nie mniejszej niż 50 % wartości rekompensat uzyskanych za dany rok kalendarzowy, na przedsięwzięcia mające na celu ograniczenie emisji gazów cieplarnianych w rozumieniu art. 3 pkt 4 i 5 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych z instalacji w rozumieniu art. 3 pkt 7 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, wobec której podmiot ten jest prowadzącym instalację w rozumieniu art. 3 pkt 16 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, poniżej mającego zastosowanie wskaźnika emisyjności, o którym mowa w rozporządzeniu Komisji (UE) 2021/447, oraz poniżej przypisanej do tego wskaźnika średniej wartości 10 % najbardziej wydajnych instalacji w 2016 i 2017 r. wskazanej w załączniku do rozporządzenia wykonawczego (UE) 2021/447.
+- **3)** poniósł nakłady finansowe, w wysokości niemniejszej niż 50 % wartości rekompensat uzyskanych za dany rok kalendarzowy, na przedsięwzięcia mające na celu ograniczenie emisji gazów cieplarnianych w rozumieniu art. 3 pkt 4 i 5 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych z instalacji w rozumieniu art. 3 pkt 7 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, wobec której podmiot ten jest prowadzącym instalację w rozumieniu art. 3 pkt 16 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, poniżej mającego zastosowanie wskaźnika emisyjności, o którym mowa w rozporządzeniu Komisji (UE) 2021/447, oraz poniżej przypisanej do tego wskaźnika średniej wartości 10 % najbardziej wydajnych instalacji w 2016 i 2017 r. wskazanej w załączniku do rozporządzenia wykonawczego (UE) 2021/447.
 
 3. (uchylony)
 
@@ -252,7 +252,7 @@ source: pdf
 
 5. W przypadku, o którym mowa w ust. 2 pkt 2, wykazanie pochodzenia energii elektrycznej ze źródeł zapewniających uniknięcie emisji gazów cieplarnianych w rozumieniu art. 3 pkt 4 i 5 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych jest realizowane wyłącznie:
 
-- **1)** potwierdzeniem umorzenia gwarancji pochodzenia, o którym mowa w art. 124a ust. 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2023 r. poz. 1436, 1597, 1681 i 1762 oraz z 2024 r. poz. 834), na rzecz podmiotu, o którym mowa w ust. 1, dokonanego nie wcześniej niż w roku kalendarzowym, za który temu podmiotowi zostały przyznane rekompensaty, lub
+- **1)** potwierdzeniem umorzenia gwarancji pochodzenia, o którym mowa w art. 124a ust. 4 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2026 r. poz. 68 i 516), na rzecz podmiotu, o którym mowa w ust. 1, dokonanego niewcześniej niż w roku kalendarzowym, za który temu podmiotowi zostały przyznane rekompensaty, lub
 - **2)** przez wytworzenie przez podmiot, któremu zostały przyznane rekompensaty, energii elektrycznej z odnawialnych źródeł energii w rozumieniu art. 2 pkt 22 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii w roku kalendarzowym, za który zostały przyznane rekompensaty, w instalacjach odnawialnego źródła energii w rozumieniu art. 2 pkt 13 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii i zużycie tej energii elektrycznej na jego własne potrzeby.
 
 **Art. 12b.**
@@ -267,8 +267,8 @@ source: pdf
 
 - **1)** sprawozdanie sporządzone zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 5 wraz z dokumentami lub ich kopiami potwierdzającymi realizację tego obowiązku;
 - **2)** oświadczenie o treści:
-    - **a)** „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17) oświadczam, że informacje zawarte w złożonym sprawozdaniu, o którym mowa w art. 12b ust. 3 pkt 1 ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych, są zgodne z prawdą.”; klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń, oraz
-    - **b)** „Oświadczam, że zobowiązuję się do zrealizowania przedsięwzięć służących poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej wskazanych w ostatnim na dzień złożenia wniosku o przyznanie rekompensat audycie energetycznym przedsiębiorstwa, o którym mowa w rozdziale 5 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, dla których okres zwrotu nakładów nie przekracza 3 lat – nie później niż w ciągu 4 lat od dnia wykonania audytu energetycznego przedsiębiorstwa, z którego przedsięwzięcia te wynikają” – w przypadku wykonywania obowiązku, o którym mowa w art. 12a ust. 1, w sposób, o którym mowa w art. 12a ust. 2 pkt 1, w odniesieniu do przedsięwzięć służących poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, które na dzień złożenia sprawozdania, o którym mowa w pkt 1, nie zostały zrealizowane.
+    - **a)** „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oświadczam, że informacje zawarte w złożonym sprawozdaniu, o którym mowa w art. 12b ust. 3 pkt 1 ustawy z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych, są zgodne z prawdą.”; klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń, oraz
+    - **b)** „Oświadczam, że zobowiązuję się do zrealizowania przedsięwzięć służących poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej wskazanych w ostatnim na dzień złożenia wniosku o przyznanie rekompensat audycie energetycznym przedsiębiorstwa, o którym mowa w rozdziale 5 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, dla których okres zwrotu nakładów nie przekracza 3 lat – niepóźniej niż w ciągu 4 lat od dnia wykonania audytu energetycznego przedsiębiorstwa, z którego przedsięwzięcia te wynikają” – w przypadku wykonywania obowiązku, o którym mowa w art. 12a ust. 1, w sposób, o którym mowa w art. 12a ust. 2 pkt 1, w odniesieniu do przedsięwzięć służących poprawie efektywności energetycznej w rozumieniu art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, które na dzień złożenia sprawozdania, o którym mowa w pkt 1, nie zostały zrealizowane.
 
 4. (uchylony)
 
@@ -287,7 +287,7 @@ source: pdf
 
 **Art. 15.** Prezes URE wydaje decyzję w sprawie zwrotu zaliczki lub zwrotu rekompensat określającą kwotę podlegającą zwrotowi. Zaliczki lub rekompensaty zwracane są na rachunek Banku w terminie 14 dni od dnia, w którym decyzja Prezesa URE stała się prawomocna.
 
-**Art. 16.** Do egzekucji zwrotu zaliczki lub zwrotu rekompensat stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858 i 859).
+**Art. 16.** Do egzekucji zwrotu zaliczki lub zwrotu rekompensat stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268 i 516).
 
 **Art. 17.** Postępowanie w sprawie zwrotu zaliczki lub zwrotu rekompensat nie może zostać wszczęte, jeżeli od dnia zaistnienia przesłanki, o której mowa w art. 13 lub art. 13a, upłynęło 5 lat.
 
@@ -347,9 +347,9 @@ source: pdf
 1. Przychodami Funduszu są:
 
 - **1)** środki ze sprzedaży w drodze aukcji uprawnień do emisji, o których mowa w art. 49 ust. 2c ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych;
-- **2)** odsetki od wolnych środków Funduszu przekazanych w zarządzanie zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. );
+- **2)** odsetki od wolnych środków Funduszu przekazanych w zarządzanie zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426, 635 i 680);
 - **3)** środki stanowiące zwroty rekompensat dokonywane na podstawie decyzji, o której mowa w art. 15;
-- **3a)** niewykorzystane środki, o których mowa w art. 9 ust. 6a ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu (Dz. U. z 2024 r. poz. 303, 834 i 859);
+- **3a)** niewykorzystane środki, o których mowa w art. 9 ust. 6a ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu (Dz. U. z 2025 r. poz. 204);
 - **4)** inne przychody.
 
 2. Fundusz może otrzymywać wpłaty z budżetu państwa z przeznaczeniem na realizację programu rządowego, o którym mowa w ustawie z dnia 29 września 2022 r. o zasadach realizacji programów wsparcia przedsiębiorców w związku z sytuacją na rynku energii w latach 2022–2024 (Dz. U. poz. 2088).
@@ -430,7 +430,7 @@ source: pdf
 
 2. Do wniosku o przyznanie rekompensat za 2019 rok załącza się:
 
-- **1)** kopie oświadczeń, o których mowa w art. 6 ust. 6 lub art. 7 ust. 7 ustawy zmienianej w art. 28 , wraz z potwierdzeniem ich otrzymania odpowiednio przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną lub Zarządcę Rozliczeń S.A., o którym mowa w rozdziale 7 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311);
+- **1)** kopie oświadczeń, o których mowa w art. 6 ust. 6 lub art. 7 ust. 7 ustawy zmienianej w art. 28 , wraz z potwierdzeniem ich otrzymania odpowiednio przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną lub Zarządcę Rozliczeń S.A., o którym mowa w rozdziale 7 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311 oraz z 2026 r. poz. 176);
 - **2)** dokumenty potwierdzające dokonanie zwrotu kwoty obliczonej zgodnie z art. 6 ust. 8 ustawy zmienianej w art. 28 .
 
 3. W sprawie przyznania lub odmowy przyznania rekompensat za rok 2019 Prezes URE wydaje decyzję, o której mowa w art. 11 ust. 1, do dnia 31 lipca 2020 r.
@@ -468,7 +468,7 @@ source: pdf
 
 **Art. 31e.** Prezes URE wydaje decyzję w sprawie zwrotu części rekompensat za rok 2024 określającą kwotę podlegającą zwrotowi. Część rekompensat za rok 2024 jest zwracana na rachunek Banku w terminie 14 dni od dnia, w którym decyzja Prezesa URE stała się prawomocna.
 
-**Art. 31f.** Do egzekucji zwrotu części rekompensat za rok 2024 stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132 i 620).
+**Art. 31f.** Do egzekucji zwrotu części rekompensat za rok 2024 stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 
 **Art. 31g.** Do sporządzania wykazu, o którym mowa w art. 31a ust. 3, przepisów Kodeksu postępowania administracyjnego oraz art. 10 ust. 9 nie stosuje się.
 
@@ -605,6 +605,4 @@ source: pdf
 **Art. 37.** Plan finansowy Funduszu na rok 2020 sporządza się w terminie 60 dni od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-
-## Załączniki do ustawy z dnia 19 lipca 2019 (Dz. U. z 2024 r. poz. 1215) Załącznik
 

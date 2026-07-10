@@ -29,9 +29,7 @@ source: pdf
 
 **Art. 1.**
 
-1. Ustawa dotyczy uregulowania zobowiązań Skarbu Państwa wynikających z orzeczeń Społecznej Komisji Rewindykacyjnej, o której mowa w art. 5 ustawy z dnia 25 października 1990 r. o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego (Dz. U. z 1996 r. Nr 143, poz. 661, z 1997 r. Nr 82, poz. 518 i z 1998 r. Nr 162, poz.
-
-- **1113)** , zwanej dalej „ustawą rewindykacyjną”.
+1. Ustawa dotyczy uregulowania zobowiązań Skarbu Państwa wynikających z orzeczeń Społecznej Komisji Rewindykacyjnej, o której mowa w art. 5 ustawy z dnia 25 października 1990 r. o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego (Dz. U. z 1996 r. Nr 143, poz. 661, z 1997 r. Nr 82, poz. 518 i z 1998 r. Nr 162, poz. 1113), zwanej dalej „ustawą rewindykacyjną”.
 
 2. Ilekroć w przepisach ustawy jest mowa o zobowiązaniach Skarbu Państwa, należy przez to rozumieć kwoty takich zobowiązań ustalone w orzeczeniach Społecznej Komisji Rewindykacyjnej wraz z odsetkami ustawowymi naliczonymi na zasadach określonych w art. 3 ustawy rewindykacyjnej.
 

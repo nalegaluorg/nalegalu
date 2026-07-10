@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2001-07-27 |
 | Data wydania | 2001-09-12 |
-| Ostatnia zmiana | 2026-06-01 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010981071) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1071/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -56,6 +56,64 @@ source: pdf
 
 3. Minister Sprawiedliwości określi, w drodze zarządzenia, wzory znaków identyfikacyjnych kuratora zawodowego, kuratora społecznego oraz aplikanta kuratorskiego.
 
+**Art. 3b.**
+
+1. Kuratorowi zawodowemu, kuratorowi społecznemu i aplikantowi kuratorskiemu wydaje się legitymację służbową.
+
+2. Legitymacja służbowa zawiera:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** wizerunek twarzy;
+- **3)** numer legitymacji służbowej oraz datę jej ważności;
+- **4)** nazwę organu, który wydał legitymację służbową;
+- **5)** miejscowość i datę wydania legitymacji służbowej.
+
+3. Legitymacja służbowa zawiera ponadto, w przypadku:
+
+- **1)** kuratora zawodowego – nazwę sądu, w którym jest zatrudniony;
+- **2)** kuratora społecznego – nazwę sądu, w którym pełni swoją funkcję;
+- **3)** aplikanta kuratorskiego – nazwę sądu okręgowego, w którym jest zatrudniony, oraz nazwę sądu rejonowego, w którym odbywa szkolenie praktyczne.
+
+**Art. 3c.** Organem właściwym w sprawach dotyczących wydania, wymiany, zwrotu albo utraty legitymacji służbowej jest:
+
+- **1)** prezes sądu okręgowego – w przypadkach kuratora zawodowego i aplikanta kuratorskiego;
+- **2)** prezes sądu rejonowego – w przypadku kuratora społecznego.
+
+**Art. 3d.** Legitymacja służbowa podlega wymianie w przypadku:
+
+- **1)** zmiany danych w niej zawartych;
+- **2)** jej uszkodzenia;
+- **3)** jej zniszczenia;
+- **4)** upływu terminu jej ważności.
+
+**Art. 3e.**
+
+1. Legitymacja służbowa kuratora zawodowego podlega zwrotowi w przypadku:
+
+- **1)** zawieszenia kuratora zawodowego w pełnieniu obowiązków służbowych;
+- **2)** wygaśnięcia stosunku pracy z kuratorem zawodowym;
+- **3)** rozwiązania stosunku pracy z kuratorem zawodowym;
+- **4)** upływu terminu jej ważności.
+
+2. Legitymacja służbowa kuratora społecznego podlega zwrotowi w przypadku:
+
+- **1)** zawieszenia kuratora społecznego w czynnościach;
+- **2)** odwołania kuratora społecznego z powierzonej mu funkcji;
+- **3)** upływu terminu jej ważności.
+
+3. Legitymacja służbowa aplikanta kuratorskiego podlega zwrotowi w przypadku:
+
+- **1)** rozwiązania stosunku pracy z aplikantem kuratorskim;
+- **2)** upływu terminu jej ważności.
+
+**Art. 3f.** Kurator zawodowy, kurator społeczny i aplikant kuratorski są obowiązani dbać o należyty stan swojej legitymacji służbowej, a także chronić ją przed uszkodzeniem, zniszczeniem albo utratą.
+
+**Art. 3g.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** wzór legitymacji służbowej,
+- **2)** sposób postępowania w sprawach dotyczących wydania, wymiany, zwrotu albo utraty legitymacji służbowej,
+- **3)** termin ważności legitymacji służbowej – kuratora zawodowego, kuratora społecznego i aplikanta kuratorskiego, mając na względzie konieczność zapewnienia możliwości identyfikacji kuratorów sądowych i aplikantów kuratorskich, sprawności postępowania w sprawach dotyczących wydania, wymiany, zwrotu albo utraty legitymacji służbowej oraz jej właściwej ochrony przed podrobieniem, przerobieniem lub użyciem przez osobę nieuprawnioną.
+
 #### Rozdział 2 Kuratorzy zawodowi
 
 **Art. 4.**
@@ -83,7 +141,7 @@ source: pdf
 - **5)** odbył aplikację kuratorską;
 - **6)** zdał egzamin kuratorski.
 
-2. Minister Sprawiedliwości, na wniosek prezesa sądu okręgowego, może, w szczególnie uzasadnionych wypadkach, zwolnić aplikanta kuratorskiego z pozostałej do odbycia części aplikacji kuratorskiej i złożenia egzaminu kuratorskiego.
+2. Minister Sprawiedliwości, na wniosek prezesa sądu okręgowego, może, w szczególnie uzasadnionych wypadkach, zwolnić aplikanta kuratorskiego z pozostałej do odbycia części aplikacji kuratorskiej lub ze złożenia egzaminu kuratorskiego.
 
 3. Do określania stanu zdrowia wymaganego do podjęcia obowiązków kuratora zawodowego lub aplikanta kuratorskiego stosuje się odpowiednio przepisy dotyczące przeprowadzania badań kandydatów do objęcia urzędu sędziego.
 
@@ -215,7 +273,7 @@ source: pdf
 
 3. Kuratorowi zawodowemu przysługuje dodatek patronacki za sprawowanie patronatu nad aplikantem kuratorskim.
 
-4. Kuratorowi zawodowemu, w tym rzecznikowi dyscyplinarnemu, może być przyznany przez prezesa właściwego sądu, na czas określony, dodatek specjalny z tytułu okresowego zwiększenia zakresu obowiązków służbowych, w tym za zastępowanie osoby długotrwale nieobecnej w pracy, lub wykonywanie innych czynności poza zwykłym zakresem obowiązków do wysokości 40 % wynagrodzenia zasadniczego, w ramach posiadanych środków określonych na wynagrodzenia osobowe kuratorów zawodowych.
+4. Kuratorowi zawodowemu, w tym rzecznikowi dyscyplinarnemu, może być przyznany przez prezesa właściwego sądu dodatek specjalny z tytułu okresowego zwiększenia zakresu obowiązków służbowych, w tym za zastępowanie osoby długotrwale nieobecnej w pracy, lub z tytułu wykonywania innych czynności poza zwykłym zakresem obowiązków służbowych. Dodatek ten może być przyznany na czas określony za okres wykonywania tych zadań do wysokości 40 % wynagrodzenia zasadniczego w ramach posiadanych środków określonych na wynagrodzenia osobowe kuratorów zawodowych.
 
 4a. Dodatek specjalny, o którym mowa w ust. 4, może być przyznany kuratorowi okręgowemu, zastępcy kuratora okręgowego oraz kuratorom, o których mowa w art. 37b ust. 1 i art. 38 ust. 2, za zgodą Ministra Sprawiedliwości.
 
@@ -227,7 +285,7 @@ source: pdf
 
 6. Kuratorowi zawodowemu przysługuje dodatek za wieloletnią pracę, wynoszący począwszy od szóstego roku pracy 5 % miesięcznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1 % za każdy dalszy rok pracy, aż do osiągnięcia 20 % miesięcznego wynagrodzenia zasadniczego.
 
-7. Rada Ministrów określi, w drodze rozporządzenia, mnożniki wynagrodzenia zasadniczego kuratorów zawodowych i aplikantów kuratorskich, stawki dodatku funkcyjnego i patronackiego oraz szczegółowe warunki przyznawania dodatku patronackiego i dodatku specjalnego, uwzględniając rangę zawodu kuratora.
+7. Minister Sprawiedliwości określi, w drodze rozporządzenia, mnożniki wynagrodzenia zasadniczego kuratorów zawodowych i aplikantów kuratorskich, stawki dodatku funkcyjnego i patronackiego oraz szczegółowe warunki przyznawania dodatku patronackiego i dodatku specjalnego, uwzględniając rangę zawodu kuratora.
 
 **Art. 15.**
 
@@ -473,7 +531,7 @@ source: pdf
 - **4)** kontroluje wykonywanie obowiązków nadzorczych przez prezesów sądów okręgowych działających na obszarze apelacji;
 - **5)** wydaje zarządzenia nadzorcze.
 
-5. Czynnościami z zakresu nadzoru, o którym mowa w ust. 3, są ponadto:
+5. Czynnościami z zakresu nadzoru, o którym mowa w ust. 1 i 3, są ponadto:
 
 - **1)** wizytacja, obejmująca pełną działalność kuratora okręgowego lub zespołu kuratorskiej służby sądowej;
 - **2)** lustracja, obejmująca wybrane zagadnienia z działalności kuratora okręgowego lub zespołu kuratorskiej służby sądowej.
@@ -1151,7 +1209,7 @@ source: pdf
 1. Komisja egzaminacyjna składa się z:
 
 - **1)** przewodniczącego, którym jest Rektor-Komendant uczelni albo osoba przez niego wyznaczona z grona nauczycieli akademickich uczelni posiadająca co najmniej stopień doktora;
-- **2)** czterech członków, w tym co najmniej jednego przedstawiciela Ministra Sprawiedliwości oraz co najmniej jednego przedstawiciela Krajowej Rady Kuratorów.
+- **2)** czterech członków, w tym co najmniej jednego przedstawiciela Ministra Sprawiedliwości oraz co najmniej jednego przedstawiciela Krajowej Rady Kuratorów będącego delegatem do tej rady.
 
 2. Przewodniczący zawiadamia Ministra Sprawiedliwości oraz Przewodniczącego Krajowej Rady Kuratorów o konieczności wskazania przedstawicieli, o których mowa w ust. 1 pkt 2.
 
@@ -1159,11 +1217,13 @@ source: pdf
 
 4. O składzie komisji egzaminacyjnej oraz terminie i miejscu egzaminu przewodniczący zawiadamia Ministra Sprawiedliwości, Przewodniczącego Krajowej Rady Kuratorów, członków komisji oraz, za pośrednictwem prezesów sądów okręgowych, podlegających egzaminowi aplikantów co najmniej na miesiąc przed wyznaczonym terminem egzaminu kuratorskiego.
 
+5. Członkowi komisji egzaminacyjnej przysługuje w związku z udziałem w pracach tej komisji zwrot kosztów podróży i noclegów na zasadach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
+
 **Art. 80.**
 
 1. Egzamin kuratorski przeprowadza się 4 razy w roku w terminach wyznaczonych przez Ministra Sprawiedliwości po zasięgnięciu opinii RektoraKomendanta uczelni.
 
-1a. Aplikant przystępuje do egzaminu kuratorskiego w pierwszym możliwym terminie po odbyciu aplikacji kuratorskiej.
+1a. Aplikant przystępuje do egzaminu kuratorskiego w pierwszym możliwym terminie po odbyciu aplikacji kuratorskiej albo uzyskaniu zwolnienia z pozostałej do odbycia części aplikacji kuratorskiej.
 
 1b. Prezes sądu okręgowego informuje Rektora-Komendanta uczelni o odbyciu przez aplikanta aplikacji kuratorskiej w terminie 7 dni od dnia jej ukończenia.
 
@@ -1326,8 +1386,6 @@ source: pdf
 1. Stażyści kuratorscy z dniem wejścia w życie ustawy stają się aplikantami kuratorskimi.
 
 2. Stażysta kuratorski przyjęty na staż przed dniem wejścia w życie ustawy nieposiadający wykształcenia, o którym mowa w art. 5 ust. 1 pkt 4, lub posiadający wykształcenie średnie może być mianowany kuratorem zawodowym.
-
-**Art. 104.** Minister Sprawiedliwości określi, w drodze zarządzenia, wzory legitymacji kuratora zawodowego, aplikanta kuratorskiego oraz legitymacji kuratora społecznego.
 
 **Art. 105.** W sprawach nieuregulowanych w ustawie do kuratorów zawodowych oraz aplikantów kuratorskich stosuje się przepisy Kodeksu pracy.
 

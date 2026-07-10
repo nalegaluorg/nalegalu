@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-08 |
 | Data wydania | 2021-12-01 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002209) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2209/text.pdf) |
 
 w sprawie szczegółowych zasad i trybu wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu i poborze energii elektrycznej lub ciepła Na podstawie art. 11 ust. 6 i 6a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, 868, 1093, 1505, 1642 i 1873) zarządza się, co następuje:

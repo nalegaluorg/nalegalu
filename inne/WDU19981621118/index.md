@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1998-12-17 |
 | Data wydania | 1998-12-30 |
-| Ostatnia zmiana | 2026-05-20 |
+| Ostatnia zmiana | 2026-06-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981621118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/1118/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne

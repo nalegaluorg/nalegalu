@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.*
 
-Łącznie: **414** orzeczeń
+Łącznie: **415** orzeczeń
 (pominięto 276 orzeczeń sądów rejonowych)
 
 ## art. 1 (13)
@@ -315,8 +315,9 @@ Orzeczenia powołujące: *Ustawa z dnia 17 czerwca 1966 r. o postępowaniu egzek
 
 - 2014-09-17 | SO | [III AUa 2735/13](https://www.saos.org.pl/judgments/65354) | Wyrok
 
-## art. 26 (30)
+## art. 26 (31)
 
+- 2026-04-23 | SO | [III AUa 753/25](https://www.saos.org.pl/judgments/547775) | Wyrok
 - 2022-05-18 | SO | [III AUa 377/22](https://www.saos.org.pl/judgments/472282) | Wyrok
 - 2021-12-22 | SO | [I ACa 950/21](https://www.saos.org.pl/judgments/460290) | Wyrok
 - 2021-03-17 | SO | [III AUa 865/20](https://www.saos.org.pl/judgments/434637) | Wyrok
@@ -370,8 +371,9 @@ Orzeczenia powołujące: *Ustawa z dnia 17 czerwca 1966 r. o postępowaniu egzek
 
 - 2018-10-17 | SO | [I ACa 185/18](https://www.saos.org.pl/judgments/366936) | Wyrok
 
-## art. 26 § 5 (7)
+## art. 26 § 5 (8)
 
+- 2026-04-23 | SO | [III AUa 753/25](https://www.saos.org.pl/judgments/547775) | Wyrok
 - 2014-09-22 | SO | [III AUa 2679/13](https://www.saos.org.pl/judgments/65049) | Wyrok
 - 2013-06-12 | SO | [III AUa 1568/12](https://www.saos.org.pl/judgments/15437) | Wyrok
 - 2021-12-14 | SO | [III AUa 1251/20](https://www.saos.org.pl/judgments/520592) | Uzasadnienie

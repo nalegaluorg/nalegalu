@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 6 lipca 1982 r. o radcach prawnych.*
 
-Łącznie: **661** orzeczeń
-(pominięto 711 orzeczeń sądów rejonowych)
+Łącznie: **662** orzeczeń
+(pominięto 712 orzeczeń sądów rejonowych)
 
 ## art. 1 (5)
 
@@ -226,12 +226,13 @@ Orzeczenia powołujące: *Ustawa z dnia 6 lipca 1982 r. o radcach prawnych.*
 - 2015-03-06 | SO | [II C 775/13](https://www.saos.org.pl/judgments/285258) | Wyrok
 - 2019-10-15 | SO | [XIII Ga 25/19](https://www.saos.org.pl/judgments/393506) | Uzasadnienie
 
-## art. 9 (6)
+## art. 9 (7)
 
 - 2001-03-29 | SN | [I PKN 326/00](https://www.saos.org.pl/judgments/80452) | Wyrok ★
 - 1999-03-05 | SN | [I PKN 621/98](https://www.saos.org.pl/judgments/78882) | Wyrok ★
 - 2021-12-15 | SO | [I AGa 33/21](https://www.saos.org.pl/judgments/488054) | Wyrok
 - 2022-10-04 | SO | [VII Pa 67/21](https://www.saos.org.pl/judgments/477927) | Wyrok
+- 2022-03-23 | SO | [VI P 232/21](https://www.saos.org.pl/judgments/547633) | Wyrok
 - 2019-04-10 | SO | [VII Pa 17/19](https://www.saos.org.pl/judgments/390222) | Wyrok
 - 2019-03-27 | SO | [VII U 1814/18](https://www.saos.org.pl/judgments/390019) | Wyrok
 
@@ -846,13 +847,14 @@ Orzeczenia powołujące: *Ustawa z dnia 6 lipca 1982 r. o radcach prawnych.*
 
 - 2021-10-27 | SO | [II K 31/20](https://www.saos.org.pl/judgments/502963) | Wyrok
 
-## art. 22(4) (7)
+## art. 22(4) (8)
 
 - 2020-12-16 | SO | [III AUa 48/20](https://www.saos.org.pl/judgments/473808) | Wyrok
 - 2017-09-19 | SO | [III AUa 1079/17](https://www.saos.org.pl/judgments/317494) | Wyrok
 - 2024-02-14 | SO | [VII P 23/22](https://www.saos.org.pl/judgments/511784) | Wyrok
 - 2023-11-29 | SO | [VII Pa 29/23](https://www.saos.org.pl/judgments/511833) | Wyrok
 - 2022-05-18 | SO | [VII P 29/19](https://www.saos.org.pl/judgments/474318) | Wyrok
+- 2022-03-23 | SO | [VI P 232/21](https://www.saos.org.pl/judgments/547633) | Wyrok
 - 2015-04-01 | SO | [VI P 623/14](https://www.saos.org.pl/judgments/197496) | Wyrok
 - 2014-11-14 | SO | [III Ca 743/14](https://www.saos.org.pl/judgments/124946) | Uzasadnienie
 

@@ -1,0 +1,130 @@
+---
+title: "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 28 lipca 2025 r. zmieniające rozporządzenie w sprawie minimalnych standardów noclegowni, schronisk dla osób bezdomnych, schronisk dla osób bezdomnych z usługami opiekuńczymi i ogrzewalni"
+address: WDU20250001059
+eli: DU/2025/1059
+publisher: DU
+year: 2025
+pos: 1059
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1059 ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 28 lipca 2025 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2025 poz. 1059 |
+| ISAP | WDU20250001059 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2025-07-28 |
+| Data wydania | 2025-08-04 |
+| Wejście w życie | 2025-08-19 |
+| Ostatnia zmiana | 2025-08-05 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001059) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1059/text.pdf) |
+
+zmieniające rozporządzenie w sprawie minimalnych standardów noclegowni, schronisk dla osób schronisk dla osób bezdomnych z usługami opiekuńczymi i ogrzewalni Na podstawie art. 48a ust. 14 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 oraz z 2025 r. poz. 620 i 718) zarządza się, co następuje:
+§ 1. W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 kwietnia 2018 r.
+nych standardów noclegowni, schronisk dla osób bezdomnych, schronisk dla osób bezdomnych z usługami i ogrzewalni (Dz. U. poz. 896) załączniki nr 1–4 do rozporządzenia otrzymują brzmienie określone odpowiednio nikach nr 1–4 do niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Rodziny, Pracy i Polityki Społecznej: A.
+MINIMALNY STANDARD PODSTAWOWYCH USŁUG ŚWIADCZONYCH W NOCLEGOWNIACH ORAZ MINIMALNY STANDARD OBIEKTÓW, W KTÓRYCH MIESZCZĄ SIĘ NOCLEGOWNIE KRYTERIA STANDARDU NORMY STANDARD ŚWIADCZONYCH USŁUG Okres świadczenia usług Noclegownia jest czynna cały rok, przez 7 dni w tygodniu, – od 1 października do 31 marca: od 18.00 do 8.00, – od 1 kwietnia do 30 września: od 19.00 do 7.00.
+Forma świadczonej usługi Tymczasowe schronienie w postaci miejsca do spania w ogrzewanym pomieszczeniu, którego temperatura nie jest niższa niż 20 Zakres usług Umożliwienie spożycia posiłku i zapewnienie gorącego napoju.
+Umożliwienie skorzystania z prysznica oraz wymiany odzieży.
+Zapewnienie dezynfekcji i dezynsekcji odzieży w przypadku możliwości jej wymiany.
+Zapewnienie informacji o dostępnych formach pomocy, rozmowy wspierające i motywujące.
+Zapewnienie opieki przez co najmniej 1 osobę, o której mowa ust. 3a ustawy z dnia 12 marca 2004 r. o pomocy społecznej, niż 50 osób przebywających w placówce.
+W uzasadnionych przypadkach dopuszcza się krótkotrwałe, 7 dni, przekroczenie powyższej normy o nie więcej niż 10 Dopuszcza się wykonywanie świadczeń przez wolontariuszy osoby zatrudnionej w placówce. Wolontariusz musi mieć szkolenie z zakresu udzielania pierwszej pomocy.
+STANDARD OBIEKTU Liczba miejsc w placówce Liczba miejsc nie większa niż 100.
+Liczba osób w pomieszczeniach Nie więcej niż 20 osób w pomieszczeniu.
+noclegowych Powierzchnia przypadająca na osobę Nie mniej niż 3 m /osobę.
+w pomieszczeniu noclegowym W pomieszczeniach z łóżkami piętrowymi nie mniej niż 2 Wyposażenie pomieszczeń Pomieszczenia noclegowe z co najmniej 1 otwieranym oknem noclegowych pomieszczenie lub wentylacją przewidzianą dla pomieszczeń bez otwieranych okien.
+Pomieszczenia noclegowe ze swobodnym dostępem do łóżek.
+Miejsca do spania wyposażone w materac i komplet pościeli prześcieradło i pokrycie na koc).
+Pomieszczenia higienicznosanitarne Urządzenie natryskowe – 1 dla 15 osób.
+Umywalka – 1 dla 5 osób.
+Miska ustępowa – 1 dla 10 osób; w przypadku placówek, zamieszkują wyłącznie mężczyźni, oraz w przypadku wydzielonych męskich w placówkach koedukacyjnych dopuszcza się zastąpienie niż połowy misek ustępowych pisuarami.
+W uzasadnionych przypadkach (np. remont, uszkodzenie) krótkotrwałe, do 30 dni, odstępstwo od norm o nie więcej Pomieszczenia higienicznosanitarne zapewniające stały dostęp ciepłej i zimnej wody oraz gwarantujące możliwość przeprowadzenia zabiegów higienicznych.
+Jadalnia/świetlica Pomieszczenie do spożywania posiłków, które poza porami pełnić funkcję świetlicy lub sali spotkań grupowych.
+Pomieszczenie biurowe Wydzielone pomieszczenie z dostępem do Internetu do prac indywidualnych rozmów z osobami bezdomnymi.
+Magazyn odzieży, bielizny, pościeli Pomieszczenia wyposażone w regały, szafy zapewniające indywidualną przestrzeń i inne meble umożliwiające wymianę Magazyn środków chemicznych Wydzielone pomieszczenie na środki higieny osobistej, środki przybory toaletowe i inne przedmioty niezbędne do higieny Pralnia i suszarnia Wydzielone pomieszczenie wyposażone w co najmniej 1 i 1 suszarkę dla 30 osób.
+W przypadku gdy noclegownia nie posiada suszarni, zapewnia co najmniej 1 suszarki elektrycznej na 30 osób.
+MINIMALNY STANDARD PODSTAWOWYCH USŁUG ŚWIADCZONYCH W SCHRONISKACH DLA OSÓB BEZDOMNYCH ORAZ MINIMALNY STANDARD OBIEKTÓW, W KTÓRYCH SCHRONISKA DLA OSÓB BEZDOMNYCH KRYTERIA STANDARDU NORMY STANDARD ŚWIADCZONYCH USŁUG Okres świadczenia usług Schronisko świadczy usługi przez cały rok, przez 7 dni w Forma świadczonej usługi Możliwość całodobowego przebywania w schronisku, w tym miejsca do spania w ogrzewanym pomieszczeniu, którego niższa niż 20 °C.
+Zakres usług Umożliwienie spożycia posiłku oraz dostęp do pomieszczenia umożliwiającego samodzielne przygotowanie posiłku i gorącego Umożliwienie skorzystania z prysznica, wymiany odzieży.
+prania i suszenia odzieży.
+Zapewnienie dezynfekcji i dezynsekcji odzieży w przypadku możliwości jej wymiany.
+Zapewnienie informacji o dostępnych formach pomocy, a wsparcie w jej zorganizowaniu.
+Zapewnienie pomocy w korzystaniu ze świadczeń zdrowotnych przysługujących na podstawie odrębnych przepisów.
+Zapewnienie usług aktywizacyjnych ukierunkowanych na aktywności społecznej, uzyskanie samodzielności życiowej z bezdomności.
+Wzmacnianie aktywności społecznej może być realizowane – trening umiejętności samodzielnego wypełniania ról społecznych, – trening umiejętności interpersonalnych i umiejętności rozwiązywania problemów, – uczestnictwo w grupach wsparcia.
+Uzyskanie samodzielności życiowej i wyjście z bezdomności realizowane m.in. przez: – zajęcia przygotowujące do podjęcia zatrudnienia, – trening gospodarowania własnym budżetem, – trening prowadzenia gospodarstwa domowego, – uczestnictwo w zajęciach centrum lub klubu integracji społecznej.
+Zapewnienie opieki przez co najmniej 1 opiekuna na nie więcej przebywających w schronisku.
+Ponadto w schronisku zatrudnia się nie mniej niż 1 pracownika na nie więcej niż 50 osób przebywających w schronisku.
+W porze nocnej w schronisku powinna być zapewniona opieka co najmniej 1 opiekuna.
+W uzasadnionych przypadkach dopuszcza się krótkotrwałe, 7 dni, przekroczenie powyższej normy o nie więcej niż 10 Dopuszcza się wykonywanie świadczeń przez wolontariuszy Wolontariat musi być świadczony w obecności pracownika w placówce. Wolontariusz musi mieć ukończone szkolenie udzielania pierwszej pomocy.
+STANDARD OBIEKTU Liczba miejsc w schronisku Liczba miejsc nie większa niż 80.
+Liczba osób w pomieszczeniach Nie więcej niż 10 osób w 1 pomieszczeniu.
+mieszkalnych Powierzchnia przypadająca na osobę Nie mniej niż 4 m /osobę.
+w pomieszczeniu mieszkalnym W pomieszczeniach z łóżkami piętrowymi nie mniej niż 3 Wyposażenie pomieszczeń Pomieszczenia mieszkalne mają co najmniej 1 okno, zapewniają mieszkalnych dostęp do łóżek wyposażonych w materac i komplet pościeli koc, prześcieradło i pokrycie na koc) oraz dostęp do szafy odpowiednią indywidualną przestrzeń.
+Pomieszczenia higienicznosanitarne Urządzenie natryskowe – 1 dla 15 osób.
+Umywalka – 1 dla 5 osób.
+Miska ustępowa – 1 dla 10 osób; w przypadku placówek, zamieszkują wyłącznie mężczyźni, oraz w przypadku wydzielonych męskich w placówkach koedukacyjnych dopuszcza się zastąpienie niż połowy misek ustępowych pisuarami.
+W uzasadnionych przypadkach (np. remont, uszkodzenie) krótkotrwałe, do 30 dni, odstępstwo od norm o nie więcej Pomieszczenia higienicznosanitarne zapewniające stały dostęp ciepłej i zimnej wody oraz gwarantujące możliwość przeprowadzenia zabiegów higienicznych.
+Kuchnia do sporządzania Wydzielone pomieszczenie do samodzielnego przygotowywania indywidualnych posiłków wyposażone w co najmniej 1 kuchenkę i 1 lodówkę oraz szafki Jadalnia/świetlica Pomieszczenie do spożywania posiłków, które poza porami pełnić funkcję świetlicy lub sali spotkań grupowych.
+Pralnia i suszarnia Pomieszczenie na pralnię i suszarnię wyposażone w co najmniej na 30 osób.
+W przypadku gdy schronisko nie posiada suszarni, zapewnia co najmniej 1 suszarki elektrycznej na 30 osób.
+Pomieszczenie biurowe Wydzielone pomieszczenie do prac biurowych.
+Magazyn odzieży, bielizny, pościeli Pomieszczenia wyposażone w regały, szafy i inne meble umożliwiające wymianę ubrań.
+Magazyn środków chemicznych Wydzielone pomieszczenie na środki higieny osobistej, środki przybory toaletowe i inne przedmioty niezbędne do higieny Pokój spotkań indywidualnych Wydzielone pomieszczenie do spotkań indywidualnych.
+Pracownia komputerowa Wydzielone pomieszczenie lub jego część, wyposażone w z dostępem do Internetu.
+MINIMALNY STANDARD PODSTAWOWYCH USŁUG ŚWIADCZONYCH W SCHRONISKACH DLA OSÓB BEZDOMNYCH Z USŁUGAMI OPIEKUŃCZYMI ORAZ MINIMALNY STANDARD W KTÓRYCH MIESZCZĄ SIĘ SCHRONISKA DLA OSÓB BEZDOMNYCH Z USŁUGAMI OPIEKUŃCZYMI KRYTERIA STANDARDU NORMY STANDARD ŚWIADCZONYCH USŁUG Okres świadczenia usług Schronisko świadczy usługi przez cały rok, przez 7 dni w Forma świadczonej usługi Możliwość całodobowego przebywania w schronisku, w tym miejsca do spania w ogrzewanym pomieszczeniu, którego nie jest niższa niż 20 °C.
+Zakres usług Umożliwienie spożycia posiłku w pokoju mieszkalnym, a karmienie.
+Dostęp do pomieszczenia umożliwiającego samodzielne przygotowanie posiłku i gorącego napoju.
+Umożliwienie skorzystania z prysznica, wymiany odzieży.
+pomoc w myciu, kąpaniu i ubieraniu.
+Opieka higieniczna.
+Zapewnienie usług opiekuńczych w wydzielonym pomieszczeniu w pokoju mieszkalnym, jeżeli łóżko jest oddzielone zasłoną.
+Umożliwienie prania i suszenia odzieży.
+Zapewnienie dezynfekcji i dezynsekcji odzieży w przypadku możliwości jej wymiany.
+Niezbędna pomoc w załatwianiu spraw osobistych.
+Zapewnienie pomocy w korzystaniu ze świadczeń zdrowotnych przysługujących na podstawie odrębnych przepisów.
+Zapewnienie usług aktywizacyjnych ukierunkowanych na aktywności społecznej.
+Wzmacnianie aktywności społecznej może być realizowane – trening umiejętności samodzielnego wypełniania ról społecznych, – trening umiejętności interpersonalnych i umiejętności rozwiązywania problemów, – uczestnictwo w grupach wsparcia.
+Zapewnienie opieki przez co najmniej 1 opiekuna na nie więcej przebywających w schronisku.
+Ponadto w schronisku zatrudnia się nie mniej niż 1 pracownika na nie więcej niż 50 osób przebywających w schronisku.
+Dopuszcza się wykonywanie świadczeń przez wolontariuszy Wolontariat musi być świadczony w obecności pracownika w placówce. Wolontariusz musi mieć ukończone szkolenie udzielania pierwszej pomocy.
+W porze nocnej powinna być w schronisku zapewniona opieka co najmniej 1 opiekuna na nie więcej niż 40 osób.
+W uzasadnionych przypadkach dopuszcza się krótkotrwałe, 7 dni, przekroczenie powyższej normy o nie więcej niż 10 STANDARD OBIEKTU Warunki techniczne obiektu W schronisku zapewnia się: – dostęp do budynku dla osób niepełnosprawnych, – w budynkach wielokondygnacyjnych bez dźwigów osobowych mieszkalne oraz inne pomieszczenia (sanitariaty, jadalnia/świetlica) usytuowane na parterze.
+Liczba miejsc w schronisku Liczba miejsc nie większa niż 80.
+Liczba osób w pomieszczeniach Nie więcej niż 6 osób wymagających usług opiekuńczych mieszkalnych w 1 pomieszczeniu.
+Powierzchnia przypadająca na osobę Nie mniej niż 5 m /osobę.
+w pomieszczeniu mieszkalnym Wyposażenie pomieszczeń Pomieszczenia mieszkalne mają co najmniej 1 okno, zapewniają mieszkalnych dostęp do łóżek wyposażonych w materac i komplet pościeli koc, prześcieradło i pokrycie na koc) oraz dostęp do szafy.
+Pomieszczenia mieszkalne wyposażone w: – łóżko parterowe, krzesło, szafkę nocną – po 1 sztuce dla – stół, szafę – co najmniej 1 sztuka na każdy pokój, szafa odpowiednią indywidualną przestrzeń.
+Pomieszczenia higienicznosanitarne Pomieszczenia higienicznosanitarne wyposażone stosownie korzystających z tych pomieszczeń m.in. w: – urządzenie natryskowe – 1 dla 15 osób, – umywalkę – 1 dla 5 osób, – miskę ustępową – 1 dla 10 osób; w przypadku placówek, zamieszkują wyłącznie mężczyźni, oraz w przypadku wydzielonych męskich w placówkach koedukacyjnych dopuszcza się zastąpienie więcej niż połowy misek ustępowych pisuarami.
+W uzasadnionych przypadkach (np. remont, uszkodzenie) krótkotrwałe, do 30 dni, odstępstwo od norm o nie więcej Przynajmniej 1 sanitariat (lub jego część) wyposażony w natryskowe, umywalkę i miskę ustępową dostosowany do niepełnosprawnych.
+Pomieszczenie higienicznosanitarne zapewniające stały dostęp ciepłej i zimnej wody oraz gwarantujące możliwość przeprowadzenia zabiegów higienicznych.
+Kuchnia Pomieszczenie do przygotowywania posiłków lub porcjowania Jadalnia/świetlica Pomieszczenie do spożywania posiłków, które poza porami pełnić funkcję świetlicy lub sali spotkań grupowych.
+Pralnia i suszarnia Pomieszczenie na pralnię i suszarnię wyposażone w co najmniej na 30 osób.
+W przypadku gdy schronisko nie posiada suszarni, zapewnia co najmniej 1 suszarki elektrycznej na 30 osób.
+Pomieszczenie biurowe Wydzielone pomieszczenie do prac biurowych z dostępem Magazyn odzieży, bielizny, pościeli Pomieszczenia wyposażone w regały, szafy i inne meble umożliwiające wymianę ubrań.
+Magazyn środków chemicznych Wydzielone pomieszczenie na środki higieny osobistej, środki przybory toaletowe i inne przedmioty niezbędne do higieny Pokój spotkań indywidualnych Wydzielone pomieszczenie z dostępem do Internetu do spotkań indywidualnych, które również może pełnić rolę pracowni MINIMALNY STANDARD PODSTAWOWYCH USŁUG ŚWIADCZONYCH W OGRZEWALNIACH ORAZ MINIMALNY STANDARD OBIEKTÓW, W KTÓRYCH MIESZCZĄ SIĘ OGRZEWALNIE KRYTERIA STANDARDU NORMY STANDARD ŚWIADCZONYCH USŁUG Okres świadczenia usług Ogrzewalnia świadczy usługi w okresie od 1 października przez 7 dni w tygodniu, w godzinach od 16.00 do 8.00. W a szczególnie podczas niskich temperatur zewnętrznych, tj.
+temperatura zmierzona w przedziale godzin 8.00–19.00 jest lub sytuacji kryzysowych, ogrzewalnia powinna być czynna na dobę.
+Forma świadczonej usługi Możliwość ogrzania się w pomieszczeniu, którego temperatura niż 18 °C.
+Zakres usług Umożliwienie spożycia posiłku i zapewnienie gorącego napoju.
+Umożliwienie wymiany odzieży.
+Zapewnienie dezynfekcji i dezynsekcji odzieży w przypadku możliwości jej wymiany.
+Zapewnienie informacji o dostępnych formach pomocy, rozmowy i motywujące.
+Zapewnienie opieki przez co najmniej 1 osobę, o której mowa ust. 4a ustawy z dnia 12 marca 2004 r. o pomocy społecznej, 50 osób przebywających w ogrzewalni.
+W uzasadnionych przypadkach dopuszcza się krótkotrwałe, 7 dni, przekroczenie powyższej normy o nie więcej niż 10 Dopuszcza się wykonywanie świadczeń przez wolontariuszy osoby zatrudnionej w placówce. Wolontariusz musi mieć ukończone z zakresu udzielania pierwszej pomocy.
+STANDARD OBIEKTU Liczba miejsc w ogrzewalni Liczba miejsc nie większa niż 50.
+Liczba miejsc siedzących Nie więcej niż dla 25 osób w 1 pomieszczeniu.
+w pomieszczeniach pobytowych Powierzchnia przypadająca na osobę Nie mniej niż 2 m /osobę.
+w pomieszczeniu pobytowym Wyposażenie pomieszczeń Osoba przebywająca w ogrzewalni ma zapewnione miejsce pobytowych krzesła o łatwo zmywalnej powierzchni.
+Pomieszczenia higienicznosanitarne Co najmniej 1 umywalka dla 20 osób.
+Miska ustępowa – 1 dla 20 osób; w przypadku placówek przeznaczonych wyłącznie dla mężczyzn oraz w przypadku wydzielonych toalet w placówkach koedukacyjnych dopuszcza się zastąpienie nie połowy misek ustępowych pisuarami.
+Pomieszczenia higienicznosanitarne zapewniające stały dostęp ciepłej i zimnej wody oraz gwarantujące możliwość przeprowadzenia zabiegów higienicznych.
+W uzasadnionych przypadkach (np. remont, uszkodzenie) krótkotrwałe, do 30 dni, odstępstwo od norm o nie więcej Pomieszczenie biurowe Wydzielone pomieszczenie do prac biurowych z dostępem indywidualnych rozmów.
+

@@ -1038,7 +1038,7 @@ source: pdf
     - **i)** Urzędowi do Spraw Cudzoziemców,
     - **j)** gminom;
 
-- **2)** ust. 5 pkt 1–3: o świadczeniach rodzinnych (Dz. U. z 2025 r. poz. 1208 oraz z 2026 r. poz.
+- **2)** ust. 5 pkt 1–3: o świadczeniach rodzinnych (Dz. U. z 2025 r. poz. 1208 oraz z 2026 r. poz. 203), za pośrednictwem ministra właściwego do spraw rodziny,
     - **a)** ministrowi właściwemu do spraw pracy,
     - **b)** ministrowi właściwemu do spraw zdrowia,
     - **c)** ministrowi właściwemu do spraw rodziny,
@@ -1046,8 +1046,6 @@ source: pdf
     - **e)** organom Krajowej Administracji Skarbowej,
     - **f)** Zakładowi Ubezpieczeń Społecznych,
     - **g)** organowi właściwemu w rozumieniu ustawy z dnia 28 listopada 2003 r.
-
-- **203)** , za pośrednictwem ministra właściwego do spraw rodziny,
     - **h)** Narodowemu Funduszowi Zdrowia,
     - **i)** jednostce podległej ministrowi właściwemu do spraw zdrowia właściwej w zakresie systemów informacyjnych ochrony zdrowia,
     - **j)** ministrowi właściwemu do spraw gospodarki,

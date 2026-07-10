@@ -48,8 +48,7 @@ source: pdf
 - **11)** świadczenia, o którym mowa w art. 2 ust. 1 ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. U. z 2021 r. poz. 1820),
 - **12)** okresowej emerytury kapitałowej, o której mowa w art. 7 ust. 1 ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926),
 - **13)** emerytury, o której mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2018 r. poz. 1924, z 2021 r. poz. 1621 oraz z 2022 r. poz. 755),
-- **14)** świadczenia, o którym mowa w art. 5 ust. 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych (Dz. U. z 2022 r. poz.
-- **301)** ,
+- **14)** świadczenia, o którym mowa w art. 5 ust. 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych (Dz. U. z 2022 r. poz. 301),
 - **15)** okresowej emerytury rolniczej, o której mowa w art. 15 ustawy z dnia 11 maja 2012 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 637 oraz z 2017 r. poz. 38),
 - **16)** rodzicielskiego świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym (Dz. U. z 2022 r. poz. 1051) – zwanym dalej „osobami uprawnionymi”.
 

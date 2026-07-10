@@ -126,8 +126,7 @@ source: pdf
 1. Publiczny transport zbiorowy może być wykonywany przez operatora publicznego transportu zbiorowego, zwanego dalej „operatorem”, lub przewoźnika spełniających warunki do podejmowania i wykonywania działalności w zakresie przewozu osób określone odpowiednio w:
 
 - **1)** ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068 i 1933);
-- **2)** ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2025 r. poz.
-- **18)** ;
+- **2)** ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2025 r. poz. 18);
 - **3)** ustawie z dnia 6 września 2001 r. o transporcie drogowym;
 - **4)** ustawie z dnia 28 marca 2003 r. o transporcie kolejowym;
 - **5)** ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871);

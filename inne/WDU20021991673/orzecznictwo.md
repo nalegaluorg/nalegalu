@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych.*
 
-Łącznie: **1824** orzeczeń
-(pominięto 2466 orzeczeń sądów rejonowych)
+Łącznie: **1825** orzeczeń
+(pominięto 2470 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 
@@ -2885,7 +2885,7 @@ Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o ubezpieczeniu
 
 - 2024-09-17 | SO | [I ACa 1044/22](https://www.saos.org.pl/judgments/529412) | Wyrok
 
-## (ogólnie) (266)
+## (ogólnie) (267)
 
 - 2025-04-24 | SO | [III APa 9/24](https://www.saos.org.pl/judgments/540087) | Wyrok
 - 2024-12-19 | SO | [III APa 24/23](https://www.saos.org.pl/judgments/540932) | Wyrok
@@ -3001,6 +3001,7 @@ Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o ubezpieczeniu
 - 2022-01-13 | SO | [III AUa 2/22](https://www.saos.org.pl/judgments/468524) | Uzasadnienie
 - 2021-06-30 | SO | [III APa 26/20](https://www.saos.org.pl/judgments/485123) | Uzasadnienie
 - 2020-11-19 | SO | [III AUa 1638/20](https://www.saos.org.pl/judgments/464678) | Uzasadnienie
+- 2026-05-27 | SO | [VII Pa 187/25](https://www.saos.org.pl/judgments/547592) | Wyrok
 - 2025-01-15 | SO | [XIV C 409/16](https://www.saos.org.pl/judgments/523409) | Wyrok
 - 2024-03-19 | SO | [VI U 409/22](https://www.saos.org.pl/judgments/511598) | Wyrok
 - 2023-10-05 | SO | [VII U 1158/22](https://www.saos.org.pl/judgments/511898) | Wyrok

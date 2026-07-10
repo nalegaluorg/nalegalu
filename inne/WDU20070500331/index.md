@@ -52,8 +52,7 @@ source: pdf
 
 **Art. 4.** Ilekroć w ustawie jest mowa o:
 
-- **1)** przedsiębiorcy – rozumie się przez to przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz.
-- **1480)** , a także:
+- **1)** przedsiębiorcy – rozumie się przez to przedsiębiorcę w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480), a także:
     - **a)** osobę fizyczną, osobę prawną, a także jednostkę organizacyjną niemającą osobowości prawnej, której ustawa przyznaje zdolność prawną, organizującą lub świadczącą usługi o charakterze użyteczności publicznej, które nie są działalnością gospodarczą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców,
     - **b)** osobę fizyczną wykonującą zawód we własnym imieniu i na własny rachunek lub prowadzącą działalność w ramach wykonywania takiego zawodu,
     - **c)** osobę fizyczną, która posiada kontrolę, w rozumieniu pkt 4, nad co najmniej jednym przedsiębiorcą, choćby nie prowadziła działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, jeżeli podejmuje dalsze działania podlegające kontroli koncentracji, o której mowa w art. 13,

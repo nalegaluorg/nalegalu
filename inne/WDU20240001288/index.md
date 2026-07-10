@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-19 |
 | Data wydania | 2024-08-26 |
-| Ostatnia zmiana | 2025-12-29 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001288) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1288/text.pdf) |
 
 Art. 39‒51. (pominięte)
@@ -723,7 +723,7 @@ Art. 39‒51. (pominięte)
 
 - **1)** w budynkach wykorzystywanych na potrzeby obronności państwa;
 - **2)** przez urządzenia techniczne i instalacje zapewniające ciągłość działania infrastruktury informatycznej jednostek sektora finansów publicznych, o których mowa w ust. 1;
-- **3)** obiektów stanowiących infrastrukturę krytyczną ujętą w wykazie, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834 i 1222), zlokalizowaną na terenie Rzeczypospolitej Polskiej.
+- **3)** obiektów stanowiących infrastrukturę krytyczną ujętą w wykazie, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834 i 1222), zlokalizowaną na terenie Rzeczypospolitej Polskiej.
 
 7. Prezes URE udostępnia wzór formularza raportu, o którym mowa w ust. 5, w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki, kierując się potrzebą zapewniania sprawności procesu weryfikacji wykonania obowiązku, o którym mowa w ust. 1 i 3.
 

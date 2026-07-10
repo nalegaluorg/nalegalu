@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2019-05-16 |
 | Data wydania | 2019-06-17 |
-| Ostatnia zmiana | 2026-06-11 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1123/text.pdf) |
 
 ### DZIAŁ I Przepisy ogólne
@@ -42,7 +42,7 @@ source: pdf
 
 - **1)** cena usługi – kwotę deficytu pojedynczej linii komunikacyjnej w przewozach autobusowych o charakterze użyteczności publicznej wyrażoną w złotych w odniesieniu do 1 wozokilometra;
 - **2)** kwota deficytu pojedynczej linii komunikacyjnej w przewozach autobusowych o charakterze użyteczności publicznej – ujemny wynik finansowy netto wyliczony dla tej linii nieuwzględniający rozsądnego zysku, o których mowa w rozporządzeniu (WE) 1370/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącym usług publicznych w zakresie kolejowego i drogowego transportu pasażerskiego oraz uchylającym rozporządzenie Rady (EWG) nr 1191/69 i (EWG) nr 1107/70 (Dz. Urz. UE L 315 z 03.12.2007, str. 1, z późn. zm. );
-- **3)** organizator – organizatora publicznego transportu zbiorowego, o którym mowa w art. 7 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2023 r. poz. 2778), z wyłączeniem związku metropolitalnego i ministra właściwego do spraw transportu;
+- **3)** organizator – organizatora publicznego transportu zbiorowego, o którym mowa w art. 7 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2025 r. poz. 285, 1173 i 1843 oraz z 2026 r. poz. 475), z wyłączeniem związku metropolitalnego i ministra właściwego do spraw transportu;
 - **4)** operator – operatora publicznego transportu zbiorowego w rozumieniu art. 4 ust. 1 pkt 8 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
 - **5)** plan transportowy – plan zrównoważonego rozwoju publicznego transportu zbiorowego, o którym mowa w art. 9 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
 - **6)** przewóz o charakterze użyteczności publicznej – przewóz o charakterze użyteczności publicznej w rozumieniu art. 4 ust. 1 pkt 12 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym;
@@ -65,11 +65,10 @@ source: pdf
 
 **Art. 5.** Środki Funduszu pochodzą z:
 
-- **1)** wpływów z tytułu opłaty emisyjnej, o której mowa w art. 321a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54), w wysokości 5 % wpływów z tej opłaty;
-- **2)** wpływów z tytułu opłaty zastępczej, o której mowa w art. 35d ust. 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2024 r. poz. 20, 834 i 1946 oraz z 2025 r. poz. 303), w wysokości 55 % wpływów z tej opłaty;
-- **3)** wpływów z tytułu opłaty paliwowej, o której mowa w art. 37h ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760, 1193 i
-- **1688)** , w wysokości 3,65 % wpływów z tej opłaty;
-- **4)** wpływów w wysokości wynikającej z ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201, z późn. zm. ), ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2022 r. poz. 2147 oraz z 2023 r. poz. 1123), ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ), ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580), ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2063), ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2023 r. poz. 324 i 1523) oraz ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów (Dz. U. z 2023 r. poz. 104 i 1523);
+- **1)** wpływów z tytułu opłaty emisyjnej, o której mowa w art. 321a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, z późn. zm. ), w wysokości 5 % wpływów z tej opłaty;
+- **2)** wpływów z tytułu opłaty zastępczej, o której mowa w art. 35d ust. 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz. 901 oraz z 2026 r. poz. 607), w wysokości 55 % wpływów z tej opłaty;
+- **3)** wpływów z tytułu opłaty paliwowej, o której mowa w art. 37h ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2026 r. poz. 218 i 635), w wysokości 3,65 % wpływów z tej opłaty;
+- **4)** wpływów w wysokości wynikającej z ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2025 r. poz. 1490, 1676, 1795 i 1843), ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643), ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. ), ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i 1795), ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2063), ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2024 r. poz. 1037) oraz ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2024 r. poz. 1218);
 - **5)** budżetu państwa w części, której dysponentem jest minister właściwy do spraw transportu;
 - **6)** odsetek, o których mowa w art. 17 ust. 1;
 - **7)** odsetek od wolnych środków przekazanych albo przyjmowanych w zarządzanie zgodnie z przepisami o finansach publicznych;
@@ -83,7 +82,7 @@ source: pdf
 
 **Art. 6a.** Dopłacie ze środków Funduszu podlegają linie komunikacyjne niefunkcjonujące co najmniej 3 miesiące przed dniem wejścia w życie ustawy oraz, na które umowa o świadczenie usług w zakresie publicznego transportu zbiorowego zostanie zawarta po dniu wejścia w życie ustawy.
 
-**Art. 7.** Środki, o których mowa w art. 5 pkt 5, oraz dofinansowanie udzielone ze środków Funduszu nie stanowią dotacji w rozumieniu art. 126 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
+**Art. 7.** Środki, o których mowa w art. 5 pkt 5, oraz dofinansowanie udzielone ze środków Funduszu nie stanowią dotacji w rozumieniu art. 126 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635).
 
 **Art. 8.**
 
@@ -136,9 +135,7 @@ source: pdf
 - **3)** łącznej kwocie środków Funduszu, o których mowa w pkt 1 i 2;
 - **4)** terminach w ciągu roku na składanie wniosków o objęcie w danym roku budżetowym dopłatą.
 
-2. Wojewoda aktualizuje w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu wojewódzkiego informacje, o których mowa w ust. 1, stosownie do informacji otrzymanej od Dysponenta Funduszu zgodnie z art. 16 ust.
-
-13.
+2. Wojewoda aktualizuje w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu wojewódzkiego informacje, o których mowa w ust. 1, stosownie do informacji otrzymanej od Dysponenta Funduszu zgodnie z art. 16 ust. 13.
 
 3. Wniosek, o którym mowa w ust. 1 pkt 4:
 
@@ -152,7 +149,9 @@ source: pdf
 - **3)** datę uruchomienia każdej linii, o której mowa w pkt 2, w każdym roku budżetowym objętym umową, o której mowa w art. 11d ust. 1;
 - **4)** planowaną wielkość pracy eksploatacyjnej wyrażonej w wozokilometrach wykonywaną na każdej linii, o której mowa w pkt 2, w każdym roku budżetowym objętym umową, o której mowa w art. 11d ust. 1;
 - **5)** planowaną kwotę deficytu każdej linii, o której mowa w pkt 2, w każdym roku budżetowym objętym umową, o której mowa w art. 11d ust. 1;
-- **6)** planowaną łączną kwotę dopłaty oraz planowaną łączną kwotę dopłaty dla każdej linii w każdym roku budżetowym objętym umową, o której mowa w art. 11d ust. 1.
+- **6)** planowaną łączną kwotę dopłaty oraz planowaną łączną kwotę dopłaty dla każdej linii w każdym roku budżetowym objętym umową, o której mowa w art. 11d ust.
+
+1.
 
 5. Do wniosku, o którym mowa w ust. 1 pkt 4, organizator dołącza dokumenty potwierdzające dane i informacje zawarte we wniosku.
 
@@ -172,8 +171,8 @@ source: pdf
 - **4)** długość linii komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej, dla których organizator złożył wniosek;
 - **5)** liczbę zatrzymań autobusu na przystankach komunikacyjnych na liniach komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej, dla których organizator złożył wniosek;
 - **6)** realizację potrzeb osób niepełnosprawnych oraz osób o ograniczonej zdolności ruchowej w zakresie dostępu do przewozów na liniach komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej, dla których organizator złożył wniosek;
-- **7)** w przypadku jednostki samorządu terytorialnego będącej organizatorem – indywidualny wskaźnik zamożności, o którym mowa w przepisach ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), a w przypadku związku jednostek samorządu terytorialnego – średnią arytmetyczną indywidualnych wskaźników zamożności jednostek samorządu terytorialnego wchodzących w skład związku;
-- **8)** zapewnienie dostępności komunikacyjnej terenów objętych przedsięwzięciami lub inwestycjami powiązanymi z przedsięwzięciem infrastrukturalnym, o których mowa w art. 5c ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2023 r. poz. 788, 1463 i 1693).
+- **7)** w przypadku jednostki samorządu terytorialnego będącej organizatorem – indywidualny wskaźnik zamożności, o którym mowa w przepisach ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717 oraz z 2025 r. poz. 1659), a w przypadku związku jednostek samorządu terytorialnego – średnią arytmetyczną indywidualnych wskaźników zamożności jednostek samorządu terytorialnego wchodzących w skład związku;
+- **8)** zapewnienie dostępności komunikacyjnej terenów objętych przedsięwzięciami lub inwestycjami powiązanymi z przedsięwzięciem infrastrukturalnym, o których mowa w art. 5c ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2026 r. poz. 511).
 
 2. Pierwszeństwo w objęciu dopłatą przyznaje się organizatorom w następującej kolejności:
 
@@ -204,13 +203,13 @@ source: pdf
 
 1. Dopłata jest udzielana po zawarciu przez organizatora umowy o dopłatę z właściwym wojewodą.
 
-2. Dopłatę ustala się w kwocie nie wyższej niż 3,00 zł do 1 wozokilometra przewozu autobusowego o charakterze użyteczności publicznej.
+2. Dopłatę ustala się w kwocie niewyższej niż 3,00 zł do 1 wozokilometra przewozu autobusowego o charakterze użyteczności publicznej.
 
 3. Warunkiem uzyskania dopłaty jest:
 
 - **1)** uzyskanie zgody organu stanowiącego właściwego organizatora na zawarcie umowy o świadczenie usług w zakresie publicznego transportu zbiorowego;
 - **2)** zawarcie umowy o świadczenie usług w zakresie publicznego transportu zbiorowego po dniu wejścia w życie ustawy;
-- **3)** sfinansowanie ze środków własnych organizatora części ceny usługi w wysokości nie mniejszej niż 10 %.
+- **3)** sfinansowanie ze środków własnych organizatora części ceny usługi w wysokości niemniejszej niż 10 %.
 
 4. Umowa, o której mowa w ust. 1, obejmuje w szczególności:
 
@@ -218,13 +217,13 @@ source: pdf
 - **2)** długość linii komunikacyjnych, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
 - **3)** częstotliwość połączeń na liniach komunikacyjnych, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
 - **4)** wielkość pracy eksploatacyjnej wyrażonej w wozokilometrach wykonywaną na liniach komunikacyjnych, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
-- **5)** maksymalną kwotę dopłaty w każdym roku budżetowym objętym umową w wysokości nie większej niż zawarta we wniosku o objęcie dofinansowaniem, o którym mowa w art. 6 pkt 1;
+- **5)** maksymalną kwotę dopłaty w każdym roku budżetowym objętym umową w wysokości niewiększej niż zawarta we wniosku o objęcie dofinansowaniem, o którym mowa w art. 6 pkt 1;
 - **6)** termin i sposób przekazywania dopłaty w każdym roku budżetowym objętym umową, o której mowa w ust. 1;
 - **7)** termin i sposób rozliczenia dopłaty w każdym roku budżetowym objętym umową, o której mowa w ust. 1;
 - **8)** termin i zasady zwrotu dopłaty w każdym roku budżetowym objętym umową, o której mowa w ust. 1;
 - **9)** zasady i termin składania wniosku o dopłatę oraz jego wzór.
 
-5. Umowa, o której mowa w ust. 1, jest zawierana na czas oznaczony, nie dłuższy niż 10 lat.
+5. Umowa, o której mowa w ust. 1, jest zawierana na czas oznaczony, niedłuższy niż 10 lat.
 
 **Art. 11e.**
 
@@ -261,7 +260,7 @@ source: pdf
 
 9. Wojewoda przekazuje dopłatę na wskazany w umowie o dopłatę rachunek bankowy organizatora niezwłocznie po uzyskaniu dofinansowania od dysponenta Funduszu.
 
-10. Środki wynikające z wniosku wojewody, o którym mowa w ust. 7, są przekazywane w terminach wynikających z porozumienia, o którym mowa w art. 11, nie później niż do dnia 31 grudnia. Dofinansowanie dotyczące przewozów realizowanych w danym roku przekazane na wyodrębniony rachunek urzędu wojewódzkiego i niewykorzystane w terminie do dnia 25 stycznia roku następnego podlega zwrotowi na rachunek Funduszu.
+10. Środki wynikające z wniosku wojewody, o którym mowa w ust. 7, są przekazywane w terminach wynikających z porozumienia, o którym mowa w art. 11, niepóźniej niż do dnia 31 grudnia. Dofinansowanie dotyczące przewozów realizowanych w danym roku przekazane na wyodrębniony rachunek urzędu wojewódzkiego i niewykorzystane w terminie do dnia 25 stycznia roku następnego podlega zwrotowi na rachunek Funduszu.
 
 **Art. 15.** Organizator, któremu została udzielona dopłata, jest obowiązany do prowadzenia wyodrębnionej ewidencji księgowej otrzymanych dopłat oraz wydatków objętych dopłatą.
 
@@ -269,7 +268,7 @@ source: pdf
 
 **Art. 16.**
 
-1. Na wniosek, o którym mowa w art. 11b ust. 1, dysponent Funduszu może polecić wojewodom przeprowadzenie analizy zaangażowania środków przewidzianych na województwo na dofinansowanie realizacji zadań własnych organizatorów dotyczących zapewnienia funkcjonowania publicznego transportu zbiorowego w zakresie przewozów autobusowych o charakterze użyteczności publicznej oraz środków, które mogłyby być zaangażowane w przypadku zwiększenia limitu środków Funduszu przewidzianych na województwo. Analizę przeprowadza się nie częściej niż raz na 2 miesiące.
+1. Na wniosek, o którym mowa w art. 11b ust. 1, dysponent Funduszu może polecić wojewodom przeprowadzenie analizy zaangażowania środków przewidzianych na województwo na dofinansowanie realizacji zadań własnych organizatorów dotyczących zapewnienia funkcjonowania publicznego transportu zbiorowego w zakresie przewozów autobusowych o charakterze użyteczności publicznej oraz środków, które mogłyby być zaangażowane w przypadku zwiększenia limitu środków Funduszu przewidzianych na województwo. Analizę przeprowadza się nieczęściej niż raz na 2 miesiące.
 
 2. (uchylony)
 
@@ -326,7 +325,7 @@ source: pdf
 
 9. Odwołanie od decyzji, o której mowa w ust. 7, rozpatruje minister właściwy do spraw transportu.
 
-10. Do spraw dotyczących zwrotu dopłaty wykorzystanej niezgodnie z przeznaczeniem albo pobranej nienależnie lub w nadmiernej wysokości nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760), z tym że uprawnienia organu podatkowego przysługują wojewodzie.
+10. Do spraw dotyczących zwrotu dopłaty wykorzystanej niezgodnie z przeznaczeniem albo pobranej nienależnie lub w nadmiernej wysokości nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2026 r. poz. 622), z tym że uprawnienia organu podatkowego przysługują wojewodzie.
 
 #### Rozdział 5 Kontrola i sprawozdawczość
 
@@ -342,7 +341,7 @@ source: pdf
 
 3. Na wniosek dysponenta Funduszu wojewoda zarządza przeprowadzenie kontroli nieprzewidzianej w okresowym planie kontroli.
 
-4. Kontrola jest przeprowadzana w trybie określonym w przepisach ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224).
+4. Kontrola jest przeprowadzana w trybie określonym w przepisach ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2026 r. poz. 158).
 
 **Art. 18a.** Wojewoda jest uprawniony do żądania dokumentów związanych z wykorzystaniem środków Funduszu bez wszczynania kontroli, o której mowa w art. 18.
 
@@ -373,11 +372,11 @@ source: pdf
 
 **Art. 23.**
 
-1. Dopłatę ustala się w kwocie nie wyższej niż 1,00 zł do 1 wozokilometra przewozu o charakterze użyteczności publicznej.
+1. Dopłatę ustala się w kwocie niewyższej niż 1,00 zł do 1 wozokilometra przewozu o charakterze użyteczności publicznej.
 
 2. Warunkiem uzyskania dopłaty jest:
 
-- **1)** sfinansowanie ze środków własnych organizatora części ceny usługi w wysokości nie mniejszej niż 10 %;
+- **1)** sfinansowanie ze środków własnych organizatora części ceny usługi w wysokości niemniejszej niż 10 %;
 - **2)** zawarcie umowy o świadczenie usług w zakresie publicznego transportu zbiorowego.
 
 **Art. 24.**
@@ -420,8 +419,8 @@ source: pdf
 - **4)** długość linii komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej, dla których organizator złożył wniosek, które nie funkcjonowały co najmniej 3 miesiące przed dniem wejścia w życie ustawy;
 - **5)** liczbę zatrzymań autobusu na przystankach komunikacyjnych na liniach komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej, dla których organizator złożył wniosek, które nie funkcjonowały co najmniej 3 miesiące przed dniem wejścia w życie ustawy;
 - **6)** realizację potrzeb osób niepełnosprawnych oraz osób o ograniczonej zdolności ruchowej w zakresie dostępu do przewozów na liniach komunikacyjnych w przewozach autobusowych o charakterze użyteczności publicznej, dla których organizator złożył wniosek, które nie funkcjonowały co najmniej 3 miesiące przed dniem wejścia w życie ustawy;
-- **7)** wskaźnik dochodów podatkowych na jednego mieszkańca, o którym mowa w przepisach ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267, z 2023 r. poz. 1586 i 2005 oraz z 2024 r. poz. 123), jednostki samorządu terytorialnego będącej organizatorem, a w przypadku związku tych jednostek – średnią arytmetyczną dochodu jednostek wchodzących w skład związku;
-- **8)** zapewnienie dostępności komunikacyjnej terenów objętych przedsięwzięciami lub inwestycjami powiązanymi z przedsięwzięciem infrastrukturalnym, o których mowa w art. 5c ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2023 r. poz. 788, 1463 i 1693).
+- **7)** wskaźnik dochodów podatkowych na jednego mieszkańca, o którym mowa w przepisach ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2024 r. poz. 356) , jednostki samorządu terytorialnego będącej organizatorem, a w przypadku związku tych jednostek – średnią arytmetyczną dochodu jednostek wchodzących w skład związku;
+- **8)** zapewnienie dostępności komunikacyjnej terenów objętych przedsięwzięciami lub inwestycjami powiązanymi z przedsięwzięciem infrastrukturalnym, o których mowa w art. 5c ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2026 r. poz. 511).
 
 2. Pierwszeństwo w objęciu dopłatą przyznaje się organizatorom w następującej kolejności:
 
@@ -448,7 +447,7 @@ source: pdf
 - **2)** długość linii komunikacyjnych, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
 - **3)** częstotliwość połączeń na liniach komunikacyjnych, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
 - **4)** wielkość pracy eksploatacyjnej wyrażonej w wozokilometrach wykonywaną na liniach komunikacyjnych, na których będą wykonywane przewozy autobusowe o charakterze użyteczności publicznej;
-- **5)** maksymalną kwotę dopłaty w wysokości nie większej niż zawarta we wniosku o objęcie dofinansowaniem, o którym mowa w art. 6 pkt 1;
+- **5)** maksymalną kwotę dopłaty w wysokości niewiększej niż zawarta we wniosku o objęcie dofinansowaniem, o którym mowa w art. 6 pkt 1;
 - **6)** termin i sposób rozliczenia dopłaty;
 - **7)** termin i sposób przekazywania dopłaty;
 - **8)** termin i zasady zwrotu dopłaty;
@@ -462,9 +461,7 @@ source: pdf
 
 3. Dysponent Funduszu zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw transportu informację o sumie środków, o których mowa w ust. 2, które mogą być przeznaczone na dofinansowanie realizacji zadań własnych organizatorów dotyczących zapewnienia funkcjonowania publicznego transportu zbiorowego w zakresie przewozów autobusowych o charakterze użyteczności publicznej.
 
-4. W terminie 10 dni roboczych od dnia zamieszczenia informacji, o której mowa w ust. 3, wojewoda może złożyć do dysponenta Funduszu wniosek o przekazanie ze środków, o których mowa w ust. 2, środków na objęcie dopłatą wniosków, które nie zostały objęte dopłatą ze względu na wyczerpanie się kwoty środków Funduszu przewidzianych na województwo, o której mowa w art. 24 ust.
-
-4.
+4. W terminie 10 dni roboczych od dnia zamieszczenia informacji, o której mowa w ust. 3, wojewoda może złożyć do dysponenta Funduszu wniosek o przekazanie ze środków, o których mowa w ust. 2, środków na objęcie dopłatą wniosków, które nie zostały objęte dopłatą ze względu na wyczerpanie się kwoty środków Funduszu przewidzianych na województwo, o której mowa w art. 24 ust. 4.
 
 5. Wnioski o przekazanie środków, o których mowa w ust. 2, są realizowane według kolejności wpływu do dysponenta Funduszu aż do wyczerpania się tych środków, przy czym wniosek na kwotę przekraczającą te środki jest realizowany w części, do wyczerpania środków, o których mowa w ust. 2.
 
@@ -480,7 +477,7 @@ source: pdf
 
 **Art. 30a.**
 
-1. Od dnia 1 kwietnia 2020 r. dopłatę, o której mowa w art. 23 ust. 1, ustala się w kwocie nie wyższej niż 3,00 zł do 1 wozokilometra przewozu o charakterze użyteczności publicznej.
+1. Od dnia 1 kwietnia 2020 r. dopłatę, o której mowa w art. 23 ust. 1, ustala się w kwocie niewyższej niż 3,00 zł do 1 wozokilometra przewozu o charakterze użyteczności publicznej.
 
 2. Kwotę dopłaty, o której mowa w ust. 1, stosuje się do dnia 31 grudnia 2024 r.
 

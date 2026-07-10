@@ -53,8 +53,7 @@ source: pdf
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
-- **1)** dostawca usługi medialnej – dostawcę usługi medialnej w rozumieniu art. 4 pkt 4 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz.
-- **805)** ;
+- **1)** dostawca usługi medialnej – dostawcę usługi medialnej w rozumieniu art. 4 pkt 4 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805);
 - **2)** koproducent utworu audiowizualnego – przedsiębiorcę, który wspólnie z producentem utworu audiowizualnego organizuje, prowadzi i ponosi odpowiedzialność za produkcję audiowizualną lub który współfinansuje produkcję audiowizualną oraz nabywa udział w autorskich prawach majątkowych do utworu audiowizualnego;
 - **3)** polskie koszty kwalifikowalne – koszty realizacji produkcji audiowizualnej albo świadczenia usługi na rzecz produkcji audiowizualnej poniesione na terytorium Rzeczypospolitej Polskiej, jeżeli są objęte obowiązkiem podatkowym w rozumieniu przepisów podatkowych oraz mieszczą się w katalogu określonym w art. 54 ust. 5 rozporządzenia nr 651/2014;
 - **4)** producent utworu audiowizualnego – przedsiębiorcę, który podejmuje inicjatywę dotyczącą produkcji audiowizualnej, organizuje, prowadzi produkcję audiowizualną i ponosi odpowiedzialność za tę produkcję oraz nabywa autorskie prawa majątkowe do utworu audiowizualnego;

@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2005-07-29 |
 | Data wydania | 2005-09-23 |
-| Ostatnia zmiana | 2026-06-05 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051831538) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1538/text.pdf) |
 
 System rekompensat

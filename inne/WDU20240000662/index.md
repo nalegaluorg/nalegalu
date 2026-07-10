@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-29 |
 | Data wydania | 2024-04-29 |
-| Ostatnia zmiana | 2024-05-06 |
+| Ostatnia zmiana | 2026-06-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/662/text.pdf) |
 
 w sprawie programu pilotażowego w zakresie usług farmaceuty dotyczących zdrowia reprodukcyjnego Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146) zarządza się, co następuje:

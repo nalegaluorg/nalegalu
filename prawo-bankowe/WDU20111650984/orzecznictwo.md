@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw*
 
-Łącznie: **876** orzeczeń
-(pominięto 881 orzeczeń sądów rejonowych)
+Łącznie: **883** orzeczeń
+(pominięto 886 orzeczeń sądów rejonowych)
 
 ## art. 1 (65)
 
@@ -96,7 +96,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy - Praw
 - 2025-02-12 | SO | [II C 968/24](https://www.saos.org.pl/judgments/522728) | Uzasadnienie
 - 2025-01-09 | SO | [II C 600/24](https://www.saos.org.pl/judgments/520715) | Uzasadnienie
 
-## art. 4 (468)
+## art. 4 (473)
 
 - 2016-01-22 | SN | [I CSK 1049/14](https://www.saos.org.pl/judgments/244282) | Wyrok ★
 - 2013-10-23 | SN | [IV CSK 142/13](https://www.saos.org.pl/judgments/103231) | Wyrok ★
@@ -126,6 +126,8 @@ Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy - Praw
 - 2024-09-30 | SO | [I ACa 351/23](https://www.saos.org.pl/judgments/545669) | Wyrok
 - 2024-09-23 | SO | [V ACa 1729/23](https://www.saos.org.pl/judgments/545058) | Wyrok
 - 2024-09-20 | SO | [V ACa 795/22](https://www.saos.org.pl/judgments/517035) | Wyrok
+- 2024-09-09 | SO | [V ACa 2019/23](https://www.saos.org.pl/judgments/547694) | Wyrok
+- 2024-09-09 | SO | [V ACa 873/23](https://www.saos.org.pl/judgments/547621) | Wyrok
 - 2024-09-09 | SO | [V ACa 1721/23](https://www.saos.org.pl/judgments/545118) | Wyrok
 - 2024-08-30 | SO | [I ACa 2267/23](https://www.saos.org.pl/judgments/541805) | Wyrok
 - 2024-08-08 | SO | [I ACa 1593/23](https://www.saos.org.pl/judgments/528153) | Wyrok
@@ -253,6 +255,8 @@ Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy - Praw
 - 2022-11-30 | SO | [V ACa 731/21](https://www.saos.org.pl/judgments/481769) | Wyrok
 - 2022-11-25 | SO | [I ACa 649/21](https://www.saos.org.pl/judgments/482077) | Wyrok
 - 2022-11-24 | SO | [I ACa 1624/21](https://www.saos.org.pl/judgments/493733) | Wyrok
+- 2022-11-18 | SO | [V ACa 566/22](https://www.saos.org.pl/judgments/547780) | Wyrok
+- 2022-11-18 | SO | [V ACa 507/22](https://www.saos.org.pl/judgments/547747) | Wyrok
 - 2022-11-18 | SO | [I ACa 943/21](https://www.saos.org.pl/judgments/532712) | Wyrok
 - 2022-11-17 | SO | [VI ACa 1009/21](https://www.saos.org.pl/judgments/483067) | Wyrok
 - 2022-11-16 | SO | [V ACa 293/22](https://www.saos.org.pl/judgments/480478) | Wyrok
@@ -504,6 +508,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy - Praw
 - 2022-06-29 | SO | [I C 1796/20](https://www.saos.org.pl/judgments/475403) | Wyrok
 - 2022-03-28 | SO | [II Ca 1538/21](https://www.saos.org.pl/judgments/483885) | Wyrok
 - 2016-05-25 | SO | [I C 2366/15](https://www.saos.org.pl/judgments/229080) | Wyrok
+- 2026-05-29 | SO | [II C 16/26](https://www.saos.org.pl/judgments/547609) | Uzasadnienie
 - 2026-04-15 | SO | [II C 1470/25](https://www.saos.org.pl/judgments/546528) | Uzasadnienie
 - 2026-01-26 | SO | [II C 1142/25](https://www.saos.org.pl/judgments/541983) | Uzasadnienie
 - 2025-10-22 | SO | [II C 629/25](https://www.saos.org.pl/judgments/537085) | Uzasadnienie
@@ -694,7 +699,7 @@ Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy - Praw
 - 2022-02-24 | SO | [I ACa 813/21](https://www.saos.org.pl/judgments/470124) | Wyrok
 - 2021-12-20 | SO | [I ACa 705/21](https://www.saos.org.pl/judgments/464384) | Wyrok
 
-## (ogólnie) (347)
+## (ogólnie) (349)
 
 - 2025-10-08 | SO | [I ACa 2048/22](https://www.saos.org.pl/judgments/537064) | Wyrok
 - 2025-09-08 | SO | [I ACa 2412/22](https://www.saos.org.pl/judgments/537072) | Wyrok
@@ -722,7 +727,9 @@ Orzeczenia powołujące: *Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy - Praw
 - 2024-03-11 | SO | [I ACa 815/23](https://www.saos.org.pl/judgments/546555) | Wyrok
 - 2024-02-26 | SO | [V ACa 870/23](https://www.saos.org.pl/judgments/540743) | Wyrok
 - 2024-02-16 | SO | [I ACa 781/23](https://www.saos.org.pl/judgments/546058) | Wyrok
+- 2024-02-15 | SO | [I ACa 738/22](https://www.saos.org.pl/judgments/547716) | Wyrok
 - 2024-01-26 | SO | [I ACa 901/22](https://www.saos.org.pl/judgments/517865) | Wyrok
+- 2024-01-24 | SO | [I ACa 2613/23](https://www.saos.org.pl/judgments/547711) | Wyrok
 - 2024-01-24 | SO | [I ACa 1692/23](https://www.saos.org.pl/judgments/493757) | Wyrok
 - 2024-01-10 | SO | [I ACa 1647/22](https://www.saos.org.pl/judgments/493739) | Wyrok
 - 2023-12-21 | SO | [I ACa 954/22](https://www.saos.org.pl/judgments/494783) | Wyrok

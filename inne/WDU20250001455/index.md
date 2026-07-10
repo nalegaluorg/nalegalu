@@ -1,0 +1,144 @@
+---
+title: Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 20 października 2025 r. w sprawie uposażenia zasadniczego funkcjonariuszy Straży Granicznej
+address: WDU20250001455
+eli: DU/2025/1455
+publisher: DU
+year: 2025
+pos: 1455
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11445555 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 października 2025 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2025 poz. 1455 |
+| ISAP | WDU20250001455 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2025-10-20 |
+| Data wydania | 2025-10-23 |
+| Wejście w życie | 2025-10-24 |
+| Ostatnia zmiana | 2025-10-24 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001455) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1455/text.pdf) |
+
+w sprawie uposażenia zasadniczego funkcjonariuszy Straży Granicznej Na podstawie art. 105 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366) zarządza się, co następuje:
+§ 1. Rozporządzenie określa:
+1) sposób ustalania wysokości uposażenia zasadniczego,
+2) grupy uposażenia zasadniczego, kategorie uposażenia zasadniczego oraz mnożniki kwoty bazowej, o której mowa w art. 103 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej, zwanej dalej „kwotą bazową”,
+3) zaszeregowanie stanowisk służbowych do poszczególnych grup uposażenia zasadniczego oraz stopni etatowych – dla funkcjonariuszy Straży Granicznej, zwanych dalej „funkcjonariuszami”.
+§ 2. 1. Uposażenie zasadnicze funkcjonariuszy stanowi iloczyn mnożnika i kwoty bazowej oraz wzrasta w sposób, o którym mowa w art. 106 ust. 1 ustawy z dnia 12 października 1990 r. o Straży Granicznej.
+2. Ustala się grupy uposażenia zasadniczego i kategorie uposażenia zasadniczego oraz odpowiadające im mnożniki kwoty bazowej, które są określone w załączniku nr 1 do rozporządzenia.
+3. Zaszeregowanie stanowisk służbowych funkcjonariuszy do odpowiednich grup uposażenia zasadniczego i stopni etatowych jest określone w załączniku nr 2 do rozporządzenia.
+§ 3. 1. Kwotę uposażenia zasadniczego wyliczoną według grupy uposażenia zasadniczego i kategorii uposażenia zasadniczego zaokrągla się do pełnych dziesięciu złotych w górę, jeżeli końcówka jest równa lub wyższa od pięciu złotych, albo w dół, jeżeli jest niższa od pięciu złotych.
+2. Kwotę wzrostu uposażenia zasadniczego z tytułu wysługi lat zaokrągla się do pełnych dziesięciu groszy w górę.
+§ 4. 1. Funkcjonariuszom w służbie stałej przyznaje się uposażenie zasadnicze w wysokości wynikającej z I kategorii grup uposażenia zasadniczego odpowiadającej zajmowanemu stanowisku służbowemu.
+2. Funkcjonariuszom w służbie przygotowawczej i kontraktowej przyznaje się uposażenie zasadnicze w wysokości wynikającej z II kategorii grup uposażenia zasadniczego odpowiadającej zajmowanemu stanowisku służbowemu.
+3. Funkcjonariuszom w służbie kandydackiej przysługuje uposażenie zasadnicze w wysokości 13 % najniższej stawki uposażenia zasadniczego funkcjonariuszy Straży Granicznej.
+§ 5. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek GRUPY UPOSAŻENIA ZASADNICZEGO I KATEGORIE UPOSAŻENIA ZASADNICZEGO ORAZ ODPOWIADAJĄCE IM MNOŻNIKI KWOTY BAZOWEJ Wyszczególnienie Mnożniki kwoty bazowej Kategoria uposażenia zasadniczego Lp. Grupa uposażenia zasadniczego I II 1 19 5,712 – 2 18 5,112 – 3 17 3,512 3,432 4 16 3,212 3,132 5 15 2,912 2,832 6 14 2,662 2,562 7 13 2,623 2,532 8 12 2,433 2,382 9 11 2,401 2,351 10 10 2,351 2,313 11 09 2,319 2,269 12 08 2,269 2,219 13 07 2,238 2,194 14 06 2,150 2,106 15 05 2,116 2,066 16 04 2,029 1,984 17 03 2,001 1,951 18 02 1,946 1,887 19 01 1,862 1,862 ZASZEREGOWANIE STANOWISK SŁUŻBOWYCH FUNKCJONARIUSZY STRAŻY GRANICZNEJ DO ODPOWIEDNICH GRUP UPOSAŻENIA ZASADNICZEGO I STOPNI ETATOWYCH Tabela nr 1 Komenda Główna Straży Granicznej Lp. Stanowisko służbowe Grupa uposażenia Stopień etatowy zasadniczego 1 Komendant Główny Straży Granicznej 19 gen. dyw.
+2 zastępca Komendanta Głównego Straży Granicznej 18 gen. bryg.
+3 dyrektor 17 płk 4 zastępca dyrektora, główny księgowy, doradca Komendanta 16 płk Głównego Straży Granicznej 5 kierownik komórki audytu wewnętrznego, radca, dziekan, radca 15 płk prawny, legislator, rzecznik prasowy Komendanta Głównego Straży Granicznej – kierownik zespołu prasowego 6 naczelnik wydziału 14 płk 7 audytor wewnętrzny, wicedziekan 14 ppłk 8 zastępca naczelnika wydziału, kierownik samodzielnej sekcji, 12 ppłk zastępca rzecznika prasowego Komendanta Głównego Straży Granicznej 9 ekspert 11 mjr 10 kierownik sekcji 11 mjr 11 starszy specjalista, kierownik kancelarii tajnej 09 kpt. / st. chor. szt.
+12 specjalista 07 st. chor. szt.
+13 starszy asystent 06 st. chor. szt.
+14 asystent 06 st. chor. szt. / sierż. szt.
+15 młodszy asystent 05 sierż. szt.
+16 kursant 01 st. szer.
+Tabela nr 2 Wyższa Szkoła Straży Granicznej 1 Rektor-Komendant 17 gen. bryg., kontradmirał 2 prorektor-zastępca Komendanta, kanclerz 16 płk, kmdr 3 dyrektor instytutu, profesor, kwestor 15 płk, kmdr 4 kierownik zakładu, kierownik działu dowodzenia 14 płk, kmdr 5 kierownik działu, radca prawny, kierownik rektoratu 13 płk, kmdr 6 profesor uczelni, zastępca dyrektora instytutu 13 ppłk, kmdr por.
+7 kierownik zespołu, starszy wykładowca, adiunkt 12 ppłk, kmdr por.
+8 rzecznik prasowy, zastępca kierownika działu 11 ppłk 9 kierownik samodzielnej sekcji, komendant studium (kursu), 11 mjr, kmdr ppor.
+kierownik służby zdrowia, kierownik zespołu audytu wewnętrznego – audytor wewnętrzny 10 wykładowca, ekspert, kapelan 10 mjr, kmdr ppor.
+11 kierownik sekcji, zastępca komendanta studium (kursu), 09 mjr, kmdr ppor.
+audytor wewnętrzny, zastępca kierownika służby zdrowia 12 młodszy wykładowca 09 kpt.
+13 starszy specjalista, starszy instruktor 08 kpt. / st. chor. szt.
+14 specjalista, instruktor 07 st. chor. szt.
+15 starszy asystent, młodszy instruktor 06 st. chor. szt.
+16 dowódca plutonu 06 st. chor. szt. / sierż. szt.
+17 asystent 05 st. chor. szt. / sierż. szt.
+18 młodszy asystent 04 sierż. szt.
+19 strażnik graniczny 02 szer., mar.
+20 kursant 01 st. szer., st. mar.
+Tabela nr 3 Biuro Spraw Wewnętrznych Straży Granicznej 1 Komendant Biura Spraw Wewnętrznych Straży Granicznej 17 gen. bryg.
+2 zastępca Komendanta Biura Spraw Wewnętrznych Straży 16 płk Granicznej, główny księgowy 3 kierownik komórki audytu wewnętrznego, radca, dziekan, 15 płk radca prawny, legislator 4 naczelnik wydziału 14 płk 5 rzecznik prasowy, audytor wewnętrzny, wicedziekan 14 ppłk 6 zastępca naczelnika wydziału, kierownik samodzielnej sekcji 12 ppłk 7 ekspert 11 mjr 8 kierownik sekcji 11 mjr 9 starszy specjalista, kierownik kancelarii tajnej 09 kpt. / st. chor. szt.
+10 specjalista 07 st. chor. szt.
+11 starszy asystent 06 st. chor. szt.
+12 asystent 06 st. chor. szt. / sierż. szt.
+13 młodszy asystent 05 sierż. szt.
+14 kursant 01 st. szer.
+Tabela nr 4 Komenda oddziału Straży Granicznej 1 komendant oddziału Straży Granicznej 17 gen. bryg., kontradmirał 2 zastępca komendanta oddziału Straży Granicznej 16 płk, kmdr 3 główny księgowy 15 płk, kmdr 4 zastępca głównego księgowego, naczelnik wydziału, naczelnik 12 ppłk, kmdr por.
+wydziału – kierownik strzeżonego ośrodka dla cudzoziemców, radca prawny 5 rzecznik prasowy komendanta oddziału Straży Granicznej – 11 ppłk, kmdr por.
+kierownik zespołu prasowego 6 zastępca naczelnika wydziału, kierownik samodzielnej sekcji, 10 mjr, kmdr ppor.
+kierownik służby zdrowia, kierownik zespołu audytu wewnętrznego – audytor wewnętrzny 7 dowódca pododdziału odwodowego, kapelan 09 mjr 8 kierownik sekcji, audytor wewnętrzny, zastępca kierownika 08 mjr, kmdr ppor.
+służby zdrowia 9 kierownik zespołu, starszy specjalista, zastępca dowódcy 07 kpt. / st. chor. szt.
+pododdziału odwodowego 10 specjalista 06 st. chor. szt.
+11 dowódca plutonu odwodowego, starszy asystent 06 st. chor. szt.
+12 dowódca plutonu, starszy kontroler 05 st. chor. szt. / sierż. szt., bosman szt.
+13 asystent 04 sierż. szt., bosman szt.
+14 młodszy asystent, kontroler 03 sierż. szt., bosman szt.
+15 strażnik graniczny 02 szer., mar.
+16 kursant 01 st. szer., st. mar.
+Tabela nr 5 Ośrodek szkolenia Straży Granicznej 1 komendant ośrodka szkolenia Straży Granicznej 17 płk 2 zastępca komendanta ośrodka szkolenia Straży Granicznej 16 płk 3 główny księgowy 15 płk 4 kierownik zakładu, komendant pododdziałów szkolnych 13 ppłk, kmdr por.
+5 zastępca głównego księgowego, naczelnik wydziału, 12 ppłk, kmdr por.
+radca prawny 6 kierownik zespołu 11 ppłk, kmdr por.
+7 starszy wykładowca 11 mjr, kmdr ppor.
+zastępca naczelnika wydziału, kierownik samodzielnej sekcji, 10 mjr, kmdr ppor.
+8 komendant studium (kursu), kierownik służby zdrowia, kierownik zespołu audytu wewnętrznego – audytor wewnętrzny, rzecznik prasowy 9 wykładowca, kapelan 09 mjr, kmdr ppor.
+10 kierownik sekcji, zastępca komendanta studium (kursu), 08 mjr, kmdr ppor.
+audytor wewnętrzny, zastępca kierownika służby zdrowia 11 młodszy wykładowca 08 kpt.
+12 starszy specjalista, starszy instruktor 07 kpt. / st. chor. szt.
+13 specjalista, instruktor 06 st. chor. szt.
+14 starszy asystent, młodszy instruktor 06 st. chor. szt.
+15 dowódca plutonu, starszy kontroler 05 st. chor. szt. / sierż. szt.
+16 asystent 04 sierż. szt.
+17 młodszy asystent, kontroler 03 sierż. szt.
+18 strażnik graniczny 02 szer., mar.
+19 kursant 01 st. szer., st. mar.
+Tabela nr 6 Ośrodek Straży Granicznej 1 komendant ośrodka Straży Granicznej 16 płk, kmdr 2 zastępca komendanta ośrodka Straży Granicznej 15 płk, kmdr 3 główny księgowy 14 ppłk, kmdr por.
+4 naczelnik wydziału, naczelnik wydziału – kierownik strzeżonego 12 ppłk, kmdr por.
+ośrodka dla cudzoziemców, radca prawny 5 zastępca naczelnika wydziału, kierownik samodzielnej sekcji, 10 mjr, kmdr ppor.
+kierownik służby zdrowia 6 dowódca pododdziału odwodowego 09 mjr 7 kierownik sekcji, audytor wewnętrzny, zastępca kierownika 08 mjr, kmdr ppor.
+służby zdrowia 8 kierownik zespołu, starszy specjalista, zastępca dowódcy 07 kpt. / st. chor. szt.
+pododdziału odwodowego 9 specjalista 06 st. chor. szt.
+10 dowódca plutonu odwodowego, starszy asystent 06 st. chor. szt.
+11 dowódca plutonu, starszy kontroler 05 st. chor. szt. / sierż. szt., bosman szt.
+12 asystent 04 sierż. szt., bosman szt.
+13 młodszy asystent, kontroler 03 sierż. szt., bosman szt.
+14 strażnik graniczny 02 szer., mar.
+15 kursant 01 st. szer., st. mar.
+Tabela nr 7 Dywizjon Straży Granicznej 1 komendant dywizjonu Straży Granicznej 15 kmdr, płk 2 zastępca komendanta dywizjonu Straży Granicznej 13 kmdr por., ppłk 3 dowódca jednostki pływającej kat. I 12 kmdr ppor., mjr 4 szef służb 11 kmdr ppor., mjr 5 zastępca dowódcy jednostki pływającej kat. I 10 kpt.
+6 dowódca jednostki pływającej kat. II, kierownik sekcji 08 kpt.
+7 kierownik zespołu, kierownik zmiany, starszy specjalista 07 kpt. / st. chor. szt.
+8 zastępca dowódcy jednostki pływającej kat. II, dowódca 06 st. chor. szt.
+jednostki pływającej kat. III, specjalista 9 starszy asystent 06 st. chor. szt.
+10 zastępca dowódcy jednostki pływającej kat. III, starszy bosman, 05 st. chor. szt. / starszy kontroler bosman szt., sierż. szt.
+11 bosman, asystent 04 bosman szt., sierż. szt.
+12 młodszy asystent, kontroler 03 bosman szt., sierż. szt.
+13 strażnik graniczny 02 mar., szer.
+Tabela nr 8 Placówka Straży Granicznej kategorii I 1 komendant placówki Straży Granicznej 15 płk 2 zastępca komendanta placówki Straży Granicznej 13 ppłk 3 kierownik grupy 11 mjr 4 kierownik zespołu 08 kpt.
+5 kierownik zmiany, starszy specjalista 07 kpt. / st. chor. szt.
+6 specjalista 06 st. chor. szt.
+7 starszy asystent 06 st. chor. szt.
+8 starszy kontroler 05 st. chor. szt. / sierż. szt.
+9 asystent 04 sierż. szt.
+10 młodszy asystent, kontroler 03 sierż. szt.
+11 strażnik graniczny 02 szer.
+Tabela nr 9 Placówka Straży Granicznej kategorii II 1 komendant placówki Straży Granicznej 13 płk 2 zastępca komendanta placówki Straży Granicznej 11 ppłk 3 kierownik grupy 09 mjr 4 kierownik zmiany, kierownik zespołu, starszy specjalista 07 kpt. / st. chor. szt.
+5 specjalista 06 st. chor. szt.
+6 starszy asystent 06 st. chor. szt.
+7 starszy kontroler 05 st. chor. szt. / sierż. szt.
+8 asystent 04 sierż. szt.
+9 młodszy asystent, kontroler 03 sierż. szt.
+10 strażnik graniczny 02 szer.
+Tabela nr 10 Placówka Straży Granicznej kategorii III 1 komendant placówki Straży Granicznej 11 ppłk 2 zastępca komendanta placówki Straży Granicznej 09 mjr 3 kierownik grupy 08 kpt.
+4 kierownik zmiany, kierownik zespołu, starszy specjalista 07 kpt. / st. chor. szt.
+5 specjalista 06 st. chor. szt.
+6 starszy asystent 06 st. chor. szt.
+7 starszy kontroler 05 st. chor. szt. / sierż. szt.
+8 asystent 04 sierż. szt.
+9 młodszy asystent, kontroler 03 sierż. szt.
+10 strażnik graniczny 02 szer.
+

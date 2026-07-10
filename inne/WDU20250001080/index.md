@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-07-25 |
 | Data wydania | 2025-08-07 |
-| Ostatnia zmiana | 2025-08-18 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001080) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1080/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2023-01-13 |
 | Data wydania | 2023-01-30 |
-| Ostatnia zmiana | 2026-06-02 |
+| Ostatnia zmiana | 2026-06-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/203/text.pdf) |
 
 **Art. 1.** Ustawa określa:
@@ -35,7 +35,7 @@ source: pdf
 
 **Art. 2.**
 
-1. Fundusz jest spółką realizującą misję publiczną w rozumieniu przepisów ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125 i 834).
+1. Fundusz jest spółką realizującą misję publiczną w rozumieniu przepisów ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2026 r. poz. 373).
 
 2. Celem działania Funduszu jest wspieranie procesu transformacji województwa śląskiego oraz podmiotów, w celu przeciwdziałania negatywnym skutkom wygaszania działalności gospodarczej, w tym działalności wydobywczej węgla kamiennego, występującym na terytorium województwa śląskiego lub poza jego terytorium.
 
@@ -63,7 +63,7 @@ source: pdf
 
 2. Strategia jest opracowywana na okres co najmniej 5 lat kalendarzowych i może być zmieniana.
 
-3. Do Strategii nie stosuje się przepisów ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324 i 862).
+3. Do Strategii nie stosuje się przepisów ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198 i 1846).
 
 **Art. 4.**
 
@@ -105,13 +105,14 @@ source: pdf
 2. W ramach realizacji celu, o którym mowa w art. 2 ust. 2, Fundusz może wykonywać zadania:
 
 - **1)** powierzone mu na podstawie umów lub porozumień zawieranych w szczególności z organami administracji rządowej, innymi jednostkami wykonującymi zadania publiczne lub jednostkami samorządu terytorialnego;
-- **2)** we współpracy z instytucjami rozwoju, o których mowa w art. 2 ust. 1 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2024 r. poz. 923).
+- **2)** we współpracy z instytucjami rozwoju, o których mowa w art. 2 ust. 1 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2026 r. poz. 9 i
+- **633)** .
 
 3. Rada Ministrów może powierzyć Funduszowi realizację rządowego programu udzielania przedsiębiorcom wsparcia finansowego, służącego realizacji celu, o którym mowa w art. 2 ust. 2, w szczególności w formach, o których mowa w ust. 1.
 
 4. Rządowy program, o którym mowa w ust. 3, określa w szczególności warunki i okres udzielania przedsiębiorcom wsparcia finansowego, o którym mowa w ust. 3, zasady sprawozdawczości z jego realizacji oraz sposób wykonywania nadzoru nad jego realizacją.
 
-5. Fundusz jest podmiotem udzielającym pomocy publicznej w rozumieniu ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702).
+5. Fundusz jest podmiotem udzielającym pomocy publicznej w rozumieniu ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2026 r. poz. 500).
 
 **Art. 8.**
 
@@ -242,7 +243,7 @@ source: pdf
 
 5. Emisja skarbowych papierów wartościowych, o których mowa w ust. 1, następuje z dniem zarejestrowania skarbowych papierów wartościowych w depozycie papierów wartościowych oraz w kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
 
-6. Do emisji skarbowych papierów wartościowych, o których mowa w ust. 1, nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) ani przepisów wydanych na podstawie art. 97 tej ustawy.
+6. Do emisji skarbowych papierów wartościowych, o których mowa w ust. 1, nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635) ani przepisów wydanych na podstawie art. 97 tej ustawy.
 
 **Art. 13.**
 
@@ -250,7 +251,7 @@ source: pdf
 
 2. Środki pochodzące z emisji obligacji lub kredytów, o których mowa w ust. 1, przeznacza się na przedsięwzięcia inwestycyjne podejmowane w ramach realizacji celu, o którym mowa w art. 2 ust. 2.
 
-3. Do poręczeń lub gwarancji, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291), z wyjątkiem przepisów art. 3, art. 7, art. 12 ust. 1 oraz art. 14 tej ustawy.
+3. Do poręczeń lub gwarancji, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291 oraz z 2026 r. poz. 635), z wyjątkiem przepisów art. 3, art. 7, art. 12 ust. 1 oraz art. 14 tej ustawy.
 
 4. W przypadku przedsięwzięć inwestycyjnych o charakterze publicznym o szczególnym znaczeniu dla gospodarki narodowej, bezpieczeństwa lub obronności państwa poręczenia lub gwarancje, o których mowa w ust. 1, mogą być udzielane do wysokości 100 % kwoty zobowiązań wynikających z emisji obligacji lub zaciągnięcia kredytu, objętych poręczeniem albo gwarancją, oraz do wysokości 100 % odsetek od tej kwoty wraz z innymi kosztami bezpośrednio związanymi z tymi obligacjami lub tym kredytem.
 
@@ -280,7 +281,7 @@ source: pdf
 
 **Art. 15.**
 
-1. Minister właściwy do spraw rozwoju regionalnego, na wniosek Funduszu, może udzielić Funduszowi dotacji celowej na wykonywanie zadań, o których mowa w art. 7 ust. 2 pkt 1, związanych z przygotowaniem lub realizacją przedsięwzięć w ramach partnerstwa publiczno-prywatnego w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637).
+1. Minister właściwy do spraw rozwoju regionalnego, na wniosek Funduszu, może udzielić Funduszowi dotacji celowej na wykonywanie zadań, o których mowa w art. 7 ust. 2 pkt 1, związanych z przygotowaniem lub realizacją przedsięwzięć w ramach partnerstwa publiczno-prywatnego w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz. 426).
 
 2. Minister właściwy do spraw rozwoju regionalnego, udzielając dotacji celowej, zawiera z Funduszem umowę, o której mowa w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
@@ -308,7 +309,7 @@ source: pdf
 
 4. Fundusz prowadzi wyodrębnioną ewidencję dla działań finansowanych ze środków, o których mowa w ust. 1, oraz działalności gospodarczej, w tym jest obowiązany do prawidłowego przypisywania przychodów i kosztów na podstawie metod mających obiektywne uzasadnienie.
 
-5. Zasady prowadzenia wyodrębnionej ewidencji oraz metody przypisywania przychodów i kosztów zgodnie z podziałem środków, o którym mowa w ust. 4, Fundusz określa w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619).
+5. Zasady prowadzenia wyodrębnionej ewidencji oraz metody przypisywania przychodów i kosztów zgodnie z podziałem środków, o którym mowa w ust. 4, Fundusz określa w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2026 r. poz. 522, 640 i 644).
 
 6. W zakresie nieuregulowanym w ust. 1–4 stosuje się odpowiednio przepisy art. 150–152 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
@@ -320,7 +321,7 @@ source: pdf
 
 - **1)** obejmowaniu lub nabywaniu udziałów, akcji, warrantów subskrypcyjnych lub obligacji oraz przystępowaniu do spółek osobowych;
 - **2)** udzielaniu pożyczek, gwarancji, poręczeń;
-- **3)** obejmowaniu lub nabywaniu jednostek uczestnictwa i certyfikatów inwestycyjnych funduszy inwestycyjnych, praw uczestnictwa alternatywnej spółki inwestycyjnej lub instytucji wspólnego inwestowania mających siedzibę za granicą w rozumieniu przepisów ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034) oraz zarządzaniu funduszami inwestycyjnymi;
+- **3)** obejmowaniu lub nabywaniu jednostek uczestnictwa i certyfikatów inwestycyjnych funduszy inwestycyjnych, praw uczestnictwa alternatywnej spółki inwestycyjnej lub instytucji wspólnego inwestowania mających siedzibę za granicą w rozumieniu przepisów ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60, 176, 484 i 644) oraz zarządzaniu funduszami inwestycyjnymi;
 - **4)** prowadzeniu innej działalności inwestycyjnej, o której mowa w art. 48b ust. 3 pkt 2 ustawy z dnia 29 września 1994 r. o rachunkowości.
 
 **Art. 18.** Minister właściwy do spraw gospodarki surowcami energetycznymi wykonuje prawa z akcji należących do Skarbu Państwa w Funduszu, łącznie z wynikającymi z nich prawami osobistymi albo indywidualnymi.
@@ -341,7 +342,7 @@ source: pdf
 
 2. Członków rady nadzorczej Funduszu powołuje, na wniosek podmiotów, o których mowa w ust. 1, walne zgromadzenie Funduszu.
 
-3. Rada nadzorcza Funduszu jest zdolna do wykonywania swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi nie mniej niż 6 osób.
+3. Rada nadzorcza Funduszu jest zdolna do wykonywania swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi niemniej niż 6 osób.
 
 4. W przypadku gdy liczba członków rady nadzorczej Funduszu wynosi mniej niż 7 osób, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 7 osób.
 
@@ -349,7 +350,7 @@ source: pdf
 
 **Art. 23a.**
 
-1. Fundusz może udzielać jednostkom samorządu terytorialnego oraz samorządowym osobom prawnym, które realizują przedsięwzięcia w zakresie usuwania skutków powodzi na obszarze gmin określonych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654 i 1473) w związku z powodzią we wrześniu 2024 r.:
+1. Fundusz może udzielać jednostkom samorządu terytorialnego oraz samorządowym osobom prawnym, które realizują przedsięwzięcia w zakresie usuwania skutków powodzi na obszarze gmin określonych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2025 r. poz. 1402 i 1847) w związku z powodzią we wrześniu 2024 r.:
 
 - **1)** gwarancji i poręczeń,
 - **2)** wsparcia, w tym w formach bezzwrotnych – zwanych dalej „wsparciem nadzwyczajnym”.

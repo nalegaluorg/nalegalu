@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomostowych*
 
-Łącznie: **2127** orzeczeń
-(pominięto 1329 orzeczeń sądów rejonowych)
+Łącznie: **2128** orzeczeń
+(pominięto 1335 orzeczeń sądów rejonowych)
 
 ## art. 1 (177)
 
@@ -185,7 +185,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 - 2016-06-20 | SO | [VIII U 2710/15](https://www.saos.org.pl/judgments/232675) | Zarządzenie
 - 2016-04-11 | SO | [VIII U 1141/15](https://www.saos.org.pl/judgments/216385) | Zarządzenie
 
-## art. 2 (803)
+## art. 2 (804)
 
 - 2010-11-25 | TK | [K 27/09](https://www.saos.org.pl/judgments/109678) | Wyrok ★
 - 2010-03-16 | TK | [K 17/09](https://www.saos.org.pl/judgments/206254) | Wyrok ★
@@ -198,6 +198,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 - 2014-05-14 | SN | [II UK 465/13](https://www.saos.org.pl/judgments/105090) | Wyrok ★
 - 2014-05-14 | SN | [II UK 460/13](https://www.saos.org.pl/judgments/105089) | Wyrok ★
 - 2013-10-10 | SN | [II UK 106/13](https://www.saos.org.pl/judgments/103083) | Wyrok ★
+- 2026-04-22 | SO | [III AUa 920/24](https://www.saos.org.pl/judgments/547617) | Wyrok
 - 2026-03-31 | SO | [III AUa 720/25](https://www.saos.org.pl/judgments/545956) | Wyrok
 - 2026-01-14 | SO | [III AUa 548/25](https://www.saos.org.pl/judgments/545044) | Wyrok
 - 2025-12-02 | SO | [III AUa 59/24](https://www.saos.org.pl/judgments/542537) | Wyrok
@@ -7128,7 +7129,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 
 - 2016-12-30 | SO | [III AUz 98/16](https://www.saos.org.pl/judgments/266792) | Postanowienie
 
-## art. 21 (927)
+## art. 21 (928)
 
 - 2011-03-03 | TK | [K 23/09](https://www.saos.org.pl/judgments/110276) | Wyrok ★
 - 2010-11-25 | TK | [K 27/09](https://www.saos.org.pl/judgments/109678) | Wyrok ★
@@ -7137,6 +7138,7 @@ Orzeczenia powołujące: *Ustawa z dnia 19 grudnia 2008 r. o emeryturach pomosto
 - 2012-09-13 | TK | [Tw 9/12](https://www.saos.org.pl/judgments/111523) | Postanowienie ★
 - 2009-10-08 | TK | [Tw 12/09](https://www.saos.org.pl/judgments/109620) | Postanowienie ★
 - 2009-07-15 | TK | [Tw 12/09](https://www.saos.org.pl/judgments/109618) | Postanowienie ★
+- 2026-04-22 | SO | [III AUa 920/24](https://www.saos.org.pl/judgments/547617) | Wyrok
 - 2026-03-31 | SO | [III AUa 720/25](https://www.saos.org.pl/judgments/545956) | Wyrok
 - 2026-01-14 | SO | [III AUa 548/25](https://www.saos.org.pl/judgments/545044) | Wyrok
 - 2025-12-02 | SO | [III AUa 59/24](https://www.saos.org.pl/judgments/542537) | Wyrok

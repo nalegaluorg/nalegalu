@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2005-01-20 |
 | Data wydania | 2005-02-11 |
-| Ostatnia zmiana | 2024-03-15 |
+| Ostatnia zmiana | 2026-06-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050250202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/202/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

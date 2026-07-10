@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 13 lutego 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kuratorach sądowych
 
+*USTAWA z dnia 27 lipca 2001 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2026 poz. 200 |
@@ -22,17 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2026-02-13 |
 | Data wydania | 2026-02-23 |
-| Ostatnia zmiana | 2026-02-25 |
+| Ostatnia zmiana | 2026-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000200) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/200/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. z 2023 r. poz. 1095), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620),
-2) ustawą z dnia 18 grudnia 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. z 2026 r. poz. 26) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 lutego 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „ Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
-2) art. 43 ustawy z dnia 18 grudnia 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. z 2026 r. poz. 26), który stanowi: „ Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 3, art. 12 pkt 1 oraz art. 13 pkt 5, 6 lit. a i b oraz pkt 7, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia; 2) art. 12 pkt 4 i 5, które wchodzą w życie z dniem 1 października 2026 r.; 3) art. 1 pkt 2 lit. a tiret pierwsze i drugie, lit. b, pkt 5, 6 i 9 w zakresie art. 85a ust. 1 i art. 85c–85j, art. 2, art. 3 pkt 2 i 3, art. 4–11, art. 12 pkt 2, 3, 6–8, art. 13 pkt 1, 2 lit. b w zakresie ust. 1d i 1e, pkt 3, 4 i 6 lit. c, art. 14, art. 15, art. 17–25 oraz art. 28–33, które wchodzą w życie z dniem 1 stycznia 2027 r.”. Marszałek Sejmu: W. Czarzasty
-USTAWA z dnia 27 lipca 2001 r.
-o kuratorach sądowych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -63,6 +56,64 @@ o kuratorach sądowych
 
 3. Minister Sprawiedliwości określi, w drodze zarządzenia, wzory znaków identyfikacyjnych kuratora zawodowego, kuratora społecznego oraz aplikanta kuratorskiego.
 
+**Art. 3b.**
+
+1. Kuratorowi zawodowemu, kuratorowi społecznemu i aplikantowi kuratorskiemu wydaje się legitymację służbową.
+
+2. Legitymacja służbowa zawiera:
+
+- **1)** imię (imiona) i nazwisko;
+- **2)** wizerunek twarzy;
+- **3)** numer legitymacji służbowej oraz datę jej ważności;
+- **4)** nazwę organu, który wydał legitymację służbową;
+- **5)** miejscowość i datę wydania legitymacji służbowej.
+
+3. Legitymacja służbowa zawiera ponadto, w przypadku:
+
+- **1)** kuratora zawodowego – nazwę sądu, w którym jest zatrudniony;
+- **2)** kuratora społecznego – nazwę sądu, w którym pełni swoją funkcję;
+- **3)** aplikanta kuratorskiego – nazwę sądu okręgowego, w którym jest zatrudniony, oraz nazwę sądu rejonowego, w którym odbywa szkolenie praktyczne.
+
+**Art. 3c.** Organem właściwym w sprawach dotyczących wydania, wymiany, zwrotu albo utraty legitymacji służbowej jest:
+
+- **1)** prezes sądu okręgowego – w przypadkach kuratora zawodowego i aplikanta kuratorskiego;
+- **2)** prezes sądu rejonowego – w przypadku kuratora społecznego.
+
+**Art. 3d.** Legitymacja służbowa podlega wymianie w przypadku:
+
+- **1)** zmiany danych w niej zawartych;
+- **2)** jej uszkodzenia;
+- **3)** jej zniszczenia;
+- **4)** upływu terminu jej ważności.
+
+**Art. 3e.**
+
+1. Legitymacja służbowa kuratora zawodowego podlega zwrotowi w przypadku:
+
+- **1)** zawieszenia kuratora zawodowego w pełnieniu obowiązków służbowych;
+- **2)** wygaśnięcia stosunku pracy z kuratorem zawodowym;
+- **3)** rozwiązania stosunku pracy z kuratorem zawodowym;
+- **4)** upływu terminu jej ważności.
+
+2. Legitymacja służbowa kuratora społecznego podlega zwrotowi w przypadku:
+
+- **1)** zawieszenia kuratora społecznego w czynnościach;
+- **2)** odwołania kuratora społecznego z powierzonej mu funkcji;
+- **3)** upływu terminu jej ważności.
+
+3. Legitymacja służbowa aplikanta kuratorskiego podlega zwrotowi w przypadku:
+
+- **1)** rozwiązania stosunku pracy z aplikantem kuratorskim;
+- **2)** upływu terminu jej ważności.
+
+**Art. 3f.** Kurator zawodowy, kurator społeczny i aplikant kuratorski są obowiązani dbać o należyty stan swojej legitymacji służbowej, a także chronić ją przed uszkodzeniem, zniszczeniem albo utratą.
+
+**Art. 3g.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+- **1)** wzór legitymacji służbowej,
+- **2)** sposób postępowania w sprawach dotyczących wydania, wymiany, zwrotu albo utraty legitymacji służbowej,
+- **3)** termin ważności legitymacji służbowej – kuratora zawodowego, kuratora społecznego i aplikanta kuratorskiego, mając na względzie konieczność zapewnienia możliwości identyfikacji kuratorów sądowych i aplikantów kuratorskich, sprawności postępowania w sprawach dotyczących wydania, wymiany, zwrotu albo utraty legitymacji służbowej oraz jej właściwej ochrony przed podrobieniem, przerobieniem lub użyciem przez osobę nieuprawnioną.
+
 #### Rozdział 2 Kuratorzy zawodowi
 
 **Art. 4.**
@@ -90,7 +141,7 @@ o kuratorach sądowych
 - **5)** odbył aplikację kuratorską;
 - **6)** zdał egzamin kuratorski.
 
-2. Minister Sprawiedliwości, na wniosek prezesa sądu okręgowego, może, w szczególnie uzasadnionych wypadkach, zwolnić aplikanta kuratorskiego z pozostałej do odbycia części aplikacji kuratorskiej i złożenia egzaminu kuratorskiego.
+2. Minister Sprawiedliwości, na wniosek prezesa sądu okręgowego, może, w szczególnie uzasadnionych wypadkach, zwolnić aplikanta kuratorskiego z pozostałej do odbycia części aplikacji kuratorskiej lub ze złożenia egzaminu kuratorskiego.
 
 3. Do określania stanu zdrowia wymaganego do podjęcia obowiązków kuratora zawodowego lub aplikanta kuratorskiego stosuje się odpowiednio przepisy dotyczące przeprowadzania badań kandydatów do objęcia urzędu sędziego.
 
@@ -222,7 +273,7 @@ o kuratorach sądowych
 
 3. Kuratorowi zawodowemu przysługuje dodatek patronacki za sprawowanie patronatu nad aplikantem kuratorskim.
 
-4. Kuratorowi zawodowemu, w tym rzecznikowi dyscyplinarnemu, może być przyznany przez prezesa właściwego sądu, na czas określony, dodatek specjalny z tytułu okresowego zwiększenia zakresu obowiązków służbowych, w tym za zastępowanie osoby długotrwale nieobecnej w pracy, lub wykonywanie innych czynności poza zwykłym zakresem obowiązków do wysokości 40 % wynagrodzenia zasadniczego, w ramach posiadanych środków określonych na wynagrodzenia osobowe kuratorów zawodowych.
+4. Kuratorowi zawodowemu, w tym rzecznikowi dyscyplinarnemu, może być przyznany przez prezesa właściwego sądu dodatek specjalny z tytułu okresowego zwiększenia zakresu obowiązków służbowych, w tym za zastępowanie osoby długotrwale nieobecnej w pracy, lub z tytułu wykonywania innych czynności poza zwykłym zakresem obowiązków służbowych. Dodatek ten może być przyznany na czas określony za okres wykonywania tych zadań do wysokości 40 % wynagrodzenia zasadniczego w ramach posiadanych środków określonych na wynagrodzenia osobowe kuratorów zawodowych.
 
 4a. Dodatek specjalny, o którym mowa w ust. 4, może być przyznany kuratorowi okręgowemu, zastępcy kuratora okręgowego oraz kuratorom, o których mowa w art. 37b ust. 1 i art. 38 ust. 2, za zgodą Ministra Sprawiedliwości.
 
@@ -234,7 +285,7 @@ o kuratorach sądowych
 
 6. Kuratorowi zawodowemu przysługuje dodatek za wieloletnią pracę, wynoszący począwszy od szóstego roku pracy 5 % miesięcznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1 % za każdy dalszy rok pracy, aż do osiągnięcia 20 % miesięcznego wynagrodzenia zasadniczego.
 
-7. Rada Ministrów określi, w drodze rozporządzenia, mnożniki wynagrodzenia zasadniczego kuratorów zawodowych i aplikantów kuratorskich, stawki dodatku funkcyjnego i patronackiego oraz szczegółowe warunki przyznawania dodatku patronackiego i dodatku specjalnego, uwzględniając rangę zawodu kuratora.
+7. Minister Sprawiedliwości określi, w drodze rozporządzenia, mnożniki wynagrodzenia zasadniczego kuratorów zawodowych i aplikantów kuratorskich, stawki dodatku funkcyjnego i patronackiego oraz szczegółowe warunki przyznawania dodatku patronackiego i dodatku specjalnego, uwzględniając rangę zawodu kuratora.
 
 **Art. 15.**
 
@@ -312,13 +363,7 @@ o kuratorach sądowych
 
 3. Przepis art. 19 ust. 2 stosuje się odpowiednio.
 
-**Art. 21.**
-
-1. W razie trwałej utraty zdolności do wykonywania zawodu kuratora, kuratora zawodowego można przenieść do innej pracy na jego wniosek, złożony w ciągu 7 dni od uprawomocnienia się stosownego orzeczenia. Przez okres 3 miesięcy od dnia przeniesienia kurator zachowuje prawo do dotychczasowego wynagrodzenia.
-
-1. W razie trwałej utraty zdolności do wykonywania zawodu kuratora, kuratora zawodowego można przenieść do innej pracy na jego wniosek, złożony w terminie 7 dni od uprawomocnienia się stosownego orzeczenia. Orzeczenie o trwałej niezdolności do wykonywania zawodu kuratora wydaje lekarz orzecznik Zakładu Ubezpieczeń Społecznych na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). Przez okres 3 miesięcy od dnia przeniesienia kurator zachowuje prawo do dotychczasowego wynagrodzenia.
-
-2. Jeżeli kurator zawodowy zostanie poddany rehabilitacji zawodowej lub przysposobieniu do innej pracy, zachowuje prawo do dotychczasowego wynagrodzenia przez okres 12 miesięcy.
+**Art. 21.** [1. W razie trwałej utraty zdolności do wykonywania zawodu kuratora, kuratora zawodowego można przenieść do innej pracy na jego wniosek, złożony w ciągu 7 dni od uprawomocnienia się stosownego orzeczenia. Przez okres 3 miesięcy od dnia przeniesienia kurator zachowuje prawo do dotychczasowego wynagrodzenia.] <1. W razie trwałej utraty zdolności do wykonywania zawodu kuratora, kuratora zawodowego można przenieść do innej pracy na jego wniosek, złożony w terminie 7 dni od uprawomocnienia się stosownego orzeczenia. Orzeczenie o trwałej niezdolności do wykonywania zawodu kuratora wydaje lekarz orzecznik Zakładu Ubezpieczeń Społecznych na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). Przez okres 3 miesięcy od dnia przeniesienia kurator zachowuje prawo do dotychczasowego wynagrodzenia.> 2. Jeżeli kurator zawodowy zostanie poddany rehabilitacji zawodowej lub przysposobieniu do innej pracy, zachowuje prawo do dotychczasowego wynagrodzenia przez okres 12 miesięcy.
 
 **Art. 22.** Między kuratorami zawodowymi nie może istnieć stosunek bezpośredniej podległości służbowej, jeżeli są małżonkami albo pozostają ze sobą w stosunku pokrewieństwa do drugiego stopnia włącznie lub powinowactwa pierwszego stopnia albo przysposobienia, opieki lub kurateli.
 
@@ -360,7 +405,7 @@ o kuratorach sądowych
 - **1)** otrzymania negatywnej oceny pracy, potwierdzonej ponowną taką oceną, która nie może być dokonana przed upływem roku i po upływie 2 lat od dnia sporządzenia poprzedniej oceny;
 - **2)** zniesienia sądu lub jego reorganizacji, jeżeli nie jest możliwe przeniesienie kuratora do innego sądu rejonowego w tym samym okręgu;
 - **3)** trwałej utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, jeżeli nie ma możliwości przeniesienia kuratora do innej pracy, odpowiedniej do jego stanu zdrowia i kwalifikacji zawodowych, albo gdy kurator odmawia przejścia do takiej pracy.
-- **4)** (uchylony) 1a. Orzeczenie o trwałej utracie zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, o której mowa w ust. 1 pkt 3, wydaje lekarz orzecznik Zakładu Ubezpieczeń Społecznych na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+- **4)** (uchylony) <1a. Orzeczenie o trwałej utracie zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, o której mowa w ust. 1 pkt 3, wydaje lekarz orzecznik Zakładu Ubezpieczeń Społecznych na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.>
 
 2. Okres wypowiedzenia stosunku pracy wynosi 3 miesiące i kończy się ostatniego dnia miesiąca.
 
@@ -486,7 +531,7 @@ o kuratorach sądowych
 - **4)** kontroluje wykonywanie obowiązków nadzorczych przez prezesów sądów okręgowych działających na obszarze apelacji;
 - **5)** wydaje zarządzenia nadzorcze.
 
-5. Czynnościami z zakresu nadzoru, o którym mowa w ust. 3, są ponadto:
+5. Czynnościami z zakresu nadzoru, o którym mowa w ust. 1 i 3, są ponadto:
 
 - **1)** wizytacja, obejmująca pełną działalność kuratora okręgowego lub zespołu kuratorskiej służby sądowej;
 - **2)** lustracja, obejmująca wybrane zagadnienia z działalności kuratora okręgowego lub zespołu kuratorskiej służby sądowej.
@@ -1123,7 +1168,7 @@ o kuratorach sądowych
 
 1. Aplikacja kuratorska ma na celu:
 
-- **1)** zapoznanie z organizacją i działalnością sądu, zakładów dla nieletnich, placówek opiekuńczo-wychowawczych i leczniczo-terapeutycznych oraz zakładów penitencjarnych;
+- **1)** zapoznanie z organizacją i działalnością sądu, zakładów dla nieletnich, placówek opiekuńczo-wychowawczych i leczniczo--terapeutycznych oraz zakładów penitencjarnych;
 - **2)** teoretyczne i praktyczne przygotowanie do wykonywania zawodu kuratora sądowego;
 - **3)** sprawdzenie przydatności do wykonywania zawodu kuratora sądowego.
 
@@ -1164,7 +1209,7 @@ o kuratorach sądowych
 1. Komisja egzaminacyjna składa się z:
 
 - **1)** przewodniczącego, którym jest Rektor-Komendant uczelni albo osoba przez niego wyznaczona z grona nauczycieli akademickich uczelni posiadająca co najmniej stopień doktora;
-- **2)** czterech członków, w tym co najmniej jednego przedstawiciela Ministra Sprawiedliwości oraz co najmniej jednego przedstawiciela Krajowej Rady Kuratorów.
+- **2)** czterech członków, w tym co najmniej jednego przedstawiciela Ministra Sprawiedliwości oraz co najmniej jednego przedstawiciela Krajowej Rady Kuratorów będącego delegatem do tej rady.
 
 2. Przewodniczący zawiadamia Ministra Sprawiedliwości oraz Przewodniczącego Krajowej Rady Kuratorów o konieczności wskazania przedstawicieli, o których mowa w ust. 1 pkt 2.
 
@@ -1172,11 +1217,13 @@ o kuratorach sądowych
 
 4. O składzie komisji egzaminacyjnej oraz terminie i miejscu egzaminu przewodniczący zawiadamia Ministra Sprawiedliwości, Przewodniczącego Krajowej Rady Kuratorów, członków komisji oraz, za pośrednictwem prezesów sądów okręgowych, podlegających egzaminowi aplikantów co najmniej na miesiąc przed wyznaczonym terminem egzaminu kuratorskiego.
 
+5. Członkowi komisji egzaminacyjnej przysługuje w związku z udziałem w pracach tej komisji zwrot kosztów podróży i noclegów na zasadach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
+
 **Art. 80.**
 
-1. Egzamin kuratorski przeprowadza się 4 razy w roku w terminach wyznaczonych przez Ministra Sprawiedliwości po zasięgnięciu opinii Rektora-Komendanta uczelni.
+1. Egzamin kuratorski przeprowadza się 4 razy w roku w terminach wyznaczonych przez Ministra Sprawiedliwości po zasięgnięciu opinii RektoraKomendanta uczelni.
 
-1a. Aplikant przystępuje do egzaminu kuratorskiego w pierwszym możliwym terminie po odbyciu aplikacji kuratorskiej.
+1a. Aplikant przystępuje do egzaminu kuratorskiego w pierwszym możliwym terminie po odbyciu aplikacji kuratorskiej albo uzyskaniu zwolnienia z pozostałej do odbycia części aplikacji kuratorskiej.
 
 1b. Prezes sądu okręgowego informuje Rektora-Komendanta uczelni o odbyciu przez aplikanta aplikacji kuratorskiej w terminie 7 dni od dnia jej ukończenia.
 
@@ -1339,8 +1386,6 @@ o kuratorach sądowych
 1. Stażyści kuratorscy z dniem wejścia w życie ustawy stają się aplikantami kuratorskimi.
 
 2. Stażysta kuratorski przyjęty na staż przed dniem wejścia w życie ustawy nieposiadający wykształcenia, o którym mowa w art. 5 ust. 1 pkt 4, lub posiadający wykształcenie średnie może być mianowany kuratorem zawodowym.
-
-**Art. 104.** Minister Sprawiedliwości określi, w drodze zarządzenia, wzory legitymacji kuratora zawodowego, aplikanta kuratorskiego oraz legitymacji kuratora społecznego.
 
 **Art. 105.** W sprawach nieuregulowanych w ustawie do kuratorów zawodowych oraz aplikantów kuratorskich stosuje się przepisy Kodeksu pracy.
 

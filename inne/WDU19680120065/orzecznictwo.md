@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 9 kwietnia 1968 r. o dokonywaniu w księgach wieczystych wpisów na rzecz Skarbu Państwa w oparciu o międzynarodowe umowy o uregulowaniu roszczeń finansowych.*
 
-Łącznie: **27** orzeczeń
+Łącznie: **28** orzeczeń
 (pominięto 3 orzeczeń sądów rejonowych)
 
 ## art. 1 (12)
@@ -20,7 +20,7 @@ Orzeczenia powołujące: *Ustawa z dnia 9 kwietnia 1968 r. o dokonywaniu w księ
 - 2017-02-15 | SO | [I ACa 484/16](https://www.saos.org.pl/judgments/277246) | Wyrok
 - 2022-06-02 | SO | [III Ca 928/21](https://www.saos.org.pl/judgments/480165) | Uzasadnienie
 
-## art. 2 (18)
+## art. 2 (19)
 
 - 2015-05-20 | TK | [Ts 111/14](https://www.saos.org.pl/judgments/206898) | Postanowienie ★
 - 2014-11-03 | TK | [Ts 111/14](https://www.saos.org.pl/judgments/206553) | Postanowienie ★
@@ -35,6 +35,7 @@ Orzeczenia powołujące: *Ustawa z dnia 9 kwietnia 1968 r. o dokonywaniu w księ
 - 2010-03-12 | SN | [III CSK 199/09](https://www.saos.org.pl/judgments/92029) | Postanowienie
 - 2007-12-12 | SN | [V CSK 295/07](https://www.saos.org.pl/judgments/165007) | Postanowienie
 - 2017-02-15 | SO | [I ACa 484/16](https://www.saos.org.pl/judgments/277246) | Wyrok
+- 2025-07-24 | SO | [I ACa 3838/24](https://www.saos.org.pl/judgments/547168) | Postanowienie
 - 2024-01-16 | SO | [II Ca 2270/23](https://www.saos.org.pl/judgments/533584) | Postanowienie
 - 2022-06-02 | SO | [III Ca 928/21](https://www.saos.org.pl/judgments/480165) | Uzasadnienie
 - 2020-06-18 | SO | [III Ca 1879/19](https://www.saos.org.pl/judgments/431679) | Uzasadnienie

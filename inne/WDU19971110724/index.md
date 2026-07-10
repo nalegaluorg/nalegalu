@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-21 |
 | Data wydania | 1997-09-23 |
-| Ostatnia zmiana | 2026-06-10 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971110724) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/724/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -76,7 +76,8 @@ source: pdf
 - **22)** (uchylony)
 - **23)** (uchylony)
 - **24)** „kurczętach brojlerach” – rozumie się przez to ptaki z gatunku Gallus gallus utrzymywane w celu pozyskania mięsa;
-- **25)** „schronisku dla zwierząt” – rozumie się przez to zakład w rozumieniu art. 4 pkt 27 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/429 z dnia 9 marca 2016 r. w sprawie przenośnych chorób zwierząt oraz zmieniającego i uchylającego niektóre akty w dziedzinie zdrowia zwierząt („Prawo o zdrowiu zwierząt”) (Dz. Urz. UE L 84 z 31.03.2016, str. 1, z późn. zm. ), w którym są utrzymywane zwierzęta bezdomne inne niż zwierzęta gospodarskie.
+- **25)** „schronisku dla zwierząt” – rozumie się przez to zakład w rozumieniu art. 4 pkt 27 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/429 z dnia 9 marca 2016 r. w sprawie przenośnych chorób zwierząt oraz zmieniającego i uchylającego niektóre akty w dziedzinie zdrowia zwierząt („Prawo o zdrowiu zwierząt”) (Dz. Urz. UE L 84 z 31.03.2016, str. 1, z późn. zm. ), w którym są utrzymywane zwierzęta bezdomne inne niż [zwierzęta gospodarskie.]<zwierzęta gospodarskie, z wyłączeniem domu tymczasowego;>
+- **26)** „domu tymczasowym” – rozumie się przez to gospodarstwo domowe, w którym zwierzę bezdomne zostało umieszczone przez podmiot prowadzący schronisko dla zwierząt albo przez organizację społeczną, której statutowym celem działania jest ochrona zwierząt, w celu zapewnienia temu zwierzęciu opieki.
 
 **Art. 5.** Każde zwierzę wymaga humanitarnego traktowania.
 
@@ -121,6 +122,12 @@ source: pdf
 - **17)** wystawianie zwierzęcia domowego lub gospodarskiego na działanie warunków atmosferycznych, które zagrażają jego zdrowiu lub życiu;
 - **18)** transport żywych ryb lub ich przetrzymywanie w celu sprzedaży bez dostatecznej ilości wody umożliwiającej oddychanie;
 - **19)** utrzymywanie zwierzęcia bez odpowiedniego pokarmu lub wody przez okres wykraczający poza minimalne potrzeby właściwe dla gatunku.
+
+3. Znęcaniem się nad zwierzętami, o którym mowa w ust. 2, nie jest płoszenie zwierząt:
+
+- **1)** łownych z terenów zurbanizowanych, jeżeli jest uzasadnione potrzebą zapewnienia bezpieczeństwa publicznego lub ochrony mienia,
+- **2)** łownych z terenów upraw rolnych oraz obrębów hodowlanych, jeżeli ma na celu zapobieganie szkodom,
+- **3)** łownych oraz zwierząt objętych ochroną gatunkową na podstawie zezwoleń, o których mowa w art. 56 ust. 1, 2 lub 2b ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub na podstawie art. 9a ust. 1 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2025 r. poz. 539 i 1795) – przy czym płoszenie, o którym mowa w pkt 1 i 2, nie wymaga uzyskania zezwoleń wskazanych w pkt 3.
 
 **Art. 7.**
 
@@ -168,7 +175,7 @@ source: pdf
 
 2. Zabrania się trzymania zwierząt domowych na uwięzi w sposób stały dłużej niż 12 godzin w ciągu doby lub powodujący u nich uszkodzenie ciała lub cierpienie oraz niezapewniający możliwości niezbędnego ruchu. Długość uwięzi nie może być krótsza niż 3 m.
 
-**Art. 9a.** Osoba, która napotka porzuconego psa lub kota, w szczególności pozostawionego na uwięzi, ma obowiązek powiadomić o tym najbliższe schronisko dla zwierząt, straż gminną lub Policję.
+**Art. 9a.** <1.> Osoba, która napotka porzuconego psa lub kota, w szczególności pozostawionego na uwięzi, ma obowiązek powiadomić o tym najbliższe schronisko dla zwierząt, straż gminną lub Policję. <2. Jeżeli pies lub kot, o którym mowa w ust. 1, pies lub kot odłowiony na podstawie uchwały rady gminy, o której mowa w art. 11a, lub pies dostarczony do schroniska dla zwierząt zgodnie z art. 33a ust. 3 pkt 2, został zarejestrowany zgodnie z przepisami ustawy z dnia 15 maja 2026 r. o Krajowym Rejestrze Oznakowanych Psów i Kotów (Dz. U. poz. 755), podmiot prowadzący schronisko dla zwierząt albo organizacja, o której mowa w art. 11 ust. 4, zapewniająca opiekę bezdomnym zwierzętom w domu tymczasowym wzywa właściciela tego psa lub kota do jego odebrania w terminie 14 dni od dnia doręczenia wezwania. Wezwanie doręcza się na piśmie utrwalonym w postaci papierowej albo elektronicznej. W przypadku odmowy odebrania psa lub kota lub bezskutecznego upływu terminu, o którym mowa w zadaniu pierwszym, podmiot prowadzący schronisko dla zwierząt albo organizacja, o której mowa w art. 11 ust. 4, zapewniająca opiekę bezdomnym zwierzętom w domu tymczasowym zawiadamia Policję o możliwości popełnienia przestępstwa, o którym mowa w art. 35 ust. 1a.
 
 **Art. 10.**
 
@@ -217,9 +224,10 @@ source: pdf
 
 2. Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, zasady i warunki wyłapywania bezdomnych zwierząt.
 
-3. Zabrania się odławiania zwierząt bezdomnych bez zapewnienia im miejsca w schronisku dla zwierząt, chyba że zwierzę stwarza poważne zagrożenie dla ludzi lub innych zwierząt. Odławianie bezdomnych zwierząt odbywa się wyłącznie na podstawie uchwały rady gminy, o której mowa w art. 11a.
+3. Zabrania się odławiania zwierząt bezdomnych bez zapewnienia im miejsca w schronisku dla zwierząt <lub w domu tymczasowym>, chyba że zwierzę stwarza poważne zagrożenie dla ludzi lub innych zwierząt. Odławianie bezdomnych zwierząt odbywa się wyłącznie na podstawie uchwały rady gminy, o której mowa w art. 11a. [4. Organizacje społeczne, których statutowym celem działania jest ochrona zwierząt, mogą zapewniać bezdomnym zwierzętom opiekę i w tym celu prowadzić schroniska dla zwierząt, w porozumieniu z właściwymi organami samorządu terytorialnego.] <4. Organizacje społeczne, których statutowym celem działania jest ochrona zwierząt, w porozumieniu z właściwymi organami samorządu terytorialnego, mogą zapewniać bezdomnym zwierzętom opiekę i w tym celu:
 
-4. Organizacje społeczne, których statutowym celem działania jest ochrona zwierząt, mogą zapewniać bezdomnym zwierzętom opiekę i w tym celu prowadzić schroniska dla zwierząt, w porozumieniu z właściwymi organami samorządu terytorialnego.
+- **1)** prowadzić schroniska dla zwierząt;
+- **2)** umieszczać te zwierzęta w domach tymczasowych.> <5. Gmina może refundować część albo całość kosztów oznakowania i rejestracji psów i kotów zgodnie z przepisami ustawy z dnia 15 maja 2026 r. o Krajowym Rejestrze Oznakowanych Psów i Kotów, poniesionych przez ich właścicieli, podmioty prowadzące schroniska dla zwierząt lub organizacje, o których mowa w ust. 4, zapewniające opiekę bezdomnym zwierzętom w domu tymczasowym, stosownie do posiadanych środków finansowych.
 
 **Art. 11a.**
 
@@ -227,7 +235,7 @@ source: pdf
 
 2. Program, o którym mowa w ust. 1, obejmuje w szczególności:
 
-- **1)** zapewnienie bezdomnym zwierzętom miejsca w schronisku dla zwierząt;
+- **1)** zapewnienie bezdomnym zwierzętom miejsca w schronisku dla zwierząt <lub w domu tymczasowym>;
 - **2)** opiekę nad wolno żyjącymi kotami, w tym ich dokarmianie;
 - **3)** odławianie bezdomnych zwierząt;
 - **4)** obligatoryjną sterylizację albo kastrację zwierząt w schroniskach dla zwierząt;
@@ -236,11 +244,11 @@ source: pdf
 - **7)** wskazanie gospodarstwa rolnego w celu zapewnienia miejsca dla zwierząt gospodarskich;
 - **8)** zapewnienie całodobowej opieki weterynaryjnej w przypadkach zdarzeń drogowych z udziałem zwierząt.
 
-3. Program, o którym mowa w ust. 1, może obejmować plan znakowania zwierząt w gminie.
+3. Program, o którym mowa w ust. 1, może [obejmować plan znakowania zwierząt w gminie] <przewidywać refundację kosztów oznakowania i rejestracji psów lub kotów zgodnie z przepisami ustawy z dnia 15 maja 2026 r. o Krajowym Rejestrze Oznakowanych Psów i Kotów i określać jej tryb i warunki>.
 
 3a. Program, o którym mowa w ust. 1, może obejmować plan sterylizacji lub kastracji zwierząt w gminie, przy pełnym poszanowaniu praw właścicieli zwierząt lub innych osób, pod których opieką zwierzęta pozostają.
 
-4. Realizacja zadań, o których mowa w ust. 2 pkt 3–6, może zostać powierzona podmiotowi prowadzącemu schronisko dla zwierząt.
+4. Realizacja zadań, o których mowa w ust. 2 pkt 3–6, może zostać powierzona podmiotowi prowadzącemu schronisko dla zwierząt <lub organizacji, o której mowa w art. 11 ust. 4, zapewniającej opiekę bezdomnym zwierzętom w domu tymczasowym>.
 
 5. Program, o którym mowa w ust. 1, zawiera wskazanie wysokości środków finansowych przeznaczonych na jego realizację oraz sposób wydatkowania tych środków. Koszty realizacji programu ponosi gmina.
 
@@ -254,25 +262,18 @@ source: pdf
 
 8. Podmioty, o których mowa w ust. 7, w terminie 21 dni od dnia otrzymania projektu programu, o którym mowa w ust. 1, wydają opinie o projekcie. Niewydanie opinii w tym terminie uznaje się za akceptację przesłanego programu.
 
-**Art. 11b.**
+**Art. 11b.** [1. Podmiot prowadzący schronisko dla zwierząt jest obowiązany do zapewnienia utrzymywanym w nim zwierzętom opieki, w tym opieki weterynaryjnej, i właściwych warunków bytowania.] <1. Podmiot prowadzący schronisko dla zwierząt i organizacja, o której mowa w art. 11 ust. 4, zapewniająca opiekę bezdomnym zwierzętom w domu tymczasowym są obowiązane do zapewnienia zwierzętom utrzymywanym odpowiednio w schronisku dla zwierząt albo w domu tymczasowym, opieki, w tym opieki weterynaryjnej, i właściwych warunków bytowania.> 2. Zwierzętom utrzymywanym w schronisku dla zwierząt <i w domu tymczasowym> w pomieszczeniach, kojcach lub klatkach zapewnia się możliwość swobodnego poruszania się, ochronę przed niekorzystnymi warunkami atmosferycznymi i stały dostęp do wody. <2a. Podmiot prowadzący schronisko dla zwierząt może zapewnić opiekę, o której mowa w ust. 1, także przez umieszczenie zwierzęcia wprowadzonego do tego schroniska w domu tymczasowym.> 3. [Podmiot prowadzący schronisko dla zwierząt jest obowiązany do:] <Podmiot prowadzący schronisko dla zwierząt i organizacja, o której mowa w art. 11 ust. 4, zapewniająca opiekę bezdomnym zwierzętom w domu tymczasowym są obowiązane do:> [1) oznakowania utrzymywanych w nim psów i kotów;] [2) prowadzenia dokumentacji dotyczącej utrzymywanych w nim zwierząt zawierającej:
 
-1. Podmiot prowadzący schronisko dla zwierząt jest obowiązany do zapewnienia utrzymywanym w nim zwierzętom opieki, w tym opieki weterynaryjnej, i właściwych warunków bytowania.
+b) inne informacje związane z utrzymywaniem zwierzęcia w schronisku dla zwierząt niebędące danymi osobowymi.]
 
-2. Zwierzętom utrzymywanym w schronisku dla zwierząt w pomieszczeniach, kojcach lub klatkach zapewnia się możliwość swobodnego poruszania się, ochronę przed niekorzystnymi warunkami atmosferycznymi i stały dostęp do wody.
-
-3. Podmiot prowadzący schronisko dla zwierząt jest obowiązany do:
-
-- **1)** oznakowania utrzymywanych w nim psów i kotów;
-- **2)** prowadzenia dokumentacji dotyczącej utrzymywanych w nim zwierząt zawierającej:
-    - **a)** imię, nazwisko, miejsce zamieszkania i adres osoby, która nabyła zwierzę od podmiotu prowadzącego schronisko dla zwierząt, albo nazwę, siedzibę i adres podmiotu, który nabył zwierzę od podmiotu prowadzącego schronisko dla zwierząt,
-    - **b)** inne informacje związane z utrzymywaniem zwierzęcia w schronisku dla zwierząt niebędące danymi osobowymi.
+- **a)** imię, nazwisko, miejsce zamieszkania i adres osoby, która nabyła zwierzę od podmiotu prowadzącego schronisko dla zwierząt, albo nazwę, siedzibę i adres podmiotu, który nabył zwierzę od podmiotu prowadzącego schronisko dla zwierząt,
+- **2)** prowadzenia dokumentacji dotyczącej zwierząt utrzymywanych odpowiednio w schronisku dla zwierząt lub w domu tymczasowym zawierającej: a) adres domu tymczasowego, w którym umieszczono określone zwierzęta, oraz imię i nazwisko osoby, która prowadzi ten dom tymczasowy, b) imię, nazwisko, miejsce zamieszkania i adres osoby, która nabyła zwierzę od podmiotu prowadzącego schronisko dla zwierząt albo od organizacji, o której mowa w art. 11 ust. 4, zapewniającej opiekę bezdomnym zwierzętom w domu tymczasowym albo nazwę, siedzibę i adres podmiotu, który nabył zwierzę od podmiotu prowadzącego schronisko dla zwierząt albo od organizacji, o której mowa w art. 11 ust. 4, zapewniającej opiekę bezdomnym zwierzętom w domu tymczasowym, c) inne informacje związane z utrzymywaniem zwierzęcia w schronisku dla zwierząt lub w domu tymczasowym niebędące danymi osobowymi.
 
 4. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
 
-- **1)** minimalne warunki utrzymywania psów i kotów w schronisku dla zwierząt, w tym minimalne warunki dotyczące lokalizacji schroniska dla zwierząt,
-- **2)** zakres opieki sprawowanej nad psami i kotami utrzymywanymi w schronisku dla zwierząt, wymagania dotyczące osoby sprawującej tę opiekę, sposób dokumentowania tej opieki oraz wymagania dotyczące osoby, która odpowiada za przestrzeganie przepisów dotyczących minimalnych warunków utrzymywania psów i kotów w schronisku dla zwierząt oraz przepisów o ochronie zwierząt,
-- **3)** sposób i termin oznakowania psów i kotów utrzymywanych w schronisku dla zwierząt,
-- **4)** szczegółowy zakres informacji niebędących danymi osobowymi, jakie są zawarte w dokumentacji dotyczącej zwierząt utrzymywanych w schronisku dla zwierząt, sposób prowadzenia lub udostępniania tej dokumentacji oraz okres jej przechowywania – mając na względzie liczbę zwierząt utrzymywanych w schronisku dla zwierząt, zapewnienie tym zwierzętom opieki i właściwych warunków bytowania, w tym potrzebę ograniczenia negatywnego wpływu lokalizacji schroniska dla zwierząt na stan fizyczny i psychiczny utrzymywanych zwierząt, w którym najlepiej znoszą warunki bytowania narzucone przez człowieka, zapewnienie kontroli stanu zdrowia tych zwierząt i profilaktyki chorób, możliwości identyfikacji tych zwierząt i ograniczenia ich rozmnażania się oraz umożliwienie organom Inspekcji Weterynaryjnej sprawowania nadzoru nad schroniskami dla zwierząt.
+- **1)** minimalne warunki utrzymywania psów i kotów w schronisku dla zwierząt <i w domu tymczasowym>, w tym minimalne warunki dotyczące lokalizacji schroniska dla zwierząt,
+- **2)** zakres opieki sprawowanej nad psami i kotami utrzymywanymi w schronisku dla zwierząt <i w domu tymczasowym>, wymagania dotyczące osoby sprawującej tę opiekę, sposób dokumentowania tej opieki oraz wymagania dotyczące osoby, która odpowiada za przestrzeganie przepisów dotyczących minimalnych warunków utrzymywania psów i kotów w schronisku dla zwierząt oraz przepisów o ochronie zwierząt, [3) sposób i termin oznakowania psów i kotów utrzymywanych w schronisku dla zwierząt,]
+- **4)** szczegółowy zakres informacji niebędących danymi osobowymi, jakie są zawarte w dokumentacji dotyczącej zwierząt utrzymywanych w schronisku dla zwierząt <i w domu tymczasowym>, sposób prowadzenia lub udostępniania tej dokumentacji oraz okres jej przechowywania [– mając na względzie liczbę zwierząt utrzymywanych w schronisku dla zwierząt, zapewnienie tym zwierzętom opieki i właściwych warunków bytowania, w tym potrzebę ograniczenia negatywnego wpływu lokalizacji schroniska dla zwierząt na stan fizyczny i psychiczny utrzymywanych zwierząt, w którym najlepiej znoszą warunki bytowania narzucone przez człowieka, zapewnienie kontroli stanu zdrowia tych zwierząt i profilaktyki chorób, możliwości identyfikacji tych zwierząt i ograniczenia ich rozmnażania się oraz umożliwienie organom Inspekcji Weterynaryjnej sprawowania nadzoru nad schroniskami dla zwierząt.] <– mając na względzie liczbę zwierząt utrzymywanych w schronisku dla zwierząt i w domu tymczasowym, zapewnienie tym zwierzętom opieki i właściwych warunków bytowania, w tym potrzebę ograniczenia negatywnego wpływu lokalizacji schroniska dla zwierząt na stan fizyczny i psychiczny utrzymywanych zwierząt, w którym najlepiej znoszą warunki bytowania narzucone przez człowieka, zapewnienie kontroli stanu zdrowia tych zwierząt i profilaktyki chorób, możliwości identyfikacji tych zwierząt i ograniczenia ich rozmnażania się, a także potrzebę uwzględnienia specyfiki zapewniania opieki zwierzętom w domach tymczasowych oraz umożliwienie organom Inspekcji Weterynaryjnej sprawowania nadzoru nad schroniskami dla zwierząt i kontroli warunków utrzymywania zwierząt w domach tymczasowych.>
 
 **Art. 11c.**
 

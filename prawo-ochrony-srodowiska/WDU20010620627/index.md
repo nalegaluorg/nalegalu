@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2001-04-27 |
 | Data wydania | 2001-06-20 |
-| Ostatnia zmiana | 2026-06-01 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010620627) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/627/text.pdf) |
 
 ## TYTUŁ I Przepisy ogólne

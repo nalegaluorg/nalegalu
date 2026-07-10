@@ -30,8 +30,7 @@ Sygn. akt P 2/08 W imieniu Rzeczypospolitej Polskiej Trybunał Konstytucyjny w s
 Nr 124, poz. 607, ze zm.);
 2) Sądu Okręgowego w Szczecinie, czy art. 81 ust. 5 ustawy powołanej w punkcie 1 w zakresie, w jakim w razie spełnienia przez PKP SA przesłanek z ust. 2 i 3 tego przepisu pozbawia gminę możliwości odmowy zawarcia umowy, o jakiej mowa w art. 81 ust. 4 powołanej ustawy, jest zgodny z art.
 2 i art. 165 Konstytucji, o r z e k a:
-Art. 81 ust. 5 ustawy z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252, z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539, z 2006 r. Nr 12, poz. 63 i Nr 157, poz. 1119 oraz z 2008 r. Nr 97, poz.
-624):
+Art. 81 ust. 5 ustawy z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252, z 2005 r. Nr 157, poz. 1315 i Nr 184, poz. 1539, z 2006 r. Nr 12, poz. 63 i Nr 157, poz. 1119 oraz z 2008 r. Nr 97, poz. 624):
 a) jest niezgodny z art. 2 i art. 165 Konstytucji Rzeczypospolitej Polskiej,
 b) jest niezgodny z art. 4 ust. 2 i 6 Europejskiej Karty Samorządu Lokalnego, sporządzonej w Strasburgu dnia 15 października 1985 r. (Dz. U. z 1994 r. Nr 124, poz.
 607 oraz z 2006 r. Nr 154, poz. 1107).

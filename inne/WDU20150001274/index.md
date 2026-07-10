@@ -242,9 +242,7 @@ source: pdf
 
 3. Konsul może sporządzić akt notarialny po uzyskaniu od Ministra Sprawiedliwości upoważnienia na piśmie, udzielonego mu na wniosek ministra właściwego do spraw zagranicznych.
 
-**Art. 29.** Do czynności, o których mowa w art. 28, stosuje się odpowiednio przepisy ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2026 r. poz.
-
-- **614)** . Mają one taką samą moc prawną jak czynności wykonane przez notariusza w Rzeczypospolitej Polskiej.
+**Art. 29.** Do czynności, o których mowa w art. 28, stosuje się odpowiednio przepisy ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2026 r. poz. 614). Mają one taką samą moc prawną jak czynności wykonane przez notariusza w Rzeczypospolitej Polskiej.
 
 **Art. 30.** Konsul nie sporządza aktu poświadczenia dziedziczenia, nie przyjmuje wykazu inwentarza, nie dokonuje czynności dotyczących europejskich poświadczeń spadkowych oraz nie sporządza elektronicznych wypisów i wyciągów z aktów notarialnych.
 
@@ -998,9 +996,7 @@ source: pdf
 - **4)** w związku z wystąpieniem zdarzeń mogących powodować zagrożenie dla życia lub bezpieczeństwa obywateli polskich przebywających w okręgu konsularnym;
 - **5)** w związku z dochodzeniem roszczeń alimentacyjnych lub roszczeń z tytułu opieki nad małoletnimi lub ubezwłasnowolnionymi całkowicie obywatelami polskimi;
 - **6)** na podstawie:
-    - **a)** ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz.
-
-- **102)** , a także w sprawach odszkodowań i zadośćuczynienia za zbrodnie nazistowskie, komunistyczne i inne przestępstwa stanowiące zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne, jak również za inne represje z motywów politycznych,
+    - **a)** ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), a także w sprawach odszkodowań i zadośćuczynienia za zbrodnie nazistowskie, komunistyczne i inne przestępstwa stanowiące zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne, jak również za inne represje z motywów politycznych,
     - **b)** ustawy z dnia 9 listopada 2000 r. o repatriacji,
     - **c)** ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2024 r. poz. 380).
 

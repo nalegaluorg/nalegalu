@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2000-05-24 |
 | Data wydania | 2000-06-21 |
-| Ostatnia zmiana | 2026-06-11 |
+| Ostatnia zmiana | 2026-06-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000500580) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/580/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -230,7 +230,7 @@ source: pdf
 - **6c)** informację o przejęciu do wykonania kary orzeczonej przez właściwy organ sądowy państwa członkowskiego Unii Europejskiej, w tym oznaczenie organu, który wydał orzeczenie, państwa wydania orzeczenia, sygnaturę akt sprawy oraz datę wydania orzeczenia;
 - **7)** nazwisko, imię, stanowisko oraz podpis osoby sporządzającej.
 
-1a. W karcie rejestracyjnej dotyczącej osoby, o której mowa w art. 1 ust. 2 pkt 1–3, 5 i 6, w przypadku gdy orzeczenie wydał sąd karny, będącej obywatelem państwa trzeciego lub obywatelem państwa członkowskiego Unii Europejskiej, która posiada także co najmniej jedno obywatelstwo państwa trzeciego, zamieszcza się numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 421), albo informację o niemożności jego ustalenia.
+1a. W karcie rejestracyjnej dotyczącej osoby, o której mowa w art. 1 ust. 2 pkt 1–3, 5 i 6, w przypadku gdy orzeczenie wydał sąd karny, będącej obywatelem państwa trzeciego lub obywatelem państwa członkowskiego Unii Europejskiej, która posiada także co najmniej jedno obywatelstwo państwa trzeciego, zamieszcza się numer rejestracyjny zbioru automatycznie przetwarzającego dane biometryczne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, z późn. zm. ), albo informację o niemożności jego ustalenia.
 
 1b. W karcie rejestracyjnej dotyczącej podmiotu zbiorowego umieszcza się:
 
@@ -325,11 +325,11 @@ source: pdf
 
 1. Biuro informacyjne przetwarza dane o odciskach linii papilarnych osób, o których mowa w art. 2 rozporządzenia 2019/816, w zakresie niezbędnym do realizacji zadań związanych z udziałem Rzeczypospolitej Polskiej w systemie ECRIS-TCN.
 
-2. Dane, o których mowa w ust. 1, biuro informacyjne pozyskuje ze zbioru danych daktyloskopijnych, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji.
+2. Dane, o których mowa w ust. 1, biuro informacyjne pozyskuje ze zbioru danych biometrycznych, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji.
 
 3. Dane, o których mowa w ust. 1, nie podlegają gromadzeniu w Rejestrze.
 
-4. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, tryb i sposób pozyskiwania danych o odciskach linii papilarnych ze zbioru danych daktyloskopijnych, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, mając na względzie szybkość pozyskiwania danych i konieczność zapewnienia bezpieczeństwa ich pozyskiwania.
+4. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, tryb i sposób pozyskiwania danych o odciskach linii papilarnych ze zbioru danych biometrycznych, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, mając na względzie szybkość pozyskiwania danych i konieczność zapewnienia bezpieczeństwa ich pozyskiwania.
 
 **Art. 13.** W Rejestrze prowadzi się wyodrębnione kartoteki:
 

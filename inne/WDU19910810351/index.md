@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1991-08-24 |
 | Data wydania | 1991-09-11 |
-| Ostatnia zmiana | 2026-04-22 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910810351) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/351/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -704,7 +704,7 @@ source: pdf
 - **6)** wykaz ekspertów do spraw prognozowania zagrożeń oraz specjalistów do spraw ratownictwa zawierający imiona, nazwiska, informacje o ich dziedzinach oraz numery telefonów służbowych;
 - **7)** arkusze uzgodnień i aktualizacji planu ratowniczego.
 
-3. Plany ratownicze w zakresie zdarzeń z dużą liczbą poszkodowanych oraz działań ratowniczych i działań pomocowych podczas katastrof, klęsk żywiołowych i zdarzeń nadzwyczajnych są skorelowane z planami zarządzania kryzysowego, o których mowa w art. 5 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, oraz z planami postępowania awaryjnego, o których mowa w art. 84 ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277, 1897 i 1907).
+3. Plany ratownicze w zakresie zdarzeń z dużą liczbą poszkodowanych oraz działań ratowniczych i działań pomocowych podczas katastrof, klęsk żywiołowych i zdarzeń nadzwyczajnych są skorelowane z planami reagowania kryzysowego, o których mowa w art. 6j ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, oraz z planami postępowania awaryjnego, o których mowa w art. 84 ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2026 r. poz. 1).
 
 **Art. 14g.**
 

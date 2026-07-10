@@ -26,8 +26,7 @@ source: pdf
 
 Sygn. akt U. 11/97 Trybunał Konstytucyjny w składzie: Janusz Trzciński – przewodniczący Wojciech Sokolewicz Andrzej Zoll – sprawozdawca Joanna Szymczak – Protokolant po rozpoznaniu 27 listopada 1997 r. na rozprawie sprawy z wniosku Rzecznika Praw Obywatelskich z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Ministra Pracy i Polityki Socjalnej i Prokuratora Generalnego o zbadanie zgodności:
 a) § 2 i § 3 rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 5 maja 1997 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zawieszania lub zmniejszania emerytury i renty (Dz.U. Nr 47 poz.
-310) z art. 2 i 7 Konstytucji z dnia 2 kwietnia 1997 r. (Dz.U. Nr 78, poz.
-483),
+310) z art. 2 i 7 Konstytucji z dnia 2 kwietnia 1997 r. (Dz.U. Nr 78, poz. 483),
 b) § 1 ust. 1 lit.b rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 5 maja 1997 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad zawieszania lub zmniejszania emerytury i renty (Dz.U. Nr 47 poz.
 310) z art. 2, 7 i 31 ust. 3 Konstytucji z dnia 2 kwietnia 1997 r. (Dz.U. Nr 78, poz. 483) oraz art. 24 ustawy z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz.U. Nr 104, poz. 450; zm.: z 1992 r. Nr 21 poz. 84; z 1993 r. Nr 127, poz. 583, Nr 129, poz. 602; z 1994 r. Nr 84, poz.
 385; z 1995 r. Nr 4 poz. 17, Nr 95, poz. 473, Nr 138, poz. 681; z 1996 r.

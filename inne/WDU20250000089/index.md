@@ -183,20 +183,17 @@ source: pdf
 1. Przepisów niniejszego rozdziału oraz przepisów rozdziału 6 nie stosuje się do świadczenia usług, o których mowa w:
 
 - **1)** ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2024 r. poz. 1262);
-- **2)** ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz.
-- **1001)** ;
+- **2)** ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001);
 - **3)** ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722 oraz z 2024 r. poz. 96 i 1222);
 - **4)** ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r. poz. 1287 i 1897), z wyłączeniem świadczenia usług w zakresie kształcenia podyplomowego;
 - **5)** ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796);
 - **6)** art. 75a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251);
 - **7)** ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995 oraz z 2024 r. poz. 1907);
 - **8)** ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2017 r. poz. 1277, 1343, 1452 i 1910) ;
-- **9)** ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2025 r. poz.
-- **18)** ;
+- **9)** ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2025 r. poz. 18);
 - **10)** art. 7 ust. 1 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743);
 - **11)** art. 5 ust. 1 i art. 5b ust. 1 i 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539, 1544 i 1855);
-- **12)** ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz.
-- **686)** ;
+- **12)** ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz. 686);
 - **13)** ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2023 r. poz. 1309);
 - **14)** ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z 2024 r. poz. 731 i 1222 oraz z 2025 r. poz. 31), z wyłączeniem świadczenia usług polegających na szkoleniu personelu lotniczego w celu uzyskania licencji członka personelu lotniczego oraz usług innych niż przewóz lotniczy;
 - **15)** ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731);

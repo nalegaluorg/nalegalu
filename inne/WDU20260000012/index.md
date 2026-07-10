@@ -131,8 +131,7 @@ i) wypowiadanie umów reasekuracji;
 - **17)** rejestr agentów ‒ rejestr agentów ubezpieczeniowych i agentów oferujących ubezpieczenia uzupełniające;
 - **18)** rejestr brokerów ‒ rejestr brokerów ubezpieczeniowych i brokerów reasekuracyjnych;
 - **18a)** rozporządzenie 2023/2859 – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2023/2859 z dnia 13 grudnia 2023 r. w sprawie ustanowienia europejskiego pojedynczego punktu dostępu zapewniającego scentralizowany dostęp do publicznie dostępnych informacji mających znaczenie dla usług finansowych, rynków kapitałowych i zrównoważonego rozwoju (Dz. Urz. UE L 2023/2859 z 20.12.2023, z późn. zm. );
-- **19)** trwały nośnik – trwały nośnik w rozumieniu art. 2 pkt 4 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz.
-- **1172)** ;
+- **19)** trwały nośnik – trwały nośnik w rozumieniu art. 2 pkt 4 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz. 1172);
 - **20)** właściwy organ państwa członkowskiego Unii Europejskiej – organ właściwy w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej do sprawowania nadzoru nad dystrybucją ubezpieczeń lub organ prowadzący w tym państwie odpowiedni rejestr pośredników;
 - **21)** wskaźnik kosztów dystrybucji ‒ wyrażony procentowo z dokładnością do dwóch miejsc po przecinku iloraz przyjętych przy tworzeniu produktu kosztów akwizycji, o których mowa w przepisach o rachunkowości zakładów ubezpieczeń, dla danej umowy ubezpieczenia oraz sumy należnych składek ubezpieczeniowych z tytułu danej umowy ubezpieczenia w rekomendowanym minimalnym okresie trwania umowy;
 - **22)** wynagrodzenie – prowizję, honorarium, opłatę lub inną płatność, w tym korzyść ekonomiczną jakiegokolwiek rodzaju lub inną korzyść lub zachętę finansową lub niefinansową, oferowane lub przekazywane w związku z działalnością w zakresie dystrybucji ubezpieczeń;

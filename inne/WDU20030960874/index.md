@@ -91,8 +91,7 @@ source: pdf
 **Art. 9.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz.U. z 2000 r. Nr 54, poz. 654, z późn. zm.) wprowadza się następujące zmiany:
 
 - **1)** w art. 12 ust. 4 w pkt 15 kropkę zastępuje się przecinkiem i dodaje pkt 16 w brzmieniu: „16) wartości świadczeń wolontariuszy, udzielanych na zasadach określonych w przepisach o działalności pożytku publicznego i o wolontariacie.”;
-- **2)** w art. 16 w ust. 1 w pkt 58 na końcu zdania skreśla się przecinek i dodaje wyrazy „lub ze środków, o których mowa w art. 33 ust. 4 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz.U. Nr 96, poz.
-- **873)** ,”;
+- **2)** w art. 16 w ust. 1 w pkt 58 na końcu zdania skreśla się przecinek i dodaje wyrazy „lub ze środków, o których mowa w art. 33 ust. 4 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz.U. Nr 96, poz. 873),”;
 - **3)** w art. 17:
     - **a)** w ust. 1 po pkt 6b dodaje się pkt 6c w brzmieniu: „6c) dochody organizacji pożytku publicznego, o których mowa w przepisach o działalności pożytku publicznego i o wolontariacie - w części przeznaczonej na działalność statutową, z wyłączeniem działalności gospodarczej,”,
     - **b)** po ust. 1d dodaje się ust. 1e i 1f w brzmieniu: „1e. Zwolnienie, o którym mowa w ust. 1, dotyczące podatników przeznaczających dochody na cele statutowe lub inne cele określone w tym przepisie stosuje się również w przypadku lokowania dochodów poprzez nabycie:

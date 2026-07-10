@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.*
 
 Łącznie: **3074** orzeczeń w **276** artykułach
-(pominięto 2964 orzeczeń sądów rejonowych)
+(pominięto 2969 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).

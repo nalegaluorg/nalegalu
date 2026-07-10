@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2011-01-05 |
 | Data wydania | 2011-01-31 |
-| Ostatnia zmiana | 2026-05-13 |
+| Ostatnia zmiana | 2026-07-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110210112) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/112/text.pdf) |
 
 Wybory uzupełniające i przedterminowe
@@ -55,8 +55,7 @@ Wybory uzupełniające i przedterminowe
 - **4)** radzie gminy – należy przez to rozumieć także radę miasta na prawach powiatu;
 - **5)** radzie – należy przez to rozumieć także sejmik województwa;
 - **6)** wójcie – należy przez to rozumieć także burmistrza i prezydenta miasta;
-- **7)** zakładzie leczniczym – należy przez to rozumieć zakład leczniczy, w którym podmiot leczniczy wykonuje działalność leczniczą w rodzaju świadczenia szpitalne lub stacjonarne i całodobowe świadczenia zdrowotne inne niż świadczenia szpitalne, w rozumieniu przepisów ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799 i 1897 oraz z 2025 r. poz.
-- **129)** ;
+- **7)** zakładzie leczniczym – należy przez to rozumieć zakład leczniczy, w którym podmiot leczniczy wykonuje działalność leczniczą w rodzaju świadczenia szpitalne lub stacjonarne i całodobowe świadczenia zdrowotne inne niż świadczenia szpitalne, w rozumieniu przepisów ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799 i 1897 oraz z 2025 r. poz. 129);
 - **8)** domu pomocy społecznej – należy przez to rozumieć także placówkę zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, o której mowa w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572);
 - **9)** stałym zamieszkaniu – należy przez to rozumieć zamieszkanie w określonej miejscowości pod oznaczonym adresem z zamiarem stałego pobytu;
 - **10)** numerze ewidencyjnym PESEL – należy przez to rozumieć numer PESEL nadawany w trybie ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2024 r. poz. 736 i 854);

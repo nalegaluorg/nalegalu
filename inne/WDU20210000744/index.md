@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2021-04-20 |
 | Data wydania | 2021-04-22 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-07-06 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000744) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/744/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zezwoleń na wykonywanie działalności w zakresie podatku akcyzowego Na podstawie art. 84 ust. 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn.

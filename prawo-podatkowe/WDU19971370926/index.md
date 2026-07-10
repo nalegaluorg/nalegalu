@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-29 |
 | Data wydania | 1997-11-13 |
-| Ostatnia zmiana | 2026-05-25 |
+| Ostatnia zmiana | 2026-06-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971370926) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.pdf) |
 
 1) innej szczególnej cesze rozpoznawczej – rozumie się przez to właściwość uzgodnienia polegającą na tym, że spełniony jest co najmniej jeden z poniższych warunków:
@@ -483,8 +483,7 @@ d) oferowanie czynności wskazanych w lit. a–c, zawarcie umowy, której przedm
 
 § 1a. Dyrektor Krajowej Informacji Skarbowej może z urzędu:
 
-- **1)** zmienić interpretację indywidualną w wyniku uwzględnienia skargi do sądu administracyjnego na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz.
-- **143)** ;
+- **1)** zmienić interpretację indywidualną w wyniku uwzględnienia skargi do sądu administracyjnego na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143);
 - **2)** stwierdzić wygaśniecie interpretacji indywidualnej, jeżeli jest ona niezgodna z interpretacją ogólną wydaną w takim samym stanie prawnym;
 - **3)** uchylić wydaną interpretację indywidualną i wydać postanowienie, o którym mowa w art. 14b § 5a;
 - **4)** zmienić postanowienie, o którym mowa w art. 14b § 5a, w przypadku zmiany interpretacji ogólnej wskazanej w tym postanowieniu;
@@ -2925,9 +2924,7 @@ d) oferowanie czynności wskazanych w lit. a–c, zawarcie umowy, której przedm
 § 1. Notariusze są obowiązani do przekazywania Szefowi Krajowej Administracji Skarbowej informacji o:
 
 - **1)** sporządzonym akcie notarialnym obejmującym:
-    - **a)** czynności cywilnoprawne, o których mowa w ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2026 r. poz.
-
-- **191)** ,
+    - **a)** czynności cywilnoprawne, o których mowa w ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2026 r. poz. 191),
     - **b)** czynności prawne, o których mowa w ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2026 r. poz. 478),
     - **c)** oświadczenie, o którym mowa w art. 43 ust. 10 pkt 2 lit. b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług,
     - **d)** inne zdarzenia mogące spowodować powstanie zobowiązania podatkowego niewymienione w lit. a–c;
@@ -4650,8 +4647,7 @@ d) oferowanie czynności wskazanych w lit. a–c, zawarcie umowy, której przedm
 - **5)** Szefa Centralnego Biura Antykorupcyjnego – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 22a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718);
 - **6)** Szefa Agencji Bezpieczeństwa Wewnętrznego – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 34 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26);
 - **6a)** Komendanta Głównego Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, komendanta wojewódzkiego Policji albo Komendanta Stołecznego Policji – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 421);
-- **6b)** Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej albo komendanta oddziału Straży Granicznej – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 10a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2026 r. poz.
-- **367)** ;
+- **6b)** Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej albo komendanta oddziału Straży Granicznej – w zakresie niezbędnym do realizacji ustawowych zadań – za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 10a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2026 r. poz. 367);
 - **7)** Generalnego Inspektora Informacji Finansowej – w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
 - **8)** Przewodniczącego Komisji Nadzoru Finansowego – w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069 oraz z 2026 r. poz. 252).
 
@@ -7242,9 +7238,7 @@ d) oferowanie czynności wskazanych w lit. a–c, zawarcie umowy, której przedm
 - **9a)** (uchylony)
 - **10)** Przewodniczącemu Komisji Nadzoru Finansowego – w zakresie i na zasadach określonych w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym;
 - **11)** Prezesowi Urzędu Ochrony Konkurencji i Konsumentów – w związku z prowadzonym:
-    - **a)** postępowaniem wyjaśniającym, postępowaniem antymonopolowym, postępowaniem w sprawie o uznanie postanowień wzorca umowy za niedozwolone i postępowaniem w sprawie praktyk naruszających zbiorowe interesy konsumentów, o których mowa w art. 47 ust. 1 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz.
-
-- **1714)** ,
+    - **a)** postępowaniem wyjaśniającym, postępowaniem antymonopolowym, postępowaniem w sprawie o uznanie postanowień wzorca umowy za niedozwolone i postępowaniem w sprawie praktyk naruszających zbiorowe interesy konsumentów, o których mowa w art. 47 ust. 1 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz. 1714),
     - **b)** postępowaniem w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową i postępowaniem wyjaśniającym, prowadzonych na podstawie przepisów ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. z 2023 r. poz. 1773),
     - **c)** postępowaniem w sprawie nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych, o którym mowa w art. 13c ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790),
     - **d)** wstępnym postępowaniem sprawdzającym i postępowaniem kontrolnym, o których mowa w ustawie z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. z 2026 r. poz. 47);

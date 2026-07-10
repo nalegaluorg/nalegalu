@@ -584,8 +584,6 @@ source: pdf
 
 1. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 
-2. (uchylony) Załączniki do ustawy z dnia 10 kwietnia 2003 r. (Dz. U. z 2024 r. poz.
-
-- **311)** Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony)
+2. (uchylony) Załączniki do ustawy z dnia 10 kwietnia 2003 r. (Dz. U. z 2024 r. poz. 311) Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony)
 
 

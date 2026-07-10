@@ -29,8 +29,7 @@ Sygn. akt SK 30/04 W imieniu Rzeczypospolitej Polskiej Trybunał Konstytucyjny w
 1) art. 207 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2000 r. Nr 46, poz. 543 ze zm.), w brzmieniu nadanym ustawą z dnia 7 stycznia 2000 r. o zmianie ustawy o gospodarce nieruchomościami oraz innych ustaw (Dz. U. Nr 6, poz. 70), z art. 2, art. 32 w związku z art. 64 ust. 1 oraz art. 64 ust. 2 Konstytucji,
 2) art. 1 pkt 81 lit. a w związku z art. 9 ustawy z dnia 7 stycznia 2000 r. o zmianie ustawy o gospodarce nieruchomościami oraz innych ustaw (Dz. U.
 Nr 6, poz. 70) z art. 2, art. 32 w związku z art. 64 ust. 1 oraz art. 64 ust. 2 Konstytucji, o r z e k a:
-Art. 1 pkt 81 lit. a w związku z art. 9 ustawy z dnia 7 stycznia 2000 r. o zmianie ustawy o gospodarce nieruchomościami oraz innych ustaw (Dz. U. Nr 6, poz.
-70):
+Art. 1 pkt 81 lit. a w związku z art. 9 ustawy z dnia 7 stycznia 2000 r. o zmianie ustawy o gospodarce nieruchomościami oraz innych ustaw (Dz. U. Nr 6, poz. 70):
 a) jest zgodny z art. 32 w związku z art. 64 ust. 1 Konstytucji Rzeczypospolitej Polskiej,
 b) jest niezgodny z zasadą ochrony praw słusznie nabytych wyrażoną w art. 2 i art. 64 ust. 2 Konstytucji w zakresie, w jakim odnosi się do wszczętych a niezakończonych przed jego wejściem w życie spraw dotyczących nabycia użytkowania wieczystego nieruchomości stanowiących własność Skarbu Państwa lub własność gminy niezabudowanych przez ich posiadaczy.
 Ponadto p o s t a n a w i a: na podstawie art. 39 ust. 1 pkt 1 w związku z art. 39 ust. 2 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070 oraz z 2005 r. Nr 169, poz. 1417) umorzyć postępowanie w pozostałym zakresie ze względu na zbędność wydania orzeczenia.

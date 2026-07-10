@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 15 września 2000 r. o referendum lokalnym.*
 
 Łącznie: **19** orzeczeń
-(pominięto 52 orzeczeń sądów rejonowych)
+(pominięto 53 orzeczeń sądów rejonowych)
 
 ## art. 1 (4)
 

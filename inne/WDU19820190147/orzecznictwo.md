@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece.*
 
-Łącznie: **2585** orzeczeń w **295** artykułach
-(pominięto 2415 orzeczeń sądów rejonowych)
+Łącznie: **2592** orzeczeń w **295** artykułach
+(pominięto 2420 orzeczeń sądów rejonowych)
 
 Każdy artykuł ma osobny plik CSV z pełną listą orzeczeń.
 Orzeczenia posortowane wg ważności (score 0–100).
@@ -103,7 +103,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 65 § 77 | 1 | 0 | 1 | 0 | 0 | 0 | [art-65-par-77.csv](orzecznictwo/art-65-par-77.csv) |
 | art. 66 | 2 | 0 | 1 | 1 | 0 | 0 | [art-66.csv](orzecznictwo/art-66.csv) |
 | art. 67 | 45 | 1 | 26 | 18 | 1 | 0 | [art-67.csv](orzecznictwo/art-67.csv) |
-| art. 68 | 137 | 0 | 98 | 39 | 0 | 0 | [art-68.csv](orzecznictwo/art-68.csv) |
+| art. 68 | 139 | 0 | 100 | 39 | 0 | 0 | [art-68.csv](orzecznictwo/art-68.csv) |
 | art. 68(1) | 6 | 0 | 4 | 2 | 0 | 0 | [art-681.csv](orzecznictwo/art-681.csv) |
 | art. 68(3) | 1 | 0 | 0 | 1 | 0 | 0 | [art-683.csv](orzecznictwo/art-683.csv) |
 | art. 68(4) | 2 | 0 | 1 | 1 | 0 | 0 | [art-684.csv](orzecznictwo/art-684.csv) |
@@ -137,7 +137,7 @@ Legenda: ★★★ wiodące (≥75) | ★★ istotne (50–74) | ★ pomocnicze 
 | art. 91 | 4 | 0 | 3 | 1 | 0 | 0 | [art-91.csv](orzecznictwo/art-91.csv) |
 | art. 92 | 4 | 0 | 3 | 1 | 0 | 0 | [art-92.csv](orzecznictwo/art-92.csv) |
 | art. 93 | 3 | 0 | 2 | 1 | 0 | 0 | [art-93.csv](orzecznictwo/art-93.csv) |
-| art. 94 | 173 | 2 | 139 | 32 | 4 | 0 | [art-94.csv](orzecznictwo/art-94.csv) |
+| art. 94 | 179 | 2 | 145 | 32 | 4 | 0 | [art-94.csv](orzecznictwo/art-94.csv) |
 | art. 94(1) | 1 | 0 | 0 | 1 | 0 | 0 | [art-941.csv](orzecznictwo/art-941.csv) |
 | art. 95 | 7 | 0 | 4 | 3 | 0 | 0 | [art-95.csv](orzecznictwo/art-95.csv) |
 | art. 96 | 3 | 2 | 1 | 0 | 2 | 0 | [art-96.csv](orzecznictwo/art-96.csv) |
@@ -946,6 +946,7 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 ### art. 68 (20 wiodących)
 
 - ★★ 2025-10-08 | SO | [I ACa 2048/22](https://www.saos.org.pl/judgments/537064) | Wyrok (score: 56)
+- ★★ 2025-09-16 | SO | [I ACa 3315/23](https://www.saos.org.pl/judgments/547131) | Wyrok (score: 56)
 - ★★ 2025-04-08 | SO | [I ACa 720/23](https://www.saos.org.pl/judgments/538064) | Wyrok (score: 56)
 - ★★ 2024-11-15 | SO | [I ACa 1118/23](https://www.saos.org.pl/judgments/533421) | Wyrok (score: 56)
 - ★★ 2024-10-29 | SO | [I ACa 870/23](https://www.saos.org.pl/judgments/545407) | Wyrok (score: 56)
@@ -964,7 +965,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2023-11-30 | SO | [I ACa 1704/22](https://www.saos.org.pl/judgments/533087) | Wyrok (score: 56)
 - ★★ 2023-11-29 | SO | [I ACa 1022/22](https://www.saos.org.pl/judgments/493270) | Wyrok (score: 56)
 - ★★ 2023-11-16 | SO | [I ACa 1708/22](https://www.saos.org.pl/judgments/542294) | Wyrok (score: 56)
-- ★★ 2023-10-24 | SO | [I ACa 1596/22](https://www.saos.org.pl/judgments/493722) | Wyrok (score: 56)
 
 ### art. 68(1) (4 wiodących)
 
@@ -1256,7 +1256,9 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2025-11-28 | SO | [I ACa 740/23](https://www.saos.org.pl/judgments/544880) | Wyrok (score: 56)
 - ★★ 2025-11-17 | SO | [I ACa 2351/24](https://www.saos.org.pl/judgments/546794) | Wyrok (score: 56)
 - ★★ 2025-09-24 | SO | [I ACa 3325/24](https://www.saos.org.pl/judgments/543527) | Wyrok (score: 56)
+- ★★ 2025-09-03 | SO | [I ACa 520/24](https://www.saos.org.pl/judgments/547132) | Wyrok (score: 56)
 - ★★ 2025-08-21 | SO | [I ACa 1621/24](https://www.saos.org.pl/judgments/542554) | Wyrok (score: 56)
+- ★★ 2025-08-08 | SO | [I ACa 3541/23](https://www.saos.org.pl/judgments/547350) | Wyrok (score: 56)
 - ★★ 2025-06-17 | SO | [I ACa 68/24](https://www.saos.org.pl/judgments/546675) | Wyrok (score: 56)
 - ★★ 2025-06-17 | SO | [I ACa 3945/23](https://www.saos.org.pl/judgments/542201) | Wyrok (score: 56)
 - ★★ 2025-06-10 | SO | [I ACa 2834/23](https://www.saos.org.pl/judgments/539264) | Wyrok (score: 56)
@@ -1267,8 +1269,6 @@ Orzeczenia o najwyższej wadze (score ≥ 50), pogrupowane wg artykułu:
 - ★★ 2025-05-22 | SO | [I ACa 1611/24](https://www.saos.org.pl/judgments/541084) | Wyrok (score: 56)
 - ★★ 2025-04-25 | SO | [I ACa 2621/23](https://www.saos.org.pl/judgments/531182) | Wyrok (score: 56)
 - ★★ 2025-03-28 | SO | [I ACa 3220/23](https://www.saos.org.pl/judgments/525563) | Wyrok (score: 56)
-- ★★ 2025-03-24 | SO | [I ACa 1046/23](https://www.saos.org.pl/judgments/539013) | Wyrok (score: 56)
-- ★★ 2025-01-29 | SO | [I ACa 649/23](https://www.saos.org.pl/judgments/527166) | Wyrok (score: 56)
 
 ### art. 95 (4 wiodących)
 

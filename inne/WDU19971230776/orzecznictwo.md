@@ -2,8 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.*
 
-Łącznie: **846** orzeczeń
-(pominięto 1072 orzeczeń sądów rejonowych)
+Łącznie: **850** orzeczeń
+(pominięto 1074 orzeczeń sądów rejonowych)
 
 ## art. 1 (64)
 
@@ -128,7 +128,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawo
 - 2016-02-22 | SO | [VIII U 3750/14](https://www.saos.org.pl/judgments/205073) | Zarządzenie
 - 2014-10-02 | SO | [III Ca 584/14](https://www.saos.org.pl/judgments/72189) | Uzasadnienie
 
-## art. 3 (149)
+## art. 3 (150)
 
 - 2007-10-23 | TK | [P 28/07](https://www.saos.org.pl/judgments/108114) | Wyrok ★
 - 2011-08-09 | SN | [I UK 52/11](https://www.saos.org.pl/judgments/95599) | Wyrok ★
@@ -190,6 +190,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawo
 - 2009-05-12 | SO | [III AUa 270/09](https://www.saos.org.pl/judgments/46865) | Wyrok
 - 2021-09-24 | SO | [III AUa 595/21](https://www.saos.org.pl/judgments/451289) | Uzasadnienie
 - 2026-04-09 | SO | [VII U 1602/23](https://www.saos.org.pl/judgments/545237) | Wyrok
+- 2025-12-04 | SO | [VI U 157/22](https://www.saos.org.pl/judgments/547815) | Wyrok
 - 2025-08-06 | SO | [VII Ua 38/25](https://www.saos.org.pl/judgments/533215) | Wyrok
 - 2024-08-29 | SO | [VI U 80/22](https://www.saos.org.pl/judgments/519919) | Wyrok
 - 2024-08-19 | SO | [VI U 497/23](https://www.saos.org.pl/judgments/516638) | Wyrok
@@ -280,7 +281,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawo
 - 2014-10-02 | SO | [III Ca 584/14](https://www.saos.org.pl/judgments/72189) | Uzasadnienie
 - 2014-05-13 | SO | [VII Ua 43/14](https://www.saos.org.pl/judgments/46533) | Uzasadnienie
 
-## art. 4 (318)
+## art. 4 (321)
 
 - 2008-07-18 | TK | [P 27/07](https://www.saos.org.pl/judgments/108582) | Wyrok ★
 - 2006-11-15 | TK | [P 23/05](https://www.saos.org.pl/judgments/107639) | Wyrok ★
@@ -346,9 +347,12 @@ Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawo
 - 2012-10-05 | SO | [III AUa 467/12](https://www.saos.org.pl/judgments/2364) | Wyrok
 - 2009-05-12 | SO | [III AUa 270/09](https://www.saos.org.pl/judgments/46865) | Wyrok
 - 2018-10-31 | SO | [I ACa 504/17](https://www.saos.org.pl/judgments/396656) | Uzasadnienie
+- 2026-05-13 | SO | [VII U 1319/25](https://www.saos.org.pl/judgments/547754) | Wyrok
 - 2026-04-13 | SO | [VII Ua 5/26](https://www.saos.org.pl/judgments/545132) | Wyrok
 - 2026-04-09 | SO | [VII U 1602/23](https://www.saos.org.pl/judgments/545237) | Wyrok
 - 2026-04-07 | SO | [VII U 1460/25](https://www.saos.org.pl/judgments/546603) | Wyrok
+- 2026-04-02 | SO | [VI U 164/24](https://www.saos.org.pl/judgments/547634) | Wyrok
+- 2026-03-30 | SO | [VI U 182/24](https://www.saos.org.pl/judgments/547635) | Wyrok
 - 2026-03-02 | SO | [VII U 430/25](https://www.saos.org.pl/judgments/545131) | Wyrok
 - 2025-09-11 | SO | [VI U 476/24](https://www.saos.org.pl/judgments/544934) | Wyrok
 - 2025-08-06 | SO | [VII Ua 38/25](https://www.saos.org.pl/judgments/533215) | Wyrok
@@ -717,7 +721,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawo
 - 2014-05-27 | SO | [VIII U 1184/13](https://www.saos.org.pl/judgments/48194) | Zarządzenie
 - 2014-03-28 | SO | [VIII U 4466/12](https://www.saos.org.pl/judgments/40627) | Uzasadnienie
 
-## art. 6 (83)
+## art. 6 (84)
 
 - 2007-10-30 | TK | [P 28/06](https://www.saos.org.pl/judgments/108113) | Wyrok ★
 - 2007-10-23 | TK | [P 28/07](https://www.saos.org.pl/judgments/108114) | Wyrok ★
@@ -737,6 +741,7 @@ Orzeczenia powołujące: *Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawo
 - 2013-06-27 | SO | [III AUa 1563/12](https://www.saos.org.pl/judgments/20119) | Wyrok
 - 2009-05-12 | SO | [III AUa 270/09](https://www.saos.org.pl/judgments/46865) | Wyrok
 - 2018-02-22 | SO | [I ACz 141/18](https://www.saos.org.pl/judgments/336685) | Postanowienie
+- 2026-05-13 | SO | [VII U 1319/25](https://www.saos.org.pl/judgments/547754) | Wyrok
 - 2026-04-07 | SO | [VII U 1460/25](https://www.saos.org.pl/judgments/546603) | Wyrok
 - 2026-03-02 | SO | [VII U 430/25](https://www.saos.org.pl/judgments/545131) | Wyrok
 - 2026-02-05 | SO | [VI U 531/24](https://www.saos.org.pl/judgments/546600) | Wyrok

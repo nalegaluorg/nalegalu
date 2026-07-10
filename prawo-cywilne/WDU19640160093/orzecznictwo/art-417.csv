@@ -583,6 +583,8 @@ saos_id|date|court|case_number|type|score|saos_url
 83587|2005-07-12|SN|I CNP 1/05|Postanowienie|69|https://www.saos.org.pl/judgments/83587
 163343|2005-06-14|SN|V CZ 61/05|Postanowienie|69|https://www.saos.org.pl/judgments/163343
 79885|2000-08-22|SN|IV CKN 1188/00|Postanowienie|69|https://www.saos.org.pl/judgments/79885
+547653|2026-04-28|SO|I ACa 2774/23|Wyrok|56|https://www.saos.org.pl/judgments/547653
+547649|2026-02-10|SO|I ACa 1059/23|Wyrok|56|https://www.saos.org.pl/judgments/547649
 546885|2026-02-02|SO|I ACa 3947/24|Wyrok|56|https://www.saos.org.pl/judgments/546885
 543147|2026-01-13|SO|I ACa 74/25|Wyrok|56|https://www.saos.org.pl/judgments/543147
 546809|2025-11-13|SO|I ACa 861/24|Wyrok|56|https://www.saos.org.pl/judgments/546809
@@ -632,6 +634,7 @@ saos_id|date|court|case_number|type|score|saos_url
 493692|2023-11-22|SO|I ACa 1538/23|Wyrok|56|https://www.saos.org.pl/judgments/493692
 501072|2023-11-20|SO|II AKa 407/23|Wyrok|56|https://www.saos.org.pl/judgments/501072
 493358|2023-11-14|SO|I ACa 1120/21|Wyrok|56|https://www.saos.org.pl/judgments/493358
+547435|2023-11-09|SO|I ACa 1311/23|Wyrok|56|https://www.saos.org.pl/judgments/547435
 531173|2023-11-09|SO|I ACa 1538/22|Wyrok|56|https://www.saos.org.pl/judgments/531173
 520015|2023-10-31|SO|I ACa 783/22|Wyrok|56|https://www.saos.org.pl/judgments/520015
 494683|2023-10-26|SO|I ACa 880/23|Wyrok|56|https://www.saos.org.pl/judgments/494683
@@ -2966,6 +2969,7 @@ saos_id|date|court|case_number|type|score|saos_url
 5998|2012-12-28|SO|I ACa 893/12|Uzasadnienie|42|https://www.saos.org.pl/judgments/5998
 540642|2025-11-25|SO|II Ca 1229/24|Wyrok|40|https://www.saos.org.pl/judgments/540642
 536042|2025-10-16|SO|IV U 149/25|Wyrok|40|https://www.saos.org.pl/judgments/536042
+547495|2025-10-08|SO|I Ca 218/25|Wyrok|40|https://www.saos.org.pl/judgments/547495
 539562|2025-09-19|SO|I C 79/23|Wyrok|40|https://www.saos.org.pl/judgments/539562
 536258|2025-08-29|SO|I C 329/25|Wyrok|40|https://www.saos.org.pl/judgments/536258
 535991|2025-07-28|SO|XIV C 740/22|Wyrok|40|https://www.saos.org.pl/judgments/535991

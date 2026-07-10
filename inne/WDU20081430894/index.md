@@ -151,8 +151,7 @@ source: pdf
 
 4. Przepisy ust. 1–3 stosuje się odpowiednio do podatku obliczanego zgodnie z art. 30c.”;
 
-- **2)** po art. 52d dodaje się art. 52e w brzmieniu: „Art. 52e. Zwalnia się od podatku dochodowego kwoty umorzenia zaległości oraz zwrotu wynikające z ustawy z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla osób fizycznych uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 143, poz.
-- **894)** .”.
+- **2)** po art. 52d dodaje się art. 52e w brzmieniu: „Art. 52e. Zwalnia się od podatku dochodowego kwoty umorzenia zaległości oraz zwrotu wynikające z ustawy z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla osób fizycznych uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej (Dz. U. Nr 143, poz. 894).”.
 
 **Art. 15.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. Nr 144, poz. 930, z późn. zm. ) wprowadza się następujące zmiany:
 

@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-03 |
 | Data wydania | 2014-09-23 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001272) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1272/text.pdf) |
 
 w sprawie obszarów, na których dopuszcza się lokalizowanie kompleksu podziemnego składowania dwutlenku węgla Na podstawie art. 127a ust. 4 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, ze zm. ) zarządza się, co następuje:

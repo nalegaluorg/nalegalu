@@ -683,6 +683,5 @@ source: pdf
 
 ## Załączniki do ustawy z dnia 12 stycznia 1991 r.
 
-(Dz. U. z 2025 r. poz.
-707) Załącznik nr 1 Załącznik nr 2 Załącznik nr 3 Załącznik nr 4
+(Dz. U. z 2025 r. poz. 707) Załącznik nr 1 Załącznik nr 2 Załącznik nr 3 Załącznik nr 4
 

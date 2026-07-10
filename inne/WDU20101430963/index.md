@@ -113,9 +113,7 @@ source: pdf
     - **h)** właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta), o ile nie reprezentują inwestora,
     - **i)** Państwowego Gospodarstwa Wodnego Wody Polskie, o ile nie jest ono inwestorem,
     - **j)** właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej – w odniesieniu do inwestycji podlegającej przepisom ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188) oraz ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U.
-    - **k)** ministra właściwego do spraw gospodarki morskiej – w odniesieniu do nieruchomości, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz.
-
-- **1796)** ,
+    - **k)** ministra właściwego do spraw gospodarki morskiej – w odniesieniu do nieruchomości, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796),
     - **l)** dyrektora parku narodowego – w odniesieniu do obszarów położonych w granicach parku i jego otuliny, zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2026 r. poz. 13);
 
 - **8)** pozwolenie wodnoprawne, o ile jest ono wymagane;

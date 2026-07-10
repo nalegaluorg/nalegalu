@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 18 stycznia 1951 r. o dniach wolnych od pracy.*
 
 Łącznie: **47** orzeczeń
-(pominięto 43 orzeczeń sądów rejonowych)
+(pominięto 44 orzeczeń sądów rejonowych)
 
 ## art. 1 (33)
 

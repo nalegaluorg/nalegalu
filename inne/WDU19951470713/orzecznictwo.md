@@ -3,7 +3,7 @@
 Orzeczenia powołujące: *Ustawa z dnia 13 października 1995 r. Prawo łowieckie.*
 
 Łącznie: **182** orzeczeń
-(pominięto 307 orzeczeń sądów rejonowych)
+(pominięto 308 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 

@@ -69,9 +69,8 @@ source: pdf
     - **g)** Straży Granicznej, o których mowa w art. 1 ust. 2–2b ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, 1115 i 1855),
     - **h)** Krajowej Administracji Skarbowej, o których mowa w art. 2 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ),
     - **i)** Służby Więziennej, o których mowa w art. 2 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn. zm. ),
-    - **j)** Państwowej Straży Pożarnej, o których mowa w art. 1 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz.
+    - **j)** Państwowej Straży Pożarnej, o których mowa w art. 1 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969);
 
-- **1969)** ;
 - **2)** wyrobów pirotechnicznych przeznaczonych do niehandlowego wykorzystania przez armie obcych państw przebywające na terytorium Rzeczypospolitej Polskiej na zasadach określonych ustawy z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej, zasadach ich przemieszczania się przez to terytorium oraz zasadach udzielania pomocy wojskom sojuszniczym i organizacjom międzynarodowym (Dz. U. z 2018 r. poz. 2110 oraz z 2022 r. poz. 655);
 - **3)** wyposażenia morskiego, o którym mowa w ustawie z dnia 2 grudnia 2016 r. o wyposażeniu morskim (Dz. U. z 2019 r. poz. 955);
 - **4)** wyrobów pirotechnicznych przeznaczonych do wykorzystania w przemyśle lotniczym;

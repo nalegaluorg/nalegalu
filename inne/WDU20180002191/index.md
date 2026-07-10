@@ -41,9 +41,7 @@ source: pdf
 - **5)** wykonawcy – należy przez to rozumieć: zm. ), zwanej dalej „ustawą – Prawo zamówień publicznych”,
     - **a)** wykonawcę w rozumieniu art. 7 pkt 30 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn.
     - **b)** wykonawcę w rozumieniu art. 2 pkt 10 ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2025 r. poz. 1688), zwanej dalej „ustawą o umowie koncesji”,
-    - **c)** partnera prywatnego w rozumieniu art. 2 pkt 2 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz.
-
-- **1637)** , zwanej dalej „ustawą o partnerstwie publiczno-prywatnym”,
+    - **c)** partnera prywatnego w rozumieniu art. 2 pkt 2 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637), zwanej dalej „ustawą o partnerstwie publiczno-prywatnym”,
     - **d)** podwykonawcę w rozumieniu ustawy – Prawo zamówień publicznych, jeżeli zgodnie z ustawą, decyzją właściwego organu, orzeczeniem sądu lub umową jest uprawniony do domagania się zapłaty od zamawiającego;
 
 - **6)** zamawiającym – należy przez to rozumieć:

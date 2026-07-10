@@ -2,10 +2,13 @@
 
 Akty prawne z dziedziny: **Prawo karne**.
 
-Łącznie: **159** aktów
+Łącznie: **162** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
+| [WDU20260000902](WDU20260000902/index.md) | Ustawa z dnia 15 maja 2026 r. o zmianie ustawy - Kodeks karny | Ustawa | obowiązujący |  |
+| [WDU20260000901](WDU20260000901/index.md) | Ustawa z dnia 11 czerwca 2026 r. o zmianie ustawy - Kodeks postępowania kar | Ustawa | obowiązujący |  |
+| [WDU20260000882](WDU20260000882/index.md) | Ustawa z dnia 15 maja 2026 r. o zmianie ustawy - Kodeks postępowania karneg | Ustawa | obowiązujący |  |
 | [WDU20260000638](WDU20260000638/index.md) | Ustawa z dnia 27 marca 2026 r. o zmianie ustawy - Kodeks postępowania karne | Ustawa | obowiązujący |  |
 | [WDU20260000490](WDU20260000490/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250001844](WDU20250001844/index.md) | Ustawa z dnia 4 grudnia 2025 r. zmieniająca ustawę o zmianie ustawy - Kodek | Ustawa | obowiązujący |  |
@@ -166,4 +169,4 @@ Akty prawne z dziedziny: **Prawo karne**.
 | [WDU19710120115](WDU19710120115/index.md) | Ustawa z dnia 20 maja 1971 r. przepisy wprowadzające Kodeks wykroczeń. | Ustawa | obowiązujący |  |
 | [WDU19710120114](WDU19710120114/index.md) | Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń. | Ustawa | akt posiada tekst jednolity | [tak](WDU19710120114/orzecznictwo.md) |
 
-*159 aktów • [← Powrót do spisu głównego](../README.md)*
+*162 aktów • [← Powrót do spisu głównego](../README.md)*

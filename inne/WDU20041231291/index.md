@@ -24,7 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2004-04-30 |
 | Data wydania | 2004-05-31 |
-| Ostatnia zmiana | 2026-05-28 |
+| Ostatnia zmiana | 2026-06-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041231291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1291/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

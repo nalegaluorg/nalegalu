@@ -22,7 +22,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2019-12-20 |
 | Data wydania | 2019-12-27 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-06-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2504/text.pdf) |
 
 w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji pojazdów oraz wymagań technicznych i jakościowych danych wprowadzanych do tej ewidencji Na podstawie art. 80bb ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r.

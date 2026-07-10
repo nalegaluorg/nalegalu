@@ -430,9 +430,7 @@ source: pdf
 
 3a. Kwota świadczenia pielęgnacyjnego podlega corocznej waloryzacji od dnia 1 stycznia.
 
-3b. Waloryzacja polega na zwiększeniu kwoty świadczenia pielęgnacyjnego o wskaźnik waloryzacji. Wskaźnikiem waloryzacji jest procentowy wzrost minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz.
-
-- **1773)** , obowiązującego na dzień 1 stycznia roku, w którym jest przeprowadzana waloryzacja, w stosunku do wysokości minimalnego wynagrodzenia za pracę obowiązującej w dniu 1 stycznia roku poprzedzającego rok, w którym jest przeprowadzana waloryzacja.
+3b. Waloryzacja polega na zwiększeniu kwoty świadczenia pielęgnacyjnego o wskaźnik waloryzacji. Wskaźnikiem waloryzacji jest procentowy wzrost minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), obowiązującego na dzień 1 stycznia roku, w którym jest przeprowadzana waloryzacja, w stosunku do wysokości minimalnego wynagrodzenia za pracę obowiązującej w dniu 1 stycznia roku poprzedzającego rok, w którym jest przeprowadzana waloryzacja.
 
 3c. Wysokość świadczenia pielęgnacyjnego ustalanego w sposób określony w ust. 3b zaokrągla się do pełnych złotych w górę.
 
@@ -830,8 +828,7 @@ source: pdf
 - **2)** danych, o których mowa w art. 23 ust. 8 pkt 1 lit. a, b, e, ea, g, h, j, jb, jc, je, l oraz q;
 - **3)** informacji o wysokości składek na ubezpieczenie zdrowotne, w tym informacji o wysokości składek od poszczególnych płatników i okresach opłacania przez nich tych składek;
 - **4)** zaświadczenia lub informacji o zgłoszeniu do ubezpieczeń społecznych;
-- **5)** informacji o legitymowaniu się odpowiednim orzeczeniem wydanym na podstawie przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz.
-- **913)** , obejmującej następujące dane:
+- **5)** informacji o legitymowaniu się odpowiednim orzeczeniem wydanym na podstawie przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913), obejmującej następujące dane:
     - **a)** datę i rodzaj wydanego orzeczenia,
     - **b)** wskazania, o których mowa w art. 6b ust. 3 pkt 7 i 8 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
     - **c)** datę powstania niepełnosprawności lub stopnia niepełnosprawności,
