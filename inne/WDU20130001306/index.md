@@ -110,3 +110,28 @@ poz. 621, z późn. zm. ) zarządza się, co następuje:
 
 **§ 13.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk WZÓR LEGITYMACJI FUNKCJONARIUSZA CENTRALNEGO BIURA ANTYKORUPCYJNEGO i. okładka legitymacji R Ó Z W Opis: Okładka wykonana ze skóry w kolorze czarnym. Na okładce umieszczony znak Centralnego Biura Antykorupcyjnego.
+II. II. Część Część wewnętrzna wewnętrzna legitymacji legitymacji ii. Część wewnętrzna legitymacji awers awers rewers rewers awers rewers Opis: Część wewnętrzna legitymacji zalaminowana jest w folię zabezpieczającą.
+A. Awers
+1. Tło giloszowe z elementami mikrotekstu.
+2. Elementy graficzne aktywne w świetle UV.
+3. Znak Centralnego Biura Antykorupcyjnego.
+4. Miejsce na fotografię funkcjonariusza CBA, która będzie nanoszona podczas personalizacji.
+5. Napisy drukowane różnym kolorem i krojem czcionki:
+1) CENTRALNE BIURO ANTYKORUPCYJNE,
+2) NR IDENTYFIKACYJNY,
+3) IMIĘ,
+4) NAZWISKO,
+5) sześciocyfrowy numer legitymacji poprzedzony napisem CBA,
+6) PODPIS SZEFA CBA,
+7) DATA WAŻNOŚCI 31.12.2016,
+8) INSTYTUCJE PAŃSTWOWE, ORGANY ADMINISTRACJI RZĄDOWEJ I SAMORZĄDU TERYTORIALNEGO ORAZ PRZEDSIĘBIORCY PROWADZĄCY DZIAŁALNOŚĆ W ZAKRESIE UŻYTECZNOŚCI PUBLICZNEJ, W ZAKRESIE SWOJEGO DZIAŁANIA, SĄ PRAWNIE OBOWIĄZANI DO NIEODPŁATNEGO UDZIELENIA POMOCY FUNKCJONARIUSZOWI CENTRALNEGO BIURA ANTYKORUPCYJNEGO, KTÓRY MA RÓWNIEŻ PRAWO ZWRACANIA SIĘ O NIEZBĘDNĄ POMOC DO INNYCH PRZEDSIĘBIORCÓW, JEDNOSTEK ORGANIZACYJNYCH I ORGANIZACJI SPOŁECZNYCH, JAK RÓWNIEŻ DO KAŻDEJ OSOBY O UDZIELENIE POMOCY, W RAMACH OBOWIĄZUJĄCYCH PRZEPISÓW PRAWA,
+9) W PRZYPADKU ZNALEZIENIA TEJ LEGITYMACJI NALEŻY NIEZWŁOCZNIE DOSTARCZYĆ JĄ DO NAJBLIŻSZEJ JEDNOSTKI POLICJI. NIEUPRAWNIONE POSŁUGIWANIE SIĘ LEGITYMACJĄ LUB UKRYWANIE ZNALEZIONEJ LEGITYMACJI PODLEGA ODPOWIEDZIALNOŚCI KARNEJ,
+10) GRUPA KRWI.
+B. Rewers
+1. Tło giloszowe z elementami mikrotekstu.
+2. Czarny napis: CENTRALNE BIURO ANTYKORUPCYJNE.
+3. Znak Centralnego Biura Antykorupcyjnego.
+

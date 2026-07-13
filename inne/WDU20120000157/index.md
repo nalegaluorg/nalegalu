@@ -54,3 +54,31 @@ zmieniające rozporządzenie w sprawie działania organów orzekających w spraw
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem 11 lutego 2012 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk WZÓR Załącznik nr 2 WZÓR Wysłać bez pisma przewodniego Nadawca: Adresat: Rzecznik dyscypliny finansów Główny Rzecznik publicznych właściwy w sprawach Dyscypliny Finansów rozpatrywanych przez Komisję Publicznych Orzekającą przy: Ministerstwo Finansów .............................. ul. Świętokrzyska 12 .............................. 00-916 Warszawa .............................
+.............................
+Sprawozdanie z działalności rzecznika dyscypliny finansów publicznych w ........ roku Termin złożenia: 31 stycznia Sprawozdanie sporządził: Rzecznik dyscypliny finansów publicznych: ................................ ..........................
+..............................
+OBJAŚNIENIA DO SPRAWOZDANIA Sprawozdanie sporządza się na podstawie materiałów źródłowych zawartych w aktach poszczególnych spraw o naruszenie dyscypliny finansów publicznych.
+Nie wykazuje się zawiadomień o naruszeniu dyscypliny finansów publicznych, które zostały przekazane innemu rzecznikowi dyscypliny, oraz zawiadomień zwróconych zawiadamiającemu do uzupełnienia na podstawie art. 94 ust. 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych.
+Jako jedno zawiadomienie o naruszeniu dyscypliny finansów publicznych przyjmuje się zawiadomienie dotyczące jednej jednostki organizacyjnej, niezależnie od liczby zarzutów i osób objętych tym zawiadomieniem. W wyniku rozpoznania zawiadomienia rzecznik dyscypliny może, w zakresie poszczególnych zarzutów, wydać postanowienie o odmowie wszczęcia postępowania albo o wszczęciu postępowania wyjaśniającego oraz postanowienie o umorzeniu postępowania wyjaśniającego lub wystąpić do komisji orzekającej z wnioskiem o ukaranie.
+W wierszu 1 wykazuje się liczbę zawiadomień o naruszeniu dyscypliny finansów publicznych, które wpłynęły do rzecznika dyscypliny w okresie poprzedzającym rok sprawozdawczy i nie zostały rozpoznane.
+Jako zawiadomienie nierozpoznane przyjmuje się takie zawiadomienie, w sprawie którego rzecznik dyscypliny nie wydał postanowienia o wszczęciu postępowania wyjaśniającego albo o odmowie wszczęcia postępowania wyjaśniającego.
+W wierszu 2 wykazuje się liczbę postanowień o wszczęciu postępowania wyjaśniającego niezakończonego w okresie poprzedzającym rok sprawozdawczy. Jako zakończenie postępowania wyjaśniającego przyjmuje się postępowanie zakończone wydaniem postanowienia o jego umorzeniu lub wystąpieniem z wnioskiem o ukaranie, w sprawie którego przewodniczący komisji orzekającej skierował wniosek do rozpoznania na posiedzenie albo rozprawę.
+W wierszu 3 wykazuje się liczbę osób objętych postanowieniami o wszczęciu postępowania wyjaśniającego wykazanymi w wierszu 2.
+W wierszu 4 wykazuje się liczbę zawiadomień o naruszeniu dyscypliny finansów publicznych otrzymanych przez rzecznika dyscypliny w roku sprawozdawczym.
+W wierszu 5 wykazuje się liczbę postanowień rzecznika dyscypliny o odmowie wszczęcia postępowania wyjaśniającego. Postanowienie może dotyczyć więcej niż jednego naruszenia dyscypliny finansów publicznych wskazanego w zawiadomieniu.
+W wierszu 6 wykazuje się liczbę wszystkich naruszeń dyscypliny finansów publicznych, objętych postanowieniami wykazanymi w wierszu 5, w podziale na przyczyny odmowy wszczęcia postępowania.
+Liczba wykazana w wierszu 6 może być równa lub wyższa od liczby wykazanej w wierszu 5.
+W wierszu 7 wykazuje się liczbę postanowień o wszczęciu postępowania wyjaśniającego wydanych przez rzecznika dyscypliny w roku sprawozdawczym.
+W wierszu 8 wykazuje się liczbę osób objętych postanowieniami o wszczęciu postępowania wyjaśniającego wykazanymi w wierszu 7.
+W wierszu 9 wykazuje się liczbę postanowień o umorzeniu postępowania wyjaśniającego wydanych przez rzecznika dyscypliny w roku sprawozdawczym.
+W wierszu 10 wykazuje się liczbę osób objętych postanowieniami o umorzeniu postępowania wyjaśniającego wykazanymi w wierszu 9.
+W wierszu 11 wykazuje się liczbę wniosków o ukaranie, z którymi rzecznik dyscypliny wystąpił do komisji orzekającej w roku sprawozdawczym.
+W wierszu 12 wykazuje się liczbę obwinionych objętych wnioskami o ukaranie wykazanymi w wierszu 11.
+W wierszu 13 wykazuje się liczbę prowadzonych postępowań wyjaśniających, tj. liczbę postanowień o wszczęciu postępowań wyjaśniających, które nie zostały zakończone na koniec roku sprawozdawczego.
+W liczbie tej uwzględnia się także postanowienia o wszczęciu postępowań wyjaśniających umorzonych przez rzecznika dyscypliny, w przypadku gdy na postanowienie o umorzeniu złożono zażalenie, które bądź nie zostało rozpatrzone na koniec roku, bądź w wyniku jego rozpatrzenia postanowienie o umorzeniu postępowania wyjaśniającego zostało przez Głównego Rzecznika uchylone, a ponowne rozstrzygnięcie rzecznika dyscypliny nie zostało wydane na koniec roku sprawozdawczego. W liczbie ogólnej postępowań wyjaśniających niezakończonych na koniec roku sprawozdawczego uwzględnia się także postępowania wszczęte postanowieniami wydanymi w latach poprzednich, które nie zostały zakończone na koniec roku sprawozdawczego.
+W wierszu 14 wykazuje się liczbę zawiadomień o naruszeniu dyscypliny finansów publicznych pozostających w rozpoznaniu u rzecznika dyscypliny na koniec roku sprawozdawczego, w związku z którymi prowadzone są czynności sprawdzające.
+W wierszu 15 wykazuje się liczbę obwinionych w sprawach, w których rzecznik dyscypliny pełnił funkcję oskarżyciela, wobec których zapadło rozstrzygnięcie komisji orzekającej w roku sprawozdawczym.
+

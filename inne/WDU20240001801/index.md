@@ -31,3 +31,7 @@ zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebęd�
 
 **§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk Tabela D. Tabela stanowisk, kwot wynagrodzenia zasadniczego i dodatku funkcyjnego oraz kwalifikacji regionalnego dyrektora ochrony środowiska i zastępcy regionalnego dyrektora ochrony środowiska Kwota Kwota Wymagane kwalifikacje wynagrodzenia dodatku Lp. Stanowisko liczba lat zasadniczego funkcyjnego wykształcenie w zł w zł do pracy 1 2 3 4 5 6 1 Regionalny dyrektor ochrony 9200–18 400 5257 środowiska według odrębnych przepisów 2 Zastępca regionalnego dyrektora 6571–15 771 3943 ochrony środowiska
+

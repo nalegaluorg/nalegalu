@@ -44,3 +44,7 @@ poz. 76) zarządza się, co następuje:
 
 **§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk WZÓR WZÓR WZÓR WZÓR Załącznik nr 3 WZÓR WZÓR DYPLOMU DYPLOMU STWIERDZAJĄCEGO STWIERDZAJĄCEGO NADANIE NADANIE ODZNAKI ODZNAKI HONOROWEJ HONOROWEJ ZASŁUŻONY ZASŁUŻONY DLA DLA PRZEMYSŁU PRZEMYSŁU NAFTOWEGO NAFTOWEGO I GAZOWNICZEGO I GAZOWNICZEGO
+

@@ -36,3 +36,7 @@ zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebęd�
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk Tabela J. Tabela stanowisk, kwot wynagrodzenia zasadniczego i dodatku funkcyjnego oraz kwalifikacji pracowników zatrudnionych w Biurze Rady Fiskalnej Kwota wynagrodzenia Stawka dodatku Wymagane kwalifikacje Lp. Stanowisko zasadniczego funkcyjnego liczba lat w złotych w złotych do wykształcenie pracy 1 2 3 4 5 6 1 Dyrektor Biura 8000‒22 100 3000 według odrębnych przepisów Rady Fiskalnej Główny 2 księgowy 7400‒18 000 2500 według odrębnych przepisów 3 Naczelnik 6300‒15 000 2000 wyższe 4 wydziału 4 Główny 6000‒14 000 ‒ wyższe 4 specjalista Starszy 5 specjalista 5700‒13 000 ‒ wyższe 2 6 Specjalista 5000‒10 500 ‒ wyższe 1 7 Administrator 4000‒7500 ‒ średnie 2
+

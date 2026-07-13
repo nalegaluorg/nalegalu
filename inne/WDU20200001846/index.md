@@ -48,3 +48,7 @@ poz. 537) zarządza się, co następuje:
 
 **§ 6.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 6 października 2020 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia PrezesaRadyMinistrów z dnia (poz. ) TABELASTANOWISK, STAWEK WYNAGRODZENIA ZASADNICZEGO ORAZWYMAGAŃKWALIFIKACYJNYCH TABELA WZAKRESIE STANOWISK, STAWEK WYKSZTAŁCENIAIPRAKTYKIZAWODOWEJ WYNAGRODZENIA ZASADNICZEGO ORAZ WYMAGAŃ KWALIFIKACYJNYCH W ZAKRESIE WYKSZTAŁCENIA I PRAKTYKI ZAWODOWEJ PRACOWNIKÓW PRACOWNIKÓW KANCELARII KANCELARIIPREZESA PREZESA RADY MINISTRÓW RADY MINISTRÓW Stawka wynagrodzenia Liczba lat Lp. Stanowisko Wykształcenie zasadniczego pracy w złotych 1 2 3 4 5 1 ekspert/ekspertka 4000–8000 wyższe 3 2 asystent/asystentka: Prezesa 3000–7000 wyższe – Rady Ministrów, wiceprezesa Rady Ministrów, ministra, Szefa Kancelarii Prezesa Rady Ministrów, sekretarza stanu, podsekretarza stanu, dyrektora generalnego, dyrektora biura, departamentu (komórki organizacyjnej równorzędnej) 3 administrator/administratorka 2800–6000 średnie – 4 sekretarz/sekretarka: Prezesa 2800–5500 średnie – Rady Ministrów, wiceprezesa Rady Ministrów, ministra, Szefa Kancelarii Prezesa Rady Ministrów, sekretarza stanu, podsekretarza stanu, dyrektora generalnego, dyrektora biura, departamentu (komórki organizacyjnej równorzędnej) 5 operator/operatorka 2800–4000 – –
+

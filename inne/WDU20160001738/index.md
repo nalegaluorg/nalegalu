@@ -61,3 +61,7 @@ w sprawie wzoru i sposobu prowadzenia listy rzeczników patentowych, wzoru legit
 
 **§ 6.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: B. Szydło WZóR LiSty RZecZNikóW PAteNtOWych imię lub imiona Nazwisko Data urodzenia Miejsce urodzenia Wykształcenie Data złożenia egzaminu kwalifikacyjnego Data wydania decyzji w sprawie uznania kwalifikacji do wykonywania na terytorium Rzeczypospolitej Polskiej zawodu rzecznika patentowego Data wpisu na listę rzeczników patentowych Numer Wiadomości Urzędu Patentowego, w którym ogłoszono o wpisie Numer wpisu na listę rzeczników patentowych Miejsce wykonywania zawodu Forma wykonywania zawodu Adres zamieszkania Adres do korespondencji Adres poczty elektronicznej Numer telefonu Adnotacje o odpisach orzeczeń dyscyplinarnych Funkcje pełnione w organach samorządu informacje o zawieszeniu prawa do wykonywania zawodu rzecznika patentowego Data skreślenia z listy rzeczników patentowych Numer Wiadomości Urzędu Patentowego, w którym ogłoszono o skreśleniu Adnotacja o wydaniu legitymacji rzecznika patentowego Załącznik nr 2 WZÓR LEGITYMACJI RZECZNIKA PATENTOWEGO WZóR LeGityMAcJi RZecZNikA PAteNtOWeGO
+

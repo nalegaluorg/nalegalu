@@ -405,3 +405,7 @@ w sprawie przedsięwzięć mogących znacząco oddziaływać na środowisko Na p
 
 **§ 5.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki WSPÓŁCZYNNIKI PRZELICZENIOWE SZTUK ZWIERZĄT NA DUŻE JEDNOSTKI PRZELICZENIOWE (DJP) Lp. Gatunek zwierząt/grupa technologiczna Współczynnik przeliczania sztuk zwierząt zwierząt gospodarskich na DJP 1 2 3 1 Ogiery, klacze, wałachy 1,2 2 Małe konie: hucuły, koniki polskie, kuce 0,6 3 Źrebaki powyżej 2 lat 1 4 Źrebaki od 1 roku do 2 lat 0,8 5 Źrebaki od 1/2 do 1 roku 0,5 6 Źrebięta do 1/2 roku 0,3 7 Buhaje 1,4 8 Krowy 1 9 Jałówki cielne 1 10 Jałówki powyżej 1 roku 0,8 11 Jałówki od 1/2 do 1 roku 0,3 12 Cielęta do 1/2 roku 0,15 13 Kozy 0,15 14 Jelenie 0,29 15 Daniele 0,12 16 Knury 0,4 17 Maciory 0,35 18 Warchlaki od 2 do 4 miesięcy 0,07 19 Prosięta do 2 miesięcy 0,02 20 Tuczniki 0,14 21 Tryki powyżej 1 i 1/2 roku 0,12 22 Owce powyżej 1 i 1/2 roku 0,1 23 Jagnięta do 3 i 1/2 miesiąca 0,05 24 Jarlaki tryczki 0,08 25 Jarlaki maciory 0,1 26 Lisy, jenoty 0,025 27 Norki, tchórze 0,0025 28 Nutrie 0,007 29 Szynszyle 0,001 30 Kury, kaczki 0,004 1 2 3 31 Gęsi 0,008 32 Indyki 0,024 33 Strusie 0,2 34 Perlice 0,003 35 Przepiórki 0,0003 36 Gołębie 0,002 37 Psy 0,05 38 Króliki 0,007 39 Inne zwierzęta o łącznej masie 500 kg, 1 z wyłączeniem ryb
+

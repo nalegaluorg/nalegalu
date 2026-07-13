@@ -46,3 +46,7 @@ z 2016 r. poz. 1713, z późn. zm. ) zarządza się, co następuje:
 
 **§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: B. Szydło Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia (poz. …) WZÓR FORMULARZA MANDATU KARNEGO WZÓR FORMULARZA MANDATU KARNEGO Odcinek A Odcinek B Odcinek C – strona 1 MANDAT KARNY 0000000 Odcinek C – strona 2 Odcinek D – strona 1 MANDAT KARNY 0000000 Odcinek D – strona 2 Odcinek E MANDAT KARNY
+

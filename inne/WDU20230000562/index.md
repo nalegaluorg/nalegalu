@@ -56,3 +56,7 @@ w sprawie wynagrodzeń kuratorów zawodowych i aplikantów kuratorskich Na podst
 
 **§ 7.** Rozporządzenie wchodzi w życie z dniem 5 kwietnia 2023 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki TABELA MNOŻNIKÓW KWOTY BAZOWEJ DLA TYTUŁU HONOROWEGO DYPLOMOWANEGO KURATORA SPECJALISTY, STOPNI SŁUŻBOWYCH KURATORÓW ZAWODOWYCH ORAZ APLIKANTA KURATORSKIEGO Lp. Tytuł honorowy / stopień służbowy Mnożnik kwoty bazowej 1 dyplomowany kurator specjalista 3,26 2 kurator specjalista 2,96 3 starszy kurator zawodowy 2,66 4 kurator zawodowy 2,36 5 aplikant kuratorski 1,65 TABELA STANOWISK ORAZ ODPOWIADAJĄCYCH IM STAWEK DODATKU FUNKCYJNEGO Lp. Stanowisko Procent kwoty bazowej 1 kurator okręgowy 70–110 2 kurator, o którym mowa w art. 37b ust. 1 ustawy 70–110 3 zastępca kuratora okręgowego 50–70 4 kurator, o którym mowa w art. 38 ust. 2 ustawy 50–70 5 kierownik zespołu kuratorskiej służby sądowej 30–50
+

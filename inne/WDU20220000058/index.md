@@ -31,3 +31,7 @@ zmieniające rozporządzenie w sprawie przekazywania Policji informacji o osobie
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki WZÓR UDZIELANEGO POLICJANTOWI IMIENNEGO UPOWAŻNIENIA DO DOSTĘPU DO DANYCH OSOBOWYCH, UZYSKANYCH PRZEZ INNE ORGANY, SŁUŻBY I INSTYTUCJE PAŃSTWOWE W WYNIKU WYKONYWANIA CZYNNOŚCI OPERACYJNO-ROZPOZNAWCZYCH
+

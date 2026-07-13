@@ -34,3 +34,7 @@ z 2022 r. poz. 2290 oraz z 2023 r. poz. 181) zarządza się, co następuje:
 
 **§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki TABELA STANOWISK, STAWEK WYNAGRODZENIA ZASADNICZEGO ORAZ WYMAGAŃ KWALIFIKACYJNYCH W ZAKRESIE WYKSZTAŁCENIA I PRAKTYKI ZAWODOWEJ PRACOWNIKÓW KANCELARII PREZESA RADY MINISTRÓW Stawka Doświadczenie Lp. Stanowisko wynagrodzenia Wykształcenie zawodowe zasadniczego w latach w złotych 1 2 3 4 5 1 główny kierownik / główna kierowniczka projektu 7000–17 300 wyższe 6 2 starszy kierownik / starsza kierowniczka projektu 6500–16 500 wyższe 4 3 młodszy kierownik / młodsza kierowniczka projektu 6000–14 600 wyższe 2 4 ekspert/ekspertka 4000–8700 wyższe 3 asystent/asystentka: Prezesa Rady Ministrów, wiceprezesa Rady Ministrów, ministra, Szefa Kancelarii Prezesa Rady 5 Ministrów, sekretarza stanu, podsekretarza stanu, dyrektora 3600–7600 wyższe – generalnego, dyrektora biura, departamentu (komórki organizacyjnej równorzędnej) 6 administrator/administratorka 3600–6500 średnie – sekretarz/sekretarka: Prezesa Rady Ministrów, wiceprezesa Rady Ministrów, ministra, Szefa Kancelarii Prezesa Rady 7 Ministrów, sekretarza stanu, podsekretarza stanu, dyrektora 3600–6000 średnie – generalnego, dyrektora biura, departamentu (komórki organizacyjnej równorzędnej) 8 operator/operatorka 3600–4500 – –
+

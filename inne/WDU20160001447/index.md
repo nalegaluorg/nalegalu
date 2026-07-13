@@ -31,3 +31,7 @@ w sprawie reorganizacji Instytutu Organizacji i Zarządzania w Przemyśle „ORG
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: B. Szydło Instytut Organizacji i Zarządzania w Przemyśle „ORGMASZ” został utworzony na podstawie uchwały nr 639/53 Rady Ministrów z dnia 22 sierpnia 1953 r. w sprawie utworzenia Instytutu Organizacji Przemysłu Maszynowego, zarządzenia nr 36/Org/86 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 25 marca 1986 r. w sprawie dostosowania organizacji instytutu naukowo-badawczego pod nazwą: Instytut Organizacji i Przemysłu Maszynowego „ORGMASZ” do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych, zarządzenia nr 217/Org/93 Ministra Przemysłu i Handlu z dnia 23 lipca 1993 r. w sprawie zmiany nazwy oraz zmieniającego zarządzenie w sprawie dostosowania organizacji instytutu naukowo-badawczego pod nazwą: Instytut Organizacji i Zarządzania w Przemyśle „ORGMASZ” do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych.
+

@@ -31,3 +31,9 @@ zmieniające rozporządzenie w sprawie wzorów poświadczeń bezpieczeństwa Na 
 
 **§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: E. Kopacz Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia (poz. ...) WZÓR WZÓR POŚWIADCZENIE BEZPIECZEŃSTWA NR __________________________ Na podstawie art. 28 pkt 1 w związku z art. 11 ust. 2 i 3 ustawy z dnia 5 sierpnia 2010 r.
+o ochronie informacji niejawnych (Dz. U. Nr 182, poz. 1228), po przeprowadzeniu na wniosek ___________________________________________________________________________ przez ______________________________________________________________________ poszerzonego postępowania sprawdzającego, stwierdza się, że Pani (Pan) ___________________________________________________________________________ daje rękojmię zachowania tajemnicy w zakresie dostępu do informacji niejawnych ___________________________________________________________________________ oznaczonych klauzulą: _____________________________ – na okres do: _____________________________ _____________________________ – na okres do:* _____________________________ _____________________________ – na okres do:* _____________________________ ______________________ ___________________________________ mp.
+11/10/EP
+

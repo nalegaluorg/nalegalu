@@ -76,3 +76,24 @@ w sprawie sposobu udzielania dostępu do aplikacji SHRIMP Na podstawie art. 32 u
 
 **§ 6.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Formularz zgłoszeniowy do aplikacji SHRIMP WZÓR FORMULARZA ZGŁOSZENIOWEGO Urząd Ochrony Konkurencji i Konsumentów Formularz plac Powstańców zgłoszeniowy Warszawy do 1, aplikacji 00-950 Warszawa SHRIMP Elektroniczna Urząd skrzynka Ochrony podawcza Konkurencji ePUAP: i Konsumentów /UOKiK/SkrytkaESP plac Powstańców Warszawy 1, 00-950 Warszawa wniosek o udzielenie Elektroniczna dostępu skrzynka podawcza ePUAP: aktualizacja /UOKiK/SkrytkaESP danych wniosek o udzielenie dostępu aktualizacja danych __________ __–___ __________ __–___ bezterminowy czasowy bezterminowy czasowy ____ ____ WZÓR FORMULARZA ZGŁOSZENIOWEGO Formularz zgłoszeniowy SH1 do aplikacji SHRIMP Formularz zgłoszeniowy SH1 do aplikacji SHRIMP Numer zgłoszenia Ministerstwo Finansów (wypełnia MF) Numer zgłoszenia 00-916 Warszawa, ul. Świętokrzyska 12 Ministerstwo Finansów (wypełnia MF) SH1/................../........
+00-916 Warszawa, ul. Świętokrzyska 12 e-mail: shrimp@mf.gov.pl SH1/................../........
+tel.: (22) 694-4817, (22) 694-4031 e-mail: shrimp@mf.gov.pl
+1. Typ zgłoszenia: tel.: (22) 694-4817, (22) 694-4031 2. Data zgłoszenia:
+2. Data zgłoszenia:
+1. Typ zgłoszenia:
+3. Kod organu: 4. Nazwa organu:
+3. Kod organu: 4. Nazwa organu:
+5. Nazwisko i imię: 6. Stanowisko:
+5. Nazwisko i imię: 6. Stanowisko:
+7. Adres poczty elektronicznej: 8. Telefon (z numerem kierunkowym):
+7. Adres poczty elektronicznej: 8. Telefon (z numerem kierunkowym): Monitorowanie
+9. Uprawnienia: Sprawozdania Monitorowanie
+9. Uprawnienia: Raporty Sprawozdania Raporty
+10. Uwagi:
+10. Uwagi: ..........................................................
+(data i podpis osoby upoważnionej) ..........................................................
+(data i podpis osoby upoważnionej)
+

@@ -333,3 +333,24 @@ poz. 742, z późn. zm. ) zarządza się, co następuje:
 
 **§ 24.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk Załącznik do rozporządzenia z dnia (poz. ) WZÓR WZÓR WNIOSEK O PRZYZNANIE NAGRODY PREZESA RADY MINISTRÓW WNIOSKODAWCA nazwa podmiotu imię i nazwisko pełniona funkcja adres do korespondencji numer telefonu adres poczty elektronicznej Wnioskuję o przyznanie nagrody Prezesa Rady Ministrów za : □ wyróżniającą się rozprawę doktorską □ wysoko ocenione osiągnięcia będące podstawą nadania stopnia doktora habilitowanego □ osiągnięcia w zakresie działalności naukowej, w tym twórczości artystycznej, lub działalności wdrożeniowej KANDYDAT DO NAGRODY imiona i nazwisko tytuł zawodowy, stopień naukowy, stopień w zakresie sztuki, tytuł profesora dziedzina nauki albo sztuki dyscyplina naukowa albo artystyczna miejsce zatrudnienia określenie procentowego udziału w powstaniu osiągnięcia
+TYTUŁ (NAZWA) I OPIS OSIĄGNIĘCIA KANDYDATA DO NAGRODY Miejscowość, data, podpis DOKUMENTY PRZEDKŁADANE WRAZ Z WNIOSKIEM
+1)
+2)
+3) … Oświadczam, że informacje zawarte we wniosku są zgodne ze stanem faktycznym i prawnym.
+Miejscowość, data, podpis Wyrażam zgodę na przesyłanie korespondencji za pomocą środków komunikacji elektronicznej, o których mowa w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U.
+z 2020 r. poz. 344).
+Miejscowość, data, podpis Objaśnienia: Należy zaznaczyć właściwy kwadrat.
+W przypadku wniosku o przyznanie nagrody zespołowej należy wpisać dane członków zespołu, rozpoczynając od danych osoby kierującej pracami zespołu.
+Należy wypełnić, jeżeli wniosek dotyczy nagrody zespołowej.
+Należy wpisać odpowiednio do rodzaju nagrody:
+a) w przypadku nagrody za wyróżniającą się rozprawę doktorską: – tytuł rozprawy doktorskiej, – zwięzły opis przedmiotu rozprawy doktorskiej, – datę obrony rozprawy doktorskiej, – datę nadania stopnia naukowego doktora albo doktora w zakresie sztuki, – nazwę podmiotu doktoryzującego, w którym zostało przeprowadzone postępowanie w sprawie nadania stopnia doktora albo przewód doktorski, – informację o trybie przygotowania rozprawy doktorskiej,
+b) w przypadku nagrody za wysoko ocenione osiągnięcia będące podstawą nadania stopnia doktora habilitowanego: – datę nadania stopnia naukowego doktora habilitowanego albo doktora habilitowanego w zakresie sztuki, – nazwę podmiotu habilitującego, w którym zostało przeprowadzone postępowanie w sprawie nadania stopnia doktora habilitowanego albo postępowanie habilitacyjne, – zwięzły opis wyróżniających się osiągnięć będących podstawą nadania stopnia doktora habilitowanego,
+c) w przypadku nagrody za osiągnięcia w zakresie działalności naukowej, w tym twórczości artystycznej, lub działalności wdrożeniowej, stosownie do zakresu osiągnięcia, zwięzłą informację o: – publikacjach naukowych kandydata do nagrody, – przebiegu badań naukowych lub prac rozwojowych, lub działań artystycznych, w wyniku których zostało uzyskane osiągnięcie objęte wnioskiem, – w przypadku wniosku o przyznanie nagrody zespołowej – zwięzłą informację o składzie zespołu, utworzeniu, celach zespołu oraz wskazanie zasięgu jego działania, – sposobie wykorzystania wyników badań naukowych lub prac rozwojowych, lub działań artystycznych, wraz ze wskazaniem podmiotu, który je wykorzystał, lub – działaniach podjętych przez kandydata do nagrody, zmierzających do komercjalizacji wyników działalności naukowej oraz know-how związanego z tymi wynikami lub o wynikach komercjalizacji przeprowadzonej przez kandydata.
+Wskazanie osiągnięcia kandydata do nagrody nie powinno przekraczać 5000 znaków.
+W przypadku gdy wskazanie osiągnięcia kandydata do nagrody przekracza dopuszczalną liczbę znaków, należy je sporządzić w formie odrębnego dokumentu i przedłożyć wraz z wnioskiem.
+Należy w szczególności wykazać spełnienie kryteriów określonych w § 3–5 lub § 21 rozporządzenia Prezesa Rady Ministrów z dnia 15 lipca 2024 r. w sprawie kryteriów i trybu przyznawania nagród Prezesa Rady Ministrów oraz wzoru wniosku o ich przyznanie (Dz. U.
+poz. 1099).
+

@@ -1,35 +1,35 @@
 # Publish Summary
 
-Generated: 2026-07-12 22:59 UTC
+Generated: 2026-07-13 08:52 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
-| Published public acts | 20246 |
-| Updated/new | 20246 |
+| Published public acts | 20222 |
+| Updated/new | 20222 |
 | Unchanged | 0 |
 | Skipped incomplete orzeczenia | 0 |
 | Skipped regressions | 0 |
-| Blocked by quality gate | 603 |
-| Rejected (total incl. errors) | 6148 |
+| Blocked by quality gate | 627 |
+| Rejected (total incl. errors) | 6172 |
 | Total in DB | 27227 |
 
 ## Changes vs previous publish
 
 | Metric | Previous | Current | Delta |
 |--------|----------|---------|-------|
-| Published | 20287 | 20246 | -41 |
-| Rejected | 6105 | 6148 | +43 |
-| Articles | 203359 | 188626 | -14733 |
-| Body chars | 589,917,515 | 599,116,161 | +9198646 |
+| Published | 20246 | 20222 | -24 |
+| Rejected | 6148 | 6172 | +24 |
+| Articles | 188626 | 188626 | 0 |
+| Body chars | 599,116,161 | 599,787,246 | +671085 |
 
 ## Quality gate breakdown
 
 | Issue type | Count |
 |------------|-------|
-| character-spaced | 192 |
-| pipeline error | 137 |
+| character-spaced | 193 |
+| pipeline error | 160 |
 | article structure | 77 |
 | other | 77 |
 | repetition | 75 |
@@ -75,15 +75,15 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Value | Count |
 |-------|------:|
-| Rozporządzenie | 11219 |
+| Rozporządzenie | 11218 |
 | Ustawa | 4740 |
 | Obwieszczenie | 2532 |
 | Orzeczenie | 1338 |
-| Umowa międzynarodowa | 357 |
+| Umowa międzynarodowa | 335 |
 | Protokół | 18 |
 | Dekret | 8 |
 | Konwencja | 8 |
-| Porozumienie | 8 |
+| Porozumienie | 7 |
 | Postanowienie | 6 |
 | Uchwała | 5 |
 | Oświadczenie rządowe | 4 |
@@ -95,7 +95,7 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Value | Count |
 |-------|------:|
-| obowiązujący | 13027 |
+| obowiązujący | 13003 |
 | akt objęty tekstem jednolitym | 5310 |
 | akt posiada tekst jednolity | 1909 |
 
@@ -103,7 +103,7 @@ Diagnostic for long in-force `U`/`T` PDF candidates. Missing numeric article fam
 
 | Value | Count |
 |-------|------:|
-| inne | 19376 |
+| inne | 19352 |
 | prawo-podatkowe | 195 |
 | prawo-karne | 159 |
 | prawo-cywilne | 135 |
@@ -141,228 +141,36 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | U | 859 |
 | unknown | 3 |
 
-## Newly rejected (169)
+## Newly rejected (24)
 
 | Address | Reason |
 |---------|--------|
-| WDU19460540305 | missing article structure — act type requires Art. markers b |
-| WDU19460720394 | missing article structure — act type requires Art. markers b |
-| WDU19500130125 | missing article structure — act type requires Art. markers b |
-| WDU19500290270 | missing article structure — act type requires Art. markers b |
-| WDU19600510297 | missing article structure — act type requires Art. markers b |
-| WDU19640090060 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU19640150086 | missing article structure — act type requires Art. markers b |
-| WDU19640160094 | missing article structure — act type requires Art. markers b |
-| WDU19640430297 | missing article structure — act type requires Art. markers b |
-| WDU19690210151 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU19710120115 | missing article structure — act type requires Art. markers b |
-| WDU19710160156 | missing article structure — act type requires Art. markers b |
-| WDU19740240142 | missing article structure — act type requires Art. markers b |
-| WDU19820110081 | missing article structure — act type requires Art. markers b |
-| WDU19840360191 | missing article structure — act type requires Art. markers b |
-| WDU19850370174 | missing article structure — act type requires Art. markers b |
-| WDU19860120072 | missing article structure — act type requires Art. markers b |
-| WDU19860390193 | missing article structure — act type requires Art. markers b |
-| WDU19870280157 | missing article structure — act type requires Art. markers b |
-| WDU19890340179 | missing article structure — act type requires Art. markers b |
-| WDU19890640388 | missing article structure — act type requires Art. markers b |
-| WDU19890640391 | missing article structure — act type requires Art. markers b |
-| WDU19900340197 | missing article structure — act type requires Art. markers b |
-| WDU19900340199 | missing article structure — act type requires Art. markers b |
-| WDU19900440256 | missing article structure — act type requires Art. markers b |
-| WDU19900530306 | missing article structure — act type requires Art. markers b |
-| WDU19900660390 | missing article structure — act type requires Art. markers b |
-| WDU19900720422 | missing article structure — act type requires Art. markers b |
-| WDU19911100475 | missing article structure — act type requires Art. markers b |
-| WDU19940680294 | missing article structure — act type requires Art. markers b |
-| WDU19940870406 | missing article structure — act type requires Art. markers b |
-| WDU19950160079 | missing article structure — act type requires Art. markers b |
-| WDU19950280143 | missing article structure — act type requires Art. markers b |
-| WDU19950950473 | missing article structure — act type requires Art. markers b |
-| WDU19960230102 | missing article structure — act type requires Art. markers b |
-| WDU19960320139 | missing article structure — act type requires Art. markers b |
-| WDU19960410176 | missing article structure — act type requires Art. markers b |
-| WDU19961430663 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU19961470686 | missing article structure — act type requires Art. markers b |
-| WDU19970300165 | missing article structure — act type requires Art. markers b |
-| WDU19970800494 | missing article structure — act type requires Art. markers b |
-| WDU19970930569 | missing article structure — act type requires Art. markers b |
-| WDU19971581042 | missing article structure — act type requires Art. markers b |
-| WDU19971601079 | missing article structure — act type requires Art. markers b |
-| WDU19980980610 | missing article structure — act type requires Art. markers b |
-| WDU19981080683 | missing article structure — act type requires Art. markers b |
-| WDU19981130715 | missing article structure — act type requires Art. markers b |
-| WDU19981170758 | missing article structure — act type requires Art. markers b |
-| WDU20021691384 | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20022131803 | missing article structure — act type requires Art. markers b |
-| WDU20042542533 | missing article structure — act type requires Art. markers b |
-| WDU20080960606 | missing article structure — act type requires Art. markers b |
-| WDU20081340850 | known PDF extraction failure — article structure is lost in  |
-| WDU20102291494 | known two-column PDF extraction failure — Art. 2 is merged i |
-| WDU20120000013 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20120000566 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20120000977 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20130001466 | rendered round-trip failed: AST=3 rendered=3 empty_articles= |
-| WDU20140000242 | excessive repetition — '.................................... |
-| WDU20140000589 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20140001961 | rendered round-trip failed: AST=3 rendered=1 missing_rendere |
-| WDU20150000175 | rendered round-trip failed: AST=2 rendered=2 word_loss=1 FAI |
-| WDU20150000857 | rendered round-trip failed: AST=12 rendered=12 low_sim=1 FAI |
-| WDU20150002016 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20150002044 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20150002098 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20150002327 | CID font encoding failure — unreadable glyphs (4 occurrence( |
-| WDU20160001557 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20160002244 | missing article structure — act type requires Art. markers b |
-| WDU20170000123 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20170000183 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20170000766 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20170000963 | rendered round-trip failed: AST=11 rendered=12 extra_rendere |
-| WDU20170001605 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20170002166 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20180000268 | rendered round-trip failed: AST=34 rendered=34 missing_child |
-| WDU20180000367 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20180000593 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20180001199 | rendered round-trip failed: AST=6 rendered=1 missing_rendere |
-| WDU20180001203 | rendered round-trip failed: AST=4 rendered=1 missing_rendere |
-| WDU20180001204 | rendered round-trip failed: AST=4 rendered=1 missing_rendere |
-| WDU20180002181 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20180002217 | rendered round-trip failed: AST=2 rendered=2 low_sim=1 FAIL; |
-| WDU20190000246 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20190000247 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20190000259 | excessive repetition — '.................................... |
-| WDU20190000735 | rendered round-trip failed: AST=7 rendered=7 low_sim=1 FAIL; |
-| WDU20190001483 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20190001497 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20190001672 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20190002311 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20200000150 | missing article structure — act type requires Art. markers b |
-| WDU20200000772 | rendered round-trip failed: AST=3 rendered=3 low_sim=1 FAIL; |
-| WDU20200001934 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20210000329 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20210000411 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20210000439 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20210000755 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20210000817 | rendered round-trip failed: AST=4 rendered=4 low_sim=1 FAIL; |
-| WDU20210000885 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20210001110 | CID font encoding failure — unreadable glyphs (2 occurrence( |
-| WDU20210001120 | CID font encoding failure — unreadable glyphs (4 occurrence( |
-| WDU20210001628 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20210001632 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20210001710 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20210001786 | excessive repetition — '.................................... |
-| WDU20210001821 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20210002471 | rendered round-trip failed: AST=12 rendered=12 low_sim=1 FAI |
-| WDU20220000332 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20220001119 | rendered round-trip failed: AST=2 rendered=2 low_sim=1 FAIL; |
-| WDU20220001120 | rendered round-trip failed: AST=2 rendered=2 low_sim=1 FAIL; |
-| WDU20220001238 | rendered round-trip failed: AST=1 rendered=2 extra_rendered= |
-| WDU20220001998 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20220002054 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20220002070 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20220002372 | rendered round-trip failed: AST=2 rendered=2 low_sim=1 word_ |
-| WDU20220002380 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20230000119 | CID font encoding failure — unreadable glyphs (2 occurrence( |
-| WDU20230000167 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20230000584 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20230000870 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20230001112 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230001471 | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20230001706 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230001739 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20230001765 | rendered round-trip failed: AST=9 rendered=9 low_sim=1 FAIL; |
-| WDU20230002056 | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20230002127 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230002180 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20230002304 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230002334 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20230002358 | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20230002429 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20230002555 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20230002659 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230002673 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240000009 | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20240000110 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240000158 | rendered round-trip failed: AST=7 rendered=7 empty_articles= |
-| WDU20240000333 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20240000342 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240000439 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240000514 | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20240000537 | CID font encoding failure — unreadable glyphs (2 occurrence( |
-| WDU20240000584 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20240000637 | CID font encoding failure — unreadable glyphs (3 occurrence( |
-| WDU20240000642 | CID font encoding failure — unreadable glyphs (2 occurrence( |
-| WDU20240000702 | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20240000748 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20240000780 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240000870 | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20240000934 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20240000950 | CID font encoding failure — unreadable glyphs (2 occurrence( |
-| WDU20240000954 | CID font encoding failure — unreadable glyphs (4 occurrence( |
-| WDU20240000964 | CID font encoding failure — unreadable glyphs (3 occurrence( |
-| WDU20240001022 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240001024 | CID font encoding failure — unreadable glyphs (2 occurrence( |
-| WDU20240001040 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240001197 | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20240001216 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240001327 | CID font encoding failure — unreadable glyphs (4 occurrence( |
-| WDU20240001612 | CID font encoding failure — unreadable glyphs (3 occurrence( |
-| WDU20240001638 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240001716 | character-spaced text — 3 line(s) with >30% single-letter wo |
-| WDU20240001851 | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240001936 | excessive repetition — 'Wyjaśnienia do PKD 2025' appears 51  |
-| WDU20240001953 | CID font encoding failure — unreadable glyphs (2 occurrence( |
-| WDU20250001477 | rendered round-trip failed: AST=9 rendered=9 low_sim=1 FAIL; |
-| WDU20260000673 | rendered round-trip failed: AST=11 rendered=11 missing_child |
+| WDU20120000814 | ELI failed quality check |
+| WDU20140000008 | ELI failed quality check |
+| WDU20140000034 | ELI failed quality check |
+| WDU20140000077 | ELI failed quality check |
+| WDU20140000165 | ELI failed quality check |
+| WDU20140000313 | ELI failed quality check |
+| WDU20140000461 | ELI failed quality check |
+| WDU20140000479 | ELI failed quality check |
+| WDU20140001318 | ELI failed quality check |
+| WDU20140001324 | ELI failed quality check |
+| WDU20150001654 | ELI failed quality check |
+| WDU20150001656 | ELI failed quality check |
+| WDU20150001681 | ELI failed quality check |
+| WDU20150001758 | ELI failed quality check |
+| WDU20150001761 | ELI failed quality check |
+| WDU20150002112 | ELI failed quality check |
+| WDU20150002159 | ELI failed quality check |
+| WDU20150002172 | ELI failed quality check |
+| WDU20180001988 | ELI failed quality check |
+| WDU20180002019 | ELI failed quality check |
+| WDU20180002021 | ELI failed quality check |
+| WDU20180002088 | ELI failed quality check |
+| WDU20190000344 | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20210000330 | ELI failed quality check |
 
-## Fixed — no longer rejected (42)
-
-| Address |
-|---------|
-| WDU19890100056 |
-| WDU19960430189 |
-| WDU20091180989 |
-| WDU20111701015 |
-| WDU20130000035 |
-| WDU20180002314 |
-| WDU20180002367 |
-| WDU20180002388 |
-| WDU20190000235 |
-| WDU20190001751 |
-| WDU20200000782 |
-| WDU20200002255 |
-| WDU20210000472 |
-| WDU20210002467 |
-| WDU20210002484 |
-| WDU20240001717 |
-| WDU20250000097 |
-| WDU20250000119 |
-| WDU20250000131 |
-| WDU20250000134 |
-| WDU20250000231 |
-| WDU20250000378 |
-| WDU20250000804 |
-| WDU20250000958 |
-| WDU20250000961 |
-| WDU20250001051 |
-| WDU20250001592 |
-| WDU20250001593 |
-| WDU20250001719 |
-| WDU20250001748 |
-| WDU20250001799 |
-| WDU20250001805 |
-| WDU20250001856 |
-| WDU20260000280 |
-| WDU20260000300 |
-| WDU20260000307 |
-| WDU20260000464 |
-| WDU20260000487 |
-| WDU20260000488 |
-| WDU20260000550 |
-| WDU20260000553 |
-| WDU20260000649 |
-
-## Blocked acts (603)
+## Blocked acts (627)
 
 | Address | Issues |
 |---------|--------|
@@ -540,6 +348,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20120000566 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20120000638 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20120000663 | excessive repetition — '..................................................…' appears 24 times (likely PDF header/footer) |
+| WDU20120000814 | ELI failed quality check |
 | WDU20120000837 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20120000977 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20130000057 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
@@ -549,13 +358,22 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20130000829 | rendered round-trip failed: AST=59 rendered=59 dup_rendered=8 low_sim=8 word_loss=4 missing_child_markers=3 FAIL; word loss: 28, 30, 31, 32; low similarity: 27, 28, 29, 30, 31, 32, 33, 34; missing child markers: 28, 30, 32 |
 | WDU20130001246 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20130001466 | rendered round-trip failed: AST=3 rendered=3 empty_articles=1 FAIL |
+| WDU20140000008 | ELI failed quality check |
+| WDU20140000034 | ELI failed quality check |
+| WDU20140000077 | ELI failed quality check |
+| WDU20140000165 | ELI failed quality check |
 | WDU20140000242 | excessive repetition — '..................................................…' appears 34 times (likely PDF header/footer) |
+| WDU20140000313 | ELI failed quality check |
 | WDU20140000324 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20140000461 | ELI failed quality check |
+| WDU20140000479 | ELI failed quality check |
 | WDU20140000588 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20140000589 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20140000606 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20140000897 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20140001127 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20140001318 | ELI failed quality check |
+| WDU20140001324 | ELI failed quality check |
 | WDU20140001381 | omitted-provisions quotation ran into the next item ('4) art. 2 i art. 3 ustawy z dnia 5 września 2008 r. o zmiani') without a confirmed close — closing quote was likely lost |
 | WDU20140001593 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20140001597 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
@@ -574,9 +392,17 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20150000796 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20150000857 | rendered round-trip failed: AST=12 rendered=12 low_sim=1 FAIL; low similarity: 12 |
 | WDU20150001209 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20150001654 | ELI failed quality check |
+| WDU20150001656 | ELI failed quality check |
+| WDU20150001681 | ELI failed quality check |
+| WDU20150001758 | ELI failed quality check |
+| WDU20150001761 | ELI failed quality check |
 | WDU20150002016 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20150002044 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries; excessive repetition — '2. Nie 2 Jeżeli Tak → przez ile miesięcy?' appears 21 times (likely PDF header/footer) |
 | WDU20150002098 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20150002112 | ELI failed quality check |
+| WDU20150002159 | ELI failed quality check |
+| WDU20150002172 | ELI failed quality check |
 | WDU20150002327 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20160000035 | rendered round-trip failed: AST=19 rendered=19 empty_articles=3 FAIL |
 | WDU20160000423 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
@@ -638,7 +464,11 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20180001679 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001790 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180001856 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20180001988 | ELI failed quality check |
+| WDU20180002019 | ELI failed quality check |
+| WDU20180002021 | ELI failed quality check |
 | WDU20180002058 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20180002088 | ELI failed quality check |
 | WDU20180002180 | excessive repetition — '3. zasięg geograficzny obszaru, którego dotyczy in…' appears 53 times (likely PDF header/footer) |
 | WDU20180002181 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20180002217 | rendered round-trip failed: AST=2 rendered=2 low_sim=1 FAIL; low similarity: 2 |
@@ -652,6 +482,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20190000247 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190000259 | excessive repetition — '..................................................…' appears 67 times (likely PDF header/footer) |
 | WDU20190000279 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
+| WDU20190000344 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190000500 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20190000552 | omitted-provisions quotation swallowed a structural boundary ('§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od ROZ') — closing quote was likely lost |
 | WDU20190000554 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
@@ -702,6 +533,7 @@ Candidate diagnostics below come from local rendered files and DB metadata. They
 | WDU20200002328 | character-spaced text — 18 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20210000056 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR with broken word boundaries |
 | WDU20210000329 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
+| WDU20210000330 | ELI failed quality check |
 | WDU20210000411 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20210000439 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |
 | WDU20210000755 | missing paragraph structure — consolidated rozporządzenie renders no § markers; attached act likely missing or swallowed |

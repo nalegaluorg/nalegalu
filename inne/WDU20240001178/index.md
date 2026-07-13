@@ -31,3 +31,9 @@ w sprawie reorganizacji Instytutu Fizyki Plazmy i Laserowej Mikrosyntezy im. Syl
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk Instytut Fizyki Plazmy i Laserowej Mikrosyntezy im. Sylwestra Kaliskiego został utworzony na podstawie zarządzenia nr 44 Prezesa Rady Ministrów z dnia 25 lipca 1975 r. w sprawie utworzenia Instytutu Fizyki Plazmy i Laserowej Mikrosyntezy, zmienionego zarządzeniem nr 61 Prezesa Rady Ministrów z dnia 5 października 1978 r. oraz zarządzeniem nr 12 Prezesa Rady Ministrów z dnia 25 stycznia 1979 r.
+Do dnia wejścia w życie niniejszego rozporządzenia nadzór nad Instytutem Fizyki Plazmy i Laserowej Mikrosyntezy im. Sylwestra Kaliskiego z siedzibą w Warszawie sprawował minister właściwy do spraw energii na podstawie rozporządzenia Rady Ministrów z dnia 31 sierpnia 2016 r. w sprawie reorganizacji Instytutu Fizyki Plazmy i Laserowej Mikrosyntezy im. Sylwestra Kaliskiego (Dz. U.
+poz. 1465).
+

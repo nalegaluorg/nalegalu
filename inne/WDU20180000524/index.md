@@ -31,3 +31,7 @@ w sprawie reorganizacji Przemysłowego Instytutu Automatyki i Pomiarów w Warsza
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Przemysłowy Instytut Automatyki i Pomiarów w Warszawie utworzony zarządzeniem nr 112 Ministra Przemysłu Ciężkiego z dnia 25 maja 1965 r. w sprawie utworzenia Przemysłowego Instytutu Automatyki i Pomiarów, zmienionym zarządzeniem nr 10/Org/86 Ministra Hutnictwa i Przemysłu Maszynowego z dnia 5 marca 1986 r. w sprawie dostosowania organizacji instytutu naukowo-badawczego pod nazwą Przemysłowy Instytut Automatyki i Pomiarów do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych, zmienionym rozporządzeniem Rady Ministrów z dnia 27 grudnia 2010 r. w sprawie połączenia Przemysłowego Instytutu Automatyki i Pomiarów oraz Ośrodka Badawczo-Rozwojowego Urządzeń Sterowania Napędów (Dz. U. poz. 1763).
+

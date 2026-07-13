@@ -124,3 +124,36 @@ w sprawie udostępniania informacji i danych niezbędnych do realizacji inwestyc
 
 **§ 8.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki LISTA REJESTRÓW, EWIDENCJI, WYKAZÓW I ARCHIWÓW, Z KTÓRYCH SĄ UDOSTĘPNIANE INFORMACJE I DANE NIEZBĘDNE DO WYKONYWANIA PRZEZ INWESTORA ZADAŃ ZWIĄZANYCH Z REALIZACJĄ INWESTYCJI W ZAKRESIE BUDOWY OBIEKTU ENERGETYKI JĄDROWEJ ORAZ INWESTYCJI TOWARZYSZĄCYCH, ORAZ WYKAZ PODMIOTÓW I ORGANÓW PROWADZĄCYCH TE REJESTRY, EWIDENCJE, WYKAZY I ARCHIWA OBOWIĄZANYCH DO PRZEKAZYWANIA INFORMACJI I DANYCH Lp. Nazwa podmiotu i organu Nazwa rejestru, ewidencji, wykazu i archiwum 1 Państwowy Instytut Geologiczny – 1. Narodowe Archiwum Geologiczne Państwowy Instytut Badawczy 2. Centralna Baza Danych Geologicznych
+3. System Gospodarki i Ochrony Bogactw Mineralnych MIDAS
+4. System informacji geologicznej Infogeoskarb
+5. Baza danych System Osłony Przeciwosuwiskowej – SOPO
+6. Centralny Bank Danych Hydrogeologicznych – Bank HYDRO
+7. Bank Danych Wód Podziemnych Zaliczonych do Kopalin – Bank Wód Mineralnych
+8. Baza Danych Monitoring Wód Podziemnych
+9. Baza Danych Głównych Zbiorników Wód Podziemnych
+10. Baza danych systemu informacji geograficznej (GIS) Mapy obszarów zagrożonych podtopieniami – Podtopienia
+11. Baza danych systemu informacji geograficznej (GIS) Mapy Hydrogeologicznej Polski (MHP) w skali 1:50 000
+12. Baza danych systemu informacji geograficznej (GIS) zasobów dyspozycyjnych wód podziemnych dla obszaru Polski
+13. Baza danych o poborze rejestrowanym z ujęć wód podziemnych – Pobory
+14. Baza Danych Geologiczno-Inżynierskich (BDGI)
+15. Geologiczno-inżynierskie uwarunkowania budowy dróg i linii kolejowych (Inwestycje transportowe)
+16. Baza Danych Map geologiczno-inżynierskich Polskich (MgiP)
+17. Monitoring geodynamiczny Polski
+18. Interferometryczny Monitoring Powierzchni Terenu Polski
+19. Współczesna geodynamika Polski pod kątem bezpiecznego zagospodarowania głębokiej przestrzeni podziemnej 2 Główny Geodeta Kraju 1. Krajowa baza danych geodezyjnej ewidencji sieci uzbrojenia terenu (K-GESUT)
+2. Zbiór fotogrametycznych zdjęć lotniczych 3 Instytut Meteorologii i Gospodarki Baza danych pomiarowo-obserwacyjnych z zakresu meteorologii i hydroWodnej – Państwowy Instytut logii z sieci stacji pomiarowo-obserwacyjnych państwowej służby hydroBadawczy logiczno-meteorologicznej (PSHM) 4 Państwowe Gospodarstwo Wodne System informacyjny gospodarowania wodami „Wody Polskie” 5 Narodowy Instytut Onkologii – Krajowy Rejestr Nowotworów Państwowy Instytut Badawczy 6 Narodowy Instytut Zdrowia Bazy danych dotyczących zdrowia ludności Publicznego Państwowy Zakład Higieny – Państwowy Instytut Badawczy 7 Prezes Państwowej Agencji Bazy danych z informacjami otrzymywanymi ze stacji wczesnego wykryAtomistyki wania skażeń promieniotwórczych oraz z placówek prowadzących pomiary skażeń promieniotwórczych, istotnych dla oceny sytuacji radiacyjnej kraju 8 Właściwy miejscowo marszałek 1. Mapy topograficzne w skalach 1:10 000, 1:25 000, 1:50 000 i 1:100 000, województwa w postaci rastrowej i wektorowej
+2. Baza danych obiektów topograficznych (BDOT10k) 9 Właściwy miejscowo starosta 1. Baza danych ewidencji gruntów i budynków (baza danych EGiB)
+2. Baza danych obiektów topograficznych o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:500–1:5000 (BDOT500)
+3. Baza danych geodezyjnej ewidencji sieci uzbrojenia terenu (GESUT)
+4. Raporty (rejestry, kartoteki, skorowidze, wykazy, zestawienia) tworzone na podstawie bazy danych EGiB
+5. Operat ewidencyjny
+6. Rejestr cen nieruchomości
+7. Mapa zasadnicza
+8. Kartograficzne opracowania tematyczne i specjalne oraz niestandardowe opracowania topograficzne 10 Generalny Dyrektor Ochrony 1. Centralny Rejestr Form Ochrony Przyrody Środowiska 2. Rejestr bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku
+3. Rejestr historycznych zanieczyszczeń powierzchni ziemi 11 Instytut Geofizyki Polskiej 1. Polska Sieć Sejsmologiczna Akademii Nauk 2. Archiwa dotyczące aktywności sejsmologicznej na terenie Polski 12 Główny Instytut Górnictwa Górnośląska Regionalna Sieć Sejsmologiczna (GRSS) 13 Prezes Wyższego Urzędu 1. Archiwum Dokumentacji Mierniczo-Geologicznej Górniczego 2. Rejestr dokumentacji mierniczo-geologicznych 14 Instytut Uprawy Nawożenia 1. Baza danych charakteryzująca budowę i właściwości pokrywy glebowej i Gleboznawstwa – Państwowy zawarte na Mapie glebowo-rolniczej w skalach 1:25 000 i 1:100 000 Instytut Badawczy w formacie wektorowym
+2. Baza danych punktowych monitoringu chemizmu gleb i oceny podstawowych właściwości fizykochemicznych gleb utworzona w ramach realizacji projektów badawczych, badawczo-wdrożeniowych oraz oceny Programu Rozwoju Obszarów Wiejskich (PROW) w skali kraju i poszczególnych regionów
+3. Baza danych chrakteryzująca przestrzenną zmienność występowania suszy rolniczej w Polsce na poziomie gmin w latach 2007–2022 utworzona w ramach realizacji Systemu Monitoringu Suszy Rolniczej w kraju 15 Prezes Agencji Restrukturyzacji Dane znajdujące się w prowadzonych przez Agencję Restrukturyzacji i Modernizacji Rolnictwa i Modernizacji Rolnictwa rejestrach, ewidencjach oraz wykazach, w szczególności w Krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (KSEP) 16 Główny Inspektor Ochrony Państwowy Monitoring Środowiska Środowiska
+

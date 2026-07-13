@@ -125,3 +125,10 @@ w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami pieniądza elektr
 
 **§ 14.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki WZÓR DEKLARACJA O WYSOKOŚCI WPŁATY OD KRAJOWEJ INSTYTUCJI PIENIĄDZA ELEKTRONICZNEGO NA POKRYCIE KOSZTÓW NADZORU ZA ROK … Nazwa krajowej instytucji pieniądza elektronicznego: .................................................................................................
+.................................................................................................
+NIP: ........................................................................................
+Dane, w tym kwoty Poz. Wyszczególnienie zaokrąglone do pełnych złotych 1 Ustalona przez krajową instytucję pieniądza elektronicznego na dzień 1 stycznia danego roku kalendarzowego średnia arytmetyczna sum zobowiązań finansowych z tytułu wydanego pieniądza elektronicznego danej krajowej instytucji pieniądza elektronicznego obliczonych na koniec każdego dnia kalendarzowego w okresie poprzednich dwunastu miesięcy kalendarzowych 2 Ustalona przez krajową instytucję pieniądza elektronicznego na dzień 1 stycznia następnego roku kalendarzowego średnia arytmetyczna sum zobowiązań finansowych z tytułu wydanego pieniądza elektronicznego danej krajowej instytucji pieniądza elektronicznego obliczonych na koniec każdego dnia kalendarzowego w okresie poprzednich dwunastu miesięcy kalendarzowych 3 Wysokość stawki obliczonej zgodnie z § 2 ust. 3 i 6 rozporządzenia za następny rok kalendarzowy 4 Wysokość należnej wpłaty obliczonej zgodnie z § 2 ust. 1 rozporządzenia za następny rok kalendarzowy 5 Wysokość stawki obliczonej zgodnie z § 2 ust. 6 i § 4 ust. 2 rozporządzenia za dany rok kalendarzowy 6 Wysokość kwoty wynikającej z rozliczenia należnej wpłaty, o której mowa w § 4 ust. 1 rozporządzenia 7 Wysokość należnej wpłaty obliczonej zgodnie z § 2 ust. 1 rozporządzenia za następny rok kalendarzowy, uwzględniająca kwotę, o której mowa w pkt 6 8 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 9 Data wpłaty, o której mowa w pkt 8
+

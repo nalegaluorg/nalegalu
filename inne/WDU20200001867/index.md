@@ -97,3 +97,12 @@ w sprawie urlopów funkcjonariuszy Agencji Wywiadu Na podstawie art. 100 ustawy 
 
 **§ 8.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki do rozporządzenia Prezesa RadyMinistrów z dnia (poz. …) WZÓR ORZECZENIE NR …………/……… REGIONALNEJ/CENTRALNEJ KOMISJI LEKARSKIEJ AGENCJI WYWIADU W WARSZAWIE W wyniku przeprowadzonego badania lekarskiego ………………………………………………………………………………………………………….…………… adres zamieszkania funkcjonariusza ……………………………………………………………………..
+skierowanego przez ……………………………………………………………………………………… Regionalna/Centralna Komisja Lekarska Agencji Wywiadu w Warszawie w składzie: przewodniczący – ……………………………………………………………….
+członkowie: stwierdza:
+1) zasadność udzielenia funkcjonariuszowi płatnego urlopu zdrowotnego w związku z powyższym Regionalna/Centralna Komisja Lekarska Agencji Wywiadu wnioskuje o udzielenie ww. funkcjonariuszowi płatnego urlopu zdrowotnego w terminie od ……….……......... do ………………….., tj. w wymiarze ………….… dni.
+Termin badania kontrolnego: …………………………………………………………………… Przed badaniem kontrolnym należy wykonać: ………………………………………………….
+2) brak wskazań do udzielenia funkcjonariuszowi płatnego urlopu zdrowotnego Uzasadnienie: Pouczenie
+

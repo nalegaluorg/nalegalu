@@ -34,3 +34,7 @@ zmieniające rozporządzenie w sprawie przeniesienia planowanych dochodów i wyd
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 30 listopada 2024 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk SZCZEGÓŁOWY PODZIAŁ PLANOWANYCH DOCHODÓW Kwota w tys. złotych Część Dział Rozdział Paragraf Wyszczególnienie zmniejszenie zwiększenie 1 2 3 4 5 6 7 47 ENERGIA 600 150 Przetwórstwo przemysłowe 600 15004 Zadania w zakresie bezpiecznego wykorzystania 200 energii atomowej 0690 Wpływy z różnych opłat 200 15021 Program polskiej energetyki jądrowej 400 0690 Wpływy z różnych opłat 400 48 GOSPODARKA ZŁOŻAMI KOPALIN 600 150 Przetwórstwo przemysłowe 600 15004 Zadania w zakresie bezpiecznego wykorzystania 200 energii atomowej 0690 Wpływy z różnych opłat 200 15021 Program polskiej energetyki jądrowej 400 0690 Wpływy z różnych opłat 400
+

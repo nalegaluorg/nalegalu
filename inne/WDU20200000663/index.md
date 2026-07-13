@@ -31,3 +31,7 @@ w sprawie określenia wzoru formularza do przekazywania danych do Centralnego Re
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem 16 kwietnia 2020 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki WZÓR FORMULARZA SŁUŻĄCEGO DO PRZEKAZYWANIA DANYCH Dziennik Ustaw DO CENTRALNEGO REJESTRU – 1 – LOTÓW O STATUSIE HEAD Poz.1﻿ Trasa Dodaj odcinek Odcinek 1 Miejsce startu Miejsce lądowania Nazwa lotniska Nazwa lotniska Kod lotniska Kod lotniska Data lotu od Data lotu do Pasażerowie Dodaj pasażera Lp.1﻿ Imię i nazwisko Status (kategoria) Dziennik Dziennik Ustaw Ustaw – – 2 3 – – Poz. Poz.1﻿ 663 Odcinek 2 Miejsce startu Miejsce lądowania Nazwa lotniska Nazwa lotniska Kod lotniska Kod lotniska Data lotu od Data lotu do Pasażerowie Dodaj pasażera Lp.1﻿ Imię i nazwisko Status (kategoria)
+

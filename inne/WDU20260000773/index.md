@@ -37,3 +37,7 @@ zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebęd�
 
 **§ 2.** Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk Tabela K. Tabela kwot wynagrodzenia zasadniczego i dodatku funkcyjnego oraz kwalifikacji Dyrektora Biura Nasiennictwa Leśnego i Zastępcy Dyrektora Biura Nasiennictwa Leśnego Wymagane Kwota Kwota kwalifikacje Lp. Stanowisko wynagrodzenia dodatku zasadniczego funkcyjnego liczba w zł w zł do wykształcenie lat pracy 1 2 3 4 5 6 1 Dyrektor Biura 8300–16 600 5500 wyższe 7 2 Zastępca Dyrektora Biura 6900–13 800 4100 wyższe 7
+

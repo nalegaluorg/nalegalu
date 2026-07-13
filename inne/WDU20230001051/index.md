@@ -191,3 +191,51 @@ w sprawie badań funkcjonariuszy Straży Marszałkowskiej na zawartość w organ
 
 **§ 15.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Załączniki do rozporządzenia Prezesa Rady Ministrów z dnia (Dz. U. poz. ) Załącznik nr 1 WZÓR WZÓR PROTOKÓŁ z badania wydychanego powietrza / śliny / potu na zawartość w organizmie funkcjonariusza Straży Marszałkowskiej alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
+Działając na podstawie art. 50a ust. 3 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727 oraz z 2023 r. poz. 240, 347 i 641)
+1.
+2.
+3.
+4. Dane osobowe badanego funkcjonariusza:
+5. Informacje o chorobach na jakie choruje funkcjonariusz:
+6. Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez funkcjonariusza w ciągu ostatnich 24 godzin lub informacja o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu:
+7. Opis objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich stwierdzenia: Część A – BADANIE WYDYCHANEGO POWIETRZA
+8. Badanie na zawartość w organizmie funkcjonariusza alkoholu przeprowadzono analizatorem wydechu:
+9. Tabela pomiarów zawartości alkoholu w wydychanym powietrzu: [Przycią 10. Płeć [Przycią : mężczyzna kobieta gnij 11. Wzrost: gnij masa ciała: uwagę uwagę
+12. Badany funkcjonariusz czytelni czytelni [Przycią [Przycią ka ka żąda nie żąda badania analizatorem wydechu dokonującym pomiaru metodą spektrometrii gnij gnij interesuj w podczerwieni interesuj uwagę [Przycią uwagę [Przycią ącym ącym żąda nie żąda badania krwi czytelni gnij czytelni gnij cytatem Część cytatem B – BADANIE ŚLINY ka uwagę ka uwagę z 13. Data, z godzina i minuta oraz miejsce przeprowadzenia badania: interesuj czytelni interesuj czytelni dokume 14. dokume Nazwa handlowa zastosowanego testu: ącym ka ącym ka ntu lub ntu lub
+15. Data ważności testu: cytatem interesuj cytatem interesuj podaj w podaj w z 16. Data ważności dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia, którym ącym z ącym tym tym dokume przeprowadzono badanie: cytatem dokume cytatem miejscu miejscu ntu z lub ntu z lub kluczow 17. Według kluczow instrukcji wynik testu należy odczytać w czasie od do podaj dokume w podaj dokume w ą 18. Wynik ą testu odczytano po upływie minut tym ntu lub tym ntu lub kwestię. kwestię.
+19. Wynik badania próbek śliny : miejscu podaj w miejscu podaj w Aby Aby negatywny (ujemny) kluczow tym [Przycią kluczow tym umieści umieści pozytywny (dodatni) – wskazujący obecność substancji psychoaktywnej z grupy: ą miejscu [Przycią gnij ą miejscu ć to pole ć to pole kwestię. kluczow gnij uwagę kwestię. kluczow w w
+20. Badany funkcjonariusz Aby ą uwagę czytelni Aby ą dowolny dowolny umieści kwestię. [Przycią czytelni ka umieści kwestię. [Przycią m m żąda nie żąda badania krwi ć Aby gnij ka interesuj to pole ć Aby gnij to pole miejscu miejscu żąda nie żąda badania moczu [Przycią [Przycią w umieści uwagę interesuj ącym w umieści uwagę strony, strony, gnij gnij dowolny ć czytelni ącym cytatem to pole dowolny ć czytelni to pole wystarc wystarc 2 uwagę uwagę m w ka cytatem z m w ka zy je zy je czytelni czytelni miejscu dowolny interesuj z dokume miejscu dowolny interesuj przeciąg przeciąg ka ka Część C – BADANIE POTU
+21. Data, godzina i minuta oraz miejsce przeprowadzenia badania:
+22. Część ciała z której pobrano próbkę potu:
+23. Nazwa handlowa zastosowanego testu:
+24. Data ważności testu:
+25. Data ważności dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia, którym przeprowadzono badanie:
+26. Według instrukcji wynik testu należy odczytać w czasie od do
+27. Wynik testu odczytano po upływie: minut
+28. Wynik badania próbek potu : negatywny (ujemny) [Przycią pozytywny (dodatni) – wskazujący obecność substancji psychoaktywnej z grupy: [Przycią gnij gnij uwagę
+29. Badany funkcjonariusz uwagę czytelni [Przycią czytelni ka [Przycią żąda nie żąda badania krwi gnij [Przycią ka interesuj gnij [Przycią żąda nie żąda badania moczu uwagę gnij interesuj ącym uwagę gnij 30. Uwagi i zastrzeżenia do przeprowadzonego badania osoby przeprowadzającej badanie oraz funkcjonariusza czytelni uwagę ącym cytatem czytelni uwagę poddanego badaniu: ka czytelni cytatem z ka czytelni interesuj ka z dokume interesuj ka
+31. Badany funkcjonariusz został poinformowany o możliwości odmowy złożenia oświadczenia, o którym mowa ącym interesuj dokume ntu lub ącym interesuj w pkt 5 i 6.
+cytatem ącym ntu podaj lub w cytatem ącym 32. Załączniki do protokołu (wydruki z wynikami badań, jeżeli urządzenie użyte do przeprowadzenia badania z cytatem podaj tym w z cytatem umożliwia ich wykonanie oraz kopia ważnego dokumentu potwierdzającego kalibrację lub wzorcowanie urządzenia użytego do przeprowadzenia badania): dokume z tym miejscu dokume z ntu dokume miejscu kluczow lub ntu dokume lub podaj ntu kluczow ą lub w podaj ntu lub w tym podaj ą kwestię. w tym podaj w miejscu tym kwestię. Aby miejscu tym kluczow miejscu Aby umieści kluczow miejscu ą kluczow umieści ć to pole ą kluczow kwestię. ą ć w to pole kwestię. ą Aby kwestię. w dowolny Aby kwestię.
+umieści Aby dowolny m umieści Aby ć umieści m miejscu to pole ć umieści to pole w ć miejscu strony, to pole w ć to pole 3 dowolny w strony, wystarc dowolny w m dowolny wystarc zy je m dowolny Załącznik nr 2 WZÓR WZÓR PROTOKÓŁ z badania laboratoryjnego moczu/krwi na zawartość w organizmie funkcjonariusza Straży Marszałkowskiej alkoholu lub obecność innego podobnie działającego środka , dnia 202 r.
+Działając na podstawie art. 50a ust. 3 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727 oraz z 2023 r. poz. 240, 347 i 641) Część A – POBRANIE MATERIAŁU BIOLOGICZNEGO DO BADAŃ
+1.
+2.
+3. Dane osobowe badanego funkcjonariusza:
+4. Płeć : mężczyzna kobieta [Przycią [Przycią gnij 5. Wzrost: gnij masa ciała: uwagę 6. Informacje uwagę o chorobach na jakie choruje funkcjonariusz: czytelni czytelni ka ka
+7. Ilość, rodzaj, data i godzina spożycia napojów alkoholowych przez funkcjonariusza w ciągu ostatnich interesuj 24 interesuj godzin lub informacja o przyjęciu albo nieprzyjęciu środka działającego podobnie do alkoholu: ącym ącym cytatem 8. Opis cytatem objawów i okoliczności uzasadniających przeprowadzenie badania, data, godzina i minuta ich z stwierdzenia: z dokume dokume
+9. Data, godzina i minuta oraz miejsce pobrania próbek materiału biologicznego do badań: ntu lub ntu lub podaj w podaj w
+10. W przypadku badań krwi – rodzaj środka odkażającego użytego do dezynfekcji skóry tym tym miejscu miejscu
+11. W przypadku odstąpienia od pobrania krwi – informacja o przyczynie odstąpienia: kluczow kluczow ą ą kwestię. kwestię.
+Aby Aby umieści umieści ć to pole ć to pole
+12. Uwagi i zastrzeżenia do przeprowadzonego pobrania próbek materiału biologicznego do badań osoby pobierającej próbkę materiału biologicznego oraz funkcjonariusza, od którego pobrano próbkę materiału biologicznego:
+13. Badany został poinformowany o możliwości odmowy złożenia oświadczenia, o którym mowa w pkt 6 i 7.
+Część B – BADANIE MATERIAŁU BIOLOGICZNEGO I WYNIK PRZEPROWADZONEGO BADANIA (wypełnia podmiot przeprowadzający badanie)
+1. Wykonano badanie krwi/moczu metodą:
+2. Imię i nazwisko osoby przeprowadzającej badanie próbek materiału biologicznego oraz miejsce przeprowadzenia badania:
+3. Wyniki badań próbek pobranego materiału biologicznego:
+4. Uwagi i zastrzeżenia do przeprowadzonego badania osoby przeprowadzającej badanie:
+5. Załączniki do protokołu (wydruki z wynikami badań, jeżeli urządzenie użyte do przeprowadzenia badania umożliwia ich wykonanie):
+

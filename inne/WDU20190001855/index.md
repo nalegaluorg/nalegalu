@@ -95,3 +95,10 @@ w § sprawie 1. Rozporządzenie wpłat z tytułu określa: nadzoru nad spółdzi
 
 **§ 8.** Rozporządzenie wchodzi w życie z dniem 1 października 2019 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia (poz. ) WZÓR WZÓR DEKLARACJA O WYSOKOŚCI NALEŻNEJ WPŁATY OD SPÓŁDZIELCZEJ KASY OSZCZĘDNOŚCIOWO-KREDYTOWEJ NA POKRYCIE KOSZTÓW NADZORU ZA ROK … Nazwa spółdzielczej kasy oszczędnościowo-kredytowej: …………………………………..
+…………………………………..
+NIP: …………………………………..
+Dane, w tym kwoty Poz. Wyszczególnienie zaokrąglone do pełnych złotych 1 Suma aktywów bilansowych na ostatni dzień poprzedniego roku kalendarzowego albo ostatni dzień roku obrotowego zakończonego w poprzednim roku kalendarzowym, ustalona na podstawie zbadanego i zatwierdzonego sprawozdania finansowego 2 Wysokość stawki obowiązującej w danym roku kalendarzowym 3 Wysokość należnej wpłaty 4 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 5 Data wpłaty, o której mowa w poz. 4
+

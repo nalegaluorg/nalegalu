@@ -75,7 +75,7 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 | [Prawo telekomunikacyjne](prawo-telekomunikacyjne/README.md) | 6 | [Pełna lista aktów →](prawo-telekomunikacyjne/README.md) (2 z orzecznictwem) |
 | [Prawo upadłościowe](prawo-upadlosciowe/README.md) | 16 | [Pełna lista aktów →](prawo-upadlosciowe/README.md) (5 z orzecznictwem) |
 | [Prawo zamówień publicznych](prawo-zamowien/README.md) | 17 | [Pełna lista aktów →](prawo-zamowien/README.md) (7 z orzecznictwem) |
-| [Inne](inne/README.md) | 19376 | [Pełna lista aktów →](inne/README.md) (1222 z orzecznictwem) |
+| [Inne](inne/README.md) | 19352 | [Pełna lista aktów →](inne/README.md) (1222 z orzecznictwem) |
 
 ## Bramka jakości
 
@@ -100,7 +100,7 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 
 **PASSED** — 410 tests — 410 passed, 0 failed, 0 errors, 33 skipped
 
-Ostatni przebieg: 2026-07-12 21:24 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+Ostatni przebieg: 2026-07-12 22:36 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
 
 <!-- STATS:START -->
 ## Statystyki
@@ -109,22 +109,22 @@ Ostatni przebieg: 2026-07-12 21:24 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESU
 
 | | Wartość |
 |---|---:|
-| Opublikowane akty | **20,246** |
-| Odrzucone (jakość) | 6,148 |
+| Opublikowane akty | **20,222** |
+| Odrzucone (jakość) | 6,172 |
 | Artykuły | 188,626 |
-| Znaki treści | 599.1M |
-| Śr. znaków/akt | 29,591 |
+| Znaki treści | 599.8M |
+| Śr. znaków/akt | 29,660 |
 | Śr. artykułów/akt | 9.3 |
 
 **Źródła danych:**
 
-- PDF: 20,246 (100%)
+- PDF: 20,222 (100%)
 
-*Odrzucone: 5 skanów bez OCR, 603 zablokowanych przez bramkę jakości, 6143 inne*
+*Odrzucone: 5 skanów bez OCR, 627 zablokowanych przez bramkę jakości, 6167 inne*
 
-*Od 2026-05-18: +6,925 aktów*
+*Od 2026-05-18: +6,901 aktów*
 
-*Ostatnia aktualizacja: 2026-07-12*
+*Ostatnia aktualizacja: 2026-07-13*
 <!-- STATS:END -->
 
 ## Zakres i ograniczenia
@@ -135,4 +135,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*20246 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-07-12*
+*20222 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-07-13*

@@ -1,9 +1,9 @@
 # Test Results
 
 **Status:** PASSED
-**Run:** 2026-07-12 22:36 UTC
+**Run:** 2026-07-13 08:28 UTC
 **Scope:** unit
-**Total:** 410 tests — 410 passed, 0 failed, 0 errors, 33 skipped
+**Total:** 411 tests — 411 passed, 0 failed, 0 errors, 33 skipped
 
 ## Summary by module
 
@@ -38,7 +38,7 @@
 | json publish | 22 | all passed |
 | models | 4 | all passed |
 | omitted paragraph provisions | 5 | all passed |
-| paragraph units | 17 | all passed |
+| paragraph units | 18 | all passed |
 | pdf download | 11 | all passed |
 | pdf download | 5 | all passed |
 | pdf download | 3 | all passed |
@@ -74,7 +74,7 @@
 platform darwin -- Python 3.14.5, pytest-9.0.3, pluggy-1.6.0 -- /Users/michal/repos/nalegaluorg/.venv/bin/python
 cachedir: .pytest_cache
 rootdir: /Users/michal/repos/nalegaluorg
-collecting ... collected 443 items
+collecting ... collected 444 items
 
 tests/test_amendment_quotes.py::TestPrescribedClauseQuote::test_single_segment_clause_does_not_deadlock PASSED [  0%]
 tests/test_amendment_quotes.py::TestPrescribedClauseQuote::test_clause_followed_by_plain_prose PASSED [  0%]
@@ -146,7 +146,7 @@ tests/test_conservation_gates.py::TestOmittedProvisionsQuotes::test_missing_oute
 tests/test_conservation_gates.py::TestOmittedProvisionsQuotes::test_fused_signature_and_act_opener_past_document_midpoint PASSED [ 15%]
 tests/test_conservation_gates.py::TestOmittedProvisionsQuotes::test_signing_line_alone_is_not_a_transition PASSED [ 15%]
 tests/test_conservation_gates.py::TestOmittedProvisionsQuotes::test_cross_reference_does_not_satisfy_targets_but_merged_opener_does PASSED [ 15%]
-tests/test_conservation_gates.py::TestOmittedProvisionsQuotes::test_lost_close_before_next_item_fails_loudly PASSED [ 16%]
+tests/test_conservation_gates.py::TestOmittedProvisionsQuotes::test_lost_close_before_next_item_fails_loudly PASSED [ 15%]
 tests/test_conservation_gates.py::TestOmittedProvisionsQuotes::test_rejected_candidate_then_item_is_confirmed_transition PASSED [ 16%]
 tests/test_conservation_gates.py::TestOmittedProvisionsQuotes::test_multi_segment_ascii_quote_leaks_and_warns PASSED [ 16%]
 tests/test_conservation_gates.py::TestOmittedProvisionsQuotes::test_consolidated_ustawa_zero_articles_backstop PASSED [ 16%]
@@ -177,7 +177,7 @@ tests/test_conservation_gates.py::TestRenderedRoundTrip::test_synthetic_point_co
 tests/test_e2e_parity.py::TestFrontMatterParity::test_same_keys SKIPPED  [ 22%]
 tests/test_e2e_parity.py::TestFrontMatterParity::test_address_matches SKIPPED [ 22%]
 tests/test_e2e_parity.py::TestFrontMatterParity::test_eli_field_matches SKIPPED [ 22%]
-tests/test_e2e_parity.py::TestFrontMatterParity::test_source_field_differs SKIPPED [ 23%]
+tests/test_e2e_parity.py::TestFrontMatterParity::test_source_field_differs SKIPPED [ 22%]
 tests/test_e2e_parity.py::TestStructureParity::test_same_article_count SKIPPED [ 23%]
 tests/test_e2e_parity.py::TestStructureParity::test_same_article_markers SKIPPED [ 23%]
 tests/test_e2e_parity.py::TestStructureParity::test_same_division_count SKIPPED [ 23%]
@@ -208,7 +208,7 @@ tests/test_e2e_parity.py::TestQuickCheckParity::test_article_text_matches[DU-202
 tests/test_e2e_sources.py::test_pdf_and_eli_html_sources_publish_comparable_output SKIPPED [ 29%]
 tests/test_e2e_sources.py::test_sources_publish_kodeks_cywilny SKIPPED   [ 29%]
 tests/test_eli_parity.py::TestHtmlToSegments::test_strips_heading_markers PASSED [ 29%]
-tests/test_eli_parity.py::TestHtmlToSegments::test_strips_url_links PASSED [ 30%]
+tests/test_eli_parity.py::TestHtmlToSegments::test_strips_url_links PASSED [ 29%]
 tests/test_eli_parity.py::TestHtmlToSegments::test_strips_list_markers PASSED [ 30%]
 tests/test_eli_parity.py::TestHtmlToSegments::test_empty_html_returns_empty PASSED [ 30%]
 tests/test_eli_parity.py::TestHtmlToSegments::test_sample_produces_valid_segments PASSED [ 30%]
@@ -217,7 +217,7 @@ tests/test_eli_parity.py::TestHtmlToSegments::test_strips_eli_navigation_payload
 tests/test_eli_parity.py::TestASTFromELI::test_articles_parsed PASSED    [ 31%]
 tests/test_eli_parity.py::TestASTFromELI::test_bracketed_superscript_article_markers_parse PASSED [ 31%]
 tests/test_eli_parity.py::TestASTFromELI::test_unicode_digit_letter_superscript_article_markers_parse PASSED [ 31%]
-tests/test_eli_parity.py::TestASTFromELI::test_split_publication_position_is_not_parsed_as_point PASSED [ 32%]
+tests/test_eli_parity.py::TestASTFromELI::test_split_publication_position_is_not_parsed_as_point PASSED [ 31%]
 tests/test_eli_parity.py::TestASTFromELI::test_split_publication_position_with_following_text_is_not_a_point PASSED [ 32%]
 tests/test_eli_parity.py::TestASTFromELI::test_annex_collection_caption_closes_final_article PASSED [ 32%]
 tests/test_eli_parity.py::TestASTFromELI::test_fused_annex_collection_caption_retains_annex_number PASSED [ 32%]
@@ -239,7 +239,7 @@ tests/test_eli_parity.py::TestASTFromELI::test_paragraph_replacement_is_recorded
 tests/test_eli_parity.py::TestASTFromELI::test_non_amending_document_keeps_existing_article_behavior PASSED [ 36%]
 tests/test_eli_parity.py::TestASTFromELI::test_unclosed_amendment_quote_fails_instead_of_swallowing_outer_articles PASSED [ 36%]
 tests/test_eli_parity.py::TestASTFromELI::test_litera_level_replacement_text_stays_on_the_litera PASSED [ 36%]
-tests/test_eli_parity.py::TestASTFromELI::test_inline_amendment_point_does_not_swallow_next_point PASSED [ 37%]
+tests/test_eli_parity.py::TestASTFromELI::test_inline_amendment_point_does_not_swallow_next_point PASSED [ 36%]
 tests/test_eli_parity.py::TestASTFromELI::test_multiline_obsolete_inline_article_is_not_promoted PASSED [ 37%]
 tests/test_eli_parity.py::TestASTFromELI::test_closed_obsolete_inline_article_does_not_swallow_next_article_body PASSED [ 37%]
 tests/test_eli_parity.py::TestASTFromELI::test_closed_obsolete_inline_article_does_not_swallow_following_articles PASSED [ 37%]
@@ -248,7 +248,7 @@ tests/test_eli_parity.py::TestASTFromELI::test_inline_amendment_article_with_exi
 tests/test_eli_parity.py::TestASTFromELI::test_division_parsed PASSED    [ 38%]
 tests/test_eli_parity.py::TestOutputParity::test_front_matter_keys_match PASSED [ 38%]
 tests/test_eli_parity.py::TestOutputParity::test_eli_md_has_bold_article_markers PASSED [ 38%]
-tests/test_eli_parity.py::TestOutputParity::test_eli_md_has_division_headings PASSED [ 39%]
+tests/test_eli_parity.py::TestOutputParity::test_eli_md_has_division_headings PASSED [ 38%]
 tests/test_eli_parity.py::TestOutputParity::test_eli_md_has_metadata_table PASSED [ 39%]
 tests/test_eli_parity.py::TestOutputParity::test_eli_md_has_source_field PASSED [ 39%]
 tests/test_eli_parity.py::TestOutputParity::test_no_url_links_in_body PASSED [ 39%]
@@ -257,7 +257,7 @@ tests/test_eli_parity.py::TestChooseSource::test_unamended_pdf_with_eli_uses_pdf
 tests/test_eli_parity.py::TestChooseSource::test_pdf_available_with_consolidated_uses_pdf PASSED [ 40%]
 tests/test_eli_parity.py::TestChooseSource::test_orzeczenie_uses_pdf_even_with_eli PASSED [ 40%]
 tests/test_eli_parity.py::TestChooseSource::test_html_only_with_eli_uses_pdf_path PASSED [ 40%]
-tests/test_eli_parity.py::TestChooseSource::test_no_pdf_no_eli_uses_pdf PASSED [ 41%]
+tests/test_eli_parity.py::TestChooseSource::test_no_pdf_no_eli_uses_pdf PASSED [ 40%]
 tests/test_eli_parity.py::TestChooseSource::test_pdf_only_no_eli_uses_pdf PASSED [ 41%]
 tests/test_eli_parity.py::TestChooseSource::test_empty_texts_no_pdf_with_eli_uses_pdf_path PASSED [ 41%]
 tests/test_eli_parity.py::TestExtractionDecisions::test_simple_decision_parser_without_yaml_dependency PASSED [ 41%]
@@ -270,7 +270,7 @@ tests/test_eli_parity.py::TestExtractionDecisions::test_checked_in_manual_decisi
 tests/test_extract.py::test_extract_page_lines_preserves_paragraph_sign_when_profiled_as_repeated_header PASSED [ 43%]
 tests/test_extract.py::test_extract_page_lines_preserves_top_edge_paragraph_opener_line PASSED [ 43%]
 tests/test_extract.py::test_clean_lines_treats_paragraph_markers_as_segment_starters PASSED [ 43%]
-tests/test_extract.py::test_clean_lines_joins_split_publication_position_before_point_detection PASSED [ 44%]
+tests/test_extract.py::test_clean_lines_joins_split_publication_position_before_point_detection PASSED [ 43%]
 tests/test_extract.py::test_clean_lines_joins_split_publication_position_with_following_text PASSED [ 44%]
 tests/test_extract.py::test_clean_lines_joins_wrapped_classification_codes_and_abbreviations PASSED [ 44%]
 tests/test_extract.py::test_clean_lines_still_splits_normal_large_point_markers PASSED [ 44%]
@@ -279,7 +279,7 @@ tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keep
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_removes_repeating_visual_header_line PASSED [ 45%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_requires_repeating_line_y_bucket PASSED [ 45%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_removes_matching_y_bucket PASSED [ 45%]
-tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_tolerates_y_bucket_jitter PASSED [ 46%]
+tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_tolerates_y_bucket_jitter PASSED [ 45%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_removes_static_masthead_line PASSED [ 46%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_republic_title_line PASSED [ 46%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_removes_centered_page_number PASSED [ 46%]
@@ -288,7 +288,7 @@ tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keep
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_legal_reference_with_dziennik_ustaw PASSED [ 47%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_wrapped_dziennik_ustaw_citation PASSED [ 47%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_repeating_legal_numbered_line PASSED [ 47%]
-tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_small_repealed_article_range_note PASSED [ 48%]
+tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_small_repealed_article_range_note PASSED [ 47%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_detached_multidigit_article_superscript PASSED [ 48%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_does_not_treat_footnote_as_article_superscript PASSED [ 48%]
 tests/test_extract_header_footer_strategy.py::test_legacy_small_token_after_article_marker_is_not_deleted PASSED [ 48%]
@@ -301,7 +301,7 @@ tests/test_extract_header_footer_strategy.py::test_footnote_after_paragraph_numb
 tests/test_extract_header_footer_strategy.py::test_none_strategy_preserves_natural_order_without_article_superscripts PASSED [ 50%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_bottom_zone_legal_article_line PASSED [ 50%]
 tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_bottom_zone_body_line PASSED [ 50%]
-tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_repeating_annex_form_lines PASSED [ 51%]
+tests/test_extract_header_footer_strategy.py::test_coordinate_line_strategy_keeps_repeating_annex_form_lines PASSED [ 50%]
 tests/test_extract_header_footer_strategy.py::test_none_strategy_keeps_vertical_header_footer_zone_text PASSED [ 51%]
 tests/test_extract_header_footer_strategy.py::test_extract_and_clean_default_strategy_reads_env PASSED [ 51%]
 tests/test_extract_header_footer_strategy.py::test_default_header_footer_strategy_is_coordinate_line PASSED [ 51%]
@@ -310,7 +310,7 @@ tests/test_json_publish.py::test_orz_article_key_preserves_paragraph_distinction
 tests/test_json_publish.py::test_orz_article_key_preserves_paragraph_distinction[art. 5a-5a] PASSED [ 52%]
 tests/test_json_publish.py::test_orz_article_key_preserves_paragraph_distinction[art. 241(7)-241.7] PASSED [ 52%]
 tests/test_json_publish.py::test_orz_article_key_preserves_paragraph_distinction[Art. 241(7)-241.7] PASSED [ 52%]
-tests/test_json_publish.py::test_orz_article_key_preserves_paragraph_distinction[art. 353(1)-353.1] PASSED [ 53%]
+tests/test_json_publish.py::test_orz_article_key_preserves_paragraph_distinction[art. 353(1)-353.1] PASSED [ 52%]
 tests/test_json_publish.py::test_orz_article_key_preserves_paragraph_distinction[art. 353 \xa7 1-353\xa71] PASSED [ 53%]
 tests/test_json_publish.py::test_orz_article_key_preserves_paragraph_distinction[art. 241(7) \xa7 7-241.7\xa77] PASSED [ 53%]
 tests/test_json_publish.py::test_orz_article_key_preserves_paragraph_distinction[\xa7 5-5] PASSED [ 53%]
@@ -319,7 +319,7 @@ tests/test_json_publish.py::test_orz_article_key_preserves_paragraph_distinction
 tests/test_json_publish.py::test_orz_article_key_never_collides_superscript_with_paragraph PASSED [ 54%]
 tests/test_json_publish.py::test_orz_article_key_unknown_reference_passes_through PASSED [ 54%]
 tests/test_json_publish.py::test_split_orzecznictwo_keeps_paragraph_and_superscript_rows_apart PASSED [ 54%]
-tests/test_json_publish.py::test_publish_json_repo_writes_mirrored_act_and_compact_orzecznictwo PASSED [ 55%]
+tests/test_json_publish.py::test_publish_json_repo_writes_mirrored_act_and_compact_orzecznictwo PASSED [ 54%]
 tests/test_json_publish.py::test_publish_json_repo_copies_split_orzecznictwo_csvs PASSED [ 55%]
 tests/test_json_publish.py::test_publish_json_clean_removes_unpublished_stale_act PASSED [ 55%]
 tests/test_json_publish.py::test_publish_json_clean_refuses_empty_public_repo PASSED [ 55%]
@@ -328,11 +328,11 @@ tests/test_json_publish.py::test_publish_json_preflight_blocks_db_error_even_wit
 tests/test_json_publish.py::test_publish_json_clean_skip_missing_removes_public_stale_act PASSED [ 56%]
 tests/test_json_publish.py::test_publish_json_skip_missing_without_clean_keeps_public_stale_act PASSED [ 56%]
 tests/test_models.py::test_explicit_in_force_false_is_repealed PASSED    [ 56%]
-tests/test_models.py::test_repealed_status_is_used_when_in_force_is_unknown PASSED [ 57%]
+tests/test_models.py::test_repealed_status_is_used_when_in_force_is_unknown PASSED [ 56%]
 tests/test_models.py::test_unknown_and_administrative_statuses_are_not_deletion_signals PASSED [ 57%]
 tests/test_models.py::test_explicit_repealed_status_wins_over_stale_true_flag PASSED [ 57%]
 tests/test_omitted_paragraph_provisions.py::test_paragraph_targets_from_prefix PASSED [ 57%]
-tests/test_omitted_paragraph_provisions.py::test_title_article_reference_does_not_hijack_targets PASSED [ 58%]
+tests/test_omitted_paragraph_provisions.py::test_title_article_reference_does_not_hijack_targets PASSED [ 57%]
 tests/test_omitted_paragraph_provisions.py::test_enumerated_item_prefix_anchors_on_item_marker PASSED [ 58%]
 tests/test_omitted_paragraph_provisions.py::test_letter_spaced_act_opener_is_a_boundary PASSED [ 58%]
 tests/test_omitted_paragraph_provisions.py::test_paragraph_omission_block_closes_and_act_body_survives PASSED [ 58%]
@@ -341,11 +341,12 @@ tests/test_paragraph_units.py::test_rozporzadzenie_units_carry_structure PASSED 
 tests/test_paragraph_units.py::test_rozporzadzenie_passes_extracted_validation PASSED [ 59%]
 tests/test_paragraph_units.py::test_rozporzadzenie_passes_rendered_round_trip PASSED [ 59%]
 tests/test_paragraph_units.py::test_rozporzadzenie_source_inventory_counts_units PASSED [ 59%]
-tests/test_paragraph_units.py::test_rozporzadzenie_txt_rendering_uses_paragraph_markers PASSED [ 60%]
+tests/test_paragraph_units.py::test_rozporzadzenie_txt_rendering_uses_paragraph_markers PASSED [ 59%]
 tests/test_paragraph_units.py::test_amending_rozporzadzenie_units_and_amendment_block PASSED [ 60%]
 tests/test_paragraph_units.py::test_amending_rozporzadzenie_recovers_from_lost_closing_quote PASSED [ 60%]
 tests/test_paragraph_units.py::test_obwieszczenie_of_rozporzadzenie_uses_paragraph_units PASSED [ 60%]
 tests/test_paragraph_units.py::test_attached_statut_restart_becomes_annex PASSED [ 60%]
+tests/test_paragraph_units.py::test_fused_signature_annex_segment_is_salvaged PASSED [ 61%]
 tests/test_paragraph_units.py::test_ustawa_paragraph_signs_stay_ustepy PASSED [ 61%]
 tests/test_paragraph_units.py::test_article_markers_are_normalized[Art. 94. Tekst.-Art. 94] PASSED [ 61%]
 tests/test_paragraph_units.py::test_article_markers_are_normalized[Art. 94 1. Tekst.-Art. 94\xb9] PASSED [ 61%]
@@ -354,7 +355,7 @@ tests/test_paragraph_units.py::test_article_markers_are_normalized[Art. 94\xb9. 
 tests/test_paragraph_units.py::test_article_markers_are_normalized[Art. 94 [2]. Tekst.-Art. 94\xb2] PASSED [ 62%]
 tests/test_paragraph_units.py::test_article_markers_are_normalized[Art. 18 3ca . Tekst.-Art. 18\xb3ca] PASSED [ 62%]
 tests/test_pdf_download.py::TestBestPdfTypeAndUrl::test_prefers_U_over_O PASSED [ 62%]
-tests/test_pdf_download.py::TestBestPdfTypeAndUrl::test_prefers_T_when_no_U PASSED [ 62%]
+tests/test_pdf_download.py::TestBestPdfTypeAndUrl::test_prefers_T_when_no_U PASSED [ 63%]
 tests/test_pdf_download.py::TestBestPdfTypeAndUrl::test_prefers_T_pdf_over_T_doc PASSED [ 63%]
 tests/test_pdf_download.py::TestBestPdfTypeAndUrl::test_ignores_T_doc_when_no_T_pdf PASSED [ 63%]
 tests/test_pdf_download.py::TestBestPdfTypeAndUrl::test_prefers_U_over_T_and_O PASSED [ 63%]
@@ -376,7 +377,7 @@ tests/test_processable_pdf.py::test_digital_types_always_processable PASSED [ 67
 tests/test_processable_pdf.py::test_modern_o_only_is_processable PASSED  [ 67%]
 tests/test_processable_pdf.py::test_pre_electronic_o_only_is_a_scan PASSED [ 67%]
 tests/test_processable_pdf.py::test_html_only_has_no_pdf PASSED          [ 67%]
-tests/test_quality_gate.py::TestBasicChecks::test_clean_content_passes PASSED [ 67%]
+tests/test_quality_gate.py::TestBasicChecks::test_clean_content_passes PASSED [ 68%]
 tests/test_quality_gate.py::TestBasicChecks::test_manual_quality_block_rejects_known_two_column_failure PASSED [ 68%]
 tests/test_quality_gate.py::TestBasicChecks::test_manual_quality_block_rejects_known_article_loss_failure PASSED [ 68%]
 tests/test_quality_gate.py::TestBasicChecks::test_cid_font_corruption_blocked PASSED [ 68%]
@@ -385,7 +386,7 @@ tests/test_quality_gate.py::TestBasicChecks::test_null_bytes_blocked PASSED [ 69
 tests/test_quality_gate.py::TestBasicChecks::test_empty_body_blocked PASSED [ 69%]
 tests/test_quality_gate.py::TestBasicChecks::test_body_with_only_whitespace_blocked PASSED [ 69%]
 tests/test_quality_gate.py::TestBasicChecks::test_no_front_matter_still_checks_body PASSED [ 69%]
-tests/test_quality_gate.py::TestBasicChecks::test_no_front_matter_empty_blocked PASSED [ 69%]
+tests/test_quality_gate.py::TestBasicChecks::test_no_front_matter_empty_blocked PASSED [ 70%]
 tests/test_quality_gate.py::TestBasicChecks::test_multiple_issues_all_reported PASSED [ 70%]
 tests/test_quality_gate.py::TestBasicChecks::test_eli_navigation_javascript_blocked PASSED [ 70%]
 tests/test_quality_gate.py::TestPublishDiagnostics::test_public_index_detection_finds_existing_published_act PASSED [ 70%]
@@ -407,7 +408,7 @@ tests/test_quality_gate.py::TestPublishRegressionGuard::test_article_loss_with_l
 tests/test_quality_gate.py::TestPublishRegressionGuard::test_zero_articles_is_regression_even_with_body_growth PASSED [ 74%]
 tests/test_quality_gate.py::TestPublishRegressionGuard::test_moderate_article_loss_is_regression_without_body_growth PASSED [ 74%]
 tests/test_quality_gate.py::TestPublishRegressionGuard::test_article_and_body_loss_is_regression_above_threshold PASSED [ 74%]
-tests/test_quality_gate.py::TestPublishRegressionGuard::test_minor_article_loss_with_body_growth_is_regression_when_below_threshold PASSED [ 74%]
+tests/test_quality_gate.py::TestPublishRegressionGuard::test_minor_article_loss_with_body_growth_is_regression_when_below_threshold PASSED [ 75%]
 tests/test_quality_gate.py::TestPublishRegressionGuard::test_eli_to_pdf_article_loss_is_source_downgrade PASSED [ 75%]
 tests/test_quality_gate.py::TestPublishRegressionGuard::test_small_eli_to_pdf_article_loss_is_source_downgrade PASSED [ 75%]
 tests/test_quality_gate.py::TestPublishRegressionGuard::test_eli_to_pdf_same_article_count_is_not_source_downgrade PASSED [ 75%]
@@ -416,7 +417,7 @@ tests/test_quality_gate.py::TestPublishRegressionGuard::test_eli_to_digital_pdf_
 tests/test_quality_gate.py::TestPublishRegressionGuard::test_same_source_article_loss_is_not_source_downgrade PASSED [ 76%]
 tests/test_quality_gate.py::TestPublishRegressionGuard::test_original_pdf_for_unified_act_is_regression_source PASSED [ 76%]
 tests/test_quality_gate.py::TestPublishRegressionGuard::test_unified_pdf_for_unified_act_is_allowed_source PASSED [ 76%]
-tests/test_quality_gate.py::TestSourceFallbackQuality::test_paragraph_marker_detector_ignores_inline_references PASSED [ 76%]
+tests/test_quality_gate.py::TestSourceFallbackQuality::test_paragraph_marker_detector_ignores_inline_references PASSED [ 77%]
 tests/test_quality_gate.py::TestSourceFallbackQuality::test_paragraph_marker_detector_accepts_structural_openers PASSED [ 77%]
 tests/test_quality_gate.py::TestSourceFallbackQuality::test_parsed_ast_article_count_uses_real_ast_shape PASSED [ 77%]
 tests/test_quality_gate.py::TestSourceFallbackQuality::test_quick_quality_allows_paragraph_only_regulation PASSED [ 77%]
@@ -447,7 +448,7 @@ tests/test_retry_partial_sync_failures.py::test_missing_pdf_candidate_is_not_ret
 tests/test_retry_partial_sync_failures.py::test_transient_and_quality_classification PASSED [ 83%]
 tests/test_retry_partial_sync_failures.py::test_parse_log_skips_quality_failures_by_default PASSED [ 83%]
 tests/test_retry_partial_sync_failures.py::test_parse_log_can_include_quality_failures PASSED [ 83%]
-tests/test_retry_partial_sync_failures.py::test_parse_log_accepts_download_failure_log_lines PASSED [ 83%]
+tests/test_retry_partial_sync_failures.py::test_parse_log_accepts_download_failure_log_lines PASSED [ 84%]
 tests/test_retry_partial_sync_failures.py::test_discovery_retries_missing_and_half_processed PASSED [ 84%]
 tests/test_retry_partial_sync_failures.py::test_discovery_skips_structural_quality_error PASSED [ 84%]
 tests/test_retry_partial_sync_failures.py::test_discovery_retries_transient_error PASSED [ 84%]
@@ -520,5 +521,5 @@ tests/test_top_referenced_acts.py::test_parse_in_force_from_public_index_table P
 tests/test_top_referenced_acts.py::test_parse_reference_count_accepts_spaces_and_commas PASSED [ 99%]
 tests/test_top_referenced_acts.py::test_collect_referenced_acts_filters_in_force_and_sorts PASSED [100%]
 
-======================= 410 passed, 33 skipped in 0.37s ========================
+======================= 411 passed, 33 skipped in 0.37s ========================
 ```

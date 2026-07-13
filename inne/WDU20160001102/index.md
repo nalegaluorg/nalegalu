@@ -210,3 +210,7 @@ w sprawie pobierania i przekazywania obrazów linii papilarnych i materiału bio
 
 **§ 13.** Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: B. Szydło WZóR ZARZąDZeNIA Wzór zarządzenia O WPROWADZeNIU o wprowadzeniu do DO bazy BAZy danych DANyCh DNA informacji DNA INFORMACJI o wynikach O WyNIKACh analizy kwasu ANALIZy KWASU deoksyrybonukleinowego DeOKSyRyBONUKLeINOWeGO ZARZĄDZAM WZóR FORMULARZA ReJeSTRACJI Wzór formularza OSOBy rejestracji OKReśLONeJ osoby W ART. 10 UST. 1 USTAWy określonej O w DZIAłANIACh art. 10 ust. 1 ustawy ANTyTeRRORySTyCZNyCh o działaniach antyterrorystycznych WZóR WNIOSKU O NADANIe, ZMIANę LUB COFNIęCIe UPRAWNIeń FUNKCJONARIUSZOM ABW LUB STRAży GRANICZNeJ DO DOSTęPU DO KRAJOWeGO SySTeMU INFORMACyJNeGO POLICJI W CeLU ReJeSTRACJI LUB AKTUALIZACJI INFORMACJI I DANyCh O OSOBACh, O KTóRyCh MOWA W ART. 10 UST. 1 USTAWy Z DNIA 10 CZeRWCA 2016 R. O DZIAłANIACh ANTyTeRRORySTyCZNyCh
+

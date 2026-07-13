@@ -33,3 +33,10 @@ w sprawie wzoru legitymacji służbowej pracownika Urzędu Ochrony Danych Osobow
 
 **§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA URZĘDU OCHRONY DANYCH OSOBOWYCH Opis: Awers legitymacji: – legitymacja koloru niebieskiego (RGB 0, 185, 250; CMYK 67, 9, 0, 0), – napisy w kolorze czarnym: „RZECZPOSPOLITA POLSKA”, „Urząd Ochrony Danych Osobowych”, – napis „Numer legitymacji”, – wizerunek Orła Białego na czerwonej tarczy herbowej według wzoru ustalonego dla godła Rzeczypospolitej Polskiej.
+RZECZPOSPOLITA POLSKA Rewers legitymacji: – legitymacja koloru niebieskiego (RGB 0, 185, 250; CMYK 67, 9, 0, 0), – napisy w kolorze czarnym: „LEGITYMACJA SŁUŻBOWA Pracownika”, „data ważności legitymacji”, „Nazwisko”, „Imię”, „Stanowisko służbowe”, „podpis wystawcy”, „podpis posiadacza”, „miejsce na fotografię”, „miejsce na pieczęć Urzędu Ochrony Danych Osobowych”, – w prawym dolnym rogu hologram godła państwowego.
+LEGITYMACJA SŁUŻBOWA Pracownika Wymiary legitymacji: – wysokość legitymacji 100 mm, – szerokość legitymacji 75 mm, – wysokość fotografii 45 mm, – szerokość fotografii 35 mm.
+Rodzaj papieru i zabezpieczeń: – gramatura papieru 200, – papier kredowany dwustronnie – matowy, – hologram godła państwowego, – w miejscach wpisu nazwiska i imienia nadruk cienkich linii zabezpieczających.
+

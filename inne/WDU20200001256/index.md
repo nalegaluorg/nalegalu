@@ -57,3 +57,9 @@ w sprawie wzorów zaświadczeń stwierdzających odbycie szkolenia w zakresie oc
 
 **§ 5.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Załączniki do rozporządzenia Prezesa RadyMinistrów z dnia (poz. ) Załączniknr1 WZÓR ZAŚWIADCZENIE NR _____ stwierdzające odbycie szkolenia w zakresie ochrony informacji niejawnych Stwierdza się, że Pani/Pan*: – imię i nazwisko: – numer PESEL odbyła/odbył* szkolenie w zakresie ochrony: dla pełnomocników do spraw ochrony informacji niejawnych i ich zastępców oraz osób przewidzianych na te stanowiska, na podstawie przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742), przeprowadzone przez: Załączniknr2 WZÓR stwierdzające odbycie szkolenia Stwierdza się, że Pani/Pan*: odbyła/odbył* szkolenie w zakresie ochrony: na podstawie przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r.
+poz. 742), przeprowadzone przez: wspólnie z pełnomocnikiem do spraw ochrony informacji niejawnych w*: Załączniknr3 WZÓR stwierdzające odbycie szkolenia Stwierdza się, że Pani/Pan*: odbyła/odbył* szkolenie w zakresie ochrony: na podstawie przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r.
+poz. 742), zorganizowane przez pełnomocnika do spraw ochrony informacji niejawnych w:
+

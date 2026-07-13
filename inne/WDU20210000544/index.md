@@ -33,3 +33,7 @@ zmieniające rozporządzenie w sprawie grup zaszeregowania i stawek uposażenia 
 
 **§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki TABELA STAWEK UPOSAŻENIA ZASADNICZEGO FUNKCJONARIUSZY AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO Grupa zaszeregowania Miesięczna stawka uposażenia zasadniczego w złotych 0 10 500 00 9 900 01a 7 900 01 7 100 02a 7 430 02 6 650 03a 6 950 03 6 235 04a 6 630 04 5 890 05a 6 100 05 5 540 06a 5 500 06 4 905 07a 5 080 07 4 480 08a 4 800 08 4 235 09a 4 480 09 3 880 10a 4 330 10 3 600 11a 4 130 11 3 390 12a 3 950 12 3 205 13a 3 800 13 3 065 14a 3 650 14 2 975 15a 3 500 15 2 870 16a 3 300 16 2 745 17a 3 150 17 2 680 18a 2 950 18 2 650 19 2 600 20 2 500 21 2 400 22 2 300 23 2 200 24 2 000
+

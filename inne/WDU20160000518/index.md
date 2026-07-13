@@ -33,3 +33,7 @@ zmieniające rozporządzenie w sprawie grup zaszeregowania stanowisk służbowyc
 
 **§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: B. Szydło TABELA GRUP ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH FUNCKJONARIUSZY AGENCJI WYWIADU I STAWEK UPOSAŻENIA ZASADNICZEGO W TYCH GRUPACH Grupa zaszeregowania Stawka uposażenia zasadniczego w złotych 0 9 670 00 9 070 01 7 180 02 6 780 03 6 330 04 6 030 05 5 700 06 5 100 07 4 700 08 4 500 09 4 150 10 4 070 11 3 870 12 3 670 13 3 520 14 3 470 15 3 150 16 3 000 17 2 900 18 2 830 19 2 720 20 2 520 21 2 470 22 2 420 23 2 370 24 2 000
+

@@ -33,3 +33,7 @@ zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebęd�
 
 **§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Tabela D. Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pozostałych pracowników urzędów i jednostek Kategoria zaszeregowania Kwota w złotych I 950–4700 II 1560–4720 III 1570–4740 IV 1580–4770 V 1600–4800 VI 1610–4830 VII 1620–4860 VIII 1630–5030 IX 1650–5200 X 1680–5370 XI 1710–5580 XII 1750–5800 XIII 1800–6050 XIV 1840–6390 XV 1890–6730 XVI 1950–7230 XVII 2020–7740 XVIII 2090–8250 XIX 2170–8760 XX 2230–9270 XXI 2360–9920
+

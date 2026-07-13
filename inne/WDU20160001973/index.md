@@ -47,3 +47,25 @@ zmieniające rozporządzenie w sprawie szczegółowego zakresu opracowywania pla
 
 **§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: B. Szydło ZAKRES INFORMACJI KONIECZNYCH DO SPORZĄDZANIA PLANÓW GOSPODAROWANIA WODAMI NA OBSZARACH DORZECZY W ODNIESIENIU DO WARTOŚCI PROGOWYCH ELEMENTÓW FIZYKOCHEMICZNYCH DLA OCENY STANU CHEMICZNEGO JCWPd
+1. Zakres informacji koniecznych do sporządzania planów gospodarowania wodami na obszarach dorzeczy w odniesieniu do wartości progowych elementów fizykochemicznych dla oceny stanu chemicznego JCWPd obejmuje:
+1) sposób określenia wartości progowych dla zanieczyszczeń i wskaźników zanieczyszczenia;
+2) informacje o każdej JCWPd lub grupach takich części wód uznanych za zagrożone nieosiągnięciem dobrego stanu chemicznego dla wód podziemnych, w tym o:
+a) wielkości JCWPd,
+b) każdej substancji zanieczyszczającej lub substancji wyrażonej jako wskaźnik, która powoduje, że JCWPd uznaje się za zagrożoną,
+c) celach dotyczących jakości środowiska, z którymi związane jest zagrożenie, w tym aktualnych lub potencjalnych uzasadnionych sposobach wykorzystania wód podziemnych lub ich funkcjach,
+d) związku między JCWPd a wodami powierzchniowymi pozostającymi w związku hydraulicznym oraz związku pomiędzy JCWPd a bezpośrednio od nich zależnymi ekosystemami lądowymi,
+e) w przypadku naturalnie występujących substancji – naturalnych poziomach tła w JCWPd,
+f) w przypadku gdy wartości progowe zostały przekroczone – zaistniałych przekroczeniach;
+3) wartości progowe, niezależnie od tego, czy mają zastosowanie na poziomie kraju, obszaru dorzecza, części międzynarodowego dorzecza znajdującego się na terytorium danego państwa członkowskiego lub JCWPd, lub grupy takich części;
+4) dane o współzależności między wartościami progowymi a każdym z poniższych elementów:
+a) w przypadku naturalnie występujących substancji – poziomami tła,
+b) wodami powierzchniowymi pozostającymi w związku hydraulicznym i ekosystemami lądowymi bezpośrednio zależnymi od wód podziemnych,
+c) celami dotyczącymi jakości środowiska i innymi normami służącymi ochronie wód, obowiązującymi na poziomie krajowym, unijnym lub międzynarodowym,
+d) wszelkimi istotnymi informacjami dotyczącymi substancji zanieczyszczających w zakresie ich własności toksycznych, ekotoksycznych, trwałości, potencjału bioakumulacji i zdolności do dyspersji;
+5) metodykę ustalania poziomów tła;
+6) wyniki oceny stanu chemicznego JCWPd, dokonanej zgodnie z przepisami wydanymi na podstawie art. 38a ust. 1 ustawy – Prawo wodne.
+2. Każdy przypadek braku wykorzystania w planach gospodarowania wodami na obszarach dorzeczy informacji, o których mowa w ust. 1, wymaga przedstawienia uzasadnienia w tych planach.
+

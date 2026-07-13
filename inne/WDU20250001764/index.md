@@ -72,3 +72,10 @@ w sprawie wpłat na pokrycie kosztów nadzoru nad podmiotami obsługującymi kre
 
 **§ 9.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk WZÓR DEKLARACJA PODMIOTU OBSŁUGUJĄCEGO KREDYTY O WYSOKOŚCI NALEŻNEJ WPŁATY NA POKRYCIE KOSZTÓW NADZORU ZA ROK … Nazwa (firma) podmiotu obsługującego kredyty: …………………………………..
+…………………………………..
+NIP: …………………………………..
+Dane, w tym kwoty Poz. Wyszczególnienie zaokrąglone do pełnych złotych Suma przychodów podmiotu obsługującego kredyty uzyskanych z działalności w zakresie obsługi kredytów za rok obrotowy poprzedzający rok kalendarzowy, 1 za który jest wnoszona należna wpłata, a w przypadku podmiotu obsługującego kredyty, dla którego rok obrotowy nie pokrywa się z rokiem kalendarzowym – suma przychodów za rok obrotowy zakończony w roku kalendarzowym poprzedzającym rok, za który jest wnoszona należna wpłata Wysokość stawki obowiązującej w roku kalendarzowym, za który jest 2 wnoszona należna wpłata 3 Wysokość należnej wpłaty 4 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 5 Data wpłaty, o której mowa w poz. 4
+

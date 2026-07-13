@@ -49,3 +49,7 @@ w sprawie nazwy, wstążki, okuć oraz wzoru rysunkowego Gwiazdy Załóg Lotnicz
 
 **§ 4.** Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 
+## Załącznik
+
+Prezydent Rzeczypospolitej Polskiej: B. Komorowski Prezes Rady Ministrów: D. Tusk GWIAZDA GWIAZDA ZAŁÓG ZAŁÓG LOTNICZYCH LOTNICZYCH ODWROTNA ODWROTNA STRONA STRONA OkUcIE OKUCIE BARETKA BARETKA wstążEczka WSTĄŻECZKA
+

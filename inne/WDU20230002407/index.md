@@ -147,3 +147,34 @@ w sprawie nadawania stopni funkcjonariuszom Straży Marszałkowskiej Na podstawi
 
 **§ 8.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Załączniki Prezesa Rady Ministrów z dnia (Dz. U. poz. ...) Załącznik nr 1 WZÓR WZÓR WNIOSEK O NADANIE STOPNIA STRAŻY MARSZAŁKOWSKIEJ Na podstawie …………………… ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej wnoszę o nadanie:
+1. Nazwisko ………………………………………. imię/imiona …………………………….
+……………………………………. , data urodzenia ………………..……………….…….
+2. Data wstąpienia do służby …………………………………………………………………..
+3. Zajmowane stanowisko służbowe …………………………………………………………..
+4. Posiadany stopień Straży Marszałkowskiej ………………………………………………… , data nadania stopnia ………………………… ; najwyższy stopień Straży Marszałkowskiej na zajmowanym stanowisku służbowym ……………………………...……………………
+5. Wykształcenie …………………………………………………………………………..… ……………………………………………………………………………………………….
+6. Kwalifikacje zawodowe …………………..………………………………………………...
+……………………………………………………………………………………………….
+7. Informacje dotyczące opinii służbowej …………………………………………..………..
+……………………………………………………………………………………………….
+stopnia ….……………………………………………………………………………………..
+UZASADNIENIE ………………………………………………………………………………………………...… ………………………………………………………………………………………………...… ………………………………………………………………………………………………...… ………………………………………………………………………………………………...… …………………………………… ……………………………...
+Należy wskazać podstawę prawną nadania stopnia.
+Należy podać nazwę szkoły, rok ukończenia, posiadany tytuł zawodowy, stopień lub tytuł naukowy.
+Należy podać datę ostatniej opinii służbowej oraz ogólną ocenę z opiniowania służbowego.
+
+## Załącznik nr 2 — WZÓR WZÓR WNIOSEK ZBIORCZY O NADANIE stopnia podkomisarza Straży Marszałkowskiej Na podstawie ……..……….. ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej wnoszę o nadanie niżej wymienionym funkcjonariuszom Straży Marszałkowskiej z dniem ……………………….. stopnia PODKOMISARZA STRAŻY MARSZAŁKOWSKIEJ Posiadany Nazwisko i imię Data Ocena Lp. stopień Straży Wykształcenie z egzaminu (imiona) urodzenia Marszałkowskiej oficerskiego 1 2 ……………………….. ………………………………….
+
+Należy wskazać podstawę prawną nadania stopnia.
+Należy wskazać datę promocji.
+Należy wskazać nazwę szkoły oraz rok jej ukończenia, posiadany tytuł zawodowy, stopień lub tytuł naukowy.
+
+## Załącznik nr 3 — RZECZPOSPOLITA POLSKA AKT NADANIA STOPNIA STRAŻY MARSZAŁKOWSKIEJ PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ postanowieniem nr z dnia nadał stopień z dniem SZEF KANCELARII SEJMU Załącznik nr 4 RZECZPOSPOLITA POLSKA AKT NADANIA STOPNIA STRAŻY MARSZAŁKOWSKIEJ Na podstawie ustawy z dnia 26 stycznia 2018 r.
+
+o Straży Marszałkowskiej MARSZAŁEK SEJMU rozkazem personalnym z dnia nadał stopień z dniem Załącznik nr 5 RZECZPOSPOLITA POLSKA AKT NADANIA STOPNIA STRAŻY MARSZAŁKOWSKIEJ Na podstawie ustawy z dnia 26 stycznia 2018 r.
+o Straży Marszałkowskiej SZEF KANCELARII SEJMU rozkazem personalnym nr z dnia nadał stopień z dniem KOMENDANT STRAŻY MARSZAŁKOWSKIEJ Załącznik nr 6 RZECZPOSPOLITA POLSKA AKT NADANIA STOPNIA STRAŻY MARSZAŁKOWSKIEJ Na podstawie ustawy z dnia 26 stycznia 2018 r.
+o Straży Marszałkowskiej KOMENDANT STRAŻY MARSZAŁKOWSKIEJ rozkazem personalnym nr z dnia nadał stopień STARSZEGO APLIKANTA z dniem KOMENDANT STRAŻY MARSZAŁKOWSKIEJ
+

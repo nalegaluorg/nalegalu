@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Inne**.
 
-Łącznie: **19376** aktów
+Łącznie: **19352** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -7815,7 +7815,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20210000340](WDU20210000340/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20210000335](WDU20210000335/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 19 lutego 2021  | Rozporządzenie | obowiązujący |  |
 | [WDU20210000333](WDU20210000333/index.md) | Rozporządzenie Ministra Zdrowia z dnia 19 lutego 2021 r. zmieniające rozpor | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20210000330](WDU20210000330/index.md) | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Federalnej | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20210000325](WDU20210000325/index.md) | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia 18 lutego 2021  | Rozporządzenie | obowiązujący |  |
 | [WDU20210000319](WDU20210000319/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 2 lutego 2021 r. w sprawie ogło | Obwieszczenie | obowiązujący |  |
 | [WDU20210000317](WDU20210000317/index.md) | Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 16 | Rozporządzenie | obowiązujący |  |
@@ -10057,7 +10056,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20190000353](WDU20190000353/index.md) | Rozporządzenie Ministra Zdrowia z dnia 31 stycznia 2019 r. w sprawie progra | Rozporządzenie | obowiązujący |  |
 | [WDU20190000350](WDU20190000350/index.md) | Rozporządzenie Ministra Zdrowia z dnia 20 lutego 2019 r. w sprawie ośrodka  | Rozporządzenie | obowiązujący |  |
 | [WDU20190000348](WDU20190000348/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lutego 2019 r. w s | Obwieszczenie | obowiązujący |  |
-| [WDU20190000344](WDU20190000344/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 20 lutego 2019 r. w sprawie pr | Rozporządzenie | obowiązujący |  |
 | [WDU20190000342](WDU20190000342/index.md) | Trzeci Protokół do Porozumienia ogólnego w sprawie przywilejów i immunitetó | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20190000340](WDU20190000340/index.md) | Obwieszczenie Ministra Infrastruktury z dnia 30 stycznia 2019 r. w sprawie  | Obwieszczenie | obowiązujący |  |
 | [WDU20190000339](WDU20190000339/index.md) | Rozporządzenie Rady Ministrów z dnia 1 lutego 2019 r. zmieniające rozporząd | Rozporządzenie | obowiązujący |  |
@@ -10454,7 +10452,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180002092](WDU20180002092/index.md) | Ustawa z dnia 23 października 2018 r. zmieniająca ustawę o zmianie ustawy o | Ustawa | obowiązujący |  |
 | [WDU20180002091](WDU20180002091/index.md) | Rozporządzenie Ministra Infrastruktury z dnia 29 października 2018 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180002090](WDU20180002090/index.md) | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 30 października | Rozporządzenie | obowiązujący |  |
-| [WDU20180002088](WDU20180002088/index.md) | Zmiany do załącznika do Międzynarodowej konwencji o wymaganiach w zakresie  | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20180002085](WDU20180002085/index.md) | Rozporządzenie Ministra Środowiska z dnia 26 października 2018 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20180002083](WDU20180002083/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 października 2018 | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180002082](WDU20180002082/index.md) | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 26 października  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -10492,8 +10489,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180002028](WDU20180002028/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 paździ | Rozporządzenie | obowiązujący |  |
 | [WDU20180002025](WDU20180002025/index.md) | Rozporządzenie Rady Ministrów z dnia 3 października 2018 r. zmieniające roz | Rozporządzenie | obowiązujący |  |
 | [WDU20180002024](WDU20180002024/index.md) | Ustawa z dnia 13 września 2018 r. o Centrum Medycznego Kształcenia Podyplom | Ustawa | akt posiada tekst jednolity |  |
-| [WDU20180002021](WDU20180002021/index.md) | Protokół zmian do Międzynarodowej konwencji dotyczącej uproszczenia i harmo | Umowa międzynarodowa | obowiązujący |  |
-| [WDU20180002019](WDU20180002019/index.md) | Umowa ramowa o współpracy między Rzecząpospolitą Polską a Islamską Republik | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20180002018](WDU20180002018/index.md) | Ustawa z dnia 13 września 2018 r. o zmianie ustawy o weteranach działań poz | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20180002017](WDU20180002017/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 październi | Obwieszczenie | obowiązujący |  |
 | [WDU20180002013](WDU20180002013/index.md) | Rozporządzenie Ministra Zdrowia z dnia 12 października 2018 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -10509,7 +10504,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20180001999](WDU20180001999/index.md) | Rozporządzenie Ministra Cyfryzacji z dnia 12 października 2018 r. w sprawie | Rozporządzenie | obowiązujący |  |
 | [WDU20180001996](WDU20180001996/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 11 paździ | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20180001995](WDU20180001995/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 11 paździer | Rozporządzenie | obowiązujący |  |
-| [WDU20180001988](WDU20180001988/index.md) | Umowa między Rzecząpospolitą Polską a Federacyjną Republiką Brazylii o prze | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20180001985](WDU20180001985/index.md) | Rozporządzenie Ministra Zdrowia z dnia 11 października 2018 r. w sprawie pr | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20180001979](WDU20180001979/index.md) | V Protokół do Układu ogólnego w sprawie handlu usługami (GATS), sporządzony | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20180001977](WDU20180001977/index.md) | Rozporządzenie Rady Ministrów z dnia 3 października 2018 r. zmieniające roz | Rozporządzenie | obowiązujący |  |
@@ -13493,11 +13487,9 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20150002183](WDU20150002183/index.md) | Ustawa z dnia 16 grudnia 2015 r. o zmianie ustawy - Prawo o ruchu drogowym  | Ustawa | obowiązujący |  |
 | [WDU20150002182](WDU20150002182/index.md) | Rozporządzenie Ministra Finansów z dnia 18 grudnia 2015 r. w sprawie wysoko | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20150002180](WDU20150002180/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 grudnia 2015 r. w | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20150002172](WDU20150002172/index.md) | Umowa między Europejską Organizacją Badań Astronomicznych na Półkuli Połudn | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20150002171](WDU20150002171/index.md) | Ustawa z dnia 16 grudnia 2015 r. zmieniająca ustawę o zmianie ustawy o udos | Ustawa | obowiązujący |  |
 | [WDU20150002169](WDU20150002169/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 grudnia 2015 r. w | Rozporządzenie | obowiązujący |  |
 | [WDU20150002166](WDU20150002166/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 grudnia 2015 r. z | Rozporządzenie | obowiązujący |  |
-| [WDU20150002159](WDU20150002159/index.md) | Umowa między państwami członkowskimi Unii Europejskiej, zebranymi w Radzie, | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20150002157](WDU20150002157/index.md) | Rozporządzenie Ministra Finansów z dnia 11 grudnia 2015 r. zmieniające rozp | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20150002150](WDU20150002150/index.md) | Ustawa z dnia 10 grudnia 2015 r. o zmianie ustawy o finansach publicznych | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20150002148](WDU20150002148/index.md) | Rozporządzenie Ministra Rozwoju z dnia 14 grudnia 2015 r. w sprawie wzoru z | Rozporządzenie | obowiązujący |  |
@@ -13512,7 +13504,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20150002120](WDU20150002120/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 26 listopada | Obwieszczenie | obowiązujący |  |
 | [WDU20150002118](WDU20150002118/index.md) | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 listopada 2015 r.  | Obwieszczenie | obowiązujący |  |
 | [WDU20150002116](WDU20150002116/index.md) | Rozporządzenie Rady Ministrów z dnia 3 grudnia 2015 r. w sprawie Pełnomocni | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20150002112](WDU20150002112/index.md) | Porozumienie między Rządem Rzeczypospolitej Polskiej, Rządem Królestwa Dani | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20150002108](WDU20150002108/index.md) | Obwieszczenie Ministra Zdrowia z dnia 27 listopada 2015 r. w sprawie ogłosz | Obwieszczenie | obowiązujący |  |
 | [WDU20150002104](WDU20150002104/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 9  | Rozporządzenie | obowiązujący |  |
 | [WDU20150002101](WDU20150002101/index.md) | Rozporządzenie Ministra Zdrowia z dnia 3 grudnia 2015 r. w sprawie wymagań  | Rozporządzenie | obowiązujący |  |
@@ -13657,9 +13648,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20150001769](WDU20150001769/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 14 paździer | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20150001767](WDU20150001767/index.md) | Ustawa z dnia 25 września 2015 r. o zmianie niektórych ustaw w związku ze w | Ustawa | obowiązujący |  |
 | [WDU20150001764](WDU20150001764/index.md) | Ustawa z dnia 25 września 2015 r. o zmianie ustawy o usługach płatniczych | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20150001761](WDU20150001761/index.md) | Traktat między Królestwem Hiszpanii, Republiką Francuską, Republiką Włoską, | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20150001760](WDU20150001760/index.md) | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 20 października 201 | Rozporządzenie | akt posiada tekst jednolity |  |
-| [WDU20150001758](WDU20150001758/index.md) | Statut Międzynarodowej Organizacji Policji Kryminalnej - Interpol, przyjęty | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20150001757](WDU20150001757/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 20 października 2015 r. w sp | Rozporządzenie | obowiązujący |  |
 | [WDU20150001756](WDU20150001756/index.md) | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 20 października 201 | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20150001755](WDU20150001755/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2015 | Rozporządzenie | obowiązujący |  |
@@ -13710,7 +13699,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20150001686](WDU20150001686/index.md) | Rozporządzenie Ministra Zdrowia z dnia 15 października 2015 r. w sprawie sz | Rozporządzenie | obowiązujący |  |
 | [WDU20150001684](WDU20150001684/index.md) | Obwieszczenie Ministra Administracji i Cyfryzacji z dnia 6 października 201 | Obwieszczenie | obowiązujący |  |
 | [WDU20150001683](WDU20150001683/index.md) | Obwieszczenie Ministra Administracji i Cyfryzacji z dnia 6 października 201 | Obwieszczenie | obowiązujący |  |
-| [WDU20150001681](WDU20150001681/index.md) | Memorandum o porozumieniu między Rządem Rzeczypospolitej Polskiej a Rządem  | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20150001678](WDU20150001678/index.md) | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 7 październ | Rozporządzenie | obowiązujący |  |
 | [WDU20150001677](WDU20150001677/index.md) | Rozporządzenie Rady Ministrów z dnia 21 października 2015 r. zmieniające ro | Rozporządzenie | obowiązujący |  |
 | [WDU20150001675](WDU20150001675/index.md) | Obwieszczenie Ministra Finansów z dnia 22 września 2015 r. w sprawie ogłosz | Obwieszczenie | obowiązujący |  |
@@ -13720,8 +13708,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20150001665](WDU20150001665/index.md) | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 7 października 2015 | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20150001662](WDU20150001662/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 29 września 2015 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20150001661](WDU20150001661/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 września 2015 r.  | Rozporządzenie | obowiązujący |  |
-| [WDU20150001656](WDU20150001656/index.md) | Układ o stabilizacji i stowarzyszeniu między Wspólnotami Europejskimi i ich | Umowa międzynarodowa | obowiązujący |  |
-| [WDU20150001654](WDU20150001654/index.md) | Międzynarodowa konwencja o wymaganiach w zakresie wyszkolenia, wydawania św | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20150001647](WDU20150001647/index.md) | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20150001645](WDU20150001645/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 6 października 2015 r. w spr | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20150001643](WDU20150001643/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 15 października 2015 r. w sp | Rozporządzenie | obowiązujący |  |
@@ -14590,10 +14576,8 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140001331](WDU20140001331/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 19 września 2014 r. w spr | Rozporządzenie | obowiązujący |  |
 | [WDU20140001329](WDU20140001329/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 19 sierpnia 2014 r. w spr | Rozporządzenie | obowiązujący |  |
 | [WDU20140001327](WDU20140001327/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 18 września 2014 r. sygn. akt K 44/1 | Orzeczenie | obowiązujący |  |
-| [WDU20140001324](WDU20140001324/index.md) | Umowa pomiędzy Państwami Stronami Konwencji o utworzeniu Europejskiej Agenc | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20140001322](WDU20140001322/index.md) | Ustawa z dnia 29 sierpnia 2014 r. o zmianie ustawy o bateriach i akumulator | Ustawa | obowiązujący |  |
 | [WDU20140001320](WDU20140001320/index.md) | Porozumienie wykonawcze między Rządem Rzeczypospolitej Polskiej a Rządem St | Umowa międzynarodowa | obowiązujący |  |
-| [WDU20140001318](WDU20140001318/index.md) | Porozumienie wykonawcze między Rządem Rzeczypospolitej Polskiej a Rządem St | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20140001315](WDU20140001315/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 26 września 2014 r. zmien | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20140001314](WDU20140001314/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 25 września 2014 r. w spr | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20140001313](WDU20140001313/index.md) | Rozporządzenie Ministra Zdrowia z dnia 19 września 2014 r. w sprawie dokony | Rozporządzenie | obowiązujący |  |
@@ -14939,7 +14923,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140000489](WDU20140000489/index.md) | Rozporządzenie Rady Ministrów z dnia 8 kwietnia 2014 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20140000486](WDU20140000486/index.md) | Ustawa z dnia 14 marca 2014 r. o zmianie ustawy - Prawo o ruchu drogowym or | Ustawa | obowiązujący |  |
 | [WDU20140000481](WDU20140000481/index.md) | Ustawa z dnia 14 marca 2014 r. o zmianie ustawy - Prawo o ustroju sądów pow | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20140000479](WDU20140000479/index.md) | Umowa o ustanowieniu Bałtyckiego Funkcjonalnego Bloku Przestrzeni Powietrzn | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20140000478](WDU20140000478/index.md) | Rozporządzenie Ministra Edukacji Narodowej z dnia 25 marca 2014 r. zmieniaj | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20140000477](WDU20140000477/index.md) | Ustawa z dnia 14 marca 2014 r. o zmianie ustawy o Chrześcijańskiej Akademii | Ustawa | obowiązujący |  |
 | [WDU20140000476](WDU20140000476/index.md) | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 1 kwietnia 2014  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -14947,7 +14930,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140000471](WDU20140000471/index.md) | Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 19 marca 2014 r.  | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20140000465](WDU20140000465/index.md) | Obwieszczenie Ministra Zdrowia z dnia 27 lutego 2014 r. w sprawie ogłoszeni | Obwieszczenie | obowiązujący |  |
 | [WDU20140000464](WDU20140000464/index.md) | Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 26 marca 2014 r.  | Rozporządzenie | obowiązujący |  |
-| [WDU20140000461](WDU20140000461/index.md) | Porozumienie z Locarno ustanawiające międzynarodową klasyfikację wzorów prz | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20140000460](WDU20140000460/index.md) | Rozporządzenie Rady Ministrów z dnia 4 kwietnia 2014 r. w sprawie realizacj | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20140000458](WDU20140000458/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 marca 2014 r. w s | Rozporządzenie | obowiązujący |  |
 | [WDU20140000457](WDU20140000457/index.md) | Ustawa z dnia 21 marca 2014 r. o zmianie ustawy o biokomponentach i biopali | Ustawa | obowiązujący |  |
@@ -15002,7 +14984,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140000328](WDU20140000328/index.md) | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 11 marca 2014 r. w  | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20140000323](WDU20140000323/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2014 r. zmi | Rozporządzenie | obowiązujący |  |
 | [WDU20140000320](WDU20140000320/index.md) | Rozporządzenie Rady Ministrów z dnia 12 marca 2014 r. zmieniające rozporząd | Rozporządzenie | obowiązujący |  |
-| [WDU20140000313](WDU20140000313/index.md) | Umowa między Rzecząpospolitą Polską a Gibraltarem o wymianie informacji w s | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20140000310](WDU20140000310/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 23 grudnia 2013 r. w sprawie og | Obwieszczenie | obowiązujący |  |
 | [WDU20140000309](WDU20140000309/index.md) | Obwieszczenie Przewodniczącego Krajowej Rady Radiofonii i Telewizji z dnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20140000305](WDU20140000305/index.md) | Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 11 grudnia 2013 r | Obwieszczenie | obowiązujący |  |
@@ -15044,7 +15025,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140000172](WDU20140000172/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 23 stycznia 2014 r. sygn. akt K 51/1 | Orzeczenie | obowiązujący |  |
 | [WDU20140000171](WDU20140000171/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 stycznia 2014 r.  | Rozporządzenie | obowiązujący |  |
 | [WDU20140000169](WDU20140000169/index.md) | Ustawa z dnia 13 grudnia 2013 r. o ustaleniu i wypłacie emerytur, do któryc | Ustawa | obowiązujący |  |
-| [WDU20140000165](WDU20140000165/index.md) | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Marokański | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20140000161](WDU20140000161/index.md) | Rozporządzenie Rady Ministrów z dnia 27 grudnia 2013 r. w sprawie Krajowej  | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20140000156](WDU20140000156/index.md) | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2014 | Rozporządzenie | obowiązujący |  |
 | [WDU20140000146](WDU20140000146/index.md) | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 28 stycznia 2014 | Rozporządzenie | obowiązujący |  |
@@ -15074,7 +15054,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140000082](WDU20140000082/index.md) | Rozporządzenie Ministra Finansów z dnia 15 stycznia 2014 r. w sprawie szcze | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20140000080](WDU20140000080/index.md) | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 19 grudnia 2013  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20140000079](WDU20140000079/index.md) | Rozporządzenie Prezesa Rady Ministrów z dnia 10 stycznia 2014 r. w sprawie  | Rozporządzenie | obowiązujący |  |
-| [WDU20140000077](WDU20140000077/index.md) | Zmiany regulaminu do Traktatu singapurskiego o prawie znaków towarowych, pr | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20140000076](WDU20140000076/index.md) | Rozporządzenie Ministra Środowiska z dnia 9 stycznia 2014 r. zmieniające ro | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20140000075](WDU20140000075/index.md) | Rozporządzenie Ministra Środowiska z dnia 9 stycznia 2014 r. zmieniające ro | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20140000074](WDU20140000074/index.md) | Rozporządzenie Ministra Środowiska z dnia 9 stycznia 2014 r. zmieniające ro | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -15099,7 +15078,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140000038](WDU20140000038/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 17 grudnia 2013 r. sygn. akt SK 29/1 | Orzeczenie | obowiązujący |  |
 | [WDU20140000037](WDU20140000037/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 12 grudnia 2013 r. sygn. akt K 5/13 | Orzeczenie | obowiązujący |  |
 | [WDU20140000036](WDU20140000036/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 grudnia 2013 r. z | Rozporządzenie | akt objęty tekstem jednolitym |  |
-| [WDU20140000034](WDU20140000034/index.md) | Umowa o współpracy w zakresie cywilnego Globalnego Systemu Nawigacji Sateli | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20140000031](WDU20140000031/index.md) | Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy - Prawo o ustroju sądów  | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20140000029](WDU20140000029/index.md) | Ustawa z dnia 22 listopada 2013 r. o zmianie ustawy o ochronie zdrowia zwie | Ustawa | obowiązujący |  |
 | [WDU20140000026](WDU20140000026/index.md) | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 13 grudnia 2013 r.  | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -15114,7 +15092,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20140000012](WDU20140000012/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 30 grudnia 2013 r. zmieni | Rozporządzenie | akt objęty tekstem jednolitym | [tak](WDU20140000012/orzecznictwo.md) |
 | [WDU20140000011](WDU20140000011/index.md) | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 30 grudnia 2013 r. zmieni | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20140000010](WDU20140000010/index.md) | Rozporządzenie Ministra Zdrowia z dnia 12 grudnia 2013 r. w sprawie wzoru w | Rozporządzenie | obowiązujący |  |
-| [WDU20140000008](WDU20140000008/index.md) | Porozumienie z dnia 16 października 2013 r. między Rządem Rzeczypospolitej  | Porozumienie | obowiązujący |  |
 | [WDU20140000007](WDU20140000007/index.md) | Ustawa z dnia 6 grudnia 2013 r. o zmianie ustawy o systemie oświaty oraz ni | Ustawa | obowiązujący | [tak](WDU20140000007/orzecznictwo.md) |
 | [WDU20140000004](WDU20140000004/index.md) | Rozporządzenie Ministra Zdrowia z dnia 18 grudnia 2013 r. w sprawie sposobu | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20140000001](WDU20140000001/index.md) | Rozporządzenie Rady Ministrów z dnia 17 grudnia 2013 r. zmieniające rozporz | Rozporządzenie | akt objęty tekstem jednolitym |  |
@@ -16071,7 +16048,6 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU20120000819](WDU20120000819/index.md) | Wyrok Trybunału Konstytucyjnego z dnia 9 lipca 2012 r. sygn. akt P 59/11 | Orzeczenie | obowiązujący |  |
 | [WDU20120000818](WDU20120000818/index.md) | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 lipca 2012 r. zmie | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20120000817](WDU20120000817/index.md) | Rozporządzenie Ministra Zdrowia z dnia 9 lipca 2012 r. w sprawie szczegółow | Rozporządzenie | obowiązujący |  |
-| [WDU20120000814](WDU20120000814/index.md) | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Federacji Rosyjskiej | Umowa międzynarodowa | obowiązujący |  |
 | [WDU20120000811](WDU20120000811/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 5 lipca 2012 r. zmieniające  | Rozporządzenie | akt objęty tekstem jednolitym |  |
 | [WDU20120000810](WDU20120000810/index.md) | Rozporządzenie Ministra Obrony Narodowej z dnia 21 czerwca 2012 r. w sprawi | Rozporządzenie | akt posiada tekst jednolity |  |
 | [WDU20120000808](WDU20120000808/index.md) | Rozporządzenie Ministra Sprawiedliwości z dnia 5 lipca 2012 r. w sprawie sz | Rozporządzenie | akt posiada tekst jednolity |  |
@@ -19383,4 +19359,4 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19310380294](WDU19310380294/index.md) | Ustawa z dnia 17 marca 1931 r. w sprawie przystąpienia Polski do traktatu,  | Ustawa | obowiązujący |  |
 | [WDU19200310178](WDU19200310178/index.md) | Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców | Ustawa | akt posiada tekst jednolity | [tak](WDU19200310178/orzecznictwo.md) |
 
-*19376 aktów • [← Powrót do spisu głównego](../README.md)*
+*19352 aktów • [← Powrót do spisu głównego](../README.md)*

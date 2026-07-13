@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-12T22:56:19Z",
+  "generated_at": "2026-07-13T08:48:43Z",
   "acts": {
-    "published": 20246,
-    "rejected": 6148,
+    "published": 20222,
+    "rejected": 6172,
     "total_in_db": 27227
   },
   "content": {
-    "total_body_chars": 599116161,
+    "total_body_chars": 599787246,
     "total_articles": 188626,
-    "avg_body_chars": 29591,
+    "avg_body_chars": 29660,
     "avg_articles": 9.3
   },
   "sources": {
-    "pdf": 20246
+    "pdf": 20222
   },
   "act_types": {
-    "Rozporządzenie": 11219,
+    "Rozporządzenie": 11218,
     "Ustawa": 4740,
     "Obwieszczenie": 2532,
     "Orzeczenie": 1338,
-    "Umowa międzynarodowa": 357,
+    "Umowa międzynarodowa": 335,
     "Protokół": 18,
     "Dekret": 8,
     "Konwencja": 8,
-    "Porozumienie": 8,
+    "Porozumienie": 7,
     "Postanowienie": 6,
     "Uchwała": 5,
     "Oświadczenie rządowe": 4,
@@ -32,12 +32,12 @@
     "Oświadczenie": 1
   },
   "statuses": {
-    "obowiązujący": 13027,
+    "obowiązujący": 13003,
     "akt objęty tekstem jednolitym": 5310,
     "akt posiada tekst jednolity": 1909
   },
   "domains": {
-    "inne": 19376,
+    "inne": 19352,
     "prawo-podatkowe": 195,
     "prawo-karne": 159,
     "prawo-cywilne": 135,
@@ -56,12 +56,12 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 603,
+    "quality_gate_blocked": 627,
     "original_pdf_for_unified_skipped": 0,
     "consolidated_article_coverage_checked": 719,
     "consolidated_article_coverage_with_gaps": 487,
     "consolidated_article_coverage_unexplained_gaps": 10985,
     "rejected_scans": 5,
-    "rejected_other": 6143
+    "rejected_other": 6167
   }
 }

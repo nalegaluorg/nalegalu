@@ -31,3 +31,7 @@ w sprawie wysokości miesięcznych stawek wynagrodzenia zasadniczego referendarz
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2017 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: B. Szydło WYSOKOŚĆ MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO REFERENDARZY Lp. Stawka wynagrodzenia zasadniczego Relacja do stawki wynagrodzenia zasadniczego sędziów sądów powszechnych określonej w załączniku do ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2016 r. poz. 2062, 1948, 2103 i 2261 oraz z 2017 r. poz. 38 i 60) 1 2 3 1 Pierwsza 60% pierwszej stawki wynagrodzenia zasadniczego sędziego sądu rejonowego 2 Druga 75% pierwszej stawki wynagrodzenia zasadniczego sędziego sądu rejonowego 3 Trzecia 85% pierwszej stawki wynagrodzenia zasadniczego sędziego sądu rejonowego 4 Czwarta 85% drugiej stawki wynagrodzenia zasadniczego sędziego sądu rejonowego 5 Piąta 85% trzeciej stawki wynagrodzenia zasadniczego sędziego sądu rejonowego
+

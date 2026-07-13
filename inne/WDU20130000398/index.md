@@ -82,3 +82,19 @@ Nr 205, poz. 1203) zarządza się, co następuje:
 
 **§ 9.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk WZÓR ODZNAKA HONOROWA „ZA ZASŁUGI W ZAPEWNIANIU BEZPIECZEŃSTWA PAŃSTWA POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” skala 1:1 skala 3:1 Opis Odznaki Honorowej „Za zasługi w zapewnianiu bezpieczeństwa państwa poza granicami Rzeczypospolitej Polskiej” Odznaka Honorowa, w kształcie stylizowanego ukoronowanego orła z rozpostartymi skrzydłami wychylonego zza trójkąta obróconego wierzchołkiem do dołu, jest wykonana z metalu srebrzonego i oksydowanego, z trójkątem podzielonym na dwa skośne pasy pokryte emalią białą i czerwoną. Na odwrocie z gwintowanym trzpieniem i nakrętką oraz bitym numerem kolejnym. Wymiary Odznaki Honorowej: 38 mm x 28 mm.
+
+## Załącznik nr 2 — W Z Ó R WZÓR WNIOSEK WNIOSEK O NADANIE O NADANIE ODZNAKI ODZNAKI HONOROWEJ HONOROWEJ „ZA ZASŁUGI „ZA ZASŁUGI W ZAPEWNIANIU W ZAPEWNIANIU BEZPIECZEŃSTWA BEZPIECZEŃSTWA PAŃSTWA PAŃSTWA POZA GRANICAMI POZA GRANICAMI RZECZYPOSPOLITEJ RZECZYPOSPOLITEJ POLSKIEJ” POLSKIEJ” PREZES RADY MINISTRÓW SZEF AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO* SZEF AGENCJI WYWIADU* Imię (imiona) i nazwisko kandydata …………………………………………………………………………….
+
+Imię ojca ………………………………………………………………………………………………………… Data i miejsce urodzenia …………………………………… nr PESEL ……………………………………….
+Miejsce pełnienia służby; zajmowane stanowisko służbowe* ………………………………………………….
+………………………………………………………………………………………………..………………….
+Data zwolnienia ze służby* ……………………………………………………………………………………… Uzasadnienie wniosku ……………………………………………………………………………………………..
+……………………………………………………………………………………………………………………...
+……………………………………………………………………………………………………………………...
+……………………………………………………………………………………………………………………..
+WNOSZĘ O NADANIE ODZNAKI HONOROWEJ „ZA ZASŁUGI W ZAPEWNIANIU BEZPIECZEŃSTWA PAŃSTWA POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” …………………………………., …………… ……………………………..
+* WZÓR LEGITYMACJI POTWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ „ZA ZASŁUGI W ZAPEWNIANIU BEZPIECZEŃSTWA PAŃSTWA POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” strony 1, 4 strony 2, 3 Opis legitymacji potwierdzającej nadanie Odznaki Honorowej „Za zasługi w zapewnianiu bezpieczeństwa państwa poza granicami Rzeczypospolitej Polskiej” Legitymacja ma postać książeczki o wymiarach 152 mm x 107 mm 1 strona zawiera godło RP i napis RZECZPOSPOLITA POLSKA 2 strona zawiera napisy: – „LEGITYMACJA”, poniżej nr legitymacji – poniżej graficzny wizerunek Odznaki Honorowej – w dolnej części miejsce na datę wystawienia legitymacji 3 strona zawiera napisy: NADAJĘ PANI/PANU, IMIĘ i NAZWISKO, ODZNAKĘ HONOROWĄ „ZA ZASŁUGI W ZAPEWNIANIU BEZPIECZEŃSTWA PAŃSTWA POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” – poniżej miejsce na podpis i pieczęć organu przyznającego Odznakę Honorową
+

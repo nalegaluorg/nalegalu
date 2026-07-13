@@ -81,3 +81,10 @@ poz. 207) zarządza się, co następuje:
 
 **§ 8.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia z dnia (poz. ) WZÓR WZÓR DEKLARACJA ZAKŁADU UBEZPIECZEŃ ALBO ZAKŁADU REASEKURACJI O WNIESIONYCH WPŁATACH NA POKRYCIE KOSZTÓW NADZORU ZA ROK … Nazwa zakładu ubezpieczeń albo zakładu reasekuracji: …………………………………..
+…………………………………..
+NIP: …………………………………..
+Dane, w tym kwoty Poz. Wyszczególnienie zaokrąglone do pełnych złotych 1 Składka przypisana brutto w roku kalendarzowym poprzedzającym o dwa lata dany rok kalendarzowy albo w roku obrotowym zakończonym w roku kalendarzowym poprzedzającym o dwa lata dany rok, ustalona na podstawie zbadanego i zatwierdzonego sprawozdania finansowego 2 Wysokość stawki zastosowanej do obliczenia należnej od zakładu ubezpieczeń albo zakładu reasekuracji wpłaty na pokrycie kosztów nadzoru za dany rok kalendarzowy 3 Wysokość należnej od zakładu ubezpieczeń albo zakładu reasekuracji wpłaty na pokrycie kosztów nadzoru 4 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 5 Data wpłaty, o której mowa w poz. 4 /-podpisano podpisem elektronicznym/
+

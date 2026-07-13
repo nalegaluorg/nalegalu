@@ -188,3 +188,7 @@ z 2017 r. poz. 2137) zarządza się, co następuje:
 
 **§ 13.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki MAKSYMALNE PLONY UZYSKIWANE Z UPRAW OWOCÓW OBJĘTYCH WSPARCIEM Lp. Produkt Maksymalny plon w dt/ha 1 jabłka kod CN 0808 10 306 2 gruszki kod CN 0808 30 114 3 śliwki kod CN 0809 40 05 90 4 brzoskwinie kod CN 0809 30 200 MAKSYMALNY POZIOM WSPARCIA W PRZELICZENIU NA 1 HA UPRAW, Z KTÓRYCH POCHODZĄ PRODUKTY OBJĘTE OPERACJĄ WYCOFANIA Z RYNKU Maksymalny poziom wsparcia na 1 ha Maksymalny poziom wsparcia na 1 ha w odniesieniu do operacji wycofania w odniesieniu do operacji wycofania Lp. Produkt z rynku produktów z przeznaczeniem z rynku produktów z przeznaczeniem na bezpłatną dystrybucję na cele inne niż bezpłatna dystrybucja (w euro) (w euro) 1 jabłka kod CN 0808 10 5 195,88 2 022,66 2 gruszki kod CN 0808 30 2 718,90 906,30 3 śliwki kod CN 0809 40 05 3 060,00 918,00 4 brzoskwinie kod CN 0809 30 5 380,00 2 690,00
+

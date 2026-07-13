@@ -57,3 +57,7 @@ zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego z
 
 **§ 3.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: E. Kopacz MAKSYMALNY POZIOM WSPARCIA W PRZELICZENIU NA 1 HA UPRAW, Z KTÓRYCH POCHODZĄ PRODUKTY OBJĘTE OPERACJĄ WYCOFANIA Z RYNKU Lp. Produkt Maksymalny poziom Maksymalny poziom wsparcia na 1 ha wsparcia na 1 ha w odniesieniu do operacji w odniesieniudo operacji wycofania z rynku wycofania z rynku produktówz przeznaczeniem produktów na bezpłatną dystrybucję z przeznaczeniem na cele (w euro) inne niż bezpłatna dystrybucja (w euro) 1 pomidory kod CN 0702 00 00; pod osłonami 90 585,00 60 390,00 2 marchew kod CN 0706 10 00; 7 391,37 4 927,58 3 papryka słodka kod CN 0709 60 10; pod osłonami 48 840,00 33 000,00 4 ogórki kod CN 0707 00 05; pod osłonami 64 800,00 43 200,00 5 jabłka kod CN 0808 10; 5 195,88 4 045,32 6 gruszki kod CN 0808 30; 2 718,90 1 812,60
+

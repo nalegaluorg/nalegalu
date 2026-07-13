@@ -531,3 +531,7 @@ poz. 347, 641, 1615, 1834 i 1872) zarządza się, co następuje:
 
 **§ 22.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki WYKAZ WIODĄCYCH PODMIOTÓW LECZNICZYCH UTWORZONYCH PRZEZ MINISTRA OBRONY NARODOWEJ DLA POSZCZEGÓLNYCH REJONÓW ZABEZPIECZENIA MEDYCZNEGO WOJSK Numer Obszar odpowiedzialności Wiodący podmiot leczniczy rejonu I województwo mazowieckie Wojskowy Instytut Medyczny – Państwowy Instytut Badawczy w Warszawie 1 Wojskowy Szpital Kliniczny z Polikliniką II województwa: lubelskie, podkarpackie Samodzielny Publiczny Zakład Opieki Zdrowotnej w Lublinie województwa: łódzkie, świętokrzyskie, 5 Wojskowy Szpital Kliniczny z Polikliniką III małopolskie, śląskie Samodzielny Publiczny Zakład Opieki Zdrowotnej w Krakowie 4 Wojskowy Szpital Kliniczny z Polikliniką IV województwa: dolnośląskie, opolskie, lubuskie Samodzielny Publiczny Zakład Opieki Zdrowotnej we Wrocławiu województwa: wielkopolskie, 10 Wojskowy Szpital Kliniczny z Polikliniką V kujawsko-pomorskie Samodzielny Publiczny Zakład Opieki Zdrowotnej w Bydgoszczy 109 Szpital Wojskowy z Przychodnią VI województwo zachodniopomorskie Samodzielny Publiczny Zakład Opieki Zdrowotnej w Szczecinie 7 Szpital Marynarki Wojennej z Przychodnią VII województwo pomorskie Samodzielny Publiczny Zakład Opieki Zdrowotnej w Gdańsku 1 Wojskowy Szpital Kliniczny z Polikliniką VIII województwa: warmińsko-mazurskie, podlaskie Samodzielny Publiczny Zakład Opieki Zdrowotnej w Lublinie Filia w Ełku
+

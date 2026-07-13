@@ -31,3 +31,7 @@ w sprawie wykazu spółek służących do realizacji zadań Agencji Mienia Wojsk
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem 29 marca 2019 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki WYKAZ SPÓŁEK SŁUŻĄCYCH DO REALIZACJI ZADAŃ AGENCJI MIENIA WOJSKOWEGO Lp. FIRMA SPÓŁKI NUMER KRS 1 AMW Towarzystwo Budownictwa Społecznego „KWATERA” spółka z ograniczoną 0000140528 odpowiedzialnością z siedzibą w Warszawie 2 AMW REWITA spółka z ograniczoną odpowiedzialnością z siedzibą w Warszawie 0000394569 3 AMW SINEVIA spółka z ograniczoną odpowiedzialnością z siedzibą w Nowym Dworze 0000392868 Mazowieckim 4 „MAZOWIECKI PORT LOTNICZY WARSZAWA-MODLIN spółka z ograniczoną 0000184990 odpowiedzialnością” z siedzibą w Nowym Dworze Mazowieckim 5 AMW INVEST spółka z ograniczoną odpowiedzialnością z siedzibą we Wrocławiu 0000003772
+

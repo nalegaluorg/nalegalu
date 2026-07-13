@@ -34,3 +34,7 @@ zmieniające rozporządzenie w sprawie wielokrotności kwoty bazowej oraz szczeg
 
 **§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Kategoria zaszeregowania Kwota w złotych I 2970–4550 II 3000–4610 III 3030–4670 IV 3060–4730 V 3090–4790 VI 3130–4850 VII 3170–4940 VIII 3210–5060 IX 3250–5190 X 3310–5310 XI 3370–5440 XII 3430–5630 XIII 3490–5820 XIV 3550–6000 XV 3610–6180 XVI 3670–6360 XVII 3730–6550 XVIII 3790–6740 XIX 3850–6930 XX 3910–7120 XXI 3970–7310 TABELA PROCENTOWYCH STAWEK DODATKU FUNKCYJNEGO Stawka dodatku funkcyjnego Procent od kwoty 1000 zł 1 do 35 2 do 50 3 do 65 4 do 85 5 do 95 6 do 110 7 do 125 8 do 150 9 do 175 10 do 200
+

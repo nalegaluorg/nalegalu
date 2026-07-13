@@ -37,3 +37,7 @@ poz. 2447 i 2448) zarządza się, co następuje:
 
 **§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Tabela D. Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pozostałych pracowników urzędów i jednostek Kategoria zaszeregowania Kwota w złotych 1 2 I 880–3700 II 1450–3720 III 1460–3740 IV 1470–3770 V 1480–3800 VI 1490–3830 VII 1500–3860 VIII 1510–4030 IX 1530–4200 X 1560–4370 XI 1590–4580 XII 1620–4800 XIII 1670–5050 XIV 1710–5390 XV 1750–5730 XVI 1810–6230 XVII 1870–6740 XVIII 1940–7250 XIX 2010–7760 XX 2070–8270 XXI 2190–8920 Tabela B. Tabela stanowisk, kwot wynagrodzenia zasadniczego i dodatku funkcyjnego oraz kwalifikacji członków Państwowej Komisji Badania Wypadków Lotniczych, Państwowej Komisji Badania Wypadków Kolejowych oraz Państwowej Komisji Badania Wypadków Morskich Kwota Kwota dodatku Wymagane kwalifikacje Lp. Stanowisko wynagrodzenia funkcyjnego w zł zasadniczego w zł wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Przewodniczący 6500–10 600 1600–3200 Komisji Zastępca 2 Przewodniczącego 5800–9200 900–2800 Komisji, sekretarz Komisji według odrębnych przepisów Członek Komisji 3 pełniący funkcję 5600–8700 500–1500 Koordynatora Oddziału PKBWK 4 Członek Komisji 5600–8700 -
+

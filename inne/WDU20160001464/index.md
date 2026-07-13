@@ -31,3 +31,7 @@ w sprawie reorganizacji Instytutu Energetyki Na podstawie art. 7 ust. 3 ustawy z
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: B. Szydło Instytut Energetyki został utworzony na podstawie uchwały nr 815/53 Rady Ministrów z dnia 2 listopada 1953 r. w sprawie powołania Instytutu Energetyki, zarządzenia nr 14/Org/91 Ministra Przemysłu i Handlu z dnia 20 sierpnia 1991 r. w sprawie dostosowania reorganizacji instytutu naukowo-badawczego pod nazwą Instytut Energetyki do przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. Nr 36, poz. 170, z późn. zm.), zarządzenia nr 236/Org/91 Ministra Przemysłu i Handlu z dnia 23 grudnia 1991 r. w sprawie połączenia Instytutu Energetyki i Ośrodka Badawczo-Rozwojowego Ceramiki Elektrotechnicznej „CEREL” w Boguchwale oraz rozporządzenia Ministra Gospodarki z dnia 7 listopada 2007 r. w sprawie połączenia Instytutu Energetyki, Instytutu Techniki Cieplnej oraz Instytutu Techniki Grzewczej i Sanitarnej (Dz. U. poz. 1565).
+

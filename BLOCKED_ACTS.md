@@ -2,7 +2,7 @@
 
 Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów z jakością ekstrakcji tekstu z PDF. Pracujemy nad ich naprawą.
 
-**Łącznie:** 6127 aktów
+**Łącznie:** 6151 aktów
 
 | Adres | Tytuł | Problem |
 |-------|-------|---------|
@@ -5672,6 +5672,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20120000566 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 17 maja 20… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20120000638 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 4 czerwca … | character-spaced text — 4 line(s) with >30% single-letter wo |
 | WDU20120000663 | Rozporządzenie Ministra Zdrowia z dnia 24 maja 2012 r. zmien… | excessive repetition — '.................................... |
+| WDU20120000814 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Feder… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20120000837 | Wyrok Trybunału Konstytucyjnego z dnia 11 lipca 2012 r. sygn… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20120000977 | Rozporządzenie Ministra Edukacji Narodowej z dnia 27 sierpni… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130000057 | Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki… | character-spaced text — 1 line(s) with >30% single-letter wo |
@@ -5681,14 +5682,23 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20130000829 | Ustawa z dnia 13 czerwca 2013 r. o zmianie ustaw regulującyc… | rendered round-trip failed: AST=59 rendered=67 missing_rende |
 | WDU20130001246 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 paździe… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130001466 | Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 25… | rendered round-trip failed: AST=3 rendered=3 empty_articles= |
+| WDU20140000008 | Porozumienie z dnia 16 października 2013 r. między Rządem Rz… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20140000034 | Umowa o współpracy w zakresie cywilnego Globalnego Systemu N… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20140000077 | Zmiany regulaminu do Traktatu singapurskiego o prawie znaków… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20140000165 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Króle… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20140000242 | Obwieszczenie Prezesa Rady Ministrów z dnia 23 października … | excessive repetition — '.................................... |
+| WDU20140000313 | Umowa między Rzecząpospolitą Polską a Gibraltarem o wymianie… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20140000324 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 ma… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20140000461 | Porozumienie z Locarno ustanawiające międzynarodową klasyfik… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20140000479 | Umowa o ustanowieniu Bałtyckiego Funkcjonalnego Bloku Przest… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20140000588 | Rozporządzenie Ministra Gospodarki z dnia 30 kwietnia 2014 r… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140000589 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 29 kwietni… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140000606 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 11 k… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140000768 | Ustawa z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonyw… | rendered round-trip failed: AST=41 rendered=41 dup_rendered=… |
 | WDU20140000897 | Ustawa z dnia 5 czerwca 2014 r. o zmianie ustawy - Prawo geo… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140001127 | Rozporządzenie Ministra Finansów z dnia 8 sierpnia 2014 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20140001318 | Porozumienie wykonawcze między Rządem Rzeczypospolitej Polsk… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20140001324 | Umowa pomiędzy Państwami Stronami Konwencji o utworzeniu Eur… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20140001381 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… |  |
 | WDU20140001593 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 11 w… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20140001597 | Rozporządzenie Ministra Finansów z dnia 4 listopada 2014 r. … | CID font encoding failure — unreadable glyphs (4 occurrence( |
@@ -5708,9 +5718,17 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20150000857 | Rozporządzenie Ministra Sprawiedliwości z dnia 12 czerwca 20… | rendered round-trip failed: AST=12 rendered=12 low_sim=1 mis |
 | WDU20150001209 | Rozporządzenie Ministra Sprawiedliwości z dnia 19 sierpnia 2… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20150001333 | Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy o rachunkowo… | rendered round-trip failed: AST=7 rendered=7 missing_child_m… |
+| WDU20150001654 | Międzynarodowa konwencja o wymaganiach w zakresie wyszkoleni… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20150001656 | Układ o stabilizacji i stowarzyszeniu między Wspólnotami Eur… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20150001681 | Memorandum o porozumieniu między Rządem Rzeczypospolitej Pol… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20150001758 | Statut Międzynarodowej Organizacji Policji Kryminalnej - Int… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20150001761 | Traktat między Królestwem Hiszpanii, Republiką Francuską, Re… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20150002016 | Rozporządzenie Ministra Zdrowia z dnia 9 listopada 2015 r. w… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20150002044 | Rozporządzenie Prezesa Rady Ministrów z dnia 9 listopada 201… | character-spaced text — 1 line(s) with >30% single-letter wo… |
 | WDU20150002098 | Obwieszczenie Ministra Zdrowia z dnia 27 listopada 2015 r. w… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20150002112 | Porozumienie między Rządem Rzeczypospolitej Polskiej, Rządem… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20150002159 | Umowa między państwami członkowskimi Unii Europejskiej, zebr… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20150002172 | Umowa między Europejską Organizacją Badań Astronomicznych na… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20150002327 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | CID font encoding failure — unreadable glyphs (4 occurrence( |
 | WDU20160000035 | Ustawa z dnia 29 grudnia 2015 r. o zmianie ustawy o systemie… | rendered round-trip failed: AST=19 rendered=19 empty_article |
 | WDU20160000423 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | CID font encoding failure — unreadable glyphs (4 occurrence( |
@@ -5779,7 +5797,11 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20180001693 | Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o partnerstwi… | rendered round-trip failed: AST=1786 rendered=1786 dup_rende… |
 | WDU20180001790 | Rozporządzenie Ministra Cyfryzacji z dnia 23 sierpnia 2018 r… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180001856 | Rozporządzenie Ministra Finansów z dnia 27 września 2018 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20180001988 | Umowa między Rzecząpospolitą Polską a Federacyjną Republiką … | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20180002019 | Umowa ramowa o współpracy między Rzecząpospolitą Polską a Is… | ELI placeholder original content — ELI HTML contains 'patrz  |
+| WDU20180002021 | Protokół zmian do Międzynarodowej konwencji dotyczącej upros… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20180002058 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20180002088 | Zmiany do załącznika do Międzynarodowej konwencji o wymagani… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20180002180 | Rozporządzenie Rady Ministrów z dnia 31 października 2018 r.… | excessive repetition — '3. zasięg geograficzny obszaru, któr |
 | WDU20180002181 | Rozporządzenie Rady Ministrów z dnia 6 listopada 2018 r. zmi… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180002217 | Rozporządzenie Ministra Finansów z dnia 13 listopada 2018 r.… | rendered round-trip failed: AST=2 rendered=2 low_sim=1 missi |
@@ -5793,6 +5815,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20190000247 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20190000259 | Rozporządzenie Ministra Sprawiedliwości z dnia 21 stycznia 2… | excessive repetition — '.................................... |
 | WDU20190000279 | Rozporządzenie Prezesa Rady Ministrów z dnia 29 stycznia 201… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20190000344 | Rozporządzenie Prezesa Rady Ministrów z dnia 20 lutego 2019 … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20190000500 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20190000552 | Obwieszczenie Prezesa Rady Ministrów z dnia 7 marca 2019 r. … |  |
 | WDU20190000554 | Rozporządzenie Ministra Edukacji Narodowej z dnia 21 marca 2… | CID font encoding failure — unreadable glyphs (2 occurrence( |
@@ -5845,6 +5868,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20200002328 | Rozporządzenie Ministra Infrastruktury z dnia 4 grudnia 2020… | character-spaced text — 18 line(s) with >30% single-letter w |
 | WDU20210000056 | Obwieszczenie Ministra Kultury, Dziedzictwa Narodowego i Spo… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20210000329 | Obwieszczenie Ministra Zdrowia z dnia 15 lutego 2021 r. w sp… | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20210000330 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Repub… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20210000411 | Obwieszczenie Ministra Zdrowia z dnia 24 lutego 2021 r. w sp… | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20210000439 | Obwieszczenie Ministra Finansów, Funduszy i Polityki Regiona… | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20210000755 | Obwieszczenie Ministra Edukacji i Nauki z dnia 6 kwietnia 20… | missing paragraph structure — consolidated rozporządzenie re |

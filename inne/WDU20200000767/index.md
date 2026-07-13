@@ -129,3 +129,10 @@ w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami płatniczymi oraz
 
 **§ 14.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia PrezesaRadyMinistrów z dnia (poz. ) WZÓR WZÓR DEKLARACJA O WYSOKOŚCI WPŁATY OD KRAJOWEJ INSTYTUCJI PŁATNICZEJ NA POKRYCIE KOSZTÓW NADZORU ZA ROK … Nazwa krajowej instytucji płatniczej: ………………………………………...
+………………………………………...
+NIP: …………………………………..
+Dane, w tym Poz. Wyszczególnienie kwoty zaokrąglone do pełnych złotych 1 Ustalona przez krajową instytucję płatniczą kwota, o której mowa w art. 76 ust. 4 pkt 2 ustawy, obliczona na ostatni dzień roku kalendarzowego, za który należna jest wpłata, a w przypadku krajowej instytucji płatniczej, której rok obrotowy nie pokrywa się z rokiem kalendarzowym – na ostatni dzień roku obrotowego zakończonego w roku kalendarzowym, za który należna jest wpłata 2 Wysokość stawki obliczonej zgodnie z § 2 ust. 3 i 6 rozporządzenia za następny rok kalendarzowy 3 Wysokość należnej wpłaty obliczonej zgodnie z § 2 ust. 1 rozporządzenia za następny rok kalendarzowy 4 Wysokość stawki obliczonej zgodnie z § 2 ust. 6 i § 4 ust. 2 rozporządzenia za dany rok kalendarzowy 5 Wysokość kwoty wynikającej z rozliczenia należnej wpłaty, o której mowa w § 4 ust. 1 rozporządzenia 6 Wysokość należnej wpłaty obliczonej zgodnie z § 2 ust. 1 rozporządzenia za następny rok kalendarzowy, uwzględniająca kwotę, o której mowa w pkt 5 7 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 8 Data wpłaty, o której mowa w pkt 7
+

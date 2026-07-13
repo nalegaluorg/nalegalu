@@ -40,3 +40,9 @@ zmieniające rozporządzenie w sprawie ustanowienia odznaki honorowej „Za zas�
 
 **§ 2.** Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk WZÓR LEGITYMACJI STWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ „ZA ZASŁUGI DLA BUDOWNICTWA” minister właściwy do spraw budownictwa, Nadaję Pani/Panu lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa* ......................................................................................
+......................................................................................
+LEGITYMACJA NR …… odznakę honorową „ZA ZASŁUGI DLA BUDOWNICTWA” Minister Warszawa, dnia …………… r. mp.
+

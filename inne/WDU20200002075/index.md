@@ -37,3 +37,7 @@ zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebęd�
 
 **§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Tabela D. Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pozostałych pracowników urzędów i jednostek Kategoria zaszeregowania Kwota w złotych 1 2 I 840–3000 II 1240–3020 III 1250–3040 IV 1260–3070 V 1270–3100 VI 1280–3130 VII 1290–3160 VIII 1300–3330 IX 1320–3500 X 1350–3670 XI 1380–3880 XII 1410–4100 XIII 1460–4350 XIV 1500–4690 XV 1540–5030 XVI 1600–5530 XVII 1660–6040 XVIII 1730–6550 XIX 1800–7060 XX 1860–7570 XXI 1980–8220 Tabela F. Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników zatrudnionych w Ministerstwie Finansów, izbach administracji skarbowej oraz Krajowej Informacji Skarbowej zgodnie ze stanowiskami ujętymi w tabeli XII części I, tabeli XIII części I oraz tabeli XIV części I załącznika nr 3 do rozporządzenia Kategoria zaszeregowania Kwota w złotych 1 2 I 1510–3710 II 1520–3740 III 1530–3760 IV 1540–3790 V 1550–3820 VI 1560–3850 VII 1570–3880 VIII 1580–4050 IX 1600–4220 X 1620–4390 XI 1650–4600 XII 1680–4820 XIII 1720–5070 XIV 1760–5410 XV 1800–5750 XVI 1850–6250
+

@@ -33,3 +33,7 @@ zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebęd�
 
 **§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk Tabela I. Tabela stanowisk, kwot wynagrodzenia zasadniczego i dodatku funkcyjnego oraz kwalifikacji pracowników zatrudnionych w Biurze Rzecznika Małych i Średnich Przedsiębiorców Wymagane kwalifikacje Kwota Stawka dodatku Lp. Stanowisko wynagrodzenia funkcyjnego w zł zasadniczego w zł do wykształcenie liczba lat pracy 1 2 3 4 5 6 1 Dyrektor generalny 7100–16 000 1600 wyższe 6 Dyrektor wydziału, zastępca dyrektora 5 wydziału, pełnomocnik terenowy wyższe 2 dyrektor Gabinetu 6600–14 000 1400 Rzecznika 2 główny księgowy według odrębnych przepisów Główny konsultant, wyższe 5 radca Rzecznika 3 5900–12 000 1200 Radca prawny według odrębnych przepisów 4 Koordynator 5600–11 000 1200 wyższe 4 5 Główny specjalista, 5400–10 500 640 wyższe 4 rzecznik prasowy 6 Starszy specjalista, 5300–9900 – wyższe 3 samodzielny księgowy 7 Starszy sekretarz 5100–8100 – średnie 3 8 Specjalista 4900–7700 – wyższe 1 Sekretarz, 9 księgowy, 4600–6900 – średnie 2 starszy referent 10 Młodszy specjalista 4400–6000 – wyższe – 11 Referent 4300–5500 – średnie –
+

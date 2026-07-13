@@ -34,3 +34,7 @@ poz. 1411, z późn. zm. ) zarządza się, co następuje:
 
 **§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: TABELA STAWEK UPOSAŻENIA ZASADNICZEGO FUNKCJONARIUSZY CENTRALNEGO BIURA ANTYKORUPCYJNEGO Stawka uposażenia zasadniczego Lp. Stanowisko służbowe w złotych 1 Szef 10 500–13 500 2 Zastępca Szefa 9200–12000 3 Dyrektor departamentu 8200–9200 4 Dyrektor biura 7800–9200 5 Dyrektor delegatury 7800–9200 6 Zastępca dyrektora departamentu 7600–8700 7 Naczelnik wydziału 7200–8300 8 Zastępca naczelnika wydziału 6200–7800 9 Kierownik sekcji 5300–7800 10 Radca prawny 3600–7800 11 Audytor 3600–7800 12 Ekspert 3600–7800 13 Agent specjalny 6500–7000 14 Starszy agent 5400–6200 15 Agent 4800–5200 16 Młodszy agent 4400–4600 17 Starszy inspektor 4000–4200 18 Inspektor 3600–3800 19 Młodszy inspektor 3200–3400
+

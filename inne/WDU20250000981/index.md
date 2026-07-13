@@ -128,3 +128,8 @@ w sprawie mianowania na stopnie służbowe funkcjonariuszy Agencji Bezpieczeńst
 
 **§ 17.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk Załączniki Prezesa Rady Ministrów z dnia (Dz. U. poz. ) Załącznik nr 1 WZÓR WZÓR WNIOSEK O MIANOWANIE NA STOPIEŃ W AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO Na podstawie art. ...* ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902) wnoszę o mianowanie funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego: na stopień ..............................................................................................................................
+Uzasadnienie wniosku: Załącznik nr 3 WZÓR WZÓR Załącznik nr 4 WZÓR WZÓR
+

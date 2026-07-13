@@ -68,3 +68,10 @@ PK o nadzorze – oznacza nad rynkiem planowane finansowym, koszty ujęte nadzor
 § 5. Dostawca rozpoczynający działalność pierwszą należną wpłatę uiszcza za rok kalendarzowy następujący po roku, w którym rozpoczął działalność.
 § 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia Prezesa Rady Ministrów (poz. ) WZÓR WZÓR DEKLARACJA O WYSOKOŚCI NALEŻNEJ WPŁATY OD DOSTAWCÓW ŚWIADCZĄCYCH WYŁĄCZNIE USŁUGĘ DOSTĘPU DO INFORMACJI O RACHUNKU NA POKRYCIE KOSZTÓW NADZORU ZA ROK … Nazwa dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku: …………………………………..
+…………………………………..
+NIP: …………………………………..
+POZ. WYSZCZEGÓLNIENIE DANE, W TYM KWOTY ZAOKRĄGLONE DO PEŁNYCH ZŁOTYCH 1 Liczba użytkowników, dla których dostawca świadczył usługę dostępu do informacji o rachunku w poprzednim roku kalendarzowym 2 Wysokość stawki obowiązującej w danym roku kalendarzowym 3 Wysokość należnej wpłaty 4 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 5 Data wpłaty, o której mowa w poz. 4 Osoba upoważniona do złożenia deklaracji: …............................…………………………………… …............................……………………………………
+

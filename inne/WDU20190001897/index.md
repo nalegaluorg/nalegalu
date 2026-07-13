@@ -31,3 +31,7 @@ zmieniające rozporządzenie w sprawie wzoru kwartalnego sprawozdania o wysokoś
 
 **§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki WZÓR KWARTALNE SPRAWOZDANIE o wysokości wpłaty na fundusz likwidacyjny uiszczonej za … kwartał … roku Wyprodukowana w ciągu … kwartału … roku energia elektryczna (MWh) Wysokość wpłaty Data wpłaty
+

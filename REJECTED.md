@@ -1,6 +1,6 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 6148
+Acts excluded from publication due to quality issues. Total: 6172
 
 | Address | Reason |
 |---------|--------|
@@ -5673,6 +5673,7 @@ Acts excluded from publication due to quality issues. Total: 6148
 | WDU20120000566 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20120000638 | character-spaced text — 4 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20120000663 | excessive repetition — '..................................................…' app |
+| WDU20120000814 | ELI failed quality check |
 | WDU20120000837 | CID font encoding failure — unreadable glyphs (1 occurrence(s)) |
 | WDU20120000977 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130000057 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -5683,9 +5684,16 @@ Acts excluded from publication due to quality issues. Total: 6148
 | WDU20130001246 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20130001441 | omitted-provisions quotation ran into the next item ('4) § 2 rozporządzenia Mini |
 | WDU20130001466 | rendered round-trip failed: AST=3 rendered=3 empty_articles=1 FAIL |
+| WDU20140000008 | ELI failed quality check |
+| WDU20140000034 | ELI failed quality check |
+| WDU20140000077 | ELI failed quality check |
+| WDU20140000165 | ELI failed quality check |
 | WDU20140000221 | processing failed without diagnostic (stage=error; stale rendered output ignored |
 | WDU20140000242 | excessive repetition — '..................................................…' app |
+| WDU20140000313 | ELI failed quality check |
 | WDU20140000324 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20140000461 | ELI failed quality check |
+| WDU20140000479 | ELI failed quality check |
 | WDU20140000588 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140000589 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140000606 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -5693,6 +5701,8 @@ Acts excluded from publication due to quality issues. Total: 6148
 | WDU20140000897 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140001124 | processing failed without diagnostic (stage=error; stale rendered output ignored |
 | WDU20140001127 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20140001318 | ELI failed quality check |
+| WDU20140001324 | ELI failed quality check |
 | WDU20140001381 | omitted-provisions quotation ran into the next item ('4) art. 2 i art. 3 ustawy  |
 | WDU20140001593 | character-spaced text — 2 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20140001597 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
@@ -5712,9 +5722,17 @@ Acts excluded from publication due to quality issues. Total: 6148
 | WDU20150000857 | rendered round-trip failed: AST=12 rendered=12 low_sim=1 FAIL; low similarity: 1 |
 | WDU20150001209 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20150001333 | rendered round-trip failed: AST=7 rendered=7 missing_child_markers=1 FAIL; missi |
+| WDU20150001654 | ELI failed quality check |
+| WDU20150001656 | ELI failed quality check |
+| WDU20150001681 | ELI failed quality check |
+| WDU20150001758 | ELI failed quality check |
+| WDU20150001761 | ELI failed quality check |
 | WDU20150002016 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20150002044 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20150002098 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20150002112 | ELI failed quality check |
+| WDU20150002159 | ELI failed quality check |
+| WDU20150002172 | ELI failed quality check |
 | WDU20150002327 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
 | WDU20160000035 | rendered round-trip failed: AST=19 rendered=19 empty_articles=3 FAIL |
 | WDU20160000423 | CID font encoding failure — unreadable glyphs (4 occurrence(s)) |
@@ -5783,7 +5801,11 @@ Acts excluded from publication due to quality issues. Total: 6148
 | WDU20180001693 | rendered round-trip failed: AST=1786 rendered=1786 dup_rendered=1 low_sim=1 word |
 | WDU20180001790 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20180001856 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180001988 | ELI failed quality check |
+| WDU20180002019 | ELI failed quality check |
+| WDU20180002021 | ELI failed quality check |
 | WDU20180002058 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20180002088 | ELI failed quality check |
 | WDU20180002152 | processing failed without diagnostic (stage=error; stale rendered output ignored |
 | WDU20180002180 | excessive repetition — '3. zasięg geograficzny obszaru, którego dotyczy in…' app |
 | WDU20180002181 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
@@ -5798,6 +5820,7 @@ Acts excluded from publication due to quality issues. Total: 6148
 | WDU20190000247 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190000259 | excessive repetition — '..................................................…' app |
 | WDU20190000279 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
+| WDU20190000344 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190000500 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20190000552 | omitted-provisions quotation swallowed a structural boundary ('§ 2. Rozporządzen |
 | WDU20190000554 | CID font encoding failure — unreadable glyphs (2 occurrence(s)) |
@@ -5854,6 +5877,7 @@ Acts excluded from publication due to quality issues. Total: 6148
 | WDU20200002328 | character-spaced text — 18 line(s) with >30% single-letter words — likely OCR wi |
 | WDU20210000056 | character-spaced text — 1 line(s) with >30% single-letter words — likely OCR wit |
 | WDU20210000329 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
+| WDU20210000330 | ELI failed quality check |
 | WDU20210000411 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
 | WDU20210000439 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |
 | WDU20210000755 | missing paragraph structure — consolidated rozporządzenie renders no § markers;  |

@@ -72,3 +72,10 @@ wartości poszczególnych zmiennych, o których mowa w § 2 ust. 3.
 § 7. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 16 lipca 2012 r. w sprawie wpłat na pokrycie kosztów nadzoru nad biurami usług płatniczych (Dz. U. poz. 844).
 § 8. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia z dnia (poz. ) WZÓR WZÓR DEKLARACJA O WYSOKOŚCI NALEŻNEJ WPŁATY OD BIURA USŁUG PŁATNICZYCH NA POKRYCIE KOSZTÓW NADZORU ZA ROK … Nazwa biura usług płatniczych: …………………………………..
+…………………………………..
+NIP: …………………………………..
+Dane, w tym kwoty Poz. Wyszczególnienie zaokrąglone do pełnych złotych 1 Wysokość całkowitej kwoty transakcji płatniczych wykonanych przez biuro usług płatniczych, w tym przez jego agentów, w poprzednim roku kalendarzowym 2 Wysokość stawki obowiązującej w danym roku kalendarzowym 3 Wysokość należnej wpłaty 4 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 5 Data wpłaty, o której mowa w poz. 4
+

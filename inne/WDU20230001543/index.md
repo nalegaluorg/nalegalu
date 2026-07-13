@@ -126,3 +126,7 @@ poz. 347 i 641) zarządza się, co następuje:
 
 **§ 10.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki STAWKI UPOSAŻENIA ZASADNICZEGO WEDŁUG ZAJMOWANEGO STANOWISKA SŁUŻBOWEGO STOPIEŃ ETATOWY GRUPA MIESIĘCZNIE UPOSAŻENIA W ZŁOTYCH 1 2 3 Generał (admirał) 20 27 400,00 generał broni 19 B 24 100,00 (admirał floty) 19 A 23 200,00 19 22 500,00 generał dywizji 18 B 21 500,00 (wiceadmirał) 18 A 20 700,00 18 20 100,00 generał brygady 17 B 19 200,00 (kontradmirał) 17 A 18 600,00 17 18 100,00 16 C 16 900,00 pułkownik 16 B 16 200,00 (komandor) 16 A 15 500,00 16 15 000,00 15 C 14 100,00 podpułkownik 15 B 13 500,00 (komandor porucznik) 15 A 13 300,00 15 13 100,00 14 C 12 500,00 major 14 B 12 300,00 (komandor podporucznik) 14 A 12 100,00 14 12 000,00 kapitan 13 B 11 500,00 (kapitan marynarki) 13 A 11 300,00 13 11 200,00 porucznik 12 A 10 900,00 (porucznik marynarki) 12 10 800,00 podporucznik 11 10 700,00 (podporucznik marynarki) starszy chorąży sztabowy 10 10 600,00 (starszy chorąży sztabowy marynarki) starszy chorąży 9 10 400,00 (starszy chorąży marynarki) chorąży 8 10 200,00 (chorąży marynarki) młodszy chorąży 7 9700,00 (młodszy chorąży marynarki) starszy sierżant 6 9600,00 (starszy bosman) sierżant 5 9500,00 (bosman) plutonowy 4 9200,00 (bosmanmat) starszy kapral 3 9100,00 (starszy mat) kapral 2 9000,00 (mat) starszy szeregowy specjalista 1A 8700,00 (starszy marynarz specjalista) starszy szeregowy 1 8200,00 (starszy marynarz) szeregowy 0 8100,00 (marynarz)
+

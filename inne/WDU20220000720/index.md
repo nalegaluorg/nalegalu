@@ -31,3 +31,7 @@ zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebęd�
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Tabela E. Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli XI załącznika nr 3 do rozporządzenia Kategoria zaszeregowania Kwota w złotych 1 2 I 2200–3300 II 2800–3400 III 2850–3500 IV 2900–3600 V 2950–3700 VI 3000–4000 VII 3010–4150 VIII 3010–4200 IX 3010–4300 X 3010–4400 XI 3010–4600 XII 3010–4700 XIII 3010–4900 XIV 3010–5200 XV 3010–5400 XVI 3200–5700 XVII 3400–5900 XVIII 3600–6300 XIX 4000–6600 XX 5000–7200 XXI 5600–7900
+

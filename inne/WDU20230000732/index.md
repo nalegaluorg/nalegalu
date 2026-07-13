@@ -36,3 +36,7 @@ zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy 
 
 **§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki WYSOKOŚĆ DODATKU ZA POSIADANY STOPIEŃ SŁUŻBOWY Lp. Nazwa stopnia Stawka w złotych 1 generał brygady 1800 2 pułkownik 1700 3 podpułkownik 1650 4 major 1600 5 kapitan 1500 6 porucznik 1450 7 podporucznik 1400 8 starszy chorąży sztabowy 1250 9 chorąży sztabowy 1200 10 młodszy chorąży sztabowy 1150 11 starszy chorąży 1100 12 chorąży 1050 13 młodszy chorąży 1000 14 starszy sierżant sztabowy 900 15 sierżant sztabowy 860 16 starszy sierżant 830 17 sierżant 800 18 starszy plutonowy 750 19 plutonowy 720 20 starszy kapral 680 21 kapral 650 22 starszy szeregowy 620 23 szeregowy 600
+

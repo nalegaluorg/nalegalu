@@ -32,3 +32,7 @@ zmieniające rozporządzenie w sprawie wzoru i sposobu prowadzenia listy rzeczni
 
 **§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk WZÓR LISTY RZECZNIKÓW PATENTOWYCH Imię lub imiona Nazwisko Data urodzenia Miejsce urodzenia Numer PESEL Wykształcenie Data złożenia egzaminu kwalifikacyjnego Data wydania decyzji w sprawie uznania kwalifikacji do wykonywania na terytorium Rzeczypospolitej Polskiej zawodu rzecznika patentowego Data wpisu na listę rzeczników patentowych Numer Wiadomości Urzędu Patentowego, w którym ogłoszono o wpisie Numer wpisu na listę rzeczników patentowych Miejsce wykonywania zawodu Forma wykonywania zawodu Adres zamieszkania Adres do korespondencji Adres poczty elektronicznej Numer telefonu Adnotacje o odpisach orzeczeń dyscyplinarnych Funkcje pełnione w organach samorządu Informacje o zawieszeniu prawa do wykonywania zawodu rzecznika patentowego Data skreślenia z listy rzeczników patentowych Numer Wiadomości Urzędu Patentowego, w którym ogłoszono o skreśleniu Adnotacja o wydaniu legitymacji rzecznika patentowego
+

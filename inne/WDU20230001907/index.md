@@ -33,3 +33,7 @@ zmieniające rozporządzenie w sprawie stawek uposażenia zasadniczego na poszcz
 
 **§ 3.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: TABELA STAWEK UPOSAŻENIA ZASADNICZEGO FUNKCJONARIUSZY CENTRALNEGO BIURA ANTYKORUPCYJNEGO Lp. Stanowisko służbowe Stawka uposażenia zasadniczego w złotych 1 Szef CBA 14 550–15 650 2 zastępca Szefa CBA 11 300–14 050 3 dyrektor departamentu, dyrektor biura, dyrektor delegatury 9150–10 700 4 zastępca dyrektora departamentu, zastępca dyrektora biura, 8500–10 050 zastępca dyrektora delegatury 5 doradca Szefa CBA 8050–10 700 6 główny ekspert 8050–10 700 7 naczelnik wydziału 8050–9500 8 kierownik referatu 7200–9300 9 zastępca naczelnika wydziału 7000–9100 10 kierownik sekcji 6550–8550 11 ekspert, audytor wewnętrzny, główny księgowy, radca prawny 6550–9100 12 agent specjalny 7500–8450 13 starszy agent 6850–7500 14 agent 6250–6850 15 młodszy agent 5800–6200 16 specjalista 5450–5800 17 młodszy specjalista 5150–5450 18 inspektor 4850–5150 19 młodszy inspektor 4500–4800
+

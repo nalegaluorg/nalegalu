@@ -36,3 +36,7 @@ poz. 1292 i 1907 oraz z 2025 r. poz. 1168) zarządza się, co następuje:
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezydent Rzeczypospolitej Polskiej: K. Nawrocki Prezes Rady Ministrów: D. Tusk Dane identyfikacyjne działek lp. numer działki ewidencyjnej identyfikator działki ewidencyjnej 1 401 126102_9.0011.401 2 534 126102_9.0011.534 3 535/1 126102_9.0011.535/1 4 535/4 126102_9.0011.535/4 5 545/2 126102_9.0011.545/2 6 545/3 126102_9.0011.545/3 7 546 126102_9.0011.546 8 609 126102_9.0011.609 9 290/6 126102_9.0013.290/6 10 290/7 126102_9.0013.290/7 11 290/9 126102_9.0013.290/9 12 269 126102_9.0016.269 13 271 126102_9.0016.271
+

@@ -39,3 +39,7 @@ w sprawie stawek dodatku funkcyjnego członków Biura Studiów i Analiz Sądu Na
 
 **§ 6.** Rozporządzenie wchodzi w życie z dniem 3 kwietnia 2018 r.
 
+## Załącznik
+
+Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: M. Morawiecki TABELA STANOWISK I STAWEK DODATKU FUNKCYJNEGO CZŁONKÓW BIURA STUDIÓW I ANALIZ SĄDU NAJWYŻSZEGO Lp. Stanowisko Stawka dodatku funkcyjnego 1 Dyrektor Biura Studiów i Analiz Sądu Najwyższego 3 2 Naczelnik działu 2 3 Kierownik referatu 1
+

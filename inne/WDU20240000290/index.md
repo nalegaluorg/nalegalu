@@ -141,3 +141,12 @@ w sprawie systemów wykrywania skażeń i powiadamiania o ich wystąpieniu oraz 
 
 **§ 11.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk SYGNAŁY ALARMOWE I KOMUNIKATY OSTRZEGAWCZE OBOWIĄZUJĄCE NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ SYGNAŁY ALARMOWE Sposób ogłoszenia alarmów Lp. Czynności akustyczny system alar- wizualny sygnał mowy środki masowego przekazu alarmowy Znak koloru żółtego Powtarzana trzykrotnie zapowiedź słowna: w kształcie trójkąta Ogłoszenie Sygnał akustyczny – lub , 1 alarmu modulowany dźwięk syreny Uwaga! Uwaga! Uwaga! Ogłaszam alarm w uzasadnionych w okresie trzech minut (podać przyczynę, rodzaj alarmu itp.) przypadkach , innej …………………. dla …………………. figury geometrycznej Powtarzana trzykrotnie zapowiedź słowna: Odwołanie Sygnał akustyczny – ciągły 2 alarmu dźwięk syreny w okresie Uwaga! Uwaga! Uwaga! Odwołuję alarm trzech minut (podać przyczynę, rodzaj alarmu itp.) …………………. dla ………………….
+KOMUNIKATY OSTRZEGAWCZE Sposób ogłoszenia komunikatu Sposób odwołania komunikatu Lp. Rodzaj akustyczny akustyczny komunikatu system środki masowego przekazu system środki masowego przekazu alarmowy alarmowy Powtarzana trzykrotnie zapowiedź słowna: Uwaga! Uwaga! Osoby znajdujące Powtarzana trzykrotnie się na terenie ………………….…. zapowiedź słowna: Uprzedzenie około godz. …… min. …………... Uwaga! Uwaga! Odwołuję 1 o zagrożeniu może nastąpić skażenie uprzedzenie o zagrożeniu skażeniami ………………………….
+…………………………………....
+(podać rodzaj skażenia) (podać rodzaj skażenia) dla ……………………… w kierunku ……………………….
+(podać kierunek) Powtarzana trzykrotnie zapowiedź Powtarzana trzykrotnie słowna: zapowiedź słowna: Uprzedzenie Informacja o zagrożeniu i sposobie o klęskach Uwaga! Uwaga! Odwołuję 2 żywiołowych postępowania mieszkańców uprzedzenie o zagrożeniu i zagrożeniu …………………………………… ………………………….
+środowiska (podać rodzaj zagrożenia, (podać rodzaj klęski) spodziewany czas wystąpienia i wytyczne dla mieszkańców) dla ………………………
+

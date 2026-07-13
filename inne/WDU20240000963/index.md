@@ -32,3 +32,7 @@ z 2023 r. poz. 1199) zarządza się, co następuje:
 
 **§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2015 r. poz. 230, 1345, 1346, 1608 i 2089, z 2016 r. poz. 170, 1455 i 1912, z 2017 r. poz. 166, 1479, 1640, 1818 i 2147, z 2018 r. poz. 303, 1428, 1483 i 2025, z 2019 r. poz. 157, 1323 i 1779, z 2020 r. poz. 18, 733, 1009, 1258, 1375, 1728, 1932, 2058, 2164, 2224 i 2354, z 2021 r. poz. 926, 1311, 1387, 1528, 1698 i 2087, z 2022 r. poz. 45, 642, 1000, 1172, 1536, 2117, 2315 i 2399, z 2023 r. poz. 308, 757, 761, 929, 1050, 1126, 1200, 1306, 1350, 1732, 1965, 2193, 2200, 2351, 2564 i 2667 oraz z 2024 r. poz. 657.
+

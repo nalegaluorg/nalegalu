@@ -39,3 +39,7 @@ zmieniające rozporządzenie w sprawie wynagradzania pracowników samorządowych
 
 **§ 3.** Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2024 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk I. TABELA Kwoty minimalnego miesięcznego poziomu wynagrodzenia zasadniczego ustalonego w kategoriach zaszeregowania KATEGORIA MINIMALNY POZIOM ZASZEREGOWANIA WYNAGRODZENIA ZASADNICZEGO W ZŁOTYCH I 4000 II 4050 III 4100 IV 4150 V 4200 VI 4250 VII 4300 VIII 4350 IX 4400 X 4500 XI 4600 XII 4700 XIII 4800 XIV 4900 XV 5000 XVI 5200 XVII 5400 XVIII 5600 XIX 5900 XX 6200
+

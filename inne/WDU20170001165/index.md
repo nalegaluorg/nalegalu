@@ -59,3 +59,10 @@ w sprawie wykazu stanowisk, wymaganych kwalifikacji, zasad wynagradzania i przyz
 
 **§ 8.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: B. Szydło TABELE STANOWISK, KWALIFIKACJI I WYNAGRODZENIA ZASADNICZEGO PRACOWNIKÓW INSTYTUTU ZACHODNIEGO IM. ZYGMUNTA WOJCIECHOWSKIEGO I. Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników zarządzających A. B. C.
+Lp. Wynagrodzenie Stanowisko Wymagane kwalifikacje zasadnicze w złotych stopień doktora, 3-letnie doświadczenie 1 Dyrektor w zarządzaniu zespołami pracowniczymi, 10000–14000 znajomość języka obcego wykształcenie wyższe, 3-letnie doświadczenie 2 Zastępca Dyrektora w zarządzaniu zespołami pracowniczymi, 8000–12000 znajomość języka obcego 3 Główny księgowy według odrębnych przepisów 5500–9500 II. Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników pionu badawczego A. B. C.
+Lp. Wynagrodzenie Stanowisko Wymagane kwalifikacje zasadnicze w złotych 1 Kierownik Zespołu wykształcenie wyższe, 3 lata stażu pracy, 5500–9500 znajomość języka obcego 2 Koordynator projektu wykształcenie wyższe, 3 lata stażu pracy, 4500–8000 znajomość języka obcego 3 Główny analityk wykształcenie wyższe, 3 lata stażu pracy, 4000–7000 znajomość języka obcego 4 Starszy analityk wykształcenie wyższe, 2 lata stażu pracy, 3000–5000 znajomość języka obcego 5 Analityk wykształcenie wyższe, 2500–4000 znajomość języka obcego III. Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników pionu wsparcia A. B. C.
+Lp. Wynagrodzenie Stanowisko Wymagane kwalifikacje zasadnicze w złotych 1 Kierownik wykształcenie wyższe, 3 lata stażu pracy 4000–7000 2 Główny specjalista wykształcenie wyższe, 3 lata stażu pracy 3500–6000 3 Starszy specjalista wykształcenie wyższe, 2 lata stażu pracy 3000–5000 4 Specjalista wykształcenie wyższe 2500–4500 5 Starszy referent wykształcenie średnie 2000–4000 6 Referent wykształcenie średnie 2000–3000 7 Pracownik obsługi wykształcenie podstawowe 2000–3000
+

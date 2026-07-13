@@ -38,3 +38,9 @@ poz. 475 i 1266) zarządza się, co następuje:
 
 **§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: B. Szydło WZÓR WNIOSKU O NADANIE ODZNACZENIA „KRZYŻ WOLNOŚCI I SOLIDARNOŚCI” KRZYŻ WOLNOŚCI I SOLIDARNOŚCI WZÓR OŚWIADCZENIA KANDYDATA DO ODZNACZENIA WZÓR KRZYŻEM WOLNOŚCI I SOLIDARNOŚCI OŚWIADCZENIA KANDYDATA DO ODZNACZENIA KRZYŻEM WOLNOŚCI I SOLIDARNOŚCI OŚWIADCZENIE KANDYDATA* DO ODZNACZENIA KRZYŻEM WOLNOŚCI I SOLIDARNOŚCI Wyrażam zgodę na przeprowadzenie procedury przez Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, jako organu uprawnionego, zmierzającej do wystąpienia do Prezydenta Rzeczypospolitej Polskiej z wnioskiem o nadanie Krzyża Wolności i Solidarności, mając pełną świadomość trybu postępowania w sprawie nadania tego odznaczenia, w szczególności w zakresie weryfikacji przesłanek negatywnych, o których mowa w art. 15a ust. 3 ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2015 r. poz. 475, z późn. zm.).
+……………………………………………………………….
+podpis składającego oświadczenie
+

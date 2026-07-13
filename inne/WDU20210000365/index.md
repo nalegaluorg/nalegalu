@@ -112,3 +112,10 @@ w sprawie urlopów funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego Na pods
 
 **§ 10.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki WZÓR ORZECZENIA KOMISJI LEKARSKIEJ AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO ZAWIERAJĄCEGO WNIOSEK W SPRAWIE UDZIELENIA FUNKCJONARIUSZOWI AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO URLOPU ZDROWOTNEGO ORZECZENIE NR ................/............
+CENTRALNEJ/REGIONALNEJ KOMISJI LEKARSKIEJ NR .........
+AGENCJI BEZPIECZEŃSTWA WEWNĘTRZNEGO w ..........................................
+W wyniku przeprowadzonego badania lekarskiego zamieszkałego(-ej) w: skierowanego(-ej) przez: Centralna/Regionalna* Komisja Lekarska nr …...* Agencji Bezpieczeństwa Wewnętrznego w w składzie: przewodniczący: członkowie: wnioskuje / nie wnioskuje* o udzielenie urlopu zdrowotnego w terminie: Termin badania kontrolnego: Przed badaniem kontrolnym należy wykonać: Uzasadnienie: Pouczenie: Centralna Komisja Lekarska Agencji Bezpieczeństwa Wewnętrznego: – utrzymuje w mocy orzeczenie nr ……........... Regionalnej Komisji Lekarskiej nr ........ Agencji Bezpieczeństwa Wewnętrznego w ............................................* – uchyla orzeczenie nr ................... Regionalnej Komisji Lekarskiej nr ........ Agencji Bezpieczeństwa Wewnętrznego w ............................................ i zarządza ponowne przeprowadzenie czynności orzeczniczych przez Regionalną Komisję Lekarską nr ............ Agencji Bezpieczeństwa Wewnętrznego w ...............................................* Uzasadnienie:
+

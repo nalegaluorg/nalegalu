@@ -36,3 +36,7 @@ zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników Kancelar
 
 **§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk TABELA STANOWISK, STAWEK WYNAGRODZENIA ZASADNICZEGO ORAZ WYMAGAŃ KWALIFIKACYJNYCH W ZAKRESIE WYKSZTAŁCENIA I PRAKTYKI ZAWODOWEJ PRACOWNIKÓW KANCELARII PREZESA RADY MINISTRÓW Lp. Stanowisko Stawka wynagrodzenia Wykształcenie Doświadczenie zasadniczego w złotych w latach 1 2 3 4 5 1 główny kierownik / główna 7000,00 – 17 300,00 wyższe 6 kierowniczka projektu 2 starszy kierownik / starsza 6500,00 – 16 500,00 wyższe 4 kierowniczka projektu 3 młodszy kierownik / młodsza 6000,00 – 14 600,00 wyższe 3 kierowniczka projektu 4 ekspert/ekspertka 5000,00 – 9600,00 wyższe 3 asystent/asystentka: Prezesa Rady Ministrów, wiceprezesa Rady Ministrów, ministra, Szefa Kancelarii Prezesa Rady Ministrów, 5 sekretarza stanu, podsekretarza 4900,00 – 8600,00 wyższe – stanu, dyrektora generalnego, dyrektora biura, departamentu (komórki organizacyjnej równorzędnej) 6 administrator/administratorka 4806,00 – 7500,00 średnie – sekretarz/sekretarka: Prezesa Rady Ministrów, wiceprezesa Rady Ministrów, ministra, Szefa Kancelarii Prezesa Rady Ministrów, 7 sekretarza stanu, podsekretarza 4806,00 – 7500,00 średnie – stanu, dyrektora generalnego, dyrektora biura, departamentu (komórki organizacyjnej równorzędnej)
+

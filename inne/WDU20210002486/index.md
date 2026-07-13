@@ -85,3 +85,10 @@ w sprawie wpłat na pokrycie kosztów nadzoru bankowego Na podstawie art. 131a u
 
 **§ 8.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia … (poz. …) WZÓR WZÓR DEKLARACJA BANKU O WNIESIONYCH WPŁATACH NA POKRYCIE KOSZTÓW NADZORU ZA ROK … Nazwa banku: …………………………………..
+…………………………………..
+NIP: …………………………………..
+Bank był w dniu 1 stycznia danego roku uczestnikiem systemu ochrony, o którym mowa w art. 22b ust. 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. z 2021 r. poz. 102, 680 i 2140) – należy zaznaczyć właściwe pole znakiem „X”: □ TAK □ NIE Dane, w tym kwoty Poz. Wyszczególnienie zaokrąglone do pełnych złotych 1 Suma aktywów bilansowych na ostatni dzień roku kalendarzowego poprzedzającego o dwa lata dany rok albo ostatni dzień roku obrotowego zakończonego w roku kalendarzowym poprzedzającym o dwa lata dany rok, ustalona na podstawie zbadanego i zatwierdzonego sprawozdania finansowego 2 Wysokość stawki zastosowanej do obliczenia wysokości należnej od banku wpłaty na pokrycie kosztów nadzoru za dany rok kalendarzowy 3 Wysokość należnej od banku wpłaty na pokrycie kosztów nadzoru 4 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 5 Data wpłaty, o której mowa w poz. 4
+

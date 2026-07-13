@@ -32,3 +32,7 @@ zm. ) zarządza się, co następuje:
 
 **§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: M. Morawiecki Tabela nr 2 LEAID Wartość LEA Opis 00 LEMF Operatora Przedsiębiorca telekomunikacyjny 01 ABW Agencja Bezpieczeństwa Wewnętrznego 02 Policja Policja 03 SKW Służba Kontrwywiadu Wojskowego 04 ZW Żandarmeria Wojskowa 05 SG Straż Graniczna 06 MF Ministerstwo Finansów 07 CBA Centralne Biuro Antykorupcyjne 08 SOP Służba Ochrony Państwa 09 BNW Biuro Nadzoru Wewnętrznego
+

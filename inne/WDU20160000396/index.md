@@ -33,3 +33,7 @@ zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebęd�
 
 **§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: B. Szydło Tabela D. Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pozostałych pracowników urzędów i jednostek Kategoria zaszeregowania Kwota w złotych 1 2 I 840 – 2 000 II 850 – 2 010 III 860 – 2 030 IV 870 – 2 060 V 880 – 2 090 VI 890 – 2 120 VII 900 – 2 150 VIII 910 – 2 280 IX 930 – 2 410 X 950 – 2 550 XI 980 – 2 730 XII 1 010 – 2 900 XIII 1 050 – 3 100 XIV 1 090 – 3 380 XV 1 130 – 3 650 XVI 1 180 – 4 060 XVII 1 240 – 4 470 XVIII 1 300 – 4 880 XIX 1 360 – 5 300 XX 1 420 – 5 780 XXI 1 530 – 6 400
+

@@ -43,3 +43,7 @@ zmieniające rozporządzenie w sprawie wynagrodzeń kuratorów zawodowych i apli
 
 **§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+Prezes Rady Ministrów: D. Tusk TABELA MNOŻNIKÓW KWOTY BAZOWEJ DLA TYTUŁU HONOROWEGO DYPLOMOWANEGO KURATORA SPECJALISTY, STOPNI SŁUŻBOWYCH KURATORÓW ZAWODOWYCH ORAZ APLIKANTA KURATORSKIEGO Lp. Tytuł honorowy / stopień służbowy Mnożnik kwoty bazowej 1 dyplomowany kurator specjalista 3,37 2 kurator specjalista 3,07 3 starszy kurator zawodowy 2,77 4 kurator zawodowy 2,47 5 aplikant kuratorski 1,82 TABELA STANOWISK ORAZ ODPOWIADAJĄCYCH IM STAWEK DODATKU FUNKCYJNEGO Lp. Stanowisko Procent kwoty bazowej 1 kurator okręgowy 110–160 2 kurator, o którym mowa w art. 37b ust. 1 ustawy z dnia 27 lipca 110–160 2001 r. o kuratorach sądowych 3 zastępca kuratora okręgowego 70–100 4 kurator, o którym mowa w art. 38 ust. 2 ustawy z dnia 27 lipca 70–100 2001 r. o kuratorach sądowych 5 kierownik zespołu kuratorskiej służby sądowej 50–70
+
