@@ -34,17 +34,20 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narod
 2) § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającego rozporządzenie w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców (Dz. U. poz. 2063), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Edukacji i Nauki: wz. D. Piontkowski
 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 26 lipca 2018 r.
 w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców Na podstawie art. 83 ust. 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005) zarządza się, co następuje:
-§ 1. Rad rodziców nie tworzy się w następujących rodzajach szkół i placówek publicznych prowadzonych przez jednostki samorządu terytorialnego i ministrów:
-1) szkoły dla dorosłych;
-2) branżowe szkoły II stopnia i szkoły policealne;
-3) szkoły w podmiotach leczniczych i jednostkach pomocy społecznej;
-4) szkoły w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich;
-5) szkoły przy zakładach karnych i aresztach śledczych;
-6) szkolne schroniska młodzieżowe;
-7) placówki kształcenia ustawicznego, centra kształcenia zawodowego oraz branżowe centra umiejętności;
-8) poradnie psychologiczno-pedagogiczne, w tym poradnie specjalistyczne;
-9) młodzieżowe ośrodki wychowawcze i młodzieżowe ośrodki socjoterapii;
-10) bursy i domy wczasów dziecięcych;
-11) biblioteki pedagogiczne.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 1.** Rad rodziców nie tworzy się w następujących rodzajach szkół i placówek publicznych prowadzonych przez jednostki samorządu terytorialnego i ministrów:
+
+- **1)** szkoły dla dorosłych;
+- **2)** branżowe szkoły II stopnia i szkoły policealne;
+- **3)** szkoły w podmiotach leczniczych i jednostkach pomocy społecznej;
+- **4)** szkoły w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich;
+- **5)** szkoły przy zakładach karnych i aresztach śledczych;
+- **6)** szkolne schroniska młodzieżowe;
+- **7)** placówki kształcenia ustawicznego, centra kształcenia zawodowego oraz branżowe centra umiejętności;
+- **8)** poradnie psychologiczno-pedagogiczne, w tym poradnie specjalistyczne;
+- **9)** młodzieżowe ośrodki wychowawcze i młodzieżowe ośrodki socjoterapii;
+- **10)** bursy i domy wczasów dziecięcych;
+- **11)** biblioteki pedagogiczne.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

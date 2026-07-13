@@ -29,8 +29,18 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. Nr 90, poz. 575, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 13 dodaje się ust. 3-5 w brzmieniu: „3. Do państwowych inspektorów sanitarnych oraz ich zastępców stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz.U. Nr 106, poz. 679, z późn. zm. ), odnoszące się do osób, o których mowa w art. 2 pkt 11 tej ustawy, z zastrzeżeniem ust. 4 i 5. 4. Naruszenie zakazów, o których mowa w art. 4 ustawy wymienionej w ust. 3, przez państwowego inspektora sanitarnego lub jego zastępcę stanowi podstawę do odwołania ze stanowiska. 5. Oświadczenie, o którym mowa w art. 10 ustawy wymienionej w ust. 3, składają odpowiednio: 1) państwowi powiatowi i państwowi graniczni inspektorzy sanitarni oraz ich zastępcy - państwowym wojewódzkim inspektorom sanitarnym, 2) państwowi wojewódzcy inspektorzy sanitarni oraz ich zastępcy Głównemu Inspektorowi Sanitarnemu.”;
-- **2)** po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. 1. Pracownik Państwowej Inspekcji Sanitarnej, o którym mowa w art. 14 ust. 1, bez zgody właściwego państwowego inspektora sanitarnego, nie może: 1) prowadzić działalności gospodarczej w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807 i Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289), a także zarządzać taką działalnością lub być przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności, 2) wykonywać dodatkowych zajęć zarobkowych. 2. Prowadzenie działalności gospodarczej, zarządzanie taką działalnością lub bycie przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności albo wykonywanie dodatkowych zajęć zarobkowych nie może pozostawać w sprzeczności z obowiązkami pracownika lub wywoływać podejrzenia o jego stronniczość lub interesowność.”.
+- **1)** w art. 13 dodaje się ust. 3-5 w brzmieniu:
+
+  > „3. Do państwowych inspektorów sanitarnych oraz ich zastępców stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz.U. Nr 106, poz. 679, z późn. zm. ), odnoszące się do osób, o których mowa w art. 2 pkt 11 tej ustawy, z zastrzeżeniem ust. 4 i 5.  
+  > 4. Naruszenie zakazów, o których mowa w art. 4 ustawy wymienionej w ust. 3, przez państwowego inspektora sanitarnego lub jego zastępcę stanowi podstawę do odwołania ze stanowiska.  
+  > 5. Oświadczenie, o którym mowa w art. 10 ustawy wymienionej w ust. 3, składają odpowiednio:  
+  > 1) państwowi powiatowi i państwowi graniczni inspektorzy sanitarni oraz ich zastępcy - państwowym wojewódzkim inspektorom sanitarnym, 2) państwowi wojewódzcy inspektorzy sanitarni oraz ich zastępcy Głównemu Inspektorowi Sanitarnemu.”;  
+- **2)** po art. 13 dodaje się art. 13a w brzmieniu:
+
+  > „Art. 13a.  
+  > 1. Pracownik Państwowej Inspekcji Sanitarnej, o którym mowa w art. 14 ust. 1, bez zgody właściwego państwowego inspektora sanitarnego, nie może:  
+  > 1) prowadzić działalności gospodarczej w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. Nr 173, poz. 1807 i Nr 281, poz. 2777 oraz z 2005 r. Nr 33, poz. 289), a także zarządzać taką działalnością lub być przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności, 2) wykonywać dodatkowych zajęć zarobkowych.  
+  > 2. Prowadzenie działalności gospodarczej, zarządzanie taką działalnością lub bycie przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności albo wykonywanie dodatkowych zajęć zarobkowych nie może pozostawać w sprzeczności z obowiązkami pracownika lub wywoływać podejrzenia o jego stronniczość lub interesowność.”.  
 
 **Art. 2.**
 

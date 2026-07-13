@@ -26,10 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/18/text.pdf) |
 
 w sprawie nadania statutu Agencji Mienia Wojskowego Na podstawie art. 5 ust. 5 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614, 1202, 1789, 2003 i 2260) zarządza się, co następuje:
-§ 1. Agencji Mienia Wojskowego nadaje się statut stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie stosuje się od dnia 17 listopada 2016 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Obrony Narodowej: A. Macierewicz STATUT AGENCJI MIENIA WOJSKOWEGO
+
+**§ 1.** Agencji Mienia Wojskowego nadaje się statut stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie stosuje się od dnia 17 listopada 2016 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Obrony Narodowej: A. Macierewicz STATUT AGENCJI MIENIA WOJSKOWEGO
+
+## Załącznik
+
 § 1. Agencja Mienia Wojskowego, zwana dalej „Agencją”, działa na podstawie ustawy z dnia 10 lipca 2015 r.
 o Agencji Mienia Wojskowego, zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. Strukturę organizacyjną Agencji stanowią:

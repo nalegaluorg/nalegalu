@@ -34,7 +34,18 @@ source: pdf
     - **b)** ust. 2 otrzymuje brzmienie: „2. Zadania gminy określone w ust. 1 i art. 13a ust. 3 i 4 są zadaniami z zakresu administracji rządowej zleconymi gminie, a środki przeznaczone na ich realizację zapewnia wojewoda. Koszty obsługi przez gminę zadań wynoszą 16 zł za każdy rozpatrzony wniosek o świadczenie pieniężne. W przypadku dokonania przez gminę weryfikacji warunków zakwaterowania i wyżywienia koszt obsługi zadań wynosi 32 zł za każdy rozpatrzony wniosek.”,
     - **c)** w ust. 4 pkt 4 otrzymuje brzmienie: „4) imię i nazwisko osoby przyjętej do zakwaterowania oraz PESEL;”;
 
-- **2)** po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. 1. Minister właściwy do spraw informatyzacji prowadzi w systemie teleinformatycznym bazę danych wniosków, o których mowa w art. 13 ust. 1. 2. Minister właściwy do spraw informatyzacji jest administratorem danych zgromadzonych w bazie. 3. Organ gminy niezwłocznie wprowadza do bazy dane, o których mowa w art. 13 ust. 4 pkt 1–4, 6 i 8. 4. Minister właściwy do spraw informatyzacji umożliwia gminom, z wykorzystaniem systemu teleinformatycznego: 1) weryfikację, czy dla osoby, której dotyczy wniosek, nie złożono wniosku ze wskazaniem innego miejsca pobytu na zakwaterowanie w okresie, o którym mowa w art. 13 ust. 4 pkt 3; 2) porównanie zawartych we wniosku danych osób fizycznych, o których mowa w art. 13 ust. 4 pkt 1, 2 i 4, z danymi w rejestrze PESEL; 3) sprawdzenie daty wjazdu obywatela Ukrainy na terytorium Rzeczypospolitej Polskiej w rejestrze, o którym mowa w art. 6 ust. 1. 5. Minister właściwy do spraw informatyzacji udostępnia dane zgromadzone w bazie: 1) ministrowi właściwemu do spraw wewnętrznych, 2) ministrowi właściwemu do spraw rodziny, 3) wojewodom, 4) gminom – w celu realizacji zadań związanych z pomocą obywatelom Ukrainy.”.
+- **2)** po art. 13 dodaje się art. 13a w brzmieniu:
+
+  > „Art. 13a.  
+  > 1. Minister właściwy do spraw informatyzacji prowadzi w systemie teleinformatycznym bazę danych wniosków, o których mowa w art. 13 ust. 1.  
+  > 2. Minister właściwy do spraw informatyzacji jest administratorem danych zgromadzonych w bazie.  
+  > 3. Organ gminy niezwłocznie wprowadza do bazy dane, o których mowa w art. 13 ust. 4 pkt 1–4, 6 i 8.  
+  > 4. Minister właściwy do spraw informatyzacji umożliwia gminom, z wykorzystaniem systemu teleinformatycznego:  
+  > 1) weryfikację, czy dla osoby, której dotyczy wniosek, nie złożono wniosku ze wskazaniem innego miejsca pobytu na zakwaterowanie w okresie, o którym mowa w art. 13 ust. 4 pkt 3;  
+  > 2) porównanie zawartych we wniosku danych osób fizycznych, o których mowa w art. 13 ust. 4 pkt 1, 2 i 4, z danymi w rejestrze PESEL;  
+  > 3) sprawdzenie daty wjazdu obywatela Ukrainy na terytorium Rzeczypospolitej Polskiej w rejestrze, o którym mowa w art. 6 ust. 1.  
+  > 5. Minister właściwy do spraw informatyzacji udostępnia dane zgromadzone w bazie:  
+  > 1) ministrowi właściwemu do spraw wewnętrznych, 2) ministrowi właściwemu do spraw rodziny, 3) wojewodom, 4) gminom – w celu realizacji zadań związanych z pomocą obywatelom Ukrainy.”.  
 
 **Art. 2.** Minister właściwy do spraw informatyzacji ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających prowadzenie bazy danych, o której mowa w art. 13a ust. 1 ustawy zmienianej w art. 1.
 

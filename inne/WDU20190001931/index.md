@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie poziomów niektórych substancji w powietrzu Na podstawie art. 86 ust. 1 i 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r.
 poz. 1396, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 24 sierpnia 2012 r. w sprawie poziomów niektórych substancji w powietrzu (Dz. U. poz. 1031) wprowadza się następujące zmiany:
-1) w załączniku nr 4 do rozporządzenia w tabeli w lp. 4 w kolumnie czwartej wyraz „300” zastępuje się wyrazem „150”;
-2) w załączniku nr 5 do rozporządzenia w tabeli w lp. 2 w kolumnie czwartej wyraz „200” zastępuje się wyrazem „100”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Środowiska: H. Kowalczyk
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 24 sierpnia 2012 r. w sprawie poziomów niektórych substancji w powietrzu (Dz. U. poz. 1031) wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 4 do rozporządzenia w tabeli w lp. 4 w kolumnie czwartej wyraz „300” zastępuje się wyrazem „150”;
+- **2)** w załączniku nr 5 do rozporządzenia w tabeli w lp. 2 w kolumnie czwartej wyraz „200” zastępuje się wyrazem „100”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Środowiska: H. Kowalczyk
 

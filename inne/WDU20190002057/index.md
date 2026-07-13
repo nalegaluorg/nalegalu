@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wzorów wniosku o dokonanie granicznej kontroli sanitarnej oraz świadectwa spełniania wymagań zdrowotnych Na podstawie art. 83 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2019 r.
 poz. 1252) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 14 lutego 2007 r. w sprawie wzorów wniosku o dokonanie granicznej kontroli sanitarnej oraz świadectwa spełniania wymagań zdrowotnych (Dz. U. poz. 286) w załącznikach nr 1 i 2 do rozporządzenia wyrazy „(pieczątka, imię i nazwisko, podpis / stamp, 1 name and surname, signature)” zastępuje się wyrazami „(imię i nazwisko, podpis / 1 name and surname, signature)”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Cieszyński
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 14 lutego 2007 r. w sprawie wzorów wniosku o dokonanie granicznej kontroli sanitarnej oraz świadectwa spełniania wymagań zdrowotnych (Dz. U. poz. 286) w załącznikach nr 1 i 2 do rozporządzenia wyrazy „(pieczątka, imię i nazwisko, podpis / stamp, 1 name and surname, signature)” zastępuje się wyrazami „(imię i nazwisko, podpis / 1 name and surname, signature)”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. J. Cieszyński
 

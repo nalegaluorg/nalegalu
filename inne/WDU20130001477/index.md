@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 Nr 98, poz. 634, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2013 r. poz. 936) w załączniku w § 8 w pkt 6 lit. j otrzymuje brzmienie: „j) nowosądeckiego – Nowy Sącz,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2013 r. poz. 936) w załączniku w § 8 w pkt 6 lit. j otrzymuje brzmienie: „j) nowosądeckiego – Nowy Sącz,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
 

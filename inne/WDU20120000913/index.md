@@ -28,7 +28,8 @@ source: pdf
 Warszawa, dnia 10 sierpnia 2012 v r.
 Poz. 913 o ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 3 sierpnia g 2012 r.
 zmieniające rozporządzenie w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych przeznaczonych do użytku cywilnego Na podstawie art. 20 ust. 6 ustawy z dnia 21 czerwca . 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. Nr 117, poz. 1007, z późn. zm. ) zarządza się, co następuje: l
-§ 1. W rozporządzeniu Ministra Gospodarki i Pracy z dnia 4 lipca 2005 r. w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych c przeznaczonych do użytku cywilnego (Dz. U. Nr 135, poz. 1140 oraz z 2009 r. Nr 26, poz. 160 i Nr 72, poz. 623) w § 7 pkt 5 otrzymuje brzmienie: „5) Wojskowy Instytut Techniczny Uzbrojenia w Zielonce, Wojskowy Instytut Techniki Inżynieryjnej we Wrocławiu im. profesora Józefa Kosackiego, „Bet-Min” Andrzej Górski w Wiechlicach, SPEC-MAJ Lesław Majewski w Oławie, Ośrodek Szkolenia r Państwowej Inspekcji Pracy im. prof. Jana Rosnera we Wrocławiu, „Jakusz” Systemy Zabezpieczeń Bankowych w Kościerzynie oraz BIURO OBSŁUGI INWESTYCJI Elżbieta Olczak-Majewska we Wrocławiu, w zakresie prowadzenia oczyszczania terenów z materiałów wybuchowych;”. .
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-w Minister Gospodarki: wz. M. Haładyj w w
+
+**§ 1.** W rozporządzeniu Ministra Gospodarki i Pracy z dnia 4 lipca 2005 r. w sprawie szkolenia i egzaminowania osób mających dostęp do materiałów wybuchowych c przeznaczonych do użytku cywilnego (Dz. U. Nr 135, poz. 1140 oraz z 2009 r. Nr 26, poz. 160 i Nr 72, poz. 623) w § 7 pkt 5 otrzymuje brzmienie: „5) Wojskowy Instytut Techniczny Uzbrojenia w Zielonce, Wojskowy Instytut Techniki Inżynieryjnej we Wrocławiu im. profesora Józefa Kosackiego, „Bet-Min” Andrzej Górski w Wiechlicach, SPEC-MAJ Lesław Majewski w Oławie, Ośrodek Szkolenia r Państwowej Inspekcji Pracy im. prof. Jana Rosnera we Wrocławiu, „Jakusz” Systemy Zabezpieczeń Bankowych w Kościerzynie oraz BIURO OBSŁUGI INWESTYCJI Elżbieta Olczak-Majewska we Wrocławiu, w zakresie prowadzenia oczyszczania terenów z materiałów wybuchowych;”. .
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. w Minister Gospodarki: wz. M. Haładyj w w
 

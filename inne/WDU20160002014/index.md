@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2016 r. poz. 1512) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2015 r. poz. 877 oraz z 2016 r. poz. 175 i 492) w załączniku w § 8:
-1) w pkt 6 lit. i otrzymuje brzmienie: „i) myślenickiego – Myślenice,”;
-2) w pkt 15 lit. r otrzymuje brzmienie: „r) ostrowskiego – Ostrów Wielkopolski,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2015 r. poz. 877 oraz z 2016 r. poz. 175 i 492) w załączniku w § 8:
+
+- **1)** w pkt 6 lit. i otrzymuje brzmienie: „i) myślenickiego – Myślenice,”;
+- **2)** w pkt 15 lit. r otrzymuje brzmienie: „r) ostrowskiego – Ostrów Wielkopolski,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

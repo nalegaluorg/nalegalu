@@ -37,7 +37,11 @@ source: pdf
 - **3)** w art. 29 ust. 1 otrzymuje brzmienie: „1. Z dniem wejścia w życie niniejszej ustawy pracownicy urzędów wojewódzkich, wykonujący do tego dnia zadania i kompetencje podlegające przekazaniu samorządowi województwa, stają się pracownikami urzędu marszałkowskiego, z wyjątkiem pracowników, którzy nie wyrazili zgody na zmiany w zakresie ich stosunku pracy, w trybie określonym w ust. 3.”;
 - **4)** w art. 30 ust. 2 otrzymuje brzmienie: „2. Pracownicy parków krajobrazowych utworzonych przed dniem wejścia w życie niniejszej ustawy, wykonujący zadania i kompetencje wojewody przejmowane przez jednostki samorządu województwa, z tym dniem stają się pracownikami parków krajobrazowych zarządzanych przez samorząd województwa.”;
 - **5)** w art. 31 ust. 1 otrzymuje brzmienie: „1. Z dniem wejścia w życie niniejszej ustawy mienie Skarbu Państwa niezbędne do wykonywania zadań przekazywanych niniejszą ustawą staje się z mocy prawa mieniem właściwej jednostki samorządu terytorialnego.”;
-- **6)** w art. 38 ust. 1 otrzymuje brzmienie: „1. Jednostki samorządu terytorialnego otrzymują z budżetu państwa dotacje na realizację przejmowanych od dnia wejścia w życie niniejszej ustawy zadań własnych, które dotychczas były realizowane przez: 1) jednostki administracji rządowej; 2) jednostki samorządu terytorialnego jako zadania z zakresu administracji rządowej.”;
+- **6)** w art. 38 ust. 1 otrzymuje brzmienie:
+
+  > „1. Jednostki samorządu terytorialnego otrzymują z budżetu państwa dotacje na realizację przejmowanych od dnia wejścia w życie niniejszej ustawy zadań własnych, które dotychczas były realizowane przez:  
+  > 1) jednostki administracji rządowej;  
+  > 2) jednostki samorządu terytorialnego jako zadania z zakresu administracji rządowej.”;  
 - **7)** art. 39 otrzymuje brzmienie: „Art. 39. Ustawa wchodzi w życie po upływie 45 dni od dnia ogłoszenia, z wyjątkiem art. 29 ust. 2, art. 30 ust. 3, art. 31 ust. 2, art. 35 ust. 2 oraz art. 37, które wchodzą w życie z dniem ogłoszenia, oraz art. 5, który wchodzi w życie z dniem 1 stycznia 2010 r.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 1 lipca 2009 r.

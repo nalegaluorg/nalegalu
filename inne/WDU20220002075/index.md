@@ -30,80 +30,143 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 21 października 2019 r. zmieniającego rozporządzenie w sprawie izb wytrzeźwień i placówek wskazanych lub utworzonych przez jednostkę samorządu terytorialnego (Dz. U. poz. 2119), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: A. Niedzielski
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 grudnia 2014 r.
 w sprawie izb wytrzeźwień i placówek wskazanych lub utworzonych przez jednostkę samorządu terytorialnego Na podstawie art. 42 ust. 5 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119 i 2469 oraz z 2022 r. poz. 24, 218 i 1700) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) czynności związane z prowadzeniem depozytu w izbach wytrzeźwień oraz w placówkach, którym jednostka samorządu terytorialnego zleciła wykonywanie zadań izby wytrzeźwień, lub w placówkach utworzonych przez tę jednostkę, zwanych dalej „placówkami”, w tym sposób ewidencjonowania, przyjmowania, przechowywania i wydawania deponowanych środków i przedmiotów;
-2) organizację izb wytrzeźwień i placówek oraz warunki, jakim powinny odpowiadać ich pomieszczenia i urządzenia;
-3) skład oraz kwalifikacje personelu izb wytrzeźwień i placówek;
-4) sposób przeprowadzania kontroli stanu zdrowia, o którym mowa w art. 42 ust. 10 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, zwanej dalej „ustawą”;
-5) sposób przeprowadzenia badania na zawartość alkoholu;
-6) rodzaje i zakres prowadzonej ewidencji i dokumentacji, w tym wzór karty ewidencyjnej;
-7) wykaz produktów leczniczych oraz wyrobów medycznych, które są stosowane w izbach wytrzeźwień i placówkach.
-§ 2. 1. Środki pieniężne i inne przedmioty odebrane od osób przyjętych do izb wytrzeźwień lub placówek przekazuje do depozytu osoba upoważniona przez dyrektora izby wytrzeźwień lub kierownika placówki, zwana dalej „depozytariuszem”.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** czynności związane z prowadzeniem depozytu w izbach wytrzeźwień oraz w placówkach, którym jednostka samorządu terytorialnego zleciła wykonywanie zadań izby wytrzeźwień, lub w placówkach utworzonych przez tę jednostkę, zwanych dalej „placówkami”, w tym sposób ewidencjonowania, przyjmowania, przechowywania i wydawania deponowanych środków i przedmiotów;
+- **2)** organizację izb wytrzeźwień i placówek oraz warunki, jakim powinny odpowiadać ich pomieszczenia i urządzenia;
+- **3)** skład oraz kwalifikacje personelu izb wytrzeźwień i placówek;
+- **4)** sposób przeprowadzania kontroli stanu zdrowia, o którym mowa w art. 42 ust. 10 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, zwanej dalej „ustawą”;
+- **5)** sposób przeprowadzenia badania na zawartość alkoholu;
+- **6)** rodzaje i zakres prowadzonej ewidencji i dokumentacji, w tym wzór karty ewidencyjnej;
+- **7)** wykaz produktów leczniczych oraz wyrobów medycznych, które są stosowane w izbach wytrzeźwień i placówkach.
+
+**§ 2.**
+
+1. Środki pieniężne i inne przedmioty odebrane od osób przyjętych do izb wytrzeźwień lub placówek przekazuje do depozytu osoba upoważniona przez dyrektora izby wytrzeźwień lub kierownika placówki, zwana dalej „depozytariuszem”.
+
 2. Depozytariusz ewidencjonuje środki pieniężne lub inne przedmioty, o których mowa w ust. 1, w karcie depozytowej, załączanej do karty ewidencyjnej, o której mowa w § 10.
+
 3. W przypadku, o którym mowa w art. 40 ust. 3 ustawy, w czynnościach, o których mowa w ust. 1 i 2, uczestniczy także funkcjonariusz Policji lub strażnik straży gminnej.
-§ 3. 1. Karta depozytowa zawiera:
-1) numer;
-2) oznaczenie izby wytrzeźwień lub placówki;
-3) dane osobowe niezbędne do zidentyfikowania osoby przyjętej:
-a) imię i nazwisko,
-b) imiona rodziców,
-c) datę i miejsce urodzenia lub wiek,
-d) adres zamieszkania lub miejsce pobytu,
-e) nazwę i numer dokumentu tożsamości;
-4) wykaz odebranych środków pieniężnych lub innych przedmiotów, w tym przedmiotów wartościowych, i ich opis;
-5) datę sporządzenia;
-6) podpis depozytariusza;
-7) podpis funkcjonariusza Policji lub strażnika straży gminnej, jeżeli dotyczy.
+
+**§ 3.**
+
+1. Karta depozytowa zawiera:
+
+- **1)** numer;
+- **2)** oznaczenie izby wytrzeźwień lub placówki;
+- **3)** dane osobowe niezbędne do zidentyfikowania osoby przyjętej:
+    - **a)** imię i nazwisko,
+    - **b)** imiona rodziców,
+    - **c)** datę i miejsce urodzenia lub wiek,
+    - **d)** adres zamieszkania lub miejsce pobytu,
+    - **e)** nazwę i numer dokumentu tożsamości;
+
+- **4)** wykaz odebranych środków pieniężnych lub innych przedmiotów, w tym przedmiotów wartościowych, i ich opis;
+- **5)** datę sporządzenia;
+- **6)** podpis depozytariusza;
+- **7)** podpis funkcjonariusza Policji lub strażnika straży gminnej, jeżeli dotyczy.
+
 2. W karcie depozytowej dokonuje się opisu odebranych środków pieniężnych lub innych przedmiotów wartościowych, określając ich szczególne cechy, zwłaszcza odpowiednio nazwę, nominał, rodzaj, barwę, markę i stan zużycia. W przypadku braku takich cech dokonuje się odpowiedniej adnotacji w karcie depozytowej.
+
 3. Środki pieniężne lub inne przedmioty przekazane do depozytu przechowuje się w sposób gwarantujący ich bezpieczeństwo, w pomieszczeniach zabezpieczonych przed dostępem osób nieupoważnionych. Przedmioty wartościowe przechowuje się w opakowaniu trwale zamkniętym, obejmującym oznaczenie izby wytrzeźwień lub placówki i oznaczonym numerem karty depozytowej, albo w opakowaniu zabezpieczonym jednorazową plombą, której oznaczenie umożliwia identyfikację przedmiotu wartościowego opisanego w karcie depozytowej. Opakowanie, w którym jest przechowywany depozyt, przechowuje się w sejfie, szafie pancernej lub zamkniętych metalowych szafkach.
-§ 4. 1. Środki pieniężne lub inne przedmioty przekazane do depozytu depozytariusz wydaje osobie zwalnianej z izby wytrzeźwień lub placówki, za pokwitowaniem odbioru, w obecności innej osoby, o której mowa w § 8 ust. 2.
+
+**§ 4.**
+
+1. Środki pieniężne lub inne przedmioty przekazane do depozytu depozytariusz wydaje osobie zwalnianej z izby wytrzeźwień lub placówki, za pokwitowaniem odbioru, w obecności innej osoby, o której mowa w § 8 ust. 2.
+
 2. W przypadku gdy osoba zwalniana z izby wytrzeźwień lub placówki odmawia pokwitowania odbioru środków pieniężnych lub innych przedmiotów przekazanych do depozytu, należy je wydać po odnotowaniu w karcie depozytowej przyczyny tej odmowy.
-§ 5. Osobie przyjętej do izby wytrzeźwień lub placówki zapewnia się na czas pobytu:
-1) odzież zastępczą, jeżeli jej odzież nie nadaje się do użytku lub jeżeli używanie tej odzieży jest niedopuszczalne ze względów higienicznych;
-2) napoje podawane w naczyniach jednorazowych.
-§ 6. 1. W izbie wytrzeźwień lub placówce wyodrębnia się pomieszczenia dla:
-1) mężczyzn, kobiet oraz osób do lat 18;
-2) osób, których zachowanie stwarza poważne zagrożenie dla ich zdrowia lub życia albo zdrowia lub życia innych osób przyjętych do izby wytrzeźwień lub placówki.
+
+**§ 5.** Osobie przyjętej do izby wytrzeźwień lub placówki zapewnia się na czas pobytu:
+
+- **1)** odzież zastępczą, jeżeli jej odzież nie nadaje się do użytku lub jeżeli używanie tej odzieży jest niedopuszczalne ze względów higienicznych;
+- **2)** napoje podawane w naczyniach jednorazowych.
+
+**§ 6.**
+
+1. W izbie wytrzeźwień lub placówce wyodrębnia się pomieszczenia dla:
+
+- **1)** mężczyzn, kobiet oraz osób do lat 18;
+- **2)** osób, których zachowanie stwarza poważne zagrożenie dla ich zdrowia lub życia albo zdrowia lub życia innych osób przyjętych do izby wytrzeźwień lub placówki.
+
 2. W pomieszczeniach izby wytrzeźwień lub placówki zapewnia się bezpośredni dostęp światła dziennego, oświetlenie elektryczne oraz system przywoławczy umożliwiający, w razie potrzeby, wezwanie pracownika, o którym mowa w art. 42 ust. 10 ustawy, a pomieszczenia dla osób, o których mowa w ust. 1 pkt 2, wyposaża się dodatkowo w:
-1) metalowe lub drewniane drzwi, otwierające się na zewnątrz, z okienkiem obserwacyjnym, szklonym szkłem hartowanym lub innym przezroczystym materiałem odpornym na zniszczenie, wyposażone w system zamykania od zewnątrz, bez klamki od wewnątrz;
-2) oświetlenie zabezpieczone przed dostępem osoby, o której mowa w ust. 1 pkt 2;
-3) odporny na zniszczenie materac z materiału co najmniej trudno zapalnego;
-4) zabezpieczoną przed uszkodzeniem instalację monitoringu umożliwiającą stały nadzór nad osobą, o której mowa w ust. 1 pkt 2.
+
+- **1)** metalowe lub drewniane drzwi, otwierające się na zewnątrz, z okienkiem obserwacyjnym, szklonym szkłem hartowanym lub innym przezroczystym materiałem odpornym na zniszczenie, wyposażone w system zamykania od zewnątrz, bez klamki od wewnątrz;
+- **2)** oświetlenie zabezpieczone przed dostępem osoby, o której mowa w ust. 1 pkt 2;
+- **3)** odporny na zniszczenie materac z materiału co najmniej trudno zapalnego;
+- **4)** zabezpieczoną przed uszkodzeniem instalację monitoringu umożliwiającą stały nadzór nad osobą, o której mowa w ust. 1 pkt 2.
+
 3. Instalacja, o której mowa w ust. 2 pkt 4, umożliwia zapis obrazu oraz jego przechowywanie przez okres co najmniej 30 dni, nie dłużej jednak niż 60 dni od dnia jego zarejestrowania. Dostęp do tej instalacji i zapisu obrazu jest kontrolowany, możliwy tylko dla dyrektora izby wytrzeźwień, kierownika placówki lub upoważnionej przez nich osoby.
+
 4. Po upływie okresu przechowywania, o którym mowa w ust. 3, zapis obrazu jest usuwany w sposób uniemożliwiający jego odzyskanie.
+
 5. W izbie wytrzeźwień lub placówce wyodrębnia się pomieszczenia przeznaczone do przechowywania czystej bielizny, brudnej bielizny, środków czyszczących i dezynfekujących, a także depozytów oraz pomieszczenie socjalne dla osób zatrudnionych.
+
 6. W izbie wytrzeźwień lub placówce wyodrębnia się:
-1) toalety dla kobiet oraz mężczyzn, wyposażone w co najmniej 1 miskę ustępową dla 20 osób, 1 pisuar dla 20 mężczyzn oraz 1 umywalkę dla 5 osób;
-2) prysznice dla kobiet oraz mężczyzn, wyposażone w co najmniej 1 urządzenie natryskowe dla 15 osób.
+
+- **1)** toalety dla kobiet oraz mężczyzn, wyposażone w co najmniej 1 miskę ustępową dla 20 osób, 1 pisuar dla 20 mężczyzn oraz 1 umywalkę dla 5 osób;
+- **2)** prysznice dla kobiet oraz mężczyzn, wyposażone w co najmniej 1 urządzenie natryskowe dla 15 osób.
+
 7. Pomieszczenia izby wytrzeźwień lub placówki udostępnione osobom doprowadzonym lub przyjętym są wyposażone w urządzenia dla osób niepełnosprawnych ruchowo.
+
 8. Powierzchnia pomieszczenia, o którym mowa w ust. 1 pkt 1, przypadająca na osobę przyjętą do izby wytrzeźwień lub placówki nie może być mniejsza niż 3 m , a w przypadku pomieszczenia, o którym mowa w ust. 1 pkt 2, nie mniejsza niż 6 m .
-§ 7. 1. W izbie wytrzeźwień i placówce wyodrębnia się gabinet diagnostyczno-zabiegowy wyposażony w produkty lecznicze, wyroby medyczne, urządzenie elektroniczne dokonujące pomiaru alkoholu w wydychanym powietrzu, o którym mowa w § 12 ust. 1, oraz w sprzęt i środki ochrony osobistej, w szczególności fartuchy jednorazowe, maseczki, rękawice, okulary ochronne i płyny dezynfekcyjne.
+
+**§ 7.**
+
+1. W izbie wytrzeźwień i placówce wyodrębnia się gabinet diagnostyczno-zabiegowy wyposażony w produkty lecznicze, wyroby medyczne, urządzenie elektroniczne dokonujące pomiaru alkoholu w wydychanym powietrzu, o którym mowa w § 12 ust. 1, oraz w sprzęt i środki ochrony osobistej, w szczególności fartuchy jednorazowe, maseczki, rękawice, okulary ochronne i płyny dezynfekcyjne.
+
 2. Wykaz produktów leczniczych oraz wyrobów medycznych stosowanych w izbie wytrzeźwień i placówce jest określony w załączniku nr 1 do rozporządzenia.
+
 3. Izba wytrzeźwień, w której prowadzi się detoksykację, spełnia również wymagania dla leczenia alkoholowych zespołów abstynencyjnych określone w przepisach dotyczących świadczeń gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień, wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ).
-§ 8. 1. Izba wytrzeźwień oraz placówka wykonują zadania, o których mowa w art. 39 ust. 2 pkt 1–5 ustawy, całą dobę w systemie zmianowym.
+
+**§ 8.**
+
+1. Izba wytrzeźwień oraz placówka wykonują zadania, o których mowa w art. 39 ust. 2 pkt 1–5 ustawy, całą dobę w systemie zmianowym.
+
 2. W skład zmiany izby wytrzeźwień lub placówki wchodzą:
-1) kierownik zmiany lub inna osoba wyznaczona jako odpowiedzialna za działalność izby wytrzeźwień lub placówki w trakcie zmiany;
-2) depozytariusz;
-3) lekarz lub felczer;
-4) pielęgniarka lub ratownik medyczny;
-5) opiekun zmiany;
-6) porządkowy.
+
+- **1)** kierownik zmiany lub inna osoba wyznaczona jako odpowiedzialna za działalność izby wytrzeźwień lub placówki w trakcie zmiany;
+- **2)** depozytariusz;
+- **3)** lekarz lub felczer;
+- **4)** pielęgniarka lub ratownik medyczny;
+- **5)** opiekun zmiany;
+- **6)** porządkowy.
+
 3. Dyrektor izby wytrzeźwień lub kierownik placówki mogą, w zależności od potrzeb, zwiększyć skład zmiany określony w ust. 2 albo zmniejszyć ten skład, z tym że w skład tej zmiany zawsze wchodzą osoby, o których mowa w ust. 2 pkt 1–3 i 5.
+
 4. Osoby, o których mowa w ust. 2 pkt 1, 2 i 5, posiadają co najmniej wykształcenie średnie.
+
 5. Osoby, o których mowa w ust. 2 pkt 1, 2 i 5, odbywają coroczne szkolenie organizowane przez izbę wytrzeźwień lub placówkę w zakresie:
-1) udzielania pierwszej pomocy;
-2) stosowania środków przymusu bezpośredniego;
-3) profilaktyki rozwiązywania problemów alkoholowych.
+
+- **1)** udzielania pierwszej pomocy;
+- **2)** stosowania środków przymusu bezpośredniego;
+- **3)** profilaktyki rozwiązywania problemów alkoholowych.
+
 6. Czynności związane z osobami doprowadzonymi lub przyjętymi do izby wytrzeźwień lub placówki oraz bezpośrednią opiekę nad nimi w czasie pobytu może sprawować wyłącznie personel tej samej płci, z wyjątkiem sprawowania opieki medycznej.
-§ 9. 1. Osoba, o której mowa w § 8 ust. 2 pkt 1, sporządza raport z przebiegu zmiany, z podaniem daty oraz imiennego składu zmiany, co potwierdza podpisem.
+
+**§ 9.**
+
+1. Osoba, o której mowa w § 8 ust. 2 pkt 1, sporządza raport z przebiegu zmiany, z podaniem daty oraz imiennego składu zmiany, co potwierdza podpisem.
+
 2. Raport, o którym mowa w ust. 1, jest przechowywany w księdze raportów prowadzonej przez izby wytrzeźwień lub placówki w postaci papierowej lub elektronicznej.
+
 3. Strony w księdze raportów, która jest prowadzona w postaci papierowej, są numerowane i stanowią chronologicznie uporządkowaną całość. W przypadku sporządzania wydruku z księgi raportów, która jest prowadzona w postaci elektronicznej, strony wydruku są numerowane.
-§ 10. W izbie wytrzeźwień i placówce prowadzi się ewidencję i dokumentację osób doprowadzonych lub przyjętych w formie karty ewidencyjnej. Wzór karty ewidencyjnej jest określony w załączniku nr 2 do rozporządzenia.
-§ 11. 1. W trakcie kontroli stanu zdrowia osoby, wobec której zastosowano przymus bezpośredni, osoba, o której mowa w art. 42 ust. 10 ustawy, ocenia prawidłowość unieruchomienia, w szczególności sprawdza, czy pasy, uchwyty, prześcieradła lub kaftan bezpieczeństwa nie są założone zbyt luźno lub zbyt ciasno, a w przypadku izolacji sprawdza, czy osoba, wobec której zastosowano przymus bezpośredni w formie izolacji, nie ma uszkodzeń ciała spowodowanych swoim zachowaniem.
+
+**§ 10.** W izbie wytrzeźwień i placówce prowadzi się ewidencję i dokumentację osób doprowadzonych lub przyjętych w formie karty ewidencyjnej. Wzór karty ewidencyjnej jest określony w załączniku nr 2 do rozporządzenia.
+
+**§ 11.**
+
+1. W trakcie kontroli stanu zdrowia osoby, wobec której zastosowano przymus bezpośredni, osoba, o której mowa w art. 42 ust. 10 ustawy, ocenia prawidłowość unieruchomienia, w szczególności sprawdza, czy pasy, uchwyty, prześcieradła lub kaftan bezpieczeństwa nie są założone zbyt luźno lub zbyt ciasno, a w przypadku izolacji sprawdza, czy osoba, wobec której zastosowano przymus bezpośredni w formie izolacji, nie ma uszkodzeń ciała spowodowanych swoim zachowaniem.
+
 2. W razie wystąpienia zagrożenia dla zdrowia lub życia osoby, wobec której zastosowano przymus bezpośredni w formie unieruchomienia lub izolacji, osoba, o której mowa w art. 42 ust. 10 ustawy, jest obowiązana natychmiast wezwać lekarza, felczera lub zespół ratownictwa medycznego.
-§ 12. 1. Badanie na zawartość alkoholu w organizmie osoby doprowadzonej przeprowadza się w sposób nieinwazyjny, za pomocą urządzenia elektronicznego dokonującego pomiaru stężenia alkoholu w wydychanym powietrzu.
+
+**§ 12.**
+
+1. Badanie na zawartość alkoholu w organizmie osoby doprowadzonej przeprowadza się w sposób nieinwazyjny, za pomocą urządzenia elektronicznego dokonującego pomiaru stężenia alkoholu w wydychanym powietrzu.
+
 2. Wynik badania na zawartość alkoholu w organizmie osoby doprowadzonej dokumentuje się wydrukiem z urządzenia, o którym mowa w ust. 1. Wydruk załącza się do karty ewidencyjnej.
-§ 13. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
+
+**§ 13.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
 
 ## Załączniki do rozporządzenia Ministra Zdrowia z dnia 8 grudnia 2014 r. (Dz. U. z 2022 r.
 

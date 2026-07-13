@@ -29,7 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r. poz. 952 oraz z 2013 r. poz. 448 i 1247) w art. 3:
 
-- **1)** § 3 i 4 otrzymują brzmienie: „§ 3. Minister Obrony Narodowej w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, w drodze rozporządzenia, tworzy i znosi sądy wojskowe oraz określa ich siedziby i obszary właściwości, mając na względzie potrzebę zapewnienia racjonalnej organizacji sądownictwa wojskowego przez dostosowanie liczby sądów, ich wielkości i obszarów właściwości do rozmieszczenia Sił Zbrojnych, realizującej zasadę dostępu do sądu i uwzględniającej ekonomię postępowania sądowego, w celu zagwarantowania realizacji prawa do rozpoznania sprawy w rozsądnym terminie, a także biorąc pod uwagę potrzeby Sił Zbrojnych w przypadku ogłoszenia mobilizacji i w czasie wojny. § 4. Kierując się kryteriami i celem, o których mowa w § 3, Minister Obrony Narodowej w porozumieniu z Ministrem Sprawiedliwości, w drodze rozporządzenia, może tworzyć i znosić wydziały zamiejscowe wojskowych sądów garnizonowych.”;
+- **1)** § 3 i 4 otrzymują brzmienie:
+
+  > „§ 3. Minister Obrony Narodowej w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, w drodze rozporządzenia, tworzy i znosi sądy wojskowe oraz określa ich siedziby i obszary właściwości, mając na względzie potrzebę zapewnienia racjonalnej organizacji sądownictwa wojskowego przez dostosowanie liczby sądów, ich wielkości i obszarów właściwości do rozmieszczenia Sił Zbrojnych, realizującej zasadę dostępu do sądu i uwzględniającej ekonomię postępowania sądowego, w celu zagwarantowania realizacji prawa do rozpoznania sprawy w rozsądnym terminie, a także biorąc pod uwagę potrzeby Sił Zbrojnych w przypadku ogłoszenia mobilizacji i w czasie wojny.  
+  > § 4. Kierując się kryteriami i celem, o których mowa w § 3, Minister Obrony Narodowej w porozumieniu z Ministrem Sprawiedliwości, w drodze rozporządzenia, może tworzyć i znosić wydziały zamiejscowe wojskowych sądów garnizonowych.”;  
 - **2)** uchyla się § 5 i 6.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia.

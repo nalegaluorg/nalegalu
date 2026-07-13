@@ -28,9 +28,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wykroczeń, za które funkcjonariusze Straży Granicznej są uprawnieni do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 4 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
 z 2025 r. poz. 860 i 1178) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 18 kwietnia 2014 r. w sprawie wykroczeń, za które funkcjonariusze Straży Granicznej są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2023 r. poz. 662) w § 2:
-1) pkt 8 otrzymuje brzmienie: „8) art. 84 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621);”;
-2) pkt 17 otrzymuje brzmienie: „17) art. 465 ust. 1 i 1a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079);”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 18 kwietnia 2014 r. w sprawie wykroczeń, za które funkcjonariusze Straży Granicznej są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. z 2023 r. poz. 662) w § 2:
+
+- **1)** pkt 8 otrzymuje brzmienie: „8) art. 84 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621);”;
+- **2)** pkt 17 otrzymuje brzmienie: „17) art. 465 ust. 1 i 1a ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079);”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
 

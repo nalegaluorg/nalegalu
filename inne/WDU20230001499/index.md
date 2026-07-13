@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001499) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1499/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu Na podstawie art. 112 ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605 i 650) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 18 czerwca 2021 r. w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 1115 oraz z 2022 r. poz. 1795) w załączniku w § 3 pkt 3 i 4 otrzymują brzmienie: „3) Departament Nadzoru Farmaceutycznego;
-4) Departament Inspekcji;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 18 czerwca 2021 r. w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 1115 oraz z 2022 r. poz. 1795) w załączniku w § 3 pkt 3 i 4 otrzymują brzmienie: „3) Departament Nadzoru Farmaceutycznego; 4) Departament Inspekcji;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski
 

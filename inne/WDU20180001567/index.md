@@ -32,7 +32,12 @@ source: pdf
 - **1)** tytuł ustawy otrzymuje brzmienie: „o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego”;
 - **2)** art. 1 otrzymuje brzmienie: „Art. 1. Ustawa określa organizację i zadania Instytutu Solidarności i Męstwa imienia Witolda Pileckiego, zwanego dalej „Instytutem”.”;
 - **3)** w art. 3:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Celem działalności Instytutu jest inicjowanie, podejmowanie i wspieranie działań mających na celu: 1) uhonorowanie i upamiętnienie osób żyjących, zmarłych lub zamordowanych, zasłużonych dla Narodu Polskiego, zarówno w kraju, jak i za granicą, w dziele pielęgnowania pamięci lub niesienia pomocy obywatelom polskim lub Polakom o innej przynależności państwowej będącym ofiarami zbrodni sowieckich, nazistowskich zbrodni niemieckich, zbrodni z pobudek nacjonalistycznych lub innych przestępstw stanowiących zbrodnie przeciwko pokojowi, ludzkości lub zbrodni wojennych, w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.; 2) prowadzenie badań w zakresie nauk historycznych oraz badań interdyscyplinarnych z wykorzystaniem narzędzi pokrewnych nauk humanistycznych i społecznych, a w szczególności badanie, dokumentowanie i poszerzanie wiedzy na temat totalitaryzmów oraz zbrodni nazistowskich i komunistycznych w XX wieku; 3) gromadzenie, opracowywanie i udostępnianie relacji ofiar i świadków zbrodni totalitarnych oraz popularyzowanie wiedzy na ten temat.”,
+    - **a)** ust. 1 otrzymuje brzmienie:
+
+      > „1. Celem działalności Instytutu jest inicjowanie, podejmowanie i wspieranie działań mających na celu:  
+      > 1) uhonorowanie i upamiętnienie osób żyjących, zmarłych lub zamordowanych, zasłużonych dla Narodu Polskiego, zarówno w kraju, jak i za granicą, w dziele pielęgnowania pamięci lub niesienia pomocy obywatelom polskim lub Polakom o innej przynależności państwowej będącym ofiarami zbrodni sowieckich, nazistowskich zbrodni niemieckich, zbrodni z pobudek nacjonalistycznych lub innych przestępstw stanowiących zbrodnie przeciwko pokojowi, ludzkości lub zbrodni wojennych, w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.;  
+      > 2) prowadzenie badań w zakresie nauk historycznych oraz badań interdyscyplinarnych z wykorzystaniem narzędzi pokrewnych nauk humanistycznych i społecznych, a w szczególności badanie, dokumentowanie i poszerzanie wiedzy na temat totalitaryzmów oraz zbrodni nazistowskich i komunistycznych w XX wieku;  
+      > 3) gromadzenie, opracowywanie i udostępnianie relacji ofiar i świadków zbrodni totalitarnych oraz popularyzowanie wiedzy na ten temat.”,  
     - **b)** w ust. 2 pkt 10 otrzymuje brzmienie: „10) współpraca z Instytutem Pamięci Narodowej – Komisją Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz krajowymi, zagranicznymi i międzynarodowymi instytucjami naukowymi i stowarzyszeniami w zakresie, o którym mowa w ust. 1;”;
 
 - **4)** w art. 4 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W strukturze organizacyjnej Instytutu działa Ośrodek Badań na Totalitaryzmami realizujący cele określone w art. 3 ust. 1 pkt 2 i 3.”;
@@ -43,7 +48,11 @@ source: pdf
 - **9)** w art. 14 w ust. 1 i 2 wyrazy „art. 3 ust. 1” zastępuje się wyrazami „art. 3 ust. 1 pkt 1”;
 - **10)** w art. 21:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Niewykorzystane w roku 2017 środki dotacji, o której mowa w ust. 1, przechodzą na kolejne lata obrotowe.”,
-    - **b)** dodaje się ust. 3 w brzmieniu: „3. Środki dotacji, o których mowa w ust. 2, mogą zostać również przeznaczone na: 1) pozyskanie, za zgodą ministra, nieruchomości niezbędnych do rozpoczęcia działalności Instytutu w przypadku niewyposażenia Instytutu w nieruchomości zgodnie z art. 20 ust. 1; 2) finansowanie kosztów, w tym inwestycji, związanych z działalnością Instytutu.”.
+    - **b)** dodaje się ust. 3 w brzmieniu:
+
+      > „3. Środki dotacji, o których mowa w ust. 2, mogą zostać również przeznaczone na:  
+      > 1) pozyskanie, za zgodą ministra, nieruchomości niezbędnych do rozpoczęcia działalności Instytutu w przypadku niewyposażenia Instytutu w nieruchomości zgodnie z art. 20 ust. 1;  
+      > 2) finansowanie kosztów, w tym inwestycji, związanych z działalnością Instytutu.”.  
 
 **Art. 2.** W ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2018 r. poz. 400 i 730) wprowadza się następujące zmiany:
 

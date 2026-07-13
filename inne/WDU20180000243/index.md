@@ -26,22 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/243/text.pdf) |
 
 zmieniające rozporządzenie w sprawie oświadczeń o stanie majątkowym funkcjonariuszy oraz pracowników Straży Granicznej Na podstawie art. 91a ust. 9 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2015 r. w sprawie oświadczeń o stanie majątkowym funkcjonariuszy oraz pracowników Straży Granicznej (Dz. U. poz. 2364) wprowadza się następujące zmiany:
-1) w § 2 w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) Komendantowi Głównemu Straży Granicznej:
-a) Komendant Biura Spraw Wewnętrznych Straży Granicznej oraz jego zastępcy,
-b) komendanci oddziałów Straży Granicznej oraz ich zastępcy,
-c) komendanci ośrodków szkolenia Straży Granicznej oraz ich zastępcy,
-d) komendanci ośrodków Straży Granicznej oraz ich zastępcy,
-e) funkcjonariusze pełniący służbę w Komendzie Głównej Straży Granicznej;
-3) Komendantowi Biura Spraw Wewnętrznych Straży Granicznej, komendantom oddziałów Straży Granicznej, ośrodków szkolenia Straży Granicznej lub ośrodków Straży Granicznej – funkcjonariusze pełniący służbę w podległych im jednostkach organizacyjnych.”;
-2) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji …..) WZÓR WZÓR POUCZENIE
-1. Osoba składająca oświadczenie o stanie majątkowym wypełnia dwie jego integralne części: w części A oświadczenia są zawarte informacje dotyczące stanu majątkowego, w części B zaś informacje dotyczące daty i miejsca urodzenia, numeru PESEL, adresu zamieszkania składającego oświadczenie oraz miejsca położenia nieruchomości – niepodlegające publikacji w Biuletynie Informacji Publicznej w zakresie określonym w art. 91a ust. 8 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138).
-2. Osoba składająca oświadczenie o stanie majątkowym jest obowiązana do zgodnego z prawdą, starannego i zupełnego wypełnienia każdej z rubryk oświadczenia znajdujących się w poszczególnych jego częściach (oznaczonych lit. A i cyframi rzymskimi albo lit. B) oraz punktach i pozycjach tabel (oznaczonych cyframi arabskimi), kierując się treścią zamieszczonych objaśnień.
-3. Jeżeli poszczególne części i punkty oświadczenia o stanie majątkowym nie znajdują w konkretnym przypadku zastosowania, należy skreślić niewłaściwe sformułowanie w nich zawarte.
-4. W przypadku wyczerpania miejsca przewidzianego w formularzu na podanie informacji w ramach poszczególnych części, punktów lub pozycji, do oświadczenia o stanie majątkowym należy dołączyć arkusze formatu A4 zawierające: uzupełnienie wymaganych informacji w układzie i stopniu szczegółowości określonych we właściwych punktach oświadczenia, oznaczenie formularza oświadczenia, części, punktu i pozycji, do których odnoszą się te informacje, oraz datę i podpis składającego oświadczenie.
-OŚWIADCZENIE O STANIE MAJĄTKOWYM FUNKCJONARIUSZA / PRACOWNIKA* STRAŻY GRANICZNEJ
 pełniący(-ca) służbę / zatrudniony(-na)* w ………………………………………………………………………………………………………………………………….
 ………………………………………………………………………………………………………………………………….
 po zapoznaniu się z przepisami ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138), składając oświadczenie o stanie majątkowym zgodnie z art. 91a tej ustawy : * Niewłaściwe skreślić.
@@ -90,6 +74,17 @@ Objaśnienia co do miejsca i terminu składania oświadczenia o stanie majątkow
 3. Funkcjonariusze składają oświadczenie o stanie majątkowym corocznie do dnia 31 marca oraz na żądanie Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej, właściwych komendantów oddziałów, komendantów ośrodków szkolenia Straży Granicznej lub ośrodków Straży Granicznej, w terminie 14 dni od otrzymania pisemnego żądania jego złożenia, we właściwej jednostce organizacyjnej Straży Granicznej.
 4. Pracownicy Straży Granicznej zobowiązani do złożenia oświadczenia o stanie majątkowym na żądanie Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej, właściwych komendantów oddziałów, komendantów ośrodków szkolenia Straży Granicznej lub ośrodków Straży Granicznej, w terminie 14 dni od otrzymania pisemnego żądania jego złożenia, we właściwej jednostce organizacyjnej Straży Granicznej.
 * Niewłaściwe skreślić.
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2015 r. w sprawie oświadczeń o stanie majątkowym funkcjonariuszy oraz pracowników Straży Granicznej (Dz. U. poz. 2364) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 1 pkt 2 i 3 otrzymują brzmienie:
+
+  > „2) Komendantowi Głównemu Straży Granicznej:  
+  > a) Komendant Biura Spraw Wewnętrznych Straży Granicznej oraz jego zastępcy, b) komendanci oddziałów Straży Granicznej oraz ich zastępcy, c) komendanci ośrodków szkolenia Straży Granicznej oraz ich zastępcy, d) komendanci ośrodków Straży Granicznej oraz ich zastępcy, e) funkcjonariusze pełniący służbę w Komendzie Głównej Straży Granicznej;  
+  > 3) Komendantowi Biura Spraw Wewnętrznych Straży Granicznej, komendantom oddziałów Straży Granicznej, ośrodków szkolenia Straży Granicznej lub ośrodków Straży Granicznej – funkcjonariusze pełniący służbę w podległych im jednostkach organizacyjnych.”;  
+- **2)** załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. Minister Spraw Wewnętrznych i Administracji: J. Brudziński Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji …..) WZÓR WZÓR POUCZENIE 1. Osoba składająca oświadczenie o stanie majątkowym wypełnia dwie jego integralne części: w części A oświadczenia są zawarte informacje dotyczące stanu majątkowego, w części B zaś informacje dotyczące daty i miejsca urodzenia, numeru PESEL, adresu zamieszkania składającego oświadczenie oraz miejsca położenia nieruchomości – niepodlegające publikacji w Biuletynie Informacji Publicznej w zakresie określonym w art. 91a ust. 8 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138). 2. Osoba składająca oświadczenie o stanie majątkowym jest obowiązana do zgodnego z prawdą, starannego i zupełnego wypełnienia każdej z rubryk oświadczenia znajdujących się w poszczególnych jego częściach (oznaczonych lit. A i cyframi rzymskimi albo lit. B) oraz punktach i pozycjach tabel (oznaczonych cyframi arabskimi), kierując się treścią zamieszczonych objaśnień. 3. Jeżeli poszczególne części i punkty oświadczenia o stanie majątkowym nie znajdują w konkretnym przypadku zastosowania, należy skreślić niewłaściwe sformułowanie w nich zawarte. 4. W przypadku wyczerpania miejsca przewidzianego w formularzu na podanie informacji w ramach poszczególnych części, punktów lub pozycji, do oświadczenia o stanie majątkowym należy dołączyć arkusze formatu A4 zawierające: uzupełnienie wymaganych informacji w układzie i stopniu szczegółowości określonych we właściwych punktach oświadczenia, oznaczenie formularza oświadczenia, części, punktu i pozycji, do których odnoszą się te informacje, oraz datę i podpis składającego oświadczenie. OŚWIADCZENIE O STANIE MAJĄTKOWYM FUNKCJONARIUSZA / PRACOWNIKA* STRAŻY GRANICZNEJ
 
 ## CZĘŚĆ A Ja, niżej podpisany(-na), ………………………………………………………………………………………………………………………………….
 

@@ -31,13 +31,18 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 29 grudnia 2022 r.
 w sprawie stawek dopłat do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany lub ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany Na podstawie art. 40c ust. 6 pkt 1 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U.
 z 2023 r. poz. 1502) zarządza się, co następuje:
-§ 1. Stawka dopłaty do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany wynosi:
-1) 65 zł – w przypadku zbóż i mieszanek zbożowych lub mieszanek pastewnych sporządzonych z materiału siewnego gatunków lub odmian roślin zbożowych lub strączkowych wymienionych w przepisach wydanych na podstawie art. 40c ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych;
-2) 115 zł – w przypadku roślin strączkowych;
-3) 350 zł – w przypadku ziemniaków.
-§ 2. Stawka dopłaty do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych wytworzonym w ramach produkcji ekologicznej w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. z 2023 r. poz. 1235) materiałem siewnym kategorii elitarny lub kwalifikowany wynosi:
-1) 78 zł – w przypadku zbóż i mieszanek zbożowych lub mieszanek pastewnych sporządzonych z materiału siewnego gatunków lub odmian roślin zbożowych lub strączkowych wymienionych w przepisach wydanych na podstawie art. 40c ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych;
-2) 138 zł – w przypadku roślin strączkowych;
-3) 420 zł – w przypadku ziemniaków.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Stawka dopłaty do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany wynosi:
+
+- **1)** 65 zł – w przypadku zbóż i mieszanek zbożowych lub mieszanek pastewnych sporządzonych z materiału siewnego gatunków lub odmian roślin zbożowych lub strączkowych wymienionych w przepisach wydanych na podstawie art. 40c ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych;
+- **2)** 115 zł – w przypadku roślin strączkowych;
+- **3)** 350 zł – w przypadku ziemniaków.
+
+**§ 2.** Stawka dopłaty do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych wytworzonym w ramach produkcji ekologicznej w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. z 2023 r. poz. 1235) materiałem siewnym kategorii elitarny lub kwalifikowany wynosi:
+
+- **1)** 78 zł – w przypadku zbóż i mieszanek zbożowych lub mieszanek pastewnych sporządzonych z materiału siewnego gatunków lub odmian roślin zbożowych lub strączkowych wymienionych w przepisach wydanych na podstawie art. 40c ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych;
+- **2)** 138 zł – w przypadku roślin strączkowych;
+- **3)** 420 zł – w przypadku ziemniaków.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

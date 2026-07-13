@@ -26,17 +26,20 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000573) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/573/text.pdf) |
 
 zmieniające rozporządzenie w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw Na podstawie art. 165 ust. 16 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 23 sierpnia 2017 r. w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw (Dz. U. z 2020 r. poz. 1283) wprowadza się następujące zmiany:
-1) w § 2 w pkt 3 w lit. b wyrazy „rodzica ucznia” zastępuje się wyrazami „rodzica ucznia lub inną osobę sprawującą opiekę nad uczniem”;
-2) w § 11 wyrazy „rodzica ucznia” zastępuje się wyrazami „rodzica ucznia lub innej osoby sprawującej opiekę nad uczniem”;
-3) w § 13:
-a) w ust. 1 wyraz „rodzica” zastępuje się wyrazami „rodzica ucznia lub innej osoby sprawującej opiekę nad uczniem”,
-b) w ust. 2 wyrazy „rodzic ucznia” zastępuje się wyrazami „rodzic ucznia lub inna osoba sprawująca opiekę nad uczniem”,
-c) w ust. 3 wyrazy „rodzica ucznia” zastępuje się wyrazami „rodzica ucznia lub inną osobę sprawującą opiekę nad uczniem”;
-4) w § 15 w ust. 1 po wyrazach „Rodzic ucznia przybywającego z zagranicy” dodaje się wyrazy „lub inna osoba sprawująca opiekę nad tym uczniem”;
-5) w § 16:
-a) w ust. 2 wyrazy „15 uczniów” zastępuje się wyrazami „25 uczniów”,
-b) w ust. 9 wyrazy „3 godziny tygodniowo” zastępuje się wyrazami „6 godzin tygodniowo”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 23 sierpnia 2017 r. w sprawie kształcenia osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw (Dz. U. z 2020 r. poz. 1283) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 3 w lit. b wyrazy „rodzica ucznia” zastępuje się wyrazami „rodzica ucznia lub inną osobę sprawującą opiekę nad uczniem”;
+- **2)** w § 11 wyrazy „rodzica ucznia” zastępuje się wyrazami „rodzica ucznia lub innej osoby sprawującej opiekę nad uczniem”;
+- **3)** w § 13:
+    - **a)** w ust. 1 wyraz „rodzica” zastępuje się wyrazami „rodzica ucznia lub innej osoby sprawującej opiekę nad uczniem”,
+    - **b)** w ust. 2 wyrazy „rodzic ucznia” zastępuje się wyrazami „rodzic ucznia lub inna osoba sprawująca opiekę nad uczniem”,
+    - **c)** w ust. 3 wyrazy „rodzica ucznia” zastępuje się wyrazami „rodzica ucznia lub inną osobę sprawującą opiekę nad uczniem”;
+
+- **4)** w § 15 w ust. 1 po wyrazach „Rodzic ucznia przybywającego z zagranicy” dodaje się wyrazy „lub inna osoba sprawująca opiekę nad tym uczniem”;
+- **5)** w § 16:
+    - **a)** w ust. 2 wyrazy „15 uczniów” zastępuje się wyrazami „25 uczniów”,
+    - **b)** w ust. 9 wyrazy „3 godziny tygodniowo” zastępuje się wyrazami „6 godzin tygodniowo”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji i Nauki: P. Czarnek
 

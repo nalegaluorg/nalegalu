@@ -26,30 +26,43 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000995) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/995/text.pdf) |
 
 w sprawie ustalenia wzorów deklaracji składanych Zarządowi Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przez pracodawców zobowiązanych do wpłat na ten Fundusz Na podstawie art. 49 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173, 240 i 852) zarządza się, co następuje:
-§ 1. 1. Określa się wzory miesięcznych deklaracji składanych przez pracodawców zobowiązanych do wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych:
-1) wzór deklaracji miesięcznych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-1-0, dotyczącej wpłat należnych na podstawie art. 21 ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, zwanej dalej „ustawą”, stanowiący załącznik nr 1 do rozporządzenia;
-2) wzór deklaracji miesięcznych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-1-a, dotyczącej wpłat należnych na podstawie art. 21 ust. 2a i 2g ustawy, stanowiący załącznik nr 2 do rozporządzenia;
-3) wzór deklaracji miesięcznych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-1-b, dotyczącej wpłat należnych na podstawie art. 21 ust. 2b i 2g ustawy, stanowiący załącznik nr 3 do rozporządzenia.
+
+**§ 1.**
+
+1. Określa się wzory miesięcznych deklaracji składanych przez pracodawców zobowiązanych do wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych:
+
+- **1)** wzór deklaracji miesięcznych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-1-0, dotyczącej wpłat należnych na podstawie art. 21 ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, zwanej dalej „ustawą”, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** wzór deklaracji miesięcznych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-1-a, dotyczącej wpłat należnych na podstawie art. 21 ust. 2a i 2g ustawy, stanowiący załącznik nr 2 do rozporządzenia;
+- **3)** wzór deklaracji miesięcznych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-1-b, dotyczącej wpłat należnych na podstawie art. 21 ust. 2b i 2g ustawy, stanowiący załącznik nr 3 do rozporządzenia.
+
 2. Określa się wzór deklaracji wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych – korzystanie z obniżenia wpłat, o symbolu DEK-1-u, dotyczącej korzystania z obniżenia wpłat przez pracodawców, o których mowa w art. 21 ust. 1, 2a, 2b i 2g ustawy, stanowiący załącznik nr 4 do rozporządzenia.
-3. Określa się wzór deklaracji wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-2-a, dotyczącej wpłat należnych na podstawie art. 31 ust. 3 pkt 1 lit. a lub art. 33 ust. 4a, 4a , 4c, 7 i 7a, lub art. 33b ust. 8 ustawy, lub art. 38 ust. 2 pkt 1 lit. a tiret pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U.
-z 2022 r. poz. 2647, z późn. zm. ), zwanej dalej „ustawą o podatku dochodowym od osób fizycznych”, stanowiący załącznik nr 5 do rozporządzenia.
+
+3. Określa się wzór deklaracji wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-2-a, dotyczącej wpłat należnych na podstawie art. 31 ust. 3 pkt 1 lit. a lub art. 33 ust. 4a, 4a , 4c, 7 i 7a, lub art. 33b ust. 8 ustawy, lub art. 38 ust. 2 pkt 1 lit. a tiret pierwsze ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ), zwanej dalej „ustawą o podatku dochodowym od osób fizycznych”, stanowiący załącznik nr 5 do rozporządzenia.
+
 4. Określa się wzór deklaracji wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-2-b, dotyczącej wpłat należnych na podstawie art. 29 ust. 3a , 3b, 3c lub 3g lub art. 33b ust. 8 ustawy, stanowiący załącznik nr 6 do rozporządzenia.
-5. Określa się wzór deklaracji wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-2-u, dotyczącej wpłat należnych na podstawie art. 22b ustawy, stanowiący załącznik nr 7 do rozporządzenia.
-Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
-Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658 i 825.
+
+5. Określa się wzór deklaracji wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-2-u, dotyczącej wpłat należnych na podstawie art. 22b ustawy, stanowiący załącznik nr 7 do rozporządzenia. Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416). Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 i 2745 oraz z 2023 r. poz. 28, 185, 326, 605, 641, 658 i 825.
+
 6. Określa się wzór deklaracji wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, o symbolu DEK-W, dotyczącej wpłat należnych na podstawie art. 23 ustawy, stanowiący załącznik nr 8 do rozporządzenia.
+
 7. Określa się wzór deklaracji rocznej wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych – rozliczenie wpłat, o symbolu DEK-R, dotyczącej rozliczenia wpłat należnych na podstawie art. 21 ust. 1, 2a, 2b i 2g, art. 22b, art. 23, art. 29 ust. 3a , 3b, 3c i 3g, art. 31 ust. 3 pkt 1 lit. a, art. 33 ust. 4a, 4a , 4c, 7 i 7a lub art. 33b ust. 8 ustawy, lub art. 38 ust. 2 pkt 1 lit. a tiret pierwsze ustawy o podatku dochodowym od osób fizycznych, stanowiący załącznik nr 9 do rozporządzenia.
+
 8. Określa się wzór deklaracji wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych – deklaracji ewidencyjnej, o symbolu DEK-Z, dotyczącej danych ewidencyjnych pracodawców zobowiązanych do wpłat na podstawie art. 21 ust. 1, 2a, 2b i 2g, art. 22b, art. 23, art. 29 ust. 3a , 3b, 3c i 3g, art. 31 ust. 3 pkt 1 lit. a, art. 33 ust. 4a, 4a , 4c, 7 i 7a lub art. 33b ust. 8 ustawy, lub art. 38 ust. 2 pkt 1 lit. a tiret pierwsze ustawy o podatku dochodowym od osób fizycznych, stanowiący załącznik nr 10 do rozporządzenia.
-§ 2. 1. Deklaracje, o których mowa w § 1 ust. 1–6 i 8, za okresy sprawozdawcze począwszy od kwietnia 2022 r. oraz deklaracje roczne, o których mowa w § 1 ust. 7, za okresy sprawozdawcze począwszy od 2022 r. składa się według wzorów określonych w niniejszym rozporządzeniu.
+
+**§ 2.**
+
+1. Deklaracje, o których mowa w § 1 ust. 1–6 i 8, za okresy sprawozdawcze począwszy od kwietnia 2022 r. oraz deklaracje roczne, o których mowa w § 1 ust. 7, za okresy sprawozdawcze począwszy od 2022 r. składa się według wzorów określonych w niniejszym rozporządzeniu.
+
 2. Deklaracje, o których mowa w § 1 ust. 1–6 i 8, za okresy sprawozdawcze do marca 2022 r. włącznie oraz deklaracje roczne, o których mowa w § 1 ust. 7, za okresy sprawozdawcze do 2021 r. włącznie składa się według wzorów określonych w rozporządzeniu Ministra Rodziny i Polityki Społecznej z dnia 29 września 2021 r. w sprawie ustalenia wzorów deklaracji składanych Zarządowi Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przez pracodawców zobowiązanych do wpłat na ten Fundusz (Dz. U. poz. 1939).
+
 3. Zmian w deklaracjach, o których mowa w ust. 1 i 2, dokonuje się, składając deklaracje według wzorów określonych w niniejszym rozporządzeniu.
+
 4. Od dnia 10 marca 2023 r. do upływu czterech miesięcy od dnia wejścia w życie rozporządzenia:
-1) deklaracje, o których mowa w § 1 ust. 1–6 i 8, za okresy sprawozdawcze począwszy od kwietnia 2022 r. oraz deklaracje, o których mowa w § 1 ust. 7, za okresy począwszy od 2022 r. są składane według wzorów określonych w rozporządzeniu, o którym mowa w ust. 2;
-2) zmian w deklaracjach, o których mowa w pkt 1 i ust. 2, dokonuje się, składając deklaracje według wzorów określonych w rozporządzeniu, o którym mowa w ust. 2.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 10 marca 2023 r.
-Minister Rodziny i Polityki Społecznej: M. Maląg Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 29 września 2021 r.
-w sprawie ustalenia wzorów deklaracji składanych Zarządowi Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przez pracodawców zobowiązanych do wpłat na ten Fundusz (Dz. U. poz. 1939), które utraciło moc z dniem 10 marca 2023 r. na podstawie art. 6 ustawy z dnia 24 lutego 2022 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o podatku od wydobycia niektórych kopalin (Dz. U.
-poz. 558).
+
+- **1)** deklaracje, o których mowa w § 1 ust. 1–6 i 8, za okresy sprawozdawcze począwszy od kwietnia 2022 r. oraz deklaracje, o których mowa w § 1 ust. 7, za okresy począwszy od 2022 r. są składane według wzorów określonych w rozporządzeniu, o którym mowa w ust. 2;
+- **2)** zmian w deklaracjach, o których mowa w pkt 1 i ust. 2, dokonuje się, składając deklaracje według wzorów określonych w rozporządzeniu, o którym mowa w ust. 2.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 10 marca 2023 r. Minister Rodziny i Polityki Społecznej: M. Maląg Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny i Polityki Społecznej z dnia 29 września 2021 r. w sprawie ustalenia wzorów deklaracji składanych Zarządowi Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przez pracodawców zobowiązanych do wpłat na ten Fundusz (Dz. U. poz. 1939), które utraciło moc z dniem 10 marca 2023 r. na podstawie art. 6 ustawy z dnia 24 lutego 2022 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o podatku od wydobycia niektórych kopalin (Dz. U. poz. 558).
 
 ## Załącznik nr 1 — WZÓR WZÓR WZÓR Deklaracja miesięcznych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych DEK-1-0 To jest deklaracja ❑ zwykła / ❑ korygująca za okres wypełniona w dniu - - .
 

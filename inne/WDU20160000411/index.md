@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000411) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/411/text.pdf) |
 
 zmieniające rozporządzenie w sprawie udzielania informacji o osobach oraz o podmiotach zbiorowych na podstawie danych zgromadzonych w Krajowym Rejestrze Karnym Na podstawie art. 21 ustawy z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2015 r. poz. 1036 i 1629) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 lipca 2015 r. w sprawie udzielania informacji o osobach oraz o podmiotach zbiorowych na podstawie danych zgromadzonych w Krajowym Rejestrze Karnym (Dz. U. poz. 1025) w § 2 ust. 3 otrzymuje brzmienie: „3. Zapytanie prokuratora o udzielenie informacji z Rejestru na potrzeby prowadzonego postępowania kieruje się do biura informacyjnego, do punktów informacyjnych Rejestru przy Prokuraturze Krajowej, prokuraturach regionalnych oraz prokuraturach okręgowych i ich ośrodkach zamiejscowych lub do stanowisk dostępowych punktów informacyjnych Rejestru, działających przy prokuraturach rejonowych.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 lipca 2015 r. w sprawie udzielania informacji o osobach oraz o podmiotach zbiorowych na podstawie danych zgromadzonych w Krajowym Rejestrze Karnym (Dz. U. poz. 1025) w § 2 ust. 3 otrzymuje brzmienie: „3. Zapytanie prokuratora o udzielenie informacji z Rejestru na potrzeby prowadzonego postępowania kieruje się do biura informacyjnego, do punktów informacyjnych Rejestru przy Prokuraturze Krajowej, prokuraturach regionalnych oraz prokuraturach okręgowych i ich ośrodkach zamiejscowych lub do stanowisk dostępowych punktów informacyjnych Rejestru, działających przy prokuraturach rejonowych.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

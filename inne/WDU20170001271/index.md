@@ -26,14 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001271) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1271/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczególnych zasad rachunkowości banków Na podstawie art. 81 ust. 2 pkt 8 lit. a ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61, 245, 791 i 1089) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 1 października 2010 r. w sprawie szczególnych zasad rachunkowości banków (Dz. U. z 2013 r. poz. 329) wprowadza się następujące zmiany:
-1) w § 2 pkt 10 otrzymuje brzmienie: „10) należności „zagrożone”, „stracone” – odpowiednio ekspozycje, o których mowa w przepisach wydanych na podstawie art. 81 ust. 2 pkt 8 lit. c ustawy;”;
-2) w § 22 pkt 5 otrzymuje brzmienie: „5) odsetki naliczone;”;
-3) w § 41:
-a) w ust. 2 w pkt 1 lit. a otrzymuje brzmienie: „a) należnych bankowi odsetek, w tym dyskonta oraz odsetek skapitalizowanych,”,
-b) w ust. 3 uchyla się pkt 1;
-4) w załączniku do rozporządzenia w poz. II pkt 29 otrzymuje brzmienie: „29. wykaz pozycji czynnych i biernych rozliczeń międzyokresowych kosztów oraz rozliczeń międzyokresowych przychodów;”.
-§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 1 października 2010 r. w sprawie szczególnych zasad rachunkowości banków (Dz. U. z 2013 r. poz. 329) wprowadza się następujące zmiany:
+
+- **1)** w § 2 pkt 10 otrzymuje brzmienie: „10) należności „zagrożone”, „stracone” – odpowiednio ekspozycje, o których mowa w przepisach wydanych na podstawie art. 81 ust. 2 pkt 8 lit. c ustawy;”;
+- **2)** w § 22 pkt 5 otrzymuje brzmienie: „5) odsetki naliczone;”;
+- **3)** w § 41:
+    - **a)** w ust. 2 w pkt 1 lit. a otrzymuje brzmienie: „a) należnych bankowi odsetek, w tym dyskonta oraz odsetek skapitalizowanych,”,
+    - **b)** w ust. 3 uchyla się pkt 1;
+
+- **4)** w załączniku do rozporządzenia w poz. II pkt 29 otrzymuje brzmienie: „29. wykaz pozycji czynnych i biernych rozliczeń międzyokresowych kosztów oraz rozliczeń międzyokresowych przychodów;”.
+
+**§ 2.** Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie po raz pierwszy do sprawozdań finansowych sporządzanych za rok obrotowy rozpoczynający się od dnia 1 stycznia 2017 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk
 

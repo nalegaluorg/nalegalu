@@ -27,8 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000086) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/86/text.pdf) |
 
 uchylające rozporządzenie w sprawie nadania osobowości prawnej Ewangelicko-Reformowanemu Duszpasterstwu Imigrantów z siedzibą w Warszawie Na podstawie art. 3 ust. 2 ustawy z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 483) zarządza się, co następuje:
-§ 1. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 1999 r. w sprawie nadania osobowości prawnej Ewangelicko-Reformowanemu Duszpasterstwu Imigrantów z siedzibą w Warszawie (Dz. U.
-poz. 603).
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański
+
+**§ 1.** Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 1999 r. w sprawie nadania osobowości prawnej Ewangelicko-Reformowanemu Duszpasterstwu Imigrantów z siedzibą w Warszawie (Dz. U. poz. 603).
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański
 

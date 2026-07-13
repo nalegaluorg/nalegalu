@@ -639,3 +639,7 @@ source: pdf
 
 **Art. 40.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 
+## Załącznik
+
+KATEGORIE KOSZTÓW I PRZYCHODÓW NETTO ZWIĄZANYCH Z FUNKCJONOWANIEM PORTOWYCH URZĄDZEŃ DO ODBIORU ODPADÓW ZE STATKÓW I ZARZĄDZANIEM NIMI
+

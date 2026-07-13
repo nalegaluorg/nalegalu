@@ -27,8 +27,8 @@ source: pdf
 
 w sprawie wzoru zaświadczenia stwierdzającego zwolnienie od akcyzy samochodu osobowego będącego pojazdem hybrydowym Na podstawie art. 163a ust. 4 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn. zm.
 zarządza się, co następuje:
-§ 1. Określa się wzór zaświadczenia stwierdzającego zwolnienie od akcyzy samochodu osobowego będącego pojazdem hybrydowym, o którym mowa w art. 163a ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński Załącznik do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 maja2021 r. (poz. …) WZÓR WZÓR Nazwa organu podatkowego Zaświadczenie stwierdzające zwolnienie od akcyzy samochodu osobowego będącego pojazdem hybrydowym Dane identyfikujące samochód Lp.
-Numer identyfikacyjny VIN Pojemność silnika albo numer nadwozia, Marka, model Rok produkcji (cm ) podwozia lub ramy 1 2 3 4 5 Numer systemowy zaświadczenia: ……………………………………
+
+**§ 1.** Określa się wzór zaświadczenia stwierdzającego zwolnienie od akcyzy samochodu osobowego będącego pojazdem hybrydowym, o którym mowa w art. 163a ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński Załącznik do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 maja2021 r. (poz. …) WZÓR WZÓR Nazwa organu podatkowego Zaświadczenie stwierdzające zwolnienie od akcyzy samochodu osobowego będącego pojazdem hybrydowym Dane identyfikujące samochód Lp. Numer identyfikacyjny VIN Pojemność silnika albo numer nadwozia, Marka, model Rok produkcji (cm ) podwozia lub ramy 1 2 3 4 5 Numer systemowy zaświadczenia: ……………………………………
 

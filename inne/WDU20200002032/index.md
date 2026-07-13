@@ -27,33 +27,30 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie legitymacji służbowej funkcjonariuszy Centralnego Biura Antykorupcyjnego Na podstawie art. 52 ust. 3 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r.
 poz. 1921 i 2020 oraz z 2020 r. poz. 1610) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 29 października 2013 r. w sprawie legitymacji służbowej funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 119) wprowadza się następujące zmiany:
-1) w § 2 w ust. 1 uchyla się pkt 4;
-2) w § 4 ust. 2 otrzymuje brzmienie: „2. Funkcjonariusz, okazując legitymację, czyni to w sposób przewidziany w § 2 ust. 1 pkt 2 rozporządzenia Rady Ministrów z dnia 31 stycznia 2020 r. w sprawie przeprowadzania i dokumentowania niektórych czynności przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 205), bez przekazywania legitymacji do rąk innej osoby.”;
-3) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia PrezesaRadyMinistrów z dnia (poz. ) WZÓR LEGITYMACJISŁUŻBOWEJ FUNKCJONARIUSZA CENTRALNEGO WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA BIURA ANTYKORUPCYJNEGO CENTRALNEGO BIURA ANTYKORUPCYJNEGO I. I. Okładka Okładka legitymacji legitymacji Opis: Opis: Okładka jest wykonana ze skóry w kolorze czarnym. Na okładce jest umieszczony znak Okładka Centralnego jest wykonana Biura ze skóry Antykorupcyjnego. w kolorze czarnym. Na okładce jest umieszczony znak Centralnego Biura Antykorupcyjnego.
-II. II.Częśćwewnętrznalegitymacji Część wewnętrzna legitymacji Opis: Część Opis: wewnętrzna legitymacji jest zalaminowana w folię zabezpieczającą.
-Częśćwewnętrznalegitymacji jest zalaminowana wfolięzabezpieczającą.
-A. Awers
-1. A. Tło Awers giloszowe z elementami mikrotekstu.
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 29 października 2013 r. w sprawie legitymacji służbowej funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 119) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 1 uchyla się pkt 4;
+- **2)** w § 4 ust. 2 otrzymuje brzmienie: „2. Funkcjonariusz, okazując legitymację, czyni to w sposób przewidziany w § 2 ust. 1 pkt 2 rozporządzenia Rady Ministrów z dnia 31 stycznia 2020 r. w sprawie przeprowadzania i dokumentowania niektórych czynności przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 205), bez przekazywania legitymacji do rąk innej osoby.”;
+- **3)** załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia PrezesaRadyMinistrów z dnia (poz. ) WZÓR LEGITYMACJISŁUŻBOWEJ FUNKCJONARIUSZA CENTRALNEGO WZÓR LEGITYMACJI SŁUŻBOWEJ FUNKCJONARIUSZA BIURA ANTYKORUPCYJNEGO CENTRALNEGO BIURA ANTYKORUPCYJNEGO I. I. Okładka Okładka legitymacji legitymacji Opis: Opis: Okładka jest wykonana ze skóry w kolorze czarnym. Na okładce jest umieszczony znak Okładka Centralnego jest wykonana Biura ze skóry Antykorupcyjnego. w kolorze czarnym. Na okładce jest umieszczony znak Centralnego Biura Antykorupcyjnego. II. II.Częśćwewnętrznalegitymacji Część wewnętrzna legitymacji Opis: Część Opis: wewnętrzna legitymacji jest zalaminowana w folię zabezpieczającą. Częśćwewnętrznalegitymacji jest zalaminowana wfolięzabezpieczającą. A. Awers 1. A. Tło Awers giloszowe z elementami mikrotekstu. 1. Tło giloszowe z elementami mikrotekstu. 2. 2. Elementy Elementygraficzne graficzne aktywne aktywnewświetleUV. w świetle UV. 3. 3. Znak Znak Centralnego Centralnego Biura Antykorupcyjnego. Biura Antykorupcyjnego. 4. 4. Miejsce Miejsce na fotografię na fotografię funkcjonariusza funkcjonariusza CBA, która będzie nanoszona CBA, która podczas będzie personalizacji. nanoszona podczas personalizacji. 5. Napisy drukowane różnym kolorem i krojem czcionki:
+
+- **1)** CENTRALNE BIURO ANTYKORUPCYJNE;
+- **2)** NR IDENTYFIKACYJNY;
+- **3)** IMIĘ;
+- **4)** NAZWISKO;
+- **5)** PODPIS SZEFA CBA;
+- **6)** DATA WAŻNOŚCI 31.12.2025;
+- **7)** INSTYTUCJE PAŃSTWOWE, ORGANY ADMINISTRACJI RZĄDOWEJ I SAMORZĄDU TERYTORIALNEGO ORAZ PRZEDSIĘBIORCY PROWADZĄCY DZIAŁALNOŚĆ W ZAKRESIE UŻYTECZNOŚCI PUBLICZNEJ, W ZAKRESIE SWOJEGO DZIAŁANIA, SĄ PRAWNIE OBOWIĄZANI DO NIEODPŁATNEGO UDZIELENIA POMOCY FUNKCJONARIUSZOWI CENTRALNEGO BIURA ANTYKORUPCYJNEGO, KÓRY MA RÓWNIEŻ PRAWO ZWRACANIA SIĘ O NIEZBĘDNĄ POMOC DO INNYCH PRZEDSIĘBIORCÓW, JEDNOSTEK ORGANIZACYJNYCH I ORGANIZACJI SPOŁECZNYCH, JAK RÓWNIEŻ DO KAŻDEJ OSOBY O UDZIELENIE POMOCY, W RAMACH OBOWIĄZUJĄCYCH PRZEPISÓW PRAWA;
+- **8)** W PRZYPADKU ZNALEZIENIA TEJ LEGITYMACJI NALEŻY NIEZWŁOCZNIE DOSTARCZYĆ JĄ DO NAJBLIŻSZEJ JEDNOSTKI POLICJI. NIEUPRAWNIONE POSŁUGIWANIE SIĘ LEGITYMACJĄ LUB UKRYWANIE ZNALEZIONEJ LEGITYMACJI PODLEGA ODPOWIEDZIALNOŚCI KARNEJ;
+- **9)** NR LEGITYMACJI;
+- **10)** sześciocyfrowy numer legitymacji poprzedzony napisem CBA. B. Rewers
+
 1. Tło giloszowe z elementami mikrotekstu.
-2. 2. Elementy Elementygraficzne graficzne aktywne aktywnewświetleUV. w świetle UV.
-3. 3. Znak Znak Centralnego Centralnego Biura Antykorupcyjnego. Biura Antykorupcyjnego.
-4. 4. Miejsce Miejsce na fotografię na fotografię funkcjonariusza funkcjonariusza CBA, która będzie nanoszona CBA, która podczas będzie personalizacji. nanoszona podczas personalizacji.
-5. Napisy drukowane różnym kolorem i krojem czcionki:
-1) CENTRALNE BIURO ANTYKORUPCYJNE;
-2) NR IDENTYFIKACYJNY;
-3) IMIĘ;
-4) NAZWISKO;
-5) PODPIS SZEFA CBA;
-6) DATA WAŻNOŚCI 31.12.2025;
-7) INSTYTUCJE PAŃSTWOWE, ORGANY ADMINISTRACJI RZĄDOWEJ I SAMORZĄDU TERYTORIALNEGO ORAZ PRZEDSIĘBIORCY PROWADZĄCY DZIAŁALNOŚĆ W ZAKRESIE UŻYTECZNOŚCI PUBLICZNEJ, W ZAKRESIE SWOJEGO DZIAŁANIA, SĄ PRAWNIE OBOWIĄZANI DO NIEODPŁATNEGO UDZIELENIA POMOCY FUNKCJONARIUSZOWI CENTRALNEGO BIURA ANTYKORUPCYJNEGO, KÓRY MA RÓWNIEŻ PRAWO ZWRACANIA SIĘ O NIEZBĘDNĄ POMOC DO INNYCH PRZEDSIĘBIORCÓW, JEDNOSTEK ORGANIZACYJNYCH I ORGANIZACJI SPOŁECZNYCH, JAK RÓWNIEŻ DO KAŻDEJ OSOBY O UDZIELENIE POMOCY, W RAMACH OBOWIĄZUJĄCYCH PRZEPISÓW PRAWA;
-8) W PRZYPADKU ZNALEZIENIA TEJ LEGITYMACJI NALEŻY NIEZWŁOCZNIE DOSTARCZYĆ JĄ DO NAJBLIŻSZEJ JEDNOSTKI POLICJI. NIEUPRAWNIONE POSŁUGIWANIE SIĘ LEGITYMACJĄ LUB UKRYWANIE ZNALEZIONEJ LEGITYMACJI PODLEGA ODPOWIEDZIALNOŚCI KARNEJ;
-9) NR LEGITYMACJI;
-10) sześciocyfrowy numer legitymacji poprzedzony napisem CBA.
-B. Rewers
-1. Tło giloszowe z elementami mikrotekstu.
+
 2. Czarny napis: CENTRALNE BIURO ANTYKORUPCYJNE.
+
 3. Znak Centralnego Biura Antykorupcyjnego.
+
 

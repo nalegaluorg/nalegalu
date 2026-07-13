@@ -27,12 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie Na podstawie art. 70 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067 i 2405 oraz z 2018 r.
 poz. 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 26 marca 2010 r. w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 279, z 2011 r.
-poz. 373, z 2014 r. poz. 1295 oraz z 2017 r. poz. 1878) wprowadza się następujące zmiany:
-1) w załączniku nr 1 do rozporządzenia w tabeli w lp. 3 wyszczególnienie otrzymuje brzmienie: „Policjant służby kryminalnej, śledczej, spraw wewnętrznych oraz wspomagającej działalność Policji w zakresie organizacyjnym, logistycznym i technicznym”;
-2) w załączniku nr 3 do rozporządzenia:
-a) tytuł tabeli nr 5 otrzymuje brzmienie: „Kalkulacja wysokości równoważnika pieniężnego w zamian za umundurowanie (wg normy nr 1 załącznika nr 10 do rozporządzenia ) dla mianowanych na stałe policjantów-mężczyzn służby kryminalnej, śledczej, spraw wewnętrznych oraz wspomagającej działalność Policji w zakresie organizacyjnym, logistycznym i technicznym”,
-b) tytuł tabeli nr 6 otrzymuje brzmienie: „Kalkulacja wysokości równoważnika pieniężnego w zamian za umundurowanie (wg normy nr 2 załącznika nr 10 do rozporządzenia ) dla mianowanych na stałe policjantów-kobiet służby kryminalnej, śledczej, spraw wewnętrznych oraz wspomagającej działalność Policji w zakresie organizacyjnym, logistycznym i technicznym”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 26 marca 2010 r. w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 279, z 2011 r. poz. 373, z 2014 r. poz. 1295 oraz z 2017 r. poz. 1878) wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 1 do rozporządzenia w tabeli w lp. 3 wyszczególnienie otrzymuje brzmienie: „Policjant służby kryminalnej, śledczej, spraw wewnętrznych oraz wspomagającej działalność Policji w zakresie organizacyjnym, logistycznym i technicznym”;
+- **2)** w załączniku nr 3 do rozporządzenia:
+    - **a)** tytuł tabeli nr 5 otrzymuje brzmienie: „Kalkulacja wysokości równoważnika pieniężnego w zamian za umundurowanie (wg normy nr 1 załącznika nr 10 do rozporządzenia ) dla mianowanych na stałe policjantów-mężczyzn służby kryminalnej, śledczej, spraw wewnętrznych oraz wspomagającej działalność Policji w zakresie organizacyjnym, logistycznym i technicznym”,
+    - **b)** tytuł tabeli nr 6 otrzymuje brzmienie: „Kalkulacja wysokości równoważnika pieniężnego w zamian za umundurowanie (wg normy nr 2 załącznika nr 10 do rozporządzenia ) dla mianowanych na stałe policjantów-kobiet służby kryminalnej, śledczej, spraw wewnętrznych oraz wspomagającej działalność Policji w zakresie organizacyjnym, logistycznym i technicznym”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: J. Brudziński
 

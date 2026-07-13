@@ -32,7 +32,10 @@ poz. 1336), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 marca 2017 r. zmieniającego rozporządzenie w sprawie nadania osobowości prawnej Stowarzyszeniu Bractwa Młodzieży Greckokatolickiej „Sareptaˮ (Dz. U. poz. 693), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.ˮ. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 18 lipca 2003 r.
 w sprawie nadania osobowości prawnej Bractwu Młodzieży Greckokatolickiej „Sareptaˮ Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2013 r. poz. 1169, z 2014 r. poz. 498, z 2016 r. poz. 1948 oraz z 2017 r. poz. 60) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Bractwo Młodzieży Greckokatolickiej „Sareptaˮ, erygowanej przez Arcybiskupa Metropolitę Przemysko-Warszawskiego Obrządku Greckokatolickiego.
-§ 1a. Siedzibą Bractwa Młodzieży Greckokatolickiej „Sareptaˮ jest Krynica-Zdrój.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Bractwo Młodzieży Greckokatolickiej „Sareptaˮ, erygowanej przez Arcybiskupa Metropolitę Przemysko-Warszawskiego Obrządku Greckokatolickiego.
+
+**§ 1a.** Siedzibą Bractwa Młodzieży Greckokatolickiej „Sareptaˮ jest Krynica-Zdrój.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

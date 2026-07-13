@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wprowadzenia stanu klęski żywiołowej na obszarze części województwa dolnośląskiego, opolskiego oraz śląskiego Na podstawie art. 232 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r.
 poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946) oraz art. 5 ust. 1 i 2 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 16 września 2024 r. w sprawie wprowadzenia stanu klęski żywiołowej na obszarze części województwa dolnośląskiego, opolskiego oraz śląskiego (Dz. U. poz. 1365) w § 1 w ust. 2:
-1) po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) w województwie dolnośląskim – powiaty dzierżoniowski, lubański i świdnicki;”;
-2) po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) w województwie opolskim – powiaty brzeski, kędzierzyńsko-kozielski, opolski oraz powiat krapkowicki w zakresie innym niż określony w pkt 2;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 16 września 2024 r. w sprawie wprowadzenia stanu klęski żywiołowej na obszarze części województwa dolnośląskiego, opolskiego oraz śląskiego (Dz. U. poz. 1365) w § 1 w ust. 2:
+
+- **1)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) w województwie dolnośląskim – powiaty dzierżoniowski, lubański i świdnicki;”;
+- **2)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) w województwie opolskim – powiaty brzeski, kędzierzyńsko-kozielski, opolski oraz powiat krapkowicki w zakresie innym niż określony w pkt 2;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

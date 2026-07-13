@@ -26,12 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001264) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1264/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków obniżania wartości korekt finansowych oraz wydatków poniesionych nieprawidłowo związanych z udzielaniem zamówień Na podstawie art. 24 ust. 13 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju z dnia 29 stycznia 2016 r. w sprawie warunków obniżania wartości korekt finansowych oraz wydatków poniesionych nieprawidłowo związanych z udzielaniem zamówień (Dz. U. z 2018 r. poz. 971) wprowadza się następujące zmiany:
-1) uchyla się § 7;
-2) uchyla się § 8;
-3) uchyla się § 11;
-4) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Do ustalenia wartości korekt finansowych dotyczących nieprawidłowości stwierdzonych w postępowaniach o udzielenie zamówienia, prowadzonych zgodnie z warunkami wynikającymi z ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843 oraz z 2020 r. poz. 1086) albo z umowy o dofinansowanie projektu, albo z decyzji o dofinansowaniu projektu, wszczętych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotych czasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Funduszy i Polityki Regionalnej: M. Jarosińska-Jedynak … W M W W W W W W W W W W W W W W W W W W W
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju z dnia 29 stycznia 2016 r. w sprawie warunków obniżania wartości korekt finansowych oraz wydatków poniesionych nieprawidłowo związanych z udzielaniem zamówień (Dz. U. z 2018 r. poz. 971) wprowadza się następujące zmiany:
+
+- **1)** uchyla się § 7;
+- **2)** uchyla się § 8;
+- **3)** uchyla się § 11;
+- **4)** załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Do ustalenia wartości korekt finansowych dotyczących nieprawidłowości stwierdzonych w postępowaniach o udzielenie zamówienia, prowadzonych zgodnie z warunkami wynikającymi z ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843 oraz z 2020 r. poz. 1086) albo z umowy o dofinansowanie projektu, albo z decyzji o dofinansowaniu projektu, wszczętych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotych czasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Funduszy i Polityki Regionalnej: M. Jarosińska-Jedynak … W M W W W W W W W W W W W W W W W W W W W
 

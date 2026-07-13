@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/32/text.pdf) |
 
 zmieniające rozporządzenie w sprawie akredytacji w zakresie obronności i bezpieczeństwa Na podstawie art. 16 ust. 2 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2018 r. poz. 114) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 10 lipca 2012 r. w sprawie akredytacji w zakresie obronności i bezpieczeństwa (Dz. U. poz. 846) w załączniku nr 1 w części I wyrazy „podpis i pieczęć kierownika organizacji macierzystej” zastępuje się wyrazami „podpis kierownika organizacji macierzystej”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: wz. T. Zdzikot
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 10 lipca 2012 r. w sprawie akredytacji w zakresie obronności i bezpieczeństwa (Dz. U. poz. 846) w załączniku nr 1 w części I wyrazy „podpis i pieczęć kierownika organizacji macierzystej” zastępuje się wyrazami „podpis kierownika organizacji macierzystej”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: wz. T. Zdzikot
 

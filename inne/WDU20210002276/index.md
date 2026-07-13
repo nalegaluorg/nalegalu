@@ -27,9 +27,10 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2276/text.pdf) |
 
-§ 1. Kalkulację kosztów cyklu życia budynku oblicza się jako sumę kosztów nabycia, z dnia 23 listopada 2021 r.
-użytkowania oraz utrzymania budynku, obliczoną według wzoru: w sprawie metody kalkulacji kosztów cyklu C życia = C budynków + C + C oraz sposobu przedstawiania informacji o tych kosztach gdzie: Na podstawie art. 245 ust. 7 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r.
-poz. 1129, 1598, 2054 i 2269) zarządza się, co następuje: C – koszty cyklu życia budynku w 30-letnim okresie życia budynku, zwanym dalej
+**§ 1.** Kalkulację kosztów cyklu życia budynku oblicza się jako sumę kosztów nabycia, z dnia 23 listopada 2021 r. użytkowania oraz utrzymania budynku, obliczoną według wzoru: w sprawie metody kalkulacji kosztów cyklu C życia = C budynków + C + C oraz sposobu przedstawiania informacji o tych kosztach gdzie: Na podstawie art. 245 ust. 7 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, 1598, 2054 i 2269) zarządza się, co następuje: C – koszty cyklu życia budynku w 30-letnim okresie życia budynku, zwanym dalej
+
+## Załącznik
+
 § 1. Kalkulację kosztów cyklu życia budynku oblicza się jako sumę kosztów nabycia, użytkowania oraz utrzymania budynku, „okresem obliczoną według obliczeniowym”, wzoru: C – koszty nabycia, C = C + C + C C – koszty użytkowania, gdzie: C – koszty utrzymania.
 C – koszty cyklu życia budynku w 30-letnim okresie życia budynku, zwanym dalej „okresem obliczeniowym”, C koszty § 2. Zamawiający nabycia, określa koszt nabycia na podstawie ceny oferty.
 C – koszty użytkowania,

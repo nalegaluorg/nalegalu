@@ -30,44 +30,69 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 3 stycznia 2020 r. zmieniającego rozporządzenie w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną (Dz. U. poz. 45), które stanowią: „ § 2. 1. Szkolenia z zakresu przeprowadzania badań lekarskich i wydawania orzeczeń lekarskich oraz szkolenia z zakresu przeprowadzania badań psychologicznych i wydawania orzeczeń psychologicznych, o których mowa odpowiednio w art. 15b ust. 3 i art. 15c ust. 3 ustawy z dnia 21 maja 1999 r. o broni i amunicji: 1) ukończone przed dniem 21 sierpnia 2019 r. – zachowują ważność; 2) rozpoczęte i niezakończone przed dniem 21 sierpnia 2019 r. – są prowadzone na podstawie przepisów rozporządzenia zmienianego w § 1. 2. Zaświadczenia o wpisie do rejestru lekarzy upoważnionych oraz zaświadczenia o wpisie do rejestru psychologów upoważnionych, o których mowa odpowiednio w art. 15b ust. 2 i art. 15c ust. 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji, wydane przed dniem 21 sierpnia 2019 r., zachowują ważność. § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: A. Niedzielski
 ROZPORZĄDZENIE mINIStrA ZDrOWIA z dnia 7 sierpnia 2019 r.
 w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną Na podstawie art. 15l ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2020 r. poz. 955) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) zakres i formę prowadzenia szkoleń pozwalających na uzyskanie dodatkowych kwalifikacji, o których mowa w art. 15b ust. 1 pkt 3 i art. 15c ust. 1 pkt 3 ustawy z dnia 21 maja 1999 r. o broni i amunicji, zwanej dalej „ustawą”;
-2) jednostki uprawnione do prowadzenia szkoleń, o których mowa w pkt 1;
-3) sposób oceny stanu narządu wzroku;
-4) wzory:
-a) orzeczenia lekarskiego, o którym mowa w art. 15f ust. 1 i art. 15h ust. 7 ustawy,
-b) karty badania lekarskiego, o której mowa w art. 15f ust. 3 ustawy,
-c) orzeczenia psychologicznego, o którym mowa w art. 15g ust. 1 i art. 15h ust. 7 ustawy,
-d) zaświadczenia o wpisie do rejestru lekarzy upoważnionych i zaświadczenia o wpisie do rejestru psychologów upoważnionych.
-§ 2. 1. Szkolenie pozwalające na uzyskanie dodatkowych kwalifikacji, o których mowa w art. 15b ust. 1 pkt 3 ustawy, obejmuje zajęcia teoretyczne i praktyczne, w wymiarze łącznym co najmniej 42 godzin, w zakresie:
-1) wybranych przepisów o broni i amunicji;
-2) wybranych informacji o broni;
-3) zasad orzecznictwa lekarskiego, ze szczególnym uwzględnieniem przepisów dotyczących orzekania o zakresie sprawności psychofizycznej do dysponowania bronią;
-4) metodyki badań układu nerwowego, stanu psychicznego, stanu narządu wzroku, stanu narządu słuchu i równowagi oraz sprawności układu ruchu;
-5) problematyki alkoholizmu i uzależnień od substancji psychoaktywnych;
-6) sposobu dokumentowania badań.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** zakres i formę prowadzenia szkoleń pozwalających na uzyskanie dodatkowych kwalifikacji, o których mowa w art. 15b ust. 1 pkt 3 i art. 15c ust. 1 pkt 3 ustawy z dnia 21 maja 1999 r. o broni i amunicji, zwanej dalej „ustawą”;
+- **2)** jednostki uprawnione do prowadzenia szkoleń, o których mowa w pkt 1;
+- **3)** sposób oceny stanu narządu wzroku;
+- **4)** wzory:
+    - **a)** orzeczenia lekarskiego, o którym mowa w art. 15f ust. 1 i art. 15h ust. 7 ustawy,
+    - **b)** karty badania lekarskiego, o której mowa w art. 15f ust. 3 ustawy,
+    - **c)** orzeczenia psychologicznego, o którym mowa w art. 15g ust. 1 i art. 15h ust. 7 ustawy,
+    - **d)** zaświadczenia o wpisie do rejestru lekarzy upoważnionych i zaświadczenia o wpisie do rejestru psychologów upoważnionych.
+
+**§ 2.**
+
+1. Szkolenie pozwalające na uzyskanie dodatkowych kwalifikacji, o których mowa w art. 15b ust. 1 pkt 3 ustawy, obejmuje zajęcia teoretyczne i praktyczne, w wymiarze łącznym co najmniej 42 godzin, w zakresie:
+
+- **1)** wybranych przepisów o broni i amunicji;
+- **2)** wybranych informacji o broni;
+- **3)** zasad orzecznictwa lekarskiego, ze szczególnym uwzględnieniem przepisów dotyczących orzekania o zakresie sprawności psychofizycznej do dysponowania bronią;
+- **4)** metodyki badań układu nerwowego, stanu psychicznego, stanu narządu wzroku, stanu narządu słuchu i równowagi oraz sprawności układu ruchu;
+- **5)** problematyki alkoholizmu i uzależnień od substancji psychoaktywnych;
+- **6)** sposobu dokumentowania badań.
+
 2. Szkolenie pozwalające na uzyskanie dodatkowych kwalifikacji, o których mowa w art. 15c ust. 1 pkt 3 ustawy, obejmuje zajęcia teoretyczne i praktyczne, w wymiarze łącznym co najmniej 60 godzin, w zakresie:
-1) wybranych przepisów o broni i amunicji;
-2) wybranych informacji o broni;
-3) zasad orzecznictwa psychologicznego w zakresie sprawności psychologicznej do dysponowania bronią;
-4) metodyki badań, właściwej do oceny poziomu rozwoju intelektualnego, osobowości i dojrzałości społecznej;
-5) problematyki alkoholizmu i uzależnień od substancji psychoaktywnych.
-§ 3. 1. Jednostkami uprawnionymi do prowadzenia szkolenia, o którym mowa w § 2 ust. 1, są:
-1) Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera w Łodzi;
-2) Instytut Medycyny Wsi im. Witolda Chodźki w Lublinie;
-3) Wojskowy Instytut Medycyny Lotniczej w Warszawie.
+
+- **1)** wybranych przepisów o broni i amunicji;
+- **2)** wybranych informacji o broni;
+- **3)** zasad orzecznictwa psychologicznego w zakresie sprawności psychologicznej do dysponowania bronią;
+- **4)** metodyki badań, właściwej do oceny poziomu rozwoju intelektualnego, osobowości i dojrzałości społecznej;
+- **5)** problematyki alkoholizmu i uzależnień od substancji psychoaktywnych.
+
+**§ 3.**
+
+1. Jednostkami uprawnionymi do prowadzenia szkolenia, o którym mowa w § 2 ust. 1, są:
+
+- **1)** Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera w Łodzi;
+- **2)** Instytut Medycyny Wsi im. Witolda Chodźki w Lublinie;
+- **3)** Wojskowy Instytut Medycyny Lotniczej w Warszawie.
+
 2. Jednostkami uprawnionymi do prowadzenia szkolenia, o którym mowa w § 2 ust. 2, są:
-1) Polskie Towarzystwo Psychologiczne;
-2) Stowarzyszenie Psychologów Sądowych w Polsce.
-§ 4. Sposób oceny stanu narządu wzroku jest określony w załączniku nr 1 do rozporządzenia.
-§ 5. Wzór karty badania lekarskiego, o której mowa w art. 15f ust. 3 ustawy, jest określony w załączniku nr 2 do rozporządzenia.
-§ 6. Wzór orzeczenia lekarskiego, o którym mowa w art. 15f ust. 1 i art. 15h ust. 7 ustawy, jest określony w załączniku nr 3 do rozporządzenia.
-§ 7. Wzór orzeczenia psychologicznego, o którym mowa w art. 15g ust. 1 i art. 15h ust. 7 ustawy, jest określony w załączniku nr 4 do rozporządzenia.
-§ 8. Wzór zaświadczenia o wpisie do rejestru lekarzy upoważnionych jest określony w załączniku nr 5 do rozporządzenia.
-§ 9. Wzór zaświadczenia o wpisie do rejestru psychologów upoważnionych jest określony w załączniku nr 6 do rozporządzenia.
-§ 10. 1. Karty badania lekarskiego sporządzone przed dniem wejścia w życie niniejszego rozporządzenia i zgodne z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 17 grudnia 2015 r. w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną (Dz. U. poz. 2210) uznaje się za sporządzone zgodnie z wymaganiami niniejszego rozporządzenia i mogą stanowić podstawę wydania orzeczenia lekarskiego, o którym mowa w niniejszym rozporządzeniu.
+
+- **1)** Polskie Towarzystwo Psychologiczne;
+- **2)** Stowarzyszenie Psychologów Sądowych w Polsce.
+
+**§ 4.** Sposób oceny stanu narządu wzroku jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 5.** Wzór karty badania lekarskiego, o której mowa w art. 15f ust. 3 ustawy, jest określony w załączniku nr 2 do rozporządzenia.
+
+**§ 6.** Wzór orzeczenia lekarskiego, o którym mowa w art. 15f ust. 1 i art. 15h ust. 7 ustawy, jest określony w załączniku nr 3 do rozporządzenia.
+
+**§ 7.** Wzór orzeczenia psychologicznego, o którym mowa w art. 15g ust. 1 i art. 15h ust. 7 ustawy, jest określony w załączniku nr 4 do rozporządzenia.
+
+**§ 8.** Wzór zaświadczenia o wpisie do rejestru lekarzy upoważnionych jest określony w załączniku nr 5 do rozporządzenia.
+
+**§ 9.** Wzór zaświadczenia o wpisie do rejestru psychologów upoważnionych jest określony w załączniku nr 6 do rozporządzenia.
+
+**§ 10.**
+
+1. Karty badania lekarskiego sporządzone przed dniem wejścia w życie niniejszego rozporządzenia i zgodne z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 17 grudnia 2015 r. w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną (Dz. U. poz. 2210) uznaje się za sporządzone zgodnie z wymaganiami niniejszego rozporządzenia i mogą stanowić podstawę wydania orzeczenia lekarskiego, o którym mowa w niniejszym rozporządzeniu.
+
 2. Orzeczenia lekarskie i psychologiczne wydane przed dniem wejścia w życie niniejszego rozporządzenia i zgodne z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 17 grudnia 2015 r. w sprawie badań lekarskich i psychologicznych osób występujących o wydanie pozwolenia na broń lub zgłaszających do rejestru broń pneumatyczną oraz posiadających pozwolenie na broń lub zarejestrowaną broń pneumatyczną uznaje się za wydane zgodnie z wymaganiami niniejszego rozporządzenia i mogą być wykorzystywane.
-§ 11. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 11.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 
 ## Załączniki do rozporządzenia Ministra Zdrowia z dnia 7 sierpnia 2019 r.
 

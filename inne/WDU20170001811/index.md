@@ -27,13 +27,24 @@ source: pdf
 
 w sprawie sprawozdań rzeczowo-finansowych z wykonywania zadań z zakresu świadczeń rodzinnych Na podstawie art. 33 ust. 3 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r.
 poz. 1518, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa sposób sporządzania sprawozdań rzeczowo-finansowych z wykonywania zadań z zakresu świadczeń rodzinnych, zwanych dalej „sprawozdaniami”, oraz terminy i sposób przekazywania tych sprawozdań.
-§ 2. 1. Organ właściwy sporządza, z wykorzystaniem systemów teleinformatycznych, o których mowa w art. 23 ust. 6 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, zwanej dalej „ustawą”, kwartalne sprawozdanie rzeczowo-finansowe z wykonywania zadań z zakresu świadczeń rodzinnych i przekazuje to sprawozdanie właściwemu miejscowo wojewodzie drogą elektroniczną, za pomocą tych systemów, w terminie do 15. dnia miesiąca następującego po upływie każdego kwartału.
+
+**§ 1.** Rozporządzenie określa sposób sporządzania sprawozdań rzeczowo-finansowych z wykonywania zadań z zakresu świadczeń rodzinnych, zwanych dalej „sprawozdaniami”, oraz terminy i sposób przekazywania tych sprawozdań.
+
+**§ 2.**
+
+1. Organ właściwy sporządza, z wykorzystaniem systemów teleinformatycznych, o których mowa w art. 23 ust. 6 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, zwanej dalej „ustawą”, kwartalne sprawozdanie rzeczowo-finansowe z wykonywania zadań z zakresu świadczeń rodzinnych i przekazuje to sprawozdanie właściwemu miejscowo wojewodzie drogą elektroniczną, za pomocą tych systemów, w terminie do 15. dnia miesiąca następującego po upływie każdego kwartału.
+
 2. Wojewoda sporządza, z wykorzystaniem systemów teleinformatycznych, o których mowa w art. 23 ust. 6 ustawy, kwartalne sprawozdanie rzeczowo-finansowe zawierające dane z wykonywania przez tego wojewodę w danym kwartale zadań z zakresu świadczeń rodzinnych.
+
 3. Wojewoda, w terminie do 5. dnia drugiego miesiąca następującego po upływie każdego kwartału, przekazuje ministrowi właściwemu do spraw rodziny drogą elektroniczną, za pomocą systemów, o których mowa w art. 23 ust. 6 ustawy, kwartalne zbiorcze sprawozdanie rzeczowo-finansowe zawierające:
-1) dane i informacje ze sprawozdań, o których mowa w ust. 1;
-2) dane o wykonywaniu przez tego wojewodę w danym kwartale zadań z zakresu świadczeń rodzinnych.
-§ 3. Minister właściwy do spraw rodziny, w szczególnie uzasadnionych przypadkach, może wystąpić do organów właściwych o sporządzenie i przekazanie, za pośrednictwem wojewodów, lub do wojewodów o sporządzenie i przekazanie sprawozdań z wykonywania zadań z zakresu świadczeń rodzinnych, w innych terminach i za inne okresy, niż określone
+
+- **1)** dane i informacje ze sprawozdań, o których mowa w ust. 1;
+- **2)** dane o wykonywaniu przez tego wojewodę w danym kwartale zadań z zakresu świadczeń rodzinnych.
+
+**§ 3.** Minister właściwy do spraw rodziny, w szczególnie uzasadnionych przypadkach, może wystąpić do organów właściwych o sporządzenie i przekazanie, za pośrednictwem wojewodów, lub do wojewodów o sporządzenie i przekazanie sprawozdań z wykonywania zadań z zakresu świadczeń rodzinnych, w innych terminach i za inne okresy, niż określone
+
+## Załącznik
+
 § 2.
 § 4. 1. Do sprawozdań organu właściwego za III kwartał 2017 r. stosuje się przepisy niniejszego rozporządzenia.
 2. Sprawozdanie zawierające informacje o wykonywaniu zadań z zakresu koordynacji systemów zabezpieczenia społecznego dotyczących świadczeń rodzinnych za III kwartał 2017 r. sporządza, z wykorzystaniem systemów teleinformatycznych, o których mowa w art. 23 ust. 6 ustawy, marszałek województwa i przekazuje drogą elektroniczną, za pomocą tych systemów, właściwemu miejscowo wojewodzie w terminie do dnia 16 października 2017 r.

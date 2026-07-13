@@ -24,6 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2011-03-25 |
 | Data wydania | 2011-05-25 |
+| Wejście w życie | 2011-07-01 |
 | Ostatnia zmiana | 2024-10-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111060622) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/622/text.pdf) |
 
@@ -397,7 +398,10 @@ source: pdf
 **Art. 19.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 3 otrzymuje brzmienie: „3. Zadania samorządu województwa, o których mowa w art. 75aa–75ac, art. 97 ust. 3, art. 98 ust. 5, art. 110 ust. 1 pkt 10, art. 111 ust. 1, art. 112 ust. 1, art. 113 ust. 1, art. 114 ust. 3, art. 122 ust. 8 i 9, art. 124a ust. 3 i 10, art. 124b ust. 1–3 i 5, art. 140 ust. 4, art. 140g ust. 2, art. 140i oraz art. 140k, są zadaniami z zakresu administracji rządowej.”;
-- **2)** art. 75a otrzymuje brzmienie: „Art. 75a. 1. Produkcja tablic rejestracyjnych jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447 i Nr 239, poz. 1593 oraz z 2011 r. Nr 85, poz. 459) i wymaga wpisu do rejestru przedsiębiorców produkujących tablice rejestracyjne, zwanego dalej „rejestrem”.
+- **2)** art. 75a otrzymuje brzmienie:
+
+  > „Art. 75a.  
+  > 1. Produkcja tablic rejestracyjnych jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2010 r. Nr 220, poz. 1447 i Nr 239, poz. 1593 oraz z 2011 r. Nr 85, poz. 459) i wymaga wpisu do rejestru przedsiębiorców produkujących tablice rejestracyjne, zwanego dalej „rejestrem”.  
 
 2. Działalność, o której mowa w ust. 1, może wykonywać przedsiębiorca, który spełnia następujące warunki:
 
@@ -1052,7 +1056,12 @@ source: pdf
 - **1)** uchyla się art. 22;
 - **2)** w art. 63 w ust. 2 uchyla się pkt 2.
 
-**Art. 57.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z późn. zm. ) w art. 33a po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Wymóg przedstawienia przez podatnika dokumentów, o których mowa w ust. 2 pkt 1, uważa się za spełniony również w przypadku złożenia przez podatnika oświadczeń o tej samej treści. 2b. Oświadczenia, o których mowa w ust. 2a, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.”.
+**Art. 57.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. Nr 54, poz. 535, z późn. zm. ) w art. 33a po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
+
+> „2a. Wymóg przedstawienia przez podatnika dokumentów, o których mowa w ust. 2 pkt 1, uważa się za spełniony również w przypadku złożenia przez podatnika oświadczeń o tej samej treści.  
+> 2b. Oświadczenia, o których mowa w ust. 2a, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.  
+
+Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.”.
 
 **Art. 58.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2007 r. Nr 231, poz. 1702, z późn. zm. ) w art. 22 wprowadza się następujące zmiany:
 

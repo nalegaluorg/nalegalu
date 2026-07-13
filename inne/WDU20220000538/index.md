@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP Na podstawie art. 16 ust. 5 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2021 r.
 poz. 2234) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 25 lipca 2016 r. w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP (Dz. U. poz. 1101 i 1116) w § 4 wyrazy „od otrzymania informacji” zastępuje się wyrazami „od rozpoczęcia obowiązywania stopnia”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 25 lipca 2016 r. w sprawie zakresu przedsięwzięć wykonywanych w poszczególnych stopniach alarmowych i stopniach alarmowych CRP (Dz. U. poz. 1101 i 1116) w § 4 wyrazy „od otrzymania informacji” zastępuje się wyrazami „od rozpoczęcia obowiązywania stopnia”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -28,12 +28,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego Na podstawie art. 101 ust. 2, art. 102 i art. 104 ust. 6 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r.
 poz. 636 i 718) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 grudnia 2001 r. w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego (Dz. U. z 2015 r. poz. 1236, z późn. zm. ) wprowadza się następujące zmiany:
-1) po § 2b dodaje się § 2c w brzmieniu: „§ 2c. Przepisu § 2b nie stosuje się do policjanta w służbie kontraktowej.”;
-2) w załączniku nr 2 do rozporządzenia:
-a) w tabeli wiersze oznaczone lp. 109 i 110 otrzymują brzmienie:
-b) pod tabelą dodaje się odnośniki nr 2 i 3 w brzmieniu: „ Stopień etatowy dla policjanta w służbie kontraktowej.
-Jednostka organizacyjna Policji dla policjanta w służbie kontraktowej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. W. Szczepański
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 grudnia 2001 r. w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego (Dz. U. z 2015 r. poz. 1236, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** po § 2b dodaje się § 2c w brzmieniu: „§ 2c. Przepisu § 2b nie stosuje się do policjanta w służbie kontraktowej.”;
+- **2)** w załączniku nr 2 do rozporządzenia:
+    - **a)** w tabeli wiersze oznaczone lp. 109 i 110 otrzymują brzmienie:
+    - **b)** pod tabelą dodaje się odnośniki nr 2 i 3 w brzmieniu: „ Stopień etatowy dla policjanta w służbie kontraktowej. Jednostka organizacyjna Policji dla policjanta w służbie kontraktowej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. W. Szczepański
 

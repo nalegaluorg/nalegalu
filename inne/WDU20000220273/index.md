@@ -31,7 +31,11 @@ source: pdf
 
 - **1)** w art. 2 ust. 2 otrzymuje brzmienie: „2. Nadzór nad Polską Organizacją Turystyczną sprawuje minister właściwy do spraw turystyki, zwany dalej „właściwym ministrem”.”;
 - **2)** w art. 3 ust. 3 otrzymuje brzmienie: „3. W sprawach określonych w art. 27a ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz.U. z 1999 r. Nr 82, poz. 928) Polska Organizacja Turystyczna wspomaga właściwego ministra.”;
-- **3)** dodaje się art. 4a w brzmieniu: „Art. 4a. 1. Polskiej Organizacji Turystycznej przysługuje wyłączne prawo używania znaku ustalonego dla celów promocji Polski w dziedzinie turystyki. 2. Minister właściwy do spraw turystyki określi, w drodze rozporządzenia, wzór znaku, o którym mowa w ust. 1.”;
+- **3)** dodaje się art. 4a w brzmieniu:
+
+  > „Art. 4a.  
+  > 1. Polskiej Organizacji Turystycznej przysługuje wyłączne prawo używania znaku ustalonego dla celów promocji Polski w dziedzinie turystyki.  
+  > 2. Minister właściwy do spraw turystyki określi, w drodze rozporządzenia, wzór znaku, o którym mowa w ust. 1.”;  
 - **4)** w art. 13 w ust. 1 pkt 2 otrzymuje brzmienie: „2) inne składniki majątkowe niezbędne do podjęcia działalności Polskiej Organizacji Turystycznej, które właściwy minister przekaże jej w porozumieniu z ministrem właściwym do spraw Skarbu Pa ństwa,”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

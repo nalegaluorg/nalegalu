@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000319) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/319/text.pdf) |
 
 zmieniające rozporządzenie w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców Na podstawie art. 83 ust. 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i 2245) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców (Dz. U. poz. 1478) w § 1:
-1) pkt 2 otrzymuje brzmienie: „2) branżowe szkoły II stopnia i szkoły policealne;”;
-2) pkt 7 otrzymuje brzmienie: „7) placówki kształcenia ustawicznego i centra kształcenia zawodowego;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-Minister Edukacji Narodowej: wz. M. Machałek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. w sprawie rodzajów szkół i placówek, w których nie tworzy się rad rodziców (Dz. U. poz. 1478) w § 1:
+
+- **1)** pkt 2 otrzymuje brzmienie: „2) branżowe szkoły II stopnia i szkoły policealne;”;
+- **2)** pkt 7 otrzymuje brzmienie: „7) placówki kształcenia ustawicznego i centra kształcenia zawodowego;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. Minister Edukacji Narodowej: wz. M. Machałek
 

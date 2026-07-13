@@ -26,35 +26,66 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001710) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1710/text.pdf) |
 
 w sprawie szczegółowego zakresu, trybu i terminu przekazywania Bankowemu Funduszowi Gwarancyjnemu informacji niezbędnych do realizacji jego zadań oraz sposobu weryfikacji prawidłowości przekazywanych informacji Na podstawie art. 330 ust. 6 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997 oraz z 2017 r. poz. 791 i 1089) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) szczegółowy zakres, tryb i termin przekazywania Bankowemu Funduszowi Gwarancyjnemu, zwanemu dalej „BFG”, przez podmioty informacji niezbędnych do realizacji jego zadań, w szczególności informacji niezbędnych do wykonania oszacowania, o którym mowa w art. 137 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, zwanej dalej „ustawą”, oraz przygotowania przymusowej restrukturyzacji w przypadku zobowiązania takiego podmiotu do wdrożenia planu naprawy, przygotowania programu postępowania naprawczego, podjęcia wobec niego działań wczesnej interwencji lub ustanowienia w nim zarządu komisarycznego lub zarządcy komisarycznego;
-2) sposób weryfikacji prawidłowości przekazywanych informacji, o których mowa w pkt 1.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) informacji sprawozdawczej banków – należy przez to rozumieć sprawozdawczość ostrożnościową przekazywaną do Narodowego Banku Polskiego zgodnie z przepisami wydanymi na podstawie art. 23 ust. 4 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2017 r. poz. 1373) oraz zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającym rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), zwanym dalej „CRR”;
-2) informacji sprawozdawczej kas – należy przez to rozumieć informacje sprawozdawcze spółdzielczych kas oszczędnościowo-kredytowych, zwanych dalej „kasami”, oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, określone w przepisach wydanych na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 1910, z późn. zm. );
-3) kanale teletransmisji – należy przez to rozumieć system teleinformatyczny zapewniający połączenie za pośrednictwem sieci Internet w celu przesyłania danych między nadawcą a odbiorcą;
-4) planie naprawy – należy przez to rozumieć plan naprawy, o którym mowa w art. 141m ust. 1 lub 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm. ) lub w art. 110zj ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636, z późn. zm. ), lub grupowy plan naprawy, o którym mowa w art. 141n ust. 1 lub art. 141o ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe lub w art. 110zl ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
-5) podmiocie – należy przez to rozumieć podmiot w rozumieniu art. 64 pkt 2 ustawy, oddział banku zagranicznego lub krajowy podmiot dominujący, wobec którego podmiot jest podmiotem zależnym;
-6) programie postępowania naprawczego – należy przez to rozumieć program postępowania naprawczego, o którym mowa w art. 72a ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych;
-7) zarządcy komisarycznym – należy przez to rozumieć zarządcę komisarycznego ustanowionego w kasie na podstawie art. 73 ust. 1 lub art. 73a ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych;
-8) zarządzie komisarycznym – należy przez to rozumieć zarząd komisaryczny ustanowiony na podstawie art. 145 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe lub art. 110zza ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
-§ 3. Podmiot przekazuje BFG informacje w zakresie określonym w załączniku nr 1 do rozporządzenia, zwane dalej „informacjami” – odrębnie dla podmiotów innych niż firmy inwestycyjne sporządzających sprawozdania finansowe zgodnie z międzynarodowymi standardami rachunkowości lub międzynarodowymi standardami sprawozdawczości finansowej, podmiotów innych niż firmy inwestycyjne sporządzających sprawozdania finansowe zgodnie z polskimi standardami rachunkowości oraz firm inwestycyjnych.
-§ 4. 1. BFG może wystąpić do podmiotu w formie pisemnej z żądaniem przekazania informacji, wyznaczając termin ich przekazania, nie dłuższy niż 7 dni roboczych od dnia otrzymania wezwania.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** szczegółowy zakres, tryb i termin przekazywania Bankowemu Funduszowi Gwarancyjnemu, zwanemu dalej „BFG”, przez podmioty informacji niezbędnych do realizacji jego zadań, w szczególności informacji niezbędnych do wykonania oszacowania, o którym mowa w art. 137 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, zwanej dalej „ustawą”, oraz przygotowania przymusowej restrukturyzacji w przypadku zobowiązania takiego podmiotu do wdrożenia planu naprawy, przygotowania programu postępowania naprawczego, podjęcia wobec niego działań wczesnej interwencji lub ustanowienia w nim zarządu komisarycznego lub zarządcy komisarycznego;
+- **2)** sposób weryfikacji prawidłowości przekazywanych informacji, o których mowa w pkt 1.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** informacji sprawozdawczej banków – należy przez to rozumieć sprawozdawczość ostrożnościową przekazywaną do Narodowego Banku Polskiego zgodnie z przepisami wydanymi na podstawie art. 23 ust. 4 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2017 r. poz. 1373) oraz zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającym rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), zwanym dalej „CRR”;
+- **2)** informacji sprawozdawczej kas – należy przez to rozumieć informacje sprawozdawcze spółdzielczych kas oszczędnościowo-kredytowych, zwanych dalej „kasami”, oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, określone w przepisach wydanych na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2016 r. poz. 1910, z późn. zm. );
+- **3)** kanale teletransmisji – należy przez to rozumieć system teleinformatyczny zapewniający połączenie za pośrednictwem sieci Internet w celu przesyłania danych między nadawcą a odbiorcą;
+- **4)** planie naprawy – należy przez to rozumieć plan naprawy, o którym mowa w art. 141m ust. 1 lub 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2016 r. poz. 1988, z późn. zm. ) lub w art. 110zj ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636, z późn. zm. ), lub grupowy plan naprawy, o którym mowa w art. 141n ust. 1 lub art. 141o ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe lub w art. 110zl ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
+- **5)** podmiocie – należy przez to rozumieć podmiot w rozumieniu art. 64 pkt 2 ustawy, oddział banku zagranicznego lub krajowy podmiot dominujący, wobec którego podmiot jest podmiotem zależnym;
+- **6)** programie postępowania naprawczego – należy przez to rozumieć program postępowania naprawczego, o którym mowa w art. 72a ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych;
+- **7)** zarządcy komisarycznym – należy przez to rozumieć zarządcę komisarycznego ustanowionego w kasie na podstawie art. 73 ust. 1 lub art. 73a ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych;
+- **8)** zarządzie komisarycznym – należy przez to rozumieć zarząd komisaryczny ustanowiony na podstawie art. 145 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe lub art. 110zza ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+**§ 3.** Podmiot przekazuje BFG informacje w zakresie określonym w załączniku nr 1 do rozporządzenia, zwane dalej „informacjami” – odrębnie dla podmiotów innych niż firmy inwestycyjne sporządzających sprawozdania finansowe zgodnie z międzynarodowymi standardami rachunkowości lub międzynarodowymi standardami sprawozdawczości finansowej, podmiotów innych niż firmy inwestycyjne sporządzających sprawozdania finansowe zgodnie z polskimi standardami rachunkowości oraz firm inwestycyjnych.
+
+**§ 4.**
+
+1. BFG może wystąpić do podmiotu w formie pisemnej z żądaniem przekazania informacji, wyznaczając termin ich przekazania, nie dłuższy niż 7 dni roboczych od dnia otrzymania wezwania.
+
 2. Podmiot przekazuje BFG informacje według stanu na dzień określony w wezwaniu BFG.
-§ 5. BFG udostępnia podmiotowi kanał teletransmisji w celu przekazywania BFG informacji w formie dokumentu elektronicznego.
-§ 6. 1. Informacje są przekazywane BFG w formie dokumentu elektronicznego w formacie XML dla danych tabelarycznych lub w innym formacie określonym w załączniku nr 1 do rozporządzenia.
+
+**§ 5.** BFG udostępnia podmiotowi kanał teletransmisji w celu przekazywania BFG informacji w formie dokumentu elektronicznego.
+
+**§ 6.**
+
+1. Informacje są przekazywane BFG w formie dokumentu elektronicznego w formacie XML dla danych tabelarycznych lub w innym formacie określonym w załączniku nr 1 do rozporządzenia.
+
 2. Informacje opatruje się kwalifikowanym podpisem elektronicznym złożonym przez osoby upoważnione do składania oświadczeń woli w zakresie praw i obowiązków majątkowych podmiotu.
-§ 7. 1. Informacje są przekazywane BFG kanałem teletransmisji. Szczegółowe informacje dotyczące ich przekazywania, w tym sposób nadawania uprawnień użytkownika kanału teletransmisji, BFG udostępnia w wersji elektronicznej na swojej stronie internetowej.
+
+**§ 7.**
+
+1. Informacje są przekazywane BFG kanałem teletransmisji. Szczegółowe informacje dotyczące ich przekazywania, w tym sposób nadawania uprawnień użytkownika kanału teletransmisji, BFG udostępnia w wersji elektronicznej na swojej stronie internetowej.
+
 2. W przypadku awarii kanału teletransmisji informacje mogą być przekazywane na informatycznym nośniku danych jednokrotnego zapisu.
-§ 8. 1. Podmiot przekazujący BFG informacje kanałem teletransmisji wyznacza osoby upoważnione do nadawania uprawnień użytkownika kanału teletransmisji osobom bezpośrednio odpowiedzialnym za przekazywanie informacji BFG przez złożenie, w postaci papierowej, zgłoszenia, którego wzór określa załącznik nr 2 do rozporządzenia, chyba że osoby te zostały wyznaczone na podstawie odrębnych przepisów.
+
+**§ 8.**
+
+1. Podmiot przekazujący BFG informacje kanałem teletransmisji wyznacza osoby upoważnione do nadawania uprawnień użytkownika kanału teletransmisji osobom bezpośrednio odpowiedzialnym za przekazywanie informacji BFG przez złożenie, w postaci papierowej, zgłoszenia, którego wzór określa załącznik nr 2 do rozporządzenia, chyba że osoby te zostały wyznaczone na podstawie odrębnych przepisów.
+
 2. Zmiana osób upoważnionych do nadawania uprawnień użytkownika kanału teletransmisji lub aktualizacja ich danych, wskazanych w zgłoszeniu, o którym mowa w ust. 1, wymaga złożenia nowego zgłoszenia.
-§ 9. Sposób ustalania identyfikatorów wyróżniających podmioty, wymogi techniczne dla plików XML oraz uwarunkowania organizacyjno-techniczne przy przesyłaniu informacji BFG określa załącznik nr 3 do rozporządzenia.
-§ 10. 1. BFG dokonuje weryfikacji przekazanych informacji pod względem spójności wewnętrznej pomiędzy poszczególnymi tabelami, jak również zgodności z informacją sprawozdawczą banków, informacją sprawozdawczą kas lub obowiązkową informacją sprawozdawczą podmiotów innych niż banki oraz kasy.
+
+**§ 9.** Sposób ustalania identyfikatorów wyróżniających podmioty, wymogi techniczne dla plików XML oraz uwarunkowania organizacyjno-techniczne przy przesyłaniu informacji BFG określa załącznik nr 3 do rozporządzenia.
+
+**§ 10.**
+
+1. BFG dokonuje weryfikacji przekazanych informacji pod względem spójności wewnętrznej pomiędzy poszczególnymi tabelami, jak również zgodności z informacją sprawozdawczą banków, informacją sprawozdawczą kas lub obowiązkową informacją sprawozdawczą podmiotów innych niż banki oraz kasy.
+
 2. W przypadku wystąpienia braku spójności lub niezgodności podczas weryfikacji, w zakresie, o którym mowa w ust. 1, BFG niezwłocznie wzywa podmiot do ich usunięcia w terminie 5 dni roboczych od dnia otrzymania wezwania.
-§ 11. 1. Podmiot przekazuje informacje po raz pierwszy na wezwanie BFG po upływie trzeciego miesiąca od dnia wejścia w życie rozporządzenia.
+
+**§ 11.**
+
+1. Podmiot przekazuje informacje po raz pierwszy na wezwanie BFG po upływie trzeciego miesiąca od dnia wejścia w życie rozporządzenia.
+
 2. Przed upływem okresu, o którym mowa w ust. 1, w uzasadnionych przypadkach BFG może zwrócić się do podmiotu z wnioskiem o przekazanie wybranych informacji.
-§ 12. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Finansów: M. Morawiecki Załączniki do rozporządzenia Ministra Rozwoju i Finansów z dnia … 2017 r. (poz. …) Załącznik nr 1 SZCZEGÓŁOWY SZCZEGÓŁOWY ZAKRES ZAKRES INFORMACJI INFORMACJI NIEZBĘDNYCH NIEZBĘDNYCH DO DO REALIZACJI REALIZACJI ZADAŃ ZADAŃ BANKOWEGO BANKOWEGO FUNDUSZU FUNDUSZU GWARANCYJNEGO GWARANCYJNEGO Tabele załącznika nr 1 są wypełniane przez następujące podmioty: tabele od 1 do 16 – przez podmioty inne niż firmy inwestycyjne sporządzające sprawozdania finansowe zgodnie z międzynarodowymi standardami rachunkowości lub międzynarodowymi standardami sprawozdawczości finansowej, tabele od 17 do 32 – przez podmioty inne niż firmy inwestycyjne sporządzające sprawozdania finansowe zgodnie z polskimi standardami rachunkowości, tabele od 33 do 35 – przez firmy inwestycyjne.
+
+**§ 12.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Finansów: M. Morawiecki Załączniki do rozporządzenia Ministra Rozwoju i Finansów z dnia … 2017 r. (poz. …) Załącznik nr 1 SZCZEGÓŁOWY SZCZEGÓŁOWY ZAKRES ZAKRES INFORMACJI INFORMACJI NIEZBĘDNYCH NIEZBĘDNYCH DO DO REALIZACJI REALIZACJI ZADAŃ ZADAŃ BANKOWEGO BANKOWEGO FUNDUSZU FUNDUSZU GWARANCYJNEGO GWARANCYJNEGO Tabele załącznika nr 1 są wypełniane przez następujące podmioty: tabele od 1 do 16 – przez podmioty inne niż firmy inwestycyjne sporządzające sprawozdania finansowe zgodnie z międzynarodowymi standardami rachunkowości lub międzynarodowymi standardami sprawozdawczości finansowej, tabele od 17 do 32 – przez podmioty inne niż firmy inwestycyjne sporządzające sprawozdania finansowe zgodnie z polskimi standardami rachunkowości, tabele od 33 do 35 – przez firmy inwestycyjne.
 
 ## Załącznik nr 2 — WZÓR .....................................................................................
 

@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001802) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1802/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka Na podstawie art. 12 ust. 4 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2019 r. poz. 1598) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 5 października 2017 r. w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1900) wprowadza się następujące zmiany:
-1) w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wyznacza się wojewodę podlaskiego oraz wojewodę lubelskiego jako organy właściwe w zakresie:”;
-2) w § 2 po wyrazach „wojewody podlaskiego” dodaje się wyrazy „oraz wojewody lubelskiego”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 5 października 2017 r. w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1900) wprowadza się następujące zmiany:
+
+- **1)** w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wyznacza się wojewodę podlaskiego oraz wojewodę lubelskiego jako organy właściwe w zakresie:”;
+- **2)** w § 2 po wyrazach „wojewody podlaskiego” dodaje się wyrazy „oraz wojewody lubelskiego”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

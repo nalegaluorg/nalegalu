@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie legitymacji służbowej nauczyciela akademickiego Na podstawie art. 122 ust. 3 ustawy z dnia 20 lipca 2018 r. − Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r.
 poz. 85, 374, 695, 875 i 1086) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 13 marca 2020 r. w sprawie legitymacji służbowej nauczyciela akademickiego (Dz. U. poz. 689) w załączniku nr 1 w ust. 4 pkt 3 otrzymuje brzmienie: „3) imię do 24 znaków oraz nazwisko do 28 znaków wykonane krojem Arial Narrow o wielkości 8 pkt, notacja: „Pierwsze Litery Wielkie”, w kolorze czarnym;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 13 marca 2020 r. w sprawie legitymacji służbowej nauczyciela akademickiego (Dz. U. poz. 689) w załączniku nr 1 w ust. 4 pkt 3 otrzymuje brzmienie: „3) imię do 24 znaków oraz nazwisko do 28 znaków wykonane krojem Arial Narrow o wielkości 8 pkt, notacja: „Pierwsze Litery Wielkie”, w kolorze czarnym;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji i Nauki: P. Czarnek
 

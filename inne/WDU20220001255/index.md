@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001255) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1255/text.pdf) |
 
 zmieniające rozporządzenie w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii Na podstawie art. 18a ust. 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64, 655 i 974) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 29 marca 2017 r. w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii (Dz. U. z 2022 r. poz. 964) w § 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) wirusowemu zapaleniu wątroby typu A – nie mniej niż 1000 dawek.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r.
-Minister Zdrowia: wz. W. Kraska
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 29 marca 2017 r. w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii (Dz. U. z 2022 r. poz. 964) w § 2 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) wirusowemu zapaleniu wątroby typu A – nie mniej niż 1000 dawek.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r. Minister Zdrowia: wz. W. Kraska
 

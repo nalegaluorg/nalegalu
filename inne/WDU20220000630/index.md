@@ -30,64 +30,87 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2020 r. zmieniającego rozporządzenie w sprawie opłat związanych z oceną materiału siewnego (Dz. U. poz. 1853), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.”. Minister Rolnictwa i Rozwoju Wsi: H. Kowalczyk
 RozpoRządzenie MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 4 grudnia 2017 r.
 w sprawie opłat związanych z oceną materiału siewnego Na podstawie art. 118 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) sposób ustalania i wysokość opłat za:
-a) dokonanie oceny tożsamości oraz czystości odmianowej materiału siewnego,
-b) pobranie urzędowych prób, dokonanie oceny polowej i oceny laboratoryjnej materiału siewnego oraz pobranie prób gleby i podłoża, w których jest wytwarzany materiał szkółkarski kategorii elitarny i kategorii kwalifikowany przez organy Państwowej Inspekcji Ochrony Roślin i Nasiennictwa,
-c) dokonanie ponownej oceny polowej i ponownej oceny laboratoryjnej materiału siewnego,
-d) udzielenie akredytacji do pobierania prób materiału siewnego,
-e) udzielenie akredytacji do dokonywania oceny materiału siewnego,
-f) udzielenie upoważnienia do wypełniania etykiet urzędowych,
-g) udzielenie zgody na pobieranie prób za pomocą urządzenia do automatycznego pobierania prób materiału siewnego,
-h) przeprowadzenie egzaminu, o którym mowa w art. 75 ust. 1 pkt 3 ustawy z dnia 9 listopada 2012 r. o nasiennictwie,
-i) wydanie świadectwa mieszanki materiału siewnego,
-j) wydanie etykiet i plomb urzędowych,
-k) wykonywanie czynności w ramach nadzoru nad akredytowanymi podmiotami, o których mowa w art. 81 ustawy z dnia 9 listopada 2012 r. o nasiennictwie;
-2) sposób uiszczania opłat, o których mowa w pkt 1.
-§ 2. Wysokość opłat, o których mowa w § 1 pkt 1, ustala się z uwzględnieniem:
-1) w przypadku dokonania oceny tożsamości oraz czystości odmianowej materiału siewnego:
-a) kosztów materiałów niezbędnych do założenia i prowadzenia poletek kontrolnych,
-b) metodyki oceny tożsamości oraz czystości odmianowej materiału siewnego dla poszczególnych grup roślin i gatunków;
-2) w przypadku pobrania urzędowych prób materiału siewnego oraz pobrania prób gleby i podłoża, w których jest wytwarzany materiał szkółkarski kategorii elitarny i kategorii kwalifikowany:
-a) metodyki pobierania prób materiału siewnego obowiązującej dla danego gatunku,
-b) kosztów sprzętu lub materiałów, niezbędnych do pobrania próby,
-c) kosztów dojazdu do miejsca pobrania próby;
-3) w przypadku dokonania oceny polowej materiału siewnego:
-a) wielkości powierzchni ocenianej plantacji, przyjmując jako podstawową jednostkę powierzchni 10 ha, a dla upraw pod osłonami 1 m ,
-b) metodyki oceny polowej obowiązującej dla ocenianego gatunku,
-c) kosztów dojazdu do plantacji nasiennej;
-4) w przypadku dokonania oceny laboratoryjnej materiału siewnego:
-a) zakresu badań dla ocenianego gatunku określonego w przepisach wydanych na podstawie art. 40 ustawy z dnia 9 listopada 2012 r. o nasiennictwie,
-b) metodyki oceny laboratoryjnej obowiązującej dla ocenianego gatunku,
-c) zużycia odczynników, materiałów i energii, niezbędnych do dokonania oceny;
-5) w przypadku udzielenia akredytacji do dokonywania oceny materiału siewnego, udzielenia akredytacji do pobierania prób materiału siewnego oraz upoważnienia do wypełniania etykiet urzędowych:
-a) zakresu akredytacji lub upoważnienia,
-b) kosztów administracyjno-biurowych;
-6) w przypadku udzielenia zgody na pobieranie prób za pomocą urządzenia do automatycznego pobierania prób materiału siewnego:
-a) dokonania wstępnych badań i kalibracji urządzenia,
-b) kosztów administracyjno-biurowych;
-7) w przypadku przeprowadzenia egzaminu, o którym mowa w art. 75 ust. 1 pkt 3 ustawy z dnia 9 listopada 2012 r. o nasiennictwie:
-a) kosztów przygotowania części praktycznej egzaminu,
-b) kosztów przygotowania części teoretycznej egzaminu;
-8) w przypadku wydania świadectwa mieszanki materiału siewnego – kosztów administracyjno-biurowych;
-9) w przypadku wydania etykiet i plomb urzędowych – kosztów administracyjno-biurowych;
-10) w przypadku wykonywania czynności w ramach nadzoru nad akredytowanymi podmiotami, o których mowa w art. 81 ustawy z dnia 9 listopada 2012 r. o nasiennictwie:
-a) rodzaju akredytacji,
-b) kosztów administracyjno-biurowych.
-§ 3. 1. Opłaty, o których mowa w § 1 pkt 1 lit. a, wnosi się na rachunek bieżący dochodów wskazany w rachunku wystawionym przez wojewódzkiego inspektora ochrony roślin i nasiennictwa.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób ustalania i wysokość opłat za:
+    - **a)** dokonanie oceny tożsamości oraz czystości odmianowej materiału siewnego,
+    - **b)** pobranie urzędowych prób, dokonanie oceny polowej i oceny laboratoryjnej materiału siewnego oraz pobranie prób gleby i podłoża, w których jest wytwarzany materiał szkółkarski kategorii elitarny i kategorii kwalifikowany przez organy Państwowej Inspekcji Ochrony Roślin i Nasiennictwa,
+    - **c)** dokonanie ponownej oceny polowej i ponownej oceny laboratoryjnej materiału siewnego,
+    - **d)** udzielenie akredytacji do pobierania prób materiału siewnego,
+    - **e)** udzielenie akredytacji do dokonywania oceny materiału siewnego,
+    - **f)** udzielenie upoważnienia do wypełniania etykiet urzędowych,
+    - **g)** udzielenie zgody na pobieranie prób za pomocą urządzenia do automatycznego pobierania prób materiału siewnego,
+    - **h)** przeprowadzenie egzaminu, o którym mowa w art. 75 ust. 1 pkt 3 ustawy z dnia 9 listopada 2012 r. o nasiennictwie,
+    - **i)** wydanie świadectwa mieszanki materiału siewnego,
+    - **j)** wydanie etykiet i plomb urzędowych,
+    - **k)** wykonywanie czynności w ramach nadzoru nad akredytowanymi podmiotami, o których mowa w art. 81 ustawy z dnia 9 listopada 2012 r. o nasiennictwie;
+
+- **2)** sposób uiszczania opłat, o których mowa w pkt 1.
+
+**§ 2.** Wysokość opłat, o których mowa w § 1 pkt 1, ustala się z uwzględnieniem:
+
+- **1)** w przypadku dokonania oceny tożsamości oraz czystości odmianowej materiału siewnego:
+    - **a)** kosztów materiałów niezbędnych do założenia i prowadzenia poletek kontrolnych,
+    - **b)** metodyki oceny tożsamości oraz czystości odmianowej materiału siewnego dla poszczególnych grup roślin i gatunków;
+
+- **2)** w przypadku pobrania urzędowych prób materiału siewnego oraz pobrania prób gleby i podłoża, w których jest wytwarzany materiał szkółkarski kategorii elitarny i kategorii kwalifikowany:
+    - **a)** metodyki pobierania prób materiału siewnego obowiązującej dla danego gatunku,
+    - **b)** kosztów sprzętu lub materiałów, niezbędnych do pobrania próby,
+    - **c)** kosztów dojazdu do miejsca pobrania próby;
+
+- **3)** w przypadku dokonania oceny polowej materiału siewnego:
+    - **a)** wielkości powierzchni ocenianej plantacji, przyjmując jako podstawową jednostkę powierzchni 10 ha, a dla upraw pod osłonami 1 m ,
+    - **b)** metodyki oceny polowej obowiązującej dla ocenianego gatunku,
+    - **c)** kosztów dojazdu do plantacji nasiennej;
+
+- **4)** w przypadku dokonania oceny laboratoryjnej materiału siewnego:
+    - **a)** zakresu badań dla ocenianego gatunku określonego w przepisach wydanych na podstawie art. 40 ustawy z dnia 9 listopada 2012 r. o nasiennictwie,
+    - **b)** metodyki oceny laboratoryjnej obowiązującej dla ocenianego gatunku,
+    - **c)** zużycia odczynników, materiałów i energii, niezbędnych do dokonania oceny;
+
+- **5)** w przypadku udzielenia akredytacji do dokonywania oceny materiału siewnego, udzielenia akredytacji do pobierania prób materiału siewnego oraz upoważnienia do wypełniania etykiet urzędowych:
+    - **a)** zakresu akredytacji lub upoważnienia,
+    - **b)** kosztów administracyjno-biurowych;
+
+- **6)** w przypadku udzielenia zgody na pobieranie prób za pomocą urządzenia do automatycznego pobierania prób materiału siewnego:
+    - **a)** dokonania wstępnych badań i kalibracji urządzenia,
+    - **b)** kosztów administracyjno-biurowych;
+
+- **7)** w przypadku przeprowadzenia egzaminu, o którym mowa w art. 75 ust. 1 pkt 3 ustawy z dnia 9 listopada 2012 r. o nasiennictwie:
+    - **a)** kosztów przygotowania części praktycznej egzaminu,
+    - **b)** kosztów przygotowania części teoretycznej egzaminu;
+
+- **8)** w przypadku wydania świadectwa mieszanki materiału siewnego – kosztów administracyjno-biurowych;
+- **9)** w przypadku wydania etykiet i plomb urzędowych – kosztów administracyjno-biurowych;
+- **10)** w przypadku wykonywania czynności w ramach nadzoru nad akredytowanymi podmiotami, o których mowa w art. 81 ustawy z dnia 9 listopada 2012 r. o nasiennictwie:
+    - **a)** rodzaju akredytacji,
+    - **b)** kosztów administracyjno-biurowych.
+
+**§ 3.**
+
+1. Opłaty, o których mowa w § 1 pkt 1 lit. a, wnosi się na rachunek bieżący dochodów wskazany w rachunku wystawionym przez wojewódzkiego inspektora ochrony roślin i nasiennictwa.
+
 2. Opłaty, o których mowa w § 1 pkt 1 lit. b–k, wnosi się na rachunek bieżący dochodów wskazany w rachunku wystawionym przez Głównego Inspektora Ochrony Roślin i Nasiennictwa albo wojewódzkiego inspektora ochrony roślin i nasiennictwa, albo w kasie wojewódzkiego inspektoratu ochrony roślin i nasiennictwa.
-§ 4. 1. Za dokonanie ponownej oceny polowej lub ponownej oceny laboratoryjnej materiału siewnego wysokość opłat zwiększa się o 50%, z wyłączeniem ponownej oceny weryfikacyjnej sadzeniaków ziemniaka, w przypadku której wysokość opłaty zwiększa się o 100%.
+
+**§ 4.**
+
+1. Za dokonanie ponownej oceny polowej lub ponownej oceny laboratoryjnej materiału siewnego wysokość opłat zwiększa się o 50%, z wyłączeniem ponownej oceny weryfikacyjnej sadzeniaków ziemniaka, w przypadku której wysokość opłaty zwiększa się o 100%.
+
 2. Dowód wpłaty za dokonanie oceny, o której mowa w ust. 1, powinien zawierać informacje identyfikujące przedmiot ponownej oceny, w szczególności numer świadectwa oceny polowej materiału siewnego lub informacji o dyskwalifikacji, stopień kwalifikacji, nazwę odmiany lub numer partii materiału siewnego.
-§ 5. Za dokonanie oceny laboratoryjnej nasion zaprawianych lub powlekanych wysokość opłat zwiększa się o 50%.
-§ 6. Wysokość opłat za:
-1) dokonanie oceny tożsamości oraz czystości odmianowej materiału siewnego jest określona w załączniku nr 1 do rozporządzenia;
-2) pobranie urzędowych prób materiału siewnego oraz pobranie prób gleby i podłoża, w których jest wytwarzany materiał szkółkarski kategorii elitarny i kategorii kwalifikowany, jest określona w załączniku nr 2 do rozporządzenia;
-3) dokonanie oceny polowej materiału siewnego jest określona w załączniku nr 3 do rozporządzenia;
-4) dokonanie oceny laboratoryjnej materiału siewnego jest określona w załączniku nr 4 do rozporządzenia;
-5) wydanie świadectwa mieszanki materiału siewnego, wydanie etykiet i plomb urzędowych jest określona w załączniku nr 5 do rozporządzenia;
-6) udzielenie akredytacji do pobierania prób materiału siewnego, udzielenie akredytacji do dokonywania oceny materiału siewnego, udzielenie upoważnienia do wypełniania etykiet urzędowych, przeprowadzenie egzaminu, o którym mowa w art. 75 ust. 1 pkt 3 ustawy z dnia 9 listopada 2012 r. o nasiennictwie, udzielenie zgody na pobieranie prób za pomocą urządzenia do automatycznego pobierania prób materiału siewnego, wykonywanie czynności w ramach nadzoru nad akredytowanymi podmiotami, o których mowa w art. 81 ustawy z dnia 9 listopada 2012 r. o nasiennictwie, jest określona w załączniku nr 6 do rozporządzenia.
-§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WYSOKOŚĆ OPŁAT ZA DOKONANIE OCENY TOŻSAMOŚCI ORAZ CZYSTOŚCI ODMIANOWEJ MATERIAŁU SIEWNEGO Załącznik nr 2 WYSOKOŚĆ OPŁAT ZA POBRANIE URZĘDOWYCH PRÓB MATERIAŁU SIEWNEGO ORAZ WYSOKOŚĆ OPŁAT ZA POBRANIE URZĘDOWYCH PRÓB MATERIAŁU SIEWNEGO ORAZ POBRANIE PRÓB GLEBY POBRANIE I PODŁOŻA, PRÓB W KTÓRYCH GLEBY I JEST PODŁOŻA, WYTWARZANY W KTÓRYCH MATERIAŁ JEST WYTWARZANY SZKÓŁKARSKI MATERIAŁ KATEGORII ELITARNY SZKÓŁKARSKI KATEGORII I KATEGORII ELITARNY KWALIFIKOWANY I KATEGORII KWALIFIKOWANY Wysokość Lp. Wyszczególnienie opłaty w zł 1 za pobranie pierwszej próby średniej nasion do oceny laboratoryjnej lub oceny 56,00 tożsamości z pierwszej partii 2 za pobranie każdej następnej próby średniej w tym samym magazynie i w tym samym 6,00 dniu 3 za pobranie każdej próby średniej sadzeniaków ziemniaka z plantacji, z której 93,00 wytworzono materiał siewny kategorii elitarny do oceny weryfikacyjnej 4 za pobranie każdej próby średniej sadzeniaków ziemniaka z plantacji, z której 56,00 wytworzono materiał siewny kategorii kwalifikowany do oceny weryfikacyjnej 5 za pobranie każdej średniej próby sadzeniaków ziemniaka z kopca lub przechowalni, 50,00 niezależnie od kategorii 6 za pobranie pierwszej próby z drzew do pozyskiwania nasion w jednym gospodarstwie 48,00 7 za pobranie każdej następnej próby z drzew do pozyskiwania nasion w tym samym 0,40 dniu, w tym samym gospodarstwie 8 za pobranie prób gleby dla jednego organizmu lub grupy organizmów szkodliwych, dla których próby pobiera się z zastosowaniem tej samej metodyki, z powierzchni: do 0,25 ha 30,00 powyżej 0,25 do 0,50 ha 44,00 powyżej 0,50 do 1,00 ha 63,00 za każdy następny rozpoczęty ha 63,00 9 za pobieranie prób podłoża uprawowego dla jednego organizmu szkodliwego lub grupy organizmów szkodliwych, dla których próby pobiera się z zastosowaniem tej samej metodyki, w workach lub luzem, lub podłoża towarzyszącego materiałowi 37,00 szkółkarskiemu do 100 m lub do 25 000 kg Za pobranie prób, o których mowa w lp. 1, w celu wystawienia świadectwa Międzynarodowego Związku Oceny Nasion (ISTA) wysokość opłaty zwiększa się o 50%.
+
+**§ 5.** Za dokonanie oceny laboratoryjnej nasion zaprawianych lub powlekanych wysokość opłat zwiększa się o 50%.
+
+**§ 6.** Wysokość opłat za:
+
+- **1)** dokonanie oceny tożsamości oraz czystości odmianowej materiału siewnego jest określona w załączniku nr 1 do rozporządzenia;
+- **2)** pobranie urzędowych prób materiału siewnego oraz pobranie prób gleby i podłoża, w których jest wytwarzany materiał szkółkarski kategorii elitarny i kategorii kwalifikowany, jest określona w załączniku nr 2 do rozporządzenia;
+- **3)** dokonanie oceny polowej materiału siewnego jest określona w załączniku nr 3 do rozporządzenia;
+- **4)** dokonanie oceny laboratoryjnej materiału siewnego jest określona w załączniku nr 4 do rozporządzenia;
+- **5)** wydanie świadectwa mieszanki materiału siewnego, wydanie etykiet i plomb urzędowych jest określona w załączniku nr 5 do rozporządzenia;
+- **6)** udzielenie akredytacji do pobierania prób materiału siewnego, udzielenie akredytacji do dokonywania oceny materiału siewnego, udzielenie upoważnienia do wypełniania etykiet urzędowych, przeprowadzenie egzaminu, o którym mowa w art. 75 ust. 1 pkt 3 ustawy z dnia 9 listopada 2012 r. o nasiennictwie, udzielenie zgody na pobieranie prób za pomocą urządzenia do automatycznego pobierania prób materiału siewnego, wykonywanie czynności w ramach nadzoru nad akredytowanymi podmiotami, o których mowa w art. 81 ustawy z dnia 9 listopada 2012 r. o nasiennictwie, jest określona w załączniku nr 6 do rozporządzenia.
+
+**§ 7.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WYSOKOŚĆ OPŁAT ZA DOKONANIE OCENY TOŻSAMOŚCI ORAZ CZYSTOŚCI ODMIANOWEJ MATERIAŁU SIEWNEGO Załącznik nr 2 WYSOKOŚĆ OPŁAT ZA POBRANIE URZĘDOWYCH PRÓB MATERIAŁU SIEWNEGO ORAZ WYSOKOŚĆ OPŁAT ZA POBRANIE URZĘDOWYCH PRÓB MATERIAŁU SIEWNEGO ORAZ POBRANIE PRÓB GLEBY POBRANIE I PODŁOŻA, PRÓB W KTÓRYCH GLEBY I JEST PODŁOŻA, WYTWARZANY W KTÓRYCH MATERIAŁ JEST WYTWARZANY SZKÓŁKARSKI MATERIAŁ KATEGORII ELITARNY SZKÓŁKARSKI KATEGORII I KATEGORII ELITARNY KWALIFIKOWANY I KATEGORII KWALIFIKOWANY Wysokość Lp. Wyszczególnienie opłaty w zł 1 za pobranie pierwszej próby średniej nasion do oceny laboratoryjnej lub oceny 56,00 tożsamości z pierwszej partii 2 za pobranie każdej następnej próby średniej w tym samym magazynie i w tym samym 6,00 dniu 3 za pobranie każdej próby średniej sadzeniaków ziemniaka z plantacji, z której 93,00 wytworzono materiał siewny kategorii elitarny do oceny weryfikacyjnej 4 za pobranie każdej próby średniej sadzeniaków ziemniaka z plantacji, z której 56,00 wytworzono materiał siewny kategorii kwalifikowany do oceny weryfikacyjnej 5 za pobranie każdej średniej próby sadzeniaków ziemniaka z kopca lub przechowalni, 50,00 niezależnie od kategorii 6 za pobranie pierwszej próby z drzew do pozyskiwania nasion w jednym gospodarstwie 48,00 7 za pobranie każdej następnej próby z drzew do pozyskiwania nasion w tym samym 0,40 dniu, w tym samym gospodarstwie 8 za pobranie prób gleby dla jednego organizmu lub grupy organizmów szkodliwych, dla których próby pobiera się z zastosowaniem tej samej metodyki, z powierzchni: do 0,25 ha 30,00 powyżej 0,25 do 0,50 ha 44,00 powyżej 0,50 do 1,00 ha 63,00 za każdy następny rozpoczęty ha 63,00 9 za pobieranie prób podłoża uprawowego dla jednego organizmu szkodliwego lub grupy organizmów szkodliwych, dla których próby pobiera się z zastosowaniem tej samej metodyki, w workach lub luzem, lub podłoża towarzyszącego materiałowi 37,00 szkółkarskiemu do 100 m lub do 25 000 kg Za pobranie prób, o których mowa w lp. 1, w celu wystawienia świadectwa Międzynarodowego Związku Oceny Nasion (ISTA) wysokość opłaty zwiększa się o 50%.
 
 ## Załącznik nr 3 — WYSOKOŚĆ OPŁAT ZA DOKONANIE OCENY POLOWEJ MATERIAŁU SIEWNEGO WYSOKOŚĆ OPŁAT ZA DOKONANIE OCENY POLOWEJ MATERIAŁU SIEWNEGO Lp. Wyszczególnienie Wysokość opłaty w zł 1 1) za pierwszą ocenę stanu plantacji o powierzchni do 10 ha: 156,00
 

@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001058) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1058/text.pdf) |
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szkolenia osób ubiegających się o uprawnienia do kierowania pojazdami, instruktorów i wykładowców Na podstawie art. 32 ust. 3 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Budownictwa z dnia 20 września 2016 r. zmieniającym rozporządzenie w sprawie szkolenia osób ubiegających się o uprawnienia do kierowania pojazdami, instruktorów i wykładowców (Dz. U. poz. 1584 i 2283) w § 3 wyrazy „4 czerwca 2018 r.” zastępuje się wyrazami „wdrożenia rozwiązań technicznych umożliwiających wprowadzanie, przekazywanie, gromadzenie i udostępnianie danych, na zasadach określonych w art. 100aa–100aq ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn.
-zm. ), określonym w komunikacie, o którym mowa w art. 13 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957)”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.
-Minister Infrastruktury: wz. A. Bittel
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Budownictwa z dnia 20 września 2016 r. zmieniającym rozporządzenie w sprawie szkolenia osób ubiegających się o uprawnienia do kierowania pojazdami, instruktorów i wykładowców (Dz. U. poz. 1584 i 2283) w § 3 wyrazy „4 czerwca 2018 r.” zastępuje się wyrazami „wdrożenia rozwiązań technicznych umożliwiających wprowadzanie, przekazywanie, gromadzenie i udostępnianie danych, na zasadach określonych w art. 100aa–100aq ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm. ), określonym w komunikacie, o którym mowa w art. 13 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957)”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r. Minister Infrastruktury: wz. A. Bittel
 

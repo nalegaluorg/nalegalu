@@ -26,15 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001267) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1267/text.pdf) |
 
 w sprawie wyznaczenia Dyrektora Izby Administracji Skarbowej w Warszawie do prowadzenia niektórych spraw celnych Na podstawie art. 70 ust. 3 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2022 r. poz. 2073 oraz z 2023 poz. 1059) zarządza się, co następuje:
-§ 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Warszawie do:
-1) wydawania pozwoleń na korzystanie z procedury TIR;
-2) prowadzenia listy agentów celnych;
-3) dokonywania wpisu osoby na listę agentów celnych oraz jego zmiany;
-4) wydawania decyzji w sprawach:
-a) odmowy wpisu osoby na listę agentów celnych,
-b) skreślenia osoby z listy agentów celnych,
-c) zawieszenia działalności agenta celnego;
-5) wydawania decyzji w sprawach ochrony praw własności intelektualnej.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** Wyznacza się Dyrektora Izby Administracji Skarbowej w Warszawie do:
+
+- **1)** wydawania pozwoleń na korzystanie z procedury TIR;
+- **2)** prowadzenia listy agentów celnych;
+- **3)** dokonywania wpisu osoby na listę agentów celnych oraz jego zmiany;
+- **4)** wydawania decyzji w sprawach:
+    - **a)** odmowy wpisu osoby na listę agentów celnych,
+    - **b)** skreślenia osoby z listy agentów celnych,
+    - **c)** zawieszenia działalności agenta celnego;
+
+- **5)** wydawania decyzji w sprawach ochrony praw własności intelektualnej.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: M. Rzeczkowska
 

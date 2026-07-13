@@ -29,7 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580) wprowadza się następujące zmiany:
 
-- **1)** w art. 12 po ust. 4b dodaje się ust. 4c i 4d w brzmieniu: „4c. Zabrania się chowu lub hodowli w celach komercyjnych zwierząt futerkowych, o których mowa w art. 2 pkt 4 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36), z wyjątkiem królika (Oryctolagus cuniculus), w szczególności w celu pozyskania z nich futer lub innych części zwierząt. 4d. Zabrania się podejmowania działalności, o której mowa w art. 1 pkt 1 lit. n ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, obejmującej utrzymywanie zwierząt futerkowych, o których mowa w art. 2 pkt 4 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich, z wyjątkiem królika (Oryctolagus cuniculus).”;
+- **1)** w art. 12 po ust. 4b dodaje się ust. 4c i 4d w brzmieniu:
+
+  > „4c. Zabrania się chowu lub hodowli w celach komercyjnych zwierząt futerkowych, o których mowa w art. 2 pkt 4 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36), z wyjątkiem królika (Oryctolagus cuniculus), w szczególności w celu pozyskania z nich futer lub innych części zwierząt.  
+  > 4d. Zabrania się podejmowania działalności, o której mowa w art. 1 pkt 1 lit. n ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, obejmującej utrzymywanie zwierząt futerkowych, o których mowa w art. 2 pkt 4 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich, z wyjątkiem królika (Oryctolagus cuniculus).”;  
 - **2)** w art. 37 dodaje się ust. 5 w brzmieniu: „5. W razie ukarania za wykroczenie polegające na naruszeniu zakazu, o którym mowa w art. 12 ust. 4c lub 4d, sąd może orzec zakaz posiadania wszelkich zwierząt albo określonej kategorii zwierząt, na okres od roku do lat 5.”.
 
 **Art. 2.** Podmioty i rolnicy prowadzący w dniu wejścia w życie ustawy działalność, o której mowa w art. 12 ust. 4c ustawy zmienianej w art. 1, mogą ją prowadzić do dnia 31 grudnia 2033 r. na podstawie przepisów dotychczasowych.

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia Na podstawie art. 53 § 4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r.
 poz. 52, 55, 60, 125, 1469 i 1495) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 5 marca 2004 r. w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. z 2014 r. poz. 991) po § 33 dodaje się § 33a w brzmieniu: „§ 33a. Okresy przechowywania w sądzie akt spraw zakończonych prawomocnie po dniu 17 października 1997 r., niezaliczonych do kategorii A, których końcowy termin przechowywania upływa przed dniem 3 kwietnia 2021 r., innych niż akta spraw o wykroczenia i wykroczenia skarbowe, ulegają wydłużeniu do dnia 3 lipca 2021 r.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 5 marca 2004 r. w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. z 2014 r. poz. 991) po § 33 dodaje się § 33a w brzmieniu: „§ 33a. Okresy przechowywania w sądzie akt spraw zakończonych prawomocnie po dniu 17 października 1997 r., niezaliczonych do kategorii A, których końcowy termin przechowywania upływa przed dniem 3 kwietnia 2021 r., innych niż akta spraw o wykroczenia i wykroczenia skarbowe, ulegają wydłużeniu do dnia 3 lipca 2021 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

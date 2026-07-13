@@ -26,9 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002343) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2343/text.pdf) |
 
 w sprawie współczynnika prowizji oraz sposobu i terminów pobierania wynagrodzenia prowizyjnego z tytułu obsługi Funduszu Rezerwowego Na podstawie art. 42 ust. 4 ustawy z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi Śródlądowej i Funduszu Rezerwowym (Dz. U. poz. 1901) zarządza się, co następuje:
-§ 1. 1. Bank Gospodarstwa Krajowego samodzielnie pobiera miesięczne wynagrodzenie prowizyjne 10. dnia miesiąca następującego po miesiącu, którego to wynagrodzenie dotyczy.
+
+**§ 1.**
+
+1. Bank Gospodarstwa Krajowego samodzielnie pobiera miesięczne wynagrodzenie prowizyjne 10. dnia miesiąca następującego po miesiącu, którego to wynagrodzenie dotyczy.
+
 2. Jeżeli termin, o którym mowa w ust. 1, przypada na dzień wolny od pracy w Banku Gospodarstwa Krajowego, miesięczne wynagrodzenie prowizyjne pobiera się w najbliższym następującym dniu, który nie jest dniem wolnym od pracy.
-§ 2. Współczynnik prowizji wynosi 1,06.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
+
+**§ 2.** Współczynnik prowizji wynosi 1,06.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
 

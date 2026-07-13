@@ -30,15 +30,26 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia ministra spraw wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 czerwca 2017 r. zmieniającego rozporządzenie w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego (Dz. U. poz. 1337), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
 rozporządzenie ministra spraw wewnętrznych i administracji z dnia 1 sierpnia 2016 r.
 w sprawie określenia wzorów dokumentów stosowanych w postępowaniu o opróżnienie lokalu mieszkalnego Na podstawie art. 78c ust. 7 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 133, 138 i 756) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa:
-1) wzór wezwania do opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej;
-2) wzór decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej;
-3) wzór wniosku o zamianę lokalu mieszkalnego.
+
+**§ 1.**
+
+1. Rozporządzenie określa:
+
+- **1)** wzór wezwania do opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej;
+- **2)** wzór decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej;
+- **3)** wzór wniosku o zamianę lokalu mieszkalnego.
+
 2. Ilekroć w rozporządzeniu jest mowa o ustawie, należy przez to rozumieć ustawę z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
-§ 2. 1. Wzór wezwania do opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej, o którym mowa w art. 41 ust. 4 ustawy, jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 2.**
+
+1. Wzór wezwania do opróżnienia lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej, o którym mowa w art. 41 ust. 4 ustawy, jest określony w załączniku nr 1 do rozporządzenia.
+
 2. Wzór decyzji o opróżnieniu lokalu mieszkalnego, miejsca w internacie albo kwaterze internatowej, o której mowa w art. 41 ust. 6 ustawy, jest określony w załączniku nr 2 do rozporządzenia.
+
 3. Wzór wniosku o zamianę lokalu mieszkalnego, o którym mowa w art. 78c ust. 3 ustawy, jest określony w załączniku nr 3 do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 
 ## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych r.
 

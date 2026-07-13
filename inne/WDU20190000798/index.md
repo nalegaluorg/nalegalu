@@ -27,57 +27,84 @@ source: pdf
 
 w sprawie rocznego audytu zewnętrznego organizacji odzysku sprzętu elektrycznego i elektronicznego oraz zakładu przetwarzania Na podstawie art. 71 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U.
 z 2018 r. poz. 1466 i 1479 oraz z 2019 r. poz. 125) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) szczegółowy zakres i sposób przeprowadzania rocznego audytu zewnętrznego, zwanego dalej „audytem”;
-2) szczegółowy zakres sprawozdania z przeprowadzonego audytu.
-§ 2. Audyt organizacji odzysku sprzętu elektrycznego i elektronicznego, zwanej dalej „organizacją”, przeprowadza się w jej siedzibie.
-§ 3. 1. Audyt zakładu przetwarzania przeprowadza się w zakładzie przetwarzania oraz w miejscu, w którym prowadzący zakład przetwarzania przechowuje dokumentację.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** szczegółowy zakres i sposób przeprowadzania rocznego audytu zewnętrznego, zwanego dalej „audytem”;
+- **2)** szczegółowy zakres sprawozdania z przeprowadzonego audytu.
+
+**§ 2.** Audyt organizacji odzysku sprzętu elektrycznego i elektronicznego, zwanej dalej „organizacją”, przeprowadza się w jej siedzibie.
+
+**§ 3.**
+
+1. Audyt zakładu przetwarzania przeprowadza się w zakładzie przetwarzania oraz w miejscu, w którym prowadzący zakład przetwarzania przechowuje dokumentację.
+
 2. W przypadku gdy przedsiębiorca posiada więcej niż jeden zakład przetwarzania, audyt przeprowadza się w każdym z zakładów.
-§ 4. Audytor przekazuje organizacji lub prowadzącemu zakład przetwarzania informację o zamiarze dokonania audytu w terminie co najmniej 14 dni przed dniem rozpoczęcia audytu.
-§ 5. Audyt organizacji obejmuje następujący zakres:
-1) spełnienie przez organizację wymogów określonych przepisami ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, w tym dotyczących kapitału zakładowego, akcjonariuszy oraz wdrożenia systemu zarządzania środowiskowego;
-2) w przypadku prowadzenia przez organizację przedsięwzięć związanych ze zbieraniem, przetwarzaniem, recyklingiem i innymi niż recykling procesami odzysku oraz unieszkodliwianiem – dokumentację w zakresie gospodarki odpadami zawierającą w szczególności:
-a) zezwolenia, o których mowa w art. 41 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2019 r. poz. 701 i 730), zwanej dalej „ustawą o odpadach”,
-b) ilościową i jakościową ewidencję odpadów, zwaną dalej „ewidencją odpadów”, o której mowa w art. 66 ust. 1 ustawy o odpadach;
-3) w zakresie zagospodarowanego zużytego sprzętu oraz odpadów powstałych ze zużytego sprzętu – zaświadczenia o zużytym sprzęcie, o których mowa w art. 53 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, w tym zgodność informacji zawartych w tych zaświadczeniach z informacjami zawartymi w sprawozdaniach, o których mowa w pkt 4, oraz w przypadku, o którym mowa w pkt 2 lit. b;
-4) w zakresie wprowadzonego do obrotu sprzętu oraz zagospodarowanego zużytego sprzętu oraz odpadów powstałych ze zużytego sprzętu – sprawozdania, o których mowa w art. 74 ust. 1 pkt 2, ust. 1a, ust. 2 pkt 3, ust. 6 i art. 74a ustawy o odpadach.
-§ 6. Sposobem przeprowadzenia audytu organizacji jest sprawdzenie dokumentacji, o której mowa w § 5, i ocena spełniania przez organizację wymogów, o których mowa w § 5 pkt 1.
-§ 7. Audyt zakładu przetwarzania obejmuje następujący zakres:
-1) dokumentację zawierającą w szczególności:
-a) w zakresie gospodarki odpadami – decyzje, o których mowa w art. 41 ust. 1 ustawy o odpadach,
-b) pozwolenia, o których mowa w art. 181 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm. ),
-c) ewidencję odpadów,
-d) w zakresie zagospodarowanego zużytego sprzętu oraz odpadów powstałych ze zużytego sprzętu – zaświadczenia o zużytym sprzęcie, o których mowa w art. 53 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym,
-e) w zakresie zagospodarowanego zużytego sprzętu oraz odpadów powstałych ze zużytego sprzętu – sprawozdania, o których mowa w art. 75 ust. 2 pkt 7 ustawy o odpadach, w uzasadnionych przypadkach sprawozdania, o których mowa w art. 236b ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, oraz raporty, o których mowa w art. 7 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2018 r. poz. 1271, 1669 i 2538 oraz z 2019 r. poz. 412 i 730);
-2) spełnienie minimalnych wymagań dla zakładu przetwarzania, o których mowa w art. 50 i art. 51 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym;
-3) zgodność możliwości technicznych przetwarzania przez zakład przetwarzania zużytego sprzętu powstałego ze sprzętu należącego do grupy sprzętu, dla której została wydana decyzja w zakresie gospodarki odpadami, w tym ocenę stosowanej technologii przetwarzania, z masą zebranego oraz przetworzonego zużytego sprzętu wynikającą z wydanych zaświadczeń, o których mowa w art. 53 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym;
-4) zgodność masy zebranego oraz przetworzonego zużytego sprzętu wynikającą z wydanych zaświadczeń, o których mowa w art. 53 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, z roczną mocą przerobową określoną w decyzji w zakresie gospodarki odpadami, ewidencją odpadów, o której mowa w pkt 1 lit. c, oraz sprawozdaniami, o których mowa w pkt 1 lit. e;
-5) zgodność masy zużytego sprzętu przyjętego do przetworzenia oraz odpadów powstałych po demontażu zużytego sprzętu wskazanych w dokumentach sporządzanych na potrzeby ewidencji odpadów, o której mowa w pkt 1 lit. c, oraz pochodzących z legalizowanego urządzenia ważącego, o którym mowa w art. 51 ust. 1 pkt 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, z dokumentacją finansową, w szczególności z wartościami wskazanymi na fakturach, posiadaną przez przedsiębiorcę z tytułu zakupu odpadów przeznaczonych do przetworzenia oraz sprzedaży odpadów do recyklingu oraz innych niż recykling procesów odzysku, a także przygotowanych do ponownego użycia, za rok kalendarzowy, którego audyt dotyczy;
-6) terminowość składania sprawozdań, o których mowa w pkt 1 lit. e, oraz zaświadczeń, o których mowa w pkt 1 lit. d;
-7) zgodność prowadzonego procesu przetwarzania z obowiązującymi standardami w zakresie przetwarzania zużytego sprzętu określonymi przepisami prawa krajowego i Unii Europejskiej.
-§ 8. Sposobem przeprowadzenia audytu zakładu przetwarzania jest sprawdzenie dokumentacji, o której mowa w § 7 pkt 1 i 3–6, i ocena spełniania przez prowadzącego zakład przetwarzania wymogów, o których mowa w § 7 pkt 2 i 7.
-§ 9. 1. Audytor opracowuje projekt sprawozdania, w którym informuje o ustaleniach przeprowadzonego audytu.
+
+**§ 4.** Audytor przekazuje organizacji lub prowadzącemu zakład przetwarzania informację o zamiarze dokonania audytu w terminie co najmniej 14 dni przed dniem rozpoczęcia audytu.
+
+**§ 5.** Audyt organizacji obejmuje następujący zakres:
+
+- **1)** spełnienie przez organizację wymogów określonych przepisami ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, w tym dotyczących kapitału zakładowego, akcjonariuszy oraz wdrożenia systemu zarządzania środowiskowego;
+- **2)** w przypadku prowadzenia przez organizację przedsięwzięć związanych ze zbieraniem, przetwarzaniem, recyklingiem i innymi niż recykling procesami odzysku oraz unieszkodliwianiem – dokumentację w zakresie gospodarki odpadami zawierającą w szczególności:
+    - **a)** zezwolenia, o których mowa w art. 41 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2019 r. poz. 701 i 730), zwanej dalej „ustawą o odpadach”,
+    - **b)** ilościową i jakościową ewidencję odpadów, zwaną dalej „ewidencją odpadów”, o której mowa w art. 66 ust. 1 ustawy o odpadach;
+
+- **3)** w zakresie zagospodarowanego zużytego sprzętu oraz odpadów powstałych ze zużytego sprzętu – zaświadczenia o zużytym sprzęcie, o których mowa w art. 53 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, w tym zgodność informacji zawartych w tych zaświadczeniach z informacjami zawartymi w sprawozdaniach, o których mowa w pkt 4, oraz w przypadku, o którym mowa w pkt 2 lit. b;
+- **4)** w zakresie wprowadzonego do obrotu sprzętu oraz zagospodarowanego zużytego sprzętu oraz odpadów powstałych ze zużytego sprzętu – sprawozdania, o których mowa w art. 74 ust. 1 pkt 2, ust. 1a, ust. 2 pkt 3, ust. 6 i art. 74a ustawy o odpadach.
+
+**§ 6.** Sposobem przeprowadzenia audytu organizacji jest sprawdzenie dokumentacji, o której mowa w § 5, i ocena spełniania przez organizację wymogów, o których mowa w § 5 pkt 1.
+
+**§ 7.** Audyt zakładu przetwarzania obejmuje następujący zakres:
+
+- **1)** dokumentację zawierającą w szczególności:
+    - **a)** w zakresie gospodarki odpadami – decyzje, o których mowa w art. 41 ust. 1 ustawy o odpadach,
+    - **b)** pozwolenia, o których mowa w art. 181 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799, z późn. zm. ),
+    - **c)** ewidencję odpadów,
+    - **d)** w zakresie zagospodarowanego zużytego sprzętu oraz odpadów powstałych ze zużytego sprzętu – zaświadczenia o zużytym sprzęcie, o których mowa w art. 53 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym,
+    - **e)** w zakresie zagospodarowanego zużytego sprzętu oraz odpadów powstałych ze zużytego sprzętu – sprawozdania, o których mowa w art. 75 ust. 2 pkt 7 ustawy o odpadach, w uzasadnionych przypadkach sprawozdania, o których mowa w art. 236b ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, oraz raporty, o których mowa w art. 7 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2018 r. poz. 1271, 1669 i 2538 oraz z 2019 r. poz. 412 i 730);
+
+- **2)** spełnienie minimalnych wymagań dla zakładu przetwarzania, o których mowa w art. 50 i art. 51 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym;
+- **3)** zgodność możliwości technicznych przetwarzania przez zakład przetwarzania zużytego sprzętu powstałego ze sprzętu należącego do grupy sprzętu, dla której została wydana decyzja w zakresie gospodarki odpadami, w tym ocenę stosowanej technologii przetwarzania, z masą zebranego oraz przetworzonego zużytego sprzętu wynikającą z wydanych zaświadczeń, o których mowa w art. 53 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym;
+- **4)** zgodność masy zebranego oraz przetworzonego zużytego sprzętu wynikającą z wydanych zaświadczeń, o których mowa w art. 53 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, z roczną mocą przerobową określoną w decyzji w zakresie gospodarki odpadami, ewidencją odpadów, o której mowa w pkt 1 lit. c, oraz sprawozdaniami, o których mowa w pkt 1 lit. e;
+- **5)** zgodność masy zużytego sprzętu przyjętego do przetworzenia oraz odpadów powstałych po demontażu zużytego sprzętu wskazanych w dokumentach sporządzanych na potrzeby ewidencji odpadów, o której mowa w pkt 1 lit. c, oraz pochodzących z legalizowanego urządzenia ważącego, o którym mowa w art. 51 ust. 1 pkt 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, z dokumentacją finansową, w szczególności z wartościami wskazanymi na fakturach, posiadaną przez przedsiębiorcę z tytułu zakupu odpadów przeznaczonych do przetworzenia oraz sprzedaży odpadów do recyklingu oraz innych niż recykling procesów odzysku, a także przygotowanych do ponownego użycia, za rok kalendarzowy, którego audyt dotyczy;
+- **6)** terminowość składania sprawozdań, o których mowa w pkt 1 lit. e, oraz zaświadczeń, o których mowa w pkt 1 lit. d;
+- **7)** zgodność prowadzonego procesu przetwarzania z obowiązującymi standardami w zakresie przetwarzania zużytego sprzętu określonymi przepisami prawa krajowego i Unii Europejskiej.
+
+**§ 8.** Sposobem przeprowadzenia audytu zakładu przetwarzania jest sprawdzenie dokumentacji, o której mowa w § 7 pkt 1 i 3–6, i ocena spełniania przez prowadzącego zakład przetwarzania wymogów, o których mowa w § 7 pkt 2 i 7.
+
+**§ 9.**
+
+1. Audytor opracowuje projekt sprawozdania, w którym informuje o ustaleniach przeprowadzonego audytu.
+
 2. Projekt sprawozdania jest przekazywany odpowiednio organizacji albo prowadzącemu zakład przetwarzania.
+
 3. Organizacja albo prowadzący zakład przetwarzania w terminie 14 dni od dnia otrzymania projektu sprawozdania może zgłosić na piśmie dodatkowe wyjaśnienia lub umotywowane zastrzeżenia dotyczące jego treści.
+
 4. Audytor po otrzymaniu od organizacji albo prowadzącego zakład przetwarzania dodatkowych wyjaśnień lub umotywowanych zastrzeżeń dotyczących projektu sprawozdania dokonuje ich analizy i w miarę potrzeby podejmuje w tym zakresie dodatkowe czynności sprawdzające.
+
 5. W przypadku stwierdzenia przez audytora zasadności całości lub części zgłoszonych przez audytowanego dodatkowych wyjaśnień lub umotywowanych zastrzeżeń projekt sprawozdania ulega w tym zakresie zmianie lub uzupełnieniu.
+
 6. Dodatkowe wyjaśnienia lub umotywowane zastrzeżenia włącza się do dokumentacji audytu.
+
 7. Po rozpatrzeniu przez audytora dodatkowych wyjaśnień lub umotywowanych zastrzeżeń projekt sprawozdania staje się sprawozdaniem z przeprowadzonego audytu.
-§ 10. Sprawozdanie z przeprowadzonego audytu zawiera:
-1) stronę tytułową;
-2) datę sporządzenia sprawozdania;
-3) imię i nazwisko lub nazwę oraz adres siedziby audytowanego podmiotu, a w przypadku zakładu przetwarzania również adres miejsca wykonywania działalności podlegającej audytowi;
-4) numer identyfikacji podatkowej (NIP) audytowanego podmiotu;
-5) indywidualny numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy o odpadach, audytowanego podmiotu;
-6) nazwę podmiotu przeprowadzającego audyt oraz numer akredytacji tego podmiotu;
-7) imię i nazwisko audytora uczestniczącego w audycie;
-8) termin przeprowadzenia audytu;
-9) rok kalendarzowy objęty audytem;
-10) cel audytu;
-11) zakres przedmiotowy audytu, w tym wykaz dokumentów i danych źródłowych, z których korzystał audytor;
-12) podjęte działania i zastosowane techniki audytu;
-13) ustalenie stanu faktycznego, w tym wskazanie stwierdzonych uchybień;
-14) podpis audytora sporządzającego sprawozdanie oraz podpis prawomocnego przedstawiciela weryfikatora.
-§ 11. Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.
-Minister Środowiska: H. Kowalczyk
+
+**§ 10.** Sprawozdanie z przeprowadzonego audytu zawiera:
+
+- **1)** stronę tytułową;
+- **2)** datę sporządzenia sprawozdania;
+- **3)** imię i nazwisko lub nazwę oraz adres siedziby audytowanego podmiotu, a w przypadku zakładu przetwarzania również adres miejsca wykonywania działalności podlegającej audytowi;
+- **4)** numer identyfikacji podatkowej (NIP) audytowanego podmiotu;
+- **5)** indywidualny numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy o odpadach, audytowanego podmiotu;
+- **6)** nazwę podmiotu przeprowadzającego audyt oraz numer akredytacji tego podmiotu;
+- **7)** imię i nazwisko audytora uczestniczącego w audycie;
+- **8)** termin przeprowadzenia audytu;
+- **9)** rok kalendarzowy objęty audytem;
+- **10)** cel audytu;
+- **11)** zakres przedmiotowy audytu, w tym wykaz dokumentów i danych źródłowych, z których korzystał audytor;
+- **12)** podjęte działania i zastosowane techniki audytu;
+- **13)** ustalenie stanu faktycznego, w tym wskazanie stwierdzonych uchybień;
+- **14)** podpis audytora sporządzającego sprawozdanie oraz podpis prawomocnego przedstawiciela weryfikatora.
+
+**§ 11.** Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r. Minister Środowiska: H. Kowalczyk
 

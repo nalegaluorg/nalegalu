@@ -35,9 +35,18 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. Operator pocztowy, którego roczne przychody osiągnięte z działalności pocztowej w poprzednim roku kalendarzowym wyniosły co najmniej 400 000 złotych, przedkłada Prezesowi UKE coroczne sprawozdanie z działalności pocztowej za poprzedni rok kalendarzowy.”,
     - **b)** w ust. 2 uchyla się pkt 8 i 9,
     - **c)** w ust. 3 uchyla się pkt 1,
-    - **d)** ust. 5 i 5a otrzymują brzmienie: „5. Obowiązkowi przedłożenia sprawozdania z działalności pocztowej, z uwzględnieniem ust. 5a i 5b, podlega podmiot wykreślony z rejestru, za okres wykonywanej działalności pocztowej w roku, w którym nastąpiło wykreślenie z rejestru. 5a. Operator pocztowy, który w poprzednim roku kalendarzowym nie wykonywał działalności pocztowej, składa Prezesowi UKE oświadczenie o niewykonywaniu tej działalności.”,
-    - **e)** po ust. 5a dodaje się ust. 5b i 5c w brzmieniu: „5b. Operator pocztowy, którego roczne przychody osiągnięte z działalności pocztowej w poprzednim roku kalendarzowym były niższe niż 400 000 złotych, składa Prezesowi UKE oświadczenie o niepodleganiu obowiązkowi przedkładania sprawozdania z działalności pocztowej. 5c. Sprawozdanie z działalności pocztowej, o którym mowa w ust. 1 albo 5, oraz oświadczenie, o którym mowa w ust. 5a albo 5b, składa się w formie elektronicznej w terminie do dnia 31 marca każdego roku.”,
-    - **f)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw łączności określi, w drodze rozporządzenia: 1) wzór formularza służącego do przedkładania Prezesowi UKE sprawozdania z działalności pocztowej wraz z objaśnieniami co do sposobu jego wypełnienia, 2) wzory oświadczeń, o których mowa w ust. 5a i 5b – kierując się koniecznością zapewnienia Prezesowi UKE informacji, o których mowa w ust. 2, oraz mając na uwadze zapewnienie czytelności i kompletności wzoru formularza, i objaśnień, a także w celu zapewnienia jednolitości składanych oświadczeń.”;
+    - **d)** ust. 5 i 5a otrzymują brzmienie:
+
+      > „5. Obowiązkowi przedłożenia sprawozdania z działalności pocztowej, z uwzględnieniem ust. 5a i 5b, podlega podmiot wykreślony z rejestru, za okres wykonywanej działalności pocztowej w roku, w którym nastąpiło wykreślenie z rejestru.  
+      > 5a. Operator pocztowy, który w poprzednim roku kalendarzowym nie wykonywał działalności pocztowej, składa Prezesowi UKE oświadczenie o niewykonywaniu tej działalności.”,  
+    - **e)** po ust. 5a dodaje się ust. 5b i 5c w brzmieniu:
+
+      > „5b. Operator pocztowy, którego roczne przychody osiągnięte z działalności pocztowej w poprzednim roku kalendarzowym były niższe niż 400 000 złotych, składa Prezesowi UKE oświadczenie o niepodleganiu obowiązkowi przedkładania sprawozdania z działalności pocztowej.  
+      > 5c. Sprawozdanie z działalności pocztowej, o którym mowa w ust. 1 albo 5, oraz oświadczenie, o którym mowa w ust. 5a albo 5b, składa się w formie elektronicznej w terminie do dnia 31 marca każdego roku.”,  
+    - **f)** ust. 7 otrzymuje brzmienie:
+
+      > „7. Minister właściwy do spraw łączności określi, w drodze rozporządzenia:  
+      > 1) wzór formularza służącego do przedkładania Prezesowi UKE sprawozdania z działalności pocztowej wraz z objaśnieniami co do sposobu jego wypełnienia, 2) wzory oświadczeń, o których mowa w ust. 5a i 5b – kierując się koniecznością zapewnienia Prezesowi UKE informacji, o których mowa w ust. 2, oraz mając na uwadze zapewnienie czytelności i kompletności wzoru formularza, i objaśnień, a także w celu zapewnienia jednolitości składanych oświadczeń.”;  
 
 - **4)** w art. 126:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) nie udziela informacji lub nie dostarcza dokumentów, o których mowa w art. 10 ust. 1, art. 43 ust. 1, 5–5b, art. 50 lub art. 86 ust. 1;”,

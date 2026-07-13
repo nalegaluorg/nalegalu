@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000449) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/449/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin notarialny Na podstawie art. 74 § 18 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 2 grudnia 2013 r. w sprawie zespołu do przygotowania zadań na egzamin notarialny (Dz. U. z 2018 r. poz. 11) wprowadza się następujące zmiany:
-1) w § 2 w ust. 3a pkt 1 otrzymuje brzmienie: „1) posiadać urządzeń służących do przekazu, odbioru, przechowywania, utrwalania i powielania informacji, z wyjątkiem urządzeń zapewnionych w ramach obsługi administracyjno-biurowej zespołu;”;
-2) § 2a otrzymuje brzmienie: „§ 2a. Minister Sprawiedliwości zapewnia odpowiednie środki techniczne w celu przestrzegania przepisu § 2 ust. 3a pkt 1, w szczególności sprzęt komputerowy służący do przygotowania zadań i opisów istotnych zagadnień niebędący urządzeniem służącym do przekazu i odbioru informacji oraz sprzęt komputerowy zawierający system informacji prawnej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 2 grudnia 2013 r. w sprawie zespołu do przygotowania zadań na egzamin notarialny (Dz. U. z 2018 r. poz. 11) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 3a pkt 1 otrzymuje brzmienie: „1) posiadać urządzeń służących do przekazu, odbioru, przechowywania, utrwalania i powielania informacji, z wyjątkiem urządzeń zapewnionych w ramach obsługi administracyjno-biurowej zespołu;”;
+- **2)** § 2a otrzymuje brzmienie: „§ 2a. Minister Sprawiedliwości zapewnia odpowiednie środki techniczne w celu przestrzegania przepisu § 2 ust. 3a pkt 1, w szczególności sprzęt komputerowy służący do przygotowania zadań i opisów istotnych zagadnień niebędący urządzeniem służącym do przekazu i odbioru informacji oraz sprzęt komputerowy zawierający system informacji prawnej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

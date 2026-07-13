@@ -27,10 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie otrzymywania przez funkcjonariuszy Służby Celno-Skarbowej wyżywienia lub równoważnika pieniężnego w zamian za wyżywienie Na podstawie art. 213 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U.
 z 2022 r. poz. 813, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 6 lutego 2018 r. w sprawie otrzymywania przez funkcjonariuszy Służby Celno-Skarbowej wyżywienia lub równoważnika pieniężnego w zamian za wyżywienie (Dz. U. z 2022 r. poz. 410) w § 10 w ust. 4 pkt 2 i 3 otrzymują brzmienie: „2) za normę U ‒ 10,00 zł;
-3) za normę U w wymiarze 50% ‒ 8,00 zł.”.
-§ 2. Przepisy § 10 ust. 4 pkt 2 i 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do określenia wysokości równoważnika pieniężnego w zamian za wyżywienie przysługującego za okres przypadający od dnia 1 marca 2023 r.
-§ 3. Równoważnik pieniężny w zamian za wyżywienie przysługujący za okres przypadający przed dniem 1 marca 2023 r. i niewypłacony do dnia wejścia w życie niniejszego rozporządzenia jest wypłacany w wysokości określonej zgodnie z przepisami dotychczasowymi.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 6 lutego 2018 r. w sprawie otrzymywania przez funkcjonariuszy Służby Celno-Skarbowej wyżywienia lub równoważnika pieniężnego w zamian za wyżywienie (Dz. U. z 2022 r. poz. 410) w § 10 w ust. 4 pkt 2 i 3 otrzymują brzmienie: „2) za normę U ‒ 10,00 zł; 3) za normę U w wymiarze 50% ‒ 8,00 zł.”.
+
+**§ 2.** Przepisy § 10 ust. 4 pkt 2 i 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do określenia wysokości równoważnika pieniężnego w zamian za wyżywienie przysługującego za okres przypadający od dnia 1 marca 2023 r.
+
+**§ 3.** Równoważnik pieniężny w zamian za wyżywienie przysługujący za okres przypadający przed dniem 1 marca 2023 r. i niewypłacony do dnia wejścia w życie niniejszego rozporządzenia jest wypłacany w wysokości określonej zgodnie z przepisami dotychczasowymi.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: M. Rzeczkowska
 

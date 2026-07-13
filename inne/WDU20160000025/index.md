@@ -32,13 +32,19 @@ source: pdf
 - **1)** w art. 6 w ust. 2 uchyla się pkt 11;
 - **2)** w art. 27:
     - **a)** uchyla się ust. 2,
-    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Członków zarządu, w tym prezesa zarządu, powołuje i odwołuje minister właściwy do spraw Skarbu Państwa. 4. Członków zarządu powołuje się spośród osób posiadających kompetencje w dziedzinie radiofonii i telewizji oraz nieskazanych prawomocnym wyrokiem za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe.”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie:
+
+      > „3. Członków zarządu, w tym prezesa zarządu, powołuje i odwołuje minister właściwy do spraw Skarbu Państwa.  
+      > 4. Członków zarządu powołuje się spośród osób posiadających kompetencje w dziedzinie radiofonii i telewizji oraz nieskazanych prawomocnym wyrokiem za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe.”,  
     - **c)** uchyla się ust. 5 i 6;
 
 - **3)** w art. 28:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Rada nadzorcza spółki liczy trzech członków.”,
     - **b)** uchyla się ust. 1a–1d,
-    - **c)** po ust. 1d dodaje się ust. 1e i 1f w brzmieniu: „1e. Członków rady nadzorczej powołuje i odwołuje minister właściwy do spraw Skarbu Państwa. 1f. Członków rady nadzorczej powołuje się spośród osób, które złożyły egzamin, o którym mowa w art. 12 ust. 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2015 r. poz. 747 i 978).”,
+    - **c)** po ust. 1d dodaje się ust. 1e i 1f w brzmieniu:
+
+      > „1e. Członków rady nadzorczej powołuje i odwołuje minister właściwy do spraw Skarbu Państwa.  
+      > 1f. Członków rady nadzorczej powołuje się spośród osób, które złożyły egzamin, o którym mowa w art. 12 ust. 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2015 r. poz. 747 i 978).”,  
     - **d)** uchyla się ust. 5;
 
 - **4)** w art. 29 uchyla się ust. 3;

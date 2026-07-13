@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001708) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1708/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu chorób, z tytułu których funkcjonariuszowi Służby Więziennej przysługuje jednorazowe odszkodowanie Na podstawie art. 118 ust. 18 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2014 r. poz. 1415, późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 11 sierpnia 2010 r. w sprawie wykazu chorób, z tytułu których funkcjonariuszowi Służby Więziennej przysługuje jednorazowe odszkodowanie (Dz. U. Nr 147, poz. 989) w załączniku do rozporządzenia dodaje się lp. 22 w brzmieniu: 22 Nadciśnienie tętnicze z powikłaniami Służba w warunkach długotrwałego napięcia psychicznego, wielonarządowymi zaburzenia rytmu dobowego; nadmierny wysiłek fizyczny, sytuacje stresogenne, zwiększona odpowiedzialność
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: B. Budka
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 11 sierpnia 2010 r. w sprawie wykazu chorób, z tytułu których funkcjonariuszowi Służby Więziennej przysługuje jednorazowe odszkodowanie (Dz. U. Nr 147, poz. 989) w załączniku do rozporządzenia dodaje się lp. 22 w brzmieniu: 22 Nadciśnienie tętnicze z powikłaniami Służba w warunkach długotrwałego napięcia psychicznego, wielonarządowymi zaburzenia rytmu dobowego; nadmierny wysiłek fizyczny, sytuacje stresogenne, zwiększona odpowiedzialność
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: B. Budka
 

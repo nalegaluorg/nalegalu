@@ -27,7 +27,11 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041161202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1202/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz.U. Nr 160, poz. 1080, z późn. zm. ) w art. 1 ust. 3 otrzymuje brzmienie: „3. Przepisów ustawy nie stosuje się do: 1) osób, o których mowa w: a) art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz.U. Nr 20, poz. 101, z późn. zm. ), b) art. 2 pkt 1 lit. a)-c) i pkt 3 ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz.U. z 2001 r. Nr 142, poz. 1593 oraz z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806), 2) żołnierzy oraz funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Służby Celnej, Państwowej Straży Pożarnej, Służby Więziennej oraz Biura Ochrony Rządu.”.
+**Art. 1.** W ustawie z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz.U. Nr 160, poz. 1080, z późn. zm. ) w art. 1 ust. 3 otrzymuje brzmienie:
+
+> „3. Przepisów ustawy nie stosuje się do:  
+> 1) osób, o których mowa w:  
+> a) art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz.U. Nr 20, poz. 101, z późn. zm. ), b) art. 2 pkt 1 lit. a)-c) i pkt 3 ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych (Dz.U. z 2001 r. Nr 142, poz. 1593 oraz z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806), 2) żołnierzy oraz funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Służby Celnej, Państwowej Straży Pożarnej, Służby Więziennej oraz Biura Ochrony Rządu.”.  
 
 **Art. 2.** W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz.U. Nr 20, poz. 101 z późn. zm. ) art. 3b otrzymuje brzmienie: „Art. 3b. Do osób zajmujących kierownicze stanowiska państwowe stosuje się odpowiednio przepisy art. 22, 23, 24 ust. 2, art. 26 i 28 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz.U. z 2001 r. Nr 86, poz. 953, z późn. zm. ).”.
 

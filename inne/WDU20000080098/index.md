@@ -27,6 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000080098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/98/text.pdf) |
 
 Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz.U. z 1999 r. Nr 82, poz. 929) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 10 listopada 1999 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej (Dz.U. Nr 91, poz. 1033) w § 1 ust. 3 otrzymuje brzmienie: „3. Minister jest dysponentem części 31 i 44 budżetu państwa.”
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 2000 r.
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 10 listopada 1999 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej (Dz.U. Nr 91, poz. 1033) w § 1 ust. 3 otrzymuje brzmienie: „3. Minister jest dysponentem części 31 i 44 budżetu państwa.”
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 2000 r.
 

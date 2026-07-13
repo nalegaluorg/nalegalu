@@ -26,12 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/855/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich Na podstawie art. 3 ust. 2 pkt 1 ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. z 2022 poz. 2026 oraz z 2023 r. poz. 412) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich (Dz. U. z 2019 r. poz. 655 oraz z 2021 r. poz. 1148) w załączniku nr 1 do rozporządzenia w tabeli lp. 4 otrzymuje brzmienie: 4 Premia zalesieniowa
-1) producent rolny uzyskujący co najmniej 20% dochodów z rolnictwa 1 962
-2) producent rolny uzyskujący mniej niż 20% dochodów z rolnictwa 490
-§ 2. Do przyznawania i wypłaty pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich, w sprawach objętych postępowaniami:
-1) wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
-2) zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, które zostały wznowione od dnia wejścia w życie niniejszego rozporządzenia – stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 czerwca 2023 r.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich (Dz. U. z 2019 r. poz. 655 oraz z 2021 r. poz. 1148) w załączniku nr 1 do rozporządzenia w tabeli lp. 4 otrzymuje brzmienie: 4 Premia zalesieniowa
+
+- **1)** producent rolny uzyskujący co najmniej 20% dochodów z rolnictwa 1 962
+- **2)** producent rolny uzyskujący mniej niż 20% dochodów z rolnictwa 490
+
+**§ 2.** Do przyznawania i wypłaty pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich, w sprawach objętych postępowaniami:
+
+- **1)** wszczętymi i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
+- **2)** zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, które zostały wznowione od dnia wejścia w życie niniejszego rozporządzenia – stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 czerwca 2023 r.
 

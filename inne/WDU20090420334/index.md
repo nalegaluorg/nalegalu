@@ -29,8 +29,20 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz.U. z 2005 r. Nr 240, poz. 2027, z późn. zm. ) w art. 24:
 
-- **a)** ust. 2 i 3 otrzymują brzmienie: „2. Informacje o gruntach, budynkach i lokalach, o których mowa w art. 20 ust. 1 oraz ust. 2 pkt 3 i 4, są jawne i powszechnie dostępne. 3. Starosta wydaje wypis z operatu ewidencyjnego zawierający dane osobowe, o których mowa w art. 20 ust. 2 pkt 1 i 2, na żądanie: 1) właścicieli lub osób fizycznych i prawnych, w których władaniu znajdują się grunty, budynki lub lokale będące przedmiotem wypisu; 2) podmiotów publicznych lub podmiotów niebędących podmiotami publicznymi, realizującymi zadania publiczne na podstawie odrębnych przepisów albo na skutek powierzenia lub zlecenia przez podmiot publiczny, które związane są z gruntami, budynkami lub lokalami będącymi przedmiotem wypisu; 3) innych podmiotów, niż wymienione w pkt 1 i 2, które mają interes prawny związany z gruntami, budynkami lub lokalami będącymi przedmiotem wypisu.”,
-- **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Wypisy i wyrysy z operatu ewidencyjnego wydaje się nieodpłatnie na żądanie: 1) prokuratury; 2) sądów, działających w sprawach publicznych; 3) organów kontroli państwa w związku z wykonywaniem przez te organy ich ustawowych zadań; 4) organów administracji rządowej oraz jednostek samorządu terytorialnego, w związku z ich działaniami dotyczącymi praw do nieruchomości Skarbu Państwa i jednostek samorządu terytorialnego.”.
+- **a)** ust. 2 i 3 otrzymują brzmienie:
+
+  > „2. Informacje o gruntach, budynkach i lokalach, o których mowa w art. 20 ust. 1 oraz ust. 2 pkt 3 i 4, są jawne i powszechnie dostępne.  
+  > 3. Starosta wydaje wypis z operatu ewidencyjnego zawierający dane osobowe, o których mowa w art. 20 ust. 2 pkt 1 i 2, na żądanie:  
+  > 1) właścicieli lub osób fizycznych i prawnych, w których władaniu znajdują się grunty, budynki lub lokale będące przedmiotem wypisu;  
+  > 2) podmiotów publicznych lub podmiotów niebędących podmiotami publicznymi, realizującymi zadania publiczne na podstawie odrębnych przepisów albo na skutek powierzenia lub zlecenia przez podmiot publiczny, które związane są z gruntami, budynkami lub lokalami będącymi przedmiotem wypisu;  
+  > 3) innych podmiotów, niż wymienione w pkt 1 i 2, które mają interes prawny związany z gruntami, budynkami lub lokalami będącymi przedmiotem wypisu.”,  
+- **b)** po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+  > „3a. Wypisy i wyrysy z operatu ewidencyjnego wydaje się nieodpłatnie na żądanie:  
+  > 1) prokuratury;  
+  > 2) sądów, działających w sprawach publicznych;  
+  > 3) organów kontroli państwa w związku z wykonywaniem przez te organy ich ustawowych zadań;  
+  > 4) organów administracji rządowej oraz jednostek samorządu terytorialnego, w związku z ich działaniami dotyczącymi praw do nieruchomości Skarbu Państwa i jednostek samorządu terytorialnego.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

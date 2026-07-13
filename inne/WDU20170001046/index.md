@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wymagań weterynaryjnych przy produkcji produktów mięsnych wędzonych w odniesieniu do najwyższych dopuszczalnych poziomów zanieczyszczeń wielopierścieniowymi węglowodorami aromatycznymi (WWA) Na podstawie art. 11 ust. 2 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2017 r.
 poz. 242 i 471) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 grudnia 2014 r. w sprawie wymagań weterynaryjnych przy produkcji produktów mięsnych wędzonych w odniesieniu do najwyższych dopuszczalnych poziomów zanieczyszczeń wielopierścieniowymi węglowodorami aromatycznymi (WWA) (Dz. U. poz. 1845) w § 1 we wprowadzeniu do wyliczenia wyrazy „Do dnia 31 sierpnia 2017 r. zezwala się” zastępuje się wyrazami „Zezwala się”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 grudnia 2014 r. w sprawie wymagań weterynaryjnych przy produkcji produktów mięsnych wędzonych w odniesieniu do najwyższych dopuszczalnych poziomów zanieczyszczeń wielopierścieniowymi węglowodorami aromatycznymi (WWA) (Dz. U. poz. 1845) w § 1 we wprowadzeniu do wyliczenia wyrazy „Do dnia 31 sierpnia 2017 r. zezwala się” zastępuje się wyrazami „Zezwala się”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

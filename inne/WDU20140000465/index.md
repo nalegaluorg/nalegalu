@@ -31,23 +31,27 @@ poz. 210).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 6 lutego 2013 r. zmieniającego rozporządzenie w sprawie wykazu instytucji powołanych do kontroli jakości surowców używanych do produkcji produktów leczniczych (Dz. U. poz. 210), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: B.A. Arłukowicz
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 16 lutego 2011 r.
 w sprawie wykazu instytucji powołanych do kontroli jakości surowców używanych do produkcji produktów leczniczych Na podstawie art. 48 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2013 r. poz. 727 i 1149) zarządza się, co następuje:
-§ 1. Instytucjami powołanymi do kontroli jakości surowców używanych do produkcji produktów leczniczych, uprawnionymi do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 59 rozporządzenia Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającego wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23), są:
-1) Instytut Biotechnologii i Antybiotyków w Warszawie;
-2) Instytut Farmaceutyczny w Warszawie;
-3) Instytut Hematologii i Transfuzjologii w Warszawie;
-4) Instytut Żywności i Żywienia im. prof. dr med. Aleksandra Szczygła w Warszawie;
-5) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Białymstoku;
-6) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Gdańsku;
-7) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Katowicach;
-8) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Krakowie;
-9) (uchylony);
-10) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Opolu;
-11) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Poznaniu;
-12) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Rzeszowie;
-13) Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym we Wrocławiu;
-14) Narodowy Instytut Leków w Warszawie;
-15) Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny w Warszawie;
-16) Państwowy Instytut Weterynaryjny – Państwowy Instytut Badawczy w Puławach.
-§ 2. Przepisy niniejszego rozporządzenia stosuje się do zgłoszeń celnych dokonanych od dnia 2 stycznia 2011 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
+
+**§ 1.** Instytucjami powołanymi do kontroli jakości surowców używanych do produkcji produktów leczniczych, uprawnionymi do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 59 rozporządzenia Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającego wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23), są:
+
+- **1)** Instytut Biotechnologii i Antybiotyków w Warszawie;
+- **2)** Instytut Farmaceutyczny w Warszawie;
+- **3)** Instytut Hematologii i Transfuzjologii w Warszawie;
+- **4)** Instytut Żywności i Żywienia im. prof. dr med. Aleksandra Szczygła w Warszawie;
+- **5)** Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Białymstoku;
+- **6)** Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Gdańsku;
+- **7)** Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Katowicach;
+- **8)** Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Krakowie;
+- **9)** (uchylony);
+- **10)** Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Opolu;
+- **11)** Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Poznaniu;
+- **12)** Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym w Rzeszowie;
+- **13)** Laboratorium Kontroli Jakości Leków przy Wojewódzkim Inspektoracie Farmaceutycznym we Wrocławiu;
+- **14)** Narodowy Instytut Leków w Warszawie;
+- **15)** Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny w Warszawie;
+- **16)** Państwowy Instytut Weterynaryjny – Państwowy Instytut Badawczy w Puławach.
+
+**§ 2.** Przepisy niniejszego rozporządzenia stosuje się do zgłoszeń celnych dokonanych od dnia 2 stycznia 2011 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 

@@ -27,13 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. z 2018 r.
 poz. 719) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2018 r. poz. 455 i 1676 oraz z 2019 r. poz. 814) wprowadza się następujące zmiany:
-1) w § 2 pkt 14 otrzymuje brzmienie: „14) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Inwestycje w rozwój obszarów leśnych i poprawę żywotności lasów”, poddziałania „Wsparcie na inwestycje zwiększające odporność ekosystemów leśnych i ich wartość dla środowiska” – w odniesieniu do:
-a) obsługi wniosku o przyznanie pomocy, od jego złożenia do kontroli kompletności włącznie,
-b) obsługi kontroli administracyjnej wniosku o przyznanie pomocy.”;
-2) w § 3:
-a) w ust. 6 po wyrazach „§ 2 pkt 14” dodaje się wyrazy „lit. a”,
-b) dodaje się ust. 7 w brzmieniu: „7. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 14 lit. b, udziela się od dnia 12 lipca 2019 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 12 lipca 2019 r.
-Minister Finansów: M. Banaś
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2018 r. poz. 455 i 1676 oraz z 2019 r. poz. 814) wprowadza się następujące zmiany:
+
+- **1)** w § 2 pkt 14 otrzymuje brzmienie: „14) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Inwestycje w rozwój obszarów leśnych i poprawę żywotności lasów”, poddziałania „Wsparcie na inwestycje zwiększające odporność ekosystemów leśnych i ich wartość dla środowiska” – w odniesieniu do: a) obsługi wniosku o przyznanie pomocy, od jego złożenia do kontroli kompletności włącznie, b) obsługi kontroli administracyjnej wniosku o przyznanie pomocy.”;
+- **2)** w § 3:
+    - **a)** w ust. 6 po wyrazach „§ 2 pkt 14” dodaje się wyrazy „lit. a”,
+    - **b)** dodaje się ust. 7 w brzmieniu: „7. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 14 lit. b, udziela się od dnia 12 lipca 2019 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 12 lipca 2019 r. Minister Finansów: M. Banaś
 

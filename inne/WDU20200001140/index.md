@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001140) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1140/text.pdf) |
 
 zmieniające rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Służby Ochrony Państwa Na podstawie art. 81 ust. 6 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2020 r. poz. 384 i 695) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 1820) wprowadza się następujące zmiany:
-1) w § 9 uchyla się ust. 2;
-2) w § 10 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Czasu wolnego udziela się funkcjonariuszowi w tym samym wymiarze co wymiar czasu poświęconego na realizację zadań służbowych:”;
-3) uchyla się § 11.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 1820) wprowadza się następujące zmiany:
+
+- **1)** w § 9 uchyla się ust. 2;
+- **2)** w § 10 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Czasu wolnego udziela się funkcjonariuszowi w tym samym wymiarze co wymiar czasu poświęconego na realizację zadań służbowych:”;
+- **3)** uchyla się § 11.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

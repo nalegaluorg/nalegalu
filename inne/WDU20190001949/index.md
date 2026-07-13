@@ -27,8 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przyznawania, rozliczania i przekazywania środków finansowych na realizację inwestycji związanych z kształceniem oraz działalnością naukową Na podstawie art. 402 pkt 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
 poz. 1668, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 14 marca 2019 r. w sprawie przyznawania, rozliczania i przekazywania środków finansowych na realizację inwestycji związanych z kształceniem oraz działalnością naukową (Dz. U. poz. 533) w § 12 ust. 3 otrzymuje brzmienie: „3. Przepisów ust. 1 i 2 nie stosuje się do inwestycji, o których mowa w § 3 ust. 1 pkt 3 i ust. 2 pkt 2.”.
-§ 2. Do inwestycji ujętych w programach wieloletnich, będących w trakcie realizacji w dniu wejścia w życie niniejszego rozporządzenia, stosuje się przepis § 12 ust. 3 rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: wz. S. Skuza
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 14 marca 2019 r. w sprawie przyznawania, rozliczania i przekazywania środków finansowych na realizację inwestycji związanych z kształceniem oraz działalnością naukową (Dz. U. poz. 533) w § 12 ust. 3 otrzymuje brzmienie: „3. Przepisów ust. 1 i 2 nie stosuje się do inwestycji, o których mowa w § 3 ust. 1 pkt 3 i ust. 2 pkt 2.”.
+
+**§ 2.** Do inwestycji ujętych w programach wieloletnich, będących w trakcie realizacji w dniu wejścia w życie niniejszego rozporządzenia, stosuje się przepis § 12 ust. 3 rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: wz. S. Skuza
 

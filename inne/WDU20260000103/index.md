@@ -34,132 +34,209 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2) odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 11 grudnia 2020 r. zmieniającego rozporządzenie w sprawie szkodliwych czynników biologicznych dla zdrowia w środowisku pracy oraz ochrony zdrowia pracowników zawodowo narażonych na te czynniki (Dz. U. poz. 2234), które stanowią: „ Niniejsze rozporządzenie wdraża dyrektywy: 1) dyrektywę Komisji (UE) 2019/1833 z dnia 24 października 2019 r. zmieniającą załączniki I, III, V i VI do dyrektywy 2000/54/WE Parlamentu Europejskiego i Rady w odniesieniu do dostosowań wyłącznie technicznych (Dz. Urz. UE L 279 z 31.10.2019, str. 54, Dz. Urz. UE L 175 z 04.06.2020, str. 11 oraz Dz. Urz. UE L 195 z 19.06.2020, str. 118); 2) dyrektywę Komisji (UE) 2020/739 z dnia 3 czerwca 2020 r. zmieniającą załącznik III do dyrektywy 2000/54/WE Parlamentu Europejskiego i Rady w odniesieniu do włączenia SARS-CoV-2 do wykazu czynników biologicznych o znanej zakaźności dla ludzi oraz zmieniającą dyrektywę Komisji (UE) 2019/1833 (Dz. Urz. UE L 175 z 04.06.2020, str. 11).” „§ 2. Pracodawcy dokonają aktualizacji: 1) oceny ryzyka zawodowego, na jakie jest lub może być narażony pracownik, sporządzonej przed dniem wejścia w życie niniejszego rozporządzenia, z uwzględnieniem klasyfikacji i wykazu szkodliwych czynników biologicznych określonych w załączniku nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem: a) w zakresie dotyczącym koronawirusa zespołu ostrej niewydolności oddechowej 2 (SARS-CoV-2) – w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia, b) w pozostałym zakresie – do dnia 20 listopada 2021 r.; 2) środków i stopni hermetyczności ustalonych przed dniem wejścia w życie niniejszego rozporządzenia na podstawie § 12 i § 13 rozporządzenia zmienianego w § 1, z uwzględnieniem szkodliwych czynników biologicznych określonych w załączniku nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem: a) w zakresie dotyczącym koronawirusa zespołu ostrej niewydolności oddechowej 2 (SARS-CoV-2) – w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia, b) w pozostałym zakresie – do dnia 20 listopada 2021 r. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. K. Kęcka
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 22 kwietnia 2005 r.
 w sprawie szkodliwych czynników biologicznych dla zdrowia w środowisku pracy oraz ochrony zdrowia pracowników zawodowo narażonych na te czynniki Na podstawie art. 222 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) klasyfikację i wykaz szkodliwych czynników biologicznych;
-2) wykaz prac narażających pracowników na działanie czynników biologicznych;
-3) szczegółowe warunki ochrony pracowników przed zagrożeniami spowodowanymi przez szkodliwe czynniki biologiczne, w tym rodzaje środków niezbędnych do zapewnienia ochrony zdrowia i życia pracowników narażonych na działanie tych czynników, zakres stosowania tych środków oraz warunki i sposób monitorowania stanu zdrowia narażonych pracowników;
-4) sposób prowadzenia rejestru prac narażających pracowników na działanie szkodliwych czynników biologicznych i rejestru pracowników zatrudnionych przy tych pracach oraz sposób przechowywania i przekazywania tych rejestrów do podmiotów właściwych do rozpoznawania lub stwierdzania choroby zawodowej.
-§ 2. 1. Szkodliwe czynniki biologiczne mogące być przyczyną zakażenia, alergii lub zatrucia obejmują:
-1) drobnoustroje komórkowe, w tym zmodyfikowane genetycznie;
-2) jednostki bezkomórkowe zdolne do replikacji lub przenoszenia materiału genetycznego, w tym zmodyfikowane genetycznie;
-3) hodowle komórkowe;
-4) pasożyty wewnętrzne człowieka.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** klasyfikację i wykaz szkodliwych czynników biologicznych;
+- **2)** wykaz prac narażających pracowników na działanie czynników biologicznych;
+- **3)** szczegółowe warunki ochrony pracowników przed zagrożeniami spowodowanymi przez szkodliwe czynniki biologiczne, w tym rodzaje środków niezbędnych do zapewnienia ochrony zdrowia i życia pracowników narażonych na działanie tych czynników, zakres stosowania tych środków oraz warunki i sposób monitorowania stanu zdrowia narażonych pracowników;
+- **4)** sposób prowadzenia rejestru prac narażających pracowników na działanie szkodliwych czynników biologicznych i rejestru pracowników zatrudnionych przy tych pracach oraz sposób przechowywania i przekazywania tych rejestrów do podmiotów właściwych do rozpoznawania lub stwierdzania choroby zawodowej.
+
+**§ 2.**
+
+1. Szkodliwe czynniki biologiczne mogące być przyczyną zakażenia, alergii lub zatrucia obejmują:
+
+- **1)** drobnoustroje komórkowe, w tym zmodyfikowane genetycznie;
+- **2)** jednostki bezkomórkowe zdolne do replikacji lub przenoszenia materiału genetycznego, w tym zmodyfikowane genetycznie;
+- **3)** hodowle komórkowe;
+- **4)** pasożyty wewnętrzne człowieka.
+
 2. Klasyfikacja i wykaz szkodliwych czynników biologicznych są określone w załączniku nr 1 do rozporządzenia.
-§ 3. Wykaz prac narażających pracowników na działanie czynników biologicznych jest określony w załączniku nr 2 do rozporządzenia.
-§ 4. 1. W celu ochrony pracowników przed zagrożeniami spowodowanymi przez szkodliwy czynnik biologiczny pracodawca jest obowiązany do stosowania, na warunkach określonych w rozporządzeniu, wszelkich dostępnych środków eliminujących narażenie lub ograniczających stopień tego narażenia, zwanych dalej „środkami zapobiegawczymi”.
+
+**§ 3.** Wykaz prac narażających pracowników na działanie czynników biologicznych jest określony w załączniku nr 2 do rozporządzenia.
+
+**§ 4.**
+
+1. W celu ochrony pracowników przed zagrożeniami spowodowanymi przez szkodliwy czynnik biologiczny pracodawca jest obowiązany do stosowania, na warunkach określonych w rozporządzeniu, wszelkich dostępnych środków eliminujących narażenie lub ograniczających stopień tego narażenia, zwanych dalej „środkami zapobiegawczymi”.
+
 2. Jeżeli pracownik jest zatrudniony w warunkach narażenia na działanie szkodliwego czynnika biologicznego zakwalifikowanego do grupy 1 zagrożenia, pracodawca stosuje środki zapobiegawcze określone w przepisach z zakresu bezpieczeństwa i higieny pracy.
+
 3. Jeżeli w środowisku pracy występują mikroorganizmy genetycznie zmodyfikowane, co do których istnieje podejrzenie, że mogą wykazywać właściwości chorobotwórcze, pracodawca, w zakresie swojej właściwości, zapewnia warunki określone w przepisach ustawy z dnia 22 czerwca 2001 r. o mikroorganizmach i organizmach genetycznie zmodyfikowanych (Dz. U. z 2022 r. poz. 546).
+
 4. Jeżeli w środowisku pracy występują mikroorganizmy o nieustalonej przynależności gatunkowej, co do których istnieje podejrzenie, że mogą wykazywać właściwości chorobotwórcze, pracodawca, w zakresie swojej właściwości, zapewnia środki zapobiegawcze, przewidziane dla szkodliwego czynnika biologicznego zakwalifikowanego do najwyższej grupy zagrożenia.
-§ 5. 1. Przed wyborem środka zapobiegawczego pracodawca dokonuje oceny ryzyka zawodowego, na jakie jest lub może być narażony pracownik, uwzględniając w szczególności:
-1) klasyfikację i wykaz szkodliwych czynników biologicznych;
-2) rodzaj, stopień oraz czas trwania narażenia na działanie szkodliwego czynnika biologicznego;
-3) informację na temat:
-a) potencjalnego działania alergizującego lub toksycznego szkodliwego czynnika biologicznego,
-b) choroby, która może wystąpić w następstwie wykonywanej pracy,
-c) stwierdzonej choroby, która ma bezpośredni związek z wykonywaną pracą;
-4) wskazówki organów właściwej inspekcji sanitarnej, Państwowej Inspekcji Pracy oraz jednostek służby medycyny pracy.
+
+**§ 5.**
+
+1. Przed wyborem środka zapobiegawczego pracodawca dokonuje oceny ryzyka zawodowego, na jakie jest lub może być narażony pracownik, uwzględniając w szczególności:
+
+- **1)** klasyfikację i wykaz szkodliwych czynników biologicznych;
+- **2)** rodzaj, stopień oraz czas trwania narażenia na działanie szkodliwego czynnika biologicznego;
+- **3)** informację na temat:
+    - **a)** potencjalnego działania alergizującego lub toksycznego szkodliwego czynnika biologicznego,
+    - **b)** choroby, która może wystąpić w następstwie wykonywanej pracy,
+    - **c)** stwierdzonej choroby, która ma bezpośredni związek z wykonywaną pracą;
+
+- **4)** wskazówki organów właściwej inspekcji sanitarnej, Państwowej Inspekcji Pracy oraz jednostek służby medycyny pracy.
+
 2. W zakładach opieki zdrowotnej i zakładach leczniczych dla zwierząt pracodawca uwzględnia ponadto:
-1) informację na temat potencjalnego występowania szkodliwego czynnika biologicznego u pacjenta lub zwierzęcia oraz w materiale i próbkach od nich pobranych;
-2) zagrożenie ze strony szkodliwego czynnika biologicznego, o którym wiadomo, że jest obecny lub którego obecność jest podejrzewana u pacjenta lub u zwierzęcia oraz w materiałach i próbkach od nich pobranych;
-3) ryzyko wynikające z rodzaju pracy.
-§ 6. Ocena ryzyka, o której mowa w § 5, powinna być aktualizowana w szczególności w odniesieniu do zmian mających znaczenie dla zdrowia pracowników w miejscu pracy.
-§ 7. Stosowanie środków zapobiegawczych nie zwalnia pracodawcy od obowiązku:
-1) unikania stosowania szkodliwego czynnika biologicznego, jeżeli rodzaj prowadzonej działalności na to pozwala, poprzez jego zastąpienie innym czynnikiem biologicznym, który zgodnie z warunkami używania nie jest niebezpieczny lub jest mniej niebezpieczny dla zdrowia pracownika;
-2) prowadzenia rejestru prac narażających pracowników na działanie szkodliwego czynnika biologicznego zakwalifikowanego do grupy 3 lub 4 zagrożenia, w formie elektronicznej lub księgi rejestrowej, uwzględniającego w szczególności informacje dotyczące:
-a) liczby pracowników wykonujących te prace,
-b) wykazu czynności, podczas których pracownik jest lub może być narażony na działanie szkodliwych czynników biologicznych,
-c) imienia, nazwiska, stanowiska oraz telefonu kontaktowego pracodawcy lub osoby przez niego upoważnionej do nadzoru w zakresie bezpieczeństwa i higieny pracy;
-3) ograniczania liczby pracowników narażonych lub potencjalnie narażonych na działanie szkodliwego czynnika biologicznego;
-4) projektowania procesu pracy w sposób pozwalający na uniknięcie lub zminimalizowanie uwalniania się szkodliwego czynnika biologicznego w miejscu pracy;
-5) zapewniania pracownikom środków ochrony zbiorowej lub w przypadku gdy w inny sposób nie można uniknąć narażenia, środków ochrony indywidualnej, odpowiednich do rodzaju i poziomu narażenia;
-6) zapewniania pracownikom środków hermetyczności w celu zapobiegania i redukcji przypadkowego przeniesienia lub uwolnienia szkodliwego czynnika biologicznego;
-7) stosowania znaku ostrzegającego przed zagrożeniem biologicznym, który jest określony w załączniku nr 3 do rozporządzenia, oraz innych znaków ostrzegawczych;
-8) sporządzenia planu postępowania na wypadek awarii z udziałem szkodliwego czynnika biologicznego zakwalifikowanego do grupy 3 lub 4 zagrożenia;
-9) przeprowadzania badań na obecność szkodliwego czynnika biologicznego, tam gdzie jest to konieczne i technicznie wykonalne, z wyłączeniem pierwotnie zamkniętej przestrzeni;
-10) zapewniania warunków bezpiecznego zbierania, przechowywania oraz usuwania odpadów przez pracowników, z zastosowaniem bezpiecznych i oznakowanych pojemników;
-11) stosowania procedur bezpiecznego postępowania ze szkodliwymi czynnikami biologicznymi;
-12) zapewniania pracownikom systematycznego szkolenia;
-13) poinformowania pracownika o badaniach lekarskich, z których pracownik może skorzystać po ustaniu narażenia;
-14) prowadzenia rejestru pracowników narażonych na działanie szkodliwych czynników biologicznych zakwalifikowanych do grupy 3 lub 4 zagrożenia, w formie elektronicznej lub księgi rejestrowej, uwzględniając w szczególności informacje dotyczące:
-a) rodzaju wykonywanej pracy,
-b) stopnia zagrożenia spowodowanego działaniem szkodliwego czynnika biologicznego,
-c) awarii i wypadków związanych z narażeniem na działanie szkodliwego czynnika biologicznego,
-d) wyniku przeprowadzonej oceny ryzyka z podaniem nazwy szkodliwego czynnika biologicznego i grupy zagrożenia,
-e) liczby pracowników narażonych na działanie szkodliwego czynnika biologicznego,
-f) imienia, nazwiska, stanowiska oraz numeru telefonu kontaktowego osoby odpowiedzialnej u pracodawcy za bezpieczeństwo i higienę pracy oraz ochronę zdrowia pracowników;
-15) informowania na wniosek pracownika lub jego przedstawiciela o:
-a) liczbie pracowników narażonych,
-b) osobie odpowiedzialnej za bezpieczeństwo i higienę pracy oraz ochronę zdrowia pracowników.
-§ 8. 1. Informację dotyczącą użycia szkodliwego czynnika biologicznego w celach naukowo-badawczych, diagnostycznych lub przemysłowych pracodawca przekazuje właściwemu inspektorowi sanitarnemu:
-1) co najmniej 30 dni przed dniem użycia po raz pierwszy szkodliwego czynnika biologicznego zakwalifikowanego do grupy 2–4 zagrożenia;
-2) w każdym przypadku, gdy zachodzą istotne zmiany mające znaczenie dla bezpieczeństwa i zdrowia pracownika w miejscu pracy;
-3) w ciągu 30 dni po zakończeniu działalności przez przedsiębiorstwo lub zakład;
-4) niezwłocznie, w przypadku każdej awarii lub wypadku, które mogły spowodować uwolnienie się szkodliwego czynnika biologicznego zakwalifikowanego do grupy 2–4 zagrożenia.
+
+- **1)** informację na temat potencjalnego występowania szkodliwego czynnika biologicznego u pacjenta lub zwierzęcia oraz w materiale i próbkach od nich pobranych;
+- **2)** zagrożenie ze strony szkodliwego czynnika biologicznego, o którym wiadomo, że jest obecny lub którego obecność jest podejrzewana u pacjenta lub u zwierzęcia oraz w materiałach i próbkach od nich pobranych;
+- **3)** ryzyko wynikające z rodzaju pracy.
+
+**§ 6.** Ocena ryzyka, o której mowa w § 5, powinna być aktualizowana w szczególności w odniesieniu do zmian mających znaczenie dla zdrowia pracowników w miejscu pracy.
+
+**§ 7.** Stosowanie środków zapobiegawczych nie zwalnia pracodawcy od obowiązku:
+
+- **1)** unikania stosowania szkodliwego czynnika biologicznego, jeżeli rodzaj prowadzonej działalności na to pozwala, poprzez jego zastąpienie innym czynnikiem biologicznym, który zgodnie z warunkami używania nie jest niebezpieczny lub jest mniej niebezpieczny dla zdrowia pracownika;
+- **2)** prowadzenia rejestru prac narażających pracowników na działanie szkodliwego czynnika biologicznego zakwalifikowanego do grupy 3 lub 4 zagrożenia, w formie elektronicznej lub księgi rejestrowej, uwzględniającego w szczególności informacje dotyczące:
+    - **a)** liczby pracowników wykonujących te prace,
+    - **b)** wykazu czynności, podczas których pracownik jest lub może być narażony na działanie szkodliwych czynników biologicznych,
+    - **c)** imienia, nazwiska, stanowiska oraz telefonu kontaktowego pracodawcy lub osoby przez niego upoważnionej do nadzoru w zakresie bezpieczeństwa i higieny pracy;
+
+- **3)** ograniczania liczby pracowników narażonych lub potencjalnie narażonych na działanie szkodliwego czynnika biologicznego;
+- **4)** projektowania procesu pracy w sposób pozwalający na uniknięcie lub zminimalizowanie uwalniania się szkodliwego czynnika biologicznego w miejscu pracy;
+- **5)** zapewniania pracownikom środków ochrony zbiorowej lub w przypadku gdy w inny sposób nie można uniknąć narażenia, środków ochrony indywidualnej, odpowiednich do rodzaju i poziomu narażenia;
+- **6)** zapewniania pracownikom środków hermetyczności w celu zapobiegania i redukcji przypadkowego przeniesienia lub uwolnienia szkodliwego czynnika biologicznego;
+- **7)** stosowania znaku ostrzegającego przed zagrożeniem biologicznym, który jest określony w załączniku nr 3 do rozporządzenia, oraz innych znaków ostrzegawczych;
+- **8)** sporządzenia planu postępowania na wypadek awarii z udziałem szkodliwego czynnika biologicznego zakwalifikowanego do grupy 3 lub 4 zagrożenia;
+- **9)** przeprowadzania badań na obecność szkodliwego czynnika biologicznego, tam gdzie jest to konieczne i technicznie wykonalne, z wyłączeniem pierwotnie zamkniętej przestrzeni;
+- **10)** zapewniania warunków bezpiecznego zbierania, przechowywania oraz usuwania odpadów przez pracowników, z zastosowaniem bezpiecznych i oznakowanych pojemników;
+- **11)** stosowania procedur bezpiecznego postępowania ze szkodliwymi czynnikami biologicznymi;
+- **12)** zapewniania pracownikom systematycznego szkolenia;
+- **13)** poinformowania pracownika o badaniach lekarskich, z których pracownik może skorzystać po ustaniu narażenia;
+- **14)** prowadzenia rejestru pracowników narażonych na działanie szkodliwych czynników biologicznych zakwalifikowanych do grupy 3 lub 4 zagrożenia, w formie elektronicznej lub księgi rejestrowej, uwzględniając w szczególności informacje dotyczące:
+    - **a)** rodzaju wykonywanej pracy,
+    - **b)** stopnia zagrożenia spowodowanego działaniem szkodliwego czynnika biologicznego,
+    - **c)** awarii i wypadków związanych z narażeniem na działanie szkodliwego czynnika biologicznego,
+    - **d)** wyniku przeprowadzonej oceny ryzyka z podaniem nazwy szkodliwego czynnika biologicznego i grupy zagrożenia,
+    - **e)** liczby pracowników narażonych na działanie szkodliwego czynnika biologicznego,
+    - **f)** imienia, nazwiska, stanowiska oraz numeru telefonu kontaktowego osoby odpowiedzialnej u pracodawcy za bezpieczeństwo i higienę pracy oraz ochronę zdrowia pracowników;
+
+- **15)** informowania na wniosek pracownika lub jego przedstawiciela o:
+    - **a)** liczbie pracowników narażonych,
+    - **b)** osobie odpowiedzialnej za bezpieczeństwo i higienę pracy oraz ochronę zdrowia pracowników.
+
+**§ 8.**
+
+1. Informację dotyczącą użycia szkodliwego czynnika biologicznego w celach naukowo-badawczych, diagnostycznych lub przemysłowych pracodawca przekazuje właściwemu inspektorowi sanitarnemu:
+
+- **1)** co najmniej 30 dni przed dniem użycia po raz pierwszy szkodliwego czynnika biologicznego zakwalifikowanego do grupy 2–4 zagrożenia;
+- **2)** w każdym przypadku, gdy zachodzą istotne zmiany mające znaczenie dla bezpieczeństwa i zdrowia pracownika w miejscu pracy;
+- **3)** w ciągu 30 dni po zakończeniu działalności przez przedsiębiorstwo lub zakład;
+- **4)** niezwłocznie, w przypadku każdej awarii lub wypadku, które mogły spowodować uwolnienie się szkodliwego czynnika biologicznego zakwalifikowanego do grupy 2–4 zagrożenia.
+
 2. Informacja, o której mowa w ust. 1, uwzględnia w szczególności:
-1) nazwę i adres przedsiębiorstwa lub zakładu oraz rodzaj prowadzonej działalności;
-2) komórkę organizacyjną lub stanowisko pracy, w którym występuje narażenie objęte zgłoszeniem;
-3) imię, nazwisko, stanowisko służbowe oraz numer telefonu kontaktowego osoby odpowiedzialnej u pracodawcy za bezpieczeństwo i higienę pracy oraz ochronę zdrowia pracowników;
-4) wynik przeprowadzonej oceny ryzyka zawodowego z podaniem nazwy szkodliwego czynnika biologicznego i grupy zagrożenia, rodzaju wykonywanej pracy i czasu narażenia;
-5) przewidywane środki zapobiegawcze;
-6) liczbę narażonych pracowników.
+
+- **1)** nazwę i adres przedsiębiorstwa lub zakładu oraz rodzaj prowadzonej działalności;
+- **2)** komórkę organizacyjną lub stanowisko pracy, w którym występuje narażenie objęte zgłoszeniem;
+- **3)** imię, nazwisko, stanowisko służbowe oraz numer telefonu kontaktowego osoby odpowiedzialnej u pracodawcy za bezpieczeństwo i higienę pracy oraz ochronę zdrowia pracowników;
+- **4)** wynik przeprowadzonej oceny ryzyka zawodowego z podaniem nazwy szkodliwego czynnika biologicznego i grupy zagrożenia, rodzaju wykonywanej pracy i czasu narażenia;
+- **5)** przewidywane środki zapobiegawcze;
+- **6)** liczbę narażonych pracowników.
+
 3. Laboratoria świadczące usługi diagnostyczne w odniesieniu do szkodliwych czynników biologicznych zakwalifikowanych do grupy 4 zagrożenia przekazują właściwemu inspektorowi sanitarnemu wyłącznie informacje, o których mowa w ust. 1 pkt 1 i 3.
-§ 9. 1. Szkolenie, o którym mowa w § 7 pkt 12, obejmuje zagadnienia dotyczące:
-1) potencjalnego zagrożenia dla zdrowia i życia pracowników spowodowanego działaniem szkodliwego czynnika biologicznego;
-2) środków, które należy podjąć w celu zapobiegania zagrożeniom spowodowanym działaniem szkodliwego czynnika biologicznego;
-3) wymagań higieniczno-sanitarnych;
-4) wyposażenia i stosowania środków ochrony zbiorowej i indywidualnej;
-5) działań, które pracownicy podejmują w razie występowania awarii lub wypadków, lub dla ich zapobiegania.
+
+**§ 9.**
+
+1. Szkolenie, o którym mowa w § 7 pkt 12, obejmuje zagadnienia dotyczące:
+
+- **1)** potencjalnego zagrożenia dla zdrowia i życia pracowników spowodowanego działaniem szkodliwego czynnika biologicznego;
+- **2)** środków, które należy podjąć w celu zapobiegania zagrożeniom spowodowanym działaniem szkodliwego czynnika biologicznego;
+- **3)** wymagań higieniczno-sanitarnych;
+- **4)** wyposażenia i stosowania środków ochrony zbiorowej i indywidualnej;
+- **5)** działań, które pracownicy podejmują w razie występowania awarii lub wypadków, lub dla ich zapobiegania.
+
 2. Szkolenie jest przeprowadzane w trybie określonym w przepisach w sprawie szkolenia w dziedzinie bezpieczeństwa i higieny pracy.
-§ 10. 1. Rejestr, o którym mowa w § 7 pkt 14, pracodawca przechowuje przez okres niekrótszy niż 10 lat od dnia ustania narażenia, z zastrzeżeniem ust. 2.
+
+**§ 10.**
+
+1. Rejestr, o którym mowa w § 7 pkt 14, pracodawca przechowuje przez okres niekrótszy niż 10 lat od dnia ustania narażenia, z zastrzeżeniem ust. 2.
+
 2. W przypadku narażenia na szkodliwy czynnik biologiczny, który może być przyczyną choroby:
-1) przewlekłej lub utajonej,
-2) która, w świetle obecnej wiedzy, jest niemożliwa do zdiagnozowania do czasu rozwinięcia się choroby,
-3) o wyjątkowo długim okresie wylęgania,
-4) o nawracającym charakterze w długim okresie pomimo leczenia,
-5) mogącej powodować poważne, długookresowe powikłania – rejestr przechowywany jest przez okres 40 lat od dnia ostatniego odnotowanego przypadku narażenia.
+
+- **1)** przewlekłej lub utajonej,
+- **2)** która, w świetle obecnej wiedzy, jest niemożliwa do zdiagnozowania do czasu rozwinięcia się choroby,
+- **3)** o wyjątkowo długim okresie wylęgania,
+- **4)** o nawracającym charakterze w długim okresie pomimo leczenia,
+- **5)** mogącej powodować poważne, długookresowe powikłania – rejestr przechowywany jest przez okres 40 lat od dnia ostatniego odnotowanego przypadku narażenia.
+
 3. Pracownikowi lub przedstawicielowi pracownika udostępnia się informacje zawarte w rejestrze, o którym mowa w § 7 pkt 14:
-1) w pełnym zakresie – w przypadku gdy informacja dotyczy tego pracownika;
-2) w zakresie ograniczonym zapewniającym anonimowość osób, których informacja dotyczy – w przypadku gdy informacja dotyczy innych pracowników.
+
+- **1)** w pełnym zakresie – w przypadku gdy informacja dotyczy tego pracownika;
+- **2)** w zakresie ograniczonym zapewniającym anonimowość osób, których informacja dotyczy – w przypadku gdy informacja dotyczy innych pracowników.
+
 4. Dostęp do rejestru, o którym mowa w § 7 pkt 14, posiada właściwa jednostka organizacyjna służby medycyny pracy, właściwy inspektor sanitarny oraz właściwy inspektor pracy.
+
 5. W przypadku likwidacji lub upadłości pracodawcy przekazuje on rejestr właściwemu ze względu na swoją siedzibę wojewódzkiemu ośrodkowi medycyny pracy oraz właściwemu inspektorowi sanitarnemu.
-§ 11. 1. W ramach ochrony pracownika przed zagrożeniem spowodowanym przez szkodliwy czynnik biologiczny pracodawca jest ponadto obowiązany do:
-1) zapewnienia pracownikowi bezpiecznych warunków spożywania posiłków i napojów w wydzielonych pomieszczeniach;
-2) wyposażenia pracownika w odpowiednie środki ochrony indywidualnej i przechowywania ich w wyraźnie oznakowanym miejscu;
-3) zapewnienia właściwych pomieszczeń, urządzeń higieniczno-sanitarnych, a także środków higieny osobistej oraz, jeżeli to konieczne, środków do odkażania skóry lub błon śluzowych;
-4) stworzenia i stosowania procedur:
-a) pobierania, transportu oraz przetwarzania próbek i materiałów pochodzenia ludzkiego lub zwierzęcego,
-b) dezynfekcji,
-c) umożliwiających bezpieczne usuwanie i postępowanie ze skażonymi odpadami;
-5) zapewnienia bezpiecznych warunków odkażania, czyszczenia, a w razie konieczności niszczenia odzieży, środków ochrony indywidualnej i wyposażenia, które uległy skażeniu szkodliwym czynnikiem biologicznym;
-6) dostarczenia pracownikowi aktualnych pisemnych instrukcji postępowania ze szkodliwym czynnikiem biologicznym;
-7) niezwłocznego informowania wszystkich pracowników narażonych w wyniku awarii lub wypadku lub ich przedstawiciela o tym zdarzeniu, jeżeli mogło ono spowodować uwolnienie się szkodliwego czynnika biologicznego, a także o jego przyczynach oraz podjętych i proponowanych środkach mających na celu opanowanie sytuacji;
-8) podjęcia natychmiastowych działań mających na celu likwidację przyczyn i skutków zaistniałej awarii lub wypadku;
-9) zgłaszania awarii lub wypadku związanego z uwolnieniem się szkodliwego czynnika biologicznego, w zależności od jego rodzaju, do właściwych jednostek służby medycyny pracy oraz właściwego inspektora sanitarnego.
+
+**§ 11.**
+
+1. W ramach ochrony pracownika przed zagrożeniem spowodowanym przez szkodliwy czynnik biologiczny pracodawca jest ponadto obowiązany do:
+
+- **1)** zapewnienia pracownikowi bezpiecznych warunków spożywania posiłków i napojów w wydzielonych pomieszczeniach;
+- **2)** wyposażenia pracownika w odpowiednie środki ochrony indywidualnej i przechowywania ich w wyraźnie oznakowanym miejscu;
+- **3)** zapewnienia właściwych pomieszczeń, urządzeń higieniczno-sanitarnych, a także środków higieny osobistej oraz, jeżeli to konieczne, środków do odkażania skóry lub błon śluzowych;
+- **4)** stworzenia i stosowania procedur:
+    - **a)** pobierania, transportu oraz przetwarzania próbek i materiałów pochodzenia ludzkiego lub zwierzęcego,
+    - **b)** dezynfekcji,
+    - **c)** umożliwiających bezpieczne usuwanie i postępowanie ze skażonymi odpadami;
+
+- **5)** zapewnienia bezpiecznych warunków odkażania, czyszczenia, a w razie konieczności niszczenia odzieży, środków ochrony indywidualnej i wyposażenia, które uległy skażeniu szkodliwym czynnikiem biologicznym;
+- **6)** dostarczenia pracownikowi aktualnych pisemnych instrukcji postępowania ze szkodliwym czynnikiem biologicznym;
+- **7)** niezwłocznego informowania wszystkich pracowników narażonych w wyniku awarii lub wypadku lub ich przedstawiciela o tym zdarzeniu, jeżeli mogło ono spowodować uwolnienie się szkodliwego czynnika biologicznego, a także o jego przyczynach oraz podjętych i proponowanych środkach mających na celu opanowanie sytuacji;
+- **8)** podjęcia natychmiastowych działań mających na celu likwidację przyczyn i skutków zaistniałej awarii lub wypadku;
+- **9)** zgłaszania awarii lub wypadku związanego z uwolnieniem się szkodliwego czynnika biologicznego, w zależności od jego rodzaju, do właściwych jednostek służby medycyny pracy oraz właściwego inspektora sanitarnego.
+
 2. Instrukcje, o których mowa w ust. 1 pkt 6, obejmują także procedurę postępowania ze szkodliwym czynnikiem biologicznym w razie:
-1) awarii lub wypadku związanych z uwolnieniem się szkodliwego czynnika biologicznego;
-2) narażenia na szkodliwy czynnik biologiczny zakwalifikowany do grupy 3 lub 4 zagrożenia.
-§ 12. 1. W laboratoriach, w tym w laboratoriach diagnostycznych, oraz w pomieszczeniach dla zwierząt laboratoryjnych, które zostały celowo zainfekowane szkodliwymi czynnikami biologicznymi zakwalifikowanymi do grupy 2–4 zagrożenia lub które są podejrzane o zainfekowanie takimi czynnikami, do celów badawczych, rozwoju, edukacji lub diagnostyki, po przeprowadzeniu oceny narażenia oraz ustaleniu stopnia hermetyczności wymaganego dla poszczególnych szkodliwych czynników biologicznych, przyjmuje się odpowiednie środki hermetyczności.
+
+- **1)** awarii lub wypadku związanych z uwolnieniem się szkodliwego czynnika biologicznego;
+- **2)** narażenia na szkodliwy czynnik biologiczny zakwalifikowany do grupy 3 lub 4 zagrożenia.
+
+**§ 12.**
+
+1. W laboratoriach, w tym w laboratoriach diagnostycznych, oraz w pomieszczeniach dla zwierząt laboratoryjnych, które zostały celowo zainfekowane szkodliwymi czynnikami biologicznymi zakwalifikowanymi do grupy 2–4 zagrożenia lub które są podejrzane o zainfekowanie takimi czynnikami, do celów badawczych, rozwoju, edukacji lub diagnostyki, po przeprowadzeniu oceny narażenia oraz ustaleniu stopnia hermetyczności wymaganego dla poszczególnych szkodliwych czynników biologicznych, przyjmuje się odpowiednie środki hermetyczności.
+
 2. W miejscach wymienionych w ust. 1 czynności związane z narażeniem na szkodliwe czynniki biologiczne są prowadzone na stanowiskach pracy do tego wyznaczonych odpowiadających przynajmniej:
-1) 2. stopniowi hermetyczności, dla szkodliwego czynnika biologicznego zakwalifikowanego do grupy 2 zagrożenia;
-2) 3. stopniowi hermetyczności, dla szkodliwego czynnika biologicznego zakwalifikowanego do grupy 3 zagrożenia;
-3) 4. stopniowi hermetyczności, dla szkodliwego czynnika biologicznego zakwalifikowanego do grupy 4 zagrożenia.
-3. Jeżeli w miejscach wymienionych w ust. 1 prowadzone są prace z materiałami, w odniesieniu do których istnieje niepewność co do obecności szkodliwych czynników biologicznych mogących wywoływać choroby u ludzi, a których celem nie jest prowadzenie badań nad tymi czynnikami, w tym prowadzenie hodowli lub ich gromadzenie, stosuje się 2.
-stopień hermetyczności, a stopnie hermetyczności 3. lub 4. wtedy, gdy zachodzi taka konieczność.
+
+- **1)** 2. stopniowi hermetyczności, dla szkodliwego czynnika biologicznego zakwalifikowanego do grupy 2 zagrożenia;
+- **2)** 3. stopniowi hermetyczności, dla szkodliwego czynnika biologicznego zakwalifikowanego do grupy 3 zagrożenia;
+- **3)** 4. stopniowi hermetyczności, dla szkodliwego czynnika biologicznego zakwalifikowanego do grupy 4 zagrożenia.
+
+3. Jeżeli w miejscach wymienionych w ust. 1 prowadzone są prace z materiałami, w odniesieniu do których istnieje niepewność co do obecności szkodliwych czynników biologicznych mogących wywoływać choroby u ludzi, a których celem nie jest prowadzenie badań nad tymi czynnikami, w tym prowadzenie hodowli lub ich gromadzenie, stosuje się 2. stopień hermetyczności, a stopnie hermetyczności 3. lub 4. wtedy, gdy zachodzi taka konieczność.
+
 4. W pomieszczeniach izolacyjnych, w których przebywają ludzie lub zwierzęta zakażeni lub podejrzani o zakażenie szkodliwym czynnikiem biologicznym zakwalifikowanym do grupy 3 lub 4 zagrożenia, stosuje się środki hermetyczności.
+
 5. Środki hermetyczności i stopnie hermetyczności dla laboratoriów, zwierzętarni, pomieszczeń izolacyjnych dla ludzi i zwierząt są określone w załączniku nr 4 do rozporządzenia.
-§ 13. 1. Do procesów przemysłowych, w trakcie których stosowane są szkodliwe czynniki biologiczne zakwalifikowane do grupy 2–4 zagrożenia, stosuje się odpowiednio § 12 ust. 2, z uwzględnieniem stopni hermetyczności i środków hermetyczności.
+
+**§ 13.**
+
+1. Do procesów przemysłowych, w trakcie których stosowane są szkodliwe czynniki biologiczne zakwalifikowane do grupy 2–4 zagrożenia, stosuje się odpowiednio § 12 ust. 2, z uwzględnieniem stopni hermetyczności i środków hermetyczności.
+
 2. Właściwy inspektor sanitarny oraz właściwy inspektor pracy, na podstawie oceny ryzyka związanego z wykorzystaniem szkodliwych czynników biologicznych zakwalifikowanych do grupy 2–4 zagrożenia, mogą nakazać stosowanie odpowiednich środków hermetyczności w wykorzystaniu przemysłowym szkodliwych czynników biologicznych.
+
 3. Środki hermetyczności i stopnie hermetyczności dla procesów przemysłowych określa załącznik nr 5 do rozporządzenia.
-§ 14. Jeżeli w wyniku analiz nie jest możliwe przeprowadzenie rozstrzygającej oceny szkodliwości czynnika biologicznego i zachodzi podejrzenie, że zastosowanie danego czynnika może stanowić poważne zagrożenie dla zdrowia pracowników, prace i procesy określone w § 12 i § 13 są prowadzone wyłącznie na stanowiskach pracy, gdzie zapewniony jest przynajmniej 3. stopień hermetyczności.
-§ 15. 1. W przypadku rozpoznania u pracownika choroby, która może być skutkiem narażenia na działanie szkodliwego czynnika biologicznego, do obowiązków pracodawcy należy:
-1) poinformowanie właściwego inspektora sanitarnego o zaistniałym przypadku zachorowania;
-2) zapewnienie pozostałym pracownikom narażonym na działanie szkodliwego czynnika biologicznego, w takim stopniu jak choremu pracownikowi, możliwości przeprowadzenia badań lekarskich;
-3) przeprowadzenie ponownej oceny ryzyka na stanowisku pracy;
-4) eliminacja powstałego zagrożenia.
+
+**§ 14.** Jeżeli w wyniku analiz nie jest możliwe przeprowadzenie rozstrzygającej oceny szkodliwości czynnika biologicznego i zachodzi podejrzenie, że zastosowanie danego czynnika może stanowić poważne zagrożenie dla zdrowia pracowników, prace i procesy określone w § 12 i § 13 są prowadzone wyłącznie na stanowiskach pracy, gdzie zapewniony jest przynajmniej 3. stopień hermetyczności.
+
+**§ 15.**
+
+1. W przypadku rozpoznania u pracownika choroby, która może być skutkiem narażenia na działanie szkodliwego czynnika biologicznego, do obowiązków pracodawcy należy:
+
+- **1)** poinformowanie właściwego inspektora sanitarnego o zaistniałym przypadku zachorowania;
+- **2)** zapewnienie pozostałym pracownikom narażonym na działanie szkodliwego czynnika biologicznego, w takim stopniu jak choremu pracownikowi, możliwości przeprowadzenia badań lekarskich;
+- **3)** przeprowadzenie ponownej oceny ryzyka na stanowisku pracy;
+- **4)** eliminacja powstałego zagrożenia.
+
 2. Przepis ust. 1 stosuje się również, gdy nastąpił zgon pracownika, wywołany działaniem szkodliwego czynnika biologicznego w miejscu pracy.
-§ 16. 1. W przypadku wystąpienia lub możliwości wystąpienia w środowisku pracy szkodliwego czynnika biologicznego, przeciw któremu jest dostępna szczepionka, stosuje się odpowiednio przepisy ustawy z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. poz. 1384, z późn. zm. ) .
+
+**§ 16.**
+
+1. W przypadku wystąpienia lub możliwości wystąpienia w środowisku pracy szkodliwego czynnika biologicznego, przeciw któremu jest dostępna szczepionka, stosuje się odpowiednio przepisy ustawy z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. poz. 1384, z późn. zm. ) .
+
 2. Pracodawca zleca wykonywanie prac związanych z narażeniem na kontakt ze szkodliwym czynnikiem biologicznym zakwalifikowanym do grupy 3 lub 4 zagrożenia pracownikom właściwie zabezpieczonym, w tym uodpornionym przy użyciu dostępnych szczepionek.
-§ 17. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 17.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 
 ## Załącznik nr 1 — KLASYFIKACJA I WYKAZ SZKODLIWYCH CZYNNIKÓW BIOLOGICZNYCH KLASYFIKACJA I WYKAZ SZKODLIWYCH CZYNNIKÓW BIOLOGICZNYCH I.
 

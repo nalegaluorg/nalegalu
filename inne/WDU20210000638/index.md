@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000638) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/638/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2021 r. poz. 290 i 542) § 10a otrzymuje brzmienie: „§ 10a. W okresie od dnia 20 października 2020 r. do dnia 30 września 2021 r. świadczeniodawca udzielający świadczeń w trybie hospitalizacji, o których mowa w § 3 ust. 1, jest zwolniony z obowiązku spełniania wymagań określonych w załączniku nr 3, w części dotyczącej warunków realizacji świadczeń odnoszących się do wymaganego personelu lekarskiego oraz pielęgniarskiego, pod warunkiem zapewnienia przez kierownika podmiotu leczniczego ciągłości procesu leczniczego i bezpieczeństwa zdrowotnego świadczeniobiorców.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2021 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2021 r. poz. 290 i 542) § 10a otrzymuje brzmienie: „§ 10a. W okresie od dnia 20 października 2020 r. do dnia 30 września 2021 r. świadczeniodawca udzielający świadczeń w trybie hospitalizacji, o których mowa w § 3 ust. 1, jest zwolniony z obowiązku spełniania wymagań określonych w załączniku nr 3, w części dotyczącej warunków realizacji świadczeń odnoszących się do wymaganego personelu lekarskiego oraz pielęgniarskiego, pod warunkiem zapewnienia przez kierownika podmiotu leczniczego ciągłości procesu leczniczego i bezpieczeństwa zdrowotnego świadczeniobiorców.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2021 r. Minister Zdrowia: A. Niedzielski
 

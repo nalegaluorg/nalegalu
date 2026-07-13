@@ -30,23 +30,38 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 marca 2021 r. zmieniającego rozporządzenie w sprawie szkolenia dla osób ubiegających się o wydanie licencji detektywa (Dz. U. poz. 671), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 16 grudnia 2013 r.
 w sprawie szkolenia dla osób ubiegających się o wydanie licencji detektywa Na podstawie art. 29 ust. 5 ustawy z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2020 r. poz. 129) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) tematykę i formę prowadzenia szkolenia dla osób ubiegających się o wydanie licencji detektywa;
-2) jednostki właściwe do prowadzenia szkolenia dla osób ubiegających się o wydanie licencji detektywa;
-3) wzór zaświadczenia o ukończeniu szkolenia dla osób ubiegających się o wydanie licencji detektywa.
-§ 2. Szkolenie dla osób ubiegających się o wydanie licencji detektywa, zwane dalej „szkoleniem”, obejmuje zagadnienia dotyczące:
-1) ochrony danych osobowych;
-2) ochrony informacji niejawnych;
-3) przepisów regulujących prawa i obowiązki detektywa;
-4) przepisów regulujących zasady wykonywania działalności gospodarczej w zakresie usług detektywistycznych.
-§ 3. Tematykę szkolenia określa załącznik nr 1 do rozporządzenia.
-§ 4. 1. Szkolenie trwa łącznie co najmniej 50 godzin zajęć edukacyjnych, z czego minimalny czas trwania szkolenia z zagadnień, o których mowa w § 2:
-1) pkt 1 i 2 ‒ wynosi 15 godzin łącznie;
-2) pkt 3 ‒ wynosi 15 godzin;
-3) pkt 4 ‒ wynosi 20 godzin.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** tematykę i formę prowadzenia szkolenia dla osób ubiegających się o wydanie licencji detektywa;
+- **2)** jednostki właściwe do prowadzenia szkolenia dla osób ubiegających się o wydanie licencji detektywa;
+- **3)** wzór zaświadczenia o ukończeniu szkolenia dla osób ubiegających się o wydanie licencji detektywa.
+
+**§ 2.** Szkolenie dla osób ubiegających się o wydanie licencji detektywa, zwane dalej „szkoleniem”, obejmuje zagadnienia dotyczące:
+
+- **1)** ochrony danych osobowych;
+- **2)** ochrony informacji niejawnych;
+- **3)** przepisów regulujących prawa i obowiązki detektywa;
+- **4)** przepisów regulujących zasady wykonywania działalności gospodarczej w zakresie usług detektywistycznych.
+
+**§ 3.** Tematykę szkolenia określa załącznik nr 1 do rozporządzenia.
+
+**§ 4.**
+
+1. Szkolenie trwa łącznie co najmniej 50 godzin zajęć edukacyjnych, z czego minimalny czas trwania szkolenia z zagadnień, o których mowa w § 2:
+
+- **1)** pkt 1 i 2 ‒ wynosi 15 godzin łącznie;
+- **2)** pkt 3 ‒ wynosi 15 godzin;
+- **3)** pkt 4 ‒ wynosi 20 godzin.
+
 2. Szkolenia przeprowadza się w formie stacjonarnej, także z wykorzystywaniem metod i technik kształcenia na odległość.
+
 3. Organizator szkolenia prowadzonego z wykorzystaniem metod i technik kształcenia na odległość zapewnia interaktywny kontakt z uczestnikami szkolenia z wykorzystaniem środków komunikacji elektronicznej.
+
 4. Szkolenie kończy się zaliczeniem sprawdzającym przyswojenie przez uczestnika szkolenia zagadnień, o których
+
+## Załącznik
+
 § 2.
 5. Zaliczenie kształcenia prowadzonego z wykorzystywaniem metod i technik kształcenia na odległość nie może odbywać się z wykorzystaniem tych metod i technik.
 § 5. Jednostkami właściwymi do prowadzenia szkolenia są:

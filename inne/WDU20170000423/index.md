@@ -27,15 +27,15 @@ source: pdf
 
 w sprawie oświadczenia dotyczącego pracy lub służby w organach bezpieczeństwa państwa lub współpracy z tymi organami Na podstawie art. 144 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U.
 poz. 1947 i 2255 oraz z 2017 r. poz. 88, 244 i 379) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) tryb składania przez kandydata do pracy albo pełnienia służby w jednostkach organizacyjnych Krajowej Administracji Skarbowej urodzonego przed dniem 1 sierpnia 1972 r. oświadczenia dotyczącego pracy lub służby w organach bezpieczeństwa państwa wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2016 r.
-poz. 1721, 1948, 2260 i 2261), lub współpracy z tymi organami, zwanego dalej „oświadczeniem”;
-2) wzór oświadczenia, o którym mowa w pkt 1.
-§ 2. Kandydat do pracy albo pełnienia służby w jednostkach organizacyjnych Krajowej Administracji Skarbowej składa pisemne oświadczenie nie później niż w dniu złożenia podania o przyjęcie do pracy albo służby.
-§ 3. Wzór oświadczenia stanowi załącznik do rozporządzenia.
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk WZÓR ……………………………….....… ………………………….....……… ………………………….....……… ……………………………….....… O Ś W I A D C Z E N I E Na podstawie art. 144 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) oświadczam, że nie pełniłam(em)/pełniłam(em) służby(ę) zawodowej(ą) , nie pracowałam(em)/ pracowałam(em) w organach bezpieczeństwa państwa wymienionych w art. 2 ustawy z dnia 18 października 2006 r.
-o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944 − 1990 oraz treści tych dokumentów (Dz. U. z 2016 r. poz. 1721, z późn. zm.), nie byłam(em)/byłam(em) współpracownikiem tych organów.
-Jednocześnie oświadczam, że zapoznałam(em) się z treścią ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944 − 1990 oraz treści tych dokumentów.
-.....................................…………………………… …………………...…
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** tryb składania przez kandydata do pracy albo pełnienia służby w jednostkach organizacyjnych Krajowej Administracji Skarbowej urodzonego przed dniem 1 sierpnia 1972 r. oświadczenia dotyczącego pracy lub służby w organach bezpieczeństwa państwa wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2016 r. poz. 1721, 1948, 2260 i 2261), lub współpracy z tymi organami, zwanego dalej „oświadczeniem”;
+- **2)** wzór oświadczenia, o którym mowa w pkt 1.
+
+**§ 2.** Kandydat do pracy albo pełnienia służby w jednostkach organizacyjnych Krajowej Administracji Skarbowej składa pisemne oświadczenie nie później niż w dniu złożenia podania o przyjęcie do pracy albo służby.
+
+**§ 3.** Wzór oświadczenia stanowi załącznik do rozporządzenia.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. Minister Rozwoju i Finansów: wz. W. Janczyk WZÓR ……………………………….....… ………………………….....……… ………………………….....……… ……………………………….....… O Ś W I A D C Z E N I E Na podstawie art. 144 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm.) oświadczam, że nie pełniłam(em)/pełniłam(em) służby(ę) zawodowej(ą) , nie pracowałam(em)/ pracowałam(em) w organach bezpieczeństwa państwa wymienionych w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944 − 1990 oraz treści tych dokumentów (Dz. U. z 2016 r. poz. 1721, z późn. zm.), nie byłam(em)/byłam(em) współpracownikiem tych organów. Jednocześnie oświadczam, że zapoznałam(em) się z treścią ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944 − 1990 oraz treści tych dokumentów. .....................................…………………………… …………………...…
 

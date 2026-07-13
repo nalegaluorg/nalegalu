@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych Na podstawie art. 16 ust. 3 pkt 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2022 r.
 poz. 295) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, z późn. zm. ) po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Zawiesza się od dnia 1 czerwca 2023 r. od godz. 0.00 do odwołania towarowy ruch graniczny na przejściach granicznych z Republiką Białorusi dla samochodów ciężarowych, ciągników samochodowych, przyczep, w tym naczep, oraz zespołów pojazdów zarejestrowanych na terytorium Republiki Białorusi lub Federacji Rosyjskiej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, z późn. zm. ) po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Zawiesza się od dnia 1 czerwca 2023 r. od godz. 0.00 do odwołania towarowy ruch graniczny na przejściach granicznych z Republiką Białorusi dla samochodów ciężarowych, ciągników samochodowych, przyczep, w tym naczep, oraz zespołów pojazdów zarejestrowanych na terytorium Republiki Białorusi lub Federacji Rosyjskiej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

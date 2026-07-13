@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wykroczeń, za które strażnicy straży gminnych są uprawnieni do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 4 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
 z 2013 r. poz. 395, 765 i 1247) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2003 r. w sprawie wykroczeń, za które strażnicy straży gminnych są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 208, poz. 2026, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 2 w ust. 1 pkt 10 otrzymuje brzmienie: „10) art. 174 ust. 3, art. 175, art. 177, art. 188 oraz w art. 191 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U.
-z 2013 r. poz. 21, 888 i 1238);”;
-2) w § 3 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Upoważnienie do nakładania grzywien w drodze mandatu karnego komendantom straży gminnych (miejskich) wydaje, na imienny wniosek komendanta straży gminnej (miejskiej), właściwy wójt (burmistrz, prezydent miasta).”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych: wz. P. Stachańczyk
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2003 r. w sprawie wykroczeń, za które strażnicy straży gminnych są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 208, poz. 2026, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 1 pkt 10 otrzymuje brzmienie: „10) art. 174 ust. 3, art. 175, art. 177, art. 188 oraz w art. 191 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, 888 i 1238);”;
+- **2)** w § 3 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Upoważnienie do nakładania grzywien w drodze mandatu karnego komendantom straży gminnych (miejskich) wydaje, na imienny wniosek komendanta straży gminnej (miejskiej), właściwy wójt (burmistrz, prezydent miasta).”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych: wz. P. Stachańczyk
 

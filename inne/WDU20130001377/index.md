@@ -27,16 +27,20 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych Na podstawie art. 17 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. Nr 79, poz. 523, z późn. zm.
 zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 16 listopada 2010 r. w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. Nr 233, poz. 1532) wprowadza się następujące zmiany:
-1) § 1 otrzymuje brzmienie: „§ 1. Uzbrojenie Służby Więziennej obejmuje:
-1) broń palną: karabiny, karabinki, pistolety maszynowe, pistolety i rewolwery, pistolety sygnałowe, strzelby powtarzalne, granatniki;
-2) amunicję do broni palnej, granaty łzawiące i pociski niepenetracyjne, miotane ręcznie lub z broni palnej;
-3) urządzenia przeznaczone do miotania środków obezwładniających i pocisków niepenetracyjnych.”;
-2) w § 2:
-a) pkt 1 i 2 otrzymują brzmienie: „1) kajdanek: jednorazowych i szczękowych zakładanych na ręce lub na nogi oraz zespolonych zakładanych na ręce i nogi;
-2) pasów obezwładniających;”,
-b) w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) ręcznych miotaczy substancji obezwładniających.”;
-3) uchyla się § 3.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: M. Biernacki
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 16 listopada 2010 r. w sprawie uzbrojenia Służby Więziennej oraz rodzajów broni i środków ochrony stosowanych przez jej funkcjonariuszy w czasie pełnienia obowiązków służbowych (Dz. U. Nr 233, poz. 1532) wprowadza się następujące zmiany:
+
+- **1)** § 1 otrzymuje brzmienie:
+
+  > „§ 1. Uzbrojenie Służby Więziennej obejmuje:  
+  > 1) broń palną: karabiny, karabinki, pistolety maszynowe, pistolety i rewolwery, pistolety sygnałowe, strzelby powtarzalne, granatniki;  
+  > 2) amunicję do broni palnej, granaty łzawiące i pociski niepenetracyjne, miotane ręcznie lub z broni palnej;  
+  > 3) urządzenia przeznaczone do miotania środków obezwładniających i pocisków niepenetracyjnych.”;  
+- **2)** w § 2:
+    - **a)** pkt 1 i 2 otrzymują brzmienie: „1) kajdanek: jednorazowych i szczękowych zakładanych na ręce lub na nogi oraz zespolonych zakładanych na ręce i nogi; 2) pasów obezwładniających;”,
+    - **b)** w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) ręcznych miotaczy substancji obezwładniających.”;
+
+- **3)** uchyla się § 3.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: M. Biernacki
 

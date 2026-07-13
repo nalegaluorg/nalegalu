@@ -31,25 +31,38 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Polityki Społ
 ROZPORZĄDZENIE MINISTRA POLITYKI SPOŁECZNEJ z dnia 28 maja 2004 r.
 w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez zarządzającego do Zakładu Ubezpieczeń Społecznych Na podstawie art. 45 ust. 4 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U.
 Nr 116, poz. 1207, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowy zakres danych podawanych przez zarządzającego na dokumencie płatniczym w przypadku przekazywania do Zakładu Ubezpieczeń Społecznych 30% sumy składek podstawowych wpłaconych do pracowniczego programu emerytalnego oraz sposób i tryb przeliczania kwoty przekazanych składek na podstawę wymiaru świadczenia, jeżeli emerytura uczestnika lub osoby uprawnionej ma być obliczona od podstawy wymiaru.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) zarządzającym – należy przez to rozumieć zarządzającego określonego w art. 2 pkt 9 ustawy z dnia 20 kwietnia 2004 r.
-o pracowniczych programach emerytalnych, zwanej dalej „ustawą”, lub likwidatora tego zarządzającego;
-2) oddziale Zakładu – należy przez to rozumieć terenową jednostkę organizacyjną Zakładu Ubezpieczeń Społecznych właściwą ze względu na miejsce zamieszkania uczestnika;
-3) uczestniku – należy przez to rozumieć osobę fizyczną określoną w art. 2 pkt 11 ustawy;
-4) kwocie składki – należy przez to rozumieć 30% sumy składek podstawowych wpłaconych do pracowniczego programu emerytalnego.
-§ 3. 1. Zarządzający przekazujący do Zakładu Ubezpieczeń Społecznych kwotę składki podaje na dokumencie płatniczym „Polecenie przelewu/wpłata gotówkowa” następujące dane:
-1) w polu „nazwa odbiorcy” – nazwę oddziału Zakładu;
-2) w polu „nr rachunku odbiorcy” – numer rachunku bankowego wskazany przez oddział Zakładu;
-3) w polu „kwota” – kwotę składki;
-4) w polu „nr rachunku zleceniodawcy” – numer rachunku bankowego zarządzającego;
-5) w polu „nazwa zleceniodawcy” – nazwę, numer identyfikacji podatkowej (NIP) oraz adres zarządzającego;
-6) w polu „tytułem”:
-a) imię i nazwisko, numer PESEL uczestnika, a jeżeli uczestnikowi nie nadano tego numeru, podaje się serię i numer dowodu osobistego lub paszportu,
-b) identyfikator płatności – PPE.
+
+**§ 1.** Rozporządzenie określa szczegółowy zakres danych podawanych przez zarządzającego na dokumencie płatniczym w przypadku przekazywania do Zakładu Ubezpieczeń Społecznych 30% sumy składek podstawowych wpłaconych do pracowniczego programu emerytalnego oraz sposób i tryb przeliczania kwoty przekazanych składek na podstawę wymiaru świadczenia, jeżeli emerytura uczestnika lub osoby uprawnionej ma być obliczona od podstawy wymiaru.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** zarządzającym – należy przez to rozumieć zarządzającego określonego w art. 2 pkt 9 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, zwanej dalej „ustawą”, lub likwidatora tego zarządzającego;
+- **2)** oddziale Zakładu – należy przez to rozumieć terenową jednostkę organizacyjną Zakładu Ubezpieczeń Społecznych właściwą ze względu na miejsce zamieszkania uczestnika;
+- **3)** uczestniku – należy przez to rozumieć osobę fizyczną określoną w art. 2 pkt 11 ustawy;
+- **4)** kwocie składki – należy przez to rozumieć 30% sumy składek podstawowych wpłaconych do pracowniczego programu emerytalnego.
+
+**§ 3.**
+
+1. Zarządzający przekazujący do Zakładu Ubezpieczeń Społecznych kwotę składki podaje na dokumencie płatniczym „Polecenie przelewu/wpłata gotówkowa” następujące dane:
+
+- **1)** w polu „nazwa odbiorcy” – nazwę oddziału Zakładu;
+- **2)** w polu „nr rachunku odbiorcy” – numer rachunku bankowego wskazany przez oddział Zakładu;
+- **3)** w polu „kwota” – kwotę składki;
+- **4)** w polu „nr rachunku zleceniodawcy” – numer rachunku bankowego zarządzającego;
+- **5)** w polu „nazwa zleceniodawcy” – nazwę, numer identyfikacji podatkowej (NIP) oraz adres zarządzającego;
+- **6)** w polu „tytułem”:
+    - **a)** imię i nazwisko, numer PESEL uczestnika, a jeżeli uczestnikowi nie nadano tego numeru, podaje się serię i numer dowodu osobistego lub paszportu,
+    - **b)** identyfikator płatności – PPE.
+
 2. Potwierdzoną za zgodność z oryginałem kopię dokumentu płatniczego, o którym mowa w ust. 1, zarządzający przekazuje uczestnikowi listem poleconym.
-§ 4. 1. Kwotę składki przelicza się przez podzielenie jej przez 19,52%. Uzyskaną kwotę zaokrągla się w górę do pełnych groszy.
+
+**§ 4.**
+
+1. Kwotę składki przelicza się przez podzielenie jej przez 19,52%. Uzyskaną kwotę zaokrągla się w górę do pełnych groszy.
+
 2. Kwotę składki podlegającą przeliczeniu ustala się na podstawie dokumentu płatniczego, o którym mowa w § 3 ust. 1, dołączonego przez uczestnika do wniosku o emeryturę, której wysokość zgodnie z odrębnymi przepisami obliczana jest od podstawy wymiaru.
+
 3. Kwotę uzyskaną w wyniku przeliczenia, o którym mowa w ust. 1, uwzględnia się przy ustalaniu podstawy wymiaru emerytury przez doliczenie tej kwoty do podstawy wymiaru składek na ubezpieczenie emerytalne za miesiąc, w którym kwota składki przekazana została do oddziału Zakładu.
-§ 5. Rozporządzenie wchodzi w życie z dniem 1 czerwca 2004 r.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 1 czerwca 2004 r.
 

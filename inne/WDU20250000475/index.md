@@ -27,10 +27,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000475) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/475/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania osobowości prawnej Sekcji Polskiej Stowarzyszenia „Pomoc Kościołowi w Potrzebie” Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1966) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2005 r. w sprawie nadania osobowości prawnej Sekcji Polskiej Stowarzyszenia „Pomoc Kościołowi w Potrzebie” (Dz. U. poz. 2032) wprowadza się następujące zmiany:
-1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie nadania osobowości prawnej instytucji Kościoła Katolickiego pod nazwą Sekcja Polska „Pomoc Kościołowi w Potrzebie” ”;
-2) w § 1 wyrazy „instytucji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Sekcja Polska Stowarzyszenia „Pomoc Kościołowi w Potrzebie”, z siedzibą w Warszawie,” zastępuje się wyrazami „instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Sekcja Polska „Pomoc Kościołowi w Potrzebie”,”;
-3) po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Siedzibą instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Sekcja Polska „Pomoc Kościołowi w Potrzebie” jest Warszawa.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2005 r. w sprawie nadania osobowości prawnej Sekcji Polskiej Stowarzyszenia „Pomoc Kościołowi w Potrzebie” (Dz. U. poz. 2032) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozporządzenia otrzymuje brzmienie: „w sprawie nadania osobowości prawnej instytucji Kościoła Katolickiego pod nazwą Sekcja Polska „Pomoc Kościołowi w Potrzebie” ”;
+- **2)** w § 1 wyrazy „instytucji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Sekcja Polska Stowarzyszenia „Pomoc Kościołowi w Potrzebie”, z siedzibą w Warszawie,” zastępuje się wyrazami „instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Sekcja Polska „Pomoc Kościołowi w Potrzebie”,”;
+- **3)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Siedzibą instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Sekcja Polska „Pomoc Kościołowi w Potrzebie” jest Warszawa.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański
 

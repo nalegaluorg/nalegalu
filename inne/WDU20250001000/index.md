@@ -27,17 +27,29 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001000) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1000/text.pdf) |
 
 w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa szczegółowy zakres działania Ministra Rolnictwa i Rozwoju Wsi, zwanego dalej „ministrem”.
+
+**§ 1.**
+
+1. Rozporządzenie określa szczegółowy zakres działania Ministra Rolnictwa i Rozwoju Wsi, zwanego dalej „ministrem”.
+
 2. Minister kieruje następującymi działami administracji rządowej:
-1) rolnictwo;
-2) rozwój wsi;
-3) rybołówstwo;
-4) rynki rolne.
+
+- **1)** rolnictwo;
+- **2)** rozwój wsi;
+- **3)** rybołówstwo;
+- **4)** rynki rolne.
+
 3. Minister jest dysponentem części 32, 33, 62 i 35 budżetu państwa.
+
 4. Obsługę ministra zapewnia Ministerstwo Rolnictwa i Rozwoju Wsi.
+
 5. Organy podległe ministrowi określa załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 lipca 2025 r.
-Prezes Rady Ministrów: D. Tusk ORGANY PODLEGŁE MINISTROWI ROLNICTWA I ROZWOJU WSI
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 lipca 2025 r.
+
+## Załącznik
+
+ORGANY PODLEGŁE MINISTROWI ROLNICTWA I ROZWOJU WSI
 1) Prezes Kasy Rolniczego Ubezpieczenia Społecznego;
 2) Główny Inspektor Ochrony Roślin i Nasiennictwa;
 3) Główny Lekarz Weterynarii;

@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002247) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2247/text.pdf) |
 
 zmieniające rozporządzenie w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Wywiadu oraz dokonywania potrąceń z tych należności Na podstawie art. 142 ust. 3 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 23 lipca 2003 r. w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Wywiadu oraz dokonywania potrąceń z tych należności (Dz. U.
-poz. 1224) w § 7 pkt 1 otrzymuje brzmienie: „1) zapłaty odszkodowania, przewidzianych w przepisach ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 2349);”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 23 lipca 2003 r. w sprawie terminów płatności uposażenia i innych świadczeń pieniężnych funkcjonariuszom Agencji Wywiadu oraz dokonywania potrąceń z tych należności (Dz. U. poz. 1224) w § 7 pkt 1 otrzymuje brzmienie: „1) zapłaty odszkodowania, przewidzianych w przepisach ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 2349);”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

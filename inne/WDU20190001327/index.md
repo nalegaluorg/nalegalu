@@ -26,10 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001327) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1327/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ramowego programu szkolenia kandydatów na ekspertów wchodzących w skład komisji egzaminacyjnych i kwalifikacyjnych dla nauczycieli ubiegających się o awans na stopień zawodowy, sposobu prowadzenia listy ekspertów oraz trybu wpisywania i skreślania ekspertów z listy Na podstawie art. 9g ust. 12 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730 i 1287) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 1 marca 2013 r. w sprawie ramowego programu szkolenia kandydatów na ekspertów wchodzących w skład komisji egzaminacyjnych i kwalifikacyjnych dla nauczycieli ubiegających się o awans na stopień zawodowy, sposobu prowadzenia listy ekspertów oraz trybu wpisywania i skreślania ekspertów z listy (Dz. U. poz. 354) wprowadza się następujące zmiany:
-1) w § 3 w ust. 3 w pkt 8 średnik zastępuje się kropką i uchyla się pkt 9;
-2) w § 5 uchyla się pkt 4.
-§ 2. Do wniosków o wpis na listę ekspertów złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Edukacji Narodowej: wz. M. Machałek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 1 marca 2013 r. w sprawie ramowego programu szkolenia kandydatów na ekspertów wchodzących w skład komisji egzaminacyjnych i kwalifikacyjnych dla nauczycieli ubiegających się o awans na stopień zawodowy, sposobu prowadzenia listy ekspertów oraz trybu wpisywania i skreślania ekspertów z listy (Dz. U. poz. 354) wprowadza się następujące zmiany:
+
+- **1)** w § 3 w ust. 3 w pkt 8 średnik zastępuje się kropką i uchyla się pkt 9;
+- **2)** w § 5 uchyla się pkt 4.
+
+**§ 2.** Do wniosków o wpis na listę ekspertów złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Edukacji Narodowej: wz. M. Machałek
 

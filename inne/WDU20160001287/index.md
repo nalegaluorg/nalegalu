@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego Na podstawie art. 6 ust. 7 ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U.
 z 2016 r. poz. 356 i 1176) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 4 stycznia 2005 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego (Dz. U. z 2014 r. poz. 1124) § 11 otrzymuje brzmienie: „§ 11. Wysokość wynagrodzenia miesięcznego oraz wysokość świadczeń dodatkowych, zgodnie z przepisami o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, dla dyrektora i zastępcy dyrektora jednostki doradztwa rolniczego ustala minister właściwy do spraw rozwoju wsi.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 4 stycznia 2005 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego (Dz. U. z 2014 r. poz. 1124) § 11 otrzymuje brzmienie: „§ 11. Wysokość wynagrodzenia miesięcznego oraz wysokość świadczeń dodatkowych, zgodnie z przepisami o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, dla dyrektora i zastępcy dyrektora jednostki doradztwa rolniczego ustala minister właściwy do spraw rozwoju wsi.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

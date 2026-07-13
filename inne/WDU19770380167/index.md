@@ -58,65 +58,6 @@ c) w rozumieniu niniejszego ustępu wyrażenie "praca przymusowa lub obowiązkow
 11) wszelkich świadczeń o charakterze wojskowym, a w krajach uznających uchylanie się od służby wojskowej ze względów religijnych wszelkich świadczeń na rzecz Państwa wymaganych przez ustawę od osób uchylających się;
 ti) wszelkich świadczeń wymaganych w przypadkach wyjątkowych sytuacji albo klęski zagrażającej życiu lub dobrobytowi społeczeństwa;
 iv) wszelkiej pracy lub świadczeń stanowiących część normalnych obowiązków obywatelskich.
-Artykuł 9
-1. Każdy ma prawo do wolności i bezpieczeństwa osobistego. Nikt nie może być samowolnie aresztowany lub zatrzymany. Nikt nie może być pozbawiony wolnoŚci inaczej jak tylko na zasadach i w trybie ustalonym przez ustawę.
-2. Osobę aresztowaną należy poinformować w chwili aresztowania o przyczynach aresztowania 1 w krótkim czasie powiadomić o wysuwanych przeciwko niej zarzutach .
-3. Osoba aresztowana lub zatrzymana pod zarzutem dokonania przestępstwa powinna być w krótkim czasie postawiona przed sędzią lub przed inną osobą ustawowo uprawnioną do sprawowania władzy sądowej i powinna być osądzona w rozsądnym terminie lub zwolniona. Nie powinno stanowić ogólnej zasady, że osoby oczekujące na rozprawę mają być zatrzymane w areszcie, lecz zwolnienie ich może być uzależnione od gwarancji zapewniających ich stawienie się na rozprawę, w każdej innej fazie postępowania sądowego oraz - w razie potrzeby - w celu wykonania wyroku.
-4. Każdy pozbawiony wolności przez aresztowanie lub zatrzymanie ma prawo odwołania się do sądu w celu niezwłocznego orzeczenia przez sąd o legalności zatrzymania i zarządzenia zwolnienia, jeżeli to zatrzymanie okaże się bezprawne.
-5. Każdy, kto został bezprawnie aresztowany lub zatrzymany, ma prawo do odszkodowania, którego może dochodzić w drodze sądowej.
-1. Każda osoba pozbawiona wolności będzie traktowana w sposób humanitarny i z poszanowaniem przyrodzonej godności człowieka.
-a) Osoby oskarżone będą, oprócz wyjątkowych okoliczności, oddzielone od osób skazanych i będą podlegały innemu traktowaniu, odpowiadającemu ich statusowi osób nie skazanych;
-b) oskarżeni młodociani będą oddzieleni od dorosłych i możliwie jak najszybciej postawieni przed sądem celem osądzenia.
-3. System penitencjarny obejmować będzie traktowanie więźniów, którego zasadniczym celem będzie ich poprawa 1 rehabilitacja społeczna. Przestępcy młodociani będą oddzieleni od dorosłych i traktowani stosownie do swego wieku i statusu Nikt nie może być pozbawiony wolności jedynie z powodu niemożności wywiązania się z zobowiązań umownych.
-1. Każdy człowiek przebywający legalnie na terytorium jakiegokolwiek Państwa będzie miał prawo, w obrębie tego terytorium, do swobody poruszania się i wolności wyboru miejsca zamieszkania.
-2. Każdy człowiek ma prawo opuścić jakikolwiek kraj, włączając w to swój własny.
-3. Wymienione wyżej prawa nie mogą podlegać żadnym ograniczeniom, z wyjątkiem tych, które są przewidziane przez ustawę, są konieczne do ochrony bezpieczeństwa państwowego, porządku publicznego, zdrowia lub moralności publicznej albo praw i wolności innych 1 są zgodne z pozostałymi prawami uznanymi w niniejszym Pakcie.
-4. Nikt nie może być samowolnie pozbawiony prawa wjazdu do swego własnego kraju .
-Cudzoziemiec przebywający legalnie na terytorium Państwa Strony niniejszego Paktu może być z niego wydalony jedynie w wykonaniu decyzji podjętej zgodnie z ustawą 1 będzie miał prawo, jeżeli ważne względy bezpieczeństwa państwowego nie przemawiają przeciw temu, przedłożyć argumenty przeciwko swemu wydaleniu oraz domagać się ponownego zbadania swej sprawy przez właściwe władze albo osobę lub osoby specjalnie przez te władze wyznaczone i być przed nimi w tym celu repre1. Wszyscy ludzie są równi przed sądami 1 trybunałami. Każdy ma prawo do sprawiedliwego i publicznego rozpatrzenia sprawy przez właściwy, niezależny i bezstronny sąd, ustanowiony przez ustawę, przy orzekaniu co do zasadności oskarżenia przeciw niemu w sprawach karnych bądź co do jego praw i obowiązków w sprawach cywilnych. Prasa i publiczność mogą być wykluczone z całości lub częŚci rozprawy sądowej ze względu na moralność, porządek publiczny lub bezpieczeństwo państwowe w demokratycznym społeczeństwie albo jeżeli interes życia prywatnego stron tego wymaga, albo w stopniu, w jakim sąd uzna to za bezwzględnie konieczne w szczególnych okolicznościach, kiedy jawność mogłaby przynieść szkodę interesom sprawiedliwości; jednakże każde orzeczenie sądu wydane w jakiejkolwiek sprawie karnej lub cywilnej będzie publicznie ogłoszone, z wyjątkiem przypadków, gdy wymaga tego interes młodocianych lub gdy sprawa dotyczy sporów małżeńskich albo opieki nad dziećmi.
-2. Każda osoba oskarżona o popełnienie przestępstwa ma prawo być uważana za niewinną aż do udowodnienia jej winy zgodnie z ustawą.
-3. Każda osoba oskarżona o popełnienie przestępstwa ma prawo, na zasadach pełnej równości, co najmniej do następujących gwarancji:
-a) otrzymania niezwłocznie szczegółowej informacji w języku dla niej zrozumiałym o rodzaju i przyczynie oskarżenia;
-b) dysponowania odpowiednim czasem i możliwościami w celu przygotowania obrony 1 porozumienia się z obrońcą przez siebie wybranym;
-c) rozprawy bez nieuzasadnionej zwłoki;
-d) obecności na rozprawie, bronienia się osobiście lub przez obrońcę przez siebie wybranego; do otrzymania informacji, jeżeli nie posiada obrońcy, o istnieniu powyższego prawa oraz posiadania obrońcy wyznaczonego dla niej w każdym przypadku, kiedy interesy sprawiedliwości tego wymagają, bez ponoszenia kosztów obrony w przypadkach, kiedy oskarżony nie posiada dostatecznych środków na ich pokrycie;
-e) przesłuchania lub spowodowania przesłuchania świadków oskarżenia i zapewnienia obecności i przesłuchania świadków obrony na tych samych warunkach, co świadków oskarżenia;
-f) korzystania z bezpłatnej pomocy tłumacza, jeżeli oskarżony nie rozumie lub nie mówi językiem używanym w sądzie;
-g) nieprzymuszania do zeznawania przeciwko sobie lub do przyznania się do wi4. W stosunku do młodocianych postępowanie powinno brać pod uwagę ich wiek oraz potrzebę wpływania na ich reedukację.
-5. Każda osoba skazana za przestępstwo ma prawo odwołania się do sądu wyższej instancji w celu ponownego rozpatrzenia orzeczenia o winie i karze zgodnie z
-6. Jeżeli prawomocne orzeczenie skazujące zostało następnie uchylone lub nastąpiło ułaskawienie na podstawie nowych lub nowo ujawnionych faktów, które niezbicie wykazały, że zaszła omyłka sądowa, wówczas osobie, która poniosła karę w wyniku takiego skazania, będzie przyznane odszkodowanie zgodnie z ustawą, chyba że zostanie udowodnione, iż osoba ta ponosi całkowicie lub częściowo winę za nieujawnienie w porę nieznanego faktu.
-7. Nikt nie może być ponownie ścigany lub karany za przestępstwo, za które już raz został prawomocnie skazany lub uniewinniony zgodnie z ustawą i procedurą karną danego kraju.
-I. Nikt nie może być skazany za czyn lub zaniechanie, które w myśl prawa wewnętrznego lub międzynarodowego nie stanowiły przestępstwa w chwili ich popełnienia. Nie może być również zastosowana kara surowsza od tej, którą można było wymierzyć w chwili popełnienia przestępstwa. Jeżeli po popełnieniu przestępstwa ustanowiona zostanie przez ustawę kara łagodniejsza za takie przestępstwo, przestępca będzie miał prawo z tego korzystać.
-2. Nic w niniejszym artykule nie ogranicza sądzenia i karania jakiejkolwiek osoby za jakikolwiek czyn lub zaniechanie, które w chwili ich popełnienia stanowiły przestępstwo w myśl ogólnych zasad prawa uznanych przez społeczność międzynarodową.
-Każdy ma prawo do uznawania wszędzie jego podmiotowości prawnej.
-1. Nikt nie może być narażony na samowolną lub bezprawną ingerencję w jego życie prywatne, rodzinne, dom czy korespondencję ani też na bezprawne zamachy na jego cześć i dobre imię.
-2. Każdy ma prawo do ochrony prawnej przed tego rodzaju ingerencjami i zamacha1. Każdy ma prawo do wolności myśli, sumienia i wyznania. Prawo to obejmuje wolność posiadania lub przyjmowania wyznania lub przekonań według własnego wyboru oraz do uzewnętrzniania indywidualnie czy wspólnie z innymi, publicznie lub prywatnie, swej religii lub przekonań przez uprawianie kultu, uczestniczenie w obrzędach, praktykowanie i nauczanie.
-2. Nikt nie może podlegać przymusowi, który stanowiłby zamach na jego wolność posiadania lub przyjmowania wyznania albo przekonań według własnego wyboru.
-3. Wolność uzewnętrzniania wyznania lub przekonań może podlegać jedynie takim ograniczeniom, które są przewidziane przez ustawę i są konieczne dla ochrony bezpieczeństwa publicznego, porządku, zdrowia lub moralności publicznej albo podstawowych praw i wolności innych osób.
-4. Państwa Strony niniejszego Paktu zobowiązują się do poszanowania wolności rodziców lub, w odpowiednich przypadkach, opiekunów prawnych do zapewnienia swym dzieciom wychowania religijnego i moralnego zgodnie z własnymi przekonaniami.
-1. Każdy człowiek ma prawo do posiadania bez przeszkód własnych poglądów.
-2. Każdy człowiek ma prawo do swobodnego wyrażania opinii; prawo to obejmuje swobodę poszukiwania, otrzymywania i rozpowszechniania wszelkich informacji i poglądów, bez względu na granice państwowe, ustnie, pismem lub drukiem, w postaci dzieła sztuki bądź w jakikolwiek inny sposób według własnego wyboru.
-3. Realizacja praw przewidzianych w ustępie 2 niniejszego artykułu pociąga za sobą specjalne obowiązki i specjalną odpowiedzialność. Może ona w konsekwencji podlegać pewnym ograniczeniom, które powinny być jednak wyraźnie przewidziane przez ustawę i które są niezbędne w celu:
-a) poszanowania praw i dobrego imienia innych;
-b) ochrony bezpieczeństwa państwowego lub porządku publicznego albo zdrowia lub moralności publicznej.
-1. Wszelka propaganda wojenna powinna być ustawowo zakazana.
-2. Popieranie w jakikolwiek sposób nienawiści narodowej, rasowej lub religijnej, stanowiące podżeganie do dyskryminacji, wrogości lub gwałtu, powinno być ustawowo zakazane.
-Uznaje się prawo do spokojnego zgromadzania się. Na wykonywanie tego prawa nie mogą być nałożone ograniczenia inne niż ustalone zgodnie z ustawą i konieczne w demokratycznym społeczeństwie w interesie bezpieczeństwa państwowego lub publicznego, porządku publicznego bądź dla ochrony zdrowia lub moralności publicznej albo praw i wolności innych osób.
-1. Każdy ma prawo do swobodnego stowarzyszania się z innymi, włącznie z prawem do tworzenia i przystępowania do związków zawodowych w celu ochrony swych interesów .
-2. Na wykonywanie tego prawa nie mogą być nałożone ograniczenia inne niż przewidziane przez ustawę i konieczne w demokratycznym społeczeństwie w interesie bezpieczeństwa państwowego lub publicznego, porządku publicznego bądź dla ochrony zdrowia lub moralności publicznej albo praw i wolności innych osób. Niniejszy artykuł nie stanowi przeszkody w nałożeniu ograniczeń zgodnych z ustawą na wykonywanie tego prawa przez członków sił zbrojnych i policji.
-3. Żadne z postanowień niniejszego artykułu nie uprawnia Państw Stron Konwencji Międzynarodowej Organizacji Pracy z 1948 r. dotyczące wolności związkowej i ochrony praw związkowych do podejmowania kroków ustawodawczych lub stosowania prawa w sposób, który naruszałby gwarancje przewidziane w tej Konwencji.
-1. Rodzina jest naturalną i podstawową komórką społeczeństwa i ma prawo do ochrony ze strony społeczeństwa i Państwa.
-2. Uznaje się prawo mężczyzn i kobiet w wieku małżeńskim do zawarcia małżeństwa i założenia rodziny.
-3. Żaden związek małżeński nie może być zawarty bez swobodnie wyrażonej i pełnej zgody przyszłych małżonków.
-4. Państwa Strony niniejszego Paktu podejmą odpowiednie kroki w celu zapewnienia równych praw i obowiązków małżonków w odniesieniu do zawarcia małżeństwa, podczas jego trwania i przy jego rozwiązaniu. W przypadku rozwiązania małżeństwa należy podjąć kroki w celu zapewnienia dzieciom niezbędnej ochrony.
-1. Każde dziecko, bez żadnej dyskryminacji ze względu na rasę, kolor skóry, płeć, język, religię, pochodzenie narodowe lub społeczne, sytuację majątkową lub urodzenie, ma prawo do środków ochrony, jakich wymaga status małoletniego, ze strony rodziny, społeczeństwa i Państwa.
-2. Każde dziecko powinno być zarejestrowane niezwłocznie po urodzeniu i posiadać nazwisko.
-3. Każde dziecko ma prawo do nabycia obywatelstwa.
-Każdy obywatel ma prawo 1 możliwości, bez żadnej dyskryminacji, o której mowa w artykule 2, i bez nieuzasadnionych ograniczeń:
-a) uczestniczenia w kierowaniu sprawami publicznymi bezpośrednio lub za pośrednictwem swobodnie wybranych przedstawicieli;
-b) korzystania z czynnego 1 biernego prawa wyborczego w rzetelnych wyborach, przeprowadzanych okresowo, opartych na głosowaniu powszechnym, równym i tajnym, gwarantujących wyborcom swobodne wyrażenie woli;
-c) dostępu do służby publicznej w swoim kraju na ogólnych zasadach równości.
-Wszyscy są równi wobec prawa i są uprawnieni bez żadnej dyskryminacji do jednakowej ochrony prawnej. Jakakolwiek dyskryminacja w tym zakresie powinna być ustawowo zakazana oraz powinna być zagwarantowana przez ustawę równa dla wszystkich 1 skuteczna ochrona przed dyskryminacją z takich względów, jak: rasa, kolor skóry, płeć, język, religia, poglądy polityczne lub inne, pochodzenie narodowe lub społeczne, sytuacja majątkowa, urodzenie lub jakiekolwiek inne okoliczności.
-Artykuł 27 W Państwach, w których istnieją mniejszości etniczne, religijne lub językowe, osoby należące do tych mniejszości nie mogą być pozbawione prawa do własnego życia kulturalnego, wyznawania i praktykowania własnej religii oraz posługiwania się własnym językiem wraz z innymi członkami danej grupy.
 1. Powołuje się Komitet Praw Człowieka (zwany dalej w niniejszym Pakcie "Komitetem"). Składa się on z osiemnastu członków i sprawuje funkcje wymienione poniżej .
 2. Komitet składa się z obywateli Państw Stron niniejszego Paktu, którzy powinni być ludźmi o wysokim poziomie moralnym i uznanej kompetencji w dziedzinie praw człowieka, przy czym należy uwzględnić celowość udziału pewnej liczby osób o doświadczeniu prawniczym.
 3. Członkowie Komitetu są wybierani i pełnią swe funkcje we własnym imieniu.
@@ -183,11 +124,6 @@ d) jeżeli Komisja przedłoży sprawozdanie zgodnie z punktem c), zainteresowane
 8. Postanowienia niniejszego artykułu nie ograniczają obowiązków Komitetu przewidzianych w artykule 41.
 9. Zainteresowane Państwa Strony pokryją w równym stopniu wszelkie wydatki członków Komisji zgodnie z preliminarzem, który zostanie sporządzony przez Sekretarza Generalnego Organizacji Narodów Zjednoczonych.
 10. Sekretarz Generalny Organizacji Narodów Zjednoczonych jest upoważniony do pokrycia - w razie potrzeby - wydatków członków Komisji, zanim zainteresowane Państwa Strony dokonają ich zwrotu zgodnie z ustępem 9 niniejszego artykułu .
-Artykuł 43 Członkowie Komitetu i Komisji Pojednawczej ad hoc, wyznaczeni zgodnie z postanowieniami artykułu 41, korzystają z ułatwień, przywilejów i immunitetów, jakie przysługują ekspertom działającym z ramienia Organizacji Narodów Zjednoczonych, zgodnie z postanowieniami odpowiednich rozdziałów Konwencji dotyczącej przywilejów i immunitetów Narodów Zjednoczonych.
-Postanowienia dotyczące wykonania niniejszego Paktu stosuje się bez uszczerbku dla sposobów postępowania w dziedzinie praw człowieka określonych przez - lub na podstawie aktów konstytucyjnych i konwencji Organizacji Narodów Zjednoczonych 1 organizacji wyspecjalizowanych oraz nie stanowią przeszkody w stosowaniu przez Państwa Strony niniejszego Paktu innych sposobów załatwiania sporów, zgodnie z ogólnymi bądź szczegółowymi porozumieniami międzynarodowymi, obowiązującymi w stosunkach między nimi.
-Komitet przedkłada Zgromadzeniu Ogólnemu Organizacji Narodów Zjednoczonych, za pośrednictwem Rady Gospodarczej i Społecznej, roczne sprawozdania ze swej działalności.
-Artykuł 46 Żadne z postanowień niniejszego Paktu nie może być interpretowane jako naruszające postanowienia Karty Narodów Zjednoczonych 1 statutów organizacji wyspecjalizowanych, określających odpowiednie obowiązki różnych organów Organizacji Narodów Zjednoczonych i organizacji wyspecjalizowanych odnośnie do spraw, których dotyczy niniejszy Pakt.
-Żadne z postanowień niniejszego Paktu nie może być interpretowane jako naruszające przyrodzone prawo wszystkich narodów do pełnego i swobodnego posiadania i użytkowania ich bogactw i zasobów naturalnych.
 1. Niniejszy Pakt jest otwarty do podpisu dla wszystkich Państw członków Organizacji Narodów Zjednoczonych lub członków jakiejkolwiek organizacji wyspecjalizowanej, a także dla wszystkich Państw stron Statutu Międzynarodowego Trybunału Sprawiedliwości oraz wszystkich innych Państw zaproszonych przez Zgromadzenie Ogólne Organizacji Narodów Zjednoczonych do stania się Stroną niniejszego Paktu.
 2. Niniejszy Pakt podlega ratyfikacji. Dokumenty ratyfikacyjne będą złożone Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych.
 3. Niniejszy Pakt jest otwarty do przystąpienia dla wszystkich Państw, o których mowa w ustępie l niniejszego artykułu.
@@ -211,7 +147,107 @@ Nadowódczegoniżejpo dp isani , należyciewtymceluupoważnieniprzezswoje Rządy
 
 ## CZĘŚĆ III
 
+**Artykuł 9.**
+
+1. Każdy ma prawo do wolności i bezpieczeństwa osobistego. Nikt nie może być samowolnie aresztowany lub zatrzymany. Nikt nie może być pozbawiony wolnoŚci inaczej jak tylko na zasadach i w trybie ustalonym przez ustawę.
+
+2. Osobę aresztowaną należy poinformować w chwili aresztowania o przyczynach aresztowania 1 w krótkim czasie powiadomić o wysuwanych przeciwko niej zarzutach .
+
+3. Osoba aresztowana lub zatrzymana pod zarzutem dokonania przestępstwa powinna być w krótkim czasie postawiona przed sędzią lub przed inną osobą ustawowo uprawnioną do sprawowania władzy sądowej i powinna być osądzona w rozsądnym terminie lub zwolniona. Nie powinno stanowić ogólnej zasady, że osoby oczekujące na rozprawę mają być zatrzymane w areszcie, lecz zwolnienie ich może być uzależnione od gwarancji zapewniających ich stawienie się na rozprawę, w każdej innej fazie postępowania sądowego oraz - w razie potrzeby - w celu wykonania wyroku.
+
+4. Każdy pozbawiony wolności przez aresztowanie lub zatrzymanie ma prawo odwołania się do sądu w celu niezwłocznego orzeczenia przez sąd o legalności zatrzymania i zarządzenia zwolnienia, jeżeli to zatrzymanie okaże się bezprawne.
+
+5. Każdy, kto został bezprawnie aresztowany lub zatrzymany, ma prawo do odszkodowania, którego może dochodzić w drodze sądowej.
+
+1. Każda osoba pozbawiona wolności będzie traktowana w sposób humanitarny i z poszanowaniem przyrodzonej godności człowieka.
+
+- **a)** Osoby oskarżone będą, oprócz wyjątkowych okoliczności, oddzielone od osób skazanych i będą podlegały innemu traktowaniu, odpowiadającemu ich statusowi osób nie skazanych;
+- **b)** oskarżeni młodociani będą oddzieleni od dorosłych i możliwie jak najszybciej postawieni przed sądem celem osądzenia.
+
+3. System penitencjarny obejmować będzie traktowanie więźniów, którego zasadniczym celem będzie ich poprawa 1 rehabilitacja społeczna. Przestępcy młodociani będą oddzieleni od dorosłych i traktowani stosownie do swego wieku i statusu Nikt nie może być pozbawiony wolności jedynie z powodu niemożności wywiązania się z zobowiązań umownych.
+
+1. Każdy człowiek przebywający legalnie na terytorium jakiegokolwiek Państwa będzie miał prawo, w obrębie tego terytorium, do swobody poruszania się i wolności wyboru miejsca zamieszkania.
+
+2. Każdy człowiek ma prawo opuścić jakikolwiek kraj, włączając w to swój własny.
+
+3. Wymienione wyżej prawa nie mogą podlegać żadnym ograniczeniom, z wyjątkiem tych, które są przewidziane przez ustawę, są konieczne do ochrony bezpieczeństwa państwowego, porządku publicznego, zdrowia lub moralności publicznej albo praw i wolności innych 1 są zgodne z pozostałymi prawami uznanymi w niniejszym Pakcie.
+
+4. Nikt nie może być samowolnie pozbawiony prawa wjazdu do swego własnego kraju . Cudzoziemiec przebywający legalnie na terytorium Państwa Strony niniejszego Paktu może być z niego wydalony jedynie w wykonaniu decyzji podjętej zgodnie z ustawą 1 będzie miał prawo, jeżeli ważne względy bezpieczeństwa państwowego nie przemawiają przeciw temu, przedłożyć argumenty przeciwko swemu wydaleniu oraz domagać się ponownego zbadania swej sprawy przez właściwe władze albo osobę lub osoby specjalnie przez te władze wyznaczone i być przed nimi w tym celu repre1. Wszyscy ludzie są równi przed sądami 1 trybunałami. Każdy ma prawo do sprawiedliwego i publicznego rozpatrzenia sprawy przez właściwy, niezależny i bezstronny sąd, ustanowiony przez ustawę, przy orzekaniu co do zasadności oskarżenia przeciw niemu w sprawach karnych bądź co do jego praw i obowiązków w sprawach cywilnych. Prasa i publiczność mogą być wykluczone z całości lub częŚci rozprawy sądowej ze względu na moralność, porządek publiczny lub bezpieczeństwo państwowe w demokratycznym społeczeństwie albo jeżeli interes życia prywatnego stron tego wymaga, albo w stopniu, w jakim sąd uzna to za bezwzględnie konieczne w szczególnych okolicznościach, kiedy jawność mogłaby przynieść szkodę interesom sprawiedliwości; jednakże każde orzeczenie sądu wydane w jakiejkolwiek sprawie karnej lub cywilnej będzie publicznie ogłoszone, z wyjątkiem przypadków, gdy wymaga tego interes młodocianych lub gdy sprawa dotyczy sporów małżeńskich albo opieki nad dziećmi.
+
+2. Każda osoba oskarżona o popełnienie przestępstwa ma prawo być uważana za niewinną aż do udowodnienia jej winy zgodnie z ustawą.
+
+3. Każda osoba oskarżona o popełnienie przestępstwa ma prawo, na zasadach pełnej równości, co najmniej do następujących gwarancji:
+
+- **a)** otrzymania niezwłocznie szczegółowej informacji w języku dla niej zrozumiałym o rodzaju i przyczynie oskarżenia;
+- **b)** dysponowania odpowiednim czasem i możliwościami w celu przygotowania obrony 1 porozumienia się z obrońcą przez siebie wybranym;
+- **c)** rozprawy bez nieuzasadnionej zwłoki;
+- **d)** obecności na rozprawie, bronienia się osobiście lub przez obrońcę przez siebie wybranego; do otrzymania informacji, jeżeli nie posiada obrońcy, o istnieniu powyższego prawa oraz posiadania obrońcy wyznaczonego dla niej w każdym przypadku, kiedy interesy sprawiedliwości tego wymagają, bez ponoszenia kosztów obrony w przypadkach, kiedy oskarżony nie posiada dostatecznych środków na ich pokrycie;
+- **e)** przesłuchania lub spowodowania przesłuchania świadków oskarżenia i zapewnienia obecności i przesłuchania świadków obrony na tych samych warunkach, co świadków oskarżenia;
+- **f)** korzystania z bezpłatnej pomocy tłumacza, jeżeli oskarżony nie rozumie lub nie mówi językiem używanym w sądzie;
+- **g)** nieprzymuszania do zeznawania przeciwko sobie lub do przyznania się do wi4. W stosunku do młodocianych postępowanie powinno brać pod uwagę ich wiek oraz potrzebę wpływania na ich reedukację.
+
+5. Każda osoba skazana za przestępstwo ma prawo odwołania się do sądu wyższej instancji w celu ponownego rozpatrzenia orzeczenia o winie i karze zgodnie z
+
+6. Jeżeli prawomocne orzeczenie skazujące zostało następnie uchylone lub nastąpiło ułaskawienie na podstawie nowych lub nowo ujawnionych faktów, które niezbicie wykazały, że zaszła omyłka sądowa, wówczas osobie, która poniosła karę w wyniku takiego skazania, będzie przyznane odszkodowanie zgodnie z ustawą, chyba że zostanie udowodnione, iż osoba ta ponosi całkowicie lub częściowo winę za nieujawnienie w porę nieznanego faktu.
+
+7. Nikt nie może być ponownie ścigany lub karany za przestępstwo, za które już raz został prawomocnie skazany lub uniewinniony zgodnie z ustawą i procedurą karną danego kraju. I. Nikt nie może być skazany za czyn lub zaniechanie, które w myśl prawa wewnętrznego lub międzynarodowego nie stanowiły przestępstwa w chwili ich popełnienia. Nie może być również zastosowana kara surowsza od tej, którą można było wymierzyć w chwili popełnienia przestępstwa. Jeżeli po popełnieniu przestępstwa ustanowiona zostanie przez ustawę kara łagodniejsza za takie przestępstwo, przestępca będzie miał prawo z tego korzystać.
+
+2. Nic w niniejszym artykule nie ogranicza sądzenia i karania jakiejkolwiek osoby za jakikolwiek czyn lub zaniechanie, które w chwili ich popełnienia stanowiły przestępstwo w myśl ogólnych zasad prawa uznanych przez społeczność międzynarodową. Każdy ma prawo do uznawania wszędzie jego podmiotowości prawnej.
+
+1. Nikt nie może być narażony na samowolną lub bezprawną ingerencję w jego życie prywatne, rodzinne, dom czy korespondencję ani też na bezprawne zamachy na jego cześć i dobre imię.
+
+2. Każdy ma prawo do ochrony prawnej przed tego rodzaju ingerencjami i zamacha1. Każdy ma prawo do wolności myśli, sumienia i wyznania. Prawo to obejmuje wolność posiadania lub przyjmowania wyznania lub przekonań według własnego wyboru oraz do uzewnętrzniania indywidualnie czy wspólnie z innymi, publicznie lub prywatnie, swej religii lub przekonań przez uprawianie kultu, uczestniczenie w obrzędach, praktykowanie i nauczanie.
+
+2. Nikt nie może podlegać przymusowi, który stanowiłby zamach na jego wolność posiadania lub przyjmowania wyznania albo przekonań według własnego wyboru.
+
+3. Wolność uzewnętrzniania wyznania lub przekonań może podlegać jedynie takim ograniczeniom, które są przewidziane przez ustawę i są konieczne dla ochrony bezpieczeństwa publicznego, porządku, zdrowia lub moralności publicznej albo podstawowych praw i wolności innych osób.
+
+4. Państwa Strony niniejszego Paktu zobowiązują się do poszanowania wolności rodziców lub, w odpowiednich przypadkach, opiekunów prawnych do zapewnienia swym dzieciom wychowania religijnego i moralnego zgodnie z własnymi przekonaniami.
+
+1. Każdy człowiek ma prawo do posiadania bez przeszkód własnych poglądów.
+
+2. Każdy człowiek ma prawo do swobodnego wyrażania opinii; prawo to obejmuje swobodę poszukiwania, otrzymywania i rozpowszechniania wszelkich informacji i poglądów, bez względu na granice państwowe, ustnie, pismem lub drukiem, w postaci dzieła sztuki bądź w jakikolwiek inny sposób według własnego wyboru.
+
+3. Realizacja praw przewidzianych w ustępie 2 niniejszego artykułu pociąga za sobą specjalne obowiązki i specjalną odpowiedzialność. Może ona w konsekwencji podlegać pewnym ograniczeniom, które powinny być jednak wyraźnie przewidziane przez ustawę i które są niezbędne w celu:
+
+- **a)** poszanowania praw i dobrego imienia innych;
+- **b)** ochrony bezpieczeństwa państwowego lub porządku publicznego albo zdrowia lub moralności publicznej.
+
+1. Wszelka propaganda wojenna powinna być ustawowo zakazana.
+
+2. Popieranie w jakikolwiek sposób nienawiści narodowej, rasowej lub religijnej, stanowiące podżeganie do dyskryminacji, wrogości lub gwałtu, powinno być ustawowo zakazane. Uznaje się prawo do spokojnego zgromadzania się. Na wykonywanie tego prawa nie mogą być nałożone ograniczenia inne niż ustalone zgodnie z ustawą i konieczne w demokratycznym społeczeństwie w interesie bezpieczeństwa państwowego lub publicznego, porządku publicznego bądź dla ochrony zdrowia lub moralności publicznej albo praw i wolności innych osób.
+
+1. Każdy ma prawo do swobodnego stowarzyszania się z innymi, włącznie z prawem do tworzenia i przystępowania do związków zawodowych w celu ochrony swych interesów .
+
+2. Na wykonywanie tego prawa nie mogą być nałożone ograniczenia inne niż przewidziane przez ustawę i konieczne w demokratycznym społeczeństwie w interesie bezpieczeństwa państwowego lub publicznego, porządku publicznego bądź dla ochrony zdrowia lub moralności publicznej albo praw i wolności innych osób. Niniejszy artykuł nie stanowi przeszkody w nałożeniu ograniczeń zgodnych z ustawą na wykonywanie tego prawa przez członków sił zbrojnych i policji.
+
+3. Żadne z postanowień niniejszego artykułu nie uprawnia Państw Stron Konwencji Międzynarodowej Organizacji Pracy z 1948 r. dotyczące wolności związkowej i ochrony praw związkowych do podejmowania kroków ustawodawczych lub stosowania prawa w sposób, który naruszałby gwarancje przewidziane w tej Konwencji.
+
+1. Rodzina jest naturalną i podstawową komórką społeczeństwa i ma prawo do ochrony ze strony społeczeństwa i Państwa.
+
+2. Uznaje się prawo mężczyzn i kobiet w wieku małżeńskim do zawarcia małżeństwa i założenia rodziny.
+
+3. Żaden związek małżeński nie może być zawarty bez swobodnie wyrażonej i pełnej zgody przyszłych małżonków.
+
+4. Państwa Strony niniejszego Paktu podejmą odpowiednie kroki w celu zapewnienia równych praw i obowiązków małżonków w odniesieniu do zawarcia małżeństwa, podczas jego trwania i przy jego rozwiązaniu. W przypadku rozwiązania małżeństwa należy podjąć kroki w celu zapewnienia dzieciom niezbędnej ochrony.
+
+1. Każde dziecko, bez żadnej dyskryminacji ze względu na rasę, kolor skóry, płeć, język, religię, pochodzenie narodowe lub społeczne, sytuację majątkową lub urodzenie, ma prawo do środków ochrony, jakich wymaga status małoletniego, ze strony rodziny, społeczeństwa i Państwa.
+
+2. Każde dziecko powinno być zarejestrowane niezwłocznie po urodzeniu i posiadać nazwisko.
+
+3. Każde dziecko ma prawo do nabycia obywatelstwa. Każdy obywatel ma prawo 1 możliwości, bez żadnej dyskryminacji, o której mowa w artykule 2, i bez nieuzasadnionych ograniczeń: Wszyscy są równi wobec prawa i są uprawnieni bez żadnej dyskryminacji do jednakowej ochrony prawnej. Jakakolwiek dyskryminacja w tym zakresie powinna być ustawowo zakazana oraz powinna być zagwarantowana przez ustawę równa dla wszystkich 1 skuteczna ochrona przed dyskryminacją z takich względów, jak: rasa, kolor skóry, płeć, język, religia, poglądy polityczne lub inne, pochodzenie narodowe lub społeczne, sytuacja majątkowa, urodzenie lub jakiekolwiek inne okoliczności.
+
+- **a)** uczestniczenia w kierowaniu sprawami publicznymi bezpośrednio lub za pośrednictwem swobodnie wybranych przedstawicieli;
+- **b)** korzystania z czynnego 1 biernego prawa wyborczego w rzetelnych wyborach, przeprowadzanych okresowo, opartych na głosowaniu powszechnym, równym i tajnym, gwarantujących wyborcom swobodne wyrażenie woli;
+- **c)** dostępu do służby publicznej w swoim kraju na ogólnych zasadach równości.
+
+**Artykuł 27.** W Państwach, w których istnieją mniejszości etniczne, religijne lub językowe, osoby należące do tych mniejszości nie mogą być pozbawione prawa do własnego życia kulturalnego, wyznawania i praktykowania własnej religii oraz posługiwania się własnym językiem wraz z innymi członkami danej grupy.
+
 ## CZĘŚĆ IV
+
+**Artykuł 43.** Członkowie Komitetu i Komisji Pojednawczej ad hoc, wyznaczeni zgodnie z postanowieniami artykułu 41, korzystają z ułatwień, przywilejów i immunitetów, jakie przysługują ekspertom działającym z ramienia Organizacji Narodów Zjednoczonych, zgodnie z postanowieniami odpowiednich rozdziałów Konwencji dotyczącej przywilejów i immunitetów Narodów Zjednoczonych. Postanowienia dotyczące wykonania niniejszego Paktu stosuje się bez uszczerbku dla sposobów postępowania w dziedzinie praw człowieka określonych przez - lub na podstawie aktów konstytucyjnych i konwencji Organizacji Narodów Zjednoczonych 1 organizacji wyspecjalizowanych oraz nie stanowią przeszkody w stosowaniu przez Państwa Strony niniejszego Paktu innych sposobów załatwiania sporów, zgodnie z ogólnymi bądź szczegółowymi porozumieniami międzynarodowymi, obowiązującymi w stosunkach między nimi. Komitet przedkłada Zgromadzeniu Ogólnemu Organizacji Narodów Zjednoczonych, za pośrednictwem Rady Gospodarczej i Społecznej, roczne sprawozdania ze swej działalności.
+
+**Artykuł 46.** Żadne z postanowień niniejszego Paktu nie może być interpretowane jako naruszające postanowienia Karty Narodów Zjednoczonych 1 statutów organizacji wyspecjalizowanych, określających odpowiednie obowiązki różnych organów Organizacji Narodów Zjednoczonych i organizacji wyspecjalizowanych odnośnie do spraw, których dotyczy niniejszy Pakt. Żadne z postanowień niniejszego Paktu nie może być interpretowane jako naruszające przyrodzone prawo wszystkich narodów do pełnego i swobodnego posiadania i użytkowania ich bogactw i zasobów naturalnych.
 
 ## CZĘŚĆ VI Artykuł 48
 

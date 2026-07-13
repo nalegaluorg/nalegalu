@@ -4728,6 +4728,590 @@ Prawo geologiczne i górnicze
 
 1a. Prezes Wyższego Urzędu Górniczego jest również właściwym organem odpowiedzialnym za monitorowanie i egzekwowanie stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1787 z dnia 13 czerwca 2024 r. w sprawie redukcji emisji metanu w sektorze energetycznym oraz zmieniającego rozporządzenie (UE) 2019/942 (Dz. Urz. UE L 2024/1787 z 15.07.2024).
 
-2. Prezesa Wyższego Urzędu Górniczego powołuje Prezes Rady Ministrów, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, na wniosek ministra właściwego do spraw gospodarki surowcami energetycznymi.
+2. Prezesa Wyższego Urzędu Górniczego powołuje Prezes Rady Ministrów, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, na wniosek ministra właściwego do spraw gospodarki surowcami energetycznymi. Prezes Rady Ministrów odwołuje Prezesa Wyższego Urzędu Górniczego.
 
+3. Stanowisko Prezesa Wyższego Urzędu Górniczego może zajmować osoba, która:
+
+- **1)** posiada tytuł zawodowy magistra lub równorzędny;
+- **2)** jest obywatelem polskim;
+- **3)** korzysta z pełni praw publicznych;
+- **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **5)** posiada kompetencje kierownicze;
+- **6)** posiada co najmniej 6-letni staż pracy, w tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
+- **7)** posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości Prezesa Wyższego Urzędu Górniczego.
+
+4. Informację o naborze na stanowisko Prezesa Wyższego Urzędu Górniczego ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie urzędu oraz w Biuletynie Informacji Publicznej urzędu i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
+
+- **1)** nazwę i adres urzędu;
+- **2)** określenie stanowiska;
+- **3)** wymagania związane ze stanowiskiem wynikające z przepisów prawa;
+- **4)** zakres zadań wykonywanych na stanowisku;
+- **5)** wskazanie wymaganych dokumentów;
+- **6)** termin i miejsce składania dokumentów;
+- **7)** informację o metodach i technikach naboru.
+
+5. Termin, o którym mowa w ust. 4 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+
+6. Nabór na stanowisko Prezesa Wyższego Urzędu Górniczego przeprowadza zespół, powołany przez ministra właściwego do spraw gospodarki surowcami energetycznymi, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
+
+7. Ocena wiedzy i kompetencji kierowniczych, o których mowa w ust. 6, może być dokonana na zlecenie zespołu przez osobę niebędącą członkiem zespołu, która posiada odpowiednie kwalifikacje do dokonania tej oceny.
+
+8. Członek zespołu oraz osoba, o której mowa w ust. 7, mają obowiązek zachowania w tajemnicy informacji dotyczących osób ubiegających się o stanowisko, uzyskanych w trakcie naboru.
+
+9. W toku naboru zespół wyłania niewięcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw gospodarki surowcami energetycznymi.
+
+10. Z przeprowadzonego naboru zespół sporządza protokół zawierający:
+
+- **1)** nazwę i adres urzędu;
+- **2)** określenie stanowiska, na które był przeprowadzony nabór, oraz liczbę kandydatów;
+- **3)** imiona, nazwiska i adresy niewięcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
+- **4)** informację o zastosowanych metodach i technikach naboru;
+- **5)** uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata;
+- **6)** skład zespołu.
+
+11. Wynik naboru ogłasza się niezwłocznie przez umieszczenie informacji w Biuletynie Informacji Publicznej urzędu i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Informacja o wyniku naboru zawiera:
+
+- **1)** nazwę i adres urzędu;
+- **2)** określenie stanowiska, na które był prowadzony nabór;
+- **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.
+
+12. Umieszczenie w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
+
+13. Wiceprezesów Wyższego Urzędu Górniczego powołuje minister właściwy do spraw gospodarki surowcami energetycznymi, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, na wniosek Prezesa Wyższego Urzędu Górniczego. Minister właściwy do spraw gospodarki surowcami energetycznymi odwołuje wiceprezesów Wyższego Urzędu Górniczego.
+
+14. Zespół przeprowadzający nabór na stanowiska, o których mowa w ust. 13, powołuje Prezes Wyższego Urzędu Górniczego.
+
+15. Do sposobu przeprowadzania naboru na stanowiska, o których mowa w ust. 13, stosuje się odpowiednio ust. 3–12.
+
+16. Powołanie, o którym mowa w ust. 2 i 13, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów Kodeksu pracy.
+
+17. Osoby odwołane ze stanowiska Prezesa lub wiceprezesa Wyższego Urzędu Górniczego, które przed powołaniem na to stanowisko były urzędnikami państwowymi mianowanymi zgodnie z przepisami ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2025 r. poz. 1459) albo pracownikami służby cywilnej, stają się pracownikami służby cywilnej i w stosunku do nich stosuje się odpowiednio art. 45 ust. 2 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych.
+
+**Art. 166.**
+
+1. Prezes Wyższego Urzędu Górniczego w szczególności:
+
+- **1)** jest organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w stosunku do dyrektorów okręgowych urzędów górniczych, a także sprawuje nadzór nad ich działalnością;
+- **2)** powołuje, w drodze zarządzenia, komisje do opiniowania stanu bezpieczeństwa powszechnego, związanego z ruchem zakładu górniczego, stanu bezpieczeństwa pracy w górnictwie oraz stanu rozpoznania i zwalczania zagrożeń w zakładach górniczych, a także może powoływać inne stałe lub doraźne kolegialne organy doradcze i opiniodawcze, określając ich nazwę, skład, zakres zadań, tryb pracy oraz sposób obsługi;
+- **3)** gromadzi i archiwizuje dokumentację mierniczo-geologiczną zlikwidowanych zakładów górniczych oraz udostępnia ją, na zasadach i w sposób określony w odrębnych przepisach;
+- **4)** jest wyspecjalizowanym organem kontroli wyrobów wprowadzonych do obrotu w rozumieniu przepisów ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, w odniesieniu do wyrobów przeznaczonych do stosowania w ruchu zakładu górniczego;
+- **4a)** jest organem nadzoru rynku w rozumieniu przepisów ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568) w odniesieniu do wyrobów przeznaczonych do stosowania w ruchu zakładu górniczego;
+- **4b)** jest organem nadzoru rynku w rozumieniu przepisów ustawy z dnia 15 lipca 2020 r. o systemach homologacji typu UE i nadzoru rynku silników spalinowych przeznaczonych do maszyn mobilnych nieporuszających się po drogach (Dz. U. poz. 1339) w zakresie silników zamontowanych w maszynach mobilnych nieporuszających się po drogach stosowanych w ruchu zakładu górniczego;
+- **5)** prowadzi działalność promocyjną i informacyjną w zakresie związanym z zadaniami organów nadzoru górniczego;
+- **6)** inicjuje prace naukowo-badawcze oraz inicjuje i podejmuje przedsięwzięcia w zakresie poprawy bezpieczeństwa pracy i ochrony zdrowia w górnictwie, wdrożenia postępu technicznego w dziedzinie górnictwa, racjonalnej gospodarki złożami kopalin oraz ograniczenia uciążliwości oddziaływania górnictwa na ludzi i środowisko;
+- **7)** ustala kierunki i wytyczne działania urzędów górniczych, a także może wydawać dyrektorom okręgowych urzędów górniczych polecenia dotyczące podjęcia określonych czynności oraz żądać od nich informacji będących w ich posiadaniu;
+- **8)** dokonuje kompleksowego sprawdzenia i oceny stanu bezpieczeństwa powszechnego, związanego z ruchem zakładu górniczego, stanu bezpieczeństwa pracy w górnictwie, stanu rozpoznania i zwalczania zagrożeń w zakładach górniczych, stanu ratownictwa górniczego oraz innych zagadnień związanych z prowadzeniem ruchu zakładów górniczych, a także przedkłada właściwym organom informacje, opinie i wnioski w tej dziedzinie;
+- **9)** sporządza roczne sprawozdania z działalności urzędów górniczych;
+- **10)** w zakresie bezpieczeństwa działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej:
+    - **a)** współpracuje z ministrem właściwym do spraw gospodarki morskiej oraz dyrektorem właściwego urzędu morskiego w celu zapewnienia bezpieczeństwa morskiego w związku z wykonywaniem tej działalności,
+    - **b)** sporządza i przekazuje sprawozdania właściwym organom innych państw członkowskich Unii Europejskiej, zgodnie z przepisami dotyczącymi bezpieczeństwa tej działalności,
+    - **c)** zawiera, po uzgodnieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi, porozumienia z właściwymi organami innych państw członkowskich Unii Europejskiej dotyczące opracowywania i aktualizacji scenariuszy współpracy w przypadku zaistnienia wypadku lub niebezpiecznego zdarzenia,
+    - **d)** zawiera, po uzgodnieniu z ministrem właściwym do spraw gospodarki surowcami energetycznymi, porozumienia z właściwymi agencjami Unii Europejskiej oraz innymi instytucjami w celu wymiany informacji dotyczących tej działalności,
+    - **e)** przekazuje, na wniosek właściwego organu państwa członkowskiego Unii Europejskiej, informacje dotyczące zagrożeń dla środowiska, jakie mogą wystąpić w tym państwie na skutek wykonywania tej działalności,
+    - **f)** bierze udział w konsultacjach z przedsiębiorcami oraz Komisją Europejską w zakresie stosowania przepisów dotyczących działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich,
+    - **g)** współpracuje z przedsiębiorcami wykonującymi tę działalność w celu opracowania i aktualizacji standardów i wytycznych dotyczących najlepszych praktyk w odniesieniu do kontroli poważnych zagrożeń, na każdym etapie wykonywania działalności.
+
+2. Prezes Wyższego Urzędu Górniczego wykonuje swoje zadania przy pomocy Wyższego Urzędu Górniczego, działającego pod jego bezpośrednim kierownictwem.
+
+3. Siedzibą Wyższego Urzędu Górniczego jest miasto Katowice.
+
+4. Minister właściwy do spraw gospodarki surowcami energetycznymi nadaje, w drodze zarządzenia, statut Wyższemu Urzędowi Górniczemu, określający jego organizację wewnętrzną.
+
+**Art. 167.**
+
+1. Terenowymi organami administracji rządowej, podległymi Prezesowi Wyższego Urzędu Górniczego, są dyrektorzy okręgowych urzędów górniczych.
+
+2. Dyrektorów, o których mowa w ust. 1, oraz ich zastępców powołuje i odwołuje Prezes Wyższego Urzędu Górniczego.
+
+3. Powołanie, o którym mowa w ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów Kodeksu pracy.
+
+4. Osoby odwołane ze stanowiska dyrektora lub zastępcy dyrektora okręgowego urzędu górniczego, które przed powołaniem na to stanowisko były urzędnikami państwowymi mianowanymi zgodnie z przepisami ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych albo pracownikami służby cywilnej, stają się pracownikami służby cywilnej i w stosunku do nich stosuje się odpowiednio art. 45 ust. 2 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych.
+
+5. Dyrektorzy, o których mowa w ust. 1, wykonują swoje zadania przy pomocy okręgowych urzędów górniczych, działających pod ich bezpośrednim kierownictwem.
+
+5a. W sprawach organizacyjno-finansowych, w tym w sprawach z zakresu prawa pracy, Wyższy Urząd Górniczy wraz z okręgowymi urzędami górniczymi stanowi jednostkę organizacyjną, w której zadania przewidziane w ustawie z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409 oraz z 2025 r. poz. 620 i 1661) dla dyrektora generalnego urzędu wykonuje dyrektor generalny Wyższego Urzędu Górniczego.
+
+5b. W sprawach organizacyjno-finansowych, w tym w sprawach z zakresu prawa pracy, jednostka organizacyjna, o której mowa w ust. 5a, używa nazwy „Wyższy Urząd Górniczy”.
+
+6. (uchylony)
+
+7. Minister właściwy do spraw gospodarki surowcami energetycznymi, w drodze rozporządzenia, tworzy i znosi okręgowe urzędy górnicze, określając ich nazwę, siedzibę i właściwość miejscową, kierując się potrzebami związanymi z racjonalizacją działania organów nadzoru górniczego.
+
+8. (uchylony)
+
+9. (uchylony)
+
+10. Organizację wewnętrzną oraz tryb pracy okręgowych urzędów górniczych określa, w drodze zarządzenia, Prezes Wyższego Urzędu Górniczego.
+
+11. Osoby wykonujące obowiązki służbowe w okręgowych urzędach górniczych, realizujące zadania należące do właściwości dyrektora okręgowego urzędu górniczego podlegają temu dyrektorowi.
+
+12. Prezes Wyższego Urzędu Górniczego nie może wydawać poleceń osobom, które wykonują obowiązki służbowe w okręgowym urzędzie górniczym, w indywidualnych sprawach należących do właściwości dyrektora okręgowego urzędu górniczego.
+
+**Art. 168.**
+
+1. Organy nadzoru górniczego sprawują nadzór i kontrolę nad ruchem zakładów górniczych, w szczególności w zakresie:
+
+- **1)** bezpieczeństwa i higieny pracy;
+- **2)** bezpieczeństwa pożarowego;
+- **3)** ratownictwa górniczego;
+- **4)** gospodarki złożami kopalin w procesie ich wydobywania;
+- **5)** ochrony środowiska i gospodarki złożem, w tym według kryterium wykonywania przez przedsiębiorców obowiązków określonych w odrębnych przepisach lub na ich podstawie;
+- **6)** zapobiegania szkodom;
+- **7)** budowy i likwidacji zakładu górniczego, w tym rekultywacji gruntów po działalności górniczej.
+
+2. W odniesieniu do projektowania i wykonywania robót budowlanych oraz utrzymania obiektów budowlanych na terenie zakładu górniczego organy nadzoru górniczego wykonują zadania z zakresu administracji architektoniczno-budowlanej i nadzoru budowlanego.
+
+**Art. 169.** (uchylony)
+
+**Art. 170.**
+
+1. Organy nadzoru górniczego sprawują nadzór i kontrolę nad:
+
+- **1)** podmiotami zawodowo trudniącymi się ratownictwem górniczym, w zakresie przestrzegania przez nie przepisów dotyczących ratownictwa górniczego;
+- **2)** podmiotami wykonującymi w zakresie swej działalności zawodowej czynności powierzone im w ruchu zakładu górniczego.
+
+2. Organy nadzoru górniczego sprawują nadzór i kontrolę nad wykonywaniem robót geologicznych, o których mowa w art. 86.
+
+3. Organy nadzoru górniczego sprawują nadzór i kontrolę nad szkoleniem osób wykonujących czynności w ruchu zakładu górniczego lub wykonujących roboty geologiczne, o których mowa w art. 86.
+
+**Art. 171.**
+
+1. Przy wykonywaniu nadzoru i kontroli właściwy organ nadzoru górniczego:
+
+- **1)** nakazuje usunięcie nieprawidłowości powstałych wskutek naruszenia przepisów stosowanych w ruchu zakładu górniczego lub warunków określonych w planie ruchu zakładu górniczego, a w przypadku działalności prowadzonej na podstawie koncesji udzielonej przez starostę – warunków dotyczących ruchu zakładu górniczego, określonych w tej koncesji;
+- **2)** w przypadku bezpośredniego zagrożenia dla zakładu górniczego, jego pracowników, bezpieczeństwa powszechnego lub środowiska, może w całości lub w części wstrzymać ruch tego zakładu lub jego urządzeń, określając warunki wznowienia ruchu tego zakładu lub urządzeń;
+- **3)** może nakazać podjęcie niezbędnych środków profilaktycznych, w tym skierowanie określonego zagadnienia do rozpatrzenia przez komisję, o której mowa w art. 166 ust. 1 pkt 2;
+- **4)** może nakazać dokonanie określonych czynności, niezbędnych dla zapewnienia prawidłowego prowadzenia ruchu zakładu górniczego, innych niż środki profilaktyczne.
+
+2. Decyzje, o których mowa w ust. 1 pkt 1 i 2, mogą zostać wydane także przez Prezesa Wyższego Urzędu Górniczego.
+
+3. Decyzje wydane na podstawie ust. 1 pkt 1 lub 2 podlegają rygorowi natychmiastowej wykonalności.
+
+**Art. 172.**
+
+1. Przy wykonywaniu nadzoru i kontroli właściwy organ nadzoru górniczego:
+
+- **1)** może badać prawidłowość rozwiązań stosowanych lub przewidzianych przez przedsiębiorcę do stosowania, także przez skierowanie określonego zagadnienia do rozpatrzenia przez komisję, o której mowa w art. 166 ust. 1 pkt 2;
+- **2)** może dokonywać pomiarów służących ocenie stanu bezpieczeństwa w zakładzie górniczym oraz ocenie stanu bezpieczeństwa powszechnego lub środowiska w związku z ruchem zakładu górniczego, za pomocą:
+    - **a)** urządzeń przenośnych, lub
+    - **b)** w przypadkach uzasadnionych wysokim poziomem zagrożenia naturalnego – urządzeń stacjonarnych, zabudowanych w zakładzie górniczym na koszt przedsiębiorcy w sposób określony w decyzji wydanej przez ten organ.
+
+2. Właściwy organ nadzoru górniczego może, w drodze decyzji, nakazać przedsiębiorcy sprawdzenie prawidłowości rozwiązań, o których mowa w ust. 1 pkt 1, lub dokonanie pomiarów, o których mowa w ust. 1 pkt 2, w tym w sposób określony przez ten organ; decyzja ta może zostać wydana także przez Prezesa Wyższego Urzędu Górniczego.
+
+3. Koszty czynności, o których mowa w ust. 2, obciążają przedsiębiorcę, chyba że żądanie ich dokonania było nieuzasadnione.
+
+**Art. 173.**
+
+1. (uchylony)
+
+2. Organ nadzoru górniczego niezwłocznie zawiadamia właściwy organ administracji geologicznej w przypadku stwierdzenia, że działalność regulowana ustawą jest wykonywana bez zatwierdzonego projektu robót geologicznych lub bez przedłożonego projektu robót geologicznych, który nie podlega zatwierdzeniu, lub z naruszeniem warunków określonych w koncesji lub projekcie robót geologicznych.
+
+**Art. 174.**
+
+1. W przypadku niebezpiecznego zdarzenia, zaistnienia wypadku lub zaistnienia zgonu naturalnego w ruchu zakładu górniczego, właściwy organ nadzoru górniczego może ustalić stan faktyczny i przyczyny zdarzenia, wypadku lub zgonu.
+
+1a. W przypadku wystąpienia poważnego niebezpiecznego zdarzenia lub wypadku śmiertelnego, wypadku ciężkiego albo wypadku zbiorowego, w ruchu zakładu górniczego przedsiębiorcy wykonującego działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej, właściwy organ nadzoru górniczego ustala stan faktyczny i przyczyny tego zdarzenia lub wypadku oraz niezwłocznie przekazuje te ustalenia Prezesowi Wyższego Urzędu Górniczego.
+
+2. Jeżeli wymaga tego waga lub zawiłość sprawy, w szczególności w przypadku zaistnienia wypadku zbiorowego, katastrofy albo niebezpiecznego zdarzenia, czynności określone w ust. 1, w całości lub części, może podejmować Prezes Wyższego Urzędu Górniczego. W razie potrzeby Prezes Wyższego Urzędu Górniczego powołuje, w drodze zarządzenia, komisję specjalną do zbadania przyczyn i okoliczności tego zdarzenia, określając skład osobowy komisji i jej zadania.
+
+3. Czynności określone w ust. 1 i 1a są wykonywane przez pracowników organów nadzoru górniczego na podstawie legitymacji służbowej upoważniającej do wykonywania takich czynności.
+
+4. Na podstawie przeprowadzonych czynności określonych w ust. 1 i la właściwy organ nadzoru górniczego opracowuje orzeczenie zawierające w szczególności opis stanu faktycznego oraz innych istotnych okoliczności, ustalenie przyczyn, określenie naruszonych przepisów lub zasad techniki górniczej, a także wnioski zmierzające do zapobieżenia podobnym zdarzeniom i wypadkom w przyszłości.
+
+5. Jeżeli po opracowaniu orzeczenia zostały ujawnione istotne okoliczności, które mogą mieć wpływ na ustalenia zawarte w orzeczeniu, przeprowadza się ponownie czynności określone w ust. 1 albo 1a oraz organ nadzoru górniczego, w zależności od wyników badań, opracowuje nowe orzeczenie albo potwierdza aktualność dotychczasowego orzeczenia.
+
+**Art. 174a.**
+
+1. Prezes Wyższego Urzędu Górniczego dokonuje podsumowania informacji zawartych w:
+
+- **1)** ustaleniach, o których mowa w art. 174 ust. 1a;
+- **2)** raportach, o których mowa w art. 41 ust. 1 ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich (Dz. U. z 2019 r. poz. 1374), jeżeli w wypadku lub incydencie morskim brał udział zakład górniczy przedsiębiorcy wykonującego działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej;
+- **3)** decyzji dyrektora urzędu morskiego kończącej postępowanie, o którym mowa w art. 29 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki.
+
+2. Prezes Wyższego Urzędu Górniczego przekazuje Komisji Europejskiej podsumowanie informacji, o których mowa w ust. 1, oraz zamieszcza je w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu.
+
+3. Prezes Wyższego Urzędu Górniczego dokonuje analizy informacji, o których mowa w ust. 1, w celu zwiększenia skuteczności wykonywania zadań organów nadzoru górniczego.
+
+**Art. 174b.**
+
+1. Prezes Wyższego Urzędu Górniczego sporządza i składa ministrowi właściwemu do spraw gospodarki surowcami energetycznymi oraz przekazuje do wiadomości ministrowi właściwemu do spraw środowiska oraz ministrowi właściwemu do spraw energii corocznie, w terminie do dnia 15 lutego każdego roku, sprawozdanie ze swojej działalności za poprzedni rok, zgodnie z zakresem zadań określonych w art. 166 ust. 1 pkt 10.
+
+2. Prezes Wyższego Urzędu Górniczego sporządza i zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu oraz przekazuje Komisji Europejskiej corocznie, w terminie do dnia 1 czerwca, sprawozdanie ze swojej działalności za poprzedni rok, zgodnie z wytycznymi określonymi w załączniku II do rozporządzenia wykonawczego Komisji (UE) nr 1112/2014 z dnia 13 października 2014 r. określającego wspólny format sprawozdań do celu wymiany informacji dotyczących wskaźników odnoszących się do poważnych zagrożeń przez operatorów i właścicieli instalacji do wydobywania ropy naftowej i gazu na obszarach morskich oraz wspólny format sprawozdań do celów publikacji przez państwa członkowskie informacji dotyczących wskaźników odnoszących się do poważnych zagrożeń.
+
+**Art. 174c.**
+
+1. Prezes Wyższego Urzędu Górniczego wzywa podmiot mający siedzibę na terytorium Rzeczypospolitej Polskiej i wykonujący, samodzielnie lub za pośrednictwem podmiotów zależnych, działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich państwa niebędącego państwem członkowskim Unii Europejskiej do sporządzenia sprawozdania dotyczącego okoliczności powstania zagrożenia, o którym mowa w art. 123a ust. 1, w którym podmiot ten uczestniczył.
+
+2. Podmiot, o którym mowa w ust. 1, przekazuje sprawozdanie Prezesowi Wyższego Urzędu Górniczego, w terminie 14 dni od dnia otrzymania wezwania o przekazaniu sprawozdania.
+
+3. Prezes Wyższego Urzędu Górniczego w wezwaniu każdorazowo określa informacje, jakie należy zamieścić w sprawozdaniu.
+
+**Art. 174d.**
+
+1. Prezes Wyższego Urzędu Górniczego, w ramach współpracy, o której mowa w art. 166 ust. 1 pkt 10 lit. g, w drodze zarządzenia, powołuje komisję do spraw bezpieczeństwa działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej oraz określa jej zakres zadań, tryb pracy oraz sposób obsługi.
+
+2. W skład komisji, o której mowa w ust. 1, wchodzą Prezes Wyższego Urzędu Górniczego oraz przedstawiciele:
+
+- **1)** Wyższego Urzędu Górniczego oraz okręgowych urzędów górniczych;
+- **2)** przedsiębiorców wykonujących działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej;
+- **3)** pracowników przedsiębiorców, o których mowa w pkt 2.
+
+3. Przewodniczącym komisji, o której mowa w ust. 1, jest Prezes Wyższego Urzędu Górniczego.
+
+4. Komisja, o której mowa w ust. 1, opracowuje standardy i wytyczne dotyczące najlepszych praktyk w odniesieniu do kontroli poważnych zagrożeń, na każdym etapie wykonywania działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej.
+
+5. Standardy i wytyczne, o których mowa w ust. 4, Prezes Wyższego Urzędu Górniczego zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu.
+
+6. Przy opracowywaniu standardów i wytycznych, o których mowa w ust. 4, bierze się pod uwagę wytyczne, o których mowa w załączniku VI do dyrektywy Parlamentu Europejskiego i Rady 2013/30/UE z dnia 12 czerwca 2013 r. w sprawie bezpieczeństwa działalności związanej ze złożami ropy naftowej i gazu ziemnego na obszarach morskich oraz zmiany dyrektywy 2004/35/WE (Dz. Urz. UE L 178 z 28.06.2013, str. 66).
+
+7. Do aktualizacji standardów i wytycznych, o których mowa w ust. 4, stosuje się przepisy ust. 4–6.
+
+**Art. 174e.**
+
+1. Prezes Wyższego Urzędu Górniczego zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu numer telefonu, za pośrednictwem którego mogą być zgłaszane problemy dotyczące bezpieczeństwa i środowiska odnoszące się do działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej.
+
+2. Przy zgłaszaniu problemów, o których mowa w ust. 1, podawanie danych umożliwiających identyfikację zgłaszającego nie jest wymagane.
+
+3. Zgłoszenia, o których mowa w ust. 1, są analizowane z zachowaniem anonimowości osób zgłaszających.
+
+### DZIAŁ X Kary pieniężne
+
+**Art. 175.**
+
+1. Prezes Wyższego Urzędu Górniczego nakłada, w drodze decyzji, karę pieniężną na przedsiębiorcę, który:
+
+- **1)** nie dopełnia ciążącego na przedsiębiorcy obowiązku w zakresie:
+    - **a)** rozpoznawania zagrożeń związanych z ruchem zakładu górniczego i podejmowania środków zmierzających do zapobiegania i usuwania tych zagrożeń,
+    - **b)** posiadania odpowiednich środków materialnych i technicznych oraz służb ruchu zapewniających bezpieczeństwo pracowników i ruchu zakładu górniczego,
+    - **c)** oceniania i dokumentowania ryzyka zawodowego oraz stosowania niezbędnych rozwiązań zmniejszających to ryzyko, w tym przez sporządzenie dokumentu bezpieczeństwa i ochrony zdrowia,
+    - **d)** posiadania własnych służb ratownictwa górniczego albo powierzenia realizacji tego obowiązku w całości lub w części innym podmiotom,
+    - **e)** dokonywania przeglądu analizy poważnych zagrożeń dla zakładu górniczego, zgodnie z art. 108 ust. 2d i art. 108a, lub przekazywania jego wyników właściwemu organowi nadzoru górniczego,
+    - **f)** opracowania lub wdrożenia systemu, o którym mowa w art. 117a ust. 1 pkt 1,
+    - **g)** ustanowienia lub wdrożenia systemu niezależnej weryfikacji, o którym mowa w art. 117a ust. 1 pkt 2,
+    - **h)** przekazywania planu ratownictwa górniczego albo jego zmian, zgodnie z art. 122 ust. 11d pkt 1, podmiotowi, o którym mowa w art. 24 ust. 1 pkt 3 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki,
+    - **i)** wyposażenia zakładu górniczego w sprzęt do realizacji ratownictwa górniczego lub udostępniania tego sprzętu podmiotom, o których mowa w art. 24 ust. 1 pkt 2 i 3 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, zgodnie z art. 122 ust. 11d pkt 2,
+    - **j)** powiadamiania, zgodnie z art. 123a ust. 1, właściwego organu nadzoru górniczego, Morskiej Służby Poszukiwania i Ratownictwa, dyrektora właściwego urzędu morskiego oraz Straży Granicznej o wystąpieniu zagrożenia życia lub zdrowia osób przebywających w zakładzie górniczym, bezpieczeństwa ruchu tego zakładu górniczego, bezpieczeństwa powszechnego lub środowiska,
+    - **k)** sporządzania lub przekazywania sprawozdania, o którym mowa w art. 123b ust. 1, dotyczącego wystąpienia zagrożenia, o którym mowa w art. 123a ust. 1, właściwemu organowi nadzoru górniczego, Morskiej Służbie Poszukiwania i Ratownictwa, dyrektorowi właściwego urzędu morskiego oraz Straży Granicznej,
+    - **l)** zapewnienia przeprowadzającym kontrolę transportu do zakładu górniczego i z tego zakładu, w tym przewozu sprzętu niezbędnego do przeprowadzenia kontroli, oraz zakwaterowania i wyżywienia, zgodnie z art. 154 ust. 4,
+    - **m)** zapewnienia właściwemu regionalnemu dyrektorowi ochrony środowiska transportu do miejsca wystąpienia bezpośredniego zagrożenia szkodą w środowisku lub miejsca wystąpienia szkody w środowisku i z tego miejsca, w tym przewozu niezbędnego sprzętu, oraz zakwaterowania i wyżywienia, zgodnie z art. 154 ust. 5;
+
+- **2)** nie wykonuje decyzji organu nadzoru górniczego:
+    - **a)** nakazującej usunięcie nieprawidłowości powstałych wskutek naruszenia przepisów stosowanych w ruchu zakładu górniczego lub warunków określonych w planie ruchu zakładu górniczego lub warunków dotyczących ruchu zakładu górniczego, określonych w koncesji udzielonej przez starostę,
+    - **b)** wstrzymującej w całości lub w części ruch zakładu górniczego lub jego urządzeń, ze względu na bezpośrednie zagrożenie dla zakładu górniczego, jego pracowników, bezpieczeństwa powszechnego lub środowiska, oraz określającej warunki wznowienia ruchu tego zakładu lub urządzeń,
+    - **c)** nakazującej podjęcie niezbędnych środków profilaktycznych, w tym skierowanie określonego zagadnienia do rozpatrzenia przez komisję, o której mowa w art. 166 ust. 1 pkt 2,
+    - **d)** nakazującej dokonanie określonych czynności, niezbędnych dla zapewnienia prawidłowego prowadzenia ruchu zakładu górniczego, innych niż środki profilaktyczne,
+    - **e)** nakazującej sprawdzenie prawidłowości rozwiązań stosowanych lub przewidzianych przez przedsiębiorcę do stosowania, w tym w sposób określony przez ten organ,
+    - **f)** nakazującej dokonanie pomiarów służących ocenie stanu bezpieczeństwa w zakładzie górniczym oraz ocenie stanu bezpieczeństwa powszechnego lub środowiska w związku z ruchem zakładu górniczego, w tym w sposób określony przez ten organ.
+
+1a. Prezes Wyższego Urzędu Górniczego nakłada, w drodze decyzji, karę pieniężną na podmiot mający siedzibę na terytorium Rzeczypospolitej Polskiej i wykonujący, samodzielnie lub za pośrednictwem podmiotów zależnych, działalność polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich na terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, który, na wezwanie Prezesa Wyższego Urzędu Górniczego, nie sporządził lub nie przekazał sprawozdania dotyczącego okoliczności powstania zagrożenia wymienionego w art. 123a ust. 1, w którym podmiot ten uczestniczył.
+
+2. Prezes Wyższego Urzędu Górniczego nakłada, w drodze decyzji, karę pieniężną na kierownika ruchu zakładu górniczego, który:
+
+- **1)** nie dopełnia ciążącego na przedsiębiorcy obowiązku w zakresie:
+    - **a)** prowadzenia ewidencji osób przebywających w zakładzie górniczym oraz – w przypadku zakładów górniczych wydobywających węgiel kamienny – czasu przebywania w podziemnych wyrobiskach górniczych,
+    - **b)** posiadania i odpowiedniego przechowywania dokumentacji prowadzenia ruchu zakładu górniczego,
+    - **c)** posiadania dowodu sprawdzenia rozwiązań technicznych przez rzeczoznawcę do spraw ruchu zakładu górniczego – w przypadkach określonych w przepisach wydanych na podstawie art. 120 ust. 1 i 2,
+    - **d)** prowadzenia dokumentacji w zakresie ratownictwa górniczego,
+    - **e)** przeprowadzania specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń w ratownictwie górniczym;
+
+- **1a)** nie przekazuje właściwemu organowi nadzoru górniczego sprawozdań z realizacji planu ruchu zakładu górniczego, o których mowa w art. 117b ust. 1;
+- **1b)** nie umieszcza informacji o możliwości anonimowego zgłaszania problemów dotyczących bezpieczeństwa i środowiska odnoszących się do działalności polegającej na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej lub nie informuje o tej możliwości osób obecnych na terenie zakładu górniczego, w szczególności podczas każdego szkolenia w dziedzinie bezpieczeństwa i higieny pracy, zgodnie z art. 117c;
+- **2)** dopuszcza do wykonywania czynności w ruchu zakładu górniczego w sposób mogący wywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub tego ruchu;
+- **3)** nie dopełnia ciążącego na przedsiębiorcy obowiązku w zakresie szkolenia osób wykonujących czynności w ruchu zakładu górniczego w zakresie znajomości przepisów i zasad bezpieczeństwa i higieny pracy, w tym bezpiecznego wykonywania powierzonych im czynności, lub dopuszcza do pracy w ruchu zakładu górniczego osoby, które nie wykażą się dostateczną znajomością tych przepisów i zasad;
+- **4)** dopuszcza do wykonywania czynności w ruchu zakładu górniczego osoby, które nie posiadają wymaganych do tego kwalifikacji.
+
+3. Karę pieniężną nakłada się:
+
+- **1)** na przedsiębiorcę lub podmiot, o którym mowa w ust. 1a, w wysokości do 3 % przychodu ukaranego przedsiębiorcy lub podmiotu, osiągniętego w poprzednim roku kalendarzowym;
+- **2)** na kierownika ruchu zakładu górniczego w wysokości do 300 % jego miesięcznego wynagrodzenia, naliczanego jak dla celów ekwiwalentu za urlop wypoczynkowy.
+
+4. Ustalając wysokość kary pieniężnej, Prezes Wyższego Urzędu Górniczego uwzględnia zakres naruszenia, dotychczasową działalność podmiotu oraz jego możliwości finansowe.
+
+5. Podmiot jest obowiązany do dostarczenia Prezesowi Wyższego Urzędu Górniczego na każde jego żądanie, w terminie 30 dni od dnia otrzymania żądania, danych niezbędnych do określenia podstawy wymiaru kary pieniężnej. W przypadku niedostarczenia danych lub gdy dostarczone dane uniemożliwiają ustalenie podstawy wymiaru kary, Prezes Wyższego Urzędu Górniczego może ustalić podstawę wymiaru kary pieniężnej w sposób szacunkowy, niemniejszą jednak niż:
+
+- **1)** kwota 500 000 zł – w przypadku, o którym mowa w ust. 3 pkt 1;
+- **2)** kwota 5000 zł – w przypadku, o którym mowa w ust. 3 pkt 2.
+
+6. Jeżeli okres działania przedsiębiorcy jest krótszy niż rok kalendarzowy, za podstawę wymiaru kary pieniężnej przyjmuje się kwotę 500 000 zł.
+
+7. Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
+
+8. Kwoty ściągnięte z tytułu kary pieniężnej stanowią dochód budżetu państwa.
+
+**Art. 175a.**
+
+1. Kto uniemożliwia wykonywanie nadzoru i kontroli upoważnionym pracownikom organów nadzoru górniczego lub utrudnia im wykonywanie kontroli, podlega karze pieniężnej w wysokości od 1000 zł do 50 000 zł.
+
+2. Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, właściwy organ nadzoru górniczego.
+
+3. Ustalając wysokość kary pieniężnej, organ nadzoru górniczego uwzględnia wagę i okoliczności naruszenia, o którym mowa w ust. 1.
+
+**Art. 175b.**
+
+1. Kto udaremnia lub utrudnia wykonywanie określonych w ustawie czynności organom administracji geologicznej, w szczególności uniemożliwiając lub utrudniając wykonywanie nadzoru i kontroli upoważnionym pracownikom organów administracji geologicznej, podlega karze pieniężnej w wysokości od 1000 zł do 50 000 zł.
+
+2. Tej samej karze podlega, kto uniemożliwia lub utrudnia pracownikom państwowej służby geologicznej upoważnionym przez ministra właściwego do spraw środowiska lub właściwy organ administracji geologicznej realizację czynności, o których mowa w art. 153 ust. 1 pkt 8.
+
+3. Kary pieniężne, o których mowa w:
+
+- **1)** ust. 1, wymierza, w drodze decyzji, właściwy organ administracji geologicznej;
+- **2)** ust. 2, wymierza, w drodze decyzji, minister właściwy do spraw środowiska.
+
+4. Ustalając wysokość kary pieniężnej, uwzględnia się wagę i okoliczności naruszenia, o których mowa w ust. 1 lub 2.
+
+### DZIAŁ XI Przepisy karne
+
+**Art. 176.**
+
+1. Kto bez wymaganej koncesji lub bez zatwierdzonego projektu robót geologicznych lub z naruszeniem określonych w nich warunków, wykonując działalność w zakresie:
+
+- **1)** poszukiwania lub rozpoznawania złóż kopalin albo poszukiwania lub rozpoznawania kompleksu podziemnego składowania dwutlenku węgla,
+- **2)** wydobywania kopalin ze złóż,
+- **3)** podziemnego bezzbiornikowego magazynowania substancji albo podziemnego składowania odpadów, albo podziemnego składowania dwutlenku węgla, wyrządza znaczną szkodę w mieniu lub poważną szkodę w środowisku, podlega karze pozbawienia wolności do lat 3.
+
+2. Jeżeli sprawca czynu określonego w ust. 1 sprowadza bezpośrednie niebezpieczeństwo znacznej szkody w mieniu lub poważnej szkody w środowisku, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+3. Jeżeli sprawca nieumyślnie dopuszcza się czynu określonego w ust. 1 lub 2, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
+
+**Art. 177.** Kto bez wymaganej koncesji lub bez zatwierdzonego projektu robót geologicznych lub z naruszeniem określonych w nich warunków wykonuje działalność w zakresie:
+
+- **1)** poszukiwania lub rozpoznawania złóż kopalin albo poszukiwania lub rozpoznawania kompleksu podziemnego składowania dwutlenku węgla,
+- **2)** wydobywania kopalin ze złóż,
+- **3)** podziemnego bezzbiornikowego magazynowania substancji, podziemnego składowania odpadów albo podziemnego składowania dwutlenku węgla, podlega karze aresztu albo grzywny.
+
+**Art. 178.** Kto wykonuje lub dozoruje prace geologiczne lub kieruje tymi pracami, nie posiadając wymaganych do tego kwalifikacji, podlega karze grzywny.
+
+**Art. 179.** Kto:
+
+- **1)** w celach innych niż poszukiwanie lub rozpoznawanie złóż kopalin albo poszukiwanie lub rozpoznawanie kompleksu podziemnego składowania dwutlenku węgla wykonuje roboty geologiczne bez zatwierdzonego projektu robót geologicznych lub z naruszeniem określonych w nim warunków albo bez przedłożenia projektu robót geologicznych, który nie podlega zatwierdzeniu, lub z naruszeniem określonych w nim warunków,
+- **2)** nie zawiadamia właściwych organów o zamiarze rozpoczęcia wykonywania robót geologicznych, podlega karze grzywny.
+
+**Art. 180.** Kto nie wykonuje decyzji organu administracji geologicznej, dotyczącej:
+
+- **1)** zakazu wykonywania określonych czynności przez osoby, które wykonują te czynności z rażącym niedbalstwem, z naruszeniem ustawy lub rażącym naruszeniem wydanych na jej podstawie przepisów,
+- **2)** wstrzymania działalności lub nakazu niezwłocznego usunięcia stwierdzonych uchybień lub nakazu podjęcia czynności mających na celu doprowadzenie środowiska do należytego stanu, w przypadku stwierdzenia wykonywania działalności bez zatwierdzonego projektu robót geologicznych, lub bez przedłożonego projektu robót geologicznych, który nie podlega zatwierdzeniu, lub z naruszeniem warunków określonych w koncesji lub tym projekcie, podlega karze grzywny.
+
+**Art. 181.** Kto wykonuje czynności:
+
+- **1)** kierownictwa lub dozoru ruchu zakładu górniczego albo zakładu lub inne czynności w ruchu zakładu górniczego albo zakładu,
+- **2)** kierownictwa w podmiotach zawodowo trudniących się ratownictwem górniczym, nie posiadając wymaganych do tego kwalifikacji, podlega karze grzywny.
+
+**Art. 182.**
+
+1. Kto prowadzi ruch zakładu górniczego bez zatwierdzonego planu ruchu zakładu górniczego lub z naruszeniem określonych w nim warunków, podlega karze aresztu albo grzywny.
+
+1a. Kto prowadzi ruch zakładu wykonującego roboty geologiczne bez zatwierdzonego planu ruchu zakładu lub z naruszeniem określonych w nim warunków, podlega karze aresztu albo grzywny.
+
+2. (uchylony)
+
+**Art. 183.** Kto nie dopełnia ciążących na nim obowiązków w zakresie prowadzenia ewidencji zasobów złoża kopaliny, w zakresie przedkładania informacji o zmianach zasobów złoża kopaliny, w zakresie posiadania, sporządzania, aktualizowania i uzupełniania wymaganej dokumentacji mierniczo-geologicznej oraz przekazywania danych geologicznych i próbek oraz wyników ich badań, uzyskanych w wyniku robót geologicznych, podlega karze grzywny.
+
+**Art. 183a.** Kto bez decyzji organu nadzoru górniczego stwierdzającej posiadanie kadry oraz środków umożliwiających prowadzenie szkoleń lub zatwierdzającej program szkolenia trudni się szkoleniem osób wykonujących czynności w ruchu zakładu górniczego albo zakładu, podlega karze grzywny.
+
+**Art. 184.**
+
+1. Kto w ruchu zakładu górniczego albo zakładu wykonuje lub dopuszcza do wykonywania czynności w warunkach zagrożeń pożarowych, tąpaniami, gazowych, pyłowych, klimatycznych, wodnych, pozostających w związku z jazdą ludzi szybem albo w związku z przechowywaniem lub używaniem środków strzałowych i sprzętu strzałowego, w sposób mogący wywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu górniczego albo zakładu, podlega karze aresztu albo grzywny.
+
+2. Jeżeli sprawca nieumyślnie dopuszcza się wykroczenia określonego w ust. 1, podlega karze grzywny.
+
+3. Kto:
+
+- **1)** w ruchu zakładu górniczego albo zakładu wykonuje lub dopuszcza do wykonywania czynności w warunkach innych niż określone w ust. 1, w sposób mogący wywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu górniczego albo zakładu,
+- **2)** nie dopełnia ciążącego na nim obowiązku w zakresie:
+    - **a)** rozpoznawania zagrożeń związanych z ruchem zakładu górniczego albo zakładu i podejmowania środków zmierzających do zapobiegania i usuwania tych zagrożeń,
+    - **b)** posiadania odpowiednich środków materialnych i technicznych oraz służb ruchu zapewniających bezpieczeństwo pracowników i ruchu zakładu górniczego albo zakładu,
+    - **c)** prowadzenia ewidencji osób przebywających w zakładzie górniczym albo zakładzie, przez wskazanie imienia i nazwiska oraz stanowiska służbowego,
+    - **d)** oceniania i dokumentowania ryzyka zawodowego oraz stosowania niezbędnych rozwiązań zmniejszających to ryzyko, w tym przez sporządzenie dokumentu bezpieczeństwa i ochrony zdrowia,
+    - **e)** posiadania i odpowiedniego przechowywania dokumentacji prowadzenia ruchu zakładu górniczego albo zakładu,
+    - **f)** posiadania dowodu sprawdzenia rozwiązań technicznych przez rzeczoznawcę do spraw ruchu zakładu górniczego albo zakładu,
+    - **g)** prowadzenia dokumentacji w zakresie ratownictwa górniczego,
+    - **h)** przeprowadzania specjalistycznych badań lekarskich, specjalistycznych badań psychologicznych oraz specjalistycznych szkoleń,
+    - **i)** posiadania własnych służb ratownictwa górniczego albo powierzenia realizacji tego obowiązku w całości lub w części innym podmiotom,
+    - **j)** sporządzania, posiadania, zatwierdzania i aktualizowania odpowiedniego planu ratownictwa górniczego,
+    - **k)** organizowania drużyny ratowniczej oraz odpowiednio wyposażonej kopalnianej stacji ratownictwa górniczego albo utrzymywania zakładowej stacji ratownictwa górniczego,
+    - **l)** zatwierdzania dokumentacji prac profilaktycznych,
+    - **m)** podejmowania decyzji o podjęciu, wykonywania oraz podejmowania decyzji o zakończeniu prac profilaktycznych,
+    - **n)** podejmowania i prowadzenia akcji ratowniczej,
+    - **o)** likwidacji zakładu górniczego albo zakładu, lub ich części, polegającego na: – zabezpieczeniu lub zlikwidowaniu wyrobisk górniczych oraz urządzeń, instalacji i obiektów zakładu górniczego albo zakładu, – przedsięwzięciu niezbędnych środków chroniących sąsiednie złoża kopalin, – przedsięwzięciu niezbędnych środków chroniących wyrobiska sąsiednich zakładów górniczych albo zakładów, – przedsięwzięciu niezbędnych środków w celu ochrony środowiska oraz rekultywacji gruntów po działalności górniczej,
+
+- **3)** nie dopełnia obowiązku szkolenia osób wykonujących czynności w ruchu zakładu górniczego albo zakładu w zakresie znajomości przepisów i zasad bezpieczeństwa i higieny pracy, w tym bezpiecznego wykonywania powierzonych im czynności, lub dopuszcza do pracy w ruchu zakładu górniczego albo zakładu osoby, które nie wykażą się dostateczną znajomością tych przepisów i zasad,
+- **4)** dopuszcza do wykonywania czynności w ruchu zakładu górniczego albo zakładu osoby, które nie posiadają wymaganych do tego kwalifikacji, podlega karze grzywny.
+
+**Art. 185.**
+
+1. Kto w przypadku:
+
+- **1)** spostrzeżenia zagrożenia dla ludzi, zakładu górniczego albo zakładu, lub ich ruchu, uszkodzenia albo nieprawidłowego działania urządzeń tych zakładów nie dopełnia obowiązku w zakresie niezwłocznego ostrzeżenia osób zagrożonych, podjęcia środków dostępnych w celu usunięcia niebezpieczeństwa oraz zawiadomienia o niebezpieczeństwie najbliższej osoby kierownictwa lub dozoru ruchu,
+- **2)** powstania stanu zagrożenia życia lub zdrowia osób przebywających w zakładzie górniczym albo zakładzie nie dopełnia obowiązku w zakresie niezwłocznego wstrzymania prowadzenia ruchu w strefie zagrożenia, wycofania ludzi w bezpieczne miejsce i podjęcia niezbędnych działań, w tym środków dostępnych w celu usunięcia stanu zagrożenia, podlega karze aresztu albo grzywny.
+
+2. Jeżeli sprawca dopuszcza się nieumyślnie wykroczenia określonego w ust. 1, podlega karze grzywny.
+
+**Art. 186.** Kierownik ruchu zakładu górniczego albo zakładu, który nie dopełnia obowiązku zawiadomienia właściwego organu nadzoru górniczego o zaistniałym w zakładzie górniczym albo zakładzie wypadku albo zgonie naturalnym oraz o związanych z ruchem zakładu górniczego albo zakładu niebezpiecznych zdarzeniach, stwarzających zagrożenie życia, zdrowia ludzkiego lub bezpieczeństwa powszechnego, podlega karze aresztu albo grzywny.
+
+**Art. 187.** Kto nie dopełnia ciążącego na nim obowiązku w zakresie tworzenia funduszu, gromadzenia środków na funduszu oraz przedstawiania na żądanie właściwych organów aktualnych wyciągów z rachunku bankowego, na którym gromadzi środki funduszu, oraz informacji o sposobie ich wykorzystania, podlega karze grzywny.
+
+**Art. 188.** Kto nie wykonuje decyzji organu nadzoru górniczego, dotyczącej:
+
+- **1)** zakazu wykonywania określonych czynności przez osoby, które wykonują te czynności z rażącym niedbalstwem, z naruszeniem ustawy lub rażącym naruszeniem wydanych na jej podstawie przepisów,
+- **2)** nakazu niezwłocznego sporządzenia lub poprawy operatu ewidencyjnego,
+- **3)** (uchylony) podlega karze grzywny.
+
+**Art. 188a.** Kto swoim działaniem lub zaniechaniem doprowadza do nieuprawnionego ujawnienia informacji geologicznej pozyskanej przez państwową służbę geologiczną, podlega karze aresztu albo grzywny.
+
+**Art. 189.** Orzekanie w sprawach określonych w art. 177–188a następuje na zasadach i w trybie określonych w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872).
+
+**Art. 189a.**
+
+1. W sprawach o wykroczenia, o których mowa w niniejszym dziale, organom nadzoru górniczego przysługują uprawnienia oskarżyciela publicznego w rozumieniu przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia.
+
+2. Uprawnienia oskarżyciela publicznego przysługują także wtedy, gdy wniosek o ukaranie za wykroczenia, o których mowa w niniejszym dziale, złożył inny uprawniony oskarżyciel.
+
+### DZIAŁ XII Zmiany w przepisach obowiązujących
+
+**Art. 190–200.** (pominięte)
+
+### DZIAŁ XIII Przepisy przejściowe i końcowe
+
+**Art. 201.** Bezzbiornikowe magazynowanie substancji oraz składowanie odpadów w górotworze, w tym w podziemnych wyrobiskach górniczych, określone w dotychczasowych przepisach staje się podziemnym bezzbiornikowym magazynowaniem substancji oraz podziemnym składowaniem odpadów w rozumieniu ustawy.
+
+**Art. 202.**
+
+1. Przedsiębiorca, który przed dniem 1 stycznia 2002 r. uzyskał koncesję na poszukiwanie lub rozpoznawanie złóż kopalin, obejmującą także ich wydobywanie, i wobec którego organ koncesyjny nie wydał odrębnej decyzji określającej szczegółowe warunki wydobywania kopaliny, przed przystąpieniem do wydobywania kopaliny ze złoża przedstawi organowi koncesyjnemu dokumentację geologiczną, projekt zagospodarowania złoża oraz decyzję o środowiskowych uwarunkowaniach, jeśli jest ona wymagana na podstawie odrębnych przepisów.
+
+2. Organ koncesyjny, na podstawie dokumentów, o których mowa w ust. 1, ustala, w drodze odrębnej decyzji, szczegółowe warunki wydobywania kopaliny. Przepis art. 32 stosuje się odpowiednio.
+
+3. Wydanie decyzji, o której mowa w ust. 2, wymaga uzgodnienia z właściwym wójtem, burmistrzem albo prezydentem miasta. Przepis art. 23 ust. 2 pkt 2 stosuje się odpowiednio.
+
+**Art. 203.**
+
+1. Złoża wód leczniczych, termalnych i solanek, które na podstawie dotychczasowych przepisów zostały uznane za kopaliny, stają się kopalinami w rozumieniu ustawy.
+
+2. Podmioty wykonujące działalność w zakresie korzystania z wód podziemnych, uznanych na podstawie ustawy za kopaliny mogą wykonywać tę działalność na podstawie posiadanych decyzji do końca okresu ich obowiązywania.
+
+**Art. 204.** Roszczenie, o którym mowa w art. 19, nie przysługuje przedsiębiorcom, którzy uzyskali koncesje przed dniem wejścia w życie ustawy.
+
+**Art. 205.**
+
+1. Koncesje udzielone na podstawie dotychczasowych przepisów stają się koncesjami w rozumieniu ustawy.
+
+2. Jeżeli koncesja wydana na podstawie dotychczasowych przepisów nie określała terminu rozpoczęcia określonej nią działalności i do dnia wejścia w życie ustawy działalność ta nie została rozpoczęta, przedsiębiorca ma obowiązek rozpoczęcia jej w terminie roku od dnia wejścia w życie ustawy. W przypadku gdy działalność ta nie została rozpoczęta, organ koncesyjny z urzędu stwierdza wygaśnięcie koncesji.
+
+3. Do zmiany oraz przeniesienia koncesji uzyskanych przed dniem wejścia w życie ustawy nie stosuje się przepisów w zakresie wykazania się prawem do informacji geologicznej, chyba że zmiana koncesji zmierza do powiększenia przestrzeni objętej działalnością lub przedłużenia terminu jej obowiązywania.
+
+4. Do koncesji udzielonych przed dniem wejścia w życie ustawy, na działalność polegającą na poszukiwaniu lub rozpoznawaniu złóż kopalin innych niż określone w art. 10 ust. 1 ustawy, stosuje się dotychczasowe przepisy.
+
+5. Zmiana koncesji na wydobywanie węgla kamiennego lub węgla brunatnego ze złoża lub siarki rodzimej wydobywanej metodą otworową, jeżeli nie zmierza do powiększenia przestrzeni nią wyznaczonej, wymaga opinii wójta (burmistrza, prezydenta miasta) właściwego ze względu na miejsce wykonywania zamierzonej działalności. Przepisu art. 23 ust. 2a pkt 1 nie stosuje się.
+
+6. Do koncesji, o których mowa w ust. 1, udzielonych przed dniem 1 stycznia 2001 r., w przypadku, o którym mowa w art. 36a ust. 1 pkt 1, nie stosuje się art. 618 Kodeksu spółek handlowych.
+
+**Art. 206.**
+
+1. Pozostają w mocy umowy o ustanowieniu użytkowania górniczego zawarte na podstawie dotychczasowych przepisów.
+
+2. Do użytkowania górniczego, o którym mowa w ust. 1, stosuje się przepisy ustawy.
+
+3. Przedsiębiorca, który w dniu wejścia w życie ustawy wykonuje działalność bez wymaganego jej przepisami użytkowania górniczego, jest obowiązany zawrzeć umowę ustanawiającą to prawo, w terminie roku od dnia wejścia w życie ustawy. W przypadku niezawarcia umowy organ koncesyjny wzywa do jej zawarcia w terminie niekrótszym niż 14 dni pod rygorem cofnięcia koncesji bez odszkodowania.
+
+4. Podmiot, który w dniu wejścia w życie ustawy wykonuje działalność określoną w art. 2 ust. 1 bez wymaganego jej przepisami użytkowania górniczego, w terminie 2 lat od dnia wejścia w życie ustawy jest obowiązany zawrzeć umowę ustanawiającą to prawo. Niezawarcie umowy oznacza korzystanie z własności górniczej bez wymaganego tytułu.
+
+**Art. 207.**
+
+1. Do prawa do informacji geologicznej uzyskanego przed dniem 1 stycznia 2002 r. stosuje się art. 47 ustawy z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. poz. 96, z późn. zm. ).
+
+2. Do prawa do informacji geologicznej uzyskanego od dnia 1 stycznia 2002 r. do dnia wejścia w życie ustawy stosuje się dotychczasowe przepisy.
+
+3. W przypadku gdy podmiot, który nabył prawo do informacji geologicznej, został zlikwidowany bez rozstrzygnięcia o sukcesji prawa do informacji geologicznej lub nie jest możliwe ustalenie podmiotu, któremu przysługuje to prawo, Skarb Państwa może rozporządzać tym prawem.
+
+**Art. 208.**
+
+1. Obszary złóż kopalin, dla których właściwy organ administracji geologicznej przyjął dokumentację geologiczną bez zastrzeżeń przed dniem wejścia w życie niniejszej ustawy i które nie zostały wprowadzone do studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, niepóźniej niż w terminie 2 lat od dnia wejścia w życie niniejszej ustawy wprowadza się do studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
+
+2. Po upływie terminu określonego w ust. 1 wojewoda wprowadza udokumentowany obszar kopalin do studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy i wydaje w tej sprawie zarządzenie zastępcze. Sporządzone w tym trybie studium wywołuje skutki prawne takie jak studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
+
+3. Koszty sporządzenia studium ponosi w całości gmina, której obszaru dotyczy zarządzenie zastępcze.
+
+4. W przypadku złożenia przez radę gminy skargi na zarządzenie zastępcze, o którym mowa w ust. 2, sąd administracyjny wyznacza rozprawę w terminie 30 dni od dnia wpłynięcia skargi do sądu.
+
+5. Przepisy ustawy z dnia 8 marca 1990 r. o samorządzie gminnym stosuje się odpowiednio.
+
+**Art. 209.** Projekty zagospodarowania złóż zatwierdzone lub przyjęte na podstawie dotychczasowych przepisów stają się projektami zagospodarowania złoża w rozumieniu ustawy.
+
+**Art. 210.**
+
+1. Pozostają w mocy decyzje, świadectwa, zaświadczenia oraz inne dokumenty dotyczące kwalifikacji osób oraz ograniczeń dotyczących ich wykonywania, wydane na podstawie dotychczasowych przepisów, a uprawnienia uzyskane przed dniem wejścia w życie ustawy uznaje się za odpowiadające uprawnieniom tej samej kategorii uzyskanym po dniu wejścia w życie ustawy.
+
+2. Pozostają w mocy, w zakresie i przez czas w nich określony, świadectwa oraz upoważnienia, nadające uprawnienia rzeczoznawcy do spraw ruchu zakładu górniczego, wydane na podstawie dotychczasowych przepisów.
+
+3. Osoby, które na podstawie dotychczasowych przepisów uzyskały stwierdzenie kwalifikacji:
+
+- **1)** mierniczego górniczego w podziemnych zakładach górniczych – mogą wykonywać czynności mierniczego górniczego, o których mowa w art. 53 ust. 1 pkt 5 lit. a, oraz czynności osób kierownictwa i dozoru ruchu w tych zakładach górniczych;
+- **2)** mierniczego górniczego w odkrywkowych zakładach górniczych lub zakładach wydobywających kopaliny otworami wiertniczymi – mogą wykonywać czynności mierniczego górniczego, o których mowa w art. 53 ust. 1 pkt 5 lit. b, oraz czynności osób kierownictwa i dozoru ruchu w tych zakładach górniczych;
+- **3)** geologa górniczego w podziemnych zakładach górniczych – mogą wykonywać czynności geologa górniczego, o których mowa w art. 53 ust. 1 pkt 6 lit. a, oraz czynności osób kierownictwa i dozoru ruchu w tych zakładach górniczych;
+- **4)** geologa górniczego w odkrywkowych zakładach górniczych lub zakładach wydobywających kopaliny otworami wiertniczymi – mogą wykonywać czynności geologa górniczego, o których mowa w art. 53 ust. 1 pkt 6 lit. b, oraz czynności osób kierownictwa i dozoru ruchu w tych zakładach górniczych;
+- **5)** kierownika zawodowych zastępów ratowniczych wykonującego czynności w zakresie ratownictwa górniczego dla podziemnych zakładów górniczych – mogą wykonywać czynności kierownika dyżurujących zawodowych zastępów ratowniczych wykonującego czynności w zakresie ratownictwa górniczego dla podziemnych zakładów górniczych;
+- **6)** kierownika zawodowego pogotowia specjalistycznego wykonującego czynności w zakresie ratownictwa górniczego dla podziemnych zakładów górniczych – mogą wykonywać czynności kierownika zawodowych pogotowi specjalistycznych wykonującego czynności w zakresie ratownictwa górniczego dla podziemnych zakładów górniczych.
+
+4. Praktykę zawodową zdobytą od dnia wejścia w życie ustawy:
+
+- **1)** przy projektowaniu robót geologicznych, uznaje się za odpowiadającą praktyce zawodowej zdobytej przed dniem wejścia w życie ustawy przy projektowaniu prac geologicznych;
+- **2)** przy ustalaniu warunków i projektowaniu inwestycji związanych z podziemnym bezzbiornikowym magazynowaniem substancji i podziemnym składowaniem odpadów, uznaje się za odpowiadającą praktyce zawodowej zdobytej przed dniem wejścia w życie ustawy przy ustalaniu warunków i projektowaniu inwestycji związanych z bezzbiornikowym magazynowaniem substancji oraz składowaniem odpadów w górotworze, w tym w podziemnych wyrobiskach górniczych;
+- **3)** przy sporządzaniu projektów robót geologicznych i dokumentacji geologicznych związanych z poszukiwaniem i rozpoznawaniem złóż kopalin objętych własnością górniczą, z wyjątkiem złóż ropy naftowej, gazu ziemnego, wód leczniczych, wód termalnych i solanek, uznaje się za odpowiadającą praktyce zawodowej zdobytej przed dniem wejścia w życie ustawy przy sporządzaniu projektów prac geologicznych i dokumentacji geologicznych związanych z poszukiwaniem i rozpoznawaniem złóż kopalin podstawowych, które w dniu wejścia w życie ustawy stały się kopalinami objętymi własnością górniczą, z wyjątkiem złóż ropy naftowej, gazu ziemnego, wód leczniczych, wód termalnych i solanek;
+- **4)** przy sporządzaniu projektów robót geologicznych i dokumentacji geologicznych związanych z poszukiwaniem i rozpoznawaniem złóż kopalin objętych prawem własności nieruchomości gruntowej, uznaje się za odpowiadającą praktyce zawodowej zdobytej przed dniem wejścia w życie ustawy przy sporządzaniu projektów prac geologicznych i dokumentacji geologicznych związanych z poszukiwaniem i rozpoznawaniem złóż kopalin pospolitych oraz złóż kopalin podstawowych, które w dniu wejścia w życie ustawy stały się kopalinami objętymi prawem własności nieruchomości gruntowej.
+
+**Art. 211.** Pozostają w mocy decyzje o zatwierdzeniu dokumentacji geologicznych, zawiadomienia o przyjęciu dokumentacji geologicznych oraz decyzje o zatwierdzeniu projektów prac geologicznych wydane na podstawie dotychczasowych przepisów.
+
+**Art. 212.** Z dniem wejścia w życie ustawy umarza się postępowania wszczęte na podstawie art. 11 ustawy z dnia 27 lipca 2001 r. o zmianie ustawy – Prawo geologiczne i górnicze (Dz. U. poz. 1190).
+
+**Art. 213.** Do czasu uchwalenia planu, o którym mowa w art. 104 ust. 2, pozostają w mocy decyzje o ustanowieniu filarów ochronnych oraz zezwolenia na eksploatację w granicach tych filarów, wydane na podstawie dotychczasowych przepisów.
+
+**Art. 214.**
+
+1. Pozostają w mocy decyzje dotyczące ruchu zakładu górniczego, wydane na podstawie dotychczasowych przepisów.
+
+2. Pozostają w mocy, w zakresie i przez czas w nich określony, decyzje o dopuszczeniu wyrobów do stosowania w zakładach górniczych, wydane na podstawie dotychczasowych przepisów.
+
+3. Decyzje zaliczające występujące w zakładach górniczych zagrożenia naturalne do poszczególnych stopni, kategorii lub klas zagrożeń, wydane lub podjęte na podstawie dotychczasowych przepisów, pozostają w mocy do dnia dokonania – na podstawie przepisów ustawy – zaliczenia dotyczącego tej samej przestrzeni w zakładzie górniczym; decyzje zaliczające stanowiska pracy w wyrobiskach górniczych w podziemnych zakładach górniczych do poszczególnych kategorii zagrożenia działaniem pyłów szkodliwych dla zdrowia tracą moc z dniem wejścia w życie ustawy.
+
+**Art. 215.**
+
+1. Środki funduszu likwidacji zakładu górniczego zgromadzone na podstawie dotychczasowych przepisów stają się środkami funduszu w rozumieniu ustawy.
+
+2. Przedsiębiorcy, którzy w dniu wejścia w życie ustawy prowadzą więcej niż jeden zakład górniczy, mogą utworzyć wspólny fundusz, dokonując likwidacji funduszy utworzonych dla poszczególnych zakładów górniczych. W takiej sytuacji przedsiębiorcy przekazują środki funduszy likwidowanych na rachunek funduszu wspólnego.
+
+3. Z dniem wejścia w życie ustawy fundusz utworzony na podstawie dotychczasowych przepisów przez przedsiębiorcę wykonującego działalność na podstawie koncesji starosty może ulec likwidacji.
+
+**Art. 216.** Do stwierdzenia nieważności lub wznowienia postępowania w sprawach zakończonych ostatecznymi orzeczeniami komisji do spraw szkód górniczych stosuje się dotychczasowe przepisy.
+
+**Art. 217.** Do opłat, o których mowa w dziale VII, należnych za okres sprzed dnia wejścia w życie ustawy stosuje się dotychczasowe przepisy.
+
+**Art. 218.**
+
+1. Zwrotu opłat lub administracyjnych kar pieniężnych, nienależnie pobranych za okres do dnia 31 grudnia 2001 r., dokonują odpowiednio Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej albo gmina.
+
+2. Zwrotu, o którym mowa w ust. 1, dokonuje się na podstawie decyzji właściwego organu koncesyjnego, a w przypadku wydobycia kopaliny bez wymaganej koncesji – decyzji organu, który dokonał ustalenia wymiaru opłaty lub administracyjnej kary pieniężnej.
+
+**Art. 219.** Po dniu wejścia w życie ustawy organy określone jako właściwe na podstawie dotychczasowych przepisów przekażą organom określonym jako właściwe na podstawie niniejszej ustawy akta spraw:
+
+- **1)** zakończonych – w terminie 3 miesięcy od dnia wejścia w życie ustawy;
+- **2)** będących w toku – niezwłocznie po zakończeniu postępowania.
+
+**Art. 220.** (pominięty)
+
+**Art. 221.**
+
+1. Urząd Górniczy do Badań Kontrolnych Urządzeń Energomechanicznych, utworzony rozporządzeniem Prezesa Rady Ministrów z dnia 26 sierpnia 1994 r. w sprawie utworzenia Urzędu Górniczego do Badań Kontrolnych Urządzeń Energomechanicznych (Dz. U. poz. 436 oraz z 1997 r. poz. 625), staje się Specjalistycznym Urzędem Górniczym w rozumieniu niniejszej ustawy.
+
+2. Stosunek pracy na podstawie powołania osoby zajmującej w dniu wejścia w życie ustawy stanowisko dyrektora Urzędu Górniczego do Badań Kontrolnych Urządzeń Energomechanicznych albo zastępcy dyrektora Urzędu Górniczego do Badań Kontrolnych Urządzeń Energomechanicznych, nawiązany na mocy dotychczasowych przepisów, staje się stosunkiem pracy na podstawie powołania na stanowisko dyrektora SUG albo zastępcy dyrektora SUG w rozumieniu przepisów Kodeksu pracy.
+
+**Art. 222.** Do postępowań wszczętych przed dniem wejścia w życie ustawy stosuje się dotychczasowe przepisy.
+
+**Art. 223.** Stosunek pracy na podstawie powołania osoby zajmującej w dniu wejścia w życie ustawy stanowisko Prezesa Wyższego Urzędu Górniczego, Wiceprezesa Wyższego Urzędu Górniczego, dyrektora okręgowego urzędu górniczego albo zastępcy dyrektora okręgowego urzędu górniczego, nawiązany na mocy dotychczasowych przepisów, staje się stosunkiem pracy na podstawie powołania w rozumieniu przepisów Kodeksu pracy.
+
+**Art. 224.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 11 ust. 4, art. 31 ust. 2, art. 47 ust. 12, art. 50 ust. 1 pkt 1, pkt 2 lit. a i b, pkt 3–7, art. 52 ust. 3, art. 54 ust. 2, art. 64 ust. 6, art. 68 ust. 2, art. 69 ust. 3, art. 70 ust. 3, art. 73a ust. 3, art. 75a ust. 2, art. 78 ust. 1–3, art. 82b ust. 2, art. 82c ust. 5 i 6, art. 84 ust. 11, art. 85 ust. 14, art. 107 ust. 10, art. 108 ust. 4, art. 111 ust. 8 ustawy, o której mowa w art. 226, zachowują moc do czasu wejścia w życie aktów wykonawczych wydanych na podstawie art. 14 ust. 4, art. 26 ust. 5, art. 35 ust. 4, art. 69 ust. 1, art. 79 ust. 3, art. 97 ust. 1 pkt 1–4, art. 98 ust. 2, art. 100 ust. 10, art. 101 ust. 12, art. 110, art. 113 ust. 15, art. 116 ust. 7, art. 118 ust. 4, art. 120 ust. 1 i 2, art. 124, art. 125 ust. 7, art. 137 ust. 7, art. 166 ust. 4, art. 167 ust. 7 niniejszej ustawy.
+
+**Art. 225.** Ilekroć w obowiązujących przepisach jest przywołana ustawa, o której mowa w art. 226, należy przez to rozumieć niniejszą ustawę.
+
+**Art. 226.** Traci moc ustawa z dnia 4 lutego 1994 r. – Prawo geologiczne i górnicze (Dz. U. z 2005 r. poz. 1947, z późn. zm. ).
+
+**Art. 227.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r. STAWKI OPŁAT EKSPLOATACYJNYCH Lp. Rodzaj kopaliny Jednostka miary Stawka opłaty (j.m.) eksploatacyjnej (zł/j.m.) 1 2 3 4 1 Alabastry t 2,98 2 Amfibolity t 0,99 3 Anhydryty t 3,54 4 Baryty t 5,36 5 Bazalty t 1,04 6 Bentonity t 1,82 7 Chalcedonity t 0,64 8 Diabazy t 0,74 9 Dolomity t 0,84 10 Gabra t 0,99 10a Gazy szlachetne tys. m 40 11 Gaz ziemny wysokometanowy, którego wydobycie tys. m 24,00 w okresie rozliczeniowym przekracza 2500 tys. m 11a Gaz ziemny wysokometanowy, którego wydobycie tys. m 6,23 w okresie rozliczeniowym nie przekracza 2500 tys. m 12 Gaz ziemny pozostały, którego wydobycie w okresie tys. m 20,00 rozliczeniowym przekracza 2500 tys. m 12a Gaz ziemny pozostały, którego wydobycie w okresie tys. m 5,18 rozliczeniowym nie przekracza 2500 tys. m 12b Gaz ziemny z zawartością helu
 

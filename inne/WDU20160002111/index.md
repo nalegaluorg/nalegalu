@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie upoważnienia Narodowego Instytutu Muzealnictwa i Ochrony Zbiorów do uznawania kwalifikacji do wykonywania zawodu muzealnika Na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r.
 poz. 543, z późn. zm. ) zarządza się, co następuje:
-§ 1. Upoważnia się Narodowy Instytut Muzealnictwa i Ochrony Zbiorów do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji do wykonywania zawodu muzealnika.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** Upoważnia się Narodowy Instytut Muzealnictwa i Ochrony Zbiorów do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji do wykonywania zawodu muzealnika.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

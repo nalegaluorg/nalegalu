@@ -28,19 +28,6 @@ source: pdf
 Poz. 2660 2660 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA1) z dnia 21 listopada 2023 r.
 w sprawie ustanowienia planu ochrony dla Parku Narodowego Gór Stołowych Na podstawie art. 19 ust. 5 w związku z art. 20 ust. 5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U.
 z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
-§ 1. Ustanawia się plan ochrony dla Parku Narodowego Gór Stołowych, który staje się planem ochrony dla obszaru specjalnej ochrony ptaków Góry Stołowe (PLB0200062)) oraz dla specjalnego obszaru ochrony siedlisk Góry Stołowe (PLH0200043)), w częściach pokrywających się z obszarem Parku Narodowego Gór Stołowych, stanowiący załącznik do rozporządzenia.
-§ 2. 1. Do:
-1) projektów:
-a) studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin,
-b) miejscowych planów zagospodarowania przestrzennego,
-2) projektu planu zagospodarowania przestrzennego województwa dolnośląskiego − uzgodnionych z Dyrektorem Parku Narodowego Gór Stołowych przed dniem wejścia w życie rozporządzenia nie stosuje się ustaleń do planów ogólnych gmin, miejscowych planów zagospodarowania przestrzennego, planu zagospodarowania przestrzennego województwa dolnośląskiego, dotyczących eliminacji lub ograniczenia zagrożeń wewnętrznych lub zewnętrznych ujętych w rozdziale 12 załącznika do rozporządzenia.
-2. Do projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin nieuzgodnionych z Dyrektorem Parku Narodowego Gór Stołowych przed dniem wejścia w życie rozporządzenia stosuje się ustalenia do planów ogólnych gmin dotyczące eliminacji lub ograniczenia zagrożeń wewnętrznych lub zewnętrznych ujęte w rozdziale 12 załącznika do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.
-Minister Klimatu i Środowiska: A. Moskwa
-1) Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu Środowiska (Dz. U. poz. 1949).
-2) Kod obszaru został określony zgodnie z rozporządzeniem Ministra Środowiska z dnia 12 stycznia 2011 r. w sprawie obszarów specjalnej ochrony ptaków (Dz. U. poz. 133 i 358, z 2012 r. poz. 358, z 2017 r. poz. 1416, z 2018 r. poz. 1789, z 2022 r. poz. 96 oraz z 2023 r. poz. 1281).
-3) Kod obszaru został określony zgodnie z decyzją wykonawczą Komisji (UE) 2023/244 z dnia 26 stycznia 2023 r. w sprawie przyjęcia szesnastego zaktualizowanego wykazu terenów mających znaczenie dla Wspólnoty składających się na kontynentalny region biogeograficzny (notyfikowaną jako dokument nr C(2023) 607) (Dz. Urz. UE L 36 z 07.02.2023, str. 384).
-Dziennik Ustaw – 2 – Poz. 2660 ﻿
 1. Celem ochrony przyrody Parku Narodowego Gór Stołowych, zwanego dalej „Parkiem”, jest:
 1) utrzymanie oraz zapewnienie niezakłóconego przebiegu procesów ekologicznych;
 2) utrzymanie trwałości ekosystemów i minimalizacja ingerencji w funkcjonowanie ekosystemów, z wyjątkiem ekosystemów półnaturalnych;
@@ -1293,6 +1280,26 @@ Dziennik Ustaw – 230 – Poz. 2660 ﻿ Objaśnienia:
 8) Parametry lub wskaźniki stanu ochrony, odrębne dla każdego siedliska lub gatunku, zostały oparte na podstawie wskaźników stanu zachowania zawartych w metodyce monitoringu przyrodniczego, o którym mowa w art. 112 ust. 2 ustawy z dnia 16 kwietnia 2004 r.
 o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890), i raportów, o których mowa w art. 38 tej ustawy.
 9) Cel ochrony uwzględnia najnowsze z dostępnych oceny stanu zachowania dla poszczególnych wskaźników.
+
+**§ 1.** Ustanawia się plan ochrony dla Parku Narodowego Gór Stołowych, który staje się planem ochrony dla obszaru specjalnej ochrony ptaków Góry Stołowe (PLB0200062)) oraz dla specjalnego obszaru ochrony siedlisk Góry Stołowe (PLH0200043)), w częściach pokrywających się z obszarem Parku Narodowego Gór Stołowych, stanowiący załącznik do rozporządzenia.
+
+**§ 2.**
+
+1. Do:
+
+- **1)** projektów:
+    - **a)** studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin,
+    - **b)** miejscowych planów zagospodarowania przestrzennego,
+
+- **2)** projektu planu zagospodarowania przestrzennego województwa dolnośląskiego − uzgodnionych z Dyrektorem Parku Narodowego Gór Stołowych przed dniem wejścia w życie rozporządzenia nie stosuje się ustaleń do planów ogólnych gmin, miejscowych planów zagospodarowania przestrzennego, planu zagospodarowania przestrzennego województwa dolnośląskiego, dotyczących eliminacji lub ograniczenia zagrożeń wewnętrznych lub zewnętrznych ujętych w rozdziale 12 załącznika do rozporządzenia.
+
+2. Do projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin nieuzgodnionych z Dyrektorem Parku Narodowego Gór Stołowych przed dniem wejścia w życie rozporządzenia stosuje się ustalenia do planów ogólnych gmin dotyczące eliminacji lub ograniczenia zagrożeń wewnętrznych lub zewnętrznych ujęte w rozdziale 12 załącznika do rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. Minister Klimatu i Środowiska: A. Moskwa
+
+- **1)** Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu Środowiska (Dz. U. poz. 1949).
+- **2)** Kod obszaru został określony zgodnie z rozporządzeniem Ministra Środowiska z dnia 12 stycznia 2011 r. w sprawie obszarów specjalnej ochrony ptaków (Dz. U. poz. 133 i 358, z 2012 r. poz. 358, z 2017 r. poz. 1416, z 2018 r. poz. 1789, z 2022 r. poz. 96 oraz z 2023 r. poz. 1281).
+- **3)** Kod obszaru został określony zgodnie z decyzją wykonawczą Komisji (UE) 2023/244 z dnia 26 stycznia 2023 r. w sprawie przyjęcia szesnastego zaktualizowanego wykazu terenów mających znaczenie dla Wspólnoty składających się na kontynentalny region biogeograficzny (notyfikowaną jako dokument nr C(2023) 607) (Dz. Urz. UE L 36 z 07.02.2023, str. 384). Dziennik Ustaw – 2 – Poz. 2660 ﻿
 
 #### Rozdział 1 CELE OCHRONY PRZYRODY ORAZ WSKAZANIE PRZYRODNICZYCH I SPOŁECZNYCH UWARUNKOWAŃ ICH REALIZACJI
 

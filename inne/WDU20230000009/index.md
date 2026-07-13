@@ -27,9 +27,14 @@ source: pdf
 
 w sprawie alternatywnej metody identyfikacji koni rasy trakeńskiej Na podstawie art. 33 ust. 7 ustawy z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U.
 poz. 2727) zarządza się, co następuje:
-§ 1. Alternatywną metodą identyfikacji koni rasy trakeńskiej, o której mowa w art. 59 ust. 1 lit. b rozporządzenia delegowanego Komisji (UE) 2019/2035 z dnia 28 czerwca 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/429 w odniesieniu do przepisów dotyczących zakładów utrzymujących zwierzęta lądowe i wylęgarni oraz identyfikowalności niektórych utrzymywanych zwierząt lądowych i jaj wylęgowych (Dz. Urz. UE L 314 z 05.12.2019, str. 115, z późn. zm. ), jest przeprowadzanie badania markerów genetycznych, zwanego dalej „badaniem”.
-§ 2. 1. Badanie jest przeprowadzane przed odsadzeniem źrebięcia od matki przez laboratorium wskazane przez związek hodowców koniowatych uznany do prowadzenia księgi hodowlanej koni rasy trakeńskiej.
+
+**§ 1.** Alternatywną metodą identyfikacji koni rasy trakeńskiej, o której mowa w art. 59 ust. 1 lit. b rozporządzenia delegowanego Komisji (UE) 2019/2035 z dnia 28 czerwca 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/429 w odniesieniu do przepisów dotyczących zakładów utrzymujących zwierzęta lądowe i wylęgarni oraz identyfikowalności niektórych utrzymywanych zwierząt lądowych i jaj wylęgowych (Dz. Urz. UE L 314 z 05.12.2019, str. 115, z późn. zm. ), jest przeprowadzanie badania markerów genetycznych, zwanego dalej „badaniem”.
+
+**§ 2.**
+
+1. Badanie jest przeprowadzane przed odsadzeniem źrebięcia od matki przez laboratorium wskazane przez związek hodowców koniowatych uznany do prowadzenia księgi hodowlanej koni rasy trakeńskiej.
+
 2. Wynik badania jest umieszczany w unikalnym dożywotnim dokumencie identyfikacyjnym, a kopia tego wyniku jest przekazywana za pomocą środków komunikacji elektronicznej przez podmiot wydający unikalny dożywotni dokument identyfikacyjny do komputerowej bazy danych.
-§ 3. Rozporządzenie wchodzi w życie z dniem 6 stycznia 2023 r.
-Minister Rolnictwa i Rozwoju Wsi: wz. A. Gembicka
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 6 stycznia 2023 r. Minister Rolnictwa i Rozwoju Wsi: wz. A. Gembicka
 

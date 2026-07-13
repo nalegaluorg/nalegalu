@@ -26,101 +26,118 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1385/text.pdf) |
 
 w sprawie bazy danych obiektów topograficznych oraz mapy zasadniczej Na podstawie art. 19 ust. 1 pkt 7 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 poz. 2052 oraz z 2021 r. poz. 922) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) zakres informacji gromadzonych w bazie danych obiektów topograficznych, o której mowa w art. 4 ust. 1a pkt ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, zwanej dalej „bazą BDOT500”;
-2) organizację, tryb i standardy techniczne tworzenia, aktualizacji i udostępniania bazy BDOT500;
-3) organizację, tryb i standardy techniczne tworzenia mapy zasadniczej, o której mowa w art. 4 ust. 1e pkt 2 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, zwanej dalej „ustawą”.
-§ 2. 1. Lokalizację obiektów bazy BDOT500 określa się w układzie współrzędnych płaskich prostokątnych PL-2000, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy.
-2. Wysokości charakterystycznych punktów obiektów bazy BDOT500 określa się w układzie wysokościowym PL-EVRF2007-NH, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy.
-3. Reprezentacją geometryczną obiektów bazy BDOT500 w zależności od ich rodzaju może być: punkt, zbiór punktów (multipunkt), linia łamana, zbiór linii łamanych (multilinia) wielokąt (poligon) oraz zbiór wielokątów (multipoligon).
-§ 3. 1. W bazie BDOT500 gromadzi się informacje dotyczące:
-1) budynków niewykazanych w ewidencji gruntów i budynków oraz obiektów budowlanych trwale związanych z budynkiem;
-2) budowli;
-3) ogrodzeń;
-4) komunikacji;
-5) zagospodarowania terenu;
-6) sportu i rekreacji;
-7) wód;
-8) rzeźby terenu.
-2. Wykaz obiektów bazy BDOT500 wraz z dozwolonymi typami geometrii określa załącznik nr 1 do rozporządzenia.
-§ 4. 1. Atrybutami wspólnymi dla wszystkich obiektów bazy BDOT500 są:
-1) metoda pozyskania informacji o obiekcie;
-2) data przyjęcia do państwowego zasobu geodezyjnego i kartograficznego;
-3) numer operatu technicznego, w ramach którego obiekt został wprowadzony do bazy BDOT500.
-2. Wyróżnia się następujące metody pozyskiwania informacji o obiekcie bazy BDOT500:
-1) pomiar bezpośredni w nawiązaniu do osnowy – oznaczenie literą O;
-2) wektoryzacja – oznaczenie literą D;
-3) pomiar fotogrametryczny – oznaczenie literą F;
-4) pomiar bezpośredni w nawiązaniu do szczegółów terenowych – oznaczenie literą M;
-5) inna metoda pozyskania – oznaczenie literą I;
-6) nieokreślona metoda pozyskania – oznaczenie literą X.
-§ 5. Z każdym obiektem bazy BDOT500 mogą być związane informacje określające wysokości punktów charakterystycznych położonych na elementach tych obiektów.
-§ 6. 1. Każdemu obiektowi bazy BDOT500 nadaje się identyfikator infrastruktury informacji przestrzennej, zwany „identyfikatorem IdIIP”, na który składają się:
-1) przestrzeń nazw, w której skład wchodzi identyfikator zbioru danych przestrzennych, do którego należy dany obiekt przestrzenny, według ewidencji zbiorów oraz usług danych przestrzennych infrastruktury informacji przestrzennej, o której mowa w przepisach wydanych na podstawie art. 13 ust. 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze formacji przestrzennej (Dz. U. z 2021 r. poz. 214), uzupełniona po kropce skrótem „BDOT500”;
-2) identyfikator lokalny wyróżniający w sposób jednoznaczny dany obiekt spośród innych obiektów zapisanych w BDOT500;
-3) identyfikator wersji obiektu.
-2. Elementy identyfikatora IdIIP, o których mowa w ust. 1 pkt 1 i 2, nie mogą być zmieniane.
-§ 7. Specyfikację pojęciowego modelu danych bazy BDOT500 określa załącznik nr 2 do rozporządzenia.
-§ 8. 1. Bazę BDOT500 tworzy się i aktualizuje w drodze czynności materialno-technicznej na podstawie materiałów przyjmowanych do państwowego zasobu geodezyjnego i kartograficznego.
-2. Bazę BDOT500 aktualizuje się niezwłocznie, nie później niż w terminie 30 dni od dnia uzyskania materiałów, rych mowa w ust. 1.
-3. Tworzenie i aktualizacja bazy BDOT500 odbywają się zgodnie ze standardami technicznymi określonymi w załącznikach nr 1 i 2 do rozporządzenia.
-§ 9. 1. Dane zawarte w bazie BDOT500 udostępnia się w postaci elektronicznej za pomocą usług przeglądania i pobierania, o których mowa w art. 9 ust. 1 pkt 2 i 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, z uwzględnieniem przepisów wydanych na podstawie art. 40 ust. 8 ustawy.
-2. Specyfikację usług, o których mowa w ust. 1, określa załącznik nr 3 do rozporządzenia.
-3. Schemat aplikacyjny GML dotyczący udostępniania danych z bazy BDOT500, zgodny z modelem danych określonym w załączniku nr 2 do rozporządzenia, Główny Geodeta Kraju publikuje w repozytorium interoperacyjności, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670, 952 i 1005).
-§ 10. 1. Mapa zasadnicza jest tworzona jako wizualizacja kartograficzna generowana na podstawie zbiorów danych, o których mowa w art. 4 ust. 1a pkt 1–4, 10 i 12 ustawy.
-2. Podstawową skalą mapy zasadniczej jest skala 1 : 500.
-3. Standardy techniczne tworzenia mapy zasadniczej, w tym zakres jej treści dla poszczególnych skal oraz znaki umowne, określa załącznik nr 4 do rozporządzenia.
-4. Na mapie zasadniczej umieszcza się informację o jej skali i lokalizacji przedstawionego obszaru.
-§ 11. 1. Organ prowadzący bazę BDOT500 do dnia 31 grudnia 2022 r. dostosowuje bazę BDOT500 prowadzoną podstawie przepisów dotychczasowych do przepisów niniejszego rozporządzenia.
-2. Układ wysokościowy inny niż określony w § 2 ust. 2 może być stosowany przy prowadzeniu bazy BDOT500, jednak nie dłużej niż do dnia 31 grudnia 2023 r.
-§ 12. 1. Do prac związanych z zakładaniem bazy BDOT500 rozpoczętych i niezakończonych przed dniem wejścia w niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
-2. Do prac geodezyjnych związanych z aktualizacją bazy BDOT500 zgłoszonych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia mogą być stosowane przepisy dotychczasowe, jednak nie dłużej niż do dnia 31 grudnia 2021 r.
-§ 13. Rozporządzenie wchodzi w życie z dniem 31 lipca 2021 r.
-Minister Rozwoju, Pracy i Technologii: J. Gowin Załączniki do rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 23 lipca 2021 r. (poz. …) Załącznik nr 1 WYKAZ OBIEKTÓW BAZY BDOT500 WRAZ Z DOZWOLONYMI TYPAMI WYKAZ OBIEKTÓW BAZY BDOT500 GEOMETRII WRAZ Z DOZWOLONYMI TYPAMI GEOMETRII
-1. Obiekty bazy BDOT500
-2. W przypadku gdy zgodnie z ust. 1 dla danego obiektu dopuszcza się więcej niż jeden rodzaj geometrii, należy zastosować geometrię odpowiadającą charakterowi obiektu w terenie.
-3. W przypadku gdy zgodnie z ust. 1 dla danego obiektu dopuszcza się reprezentację geometryczną obiektu za pomocą punktu albo poligonu, reprezentację punktową stosuje się, jeżeli średnica obiektu lub jego wymiary (podłużny i poprzeczny) są mniejsze niż 0,75 m lub równe 0,75 m. W przypadku większych obiektów stosuje się reprezentację za pomocą poligonu.
-Dziennik Ustaw – 6 – Poz.
-M W W
-2. Diagram: prezentacja graficzna II. Ograniczenia nałożone na atrybuty Klasa: OT_RodzajObiektuZwiazanegoZBudynkiem Nazwa: geometriaPowierzchniaBud Język naturalny: Geometria obiektów: taras, weranda, ganek, wiatrołap, schody, rampa, wjazd do podziemia i podjazd dla osób niepełnosprawnych jest powierzchnią.
-OCL: inv: if self.rodzajObiektu='t' or self.rodzajObiektu='w' or self.rodzajObiektu='i' or self.rodzajObiektu='s' or self.rodzajObiektu='r' or self.rodzajObiektu='j' or self.rodzajObiektu='d' then self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPunktPowierzchniaBud Język naturalny: Geometria obiektu podpora związana z budynkiem jest punktem, multipunktem, powierzchnią lub multipowierzchnią.
-OCL: inv: if self.rodzajObiektu='o' then self.geometria.oclIsTypeOf(GM_Surface)=true Klasa: OT_Budowle Nazwa: geometriaPunktB Język naturalny: Geometria obiektów figura i krzyż jest punktem.
-OCL: inv: if self.rodzajBudowli='F' then self.geometria.oclIsTypeOf(GM_Point)=true Nazwa: geometriaPunktMultiPunktPowierzchniaB Język naturalny: Geometria obiektu podpora jest punktem, multipunktem lub powierzchnią.
-OCL: inv: if self.rodzajBudowli='d' then self.geometria.oclIsTypeOf(GM_Point)=true or self.geometria.oclIsTypeOf(GM_MultiPoint)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaLiniaPowierzchniaB Język naturalny: Geometria obiektu ściana oporowa jest linią lub powierzchnią.
-OCL: inv: if self.rodzajBudowli='n' then self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPunktPowierzchniaB Język naturalny: Geometria obiektów fontanna i pomnik jest punktem lub powierzchnią.
-OCL: inv: if self.rodzajBudowli='t' or self.rodzajBudowli='p' then self.geometria.oclIsTypeOf(GM_Point)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPunktLiniaPowierzchniaB Język naturalny: Geometria innej budowli jest punktem, linią lub powierzchnią.
-OCL: inv: if self.rodzajBudowli='i' then self.geometria.oclIsTypeOf(GM_Point)=true or self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPowierzchniaB Język naturalny: Geometria obiektów: chłodnia kominowa, komin przemysłowy, wieża ciśnień, wieża przeciwpożarowa, wieża szybu kopalnianego, wieża widokowa, zbiornik, silos, wiata i śmietnik jest powierzchnią.
-OCL: inv: if self.rodzajBudowli='k' or self.rodzajBudowli='o' or self.rodzajBudowli='c' or self.rodzajBudowli='z' or self.rodzajBudowli='s' or self.rodzajBudowli='w' or self.rodzajBudowli='b' or self.rodzajBudowi='a' or self.rodzajBudowli='m' then self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPowierzchniaMultiPowierzchniaB Język naturalny: Geometria obiektu ruina zabytkowa jest powierzchnią lub multipowierzchnią.
-OCL: inv: if self.rodzajBudowli='r' then self.geometria.oclIsTypeOf(GM_Surface)=true or self.geometria.oclIsTypeOf(GM_MultiSurface)=true Klasa: OT_Komunikacja Nazwa: wymagalnoscRodzajNawierzchni Język naturalny: Atrybut rodzaj nawierzchni stosuje się do obiektów jezdnia i chodnik.
-OCL: inv: if self.rodzajObiektu='j' or self.rodzajObiektu='c' then self.polozenie.size=1 Nazwa: wymagalnoscPolozenie Język naturalny: Atrybut położenie stosuje się do obiektu jezdnia.
-OCL: inv: if self.rodzajObiektu='j' then self.polozenie.size=1 Nazwa: geometriaLiniaK Język naturalny: Geometria obiektów: krawężnik, bariera ochronna, ekran akustyczny, tor i kolej linowa jest linią.
-OCL: inv: if self.rodzajObiektu='k' or self.rodzajObiektu='b' or self.rodzajObiektu='y' or self.rodzajObiektu='t' or self.rodzajObiektu='l' then self.geometria.oclIsTypeOf(GM_Curve)=true Nazwa: geometriaLiniaPowierzchniaK Język naturalny: Geometria obiektów przepust i inny obiekt komunikacyjny jest linią lub powierzchnią.
-OCL: inv: if self.rodzajObiektu='z' or self.rodzajObiektu='i' then self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPowierzchniaK Język naturalny: Geometria obiektów: jezdnia, chodnik, droga dla rowerów, obszar utwardzony, rów przydrożny, schody w ciągu komunikacyjnym, most, przepust, wiadukt, estakada, peron i rampa jest powierzchnią.
-OCL: nv: if self.rodzajObiektu='j' or self.rodzajObiektu='c' or self.rodzajObiektu='g' or self.rodzajObiektu='u' or self.rodzajObiektu='r' or self.rodzajObiektu='s' or self.rodzajObiektu='m' or self.rodzajObiektu='z' or self.rodzajObiektu='w' or self.rodzajObiektu='e' or self.rodzajObiektu='n' or self.rodzajObiektu='a' then self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaLiniaMultiLiniaPowierzchniaK Język naturalny: Geometria obiektu rów melioracyjny jest linią, multilinią lub powierzchnią.
-OCL: inv: if self.rodzajObiektu='m' then self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_MultiCurve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Klasa: OT_ZagospodarowanieTerenu Nazwa: geometriaPunktZ Język naturalny: Geometria obiektów drzewo liściaste i drzewo iglaste jest punktem.
-OCL: inv: if self.rodzajObiektu='l' or self.rodzajObiektu='g' then self.geometria.oclIsTypeOf(GM_Point)=true Nazwa: geometriaPowierzchniaZ Język naturalny: Geometria obiektów: teren zalesiony, zadrzewienie, zakrzewienie, cmentarz i trawnik jest powierzchnią.
-OCL: inv: if self.rodzajObiektu='z' or self.rodzajObiektu='k' or self.rodzajObiektu='c' or self.rodzajObiektu='t' then self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPunktLiniaPowierzchniaZ Język naturalny: eometria innego obiektu zagospodarowania terenu jest punktem, linią lub powierzchnią.
-OCL: inv: if self.rodzajObiektu='i' then self.geometria.oclIsTypeOf(GM_Point)=true or self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Klasa: OT_SportIRekreacja Nazwa: geometriaLiniaS Język naturalny: Geometria obiektu wyciąg narciarski jest linią.
-OCL: inv: if self.rodzajObiektu='w' then self.geometria.oclIsTypeOf(GM_Curve)=true Nazwa: geometriaPowierzchniaS Język naturalny: Geometria obiektów: basen odkryty, plac sportowy, plac gier i zabaw i inny obiekt sportowy jest powierzchnią.
-OCL: inv: if self.rodzajObiektu='b' or self.rodzajObiektu='p' or self.rodzajObiektu='z' or self.rodzajObiektu='i' then self.geometria.oclIsTypeOf(GM_Surface)=true Klasa: OT_Wody Nazwa: geometriaPowierzchniaW Język naturalny: Geometria obiektów: woda płynąca, woda stojąca, wał przeciwpowodziowy, jaz, śluza, grobla, zapora, ostroga, pomost i molo jest powierzchnią.
-OCL: inv: if self.rodzajObiektu='p' or self.rodzajObiektu='s' or self.rodzajObiektu='w' or self.rodzajObiektu='j' or self.rodzajObiektu='l' or self.rodzajObiektu='g' or self.rodzajObiektu='z' or self.rodzajObiektu='t' or self.rodzajObiektu='o' then self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPunktLiniaPowierzchniaW Język naturalny: Geometria obiektu inny obiekt związany z wodą jest punktem, linią lub powierzchnią.
-OCL: inv: if self.rodzajObiektu='t' then self.geometria.oclIsTypeOf(GM_Point)=true or self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPowierzchniaMultiPowierzchniaW Język naturalny: Geometria obiektów wał przeciwpowodziowy i grobla jest powierzchnią lub multipowierzchnią.
-OCL: inv: if self.rodzajObiektu='w' or self.rodzajObiektu='g' then self.geometria.oclIsTypeOf(GM_Surface)=true or self.geometria.oclIsTypeOf(GM_MultiSurface)=true Nazwa: geometriaLiniaMultiLiniaPowierzchniaW Język naturalny: Geometria obiektu rów melioracyjny jest linią, multilinią lub powierzchnią.
-OCL: inv: if self.rodzajObiektu='m' then self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_MultiCurve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Klasa: PrezentacjaGraficzna Nazwa: katObrotu Język naturalny: Kąt obrotu mierzy się od osi x układu geodezyjnego zgodnie z ruchem wskazówek zegara i podaje się w radianach.
-Klasa: Etykieta Nazwa: katObrotuEtykiety Język naturalny: Kąt obrotu etykiety mierzy się od osi y układu geodezyjnego przeciwnie do ruchu wskazówek zegara i podaje się w radianach.
-Nazwa: justyfikacja Język naturalny: Atrybut justyfikacja przyjmuje wartości w przedziale 1–9.
 
 #### Rozdział 1 Przepisy ogólne
 
+**§ 1.** Rozporządzenie określa:
+
+- **1)** zakres informacji gromadzonych w bazie danych obiektów topograficznych, o której mowa w art. 4 ust. 1a pkt ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, zwanej dalej „bazą BDOT500”;
+- **2)** organizację, tryb i standardy techniczne tworzenia, aktualizacji i udostępniania bazy BDOT500;
+- **3)** organizację, tryb i standardy techniczne tworzenia mapy zasadniczej, o której mowa w art. 4 ust. 1e pkt 2 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, zwanej dalej „ustawą”.
+
+**§ 2.**
+
+1. Lokalizację obiektów bazy BDOT500 określa się w układzie współrzędnych płaskich prostokątnych PL-2000, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy.
+
+2. Wysokości charakterystycznych punktów obiektów bazy BDOT500 określa się w układzie wysokościowym PL-EVRF2007-NH, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy.
+
+3. Reprezentacją geometryczną obiektów bazy BDOT500 w zależności od ich rodzaju może być: punkt, zbiór punktów (multipunkt), linia łamana, zbiór linii łamanych (multilinia) wielokąt (poligon) oraz zbiór wielokątów (multipoligon).
+
 #### Rozdział 2 Zakres informacji gromadzonych w bazie BDOT500
+
+**§ 3.**
+
+1. W bazie BDOT500 gromadzi się informacje dotyczące:
+
+- **1)** budynków niewykazanych w ewidencji gruntów i budynków oraz obiektów budowlanych trwale związanych z budynkiem;
+- **2)** budowli;
+- **3)** ogrodzeń;
+- **4)** komunikacji;
+- **5)** zagospodarowania terenu;
+- **6)** sportu i rekreacji;
+- **7)** wód;
+- **8)** rzeźby terenu.
+
+2. Wykaz obiektów bazy BDOT500 wraz z dozwolonymi typami geometrii określa załącznik nr 1 do rozporządzenia.
+
+**§ 4.**
+
+1. Atrybutami wspólnymi dla wszystkich obiektów bazy BDOT500 są:
+
+- **1)** metoda pozyskania informacji o obiekcie;
+- **2)** data przyjęcia do państwowego zasobu geodezyjnego i kartograficznego;
+- **3)** numer operatu technicznego, w ramach którego obiekt został wprowadzony do bazy BDOT500.
+
+2. Wyróżnia się następujące metody pozyskiwania informacji o obiekcie bazy BDOT500:
+
+- **1)** pomiar bezpośredni w nawiązaniu do osnowy – oznaczenie literą O;
+- **2)** wektoryzacja – oznaczenie literą D;
+- **3)** pomiar fotogrametryczny – oznaczenie literą F;
+- **4)** pomiar bezpośredni w nawiązaniu do szczegółów terenowych – oznaczenie literą M;
+- **5)** inna metoda pozyskania – oznaczenie literą I;
+- **6)** nieokreślona metoda pozyskania – oznaczenie literą X.
+
+**§ 5.** Z każdym obiektem bazy BDOT500 mogą być związane informacje określające wysokości punktów charakterystycznych położonych na elementach tych obiektów.
+
+**§ 6.**
+
+1. Każdemu obiektowi bazy BDOT500 nadaje się identyfikator infrastruktury informacji przestrzennej, zwany „identyfikatorem IdIIP”, na który składają się:
+
+- **1)** przestrzeń nazw, w której skład wchodzi identyfikator zbioru danych przestrzennych, do którego należy dany obiekt przestrzenny, według ewidencji zbiorów oraz usług danych przestrzennych infrastruktury informacji przestrzennej, o której mowa w przepisach wydanych na podstawie art. 13 ust. 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze formacji przestrzennej (Dz. U. z 2021 r. poz. 214), uzupełniona po kropce skrótem „BDOT500”;
+- **2)** identyfikator lokalny wyróżniający w sposób jednoznaczny dany obiekt spośród innych obiektów zapisanych w BDOT500;
+- **3)** identyfikator wersji obiektu.
+
+2. Elementy identyfikatora IdIIP, o których mowa w ust. 1 pkt 1 i 2, nie mogą być zmieniane.
+
+**§ 7.** Specyfikację pojęciowego modelu danych bazy BDOT500 określa załącznik nr 2 do rozporządzenia.
 
 #### Rozdział 3 Organizacja, tryb i standardy techniczne tworzenia i aktualizacji bazy BDOT500
 
+**§ 8.**
+
+1. Bazę BDOT500 tworzy się i aktualizuje w drodze czynności materialno-technicznej na podstawie materiałów przyjmowanych do państwowego zasobu geodezyjnego i kartograficznego.
+
+2. Bazę BDOT500 aktualizuje się niezwłocznie, nie później niż w terminie 30 dni od dnia uzyskania materiałów, rych mowa w ust. 1.
+
+3. Tworzenie i aktualizacja bazy BDOT500 odbywają się zgodnie ze standardami technicznymi określonymi w załącznikach nr 1 i 2 do rozporządzenia.
+
 #### Rozdział 4 Organizacja, tryb i standardy techniczne udostępniania danych z bazy BDOT500
+
+**§ 9.**
+
+1. Dane zawarte w bazie BDOT500 udostępnia się w postaci elektronicznej za pomocą usług przeglądania i pobierania, o których mowa w art. 9 ust. 1 pkt 2 i 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, z uwzględnieniem przepisów wydanych na podstawie art. 40 ust. 8 ustawy.
+
+2. Specyfikację usług, o których mowa w ust. 1, określa załącznik nr 3 do rozporządzenia.
+
+3. Schemat aplikacyjny GML dotyczący udostępniania danych z bazy BDOT500, zgodny z modelem danych określonym w załączniku nr 2 do rozporządzenia, Główny Geodeta Kraju publikuje w repozytorium interoperacyjności, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670, 952 i 1005).
 
 #### Rozdział 5 Organizacja, tryb i standardy techniczne tworzenia mapy zasadniczej
 
+**§ 10.**
+
+1. Mapa zasadnicza jest tworzona jako wizualizacja kartograficzna generowana na podstawie zbiorów danych, o których mowa w art. 4 ust. 1a pkt 1–4, 10 i 12 ustawy.
+
+2. Podstawową skalą mapy zasadniczej jest skala 1 : 500.
+
+3. Standardy techniczne tworzenia mapy zasadniczej, w tym zakres jej treści dla poszczególnych skal oraz znaki umowne, określa załącznik nr 4 do rozporządzenia.
+
+4. Na mapie zasadniczej umieszcza się informację o jej skali i lokalizacji przedstawionego obszaru.
+
 #### Rozdział 6 Przepisy dostosowujące, przejściowe i końcowe
+
+**§ 11.**
+
+1. Organ prowadzący bazę BDOT500 do dnia 31 grudnia 2022 r. dostosowuje bazę BDOT500 prowadzoną podstawie przepisów dotychczasowych do przepisów niniejszego rozporządzenia.
+
+2. Układ wysokościowy inny niż określony w § 2 ust. 2 może być stosowany przy prowadzeniu bazy BDOT500, jednak nie dłużej niż do dnia 31 grudnia 2023 r.
+
+**§ 12.**
+
+1. Do prac związanych z zakładaniem bazy BDOT500 rozpoczętych i niezakończonych przed dniem wejścia w niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
+
+2. Do prac geodezyjnych związanych z aktualizacją bazy BDOT500 zgłoszonych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia mogą być stosowane przepisy dotychczasowe, jednak nie dłużej niż do dnia 31 grudnia 2021 r.
+
+**§ 13.** Rozporządzenie wchodzi w życie z dniem 31 lipca 2021 r. Minister Rozwoju, Pracy i Technologii: J. Gowin Załączniki do rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 23 lipca 2021 r. (poz. …) Załącznik nr 1 WYKAZ OBIEKTÓW BAZY BDOT500 WRAZ Z DOZWOLONYMI TYPAMI WYKAZ OBIEKTÓW BAZY BDOT500 GEOMETRII WRAZ Z DOZWOLONYMI TYPAMI GEOMETRII 1. Obiekty bazy BDOT500 2. W przypadku gdy zgodnie z ust. 1 dla danego obiektu dopuszcza się więcej niż jeden rodzaj geometrii, należy zastosować geometrię odpowiadającą charakterowi obiektu w terenie. 3. W przypadku gdy zgodnie z ust. 1 dla danego obiektu dopuszcza się reprezentację geometryczną obiektu za pomocą punktu albo poligonu, reprezentację punktową stosuje się, jeżeli średnica obiektu lub jego wymiary (podłużny i poprzeczny) są mniejsze niż 0,75 m lub równe 0,75 m. W przypadku większych obiektów stosuje się reprezentację za pomocą poligonu. Dziennik Ustaw – 6 – Poz. M W W 2. Diagram: prezentacja graficzna II. Ograniczenia nałożone na atrybuty Klasa: OT_RodzajObiektuZwiazanegoZBudynkiem Nazwa: geometriaPowierzchniaBud Język naturalny: Geometria obiektów: taras, weranda, ganek, wiatrołap, schody, rampa, wjazd do podziemia i podjazd dla osób niepełnosprawnych jest powierzchnią. OCL: inv: if self.rodzajObiektu='t' or self.rodzajObiektu='w' or self.rodzajObiektu='i' or self.rodzajObiektu='s' or self.rodzajObiektu='r' or self.rodzajObiektu='j' or self.rodzajObiektu='d' then self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPunktPowierzchniaBud Język naturalny: Geometria obiektu podpora związana z budynkiem jest punktem, multipunktem, powierzchnią lub multipowierzchnią. OCL: inv: if self.rodzajObiektu='o' then self.geometria.oclIsTypeOf(GM_Surface)=true Klasa: OT_Budowle Nazwa: geometriaPunktB Język naturalny: Geometria obiektów figura i krzyż jest punktem. OCL: inv: if self.rodzajBudowli='F' then self.geometria.oclIsTypeOf(GM_Point)=true Nazwa: geometriaPunktMultiPunktPowierzchniaB Język naturalny: Geometria obiektu podpora jest punktem, multipunktem lub powierzchnią. OCL: inv: if self.rodzajBudowli='d' then self.geometria.oclIsTypeOf(GM_Point)=true or self.geometria.oclIsTypeOf(GM_MultiPoint)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaLiniaPowierzchniaB Język naturalny: Geometria obiektu ściana oporowa jest linią lub powierzchnią. OCL: inv: if self.rodzajBudowli='n' then self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPunktPowierzchniaB Język naturalny: Geometria obiektów fontanna i pomnik jest punktem lub powierzchnią. OCL: inv: if self.rodzajBudowli='t' or self.rodzajBudowli='p' then self.geometria.oclIsTypeOf(GM_Point)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPunktLiniaPowierzchniaB Język naturalny: Geometria innej budowli jest punktem, linią lub powierzchnią. OCL: inv: if self.rodzajBudowli='i' then self.geometria.oclIsTypeOf(GM_Point)=true or self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPowierzchniaB Język naturalny: Geometria obiektów: chłodnia kominowa, komin przemysłowy, wieża ciśnień, wieża przeciwpożarowa, wieża szybu kopalnianego, wieża widokowa, zbiornik, silos, wiata i śmietnik jest powierzchnią. OCL: inv: if self.rodzajBudowli='k' or self.rodzajBudowli='o' or self.rodzajBudowli='c' or self.rodzajBudowli='z' or self.rodzajBudowli='s' or self.rodzajBudowli='w' or self.rodzajBudowli='b' or self.rodzajBudowi='a' or self.rodzajBudowli='m' then self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPowierzchniaMultiPowierzchniaB Język naturalny: Geometria obiektu ruina zabytkowa jest powierzchnią lub multipowierzchnią. OCL: inv: if self.rodzajBudowli='r' then self.geometria.oclIsTypeOf(GM_Surface)=true or self.geometria.oclIsTypeOf(GM_MultiSurface)=true Klasa: OT_Komunikacja Nazwa: wymagalnoscRodzajNawierzchni Język naturalny: Atrybut rodzaj nawierzchni stosuje się do obiektów jezdnia i chodnik. OCL: inv: if self.rodzajObiektu='j' or self.rodzajObiektu='c' then self.polozenie.size=1 Nazwa: wymagalnoscPolozenie Język naturalny: Atrybut położenie stosuje się do obiektu jezdnia. OCL: inv: if self.rodzajObiektu='j' then self.polozenie.size=1 Nazwa: geometriaLiniaK Język naturalny: Geometria obiektów: krawężnik, bariera ochronna, ekran akustyczny, tor i kolej linowa jest linią. OCL: inv: if self.rodzajObiektu='k' or self.rodzajObiektu='b' or self.rodzajObiektu='y' or self.rodzajObiektu='t' or self.rodzajObiektu='l' then self.geometria.oclIsTypeOf(GM_Curve)=true Nazwa: geometriaLiniaPowierzchniaK Język naturalny: Geometria obiektów przepust i inny obiekt komunikacyjny jest linią lub powierzchnią. OCL: inv: if self.rodzajObiektu='z' or self.rodzajObiektu='i' then self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPowierzchniaK Język naturalny: Geometria obiektów: jezdnia, chodnik, droga dla rowerów, obszar utwardzony, rów przydrożny, schody w ciągu komunikacyjnym, most, przepust, wiadukt, estakada, peron i rampa jest powierzchnią. OCL: nv: if self.rodzajObiektu='j' or self.rodzajObiektu='c' or self.rodzajObiektu='g' or self.rodzajObiektu='u' or self.rodzajObiektu='r' or self.rodzajObiektu='s' or self.rodzajObiektu='m' or self.rodzajObiektu='z' or self.rodzajObiektu='w' or self.rodzajObiektu='e' or self.rodzajObiektu='n' or self.rodzajObiektu='a' then self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaLiniaMultiLiniaPowierzchniaK Język naturalny: Geometria obiektu rów melioracyjny jest linią, multilinią lub powierzchnią. OCL: inv: if self.rodzajObiektu='m' then self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_MultiCurve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Klasa: OT_ZagospodarowanieTerenu Nazwa: geometriaPunktZ Język naturalny: Geometria obiektów drzewo liściaste i drzewo iglaste jest punktem. OCL: inv: if self.rodzajObiektu='l' or self.rodzajObiektu='g' then self.geometria.oclIsTypeOf(GM_Point)=true Nazwa: geometriaPowierzchniaZ Język naturalny: Geometria obiektów: teren zalesiony, zadrzewienie, zakrzewienie, cmentarz i trawnik jest powierzchnią. OCL: inv: if self.rodzajObiektu='z' or self.rodzajObiektu='k' or self.rodzajObiektu='c' or self.rodzajObiektu='t' then self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPunktLiniaPowierzchniaZ Język naturalny: eometria innego obiektu zagospodarowania terenu jest punktem, linią lub powierzchnią. OCL: inv: if self.rodzajObiektu='i' then self.geometria.oclIsTypeOf(GM_Point)=true or self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Klasa: OT_SportIRekreacja Nazwa: geometriaLiniaS Język naturalny: Geometria obiektu wyciąg narciarski jest linią. OCL: inv: if self.rodzajObiektu='w' then self.geometria.oclIsTypeOf(GM_Curve)=true Nazwa: geometriaPowierzchniaS Język naturalny: Geometria obiektów: basen odkryty, plac sportowy, plac gier i zabaw i inny obiekt sportowy jest powierzchnią. OCL: inv: if self.rodzajObiektu='b' or self.rodzajObiektu='p' or self.rodzajObiektu='z' or self.rodzajObiektu='i' then self.geometria.oclIsTypeOf(GM_Surface)=true Klasa: OT_Wody Nazwa: geometriaPowierzchniaW Język naturalny: Geometria obiektów: woda płynąca, woda stojąca, wał przeciwpowodziowy, jaz, śluza, grobla, zapora, ostroga, pomost i molo jest powierzchnią. OCL: inv: if self.rodzajObiektu='p' or self.rodzajObiektu='s' or self.rodzajObiektu='w' or self.rodzajObiektu='j' or self.rodzajObiektu='l' or self.rodzajObiektu='g' or self.rodzajObiektu='z' or self.rodzajObiektu='t' or self.rodzajObiektu='o' then self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPunktLiniaPowierzchniaW Język naturalny: Geometria obiektu inny obiekt związany z wodą jest punktem, linią lub powierzchnią. OCL: inv: if self.rodzajObiektu='t' then self.geometria.oclIsTypeOf(GM_Point)=true or self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Nazwa: geometriaPowierzchniaMultiPowierzchniaW Język naturalny: Geometria obiektów wał przeciwpowodziowy i grobla jest powierzchnią lub multipowierzchnią. OCL: inv: if self.rodzajObiektu='w' or self.rodzajObiektu='g' then self.geometria.oclIsTypeOf(GM_Surface)=true or self.geometria.oclIsTypeOf(GM_MultiSurface)=true Nazwa: geometriaLiniaMultiLiniaPowierzchniaW Język naturalny: Geometria obiektu rów melioracyjny jest linią, multilinią lub powierzchnią. OCL: inv: if self.rodzajObiektu='m' then self.geometria.oclIsTypeOf(GM_Curve)=true or self.geometria.oclIsTypeOf(GM_MultiCurve)=true or self.geometria.oclIsTypeOf(GM_Surface)=true Klasa: PrezentacjaGraficzna Nazwa: katObrotu Język naturalny: Kąt obrotu mierzy się od osi x układu geodezyjnego zgodnie z ruchem wskazówek zegara i podaje się w radianach. Klasa: Etykieta Nazwa: katObrotuEtykiety Język naturalny: Kąt obrotu etykiety mierzy się od osi y układu geodezyjnego przeciwnie do ruchu wskazówek zegara i podaje się w radianach. Nazwa: justyfikacja Język naturalny: Atrybut justyfikacja przyjmuje wartości w przedziale 1–9.
 
 ## Załącznik nr 3 — SPECYFIKACJA SPECYFIKACJA USŁUG PRZEGLĄDANIA USŁUG PRZEGLĄDANIA I POBIERANIA I DOTYCZĄCYCH POBIERANIA UDOSTĘPNIANIA DOTYCZĄCYCH DANYCH UDOSTĘPNIANIA Z BAZY DANYCH BDOT500 Z BAZY BDOT500
 

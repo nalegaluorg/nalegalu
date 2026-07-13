@@ -28,7 +28,8 @@ source: pdf
 
 w sprawie wzoru świadectwa wystawianego przez podmiot realizujący Narodowy Cel Wskaźnikowy Na podstawie art. 28h ust. 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r.
 poz. 901) zarządza się, co następuje:
-§ 1. Określa się wzór świadectwa, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 2 marca 2026 r.
-Minister Klimatu i Środowiska: P. Hennig-Kloska … … M M W W W W W W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W W W W W W W W W M M M M M W W W W W W M W W W W W M W W W W W W W M W M W W M W W W ☐ W ☐ ☐ ☐
+
+**§ 1.** Określa się wzór świadectwa, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 2 marca 2026 r. Minister Klimatu i Środowiska: P. Hennig-Kloska … … M M W W W W W W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W W W W W W W W W M M M M M W W W W W W M W W W W W M W W W W W W W M W M W W M W W W ☐ W ☐ ☐ ☐
 

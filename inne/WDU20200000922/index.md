@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000922) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/922/text.pdf) |
 
 zmieniające rozporządzenie w sprawie informacji o liczbie papierosów poszczególnych marek i ilości tytoniu do palenia oznaczonych maksymalną ceną detaliczną Na podstawie art. 99 ust. 12 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 27 grudnia 2010 r. w sprawie informacji o liczbie papierosów poszczególnych marek i ilości tytoniu do palenia oznaczonych maksymalną ceną detaliczną (Dz. U. z 2018 r. poz. 476) w § w ust. 2 wyrazy „na stronie internetowej urzędu obsługującego ministra właściwego do spraw finansów publicznych (www.mf.gov.pl)” zastępuje się wyrazami „w Serwisie Rzeczypospolitej Polskiej (www.gov.pl/web/finanse)”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 27 grudnia 2010 r. w sprawie informacji o liczbie papierosów poszczególnych marek i ilości tytoniu do palenia oznaczonych maksymalną ceną detaliczną (Dz. U. z 2018 r. poz. 476) w § w ust. 2 wyrazy „na stronie internetowej urzędu obsługującego ministra właściwego do spraw finansów publicznych (www.mf.gov.pl)” zastępuje się wyrazami „w Serwisie Rzeczypospolitej Polskiej (www.gov.pl/web/finanse)”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: T. Kościński
 

@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000659) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/659/text.pdf) |
 
 zmieniające rozporządzenie w sprawie okresowego opiniowania funkcjonariuszy Straży Granicznej Na podstawie art. 39 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2014 r. poz. 1402, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 czerwca 2002 r. w sprawie okresowego opiniowania funkcjonariuszy Straży Granicznej (Dz. U. poz. 787, z 2004 r. poz. 404 oraz z 2014 r. poz. 285) wprowadza się następujące zmiany:
-1) w § 2 w ust. 3 uchyla się pkt 2a;
-2) w § 7 uchyla się ust. 2;
-3) w § 8 ust. 8 otrzymuje brzmienie: „8. Opinia służbowa, od której nie wniesiono odwołania, oraz opinia służbowa wydana w trybie odwoławczym jest opinią ostateczną. Ostateczną opinię służbową włącza się do akt osobowych opiniowanego, z wyjątkiem opinii służbowej wydanej w przypadku, o którym mowa w § 3 ust. 1 pkt 3. Uchylona opinia służbowa podlega zniszczeniu.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 czerwca 2002 r. w sprawie okresowego opiniowania funkcjonariuszy Straży Granicznej (Dz. U. poz. 787, z 2004 r. poz. 404 oraz z 2014 r. poz. 285) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 3 uchyla się pkt 2a;
+- **2)** w § 7 uchyla się ust. 2;
+- **3)** w § 8 ust. 8 otrzymuje brzmienie: „8. Opinia służbowa, od której nie wniesiono odwołania, oraz opinia służbowa wydana w trybie odwoławczym jest opinią ostateczną. Ostateczną opinię służbową włącza się do akt osobowych opiniowanego, z wyjątkiem opinii służbowej wydanej w przypadku, o którym mowa w § 3 ust. 1 pkt 3. Uchylona opinia służbowa podlega zniszczeniu.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

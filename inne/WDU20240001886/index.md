@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001886) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1886/text.pdf) |
 
 zmieniające rozporządzenie w sprawie standardu organizacyjnego opieki zdrowotnej w dziedzinie anestezjologii i intensywnej terapii Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 16 grudnia 2016 r. w sprawie standardu organizacyjnego opieki zdrowotnej w dziedzinie anestezjologii i intensywnej terapii (Dz. U. z 2024 r. poz. 332) użyte w § 16 oraz w § 17 wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „31 grudnia 2025 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2024 r.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 16 grudnia 2016 r. w sprawie standardu organizacyjnego opieki zdrowotnej w dziedzinie anestezjologii i intensywnej terapii (Dz. U. z 2024 r. poz. 332) użyte w § 16 oraz w § 17 wyrazy „31 grudnia 2024 r.” zastępuje się wyrazami „31 grudnia 2025 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 grudnia 2024 r. Minister Zdrowia: wz. W. Konieczny
 

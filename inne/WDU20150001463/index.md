@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy cudzoziemcom Na podstawie art. 95 ust. 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2015 r. poz. 163, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 7 kwietnia 2015 r. w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 515) w § 3 w ust. 1 w pkt 1 lit. a otrzymuje brzmienie: „a) dla osoby samotnie gospodarującej – do 1335 zł miesięcznie,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2015 r.
-Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz
+
+**§ 1.** W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 7 kwietnia 2015 r. w sprawie udzielania pomocy cudzoziemcom (Dz. U. poz. 515) w § 3 w ust. 1 w pkt 1 lit. a otrzymuje brzmienie: „a) dla osoby samotnie gospodarującej – do 1335 zł miesięcznie,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2015 r. Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz
 

@@ -26,18 +26,28 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002066) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2066/text.pdf) |
 
 w sprawie ramowych statutów: publicznej placówki kształcenia ustawicznego, publicznego centrum kształcenia zawodowego i publicznego branżowego centrum umiejętności Na podstawie art. 112 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005) zarządza się, co następuje:
-§ 1. Określa się ramowy statut:
-1) publicznej placówki kształcenia ustawicznego, stanowiący załącznik nr 1 do rozporządzenia;
-2) publicznego centrum kształcenia zawodowego, stanowiący załącznik nr 2 do rozporządzenia;
-3) publicznego branżowego centrum umiejętności, stanowiący załącznik nr 3 do rozporządzenia.
-§ 2. Dotychczasowe statuty publicznych placówek kształcenia ustawicznego i publicznych centrów kształcenia zawodowego zachowują moc.
-§ 3. Arkusze organizacji publicznych placówek kształcenia ustawicznego i publicznych centrów kształcenia zawodowego, opracowane na rok szkolny 2023/2024 na podstawie dotychczasowych przepisów i zatwierdzone przez organ prowadzący przed dniem wejścia w życie rozporządzenia, zachowują moc.
-§ 4. Arkusz organizacji publicznego branżowego centrum umiejętności utworzonego w 2023 r. opracowany przez dyrektora publicznego branżowego centrum umiejętności na rok szkolny 2023/2024 i arkusz organizacji publicznego branżowego centrum umiejętności utworzonego w 2024 r. opracowany przez dyrektora publicznego branżowego centrum umiejętności na rok szkolny 2023/2024 albo 2024/2025 jest zatwierdzany przez organ prowadzący publiczne branżowe centrum umiejętności będący:
-1) jednostką samorządu terytorialnego, osobą prawną inną niż jednostka samorządu terytorialnego albo osobą fizyczną, po zaopiniowaniu arkusza organizacji publicznego branżowego centrum umiejętności przez kuratora oświaty zgodnie z art. 51 ust. 1 pkt 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,
-2) ministrem, o którym mowa w art. 8 ust. 7–11 i 13a–14a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – w terminie 14 dni od dnia otrzymania tego arkusza.
-§ 5. Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 14 lutego 2019 r. w sprawie ramowych statutów: publicznej placówki kształcenia ustawicznego oraz publicznego centrum kształcenia zawodowego (Dz. U. poz. 320).
-§ 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek RAMOWY STATUT PUBLICZNEJ PLACÓWKI KSZTAŁCENIA USTAWICZNEGO
+
+**§ 1.** Określa się ramowy statut:
+
+- **1)** publicznej placówki kształcenia ustawicznego, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** publicznego centrum kształcenia zawodowego, stanowiący załącznik nr 2 do rozporządzenia;
+- **3)** publicznego branżowego centrum umiejętności, stanowiący załącznik nr 3 do rozporządzenia.
+
+**§ 2.** Dotychczasowe statuty publicznych placówek kształcenia ustawicznego i publicznych centrów kształcenia zawodowego zachowują moc.
+
+**§ 3.** Arkusze organizacji publicznych placówek kształcenia ustawicznego i publicznych centrów kształcenia zawodowego, opracowane na rok szkolny 2023/2024 na podstawie dotychczasowych przepisów i zatwierdzone przez organ prowadzący przed dniem wejścia w życie rozporządzenia, zachowują moc.
+
+**§ 4.** Arkusz organizacji publicznego branżowego centrum umiejętności utworzonego w 2023 r. opracowany przez dyrektora publicznego branżowego centrum umiejętności na rok szkolny 2023/2024 i arkusz organizacji publicznego branżowego centrum umiejętności utworzonego w 2024 r. opracowany przez dyrektora publicznego branżowego centrum umiejętności na rok szkolny 2023/2024 albo 2024/2025 jest zatwierdzany przez organ prowadzący publiczne branżowe centrum umiejętności będący:
+
+- **1)** jednostką samorządu terytorialnego, osobą prawną inną niż jednostka samorządu terytorialnego albo osobą fizyczną, po zaopiniowaniu arkusza organizacji publicznego branżowego centrum umiejętności przez kuratora oświaty zgodnie z art. 51 ust. 1 pkt 12 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,
+- **2)** ministrem, o którym mowa w art. 8 ust. 7–11 i 13a–14a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe – w terminie 14 dni od dnia otrzymania tego arkusza.
+
+**§ 5.** Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 14 lutego 2019 r. w sprawie ramowych statutów: publicznej placówki kształcenia ustawicznego oraz publicznego centrum kształcenia zawodowego (Dz. U. poz. 320).
+
+**§ 6.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji i Nauki: P. Czarnek RAMOWY STATUT PUBLICZNEJ PLACÓWKI KSZTAŁCENIA USTAWICZNEGO
+
+## Załącznik
+
 § 1. 1. Statut publicznej placówki kształcenia ustawicznego, zwanej dalej „placówką”, określa jej nazwę, która zawiera:
 1) określenie „Centrum Kształcenia Ustawicznego”;
 2) ustalony przez organ prowadzący numer porządkowy placówki, wyrażony cyfrą arabską, jeżeli w danej miejscowości jest więcej niż jedna placówka;

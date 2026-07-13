@@ -28,32 +28,67 @@ source: pdf
 
 w sprawie szkolenia specjalizacyjnego lekarzy i lekarzy dentystów będących żołnierzami w czynnej służbie wojskowej, a także lekarzy zatrudnionych w podmiocie leczniczym utworzonym i nadzorowanym przez Ministra Obrony Narodowej albo komórce lub jednostce organizacyjnej podległej temu ministrowi Na podstawie art. 16x ust. 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r.
 poz. 1287 i 1897) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) regulamin postępowania kwalifikacyjnego prowadzonego przez Ministra Obrony Narodowej, zwany dalej „regulaminem postępowania kwalifikacyjnego”;
-2) tryb i sposób odbywania szkolenia specjalizacyjnego przez lekarza będącego żołnierzem w czynnej służbie wojskowej, a także lekarza zatrudnionego w podmiocie leczniczym utworzonym i nadzorowanym przez Ministra Obrony Narodowej albo komórce lub jednostce organizacyjnej podległej temu ministrowi, zwanych dalej „podmiotem leczniczym MON”;
-3) wzory dokumentów potwierdzających realizację programu specjalizacji i jego ukończenia.
-§ 2. 1. Ilekroć w rozporządzeniu jest mowa o lekarzu, należy przez to rozumieć lekarza będącego żołnierzem w czynnej służbie wojskowej, jak również lekarza zatrudnionego w podmiocie leczniczym MON.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** regulamin postępowania kwalifikacyjnego prowadzonego przez Ministra Obrony Narodowej, zwany dalej „regulaminem postępowania kwalifikacyjnego”;
+- **2)** tryb i sposób odbywania szkolenia specjalizacyjnego przez lekarza będącego żołnierzem w czynnej służbie wojskowej, a także lekarza zatrudnionego w podmiocie leczniczym utworzonym i nadzorowanym przez Ministra Obrony Narodowej albo komórce lub jednostce organizacyjnej podległej temu ministrowi, zwanych dalej „podmiotem leczniczym MON”;
+- **3)** wzory dokumentów potwierdzających realizację programu specjalizacji i jego ukończenia.
+
+**§ 2.**
+
+1. Ilekroć w rozporządzeniu jest mowa o lekarzu, należy przez to rozumieć lekarza będącego żołnierzem w czynnej służbie wojskowej, jak również lekarza zatrudnionego w podmiocie leczniczym MON.
+
 2. Ilekroć w rozporządzeniu jest mowa o lekarzu, należy przez to rozumieć również lekarza dentystę.
-§ 3. Regulamin postępowania kwalifikacyjnego jest określony w załączniku nr 1 do rozporządzenia.
-§ 4. 1. Minister Obrony Narodowej kieruje lekarza zakwalifikowanego do odbywania szkolenia specjalizacyjnego w danym postępowaniu kwalifikacyjnym, po zweryfikowaniu, we współpracy z właściwą izbą lekarską, prawa wykonywania zawodu na czas nieokreślony albo po przedłożeniu przez lekarza zaświadczenia, o którym mowa w art. 16c ust. 18 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, w terminie nie dłuższym niż 30 dni od dnia zakończenia danego postępowania.
+
+**§ 3.** Regulamin postępowania kwalifikacyjnego jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 4.**
+
+1. Minister Obrony Narodowej kieruje lekarza zakwalifikowanego do odbywania szkolenia specjalizacyjnego w danym postępowaniu kwalifikacyjnym, po zweryfikowaniu, we współpracy z właściwą izbą lekarską, prawa wykonywania zawodu na czas nieokreślony albo po przedłożeniu przez lekarza zaświadczenia, o którym mowa w art. 16c ust. 18 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty, w terminie nie dłuższym niż 30 dni od dnia zakończenia danego postępowania.
+
 2. Zmiana miejsca szkolenia specjalizacyjnego następuje na wniosek lekarza, po wyrażeniu przez Ministra Obrony Narodowej pisemnej zgody do odbywania szkolenia specjalizacyjnego w innym akredytowanym podmiocie leczniczym posiadającym wolne miejsce szkoleniowe, znajdujące się w kompetencji tego ministra.
+
 3. Zmiana miejsca szkolenia specjalizacyjnego następuje po wyrażeniu przez wojewodę albo ministra właściwego do spraw wewnętrznych pisemnej zgody do odbywania szkolenia przez lekarza w akredytowanym podmiocie leczniczym posiadającym wolne miejsca szkoleniowe, znajdujące się w ich kompetencji. Zgoda na zmianę miejsca szkolenia specjalizacyjnego zawiera wskazanie podmiotu leczniczego posiadającego akredytację do szkolenia specjalizacyjnego, w którym lekarz będzie kontynuował to szkolenie.
+
 4. W celu zapewnienia ciągłości szkolenia w przypadku utraty przez podmiot leczniczy akredytacji do szkolenia specjalizacyjnego lekarz odbywający w nim szkolenie specjalizacyjne występuje do Ministra Obrony Narodowej o wskazanie miejsca szkoleniowego dostępnego w tej samej specjalizacji, w innym podmiocie leczniczym.
-§ 5. Lekarz zmieniający miejsce odbywania szkolenia specjalizacyjnego potwierdza zaliczenia zrealizowanych elementów szkolenia specjalizacyjnego przez dotychczasowego kierownika specjalizacji do dnia przeniesienia w Systemie Monitorowania Kształcenia Pracowników Medycznych, o którym mowa w art. 30 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2025 r. poz. 302), zwanym dalej „SMK”, jego szkolenia specjalizacyjnego do innego akredytowanego podmiotu leczniczego.
-§ 6. 1. Zmiana miejsca odbywania szkolenia specjalizacyjnego lekarzowi przez Ministra Obrony Narodowej na inny podmiot leczniczy posiadający wolne miejsce szkoleniowe jest równoznaczna ze skierowaniem lekarza do odbywania szkolenia specjalizacyjnego w tym podmiocie.
+
+**§ 5.** Lekarz zmieniający miejsce odbywania szkolenia specjalizacyjnego potwierdza zaliczenia zrealizowanych elementów szkolenia specjalizacyjnego przez dotychczasowego kierownika specjalizacji do dnia przeniesienia w Systemie Monitorowania Kształcenia Pracowników Medycznych, o którym mowa w art. 30 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2025 r. poz. 302), zwanym dalej „SMK”, jego szkolenia specjalizacyjnego do innego akredytowanego podmiotu leczniczego.
+
+**§ 6.**
+
+1. Zmiana miejsca odbywania szkolenia specjalizacyjnego lekarzowi przez Ministra Obrony Narodowej na inny podmiot leczniczy posiadający wolne miejsce szkoleniowe jest równoznaczna ze skierowaniem lekarza do odbywania szkolenia specjalizacyjnego w tym podmiocie.
+
 2. Lekarzowi, który zmienił miejsce odbywania szkolenia specjalizacyjnego, kierownik podmiotu prowadzącego szkolenie specjalizacyjne, do którego lekarz został przeniesiony, wyznacza niezwłocznie nowego kierownika specjalizacji.
+
 3. Kierownik podmiotu leczniczego, w którym lekarz odbywa szkolenie specjalizacyjne, lub kierownik specjalizacji danego lekarza zamieszcza w elektronicznej karcie szkolenia specjalizacyjnego, zwanej dalej „EKS”, rzeczywistą datę rozpoczęcia szkolenia specjalizacyjnego.
-§ 7. 1. Potwierdzenie realizacji programu szkolenia i jego ukończenia stanowi EKS.
+
+**§ 7.**
+
+1. Potwierdzenie realizacji programu szkolenia i jego ukończenia stanowi EKS.
+
 2. Przełożony w stosunku do żołnierza w czynnej służbie wojskowej lub pracodawca w stosunku do lekarza zatrudnionego w podmiocie leczniczym MON może wystąpić do kierownika specjalizacji z wnioskiem o rozliczenie czasu szkolenia specjalizacyjnego tego lekarza.
+
 3. Wzór EKS jest określony w załączniku nr 2 do rozporządzenia.
-§ 8. Lekarz będący żołnierzem w czynnej służbie wojskowej, który objął pierwsze stanowisko służbowe po stażu podyplomowym, a następnie złożył do właściwego organu wypowiedzenie stosunku służbowego zawodowej służby wojskowej, po zakwalifikowaniu się do odbywania szkolenia specjalizacyjnego w danej dziedzinie medycyny, zmienia miejsce odbywania szkolenia specjalizacyjnego na wolne miejsce specjalizacyjne w podmiocie leczniczym będącym w kompetencji wojewody lub ministra właściwego do spraw wewnętrznych.
-§ 9. Wzór wniosku kierownika specjalizacji o przedłużenie okresu szkolenia specjalizacyjnego lekarzowi jest określony w załączniku nr 3 do rozporządzenia.
-§ 10. 1. Kierownik specjalizacji potwierdza w EKS realizację poszczególnych elementów programu specjalizacji.
+
+**§ 8.** Lekarz będący żołnierzem w czynnej służbie wojskowej, który objął pierwsze stanowisko służbowe po stażu podyplomowym, a następnie złożył do właściwego organu wypowiedzenie stosunku służbowego zawodowej służby wojskowej, po zakwalifikowaniu się do odbywania szkolenia specjalizacyjnego w danej dziedzinie medycyny, zmienia miejsce odbywania szkolenia specjalizacyjnego na wolne miejsce specjalizacyjne w podmiocie leczniczym będącym w kompetencji wojewody lub ministra właściwego do spraw wewnętrznych.
+
+**§ 9.** Wzór wniosku kierownika specjalizacji o przedłużenie okresu szkolenia specjalizacyjnego lekarzowi jest określony w załączniku nr 3 do rozporządzenia.
+
+**§ 10.**
+
+1. Kierownik specjalizacji potwierdza w EKS realizację poszczególnych elementów programu specjalizacji.
+
 2. Po zrealizowaniu przez lekarza programu specjalizacji kierownik specjalizacji potwierdza w EKS odbycie szkolenia specjalizacyjnego zgodnie z programem specjalizacji albo odmawia potwierdzenia odbycia szkolenia specjalizacyjnego, nie później niż w terminie 30 dni od rzeczywistej daty zakończenia szkolenia specjalizacyjnego wskazanej w EKS.
-§ 11. Kierownik podmiotu leczniczego posiadającego akredytację do szkolenia specjalizacyjnego wskazuje lekarzowi odbywającemu szkolenie specjalizacyjne w EKS jednostkę akredytowaną, w której ten lekarz ma odbyć dany element programu specjalizacji, jeżeli ten element programu specjalizacji ma być realizowany w innej jednostce posiadającej akredytację do szkolenia specjalizacyjnego.
-§ 12. Po zatwierdzeniu, za pomocą SMK, przez kierownika specjalizacji zrealizowania szkolenia specjalizacyjnego przez lekarza zgodnie z programem specjalizacji Minister Obrony Narodowej w terminie 14 dni od dnia uzyskania tego potwierdzenia zwraca się, za pomocą SMK, do konsultantów wojewódzkich w danej dziedzinie medycyny o merytoryczną weryfikację, czy lekarz odbył szkolenie specjalizacyjne zgodnie z programem specjalizacji.
-§ 13. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: z up. P. Bejda REGULAMIN POSTĘPOWANIA KWALIFIKACYJNEGO
+
+**§ 11.** Kierownik podmiotu leczniczego posiadającego akredytację do szkolenia specjalizacyjnego wskazuje lekarzowi odbywającemu szkolenie specjalizacyjne w EKS jednostkę akredytowaną, w której ten lekarz ma odbyć dany element programu specjalizacji, jeżeli ten element programu specjalizacji ma być realizowany w innej jednostce posiadającej akredytację do szkolenia specjalizacyjnego.
+
+**§ 12.** Po zatwierdzeniu, za pomocą SMK, przez kierownika specjalizacji zrealizowania szkolenia specjalizacyjnego przez lekarza zgodnie z programem specjalizacji Minister Obrony Narodowej w terminie 14 dni od dnia uzyskania tego potwierdzenia zwraca się, za pomocą SMK, do konsultantów wojewódzkich w danej dziedzinie medycyny o merytoryczną weryfikację, czy lekarz odbył szkolenie specjalizacyjne zgodnie z programem specjalizacji.
+
+**§ 13.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: z up. P. Bejda REGULAMIN POSTĘPOWANIA KWALIFIKACYJNEGO
+
+## Załącznik
+
 § 1. Lekarz będący żołnierzem w czynnej służbie wojskowej lub zatrudniony w podmiocie leczniczym utworzonym i nadzorowanym przez Ministra Obrony Narodowej albo w komórce lub jednostce organizacyjnej podległej temu ministrowi składa wniosek o odbywanie szkolenia specjalizacyjnego, za pomocą Systemu Monitorowania Kształcenia Pracowników Medycznych, o którym mowa w art. 30 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2025 r. poz. 302), zwanego dalej „SMK”, do Ministra Obrony Narodowej, zgodnie z art. 16c ust. 1 pkt 2 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r. poz. 1287, z późn. zm.), zwanej dalej „ustawą”.
 § 2. 1. Maksymalna liczba punktów w postępowaniu konkursowym:
 1) za wynik Lekarskiego Egzaminu Państwowego albo Lekarsko-Dentystycznego Egzaminu Państwowego, albo Lekarskiego Egzaminu Końcowego, albo Lekarsko-Dentystycznego Egzaminu Końcowego, zwanych dalej odpowiednio „LEP” albo „LDEP”, albo „LEK”, albo „LDEK”, wynosi 200 punktów;
@@ -104,6 +139,7 @@ Podanie przez Panią/Pana danych jest dobrowolne, ale niezbędne do rozpatrzenia
 Dane będą przechowywane przez okres wynikający z obowiązującego w Ministerstwie Obrony Narodowej „Jednolitego Rzeczowego Wykazu Akt”, tj. przez 10 lat.
 W trakcie przetwarzania danych nie będzie dochodziło do zautomatyzowanego podejmowania decyzji ani do profilowania.
 Przysługuje Pani/Panu prawo do: dostępu do danych, ich sprostowania, ograniczenia przetwarzania oraz prawo do wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych (adres: 00-913 Warszawa, ul. Stawki 2).
+Część C (wypełnia Minister Obrony Narodowej)
 13. Imię i nazwisko
 14. Numer rejestru
 15. Numer karty szkolenia specjalizacyjnego
@@ -112,6 +148,4 @@ Przysługuje Pani/Panu prawo do: dostępu do danych, ich sprostowania, ogranicze
 18. Termin zakończenia szkolenia specjalizacyjnego po przedłużeniu
 19. Podstawa prawna przedłużenia: Na podstawie art. ustawy z dnia 5 grudnia 1996 r.
 o zawodach lekarza i lekarza dentysty uwzględniam wniosek i wyrażam zgodę na przedłużenie okresu szkolenia specjalizacyjnego.
-
-## Część C (wypełnia Minister Obrony Narodowej)
 

@@ -28,11 +28,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zamknięć urzędowych Na podstawie art. 65 ust. 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r.
 poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415 i 483) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 31 grudnia 2018 r. w sprawie zamknięć urzędowych (Dz. U. z 2024 r.
-poz. 965) w § 10 w ust. 1 pkt 1 otrzymuje brzmienie: „1) plomby z:
-a) metali innych niż ołów lub ich stopów, które nie zawierają ołowiu,
-b) tworzyw sztucznych – o dużej plastyczności, odpornych na zwykłe zużycie lub przypadkowe naruszenie, wraz z elementami mocującymi plombę;”.
-§ 2. Do dnia 31 grudnia 2026 r. mogą być stosowane zamknięcia urzędowe w postaci plomb ołowianych oraz plomb ze stopów metali zawierających ołów, o dużej plastyczności, odporne na zwykłe zużycie lub przypadkowe naruszenie, wraz z elementami mocującymi plombę, o których mowa w rozporządzeniu zmienianym w § 1.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów i Gospodarki: wz. J. Neneman
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 31 grudnia 2018 r. w sprawie zamknięć urzędowych (Dz. U. z 2024 r. poz. 965) w § 10 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+> „1) plomby z:  
+> a) metali innych niż ołów lub ich stopów, które nie zawierają ołowiu, b) tworzyw sztucznych – o dużej plastyczności, odpornych na zwykłe zużycie lub przypadkowe naruszenie, wraz z elementami mocującymi plombę;”.  
+
+**§ 2.** Do dnia 31 grudnia 2026 r. mogą być stosowane zamknięcia urzędowe w postaci plomb ołowianych oraz plomb ze stopów metali zawierających ołów, o dużej plastyczności, odporne na zwykłe zużycie lub przypadkowe naruszenie, wraz z elementami mocującymi plombę, o których mowa w rozporządzeniu zmienianym w § 1.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów i Gospodarki: wz. J. Neneman
 

@@ -26,9 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002146) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2146/text.pdf) |
 
 w sprawie ustalenia regulaminu Rady Bankowego Funduszu Gwarancyjnego Na podstawie art. 9 ust. 2 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997) zarządza się, co następuje:
-§ 1. Ustala się regulamin Rady Bankowego Funduszu Gwarancyjnego określający organizację pracy oraz zasady i tryb działania Rady Bankowego Funduszu Gwarancyjnego, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk REGULAMIN RADY BANKOWEGO FUNDUSZU GWARANCYJNEGO
+
+**§ 1.** Ustala się regulamin Rady Bankowego Funduszu Gwarancyjnego określający organizację pracy oraz zasady i tryb działania Rady Bankowego Funduszu Gwarancyjnego, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk REGULAMIN RADY BANKOWEGO FUNDUSZU GWARANCYJNEGO
+
+## Załącznik
+
 § 1. Rada Bankowego Funduszu Gwarancyjnego, zwana dalej „Radą Funduszu”, działa na podstawie ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, zwanej dalej „ustawą”.
 § 2. W celu wykonywania ustawowych i statutowych zadań Rada Funduszu uchwala harmonogram prac.
 § 3. 1. Posiedzenia Rady Funduszu zwołuje przewodniczący Rady Funduszu zgodnie z harmonogramem prac, nie rzadziej jednak niż raz w miesiącu. W razie nieobecności przewodniczącego Rady Funduszu posiedzenia Rady Funduszu zwołuje inny członek Rady Funduszu wskazany pisemnie przez przewodniczącego Rady Funduszu.

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002067) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2067/text.pdf) |
 
 zmieniające rozporządzenie w sprawie typów szkół i placówek, w których nie tworzy się samorządu uczniowskiego Na podstawie art. 85 ust. 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. w sprawie typów szkół i placówek, w których nie tworzy się samorządu uczniowskiego (Dz. U. z 2020 r. poz. 2082 oraz z 2023 r. poz. 639) w § 1 pkt 10 otrzymuje brzmienie: „10) centrach kształcenia zawodowego i branżowych centrach umiejętności;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. w sprawie typów szkół i placówek, w których nie tworzy się samorządu uczniowskiego (Dz. U. z 2020 r. poz. 2082 oraz z 2023 r. poz. 639) w § 1 pkt 10 otrzymuje brzmienie: „10) centrach kształcenia zawodowego i branżowych centrach umiejętności;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji i Nauki: P. Czarnek
 

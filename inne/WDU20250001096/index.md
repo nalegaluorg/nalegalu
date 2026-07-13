@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie pobierania i zwrotu podatku od czynności cywilnoprawnych Na podstawie art. 10 ust. 4 ustawy z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych (Dz. U. z 2024 r.
 poz. 295 oraz z 2025 r. poz. 680) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 17 listopada 2023 r. w sprawie pobierania i zwrotu podatku od czynności cywilnoprawnych (Dz. U. poz. 2542) w § 6 w pkt 7 we wprowadzeniu do wyliczenia wyrazy „art. 16 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586 i 2005)” zastępuje się wyrazami „art. 20 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717)”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów i Gospodarki: wz. J. Drop
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 17 listopada 2023 r. w sprawie pobierania i zwrotu podatku od czynności cywilnoprawnych (Dz. U. poz. 2542) w § 6 w pkt 7 we wprowadzeniu do wyliczenia wyrazy „art. 16 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586 i 2005)” zastępuje się wyrazami „art. 20 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717)”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów i Gospodarki: wz. J. Drop
 

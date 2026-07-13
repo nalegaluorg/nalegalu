@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001804) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1804/text.pdf) |
 
 zmieniające rozporządzenie w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, 1292, 1559 i 1773) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej (Dz. U. poz. 880) w § 4 w pkt 1 we wprowadzeniu do wyliczenia wyrazy „4 miesiące” zastępuje się wyrazami „6 miesięcy”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 września 2021 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej (Dz. U. poz. 880) w § 4 w pkt 1 we wprowadzeniu do wyliczenia wyrazy „4 miesiące” zastępuje się wyrazami „6 miesięcy”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 września 2021 r. Minister Zdrowia: A. Niedzielski
 

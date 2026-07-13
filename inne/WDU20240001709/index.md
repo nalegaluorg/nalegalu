@@ -27,365 +27,603 @@ source: pdf
 
 w sprawie rejestracji i oznaczania pojazdów, wymagań dla tablic rejestracyjnych oraz wzorów innych dokumentów związanych z rejestracją pojazdów Na podstawie art. 76 ust. 1 pkt 1 lit. a, c i d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U.
 z 2024 r. poz. 1251) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa:
-1) warunki i tryb rejestracji pojazdów, o których mowa w art. 71 ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zwanych dalej „pojazdami”, czasowej rejestracji pojazdów oraz wyrejestrowania pojazdów;
-2) wzory dowodu rejestracyjnego i pozwolenia czasowego, a także ich opis;
-3) wzory tablic rejestracyjnych oraz innych tablic, cech identyfikacyjnych i oznaczeń, w które zaopatruje się pojazd, a także ich opis oraz sposób ich umieszczania;
-4) szczegółowe wymagania techniczne dla tablic rejestracyjnych oraz zakres i sposób ich badania;
-5) wzory innych dokumentów związanych z rejestracją pojazdów:
-a) wniosku o rejestrację, czasową rejestrację, wyrejestrowanie pojazdu lub zawiadomienia o zbyciu pojazdu,
-b) decyzji o rejestracji, czasowej rejestracji albo wyrejestrowaniu pojazdu,
-c) wniosku o wydanie wtórnika dowodu rejestracyjnego, wtórnika pozwolenia czasowego, wtórnika tablic (tablicy) rejestracyjnych, nowego dowodu rejestracyjnego lub tablic (tablicy) rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu,
-d) zaświadczenia potwierdzającego dane zawarte w utraconym dowodzie rejestracyjnym,
-e) wniosku o wydanie dodatkowej zalegalizowanej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną dla pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej.
-2. Ilekroć w rozporządzeniu jest mowa o:
-1) centralnym organie technicznym Krajowego Systemu Informatycznego (KSI) – rozumie się przez to Komendanta Głównego Policji;
-2) danych SIS – rozumie się przez to dane, o których mowa art. 20 ust. 1–3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm. );
-3) dowodzie odprawy celnej przywozowej – rozumie się przez to:
-a) dokument określony w przepisach prawa celnego potwierdzający spełnienie formalności celnych lub
-b) adnotację na dowodzie własności pojazdu lub zespołu pojazdów określającą datę i numer dokumentu, o którym mowa w lit. a, oraz nazwę organu, który dokonał odprawy celnej – w przypadku przedsiębiorców prowadzących działalność gospodarczą w zakresie obrotu pojazdami;
-4) dacie sprowadzenia pojazdu z terytorium państwa członkowskiego Unii Europejskiej – rozumie się przez to podany przez właściciela pojazdu dzień sprowadzenia pojazdu z terytorium państwa członkowskiego Unii Europejskiej do oznaczonego miejsca przeznaczenia na terytorium Rzeczypospolitej Polskiej w związku z nabyciem wewnątrzwspólnotowym pojazdu;
-5) organie rejestrującym – rozumie się przez to odpowiednio starostę, prezydenta miasta na prawach powiatu albo wojewodę mazowieckiego;
-6) państwie członkowskim – rozumie się przez to państwo w rozumieniu art. 2 pkt 63 ustawy;
-7) ustawie – rozumie się przez to ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
-8) pojeździe elektrycznym – rozumie się przez to pojazd wykorzystujący do napędu wyłącznie energię elektryczną akumulowaną przez podłączenie do zewnętrznego źródła zasilania w rozumieniu art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289);
-9) pojeździe napędzanym wodorem – rozumie się przez to pojazd wykorzystujący do napędu energię elektryczną wytworzoną z wodoru w zainstalowanych w nich ogniwach paliwowych w rozumieniu art. 2 pkt 15 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
-3. Przepisy rozporządzenia dotyczące właściciela pojazdu stosuje się odpowiednio do kierownika zakładu lub wydzielonej jednostki organizacyjnej, o których mowa w art. 73 ust. 2 ustawy, władz wojskowych, o których mowa w art. 73 ust. 2a ustawy, oraz podmiotu, któremu powierzono pojazd na podstawie art. 73 ust. 5 ustawy.
-§ 2. 1. W celu rejestracji pojazdu właściciel pojazdu składa do organu rejestrującego wniosek o rejestrację pojazdu na formularzu, którego wzór jest określony w załączniku nr 1 do rozporządzenia, a w przypadku pojazdu, o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 2 do rozporządzenia, z zastrzeżeniem § 24, zwane w niniejszym rozdziale „wnioskiem o rejestrację”, do którego dołącza:
-1) dowód własności pojazdu;
-2) oświadczenie, o którym mowa w § 4 ust. 6 pkt 2, jeżeli zostało dołączone do dowodu własności pojazdu;
-3) dowód rejestracyjny, jeżeli pojazd był zarejestrowany;
-4) tablice (tablicę) rejestracyjne, jeżeli pojazd był zarejestrowany; w przypadku pojazdu sprowadzonego z zagranicy bez tablic (tablicy) rejestracyjnych albo konieczności zwrotu tych tablic (tablicy) organowi rejestrującemu państwa, z którego pojazd został sprowadzony, właściciel pojazdu zamiast tablic (tablicy) rejestracyjnych dołącza oświadczenie, że pojazd został sprowadzony z zagranicy bez tablic (tablicy) rejestracyjnych albo oświadczenie o konieczności zwrotu tych tablic (tablicy) organowi rejestrującemu państwa, z którego pojazd został sprowadzony; oświadczenie może być złożone na wniosku o rejestrację, w tym na jego odwrocie;
-5) dodatkową tablicę rejestracyjną, o której mowa w art. 73 ust. 1b ustawy, jeżeli była wydana, a w przypadku jej utraty właściciel pojazdu zamiast dodatkowej tablicy rejestracyjnej dołącza oświadczenie o jej utracie; oświadczenie może być złożone na wniosku o rejestrację, w tym na jego odwrocie.
-2. Właściciel pojazdu przedstawia organowi rejestrującemu do legalizacji tablice rejestracyjne w przypadku wniosku o zachowanie dotychczasowego numeru rejestracyjnego, o którym mowa w art. 73 ust. 1a ustawy.
-3. Przepis ust. 2 stosuje się również do dodatkowej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną, jeżeli była wydana.
-4. Obowiązek oddania dowodu rejestracyjnego i tablic (tablicy) rejestracyjnych nie dotyczy zarejestrowanego pojazdu, o którym mowa w art. 72 ust. 2 pkt 3 ustawy.
-5. W przypadku zgłoszenia do pierwszej rejestracji na terytorium Rzeczypospolitej Polskiej nowego pojazdu do wniosku o rejestrację właściciel pojazdu dołącza jeden z dokumentów, o których mowa w art. 72 ust. 1 pkt 3 ustawy.
-6. Jeżeli jest wymagane badanie techniczne pojazdu, do wniosku o rejestrację właściciel pojazdu dołącza dokument, o którym mowa w art. 72 ust. 1 pkt 4 ustawy.
-7. W przypadku zgłoszenia do pierwszej rejestracji pojazdu zabytkowego właściciel pojazdu dołącza do wniosku o rejestrację:
-1) uwierzytelnioną kopię decyzji w sprawie wpisania pojazdu do rejestru zabytków lub dokument potwierdzający ujęcie pojazdu w wojewódzkiej ewidencji zabytków albo potwierdzający wpisanie pojazdu do inwentarza muzealiów, zgodnie z odrębnymi przepisami;
-2) zaświadczenie o przeprowadzonym badaniu co do zgodności z warunkami technicznymi pojazdu zabytkowego oraz protokół oceny stanu technicznego pojazdu zabytkowego, o których mowa w przepisach wydanych na podstawie art. 81 ust. 16 ustawy.
-8. W przypadku zgłoszenia do pierwszej rejestracji pojazdu, którego markę określa się jako „SAM”, do wniosku o rejestrację właściciel pojazdu dołącza oświadczenie, że jest właścicielem zespołów i części służących do zbudowania tego pojazdu, oraz dopuszczenie jednostkowe pojazdu, uznanie dopuszczenia jednostkowego pojazdu, krajowe indywidualne dopuszczenie pojazdu albo uznanie krajowego indywidualnego dopuszczenia pojazdu, o których mowa w art. 72 ust. 1 pkt 3 ustawy. Przepisy ust. 9 oraz § 3 ust. 1 stosuje się odpowiednio.
-9. W przypadku zgłoszenia do rejestracji pojazdu, który nie posiada nadanych i umieszczonych fabrycznie przez producenta lub w trybie określonym przepisami odrębnymi cech identyfikacyjnych lub nie posiada tabliczki znamionowej, do wniosku o rejestrację właściciel pojazdu dołącza zaświadczenia, o których mowa w § 35 ust. 1 lub § 36 ust. 2.
-10. Przed wydaniem dowodu rejestracyjnego organ rejestrujący, korzystając z uprawnienia, o którym mowa w przepisach ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2023 r. poz. 1355 oraz z 2024 r. poz. 1688), może skierować zapytanie o dane SIS do centralnego organu technicznego Krajowego Systemu Informatycznego (KSI) na wypełnionej karcie zapytania, której wzór został określony zgodnie z przepisami wydanymi na podstawie art. 22 ust. 3 tej ustawy.
-11. W przypadku rejestracji pojazdu wyrejestrowanego, o którym mowa w art. 79 ust. 4 pkt 3 ustawy, do wniosku o rejestrację właściciel pojazdu dołącza opinię rzeczoznawcy samochodowego, o którym mowa w art. 79a ustawy.
-12. W przypadku powtórnej rejestracji pojazdu, o której mowa w art. 17 ust. 5 ustawy z dnia 7 lipca 2023 r. o zmianie niektórych ustaw w celu ograniczania niektórych skutków kradzieży tożsamości (Dz. U. poz. 1394), do wniosku o rejestrację właściciel pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 1, 4 i 5 ustawy.
-§ 3. 1. W przypadku zgłoszenia do:
-1) pierwszej rejestracji na terytorium Rzeczypospolitej Polskiej pojazdu sprowadzonego z zagranicy do wniosku o rejestrację właściciel pojazdu dołącza odpowiednie dokumenty, o których mowa w art. 72 ust. 1 pkt 1–6a ustawy;
-2) powtórnej rejestracji na terytorium Rzeczypospolitej Polskiej pojazdu sprowadzonego z zagranicy do wniosku o rejestrację właściciel pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 1, 4 i 5 ustawy.
-2. W przypadku, o którym mowa w art. 73 ust. 5 ustawy, do wniosku o rejestrację dotyczącego:
-1) pierwszej rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej właściciel pojazdu dołącza odpowiednie dokumenty, o których mowa w art. 72 ust. 1 pkt 1–6a ustawy;
-2) powtórnej rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej właściciel pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 1, 4 i 5 ustawy.
-3. Dokument, o którym mowa w art. 72 ust. 1 pkt 6 ustawy, może być przekazany organowi rejestrującemu przez organ celny w postaci elektronicznej – z systemu teleinformatycznego organu celnego, za pośrednictwem usługi sieciowej, do systemu teleinformatycznego rejestracji – zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557) w sposób zapewniający integralność, autentyczność i niezaprzeczalność przekazywanych danych.
-4. Dokument, o którym mowa w art. 72 ust. 1 pkt 6a ustawy, może być przekazany organowi rejestrującemu przez organ właściwy w sprawach akcyzy w postaci elektronicznej – z systemu teleinformatycznego organu właściwego w sprawach akcyzy, za pośrednictwem usługi sieciowej, do systemu teleinformatycznego rejestracji – zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne w sposób zapewniający integralność, autentyczność i niezaprzeczalność przekazywanych danych.
-5. W przypadku nieprzekazania przez organ celny organowi rejestrującemu dokumentu, o którym mowa w art. 72 ust. 1 pkt 6 ustawy, w postaci elektronicznej właściciel pojazdu dołącza ten dokument do wniosku o rejestrację.
-6. W przypadku nieprzekazania przez organ właściwy w sprawach akcyzy organowi rejestrującemu dokumentu, o którym mowa w art. 72 ust. 1 pkt 6a ustawy, w postaci elektronicznej właściciel pojazdu dołącza ten dokument do wniosku o rejestrację.
-7. W przypadku gdy dowód rejestracyjny, o którym mowa w art. 72 ust. 1 pkt 5 ustawy, składa się z części I i części II, do wniosku o rejestrację właściciel pojazdu dołącza obie części dowodu rejestracyjnego.
-8. W przypadku gdy do wniosku o rejestrację pojazdu sprowadzonego z państwa członkowskiego wnioskujący o rejestrację pojazdu nie dołączył części II dowodu rejestracyjnego, o którym mowa w ust. 7, w szczególności w przypadku jej utraty albo zniszczenia, organ rejestrujący uznaje część I dowodu rejestracyjnego za wystarczającą do zarejestrowania pojazdu po zwróceniu się do organu właściwego do rejestracji pojazdu w państwie członkowskim, w którym pojazd był zarejestrowany, i otrzymaniu z tego organu potwierdzenia w postaci papierowej albo elektronicznej, że pojazd był zarejestrowany w tym państwie i może być ponownie zarejestrowany w innym państwie członkowskim.
-9. W przypadku zgłoszenia do rejestracji na terytorium Rzeczypospolitej Polskiej pojazdu sprowadzonego z zagranicy i zgłoszenia zniszczenia dowodu rejestracyjnego w stopniu powodującym jego nieczytelność przepisy art. 72 ust. 5 ustawy stosuje się odpowiednio.
-10. W przypadku, o którym mowa w art. 72 ust. 5 ustawy, organ rejestrujący, zgodnie z § 2 ust. 10, może skierować do centralnego organu technicznego Krajowego Systemu Informatycznego (KSI) zapytanie dotyczące utraconego dowodu rejestracyjnego. Zapytanie może być skierowane również w przypadku utraty części I tego dokumentu w celu sprawdzenia danych SIS.
-§ 4. 1. Dowodem własności pojazdu lub jego pojedynczych zespołów jest w szczególności jeden z następujących dokumentów:
-1) umowa sprzedaży;
-2) umowa zamiany;
-3) umowa darowizny;
-4) umowa o dział spadku;
-5) umowa o zniesienie współwłasności;
-6) faktura potwierdzająca nabycie pojazdu;
-7) prawomocne orzeczenie sądu rozstrzygające o prawie własności;
-8) prawomocne postanowienie sądu o stwierdzeniu nabycia spadku albo zarejestrowany akt poświadczenia dziedziczenia.
-2. W przypadku gdy dane odnoszące się do zbywcy pojazdu zawarte w dowodzie własności pojazdu dołączonym do wniosku o rejestrację są niezgodne z danymi właściciela pojazdu zawartymi w dowodzie rejestracyjnym, dowodem własności są wszystkie dokumenty potwierdzające fakt przeniesienia prawa własności pojazdu.
-3. Dopuszcza się przedłożenie kopii dowodów własności pojazdu, o których mowa w ust. 1 i 2, poświadczonych przez notariusza za zgodność z okazanym dokumentem.
-4. Jeżeli zbywcą pojazdu w przypadku, o którym mowa w ust. 2, jest przedsiębiorca prowadzący działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w zakresie obrotu pojazdami, dopuszcza się, aby w oryginale albo kopii dowodu własności pojazdu potwierdzającego nabycie prawa własności przez tego zbywcę, przed poświadczeniem przez notariusza za zgodność kopii z okazanym dokumentem, o którym mowa w ust. 3, informacja o cenie pojazdu została przekreślona w sposób uniemożliwiający odczytanie tej ceny.
-5. Przepisów ust. 2 i 3 nie stosuje się do pojazdów sprowadzonych z zagranicy, o których mowa w § 3 ust. 1, w przypadku gdy:
-1) przeniesienie prawa własności pojazdu nastąpiło za granicą;
-2) zbywcą pojazdu zgłoszonego do pierwszej rejestracji jest przedsiębiorca prowadzący na terytorium Rzeczypospolitej Polskiej działalność gospodarczą w zakresie obrotu pojazdami, który sprowadził ten pojazd z zagranicy.
-6. W przypadku pojazdu niebędącego pojazdem nowym sprowadzonego z terytorium państwa członkowskiego Unii Europejskiej, właściciel pojazdu, który sprowadził ten pojazd z terytorium państwa członkowskiego Unii Europejskiej i dokonuje jego zbycia po sprowadzeniu na terytorium Rzeczypospolitej Polskiej przed pierwszą rejestracją pojazdu na terytorium Rzeczypospolitej Polskiej:
-1) w dowodzie własności pojazdu wystawionym nabywcy dokonuje adnotacji potwierdzającej datę sprowadzenia pojazdu z terytorium państwa członkowskiego Unii Europejskiej albo
-2) dołącza do dowodu własności pojazdu wystawionego nabywcy oświadczenie o dacie sprowadzenia pojazdu z terytorium państwa członkowskiego Unii Europejskiej.
-§ 5. 1. Dokumenty sporządzone w języku obcym właściciel pojazdu dołącza do wniosku o rejestrację, czasową rejestrację, wyrejestrowanie pojazdu lub zawiadomienia o zbyciu pojazdu, wraz z ich tłumaczeniem na język polski dokonanym przez tłumacza przysięgłego albo właściwego konsula, albo przez tłumacza przysięgłego państwa, z którego pojazd został sprowadzony albo w którym został zbyty.
-2. Właściciel pojazdu nie ma obowiązku przedłożenia tłumaczenia:
-1) dowodu rejestracyjnego wydanego przez właściwy organ państwa członkowskiego, z tym że organ rejestrujący może w przypadku wątpliwości wymagać tłumaczenia danych i informacji krajowych zawartych w tym dokumencie, których kody nie zostały określone w załączniku I do dyrektywy Rady 1999/37/WE z dnia 29 kwietnia 1999 r. w sprawie dokumentów rejestracyjnych pojazdów (Dz. Urz. WE L 138 z 01.06.1999, str. 57, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 4, str. 351);
-2) świadectwa zgodności WE albo świadectwa zgodności, albo świadectwa dopuszczenia indywidualnego WE pojazdu, albo świadectwa unijnego indywidualnego dopuszczenia pojazdu;
-3) dokumentu, o którym mowa w art. 79 ust. 1 pkt 1 i 6 ustawy, wydanego w innym państwie członkowskim, jeżeli organ rejestrujący posiada tłumaczenie analogicznego dokumentu z tego państwa.
-§ 6. 1. Podczas rejestracji pojazdu, z zastrzeżeniem § 17 ust. 2, organ rejestrujący wydaje:
-1) dowód rejestracyjny;
-2) zalegalizowane tablice (tablicę) rejestracyjne, z wyjątkiem przypadku, o którym mowa w § 7 ust. 1.
-2. Wzór i opis dowodu rejestracyjnego oraz oznaczenia kodów zastosowanych w tym wzorze są określone w załączniku nr 3 do rozporządzenia.
-§ 7. 1. W przypadku pojazdu, którego właściciel wnioskuje o zachowanie dotychczasowego numeru rejestracyjnego, zgodnie z art. 73 ust. 1a ustawy, organ rejestrujący dokonuje jedynie legalizacji dotychczasowych tablic (tablicy) rejestracyjnych.
-2. W przypadku pojazdu, o którym mowa w ust. 1, będącego pojazdem elektrycznym albo pojazdem napędzanym wodorem, albo motorowerem wyposażonym w silnik elektryczny, nieposiadającego tablic (tablicy) rejestracyjnych zgodnych z § 27 ust. 2 pkt 2 albo ust. 3 pkt 2, albo ust. 4 pkt 2, albo ust. 5 pkt 2, organ rejestrujący wydaje zalegalizowane tablice (tablicę) rejestracyjne, o których mowa w § 27 ust. 2 pkt 2 albo ust. 3 pkt 2, albo ust. 4 pkt 2, albo ust. 5 pkt 2, z zachowaniem dotychczasowego numeru rejestracyjnego.
-3. Organ rejestrujący, na wniosek właściciela pojazdu, zamiast zalegalizowanych tablic (tablicy) rejestracyjnych zwyczajnych wydaje zalegalizowane tablice (tablicę) rejestracyjne indywidualne, o których mowa w § 32 ust. 1.
-4. W przypadku, o którym mowa w ust. 1, i jednoczesnym zwrocie przez właściciela dodatkowej tablicy rejestracyjnej, o której mowa w § 8, organ rejestrujący na wniosek właściciela pojazdu legalizuje jedynie zwróconą dodatkową tablicę rejestracyjną i wydaje ją temu właścicielowi.
-§ 8. W przypadku, o którym mowa w art. 73 ust. 1c pkt 2 ustawy, właściciel pojazdu składa wniosek o wydanie dodatkowej zalegalizowanej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną dla pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej. Wzór wniosku jest określony w załączniku nr 4 do rozporządzenia. Właściciel pojazdu odbierając tę tablicę, przedstawia dowód rejestracyjny w celu umieszczenia w nim przez organ rejestrujący dodatkowego znaku legalizacyjnego oraz adnotacji, o których mowa w przepisach wydanych na podstawie art. 75c pkt 2 ustawy.
-§ 9. 1. Organ rejestrujący na wniosek właściciela pojazdu wydaje zaświadczenie potwierdzające dane zawarte w utraconym dowodzie rejestracyjnym pojazdu, o którym mowa w art. 72 ust. 6 ustawy. Wzór zaświadczenia jest określony w załączniku nr 5 do rozporządzenia.
-2. Organ rejestrujący wydaje decyzję o rejestracji pojazdu:
-1) na formularzu, którego wzór jest określony w załączniku nr 6 do rozporządzenia;
-2) o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 7 do rozporządzenia.
-§ 10. Jeżeli w dokumentach dołączonych do wniosku o rejestrację są zawarte zastrzeżenia wynikające z prawa celnego, organ rejestrujący jest obowiązany zamieścić te zastrzeżenia w dowodzie rejestracyjnym i pozwoleniu czasowym.
-§ 11. W przypadku wydawania na podstawie art. 74a ust. 2 ustawy wtórnika dowodu rejestracyjnego, jeżeli w centralnej ewidencji pojazdów brak jest informacji o terminie następnego badania technicznego pojazdu, organ rejestrujący wydaje wtórnik dowodu rejestracyjnego po przedstawieniu przez właściciela pojazdu zaświadczenia o pozytywnym wyniku ważnego badania technicznego pojazdu.
-§ 12. 1. Właściciel pojazdu, który złożył wniosek, o którym mowa w art. 74a ust. 11 ustawy, otrzymuje nową decyzję o rejestracji pojazdu, zalegalizowane tablice (tablicę) rejestracyjne z nowym numerem rejestracyjnym i nowy dowód rejestracyjny pojazdu po oddaniu dotychczasowego dowodu rejestracyjnego i tablic (tablicy) rejestracyjnych pojazdu.
-2. Właściciel pojazdu, który złożył wniosek o wydanie wtórnika dodatkowej zalegalizowanej tablicy rejestracyjnej, o którym mowa w art. 74a ust. 12 ustawy, przedstawia przy odbiorze tego wtórnika dowód rejestracyjny w celu umieszczenia w nim przez organ rejestrujący adnotacji, o których mowa w przepisach wydanych na podstawie art. 75c pkt 2 ustawy.
-§ 13. Wzory wniosków o wydanie wtórnika dowodu rejestracyjnego, wtórnika pozwolenia czasowego, wtórnika tablic (tablicy) rejestracyjnych, nowego dowodu rejestracyjnego lub tablic (tablicy) rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu są określone w załączniku nr 8 do rozporządzenia.
-§ 14. Jeżeli pojazd jest przedmiotem współwłasności, każdy ze współwłaścicieli po przedłożeniu pełnomocnictwa albo oświadczenia, że działa za zgodą większości współwłaścicieli może złożyć wnioski, o których mowa w art. 73 ust. 1b i art. 74a ust. 1–5, 8, 9 i 12 ustawy, albo dokonać zwrotu, o którym mowa w art. 74a ust. 13 ustawy.
-§ 15. 1. W przypadku zawiadomienia o zbyciu pojazdu zarejestrowanego dotychczasowy właściciel pojazdu dołącza do zawiadomienia kopię dokumentu, na podstawie którego nastąpiło zbycie pojazdu.
-2. W przypadku zbycia pojazdu, o którym mowa w art. 73 ust. 4 ustawy, zbywca pojazdu zwraca wojewodzie mazowieckiemu tablice rejestracyjne dyplomatyczne, którymi był oznaczony pojazd. Wojewoda wydaje zbywcy pojazdu zaświadczenie potwierdzające dokonanie zwrotu tych tablic, które zastępuje tablice rejestracyjne, o których mowa w § 2 ust. 1 pkt 4.
-Wydane zaświadczenie zbywca pojazdu przekazuje nabywcy pojazdu.
-§ 16. 1. W przypadku zawiadomienia o zmianie stanu faktycznego, która wymaga zmiany danych zamieszczonych w dowodzie rejestracyjnym wynikającej:
-1) ze zmiany adresu miejsca zamieszkania właściciela pojazdu, która powoduje zmianę właściwości miejscowej organu rejestrującego, organ rejestrujący na wniosek właściciela pojazdu dokonuje rejestracji pojazdu;
-2) ze zmiany adresu miejsca zamieszkania właściciela pojazdu, która nie powoduje zmiany właściwości miejscowej organu rejestrującego, organ rejestrujący wydaje nowy dowód rejestracyjny oraz potwierdza legalizację tablic (tablicy) rejestracyjnych zgodnie z przepisami wydanymi na podstawie art. 75c pkt 2 ustawy;
-3) z wymiany podwozia lub ramy w pojeździe zarejestrowanym, do zawiadomienia dołącza się:
-a) dowód własności podwozia lub ramy,
-b) dowód odprawy celnej przywozowej, jeżeli podwozie lub rama zostały sprowadzone z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej,
-c) dowód rejestracyjny pojazdu lub zaświadczenie wystawione przez organ rejestrujący właściwy ze względu na miejsce rejestracji pojazdu, z którego pochodzą podwozie lub rama, jeżeli to podwozie lub rama pochodzą z pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej;
-4) z wprowadzenia w pojeździe zarejestrowanym zmian konstrukcyjnych zmieniających rodzaj pojazdu, do zawiadomienia dołącza się:
-a) dokument potwierdzający, że dokonane zmiany konstrukcyjne zmieniające rodzaj pojazdu zostały wykonane przez przedsiębiorcę, o którym mowa w art. 66 ust. 4 pkt 6 lit. b ustawy,
-b) zaświadczenie o pozytywnym wyniku badania technicznego pojazdu potwierdzające, że dokonane zmiany są zgodne z przepisami wydanymi na podstawie art. 66 ust. 5 ustawy,
-c) dokument potwierdzający zapłatę akcyzy na terytorium kraju albo dokument potwierdzający brak obowiązku zapłaty akcyzy na terytorium kraju, albo zaświadczenie stwierdzające zwolnienie od akcyzy, w rozumieniu przepisów o podatku akcyzowym, w przypadku zmiany rodzaju pojazdu na samochód osobowy, pojazd rodzaju „samochodowy inny” podrodzaj „czterokołowiec” (kategoria homologacyjna L7e) lub podrodzaj „czterokołowiec lekki” (kategoria homologacyjna L6e), samochód ciężarowy (kategoria homologacyjna N1) podrodzaj „furgon”, „furgon/podest”, „ciężarowo-osobowy”, „terenowy”, „wielozadaniowy” lub „van” lub samochód specjalny (kategoria homologacyjna M1 i N1).
-2. W przypadku dokumentu, o którym mowa w ust. 1 pkt 4 lit. c, przepisy § 3 ust. 4 i 6 stosuje się odpowiednio.
-3. W przypadku zawiadomienia o zmianie stanu faktycznego, która wymaga zmiany danych zamieszczonych w dowodzie rejestracyjnym, przepisy § 2–5 stosuje się odpowiednio.
-4. W przypadku zawiadomienia o zmianie danych pojazdu zamieszczonych w dowodzie rejestracyjnym, która zaistniała w wyniku wprowadzenia zmian konstrukcyjnych lub wymiany elementów, pojazd podlega badaniu technicznemu. Zaświadczenie o pozytywnym wyniku tego badania potwierdzające, że dokonane zmiany są zgodne z przepisami wydanymi na podstawie art. 66 ust. 5 i 5a ustawy, jest podstawą do wydania dowodu rejestracyjnego z nowymi danymi pojazdu.
-5. W przypadku zawiadomienia o dokonaniu montażu dodatkowej instalacji zasilania gazem pojazdu do zawiadomienia dołącza się:
-1) wyciąg ze świadectwa homologacji:
-a) sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem, albo
-b) montażu dodatkowej instalacji R115;
-2) fakturę albo rachunek za montaż tej instalacji;
-3) dowód rejestracyjny.
-6. W przypadku pojazdu nowego, fabrycznie wyposażonego w instalację przystosowującą dany typ pojazdu do zasilania gazem, organ rejestrujący jako potwierdzenie tego wyposażenia uznaje dokument, o którym mowa w art. 72 ust. 1 pkt 3 ustawy, zawierający informację producenta o paliwie przeznaczonym do tego zasilania.
-7. W przypadku złożenia przez właściciela pojazdu wniosku o zmianę zawartych w dowodzie rejestracyjnym danych technicznych pojazdu dotyczących mas i nacisków osi, wynikającą ze zmiany właściwych, określonych w przepisach wydanych na podstawie art. 66 ust. 5 i 5a ustawy, warunków technicznych, do wniosku dołącza się:
-1) dowód rejestracyjny;
-2) oświadczenie wystawione przez producenta lub przedstawiciela producenta potwierdzające, że pojazd był homologowany zgodnie z wnioskowanymi danymi technicznymi.
-§ 17. 1. W celu czasowej rejestracji pojazdu właściciel pojazdu składa do organu rejestrującego wniosek o czasową rejestrację pojazdu na formularzu, którego wzór jest określony w załączniku nr 1 do rozporządzenia, a w przypadku pojazdu, o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 2 do rozporządzenia.
-2. W przypadku czasowej rejestracji pojazdu z urzędu, o której mowa w art. 74 ust. 2 pkt 1 ustawy, są wymagane odpowiednio dokumenty takie jak dla wniosku o rejestrację pojazdu, z uwzględnieniem art. 74 ust. 2a–2d ustawy.
-3. W przypadku czasowej rejestracji, o której mowa w art. 74 ust. 2 pkt 2 ustawy:
-1) pojazdu wcześniej zarejestrowanego na terytorium Rzeczypospolitej Polskiej bez zmiany w zakresie właściwości organu rejestrującego i właściciela pojazdu, właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 5 ustawy; jeżeli dowód rejestracyjny nie potwierdza aktualnego terminu ważności badania technicznego pojazdu i nie można zweryfikować danych o przeprowadzonym badaniu technicznym w centralnej ewidencji pojazdów, do wniosku dołącza się dokument, o którym mowa w art. 72 ust. 1 pkt 4 ustawy;
-2) pojazdu wcześniej zarejestrowanego na terytorium Rzeczypospolitej Polskiej, jeżeli nastąpiła zmiana właściciela pojazdu przed jego ponowną rejestracją, właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 1 i 5 ustawy;
-3) pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza odpowiednio dokumenty, o których mowa w art. 72 ust. 1 pkt 1–4, 6 lub 6a ustawy.
-4. W przypadku czasowej rejestracji, o której mowa w art. 74 ust. 2ca ustawy:
-1) pojazdu wcześniej zarejestrowanego na terytorium Rzeczypospolitej Polskiej bez zmiany w zakresie właściciela pojazdu, właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza dokument, o którym mowa w art. 72 ust. 1 pkt 5 ustawy, oraz zaświadczenie o przeprowadzonym badaniu, o którym mowa w art. 81 ust. 11b ustawy;
-2) pojazdu wcześniej zarejestrowanego na terytorium Rzeczypospolitej Polskiej, jeżeli nastąpiła zmiana właściciela pojazdu, właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 1 i 5 ustawy, oraz zaświadczenie o przeprowadzonym badaniu, o którym mowa w art. 81 ust. 11b ustawy;
-3) pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza odpowiednio dokumenty, o których mowa w art. 72 ust. 1 pkt 1, 3, 5, 6 lub 6a ustawy, oraz zaświadczenie o przeprowadzonym badaniu, o którym mowa w art. 81 ust. 11b ustawy;
-4) pojazdu wcześniej czasowo zarejestrowanego na podstawie art. 74 ust. 2ca właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza pozwolenie czasowe oraz zaświadczenie o przeprowadzonym badaniu, o którym mowa w art. 81 ust. 11b ustawy.
-5. Jeżeli czasowa rejestracja pojazdu jest dokonywana:
-1) w celu, o którym mowa w art. 74 ust. 2 pkt 2 lit. a ustawy, właściciel pojazdu zwraca organowi rejestrującemu tablice (tablicę) rejestracyjne pojazdu wcześniej zarejestrowanego;
-2) w związku z koniecznością przeprowadzenia badania technicznego pojazdu, o którym mowa w art. 74 ust. 2 pkt 2 lit. c ustawy, właściciel pojazdu nie ma obowiązku przedłożenia dokumentu, o którym mowa w art. 72 ust. 1 pkt 4 ustawy.
-§ 18. 1. Organ rejestrujący wydaje decyzję o czasowej rejestracji pojazdu:
-1) na formularzu, którego wzór jest określony w załączniku nr 6 do rozporządzenia;
-2) o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 7 do rozporządzenia.
-2. W przypadku czasowej rejestracji pojazdu, o której mowa w art. 74 ust. 2 pkt 1 ustawy, organ rejestrujący wydaje:
-1) pozwolenie czasowe;
-2) zalegalizowane tablice (tablicę) rejestracyjne.
-3. W przypadku czasowej rejestracji pojazdu, o której mowa w art. 74 ust. 2 pkt 1 ustawy, gdy nie zostały spełnione warunki, o których mowa w art. 74 ust. 2d ustawy, organ rejestrujący:
-1) wydaje pozwolenie czasowe;
-2) legalizuje dotychczasowe tablice (tablicę) rejestracyjne.
-4. W przypadku czasowej rejestracji pojazdu, o której mowa w art. 74 ust. 2 pkt 2 ustawy, organ rejestrujący wydaje:
-1) pozwolenie czasowe;
-2) zalegalizowane tymczasowe tablice (tablicę) rejestracyjne.
-5. W przypadku czasowej rejestracji pojazdu, o której mowa w art. 74 ust. 2ca ustawy, organ rejestrujący wydaje:
-1) pozwolenie czasowe;
-2) zalegalizowane tymczasowe tablice rejestracyjne.
-6. Wzór i opis pozwolenia czasowego oraz oznaczenia kodów zastosowanych w tym wzorze są określone w załączniku nr 9 do rozporządzenia.
-§ 19. 1. W celu wyrejestrowania pojazdu właściciel pojazdu składa do organu rejestrującego właściwego ze względu na miejsce ostatniej rejestracji pojazdu wniosek o wyrejestrowanie pojazdu na formularzu, którego wzór jest określony w załączniku nr 1 do rozporządzenia, a w przypadku pojazdu, o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 2 do rozporządzenia, do którego dołącza:
-1) w przypadku określonym w art. 79 ust. 1 pkt 1 ustawy – dokument, o którym mowa w tym przepisie, dowód rejestracyjny oraz tablice (tablicę) rejestracyjne;
-2) w przypadku określonym w art. 79 ust. 1 pkt 2 ustawy – dowód rejestracyjny i oświadczenie złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań;
-3) w przypadku określonym w art. 79 ust. 1 pkt 3 ustawy – dokument potwierdzający zbycie pojazdu za granicę i oświadczenie o zbyciu pojazdu za granicę lub kopię dokumentu potwierdzającego zarejestrowanie pojazdu za granicą;
-4) w przypadku określonym w art. 79 ust. 1 pkt 4 ustawy – dokument potwierdzający zniszczenie (kasację) pojazdu za granicą, dowód rejestracyjny oraz tablice (tablicę) rejestracyjne;
-5) w przypadku określonym w art. 79 ust. 1 pkt 5 ustawy – dokument potwierdzający trwałą i zupełną utratę posiadania pojazdu, dowód rejestracyjny, tablice (tablicę) rejestracyjne oraz dokument potwierdzający wniesienie opłaty, o której mowa w art. 79 ust. 5 ustawy;
-6) w przypadku określonym w art. 79 ust. 1 pkt 6 ustawy – dokument, o którym mowa w tym przepisie, dowód rejestracyjny oraz tablice (tablicę) rejestracyjne;
-7) w przypadku określonym w art. 79 ust. 1 pkt 7 ustawy – dokument potwierdzający wycofanie pojazdu z obrotu.
-2. W celu wyrejestrowania pojazdu czasowo wycofanego z ruchu właściciel pojazdu do wniosku o jego wyrejestrowanie dołącza decyzję o czasowym wycofaniu pojazdu z ruchu, o której mowa w art. 78a ust. 1 ustawy, zamiast dowodu rejestracyjnego.
-3. W przypadku określonym w art. 79 ust. 3a ustawy organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu, jeżeli pojazd nie został wcześniej wyrejestrowany.
-4. W przypadku utraty dowodu rejestracyjnego lub tablic (tablicy) rejestracyjnych właściciel pojazdu składa oświadczenie o ich utracie.
-5. W przypadku nieprzedłożenia przez właściciela pojazdu dokumentu, o którym mowa w ust. 1 pkt 1 albo 6, organ rejestrujący, po upływie 30 dni od dnia otrzymania zaświadczenia od przedsiębiorcy prowadzącego stację demontażu, dokonuje wyrejestrowania pojazdu z urzędu.
-6. W przypadku złożenia wniosku o wyrejestrowanie pojazdu właściciel pojazdu dokonuje także zwrotu dodatkowej zalegalizowanej tablicy rejestracyjnej, o której mowa w § 8, albo jej wtórnika, chyba że dokonał wcześniej ich zwrotu, albo składa oświadczenie o ich utracie.
-7. Organ rejestrujący wydaje decyzję o wyrejestrowaniu pojazdu:
-1) na formularzu, którego wzór jest określony w załączniku nr 6 do rozporządzenia;
-2) o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 7 do rozporządzenia;
-3) z urzędu na formularzu, którego wzór jest określony w załączniku nr 10 do rozporządzenia;
-4) o którym mowa w art. 73 ust. 2a ustawy, z urzędu na formularzu, którego wzór jest określony w załączniku nr 11 do rozporządzenia.
-§ 20. Organ rejestrujący obsługuje wnioski w sprawie rejestracji, czasowej rejestracji albo wyrejestrowania pojazdu wnoszone za pomocą środków komunikacji elektronicznej z zachowaniem warunków określonych w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
-§ 21. Organ rejestrujący, obsługując wnioski, o których mowa w § 20, udostępnia:
-1) elektroniczną skrzynkę podawczą;
-2) informacje o:
-a) wymaganych dokumentach dołączanych do wniosków,
-b) podstawach prawnych i wymaganych opłatach związanych z wnioskami,
-c) numerze konta, na które mogą być wnoszone wymagane przepisami opłaty związane z wnioskami,
-d) formacie i wymaganej jakości zapewniającej odpowiednią czytelność elektronicznych kopii dokumentów dołączanych do wniosków.
-§ 22. Oprogramowanie elektronicznej skrzynki podawczej lub systemu teleinformatycznego rejestracji może zapewnić przekazywanie danych zawartych we wniosku składanym za pomocą środków komunikacji elektronicznej do systemu teleinformatycznego rejestracji.
-§ 23. Do wniosku składanego za pomocą środków komunikacji elektronicznej właściciel pojazdu dołącza, zgodnie z informacją podaną przez organ rejestrujący:
-1) dokumenty wymagane przepisami ustawy i niniejszego rozporządzenia albo ich elektroniczne kopie;
-2) zdjęcia tablic (tablicy) rejestracyjnych;
-3) potwierdzenie elektroniczne dokonania przelewu wymaganych opłat albo elektroniczną kopię dowodu wpłaty tych opłat.
-§ 24. W przypadku upoważnienia, o którym mowa w art. 73c ust. 1 pkt 1 ustawy, salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów w imieniu właściciela pojazdu składa wniosek o rejestrację pojazdu na formularzu, o którym mowa w art. 73c ust. 3 ustawy, wraz z wymaganymi dokumentami, o których mowa w art. 73c ust. 6 ustawy.
-§ 25. Do oznaczania pojazdów stosuje się następujące wzory tablic rejestracyjnych:
-1) zwyczajne – do oznaczania wszystkich pojazdów, z zastrzeżeniem pkt 2–5;
-2) indywidualne – do oznaczania pojazdów samochodowych;
-3) zabytkowe – do oznaczania pojazdów zabytkowych;
-4) tymczasowe – do oznaczania pojazdów czasowo zarejestrowanych;
-5) dyplomatyczne – do oznaczania pojazdów należących do przedstawicielstw dyplomatycznych, urzędów konsularnych i misji specjalnych państw obcych oraz organizacji międzynarodowych, a także ich personelu.
-§ 26. 1. Tablice rejestracyjne ze względu na rozmiary dzielą się na:
-1) samochodowe:
-a) jednorzędowe i dwurzędowe – do oznaczania wszystkich rodzajów pojazdów, z wyjątkiem motocykli, ciągników rolniczych, motorowerów i pojazdów rodzaju „samochodowy inny” (kategorii L6e i L7e),
-b) jednorzędowe zmniejszone – do oznaczania pojazdów silnikowych posiadających zmniejszone wymiary miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej, z wyłączeniem motocykli, ciągników rolniczych, pojazdów wolnobieżnych wchodzących w skład kolejki turystycznej i pojazdów rodzaju „samochodowy inny”;
-2) motocyklowe (dwurzędowe) – do oznaczania motocykli, ciągników rolniczych oraz pojazdów rodzaju „samochodowy inny” (kategorii L6e i L7e);
-3) motorowerowe (dwurzędowe) – do oznaczania motorowerów.
-2. W przypadku ciągnika rolniczego mogą być stosowane tablice rejestracyjne samochodowe, jeżeli ciągnik rolniczy posiada odpowiadające takiej tablicy miejsce konstrukcyjnie przeznaczone do jej umieszczenia.
-3. W przypadku pojazdu wchodzącego w skład kolejki turystycznej, w zależności od miejsca konstrukcyjnie przeznaczonego do umieszczenia tablic rejestracyjnych, mogą być stosowane, ze względu na rozmiar, tablice rejestracyjne samochodowe lub motocyklowe.
-4. W przypadku pojazdu rodzaju „samochodowy inny” będącego pojazdem trzykołowym lub czterokołowym wyposażonym w nadwozie mogą być stosowane tablice rejestracyjne samochodowe, jeżeli pojazd ten posiada odpowiadające tym tablicom miejsce konstrukcyjnie przeznaczone do ich umieszczenia.
-5. Do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną stosuje się dodatkową tablicę rejestracyjną, o której mowa w art. 73 ust. 1b ustawy, jednorzędową albo dwurzędową, albo jednorzędową zmniejszoną umieszczoną na bagażniku w miejscu konstrukcyjnie do tego przeznaczonym.
-§ 27. 1. Każdemu pojazdowi przypisuje się jeden numer rejestracyjny, o którym mowa w art. 73 ust. 1d ustawy.
-2. Na tablicy rejestracyjnej zwyczajnej będącej tablicą rejestracyjną samochodową albo tablicą rejestracyjną motocyklową jest wytłoczony numer rejestracyjny:
-1) barwy czarnej na białym tle albo
-2) barwy czarnej na zielonym tle w przypadku tablicy rejestracyjnej wydawanej dla pojazdu elektrycznego albo pojazdu napędzanego wodorem – składający się z wyróżnika województwa, wyróżnika powiatu i wyróżnika pojazdu.
-3. Na tablicy rejestracyjnej zwyczajnej będącej tablicą rejestracyjną samochodową jednorzędową zmniejszoną jest wytłoczony numer rejestracyjny:
-1) barwy czarnej na białym tle albo
-2) barwy czarnej na zielonym tle w przypadku tablicy rejestracyjnej wydawanej dla pojazdu elektrycznego albo pojazdu napędzanego wodorem – składający się z wyróżnika województwa i wyróżnika pojazdu.
-4. Na tablicy rejestracyjnej indywidualnej jest wytłoczony numer rejestracyjny:
-1) barwy czarnej na białym tle albo
-2) barwy czarnej na zielonym tle w przypadku tablicy rejestracyjnej wydawanej dla pojazdu elektrycznego albo pojazdu napędzanego wodorem – składający się z wyróżnika województwa i indywidualnego wyróżnika pojazdu.
-5. Na tablicy rejestracyjnej motorowerowej jest wytłoczony numer rejestracyjny:
-1) barwy czarnej na białym tle albo
-2) barwy czarnej na zielonym tle w przypadku tablicy rejestracyjnej wydawanej dla motoroweru wyposażonego w silnik elektryczny – składający się z wyróżnika województwa i wyróżnika pojazdu.
-6. Na tablicy rejestracyjnej zabytkowej jest wytłoczony numer rejestracyjny barwy czarnej na żółtym tle, składający się z wyróżnika województwa, wyróżnika powiatu i wyróżnika pojazdu, oraz symbol pojazdu zabytkowego barwy czarnej.
-7. Na tablicy rejestracyjnej zabytkowej jednorzędowej zmniejszonej jest wytłoczony numer rejestracyjny barwy czarnej na żółtym tle oraz naniesiona techniką laserową grafika symbolu przedstawionego na rysunku 3 w załączniku nr 12 do rozporządzenia.
-8. Na tablicy rejestracyjnej motorowerowej zabytkowej jest wytłoczony numer rejestracyjny barwy czarnej na żółtym tle oraz naniesiona techniką laserową grafika symbolu przedstawionego na rysunku 4 w załączniku nr 12 do rozporządzenia.
-9. Na tablicy rejestracyjnej tymczasowej jest wytłoczony numer rejestracyjny składający się z wyróżnika województwa oraz wyróżnika pojazdu:
-1) barwy czerwonej na białym tle albo
-2) barwy czerwonej na żółtym tle w przypadku tablicy rejestracyjnej wydawanej dla samochodu osobowego przeznaczonego do zawodów sportowych.
-10. Na tablicy rejestracyjnej dyplomatycznej jest wytłoczony numer rejestracyjny barwy białej na niebieskim tle składający się z wyróżnika województwa i wyróżnika pojazdu.
-§ 28. 1. W skrajnej lewej części tablicy rejestracyjnej umieszcza się dodatkowo na niebieskim tle symbol Unii Europejskiej składający się z 12 pięcioramiennych gwiazdek barwy żółtej ułożonych na obwodzie okręgu oraz znak z literami „PL” barwy białej. Wymóg ten nie dotyczy tablic (tablicy) rejestracyjnych dyplomatycznych.
-2. Na tablicach (tablicy) rejestracyjnych w miejscu do tego przeznaczonym znajduje się znak legalizacyjny zgodny ze wzorem określonym w przepisach wydanych na podstawie art. 75c pkt 2 ustawy.
-3. Miejsce przeznaczone do umieszczenia znaku legalizacyjnego na tablicy rejestracyjnej wskazuje oznaczenie naniesione techniką laserową.
-4. Na tablicach rejestracyjnych umieszcza się również naniesione techniką laserową:
-1) grafikę obrysu wizerunku orła, o którym mowa w ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2024 r. poz. 155),
-2) oznaczenie numeru certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2 ustawy, posiadanego przez producenta tablic rejestracyjnych bez wytłoczonych numerów rejestracyjnych, jeżeli występuje,
-3) oznaczenie nazwy producenta i numeru certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2 ustawy, posiadanego przez producenta tablic rejestracyjnych z wytłoczonymi numerami rejestracyjnymi albo tłoczącego numery rejestracyjne;
-w oznaczeniu tej nazwy producent podaje maksymalnie 10 znaków z nazwy określającej jego firmę, z wyłączeniem znaków interpunkcyjnych,
-4) grafikę symbolu określonego na rysunku 3 w załączniku nr 12 do rozporządzenia – w przypadku tablic rejestracyjnych zabytkowych jednorzędowych zmniejszonych,
-5) grafikę symbolu określonego na rysunku 4 w załączniku nr 12 do rozporządzenia – w przypadku tablic rejestracyjnych motorowerowych zabytkowych – w sposób określony w pkt 2.6 załącznika nr 12 do rozporządzenia.
-5. Przepisu ust. 3 nie stosuje się do tablic tymczasowych.
-6. Przepisu ust. 4 pkt 1 nie stosuje się do tablic motorowerowych i tablic tymczasowych.
-§ 29. Na tablicach (tablicy) rejestracyjnych nie mogą być umieszczane inne oznaczenia niż te, o których mowa w § 27 i § 28 oraz § 32.
-§ 30. 1. Numery rejestracyjne są tworzone ze zbioru następujących 25 liter: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, V, W, X, Y i Z oraz cyfr od 0 do 9.
-2. Poszczególne litery i cyfry numeru rejestracyjnego pełnią następujące funkcje:
-1) na tablicach rejestracyjnych zwyczajnych samochodowych – pierwsza litera stanowi wyróżnik województwa, druga lub druga i trzecia litera stanowią wyróżnik powiatu, następne cyfry lub cyfry i litera lub litery stanowią wyróżnik pojazdu tworzony kolejno w układzie:
-a) w przypadku powiatów z wyróżnikiem jednoliterowym: – pięć cyfr w przedziale od 00001 do 99999, – cztery cyfry w przedziale od 0001 do 9999 i litera, – trzy cyfry w przedziale od 001 do 999 i dwie litery, – cyfra w przedziale od 1 do 9, litera i trzy cyfry w przedziale od 001 do 999, – cyfra w przedziale od 1 do 9, dwie litery i dwie cyfry w przedziale od 01 do 99,
-b) w przypadku powiatów z wyróżnikiem dwuliterowym: – litera i trzy cyfry w przedziale od 001 do 999, – dwie cyfry w przedziale od 01 do 99 i dwie litery, – cyfra w przedziale od 1 do 9, litera i dwie cyfry w przedziale od 01 do 99, – dwie cyfry w przedziale od 01 do 99, litera i cyfra w przedziale od 1 do 9, – cyfra w przedziale od 1 do 9, dwie litery i cyfra w przedziale od 1 do 9, – dwie litery i dwie cyfry w przedziale od 01 do 99, – pięć cyfr w przedziale od 00001 do 99999, – cztery cyfry w przedziale od 0001 do 9999 i litera, – trzy cyfry w przedziale od 001 do 999 i dwie litery;
-2) na tablicach rejestracyjnych zwyczajnych samochodowych jednorzędowych zmniejszonych i na tablicach rejestracyjnych tymczasowych jednorzędowych zmniejszonych oraz na tablicach rejestracyjnych zabytkowych jednorzędowych zmniejszonych – wydawanych dla pojazdu posiadającego zmniejszone wymiary miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej – dla powiatów z wyróżnikiem jednoliterowym i dwuliterowym pierwsza litera stanowi wyróżnik województwa, następne cyfry lub cyfry i litera, lub litery stanowią wyróżnik pojazdu tworzony kolejno w układzie:
-a) trzy cyfry w przedziale od 001 do 999,
-b) dwie cyfry w przedziale od 01 do 99 i litera,
-c) cyfra w przedziale od 1 do 9, litera i cyfra w przedziale od 1 do 9,
-d) litera i dwie cyfry w przedziale od 01 do 99,
-e) cyfra w przedziale od 1 do 9 i dwie litery,
-f) dwie litery i cyfra w przedziale od 1 do 9,
-g) litera, cyfra w przedziale od 1 do 9 i litera;
-3) na tablicach rejestracyjnych zwyczajnych motocyklowych i motorowerowych – pierwsza litera stanowi wyróżnik województwa, druga lub druga i trzecia litera stanowią wyróżnik powiatu, następne cyfry lub cyfry i litera, lub litery stanowią wyróżnik pojazdu tworzony kolejno w układzie:
-a) w przypadku powiatów z wyróżnikiem jednoliterowym: – cztery cyfry w przedziale od 0001 do 9999, – trzy cyfry w przedziale od 001 do 999 i litera, – dwie cyfry w przedziale od 01 do 99, litera i cyfra w przedziale od 1 do 9, – cyfra w przedziale od 1 do 9, litera i dwie cyfry w przedziale od 01 do 99, – litera i trzy cyfry w przedziale od 001 do 999, – dwie cyfry w przedziale od 01 do 99 i dwie litery, – cyfra w przedziale od 1 do 9, dwie litery i cyfra w przedziale od 1 do 9, – dwie litery i dwie cyfry w przedziale od 01 do 99,
-b) w przypadku powiatów z wyróżnikiem dwuliterowym: – litera i trzy cyfry w przedziale od 001 do 999, – dwie cyfry w przedziale od 01 do 99 i dwie litery, – cyfra w przedziale od 1 do 9, litera i dwie cyfry w przedziale od 01 do 99, – dwie cyfry w przedziale od 01 do 99, litera i cyfra w przedziale od 1 do 9, – cyfra w przedziale od 1 do 9, dwie litery i cyfra w przedziale od 1 do 9, – dwie litery i dwie cyfry w przedziale od 01 do 99, – litera, dwie cyfry w przedziale od 01 do 99 i litera, – litera, cyfra w przedziale od 1 do 9 i dwie litery;
-4) na tablicach rejestracyjnych indywidualnych – litera i cyfra stanowią wyróżnik województwa, zaś kolejne litery w liczbie od 3 do 5 stanowią wyróżnik indywidualny pojazdu, w którym nie więcej niż dwie ostatnie litery można zastąpić cyframi;
-5) na tablicach rejestracyjnych zabytkowych, z wyjątkiem tablic rejestracyjnych zabytkowych jednorzędowych zmniejszonych – pierwsza litera stanowi wyróżnik województwa, druga lub druga i trzecia litera stanowią wyróżnik powiatu, następne cyfry lub cyfry i litera stanowią wyróżnik pojazdu tworzony kolejno w układzie:
-a) w przypadku powiatów z wyróżnikiem jednoliterowym: – dwie cyfry w przedziale od 01 do 99 i litera, – trzy cyfry w przedziale od 001 do 999,
-b) w przypadku powiatów z wyróżnikiem dwuliterowym: – cyfra w przedziale od 1 do 9 i litera, – dwie cyfry w przedziale od 01 do 99, – litera i cyfra w przedziale od 1 do 9;
-6) na tablicach rejestracyjnych tymczasowych – litera i cyfra stanowią wyróżnik województwa, zaś cztery cyfry w przedziale od 0001 do 9999 stanowią wyróżnik pojazdu, który po wyczerpaniu wskazanej pojemności tworzy się w układzie trzy cyfry w przedziale od 001 do 999 i litera;
-7) na tablicach rejestracyjnych dyplomatycznych – pierwsza litera stanowi wyróżnik województwa, zaś sześć cyfr w przedziale od 000001 do 999999 stanowi wyróżnik pojazdu.
-3. Organ rejestrujący może wydać dla pojazdu posiadającego zmniejszone wymiary miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej:
-1) w przypadku czasowej rejestracji, o której mowa w art. 74 ust. 2 pkt 2 i ust. 2ca ustawy – tablice rejestracyjne tymczasowe jednorzędowe zmniejszone,
-2) w przypadku rejestracji – tablice rejestracyjne zwyczajne samochodowe jednorzędowe zmniejszone – o tym samym numerze rejestracyjnym.
-§ 31. 1. Wyróżnik pojazdu, z zastrzeżeniem § 32 ust. 2, określa organ rejestrujący, posługując się zestawem cyfr i liter stanowiących pojemność rejestracyjną, z wyłączeniem liter B, D, I, O i Z.
-2. Wyróżniki województw i powiatów dla tablic rejestracyjnych są określone w załączniku nr 13 do rozporządzenia.
-3. W przypadku gdy, zgodnie z załącznikiem nr 13 do rozporządzenia, dla województwa są określone dwie litery będące wyróżnikiem województwa, numery rejestracyjne z wykorzystaniem drugiej litery są tworzone po wyczerpaniu się możliwości utworzenia numerów rejestracyjnych dla poszczególnych tablic rejestracyjnych z wykorzystaniem pierwszej litery wyróżnika województwa.
-4. W przypadku połączenia powiatów, dla których określono wyróżniki dla tablic rejestracyjnych w załączniku nr 13 do rozporządzenia, na tablicach rejestracyjnych stosuje się dotychczasowe wyróżniki tych powiatów.
-5. W przypadku podziału powiatu, dla którego określono wyróżniki dla tablic rejestracyjnych, właściwe po tym podziale organy rejestrujące do czasu określenia nowych wyróżników stosują dotychczasowe wyróżniki, po uzgodnieniu przez te organy podziału niewykorzystanych pojemności rejestracyjnych.
-§ 32. 1. Organ rejestrujący wydaje tablice (tablicę) rejestracyjne indywidualne, jeżeli z informacji uzyskanej z ewidencji tablic rejestracyjnych indywidualnych wydanych na terenie województwa, o której mowa w art. 73a ust. 1 pkt 1 ustawy, wynika, że identyczne tablice (tablica) rejestracyjne nie zostały wydane dla innego pojazdu zarejestrowanego na terenie województwa.
-2. Wyróżnik indywidualny pojazdu określa zainteresowany właściciel pojazdu.
-3. Wyróżnik indywidualny powinien być wyrazem, skrótem lub określeniem, które nie zawierają w swoim znaczeniu w języku polskim albo obcym treści obraźliwych lub niezgodnych z zasadami współżycia społecznego.
-§ 33. 1. Właściciel pojazdu umieszcza na pojeździe tablice rejestracyjne z przodu i z tyłu w miejscach konstrukcyjnie do tego przeznaczonych, z wyjątkiem przyczep, ciągników rolniczych, motocykli i motorowerów, na których tablicę umieszcza się tylko z tyłu.
-2. W przypadku pojazdów kategorii L2e, L5e, L6e i L7e tablicę rejestracyjną umieszcza się również z przodu, jeżeli pojazdy te posiadają miejsce konstrukcyjnie do tego przeznaczone.
-3. W przypadkach uzasadnionych konstrukcją ciągnika rolniczego tablicę rejestracyjną umieszcza się z przodu tego pojazdu.
-4. Z przodu pojazdu umieszcza się wyłącznie tablicę rejestracyjną samochodową jednorzędową, z wyjątkiem pojazdów, o których mowa w ust. 2 i 3.
-5. Z tyłu pojazdu umieszcza się tablicę rejestracyjną samochodową jednorzędową albo dwurzędową w zależności od miejsca konstrukcyjnie do tego przeznaczonego.
-6. Z tyłu przyczepy motocyklowej umieszcza się tablicę rejestracyjną motocyklową przeniesioną z motocykla, który ciągnie przyczepę.
-7. Jeżeli pojazd nie posiada specjalnego miejsca do umocowania tablic rejestracyjnych, to przednią i tylną tablicę rejestracyjną umieszcza się w środku szerokości pojazdu, a gdyby to utrudniało jego eksploatowanie lub ograniczało widoczność tablicy rejestracyjnej – po lewej stronie pojazdu.
-8. W przypadku ciągnika rolniczego, którego konstrukcja ogranicza prędkość jazdy do 25 km/h, i pojazdu wolnobieżnego, wchodzących w skład kolejki turystycznej, tablice rejestracyjne umieszcza się z przodu i z tyłu albo tylko z tyłu, w zależności od położenia miejsca konstrukcyjnie do tego przeznaczonego. W przypadku przyczepy dostosowanej do przewozu osób wchodzącej w skład kolejki turystycznej tablice umieszcza się tylko z tyłu.
-9. W przypadku zamontowania na pojeździe samochodowym bagażnika, zakrywającego tylną tablicę rejestracyjną, dodatkową zalegalizowaną tablicę rejestracyjną, o której mowa w art. 73 ust. 1b ustawy, umieszcza się na bagażniku w miejscu konstrukcyjnie do tego przeznaczonym.
-§ 34. Szczegółowe wymagania techniczne dla tablic rejestracyjnych oraz zakres i sposób ich badania, a także wzory tablic rejestracyjnych, umieszczanych na nich znaków i symboli oraz ich opis są określone w załączniku nr 12 do rozporządzenia.
-§ 35. 1. W przypadku gdy organ rejestrujący wydaje na wniosek właściciela pojazdu decyzję o nadaniu cech identyfikacyjnych zgodnie z art. 66a ustawy, stacja kontroli pojazdów wydaje zaświadczenie potwierdzające umieszczenie numeru nadwozia, podwozia lub ramy.
-2. Wzory cech identyfikacyjnych pojazdu: numer VIN oraz numer nadwozia, podwozia i ramy, a także ich opis, są określone w załączniku nr 14 do rozporządzenia.
-§ 36. 1. Organ rejestrujący wydaje w drodze decyzji, na wniosek właściciela pojazdu, zgodę na wykonanie i umieszczenie tabliczki znamionowej zastępczej, zwanej dalej „tabliczką zastępczą”, w przypadku:
-1) braku, utraty lub zniszczenia tabliczki znamionowej;
-2) utraty aktualności treści tabliczki znamionowej w zakresie określenia cech identyfikacyjnych pojazdu.
-2. W przypadkach określonych w ust. 1 stacja kontroli pojazdów wydaje zaświadczenie potwierdzające wykonanie i umieszczenie tabliczki zastępczej.
-§ 37. 1. Na samochodzie ciężarowym samowyładowczym oraz przyczepie samowyładowczej umieszcza się numery rejestracyjne odpowiadające numerom rejestracyjnym na tablicach rejestracyjnych przez ich namalowanie na tyle burty skrzyni ładunkowej białą lub czarną farbą kontrastową w stosunku do tła burty. Przepis ten nie dotyczy pojazdów, których burta z tyłu nie ma płaszczyzny, na której można namalować te numery.
-2. Numery namalowane na tyle burty skrzyni ładunkowej powinny mieć taki sam układ i zbliżony kształt liter i cyfr jak numery na tablicy rejestracyjnej samochodowej jednorzędowej. Długość rzędu namalowanych numerów powinna wynosić 140–150 cm, wysokość 25 cm, a grubość kreski – 4,5 cm.
-§ 38. 1. Autobus, o którym mowa w art. 20 ust. 4 ustawy, oraz pojazd, w stosunku do którego organ rejestrujący ustalił na podstawie art. 21 ust. 4 ustawy indywidualną dopuszczalną prędkość jazdy, oznacza się tarczą określającą tę prędkość, umieszczoną na tyle nadwozia.
-2. Autobus przystosowany do zasilania gazem oznacza się z przodu i z tyłu nadwozia oraz z prawego boku pojazdu w pobliżu drzwi wejściowych nalepką z symbolem „LPG”, „CNG” albo „LNG”.
-§ 39. 1. Na pojeździe zarejestrowanym w Rzeczypospolitej Polskiej, który ma być używany w ruchu międzynarodowym, umieszcza się z tyłu na nadwoziu znak z literami „PL”.
-2. Znak „PL” może być umieszczony na tylnej szybie samochodu, w jej prawym dolnym rogu, pod warunkiem że będzie zapewniona wystarczająca widoczność znaku i czytelność liter.
-3. Na pojeździe należącym do przedstawicielstwa dyplomatycznego państwa obcego umieszcza się znak z literami „CD”, a na pojeździe urzędu konsularnego – znak z literami „CC”. Stosuje się przepis ust. 2.
-§ 40. 1. Na pojeździe do nauki jazdy lub przeprowadzania egzaminu państwowego umieszcza się tablicę, o której mowa w art. 55 ust. 1 ustawy, z przodu i z tyłu pojazdu lub zespołu pojazdów, na wysokości od 60 cm do 180 cm od powierzchni jezdni.
-2. Na samochodzie osobowym i czterokołowcu wyposażonym w nadwozie tablicę, o której mowa w art. 55 ust. 1 ustawy, umieszcza się pionowo na dachu, prostopadle do osi podłużnej pojazdu.
-3. Na motocyklu, motorowerze i czterokołowcu tablicę, o której mowa w art. 55 ust. 1 ustawy, umieszcza się z tyłu pojazdu.
-§ 41. Na pojeździe przewożącym zorganizowaną grupę dzieci lub młodzieży w wieku do lat 18 tablicę, o której mowa w art. 57 ust. 1 ustawy, umieszcza się z przodu i z tyłu pojazdu, możliwie blisko lewej płaszczyzny obrysu, na wysokości od 60 cm do 180 cm od powierzchni jezdni.
-§ 42. 1. Na autobusie szkolnym przeznaczonym do przewozu dzieci do szkoły umieszcza się z przodu i z tyłu tablicę „AUTOBUS SZKOLNY”.
-2. Autobus szkolny, o którym mowa w ust. 1, dodatkowo oznacza się z przodu i z tyłu tablicami ze znakiem „STOP”, które powinny być widoczne dla innych uczestników ruchu drogowego po uruchomieniu autobusu oraz być zamontowana i działać, zgodnie z przepisami wydanymi na podstawie art. 66 ust. 5 ustawy.
-§ 43. 1. Na pojeździe przeznaczonym konstrukcyjnie do przewozu osób niepełnosprawnych umieszcza się tablicę, o której mowa w art. 58 ust. 1 ustawy, z przodu i z tyłu pojazdu, możliwie blisko lewej płaszczyzny obrysu, na wysokości od 60 cm do 180 cm od powierzchni jezdni.
-2. Na pojeździe, o którym mowa w art. 8 ustawy, na jego przedniej szybie, w jej prawym górnym rogu, może być umieszczona nalepka barwy białej z międzynarodowym symbolem wózka inwalidzkiego barwy czarnej.
-§ 44. 1. Nalepkę, o której mowa w art. 91 ust. 2 pkt 3 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U.
-z 2024 r. poz. 1210 i 1544), umieszcza się na przedniej i tylnej szybie pojazdu, w prawym górnym rogu.
-2. W przypadku pojazdu samochodowego konstrukcyjnie nieposiadającego szyby tylnej lub przedniej nalepkę, o której mowa w ust. 1, umieszcza się odpowiednio z tyłu lub z przodu na nadwoziu pojazdu.
-3. W przypadku oznaczenia pojazdu nalepką, o której mowa w ust. 1, i nalepką, o której mowa w § 43 ust. 2, nalepki te umieszcza się obok siebie na przedniej szybie pojazdu.
-§ 45. Do oznaczenia dostępności pojazdu dla pasażera o ograniczonej możliwości poruszania się stosuje się symbole zgodne ze wzorami określonymi w pkt 14 załącznika nr 15 do rozporządzenia.
-§ 46. Wzory oznaczeń pojazdów, o których mowa w § 38–45, oraz ich opis są określone w załączniku nr 15 do rozporządzenia.
-§ 47. 1. Do dnia 30 listopada 2024 r. organ rejestrujący, w przypadku dokonywania czasowej rejestracji samochodu osobowego przeznaczonego do zawodów sportowych, wydaje tablice rejestracyjne, o których mowa w § 27 ust. 9 pkt 1.
-2. Tablice rejestracyjne tymczasowe, o których mowa w ust. 1, zachowują ważność w terminie ważności wydanego wraz z nimi pozwolenia czasowego.
-§ 48. 1. Dowody rejestracyjne oraz ich wtórniki wydane przed dniem wejścia w życie rozporządzenia zachowują ważność.
-2. Pozwolenia czasowe oraz ich wtórniki wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
-3. Tablice (tablica) rejestracyjne oraz ich wtórniki zgodne ze wzorami określonymi w przepisach dotychczasowych zachowują ważność.
-§ 49. Organ rejestrujący wymieni, na wniosek właściciela zabytkowego motoroweru, tablice rejestracyjne pojazdu zgodne z przepisami rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 11 grudnia 2017 r. w sprawie rejestracji i oznaczania pojazdów oraz wymagań dla tablic rejestracyjnych (Dz. U. poz. 2355, z późn. zm. ) na tablice rejestracyjne motorowerowe zabytkowe, w przypadku gdy dla motoroweru zgłoszonego do rejestracji jako pojazd zabytkowy były wydane:
-1) tablica rejestracyjna motocyklowa zabytkowa – z zachowaniem dotychczasowego numeru rejestracyjnego;
-2) tablica rejestracyjna motorowerowa – z nowym numerem rejestracyjnym.
-§ 50. Certyfikaty, o których mowa w art. 75a ust. 2 pkt 2 ustawy, wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
-§ 51. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Infrastruktury: D. Klimczak Ministra Infrastruktury z dnia 8 listopada 2024 r. (poz. ….) Załącznik nr 1 WZÓR WZÓR WNIOSKU WNIOSKU O O REJESTRACJĘ, REJESTRACJĘ, CZASOWĄ CZASOWĄ REJESTRACJĘ, REJESTRACJĘ, WYREJESTROWANIE WYREJESTROWANIE POJAZDU POJAZDU LUB LUB ZAWIADOMIENIA ZAWIADOMIENIA O ZBYCIU O ZBYCIU POJAZDU POJAZDU (format (format A5 A5 lub lub A4) A4) WNIOSEK ......................................................... .................................................................
-.........................................................
-.........................................................
-......................................................... …...............................................................
-......................................................... ....................................................................
-Wnoszę o rejestrację / czasową rejestrację w celu .............................................................................................
-– wyrejestrowanie / zawiadamiam o zbyciu następującego pojazdu:
-1. rodzaj pojazdu i przeznaczenie ..................................................................................................................
-2. marka, typ, model ......................................................................................................................................
-3. rok produkcji .............................................................................................................................................
-4. numer VIN / nr nadwozia, podwozia lub ramy .........................................................................................
-5. dotychczasowy numer rejestracyjny ..........................................................................................................
-6. sprowadzonego z terytorium państwa członkowskiego UE dnia ............................................................
-data zbycia dotychczas zarejestrowanego pojazdu..................................................................................
-Do wniosku załączam następujące dokumenty: ...................................................................................................................................................................................
-...................................................................................................................................................................................
-...................................................................................................................................................................................
-...................................................................................................................................................................................
-– – ..................................................
-W przypadku wniosku składanego przez podmiot, o którym mowa w art. 73 ust. 2 i 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, we wniosku podaje się dane tego podmiotu oraz właściciela pojazdu.
-Numer REGON podaje właściciel pojazdu, któremu został nadany numer REGON, z wyłączeniem osób fizycznych prowadzących działalność gospodarczą.
-Datę urodzenia wpisują tylko cudzoziemcy, którzy nie posiadają numeru PESEL.
-Niepotrzebne skreślić.
-Wypełnia się w przypadku pojazdu sprowadzonego z terytorium państwa członkowskiego Unii Europejskiej, rejestrowanego po raz pierwszy na terytorium Rzeczypospolitej Polskiej, gdy datą sprowadzenia pojazdu z terytorium państwa członkowskiego Unii Europejskiej jest dzień po 31 grudnia 2019 r.
-Wypełnia się, jeżeli właściciel pojazdu wnosi o wydanie tablic indywidualnych zamiast tablic zwyczajnych albo tablic samochodowych zmniejszonych w przypadku, gdy pojazd posiada zmniejszone wymiary miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej.
-Wypełnia się, jeżeli właściciel pojazdu wnosi o zachowanie dotychczasowego numeru rejestracyjnego zgodnie z art. 73 ust. 1a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 #### Rozdział 1 Przepisy ogólne
 
+**§ 1.**
+
+1. Rozporządzenie określa:
+
+- **1)** warunki i tryb rejestracji pojazdów, o których mowa w art. 71 ust. 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zwanych dalej „pojazdami”, czasowej rejestracji pojazdów oraz wyrejestrowania pojazdów;
+- **2)** wzory dowodu rejestracyjnego i pozwolenia czasowego, a także ich opis;
+- **3)** wzory tablic rejestracyjnych oraz innych tablic, cech identyfikacyjnych i oznaczeń, w które zaopatruje się pojazd, a także ich opis oraz sposób ich umieszczania;
+- **4)** szczegółowe wymagania techniczne dla tablic rejestracyjnych oraz zakres i sposób ich badania;
+- **5)** wzory innych dokumentów związanych z rejestracją pojazdów:
+    - **a)** wniosku o rejestrację, czasową rejestrację, wyrejestrowanie pojazdu lub zawiadomienia o zbyciu pojazdu,
+    - **b)** decyzji o rejestracji, czasowej rejestracji albo wyrejestrowaniu pojazdu,
+    - **c)** wniosku o wydanie wtórnika dowodu rejestracyjnego, wtórnika pozwolenia czasowego, wtórnika tablic (tablicy) rejestracyjnych, nowego dowodu rejestracyjnego lub tablic (tablicy) rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu,
+    - **d)** zaświadczenia potwierdzającego dane zawarte w utraconym dowodzie rejestracyjnym,
+    - **e)** wniosku o wydanie dodatkowej zalegalizowanej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną dla pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej.
+
+2. Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** centralnym organie technicznym Krajowego Systemu Informatycznego (KSI) – rozumie się przez to Komendanta Głównego Policji;
+- **2)** danych SIS – rozumie się przez to dane, o których mowa art. 20 ust. 1–3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm. );
+- **3)** dowodzie odprawy celnej przywozowej – rozumie się przez to:
+    - **a)** dokument określony w przepisach prawa celnego potwierdzający spełnienie formalności celnych lub
+    - **b)** adnotację na dowodzie własności pojazdu lub zespołu pojazdów określającą datę i numer dokumentu, o którym mowa w lit. a, oraz nazwę organu, który dokonał odprawy celnej – w przypadku przedsiębiorców prowadzących działalność gospodarczą w zakresie obrotu pojazdami;
+
+- **4)** dacie sprowadzenia pojazdu z terytorium państwa członkowskiego Unii Europejskiej – rozumie się przez to podany przez właściciela pojazdu dzień sprowadzenia pojazdu z terytorium państwa członkowskiego Unii Europejskiej do oznaczonego miejsca przeznaczenia na terytorium Rzeczypospolitej Polskiej w związku z nabyciem wewnątrzwspólnotowym pojazdu;
+- **5)** organie rejestrującym – rozumie się przez to odpowiednio starostę, prezydenta miasta na prawach powiatu albo wojewodę mazowieckiego;
+- **6)** państwie członkowskim – rozumie się przez to państwo w rozumieniu art. 2 pkt 63 ustawy;
+- **7)** ustawie – rozumie się przez to ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
+- **8)** pojeździe elektrycznym – rozumie się przez to pojazd wykorzystujący do napędu wyłącznie energię elektryczną akumulowaną przez podłączenie do zewnętrznego źródła zasilania w rozumieniu art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2024 r. poz. 1289);
+- **9)** pojeździe napędzanym wodorem – rozumie się przez to pojazd wykorzystujący do napędu energię elektryczną wytworzoną z wodoru w zainstalowanych w nich ogniwach paliwowych w rozumieniu art. 2 pkt 15 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych.
+
+3. Przepisy rozporządzenia dotyczące właściciela pojazdu stosuje się odpowiednio do kierownika zakładu lub wydzielonej jednostki organizacyjnej, o których mowa w art. 73 ust. 2 ustawy, władz wojskowych, o których mowa w art. 73 ust. 2a ustawy, oraz podmiotu, któremu powierzono pojazd na podstawie art. 73 ust. 5 ustawy.
+
 #### Rozdział 2 Rejestracja pojazdów
+
+**§ 2.**
+
+1. W celu rejestracji pojazdu właściciel pojazdu składa do organu rejestrującego wniosek o rejestrację pojazdu na formularzu, którego wzór jest określony w załączniku nr 1 do rozporządzenia, a w przypadku pojazdu, o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 2 do rozporządzenia, z zastrzeżeniem § 24, zwane w niniejszym rozdziale „wnioskiem o rejestrację”, do którego dołącza:
+
+- **1)** dowód własności pojazdu;
+- **2)** oświadczenie, o którym mowa w § 4 ust. 6 pkt 2, jeżeli zostało dołączone do dowodu własności pojazdu;
+- **3)** dowód rejestracyjny, jeżeli pojazd był zarejestrowany;
+- **4)** tablice (tablicę) rejestracyjne, jeżeli pojazd był zarejestrowany; w przypadku pojazdu sprowadzonego z zagranicy bez tablic (tablicy) rejestracyjnych albo konieczności zwrotu tych tablic (tablicy) organowi rejestrującemu państwa, z którego pojazd został sprowadzony, właściciel pojazdu zamiast tablic (tablicy) rejestracyjnych dołącza oświadczenie, że pojazd został sprowadzony z zagranicy bez tablic (tablicy) rejestracyjnych albo oświadczenie o konieczności zwrotu tych tablic (tablicy) organowi rejestrującemu państwa, z którego pojazd został sprowadzony; oświadczenie może być złożone na wniosku o rejestrację, w tym na jego odwrocie;
+- **5)** dodatkową tablicę rejestracyjną, o której mowa w art. 73 ust. 1b ustawy, jeżeli była wydana, a w przypadku jej utraty właściciel pojazdu zamiast dodatkowej tablicy rejestracyjnej dołącza oświadczenie o jej utracie; oświadczenie może być złożone na wniosku o rejestrację, w tym na jego odwrocie.
+
+2. Właściciel pojazdu przedstawia organowi rejestrującemu do legalizacji tablice rejestracyjne w przypadku wniosku o zachowanie dotychczasowego numeru rejestracyjnego, o którym mowa w art. 73 ust. 1a ustawy.
+
+3. Przepis ust. 2 stosuje się również do dodatkowej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną, jeżeli była wydana.
+
+4. Obowiązek oddania dowodu rejestracyjnego i tablic (tablicy) rejestracyjnych nie dotyczy zarejestrowanego pojazdu, o którym mowa w art. 72 ust. 2 pkt 3 ustawy.
+
+5. W przypadku zgłoszenia do pierwszej rejestracji na terytorium Rzeczypospolitej Polskiej nowego pojazdu do wniosku o rejestrację właściciel pojazdu dołącza jeden z dokumentów, o których mowa w art. 72 ust. 1 pkt 3 ustawy.
+
+6. Jeżeli jest wymagane badanie techniczne pojazdu, do wniosku o rejestrację właściciel pojazdu dołącza dokument, o którym mowa w art. 72 ust. 1 pkt 4 ustawy.
+
+7. W przypadku zgłoszenia do pierwszej rejestracji pojazdu zabytkowego właściciel pojazdu dołącza do wniosku o rejestrację:
+
+- **1)** uwierzytelnioną kopię decyzji w sprawie wpisania pojazdu do rejestru zabytków lub dokument potwierdzający ujęcie pojazdu w wojewódzkiej ewidencji zabytków albo potwierdzający wpisanie pojazdu do inwentarza muzealiów, zgodnie z odrębnymi przepisami;
+- **2)** zaświadczenie o przeprowadzonym badaniu co do zgodności z warunkami technicznymi pojazdu zabytkowego oraz protokół oceny stanu technicznego pojazdu zabytkowego, o których mowa w przepisach wydanych na podstawie art. 81 ust. 16 ustawy.
+
+8. W przypadku zgłoszenia do pierwszej rejestracji pojazdu, którego markę określa się jako „SAM”, do wniosku o rejestrację właściciel pojazdu dołącza oświadczenie, że jest właścicielem zespołów i części służących do zbudowania tego pojazdu, oraz dopuszczenie jednostkowe pojazdu, uznanie dopuszczenia jednostkowego pojazdu, krajowe indywidualne dopuszczenie pojazdu albo uznanie krajowego indywidualnego dopuszczenia pojazdu, o których mowa w art. 72 ust. 1 pkt 3 ustawy. Przepisy ust. 9 oraz § 3 ust. 1 stosuje się odpowiednio.
+
+9. W przypadku zgłoszenia do rejestracji pojazdu, który nie posiada nadanych i umieszczonych fabrycznie przez producenta lub w trybie określonym przepisami odrębnymi cech identyfikacyjnych lub nie posiada tabliczki znamionowej, do wniosku o rejestrację właściciel pojazdu dołącza zaświadczenia, o których mowa w § 35 ust. 1 lub § 36 ust. 2.
+
+10. Przed wydaniem dowodu rejestracyjnego organ rejestrujący, korzystając z uprawnienia, o którym mowa w przepisach ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2023 r. poz. 1355 oraz z 2024 r. poz. 1688), może skierować zapytanie o dane SIS do centralnego organu technicznego Krajowego Systemu Informatycznego (KSI) na wypełnionej karcie zapytania, której wzór został określony zgodnie z przepisami wydanymi na podstawie art. 22 ust. 3 tej ustawy.
+
+11. W przypadku rejestracji pojazdu wyrejestrowanego, o którym mowa w art. 79 ust. 4 pkt 3 ustawy, do wniosku o rejestrację właściciel pojazdu dołącza opinię rzeczoznawcy samochodowego, o którym mowa w art. 79a ustawy.
+
+12. W przypadku powtórnej rejestracji pojazdu, o której mowa w art. 17 ust. 5 ustawy z dnia 7 lipca 2023 r. o zmianie niektórych ustaw w celu ograniczania niektórych skutków kradzieży tożsamości (Dz. U. poz. 1394), do wniosku o rejestrację właściciel pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 1, 4 i 5 ustawy.
+
+**§ 3.**
+
+1. W przypadku zgłoszenia do:
+
+- **1)** pierwszej rejestracji na terytorium Rzeczypospolitej Polskiej pojazdu sprowadzonego z zagranicy do wniosku o rejestrację właściciel pojazdu dołącza odpowiednie dokumenty, o których mowa w art. 72 ust. 1 pkt 1–6a ustawy;
+- **2)** powtórnej rejestracji na terytorium Rzeczypospolitej Polskiej pojazdu sprowadzonego z zagranicy do wniosku o rejestrację właściciel pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 1, 4 i 5 ustawy.
+
+2. W przypadku, o którym mowa w art. 73 ust. 5 ustawy, do wniosku o rejestrację dotyczącego:
+
+- **1)** pierwszej rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej właściciel pojazdu dołącza odpowiednie dokumenty, o których mowa w art. 72 ust. 1 pkt 1–6a ustawy;
+- **2)** powtórnej rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej właściciel pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 1, 4 i 5 ustawy.
+
+3. Dokument, o którym mowa w art. 72 ust. 1 pkt 6 ustawy, może być przekazany organowi rejestrującemu przez organ celny w postaci elektronicznej – z systemu teleinformatycznego organu celnego, za pośrednictwem usługi sieciowej, do systemu teleinformatycznego rejestracji – zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557) w sposób zapewniający integralność, autentyczność i niezaprzeczalność przekazywanych danych.
+
+4. Dokument, o którym mowa w art. 72 ust. 1 pkt 6a ustawy, może być przekazany organowi rejestrującemu przez organ właściwy w sprawach akcyzy w postaci elektronicznej – z systemu teleinformatycznego organu właściwego w sprawach akcyzy, za pośrednictwem usługi sieciowej, do systemu teleinformatycznego rejestracji – zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne w sposób zapewniający integralność, autentyczność i niezaprzeczalność przekazywanych danych.
+
+5. W przypadku nieprzekazania przez organ celny organowi rejestrującemu dokumentu, o którym mowa w art. 72 ust. 1 pkt 6 ustawy, w postaci elektronicznej właściciel pojazdu dołącza ten dokument do wniosku o rejestrację.
+
+6. W przypadku nieprzekazania przez organ właściwy w sprawach akcyzy organowi rejestrującemu dokumentu, o którym mowa w art. 72 ust. 1 pkt 6a ustawy, w postaci elektronicznej właściciel pojazdu dołącza ten dokument do wniosku o rejestrację.
+
+7. W przypadku gdy dowód rejestracyjny, o którym mowa w art. 72 ust. 1 pkt 5 ustawy, składa się z części I i części II, do wniosku o rejestrację właściciel pojazdu dołącza obie części dowodu rejestracyjnego.
+
+8. W przypadku gdy do wniosku o rejestrację pojazdu sprowadzonego z państwa członkowskiego wnioskujący o rejestrację pojazdu nie dołączył części II dowodu rejestracyjnego, o którym mowa w ust. 7, w szczególności w przypadku jej utraty albo zniszczenia, organ rejestrujący uznaje część I dowodu rejestracyjnego za wystarczającą do zarejestrowania pojazdu po zwróceniu się do organu właściwego do rejestracji pojazdu w państwie członkowskim, w którym pojazd był zarejestrowany, i otrzymaniu z tego organu potwierdzenia w postaci papierowej albo elektronicznej, że pojazd był zarejestrowany w tym państwie i może być ponownie zarejestrowany w innym państwie członkowskim.
+
+9. W przypadku zgłoszenia do rejestracji na terytorium Rzeczypospolitej Polskiej pojazdu sprowadzonego z zagranicy i zgłoszenia zniszczenia dowodu rejestracyjnego w stopniu powodującym jego nieczytelność przepisy art. 72 ust. 5 ustawy stosuje się odpowiednio.
+
+10. W przypadku, o którym mowa w art. 72 ust. 5 ustawy, organ rejestrujący, zgodnie z § 2 ust. 10, może skierować do centralnego organu technicznego Krajowego Systemu Informatycznego (KSI) zapytanie dotyczące utraconego dowodu rejestracyjnego. Zapytanie może być skierowane również w przypadku utraty części I tego dokumentu w celu sprawdzenia danych SIS.
+
+**§ 4.**
+
+1. Dowodem własności pojazdu lub jego pojedynczych zespołów jest w szczególności jeden z następujących dokumentów:
+
+- **1)** umowa sprzedaży;
+- **2)** umowa zamiany;
+- **3)** umowa darowizny;
+- **4)** umowa o dział spadku;
+- **5)** umowa o zniesienie współwłasności;
+- **6)** faktura potwierdzająca nabycie pojazdu;
+- **7)** prawomocne orzeczenie sądu rozstrzygające o prawie własności;
+- **8)** prawomocne postanowienie sądu o stwierdzeniu nabycia spadku albo zarejestrowany akt poświadczenia dziedziczenia.
+
+2. W przypadku gdy dane odnoszące się do zbywcy pojazdu zawarte w dowodzie własności pojazdu dołączonym do wniosku o rejestrację są niezgodne z danymi właściciela pojazdu zawartymi w dowodzie rejestracyjnym, dowodem własności są wszystkie dokumenty potwierdzające fakt przeniesienia prawa własności pojazdu.
+
+3. Dopuszcza się przedłożenie kopii dowodów własności pojazdu, o których mowa w ust. 1 i 2, poświadczonych przez notariusza za zgodność z okazanym dokumentem.
+
+4. Jeżeli zbywcą pojazdu w przypadku, o którym mowa w ust. 2, jest przedsiębiorca prowadzący działalność gospodarczą na terytorium Rzeczypospolitej Polskiej w zakresie obrotu pojazdami, dopuszcza się, aby w oryginale albo kopii dowodu własności pojazdu potwierdzającego nabycie prawa własności przez tego zbywcę, przed poświadczeniem przez notariusza za zgodność kopii z okazanym dokumentem, o którym mowa w ust. 3, informacja o cenie pojazdu została przekreślona w sposób uniemożliwiający odczytanie tej ceny.
+
+5. Przepisów ust. 2 i 3 nie stosuje się do pojazdów sprowadzonych z zagranicy, o których mowa w § 3 ust. 1, w przypadku gdy:
+
+- **1)** przeniesienie prawa własności pojazdu nastąpiło za granicą;
+- **2)** zbywcą pojazdu zgłoszonego do pierwszej rejestracji jest przedsiębiorca prowadzący na terytorium Rzeczypospolitej Polskiej działalność gospodarczą w zakresie obrotu pojazdami, który sprowadził ten pojazd z zagranicy.
+
+6. W przypadku pojazdu niebędącego pojazdem nowym sprowadzonego z terytorium państwa członkowskiego Unii Europejskiej, właściciel pojazdu, który sprowadził ten pojazd z terytorium państwa członkowskiego Unii Europejskiej i dokonuje jego zbycia po sprowadzeniu na terytorium Rzeczypospolitej Polskiej przed pierwszą rejestracją pojazdu na terytorium Rzeczypospolitej Polskiej:
+
+- **1)** w dowodzie własności pojazdu wystawionym nabywcy dokonuje adnotacji potwierdzającej datę sprowadzenia pojazdu z terytorium państwa członkowskiego Unii Europejskiej albo
+- **2)** dołącza do dowodu własności pojazdu wystawionego nabywcy oświadczenie o dacie sprowadzenia pojazdu z terytorium państwa członkowskiego Unii Europejskiej.
+
+**§ 5.**
+
+1. Dokumenty sporządzone w języku obcym właściciel pojazdu dołącza do wniosku o rejestrację, czasową rejestrację, wyrejestrowanie pojazdu lub zawiadomienia o zbyciu pojazdu, wraz z ich tłumaczeniem na język polski dokonanym przez tłumacza przysięgłego albo właściwego konsula, albo przez tłumacza przysięgłego państwa, z którego pojazd został sprowadzony albo w którym został zbyty.
+
+2. Właściciel pojazdu nie ma obowiązku przedłożenia tłumaczenia:
+
+- **1)** dowodu rejestracyjnego wydanego przez właściwy organ państwa członkowskiego, z tym że organ rejestrujący może w przypadku wątpliwości wymagać tłumaczenia danych i informacji krajowych zawartych w tym dokumencie, których kody nie zostały określone w załączniku I do dyrektywy Rady 1999/37/WE z dnia 29 kwietnia 1999 r. w sprawie dokumentów rejestracyjnych pojazdów (Dz. Urz. WE L 138 z 01.06.1999, str. 57, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 4, str. 351);
+- **2)** świadectwa zgodności WE albo świadectwa zgodności, albo świadectwa dopuszczenia indywidualnego WE pojazdu, albo świadectwa unijnego indywidualnego dopuszczenia pojazdu;
+- **3)** dokumentu, o którym mowa w art. 79 ust. 1 pkt 1 i 6 ustawy, wydanego w innym państwie członkowskim, jeżeli organ rejestrujący posiada tłumaczenie analogicznego dokumentu z tego państwa.
+
+**§ 6.**
+
+1. Podczas rejestracji pojazdu, z zastrzeżeniem § 17 ust. 2, organ rejestrujący wydaje:
+
+- **1)** dowód rejestracyjny;
+- **2)** zalegalizowane tablice (tablicę) rejestracyjne, z wyjątkiem przypadku, o którym mowa w § 7 ust. 1.
+
+2. Wzór i opis dowodu rejestracyjnego oraz oznaczenia kodów zastosowanych w tym wzorze są określone w załączniku nr 3 do rozporządzenia.
+
+**§ 7.**
+
+1. W przypadku pojazdu, którego właściciel wnioskuje o zachowanie dotychczasowego numeru rejestracyjnego, zgodnie z art. 73 ust. 1a ustawy, organ rejestrujący dokonuje jedynie legalizacji dotychczasowych tablic (tablicy) rejestracyjnych.
+
+2. W przypadku pojazdu, o którym mowa w ust. 1, będącego pojazdem elektrycznym albo pojazdem napędzanym wodorem, albo motorowerem wyposażonym w silnik elektryczny, nieposiadającego tablic (tablicy) rejestracyjnych zgodnych z § 27 ust. 2 pkt 2 albo ust. 3 pkt 2, albo ust. 4 pkt 2, albo ust. 5 pkt 2, organ rejestrujący wydaje zalegalizowane tablice (tablicę) rejestracyjne, o których mowa w § 27 ust. 2 pkt 2 albo ust. 3 pkt 2, albo ust. 4 pkt 2, albo ust. 5 pkt 2, z zachowaniem dotychczasowego numeru rejestracyjnego.
+
+3. Organ rejestrujący, na wniosek właściciela pojazdu, zamiast zalegalizowanych tablic (tablicy) rejestracyjnych zwyczajnych wydaje zalegalizowane tablice (tablicę) rejestracyjne indywidualne, o których mowa w § 32 ust. 1.
+
+4. W przypadku, o którym mowa w ust. 1, i jednoczesnym zwrocie przez właściciela dodatkowej tablicy rejestracyjnej, o której mowa w § 8, organ rejestrujący na wniosek właściciela pojazdu legalizuje jedynie zwróconą dodatkową tablicę rejestracyjną i wydaje ją temu właścicielowi.
+
+**§ 8.** W przypadku, o którym mowa w art. 73 ust. 1c pkt 2 ustawy, właściciel pojazdu składa wniosek o wydanie dodatkowej zalegalizowanej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną dla pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej. Wzór wniosku jest określony w załączniku nr 4 do rozporządzenia. Właściciel pojazdu odbierając tę tablicę, przedstawia dowód rejestracyjny w celu umieszczenia w nim przez organ rejestrujący dodatkowego znaku legalizacyjnego oraz adnotacji, o których mowa w przepisach wydanych na podstawie art. 75c pkt 2 ustawy.
+
+**§ 9.**
+
+1. Organ rejestrujący na wniosek właściciela pojazdu wydaje zaświadczenie potwierdzające dane zawarte w utraconym dowodzie rejestracyjnym pojazdu, o którym mowa w art. 72 ust. 6 ustawy. Wzór zaświadczenia jest określony w załączniku nr 5 do rozporządzenia.
+
+2. Organ rejestrujący wydaje decyzję o rejestracji pojazdu:
+
+- **1)** na formularzu, którego wzór jest określony w załączniku nr 6 do rozporządzenia;
+- **2)** o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 7 do rozporządzenia.
+
+**§ 10.** Jeżeli w dokumentach dołączonych do wniosku o rejestrację są zawarte zastrzeżenia wynikające z prawa celnego, organ rejestrujący jest obowiązany zamieścić te zastrzeżenia w dowodzie rejestracyjnym i pozwoleniu czasowym.
+
+**§ 11.** W przypadku wydawania na podstawie art. 74a ust. 2 ustawy wtórnika dowodu rejestracyjnego, jeżeli w centralnej ewidencji pojazdów brak jest informacji o terminie następnego badania technicznego pojazdu, organ rejestrujący wydaje wtórnik dowodu rejestracyjnego po przedstawieniu przez właściciela pojazdu zaświadczenia o pozytywnym wyniku ważnego badania technicznego pojazdu.
+
+**§ 12.**
+
+1. Właściciel pojazdu, który złożył wniosek, o którym mowa w art. 74a ust. 11 ustawy, otrzymuje nową decyzję o rejestracji pojazdu, zalegalizowane tablice (tablicę) rejestracyjne z nowym numerem rejestracyjnym i nowy dowód rejestracyjny pojazdu po oddaniu dotychczasowego dowodu rejestracyjnego i tablic (tablicy) rejestracyjnych pojazdu.
+
+2. Właściciel pojazdu, który złożył wniosek o wydanie wtórnika dodatkowej zalegalizowanej tablicy rejestracyjnej, o którym mowa w art. 74a ust. 12 ustawy, przedstawia przy odbiorze tego wtórnika dowód rejestracyjny w celu umieszczenia w nim przez organ rejestrujący adnotacji, o których mowa w przepisach wydanych na podstawie art. 75c pkt 2 ustawy.
+
+**§ 13.** Wzory wniosków o wydanie wtórnika dowodu rejestracyjnego, wtórnika pozwolenia czasowego, wtórnika tablic (tablicy) rejestracyjnych, nowego dowodu rejestracyjnego lub tablic (tablicy) rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu są określone w załączniku nr 8 do rozporządzenia.
+
+**§ 14.** Jeżeli pojazd jest przedmiotem współwłasności, każdy ze współwłaścicieli po przedłożeniu pełnomocnictwa albo oświadczenia, że działa za zgodą większości współwłaścicieli może złożyć wnioski, o których mowa w art. 73 ust. 1b i art. 74a ust. 1–5, 8, 9 i 12 ustawy, albo dokonać zwrotu, o którym mowa w art. 74a ust. 13 ustawy.
+
+**§ 15.**
+
+1. W przypadku zawiadomienia o zbyciu pojazdu zarejestrowanego dotychczasowy właściciel pojazdu dołącza do zawiadomienia kopię dokumentu, na podstawie którego nastąpiło zbycie pojazdu.
+
+2. W przypadku zbycia pojazdu, o którym mowa w art. 73 ust. 4 ustawy, zbywca pojazdu zwraca wojewodzie mazowieckiemu tablice rejestracyjne dyplomatyczne, którymi był oznaczony pojazd. Wojewoda wydaje zbywcy pojazdu zaświadczenie potwierdzające dokonanie zwrotu tych tablic, które zastępuje tablice rejestracyjne, o których mowa w § 2 ust. 1 pkt 4. Wydane zaświadczenie zbywca pojazdu przekazuje nabywcy pojazdu.
+
+**§ 16.**
+
+1. W przypadku zawiadomienia o zmianie stanu faktycznego, która wymaga zmiany danych zamieszczonych w dowodzie rejestracyjnym wynikającej:
+
+- **1)** ze zmiany adresu miejsca zamieszkania właściciela pojazdu, która powoduje zmianę właściwości miejscowej organu rejestrującego, organ rejestrujący na wniosek właściciela pojazdu dokonuje rejestracji pojazdu;
+- **2)** ze zmiany adresu miejsca zamieszkania właściciela pojazdu, która nie powoduje zmiany właściwości miejscowej organu rejestrującego, organ rejestrujący wydaje nowy dowód rejestracyjny oraz potwierdza legalizację tablic (tablicy) rejestracyjnych zgodnie z przepisami wydanymi na podstawie art. 75c pkt 2 ustawy;
+- **3)** z wymiany podwozia lub ramy w pojeździe zarejestrowanym, do zawiadomienia dołącza się:
+    - **a)** dowód własności podwozia lub ramy,
+    - **b)** dowód odprawy celnej przywozowej, jeżeli podwozie lub rama zostały sprowadzone z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej,
+    - **c)** dowód rejestracyjny pojazdu lub zaświadczenie wystawione przez organ rejestrujący właściwy ze względu na miejsce rejestracji pojazdu, z którego pochodzą podwozie lub rama, jeżeli to podwozie lub rama pochodzą z pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej;
+
+- **4)** z wprowadzenia w pojeździe zarejestrowanym zmian konstrukcyjnych zmieniających rodzaj pojazdu, do zawiadomienia dołącza się:
+    - **a)** dokument potwierdzający, że dokonane zmiany konstrukcyjne zmieniające rodzaj pojazdu zostały wykonane przez przedsiębiorcę, o którym mowa w art. 66 ust. 4 pkt 6 lit. b ustawy,
+    - **b)** zaświadczenie o pozytywnym wyniku badania technicznego pojazdu potwierdzające, że dokonane zmiany są zgodne z przepisami wydanymi na podstawie art. 66 ust. 5 ustawy,
+    - **c)** dokument potwierdzający zapłatę akcyzy na terytorium kraju albo dokument potwierdzający brak obowiązku zapłaty akcyzy na terytorium kraju, albo zaświadczenie stwierdzające zwolnienie od akcyzy, w rozumieniu przepisów o podatku akcyzowym, w przypadku zmiany rodzaju pojazdu na samochód osobowy, pojazd rodzaju „samochodowy inny” podrodzaj „czterokołowiec” (kategoria homologacyjna L7e) lub podrodzaj „czterokołowiec lekki” (kategoria homologacyjna L6e), samochód ciężarowy (kategoria homologacyjna N1) podrodzaj „furgon”, „furgon/podest”, „ciężarowo-osobowy”, „terenowy”, „wielozadaniowy” lub „van” lub samochód specjalny (kategoria homologacyjna M1 i N1).
+
+2. W przypadku dokumentu, o którym mowa w ust. 1 pkt 4 lit. c, przepisy § 3 ust. 4 i 6 stosuje się odpowiednio.
+
+3. W przypadku zawiadomienia o zmianie stanu faktycznego, która wymaga zmiany danych zamieszczonych w dowodzie rejestracyjnym, przepisy § 2–5 stosuje się odpowiednio.
+
+4. W przypadku zawiadomienia o zmianie danych pojazdu zamieszczonych w dowodzie rejestracyjnym, która zaistniała w wyniku wprowadzenia zmian konstrukcyjnych lub wymiany elementów, pojazd podlega badaniu technicznemu. Zaświadczenie o pozytywnym wyniku tego badania potwierdzające, że dokonane zmiany są zgodne z przepisami wydanymi na podstawie art. 66 ust. 5 i 5a ustawy, jest podstawą do wydania dowodu rejestracyjnego z nowymi danymi pojazdu.
+
+5. W przypadku zawiadomienia o dokonaniu montażu dodatkowej instalacji zasilania gazem pojazdu do zawiadomienia dołącza się:
+
+- **1)** wyciąg ze świadectwa homologacji:
+    - **a)** sposobu montażu instalacji przystosowującej dany typ pojazdu do zasilania gazem, albo
+    - **b)** montażu dodatkowej instalacji R115;
+
+- **2)** fakturę albo rachunek za montaż tej instalacji;
+- **3)** dowód rejestracyjny.
+
+6. W przypadku pojazdu nowego, fabrycznie wyposażonego w instalację przystosowującą dany typ pojazdu do zasilania gazem, organ rejestrujący jako potwierdzenie tego wyposażenia uznaje dokument, o którym mowa w art. 72 ust. 1 pkt 3 ustawy, zawierający informację producenta o paliwie przeznaczonym do tego zasilania.
+
+7. W przypadku złożenia przez właściciela pojazdu wniosku o zmianę zawartych w dowodzie rejestracyjnym danych technicznych pojazdu dotyczących mas i nacisków osi, wynikającą ze zmiany właściwych, określonych w przepisach wydanych na podstawie art. 66 ust. 5 i 5a ustawy, warunków technicznych, do wniosku dołącza się:
+
+- **1)** dowód rejestracyjny;
+- **2)** oświadczenie wystawione przez producenta lub przedstawiciela producenta potwierdzające, że pojazd był homologowany zgodnie z wnioskowanymi danymi technicznymi.
 
 #### Rozdział 3 Czasowa rejestracja pojazdów
 
+**§ 17.**
+
+1. W celu czasowej rejestracji pojazdu właściciel pojazdu składa do organu rejestrującego wniosek o czasową rejestrację pojazdu na formularzu, którego wzór jest określony w załączniku nr 1 do rozporządzenia, a w przypadku pojazdu, o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 2 do rozporządzenia.
+
+2. W przypadku czasowej rejestracji pojazdu z urzędu, o której mowa w art. 74 ust. 2 pkt 1 ustawy, są wymagane odpowiednio dokumenty takie jak dla wniosku o rejestrację pojazdu, z uwzględnieniem art. 74 ust. 2a–2d ustawy.
+
+3. W przypadku czasowej rejestracji, o której mowa w art. 74 ust. 2 pkt 2 ustawy:
+
+- **1)** pojazdu wcześniej zarejestrowanego na terytorium Rzeczypospolitej Polskiej bez zmiany w zakresie właściwości organu rejestrującego i właściciela pojazdu, właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 5 ustawy; jeżeli dowód rejestracyjny nie potwierdza aktualnego terminu ważności badania technicznego pojazdu i nie można zweryfikować danych o przeprowadzonym badaniu technicznym w centralnej ewidencji pojazdów, do wniosku dołącza się dokument, o którym mowa w art. 72 ust. 1 pkt 4 ustawy;
+- **2)** pojazdu wcześniej zarejestrowanego na terytorium Rzeczypospolitej Polskiej, jeżeli nastąpiła zmiana właściciela pojazdu przed jego ponowną rejestracją, właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 1 i 5 ustawy;
+- **3)** pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza odpowiednio dokumenty, o których mowa w art. 72 ust. 1 pkt 1–4, 6 lub 6a ustawy.
+
+4. W przypadku czasowej rejestracji, o której mowa w art. 74 ust. 2ca ustawy:
+
+- **1)** pojazdu wcześniej zarejestrowanego na terytorium Rzeczypospolitej Polskiej bez zmiany w zakresie właściciela pojazdu, właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza dokument, o którym mowa w art. 72 ust. 1 pkt 5 ustawy, oraz zaświadczenie o przeprowadzonym badaniu, o którym mowa w art. 81 ust. 11b ustawy;
+- **2)** pojazdu wcześniej zarejestrowanego na terytorium Rzeczypospolitej Polskiej, jeżeli nastąpiła zmiana właściciela pojazdu, właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza dokumenty, o których mowa w art. 72 ust. 1 pkt 1 i 5 ustawy, oraz zaświadczenie o przeprowadzonym badaniu, o którym mowa w art. 81 ust. 11b ustawy;
+- **3)** pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza odpowiednio dokumenty, o których mowa w art. 72 ust. 1 pkt 1, 3, 5, 6 lub 6a ustawy, oraz zaświadczenie o przeprowadzonym badaniu, o którym mowa w art. 81 ust. 11b ustawy;
+- **4)** pojazdu wcześniej czasowo zarejestrowanego na podstawie art. 74 ust. 2ca właściciel pojazdu do wniosku o czasową rejestrację pojazdu dołącza pozwolenie czasowe oraz zaświadczenie o przeprowadzonym badaniu, o którym mowa w art. 81 ust. 11b ustawy.
+
+5. Jeżeli czasowa rejestracja pojazdu jest dokonywana:
+
+- **1)** w celu, o którym mowa w art. 74 ust. 2 pkt 2 lit. a ustawy, właściciel pojazdu zwraca organowi rejestrującemu tablice (tablicę) rejestracyjne pojazdu wcześniej zarejestrowanego;
+- **2)** w związku z koniecznością przeprowadzenia badania technicznego pojazdu, o którym mowa w art. 74 ust. 2 pkt 2 lit. c ustawy, właściciel pojazdu nie ma obowiązku przedłożenia dokumentu, o którym mowa w art. 72 ust. 1 pkt 4 ustawy.
+
+**§ 18.**
+
+1. Organ rejestrujący wydaje decyzję o czasowej rejestracji pojazdu:
+
+- **1)** na formularzu, którego wzór jest określony w załączniku nr 6 do rozporządzenia;
+- **2)** o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 7 do rozporządzenia.
+
+2. W przypadku czasowej rejestracji pojazdu, o której mowa w art. 74 ust. 2 pkt 1 ustawy, organ rejestrujący wydaje:
+
+- **1)** pozwolenie czasowe;
+- **2)** zalegalizowane tablice (tablicę) rejestracyjne.
+
+3. W przypadku czasowej rejestracji pojazdu, o której mowa w art. 74 ust. 2 pkt 1 ustawy, gdy nie zostały spełnione warunki, o których mowa w art. 74 ust. 2d ustawy, organ rejestrujący:
+
+- **1)** wydaje pozwolenie czasowe;
+- **2)** legalizuje dotychczasowe tablice (tablicę) rejestracyjne.
+
+4. W przypadku czasowej rejestracji pojazdu, o której mowa w art. 74 ust. 2 pkt 2 ustawy, organ rejestrujący wydaje:
+
+- **1)** pozwolenie czasowe;
+- **2)** zalegalizowane tymczasowe tablice (tablicę) rejestracyjne.
+
+5. W przypadku czasowej rejestracji pojazdu, o której mowa w art. 74 ust. 2ca ustawy, organ rejestrujący wydaje:
+
+- **1)** pozwolenie czasowe;
+- **2)** zalegalizowane tymczasowe tablice rejestracyjne.
+
+6. Wzór i opis pozwolenia czasowego oraz oznaczenia kodów zastosowanych w tym wzorze są określone w załączniku nr 9 do rozporządzenia.
+
 #### Rozdział 4 Wyrejestrowanie pojazdów
+
+**§ 19.**
+
+1. W celu wyrejestrowania pojazdu właściciel pojazdu składa do organu rejestrującego właściwego ze względu na miejsce ostatniej rejestracji pojazdu wniosek o wyrejestrowanie pojazdu na formularzu, którego wzór jest określony w załączniku nr 1 do rozporządzenia, a w przypadku pojazdu, o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 2 do rozporządzenia, do którego dołącza:
+
+- **1)** w przypadku określonym w art. 79 ust. 1 pkt 1 ustawy – dokument, o którym mowa w tym przepisie, dowód rejestracyjny oraz tablice (tablicę) rejestracyjne;
+- **2)** w przypadku określonym w art. 79 ust. 1 pkt 2 ustawy – dowód rejestracyjny i oświadczenie złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań;
+- **3)** w przypadku określonym w art. 79 ust. 1 pkt 3 ustawy – dokument potwierdzający zbycie pojazdu za granicę i oświadczenie o zbyciu pojazdu za granicę lub kopię dokumentu potwierdzającego zarejestrowanie pojazdu za granicą;
+- **4)** w przypadku określonym w art. 79 ust. 1 pkt 4 ustawy – dokument potwierdzający zniszczenie (kasację) pojazdu za granicą, dowód rejestracyjny oraz tablice (tablicę) rejestracyjne;
+- **5)** w przypadku określonym w art. 79 ust. 1 pkt 5 ustawy – dokument potwierdzający trwałą i zupełną utratę posiadania pojazdu, dowód rejestracyjny, tablice (tablicę) rejestracyjne oraz dokument potwierdzający wniesienie opłaty, o której mowa w art. 79 ust. 5 ustawy;
+- **6)** w przypadku określonym w art. 79 ust. 1 pkt 6 ustawy – dokument, o którym mowa w tym przepisie, dowód rejestracyjny oraz tablice (tablicę) rejestracyjne;
+- **7)** w przypadku określonym w art. 79 ust. 1 pkt 7 ustawy – dokument potwierdzający wycofanie pojazdu z obrotu.
+
+2. W celu wyrejestrowania pojazdu czasowo wycofanego z ruchu właściciel pojazdu do wniosku o jego wyrejestrowanie dołącza decyzję o czasowym wycofaniu pojazdu z ruchu, o której mowa w art. 78a ust. 1 ustawy, zamiast dowodu rejestracyjnego.
+
+3. W przypadku określonym w art. 79 ust. 3a ustawy organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu, jeżeli pojazd nie został wcześniej wyrejestrowany.
+
+4. W przypadku utraty dowodu rejestracyjnego lub tablic (tablicy) rejestracyjnych właściciel pojazdu składa oświadczenie o ich utracie.
+
+5. W przypadku nieprzedłożenia przez właściciela pojazdu dokumentu, o którym mowa w ust. 1 pkt 1 albo 6, organ rejestrujący, po upływie 30 dni od dnia otrzymania zaświadczenia od przedsiębiorcy prowadzącego stację demontażu, dokonuje wyrejestrowania pojazdu z urzędu.
+
+6. W przypadku złożenia wniosku o wyrejestrowanie pojazdu właściciel pojazdu dokonuje także zwrotu dodatkowej zalegalizowanej tablicy rejestracyjnej, o której mowa w § 8, albo jej wtórnika, chyba że dokonał wcześniej ich zwrotu, albo składa oświadczenie o ich utracie.
+
+7. Organ rejestrujący wydaje decyzję o wyrejestrowaniu pojazdu:
+
+- **1)** na formularzu, którego wzór jest określony w załączniku nr 6 do rozporządzenia;
+- **2)** o którym mowa w art. 73 ust. 2a ustawy, na formularzu, którego wzór jest określony w załączniku nr 7 do rozporządzenia;
+- **3)** z urzędu na formularzu, którego wzór jest określony w załączniku nr 10 do rozporządzenia;
+- **4)** o którym mowa w art. 73 ust. 2a ustawy, z urzędu na formularzu, którego wzór jest określony w załączniku nr 11 do rozporządzenia.
 
 #### Rozdział 5 Rejestracja, czasowa rejestracja i wyrejestrowanie pojazdów za pomocą środków komunikacji elektronicznej
 
+**§ 20.** Organ rejestrujący obsługuje wnioski w sprawie rejestracji, czasowej rejestracji albo wyrejestrowania pojazdu wnoszone za pomocą środków komunikacji elektronicznej z zachowaniem warunków określonych w ustawie z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+
+**§ 21.** Organ rejestrujący, obsługując wnioski, o których mowa w § 20, udostępnia:
+
+- **1)** elektroniczną skrzynkę podawczą;
+- **2)** informacje o:
+    - **a)** wymaganych dokumentach dołączanych do wniosków,
+    - **b)** podstawach prawnych i wymaganych opłatach związanych z wnioskami,
+    - **c)** numerze konta, na które mogą być wnoszone wymagane przepisami opłaty związane z wnioskami,
+    - **d)** formacie i wymaganej jakości zapewniającej odpowiednią czytelność elektronicznych kopii dokumentów dołączanych do wniosków.
+
+**§ 22.** Oprogramowanie elektronicznej skrzynki podawczej lub systemu teleinformatycznego rejestracji może zapewnić przekazywanie danych zawartych we wniosku składanym za pomocą środków komunikacji elektronicznej do systemu teleinformatycznego rejestracji.
+
+**§ 23.** Do wniosku składanego za pomocą środków komunikacji elektronicznej właściciel pojazdu dołącza, zgodnie z informacją podaną przez organ rejestrujący:
+
+- **1)** dokumenty wymagane przepisami ustawy i niniejszego rozporządzenia albo ich elektroniczne kopie;
+- **2)** zdjęcia tablic (tablicy) rejestracyjnych;
+- **3)** potwierdzenie elektroniczne dokonania przelewu wymaganych opłat albo elektroniczną kopię dowodu wpłaty tych opłat.
+
+**§ 24.** W przypadku upoważnienia, o którym mowa w art. 73c ust. 1 pkt 1 ustawy, salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów w imieniu właściciela pojazdu składa wniosek o rejestrację pojazdu na formularzu, o którym mowa w art. 73c ust. 3 ustawy, wraz z wymaganymi dokumentami, o których mowa w art. 73c ust. 6 ustawy.
+
 #### Rozdział 6 Tablice rejestracyjne
+
+**§ 25.** Do oznaczania pojazdów stosuje się następujące wzory tablic rejestracyjnych:
+
+- **1)** zwyczajne – do oznaczania wszystkich pojazdów, z zastrzeżeniem pkt 2–5;
+- **2)** indywidualne – do oznaczania pojazdów samochodowych;
+- **3)** zabytkowe – do oznaczania pojazdów zabytkowych;
+- **4)** tymczasowe – do oznaczania pojazdów czasowo zarejestrowanych;
+- **5)** dyplomatyczne – do oznaczania pojazdów należących do przedstawicielstw dyplomatycznych, urzędów konsularnych i misji specjalnych państw obcych oraz organizacji międzynarodowych, a także ich personelu.
+
+**§ 26.**
+
+1. Tablice rejestracyjne ze względu na rozmiary dzielą się na:
+
+- **1)** samochodowe:
+    - **a)** jednorzędowe i dwurzędowe – do oznaczania wszystkich rodzajów pojazdów, z wyjątkiem motocykli, ciągników rolniczych, motorowerów i pojazdów rodzaju „samochodowy inny” (kategorii L6e i L7e),
+    - **b)** jednorzędowe zmniejszone – do oznaczania pojazdów silnikowych posiadających zmniejszone wymiary miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej, z wyłączeniem motocykli, ciągników rolniczych, pojazdów wolnobieżnych wchodzących w skład kolejki turystycznej i pojazdów rodzaju „samochodowy inny”;
+
+- **2)** motocyklowe (dwurzędowe) – do oznaczania motocykli, ciągników rolniczych oraz pojazdów rodzaju „samochodowy inny” (kategorii L6e i L7e);
+- **3)** motorowerowe (dwurzędowe) – do oznaczania motorowerów.
+
+2. W przypadku ciągnika rolniczego mogą być stosowane tablice rejestracyjne samochodowe, jeżeli ciągnik rolniczy posiada odpowiadające takiej tablicy miejsce konstrukcyjnie przeznaczone do jej umieszczenia.
+
+3. W przypadku pojazdu wchodzącego w skład kolejki turystycznej, w zależności od miejsca konstrukcyjnie przeznaczonego do umieszczenia tablic rejestracyjnych, mogą być stosowane, ze względu na rozmiar, tablice rejestracyjne samochodowe lub motocyklowe.
+
+4. W przypadku pojazdu rodzaju „samochodowy inny” będącego pojazdem trzykołowym lub czterokołowym wyposażonym w nadwozie mogą być stosowane tablice rejestracyjne samochodowe, jeżeli pojazd ten posiada odpowiadające tym tablicom miejsce konstrukcyjnie przeznaczone do ich umieszczenia.
+
+5. Do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną stosuje się dodatkową tablicę rejestracyjną, o której mowa w art. 73 ust. 1b ustawy, jednorzędową albo dwurzędową, albo jednorzędową zmniejszoną umieszczoną na bagażniku w miejscu konstrukcyjnie do tego przeznaczonym.
+
+**§ 27.**
+
+1. Każdemu pojazdowi przypisuje się jeden numer rejestracyjny, o którym mowa w art. 73 ust. 1d ustawy.
+
+2. Na tablicy rejestracyjnej zwyczajnej będącej tablicą rejestracyjną samochodową albo tablicą rejestracyjną motocyklową jest wytłoczony numer rejestracyjny:
+
+- **1)** barwy czarnej na białym tle albo
+- **2)** barwy czarnej na zielonym tle w przypadku tablicy rejestracyjnej wydawanej dla pojazdu elektrycznego albo pojazdu napędzanego wodorem – składający się z wyróżnika województwa, wyróżnika powiatu i wyróżnika pojazdu.
+
+3. Na tablicy rejestracyjnej zwyczajnej będącej tablicą rejestracyjną samochodową jednorzędową zmniejszoną jest wytłoczony numer rejestracyjny:
+
+- **1)** barwy czarnej na białym tle albo
+- **2)** barwy czarnej na zielonym tle w przypadku tablicy rejestracyjnej wydawanej dla pojazdu elektrycznego albo pojazdu napędzanego wodorem – składający się z wyróżnika województwa i wyróżnika pojazdu.
+
+4. Na tablicy rejestracyjnej indywidualnej jest wytłoczony numer rejestracyjny:
+
+- **1)** barwy czarnej na białym tle albo
+- **2)** barwy czarnej na zielonym tle w przypadku tablicy rejestracyjnej wydawanej dla pojazdu elektrycznego albo pojazdu napędzanego wodorem – składający się z wyróżnika województwa i indywidualnego wyróżnika pojazdu.
+
+5. Na tablicy rejestracyjnej motorowerowej jest wytłoczony numer rejestracyjny:
+
+- **1)** barwy czarnej na białym tle albo
+- **2)** barwy czarnej na zielonym tle w przypadku tablicy rejestracyjnej wydawanej dla motoroweru wyposażonego w silnik elektryczny – składający się z wyróżnika województwa i wyróżnika pojazdu.
+
+6. Na tablicy rejestracyjnej zabytkowej jest wytłoczony numer rejestracyjny barwy czarnej na żółtym tle, składający się z wyróżnika województwa, wyróżnika powiatu i wyróżnika pojazdu, oraz symbol pojazdu zabytkowego barwy czarnej.
+
+7. Na tablicy rejestracyjnej zabytkowej jednorzędowej zmniejszonej jest wytłoczony numer rejestracyjny barwy czarnej na żółtym tle oraz naniesiona techniką laserową grafika symbolu przedstawionego na rysunku 3 w załączniku nr 12 do rozporządzenia.
+
+8. Na tablicy rejestracyjnej motorowerowej zabytkowej jest wytłoczony numer rejestracyjny barwy czarnej na żółtym tle oraz naniesiona techniką laserową grafika symbolu przedstawionego na rysunku 4 w załączniku nr 12 do rozporządzenia.
+
+9. Na tablicy rejestracyjnej tymczasowej jest wytłoczony numer rejestracyjny składający się z wyróżnika województwa oraz wyróżnika pojazdu:
+
+- **1)** barwy czerwonej na białym tle albo
+- **2)** barwy czerwonej na żółtym tle w przypadku tablicy rejestracyjnej wydawanej dla samochodu osobowego przeznaczonego do zawodów sportowych.
+
+10. Na tablicy rejestracyjnej dyplomatycznej jest wytłoczony numer rejestracyjny barwy białej na niebieskim tle składający się z wyróżnika województwa i wyróżnika pojazdu.
+
+**§ 28.**
+
+1. W skrajnej lewej części tablicy rejestracyjnej umieszcza się dodatkowo na niebieskim tle symbol Unii Europejskiej składający się z 12 pięcioramiennych gwiazdek barwy żółtej ułożonych na obwodzie okręgu oraz znak z literami „PL” barwy białej. Wymóg ten nie dotyczy tablic (tablicy) rejestracyjnych dyplomatycznych.
+
+2. Na tablicach (tablicy) rejestracyjnych w miejscu do tego przeznaczonym znajduje się znak legalizacyjny zgodny ze wzorem określonym w przepisach wydanych na podstawie art. 75c pkt 2 ustawy.
+
+3. Miejsce przeznaczone do umieszczenia znaku legalizacyjnego na tablicy rejestracyjnej wskazuje oznaczenie naniesione techniką laserową.
+
+4. Na tablicach rejestracyjnych umieszcza się również naniesione techniką laserową:
+
+- **1)** grafikę obrysu wizerunku orła, o którym mowa w ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2024 r. poz. 155),
+- **2)** oznaczenie numeru certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2 ustawy, posiadanego przez producenta tablic rejestracyjnych bez wytłoczonych numerów rejestracyjnych, jeżeli występuje,
+- **3)** oznaczenie nazwy producenta i numeru certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2 ustawy, posiadanego przez producenta tablic rejestracyjnych z wytłoczonymi numerami rejestracyjnymi albo tłoczącego numery rejestracyjne; w oznaczeniu tej nazwy producent podaje maksymalnie 10 znaków z nazwy określającej jego firmę, z wyłączeniem znaków interpunkcyjnych,
+- **4)** grafikę symbolu określonego na rysunku 3 w załączniku nr 12 do rozporządzenia – w przypadku tablic rejestracyjnych zabytkowych jednorzędowych zmniejszonych,
+- **5)** grafikę symbolu określonego na rysunku 4 w załączniku nr 12 do rozporządzenia – w przypadku tablic rejestracyjnych motorowerowych zabytkowych – w sposób określony w pkt 2.6 załącznika nr 12 do rozporządzenia.
+
+5. Przepisu ust. 3 nie stosuje się do tablic tymczasowych.
+
+6. Przepisu ust. 4 pkt 1 nie stosuje się do tablic motorowerowych i tablic tymczasowych.
+
+**§ 29.** Na tablicach (tablicy) rejestracyjnych nie mogą być umieszczane inne oznaczenia niż te, o których mowa w § 27 i § 28 oraz § 32.
+
+**§ 30.**
+
+1. Numery rejestracyjne są tworzone ze zbioru następujących 25 liter: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, V, W, X, Y i Z oraz cyfr od 0 do 9.
+
+2. Poszczególne litery i cyfry numeru rejestracyjnego pełnią następujące funkcje:
+
+- **1)** na tablicach rejestracyjnych zwyczajnych samochodowych – pierwsza litera stanowi wyróżnik województwa, druga lub druga i trzecia litera stanowią wyróżnik powiatu, następne cyfry lub cyfry i litera lub litery stanowią wyróżnik pojazdu tworzony kolejno w układzie:
+    - **a)** w przypadku powiatów z wyróżnikiem jednoliterowym: – pięć cyfr w przedziale od 00001 do 99999, – cztery cyfry w przedziale od 0001 do 9999 i litera, – trzy cyfry w przedziale od 001 do 999 i dwie litery, – cyfra w przedziale od 1 do 9, litera i trzy cyfry w przedziale od 001 do 999, – cyfra w przedziale od 1 do 9, dwie litery i dwie cyfry w przedziale od 01 do 99,
+    - **b)** w przypadku powiatów z wyróżnikiem dwuliterowym: – litera i trzy cyfry w przedziale od 001 do 999, – dwie cyfry w przedziale od 01 do 99 i dwie litery, – cyfra w przedziale od 1 do 9, litera i dwie cyfry w przedziale od 01 do 99, – dwie cyfry w przedziale od 01 do 99, litera i cyfra w przedziale od 1 do 9, – cyfra w przedziale od 1 do 9, dwie litery i cyfra w przedziale od 1 do 9, – dwie litery i dwie cyfry w przedziale od 01 do 99, – pięć cyfr w przedziale od 00001 do 99999, – cztery cyfry w przedziale od 0001 do 9999 i litera, – trzy cyfry w przedziale od 001 do 999 i dwie litery;
+
+- **2)** na tablicach rejestracyjnych zwyczajnych samochodowych jednorzędowych zmniejszonych i na tablicach rejestracyjnych tymczasowych jednorzędowych zmniejszonych oraz na tablicach rejestracyjnych zabytkowych jednorzędowych zmniejszonych – wydawanych dla pojazdu posiadającego zmniejszone wymiary miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej – dla powiatów z wyróżnikiem jednoliterowym i dwuliterowym pierwsza litera stanowi wyróżnik województwa, następne cyfry lub cyfry i litera, lub litery stanowią wyróżnik pojazdu tworzony kolejno w układzie:
+    - **a)** trzy cyfry w przedziale od 001 do 999,
+    - **b)** dwie cyfry w przedziale od 01 do 99 i litera,
+    - **c)** cyfra w przedziale od 1 do 9, litera i cyfra w przedziale od 1 do 9,
+    - **d)** litera i dwie cyfry w przedziale od 01 do 99,
+    - **e)** cyfra w przedziale od 1 do 9 i dwie litery,
+    - **f)** dwie litery i cyfra w przedziale od 1 do 9,
+    - **g)** litera, cyfra w przedziale od 1 do 9 i litera;
+
+- **3)** na tablicach rejestracyjnych zwyczajnych motocyklowych i motorowerowych – pierwsza litera stanowi wyróżnik województwa, druga lub druga i trzecia litera stanowią wyróżnik powiatu, następne cyfry lub cyfry i litera, lub litery stanowią wyróżnik pojazdu tworzony kolejno w układzie:
+    - **a)** w przypadku powiatów z wyróżnikiem jednoliterowym: – cztery cyfry w przedziale od 0001 do 9999, – trzy cyfry w przedziale od 001 do 999 i litera, – dwie cyfry w przedziale od 01 do 99, litera i cyfra w przedziale od 1 do 9, – cyfra w przedziale od 1 do 9, litera i dwie cyfry w przedziale od 01 do 99, – litera i trzy cyfry w przedziale od 001 do 999, – dwie cyfry w przedziale od 01 do 99 i dwie litery, – cyfra w przedziale od 1 do 9, dwie litery i cyfra w przedziale od 1 do 9, – dwie litery i dwie cyfry w przedziale od 01 do 99,
+    - **b)** w przypadku powiatów z wyróżnikiem dwuliterowym: – litera i trzy cyfry w przedziale od 001 do 999, – dwie cyfry w przedziale od 01 do 99 i dwie litery, – cyfra w przedziale od 1 do 9, litera i dwie cyfry w przedziale od 01 do 99, – dwie cyfry w przedziale od 01 do 99, litera i cyfra w przedziale od 1 do 9, – cyfra w przedziale od 1 do 9, dwie litery i cyfra w przedziale od 1 do 9, – dwie litery i dwie cyfry w przedziale od 01 do 99, – litera, dwie cyfry w przedziale od 01 do 99 i litera, – litera, cyfra w przedziale od 1 do 9 i dwie litery;
+
+- **4)** na tablicach rejestracyjnych indywidualnych – litera i cyfra stanowią wyróżnik województwa, zaś kolejne litery w liczbie od 3 do 5 stanowią wyróżnik indywidualny pojazdu, w którym nie więcej niż dwie ostatnie litery można zastąpić cyframi;
+- **5)** na tablicach rejestracyjnych zabytkowych, z wyjątkiem tablic rejestracyjnych zabytkowych jednorzędowych zmniejszonych – pierwsza litera stanowi wyróżnik województwa, druga lub druga i trzecia litera stanowią wyróżnik powiatu, następne cyfry lub cyfry i litera stanowią wyróżnik pojazdu tworzony kolejno w układzie:
+    - **a)** w przypadku powiatów z wyróżnikiem jednoliterowym: – dwie cyfry w przedziale od 01 do 99 i litera, – trzy cyfry w przedziale od 001 do 999,
+    - **b)** w przypadku powiatów z wyróżnikiem dwuliterowym: – cyfra w przedziale od 1 do 9 i litera, – dwie cyfry w przedziale od 01 do 99, – litera i cyfra w przedziale od 1 do 9;
+
+- **6)** na tablicach rejestracyjnych tymczasowych – litera i cyfra stanowią wyróżnik województwa, zaś cztery cyfry w przedziale od 0001 do 9999 stanowią wyróżnik pojazdu, który po wyczerpaniu wskazanej pojemności tworzy się w układzie trzy cyfry w przedziale od 001 do 999 i litera;
+- **7)** na tablicach rejestracyjnych dyplomatycznych – pierwsza litera stanowi wyróżnik województwa, zaś sześć cyfr w przedziale od 000001 do 999999 stanowi wyróżnik pojazdu.
+
+3. Organ rejestrujący może wydać dla pojazdu posiadającego zmniejszone wymiary miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej:
+
+- **1)** w przypadku czasowej rejestracji, o której mowa w art. 74 ust. 2 pkt 2 i ust. 2ca ustawy – tablice rejestracyjne tymczasowe jednorzędowe zmniejszone,
+- **2)** w przypadku rejestracji – tablice rejestracyjne zwyczajne samochodowe jednorzędowe zmniejszone – o tym samym numerze rejestracyjnym.
+
+**§ 31.**
+
+1. Wyróżnik pojazdu, z zastrzeżeniem § 32 ust. 2, określa organ rejestrujący, posługując się zestawem cyfr i liter stanowiących pojemność rejestracyjną, z wyłączeniem liter B, D, I, O i Z.
+
+2. Wyróżniki województw i powiatów dla tablic rejestracyjnych są określone w załączniku nr 13 do rozporządzenia.
+
+3. W przypadku gdy, zgodnie z załącznikiem nr 13 do rozporządzenia, dla województwa są określone dwie litery będące wyróżnikiem województwa, numery rejestracyjne z wykorzystaniem drugiej litery są tworzone po wyczerpaniu się możliwości utworzenia numerów rejestracyjnych dla poszczególnych tablic rejestracyjnych z wykorzystaniem pierwszej litery wyróżnika województwa.
+
+4. W przypadku połączenia powiatów, dla których określono wyróżniki dla tablic rejestracyjnych w załączniku nr 13 do rozporządzenia, na tablicach rejestracyjnych stosuje się dotychczasowe wyróżniki tych powiatów.
+
+5. W przypadku podziału powiatu, dla którego określono wyróżniki dla tablic rejestracyjnych, właściwe po tym podziale organy rejestrujące do czasu określenia nowych wyróżników stosują dotychczasowe wyróżniki, po uzgodnieniu przez te organy podziału niewykorzystanych pojemności rejestracyjnych.
+
+**§ 32.**
+
+1. Organ rejestrujący wydaje tablice (tablicę) rejestracyjne indywidualne, jeżeli z informacji uzyskanej z ewidencji tablic rejestracyjnych indywidualnych wydanych na terenie województwa, o której mowa w art. 73a ust. 1 pkt 1 ustawy, wynika, że identyczne tablice (tablica) rejestracyjne nie zostały wydane dla innego pojazdu zarejestrowanego na terenie województwa.
+
+2. Wyróżnik indywidualny pojazdu określa zainteresowany właściciel pojazdu.
+
+3. Wyróżnik indywidualny powinien być wyrazem, skrótem lub określeniem, które nie zawierają w swoim znaczeniu w języku polskim albo obcym treści obraźliwych lub niezgodnych z zasadami współżycia społecznego.
+
+**§ 33.**
+
+1. Właściciel pojazdu umieszcza na pojeździe tablice rejestracyjne z przodu i z tyłu w miejscach konstrukcyjnie do tego przeznaczonych, z wyjątkiem przyczep, ciągników rolniczych, motocykli i motorowerów, na których tablicę umieszcza się tylko z tyłu.
+
+2. W przypadku pojazdów kategorii L2e, L5e, L6e i L7e tablicę rejestracyjną umieszcza się również z przodu, jeżeli pojazdy te posiadają miejsce konstrukcyjnie do tego przeznaczone.
+
+3. W przypadkach uzasadnionych konstrukcją ciągnika rolniczego tablicę rejestracyjną umieszcza się z przodu tego pojazdu.
+
+4. Z przodu pojazdu umieszcza się wyłącznie tablicę rejestracyjną samochodową jednorzędową, z wyjątkiem pojazdów, o których mowa w ust. 2 i 3.
+
+5. Z tyłu pojazdu umieszcza się tablicę rejestracyjną samochodową jednorzędową albo dwurzędową w zależności od miejsca konstrukcyjnie do tego przeznaczonego.
+
+6. Z tyłu przyczepy motocyklowej umieszcza się tablicę rejestracyjną motocyklową przeniesioną z motocykla, który ciągnie przyczepę.
+
+7. Jeżeli pojazd nie posiada specjalnego miejsca do umocowania tablic rejestracyjnych, to przednią i tylną tablicę rejestracyjną umieszcza się w środku szerokości pojazdu, a gdyby to utrudniało jego eksploatowanie lub ograniczało widoczność tablicy rejestracyjnej – po lewej stronie pojazdu.
+
+8. W przypadku ciągnika rolniczego, którego konstrukcja ogranicza prędkość jazdy do 25 km/h, i pojazdu wolnobieżnego, wchodzących w skład kolejki turystycznej, tablice rejestracyjne umieszcza się z przodu i z tyłu albo tylko z tyłu, w zależności od położenia miejsca konstrukcyjnie do tego przeznaczonego. W przypadku przyczepy dostosowanej do przewozu osób wchodzącej w skład kolejki turystycznej tablice umieszcza się tylko z tyłu.
+
+9. W przypadku zamontowania na pojeździe samochodowym bagażnika, zakrywającego tylną tablicę rejestracyjną, dodatkową zalegalizowaną tablicę rejestracyjną, o której mowa w art. 73 ust. 1b ustawy, umieszcza się na bagażniku w miejscu konstrukcyjnie do tego przeznaczonym.
+
+**§ 34.** Szczegółowe wymagania techniczne dla tablic rejestracyjnych oraz zakres i sposób ich badania, a także wzory tablic rejestracyjnych, umieszczanych na nich znaków i symboli oraz ich opis są określone w załączniku nr 12 do rozporządzenia.
 
 #### Rozdział 7 Inne oznaczenia pojazdów
 
+**§ 35.**
+
+1. W przypadku gdy organ rejestrujący wydaje na wniosek właściciela pojazdu decyzję o nadaniu cech identyfikacyjnych zgodnie z art. 66a ustawy, stacja kontroli pojazdów wydaje zaświadczenie potwierdzające umieszczenie numeru nadwozia, podwozia lub ramy.
+
+2. Wzory cech identyfikacyjnych pojazdu: numer VIN oraz numer nadwozia, podwozia i ramy, a także ich opis, są określone w załączniku nr 14 do rozporządzenia.
+
+**§ 36.**
+
+1. Organ rejestrujący wydaje w drodze decyzji, na wniosek właściciela pojazdu, zgodę na wykonanie i umieszczenie tabliczki znamionowej zastępczej, zwanej dalej „tabliczką zastępczą”, w przypadku:
+
+- **1)** braku, utraty lub zniszczenia tabliczki znamionowej;
+- **2)** utraty aktualności treści tabliczki znamionowej w zakresie określenia cech identyfikacyjnych pojazdu.
+
+2. W przypadkach określonych w ust. 1 stacja kontroli pojazdów wydaje zaświadczenie potwierdzające wykonanie i umieszczenie tabliczki zastępczej.
+
+**§ 37.**
+
+1. Na samochodzie ciężarowym samowyładowczym oraz przyczepie samowyładowczej umieszcza się numery rejestracyjne odpowiadające numerom rejestracyjnym na tablicach rejestracyjnych przez ich namalowanie na tyle burty skrzyni ładunkowej białą lub czarną farbą kontrastową w stosunku do tła burty. Przepis ten nie dotyczy pojazdów, których burta z tyłu nie ma płaszczyzny, na której można namalować te numery.
+
+2. Numery namalowane na tyle burty skrzyni ładunkowej powinny mieć taki sam układ i zbliżony kształt liter i cyfr jak numery na tablicy rejestracyjnej samochodowej jednorzędowej. Długość rzędu namalowanych numerów powinna wynosić 140–150 cm, wysokość 25 cm, a grubość kreski – 4,5 cm.
+
+**§ 38.**
+
+1. Autobus, o którym mowa w art. 20 ust. 4 ustawy, oraz pojazd, w stosunku do którego organ rejestrujący ustalił na podstawie art. 21 ust. 4 ustawy indywidualną dopuszczalną prędkość jazdy, oznacza się tarczą określającą tę prędkość, umieszczoną na tyle nadwozia.
+
+2. Autobus przystosowany do zasilania gazem oznacza się z przodu i z tyłu nadwozia oraz z prawego boku pojazdu w pobliżu drzwi wejściowych nalepką z symbolem „LPG”, „CNG” albo „LNG”.
+
+**§ 39.**
+
+1. Na pojeździe zarejestrowanym w Rzeczypospolitej Polskiej, który ma być używany w ruchu międzynarodowym, umieszcza się z tyłu na nadwoziu znak z literami „PL”.
+
+2. Znak „PL” może być umieszczony na tylnej szybie samochodu, w jej prawym dolnym rogu, pod warunkiem że będzie zapewniona wystarczająca widoczność znaku i czytelność liter.
+
+3. Na pojeździe należącym do przedstawicielstwa dyplomatycznego państwa obcego umieszcza się znak z literami „CD”, a na pojeździe urzędu konsularnego – znak z literami „CC”. Stosuje się przepis ust. 2.
+
+**§ 40.**
+
+1. Na pojeździe do nauki jazdy lub przeprowadzania egzaminu państwowego umieszcza się tablicę, o której mowa w art. 55 ust. 1 ustawy, z przodu i z tyłu pojazdu lub zespołu pojazdów, na wysokości od 60 cm do 180 cm od powierzchni jezdni.
+
+2. Na samochodzie osobowym i czterokołowcu wyposażonym w nadwozie tablicę, o której mowa w art. 55 ust. 1 ustawy, umieszcza się pionowo na dachu, prostopadle do osi podłużnej pojazdu.
+
+3. Na motocyklu, motorowerze i czterokołowcu tablicę, o której mowa w art. 55 ust. 1 ustawy, umieszcza się z tyłu pojazdu.
+
+**§ 41.** Na pojeździe przewożącym zorganizowaną grupę dzieci lub młodzieży w wieku do lat 18 tablicę, o której mowa w art. 57 ust. 1 ustawy, umieszcza się z przodu i z tyłu pojazdu, możliwie blisko lewej płaszczyzny obrysu, na wysokości od 60 cm do 180 cm od powierzchni jezdni.
+
+**§ 42.**
+
+1. Na autobusie szkolnym przeznaczonym do przewozu dzieci do szkoły umieszcza się z przodu i z tyłu tablicę „AUTOBUS SZKOLNY”.
+
+2. Autobus szkolny, o którym mowa w ust. 1, dodatkowo oznacza się z przodu i z tyłu tablicami ze znakiem „STOP”, które powinny być widoczne dla innych uczestników ruchu drogowego po uruchomieniu autobusu oraz być zamontowana i działać, zgodnie z przepisami wydanymi na podstawie art. 66 ust. 5 ustawy.
+
+**§ 43.**
+
+1. Na pojeździe przeznaczonym konstrukcyjnie do przewozu osób niepełnosprawnych umieszcza się tablicę, o której mowa w art. 58 ust. 1 ustawy, z przodu i z tyłu pojazdu, możliwie blisko lewej płaszczyzny obrysu, na wysokości od 60 cm do 180 cm od powierzchni jezdni.
+
+2. Na pojeździe, o którym mowa w art. 8 ustawy, na jego przedniej szybie, w jej prawym górnym rogu, może być umieszczona nalepka barwy białej z międzynarodowym symbolem wózka inwalidzkiego barwy czarnej.
+
+**§ 44.**
+
+1. Nalepkę, o której mowa w art. 91 ust. 2 pkt 3 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2024 r. poz. 1210 i 1544), umieszcza się na przedniej i tylnej szybie pojazdu, w prawym górnym rogu.
+
+2. W przypadku pojazdu samochodowego konstrukcyjnie nieposiadającego szyby tylnej lub przedniej nalepkę, o której mowa w ust. 1, umieszcza się odpowiednio z tyłu lub z przodu na nadwoziu pojazdu.
+
+3. W przypadku oznaczenia pojazdu nalepką, o której mowa w ust. 1, i nalepką, o której mowa w § 43 ust. 2, nalepki te umieszcza się obok siebie na przedniej szybie pojazdu.
+
+**§ 45.** Do oznaczenia dostępności pojazdu dla pasażera o ograniczonej możliwości poruszania się stosuje się symbole zgodne ze wzorami określonymi w pkt 14 załącznika nr 15 do rozporządzenia.
+
+**§ 46.** Wzory oznaczeń pojazdów, o których mowa w § 38–45, oraz ich opis są określone w załączniku nr 15 do rozporządzenia.
+
 #### Rozdział 8 Przepis epizodyczny, przepisy przejściowe oraz przepis końcowy
+
+**§ 47.**
+
+1. Do dnia 30 listopada 2024 r. organ rejestrujący, w przypadku dokonywania czasowej rejestracji samochodu osobowego przeznaczonego do zawodów sportowych, wydaje tablice rejestracyjne, o których mowa w § 27 ust. 9 pkt 1.
+
+2. Tablice rejestracyjne tymczasowe, o których mowa w ust. 1, zachowują ważność w terminie ważności wydanego wraz z nimi pozwolenia czasowego.
+
+**§ 48.**
+
+1. Dowody rejestracyjne oraz ich wtórniki wydane przed dniem wejścia w życie rozporządzenia zachowują ważność.
+
+2. Pozwolenia czasowe oraz ich wtórniki wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
+
+3. Tablice (tablica) rejestracyjne oraz ich wtórniki zgodne ze wzorami określonymi w przepisach dotychczasowych zachowują ważność.
+
+**§ 49.** Organ rejestrujący wymieni, na wniosek właściciela zabytkowego motoroweru, tablice rejestracyjne pojazdu zgodne z przepisami rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 11 grudnia 2017 r. w sprawie rejestracji i oznaczania pojazdów oraz wymagań dla tablic rejestracyjnych (Dz. U. poz. 2355, z późn. zm. ) na tablice rejestracyjne motorowerowe zabytkowe, w przypadku gdy dla motoroweru zgłoszonego do rejestracji jako pojazd zabytkowy były wydane:
+
+- **1)** tablica rejestracyjna motocyklowa zabytkowa – z zachowaniem dotychczasowego numeru rejestracyjnego;
+- **2)** tablica rejestracyjna motorowerowa – z nowym numerem rejestracyjnym.
+
+**§ 50.** Certyfikaty, o których mowa w art. 75a ust. 2 pkt 2 ustawy, wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
+
+**§ 51.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Infrastruktury: D. Klimczak Ministra Infrastruktury z dnia 8 listopada 2024 r. (poz. ….) Załącznik nr 1 WZÓR WZÓR WNIOSKU WNIOSKU O O REJESTRACJĘ, REJESTRACJĘ, CZASOWĄ CZASOWĄ REJESTRACJĘ, REJESTRACJĘ, WYREJESTROWANIE WYREJESTROWANIE POJAZDU POJAZDU LUB LUB ZAWIADOMIENIA ZAWIADOMIENIA O ZBYCIU O ZBYCIU POJAZDU POJAZDU (format (format A5 A5 lub lub A4) A4) WNIOSEK ......................................................... ................................................................. ......................................................... ......................................................... ......................................................... …............................................................... ......................................................... .................................................................... Wnoszę o rejestrację / czasową rejestrację w celu ............................................................................................. – wyrejestrowanie / zawiadamiam o zbyciu następującego pojazdu: 1. rodzaj pojazdu i przeznaczenie .................................................................................................................. 2. marka, typ, model ...................................................................................................................................... 3. rok produkcji ............................................................................................................................................. 4. numer VIN / nr nadwozia, podwozia lub ramy ......................................................................................... 5. dotychczasowy numer rejestracyjny .......................................................................................................... 6. sprowadzonego z terytorium państwa członkowskiego UE dnia ............................................................ data zbycia dotychczas zarejestrowanego pojazdu.................................................................................. Do wniosku załączam następujące dokumenty: ................................................................................................................................................................................... ................................................................................................................................................................................... ................................................................................................................................................................................... ................................................................................................................................................................................... – – .................................................. W przypadku wniosku składanego przez podmiot, o którym mowa w art. 73 ust. 2 i 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, we wniosku podaje się dane tego podmiotu oraz właściciela pojazdu. Numer REGON podaje właściciel pojazdu, któremu został nadany numer REGON, z wyłączeniem osób fizycznych prowadzących działalność gospodarczą. Datę urodzenia wpisują tylko cudzoziemcy, którzy nie posiadają numeru PESEL. Niepotrzebne skreślić. Wypełnia się w przypadku pojazdu sprowadzonego z terytorium państwa członkowskiego Unii Europejskiej, rejestrowanego po raz pierwszy na terytorium Rzeczypospolitej Polskiej, gdy datą sprowadzenia pojazdu z terytorium państwa członkowskiego Unii Europejskiej jest dzień po 31 grudnia 2019 r. Wypełnia się, jeżeli właściciel pojazdu wnosi o wydanie tablic indywidualnych zamiast tablic zwyczajnych albo tablic samochodowych zmniejszonych w przypadku, gdy pojazd posiada zmniejszone wymiary miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej. Wypełnia się, jeżeli właściciel pojazdu wnosi o zachowanie dotychczasowego numeru rejestracyjnego zgodnie z art. 73 ust. 1a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 ## Załącznik nr 2 — WZÓR WNIOSKU O REJESTRACJĘ, CZASOWĄ REJESTRACJĘ ALBO WYREJESTROWANIE POJAZDU, O KTÓRYM MOWA W ART. 73 UST. 2A USTAWY Z DNIA 20 CZERWCA 1997 r. – PRAWO O RUCHU DROGOWYM WNIOSEK O REJESTRACJĘ, CZASOWĄ REJESTRACJĘ ALBO WYREJESTROWANIE POJAZDU, O KTÓRYM MOWA W ART. 73 UST. 2A USTAWY Z DNIA 20 CZERWCA 1997 r. – PRAWO O RUCHU DROGOWYM/ APPLICATION FORM FOR REGISTRATION, TEMPORARY REGISTRATION OR DEREGISTRATION OF A VEHICLE, REFERRED IN ARTICLE 73. PARAGRAPH 2A POLISH LAW ON ROAD TRAFFIC .................................................................. ...................................................................
 

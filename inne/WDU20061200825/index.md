@@ -29,7 +29,12 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 7 lipca 2005 r. o dopłatach do ubezpieczeń upraw rolnych i zwierząt gospodarskich (Dz. U. Nr 150, poz. 1249) w art. 3:
 
-- **1)** ust. 1 otrzymuje brzmienie: „1. Ze środków budżetu państwa są udzielane dopłaty do składek z tytułu zawarcia umów ubezpieczenia: 1) upraw zbóż, kukurydzy, rzepaku, rzepiku, chmielu, warzyw, drzew i krzewów owocowych, ziemniaków lub buraków cukrowych, od zasiewu lub wysadzenia do ich zbioru, od ryzyka wystąpienia szkód spowodowanych przez huragan, powódź, deszcz nawalny, grad, piorun, obsunięcie się ziemi, lawinę, suszę oraz ujemne skutki przezimowania lub przymrozków wiosennych lub 2) bydła, koni, owiec, kóz, drobiu, ryb lub świń od ryzyka wystąpienia szkód spowodowanych przez huragan, powódź, deszcz nawalny, grad, piorun, obsunięcie się ziemi, lawinę oraz w wyniku uboju z konieczności – zwanych dalej „umowami ubezpieczenia”.”;
+- **1)** ust. 1 otrzymuje brzmienie:
+
+  > „1. Ze środków budżetu państwa są udzielane dopłaty do składek z tytułu zawarcia umów ubezpieczenia:  
+  > 1) upraw zbóż, kukurydzy, rzepaku, rzepiku, chmielu, warzyw, drzew i krzewów owocowych, ziemniaków lub buraków cukrowych, od zasiewu lub wysadzenia do ich zbioru, od ryzyka wystąpienia szkód spowodowanych przez huragan, powódź, deszcz nawalny, grad, piorun, obsunięcie się ziemi, lawinę, suszę oraz ujemne skutki przezimowania lub przymrozków wiosennych lub 2) bydła, koni, owiec, kóz, drobiu, ryb lub świń od ryzyka wystąpienia szkód spowodowanych przez huragan, powódź, deszcz nawalny, grad, piorun, obsunięcie się ziemi, lawinę oraz w wyniku uboju z konieczności – zwanych dalej „umowami ubezpieczenia”.  
+
+  ”;
 - **2)** w ust. 2 uchyla się pkt 1 i 7.
 
 **Art. 2.** Umowy ubezpieczeń z dopłatami w rozumieniu przepisów ustawy, o której mowa w art. 1, dotyczące upraw chmielu, warzyw, drzew, krzewów owocowych oraz drobiu i ryb mogą być zawierane od 2007 r.

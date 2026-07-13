@@ -27,16 +27,23 @@ source: pdf
 
 w sprawie szczegółowych warunków i sposobu uznawania przepisów technicznych w zakresie budowy statków i stałych platform wiertniczych, wydanych przez uznane organizacje, za spełniające wymagania bezpieczeństwa Na podstawie art. 11 ust. 3 pkt 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r.
 poz. 181) zarządza się, co następuje:
-§ 1. Wniosek o uznanie przepisów technicznych w zakresie budowy statków lub stałych platform wiertnicznych oraz ich urządzeń i wyposażenia, zwanych dalej „przepisami technicznymi”, za spełniające wymagania bezpieczeństwa może złożyć uznana organizacja w rozumieniu art. 5 pkt 17 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwana dalej „organizacją”.
-§ 2. Przepisy techniczne mogą zostać uznane za spełniające wymagania bezpieczeństwa pod warunkiem, że organizacja:
-1) posiada doświadczenie w zakresie oceny projektów i nadzoru nad budową, przebudową lub eksploatacją statków lub stałych platform wiertniczych;
-2) posiada i stosuje własne przepisy techniczne, których jakość odpowiada uznanym międzynarodowo normom;
-3) zapewnia systematyczną aktualizację własnych przepisów technicznych;
-4) publikuje własne przepisy techniczne, również w języku polskim;
-5) posiada wewnętrzny system pomiaru jakości wydawanych przepisów technicznych;
-6) posiada system nadzoru personelu technicznego wykonującego zadania w zakresie opracowywania przepisów technicznych.
-§ 3. 1. Wniosek, o którym mowa w § 1, organizacja składa do ministra właściwego do spraw gospodarki morskiej wraz z dokumentacją potwierdzającą spełnienie wymagań, o których mowa w § 2.
+
+**§ 1.** Wniosek o uznanie przepisów technicznych w zakresie budowy statków lub stałych platform wiertnicznych oraz ich urządzeń i wyposażenia, zwanych dalej „przepisami technicznymi”, za spełniające wymagania bezpieczeństwa może złożyć uznana organizacja w rozumieniu art. 5 pkt 17 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwana dalej „organizacją”.
+
+**§ 2.** Przepisy techniczne mogą zostać uznane za spełniające wymagania bezpieczeństwa pod warunkiem, że organizacja:
+
+- **1)** posiada doświadczenie w zakresie oceny projektów i nadzoru nad budową, przebudową lub eksploatacją statków lub stałych platform wiertniczych;
+- **2)** posiada i stosuje własne przepisy techniczne, których jakość odpowiada uznanym międzynarodowo normom;
+- **3)** zapewnia systematyczną aktualizację własnych przepisów technicznych;
+- **4)** publikuje własne przepisy techniczne, również w języku polskim;
+- **5)** posiada wewnętrzny system pomiaru jakości wydawanych przepisów technicznych;
+- **6)** posiada system nadzoru personelu technicznego wykonującego zadania w zakresie opracowywania przepisów technicznych.
+
+**§ 3.**
+
+1. Wniosek, o którym mowa w § 1, organizacja składa do ministra właściwego do spraw gospodarki morskiej wraz z dokumentacją potwierdzającą spełnienie wymagań, o których mowa w § 2.
+
 2. Zapewnienie dostępu do dokumentacji, o której mowa w ust. 1, prowadzonej w postaci elektronicznej uznaje się za równoważne ze złożeniem jej wraz z wnioskiem, o którym mowa w § 1.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
 

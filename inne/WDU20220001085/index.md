@@ -35,66 +35,87 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 5 lutego 2013 r.
 w sprawie postępowania o nadanie Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” Na podstawie art. 17 ust. 3 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
 z 2020 r. poz. 2055 oraz z 2022 r. poz. 655) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) tryb postępowania w sprawach o nadanie Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej”, zwanej dalej „Odznaką”;
-2) osoby uprawnione do występowania z wnioskiem o jej nadanie oraz termin rozpatrzenia wniosku;
-3) wzór graficzny Odznaki;
-4) wzór wniosku o nadanie Odznaki;
-5) wzór legitymacji potwierdzającej nadanie Odznaki;
-6) sposób wręczenia i noszenia Odznaki;
-7) sposób ewidencjonowania informacji o osobach wyróżnionych Odznaką.
-§ 2. 1. Odznaka nadawana jest przez ministra właściwego do spraw wewnętrznych.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** tryb postępowania w sprawach o nadanie Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej”, zwanej dalej „Odznaką”;
+- **2)** osoby uprawnione do występowania z wnioskiem o jej nadanie oraz termin rozpatrzenia wniosku;
+- **3)** wzór graficzny Odznaki;
+- **4)** wzór wniosku o nadanie Odznaki;
+- **5)** wzór legitymacji potwierdzającej nadanie Odznaki;
+- **6)** sposób wręczenia i noszenia Odznaki;
+- **7)** sposób ewidencjonowania informacji o osobach wyróżnionych Odznaką.
+
+**§ 2.**
+
+1. Odznaka nadawana jest przez ministra właściwego do spraw wewnętrznych.
+
 2. Odznaka jest wyróżnieniem i może być nadana weteranowi-funkcjonariuszowi albo weteranowi poszkodowanemu-funkcjonariuszowi w uznaniu jego zasług wykazanych podczas działań poza granicami Rzeczypospolitej Polskiej.
-3. Odznaką jest krzyż maltański o wymiarach 40 mm × 40 mm, wykonany z metalu srebrzonego i oksydowanego, z uszkiem i kółkiem do zawieszenia w rozwidleniu górnego ramienia. Ramiona krzyża są pokryte jednostronnie granatową emalią w obramowaniu. Na awersie w części centralnej odznaki znajduje się wizerunek czteropromiennej gwiazdy o wymiarach 25 mm × 25 mm, z umieszczonym na niej stylizowanym wieńcem wawrzynowym, przerwanym u góry, z krzyżową przewiązką u dołu, okalającym wizerunek orła ustalony według wzoru określonego w art. 2 ustawy z dnia 31 stycznia 1980 r.
-o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509); całość srebrzona i oksydowana. Rewers krzyża jest gładki.
-4. Odznaka jest zawieszona na wstążce z rypsu jedwabnego barwy granatowej, szerokości 35 mm, z dwoma pionowymi paskami szerokości 5 mm każdy, koloru białego i czerwonego, umieszczonymi w odstępie 2,5 mm od krawędzi wstążki.
-Wstążka jest przeciągnięta przez kółko znajdujące się na górnym ramieniu krzyża.
+
+3. Odznaką jest krzyż maltański o wymiarach 40 mm × 40 mm, wykonany z metalu srebrzonego i oksydowanego, z uszkiem i kółkiem do zawieszenia w rozwidleniu górnego ramienia. Ramiona krzyża są pokryte jednostronnie granatową emalią w obramowaniu. Na awersie w części centralnej odznaki znajduje się wizerunek czteropromiennej gwiazdy o wymiarach 25 mm × 25 mm, z umieszczonym na niej stylizowanym wieńcem wawrzynowym, przerwanym u góry, z krzyżową przewiązką u dołu, okalającym wizerunek orła ustalony według wzoru określonego w art. 2 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509); całość srebrzona i oksydowana. Rewers krzyża jest gładki.
+
+4. Odznaka jest zawieszona na wstążce z rypsu jedwabnego barwy granatowej, szerokości 35 mm, z dwoma pionowymi paskami szerokości 5 mm każdy, koloru białego i czerwonego, umieszczonymi w odstępie 2,5 mm od krawędzi wstążki. Wstążka jest przeciągnięta przez kółko znajdujące się na górnym ramieniu krzyża.
+
 5. Udział w działaniach poza granicami Rzeczypospolitej Polskiej jest oznaczony przez nałożenie na wstążkę okucia w kształcie listewki metalowej o szerokości 7 mm, srebrzonej i oksydowanej, z polerowanymi krawędziami, z umieszczoną nazwą kraju, w którym pełniona była misja, w formie wypukłego, polerowanego napisu.
+
 6. Wzór graficzny Odznaki jest określony w załączniku nr 1 do rozporządzenia.
-§ 3. 1. Z wnioskiem o nadanie Odznaki występuje do ministra właściwego do spraw wewnętrznych:
-1) Komendant Główny Policji;
-2) Komendant Główny Straży Granicznej;
-3) Komendant Służby Ochrony Państwa;
-4) Komendant Główny Państwowej Straży Pożarnej.
+
+**§ 3.**
+
+1. Z wnioskiem o nadanie Odznaki występuje do ministra właściwego do spraw wewnętrznych:
+
+- **1)** Komendant Główny Policji;
+- **2)** Komendant Główny Straży Granicznej;
+- **3)** Komendant Służby Ochrony Państwa;
+- **4)** Komendant Główny Państwowej Straży Pożarnej.
+
 2. Wniosek o nadanie Odznaki powinien zawierać dane osobowe weterana-funkcjonariusza albo weterana poszkodowanego-funkcjonariusza oraz szczegółowy opis zasług i osiągnięć służbowych uzasadniających nadanie Odznaki.
+
 3. Wniosek o nadanie Odznaki jest kierowany przez wnioskodawcę nie później niż 60 dni przed planowanym terminem wręczenia Odznaki.
+
 4. Minister właściwy do spraw wewnętrznych rozpatruje wniosek o nadanie Odznaki w terminie 30 dni od dnia jego otrzymania.
+
 5. Wzór wniosku stanowi załącznik nr 2 do rozporządzenia.
-§ 4. 1. (uchylony).
+
+**§ 4.**
+
+1. (uchylony).
+
 2. Odznakę wraz z legitymacją stwierdzającą jej nadanie wręcza minister właściwy do spraw wewnętrznych albo osoba przez niego upoważniona.
+
 3. Odznakę wręcza się w sposób i w okolicznościach zapewniających uroczysty charakter aktu wręczenia.
+
 4. Wręczenie Odznaki poprzedza się odczytaniem treści decyzji ministra właściwego do spraw wewnętrznych o nadaniu Odznaki i wypowiedzeniem formuły w brzmieniu: „Wręczam Odznakę Honorową za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” albo w brzmieniu: „W imieniu ministra właściwego do spraw wewnętrznych wręczam Odznakę Honorową za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej”.
-§ 5. 1. Odznaka może być nadana pośmiertnie.
+
+**§ 5.**
+
+1. Odznaka może być nadana pośmiertnie.
+
 2. Terminu określonego w § 3 ust. 3 nie stosuje się w przypadku pośmiertnego nadania Odznaki.
+
 3. (uchylony).
-§ 6. 1. Weteran-funkcjonariusz albo weteran poszkodowany-funkcjonariusz wraz z Odznaką otrzymuje legitymację potwierdzającą jej nadanie.
+
+**§ 6.**
+
+1. Weteran-funkcjonariusz albo weteran poszkodowany-funkcjonariusz wraz z Odznaką otrzymuje legitymację potwierdzającą jej nadanie.
+
 2. Legitymacja, o której mowa w § 4 ust. 2, zawiera następujące informacje:
-1) numer legitymacji;
-2) imię (imiona), nazwisko, imię ojca weterana-funkcjonariusza lub weterana poszkodowanego-funkcjonariusza;
-3) numer decyzji i datę nadania Odznaki;
-4) oznaczenie organu, który wydał legitymację;
-5) miejsce i datę wystawienia legitymacji.
+
+- **1)** numer legitymacji;
+- **2)** imię (imiona), nazwisko, imię ojca weterana-funkcjonariusza lub weterana poszkodowanego-funkcjonariusza;
+- **3)** numer decyzji i datę nadania Odznaki;
+- **4)** oznaczenie organu, który wydał legitymację;
+- **5)** miejsce i datę wystawienia legitymacji.
+
 3. Wzór legitymacji jest określony w załączniku nr 3 do rozporządzenia.
-§ 7. Weteran-funkcjonariusz albo weteran poszkodowany-funkcjonariusz nosi Odznakę na lewej piersi, po orderach i odznaczeniach państwowych.
-§ 8. 1. Ewidencję weteranów-funkcjonariuszy oraz weteranów poszkodowanych-funkcjonariuszy wyróżnionych Odznaką, wydanych Odznak i legitymacji, o których mowa w § 6 ust. 1, prowadzi komórka właściwa w sprawach osobowych urzędu obsługującego ministra właściwego do spraw wewnętrznych.
-2. Ewidencję prowadzi się w formie papierowej lub w systemie teleinformatycznym, o którym mowa w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r.
-poz. 2070).
-§ 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WZÓR GRAFICZNY ODZNAKI HONOROWEJ „ZA ZASŁUGI W DZIAŁANIACH POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” Załącznik nr 2 WZÓR WZÓR WNIOSKU WNIOSKU O O NADANIE NADANIE ODZNAKI ODZNAKI HONOROWEJ HONOROWEJ „ZA ZASŁUGI „ZA ZASŁUGI W DZIAŁANIACH W DZIAŁANIACH POZA POZA GRANICAMI GRANICAMI RZECZYPOSPOLITEJ RZECZYPOSPOLITEJ POLSKIEJ” POLSKIEJ” WNIOSEK O NADANIE ODZNAKI HONOROWEJ „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej”
-1. NR PESEL 2. Nazwisko 3. Imiona ……………………….. ……………………….. …….............…………………..
-4. Data urodzenia 5. Miejsce urodzenia 6. Imię ojca ……. ……………… …… ……..……………………….. ………………………..
-7. Miejsce zameldowania na pobyt stały ……………………….. …………………………………… ……………………….. ……………………….. ……….. ….……..
-8. Dokument tożsamości …………………….. ………………………..
-……………………….. ……………………….
-9. Stopień służbowy 10. Stanowisko służbowe 11. Miejsce pełnienia służby ……………………….. ……………………………. …………………………….
-12. Uzasadnienie wniosku
-13. Jednostka organizacyjna sporządzająca wniosek Dnia 20 roku
-14. Ewentualne dodatkowe opinie
-15. Wnoszę o nadanie ................................................................................... Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” Dnia 20 roku
-16. Decyzja o nadaniu Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” nr z dnia Minister Spraw Wewnętrznych i Administracji Załącznik nr 3 WZÓR LEGITYMACJI POTWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ „ZA ZASŁUGI W DZIAŁANIACH POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” WZÓR LEGITYMACJI POTWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ „ZA ZASŁUGI W DZIAŁANIACH POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” Wzór graficzny Wzór graficzny strona strona 1 1 strona strona 2 2 RZECZPOSPOLITA POLSKA Decyzją nr …………………… z dnia ………………………… nadano Pani/Panu LEGITYMACJA ………………………………………….
-NR … Odznakę Honorową „ZA ZASŁUGI W DZIAŁANIACH POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” mp.
-Minister WARSZAWA Spraw Wewnętrznych i Administracji dnia …………………..
-Opis: Legitymacja w układzie pionowym, w formie książkowej, o wymiarach 152 mm × 107 mm, w okładkach w kolorze niebieskim, z wytłoczonym wizerunkiem orła ustalonym dla godła Rzeczypospolitej Polskiej i napisem „RZECZPOSPOLITA POLSKA”.
-Strona 1: Napisy w kolorze czarnym: – „RZECZPOSPOLITA POLSKA”, – „LEGITYMACJA NR …”, – „WARSZAWA dnia …”.
-Strona 2: Napisy w kolorze czarnym: – w środkowej części napis „Decyzją nr …..”, – poniżej napis „z dnia ……………………..”, – poniżej napis „nadano Pani/Panu”, – poniżej miejsce na wpisanie danych odznaczonego, – poniżej napis „(imiona, nazwisko, imię ojca)”, – poniżej napis „Odznakę Honorową”, – poniżej napis „ZA ZASŁUGI W DZIAŁANIACH POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ”, – poniżej napis „mp.”, – poniżej napis „Minister Spraw Wewnętrznych i Administracji”, – poniżej miejsce na podpis i pieczęć organu przyznającego Odznakę Honorową.
+
+**§ 7.** Weteran-funkcjonariusz albo weteran poszkodowany-funkcjonariusz nosi Odznakę na lewej piersi, po orderach i odznaczeniach państwowych.
+
+**§ 8.**
+
+1. Ewidencję weteranów-funkcjonariuszy oraz weteranów poszkodowanych-funkcjonariuszy wyróżnionych Odznaką, wydanych Odznak i legitymacji, o których mowa w § 6 ust. 1, prowadzi komórka właściwa w sprawach osobowych urzędu obsługującego ministra właściwego do spraw wewnętrznych.
+
+2. Ewidencję prowadzi się w formie papierowej lub w systemie teleinformatycznym, o którym mowa w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070).
+
+**§ 9.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WZÓR GRAFICZNY ODZNAKI HONOROWEJ „ZA ZASŁUGI W DZIAŁANIACH POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” Załącznik nr 2 WZÓR WZÓR WNIOSKU WNIOSKU O O NADANIE NADANIE ODZNAKI ODZNAKI HONOROWEJ HONOROWEJ „ZA ZASŁUGI „ZA ZASŁUGI W DZIAŁANIACH W DZIAŁANIACH POZA POZA GRANICAMI GRANICAMI RZECZYPOSPOLITEJ RZECZYPOSPOLITEJ POLSKIEJ” POLSKIEJ” WNIOSEK O NADANIE ODZNAKI HONOROWEJ „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” 1. NR PESEL 2. Nazwisko 3. Imiona ……………………….. ……………………….. …….............………………….. 4. Data urodzenia 5. Miejsce urodzenia 6. Imię ojca ……. ……………… …… ……..……………………….. ……………………….. 7. Miejsce zameldowania na pobyt stały ……………………….. …………………………………… ……………………….. ……………………….. ……….. ….…….. 8. Dokument tożsamości …………………….. ……………………….. ……………………….. ………………………. 9. Stopień służbowy 10. Stanowisko służbowe 11. Miejsce pełnienia służby ……………………….. ……………………………. ……………………………. 12. Uzasadnienie wniosku 13. Jednostka organizacyjna sporządzająca wniosek Dnia 20 roku 14. Ewentualne dodatkowe opinie 15. Wnoszę o nadanie ................................................................................... Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” Dnia 20 roku 16. Decyzja o nadaniu Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” nr z dnia Minister Spraw Wewnętrznych i Administracji Załącznik nr 3 WZÓR LEGITYMACJI POTWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ „ZA ZASŁUGI W DZIAŁANIACH POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” WZÓR LEGITYMACJI POTWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ „ZA ZASŁUGI W DZIAŁANIACH POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” Wzór graficzny Wzór graficzny strona strona 1 1 strona strona 2 2 RZECZPOSPOLITA POLSKA Decyzją nr …………………… z dnia ………………………… nadano Pani/Panu LEGITYMACJA …………………………………………. NR … Odznakę Honorową „ZA ZASŁUGI W DZIAŁANIACH POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ” mp. Minister WARSZAWA Spraw Wewnętrznych i Administracji dnia ………………….. Opis: Legitymacja w układzie pionowym, w formie książkowej, o wymiarach 152 mm × 107 mm, w okładkach w kolorze niebieskim, z wytłoczonym wizerunkiem orła ustalonym dla godła Rzeczypospolitej Polskiej i napisem „RZECZPOSPOLITA POLSKA”. Strona 1: Napisy w kolorze czarnym: – „RZECZPOSPOLITA POLSKA”, – „LEGITYMACJA NR …”, – „WARSZAWA dnia …”. Strona 2: Napisy w kolorze czarnym: – w środkowej części napis „Decyzją nr …..”, – poniżej napis „z dnia ……………………..”, – poniżej napis „nadano Pani/Panu”, – poniżej miejsce na wpisanie danych odznaczonego, – poniżej napis „(imiona, nazwisko, imię ojca)”, – poniżej napis „Odznakę Honorową”, – poniżej napis „ZA ZASŁUGI W DZIAŁANIACH POZA GRANICAMI RZECZYPOSPOLITEJ POLSKIEJ”, – poniżej napis „mp.”, – poniżej napis „Minister Spraw Wewnętrznych i Administracji”, – poniżej miejsce na podpis i pieczęć organu przyznającego Odznakę Honorową.
 

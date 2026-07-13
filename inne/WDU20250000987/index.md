@@ -31,9 +31,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 10 listopada 2008 r.
 w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Poznaniu Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r.
 poz. 1112, 1881 i 1940) zarządza się, co następuje:
-§ 1. Regionalnej Dyrekcji Ochrony Środowiska w Poznaniu nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r.
-STATUT REGIONALNEJ DYREKCJI OCHRONY ŚRODOWISKA W POZNANIU
+
+**§ 1.** Regionalnej Dyrekcji Ochrony Środowiska w Poznaniu nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r. STATUT REGIONALNEJ DYREKCJI OCHRONY ŚRODOWISKA W POZNANIU
+
+## Załącznik
+
 § 1. Regionalna Dyrekcja Ochrony Środowiska w Poznaniu, zwana dalej „RDOŚ”, działa na podstawie ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. RDOŚ jest urzędem administracji rządowej, obsługującym Regionalnego Dyrektora Ochrony Środowiska w Poznaniu, zwanego dalej „Regionalnym Dyrektorem”.
 2. RDOŚ jest państwową jednostką budżetową, działającą na obszarze województwa wielkopolskiego.

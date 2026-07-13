@@ -27,10 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie postępowania o nadanie Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” Na podstawie art. 17 ust. 3 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
 z 2020 r. poz. 2055) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 5 lutego 2013 r. w sprawie postępowania o nadanie Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” (Dz. U. z 2017 r. poz. 1526 oraz z 2018 r. poz. 614) wprowadza się następujące zmiany:
-1) w § 3 ust. 3 otrzymuje brzmienie: „3. Wniosek o nadanie Odznaki jest kierowany przez wnioskodawcę nie później niż 60 dni przed planowanym terminem wręczenia Odznaki.”;
-2) w § 4 uchyla się ust. 1;
-3) w § 5 uchyla się ust. 3.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 5 lutego 2013 r. w sprawie postępowania o nadanie Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” (Dz. U. z 2017 r. poz. 1526 oraz z 2018 r. poz. 614) wprowadza się następujące zmiany:
+
+- **1)** w § 3 ust. 3 otrzymuje brzmienie: „3. Wniosek o nadanie Odznaki jest kierowany przez wnioskodawcę nie później niż 60 dni przed planowanym terminem wręczenia Odznaki.”;
+- **2)** w § 4 uchyla się ust. 1;
+- **3)** w § 5 uchyla się ust. 3.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

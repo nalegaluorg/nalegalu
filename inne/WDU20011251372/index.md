@@ -29,16 +29,43 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 26 marca 1982 r. o Trybunale Stanu (Dz.U. z 1993 r. Nr 38, poz. 172, z 1996 r. Nr 73, poz. 350 oraz z 1999 r. Nr 35, poz. 321) wprowadza się następujące zmiany:
 
-- **1)** art. 1-3 otrzymują brzmienie: „Art. 1. 1. Za naruszenie Konstytucji lub ustawy, w związku z zajmowanym stanowiskiem lub w zakresie swojego urzędowania, odpowiedzialność konstytucyjną przed Trybunałem Stanu ponoszą: 1) Prezydent Rzeczypospolitej Polskiej, 2) Prezes Rady Ministrów oraz członkowie Rady Ministrów, 3) Prezes Narodowego Banku Polskiego, 4) Prezes Najwyższej Izby Kontroli, 5) członkowie Krajowej Rady Radiofonii i Telewizji, 6) osoby, którym Prezes Rady Ministrów powierzył kierowanie ministerstwem, 7) Naczelny Dowódca Sił Zbrojnych. 2. W zakresie określonym w art. 107 Konstytucji odpowiedzialność przed Trybunałem Stanu ponoszą również posłowie i senatorowie. Art. 2. 1. Prezydent może być pociągnięty do odpowiedzialności przed Trybunałem Stanu za naruszenie Konstytucji, ustawy lub za popełnienie przestępstwa. 2. W okresie sprawowania urzędu Prezydenta nie biegnie przedawnienie odpowiedzialności karnej za te przestępstwa, za które osoba sprawująca ten urząd nie została postawiona w stan oskarżenia przed Trybunałem Stanu. 3. Przepisy ust. 1 i 2 stosuje się odpowiednio do Marszałka Sejmu i Marszałka Senatu, którzy tymczasowo wykonują obowiązki Prezydenta. 4. Członkowie Rady Ministrów ponoszą odpowiedzialność przed Trybunałem Stanu za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem. 5. Osoby, o których mowa w ust. 4, mogą być pociągnięte do odpowiedzialności karnej przed Trybunałem Stanu za przestępstwa popełnione w związku z zajmowanym stanowiskiem, jeżeli w uchwale Sejmu o pociągnięciu do odpowiedzialności konstytucyjnej tych osób łączne pociągnięcie do odpowiedzialności konstytucyjnej i karnej uznano za celowe. W takim przypadku Trybunał Stanu przejmuje do łącznego rozpoznania sprawę, która toczy się już przed sądem. Art. 3. Odpowiedzialność konstytucyjna obejmuje czyny, którymi osoby wymienione w art. 1 ust. 1, w związku z zajmowanym stanowiskiem lub w zakresie swojego urzędowania, chociażby nieumyślnie, naruszyły Konstytucję lub ustawę.”;
+- **1)** art. 1-3 otrzymują brzmienie:
+
+  > „Art. 1.  
+  > 1. Za naruszenie Konstytucji lub ustawy, w związku z zajmowanym stanowiskiem lub w zakresie swojego urzędowania, odpowiedzialność konstytucyjną przed Trybunałem Stanu ponoszą:  
+  > 1) Prezydent Rzeczypospolitej Polskiej, 2) Prezes Rady Ministrów oraz członkowie Rady Ministrów, 3) Prezes Narodowego Banku Polskiego, 4) Prezes Najwyższej Izby Kontroli, 5) członkowie Krajowej Rady Radiofonii i Telewizji, 6) osoby, którym Prezes Rady Ministrów powierzył kierowanie ministerstwem, 7) Naczelny Dowódca Sił Zbrojnych.  
+  > 2. W zakresie określonym w art. 107 Konstytucji odpowiedzialność przed Trybunałem Stanu ponoszą również posłowie i senatorowie.  
+  > Art. 2.  
+  > 1. Prezydent może być pociągnięty do odpowiedzialności przed Trybunałem Stanu za naruszenie Konstytucji, ustawy lub za popełnienie przestępstwa.  
+  > 2. W okresie sprawowania urzędu Prezydenta nie biegnie przedawnienie odpowiedzialności karnej za te przestępstwa, za które osoba sprawująca ten urząd nie została postawiona w stan oskarżenia przed Trybunałem Stanu.  
+  > 3. Przepisy ust. 1 i 2 stosuje się odpowiednio do Marszałka Sejmu i Marszałka Senatu, którzy tymczasowo wykonują obowiązki Prezydenta.  
+  > 4. Członkowie Rady Ministrów ponoszą odpowiedzialność przed Trybunałem Stanu za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem.  
+  > 5. Osoby, o których mowa w ust. 4, mogą być pociągnięte do odpowiedzialności karnej przed Trybunałem Stanu za przestępstwa popełnione w związku z zajmowanym stanowiskiem, jeżeli w uchwale Sejmu o pociągnięciu do odpowiedzialności konstytucyjnej tych osób łączne pociągnięcie do odpowiedzialności konstytucyjnej i karnej uznano za celowe. W takim przypadku Trybunał Stanu przejmuje do łącznego rozpoznania sprawę, która toczy się już przed sądem.  
+  > Art. 3. Odpowiedzialność konstytucyjna obejmuje czyny, którymi osoby wymienione w art. 1 ust. 1, w związku z zajmowanym stanowiskiem lub w zakresie swojego urzędowania, chociażby nieumyślnie, naruszyły Konstytucję lub ustawę.”;  
 - **2)** w art. 5 wyrazy „ust. 2” zastępuje się wyrazami „ust. 1”;
 - **3)** dodaje się art. 5a w brzmieniu: „Art. 5a. Prawo do pociągnięcia posła do odpowiedzialności konstytucyjnej przysługuje wyłącznie Sejmowi.”;
-- **4)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Wstępny wniosek o postawienie Prezydenta w stan oskarżenia może być złożony Marszałkowi Sejmu przez co najmniej 140 członków Zgromadzenia Narodowego. 2. Wstępny wniosek o pociągnięcie do odpowiedzialności konstytucyjnej osób, o których mowa w art. 1 ust. 1 pkt 2-7, może być złożony Marszałkowi Sejmu przez: 1) Prezydenta, 2) posłów, w liczbie co najmniej 115. 3. Wstępny wniosek o pociągnięcie do odpowiedzialności konstytucyjnej osób, o których mowa w art. 1 ust. 1 pkt 3-7, może być złożony Marszałkowi Sejmu również przez komisję śledczą powołaną na podstawie art. 111 Konstytucji. 4. Wstępny wniosek o pociągnięcie do odpowiedzialności konstytucyjnej posła może być złożony do Komisji Odpowiedzialności Konstytucyjnej przez Marszałka Sejmu. 5. Wstępny wniosek o postawienie w stan oskarżenia lub o pociągnięcie do odpowiedzialności konstytucyjnej musi spełniać warunki wymagane przez przepisy Kodeksu postępowania karnego w stosunku do aktu oskarżenia i zawierać podpisy wszystkich wnioskodawców, a także wskazywać osobę upoważnioną do występowania w imieniu wnioskodawców w dalszym postępowaniu przed organami Sejmu. 6. Jeżeli wstępny wniosek, o którym mowa w ust. 1-4, nie odpowiada warunkom określonym w ustawie, Marszałek Sejmu, w uzgodnieniu z Prezydium Sejmu, po zasięgnięciu opinii Komisji Odpowiedzialności Konstytucyjnej, wzywa reprezentanta wnioskodawców, o którym mowa w ust. 5, do uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres uzupełnienia. 7. W przypadku nieuzupełnienia wstępnego wniosku w terminie i w zakresie, o którym mowa w ust. 6, Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.”;
+- **4)** art. 6 otrzymuje brzmienie:
+
+  > „Art. 6.  
+  > 1. Wstępny wniosek o postawienie Prezydenta w stan oskarżenia może być złożony Marszałkowi Sejmu przez co najmniej 140 członków Zgromadzenia Narodowego.  
+  > 2. Wstępny wniosek o pociągnięcie do odpowiedzialności konstytucyjnej osób, o których mowa w art. 1 ust. 1 pkt 2-7, może być złożony Marszałkowi Sejmu przez:  
+  > 1) Prezydenta, 2) posłów, w liczbie co najmniej 115.  
+  > 3. Wstępny wniosek o pociągnięcie do odpowiedzialności konstytucyjnej osób, o których mowa w art. 1 ust. 1 pkt 3-7, może być złożony Marszałkowi Sejmu również przez komisję śledczą powołaną na podstawie art. 111 Konstytucji.  
+  > 4. Wstępny wniosek o pociągnięcie do odpowiedzialności konstytucyjnej posła może być złożony do Komisji Odpowiedzialności Konstytucyjnej przez Marszałka Sejmu.  
+  > 5. Wstępny wniosek o postawienie w stan oskarżenia lub o pociągnięcie do odpowiedzialności konstytucyjnej musi spełniać warunki wymagane przez przepisy Kodeksu postępowania karnego w stosunku do aktu oskarżenia i zawierać podpisy wszystkich wnioskodawców, a także wskazywać osobę upoważnioną do występowania w imieniu wnioskodawców w dalszym postępowaniu przed organami Sejmu.  
+  > 6. Jeżeli wstępny wniosek, o którym mowa w ust. 1-4, nie odpowiada warunkom określonym w ustawie, Marszałek Sejmu, w uzgodnieniu z Prezydium Sejmu, po zasięgnięciu opinii Komisji Odpowiedzialności Konstytucyjnej, wzywa reprezentanta wnioskodawców, o którym mowa w ust. 5, do uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres uzupełnienia.  
+  > 7. W przypadku nieuzupełnienia wstępnego wniosku w terminie i w zakresie, o którym mowa w ust. 6, Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.”;  
 - **5)** w art. 7 kropkę zastępuje się przecinkiem i dodaje się wyrazy „ która wszczyna postępowanie.”;
 - **6)** w art. 8 po wyrazie „przesyła” dodaje się wyraz „niezwłocznie”;
 - **7)** w art. 9:
     - **a)** w ust. 1 wyrazy „art. 21” zastępuje się wyrazami „art. 18 ust. 5”,
     - **b)** w ust. 4 wyrazy „art. 1 ust. 2 pkt 2-7” zastępuje się wyrazami „art. 1 ust. 1 pkt 2-7 i ust. 2”,
-    - **c)** dodaje się ust. 6-9 w brzmieniu: „6. Wnioski mniejszości mogą zawierać jedynie wnioski o umorzenie postępowania, postawienie w stan oskarżenia lub o pociągnięcie do odpowiedzialności konstytucyjnej. 7. Wnioski mniejszości do sprawozdań, o których mowa w ust. 3 i 4, zawierające wnioski o postawienie w stan oskarżenia lub o pociągnięcie do odpowiedzialności konstytucyjnej powinny spełniać warunki wymagane przez przepisy Kodeksu postępowania karnego w stosunku do aktu oskarżenia. 8. Jeżeli wnioski, o których mowa w ust. 5 i 6, nie odpowiadają warunkom określonym w ustawie, odpowiednio przewodniczący Zgromadzeniu Narodowemu albo Marszałek Sejmu, w uzgodnieniu z Prezydium Sejmu, wzywa wnioskodawców do ich uzupełnienia w terminie 14 dni, wskazując niezbędny zakres uzupełnienia wniosku. 9. W przypadku nieuzupełnienia wniosku w terminie i w zakresie, o których mowa w ust. 8, wniosek taki uznaje się za nieprzedstawiony przez Komisję Odpowiedzialności Konstytucyjnej.”;
+    - **c)** dodaje się ust. 6-9 w brzmieniu:
+
+      > „6. Wnioski mniejszości mogą zawierać jedynie wnioski o umorzenie postępowania, postawienie w stan oskarżenia lub o pociągnięcie do odpowiedzialności konstytucyjnej.  
+      > 7. Wnioski mniejszości do sprawozdań, o których mowa w ust. 3 i 4, zawierające wnioski o postawienie w stan oskarżenia lub o pociągnięcie do odpowiedzialności konstytucyjnej powinny spełniać warunki wymagane przez przepisy Kodeksu postępowania karnego w stosunku do aktu oskarżenia.  
+      > 8. Jeżeli wnioski, o których mowa w ust. 5 i 6, nie odpowiadają warunkom określonym w ustawie, odpowiednio przewodniczący Zgromadzeniu Narodowemu albo Marszałek Sejmu, w uzgodnieniu z Prezydium Sejmu, wzywa wnioskodawców do ich uzupełnienia w terminie 14 dni, wskazując niezbędny zakres uzupełnienia wniosku.  
+      > 9. W przypadku nieuzupełnienia wniosku w terminie i w zakresie, o których mowa w ust. 8, wniosek taki uznaje się za nieprzedstawiony przez Komisję Odpowiedzialności Konstytucyjnej.”;  
 
 - **8)** w art. 10:
     - **a)** w ust. 1 zdanie drugie skreśla się,
@@ -52,25 +79,80 @@ source: pdf
 
 - **10)** w art. 13:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Postawienie Prezydenta w stan oskarżenia może nastąpić uchwałą Zgromadzenia Narodowego, podjętą większością co najmniej 2/3 głosów ustawowej liczby członków Zgromadzenia Narodowego.”,
-    - **b)** dodaje się ust. 1a i 1b w brzmieniu: „1a. Uchwałę o pociągnięciu do odpowiedzialności konstytucyjnej osób, o których mowa w art. 1 ust. 1 pkt 3-7 oraz ust. 2, Sejm podejmuje bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów. 1b. Uchwałę o pociągnięciu do odpowiedzialności przed Trybunałem Stanu osób, o których mowa w art. 1 ust. 1 pkt 2, Sejm podejmuje większością 3/5 ustawowej liczby posłów.”,
-    - **c)** dodaje się ust. 2a i 2b w brzmieniu: „2a. Niezależnie od treści wniosku, o którym mowa w art. 9 ust. 3, Zgromadzenie Narodowe głosuje nad postawieniem Prezydenta w stan oskarżenia. 2b. Jeżeli Zgromadzenie Narodowe podjęło uchwałę o postawieniu Prezydenta w stan oskarżenia, a Komisja Odpowiedzialności Konstytucyjnej wnosiła o umorzenie postępowania wobec niego, nie przedstawiając w swoim sprawozdaniu wniosku mniejszości o postawienie w stan oskarżenia, to aktem oskarżenia jest uchwała o postawieniu w stan oskarżenia wraz z wnioskiem wstępnym o postawienie w stan oskarżenia. Akt oskarżenia przewodniczący Zgromadzeniu Narodowemu przesyła przewodniczącemu Trybunału Stanu.”,
-    - **d)** w ust. 3 wyrazy „art. 1 ust. 2 pkt 2-7 w trybie określonym w ust. 1” zastępuje się wyrazami „art. 1 ust. 1 pkt 2-7 i ust. 2 w trybie określonym w ust. 1a i 1b”,
-    - **e)** dodaje się ust. 3a i 3b w brzmieniu: „3a. Niezależnie od treści wniosku, o którym mowa w art. 9 ust. 4, Sejm głosuje nad pociągnięciem do odpowiedzialności konstytucyjnej osób, o których mowa w art. 1 ust. 1 pkt 2-7 i ust. 2. 3b. Jeżeli Sejm podjął uchwałę o pociągnięciu do odpowiedzialności konstytucyjnej osób, o których mowa w art. 1 ust. 1 pkt 2-7 i ust. 2, a Komisja Odpowiedzialności Konstytucyjnej wnosiła o umorzenie postępowania wobec nich, nie przedstawiając w swoim sprawozdaniu wniosku mniejszości o pociągnięcie do odpowiedzialności, to aktem oskarżenia jest uchwała o pociągnięciu do odpowiedzialności konstytucyjnej wraz z wnioskiem wstępnym o pociągnięcie do odpowiedzialności. Akt oskarżenia Marszałek Sejmu przesyła przewodniczącemu Trybunału Stanu.”;
+    - **b)** dodaje się ust. 1a i 1b w brzmieniu:
 
-- **11)** dodaje się art. 13a i 13b w brzmieniu: „Art. 13a. 1. Jeżeli po nadaniu biegu przez Marszałka Sejmu wnioskowi wstępnemu, a przed podjęciem przez Sejm uchwały o postawieniu w stan oskarżenia lub o pociągnięciu do odpowiedzialności konstytucyjnej albo przed stwierdzeniem umorzenia postępowania w sprawie upłynie kadencja Sejmu, postępowanie w danej sprawie toczy się nadal w Sejmie następnej kadencji. 2. W przypadku, o którym mowa w ust. 1, Marszałek Sejmu kieruje sprawę do Komisji Odpowiedzialności Konstytucyjnej. 3. Komisja Odpowiedzialności Konstytucyjnej nie jest związana uchwałami podjętymi przez komisję sejmową, która uprzednio rozpatrywała daną sprawę; w poczet materiału dowodowego zalicza się dowody zebrane w dotychczasowym postępowaniu. 4. Sejm nowej kadencji wybiera posłów oskarżycieli. Art. 13b. W przypadku zakończenia kadencji Sejmu postępowanie w sprawie odpowiedzialności posła, który nie uzyskał ponownie mandatu, określonej w art. 107 ust. 2 Konstytucji, ulega umorzeniu, które stwierdza Marszałek Sejmu nowej kadencji.”;
-- **12)** art. 15 i 16 otrzymują brzmienie: „Art. 15. 1. W skład Trybunału Stanu mogą być wybrani obywatele polscy korzystający z pełni praw publicznych, niekarani sądownie, niezatrudnieni w organach administracji rządowej. 2. Osoby wybrane w skład Trybunału Stanu składają przed Marszałkiem Sejmu przyrzeczenie sędziowskie. Art. 16. Sędziowie Trybunału Stanu sprawują swoje funkcje nieodpłatnie, z tym że zachowują prawo do diet i zwrotu poniesionych kosztów podróży.”;
+      > „1a. Uchwałę o pociągnięciu do odpowiedzialności konstytucyjnej osób, o których mowa w art. 1 ust. 1 pkt 3-7 oraz ust. 2, Sejm podejmuje bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów.  
+      > 1b. Uchwałę o pociągnięciu do odpowiedzialności przed Trybunałem Stanu osób, o których mowa w art. 1 ust. 1 pkt 2, Sejm podejmuje większością 3/5 ustawowej liczby posłów.”,  
+    - **c)** dodaje się ust. 2a i 2b w brzmieniu:
+
+      > „2a. Niezależnie od treści wniosku, o którym mowa w art. 9 ust. 3, Zgromadzenie Narodowe głosuje nad postawieniem Prezydenta w stan oskarżenia.  
+      > 2b. Jeżeli Zgromadzenie Narodowe podjęło uchwałę o postawieniu Prezydenta w stan oskarżenia, a Komisja Odpowiedzialności Konstytucyjnej wnosiła o umorzenie postępowania wobec niego, nie przedstawiając w swoim sprawozdaniu wniosku mniejszości o postawienie w stan oskarżenia, to aktem oskarżenia jest uchwała o postawieniu w stan oskarżenia wraz z wnioskiem wstępnym o postawienie w stan oskarżenia. Akt oskarżenia przewodniczący Zgromadzeniu Narodowemu przesyła przewodniczącemu Trybunału Stanu.”,  
+    - **d)** w ust. 3 wyrazy „art. 1 ust. 2 pkt 2-7 w trybie określonym w ust. 1” zastępuje się wyrazami „art. 1 ust. 1 pkt 2-7 i ust. 2 w trybie określonym w ust. 1a i 1b”,
+    - **e)** dodaje się ust. 3a i 3b w brzmieniu:
+
+      > „3a. Niezależnie od treści wniosku, o którym mowa w art. 9 ust. 4, Sejm głosuje nad pociągnięciem do odpowiedzialności konstytucyjnej osób, o których mowa w art. 1 ust. 1 pkt 2-7 i ust. 2.  
+      > 3b. Jeżeli Sejm podjął uchwałę o pociągnięciu do odpowiedzialności konstytucyjnej osób, o których mowa w art. 1 ust. 1 pkt 2-7 i ust. 2, a Komisja Odpowiedzialności Konstytucyjnej wnosiła o umorzenie postępowania wobec nich, nie przedstawiając w swoim sprawozdaniu wniosku mniejszości o pociągnięcie do odpowiedzialności, to aktem oskarżenia jest uchwała o pociągnięciu do odpowiedzialności konstytucyjnej wraz z wnioskiem wstępnym o pociągnięcie do odpowiedzialności. Akt oskarżenia Marszałek Sejmu przesyła przewodniczącemu Trybunału Stanu.”;  
+
+- **11)** dodaje się art. 13a i 13b w brzmieniu:
+
+  > „Art. 13a.  
+  > 1. Jeżeli po nadaniu biegu przez Marszałka Sejmu wnioskowi wstępnemu, a przed podjęciem przez Sejm uchwały o postawieniu w stan oskarżenia lub o pociągnięciu do odpowiedzialności konstytucyjnej albo przed stwierdzeniem umorzenia postępowania w sprawie upłynie kadencja Sejmu, postępowanie w danej sprawie toczy się nadal w Sejmie następnej kadencji.  
+  > 2. W przypadku, o którym mowa w ust. 1, Marszałek Sejmu kieruje sprawę do Komisji Odpowiedzialności Konstytucyjnej.  
+  > 3. Komisja Odpowiedzialności Konstytucyjnej nie jest związana uchwałami podjętymi przez komisję sejmową, która uprzednio rozpatrywała daną sprawę; w poczet materiału dowodowego zalicza się dowody zebrane w dotychczasowym postępowaniu.  
+  > 4. Sejm nowej kadencji wybiera posłów oskarżycieli.  
+  > Art. 13b. W przypadku zakończenia kadencji Sejmu postępowanie w sprawie odpowiedzialności posła, który nie uzyskał ponownie mandatu, określonej w art. 107 ust. 2 Konstytucji, ulega umorzeniu, które stwierdza Marszałek Sejmu nowej kadencji.”;  
+- **12)** art. 15 i 16 otrzymują brzmienie:
+
+  > „Art. 15.  
+  > 1. W skład Trybunału Stanu mogą być wybrani obywatele polscy korzystający z pełni praw publicznych, niekarani sądownie, niezatrudnieni w organach administracji rządowej.  
+  > 2. Osoby wybrane w skład Trybunału Stanu składają przed Marszałkiem Sejmu przyrzeczenie sędziowskie.  
+  > Art. 16. Sędziowie Trybunału Stanu sprawują swoje funkcje nieodpłatnie, z tym że zachowują prawo do diet i zwrotu poniesionych kosztów podróży.”;  
 - **13)** w art. 17 w ust. 2 wyrazy „więcej niż trzech członków Trybunału Stanu lub ich zastępców” zastępuje się wyrazami „członka Trybunału Stanu”;
-- **14)** art. 18-20 otrzymują brzmienie: „Art. 18. 1. Trybunał Stanu jest sądem pierwszej instancji oraz sądem drugiej instancji. 2. W postępowaniu przed Trybunałem Stanu oraz Komisją Odpowiedzialności Konstytucyjnej stosuje się odpowiednio przepisy Kodeksu postępowania karnego, chyba że niniejsza ustawa stanowi inaczej. 3. W postępowaniu przed Trybunałem Stanu powództwo cywilne jest niedopuszczalne. 4. W warunkach określonych w art. 2 Trybunał Stanu może zlecić Prokuratorowi Generalnemu przeprowadzenie w określonym zakresie postępowania co do czynu wypełniającego znamiona przestępstwa. 5. W postępowaniu przed Trybunałem Stanu oskarżeni, świadkowie i biegli zwolnieni są od obowiązku zachowania tajemnicy służbowej i państwowej. Art. 19. 1. W pierwszej instancji Trybunał Stanu orzeka w składzie: przewodniczący i 4 członków. 2. W drugiej instancji Trybunał Stanu orzeka w składzie: przewodniczący i 6 członków, z wyłączeniem sędziów, którzy uczestniczyli w rozpatrzeniu sprawy w pierwszej instancji. 3. W sprawach pytań prawnych orzeka cały skład Trybunału Stanu, z wyłączeniem sędziów, którzy w danej sprawie uczestniczyli w orzekaniu w pierwszej instancji. 4. Poza rozprawą Trybunał Stanu orzeka w składzie: przewodniczący i 2 członków. Art. 20. 1. Trybunał Stanu rozpatruje sprawę w granicach określonych w akcie oskarżenia. 2. Oskarżyciel nie może zarzucić oskarżonemu innych czynów niż objęte aktem oskarżenia. 3. Trybunał Stanu nie może przekazać sprawy Zgromadzeniu Narodowemu, Sejmowi albo Senatowi w celu uzupełnienia lub rozszerzenia przeprowadzonego postępowania.”;
-- **15)** dodaje się art. 20a-20e w brzmieniu: „Art. 20a. W postępowaniu przed Trybunałem Stanu udział obrońcy jest konieczny. Art. 20b. Wykluczenie jawności rozprawy przed Trybunałem Stanu może uzasadnić wyłącznie wzgląd na bezpieczeństwo państwa lub tajemnicę państwową. Art. 20c. 1. Termin do wniesienia apelacji wynosi 30 dni i biegnie dla każdego uprawnionego od daty doręczenia mu odpisu wyroku z uzasadnieniem. 2. Termin do wniesienia zażalenia wynosi 14 dni. 3. Od wyroku Trybunału Stanu wydanego w drugiej instancji kasacja nie przysługuje. Art. 20d. Umorzenie albo warunkowe umorzenie postępowania przed Trybunałem Stanu może nastąpić jedynie na rozprawie. Art. 20e. Obsługę kancelaryjną Trybunału Stanu zapewnia Sąd Najwyższy.”;
+- **14)** art. 18-20 otrzymują brzmienie:
+
+  > „Art. 18.  
+  > 1. Trybunał Stanu jest sądem pierwszej instancji oraz sądem drugiej instancji.  
+  > 2. W postępowaniu przed Trybunałem Stanu oraz Komisją Odpowiedzialności Konstytucyjnej stosuje się odpowiednio przepisy Kodeksu postępowania karnego, chyba że niniejsza ustawa stanowi inaczej.  
+  > 3. W postępowaniu przed Trybunałem Stanu powództwo cywilne jest niedopuszczalne.  
+  > 4. W warunkach określonych w art. 2 Trybunał Stanu może zlecić Prokuratorowi Generalnemu przeprowadzenie w określonym zakresie postępowania co do czynu wypełniającego znamiona przestępstwa.  
+  > 5. W postępowaniu przed Trybunałem Stanu oskarżeni, świadkowie i biegli zwolnieni są od obowiązku zachowania tajemnicy służbowej i państwowej.  
+  > Art. 19.  
+  > 1. W pierwszej instancji Trybunał Stanu orzeka w składzie: przewodniczący i 4 członków.  
+  > 2. W drugiej instancji Trybunał Stanu orzeka w składzie: przewodniczący i 6 członków, z wyłączeniem sędziów, którzy uczestniczyli w rozpatrzeniu sprawy w pierwszej instancji.  
+  > 3. W sprawach pytań prawnych orzeka cały skład Trybunału Stanu, z wyłączeniem sędziów, którzy w danej sprawie uczestniczyli w orzekaniu w pierwszej instancji.  
+  > 4. Poza rozprawą Trybunał Stanu orzeka w składzie: przewodniczący i 2 członków.  
+  > Art. 20.  
+  > 1. Trybunał Stanu rozpatruje sprawę w granicach określonych w akcie oskarżenia.  
+  > 2. Oskarżyciel nie może zarzucić oskarżonemu innych czynów niż objęte aktem oskarżenia.  
+  > 3. Trybunał Stanu nie może przekazać sprawy Zgromadzeniu Narodowemu, Sejmowi albo Senatowi w celu uzupełnienia lub rozszerzenia przeprowadzonego postępowania.”;  
+- **15)** dodaje się art. 20a-20e w brzmieniu:
+
+  > „Art. 20a. W postępowaniu przed Trybunałem Stanu udział obrońcy jest konieczny.  
+  > Art. 20b. Wykluczenie jawności rozprawy przed Trybunałem Stanu może uzasadnić wyłącznie wzgląd na bezpieczeństwo państwa lub tajemnicę państwową.  
+  > Art. 20c.  
+  > 1. Termin do wniesienia apelacji wynosi 30 dni i biegnie dla każdego uprawnionego od daty doręczenia mu odpisu wyroku z uzasadnieniem.  
+  > 2. Termin do wniesienia zażalenia wynosi 14 dni.  
+  > 3. Od wyroku Trybunału Stanu wydanego w drugiej instancji kasacja nie przysługuje.  
+  > Art. 20d. Umorzenie albo warunkowe umorzenie postępowania przed Trybunałem Stanu może nastąpić jedynie na rozprawie.  
+  > Art. 20e. Obsługę kancelaryjną Trybunału Stanu zapewnia Sąd Najwyższy.”;  
 - **16)** art. 21 i art. 22 skreśla się;
 - **17)** art. 24 skreśla się;
 - **18)** w art. 25:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Za czyny określone w art. 3, o ile nie wypełniają znamion przestępstwa, Trybunał Stanu wymierza łącznie lub osobno następujące kary: 1) utratę czynnego i biernego prawa wyborczego na urząd Prezydenta, do Sejmu, do Senatu oraz do organów stanowiących jednostek samorządu terytorialnego, 2) zakaz zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością w organach państwowych i w organizacjach społecznych, 3) utratę wszystkich lub niektórych orderów, odznaczeń i tytułów honorowych oraz utratę zdolności do ich uzyskania.”,
+    - **a)** ust. 1 otrzymuje brzmienie:
+
+      > „1. Za czyny określone w art. 3, o ile nie wypełniają znamion przestępstwa, Trybunał Stanu wymierza łącznie lub osobno następujące kary:  
+      > 1) utratę czynnego i biernego prawa wyborczego na urząd Prezydenta, do Sejmu, do Senatu oraz do organów stanowiących jednostek samorządu terytorialnego, 2) zakaz zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością w organach państwowych i w organizacjach społecznych, 3) utratę wszystkich lub niektórych orderów, odznaczeń i tytułów honorowych oraz utratę zdolności do ich uzyskania.”,  
     - **b)** dodaje się ust. 1a w brzmieniu: „1a. Za naruszenie zakazów, o których mowa w art. 107 ust. 1 Konstytucji, Trybunał Stanu orzeka pozbawienie mandatu poselskiego.”,
     - **c)** w ust. 2 wyrazy „ , z tym że kara, o której mowa w ust. 1 pkt 2, może być orzekana na stałe” skreśla się,
-    - **d)** ust. 3 i 4 otrzymują brzmienie: „3. W razie uznania przez Trybunał Stanu chociażby nieumyślnego popełnienia czynów określonych w art. 2 ust. 1 i art. 3 Trybunał orzeka odpowiednio w odniesieniu do Prezydenta - złożenie z urzędu, a w odniesieniu do pozostałych osób, z zastrzeżeniem ust. 1a - utratę zajmowanego stanowiska, z którego pełnieniem związana jest odpowiedzialność konstytucyjna. 4. Trybunał Stanu z uwagi na znikomy stopień społecznej szkodliwości czynu lub szczególne okoliczności sprawy może poprzestać na uznaniu winy oskarżonego.”;
+    - **d)** ust. 3 i 4 otrzymują brzmienie:
 
-- **19)** dodaje się art. 26a i 26b w brzmieniu: „Art. 26a. Jeżeli po rozpoczęciu rozprawy, a przed wydaniem wyroku, zostanie wybrany nowy skład Trybunału Stanu, rozprawę w danej instancji prowadzi od początku Trybunał Stanu w nowym składzie. Art. 26b. W zakresie odpowiedzialności konstytucyjnej senatorów stosuje się odpowiednio przepisy ustawy odnoszące się do odpowiedzialności konstytucyjnej posłów. W tym zakresie kompetencje Sejmu i jego organów przysługują odpowiednio Senatowi i jego organom.”;
+      > „3. W razie uznania przez Trybunał Stanu chociażby nieumyślnego popełnienia czynów określonych w art. 2 ust. 1 i art. 3 Trybunał orzeka odpowiednio w odniesieniu do Prezydenta - złożenie z urzędu, a w odniesieniu do pozostałych osób, z zastrzeżeniem ust. 1a - utratę zajmowanego stanowiska, z którego pełnieniem związana jest odpowiedzialność konstytucyjna.  
+      > 4. Trybunał Stanu z uwagi na znikomy stopień społecznej szkodliwości czynu lub szczególne okoliczności sprawy może poprzestać na uznaniu winy oskarżonego.”;  
+
+- **19)** dodaje się art. 26a i 26b w brzmieniu:
+
+  > „Art. 26a. Jeżeli po rozpoczęciu rozprawy, a przed wydaniem wyroku, zostanie wybrany nowy skład Trybunału Stanu, rozprawę w danej instancji prowadzi od początku Trybunał Stanu w nowym składzie.  
+  > Art. 26b. W zakresie odpowiedzialności konstytucyjnej senatorów stosuje się odpowiednio przepisy ustawy odnoszące się do odpowiedzialności konstytucyjnej posłów. W tym zakresie kompetencje Sejmu i jego organów przysługują odpowiednio Senatowi i jego organom.”;  
 - **20)** w art. 28 zdanie drugie otrzymuje brzmienie: „Jeżeli czyn uprzednio popełniony polegał na chociażby nieumyślnym naruszeniu Konstytucji lub ustawy, Trybunał Stanu ogranicza się do stwierdzenia dokonanych naruszeń prawa.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

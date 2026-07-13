@@ -705,3 +705,18 @@ source: pdf
 
 **Art. 47.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 
+## Załącznik
+
+DOPUSZCZALNE POZIOMY HAŁASU DLA TERENÓW ZAMKNIĘTYCH, O KTÓRYCH MOWA W ART. 3 UST. 1 USTAWY Z DNIA 25 LIPCA 2025 R. O SZCZEGÓLNYCH ZASADACH PRZYGOTOWANIA I REALIZACJI STRATEGICZNYCH INWESTYCJI W ZAKRESIE POTRZEB OBRONNOŚCI PAŃSTWA LUB KLUCZOWYCH INWESTYCJI W ZAKRESIE POTRZEB OBRONNOŚCI PAŃSTWA LUB BEZPIECZEŃSTWA PUBLICZNEGO ORAZ USTANAWIANIA STREF OCHRONNYCH TERENÓW ZAMKNIĘTYCH Dopuszczalny poziom hałasu w [dB] dla terenów zamkniętych ustalonych przez Ministra Obrony Narodowej lub ministra właściwego do spraw aktywów państwowych Lp. Rodzaj terenu L L L L przedział czasu przedział czasu przedział czasu przedział czasu odniesienia odniesienia odniesienia odniesienia równy równy równy równy 16 godzinom 8 godzinom 16 godzinom 8 godzinom
+a) Strefa ochronna „A” uzdrowiska 1 50 45 50 45
+b) Tereny szpitali poza miastem
+a) Tereny zabudowy mieszkaniowej jednorodzinnej
+b) Tereny zabudowy związane ze stałym lub czasowym poby2 tem dzieci 61 56 64 59 i młodzieży
+c) Tereny domów opieki społecznej
+d) Tereny szpitali w miastach
+a) Tereny zabudowy mieszkaniowej wielorodzinnej i zamieszkania zbiorowego
+b) Tereny zabudowy 3 zagrodowej 65 56 68 59
+c) Tereny rekreacyjno-wypoczynkowe
+d) Tereny mieszkaniowo-usługowe Tereny w strefie 4 śródmiejskiej miast 68 60 70 65 powyżej 100 tys.
+mieszkańców
+

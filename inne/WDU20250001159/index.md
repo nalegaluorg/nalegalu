@@ -45,7 +45,10 @@ source: pdf
     - **b)** po ust. 2b dodaje się ust. 2c w brzmieniu: „2c. Zasiłek pogrzebowy wypłaca się w całości lub w części, zgodnie z wnioskiem, upoważnionemu przez osobę uprawnioną zakładowi pogrzebowemu, o którym mowa w art. 116 ust. 3a, w formie bezgotówkowej na wskazany w upoważnieniu rachunek płatniczy tego zakładu pogrzebowego prowadzony w kraju lub wydany w kraju zakładowi pogrzebowemu instrument płatniczy w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.”;
 
 - **6)** w art. 138 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Za nienależnie pobrane świadczenia w rozumieniu ust. 1 uważa się również zasiłek pogrzebowy wypłacony z przyczyn niezależnych od organu rentowego osobie nieuprawnionej.”;
-- **7)** w art. 144 ust. 1 otrzymuje brzmienie: „1. Od osób nieuprawnionych do pobierania świadczeń określonych w ustawie kwoty nienależnie pobranych świadczeń, o których mowa w: 1) art. 138 ust. 2 i 3, ustalone prawomocną decyzją organu rentowego, 2) art. 138 ust. 3a – podlegają potrąceniu z innych świadczeń wypłacanych przez Zakład, a jeżeli prawo do świadczeń nie istnieje, zostało zawieszone bądź dokonanie potrącenia ze świadczenia nie jest możliwe – ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji lub egzekucji sądowej.”.
+- **7)** w art. 144 ust. 1 otrzymuje brzmienie:
+
+  > „1. Od osób nieuprawnionych do pobierania świadczeń określonych w ustawie kwoty nienależnie pobranych świadczeń, o których mowa w:  
+  > 1) art. 138 ust. 2 i 3, ustalone prawomocną decyzją organu rentowego, 2) art. 138 ust. 3a – podlegają potrąceniu z innych świadczeń wypłacanych przez Zakład, a jeżeli prawo do świadczeń nie istnieje, zostało zawieszone bądź dokonanie potrącenia ze świadczenia nie jest możliwe – ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji lub egzekucji sądowej.”.  
 
 **Art. 2.** Do postępowań w sprawie zasiłku pogrzebowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

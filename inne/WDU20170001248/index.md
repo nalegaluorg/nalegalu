@@ -27,9 +27,12 @@ source: pdf
 
 w sprawie minimalnej łącznej wartości zakupów, przy której podróżny może żądać zwrotu podatku od towarów i usług Na podstawie art. 130 ust. 3 pkt 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r.
 poz. 1221) zarządza się, co następuje:
-§ 1. Minimalna łączna wartość zakupów wraz z podatkiem od towarów i usług, wynikająca z dokumentu wystawionego przez sprzedawcę, przy której podróżny może żądać zwrotu podatku od towarów i usług zapłaconego przy nabyciu przez niego towarów, wynosi 200 zł.
-§ 2. Przepis § 1 stosuje się do zakupów dokonanych przez podróżnego od dnia wejścia w życie rozporządzenia.
-§ 3. Traci moc rozporządzenie Ministra Finansów z dnia 1 kwietnia 2016 r. w sprawie minimalnej łącznej wartości zakupów, przy której podróżny może żądać zwrotu podatku od towarów i usług (Dz. U. poz. 500).
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** Minimalna łączna wartość zakupów wraz z podatkiem od towarów i usług, wynikająca z dokumentu wystawionego przez sprzedawcę, przy której podróżny może żądać zwrotu podatku od towarów i usług zapłaconego przy nabyciu przez niego towarów, wynosi 200 zł.
+
+**§ 2.** Przepis § 1 stosuje się do zakupów dokonanych przez podróżnego od dnia wejścia w życie rozporządzenia.
+
+**§ 3.** Traci moc rozporządzenie Ministra Finansów z dnia 1 kwietnia 2016 r. w sprawie minimalnej łącznej wartości zakupów, przy której podróżny może żądać zwrotu podatku od towarów i usług (Dz. U. poz. 500).
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2017 r. Minister Rozwoju i Finansów: wz. W. Janczyk
 

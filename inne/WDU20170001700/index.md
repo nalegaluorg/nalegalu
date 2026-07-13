@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie warunków oraz trybu udostępniania danych przechowywanych w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów Na podstawie art. 16 ust. 3 ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2015 r. poz. 807 i 1419, z 2016 r.
 poz. 1605 oraz z 2017 r. poz. 5 i 624) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 stycznia 2004 r. w sprawie warunków oraz trybu udostępniania danych przechowywanych w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów (Dz. U. poz. 90 oraz z 2016 r. poz. 1003) użyte w § 3a w ust. 1 we wprowadzeniu do wyliczenia oraz w pkt 2 we wprowadzeniu do wyliczenia i lit. d, w różnym przypadku, wyrazy „Agencja Nieruchomości Rolnych” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 stycznia 2004 r. w sprawie warunków oraz trybu udostępniania danych przechowywanych w rejestrach i ewidencjach prowadzonych na podstawie odrębnych przepisów (Dz. U. poz. 90 oraz z 2016 r. poz. 1003) użyte w § 3a w ust. 1 we wprowadzeniu do wyliczenia oraz w pkt 2 we wprowadzeniu do wyliczenia i lit. d, w różnym przypadku, wyrazy „Agencja Nieruchomości Rolnych” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

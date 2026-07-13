@@ -40,7 +40,10 @@ source: pdf
     - **b)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Niezwłocznie po zakończeniu oględzin dzierżawca albo zarządca obwodu łowieckiego sporządza protokół, który zawiera w szczególności następujące dane i informacje:”;
 
 - **4)** w art. 46c:
-    - **a)** ust. 3 i 4 otrzymują brzmienie: „3. O terminie planowanego sprzętu uszkodzonej uprawy właściciel albo posiadacz gruntów rolnych jest obowiązany powiadomić dzierżawcę albo zarządcę obwodu łowieckiego, w formie pisemnej, w terminie 7 dni przed zamierzonym sprzętem. 4. O terminie dokonania szacowania ostatecznego szkody dzierżawca albo zarządca obwodu łowieckiego zawiadamia właściciela albo posiadacza gruntów rolnych oraz wojewódzki ośrodek doradztwa rolniczego właściwy ze względu na miejsce wystąpienia szkody, nie później niż przed upływem 3 dni od dnia otrzymania powiadomienia, o którym mowa w ust. 3, a w przypadkach, o których mowa w art. 46 ust. 7 – w terminie 3 dni od dnia otrzymania wniosku, o którym mowa w art. 46 ust. 3.”,
+    - **a)** ust. 3 i 4 otrzymują brzmienie:
+
+      > „3. O terminie planowanego sprzętu uszkodzonej uprawy właściciel albo posiadacz gruntów rolnych jest obowiązany powiadomić dzierżawcę albo zarządcę obwodu łowieckiego, w formie pisemnej, w terminie 7 dni przed zamierzonym sprzętem.  
+      > 4. O terminie dokonania szacowania ostatecznego szkody dzierżawca albo zarządca obwodu łowieckiego zawiadamia właściciela albo posiadacza gruntów rolnych oraz wojewódzki ośrodek doradztwa rolniczego właściwy ze względu na miejsce wystąpienia szkody, nie później niż przed upływem 3 dni od dnia otrzymania powiadomienia, o którym mowa w ust. 3, a w przypadkach, o których mowa w art. 46 ust. 7 – w terminie 3 dni od dnia otrzymania wniosku, o którym mowa w art. 46 ust. 3.”,  
     - **b)** w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Niezwłocznie po zakończeniu szacowania ostatecznego dzierżawca albo zarządca obwodu łowieckiego sporządza protokół, który zawiera w szczególności następujące dane i informacje:”,
     - **c)** ust. 8 otrzymuje brzmienie: „8. Wypłaty odszkodowania dokonuje dzierżawca albo zarządca obwodu łowieckiego w terminie 30 dni od dnia sporządzenia protokołu z szacowania ostatecznego, od którego nie wniesiono odwołania.”;
 

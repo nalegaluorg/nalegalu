@@ -48,7 +48,11 @@ source: pdf
     - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) spełnia wymagania zawarte w międzynarodowym standardzie wymagań dla laboratoriów określonym przez Światową Agencję Antydopingową;”,
     - **b)** w ust. 2 pkt 3 otrzymuje brzmienie: „3) zaprzestania spełniania jednego z wymagań, o których mowa w ust. 1 pkt 1 i 7–10;”;
 
-- **11)** art. 47v otrzymuje brzmienie: „Art. 47v. 1. Laboratorium w zakresie, w jakim prowadzi analizy antydopingowe próbek fizjologicznych zawodników, stosuje standardy i dokumenty międzynarodowe określone przez Światową Agencję Antydopingową. 2. Laboratorium prowadzi działania związane z zapewnieniem prawidłowych wyników analitycznych, stosownie do standardów i dokumentów międzynarodowych określonych przez Światową Agencję Antydopingową.”.
+- **11)** art. 47v otrzymuje brzmienie:
+
+  > „Art. 47v.  
+  > 1. Laboratorium w zakresie, w jakim prowadzi analizy antydopingowe próbek fizjologicznych zawodników, stosuje standardy i dokumenty międzynarodowe określone przez Światową Agencję Antydopingową.  
+  > 2. Laboratorium prowadzi działania związane z zapewnieniem prawidłowych wyników analitycznych, stosownie do standardów i dokumentów międzynarodowych określonych przez Światową Agencję Antydopingową.”.  
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem art. 1 pkt 7, który wchodzi w życie z dniem 2 stycznia 2021 r.
 

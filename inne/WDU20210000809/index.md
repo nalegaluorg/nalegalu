@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 Na podstawie art. 433a ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r.
 poz. 478 i 619) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 16 października 2020 r. w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 1828 oraz z 2021 r. poz. 357) w § 1 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „30 kwietnia 2021 r.” zastępuje się wyrazami „30 czerwca 2021 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2021 r.
-Minister Obrony Narodowej: z up. W. Skurkiewicz
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 16 października 2020 r. w sprawie czasowego ograniczenia funkcjonowania uczelni wojskowych nadzorowanych przez Ministra Obrony Narodowej w związku z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 1828 oraz z 2021 r. poz. 357) w § 1 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „30 kwietnia 2021 r.” zastępuje się wyrazami „30 czerwca 2021 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2021 r. Minister Obrony Narodowej: z up. W. Skurkiewicz
 

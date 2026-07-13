@@ -28,8 +28,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Służby Celno-Skarbowej Na podstawie art. 189 ust. 20 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r.
 poz. 1131) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 22 lutego 2018 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 444) po § 8 dodaje się § 8a w brzmieniu: „§ 8a. Do czasu służby wlicza się także przypadający poza wyznaczonymi godzinami rozpoczęcia i zakończenia służby czas podróży służbowej, w którym funkcjonariusz posiada broń służbową, z wyłączeniem okresów realizowania prawa do wypoczynku.”.
-§ 2. Do wliczania do czasu służby funkcjonariuszy Służby Celno-Skarbowej czasu podróży służbowych rozpoczętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów i Gospodarki: A. Domański
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 22 lutego 2018 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 444) po § 8 dodaje się § 8a w brzmieniu: „§ 8a. Do czasu służby wlicza się także przypadający poza wyznaczonymi godzinami rozpoczęcia i zakończenia służby czas podróży służbowej, w którym funkcjonariusz posiada broń służbową, z wyłączeniem okresów realizowania prawa do wypoczynku.”.
+
+**§ 2.** Do wliczania do czasu służby funkcjonariuszy Służby Celno-Skarbowej czasu podróży służbowych rozpoczętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów i Gospodarki: A. Domański
 

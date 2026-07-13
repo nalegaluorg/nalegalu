@@ -30,7 +30,10 @@ source: pdf
 **Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2020 r. poz. 176) wprowadza się następujące zmiany:
 
 - **1)** w art. 1:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Przepisy ustawy stosuje się w szczególności do: 1) bezdomnych realizujących indywidualny program wychodzenia z bezdomności, w rozumieniu przepisów o pomocy społecznej, 2) uzależnionych od alkoholu, 3) uzależnionych od narkotyków lub innych środków odurzających, 4) osób z zaburzeniami psychicznymi, w rozumieniu przepisów o ochronie zdrowia psychicznego, 5) długotrwale bezrobotnych w rozumieniu przepisów o promocji zatrudnienia i instytucjach rynku pracy, 6) zwalnianych z zakładów karnych, mających trudności w integracji ze środowiskiem, w rozumieniu przepisów o pomocy społecznej, 7) uchodźców realizujących indywidualny program integracji, w rozumieniu przepisów o pomocy społecznej, 8) osób niepełnosprawnych, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych – którzy podlegają wykluczeniu społecznemu i ze względu na swoją sytuację życiową nie są w stanie własnym staraniem zaspokoić swoich podstawowych potrzeb życiowych i znajdują się w sytuacji uniemożliwiającej lub ograniczającej uczestnictwo w życiu zawodowym, społecznym i rodzinnym.”,
+    - **a)** ust. 2 otrzymuje brzmienie:
+
+      > „2. Przepisy ustawy stosuje się w szczególności do:  
+      > 1) bezdomnych realizujących indywidualny program wychodzenia z bezdomności, w rozumieniu przepisów o pomocy społecznej, 2) uzależnionych od alkoholu, 3) uzależnionych od narkotyków lub innych środków odurzających, 4) osób z zaburzeniami psychicznymi, w rozumieniu przepisów o ochronie zdrowia psychicznego, 5) długotrwale bezrobotnych w rozumieniu przepisów o promocji zatrudnienia i instytucjach rynku pracy, 6) zwalnianych z zakładów karnych, mających trudności w integracji ze środowiskiem, w rozumieniu przepisów o pomocy społecznej, 7) uchodźców realizujących indywidualny program integracji, w rozumieniu przepisów o pomocy społecznej, 8) osób niepełnosprawnych, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych – którzy podlegają wykluczeniu społecznemu i ze względu na swoją sytuację życiową nie są w stanie własnym staraniem zaspokoić swoich podstawowych potrzeb życiowych i znajdują się w sytuacji uniemożliwiającej lub ograniczającej uczestnictwo w życiu zawodowym, społecznym i rodzinnym.”,  
     - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Osoby, o których mowa w ust. 3 pkt 6, mogą uczestniczyć w zajęciach prowadzonych przez kluby integracji społecznej na zasadach określonych w art. 18 ust. 3–5a.”;
 
 - **2)** w art. 3:
@@ -48,7 +51,13 @@ source: pdf
     - **a)** ust. 5a otrzymuje brzmienie: „5a. Rejestr obejmuje dane wymienione w art. 4 ust. 2 pkt 1–2a i 4 oraz datę nadania lub przedłużenia statusu Centrum.”,
     - **b)** po ust. 5a dodaje się ust. 5b w brzmieniu: „5b. Rejestr, o którym mowa w ust. 5, jest udostępniany w postaci elektronicznej na stronie podmiotowej urzędu obsługującego wojewodę.”;
 
-- **5)** po art. 5a dodaje się art. 5b w brzmieniu: „Art. 5b. 1. Wojewoda sprawuje nadzór nad działalnością Centrum w zakresie prawidłowości realizacji reintegracji zawodowej i społecznej, zgodności działalności prowadzonej przez Centrum z wymaganiami stanowiącymi podstawę przyznania statusu Centrum wynikającymi z art. 4 oraz w zakresie wypełniania obowiązku określonego w art. 5 ust. 4 pkt 2. 2. W ramach sprawowanego nadzoru, o którym mowa w ust. 1, wojewoda ma prawo: 1) żądać od Centrum wyjaśnień; Centrum jest obowiązane do ich przedłożenia w wyznaczonym terminie, nie krótszym niż 14 dni od dnia otrzymania wezwania do złożenia wyjaśnień; 2) w przypadku stwierdzenia nieprawidłowości w funkcjonowaniu Centrum – wezwać Centrum do ich zaniechania lub usunięcia w wyznaczonym terminie, nie krótszym niż 30 dni od dnia otrzymania wezwania.”;
+- **5)** po art. 5a dodaje się art. 5b w brzmieniu:
+
+  > „Art. 5b.  
+  > 1. Wojewoda sprawuje nadzór nad działalnością Centrum w zakresie prawidłowości realizacji reintegracji zawodowej i społecznej, zgodności działalności prowadzonej przez Centrum z wymaganiami stanowiącymi podstawę przyznania statusu Centrum wynikającymi z art. 4 oraz w zakresie wypełniania obowiązku określonego w art. 5 ust. 4 pkt 2.  
+  > 2. W ramach sprawowanego nadzoru, o którym mowa w ust. 1, wojewoda ma prawo:  
+  > 1) żądać od Centrum wyjaśnień; Centrum jest obowiązane do ich przedłożenia w wyznaczonym terminie, nie krótszym niż 14 dni od dnia otrzymania wezwania do złożenia wyjaśnień;  
+  > 2) w przypadku stwierdzenia nieprawidłowości w funkcjonowaniu Centrum – wezwać Centrum do ich zaniechania lub usunięcia w wyznaczonym terminie, nie krótszym niż 30 dni od dnia otrzymania wezwania.”;  
 - **6)** w art. 6:
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wojewoda wydaje decyzję o utracie statusu Centrum również po bezskutecznym upływie terminów, o których mowa w art. 5b ust. 2, lub na wniosek instytucji tworzącej.”,
     - **b)** w ust. 4 w zdaniu pierwszym po wyrazach „organizacją pozarządową” dodaje się wyrazy „lub podmiotami, o których mowa w art. 3 ust. 3 pkt 1 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie”;
@@ -90,11 +99,23 @@ source: pdf
     - **b)** w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) z dotacji z budżetu państwa pochodzących z resortowych programów na rzecz rozwoju Centrów i klubów integracji społecznej, o których mowa w art. 18ca.”;
 
 - **16)** w art. 18a:
-    - **a)** ust. 6 otrzymuje brzmienie: „6. Klub integracji społecznej przedstawia wojewodzie corocznie, nie później niż do dnia 31 marca, sprawozdanie zawierające informacje dotyczące: 1) zatrudnionych pracowników, w tym: a) ich liczby, b) wymiaru czasu pracy i podstawy zatrudnienia; 2) osób uczestniczących w klubie integracji społecznej, z uwzględnieniem podziału na grupy osób, o których mowa w art. 1 ust. 2, w tym: a) ich liczby, b) liczby osób, które osiągnęły efekty reintegracji społecznej i zawodowej, w tym uzyskały zatrudnienie po ukończeniu uczestnictwa w klubie integracji społecznej; 3) zrealizowanych działań z zakresu reintegracji społecznej i zawodowej wraz z ich efektami; 4) rozliczenia przyznanych dotacji za rok poprzedni.”,
+    - **a)** ust. 6 otrzymuje brzmienie:
+
+      > „6. Klub integracji społecznej przedstawia wojewodzie corocznie, nie później niż do dnia 31 marca, sprawozdanie zawierające informacje dotyczące:  
+      > 1) zatrudnionych pracowników, w tym:  
+      > a) ich liczby, b) wymiaru czasu pracy i podstawy zatrudnienia;  
+      > 2) osób uczestniczących w klubie integracji społecznej, z uwzględnieniem podziału na grupy osób, o których mowa w art. 1 ust. 2, w tym:  
+      > a) ich liczby, b) liczby osób, które osiągnęły efekty reintegracji społecznej i zawodowej, w tym uzyskały zatrudnienie po ukończeniu uczestnictwa w klubie integracji społecznej;  
+      > 3) zrealizowanych działań z zakresu reintegracji społecznej i zawodowej wraz z ich efektami;  
+      > 4) rozliczenia przyznanych dotacji za rok poprzedni.”,  
     - **b)** dodaje się ust. 7 w brzmieniu: „7. Minister właściwy do spraw zabezpieczenia społecznego może określić, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 6, kierując się potrzebą ujednolicenia przedstawianych sprawozdań.”;
 
 - **17)** w art. 18c wyraz „dwuletnich” zastępuje się wyrazem „trzyletnich”;
-- **18)** po art. 18c dodaje się art. 18ca w brzmieniu: „Art. 18ca. 1. Minister właściwy do spraw zabezpieczenia społecznego może opracować resortowe programy na rzecz rozwoju Centrów i klubów integracji społecznej oraz finansowo wspierać te programy. 2. Do wyłonienia podmiotów realizujących programy, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.”;
+- **18)** po art. 18c dodaje się art. 18ca w brzmieniu:
+
+  > „Art. 18ca.  
+  > 1. Minister właściwy do spraw zabezpieczenia społecznego może opracować resortowe programy na rzecz rozwoju Centrów i klubów integracji społecznej oraz finansowo wspierać te programy.  
+  > 2. Do wyłonienia podmiotów realizujących programy, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.”;  
 - **19)** w art. 18e:
     - **a)** w ust. 1 wyrazy „nie więcej niż” zastępuje się wyrazami „co najmniej”,
     - **b)** ust. 4 otrzymuje brzmienie: „4. Pracodawca jest obowiązany zwolnić pracownika od pracy w celu wzięcia udziału w posiedzeniu Rady Zatrudnienia Socjalnego. Za czas zwolnienia pracownik zachowuje prawo do wynagrodzenia ustalonego według zasad obowiązujących przy obliczaniu wynagrodzenia za urlop wypoczynkowy.”,
@@ -106,7 +127,12 @@ source: pdf
 **Art. 3.** W ustawie z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2021 r. poz. 1842 oraz z 2022 r. poz. 1) w art. 2:
 
 - **1)** w ust. 2 wyrazy „kwoty 1700 zł miesięcznie” zastępuje się wyrazami „kwoty 1750 zł miesięcznie”;
-- **2)** dodaje się ust. 3 i 4 w brzmieniu: „3. Kwota miesięczna uprawniająca do świadczenia uzupełniającego, o której mowa w ust. 2 oraz w art. 4 ust. 1 i 2, podlega podwyższeniu w terminach i na zasadach określonych przepisami ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 4. Prezes Zakładu Ubezpieczeń Społecznych ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, uwzględnianą od tego terminu kwotę miesięczną uprawniającą do świadczenia uzupełniającego, o której mowa w ust. 2 oraz w art. 4 ust. 1 i 2.”.
+- **2)** dodaje się ust. 3 i 4 w brzmieniu:
+
+  > „3. Kwota miesięczna uprawniająca do świadczenia uzupełniającego, o której mowa w ust. 2 oraz w art. 4 ust. 1 i 2, podlega podwyższeniu w terminach i na zasadach określonych przepisami ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.  
+  > 4. Prezes Zakładu Ubezpieczeń Społecznych ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”,  
+
+  co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, uwzględnianą od tego terminu kwotę miesięczną uprawniającą do świadczenia uzupełniającego, o której mowa w ust. 2 oraz w art. 4 ust. 1 i 2.”.
 
 **Art. 4.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm. ) wprowadza się następujące zmiany:
 

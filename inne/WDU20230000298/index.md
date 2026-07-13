@@ -27,8 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie Rejestru Należności Publicznoprawnych Na podstawie art. 18m ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
 z 2022 r. poz. 479, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 4 czerwca 2018 r. w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 1124) § 5 otrzymuje brzmienie: „§ 5. Korzystając z rejestru, zobowiązany oraz podmiot zainteresowany używają swojego konta w e-Urzędzie Skarbowym.”.
-§ 2. Do korzystania z Rejestru Należności Publicznoprawnych przed dniem określonym w obwieszczeniu wydanym na podstawie art. 27 ust. 1 pkt 4 ustawy z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową (Dz. U. poz. 1301 i 2707) stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 4 czerwca 2018 r. w sprawie Rejestru Należności Publicznoprawnych (Dz. U. poz. 1124) § 5 otrzymuje brzmienie: „§ 5. Korzystając z rejestru, zobowiązany oraz podmiot zainteresowany używają swojego konta w e-Urzędzie Skarbowym.”.
+
+**§ 2.** Do korzystania z Rejestru Należności Publicznoprawnych przed dniem określonym w obwieszczeniu wydanym na podstawie art. 27 ust. 1 pkt 4 ustawy z dnia 8 czerwca 2022 r. o zmianie niektórych ustaw w celu automatyzacji załatwiania niektórych spraw przez Krajową Administrację Skarbową (Dz. U. poz. 1301 i 2707) stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: M. Rzeczkowska
 

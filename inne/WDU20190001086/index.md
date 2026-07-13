@@ -27,12 +27,15 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych Na podstawie art. 19 ust. 1 pkt 2 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2019 r.
 poz. 725 i 730) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 15 kwietnia 1999 r. w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych (Dz. U. poz. 454 oraz z 2001 r. poz. 89) wprowadza się następujące zmiany:
-1) w § 9 pkt 2 otrzymuje brzmienie: „2) w przypadku gdy zawiadomienie dotyczy znaku podstawowej osnowy geodezyjnej, grawimetrycznej lub magnetycznej, przekazuje Głównemu Geodecie Kraju protokół czynności, o których mowa w pkt 1,”;
-2) w § 11:
-a) pkt 1 otrzymuje brzmienie: „1) Główny Geodeta Kraju – w zakresie podstawowej osnowy geodezyjnej, grawimetrycznej i magnetycznej,”,
-b) pkt 3 otrzymuje brzmienie: „3) starosta – w zakresie szczegółowej osnowy geodezyjnej.”;
-3) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Inwestycji i Rozwoju: wz. A. Soboń WZÓR ZAWIADOMIENIE
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 15 kwietnia 1999 r. w sprawie ochrony znaków geodezyjnych, grawimetrycznych i magnetycznych (Dz. U. poz. 454 oraz z 2001 r. poz. 89) wprowadza się następujące zmiany:
+
+- **1)** w § 9 pkt 2 otrzymuje brzmienie: „2) w przypadku gdy zawiadomienie dotyczy znaku podstawowej osnowy geodezyjnej, grawimetrycznej lub magnetycznej, przekazuje Głównemu Geodecie Kraju protokół czynności, o których mowa w pkt 1,”;
+- **2)** w § 11:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) Główny Geodeta Kraju – w zakresie podstawowej osnowy geodezyjnej, grawimetrycznej i magnetycznej,”,
+    - **b)** pkt 3 otrzymuje brzmienie: „3) starosta – w zakresie szczegółowej osnowy geodezyjnej.”;
+
+- **3)** załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Inwestycji i Rozwoju: wz. A. Soboń WZÓR ZAWIADOMIENIE
 

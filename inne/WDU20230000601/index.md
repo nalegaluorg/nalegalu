@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000601) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/601/text.pdf) |
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 11 października 2022 r. zmieniającym rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień (Dz. U. poz. 2184) w § 4:
-1) w pkt 2 wyrazy „1 kwietnia 2023 r.” zastępuje się wyrazami „1 kwietnia 2024 r.”;
-2) w pkt 3 wyrazy „1 września 2023 r.” zastępuje się wyrazami „1 września 2024 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 marca 2023 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 11 października 2022 r. zmieniającym rozporządzenie w sprawie świadczeń gwarantowanych z zakresu opieki psychiatrycznej i leczenia uzależnień (Dz. U. poz. 2184) w § 4:
+
+- **1)** w pkt 2 wyrazy „1 kwietnia 2023 r.” zastępuje się wyrazami „1 kwietnia 2024 r.”;
+- **2)** w pkt 3 wyrazy „1 września 2023 r.” zastępuje się wyrazami „1 września 2024 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 marca 2023 r. Minister Zdrowia: A. Niedzielski
 

@@ -26,15 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1423/text.pdf) |
 
 zmieniające rozporządzenie w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii Na podstawie art. 8 ust. 4 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2010 r. Nr 112, poz. 744 oraz z 2011 r. Nr 54, poz. 278) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2004 r. w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii (Dz. U. Nr 200, poz. 2057, z późn. zm. ) w załączniku nr 2 wprowadza się następujące zmiany:
-1) w ust. 1:
-a) pkt 2 otrzymuje brzmienie: „2) Graniczny Lekarz Weterynarii w Koroszczynie – dla przejścia granicznego drogowego Hrebenne, przejścia granicznego drogowego Kukuryki, przejścia granicznego kolejowego Hrubieszów (ruch towarowy) i przejścia granicznego kolejowego Terespol (ruch towarowy).”,
-b) uchyla się pkt 3;
-2) ust. 2 otrzymuje brzmienie: ,,2. Województwo mazowieckie Graniczny Lekarz Weterynarii w Warszawie – dla lotniczego przejścia granicznego Warszawa-Okęcie.”;
-3) ust. 5 otrzymuje brzmienie: ,,5. Województwo pomorskie
-1) Graniczny Lekarz Weterynarii w Gdyni – dla morskiego przejścia granicznego Gdynia;
-2) Graniczny Lekarz Weterynarii w Gdańsku – dla morskiego przejścia granicznego Gdańsk-Port.”;
-4) ust. 7 otrzymuje brzmienie: „7. Województwo zachodniopomorskie Graniczny Lekarz Weterynarii w Szczecinie – dla morskiego przejścia granicznego Szczecin, morskiego przejścia granicznego Świnoujście i morskiego przejścia granicznego Kołobrzeg (ruch towarowy).”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
-Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2004 r. w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii (Dz. U. Nr 200, poz. 2057, z późn. zm. ) w załączniku nr 2 wprowadza się następujące zmiany:
+
+- **1)** w ust. 1:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) Graniczny Lekarz Weterynarii w Koroszczynie – dla przejścia granicznego drogowego Hrebenne, przejścia granicznego drogowego Kukuryki, przejścia granicznego kolejowego Hrubieszów (ruch towarowy) i przejścia granicznego kolejowego Terespol (ruch towarowy).”,
+    - **b)** uchyla się pkt 3;
+
+- **2)** ust. 2 otrzymuje brzmienie: ,,2. Województwo mazowieckie Graniczny Lekarz Weterynarii w Warszawie – dla lotniczego przejścia granicznego Warszawa-Okęcie.”;
+- **3)** ust. 5 otrzymuje brzmienie: ,,5. Województwo pomorskie
+- **1)** Graniczny Lekarz Weterynarii w Gdyni – dla morskiego przejścia granicznego Gdynia;
+- **2)** Graniczny Lekarz Weterynarii w Gdańsku – dla morskiego przejścia granicznego Gdańsk-Port.”;
+- **4)** ust. 7 otrzymuje brzmienie: „7. Województwo zachodniopomorskie Graniczny Lekarz Weterynarii w Szczecinie – dla morskiego przejścia granicznego Szczecin, morskiego przejścia granicznego Świnoujście i morskiego przejścia granicznego Kołobrzeg (ruch towarowy).”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r. Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
 

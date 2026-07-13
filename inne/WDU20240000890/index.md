@@ -27,11 +27,13 @@ source: pdf
 
 w sprawie wysokości wynagrodzenia członków Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych Na podstawie art. 67zg ust. 9 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
 z 2024 r. poz. 581) zarządza się, co następuje:
-§ 1. Członkom Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, zwanej dalej „Komisją”, przysługuje wynagrodzenie za udział w posiedzeniu w wysokości:
-1) 1500 zł – dla przewodniczącego Komisji,
-2) 1500 zł – dla wiceprzewodniczącego Komisji, w przypadku wykonywania zadań przewodniczącego w związku z jego nieobecnością,
-3) 1400 zł – dla członka Komisji wyznaczonego do przygotowania i przedstawienia na posiedzeniu projektu orzeczenia Komisji,
-4) 1200 zł – dla członków Komisji, z wyłączeniem członków, o których mowa w pkt 1–3 – nie więcej jednak niż 9300 zł miesięcznie.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** Członkom Komisji Odwoławczej do spraw Świadczeń z Funduszu Kompensacyjnego Zdarzeń Medycznych, zwanej dalej „Komisją”, przysługuje wynagrodzenie za udział w posiedzeniu w wysokości:
+
+- **1)** 1500 zł – dla przewodniczącego Komisji,
+- **2)** 1500 zł – dla wiceprzewodniczącego Komisji, w przypadku wykonywania zadań przewodniczącego w związku z jego nieobecnością,
+- **3)** 1400 zł – dla członka Komisji wyznaczonego do przygotowania i przedstawienia na posiedzeniu projektu orzeczenia Komisji,
+- **4)** 1200 zł – dla członków Komisji, z wyłączeniem członków, o których mowa w pkt 1–3 – nie więcej jednak niż 9300 zł miesięcznie.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Konieczny
 

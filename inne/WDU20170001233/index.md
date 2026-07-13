@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. z 2017 r.
 poz. 1181) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 1439 oraz z 2017 r. poz. 517) wprowadza się następujące zmiany:
-1) w § 2 w pkt 2 po literze c kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „3) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Współpraca”.”;
-2) w § 3 dodaje się ust. 3 w brzmieniu: „3. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 3, udziela się od dnia 19 maja 2017 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 1439 oraz z 2017 r. poz. 517) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 2 po literze c kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu: „3) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Współpraca”.”;
+- **2)** w § 3 dodaje się ust. 3 w brzmieniu: „3. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 3, udziela się od dnia 19 maja 2017 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk
 

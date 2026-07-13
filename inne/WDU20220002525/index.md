@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu finansowania zadań realizowanych w ramach międzynarodowej współpracy z zakresu wewnętrznego i zewnętrznego bezpieczeństwa państwa, wynikających z umów i porozumień Na podstawie art. 137 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 3 grudnia 2010 r. w sprawie sposobu finansowania zadań realizowanych w ramach międzynarodowej współpracy z zakresu wewnętrznego i zewnętrznego bezpieczeństwa państwa, wynikających z umów i porozumień (Dz. U. poz. 1568 oraz z 2015 r. poz. 2271) w § 3:
-1) ust. 1 otrzymuje brzmienie: „1. Zadania, o których mowa w § 1, mogą być finansowane z budżetu państwa, z części pozostających w dyspozycji Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw zagranicznych, wojewodów, Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Agencji Wywiadu, a także z Funduszu Wsparcia Sił Zbrojnych, o którym mowa w art. 41 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305).”;
-2) uchyla się ust. 4.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 3 grudnia 2010 r. w sprawie sposobu finansowania zadań realizowanych w ramach międzynarodowej współpracy z zakresu wewnętrznego i zewnętrznego bezpieczeństwa państwa, wynikających z umów i porozumień (Dz. U. poz. 1568 oraz z 2015 r. poz. 2271) w § 3:
+
+- **1)** ust. 1 otrzymuje brzmienie: „1. Zadania, o których mowa w § 1, mogą być finansowane z budżetu państwa, z części pozostających w dyspozycji Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw zagranicznych, wojewodów, Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Agencji Wywiadu, a także z Funduszu Wsparcia Sił Zbrojnych, o którym mowa w art. 41 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305).”;
+- **2)** uchyla się ust. 4.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

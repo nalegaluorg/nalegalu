@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001690) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1690/text.pdf) |
 
 w sprawie określenia państw, których obywatelom odbywającym kurs przygotowawczy do podjęcia nauki na studiach udziela się zezwolenia na pobyt czasowy w celu kształcenia się na studiach Na podstawie art. 144 ust. 18 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2020 r. poz. 35) zarządza się, co następuje:
-§ 1. Państwem, którego obywatelom odbywającym kurs przygotowawczy do podjęcia nauki na studiach udziela się zezwolenia na pobyt czasowy w celu kształcenia się na studiach, jest Republika Białorusi.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** Państwem, którego obywatelom odbywającym kurs przygotowawczy do podjęcia nauki na studiach udziela się zezwolenia na pobyt czasowy w celu kształcenia się na studiach, jest Republika Białorusi.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -27,212 +27,347 @@ source: pdf
 
 w sprawie substancji szczególnie szkodliwych dla środowiska wodnego oraz warunków, jakie należy spełnić przy wprowadzaniu do wód lub do ziemi ścieków, a także przy odprowadzaniu wód opadowych lub roztopowych do wód lub do urządzeń wodnych Na podstawie art. 99 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r.
 poz. 125 i 534) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) substancje szczególnie szkodliwe dla środowiska wodnego, powodujące zanieczyszczenie wód, które powinno być eliminowane (wykaz I), oraz substancje szczególnie szkodliwe dla środowiska wodnego, powodujące zanieczyszczenie wód, które powinno być ograniczane (wykaz II);
-2) warunki, jakie należy spełnić przy wprowadzaniu do wód lub do ziemi ścieków, w szczególności ścieków bytowych, ścieków komunalnych oraz ścieków przemysłowych, w tym najwyższe dopuszczalne wartości substancji zanieczyszczających, oraz warunki, jakie należy spełnić w celu rolniczego wykorzystania ścieków, a także miejsce, sposób i minimalną częstotliwość pobierania próbek ścieków, metodyki referencyjne analizy i sposób oceny, czy ścieki odpowiadają wymaganym warunkom;
-3) najwyższe dopuszczalne wartości substancji zanieczyszczających dla ścieków z oczyszczalni ścieków bytowych i ścieków komunalnych oraz dla ścieków z oczyszczalni ścieków w aglomeracji;
-4) warunki, jakie należy spełnić przy odprowadzaniu wód opadowych lub roztopowych do wód lub do urządzeń wodnych, w tym najwyższe dopuszczalne wartości substancji zanieczyszczających, a także miejsce, sposób i minimalną częstotliwość pobierania próbek tych wód, metodyki referencyjne analizy i sposób oceny, czy wody opadowe lub roztopowe odprowadzane do wód lub do urządzeń wodnych odpowiadają wymaganym warunkom.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) RLM – rozumie się przez to równoważną liczbę mieszkańców w rozumieniu art. 86 ust. 3 pkt 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
-2) RLM aglomeracji – rozumie się przez to równoważną liczbę mieszkańców aglomeracji, o której mowa w przepisach wydanych na podstawie art. 95 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
-3) RLM oczyszczalni – rozumie się przez to projektowe obciążenie oczyszczalni ścieków wyrażone równoważną liczbą mieszkańców RLM; a w przypadku braku projektowej wartości RLM, rozumie się przez to wartość ustaloną na podstawie maksymalnego projektowego ładunku pięciodobowego biochemicznego zapotrzebowania na tlen (BZT ), gdzie 1 RLM oczyszczalni równy jest ładunkowi BZT w ilości 60 g tlenu na dobę;
-4) średniej dobowej próbce – rozumie się przez to próbkę ścieków, pobraną na potrzeby ustalania wartości substancji zanieczyszczających, z wyjątkiem ustalania wartości pH i temperatury, powstałą ze zmieszania próbek pobieranych ręcznie lub automatycznie w odstępach co najwyżej dwugodzinnych, proporcjonalnych do przepływu, w okresie doby.
-§ 3. Substancje szczególnie szkodliwe dla środowiska wodnego, powodujące zanieczyszczenie wód, które powinno być eliminowane (wykaz I), oraz substancje szczególnie szkodliwe dla środowiska wodnego, powodujące zanieczyszczenie wód, które powinno być ograniczane (wykaz II), określa załącznik nr 1 do rozporządzenia.
-§ 4. 1. Ścieki bytowe, ścieki komunalne, ścieki z oczyszczalni ścieków bytowych oraz ścieki z oczyszczalni ścieków komunalnych, wprowadzane do wód lub do ziemi, nie powinny zawierać substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości albo powinny spełniać minimalny procent redukcji substancji zanieczyszczających, zapewniający nieprzekroczenie najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w załączniku nr 2 do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** substancje szczególnie szkodliwe dla środowiska wodnego, powodujące zanieczyszczenie wód, które powinno być eliminowane (wykaz I), oraz substancje szczególnie szkodliwe dla środowiska wodnego, powodujące zanieczyszczenie wód, które powinno być ograniczane (wykaz II);
+- **2)** warunki, jakie należy spełnić przy wprowadzaniu do wód lub do ziemi ścieków, w szczególności ścieków bytowych, ścieków komunalnych oraz ścieków przemysłowych, w tym najwyższe dopuszczalne wartości substancji zanieczyszczających, oraz warunki, jakie należy spełnić w celu rolniczego wykorzystania ścieków, a także miejsce, sposób i minimalną częstotliwość pobierania próbek ścieków, metodyki referencyjne analizy i sposób oceny, czy ścieki odpowiadają wymaganym warunkom;
+- **3)** najwyższe dopuszczalne wartości substancji zanieczyszczających dla ścieków z oczyszczalni ścieków bytowych i ścieków komunalnych oraz dla ścieków z oczyszczalni ścieków w aglomeracji;
+- **4)** warunki, jakie należy spełnić przy odprowadzaniu wód opadowych lub roztopowych do wód lub do urządzeń wodnych, w tym najwyższe dopuszczalne wartości substancji zanieczyszczających, a także miejsce, sposób i minimalną częstotliwość pobierania próbek tych wód, metodyki referencyjne analizy i sposób oceny, czy wody opadowe lub roztopowe odprowadzane do wód lub do urządzeń wodnych odpowiadają wymaganym warunkom.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** RLM – rozumie się przez to równoważną liczbę mieszkańców w rozumieniu art. 86 ust. 3 pkt 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
+- **2)** RLM aglomeracji – rozumie się przez to równoważną liczbę mieszkańców aglomeracji, o której mowa w przepisach wydanych na podstawie art. 95 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
+- **3)** RLM oczyszczalni – rozumie się przez to projektowe obciążenie oczyszczalni ścieków wyrażone równoważną liczbą mieszkańców RLM; a w przypadku braku projektowej wartości RLM, rozumie się przez to wartość ustaloną na podstawie maksymalnego projektowego ładunku pięciodobowego biochemicznego zapotrzebowania na tlen (BZT ), gdzie 1 RLM oczyszczalni równy jest ładunkowi BZT w ilości 60 g tlenu na dobę;
+- **4)** średniej dobowej próbce – rozumie się przez to próbkę ścieków, pobraną na potrzeby ustalania wartości substancji zanieczyszczających, z wyjątkiem ustalania wartości pH i temperatury, powstałą ze zmieszania próbek pobieranych ręcznie lub automatycznie w odstępach co najwyżej dwugodzinnych, proporcjonalnych do przepływu, w okresie doby.
+
+**§ 3.** Substancje szczególnie szkodliwe dla środowiska wodnego, powodujące zanieczyszczenie wód, które powinno być eliminowane (wykaz I), oraz substancje szczególnie szkodliwe dla środowiska wodnego, powodujące zanieczyszczenie wód, które powinno być ograniczane (wykaz II), określa załącznik nr 1 do rozporządzenia.
+
+**§ 4.**
+
+1. Ścieki bytowe, ścieki komunalne, ścieki z oczyszczalni ścieków bytowych oraz ścieki z oczyszczalni ścieków komunalnych, wprowadzane do wód lub do ziemi, nie powinny zawierać substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości albo powinny spełniać minimalny procent redukcji substancji zanieczyszczających, zapewniający nieprzekroczenie najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w załączniku nr 2 do rozporządzenia.
+
 2. Ścieki bytowe z oczyszczalni ścieków w aglomeracji oraz ścieki komunalne z oczyszczalni ścieków w aglomeracji, wprowadzane do wód lub do ziemi, nie powinny zawierać substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości albo powinny spełniać minimalny procent redukcji substancji zanieczyszczających, zapewniający nieprzekroczenie najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w załączniku nr 3 do rozporządzenia.
+
 3. Jeżeli ścieki komunalne stanowią mieszaninę ścieków bytowych ze ściekami przemysłowymi albo wodami opadowymi lub roztopowymi, to ścieki te, wprowadzane do wód lub do ziemi z oczyszczalni ścieków komunalnych albo z oczyszczalni ścieków w aglomeracji, nie powinny również zawierać substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości dla ścieków przemysłowych, określone w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika.
+
 4. Ścieki bytowe oraz ścieki komunalne z aglomeracji oczyszczane w oczyszczalni ścieków przemysłowych pochodzących z zakładów działających w sektorach przemysłowych, określonych w załączniku nr 5 do rozporządzenia, wprowadzane do wód lub do ziemi, nie powinny zawierać:
-1) substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości albo powinny spełniać minimalny procent redukcji substancji zanieczyszczających zapewniający nieprzekroczenie najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w załączniku nr 3 do rozporządzenia;
-2) substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości dla ścieków przemysłowych, określone w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika.
+
+- **1)** substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości albo powinny spełniać minimalny procent redukcji substancji zanieczyszczających zapewniający nieprzekroczenie najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w załączniku nr 3 do rozporządzenia;
+- **2)** substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości dla ścieków przemysłowych, określone w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika.
+
 5. Ścieki przemysłowe pochodzące z zakładów działających w sektorach przemysłowych określonych w załączniku nr 5 do rozporządzenia, zwane dalej „ściekami przemysłowymi biologicznie rozkładalnymi”, wprowadzane do wód lub do ziemi, nie powinny zawierać substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości dla ścieków przemysłowych, określone w załączniku nr 4 do rozporządzenia.
+
 6. Ścieki przemysłowe wprowadzane do wód nie powinny zawierać substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości dla ścieków przemysłowych, określone w załączniku nr 4 do rozporządzenia.
+
 7. Ścieki przemysłowe pochodzące ze stacji uzdatniania wody, wody z odwodnienia zakładów górniczych oraz ścieki oczyszczane w procesie odwróconej osmozy, wprowadzane do ziemi, nie powinny zawierać substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości dla ścieków przemysłowych, określone w załączniku nr 4 do rozporządzenia.
+
 8. Ścieki zbliżone składem do ścieków przemysłowych, powstające w wyniku działalności innej niż działalność handlowa, przemysłowa, składowa, transportowa lub usługowa, wprowadzane do wód, nie powinny zawierać substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości dla ścieków przemysłowych określone:
-1) w tabeli I w załączniku nr 4 do rozporządzenia dla innej działalności;
-2) w tabeli II w załączniku nr 4 do rozporządzenia, odpowiednio do zakresu ich stosowania.
+
+- **1)** w tabeli I w załączniku nr 4 do rozporządzenia dla innej działalności;
+- **2)** w tabeli II w załączniku nr 4 do rozporządzenia, odpowiednio do zakresu ich stosowania.
+
 9. Ścieki z oczyszczania gazów odlotowych z procesu termicznego przekształcania odpadów wprowadzane do wód, nie powinny zawierać substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości, określone w załączniku nr 6 do rozporządzenia.
+
 10. Jeżeli ścieki, o których mowa w ust. 9, są oczyszczane razem ze ściekami z innych źródeł, należy na podstawie pomiarów ich ilości i jakości przeprowadzić obliczenia bilansu ilości substancji zanieczyszczających, w celu określenia spełnienia przez te ścieki warunku dotyczącego zawartości najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w załączniku nr 6 do rozporządzenia, z wyłączeniem lp. 1 i 2 tego załącznika.
+
 11. Jeżeli ścieki komunalne, stanowiące mieszaninę ścieków bytowych ze ściekami przemysłowymi, zawierają substancje szczególnie szkodliwe dla środowiska wodnego wskazane w lp. 3–16 w tabeli I w załączniku nr 4 do rozporządzenia, dopuszcza się oznaczenie tych substancji jako sumaryczny wskaźnik AOX (absorbowalne związki chloroorganiczne).
-§ 5. 1. Pobierania próbek ścieków bytowych oraz ścieków komunalnych, wprowadzanych do wód lub do ziemi, do celów oznaczenia wartości substancji zanieczyszczających lub procentu redukcji substancji zanieczyszczających, określonych w załączniku nr 2 i 3 do rozporządzenia, dokonuje się:
-1) w regularnych odstępach czasu w okresie roku;
-2) stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, lub w innym miejscu reprezentatywnym dla jakości tych ścieków, a jeżeli z pozwolenia wodnoprawnego albo pozwolenia zintegrowanego wynika, że poboru próbek ścieków dokonuje się w miejscach, w których ścieki dopływają do oczyszczalni ścieków, również stale w tych samych miejscach.
+
+**§ 5.**
+
+1. Pobierania próbek ścieków bytowych oraz ścieków komunalnych, wprowadzanych do wód lub do ziemi, do celów oznaczenia wartości substancji zanieczyszczających lub procentu redukcji substancji zanieczyszczających, określonych w załączniku nr 2 i 3 do rozporządzenia, dokonuje się:
+
+- **1)** w regularnych odstępach czasu w okresie roku;
+- **2)** stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, lub w innym miejscu reprezentatywnym dla jakości tych ścieków, a jeżeli z pozwolenia wodnoprawnego albo pozwolenia zintegrowanego wynika, że poboru próbek ścieków dokonuje się w miejscach, w których ścieki dopływają do oczyszczalni ścieków, również stale w tych samych miejscach.
+
 2. Liczba pobranych średnich dobowych próbek ścieków, o których mowa w ust. 1, nie może być mniejsza niż dla:
-1) RLM oczyszczalni poniżej 2000 – 4 próbki w okresie roku, a jeżeli ścieki spełniają wymagane warunki – 2 próbki w następnym roku; w przypadku gdy co najmniej jedna próbka z dwóch pobranych nie spełnia wymaganych warunków, w następnym roku pobiera się ponownie 4 próbki;
-2) RLM oczyszczalni od 2000 do 9999 – 12 próbek w okresie roku, a jeżeli zostanie wykazane, że ścieki spełniają wymagane warunki – 4 próbki w następnym roku; w przypadku gdy co najmniej jedna próbka z czterech pobranych nie spełnia wymaganych warunków, w następnym roku pobiera się ponownie 12 próbek;
-3) RLM oczyszczalni od 10000 do 49999 – 12 próbek w okresie roku;
-4) RLM oczyszczalni równej 50000 i większej – 24 próbki w okresie roku.
+
+- **1)** RLM oczyszczalni poniżej 2000 – 4 próbki w okresie roku, a jeżeli ścieki spełniają wymagane warunki – 2 próbki w następnym roku; w przypadku gdy co najmniej jedna próbka z dwóch pobranych nie spełnia wymaganych warunków, w następnym roku pobiera się ponownie 4 próbki;
+- **2)** RLM oczyszczalni od 2000 do 9999 – 12 próbek w okresie roku, a jeżeli zostanie wykazane, że ścieki spełniają wymagane warunki – 4 próbki w następnym roku; w przypadku gdy co najmniej jedna próbka z czterech pobranych nie spełnia wymaganych warunków, w następnym roku pobiera się ponownie 12 próbek;
+- **3)** RLM oczyszczalni od 10000 do 49999 – 12 próbek w okresie roku;
+- **4)** RLM oczyszczalni równej 50000 i większej – 24 próbki w okresie roku.
+
 3. Jeżeli w pozwoleniu wodnoprawnym na wprowadzanie ścieków bytowych albo ścieków komunalnych do wód lub do ziemi są określone minimalne procenty redukcji substancji zanieczyszczających, to pobieranie próbek ścieków dotyczy ścieków dopływających do oczyszczalni ścieków bytowych albo do oczyszczalni ścieków komunalnych oraz wprowadzanych do wód lub do ziemi z oczyszczalni ścieków bytowych albo z oczyszczalni ścieków komunalnych.
+
 4. Pobierania próbek ścieków komunalnych stanowiących mieszaninę ścieków bytowych ze ściekami przemysłowymi albo wodami opadowymi lub roztopowymi, wprowadzanych do wód lub do ziemi, do celów oznaczenia wartości substancji zanieczyszczających określonych w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika, dokonuje się w regularnych odstępach czasu, z częstotliwością nie mniejszą niż raz na dwa miesiące, stale w tym samym miejscu reprezentatywnym dla jakości tych ścieków, a jeżeli z pozwolenia wodnoprawnego albo pozwolenia zintegrowanego wynika, że poboru próbek ścieków dokonuje się w miejscach, w których ścieki dopływają do oczyszczalni ścieków, również stale w tych samych miejscach.
+
 5. Pobierania próbek ścieków przemysłowych i ścieków zbliżonych składem do ścieków przemysłowych, powstających w wyniku działalności innej niż działalność handlowa, przemysłowa, składowa, transportowa lub usługowa, wprowadzanych do wód, do celów oznaczania wartości substancji zanieczyszczających określonych w tabeli II w załączniku nr 4 do rozporządzenia z wyłączeniem lp. 1 i 2, dokonuje się:
-1) w regularnych odstępach czasu;
-2) z częstotliwością co najmniej raz na dwa miesiące;
-3) stale w tym samym miejscu, w którym ścieki są wprowadzane do wód, a jeżeli to konieczne – w innym miejscu reprezentatywnym dla jakości tych ścieków.
+
+- **1)** w regularnych odstępach czasu;
+- **2)** z częstotliwością co najmniej raz na dwa miesiące;
+- **3)** stale w tym samym miejscu, w którym ścieki są wprowadzane do wód, a jeżeli to konieczne – w innym miejscu reprezentatywnym dla jakości tych ścieków.
+
 6. Pobierania próbek ścieków przemysłowych i ścieków zbliżonych składem do ścieków przemysłowych, powstających w wyniku działalności innej niż działalność handlowa, przemysłowa, składowa, transportowa lub usługowa, wprowadzanych do wód, zawierających substancje zanieczyszczające określone w tabeli I w załączniku nr 4 do rozporządzenia do celów oznaczania wartości tych substancji zanieczyszczających dokonuje się codziennie, w miejscu reprezentatywnym dla jakości tych ścieków.
+
 7. Pobierania próbek ścieków przemysłowych pochodzących ze stacji uzdatniania wody, ścieków przemysłowych biologicznie rozkładalnych, wód z odwodnienia zakładów górniczych oraz ścieków oczyszczanych w procesie odwróconej osmozy, wprowadzanych do wód lub do ziemi, do celów oznaczenia wartości substancji zanieczyszczających określonych w załączniku nr 4 do rozporządzenia z wyłączeniem lp. 1 i 2 w tabeli II tego załącznika, dokonuje się:
-1) w regularnych odstępach czasu;
-2) z częstotliwością co najmniej raz na dwa miesiące;
-3) stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, a jeżeli to konieczne – w innym miejscu reprezentatywnym dla jakości tych ścieków.
+
+- **1)** w regularnych odstępach czasu;
+- **2)** z częstotliwością co najmniej raz na dwa miesiące;
+- **3)** stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, a jeżeli to konieczne – w innym miejscu reprezentatywnym dla jakości tych ścieków.
+
 8. Jeżeli ścieki przemysłowe zawierające substancje zanieczyszczające, określone w tabeli I w załączniku nr 4 do rozporządzenia, są oczyszczane poza zakładem, w którym te ścieki powstały, w zakładzie oczyszczania przeznaczonym do usuwania tych substancji dopuszcza się pobieranie próbek w miejscu, w którym te ścieki opuszczają zakład oczyszczania.
+
 9. Pobierania próbek ścieków, o których mowa w § 4 ust. 4, wprowadzanych do wód lub do ziemi, do celów oznaczenia wartości substancji zanieczyszczających określonych w załączniku nr 3 oraz w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 1, 2, 3, 5, 6, 11, 12 w tabeli II tego załącznika, dokonuje się:
-1) w regularnych odstępach czasu w okresie roku;
-2) stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, lub w innym miejscu reprezentatywnym dla jakości tych ścieków, a jeżeli z pozwolenia wodnoprawnego albo z pozwolenia zintegrowanego wynika, że poboru próbek ścieków dokonuje się w miejscach, w których ścieki dopływają do oczyszczalni ścieków, również stale w tych samych miejscach.
+
+- **1)** w regularnych odstępach czasu w okresie roku;
+- **2)** stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, lub w innym miejscu reprezentatywnym dla jakości tych ścieków, a jeżeli z pozwolenia wodnoprawnego albo z pozwolenia zintegrowanego wynika, że poboru próbek ścieków dokonuje się w miejscach, w których ścieki dopływają do oczyszczalni ścieków, również stale w tych samych miejscach.
+
 10. Liczba pobranych średnich dobowych próbek ścieków, o których mowa w § 4 ust. 4, do celów oznaczenia wartości substancji zanieczyszczających, określonych w załączniku nr 3 do rozporządzenia, nie może być mniejsza niż dla:
-1) RLM oczyszczalni od 2000 do 9999 – 12 próbek w okresie roku, a jeżeli ścieki spełniają wymagane warunki – 4 próbki w następnym roku; w przypadku gdy co najmniej jedna próbka z czterech pobranych nie spełni wymaganych warunków, w następnym roku pobiera się ponownie 12 próbek;
-2) RLM oczyszczalni od 10000 do 49999 – 12 próbek w okresie roku;
-3) RLM oczyszczalni równej 50000 i większej – 24 próbki w okresie roku.
+
+- **1)** RLM oczyszczalni od 2000 do 9999 – 12 próbek w okresie roku, a jeżeli ścieki spełniają wymagane warunki – 4 próbki w następnym roku; w przypadku gdy co najmniej jedna próbka z czterech pobranych nie spełni wymaganych warunków, w następnym roku pobiera się ponownie 12 próbek;
+- **2)** RLM oczyszczalni od 10000 do 49999 – 12 próbek w okresie roku;
+- **3)** RLM oczyszczalni równej 50000 i większej – 24 próbki w okresie roku.
+
 11. Roczny okres poboru próbek liczony jest od dnia, w którym decyzja w sprawie wydania pozwolenia wodnoprawnego lub udzielenia pozwolenia zintegrowanego stała się ostateczna; jeżeli w pozwoleniu wodnoprawnym lub pozwoleniu zintegrowanym została określona inna data, od której obowiązuje to pozwolenie, roczny okres poboru próbek liczony jest od tej daty. Próbki pobierane są przez cały okres obowiązywania pozwolenia wodnoprawnego lub pozwolenia zintegrowanego.
+
 12. Pobierania próbek ścieków, o których mowa w § 4 ust. 4, wprowadzanych do wód lub do ziemi, do celów oznaczenia wartości substancji zanieczyszczających określonych w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 1, 2, 3, 5, 6, 11 i 12 w tabeli II tego załącznika, dokonuje się z częstotliwością co najmniej raz na dwa miesiące.
+
 13. Pobierania próbek ścieków, o których mowa w § 4 ust. 9, wprowadzanych do wód, do celów oznaczenia wartości substancji zanieczyszczających, dokonuje się:
-1) w sposób ciągły dla substancji wskazanych w lp. 1 i 2 w załączniku nr 6 do rozporządzenia;
-2) raz na dobę – dla substancji wskazanej w lp. 3 w załączniku nr 6 do rozporządzenia;
-3) co najmniej raz na miesiąc – dla substancji i ich związków wskazanych w lp. 4–12 w załączniku nr 6 do rozporządzenia;
-4) co najmniej raz na sześć miesięcy – dla substancji wskazanych w lp. 13 w załączniku nr 6 do rozporządzenia, a w pierwszych 12 miesiącach eksploatacji instalacji – co najmniej raz na trzy miesiące;
-5) w miejscu, w którym ścieki są wprowadzane do wód, a jeżeli to konieczne – w innym miejscu reprezentatywnym dla jakości tych ścieków.
-§ 6. Pomiaru ilości ścieków wprowadzanych do wód lub do ziemi dokonuje się:
-1) w sposób ciągły, a jeżeli ścieki nie są odprowadzane w sposób ciągły, to pomiaru ilości ścieków dokonuje się w okresach zrzutu ścieków, w sposób umożliwiający określenie rzeczywistej ilości odprowadzanych ścieków;
-2) stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, lub w innym miejscu reprezentatywnym dla ilości tych ścieków.
-§ 7. 1. Pomiaru natężenia przepływu ścieków, o których mowa w § 4 ust. 1–4, dokonuje się z dokładnością do:
-1) 15% dla RLM oczyszczalni poniżej 2000;
-2) 10% dla RLM oczyszczalni od 2000 do 14999;
-3) 10% dla oczyszczalni w aglomeracji o RLM od 2000 do 14999;
-4) 5% dla RLM oczyszczalni 15000 i większej;
-5) 5% dla oczyszczalni w aglomeracji o RLM 15000 i większej.
+
+- **1)** w sposób ciągły dla substancji wskazanych w lp. 1 i 2 w załączniku nr 6 do rozporządzenia;
+- **2)** raz na dobę – dla substancji wskazanej w lp. 3 w załączniku nr 6 do rozporządzenia;
+- **3)** co najmniej raz na miesiąc – dla substancji i ich związków wskazanych w lp. 4–12 w załączniku nr 6 do rozporządzenia;
+- **4)** co najmniej raz na sześć miesięcy – dla substancji wskazanych w lp. 13 w załączniku nr 6 do rozporządzenia, a w pierwszych 12 miesiącach eksploatacji instalacji – co najmniej raz na trzy miesiące;
+- **5)** w miejscu, w którym ścieki są wprowadzane do wód, a jeżeli to konieczne – w innym miejscu reprezentatywnym dla jakości tych ścieków.
+
+**§ 6.** Pomiaru ilości ścieków wprowadzanych do wód lub do ziemi dokonuje się:
+
+- **1)** w sposób ciągły, a jeżeli ścieki nie są odprowadzane w sposób ciągły, to pomiaru ilości ścieków dokonuje się w okresach zrzutu ścieków, w sposób umożliwiający określenie rzeczywistej ilości odprowadzanych ścieków;
+- **2)** stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, lub w innym miejscu reprezentatywnym dla ilości tych ścieków.
+
+**§ 7.**
+
+1. Pomiaru natężenia przepływu ścieków, o których mowa w § 4 ust. 1–4, dokonuje się z dokładnością do:
+
+- **1)** 15% dla RLM oczyszczalni poniżej 2000;
+- **2)** 10% dla RLM oczyszczalni od 2000 do 14999;
+- **3)** 10% dla oczyszczalni w aglomeracji o RLM od 2000 do 14999;
+- **4)** 5% dla RLM oczyszczalni 15000 i większej;
+- **5)** 5% dla oczyszczalni w aglomeracji o RLM 15000 i większej.
+
 2. Pomiaru natężenia przepływu ścieków przemysłowych i ścieków zbliżonych składem do ścieków przemysłowych powstających, w wyniku działalności innej niż działalność handlowa, przemysłowa, składowa, transportowa lub usługowa, dokonuje się z dokładnością do 20%.
-§ 8. 1. Ścieki bytowe oraz ścieki komunalne, wprowadzane do wód lub do ziemi, spełniają wymagane warunki, jeżeli:
-1) liczba pobranych w okresie roku średnich dobowych próbek ścieków, które nie spełniły warunków dotyczących najwyższych dopuszczalnych wartości substancji zanieczyszczających albo minimalnego procentu redukcji substancji zanieczyszczających, określonych wskaźnikami BZT , ChZT, i zawiesiny ogólnej, nie jest większa od liczby średnich dobowych próbek ścieków bytowych oraz ścieków komunalnych, które mogą nie spełniać wymaganych warunków, określonych w załączniku nr 7 do rozporządzenia;
-2) próbki niespełniające warunków, o których mowa w pkt 1, nie wykazują przekroczeń najwyższych dopuszczalnych wartości substancji zanieczyszczających albo minimalnego procentu redukcji substancji zanieczyszczających większych niż: o 100% dla BZT i ChZT oraz o 150% dla zawiesiny ogólnej;
-3) wartości azotu ogólnego i fosforu ogólnego w średnich rocznych próbkach nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających albo spełniają minimalny procent redukcji substancji zanieczyszczających, określonych odpowiednio w załączniku nr 2 albo w załączniku nr 3 do rozporządzenia.
+
+**§ 8.**
+
+1. Ścieki bytowe oraz ścieki komunalne, wprowadzane do wód lub do ziemi, spełniają wymagane warunki, jeżeli:
+
+- **1)** liczba pobranych w okresie roku średnich dobowych próbek ścieków, które nie spełniły warunków dotyczących najwyższych dopuszczalnych wartości substancji zanieczyszczających albo minimalnego procentu redukcji substancji zanieczyszczających, określonych wskaźnikami BZT , ChZT, i zawiesiny ogólnej, nie jest większa od liczby średnich dobowych próbek ścieków bytowych oraz ścieków komunalnych, które mogą nie spełniać wymaganych warunków, określonych w załączniku nr 7 do rozporządzenia;
+- **2)** próbki niespełniające warunków, o których mowa w pkt 1, nie wykazują przekroczeń najwyższych dopuszczalnych wartości substancji zanieczyszczających albo minimalnego procentu redukcji substancji zanieczyszczających większych niż: o 100% dla BZT i ChZT oraz o 150% dla zawiesiny ogólnej;
+- **3)** wartości azotu ogólnego i fosforu ogólnego w średnich rocznych próbkach nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających albo spełniają minimalny procent redukcji substancji zanieczyszczających, określonych odpowiednio w załączniku nr 2 albo w załączniku nr 3 do rozporządzenia.
+
 2. Ścieki komunalne stanowiące mieszaninę ścieków bytowych ze ściekami przemysłowymi albo wodami opadowymi lub roztopowymi, wprowadzane do wód lub do ziemi, spełniają wymagane warunki w zakresie najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 1, 2, 3, 5, 6, 11 i 12 w tabeli II tego załącznika, jeżeli:
-1) liczba pobranych w okresie roku średnich dobowych próbek ścieków, które nie spełniły warunków dotyczących najwyższych dopuszczalnych wartości substancji zanieczyszczających, nie jest większa od liczby średnich dobowych próbek, które mogą nie spełniać wymaganych warunków określonych w załączniku nr 7 do rozporządzenia;
-2) próbki niespełniające warunków, o których mowa w pkt 1, nie wykazują przekroczeń najwyższych dopuszczalnych wartości substancji zanieczyszczających więcej niż o 100%.
+
+- **1)** liczba pobranych w okresie roku średnich dobowych próbek ścieków, które nie spełniły warunków dotyczących najwyższych dopuszczalnych wartości substancji zanieczyszczających, nie jest większa od liczby średnich dobowych próbek, które mogą nie spełniać wymaganych warunków określonych w załączniku nr 7 do rozporządzenia;
+- **2)** próbki niespełniające warunków, o których mowa w pkt 1, nie wykazują przekroczeń najwyższych dopuszczalnych wartości substancji zanieczyszczających więcej niż o 100%.
+
 3. W ocenie, czy ścieki komunalne spełniają wymagane warunki, nie uwzględnia się przekroczeń najwyższych dopuszczalnych wartości substancji zanieczyszczających, jeżeli są wynikiem sytuacji nadzwyczajnych, w szczególności spowodowanych przez ulewne deszcze.
+
 4. Ścieki przemysłowe i ścieki zbliżone składem do ścieków przemysłowych, powstające w wyniku działalności innej niż działalność handlowa, przemysłowa, składowa, transportowa lub usługowa, spełniają wymagane warunki, jeżeli:
-1) wartości substancji zanieczyszczających w średnich dobowych próbkach oraz wartości substancji zanieczyszczających w średnich miesięcznych próbkach nie przekraczają ich najwyższych dopuszczalnych wartości, określonych w tabeli I w załączniku nr 4 do rozporządzenia;
-2) wartości azotu ogólnego i fosforu ogólnego w średnich rocznych próbkach nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w tabeli II w załączniku nr 4 do rozporządzenia;
-3) każda wartość temperatury i pH zmierzona ręcznie lub automatycznie w okresie doby, w odstępach nie większych niż dwie godziny, stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, a jeżeli to konieczne – w innym miejscu reprezentatywnym dla ilości i jakości tych ścieków, nie przekracza najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w tabeli II w załączniku nr 4 do rozporządzenia;
-4) zmierzone wartości substancji zanieczyszczających, co najmniej w czterech z sześciu kolejnych średnich dobowych próbkach, nie przekraczają najwyższych dopuszczalnych wartości tych substancji, określonych w tabeli II w załączniku nr 4 do rozporządzenia.
+
+- **1)** wartości substancji zanieczyszczających w średnich dobowych próbkach oraz wartości substancji zanieczyszczających w średnich miesięcznych próbkach nie przekraczają ich najwyższych dopuszczalnych wartości, określonych w tabeli I w załączniku nr 4 do rozporządzenia;
+- **2)** wartości azotu ogólnego i fosforu ogólnego w średnich rocznych próbkach nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w tabeli II w załączniku nr 4 do rozporządzenia;
+- **3)** każda wartość temperatury i pH zmierzona ręcznie lub automatycznie w okresie doby, w odstępach nie większych niż dwie godziny, stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, a jeżeli to konieczne – w innym miejscu reprezentatywnym dla ilości i jakości tych ścieków, nie przekracza najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w tabeli II w załączniku nr 4 do rozporządzenia;
+- **4)** zmierzone wartości substancji zanieczyszczających, co najmniej w czterech z sześciu kolejnych średnich dobowych próbkach, nie przekraczają najwyższych dopuszczalnych wartości tych substancji, określonych w tabeli II w załączniku nr 4 do rozporządzenia.
+
 5. Ścieki przemysłowe, inne niż ścieki przemysłowe biologicznie rozkładalne, spełniają wymagane warunki, jeżeli wartości substancji zanieczyszczających w średniej dobowej próbce, niespełniającej wymaganych warunków, nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających więcej niż o:
-1) 100% dla wartości substancji zanieczyszczających określonych w lp. 3–10, 13–18 i 59 w tabeli II w załączniku nr 4 do rozporządzenia;
-2) 50% dla wartości substancji zanieczyszczających określonych w lp. 19–58 w tabeli II w załączniku nr 4 do rozporządzenia.
+
+- **1)** 100% dla wartości substancji zanieczyszczających określonych w lp. 3–10, 13–18 i 59 w tabeli II w załączniku nr 4 do rozporządzenia;
+- **2)** 50% dla wartości substancji zanieczyszczających określonych w lp. 19–58 w tabeli II w załączniku nr 4 do rozporządzenia.
+
 6. Ścieki przemysłowe biologicznie rozkładalne spełniają wymagane warunki, jeżeli wartości substancji zanieczyszczających w średniej dobowej próbce, niespełniającej wymaganych warunków, nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych w lp. 3, 5, 6, 8, 14, 25, 30, 40, 45, 54, 55 i 58 w tabeli II w załączniku nr 4 do rozporządzenia, więcej niż o 100%.
-7. Ścieki przemysłowe i ścieki zbliżone składem do ścieków przemysłowych, powstające w wyniku działalności innej niż działalność handlowa, przemysłowa, składowa, transportowa lub usługowa, spełniają wymagane warunki, jeżeli nie przekraczają dopuszczalnych ilości substancji zanieczyszczających, które mogą być odprowadzane w ściekach przemysłowych, w jednym lub więcej okresach, przypadających na jednostkę masy wykorzystywanego surowca, materiału, paliwa lub powstającego produktu, o których mowa w przepisach wydanych na podstawie art. 99 ust. 2 ustawy z dnia 20 lipca 2017 r.
-– Prawo wodne.
+
+7. Ścieki przemysłowe i ścieki zbliżone składem do ścieków przemysłowych, powstające w wyniku działalności innej niż działalność handlowa, przemysłowa, składowa, transportowa lub usługowa, spełniają wymagane warunki, jeżeli nie przekraczają dopuszczalnych ilości substancji zanieczyszczających, które mogą być odprowadzane w ściekach przemysłowych, w jednym lub więcej okresach, przypadających na jednostkę masy wykorzystywanego surowca, materiału, paliwa lub powstającego produktu, o których mowa w przepisach wydanych na podstawie art. 99 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
+
 8. Dokonując oceny, czy ścieki przemysłowe spełniają warunek najwyższej dopuszczalnej średniej miesięcznej ilości substancji zanieczyszczających odprowadzanej w ściekach przemysłowych, określonej w przepisach wydanych na podstawie art. 99 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, dodaje się ilość tej substancji odprowadzaną każdego dnia danego miesiąca i dzieli się otrzymaną sumę odpowiednio przez ilość substancji wykorzystanej w tym miesiącu.
+
 9. Jeżeli ustalenie ilości substancji zanieczyszczających wykorzystanej w okresie miesiąca nie jest możliwe w sposób, o którym mowa w ust. 8, ilość tę ustala się na podstawie ilości tej substancji zużywanej zgodnie z faktyczną zdolnością produkcyjną.
+
 10. Ścieki, o których mowa w § 4 ust. 4, spełniają wymagane warunki:
-1) w zakresie najwyższych dopuszczalnych wartości substancji zanieczyszczających określonych w załączniku nr 3 do rozporządzenia, jeżeli:
-a) liczba pobranych w ciągu roku średnich dobowych próbek, które nie spełniły warunków dotyczących najwyższych dopuszczalnych wartości substancji zanieczyszczających albo minimalnego procentu redukcji substancji zanieczyszczających określonych wskaźnikami BZT , ChZT, i zawiesiny ogólnej, nie jest większa od liczby średnich dobowych próbek niespełniających wymaganych warunków, określonych w załączniku nr 7 do rozporządzenia,
-b) próbki niespełniające warunków, o których mowa w lit. a, nie wykazują przekroczeń najwyższych dopuszczalnych wartości substancji zanieczyszczających albo minimalnego procentu redukcji substancji zanieczyszczających większych niż: o 100% dla BZT i ChZT oraz o 150% dla zawiesiny ogólnej,
-c) wartości azotu ogólnego i fosforu ogólnego w średnich rocznych próbkach nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających albo spełniają minimalny procent redukcji substancji zanieczyszczających, w tym załączniku;
-2) w zakresie najwyższych dopuszczalnych wartości substancji zanieczyszczających określonych w załączniku nr 4 do rozporządzenia, z wyłączeniem lp.1, 2, 3, 5, 6, 11 i 12 w tabeli II tego załącznika, jeżeli:
-a) wartości temperatury i pH zmierzone ręcznie lub automatycznie w okresie doby w odstępach nie większych niż dwie godziny stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, a jeżeli to konieczne – w innym miejscu reprezentatywnym dla ilości i jakości tych ścieków, nie przekraczają najwyższych dopuszczalnych wartości dla tych substancji,
-b) zmierzone wartości substancji zanieczyszczających, co najmniej w czterech z sześciu kolejnych średnich dobowych próbkach, nie przekraczają najwyższych dopuszczalnych wartości tych substancji, określonych w tej tabeli,
-c) zmierzone wartości substancji zanieczyszczających w średniej dobowej próbce ścieków przemysłowych biologicznie rozkładalnych, niespełniającej wymaganych warunków, przekraczają najwyższe dopuszczalne wartości substancji zanieczyszczających określone w lp. 8, 14, 25, 30, 40, 45, 54, 55 i 58 w tabeli II w załączniku nr 4 do rozporządzenia nie więcej niż o 100%.
+
+- **1)** w zakresie najwyższych dopuszczalnych wartości substancji zanieczyszczających określonych w załączniku nr 3 do rozporządzenia, jeżeli:
+    - **a)** liczba pobranych w ciągu roku średnich dobowych próbek, które nie spełniły warunków dotyczących najwyższych dopuszczalnych wartości substancji zanieczyszczających albo minimalnego procentu redukcji substancji zanieczyszczających określonych wskaźnikami BZT , ChZT, i zawiesiny ogólnej, nie jest większa od liczby średnich dobowych próbek niespełniających wymaganych warunków, określonych w załączniku nr 7 do rozporządzenia,
+    - **b)** próbki niespełniające warunków, o których mowa w lit. a, nie wykazują przekroczeń najwyższych dopuszczalnych wartości substancji zanieczyszczających albo minimalnego procentu redukcji substancji zanieczyszczających większych niż: o 100% dla BZT i ChZT oraz o 150% dla zawiesiny ogólnej,
+    - **c)** wartości azotu ogólnego i fosforu ogólnego w średnich rocznych próbkach nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających albo spełniają minimalny procent redukcji substancji zanieczyszczających, w tym załączniku;
+
+- **2)** w zakresie najwyższych dopuszczalnych wartości substancji zanieczyszczających określonych w załączniku nr 4 do rozporządzenia, z wyłączeniem lp.1, 2, 3, 5, 6, 11 i 12 w tabeli II tego załącznika, jeżeli:
+    - **a)** wartości temperatury i pH zmierzone ręcznie lub automatycznie w okresie doby w odstępach nie większych niż dwie godziny stale w tym samym miejscu, w którym ścieki są wprowadzane do wód lub do ziemi, a jeżeli to konieczne – w innym miejscu reprezentatywnym dla ilości i jakości tych ścieków, nie przekraczają najwyższych dopuszczalnych wartości dla tych substancji,
+    - **b)** zmierzone wartości substancji zanieczyszczających, co najmniej w czterech z sześciu kolejnych średnich dobowych próbkach, nie przekraczają najwyższych dopuszczalnych wartości tych substancji, określonych w tej tabeli,
+    - **c)** zmierzone wartości substancji zanieczyszczających w średniej dobowej próbce ścieków przemysłowych biologicznie rozkładalnych, niespełniającej wymaganych warunków, przekraczają najwyższe dopuszczalne wartości substancji zanieczyszczających określone w lp. 8, 14, 25, 30, 40, 45, 54, 55 i 58 w tabeli II w załączniku nr 4 do rozporządzenia nie więcej niż o 100%.
+
 11. W ocenie, czy ścieki, o których mowa w § 4 ust. 4, spełniają wymagane warunki, nie uwzględnia się przekroczeń najwyższych dopuszczalnych wartości substancji zanieczyszczających, jeżeli są wynikiem sytuacji nadzwyczajnych, w szczególności spowodowanych przez ulewne deszcze.
+
 12. Ścieki, o których mowa w § 4 ust. 9, spełniają warunki w zakresie najwyższych dopuszczalnych wartości substancji zanieczyszczających dla ścieków z oczyszczania gazów odlotowych z procesu termicznego przekształcania odpadów wprowadzanych do wód, określonych w załączniku nr 6 do rozporządzenia, jeżeli w okresie roku:
-1) wartość zawiesiny ogólnej nie przekracza najwyższych dopuszczalnych wartości odpowiednio w 95% i 100% prób;
-2) nie więcej niż jeden wynik pomiaru zawartości metali ciężkich przekracza najwyższe dopuszczalne wartości;
-3) wyniki pomiarów dioksyn i furanów nie przekraczają najwyższych dopuszczalnych wartości.
-§ 9. Przy ocenie spełnienia wymaganych warunków, wprowadzania do wód lub do ziemi ścieków, uwzględnia się ich ilość.
-§ 10. 1. Średnią dobową wartość substancji zanieczyszczających ustala się na podstawie wartości zmierzonej w średnich dobowych próbkach.
+
+- **1)** wartość zawiesiny ogólnej nie przekracza najwyższych dopuszczalnych wartości odpowiednio w 95% i 100% prób;
+- **2)** nie więcej niż jeden wynik pomiaru zawartości metali ciężkich przekracza najwyższe dopuszczalne wartości;
+- **3)** wyniki pomiarów dioksyn i furanów nie przekraczają najwyższych dopuszczalnych wartości.
+
+**§ 9.** Przy ocenie spełnienia wymaganych warunków, wprowadzania do wód lub do ziemi ścieków, uwzględnia się ich ilość.
+
+**§ 10.**
+
+1. Średnią dobową wartość substancji zanieczyszczających ustala się na podstawie wartości zmierzonej w średnich dobowych próbkach.
+
 2. Średnią miesięczną wartość substancji zanieczyszczających ustala się na podstawie średniej arytmetycznej ze wszystkich średnich dobowych wartości z okresu miesiąca.
+
 3. Średnią roczną wartość azotu ogólnego i fosforu ogólnego ustala się na podstawie średniej arytmetycznej ze wszystkich średnich dobowych wartości azotu ogólnego i fosforu ogólnego z okresu roku.
-§ 11. 1. Ścieki z oczyszczalni ścieków bytowych, ścieki z oczyszczalni ścieków komunalnych, ścieki bytowe z oczyszczalni ścieków w aglomeracji, ścieki komunalne z oczyszczalni ścieków w aglomeracji, ścieki przemysłowe pochodzące ze stacji uzdatniania wody, ścieki przemysłowe biologicznie rozkładalne, ścieki, o których mowa w § 4 ust. 4, wody z odwodnienia zakładów górniczych oraz ścieki oczyszczane w procesie odwróconej osmozy mogą być wprowadzane do ziemi, jeżeli nie będą stanowiły zagrożenia dla osiągnięcia celów środowiskowych określonych dla jednolitych części wód podziemnych, o których mowa w art. 55 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, oraz, jeżeli odpowiednio:
-1) nie zostały przekroczone najwyższe dopuszczalne wartości substancji zanieczyszczających dla:
-a) ścieków z oczyszczalni ścieków bytowych oraz ścieków z oczyszczalni ścieków komunalnych: – o RLM oczyszczalni do 9999 – określone w załączniku nr 2 do rozporządzenia dla RLM oczyszczalni od 2000 do 9999, – o RLM oczyszczalni 10000 i większej – określone w załączniku nr 2 do rozporządzenia odpowiednio do RLM oczyszczalni, – w aglomeracji – określone w załączniku nr 3 do rozporządzenia odpowiednio do RLM aglomeracji,
-b) ścieków komunalnych stanowiących mieszaninę ścieków bytowych ze ściekami przemysłowymi albo wodami opadowymi lub roztopowymi z oczyszczalni ścieków komunalnych: – o RLM oczyszczalni do 9999 – określone w załączniku nr 2 do rozporządzenia dla RLM oczyszczalni od 2000 do 9999, oraz w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika, – o RLM oczyszczalni 10000 i większej – określone w załączniku nr 2 do rozporządzenia odpowiednio do RLM oczyszczalni oraz w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika, – w aglomeracji – określone w załączniku nr 3 do rozporządzenia odpowiednio do RLM aglomeracji oraz w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika,
-c) ścieków przemysłowych biologicznie rozkładalnych, ścieków przemysłowych pochodzących ze stacji uzdatniania wody, ścieków oczyszczanych w procesie odwróconej osmozy oraz wód pochodzących z odwodnienia zakładów górniczych, określone w załączniku nr 4 do rozporządzenia,
-d) ścieków, o których mowa w § 4 ust. 4, określone w załączniku nr 3 do rozporządzenia oraz w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika;
-2) dla ścieków bytowych, ścieków komunalnych, ścieków przemysłowych biologicznie rozkładalnych, ścieków, o których mowa w § 4 ust. 4, oraz wód z odwodnienia zakładów górniczych – miejsce wprowadzania ścieków lub dno urządzenia wodnego jest oddzielone warstwą gruntu o miąższości co najmniej 3 m od najwyższego użytkowego poziomu wodonośnego wód podziemnych;
-3) dla ścieków przemysłowych pochodzących ze stacji uzdatniania wody oraz ścieków oczyszczanych w procesie odwróconej osmozy – miejsce wprowadzania ścieków lub dno urządzenia wodnego jest oddzielone warstwą gruntu o miąższości co najmniej 1,5 m od najwyższego użytkowego poziomu wodonośnego wód podziemnych.
+
+**§ 11.**
+
+1. Ścieki z oczyszczalni ścieków bytowych, ścieki z oczyszczalni ścieków komunalnych, ścieki bytowe z oczyszczalni ścieków w aglomeracji, ścieki komunalne z oczyszczalni ścieków w aglomeracji, ścieki przemysłowe pochodzące ze stacji uzdatniania wody, ścieki przemysłowe biologicznie rozkładalne, ścieki, o których mowa w § 4 ust. 4, wody z odwodnienia zakładów górniczych oraz ścieki oczyszczane w procesie odwróconej osmozy mogą być wprowadzane do ziemi, jeżeli nie będą stanowiły zagrożenia dla osiągnięcia celów środowiskowych określonych dla jednolitych części wód podziemnych, o których mowa w art. 55 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, oraz, jeżeli odpowiednio:
+
+- **1)** nie zostały przekroczone najwyższe dopuszczalne wartości substancji zanieczyszczających dla:
+    - **a)** ścieków z oczyszczalni ścieków bytowych oraz ścieków z oczyszczalni ścieków komunalnych: – o RLM oczyszczalni do 9999 – określone w załączniku nr 2 do rozporządzenia dla RLM oczyszczalni od 2000 do 9999, – o RLM oczyszczalni 10000 i większej – określone w załączniku nr 2 do rozporządzenia odpowiednio do RLM oczyszczalni, – w aglomeracji – określone w załączniku nr 3 do rozporządzenia odpowiednio do RLM aglomeracji,
+    - **b)** ścieków komunalnych stanowiących mieszaninę ścieków bytowych ze ściekami przemysłowymi albo wodami opadowymi lub roztopowymi z oczyszczalni ścieków komunalnych: – o RLM oczyszczalni do 9999 – określone w załączniku nr 2 do rozporządzenia dla RLM oczyszczalni od 2000 do 9999, oraz w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika, – o RLM oczyszczalni 10000 i większej – określone w załączniku nr 2 do rozporządzenia odpowiednio do RLM oczyszczalni oraz w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika, – w aglomeracji – określone w załączniku nr 3 do rozporządzenia odpowiednio do RLM aglomeracji oraz w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika,
+    - **c)** ścieków przemysłowych biologicznie rozkładalnych, ścieków przemysłowych pochodzących ze stacji uzdatniania wody, ścieków oczyszczanych w procesie odwróconej osmozy oraz wód pochodzących z odwodnienia zakładów górniczych, określone w załączniku nr 4 do rozporządzenia,
+    - **d)** ścieków, o których mowa w § 4 ust. 4, określone w załączniku nr 3 do rozporządzenia oraz w załączniku nr 4 do rozporządzenia, z wyłączeniem lp. 3, 5, 6, 11 i 12 w tabeli II tego załącznika;
+
+- **2)** dla ścieków bytowych, ścieków komunalnych, ścieków przemysłowych biologicznie rozkładalnych, ścieków, o których mowa w § 4 ust. 4, oraz wód z odwodnienia zakładów górniczych – miejsce wprowadzania ścieków lub dno urządzenia wodnego jest oddzielone warstwą gruntu o miąższości co najmniej 3 m od najwyższego użytkowego poziomu wodonośnego wód podziemnych;
+- **3)** dla ścieków przemysłowych pochodzących ze stacji uzdatniania wody oraz ścieków oczyszczanych w procesie odwróconej osmozy – miejsce wprowadzania ścieków lub dno urządzenia wodnego jest oddzielone warstwą gruntu o miąższości co najmniej 1,5 m od najwyższego użytkowego poziomu wodonośnego wód podziemnych.
+
 2. Wprowadzanie do ziemi ścieków, o których mowa w ust. 1 pkt 1 lit. a, b i d, z oczyszczalni ścieków o RLM 10000 i większej, dopuszcza się jedynie w przypadkach, gdy zastosowanie dostępnych technik w zakresie wprowadzania ścieków do wód jest niemożliwe lub ekonomicznie nieuzasadnione.
+
 3. Ścieki zbliżone składem do ścieków przemysłowych, powstające w wyniku działalności innej niż działalność handlowa, przemysłowa, składowa, transportowa lub usługowa albo ścieki przemysłowe będące mieszaniną ścieków bytowych, wód z odwodnienia zakładów górniczych, wód chłodniczych, lub ścieków pochodzących ze stacji uzdatniania wody, a także wód opadowych i roztopowych mogą być wprowadzane do ziemi jedynie w sytuacjach, gdy zastosowanie dostępnych technik w zakresie wprowadzania ścieków do wód jest niemożliwe lub ekonomicznie nieuzasadnione, pod warunkiem że:
-1) ścieki bytowe przed zmieszaniem z wodami z odwodnienia zakładów górniczych, wodami chłodniczymi, wodami opadowymi lub roztopowymi lub ściekami pochodzącymi ze stacji uzdatniania wody nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych odpowiednio w załączniku nr 2 albo w załączniku nr 3 do rozporządzenia;
-2) wody z odwodnienia zakładów górniczych przed zmieszaniem ze ściekami bytowymi, wodami chłodniczymi, wodami opadowymi lub roztopowymi lub ściekami pochodzącymi ze stacji uzdatniania wody nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających określonych w załączniku nr 4 do rozporządzenia;
-3) temperatura wód chłodniczych przed zmieszaniem ze ściekami bytowymi, wodami z odwodnienia zakładów górniczych, wodami opadowymi lub roztopowymi lub ściekami pochodzącymi ze stacji uzdatniania wody nie jest wyższa niż 35°C;
-4) wody opadowe lub roztopowe przed zmieszaniem ze ściekami bytowymi, wodami z odwodnienia zakładów górniczych, wodami chłodniczymi lub ściekami pochodzącymi ze stacji uzdatniania wody nie zawierają zawiesiny ogólnej w ilościach większych niż 100 mg/l, a węglowodorów ropopochodnych w ilościach większych niż 15 mg/l;
-5) ścieki pochodzące ze stacji uzdatniania wody przed zmieszaniem ze ściekami bytowymi, wodami z odwodnienia zakładów górniczych, wodami chłodniczymi lub wodami opadowymi lub roztopowymi nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających określonych w załączniku nr 4 do rozporządzenia;
-6) miejsce wprowadzania ścieków do ziemi lub dno urządzenia wodnego jest oddzielone warstwą gruntu o miąższości co najmniej 3 m od najwyższego użytkowego poziomu wodonośnego wód podziemnych.
+
+- **1)** ścieki bytowe przed zmieszaniem z wodami z odwodnienia zakładów górniczych, wodami chłodniczymi, wodami opadowymi lub roztopowymi lub ściekami pochodzącymi ze stacji uzdatniania wody nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających, określonych odpowiednio w załączniku nr 2 albo w załączniku nr 3 do rozporządzenia;
+- **2)** wody z odwodnienia zakładów górniczych przed zmieszaniem ze ściekami bytowymi, wodami chłodniczymi, wodami opadowymi lub roztopowymi lub ściekami pochodzącymi ze stacji uzdatniania wody nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających określonych w załączniku nr 4 do rozporządzenia;
+- **3)** temperatura wód chłodniczych przed zmieszaniem ze ściekami bytowymi, wodami z odwodnienia zakładów górniczych, wodami opadowymi lub roztopowymi lub ściekami pochodzącymi ze stacji uzdatniania wody nie jest wyższa niż 35°C;
+- **4)** wody opadowe lub roztopowe przed zmieszaniem ze ściekami bytowymi, wodami z odwodnienia zakładów górniczych, wodami chłodniczymi lub ściekami pochodzącymi ze stacji uzdatniania wody nie zawierają zawiesiny ogólnej w ilościach większych niż 100 mg/l, a węglowodorów ropopochodnych w ilościach większych niż 15 mg/l;
+- **5)** ścieki pochodzące ze stacji uzdatniania wody przed zmieszaniem ze ściekami bytowymi, wodami z odwodnienia zakładów górniczych, wodami chłodniczymi lub wodami opadowymi lub roztopowymi nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających określonych w załączniku nr 4 do rozporządzenia;
+- **6)** miejsce wprowadzania ścieków do ziemi lub dno urządzenia wodnego jest oddzielone warstwą gruntu o miąższości co najmniej 3 m od najwyższego użytkowego poziomu wodonośnego wód podziemnych.
+
 4. Ścieki pochodzące z własnego gospodarstwa domowego lub gospodarstwa rolnego, zlokalizowanego poza aglomeracją, mogą być wprowadzane do ziemi w ramach zwykłego korzystania z wód, w granicach gruntu stanowiącego własność wprowadzającego, jeżeli są spełnione łącznie następujące warunki:
-1) ich ilość nie przekracza łącznie 5,0 m na dobę;
-2) BZT ścieków dopływających do indywidualnego systemu oczyszczania ścieków jest redukowane co najmniej o 20%, a zawartość zawiesiny ogólnej co najmniej o 50%;
-3) miejsce wprowadzania ścieków do ziemi jest oddzielone warstwą gruntu o miąższości co najmniej 1,5 m od najwyższego użytkowego poziomu wodonośnego wód podziemnych.
+
+- **1)** ich ilość nie przekracza łącznie 5,0 m na dobę;
+- **2)** BZT ścieków dopływających do indywidualnego systemu oczyszczania ścieków jest redukowane co najmniej o 20%, a zawartość zawiesiny ogólnej co najmniej o 50%;
+- **3)** miejsce wprowadzania ścieków do ziemi jest oddzielone warstwą gruntu o miąższości co najmniej 1,5 m od najwyższego użytkowego poziomu wodonośnego wód podziemnych.
+
 5. Ścieki pochodzące z własnego gospodarstwa domowego lub gospodarstwa rolnego, zlokalizowanego w aglomeracji, mogą być wprowadzane do ziemi w ramach zwykłego korzystania z wód, w granicach gruntu stanowiącego własność wprowadzającego, jeżeli są spełnione łącznie następujące warunki:
-1) ich ilość nie przekracza łącznie 5,0 m na dobę;
-2) nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających właściwych dla RLM aglomeracji, na obszarze której zlokalizowane jest gospodarstwo, określonych w załączniku nr 3 do rozporządzenia;
-3) miejsce ich wprowadzania do ziemi jest oddzielone warstwą gruntu o miąższości co najmniej 1,5 m od najwyższego użytkowego poziomu wodonośnego wód podziemnych.
-§ 12. 1. Ścieki przemysłowe o sumarycznym stężeniu chlorków i siarczanów powyżej 1500 mg/l, oraz wody pochodzące z odwodnienia zakładów górniczych niezależnie od sumy stężeń chlorków i siarczanów, mogą być wprowadzane do:
-1) wód morza terytorialnego i morskich wód wewnętrznych – bez ograniczeń;
-2) śródlądowych wód powierzchniowych płynących – jeżeli sumaryczna zawartość stężeń chlorków i siarczanów w tych wodach, wyliczona przy założeniu pełnego wymieszania, nie przekroczy 1000 mg/l.
+
+- **1)** ich ilość nie przekracza łącznie 5,0 m na dobę;
+- **2)** nie przekraczają najwyższych dopuszczalnych wartości substancji zanieczyszczających właściwych dla RLM aglomeracji, na obszarze której zlokalizowane jest gospodarstwo, określonych w załączniku nr 3 do rozporządzenia;
+- **3)** miejsce ich wprowadzania do ziemi jest oddzielone warstwą gruntu o miąższości co najmniej 1,5 m od najwyższego użytkowego poziomu wodonośnego wód podziemnych.
+
+**§ 12.**
+
+1. Ścieki przemysłowe o sumarycznym stężeniu chlorków i siarczanów powyżej 1500 mg/l, oraz wody pochodzące z odwodnienia zakładów górniczych niezależnie od sumy stężeń chlorków i siarczanów, mogą być wprowadzane do:
+
+- **1)** wód morza terytorialnego i morskich wód wewnętrznych – bez ograniczeń;
+- **2)** śródlądowych wód powierzchniowych płynących – jeżeli sumaryczna zawartość stężeń chlorków i siarczanów w tych wodach, wyliczona przy założeniu pełnego wymieszania, nie przekroczy 1000 mg/l.
+
 2. Dla ścieków, o których mowa w ust. 1, najwyższe dopuszczalne wartości substancji zanieczyszczających, są określone w tabeli II w załączniku nr 4 do rozporządzenia.
+
 3. Jeżeli nie można spełnić warunków, o których mowa w ust. 1 pkt 2, a zastosowanie dostępnych technik i technologii oczyszczania ścieków oraz zmiana w procesie produkcji są niemożliwe lub ekonomicznie nieuzasadnione, można dopuścić wzrost sumarycznego stężenia chlorków i siarczanów do wartości większej niż 1000 mg/l, poniżej miejsca wprowadzania ścieków lub wód, o których mowa w ust. 1, o ile nie spowoduje to szkód w środowisku wodnym i nie utrudni korzystania z wód przez innych użytkowników.
-§ 13. 1. Wody chłodnicze z otwartych układów chłodzenia oraz z zamkniętych obiegów chłodzących mogą być wprowadzane do wód lub do ziemi pod warunkiem, że ich temperatura nie jest wyższa niż 35°C.
+
+**§ 13.**
+
+1. Wody chłodnicze z otwartych układów chłodzenia oraz z zamkniętych obiegów chłodzących mogą być wprowadzane do wód lub do ziemi pod warunkiem, że ich temperatura nie jest wyższa niż 35°C.
+
 2. Warunek, o którym mowa w ust. 1, nie dotyczy wprowadzania wód chłodniczych do wód morza terytorialnego.
-§ 14. 1. Ścieki z przelewów burzowych komunalnej kanalizacji ogólnospławnej mogą być wprowadzane do śródlądowych wód powierzchniowych płynących, wód przybrzeżnych oraz wód przejściowych, jeżeli średnia roczna liczba zrzutów z poszczególnych przelewów nie jest większa niż 10.
+
+**§ 14.**
+
+1. Ścieki z przelewów burzowych komunalnej kanalizacji ogólnospławnej mogą być wprowadzane do śródlądowych wód powierzchniowych płynących, wód przybrzeżnych oraz wód przejściowych, jeżeli średnia roczna liczba zrzutów z poszczególnych przelewów nie jest większa niż 10.
+
 2. Oceny spełnienia warunku, o którym mowa w ust. 1, dokonuje się na podstawie średniej rocznej liczby zrzutów z poszczególnych przelewów burzowych komunalnej kanalizacji ogólnospławnej, określonej na podstawie obserwacji funkcjonowania przelewów przez okres co najmniej 2 lat.
+
 3. Średnią roczną liczbę zrzutów ustala się na podstawie danych obejmujących wyniki obserwacji opadów z okresu co najmniej 10 lat lub wyniki obserwacji działania istniejących przelewów burzowych w ciągu co najmniej 2 lat.
+
 4. Średnią roczną liczbę zrzutów ścieków z komunalnej kanalizacji ogólnospławnej w aglomeracji o RLM 100000 i większej ustala się na podstawie modeli symulacyjnych.
+
 5. W przypadku braku modeli symulacyjnych, o których mowa w ust. 4, średnią roczną liczbę zrzutów ścieków z komunalnej kanalizacji ogólnospławnej w aglomeracji o RLM 100000 i większej ustala się zgodnie z ust. 2, przy czym do czasu opracowania tych modeli zmniejsza się dla poszczególnych przelewów burzowych średnią roczną liczbę zrzutów, o której mowa w ust. 1.
+
 6. W przypadku braku danych, o których mowa w ust. 3, ścieki z przelewów burzowych komunalnej kanalizacji ogólnospławnej mogą być wprowadzane do wód, jeżeli:
-1) kanalizacja doprowadza ścieki do oczyszczalni w aglomeracji o RLM do 99999;
-2) natężenie przepływu w komunalnej kanalizacji ogólnospławnej przed przelewem burzowym, wywołane przez zjawiska opadowe, jest co najmniej czterokrotnie większe; natężenie to jest obliczane według wzoru: (3+1) Q, gdzie: Q stanowi średnie natężenie przepływu w tej kanalizacji, w okresach pogody bezopadowej, określonego dla doby o średniej ilości ścieków dopływających w okresie roku do oczyszczalni ścieków.
+
+- **1)** kanalizacja doprowadza ścieki do oczyszczalni w aglomeracji o RLM do 99999;
+- **2)** natężenie przepływu w komunalnej kanalizacji ogólnospławnej przed przelewem burzowym, wywołane przez zjawiska opadowe, jest co najmniej czterokrotnie większe; natężenie to jest obliczane według wzoru: (3+1) Q, gdzie: Q stanowi średnie natężenie przepływu w tej kanalizacji, w okresach pogody bezopadowej, określonego dla doby o średniej ilości ścieków dopływających w okresie roku do oczyszczalni ścieków.
+
 7. Jeżeli na podstawie bezpośrednich analiz wód, do których wprowadzane są ścieki z przelewów burzowych komunalnej kanalizacji ogólnospławnej, zostanie stwierdzone, że ścieki z tych przelewów powodują zmianę jakości wód uniemożliwiającą korzystanie z nich zgodnie z ich przeznaczeniem, należy zmniejszyć średnią roczną liczbę zrzutów, o której mowa w ust. 1.
-§ 15. 1. Wody wykorzystane, odprowadzane z obiektów chowu lub hodowli ryb w obiektach przepływowych, charakteryzujących się poborem zwrotnym, wprowadzane do wód lub do ziemi nie powinny przekraczać najwyższego dopuszczalnego wzrostu zawartości substancji zanieczyszczających w wodach wykorzystanych na potrzeby chowu lub hodowli ryb, określonego w załączniku nr 8 do rozporządzenia.
+
+**§ 15.**
+
+1. Wody wykorzystane, odprowadzane z obiektów chowu lub hodowli ryb w obiektach przepływowych, charakteryzujących się poborem zwrotnym, wprowadzane do wód lub do ziemi nie powinny przekraczać najwyższego dopuszczalnego wzrostu zawartości substancji zanieczyszczających w wodach wykorzystanych na potrzeby chowu lub hodowli ryb, określonego w załączniku nr 8 do rozporządzenia.
+
 2. Do wód lub do ziemi mogą być wprowadzane wody, o których mowa w ust. 1, zawierające wyłącznie zanieczyszczenia:
-1) powstałe w wyniku procesów metabolicznych związanych z procesem chowu i hodowli ryb;
-2) spowodowane produktami leczniczymi weterynaryjnymi dopuszczonymi do obrotu, stosowanymi zgodnie z ich charakterystyką w procesie chowu i hodowli ryb.
+
+- **1)** powstałe w wyniku procesów metabolicznych związanych z procesem chowu i hodowli ryb;
+- **2)** spowodowane produktami leczniczymi weterynaryjnymi dopuszczonymi do obrotu, stosowanymi zgodnie z ich charakterystyką w procesie chowu i hodowli ryb.
+
 3. Wody, o których mowa w ust. 1, spełniają wymagane warunki, jeżeli:
-1) na 4 pobrane średnie dobowe próbki nie więcej niż jedna przekracza najwyższe dopuszczalne wzrosty zawartości substancji zanieczyszczających, określone w załączniku nr 8 do rozporządzenia;
-2) na 2 pobrane, w następnych latach, średnie dobowe próbki nie więcej niż jedna przekracza najwyższe dopuszczalne wzrosty zawartości substancji zanieczyszczających, określone w załączniku nr 8 do rozporządzenia.
+
+- **1)** na 4 pobrane średnie dobowe próbki nie więcej niż jedna przekracza najwyższe dopuszczalne wzrosty zawartości substancji zanieczyszczających, określone w załączniku nr 8 do rozporządzenia;
+- **2)** na 2 pobrane, w następnych latach, średnie dobowe próbki nie więcej niż jedna przekracza najwyższe dopuszczalne wzrosty zawartości substancji zanieczyszczających, określone w załączniku nr 8 do rozporządzenia.
+
 4. Liczba pobieranych średnich dobowych próbek wód dopływających do obiektów chowu lub hodowli ryb, a także wód, o których mowa w ust. 1, nie może być mniejsza niż 4 próbki w okresie roku, a jeżeli zostanie wykazane, że wody, o których mowa w ust. 1, spełniają wymagane warunki – 2 próbki w następnym roku.
+
 5. W ocenie jakości wód, o których mowa w ust. 1, nie uwzględnia się przekroczeń najwyższych dopuszczalnych wzrostów zawartości substancji zanieczyszczających, określonych w załączniku nr 8 do rozporządzenia, jeżeli są one następstwem wyjątkowych warunków pogodowych, w szczególności ulewnego deszczu, topnienia śniegu, upałów, suszy.
-§ 16. 1. Ścieki mogą być przeznaczone do rolniczego wykorzystania, jeżeli:
-1) BZT ścieków jest redukowane co najmniej o 20%, a zawartość zawiesiny ogólnej co najmniej o 50%;
-2) spełniają warunki sanitarne, określone w załączniku nr 9 do rozporządzenia;
-3) nie stanowią zagrożenia dla jakości wód podziemnych i powierzchniowych, a w szczególności nie spowodują zanieczyszczenia tych wód substancjami szczególnie szkodliwymi dla środowiska wodnego;
-4) nie zawierają substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości substancji zanieczyszczających, określone w:
-a) lp. 1 i 2 w tabeli I w załączniku nr 4 do rozporządzenia,
-b) lp. 2 i 21–58 w tabeli II w załączniku nr 4 do rozporządzenia.
+
+**§ 16.**
+
+1. Ścieki mogą być przeznaczone do rolniczego wykorzystania, jeżeli:
+
+- **1)** BZT ścieków jest redukowane co najmniej o 20%, a zawartość zawiesiny ogólnej co najmniej o 50%;
+- **2)** spełniają warunki sanitarne, określone w załączniku nr 9 do rozporządzenia;
+- **3)** nie stanowią zagrożenia dla jakości wód podziemnych i powierzchniowych, a w szczególności nie spowodują zanieczyszczenia tych wód substancjami szczególnie szkodliwymi dla środowiska wodnego;
+- **4)** nie zawierają substancji zanieczyszczających w ilościach przekraczających najwyższe dopuszczalne wartości substancji zanieczyszczających, określone w:
+    - **a)** lp. 1 i 2 w tabeli I w załączniku nr 4 do rozporządzenia,
+    - **b)** lp. 2 i 21–58 w tabeli II w załączniku nr 4 do rozporządzenia.
+
 2. Dopuszczalna zawartość metali ciężkich w glebach, w warstwie 0–25 cm, na obszarach, na których może być stosowane rolnicze wykorzystanie ścieków, jest określona w załączniku nr 10 do rozporządzenia.
+
 3. Badania mikrobiologiczne i parazytologiczne oraz badania stanu i składu ścieków przeznaczonych do rolniczego wykorzystania wykonuje się co najmniej raz na dwa miesiące.
+
 4. Badania zawartości metali ciężkich w glebach na obszarach, na których może być stosowane rolnicze wykorzystanie ścieków, przeprowadza się co 5 lat.
+
 5. Rolnicze wykorzystanie ścieków może być stosowane poza obszarami płytkiego występowania skał szczelinowych nieodizolowanych od powierzchni warstwą nieprzepuszczalną.
+
 6. Położenie gruntów, na których może być stosowane rolnicze wykorzystanie ścieków, oraz położenie urządzeń i instalacji przeznaczonych do magazynowania i przygotowania ścieków do rolniczego wykorzystania powinno odpowiadać warunkom określonym w załączniku nr 11 do rozporządzenia.
-§ 17. 1. Wody opadowe lub roztopowe, ujęte w otwarte lub zamknięte systemy kanalizacyjne, pochodzące z zanieczyszczonej powierzchni szczelnej:
-1) terenów przemysłowych, składowych, baz transportowych, portów, lotnisk, miast, dróg zaliczanych do kategorii dróg krajowych, wojewódzkich lub powiatowych klasy G, a także parkingów o powierzchni powyżej 0,1 ha, w ilości, jaka powstaje z opadów o natężeniu co najmniej 15 l na sekundę na 1 ha,
-2) obiektów magazynowania i dystrybucji paliw, w ilości, jaka powstaje z opadów o częstości występowania jeden raz w roku i czasie trwania 15 minut, lecz w ilości nie mniejszej niż powstająca z opadów o natężeniu 77 l na sekundę na 1 ha – mogą być wprowadzane do wód lub do urządzeń wodnych, z wyjątkiem przypadków, o których mowa w art. 75a ustawy z dnia 20 lipca 2017 r. – Prawo wodne, o ile nie zawierają substancji zanieczyszczających w ilościach przekraczających 100 mg/l zawiesiny ogólnej oraz 15 mg/l węglowodorów ropopochodnych.
+
+**§ 17.**
+
+1. Wody opadowe lub roztopowe, ujęte w otwarte lub zamknięte systemy kanalizacyjne, pochodzące z zanieczyszczonej powierzchni szczelnej:
+
+- **1)** terenów przemysłowych, składowych, baz transportowych, portów, lotnisk, miast, dróg zaliczanych do kategorii dróg krajowych, wojewódzkich lub powiatowych klasy G, a także parkingów o powierzchni powyżej 0,1 ha, w ilości, jaka powstaje z opadów o natężeniu co najmniej 15 l na sekundę na 1 ha,
+- **2)** obiektów magazynowania i dystrybucji paliw, w ilości, jaka powstaje z opadów o częstości występowania jeden raz w roku i czasie trwania 15 minut, lecz w ilości nie mniejszej niż powstająca z opadów o natężeniu 77 l na sekundę na 1 ha – mogą być wprowadzane do wód lub do urządzeń wodnych, z wyjątkiem przypadków, o których mowa w art. 75a ustawy z dnia 20 lipca 2017 r. – Prawo wodne, o ile nie zawierają substancji zanieczyszczających w ilościach przekraczających 100 mg/l zawiesiny ogólnej oraz 15 mg/l węglowodorów ropopochodnych.
+
 2. Wody opadowe lub roztopowe pochodzące z powierzchni innych niż powierzchnie, o których mowa w ust. 1, mogą być wprowadzane do wód lub do urządzeń wodnych, z wyjątkiem przypadków, o których mowa w art. 75a ustawy z dnia 20 lipca 2017 r. – Prawo wodne, bez oczyszczania.
+
 3. Wody opadowe lub roztopowe w ilościach przekraczających wartości, o których mowa w ust. 1, mogą być wprowadzane do wód lub do urządzeń wodnych bez oczyszczania, pod warunkiem że urządzenie oczyszczające jest zabezpieczone przed dopływem wód opadowych i roztopowych o natężeniu większym niż jego przepustowość nominalna.
+
 4. Dopuszcza się wprowadzanie wód opadowych z istniejących przelewów kanalizacji deszczowej do jezior i ich dopływów oraz do innych zbiorników wodnych o ciągłym dopływie lub odpływie wód powierzchniowych, a także do wód znajdujących się w sztucznych zbiornikach wodnych usytuowanych na wodach płynących, jeżeli średnia roczna liczba zrzutów z poszczególnych przelewów kanalizacji deszczowej nie jest większa niż 5.
+
 5. Ocenę, czy są spełnione warunki, o których mowa w ust. 1, przeprowadza się na podstawie dokonywanych przez zakład, co najmniej dwa razy w roku, przeglądów eksploatacyjnych urządzeń oczyszczających.
+
 6. Eksploatacja powinna odbywać się zgodnie z instrukcją obsługi i konserwacji urządzeń oczyszczających, a czynności z nią związane odnotowane w zeszycie eksploatacji tego urządzenia.
+
 7. Spełnienie warunków, o których mowa w ust. 1, w stosunku do wód opadowych lub roztopowych wprowadzanych do wód lub do urządzeń wodnych z urządzeń oczyszczających o przepustowości nominalnej większej niż 300 l/s ocenia się na podstawie przeglądów, o których mowa w ust. 5, oraz na podstawie badań, w zakresie normowanych substancji zanieczyszczających, wykonanych w czasie trwania opadu, co najmniej dwa razy w roku, w okresie wiosny i jesieni; próbkę do badań należy uzyskać przez zmieszanie trzech próbek o jednakowej objętości pobranych w odstępach czasu nie krótszych niż 30 minut.
+
 8. Oceny spełnienia warunków, o których mowa w ust. 4, dokonuje się na podstawie średniej rocznej liczby zrzutów z poszczególnych przelewów kanalizacji deszczowej, określonej na podstawie obserwacji funkcjonowania przelewów przez okres co najmniej 2 lat.
-§ 18. W badaniach próbek ścieków oraz wód opadowych lub roztopowych stosuje się metodyki referencyjne analizy próbek, określone w załączniku nr 12 do rozporządzenia.
-§ 19. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 12 lipca 2019 r. (poz. . . . ) Załącznik nr 1 SUBSTANCJE SUBSTANCJE SZCZEGÓLNIE SZCZEGÓLNIE SZKODLIWE SZKODLIWE DLA DLA ŚRODOWISKA ŚRODOWISKA WODNEGO, WODNEGO, POWODUJĄCE POWODUJĄCE ZANIECZYSZCZENIE ZANIECZYSZCZENIE WÓD, WÓD, KTÓRE KTÓRE POWINNO POWINNO BYĆ BYĆ ELIMINOWANE ELIMINOWANE (WYKAZ (WYKAZ I), I), ORAZ SUBSTANCJE ORAZ SUBSTANCJE SZCZEGÓLNIE SZCZEGÓLNIE SZKODLIWE SZKODLIWE DLA ŚRODOWISKA DLA ŚRODOWISKA WODNEGO, WODNEGO, POWODUJĄCE POWODUJĄCE ZANIECZYSZCZENIE ZANIECZYSZCZENIE WÓD, KTÓRE WÓD, KTÓRE POWINNO POWINNO BYĆ OGRANICZANE BYĆ OGRANICZANE (WYKAZ (WYKAZ II) II) WYKAZ I Do substancji szczególnie szkodliwych dla środowiska wodnego, powodujących zanieczyszczenie wód, które powinno być eliminowane, a które stanowią poszczególne substancje – z wyjątkiem tych, które charakteryzują się niewielką toksycznością, trwałością w środowisku, zdolnością do bioakumulacji oraz zagrożeniem dla wód oraz życia lub zdrowia ludzi, i z tego powodu są biologicznie nieszkodliwe lub są szybko przekształcane w wodzie w substancje biologicznie nieszkodliwe – należące do następujących rodzin i grup substancji, zalicza się:
-1) związki fluorowcoorganiczne lub substancje, które mogą tworzyć takie związki w środowisku wodnym;
-2) związki fosforoorganiczne;
-3) związki cynoorganiczne;
-4) substancje, które mają właściwości rakotwórcze, mutagenne lub teratogenne w środowisku wodnym lub przez to środowisko;
-5) rtęć i jej związki;
-6) kadm i jego związki;
-7) trwałe oleje mineralne i węglowodory ropopochodne ;
-8) trwałe syntetyczne substancje, które mogą pływać, pozostawać w zawieszeniu lub tonąć i które mogą kolidować z jakimikolwiek sposobami wykorzystania wód powierzchniowych.
-WYKAZ II Do substancji szczególnie szkodliwych dla środowiska wodnego, powodujących zanieczyszczenie wód, które powinno być ograniczane, zalicza się:
-1) substancje należące do rodzin i grup substancji z wykazu I, nieujęte w tabeli I załącznika nr 4 do rozporządzenia;
-2) niektóre substancje lub kategorie substancji należące do rodzin i grup substancji wymienionych niżej, które mają szkodliwy wpływ na środowisko wodne na określonym obszarze:
-a) niemetale i metale oraz ich związki: cynk, miedź, nikiel, chrom, ołów, selen, arsen, antymon, molibden, tytan, cyna, bar, beryl, bor, uran, wanad, kobalt, tal, tellur, srebro,
-b) biocydy i ich pochodne nieujęte w wykazie I,
-c) substancje, które mają szkodliwy wpływ na smak lub zapach produktów przeznaczonych do spożycia przez ludzi, pochodzących ze środowiska wodnego, oraz związki, które mogą spowodować powstanie takich substancji w wodzie, co spowodowałoby, że wody te nie nadawałyby się do spożycia przez ludzi,
-d) toksyczne lub trwałe związki organiczne krzemu oraz substancje, które mogą spowodować powstanie takich związków w wodzie, z wyjątkiem tych, które są biologicznie nieszkodliwe lub są szybko przekształcane w wodzie w substancje nieszkodliwe,
-e) nieorganiczne związki fosforu i fosfor niezwiązany,
-f) nietrwałe oleje mineralne i węglowodory ropopochodne ,
-g) fluorki,
-h) cyjanki,
-i) substancje, które ujemnie wpływają na bilans tlenu w wodzie, szczególnie amoniak i azotyny.
-Objaśnienia: Trwałe oleje mineralne i węglowodory ropopochodne pochodzące z ropy naftowej lub przeróbki chemicznej węgla, a także sama ropa naftowa są substancjami ciekłymi charakteryzującymi się trudną rozpuszczalnością w wodzie, niską i bardzo niską prężnością par, a przez to pozostają przez długi okres w środowisku wodnym, praktycznie nie emitując składników do atmosfery.
-Nietrwałe oleje mineralne i węglowodory ropopochodne są substancjami gazowymi lub ciekłymi o niskich temperaturach wrzenia (charakteryzujące się wysoką prężnością par i trudno emulgujące się w wodzie), które w normalnych warunkach łatwo odparowują, przemieszczając się tym samym ze środowiska wodnego do powietrza atmosferycznego.
+
+**§ 18.** W badaniach próbek ścieków oraz wód opadowych lub roztopowych stosuje się metodyki referencyjne analizy próbek, określone w załączniku nr 12 do rozporządzenia.
+
+**§ 19.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Załączniki do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 12 lipca 2019 r. (poz. . . . ) Załącznik nr 1 SUBSTANCJE SUBSTANCJE SZCZEGÓLNIE SZCZEGÓLNIE SZKODLIWE SZKODLIWE DLA DLA ŚRODOWISKA ŚRODOWISKA WODNEGO, WODNEGO, POWODUJĄCE POWODUJĄCE ZANIECZYSZCZENIE ZANIECZYSZCZENIE WÓD, WÓD, KTÓRE KTÓRE POWINNO POWINNO BYĆ BYĆ ELIMINOWANE ELIMINOWANE (WYKAZ (WYKAZ I), I), ORAZ SUBSTANCJE ORAZ SUBSTANCJE SZCZEGÓLNIE SZCZEGÓLNIE SZKODLIWE SZKODLIWE DLA ŚRODOWISKA DLA ŚRODOWISKA WODNEGO, WODNEGO, POWODUJĄCE POWODUJĄCE ZANIECZYSZCZENIE ZANIECZYSZCZENIE WÓD, KTÓRE WÓD, KTÓRE POWINNO POWINNO BYĆ OGRANICZANE BYĆ OGRANICZANE (WYKAZ (WYKAZ II) II) WYKAZ I Do substancji szczególnie szkodliwych dla środowiska wodnego, powodujących zanieczyszczenie wód, które powinno być eliminowane, a które stanowią poszczególne substancje – z wyjątkiem tych, które charakteryzują się niewielką toksycznością, trwałością w środowisku, zdolnością do bioakumulacji oraz zagrożeniem dla wód oraz życia lub zdrowia ludzi, i z tego powodu są biologicznie nieszkodliwe lub są szybko przekształcane w wodzie w substancje biologicznie nieszkodliwe – należące do następujących rodzin i grup substancji, zalicza się:
+
+- **1)** związki fluorowcoorganiczne lub substancje, które mogą tworzyć takie związki w środowisku wodnym;
+- **2)** związki fosforoorganiczne;
+- **3)** związki cynoorganiczne;
+- **4)** substancje, które mają właściwości rakotwórcze, mutagenne lub teratogenne w środowisku wodnym lub przez to środowisko;
+- **5)** rtęć i jej związki;
+- **6)** kadm i jego związki;
+- **7)** trwałe oleje mineralne i węglowodory ropopochodne ;
+- **8)** trwałe syntetyczne substancje, które mogą pływać, pozostawać w zawieszeniu lub tonąć i które mogą kolidować z jakimikolwiek sposobami wykorzystania wód powierzchniowych. WYKAZ II Do substancji szczególnie szkodliwych dla środowiska wodnego, powodujących zanieczyszczenie wód, które powinno być ograniczane, zalicza się:
+- **1)** substancje należące do rodzin i grup substancji z wykazu I, nieujęte w tabeli I załącznika nr 4 do rozporządzenia;
+- **2)** niektóre substancje lub kategorie substancji należące do rodzin i grup substancji wymienionych niżej, które mają szkodliwy wpływ na środowisko wodne na określonym obszarze: Objaśnienia: Trwałe oleje mineralne i węglowodory ropopochodne pochodzące z ropy naftowej lub przeróbki chemicznej węgla, a także sama ropa naftowa są substancjami ciekłymi charakteryzującymi się trudną rozpuszczalnością w wodzie, niską i bardzo niską prężnością par, a przez to pozostają przez długi okres w środowisku wodnym, praktycznie nie emitując składników do atmosfery. Nietrwałe oleje mineralne i węglowodory ropopochodne są substancjami gazowymi lub ciekłymi o niskich temperaturach wrzenia (charakteryzujące się wysoką prężnością par i trudno emulgujące się w wodzie), które w normalnych warunkach łatwo odparowują, przemieszczając się tym samym ze środowiska wodnego do powietrza atmosferycznego.
+    - **a)** niemetale i metale oraz ich związki: cynk, miedź, nikiel, chrom, ołów, selen, arsen, antymon, molibden, tytan, cyna, bar, beryl, bor, uran, wanad, kobalt, tal, tellur, srebro,
+    - **b)** biocydy i ich pochodne nieujęte w wykazie I,
+    - **c)** substancje, które mają szkodliwy wpływ na smak lub zapach produktów przeznaczonych do spożycia przez ludzi, pochodzących ze środowiska wodnego, oraz związki, które mogą spowodować powstanie takich substancji w wodzie, co spowodowałoby, że wody te nie nadawałyby się do spożycia przez ludzi,
+    - **d)** toksyczne lub trwałe związki organiczne krzemu oraz substancje, które mogą spowodować powstanie takich związków w wodzie, z wyjątkiem tych, które są biologicznie nieszkodliwe lub są szybko przekształcane w wodzie w substancje nieszkodliwe,
+    - **e)** nieorganiczne związki fosforu i fosfor niezwiązany,
+    - **f)** nietrwałe oleje mineralne i węglowodory ropopochodne ,
+    - **g)** fluorki,
+    - **h)** cyjanki,
+    - **i)** substancje, które ujemnie wpływają na bilans tlenu w wodzie, szczególnie amoniak i azotyny.
 
 ## Załącznik nr 2 — NAJWYŻSZE NAJWYŻSZE DOPUSZCZALNE DOPUSZCZALNE WARTOŚCI WARTOŚCI SUBSTANCJI SUBSTANCJI ZANIECZYSZCZAJĄCYCH ZANIECZYSZCZAJĄCYCH ALBO MINIMALNY ALBO MINIMALNY PROCENT REDUKCJI PROCENT SUBSTANCJI REDUKCJI SUBSTANCJI ZANIECZYSZCZAJĄCYCH ZANIECZYSZCZAJĄCYCH DLA ŚCIEKÓW DLA Z OCZYSZCZALNI ŚCIEKÓW Z OCZYSZCZALNI ŚCIEKÓW BYTOWYCH ŚCIEKÓW BYTOWYCH I ŚCIEKÓW I ŚCIEKÓW KOMUNALNYCH KOMUNALNYCH WPROWADZANYCH WPROWADZANYCH DO DO WÓD WÓD LUB LUB DO DO ZIEMI ZIEMI Najwyższe dopuszczalne wartości substancji Lp. Nazwa substancji Jednostka zanieczyszczających albo minimalny procent redukcji substancji zanieczyszczających dla RLM oczyszczalni ścieków poniżej od 2000 od 10000 od 15000 100000 2000 do 9999 do 14999 do 99999 i powyżej Biochemiczne mg O /l 40 25 25 15 15 zapotrzebowanie na tlen albo albo albo albo 1 (BZT ), oznaczane z minimalny - 70–90 70–90 90 90 dodatkiem inhibitora procent nitryfikacji redukcji Chemiczne zapotrzebowanie mg O /l 150 125 125 125 125 2 na tlen (ChZT ), oznaczane minimalny albo albo albo albo metodą dwuchromianową procent - 75 75 75 75 redukcji mg/l 50 35 35 35 35 3 Zawiesiny ogólne albo albo albo albo minimalny - 90 90 90 90 procent redukcji 4 Azot ogólny (suma azotu mg N/l 30 15 15 15 10 Kjeldahla (N + N ), albo albo albo azotu azotynowego i azotu minimalny - - 70–80 70–80 70–80 azotanowego) procent redukcji 5 Fosfor ogólny mg P/l 5 2 2 2 1 minimalny - - albo albo albo procent 80 80 80 redukcji Objaśnienia:
 

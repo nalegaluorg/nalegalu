@@ -39,7 +39,22 @@ source: pdf
 - **4)** w art. 7 w ust. 1 skreśla się wyrazy „i 4”;
 - **5)** w art. 9 dodaje się ust. 5 w brzmieniu: „5. Wojewoda informuje ministra właściwego do spraw rolnictwa, Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz Prezesa Agencji Rynku Rolnego o każdej zmianie danych zawartych w rejestrze.”;
 - **6)** w art. 11 skreśla się wyrazy „i 4”;
-- **7)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Nadzór nad działalnością grupy sprawuje wojewoda właściwy ze względu na siedzibę grupy. 2. W ramach sprawowanego nadzoru wojewoda przeprowadza kontrole w zakresie spełniania przez grupę warunków, o których mowa w art. 3, oraz warunków określonych w przepisach wydanych na podstawie art. 6. 3.Czynności kontrolne są wykonywane przez osoby posiadające imienne upoważnienie wydane przez wojewodę. 4. Upoważnienie zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania. 5. Przed przystąpieniem do czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać imienne upoważnienie. 6. Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do: 1) wstępu na teren nieruchomości należących do grupy; 2) żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli; 3) wglądu do dokumentów związanych z przedmiotem kontroli, sporządzania z nich odpisów, wyciągów lub kserokopii oraz zabezpieczania tych dokumentów. 7. Osoba wykonująca czynności kontrolne sporządza z tych czynności protokół. 8. Protokół podpisuje osoba wykonująca czynności kontrolne oraz kontrolowany. 9. W przypadku odmowy podpisania protokołu przez kontrolowanego protokół podpisuje tylko osoba wykonująca czynności kontrolne, dokonując w protokole stosownej adnotacji o tej odmowie. 10. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi w protokole może, w terminie 14 dni od dnia doręczenia protokołu, zgłosić wojewodzie umotywowane zastrzeżenia do ustaleń zawartych w protokole. 11. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór imiennego upoważnienia do wykonywania czynności kontrolnych, mając na względzie ujednolicenie informacji zawartych w upoważnieniu.”.
+- **7)** art. 12 otrzymuje brzmienie:
+
+  > „Art. 12.  
+  > 1. Nadzór nad działalnością grupy sprawuje wojewoda właściwy ze względu na siedzibę grupy.  
+  > 2. W ramach sprawowanego nadzoru wojewoda przeprowadza kontrole w zakresie spełniania przez grupę warunków, o których mowa w art. 3, oraz warunków określonych w przepisach wydanych na podstawie art. 6. 3.Czynności kontrolne są wykonywane przez osoby posiadające imienne upoważnienie wydane przez wojewodę.  
+  > 4. Upoważnienie zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.  
+  > 5. Przed przystąpieniem do czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać imienne upoważnienie.  
+  > 6. Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:  
+  > 1) wstępu na teren nieruchomości należących do grupy;  
+  > 2) żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli;  
+  > 3) wglądu do dokumentów związanych z przedmiotem kontroli, sporządzania z nich odpisów, wyciągów lub kserokopii oraz zabezpieczania tych dokumentów.  
+  > 7. Osoba wykonująca czynności kontrolne sporządza z tych czynności protokół.  
+  > 8. Protokół podpisuje osoba wykonująca czynności kontrolne oraz kontrolowany.  
+  > 9. W przypadku odmowy podpisania protokołu przez kontrolowanego protokół podpisuje tylko osoba wykonująca czynności kontrolne, dokonując w protokole stosownej adnotacji o tej odmowie.  
+  > 10. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi w protokole może, w terminie 14 dni od dnia doręczenia protokołu, zgłosić wojewodzie umotywowane zastrzeżenia do ustaleń zawartych w protokole.  
+  > 11. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór imiennego upoważnienia do wykonywania czynności kontrolnych, mając na względzie ujednolicenie informacji zawartych w upoważnieniu.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo budowlane**.
 
-Łącznie: **44** aktów
+Łącznie: **43** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -33,7 +33,6 @@ Akty prawne z dziedziny: **Prawo budowlane**.
 | [WDU20101551043](WDU20101551043/index.md) | Ustawa z dnia 6 sierpnia 2010 r. o zmianie ustawy o gospodarce nieruchomośc | Ustawa | obowiązujący | [tak](WDU20101551043/orzecznictwo.md) |
 | [WDU20101300871](WDU20101300871/index.md) | Ustawa z dnia 25 czerwca 2010 r. o zmianie ustawy o planowaniu i zagospodar | Ustawa | obowiązujący | [tak](WDU20101300871/orzecznictwo.md) |
 | [WDU20101210809](WDU20101210809/index.md) | Ustawa z dnia 6 maja 2010 r. o zmianie ustawy - Prawo budowlane | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20091611279](WDU20091611279/index.md) | Ustawa z dnia 27 sierpnia 2009 r. o zmianie ustawy - Prawo budowlane oraz u | Ustawa | obowiązujący |  |
 | [WDU20082201413](WDU20082201413/index.md) | Ustawa z dnia 15 października 2008 r. o zmianie ustawy o planowaniu i zagos | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20082101321](WDU20082101321/index.md) | Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o samorządach zawodowych | Ustawa | obowiązujący |  |
 | [WDU20082061287](WDU20082061287/index.md) | Ustawa z dnia 8 października 2008 r. o zmianie ustawy - Prawo budowlane | Ustawa | akt objęty tekstem jednolitym |  |
@@ -51,4 +50,4 @@ Akty prawne z dziedziny: **Prawo budowlane**.
 | [WDU19961000465](WDU19961000465/index.md) | Ustawa z dnia 5 lipca 1996 r. o zmianie ustawy - Prawo budowlane. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19940890414](WDU19940890414/index.md) | Ustawa z dnia 7 lipca 1994 r. - Prawo budowlane. | Ustawa | akt posiada tekst jednolity | [tak](WDU19940890414/orzecznictwo.md) |
 
-*44 aktów • [← Powrót do spisu głównego](../README.md)*
+*43 aktów • [← Powrót do spisu głównego](../README.md)*

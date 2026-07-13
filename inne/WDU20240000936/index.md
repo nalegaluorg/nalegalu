@@ -8,10 +8,10 @@ pos: 936
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 26 czerwca 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 993366 ROZPORZĄDZENIE MINISTRA FINANSÓW 1) z dnia 14 czerwca 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,97 +25,23 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000936) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/936/text.pdf) |
 
-993366 ROZPORZĄDZENIE MINISTRA FINANSÓW 1) z dnia 14 czerwca 2024 r.
-zmieniające rozporządzenie w sprawie zgłoszenia o nabyciu własności przedsiębiorstwa Na podstawie art. 4b ust. 4 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 596) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Finansów z dnia 15 października 2018 r. w sprawie zgłoszenia o nabyciu własności przedsiębiorstwa (Dz. U. poz. 2030) wprowadza się następujące zmiany:
-1) w tytule rozporządzenia ogólne określenie przedmiotu rozporządzenia otrzymuje brzmienie: „w sprawie zgłoszenia o nabyciu własności przedsiębiorstwa lub udziału w nim”;
-2) w § 1 pkt 2 otrzymuje brzmienie: „2) zakres danych zawartych w zgłoszeniu o nabyciu własności przedsiębiorstwa lub udziału w nim.”;
-3) § 2 otrzymuje brzmienie: „§ 2. Określa się wzór zgłoszenia o nabyciu własności przedsiębiorstwa lub udziału w nim, stanowiący załącznik do rozporządzenia.”;
-4) w § 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zgłoszenie o nabyciu własności przedsiębiorstwa lub udziału w nim zawiera następujące dane:”;
-5) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: A. Domański Minister Finansów kieruje działem administracji rządowej finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa SD-ZP ZGŁOSZENIE O NABYCIU WŁASNOŚCI PRZEDSIĘBIORSTWA UDZIAŁU W NIM
-4. Data nabycia (dzień - miesiąc - rok) 5. Data powstania obowiązku podatkowego (dzień - miesiąc - rok) Podstawa prawna: Art. 4b ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 596).
-Składający: Nabywca przedsiębiorstwa lub udziału w nim.
-Termin składania: 6 miesięcy od dnia uprawomocnienia się orzeczenia sądu stwierdzającego nabycie spadku, zarejestrowania aktu poświadczenia dziedziczenia lub wydania europejskiego poświadczenia spadkowego.
-Miejsce składania: Urząd skarbowy, przy pomocy którego naczelnik urzędu skarbo wego właściwy w sprawie podatku od spadków i darowizn wykonuje swoje zadania.
-A. MIEJSCE I CEL SKŁADANIA ZGŁOSZENIA . 6. Urząd skarbowy, do którego jest adresowane zgłoszenie
-7. Cel złożenia formularza (zaznaczyć właściwy kwadrat): ❑
-1. złożenie zgłoszenia ❑
-2. korekta zgłoszenia B. DANE IDENTYFIKACYJNE I AKTUALNY ADRES ZAMIESZKANIA PODATNIKA (nabywcy)
-8. Nazwisko 9. Pierwsze imię
-10. Imię ojca 11. Imię matki 12. Data urodzenia (dzień - miesiąc - rok) 13. Obywatelstwo
-14. Kraj 15. Województwo 16. Powiat
-17. Gmina 18. Ulica 19. Nr domu 20. Nr lokalu
-21. Miejscowość 22. Kod pocztowy C. DANE IDENTYFIKACYJNE I OSTATNI ADRES ZAMIESZKANIA SPADKODAWCY
-23. Identyfikator podatkowy NIP
-24. Nazwisko 25. Pierwsze imię
-26. Imię ojca 27. Imię matki 28. Data urodzenia (dzień - miesiąc - rok)
-29. Kraj 30. Województwo 31. Powiat
-32. Gmina 33. Ulica 34. Nr domu 35. Nr lokalu
-36. Miejscowość 37. Kod pocztowy D. TYTUŁ NABYCIA
-38. Określenie tytułu nabycia (zaznaczyć właściwy kwadrat): ❑
-1. dziedziczenie ❑
-2. zapis windykacyjny E. RODZAJ DOKUMENTU POTWIERDZAJĄCEGO NABYCIE (zaznaczyć właściwy kwadrat lub właściwe kwadraty):
-39.
-❑ oświadczenie o przyjęciu spadku 40.
-❑ testament 41.
-❑ prawomocne orzeczenie sądu
-42.
-❑ zarejestrowany akt poświadczenia dziedziczenia 43.
-❑ europejskie poświadczenie spadkowe 44.
-❑ inny dokument F. PRZEDMIOT NABYCIA . 45. Określenie przedmiotu nabycia (zaznaczyć właściwy kwadrat): ❑
-1. przedsiębiorstwo ❑
-46. Wielkość nabytego udziału w przedsiębiorstwie
-2. udział w przedsiębiorstwie (wypełnić, jeżeli w poz. 45 zaznaczono kwadrat nr 2): /
-1. Identyfikator podatkowy NIP / numer PESEL podatnika 2. Nr dokumentu 3. Status SD-ZP ZGŁOSZENIE O NABYCIU WŁASNOŚCI PRZEDSIĘBIORSTWA UDZIAŁU W NIM
-4. Data nabycia (dzień - miesiąc - rok) 5. Data powstania obowiązku podatkowego (dzień - miesiąc - rok) Podstawa prawna: Art. 4b ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 596).
-Składający: Nabywca przedsiębiorstwa lub udziału w nim.
-Termin składania: 6 miesięcy od dnia uprawomocnienia się orzeczenia sądu stwierdzającego nabycie spadku, zarejestrowania aktu poświadczenia dziedziczenia lub wydania europejskiego poświadczenia spadkowego.
-Miejsce składania: Urząd skarbowy, przy pomocy którego naczelnik urzędu skarbo wego właściwy w sprawie podatku od spadków i darowizn wykonuje swoje zadania.
-A. MIEJSCE I CEL SKŁADANIA ZGŁOSZENIA . 6. Urząd skarbowy, do którego jest adresowane zgłoszenie
-7. Cel złożenia formularza (zaznaczyć właściwy kwadrat): ❑
-1. złożenie zgłoszenia ❑
-2. korekta zgłoszenia B. DANE IDENTYFIKACYJNE I AKTUALNY ADRES ZAMIESZKANIA PODATNIKA (nabywcy)
-8. Nazwisko 9. Pierwsze imię
-10. Imię ojca 11. Imię matki 12. Data urodzenia (dzień - miesiąc - rok) 13. Obywatelstwo
-14. Kraj 15. Województwo 16. Powiat
-17. Gmina 18. Ulica 19. Nr domu 20. Nr lokalu
-21. Miejscowość 22. Kod pocztowy C. DANE IDENTYFIKACYJNE I OSTATNI ADRES ZAMIESZKANIA SPADKODAWCY
-23. Identyfikator podatkowy NIP
-24. Nazwisko 25. Pierwsze imię
-26. Imię ojca 27. Imię matki 28. Data urodzenia (dzień - miesiąc - rok)
-29. Kraj 30. Województwo 31. Powiat
-32. Gmina 33. Ulica 34. Nr domu 35. Nr lokalu
-36. Miejscowość 37. Kod pocztowy D. TYTUŁ NABYCIA
-38. Określenie tytułu nabycia (zaznaczyć właściwy kwadrat): ❑
-1. dziedziczenie ❑
-2. zapis windykacyjny E. RODZAJ DOKUMENTU POTWIERDZAJĄCEGO NABYCIE (zaznaczyć właściwy kwadrat lub właściwe kwadraty):
-39.
-❑ oświadczenie o przyjęciu spadku 40.
-❑ testament 41.
-❑ prawomocne orzeczenie sądu
-42.
-❑ zarejestrowany akt poświadczenia dziedziczenia 43.
-❑ europejskie poświadczenie spadkowe 44.
-❑ inny dokument F. PRZEDMIOT NABYCIA . 45. Określenie przedmiotu nabycia (zaznaczyć właściwy kwadrat): ❑
-1. przedsiębiorstwo ❑
-46. Wielkość nabytego udziału w przedsiębiorstwie
-2. udział w przedsiębiorstwie (wypełnić, jeżeli w poz. 45 zaznaczono kwadrat nr 2): / S D Z P G NAD E D O T Y C Z CĄ E R Z E C Z Y L BU P AR W M A Ą T K O W Y HC W HC O D Z CĄ Y HC W S K Ł DA BAN Y T E OG P R Z E D S Ę B O R S T W A m W m m m W m ❑❑ ❑❑ ❑❑ ❑❑ Suma kwot wykazanych w części G w kolumnie d, z wyłączeniem kwoty z poz. 63. zł Łączna wartość nabytych rzeczy lub praw majątkowych (w zł) wykazanych w załącznikach Suma kwot wykazanych w części C w kolumnie d załącznika wykazana w poz. 14 w tym załączniku, a jeżeli złożono więcej niż jeden załącznik łączna wartość nabytych rzeczy lub praw majątkowych wykazana w poz. 14 ostatniego załącznika.
-81.
-zł Łączna wartość nabytych rzeczy lub praw majątkowych (w zł) wykazanych w zgłoszeniu SD-ZP i załącznikach Suma kwot z poz. 80 i 81.
-82.
-zł I. INFORMACJA O ZAŁĄCZNIKACH ( Załącznik lub kolejne załączniki wypełnia się i dołącza do zgłoszenia SD-ZP, gdy wiersze w zgłoszeniu są niewystarczające do wykazania składników przedsiębiorstwa)
-83. Liczba dołączonych załączników J. UWAGI SKŁADAJĄCEGO ZGŁOSZENIE (np. informacja o adresie do korespondencji lub numerze telefonu)
-84. Uwagi K. PODPIS NABYWCY (PEŁNOMOCNIKA)
-85. Data (dzień - miesiąc - rok) 86. Imię i nazwisko 87. Podpis Objaśnienia
-1) Należy podać dzień śmierci spadkodawcy.
-2) Należy podać dzień uprawomocnienia się orzeczenia sądu stwierdzającego nabycie spadku, zarejestrowania aktu poświadczenia dziedziczenia lub wydania europejskiego poświadczenia spadkowego.
-3) Należy wskazać udział w ułamku zwykłym.
-4) Należy wskazać wyłącznie rzeczy lub prawa majątkowe, które według stanu na dzień śmierci przedsiębiorcy wchodziły w skład nabytego przedsiębiorstwa.
-5) Należy wskazać udział w ułamku zwykłym, a w przypadku nabycia całości 1/1.
-6) Należy wskazać, czy jest to budynek mieszkalny, czy niemieszkalny. W przypadku wskazania budynku niemieszkalnego dodatkowo należy podać, czy jest to budynek biurowy, handlowo-usługowy, hotelowy, magazynowy lub inny.
-Pouczenie Za podanie nieprawdy lub zatajenie prawdy i przez to narażenie podatku na uszczuplenie grozi odpowiedzialność przewidziana w Kodeksie karnym skarbowym.
-INFORMACJA O POZOSTAŁYCH SKŁADNIKACH PRZEDSIĘBIORSTWA Załącznik do zgłoszenia SD-ZP.
-Załącznik (lub kolejne załączniki) wypełnia się i dołącza do zgłoszenia SD-ZP, gdy wiersze w zgłoszeniu są niewystarczające do wykazania składników przedsiębiorstwa.
-A. DANE IDENTYFIKACYJNE PODATNIKA (nabywcy) B. DANE IDENTYFIKACYJNE SPADKODAWCY C. DANE DOTYCZĄCE RZECZY PRAW MAJĄTKOWYCH WCHODZĄCYCH W SKŁAD NABYTEGO PRZEDSIĘBIORSTWA 3) Wielkość nabywanego Rzeczy lub prawa majątkowe udziału według stanu w dniu nabycia w rzeczy lub w prawie majątkowym Wartość rynkowa Miejsce położenia rzeczy nabywanych rzeczy lub wykonywania lub praw majątkowych prawa majątkowego (udziału) w dniu (adres) powstania obowiązku podatkowego (w zł) 1 / 2 / 3 / 4 / 5 / 6 / majątkowym podatkowego (w zł) 7 / 8 / 9 / 10 / 11 / 12 / 13 / 14 / 15 / 16 / 17 / 18 / 19 / 20 / (adres) powstania obowiązku majątkowym podatkowego (w zł) 21 / 22 / 23 / 24 / 25 / 26 / 27 / 28 / 29 / 30 / 31 / 32 / 33 / 34 / majątkowym (adres) podatkowego (w zł) 35 / 36 / 37 / 38 / 39 / 40 / 41 / 42 / 43 / 44 / Objaśnienia
+zmieniające rozporządzenie w sprawie zgłoszenia o nabyciu własności przedsiębiorstwa Na podstawie art. 4b ust. 4 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 596) zarządza się, co następuje:
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 15 października 2018 r. w sprawie zgłoszenia o nabyciu własności przedsiębiorstwa (Dz. U. poz. 2030) wprowadza się następujące zmiany:
+
+- **1)** w tytule rozporządzenia ogólne określenie przedmiotu rozporządzenia otrzymuje brzmienie: „w sprawie zgłoszenia o nabyciu własności przedsiębiorstwa lub udziału w nim”;
+- **2)** w § 1 pkt 2 otrzymuje brzmienie: „2) zakres danych zawartych w zgłoszeniu o nabyciu własności przedsiębiorstwa lub udziału w nim.”;
+- **3)** § 2 otrzymuje brzmienie: „§ 2. Określa się wzór zgłoszenia o nabyciu własności przedsiębiorstwa lub udziału w nim, stanowiący załącznik do rozporządzenia.”;
+- **4)** w § 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Zgłoszenie o nabyciu własności przedsiębiorstwa lub udziału w nim zawiera następujące dane:”;
+- **5)** załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: A. Domański Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). Załącznik do rozporządzenia Ministra Finansów z dnia (Dz. U. poz. Załącznik do rozporządzenia Ministra Finansów z dnia 14 czerwca 2024 r. (Dz. U. poz. 936) 1. Identyfikator podatkowy NIP / numer PESEL podatnika 2. Nr dokumentu 3. Status Załącznik do rozporządzenia Ministra Finansów z dnia (Dz. U. poz. 1. Identyfikator podatkowy NIP / numer PESEL podatnika 2. Nr dokumentu 3. Status SD-ZP ZGŁOSZENIE O NABYCIU WŁASNOŚCI PRZEDSIĘBIORSTWA LUB UDZIAŁU W NIM SD-ZP 4. Data nabycia (dzień - miesiąc ZGŁOSZENIE - rok) O NABYCIU WŁASNOŚCI 5. Data powstania PRZEDSIĘBIORSTWA obowiązku podatkowego (dzień - miesiąc - rok) LUB UDZIAŁU W NIM Podstawa prawna: Art. 4b ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 596). 4. Składający: Data nabycia (dzień - miesiąc Nabywca - rok) przedsiębiorstwa lub udziału w nim. 5. Data powstania obowiązku podatkowego (dzień - miesiąc - rok) Termin składania: 6 miesięcy od dnia uprawomocnienia się orzeczenia sądu stwierdzającego nabycie spadku, zarejestrowania aktu poświadczenia dziedziczenia lub wydania europejskiego poświadczenia spadkowego. Podstawa Miejsce składania: prawna: Art. Urząd 4b skarbowy, ustawy z dnia przy 28 pomocy lipca 1983 którego r. o naczelnik podatku od urzędu spadków skarbo i darowizn wego właściwy (Dz. U. w z 2024 sprawie r. poz. podatku 596). od spadków i darowizn Składający: Nabywca wykonuje przedsiębiorstwa swoje zadania. lub udziału w nim. Termin składania: 6 miesięcy od dnia uprawomocnienia się orzeczenia sądu stwierdzającego nabycie spadku, zarejestrowania aktu A. MIEJSCE I CEL poświadczenia SKŁADANIA dziedziczenia ZGŁOSZENIA lub wydania europejskiego poświadczenia spadkowego. Miejsce składania: Urząd skarbowy, przy pomocy którego naczelnik urzędu skarbo wego właściwy w sprawie podatku od spadków i darowizn . 6. Urząd skarbowy, wykonuje do którego swoje jest adresowane zadania. zgłoszenie A. MIEJSCE I CEL SKŁADANIA ZGŁOSZENIA 7. Cel złożenia formularza (zaznaczyć właściwy kwadrat): . 6. Urząd skarbowy, do którego jest adresowane ❑ zgłoszenie ❑ 1. złożenie zgłoszenia 2. korekta zgłoszenia B. DANE 7. Cel złożenia IDENTYFIKACYJNE formularza (zaznaczyć właściwy I AKTUALNY kwadrat): ADRES ZAMIESZKANIA PODATNIKA (nabywcy) ❑ ❑ 8. Nazwisko 1. złożenie zgłoszenia 9. Pierwsze 2. imię korekta zgłoszenia B. DANE IDENTYFIKACYJNE I AKTUALNY ADRES ZAMIESZKANIA PODATNIKA (nabywcy) 10. Imię ojca 11. Imię matki 12. Data urodzenia (dzień - miesiąc - rok) 13. Obywatelstwo 8. Nazwisko 9. Pierwsze imię 14. Kraj 15. Województwo 16. Powiat 10. Imię ojca 11. Imię matki 12. Data urodzenia (dzień - miesiąc - rok) 13. Obywatelstwo 17. Gmina 18. Ulica 19. Nr domu 20. Nr lokalu 14. Kraj 15. Województwo 16. Powiat 21. Miejscowość 22. Kod pocztowy 17. Gmina 18. Ulica 19. Nr domu 20. Nr lokalu C. DANE 21. Miejscowość IDENTYFIKACYJNE I OSTATNI ADRES ZAMIESZKANIA SPADKODAWCY 22. Kod pocztowy 23. Identyfikator podatkowy NIP C. DANE IDENTYFIKACYJNE I OSTATNI ADRES ZAMIESZKANIA SPADKODAWCY 24. Nazwisko 25. Pierwsze imię 23. Identyfikator podatkowy NIP 26. Imię ojca 27. Imię matki 28. Data urodzenia (dzień - miesiąc - rok) 24. Nazwisko 25. Pierwsze imię 29. Kraj 30. Województwo 31. Powiat 26. Imię ojca 27. Imię matki 28. Data urodzenia (dzień - miesiąc - rok) 32. Gmina 33. Ulica 34. Nr domu 35. Nr lokalu 29. Kraj 30. Województwo 31. Powiat 36. Miejscowość 37. Kod pocztowy 32. Gmina 33. Ulica 34. Nr domu 35. Nr lokalu D. TYTUŁ 36. Miejscowość NABYCIA 37. Kod pocztowy 38. Określenie tytułu nabycia (zaznaczyć właściwy kwadrat): ❑ ❑ D. TYTUŁ NABYCIA 1. dziedziczenie 2. zapis windykacyjny E. RODZAJ 38. Określenie DOKUMENTU tytułu nabycia (zaznaczyć POTWIERDZAJĄCEGO właściwy kwadrat): NABYCIE (zaznaczyć właściwy kwadrat lub właściwe kwadraty): ❑ ❑ 1. dziedziczenie 2. zapis windykacyjny ❑ ❑ ❑ E. RODZAJ 39. ❑ oświadczenie DOKUMENTU o przyjęciu spadku POTWIERDZAJĄCEGO 40. ❑ testament NABYCIE 41. ❑ prawomocne orzeczenie sądu (zaznaczyć 42. właściwy zarejestrowany kwadrat akt poświadczenia lub właściwe dziedziczenia kwadraty): 43. europejskie poświadczenie spadkowe 44. inny dokument F. PRZEDMIOT ❑ NABYCIA ❑ ❑ 39. oświadczenie o przyjęciu spadku 40. testament 41. prawomocne orzeczenie sądu ❑ ❑ ❑ . 45. Określenie 42. zarejestrowany przedmiotu akt nabycia poświadczenia (zaznaczyć dziedziczenia właściwy kwadrat): 43. europejskie poświadczenie 46. Wielkość spadkowe nabytego 44. udziału inny w przedsiębiorstwie dokument (wypełnić, jeżeli w poz. 45 zaznaczono kwadrat nr 2): F. PRZEDMIOT ❑ NABYCIA ❑ 1. przedsiębiorstwo 2. udział w przedsiębiorstwie / . 45. Określenie przedmiotu nabycia (zaznaczyć właściwy kwadrat): 46. Wielkość nabytego udziału w przedsiębiorstwie (wypełnić, jeżeli w poz. 45 zaznaczono kwadrat nr 2): ❑ ❑ 1. przedsiębiorstwo 2. udział w przedsiębiorstwie / SD-ZP 1 SD-ZP 1 m A W T S R O W B Ę S D E Z R P OG E T Y BAN DA m Ł K S W HC Y CĄ Z D O m HC W W HC m Y W O K T Ą A M W AR P ❑❑ BU L Y Z ❑❑ C ❑❑ E Z R m E CĄ Z C ❑❑ Y T O D E P NAD Z D G S H. ŁĄCZNA WARTOŚĆ NABYTYCH RZECZY LUB PRAW MAJĄTKOWYCH Łączna wartość nabytych rzeczy lub praw majątkowych (w zł) wykazanych w zgłoszeniu SD-ZP 80. Suma kwot wykazanych w części G w kolumnie d, z wyłączeniem kwoty z poz. 63. zł Łączna wartość nabytych rzeczy lub praw majątkowych (w zł) wykazanych w załącznikach SD-ZP/A 81. Suma kwot wykazanych w części C w kolumnie d załącznika SD-ZP/A wykazana w poz. 14 w tym załączniku, a jeżeli złożono więcej niż jeden załącznik – łączna wartość nabytych rzeczy lub praw majątkowych wykazana w poz. 14 ostatniego załącznika. zł Łączna wartość nabytych rzeczy lub praw majątkowych (w zł) wykazanych w zgłoszeniu SD-ZP i załącznikach SD-ZP/A 82. Suma kwot z poz. 80 i 81. zł I. INFORMACJA O ZAŁĄCZNIKACH ( Załącznik lub kolejne załączniki SD-ZP/A wypełnia się i dołącza do zgłoszenia SD-ZP, gdy wiersze w zgłoszeniu są niewystarczające do wykazania składników przedsiębiorstwa) 83. Liczba dołączonych załączników SD-ZP/A J. UWAGI SKŁADAJĄCEGO ZGŁOSZENIE (np. informacja o adresie do korespondencji lub numerze telefonu) 84. Uwagi K. PODPIS NABYWCY (PEŁNOMOCNIKA) 85. Data (dzień - miesiąc - rok) 86. Imię i nazwisko 87. Podpis Objaśnienia
+
+- **1)** Należy podać dzień śmierci spadkodawcy.
+- **2)** Należy podać dzień uprawomocnienia się orzeczenia sądu stwierdzającego nabycie spadku, zarejestrowania aktu poświadczenia dziedziczenia lub wydania europejskiego poświadczenia spadkowego.
+- **3)** Należy wskazać udział w ułamku zwykłym.
+- **4)** Należy wskazać wyłącznie rzeczy lub prawa majątkowe, które według stanu na dzień śmierci przedsiębiorcy wchodziły w skład nabytego przedsiębiorstwa.
+- **5)** Należy wskazać udział w ułamku zwykłym, a w przypadku nabycia całości 1/1.
+- **6)** Należy wskazać, czy jest to budynek mieszkalny, czy niemieszkalny. W przypadku wskazania budynku niemieszkalnego dodatkowo należy podać, czy jest to budynek biurowy, handlowo-usługowy, hotelowy, magazynowy lub inny. Pouczenie Za podanie nieprawdy lub zatajenie prawdy i przez to narażenie podatku na uszczuplenie grozi odpowiedzialność przewidziana w Kodeksie karnym skarbowym. SD-ZP 3 SD-ZP/A INFORMACJA O POZOSTAŁYCH SKŁADNIKACH PRZEDSIĘBIORSTWA Załącznik do zgłoszenia SD-ZP. Załącznik (lub kolejne załączniki) wypełnia się i dołącza do zgłoszenia SD-ZP, gdy wiersze w zgłoszeniu są niewystarczające do wykazania składników przedsiębiorstwa. A. DANE IDENTYFIKACYJNE PODATNIKA (nabywcy) B. DANE IDENTYFIKACYJNE SPADKODAWCY C. DANE DOTYCZĄCE RZECZY LUB PRAW MAJĄTKOWYCH WCHODZĄCYCH W SKŁAD NABYTEGO PRZEDSIĘBIORSTWA 3) Wielkość Wartość rynkowa nabywanego Miejsce położenia rzeczy nabywanych rzeczy Rzeczy lub prawa majątkowe udziału lub wykonywania lub praw majątkowych według stanu w dniu nabycia w rzeczy lub prawa majątkowego (udziału) w dniu w prawie (adres) powstania obowiązku majątkowym podatkowego (w zł) 1 / 2 / 3 / 4 / 5 / 6 / SD-ZP/A 1 Wielkość Wartość rynkowa nabywanego Miejsce położenia rzeczy nabywanych rzeczy Rzeczy lub prawa majątkowe udziału lub wykonywania lub praw majątkowych według stanu w dniu nabycia w rzeczy lub prawa majątkowego (udziału) w dniu w prawie (adres) powstania obowiązku majątkowym podatkowego (w zł) 7 / 8 / 9 / 10 / 11 / 12 / 13 / 14 / 15 / 16 / 17 / 18 / 19 / 20 / SD-ZP/A 2 Wielkość Wartość rynkowa nabywanego Miejsce położenia rzeczy nabywanych rzeczy Rzeczy lub prawa majątkowe udziału lub wykonywania lub praw majątkowych według stanu w dniu nabycia w rzeczy lub prawa majątkowego (udziału) w dniu w prawie (adres) powstania obowiązku majątkowym podatkowego (w zł) 21 / 22 / 23 / 24 / 25 / 26 / 27 / 28 / 29 / 30 / 31 / 32 / 33 / 34 / SD-ZP/A 3 Wielkość Wartość rynkowa nabywanego Miejsce położenia rzeczy nabywanych rzeczy Rzeczy lub prawa majątkowe udziału lub wykonywania lub praw majątkowych według stanu w dniu nabycia w rzeczy lub (udziału) w dniu w prawie prawa majątkowego powstania obowiązku majątkowym (adres) podatkowego (w zł) 35 / 36 / 37 / 38 / 39 / 40 / 41 / 42 / 43 / 44 / Objaśnienia SD-ZP/A 4
+
 

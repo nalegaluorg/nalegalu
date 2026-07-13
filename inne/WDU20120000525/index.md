@@ -29,23 +29,26 @@ Warszawa, dnia 16 maja 2012 v r.
 Poz. 525 o ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 27 kwietnia g 2012 r.
 zmieniające rozporządzenie w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia .
 Na podstawie art. 66 ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) zarządza się, co następuje: l
-§ 1. W rozporządzeniu Ministra Infrastruktury c z dnia 31 grudnia 2002 r. w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia (Dz. U. z 2003 r. Nr 32, poz. 262, z późn. zm. ) wprowadza się następujące zmiany:
-1) po § 32a dodaje się § 32b w brzmieniu: r „§ 32b. 1. Pojazd straży gminnej (miejskiej), z wyjątkiem motocykla, powinien:
-1) mieć srebrną barwę . nadwozia;
-2) być oznakowany: w
-a) pasem wyróżniającym odblaskowym w postaci trójrzędnej szachownicy barwy żółto-granatowej,
-b) pasem barwy granatowej umieszczonym poniżej pasa, o którym mowa w lit. a, o szerokości nie mniejszej niż 30 cm i nie większej niż do dolnej krawędzi drzwi,
-c) o dblaskowym napisem „STRAŻ GMINNA” („STRAŻ MIEJSKA”) barwy żółtej umieszczonym na pasie, o którym mowa w lit. b, po obu stronach pojazdu na drzwiach przednich oraz z tyłu pojazdu,
-d) ś wietlnym napisem „STRAŻ GMINNA” („STRAŻ MIEJSKA”) barwy granatowej lub czarnej na białym tle, umieszczonym na dachu pojazdu, w
-e) emblematem o wymiarach nie mniejszych niż 30 x 22 cm umieszczonym po obu stronach pojazdu na drzwiach tylnych, a w przypadku pojazdów posiadających inny układ drzwi – za drzwiami przednimi; emblemat powinien być tożsamy z emblematem gminy, o którym mowa w przepisach wydanych na podstawie art. 21 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. Nr 123, poz. 779, z późn. zm. ).
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury c z dnia 31 grudnia 2002 r. w sprawie warunków technicznych pojazdów oraz zakresu ich niezbędnego wyposażenia (Dz. U. z 2003 r. Nr 32, poz. 262, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** po § 32a dodaje się § 32b w brzmieniu: r „§ 32b. 1. Pojazd straży gminnej (miejskiej), z wyjątkiem motocykla, powinien:
+- **1)** mieć srebrną barwę . nadwozia;
+- **2)** być oznakowany: w
+    - **a)** pasem wyróżniającym odblaskowym w postaci trójrzędnej szachownicy barwy żółto-granatowej,
+    - **b)** pasem barwy granatowej umieszczonym poniżej pasa, o którym mowa w lit. a, o szerokości nie mniejszej niż 30 cm i nie większej niż do dolnej krawędzi drzwi,
+    - **c)** o dblaskowym napisem „STRAŻ GMINNA” („STRAŻ MIEJSKA”) barwy żółtej umieszczonym na pasie, o którym mowa w lit. b, po obu stronach pojazdu na drzwiach przednich oraz z tyłu pojazdu,
+    - **d)** ś wietlnym napisem „STRAŻ GMINNA” („STRAŻ MIEJSKA”) barwy granatowej lub czarnej na białym tle, umieszczonym na dachu pojazdu, w
+    - **e)** emblematem o wymiarach nie mniejszych niż 30 x 22 cm umieszczonym po obu stronach pojazdu na drzwiach tylnych, a w przypadku pojazdów posiadających inny układ drzwi – za drzwiami przednimi; emblemat powinien być tożsamy z emblematem gminy, o którym mowa w przepisach wydanych na podstawie art. 21 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. Nr 123, poz. 779, z późn. zm. ).
+
 2. Motocykl straży gminnej (miejskiej) powinien: .
-1) mieć błotniki barwy granatowej;
-v
-2) b yć oznakowany odblaskowym napisem „STRAŻ GMINNA” („STRAŻ MIEJSKA”) barwy żółtej na granatowym tle umieszczonym z przodu motocykla; dopuszcza się dodatkowo umieszczenie tego napisu na obydwu bokach oraz z tyłu motocykla.
+
+- **1)** mieć błotniki barwy granatowej; v
+- **2)** b yć oznakowany odblaskowym napisem „STRAŻ GMINNA” („STRAŻ MIEJSKA”) barwy żółtej na granatowym tle umieszczonym z przodu motocykla; dopuszcza się dodatkowo umieszczenie tego napisu na obydwu bokach oraz z tyłu motocykla.
+
 3. Na pojazdach, o których mowa w ust. 1 i 2, można umieszczać o w tylnej części boków pojazdu, symetrycznie po obu jego stronach, oraz z tyłu pojazdu inne oznaczenia określające ich przynależność do określonej komórki organizacyjnej straży gminnej (miejskiej) lub numer telefonu kontaktowego danej straży; oznaczenia i numer telefonu kontaktowego powinny mieć barwę żółtą.”;
-2) w § 59 dodaje się ust. 19 w brzmieniu: g „19. Przepisy § 32b stosuje się do pojazdu zarejestrowanego po raz pierwszy po dniu 1 lipca 2012 r.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-.
-Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak l c r .
-w w
+
+- **2)** w § 59 dodaje się ust. 19 w brzmieniu: g „19. Przepisy § 32b stosuje się do pojazdu zarejestrowanego po raz pierwszy po dniu 1 lipca 2012 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. . Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak l c r . w w
 

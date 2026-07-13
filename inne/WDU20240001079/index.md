@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001079) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1079/text.pdf) |
 
 zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Nowosolska Dolina Odry (PLH080014) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 i 1890) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 16 marca 2017 r. w sprawie specjalnego obszaru Nowosolska Dolina Odry (PLH080014) (Dz. U. poz. 744) załącznik nr 4 do rozporządzenia otrzymuje w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: GATUNKI ZWIERZĄT INNYCH NIŻ PTAKI, BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK NOWOSOLSKA DOLINA ODRY Lp. Nazwa polska Nazwa naukowa Populacja 1 boleń Aspius aspius osiadła 2 bóbr europejski Castor fiber osiadła 3 czerwończyk nieparek Lycaena dispar osiadła 4 koza Cobitis taenia osiadła 5 kumak nizinny Bombina bombina osiadła 6 modraszek nausitous Maculinea (Phengaris) nausithous osiadła 7 piskorz Misgurnus fossilis osiadła 8 różanka Rhodeus sericeus amarus osiadła 9 traszka grzebieniasta Triturus cristatus (Triturus cristatus cristatus) osiadła 10 wydra Lutra lutra osiadła
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 16 marca 2017 r. w sprawie specjalnego obszaru Nowosolska Dolina Odry (PLH080014) (Dz. U. poz. 744) załącznik nr 4 do rozporządzenia otrzymuje w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: GATUNKI ZWIERZĄT INNYCH NIŻ PTAKI, BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK NOWOSOLSKA DOLINA ODRY Lp. Nazwa polska Nazwa naukowa Populacja 1 boleń Aspius aspius osiadła 2 bóbr europejski Castor fiber osiadła 3 czerwończyk nieparek Lycaena dispar osiadła 4 koza Cobitis taenia osiadła 5 kumak nizinny Bombina bombina osiadła 6 modraszek nausitous Maculinea (Phengaris) nausithous osiadła 7 piskorz Misgurnus fossilis osiadła 8 różanka Rhodeus sericeus amarus osiadła 9 traszka grzebieniasta Triturus cristatus (Triturus cristatus cristatus) osiadła 10 wydra Lutra lutra osiadła
 

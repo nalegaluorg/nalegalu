@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000161) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/161/text.pdf) |
 
 w sprawie wyznaczenia dyrektora izby administracji skarbowej właściwego w sprawach Centralnego Rejestru Podmiotów Akcyzowych Na podstawie art. 14 ust. 14 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, 1747, 2320 i 2419 oraz z 2021 r. poz. 72) zarządza się, co następuje:
-§ 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Poznaniu jako organ właściwy w sprawach Centralnego Rejestru Podmiotów Akcyzowych.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lutego 2021 r.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** Wyznacza się Dyrektora Izby Administracji Skarbowej w Poznaniu jako organ właściwy w sprawach Centralnego Rejestru Podmiotów Akcyzowych.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lutego 2021 r. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

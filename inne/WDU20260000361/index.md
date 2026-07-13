@@ -27,10 +27,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000361) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/361/text.pdf) |
 
 zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Straży Granicznej Na podstawie art. 108 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366 oraz z 2026 r. poz. 50 i 187) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 października 2025 r. w sprawie dodatków do uposażenia funkcjonariuszy Straży Granicznej (Dz. U. poz. 1494) wprowadza się następujące zmiany:
-1) w § 9 w ust. 1 w części wspólnej wyrazy „630 zł miesięcznie” zastępuje się wyrazami „649 zł miesięcznie”;
-2) w § 10 w ust. 1 w części wspólnej wyrazy „567 zł miesięcznie” zastępuje się wyrazami „584 zł miesięcznie”.
-§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie od dnia 1 stycznia 2026 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. W. Szczepański
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 października 2025 r. w sprawie dodatków do uposażenia funkcjonariuszy Straży Granicznej (Dz. U. poz. 1494) wprowadza się następujące zmiany:
+
+- **1)** w § 9 w ust. 1 w części wspólnej wyrazy „630 zł miesięcznie” zastępuje się wyrazami „649 zł miesięcznie”;
+- **2)** w § 10 w ust. 1 w części wspólnej wyrazy „567 zł miesięcznie” zastępuje się wyrazami „584 zł miesięcznie”.
+
+**§ 2.** Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie od dnia 1 stycznia 2026 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. W. Szczepański
 

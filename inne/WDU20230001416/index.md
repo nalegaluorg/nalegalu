@@ -26,8 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001416) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1416/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków i trybu udzielania urlopów strażakom Państwowej Straży Pożarnej Na podstawie art. 71h ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240, 347, 641 i 1088) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 stycznia 2006 r. w sprawie warunków i trybu udzielania urlopów strażakom Państwowej Straży Pożarnej (Dz. U. poz. 52) w § 3 w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) zastępcom komendanta głównego, komendantom wojewódzkim, komendantowi Akademii Pożarniczej, dyrektorowi Centrum Naukowo-Badawczego Ochrony Przeciwpożarowej – Komendant Główny Państwowej Straży Pożarnej;
-3) zastępcom komendanta Akademii Pożarniczej i pozostałych szkół Państwowej Straży Pożarnej – komendant szkoły;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 stycznia 2006 r. w sprawie warunków i trybu udzielania urlopów strażakom Państwowej Straży Pożarnej (Dz. U. poz. 52) w § 3 w ust. 1 pkt 2 i 3 otrzymują brzmienie:
+
+> „2) zastępcom komendanta głównego, komendantom wojewódzkim, komendantowi Akademii Pożarniczej, dyrektorowi Centrum Naukowo-Badawczego Ochrony Przeciwpożarowej – Komendant Główny Państwowej Straży Pożarnej;  
+> 3) zastępcom komendanta Akademii Pożarniczej i pozostałych szkół Państwowej Straży Pożarnej – komendant szkoły;”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

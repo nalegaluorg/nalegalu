@@ -26,17 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000782) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/782/text.pdf) |
 
 zmieniające rozporządzenie w sprawie komitetu audytu Na podstawie art. 290 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 29 grudnia 2009 r. w sprawie komitetu audytu (Dz. U. poz. 1826) wprowadza się następujące zmiany:
-1) w § 2:
-a) w pkt 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „posiada udokumentowane doświadczenie lub wiedzę w zakresie:”, – uchyla się lit. e,
-b) uchyla się pkt 6;
-2) w § 3 w ust. 1 objaśnienie symbolu M otrzymuje brzmienie: „M – mnożnik równy 0,4 w przypadku komitetu audytu powołanego dla jednego działu, a 0,5 w przypadku komitetu audytu powołanego dla co najmniej dwóch działów,”;
-3) w § 4 pkt 2 otrzymuje brzmienie: „2) sposób działania komitetu audytu, w tym:
-a) tryb i częstotliwość zwoływania posiedzeń,
-b) sposób prowadzenia posiedzeń,
-c) sposób podejmowania uchwał,
-d) zasady udziału w posiedzeniach osób trzecich,
-e) sposób dokumentowania posiedzeń oraz podjętych ustaleń;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
-Minister Finansów: P. Szałamacha
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 29 grudnia 2009 r. w sprawie komitetu audytu (Dz. U. poz. 1826) wprowadza się następujące zmiany:
+
+- **1)** w § 2:
+    - **a)** w pkt 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „posiada udokumentowane doświadczenie lub wiedzę w zakresie:”, – uchyla się lit. e,
+    - **b)** uchyla się pkt 6;
+
+- **2)** w § 3 w ust. 1 objaśnienie symbolu M otrzymuje brzmienie: „M – mnożnik równy 0,4 w przypadku komitetu audytu powołanego dla jednego działu, a 0,5 w przypadku komitetu audytu powołanego dla co najmniej dwóch działów,”;
+- **3)** w § 4 pkt 2 otrzymuje brzmienie:
+
+  > „2) sposób działania komitetu audytu, w tym:  
+  > a) tryb i częstotliwość zwoływania posiedzeń, b) sposób prowadzenia posiedzeń, c) sposób podejmowania uchwał, d) zasady udziału w posiedzeniach osób trzecich, e) sposób dokumentowania posiedzeń oraz podjętych ustaleń;”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r. Minister Finansów: P. Szałamacha
 

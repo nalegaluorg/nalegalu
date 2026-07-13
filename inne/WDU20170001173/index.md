@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2017 r.
 poz. 246 i 1139) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U.
-poz. 485) po § 16 dodaje się § 16a w brzmieniu: „§ 16a. Urzędnik lub inny pracownik zatrudnieni w sądzie albo w prokuraturze, którzy nie spełniają wymagań kwalifikacyjnych przewidzianych w niniejszym rozporządzeniu dla stanowiska zajmowanego przez nich w dniu wejścia w życie rozporządzenia, mogą być nadal zatrudnieni na tym stanowisku.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 6 marca 2017 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. poz. 485) po § 16 dodaje się § 16a w brzmieniu: „§ 16a. Urzędnik lub inny pracownik zatrudnieni w sądzie albo w prokuraturze, którzy nie spełniają wymagań kwalifikacyjnych przewidzianych w niniejszym rozporządzeniu dla stanowiska zajmowanego przez nich w dniu wejścia w życie rozporządzenia, mogą być nadal zatrudnieni na tym stanowisku.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 6 marca 2017 r. Minister Sprawiedliwości: Z. Ziobro
 

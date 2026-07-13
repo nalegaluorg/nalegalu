@@ -28,9 +28,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania Na podstawie art. 11 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
 poz. 615, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055, z późn. zm. ) w § 3 w ust. 1 w pkt 25 kropkę zastępuje się przecinkiem i dodaje się pkt 26 w brzmieniu: „26) kary pieniężnej, o której mowa w art. 143d ustawy.”.
-§ 2. Do kar pieniężnych, o których mowa w art. 143d ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, nieuiszczonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepis § 3 ust. 1 pkt 26 rozporządzenia zmienianego w § 1.
-§ 3. W sprawach dotyczących kar pieniężnych, o których mowa w art. 143d ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, w których upomnienie zostało wystawione przed dniem wejścia w życie niniejszego rozporządzenia, wierzycielem jest naczelnik urzędu skarbowego, który je wystawił.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: A. Domański
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055, z późn. zm. ) w § 3 w ust. 1 w pkt 25 kropkę zastępuje się przecinkiem i dodaje się pkt 26 w brzmieniu: „26) kary pieniężnej, o której mowa w art. 143d ustawy.”.
+
+**§ 2.** Do kar pieniężnych, o których mowa w art. 143d ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, nieuiszczonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepis § 3 ust. 1 pkt 26 rozporządzenia zmienianego w § 1.
+
+**§ 3.** W sprawach dotyczących kar pieniężnych, o których mowa w art. 143d ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, w których upomnienie zostało wystawione przed dniem wejścia w życie niniejszego rozporządzenia, wierzycielem jest naczelnik urzędu skarbowego, który je wystawił.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: A. Domański
 

@@ -30,7 +30,10 @@ source: pdf
 **Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. Nr 64, poz. 593, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 97 ust. 5 otrzymuje brzmienie: „5. Rada powiatu lub rada gminy w drodze uchwały ustala, w zakresie zadań własnych, szczegółowe zasady ponoszenia odpłatności za pobyt w ośrodkach wsparcia i mieszkaniach chronionych.”;
-- **2)** w art. 106 ust. 3a i 3b otrzymują brzmienie: „3a. Zmiana dochodu osoby samotnie gospodarującej lub rodziny w okresie pobierania świadczenia pieniężnego nie wpływa na wysokość świadczenia pieniężnego, jeżeli kwota zmiany nie przekroczyła 10% odpowiednio kryterium dochodowego osoby samotnie gospodarującej lub kryterium dochodowego na osobę w rodzinie. 3b. Zmiana dochodu osoby samotnie gospodarującej lub rodziny w okresie ponoszenia odpłatności za świadczenie niepieniężne nie wpływa na wysokość tej odpłatności, jeżeli kwota zmiany nie przekroczyła 10% odpowiednio kryterium dochodowego osoby samotnie gospodarującej lub kryterium dochodowego na osobę w rodzinie.”;
+- **2)** w art. 106 ust. 3a i 3b otrzymują brzmienie:
+
+  > „3a. Zmiana dochodu osoby samotnie gospodarującej lub rodziny w okresie pobierania świadczenia pieniężnego nie wpływa na wysokość świadczenia pieniężnego, jeżeli kwota zmiany nie przekroczyła 10% odpowiednio kryterium dochodowego osoby samotnie gospodarującej lub kryterium dochodowego na osobę w rodzinie.  
+  > 3b. Zmiana dochodu osoby samotnie gospodarującej lub rodziny w okresie ponoszenia odpłatności za świadczenie niepieniężne nie wpływa na wysokość tej odpłatności, jeżeli kwota zmiany nie przekroczyła 10% odpowiednio kryterium dochodowego osoby samotnie gospodarującej lub kryterium dochodowego na osobę w rodzinie.”;  
 - **3)** w art. 112 ust. 8 otrzymuje brzmienie: „8. Starosta przy pomocy powiatowego centrum pomocy rodzinie sprawuje nadzór nad działalnością rodzinnej opieki zastępczej, ośrodków adopcyjno-opiekuńczych, jednostek specjalistycznego poradnictwa, w tym rodzinnego, oraz ośrodków wsparcia, domów pomocy społecznej, placówek opiekuńczo-wychowawczych i ośrodków interwencji kryzysowej.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

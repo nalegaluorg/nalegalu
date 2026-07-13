@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001908) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1908/text.pdf) |
 
 w sprawie powierzenia prowadzenia rejestru jachtów i innych jednostek pływających o długości do 24 m i administrowania nim Na podstawie art. 17 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. poz. 1137 oraz z 2019 r. poz. 1716) zarządza się, co następuje:
-§ 1. Prowadzenie rejestru jachtów i innych jednostek pływających o długości do 24 m i administrowanie nim powierza się Dyrektorowi Urzędu Morskiego w Szczecinie.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2020 r.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
+
+**§ 1.** Prowadzenie rejestru jachtów i innych jednostek pływających o długości do 24 m i administrowanie nim powierza się Dyrektorowi Urzędu Morskiego w Szczecinie.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2020 r. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
 

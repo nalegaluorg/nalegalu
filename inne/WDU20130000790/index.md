@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000790) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/790/text.pdf) |
 
 zmieniające rozporządzenie w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa Na podstawie art. 91 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 24 sierpnia 2004 r. w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa (Dz. U. Nr 207, poz. 2107) w § 1 w pkt 1 wprowadza się następujące zmiany:
-1) po lit. g dodaje się lit. ga w brzmieniu: „ga) na porty morskie o podstawowym znaczeniu dla gospodarki narodowej, w części służącej wykonywaniu zadań na rzecz obronności i bezpieczeństwa państwa przez podmioty zarządzające, o których mowa w przepisach o portach i przystaniach morskich,”;
-2) lit. i otrzymuje brzmienie: „i) pod obiekty przeznaczone na magazyny rezerw strategicznych,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 24 sierpnia 2004 r. w sprawie określenia rodzajów nieruchomości uznawanych za niezbędne na cele obronności i bezpieczeństwa państwa (Dz. U. Nr 207, poz. 2107) w § 1 w pkt 1 wprowadza się następujące zmiany:
+
+- **1)** po lit. g dodaje się lit. ga w brzmieniu: „ga) na porty morskie o podstawowym znaczeniu dla gospodarki narodowej, w części służącej wykonywaniu zadań na rzecz obronności i bezpieczeństwa państwa przez podmioty zarządzające, o których mowa w przepisach o portach i przystaniach morskich,”;
+- **2)** lit. i otrzymuje brzmienie: „i) pod obiekty przeznaczone na magazyny rezerw strategicznych,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

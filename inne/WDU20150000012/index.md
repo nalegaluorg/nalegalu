@@ -26,9 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000012) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/12/text.pdf) |
 
 w sprawie szczegółowych wymagań dotyczących zasad adresowania dla właściwego kierowania połączeń Na podstawie art. 126 ust. 13 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, 827 i 1198) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowe wymagania dotyczące zasad adresowania dla właściwego kierowania połączeń, stanowiące załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Administracji i Cyfryzacji: A. Halicki SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE ZASAD ADRESOWANIA DLA WŁAŚCIWEGO KIEROWANIA POŁĄCZEŃ
+
+**§ 1.** Rozporządzenie określa szczegółowe wymagania dotyczące zasad adresowania dla właściwego kierowania połączeń, stanowiące załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Administracji i Cyfryzacji: A. Halicki SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE ZASAD ADRESOWANIA DLA WŁAŚCIWEGO KIEROWANIA POŁĄCZEŃ
+
+## Załącznik
+
 § 1. Informacja adresowa o numerze abonenta wywołującego powinna być niezmienna na całej drodze połączeniowej, z zastrzeżeniem § 2.
 § 2. Numer zastępujący numer abonenta (numer techniczny) powinien być wykorzystywany przy:
 1) realizowaniu połączenia na numery alarmowe z telekomunikacyjnego urządzenia końcowego bez użycia przez abonenta wielofunkcyjnej, inteligentnej karty identyfikacyjnej (Subscriber Identity Module), zwanej dalej „kartą SIM”, lub

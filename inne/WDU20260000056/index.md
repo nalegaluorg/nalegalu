@@ -27,15 +27,17 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000056) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/56/text.pdf) |
 
 zmieniające rozporządzenie w sprawie kart do tachografów cyfrowych Na podstawie art. 45 ust. 1 ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. z 2024 r. poz. 1037) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 19 maja 2023 r. w sprawie kart do tachografów cyfrowych (Dz. U.
-poz. 986) wprowadza się następujące zmiany:
-1) załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
-2) załącznik nr 7 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
-3) załącznik nr 8 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 3 do niniejszego rozporządzenia;
-4) załącznik nr 9 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia.
-§ 2. Wnioski o wydanie, przedłużenie lub wymianę karty kierowcy, przedsiębiorstwa, warsztatowej i kontrolnej złożone zgodnie z wzorami formularzy tych wniosków określonymi w przepisach dotychczasowych i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu.
-§ 3. Rozporządzenie wchodzi w życie z dniem 20 stycznia 2026 r.
-Minister Infrastruktury: wz. S. Bukowiec Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 19 maja 2023 r. w sprawie kart do tachografów cyfrowych (Dz. U. poz. 986) wprowadza się następujące zmiany:
+
+- **1)** załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+- **2)** załącznik nr 7 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
+- **3)** załącznik nr 8 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 3 do niniejszego rozporządzenia;
+- **4)** załącznik nr 9 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia.
+
+**§ 2.** Wnioski o wydanie, przedłużenie lub wymianę karty kierowcy, przedsiębiorstwa, warsztatowej i kontrolnej złożone zgodnie z wzorami formularzy tych wniosków określonymi w przepisach dotychczasowych i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 20 stycznia 2026 r. Minister Infrastruktury: wz. S. Bukowiec Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 
 ## Załącznik nr 1 — WZÓR Numer wniosku KK Karta Kierowcy WNIOSEK O WYDANIE, PRZEDŁUŻENIE LUB WYMIANĘ KARTY KIEROWCY WYPEŁNIJ CZYTELNIE WIELKIMI LITERAMI ALFABETU ŁACIŃSKIEGO Pole wyboru zaznaczaj x
 

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym Na podstawie art. 8 ustawy z dnia 22 listopada 2013 r. o postępowaniu wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub wolności seksualnej innych osób (Dz. U. z 2014 r. poz. 24 oraz z 2015 r.
 poz. 396) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 16 stycznia 2014 r. w sprawie Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym (Dz. U. poz. 89) w § 3 w ust. 1 pkt 1 otrzymuje brzmienie: „1) sale, nie większe niż 2-osobowe, przeznaczone dla osób umieszczonych;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: M. Zembala
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 16 stycznia 2014 r. w sprawie Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym (Dz. U. poz. 89) w § 3 w ust. 1 pkt 1 otrzymuje brzmienie: „1) sale, nie większe niż 2-osobowe, przeznaczone dla osób umieszczonych;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: M. Zembala
 

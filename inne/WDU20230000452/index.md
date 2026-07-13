@@ -35,19 +35,32 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 20 października 2015 r.
 w sprawie trybu i sposobu dokonywania doręczeń elektronicznych Na podstawie art. 131 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r.
 poz. 1805, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa tryb i sposób dokonywania doręczeń elektronicznych.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) użytkowniku konta – rozumie się przez to osobę fizyczną, dla której założono konto w systemie teleinformatycznym obsługującym postępowanie sądowe;
-2) koncie – rozumie się przez to zbiór danych, które identyfikują użytkownika konta, wraz z przyporządkowanymi zasobami systemu teleinformatycznego, który obsługuje postępowanie sądowe;
-3) uwierzytelnieniu – rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika konta w systemie teleinformatycznym obsługującym postępowanie sądowe;
-4) odbiorze pisma – rozumie się przez to pierwsze uwierzytelnienie użytkownika na koncie po umieszczeniu doręczanego pisma w systemie teleinformatycznym obsługującym postępowanie sądowe, chyba że zapoznanie się z treścią pisma nie było możliwe z przyczyn związanych bezpośrednio z funkcjonowaniem tego systemu;
-5) piśmie – rozumie się przez to dane z systemu teleinformatycznego obsługującego postępowanie sądowe obejmujące treść pisma procesowego lub sądowego oraz orzeczenia.
-§ 3. Pismo doręcza się za pośrednictwem systemu teleinformatycznego, który obsługuje postępowanie sądowe, zwanego dalej „systemem teleinformatycznym”, w taki sposób, że umieszcza się je na koncie, z którego adresat wniósł pierwsze pismo w sprawie, chyba że przepis szczególny stanowi inaczej.
-§ 4. 1. Po odbiorze pisma, na koncie, na którym umieszczono pismo, jest prezentowana data odbioru, a w przypadku nieodebrania pisma w terminie 14 dni od daty umieszczenia pisma na koncie – data, w której upłynął 14-dniowy termin, o którym mowa w art. 131 § 2 zdanie trzecie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+
+**§ 1.** Rozporządzenie określa tryb i sposób dokonywania doręczeń elektronicznych.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** użytkowniku konta – rozumie się przez to osobę fizyczną, dla której założono konto w systemie teleinformatycznym obsługującym postępowanie sądowe;
+- **2)** koncie – rozumie się przez to zbiór danych, które identyfikują użytkownika konta, wraz z przyporządkowanymi zasobami systemu teleinformatycznego, który obsługuje postępowanie sądowe;
+- **3)** uwierzytelnieniu – rozumie się przez to proces elektroniczny, który umożliwia identyfikację elektroniczną użytkownika konta w systemie teleinformatycznym obsługującym postępowanie sądowe;
+- **4)** odbiorze pisma – rozumie się przez to pierwsze uwierzytelnienie użytkownika na koncie po umieszczeniu doręczanego pisma w systemie teleinformatycznym obsługującym postępowanie sądowe, chyba że zapoznanie się z treścią pisma nie było możliwe z przyczyn związanych bezpośrednio z funkcjonowaniem tego systemu;
+- **5)** piśmie – rozumie się przez to dane z systemu teleinformatycznego obsługującego postępowanie sądowe obejmujące treść pisma procesowego lub sądowego oraz orzeczenia.
+
+**§ 3.** Pismo doręcza się za pośrednictwem systemu teleinformatycznego, który obsługuje postępowanie sądowe, zwanego dalej „systemem teleinformatycznym”, w taki sposób, że umieszcza się je na koncie, z którego adresat wniósł pierwsze pismo w sprawie, chyba że przepis szczególny stanowi inaczej.
+
+**§ 4.**
+
+1. Po odbiorze pisma, na koncie, na którym umieszczono pismo, jest prezentowana data odbioru, a w przypadku nieodebrania pisma w terminie 14 dni od daty umieszczenia pisma na koncie – data, w której upłynął 14-dniowy termin, o którym mowa w art. 131 § 2 zdanie trzecie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+
 1a. Elektroniczne potwierdzenie odbioru korespondencji jest przekazywane do sądu automatycznie, za pośrednictwem systemu teleinformatycznego.
+
 2. Elektroniczne potwierdzenie odbioru korespondencji zawiera: oznaczenie doręczonego pisma, informację o czasie jego odbioru, nazwę użytkownika konta, któremu doręczono pismo, albo – jeśli pismo nie zostanie odebrane – informację, że pismo uznano za doręczone w trybie art. 131 § 2 zdanie trzecie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, informację o czasie umieszczenia pisma w systemie teleinformatycznym razem z oznaczeniem doręczonego pisma, a w przypadku postępowania rejestrowego – informację, że pismo zostało doręczone na wskazane przez użytkownika konto, inne niż konto, z którego wniesiono pismo.
-§ 5. Przed uwierzytelnieniem użytkownika konta informuje się o sposobie i skutkach dokonywania doręczeń elektronicznych.
-§ 6. W elektronicznym postępowaniu upominawczym pismo przeznaczone dla użytkownika konta może być doręczone użytkownikowi uprawnionemu do odbioru pism, który został wskazany przez użytkownika konta za pośrednictwem systemu teleinformatycznego.
-§ 6a. W postępowaniu rejestrowym pismo zostaje doręczone na inne konto niż to wskazane w § 3, jeżeli adresat w piśmie procesowym wskazał inne konto do doręczeń w systemie teleinformatycznym.
-§ 7. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
+
+**§ 5.** Przed uwierzytelnieniem użytkownika konta informuje się o sposobie i skutkach dokonywania doręczeń elektronicznych.
+
+**§ 6.** W elektronicznym postępowaniu upominawczym pismo przeznaczone dla użytkownika konta może być doręczone użytkownikowi uprawnionemu do odbioru pism, który został wskazany przez użytkownika konta za pośrednictwem systemu teleinformatycznego.
+
+**§ 6a.** W postępowaniu rejestrowym pismo zostaje doręczone na inne konto niż to wskazane w § 3, jeżeli adresat w piśmie procesowym wskazał inne konto do doręczeń w systemie teleinformatycznym.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
 

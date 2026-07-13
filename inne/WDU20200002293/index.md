@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002293) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2293/text.pdf) |
 
 zmieniające rozporządzenie w sprawie udzielania pomocy na realizację inwestycji służących podniesieniu poziomu ochrony środowiska w ramach regionalnych programów operacyjnych na lata 2014–2020 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 5 listopada 2015 r. w sprawie udzielania pomocy na realizację inwestycji służących podniesieniu poziomu ochrony środowiska w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 2022) wprowadza się następujące zmiany:
-1) w § 10 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do dnia 31 grudnia 2021 r. maksymalną intensywność pomocy, o której mowa w § 1 pkt 1, zwiększa się również o:”;
-2) w § 11 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do dnia 31 grudnia 2021 r. maksymalną intensywność pomocy, o której mowa w § 1 pkt 2, zwiększa się o:”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 5 listopada 2015 r. w sprawie udzielania pomocy na realizację inwestycji służących podniesieniu poziomu ochrony środowiska w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 2022) wprowadza się następujące zmiany:
+
+- **1)** w § 10 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do dnia 31 grudnia 2021 r. maksymalną intensywność pomocy, o której mowa w § 1 pkt 1, zwiększa się również o:”;
+- **2)** w § 11 w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do dnia 31 grudnia 2021 r. maksymalną intensywność pomocy, o której mowa w § 1 pkt 2, zwiększa się o:”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

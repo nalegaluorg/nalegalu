@@ -27,16 +27,24 @@ source: pdf
 
 w sprawie przesyłania oświadczenia emitenta i oświadczenia płatnika w zakresie podatku dochodowego od osób prawnych Na podstawie art. 26 ust. 10 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r.
 poz. 2805) zarządza się, co następuje:
-§ 1. Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej:
-1) oświadczenia emitenta o dochowaniu należytej staranności w poinformowaniu podmiotów z nim powiązanych o warunkach zwolnienia w stosunku do podmiotów powiązanych;
-2) oświadczenia płatnika o posiadaniu dokumentów wymaganych przez przepisy prawa podatkowego dla zastosowania stawki podatku albo zwolnienia lub niepobrania podatku, wynikających z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania, oraz nieposiadaniu wiedzy uzasadniającej przypuszczenie, że istnieją okoliczności wykluczające możliwość zastosowania stawki podatku, zwolnienia lub niepobrania podatku, wynikających z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania.
-§ 2. Oświadczenie emitenta, o którym mowa w § 1 pkt 1, opatrzone kwalifikowanym podpisem elektronicznym albo podpisem zaufanym jest przesyłane przez elektroniczną skrzynkę podawczą organu podatkowego utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r.
-poz. 57, 1123, 1234 i 1703).
-§ 3. 1. Oświadczenie płatnika, o którym mowa w § 1 pkt 2, opatrzone kwalifikowanym podpisem elektronicznym jest przesyłane za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+**§ 1.** Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej:
+
+- **1)** oświadczenia emitenta o dochowaniu należytej staranności w poinformowaniu podmiotów z nim powiązanych o warunkach zwolnienia w stosunku do podmiotów powiązanych;
+- **2)** oświadczenia płatnika o posiadaniu dokumentów wymaganych przez przepisy prawa podatkowego dla zastosowania stawki podatku albo zwolnienia lub niepobrania podatku, wynikających z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania, oraz nieposiadaniu wiedzy uzasadniającej przypuszczenie, że istnieją okoliczności wykluczające możliwość zastosowania stawki podatku, zwolnienia lub niepobrania podatku, wynikających z przepisów szczególnych lub umów o unikaniu podwójnego opodatkowania.
+
+**§ 2.** Oświadczenie emitenta, o którym mowa w § 1 pkt 1, opatrzone kwalifikowanym podpisem elektronicznym albo podpisem zaufanym jest przesyłane przez elektroniczną skrzynkę podawczą organu podatkowego utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703).
+
+**§ 3.**
+
+1. Oświadczenie płatnika, o którym mowa w § 1 pkt 2, opatrzone kwalifikowanym podpisem elektronicznym jest przesyłane za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
 2. Dowodem złożenia oświadczenia płatnika, o którym mowa w § 1 pkt 2, jest urzędowe poświadczenie odbioru, wydane przez elektroniczną skrzynkę podawczą systemu teleinformatycznego administracji skarbowej po przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych i podpisu elektronicznego, które:
-1) zapewnia integralność przekazanego oświadczenia płatnika, o którym mowa w § 1 pkt 2, zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
-2) zawiera datę i godzinę przekazania oświadczenia płatnika, o którym mowa w § 1 pkt 2.
+
+- **1)** zapewnia integralność przekazanego oświadczenia płatnika, o którym mowa w § 1 pkt 2, zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+- **2)** zawiera datę i godzinę przekazania oświadczenia płatnika, o którym mowa w § 1 pkt 2.
+
 3. Struktura logiczna urzędowego poświadczenia odbioru oświadczenia płatnika, o którym mowa w § 1 pkt 2, jest udostępniana w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.
-Minister Finansów: A. Domański
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. Minister Finansów: A. Domański
 

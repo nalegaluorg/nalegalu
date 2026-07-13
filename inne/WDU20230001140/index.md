@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska Na podstawie art. 122 ust. 2 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r.
 poz. 1094 i 1113) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 12 listopada 2008 r. w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. z 2015 r. poz. 1350 oraz z 2016 r. poz. 1380) w załączniku do rozporządzenia w § 3 w ust. 1:
-1) pkt 8 otrzymuje brzmienie: „8) Stanowisko do spraw Bezpieczeństwa Informacji;”;
-2) w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) Stanowisko do spraw koordynacji pomocy technicznej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 12 listopada 2008 r. w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. z 2015 r. poz. 1350 oraz z 2016 r. poz. 1380) w załączniku do rozporządzenia w § 3 w ust. 1:
+
+- **1)** pkt 8 otrzymuje brzmienie: „8) Stanowisko do spraw Bezpieczeństwa Informacji;”;
+- **2)** w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) Stanowisko do spraw koordynacji pomocy technicznej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

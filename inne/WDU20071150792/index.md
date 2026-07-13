@@ -30,7 +30,10 @@ source: pdf
 **Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 16:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Składki na ubezpieczenia emerytalne: 1) pracowników, 2) osób wykonujących pracę nakładczą, 3) członków spółdzielni, 4) zleceniobiorców, 5) posłów i senatorów, 6) stypendystów sportowych, 7) pobierających stypendium słuchaczy Krajowej Szkoły Administracji Publicznej, 8) osób wykonujących odpłatnie pracę, na podstawie skierowania do pracy, w czasie odbywania kary pozbawienia wolności lub tymczasowego aresztowania, 9) osób współpracujących ze zleceniobiorcami, 10) funkcjonariuszy Służby Celnej, 11) poborowych odbywających służbę zastępczą – finansują z własnych środków, w równych częściach, ubezpieczeni i płatnicy składek.”,
+    - **a)** ust. 1 otrzymuje brzmienie:
+
+      > „1. Składki na ubezpieczenia emerytalne:  
+      > 1) pracowników, 2) osób wykonujących pracę nakładczą, 3) członków spółdzielni, 4) zleceniobiorców, 5) posłów i senatorów, 6) stypendystów sportowych, 7) pobierających stypendium słuchaczy Krajowej Szkoły Administracji Publicznej, 8) osób wykonujących odpłatnie pracę, na podstawie skierowania do pracy, w czasie odbywania kary pozbawienia wolności lub tymczasowego aresztowania, 9) osób współpracujących ze zleceniobiorcami, 10) funkcjonariuszy Służby Celnej, 11) poborowych odbywających służbę zastępczą – finansują z własnych środków, w równych częściach, ubezpieczeni i płatnicy składek.”,  
     - **b)** ust. 1a otrzymuje brzmienie: „1a. Składki na ubezpieczenia emerytalne osób pobierających świadczenie szkoleniowe po ustaniu zatrudnienia finansują z własnych środków, w równych częściach, ubezpieczeni i płatnicy składek.”,
     - **c)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Składki na ubezpieczenia rentowe osób, o których mowa w ust. 1 i 1a, finansują z własnych środków, w wysokości 1,5% podstawy wymiaru ubezpieczeni i w wysokości 4,5% podstawy wymiaru płatnicy składek.”;
 

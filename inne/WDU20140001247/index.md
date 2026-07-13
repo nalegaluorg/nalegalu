@@ -27,36 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy Na podstawie art. 228 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. Nr 225, poz. 1490) § 1 otrzymuje brzmienie: „§ 1. Powołuje się Międzyresortową Komisję do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy, zwaną dalej „Komisją”, w składzie:
-1) Danuta Koradecka, Centralny Instytut Ochrony Pracy – Państwowy Instytut Badawczy – przewodniczący;
-2) Marek Jakubowski, Instytut Medycyny Pracy im. prof. Jerzego Nofera w Łodzi – zastępca przewodniczącego;
-3) Adam Lipowczan, Główny Instytut Górnictwa – zastępca przewodniczącego;
-4) Jolanta Skowroń, Centralny Instytut Ochrony Pracy – Państwowy Instytut Badawczy – sekretarz;
-5) Sławomir Czerczak, Instytut Medycyny Pracy im. prof. Jerzego Nofera w Łodzi – członek;
-6) Tomasz Dawidowicz, Ministerstwo Obrony Narodowej – Wojskowa Inspekcja Sanitarna – członek;
-7) Ewa Dębczyńska, Ministerstwo Pracy i Polityki Społecznej – członek;
-8) Anna Dmochowska, Ministerstwo Spraw Wewnętrznych – członek;
-9) Marzena Flis, Komisja Krajowa NSZZ „Solidarność” – członek;
-10) Ewa Garstka, Ministerstwo Gospodarki – członek;
-11) Anna Gietka, Polska Izba Przemysłu Chemicznego – członek;
-12) Renata Górna, Ogólnopolskie Porozumienie Związków Zawodowych – członek;
-13) Beata Marta Iwańczuk, Państwowa Inspekcja Sanitarna Ministerstwa Spraw Wewnętrznych – członek;
-14) Andrzej Katulski, Pracodawcy Rzeczypospolitej Polskiej – członek;
-15) Katarzyna Kitajewska, Ministerstwo Zdrowia – Główny Inspektorat Sanitarny – członek;
-16) Jerzy Król, Ministerstwo Infrastruktury i Rozwoju – członek;
-17) Jan Krzysztof Ludwicki, Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny – członek;
-18) Stanisław Marzec, Instytut Medycyny Pracy i Zdrowia Środowiskowego w Sosnowcu – członek;
-19) Zygmunt Mierzejewski, Forum Związków Zawodowych – członek;
-20) Andrzej Milczarek, Instytut Chemii Przemysłowej im. prof. Ignacego Mościckiego w Warszawie – członek;
-21) Sylwia Oziembło-Brzykczy, Główny Inspektorat Pracy – członek;
-22) Małgorzata Pośniak, Centralny Instytut Ochrony Pracy – Państwowy Instytut Badawczy – członek;
-23) Anna Rybak, Ministerstwo Środowiska – członek;
-24) Elżbieta Sosnowska, Polski Komitet Normalizacyjny – członek;
-25) Jacek Świeca, Związek Pracodawców Business Centre Club – członek;
-26) Elżbieta Wasilewska, Ministerstwo Rolnictwa i Rozwoju Wsi – członek;
-27) Piotr Wawrzyńczok, Wyższy Urząd Górniczy w Katowicach – członek;
-28) Jerzy Wroński, Konfederacja Lewiatan – członek;
-29) Jerzy Zagórski, Instytut Medycyny Wsi w Lublinie – członek.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie powołania Międzyresortowej Komisji do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy (Dz. U. Nr 225, poz. 1490) § 1 otrzymuje brzmienie: „§ 1. Powołuje się Międzyresortową Komisję do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy, zwaną dalej „Komisją”, w składzie: 1) Danuta Koradecka, Centralny Instytut Ochrony Pracy – Państwowy Instytut Badawczy – przewodniczący; 2) Marek Jakubowski, Instytut Medycyny Pracy im. prof. Jerzego Nofera w Łodzi – zastępca przewodniczącego; 3) Adam Lipowczan, Główny Instytut Górnictwa – zastępca przewodniczącego; 4) Jolanta Skowroń, Centralny Instytut Ochrony Pracy – Państwowy Instytut Badawczy – sekretarz; 5) Sławomir Czerczak, Instytut Medycyny Pracy im. prof. Jerzego Nofera w Łodzi – członek; 6) Tomasz Dawidowicz, Ministerstwo Obrony Narodowej – Wojskowa Inspekcja Sanitarna – członek; 7) Ewa Dębczyńska, Ministerstwo Pracy i Polityki Społecznej – członek; 8) Anna Dmochowska, Ministerstwo Spraw Wewnętrznych – członek; 9) Marzena Flis, Komisja Krajowa NSZZ „Solidarność” – członek; 10) Ewa Garstka, Ministerstwo Gospodarki – członek; 11) Anna Gietka, Polska Izba Przemysłu Chemicznego – członek; 12) Renata Górna, Ogólnopolskie Porozumienie Związków Zawodowych – członek; 13) Beata Marta Iwańczuk, Państwowa Inspekcja Sanitarna Ministerstwa Spraw Wewnętrznych – członek; 14) Andrzej Katulski, Pracodawcy Rzeczypospolitej Polskiej – członek; 15) Katarzyna Kitajewska, Ministerstwo Zdrowia – Główny Inspektorat Sanitarny – członek; 16) Jerzy Król, Ministerstwo Infrastruktury i Rozwoju – członek; 17) Jan Krzysztof Ludwicki, Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny – członek; 18) Stanisław Marzec, Instytut Medycyny Pracy i Zdrowia Środowiskowego w Sosnowcu – członek; 19) Zygmunt Mierzejewski, Forum Związków Zawodowych – członek; 20) Andrzej Milczarek, Instytut Chemii Przemysłowej im. prof. Ignacego Mościckiego w Warszawie – członek; 21) Sylwia Oziembło-Brzykczy, Główny Inspektorat Pracy – członek; 22) Małgorzata Pośniak, Centralny Instytut Ochrony Pracy – Państwowy Instytut Badawczy – członek; 23) Anna Rybak, Ministerstwo Środowiska – członek; 24) Elżbieta Sosnowska, Polski Komitet Normalizacyjny – członek; 25) Jacek Świeca, Związek Pracodawców Business Centre Club – członek; 26) Elżbieta Wasilewska, Ministerstwo Rolnictwa i Rozwoju Wsi – członek; 27) Piotr Wawrzyńczok, Wyższy Urząd Górniczy w Katowicach – członek; 28) Jerzy Wroński, Konfederacja Lewiatan – członek; 29) Jerzy Zagórski, Instytut Medycyny Wsi w Lublinie – członek.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

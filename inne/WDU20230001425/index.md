@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1425/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wysokości i zasad otrzymywania uposażenia i innych należności pieniężnych przez policjanta skierowanego do szkoły lub na przeszkolenie albo na studia w kraju Na podstawie art. 122 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 31 grudnia 2002 r. w sprawie wysokości i zasad otrzymywania uposażenia i innych należności pieniężnych przez policjanta skierowanego do szkoły lub na przeszkolenie albo na studia w kraju (Dz. U. z 2003 r. poz. 37) wprowadza się następujące zmiany:
-1) w § 1 w ust. 2 pkt 1 otrzymuje brzmienie: „1) studiów, szkoleń zawodowych lub doskonalenia zawodowego w Akademii Policji w Szczytnie, szkole policyjnej lub ośrodku szkolenia Policji, zwanych dalej „jednostką szkoleniową Policji”;”;
-2) w § 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Policjant, który egzamin wstępny na studia w Akademii Policji w Szczytnie zdał przed przyjęciem do służby w Policji, w okresie odbywania nauki otrzymuje uposażenie zasadnicze w wysokości przewidzianej na stanowisku:”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 31 grudnia 2002 r. w sprawie wysokości i zasad otrzymywania uposażenia i innych należności pieniężnych przez policjanta skierowanego do szkoły lub na przeszkolenie albo na studia w kraju (Dz. U. z 2003 r. poz. 37) wprowadza się następujące zmiany:
+
+- **1)** w § 1 w ust. 2 pkt 1 otrzymuje brzmienie: „1) studiów, szkoleń zawodowych lub doskonalenia zawodowego w Akademii Policji w Szczytnie, szkole policyjnej lub ośrodku szkolenia Policji, zwanych dalej „jednostką szkoleniową Policji”;”;
+- **2)** w § 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Policjant, który egzamin wstępny na studia w Akademii Policji w Szczytnie zdał przed przyjęciem do służby w Policji, w okresie odbywania nauki otrzymuje uposażenie zasadnicze w wysokości przewidzianej na stanowisku:”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

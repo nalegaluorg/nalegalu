@@ -27,13 +27,16 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk Na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 15 września 2010 r. w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk (Dz. U. Nr 184, poz. 1240) wprowadza się następujące zmiany:
-1) w § 5:
-a) ust. 1 otrzymuje brzmienie: „1. W czasie widowisk z udziałem zaproszonego zespołu wykonawców (występ gościnny) organizator widowiska i osoba reprezentująca zespół lub jego pracodawcę mają obowiązek współpracować ze sobą i ustalić w formie pisemnej zasady współdziałania na wypadek wystąpienia zagrożeń dla zdrowia lub życia uczestników widowiska.”,
-b) ust. 3 otrzymuje brzmienie: „3. Organizator widowiska i osoba reprezentująca zespół lub jego pracodawcę w sposób udokumentowany wyznaczają koordynatora sprawującego nadzór w zakresie bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego.”;
-2) w § 22:
-a) ust. 4 otrzymuje brzmienie: „4. Komisja pisemnie opiniuje koncepcje inscenizacyjne i projekty scenograficzne pod kątem ich zgodności z przepisami bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego, a także miejscowymi warunkami bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego. Komisja opiniuje także środki inscenizacji po ich wykonaniu, przed lub w trakcie prób technicznych i przeglądu kostiumów. Obowiązek uzyskania opinii komisji dotyczy również zmian wprowadzonych do koncepcji inscenizacji, projektu scenograficznego i wykonanych środków inscenizacji po ich pozytywnym zaopiniowaniu przez komisję.”,
-b) ust. 6 otrzymuje brzmienie: „6. Dyrektor instytucji kultury ustala regulamin pracy komisji, zasady postępowania w przypadku negatywnego zaopiniowania przez komisję koncepcji inscenizacyjnej, projektu scenograficznego lub wykonanych środków inscenizacji oraz zasady postępowania w przypadku zmian dokonanych w pozytywnie zaopiniowanej przez komisję koncepcji inscenizacyjnej, w projekcie scenograficznym lub w wykonanych środkach inscenizacji.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: M. Omilanowska
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 15 września 2010 r. w sprawie bezpieczeństwa i higieny pracy przy organizacji i realizacji widowisk (Dz. U. Nr 184, poz. 1240) wprowadza się następujące zmiany:
+
+- **1)** w § 5:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. W czasie widowisk z udziałem zaproszonego zespołu wykonawców (występ gościnny) organizator widowiska i osoba reprezentująca zespół lub jego pracodawcę mają obowiązek współpracować ze sobą i ustalić w formie pisemnej zasady współdziałania na wypadek wystąpienia zagrożeń dla zdrowia lub życia uczestników widowiska.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Organizator widowiska i osoba reprezentująca zespół lub jego pracodawcę w sposób udokumentowany wyznaczają koordynatora sprawującego nadzór w zakresie bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego.”;
+
+- **2)** w § 22:
+    - **a)** ust. 4 otrzymuje brzmienie: „4. Komisja pisemnie opiniuje koncepcje inscenizacyjne i projekty scenograficzne pod kątem ich zgodności z przepisami bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego, a także miejscowymi warunkami bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego. Komisja opiniuje także środki inscenizacji po ich wykonaniu, przed lub w trakcie prób technicznych i przeglądu kostiumów. Obowiązek uzyskania opinii komisji dotyczy również zmian wprowadzonych do koncepcji inscenizacji, projektu scenograficznego i wykonanych środków inscenizacji po ich pozytywnym zaopiniowaniu przez komisję.”,
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Dyrektor instytucji kultury ustala regulamin pracy komisji, zasady postępowania w przypadku negatywnego zaopiniowania przez komisję koncepcji inscenizacyjnej, projektu scenograficznego lub wykonanych środków inscenizacji oraz zasady postępowania w przypadku zmian dokonanych w pozytywnie zaopiniowanej przez komisję koncepcji inscenizacyjnej, w projekcie scenograficznym lub w wykonanych środkach inscenizacji.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: M. Omilanowska
 

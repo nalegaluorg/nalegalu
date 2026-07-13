@@ -26,8 +26,8 @@ source: pdf
 
 Na podstawie art. 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. Nr 137, poz. 887 i Nr 162, poz. 1118 i 1126 oraz z 1999 r. Nr 26, poz.
 228) zarządza się, co następuje:
-§ 1.
-W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenie emerytalne i rentowe (Dz.U. Nr 161, poz. 1106 i z 1999 r. Nr 49, poz. 488) w § 2 w ust. 1 po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) nagrody Ministra Gospodarki za szczególne osiągnięcia w eksporcie,”.
-§ 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+**§ 1.** W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenie emerytalne i rentowe (Dz.U. Nr 161, poz. 1106 i z 1999 r. Nr 49, poz. 488) w § 2 w ust. 1 po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) nagrody Ministra Gospodarki za szczególne osiągnięcia w eksporcie,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

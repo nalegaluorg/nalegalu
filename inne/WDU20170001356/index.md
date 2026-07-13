@@ -26,11 +26,21 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1356/text.pdf) |
 
 w sprawie określenia regulaminu organizacji i działania stałych sądów polubownych przy wojewódzkich inspektorach inspekcji handlowej Na podstawie art. 37 ust. 7 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2017 r. poz. 1063) zarządza się, co następuje:
-§ 1. Określa się regulamin organizacji i działania stałych sądów polubownych przy wojewódzkich inspektorach inspekcji handlowej, stanowiący załącznik do rozporządzenia.
-§ 2. 1. Arbitrzy wyznaczeni przez strony lub wyznaczeni do składu orzekającego z urzędu przez przewodniczącego przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie przepisów dotychczasowych, biorą udział jedynie w rozpoznaniu spraw rozpoczętych wcześniej z ich udziałem do czasu ich zakończenia.
+
+**§ 1.** Określa się regulamin organizacji i działania stałych sądów polubownych przy wojewódzkich inspektorach inspekcji handlowej, stanowiący załącznik do rozporządzenia.
+
+**§ 2.**
+
+1. Arbitrzy wyznaczeni przez strony lub wyznaczeni do składu orzekającego z urzędu przez przewodniczącego przed dniem wejścia w życie niniejszego rozporządzenia, na podstawie przepisów dotychczasowych, biorą udział jedynie w rozpoznaniu spraw rozpoczętych wcześniej z ich udziałem do czasu ich zakończenia.
+
 2. W przypadku rozpatrywania wniosków o rozwiązanie sporu złożonych przed dniem wejścia w życie niniejszego rozporządzenia stały sąd polubowny przy wojewódzkim inspektorze inspekcji handlowej nie umarza postępowania ze względu na swą niewłaściwość miejscową.
-§ 3. Rozporządzenie wchodzi w życie z dniem 11 lipca 2017 r.
-Minister Sprawiedliwości: Z. Ziobro REGULAMIN ORGANIZACJI I DZIAŁANIA STAŁYCH SĄDÓW POLUBOWNYCH PRZY WOJEWÓDZKICH INSPEKTORACH INSPEKCJI HANDLOWEJ
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 11 lipca 2017 r. Minister Sprawiedliwości: Z. Ziobro REGULAMIN ORGANIZACJI I DZIAŁANIA STAŁYCH SĄDÓW POLUBOWNYCH PRZY WOJEWÓDZKICH INSPEKTORACH INSPEKCJI HANDLOWEJ
+
+### DZIAŁ I Wewnętrzna organizacja stałych sądów polubownych
+
+## Załącznik
+
 § 1. W skład stałego sądu polubownego przy wojewódzkim inspektorze inspekcji handlowej, zwanego dalej „sądem polubownym”, wchodzą:
 1) przewodniczący sądu polubownego, zwany dalej „przewodniczącym”;
 2) stali arbitrzy.
@@ -50,12 +60,15 @@ Minister Sprawiedliwości: Z. Ziobro REGULAMIN ORGANIZACJI I DZIAŁANIA STAŁYCH
 § 7. Przewodniczący wnioskuje o uzupełniające wyznaczenie stałych arbitrów jeżeli liczba stałych arbitrów nie zapewnia prawidłowego działania sądu polubownego lub nie są spełnione wymogi dotyczące wykształcenia arbitrów, o których mowa w § 3 ust. 4.
 § 8. W zakresie działalności administracyjnej przewodniczący oraz stały arbiter, o którym mowa w § 5 ust. 2, podlegają nadzorowi wojewódzkiego inspektora inspekcji handlowej.
 § 9. Obsługę prac sądu polubownego zapewnia wojewódzki inspektorat inspekcji handlowej.
+DZIAŁ II Czynności stałych sądów polubownych
+Rozdział 1 Przepisy ogólne
 § 10. 1. Wniosek o rozpatrzenie sporu przez sąd polubowny, zwany dalej „wnioskiem”, wnosi się w postaci papierowej albo elektronicznej za pomocą środków komunikacji elektronicznej.
 2. Wniosek wniesiony za pośrednictwem środków komunikacji elektronicznej opatruje się kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
 § 11. 1. Wniosek wnosi się do sądu polubownego właściwego ze względu na miejsce zamieszkania konsumenta albo siedzibę przedsiębiorcy.
 2. Za siedzibę przedsiębiorcy uważa się siedzibę w rozumieniu art. 4 ust. 2 ustawy z dnia 23 września 2016 r.
 o pozasądowym rozwiązywaniu sporów konsumenckich.
 § 12. Sąd polubowny może zawiadamiać i wzywać strony, świadków lub inne osoby w sposób, który uzna za najbardziej celowy, jeżeli uzna to za niezbędne do przyspieszenia rozpoznania sprawy. Dotyczy to również doręczeń.
+Rozdział 2 Czynności przewodniczącego
 § 13. 1. Przewodniczący dokonuje wstępnego badania wniosku niezwłocznie po wniesieniu go do sądu polubownego.
 2. Jeżeli sąd polubowny nie jest właściwy do rozpoznania sprawy, zgodnie z § 11 ust. 1, przewodniczący zarządza pozostawienie wniosku bez dalszego biegu. W przypadku gdy właściwy do rozpoznania sprawy jest inny sąd polubowny, przewodniczący wskazuje wnioskodawcy ten sąd.
 3. Jeżeli sąd polubowny nie jest właściwy rzeczowo do rozpoznania sprawy, przewodniczący zarządza pozostawienie wniosku bez dalszego biegu, informując wnioskodawcę o prawie do złożenia wniosku do sądu polubownego działającego przy właściwym podmiocie uprawnionym do rozstrzygania sporów konsumenckich.
@@ -80,6 +93,7 @@ zm. ).
 § 22. Wniosek o wyłączenie arbitra albo arbitra przewodniczącego będącego przewodniczącym, przewodniczący niezwłocznie przekazuje sądowi, o którym mowa w art. 1158 § 1 ustawy z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego.
 § 23. Jeżeli w terminie miesiąca od dnia, w którym strona złożyła wniosek o wyłączenie arbitra albo arbitra przewodniczącego, wniosek nie zostanie rozpatrzony przez przewodniczącego, strona żądająca wyłączenia może w terminie następnych dwóch tygodni wystąpić do sądu, o którym mowa w art. 1158 § 1 ustawy z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego, z wnioskiem o jego wyłączenie.
 § 24. W razie wyłączenia arbitra albo arbitra przewodniczącego lub złożenia przez nich rezygnacji nowy arbiter jest powołany do składu orzekającego w sposób określony w § 18 lub § 19.
+Rozdział 3 Czynności sądu orzekającego
 § 25. 1. Sąd orzekający, zwany dalej „sądem”, rozpoznaje sprawę na rozprawie w składzie:
 1) arbiter przewodniczący, o którym mowa w § 19;
 2) dwóch arbitrów powołanych w sposób określony w § 18.
@@ -112,14 +126,4 @@ zm. ).
 7) przytoczenie motywów, którymi kierował się sąd przy wydaniu wyroku;
 8) podpisy arbitra przewodniczącego i arbitrów.
 § 34. Odpis wyroku, podpisany tak jak oryginał, wraz z pouczeniem o sposobie i terminie jego zaskarżenia, doręcza się stronom w terminie 14 dni od dnia wydania wyroku.
-
-### DZIAŁ I Wewnętrzna organizacja stałych sądów polubownych
-
-### DZIAŁ II Czynności stałych sądów polubownych
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Czynności przewodniczącego
-
-#### Rozdział 3 Czynności sądu orzekającego
 

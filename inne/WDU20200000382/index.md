@@ -26,288 +26,462 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000382) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/382/text.pdf) |
 
 w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Dobrostan zwierząt” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 i ust. 2 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwo ju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2020 r. poz. 217 i 300) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty oraz zwrotu pomocy finansowej w ra mach działania „Dobrostan zwierząt” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanej dalej „płatnością dobrostanową”, w tym:
-1) formę i tryb składania wniosków o przyznanie płatności dobrostanowej;
-2) szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie płatności dobrostanowej;
-3) przypadki, w których następca prawny podmiotu ubiegającego się o przyznanie płatności dobrostanowej albo przej mujący posiadanie zwierząt objętych wnioskiem o przyznanie płatności dobrostanowej, może, na swój wniosek, wstą pić do toczącego się postępowania w sprawie o przyznanie płatności dobrostanowej na miejsce tego podmiotu oraz warunki i tryb wstąpienia do tego postępowania;
-4) wysokość zmniejszeń kwot płatności dobrostanowej, o których mowa w art. 64 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1306/2013”.
-§ 2. 1. Użyte w rozporządzeniu określenia oznaczają:
-1) gospodarstwo rolne – gospodarstwo rolne w rozumieniu art. 4 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 (Dz. Urz. UE L 347 z 20.12.2013, str. 608, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1307/2013”, znajdujące się na terytorium Rzeczypospolitej Polskiej;
-2) locha – samicę z gatunku świnia (Sus scrofa) po pierwszym wyproszeniu;
-3) loszka – samicę z gatunku świnia (Sus scrofa) po osiągnięciu dojrzałości płciowej do pierwszego wyproszenia;
-4) tucznik – młode zwierzę z gatunku świnia (Sus scrofa) przeznaczone do tuczu, bez względu na płeć, od ukończenia
+
+**§ 1.** Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty oraz zwrotu pomocy finansowej w ra mach działania „Dobrostan zwierząt” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanej dalej „płatnością dobrostanową”, w tym:
+
+- **1)** formę i tryb składania wniosków o przyznanie płatności dobrostanowej;
+- **2)** szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie płatności dobrostanowej;
+- **3)** przypadki, w których następca prawny podmiotu ubiegającego się o przyznanie płatności dobrostanowej albo przej mujący posiadanie zwierząt objętych wnioskiem o przyznanie płatności dobrostanowej, może, na swój wniosek, wstą pić do toczącego się postępowania w sprawie o przyznanie płatności dobrostanowej na miejsce tego podmiotu oraz warunki i tryb wstąpienia do tego postępowania;
+- **4)** wysokość zmniejszeń kwot płatności dobrostanowej, o których mowa w art. 64 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1306/2013”.
+
+**§ 2.**
+
+1. Użyte w rozporządzeniu określenia oznaczają:
+
+- **1)** gospodarstwo rolne – gospodarstwo rolne w rozumieniu art. 4 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 (Dz. Urz. UE L 347 z 20.12.2013, str. 608, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1307/2013”, znajdujące się na terytorium Rzeczypospolitej Polskiej;
+- **2)** locha – samicę z gatunku świnia (Sus scrofa) po pierwszym wyproszeniu;
+- **3)** loszka – samicę z gatunku świnia (Sus scrofa) po osiągnięciu dojrzałości płciowej do pierwszego wyproszenia;
+- **4)** tucznik – młode zwierzę z gatunku świnia (Sus scrofa) przeznaczone do tuczu, bez względu na płeć, od ukończenia
+
 10. tygodnia życia do dnia uboju;
-5) warchlak – młode zwierzę z gatunku świnia (Sus scrofa), od odsadzenia do ukończenia 10. tygodnia życia;
-6) krowa mleczna – samicę bydła domowego (Bos taurus) typu użytkowego mlecznego lub typu użytkowego kombino wanego o mlecznym kierunku jej użytkowania, której wiek przekracza 24 miesiące;
-7) krowa mamka – samicę bydła domowego (Bos taurus) typu użytkowego mięsnego lub typu użytkowego kombinowa nego o mięsnym kierunku jej użytkowania, której wiek przekracza 24 miesiące.
+
+- **5)** warchlak – młode zwierzę z gatunku świnia (Sus scrofa), od odsadzenia do ukończenia 10. tygodnia życia;
+- **6)** krowa mleczna – samicę bydła domowego (Bos taurus) typu użytkowego mlecznego lub typu użytkowego kombino wanego o mlecznym kierunku jej użytkowania, której wiek przekracza 24 miesiące;
+- **7)** krowa mamka – samicę bydła domowego (Bos taurus) typu użytkowego mięsnego lub typu użytkowego kombinowa nego o mięsnym kierunku jej użytkowania, której wiek przekracza 24 miesiące.
+
 2. Do obliczania wieku zwierząt stosuje się przepisy Kodeksu cywilnego dotyczące obliczania terminów, z tym że ter min upływa z początkiem ostatniego dnia, a typ użytkowy krów ustala się na podstawie danych zawartych w rejestrze zwie rząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w przepisach o systemie identyfikacji i reje stracji zwierząt.
-§ 3. 1. Płatność dobrostanową przyznaje się rolnikowi, o którym mowa w art. 33 ust. 1 rozporządzenia Parlamentu Eu ropejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1305/2013”, jeżeli zobowiązał się do realizacji określonych pakietów i ich wariantów w ramach operacji, o której mowa w art. 33 ust. 1 rozporządzenia nr 1305/2013, oraz:
-1) któremu został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewi dencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który może być wykorzystywany do ubiegania się o tę płatność, zwany dalej „numerem identyfikacyjnym”;
-2) który posiada, na dzień złożenia wniosku o przyznanie płatności dobrostanowej, co najmniej jedną oznakowaną zgod nie z przepisami o systemie identyfikacji i rejestracji zwierząt oraz zarejestrowaną w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt:
-a) lochę, która jest oznakowana kolczykiem z indywidualnym numerem identyfikacyjnym lochy zgodnie z tymi przepisami – w przypadku wariantów, o których mowa w § 4 ust. 2 pkt 1 lit. a i c,
-b) krowę – w przypadku pakietu, o którym mowa w § 4 ust. 2 pkt 2;
-3) który posiada, z wyłączeniem wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. a, plan poprawy dobrostanu zwierząt, który został sporządzony:
-a) do dnia złożenia wniosku o przyznanie płatności dobrostanowej – w przypadku wariantów, o których mowa w § 4 ust. 2 pkt 1 lit. a i c,
-b) przed upływem 25 dni od dnia, w którym upływa termin składania wniosków o przyznanie płatności bezpośred nich w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego – w przypadku wariantów, o których mowa w § 4 ust. 2 pkt 1 lit. b i d oraz pkt 2 lit. b i c – przy udziale doradcy rolniczego, na formularzu udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rol nictwa, zwaną dalej „Agencją”.
+
+**§ 3.**
+
+1. Płatność dobrostanową przyznaje się rolnikowi, o którym mowa w art. 33 ust. 1 rozporządzenia Parlamentu Eu ropejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 (Dz. Urz. UE L 347 z 20.12.2013, str. 487, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1305/2013”, jeżeli zobowiązał się do realizacji określonych pakietów i ich wariantów w ramach operacji, o której mowa w art. 33 ust. 1 rozporządzenia nr 1305/2013, oraz:
+
+- **1)** któremu został nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewi dencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, który może być wykorzystywany do ubiegania się o tę płatność, zwany dalej „numerem identyfikacyjnym”;
+- **2)** który posiada, na dzień złożenia wniosku o przyznanie płatności dobrostanowej, co najmniej jedną oznakowaną zgod nie z przepisami o systemie identyfikacji i rejestracji zwierząt oraz zarejestrowaną w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt:
+    - **a)** lochę, która jest oznakowana kolczykiem z indywidualnym numerem identyfikacyjnym lochy zgodnie z tymi przepisami – w przypadku wariantów, o których mowa w § 4 ust. 2 pkt 1 lit. a i c,
+    - **b)** krowę – w przypadku pakietu, o którym mowa w § 4 ust. 2 pkt 2;
+
+- **3)** który posiada, z wyłączeniem wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. a, plan poprawy dobrostanu zwierząt, który został sporządzony:
+    - **a)** do dnia złożenia wniosku o przyznanie płatności dobrostanowej – w przypadku wariantów, o których mowa w § 4 ust. 2 pkt 1 lit. a i c,
+    - **b)** przed upływem 25 dni od dnia, w którym upływa termin składania wniosków o przyznanie płatności bezpośred nich w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego – w przypadku wariantów, o których mowa w § 4 ust. 2 pkt 1 lit. b i d oraz pkt 2 lit. b i c – przy udziale doradcy rolniczego, na formularzu udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rol nictwa, zwaną dalej „Agencją”.
+
 2. Plan poprawy dobrostanu zwierząt zawiera elementy, które są określone w załączniku nr 1 do rozporządzenia.
+
 3. W przypadku realizacji więcej niż jednego wariantu, rolnik może posiadać więcej niż jeden plan poprawy dobrostanu zwierząt, odrębnie dla każdego z wariantów.
+
 4. Jeżeli rolnik w roku następującym bezpośrednio po roku realizacji danego wariantu realizuje ten sam wariant, to po siada ten sam plan poprawy dobrostanu zwierząt, o ile w gospodarstwie rolnym nie zaszły zmiany skutkujące koniecznością zmiany informacji, o których mowa w ust. 2 pkt 1 lit. b i c, pkt 2 lit. c, pkt 4 lit. b lub pkt 5 lit. b załącznika nr 1 do rozporządzenia.
+
 5. W przypadku, o którym mowa w ust. 4, rolnik składa do kierownika biura powiatowego Agencji oświadczenie o tym, że w planie poprawy dobrostanu zwierząt nie zaszły zmiany w zakresie informacji, o których mowa w ust. 2 pkt 1 lit. b i c, pkt 2 lit. c, pkt 4 lit. b oraz pkt 5 lit. b załącznika nr 1 do rozporządzenia, na formularzu udostępnionym przez Agencję, z tym że oświadczenie jest składane w przypadku wariantów, o których mowa w § 4 ust. 2:
-1) pkt 1 lit. a i c – wraz z wnioskiem o przyznanie płatności dobrostanowej;
-2) pkt 1 lit. b i d oraz pkt 2 lit. b i c – przed upływem 25 dni od dnia, w którym upływa termin składania wniosków o przyznanie płatności bezpośrednich w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpo średniego.
+
+- **1)** pkt 1 lit. a i c – wraz z wnioskiem o przyznanie płatności dobrostanowej;
+- **2)** pkt 1 lit. b i d oraz pkt 2 lit. b i c – przed upływem 25 dni od dnia, w którym upływa termin składania wniosków o przyznanie płatności bezpośrednich w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpo średniego.
+
 6. Płatność dobrostanowa w ramach wariantów, o których mowa w § 4 ust. 2 pkt 1:
-1) lit. a i c, może zostać przyznana, jeżeli rolnik nie utrzymuje loch w systemie jarzmowym;
-2) lit. c i d, może zostać przyznana, jeżeli którykolwiek z obszarów położonych na terytorium Rzeczypospolitej Polskiej nie jest wymieniony w załączniku do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r.
-w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm. ).
+
+- **1)** lit. a i c, może zostać przyznana, jeżeli rolnik nie utrzymuje loch w systemie jarzmowym;
+- **2)** lit. c i d, może zostać przyznana, jeżeli którykolwiek z obszarów położonych na terytorium Rzeczypospolitej Polskiej nie jest wymieniony w załączniku do decyzji wykonawczej Komisji 2014/709/UE z dnia 9 października 2014 r. w sprawie środków kontroli w zakresie zdrowia zwierząt w odniesieniu do afrykańskiego pomoru świń w niektórych państwach członkowskich i uchylającej decyzję wykonawczą 2014/178/UE (Dz. Urz. UE L 295 z 11.10.2014, str. 63, z późn. zm. ).
+
 7. Rolnik, któremu przyznano płatność dobrostanową, nie jest obowiązany do wypełnienia obowiązku informacyjnego, o którym mowa w części 1 pkt 2.2 lit. b załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm. ).
-§ 4. 1. Odpowiednie obowiązkowe wymogi ustanowione zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz inne odpowiednie obowiązkowe wymogi, o których mowa w art. 33 ust. 2 rozporządzenia nr 1305/2013, są wskazane w załączniku nr 2 do rozporządzenia.
+
+**§ 4.**
+
+1. Odpowiednie obowiązkowe wymogi ustanowione zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz inne odpowiednie obowiązkowe wymogi, o których mowa w art. 33 ust. 2 rozporządzenia nr 1305/2013, są wskazane w załączniku nr 2 do rozporządzenia.
+
 2. Wymogi, które wykraczają ponad odpowiednie obowiązkowe wymogi ustanowione zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013, oraz inne odpowiednie obowiązkowe wymogi, o których mowa w art. 33 ust. 2 rozporządze nia nr 1305/2013, są określone w załączniku nr 3 do rozporządzenia, przy czym wymogi te obejmują także obowiązek pro wadzenia na formularzu udostępnionym przez Agencję rejestru wypasu krów mlecznych, i są przestrzegane w ramach następujących pakietów i ich wariantów:
-1) Pakiet 1. Dobrostan świń:
-a) wariant 1.1. Dobrostan loch – zwiększona powierzchnia w budynkach,
-b) wariant 1.2. Dobrostan tuczników – zwiększona powierzchnia w budynkach,
-c) wariant 1.3. Dobrostan loch – dostęp do wybiegu,
-d) wariant 1.4. Dobrostan tuczników – dostęp do wybiegu;
-2) Pakiet 2. Dobrostan krów:
-a) wariant 2.1. Dobrostan krów mlecznych – wypas,
-b) wariant 2.2. Dobrostan krów mlecznych utrzymywanych grupowo – zwiększona powierzchnia w budynkach,
-c) wariant 2.3. Dobrostan krów mamek.
+
+- **1)** Pakiet 1. Dobrostan świń:
+    - **a)** wariant 1.1. Dobrostan loch – zwiększona powierzchnia w budynkach,
+    - **b)** wariant 1.2. Dobrostan tuczników – zwiększona powierzchnia w budynkach,
+    - **c)** wariant 1.3. Dobrostan loch – dostęp do wybiegu,
+    - **d)** wariant 1.4. Dobrostan tuczników – dostęp do wybiegu;
+
+- **2)** Pakiet 2. Dobrostan krów:
+    - **a)** wariant 2.1. Dobrostan krów mlecznych – wypas,
+    - **b)** wariant 2.2. Dobrostan krów mlecznych utrzymywanych grupowo – zwiększona powierzchnia w budynkach,
+    - **c)** wariant 2.3. Dobrostan krów mamek.
+
 3. Rolnik może realizować jednocześnie więcej niż jeden wariant, z tym że wariant, o którym mowa w ust. 2 pkt 1:
-1) lit. c, może być realizowany, jeżeli rolnik realizuje jednocześnie wariant, o którym mowa w ust. 2 pkt 1 lit. a;
-2) lit. d, może być realizowany, jeżeli rolnik realizuje jednocześnie wariant, o którym mowa w ust. 2 pkt 1 lit. b.
+
+- **1)** lit. c, może być realizowany, jeżeli rolnik realizuje jednocześnie wariant, o którym mowa w ust. 2 pkt 1 lit. a;
+- **2)** lit. d, może być realizowany, jeżeli rolnik realizuje jednocześnie wariant, o którym mowa w ust. 2 pkt 1 lit. b.
+
 4. Rolnik przestrzega wymogów w ramach wariantów, o których mowa w ust. 2:
-1) pkt 1 lit. a i c – od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia 14 marca roku następującego po roku, w którym został złożony ten wniosek;
-2) pkt 1 lit. b i d – od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia złożenia takiego wniosku w kolejnym roku, lecz nie dłużej niż do dnia 15 maja tego kolejnego roku;
-3) pkt 2 lit. a – co najmniej przez 120 dni w okresie:
-a) od dnia 1 kwietnia roku, w którym został złożony wniosek o przyznanie płatności dobrostanowej, do dnia 15 paź dziernika tego roku – w przypadku gdy ten wniosek został złożony do dnia 1 kwietnia,
-b) od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia 15 października roku, w którym został złożony ten wniosek – w przypadku gdy ten wniosek został złożony po dniu 1 kwietnia;
-4) pkt 2 lit. b – od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia 14 marca roku następującego po roku, w którym został złożony ten wniosek;
-5) pkt 2 lit. c, w zakresie wymogów, o których mowa w ust. 6:
-a) pkt 1 załącznika nr 3 do rozporządzenia – co najmniej przez 140 dni w okresie: – od dnia 1 kwietnia roku, w którym został złożony wniosek o przyznanie płatności dobrostanowej, do dnia 15 października tego roku – w przypadku gdy ten wniosek został złożony do dnia 1 kwietnia, – od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia 15 października roku, w którym został złożony ten wniosek – w przypadku gdy ten wniosek został złożony po dniu 1 kwietnia,
-b) pkt 2 i 3 załącznika nr 3 do rozporządzenia – od dnia 16 października roku, w którym został złożony wniosek o przyznanie płatności dobrostanowej, do dnia 14 marca kolejnego roku.
-§ 5. 1. Wysokość płatności dobrostanowej w ramach danego wariantu ustala się jako iloczyn odpowiedniej stawki płat ności dobrostanowej i podstawy ustalenia wysokości tej płatności dobrostanowej, po uwzględnieniu zmniejszeń lub wyklu czeń wynikających ze stwierdzonych nieprawidłowości lub niezgodności.
+
+- **1)** pkt 1 lit. a i c – od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia 14 marca roku następującego po roku, w którym został złożony ten wniosek;
+- **2)** pkt 1 lit. b i d – od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia złożenia takiego wniosku w kolejnym roku, lecz nie dłużej niż do dnia 15 maja tego kolejnego roku;
+- **3)** pkt 2 lit. a – co najmniej przez 120 dni w okresie:
+    - **a)** od dnia 1 kwietnia roku, w którym został złożony wniosek o przyznanie płatności dobrostanowej, do dnia 15 paź dziernika tego roku – w przypadku gdy ten wniosek został złożony do dnia 1 kwietnia,
+    - **b)** od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia 15 października roku, w którym został złożony ten wniosek – w przypadku gdy ten wniosek został złożony po dniu 1 kwietnia;
+
+- **4)** pkt 2 lit. b – od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia 14 marca roku następującego po roku, w którym został złożony ten wniosek;
+- **5)** pkt 2 lit. c, w zakresie wymogów, o których mowa w ust. 6:
+    - **a)** pkt 1 załącznika nr 3 do rozporządzenia – co najmniej przez 140 dni w okresie: – od dnia 1 kwietnia roku, w którym został złożony wniosek o przyznanie płatności dobrostanowej, do dnia 15 października tego roku – w przypadku gdy ten wniosek został złożony do dnia 1 kwietnia, – od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia 15 października roku, w którym został złożony ten wniosek – w przypadku gdy ten wniosek został złożony po dniu 1 kwietnia,
+    - **b)** pkt 2 i 3 załącznika nr 3 do rozporządzenia – od dnia 16 października roku, w którym został złożony wniosek o przyznanie płatności dobrostanowej, do dnia 14 marca kolejnego roku.
+
+**§ 5.**
+
+1. Wysokość płatności dobrostanowej w ramach danego wariantu ustala się jako iloczyn odpowiedniej stawki płat ności dobrostanowej i podstawy ustalenia wysokości tej płatności dobrostanowej, po uwzględnieniu zmniejszeń lub wyklu czeń wynikających ze stwierdzonych nieprawidłowości lub niezgodności.
+
 2. Wysokość stawek płatności dobrostanowej za sztukę zwierzęcia w ramach poszczególnych wariantów jest określona w załączniku nr 4 do rozporządzenia.
+
 3. Podstawą ustalenia wysokości płatności dobrostanowej w ramach wariantów, o których mowa w § 4 ust. 2:
-1) pkt 1 lit. a i c, jest średnia liczba loch oznakowanych kolczykiem z indywidualnym numerem identyfikacyjnym lochy i zarejestrowanych zgodnie z przepisami o systemie identyfikacji i rejestracji zwierząt, utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach tych wariantów,
-2) pkt 1 lit. b i d, jest liczba tuczników, które:
-a) pochodzą od loch objętych wnioskiem o przyznanie płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 1 lit. a, i w odniesieniu do których na podstawie tego wniosku i dołączonych do niego dokumen tów oraz danych zawartych w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o któ rym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt, ustalono, że w dniu złożenia tego wniosku nie są one utrzymywane w systemie jarzmowym i jest przestrzegany wymóg, o którym mowa w ust. 1 pkt 1 lit. b załącznika nr 3 do rozporządzenia,
-b) w okresie ustalonym na podstawie ust. 6 lub 7 zostały: – poddane ubojowi w gospodarstwie rolnym albo – przemieszczone bezpośrednio do rzeźni z przeznaczeniem do uboju, albo – przemieszczone do rzeźni z przeznaczeniem do uboju za pośrednictwem wyłącznie jednego podmiotu prowa dzącego działalność nadzorowaną, o której mowa w art. 1 pkt 1 lit. c ustawy z dnia 11 marca 2004 r. o ochro nie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2018 r. poz. 1967 oraz z 2020 r.
-poz. 148 i 285), albo – przemieszczone do rzeźni z przeznaczeniem do uboju za pośrednictwem grupy producentów rolnych lub związku grup producentów rolnych, o których mowa w przepisach ustawy z dnia 15 września 2000 r. o gru pach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2018 r. poz. 1026),
-c) w okresie od dnia opuszczenia gospodarstwa rolnego, w którym rolnik realizował wariant, o którym mowa w § 4 ust. 2 pkt 1 lit. a, do dnia poddania ubojowi w gospodarstwie rolnym lub do dnia przemieszczenia bezpośrednio do rzeźni z przeznaczeniem do uboju, lub do dnia przemieszczenia do podmiotów wymienionych w lit. b tiret trzecie lub czwarte, za pośrednictwem których te tuczniki zostaną przemieszczone do rzeźni z przeznaczeniem do uboju, były utrzymywane w gospodarstwie rolnym jedynie przez rolnika, który realizował wariant, o którym mowa w § 4 ust. 2 pkt 1 lit. b,
-3) pkt 2 lit. a, jest liczba krów mlecznych utrzymywanych przez rolnika i wypasanych zgodnie z wymogiem, o którym mowa w ust. 4 pkt 1 załącznika nr 3 do rozporządzenia, w okresie, w którym ten rolnik przestrzega wymogów w ra mach tego wariantu,
-4) pkt 2 lit. b, jest średnia liczba krów mlecznych utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrze ga wymogów w ramach tego wariantu,
-5) pkt 2 lit. c, jest średnia liczba krów mamek utrzymywanych przez rolnika w okresie określonym w § 4 ust. 4 pkt 5 lit. b – w odniesieniu do których do dnia objęcia wnioskiem o przyznanie płatności dobrostanowej dokonano zgłoszeń wymaga nych na podstawie przepisów o systemie identyfikacji i rejestracji zwierząt, a najpóźniej od dnia objęcia tym wnioskiem są spełnione wymagania w zakresie identyfikacji określone w przepisach o systemie identyfikacji i rejestracji zwierząt.
+
+- **1)** pkt 1 lit. a i c, jest średnia liczba loch oznakowanych kolczykiem z indywidualnym numerem identyfikacyjnym lochy i zarejestrowanych zgodnie z przepisami o systemie identyfikacji i rejestracji zwierząt, utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrzega wymogów w ramach tych wariantów,
+- **2)** pkt 1 lit. b i d, jest liczba tuczników, które: poz. 148 i 285), albo – przemieszczone do rzeźni z przeznaczeniem do uboju za pośrednictwem grupy producentów rolnych lub związku grup producentów rolnych, o których mowa w przepisach ustawy z dnia 15 września 2000 r. o gru pach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2018 r. poz. 1026),
+    - **a)** pochodzą od loch objętych wnioskiem o przyznanie płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 1 lit. a, i w odniesieniu do których na podstawie tego wniosku i dołączonych do niego dokumen tów oraz danych zawartych w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o któ rym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt, ustalono, że w dniu złożenia tego wniosku nie są one utrzymywane w systemie jarzmowym i jest przestrzegany wymóg, o którym mowa w ust. 1 pkt 1 lit. b załącznika nr 3 do rozporządzenia,
+    - **b)** w okresie ustalonym na podstawie ust. 6 lub 7 zostały: – poddane ubojowi w gospodarstwie rolnym albo – przemieszczone bezpośrednio do rzeźni z przeznaczeniem do uboju, albo – przemieszczone do rzeźni z przeznaczeniem do uboju za pośrednictwem wyłącznie jednego podmiotu prowa dzącego działalność nadzorowaną, o której mowa w art. 1 pkt 1 lit. c ustawy z dnia 11 marca 2004 r. o ochro nie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2018 r. poz. 1967 oraz z 2020 r.
+    - **c)** w okresie od dnia opuszczenia gospodarstwa rolnego, w którym rolnik realizował wariant, o którym mowa w § 4 ust. 2 pkt 1 lit. a, do dnia poddania ubojowi w gospodarstwie rolnym lub do dnia przemieszczenia bezpośrednio do rzeźni z przeznaczeniem do uboju, lub do dnia przemieszczenia do podmiotów wymienionych w lit. b tiret trzecie lub czwarte, za pośrednictwem których te tuczniki zostaną przemieszczone do rzeźni z przeznaczeniem do uboju, były utrzymywane w gospodarstwie rolnym jedynie przez rolnika, który realizował wariant, o którym mowa w § 4 ust. 2 pkt 1 lit. b,
+
+- **3)** pkt 2 lit. a, jest liczba krów mlecznych utrzymywanych przez rolnika i wypasanych zgodnie z wymogiem, o którym mowa w ust. 4 pkt 1 załącznika nr 3 do rozporządzenia, w okresie, w którym ten rolnik przestrzega wymogów w ra mach tego wariantu,
+- **4)** pkt 2 lit. b, jest średnia liczba krów mlecznych utrzymywanych przez rolnika w okresie, w którym ten rolnik przestrze ga wymogów w ramach tego wariantu,
+- **5)** pkt 2 lit. c, jest średnia liczba krów mamek utrzymywanych przez rolnika w okresie określonym w § 4 ust. 4 pkt 5 lit. b – w odniesieniu do których do dnia objęcia wnioskiem o przyznanie płatności dobrostanowej dokonano zgłoszeń wymaga nych na podstawie przepisów o systemie identyfikacji i rejestracji zwierząt, a najpóźniej od dnia objęcia tym wnioskiem są spełnione wymagania w zakresie identyfikacji określone w przepisach o systemie identyfikacji i rejestracji zwierząt.
+
 4. Średnią liczbę zwierząt, o których mowa w ust. 3 pkt 1, 4 i 5, ustala się jako iloraz sumy dziennych liczb tych zwierząt i liczby dni w okresie, w którym rolnik przestrzega wymogów w ramach odpowiednich wariantów, a w przypadku wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. c – dni w okresie określonym w § 4 ust. 4 pkt 5 lit. b.
+
 5. Okres utrzymywania zwierząt przez rolnika i liczbę tych zwierząt w tym okresie ustala się na podstawie danych za wartych w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt.
+
 6. W przypadku gdy rolnik nie złożył wniosku o przyznanie płatności dobrostanowej w ramach wariantu, o którym mo wa w § 4 ust. 2 pkt 1 lit. b lub d, w poprzednim roku, okres, o którym mowa w ust. 3 pkt 2 lit. b, trwa od dnia następującego po dniu, w którym upływają 4 miesiące od dnia złożenia takiego wniosku w danym roku, do dnia poprzedzającego dzień złożenia takiego wniosku w kolejnym roku, lecz nie dłużej niż do dnia 15 maja tego kolejnego roku.
+
 7. W przypadku gdy rolnik złożył wniosek o przyznanie płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 1 lit. b lub d, w poprzednim roku, a w danym roku złożył taki wniosek:
-1) do dnia 15 maja – okres, o którym mowa w ust. 3 pkt 2 lit. b, trwa od dnia złożenia takiego wniosku w danym roku,
-2) po dniu 15 maja – okres, o którym mowa w ust. 3 pkt 2 lit. b, trwa od dnia 16 maja danego roku – do dnia poprzedzającego dzień złożenia takiego wniosku w kolejnym roku, lecz nie dłużej niż do dnia 15 maja tego kolej nego roku.
+
+- **1)** do dnia 15 maja – okres, o którym mowa w ust. 3 pkt 2 lit. b, trwa od dnia złożenia takiego wniosku w danym roku,
+- **2)** po dniu 15 maja – okres, o którym mowa w ust. 3 pkt 2 lit. b, trwa od dnia 16 maja danego roku – do dnia poprzedzającego dzień złożenia takiego wniosku w kolejnym roku, lecz nie dłużej niż do dnia 15 maja tego kolej nego roku.
+
 8. Wysokość płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. a, w przypadku krowy mlecznej, która nie była wypasana przez cały okres, w którym rolnik przestrzega wymogów w ramach tego wariantu, ustala się jako iloraz iloczynu odpowiedniej stawki płatności dobrostanowej i liczby dni wypasu tej krowy zgodnie z wymogiem, o którym mowa w ust. 4 pkt 1 załącznika nr 3 do rozporządzenia, oraz liczby 120.
+
 9. W przypadku gdy dana krowa mleczna jest uwzględniona przy ustaleniu wysokości płatności dobrostanowej w ra mach wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. a, przysługującej więcej niż jednemu rolnikowi, a okres wypasania tej krowy zgodnie z wymogiem, o którym mowa w ust. 4 pkt 1 załącznika nr 3 do rozporządzenia, przekracza 120 dni w okre sie, o którym mowa w § 4 ust. 4 pkt 3 lit. a albo b, to płatność dobrostanowa przysługuje do tej krowy za pierwsze 120 dni jej wypasania zgodnie z tym wymogiem.
-§ 6. 1. Rolnikowi może zostać przyznana kwota przeznaczona na refundację kosztów transakcyjnych w rozumieniu art. 2 ust. 1 akapit drugi lit. e rozporządzenia nr 1305/2013, poniesionych z tytułu sporządzenia planu poprawy dobrostanu zwierząt, jeżeli są spełnione warunki przyznania płatności dobrostanowej w ramach danego wariantu.
+
+**§ 6.**
+
+1. Rolnikowi może zostać przyznana kwota przeznaczona na refundację kosztów transakcyjnych w rozumieniu art. 2 ust. 1 akapit drugi lit. e rozporządzenia nr 1305/2013, poniesionych z tytułu sporządzenia planu poprawy dobrostanu zwierząt, jeżeli są spełnione warunki przyznania płatności dobrostanowej w ramach danego wariantu.
+
 2. Wysokość kwoty przeznaczonej na refundację kosztów transakcyjnych w rozumieniu art. 2 ust. 1 akapit drugi lit. e rozporządzenia nr 1305/2013, poniesionych z tytułu sporządzenia planu poprawy dobrostanu zwierząt, nie może przekra czać 15% wypłaconej płatności dobrostanowej i nie może być wyższa niż 1000 zł niezależnie od liczby sporządzonych planów poprawy dobrostanu zwierząt w ramach jednego pakietu.
-§ 7. 1. Wniosek o przyznanie płatności dobrostanowej, poza elementami podania określonymi w przepisach Kodeksu postępowania administracyjnego, z wyłączeniem adresu, zawiera:
-1) numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, a w przypadku osoby fizycznej również numer ewidencyjny powszechnego elektronicznego systemu ewiden cji ludności (numer PESEL), natomiast jeżeli osoba ta nie posiada obywatelstwa polskiego – kod kraju, numer pasz portu lub innego dokumentu tożsamości;
-2) numer identyfikacyjny;
-3) oświadczenie o powierzchni działek ewidencyjnych, na których znajdują się użytki rolne w rozumieniu art. 4 ust. 1 lit. e rozporządzenia nr 1307/2013, z wyszczególnieniem położonych na nich upraw trwałych, trwałych użytków zie lonych oraz gruntów ornych – jeżeli rolnik równocześnie nie ubiega się o przyznanie jednolitej płatności obszarowej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego;
-4) oświadczenia oraz informacje, jakie powinny być zawarte we wniosku o przyznanie jednolitej płatności obszarowej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, określone w przepisach wyda nych na podstawie art. 22 ust. 10 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpo średniego (Dz. U. z 2018 r. poz. 1312, z 2019 r. poz. 1824 oraz z 2020 r. poz. 300) niewymienione w pkt 1–3;
-5) oświadczenia i zobowiązania rolnika związane z płatnością dobrostanową;
-6) informację o załącznikach dołączonych do wniosku.
+
+**§ 7.**
+
+1. Wniosek o przyznanie płatności dobrostanowej, poza elementami podania określonymi w przepisach Kodeksu postępowania administracyjnego, z wyłączeniem adresu, zawiera:
+
+- **1)** numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, a w przypadku osoby fizycznej również numer ewidencyjny powszechnego elektronicznego systemu ewiden cji ludności (numer PESEL), natomiast jeżeli osoba ta nie posiada obywatelstwa polskiego – kod kraju, numer pasz portu lub innego dokumentu tożsamości;
+- **2)** numer identyfikacyjny;
+- **3)** oświadczenie o powierzchni działek ewidencyjnych, na których znajdują się użytki rolne w rozumieniu art. 4 ust. 1 lit. e rozporządzenia nr 1307/2013, z wyszczególnieniem położonych na nich upraw trwałych, trwałych użytków zie lonych oraz gruntów ornych – jeżeli rolnik równocześnie nie ubiega się o przyznanie jednolitej płatności obszarowej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego;
+- **4)** oświadczenia oraz informacje, jakie powinny być zawarte we wniosku o przyznanie jednolitej płatności obszarowej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, określone w przepisach wyda nych na podstawie art. 22 ust. 10 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpo średniego (Dz. U. z 2018 r. poz. 1312, z 2019 r. poz. 1824 oraz z 2020 r. poz. 300) niewymienione w pkt 1–3;
+- **5)** oświadczenia i zobowiązania rolnika związane z płatnością dobrostanową;
+- **6)** informację o załącznikach dołączonych do wniosku.
+
 2. W przypadku wariantów, o których mowa w § 4 ust. 2 pkt 1 lit. a i c, wniosek o przyznanie płatności dobrostanowej może zawierać dobrowolne oświadczenie rolnika o wyrażeniu zgody na udostępnienie na stronie internetowej Agencji po tencjalnym nabywcom prosiąt następujących danych tego rolnika:
-1) imienia i nazwiska albo nazwy;
-2) miejsca zamieszkania albo siedziby i adresu;
-3) adresu do korespondencji, a także jego numeru telefonu oraz adresu e-mail.
+
+- **1)** imienia i nazwiska albo nazwy;
+- **2)** miejsca zamieszkania albo siedziby i adresu;
+- **3)** adresu do korespondencji, a także jego numeru telefonu oraz adresu e-mail.
+
 3. Wniosek o przyznanie płatności dobrostanowej składa się do kierownika biura powiatowego Agencji, w terminie określonym do składania wniosków o przyznanie płatności bezpośrednich w rozumieniu przepisów o płatnościach w ra mach systemów wsparcia bezpośredniego.
-§ 8. 1. Do wniosku o przyznanie płatności dobrostanowej rolnik dołącza materiał graficzny, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013, udostępniony przez Agencję.
+
+**§ 8.**
+
+1. Do wniosku o przyznanie płatności dobrostanowej rolnik dołącza materiał graficzny, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013, udostępniony przez Agencję.
+
 2. Jeżeli rolnik równocześnie nie ubiega się o przyznanie jednolitej płatności obszarowej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, to na materiale graficznym, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013, zaznacza granice powierzchni, o których mowa w § 7 ust. 1 pkt 3, oraz obiekty, o których mowa w § 4 ust. 1 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2015 r. w sprawie szczegóło wych wymagań, jakie powinny spełniać wnioski w sprawach dotyczących płatności w ramach systemów wsparcia bezpo średniego (Dz. U. poz. 352, z 2016 r. poz. 348, z 2017 r. poz. 523 i 1717, z 2018 r. poz. 535 oraz z 2020 r. poz. 329), znaj dujące się na użytkach rolnych będących w jego posiadaniu.
+
 3. W przypadku gdy rolnik po raz pierwszy ubiega się o przyznanie płatności dobrostanowej, Agencja, na wniosek tego rolnika sporządzony na formularzu udostępnionym przez Agencję, w którym ten rolnik wskazuje działki ewidencyjne, udo stępnia materiał graficzny, o którym mowa art. 72 ust. 3 rozporządzenia nr 1306/2013.
+
 4. Jeżeli rolnik ubiega się o przyznanie płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 1 lit. a lub c, do wniosku o przyznanie płatności dobrostanowej w ramach tego wariantu dołącza się kopie stron planu poprawy dobrostanu zwierząt zawierające informacje, o których mowa w ust. 1 i ust. 2 pkt 1 lit. b i c załącznika nr 1 do rozporządze nia, oraz podpis rolnika i doradcy rolniczego, przy udziale którego został sporządzony ten plan.
+
 5. Jeżeli rolnik ubiega się o przyznanie płatności dobrostanowej w ramach wariantu innego niż warianty, o których mo wa w § 4 ust. 2 pkt 1 lit. a i c oraz pkt 2 lit. a, składa do kierownika biura powiatowego Agencji, przed upływem 25 dni od dnia, w którym upływa termin składania wniosków o przyznanie płatności bezpośrednich w rozumieniu przepisów o płat nościach w ramach systemów wsparcia bezpośredniego, kopie stron planu poprawy dobrostanu zwierząt zawierające infor macje, o których mowa w ust. 1 załącznika nr 1 do rozporządzenia, oraz informacje, o których mowa w ust. 2:
-1) pkt 2 lit. b i c załącznika nr 1 do rozporządzenia – w przypadku wariantów, o których mowa w § 4 ust. 2 pkt 1 lit. b i d,
-2) pkt 4 lit. b załącznika nr 1 do rozporządzenia – w przypadku wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. b,
-3) pkt 5 lit. b załącznika nr 1 do rozporządzenia – w przypadku wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. c – z tym że kopie stron zawierające informacje, o których mowa w pkt 1–3, zawierają również podpis rolnika i doradcy rol niczego, przy udziale którego został sporządzony ten plan.
+
+- **1)** pkt 2 lit. b i c załącznika nr 1 do rozporządzenia – w przypadku wariantów, o których mowa w § 4 ust. 2 pkt 1 lit. b i d,
+- **2)** pkt 4 lit. b załącznika nr 1 do rozporządzenia – w przypadku wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. b,
+- **3)** pkt 5 lit. b załącznika nr 1 do rozporządzenia – w przypadku wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. c – z tym że kopie stron zawierające informacje, o których mowa w pkt 1–3, zawierają również podpis rolnika i doradcy rol niczego, przy udziale którego został sporządzony ten plan.
+
 6. Jeżeli rolnik ubiega się o przyznanie płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. a lub c, składa do kierownika biura powiatowego Agencji w terminie od dnia 16 października do dnia 31 października odpowiednio:
-1) rejestr wypasu krów mlecznych – w przypadku wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. a;
-2) oświadczenie o zapewnieniu wypasu wszystkim utrzymywanym w gospodarstwie rolnym krowom mamkom, cielę tom, jałówkom i opasom o masie ciała do 300 kg w typie użytkowym mięsnym lub typie użytkowym kombinowanym o mięsnym kierunku ich użytkowania co najmniej przez 140 dni w okresie, o którym mowa w § 4 ust. 4 pkt 5 lit. a, a w przypadku tymczasowego ich przemieszczenia w tym okresie, w celu wypasu, do siedziby stada w rozumieniu przepisów o systemie identyfikacji i rejestracji zwierząt, innego rolnika – również ze wskazaniem miejsca tego prze mieszczenia – w przypadku wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. c.
+
+- **1)** rejestr wypasu krów mlecznych – w przypadku wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. a;
+- **2)** oświadczenie o zapewnieniu wypasu wszystkim utrzymywanym w gospodarstwie rolnym krowom mamkom, cielę tom, jałówkom i opasom o masie ciała do 300 kg w typie użytkowym mięsnym lub typie użytkowym kombinowanym o mięsnym kierunku ich użytkowania co najmniej przez 140 dni w okresie, o którym mowa w § 4 ust. 4 pkt 5 lit. a, a w przypadku tymczasowego ich przemieszczenia w tym okresie, w celu wypasu, do siedziby stada w rozumieniu przepisów o systemie identyfikacji i rejestracji zwierząt, innego rolnika – również ze wskazaniem miejsca tego prze mieszczenia – w przypadku wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. c.
+
 7. W przypadku gdy rolnik nie dołączył do wniosku o przyznanie płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 1 lit. a i c, dokumentów wymienionych w ust. 4 lub nie dokonał czynności, o której mowa w ust. 5 lub 6, w terminie określonym w tych przepisach lub przekazał niekompletne informacje, kierownik biura powiatowego Agencji wzywa na piśmie rolnika do dokonania tej czynności lub przekazania tych informacji, w terminie 7 dni od dnia doręczenia wezwania, chyba że rolnik dokonał już tej czynności lub przekazał już te informacje.
+
 8. Płatność dobrostanowa w ramach odpowiedniego wariantu nie przysługuje, jeżeli mimo wezwania, o którym mowa w ust. 7, rolnik odpowiednio nie dostarczył lub nie uzupełnił:
-1) kopii stron planu poprawy dobrostanu zwierząt, o których mowa w ust. 4 lub 5;
-2) rejestru wypasu krów mlecznych.
+
+- **1)** kopii stron planu poprawy dobrostanu zwierząt, o których mowa w ust. 4 lub 5;
+- **2)** rejestru wypasu krów mlecznych.
+
 9. Rolnik może, do czasu zawiadomienia o wystąpieniu nieprawidłowości albo do czasu powiadomienia o zamiarze przeprowadzenia kontroli na miejscu, dokonać zmiany w planie poprawy dobrostanu zwierząt i niezwłocznie poinformować o tych zmianach kierownika biura powiatowego Agencji.
+
 10. Jeżeli rolnik w ramach pakietu, o którym mowa w § 4 ust. 2 pkt 2, utrzymuje w gospodarstwie rolnym krowy typu użytkowego kombinowanego, w odniesieniu do których nie został zgłoszony mleczny lub mięsny kierunek ich użytkowa nia, a w przypadku wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. c – utrzymuje w gospodarstwie rolnym również cielęta, jałówki i opasy o masie ciała do 300 kg typu użytkowego kombinowanego, w odniesieniu do których nie został zgłoszony mleczny lub mięsny kierunek ich użytkowania, zgłasza:
-1) zmianę typu ich użytkowania w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt, na typ użytkowy mleczny lub typ użytkowy mięsny albo
-2) kierownikowi biura powiatowego Agencji mleczny lub mięsny kierunek ich użytkowania na formularzu udostępnio nym przez Agencję wraz z podaniem numerów identyfikacyjnych tych zwierząt.
+
+- **1)** zmianę typu ich użytkowania w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt, na typ użytkowy mleczny lub typ użytkowy mięsny albo
+- **2)** kierownikowi biura powiatowego Agencji mleczny lub mięsny kierunek ich użytkowania na formularzu udostępnio nym przez Agencję wraz z podaniem numerów identyfikacyjnych tych zwierząt.
+
 11. Jeżeli rolnik nie dokonał zgłoszeń, o których mowa w ust. 10, kierownik biura powiatowego Agencji wzywa na piśmie rolnika do dokonania jednego z tych zgłoszeń, w terminie 7 dni od dnia doręczenia wezwania.
+
 12. Jeżeli mimo wezwania, o którym mowa w ust. 11, rolnik nie dokonał zgłoszeń, o których mowa w ust. 10:
-1) płatność dobrostanowa nie przysługuje do krów w typie użytkowym kombinowanym, w odniesieniu do których rolnik nie dokonał tych zgłoszeń;
-2) zwierzęta w typie użytkowym kombinowanym, w odniesieniu do których rolnik nie dokonał tych zgłoszeń, są objęte wymogami wariantów, o których mowa w § 4 ust. 2 pkt 2.
-§ 9. 1. W przypadku śmierci rolnika, która nastąpiła w okresie od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia doręczenia decyzji w sprawie o przyznanie tej płatności dobrostanowej, spadkobierca rolnika może wstą pić do toczącego się postępowania w sprawie o przyznanie tej płatności dobrostanowej na miejsce zmarłego rolnika, jeżeli:
-1) objął w posiadanie zwierzęta objęte tym wnioskiem;
-2) nie ubiega się o przyznanie płatności dobrostanowej w ramach tego samego wariantu co wariant, w ramach którego o płatność dobrostanową ubiegał się zmarły rolnik.
+
+- **1)** płatność dobrostanowa nie przysługuje do krów w typie użytkowym kombinowanym, w odniesieniu do których rolnik nie dokonał tych zgłoszeń;
+- **2)** zwierzęta w typie użytkowym kombinowanym, w odniesieniu do których rolnik nie dokonał tych zgłoszeń, są objęte wymogami wariantów, o których mowa w § 4 ust. 2 pkt 2.
+
+**§ 9.**
+
+1. W przypadku śmierci rolnika, która nastąpiła w okresie od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia doręczenia decyzji w sprawie o przyznanie tej płatności dobrostanowej, spadkobierca rolnika może wstą pić do toczącego się postępowania w sprawie o przyznanie tej płatności dobrostanowej na miejsce zmarłego rolnika, jeżeli:
+
+- **1)** objął w posiadanie zwierzęta objęte tym wnioskiem;
+- **2)** nie ubiega się o przyznanie płatności dobrostanowej w ramach tego samego wariantu co wariant, w ramach którego o płatność dobrostanową ubiegał się zmarły rolnik.
+
 2. Spadkobierca rolnika wstępuje do toczącego się postępowania w sprawie o przyznanie płatności dobrostanowej na miejsce zmarłego rolnika na wniosek złożony w terminie 7 miesięcy od dnia otwarcia spadku.
+
 3. Termin, o którym mowa w ust. 2, nie podlega przywróceniu.
+
 4. Spadkobierca rolnika podaje we wniosku, o którym mowa w ust. 2, swój numer identyfikacyjny albo dołącza do tego wniosku kopię wniosku o nadanie numeru identyfikacyjnego.
+
 5. Do wniosku, o którym mowa w ust. 2, spadkobierca rolnika dołącza:
-1) odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo
-2) oświadczenie tego spadkobiercy o złożeniu wniosku o stwierdzenie nabycia spadku, zawierające wskazanie imienia, nazwiska i numeru identyfikacyjnego rolnika, którego jest spadkobiercą – w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku, albo
-3) zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza.
+
+- **1)** odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo
+- **2)** oświadczenie tego spadkobiercy o złożeniu wniosku o stwierdzenie nabycia spadku, zawierające wskazanie imienia, nazwiska i numeru identyfikacyjnego rolnika, którego jest spadkobiercą – w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku, albo
+- **3)** zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza.
+
 6. Spadkobierca rolnika, w przypadku, o którym mowa w ust. 5 pkt 2, składa odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku, w terminie 14 dni od dnia uprawomocnienia się tego postanowienia.
+
 7. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedzicze nia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca rolnika, spadkobierca rolnika wstępujący do postępowania w sprawie o przyznanie płatności dobrostanowej:
-1) dołącza do wniosku, o którym mowa w ust. 2, albo
-2) składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 6 – oświadczenia pozostałych spadkobierców rolnika o wyrażeniu zgody na wstąpienie tego spadkobiercy na miejsce zmarłe go rolnika i przyznanie temu spadkobiercy tej płatności dobrostanowej.
+
+- **1)** dołącza do wniosku, o którym mowa w ust. 2, albo
+- **2)** składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 6 – oświadczenia pozostałych spadkobierców rolnika o wyrażeniu zgody na wstąpienie tego spadkobiercy na miejsce zmarłe go rolnika i przyznanie temu spadkobiercy tej płatności dobrostanowej.
+
 8. Zgoda, o której mowa w ust. 7, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o któ rym mowa w ust. 2, został złożony przez spadkobiercę rolnika będącego przedstawicielem ustawowym tego małoletniego.
+
 9. Wniosek, o którym mowa w ust. 2, spadkobierca rolnika składa do kierownika biura powiatowego Agencji, do które go rolnik, którego jest spadkobiercą, złożył wniosek o przyznanie płatności dobrostanowej.
+
 10. W przypadku, o którym mowa w ust. 5 pkt 2, decyzję w sprawie o przyznanie płatności dobrostanowej spadkobiercy rolnika wydaje się po złożeniu przez tego spadkobiercę odpisu prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku.
+
 11. Przy ustalaniu na podstawie § 5 wysokości płatności dobrostanowej przysługującej spadkobiercy rolnika uwzględ nia się również zwierzęta, w odniesieniu do których ta płatność dobrostanowa zostałaby przyznana zmarłemu rolnikowi.
+
 12. Do zapisobiercy windykacyjnego, który w wyniku śmierci rolnika nabył, jako przedmiot zapisu windykacyjnego, zwierzęta objęte wnioskiem o przyznanie płatności dobrostanowej złożonym przez tego rolnika lub prawo majątkowe, z którym łączy się posiadanie tych zwierząt, przepisy ust. 1–11 stosuje się odpowiednio.
-§ 10. 1. W przypadku rozwiązania albo przekształcenia rolnika lub wystąpienia innego zdarzenia prawnego, w wyniku których zaistniało następstwo prawne, z wyłączeniem przypadku, o którym mowa w § 9 ust. 1, w okresie od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia doręczenia decyzji w sprawie o przyznanie płatności dobrostanowej, następca prawny tego rolnika może wstąpić do toczącego się postępowania w sprawie o przyznanie tej płatności dobrostanowej na miejsce tego rolnika, jeżeli:
-1) objął w posiadanie zwierzęta objęte tym wnioskiem;
-2) nie ubiega się o przyznanie płatności dobrostanowej w ramach tego samego wariantu co wariant, w ramach którego o płatność dobrostanową ubiegał się ten rolnik.
+
+**§ 10.**
+
+1. W przypadku rozwiązania albo przekształcenia rolnika lub wystąpienia innego zdarzenia prawnego, w wyniku których zaistniało następstwo prawne, z wyłączeniem przypadku, o którym mowa w § 9 ust. 1, w okresie od dnia złożenia wniosku o przyznanie płatności dobrostanowej do dnia doręczenia decyzji w sprawie o przyznanie płatności dobrostanowej, następca prawny tego rolnika może wstąpić do toczącego się postępowania w sprawie o przyznanie tej płatności dobrostanowej na miejsce tego rolnika, jeżeli:
+
+- **1)** objął w posiadanie zwierzęta objęte tym wnioskiem;
+- **2)** nie ubiega się o przyznanie płatności dobrostanowej w ramach tego samego wariantu co wariant, w ramach którego o płatność dobrostanową ubiegał się ten rolnik.
+
 2. Następca prawny rolnika wstępuje do toczącego się postępowania w sprawie o przyznanie płatności dobrostanowej na miejsce tego rolnika na wniosek złożony w terminie 3 miesięcy od dnia wystąpienia zdarzenia prawnego, w wyniku któ rego zaistniało następstwo prawne.
+
 3. Termin, o którym mowa w ust. 2, nie podlega przywróceniu.
+
 4. Następca prawny rolnika podaje we wniosku, o którym mowa w ust. 2, swój numer identyfikacyjny albo dołącza do tego wniosku kopię wniosku o nadanie numeru identyfikacyjnego.
+
 5. Do wniosku, o którym mowa w ust. 2, następca prawny rolnika dołącza dokument potwierdzający zaistnienie następ stwa prawnego albo kopię tego dokumentu poświadczoną za zgodność z oryginałem przez notariusza lub przez występują cego w sprawie pełnomocnika będącego radcą prawnym albo adwokatem albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji.
+
 6. Wniosek, o którym mowa w ust. 2, następca prawny rolnika składa do kierownika biura powiatowego Agencji, do którego rolnik, którego jest następcą prawnym, złożył wniosek o przyznanie płatności dobrostanowej.
+
 7. Przy ustalaniu na podstawie § 5 wysokości płatności dobrostanowej przysługującej następcy prawnemu rolnika uwzględnia się również zwierzęta, w odniesieniu do których ta płatność dobrostanowa zostałaby przyznana temu rolnikowi.
-§ 11. 1. W przypadku przeniesienia, w wyniku umowy sprzedaży, dzierżawy lub innej umowy, posiadania zwierząt objętych wnioskiem o przyznanie płatności dobrostanowej, złożonym przez rolnika w okresie od dnia złożenia tego wniosku do dnia doręczenia decyzji w sprawie o przyznanie płatności dobrostanowej, nowy posiadacz tych zwierząt może wstąpić do toczącego się postępowania w sprawie o przyznanie płatności dobrostanowej na miejsce tego rolnika, jeżeli nie ubiega się o przyznanie płatności dobrostanowej w ramach tego samego wariantu co wariant, w ramach którego o płatność dobro stanową ubiegał się ten rolnik.
+
+**§ 11.**
+
+1. W przypadku przeniesienia, w wyniku umowy sprzedaży, dzierżawy lub innej umowy, posiadania zwierząt objętych wnioskiem o przyznanie płatności dobrostanowej, złożonym przez rolnika w okresie od dnia złożenia tego wniosku do dnia doręczenia decyzji w sprawie o przyznanie płatności dobrostanowej, nowy posiadacz tych zwierząt może wstąpić do toczącego się postępowania w sprawie o przyznanie płatności dobrostanowej na miejsce tego rolnika, jeżeli nie ubiega się o przyznanie płatności dobrostanowej w ramach tego samego wariantu co wariant, w ramach którego o płatność dobro stanową ubiegał się ten rolnik.
+
 2. Nowy posiadacz zwierząt, o których mowa w ust. 1, wstępuje do toczącego się postępowania w sprawie o przyznanie płatności dobrostanowej na miejsce rolnika na wniosek złożony w terminie 3 miesięcy od dnia przeniesienia posiadania tych zwierząt.
+
 3. Termin, o którym mowa w ust. 2, nie podlega przywróceniu.
+
 4. Nowy posiadacz zwierząt, o których mowa w ust. 1, podaje we wniosku, o którym mowa w ust. 2, swój numer iden tyfikacyjny albo dołącza do tego wniosku kopię wniosku o nadanie numeru identyfikacyjnego.
+
 5. Do wniosku, o którym mowa w ust. 2, nowy posiadacz zwierząt, o których mowa w ust. 1, dołącza umowę sprzedaży, dzierżawy lub inną umowę, w wyniku której zostało na niego przeniesione posiadanie tych zwierząt, albo kopię tej umowy poświadczoną za zgodność z oryginałem przez notariusza lub przez występującego w sprawie pełnomocnika będącego rad cą prawnym albo adwokatem albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji.
+
 6. Jeżeli posiadanie zwierząt objętych wnioskiem o przyznanie płatności dobrostanowej złożonym przez rolnika zosta ło przeniesione na rzecz kilku podmiotów, nowy posiadacz tych zwierząt wstępujący do postępowania w sprawie o przyzna nie płatności dobrostanowej dołącza do wniosku, o którym mowa w ust. 2, oświadczenia współposiadaczy o wyrażeniu zgody na wstąpienie tego posiadacza na miejsce rolnika i przyznanie mu płatności dobrostanowej.
+
 7. Wniosek, o którym mowa w ust. 2, nowy posiadacz zwierząt, o których mowa w ust. 1, składa do kierownika biura powiatowego Agencji, do którego rolnik, który był dotychczas posiadaczem tych zwierząt, złożył wniosek o przyznanie płatności dobrostanowej.
-§ 12. 1. Do wniosku, o którym mowa w § 9 ust. 2, § 10 ust. 2 i § 11 ust. 2, dołącza się również:
-1) kopie stron nowego planu poprawy dobrostanu zwierząt, o których mowa w § 8 ust. 4 i 5;
-2) dokumenty wymienione w § 8 ust. 6, których złożenie jest wymagane na podstawie tych przepisów, chyba że te doku menty zostały złożone przed dniem złożenia tego wniosku.
+
+**§ 12.**
+
+1. Do wniosku, o którym mowa w § 9 ust. 2, § 10 ust. 2 i § 11 ust. 2, dołącza się również:
+
+- **1)** kopie stron nowego planu poprawy dobrostanu zwierząt, o których mowa w § 8 ust. 4 i 5;
+- **2)** dokumenty wymienione w § 8 ust. 6, których złożenie jest wymagane na podstawie tych przepisów, chyba że te doku menty zostały złożone przed dniem złożenia tego wniosku.
+
 2. W przypadku gdy do wniosku, o którym mowa w § 9 ust. 2, § 10 ust. 2 i § 11 ust. 2, nie dołączono kopii stron planu poprawy dobrostanu zwierząt, o których mowa w § 8 ust. 4 i 5, lub dokumentów wymienionych w § 8 ust. 6, których złożenie jest wymagane na podstawie tych przepisów, przepisy § 8 ust. 7 i 8 stosuje się odpowiednio.
-§ 13. 1. Jeżeli po doręczeniu decyzji w sprawie o przyznanie płatności dobrostanowej rolnik, do którego ta decyzja została skierowana, zmarł, spadkobiercy rolnika przysługują prawa, które przysługiwałyby spadkodawcy jako stronie postępowania.
+
+**§ 13.**
+
+1. Jeżeli po doręczeniu decyzji w sprawie o przyznanie płatności dobrostanowej rolnik, do którego ta decyzja została skierowana, zmarł, spadkobiercy rolnika przysługują prawa, które przysługiwałyby spadkodawcy jako stronie postępowania.
+
 2. Jeżeli po doręczeniu decyzji w sprawie o przyznanie płatności dobrostanowej rolnik, do którego ta decyzja została skierowana, został rozwiązany albo przekształcony albo wystąpiło inne zdarzenie prawne, w wyniku którego zaistniało na stępstwo prawne, z wyłączeniem przypadku, o którym mowa w ust. 1, prawa, które przysługiwałyby temu rolnikowi jako stronie postępowania, przysługują jego następcy prawnemu.
+
 3. Jeżeli w przypadku, o którym mowa w ust. 1, prawa, które przysługiwałyby spadkodawcy jako stronie postępowania, przysługują kilku spadkobiercom, prawa te wykonuje ten spadkobierca, na którego pozostali spadkobiercy wyrazili pisemną zgodę.
+
 4. W przypadku gdy w decyzji, o której mowa w ust. 1, została przyznana płatność dobrostanowa, ta płatność dobrostanowa jest wypłacana spadkobiercy.
+
 5. Jeżeli płatność dobrostanowa nie została przekazana na rachunek bankowy rolnika lub rachunek rolnika prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej, jego spadkobierca, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 1, składa wniosek o wypłatę płatności dobrostanowej do kierownika biura powiatowego Agencji, do którego został złożony wniosek o przyznanie tej płatności dobrostanowej przez rolnika, wraz z:
-1) odpisem prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku – w terminie 14 dni od dnia uprawomoc nienia się tego postanowienia albo
-2) zarejestrowanym aktem poświadczenia dziedziczenia sporządzonym przez notariusza – w terminie 14 dni od dnia dokonania wpisu aktu poświadczenia dziedziczenia do rejestru aktów poświadczenia dziedziczenia, albo
-3) oświadczeniem tego spadkobiercy o złożeniu wniosku o stwierdzenie nabycia spadku, zawierającym wskazanie imie nia, nazwiska i numeru identyfikacyjnego rolnika, którego jest spadkobiercą, w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku – jednak nie później niż przed upływem 6 miesięcy od dnia doręczenia rolnikowi decyzji w sprawie o przyznanie płatności dobrostanowej.
+
+- **1)** odpisem prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku – w terminie 14 dni od dnia uprawomoc nienia się tego postanowienia albo
+- **2)** zarejestrowanym aktem poświadczenia dziedziczenia sporządzonym przez notariusza – w terminie 14 dni od dnia dokonania wpisu aktu poświadczenia dziedziczenia do rejestru aktów poświadczenia dziedziczenia, albo
+- **3)** oświadczeniem tego spadkobiercy o złożeniu wniosku o stwierdzenie nabycia spadku, zawierającym wskazanie imie nia, nazwiska i numeru identyfikacyjnego rolnika, którego jest spadkobiercą, w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku – jednak nie później niż przed upływem 6 miesięcy od dnia doręczenia rolnikowi decyzji w sprawie o przyznanie płatności dobrostanowej.
+
 6. W przypadku, o którym mowa w ust. 5 pkt 3, spadkobierca rolnika składa prawomocne postanowienie sądu o stwier dzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia.
+
 7. Jeżeli płatność dobrostanowa nie została przekazana na rachunek bankowy rolnika, o którym mowa w ust. 2, lub ra chunek tego rolnika prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej, następca prawny rolnika, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 2, składa wniosek o wypłatę płatności dobrostanowej do kierownika biura powiatowego Agencji, do którego został złożony wniosek o przyznanie płatności dobrostanowej przez rolnika, w terminie 3 miesięcy od dnia doręczenia temu rolnikowi tej decyzji.
+
 8. Do wniosku, o którym mowa w ust. 7, następca prawny rolnika dołącza dokument potwierdzający zaistnienie następ stwa prawnego albo kopię tego dokumentu potwierdzoną za zgodność z oryginałem przez notariusza lub przez występują cego w sprawie pełnomocnika będącego radcą prawnym albo adwokatem albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji.
+
 9. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedzicze nia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca rolnika, spadkobierca rolnika występujący z wnioskiem, o którym mowa w ust. 5:
-1) dołącza do tego wniosku albo
-2) składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 6 – oświadczenia pozostałych spadkobierców rolnika o wyrażeniu zgody na wypłatę temu spadkobiercy rolnika płatności dobrostanowej.
+
+- **1)** dołącza do tego wniosku albo
+- **2)** składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 6 – oświadczenia pozostałych spadkobierców rolnika o wyrażeniu zgody na wypłatę temu spadkobiercy rolnika płatności dobrostanowej.
+
 10. Zgoda, o której mowa w ust. 9, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 5, został złożony przez spadkobiercę rolnika będącego przedstawicielem ustawowym tego małolet niego.
+
 11. W przypadku złożenia wniosku o wypłatę płatności dobrostanowej kierownik biura powiatowego Agencji wydaje decyzję w sprawie wypłaty płatności dobrostanowej.
+
 12. W przypadku gdy wniosek o wypłatę płatności dobrostanowej nie został złożony albo jeżeli została wydana decyzja o odmowie wypłaty płatności dobrostanowej, decyzje, o których mowa w ust. 1 i 2, wygasają z mocy prawa.
+
 13. Do zapisobiercy windykacyjnego, który w wyniku śmierci rolnika nabył, jako przedmiot zapisu windykacyjnego, zwierzęta, do których została przyznana temu rolnikowi płatność dobrostanowa, lub prawo majątkowe, z którym łączy się posiadanie tych zwierząt, przepisy ust. 1, 3–6 i 9–12 stosuje się odpowiednio.
-§ 14. 1. Jeżeli zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika wymogów w ramach poszczególnych wariantów, płatność dobrostanowa w części dotyczącej danego wariantu przysługuje w wysokości zmniejszonej o kwotę stanowiącą iloczyn:
-1) iloczynu:
-a) współczynnika dotkliwości danego uchybienia i
-b) współczynnika trwałości danego uchybienia – określonych w załączniku nr 5 do rozporządzenia oraz
-2) kwoty wysokości płatności dobrostanowej, jaka przysługiwałaby w ramach danego wariantu, gdyby rolnik przestrze gał tych wymogów.
+
+**§ 14.**
+
+1. Jeżeli zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika wymogów w ramach poszczególnych wariantów, płatność dobrostanowa w części dotyczącej danego wariantu przysługuje w wysokości zmniejszonej o kwotę stanowiącą iloczyn:
+
+- **1)** iloczynu:
+    - **a)** współczynnika dotkliwości danego uchybienia i
+    - **b)** współczynnika trwałości danego uchybienia – określonych w załączniku nr 5 do rozporządzenia oraz
+
+- **2)** kwoty wysokości płatności dobrostanowej, jaka przysługiwałaby w ramach danego wariantu, gdyby rolnik przestrze gał tych wymogów.
+
 2. Jeżeli zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika odpowiednich obowiązkowych wymogów ustanowionych zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 lub innych odpowiednich obowiązkowych wymogów, o których mowa w art. 33 ust. 2 rozporządzenia nr 1305/2013, wskazanych w załączniku nr 2 do rozporządzenia, płatność dobrostanowa w części dotyczącej wariantu, w ramach którego powinien być przestrzegany dany wymóg, przysłu guje w wysokości zmniejszonej o kwotę stanowiącą iloczyn:
-1) iloczynu:
-a) współczynnika dotkliwości danego uchybienia i
-b) współczynnika trwałości danego uchybienia – określonych w załączniku nr 2 do rozporządzenia oraz
-2) kwoty wysokości płatności dobrostanowej, jaka przysługiwałaby w ramach danego wariantu, gdyby rolnik przestrze gał tych wymogów.
+
+- **1)** iloczynu:
+    - **a)** współczynnika dotkliwości danego uchybienia i
+    - **b)** współczynnika trwałości danego uchybienia – określonych w załączniku nr 2 do rozporządzenia oraz
+
+- **2)** kwoty wysokości płatności dobrostanowej, jaka przysługiwałaby w ramach danego wariantu, gdyby rolnik przestrze gał tych wymogów.
+
 3. Jeżeli zostanie stwierdzone uchybienie polegające na niewypasaniu krowy mlecznej w okresie co najmniej 120 dni, w którym rolnik przestrzega wymogów w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. a, i niewypasanie w tym okresie nie jest usprawiedliwione przyczynami niezależnymi od rolnika wskazanymi w rejestrze wypasu krów mlecznych, płatność dobrostanowa w ramach tego wariantu w odniesieniu do tej krowy przysługuje w wysokości zmniejszonej o 1% za każdy dzień takiego nieusprawiedliwionego niewypasania.
+
 4. Jeżeli zostanie stwierdzone, że plan poprawy dobrostanu zwierząt jest niekompletny w zakresie informacji innych niż te, o których mowa w § 8 ust. 4 i 5, rolnik uzupełnia lub poprawia ten plan i składa oświadczenie o uzupełnieniu lub popra wieniu tego planu do kierownika biura powiatowego Agencji, w terminie do dnia 14 marca roku następującego po roku złożenia wniosku o przyznanie płatności dobrostanowej, na formularzu udostępnionym przez Agencję.
+
 5. W przypadku niedokonania w terminie czynności, o której mowa w ust. 4, płatność dobrostanowa w ramach wariantu, w odniesieniu do którego plan poprawy dobrostanu zwierząt jest niekompletny, przysługuje w wysokości zmniejszonej o 1%.
+
 6. Jeżeli zostanie stwierdzone, że plan poprawy dobrostanu zwierząt w zakresie informacji, o których mowa w ust. 2:
-1) pkt 1 lit. b załącznika nr 1 do rozporządzenia, dotyczącej maksymalnej liczby loch,
-2) pkt 2 lit. c załącznika nr 1 do rozporządzenia, dotyczącej maksymalnej liczby warchlaków i tuczników,
-3) pkt 4 lit. b załącznika nr 1 do rozporządzenia,
-4) pkt 5 lit. b załącznika nr 1 do rozporządzenia – zawiera błędy skutkujące niezapewnieniem zwierzętom odpowiedniej powierzchni bytowej, płatność dobrostanowa w ra mach wariantu, w odniesieniu do którego ten plan zawiera te błędy, nie przysługuje.
+
+- **1)** pkt 1 lit. b załącznika nr 1 do rozporządzenia, dotyczącej maksymalnej liczby loch,
+- **2)** pkt 2 lit. c załącznika nr 1 do rozporządzenia, dotyczącej maksymalnej liczby warchlaków i tuczników,
+- **3)** pkt 4 lit. b załącznika nr 1 do rozporządzenia,
+- **4)** pkt 5 lit. b załącznika nr 1 do rozporządzenia – zawiera błędy skutkujące niezapewnieniem zwierzętom odpowiedniej powierzchni bytowej, płatność dobrostanowa w ra mach wariantu, w odniesieniu do którego ten plan zawiera te błędy, nie przysługuje.
+
 7. Jeżeli mimo wezwania, o którym mowa w § 8 ust. 7, rolnik nie dokonał czynności, o której mowa w § 8 ust. 6 pkt 2, płatność dobrostanowa w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 2 lit. c, przysługuje w wysokości zmniejszonej o 10%.
+
 8. Jeżeli w odniesieniu do uchybienia, o którym mowa w ust. 1–4 lub 7, wystąpi powtarzalność, o której mowa w art. 35 ust. 3 akapit piąty rozporządzenia delegowanego Komisji (UE) nr 640/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli oraz warunków odmowy lub wycofania płatności oraz do kar administracyjnych mających zastosowanie do płat ności bezpośrednich, wsparcia rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności (Dz. Urz. UE L 181 z 20.06.2014, str. 48, z późn. zm. ), płatność dobrostanowa w części dotyczącej danego wariantu, której dotyczy to uchy bienie, jest zmniejszana dodatkowo o kwotę stanowiącą iloczyn 7% kwoty, którą rolnik otrzymałby, gdyby to uchybienie nie wystąpiło, oraz liczby lat, w których wcześniej stwierdzono podobne niezgodności.
+
 9. W przypadku jednoczesnej realizacji wariantów, o których mowa w § 4 ust. 2 pkt 1 lit. a i c lub b i d, przepisy ust. 1, 2, 5 i 6, mające zastosowanie do płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 1:
-1) lit. a – stosuje się do płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 1 lit. c;
-2) lit. b – stosuje się do płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 1 lit. d.
-§ 15. Rozporządzenie wchodzi w życie z dniem 15 marca 2020 r.
-Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski Załączniki do rozporządzenia MinistraRolnictwai RozwojuWsi z dnia 3 marca 2020 r. (poz. …) Załącznik nr 1 ZAWARTOŚĆ PLANU POPRAWY DOBROSTANU ZWIERZĄT ZAWARTOŚĆ PLANU POPRAWYDOBROSTANU ZWIERZĄT
-1. Część ogólna – dotyczy wszystkich pakietów lub wariantów i zawiera w szczególności:
-1) dane rolnika realizującego działanie „Dobrostan zwierząt”;
-2) dane doradcy rolniczego, przy udziale którego został sporządzony plan poprawy dobrostanu zwierząt;
-3) wykaz wariantów realizowanych w ramach działania „Dobrostan zwierząt”;
-4) oświadczenie rolnika o przekazaniu pełnych i prawdziwych danych niezbędnych do sporządzenia planu poprawy dobrostanu zwierząt;
-5) datę sporządzenia planu poprawy dobrostanu zwierząt lub datę sporządzenia zmiany do planu poprawy zwierząt;
-6) podpis rolnika i podpis doradcy rolniczego, przy udziale którego został sporządzony plan poprawy dobrostanu zwierząt.
+
+- **1)** lit. a – stosuje się do płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 1 lit. c;
+- **2)** lit. b – stosuje się do płatności dobrostanowej w ramach wariantu, o którym mowa w § 4 ust. 2 pkt 1 lit. d.
+
+**§ 15.** Rozporządzenie wchodzi w życie z dniem 15 marca 2020 r. Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski Załączniki do rozporządzenia MinistraRolnictwai RozwojuWsi z dnia 3 marca 2020 r. (poz. …) Załącznik nr 1 ZAWARTOŚĆ PLANU POPRAWY DOBROSTANU ZWIERZĄT ZAWARTOŚĆ PLANU POPRAWYDOBROSTANU ZWIERZĄT 1. Część ogólna – dotyczy wszystkich pakietów lub wariantów i zawiera w szczególności:
+
+- **1)** dane rolnika realizującego działanie „Dobrostan zwierząt”;
+- **2)** dane doradcy rolniczego, przy udziale którego został sporządzony plan poprawy dobrostanu zwierząt;
+- **3)** wykaz wariantów realizowanych w ramach działania „Dobrostan zwierząt”;
+- **4)** oświadczenie rolnika o przekazaniu pełnych i prawdziwych danych niezbędnych do sporządzenia planu poprawy dobrostanu zwierząt;
+- **5)** datę sporządzenia planu poprawy dobrostanu zwierząt lub datę sporządzenia zmiany do planu poprawy zwierząt;
+- **6)** podpis rolnika i podpis doradcy rolniczego, przy udziale którego został sporządzony plan poprawy dobrostanu zwierząt.
+
 2. Część szczegółowa – dotyczy poszczególnych wariantów i zawiera informacje niezbędne do ich prawidłowej realizacji, w tym w szczególności informacje dotyczące:
-1) w przypadku wariantu 1.1. Dobrostan loch – zwiększona powierzchnia w budynkach i wariantu 1.3. Dobrostan loch – dostęp do wybiegu:
-a) systemu produkcji w danym gospodarstwie rolnym wraz z informacją o liczbie loch i loszek po pokryciu na dzień sporządzenia planu poprawy dobrostanu zwierząt,
-b) maksymalnej liczby loch i maksymalnej liczby świń (bez prosiąt nieodsadzonych), które ze względu na wymogi wariantu mogą przebywać jednocześnie w danym gospodarstwie rolnym,
-c) oświadczenia, że w gospodarstwie rolnym na dzień złożenia wniosku o przyznanie płatności dobrostanowej lochy nie są utrzymywane w systemie jarzmowym,
-d) spełniania, w związku z przestrzeganiem wymogów wariantu, odpowiednich obowiązkowych wymogów ustanowionych zgodnie z tytułem VI rozdziału I rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.), zwanego dalej „rozporządzeniem nr 1306/2013”, oraz innych odpowiednich obowiązkowych wymogów dotyczących wielkości powierzchni w budynkach inwentarskich wynikających z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie wymagań i sposobu postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. poz. 344, z późn. zm.) – dla innych niż lochy i loszki po pokryciu grup technologicznych świń,
-e) możliwości zapewnienia wszystkim lochom i loszkom po pokryciu swobodnego dostępu do wybiegu – w przypadku realizacji wariantu 1.3. Dobrostan loch – dostęp do wybiegu;
-2) w przypadku wariantu 1.2. Dobrostan tuczników – zwiększona powierzchnia w budynkach i wariantu 1.4. Dobrostan tuczników – dostęp do wybiegu:
-a) systemu produkcji w danym gospodarstwie rolnym,
-b) szacowanej liczby tuczników, które ze względu na wymogi wariantu mogą być wyprodukowane w gospodarstwie rolnym w okresie realizacji wariantu,
-c) maksymalnej liczby warchlaków i tuczników i maksymalnej liczby świń (bez prosiąt nieodsadzonych), które ze względu na wymogi wariantu mogą przebywać jednocześnie w gospodarstwie rolnym,
-d) spełniania, w związku z przestrzeganiem wymogów wariantu, odpowiednich obowiązkowych wymogów ustanowionych zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz innych odpowiednich obowiązkowych wymogów dotyczących wielkości powierzchni w budynkach inwentarskich wynikających z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie wymagań i sposobu postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej – dla innych niż warchlaki i tuczniki grup technologicznych świń,
-e) możliwości zapewnienia wszystkim warchlakom i tucznikom swobodnego dostępu do wybiegu – w przypadku realizacji wariantu 1.4. Dobrostan tuczników – dostęp do wybiegu;
-3) w przypadku wariantu 2.2. Dobrostan krów mlecznych utrzymywanych grupowo – zwiększona powierzchnia w budynkach lub wariantu 2.3. Dobrostan krów mamek – poinformowania przez doradcę rolniczego o konieczności dokonania zgłoszenia w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt, zmiany typu użytkowego kombinowanego krów na typ użytkowy mleczny lub typ użytkowy mięsny lub zgłoszenia mlecznego lub mięsnego kierunku ich użytkowania, a w przypadku wariantu 2.3. Dobrostan krów mamek – dodatkowo o konieczności dokonania zgłoszenia w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt – również zmiany typu użytkowego kombinowanego cieląt, jałówek i opasów o masie ciała do 300 kg na typ użytkowy mleczny lub typ użytkowy mięsny lub zgłoszenia mlecznego lub mięsnego kierunku ich użytkowania;
-4) w przypadku wariantu 2.2. Dobrostan krów mlecznych utrzymywanych grupowo – zwiększona powierzchnia w budynkach:
-a) systemu produkcji w danym gospodarstwie rolnym wraz z informacją o liczbie krów i jałówek mlecznych, w tym w typie użytkowym kombinowanym użytkowanych w kierunku mlecznym na dzień sporządzenia planu poprawy dobrostanu zwierząt,
-b) maksymalnej liczbie krów mlecznych, które ze względu na wymogi wariantu mogą przebywać jednocześnie w gospodarstwie rolnym,
-c) posiadanych budynków inwentarskich wraz z informacjami o wyznaczonych w tych budynkach sekcjach dla krów mlecznych,
-d) spełniania, w związku z przestrzeganiem wymogów wariantu, odpowiednich obowiązkowych wymogów ustanowionych zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz innych odpowiednich obowiązkowych wymogów dotyczących wielkości powierzchni w budynkach inwentarskich wynikających z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. z 2019 r. poz. 1966) – dla innych niż krowy mleczne grup technologicznych bydła w typie użytkowym mlecznym lub typie użytkowym kombinowanym użytkowanych w kierunku mlecznym i krów mamek;
-5) w przypadku wariantu 2.3. Dobrostan krów mamek:
-a) systemu produkcji w danym gospodarstwie rolnym oraz struktury stada bydła w typie użytkowym mięsnym lub typie użytkowym kombinowanym użytkowanego w kierunku mięsnym z podziałem na kategorie technologiczne – na dzień sporządzania planu poprawy dobrostanu zwierząt,
-b) wielkości (w m ) posiadanych zewnętrznych powierzchni bytowych (pastwisk, okólników lub wybiegów) przeznaczonych, w okresie od dnia 16 października roku złożenia wniosku o przyznanie płatności dobrostanowej do dnia 14 marca kolejnego roku, dla krów mamek, cieląt, jałówek i opasów o masie ciała do 300 kg w typie użytkowym mięsnym lub w typie użytkowym kombinowanym użytkowanych w kierunku mięsnym.
+
+- **1)** w przypadku wariantu 1.1. Dobrostan loch – zwiększona powierzchnia w budynkach i wariantu 1.3. Dobrostan loch – dostęp do wybiegu:
+    - **a)** systemu produkcji w danym gospodarstwie rolnym wraz z informacją o liczbie loch i loszek po pokryciu na dzień sporządzenia planu poprawy dobrostanu zwierząt,
+    - **b)** maksymalnej liczby loch i maksymalnej liczby świń (bez prosiąt nieodsadzonych), które ze względu na wymogi wariantu mogą przebywać jednocześnie w danym gospodarstwie rolnym,
+    - **c)** oświadczenia, że w gospodarstwie rolnym na dzień złożenia wniosku o przyznanie płatności dobrostanowej lochy nie są utrzymywane w systemie jarzmowym,
+    - **d)** spełniania, w związku z przestrzeganiem wymogów wariantu, odpowiednich obowiązkowych wymogów ustanowionych zgodnie z tytułem VI rozdziału I rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 (Dz. Urz. UE L 347 z 20.12.2013, str. 549, z późn. zm.), zwanego dalej „rozporządzeniem nr 1306/2013”, oraz innych odpowiednich obowiązkowych wymogów dotyczących wielkości powierzchni w budynkach inwentarskich wynikających z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie wymagań i sposobu postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. poz. 344, z późn. zm.) – dla innych niż lochy i loszki po pokryciu grup technologicznych świń,
+    - **e)** możliwości zapewnienia wszystkim lochom i loszkom po pokryciu swobodnego dostępu do wybiegu – w przypadku realizacji wariantu 1.3. Dobrostan loch – dostęp do wybiegu;
+
+- **2)** w przypadku wariantu 1.2. Dobrostan tuczników – zwiększona powierzchnia w budynkach i wariantu 1.4. Dobrostan tuczników – dostęp do wybiegu:
+    - **a)** systemu produkcji w danym gospodarstwie rolnym,
+    - **b)** szacowanej liczby tuczników, które ze względu na wymogi wariantu mogą być wyprodukowane w gospodarstwie rolnym w okresie realizacji wariantu,
+    - **c)** maksymalnej liczby warchlaków i tuczników i maksymalnej liczby świń (bez prosiąt nieodsadzonych), które ze względu na wymogi wariantu mogą przebywać jednocześnie w gospodarstwie rolnym,
+    - **d)** spełniania, w związku z przestrzeganiem wymogów wariantu, odpowiednich obowiązkowych wymogów ustanowionych zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz innych odpowiednich obowiązkowych wymogów dotyczących wielkości powierzchni w budynkach inwentarskich wynikających z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie wymagań i sposobu postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej – dla innych niż warchlaki i tuczniki grup technologicznych świń,
+    - **e)** możliwości zapewnienia wszystkim warchlakom i tucznikom swobodnego dostępu do wybiegu – w przypadku realizacji wariantu 1.4. Dobrostan tuczników – dostęp do wybiegu;
+
+- **3)** w przypadku wariantu 2.2. Dobrostan krów mlecznych utrzymywanych grupowo – zwiększona powierzchnia w budynkach lub wariantu 2.3. Dobrostan krów mamek – poinformowania przez doradcę rolniczego o konieczności dokonania zgłoszenia w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt, zmiany typu użytkowego kombinowanego krów na typ użytkowy mleczny lub typ użytkowy mięsny lub zgłoszenia mlecznego lub mięsnego kierunku ich użytkowania, a w przypadku wariantu 2.3. Dobrostan krów mamek – dodatkowo o konieczności dokonania zgłoszenia w rejestrze zwierząt gospodarskich oznakowanych i siedzib stad tych zwierząt, o którym mowa w przepisach o systemie identyfikacji i rejestracji zwierząt – również zmiany typu użytkowego kombinowanego cieląt, jałówek i opasów o masie ciała do 300 kg na typ użytkowy mleczny lub typ użytkowy mięsny lub zgłoszenia mlecznego lub mięsnego kierunku ich użytkowania;
+- **4)** w przypadku wariantu 2.2. Dobrostan krów mlecznych utrzymywanych grupowo – zwiększona powierzchnia w budynkach:
+    - **a)** systemu produkcji w danym gospodarstwie rolnym wraz z informacją o liczbie krów i jałówek mlecznych, w tym w typie użytkowym kombinowanym użytkowanych w kierunku mlecznym na dzień sporządzenia planu poprawy dobrostanu zwierząt,
+    - **b)** maksymalnej liczbie krów mlecznych, które ze względu na wymogi wariantu mogą przebywać jednocześnie w gospodarstwie rolnym,
+    - **c)** posiadanych budynków inwentarskich wraz z informacjami o wyznaczonych w tych budynkach sekcjach dla krów mlecznych,
+    - **d)** spełniania, w związku z przestrzeganiem wymogów wariantu, odpowiednich obowiązkowych wymogów ustanowionych zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz innych odpowiednich obowiązkowych wymogów dotyczących wielkości powierzchni w budynkach inwentarskich wynikających z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. z 2019 r. poz. 1966) – dla innych niż krowy mleczne grup technologicznych bydła w typie użytkowym mlecznym lub typie użytkowym kombinowanym użytkowanych w kierunku mlecznym i krów mamek;
+
+- **5)** w przypadku wariantu 2.3. Dobrostan krów mamek:
+    - **a)** systemu produkcji w danym gospodarstwie rolnym oraz struktury stada bydła w typie użytkowym mięsnym lub typie użytkowym kombinowanym użytkowanego w kierunku mięsnym z podziałem na kategorie technologiczne – na dzień sporządzania planu poprawy dobrostanu zwierząt,
+    - **b)** wielkości (w m ) posiadanych zewnętrznych powierzchni bytowych (pastwisk, okólników lub wybiegów) przeznaczonych, w okresie od dnia 16 października roku złożenia wniosku o przyznanie płatności dobrostanowej do dnia 14 marca kolejnego roku, dla krów mamek, cieląt, jałówek i opasów o masie ciała do 300 kg w typie użytkowym mięsnym lub w typie użytkowym kombinowanym użytkowanych w kierunku mięsnym.
+
 3. Załącznikiem do planu poprawy dobrostanu zwierząt jest szkic gospodarstwa rolnego ze wskazanymi działkami ewidencyjnymi, na których – w zależności od wariantu:
-1) jest zlokalizowany wybieg – w przypadku realizacji wariantów 1.3. Dobrostan loch – dostęp do wybiegu lub 1.4. Dobrostan tuczników – dostęp do wybiegu lub
-2) są położone zewnętrzne powierzchnie bytowe, na których przebywa bydło w typie użytkowym mięsnym lub w typie użytkowym kombinowanym użytkowane w kierunku mięsnym (krowy mamki, cielęta, jałówki i opasy o masie ciała do 300 kg) – w przypadku realizacji wariantu 2.3. Dobrostan krów mamek.
-% M W W % W M W W W M W W W M W W W % % W M W W W M % W W W M % W W W W M M W W W W W W M % % W M W M W % % M W M W W W M W W M Załącznik nr 3 WYMOGI DLA POSZCZEGÓLNYCH PAKIETÓW I ICH WARIANTÓW WYMOGIDLAPOSZCZEGÓLNYCH PAKIETÓWIICHWARIANTÓW
+
+- **1)** jest zlokalizowany wybieg – w przypadku realizacji wariantów 1.3. Dobrostan loch – dostęp do wybiegu lub 1.4. Dobrostan tuczników – dostęp do wybiegu lub
+- **2)** są położone zewnętrzne powierzchnie bytowe, na których przebywa bydło w typie użytkowym mięsnym lub w typie użytkowym kombinowanym użytkowane w kierunku mięsnym (krowy mamki, cielęta, jałówki i opasy o masie ciała do 300 kg) – w przypadku realizacji wariantu 2.3. Dobrostan krów mamek. % M W W % W M W W W M W W W M W W W % % W M W W W M % W W W M % W W W W M M W W W W W W M % % W M W M W % % M W M W W W M W W M Załącznik nr 3 WYMOGI DLA POSZCZEGÓLNYCH PAKIETÓW I ICH WARIANTÓW WYMOGIDLAPOSZCZEGÓLNYCH PAKIETÓWIICHWARIANTÓW
+
 1. Wymóg wspólny dla:
-1) wariantu 1.1. Dobrostan loch – zwiększona powierzchnia w budynkach i wariantu 1.3.
-Dobrostan loch – dostęp do wybiegu:
-a) wszystkie lochy i loszki po pokryciu są utrzymywane w gospodarstwie rolnym zgodnie z wymogami wariantu,
-b) liczba wszystkich loch utrzymywanych w gospodarstwie rolnym nie jest większa niż maksymalna liczba loch określona w planie poprawy dobrostanu zwierząt,
-c) świnia inna niż locha nie została oznakowana kolczykiem z indywidualnym numerem identyfikacyjnym lochy i nie została zarejestrowana jako locha zgodnie z przepisami o systemie identyfikacji i rejestracji zwierząt;
-2) wariantu 1.2. Dobrostan tuczników – zwiększona powierzchnia w budynkach i wariantu
-1.4. Dobrostan tuczników – dostęp do wybiegu:
-a) wszystkie warchlaki i tuczniki utrzymywane w gospodarstwie rolnym są utrzymywane zgodnie z wymogami wariantu, w tym również warchlaki i tuczniki inne niż te, o których mowa w § 5 ust. 3 pkt 2 lit. a rozporządzenia,
-b) liczba wszystkich tuczników utrzymywanych w gospodarstwie rolnym nie jest większa niż maksymalna liczba tuczników określona w planie poprawy dobrostanu zwierząt;
-3) wariantu 1.3. Dobrostan loch – dostęp do wybiegu i wariantu 1.4. Dobrostan tuczników – dostęp do wybiegu: zapewnienie w gospodarstwie rolnym odpowiednio wszystkim lochom i loszkom po pokryciu lub wszystkim warchlakom i tucznikom możliwości swobodnego dostępu do wybiegu. Jednocześnie dopuszcza się możliwość zamykania wyjścia z pomieszczeń, w których są utrzymywane zwierzęta, w nocy lub podczas niekorzystnych zjawisk pogodowych, takich jak silne mrozy, opady, burze lub upały.
+
+- **1)** wariantu 1.1. Dobrostan loch – zwiększona powierzchnia w budynkach i wariantu 1.3. Dobrostan loch – dostęp do wybiegu:
+    - **a)** wszystkie lochy i loszki po pokryciu są utrzymywane w gospodarstwie rolnym zgodnie z wymogami wariantu,
+    - **b)** liczba wszystkich loch utrzymywanych w gospodarstwie rolnym nie jest większa niż maksymalna liczba loch określona w planie poprawy dobrostanu zwierząt,
+    - **c)** świnia inna niż locha nie została oznakowana kolczykiem z indywidualnym numerem identyfikacyjnym lochy i nie została zarejestrowana jako locha zgodnie z przepisami o systemie identyfikacji i rejestracji zwierząt;
+
+- **2)** wariantu 1.2. Dobrostan tuczników – zwiększona powierzchnia w budynkach i wariantu
+
+1. 4. Dobrostan tuczników – dostęp do wybiegu:
+
+- **a)** wszystkie warchlaki i tuczniki utrzymywane w gospodarstwie rolnym są utrzymywane zgodnie z wymogami wariantu, w tym również warchlaki i tuczniki inne niż te, o których mowa w § 5 ust. 3 pkt 2 lit. a rozporządzenia,
+- **b)** liczba wszystkich tuczników utrzymywanych w gospodarstwie rolnym nie jest większa niż maksymalna liczba tuczników określona w planie poprawy dobrostanu zwierząt;
+- **3)** wariantu 1.3. Dobrostan loch – dostęp do wybiegu i wariantu 1.4. Dobrostan tuczników – dostęp do wybiegu: zapewnienie w gospodarstwie rolnym odpowiednio wszystkim lochom i loszkom po pokryciu lub wszystkim warchlakom i tucznikom możliwości swobodnego dostępu do wybiegu. Jednocześnie dopuszcza się możliwość zamykania wyjścia z pomieszczeń, w których są utrzymywane zwierzęta, w nocy lub podczas niekorzystnych zjawisk pogodowych, takich jak silne mrozy, opady, burze lub upały.
+
 2. Wymogi dodatkowe dla wariantu 1.1. Dobrostan loch – zwiększona powierzchnia w budynkach:
-1) powierzchnia bytowa kojca w budynkach inwentarskich, w przeliczeniu na jedną sztukę, wynosi co najmniej:
-a) 4,2 m – dla loch w okresie porodu i odchowu prosiąt ssących,
-b) 2,7 m – dla loch lub loszek od 4. tygodnia po pokryciu do tygodnia przed przewidywanym terminem proszenia utrzymywanych pojedynczo – w przypadku gospodarstw rolnych utrzymujących mniej niż 10 loch lub loszek od 4. tygodnia po pokryciu do tygodnia przed przewidywanym terminem proszenia,
-c) 2,7 m – dla loch – w przypadku utrzymywania grupowego loch, przy czym w przypadku loch prośnych co najmniej 1,3 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża,
-d) 2 m – dla loszek po pokryciu – w przypadku utrzymywania grupowego loszek po pokryciu, przy czym co najmniej 0,95 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża,
-e) 3 m – dla loch – w przypadku utrzymywania grupowego do 5 sztuk loch, przy czym w przypadku loch prośnych co najmniej 1,3 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża,
-f) 2,4 m – dla loch – w przypadku utrzymywania grupowego powyżej 39 sztuk loch, przy czym w przypadku loch prośnych co najmniej 1,3 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża,
-g) 2,2 m – dla loszek po pokryciu – w przypadku utrzymywania grupowego do 5 sztuk loszek po pokryciu, przy czym co najmniej 0,95 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża,
-h) 1,8 m – dla loszek po pokryciu – w przypadku utrzymywania grupowego powyżej 39 sztuk loszek po pokryciu, przy czym co najmniej 0,95 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża;
-2) powierzchnia bytowa w budynkach inwentarskich dla grup technologicznych świń innych niż lochy i loszki po pokryciu jest zgodna z odpowiednimi obowiązkowymi wymogami ustanowionymi zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz innymi odpowiednimi obowiązkowymi wymogami wynikającymi z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie wymagań i sposobu postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej.
+
+- **1)** powierzchnia bytowa kojca w budynkach inwentarskich, w przeliczeniu na jedną sztukę, wynosi co najmniej:
+    - **a)** 4,2 m – dla loch w okresie porodu i odchowu prosiąt ssących,
+    - **b)** 2,7 m – dla loch lub loszek od 4. tygodnia po pokryciu do tygodnia przed przewidywanym terminem proszenia utrzymywanych pojedynczo – w przypadku gospodarstw rolnych utrzymujących mniej niż 10 loch lub loszek od 4. tygodnia po pokryciu do tygodnia przed przewidywanym terminem proszenia,
+    - **c)** 2,7 m – dla loch – w przypadku utrzymywania grupowego loch, przy czym w przypadku loch prośnych co najmniej 1,3 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża,
+    - **d)** 2 m – dla loszek po pokryciu – w przypadku utrzymywania grupowego loszek po pokryciu, przy czym co najmniej 0,95 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża,
+    - **e)** 3 m – dla loch – w przypadku utrzymywania grupowego do 5 sztuk loch, przy czym w przypadku loch prośnych co najmniej 1,3 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża,
+    - **f)** 2,4 m – dla loch – w przypadku utrzymywania grupowego powyżej 39 sztuk loch, przy czym w przypadku loch prośnych co najmniej 1,3 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża,
+    - **g)** 2,2 m – dla loszek po pokryciu – w przypadku utrzymywania grupowego do 5 sztuk loszek po pokryciu, przy czym co najmniej 0,95 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża,
+    - **h)** 1,8 m – dla loszek po pokryciu – w przypadku utrzymywania grupowego powyżej 39 sztuk loszek po pokryciu, przy czym co najmniej 0,95 m powierzchni kojca powinno stanowić stałe podłoże, a otwory odpływowe nie więcej niż 15% tego podłoża;
+
+- **2)** powierzchnia bytowa w budynkach inwentarskich dla grup technologicznych świń innych niż lochy i loszki po pokryciu jest zgodna z odpowiednimi obowiązkowymi wymogami ustanowionymi zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz innymi odpowiednimi obowiązkowymi wymogami wynikającymi z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie wymagań i sposobu postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej.
+
 3. Wymogi dodatkowe dla wariantu 1.2. Dobrostan tuczników – zwiększona powierzchnia w budynkach:
-1) powierzchnia bytowa kojca w budynkach inwentarskich, w przeliczeniu na jedną sztukę, w przypadku utrzymywania grupowego warchlaków i tuczników, wynosi co najmniej:
-a) 0,18 m – w przypadku świń o masie ciała do 10 kg,
-b) 0,24 m – w przypadku świń o masie ciała powyżej 10 do 20 kg,
-c) 0,36 m – w przypadku świń o masie ciała powyżej 20 do 30 kg,
-d) 0,48 m – w przypadku świń o masie ciała powyżej 30 do 50 kg,
-e) 0,66 m – w przypadku świń o masie ciała powyżej 50 do 85 kg,
-f) 0,78 m – w przypadku świń o masie ciała powyżej 85 do 110 kg,
-g) 1,2 m – w przypadku świń o masie ciała powyżej 110 kg;
-2) powierzchnia bytowa w budynkach inwentarskich dla grup technologicznych świń innych niż warchlaki i tuczniki jest zgodna z odpowiednimi obowiązkowymi wymogami ustanowionymi zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz innymi odpowiednimi obowiązkowymi wymogami wynikającymi z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie wymagań i sposobu postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej.
+
+- **1)** powierzchnia bytowa kojca w budynkach inwentarskich, w przeliczeniu na jedną sztukę, w przypadku utrzymywania grupowego warchlaków i tuczników, wynosi co najmniej:
+    - **a)** 0,18 m – w przypadku świń o masie ciała do 10 kg,
+    - **b)** 0,24 m – w przypadku świń o masie ciała powyżej 10 do 20 kg,
+    - **c)** 0,36 m – w przypadku świń o masie ciała powyżej 20 do 30 kg,
+    - **d)** 0,48 m – w przypadku świń o masie ciała powyżej 30 do 50 kg,
+    - **e)** 0,66 m – w przypadku świń o masie ciała powyżej 50 do 85 kg,
+    - **f)** 0,78 m – w przypadku świń o masie ciała powyżej 85 do 110 kg,
+    - **g)** 1,2 m – w przypadku świń o masie ciała powyżej 110 kg;
+
+- **2)** powierzchnia bytowa w budynkach inwentarskich dla grup technologicznych świń innych niż warchlaki i tuczniki jest zgodna z odpowiednimi obowiązkowymi wymogami ustanowionymi zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz innymi odpowiednimi obowiązkowymi wymogami wynikającymi z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie wymagań i sposobu postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej.
+
 4. Wymogi dla wariantu 2.1. Dobrostan krów mlecznych – wypas:
-1) wypasanie wszystkich utrzymywanych w gospodarstwie rolnym krów mlecznych na trwałych użytkach zielonych lub gruntach ornych, na których występują trawy lub inne zielne rośliny pastewne, zadeklarowanych we wniosku o przyznanie płatności dobrostanowej lub we wniosku o przyznanie jednolitej płatności obszarowej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, lub we wniosku o przyznanie pomocy finansowej w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2020 r. poz. 217, z późn. zm.), przy czym dla każdej krowy mlecznej okres wypasu wynosi co najmniej 6 godzin dziennie;
-2) wypasanie krów mlecznych, o których mowa w pkt 1, bez uwięzi;
-3) prowadzenie na formularzu udostępnionym przez Agencję rejestru wypasu krów mlecznych, w którym w odniesieniu do każdej krowy mlecznej wskazuje się dni, w których ta krowa nie była wypasana, wraz z podaniem przyczyny niewypasania tej krowy.
+
+- **1)** wypasanie wszystkich utrzymywanych w gospodarstwie rolnym krów mlecznych na trwałych użytkach zielonych lub gruntach ornych, na których występują trawy lub inne zielne rośliny pastewne, zadeklarowanych we wniosku o przyznanie płatności dobrostanowej lub we wniosku o przyznanie jednolitej płatności obszarowej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, lub we wniosku o przyznanie pomocy finansowej w ramach działań, o których mowa w art. 3 ust. 1 pkt 10–12 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2020 r. poz. 217, z późn. zm.), przy czym dla każdej krowy mlecznej okres wypasu wynosi co najmniej 6 godzin dziennie;
+- **2)** wypasanie krów mlecznych, o których mowa w pkt 1, bez uwięzi;
+- **3)** prowadzenie na formularzu udostępnionym przez Agencję rejestru wypasu krów mlecznych, w którym w odniesieniu do każdej krowy mlecznej wskazuje się dni, w których ta krowa nie była wypasana, wraz z podaniem przyczyny niewypasania tej krowy.
+
 5. Wymogi dla wariantu 2.2. Dobrostan krów mlecznych utrzymywanych grupowo – zwiększona powierzchnia w budynkach:
-1) liczba wszystkich krów mlecznych utrzymywanych w gospodarstwie rolnym nie jest większa niż maksymalna liczba krów mlecznych określona w planie poprawy dobrostanu zwierząt;
-2) powierzchnia bytowa w budynkach inwentarskich dla wszystkich krów mlecznych w gospodarstwie rolnym, w przeliczeniu na jedną sztukę, wynosi:
-a) w systemie wolnostanowiskowym z wydzielonymi legowiskami dla: – wydzielonego legowiska: długość – co najmniej 2,1 m, szerokość – co najmniej 1,1 m, – powierzchni odpasowo-ruchowej – co najmniej 4 m ,
-b) w systemie wolnostanowiskowym bez wydzielonych legowisk na ściółce – co najmniej 5,4 m ;
-3) powierzchnia bytowa w budynkach inwentarskich:
-a) dla innych niż krowy mleczne grup technologicznych bydła w typie użytkowym mlecznym lub typie użytkowym kombinowanym o mlecznym kierunku ich użytkowania,
-b) dla krów mamek – jest zgodna z odpowiednimi obowiązkowymi wymogami ustanowionymi zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz innymi odpowiednimi obowiązkowymi wymogami wynikającymi z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej.
+
+- **1)** liczba wszystkich krów mlecznych utrzymywanych w gospodarstwie rolnym nie jest większa niż maksymalna liczba krów mlecznych określona w planie poprawy dobrostanu zwierząt;
+- **2)** powierzchnia bytowa w budynkach inwentarskich dla wszystkich krów mlecznych w gospodarstwie rolnym, w przeliczeniu na jedną sztukę, wynosi:
+    - **a)** w systemie wolnostanowiskowym z wydzielonymi legowiskami dla: – wydzielonego legowiska: długość – co najmniej 2,1 m, szerokość – co najmniej 1,1 m, – powierzchni odpasowo-ruchowej – co najmniej 4 m ,
+    - **b)** w systemie wolnostanowiskowym bez wydzielonych legowisk na ściółce – co najmniej 5,4 m ;
+
+- **3)** powierzchnia bytowa w budynkach inwentarskich:
+    - **a)** dla innych niż krowy mleczne grup technologicznych bydła w typie użytkowym mlecznym lub typie użytkowym kombinowanym o mlecznym kierunku ich użytkowania,
+    - **b)** dla krów mamek – jest zgodna z odpowiednimi obowiązkowymi wymogami ustanowionymi zgodnie z tytułem VI rozdziału I rozporządzenia nr 1306/2013 oraz innymi odpowiednimi obowiązkowymi wymogami wynikającymi z rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 28 czerwca 2010 r. w sprawie minimalnych warunków utrzymywania gatunków zwierząt gospodarskich innych niż te, dla których normy ochrony zostały określone w przepisach Unii Europejskiej.
+
 6. Wymogi dla wariantu 2.3. Dobrostan krów mamek:
-1) wypasanie bez uwięzi wszystkich utrzymywanych w gospodarstwie rolnym krów mamek, cieląt, jałówek i opasów o masie ciała do 300 kg w typie użytkowym mięsnym lub typie użytkowym kombinowanym o mięsnym kierunku ich użytkowania na trwałych użytkach zielonych lub gruntach ornych, na których występują trawy lub inne zielne rośliny pastewne;
-2) zapewnienie dostępu do zewnętrznej powierzchni bytowej (pastwiska, wybiegi lub okólniki) dla krów mamek, cieląt, jałówek i opasów o masie ciała do 300 kg w typie użytkowym mięsnym lub w typie użytkowym kombinowanym o mięsnym kierunku ich użytkowania wynoszącej, w przeliczeniu na jedną sztukę, dla:
-a) cieląt – co najmniej 6 m ,
-b) jałówek – co najmniej 12 m ,
-c) opasów o masie ciała do 300 kg – co najmniej 12 m ,
-d) krów mamek – co najmniej 18 m ;
-3) utrzymywanie zwierząt, o których mowa w pkt 2, bez uwięzi.
+
+- **1)** wypasanie bez uwięzi wszystkich utrzymywanych w gospodarstwie rolnym krów mamek, cieląt, jałówek i opasów o masie ciała do 300 kg w typie użytkowym mięsnym lub typie użytkowym kombinowanym o mięsnym kierunku ich użytkowania na trwałych użytkach zielonych lub gruntach ornych, na których występują trawy lub inne zielne rośliny pastewne;
+- **2)** zapewnienie dostępu do zewnętrznej powierzchni bytowej (pastwiska, wybiegi lub okólniki) dla krów mamek, cieląt, jałówek i opasów o masie ciała do 300 kg w typie użytkowym mięsnym lub w typie użytkowym kombinowanym o mięsnym kierunku ich użytkowania wynoszącej, w przeliczeniu na jedną sztukę, dla:
+    - **a)** cieląt – co najmniej 6 m ,
+    - **b)** jałówek – co najmniej 12 m ,
+    - **c)** opasów o masie ciała do 300 kg – co najmniej 12 m ,
+    - **d)** krów mamek – co najmniej 18 m ;
+
+- **3)** utrzymywanie zwierząt, o których mowa w pkt 2, bez uwięzi.
 
 ## Załącznik nr 4 — WYSOKOŚĆ STAWEK PŁATNOŚCI DOBROSTANOWEJ WYSOKOŚĆ STAWEK PŁATNOŚCIDOBROSTANOWEJ Wysokość stawki płatności Lp. Pakiety i ich warianty dobrostanowej za sztukę zwierzęcia Pakiet 1. Dobrostan świń 1 Wariant 1.1. Dobrostan loch – zwiększona powierzchnia w budynkach 301 zł Wariant 1.2. Dobrostan tuczników – zwiększona powierzchnia 2 24 zł w budynkach 3 Wariant 1.3. Dobrostan loch – dostęp do wybiegu 612 zł 4 Wariant 1.4. Dobrostan tuczników – dostęp do wybiegu 33 zł Pakiet 2. Dobrostan krów 1 Wariant 2.1. Dobrostan krów mlecznych – wypas 185 zł Wariant 2.2. Dobrostan krów mlecznych utrzymywanych grupowo – 2 595 zł zwiększona powierzchnia w budynkach 3 Wariant 2.3. Dobrostan krów mamek 329 zł % W W W W W M W W % W W W % W % W W % % % % % % % % % % % % % % W % % % W % % % % % % W % % % % % % % % % % % % % % % % % % % % % % W % % % % % % % % % % % W M % W % % % % % % % % % % W M % % % % % % % % % % W W % W % W % % % % % % % % % % % W W W % W W % % % % % % % % % % % W W W W % % % % % % % % % % % % % % W % W % W % % % % % % % % % % % % % % % % % % % W W % % % % W % % % % % % % W W % % % % % % W W % % % % % % % W % % % W M W % % % % % % % % % % % % % % % % % % % W % % % % % % % % % % % % % % % % % % % % % % % % %
 

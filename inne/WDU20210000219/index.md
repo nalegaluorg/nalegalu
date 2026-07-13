@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa Na podstawie art. 3 ust. 2 ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2020 r.
 poz. 481) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. z 2018 r. poz. 2233) w załączniku do rozporządzenia w § 9 ust. 3 otrzymuje brzmienie: „3. Niezagospodarowane mienie ruchome może być nieodpłatnie przekazane na własność muzeom, jednostkom sektora finansów publicznych lub państwowym osobom prawnym niebędącym jednostkami sektora finansów publicznych na cele ich działalności dydaktycznej, oświatowo-wychowawczej, opiekuńczej lub charytatywnej, a także na realizację zadań z zakresu polityki państwa, albo – jeżeli nie przedstawia wartości użytkowej – zlikwidowane.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. A. Gembicka
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. z 2018 r. poz. 2233) w załączniku do rozporządzenia w § 9 ust. 3 otrzymuje brzmienie: „3. Niezagospodarowane mienie ruchome może być nieodpłatnie przekazane na własność muzeom, jednostkom sektora finansów publicznych lub państwowym osobom prawnym niebędącym jednostkami sektora finansów publicznych na cele ich działalności dydaktycznej, oświatowo-wychowawczej, opiekuńczej lub charytatywnej, a także na realizację zadań z zakresu polityki państwa, albo – jeżeli nie przedstawia wartości użytkowej – zlikwidowane.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. A. Gembicka
 

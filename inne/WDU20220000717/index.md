@@ -26,9 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/717/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz Na podstawie art. 43 ust. 3 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2020 r. poz. 1683 i 2320 oraz z 2021 r. poz. 1718 i 2112) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 23 marca 2005 r. w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz (Dz. U. poz. 548, z 2010 r. poz. 1250, z 2011 r. poz. 1548, z 2013 r. poz. 889, z 2017 r. poz. 1485 oraz z 2019 r. poz. 1782) załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.
-Minister Klimatu i Środowiska: A. Moskwa Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 23 marca 2005 r. w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz (Dz. U. poz. 548, z 2010 r. poz. 1250, z 2011 r. poz. 1548, z 2013 r. poz. 889, z 2017 r. poz. 1485 oraz z 2019 r. poz. 1782) załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r. Minister Klimatu i Środowiska: A. Moskwa Minister Klimatu i Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
 
 ## Załącznik nr 1 — z dnia 29 marca 2022 r. (poz. …….) Załącznik nr 1 WZÓR WZÓR UPOWAŻNIENIA UPOWAŻNIENIA DO DO WYKONYWANIA WYKONYWANIA POLOWANIA POLOWANIA INDYWIDUALNEGO INDYWIDUALNEGO
 

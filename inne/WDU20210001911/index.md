@@ -26,13 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001911) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1911/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania Instytutowi Sportu w Warszawie statusu państwowego instytutu badawczego Na podstawie art. 21 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2020 r. poz. 1383 oraz z 2021 r. poz. 1192) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 23 października 2015 r. w sprawie nadania Instytutowi Sportu w Warszawie statusu państwowego instytutu badawczego (Dz. U. poz. 1847) w § 3:
-1) w ust. 1:
-a) uchyla się pkt 2,
-b) pkt 17 otrzymuje brzmienie: „17) propagowanie w społeczeństwie idei olimpijskiej i przeciwdziałanie negatywnym zjawiskom w sporcie;”;
-2) w ust. 2:
-a) uchyla się pkt 1,
-b) w pkt 2 lit. a otrzymuje brzmienie: „a) prowadzenie działalności badawczo-rozwojowej oraz wdrażanie wyników prowadzonych badań,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 23 października 2015 r. w sprawie nadania Instytutowi Sportu w Warszawie statusu państwowego instytutu badawczego (Dz. U. poz. 1847) w § 3:
+
+- **1)** w ust. 1:
+    - **a)** uchyla się pkt 2,
+    - **b)** pkt 17 otrzymuje brzmienie: „17) propagowanie w społeczeństwie idei olimpijskiej i przeciwdziałanie negatywnym zjawiskom w sporcie;”;
+
+- **2)** w ust. 2:
+    - **a)** uchyla się pkt 1,
+    - **b)** w pkt 2 lit. a otrzymuje brzmienie: „a) prowadzenie działalności badawczo-rozwojowej oraz wdrażanie wyników prowadzonych badań,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

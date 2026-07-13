@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001538) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1538/text.pdf) |
 
 zmieniające rozporządzenie w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych Na podstawie art. 201 § 4 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2018 r. poz. 652, 1010 i 1387) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 16 stycznia 2017 r. w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych (Dz. U. poz. 119) w § 2 w ust. 1:
-1) w pkt 4 wyrazy „3 osoby” zastępuje się wyrazami „2 osoby”;
-2) po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym – 1 osoba;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: Ł. Szumowski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 16 stycznia 2017 r. w sprawie komisji psychiatrycznej do spraw środków zabezpieczających i wykonywania środków zabezpieczających w zakładach psychiatrycznych (Dz. U. poz. 119) w § 2 w ust. 1:
+
+- **1)** w pkt 4 wyrazy „3 osoby” zastępuje się wyrazami „2 osoby”;
+- **2)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) Krajowego Ośrodka Zapobiegania Zachowaniom Dyssocjalnym – 1 osoba;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: Ł. Szumowski
 

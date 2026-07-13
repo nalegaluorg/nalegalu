@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie centrum urazowego dla dzieci Na podstawie art. 39h ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2013 r.
 poz. 757, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 25 stycznia 2016 r. w sprawie centrum urazowego dla dzieci (Dz. U.
-poz. 145) wprowadza się następujące zmiany:
-1) w § 2 w ust. 1 uchyla się pkt 5;
-2) w § 8 skreśla się wyrazy „ , z wyjątkiem § 2 ust. 1 pkt 5, który wchodzi w życie z dniem 1 stycznia 2019 r.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: K. Radziwiłł
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 25 stycznia 2016 r. w sprawie centrum urazowego dla dzieci (Dz. U. poz. 145) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 1 uchyla się pkt 5;
+- **2)** w § 8 skreśla się wyrazy „ , z wyjątkiem § 2 ust. 1 pkt 5, który wchodzi w życie z dniem 1 stycznia 2019 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: K. Radziwiłł
 

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wymagań Dobrej Praktyki Dystrybucyjnej Na podstawie art. 79 ustawy z dnia 6 wrze ś nia 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z pó ź n.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 13 marca 2015 r. w sprawie wymagań Dobrej Praktyki Dystrybucyjnej (Dz. U. poz. 381) § 2 otrzymuje brzmienie: „§ 2. Przedsiębiorcy prowadzący w dniu wejścia w życie rozporządzenia obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, dostosują się do wymagań określonych w rozporządzeniu w terminie 15 miesięcy od dnia wejścia w życie rozporządzenia.”.
-§ 3. Rozporządzenie wchodzi w życie z dniem 18 marca 2016 r.
-Minister Zdrowia: wz. J. Pinkas
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 13 marca 2015 r. w sprawie wymagań Dobrej Praktyki Dystrybucyjnej (Dz. U. poz. 381) § 2 otrzymuje brzmienie: „§ 2. Przedsiębiorcy prowadzący w dniu wejścia w życie rozporządzenia obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, dostosują się do wymagań określonych w rozporządzeniu w terminie 15 miesięcy od dnia wejścia w życie rozporządzenia.”.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 18 marca 2016 r. Minister Zdrowia: wz. J. Pinkas
 

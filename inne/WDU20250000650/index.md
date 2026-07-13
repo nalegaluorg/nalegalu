@@ -28,7 +28,8 @@ source: pdf
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie nakładania grzywien w drodze mandatu karnego Na podstawie art. 96 § 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
 z 2024 r. poz. 977 i 1544 oraz z 2025 r. poz. 620 i 621) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 11 kwietnia 2023 r. zmieniającym rozporządzenie w sprawie nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 752) w § 2 wyrazy „nie dłużej niż przez 24 miesiące” zastępuje się wyrazami „nie dłużej niż przez 36 miesięcy”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 11 kwietnia 2023 r. zmieniającym rozporządzenie w sprawie nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 752) w § 2 wyrazy „nie dłużej niż przez 24 miesiące” zastępuje się wyrazami „nie dłużej niż przez 36 miesięcy”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

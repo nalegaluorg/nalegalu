@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000456) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/456/text.pdf) |
 
 zmieniające rozporządzenie w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne Na podstawie art. 6 ust. 3 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 27 maja 2008 r. w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne (Dz. U. Nr 131, poz. 834) § 3 otrzymuje brzmienie: „§ 3. Okręty wojenne obcych państw mogą wchodzić na polskie morskie wody wewnętrzne za zezwoleniem Dowódcy Operacyjnego Rodzajów Sił Zbrojnych. O każdorazowo wydanym zezwoleniu Dowódca Operacyjny Rodzajów Sił Zbrojnych powiadamia organ administracji morskiej miejscowo właściwy dla obszaru objętego zezwoleniem oraz Komendanta Morskiego Oddziału Straży Granicznej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: T. Siemoniak
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 27 maja 2008 r. w sprawie przepływu okrętów wojennych obcych państw przez polskie morze terytorialne oraz warunków wejścia tych okrętów na polskie morskie wody wewnętrzne (Dz. U. Nr 131, poz. 834) § 3 otrzymuje brzmienie: „§ 3. Okręty wojenne obcych państw mogą wchodzić na polskie morskie wody wewnętrzne za zezwoleniem Dowódcy Operacyjnego Rodzajów Sił Zbrojnych. O każdorazowo wydanym zezwoleniu Dowódca Operacyjny Rodzajów Sił Zbrojnych powiadamia organ administracji morskiej miejscowo właściwy dla obszaru objętego zezwoleniem oraz Komendanta Morskiego Oddziału Straży Granicznej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: T. Siemoniak
 

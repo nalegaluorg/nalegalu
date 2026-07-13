@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie organu inspekcyjnego dla jednostek pływających Marynarki Wojennej oraz trybu przeprowadzania przeglądów i inspekcji, a także ich rodzajów Na podstawie art. 7 ust. 6 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U.
 z 2012 r. poz. 1244) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 10 stycznia 2000 r. w sprawie organu inspekcyjnego dla jednostek pływających Marynarki Wojennej oraz trybu przeprowadzania przeglądów i inspekcji, a także ich rodzajów (Dz. U. Nr 3, poz. 40) § 2 otrzymuje brzmienie: „§ 2. Organem inspekcyjnym dla jednostek pływających Marynarki Wojennej jest Dowódca Generalny Rodzajów Sił Zbrojnych, zwany dalej ,,organem inspekcyjnym”.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
-Minister Obrony Narodowej: T. Siemoniak
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 10 stycznia 2000 r. w sprawie organu inspekcyjnego dla jednostek pływających Marynarki Wojennej oraz trybu przeprowadzania przeglądów i inspekcji, a także ich rodzajów (Dz. U. Nr 3, poz. 40) § 2 otrzymuje brzmienie: „§ 2. Organem inspekcyjnym dla jednostek pływających Marynarki Wojennej jest Dowódca Generalny Rodzajów Sił Zbrojnych, zwany dalej ,,organem inspekcyjnym”.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. Minister Obrony Narodowej: T. Siemoniak
 

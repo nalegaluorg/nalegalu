@@ -35,16 +35,25 @@ source: pdf
 
 - **2)** w art. 27:
     - **a)** w ust. 1 w pkt 2: – lit. a i b otrzymują brzmienie: „a) przestał spełniać warunek, o którym mowa w art. 26 ust. 2 pkt 1 lub 2, lub b) zbył surowiec tytoniowy przed pierwszym przetworzeniem, lub zbył surowiec tytoniowy po pierwszym przetworzeniu niezgodnie z warunkami określonymi w art. 29 ust. 1 lub 2, lub”, – w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) przechowuje surowiec tytoniowy lub surowiec tytoniowy po pierwszym przetworzeniu niezgodnie z warunkami określonymi w art. 29 ust. 3.”,
-    - **b)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) roku od dnia, w którym decyzja o skreśleniu z rejestru pierwszych przetwórców stała się ostateczna w przypadku: a) przechowywania surowca tytoniowego lub surowca tytoniowego po pierwszym przetworzeniu niezgodnie z warunkami określonymi w art. 29 ust. 3 lub b) przekroczenia przynajmniej o 30 dni terminu płatności, o którym mowa w art. 33d ust. 2 pkt 5;”;
+    - **b)** w ust. 4 pkt 1 otrzymuje brzmienie:
+
+      > „1) roku od dnia, w którym decyzja o skreśleniu z rejestru pierwszych przetwórców stała się ostateczna w przypadku:  
+      > a) przechowywania surowca tytoniowego lub surowca tytoniowego po pierwszym przetworzeniu niezgodnie z warunkami określonymi w art. 29 ust. 3 lub b) przekroczenia przynajmniej o 30 dni terminu płatności, o którym mowa w art. 33d ust. 2 pkt 5;”;  
 
 - **3)** w art. 28 ust. 3 otrzymuje brzmienie: „3. Pierwszy przetwórca informuje dyrektora oddziału terenowego Agencji, na formularzu opracowanym i udostępnionym przez Agencję, o zmianie danych lub informacji, o których mowa w art. 26 ust. 4, w terminie 14 dni od dnia jej zaistnienia, dołączając do formularza dokumenty potwierdzające tę zmianę.”;
 - **4)** w art. 29 dodaje się ust. 3 w brzmieniu: „3. Pierwszy przetwórca może przechowywać surowiec tytoniowy oraz surowiec tytoniowy po pierwszym przetworzeniu jedynie w posiadanych przez siebie obiektach.”;
 - **5)** w art. 30 dodaje się ust. 7 w brzmieniu: „7. Surowiec tytoniowy może opuścić zatwierdzony punkt odbioru surowca tytoniowego wyłącznie w celu przemieszczenia go do obiektu, w którym odbywa się pierwsze przetwarzanie surowca tytoniowego.”;
 - **6)** w art. 33d:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. W umowie na uprawę tytoniu, o której mowa w art. 32 pkt 2: 1) producent surowca tytoniowego, niebędący członkiem grupy producentów tytoniu, wpisany do rejestru producentów albo 2) grupa producentów tytoniu, w ramach umów kontraktacji zawartych z członkami grupy wpisanymi do rejestru producentów – zobowiązują się do wytworzenia i dostarczenia pierwszemu przetwórcy oznaczonej ilości surowca tytoniowego, a pierwszy przetwórca zobowiązuje się ten surowiec odebrać w umówionym terminie i zapłacić za niego umówioną cenę.”,
+    - **a)** ust. 1 otrzymuje brzmienie:
+
+      > „1. W umowie na uprawę tytoniu, o której mowa w art. 32 pkt 2:  
+      > 1) producent surowca tytoniowego, niebędący członkiem grupy producentów tytoniu, wpisany do rejestru producentów albo 2) grupa producentów tytoniu, w ramach umów kontraktacji zawartych z członkami grupy wpisanymi do rejestru producentów – zobowiązują się do wytworzenia i dostarczenia pierwszemu przetwórcy oznaczonej ilości surowca tytoniowego, a pierwszy przetwórca zobowiązuje się ten surowiec odebrać w umówionym terminie i zapłacić za niego umówioną cenę.”,  
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Następca prawny, który przejął gospodarstwo rolne producenta surowca tytoniowego będącego członkiem grupy producentów tytoniu i mającego z tą grupą zawartą umowę kontraktacji, realizuje prawa i obowiązki wynikające z tej umowy niezależnie od tego, czy jest członkiem grupy producentów tytoniu.”,
     - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W sprawach nieuregulowanych w niniejszej ustawie do umowy na uprawę tytoniu stosuje się przepisy Kodeksu cywilnego dotyczące umowy kontraktacji.”,
-    - **d)** dodaje się ust. 7 w brzmieniu: „7. Terminu określonego w ust. 6 nie stosuje się w przypadku, gdy prawa i obowiązki wynikające z umowy kontraktacji lub umowy na uprawę tytoniu przeszły na nowego posiadacza gospodarstwa rolnego na skutek: 1) śmierci producenta surowca tytoniowego albo 2) przekazania przez producenta surowca tytoniowego gospodarstwa rolnego w celu uzyskania renty strukturalnej.”;
+    - **d)** dodaje się ust. 7 w brzmieniu:
+
+      > „7. Terminu określonego w ust. 6 nie stosuje się w przypadku, gdy prawa i obowiązki wynikające z umowy kontraktacji lub umowy na uprawę tytoniu przeszły na nowego posiadacza gospodarstwa rolnego na skutek:  
+      > 1) śmierci producenta surowca tytoniowego albo 2) przekazania przez producenta surowca tytoniowego gospodarstwa rolnego w celu uzyskania renty strukturalnej.”;  
 
 - **7)** uchyla się art. 34;
 - **8)** w art. 35 w ust. 1:

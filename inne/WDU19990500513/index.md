@@ -25,8 +25,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990500513) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/513/text.pdf) |
 
 Na podstawie art. 3 ust. 5 ustawy z dnia 7 listopada 1996 r. o obowiązkowych egzemplarzach bibliotecznych (Dz.U. Nr 152, poz. 722) zarządza się, co następuje:
-§ 1.
-W rozporządzeniu Ministra Kultury i Sztuki z dnia 6 marca 1997 r. w sprawie wykazu bibliotek uprawnionych do otrzymywania egzemplarzy obowiązkowych poszczególnych rodzajów publikacji oraz zasad i trybu ich przekazywania (Dz.U. Nr 29, poz. 161) w § 5 ust. 2 otrzymuje brzmienie: „2. Egzemplarze obowiązkowe otrzymywane przez uprawnione biblioteki, z zastrzeżeniem ust. 1, a nie odpowiadające profilowi i ich zbiorów, mogą być przez te biblioteki przekazywane nieodpłatnie bibliotekom wchodzącym w skład ogólnokrajowej sieci bibliotecznej, jeżeli wyrażą zgodę na ich przyjęcie oraz na pokrycie kosztów opłat pocztowych przesyłek.”
-§ 2.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Sztuki z dnia 6 marca 1997 r. w sprawie wykazu bibliotek uprawnionych do otrzymywania egzemplarzy obowiązkowych poszczególnych rodzajów publikacji oraz zasad i trybu ich przekazywania (Dz.U. Nr 29, poz. 161) w § 5 ust. 2 otrzymuje brzmienie: „2. Egzemplarze obowiązkowe otrzymywane przez uprawnione biblioteki, z zastrzeżeniem ust. 1, a nie odpowiadające profilowi i ich zbiorów, mogą być przez te biblioteki przekazywane nieodpłatnie bibliotekom wchodzącym w skład ogólnokrajowej sieci bibliotecznej, jeżeli wyrażą zgodę na ich przyjęcie oraz na pokrycie kosztów opłat pocztowych przesyłek.”
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

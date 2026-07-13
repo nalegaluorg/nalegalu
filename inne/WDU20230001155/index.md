@@ -26,15 +26,23 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001155) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1155/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad działania telekomunikacji lotniczej Na podstawie art. 132 pkt 5 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 26 marca 2009 r. w sprawie szczegółowych zasad działania telekomunikacji lotniczej (Dz. U. z 2020 r. poz. 1295) w § 3a:
-1) użyte w ust. 1, 2, 4a i 5, w różnym przypadku, wyrazy „oznaczenie lokalizacji” zastępuje się użytymi w odpowiednim przypadku wyrazami „wskaźnik lokalizacji”;
-2) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do wniosku o nadanie wskaźnika lokalizacji dla stacji AFS dołącza się dokument potwierdzający zainstalowanie stacji AFS z dostępem do sieci telekomunikacyjnej lub radiowej.”;
-3) ust. 3 i 4 otrzymują brzmienie: „3. Prezes Urzędu wykreśla z urzędu wskaźnik lokalizacji, jeżeli stacja AFS albo stacja AFTN nie jest wykorzystywana w żegludze powietrznej.
-4. Wskaźnik lokalizacji albo wykreślenie wskaźnika lokalizacji, wraz z nazwą lotniska albo lądowiska, do którego odnosi się ten wskaźnik lokalizacji, są ogłaszane w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz w AIP Polska.”.
-§ 2. 1. Z dniem wejścia w życie niniejszego rozporządzenia oznaczenia lokalizacji nadane przez Prezesa Urzędu Lotnictwa Cywilnego na podstawie przepisów dotychczasowych, stają się wskaźnikami lokalizacji, o których mowa w § 3a ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 26 marca 2009 r. w sprawie szczegółowych zasad działania telekomunikacji lotniczej (Dz. U. z 2020 r. poz. 1295) w § 3a:
+
+- **1)** użyte w ust. 1, 2, 4a i 5, w różnym przypadku, wyrazy „oznaczenie lokalizacji” zastępuje się użytymi w odpowiednim przypadku wyrazami „wskaźnik lokalizacji”;
+- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do wniosku o nadanie wskaźnika lokalizacji dla stacji AFS dołącza się dokument potwierdzający zainstalowanie stacji AFS z dostępem do sieci telekomunikacyjnej lub radiowej.”;
+- **3)** ust. 3 i 4 otrzymują brzmienie:
+
+  > „3. Prezes Urzędu wykreśla z urzędu wskaźnik lokalizacji, jeżeli stacja AFS albo stacja AFTN nie jest wykorzystywana w żegludze powietrznej.  
+  > 4. Wskaźnik lokalizacji albo wykreślenie wskaźnika lokalizacji, wraz z nazwą lotniska albo lądowiska, do którego odnosi się ten wskaźnik lokalizacji, są ogłaszane w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz w AIP Polska.”.  
+
+**§ 2.**
+
+1. Z dniem wejścia w życie niniejszego rozporządzenia oznaczenia lokalizacji nadane przez Prezesa Urzędu Lotnictwa Cywilnego na podstawie przepisów dotychczasowych, stają się wskaźnikami lokalizacji, o których mowa w § 3a ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
 2. W przypadku, o którym mowa w ust. 1, do stacji AFS z nadanym wskaźnikiem lokalizacji nie stosuje się wymogu posiadania dostępu do sieci telekomunikacyjnej lub radiowej.
-§ 3. Do postępowań o nadanie oznaczenia lokalizacji stacji stałej służby lotniczej, o którym mowa w pkt 1.9 tomu II Załącznika 10 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r.
-(Dz. U. z 1959 r. poz. 212, z późn. zm. ), wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury: A. Adamczyk
+
+**§ 3.** Do postępowań o nadanie oznaczenia lokalizacji stacji stałej służby lotniczej, o którym mowa w pkt 1.9 tomu II Załącznika 10 do Konwencji o międzynarodowym lotnictwie cywilnym, podpisanej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212, z późn. zm. ), wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Infrastruktury: A. Adamczyk
 

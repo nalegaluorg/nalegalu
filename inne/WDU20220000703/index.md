@@ -25,9 +25,16 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000703) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/703/text.pdf) |
 
-§ 2. 1. Dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy, są rejestrowane przez liczniki zdalnego odczytu, o których mowa w przepisach ustawy z dnia 10 kwietnia 1997 r. − Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm. ).
+**§ 2.**
+
+1. Dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy, są rejestrowane przez liczniki zdalnego odczytu, o których mowa w przepisach ustawy z dnia 10 kwietnia 1997 r. − Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm. ).
+
 2. Liczniki zdalnego odczytu rejestrują odrębnie ilość energii elektrycznej poszczególnych wytwórców lub odbiorców będących członkami danej spółdzielni energetycznej:
-1) wprowadzonej do sieci dystrybucyjnej elektroenergetycznej – stanowiącej sumę energii
+
+- **1)** wprowadzonej do sieci dystrybucyjnej elektroenergetycznej – stanowiącej sumę energii
+
+## Załącznik
+
 § 2. 1. Dane pomiarowe, o których mowa w art. 38c ust. 5 ustawy, są rejestrowane przez elektrycznej wprowadzonej do tej sieci z wszystkich faz;
 liczniki zdalnego odczytu, o których mowa w przepisach ustawy z dnia 10 kwietnia 1997 r. −
 2) pobranej z sieci dystrybucyjnej elektroenergetycznej – stanowiącej sumę energii Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm. ).

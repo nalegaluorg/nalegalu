@@ -26,12 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000696) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/696/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ustalenia listy gatunków zwierząt łownych Na podstawie art. 5 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2020 r. poz. 1683 i 2320 oraz z 2021 r. poz. 1718 i 2112) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 11 marca 2005 r. w sprawie ustalenia listy gatunków zwierząt łownych (Dz. U. poz. 433 oraz z 2017 r. poz. 1484) w § 1:
-1) w ust. 1:
-a) w pkt 1 uchyla się lit. c,
-b) w pkt 2 uchyla się lit. b, h oraz i;
-2) w ust. 2 wyrazy „lit. a–e” zastępuje się wyrazami „lit. a, b, d oraz lit. e”;
-3) w ust. 3 wyrazy „lit. a–h” zastępuje się wyrazami „lit. a, c–g”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 11 marca 2005 r. w sprawie ustalenia listy gatunków zwierząt łownych (Dz. U. poz. 433 oraz z 2017 r. poz. 1484) w § 1:
+
+- **1)** w ust. 1:
+    - **a)** w pkt 1 uchyla się lit. c,
+    - **b)** w pkt 2 uchyla się lit. b, h oraz i;
+
+- **2)** w ust. 2 wyrazy „lit. a–e” zastępuje się wyrazami „lit. a, b, d oraz lit. e”;
+- **3)** w ust. 3 wyrazy „lit. a–h” zastępuje się wyrazami „lit. a, c–g”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r. Minister Klimatu i Środowiska: A. Moskwa
 

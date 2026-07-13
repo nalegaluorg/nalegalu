@@ -27,27 +27,34 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Szczecinie Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2016 r.
 poz. 353, z późn. zm. ) zarządza się, co następuje:
-§ 1. W załączniku do rozporządzenia Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Szczecinie (Dz. U. z 2014 r. poz. 1181) wprowadza się następujące zmiany:
-1) w § 3 ust. 1–4 otrzymują brzmienie: „1. Regionalny Dyrektor kieruje RDOŚ przy pomocy zastępcy Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1–6, i osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 7–10.
-2. Zastępcą Regionalnego Dyrektora jest regionalny konserwator przyrody, który sprawuje nadzór nad komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 2 i 3.
-3. Zakresy czynności zastępcy Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1–6, i osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 7–10, ustala Regionalny Dyrektor.
-4. W przypadku nieobecności lub czasowej niezdolności do wykonywania obowiązków przez Regionalnego Dyrektora jego funkcję sprawuje zastępca Regionalnego Dyrektora.”;
-2) § 4 otrzymuje brzmienie: „§ 4. 1. W skład RDOŚ wchodzą następujące komórki organizacyjne i stanowiska:
-1) Wydział Ocen Oddziaływania na Środowisko i Naprawy Szkód w Środowisku;
-2) Wydział Ochrony Przyrody i Obszarów Natura 2000;
-3) Wydział Spraw Terenowych w Złocieńcu;
-4) Wydział Spraw Terenowych w Koszalinie;
-5) Zespół Budżetu i Finansów;
-6) Zespół Organizacyjno-Administracyjny;
-7) samodzielne stanowisko do spraw obsługi prawnej – radca prawny;
-8) samodzielne stanowisko do spraw ochrony informacji niejawnych, spraw obronnych i zarządzania kryzysowego;
-9) samodzielne stanowisko do spraw zamówień publicznych;
-10) samodzielne stanowisko do spraw kadr i szkoleń.
-2. Komórki organizacyjne, o których mowa w ust. 1 pkt 1–4, są kierowane przez naczelników.
-3. Komórka organizacyjna, o której mowa w ust. 1 pkt 5, jest kierowana przez głównego księgowego.
-4. Komórka organizacyjna, o której mowa w ust. 1 pkt 6, jest kierowana przez kierownika.”;
-3) § 7 otrzymuje brzmienie: „§ 7. Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych, o których mowa w § 4 ust. 1 pkt 1–6, i stanowisk, o których mowa w § 4 ust. 1 pkt 7–10, określa regulamin organizacyjny nadany przez Regionalnego Dyrektora, po zatwierdzeniu przez Generalnego Dyrektora Ochrony Środowiska.”;
-4) uchyla się § 8.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Środowiska: J. Szyszko
+
+**§ 1.** W załączniku do rozporządzenia Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Szczecinie (Dz. U. z 2014 r. poz. 1181) wprowadza się następujące zmiany:
+
+- **1)** w § 3 ust. 1–4 otrzymują brzmienie:
+
+  > „1. Regionalny Dyrektor kieruje RDOŚ przy pomocy zastępcy Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1–6, i osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 7–10.  
+  > 2. Zastępcą Regionalnego Dyrektora jest regionalny konserwator przyrody, który sprawuje nadzór nad komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 2 i 3.  
+  > 3. Zakresy czynności zastępcy Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1–6, i osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 7–10, ustala Regionalny Dyrektor.  
+  > 4. W przypadku nieobecności lub czasowej niezdolności do wykonywania obowiązków przez Regionalnego Dyrektora jego funkcję sprawuje zastępca Regionalnego Dyrektora.”;  
+- **2)** § 4 otrzymuje brzmienie:
+
+  > „§ 4.  
+  > 1. W skład RDOŚ wchodzą następujące komórki organizacyjne i stanowiska:  
+  > 1) Wydział Ocen Oddziaływania na Środowisko i Naprawy Szkód w Środowisku;  
+  > 2) Wydział Ochrony Przyrody i Obszarów Natura 2000;  
+  > 3) Wydział Spraw Terenowych w Złocieńcu;  
+  > 4) Wydział Spraw Terenowych w Koszalinie;  
+  > 5) Zespół Budżetu i Finansów;  
+  > 6) Zespół Organizacyjno-Administracyjny;  
+  > 7) samodzielne stanowisko do spraw obsługi prawnej – radca prawny;  
+  > 8) samodzielne stanowisko do spraw ochrony informacji niejawnych, spraw obronnych i zarządzania kryzysowego;  
+  > 9) samodzielne stanowisko do spraw zamówień publicznych;  
+  > 10) samodzielne stanowisko do spraw kadr i szkoleń.  
+  > 2. Komórki organizacyjne, o których mowa w ust. 1 pkt 1–4, są kierowane przez naczelników.  
+  > 3. Komórka organizacyjna, o której mowa w ust. 1 pkt 5, jest kierowana przez głównego księgowego.  
+  > 4. Komórka organizacyjna, o której mowa w ust. 1 pkt 6, jest kierowana przez kierownika.”;  
+- **3)** § 7 otrzymuje brzmienie: „§ 7. Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych, o których mowa w § 4 ust. 1 pkt 1–6, i stanowisk, o których mowa w § 4 ust. 1 pkt 7–10, określa regulamin organizacyjny nadany przez Regionalnego Dyrektora, po zatwierdzeniu przez Generalnego Dyrektora Ochrony Środowiska.”;
+- **4)** uchyla się § 8.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Środowiska: J. Szyszko
 

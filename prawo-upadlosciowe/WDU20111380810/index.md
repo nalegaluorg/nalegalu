@@ -31,7 +31,11 @@ source: pdf
 
 - **1)** w art. 84 dodaje się ust. 3 w brzmieniu: „3. Umowa ustanawiająca zabezpieczenie finansowe na podstawie ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych dla swojej skuteczności wobec masy upadłości nie wymaga zachowania formy pisemnej z datą pewną.”;
 - **2)** w art. 85:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Jeżeli umowa ramowa, której jedną ze stron jest upadły, zastrzega, że poszczególne umowy szczegółowe, których przedmiotem są terminowe operacje finansowe, pożyczki instrumentów finansowych lub sprzedaż instrumentów finansowych ze zobowiązaniem do ich odkupu, będą zawierane w wykonaniu umowy ramowej oraz że rozwiązanie umowy ramowej powoduje rozwiązanie wszystkich umów szczegółowych zawartych w wykonaniu tej umowy: 1) wierzytelności z tytułu poszczególnych umów szczegółowych zawartych w jej wykonaniu nie są obejmowane układem; 2) syndykowi nie przysługuje uprawnienie do odstąpienia od umowy ramowej, o którym mowa w art. 98.”,
+    - **a)** ust. 1 otrzymuje brzmienie:
+
+      > „1. Jeżeli umowa ramowa, której jedną ze stron jest upadły, zastrzega, że poszczególne umowy szczegółowe, których przedmiotem są terminowe operacje finansowe, pożyczki instrumentów finansowych lub sprzedaż instrumentów finansowych ze zobowiązaniem do ich odkupu, będą zawierane w wykonaniu umowy ramowej oraz że rozwiązanie umowy ramowej powoduje rozwiązanie wszystkich umów szczegółowych zawartych w wykonaniu tej umowy:  
+      > 1) wierzytelności z tytułu poszczególnych umów szczegółowych zawartych w jej wykonaniu nie są obejmowane układem;  
+      > 2) syndykowi nie przysługuje uprawnienie do odstąpienia od umowy ramowej, o którym mowa w art. 98.”,  
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przez instrumenty finansowe, o których mowa w ust. 1, rozumie się instrumenty finansowe w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384 oraz z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 763).”,
     - **c)** ust. 5 otrzymuje brzmienie: „5. Do poszczególnych umów szczegółowych mających za przedmiot terminowe operacje finansowe, pożyczki instrumentów finansowych lub sprzedaż instrumentów finansowych ze zobowiązaniem do ich odkupu nawet jeżeli nie zostały one zawarte w wykonaniu umowy ramowej, o której mowa w ust. 1 - nie stosuje się przepisów art. 98 i art. 99.”;
 

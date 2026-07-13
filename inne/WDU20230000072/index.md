@@ -27,37 +27,63 @@ source: pdf
 
 w sprawie zabezpieczenia upraw konopi innych niż włókniste oraz przechowywania zbiorów ziela lub żywicy tych konopi Na podstawie art. 49a ust. 13 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r.
 poz. 2050, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowe warunki i sposób:
-1) zabezpieczenia upraw konopi innych niż włókniste prowadzonych w celu wytwarzania surowca farmaceutycznego, o którym mowa w art. 33a ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, zwanej dalej „ustawą”;
-2) przechowywania zbiorów ziela lub żywicy konopi innych niż włókniste z upraw prowadzonych w celu wytwarzania surowca farmaceutycznego, o którym mowa w art. 33a ust. 1 ustawy.
-§ 2. Szczegółowymi warunkami zabezpieczenia upraw konopi innych niż włókniste gwarantującymi należytą ochronę tych upraw przed dostępem osób nieuprawnionych są:
-1) prowadzenie wykazu osób uprawnionych do wejścia na miejsce upraw;
-2) prowadzenie wykazu pojazdów uprawnionych do wjazdu na miejsce upraw;
-3) posiadanie środków sygnalizujących naruszenie zabezpieczeń przed dostępem na miejsce upraw osób nieuprawnionych;
-4) posiadanie środków umożliwiających nieprzerwaną obserwację miejsca upraw oraz rejestrację obrazu;
-5) posiadanie środków technicznych uniemożliwiających wejście osób nieuprawnionych na miejsce upraw;
-6) oznakowanie w postaci tablic ostrzegawczych zawierających informację o zakazie wstępu osób nieuprawnionych na miejsce upraw;
-7) stosowanie RFID – technologii zdalnego nadzoru roślin (Radio-frequency identification), która wykorzystuje fale radiowe do odczytu i przesyłania danych zawartych na etykiecie naniesionej na każdą z uprawianych roślin, umożliwiającej identyfikację każdej z roślin znajdujących się w polu odczytu;
-8) monitorowanie miejsca upraw.
-§ 3. Warunki określone w § 2 pkt 1 i 2 realizuje się przez posiadanie i prowadzenie w formie papierowej lub elektronicznej wykazów, o których mowa w art. 49a ust. 4 pkt 1 lit. a i b ustawy, oraz bieżące rejestrowanie i weryfikowanie zawartych w nich danych – w zakresie określonym w art. 49a ust. 4 pkt 1 lit. c ustawy.
-§ 4. Warunek określony w § 2 pkt 3 realizuje się przez posiadanie i zastosowanie instalacji alarmowej sygnalizującej każdorazową próbę przełamania lub przełamanie zabezpieczeń technicznych miejsca upraw lub próbę nieuprawnionego wstępu na miejsce upraw.
-§ 5. 1. Warunek określony w § 2 pkt 4 realizuje się przez posiadanie i zastosowanie urządzeń monitorujących, w tym służących do obserwowania i rejestrowania obrazu, działających w systemie całodobowym.
+
+**§ 1.** Rozporządzenie określa szczegółowe warunki i sposób:
+
+- **1)** zabezpieczenia upraw konopi innych niż włókniste prowadzonych w celu wytwarzania surowca farmaceutycznego, o którym mowa w art. 33a ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, zwanej dalej „ustawą”;
+- **2)** przechowywania zbiorów ziela lub żywicy konopi innych niż włókniste z upraw prowadzonych w celu wytwarzania surowca farmaceutycznego, o którym mowa w art. 33a ust. 1 ustawy.
+
+**§ 2.** Szczegółowymi warunkami zabezpieczenia upraw konopi innych niż włókniste gwarantującymi należytą ochronę tych upraw przed dostępem osób nieuprawnionych są:
+
+- **1)** prowadzenie wykazu osób uprawnionych do wejścia na miejsce upraw;
+- **2)** prowadzenie wykazu pojazdów uprawnionych do wjazdu na miejsce upraw;
+- **3)** posiadanie środków sygnalizujących naruszenie zabezpieczeń przed dostępem na miejsce upraw osób nieuprawnionych;
+- **4)** posiadanie środków umożliwiających nieprzerwaną obserwację miejsca upraw oraz rejestrację obrazu;
+- **5)** posiadanie środków technicznych uniemożliwiających wejście osób nieuprawnionych na miejsce upraw;
+- **6)** oznakowanie w postaci tablic ostrzegawczych zawierających informację o zakazie wstępu osób nieuprawnionych na miejsce upraw;
+- **7)** stosowanie RFID – technologii zdalnego nadzoru roślin (Radio-frequency identification), która wykorzystuje fale radiowe do odczytu i przesyłania danych zawartych na etykiecie naniesionej na każdą z uprawianych roślin, umożliwiającej identyfikację każdej z roślin znajdujących się w polu odczytu;
+- **8)** monitorowanie miejsca upraw.
+
+**§ 3.** Warunki określone w § 2 pkt 1 i 2 realizuje się przez posiadanie i prowadzenie w formie papierowej lub elektronicznej wykazów, o których mowa w art. 49a ust. 4 pkt 1 lit. a i b ustawy, oraz bieżące rejestrowanie i weryfikowanie zawartych w nich danych – w zakresie określonym w art. 49a ust. 4 pkt 1 lit. c ustawy.
+
+**§ 4.** Warunek określony w § 2 pkt 3 realizuje się przez posiadanie i zastosowanie instalacji alarmowej sygnalizującej każdorazową próbę przełamania lub przełamanie zabezpieczeń technicznych miejsca upraw lub próbę nieuprawnionego wstępu na miejsce upraw.
+
+**§ 5.**
+
+1. Warunek określony w § 2 pkt 4 realizuje się przez posiadanie i zastosowanie urządzeń monitorujących, w tym służących do obserwowania i rejestrowania obrazu, działających w systemie całodobowym.
+
 2. Do przekazywania, odtwarzania i utrwalania obrazu miejsca upraw służy system telewizji przemysłowej składający się z:
-1) zestawu kamer z odpowiednim obiektywem i wyposażeniem pomocniczym;
-2) urządzenia sterującego i transmisyjnego, multipleksera oraz dzielnika obrazu;
-3) monitora i urządzenia przetwarzającego sygnały wizyjne na obraz wyświetlany na ekranie;
-4) urządzenia rejestrującego obraz wraz ze znacznikiem czasu umożliwiającym dokładne określenie godziny i daty utrwalonego obrazu zgodnie z czasem lokalnym.
+
+- **1)** zestawu kamer z odpowiednim obiektywem i wyposażeniem pomocniczym;
+- **2)** urządzenia sterującego i transmisyjnego, multipleksera oraz dzielnika obrazu;
+- **3)** monitora i urządzenia przetwarzającego sygnały wizyjne na obraz wyświetlany na ekranie;
+- **4)** urządzenia rejestrującego obraz wraz ze znacznikiem czasu umożliwiającym dokładne określenie godziny i daty utrwalonego obrazu zgodnie z czasem lokalnym.
+
 3. Do utrwalania obrazu w systemie telewizji przemysłowej można wykorzystać urządzenia elektroniczne typu analogowego lub cyfrowego.
+
 4. Zapis obrazu miejsca upraw jest przechowywany przez okres co najmniej 14 dni.
-§ 6. 1. Warunek określony w § 2 pkt 5 realizuje się przez posiadanie i zastosowanie środków technicznych, o których mowa w art. 49a ust. 9 pkt 7 ustawy.
+
+**§ 6.**
+
+1. Warunek określony w § 2 pkt 5 realizuje się przez posiadanie i zastosowanie środków technicznych, o których mowa w art. 49a ust. 9 pkt 7 ustawy.
+
 2. Drzwi wejściowe oraz okna zewnętrzne w miejscu prowadzenia upraw posiadają atest potwierdzający ich zwiększoną odporność na włamanie.
+
 3. Metalowe szafy, lodówki lub kasety spełniają wymagania co najmniej klasy S1 według normy PN-EN 14450.
-§ 7. 1. Warunek określony w § 2 pkt 6 realizuje się przez posiadanie i zastosowanie oznakowań miejsca prowadzenia upraw, które to oznakowania mają postać widocznych tablic ostrzegawczych z informacją o zakazie wstępu osób nieuprawnionych.
+
+**§ 7.**
+
+1. Warunek określony w § 2 pkt 6 realizuje się przez posiadanie i zastosowanie oznakowań miejsca prowadzenia upraw, które to oznakowania mają postać widocznych tablic ostrzegawczych z informacją o zakazie wstępu osób nieuprawnionych.
+
 2. Oznakowanie miejsca prowadzenia upraw wykonuje się z materiałów trwałych w sposób zapewniający czytelność informacji o zakazie wstępu osób nieuprawnionych.
+
 3. Tablice ostrzegawcze umocowuje się na zewnętrznej płaszczyźnie drzwi wejściowych do miejsca prowadzenia upraw, na wysokości 170 cm, licząc od dolnej krawędzi tych drzwi.
-§ 8. Warunek określony w § 2 pkt 7 realizuje się przez posiadanie i zastosowanie technologii zdalnego nadzoru roślin RFID w zakresie monitoringu ewidencji roślin uprawianych, zebranych i zniszczonych oraz w zakresie lokalizacji roślin.
-§ 9. Warunek określony w § 2 pkt 8 realizuje się przez zatrudnienie osoby wpisanej na listę kwalifikowanych pracowników ochrony fizycznej, wykonującej zadania związane z ochroną upraw.
-§ 10. Do miejsca przechowywania zbiorów ziela lub żywicy konopi innych niż włókniste stosuje się warunki zabezpieczenia upraw, o których mowa w § 2 pkt 1–6 i 8, oraz sposoby realizacji zabezpieczeń określone w § 3–7 i 9.
-§ 11. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 8.** Warunek określony w § 2 pkt 7 realizuje się przez posiadanie i zastosowanie technologii zdalnego nadzoru roślin RFID w zakresie monitoringu ewidencji roślin uprawianych, zebranych i zniszczonych oraz w zakresie lokalizacji roślin.
+
+**§ 9.** Warunek określony w § 2 pkt 8 realizuje się przez zatrudnienie osoby wpisanej na listę kwalifikowanych pracowników ochrony fizycznej, wykonującej zadania związane z ochroną upraw.
+
+**§ 10.** Do miejsca przechowywania zbiorów ziela lub żywicy konopi innych niż włókniste stosuje się warunki zabezpieczenia upraw, o których mowa w § 2 pkt 1–6 i 8, oraz sposoby realizacji zabezpieczeń określone w § 3–7 i 9.
+
+**§ 11.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

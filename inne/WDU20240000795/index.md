@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego Na podstawie art. 34 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2024 r.
 poz. 652) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U.
-z 2024 r. poz. 336) wprowadza się następujące zmiany:
-1) w § 2 w ust. 1 w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „f) podmioty (grupy, sekcje, zespoły) jednostek budżetowych oraz jednostek wojskowych realizujących czynności ratunkowe, ewakuację medyczną oraz transport sanitarny, o których mowa w art. 40 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991, 1675 i 1972);”;
-2) użyte w § 15 w pkt 4a oraz w § 16 w pkt 1 wyrazy „30 czerwca 2024 r.” zastępuje się wyrazami „31 grudnia 2024 r.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U. z 2024 r. poz. 336) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 1 w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „f) podmioty (grupy, sekcje, zespoły) jednostek budżetowych oraz jednostek wojskowych realizujących czynności ratunkowe, ewakuację medyczną oraz transport sanitarny, o których mowa w art. 40 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991, 1675 i 1972);”;
+- **2)** użyte w § 15 w pkt 4a oraz w § 16 w pkt 1 wyrazy „30 czerwca 2024 r.” zastępuje się wyrazami „31 grudnia 2024 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Konieczny
 

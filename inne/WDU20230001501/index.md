@@ -909,7 +909,12 @@ source: pdf
 
 **Art. 52.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094 i 1113) wprowadza się następujące zmiany:
 
-- **1)** po art. 7 dodaje się art. 7a w brzmieniu: „Art. 7a. 1. Przepisy ustawy dotyczące strategicznej inwestycji w sektorze naftowym realizowanej na podstawie ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2022 r. poz. 1275 i 1846), zwanej dalej „strategiczną inwestycją w sektorze naftowym”, stosuje się również odpowiednio do inwestycji w zakresie Krajowego Centrum Przetwarzania Danych w rozumieniu ustawy z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych (Dz. U. poz. 1501).
+- **1)** po art. 7 dodaje się art. 7a w brzmieniu:
+
+  > „Art. 7a.  
+  > 1. Przepisy ustawy dotyczące strategicznej inwestycji w sektorze naftowym realizowanej na podstawie ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. z 2022 r. poz. 1275 i 1846), zwanej dalej „strategiczną inwestycją w sektorze naftowym”,  
+
+  stosuje się również odpowiednio do inwestycji w zakresie Krajowego Centrum Przetwarzania Danych w rozumieniu ustawy z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych (Dz. U. poz. 1501).
 
 2. Przepisy ustawy dotyczące decyzji o ustaleniu lokalizacji strategicznej inwestycji w sektorze naftowym wydawanej na podstawie ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym stosuje się również odpowiednio do decyzji o ustaleniu lokalizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych, o której mowa w ustawie z dnia 7 lipca 2023 r. o przygotowaniu i realizacji inwestycji w zakresie Krajowego Centrum Przetwarzania Danych.
 

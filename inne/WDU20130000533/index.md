@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego Na podstawie art. 6 ust. 7 ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2013 r.
 poz. 474) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 4 stycznia 2005 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego (Dz. U. Nr 6, poz. 49, z późn. zm. ) w §11 pkt 2 otrzymuje brzmienie: „2) dyrektora i zastępcy dyrektora wojewódzkiego ośrodka doradztwa rolniczego – ustala właściwy miejscowo zarząd województwa.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 4 stycznia 2005 r. w sprawie warunków wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą pracownikom jednostek doradztwa rolniczego (Dz. U. Nr 6, poz. 49, z późn. zm. ) w §11 pkt 2 otrzymuje brzmienie: „2) dyrektora i zastępcy dyrektora wojewódzkiego ośrodka doradztwa rolniczego – ustala właściwy miejscowo zarząd województwa.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
 

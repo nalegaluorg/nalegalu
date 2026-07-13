@@ -26,21 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/111/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzoru wniosku o wypłatę dodatku elektrycznego Na podstawie art. 33 ust. 4 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127, 2243 i 2687) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 24 listopada 2022 r. w sprawie wzoru wniosku o wypłatę dodatku elektrycznego (Dz. U. poz. 2443) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).
-Załącznik do rozporządzenia Ministra Klimatu i Środowiska z dnia 13 stycznia 2023 r. (Dz. U. poz. …) WZÓR WZÓR WNIOSEK O WYPŁATĘ DODATKU ELEKTRYCZNEGO UWAGA!
-Informacje przedstawione we wniosku o wypłatę dodatku elektrycznego składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń – zgodnie z art. 34 ust. 4 ustawy z dnia 7 października 2022 r.
-o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127, z późn. zm.), zwanej dalej „ustawą”.
-Zgodnie z art. 30 ust. 1 ustawy kwota dodatku elektrycznego wynosi 1000 zł.
-W przypadku gdy zużycie energii elektrycznej w gospodarstwie domowym w tym samym miejscu zamieszkania w 2021 r. wyniosło więcej niż 5 MWh, dodatek elektryczny wynosi 1500 zł (art. 30 ust. 2 ustawy) .
-Aby uzyskać dodatek elektryczny w wysokości 1500 zł, do wniosku o wypłatę dodatku elektrycznego dołącza się rozliczenie z przedsiębiorstwem energetycznym wykonującym działalność gospodarczą w zakresie obrotu energią elektryczną lub zaświadczenie wydane przez to przedsiębiorstwo potwierdzające, że zużycie energii elektrycznej w gospodarstwie domowym w tym samym miejscu zamieszkania w 2021 r. wyniosło więcej niż 5 MWh (art. 31 ust. 1a ustawy).
-Skrócona instrukcja wypełniania:
-1. Należy wypełniać WIELKIMI LITERAMI.
-2. Pola wyboru należy zaznaczać V lub X .
-ORGAN, DO KTÓREGO JEST SKŁADANY WNIOSEK O WYPŁATĘ DODATKU ELEKTRYCZNEGO …………………………………………………………………………………………………………..
-…………………………………………………………………………………………………………..
-Dodatek elektryczny wypłaca wójt, burmistrz albo prezydent miasta właściwy ze względu na miejsce zamieszkania osoby fizycznej składającej wniosek o wypłatę dodatku elektrycznego.
 1. Dane osoby fizycznej składającej wniosek, zwanej dalej „wnioskodawcą”.
 DANE WNIOSKODAWCY
 01. Imię (imiona) ………………………………………………………………………….………………………………………..
@@ -106,6 +91,10 @@ Do wniosku dołączam następujące dokumenty:
 2) ………………………………………………………………………………………………………
 3) ……………………………………………………………………………………………………… Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 ………………………… ………………………… ………………………… (miejscowość) (data: dd/mm/rrrr) (podpis wnioskodawcy)
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 24 listopada 2022 r. w sprawie wzoru wniosku o wypłatę dodatku elektrycznego (Dz. U. poz. 2443) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). Załącznik do rozporządzenia Ministra Klimatu i Środowiska z dnia 13 stycznia 2023 r. (Dz. U. poz. …) WZÓR WZÓR WNIOSEK O WYPŁATĘ DODATKU ELEKTRYCZNEGO UWAGA! Informacje przedstawione we wniosku o wypłatę dodatku elektrycznego składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń – zgodnie z art. 34 ust. 4 ustawy z dnia 7 października 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku w związku z sytuacją na rynku energii elektrycznej (Dz. U. poz. 2127, z późn. zm.), zwanej dalej „ustawą”. Zgodnie z art. 30 ust. 1 ustawy kwota dodatku elektrycznego wynosi 1000 zł. W przypadku gdy zużycie energii elektrycznej w gospodarstwie domowym w tym samym miejscu zamieszkania w 2021 r. wyniosło więcej niż 5 MWh, dodatek elektryczny wynosi 1500 zł (art. 30 ust. 2 ustawy) . Aby uzyskać dodatek elektryczny w wysokości 1500 zł, do wniosku o wypłatę dodatku elektrycznego dołącza się rozliczenie z przedsiębiorstwem energetycznym wykonującym działalność gospodarczą w zakresie obrotu energią elektryczną lub zaświadczenie wydane przez to przedsiębiorstwo potwierdzające, że zużycie energii elektrycznej w gospodarstwie domowym w tym samym miejscu zamieszkania w 2021 r. wyniosło więcej niż 5 MWh (art. 31 ust. 1a ustawy). Skrócona instrukcja wypełniania: 1. Należy wypełniać WIELKIMI LITERAMI. 2. Pola wyboru należy zaznaczać V lub X . ORGAN, DO KTÓREGO JEST SKŁADANY WNIOSEK O WYPŁATĘ DODATKU ELEKTRYCZNEGO ………………………………………………………………………………………………………….. ………………………………………………………………………………………………………….. Dodatek elektryczny wypłaca wójt, burmistrz albo prezydent miasta właściwy ze względu na miejsce zamieszkania osoby fizycznej składającej wniosek o wypłatę dodatku elektrycznego.
 
 ## CZĘŚĆ I DANE DOTYCZĄCE WNIOSKODAWCY I JEGO GOSPODARSTWA DOMOWEGO
 

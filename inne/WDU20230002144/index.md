@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2144/text.pdf) |
 
 zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Suchy Młyn (PLH240016) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 29 sierpnia 2018 r. w sprawie specjalnego obszaru ochrony siedlisk Suchy Młyn (PLH240016) (Dz. U. poz. 1910) załącznik nr 5 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa GATUNKI ZWIERZĄT INNYCH NIŻ PTAKI, BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK SUCHY MŁYN (PLH240016) Lp. Nazwa polska Nazwa naukowa Populacja objęta ochroną 1 głowacz białopłetwy Cottus gobio osiadła 2 minóg strumieniowy Lampetra planeri osiadła 3 minóg ukraiński Eudontomyzon mariae osiadła 4 wydra Lutra lutra osiadła
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 29 sierpnia 2018 r. w sprawie specjalnego obszaru ochrony siedlisk Suchy Młyn (PLH240016) (Dz. U. poz. 1910) załącznik nr 5 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa GATUNKI ZWIERZĄT INNYCH NIŻ PTAKI, BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK SUCHY MŁYN (PLH240016) Lp. Nazwa polska Nazwa naukowa Populacja objęta ochroną 1 głowacz białopłetwy Cottus gobio osiadła 2 minóg strumieniowy Lampetra planeri osiadła 3 minóg ukraiński Eudontomyzon mariae osiadła 4 wydra Lutra lutra osiadła
 

@@ -29,7 +29,15 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 47 § 1-3 otrzymują brzmienie: „§ 1. W pierwszej instancji sąd rozpoznaje sprawy w składzie jednego sędziego, chyba że przepis szczególny stanowi inaczej. § 2. W pierwszej instancji sąd w składzie jednego sędziego jako przewodniczącego i dwóch ławników rozpoznaje sprawy: 1) z zakresu prawa pracy o: a) ustalenie istnienia, nawiązanie lub wygaśnięcie stosunku pracy, o uznanie bezskuteczności wypowiedzenia stosunku pracy, o przywrócenie do pracy i przywrócenie poprzednich warunków pracy lub płacy oraz łącznie z nimi dochodzone roszczenia i o odszkodowanie w przypadku nieuzasadnionego lub naruszającego przepisy wypowiedzenia oraz rozwiązania stosunku pracy, b) naruszenia zasady równego traktowania w zatrudnieniu i o roszczenia z tym związane, c) odszkodowanie lub zadośćuczynienie w wyniku stosowania mobbingu; 2) ze stosunków rodzinnych o: a) rozwód, b) separację, c) unieważnienie uznania dziecka, d) rozwiązanie przysposobienia. § 3. Postanowienia poza rozprawą oraz zarządzenia wydaje przewodniczący.”;
+- **1)** w art. 47 § 1-3 otrzymują brzmienie:
+
+  > „§ 1. W pierwszej instancji sąd rozpoznaje sprawy w składzie jednego sędziego, chyba że przepis szczególny stanowi inaczej.  
+  > § 2. W pierwszej instancji sąd w składzie jednego sędziego jako przewodniczącego i dwóch ławników rozpoznaje sprawy:  
+  > 1) z zakresu prawa pracy o:  
+  > a) ustalenie istnienia, nawiązanie lub wygaśnięcie stosunku pracy, o uznanie bezskuteczności wypowiedzenia stosunku pracy, o przywrócenie do pracy i przywrócenie poprzednich warunków pracy lub płacy oraz łącznie z nimi dochodzone roszczenia i o odszkodowanie w przypadku nieuzasadnionego lub naruszającego przepisy wypowiedzenia oraz rozwiązania stosunku pracy, b) naruszenia zasady równego traktowania w zatrudnieniu i o roszczenia z tym związane, c) odszkodowanie lub zadośćuczynienie w wyniku stosowania mobbingu;  
+  > 2) ze stosunków rodzinnych o:  
+  > a) rozwód, b) separację, c) unieważnienie uznania dziecka, d) rozwiązanie przysposobienia.  
+  > § 3. Postanowienia poza rozprawą oraz zarządzenia wydaje przewodniczący.”;  
 - **2)** w art. 185 § 2 otrzymuje brzmienie: „§ 2. Postępowanie pojednawcze przeprowadza sąd w składzie jednego sędziego.”;
 - **3)** art. 509 otrzymuje brzmienie: „Art. 509. Sprawy o przysposobienie, o pozbawienie lub ograniczenie władzy rodzicielskiej w pierwszej instancji sąd rozpoznaje w składzie jednego sędziego i dwóch ławników.”.
 
@@ -55,11 +63,21 @@ source: pdf
 
 **Art. 8.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** art. 28 otrzymuje brzmienie: „Art. 28. § 1. Na rozprawie głównej sąd orzeka w składzie jednego sędziego, jeżeli ustawa nie stanowi inaczej. Sędzia ma prawa i obowiązki przewodniczącego. § 2. W sprawach o zbrodnie sąd orzeka w składzie jednego sędziego i dwóch ławników. § 3. Ze względu na szczególną zawiłość sprawy sąd pierwszej instancji może postanowić o rozpoznaniu jej w składzie trzech sędziów. § 4. W sprawach o przestępstwa, za które ustawa przewiduje karę dożywotniego pozbawienia wolności, sąd orzeka w składzie dwóch sędziów i trzech ławników.”;
+- **1)** art. 28 otrzymuje brzmienie:
+
+  > „Art. 28.  
+  > § 1. Na rozprawie głównej sąd orzeka w składzie jednego sędziego, jeżeli ustawa nie stanowi inaczej. Sędzia ma prawa i obowiązki przewodniczącego.  
+  > § 2. W sprawach o zbrodnie sąd orzeka w składzie jednego sędziego i dwóch ławników.  
+  > § 3. Ze względu na szczególną zawiłość sprawy sąd pierwszej instancji może postanowić o rozpoznaniu jej w składzie trzech sędziów.  
+  > § 4. W sprawach o przestępstwa, za które ustawa przewiduje karę dożywotniego pozbawienia wolności, sąd orzeka w składzie dwóch sędziów i trzech ławników.”;  
 - **2)** w art. 30 § 1 otrzymuje brzmienie: „§ 1. Na posiedzeniu sąd rejonowy i sąd okręgowy orzeka jednoosobowo, a sąd apelacyjny i Sąd Najwyższy – w składzie trzech sędziów, jeżeli ustawa nie stanowi inaczej.”;
 - **3)** w art. 284 uchyla się § 1;
 - **4)** art. 373 otrzymuje brzmienie: „Art. 373. Od zarządzeń przewodniczącego wydanych na rozprawie głównej przysługuje odwołanie do składu orzekającego, chyba że sąd orzeka jednoosobowo.”;
-- **5)** art. 476 otrzymuje brzmienie: „Art. 476. § 1. Sprawy w trybie uproszczonym sąd rozpoznaje jednoosobowo; sędzia ma prawa i obowiązki przewodniczącego. Przepisu art. 28 § 3 nie stosuje się. § 2. Prezes sądu okręgowego może zarządzić rozpoznanie sprawy w postępowaniu odwoławczym w składzie jednego sędziego.”;
+- **5)** art. 476 otrzymuje brzmienie:
+
+  > „Art. 476.  
+  > § 1. Sprawy w trybie uproszczonym sąd rozpoznaje jednoosobowo; sędzia ma prawa i obowiązki przewodniczącego. Przepisu art. 28 § 3 nie stosuje się.  
+  > § 2. Prezes sądu okręgowego może zarządzić rozpoznanie sprawy w postępowaniu odwoławczym w składzie jednego sędziego.”;  
 - **6)** art. 483 otrzymuje brzmienie: „Art. 483. Jeżeli po rozpoczęciu przewodu sądowego okaże się, że sprawa nie podlega rozpoznaniu w postępowaniu uproszczonym, sąd za zgodą oskarżonego rozpoznaje sprawę w dalszym ciągu w postępowaniu zwyczajnym.”;
 - **7)** w art. 484 § 2 otrzymuje brzmienie: „§ 2. Jeżeli sprawy nie można rozpoznać w terminie wskazanym w § 1, sąd rozpoznaje sprawę w dalszym ciągu w postępowaniu zwyczajnym.”;
 - **8)** art. 486 uchyla się;

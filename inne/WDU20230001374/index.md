@@ -30,65 +30,64 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rozwoju i Technologii z dnia 15 grudnia 2022 r. zmieniającego rozporządzenie w sprawie przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi (Dz. U. poz. 2735), które stanowią: „ § 2. Do wniosków w sprawie przyznania nagrody rocznej osobom zatrudnionym w podmiotach prawnych: 1) o których mowa w art. 1 pkt 8 i 10 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, podległych do dnia 31 lipca 2022 r. ministrowi właściwemu do spraw gospodarki lub do dnia 31 lipca 2022 r. przez niego nadzorowanych, złożonych za 2021 r. i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe; 2) o których mowa w art. 1 pkt 9 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, nadzorowanych przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem. § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.”. Minister Rozwoju i Technologii: W. Buda
 ROZPORZĄDZENIE MINISTRA ROZWOJU z dnia 13 grudnia 2019 r.
 w sprawie przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi Na podstawie art. 10 ust. 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2019 r. poz. 2136) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) szczegółowe zasady i tryb przyznawania nagrody rocznej osobom, o których mowa w art. 2 pkt 1‒4 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zwanej dalej „ustawą”, zatrudnionym w podmiotach prawnych, o których mowa w art. 1:
-a) pkt 2 i 8 ustawy, podległych ministrowi właściwemu do spraw gospodarki lub przez niego nadzorowanych,
-b) pkt 9 ustawy, nadzorowanych przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
-2) wzór wniosku o przyznanie nagrody rocznej, o którym mowa w art. 10 ust. 2 ustawy.
-§ 2. Użyte w rozporządzeniu określenia oznaczają:
-1) podmiot – jednostkę organizacyjną wymienioną w art. 1 pkt 2, 8 lub 9 ustawy;
-2) uprawniony – osobę, o której mowa w art. 2 pkt 1‒4 ustawy, zatrudnioną w podmiocie;
-3) rok obrotowy – rok obrotowy w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r.
-poz. 120 i 295), za który przyznaje się nagrodę roczną.
-§ 3. Do przyznania nagrody rocznej właściwy jest:
-1) dla osób wymienionych w art. 2 pkt 1 ustawy, zatrudnionych w podmiotach, o których mowa w art. 1 pkt 2 i 8 ustawy – minister właściwy do spraw gospodarki;
-2) dla osób wymienionych w art. 2 pkt 1 ustawy, zatrudnionych w podmiotach, o których mowa w art. 1 pkt 9 ustawy – minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-§ 4. Nagroda roczna może być przyznana uprawnionemu, jeżeli podmiot, w którym uprawniony był zatrudniony, spełnił łącznie następujące przesłanki:
-1) skutecznie realizował wyznaczone zadania i cele;
-2) zwiększył efektywność funkcjonowania podmiotu;
-3) terminowo regulował zobowiązania o charakterze publicznoprawnym;
-4) uzyskał zatwierdzenie sprawozdania finansowego za rok obrotowy;
-5) uzyskał zatwierdzenie rocznego sprawozdania z działalności albo rocznego sprawozdania z realizacji zadań albo uzyskał pozytywną opinię rady naukowej, o której mowa w art. 23 pkt 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2022 r. poz. 498), zwanej dalej „radą naukowąˮ, w sprawie rocznego sprawozdania dyrektora z wykonania zadań.
-§ 5. 1. Wniosek o przyznanie nagrody rocznej zawiera:
-1) datę wniosku;
-2) nazwę podmiotu i jego siedzibę;
-3) wskazanie wnioskodawcy;
-4) oznaczenie adresata wniosku;
-5) imię (imiona) i nazwisko uprawnionego;
-6) pełnioną przez uprawnionego funkcję (zajmowane stanowisko) wraz z zakresem pełnionych obowiązków;
-7) datę objęcia przez uprawnionego funkcji (stanowiska) w podmiocie;
-8) wysokość przeciętnego wynagrodzenia uprawnionego w roku obrotowym;
-9) proponowaną wysokość nagrody rocznej wraz z uzasadnieniem jej wysokości;
-10) przesłanki przyznania nagrody rocznej wraz z uzasadnieniem;
-11) opis wpływu wypłaty nagrody rocznej na sytuację finansową podmiotu;
-12) podpis wnioskodawcy.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** szczegółowe zasady i tryb przyznawania nagrody rocznej osobom, o których mowa w art. 2 pkt 1‒4 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zwanej dalej „ustawą”, zatrudnionym w podmiotach prawnych, o których mowa w art. 1:
+    - **a)** pkt 2 i 8 ustawy, podległych ministrowi właściwemu do spraw gospodarki lub przez niego nadzorowanych,
+    - **b)** pkt 9 ustawy, nadzorowanych przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
+
+- **2)** wzór wniosku o przyznanie nagrody rocznej, o którym mowa w art. 10 ust. 2 ustawy.
+
+**§ 2.** Użyte w rozporządzeniu określenia oznaczają:
+
+- **1)** podmiot – jednostkę organizacyjną wymienioną w art. 1 pkt 2, 8 lub 9 ustawy;
+- **2)** uprawniony – osobę, o której mowa w art. 2 pkt 1‒4 ustawy, zatrudnioną w podmiocie;
+- **3)** rok obrotowy – rok obrotowy w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120 i 295), za który przyznaje się nagrodę roczną.
+
+**§ 3.** Do przyznania nagrody rocznej właściwy jest:
+
+- **1)** dla osób wymienionych w art. 2 pkt 1 ustawy, zatrudnionych w podmiotach, o których mowa w art. 1 pkt 2 i 8 ustawy – minister właściwy do spraw gospodarki;
+- **2)** dla osób wymienionych w art. 2 pkt 1 ustawy, zatrudnionych w podmiotach, o których mowa w art. 1 pkt 9 ustawy – minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+
+**§ 4.** Nagroda roczna może być przyznana uprawnionemu, jeżeli podmiot, w którym uprawniony był zatrudniony, spełnił łącznie następujące przesłanki:
+
+- **1)** skutecznie realizował wyznaczone zadania i cele;
+- **2)** zwiększył efektywność funkcjonowania podmiotu;
+- **3)** terminowo regulował zobowiązania o charakterze publicznoprawnym;
+- **4)** uzyskał zatwierdzenie sprawozdania finansowego za rok obrotowy;
+- **5)** uzyskał zatwierdzenie rocznego sprawozdania z działalności albo rocznego sprawozdania z realizacji zadań albo uzyskał pozytywną opinię rady naukowej, o której mowa w art. 23 pkt 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2022 r. poz. 498), zwanej dalej „radą naukowąˮ, w sprawie rocznego sprawozdania dyrektora z wykonania zadań.
+
+**§ 5.**
+
+1. Wniosek o przyznanie nagrody rocznej zawiera:
+
+- **1)** datę wniosku;
+- **2)** nazwę podmiotu i jego siedzibę;
+- **3)** wskazanie wnioskodawcy;
+- **4)** oznaczenie adresata wniosku;
+- **5)** imię (imiona) i nazwisko uprawnionego;
+- **6)** pełnioną przez uprawnionego funkcję (zajmowane stanowisko) wraz z zakresem pełnionych obowiązków;
+- **7)** datę objęcia przez uprawnionego funkcji (stanowiska) w podmiocie;
+- **8)** wysokość przeciętnego wynagrodzenia uprawnionego w roku obrotowym;
+- **9)** proponowaną wysokość nagrody rocznej wraz z uzasadnieniem jej wysokości;
+- **10)** przesłanki przyznania nagrody rocznej wraz z uzasadnieniem;
+- **11)** opis wpływu wypłaty nagrody rocznej na sytuację finansową podmiotu;
+- **12)** podpis wnioskodawcy.
+
 2. Do wniosku dołącza się:
-1) sprawozdanie, o którym mowa w § 4 pkt 5, wraz z dokumentem zatwierdzającym to sprawozdanie albo z pozytywną opinią rady naukowej w sprawie tego sprawozdania;
-2) sprawozdanie finansowe podmiotu za rok obrotowy wraz z dokumentem zatwierdzającym to sprawozdanie;
-3) oświadczenie o terminowym regulowaniu przez podmiot zobowiązań o charakterze publicznoprawnym.
+
+- **1)** sprawozdanie, o którym mowa w § 4 pkt 5, wraz z dokumentem zatwierdzającym to sprawozdanie albo z pozytywną opinią rady naukowej w sprawie tego sprawozdania;
+- **2)** sprawozdanie finansowe podmiotu za rok obrotowy wraz z dokumentem zatwierdzającym to sprawozdanie;
+- **3)** oświadczenie o terminowym regulowaniu przez podmiot zobowiązań o charakterze publicznoprawnym.
+
 3. Wnioskodawca składa wniosek o przyznanie nagrody rocznej w terminie 3 miesięcy od dnia, w którym została spełniona ostatnia z przesłanek, o których mowa w § 4 pkt 4 i 5.
-§ 6. Wzór wniosku o przyznanie nagrody rocznej, o którym mowa w art. 10 ust. 2 ustawy, określa załącznik do rozporządzenia.
-§ 7. Do wniosków w sprawie przyznania nagrody rocznej złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 8. Traci moc rozporządzenie Ministra Gospodarki z dnia 3 lipca 2001 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi oraz wzoru wniosku o przyznanie nagrody rocznej (Dz. U. poz. 771 oraz z 2011 r. poz. 1409).
-§ 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WZÓR WNIOSEK O PRZYZNANIE NAGRODY ROCZNEJ .….....................
-..........................................................
-..........................................................
-..........................................................
-................................................
-................................................
-1. Imię (imiona) i nazwisko uprawnionego: ............................................................................................................................................................................................
-2. Pełniona przez uprawnionego funkcja (zajmowane stanowisko) wraz z zakresem pełnionych obowiązków: ............................................................................................................................................................................................
-3. Data objęcia przez uprawnionego funkcji (stanowiska) w podmiocie: ............................................................................................................................................................................................
-4. Wysokość przeciętnego wynagrodzenia uprawnionego w roku obrotowym podana kwotowo oraz jako wielokrotność przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego: ............................................................................................................................................................................................
-5. Proponowana wysokość nagrody rocznej dla uprawnionego podana kwotowo oraz jako wielokrotność przeciętnego miesięcznego wynagrodzenia uprawnionego wraz z uzasadnieniem jej wysokości: ............................................................................................................................................................................................
-............................................................................................................................................................................................
-............................................................................................................................................................................................
-6. Przesłanki przyznania nagrody rocznej wraz z uzasadnieniem : ............................................................................................................................................................................................
-............................................................................................................................................................................................
-7. Opis wpływu wypłaty nagrody rocznej na sytuację finansową podmiotu: ............................................................................................................................................................................................
-............................................................................................................................................................................................
-8. Dokumenty, o których mowa w § 5 ust. 2 rozporządzenia Ministra Rozwoju z dnia 13 grudnia 2019 r. w sprawie przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi, dołączone do wniosku: ............................................................................................................................................................................................
-............................................................................................................................................................................................
-.................................................
+
+**§ 6.** Wzór wniosku o przyznanie nagrody rocznej, o którym mowa w art. 10 ust. 2 ustawy, określa załącznik do rozporządzenia.
+
+**§ 7.** Do wniosków w sprawie przyznania nagrody rocznej złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 8.** Traci moc rozporządzenie Ministra Gospodarki z dnia 3 lipca 2001 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi oraz wzoru wniosku o przyznanie nagrody rocznej (Dz. U. poz. 771 oraz z 2011 r. poz. 1409).
+
+**§ 9.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WZÓR WNIOSEK O PRZYZNANIE NAGRODY ROCZNEJ .…..................... .......................................................... .......................................................... .......................................................... ................................................ ................................................ 1. Imię (imiona) i nazwisko uprawnionego: ............................................................................................................................................................................................ 2. Pełniona przez uprawnionego funkcja (zajmowane stanowisko) wraz z zakresem pełnionych obowiązków: ............................................................................................................................................................................................ 3. Data objęcia przez uprawnionego funkcji (stanowiska) w podmiocie: ............................................................................................................................................................................................ 4. Wysokość przeciętnego wynagrodzenia uprawnionego w roku obrotowym podana kwotowo oraz jako wielokrotność przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego: ............................................................................................................................................................................................ 5. Proponowana wysokość nagrody rocznej dla uprawnionego podana kwotowo oraz jako wielokrotność przeciętnego miesięcznego wynagrodzenia uprawnionego wraz z uzasadnieniem jej wysokości: ............................................................................................................................................................................................ ............................................................................................................................................................................................ ............................................................................................................................................................................................ 6. Przesłanki przyznania nagrody rocznej wraz z uzasadnieniem : ............................................................................................................................................................................................ ............................................................................................................................................................................................ 7. Opis wpływu wypłaty nagrody rocznej na sytuację finansową podmiotu: ............................................................................................................................................................................................ ............................................................................................................................................................................................ 8. Dokumenty, o których mowa w § 5 ust. 2 rozporządzenia Ministra Rozwoju z dnia 13 grudnia 2019 r. w sprawie przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi, dołączone do wniosku: ............................................................................................................................................................................................ ............................................................................................................................................................................................ .................................................
 

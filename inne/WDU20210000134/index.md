@@ -30,9 +30,15 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkoln
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 23 października 2017 r. zmieniającego rozporządzenie w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 2026), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Edukacji i Nauki: P. Czarnek
 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 9 września 2010 r.
 w sprawie statutu Narodowego Centrum Nauki Na podstawie art. 1 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2019 r. poz. 1384) zarządza się, co następuje:
-§ 1. Narodowemu Centrum Nauki nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2010 r.
-STATUT NARODOWEGO CENTRUM NAUKI
+
+**§ 1.** Narodowemu Centrum Nauki nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2010 r. STATUT NARODOWEGO CENTRUM NAUKI
+
+#### Rozdział 1 Szczegółowy zakres zadań i tryb pracy organów Narodowego Centrum Nauki
+
+## Załącznik
+
 § 1. Organami Narodowego Centrum Nauki, zwanego dalej „Centrum”, są:
 1) Dyrektor Narodowego Centrum Nauki, zwany dalej „Dyrektorem”;
 2) Rada Narodowego Centrum Nauki, zwana dalej „Radą”.
@@ -105,6 +111,7 @@ STATUT NARODOWEGO CENTRUM NAUKI
 3) przyjęty porządek obrad;
 4) przebieg obrad i treść uchwał.
 3. Protokoły przechowuje się w Biurze.
+Rozdział 2 Organizacja Biura
 § 16. Do zadań Biura należy administracyjna obsługa Centrum.
 § 17. 1. W skład Biura wchodzą:
 1) komórki organizacyjne właściwe do spraw:
@@ -117,8 +124,4 @@ e) finansowo-księgowych;
 2. Bezpośredni nadzór nad komórkami, o których mowa w ust. 1 pkt 1 lit. a–d, sprawują Dyrektor lub zastępcy Dyrektora na zasadach określonych w regulaminie organizacyjnym Centrum.
 3. Bezpośredni nadzór nad komórką właściwą do spraw finansowo-księgowych sprawuje główny księgowy Centrum.
 4. Szczegółową organizację i sposób działania Biura, w tym nazwy oraz zadania komórek organizacyjnych, określa regulamin organizacyjny Biura nadany przez Dyrektora.
-
-#### Rozdział 1 Szczegółowy zakres zadań i tryb pracy organów Narodowego Centrum Nauki
-
-#### Rozdział 2 Organizacja Biura
 

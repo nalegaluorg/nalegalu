@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie warunków bezpieczeństwa wykonywania prac podwodnych w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej Na podstawie art. 8 ust. 6 ustawy z dnia 17 października 2003 r. o wykonywaniu prac podwodnych (Dz. U. z 2020 r.
 poz. 397) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 21 czerwca 2012 r. w sprawie warunków bezpieczeństwa wykonywania prac podwodnych w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej (Dz. U. z 2018 r. poz. 2112) w załączniku nr 9 pkt 33 otrzymuje brzmienie: „33. Do podwodnych działań bojowych nie stosuje się pkt 1, 4, 5, 8 oraz 19–24.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: wz. W. Skurkiewicz
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 21 czerwca 2012 r. w sprawie warunków bezpieczeństwa wykonywania prac podwodnych w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej (Dz. U. z 2018 r. poz. 2112) w załączniku nr 9 pkt 33 otrzymuje brzmienie: „33. Do podwodnych działań bojowych nie stosuje się pkt 1, 4, 5, 8 oraz 19–24.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: wz. W. Skurkiewicz
 

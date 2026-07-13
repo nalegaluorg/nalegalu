@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie Komisji Heraldycznej Na podstawie art. 2a ust. 5 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. Nr 31, poz. 130, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 27 lipca 1999 r. w sprawie Komisji Heraldycznej (Dz. U. Nr 70, poz. 779) w § 11 wyrazy „Ministerstwo Spraw Wewnętrznych i Administracji” zastępuje się wyrazami „ministerstwo zapewniające obsługę ministra właściwego do spraw administracji publicznej”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 27 lipca 1999 r. w sprawie Komisji Heraldycznej (Dz. U. Nr 70, poz. 779) w § 11 wyrazy „Ministerstwo Spraw Wewnętrznych i Administracji” zastępuje się wyrazami „ministerstwo zapewniające obsługę ministra właściwego do spraw administracji publicznej”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

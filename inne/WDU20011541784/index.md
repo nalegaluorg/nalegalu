@@ -38,7 +38,11 @@ source: pdf
 **Art. 3.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz.U. Nr 110, poz. 1255, z 2000 r. Nr 19, poz. 239 oraz z 2001 r. Nr 85, poz. 924 i Nr 100, poz. 1080) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w pkt 1 w lit. d) skreśla się wyraz „zawodowi”;
-- **2)** w art. 9 ust. 2 otrzymuje brzmienie: „2. Limity zatrudnienia ustala się łącznie dla sędziów, prokuratorów, asesorów i aplikantów sądowych i prokuratorskich, o których mowa w art. 5 pkt 1 lit. a) i b), oraz łącznie dla żołnierzy i funkcjonariuszy, o których mowa w art. 5 pkt 1 lit. c) i d).”;
+- **2)** w art. 9 ust. 2 otrzymuje brzmienie:
+
+  > „2. Limity zatrudnienia ustala się łącznie dla sędziów, prokuratorów, asesorów i aplikantów sądowych i prokuratorskich, o których mowa w art. 5 pkt 1 lit.  
+  > a) i b), oraz łącznie dla żołnierzy i funkcjonariuszy, o których mowa w art. 5 pkt 1 lit.  
+  > c) i d).”;  
 - **3)** dodaje się art. 10a w brzmieniu: „Art. 10a. Upoważnia się ministra właściwego do spraw finansów do dokonywania przeniesień kwoty środków na uposażenia, nagrody roczne i pozostałe należności żołnierzy i funkcjonariuszy - między częściami i działami - odpowiednio na wniosek Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw wewnętrznych oraz Szefa Urzędu Ochrony Państwa.”;
 - **4)** dodaje się art. 29a w brzmieniu: „Art. 29a. W 2002 r. kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana.”.
 

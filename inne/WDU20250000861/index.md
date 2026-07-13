@@ -28,244 +28,394 @@ source: pdf
 
 w sprawie kas rejestrujących mających postać oprogramowania Na podstawie art. 111b ust. 3 pkt 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r.
 poz. 775) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wymagania techniczne dla kas rejestrujących mających postać oprogramowania, zwanych dalej „kasami”, oraz sposób ich używania, w tym sposób prowadzenia ewidencji sprzedaży przy ich użyciu, sposób zakończenia ich używania w przypadku zakończenia działalności gospodarczej lub pracy kas oraz sposób wystawiania dokumentów z kas i szczególne przypadki wydawania nabywcy dowodu sprzedaży.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) bazie danych kasy – rozumie się przez to bazę zawartą w kasie, w której są zapisywane i przechowywane dane określone w § 1 ust. 2 załącznika nr 1 do rozporządzenia;
-2) certyfikacie kasy – rozumie się przez to unikatowy certyfikat klucza publicznego przydzielony danej kasie i w niej zawarty, wystawiany przez producenta tej kasy i podpisany certyfikatem producenta, zawierający numer unikatowy i numer identyfikacji podatkowej (NIP) podatnika;
-3) certyfikacie producenta – rozumie się przez to certyfikat nadrzędny, którym są podpisywane wyłącznie certyfikaty kas, zawierający dane umożliwiające weryfikację przynależności klucza publicznego do danego producenta;
-4) dokumencie fiskalnym – rozumie się przez to dokument wystawiany przy użyciu kasy, zawierający w szczególności logo fiskalne i numer unikatowy, obejmujący paragon fiskalny, paragon fiskalny anulowany i raporty fiskalne;
-5) dokumencie niefiskalnym – rozumie się przez to dokument wystawiany przy użyciu kasy, inny niż dokument fiskalny, zawierający w szczególności oznaczenie „NIEFISKALNY” i niezawierający logo fiskalnego;
-6) dokumencie w postaci elektronicznej – rozumie się przez to utworzony przez kasę zbiór ustrukturyzowanych i uporządkowanych danych z dokumentów fiskalnych i niefiskalnych, zapisywanych w bazie danych kasy, w formacie określonym w protokole komunikacyjnym przesyłania danych w przypadku dokumentów fiskalnych;
-7) drukarce – rozumie się przez to urządzenie drukujące wszystkie dokumenty dopuszczone programem pracy kasy do druku przez kasę;
-8) ewidencji – rozumie się przez to ewidencję sprzedaży prowadzoną przy użyciu kasy;
-9) fiskalizacji – rozumie się przez to jednokrotny i niepowtarzalny proces inicjujący pracę kasy, zakończony wystawieniem raportu fiskalnego fiskalizacji, pobraniem i zapisem w bazie danych kasy harmonogramu przesyłania danych oraz uruchomieniem trybu fiskalnego kasy;
-10) kluczu współdzielonym – rozumie się przez to klucz udostępniany przez urząd obsługujący ministra właściwego do spraw finansów publicznych, używany jako klucz wmieszany dla kodów uwierzytelniania wiadomości, opisany w protokole komunikacyjnym przesyłania danych;
-11) logo fiskalnym – rozumie się przez to:
-a) w przypadku dokumentów fiskalnych w postaci elektronicznej – oznaczenie „PLF”,
-b) w przypadku dokumentów fiskalnych w postaci papierowej – symbol graficzny, którego wzór określa załącznik nr 2 do rozporządzenia;
-12) numerze ewidencyjnym – rozumie się przez to indywidualny i niepowtarzalny numer nadawany kasie podczas fiskalizacji, zapisany w bazie danych kasy, identyfikujący kasę w Centralnym Repozytorium Kas;
-13) numerze unikatowym – rozumie się przez to indywidualny i niepowtarzalny numer nadawany kasie, zapisany w bazie danych kasy, identyfikujący jednoznacznie każdą kasę z przydzielonym jej certyfikatem kasy;
-14) paragonie fiskalnym – rozumie się przez to dokument fiskalny wystawiany przy użyciu kasy i wydawany nabywcy podczas sprzedaży, potwierdzający dokonanie sprzedaży;
-15) paragonie fiskalnym anulowanym – rozumie się przez to dokument fiskalny wystawiany przy użyciu kasy podczas sprzedaży, potwierdzający niedokonanie rozpoczętej sprzedaży;
-16) podatku – rozumie się przez to podatek od towarów i usług;
-17) podatniku – rozumie się przez to podatnika podatku od towarów i usług;
-18) podpisie cyfrowym – rozumie się przez to dane dołączone do danych lub ich przekształcenie kryptograficzne w rozumieniu normy ISO 7498-2:1989, które pozwalają odbiorcy danych potwierdzić pochodzenie danych i zabezpieczyć je przed fałszerstwem;
-19) producencie – rozumie się przez to producenta krajowego lub podmiot dokonujący wewnątrzwspólnotowego nabycia lub importu kas w celu wprowadzenia ich do obrotu;
-20) producencie krajowym – rozumie się przez to osobę prawną, jednostkę organizacyjną niemającą osobowości prawnej oraz osobę fizyczną mającą siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, która w zakresie prowadzonej działalności gospodarczej wytworzyła i wprowadza do obrotu kasy;
-21) programie pracy kasy – rozumie się przez to program odpowiedzialny za realizację funkcji kasy;
-22) przesyłaniu danych – rozumie się przez to przesyłanie dokumentów fiskalnych i niefiskalnych oraz innych danych zapisanych w bazie danych kasy do Centralnego Repozytorium Kas, a także przesyłanie z Centralnego Repozytorium Kas do kasy poleceń dotyczących pracy kas;
-23) raporcie fiskalnym dobowym, raporcie fiskalnym okresowym, w tym miesięcznym, raporcie fiskalnym rozliczeniowym, łącznym raporcie fiskalnym okresowym, w tym miesięcznym, i łącznym raporcie fiskalnym rozliczeniowym – rozumie się przez to odpowiednio pełny lub skrócony (łączny) raport fiskalny zawierający w szczególności dane sumaryczne o wartości sprzedaży i wysokości podatku należnego w ujęciu według poszczególnych stawek podatku oraz wartości sprzedaży zwolnionej od podatku odpowiednio za daną dobę, wybrany okres lub cały okres pracy kasy;
-24) raporcie fiskalnym fiskalizacji – rozumie się przez to raport fiskalny wystawiany przy użyciu kasy, potwierdzający dokonanie fiskalizacji i przesyłany do Centralnego Repozytorium Kas;
-25) raporcie fiskalnym zdarzeń – rozumie się przez to raport fiskalny wystawiany przy użyciu kasy zawierający dane o zdarzeniach;
-26) skrócie SHA2 – rozumie się przez to skrót kryptograficzny o długości 256 bitów wytworzony przy użyciu algorytmu kryptograficznego z rodziny SHA2, opisany w protokole komunikacyjnym przesyłania danych i umieszczany na wystawianych przy użyciu kasy dokumentach fiskalnych;
-27) sumie kontrolnej – rozumie się przez to unikalny ciąg znaków obliczony z zawartości programu przy użyciu algorytmu opisanego w protokole komunikacyjnym przesyłania danych;
-28) trybie fiskalnym – rozumie się przez to tryb pracy kasy obejmujący nieprzerwany okres od czasu dokonania fiskalizacji do czasu wystawienia raportu fiskalnego rozliczeniowego albo łącznego raportu fiskalnego rozliczeniowego;
-29) trybie obsługi kasy – rozumie się przez to tryb pracy kasy, podczas którego kasa nie wystawia dokumentów fiskalnych, nie wykonuje zapisów w bazie danych kasy i zapewnia przesyłanie danych wyłącznie w celu sprawdzenia poprawności działania kasy, w tym jej komunikacji z Centralnym Repozytorium Kas;
-30) trybie tylko do odczytu – rozumie się przez to tryb, w którym jest możliwy odczyt danych z bazy danych kasy zapisanych w okresie poprzedzającym przejście kasy w tryb tylko do odczytu oraz jest niemożliwy zapis kolejnych danych w bazie danych kasy, a także jest niemożliwa zmiana tego trybu na inny;
-31) ustawie – rozumie się przez to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług;
-32) wprowadzaniu do obrotu – rozumie się przez to wprowadzanie do obrotu na terytorium Rzeczypospolitej Polskiej;
-33) wystawianiu dokumentu przy użyciu kasy – rozumie się przez to utworzenie i zapis dokumentu w bazie danych kasy, a w przypadku dokumentów w postaci papierowej – także jego wydruk;
-34) zdarzeniach – rozumie się przez to zdarzenia mające znaczenie dla pracy kasy, które wystąpiły podczas używania kasy, określone w § 2 załącznika nr 1 do rozporządzenia.
-§ 3. 1. Kasa posiada certyfikaty kasy.
+
+#### Rozdział 1 Przepisy ogólne
+
+**§ 1.** Rozporządzenie określa wymagania techniczne dla kas rejestrujących mających postać oprogramowania, zwanych dalej „kasami”, oraz sposób ich używania, w tym sposób prowadzenia ewidencji sprzedaży przy ich użyciu, sposób zakończenia ich używania w przypadku zakończenia działalności gospodarczej lub pracy kas oraz sposób wystawiania dokumentów z kas i szczególne przypadki wydawania nabywcy dowodu sprzedaży.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** bazie danych kasy – rozumie się przez to bazę zawartą w kasie, w której są zapisywane i przechowywane dane określone w § 1 ust. 2 załącznika nr 1 do rozporządzenia;
+- **2)** certyfikacie kasy – rozumie się przez to unikatowy certyfikat klucza publicznego przydzielony danej kasie i w niej zawarty, wystawiany przez producenta tej kasy i podpisany certyfikatem producenta, zawierający numer unikatowy i numer identyfikacji podatkowej (NIP) podatnika;
+- **3)** certyfikacie producenta – rozumie się przez to certyfikat nadrzędny, którym są podpisywane wyłącznie certyfikaty kas, zawierający dane umożliwiające weryfikację przynależności klucza publicznego do danego producenta;
+- **4)** dokumencie fiskalnym – rozumie się przez to dokument wystawiany przy użyciu kasy, zawierający w szczególności logo fiskalne i numer unikatowy, obejmujący paragon fiskalny, paragon fiskalny anulowany i raporty fiskalne;
+- **5)** dokumencie niefiskalnym – rozumie się przez to dokument wystawiany przy użyciu kasy, inny niż dokument fiskalny, zawierający w szczególności oznaczenie „NIEFISKALNY” i niezawierający logo fiskalnego;
+- **6)** dokumencie w postaci elektronicznej – rozumie się przez to utworzony przez kasę zbiór ustrukturyzowanych i uporządkowanych danych z dokumentów fiskalnych i niefiskalnych, zapisywanych w bazie danych kasy, w formacie określonym w protokole komunikacyjnym przesyłania danych w przypadku dokumentów fiskalnych;
+- **7)** drukarce – rozumie się przez to urządzenie drukujące wszystkie dokumenty dopuszczone programem pracy kasy do druku przez kasę;
+- **8)** ewidencji – rozumie się przez to ewidencję sprzedaży prowadzoną przy użyciu kasy;
+- **9)** fiskalizacji – rozumie się przez to jednokrotny i niepowtarzalny proces inicjujący pracę kasy, zakończony wystawieniem raportu fiskalnego fiskalizacji, pobraniem i zapisem w bazie danych kasy harmonogramu przesyłania danych oraz uruchomieniem trybu fiskalnego kasy;
+- **10)** kluczu współdzielonym – rozumie się przez to klucz udostępniany przez urząd obsługujący ministra właściwego do spraw finansów publicznych, używany jako klucz wmieszany dla kodów uwierzytelniania wiadomości, opisany w protokole komunikacyjnym przesyłania danych;
+- **11)** logo fiskalnym – rozumie się przez to:
+    - **a)** w przypadku dokumentów fiskalnych w postaci elektronicznej – oznaczenie „PLF”,
+    - **b)** w przypadku dokumentów fiskalnych w postaci papierowej – symbol graficzny, którego wzór określa załącznik nr 2 do rozporządzenia;
+
+- **12)** numerze ewidencyjnym – rozumie się przez to indywidualny i niepowtarzalny numer nadawany kasie podczas fiskalizacji, zapisany w bazie danych kasy, identyfikujący kasę w Centralnym Repozytorium Kas;
+- **13)** numerze unikatowym – rozumie się przez to indywidualny i niepowtarzalny numer nadawany kasie, zapisany w bazie danych kasy, identyfikujący jednoznacznie każdą kasę z przydzielonym jej certyfikatem kasy;
+- **14)** paragonie fiskalnym – rozumie się przez to dokument fiskalny wystawiany przy użyciu kasy i wydawany nabywcy podczas sprzedaży, potwierdzający dokonanie sprzedaży;
+- **15)** paragonie fiskalnym anulowanym – rozumie się przez to dokument fiskalny wystawiany przy użyciu kasy podczas sprzedaży, potwierdzający niedokonanie rozpoczętej sprzedaży;
+- **16)** podatku – rozumie się przez to podatek od towarów i usług;
+- **17)** podatniku – rozumie się przez to podatnika podatku od towarów i usług;
+- **18)** podpisie cyfrowym – rozumie się przez to dane dołączone do danych lub ich przekształcenie kryptograficzne w rozumieniu normy ISO 7498-2:1989, które pozwalają odbiorcy danych potwierdzić pochodzenie danych i zabezpieczyć je przed fałszerstwem;
+- **19)** producencie – rozumie się przez to producenta krajowego lub podmiot dokonujący wewnątrzwspólnotowego nabycia lub importu kas w celu wprowadzenia ich do obrotu;
+- **20)** producencie krajowym – rozumie się przez to osobę prawną, jednostkę organizacyjną niemającą osobowości prawnej oraz osobę fizyczną mającą siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, która w zakresie prowadzonej działalności gospodarczej wytworzyła i wprowadza do obrotu kasy;
+- **21)** programie pracy kasy – rozumie się przez to program odpowiedzialny za realizację funkcji kasy;
+- **22)** przesyłaniu danych – rozumie się przez to przesyłanie dokumentów fiskalnych i niefiskalnych oraz innych danych zapisanych w bazie danych kasy do Centralnego Repozytorium Kas, a także przesyłanie z Centralnego Repozytorium Kas do kasy poleceń dotyczących pracy kas;
+- **23)** raporcie fiskalnym dobowym, raporcie fiskalnym okresowym, w tym miesięcznym, raporcie fiskalnym rozliczeniowym, łącznym raporcie fiskalnym okresowym, w tym miesięcznym, i łącznym raporcie fiskalnym rozliczeniowym – rozumie się przez to odpowiednio pełny lub skrócony (łączny) raport fiskalny zawierający w szczególności dane sumaryczne o wartości sprzedaży i wysokości podatku należnego w ujęciu według poszczególnych stawek podatku oraz wartości sprzedaży zwolnionej od podatku odpowiednio za daną dobę, wybrany okres lub cały okres pracy kasy;
+- **24)** raporcie fiskalnym fiskalizacji – rozumie się przez to raport fiskalny wystawiany przy użyciu kasy, potwierdzający dokonanie fiskalizacji i przesyłany do Centralnego Repozytorium Kas;
+- **25)** raporcie fiskalnym zdarzeń – rozumie się przez to raport fiskalny wystawiany przy użyciu kasy zawierający dane o zdarzeniach;
+- **26)** skrócie SHA2 – rozumie się przez to skrót kryptograficzny o długości 256 bitów wytworzony przy użyciu algorytmu kryptograficznego z rodziny SHA2, opisany w protokole komunikacyjnym przesyłania danych i umieszczany na wystawianych przy użyciu kasy dokumentach fiskalnych;
+- **27)** sumie kontrolnej – rozumie się przez to unikalny ciąg znaków obliczony z zawartości programu przy użyciu algorytmu opisanego w protokole komunikacyjnym przesyłania danych;
+- **28)** trybie fiskalnym – rozumie się przez to tryb pracy kasy obejmujący nieprzerwany okres od czasu dokonania fiskalizacji do czasu wystawienia raportu fiskalnego rozliczeniowego albo łącznego raportu fiskalnego rozliczeniowego;
+- **29)** trybie obsługi kasy – rozumie się przez to tryb pracy kasy, podczas którego kasa nie wystawia dokumentów fiskalnych, nie wykonuje zapisów w bazie danych kasy i zapewnia przesyłanie danych wyłącznie w celu sprawdzenia poprawności działania kasy, w tym jej komunikacji z Centralnym Repozytorium Kas;
+- **30)** trybie tylko do odczytu – rozumie się przez to tryb, w którym jest możliwy odczyt danych z bazy danych kasy zapisanych w okresie poprzedzającym przejście kasy w tryb tylko do odczytu oraz jest niemożliwy zapis kolejnych danych w bazie danych kasy, a także jest niemożliwa zmiana tego trybu na inny;
+- **31)** ustawie – rozumie się przez to ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług;
+- **32)** wprowadzaniu do obrotu – rozumie się przez to wprowadzanie do obrotu na terytorium Rzeczypospolitej Polskiej;
+- **33)** wystawianiu dokumentu przy użyciu kasy – rozumie się przez to utworzenie i zapis dokumentu w bazie danych kasy, a w przypadku dokumentów w postaci papierowej – także jego wydruk;
+- **34)** zdarzeniach – rozumie się przez to zdarzenia mające znaczenie dla pracy kasy, które wystąpiły podczas używania kasy, określone w § 2 załącznika nr 1 do rozporządzenia.
+
+#### Rozdział 2 Wymagania techniczne dla kas
+
+**§ 3.**
+
+1. Kasa posiada certyfikaty kasy.
+
 2. Certyfikaty kas są ważne nie krócej niż 5 lat i nie dłużej niż 10 lat od daty wystawienia.
-§ 4. 1. Kasy, ze względu na przeznaczenie do prowadzenia ewidencji danego rodzaju sprzedaży lub w dany sposób, dzieli się na następujące kategorie:
-1) kasy ogólne – kasy przeznaczone do prowadzenia ewidencji w sposób niewymagający stosowania specjalnych funkcji;
-2) kasy o zastosowaniu specjalnym – kasy, które uwzględniają szczególne zastosowanie tych kas i odpowiadają szczególnym wymaganiom technicznym określonym w rozdziale 4 załącznika nr 1 do rozporządzenia, związanym ze szczególnymi formami prowadzenia ewidencji lub sprzedaży określonych towarów i usług lub potrzebą współpracy kasy z innymi urządzeniami niezbędnymi do stosowania w danym rodzaju działalności, obejmujące kasy:
-a) przeznaczone do prowadzenia ewidencji przy świadczeniu usług przewozu osób samochodem osobowym, w tym taksówką, z wyjątkiem przewozu okazjonalnego, o którym mowa w art. 18 ust. 4b pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539, 1544 i 1855),
-b) przeznaczone do prowadzenia ewidencji przy sprzedaży leków, z funkcją rozliczania recept refundowanych,
-c) przeznaczone do prowadzenia ewidencji przy świadczeniu usług w zakresie transportu pasażerskiego, zwane dalej „kasami biletowymi”,
-d) rozliczające więcej niż jedną transakcję równocześnie,
-e) przeznaczone do prowadzenia ewidencji przy sprzedaży towarów i usług w wolnych obszarach celnych lub składach celnych,
-f) umieszczane w urządzeniach do automatycznej sprzedaży towarów lub usług.
+
+**§ 4.**
+
+1. Kasy, ze względu na przeznaczenie do prowadzenia ewidencji danego rodzaju sprzedaży lub w dany sposób, dzieli się na następujące kategorie:
+
+- **1)** kasy ogólne – kasy przeznaczone do prowadzenia ewidencji w sposób niewymagający stosowania specjalnych funkcji;
+- **2)** kasy o zastosowaniu specjalnym – kasy, które uwzględniają szczególne zastosowanie tych kas i odpowiadają szczególnym wymaganiom technicznym określonym w rozdziale 4 załącznika nr 1 do rozporządzenia, związanym ze szczególnymi formami prowadzenia ewidencji lub sprzedaży określonych towarów i usług lub potrzebą współpracy kasy z innymi urządzeniami niezbędnymi do stosowania w danym rodzaju działalności, obejmujące kasy:
+    - **a)** przeznaczone do prowadzenia ewidencji przy świadczeniu usług przewozu osób samochodem osobowym, w tym taksówką, z wyjątkiem przewozu okazjonalnego, o którym mowa w art. 18 ust. 4b pkt 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539, 1544 i 1855),
+    - **b)** przeznaczone do prowadzenia ewidencji przy sprzedaży leków, z funkcją rozliczania recept refundowanych,
+    - **c)** przeznaczone do prowadzenia ewidencji przy świadczeniu usług w zakresie transportu pasażerskiego, zwane dalej „kasami biletowymi”,
+    - **d)** rozliczające więcej niż jedną transakcję równocześnie,
+    - **e)** przeznaczone do prowadzenia ewidencji przy sprzedaży towarów i usług w wolnych obszarach celnych lub składach celnych,
+    - **f)** umieszczane w urządzeniach do automatycznej sprzedaży towarów lub usług.
+
 2. W kasie mogą być łączone różne kategorie kas, o których mowa w ust. 1, o ile kasa spełnia wymagania techniczne dla każdej z tych kategorii kas.
-§ 5. Wymagania techniczne dla kas dotyczące ich zawartości, zapisu i przechowywania danych, wystawianych dokumentów, pracy kasy oraz kas o zastosowaniu specjalnym określa załącznik nr 1 do rozporządzenia.
-§ 6. 1. Podatnicy prowadzą ewidencję każdej czynności sprzedaży, w tym sprzedaży zwolnionej od podatku, przy użyciu kas, które spełniają funkcje wymienione w art. 111 ust. 6a ustawy, wymagania techniczne określone w załączniku nr 1 do rozporządzenia i posiadają ważne certyfikaty kasy.
+
+**§ 5.** Wymagania techniczne dla kas dotyczące ich zawartości, zapisu i przechowywania danych, wystawianych dokumentów, pracy kasy oraz kas o zastosowaniu specjalnym określa załącznik nr 1 do rozporządzenia.
+
+#### Rozdział 3 Sposób używania kas
+
+**§ 6.**
+
+1. Podatnicy prowadzą ewidencję każdej czynności sprzedaży, w tym sprzedaży zwolnionej od podatku, przy użyciu kas, które spełniają funkcje wymienione w art. 111 ust. 6a ustawy, wymagania techniczne określone w załączniku nr 1 do rozporządzenia i posiadają ważne certyfikaty kasy.
+
 2. Podatnik zapewnia połączenie kasy z drukarką i jej konfigurację w sposób zapewniający poprawny wydruk zgodny z wymaganiami określonymi w § 1 ust. 6 załącznika nr 1 do rozporządzenia.
+
 3. Podatnik zapewnia konfigurację urządzenia, na którym jest zainstalowana kasa, zgodnie z wymaganiami określonymi przez producenta kasy.
+
 4. W ewidencji nie ujmuje się zwrotów towarów i uznanych reklamacji towarów i usług.
+
 5. Zwroty towarów i uznane reklamacje towarów i usług, które skutkują zwrotem całości albo części należności (zapłaty) z tytułu sprzedaży, ujmuje się w odrębnej ewidencji zwrotów i uznanych reklamacji zawierającej:
-1) datę sprzedaży;
-2) nazwę towaru lub usługi pozwalającą na jednoznaczną ich identyfikację i ewentualnie opis towaru lub usługi stanowiący rozwinięcie tej nazwy;
-3) termin dokonania zwrotu towaru lub reklamacji towaru lub usługi;
-4) wartość z podatkiem (brutto) zwracanego towaru lub wartość brutto towaru lub usługi będących przedmiotem reklamacji oraz wysokość podatku należnego – w przypadku zwrotu całości należności z tytułu sprzedaży;
-5) wysokość zwracanej należności (brutto) oraz odpowiadającą jej wysokość podatku należnego – w przypadku zwrotu części należności z tytułu sprzedaży;
-6) dokument potwierdzający dokonanie sprzedaży, a w przypadku gdy dokonanie sprzedaży potwierdza paragon fiskalny w postaci elektronicznej – numer tego paragonu oraz numer unikatowy;
-7) protokół przyjęcia zwrotu towaru lub reklamacji towaru lub usługi podpisany przez sprzedawcę i nabywcę albo notatkę służbową lub protokół z nabycia sprawdzającego.
+
+- **1)** datę sprzedaży;
+- **2)** nazwę towaru lub usługi pozwalającą na jednoznaczną ich identyfikację i ewentualnie opis towaru lub usługi stanowiący rozwinięcie tej nazwy;
+- **3)** termin dokonania zwrotu towaru lub reklamacji towaru lub usługi;
+- **4)** wartość z podatkiem (brutto) zwracanego towaru lub wartość brutto towaru lub usługi będących przedmiotem reklamacji oraz wysokość podatku należnego – w przypadku zwrotu całości należności z tytułu sprzedaży;
+- **5)** wysokość zwracanej należności (brutto) oraz odpowiadającą jej wysokość podatku należnego – w przypadku zwrotu części należności z tytułu sprzedaży;
+- **6)** dokument potwierdzający dokonanie sprzedaży, a w przypadku gdy dokonanie sprzedaży potwierdza paragon fiskalny w postaci elektronicznej – numer tego paragonu oraz numer unikatowy;
+- **7)** protokół przyjęcia zwrotu towaru lub reklamacji towaru lub usługi podpisany przez sprzedawcę i nabywcę albo notatkę służbową lub protokół z nabycia sprawdzającego.
+
 6. W przypadku wystąpienia oczywistej pomyłki w ewidencji podatnik dokonuje niezwłocznie jej korekty przez ujęcie w odrębnej ewidencji oczywistych pomyłek:
-1) błędnie ujętej w ewidencji sprzedaży (wartość sprzedaży brutto i wysokość podatku należnego);
-2) krótkiego opisu przyczyny i okoliczności wystąpienia oczywistej pomyłki oraz dołączenie paragonu fiskalnego potwierdzającego dokonanie sprzedaży, przy której wystąpiła oczywista pomyłka, a w przypadku gdy dokonanie sprzedaży potwierdza paragon fiskalny w postaci elektronicznej – podanie numeru tego paragonu oraz numeru unikatowego.
+
+- **1)** błędnie ujętej w ewidencji sprzedaży (wartość sprzedaży brutto i wysokość podatku należnego);
+- **2)** krótkiego opisu przyczyny i okoliczności wystąpienia oczywistej pomyłki oraz dołączenie paragonu fiskalnego potwierdzającego dokonanie sprzedaży, przy której wystąpiła oczywista pomyłka, a w przypadku gdy dokonanie sprzedaży potwierdza paragon fiskalny w postaci elektronicznej – podanie numeru tego paragonu oraz numeru unikatowego.
+
 7. W przypadku, o którym mowa w ust. 6, podatnik ewidencjonuje przy użyciu kasy sprzedaż w prawidłowej wysokości.
-§ 7. Podatnicy, o których mowa w art. 111 ust. 5 ustawy, ujmują w ewidencji wartość sprzedaży jako sprzedaż zwolnioną od podatku.
-§ 8. 1. Podatnicy, prowadząc ewidencję:
-1) wystawiają i wydają nabywcy, bez jego żądania, paragon fiskalny podczas dokonywania sprzedaży, nie później niż z chwilą przyjęcia należności, bez względu na formę płatności, z zastrzeżeniem § 17;
-2) w przypadku otrzymania przed dokonaniem sprzedaży całości albo części należności (zapłaty):
-a) w gotówce – wystawiają i wydają nabywcy paragon fiskalny, bez jego żądania, z chwilą jej otrzymania,
-b) za pośrednictwem poczty, banku lub spółdzielczej kasy oszczędnościowo-kredytowej, odpowiednio na rachunek bankowy podatnika lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem – wystawiają i wydają nabywcy, bez jego żądania, paragon fiskalny niezwłocznie po jej uznaniu na rachunku podatnika, jednak nie później niż z końcem miesiąca, w którym została uznana na rachunku podatnika, a jeżeli przed końcem tego miesiąca dokonano sprzedaży, nie później niż z chwilą jej dokonania;
-3) wystawiają raport fiskalny dobowy po zakończeniu sprzedaży za dany dzień, nie później niż przed dokonaniem pierwszej sprzedaży w dniu następnym;
-4) wystawiają raport fiskalny okresowy (miesięczny) albo łączny raport fiskalny okresowy (miesięczny) po zakończeniu sprzedaży za dany miesiąc, w terminie do 25. dnia miesiąca następującego po danym miesiącu;
-5) przypisują oznaczenia literowe od „A” do „G” do stawek podatku lub zwolnienia od podatku, przypisanych do nazw towarów i usług, w następujący sposób:
-a) literze „A” – jest przypisana podstawowa stawka podatku w wysokości 22 % albo 23 %,
-b) literze „B” – jest przypisana obniżona stawka podatku w wysokości 7 % albo 8 %,
-c) literze „C” – jest przypisana obniżona stawka podatku w wysokości 5 %,
-d) literze „D” – jest przypisana obniżona stawka podatku w wysokości 0 %,
-e) literze „E” – jest przypisane zwolnienie od podatku,
-f) literze „F” i „G” – są przypisane pozostałe stawki podatku, w tym wartość 0 % (zero techniczne) w przypadku sprzedaży opodatkowanej, o której mowa w art. 119 ust. 1 lub art. 120 ust. 4 ustawy;
-6) przedstawiają, na żądanie organu podatkowego, przypisanie odpowiednich oznaczeń literowych do danej stawki podatku lub zwolnienia od podatku;
-7) przechowują dokumenty fiskalne przez okres wymagany w ustawie oraz w ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769 i 820), zgodnie z warunkami określonymi w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863), i zapewniają do nich dostęp;
-8) zapewniają czytelny wydruk paragonu fiskalnego w postaci papierowej, a w przypadku paragonu fiskalnego w postaci elektronicznej – jego czytelny widok, umożliwiający nabywcy sprawdzenie prawidłowości dokonanej sprzedaży;
-9) przed zatwierdzeniem paragonu fiskalnego, w celu wyeliminowania oczywistych pomyłek w ewidencji, sprawdzają poprawność wystawianego dokumentu.
+
+**§ 7.** Podatnicy, o których mowa w art. 111 ust. 5 ustawy, ujmują w ewidencji wartość sprzedaży jako sprzedaż zwolnioną od podatku.
+
+**§ 8.**
+
+1. Podatnicy, prowadząc ewidencję:
+
+- **1)** wystawiają i wydają nabywcy, bez jego żądania, paragon fiskalny podczas dokonywania sprzedaży, nie później niż z chwilą przyjęcia należności, bez względu na formę płatności, z zastrzeżeniem § 17;
+- **2)** w przypadku otrzymania przed dokonaniem sprzedaży całości albo części należności (zapłaty):
+    - **a)** w gotówce – wystawiają i wydają nabywcy paragon fiskalny, bez jego żądania, z chwilą jej otrzymania,
+    - **b)** za pośrednictwem poczty, banku lub spółdzielczej kasy oszczędnościowo-kredytowej, odpowiednio na rachunek bankowy podatnika lub na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem – wystawiają i wydają nabywcy, bez jego żądania, paragon fiskalny niezwłocznie po jej uznaniu na rachunku podatnika, jednak nie później niż z końcem miesiąca, w którym została uznana na rachunku podatnika, a jeżeli przed końcem tego miesiąca dokonano sprzedaży, nie później niż z chwilą jej dokonania;
+
+- **3)** wystawiają raport fiskalny dobowy po zakończeniu sprzedaży za dany dzień, nie później niż przed dokonaniem pierwszej sprzedaży w dniu następnym;
+- **4)** wystawiają raport fiskalny okresowy (miesięczny) albo łączny raport fiskalny okresowy (miesięczny) po zakończeniu sprzedaży za dany miesiąc, w terminie do 25. dnia miesiąca następującego po danym miesiącu;
+- **5)** przypisują oznaczenia literowe od „A” do „G” do stawek podatku lub zwolnienia od podatku, przypisanych do nazw towarów i usług, w następujący sposób:
+    - **a)** literze „A” – jest przypisana podstawowa stawka podatku w wysokości 22 % albo 23 %,
+    - **b)** literze „B” – jest przypisana obniżona stawka podatku w wysokości 7 % albo 8 %,
+    - **c)** literze „C” – jest przypisana obniżona stawka podatku w wysokości 5 %,
+    - **d)** literze „D” – jest przypisana obniżona stawka podatku w wysokości 0 %,
+    - **e)** literze „E” – jest przypisane zwolnienie od podatku,
+    - **f)** literze „F” i „G” – są przypisane pozostałe stawki podatku, w tym wartość 0 % (zero techniczne) w przypadku sprzedaży opodatkowanej, o której mowa w art. 119 ust. 1 lub art. 120 ust. 4 ustawy;
+
+- **6)** przedstawiają, na żądanie organu podatkowego, przypisanie odpowiednich oznaczeń literowych do danej stawki podatku lub zwolnienia od podatku;
+- **7)** przechowują dokumenty fiskalne przez okres wymagany w ustawie oraz w ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621, 622, 769 i 820), zgodnie z warunkami określonymi w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863), i zapewniają do nich dostęp;
+- **8)** zapewniają czytelny wydruk paragonu fiskalnego w postaci papierowej, a w przypadku paragonu fiskalnego w postaci elektronicznej – jego czytelny widok, umożliwiający nabywcy sprawdzenie prawidłowości dokonanej sprzedaży;
+- **9)** przed zatwierdzeniem paragonu fiskalnego, w celu wyeliminowania oczywistych pomyłek w ewidencji, sprawdzają poprawność wystawianego dokumentu.
+
 2. Podatnicy używający kas rozliczających więcej niż jedną transakcję równocześnie zamykają wszystkie rozpoczęte w ciągu danej doby transakcje przed wystawieniem raportu fiskalnego dobowego.
+
 3. Podatnik jest obowiązany zapoznać osobę prowadzącą u niego ewidencję, przed rozpoczęciem jej prowadzenia oraz bez względu na sposób i formę powierzenia tej osobie prowadzenia ewidencji, z informacją o zasadach ewidencji obejmującą podstawowe zasady prowadzenia ewidencji, wystawiania i wydawania paragonu fiskalnego oraz skutki ich nieprzestrzegania.
+
 4. Osoba, o której mowa w ust. 3, przed rozpoczęciem prowadzenia ewidencji składa podatnikowi oświadczenie o zapoznaniu się z informacją o zasadach ewidencji.
+
 5. Informacja o zasadach ewidencji, o której mowa w ust. 3, oraz oświadczenie, o którym mowa w ust. 4, są sporządzane w dwóch jednobrzmiących egzemplarzach, po jednym dla podatnika i dla osoby, o której mowa w ust. 3.
+
 6. Wzór informacji o zasadach ewidencji, o której mowa w ust. 3, oraz oświadczenia, o którym mowa w ust. 4, określa załącznik nr 3 do rozporządzenia.
-§ 9. 1. Podatnik może używać kasy, która łączy różne kategorie kas, o których mowa w § 4 ust. 1, o ile kasa spełnia wymagania techniczne dla każdej z tych kategorii kas.
+
+**§ 9.**
+
+1. Podatnik może używać kasy, która łączy różne kategorie kas, o których mowa w § 4 ust. 1, o ile kasa spełnia wymagania techniczne dla każdej z tych kategorii kas.
+
 2. W przypadku szczególnego rodzaju sprzedaży lub szczególnego sposobu prowadzenia ewidencji, dla którego jest wymagane prowadzenie ewidencji przy użyciu kas o zastosowaniu specjalnym, podatnicy są obowiązani używać tych kas.
-§ 10. 1. Paragon fiskalny wystawia się w sposób zapewniający czytelną treść, umożliwiający nabywcy sprawdzenie prawidłowości dokonanej sprzedaży.
+
+**§ 10.**
+
+1. Paragon fiskalny wystawia się w sposób zapewniający czytelną treść, umożliwiający nabywcy sprawdzenie prawidłowości dokonanej sprzedaży.
+
 2. Paragon fiskalny może zawierać w miejscu określonym dla nazwy towaru lub usługi pozwalającej na jednoznaczną ich identyfikację również opis towaru lub usługi stanowiący rozwinięcie tej nazwy.
+
 3. Do oznaczania skrótów nazw walut używa się oznaczeń skrótów nazw walut stosowanych przez Narodowy Bank Polski.
-§ 11. Podatnicy używający kas:
-1) dokonują sprawdzenia poprawności pracy kasy w zakresie prawidłowego zaprogramowania nazw towarów i usług, stawek podatku, waluty ewidencyjnej wraz z jej symbolem i wartością przelicznika, wskazań daty i czasu oraz właściwego przypisania do nazw towarów i usług stawek podatku lub zwolnienia od podatku;
-2) udostępniają kasy wraz z urządzeniem, na którym kasa jest zainstalowana, do kontroli stanu oprogramowania i prawidłowości jej pracy na każde żądanie właściwych organów.
-§ 12. 1. W przypadku awarii kasy związanej z wystąpieniem błędu weryfikacji danych w bazie danych kasy podatnik niezwłocznie, nie później niż w terminie 24 godzin od stwierdzenia awarii, powiadamia o tym właściwego dla podatnika naczelnika urzędu skarbowego.
+
+**§ 11.** Podatnicy używający kas:
+
+- **1)** dokonują sprawdzenia poprawności pracy kasy w zakresie prawidłowego zaprogramowania nazw towarów i usług, stawek podatku, waluty ewidencyjnej wraz z jej symbolem i wartością przelicznika, wskazań daty i czasu oraz właściwego przypisania do nazw towarów i usług stawek podatku lub zwolnienia od podatku;
+- **2)** udostępniają kasy wraz z urządzeniem, na którym kasa jest zainstalowana, do kontroli stanu oprogramowania i prawidłowości jej pracy na każde żądanie właściwych organów.
+
+**§ 12.**
+
+1. W przypadku awarii kasy związanej z wystąpieniem błędu weryfikacji danych w bazie danych kasy podatnik niezwłocznie, nie później niż w terminie 24 godzin od stwierdzenia awarii, powiadamia o tym właściwego dla podatnika naczelnika urzędu skarbowego.
+
 2. W przypadku utraty kasy podatnik niezwłocznie, nie później niż w terminie 5 dni od powzięcia informacji o utracie, powiadamia o tym właściwego dla podatnika naczelnika urzędu skarbowego. W przypadku utraty kasy w wyniku kradzieży podatnik dołącza do powiadomienia potwierdzenie złożenia zawiadomienia o kradzieży wydane przez organ ścigania.
+
 3. Termin określony w ust. 2 jest liczony zgodnie z przepisami art. 12 § 1 i 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+
 4. W przypadku odzyskania utraconej kasy podatnik niezwłocznie powiadamia o tym właściwego dla podatnika naczelnika urzędu skarbowego.
-§ 13. 1. Przed rozpoczęciem prowadzenia ewidencji podatnik dokonuje fiskalizacji, zapewniając połączenie umożliwiające przesyłanie danych między kasą a Centralnym Repozytorium Kas, określone w art. 111a ust. 3 ustawy.
+
+**§ 13.**
+
+1. Przed rozpoczęciem prowadzenia ewidencji podatnik dokonuje fiskalizacji, zapewniając połączenie umożliwiające przesyłanie danych między kasą a Centralnym Repozytorium Kas, określone w art. 111a ust. 3 ustawy.
+
 2. Fiskalizacji dokonuje się wyłącznie w trybie obsługi kasy, gdy baza danych kasy nie zawiera danych, z wyjątkiem numeru unikatowego.
+
 3. Fiskalizacja obejmuje czynności określone w § 17 załącznika nr 1 do rozporządzenia.
-§ 14. W przypadku przerwania fiskalizacji z powodu braku połączenia z Centralnym Repozytorium Kas podatnik zapewnia dokonanie ponownego uruchomienia fiskalizacji.
-§ 15. 1. Podatnik po uruchomieniu trybu fiskalnego jest obowiązany zapewnić stałe połączenie umożliwiające automatyczne lub na żądanie przesyłanie danych między kasą a Centralnym Repozytorium Kas, zgodnie z harmonogramem przesyłania danych, w szczególności podczas prowadzenia ewidencji przy użyciu tej kasy.
+
+**§ 14.** W przypadku przerwania fiskalizacji z powodu braku połączenia z Centralnym Repozytorium Kas podatnik zapewnia dokonanie ponownego uruchomienia fiskalizacji.
+
+**§ 15.**
+
+1. Podatnik po uruchomieniu trybu fiskalnego jest obowiązany zapewnić stałe połączenie umożliwiające automatyczne lub na żądanie przesyłanie danych między kasą a Centralnym Repozytorium Kas, zgodnie z harmonogramem przesyłania danych, w szczególności podczas prowadzenia ewidencji przy użyciu tej kasy.
+
 2. Automatycznemu przesyłaniu danych z kasy do Centralnego Repozytorium Kas podlegają dokumenty fiskalne i niefiskalne oraz inne dane związane z używaniem kasy, zapisane w bazie danych kasy od czasu poprzedniego automatycznego przesyłania danych.
-§ 16. 1. Podatnicy, prowadząc ewidencję, wystawiają:
-1) paragony fiskalne i paragony fiskalne anulowane w postaci papierowej i w postaci elektronicznej, z zastrzeżeniem § 17 i § 18;
-2) raporty fiskalne dobowe w postaci elektronicznej;
-3) raporty fiskalne fiskalizacji w postaci papierowej i w postaci elektronicznej albo tylko w postaci elektronicznej;
-4) raporty fiskalne okresowe, w tym miesięczne, w postaci papierowej;
-5) raporty fiskalne rozliczeniowe w postaci papierowej;
-6) łączne raporty fiskalne okresowe, w tym miesięczne, w postaci papierowej;
-7) łączne raporty fiskalne rozliczeniowe w postaci papierowej;
-8) raporty fiskalne zdarzeń w postaci papierowej;
-9) dokumenty niefiskalne w postaci papierowej i w postaci elektronicznej albo tylko w postaci elektronicznej.
+
+**§ 16.**
+
+1. Podatnicy, prowadząc ewidencję, wystawiają:
+
+- **1)** paragony fiskalne i paragony fiskalne anulowane w postaci papierowej i w postaci elektronicznej, z zastrzeżeniem § 17 i § 18;
+- **2)** raporty fiskalne dobowe w postaci elektronicznej;
+- **3)** raporty fiskalne fiskalizacji w postaci papierowej i w postaci elektronicznej albo tylko w postaci elektronicznej;
+- **4)** raporty fiskalne okresowe, w tym miesięczne, w postaci papierowej;
+- **5)** raporty fiskalne rozliczeniowe w postaci papierowej;
+- **6)** łączne raporty fiskalne okresowe, w tym miesięczne, w postaci papierowej;
+- **7)** łączne raporty fiskalne rozliczeniowe w postaci papierowej;
+- **8)** raporty fiskalne zdarzeń w postaci papierowej;
+- **9)** dokumenty niefiskalne w postaci papierowej i w postaci elektronicznej albo tylko w postaci elektronicznej.
+
 2. W przypadku prowadzenia przez podatnika ewidencji przy użyciu kas o zastosowaniu specjalnym paragon fiskalny zawiera dane właściwe dla specyfiki danego rodzaju sprzedaży lub specyfiki prowadzonej ewidencji, określone i umieszczone we właściwej kolejności, zgodnie z § 3 załącznika nr 1 do rozporządzenia.
+
 3. W przypadku dokonywania rozliczania przy użyciu kasy wyłącznie opakowań zwrotnych podatnik wystawia dokument niefiskalny, który zawiera blok danych określających rozliczenie opakowań zwrotnych i dane dotyczące płatności za sprzedaż ujętą jak na paragonie fiskalnym, zawierające co najmniej oznaczenie odpowiednio „DO ZAPŁATY”, „DO ZWROTU” lub „CENA” wraz z wysokością należności po uwzględnieniu rozliczenia opakowań zwrotnych.
-§ 17. 1. W przypadku prowadzenia przez podatnika ewidencji przy użyciu kasy, o której mowa w § 4 ust. 1 pkt 2 lit. f, gdy komponent komunikacyjny kasy nie umożliwia komunikacji kasy z drukarką, podatnik:
-1) nie zapewnia połączenia kasy z drukarką i jej konfiguracji w sposób zapewniający poprawny wydruk zgodny z wymaganiami określonymi w § 1 ust. 6 załącznika nr 1 do rozporządzenia;
-2) nie wystawia paragonu fiskalnego i paragonu fiskalnego anulowanego w postaci papierowej oraz zapewnia nabywcy możliwość zapoznania się z danymi o sprzedaży przez ich odpowiednie pokazanie zgodnie z § 53 ust. 2 pkt 3 załącznika nr 1 do rozporządzenia;
-3) nie wystawia:
-a) raportów fiskalnych dobowych,
-b) raportów fiskalnych okresowych,
-c) raportu fiskalnego rozliczeniowego,
-d) łącznych raportów fiskalnych okresowych,
-e) łącznego raportu fiskalnego rozliczeniowego,
-f) raportów fiskalnych zdarzeń,
-g) raportu fiskalnego fiskalizacji,
-h) dokumentów niefiskalnych – w postaci papierowej;
-4) wykonuje raporty, o których mowa w pkt 3 lit. b–f, i bezpośrednio po ich wykonaniu przesyła je do komputerowych systemów ogólnodostępnych i dokonuje ich zapisu lub wydruku w tych systemach;
-5) wykonuje raporty fiskalne dobowe, raport fiskalny fiskalizacji i dokumenty niefiskalne w postaci elektronicznej i może przesłać je do komputerowych systemów ogólnodostępnych i dokonać ich zapisu lub wydruku w tych systemach.
+
+**§ 17.**
+
+1. W przypadku prowadzenia przez podatnika ewidencji przy użyciu kasy, o której mowa w § 4 ust. 1 pkt 2 lit. f, gdy komponent komunikacyjny kasy nie umożliwia komunikacji kasy z drukarką, podatnik:
+
+- **1)** nie zapewnia połączenia kasy z drukarką i jej konfiguracji w sposób zapewniający poprawny wydruk zgodny z wymaganiami określonymi w § 1 ust. 6 załącznika nr 1 do rozporządzenia;
+- **2)** nie wystawia paragonu fiskalnego i paragonu fiskalnego anulowanego w postaci papierowej oraz zapewnia nabywcy możliwość zapoznania się z danymi o sprzedaży przez ich odpowiednie pokazanie zgodnie z § 53 ust. 2 pkt 3 załącznika nr 1 do rozporządzenia;
+- **3)** nie wystawia:
+    - **a)** raportów fiskalnych dobowych,
+    - **b)** raportów fiskalnych okresowych,
+    - **c)** raportu fiskalnego rozliczeniowego,
+    - **d)** łącznych raportów fiskalnych okresowych,
+    - **e)** łącznego raportu fiskalnego rozliczeniowego,
+    - **f)** raportów fiskalnych zdarzeń,
+    - **g)** raportu fiskalnego fiskalizacji,
+    - **h)** dokumentów niefiskalnych – w postaci papierowej;
+
+- **4)** wykonuje raporty, o których mowa w pkt 3 lit. b–f, i bezpośrednio po ich wykonaniu przesyła je do komputerowych systemów ogólnodostępnych i dokonuje ich zapisu lub wydruku w tych systemach;
+- **5)** wykonuje raporty fiskalne dobowe, raport fiskalny fiskalizacji i dokumenty niefiskalne w postaci elektronicznej i może przesłać je do komputerowych systemów ogólnodostępnych i dokonać ich zapisu lub wydruku w tych systemach.
+
 2. W przypadku prowadzenia ewidencji przy użyciu kasy, o której mowa w § 4 ust. 1 pkt 2 lit. f, gdy komponent komunikacyjny kasy umożliwia komunikację kasy z drukarką, podatnik może nie wystawiać paragonu fiskalnego i paragonu fiskalnego anulowanego w postaci papierowej, jeżeli zapewnia nabywcy możliwość zapoznania się z danymi o sprzedaży przez ich odpowiednie pokazanie zgodnie z § 53 ust. 3 załącznika nr 1 do rozporządzenia.
-§ 18. Podatnicy, prowadząc ewidencję, mogą wystawiać i wydawać nabywcy, za jego zgodą i w sposób z nim uzgodniony, paragon fiskalny w postaci elektronicznej. Jeżeli rozpoczęta sprzedaż nie zostanie dokonana, podatnik może wystawić paragon fiskalny anulowany w postaci elektronicznej.
-§ 19. 1. W przypadku zakończenia używania kas z powodu zakończenia działalności gospodarczej lub pracy tych kas w trybie fiskalnym, podatnik:
-1) wystawia raport fiskalny dobowy;
-2) wystawia raport fiskalny rozliczeniowy albo łączny raport fiskalny rozliczeniowy i przesyła do Centralnego Repozytorium Kas informację o przejściu kasy w tryb tylko do odczytu;
-3) sporządza i składa, wraz z raportem, o którym mowa w pkt 2, w terminie 5 dni od dnia jego wystawienia, do właściwego dla podatnika naczelnika urzędu skarbowego wniosek o wyrejestrowanie kasy z ewidencji kas, według wzoru stanowiącego załącznik nr 4 do rozporządzenia.
+
+**§ 18.** Podatnicy, prowadząc ewidencję, mogą wystawiać i wydawać nabywcy, za jego zgodą i w sposób z nim uzgodniony, paragon fiskalny w postaci elektronicznej. Jeżeli rozpoczęta sprzedaż nie zostanie dokonana, podatnik może wystawić paragon fiskalny anulowany w postaci elektronicznej.
+
+**§ 19.**
+
+1. W przypadku zakończenia używania kas z powodu zakończenia działalności gospodarczej lub pracy tych kas w trybie fiskalnym, podatnik:
+
+- **1)** wystawia raport fiskalny dobowy;
+- **2)** wystawia raport fiskalny rozliczeniowy albo łączny raport fiskalny rozliczeniowy i przesyła do Centralnego Repozytorium Kas informację o przejściu kasy w tryb tylko do odczytu;
+- **3)** sporządza i składa, wraz z raportem, o którym mowa w pkt 2, w terminie 5 dni od dnia jego wystawienia, do właściwego dla podatnika naczelnika urzędu skarbowego wniosek o wyrejestrowanie kasy z ewidencji kas, według wzoru stanowiącego załącznik nr 4 do rozporządzenia.
+
 2. W przypadku zakończenia używania kas podatnik zapewnia odczyt i zapis danych z kasy na zewnętrzny nośnik danych.
-§ 20. W przypadku zakończenia przez kasę pracy w trybie fiskalnym podatnik nie może prowadzić ewidencji przy użyciu tej kasy.
-§ 21. 1. W przypadku wystąpienia klęski żywiołowej na skutek powodzi podatnikom używającym kas przedłuża się terminy, o których mowa w § 12 ust. 1 i 2 oraz § 19 ust. 1 pkt 3, do 30 dni od dnia zaistnienia zdarzeń określonych w tych przepisach.
+
+**§ 20.** W przypadku zakończenia przez kasę pracy w trybie fiskalnym podatnik nie może prowadzić ewidencji przy użyciu tej kasy.
+
+**§ 21.**
+
+1. W przypadku wystąpienia klęski żywiołowej na skutek powodzi podatnikom używającym kas przedłuża się terminy, o których mowa w § 12 ust. 1 i 2 oraz § 19 ust. 1 pkt 3, do 30 dni od dnia zaistnienia zdarzeń określonych w tych przepisach.
+
 2. Przedłużenie, o którym mowa w ust. 1, przysługuje podatnikom używającym kas, którzy łącznie spełniają następujące warunki:
-1) są poszkodowanymi w rozumieniu ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717 oraz z 2025 r. poz. 620 i 680), zwanej dalej „ustawą o szczególnych rozwiązaniach”;
-2) mają siedzibę, zarząd lub miejsce zamieszkania na terenie gminy określonej w przepisach wydanych na podstawie art. 1 ust. 2 ustawy o szczególnych rozwiązaniach;
-3) prowadzą działalność gospodarczą na terenie gminy, o której mowa w pkt 2.
+
+- **1)** są poszkodowanymi w rozumieniu ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717 oraz z 2025 r. poz. 620 i 680), zwanej dalej „ustawą o szczególnych rozwiązaniach”;
+- **2)** mają siedzibę, zarząd lub miejsce zamieszkania na terenie gminy określonej w przepisach wydanych na podstawie art. 1 ust. 2 ustawy o szczególnych rozwiązaniach;
+- **3)** prowadzą działalność gospodarczą na terenie gminy, o której mowa w pkt 2.
+
 3. Przedłużenie, o którym mowa w ust. 1, stosuje się do terminów upływających w okresie od dnia wejścia w życie przepisów wydanych na podstawie art. 1 ust. 2 ustawy o szczególnych rozwiązaniach do końca miesiąca następującego po miesiącu, w którym weszły w życie te przepisy.
-§ 22. Wniosek o wydanie potwierdzenia, o którym mowa w art. 111 ust. 6b ustawy, zawiera:
-1) imię i nazwisko lub nazwę producenta oraz adres jego miejsca zamieszkania lub siedziby;
-2) adres do korespondencji, jeżeli jest inny niż adres, o którym mowa w pkt 1;
-3) oświadczenie producenta, że każda kasa wprowadzana do obrotu będzie identyczna funkcjonalnie i programowo z kasą wzorcową poddaną badaniom, która otrzymała potwierdzenie, o którym mowa w art. 111 ust. 6b ustawy, oraz spełnia funkcje, o których mowa w art. 111 ust. 6a ustawy, i wymagania techniczne dla kas;
-4) oświadczenie producenta o bezzwłocznym dostarczeniu do Głównego Urzędu Miar kasy wprowadzanej do obrotu, uruchomionej na urządzeniu przewidzianym dla danej kasy, na wezwanie tego urzędu;
-5) dane identyfikujące kasę, w tym typ i model (nazwę) kasy, kategorię kasy, nazwę i numer wersji oraz sumę kontrolną programu pracy kasy obliczoną z wszystkich plików wytworzonych dla kasy, stanowiących program pracy kasy;
-6) algorytm obliczania sumy kontrolnej programu pracy kasy z wszystkich plików wytworzonych dla kasy, stanowiących program pracy kasy;
-7) wykaz plików wchodzących w skład kasy z podziałem na:
-a) bazę danych kasy,
-b) program pracy kasy, w tym: – komponent kryptograficzny, – komponent komunikacyjny, – inne komponenty, o ile występują – wraz z podaniem sum kontrolnych plików wytworzonych dla kasy, stanowiących program pracy kasy;
-8) instrukcję obsługi kasy zawierającą w szczególności informacje dotyczące:
-a) obsługi kasy,
-b) procedur konfigurowania kasy,
-c) opisu środowiska, w tym sprzętu, z którym pracuje kasa,
-d) błędów mogących wystąpić podczas pracy kasy wraz z ich kodami, opisem oraz sposobem usunięcia;
-9) wzory, w postaci elektronicznej, wszystkich dokumentów wystawianych przy użyciu kasy wraz z opisem sposobu ich wystawiania oraz zestaw poleceń protokołu komunikacyjnego przesyłania danych umożliwiającego wystawianie tych dokumentów, o ile występuje;
-10) opis wszystkich poleceń protokołu komunikacyjnego przesyłania danych umożliwiającego konfigurowanie i użytkowanie kasy w sposób inny niż przez interfejs użytkownika (klawiaturę i wyświetlacz) urządzenia, na którym jest uruchomiona kasa, o ile występuje, przy czym opisy poleceń zawierają opis ich przeznaczenia i pełny przykład składni;
-11) sposoby zabezpieczenia kasy przed nieuprawnioną zmianą, z uwzględnieniem sposobu kontroli oryginalności komponentów i modułów kasy;
-12) opis sposobu zabezpieczenia kasy przed uruchomieniem kasy na innym urządzeniu niż urządzenie, na którym dokonano fiskalizacji;
-13) opis sposobu weryfikacji integralności i niezaprzeczalności danych zapisanych w bazie danych kasy;
-14) wykaz urządzeń przewidzianych do pracy dla danej kasy wraz ze wskazaniem wymagań sprzętowych i systemowych;
-15) opis kasy zawierający:
-a) identyfikację poszczególnych modułów programowych kasy,
-b) schemat blokowy modułów programowych kasy wraz z ich charakterystyką funkcjonalną oraz ze wskazaniem sposobu i zakresu wymiany danych między modułami,
-c) sposób instalacji kasy na wszystkich urządzeniach przewidzianych do pracy dla danej kasy,
-d) wskazanie warunków, w których występuje zapełnienie bazy danych kasy, z uwzględnieniem sposobu obsługi przez kasę sytuacji zapełnienia bazy danych kasy,
-e) opis pól, relacji, struktury i silnika bazy danych kasy;
-16) wykaz urządzeń dodatkowych, z którymi kasa może współpracować, obejmujący wszystkie przewidziane przez producenta urządzenia zewnętrzne dołączane do urządzenia, na którym jest uruchamiana kasa;
-17) opis sposobu zapisywania numeru unikatowego w bazie danych kasy;
-18) potwierdzenie umieszczenia w źródle aktualizacji programu pracy kasy do przeprowadzenia testu aktualizacji kasy;
-19) w przypadku kasy, o której mowa w § 4 ust. 1 pkt 2 lit. a:
-a) wykaz taksometrów lub aplikacji współpracujących z kasą,
-b) oświadczenie wnioskodawcy o poprawnej współpracy kasy z taksometrem lub aplikacją dla każdego taksometru lub aplikacji wymienionych w wykazie, o którym mowa w lit. a,
-c) kopię certyfikatu badania typu UE lub zatwierdzenia typu dla każdego taksometru wymienionego w wykazie, o którym mowa w lit. a;
-20) podpis producenta albo osoby lub osób reprezentujących producenta.
-§ 23. 1. Do wniosku, o którym mowa w § 22, dołącza się:
-1) co najmniej trzy egzemplarze kasy zainstalowane na urządzeniach przewidzianych dla danej kasy wraz z wyposażeniem niezbędnym do pracy kasy, takim jak zasilacze, wyświetlacze, drukarki, przewody do współpracy z komputerem;
-2) egzemplarz kasy zainstalowany na urządzeniu przewidzianym dla kasy, zawierający w bazie danych kasy zapisane 32 raporty fiskalne dobowe mniej od maksymalnej liczby raportów fiskalnych dobowych możliwych do zapisania;
-3) kasę w postaci przeznaczonej dla nabywcy kasy (w postaci instalacyjnej), na nośniku przekazywanym nabywcy bądź w dowolnej innej postaci przewidzianej do przekazywania nabywcy, przy czym kasa ta, jako kasa wzorcowa, pozostaje w Głównym Urzędzie Miar;
-4) dodatkowe urządzenia i programy umożliwiające uruchomienie pełnej funkcjonalności kasy, w tym programy współpracujące z kasą, umożliwiające konfigurowanie kasy oraz przewidziane do stosowania w celach techniczno-serwisowych bądź diagnostyki kasy;
-5) program wspomagający rejestrację cyklu transakcji testowych, o ile występuje;
-6) w przypadku kas, o których mowa w § 4 ust. 1 pkt 2 lit. a, dodatkowo:
-a) w odniesieniu do taksometru współpracującego z kasą: – po 2 sztuki każdego z typów taksometrów przeznaczonych do współpracy z kasą, – generator impulsów napędu taksometru, – programator taksometru, – zasilacz umożliwiający zewnętrzne zasilanie urządzenia, na którym jest zainstalowana kasa, i taksometru z sieci energetycznej prądu zmiennego o napięciu 230 V,
-b) w odniesieniu do aplikacji współpracującej z kasą – 2 egzemplarze aplikacji zainstalowanej na urządzeniu;
-7) w przypadku kasy biletowej:
-a) oprogramowanie lub narzędzia umożliwiające zaprogramowanie kasy,
-b) zasilacz umożliwiający zewnętrzne zasilanie urządzenia, na którym jest zainstalowana kasa, z sieci energetycznej prądu zmiennego o napięciu 230 V, dla kas zasilanych z akumulatora pojazdu;
-8) dodatkowe urządzenia, podzespoły i inne elementy niezbędne do oceny rozwiązań technicznych zastosowanych w kasie.
+
+#### Rozdział 4 Rodzaje danych zawartych we wniosku o wydanie potwierdzenia oraz rodzaje dokumentów i urządzeń niezbędnych do wydania potwierdzenia
+
+**§ 22.** Wniosek o wydanie potwierdzenia, o którym mowa w art. 111 ust. 6b ustawy, zawiera:
+
+- **1)** imię i nazwisko lub nazwę producenta oraz adres jego miejsca zamieszkania lub siedziby;
+- **2)** adres do korespondencji, jeżeli jest inny niż adres, o którym mowa w pkt 1;
+- **3)** oświadczenie producenta, że każda kasa wprowadzana do obrotu będzie identyczna funkcjonalnie i programowo z kasą wzorcową poddaną badaniom, która otrzymała potwierdzenie, o którym mowa w art. 111 ust. 6b ustawy, oraz spełnia funkcje, o których mowa w art. 111 ust. 6a ustawy, i wymagania techniczne dla kas;
+- **4)** oświadczenie producenta o bezzwłocznym dostarczeniu do Głównego Urzędu Miar kasy wprowadzanej do obrotu, uruchomionej na urządzeniu przewidzianym dla danej kasy, na wezwanie tego urzędu;
+- **5)** dane identyfikujące kasę, w tym typ i model (nazwę) kasy, kategorię kasy, nazwę i numer wersji oraz sumę kontrolną programu pracy kasy obliczoną z wszystkich plików wytworzonych dla kasy, stanowiących program pracy kasy;
+- **6)** algorytm obliczania sumy kontrolnej programu pracy kasy z wszystkich plików wytworzonych dla kasy, stanowiących program pracy kasy;
+- **7)** wykaz plików wchodzących w skład kasy z podziałem na:
+    - **a)** bazę danych kasy,
+    - **b)** program pracy kasy, w tym: – komponent kryptograficzny, – komponent komunikacyjny, – inne komponenty, o ile występują – wraz z podaniem sum kontrolnych plików wytworzonych dla kasy, stanowiących program pracy kasy;
+
+- **8)** instrukcję obsługi kasy zawierającą w szczególności informacje dotyczące:
+    - **a)** obsługi kasy,
+    - **b)** procedur konfigurowania kasy,
+    - **c)** opisu środowiska, w tym sprzętu, z którym pracuje kasa,
+    - **d)** błędów mogących wystąpić podczas pracy kasy wraz z ich kodami, opisem oraz sposobem usunięcia;
+
+- **9)** wzory, w postaci elektronicznej, wszystkich dokumentów wystawianych przy użyciu kasy wraz z opisem sposobu ich wystawiania oraz zestaw poleceń protokołu komunikacyjnego przesyłania danych umożliwiającego wystawianie tych dokumentów, o ile występuje;
+- **10)** opis wszystkich poleceń protokołu komunikacyjnego przesyłania danych umożliwiającego konfigurowanie i użytkowanie kasy w sposób inny niż przez interfejs użytkownika (klawiaturę i wyświetlacz) urządzenia, na którym jest uruchomiona kasa, o ile występuje, przy czym opisy poleceń zawierają opis ich przeznaczenia i pełny przykład składni;
+- **11)** sposoby zabezpieczenia kasy przed nieuprawnioną zmianą, z uwzględnieniem sposobu kontroli oryginalności komponentów i modułów kasy;
+- **12)** opis sposobu zabezpieczenia kasy przed uruchomieniem kasy na innym urządzeniu niż urządzenie, na którym dokonano fiskalizacji;
+- **13)** opis sposobu weryfikacji integralności i niezaprzeczalności danych zapisanych w bazie danych kasy;
+- **14)** wykaz urządzeń przewidzianych do pracy dla danej kasy wraz ze wskazaniem wymagań sprzętowych i systemowych;
+- **15)** opis kasy zawierający:
+    - **a)** identyfikację poszczególnych modułów programowych kasy,
+    - **b)** schemat blokowy modułów programowych kasy wraz z ich charakterystyką funkcjonalną oraz ze wskazaniem sposobu i zakresu wymiany danych między modułami,
+    - **c)** sposób instalacji kasy na wszystkich urządzeniach przewidzianych do pracy dla danej kasy,
+    - **d)** wskazanie warunków, w których występuje zapełnienie bazy danych kasy, z uwzględnieniem sposobu obsługi przez kasę sytuacji zapełnienia bazy danych kasy,
+    - **e)** opis pól, relacji, struktury i silnika bazy danych kasy;
+
+- **16)** wykaz urządzeń dodatkowych, z którymi kasa może współpracować, obejmujący wszystkie przewidziane przez producenta urządzenia zewnętrzne dołączane do urządzenia, na którym jest uruchamiana kasa;
+- **17)** opis sposobu zapisywania numeru unikatowego w bazie danych kasy;
+- **18)** potwierdzenie umieszczenia w źródle aktualizacji programu pracy kasy do przeprowadzenia testu aktualizacji kasy;
+- **19)** w przypadku kasy, o której mowa w § 4 ust. 1 pkt 2 lit. a:
+    - **a)** wykaz taksometrów lub aplikacji współpracujących z kasą,
+    - **b)** oświadczenie wnioskodawcy o poprawnej współpracy kasy z taksometrem lub aplikacją dla każdego taksometru lub aplikacji wymienionych w wykazie, o którym mowa w lit. a,
+    - **c)** kopię certyfikatu badania typu UE lub zatwierdzenia typu dla każdego taksometru wymienionego w wykazie, o którym mowa w lit. a;
+
+- **20)** podpis producenta albo osoby lub osób reprezentujących producenta.
+
+**§ 23.**
+
+1. Do wniosku, o którym mowa w § 22, dołącza się:
+
+- **1)** co najmniej trzy egzemplarze kasy zainstalowane na urządzeniach przewidzianych dla danej kasy wraz z wyposażeniem niezbędnym do pracy kasy, takim jak zasilacze, wyświetlacze, drukarki, przewody do współpracy z komputerem;
+- **2)** egzemplarz kasy zainstalowany na urządzeniu przewidzianym dla kasy, zawierający w bazie danych kasy zapisane 32 raporty fiskalne dobowe mniej od maksymalnej liczby raportów fiskalnych dobowych możliwych do zapisania;
+- **3)** kasę w postaci przeznaczonej dla nabywcy kasy (w postaci instalacyjnej), na nośniku przekazywanym nabywcy bądź w dowolnej innej postaci przewidzianej do przekazywania nabywcy, przy czym kasa ta, jako kasa wzorcowa, pozostaje w Głównym Urzędzie Miar;
+- **4)** dodatkowe urządzenia i programy umożliwiające uruchomienie pełnej funkcjonalności kasy, w tym programy współpracujące z kasą, umożliwiające konfigurowanie kasy oraz przewidziane do stosowania w celach techniczno-serwisowych bądź diagnostyki kasy;
+- **5)** program wspomagający rejestrację cyklu transakcji testowych, o ile występuje;
+- **6)** w przypadku kas, o których mowa w § 4 ust. 1 pkt 2 lit. a, dodatkowo:
+    - **a)** w odniesieniu do taksometru współpracującego z kasą: – po 2 sztuki każdego z typów taksometrów przeznaczonych do współpracy z kasą, – generator impulsów napędu taksometru, – programator taksometru, – zasilacz umożliwiający zewnętrzne zasilanie urządzenia, na którym jest zainstalowana kasa, i taksometru z sieci energetycznej prądu zmiennego o napięciu 230 V,
+    - **b)** w odniesieniu do aplikacji współpracującej z kasą – 2 egzemplarze aplikacji zainstalowanej na urządzeniu;
+
+- **7)** w przypadku kasy biletowej:
+    - **a)** oprogramowanie lub narzędzia umożliwiające zaprogramowanie kasy,
+    - **b)** zasilacz umożliwiający zewnętrzne zasilanie urządzenia, na którym jest zainstalowana kasa, z sieci energetycznej prądu zmiennego o napięciu 230 V, dla kas zasilanych z akumulatora pojazdu;
+
+- **8)** dodatkowe urządzenia, podzespoły i inne elementy niezbędne do oceny rozwiązań technicznych zastosowanych w kasie.
+
 2. Do wniosku dołącza się opisy działania lub instrukcje obsługi wszystkich urządzeń dołączonych do kasy.
+
 3. W celu wykonania badań kasy producent udostępnia wszystkie mające zastosowanie narzędzia sprzętowe lub programowe, których potrzeba użycia wynika z przebiegu badań.
-§ 24. 1. Potwierdzenie, o którym mowa w art. 111 ust. 6b ustawy, wydaje się na okres 5 lat, po upływie którego może ono być wydane na następny okres, po złożeniu wniosku wraz z wymaganymi dokumentami i urządzeniami oraz przeprowadzeniu badań.
+
+#### Rozdział 5 Okres, na który jest wydawane potwierdzenie
+
+**§ 24.**
+
+1. Potwierdzenie, o którym mowa w art. 111 ust. 6b ustawy, wydaje się na okres 5 lat, po upływie którego może ono być wydane na następny okres, po złożeniu wniosku wraz z wymaganymi dokumentami i urządzeniami oraz przeprowadzeniu badań.
+
 2. Potwierdzenie może być wydane na kolejnych 5 lat bez ponownych badań, w przypadku gdy:
-1) przepisy, na podstawie których wydane zostało dotychczasowe potwierdzenie, nie uległy zmianie;
-2) nie wystąpiły zmiany w kasie.
+
+- **1)** przepisy, na podstawie których wydane zostało dotychczasowe potwierdzenie, nie uległy zmianie;
+- **2)** nie wystąpiły zmiany w kasie.
+
 3. Potwierdzenie, o którym mowa w ust. 2, wydaje się na wniosek producenta złożony przed upływem okresu, na który wydano potwierdzenie dla danej kasy, jednak nie wcześniej niż po upływie 4 lat od dnia wydania potwierdzenia, o którym mowa w ust. 1. Przepisy § 22 i § 23 stosuje się odpowiednio.
-§ 25. Po uzyskaniu potwierdzenia, o którym mowa w art. 111 ust. 6b ustawy, zmiany w kasie, przed ich wprowadzeniem, wymagają każdorazowo uzyskania nowego potwierdzenia.
-§ 26. Badania kasy obejmują:
-1) sprawdzenie poprawności i kompletności wniosku, o którym mowa w § 22;
-2) badania w zakresie:
-a) bezpieczeństwa kasy, w szczególności obsługi sytuacji awaryjnych,
-b) poprawności realizacji funkcji kasy dostępnych dla użytkownika,
-c) protokołów komunikacyjnych kasy.
-§ 27. Sprawozdanie z badań kasy zawiera:
-1) dane identyfikujące:
-a) producenta,
-b) typ kasy oraz wersję i sumę kontrolną programu pracy kasy;
-2) wyniki badań;
-3) stwierdzenie, czy kasa spełnia funkcje, o których mowa w art. 111 ust. 6a ustawy, i wymagania techniczne dla kas, a w przypadku ich niespełniania – wykaz niezgodności wraz z ich opisem;
-4) datę i czas trwania badań;
-5) poświadczenie imienne wykonawcy badań.
-§ 28. 1. Kasa jest oznaczana numerem unikatowym przez producenta.
+
+**§ 25.** Po uzyskaniu potwierdzenia, o którym mowa w art. 111 ust. 6b ustawy, zmiany w kasie, przed ich wprowadzeniem, wymagają każdorazowo uzyskania nowego potwierdzenia.
+
+#### Rozdział 6 Zakres badań kasy oraz rodzaje danych zawartych w sprawozdaniu z badań kasy
+
+**§ 26.** Badania kasy obejmują:
+
+- **1)** sprawdzenie poprawności i kompletności wniosku, o którym mowa w § 22;
+- **2)** badania w zakresie:
+    - **a)** bezpieczeństwa kasy, w szczególności obsługi sytuacji awaryjnych,
+    - **b)** poprawności realizacji funkcji kasy dostępnych dla użytkownika,
+    - **c)** protokołów komunikacyjnych kasy.
+
+**§ 27.** Sprawozdanie z badań kasy zawiera:
+
+- **1)** dane identyfikujące:
+    - **a)** producenta,
+    - **b)** typ kasy oraz wersję i sumę kontrolną programu pracy kasy;
+
+- **2)** wyniki badań;
+- **3)** stwierdzenie, czy kasa spełnia funkcje, o których mowa w art. 111 ust. 6a ustawy, i wymagania techniczne dla kas, a w przypadku ich niespełniania – wykaz niezgodności wraz z ich opisem;
+- **4)** datę i czas trwania badań;
+- **5)** poświadczenie imienne wykonawcy badań.
+
+#### Rozdział 7 Sposób oznaczania kasy numerami unikatowymi i warunki ich przydzielania oraz dokumenty, które powinny być dołączone do kasy przy wprowadzaniu jej do obrotu
+
+**§ 28.**
+
+1. Kasa jest oznaczana numerem unikatowym przez producenta.
+
 2. Numer unikatowy składa się z trzyliterowego prefiksu oraz ciągu 10 cyfr.
+
 3. Numery unikatowe są przydzielane wyłącznie dla kas posiadających potwierdzenie, o którym mowa w art. 111 ust. 6b ustawy.
+
 4. Przydzielenie numerów unikatowych dla kas danego typu następuje na podstawie wniosku producenta zawierającego:
-1) określenie typu kas oraz celu wykorzystania wnioskowanych numerów unikatowych;
-2) numer i datę potwierdzenia, o którym mowa w art. 111 ust. 6b ustawy, wydanego dla typu kas objętego wnioskiem;
-3) określenie liczby numerów unikatowych, które powinny być przydzielone;
-4) wskazanie ostatnio nadanego prefiksu dla danego typu kasy w przypadku kolejnego wniosku o przydzielenie numerów unikatowych dla tego typu kasy.
-§ 29. 1. Do każdej kasy wprowadzanej do obrotu producent dołącza:
-1) instrukcję obsługi kasy;
-2) deklarację o spełnieniu przez kasę funkcji, o których mowa w art. 111 ust. 6a ustawy, i wymagań technicznych dla kas oraz zgodności z kasą wzorcową, która była podstawą do wydania potwierdzenia, o którym mowa w art. 111 ust. 6b ustawy; deklarację sporządza się według wzoru stanowiącego załącznik nr 5 do rozporządzenia.
+
+- **1)** określenie typu kas oraz celu wykorzystania wnioskowanych numerów unikatowych;
+- **2)** numer i datę potwierdzenia, o którym mowa w art. 111 ust. 6b ustawy, wydanego dla typu kas objętego wnioskiem;
+- **3)** określenie liczby numerów unikatowych, które powinny być przydzielone;
+- **4)** wskazanie ostatnio nadanego prefiksu dla danego typu kasy w przypadku kolejnego wniosku o przydzielenie numerów unikatowych dla tego typu kasy.
+
+**§ 29.**
+
+1. Do każdej kasy wprowadzanej do obrotu producent dołącza:
+
+- **1)** instrukcję obsługi kasy;
+- **2)** deklarację o spełnieniu przez kasę funkcji, o których mowa w art. 111 ust. 6a ustawy, i wymagań technicznych dla kas oraz zgodności z kasą wzorcową, która była podstawą do wydania potwierdzenia, o którym mowa w art. 111 ust. 6b ustawy; deklarację sporządza się według wzoru stanowiącego załącznik nr 5 do rozporządzenia.
+
 2. Instrukcja obsługi kasy zawiera w szczególności informacje dotyczące:
-1) obsługi kasy;
-2) procedur konfigurowania kasy;
-3) opisu środowiska, w tym sprzętu, z którym pracuje kasa;
-4) błędów mogących wystąpić podczas pracy kasy wraz z ich kodami, opisem oraz sposobem usunięcia.
-§ 30. Oświadczenia o zapoznaniu się z informacją o zasadach ewidencji złożone przed dniem wejścia w życie niniejszego rozporządzenia według dotychczasowego wzoru zachowują ważność.
-§ 31. Rozporządzenie wchodzi w życie z dniem 1 lipca 2025 r.
-Minister Finansów: wz. H. Majszczyk
+
+- **1)** obsługi kasy;
+- **2)** procedur konfigurowania kasy;
+- **3)** opisu środowiska, w tym sprzętu, z którym pracuje kasa;
+- **4)** błędów mogących wystąpić podczas pracy kasy wraz z ich kodami, opisem oraz sposobem usunięcia.
+
+#### Rozdział 8 Przepis przejściowy i końcowy
+
+**§ 30.** Oświadczenia o zapoznaniu się z informacją o zasadach ewidencji złożone przed dniem wejścia w życie niniejszego rozporządzenia według dotychczasowego wzoru zachowują ważność.
+
+**§ 31.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2025 r. Minister Finansów: wz. H. Majszczyk
+
+#### Rozdział 1 Wymagania techniczne dla kas dotyczące ich zawartości, zapisu i przechowywania danych
+
+## Załącznik
+
 § 1. 1. Kasa zawiera:
 1) bazę danych kasy;
 2) program pracy kasy.
@@ -328,6 +478,7 @@ h) adresu punktu sprzedaży;
 10) wymiany klucza publicznego kasy;
 11) blokady możliwości prowadzenia ewidencji;
 12) sytuacje awaryjne.
+Rozdział 2 Wymagania techniczne dla kas dotyczące wystawianych dokumentów
 § 3. 1. Kasa wystawia paragony fiskalne w postaci papierowej i w postaci elektronicznej albo zgodnie z wyborem użytkownika tylko w postaci elektronicznej zawierające w szczególności kolejno pozycje:
 1) element graficzny, o ile występuje;
 2) imię i nazwisko lub nazwę podatnika oraz adres punktu sprzedaży, a dla sprzedaży prowadzonej w miejscach niestałych – adres siedziby lub miejsca zamieszkania podatnika;
@@ -516,6 +667,7 @@ b) „ŁĄCZNY” – w przypadku raportowania wszystkich zdarzeń z wybranego o
 12) numer unikatowy;
 13) określoną przez użytkownika treść reklamową i treść informacyjną, o ile występują, które mogą zawierać elementy graficzne, pod warunkiem ich zapisu w bazie danych kasy.
 2. W przypadku dokonywania rozliczania przy użyciu kasy wyłącznie opakowań zwrotnych dokument niefiskalny jest wystawiany z uwzględnieniem pozycji, o których mowa w § 3 ust. 1 pkt 16 i pkt 17 lit. a tiret pierwsze.
+Rozdział 3 Wymagania techniczne dla kas dotyczące pracy kasy
 § 10. 1. Kasa pracuje wyłącznie w trybie obsługi kasy albo w trybie fiskalnym, albo w trybie tylko do odczytu.
 2. Kasa nie zawiera innych trybów pracy niż wskazane w ust. 1.
 3. Kasa umożliwia przejście wyłącznie z trybu obsługi kasy do trybu fiskalnego oraz z trybu fiskalnego do trybu tylko do odczytu.
@@ -647,6 +799,7 @@ f) zapisu zdarzenia aktualizacji i danych z nią związanych w bazie danych kasy
 3. Aktualizacja programu pracy kasy nie może powodować zmiany danych zapisanych w bazie danych kasy, z wyłączeniem dopisywania nowej sumy kontrolnej programu pracy kasy oraz zapisu zdarzenia w rejestrze zdarzeń.
 4. W przypadku niepowodzenia aktualizacji kasa zapewnia powrót do ostatniej wersji programu pracy kasy.
 5. Podczas komunikacji ze źródłem aktualizacji przepis § 34 stosuje się odpowiednio.
+Rozdział 4 Wymagania techniczne dla kas o zastosowaniu specjalnym
 § 50. 1. Kasa, o której mowa w § 4 ust. 1 pkt 2 lit. a rozporządzenia, jest wydzielonym modułem aplikacji mobilnej, o której mowa w art. 13b ustawy z dnia 6 września 2001 r. o transporcie drogowym, albo stanowi oddzielną aplikację zintegrowaną z tą aplikacją lub współpracuje z taksometrem.
 2. Kasa, o której mowa w ust. 1, otrzymuje następujące dane z aplikacji mobilnej, o której mowa w ust. 1, lub taksometru:
 1) numer rejestracyjny i numer boczny taksówki albo w przypadku pojazdów innych niż taksówki – numer rejestracyjny pojazdu;
@@ -706,30 +859,6 @@ h) dokumentów niefiskalnych – w postaci papierowej oraz zapewnia możliwość
 6) łączną wysokość podatku należnego;
 7) typ formy płatności;
 8) nazwę formy płatności.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Wymagania techniczne dla kas
-
-#### Rozdział 3 Sposób używania kas
-
-#### Rozdział 4 Rodzaje danych zawartych we wniosku o wydanie potwierdzenia oraz rodzaje dokumentów i urządzeń niezbędnych do wydania potwierdzenia
-
-#### Rozdział 5 Okres, na który jest wydawane potwierdzenie
-
-#### Rozdział 6 Zakres badań kasy oraz rodzaje danych zawartych w sprawozdaniu z badań kasy
-
-#### Rozdział 7 Sposób oznaczania kasy numerami unikatowymi i warunki ich przydzielania oraz dokumenty, które powinny być dołączone do kasy przy wprowadzaniu jej do obrotu
-
-#### Rozdział 8 Przepis przejściowy i końcowy
-
-#### Rozdział 1 Wymagania techniczne dla kas dotyczące ich zawartości, zapisu i przechowywania danych
-
-#### Rozdział 2 Wymagania techniczne dla kas dotyczące wystawianych dokumentów
-
-#### Rozdział 3 Wymagania techniczne dla kas dotyczące pracy kasy
-
-#### Rozdział 4 Wymagania techniczne dla kas o zastosowaniu specjalnym
 
 ## Załącznik nr 2 — Dziennik Ustaw WZÓR – 29 – Poz. 861 LOGO FISKALNE WZÓR LOGO FISKALNE Umieszczone na rysunku wzoru wartości liczbowe są bezwymiarowe względem zaznaczonej wysokości H znaków występujących na paragonie fiskalnym w numerze unikatowym kasy.
 

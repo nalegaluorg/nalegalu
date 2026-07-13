@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/544/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ekspertów biorących udział w kontrolach użytkowników w zakresie doświadczeń Na podstawie art. 55 ust. 11 ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. z 2023 r. poz. 465 oraz z 2025 r. poz. 1795) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji i Nauki z dnia 25 lipca 2022 r. w sprawie ekspertów biorących udział w kontrolach użytkowników w zakresie doświadczeń (Dz. U. poz. 1678) w § 5 ust. 4 otrzymuje brzmienie: „4. Wniosek składa się na adres do doręczeń elektronicznych urzędu obsługującego ministra.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: M. Kulasek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji i Nauki z dnia 25 lipca 2022 r. w sprawie ekspertów biorących udział w kontrolach użytkowników w zakresie doświadczeń (Dz. U. poz. 1678) w § 5 ust. 4 otrzymuje brzmienie: „4. Wniosek składa się na adres do doręczeń elektronicznych urzędu obsługującego ministra.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: M. Kulasek
 

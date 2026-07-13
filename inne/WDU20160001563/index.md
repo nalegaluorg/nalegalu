@@ -27,12 +27,14 @@ source: pdf
 
 w sprawie upoważnienia do uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych Na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r.
 poz. 543, 749, 1020 i 1250) zarządza się, co następuje:
-§ 1. Upoważnia się:
-1) Krajową Radę Doradców Podatkowych do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodu doradcy podatkowego;
-2) Komisję Nadzoru Finansowego do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodów:
-a) maklera papierów wartościowych,
-b) doradcy inwestycyjnego,
-c) aktuariusza.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: P. Szałamacha
+
+**§ 1.** Upoważnia się:
+
+- **1)** Krajową Radę Doradców Podatkowych do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodu doradcy podatkowego;
+- **2)** Komisję Nadzoru Finansowego do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym kwalifikacji do wykonywania zawodów:
+    - **a)** maklera papierów wartościowych,
+    - **b)** doradcy inwestycyjnego,
+    - **c)** aktuariusza.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: P. Szałamacha
 

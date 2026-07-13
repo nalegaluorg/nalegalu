@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000723) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/723/text.pdf) |
 
 zmieniające rozporządzenie w sprawie metody zapobiegania COVID-19 Na podstawie art. 3 ust. 4 pkt 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120 oraz z 2022 r. poz. 64 i 655) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19 (Dz. U. z 2021 r. poz. 10, z późn. zm. ) po § 2a dodaje się § 2b w brzmieniu: „§ 2b. Obowiązku przedstawiania tłumaczenia zaświadczenia o zaszczepieniu przeciwko COVID-19, o którym mowa w § 2a ust. 2, nie stosuje się do osób przekraczających granicę Rzeczypospolitej Polskiej z Ukrainą w związku z konfliktem zbrojnym na terytorium tego państwa.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19 (Dz. U. z 2021 r. poz. 10, z późn. zm. ) po § 2a dodaje się § 2b w brzmieniu: „§ 2b. Obowiązku przedstawiania tłumaczenia zaświadczenia o zaszczepieniu przeciwko COVID-19, o którym mowa w § 2a ust. 2, nie stosuje się do osób przekraczających granicę Rzeczypospolitej Polskiej z Ukrainą w związku z konfliktem zbrojnym na terytorium tego państwa.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r. Minister Zdrowia: A. Niedzielski
 

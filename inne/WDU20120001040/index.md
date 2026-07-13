@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1040/text.pdf) |
 
 w sprawie uchylenia zakazu wprowadzania na terytorium Rzeczypospolitej Polskiej ziemniaków pochodzących z Arabskiej Republiki Egiptu Na podstawie art. 20 ust. 1 pkt 3 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm. ) zarządza się, co następuje:
-§ 1. Uchyla się zakaz wprowadzania na terytorium Rzeczypospolitej Polskiej bulw roślin gatunku Solanum tuberosum L. pochodzących z Arabskiej Republiki Egiptu, innych niż bulwy roślin gatunku Solanum tuberosum L. przeznaczone do sadzenia, o których mowa w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2008 r. w sprawie zapobiegania wprowadzaniu i rozprzestrzenianiu się organizmów kwarantannowych (Dz. U. Nr 46, poz. 272, z późn. zm. ) w załączniku nr 3 w części A w pkt 10.
-§ 2. Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. w sprawie zakazu wprowadzania na terytorium Rzeczypospolitej Polskiej ziemniaków pochodzących z Arabskiej Republiki Egiptu (Dz. U. Nr 86, poz. 533).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
+
+**§ 1.** Uchyla się zakaz wprowadzania na terytorium Rzeczypospolitej Polskiej bulw roślin gatunku Solanum tuberosum L. pochodzących z Arabskiej Republiki Egiptu, innych niż bulwy roślin gatunku Solanum tuberosum L. przeznaczone do sadzenia, o których mowa w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lutego 2008 r. w sprawie zapobiegania wprowadzaniu i rozprzestrzenianiu się organizmów kwarantannowych (Dz. U. Nr 46, poz. 272, z późn. zm. ) w załączniku nr 3 w części A w pkt 10.
+
+**§ 2.** Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2008 r. w sprawie zakazu wprowadzania na terytorium Rzeczypospolitej Polskiej ziemniaków pochodzących z Arabskiej Republiki Egiptu (Dz. U. Nr 86, poz. 533).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
 

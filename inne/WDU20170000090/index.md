@@ -26,18 +26,20 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000090) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/90/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadawania uprawnień zawodowych w zakresie szacowania nieruchomości Na podstawie art. 197 pkt 1–5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 poz. 2147 i 2260) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 11 marca 2014 r. w sprawie nadawania uprawnień zawodowych w zakresie szacowania nieruchomości (Dz. U. poz. 328) wprowadza się następujące zmiany:
-1) w § 2 w pkt 5 wyrazy „ministra właściwego do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się wyrazami „ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa”;
-2) załącznik nr 2 otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
-3) załącznik nr 3 otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
-4) załącznik nr 4 otrzymuje brzmienie określone w załączniku nr 3 do niniejszego rozporządzenia;
-5) załącznik nr 5 otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia;
-6) załącznik nr 6 otrzymuje brzmienie określone w załączniku nr 5 do niniejszego rozporządzenia;
-7) załącznik nr 7 otrzymuje brzmienie określone w załączniku nr 6 do niniejszego rozporządzenia.
-§ 2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury i Budownictwa: A. Adamczyk WZÓR JEDNOSTRONNEGO ŚWIADECTWA NADANIA UPRAWNIEŃ ZAWODOWYCH W ZAKRESIE SZACOWANIA NIERUCHOMOŚCI MINISTER <właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa> ŚWIADECTWO < iiiimmmmiiiięęęę>>>> <<<<nnnnaaaazzzzwwwwiiiisssskkkkoooo>>>> ssss....////cccc.... <<<<iiiimmmmiiiięęęę oooojjjjccccaaaa>>>> NNNNrrrr <<<<nnnnuuuummmmeeeerrrr uuuupppprrrraaaawwwwnnnniiiieeeeńńńń>>>> rzeczoznawcy majątkowego Załącznik nr 2 WZÓR DWUSTRONNEGO ŚWIADECTWA NADANIA UPRAWNIEŃ ZAWODOWYCH W ZAKRESIE WZÓR DWUSTRONNEGO SZACOWANIA ŚWIADECTWA NIERUCHOMOŚCI NADANIA UPRAWNIEŃ ZAWODOWYCH W ZAKRESIE SZACOWANIA NIERUCHOMOŚCI strona przednia strona tylna ŚWIADECTWO <imię> <nazwisko> s./c. <imię ojca> <miejsce na fotografię> Nr <numer uprawnień> Uwaga: świadectwo jest dwustronne o formacie 80 mm x 110 mm. Na tylnej stronie w lewym dolnym rogu świadectwa podaje się datę nadania uprawnień zawodowych w zakresie szacowania nieruchomości. Świadectwo podpisuje minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa lub osoba upoważniona przez ministra.
-Napisy „ŚWIADECTWO Nr <numer uprawnień>”, „rzeczoznawcy majątkowego”, miejscowość i data oraz ramka są w kolorze niebieskim, w systemie RGB:0;0;255.
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 11 marca 2014 r. w sprawie nadawania uprawnień zawodowych w zakresie szacowania nieruchomości (Dz. U. poz. 328) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 5 wyrazy „ministra właściwego do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa” zastępuje się wyrazami „ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa”;
+- **2)** załącznik nr 2 otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+- **3)** załącznik nr 3 otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
+- **4)** załącznik nr 4 otrzymuje brzmienie określone w załączniku nr 3 do niniejszego rozporządzenia;
+- **5)** załącznik nr 5 otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia;
+- **6)** załącznik nr 6 otrzymuje brzmienie określone w załączniku nr 5 do niniejszego rozporządzenia;
+- **7)** załącznik nr 7 otrzymuje brzmienie określone w załączniku nr 6 do niniejszego rozporządzenia.
+
+**§ 2.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury i Budownictwa: A. Adamczyk WZÓR JEDNOSTRONNEGO ŚWIADECTWA NADANIA UPRAWNIEŃ ZAWODOWYCH W ZAKRESIE SZACOWANIA NIERUCHOMOŚCI MINISTER <właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa> ŚWIADECTWO < iiiimmmmiiiięęęę>>>> <<<<nnnnaaaazzzzwwwwiiiisssskkkkoooo>>>> ssss....////cccc.... <<<<iiiimmmmiiiięęęę oooojjjjccccaaaa>>>> NNNNrrrr <<<<nnnnuuuummmmeeeerrrr uuuupppprrrraaaawwwwnnnniiiieeeeńńńń>>>> rzeczoznawcy majątkowego Załącznik nr 2 WZÓR DWUSTRONNEGO ŚWIADECTWA NADANIA UPRAWNIEŃ ZAWODOWYCH W ZAKRESIE WZÓR DWUSTRONNEGO SZACOWANIA ŚWIADECTWA NIERUCHOMOŚCI NADANIA UPRAWNIEŃ ZAWODOWYCH W ZAKRESIE SZACOWANIA NIERUCHOMOŚCI strona przednia strona tylna ŚWIADECTWO <imię> <nazwisko> s./c. <imię ojca> <miejsce na fotografię> Nr <numer uprawnień> Uwaga: świadectwo jest dwustronne o formacie 80 mm x 110 mm. Na tylnej stronie w lewym dolnym rogu świadectwa podaje się datę nadania uprawnień zawodowych w zakresie szacowania nieruchomości. Świadectwo podpisuje minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa lub osoba upoważniona przez ministra. Napisy „ŚWIADECTWO Nr <numer uprawnień>”, „rzeczoznawcy majątkowego”, miejscowość i data oraz ramka są w kolorze niebieskim, w systemie RGB:0;0;255.
 
 ## Załącznik nr 3 — WZORY JEDNOSTRONNYCH I DWUSTRONNYCH DUPLIKATÓW ŚWIADECTW NADANIA UPRAWNIEŃ ZAWODOWYCH W ZAKRESIE SZACOWANIA NIERUCHOMOŚCI Duplikat MINISTER <właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa> ŚWIADECTWO NADANIA UPRAWNIEŃ ZAWODOWYCH W ZAKRESIE SZACOWANIA NIERUCHOMOŚCI <<<<iiiimmmmiiiięęęę>>>> <<<<nnnnaaaazzzzwwwwiiiisssskkkkoooo>>>> ssss....////cccc.... <<<<iiiimmmmiiiięęęę oooojjjjccccaaaa>>>> ...................
 

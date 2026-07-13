@@ -27,11 +27,17 @@ source: pdf
 
 w sprawie upoważnienia Naczelnika Dolnośląskiego Urzędu Celno-Skarbowego we Wrocławiu do wykonywania niektórych zadań w zakresie przeciwdziałania wspieraniu agresji na Ukrainę Na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
 poz. 813, z późn. zm. ) zarządza się, co następuje:
-§ 1. 1. Upoważnia się Naczelnika Dolnośląskiego Urzędu Celno-Skarbowego we Wrocławiu do wykonywania zadań i kompetencji Szefa Krajowej Administracji Skarbowej, o których mowa w:
-1) art. 143a ust. 1 i 3 oraz art. 143b pkt 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej;
-2) art. 5 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. poz. 835 i 1713).
+
+**§ 1.**
+
+1. Upoważnia się Naczelnika Dolnośląskiego Urzędu Celno-Skarbowego we Wrocławiu do wykonywania zadań i kompetencji Szefa Krajowej Administracji Skarbowej, o których mowa w:
+
+- **1)** art. 143a ust. 1 i 3 oraz art. 143b pkt 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej;
+- **2)** art. 5 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. poz. 835 i 1713).
+
 2. Upoważnienie, o którym mowa w ust. 1, obejmuje całe terytorium Rzeczypospolitej Polskiej.
-§ 2. Do spraw, o których mowa w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 2.** Do spraw, o których mowa w § 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: M. Rzeczkowska
 

@@ -27,9 +27,13 @@ source: pdf
 
 w sprawie nadania statutu Pienińskiemu Parkowi Narodowemu z siedzibą w Krościenku nad Dunajcem Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. Pienińskiemu Parkowi Narodowemu z siedzibą w Krościenku nad Dunajcem nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Środowiska: M. Korolec STATUT PIENIŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W KROŚCIENKU NAD DUNAJCEM
+
+**§ 1.** Pienińskiemu Parkowi Narodowemu z siedzibą w Krościenku nad Dunajcem nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. Minister Środowiska: M. Korolec STATUT PIENIŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W KROŚCIENKU NAD DUNAJCEM
+
+## Załącznik
+
 § 1. Pieniński Park Narodowy z siedzibą w Krościenku nad Dunajcem, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1) Dział Ochrony Przyrody;

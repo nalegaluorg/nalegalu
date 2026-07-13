@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie dopuszczalnych ilości substancji zanieczyszczających, które mogą być odprowadzane w ściekach przemysłowych Na podstawie art. 99 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r.
 poz. 125 i 534) zarządza się, co następuje:
-§ 1. Dopuszczalne ilości substancji zanieczyszczających, wyrażone w jednostkach masy przypadających na jednostkę wykorzystywanego surowca, materiału, paliwa lub powstającego produktu, które mogą być odprowadzane w ściekach przemysłowych, w jednym lub więcej okresach, zostały określone w załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk M W W W W M M W W M W M W M W W W W M
+
+**§ 1.** Dopuszczalne ilości substancji zanieczyszczających, wyrażone w jednostkach masy przypadających na jednostkę wykorzystywanego surowca, materiału, paliwa lub powstającego produktu, które mogą być odprowadzane w ściekach przemysłowych, w jednym lub więcej okresach, zostały określone w załączniku do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk M W W W W M M W W M W M W M W W W W M
 

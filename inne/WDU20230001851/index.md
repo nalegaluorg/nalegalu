@@ -36,14 +36,16 @@ z 2021 r. poz. 1153), z uwzględnieniem zmian wprowadzonych:
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 maja 2018 r.
 w sprawie rodzajów elektronicznej dokumentacji medycznej Na podstawie art. 13a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 r.
 poz. 1555, 2280 i 2705 oraz z 2023 r. poz. 650, 1234 i 1692) zarządza się, co następuje:
-§ 1. Elektroniczną dokumentację medyczną stanowią:
-1) informacja o rozpoznaniu choroby, problemu zdrowotnego lub urazu, wynikach przeprowadzonych badań, przyczynie odmowy przyjęcia do szpitala, udzielonych świadczeniach zdrowotnych oraz ewentualnych zaleceniach – w przypadku odmowy przyjęcia pacjenta do szpitala, o której mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675 i 1692);
-2) informacja dla lekarza kierującego świadczeniobiorcę do poradni specjalistycznej lub leczenia szpitalnego o rozpoznaniu, sposobie leczenia, rokowaniu, ordynowanych lekach, środkach spożywczych specjalnego przeznaczenia żywieniowego i wyrobach medycznych, w tym okresie ich stosowania i sposobie dawkowania oraz wyznaczonych wizytach kontrolnych, o której mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r.
-o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. );
-3) karta informacyjna z leczenia szpitalnego, o której mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
-4) wyniki badań laboratoryjnych wraz z opisem;
-5) opis badań diagnostycznych, innych niż wskazane w pkt 4;
-6) karta profilaktycznego badania ucznia, o której mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
-7) Indywidualny Plan Opieki Medycznej, o którym mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Elektroniczną dokumentację medyczną stanowią:
+
+- **1)** informacja o rozpoznaniu choroby, problemu zdrowotnego lub urazu, wynikach przeprowadzonych badań, przyczynie odmowy przyjęcia do szpitala, udzielonych świadczeniach zdrowotnych oraz ewentualnych zaleceniach – w przypadku odmowy przyjęcia pacjenta do szpitala, o której mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675 i 1692);
+- **2)** informacja dla lekarza kierującego świadczeniobiorcę do poradni specjalistycznej lub leczenia szpitalnego o rozpoznaniu, sposobie leczenia, rokowaniu, ordynowanych lekach, środkach spożywczych specjalnego przeznaczenia żywieniowego i wyrobach medycznych, w tym okresie ich stosowania i sposobie dawkowania oraz wyznaczonych wizytach kontrolnych, o której mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. );
+- **3)** karta informacyjna z leczenia szpitalnego, o której mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **4)** wyniki badań laboratoryjnych wraz z opisem;
+- **5)** opis badań diagnostycznych, innych niż wskazane w pkt 4;
+- **6)** karta profilaktycznego badania ucznia, o której mowa w przepisach wydanych na podstawie art. 30 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
+- **7)** Indywidualny Plan Opieki Medycznej, o którym mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

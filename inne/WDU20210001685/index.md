@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001685) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1685/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zlewni Na podstawie art. 13 ust. 6 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 624, 784, 1564 i 1641) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 27 grudnia 2017 r. w sprawie zlewni (Dz. U. poz. 2509) w § 2:
-1) w pkt 2 uchyla się lit. f;
-2) w pkt 3 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) zlewnia Babulówki;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 27 grudnia 2017 r. w sprawie zlewni (Dz. U. poz. 2509) w § 2:
+
+- **1)** w pkt 2 uchyla się lit. f;
+- **2)** w pkt 3 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) zlewnia Babulówki;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

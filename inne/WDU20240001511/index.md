@@ -30,8 +30,12 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 14 grudnia 2022 r. zmieniającego rozporządzenie w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów spółek kapitałowych powstałych z przekształcenia samodzielnych publicznych zakładów opieki zdrowotnej (Dz. U. poz. 2660), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Finansów: A. Domański
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 23 grudnia 2019 r.
 w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów spółek kapitałowych powstałych z przekształcenia samodzielnych publicznych zakładów opieki zdrowotnej Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879) zarządza się, co następuje:
-§ 1. Zarządza się zaniechanie poboru podatku dochodowego od osób prawnych od dochodów stanowiących równowartość niezaliczonych do kosztów uzyskania przychodów odpisów amortyzacyjnych od wartości początkowej środków trwałych wniesionych nieodpłatnie przez podmiot tworzący w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799) do spółki kapitałowej powstałej na podstawie tej ustawy w wyniku przekształcenia samodzielnego publicznego zakładu opieki zdrowotnej.
-§ 2. Zaniechanie, o którym mowa w § 1, ma zastosowanie do spółek kapitałowych, których wyłącznymi udziałowcami lub akcjonariuszami w dniu przekształcenia były podmioty, o których mowa w art. 6 ust. 1, 2 lub 6 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
-§ 3. Zaniechanie, o którym mowa w § 1, ma zastosowanie do dochodów uzyskanych od dnia 1 stycznia 2020 r. do dnia 31 grudnia 2025 r.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Zarządza się zaniechanie poboru podatku dochodowego od osób prawnych od dochodów stanowiących równowartość niezaliczonych do kosztów uzyskania przychodów odpisów amortyzacyjnych od wartości początkowej środków trwałych wniesionych nieodpłatnie przez podmiot tworzący w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799) do spółki kapitałowej powstałej na podstawie tej ustawy w wyniku przekształcenia samodzielnego publicznego zakładu opieki zdrowotnej.
+
+**§ 2.** Zaniechanie, o którym mowa w § 1, ma zastosowanie do spółek kapitałowych, których wyłącznymi udziałowcami lub akcjonariuszami w dniu przekształcenia były podmioty, o których mowa w art. 6 ust. 1, 2 lub 6 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
+
+**§ 3.** Zaniechanie, o którym mowa w § 1, ma zastosowanie do dochodów uzyskanych od dnia 1 stycznia 2020 r. do dnia 31 grudnia 2025 r.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

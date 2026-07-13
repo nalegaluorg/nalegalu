@@ -26,10 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002044) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2044/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szkoleń w dziedzinie ochrony radiologicznej pacjenta Na podstawie art. 33n ust. 19 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2019 r. poz. 1792 oraz z 2020 r. poz. 284 i 322) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 marca 2020 r. w sprawie szkoleń w dziedzinie ochrony radiologicznej pacjenta (Dz. U. poz. 390) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. 1. Egzamin wewnętrzny w ramach szkoleń prowadzonych w formach, o których mowa w § 2, jest przeprowadzany w formie stacjonarnej, polegającej na udzielaniu w czasie 60 minut odpowiedzi na pytania zawarte w teście obejmującym od 30 do 40 pytań z zakresu tematycznego tego szkolenia.
-2. W uzasadnionych przypadkach, związanych z ogłoszeniem stanu zagrożenia epidemicznego lub stanu epidemii, egzamin wewnętrzny może zostać przeprowadzony na odległość, za pośrednictwem środków komunikacji elektronicznej umożliwiających jednoczesny udział zdającego i egzaminatorów, i polega na:
-1) udzielaniu w czasie 60 minut odpowiedzi na pytania zawarte w teście obejmującym od 30 do 40 pytań z zakresu tematycznego tego szkolenia albo
-2) udzielaniu odpowiedzi na 10 pytań z zakresu tematycznego szkolenia, kierowanych do uczestnika tego szkolenia przez egzaminatorów.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 6 marca 2020 r. w sprawie szkoleń w dziedzinie ochrony radiologicznej pacjenta (Dz. U. poz. 390) po § 2 dodaje się § 2a w brzmieniu:
+
+> „§ 2a.  
+> 1. Egzamin wewnętrzny w ramach szkoleń prowadzonych w formach, o których mowa w § 2, jest przeprowadzany w formie stacjonarnej, polegającej na udzielaniu w czasie 60 minut odpowiedzi na pytania zawarte w teście obejmującym od 30 do 40 pytań z zakresu tematycznego tego szkolenia.  
+> 2. W uzasadnionych przypadkach, związanych z ogłoszeniem stanu zagrożenia epidemicznego lub stanu epidemii, egzamin wewnętrzny może zostać przeprowadzony na odległość, za pośrednictwem środków komunikacji elektronicznej umożliwiających jednoczesny udział zdającego i egzaminatorów, i polega na:  
+> 1) udzielaniu w czasie 60 minut odpowiedzi na pytania zawarte w teście obejmującym od 30 do 40 pytań z zakresu tematycznego tego szkolenia albo 2) udzielaniu odpowiedzi na 10 pytań z zakresu tematycznego szkolenia, kierowanych do uczestnika tego szkolenia przez egzaminatorów.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

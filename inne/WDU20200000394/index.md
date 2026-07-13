@@ -26,49 +26,78 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000394) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/394/text.pdf) |
 
 w sprawie badań strażaka powracającego do kraju z delegowania do pełnienia służby poza granicą państwa w grupie ratowniczej oraz kierowania go na turnus leczniczo-profilaktyczny Na podstawie art. 49i ust. 9 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2019 r. poz. 1499, 1635, 1726 i 2020) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) organ właściwy do kierowania strażaka delegowanego do pełnienia służby poza granicą państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, zwanej dalej „ustawą”, po powrocie do kraju, na badania lekarskie i psychologiczne, o których mowa w art. 49i ust. 1 ustawy, zwane dalej „badaniami”;
-2) zakres badań;
-3) podmiot właściwy do przeprowadzania badań;
-4) rodzaje i wzory dokumentów wystawianych po przeprowadzeniu badań;
-5) tryb kierowania strażaka delegowanego do pełnienia służby poza granicą państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy, zwanego dalej „strażakiem”, wraz z pełnoletnim najbliższym członkiem rodziny na turnus leczniczo-profilaktyczny, zwany dalej „turnusem”;
-6) podmiot kierujący na turnus;
-7) ramowy program turnusu;
-8) podmiot prowadzący turnus;
-9) rodzaje i wzory dokumentów wystawianych w związku z kierowaniem na turnus.
-§ 2. Strażaka na badania kieruje, po powrocie do kraju, kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, w której strażak pełni służbę.
-§ 3. Zakres badań jest określony w załączniku nr 1 do rozporządzenia.
-§ 4. Badania przeprowadzają jednostki organizacyjne podmiotów leczniczych utworzonych i nadzorowanych przez ministra właściwego do spraw wewnętrznych, o których mowa w przepisach wydanych na podstawie art. 27 ust. 2 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2019 r. poz. 1175), albo inne podmioty lecznicze wykonujące zadania służby medycyny pracy na podstawie umowy zawartej z jednostką organizacyjną Państwowej Straży Pożarnej, w której strażak pełni służbę.
-§ 5. 1. Badanie psychologiczne kończy się wydaniem przez psychologa informacji z badania psychologicznego.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** organ właściwy do kierowania strażaka delegowanego do pełnienia służby poza granicą państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, zwanej dalej „ustawą”, po powrocie do kraju, na badania lekarskie i psychologiczne, o których mowa w art. 49i ust. 1 ustawy, zwane dalej „badaniami”;
+- **2)** zakres badań;
+- **3)** podmiot właściwy do przeprowadzania badań;
+- **4)** rodzaje i wzory dokumentów wystawianych po przeprowadzeniu badań;
+- **5)** tryb kierowania strażaka delegowanego do pełnienia służby poza granicą państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy, zwanego dalej „strażakiem”, wraz z pełnoletnim najbliższym członkiem rodziny na turnus leczniczo-profilaktyczny, zwany dalej „turnusem”;
+- **6)** podmiot kierujący na turnus;
+- **7)** ramowy program turnusu;
+- **8)** podmiot prowadzący turnus;
+- **9)** rodzaje i wzory dokumentów wystawianych w związku z kierowaniem na turnus.
+
+**§ 2.** Strażaka na badania kieruje, po powrocie do kraju, kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, w której strażak pełni służbę.
+
+**§ 3.** Zakres badań jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 4.** Badania przeprowadzają jednostki organizacyjne podmiotów leczniczych utworzonych i nadzorowanych przez ministra właściwego do spraw wewnętrznych, o których mowa w przepisach wydanych na podstawie art. 27 ust. 2 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2019 r. poz. 1175), albo inne podmioty lecznicze wykonujące zadania służby medycyny pracy na podstawie umowy zawartej z jednostką organizacyjną Państwowej Straży Pożarnej, w której strażak pełni służbę.
+
+**§ 5.**
+
+1. Badanie psychologiczne kończy się wydaniem przez psychologa informacji z badania psychologicznego.
+
 2. Wzór informacji z badania psychologicznego jest określony w załączniku nr 2 do rozporządzenia.
-§ 6. 1. Badania kończą się wydaniem orzeczenia lekarskiego.
+
+**§ 6.**
+
+1. Badania kończą się wydaniem orzeczenia lekarskiego.
+
 2. Wzór orzeczenia lekarskiego jest określony w załączniku nr 3 do rozporządzenia.
-§ 7. 1. Strażak, który zgodnie ze wskazaniami lekarza zawartymi w orzeczeniu lekarskim może być skierowany na turnus, składa wniosek o skierowanie na turnus do przełożonego uprawnionego do powołania lub mianowania. Strażak pełniący służbę w Komendzie Głównej Państwowej Straży Pożarnej składa wniosek o skierowanie na turnus do kierownika komórki organizacyjnej, w której pełni służbę.
+
+**§ 7.**
+
+1. Strażak, który zgodnie ze wskazaniami lekarza zawartymi w orzeczeniu lekarskim może być skierowany na turnus, składa wniosek o skierowanie na turnus do przełożonego uprawnionego do powołania lub mianowania. Strażak pełniący służbę w Komendzie Głównej Państwowej Straży Pożarnej składa wniosek o skierowanie na turnus do kierownika komórki organizacyjnej, w której pełni służbę.
+
 2. Wniosek o skierowanie na turnus jest przekazywany drogą służbową do Komendanta Głównego Państwowej Straży Pożarnej.
+
 3. Do wniosku o skierowanie na turnus dołącza się orzeczenie lekarskie oraz informację z badania psychologicznego.
+
 4. Wzór wniosku o skierowanie na turnus jest określony w załączniku nr 4 do rozporządzenia.
-§ 8. 1. Strażaka na turnus kieruje Komendant Główny Państwowej Straży Pożarnej.
+
+**§ 8.**
+
+1. Strażaka na turnus kieruje Komendant Główny Państwowej Straży Pożarnej.
+
 2. Wzór skierowania na turnus jest określony w załączniku nr 5 do rozporządzenia.
-§ 9. 1. Turnusy są prowadzone w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, w których są udzielane stacjonarne i całodobowe świadczenia opieki zdrowotnej z zakresu leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej.
+
+**§ 9.**
+
+1. Turnusy są prowadzone w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, w których są udzielane stacjonarne i całodobowe świadczenia opieki zdrowotnej z zakresu leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej.
+
 2. Ramowy program turnusu jest określony w załączniku nr 6 do rozporządzenia.
-§ 10. Rozporządzenie wchodzi w życie z dniem 11 marca 2020 r.
-Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji Dziennik Ustaw – 3 – z dnia ………………………. 2020 r. (poz. Poz. ….) 394 Załącznik nr 1 ZAKRES BADAŃ LEKARSKICH I PSYCHOLOGICZNYCH, KTÓRYM PODLEGA STRAŻAKPOWRACAJĄCY DO KRAJU Z DELEGOWANIA DO PEŁNIENIA SŁUŻBY POZA ZAKRES GRANICĄ BADAŃ PAŃSTWA LEKARSKICH W GRUPIE I PSYCHOLOGICZNYCH, RATOWNICZEJ, KTÓRYM O KTÓREJ PODLEGA MOWA STRAŻAK W ART.
-POWRACAJĄCY DO KRAJU Z DELEGOWANIA DO PEŁNIENIA SŁUŻBY POZA GRANICĄ PAŃSTWA W GRUPIE 49B UST. RATOWNICZEJ, 1 PKT 1 USTAWY O KTÓREJ Z MOWA DNIA W 24 ART. SIERPNIA 49B UST. 1 1991 PKT R. 1 USTAWY O PAŃSTWOWEJ Z DNIA 24 SIERPNIA STRAŻY 1991 R.
-O PAŃSTWOWEJ POŻARNEJ STRAŻY POŻARNEJ
-1. Ogólne badania lekarskie.
-2. Badania diagnostyczne i laboratoryjne bezpośrednio po powrocie do kraju:
-1) EKG spoczynkowe;
-2) RTG klatki piersiowej;
-3) badania morfologiczne krwi z rozmazem i poziomem płytek krwi;
-4) OB;
-5) CRP;
-6) badania biochemiczne krwi z uwzględnieniem poziomu: bilirubiny, kreatyniny, glukozy na czczo, aktywności ALAT, ASPAT i GGTP oraz jonogramu;
-7) badanie ogólne moczu, w tym badania na obecność substancji psychoaktywnych.
+
+**§ 10.** Rozporządzenie wchodzi w życie z dniem 11 marca 2020 r. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji Dziennik Ustaw – 3 – z dnia ………………………. 2020 r. (poz. Poz. ….) 394 Załącznik nr 1 ZAKRES BADAŃ LEKARSKICH I PSYCHOLOGICZNYCH, KTÓRYM PODLEGA STRAŻAKPOWRACAJĄCY DO KRAJU Z DELEGOWANIA DO PEŁNIENIA SŁUŻBY POZA ZAKRES GRANICĄ BADAŃ PAŃSTWA LEKARSKICH W GRUPIE I PSYCHOLOGICZNYCH, RATOWNICZEJ, KTÓRYM O KTÓREJ PODLEGA MOWA STRAŻAK W ART. POWRACAJĄCY DO KRAJU Z DELEGOWANIA DO PEŁNIENIA SŁUŻBY POZA GRANICĄ PAŃSTWA W GRUPIE 49B UST. RATOWNICZEJ, 1 PKT 1 USTAWY O KTÓREJ Z MOWA DNIA W 24 ART. SIERPNIA 49B UST. 1 1991 PKT R. 1 USTAWY O PAŃSTWOWEJ Z DNIA 24 SIERPNIA STRAŻY 1991 R. O PAŃSTWOWEJ POŻARNEJ STRAŻY POŻARNEJ 1. Ogólne badania lekarskie. 2. Badania diagnostyczne i laboratoryjne bezpośrednio po powrocie do kraju:
+
+- **1)** EKG spoczynkowe;
+- **2)** RTG klatki piersiowej;
+- **3)** badania morfologiczne krwi z rozmazem i poziomem płytek krwi;
+- **4)** OB;
+- **5)** CRP;
+- **6)** badania biochemiczne krwi z uwzględnieniem poziomu: bilirubiny, kreatyniny, glukozy na czczo, aktywności ALAT, ASPAT i GGTP oraz jonogramu;
+- **7)** badanie ogólne moczu, w tym badania na obecność substancji psychoaktywnych.
+
 3. Inne badania, jeżeli lekarz prowadzący uzna takie badania za niezbędne.
+
 4. Badania laboratoryjne po 30 dniach po powrocie do kraju – w przypadku gdy podczas delegowania strażak miał kontakt z materiałem biologicznym potencjalnie zakaźnym:
-1) anty-HCV;
-2) anty-HIV.
+
+- **1)** anty-HCV;
+- **2)** anty-HIV.
+
 5. Badanie psychologiczne bezpośrednio po powrocie do kraju – określenie poziomu funkcjonowania strażaka w odniesieniu do doświadczeń z okresu delegowania, radzenia sobie w sytuacjach trudnych, występowania cech zaburzeń stresowych (ASD, PTSD).
+
 6. Badanie psychologiczne po 30 dniach po powrocie do kraju – w przypadku gdy w pierwszym badaniu stwierdzono symptomy lub zaburzenia w funkcjonowaniu strażaka.
 
 ## Załącznik nr 2 — WZÓR WZÓR INFORMACJA Z BADANIA PSYCHOLOGICZNEGO W wyniku badania psychologicznego przeprowadzonego na podstawie art. 49i ust. 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2019 r. poz. 1499, z późn. zm.) w dniu ...............................................

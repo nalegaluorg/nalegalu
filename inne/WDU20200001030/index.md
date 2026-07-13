@@ -27,13 +27,16 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych Na podstawie art. 16 ust. 3 pkt 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U.
 z 2019 r. poz. 1776) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, 469, 864 i 905) w § 3 wprowadza się następujące zmiany:
-1) uchyla się ust. 1;
-2) w ust. 2:
-a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Ograniczenie, o którym mowa w § 2, polega na ograniczeniu ruchu osobowego na przejściach granicznych, na kierunku wjazdowym do Rzeczypospolitej Polskiej, do następujących kategorii osób przekraczających granicę państwową:”,
-b) pkt 10 otrzymuje brzmienie: „10) obywatele państw członkowskich Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz ich małżonkowie i dzieci, w celu przejazdu przez terytorium Rzeczypospolitej Polskiej, do miejsca zamieszkania lub pobytu;”,
-c) po pkt 10 dodaje się pkt 11 w brzmieniu: „11) cudzoziemcy posiadający zezwolenie na pobyt stały lub zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, na terytorium innych państw członkowskich Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz ich małżonkowie i dzieci, w celu przejazdu przez terytorium Rzeczypospolitej Polskiej, do miejsca zamieszkania lub pobytu.”.
-§ 2. Odwołuje się ograniczenie ruchu granicznego na przejściach granicznych z Republiką Litewską od dnia 12 czerwca 2020 r. od godz. 9.00.
-§ 3. Rozporządzenie wchodzi w życie z dniem 13 czerwca 2020 r., z wyjątkiem § 2, który wchodzi w życie z dniem ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, 469, 864 i 905) w § 3 wprowadza się następujące zmiany:
+
+- **1)** uchyla się ust. 1;
+- **2)** w ust. 2:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Ograniczenie, o którym mowa w § 2, polega na ograniczeniu ruchu osobowego na przejściach granicznych, na kierunku wjazdowym do Rzeczypospolitej Polskiej, do następujących kategorii osób przekraczających granicę państwową:”,
+    - **b)** pkt 10 otrzymuje brzmienie: „10) obywatele państw członkowskich Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz ich małżonkowie i dzieci, w celu przejazdu przez terytorium Rzeczypospolitej Polskiej, do miejsca zamieszkania lub pobytu;”,
+    - **c)** po pkt 10 dodaje się pkt 11 w brzmieniu: „11) cudzoziemcy posiadający zezwolenie na pobyt stały lub zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, na terytorium innych państw członkowskich Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz ich małżonkowie i dzieci, w celu przejazdu przez terytorium Rzeczypospolitej Polskiej, do miejsca zamieszkania lub pobytu.”.
+
+**§ 2.** Odwołuje się ograniczenie ruchu granicznego na przejściach granicznych z Republiką Litewską od dnia 12 czerwca 2020 r. od godz. 9.00.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 13 czerwca 2020 r., z wyjątkiem § 2, który wchodzi w życie z dniem ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

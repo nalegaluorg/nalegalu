@@ -26,10 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001826) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1826/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej na kształcenie dzieci policjantów, których śmierć nastąpiła w związku ze służbą Na podstawie art. 116a ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej na kształcenie dzieci policjantów, których śmierć nastąpiła w związku ze służbą (Dz. U. poz. 707 oraz z 2016 r. poz. 1593) wprowadza się następujące zmiany:
-1) w § 4 w ust. 2 w pkt 1 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”;
-2) w § 5 w ust. 1 w pkt 1 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”.
-§ 2. Do spraw przyznawania pomocy finansowej na kształcenie dzieci policjantów, których śmierć nastąpiła w związku ze służbą, przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się od dnia 1 września 2017 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 2007 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej na kształcenie dzieci policjantów, których śmierć nastąpiła w związku ze służbą (Dz. U. poz. 707 oraz z 2016 r. poz. 1593) wprowadza się następujące zmiany:
+
+- **1)** w § 4 w ust. 2 w pkt 1 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”;
+- **2)** w § 5 w ust. 1 w pkt 1 wyraz „ponadgimnazjalnych” zastępuje się wyrazem „ponadpodstawowych”.
+
+**§ 2.** Do spraw przyznawania pomocy finansowej na kształcenie dzieci policjantów, których śmierć nastąpiła w związku ze służbą, przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się od dnia 1 września 2017 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

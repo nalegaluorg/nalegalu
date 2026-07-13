@@ -27,10 +27,13 @@ source: pdf
 
 w sprawie wysokości stawek opłaty za nadanie indywidualnego kodu identyfikacyjnego, uznanie kodu oraz ich utrzymanie w systemie teleinformatycznym oraz terminu wnoszenia tej opłaty w roku 2025 Na podstawie art. 41b ust. 5 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U.
 z 2024 r. poz. 1289) zarządza się, co następuje:
-§ 1. Wysokość stawki opłaty za nadanie indywidualnego kodu identyfikacyjnego, zwanego dalej „numerem EIPA”, uznanie kodu nadanego w innym państwie członkowskim Unii Europejskiej, z którym Rzeczpospolita Polska nawiązała współpracę w zakresie wzajemnego uznawania kodów, zwanego dalej „kodem”, oraz ich utrzymanie w systemie teleinformatycznym, zwanej dalej „opłatą”, wynosi miesięcznie:
-1) 10 zł – w przypadku opłaty pobieranej od operatora ogólnodostępnej stacji ładowania, stacji gazu ziemnego lub stacji wodoru, na której świadczona jest usługa tankowania wodoru;
-2) 50 zł – w przypadku opłaty pobieranej od dostawcy usługi ładowania.
-§ 2. Opłata jest wnoszona najpóźniej do 25. dnia miesiąca następującego po miesiącu, w którym nadano numer EIPA, uznano kod lub utrzymywano numer EIPA albo kod w systemie teleinformatycznym.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: P. Hennig-Kloska
+
+**§ 1.** Wysokość stawki opłaty za nadanie indywidualnego kodu identyfikacyjnego, zwanego dalej „numerem EIPA”, uznanie kodu nadanego w innym państwie członkowskim Unii Europejskiej, z którym Rzeczpospolita Polska nawiązała współpracę w zakresie wzajemnego uznawania kodów, zwanego dalej „kodem”, oraz ich utrzymanie w systemie teleinformatycznym, zwanej dalej „opłatą”, wynosi miesięcznie:
+
+- **1)** 10 zł – w przypadku opłaty pobieranej od operatora ogólnodostępnej stacji ładowania, stacji gazu ziemnego lub stacji wodoru, na której świadczona jest usługa tankowania wodoru;
+- **2)** 50 zł – w przypadku opłaty pobieranej od dostawcy usługi ładowania.
+
+**§ 2.** Opłata jest wnoszona najpóźniej do 25. dnia miesiąca następującego po miesiącu, w którym nadano numer EIPA, uznano kod lub utrzymywano numer EIPA albo kod w systemie teleinformatycznym.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: P. Hennig-Kloska
 

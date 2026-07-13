@@ -27,9 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych Na podstawie art. 16 ust. 3 pkt 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2022 r.
 poz. 295) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, z późn. zm. ) w załączniku nr 2 do rozporządzenia w lit. b „granica państwowa z Republiką Białorusi” wiersz oznaczony lp. 5 otrzymuje brzmienie: towarowy – wyłącznie dla pojazdów zarejestrowanych w państwach członkowskich Unii Europejskiej,
-5. Kukuryki – Kozłowiczy drogowe Europejskiego Porozumienia całodobowo o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej
-§ 2. Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się od dnia 21 lutego 2023 r. od godz. 19.00.
-§ 3. Rozporządzenie wchodzi w życie z dniem 21 lutego 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, z późn. zm. ) w załączniku nr 2 do rozporządzenia w lit. b „granica państwowa z Republiką Białorusi” wiersz oznaczony lp. 5 otrzymuje brzmienie: towarowy – wyłącznie dla pojazdów zarejestrowanych w państwach członkowskich Unii Europejskiej, 5. Kukuryki – Kozłowiczy drogowe Europejskiego Porozumienia całodobowo o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej
+
+**§ 2.** Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się od dnia 21 lutego 2023 r. od godz. 19.00.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 21 lutego 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

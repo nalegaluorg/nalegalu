@@ -27,9 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stażu asystenckiego Na podstawie art. 155cb § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r.
 poz. 23, 3, 5, 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 10 czerwca 2014 r. w sprawie stażu asystenckiego (Dz. U.
-poz. 881) § 3 otrzymuje brzmienie: „§ 3. Prezes sądu apelacyjnego wyznacza kierownika stażu spośród sędziów sądu okręgowego lub apelacyjnego.
-Wyznaczenie może nastąpić tylko za zgodą sędziego.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 10 czerwca 2014 r. w sprawie stażu asystenckiego (Dz. U. poz. 881) § 3 otrzymuje brzmienie: „§ 3. Prezes sądu apelacyjnego wyznacza kierownika stażu spośród sędziów sądu okręgowego lub apelacyjnego. Wyznaczenie może nastąpić tylko za zgodą sędziego.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

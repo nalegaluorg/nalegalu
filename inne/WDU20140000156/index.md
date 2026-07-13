@@ -27,33 +27,58 @@ source: pdf
 
 w sprawie szczegółowych zasad gospodarki finansowej oraz zasad lokowania środków Funduszu Ubezpieczeń Społecznych Na podstawie art. 56 ust. 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r.
 poz. 1442, z późn. zm. ) zarządza się, co następuje:
-§ 1. Użyte w rozporządzeniu określenia oznaczają:
-1) FUS – Fundusz Ubezpieczeń Społecznych;
-2) Zakład – Zakład Ubezpieczeń Społecznych, o którym mowa w art. 66 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, zwanej dalej „ustawą”.
-§ 2. 1. Roczny plan finansowy FUS, obejmujący wszystkie źródła przychodów i kosztów określone w ustawie oraz stan FUS na początek i na koniec roku, opracowuje się na okres roku budżetowego.
+
+**§ 1.** Użyte w rozporządzeniu określenia oznaczają:
+
+- **1)** FUS – Fundusz Ubezpieczeń Społecznych;
+- **2)** Zakład – Zakład Ubezpieczeń Społecznych, o którym mowa w art. 66 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, zwanej dalej „ustawą”.
+
+**§ 2.**
+
+1. Roczny plan finansowy FUS, obejmujący wszystkie źródła przychodów i kosztów określone w ustawie oraz stan FUS na początek i na koniec roku, opracowuje się na okres roku budżetowego.
+
 2. Nie dokonuje się podziału planu finansowego FUS na terenowe jednostki organizacyjne.
-§ 3. 1. Wysokość odpisu z FUS, obciążającego fundusze, o których mowa w art. 55 ustawy, stanowiącego przychód Zakładu ustala się proporcjonalnie do wysokości planowanego przypisu składek na te fundusze.
+
+**§ 3.**
+
+1. Wysokość odpisu z FUS, obciążającego fundusze, o których mowa w art. 55 ustawy, stanowiącego przychód Zakładu ustala się proporcjonalnie do wysokości planowanego przypisu składek na te fundusze.
+
 2. Środki finansowe stanowiące przychód Zakładu, o którym mowa w ust. 1, przekazuje się na rachunek bankowy Zakładu po 10 dniu każdego miesiąca w wysokości 1/12 kwoty zatwierdzonej w ustawie budżetowej.
-§ 4. 1. Zakład może lokować okresowe nadwyżki środków występujące na rachunku bankowym FUS, zwane dalej „nadwyżkami”.
+
+**§ 4.**
+
+1. Zakład może lokować okresowe nadwyżki środków występujące na rachunku bankowym FUS, zwane dalej „nadwyżkami”.
+
 2. Nadwyżki mogą być lokowane w bankach, na zasadach określonych w ust. 3–5.
+
 3. Lokowanie nadwyżek nie może zagrażać terminowym wypłatom świadczeń, o których mowa w art. 54 ustawy.
+
 4. Lokowania nadwyżek dokonuje się, mając na względzie efektywność zarządzania oraz bezpieczeństwo środków.
+
 5. Nadwyżki mogą być lokowane wyłącznie:
-1) w papierach wartościowych emitowanych przez Skarb Państwa;
-2) w formie depozytu u Ministra Finansów na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r.
-o finansach publicznych (Dz. U. z 2013 r. poz. 885, 938 i 1646);
-3) na rachunkach lokat terminowych w bankach mających siedzibę na terytorium Rzeczypospolitej Polskiej spełniających warunki określone w ust. 6.
+
+- **1)** w papierach wartościowych emitowanych przez Skarb Państwa;
+- **2)** w formie depozytu u Ministra Finansów na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, 938 i 1646);
+- **3)** na rachunkach lokat terminowych w bankach mających siedzibę na terytorium Rzeczypospolitej Polskiej spełniających warunki określone w ust. 6.
+
 6. Banki, w których mogą być lokowane nadwyżki, posiadają fundusze własne w wysokości co najmniej 50 mln euro, a ich współczynnik wypłacalności wynosi co najmniej 8%.
+
 7. Maksymalna kwota wszystkich lokat nadwyżek w jednym banku, którego współczynnik wypłacalności wynosi co najmniej 12%, nie może być wyższa od równowartości w złotych kwoty:
-1) 50 mln euro, jeżeli fundusze własne banku nie przekraczają 100 mln euro,
-2) 150 mln euro, jeżeli fundusze własne banku nie przekraczają 1 mld euro,
-3) 500 mln euro, jeżeli fundusze własne banku przekraczają 1 mld euro – przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym miesiąca poprzedzającego miesiąc, w którym są lokowane nadwyżki.
+
+- **1)** 50 mln euro, jeżeli fundusze własne banku nie przekraczają 100 mln euro,
+- **2)** 150 mln euro, jeżeli fundusze własne banku nie przekraczają 1 mld euro,
+- **3)** 500 mln euro, jeżeli fundusze własne banku przekraczają 1 mld euro – przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym miesiąca poprzedzającego miesiąc, w którym są lokowane nadwyżki.
+
 8. Maksymalna dopuszczalna kwota lokat nadwyżek w bankach o funduszach własnych, o których mowa w ust. 7, i których współczynnik wypłacalności jest mniejszy niż 12%, jest korygowana mnożnikiem:
-1) 0,5, jeżeli współczynnik wypłacalności banku jest mniejszy od 10%;
-2) 0,8, jeżeli współczynnik wypłacalności banku wynosi co najmniej 10%.
+
+- **1)** 0,5, jeżeli współczynnik wypłacalności banku jest mniejszy od 10%;
+- **2)** 0,8, jeżeli współczynnik wypłacalności banku wynosi co najmniej 10%.
+
 9. Banki, o których mowa w ust. 6, ubiegające się o depozyty z nadwyżek przekazują Zakładowi informację o wysokości funduszy własnych oraz o współczynniku wypłacalności za poprzedni kwartał.
+
 10. Banki, w których są lokowane nadwyżki, nie później niż do końca pierwszego miesiąca każdego kwartału przedkładają Zakładowi informacje o wysokości funduszy własnych oraz o współczynniku wypłacalności za poprzedni kwartał.
+
 11. Odsetki od ulokowanych nadwyżek są przychodami funduszu emerytalnego, o którym mowa w art. 55 ust. 1 pkt 1 ustawy.
-§ 5. Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.
-Minister Pracy i Polityki Społecznej: wz. J. Duda
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r. Minister Pracy i Polityki Społecznej: wz. J. Duda
 

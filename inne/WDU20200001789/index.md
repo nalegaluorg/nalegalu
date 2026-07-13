@@ -27,10 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie określenia brzmienia klauzuli wykonalności Na podstawie art. 783 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2020 r.
 poz. 1575 i 1578) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 6 sierpnia 2014 r. w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1092) wprowadza się następujące zmiany:
-1) w § 1 dodaje się ust. 4 w brzmieniu: „4. Jeżeli orzeczenie podlega wykonaniu jako prawomocne, w treści klauzuli wykonalności wskazuje się datę, z jaką orzeczenie się uprawomocniło.”;
-2) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Jeżeli z treści orzeczenia o kosztach procesu nie wynika wprost, od jakiej daty należą się od nich odsetki przyznane na podstawie art. 98 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w treści klauzuli wykonalności wskazuje się tę datę.”.
-§ 2. Przepisy § 1 ust. 4 i § 2a rozporządzenia zmienianego w § 1 stosuje się do klauzul wykonalności nadawanych po dniu wejścia w życie niniejszego rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 6 sierpnia 2014 r. w sprawie określenia brzmienia klauzuli wykonalności (Dz. U. poz. 1092) wprowadza się następujące zmiany:
+
+- **1)** w § 1 dodaje się ust. 4 w brzmieniu: „4. Jeżeli orzeczenie podlega wykonaniu jako prawomocne, w treści klauzuli wykonalności wskazuje się datę, z jaką orzeczenie się uprawomocniło.”;
+- **2)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Jeżeli z treści orzeczenia o kosztach procesu nie wynika wprost, od jakiej daty należą się od nich odsetki przyznane na podstawie art. 98 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego, w treści klauzuli wykonalności wskazuje się tę datę.”.
+
+**§ 2.** Przepisy § 1 ust. 4 i § 2a rozporządzenia zmienianego w § 1 stosuje się do klauzul wykonalności nadawanych po dniu wejścia w życie niniejszego rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

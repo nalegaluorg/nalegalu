@@ -30,9 +30,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju (Dz. U. poz. 2309), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Środowiska: H. Kowalczyk
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 142 i 10) zarządza się, co następuje:
-§ 1. Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
-STATUT PARKU NARODOWEGO GÓR STOŁOWYCH Z SIEDZIBĄ W KUDOWIE-ZDROJU
+
+**§ 1.** Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia . STATUT PARKU NARODOWEGO GÓR STOŁOWYCH Z SIEDZIBĄ W KUDOWIE-ZDROJU
+
+## Załącznik
+
 § 1. Park Narodowy Gór Stołowych z siedzibą w Kudowie-Zdroju, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 142 i 10) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1) Zespół do spraw Administracyjnych;

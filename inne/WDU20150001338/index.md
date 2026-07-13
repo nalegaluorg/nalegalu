@@ -29,10 +29,19 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2015 r. poz. 909) wprowadza się następujące zmiany:
 
-- **1)** w art. 4 w pkt 28 kropkę zastępuje się średnikiem i dodaje się pkt 29 i 30 w brzmieniu: „29) zwartej zabudowie – rozumie się przez to zgrupowanie nie mniej niż 5 budynków, za wyjątkiem budynków o funkcji wyłącznie gospodarczej, pomiędzy którymi największa odległość sąsiadujących ze sobą budynków nie przekracza 100 m; 30) obszarze zwartej zabudowy – rozumie się przez to obszar wyznaczony przez obwiednię prowadzoną w odległości 50 m od zewnętrznych krawędzi skrajnych budynków tworzących zwartą zabudowę lub po zewnętrznych granicach działek, na których położone są te budynki, jeśli ich odległość od tych granic jest mniejsza niż 50 m.”;
+- **1)** w art. 4 w pkt 28 kropkę zastępuje się średnikiem i dodaje się pkt 29 i 30 w brzmieniu:
+
+  > „29) zwartej zabudowie – rozumie się przez to zgrupowanie nie mniej niż 5 budynków, za wyjątkiem budynków o funkcji wyłącznie gospodarczej, pomiędzy którymi największa odległość sąsiadujących ze sobą budynków nie przekracza 100 m;  
+  > 30) obszarze zwartej zabudowy – rozumie się przez to obszar wyznaczony przez obwiednię prowadzoną w odległości 50 m od zewnętrznych krawędzi skrajnych budynków tworzących zwartą zabudowę lub po zewnętrznych granicach działek, na których położone są te budynki, jeśli ich odległość od tych granic jest mniejsza niż 50 m.”;  
 - **2)** w art. 7:
     - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) gruntów rolnych stanowiących użytki rolne klas I–III – wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi, z zastrzeżeniem ust. 2a,”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Nie wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi przeznaczenie na cele nierolnicze i nieleśne gruntów rolnych stanowiących użytki rolne klas I–III, jeżeli grunty te spełniają łącznie następujące warunki: 1) co najmniej połowa powierzchni każdej zwartej części gruntu zawiera się w obszarze zwartej zabudowy; 2) położone są w odległości nie większej niż 50 m od granicy najbliższej działki budowlanej w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, z późn. zm. ); 3) położone są w odległości nie większej niż 50 metrów od drogi publicznej w rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, 774 i 870); 4) ich powierzchnia nie przekracza 0,5 ha, bez względu na to, czy stanowią jedną całość, czy stanowią kilka odrębnych części.”.
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+      > „2a. Nie wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi przeznaczenie na cele nierolnicze i nieleśne gruntów rolnych stanowiących użytki rolne klas I–III, jeżeli grunty te spełniają łącznie następujące warunki:  
+      > 1) co najmniej połowa powierzchni każdej zwartej części gruntu zawiera się w obszarze zwartej zabudowy;  
+      > 2) położone są w odległości nie większej niż 50 m od granicy najbliższej działki budowlanej w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 782, z późn. zm. );  
+      > 3) położone są w odległości nie większej niż 50 metrów od drogi publicznej w rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, 774 i 870);  
+      > 4) ich powierzchnia nie przekracza 0,5 ha, bez względu na to, czy stanowią jedną całość, czy stanowią kilka odrębnych części.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

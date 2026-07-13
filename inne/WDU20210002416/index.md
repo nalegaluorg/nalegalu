@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002416) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2416/text.pdf) |
 
 w sprawie wysokości opłaty za wydanie zezwolenia na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd Na podstawie art. 67 ust. 11 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, z późn. zm. ) zarządza się, co następuje:
-§ 1. Wysokość opłaty za wydanie zezwolenia na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, wynosi 450 zł.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Minister Infrastruktury: wz. A. Bittel
+
+**§ 1.** Wysokość opłaty za wydanie zezwolenia na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, wynosi 450 zł.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. Minister Infrastruktury: wz. A. Bittel
 

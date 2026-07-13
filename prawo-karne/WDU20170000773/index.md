@@ -31,7 +31,10 @@ source: pdf
 
 - **1)** w art. 53 § 2 otrzymuje brzmienie: „§ 2. Wymierzając karę, sąd uwzględnia w szczególności motywację i sposób zachowania się sprawcy, zwłaszcza w razie popełnienia przestępstwa na szkodę osoby nieporadnej ze względu na wiek lub stan zdrowia, popełnienie przestępstwa wspólnie z nieletnim, rodzaj i stopień naruszenia ciążących na sprawcy obowiązków, rodzaj i rozmiar ujemnych następstw przestępstwa, właściwości i warunki osobiste sprawcy, sposób życia przed popełnieniem przestępstwa i zachowanie się po jego popełnieniu, a zwłaszcza staranie o naprawienie szkody lub zadośćuczynienie w innej formie społecznemu poczuciu sprawiedliwości, a także zachowanie się pokrzywdzonego.”;
 - **2)** w art. 156:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Kto powoduje ciężki uszczerbek na zdrowiu w postaci: 1) pozbawienia człowieka wzroku, słuchu, mowy, zdolności płodzenia, 2) innego ciężkiego kalectwa, ciężkiej choroby nieuleczalnej lub długotrwałej, choroby realnie zagrażającej życiu, trwałej choroby psychicznej, całkowitej albo znacznej trwałej niezdolności do pracy w zawodzie lub trwałego, istotnego zeszpecenia lub zniekształcenia ciała, podlega karze pozbawienia wolności na czas nie krótszy od lat 3.”,
+    - **a)** § 1 otrzymuje brzmienie:
+
+      > „§ 1. Kto powoduje ciężki uszczerbek na zdrowiu w postaci:  
+      > 1) pozbawienia człowieka wzroku, słuchu, mowy, zdolności płodzenia, 2) innego ciężkiego kalectwa, ciężkiej choroby nieuleczalnej lub długotrwałej, choroby realnie zagrażającej życiu, trwałej choroby psychicznej, całkowitej albo znacznej trwałej niezdolności do pracy w zawodzie lub trwałego, istotnego zeszpecenia lub zniekształcenia ciała, podlega karze pozbawienia wolności na czas nie krótszy od lat 3.”,  
     - **b)** § 3 otrzymuje brzmienie: „§ 3. Jeżeli następstwem czynu określonego w § 1 jest śmierć człowieka, sprawca podlega karze pozbawienia wolności od lat 5, karze 25 lat pozbawienia wolności albo karze dożywotniego pozbawienia wolności.”;
 
 - **3)** w art. 189:
@@ -41,9 +44,16 @@ source: pdf
 - **4)** w art. 207:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Kto znęca się fizycznie lub psychicznie nad osobą najbliższą lub nad inną osobą pozostającą w stałym lub przemijającym stosunku zależności od sprawcy, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”,
     - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Kto znęca się fizycznie lub psychicznie nad osobą nieporadną ze względu na jej wiek, stan psychiczny lub fizyczny, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.”,
-    - **c)** § 2 i 3 otrzymują brzmienie: „§ 2. Jeżeli czyn określony w § 1 lub 1a połączony jest ze stosowaniem szczególnego okrucieństwa, sprawca podlega karze pozbawienia wolności od roku do lat 10. § 3. Jeżeli następstwem czynu określonego w § 1–2 jest targnięcie się pokrzywdzonego na własne życie, sprawca podlega karze pozbawienia wolności od lat 2 do 12.”;
+    - **c)** § 2 i 3 otrzymują brzmienie:
 
-- **5)** art. 210 otrzymuje brzmienie: „Art. 210. § 1. Kto wbrew obowiązkowi troszczenia się o małoletniego poniżej lat 15 albo o osobę nieporadną ze względu na jej stan psychiczny lub fizyczny osobę tę porzuca, podlega karze pozbawienia wolności od 3 miesięcy do lat 5. § 2. Jeżeli następstwem czynu jest śmierć osoby określonej w § 1, sprawca podlega karze pozbawienia wolności od lat 2 do 12.”;
+      > „§ 2. Jeżeli czyn określony w § 1 lub 1a połączony jest ze stosowaniem szczególnego okrucieństwa, sprawca podlega karze pozbawienia wolności od roku do lat 10.  
+      > § 3. Jeżeli następstwem czynu określonego w § 1–2 jest targnięcie się pokrzywdzonego na własne życie, sprawca podlega karze pozbawienia wolności od lat 2 do 12.”;  
+
+- **5)** art. 210 otrzymuje brzmienie:
+
+  > „Art. 210.  
+  > § 1. Kto wbrew obowiązkowi troszczenia się o małoletniego poniżej lat 15 albo o osobę nieporadną ze względu na jej stan psychiczny lub fizyczny osobę tę porzuca, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.  
+  > § 2. Jeżeli następstwem czynu jest śmierć osoby określonej w § 1, sprawca podlega karze pozbawienia wolności od lat 2 do 12.”;  
 - **6)** art. 211 otrzymuje brzmienie: „Art. 211. Kto, wbrew woli osoby powołanej do opieki lub nadzoru, uprowadza lub zatrzymuje małoletniego poniżej lat 15 albo osobę nieporadną ze względu na jej stan psychiczny lub fizyczny, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”;
 - **7)** w art. 240:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Kto, mając wiarygodną wiadomość o karalnym przygotowaniu albo usiłowaniu lub dokonaniu czynu zabronionego określonego w art. 118, art. 118a, art. 120–124, art. 127, art. 128, art. 130, art. 134, art. 140, art. 148, art. 156, art. 163, art. 166, art. 189, art. 197 § 3 lub 4, art. 198, art. 200, art. 252 lub przestępstwa o charakterze terrorystycznym, nie zawiadamia niezwłocznie organu powołanego do ścigania przestępstw, podlega karze pozbawienia wolności do lat 3.”,

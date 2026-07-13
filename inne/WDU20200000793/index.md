@@ -34,7 +34,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 2) § 2 rozporządzenia Ministra Finansów z dnia 18 grudnia 2019 r. zmieniającego rozporządzenie w sprawie zaniechania poboru podatku od czynności cywilnoprawnych od umowy sprzedaży lub zamiany waluty wirtualnej (Dz. U. poz. 2459), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r.”. Minister Finansów: T. Kościński
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 11 lipca 2018 r.
 w sprawie zaniechania poboru podatku od czynności cywilnoprawnych od umowy sprzedaży lub zamiany waluty wirtualnej Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) zarządza się, co następuje:
-§ 1. Zarządza się zaniechanie poboru podatku od czynności cywilnoprawnych od podatników nabywających w drodze umowy sprzedaży lub zamiany walutę wirtualną, o której mowa w art. 2 ust. 2 pkt 26 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2019 r. poz. 1115, z późn. zm. ).
-§ 2. Zaniechanie poboru podatku, o którym mowa w § 1, ma zastosowanie do umowy sprzedaży lub zamiany waluty wirtualnej dokonanych od dnia wejścia w życie rozporządzenia do dnia 30 czerwca 2020 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem 13 lipca 2018 r.
+
+**§ 1.** Zarządza się zaniechanie poboru podatku od czynności cywilnoprawnych od podatników nabywających w drodze umowy sprzedaży lub zamiany walutę wirtualną, o której mowa w art. 2 ust. 2 pkt 26 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2019 r. poz. 1115, z późn. zm. ).
+
+**§ 2.** Zaniechanie poboru podatku, o którym mowa w § 1, ma zastosowanie do umowy sprzedaży lub zamiany waluty wirtualnej dokonanych od dnia wejścia w życie rozporządzenia do dnia 30 czerwca 2020 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 13 lipca 2018 r.
 

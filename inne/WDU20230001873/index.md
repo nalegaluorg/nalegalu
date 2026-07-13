@@ -26,11 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1873/text.pdf) |
 
 zmieniające rozporządzenie w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania Na podstawie art. 117 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723 i 1860) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 14 grudnia 2006 r. w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania (Dz. U. z 2021 r. poz. 1508) wprowadza się następujące zmiany:
-1) w § 2:
-a) w pkt 10 po wyrazach „Komendę Główną Straży Granicznej,” dodaje się wyrazy „Wyższą Szkołę Straży Granicznej,”,
-b) w pkt 11 po wyrazach „kierownika komórki organizacyjnej Komendy Głównej Straży Granicznej,” dodaje się wyrazy „Rektora-Komendanta Wyższej Szkoły Straży Granicznej,”;
-2) w § 13 w ust. 3 w pkt 1 w lit. a po wyrazie „kursant” dodaje się wyrazy „lub student”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 14 grudnia 2006 r. w sprawie należności funkcjonariuszy Straży Granicznej za podróże służbowe, przeniesienia lub delegowania (Dz. U. z 2021 r. poz. 1508) wprowadza się następujące zmiany:
+
+- **1)** w § 2:
+    - **a)** w pkt 10 po wyrazach „Komendę Główną Straży Granicznej,” dodaje się wyrazy „Wyższą Szkołę Straży Granicznej,”,
+    - **b)** w pkt 11 po wyrazach „kierownika komórki organizacyjnej Komendy Głównej Straży Granicznej,” dodaje się wyrazy „Rektora-Komendanta Wyższej Szkoły Straży Granicznej,”;
+
+- **2)** w § 13 w ust. 3 w pkt 1 w lit. a po wyrazie „kursant” dodaje się wyrazy „lub student”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

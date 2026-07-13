@@ -26,11 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000699) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/699/text.pdf) |
 
 zmieniające rozporządzenie w sprawie rodzajów dokumentów oraz wzoru oświadczenia potwierdzających uprawnienia do zwolnień od opłat abonamentowych Na podstawie art. 4 ust. 5 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. z 2014 r. poz. 1204 oraz z 2015 r. poz. 1324) zarządza się, co następuje:
-§ 1. W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 16 lutego 2010 r. w sprawie rodzajów dokumentów oraz wzoru oświadczenia potwierdzających uprawnienia do zwolnień od opłat abonamentowych (Dz. U. poz. 152, 2011 r.
-poz. 877, z 2013 r. poz. 379, z 2014 r. poz. 80 i 666 oraz z 2015 r. poz. 1546) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski ZAŁĄCZNIK Załącznik do do rozporządzenia rozporządzenia Krajowej Krajowej Rady Rady Radiofonii i Telewizji z dnia 27 marca 2018 r. (poz. 699) Radiofonii i Telewizji z dnia 27 marca 2018 r.
-(poz…) WZÓR WZÓR Oświadczenie o spełnianiu warunków do korzystania ze zwolnień od opłat abonamentowych
 1.1. Użytkownik (imię i nazwisko) …………………………………………………………………………………………………………………………………………………………………………………………………...…………………
 1.1.1. PESEL 1.1.2. rodzaj i numer dokumentu potwierdzającego tożsamość ………………………………………….. ………………………………………………………………………………………………………………………………
 1.2. Adres zamieszkania
@@ -59,6 +54,10 @@ o opłatach abonamentowych lub innych ustaw
 4. Administratorem podanych przez Pana/Panią danych osobowych jest Poczta Polska S.A., ul. Rodziny Hiszpańskich 8, 00-940 Warszawa.
 Dane zbierane są w celu realizacji zadań operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, wynikających z ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych. Podanie danych jest obowiązkowe i wynika z ustawy.
 Posiada Pan/Pani prawo dostępu do treści swoich danych oraz ich poprawiania.
+
+**§ 1.** W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 16 lutego 2010 r. w sprawie rodzajów dokumentów oraz wzoru oświadczenia potwierdzających uprawnienia do zwolnień od opłat abonamentowych (Dz. U. poz. 152, 2011 r. poz. 877, z 2013 r. poz. 379, z 2014 r. poz. 80 i 666 oraz z 2015 r. poz. 1546) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski ZAŁĄCZNIK Załącznik do do rozporządzenia rozporządzenia Krajowej Krajowej Rady Rady Radiofonii i Telewizji z dnia 27 marca 2018 r. (poz. 699) Radiofonii i Telewizji z dnia 27 marca 2018 r. (poz…) WZÓR WZÓR Oświadczenie o spełnianiu warunków do korzystania ze zwolnień od opłat abonamentowych
 
 ## CZĘŚĆ I: Wypełnia użytkownik Indywidualny numer identyfikacyjny użytkownika ………………………………………………………………..
 

@@ -27,9 +27,11 @@ source: pdf
 
 w sprawie zmiany wielkości udziału ilościowego sumy energii elektrycznej wynikającej z umorzonych świadectw pochodzenia potwierdzających wytworzenie energii elektrycznej z odnawialnych źródeł energii w 2023 r.
 Na podstawie art. 60 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2022 r. poz. 1378 i 1383) zarządza się, co następuje:
-§ 1. W 2023 r. wielkość udziału, o którym mowa w art. 59:
-1) pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, wynosi 12%;
-2) pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, wynosi 0,5%.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 1.** W 2023 r. wielkość udziału, o którym mowa w art. 59:
+
+- **1)** pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, wynosi 12%;
+- **2)** pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, wynosi 0,5%.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa
 

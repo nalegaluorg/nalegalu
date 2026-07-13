@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/350/text.pdf) |
 
 w sprawie ośrodka administrującego Systemem Informowania o Ciężkich Działaniach Niepożądanych Spowodowanych Stosowaniem Produktów Kosmetycznych Na podstawie art. 13 ustawy z dnia 4 października 2018 r. o produktach kosmetycznych (Dz. U. poz. 2227) zarządza się, co następuje:
-§ 1. Ośrodkiem administrującym Systemem Informowania o Ciężkich Działaniach Niepożądanych Spowodowanych Stosowaniem Produktów Kosmetycznych jest Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera w Łodzi.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 1.** Ośrodkiem administrującym Systemem Informowania o Ciężkich Działaniach Niepożądanych Spowodowanych Stosowaniem Produktów Kosmetycznych jest Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera w Łodzi.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

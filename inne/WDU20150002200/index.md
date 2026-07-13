@@ -27,24 +27,6 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zakresu i sposobu prowadzenia przez straże gminne (miejskie) ewidencji etatów, wyposażenia oraz wyników działań straży Na podstawie art. 9a ust. 2 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2013 r. poz. 1383, z 2014 r.
 poz. 486 oraz z 2015 r. poz. 1335) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 12 listopada 2009 r. w sprawie zakresu i sposobu prowadzenia przez straże gminne (miejskie) ewidencji etatów, wyposażenia oraz wyników działań straży (Dz. U.
-z 2013 r. poz. 639 oraz z 2014 r. poz. 56) wprowadza się następujące zmiany:
-1) w § 1 pkt 2 otrzymuje brzmienie „2) wyposażenia, w tym:
-a) środków przymusu bezpośredniego w postaci: kajdanek zakładanych na ręce, pałek służbowych, psów służbowych, chemicznych środków obezwładniających w postaci ręcznych miotaczy substancji obezwładniających, przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej oraz siatek obezwładniających,
-b) broni palnej,
-c) środków technicznych służących do obserwowania i rejestrowania obrazu zdarzeń w miejscach publicznych,
-d) pojazdów,”;
-2) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Do informacji określonej w § 5 rozporządzenia zmienianego w § 1, składanej przez komendantów straży za rok 2015, stosuje się przepisy tego rozporządzenia w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
-Załącznik Załącznik do rozporządzenia do rozporządzenia Ministra Ministra Spraw Spraw Wewnętrznych i Administracji z dnia 17 grudnia 2015 r. (poz. 2200) Wewnętrznych i Administracji z dnia 17 grudnia.2015 r. (poz. ...) WZÓR WZÓR EWIDENCJA ETATÓW, WYPOSAŻENIA ORAZ WYNIKÓW DZIAŁAŃ STRAŻY ..............................................................................................
-(nazwa straży gminnej/miejskiej i nazwa gminy/miasta) według stanu na dzień ............... r.
-Adres ............................................................................................................................................
-Numery telefonów ........................................................................................................................
-Numery faksów ............................................................................................................................
-Adres poczty elektronicznej .........................................................................................................
-Samodzielna jednostka organizacyjna/jednostka organizacyjna w strukturze urzędu gminy* Data powołania ............................................................................................................................
 a) samochody
 b) motocykle
 c) motorowery
@@ -70,6 +52,20 @@ d) zagrożeń życia i zdrowia
 e) zagrożeń pożarowych (katastrofy)
 f) awarii technicznych
 g) zwierząt Pozostałe zgłoszenia: 4
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 12 listopada 2009 r. w sprawie zakresu i sposobu prowadzenia przez straże gminne (miejskie) ewidencji etatów, wyposażenia oraz wyników działań straży (Dz. U. z 2013 r. poz. 639 oraz z 2014 r. poz. 56) wprowadza się następujące zmiany:
+
+- **1)** w § 1 pkt 2 otrzymuje brzmienie „2) wyposażenia, w tym:
+    - **a)** środków przymusu bezpośredniego w postaci: kajdanek zakładanych na ręce, pałek służbowych, psów służbowych, chemicznych środków obezwładniających w postaci ręcznych miotaczy substancji obezwładniających, przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej oraz siatek obezwładniających,
+    - **b)** broni palnej,
+    - **c)** środków technicznych służących do obserwowania i rejestrowania obrazu zdarzeń w miejscach publicznych,
+    - **d)** pojazdów,”;
+
+- **2)** załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Do informacji określonej w § 5 rozporządzenia zmienianego w § 1, składanej przez komendantów straży za rok 2015, stosuje się przepisy tego rozporządzenia w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088). Załącznik Załącznik do rozporządzenia do rozporządzenia Ministra Ministra Spraw Spraw Wewnętrznych i Administracji z dnia 17 grudnia 2015 r. (poz. 2200) Wewnętrznych i Administracji z dnia 17 grudnia.2015 r. (poz. ...) WZÓR WZÓR EWIDENCJA ETATÓW, WYPOSAŻENIA ORAZ WYNIKÓW DZIAŁAŃ STRAŻY .............................................................................................. (nazwa straży gminnej/miejskiej i nazwa gminy/miasta) według stanu na dzień ............... r. Adres ............................................................................................................................................ Numery telefonów ........................................................................................................................ Numery faksów ............................................................................................................................ Adres poczty elektronicznej ......................................................................................................... Samodzielna jednostka organizacyjna/jednostka organizacyjna w strukturze urzędu gminy* Data powołania ............................................................................................................................
 
 ## Część I Ewidencja etatów Stanowiska w straży gminnej (miejskiej) Liczba etatów na poszczególnych stanowiskach pełny etat / etatu / etatu / etatu inny wymiar etatu komendant zastępca komendanta naczelnik zastępca naczelnika kierownik zastępca kierownika starszy inspektor inspektor młodszy inspektor starszy specjalista specjalista młodszy specjalista starszy strażnik strażnik młodszy strażnik aplikant Razem strażnicy stanowiska urzędnicze stanowiska pomocnicze i obsługi Liczba etatów ogółem * Niepotrzebne skreślić.
 

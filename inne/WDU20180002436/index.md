@@ -26,12 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002436) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2436/text.pdf) |
 
 w sprawie wzoru deklaracji na podatek od środków transportowych Na podstawie art. 9 ust. 8 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2018 r. poz. 1445, z późn. zm. ) zarządza się, co następuje:
-§ 1. 1. Określa się wzór deklaracji na podatek od środków transportowych (DT-1), stanowiący załącznik nr 1 do rozporządzenia.
+
+**§ 1.**
+
+1. Określa się wzór deklaracji na podatek od środków transportowych (DT-1), stanowiący załącznik nr 1 do rozporządzenia.
+
 2. Określa się wzór załącznika do deklaracji DT-1 (DT-1/A), stanowiący załącznik nr 2 do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Finansów z dnia 19 listopada 2015 r. w sprawie wzoru deklaracji na podatek od środków transportowych (Dz. U. poz. 2025).
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-Minister Finansów: T. Czerwińska Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).
-Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1588, 1669, 1693, 1722, 2073 i 2244.
+
+**§ 2.** Traci moc rozporządzenie Ministra Finansów z dnia 19 listopada 2015 r. w sprawie wzoru deklaracji na podatek od środków transportowych (Dz. U. poz. 2025).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. Minister Finansów: T. Czerwińska Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1588, 1669, 1693, 1722, 2073 i 2244.
 
 ## Załącznik nr 1 — DT-1 DEKLARACJA NA PODATEK OD ŚRODKÓW TRANSPORTOWYCH na Podstawa prawna: Art. 9 ust. 6 pkt 1 i 2 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2018 r. poz. 1445, z późn. zm.) zwanej dalej ustawą”.
 

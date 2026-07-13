@@ -52,7 +52,11 @@ source: pdf
 
 **Art. 4.** W ustawie z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw (Dz. U. Nr 188, poz. 1840, z 2004 r. Nr 123, poz. 1291 i Nr 273, poz. 2703 oraz z 2005 r. Nr 184, poz. 1539) w art. 8:
 
-- **1)** ust. 4 otrzymuje brzmienie: „4. Wsparcie nowej inwestycji, o której mowa w ust. 2, jest udzielane w formie bezzwrotnego wsparcia finansowego w okresie nie dłuższym niż okres, o którym mowa w art. 7 ust. 6, jednorazowo lub sukcesywnie, w rocznych transzach, przy czym: 1) łączna kwota wsparcia nie może przekroczyć kwoty środków, o których mowa w art. 7, gromadzonych na rachunku Funduszu wyodrębnionym dla danego podatnika i maksymalnej dopuszczalnej wielkości pomocy publicznej, określonej zgodnie z rozporządzeniem, o którym mowa w ust. 8; 2) wsparcie przekazane w danym roku nie może przekroczyć kwoty środków zgromadzonych na rachunku Funduszu wyodrębnionym dla danego podatnika określonych według stanu na dzień ostatniego rocznego rozliczenia podatkowego, z wyłączeniem wpłaconych do tego dnia zaliczek na podatek dochodowy.”;
+- **1)** ust. 4 otrzymuje brzmienie:
+
+  > „4. Wsparcie nowej inwestycji, o której mowa w ust. 2, jest udzielane w formie bezzwrotnego wsparcia finansowego w okresie nie dłuższym niż okres, o którym mowa w art. 7 ust. 6, jednorazowo lub sukcesywnie, w rocznych transzach, przy czym:  
+  > 1) łączna kwota wsparcia nie może przekroczyć kwoty środków, o których mowa w art. 7, gromadzonych na rachunku Funduszu wyodrębnionym dla danego podatnika i maksymalnej dopuszczalnej wielkości pomocy publicznej, określonej zgodnie z rozporządzeniem, o którym mowa w ust. 8;  
+  > 2) wsparcie przekazane w danym roku nie może przekroczyć kwoty środków zgromadzonych na rachunku Funduszu wyodrębnionym dla danego podatnika określonych według stanu na dzień ostatniego rocznego rozliczenia podatkowego, z wyłączeniem wpłaconych do tego dnia zaliczek na podatek dochodowy.”;  
 - **2)** ust. 9 otrzymuje brzmienie: „9. Podstawą udzielenia wsparcia jest umowa zawarta przez ministra właściwego do spraw gospodarki z otrzymującym wsparcie. Bank Gospodarstwa Krajowego przekazuje udzielone wsparcie lub roczną transzę wsparcia na rachunek wskazany przez podatnika lub przedsiębiorcę oraz informuje o tym fakcie naczelnika urzę du skarbowego, właściwego w sprawach podatku dochodowego podatnika.”.
 
 **Art. 5.** Rozporządzenia wydane na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy, o której mowa w art. 1, zachowują moc.

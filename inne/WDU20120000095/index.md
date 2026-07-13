@@ -35,7 +35,10 @@ source: pdf
 - **4)** w art. 47:
     - **a)** w ust. 14 uchyla się zdanie czwarte,
     - **b)** ust. 15 otrzymuje brzmienie: „15. Na podstawie ustaleń zawartych w protokole kontroli oddział wojewódzki Funduszu wydaje zalecenia pokontrolne, zobowiązujące kierownika apteki oraz podmiot prowadzący aptekę do usunięcia, w określonym terminie, stwierdzonych uchybień oraz do złożenia, w terminie 14 dni od dnia doręczenia zaleceń pokontrolnych, informacji o podjętych działaniach. Od zaleceń pokontrolnych przysługuje kierownikowi apteki lub podmiotowi prowadzącemu aptekę zażalenie do dyrektora oddziału wojewódzkiego Funduszu. Zażalenie wnosi się w terminie 7 dni od dnia otrzymania zaleceń pokontrolnych. Dyrektor oddziału wojewódzkiego Funduszu rozpatruje zażalenie w terminie 14 dni od dnia jego otrzymania i w przypadku jego uwzględnienia zmienia zalecenia pokontrolne.”,
-    - **c)** dodaje się ust. 16 i 17 w brzmieniu: „16. W przypadku nieuwzględnienia zażalenia, o którym mowa w ust. 15, w części lub w całości, kierownikowi apteki lub podmiotowi prowadzącemu aptekę przysługuje odwołanie do Prezesa Funduszu. Przepisy art. 42 ust. 6 i 7 stosuje się odpowiednio. 17. Wniesienie zażalenia lub odwołania wstrzymuje wykonanie zaleceń pokontrolnych.”;
+    - **c)** dodaje się ust. 16 i 17 w brzmieniu:
+
+      > „16. W przypadku nieuwzględnienia zażalenia, o którym mowa w ust. 15, w części lub w całości, kierownikowi apteki lub podmiotowi prowadzącemu aptekę przysługuje odwołanie do Prezesa Funduszu. Przepisy art. 42 ust. 6 i 7 stosuje się odpowiednio.  
+      > 17. Wniesienie zażalenia lub odwołania wstrzymuje wykonanie zaleceń pokontrolnych.”;  
 
 - **5)** w art. 48:
     - **a)** uchyla się ust. 8 i 9,

@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002091) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2091/text.pdf) |
 
 zmieniające rozporządzenie w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane Na podstawie art. 99 ust. 6 w związku z art. 94 ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 poz. 1183, 1629 i 1637) zarządza się, co następuje:
-§ 1. W załączniku nr 5 do rozporządzenia Ministra Infrastruktury z dnia 1 sierpnia 2018 r. w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane (Dz. U. poz. 1745) wprowadza się następujące zmiany:
-1) w tabeli nr 2 w części: „Egzamin na dodatkowe uprawnienia wpisywane do świadectw kwalifikacji” uchyla się lp. 3 i 4;
-2) w tabeli nr 3 dodaje się lp. 3 i 4 w brzmieniu: 3 Przeprowadzenie kontroli umiejętności w celu przedłużenia lub wznowienia ważności 100 uprawnienia wpisanego do licencji – za każde przedłużane lub wznawiane uprawnienie 4 Przeprowadzenie kontroli umiejętności w celu przedłużenia lub wznowienia ważności 50 uprawnienia wpisanego do świadectwa kwalifikacji – za każde przedłużane lub wznawiane uprawnienie
-§ 2. Rozporządzenie wchodzi w życie z dniem 7 listopada 2018 r.
-Minister Infrastruktury: wz. A. Bittel
+
+**§ 1.** W załączniku nr 5 do rozporządzenia Ministra Infrastruktury z dnia 1 sierpnia 2018 r. w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane (Dz. U. poz. 1745) wprowadza się następujące zmiany:
+
+- **1)** w tabeli nr 2 w części: „Egzamin na dodatkowe uprawnienia wpisywane do świadectw kwalifikacji” uchyla się lp. 3 i 4;
+- **2)** w tabeli nr 3 dodaje się lp. 3 i 4 w brzmieniu: 3 Przeprowadzenie kontroli umiejętności w celu przedłużenia lub wznowienia ważności 100 uprawnienia wpisanego do licencji – za każde przedłużane lub wznawiane uprawnienie 4 Przeprowadzenie kontroli umiejętności w celu przedłużenia lub wznowienia ważności 50 uprawnienia wpisanego do świadectwa kwalifikacji – za każde przedłużane lub wznawiane uprawnienie
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 7 listopada 2018 r. Minister Infrastruktury: wz. A. Bittel
 

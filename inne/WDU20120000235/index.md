@@ -26,26 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000235) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/235/text.pdf) |
 
 dza się, co następuje: l
-§ 1. W rozporządzeniu Ministra Finansów z dnia 13 listopada zynowania, przechowywania i zapewniania c właściwego stanu stępujące zmiany:
-1) § 3 otrzymuje brzmienie: „§ 3. Wykaz wyodrębnionych r komórek organizacyjnych, wo użycia broni palnej, określa załącznik do rozporządzenia.”;
-2) załącznik do rozporządzenia . otrzymuje brzmienie określone
-§ 2. Rozporządzenie wchodzi w życie z dniem 5 marca w WYKAZ WYODRĘBNIONYCH KOMÓREK ORGANIZACYJNYCH, FUNKCJONARIUSZE MAJĄ
-1. Wydział Zwalczania Przestępczości w komórce organizacyjnej Szefa Służby Celnej
-2. Wydział Zwalczania Przestępczości w Izbie Celnej w
-3. Wydział Zwalczania Przestępczości w Izbie Celnej w
-4. Wydział Zwalczania Przestępczości w Izbie Celnej w
-5. Wydział Morski Zwalczania Przestępczości w Izbie Celnej
-6. Wydział Zwalczania Przestępczości w Izbie Celnej w
-7. Wydział Zwalczania Przestępczości w Izbie Celnej w
-8. Wydział Zwalczania Przestępczości w Izbie Celnej w .
-9. Wydział Zwalczania Przestępczości w Izbie Celnej w
-10. Wydział Zwalczania Przestępczości w Izbie Celnej l w
-11. Wydział Zwalczania Przestępczości w c Izbie Celnej w
-12. Wydział Zwalczania Przestępczości w Izbie Celnej w
-13. Wydział Zwalczania Przestępczości w Izbie Celnej w
-14. Wydział Zwalczania Przestępczości r w Izbie Celnej w
-15. Wydział Zwalczania Przestępczości w Izbie Celnej w .
-16. Wydział Zwalczania Przestępczości w Izbie Celnej w
-17. Wydział Zwalczania w Przestępczości w Izbie Celnej w
-18. Wydział Zwalczania Przestępczości w Izbie Celnej we
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 13 listopada zynowania, przechowywania i zapewniania c właściwego stanu stępujące zmiany:
+
+- **1)** § 3 otrzymuje brzmienie: „§ 3. Wykaz wyodrębnionych r komórek organizacyjnych, wo użycia broni palnej, określa załącznik do rozporządzenia.”;
+- **2)** załącznik do rozporządzenia . otrzymuje brzmienie określone
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 5 marca w WYKAZ WYODRĘBNIONYCH KOMÓREK ORGANIZACYJNYCH, FUNKCJONARIUSZE MAJĄ 1. Wydział Zwalczania Przestępczości w komórce organizacyjnej Szefa Służby Celnej 2. Wydział Zwalczania Przestępczości w Izbie Celnej w 3. Wydział Zwalczania Przestępczości w Izbie Celnej w 4. Wydział Zwalczania Przestępczości w Izbie Celnej w 5. Wydział Morski Zwalczania Przestępczości w Izbie Celnej 6. Wydział Zwalczania Przestępczości w Izbie Celnej w 7. Wydział Zwalczania Przestępczości w Izbie Celnej w 8. Wydział Zwalczania Przestępczości w Izbie Celnej w . 9. Wydział Zwalczania Przestępczości w Izbie Celnej w 10. Wydział Zwalczania Przestępczości w Izbie Celnej l w 11. Wydział Zwalczania Przestępczości w c Izbie Celnej w 12. Wydział Zwalczania Przestępczości w Izbie Celnej w 13. Wydział Zwalczania Przestępczości w Izbie Celnej w 14. Wydział Zwalczania Przestępczości r w Izbie Celnej w 15. Wydział Zwalczania Przestępczości w Izbie Celnej w . 16. Wydział Zwalczania Przestępczości w Izbie Celnej w 17. Wydział Zwalczania w Przestępczości w Izbie Celnej w 18. Wydział Zwalczania Przestępczości w Izbie Celnej we
 

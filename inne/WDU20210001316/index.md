@@ -26,9 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1316/text.pdf) |
 
 w sprawie zaniechania poboru podatku dochodowego od dochodów (przychodów) z tytułu umorzenia subwencji finansowej lub finansowania preferencyjnego udzielonych przez Polski Fundusz Rozwoju Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm. ) zarządza się, co następuje:
-§ 1. Zarządza się zaniechanie poboru podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych od dochodów (przychodów) osiągniętych odpowiednio przez podatników podatku dochodowego od osób fizycznych i podatników podatku dochodowego od osób prawnych z tytułu umorzenia subwencji finansowej lub finansowania preferencyjnego udzielonych przez Polski Fundusz Rozwoju Spółkę Akcyjną z siedzibą w Warszawie w ramach rządowego programu udzielania przedsiębiorcom wsparcia finansowego, o którym mowa w art. 21a ust. 1 ustawy z dnia 4 lipca 2019 r.
-o systemie instytucji rozwoju (Dz. U. z 2021 r. poz. 1010).
-§ 2. Zaniechanie, o którym mowa w § 1, ma zastosowanie do dochodów (przychodów) uzyskanych od dnia 1 czerwca 2021 r. do dnia 31 grudnia 2022 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** Zarządza się zaniechanie poboru podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych od dochodów (przychodów) osiągniętych odpowiednio przez podatników podatku dochodowego od osób fizycznych i podatników podatku dochodowego od osób prawnych z tytułu umorzenia subwencji finansowej lub finansowania preferencyjnego udzielonych przez Polski Fundusz Rozwoju Spółkę Akcyjną z siedzibą w Warszawie w ramach rządowego programu udzielania przedsiębiorcom wsparcia finansowego, o którym mowa w art. 21a ust. 1 ustawy z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2021 r. poz. 1010).
+
+**§ 2.** Zaniechanie, o którym mowa w § 1, ma zastosowanie do dochodów (przychodów) uzyskanych od dnia 1 czerwca 2021 r. do dnia 31 grudnia 2022 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

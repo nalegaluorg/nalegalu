@@ -26,7 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000663) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/663/text.pdf) |
 
 w sprawie określenia wzoru formularza do przekazywania danych do Centralnego Rejestru Lotów o statusie HEAD Na podstawie art. 9 ustawy z dnia 30 sierpnia 2019 r. o lotach najważniejszych osób w państwie (Dz. U. poz. 1967) zarządza się, co następuje:
-§ 1. Określa się wzór formularza służącego do przekazywania danych, o których mowa w art. 7 ust. 2 ustawy z dnia 30 sierpnia 2019 r. o lotach najważniejszych osób w państwie, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 16 kwietnia 2020 r.
-Prezes Rady Ministrów: M. Morawiecki WZÓR FORMULARZA SŁUŻĄCEGO DO PRZEKAZYWANIA DANYCH Dziennik Ustaw DO CENTRALNEGO REJESTRU – 1 – LOTÓW O STATUSIE HEAD Poz.1﻿ Trasa Dodaj odcinek Odcinek 1 Miejsce startu Miejsce lądowania Nazwa lotniska Nazwa lotniska Kod lotniska Kod lotniska Data lotu od Data lotu do Pasażerowie Dodaj pasażera Lp.1﻿ Imię i nazwisko Status (kategoria) Dziennik Dziennik Ustaw Ustaw – – 2 3 – – Poz. Poz.1﻿ 663 Odcinek 2 Miejsce startu Miejsce lądowania Nazwa lotniska Nazwa lotniska Kod lotniska Kod lotniska Data lotu od Data lotu do Pasażerowie Dodaj pasażera Lp.1﻿ Imię i nazwisko Status (kategoria)
+
+**§ 1.** Określa się wzór formularza służącego do przekazywania danych, o których mowa w art. 7 ust. 2 ustawy z dnia 30 sierpnia 2019 r. o lotach najważniejszych osób w państwie, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 16 kwietnia 2020 r.
+
+## Załącznik
+
+WZÓR FORMULARZA SŁUŻĄCEGO DO PRZEKAZYWANIA DANYCH Dziennik Ustaw DO CENTRALNEGO REJESTRU – 1 – LOTÓW O STATUSIE HEAD Poz.1﻿ Trasa Dodaj odcinek Odcinek 1 Miejsce startu Miejsce lądowania Nazwa lotniska Nazwa lotniska Kod lotniska Kod lotniska Data lotu od Data lotu do Pasażerowie Dodaj pasażera Lp.1﻿ Imię i nazwisko Status (kategoria) Dziennik Dziennik Ustaw Ustaw – – 2 3 – – Poz. Poz.1﻿ 663 Odcinek 2 Miejsce startu Miejsce lądowania Nazwa lotniska Nazwa lotniska Kod lotniska Kod lotniska Data lotu od Data lotu do Pasażerowie Dodaj pasażera Lp.1﻿ Imię i nazwisko Status (kategoria)
 

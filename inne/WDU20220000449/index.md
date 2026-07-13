@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000449) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/449/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe Na podstawie art. 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe (Dz. U. z 2017 r. poz. 1949) w § 2 w ust. 1 wprowadza się następujące zmiany:
-1) pkt 11 otrzymuje brzmienie: „11) wartość finansowanych przez pracodawcę posiłków udostępnianych pracownikom do spożycia bez prawa do ekwiwalentu z tego tytułu – do wysokości nieprzekraczającej miesięcznie kwoty 300 zł,”;
-2) po pkt 27 dodaje się pkt 27a w brzmieniu: „27a) kwota świadczenia teleinformatycznego, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. poz. 2333),”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2022 r.
-Minister Rodziny i Polityki Społecznej: M. Maląg
+
+**§ 1.** W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe (Dz. U. z 2017 r. poz. 1949) w § 2 w ust. 1 wprowadza się następujące zmiany:
+
+- **1)** pkt 11 otrzymuje brzmienie: „11) wartość finansowanych przez pracodawcę posiłków udostępnianych pracownikom do spożycia bez prawa do ekwiwalentu z tego tytułu – do wysokości nieprzekraczającej miesięcznie kwoty 300 zł,”;
+- **2)** po pkt 27 dodaje się pkt 27a w brzmieniu: „27a) kwota świadczenia teleinformatycznego, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. poz. 2333),”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2022 r. Minister Rodziny i Polityki Społecznej: M. Maląg
 

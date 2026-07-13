@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000654) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/654/text.pdf) |
 
 zmieniające rozporządzenie w sprawie określenia limitu zezwoleń na utworzenie oddziałów o profilu mundurowym w roku 2026 Na podstawie art. 28aa ust. 14 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 3 września 2025 r. w sprawie określenia limitu zezwoleń na utworzenie oddziałów o profilu mundurowym w roku 2026 (Dz. U. poz. 1225) w § 1 wyraz „80” zastępuje się wyrazem „92”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 3 września 2025 r. w sprawie określenia limitu zezwoleń na utworzenie oddziałów o profilu mundurowym w roku 2026 (Dz. U. poz. 1225) w § 1 wyraz „80” zastępuje się wyrazem „92”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
 

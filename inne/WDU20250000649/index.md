@@ -28,14 +28,16 @@ source: pdf
 
 w sprawie kryteriów oceny kompleksowej Na podstawie art. 248 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r.
 poz. 1571, z późn. zm. ) zarządza się, co następuje:
-§ 1. Kryteriami oceny kompleksowej są:
-1) funkcjonowanie systemu zapewnienia jakości kształcenia i jego związek ze strategią uczelni;
-2) sposób ustalania programów studiów, ich projektowanie i zatwierdzanie oraz monitorowanie tych programów, ich okresowe przeglądy i doskonalenie;
-3) sposób prowadzenia kształcenia, zapewnienie rozwoju studenta i uzyskania efektów uczenia się;
-4) zasady przyjęć na studia, uwzględnianie osiągnięć studenta, weryfikacja efektów uczenia się i przeprowadzanie egzaminów dyplomowych;
-5) funkcjonowanie polityki kadrowej uczelni oraz rozwój kadry dydaktycznej i naukowej;
-6) dysponowanie infrastrukturą i innymi zasobami dydaktycznymi oraz funkcjonowanie systemu wsparcia dla studentów;
-7) funkcjonowanie systemu zarządzania informacją oraz podawanie do wiadomości publicznej informacji dotyczących kształcenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: M. Kulasek
+
+**§ 1.** Kryteriami oceny kompleksowej są:
+
+- **1)** funkcjonowanie systemu zapewnienia jakości kształcenia i jego związek ze strategią uczelni;
+- **2)** sposób ustalania programów studiów, ich projektowanie i zatwierdzanie oraz monitorowanie tych programów, ich okresowe przeglądy i doskonalenie;
+- **3)** sposób prowadzenia kształcenia, zapewnienie rozwoju studenta i uzyskania efektów uczenia się;
+- **4)** zasady przyjęć na studia, uwzględnianie osiągnięć studenta, weryfikacja efektów uczenia się i przeprowadzanie egzaminów dyplomowych;
+- **5)** funkcjonowanie polityki kadrowej uczelni oraz rozwój kadry dydaktycznej i naukowej;
+- **6)** dysponowanie infrastrukturą i innymi zasobami dydaktycznymi oraz funkcjonowanie systemu wsparcia dla studentów;
+- **7)** funkcjonowanie systemu zarządzania informacją oraz podawanie do wiadomości publicznej informacji dotyczących kształcenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: M. Kulasek
 

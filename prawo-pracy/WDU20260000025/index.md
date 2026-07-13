@@ -42,7 +42,10 @@ source: pdf
 - **5)** w art. 151 w § 2 w zdaniu pierwszym skreśla się wyraz „pisemny” i po wyrazie „wniosek” dodaje się wyrazy „złożony w postaci papierowej lub elektronicznej”;
 - **6)** w art. 151 w § 1 skreśla się wyraz „pisemny” i po wyrazie „pracownika” dodaje się wyrazy „złożony w postaci papierowej lub elektronicznej”;
 - **7)** w art. 151 w § 6 skreśla się wyraz „pisemny” i po wyrazie „wniosek” dodaje się wyrazy „złożony w postaci papierowej lub elektronicznej przez”;
-- **8)** w art. 171 po § 3 dodaje się § 4 i 5 w brzmieniu: „§ 4. Pracodawca dokonuje wypłaty ekwiwalentu pieniężnego, o którym mowa w § 1, w terminie wypłaty wynagrodzenia ustalonym zgodnie z art. 85. § 5. Przepisu § 4 nie stosuje się, jeżeli termin wypłaty wynagrodzenia ustalony zgodnie z art. 85 przypada przed dniem rozwiązania lub wygaśnięcia stosunku pracy. W takim przypadku wypłaty ekwiwalentu pieniężnego, o którym mowa w § 1, dokonuje się w terminie 10 dni od dnia rozwiązania lub wygaśnięcia stosunku pracy. Jeżeli ustalony w ten sposób termin wypłaty ekwiwalentu jest dniem wolnym od pracy, ekwiwalent wypłaca się w dniu poprzedzającym ten dzień.”;
+- **8)** w art. 171 po § 3 dodaje się § 4 i 5 w brzmieniu:
+
+  > „§ 4. Pracodawca dokonuje wypłaty ekwiwalentu pieniężnego, o którym mowa w § 1, w terminie wypłaty wynagrodzenia ustalonym zgodnie z art. 85.  
+  > § 5. Przepisu § 4 nie stosuje się, jeżeli termin wypłaty wynagrodzenia ustalony zgodnie z art. 85 przypada przed dniem rozwiązania lub wygaśnięcia stosunku pracy. W takim przypadku wypłaty ekwiwalentu pieniężnego, o którym mowa w § 1, dokonuje się w terminie 10 dni od dnia rozwiązania lub wygaśnięcia stosunku pracy. Jeżeli ustalony w ten sposób termin wypłaty ekwiwalentu jest dniem wolnym od pracy, ekwiwalent wypłaca się w dniu poprzedzającym ten dzień.”;  
 - **9)** w art. 174 w § 1 skreśla się wyraz „pisemny” i po wyrazie „pracownika” dodaje się wyrazy „złożony w postaci papierowej lub elektronicznej,”;
 - **10)** w art. 174 w § 1 i w art. 237 w § 3 wyrazy „na piśmie” zastępuje się wyrazami „w postaci papierowej lub elektronicznej”.
 

@@ -30,13 +30,37 @@ source: pdf
 **Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** po art. 162 dodaje się art. 162a w brzmieniu: „Art. 162a. Zwolnienie, o którym mowa w art. 30 ust. 1, stosuje się na podstawie dokumentu potwierdzającego umorzenie świadectwa pochodzenia energii elektrycznej wydanego dla energii elektrycznej wytworzonej przed dniem zmiany stawki akcyzy, przez obniżenie akcyzy w okresach rozliczeniowych następujących po dniu zmiany stawki akcyzy w wysokości stanowiącej iloczyn ilości energii elektrycznej odpowiadającej prawom majątkowym wynikającym z tego świadectwa oraz stawki akcyzy obowiązującej w dacie wytworzenia i dostarczenia do zużycia energii elektrycznej udokumentowanej tym świadectwem.”;
-- **2)** po art. 163c dodaje się art. 163d w brzmieniu: „Art. 163d. 1. W okresie od dnia 1 stycznia 2022 r. do dnia 31 maja 2022 r. zwalnia się od akcyzy sprzedaż energii elektrycznej nabywcy końcowemu będącemu odbiorcą energii elektrycznej w gospodarstwie domowym w rozumieniu art. 3 pkt 13b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne. 2. Na potrzeby stosowania zwolnienia, o którym mowa w ust. 1, za gospodarstwo domowe nie uznaje się nieruchomości w całości wykorzystywanej na potrzeby prowadzonej działalności gospodarczej.”;
-- **3)** po art. 164 dodaje się art. 164a w brzmieniu: „Art. 164a. 1. W okresie od dnia 20 grudnia 2021 r. do dnia 31 grudnia 2021 r. stawka akcyzy, o której mowa w art. 89 ust. 1: 1) pkt 2, wynosi 1369 zł/1000 litrów; 2) pkt 6, wynosi 1065 zł/1000 litrów; 3) pkt 8, wynosi 1065 zł/1000 litrów; 4) pkt 12 lit. a tiret pierwsze, wynosi 364 zł/1000 kilogramów. 2. W okresie od dnia 1 stycznia 2022 r. do dnia 31 maja 2022 r. stawka akcyzy, o której mowa w art. 89 ust. 1: 1) pkt 2, wynosi 1413 zł/1000 litrów; 2) pkt 6, wynosi 1104 zł/1000 litrów; 3) pkt 8, wynosi 1104 zł/1000 litrów; 4) pkt 12 lit. a tiret pierwsze, wynosi 387 zł/1000 kilogramów. 3. W okresie od dnia 1 stycznia 2022 r. do dnia 31 maja 2022 r. stawka akcyzy, o której mowa w art. 89 ust. 3, wynosi 4,60 zł za megawatogodzinę (MWh). 4. W przypadkach, o których mowa w ust. 1, przepisów art. 89 ust. 1aa i 1b nie stosuje się.”.
+- **2)** po art. 163c dodaje się art. 163d w brzmieniu:
+
+  > „Art. 163d.  
+  > 1. W okresie od dnia 1 stycznia 2022 r. do dnia 31 maja 2022 r. zwalnia się od akcyzy sprzedaż energii elektrycznej nabywcy końcowemu będącemu odbiorcą energii elektrycznej w gospodarstwie domowym w rozumieniu art. 3 pkt 13b ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.  
+  > 2. Na potrzeby stosowania zwolnienia, o którym mowa w ust. 1, za gospodarstwo domowe nie uznaje się nieruchomości w całości wykorzystywanej na potrzeby prowadzonej działalności gospodarczej.”;  
+- **3)** po art. 164 dodaje się art. 164a w brzmieniu:
+
+  > „Art. 164a.  
+  > 1. W okresie od dnia 20 grudnia 2021 r. do dnia 31 grudnia 2021 r. stawka akcyzy, o której mowa w art. 89 ust. 1:  
+  > 1) pkt 2, wynosi 1369 zł/1000 litrów;  
+  > 2) pkt 6, wynosi 1065 zł/1000 litrów;  
+  > 3) pkt 8, wynosi 1065 zł/1000 litrów;  
+  > 4) pkt 12 lit. a tiret pierwsze, wynosi 364 zł/1000 kilogramów.  
+  > 2. W okresie od dnia 1 stycznia 2022 r. do dnia 31 maja 2022 r. stawka akcyzy, o której mowa w art. 89 ust. 1:  
+  > 1) pkt 2, wynosi 1413 zł/1000 litrów;  
+  > 2) pkt 6, wynosi 1104 zł/1000 litrów;  
+  > 3) pkt 8, wynosi 1104 zł/1000 litrów;  
+  > 4) pkt 12 lit. a tiret pierwsze, wynosi 387 zł/1000 kilogramów.  
+  > 3. W okresie od dnia 1 stycznia 2022 r. do dnia 31 maja 2022 r. stawka akcyzy, o której mowa w art. 89 ust. 3, wynosi 4,60 zł za megawatogodzinę (MWh).  
+  > 4. W przypadkach, o których mowa w ust. 1, przepisów art. 89 ust. 1aa i 1b nie stosuje się.”.  
 
 **Art. 2.** W ustawie z dnia 6 lipca 2016 r. o podatku od sprzedaży detalicznej (Dz. U. z 2020 r. poz. 1293) wprowadza się następujące zmiany:
 
 - **1)** tytuł rozdziału 6 otrzymuje brzmienie: „Przepisy epizodyczne i końcowe”;
-- **2)** po art. 11a dodaje się art. 11b w brzmieniu: „Art. 11b. W okresie od dnia 1 stycznia 2022 r. do dnia 31 maja 2022 r. nie podlega opodatkowaniu podatkiem sprzedaż detaliczna: 1) benzyn silnikowych, o których mowa w art. 89 ust. 1 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym; 2) olejów napędowych, o których mowa w art. 89 ust. 1 pkt 6 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym; 3) biokomponentów stanowiących samoistne paliwa, o których mowa w art. 89 ust. 1 pkt 8 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym; 4) gazów przeznaczonych do napędu silników spalinowych, o których mowa w art. 89 ust. 1 pkt 12 lit. a–b ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.”.
+- **2)** po art. 11a dodaje się art. 11b w brzmieniu:
+
+  > „Art. 11b. W okresie od dnia 1 stycznia 2022 r. do dnia 31 maja 2022 r. nie podlega opodatkowaniu podatkiem sprzedaż detaliczna:  
+  > 1) benzyn silnikowych, o których mowa w art. 89 ust. 1 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;  
+  > 2) olejów napędowych, o których mowa w art. 89 ust. 1 pkt 6 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;  
+  > 3) biokomponentów stanowiących samoistne paliwa, o których mowa w art. 89 ust. 1 pkt 8 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;  
+  > 4) gazów przeznaczonych do napędu silników spalinowych, o których mowa w art. 89 ust. 1 pkt 12 lit. a–b ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.”.  
 
 **Art. 3.** W ustawie z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2021 r. poz. 1010 i 2219) w art. 21a:
 

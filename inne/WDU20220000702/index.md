@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wykazu przejść granicznych właściwych dla przeprowadzania granicznej kontroli sanitarnej Na podstawie art. 83 ust. 2 pkt 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz.
 z 2020 r. poz. 2021 oraz z 2022 r. poz. 24 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 24 września 2007 r. w sprawie wykazu przejść granicznych właściwych dla przeprowadzania granicznej kontroli sanitarnej (Dz. U. z 2015 r. poz. 546) w załączniku do rozporządzenia:
-1) w ust. 1 w pkt 2 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „f) Siemianówka – Swisłocz (kolejowe);”;
-2) w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) Świdnik k/Lublina.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 24 września 2007 r. w sprawie wykazu przejść granicznych właściwych dla przeprowadzania granicznej kontroli sanitarnej (Dz. U. z 2015 r. poz. 546) w załączniku do rozporządzenia:
+
+- **1)** w ust. 1 w pkt 2 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „f) Siemianówka – Swisłocz (kolejowe);”;
+- **2)** w ust. 3 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) Świdnik k/Lublina.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski
 

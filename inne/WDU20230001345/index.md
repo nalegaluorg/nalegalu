@@ -26,12 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001345) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1345/text.pdf) |
 
 zmieniające rozporządzenie w sprawie narodowego zasobu bibliotecznego Na podstawie art. 6 ust. 3 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2022 r. poz. 2393) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 4 lipca 2012 r. w sprawie narodowego zasobu bibliotecznego (Dz. U. z 2021 r. poz. 1308) w załączniku wprowadza się następujące zmiany:
-1) poz. 9 otrzymuje brzmienie: „9) Centralna Biblioteka Rolnicza Narodowego Instytutu Kultury i Dziedzictwa Wsi Oddział w Puławach”;
-2) dodaje się poz. 14 i 15 w brzmieniu: „14) Książnica Pomorska im. Stanisława Staszica w Szczecinie
-15) Polska Akademia Nauk Biblioteka Gdańska”.
-§ 2. Biblioteki, o których mowa w § 1 pkt 2, dokonają czynności, o których mowa w § 4–6 rozporządzenia zmienianego w § 1, w terminie do dnia 31 grudnia 2025 r.
-§ 3. Biblioteki, o których mowa w § 1 pkt 2, dokonają czynności, o których mowa w § 7 ust. 1 i § 8 rozporządzenia zmienianego w § 1, w terminie roku od dnia wejścia w życie niniejszego rozporządzenia.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 4 lipca 2012 r. w sprawie narodowego zasobu bibliotecznego (Dz. U. z 2021 r. poz. 1308) w załączniku wprowadza się następujące zmiany:
+
+- **1)** poz. 9 otrzymuje brzmienie: „9) Centralna Biblioteka Rolnicza Narodowego Instytutu Kultury i Dziedzictwa Wsi Oddział w Puławach”;
+- **2)** dodaje się poz. 14 i 15 w brzmieniu: „14) Książnica Pomorska im. Stanisława Staszica w Szczecinie 15) Polska Akademia Nauk Biblioteka Gdańska”.
+
+**§ 2.** Biblioteki, o których mowa w § 1 pkt 2, dokonają czynności, o których mowa w § 4–6 rozporządzenia zmienianego w § 1, w terminie do dnia 31 grudnia 2025 r.
+
+**§ 3.** Biblioteki, o których mowa w § 1 pkt 2, dokonają czynności, o których mowa w § 7 ust. 1 i § 8 rozporządzenia zmienianego w § 1, w terminie roku od dnia wejścia w życie niniejszego rozporządzenia.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

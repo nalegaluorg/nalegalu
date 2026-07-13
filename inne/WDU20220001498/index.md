@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka Na podstawie art. 12 ust. 4 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2019 r. poz. 1598 oraz z 2022 r.
 poz. 91) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 5 października 2017 r. w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1900 oraz z 2021 r.
-poz. 1802) wprowadza się następujące zmiany:
-1) w § 1 we wprowadzeniu do wyliczenia wyrazy „wojewodę podlaskiego oraz wojewodę lubelskiego” zastępuje się wyrazami „wojewodów dolnośląskiego, kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, mazowieckiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, wielkopolskiego oraz zachodniopomorskiego”;
-2) § 2 otrzymuje brzmienie: „§ 2. Z właściwości wojewodów wymienionych w § 1 w sprawach, o których mowa w § 1, mogą skorzystać obywatele Ukrainy, Republiki Białorusi oraz Federacji Rosyjskiej albo osoby posiadające w tych państwach status bezpaństwowca.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 5 października 2017 r. w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka (Dz. U. poz. 1900 oraz z 2021 r. poz. 1802) wprowadza się następujące zmiany:
+
+- **1)** w § 1 we wprowadzeniu do wyliczenia wyrazy „wojewodę podlaskiego oraz wojewodę lubelskiego” zastępuje się wyrazami „wojewodów dolnośląskiego, kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, mazowieckiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, wielkopolskiego oraz zachodniopomorskiego”;
+- **2)** § 2 otrzymuje brzmienie: „§ 2. Z właściwości wojewodów wymienionych w § 1 w sprawach, o których mowa w § 1, mogą skorzystać obywatele Ukrainy, Republiki Białorusi oraz Federacji Rosyjskiej albo osoby posiadające w tych państwach status bezpaństwowca.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

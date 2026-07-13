@@ -26,10 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001548) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1548/text.pdf) |
 
 zmieniające rozporządzenie w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii Na podstawie art. 8 ust. 4 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2024 r. poz. 12) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2004 r. w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii (Dz. U. z 2023 r. poz. 766) w załączniku nr 2 do rozporządzenia:
-1) w ust. 1 pkt 1 i 2 otrzymują brzmienie: „1) Graniczny Lekarz Weterynarii w Dorohusku – dla przejścia granicznego drogowego Dorohusk, przejścia granicznego kolejowego Dorohusk i przejścia granicznego kolejowego Hrubieszów (ruch towarowy);
-2) Graniczny Lekarz Weterynarii w Koroszczynie – dla przejścia granicznego drogowego Kukuryki i przejścia granicznego kolejowego Terespol (ruch towarowy);”;
-2) ust. 3 otrzymuje brzmienie: „3. Województwo podkarpackie Graniczny Lekarz Weterynarii w Korczowej – dla przejścia granicznego drogowego Hrebenne, przejścia granicznego drogowego Korczowa i przejścia granicznego kolejowego Przemyśl.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2004 r. w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii (Dz. U. z 2023 r. poz. 766) w załączniku nr 2 do rozporządzenia:
+
+- **1)** w ust. 1 pkt 1 i 2 otrzymują brzmienie:
+
+  > „1) Graniczny Lekarz Weterynarii w Dorohusku – dla przejścia granicznego drogowego Dorohusk, przejścia granicznego kolejowego Dorohusk i przejścia granicznego kolejowego Hrubieszów (ruch towarowy);  
+  > 2) Graniczny Lekarz Weterynarii w Koroszczynie – dla przejścia granicznego drogowego Kukuryki i przejścia granicznego kolejowego Terespol (ruch towarowy);”;  
+- **2)** ust. 3 otrzymuje brzmienie: „3. Województwo podkarpackie Graniczny Lekarz Weterynarii w Korczowej – dla przejścia granicznego drogowego Hrebenne, przejścia granicznego drogowego Korczowa i przejścia granicznego kolejowego Przemyśl.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
 

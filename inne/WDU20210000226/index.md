@@ -35,26 +35,33 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 17 października 2014 r.
 w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej Na podstawie art. 8a ust. 2 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2021 r.
 poz. 195) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wykaz systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej, zwanych dalej „informacjami”;
-2) zasady zarządzania przez Głównego Inspektora Sanitarnego wymianą informacji.
-§ 2. Wykaz systemów wymiany informacji obejmuje następujące systemy:
-1) System Nadzoru Epidemiologicznego nad Chorobami Zakaźnymi;
-2) Krajowy System Wczesnego Ostrzegania i Reagowania dla Chorób Zakaźnych;
-2a) System Ewidencji Państwowej Inspekcji Sanitarnej (SEPIS);
-3) (uchylony);
-4) System Monitoringu Jakości Wody Przeznaczonej do Spożycia przez Ludzi;
-5) System Monitoringu Jakości Wody w Kąpieliskach;
-6) Bazę Danych Urządzeń Radiologicznych;
-7) Bazę Danych Źródeł Wytwarzających Pola Elektromagnetyczne na Stanowiskach Pracy (PEM 2005.PL);
-8) System Wczesnego Ostrzegania o Niebezpiecznej Żywności i Paszach (RASFF) w Polsce;
-9) Elektroniczny System Nadzoru nad Dystrybucją Szczepionek (ESNDS);
-10) System Monitorowania Informacji o Środkach Zastępczych i Nowych Substancjach Psychoaktywnych (SMIOD).
-§ 3. Główny Inspektor Sanitarny zarządza wymianą informacji w zakresie systemów, o których mowa w § 2, przez:
-1) zbieranie danych;
-2) zapewnianie ciągłej, wielostronnej i szybkiej wymiany danych w sposób, który zapewni kompletność i niezbędną jakość informacji;
-3) określanie jednolitych zasad oceny ryzyka sanitarnego i epidemiologicznego;
-4) organizowanie specjalistycznych szkoleń w zakresie gromadzenia i przetwarzania danych w tych systemach oraz ich obsługi;
-5) administrowanie i utrzymywanie centralnych baz danych tych systemów, z wyłączeniem systemu, o którym mowa w § 2 pkt 8.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wykaz systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej, zwanych dalej „informacjami”;
+- **2)** zasady zarządzania przez Głównego Inspektora Sanitarnego wymianą informacji.
+
+**§ 2.** Wykaz systemów wymiany informacji obejmuje następujące systemy:
+
+- **1)** System Nadzoru Epidemiologicznego nad Chorobami Zakaźnymi;
+- **2)** Krajowy System Wczesnego Ostrzegania i Reagowania dla Chorób Zakaźnych;
+- **2a)** System Ewidencji Państwowej Inspekcji Sanitarnej (SEPIS);
+- **3)** (uchylony);
+- **4)** System Monitoringu Jakości Wody Przeznaczonej do Spożycia przez Ludzi;
+- **5)** System Monitoringu Jakości Wody w Kąpieliskach;
+- **6)** Bazę Danych Urządzeń Radiologicznych;
+- **7)** Bazę Danych Źródeł Wytwarzających Pola Elektromagnetyczne na Stanowiskach Pracy (PEM 2005.PL);
+- **8)** System Wczesnego Ostrzegania o Niebezpiecznej Żywności i Paszach (RASFF) w Polsce;
+- **9)** Elektroniczny System Nadzoru nad Dystrybucją Szczepionek (ESNDS);
+- **10)** System Monitorowania Informacji o Środkach Zastępczych i Nowych Substancjach Psychoaktywnych (SMIOD).
+
+**§ 3.** Główny Inspektor Sanitarny zarządza wymianą informacji w zakresie systemów, o których mowa w § 2, przez:
+
+- **1)** zbieranie danych;
+- **2)** zapewnianie ciągłej, wielostronnej i szybkiej wymiany danych w sposób, który zapewni kompletność i niezbędną jakość informacji;
+- **3)** określanie jednolitych zasad oceny ryzyka sanitarnego i epidemiologicznego;
+- **4)** organizowanie specjalistycznych szkoleń w zakresie gromadzenia i przetwarzania danych w tych systemach oraz ich obsługi;
+- **5)** administrowanie i utrzymywanie centralnych baz danych tych systemów, z wyłączeniem systemu, o którym mowa w § 2 pkt 8.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

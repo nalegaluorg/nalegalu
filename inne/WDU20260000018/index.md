@@ -30,14 +30,18 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 27 października 2023 r. zmieniającego rozporządzenie w sprawie ustalania tożsamości osoby legitymowanej przez funkcjonariusza Służby Ochrony Państwa (Dz. U. poz. 2371), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: D. Tusk
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 12 lutego 2018 r.
 w sprawie ustalania tożsamości osoby legitymowanej przez funkcjonariusza Służby Ochrony Państwa Na podstawie art. 25 ust. 5 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r. poz. 1871 oraz z 2025 r. poz. 179, 718, 1366 i 1823) zarządza się, co następuje:
-§ 1. Rozporządzenie określa rodzaje dokumentów tożsamości, na podstawie których ustala się tożsamość osoby legitymowanej, oraz postać dokumentowania czynności ustalania tożsamości osoby legitymowanej przez funkcjonariusza Służby Ochrony Państwa.
-§ 2. Funkcjonariusz ustala tożsamość osoby legitymowanej na podstawie:
-1) dowodu osobistego;
-1a) dokumentu mObywatel, o którym mowa w art. 2 pkt 8 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r.
-poz. 1275 i 1717 oraz z 2025 r. poz. 1019);
-2) dokumentu paszportowego;
-3) dokumentu potwierdzającego tożsamość cudzoziemca, o którym mowa w art. 3 pkt 3 oraz art. 226 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794);
-4) innego dokumentu zawierającego fotografię oraz oznaczenie serii, numer oraz nazwę organu wydającego.
-§ 3. Czynności ustalania tożsamości osoby legitymowanej dokumentuje się w notatniku służbowym lub notatce służbowej w postaci papierowej. Dokumentowanie może być również realizowane w postaci elektronicznej.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 1.** Rozporządzenie określa rodzaje dokumentów tożsamości, na podstawie których ustala się tożsamość osoby legitymowanej, oraz postać dokumentowania czynności ustalania tożsamości osoby legitymowanej przez funkcjonariusza Służby Ochrony Państwa.
+
+**§ 2.** Funkcjonariusz ustala tożsamość osoby legitymowanej na podstawie:
+
+- **1)** dowodu osobistego;
+- **1a)** dokumentu mObywatel, o którym mowa w art. 2 pkt 8 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019);
+- **2)** dokumentu paszportowego;
+- **3)** dokumentu potwierdzającego tożsamość cudzoziemca, o którym mowa w art. 3 pkt 3 oraz art. 226 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079 i 1794);
+- **4)** innego dokumentu zawierającego fotografię oraz oznaczenie serii, numer oraz nazwę organu wydającego.
+
+**§ 3.** Czynności ustalania tożsamości osoby legitymowanej dokumentuje się w notatniku służbowym lub notatce służbowej w postaci papierowej. Dokumentowanie może być również realizowane w postaci elektronicznej.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

@@ -29,7 +29,12 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 19 dodaje się ust. 4 i 5 w brzmieniu: „4. Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż: 1) 50 m - jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem; 2) 80 m - jeżeli kieruje zespołem pojazdów lub pojazdem niewymienionym w pkt 1. 5. Organ zarządzający ruchem na drogach może zmniejszyć lub zwiększyć za pomocą znaków drogowych dopuszczalny odstęp, o którym mowa w ust. 4, w zależności od obowiązującej w tunelu dopuszczalnej prędkości.”;
+- **1)** w art. 19 dodaje się ust. 4 i 5 w brzmieniu:
+
+  > „4. Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż:  
+  > 1) 50 m - jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem;  
+  > 2) 80 m - jeżeli kieruje zespołem pojazdów lub pojazdem niewymienionym w pkt 1.  
+  > 5. Organ zarządzający ruchem na drogach może zmniejszyć lub zwiększyć za pomocą znaków drogowych dopuszczalny odstęp, o którym mowa w ust. 4, w zależności od obowiązującej w tunelu dopuszczalnej prędkości.”;  
 - **2)** po art. 47 dodaje się art. 47a w brzmieniu: „Art. 47a. Kierujący pojazdem w tunelu, podczas zatrzymania wynikającego z warunków lub przepisów ruchu drogowego, jest obowiązany zachować odstęp od poprzedzającego pojazdu nie mniejszy niż 5 m.”;
 - **3)** w art. 51:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza.”,

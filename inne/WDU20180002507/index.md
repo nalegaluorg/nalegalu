@@ -41,7 +41,11 @@ source: pdf
     - **b)** w § 4 skreśla się wyrazy „spośród kandydatów wybranych w trybie § 5”,
     - **c)** uchyla się § 5;
 
-- **6)** po art. 129 dodaje się art. 129a w brzmieniu: „Art. 129a. § 1. Przepis art. 37 § 1 stosuje się do sędziów Sądu Najwyższego, którzy objęli stanowisko sędziego Sądu Najwyższego po dniu wejścia w życie ustawy z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym (Dz. U. poz. 2507). § 2. Do sędziów Sądu Najwyższego, którzy objęli stanowisko sędziego Sądu Najwyższego przed dniem wejścia w życie ustawy z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym (Dz. U. poz. 2507) stosuje się przepis art. 30 ustawy uchylanej w art. 135.”.
+- **6)** po art. 129 dodaje się art. 129a w brzmieniu:
+
+  > „Art. 129a.  
+  > § 1. Przepis art. 37 § 1 stosuje się do sędziów Sądu Najwyższego, którzy objęli stanowisko sędziego Sądu Najwyższego po dniu wejścia w życie ustawy z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym (Dz. U. poz. 2507).  
+  > § 2. Do sędziów Sądu Najwyższego, którzy objęli stanowisko sędziego Sądu Najwyższego przed dniem wejścia w życie ustawy z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym (Dz. U. poz. 2507) stosuje się przepis art. 30 ustawy uchylanej w art. 135.”.  
 
 **Art. 2.**
 

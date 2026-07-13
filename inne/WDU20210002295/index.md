@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r.
 poz. 577) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U.
-z 2021 r. poz. 2288) w załączniku nr 4 do rozporządzenia w tabeli w części „Powszechne jednostki organizacyjne prokuratury” wprowadza się następujące zmiany:
-1) po wierszu „Funkcja kierownika stażu” dodaje się wiersz w brzmieniu: Funkcja jednego koordynatora do spraw dostępności: – dla obszaru prokuratury regionalnej do 901 – w Prokuraturze Krajowej do 901
-2) w wierszu „Funkcje powierzane urzędnikom delegowanym do Prokuratury Generalnej” wyrazy „Prokuratury Generalnej” zastępuje się wyrazami „Prokuratury Krajowej”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. z 2021 r. poz. 2288) w załączniku nr 4 do rozporządzenia w tabeli w części „Powszechne jednostki organizacyjne prokuratury” wprowadza się następujące zmiany:
+
+- **1)** po wierszu „Funkcja kierownika stażu” dodaje się wiersz w brzmieniu: Funkcja jednego koordynatora do spraw dostępności: – dla obszaru prokuratury regionalnej do 901 – w Prokuraturze Krajowej do 901
+- **2)** w wierszu „Funkcje powierzane urzędnikom delegowanym do Prokuratury Generalnej” wyrazy „Prokuratury Generalnej” zastępuje się wyrazami „Prokuratury Krajowej”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. Minister Sprawiedliwości: Z. Ziobro
 

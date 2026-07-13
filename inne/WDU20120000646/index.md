@@ -27,14 +27,18 @@ source: pdf
 
 w sprawie wzorów formularzy do przekazywania informacji dyrektorom oddziałów terenowych Agencji Rynku Rolnego i dostawcom hurtowym Na podstawie art. 10 ust. 2 ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U.
 z 2009 r. Nr 11, poz. 65, z późn. zm. ) zarządza się, co następuje:
-§ 1. Określa się wzór formularza:
-1) miesięcznych informacji przekazywanych przez podmioty skupujące:
-a) dyrektorom oddziałów terenowych Agencji Rynku Rolnego, stanowiący załącznik nr 1 do rozporządzenia,
-b) dostawcom hurtowym, stanowiący załącznik nr 2 do rozporządzenia;
-2) rocznych informacji przekazywanych przez podmioty skupujące:
-a) dyrektorom oddziałów terenowych Agencji Rynku Rolnego, stanowiący załącznik nr 3 do rozporządzenia,
-b) dostawcom hurtowym, stanowiący załącznik nr 4 do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 kwietnia 2005 r. w sprawie wzorów formularzy do przekazywania informacji dyrektorom oddziałów terenowych Agencji Rynku Rolnego i dostawcom hurtowym (Dz. U. Nr 69, poz. 617).
-§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. K. Plocke ………………………………………………………………… ………………………………………………………… …… …………………………………………………… ………………………………………………………… …………………… …
+
+**§ 1.** Określa się wzór formularza:
+
+- **1)** miesięcznych informacji przekazywanych przez podmioty skupujące:
+    - **a)** dyrektorom oddziałów terenowych Agencji Rynku Rolnego, stanowiący załącznik nr 1 do rozporządzenia,
+    - **b)** dostawcom hurtowym, stanowiący załącznik nr 2 do rozporządzenia;
+
+- **2)** rocznych informacji przekazywanych przez podmioty skupujące:
+    - **a)** dyrektorom oddziałów terenowych Agencji Rynku Rolnego, stanowiący załącznik nr 3 do rozporządzenia,
+    - **b)** dostawcom hurtowym, stanowiący załącznik nr 4 do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 kwietnia 2005 r. w sprawie wzorów formularzy do przekazywania informacji dyrektorom oddziałów terenowych Agencji Rynku Rolnego i dostawcom hurtowym (Dz. U. Nr 69, poz. 617).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. K. Plocke ………………………………………………………………… ………………………………………………………… …… …………………………………………………… ………………………………………………………… …………………… …
 

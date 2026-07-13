@@ -36,7 +36,11 @@ source: pdf
 
 **Art. 3.** W ustawie dnia 27 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy - Karta Nauczyciela (Dz.U. Nr 167, poz.
 
-- **1397)** w art. 3 otrzymuje brzmienie: „Art. 3. 1. Osobom, które do dnia 31 grudnia 2008 r. spełniły warunki do emerytury górniczej określone w art. 34 lub w art. 48-49 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym w dniu 31 grudnia 2006 r., przysługuje górnicza emerytura na warunkach określonych w tych przepisach. 2. Osobom, którym udzielono urlopu górniczego lub świadczenia górniczego na warunkach określonych w odrębnych przepisach przy ustalaniu prawa do górniczej emerytury bez względu na wiek uwzględnia się okresy niezdolności do pracy z powodu choroby lub odosobnienia w związku z chorobą zakaźną, za które wypłacono wynagrodzenie lub zasiłek chorobowy, okresy czynnej służby wojskowej lub okresy pełnienia z wyboru funkcji w organach związku zawodowego zrzeszającego górników na warunkach określonych w tych odrębnych przepisach, o ile z urlopem górniczym lub świadczeniem górniczym osoby te spełniły do dnia 31 grudnia 2008 r. warunki do górniczej emerytury bez względu na wiek.”.
+- **1397)** w art. 3 otrzymuje brzmienie:
+
+  > „Art. 3.  
+  > 1. Osobom, które do dnia 31 grudnia 2008 r. spełniły warunki do emerytury górniczej określone w art. 34 lub w art. 48-49 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym w dniu 31 grudnia 2006 r., przysługuje górnicza emerytura na warunkach określonych w tych przepisach.  
+  > 2. Osobom, którym udzielono urlopu górniczego lub świadczenia górniczego na warunkach określonych w odrębnych przepisach przy ustalaniu prawa do górniczej emerytury bez względu na wiek uwzględnia się okresy niezdolności do pracy z powodu choroby lub odosobnienia w związku z chorobą zakaźną, za które wypłacono wynagrodzenie lub zasiłek chorobowy, okresy czynnej służby wojskowej lub okresy pełnienia z wyboru funkcji w organach związku zawodowego zrzeszającego górników na warunkach określonych w tych odrębnych przepisach, o ile z urlopem górniczym lub świadczeniem górniczym osoby te spełniły do dnia 31 grudnia 2008 r. warunki do górniczej emerytury bez względu na wiek.”.  
 
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -27,11 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072 oraz z 2021 r. poz. 1080 i 1236) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. z 2021 r. poz. 1052) wprowadza się następujące zmiany:
-1) w § 1 pkt 4 otrzymuje brzmienie: „4) Sądowi Okręgowemu w Krakowie ‒ z obszaru właściwości Sądu Okręgowego w Nowym Sączu;”;
-2) w § 2:
-a) w pkt 15 lit. b otrzymuje brzmienie: „b) sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: w Chrzanowie, dla Krakowa-Krowodrzy w Krakowie, dla Krakowa-Nowej Huty w Krakowie, dla Krakowa-Podgórza w Krakowie, w Miechowie, Myślenicach, Olkuszu, Oświęcimiu, Suchej Beskidzkiej, Wadowicach, Wieliczce, Gorlicach, Limanowej, Nowym Sączu, Nowym Targu, Zakopanem,”,
-b) pkt 38 otrzymuje brzmienie: „38) w obszarze właściwości Sądu Okręgowego w Tarnowie ‒ Sądowi Rejonowemu w Tarnowie sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Bochni, Brzesku i Dąbrowie Tarnowskiej;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. z 2021 r. poz. 1052) wprowadza się następujące zmiany:
+
+- **1)** w § 1 pkt 4 otrzymuje brzmienie: „4) Sądowi Okręgowemu w Krakowie ‒ z obszaru właściwości Sądu Okręgowego w Nowym Sączu;”;
+- **2)** w § 2:
+    - **a)** w pkt 15 lit. b otrzymuje brzmienie: „b) sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych: w Chrzanowie, dla Krakowa-Krowodrzy w Krakowie, dla Krakowa-Nowej Huty w Krakowie, dla Krakowa-Podgórza w Krakowie, w Miechowie, Myślenicach, Olkuszu, Oświęcimiu, Suchej Beskidzkiej, Wadowicach, Wieliczce, Gorlicach, Limanowej, Nowym Sączu, Nowym Targu, Zakopanem,”,
+    - **b)** pkt 38 otrzymuje brzmienie: „38) w obszarze właściwości Sądu Okręgowego w Tarnowie ‒ Sądowi Rejonowemu w Tarnowie sprawy gospodarcze oraz sprawy upadłościowe i restrukturyzacyjne z obszaru właściwości sądów rejonowych w: Bochni, Brzesku i Dąbrowie Tarnowskiej;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. Minister Sprawiedliwości: Z. Ziobro
 

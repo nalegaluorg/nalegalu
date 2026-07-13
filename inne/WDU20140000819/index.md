@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000819) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/819/text.pdf) |
 
 w sprawie wysokości wynagrodzenia członków Rady do spraw cyfryzacji Na podstawie art. 17 ust. 17 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235 oraz z 2014 r. poz. 183) zarządza się, co następuje:
-§ 1. Członkowie Rady do Spraw Cyfryzacji, zwanej dalej „Radą”, w związku z wykonywaniem swoich obowiązków otrzymują za udział w posiedzeniu Rady wynagrodzenie w wysokości:
-1) 400 zł – Przewodniczący i Wiceprzewodniczący Rady;
-2) 350 zł – pozostali członkowie Rady.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Administracji i Cyfryzacji: wz. S. Huskowski
+
+**§ 1.** Członkowie Rady do Spraw Cyfryzacji, zwanej dalej „Radą”, w związku z wykonywaniem swoich obowiązków otrzymują za udział w posiedzeniu Rady wynagrodzenie w wysokości:
+
+- **1)** 400 zł – Przewodniczący i Wiceprzewodniczący Rady;
+- **2)** 350 zł – pozostali członkowie Rady.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Administracji i Cyfryzacji: wz. S. Huskowski
 

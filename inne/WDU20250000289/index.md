@@ -42,13 +42,35 @@ source: pdf
 
 - **2)** w art. 3 w ust. 3 pkt 9 otrzymuje brzmienie: „9) Fundusz Promocji Roślin Oleistych są obowiązane podmioty skupujące rośliny oleiste od ich producenta.”;
 - **3)** w art. 6:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Deklaracje, o których mowa w ust. 1 pkt 2 lit. a, są składane w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym albo podpisem zaufanym, albo podpisem osobistym, za pomocą systemu teleinformatycznego Krajowego Ośrodka, na formularzach opracowanych i udostępnionych w tym systemie przez Krajowy Ośrodek, i zawierają: 1) nazwę, siedzibę i adres albo imię, nazwisko, miejsce zamieszkania i adres, numer telefonu kontaktowego oraz adres poczty elektronicznej podmiotu naliczającego, pobierającego i przekazującego wpłaty na dany fundusz promocji; 2) numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL), jeżeli podmiot, o którym mowa w pkt 1, jest osobą fizyczną; 3) numer w Krajowym Rejestrze Sądowym, jeżeli podmiot, o którym mowa w pkt 1, taki numer posiada, oraz numer identyfikacji podatkowej (NIP), jeżeli został nadany; 4) numer identyfikacji w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON) podmiotu, o którym mowa w pkt 1; 5) numer rachunku bankowego podmiotu, o którym mowa w pkt 1; 6) określenie ilości lub wartości towaru, stanowiących podstawę wpłaty; 7) kwotę należną z tytułu wpłaty na dany fundusz promocji za określony kwartał.”,
-    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Złożenie deklaracji, o których mowa w ust. 1 pkt 2 lit. a, za pomocą systemu teleinformatycznego Krajowego Ośrodka następuje po uwierzytelnieniu w tym systemie podmiotu składającego deklarację, a w przypadku gdy deklaracja jest składana przez podmiot niebędący osobą fizyczną – po uwierzytelnieniu osoby: 1) uprawnionej do reprezentacji tego podmiotu – jeżeli jego reprezentacja jest jednoosobowa; 2) upoważnionej przez osoby uprawnione do reprezentacji tego podmiotu – jeżeli jego reprezentacja jest wieloosobowa. 2b. Uwierzytelnienie w systemie teleinformatycznym Krajowego Ośrodka następuje: 1) w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717) lub 2) za pomocą loginu i kodu dostępu do systemu teleinformatycznego Krajowego Ośrodka.”;
+    - **a)** ust. 2 otrzymuje brzmienie:
+
+      > „2. Deklaracje, o których mowa w ust. 1 pkt 2 lit. a, są składane w formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym albo podpisem zaufanym, albo podpisem osobistym, za pomocą systemu teleinformatycznego Krajowego Ośrodka, na formularzach opracowanych i udostępnionych w tym systemie przez Krajowy Ośrodek, i zawierają:  
+      > 1) nazwę, siedzibę i adres albo imię, nazwisko, miejsce zamieszkania i adres, numer telefonu kontaktowego oraz adres poczty elektronicznej podmiotu naliczającego, pobierającego i przekazującego wpłaty na dany fundusz promocji;  
+      > 2) numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL), jeżeli podmiot, o którym mowa w pkt 1, jest osobą fizyczną;  
+      > 3) numer w Krajowym Rejestrze Sądowym, jeżeli podmiot, o którym mowa w pkt 1, taki numer posiada, oraz numer identyfikacji podatkowej (NIP), jeżeli został nadany;  
+      > 4) numer identyfikacji w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON) podmiotu, o którym mowa w pkt 1;  
+      > 5) numer rachunku bankowego podmiotu, o którym mowa w pkt 1;  
+      > 6) określenie ilości lub wartości towaru, stanowiących podstawę wpłaty;  
+      > 7) kwotę należną z tytułu wpłaty na dany fundusz promocji za określony kwartał.”,  
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
+
+      > „2a. Złożenie deklaracji, o których mowa w ust. 1 pkt 2 lit. a, za pomocą systemu teleinformatycznego Krajowego Ośrodka następuje po uwierzytelnieniu w tym systemie podmiotu składającego deklarację, a w przypadku gdy deklaracja jest składana przez podmiot niebędący osobą fizyczną – po uwierzytelnieniu osoby:  
+      > 1) uprawnionej do reprezentacji tego podmiotu – jeżeli jego reprezentacja jest jednoosobowa;  
+      > 2) upoważnionej przez osoby uprawnione do reprezentacji tego podmiotu – jeżeli jego reprezentacja jest wieloosobowa.  
+      > 2b. Uwierzytelnienie w systemie teleinformatycznym Krajowego Ośrodka następuje:  
+      > 1) w sposób określony w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717) lub 2) za pomocą loginu i kodu dostępu do systemu teleinformatycznego Krajowego Ośrodka.”;  
 
 - **4)** w art. 9:
     - **a)** w ust. 2 w pkt 1 lit. g otrzymuje brzmienie: „g) owocami lub warzywami lub ich przetworami, lub produktami pszczelimi – w przypadku Funduszu Promocji Owoców i Warzyw,”,
     - **b)** w ust. 4 skreśla się wyrazy „pkt 7 lit. f i g,”,
-    - **c)** po ust. 4b dodaje się ust. 4c i 4d w brzmieniu: „4c. Wysokość wsparcia finansowego na realizację zadań, o których mowa w art. 2 ust. 2 pkt 7, dotyczących: 1) owoców, warzyw i ich przetworów – nie może przekroczyć 95 % maksymalnej kwoty środków finansowych przeznaczonych na realizację wszystkich zadań Funduszu Promocji Owoców i Warzyw w danym roku finansowym; 2) produktów pszczelich – nie może przekroczyć 5 % maksymalnej kwoty środków finansowych przeznaczonych na realizację wszystkich zadań Funduszu Promocji Owoców i Warzyw w danym roku finansowym. 4d. Wysokość wsparcia finansowego na realizacje zadań, o których mowa w art. 2 ust. 2 pkt 7 lit. f i g, dotyczących: 1) owoców, warzyw i ich przetworów – nie może przekroczyć 15 % kwoty określonej w ust. 4c pkt 1; 2) produktów pszczelich – nie może przekroczyć 15 % kwoty określonej w ust. 4c pkt 2.”;
+    - **c)** po ust. 4b dodaje się ust. 4c i 4d w brzmieniu:
+
+      > „4c. Wysokość wsparcia finansowego na realizację zadań, o których mowa w art. 2 ust. 2 pkt 7, dotyczących:  
+      > 1) owoców, warzyw i ich przetworów – nie może przekroczyć 95 % maksymalnej kwoty środków finansowych przeznaczonych na realizację wszystkich zadań Funduszu Promocji Owoców i Warzyw w danym roku finansowym;  
+      > 2) produktów pszczelich – nie może przekroczyć 5 % maksymalnej kwoty środków finansowych przeznaczonych na realizację wszystkich zadań Funduszu Promocji Owoców i Warzyw w danym roku finansowym.  
+      > 4d. Wysokość wsparcia finansowego na realizacje zadań, o których mowa w art. 2 ust. 2 pkt 7 lit. f i g, dotyczących:  
+      > 1) owoców, warzyw i ich przetworów – nie może przekroczyć 15 % kwoty określonej w ust. 4c pkt 1;  
+      > 2) produktów pszczelich – nie może przekroczyć 15 % kwoty określonej w ust. 4c pkt 2.”;  
 
 - **5)** w art. 14 w pkt 2 lit. b otrzymuje brzmienie: „b) w przypadku osoby fizycznej – numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL), jeżeli numer taki został nadany,”.
 

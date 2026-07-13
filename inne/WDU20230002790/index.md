@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wyłączenia obowiązku poboru zryczałtowanego podatku dochodowego od osób fizycznych Na podstawie art. 41 ust. 29 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r.
 poz. 2647, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 28 grudnia 2022 r. w sprawie wyłączenia obowiązku poboru zryczałtowanego podatku dochodowego od osób fizycznych (Dz. U. poz. 2834) w § 3 wyrazy „do dnia 31 grudnia 2023 r.” zastępuje się wyrazami „do dnia 31 grudnia 2024 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2023 r.
-Minister Finansów: A. Domański
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 28 grudnia 2022 r. w sprawie wyłączenia obowiązku poboru zryczałtowanego podatku dochodowego od osób fizycznych (Dz. U. poz. 2834) w § 3 wyrazy „do dnia 31 grudnia 2023 r.” zastępuje się wyrazami „do dnia 31 grudnia 2024 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 grudnia 2023 r. Minister Finansów: A. Domański
 

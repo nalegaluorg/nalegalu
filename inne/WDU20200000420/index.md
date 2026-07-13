@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie studiów Na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r.
 poz. 85 i 374) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. w sprawie studiów (Dz. U. poz. 1861 oraz z 2019 r. poz. 787 i 1498) wprowadza się następujące zmiany:
-1) tytuł rozdziału 11 otrzymuje brzmienie: „Przepis epizodyczny, przepisy przejściowe i dostosowujące oraz przepis końcowy”;
-2) po § 45 dodaje się § 45a w brzmieniu: „§ 45a. Elektroniczne legitymacje studenckie, których ważność została potwierdzona w pierwszym semestrze roku akademickiego 2019/2020, zachowują ważność do dnia 31 maja 2020 r., bez konieczności potwierdzenia ich ważności w sposób określony w § 21 ust. 1.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: J. Gowin
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. w sprawie studiów (Dz. U. poz. 1861 oraz z 2019 r. poz. 787 i 1498) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozdziału 11 otrzymuje brzmienie: „Przepis epizodyczny, przepisy przejściowe i dostosowujące oraz przepis końcowy”;
+- **2)** po § 45 dodaje się § 45a w brzmieniu: „§ 45a. Elektroniczne legitymacje studenckie, których ważność została potwierdzona w pierwszym semestrze roku akademickiego 2019/2020, zachowują ważność do dnia 31 maja 2020 r., bez konieczności potwierdzenia ich ważności w sposób określony w § 21 ust. 1.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: J. Gowin
 

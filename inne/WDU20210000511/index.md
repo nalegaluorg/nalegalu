@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie postępowania ze zwłokami i szczątkami ludzkimi Na podstawie art. 20 ust. 3 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2020 r.
 poz. 1947) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 7 grudnia 2001 r. w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 1783, z 2007 r. poz. 10 oraz z 2020 r. poz. 585) w § 6 dodaje się ust. 3 w brzmieniu: „3. Zakaz, o którym mowa w ust. 2, nie dotyczy otwarcia w krematorium trumny ze zwłokami sprowadzonymi z zagranicy na terytorium Rzeczypospolitej Polskiej, które będą podlegały spopieleniu, celem ich pochowania na terytorium Rzeczypospolitej Polskiej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 7 grudnia 2001 r. w sprawie postępowania ze zwłokami i szczątkami ludzkimi (Dz. U. poz. 1783, z 2007 r. poz. 10 oraz z 2020 r. poz. 585) w § 6 dodaje się ust. 3 w brzmieniu: „3. Zakaz, o którym mowa w ust. 2, nie dotyczy otwarcia w krematorium trumny ze zwłokami sprowadzonymi z zagranicy na terytorium Rzeczypospolitej Polskiej, które będą podlegały spopieleniu, celem ich pochowania na terytorium Rzeczypospolitej Polskiej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

@@ -30,39 +30,6 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2016 r. zmieniającego rozporządzenie w sprawie postępowania w sprawach oświadczeń o stanie majątkowym policjantów oraz trybu publikowania oświadczeń o stanie majątkowym osób pełniących funkcje organów Policji (Dz. U. poz. 114), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 17 lipca 2007 r.
 w sprawie postępowania w sprawach oświadczeń o stanie majątkowym policjantów oraz trybu publikowania oświadczeń o stanie majątkowym osób pełniących funkcje organów Policji Na podstawie art. 62 ust. 8 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) tryb postępowania w sprawach oświadczeń o stanie majątkowym policjantów składanych:
-a) przy nawiązywaniu lub rozwiązywaniu stosunku służbowego,
-b) przy nawiązywaniu lub rozwiązywaniu stosunku pracy poza służbą,
-c) corocznie,
-d) na żądanie przełożonego;
-2) sposób analizy zgodności oświadczeń o stanie majątkowym ze stanem faktycznym;
-3) wzór oświadczenia o stanie majątkowym policjanta;
-4) tryb publikowania oświadczeń o stanie majątkowym osób pełniących funkcje organów Policji.
-§ 2. 1. Policjant składa oświadczenie o stanie majątkowym przy nawiązywaniu stosunku służbowego w terminie 14 dni od dnia rozpoczęcia służby.
-2. Policjant składa oświadczenie o stanie majątkowym przy nawiązywaniu stosunku pracy poza służbą w terminie 14 dni od dnia rozpoczęcia pracy.
-3. Policjant składa oświadczenie o stanie majątkowym przy rozwiązywaniu stosunku służbowego:
-1) w przypadku zwolnienia ze służby na podstawie art. 41 ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, na pisemne żądanie przełożonego właściwego w sprawach osobowych, przed wydaniem rozkazu o zwolnieniu ze służby;
-2) w przypadku zwolnienia ze służby na podstawie art. 41 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji, równocześnie z pisemnym zgłoszeniem wystąpienia ze służby.
-4. Policjant składa oświadczenie o stanie majątkowym przy rozwiązywaniu stosunku pracy poza służbą w terminie 14 dni od dnia ustania stosunku pracy.
-§ 3. Policjant składa oświadczenie o stanie majątkowym na pisemne żądanie przełożonego właściwego w sprawach osobowych w terminie 14 dni od dnia otrzymania żądania.
-§ 4. 1. Przełożony właściwy w sprawach osobowych lub osoba pisemnie przez niego upoważniona poddaje analizie oświadczenie policjanta o stanie majątkowym w celu sprawdzenia jego zgodności ze stanem faktycznym.
-2. Analiza oświadczenia o stanie majątkowym obejmuje w szczególności:
-1) porównanie treści oświadczenia z treścią oświadczenia złożonego poprzednio; nie dotyczy to oświadczenia złożonego przy nawiązywaniu stosunku służbowego;
-2) porównanie treści oświadczenia z innymi informacjami znajdującymi się w aktach osobowych policjanta.
-3. Wyniki analizy oświadczeń o stanie majątkowym zawarte są w notatkach sporządzonych przez osoby dokonujące analizy i po oznaczeniu klauzulą „zastrzeżone” dołączone do oświadczeń.
-§ 5. Oświadczenie o stanie majątkowym policjant składa na formularzu, którego wzór określa załącznik do rozporządzenia.
-§ 6. 1. Przełożeni właściwi w sprawach osobowych osób pełniących funkcje organów Policji publikują informacje zawarte w oświadczeniach o ich stanie majątkowym w Biuletynie Informacji Publicznej w terminie 7 dni od dnia złożenia oświadczenia.
-2. Informacje, o których mowa w ust. 1, publikuje się w sposób uniemożliwiający odczytanie danych wymienionych w art. 62 ust. 7 ustawy z dnia 6 kwietnia 1990 r. o Policji.
-3. (uchylony).
-§ 7. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 grudnia 2001 r. w sprawie szczegółowych zasad i trybu udzielania policjantom zezwolenia na podjęcie zajęcia zarobkowego, składania oświadczenia o stanie majątkowym oraz właściwości przełożonych w tych sprawach (Dz. U. poz. 1659).
-§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2016 r. (poz. …) „WZÓR” WZÓR POUCZENIE
-1. Osoba składająca oświadczenie majątkowe wypełnia dwie jego integralne części: w części A oświadczenia zawarte są informacje dotyczące stanu majątkowego, w części B zaś informacje dotyczące daty i miejsca urodzenia, numeru PESEL, adresu zamieszkania składającego oświadczenie oraz miejsca położenia nieruchomości – niepodlegające publikacji w Biuletynie Informacji Publicznej w zakresie określonym w art. 62 ust. 7 ustawy z dnia 6 kwietnia 1990 r. o Policji.
-2. Osoba składająca oświadczenie majątkowe jest obowiązana do zgodnego z prawdą starannego i zupełnego wypełnienia każdej z rubryk oświadczenia znajdujących się w poszczególnych jego częściach (oznaczonych lit. A i cyframi rzymskimi albo lit. B) oraz punktach i pozycjach tabel (oznaczonych cyframi arabskimi), kierując się treścią zamieszczonych objaśnień.
-3. Jeżeli poszczególne części i punkty oświadczenia nie znajdują w konkretnym przypadku zastosowania, należy skreślić niewłaściwe sformułowanie w nich zawarte.
-4. W przypadku wyczerpania miejsca przewidzianego w formularzu na podanie informacji w ramach poszczególnych części, punktów lub pozycji, do oświadczenia należy dołączyć arkusze formatu A4 zawierające: uzupełnienie wymaganych informacji w układzie i stopniu szczegółowości określonych we właściwych punktach oświadczenia, oznaczenie formularza oświadczenia, części, punktu i pozycji, do których odnoszą się te informacje, oraz datę i podpis składającego oświadczenie.
-OŚWIADCZENIE O STANIE MAJĄTKOWYM POLICJANTA
 pełniący(a) służbę ..............................................................................................................................................................................................
 ..............................................................................................................................................................................................
 po zapoznaniu się z przepisami ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.), składając oświadczenie o stanie majątkowym zgodnie z art. 62 tej ustawy : w związku z nawiązaniem stosunku służbowego ............................................................................................................
@@ -95,6 +62,58 @@ PESEL oświadczam, że:
 2. domy, mieszkania, gospodarstwo rolne oraz inne nieruchomości wymienione w części A-I pkt 1 i 2 oraz części A-II położone są w: Część i punkt Określenie nieruchomości Adres miejsca położenia nieruchomości formularza, (ulica, nr domu, nr lokalu, miejscowość, kod pocztowy) w których opisano nieruchomości Powyższe oświadczenie składam świadomy(a) odpowiedzialności dyscyplinarnej przewidzianej w art. 132 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm.).
 ........................................................... .....................................................................
 7/7
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** tryb postępowania w sprawach oświadczeń o stanie majątkowym policjantów składanych:
+    - **a)** przy nawiązywaniu lub rozwiązywaniu stosunku służbowego,
+    - **b)** przy nawiązywaniu lub rozwiązywaniu stosunku pracy poza służbą,
+    - **c)** corocznie,
+    - **d)** na żądanie przełożonego;
+
+- **2)** sposób analizy zgodności oświadczeń o stanie majątkowym ze stanem faktycznym;
+- **3)** wzór oświadczenia o stanie majątkowym policjanta;
+- **4)** tryb publikowania oświadczeń o stanie majątkowym osób pełniących funkcje organów Policji.
+
+**§ 2.**
+
+1. Policjant składa oświadczenie o stanie majątkowym przy nawiązywaniu stosunku służbowego w terminie 14 dni od dnia rozpoczęcia służby.
+
+2. Policjant składa oświadczenie o stanie majątkowym przy nawiązywaniu stosunku pracy poza służbą w terminie 14 dni od dnia rozpoczęcia pracy.
+
+3. Policjant składa oświadczenie o stanie majątkowym przy rozwiązywaniu stosunku służbowego:
+
+- **1)** w przypadku zwolnienia ze służby na podstawie art. 41 ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, na pisemne żądanie przełożonego właściwego w sprawach osobowych, przed wydaniem rozkazu o zwolnieniu ze służby;
+- **2)** w przypadku zwolnienia ze służby na podstawie art. 41 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji, równocześnie z pisemnym zgłoszeniem wystąpienia ze służby.
+
+4. Policjant składa oświadczenie o stanie majątkowym przy rozwiązywaniu stosunku pracy poza służbą w terminie 14 dni od dnia ustania stosunku pracy.
+
+**§ 3.** Policjant składa oświadczenie o stanie majątkowym na pisemne żądanie przełożonego właściwego w sprawach osobowych w terminie 14 dni od dnia otrzymania żądania.
+
+**§ 4.**
+
+1. Przełożony właściwy w sprawach osobowych lub osoba pisemnie przez niego upoważniona poddaje analizie oświadczenie policjanta o stanie majątkowym w celu sprawdzenia jego zgodności ze stanem faktycznym.
+
+2. Analiza oświadczenia o stanie majątkowym obejmuje w szczególności:
+
+- **1)** porównanie treści oświadczenia z treścią oświadczenia złożonego poprzednio; nie dotyczy to oświadczenia złożonego przy nawiązywaniu stosunku służbowego;
+- **2)** porównanie treści oświadczenia z innymi informacjami znajdującymi się w aktach osobowych policjanta.
+
+3. Wyniki analizy oświadczeń o stanie majątkowym zawarte są w notatkach sporządzonych przez osoby dokonujące analizy i po oznaczeniu klauzulą „zastrzeżone” dołączone do oświadczeń.
+
+**§ 5.** Oświadczenie o stanie majątkowym policjant składa na formularzu, którego wzór określa załącznik do rozporządzenia.
+
+**§ 6.**
+
+1. Przełożeni właściwi w sprawach osobowych osób pełniących funkcje organów Policji publikują informacje zawarte w oświadczeniach o ich stanie majątkowym w Biuletynie Informacji Publicznej w terminie 7 dni od dnia złożenia oświadczenia.
+
+2. Informacje, o których mowa w ust. 1, publikuje się w sposób uniemożliwiający odczytanie danych wymienionych w art. 62 ust. 7 ustawy z dnia 6 kwietnia 1990 r. o Policji.
+
+3. (uchylony).
+
+**§ 7.** Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 7 grudnia 2001 r. w sprawie szczegółowych zasad i trybu udzielania policjantom zezwolenia na podjęcie zajęcia zarobkowego, składania oświadczenia o stanie majątkowym oraz właściwości przełożonych w tych sprawach (Dz. U. poz. 1659).
+
+**§ 8.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2016 r. (poz. …) „WZÓR” WZÓR POUCZENIE 1. Osoba składająca oświadczenie majątkowe wypełnia dwie jego integralne części: w części A oświadczenia zawarte są informacje dotyczące stanu majątkowego, w części B zaś informacje dotyczące daty i miejsca urodzenia, numeru PESEL, adresu zamieszkania składającego oświadczenie oraz miejsca położenia nieruchomości – niepodlegające publikacji w Biuletynie Informacji Publicznej w zakresie określonym w art. 62 ust. 7 ustawy z dnia 6 kwietnia 1990 r. o Policji. 2. Osoba składająca oświadczenie majątkowe jest obowiązana do zgodnego z prawdą starannego i zupełnego wypełnienia każdej z rubryk oświadczenia znajdujących się w poszczególnych jego częściach (oznaczonych lit. A i cyframi rzymskimi albo lit. B) oraz punktach i pozycjach tabel (oznaczonych cyframi arabskimi), kierując się treścią zamieszczonych objaśnień. 3. Jeżeli poszczególne części i punkty oświadczenia nie znajdują w konkretnym przypadku zastosowania, należy skreślić niewłaściwe sformułowanie w nich zawarte. 4. W przypadku wyczerpania miejsca przewidzianego w formularzu na podanie informacji w ramach poszczególnych części, punktów lub pozycji, do oświadczenia należy dołączyć arkusze formatu A4 zawierające: uzupełnienie wymaganych informacji w układzie i stopniu szczegółowości określonych we właściwych punktach oświadczenia, oznaczenie formularza oświadczenia, części, punktu i pozycji, do których odnoszą się te informacje, oraz datę i podpis składającego oświadczenie. OŚWIADCZENIE O STANIE MAJĄTKOWYM POLICJANTA
 
 ## CZĘŚĆ A Ja, niżej podpisany(a), ..............................................................................................................................................................................................
 

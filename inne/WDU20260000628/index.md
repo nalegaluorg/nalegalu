@@ -27,9 +27,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000628) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/628/text.pdf) |
 
 zmieniające rozporządzenie w sprawie laboratoriów urzędowych i krajowych laboratoriów referencyjnych do celów przeprowadzania analiz, badań i diagnostyki laboratoryjnej w ramach produkcji w rolnictwie ekologicznym Na podstawie art. 16 pkt 1 i 2 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. z 2023 r. poz. 1235) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 20 marca 2023 r. w sprawie laboratoriów urzędowych i krajowych laboratoriów referencyjnych do celów przeprowadzania analiz, badań i diagnostyki laboratoryjnej w ramach produkcji w rolnictwie ekologicznym (Dz. U. poz. 671 oraz z 2025 r. poz. 648) w załączniku nr 1 do rozporządzenia:
-1) uchyla się lp. 4;
-2) lp. 5 otrzymuje brzmienie: Analiza żywności, pasz, produktów rolnych, materiału 5 J.S. Hamilton Poland Sp. z o.o. roślinnego, gleb i podłoży uprawowych zgodnie z aktualnym zakresem akredytacji
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 20 marca 2023 r. w sprawie laboratoriów urzędowych i krajowych laboratoriów referencyjnych do celów przeprowadzania analiz, badań i diagnostyki laboratoryjnej w ramach produkcji w rolnictwie ekologicznym (Dz. U. poz. 671 oraz z 2025 r. poz. 648) w załączniku nr 1 do rozporządzenia:
+
+- **1)** uchyla się lp. 4;
+- **2)** lp. 5 otrzymuje brzmienie: Analiza żywności, pasz, produktów rolnych, materiału 5 J.S. Hamilton Poland Sp. z o.o. roślinnego, gleb i podłoży uprawowych zgodnie z aktualnym zakresem akredytacji
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
 

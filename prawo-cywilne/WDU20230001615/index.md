@@ -30,15 +30,26 @@ source: pdf
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610) wprowadza się następujące zmiany:
 
 - **1)** w art. 24 w § 1 zdanie trzecie otrzymuje brzmienie: „Na zasadach przewidzianych w kodeksie może on również żądać zadośćuczynienia pieniężnego albo zapłaty odpowiedniej sumy pieniężnej na wskazany cel społeczny.”;
-- **2)** art. 448 otrzymuje brzmienie: „Art. 448. § 1. W razie naruszenia dobra osobistego sąd może przyznać temu, czyje dobro osobiste zostało naruszone, odpowiednią sumę tytułem zadośćuczynienia pieniężnego za doznaną krzywdę albo zasądzić odpowiednią sumę pieniężną na wskazany przez niego cel społeczny, niezależnie od innych środków potrzebnych do usunięcia skutków naruszenia. § 2. W przypadkach określonych w art. 445 § 1 i 2 oraz art. 446 ten, czyje dobro osobiste zostało naruszone, może obok zadośćuczynienia pieniężnego żądać zasądzenia odpowiedniej sumy na wskazany przez niego cel społeczny. § 3. Do roszczeń, o których mowa w § 1 i 2, przepis art. 445 § 3 stosuje się.”;
+- **2)** art. 448 otrzymuje brzmienie:
+
+  > „Art. 448.  
+  > § 1. W razie naruszenia dobra osobistego sąd może przyznać temu, czyje dobro osobiste zostało naruszone, odpowiednią sumę tytułem zadośćuczynienia pieniężnego za doznaną krzywdę albo zasądzić odpowiednią sumę pieniężną na wskazany przez niego cel społeczny, niezależnie od innych środków potrzebnych do usunięcia skutków naruszenia.  
+  > § 2. W przypadkach określonych w art. 445 § 1 i 2 oraz art. 446 ten, czyje dobro osobiste zostało naruszone, może obok zadośćuczynienia pieniężnego żądać zasądzenia odpowiedniej sumy na wskazany przez niego cel społeczny.  
+  > § 3. Do roszczeń, o których mowa w § 1 i 2, przepis art. 445 § 3 stosuje się.”;  
 - **3)** w art. 480 dodaje się § 4 w brzmieniu: „§ 4. Przepisów § 1 i 3 nie stosuje się do roszczeń o złożenie oświadczenia odpowiedniej treści i w odpowiedniej formie w związku z naruszeniem dóbr osobistych.”;
-- **4)** w art. 928 w § 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „4) uporczywie uchylał się od wykonywania wobec spadkodawcy obowiązku alimentacyjnego określonego co do wysokości orzeczeniem sądowym, ugodą zawartą przed sądem albo innym organem albo inną umową; 5) uporczywie uchylał się od wykonywania obowiązku pieczy nad spadkodawcą, w szczególności wynikającego z władzy rodzicielskiej, opieki, sprawowania funkcji rodzica zastępczego, małżeńskiego obowiązku wzajemnej pomocy albo obowiązku wzajemnego szacunku i wspierania się rodzica i dziecka.”;
+- **4)** w art. 928 w § 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu:
+
+  > „4) uporczywie uchylał się od wykonywania wobec spadkodawcy obowiązku alimentacyjnego określonego co do wysokości orzeczeniem sądowym, ugodą zawartą przed sądem albo innym organem albo inną umową;  
+  > 5) uporczywie uchylał się od wykonywania obowiązku pieczy nad spadkodawcą, w szczególności wynikającego z władzy rodzicielskiej, opieki, sprawowania funkcji rodzica zastępczego, małżeńskiego obowiązku wzajemnej pomocy albo obowiązku wzajemnego szacunku i wspierania się rodzica i dziecka.”;  
 - **5)** w art. 934:
     - **a)** § 2 otrzymuje brzmienie: „§ 2. Jeżeli którekolwiek z dziadków spadkodawcy nie dożyło otwarcia spadku, udział spadkowy, który by mu przypadał, przypada jego dzieciom w częściach równych.”,
     - **b)** po § 2 dodaje się § 2 w brzmieniu: „§ 2 . Jeżeli dziecko któregokolwiek z dziadków spadkodawcy nie dożyło otwarcia spadku, udział spadkowy, który by mu przypadał, przypada jego dzieciom w częściach równych.”,
     - **c)** § 3 otrzymuje brzmienie: „§ 3. W braku dzieci i wnuków tego z dziadków, który nie dożył otwarcia spadku, udział spadkowy, który by mu przypadał, przypada pozostałym dziadkom w częściach równych.”;
 
-- **6)** w art. 1015 po § 1 dodaje się § 1 i 1 w brzmieniu: „§ 1 . Do zachowania terminu, o którym mowa w § 1, wystarcza złożenie przed jego upływem wniosku do sądu o odebranie oświadczenia o przyjęciu lub o odrzuceniu spadku. § 1 2 . Jeżeli złożenie oświadczenia o przyjęciu lub o odrzuceniu spadku wymaga zezwolenia sądu, bieg terminu do złożenia oświadczenia ulega zawieszeniu na czas trwania postępowania sądowego w tym przedmiocie.”;
+- **6)** w art. 1015 po § 1 dodaje się § 1 i 1 w brzmieniu:
+
+  > „§ 1 . Do zachowania terminu, o którym mowa w § 1, wystarcza złożenie przed jego upływem wniosku do sądu o odebranie oświadczenia o przyjęciu lub o odrzuceniu spadku.  
+  > § 1 2 . Jeżeli złożenie oświadczenia o przyjęciu lub o odrzuceniu spadku wymaga zezwolenia sądu, bieg terminu do złożenia oświadczenia ulega zawieszeniu na czas trwania postępowania sądowego w tym przedmiocie.”;  
 - **7)** w art. 1019 w § 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) do zachowania terminu, o którym mowa w art. 88 § 2, wystarcza złożenie przed jego upływem wniosku do sądu o odebranie oświadczenia o uchyleniu się od skutków prawnych oświadczenia.”.
 
 **Art. 2.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2020 r. poz. 1359, z 2022 r. poz. 2140 oraz z 2023 r. poz. 1606) wprowadza się następujące zmiany:
@@ -52,11 +63,23 @@ source: pdf
 **Art. 3.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, 1429 i 1606) wprowadza się następujące zmiany:
 
 - **1)** w art. 640 w § 1 dodaje się zdanie trzecie w brzmieniu: „Notariusz nie przesyła oświadczenia, jeżeli zarejestrował akt poświadczenia dziedziczenia.”;
-- **2)** po art. 640 dodaje się art. 640 w brzmieniu: „Art. 640 . § 1. Zezwolenie na dokonanie czynności przekraczającej zakres zwykłego zarządu majątkiem dziecka lub osoby pozostającej pod opieką w postaci prostego przyjęcia lub odrzucenia spadku, w toku postępowania o stwierdzenie nabycia spadku, wydaje sąd spadku. § 2. Z chwilą wszczęcia postępowania o stwierdzenie nabycia spadku wniosek o zezwolenie na dokonanie czynności, o której mowa w § 1, złożony do sądu opiekuńczego, przekazuje się do dalszego rozpoznania sądowi spadku.”;
+- **2)** po art. 640 dodaje się art. 640 w brzmieniu:
+
+  > „Art. 640 .  
+  > § 1. Zezwolenie na dokonanie czynności przekraczającej zakres zwykłego zarządu majątkiem dziecka lub osoby pozostającej pod opieką w postaci prostego przyjęcia lub odrzucenia spadku, w toku postępowania o stwierdzenie nabycia spadku, wydaje sąd spadku.  
+  > § 2. Z chwilą wszczęcia postępowania o stwierdzenie nabycia spadku wniosek o zezwolenie na dokonanie czynności, o której mowa w § 1, złożony do sądu opiekuńczego, przekazuje się do dalszego rozpoznania sądowi spadku.”;  
 - **3)** w art. 641:
     - **a)** w § 1 pkt 1 otrzymuje brzmienie: „1) imię i nazwisko spadkodawcy, datę i miejsce jego śmierci oraz ostatnie miejsce jego zwykłego pobytu;”,
     - **b)** uchyla się § 3,
-    - **c)** po § 3 dodaje się § 3 1 –3 w brzmieniu: „§ 3 . Rodzic, składając w imieniu dziecka oświadczenie o odrzuceniu spadku, oświadcza o: 1) przysługiwaniu mu władzy rodzicielskiej i jej zakresie, 2) wyrażeniu przez drugiego z rodziców zgody na odrzucenie spadku, chyba że oświadczenie to jest składane wspólnie, 3) uprzednim odrzuceniu spadku przez któregokolwiek z rodziców, 4) odrzuceniu spadku przez innych zstępnych rodziców tego dziecka – chyba że przed złożeniem oświadczenia zostało wydane zezwolenie sądu na dokonanie czynności przekraczającej zakres zwykłego zarządu majątkiem dziecka w postaci odrzucenia spadku. § 3 2 . Oświadczenie w zakresie treści wskazanej w § 3 pkt 1–4 składane jest pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. § 3 3 . Jeżeli oświadczenie jest składane przed sądem albo notariuszem, przed jego odebraniem sędzia albo notariusz uprzedza składającego oświadczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia. § 3 4 . Jeżeli oświadczenie o treści wskazanej w § 3 jest składane na piśmie z podpisem urzędowo poświadczonym, składający oświadczenie jest obowiązany do zawarcia w jego treści klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia. § 3 5 . Oświadczenie, o którym mowa w § 3 1 , może dotyczyć więcej niż jednego dziecka.”;
+    - **c)** po § 3 dodaje się § 3 1 –3 w brzmieniu:
+
+      > „§ 3 . Rodzic, składając w imieniu dziecka oświadczenie o odrzuceniu spadku, oświadcza o:  
+      > 1) przysługiwaniu mu władzy rodzicielskiej i jej zakresie, 2) wyrażeniu przez drugiego z rodziców zgody na odrzucenie spadku, chyba że oświadczenie to jest składane wspólnie, 3) uprzednim odrzuceniu spadku przez któregokolwiek z rodziców, 4) odrzuceniu spadku przez innych zstępnych rodziców tego dziecka – chyba że przed złożeniem oświadczenia zostało wydane zezwolenie sądu na dokonanie czynności przekraczającej zakres zwykłego zarządu majątkiem dziecka w postaci odrzucenia spadku.  
+      > § 3 2 . Oświadczenie w zakresie treści wskazanej w § 3 pkt 1–4 składane jest pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia.  
+      > § 3 3 . Jeżeli oświadczenie jest składane przed sądem albo notariuszem, przed jego odebraniem sędzia albo notariusz uprzedza składającego oświadczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.  
+      > § 3 4 . Jeżeli oświadczenie o treści wskazanej w § 3 jest składane na piśmie z podpisem urzędowo poświadczonym, składający oświadczenie jest obowiązany do zawarcia w jego treści klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”.  
+
+      Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia. § 3 5 . Oświadczenie, o którym mowa w § 3 1 , może dotyczyć więcej niż jednego dziecka.”;
 
 - **4)** art. 643 otrzymuje brzmienie: „Art. 643. O odrzuceniu spadku zawiadamia się wszystkie znane sądowi spadku osoby, które zgodnie z treścią oświadczenia i przedstawionych dokumentów są powołane do dziedziczenia.”;
 - **5)** w art. 652 zdanie drugie otrzymuje brzmienie: „Notariusz niezwłocznie zawiadamia o tym sąd spadku, przesyłając odpis sporządzonego protokołu, chyba że zarejestrował akt poświadczenia dziedziczenia.”;
@@ -65,7 +88,14 @@ source: pdf
 - **8)** art. 672 otrzymuje brzmienie: „Art. 672. Jeżeli zapewnienie nie było złożone albo jeżeli zapewnienie lub inne dowody nie będą uznane przez sąd za wystarczające, w szczególności gdy nie udało się ustalić spadkobierców, o których mowa w art. 669 zdanie drugie, postanowienie w sprawie stwierdzenia nabycia spadku może zapaść dopiero po wezwaniu spadkobierców przez ogłoszenie.”;
 - **9)** w art. 677:
     - **a)** w § 1 skreśla się zdanie drugie,
-    - **b)** po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Postanowienie o stwierdzeniu nabycia spadku zawiera: 1) imię i nazwisko spadkodawcy, imiona jego rodziców oraz jego numer PESEL, jeżeli został nadany, datę i miejsce zgonu albo znalezienia zwłok spadkodawcy oraz ostatnie miejsce jego zwykłego pobytu; 2) wszystkich spadkobierców, którym spadek przypadł – ich imię albo imiona, nazwisko, imiona rodziców oraz datę i miejsce urodzenia osób fizycznych, a w przypadku osób prawnych – nazwę i siedzibę; 3) tytuł powołania do spadku i wysokość udziałów w spadku, a w razie dziedziczenia testamentowego – określenie formy testamentu oraz powołanie protokołu otwarcia i ogłoszenia testamentu; 4) sposób przyjęcia spadku; 5) spadkobierców dziedziczących gospodarstwo rolne podlegające dziedziczeniu z ustawy oraz ich udziały w nim.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu:
+
+      > „§ 1 . Postanowienie o stwierdzeniu nabycia spadku zawiera:  
+      > 1) imię i nazwisko spadkodawcy, imiona jego rodziców oraz jego numer PESEL, jeżeli został nadany, datę i miejsce zgonu albo znalezienia zwłok spadkodawcy oraz ostatnie miejsce jego zwykłego pobytu;  
+      > 2) wszystkich spadkobierców, którym spadek przypadł – ich imię albo imiona, nazwisko, imiona rodziców oraz datę i miejsce urodzenia osób fizycznych, a w przypadku osób prawnych – nazwę i siedzibę;  
+      > 3) tytuł powołania do spadku i wysokość udziałów w spadku, a w razie dziedziczenia testamentowego – określenie formy testamentu oraz powołanie protokołu otwarcia i ogłoszenia testamentu;  
+      > 4) sposób przyjęcia spadku;  
+      > 5) spadkobierców dziedziczących gospodarstwo rolne podlegające dziedziczeniu z ustawy oraz ich udziały w nim.”,  
     - **c)** w § 2 dodaje się zdanie drugie w brzmieniu: „Przepis § 1 pkt 2 stosuje się odpowiednio.”;
 
 - **10)** w art. 1049 § 2 otrzymuje brzmienie: „§ 2. Przepisów niniejszego artykułu nie stosuje się do czynności polegających na świadczeniu rzeczy oznaczonych co do tożsamości lub na złożeniu oświadczenia odpowiedniej treści i w odpowiedniej formie w związku z naruszeniem dóbr osobistych.”.

@@ -30,7 +30,10 @@ source: pdf
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172) w art. 647 :
 
 - **1)** § 1 otrzymuje brzmienie: „§ 1. Inwestor odpowiada solidarnie z wykonawcą (generalnym wykonawcą) za zapłatę wynagrodzenia należnego podwykonawcy z tytułu wykonanych przez niego robót budowlanych, których szczegółowy przedmiot został zgłoszony inwestorowi przez wykonawcę lub podwykonawcę przed przystąpieniem do wykonywania tych robót, chyba że inwestor złożył podwykonawcy i wykonawcy sprzeciw wobec wykonywania tych robót przez podwykonawcę.”;
-- **2)** po § 1 dodaje się § 1 i 1 w brzmieniu: „§ 1 . Sprzeciw, o którym mowa w § 1, składa się w ciągu trzydziestu dni od dnia doręczenia inwestorowi zgłoszenia, o którym mowa w tym przepisie. W umowie inwestor i wykonawca (generalny wykonawca) mogą zastrzec krótszy termin na złożenie sprzeciwu. § 1 2 . Określony w umowie wykonawcy z podwykonawcą lub umowach z dalszym podwykonawcą termin na złożenie sprzeciwu, o którym mowa w § 1, nie może być krótszy od terminu określonego w umowie zawartej między inwestorem a wykonawcą (generalnym wykonawcą).”.
+- **2)** po § 1 dodaje się § 1 i 1 w brzmieniu:
+
+  > „§ 1 . Sprzeciw, o którym mowa w § 1, składa się w ciągu trzydziestu dni od dnia doręczenia inwestorowi zgłoszenia, o którym mowa w tym przepisie. W umowie inwestor i wykonawca (generalny wykonawca) mogą zastrzec krótszy termin na złożenie sprzeciwu.  
+  > § 1 2 . Określony w umowie wykonawcy z podwykonawcą lub umowach z dalszym podwykonawcą termin na złożenie sprzeciwu, o którym mowa w § 1, nie może być krótszy od terminu określonego w umowie zawartej między inwestorem a wykonawcą (generalnym wykonawcą).”.  
 
 **Art. 2.** Do umów zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 647 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 

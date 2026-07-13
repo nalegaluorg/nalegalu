@@ -29,7 +29,11 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2018 r. poz. 140) wprowadza się następujące zmiany:
 
-- **1)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. 1. W przypadku naboru wniosków o udzielenie wsparcia, o którym mowa w art. 35 ust. 1 lit. b rozporządzenia nr 1303/2013, na operacje realizowane przez podmioty inne niż LGD, dla zapewnienia spójności operacji z LSR, LGD może określić warunki wyboru operacji, w szczególności odnoszące się do zakresu operacji, miejsca jej realizacji lub podmiotu ubiegającego się o udzielenie wsparcia. 2. Warunki, o których mowa w ust. 1, nie mogą być sprzeczne z kryteriami wyboru operacji określonymi w LSR.”;
+- **1)** po art. 18 dodaje się art. 18a w brzmieniu:
+
+  > „Art. 18a.  
+  > 1. W przypadku naboru wniosków o udzielenie wsparcia, o którym mowa w art. 35 ust. 1 lit. b rozporządzenia nr 1303/2013, na operacje realizowane przez podmioty inne niż LGD, dla zapewnienia spójności operacji z LSR, LGD może określić warunki wyboru operacji, w szczególności odnoszące się do zakresu operacji, miejsca jej realizacji lub podmiotu ubiegającego się o udzielenie wsparcia.  
+  > 2. Warunki, o których mowa w ust. 1, nie mogą być sprzeczne z kryteriami wyboru operacji określonymi w LSR.”;  
 - **2)** w art. 19 w ust. 4 w pkt 2:
     - **a)** lit. a otrzymuje brzmienie: „a) warunki udzielenia wsparcia określone w przepisach regulujących zasady wsparcia z udziałem poszczególnych EFSI lub na podstawie tych przepisów,”,
     - **b)** po lit. a dodaje się lit. aa w brzmieniu: „aa) warunki wyboru operacji, o których mowa w art. 18a ust. 1, jeżeli zostały określone,”;

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szkolenia podstawowego strażników gminnych (miejskich) Na podstawie art. 25 ust. 5 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. Nr 123, poz. 779, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 grudnia 2009 r. w sprawie szkolenia podstawowego strażników gminnych (miejskich) (Dz. U. Nr 220, poz. 1731 oraz z 2011 r. Nr 42, poz. 223) w § 6 w ust. 3 pkt 2 otrzymuje brzmienie: „2) dwóch komendantów straży lub upoważnione przez nich osoby, w szczególności spośród jednostek straży gminnych biorących udział w szkoleniu;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych: J. Cichocki
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 grudnia 2009 r. w sprawie szkolenia podstawowego strażników gminnych (miejskich) (Dz. U. Nr 220, poz. 1731 oraz z 2011 r. Nr 42, poz. 223) w § 6 w ust. 3 pkt 2 otrzymuje brzmienie: „2) dwóch komendantów straży lub upoważnione przez nich osoby, w szczególności spośród jednostek straży gminnych biorących udział w szkoleniu;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych: J. Cichocki
 

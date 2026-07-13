@@ -27,9 +27,11 @@ source: pdf
 
 w sprawie wysokości dopłat do składek z tytułu ubezpieczenia upraw rolnych i zwierząt gospodarskich w 2024 r.
 Na podstawie art. 5 ust. 10 ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. z 2019 r. poz. 477) zarządza się, co następuje:
-§ 1. W 2024 r. dopłata do składki z tytułu ubezpieczenia:
-1) upraw zbóż, kukurydzy, rzepaku, rzepiku, chmielu, tytoniu, warzyw gruntowych, drzew i krzewów owocowych, truskawek, ziemniaków, buraków cukrowych lub roślin strączkowych – wynosi 65% składki do 1 ha uprawy;
-2) bydła, koni, owiec, kóz, drobiu lub świń – wynosi 65% składki do 1 sztuki.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W 2024 r. dopłata do składki z tytułu ubezpieczenia:
+
+- **1)** upraw zbóż, kukurydzy, rzepaku, rzepiku, chmielu, tytoniu, warzyw gruntowych, drzew i krzewów owocowych, truskawek, ziemniaków, buraków cukrowych lub roślin strączkowych – wynosi 65% składki do 1 ha uprawy;
+- **2)** bydła, koni, owiec, kóz, drobiu lub świń – wynosi 65% składki do 1 sztuki.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

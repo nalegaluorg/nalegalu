@@ -26,14 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000835) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/835/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ewidencji zbiorów i usług danych przestrzennych objętych infrastrukturą informacji przestrzennej Na podstawie art. 13 ust. 5 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. poz. 489, z 2012 r. poz. 951 oraz z 2016 r. poz. 1250 i 2003) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 października 2010 r. w sprawie ewidencji zbiorów i usług danych przestrzennych objętych infrastrukturą informacji przestrzennej (Dz. U. poz. 1333) wprowadza się następujące zmiany:
-1) w § 3 w ust. 1 pkt 2 otrzymuje brzmienie: „2) datę otrzymania zgłoszenia przez ministra właściwego do spraw informatyzacji;”;
-2) w § 4 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw informatyzacji zapewnia publiczny dostęp do danych ewidencji za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.”;
-3) w § 5 uchyla się ust. 3;
-4) § 6 otrzymuje brzmienie: „§ 6. Organ administracji przekazuje ministrowi właściwemu do spraw informatyzacji zgłoszenie w formie dokumentu elektronicznego, zgodnego z wzorem, o którym mowa w § 5 ust. 2, za pośrednictwem elektronicznej platformy usług administracji publicznej.”;
-5) w § 8:
-a) ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw informatyzacji niezwłocznie informuje organ administracji, który zgłosił zbiór danych przestrzennych do ewidencji, o nadaniu identyfikatora zbioru danych i jego treści.”,
-b) ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw informatyzacji rozpoznaje zastrzeżenie, o którym mowa w ust. 2, niezwłocznie, nie później niż w ciągu 14 dni od dnia jego otrzymania, oraz przekazuje w tym terminie wnoszącemu zastrzeżenie informację o swoim stanowisku w tej sprawie oraz o ostatecznej treści identyfikatora.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Cyfryzacji: A. Streżyńska
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 października 2010 r. w sprawie ewidencji zbiorów i usług danych przestrzennych objętych infrastrukturą informacji przestrzennej (Dz. U. poz. 1333) wprowadza się następujące zmiany:
+
+- **1)** w § 3 w ust. 1 pkt 2 otrzymuje brzmienie: „2) datę otrzymania zgłoszenia przez ministra właściwego do spraw informatyzacji;”;
+- **2)** w § 4 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw informatyzacji zapewnia publiczny dostęp do danych ewidencji za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.”;
+- **3)** w § 5 uchyla się ust. 3;
+- **4)** § 6 otrzymuje brzmienie: „§ 6. Organ administracji przekazuje ministrowi właściwemu do spraw informatyzacji zgłoszenie w formie dokumentu elektronicznego, zgodnego z wzorem, o którym mowa w § 5 ust. 2, za pośrednictwem elektronicznej platformy usług administracji publicznej.”;
+- **5)** w § 8:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw informatyzacji niezwłocznie informuje organ administracji, który zgłosił zbiór danych przestrzennych do ewidencji, o nadaniu identyfikatora zbioru danych i jego treści.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw informatyzacji rozpoznaje zastrzeżenie, o którym mowa w ust. 2, niezwłocznie, nie później niż w ciągu 14 dni od dnia jego otrzymania, oraz przekazuje w tym terminie wnoszącemu zastrzeżenie informację o swoim stanowisku w tej sprawie oraz o ostatecznej treści identyfikatora.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Cyfryzacji: A. Streżyńska
 

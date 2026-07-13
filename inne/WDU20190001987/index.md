@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001987) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1987/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1 Na podstawie art. 40 ust. 5 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852, 1655 i 1818) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 7 lipca 2016 r. w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1 (Dz. U. poz. 1085) w § 6 pkt 7 otrzymuje brzmienie: „7) datę sporządzenia zapotrzebowania, imię, nazwisko oraz podpis osoby upoważnionej do reprezentowania podmiotu zamawiającego.”.
-§ 2. Do zapotrzebowań, o których mowa w § 6 rozporządzenia zmienianego w § 1, sporządzonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Cieszyński
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 7 lipca 2016 r. w sprawie wydawania zezwoleń na obrót hurtowy środkami odurzającymi, substancjami psychotropowymi lub prekursorami kategorii 1 (Dz. U. poz. 1085) w § 6 pkt 7 otrzymuje brzmienie: „7) datę sporządzenia zapotrzebowania, imię, nazwisko oraz podpis osoby upoważnionej do reprezentowania podmiotu zamawiającego.”.
+
+**§ 2.** Do zapotrzebowań, o których mowa w § 6 rozporządzenia zmienianego w § 1, sporządzonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. J. Cieszyński
 

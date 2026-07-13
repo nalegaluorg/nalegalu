@@ -30,14 +30,20 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 stycznia 2020 r. zmieniającego rozporządzenie w sprawie szkoleń dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych (Dz. U. poz. 142), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 10 listopada 2015 r.
 w sprawie szkoleń dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych Na podstawie art. 11j ust. 19 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2021 r. poz. 869) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór zawiadomienia, którym rzeczoznawca do spraw zabezpieczeń przeciwpożarowych informuje Komendanta Głównego Państwowej Straży Pożarnej o szkoleniach dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych, w których brał udział;
-2) wzór zaświadczenia o ukończeniu szkolenia dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych;
-3) sposób i tryb wnoszenia opłaty za szkolenie dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych.
-§ 2. Wzór zawiadomienia, którym rzeczoznawca do spraw zabezpieczeń przeciwpożarowych informuje Komendanta Głównego Państwowej Straży Pożarnej o szkoleniach dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych, jest określony w załączniku nr 1 do rozporządzenia.
-§ 3. Wzór zaświadczenia o ukończeniu szkolenia dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych jest określony w załączniku nr 2 do rozporządzenia.
-§ 4. Opłatę za szkolenie dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych wnosi się na rachunek bankowy jednostki prowadzącej szkolenie dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych najpóźniej w pierwszym dniu szkolenia.
-§ 5. Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór zawiadomienia, którym rzeczoznawca do spraw zabezpieczeń przeciwpożarowych informuje Komendanta Głównego Państwowej Straży Pożarnej o szkoleniach dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych, w których brał udział;
+- **2)** wzór zaświadczenia o ukończeniu szkolenia dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych;
+- **3)** sposób i tryb wnoszenia opłaty za szkolenie dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych.
+
+**§ 2.** Wzór zawiadomienia, którym rzeczoznawca do spraw zabezpieczeń przeciwpożarowych informuje Komendanta Głównego Państwowej Straży Pożarnej o szkoleniach dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych, jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 3.** Wzór zaświadczenia o ukończeniu szkolenia dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych jest określony w załączniku nr 2 do rozporządzenia.
+
+**§ 4.** Opłatę za szkolenie dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych wnosi się na rachunek bankowy jednostki prowadzącej szkolenie dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych najpóźniej w pierwszym dniu szkolenia.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r.
 
 ## Załącznik nr 1 — WZÓR WZÓR Komendant Główny Państwowej Straży Pożarnej ul. Podchorążych 38 00-463 Warszawa ZAWIADOMIENIE o szkoleniach dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych Działając na podstawie art. 11j ust. 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2021 r. poz. 869), zawiadamiam, że w okresie od dnia ………………… r. do dnia ………………… r. uzyskałem(-łam) 20 punktów z tytułu udziału w wyszczególnionych poniżej szkoleniach dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych: Liczba Lp. Nazwa szkolenia Termin punktów ........................................................
 

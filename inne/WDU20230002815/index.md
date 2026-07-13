@@ -27,14 +27,18 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania Na podstawie art. 11 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
 poz. 615, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 3 w ust. 1:
-a) w pkt 22 po wyrazach „art. 138u ust. 1” dodaje się wyrazy „i art. 138w ust. 1”,
-b) w pkt 24 kropkę zastępuje się przecinkiem i dodaje się pkt 25 w brzmieniu: „25) kary pieniężnej, o której mowa w art. 56a ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760).”;
-2) uchyla się § 5a–5b.
-§ 2. Do kar pieniężnych, o których mowa w art. 138w ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U.
-z 2023 r. poz. 1542, 1598 i 1723) i art. 56a ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760), nieuiszczonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy § 3 ust. 1 pkt 22 i 25 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. W przypadku przejazdów autostradą, które zostały rozpoczęte przed dniem 1 lipca 2023 r., do wykonywania czynności i zadań określonych w § 5a–5b rozporządzenia zmienianego w § 1 stosuje się te przepisy.
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r., z tym że § 1 pkt 2 i § 3 z mocą od dnia 1 lipca 2023 r.
-Minister Finansów: A. Domański
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w § 3 w ust. 1:
+    - **a)** w pkt 22 po wyrazach „art. 138u ust. 1” dodaje się wyrazy „i art. 138w ust. 1”,
+    - **b)** w pkt 24 kropkę zastępuje się przecinkiem i dodaje się pkt 25 w brzmieniu: „25) kary pieniężnej, o której mowa w art. 56a ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760).”;
+
+- **2)** uchyla się § 5a–5b.
+
+**§ 2.** Do kar pieniężnych, o których mowa w art. 138w ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723) i art. 56a ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760), nieuiszczonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy § 3 ust. 1 pkt 22 i 25 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** W przypadku przejazdów autostradą, które zostały rozpoczęte przed dniem 1 lipca 2023 r., do wykonywania czynności i zadań określonych w § 5a–5b rozporządzenia zmienianego w § 1 stosuje się te przepisy.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r., z tym że § 1 pkt 2 i § 3 z mocą od dnia 1 lipca 2023 r. Minister Finansów: A. Domański
 

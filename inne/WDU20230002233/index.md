@@ -27,10 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych Na podstawie art. 15 pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
 z 2023 r. poz. 1980) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2014 r. w sprawie znakowania poszczególnych rodzajów środków spożywczych (Dz. U. z 2015 r. poz. 29, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 15 w ust. 2 pkt 3 otrzymuje brzmienie: „3) nazwę państwa pochodzenia, w którym miód został zebrany, a w przypadku gdy miód pochodzi z więcej niż jednego państwa, nazwy państw pochodzenia, w których miód został zebrany.”;
-2) w § 16 w ust. 1 wyrazy „15 grudnia 2016 r. w sprawie sposobu ustalania weterynaryjnego numeru identyfikacyjnego (Dz. U. poz. 2161)” zastępuje się wyrazami „27 lipca 2022 r. w sprawie sposobu ustalania weterynaryjnego numeru identyfikacyjnego (Dz. U. poz. 1640).”.
-§ 2. Miód w opakowaniach oznakowany dodatkowo zgodnie z § 15 ust. 2 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, wprowadzony do obrotu przed dniem wejścia w życie niniejszego rozporządzenia, może pozostawać w obrocie do wyczerpania zapasów, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: R. Telus
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2014 r. w sprawie znakowania poszczególnych rodzajów środków spożywczych (Dz. U. z 2015 r. poz. 29, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w § 15 w ust. 2 pkt 3 otrzymuje brzmienie: „3) nazwę państwa pochodzenia, w którym miód został zebrany, a w przypadku gdy miód pochodzi z więcej niż jednego państwa, nazwy państw pochodzenia, w których miód został zebrany.”;
+- **2)** w § 16 w ust. 1 wyrazy „15 grudnia 2016 r. w sprawie sposobu ustalania weterynaryjnego numeru identyfikacyjnego (Dz. U. poz. 2161)” zastępuje się wyrazami „27 lipca 2022 r. w sprawie sposobu ustalania weterynaryjnego numeru identyfikacyjnego (Dz. U. poz. 1640).”.
+
+**§ 2.** Miód w opakowaniach oznakowany dodatkowo zgodnie z § 15 ust. 2 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, wprowadzony do obrotu przed dniem wejścia w życie niniejszego rozporządzenia, może pozostawać w obrocie do wyczerpania zapasów, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: R. Telus
 

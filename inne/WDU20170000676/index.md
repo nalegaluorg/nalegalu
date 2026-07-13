@@ -30,158 +30,273 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 3 listopada 2015 r. zmieniającego rozporządzenie w sprawie szczegółowych zasad sporządzania przez jednostki inne niż banki, zakłady ubezpieczeń i zakłady reasekuracji skonsolidowanych sprawozdań finansowych grup kapitałowych (Dz. U. poz. 1957), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rozwoju i Finansów: wz. W. Janczyk
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 25 września 2009 r.
 w sprawie szczegółowych zasad sporządzania przez jednostki inne niż banki, zakłady ubezpieczeń i zakłady reasekuracj i skonsolidowanych sprawozdań finansowych grup kapitałowych Na podstawie art. 81 ust. 2 pkt 3 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61 i 245) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowe zasady sporządzania przez jednostki inne niż banki, zakłady ubezpieczeń i zakłady reasekuracji skonsolidowanych sprawozdań finansowych grup kapitałowych, w tym zakres informacji wykazywanych w tych sprawozdaniach oraz w sprawozdaniach z działalności.
-§ 2. Użyte w rozporządzeniu określenia oznaczają:
-1) ustawa – ustawę z dnia 29 września 1994 r. o rachunkowości;
-2) dzień objęcia kontroli, dzień objęcia współkontroli lub dzień rozpoczęcia wywierania znaczącego wpływu – dzień uzyskania zdolności, o których mowa odpowiednio w art. 3 ust. 1 pkt 34–36 ustawy;
-3) dzień ustania kontroli, dzień ustania współkontroli, dzień ustania wywierania znaczącego wpływu – dzień utraty zdolności, o których mowa odpowiednio w art. 3 ust. 1 pkt 34–36 ustawy;
-4) dzień ograniczenia kontroli, dzień ograniczenia współkontroli, dzień ograniczenia wywierania znaczącego wpływu – dzień ograniczenia zdolności, o których mowa odpowiednio w art. 3 ust. 1 pkt 34–36 ustawy;
-5) aktywa netto – aktywa, o których mowa w art. 3 ust. 1 pkt 29 ustawy, skorygowane o aktywa i zobowiązania podlegające ujawnieniu w wyniku połączenia jednostek, zgodnie z art. 44b ust. 2 ustawy;
-6) udziałowcy uprzywilejowani – udziałowców lub akcjonariuszy posiadających udziały lub akcje uprzywilejowane w zakresie dywidendy.
-§ 3. 1. Jednostka dominująca, mająca siedzibę lub miejsce sprawowania zarządu na terytorium Rzeczypospolitej Polskiej, sporządza skonsolidowane sprawozdanie finansowe, obejmując nim swoje dane oraz dane jednostek podporządkowanych, bez względu na ich siedzibę, z zastrzeżeniem art. 57 i 58 ustawy.
-2. Skonsolidowane sprawozdanie finansowe składa się:
-1) z wprowadzenia do skonsolidowanego sprawozdania finansowego, które wchodzi w skład informacji dodatkowej, obejmującego co najmniej informacje określone w załączniku nr 1 do rozporządzenia;
-2) ze skonsolidowanego bilansu, zawierającego składniki wykazane w kolejności i w sposób określony w załączniku nr 2 do rozporządzenia;
-3) ze skonsolidowanego rachunku zysków i strat, zawierającego przychody i koszty w kolejności i w sposób określony w załączniku nr 3 do rozporządzenia;
-4) ze skonsolidowanego rachunku przepływów pieniężnych, obejmującego informacje w zakresie określonym w załączniku nr 4 do rozporządzenia;
-5) ze skonsolidowanego zestawienia zmian w kapitale (funduszu) własnym, obejmującego informacje o zmianach poszczególnych składników skonsolidowanego kapitału, w zakresie określonym w załączniku nr 5 do rozporządzenia;
-6) z dodatkowych informacji i objaśnień, wchodzących w skład informacji dodatkowej, określonych w załączniku nr 6 do rozporządzenia.
-2a. Do rocznego skonsolidowanego sprawozdania finansowego dołącza się sprawozdanie z działalności sporządzone odpowiednio według zasad, o których mowa w art. 55 ust. 2a ustawy.
-3. W skonsolidowanym sprawozdaniu finansowym wykazuje się dane za rok obrotowy oraz za rok poprzedzający, jeżeli jednostka dominująca była obowiązana, stosownie do przepisów ustawy, do sporządzenia skonsolidowanego sprawozdania finansowego za rok poprzedzający.
-4. W przypadku powstania grupy kapitałowej w ciągu roku lub powstania obowiązku sporządzenia skonsolidowanego sprawozdania finansowego danymi porównawczymi za poprzedzający rok obrotowy są dane jednostki dominującej pochodzące z jej sprawozdania finansowego, a w przypadku gdy jednostka dominująca przed dniem powstania grupy kapitałowej lub powstania obowiązku sporządzenia skonsolidowanego sprawozdania finansowego posiadała udziały w jednostkach zależnych, współzależnych lub stowarzyszonych, to danymi porównawczymi powinny być dane jednostki dominującej wraz z danymi tych jednostek wykazanymi w taki sposób, jakby jednostka dominująca sporządzała skonsolidowane sprawozdanie finansowe za poprzedni rok obrotowy.
-5. Jeżeli w ciągu roku obrotowego istotnie zmienił się skład jednostek podporządkowanych, objętych skonsolidowanym sprawozdaniem finansowym, to we wprowadzeniu do skonsolidowanego sprawozdania finansowego podaje się dane umożliwiające dokonanie oceny tej zmiany, w tym podstawowe wielkości sprawozdań finansowych, nazwy i siedziby jednostek, których objęcia skonsolidowanym sprawozdaniem finansowym zaprzestano, oraz jednostek nieobjętych skonsolidowanym sprawozdaniem finansowym w poprzednim roku obrotowym.
-6. W celu zapewnienia porównywalności danych wykazywanych w skonsolidowanym sprawozdaniu finansowym, zamiast informacji, o których mowa w ust. 5, można sporządzić skorygowany bilans porównawczy oraz skorygowany porównawczy rachunek zysków i strat.
-§ 4. 1. Skonsolidowane sprawozdanie finansowe grupy kapitałowej sporządza się, stosując dla wszystkich objętych nim jednostek zależnych jednakowe metody wyceny aktywów i pasywów oraz jednakowe zasady sporządzania sprawozdań finansowych, zgodne z zasadami (polityką) rachunkowości przyjętymi przez jednostkę dominującą.
-2. Jeżeli z ważnych przyczyn stosowanie przez niektóre jednostki zależne objęte skonsolidowanym sprawozdaniem finansowym jednakowych metod wyceny aktywów i pasywów oraz zasad sporządzania sprawozdań finansowych nie jest możliwe, to można od tego wymogu odstąpić.
-3. W przypadku, o którym mowa w ust. 2, oraz wtedy, gdy inne jednostki podporządkowane objęte skonsolidowanym sprawozdaniem finansowym stosują inne zasady (politykę) rachunkowości niż przyjęte przez jednostkę dominującą, to jednostka dominująca dokonuje odpowiednich przekształceń sprawozdania finansowego jednostki, dostosowując dane do metod i zasad przyjętych przy sporządzaniu skonsolidowanego sprawozdania finansowego; informacje o korektach zamieszcza się w dodatkowych informacjach i objaśnieniach skonsolidowanego sprawozdania finansowego oraz ujawnia się wielkości poszczególnych pozycji sprawozdania finansowego, dla których przyjęto odmienne metody i zasady wyceny.
-4. Można odstąpić od dokonywania przekształceń, o których mowa w ust. 3, jeżeli:
-1) ich dokonanie nie jest możliwe;
-2) takie odstąpienie nie uniemożliwi spełnienia wymagań określonych w art. 4 ust. 1 ustawy.
-Odstąpienie od dokonywania przekształceń uzasadnia się w dodatkowych informacjach i objaśnieniach skonsolidowanego sprawozdania finansowego.
-5. W kolejnych latach obrotowych stosuje się w sposób ciągły jednakowe metody i zasady obejmowania jednostek powiązanych skonsolidowanym sprawozdaniem finansowym. Ewentualne zmiany metod i zasad obejmowania jednostek powiązanych skonsolidowanym sprawozdaniem finansowym, dokonane w celu spełnienia wymagań określonych w art. 4 ust. 1 ustawy, ze skutkiem od pierwszego dnia roku obrotowego, ujawnia się we wprowadzeniu do skonsolidowanego sprawozdania finansowego, podając przyczyny zmian, ich wpływ liczbowy na wynik finansowy oraz zapewniając porównywalność danych za poszczególne okresy sprawozdawcze objęte tym sprawozdaniem finansowym.
-§ 5. 1. Skonsolidowane sprawozdanie finansowe grupy kapitałowej obejmuje sprawozdanie finansowe jednostki dominującej oraz sprawozdania finansowe jednostek podporządkowanych, sporządzone na ten sam dzień bilansowy i za ten sam okres sprawozdawczy.
-2. Dzień bilansowy, na który sporządzane jest sprawozdanie finansowe objętej skonsolidowanym sprawozdaniem finansowym jednostki podporządkowanej, może wyprzedzać dzień bilansowy, na który sporządza się skonsolidowane sprawozdanie finansowe, nie więcej jednak niż o trzy miesiące. Sprawozdanie to obejmuje taką samą liczbę kolejnych miesięcy jak skonsolidowane sprawozdanie finansowe i jest sporządzane za taki sam okres i na taki sam dzień bilansowy w kolejnych latach. W takim przypadku w dodatkowych informacjach i objaśnieniach skonsolidowanego sprawozdania finansowego podaje się istotne zdarzenia dotyczące zmian stanu aktywów, pasywów oraz zysków i strat tej jednostki podporządkowanej, jakie nastąpiły w okresie między dniem bilansowym jednostki podporządkowanej a dniem bilansowym, na który sporządzono skonsolidowane sprawozdanie finansowe.
-3. W przypadkach innych niż określone w ust. 2 jednostki podporządkowane, sporządzające sprawozdania finansowe na inny dzień bilansowy aniżeli przyjęty dla skonsolidowanego sprawozdania finansowego, sporządzają dodatkowo oddzielne sprawozdania finansowe za okres objęty skonsolidowanym sprawozdaniem finansowym.
-§ 6. 1. Jeżeli jednostka dominująca nie sporządza skonsolidowanego sprawozdania finansowego w przypadkach, o których mowa w art. 56–58 ustawy, to fakt ten ujawnia się we wprowadzeniu do sprawozdania finansowego jednostki dominującej.
-2. Jeżeli udziały w jednostce podporządkowanej są przeznaczone do zbycia w okresie jednego roku od dnia ich nabycia, to fakt ten powinien być wiarygodnie uzasadniony. Jeśli te udziały nie zostaną zbyte w ciągu jednego roku od dnia ich nabycia, to do czasu ich zbycia taką jednostkę obejmuje się skonsolidowanym sprawozdaniem finansowym w taki sposób, jakby była ona objęta skonsolidowanym sprawozdaniem finansowym od dnia jej podporządkowania.
-3. Jeżeli występują ograniczenia w sprawowaniu kontroli lub współkontroli nad jednostką podporządkowaną, a zarazem jednostka dominująca nie jest zdolna do wywierania co najmniej znaczącego wpływu, to udział jednostki podporządkowanej wycenia się w skonsolidowanym sprawozdaniu finansowym w kolejnych latach obrotowych w wartości wynikającej z zastosowania metody praw własności na dzień wystąpienia tych ograniczeń, z uwzględnieniem ewentualnego odpisu z tytułu trwałej utraty wartości.
-4. W celu spełnienia wymagań, o których mowa w art. 4 ust. 1 ustawy, dane jednostek zależnych i współzależnych, wobec których w skonsolidowanym sprawozdaniu finansowym stosowana jest odpowiednio metoda konsolidacji pełnej lub metoda proporcjonalna, prowadzących odmienny rodzaj działalności od działalności jednostki dominującej, wykazuje się w skonsolidowanym sprawozdaniu finansowym ze szczegółowością uwzględniającą specyfikę działalności tych jednostek.
-§ 7. Jeżeli jednostka dominująca niższego szczebla sporządza skonsolidowane sprawozdanie finansowe, to jednostka dominująca wyższego szczebla może objąć swoim skonsolidowanym sprawozdaniem finansowym skonsolidowane sprawozdanie finansowe sporządzone przez jednostkę dominującą niższego szczebla. W przypadku gdy jednostka dominująca wyższego szczebla posiada bezpośrednio udziały w jednostce podporządkowanej, objętej skonsolidowanym sprawozdaniem finansowym jednostki dominującej niższego szczebla, to jednostka dominująca wyższego szczebla obejmuje tę jednostkę podporządkowaną skonsolidowanym sprawozdaniem finansowym z zastosowaniem odpowiedniej metody, w zależności od formy podporządkowania tych jednostek.
-§ 8. 1. Jeżeli jednostka dominująca niższego szczebla, stosownie do art. 56 ust. 2 ustawy, nie sporządza skonsolidowanego sprawozdania finansowego, to jednostka dominująca wyższego szczebla obejmuje skonsolidowanym sprawozdaniem finansowym zarówno zależne od niej jednostki, jak i wszystkie jednostki podporządkowane jednostce dominującej niższego szczebla, z zastrzeżeniem art. 56 ust. 4 i 5 ustawy oraz § 7.
-2. Własność jednostki dominującej wyższego szczebla w jednostce zależnej od jednostki dominującej niższego szczebla ustala się jako iloczyn procentu udziałów posiadanych przez jednostkę dominującą wyższego szczebla w jednostce dominującej niższego szczebla oraz procentu udziałów posiadanych przez jednostkę dominującą niższego szczebla w jednostce od niej zależnej. Wielkość tę powiększa się o procent udziałów, jakie jednostka dominująca wyższego szczebla posiada bezpośrednio w jednostce zależnej od jednostki dominującej niższego szczebla, oraz o procent udziałów, jakie jednostka dominująca wyższego szczebla posiada w jednostce zależnej od jednostki dominującej niższego szczebla pośrednio, poprzez udziały posiadane w jednostkach zależnych objętych metodą konsolidacji pełnej.
-3. Jednostka dominująca niższego szczebla niesporządzająca, stosownie do art. 56 ust. 2 ustawy, skonsolidowanego sprawozdania finansowego powinna o tym poinformować we wprowadzeniu do sprawozdania finansowego, podając nazwę i siedzibę jednostki dominującej wyższego szczebla sporządzającej skonsolidowane sprawozdanie finansowe.
-§ 9. 1. Na dzień objęcia kontroli lub współkontroli nad jednostkami, które mają siedziby lub miejsca sprawowania zarządu poza terytorium Rzeczypospolitej Polskiej i podlegają ujęciu w skonsolidowanym sprawozdaniu finansowym odpowiednio metodą konsolidacji pełnej lub metodą proporcjonalną, wszystkie pozycje wyrażonego w walucie obcej sprawozdania finansowego przelicza się na walutę polską według, ogłoszonego dla danej waluty przez Narodowy Bank Polski, kursu średniego na ten dzień, z uwzględnieniem przepisów § 4 ust. 2 i 5.
-2. Na dzień bilansowy wyrażone w walutach obcych sprawozdania finansowe podlegające konsolidacji lub ujęciu w skonsolidowanym sprawozdaniu finansowym metodą proporcjonalną przelicza się na walutę polską według następujących zasad:
-1) poszczególne pozycje aktywów i pasywów bilansu, z wyjątkiem kapitałów własnych, przelicza się według, ogłoszonego dla danej waluty przez Narodowy Bank Polski, kursu średniego na dzień bilansowy;
-2) poszczególne pozycje rachunku zysków i strat przelicza się po kursie z dnia osiągnięcia przychodów, zysków, poniesienia kosztów lub strat; można jednak w celu uproszczenia zastosować do przeliczenia kursy stanowiące średnią arytmetyczną średnich kursów na dzień kończący każdy miesiąc roku obrotowego, a w uzasadnionych przypadkach – kurs będący średnią arytmetyczną średnich kursów na dzień kończący poprzedni rok obrotowy i dzień kończący bieżący rok obrotowy, ogłoszonych dla danej waluty przez Narodowy Bank Polski;
-3) kapitały własne jednostki, przeliczone według ich stanu na dzień objęcia kontroli przez jednostkę dominującą lub współkontroli przez wspólnika jednostki współzależnej obejmowanej skonsolidowanym sprawozdaniem finansowym metodą proporcjonalną, na podstawie kursu średniego ogłoszonego na ten dzień przez Narodowy Bank Polski, wykazuje się w tej wysokości w kolejno sporządzanych skonsolidowanych sprawozdaniach finansowych, z uwzględnieniem przepisu ust. 4; w przypadku emisji dodatkowych udziałów do ich przeliczenia stosuje się średni kurs ogłoszony dla danej waluty przez Narodowy Bank Polski na dzień wpisu do rejestru podwyższenia kapitału.
-3. Kapitały własne, o których mowa w ust. 2 pkt 3, obejmują wykazane odrębnie:
-1) kapitał podstawowy;
-2) pozostałe kapitały własne inne niż te, o których mowa w pkt 1 i 3;
-3) wynik finansowy netto za rok obrotowy, przeliczony zgodnie z ust. 2 pkt 2;
-4) różnice kursowe z przeliczenia, na które składają się w szczególności:
-a) różnice kursowe powstałe przy przeliczeniu na walutę polską kapitału własnego zgodnie z ust. 2 pkt 3, a także różnice powstałe z jego przeliczenia według, ogłoszonego dla danej waluty przez Narodowy Bank Polski, kursu średniego na dzień bilansowy,
-b) różnice kursowe powstałe z przeliczenia na walutę polską wyniku finansowego netto, obliczonego zgodnie z ust. 2 pkt 2, a także różnice powstałe z jego przeliczenia według, ogłoszonego dla danej waluty przez Narodowy Bank Polski, kursu średniego na dzień bilansowy.
-4. Na dzień zbycia całości lub części udziałów jednostki objętej skonsolidowanym sprawozdaniem finansowym lub na dzień zaprzestania obejmowania jej skonsolidowanym sprawozdaniem finansowym różnice kursowe z przeliczenia, o których mowa w ust. 3 pkt 4, związane z tą jednostką, podlegają odpisaniu na skonsolidowany rachunek zysków i strat w proporcji do zbytych udziałów.
-§ 10. Jednostka dominująca obejmuje skonsolidowanym sprawozdaniem finansowym dane jednostek zależnych metodą konsolidacji pełnej, o której mowa w art. 60 ustawy.
-§ 11. 1. Przy stosowaniu metody konsolidacji pełnej sumuje się kwoty poszczególnych pozycji:
-1) bilansów,
-2) rachunków zysków i strat,
-3) rachunków przepływów pieniężnych, w przypadku sporządzania tego rachunku w sposób określony w § 16 ust. 1 pkt 2,
-4) zestawień zmian w kapitale własnym, w przypadku sporządzania tego zestawienia w sposób określony w § 17 pkt 2 – jednostki dominującej i poszczególnych jednostek zależnych, bez względu na udział jednostki dominującej we własności jednostek zależnych.
-2. Jeżeli jednostka dominująca objęła kontrolą jednostkę zależną w ciągu roku obrotowego, to do skonsolidowanego rachunku zysków i strat włącza się w pełnej wysokości wszystkie te, wykazane w rachunku zysków i strat tej jednostki, przychody i koszty, które powstały w okresie następującym od dnia objęcia tej jednostki kontrolą przez jednostkę dominującą do dnia bilansowego. Taka sama zasada dotyczy sporządzania skonsolidowanego rachunku przepływów pieniężnych oraz skonsolidowanego zestawienia zmian w kapitale (funduszu) własnym.
-3. Po dokonaniu sumowań, o których mowa w ust. 1, przeprowadza się korekty i wyłączenia konsolidacyjne, o których mowa w art. 60 ustawy, stosując zasady określone w § 12–17.
-§ 12. 1. Na dzień objęcia kontroli przez jednostkę dominującą nad jednostką zależną ustala się wartość godziwą aktywów netto jednostki zależnej, rozliczając tę wartość proporcjonalnie do udziałów posiadanych przez jednostkę dominującą i inne jednostki grupy kapitałowej, objęte skonsolidowanym sprawozdaniem finansowym, oraz udziałowców mniejszościowych.
-2. Jeżeli skonsolidowanym sprawozdaniem finansowym objętych jest kilka jednostek zależnych, to dotyczącą tych jednostek wartość firmy lub ujemną wartość firmy wykazuje się w skonsolidowanym bilansie bez dokonywania kompensat.
-3. W skonsolidowanym rachunku zysków i strat odpisy wartości firmy lub ujemnej wartości firmy wykazuje się odpowiednio w pozycji „Odpis wartości firmy – jednostki zależne” lub „Opis ujemnej wartości firmy – jednostki zależne”, według zasad określonych w ustawie, począwszy od miesiąca, w którym objęto kontrolę nad jednostką zależną. Jeżeli składnik aktywów „wartość firmy” uległ trwałej utracie wartości, to dokonuje się odpisu tej wartości na skonsolidowany rachunek zysków i strat.
-4. Jeżeli jednostka dominująca nabywa w jednostce zależnej dodatkowe udziały lub na skutek nabycia dodatkowych udziałów jednostka stowarzyszona lub współzależna staje się jednostką zależną, to na dzień nabycia ustala się wartość firmy lub ujemną wartość firmy poprzez porównanie ceny nabycia dodatkowych udziałów i odpowiadającej im wartości aktywów netto wyrażonych w wartości godziwej. Taki sposób postępowania stosuje się do każdej istotnej transakcji nabycia udziałów następującej w dłuższym odstępie czasu.
-5. W dodatkowych informacjach i objaśnieniach skonsolidowanego sprawozdania finansowego należy objaśnić sposób ustalenia wartości firmy lub ujemnej wartości firmy.
-§ 13. 1. Kapitałem podstawowym grupy kapitałowej, wykazywanym w skonsolidowanym kapitale własnym, jest kapitał podstawowy jednostki dominującej.
-2. Kapitał podstawowy jednostek zależnych, w części odpowiadającej udziałowi jednostki dominującej w kapitale podstawowym tych jednostek, jest kompensowany z wartością nabycia udziałów ujętych w bilansie jednostki dominującej na dzień objęcia kontroli; pozostałą część kapitału podstawowego jednostek zależnych zalicza się do kapitałów mniejszości, o których mowa w ust. 4.
-3. Do poszczególnych składników kapitału własnego jednostki dominującej, z wyjątkiem jej kapitału podstawowego, dodaje się część odpowiednich składników kapitału własnego jednostek zależnych, odpowiadającą udziałowi jednostki dominującej we własności jednostek zależnych według stanu na dzień bilansowy. Do kapitału własnego grupy zalicza się tylko te części odpowiednich składników kapitału własnego jednostek zależnych, które powstały od dnia objęcia nad nimi kontroli przez jednostkę dominującą. W szczególności dotyczy to zmiany wysokości kapitału własnego spowodowanej osiągniętymi przez jednostki zależne wynikami finansowymi, aktualizacją wyceny oraz różnicami kursowymi z przeliczenia.
-4. Jeżeli udział w objętej skonsolidowanym sprawozdaniem finansowym jednostce zależnej posiadają także inni udziałowcy niż jednostki grupy kapitałowej objęte skonsolidowanym sprawozdaniem finansowym, to w odrębnych pozycjach, po uwzględnieniu udziału w wyniku finansowym udziałowców uprzywilejowanych, odpowiednio do udziału we własności jednostki zależnej, z uwzględnieniem zasady wyceny określonej w § 12 ust. 1, wykazuje się:
-1) w skonsolidowanym bilansie – kapitały mniejszości;
-2) w skonsolidowanym rachunku zysków i strat – zyski (straty) mniejszości;
-3) w skonsolidowanym rachunku przepływów pieniężnych sporządzonym metodą pośrednią – zyski (straty) mniejszości.
-5. Udziały w jednostce dominującej, posiadane przez tę jednostkę oraz jej jednostki zależne objęte skonsolidowanym sprawozdaniem finansowym, wykazuje się jako składnik aktywów w odrębnej pozycji „Udziały (akcje) własne”.
-§ 14. 1. Przy dokonywaniu wyłączeń, o których mowa w art. 60 ustawy, z tytułu transakcji dokonywanych pomiędzy objętymi konsolidacją jednostkami grupy kapitałowej stosuje się następujące zasady:
-1) środki pieniężne w drodze i dostawy w drodze, dotyczące jednostek grupy kapitałowej objętych skonsolidowanym sprawozdaniem finansowym, wykazuje się jako otrzymane przez jednostki będące ich odbiorcą;
-2) wzajemne należności i zobowiązania wymagające wyłączenia obejmują wszelkie uprzednio uzgodnione rozrachunki między jednostkami grupy kapitałowej, objętymi skonsolidowanym sprawozdaniem finansowym – zarówno dotyczące dostaw i usług, jak i z innych tytułów, w tym także spowodowanych niewniesieniem wkładów, należnościami wekslowymi, zaliczkami i pożyczkami oraz rozrachunkami z tytułu przyznanych dywidend lub innych udziałów w zyskach;
-3) przychody i koszty dotyczące operacji dokonanych między jednostkami grupy kapitałowej, objętymi skonsolidowanym sprawozdaniem finansowym z zastosowaniem metody konsolidacji pełnej, wyłącza się, z zastrzeżeniem pkt 4, bez względu na to, czy zawarte są w nich zyski czy straty;
-4) zawarte w skonsolidowanych aktywach zyski lub straty niezrealizowane przez grupę kapitałową powstałe na skutek dokonania między jednostkami grupy kapitałowej, objętymi skonsolidowanym sprawozdaniem finansowym, sprzedaży składników majątkowych po innych cenach niż ich wartość księgowa netto, wykazana w księgach rachunkowych jednostki sprzedającej, wyłącza się ze skonsolidowanego bilansu, korygując odpowiednio dane rachunku zysków i strat jednostki sprzedającej; w przypadku gdy przedmiotem sprzedaży jest nieruchomość zaliczana do inwestycji, środek trwały lub tytuł wartości niematerialnych i prawnych, w skonsolidowanym sprawozdaniu finansowym dodatkowo koryguje się ich amortyzację w taki sposób, aby była ona obliczona bez uwzględnienia ustalonego na sprzedaży zysku lub straty; jeżeli przedmiotem wyłączenia jest strata, można ją uwzględnić jedynie wtedy, gdy wyłączenie nie spowoduje wykazania aktywów trwałych powyżej ich wartości godziwej, aktywów obrotowych zaś – powyżej ich wartości rynkowej;
-5) w przypadku gdy jednostka dominująca w sprawozdaniu jednostkowym nie stosuje metody praw własności, dywidendy należne jednostce dominującej od jednostki zależnej:
-a) za okres następujący od dnia objęcia kontroli – wyłącza się z jej przychodów finansowych, a włącza do kapitału własnego jednostki wypłacającej dywidendę; korekta kapitału własnego jednostki zależnej nie wpływa na obliczenie wysokości kapitału mniejszości,
-b) za okres przed dniem objęcia kontroli – zmniejszają cenę nabycia udziałów i są uwzględniane przy obliczaniu wartości firmy lub ujemnej wartości firmy.
-2. Można zaniechać wyłączeń, o których mowa w ust. 1 pkt 2, 3 i 4, jeżeli nie narusza to wymagań, o których mowa w art. 4 ust. 1 ustawy, a w szczególności gdy wzajemne transakcje między jednostkami grupy kapitałowej objętymi skonsolidowanym sprawozdaniem finansowym nie są istotne, sprzedaż następuje zaś po cenach nabycia (kosztach wytworzenia) lub po cenach i na warunkach płatności nieodbiegających od ogólnie stosowanych przy tego rodzaju transakcjach.
-§ 15. 1. Do skonsolidowanego rachunku zysków i strat włącza się w pełnej wysokości:
-1) poszczególne pozycje rachunku zysków i strat każdej jednostki zależnej za okres:
-a) od początku roku obrotowego lub od dnia objęcia kontroli,
-b) do końca roku obrotowego lub do dnia ustania kontroli – jeżeli dzień objęcia kontroli lub dzień ustania kontroli nastąpiły w ciągu roku obrotowego;
-2) zysk lub stratę na sprzedaży całości lub części jednostki.
-2. Zysk lub stratę na sprzedaży udziałów jednostki zależnej stanowi dla grupy kapitałowej różnica między przychodem ze zbycia udziałów tej jednostki a odpowiadającą im częścią aktywów netto jednostki zależnej ustaloną na dzień zbycia, skorygowaną o nieodpisaną część wartości firmy lub ujemnej wartości firmy, dotyczącą zbytych udziałów.
-3. Zysk lub stratę, o których mowa w ust. 2, ustala się również przy każdorazowej istotnej transakcji zbycia udziałów.
-4. Jeżeli na skutek sprzedaży części udziałów jednostka przestaje być zależna lub stowarzyszona, stosuje się przepisy ust. 2.
-5. Zysk lub stratę na sprzedaży całości lub części udziałów jednostki zależnej wykazuje się w skonsolidowanym rachunku zysków i strat w pozycji „Zysk (strata) na sprzedaży całości lub części udziałów jednostek podporządkowanych”.
-6. W „Dodatkowych informacjach i objaśnieniach skonsolidowanego sprawozdania finansowego” podaje się:
-1) wartość księgową netto aktywów każdej zbytej lub nabytej jednostki zależnej;
-2) sposób rozliczeń pomiędzy jednostką zbywającą i nabywającą;
-3) odrębnie wynik ze zbycia każdej jednostki zależnej.
-§ 16. 1. Skonsolidowany rachunek przepływów pieniężnych sporządza się:
-1) na podstawie skonsolidowanego bilansu i skonsolidowanego rachunku zysków i strat oraz dodatkowych objaśnień i informacji lub
-2) poprzez sumowanie odpowiednich pozycji rachunków przepływów pieniężnych jednostek objętych metodą konsolidacji pełnej oraz dokonanie korekt konsolidacyjnych tych sum; korekty te polegają na wyłączeniu wszelkich przepływów pieniężnych pomiędzy objętymi konsolidacją jednostką dominującą a jednostkami od niej zależnymi oraz między poszczególnymi jednostkami zależnymi, w szczególności z tytułu:
-a) wypłaconych dywidend,
-b) zapłaty za nabycie udziałów jednostek objętych skonsolidowanym sprawozdaniem finansowym,
-c) przekazania lub spłaty pożyczek, w tym odsetek, oraz w przypadku zastosowania metody pośredniej – dokonanie także wszelkich korekt konsolidacyjnych, które miały wpływ na ustalenie skonsolidowanego wyniku finansowego.
-2. Przy sporządzaniu skonsolidowanego rachunku przepływów pieniężnych metodą pośrednią różnice kursowe powstałe z przeliczenia zmian stanów poszczególnych pozycji bilansowych z dnia bilansowego, poprzedniego i bieżącego roku obrotowego, wykazuje się w pozycji „Inne korekty z działalności operacyjnej” skonsolidowanego rachunku przepływów pieniężnych, a jeśli są istotne, to w odrębnej pozycji, oraz wykazuje się ich wpływ na pozycje całkowitej zmiany środków pieniężnych.
-§ 17. Skonsolidowane zestawienie zmian w kapitale (funduszu) własnym sporządza się:
-1) na podstawie skonsolidowanego bilansu, zestawień zmian w kapitałach własnych oraz dodatkowych objaśnień i informacji lub
-2) poprzez sumowanie odpowiednich pozycji zestawień zmian w kapitale własnym jednostek objętych metodą konsolidacji pełnej oraz dokonanie korekt konsolidacyjnych; korekty te dotyczą w szczególności:
-a) wyłączenia kapitałów wniesionych i wypracowanych w spółkach zależnych do dnia objęcia w nich kontroli,
-b) zbycia i nabycia udziałów przez jednostki objęte konsolidacją,
-c) emisji udziałów i ich objęcia przez jednostki objęte konsolidacją,
-d) umorzenia udziałów przez jednostki objęte konsolidacją, lub
-3) poprzez zaliczenie do poszczególnych pozycji zestawienia zmian w kapitałach własnych jednostki dominującej należnej jej części kapitałów własnych i ich zmian w obejmowanych metodą konsolidacji pełnej jednostkach zależnych w okresie od dnia objęcia kontroli do dnia utraty kontroli.
-§ 18. 1. Metodę proporcjonalną, o której mowa w art. 61 ustawy, stosuje się w skonsolidowanym sprawozdaniu finansowym w odniesieniu do udziałów w jednostkach współzależnych, jeżeli w przyjętych dla grupy kapitałowej zasadach (polityce) rachunkowości metoda proporcjonalna została przyjęta do wyceny jednostki współzależnej.
-2. Zasady dotyczące stosowania metody konsolidacji pełnej, określone w § 9–17, stosuje się odpowiednio do ujęcia w skonsolidowanym sprawozdaniu finansowym udziałów metodą proporcjonalną, z uwzględnieniem art. 61 ustawy.
-§ 19. 1. Ujęcie, wycenę i prezentację metodą praw własności w skonsolidowanym sprawozdaniu finansowym stosuje się w przypadku:
-1) udziałów w jednostkach stowarzyszonych;
-2) udziałów w jednostkach współzależnych, jeżeli w przyjętych dla grupy kapitałowej zasadach (polityce) rachunkowości metoda praw własności została przyjęta do wyceny i prezentacji danych jednostki współzależnej;
-3) okoliczności wymienionych w art. 59 ust. 6 ustawy, z tym że w odniesieniu do każdej jednostki współzależnej może zostać zastosowana, w zależności od przyjętych dla grupy kapitałowej zasad (polityki) rachunkowości, metoda proporcjonalna.
-2. Na dzień rozpoczęcia wywierania znaczącego wpływu przez znaczącego inwestora na jednostkę stowarzyszoną lub na dzień objęcia współkontroli nad jednostką współzależną ustala się wartość godziwą aktywów netto jednostki stowarzyszonej lub współzależnej, z uwzględnieniem objętego na ten dzień przez znaczącego inwestora lub wspólnika jednostki współzależnej udziału w aktywach netto tej jednostki podporządkowanej.
-3. Jeżeli znaczący inwestor lub wspólnik jednostki współzależnej nabywa w jednostce stowarzyszonej lub współzależnej dodatkowe udziały, zaliczane do długoterminowych aktywów finansowych, to na dzień ich nabycia ustala się wartość firmy lub ujemną wartość firmy jako różnicę między ceną nabycia dodatkowych udziałów a odpowiadającą im wartością aktywów netto wyrażonych w wartości godziwej. Postępowanie takie stosuje się w odniesieniu do każdej istotnej transakcji nabycia udziałów, następującej w dłuższym odstępie czasu. Przepisy § 12 ust. 3 stosuje się odpowiednio.
-4. W skonsolidowanym bilansie udział znaczącego inwestora lub wspólnika jednostki współzależnej odpowiednio w jednostce stowarzyszonej lub współzależnej, obliczony w sposób określony w ust. 2, koryguje się o przypadające na rzecz znaczącego inwestora lub wspólnika jednostki współzależnej zwiększenie lub zmniejszenie kapitału własnego tej jednostki podporządkowanej, które nastąpiło w ciągu okresu objętego skonsolidowanym sprawozdaniem finansowym, w tym o należne dywidendy i udziały w wyniku finansowym tej jednostki oraz różnice kursowe z przeliczenia.
-5. Skonsolidowanym sprawozdaniem finansowym obejmuje się dane jednostki stowarzyszonej lub współzależnej także wtedy, gdy wartość udziału posiadanego w tej jednostce, stanowiąca część jej kapitału własnego, jest ujemna lub zerowa, a znaczący inwestor lub wspólnik jednostki współzależnej jest zobowiązany do pokrycia jej strat, wniesienia dopłaty lub podniesienia kapitału. W przeciwnym przypadku udział w jednostce podporządkowanej wykazuje się w wartości zerowej.
-6. W skonsolidowanym rachunku zysków i strat wykazuje się w oddzielnej pozycji wynik netto jednostki stowarzyszonej lub współzależnej w takiej części, jaka odpowiada udziałowi znaczącego inwestora lub wspólnika jednostki współzależnej w wyniku tej jednostki, skorygowanym o odpis wartości firmy lub ujemnej wartości firmy, z uwzględnieniem praw udziałowców uprzywilejowanych.
-7. W przypadku jednostki, której sprawozdanie finansowe wyrażone jest w walucie obcej, przepisy § 9 stosuje się odpowiednio.
-8. Ze skonsolidowanego sprawozdania finansowego wyłącza się niezrealizowane przez jednostkę powiązaną, objętą skonsolidowanym sprawozdaniem finansowym, zyski i straty powstałe w wyniku transakcji dokonanych pomiędzy jednostką stowarzyszoną lub współzależną a pozostałymi jednostkami objętymi skonsolidowanym sprawozdaniem finansowym, proporcjonalnie do posiadanych przez grupę kapitałową udziałów w tej jednostce. Przepisy § 14 ust. 1 pkt 2–4 stosuje się odpowiednio.
-9. Wyłączeń, o których mowa w ust. 8, nie dokonuje się wtedy, gdy odpowiednie dane nie są jednostce sporządzającej skonsolidowane sprawozdanie finansowe znane lub nie mogą być ustalone bez konieczności poniesienia niewspółmiernie wysokich nakładów w czasie umożliwiającym wypełnienie nałożonych przepisami ustawy obowiązków w zakresie skonsolidowanego sprawozdania finansowego.
-§ 20. 1. Dokumentacja konsolidacyjna obejmuje w szczególności:
-1) sprawozdania finansowe jednostek objętych skonsolidowanym sprawozdaniem finansowym;
-2) sprawozdania finansowe jednostek podporządkowanych dostosowane do zasad (polityki) rachunkowości obowiązujących przy konsolidacji;
-3) sprawozdania finansowe jednostek podporządkowanych przeliczane na walutę polską;
-4) wszelkie korekty i wyłączenia dokonywane w celu konsolidacji, niezbędne do sporządzenia skonsolidowanego sprawozdania finansowego;
-5) obliczenia wartości godziwej aktywów netto jednostek podporządkowanych;
-6) obliczenia wartości firmy oraz ujemnej wartości firmy i ich odpisów, w tym z tytułu trwałej utraty wartości;
-7) obliczenia kapitałów mniejszości;
-8) obliczenia różnic kursowych z przeliczenia sprawozdań finansowych jednostek podporządkowanych, wyrażonych w walutach obcych.
-2. Jednostka dominująca obowiązana jest do sporządzania i aktualizacji dokumentacji konsolidacyjnej.
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do wspólnika jednostki współzależnej i znaczącego inwestora.
-§ 21. Rozporządzenie ma zastosowanie po raz pierwszy do skonsolidowanych sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 2010 r.
-§ 22. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2010 r.
 
 #### Rozdział 1 Przepisy ogólne
 
+**§ 1.** Rozporządzenie określa szczegółowe zasady sporządzania przez jednostki inne niż banki, zakłady ubezpieczeń i zakłady reasekuracji skonsolidowanych sprawozdań finansowych grup kapitałowych, w tym zakres informacji wykazywanych w tych sprawozdaniach oraz w sprawozdaniach z działalności.
+
+**§ 2.** Użyte w rozporządzeniu określenia oznaczają:
+
+- **1)** ustawa – ustawę z dnia 29 września 1994 r. o rachunkowości;
+- **2)** dzień objęcia kontroli, dzień objęcia współkontroli lub dzień rozpoczęcia wywierania znaczącego wpływu – dzień uzyskania zdolności, o których mowa odpowiednio w art. 3 ust. 1 pkt 34–36 ustawy;
+- **3)** dzień ustania kontroli, dzień ustania współkontroli, dzień ustania wywierania znaczącego wpływu – dzień utraty zdolności, o których mowa odpowiednio w art. 3 ust. 1 pkt 34–36 ustawy;
+- **4)** dzień ograniczenia kontroli, dzień ograniczenia współkontroli, dzień ograniczenia wywierania znaczącego wpływu – dzień ograniczenia zdolności, o których mowa odpowiednio w art. 3 ust. 1 pkt 34–36 ustawy;
+- **5)** aktywa netto – aktywa, o których mowa w art. 3 ust. 1 pkt 29 ustawy, skorygowane o aktywa i zobowiązania podlegające ujawnieniu w wyniku połączenia jednostek, zgodnie z art. 44b ust. 2 ustawy;
+- **6)** udziałowcy uprzywilejowani – udziałowców lub akcjonariuszy posiadających udziały lub akcje uprzywilejowane w zakresie dywidendy.
+
 #### Rozdział 2 Sporządzanie skonsolidowanego sprawozdania finansowego grupy kapitałowej
+
+**§ 3.**
+
+1. Jednostka dominująca, mająca siedzibę lub miejsce sprawowania zarządu na terytorium Rzeczypospolitej Polskiej, sporządza skonsolidowane sprawozdanie finansowe, obejmując nim swoje dane oraz dane jednostek podporządkowanych, bez względu na ich siedzibę, z zastrzeżeniem art. 57 i 58 ustawy.
+
+2. Skonsolidowane sprawozdanie finansowe składa się:
+
+- **1)** z wprowadzenia do skonsolidowanego sprawozdania finansowego, które wchodzi w skład informacji dodatkowej, obejmującego co najmniej informacje określone w załączniku nr 1 do rozporządzenia;
+- **2)** ze skonsolidowanego bilansu, zawierającego składniki wykazane w kolejności i w sposób określony w załączniku nr 2 do rozporządzenia;
+- **3)** ze skonsolidowanego rachunku zysków i strat, zawierającego przychody i koszty w kolejności i w sposób określony w załączniku nr 3 do rozporządzenia;
+- **4)** ze skonsolidowanego rachunku przepływów pieniężnych, obejmującego informacje w zakresie określonym w załączniku nr 4 do rozporządzenia;
+- **5)** ze skonsolidowanego zestawienia zmian w kapitale (funduszu) własnym, obejmującego informacje o zmianach poszczególnych składników skonsolidowanego kapitału, w zakresie określonym w załączniku nr 5 do rozporządzenia;
+- **6)** z dodatkowych informacji i objaśnień, wchodzących w skład informacji dodatkowej, określonych w załączniku nr 6 do rozporządzenia.
+
+2a. Do rocznego skonsolidowanego sprawozdania finansowego dołącza się sprawozdanie z działalności sporządzone odpowiednio według zasad, o których mowa w art. 55 ust. 2a ustawy.
+
+3. W skonsolidowanym sprawozdaniu finansowym wykazuje się dane za rok obrotowy oraz za rok poprzedzający, jeżeli jednostka dominująca była obowiązana, stosownie do przepisów ustawy, do sporządzenia skonsolidowanego sprawozdania finansowego za rok poprzedzający.
+
+4. W przypadku powstania grupy kapitałowej w ciągu roku lub powstania obowiązku sporządzenia skonsolidowanego sprawozdania finansowego danymi porównawczymi za poprzedzający rok obrotowy są dane jednostki dominującej pochodzące z jej sprawozdania finansowego, a w przypadku gdy jednostka dominująca przed dniem powstania grupy kapitałowej lub powstania obowiązku sporządzenia skonsolidowanego sprawozdania finansowego posiadała udziały w jednostkach zależnych, współzależnych lub stowarzyszonych, to danymi porównawczymi powinny być dane jednostki dominującej wraz z danymi tych jednostek wykazanymi w taki sposób, jakby jednostka dominująca sporządzała skonsolidowane sprawozdanie finansowe za poprzedni rok obrotowy.
+
+5. Jeżeli w ciągu roku obrotowego istotnie zmienił się skład jednostek podporządkowanych, objętych skonsolidowanym sprawozdaniem finansowym, to we wprowadzeniu do skonsolidowanego sprawozdania finansowego podaje się dane umożliwiające dokonanie oceny tej zmiany, w tym podstawowe wielkości sprawozdań finansowych, nazwy i siedziby jednostek, których objęcia skonsolidowanym sprawozdaniem finansowym zaprzestano, oraz jednostek nieobjętych skonsolidowanym sprawozdaniem finansowym w poprzednim roku obrotowym.
+
+6. W celu zapewnienia porównywalności danych wykazywanych w skonsolidowanym sprawozdaniu finansowym, zamiast informacji, o których mowa w ust. 5, można sporządzić skorygowany bilans porównawczy oraz skorygowany porównawczy rachunek zysków i strat.
+
+**§ 4.**
+
+1. Skonsolidowane sprawozdanie finansowe grupy kapitałowej sporządza się, stosując dla wszystkich objętych nim jednostek zależnych jednakowe metody wyceny aktywów i pasywów oraz jednakowe zasady sporządzania sprawozdań finansowych, zgodne z zasadami (polityką) rachunkowości przyjętymi przez jednostkę dominującą.
+
+2. Jeżeli z ważnych przyczyn stosowanie przez niektóre jednostki zależne objęte skonsolidowanym sprawozdaniem finansowym jednakowych metod wyceny aktywów i pasywów oraz zasad sporządzania sprawozdań finansowych nie jest możliwe, to można od tego wymogu odstąpić.
+
+3. W przypadku, o którym mowa w ust. 2, oraz wtedy, gdy inne jednostki podporządkowane objęte skonsolidowanym sprawozdaniem finansowym stosują inne zasady (politykę) rachunkowości niż przyjęte przez jednostkę dominującą, to jednostka dominująca dokonuje odpowiednich przekształceń sprawozdania finansowego jednostki, dostosowując dane do metod i zasad przyjętych przy sporządzaniu skonsolidowanego sprawozdania finansowego; informacje o korektach zamieszcza się w dodatkowych informacjach i objaśnieniach skonsolidowanego sprawozdania finansowego oraz ujawnia się wielkości poszczególnych pozycji sprawozdania finansowego, dla których przyjęto odmienne metody i zasady wyceny.
+
+4. Można odstąpić od dokonywania przekształceń, o których mowa w ust. 3, jeżeli:
+
+- **1)** ich dokonanie nie jest możliwe;
+- **2)** takie odstąpienie nie uniemożliwi spełnienia wymagań określonych w art. 4 ust. 1 ustawy. Odstąpienie od dokonywania przekształceń uzasadnia się w dodatkowych informacjach i objaśnieniach skonsolidowanego sprawozdania finansowego.
+
+5. W kolejnych latach obrotowych stosuje się w sposób ciągły jednakowe metody i zasady obejmowania jednostek powiązanych skonsolidowanym sprawozdaniem finansowym. Ewentualne zmiany metod i zasad obejmowania jednostek powiązanych skonsolidowanym sprawozdaniem finansowym, dokonane w celu spełnienia wymagań określonych w art. 4 ust. 1 ustawy, ze skutkiem od pierwszego dnia roku obrotowego, ujawnia się we wprowadzeniu do skonsolidowanego sprawozdania finansowego, podając przyczyny zmian, ich wpływ liczbowy na wynik finansowy oraz zapewniając porównywalność danych za poszczególne okresy sprawozdawcze objęte tym sprawozdaniem finansowym.
+
+**§ 5.**
+
+1. Skonsolidowane sprawozdanie finansowe grupy kapitałowej obejmuje sprawozdanie finansowe jednostki dominującej oraz sprawozdania finansowe jednostek podporządkowanych, sporządzone na ten sam dzień bilansowy i za ten sam okres sprawozdawczy.
+
+2. Dzień bilansowy, na który sporządzane jest sprawozdanie finansowe objętej skonsolidowanym sprawozdaniem finansowym jednostki podporządkowanej, może wyprzedzać dzień bilansowy, na który sporządza się skonsolidowane sprawozdanie finansowe, nie więcej jednak niż o trzy miesiące. Sprawozdanie to obejmuje taką samą liczbę kolejnych miesięcy jak skonsolidowane sprawozdanie finansowe i jest sporządzane za taki sam okres i na taki sam dzień bilansowy w kolejnych latach. W takim przypadku w dodatkowych informacjach i objaśnieniach skonsolidowanego sprawozdania finansowego podaje się istotne zdarzenia dotyczące zmian stanu aktywów, pasywów oraz zysków i strat tej jednostki podporządkowanej, jakie nastąpiły w okresie między dniem bilansowym jednostki podporządkowanej a dniem bilansowym, na który sporządzono skonsolidowane sprawozdanie finansowe.
+
+3. W przypadkach innych niż określone w ust. 2 jednostki podporządkowane, sporządzające sprawozdania finansowe na inny dzień bilansowy aniżeli przyjęty dla skonsolidowanego sprawozdania finansowego, sporządzają dodatkowo oddzielne sprawozdania finansowe za okres objęty skonsolidowanym sprawozdaniem finansowym.
+
+**§ 6.**
+
+1. Jeżeli jednostka dominująca nie sporządza skonsolidowanego sprawozdania finansowego w przypadkach, o których mowa w art. 56–58 ustawy, to fakt ten ujawnia się we wprowadzeniu do sprawozdania finansowego jednostki dominującej.
+
+2. Jeżeli udziały w jednostce podporządkowanej są przeznaczone do zbycia w okresie jednego roku od dnia ich nabycia, to fakt ten powinien być wiarygodnie uzasadniony. Jeśli te udziały nie zostaną zbyte w ciągu jednego roku od dnia ich nabycia, to do czasu ich zbycia taką jednostkę obejmuje się skonsolidowanym sprawozdaniem finansowym w taki sposób, jakby była ona objęta skonsolidowanym sprawozdaniem finansowym od dnia jej podporządkowania.
+
+3. Jeżeli występują ograniczenia w sprawowaniu kontroli lub współkontroli nad jednostką podporządkowaną, a zarazem jednostka dominująca nie jest zdolna do wywierania co najmniej znaczącego wpływu, to udział jednostki podporządkowanej wycenia się w skonsolidowanym sprawozdaniu finansowym w kolejnych latach obrotowych w wartości wynikającej z zastosowania metody praw własności na dzień wystąpienia tych ograniczeń, z uwzględnieniem ewentualnego odpisu z tytułu trwałej utraty wartości.
+
+4. W celu spełnienia wymagań, o których mowa w art. 4 ust. 1 ustawy, dane jednostek zależnych i współzależnych, wobec których w skonsolidowanym sprawozdaniu finansowym stosowana jest odpowiednio metoda konsolidacji pełnej lub metoda proporcjonalna, prowadzących odmienny rodzaj działalności od działalności jednostki dominującej, wykazuje się w skonsolidowanym sprawozdaniu finansowym ze szczegółowością uwzględniającą specyfikę działalności tych jednostek.
+
+**§ 7.** Jeżeli jednostka dominująca niższego szczebla sporządza skonsolidowane sprawozdanie finansowe, to jednostka dominująca wyższego szczebla może objąć swoim skonsolidowanym sprawozdaniem finansowym skonsolidowane sprawozdanie finansowe sporządzone przez jednostkę dominującą niższego szczebla. W przypadku gdy jednostka dominująca wyższego szczebla posiada bezpośrednio udziały w jednostce podporządkowanej, objętej skonsolidowanym sprawozdaniem finansowym jednostki dominującej niższego szczebla, to jednostka dominująca wyższego szczebla obejmuje tę jednostkę podporządkowaną skonsolidowanym sprawozdaniem finansowym z zastosowaniem odpowiedniej metody, w zależności od formy podporządkowania tych jednostek.
+
+**§ 8.**
+
+1. Jeżeli jednostka dominująca niższego szczebla, stosownie do art. 56 ust. 2 ustawy, nie sporządza skonsolidowanego sprawozdania finansowego, to jednostka dominująca wyższego szczebla obejmuje skonsolidowanym sprawozdaniem finansowym zarówno zależne od niej jednostki, jak i wszystkie jednostki podporządkowane jednostce dominującej niższego szczebla, z zastrzeżeniem art. 56 ust. 4 i 5 ustawy oraz § 7.
+
+2. Własność jednostki dominującej wyższego szczebla w jednostce zależnej od jednostki dominującej niższego szczebla ustala się jako iloczyn procentu udziałów posiadanych przez jednostkę dominującą wyższego szczebla w jednostce dominującej niższego szczebla oraz procentu udziałów posiadanych przez jednostkę dominującą niższego szczebla w jednostce od niej zależnej. Wielkość tę powiększa się o procent udziałów, jakie jednostka dominująca wyższego szczebla posiada bezpośrednio w jednostce zależnej od jednostki dominującej niższego szczebla, oraz o procent udziałów, jakie jednostka dominująca wyższego szczebla posiada w jednostce zależnej od jednostki dominującej niższego szczebla pośrednio, poprzez udziały posiadane w jednostkach zależnych objętych metodą konsolidacji pełnej.
+
+3. Jednostka dominująca niższego szczebla niesporządzająca, stosownie do art. 56 ust. 2 ustawy, skonsolidowanego sprawozdania finansowego powinna o tym poinformować we wprowadzeniu do sprawozdania finansowego, podając nazwę i siedzibę jednostki dominującej wyższego szczebla sporządzającej skonsolidowane sprawozdanie finansowe.
+
+**§ 9.**
+
+1. Na dzień objęcia kontroli lub współkontroli nad jednostkami, które mają siedziby lub miejsca sprawowania zarządu poza terytorium Rzeczypospolitej Polskiej i podlegają ujęciu w skonsolidowanym sprawozdaniu finansowym odpowiednio metodą konsolidacji pełnej lub metodą proporcjonalną, wszystkie pozycje wyrażonego w walucie obcej sprawozdania finansowego przelicza się na walutę polską według, ogłoszonego dla danej waluty przez Narodowy Bank Polski, kursu średniego na ten dzień, z uwzględnieniem przepisów § 4 ust. 2 i 5.
+
+2. Na dzień bilansowy wyrażone w walutach obcych sprawozdania finansowe podlegające konsolidacji lub ujęciu w skonsolidowanym sprawozdaniu finansowym metodą proporcjonalną przelicza się na walutę polską według następujących zasad:
+
+- **1)** poszczególne pozycje aktywów i pasywów bilansu, z wyjątkiem kapitałów własnych, przelicza się według, ogłoszonego dla danej waluty przez Narodowy Bank Polski, kursu średniego na dzień bilansowy;
+- **2)** poszczególne pozycje rachunku zysków i strat przelicza się po kursie z dnia osiągnięcia przychodów, zysków, poniesienia kosztów lub strat; można jednak w celu uproszczenia zastosować do przeliczenia kursy stanowiące średnią arytmetyczną średnich kursów na dzień kończący każdy miesiąc roku obrotowego, a w uzasadnionych przypadkach – kurs będący średnią arytmetyczną średnich kursów na dzień kończący poprzedni rok obrotowy i dzień kończący bieżący rok obrotowy, ogłoszonych dla danej waluty przez Narodowy Bank Polski;
+- **3)** kapitały własne jednostki, przeliczone według ich stanu na dzień objęcia kontroli przez jednostkę dominującą lub współkontroli przez wspólnika jednostki współzależnej obejmowanej skonsolidowanym sprawozdaniem finansowym metodą proporcjonalną, na podstawie kursu średniego ogłoszonego na ten dzień przez Narodowy Bank Polski, wykazuje się w tej wysokości w kolejno sporządzanych skonsolidowanych sprawozdaniach finansowych, z uwzględnieniem przepisu ust. 4; w przypadku emisji dodatkowych udziałów do ich przeliczenia stosuje się średni kurs ogłoszony dla danej waluty przez Narodowy Bank Polski na dzień wpisu do rejestru podwyższenia kapitału.
+
+3. Kapitały własne, o których mowa w ust. 2 pkt 3, obejmują wykazane odrębnie:
+
+- **1)** kapitał podstawowy;
+- **2)** pozostałe kapitały własne inne niż te, o których mowa w pkt 1 i 3;
+- **3)** wynik finansowy netto za rok obrotowy, przeliczony zgodnie z ust. 2 pkt 2;
+- **4)** różnice kursowe z przeliczenia, na które składają się w szczególności:
+    - **a)** różnice kursowe powstałe przy przeliczeniu na walutę polską kapitału własnego zgodnie z ust. 2 pkt 3, a także różnice powstałe z jego przeliczenia według, ogłoszonego dla danej waluty przez Narodowy Bank Polski, kursu średniego na dzień bilansowy,
+    - **b)** różnice kursowe powstałe z przeliczenia na walutę polską wyniku finansowego netto, obliczonego zgodnie z ust. 2 pkt 2, a także różnice powstałe z jego przeliczenia według, ogłoszonego dla danej waluty przez Narodowy Bank Polski, kursu średniego na dzień bilansowy.
+
+4. Na dzień zbycia całości lub części udziałów jednostki objętej skonsolidowanym sprawozdaniem finansowym lub na dzień zaprzestania obejmowania jej skonsolidowanym sprawozdaniem finansowym różnice kursowe z przeliczenia, o których mowa w ust. 3 pkt 4, związane z tą jednostką, podlegają odpisaniu na skonsolidowany rachunek zysków i strat w proporcji do zbytych udziałów.
 
 #### Rozdział 3 Metoda konsolidacji pełnej
 
+**§ 10.** Jednostka dominująca obejmuje skonsolidowanym sprawozdaniem finansowym dane jednostek zależnych metodą konsolidacji pełnej, o której mowa w art. 60 ustawy.
+
+**§ 11.**
+
+1. Przy stosowaniu metody konsolidacji pełnej sumuje się kwoty poszczególnych pozycji:
+
+- **1)** bilansów,
+- **2)** rachunków zysków i strat,
+- **3)** rachunków przepływów pieniężnych, w przypadku sporządzania tego rachunku w sposób określony w § 16 ust. 1 pkt 2,
+- **4)** zestawień zmian w kapitale własnym, w przypadku sporządzania tego zestawienia w sposób określony w § 17 pkt 2 – jednostki dominującej i poszczególnych jednostek zależnych, bez względu na udział jednostki dominującej we własności jednostek zależnych.
+
+2. Jeżeli jednostka dominująca objęła kontrolą jednostkę zależną w ciągu roku obrotowego, to do skonsolidowanego rachunku zysków i strat włącza się w pełnej wysokości wszystkie te, wykazane w rachunku zysków i strat tej jednostki, przychody i koszty, które powstały w okresie następującym od dnia objęcia tej jednostki kontrolą przez jednostkę dominującą do dnia bilansowego. Taka sama zasada dotyczy sporządzania skonsolidowanego rachunku przepływów pieniężnych oraz skonsolidowanego zestawienia zmian w kapitale (funduszu) własnym.
+
+3. Po dokonaniu sumowań, o których mowa w ust. 1, przeprowadza się korekty i wyłączenia konsolidacyjne, o których mowa w art. 60 ustawy, stosując zasady określone w § 12–17.
+
+**§ 12.**
+
+1. Na dzień objęcia kontroli przez jednostkę dominującą nad jednostką zależną ustala się wartość godziwą aktywów netto jednostki zależnej, rozliczając tę wartość proporcjonalnie do udziałów posiadanych przez jednostkę dominującą i inne jednostki grupy kapitałowej, objęte skonsolidowanym sprawozdaniem finansowym, oraz udziałowców mniejszościowych.
+
+2. Jeżeli skonsolidowanym sprawozdaniem finansowym objętych jest kilka jednostek zależnych, to dotyczącą tych jednostek wartość firmy lub ujemną wartość firmy wykazuje się w skonsolidowanym bilansie bez dokonywania kompensat.
+
+3. W skonsolidowanym rachunku zysków i strat odpisy wartości firmy lub ujemnej wartości firmy wykazuje się odpowiednio w pozycji „Odpis wartości firmy – jednostki zależne” lub „Opis ujemnej wartości firmy – jednostki zależne”, według zasad określonych w ustawie, począwszy od miesiąca, w którym objęto kontrolę nad jednostką zależną. Jeżeli składnik aktywów „wartość firmy” uległ trwałej utracie wartości, to dokonuje się odpisu tej wartości na skonsolidowany rachunek zysków i strat.
+
+4. Jeżeli jednostka dominująca nabywa w jednostce zależnej dodatkowe udziały lub na skutek nabycia dodatkowych udziałów jednostka stowarzyszona lub współzależna staje się jednostką zależną, to na dzień nabycia ustala się wartość firmy lub ujemną wartość firmy poprzez porównanie ceny nabycia dodatkowych udziałów i odpowiadającej im wartości aktywów netto wyrażonych w wartości godziwej. Taki sposób postępowania stosuje się do każdej istotnej transakcji nabycia udziałów następującej w dłuższym odstępie czasu.
+
+5. W dodatkowych informacjach i objaśnieniach skonsolidowanego sprawozdania finansowego należy objaśnić sposób ustalenia wartości firmy lub ujemnej wartości firmy.
+
+**§ 13.**
+
+1. Kapitałem podstawowym grupy kapitałowej, wykazywanym w skonsolidowanym kapitale własnym, jest kapitał podstawowy jednostki dominującej.
+
+2. Kapitał podstawowy jednostek zależnych, w części odpowiadającej udziałowi jednostki dominującej w kapitale podstawowym tych jednostek, jest kompensowany z wartością nabycia udziałów ujętych w bilansie jednostki dominującej na dzień objęcia kontroli; pozostałą część kapitału podstawowego jednostek zależnych zalicza się do kapitałów mniejszości, o których mowa w ust. 4.
+
+3. Do poszczególnych składników kapitału własnego jednostki dominującej, z wyjątkiem jej kapitału podstawowego, dodaje się część odpowiednich składników kapitału własnego jednostek zależnych, odpowiadającą udziałowi jednostki dominującej we własności jednostek zależnych według stanu na dzień bilansowy. Do kapitału własnego grupy zalicza się tylko te części odpowiednich składników kapitału własnego jednostek zależnych, które powstały od dnia objęcia nad nimi kontroli przez jednostkę dominującą. W szczególności dotyczy to zmiany wysokości kapitału własnego spowodowanej osiągniętymi przez jednostki zależne wynikami finansowymi, aktualizacją wyceny oraz różnicami kursowymi z przeliczenia.
+
+4. Jeżeli udział w objętej skonsolidowanym sprawozdaniem finansowym jednostce zależnej posiadają także inni udziałowcy niż jednostki grupy kapitałowej objęte skonsolidowanym sprawozdaniem finansowym, to w odrębnych pozycjach, po uwzględnieniu udziału w wyniku finansowym udziałowców uprzywilejowanych, odpowiednio do udziału we własności jednostki zależnej, z uwzględnieniem zasady wyceny określonej w § 12 ust. 1, wykazuje się:
+
+- **1)** w skonsolidowanym bilansie – kapitały mniejszości;
+- **2)** w skonsolidowanym rachunku zysków i strat – zyski (straty) mniejszości;
+- **3)** w skonsolidowanym rachunku przepływów pieniężnych sporządzonym metodą pośrednią – zyski (straty) mniejszości.
+
+5. Udziały w jednostce dominującej, posiadane przez tę jednostkę oraz jej jednostki zależne objęte skonsolidowanym sprawozdaniem finansowym, wykazuje się jako składnik aktywów w odrębnej pozycji „Udziały (akcje) własne”.
+
+**§ 14.**
+
+1. Przy dokonywaniu wyłączeń, o których mowa w art. 60 ustawy, z tytułu transakcji dokonywanych pomiędzy objętymi konsolidacją jednostkami grupy kapitałowej stosuje się następujące zasady:
+
+- **1)** środki pieniężne w drodze i dostawy w drodze, dotyczące jednostek grupy kapitałowej objętych skonsolidowanym sprawozdaniem finansowym, wykazuje się jako otrzymane przez jednostki będące ich odbiorcą;
+- **2)** wzajemne należności i zobowiązania wymagające wyłączenia obejmują wszelkie uprzednio uzgodnione rozrachunki między jednostkami grupy kapitałowej, objętymi skonsolidowanym sprawozdaniem finansowym – zarówno dotyczące dostaw i usług, jak i z innych tytułów, w tym także spowodowanych niewniesieniem wkładów, należnościami wekslowymi, zaliczkami i pożyczkami oraz rozrachunkami z tytułu przyznanych dywidend lub innych udziałów w zyskach;
+- **3)** przychody i koszty dotyczące operacji dokonanych między jednostkami grupy kapitałowej, objętymi skonsolidowanym sprawozdaniem finansowym z zastosowaniem metody konsolidacji pełnej, wyłącza się, z zastrzeżeniem pkt 4, bez względu na to, czy zawarte są w nich zyski czy straty;
+- **4)** zawarte w skonsolidowanych aktywach zyski lub straty niezrealizowane przez grupę kapitałową powstałe na skutek dokonania między jednostkami grupy kapitałowej, objętymi skonsolidowanym sprawozdaniem finansowym, sprzedaży składników majątkowych po innych cenach niż ich wartość księgowa netto, wykazana w księgach rachunkowych jednostki sprzedającej, wyłącza się ze skonsolidowanego bilansu, korygując odpowiednio dane rachunku zysków i strat jednostki sprzedającej; w przypadku gdy przedmiotem sprzedaży jest nieruchomość zaliczana do inwestycji, środek trwały lub tytuł wartości niematerialnych i prawnych, w skonsolidowanym sprawozdaniu finansowym dodatkowo koryguje się ich amortyzację w taki sposób, aby była ona obliczona bez uwzględnienia ustalonego na sprzedaży zysku lub straty; jeżeli przedmiotem wyłączenia jest strata, można ją uwzględnić jedynie wtedy, gdy wyłączenie nie spowoduje wykazania aktywów trwałych powyżej ich wartości godziwej, aktywów obrotowych zaś – powyżej ich wartości rynkowej;
+- **5)** w przypadku gdy jednostka dominująca w sprawozdaniu jednostkowym nie stosuje metody praw własności, dywidendy należne jednostce dominującej od jednostki zależnej:
+    - **a)** za okres następujący od dnia objęcia kontroli – wyłącza się z jej przychodów finansowych, a włącza do kapitału własnego jednostki wypłacającej dywidendę; korekta kapitału własnego jednostki zależnej nie wpływa na obliczenie wysokości kapitału mniejszości,
+    - **b)** za okres przed dniem objęcia kontroli – zmniejszają cenę nabycia udziałów i są uwzględniane przy obliczaniu wartości firmy lub ujemnej wartości firmy.
+
+2. Można zaniechać wyłączeń, o których mowa w ust. 1 pkt 2, 3 i 4, jeżeli nie narusza to wymagań, o których mowa w art. 4 ust. 1 ustawy, a w szczególności gdy wzajemne transakcje między jednostkami grupy kapitałowej objętymi skonsolidowanym sprawozdaniem finansowym nie są istotne, sprzedaż następuje zaś po cenach nabycia (kosztach wytworzenia) lub po cenach i na warunkach płatności nieodbiegających od ogólnie stosowanych przy tego rodzaju transakcjach.
+
+**§ 15.**
+
+1. Do skonsolidowanego rachunku zysków i strat włącza się w pełnej wysokości:
+
+- **1)** poszczególne pozycje rachunku zysków i strat każdej jednostki zależnej za okres:
+    - **a)** od początku roku obrotowego lub od dnia objęcia kontroli,
+    - **b)** do końca roku obrotowego lub do dnia ustania kontroli – jeżeli dzień objęcia kontroli lub dzień ustania kontroli nastąpiły w ciągu roku obrotowego;
+
+- **2)** zysk lub stratę na sprzedaży całości lub części jednostki.
+
+2. Zysk lub stratę na sprzedaży udziałów jednostki zależnej stanowi dla grupy kapitałowej różnica między przychodem ze zbycia udziałów tej jednostki a odpowiadającą im częścią aktywów netto jednostki zależnej ustaloną na dzień zbycia, skorygowaną o nieodpisaną część wartości firmy lub ujemnej wartości firmy, dotyczącą zbytych udziałów.
+
+3. Zysk lub stratę, o których mowa w ust. 2, ustala się również przy każdorazowej istotnej transakcji zbycia udziałów.
+
+4. Jeżeli na skutek sprzedaży części udziałów jednostka przestaje być zależna lub stowarzyszona, stosuje się przepisy ust. 2.
+
+5. Zysk lub stratę na sprzedaży całości lub części udziałów jednostki zależnej wykazuje się w skonsolidowanym rachunku zysków i strat w pozycji „Zysk (strata) na sprzedaży całości lub części udziałów jednostek podporządkowanych”.
+
+6. W „Dodatkowych informacjach i objaśnieniach skonsolidowanego sprawozdania finansowego” podaje się:
+
+- **1)** wartość księgową netto aktywów każdej zbytej lub nabytej jednostki zależnej;
+- **2)** sposób rozliczeń pomiędzy jednostką zbywającą i nabywającą;
+- **3)** odrębnie wynik ze zbycia każdej jednostki zależnej.
+
+**§ 16.**
+
+1. Skonsolidowany rachunek przepływów pieniężnych sporządza się:
+
+- **1)** na podstawie skonsolidowanego bilansu i skonsolidowanego rachunku zysków i strat oraz dodatkowych objaśnień i informacji lub
+- **2)** poprzez sumowanie odpowiednich pozycji rachunków przepływów pieniężnych jednostek objętych metodą konsolidacji pełnej oraz dokonanie korekt konsolidacyjnych tych sum; korekty te polegają na wyłączeniu wszelkich przepływów pieniężnych pomiędzy objętymi konsolidacją jednostką dominującą a jednostkami od niej zależnymi oraz między poszczególnymi jednostkami zależnymi, w szczególności z tytułu:
+    - **a)** wypłaconych dywidend,
+    - **b)** zapłaty za nabycie udziałów jednostek objętych skonsolidowanym sprawozdaniem finansowym,
+    - **c)** przekazania lub spłaty pożyczek, w tym odsetek, oraz w przypadku zastosowania metody pośredniej – dokonanie także wszelkich korekt konsolidacyjnych, które miały wpływ na ustalenie skonsolidowanego wyniku finansowego.
+
+2. Przy sporządzaniu skonsolidowanego rachunku przepływów pieniężnych metodą pośrednią różnice kursowe powstałe z przeliczenia zmian stanów poszczególnych pozycji bilansowych z dnia bilansowego, poprzedniego i bieżącego roku obrotowego, wykazuje się w pozycji „Inne korekty z działalności operacyjnej” skonsolidowanego rachunku przepływów pieniężnych, a jeśli są istotne, to w odrębnej pozycji, oraz wykazuje się ich wpływ na pozycje całkowitej zmiany środków pieniężnych.
+
+**§ 17.** Skonsolidowane zestawienie zmian w kapitale (funduszu) własnym sporządza się:
+
+- **1)** na podstawie skonsolidowanego bilansu, zestawień zmian w kapitałach własnych oraz dodatkowych objaśnień i informacji lub
+- **2)** poprzez sumowanie odpowiednich pozycji zestawień zmian w kapitale własnym jednostek objętych metodą konsolidacji pełnej oraz dokonanie korekt konsolidacyjnych; korekty te dotyczą w szczególności:
+    - **a)** wyłączenia kapitałów wniesionych i wypracowanych w spółkach zależnych do dnia objęcia w nich kontroli,
+    - **b)** zbycia i nabycia udziałów przez jednostki objęte konsolidacją,
+    - **c)** emisji udziałów i ich objęcia przez jednostki objęte konsolidacją,
+    - **d)** umorzenia udziałów przez jednostki objęte konsolidacją, lub
+
+- **3)** poprzez zaliczenie do poszczególnych pozycji zestawienia zmian w kapitałach własnych jednostki dominującej należnej jej części kapitałów własnych i ich zmian w obejmowanych metodą konsolidacji pełnej jednostkach zależnych w okresie od dnia objęcia kontroli do dnia utraty kontroli.
+
 #### Rozdział 4 Metoda proporcjonalna
+
+**§ 18.**
+
+1. Metodę proporcjonalną, o której mowa w art. 61 ustawy, stosuje się w skonsolidowanym sprawozdaniu finansowym w odniesieniu do udziałów w jednostkach współzależnych, jeżeli w przyjętych dla grupy kapitałowej zasadach (polityce) rachunkowości metoda proporcjonalna została przyjęta do wyceny jednostki współzależnej.
+
+2. Zasady dotyczące stosowania metody konsolidacji pełnej, określone w § 9–17, stosuje się odpowiednio do ujęcia w skonsolidowanym sprawozdaniu finansowym udziałów metodą proporcjonalną, z uwzględnieniem art. 61 ustawy.
 
 #### Rozdział 5 Metoda praw własności
 
+**§ 19.**
+
+1. Ujęcie, wycenę i prezentację metodą praw własności w skonsolidowanym sprawozdaniu finansowym stosuje się w przypadku:
+
+- **1)** udziałów w jednostkach stowarzyszonych;
+- **2)** udziałów w jednostkach współzależnych, jeżeli w przyjętych dla grupy kapitałowej zasadach (polityce) rachunkowości metoda praw własności została przyjęta do wyceny i prezentacji danych jednostki współzależnej;
+- **3)** okoliczności wymienionych w art. 59 ust. 6 ustawy, z tym że w odniesieniu do każdej jednostki współzależnej może zostać zastosowana, w zależności od przyjętych dla grupy kapitałowej zasad (polityki) rachunkowości, metoda proporcjonalna.
+
+2. Na dzień rozpoczęcia wywierania znaczącego wpływu przez znaczącego inwestora na jednostkę stowarzyszoną lub na dzień objęcia współkontroli nad jednostką współzależną ustala się wartość godziwą aktywów netto jednostki stowarzyszonej lub współzależnej, z uwzględnieniem objętego na ten dzień przez znaczącego inwestora lub wspólnika jednostki współzależnej udziału w aktywach netto tej jednostki podporządkowanej.
+
+3. Jeżeli znaczący inwestor lub wspólnik jednostki współzależnej nabywa w jednostce stowarzyszonej lub współzależnej dodatkowe udziały, zaliczane do długoterminowych aktywów finansowych, to na dzień ich nabycia ustala się wartość firmy lub ujemną wartość firmy jako różnicę między ceną nabycia dodatkowych udziałów a odpowiadającą im wartością aktywów netto wyrażonych w wartości godziwej. Postępowanie takie stosuje się w odniesieniu do każdej istotnej transakcji nabycia udziałów, następującej w dłuższym odstępie czasu. Przepisy § 12 ust. 3 stosuje się odpowiednio.
+
+4. W skonsolidowanym bilansie udział znaczącego inwestora lub wspólnika jednostki współzależnej odpowiednio w jednostce stowarzyszonej lub współzależnej, obliczony w sposób określony w ust. 2, koryguje się o przypadające na rzecz znaczącego inwestora lub wspólnika jednostki współzależnej zwiększenie lub zmniejszenie kapitału własnego tej jednostki podporządkowanej, które nastąpiło w ciągu okresu objętego skonsolidowanym sprawozdaniem finansowym, w tym o należne dywidendy i udziały w wyniku finansowym tej jednostki oraz różnice kursowe z przeliczenia.
+
+5. Skonsolidowanym sprawozdaniem finansowym obejmuje się dane jednostki stowarzyszonej lub współzależnej także wtedy, gdy wartość udziału posiadanego w tej jednostce, stanowiąca część jej kapitału własnego, jest ujemna lub zerowa, a znaczący inwestor lub wspólnik jednostki współzależnej jest zobowiązany do pokrycia jej strat, wniesienia dopłaty lub podniesienia kapitału. W przeciwnym przypadku udział w jednostce podporządkowanej wykazuje się w wartości zerowej.
+
+6. W skonsolidowanym rachunku zysków i strat wykazuje się w oddzielnej pozycji wynik netto jednostki stowarzyszonej lub współzależnej w takiej części, jaka odpowiada udziałowi znaczącego inwestora lub wspólnika jednostki współzależnej w wyniku tej jednostki, skorygowanym o odpis wartości firmy lub ujemnej wartości firmy, z uwzględnieniem praw udziałowców uprzywilejowanych.
+
+7. W przypadku jednostki, której sprawozdanie finansowe wyrażone jest w walucie obcej, przepisy § 9 stosuje się odpowiednio.
+
+8. Ze skonsolidowanego sprawozdania finansowego wyłącza się niezrealizowane przez jednostkę powiązaną, objętą skonsolidowanym sprawozdaniem finansowym, zyski i straty powstałe w wyniku transakcji dokonanych pomiędzy jednostką stowarzyszoną lub współzależną a pozostałymi jednostkami objętymi skonsolidowanym sprawozdaniem finansowym, proporcjonalnie do posiadanych przez grupę kapitałową udziałów w tej jednostce. Przepisy § 14 ust. 1 pkt 2–4 stosuje się odpowiednio.
+
+9. Wyłączeń, o których mowa w ust. 8, nie dokonuje się wtedy, gdy odpowiednie dane nie są jednostce sporządzającej skonsolidowane sprawozdanie finansowe znane lub nie mogą być ustalone bez konieczności poniesienia niewspółmiernie wysokich nakładów w czasie umożliwiającym wypełnienie nałożonych przepisami ustawy obowiązków w zakresie skonsolidowanego sprawozdania finansowego.
+
 #### Rozdział 6 Dokumentacja konsolidacyjna
 
+**§ 20.**
+
+1. Dokumentacja konsolidacyjna obejmuje w szczególności:
+
+- **1)** sprawozdania finansowe jednostek objętych skonsolidowanym sprawozdaniem finansowym;
+- **2)** sprawozdania finansowe jednostek podporządkowanych dostosowane do zasad (polityki) rachunkowości obowiązujących przy konsolidacji;
+- **3)** sprawozdania finansowe jednostek podporządkowanych przeliczane na walutę polską;
+- **4)** wszelkie korekty i wyłączenia dokonywane w celu konsolidacji, niezbędne do sporządzenia skonsolidowanego sprawozdania finansowego;
+- **5)** obliczenia wartości godziwej aktywów netto jednostek podporządkowanych;
+- **6)** obliczenia wartości firmy oraz ujemnej wartości firmy i ich odpisów, w tym z tytułu trwałej utraty wartości;
+- **7)** obliczenia kapitałów mniejszości;
+- **8)** obliczenia różnic kursowych z przeliczenia sprawozdań finansowych jednostek podporządkowanych, wyrażonych w walutach obcych.
+
+2. Jednostka dominująca obowiązana jest do sporządzania i aktualizacji dokumentacji konsolidacyjnej.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do wspólnika jednostki współzależnej i znaczącego inwestora.
+
 #### Rozdział 7 Przepisy przejściowe i końcowe
+
+**§ 21.** Rozporządzenie ma zastosowanie po raz pierwszy do skonsolidowanych sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 2010 r.
+
+**§ 22.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2010 r.
 
 ## Załącznik nr 1 — „Załącznik nr 1 WPROWADZENIE DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO WPROWADZENIE DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO Wprowadzenie obejmuje w szczególności:
 

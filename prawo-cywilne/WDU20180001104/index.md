@@ -30,7 +30,14 @@ source: pdf
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2018 r. poz. 1025) wprowadza się następujące zmiany:
 
 - **1)** w art. 117 po § 2 dodaje się § 2 w brzmieniu: „§ 2 . Po upływie terminu przedawnienia nie można domagać się zaspokojenia roszczenia przysługującego przeciwko konsumentowi.”;
-- **2)** po art. 117 dodaje się art. 117 w brzmieniu: „Art. 117 . § 1. W wyjątkowych przypadkach sąd może, po rozważeniu interesów stron, nie uwzględnić upływu terminu przedawnienia roszczenia przysługującego przeciwko konsumentowi, jeżeli wymagają tego względy słuszności. § 2. Korzystając z uprawnienia, o którym mowa w § 1, sąd powinien rozważyć w szczególności: 1) długość terminu przedawnienia; 2) długość okresu od upływu terminu przedawnienia do chwili dochodzenia roszczenia; 3) charakter okoliczności, które spowodowały niedochodzenie roszczenia przez uprawnionego, w tym wpływ zachowania zobowiązanego na opóźnienie uprawnionego w dochodzeniu roszczenia.”;
+- **2)** po art. 117 dodaje się art. 117 w brzmieniu:
+
+  > „Art. 117 .  
+  > § 1. W wyjątkowych przypadkach sąd może, po rozważeniu interesów stron, nie uwzględnić upływu terminu przedawnienia roszczenia przysługującego przeciwko konsumentowi, jeżeli wymagają tego względy słuszności.  
+  > § 2. Korzystając z uprawnienia, o którym mowa w § 1, sąd powinien rozważyć w szczególności:  
+  > 1) długość terminu przedawnienia;  
+  > 2) długość okresu od upływu terminu przedawnienia do chwili dochodzenia roszczenia;  
+  > 3) charakter okoliczności, które spowodowały niedochodzenie roszczenia przez uprawnionego, w tym wpływ zachowania zobowiązanego na opóźnienie uprawnionego w dochodzeniu roszczenia.”;  
 - **3)** art. 118 otrzymuje brzmienie: „Art. 118. Jeżeli przepis szczególny nie stanowi inaczej, termin przedawnienia wynosi sześć lat, a dla roszczeń o świadczenia okresowe oraz roszczeń związanych z prowadzeniem działalności gospodarczej – trzy lata. Jednakże koniec terminu przedawnienia przypada na ostatni dzień roku kalendarzowego, chyba że termin przedawnienia jest krótszy niż dwa lata.”;
 - **4)** w art. 125 § 1 otrzymuje brzmienie: „§ 1. Roszczenie stwierdzone prawomocnym orzeczeniem sądu lub innego organu powołanego do rozpoznawania spraw danego rodzaju albo orzeczeniem sądu polubownego, jak również roszczenie stwierdzone ugodą zawartą przed sądem albo sądem polubownym albo ugodą zawartą przed mediatorem i zatwierdzoną przez sąd przedawnia się z upływem sześciu lat. Jeżeli stwierdzone w ten sposób roszczenie obejmuje świadczenia okresowe, roszczenie o świadczenie okresowe należne w przyszłości przedawnia się z upływem trzech lat.”;
 - **5)** w art. 568 § 2 otrzymuje brzmienie: „§ 2. Roszczenie o usunięcie wady lub wymianę rzeczy sprzedanej na wolną od wad przedawnia się z upływem roku, licząc od dnia stwierdzenia wady. Jeżeli kupującym jest konsument, bieg terminu przedawnienia nie może zakończyć się przed upływem terminów określonych w § 1 zdanie pierwsze.”.

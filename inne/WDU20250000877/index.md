@@ -27,8 +27,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000877) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/877/text.pdf) |
 
 zmieniające rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia Na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2025 r. poz. 342) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 13 czerwca 2017 r. w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2023 r. poz. 1771) § 25 otrzymuje brzmienie: „§ 25. 1. Wysokość wynagrodzenia przewodniczącego zespołu egzaminacyjnego, o którym mowa w art. 33 ust. 7 pkt 1 ustawy, wynosi 500 zł za posiedzenie.
-2. Wysokość wynagrodzenia członka zespołu egzaminacyjnego wynosi 300 zł za posiedzenie.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: I. Leszczyna
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 13 czerwca 2017 r. w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2023 r. poz. 1771) § 25 otrzymuje brzmienie:
+
+> „§ 25.  
+> 1. Wysokość wynagrodzenia przewodniczącego zespołu egzaminacyjnego, o którym mowa w art. 33 ust. 7 pkt 1 ustawy, wynosi 500 zł za posiedzenie.  
+> 2. Wysokość wynagrodzenia członka zespołu egzaminacyjnego wynosi 300 zł za posiedzenie.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: I. Leszczyna
 

@@ -68,7 +68,10 @@ source: pdf
     - **b)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Za darowizny, o których mowa w ust. 1 pkt 9 nie uważa się wpłat, o które zmniejsza się podatek zgodnie z art. 27d lub ryczałt od przychodów ewidencjonowanych zgodnie z art. 14a ustawy o zryczałtowanym podatku dochodowym.”,
     - **c)** ust. 7 otrzymuje brzmienie: „7. Wysokość wydatków na cele określone w ust. 1 ustala się na podstawie dokumentów stwierdzających ich poniesienie. Jednakże w przypadku odliczeń, o których mowa w ust. 1 pkt 9, odliczenie stosuje się, jeżeli wysokość darowizny jest udokumentowana dowodem wpłaty na rachunek bankowy obdarowanego, a w przypadku darowizny innej niż pieniężna - dokumentem, z którego wynika wartość tej darowizny, oraz oświadczeniem obdarowanego o jej przyjęciu.”;
 
-- **3)** po art. 27c dodaje się art. 27d w brzmieniu: „Art. 27d. 1. Podatek dochodowy wynikający z zeznania, o którym mowa w art. 45 ust. 1, od dochodów uzyskanych przez podatników, o których mowa w art. 3 ust. 1, zmniejsza się na zasadach określonych w ust. 2-4, jeżeli podatnik w terminie od dnia 1 stycznia roku podatkowego, w którym składane jest zeznanie, do dnia złożenia tego zeznania, nie później jednak niż do dnia upływu terminu określonego dla złożenia zeznania, dokonał wpłaty na rzecz organizacji pożytku publicznego działającej na podstawie ustawy o działalności pożytku publicznego, zwanej dalej „organizacją pożytku publicznego”.
+- **3)** po art. 27c dodaje się art. 27d w brzmieniu:
+
+  > „Art. 27d.  
+  > 1. Podatek dochodowy wynikający z zeznania, o którym mowa w art. 45 ust. 1, od dochodów uzyskanych przez podatników, o których mowa w art. 3 ust. 1, zmniejsza się na zasadach określonych w ust. 2-4, jeżeli podatnik w terminie od dnia 1 stycznia roku podatkowego, w którym składane jest zeznanie, do dnia złożenia tego zeznania, nie później jednak niż do dnia upływu terminu określonego dla złożenia zeznania, dokonał wpłaty na rzecz organizacji pożytku publicznego działającej na podstawie ustawy o działalności pożytku publicznego, zwanej dalej „organizacją pożytku publicznego”.  
 
 2. Zmniejszenie, o którym mowa w ust. 1, nie może przekroczyć kwoty dokonanej wpłaty, jednak nie więcej niż kwoty stanowiącej 1% podatku należnego, wykazanego w zeznaniu, o którym mowa w art. 45 ust. 1.
 
@@ -106,7 +109,12 @@ source: pdf
     - **a)** ust. 1b otrzymuje brzmienie: „1b. Jeżeli przedmiotem darowizny są towary opodatkowane podatkiem od towarów i usług, za kwotę darowizny uważa się wartość towaru uwzględniającą należny podatek od towarów i usług. Przy określaniu wartości tych darowizn stosuje się odpowiednio art. 14.”,
     - **b)** po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Odliczenie, o którym mowa w ust. 1 pkt 1, stosuje się, jeżeli wysokość darowizny jest udokumentowana dowodem wpłaty na rachunek bankowy obdarowanego, a w przypadku darowizny innej niż pieniężna dokumentem, z którego wynika wartość tej darowizny, oraz oświadczeniem obdarowanego o jej przyjęciu.”.
 
-**Art. 10.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz.U. z 2001 r. Nr 101, poz. 1114 oraz z 2002 r. Nr 25, poz. 253 i Nr 56, poz. 517) po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. 1. Jednostki publicznej radiofonii i telewizji stwarzają organizacjom pożytku publicznego, o których mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz.U. Nr 96, poz. 873), możliwość nieodpłatnego informowania o prowadzonej przez te organizacje działalności nieodpłatnej. 2. Przepis ust. 1 nie wyklucza prawa nadawcy do informowania o działalności organizacji pożytku publicznego w szerszym zakresie. 3. Krajowa Rada może określić, w drodze rozporządzenia, tryb postępowania związanego z nieodpłatnym informowaniem o prowadzonej przez organizacje pożytku publicznego działalności nieodpłatnej, uwzględniając potrzeby tych organizacji oraz obowiązki jednostek publicznej radiofonii i telewizji.”.
+**Art. 10.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz.U. z 2001 r. Nr 101, poz. 1114 oraz z 2002 r. Nr 25, poz. 253 i Nr 56, poz. 517) po art. 23 dodaje się art. 23a w brzmieniu:
+
+> „Art. 23a.  
+> 1. Jednostki publicznej radiofonii i telewizji stwarzają organizacjom pożytku publicznego, o których mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz.U. Nr 96, poz. 873), możliwość nieodpłatnego informowania o prowadzonej przez te organizacje działalności nieodpłatnej.  
+> 2. Przepis ust. 1 nie wyklucza prawa nadawcy do informowania o działalności organizacji pożytku publicznego w szerszym zakresie.  
+> 3. Krajowa Rada może określić, w drodze rozporządzenia, tryb postępowania związanego z nieodpłatnym informowaniem o prowadzonej przez organizacje pożytku publicznego działalności nieodpłatnej, uwzględniając potrzeby tych organizacji oraz obowiązki jednostek publicznej radiofonii i telewizji.”.  
 
 **Art. 11.** W ustawie z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz.U. Nr 11, poz. 50, z późn. zm.) w art. 7:
 

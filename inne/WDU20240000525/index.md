@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie współczynników kosztochłonności Na podstawie art. 367 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r.
 poz. 742, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 22 stycznia 2019 r. w sprawie współczynników kosztochłonności (Dz. U. poz. 202 oraz z 2023 r. poz. 777) wprowadza się następujące zmiany:
-1) w załączniku nr 1 do rozporządzenia uchyla się lp. 44;
-2) w załączniku nr 2 do rozporządzenia uchyla się lp. 44.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Nauki: D. Wieczorek
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 22 stycznia 2019 r. w sprawie współczynników kosztochłonności (Dz. U. poz. 202 oraz z 2023 r. poz. 777) wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 1 do rozporządzenia uchyla się lp. 44;
+- **2)** w załączniku nr 2 do rozporządzenia uchyla się lp. 44.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Nauki: D. Wieczorek
 

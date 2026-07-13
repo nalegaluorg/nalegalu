@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie określenia sądów rejonowych prowadzących księgi wieczyste oraz obszarów ich właściwości miejscowej Na podstawie art. 58 pkt 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2019 r.
 poz. 2204) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 25 września 2014 r. w sprawie określenia sądów rejonowych prowadzących księgi wieczyste oraz obszarów ich właściwości miejscowej (Dz. U. z 2016 r. poz. 350 oraz z 2019 r.
-poz. 1928) w § 1 wprowadza się następujące zmiany:
-1) w pkt 18 uchyla się lit. g;
-2) w pkt 31 po lit. a dodaje się lit. aa w brzmieniu: „aa) Sąd Rejonowy w Łukowie – dla obszaru właściwości tego Sądu,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 grudnia 2019 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 25 września 2014 r. w sprawie określenia sądów rejonowych prowadzących księgi wieczyste oraz obszarów ich właściwości miejscowej (Dz. U. z 2016 r. poz. 350 oraz z 2019 r. poz. 1928) w § 1 wprowadza się następujące zmiany:
+
+- **1)** w pkt 18 uchyla się lit. g;
+- **2)** w pkt 31 po lit. a dodaje się lit. aa w brzmieniu: „aa) Sąd Rejonowy w Łukowie – dla obszaru właściwości tego Sądu,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 grudnia 2019 r. Minister Sprawiedliwości: Z. Ziobro
 

@@ -27,70 +27,116 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002468) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2468/text.pdf) |
 
 w sprawie określenia szczegółowych warunków utraty statusu odpadów dla odpadów destruktu asfaltowego Na podstawie art. 14 ust. 1a ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2021 r. poz. 779, 784, 1648 i 2151) zarządza się, co następuje:
-§ 1. Ilekroć w rozporządzeniu jest mowa o:
-1) destrukcie asfaltowym – rozumie się przez to mieszankę mineralno-asfaltową, która w wyniku odzysku odpadów destruktu asfaltowego, po spełnieniu warunków, o których mowa w § 2, utraciła status odpadów destruktu asfaltowego;
-2) odpadach destruktu asfaltowego – rozumie się przez to mieszankę mineralno-asfaltową uzyskiwaną:
-a) w wyniku: – frezowania na zimno warstw asfaltowych, – rozkruszenia płyt wyciętych z nawierzchni asfaltowej lub brył uzyskiwanych z tych płyt,
-b) z odrzutów lub nadwyżek powstałych przy produkcji mieszanki mineralno-asfaltowej – stanowiącą odpady o kodzie 17 03 02, o których mowa w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 14 grudnia 2012 r. o odpadach, zwanej dalej „ustawą”;
-3) posiadaczu odpadów destruktu asfaltowego – rozumie się przez to posiadacza odpadów destruktu asfaltowego dokonującego oceny lub zlecającego dokonanie oceny zgodności z warunkami, o których mowa w § 2, w tym posiadacza odpadów posiadającego zezwolenie na przetwarzanie odpadów, pozwolenie na wytwarzanie odpadów uwzględniające przetwarzanie odpadów albo pozwolenie zintegrowane uwzględniające przetwarzanie odpadów;
-4) próbce – rozumie się przez to próbkę danej partii odpadów destruktu asfaltowego.
-§ 2. 1. Warunki utraty statusu odpadów, o których mowa w art. 14 ust. 1 pkt 1 ustawy, przez odpady destruktu asfaltowego uznaje się za spełnione, jeżeli łącznie:
-1) odpady destruktu asfaltowego:
-a) nie są zanieczyszczone substancjami innymi niż te, które są stosowane w ramach produkcji mieszanek mineralno-asfaltowych, oraz podczas ich stosowania i normalnego użytkowania,
-b) są przetwarzane w procesach odzysku R5 lub R12, wymienionych w załączniku nr 1 do ustawy;
-2) łączna zawartość wielopierścieniowych węglowodorów aromatycznych, w tym zawartość benzo(a)pirenu, w odniesieniu do suchej masy próbki, nie przekracza maksymalnego dopuszczalnego stężenia określonego w tabeli 1 w załączniku nr 1 do rozporządzenia albo w badaniu na obecność wielopierścieniowych węglowodorów aromatycznych metodą uproszczoną określoną w załączniku nr 2 do rozporządzenia otrzymano negatywny wynik – w przypadku odpadów destruktu asfaltowego, dla których istnieją dowody, że powstały z mieszanki mineralno-asfaltowej wykorzystanej do budowy, przebudowy lub remontu dróg i wyprodukowanej po dniu 31 grudnia 2000 r.;
-3) destrukt asfaltowy otrzymany w procesie odzysku spełnia co najmniej wymagania normy PN-EN 13108-8;
-4) odciek próbki nie przekracza maksymalnych dopuszczalnych stężeń określonych w załączniku nr 3 do rozporządzenia;
-5) próbka została pobrana i przebadana zgodnie z § 3;
-6) destrukt asfaltowy otrzymany w procesie odzysku może zostać wykorzystany do budowy, przebudowy lub remontu dróg, w tym utwardzania placów i poboczy, lub infrastruktury lotniskowej, w tym dróg startowych, dróg kołowania, pasów lotniskowych i płyt postojowych.
+
+**§ 1.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** destrukcie asfaltowym – rozumie się przez to mieszankę mineralno-asfaltową, która w wyniku odzysku odpadów destruktu asfaltowego, po spełnieniu warunków, o których mowa w § 2, utraciła status odpadów destruktu asfaltowego;
+- **2)** odpadach destruktu asfaltowego – rozumie się przez to mieszankę mineralno-asfaltową uzyskiwaną:
+    - **a)** w wyniku: – frezowania na zimno warstw asfaltowych, – rozkruszenia płyt wyciętych z nawierzchni asfaltowej lub brył uzyskiwanych z tych płyt,
+    - **b)** z odrzutów lub nadwyżek powstałych przy produkcji mieszanki mineralno-asfaltowej – stanowiącą odpady o kodzie 17 03 02, o których mowa w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 14 grudnia 2012 r. o odpadach, zwanej dalej „ustawą”;
+
+- **3)** posiadaczu odpadów destruktu asfaltowego – rozumie się przez to posiadacza odpadów destruktu asfaltowego dokonującego oceny lub zlecającego dokonanie oceny zgodności z warunkami, o których mowa w § 2, w tym posiadacza odpadów posiadającego zezwolenie na przetwarzanie odpadów, pozwolenie na wytwarzanie odpadów uwzględniające przetwarzanie odpadów albo pozwolenie zintegrowane uwzględniające przetwarzanie odpadów;
+- **4)** próbce – rozumie się przez to próbkę danej partii odpadów destruktu asfaltowego.
+
+**§ 2.**
+
+1. Warunki utraty statusu odpadów, o których mowa w art. 14 ust. 1 pkt 1 ustawy, przez odpady destruktu asfaltowego uznaje się za spełnione, jeżeli łącznie:
+
+- **1)** odpady destruktu asfaltowego:
+    - **a)** nie są zanieczyszczone substancjami innymi niż te, które są stosowane w ramach produkcji mieszanek mineralno-asfaltowych, oraz podczas ich stosowania i normalnego użytkowania,
+    - **b)** są przetwarzane w procesach odzysku R5 lub R12, wymienionych w załączniku nr 1 do ustawy;
+
+- **2)** łączna zawartość wielopierścieniowych węglowodorów aromatycznych, w tym zawartość benzo(a)pirenu, w odniesieniu do suchej masy próbki, nie przekracza maksymalnego dopuszczalnego stężenia określonego w tabeli 1 w załączniku nr 1 do rozporządzenia albo w badaniu na obecność wielopierścieniowych węglowodorów aromatycznych metodą uproszczoną określoną w załączniku nr 2 do rozporządzenia otrzymano negatywny wynik – w przypadku odpadów destruktu asfaltowego, dla których istnieją dowody, że powstały z mieszanki mineralno-asfaltowej wykorzystanej do budowy, przebudowy lub remontu dróg i wyprodukowanej po dniu 31 grudnia 2000 r.;
+- **3)** destrukt asfaltowy otrzymany w procesie odzysku spełnia co najmniej wymagania normy PN-EN 13108-8;
+- **4)** odciek próbki nie przekracza maksymalnych dopuszczalnych stężeń określonych w załączniku nr 3 do rozporządzenia;
+- **5)** próbka została pobrana i przebadana zgodnie z § 3;
+- **6)** destrukt asfaltowy otrzymany w procesie odzysku może zostać wykorzystany do budowy, przebudowy lub remontu dróg, w tym utwardzania placów i poboczy, lub infrastruktury lotniskowej, w tym dróg startowych, dróg kołowania, pasów lotniskowych i płyt postojowych.
+
 2. Przepisu ust. 1 pkt 4 nie stosuje się do:
-1) odpadów destruktu asfaltowego, dla których istnieją dowody, że powstały z mieszanki mineralno-asfaltowej wykorzystanej do budowy, przebudowy lub remontu dróg i wyprodukowanej po dniu 31 grudnia 2000 r., oraz dla których w badaniu na obecność wielopierścieniowych węglowodorów aromatycznych metodą uproszczoną określoną w załączniku nr 2 do rozporządzenia otrzymano negatywny wynik;
-2) odpadów destruktu asfaltowego, o których mowa w § 1 pkt 2 lit. b.
-§ 3. 1. Próbki pobiera się i bada w celu potwierdzenia spełnienia przez odpady destruktu asfaltowego warunków, o których mowa w § 2 ust. 1 pkt 2 i 4.
+
+- **1)** odpadów destruktu asfaltowego, dla których istnieją dowody, że powstały z mieszanki mineralno-asfaltowej wykorzystanej do budowy, przebudowy lub remontu dróg i wyprodukowanej po dniu 31 grudnia 2000 r., oraz dla których w badaniu na obecność wielopierścieniowych węglowodorów aromatycznych metodą uproszczoną określoną w załączniku nr 2 do rozporządzenia otrzymano negatywny wynik;
+- **2)** odpadów destruktu asfaltowego, o których mowa w § 1 pkt 2 lit. b.
+
+**§ 3.**
+
+1. Próbki pobiera się i bada w celu potwierdzenia spełnienia przez odpady destruktu asfaltowego warunków, o których mowa w § 2 ust. 1 pkt 2 i 4.
+
 2. Próbki pobiera oraz bada:
-1) laboratorium posiadające w tym zakresie akredytacje w rozumieniu art. 5 pkt 11 ustawy z dnia 30 sierpnia 2002 r.
-o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344) lub
-2) certyfikowana w tym zakresie jednostka badawcza, o której mowa w art. 16 ust. 1 ustawy z dnia 25 lutego 2011 r.
-o substancjach chemicznych i ich mieszaninach (Dz. U. z 2020 r. poz. 2289 oraz z 2021 r. poz. 2151) – na zlecenie posiadacza odpadów destruktu asfaltowego.
+
+- **1)** laboratorium posiadające w tym zakresie akredytacje w rozumieniu art. 5 pkt 11 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2021 r. poz. 1344) lub
+- **2)** certyfikowana w tym zakresie jednostka badawcza, o której mowa w art. 16 ust. 1 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2020 r. poz. 2289 oraz z 2021 r. poz. 2151) – na zlecenie posiadacza odpadów destruktu asfaltowego.
+
 3. Próbki pobiera się przed:
-1) przystąpieniem do prac remontowo-budowlanych – w przypadku gdy w wyniku tych prac mają powstać odpady destruktu asfaltowego, albo
-2) wykorzystaniem – w przypadku gdy wykorzystane mają być magazynowane odpady destruktu asfaltowego.
+
+- **1)** przystąpieniem do prac remontowo-budowlanych – w przypadku gdy w wyniku tych prac mają powstać odpady destruktu asfaltowego, albo
+- **2)** wykorzystaniem – w przypadku gdy wykorzystane mają być magazynowane odpady destruktu asfaltowego.
+
 4. W przypadku, o którym mowa w ust. 3 pkt 1, próbki pobiera się w formie odwiertów rdzeniowych, tak aby każda warstwa nawierzchni, która ma być usunięta, mogła być przebadana odrębnie.
+
 5. Metoda pobierania próbek powinna spełniać co najmniej wymagania:
-1) normy PN-EN 12697-27 – w przypadku, o którym mowa w ust. 3 pkt 1;
-2) normy PN-EN 14899 lub normy PN-EN 932-1 – w przypadku, o którym mowa w ust. 3 pkt 2.
+
+- **1)** normy PN-EN 12697-27 – w przypadku, o którym mowa w ust. 3 pkt 1;
+- **2)** normy PN-EN 14899 lub normy PN-EN 932-1 – w przypadku, o którym mowa w ust. 3 pkt 2.
+
 6. Minimalną liczbę pobieranych próbek i sposób ich pobierania w przypadku, o którym mowa w ust. 3:
-1) pkt 1 – określa tabela 1,
-2) pkt 2 – określa tabela 2 – w załączniku nr 4 do rozporządzenia.
+
+- **1)** pkt 1 – określa tabela 1,
+- **2)** pkt 2 – określa tabela 2 – w załączniku nr 4 do rozporządzenia.
+
 7. Przy badaniu łącznej zawartości wielopierścieniowych węglowodorów aromatycznych uwzględnia się wielopierścieniowe węglowodory aromatyczne określone w tabeli 2 w załączniku nr 1 do rozporządzenia.
+
 8. Dla odpadów destruktu asfaltowego, dla których istnieją dowody, że powstały z mieszanki mineralno-asfaltowej wykorzystanej do budowy, przebudowy lub remontu dróg i wyprodukowanej po dniu 31 grudnia 2000 r., oraz dla odpadów destruktu asfaltowego, o których mowa w § 1 pkt 2 lit. b, badanie na obecność wielopierścieniowych węglowodorów aromatycznych przeprowadza się metodą uproszczoną określoną w załączniku nr 2 do rozporządzenia.
+
 9. W przypadku, o którym mowa w ust. 8, dopuszcza się, aby pobieranie próbek oraz badanie metodą uproszczoną określoną w załączniku nr 2 do rozporządzenia wykonywał wykwalifikowany personel, który posiada przeszkolenie lub doświadczenie niezbędne do monitorowania i oceny właściwości destruktu asfaltowego.
+
 10. Jeżeli w badaniu, o którym mowa w ust. 8, nie otrzymano negatywnego wyniku, do odpadów destruktu asfaltowego, o których mowa w ust. 8, stosuje się przepisy ust. 2 i 7.
+
 11. Z badania próbek sporządza się protokół.
-§ 4. 1. Posiadacz odpadów destruktu asfaltowego potwierdza spełnienie przez odpady destruktu asfaltowego warunków utraty statusu odpadów, sporządzając odrębnie dla każdej przekazywanej do wykorzystania partii odpadów destruktu asfaltowego oświadczenie o zgodności z warunkami utraty statusu odpadów destruktu asfaltowego, którego wzór określa załącznik nr 5 do rozporządzenia.
+
+**§ 4.**
+
+1. Posiadacz odpadów destruktu asfaltowego potwierdza spełnienie przez odpady destruktu asfaltowego warunków utraty statusu odpadów, sporządzając odrębnie dla każdej przekazywanej do wykorzystania partii odpadów destruktu asfaltowego oświadczenie o zgodności z warunkami utraty statusu odpadów destruktu asfaltowego, którego wzór określa załącznik nr 5 do rozporządzenia.
+
 2. Oświadczenie o zgodności z warunkami utraty statusu odpadów destruktu asfaltowego sporządza się w dwóch jednakowo brzmiących egzemplarzach, po jednym dla posiadacza odpadów destruktu asfaltowego oraz dla podmiotu, który wykorzystuje ten destrukt asfaltowy.
+
 3. Do oświadczenia o zgodności z warunkami utraty statusu odpadów destruktu asfaltowego dołącza się potwierdzone przez posiadacza odpadów destruktu asfaltowego za zgodność z oryginałem kopie:
-1) protokołu, o którym mowa w § 3 ust. 11;
-2) dowodów potwierdzających, że dana partia odpadów destruktu asfaltowego powstała z mieszanki mineralno-asfaltowej wykorzystanej do budowy, przebudowy lub remontu dróg i wytworzonej po dniu 31 grudnia 2000 r. – jeżeli dotyczy.
+
+- **1)** protokołu, o którym mowa w § 3 ust. 11;
+- **2)** dowodów potwierdzających, że dana partia odpadów destruktu asfaltowego powstała z mieszanki mineralno-asfaltowej wykorzystanej do budowy, przebudowy lub remontu dróg i wytworzonej po dniu 31 grudnia 2000 r. – jeżeli dotyczy.
+
 4. Oświadczenie o zgodności z warunkami utraty statusu odpadów destruktu asfaltowego jest przedkładane:
-1) wojewódzkiemu inspektorowi ochrony środowiska właściwemu ze względu na miejsce powstania danej partii destruktu asfaltowego – przez posiadacza odpadów destruktu asfaltowego,
-2) wojewódzkiemu inspektorowi ochrony środowiska właściwemu ze względu na miejsce wykorzystania danej partii destruktu asfaltowego – przez podmiot, który wykorzystuje destrukt asfaltowy – na żądanie, w trakcie prowadzonej kontroli.
+
+- **1)** wojewódzkiemu inspektorowi ochrony środowiska właściwemu ze względu na miejsce powstania danej partii destruktu asfaltowego – przez posiadacza odpadów destruktu asfaltowego,
+- **2)** wojewódzkiemu inspektorowi ochrony środowiska właściwemu ze względu na miejsce wykorzystania danej partii destruktu asfaltowego – przez podmiot, który wykorzystuje destrukt asfaltowy – na żądanie, w trakcie prowadzonej kontroli.
+
 5. Oświadczenie o zgodności z warunkami utraty statusu odpadów destruktu asfaltowego wraz z załącznikami, a w przypadku posiadacza odpadów destruktu asfaltowego także wyniki badań próbek lub protokół, o którym mowa w § 3 ust. 11, przechowuje się przez okres 5 lat.
-§ 5. 1. System gospodarowania prowadzony przez posiadacza odpadów destruktu asfaltowego w celu wykazania zgodności z warunkami utraty statusu odpadów destruktu asfaltowego obejmuje co najmniej zbiór udokumentowanych procedur dotyczących:
-1) monitorowania procesów i technik przetwarzania odpadów destruktu asfaltowego;
-2) monitorowania zgodności destruktu asfaltowego z warunkami, o których mowa w § 2;
-3) planowanego wykorzystania destruktu asfaltowego;
-4) przeglądu i usprawnienia systemu gospodarowania;
-5) szkolenia personelu.
+
+**§ 5.**
+
+1. System gospodarowania prowadzony przez posiadacza odpadów destruktu asfaltowego w celu wykazania zgodności z warunkami utraty statusu odpadów destruktu asfaltowego obejmuje co najmniej zbiór udokumentowanych procedur dotyczących:
+
+- **1)** monitorowania procesów i technik przetwarzania odpadów destruktu asfaltowego;
+- **2)** monitorowania zgodności destruktu asfaltowego z warunkami, o których mowa w § 2;
+- **3)** planowanego wykorzystania destruktu asfaltowego;
+- **4)** przeglądu i usprawnienia systemu gospodarowania;
+- **5)** szkolenia personelu.
+
 2. Posiadacz odpadów destruktu asfaltowego udostępnia na żądanie właściwym organom Inspekcji Ochrony Środowiska w trakcie prowadzenia kontroli dokumentację związaną z systemem gospodarowania.
+
 3. Wymaganie określone w ust. 1 uważa się za spełnione, jeżeli posiadacz odpadów destruktu asfaltowego:
-1) jest zarejestrowany zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1221/2009 z dnia 25 listopada 2009 r. w sprawie dobrowolnego udziału organizacji w systemie ekozarządzania i audytu we Wspólnocie (EMAS), uchylającego rozporządzenie (WE) nr 761/2001 oraz decyzje Komisji 2001/681/WE i 2006/193/WE (Dz. Urz. UE L 342 z 22.12.2009, str. 1, z późn. zm. ) oraz
-2) posiada wdrożony system zarządzania środowiskowego spełniający co najmniej wymagania normy PN-EN ISO 14001 i obejmujący wymagania wskazane w ust. 1.
-§ 6. 1. Próbka danej partii odpadów destruktu asfaltowego pobrana przed dniem wejścia w życie niniejszego rozporządzenia jest badana zgodnie z przepisami tego rozporządzenia.
+
+- **1)** jest zarejestrowany zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1221/2009 z dnia 25 listopada 2009 r. w sprawie dobrowolnego udziału organizacji w systemie ekozarządzania i audytu we Wspólnocie (EMAS), uchylającego rozporządzenie (WE) nr 761/2001 oraz decyzje Komisji 2001/681/WE i 2006/193/WE (Dz. Urz. UE L 342 z 22.12.2009, str. 1, z późn. zm. ) oraz
+- **2)** posiada wdrożony system zarządzania środowiskowego spełniający co najmniej wymagania normy PN-EN ISO 14001 i obejmujący wymagania wskazane w ust. 1.
+
+**§ 6.**
+
+1. Próbka danej partii odpadów destruktu asfaltowego pobrana przed dniem wejścia w życie niniejszego rozporządzenia jest badana zgodnie z przepisami tego rozporządzenia.
+
 2. Badania próbek danej partii odpadów destruktu asfaltowego przeprowadzone przed dniem wejścia w życie niniejszego rozporządzenia zgodnie z przepisami dotychczasowymi zachowują ważność.
+
 3. Oświadczenia o zgodności z warunkami utraty statusu odpadów destruktu asfaltowego sporządzone przed dniem wejścia w życie niniejszego rozporządzenia zgodnie z przepisami dotychczasowymi zachowują ważność.
-§ 7. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem § 5, który wchodzi w życie z dniem 1 stycznia 2023 r.
-Minister Klimatu i Środowiska: A. Moskwa Załączniki do rozporządzenia Ministra Klimatu i Środowiska z dnia 23 grudnia 2021 r. (poz. ...) Załącznik nr 1 OBECNOŚĆ WIELOPIERŚCIENIOWYCH WĘGLOWODORÓW AROMATYCZNYCH OBECNOŚĆ WIELOPIERŚCIENIOWYCH WĘGLOWODORÓW AROMATYCZNYCH W W DESTRUKCIE DESTRUKCIE ASFALTOWYM ASFALTOWYM Tabela 1. Łączna zawartość wielopierścieniowych węglowodorów aromatycznych, w tym zawartość benzo(a)pirenu, w odniesieniu do suchej masy próbki Lp. Łączna zawartość dla Maksymalne Jednostka parametru dopuszczalne stężenie 1 Łączna zawartość mg/kg suchej wielopierścieniowych 100 masy węglowodorów aromatycznych 2 mg/kg suchej Benzo(a)piren (BaP) 50 masy Tabela 2. Wielopierścieniowe węglowodory aromatyczne uwzględniane przy badaniu łącznej zawartości wielopierścieniowych węglowodorów aromatycznych Oznaczenie numeryczne Lp. Nazwa CAS 1 Naftalen 91-20-3 2 Acenaftylen 208-96-8 3 Acenaften 83-32-9 4 Fluoren 86-73-7 5 Fenantren 85-1-8 6 Antracen 120-12-7 7 Fluoranten 206-44-0 8 Piren 129-00-0 9 Benzo(a)antracen (BaA) 56-55-3 10 Chryzen 218-01-9 11 Benzo(b)fluoranten (BpFA) 205-99-2 12 Benzo(k)fluoranten 207-08-9 13 Benzo(a)piren (BaP) 50-32-8 14 Indeno[1,2,3-cd]piren 193-39-5 15 Benzo(g,h,i)perylen 191-24-2 16 Dibenzo(a,h)antracen (DBahA) 53-70-3 Objaśnienie: Oznaczenie numeryczne substancji chemicznej według Chemical Abstracts Service Registry Number (CAS), pozwalające na identyfikację substancji chemicznej.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem § 5, który wchodzi w życie z dniem 1 stycznia 2023 r. Minister Klimatu i Środowiska: A. Moskwa Załączniki do rozporządzenia Ministra Klimatu i Środowiska z dnia 23 grudnia 2021 r. (poz. ...) Załącznik nr 1 OBECNOŚĆ WIELOPIERŚCIENIOWYCH WĘGLOWODORÓW AROMATYCZNYCH OBECNOŚĆ WIELOPIERŚCIENIOWYCH WĘGLOWODORÓW AROMATYCZNYCH W W DESTRUKCIE DESTRUKCIE ASFALTOWYM ASFALTOWYM Tabela 1. Łączna zawartość wielopierścieniowych węglowodorów aromatycznych, w tym zawartość benzo(a)pirenu, w odniesieniu do suchej masy próbki Lp. Łączna zawartość dla Maksymalne Jednostka parametru dopuszczalne stężenie 1 Łączna zawartość mg/kg suchej wielopierścieniowych 100 masy węglowodorów aromatycznych 2 mg/kg suchej Benzo(a)piren (BaP) 50 masy Tabela 2. Wielopierścieniowe węglowodory aromatyczne uwzględniane przy badaniu łącznej zawartości wielopierścieniowych węglowodorów aromatycznych Oznaczenie numeryczne Lp. Nazwa CAS 1 Naftalen 91-20-3 2 Acenaftylen 208-96-8 3 Acenaften 83-32-9 4 Fluoren 86-73-7 5 Fenantren 85-1-8 6 Antracen 120-12-7 7 Fluoranten 206-44-0 8 Piren 129-00-0 9 Benzo(a)antracen (BaA) 56-55-3 10 Chryzen 218-01-9 11 Benzo(b)fluoranten (BpFA) 205-99-2 12 Benzo(k)fluoranten 207-08-9 13 Benzo(a)piren (BaP) 50-32-8 14 Indeno[1,2,3-cd]piren 193-39-5 15 Benzo(g,h,i)perylen 191-24-2 16 Dibenzo(a,h)antracen (DBahA) 53-70-3 Objaśnienie: Oznaczenie numeryczne substancji chemicznej według Chemical Abstracts Service Registry Number (CAS), pozwalające na identyfikację substancji chemicznej.
 
 ## Załącznik nr 2 — METODA UPROSZCZONA BADANIA NA OBECNOŚĆ WIELOPIERŚCIENIOWYCH METODA UPROSZCZONA BADANIA NA OBECNOŚĆ WIELOPIERŚCIENIOWYCH WĘGLOWODORÓW WĘGLOWODORÓW AROMATYCZNYCH AROMATYCZNYCH
 

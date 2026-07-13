@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wprowadzenia stanu klęski żywiołowej na obszarze części województwa dolnośląskiego, opolskiego oraz śląskiego Na podstawie art. 232 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. poz. 483, z 2001 r.
 poz. 319, z 2006 r. poz. 1471 oraz z 2009 r. poz. 946) oraz art. 5 ust. 1 i 2 ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej (Dz. U. z 2017 r. poz. 1897) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 16 września 2024 r. w sprawie wprowadzenia stanu klęski żywiołowej na obszarze części województwa dolnośląskiego, opolskiego oraz śląskiego (Dz. U. poz. 1365 i 1380) wprowadza się następujące zmiany:
-1) w § 1 w ust. 2 po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) w województwie dolnośląskim – powiaty bolesławiecki, jaworski, legnicki i złotoryjski;”;
-2) w § 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) obowiązku stosowania określonych środków zapewniających ochronę środowiska – w zakresie zbierania, transportu lub przetwarzania odpadów pochodzących z obszaru określonego w § 1 ust. 2.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 16 września 2024 r. w sprawie wprowadzenia stanu klęski żywiołowej na obszarze części województwa dolnośląskiego, opolskiego oraz śląskiego (Dz. U. poz. 1365 i 1380) wprowadza się następujące zmiany:
+
+- **1)** w § 1 w ust. 2 po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) w województwie dolnośląskim – powiaty bolesławiecki, jaworski, legnicki i złotoryjski;”;
+- **2)** w § 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) obowiązku stosowania określonych środków zapewniających ochronę środowiska – w zakresie zbierania, transportu lub przetwarzania odpadów pochodzących z obszaru określonego w § 1 ust. 2.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

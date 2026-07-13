@@ -72,7 +72,10 @@ source: pdf
 - **b)** w ust. 4 wyrazy „Prezesa Urzędu Regulacji Telekomunikacji i Poczty” zastępuje się wyrazami „Prezesa Urzędu Komunikacji Elektronicznej”;
 - **9)** art. 47 otrzymuje brzmienie: „Art. 47. Do rozprowadzania programów w sposób bezprzewodowy, który nie wymaga rezerwacji częstotliwości, stosuje się odpowiednio przepisy o udzielaniu koncesji na rozpowszechnianie programów.”.
 
-**Art. 7.** W ustawie z dnia 30 lipca 1997 r. o państwowym przedsiębiorstwie użyteczności publicznej „Poczta Polska” (Dz. U. Nr 106, poz. 675, z późn. zm. ) w art. 27 ust. 2 otrzymuje brzmienie: „2. Dokumenty i opinie, o których mowa w ust. 1 pkt 1 i 2, pkt 3 lit. a)-c) oraz w pkt 4 i 5, Rada Poczty Polskiej przedstawia ministrowi właściwemu do spraw łączności, który zajmuje wobec nich ostateczne stanowisko, a w odniesieniu do dokumentów i opinii, o których mowa w ust. 1 pkt 3 lit. d) - po zasięgnięciu opinii Prezesa Urzędu Komunikacji Elektronicznej.”.
+**Art. 7.** W ustawie z dnia 30 lipca 1997 r. o państwowym przedsiębiorstwie użyteczności publicznej „Poczta Polska” (Dz. U. Nr 106, poz. 675, z późn. zm. ) w art. 27 ust. 2 otrzymuje brzmienie:
+
+> „2. Dokumenty i opinie, o których mowa w ust. 1 pkt 1 i 2, pkt 3 lit. a)-c) oraz w pkt 4 i 5, Rada Poczty Polskiej przedstawia ministrowi właściwemu do spraw łączności, który zajmuje wobec nich ostateczne stanowisko, a w odniesieniu do dokumentów i opinii, o których mowa w ust. 1 pkt 3 lit.  
+> d) - po zasięgnięciu opinii Prezesa Urzędu Komunikacji Elektronicznej.”.  
 
 **Art. 8.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2003 r. Nr 159, poz. 1548, z późn. zm. ) w art. 16 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw łączności sprawuje nadzór nad Prezesem Urzędu Komunikacji Elektronicznej”.
 
@@ -116,7 +119,12 @@ source: pdf
 - **c)** uchyla się ust. 11;
 - **4)** użyte w art. 11 w ust. 1, w art. 12 w ust. 1 i 3, w art. 15 w zdaniu wstępnym, w art. 17 w zdaniu pierwszym, w art. 18, 19 w ust. 1-3, w art. 20 ust. 2, w art. 21 w ust. 1, 3 i 5 w zdaniu wstępnym, w art. 23 w ust. 1, 3, 4 i 6, w art. 24 w ust. 1, 3 w zdaniu wstępnym i w ust. 5 w zdaniu wstępnym oraz w art. 25 w ust. 1 w zdaniu pierwszym i w ust. 2 w różnych przypadkach wyrazy „Prezes URTiP, a w zakresie określonym w art. 10 ust. 3 - Przewodniczący KRRiT,” zastępuje się użytymi w odpowiednim przypadku wyrazami „Prezes UKE”;
 - **5)** uchyla się art. 14;
-- **6)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Prezes UKE ogłasza rozpoczęcie postępowania konsultacyjnego, określając przedmiot i termin postępowania konsultacyjnego i udostępniając projekt rozstrzygnięcia wraz z uzasadnieniem. Prezes UKE informuje o wszczęciu postępowania konsultacyjnego Prezesa Urzędu Ochrony Konkurencji i Konsumentów, zwanego dalej „Prezesem UOKiK”. W sprawach dotyczących rynków transmisji radiofonicznych i telewizyjnych Prezes UKE informuje o wszczęciu postępowania konsultacyjnego również Przewodniczącego Krajowej Rady Radiofonii i Telewizji, zwanego dalej „Przewodniczącym KRRiT”.
+- **6)** art. 16 otrzymuje brzmienie:
+
+  > „Art. 16.  
+  > 1. Prezes UKE ogłasza rozpoczęcie postępowania konsultacyjnego, określając przedmiot i termin postępowania konsultacyjnego i udostępniając projekt rozstrzygnięcia wraz z uzasadnieniem. Prezes UKE informuje o wszczęciu postępowania konsultacyjnego Prezesa Urzędu Ochrony Konkurencji i Konsumentów, zwanego dalej „Prezesem UOKiK”.  
+
+  W sprawach dotyczących rynków transmisji radiofonicznych i telewizyjnych Prezes UKE informuje o wszczęciu postępowania konsultacyjnego również Przewodniczącego Krajowej Rady Radiofonii i Telewizji, zwanego dalej „Przewodniczącym KRRiT”.
 
 2. O ile Prezes UKE nie ustali dłuższego terminu, postępowanie konsultacyjne trwa 30 dni od dnia ogłoszenia rozpoczęcia tego postępowania. Wyniki tego postępowania, a także niezastrzeżone stanowiska uczestników postępowania konsultacyjnego ogłaszane są w siedzibie, w biuletynie i na stronie internetowej UKE.”;
 

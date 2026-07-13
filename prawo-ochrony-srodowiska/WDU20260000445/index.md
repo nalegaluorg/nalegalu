@@ -32,7 +32,10 @@ source: pdf
 - **1)** po art. 21 dodaje się art. 21a w brzmieniu: „Art. 21a. Do zbycia nieruchomości na rzecz Skarbu Państwa w trybie określonym w art. 17–20 niniejszej ustawy lub art. 258a ust. 2 pkt 2 ustawy zmienianej w art. 14 nie stosuje się przepisów art. 3 ust. 1 pkt 1 i 2 oraz art. 11 ust. 1 pkt 1 i ust. 6 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101).”;
 - **2)** w art. 36:
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Maksymalny limit wydatków ze środków rezerwy celowej przeznaczonej na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków, będących skutkiem finansowym wejścia w życie niniejszej ustawy, przeznaczonych na wykup i obsługę przez Państwowe Gospodarstwo Wodne Wody Polskie wykupu nieruchomości, o którym mowa w art. 17–21, na rok 2026 wynosi 31 100 000 zł, w tym na obsługę wykupów 150 000 zł.”,
-    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Minister właściwy do spraw gospodarki wodnej monitoruje wykorzystanie limitów wydatków, o których mowa w ust. 1 i 1a. 3. W przypadku przekroczenia lub zagrożenia przekroczeniem limitów wydatków określonych w ust. 1 i 1a minister właściwy do spraw gospodarki wodnej wdraża mechanizm korygujący, polegający na niepodejmowaniu działań w sprawie kolejnych wykupów, o których mowa w ust. 1 i 1a.”.
+    - **b)** ust. 2 i 3 otrzymują brzmienie:
+
+      > „2. Minister właściwy do spraw gospodarki wodnej monitoruje wykorzystanie limitów wydatków, o których mowa w ust. 1 i 1a.  
+      > 3. W przypadku przekroczenia lub zagrożenia przekroczeniem limitów wydatków określonych w ust. 1 i 1a minister właściwy do spraw gospodarki wodnej wdraża mechanizm korygujący, polegający na niepodejmowaniu działań w sprawie kolejnych wykupów, o których mowa w ust. 1 i 1a.”.  
 
 **Art. 2.** W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535) w art. 569a:
 

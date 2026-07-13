@@ -26,24 +26,27 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/646/text.pdf) |
 
 zmieniające rozporządzenie w sprawie znaków i sygnałów drogowych Na podstawie art. 7 ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 w sprawie znaków i sygnałów drogowych (Dz. U. poz. 1393, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 65 ust. 1 i 2 otrzymują brzmienie: „1. Znaki:
-1) E-15a „numer drogi krajowej o dopuszczalnym nacisku osi pojazdu do 11,5 t”,
-2) E-15b „numer drogi wojewódzkiej o dopuszczalnym nacisku osi pojazdu do 8 t”,
-3) E-15c „numer autostrady”,
-4) E-15d „numer drogi ekspresowej”,
-5) E-15e „numer drogi wojewódzkiej o dopuszczalnym nacisku osi pojazdu do 10 t”,
-6) E-15f „numer drogi krajowej o dopuszczalnym nacisku osi pojazdu do 10 t”,
-7) E-15g „numer drogi krajowej o dopuszczalnym nacisku osi pojazdu do 8 t”,
-8) E-15h „numer drogi wojewódzkiej o dopuszczalnym nacisku osi pojazdu do 11,5 t”,
-9) E-16 „numer szlaku międzynarodowego” wskazują numer i rodzaj (kategorię) drogi.
+
+**§ 1.** W rozporządzeniu Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 w sprawie znaków i sygnałów drogowych (Dz. U. poz. 1393, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w § 65 ust. 1 i 2 otrzymują brzmienie: „1. Znaki: 1) E-15a „numer drogi krajowej o dopuszczalnym nacisku osi pojazdu do 11,5 t”,
+- **2)** E-15b „numer drogi wojewódzkiej o dopuszczalnym nacisku osi pojazdu do 8 t”,
+- **3)** E-15c „numer autostrady”,
+- **4)** E-15d „numer drogi ekspresowej”,
+- **5)** E-15e „numer drogi wojewódzkiej o dopuszczalnym nacisku osi pojazdu do 10 t”,
+- **6)** E-15f „numer drogi krajowej o dopuszczalnym nacisku osi pojazdu do 10 t”,
+- **7)** E-15g „numer drogi krajowej o dopuszczalnym nacisku osi pojazdu do 8 t”,
+- **8)** E-15h „numer drogi wojewódzkiej o dopuszczalnym nacisku osi pojazdu do 11,5 t”,
+- **9)** E-16 „numer szlaku międzynarodowego” wskazują numer i rodzaj (kategorię) drogi.
+
 2. Znaki wymienione w ust. 1 pkt 1–8 oznaczają także, że drogą mogą poruszać się pojazdy o nacisku osi pojedynczej nieprzekraczającym:
-1) 11,5 t – w przypadku znaków: E-15a, E-15c, E-15d oraz E-15h,
-2) 10 t – w przypadku znaków: E-15e oraz E-15f,
-3) 8 t – w przypadku znaków: E-15b oraz E-15g i odpowiednio większym nacisku osi wielokrotnej, zgodnie z przepisami określającymi warunki techniczne pojazdów poruszających się po drogach.”;
-2) w załączniku do rozporządzenia:
-a) w części „ZNAKI DROGOWE PIONOWE” w grupie „Znaki kierunku i miejscowości” po pkt 31b dodaje pkt 31c w brzmieniu: „31c) E-15h „numer drogi wojewódzkiej o dopuszczalnym nacisku osi pojazdu do 11,5 t”,”,
-b) w części „ZNAKI DROGOWE PIONOWE” w grupie „Znaki kierunku i miejscowości” dodaje się rysunek E-15h: E-15h
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury i Budownictwa: A. Adamczyk Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+- **1)** 11,5 t – w przypadku znaków: E-15a, E-15c, E-15d oraz E-15h,
+- **2)** 10 t – w przypadku znaków: E-15e oraz E-15f,
+- **3)** 8 t – w przypadku znaków: E-15b oraz E-15g i odpowiednio większym nacisku osi wielokrotnej, zgodnie z przepisami określającymi warunki techniczne pojazdów poruszających się po drogach.”;
+- **2)** w załączniku do rozporządzenia:
+    - **a)** w części „ZNAKI DROGOWE PIONOWE” w grupie „Znaki kierunku i miejscowości” po pkt 31b dodaje pkt 31c w brzmieniu: „31c) E-15h „numer drogi wojewódzkiej o dopuszczalnym nacisku osi pojazdu do 11,5 t”,”,
+    - **b)** w części „ZNAKI DROGOWE PIONOWE” w grupie „Znaki kierunku i miejscowości” dodaje się rysunek E-15h: E-15h
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Infrastruktury i Budownictwa: A. Adamczyk Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

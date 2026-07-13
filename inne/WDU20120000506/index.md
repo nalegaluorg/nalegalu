@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000506) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/506/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sporządzania projektu planu zadań ochronnych dla obszaru Natura 2000 Na podstawie art. 28 ust. 13 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 17 lutego 2010 r. w sprawie sporządzania projektu planu zadań ochronnych dla obszaru Natura 2000 (Dz. U. Nr 34, poz. 186) w § 3 w pkt 6 lit. a otrzymuje brzmienie: „a) działań ochronnych zapewniających możliwość monitoringu osiągnięcia celów działań ochronnych, a zwłaszcza monitoringu przyjętych parametrów stanu ochrony przedmiotów ochrony, a dla obszaru znajdującego się na terenie gospodarstwa rolnego lub jego części z podziałem na działania: – obligatoryjne, – fakultatywne,”.
-§ 2. Plany zadań ochronnych dla obszaru Natura 2000, ustanowione przed dniem wejścia w życie rozporządzenia, zostaną dostosowane do jego wymogów w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Środowiska: M. Korolec
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 17 lutego 2010 r. w sprawie sporządzania projektu planu zadań ochronnych dla obszaru Natura 2000 (Dz. U. Nr 34, poz. 186) w § 3 w pkt 6 lit. a otrzymuje brzmienie: „a) działań ochronnych zapewniających możliwość monitoringu osiągnięcia celów działań ochronnych, a zwłaszcza monitoringu przyjętych parametrów stanu ochrony przedmiotów ochrony, a dla obszaru znajdującego się na terenie gospodarstwa rolnego lub jego części z podziałem na działania: – obligatoryjne, – fakultatywne,”.
+
+**§ 2.** Plany zadań ochronnych dla obszaru Natura 2000, ustanowione przed dniem wejścia w życie rozporządzenia, zostaną dostosowane do jego wymogów w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Środowiska: M. Korolec
 

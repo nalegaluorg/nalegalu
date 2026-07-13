@@ -26,16 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000059) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/59/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzoru wniosku o wypłatę dodatku osłonowego Na podstawie art. 2 ust. 18 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2023 r. poz. 759 i 2760) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 9 lutego 2022 r. w sprawie wzoru wniosku o wypłatę dodatku osłonowego (Dz. U. poz. 374) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: P. Hennig-Kloska Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U.
-poz. 2726).
-Załącznik do rozporządzenia Ministra Klimatu i Środowiska z dnia 16 stycznia 2024 r. (Dz. U. poz. …) WZÓR WZÓR WNIOSEK WNIOSEK O WYPŁATĘ O WYPŁATĘ DODATKU DODATKU OSŁONOWEGO OSŁONOWEGO Skrócona instrukcja wypełniania:
-1. Należy wypełniać WIELKIMI LITERAMI.
-2. Pola wyboru należy zaznaczać V lub X.
-ORGAN, DO KTÓREGO JEST SKŁADANY WNIOSEK O WYPŁATĘ DODATKU OSŁONOWEGO …………………………………………………………………………………………………………..
-…………………………………………………………………………………………………………..
-Dodatek osłonowy wypłaca wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce zamieszkania osoby fizycznej składającej wniosek o wypłatę dodatku osłonowego.
 1. Dane osoby fizycznej składającej wniosek, zwanej dalej „wnioskodawcą” DANE WNIOSKODAWCY
 01. Imię (imiona) ………………………………………………………………………….………………………………………..
 02. Nazwisko …………………………………………………………………………………….……………………………..
@@ -165,6 +155,10 @@ Zgodnie z art. 2 ust. 14 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym w
 * Niepotrzebne skreślić.
 Oświadczam, że jestem świadoma/świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 ……………………… ………………………… ………………………… (miejscowość) (data: dd-mm-rrrr) (podpis wnioskodawcy)
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 9 lutego 2022 r. w sprawie wzoru wniosku o wypłatę dodatku osłonowego (Dz. U. poz. 374) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: P. Hennig-Kloska Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). Załącznik do rozporządzenia Ministra Klimatu i Środowiska z dnia 16 stycznia 2024 r. (Dz. U. poz. …) WZÓR WZÓR WNIOSEK WNIOSEK O WYPŁATĘ O WYPŁATĘ DODATKU DODATKU OSŁONOWEGO OSŁONOWEGO Skrócona instrukcja wypełniania: 1. Należy wypełniać WIELKIMI LITERAMI. 2. Pola wyboru należy zaznaczać V lub X. ORGAN, DO KTÓREGO JEST SKŁADANY WNIOSEK O WYPŁATĘ DODATKU OSŁONOWEGO ………………………………………………………………………………………………………….. ………………………………………………………………………………………………………….. Dodatek osłonowy wypłaca wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce zamieszkania osoby fizycznej składającej wniosek o wypłatę dodatku osłonowego.
 
 ## CZĘŚĆ I DANE DOTYCZĄCE WNIOSKODAWCY I JEGO GOSPODARSTWA DOMOWEGO
 

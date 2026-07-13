@@ -798,3 +798,39 @@ b) o charakterze systemowym, która trwale obniża lub utrudnia spełnienie wyma
 
 **Art. 55.** Ustawa wchodzi w życie z dniem 1 października 2022 r., z wyjątkiem art. 51 i art. 52, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
 
+## Załącznik
+
+WYKAZ NARUSZEŃ OBOWIĄZKÓW ORAZ WYSOKOŚĆ KAR PIENIĘŻNYCH ZA POSZCZEGÓLNE NARUSZENIA Wysokość kary (w zł) Wykaz naruszeń w odniesieniu do w odniesieniu do nadawcy operatora lotniczego lub podwykonawcy
+1. Nadanie albo akceptacja do transportu drogą 10 000 100 000 powietrzną przesyłki zawierającej materiały niebezpieczne zabronione do transportu drogą powietrzną, o których mowa w Instrukcjach Technicznych
+2. Nadanie albo przyjęcie do transportu drogą 5000 50 000 powietrzną jako ładunku przesyłki zawierającej niezadeklarowane materiały niebezpieczne
+3. Nadanie albo akceptacja do transportu pasażer- 5000 50 000 skim statkiem powietrznym jako ładunku przesyłki zawierającej materiały niebezpieczne przeznaczone wyłącznie do transportu towarowym statkiem powietrznym
+4. Nadanie albo akceptacja do transportu drogą 7000 70 000 powietrzną przesyłki zawierającej materiały niebezpieczne z naruszeniem zasad dotyczących klasyfikacji materiałów niebezpiecznych, o których mowa w Instrukcjach Technicznych
+5. Nadanie albo akceptacja do transportu drogą 4000 40 000 powietrzną przesyłki zawierającej materiały niebezpieczne w ilościach ograniczonych lub w ilościach wyłączonych, z naruszeniem przepisów dotyczących ilości tych materiałów, o których mowa w Instrukcjach Technicznych
+6. Nadanie albo akceptacja do transportu drogą 8000 80 000 powietrzną przesyłki zawierającej materiały niebezpieczne z naruszeniem zasad dotyczących instrukcji pakowania, o których mowa w Instrukcjach Technicznych
+7. Nadanie albo akceptacja do transportu drogą 8000 40 000 powietrzną przesyłki zawierającej materiały niebezpieczne z naruszeniem zasad dotyczących nazewnictwa, oznakowania, wymagań i badań dotyczących opakowań, o których mowa w Instrukcjach Technicznych
+8. Przyjęcie do transportu drogą powietrzną nie dotyczy 30 000 materiałów niebezpiecznych z naruszeniem zasad dotyczących przewozu materiałów niebezpiecznych przez pasażerów i członków załogi statku powietrznego, o których mowa w Instrukcjach Technicznych
+9. Obsługa materiałów niebezpiecznych przez 8000 80 000 osobę, która nie ukończyła z wynikiem pozytywnym właściwego szkolenia, o którym mowa w art. 21 ust. 1 ustawy
+10. Nadanie albo akceptacja do transportu drogą 3000 30 000 powietrzną przesyłki zawierającej materiały niebezpieczne oznakowanej niezgodnie z przepisami dotyczącymi oznakowania, o których mowa w Instrukcjach Technicznych
+11. Nadanie albo akceptacja do transportu drogą 5000 50 000 powietrzną przesyłki zawierającej materiały niebezpieczne nieposiadającej właściwej etykiety, o której mowa w Instrukcjach Technicznych
+12. Nadanie albo akceptacja do transportu drogą 1000 10 000 powietrzną przesyłki zawierającej materiały niebezpieczne nieposiadającej właściwie sporządzonego dokumentu przewozowego, o którym mowa w Instrukcjach Technicznych
+13. Akceptacja przesyłki zawierającej materiały nie dotyczy 80 000 niebezpieczne z naruszeniem procedur akceptacji do transportu drogą powietrzną, o których mowa w Instrukcjach Technicznych
+14. Obsługa przesyłek zawierających materiały nie dotyczy 60 000 niebezpieczne z naruszeniem procedur separowania niekompatybilnych materiałów niebezpiecznych, o których mowa w Instrukcjach Technicznych
+15. Obsługa przesyłek zawierających substancje nie dotyczy 60 000 i artykuły wybuchowe z naruszeniem procedur ich separowania, o których mowa w Instrukcjach Technicznych
+16. Obsługa przesyłek zawierających materiały nie dotyczy 30 000 niebezpieczne z naruszeniem innych niż wymienione w pkt 14 i 15 procedur przechowywania i załadunku, o których mowa w Instrukcjach Technicznych
+17. Obsługa przesyłek zawierających materiały nie dotyczy 50 000 niebezpieczne z naruszeniem procedur kontroli uszkodzeń i odkażania, o których mowa w Instrukcjach Technicznych
+18. Transport drogą powietrzną przesyłek zawiera- nie dotyczy 40 000 jących materiały niebezpieczne z naruszeniem procedur dostarczania informacji dla dowódcy statku powietrznego, o których mowa w Instrukcjach Technicznych
+19. Niezgłoszenie wbrew art. 29 ustawy wypadku nie dotyczy 70 000 lub incydentu
+20. Niezgłoszenie wbrew art. 29 ustawy zdarzenia nie dotyczy 35 000
+21. Niedotrzymanie określonego w art. 30 ustawy nie dotyczy 700 terminu zgłoszenia wypadku, incydentu lub zdarzenia
+22. Obsługa przesyłek zawierających materiały nie dotyczy 20 000 niebezpieczne z naruszeniem procedur dotyczących przekazywania informacji personelowi operatora lub podwykonawcy, o których mowa w Instrukcjach Technicznych
+23. Obsługa przesyłek zawierających materiały 2000 20 000 niebezpieczne z naruszeniem procedur dotyczących przechowywania dokumentacji, o których mowa w Instrukcjach Technicznych
+24. Nadanie albo akceptacja przesyłek zawierają- 10 000 20 000 cych materiały niebezpieczne wysokiego ryzyka bez opracowanego i wdrożonego planu ochrony materiałów niebezpiecznych wysokiego ryzyka, o którym mowa w art. 33 ust. 1 ustawy Wysokość kary (w zł) w odniesieniu do podWykaz naruszeń w odniesieniu do miotu, na rzecz którego instruktora instruktor prowadzi szkolenie
+25. Prowadzenie szkoleń z zakresu bezpiecznego 20 000 50 000 transportu materiałów niebezpiecznych drogą powietrzną bez uprzedniego uzyskania zatwierdzenia udzielonego przez Prezesa Urzędu zgodnie z art. 22 ust. 1 ustawy
+26. Prowadzenie szkoleń z zakresu bezpiecznego 10 000 nie dotyczy transportu materiałów niebezpiecznych drogą powietrzną przez zatwierdzonego instruktora niezgodnie z przedłożonym Prezesowi Urzędu ramowym programem szkolenia, o którym mowa w art. 22 ust. 4 pkt 4 ustawy Wysokość kary (w zł) Wykaz naruszeń w odniesieniu do wyznaczonego operatora pocztowego
+27. Wprowadzenie materiałów niebezpiecznych do 20 000 poczty transportowanej drogą powietrzną bez uprzedniego uzyskania zatwierdzenia, o którym mowa w art. 19 ust. 2 ustawy
+28. Wprowadzenie materiałów niebezpiecznych do 50 000 poczty transportowanej drogą powietrzną bez spełnienia wymagań dotyczących wprowadzania materiałów niebezpiecznych do poczty, o których mowa w Instrukcjach Technicznych
+29. Niezapewnienie w widocznych miejscach w punk- 20 000 tach przyjmowania przesyłek pocztowych, pisemnych lub graficznych informacji dotyczących ograniczeń transportu drogą powietrzną przesyłek pocztowych zawierających materiały niebezpieczne, zgodnie z art. 19 ust. 8 ustawy
+30. Obsługa przez osobę, która nie ukończyła 20 000 właściwego szkolenia, o którym mowa w art. 20 ustawy, przesyłek pocztowych zawierających materiały niebezpieczne transportowanych drogą powietrzną Wysokość kary (w zł) w odniesieniu do podWykaz naruszeń wykonawcy w odniesieniu do przeprowadzającego zarządzającego kontrolę bezpieczeństwa lotniskiem
+31. Kontrola bezpieczeństwa pasażerów i bagażu 20 000 50 000 przez osobę, która nie ukończyła z wynikiem pozytywnym właściwego szkolenia, o którym mowa w art. 21 ust. 1 ustawy
+32. Kontrola przesyłek lotniczych oraz poczty przez 20 000 nie dotyczy osobę, która nie ukończyła z wynikiem pozytywnym właściwego szkolenia, o którym mowa w art. 21 ust. 1 ustawy
+

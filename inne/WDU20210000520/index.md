@@ -26,9 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000520) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/520/text.pdf) |
 
 zmieniające rozporządzenie w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków Na podstawie art. 23 ust. 1, art. 25 i art. 27 ust. 2 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2020 r. poz. 2028) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lutego 2018 r. w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków (Dz. U. poz. 472) w załączniku do rozporządzenia po wyrazach „ścieków na terenie gminy/gmin** ……………….……….” dodaje się przecinek i wyrazy „na terenie której/których** wyznaczono aglomerację / nie wyznaczono aglomeracji** w rozumieniu art. 86 ust. 3 pkt 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r.
-poz. 310, 284, 695, 782, 875 i 1378) uchwałą rady gminy o wyznaczeniu aglomeracji nr ………………….., zgodnie z art. 87 ust. 1–4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne,”.
-§ 2. Wnioski o zatwierdzenie taryfy dla zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków sporządzone według wzoru określonego w przepisach dotychczasowych złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lutego 2018 r. w sprawie określania taryf, wzoru wniosku o zatwierdzenie taryfy oraz warunków rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków (Dz. U. poz. 472) w załączniku do rozporządzenia po wyrazach „ścieków na terenie gminy/gmin** ……………….……….” dodaje się przecinek i wyrazy „na terenie której/których** wyznaczono aglomerację / nie wyznaczono aglomeracji** w rozumieniu art. 86 ust. 3 pkt 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2020 r. poz. 310, 284, 695, 782, 875 i 1378) uchwałą rady gminy o wyznaczeniu aglomeracji nr ………………….., zgodnie z art. 87 ust. 1–4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne,”.
+
+**§ 2.** Wnioski o zatwierdzenie taryfy dla zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków sporządzone według wzoru określonego w przepisach dotychczasowych złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Infrastruktury: A. Adamczyk
 

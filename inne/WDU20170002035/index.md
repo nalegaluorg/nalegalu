@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nazw, wstążek, okuć oraz wzorów rysunkowych Gwiazdy Konga, Gwiazdy Czadu i Gwiazdy Morza Śródziemnego Na podstawie art. 19a ust. 5 ustawy z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2015 r.
 poz. 475 i 1266 oraz z 2016 r. poz. 1948) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 12 lutego 2010 r. w sprawie nazw, wstążek, okuć oraz wzorów rysunkowych Gwiazdy Konga, Gwiazdy Czadu i Gwiazdy Morza Śródziemnego (Dz. U. poz. 170) wprowadza się następujące zmiany:
-1) w § 3 ust. 1 otrzymuje brzmienie: „1. Odznaczeniem wojskowym o charakterze pamiątkowym dla uczestników polskiego kontyngentu wojskowego, biorących udział w operacji wojskowej w rejonie Morza Śródziemnego, Morza Czarnego lub Morza Egejskiego, oraz dla uczestników polskiego kontyngentu wojskowego, biorących udział w operacji ACTIVE ENDEAVOUR na Morzu Śródziemnym i Morzu Czarnym, jest Gwiazda Morza Śródziemnego.”;
-2) w § 4 ust. 2 otrzymuje brzmienie: „2. Na wstążce, o której mowa w § 3 ust. 2, nakłada się okucie z napisem, odpowiednio, ACTIVE ENDEAVOUR albo nazwą innej operacji wojskowej, prowadzonej w rejonie Morza Śródziemnego, Morza Czarnego lub Morza Egejskiego.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 12 lutego 2010 r. w sprawie nazw, wstążek, okuć oraz wzorów rysunkowych Gwiazdy Konga, Gwiazdy Czadu i Gwiazdy Morza Śródziemnego (Dz. U. poz. 170) wprowadza się następujące zmiany:
+
+- **1)** w § 3 ust. 1 otrzymuje brzmienie: „1. Odznaczeniem wojskowym o charakterze pamiątkowym dla uczestników polskiego kontyngentu wojskowego, biorących udział w operacji wojskowej w rejonie Morza Śródziemnego, Morza Czarnego lub Morza Egejskiego, oraz dla uczestników polskiego kontyngentu wojskowego, biorących udział w operacji ACTIVE ENDEAVOUR na Morzu Śródziemnym i Morzu Czarnym, jest Gwiazda Morza Śródziemnego.”;
+- **2)** w § 4 ust. 2 otrzymuje brzmienie: „2. Na wstążce, o której mowa w § 3 ust. 2, nakłada się okucie z napisem, odpowiednio, ACTIVE ENDEAVOUR albo nazwą innej operacji wojskowej, prowadzonej w rejonie Morza Śródziemnego, Morza Czarnego lub Morza Egejskiego.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

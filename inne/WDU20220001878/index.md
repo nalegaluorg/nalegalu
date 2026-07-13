@@ -27,10 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stypendium aplikantów Krajowej Szkoły Sądownictwa i Prokuratury Na podstawie art. 52 pkt 4 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U.
 z 2022 r. poz. 217) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 22 grudnia 2017 r. w sprawie stypendium aplikantów Krajowej Szkoły Sądownictwa i Prokuratury (Dz. U. z 2021 r. poz. 1001) w § 2 ust. 1 otrzymuje brzmienie: „1. Wysokość stypendium aplikanta wynosi miesięcznie:
-1) w trakcie pierwszych dwunastu miesięcy szkolenia – 4100 zł;
-2) po ukończeniu dwunastu miesięcy szkolenia – 4500 zł.”.
-§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie przy ustalaniu wysokości stypendium aplikantów Krajowej Szkoły Sądownictwa i Prokuratury od dnia 1 stycznia 2022 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 22 grudnia 2017 r. w sprawie stypendium aplikantów Krajowej Szkoły Sądownictwa i Prokuratury (Dz. U. z 2021 r. poz. 1001) w § 2 ust. 1 otrzymuje brzmienie: „1. Wysokość stypendium aplikanta wynosi miesięcznie: 1) w trakcie pierwszych dwunastu miesięcy szkolenia – 4100 zł; 2) po ukończeniu dwunastu miesięcy szkolenia – 4500 zł.”.
+
+**§ 2.** Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie przy ustalaniu wysokości stypendium aplikantów Krajowej Szkoły Sądownictwa i Prokuratury od dnia 1 stycznia 2022 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

@@ -28,9 +28,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy publicznej w zakresie transportu intermodalnego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r.
 poz. 198) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 30 kwietnia 2024 r. w sprawie udzielania pomocy publicznej w zakresie transportu intermodalnego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 705) wprowadza się następujące zmiany:
-1) w § 5 w ust. 3 wyrazy „30 czerwca” zastępuje się wyrazami „31 sierpnia”;
-2) w § 8 wyrazy „30 czerwca” zastępuje się wyrazami „31 sierpnia”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury: wz. A. Marchewka
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 30 kwietnia 2024 r. w sprawie udzielania pomocy publicznej w zakresie transportu intermodalnego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 705) wprowadza się następujące zmiany:
+
+- **1)** w § 5 w ust. 3 wyrazy „30 czerwca” zastępuje się wyrazami „31 sierpnia”;
+- **2)** w § 8 wyrazy „30 czerwca” zastępuje się wyrazami „31 sierpnia”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury: wz. A. Marchewka
 

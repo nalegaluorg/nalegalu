@@ -34,9 +34,11 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 1) § 2 rozporządzenia Rady Ministrów z dnia 19 września 2006 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach (Dz. U. poz. 1355), który stanowi: Ń§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 2) § 2 rozporządzenia Rady Ministrów z dnia 17 lipca 2009 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach (Dz. U. poz. 1008), który stanowi: Ń§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 3) § 2 i § 3 rozporządzenia Rady Ministrów z dnia 7 grudnia 2016 r. zmieniającego rozporządzenie w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach (Dz. U. poz. 2093), które stanowią: Ń§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do pomocy udzielanej od dnia 1 stycznia 2017 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.”.
-Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 11 sierpnia 2004 r.
-w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach Na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362) zarządza się, co następuje:
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.”. Prezes Rady Ministrów: M. Morawiecki ROZPORZĄDZENIE RADY MINISTRÓW z dnia 11 sierpnia 2004 r. w sprawie szczegółowego sposobu obliczania wartości pomocy publicznej udzielanej w różnych formach Na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2018 r. poz. 362) zarządza się, co następuje:
+
+## Załącznik
+
 § 1. Rozporządzenie określa szczegółowy sposób przeliczania wartości pomocy publicznej, zwanej dalej Ńpomocą”, udzielanej w różnych formach, na równą jej wartość dotacji, wyrażoną w ekwiwalencie dotacji brutto.
 § 2. Ilekroć w rozporządzeniu jest mowa o:
 1) EDB (ekwiwalent dotacji brutto) – należy przez to rozumieć kwotę pomocy, którą otrzymałby beneficjent pomocy lub podmiot ubiegający się o pomoc, gdyby uzyskał pomoc w formie dotacji, bez uwzględnienia opodatkowania podatkiem dochodowym, wyrażoną z dokładnością dwóch miejsc po przecinku;

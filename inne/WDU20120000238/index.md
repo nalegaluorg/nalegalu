@@ -26,16 +26,20 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000238) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/238/text.pdf) |
 
 zmieniające rozporządzenie w sprawie opiniowania służbowego policjantów Na podstawie art. 35 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, Nr 217, poz. 1280 i Nr 230, poz. 1371) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. Nr 170, poz. 1145) wprowadza się następujące zmiany:
-1) w § 5:
-a) w pkt 1 po lit. b dodaje się lit. ba w brzmieniu: „ba) dyrektora instytutu badawczego,”,
-b) po pkt 8 dodaje pkt 8a i 8b w brzmieniu: „8a) dyrektor instytutu badawczego w stosunku do:
-a) kierownika komórki organizacyjnej bezpośrednio mu podległej,
-b) policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;
-8b) kierownik komórki organizacyjnej, o którym mowa w pkt 8a lit. a, w stosunku do podległych mu policjantów;”;
-2) w § 7 w ust. 2:
-a) w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) dyrektora instytutu badawczego;”,
-b) w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) dyrektor instytutu badawczego w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych: J. Cichocki
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. Nr 170, poz. 1145) wprowadza się następujące zmiany:
+
+- **1)** w § 5:
+    - **a)** w pkt 1 po lit. b dodaje się lit. ba w brzmieniu: „ba) dyrektora instytutu badawczego,”,
+    - **b)** po pkt 8 dodaje pkt 8a i 8b w brzmieniu:
+
+      > „8a) dyrektor instytutu badawczego w stosunku do:  
+      > a) kierownika komórki organizacyjnej bezpośrednio mu podległej, b) policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;  
+      > 8b) kierownik komórki organizacyjnej, o którym mowa w pkt 8a lit. a, w stosunku do podległych mu policjantów;”;  
+
+- **2)** w § 7 w ust. 2:
+    - **a)** w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) dyrektora instytutu badawczego;”,
+    - **b)** w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) dyrektor instytutu badawczego w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych: J. Cichocki
 

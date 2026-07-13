@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2428/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska Na podstawie art. 4 ust. 7 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070 oraz z 2022 r. poz. 1726) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 31 grudnia 2018 r. w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska (Dz. U. z 2022 r. poz. 1867) w załączniku do rozporządzenia w § 2 ust. 1 otrzymuje brzmienie: „1. Główny Inspektor kieruje Głównym Inspektoratem przy pomocy zastępców Głównego Inspektora, dyrektora generalnego oraz kierowników komórek organizacyjnych wymienionych w § 4 ust. 1.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 31 grudnia 2018 r. w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska (Dz. U. z 2022 r. poz. 1867) w załączniku do rozporządzenia w § 2 ust. 1 otrzymuje brzmienie: „1. Główny Inspektor kieruje Głównym Inspektoratem przy pomocy zastępców Głównego Inspektora, dyrektora generalnego oraz kierowników komórek organizacyjnych wymienionych w § 4 ust. 1.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -30,16 +30,27 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodow
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Obrony Narodowej z dnia 16 maja 2025 r. zmieniającego rozporządzenie w sprawie warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 656), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Obrony Narodowej: z up. P. Bejda
 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 28 września 2012 r.
 w sprawie warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej Na podstawie art. 63 ust. 6 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251 oraz z 2025 r. poz. 820 i 1006) zarządza się, co następuje:
-§ 1. Przewóz osób odbywa się przeznaczonymi lub przystosowanymi do tego celu pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej.
-§ 2. Liczba osób przewożonych w pojazdach, o których mowa w § 1, powinna odpowiadać liczbie miejsc lub stanowisk w tych pojazdach, a łączna waga tych osób nie może przekraczać dopuszczalnej ładowności pojazdu.
-§ 2a. Dopuszcza się przewóz osoby wyznaczonej do informowania kierującego o sytuacji drogowej pojazdem specjalnym oraz pojazdem używanym do celów specjalnych, poza miejscem siedzącym wyznaczonym dla obsługi pojazdu, pod warunkiem że prędkość pojazdu nie przekracza 25 km/h.
-§ 3. 1. Samochodem ciężarowym można przewozić osoby siedzące na skrzyni ładunkowej, której burty są zamknięte i zabezpieczone przed samoczynnym otwarciem, pod warunkiem że:
-1) osoby nie zajmują miejsca między ładunkiem a kabiną kierowcy;
-2) pojazd nie przekracza prędkości 50 km/h.
+
+**§ 1.** Przewóz osób odbywa się przeznaczonymi lub przystosowanymi do tego celu pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej.
+
+**§ 2.** Liczba osób przewożonych w pojazdach, o których mowa w § 1, powinna odpowiadać liczbie miejsc lub stanowisk w tych pojazdach, a łączna waga tych osób nie może przekraczać dopuszczalnej ładowności pojazdu.
+
+**§ 2a.** Dopuszcza się przewóz osoby wyznaczonej do informowania kierującego o sytuacji drogowej pojazdem specjalnym oraz pojazdem używanym do celów specjalnych, poza miejscem siedzącym wyznaczonym dla obsługi pojazdu, pod warunkiem że prędkość pojazdu nie przekracza 25 km/h.
+
+**§ 3.**
+
+1. Samochodem ciężarowym można przewozić osoby siedzące na skrzyni ładunkowej, której burty są zamknięte i zabezpieczone przed samoczynnym otwarciem, pod warunkiem że:
+
+- **1)** osoby nie zajmują miejsca między ładunkiem a kabiną kierowcy;
+- **2)** pojazd nie przekracza prędkości 50 km/h.
+
 2. Dopuszcza się przewóz do pięciu osób w pierwszej przyczepie, pod warunkiem że:
-1) osoby nie zajmują miejsca między ładunkiem a przednią ścianą przyczepy;
-2) osoby siedzą na podłodze przyczepy, której burty są zamknięte i zabezpieczone przed samoczynnym otwarciem;
-3) zespół pojazdów nie przekracza prędkości 20 km/h.
-§ 4. Zabrania się przewożenia osób razem z towarami niebezpiecznymi lub innym ładunkiem, który z uwagi na swoje właściwości lub budowę może zagrozić bezpieczeństwu tych osób.
-§ 5. Rozporządzenie wchodzi w życie z dniem 19 października 2012 r.
+
+- **1)** osoby nie zajmują miejsca między ładunkiem a przednią ścianą przyczepy;
+- **2)** osoby siedzą na podłodze przyczepy, której burty są zamknięte i zabezpieczone przed samoczynnym otwarciem;
+- **3)** zespół pojazdów nie przekracza prędkości 20 km/h.
+
+**§ 4.** Zabrania się przewożenia osób razem z towarami niebezpiecznymi lub innym ładunkiem, który z uwagi na swoje właściwości lub budowę może zagrozić bezpieczeństwu tych osób.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 19 października 2012 r.
 

@@ -27,9 +27,17 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041851907) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1907/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz.U. Nr 98, poz. 1070, z późn. zm. ) w art. 27 § 1 i § 2 otrzymują brzmienie: „§ 1. Prezes i wiceprezes sądu może być odwołany przez Ministra Sprawiedliwości w toku kadencji w przypadku: 1) rażącego niewywiązywania się z obowiązków służbowych, 2) gdy dalsze pełnienie funkcji z innych powodów nie da się pogodzić z dobrem wymiaru sprawiedliwości. § 2. Odwołanie prezesa albo wiceprezesa sądu następuje po zasięgnięciu opinii Krajowej Rady Sądownictwa. Zamiar odwołania, wraz z pisemnym uzasadnieniem, Minister Sprawiedliwości przedstawia Krajowej Radzie Sądownictwa w celu uzyskania opinii. W przypadku, o którym mowa w § 1 pkt 2, negatywna opinia Krajowej Rady Sądownictwa jest dla Ministra Sprawiedliwości wiążąca.”.
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz.U. Nr 98, poz. 1070, z późn. zm. ) w art. 27 § 1 i § 2 otrzymują brzmienie:
 
-**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych (Dz.U. Nr 117, poz. 753, z późn. zm. ) w art. 11 § 5 i § 6 otrzymują brzmienie: „§ 5. Prezes sądu wojskowego i jego zastępca może być odwołany przez Ministra Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej w przypadku: 1) rażącego niewywiązywania się z obowiązków służbowych, 2) gdy dalsze pełnienie funkcji z innych powodów nie da się pogodzić z dobrem wymiaru sprawiedliwości. § 6. Odwołanie prezesa sądu wojskowego albo jego zastępcy następuje po zasięgnięciu opinii Krajowej Rady Sądownictwa. Zamiar odwołania wraz z pisemnym uzasadnieniem, Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej przedstawia Krajowej Radzie Sądownictwa w celu uzyskania opinii. W przypadku, o którym mowa w § 5 pkt 2, negatywna opinia Krajowej Rady Sądownictwa jest dla Ministra Sprawiedliwości wiążąca.”.
+> „§ 1. Prezes i wiceprezes sądu może być odwołany przez Ministra Sprawiedliwości w toku kadencji w przypadku:  
+> 1) rażącego niewywiązywania się z obowiązków służbowych, 2) gdy dalsze pełnienie funkcji z innych powodów nie da się pogodzić z dobrem wymiaru sprawiedliwości.  
+> § 2. Odwołanie prezesa albo wiceprezesa sądu następuje po zasięgnięciu opinii Krajowej Rady Sądownictwa. Zamiar odwołania, wraz z pisemnym uzasadnieniem, Minister Sprawiedliwości przedstawia Krajowej Radzie Sądownictwa w celu uzyskania opinii. W przypadku, o którym mowa w § 1 pkt 2, negatywna opinia Krajowej Rady Sądownictwa jest dla Ministra Sprawiedliwości wiążąca.”.  
+
+**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych (Dz.U. Nr 117, poz. 753, z późn. zm. ) w art. 11 § 5 i § 6 otrzymują brzmienie:
+
+> „§ 5. Prezes sądu wojskowego i jego zastępca może być odwołany przez Ministra Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej w przypadku:  
+> 1) rażącego niewywiązywania się z obowiązków służbowych, 2) gdy dalsze pełnienie funkcji z innych powodów nie da się pogodzić z dobrem wymiaru sprawiedliwości.  
+> § 6. Odwołanie prezesa sądu wojskowego albo jego zastępcy następuje po zasięgnięciu opinii Krajowej Rady Sądownictwa. Zamiar odwołania wraz z pisemnym uzasadnieniem, Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej przedstawia Krajowej Radzie Sądownictwa w celu uzyskania opinii. W przypadku, o którym mowa w § 5 pkt 2, negatywna opinia Krajowej Rady Sądownictwa jest dla Ministra Sprawiedliwości wiążąca.”.  
 
 **Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

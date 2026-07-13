@@ -30,107 +30,135 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie preparatów zawierających środki odurzające lub substancje psychotropowe, które mogą być posiadane i stosowane w celach medycznych oraz do badań klinicznych, po uzyskaniu zgody wojewódzkiego inspektora farmaceutycznego (Dz. U. poz. 2075), które stanowią: „ § 2. Zapotrzebowania, o których mowa w § 5 ust. 1 i 2 rozporządzenia zmienianego w § 1, wystawione przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność przez okres 14 dni od dnia ich wystawienia. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: A. Niedzielski
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 20 października 2015 r.
 w sprawie preparatów zawierających środki odurzające lub substancje psychotropowe, które mogą być posiadane i stosowane w celach medycznych oraz do badań klinicznych, po uzyskaniu zgody wojewódzkiego inspektora farmaceutycznego Na podstawie art. 42 ust. 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór wniosku o uzyskanie zgody wojewódzkiego inspektora farmaceutycznego na posiadanie i stosowanie w celach medycznych preparatów dopuszczonych do obrotu jako produkty lecznicze, zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P, składanego przez podmiot leczniczy, który – zgodnie z przepisami ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977) – nie utworzył apteki szpitalnej lub działu farmacji szpitalnej, zakład leczniczy dla zwierząt oraz lekarza, lekarza dentystę lub lekarza weterynarii, wykonujących zawód w ramach praktyki zawodowej, a także inny podmiot, którego działalność wymaga posiadania i stosowania w celach medycznych takich preparatów;
-2) wzór wniosku o uzyskanie zgody wojewódzkiego inspektora farmaceutycznego na posiadanie i stosowanie w celach przeprowadzenia badań klinicznych preparatów zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P, składanego przez podmiot leczniczy, który – zgodnie z przepisami ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne – nie utworzył apteki szpitalnej, zakład leczniczy dla zwierząt oraz lekarza, lekarza dentystę lub lekarza weterynarii, wykonujących zawód w ramach praktyki zawodowej, których działalność w celach przeprowadzenia badań klinicznych wymaga posiadania i stosowania takich preparatów;
-3) rodzaje preparatów zawierających środki odurzające i substancje psychotropowe, które mogą być posiadane w celach medycznych albo stosowane do przeprowadzenia badań klinicznych, wraz ze wskazaniem ich ilości oraz grupy, do jakiej są zakwalifikowane;
-4) warunki zaopatrywania i przechowywania preparatów zawierających środki odurzające i substancje psychotropowe posiadanych w celach medycznych lub stosowanych do przeprowadzenia badań klinicznych;
-5) rodzaje podmiotów, których działalność wymaga posiadania i stosowania preparatów zawierających środki odurzające i substancje psychotropowe, oraz sposób prowadzenia przez te podmioty dokumentacji.
-§ 2. Wzór wniosku o uzyskanie zgody wojewódzkiego inspektora farmaceutycznego na posiadanie i stosowanie w celach medycznych preparatów dopuszczonych do obrotu jako produkty lecznicze, zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P, określa załącznik nr 1 do rozporządzenia.
-§ 3. Wzór wniosku o uzyskanie zgody wojewódzkiego inspektora farmaceutycznego na posiadanie i stosowanie w celach przeprowadzenia badań klinicznych preparatów zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P określa załącznik nr 2 do rozporządzenia.
-§ 4. Rodzaje preparatów zawierających środki odurzające lub substancje psychotropowe, które mogą być posiadane w celach medycznych albo stosowane do przeprowadzenia badań klinicznych, wraz ze wskazaniem ich ilości oraz grupy, do jakiej są zakwalifikowane, określa załącznik nr 3 do rozporządzenia.
-§ 5. 1. Podmioty, o których mowa w art. 42 ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, zwanej dalej „ustawą”, oraz:
-1) użytkownik statku powietrznego, w rozumieniu art. 2 pkt 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U.
-z 2020 r. poz. 1970 oraz z 2021 r. poz. 784, 847 i 1898), wykonującego loty międzynarodowe,
-2) armator, w rozumieniu art. 7 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175) oraz art. 5 ust. 1 pkt 2 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2020 r. poz. 1863), statku wykorzystywanego do uprawiania żeglugi międzynarodowej,
-3) dyrektor izby wytrzeźwień lub kierownik placówki utworzonej przez jednostkę samorządu terytorialnego w celu wykonywania zadań izby wytrzeźwień lub placówki, którym jednostka samorządu terytorialnego zleciła wykonywanie zadań izby wytrzeźwień – zaopatrują się w dopuszczone do obrotu jako produkty lecznicze preparaty zawierające środki odurzające lub substancje psychotropowe w aptece lub hurtowni farmaceutycznej na podstawie zapotrzebowania.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór wniosku o uzyskanie zgody wojewódzkiego inspektora farmaceutycznego na posiadanie i stosowanie w celach medycznych preparatów dopuszczonych do obrotu jako produkty lecznicze, zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P, składanego przez podmiot leczniczy, który – zgodnie z przepisami ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977) – nie utworzył apteki szpitalnej lub działu farmacji szpitalnej, zakład leczniczy dla zwierząt oraz lekarza, lekarza dentystę lub lekarza weterynarii, wykonujących zawód w ramach praktyki zawodowej, a także inny podmiot, którego działalność wymaga posiadania i stosowania w celach medycznych takich preparatów;
+- **2)** wzór wniosku o uzyskanie zgody wojewódzkiego inspektora farmaceutycznego na posiadanie i stosowanie w celach przeprowadzenia badań klinicznych preparatów zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P, składanego przez podmiot leczniczy, który – zgodnie z przepisami ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne – nie utworzył apteki szpitalnej, zakład leczniczy dla zwierząt oraz lekarza, lekarza dentystę lub lekarza weterynarii, wykonujących zawód w ramach praktyki zawodowej, których działalność w celach przeprowadzenia badań klinicznych wymaga posiadania i stosowania takich preparatów;
+- **3)** rodzaje preparatów zawierających środki odurzające i substancje psychotropowe, które mogą być posiadane w celach medycznych albo stosowane do przeprowadzenia badań klinicznych, wraz ze wskazaniem ich ilości oraz grupy, do jakiej są zakwalifikowane;
+- **4)** warunki zaopatrywania i przechowywania preparatów zawierających środki odurzające i substancje psychotropowe posiadanych w celach medycznych lub stosowanych do przeprowadzenia badań klinicznych;
+- **5)** rodzaje podmiotów, których działalność wymaga posiadania i stosowania preparatów zawierających środki odurzające i substancje psychotropowe, oraz sposób prowadzenia przez te podmioty dokumentacji.
+
+**§ 2.** Wzór wniosku o uzyskanie zgody wojewódzkiego inspektora farmaceutycznego na posiadanie i stosowanie w celach medycznych preparatów dopuszczonych do obrotu jako produkty lecznicze, zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P, określa załącznik nr 1 do rozporządzenia.
+
+**§ 3.** Wzór wniosku o uzyskanie zgody wojewódzkiego inspektora farmaceutycznego na posiadanie i stosowanie w celach przeprowadzenia badań klinicznych preparatów zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P określa załącznik nr 2 do rozporządzenia.
+
+**§ 4.** Rodzaje preparatów zawierających środki odurzające lub substancje psychotropowe, które mogą być posiadane w celach medycznych albo stosowane do przeprowadzenia badań klinicznych, wraz ze wskazaniem ich ilości oraz grupy, do jakiej są zakwalifikowane, określa załącznik nr 3 do rozporządzenia.
+
+**§ 5.**
+
+1. Podmioty, o których mowa w art. 42 ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, zwanej dalej „ustawą”, oraz:
+
+- **1)** użytkownik statku powietrznego, w rozumieniu art. 2 pkt 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970 oraz z 2021 r. poz. 784, 847 i 1898), wykonującego loty międzynarodowe,
+- **2)** armator, w rozumieniu art. 7 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175) oraz art. 5 ust. 1 pkt 2 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2020 r. poz. 1863), statku wykorzystywanego do uprawiania żeglugi międzynarodowej,
+- **3)** dyrektor izby wytrzeźwień lub kierownik placówki utworzonej przez jednostkę samorządu terytorialnego w celu wykonywania zadań izby wytrzeźwień lub placówki, którym jednostka samorządu terytorialnego zleciła wykonywanie zadań izby wytrzeźwień – zaopatrują się w dopuszczone do obrotu jako produkty lecznicze preparaty zawierające środki odurzające lub substancje psychotropowe w aptece lub hurtowni farmaceutycznej na podstawie zapotrzebowania.
+
 2. Podmioty, o których mowa w art. 42 ust. 2 ustawy, zaopatrują się w preparaty zawierające środki odurzające lub substancje psychotropowe w hurtowni farmaceutycznej lub u wytwórcy na podstawie zapotrzebowania.
+
 3. Zapotrzebowanie, o którym mowa w ust. 1 i 2, zawiera:
-1) imię i nazwisko lub nazwę podmiotu, o którym mowa w ust. 1 i 2;
-2) dokładny adres podmiotu, o którym mowa w ust. 1 i 2, oraz adres miejsca przechowywania i stosowania preparatów zawierających środki odurzające lub substancje psychotropowe;
-3) określenie prowadzonej działalności;
-4) numer, datę i wskazanie organu, który wydał zgodę na posiadanie i stosowanie w celach medycznych albo w celach przeprowadzenia badań klinicznych preparatów zawierających środki odurzające lub substancje psychotropowe;
-5) międzynarodową nazwę zalecaną lub nazwę handlową, jeżeli taka istnieje, postać farmaceutyczną, dawkę oraz zamawianą ilość preparatów zawierających środki odurzające lub substancje psychotropowe;
-6) imię i nazwisko osoby upoważnionej do odbioru preparatów zawierających środki odurzające lub substancje psychotropowe;
-7) imię, nazwisko i podpis osoby odpowiedzialnej za nadzór nad przechowywaniem i stosowaniem w celach medycznych albo w celach przeprowadzenia badań klinicznych preparatów zawierających środki odurzające lub substancje psychotropowe;
-8) datę sporządzenia zapotrzebowania oraz imię, nazwisko i podpis osoby upoważnionej do reprezentowania podmiotu zamawiającego.
+
+- **1)** imię i nazwisko lub nazwę podmiotu, o którym mowa w ust. 1 i 2;
+- **2)** dokładny adres podmiotu, o którym mowa w ust. 1 i 2, oraz adres miejsca przechowywania i stosowania preparatów zawierających środki odurzające lub substancje psychotropowe;
+- **3)** określenie prowadzonej działalności;
+- **4)** numer, datę i wskazanie organu, który wydał zgodę na posiadanie i stosowanie w celach medycznych albo w celach przeprowadzenia badań klinicznych preparatów zawierających środki odurzające lub substancje psychotropowe;
+- **5)** międzynarodową nazwę zalecaną lub nazwę handlową, jeżeli taka istnieje, postać farmaceutyczną, dawkę oraz zamawianą ilość preparatów zawierających środki odurzające lub substancje psychotropowe;
+- **6)** imię i nazwisko osoby upoważnionej do odbioru preparatów zawierających środki odurzające lub substancje psychotropowe;
+- **7)** imię, nazwisko i podpis osoby odpowiedzialnej za nadzór nad przechowywaniem i stosowaniem w celach medycznych albo w celach przeprowadzenia badań klinicznych preparatów zawierających środki odurzające lub substancje psychotropowe;
+- **8)** datę sporządzenia zapotrzebowania oraz imię, nazwisko i podpis osoby upoważnionej do reprezentowania podmiotu zamawiającego.
+
 4. Termin ważności zapotrzebowania, o którym mowa w ust. 1 i 2, wynosi 14 dni od dnia jego wystawienia.
-§ 6. Podmioty, o których mowa w § 5 ust. 1 i 2, przechowują:
-1) preparaty zawierające środki odurzające lub substancje psychotropowe w wydzielonych pomieszczeniach, w zamkniętych metalowych szafach lub kasetach, przymocowanych w sposób trwały do ścian lub podłogi pomieszczenia, w miejscu niewidocznym dla osób nieuprawnionych, z zastrzeżeniem pkt 2 i 3;
-2) preparaty zawierające środki odurzające grupy I-N lub substancje psychotropowe grup II-P, III-P i IV-P w zamkniętych metalowych szafach lub kasetach, w miejscu niewidocznym dla osób nieuprawnionych;
-3) preparaty zawierające środki odurzające grupy III-N w miejscu niewidocznym dla osób nieuprawnionych.
-§ 7. 1. Podmioty, o których mowa w § 5 ust. 1 i 2, prowadzą w postaci papierowej lub elektronicznej dokumentację przychodu i rozchodu preparatów zawierających środki odurzające lub substancje psychotropowe, zachowując ciągłość zapisów i bezbłędność stosowanych procedur obliczeniowych.
+
+**§ 6.** Podmioty, o których mowa w § 5 ust. 1 i 2, przechowują:
+
+- **1)** preparaty zawierające środki odurzające lub substancje psychotropowe w wydzielonych pomieszczeniach, w zamkniętych metalowych szafach lub kasetach, przymocowanych w sposób trwały do ścian lub podłogi pomieszczenia, w miejscu niewidocznym dla osób nieuprawnionych, z zastrzeżeniem pkt 2 i 3;
+- **2)** preparaty zawierające środki odurzające grupy I-N lub substancje psychotropowe grup II-P, III-P i IV-P w zamkniętych metalowych szafach lub kasetach, w miejscu niewidocznym dla osób nieuprawnionych;
+- **3)** preparaty zawierające środki odurzające grupy III-N w miejscu niewidocznym dla osób nieuprawnionych.
+
+**§ 7.**
+
+1. Podmioty, o których mowa w § 5 ust. 1 i 2, prowadzą w postaci papierowej lub elektronicznej dokumentację przychodu i rozchodu preparatów zawierających środki odurzające lub substancje psychotropowe, zachowując ciągłość zapisów i bezbłędność stosowanych procedur obliczeniowych.
+
 2. W przypadku dokumentacji, o której mowa w ust. 1, prowadzonej w postaci papierowej:
-1) strony są numerowane i stanowią chronologicznie uporządkowaną całość;
-2) wpisy są dokonywane w sposób czytelny i w porządku chronologicznym;
-3) wpisów nie poprawia się, z wyjątkiem błędów powstałych wskutek oczywistej pomyłki pisarskiej lub rachunkowej;
-4) wpisy poprawia się przez skreślenie dotychczasowego wpisu i dokonanie nowego w taki sposób, aby był czytelny wpis poprawiany, dodatkowo zamieszcza się przy nim adnotację o przyczynie błędu oraz datę i oznaczenie osoby dokonującej adnotacji;
-5) wpis opatruje się datą i oznaczeniem osoby dokonującej wpisu.
+
+- **1)** strony są numerowane i stanowią chronologicznie uporządkowaną całość;
+- **2)** wpisy są dokonywane w sposób czytelny i w porządku chronologicznym;
+- **3)** wpisów nie poprawia się, z wyjątkiem błędów powstałych wskutek oczywistej pomyłki pisarskiej lub rachunkowej;
+- **4)** wpisy poprawia się przez skreślenie dotychczasowego wpisu i dokonanie nowego w taki sposób, aby był czytelny wpis poprawiany, dodatkowo zamieszcza się przy nim adnotację o przyczynie błędu oraz datę i oznaczenie osoby dokonującej adnotacji;
+- **5)** wpis opatruje się datą i oznaczeniem osoby dokonującej wpisu.
+
 3. W przypadku dokumentacji, o której mowa w ust. 1, prowadzonej w postaci elektronicznej, system teleinformatyczny zapewnia:
-1) zabezpieczenie dokumentacji przed uszkodzeniem lub utratą;
-2) zachowanie integralności i wiarygodności dokumentacji;
-3) stały dostęp do dokumentacji dla osób uprawnionych oraz zabezpieczenie przed dostępem osób nieuprawnionych;
-4) identyfikację osoby dokonującej wpisu oraz osoby dokonującej zmian wpisu;
-5) udostępnienie, w tym przez eksport w postaci elektronicznej dokumentacji albo części dokumentacji, w formacie XML i PDF;
-6) eksport całości danych w formacie XML, w sposób zapewniający możliwość odtworzenia tej dokumentacji w innym systemie teleinformatycznym;
-7) wygenerowanie papierowych wydruków – na żądanie uprawnionych podmiotów lub organów.
+
+- **1)** zabezpieczenie dokumentacji przed uszkodzeniem lub utratą;
+- **2)** zachowanie integralności i wiarygodności dokumentacji;
+- **3)** stały dostęp do dokumentacji dla osób uprawnionych oraz zabezpieczenie przed dostępem osób nieuprawnionych;
+- **4)** identyfikację osoby dokonującej wpisu oraz osoby dokonującej zmian wpisu;
+- **5)** udostępnienie, w tym przez eksport w postaci elektronicznej dokumentacji albo części dokumentacji, w formacie XML i PDF;
+- **6)** eksport całości danych w formacie XML, w sposób zapewniający możliwość odtworzenia tej dokumentacji w innym systemie teleinformatycznym;
+- **7)** wygenerowanie papierowych wydruków – na żądanie uprawnionych podmiotów lub organów.
+
 4. Utrwalenie dokumentacji prowadzonej w postaci elektronicznej polega na zastosowaniu odpowiednich do ilości danych i zastosowanej technologii rozwiązań technicznych zapewniających przechowywanie, używalność i wiarygodność dokumentacji znajdującej się w systemie informatycznym co najmniej do upływu okresu przechowywania dokumentacji.
-§ 8. 1. Dokumenty dotyczące przychodu i rozchodu dopuszczonych do obrotu jako produkty lecznicze preparatów zawierających środki odurzające grup I-N i II-N lub substancje psychotropowe grupy II-P, posiadanych i stosowanych w celach medycznych, są prowadzone w formie książki kontroli, w postaci papierowej lub elektronicznej.
+
+**§ 8.**
+
+1. Dokumenty dotyczące przychodu i rozchodu dopuszczonych do obrotu jako produkty lecznicze preparatów zawierających środki odurzające grup I-N i II-N lub substancje psychotropowe grupy II-P, posiadanych i stosowanych w celach medycznych, są prowadzone w formie książki kontroli, w postaci papierowej lub elektronicznej.
+
 2. Książka kontroli, o której mowa w ust. 1, jest prowadzona odrębnie dla każdego środka odurzającego grup I-N i II-N lub substancji psychotropowej grupy II-P, dla każdej ich postaci farmaceutycznej i dawki, i określa:
-1) w odniesieniu do przychodu:
-a) liczbę porządkową,
-b) datę dostawy,
-c) nazwę dostawcy,
-d) oznaczenie dokumentu przychodu,
-e) ilość dostarczoną, wyrażoną w gramach lub sztukach;
-2) w odniesieniu do rozchodu:
-a) liczbę porządkową,
-b) datę wydania,
-c) dokument stanowiący podstawę wydania oraz imię i nazwisko zlecającego,
-d) imię i nazwisko lub nazwę odbiorcy,
-e) ilość wydaną, wyrażoną w gramach lub sztukach;
-3) stan magazynowy po dostarczeniu lub wydaniu;
-4) ewentualne uwagi.
+
+- **1)** w odniesieniu do przychodu:
+    - **a)** liczbę porządkową,
+    - **b)** datę dostawy,
+    - **c)** nazwę dostawcy,
+    - **d)** oznaczenie dokumentu przychodu,
+    - **e)** ilość dostarczoną, wyrażoną w gramach lub sztukach;
+
+- **2)** w odniesieniu do rozchodu:
+    - **a)** liczbę porządkową,
+    - **b)** datę wydania,
+    - **c)** dokument stanowiący podstawę wydania oraz imię i nazwisko zlecającego,
+    - **d)** imię i nazwisko lub nazwę odbiorcy,
+    - **e)** ilość wydaną, wyrażoną w gramach lub sztukach;
+
+- **3)** stan magazynowy po dostarczeniu lub wydaniu;
+- **4)** ewentualne uwagi.
+
 3. Wpisów w książce kontroli, o której mowa w ust. 1, dokonuje wyłącznie osoba odpowiedzialna za przechowywanie i stosowanie preparatów zawierających środki odurzające grup I-N i II-N lub substancje psychotropowe grupy II-P, posiadająca w tym zakresie stosowne upoważnienie, w dniu dostawy lub wydania tych preparatów.
+
 4. Książkę kontroli, o której mowa w ust. 1, przechowuje się przez okres 5 lat, licząc od pierwszego dnia roku kalendarzowego następującego po roku, w którym dokonano ostatniego wpisu.
-§ 9. 1. Dokumenty dotyczące przychodu i rozchodu dopuszczonych do obrotu jako produkty lecznicze preparatów zawierających środki odurzające grupy III-N lub substancje psychotropowe grup III-P i IV-P, posiadanych lub stosowanych w celach medycznych, są prowadzone w formie comiesięcznych zestawień, w postaci papierowej lub elektronicznej, zawierających:
-1) międzynarodową nazwę zalecaną lub nazwę handlową, dawkę, postać farmaceutyczną i wielkość opakowania;
-2) stan magazynowy na początku danego miesiąca;
-3) łączny przychód w ciągu danego miesiąca z podaniem ilości preparatu;
-4) łączny rozchód w ciągu danego miesiąca z podaniem ilości preparatu i ilości zleceń;
-5) stan magazynowy na koniec danego miesiąca.
+
+**§ 9.**
+
+1. Dokumenty dotyczące przychodu i rozchodu dopuszczonych do obrotu jako produkty lecznicze preparatów zawierających środki odurzające grupy III-N lub substancje psychotropowe grup III-P i IV-P, posiadanych lub stosowanych w celach medycznych, są prowadzone w formie comiesięcznych zestawień, w postaci papierowej lub elektronicznej, zawierających:
+
+- **1)** międzynarodową nazwę zalecaną lub nazwę handlową, dawkę, postać farmaceutyczną i wielkość opakowania;
+- **2)** stan magazynowy na początku danego miesiąca;
+- **3)** łączny przychód w ciągu danego miesiąca z podaniem ilości preparatu;
+- **4)** łączny rozchód w ciągu danego miesiąca z podaniem ilości preparatu i ilości zleceń;
+- **5)** stan magazynowy na koniec danego miesiąca.
+
 2. Zestawienia, o których mowa w ust. 1, sporządza wyłącznie osoba odpowiedzialna za przechowywanie i stosowanie preparatów zawierających środki odurzające grupy III-N lub substancje psychotropowe grup III-P i IV-P, posiadająca w tym zakresie stosowne upoważnienie.
+
 3. Zestawienia, o których mowa w ust. 1, przechowuje się przez okres 5 lat, licząc od pierwszego miesiąca roku kalendarzowego następującego po roku, w którym dokonano ostatniego wpisu.
-§ 10. 1. Dokumenty dotyczące przychodu i rozchodu preparatów zawierających środki odurzające lub substancje psychotropowe, posiadanych i stosowanych w celach przeprowadzenia badań klinicznych, są prowadzone w formie ewidencji do przeprowadzonego badania klinicznego, w postaci papierowej lub elektronicznej, zawierającej:
-1) nazwę preparatu, dawkę, postać farmaceutyczną i wielkość opakowania;
-2) datę dostawy;
-3) nazwę dostawcy;
-4) oznaczenie dokumentu przychodu;
-5) ilość dostarczoną;
-6) datę wydania;
-7) nazwę odbiorcy;
-8) ilość wydaną;
-9) stan magazynowy po dostarczeniu lub wydaniu;
-10) ewentualne uwagi.
+
+**§ 10.**
+
+1. Dokumenty dotyczące przychodu i rozchodu preparatów zawierających środki odurzające lub substancje psychotropowe, posiadanych i stosowanych w celach przeprowadzenia badań klinicznych, są prowadzone w formie ewidencji do przeprowadzonego badania klinicznego, w postaci papierowej lub elektronicznej, zawierającej:
+
+- **1)** nazwę preparatu, dawkę, postać farmaceutyczną i wielkość opakowania;
+- **2)** datę dostawy;
+- **3)** nazwę dostawcy;
+- **4)** oznaczenie dokumentu przychodu;
+- **5)** ilość dostarczoną;
+- **6)** datę wydania;
+- **7)** nazwę odbiorcy;
+- **8)** ilość wydaną;
+- **9)** stan magazynowy po dostarczeniu lub wydaniu;
+- **10)** ewentualne uwagi.
+
 2. Ewidencję, o której mowa w ust. 1, sporządza wyłącznie osoba odpowiedzialna za przechowywanie i stosowanie preparatów zawierających środki odurzające lub substancje psychotropowe, posiadająca w tym zakresie stosowne upoważnienie, do 25. dnia każdego miesiąca za poprzedni miesiąc.
+
 3. Ewidencję, o której mowa w ust. 1, przechowuje się przez okres 5 lat, licząc od roku zakończenia lub przerwania badania klinicznego.
-§ 11. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Ministra Zdrowia z dnia 20 października 2015 r. (poz. ) Załącznik nr 1 WZÓR WZÓR ...................................................
-...................................................
-................................................... Właściwy wojewódzki inspektor farmaceutyczny WNIOSEK O UZYSKANIE ZGODY NA POSIADANIE I STOSOWANIE W CELACH MEDYCZNYCH PREPARATÓW DOPUSZCZONYCH DO OBROTU JAKO PRODUKTY LECZNICZE, ZAWIERAJĄCYCH ŚRODKI ODURZAJĄCE GRUP I-N, II-N, III-N I IV-N LUB SUBSTANCJE PSYCHOTROPOWE GRUP II-P, III-P I IV-P Wnoszę o wydanie zgody na posiadanie i stosowanie w celach medycznych preparatów zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P, wymienionych w niniejszym wniosku.
-1. Nazwa i dokładny adres wnioskodawcy: ...................................................................................................................................................................
-...................................................................................................................................................................
-2. Numer REGON, księgi rejestrowej podmiotu wykonującego działalność leczniczą lub numer prawa wykonywania zawodu (jeżeli został nadany): ...................................................................................................................................................................
-3. Międzynarodowa nazwa zalecana lub nazwa handlowa, postać farmaceutyczna, dawka oraz ilość preparatów będących przedmiotem wniosku: ...................................................................................................................................................................
-...................................................................................................................................................................
-...................................................................................................................................................................
-4. Nazwa i dokładny adres apteki lub hurtowni farmaceutycznej, w której będzie zaopatrywał się wnioskodawca: ...................................................................................................................................................................
-...................................................................................................................................................................
-5. Miejsce planowanego przechowywania i stosowania preparatów będących przedmiotem wniosku oraz opis sposobu przechowywania: ...................................................................................................................................................................
-...................................................................................................................................................................
-6. Imię i nazwisko osoby odpowiedzialnej za nadzór nad przechowywaniem i stosowaniem w celach medycznych preparatów zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P: ...................................................................................................................................................................
-………………………………………………………….
-……………………………………………………………….
+
+**§ 11.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia . Ministra Zdrowia z dnia 20 października 2015 r. (poz. ) Załącznik nr 1 WZÓR WZÓR ................................................... ................................................... ................................................... Właściwy wojewódzki inspektor farmaceutyczny WNIOSEK O UZYSKANIE ZGODY NA POSIADANIE I STOSOWANIE W CELACH MEDYCZNYCH PREPARATÓW DOPUSZCZONYCH DO OBROTU JAKO PRODUKTY LECZNICZE, ZAWIERAJĄCYCH ŚRODKI ODURZAJĄCE GRUP I-N, II-N, III-N I IV-N LUB SUBSTANCJE PSYCHOTROPOWE GRUP II-P, III-P I IV-P Wnoszę o wydanie zgody na posiadanie i stosowanie w celach medycznych preparatów zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P, wymienionych w niniejszym wniosku. 1. Nazwa i dokładny adres wnioskodawcy: ................................................................................................................................................................... ................................................................................................................................................................... 2. Numer REGON, księgi rejestrowej podmiotu wykonującego działalność leczniczą lub numer prawa wykonywania zawodu (jeżeli został nadany): ................................................................................................................................................................... 3. Międzynarodowa nazwa zalecana lub nazwa handlowa, postać farmaceutyczna, dawka oraz ilość preparatów będących przedmiotem wniosku: ................................................................................................................................................................... ................................................................................................................................................................... ................................................................................................................................................................... 4. Nazwa i dokładny adres apteki lub hurtowni farmaceutycznej, w której będzie zaopatrywał się wnioskodawca: ................................................................................................................................................................... ................................................................................................................................................................... 5. Miejsce planowanego przechowywania i stosowania preparatów będących przedmiotem wniosku oraz opis sposobu przechowywania: ................................................................................................................................................................... ................................................................................................................................................................... 6. Imię i nazwisko osoby odpowiedzialnej za nadzór nad przechowywaniem i stosowaniem w celach medycznych preparatów zawierających środki odurzające grup I-N, II-N, III-N i IV-N lub substancje psychotropowe grup II-P, III-P i IV-P: ................................................................................................................................................................... …………………………………………………………. ……………………………………………………………….
 
 ## Załącznik nr 2 — WZÓR WZÓR ...................................................
 

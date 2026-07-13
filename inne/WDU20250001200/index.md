@@ -27,10 +27,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001200) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1200/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu z dnia 7 kwietnia 2020 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. poz. 718, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 13 uchyla się ust. 5, 6, 8 i 9;
-2) w § 14 użyte w różnym przypadku wyrazy „dane źródło” zastępuje się użytymi w odpowiednim przypadku wyrazami „dana jednostka kogeneracji”.
-§ 2. Do spraw wszczętych na podstawie wniosków o zatwierdzenie taryf dla ciepła albo wniosków o zatwierdzenie zmian taryf dla ciepła i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Energii: M. Motyka
+
+**§ 1.** W rozporządzeniu Ministra Klimatu z dnia 7 kwietnia 2020 r. w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. poz. 718, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w § 13 uchyla się ust. 5, 6, 8 i 9;
+- **2)** w § 14 użyte w różnym przypadku wyrazy „dane źródło” zastępuje się użytymi w odpowiednim przypadku wyrazami „dana jednostka kogeneracji”.
+
+**§ 2.** Do spraw wszczętych na podstawie wniosków o zatwierdzenie taryf dla ciepła albo wniosków o zatwierdzenie zmian taryf dla ciepła i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Energii: M. Motyka
 

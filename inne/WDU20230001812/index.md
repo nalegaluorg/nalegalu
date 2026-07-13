@@ -34,10 +34,15 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2) § 2 rozporządzenia Ministra Zdrowia z dnia 17 lipca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 1499), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 18 czerwca 2021 r.
 w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu Na podstawie art. 112 ust. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605 i 650) zarządza się, co następuje:
-§ 1. Głównemu Inspektoratowi Farmaceutycznemu nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Zdrowia z dnia 14 lipca 2009 r. w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 973).
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-STATUT GŁÓWNEGO INSPEKTORATU FARMACEUTYCZNEGO
+
+**§ 1.** Głównemu Inspektoratowi Farmaceutycznemu nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Zdrowia z dnia 14 lipca 2009 r. w sprawie nadania statutu Głównemu Inspektoratowi Farmaceutycznemu (Dz. U. poz. 973).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia . STATUT GŁÓWNEGO INSPEKTORATU FARMACEUTYCZNEGO
+
+## Załącznik
+
 § 1. Główny Inspektorat Farmaceutyczny, zwany dalej „Głównym Inspektoratem”, jest urzędem administracji rządowej obsługującym Głównego Inspektora Farmaceutycznego.
 § 2. Główny Inspektor Farmaceutyczny kieruje Głównym Inspektoratem przy pomocy Zastępcy Głównego Inspektora Farmaceutycznego, dyrektora generalnego oraz kierowników komórek organizacyjnych wymienionych w § 3.
 § 3. W skład Głównego Inspektoratu wchodzą:

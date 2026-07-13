@@ -27,17 +27,23 @@ source: pdf
 
 w sprawie określenia siedzib i obszarów właściwości sądów wojskowych Na podstawie art. 3 § 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2012 r.
 poz. 952, z późn. zm. ) zarządza się, co następuje:
-§ 1. 1. Określa się siedziby i obszary właściwości wojskowych sądów okręgowych:
-1) Wojskowy Sąd Okręgowy w Poznaniu – dla województw objętych właściwością wojskowych sądów garnizonowych w Gdyni, Poznaniu, Szczecinie i Wrocławiu;
-2) Wojskowy Sąd Okręgowy w Warszawie – dla województw objętych właściwością wojskowych sądów garnizonowych w Lublinie, Olsztynie i Warszawie.
+
+**§ 1.**
+
+1. Określa się siedziby i obszary właściwości wojskowych sądów okręgowych:
+
+- **1)** Wojskowy Sąd Okręgowy w Poznaniu – dla województw objętych właściwością wojskowych sądów garnizonowych w Gdyni, Poznaniu, Szczecinie i Wrocławiu;
+- **2)** Wojskowy Sąd Okręgowy w Warszawie – dla województw objętych właściwością wojskowych sądów garnizonowych w Lublinie, Olsztynie i Warszawie.
+
 2. Określa się siedziby i obszary właściwości wojskowych sądów garnizonowych:
-1) Wojskowy Sąd Garnizonowy w Gdyni – dla województwa pomorskiego;
-2) Wojskowy Sąd Garnizonowy w Lublinie – dla województw: lubelskiego, małopolskiego i podkarpackiego;
-3) Wojskowy Sąd Garnizonowy w Olsztynie – dla województw: podlaskiego i warmińsko-mazurskiego;
-4) Wojskowy Sąd Garnizonowy w Poznaniu – dla województw: kujawsko-pomorskiego, lubuskiego i wielkopolskiego;
-5) Wojskowy Sąd Garnizonowy w Szczecinie – dla województwa zachodniopomorskiego;
-6) Wojskowy Sąd Garnizonowy w Warszawie – dla województw: łódzkiego, mazowieckiego i świętokrzyskiego;
-7) Wojskowy Sąd Garnizonowy we Wrocławiu – dla województw: dolnośląskiego, opolskiego i śląskiego.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Obrony Narodowej: T. Siemoniak
+
+- **1)** Wojskowy Sąd Garnizonowy w Gdyni – dla województwa pomorskiego;
+- **2)** Wojskowy Sąd Garnizonowy w Lublinie – dla województw: lubelskiego, małopolskiego i podkarpackiego;
+- **3)** Wojskowy Sąd Garnizonowy w Olsztynie – dla województw: podlaskiego i warmińsko-mazurskiego;
+- **4)** Wojskowy Sąd Garnizonowy w Poznaniu – dla województw: kujawsko-pomorskiego, lubuskiego i wielkopolskiego;
+- **5)** Wojskowy Sąd Garnizonowy w Szczecinie – dla województwa zachodniopomorskiego;
+- **6)** Wojskowy Sąd Garnizonowy w Warszawie – dla województw: łódzkiego, mazowieckiego i świętokrzyskiego;
+- **7)** Wojskowy Sąd Garnizonowy we Wrocławiu – dla województw: dolnośląskiego, opolskiego i śląskiego.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Obrony Narodowej: T. Siemoniak
 

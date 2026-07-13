@@ -26,13 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002493) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2493/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin Na podstawie art. 4 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2017 r. poz. 1875 i 2232) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 24 lipca 2017 r. w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U.
-poz. 1427) wprowadza się następujące zmiany:
-1) w § 3 uchyla się pkt 3;
-2) po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Z dniem 1 stycznia 2019 r. nadaje się status miasta miejscowości Chełmiec – w gminie Chełmiec, w powiecie nowosądeckim, w województwie małopolskim.”;
-3) w § 4 uchyla się pkt 3;
-4) po § 4 dodaje się § 4a w brzmieniu: „§ 4a. Z dniem 1 stycznia 2019 r. ustala się w województwie małopolskim, w powiecie nowosądeckim, w gminie Chełmiec granice miasta Chełmiec obejmujące obszar obrębu ewidencyjnego Chełmiec o powierzchni 564,02 ha, z gminy Chełmiec.”;
-5) § 7 otrzymuje brzmienie: „§ 7. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem § 2, § 3a oraz § 4a, które wchodzą w życie z dniem 1 stycznia 2019 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2017 r.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 24 lipca 2017 r. w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta, zmiany nazwy gminy oraz siedzib władz niektórych gmin (Dz. U. poz. 1427) wprowadza się następujące zmiany:
+
+- **1)** w § 3 uchyla się pkt 3;
+- **2)** po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Z dniem 1 stycznia 2019 r. nadaje się status miasta miejscowości Chełmiec – w gminie Chełmiec, w powiecie nowosądeckim, w województwie małopolskim.”;
+- **3)** w § 4 uchyla się pkt 3;
+- **4)** po § 4 dodaje się § 4a w brzmieniu: „§ 4a. Z dniem 1 stycznia 2019 r. ustala się w województwie małopolskim, w powiecie nowosądeckim, w gminie Chełmiec granice miasta Chełmiec obejmujące obszar obrębu ewidencyjnego Chełmiec o powierzchni 564,02 ha, z gminy Chełmiec.”;
+- **5)** § 7 otrzymuje brzmienie: „§ 7. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem § 2, § 3a oraz § 4a, które wchodzą w życie z dniem 1 stycznia 2019 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 grudnia 2017 r.
 

@@ -26,9 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001256) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1256/text.pdf) |
 
 w sprawie nadania statutu Polskiej Agencji Antydopingowej Na podstawie art. 4 ust. 4 ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie (Dz. U. poz. 1051) zarządza się, co następuje:
-§ 1. Polskiej Agencji Antydopingowej nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.
-Minister Sportu i Turystyki: W. Bańka STATUT POLSKIEJ AGENCJI ANTYDOPINGOWEJ
+
+**§ 1.** Polskiej Agencji Antydopingowej nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r. Minister Sportu i Turystyki: W. Bańka STATUT POLSKIEJ AGENCJI ANTYDOPINGOWEJ
+
+## Załącznik
+
 § 1. Polska Agencja Antydopingowa, zwana dalej „Agencją”, jest państwową osobą prawną, działającą na podstawie ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie (Dz. U. poz. 1051), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. Pierwsze posiedzenie nowej kadencji Rady Agencji, do momentu wyboru Przewodniczącego Rady Agencji, prowadzi najstarszy wiekiem członek Rady Agencji.
 2. W przypadku nieobecności Przewodniczącego Rady Agencji posiedzenie Rady Agencji prowadzi jego zastępca, a w przypadku jego nieobecności – inny wyznaczony przez Przewodniczącego członek Rady Agencji.

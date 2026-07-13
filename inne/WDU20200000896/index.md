@@ -26,13 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000896) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/896/text.pdf) |
 
 w sprawie wzoru zgody przewozowej i uprzedniej zgody przewozowej Na podstawie art. 82 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214 i 1495 oraz z 2020 r. poz. 148) zarządza się, co następuje:
-§ 1. Określa się:
-1) wzór zgody przewozowej, który jest określony w załączniku nr 1 do rozporządzenia;
-2) wzór uprzedniej zgody przewozowej, który jest określony w załączniku nr 2 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust.
-pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 kwietnia 2007 r. w sprawie wzoru zgody przewozowej (Dz. U. poz. 585) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 kwietnia 2007 r. w sprawie wzoru uprzedniej zgody przewozowej (Dz. U. poz. 586), które na podstawie art. 170 pkt 8 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214 i 1495 oraz z 2020 r. poz. 148) tracą moc z dniem wejścia w życie niniejszego rozporządzenia.
+
+**§ 1.** Określa się:
+
+- **1)** wzór zgody przewozowej, który jest określony w załączniku nr 1 do rozporządzenia;
+- **2)** wzór uprzedniej zgody przewozowej, który jest określony w załączniku nr 2 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 kwietnia 2007 r. w sprawie wzoru zgody przewozowej (Dz. U. poz. 585) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 24 kwietnia 2007 r. w sprawie wzoru uprzedniej zgody przewozowej (Dz. U. poz. 586), które na podstawie art. 170 pkt 8 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1214 i 1495 oraz z 2020 r. poz. 148) tracą moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — Załącznik nr WZóR Wzórzgodyprzewozowej ZgODy PRZeWOZOWej ZGODA PRZEWOZOWA NA KAŻDORAZOWE PRZEMIESZCZANIE STRZELECKIEJ BRONI PALNEJ, ISTOTNYCH CZĘŚCI I AMUNICJI DO STRZELECKIEJ BRONI PALNEJ (CONSENT TO TRANSFER SMALL FIREARMS, ESSENTIAL COMPONENTS AND AMMUNITION FOR SMALL FIREARMS) art. 11 i art. 10 ust. 1 dyrektywy 91/477/EWG oraz art. 12 dyrektywy 2014/28/UE (Article 11 and Article 10(1) of Directive 91/477/EEC and Article 12 of Directive 2014/28/EU)
 

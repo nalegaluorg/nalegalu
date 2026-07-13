@@ -35,9 +35,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 15 czerwca 2009 r.
 w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2025 r. poz. 1363 i 1795) zarządza się, co następuje:
-§ 1. Agencji Restrukturyzacji i Modernizacji Rolnictwa nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 25 czerwca 2009 r.
-STATUT AGENCJI RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA
+
+**§ 1.** Agencji Restrukturyzacji i Modernizacji Rolnictwa nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 25 czerwca 2009 r. STATUT AGENCJI RESTRUKTURYZACJI I MODERNIZACJI ROLNICTWA
+
+## Załącznik
+
 § 1. Agencja Restrukturyzacji i Modernizacji Rolnictwa, zwana dalej „Agencją”, działa na podstawie ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2025 r. poz. 1363 i 1795) oraz niniejszego statutu.
 § 2. 1. Prezes Agencji, zwany dalej „Prezesem”, działa przy pomocy:
 1) niewięcej niż pięciu zastępców Prezesa;

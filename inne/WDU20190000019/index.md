@@ -27,11 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustalenia wykazu stanowisk sędziów sądów wojskowych równorzędnych ze stanowiskami sędziów sądów powszechnych Na podstawie art. 70 § 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2018 r.
 poz. 1921) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 11 października 2010 r. w sprawie ustalenia wykazu stanowisk sędziów sądów wojskowych równorzędnych ze stanowiskami sędziów sądów powszechnych (Dz. U.
-poz. 1297 oraz z 2012 r. poz. 785) w załączniku nr 1 do rozporządzenia w tabeli:
-1) lp. 3 i 4 otrzymują brzmienie: 3 Rzecznik Dyscyplinarny Sędziów Sądów Wojskowych Rzecznik Dyscyplinarny Sędziów Sądów Powszechnych 4 Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Woj- Zastępca Rzecznika Dyscyplinarnego Sędziów skowych Sądów Powszechnych
-2) po lp. 4 dodaje się lp. 4a i 4b w brzmieniu: 4a prezes sądu dyscyplinarnego przy wojskowym sądzie okrę- prezes sądu dyscyplinarnego przy sądzie apegowym lacyjnym 4b sędzia sądu dyscyplinarnego przy wojskowym sądzie okrę- sędzia sądu dyscyplinarnego przy sądzie apelagowym cyjnym
-§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do ustalenia stanowisk sędziów sądów wojskowych równorzędnych ze stanowiskami sędziów sądów powszechnych od dnia 3 kwietnia 2018 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 11 października 2010 r. w sprawie ustalenia wykazu stanowisk sędziów sądów wojskowych równorzędnych ze stanowiskami sędziów sądów powszechnych (Dz. U. poz. 1297 oraz z 2012 r. poz. 785) w załączniku nr 1 do rozporządzenia w tabeli:
+
+- **1)** lp. 3 i 4 otrzymują brzmienie: 3 Rzecznik Dyscyplinarny Sędziów Sądów Wojskowych Rzecznik Dyscyplinarny Sędziów Sądów Powszechnych 4 Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Woj- Zastępca Rzecznika Dyscyplinarnego Sędziów skowych Sądów Powszechnych
+- **2)** po lp. 4 dodaje się lp. 4a i 4b w brzmieniu: 4a prezes sądu dyscyplinarnego przy wojskowym sądzie okrę- prezes sądu dyscyplinarnego przy sądzie apegowym lacyjnym 4b sędzia sądu dyscyplinarnego przy wojskowym sądzie okrę- sędzia sądu dyscyplinarnego przy sądzie apelagowym cyjnym
+
+**§ 2.** Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do ustalenia stanowisk sędziów sądów wojskowych równorzędnych ze stanowiskami sędziów sądów powszechnych od dnia 3 kwietnia 2018 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

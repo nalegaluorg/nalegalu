@@ -41,11 +41,27 @@ source: pdf
     - **b)** w ust. 2 wyrazy „7 lat” zastępuje się wyrazami „5 lat”,
     - **c)** w ust. 3 wyrazy „W okresie 3 miesięcy” zastępuje się wyrazami „Nie wcześniej niż na 6 miesięcy i nie później niż na 3 miesiące”;
 
-- **6)** w art. 11 po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Na stanowisko Prezesa Instytutu Pamięci nie może być powołana również osoba, co do której w archiwach podlegających przekazaniu do Instytutu Pamięci lub w innych archiwach państwowych znajduje się informacja o tym, że istnieją wobec niej przesłanki przewidziane w ust. 2. 2b. Na stanowisko Prezesa Instytutu Pamięci nie może być powołana również osoba, której działalność związana z dostępem do tajemnicy państwowej lub objęta tajemnicą państwową uniemożliwia szczegółowe przedstawienie informacji o przebiegu swojej służby, pracy lub współpracy.”;
+- **6)** w art. 11 po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
+
+  > „2a. Na stanowisko Prezesa Instytutu Pamięci nie może być powołana również osoba, co do której w archiwach podlegających przekazaniu do Instytutu Pamięci lub w innych archiwach państwowych znajduje się informacja o tym, że istnieją wobec niej przesłanki przewidziane w ust. 2.  
+  > 2b. Na stanowisko Prezesa Instytutu Pamięci nie może być powołana również osoba, której działalność związana z dostępem do tajemnicy państwowej lub objęta tajemnicą państwową uniemożliwia szczegółowe przedstawienie informacji o przebiegu swojej służby, pracy lub współpracy.”;  
 - **7)** w art. 12 skreśla się wyrazy „i strzec praworządności”;
 - **8)** w art. 13 pkt 4 otrzymuje brzmienie: „4) nie wypełnia obowiązków nałożonych przez ustawę lub działa na szkodę Instytutu Pamięci.”;
-- **9)** art. 15 otrzymuje brzmienie: „Art. 15. 1. W Instytucie Pamięci tworzy się Kolegium Instytutu Pamięci. Członkiem Kolegium Instytutu Pamięci może być obywatel polski wyróżniający się wysokimi walorami moralnymi oraz wiedzą przydatną w pracach Instytutu Pamięci. 2. Kolegium Instytutu Pamięci wybierane jest na kadencję trwającą 7 lat. Kadencja rozpoczyna się z dniem zebrania się Kolegium na pierwsze posiedzenie. 3. W skład Kolegium Instytutu Pamięci wchodzi 11 członków wybieranych przez Sejm Rzeczypospolitej Polskiej bezwzględną większością głosów, z tym że 2 kandydatów zgłasza Krajowa Rada Sądownictwa. 4. Członkostwo w Kolegium Instytutu Pamięci ustaje wskutek: 1) śmierci, 2) rezygnacji, 3) skazania prawomocnym wyrokiem za przestępstwo, 4) odwołania przez Sejm bezwzględną większością głosów, na wniosek Kolegium Instytutu Pamięci podjęty większością 2/3 głosów ustawowego składu Kolegium, z powodu długotrwałej choroby lub upadku sił powodujących trwałą niezdolność do pełnienia obowiązków albo z powodu niewypełniania obowiązków nałożonych przez ustawę. 5. Kolegium Instytutu Pamięci wybiera ze swego składu przewodniczącego Kolegium oraz nie więcej niż 3 jego zastępców na kadencję trwającą 1 rok. 6. Po ustaniu członkostwa przed upływem kadencji Sejm dokonuje wyboru nowego członka na okres do zakończenia kadencji Kolegium Instytutu Pamięci. 7. Za wykonywanie zadań członkowie Kolegium Instytutu Pamięci otrzymują diety określone przez Prezesa Rady Ministrów, w drodze rozporządzenia, a także zwrot kosztów według zasad obowiązujących przy podróżach służbowych na obszarze kraju.”;
-- **10)** w art. 32 dodaje się ust. 4 i 5 w brzmieniu: „4. Za szkodę wyrządzoną obywatelowi przez pracownika Instytutu Pamięci w związku z działalnością Instytutu ponosi odpowiedzialność Skarb Państwa na zasadach ogólnych. 5. Jeżeli do powództwa o naprawienie szkody wyrządzonej przez pracownika Instytutu Pamięci w związku z działalnością Instytutu załączono oświadczenie o braku służby, pracy lub współpracy z organami bezpieczeństwa państwa, o których mowa w art. 5, sąd zwalnia powoda od opłat sądowych.”;
+- **9)** art. 15 otrzymuje brzmienie:
+
+  > „Art. 15.  
+  > 1. W Instytucie Pamięci tworzy się Kolegium Instytutu Pamięci. Członkiem Kolegium Instytutu Pamięci może być obywatel polski wyróżniający się wysokimi walorami moralnymi oraz wiedzą przydatną w pracach Instytutu Pamięci.  
+  > 2. Kolegium Instytutu Pamięci wybierane jest na kadencję trwającą 7 lat. Kadencja rozpoczyna się z dniem zebrania się Kolegium na pierwsze posiedzenie.  
+  > 3. W skład Kolegium Instytutu Pamięci wchodzi 11 członków wybieranych przez Sejm Rzeczypospolitej Polskiej bezwzględną większością głosów, z tym że 2 kandydatów zgłasza Krajowa Rada Sądownictwa.  
+  > 4. Członkostwo w Kolegium Instytutu Pamięci ustaje wskutek:  
+  > 1) śmierci, 2) rezygnacji, 3) skazania prawomocnym wyrokiem za przestępstwo, 4) odwołania przez Sejm bezwzględną większością głosów, na wniosek Kolegium Instytutu Pamięci podjęty większością 2/3 głosów ustawowego składu Kolegium, z powodu długotrwałej choroby lub upadku sił powodujących trwałą niezdolność do pełnienia obowiązków albo z powodu niewypełniania obowiązków nałożonych przez ustawę.  
+  > 5. Kolegium Instytutu Pamięci wybiera ze swego składu przewodniczącego Kolegium oraz nie więcej niż 3 jego zastępców na kadencję trwającą 1 rok.  
+  > 6. Po ustaniu członkostwa przed upływem kadencji Sejm dokonuje wyboru nowego członka na okres do zakończenia kadencji Kolegium Instytutu Pamięci.  
+  > 7. Za wykonywanie zadań członkowie Kolegium Instytutu Pamięci otrzymują diety określone przez Prezesa Rady Ministrów, w drodze rozporządzenia, a także zwrot kosztów według zasad obowiązujących przy podróżach służbowych na obszarze kraju.”;  
+- **10)** w art. 32 dodaje się ust. 4 i 5 w brzmieniu:
+
+  > „4. Za szkodę wyrządzoną obywatelowi przez pracownika Instytutu Pamięci w związku z działalnością Instytutu ponosi odpowiedzialność Skarb Państwa na zasadach ogólnych.  
+  > 5. Jeżeli do powództwa o naprawienie szkody wyrządzonej przez pracownika Instytutu Pamięci w związku z działalnością Instytutu załączono oświadczenie o braku służby, pracy lub współpracy z organami bezpieczeństwa państwa, o których mowa w art. 5, sąd zwalnia powoda od opłat sądowych.”;  
 - **11)** w art. 34 w ust. 2 zdanie wstępne otrzymuje brzmienie: „W uzasadnionych przypadkach Prezes Instytutu Pamięci może zaniechać spełnienia żądania anonimizacji danych, jeżeli:”;
 - **12)** w art. 36:
     - **a)** skreśla się pkt 1,
@@ -75,7 +91,16 @@ source: pdf
 
 - **1)** w art. 3 w pkt 2 wyrazy „i aresztach polskich” zastępuje się wyrazami „lub innych miejscach odosobnienia na terytorium Polski”;
 - **2)** w art. 4 w ust. 1 w pkt 4 wyrazy „w więzieniach polskich” zastępuje się wyrazami „w więzieniach lub innych miejscach odosobnienia na terytorium Polski”;
-- **3)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Prezes Rady Ministrów, na wniosek Kierownika Urzędu do Spraw Kombatantów i Osób Represjonowanych, określi, w drodze rozporządzenia: 1) po zasięgnięciu opinii Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ministra właściwego do spraw obrony narodowej i ministra właściwego do spraw wewnętrznych - formacje i organizacje, o których mowa w art. 1 ust. 2 pkt 5 oraz art. 2 pkt 1, 2) po zasięgnięciu opinii Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu miejsca odosobnienia, w których warunki pobytu nie różniły się od warunków w obozach koncentracyjnych, a osoby tam osadzone pozostawały w dyspozycji hitlerowskich władz bezpieczeństwa, a także więzienia i obozy NKWD lub będące pod nadzorem NKWD, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości, oraz obozy, o których mowa w art. 3 pkt 2 i w art. 4 ust. 1 pkt 1 lit. b) i lit. c) oraz w pkt 3. 2. Na wniosek osoby zainteresowanej: 1) prezes sądu okręgowego, z zastrzeżeniem pkt 2 lit. a), potwierdza okoliczność, o której mowa w art. 4 ust. 1 pkt 4, 2) Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdza okoliczność, o której mowa: a) w art. 4 ust. 1 pkt 4, w przypadku osadzenia bez wyroku w więzieniu lub innym miejscu odosobnienia na terytorium Polski, b) w art. 4 ust. 2.”.
+- **3)** art. 8 otrzymuje brzmienie:
+
+  > „Art. 8.  
+  > 1. Prezes Rady Ministrów, na wniosek Kierownika Urzędu do Spraw Kombatantów i Osób Represjonowanych, określi, w drodze rozporządzenia:  
+  > 1) po zasięgnięciu opinii Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ministra właściwego do spraw obrony narodowej i ministra właściwego do spraw wewnętrznych - formacje i organizacje, o których mowa w art. 1 ust. 2 pkt 5 oraz art. 2 pkt 1, 2) po zasięgnięciu opinii Prezesa Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu miejsca odosobnienia, w których warunki pobytu nie różniły się od warunków w obozach koncentracyjnych, a osoby tam osadzone pozostawały w dyspozycji hitlerowskich władz bezpieczeństwa, a także więzienia i obozy NKWD lub będące pod nadzorem NKWD, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości, oraz obozy, o których mowa w art. 3 pkt 2 i w art. 4 ust. 1 pkt 1 lit.  
+  > b) i lit.  
+  > c) oraz w pkt 3.  
+  > 2. Na wniosek osoby zainteresowanej:  
+  > 1) prezes sądu okręgowego, z zastrzeżeniem pkt 2 lit. a), potwierdza okoliczność, o której mowa w art. 4 ust. 1 pkt 4, 2) Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdza okoliczność, o której mowa:  
+  > a) w art. 4 ust. 1 pkt 4, w przypadku osadzenia bez wyroku w więzieniu lub innym miejscu odosobnienia na terytorium Polski, b) w art. 4 ust. 2.”.  
 
 **Art. 4.** W ustawie z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U. Nr 155, poz.
 

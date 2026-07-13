@@ -28,12 +28,17 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie odbywania aplikacji sędziowskiej i aplikacji prokuratorskiej Na podstawie art. 52 pkt 2 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2022 r.
 poz. 217 i 2695) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 5 lutego 2018 r. w sprawie odbywania aplikacji sędziowskiej i aplikacji prokuratorskiej (Dz. U. z 2022 r. poz. 355) w § 5:
-1) ust. 2 otrzymuje brzmienie: „2. Zajęcia odbywają się w siedzibie Krajowej Szkoły lub w innym miejscu wyznaczonym przez Dyrektora Krajowej Szkoły.”;
-2) dodaje się ust. 3–5 w brzmieniu: „3. Dyrektor Krajowej Szkoły, kierując się możliwościami organizacyjnymi Krajowej Szkoły, wyznacza aplikantowi miejsce odbywania zajęć, położone możliwie najbliżej miejsca zamieszkania aplikanta.
-4. Pierwszy zjazd aplikantów w pierwszym roku odbywania aplikacji odbywa się w siedzibie Krajowej Szkoły.
-5. W szczególnie uzasadnionych przypadkach Dyrektor Krajowej Szkoły może uwzględnić wniosek aplikanta co do miejsca odbywania zajęć.”.
-§ 2. Do aplikantów aplikacji sędziowskiej i aplikacji prokuratorskiej, którzy rozpoczęli odbywanie aplikacji w Krajowej Szkole Sądownictwa i Prokuratury przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 5 lutego 2018 r. w sprawie odbywania aplikacji sędziowskiej i aplikacji prokuratorskiej (Dz. U. z 2022 r. poz. 355) w § 5:
+
+- **1)** ust. 2 otrzymuje brzmienie: „2. Zajęcia odbywają się w siedzibie Krajowej Szkoły lub w innym miejscu wyznaczonym przez Dyrektora Krajowej Szkoły.”;
+- **2)** dodaje się ust. 3–5 w brzmieniu:
+
+  > „3. Dyrektor Krajowej Szkoły, kierując się możliwościami organizacyjnymi Krajowej Szkoły, wyznacza aplikantowi miejsce odbywania zajęć, położone możliwie najbliżej miejsca zamieszkania aplikanta.  
+  > 4. Pierwszy zjazd aplikantów w pierwszym roku odbywania aplikacji odbywa się w siedzibie Krajowej Szkoły.  
+  > 5. W szczególnie uzasadnionych przypadkach Dyrektor Krajowej Szkoły może uwzględnić wniosek aplikanta co do miejsca odbywania zajęć.”.  
+
+**§ 2.** Do aplikantów aplikacji sędziowskiej i aplikacji prokuratorskiej, którzy rozpoczęli odbywanie aplikacji w Krajowej Szkole Sądownictwa i Prokuratury przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: W. Żurek
 

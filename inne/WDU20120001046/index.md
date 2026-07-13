@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001046) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1046/text.pdf) |
 
 zmieniające rozporządzenie w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów Na podstawie art. 114 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. Nr 211, poz. 1633 oraz z 2010 r. Nr 188, poz. 1263) w § 1 część „18. Budownictwo, gospodarka przestrzenna i mieszkaniowa” otrzymuje brzmienie: „18. Budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r., z tym że przepisy § 1 rozporządzenia mają zastosowanie do opracowania projektu ustawy budżetowej na rok 2013.
-Minister Finansów: wz. M. Grabowski
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. Nr 211, poz. 1633 oraz z 2010 r. Nr 188, poz. 1263) w § 1 część „18. Budownictwo, gospodarka przestrzenna i mieszkaniowa” otrzymuje brzmienie: „18. Budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r., z tym że przepisy § 1 rozporządzenia mają zastosowanie do opracowania projektu ustawy budżetowej na rok 2013. Minister Finansów: wz. M. Grabowski
 

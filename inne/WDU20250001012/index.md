@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001012) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1012/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907 oraz z 2025 r. poz. 526 i 820) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. z 2025 r. poz. 925) w § 3 w pkt 10 lit. e otrzymuje brzmienie: „e) Sąd Rejonowy w Ostrowie Wielkopolskim – dla miasta Ostrów Wielkopolski oraz gmin: Nowe Skalmierzyce, Odolanów, Ostrów Wielkopolski, Przygodzice, Raszków, Sieroszewice i Sośnie oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2025 r.
-Minister Sprawiedliwości: A. Bodnar
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. z 2025 r. poz. 925) w § 3 w pkt 10 lit. e otrzymuje brzmienie: „e) Sąd Rejonowy w Ostrowie Wielkopolskim – dla miasta Ostrów Wielkopolski oraz gmin: Nowe Skalmierzyce, Odolanów, Ostrów Wielkopolski, Przygodzice, Raszków, Sieroszewice i Sośnie oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2025 r. Minister Sprawiedliwości: A. Bodnar
 

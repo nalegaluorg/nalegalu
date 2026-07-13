@@ -26,12 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1385/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ramowego programu szkolenia kandydatów na egzaminatorów, sposobu prowadzenia ewidencji egzaminatorów oraz trybu wpisywania i skreślania egzaminatorów z ewidencji Na podstawie art. 9c ust. 8 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2015 r. poz. 2156 oraz z 2016 r. poz. 35, 64, 195, 668 i 1010) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 21 kwietnia 2009 r. w sprawie ramowego programu szkolenia kandydatów na egzaminatorów, sposobu prowadzenia ewidencji egzaminatorów oraz trybu wpisywania i skreślania egzaminatorów z ewidencji (Dz. U. z 2015 r. poz. 1305) wprowadza się następujące zmiany:
-1) w § 1 uchyla się pkt 1;
-2) w § 5 w ust. 1:
-a) w pkt 9 w lit. a skreśla się wyrazy „sprawdzian przeprowadzany w ostatnim roku nauki w szkole podstawowej i”,
-b) w pkt 11 w lit. a w tiret drugim skreśla się wyrazy „sprawdzianu przeprowadzanego w ostatnim roku nauki w szkole podstawowej,”;
-3) uchyla się załącznik nr 1 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji Narodowej: A. Zalewska
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 21 kwietnia 2009 r. w sprawie ramowego programu szkolenia kandydatów na egzaminatorów, sposobu prowadzenia ewidencji egzaminatorów oraz trybu wpisywania i skreślania egzaminatorów z ewidencji (Dz. U. z 2015 r. poz. 1305) wprowadza się następujące zmiany:
+
+- **1)** w § 1 uchyla się pkt 1;
+- **2)** w § 5 w ust. 1:
+    - **a)** w pkt 9 w lit. a skreśla się wyrazy „sprawdzian przeprowadzany w ostatnim roku nauki w szkole podstawowej i”,
+    - **b)** w pkt 11 w lit. a w tiret drugim skreśla się wyrazy „sprawdzianu przeprowadzanego w ostatnim roku nauki w szkole podstawowej,”;
+
+- **3)** uchyla się załącznik nr 1 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji Narodowej: A. Zalewska
 

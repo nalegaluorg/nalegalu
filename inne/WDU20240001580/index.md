@@ -30,97 +30,6 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2–7 rozporządzenia Prezesa Rady Ministrów z dnia 21 czerwca 2023 r. zmieniającego rozporządzenie w sprawie osób prawnych zastępowanych przez Prokuratorię Generalną Rzeczypospolitej Polskiej oraz opłat ponoszonych za usługi prawne świadczone przez Prokuratorię Generalną Rzeczypospolitej Polskiej, a także opłat za przeprowadzenie postępowania przed Sądem Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 1196), które stanowią: „ § 2. 1. Do wysokości opłat za: 1) czynności zastępstwa w postępowaniach odwoławczych i w postępowaniach wszczętych na skutek wniesienia nadzwyczajnego środka zaskarżenia, rozpoczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia, 2) przeprowadzenie postępowania przed Sądem Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej w sprawie o prawa majątkowe, w której wartość przedmiotu sprawy przekracza 200 000 zł, rozpoczętego i niezakończonego do dnia wejścia w życie niniejszego rozporządzenia – stosuje się przepisy dotychczasowe. 2. Przez rozpoczęcie postępowania, o którym mowa w ust. 1: 1) pkt 1, rozumie się dokonanie przez Prokuratorię Generalną Rzeczypospolitej Polskiej pierwszej czynności zastępstwa w związku z wniesieniem środka zaskarżenia, o którym mowa w § 6 ust. 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem; 2) pkt 2, rozumie się wpływ do Sądu Polubownego przy Prokuratorii Generalnej Rzeczypospolitej Polskiej wniosku, o którym mowa w § 9 ust. 1 rozporządzenia zmienianego w § 1. § 3. Jeżeli przed dniem wejścia w życie niniejszego rozporządzenia sąd rozstrzygnął o przekazaniu sprawy do ponownego rozpoznania, opłatę za wykonywanie zastępstwa osoby zastępowanej w postępowaniu toczącym się na skutek tego przekazania uiszcza się w wysokości zgodnej z przepisami § 6 ust. 1, 2, 4 i 5 rozporządzenia zmienianego w § 1, w dotychczasowym brzmieniu. § 4. Jeżeli przed dniem wejścia w życie niniejszego rozporządzenia Prokuratoria Generalna Rzeczypospolitej Polskiej: 1) przekazała sprawę do prowadzenia osobie zastępowanej, 2) odmówiła wydania opinii prawnej, której wydanie nie było niedopuszczalne – do wysokości rocznej opłaty abonamentowej w roku 2024, stosuje się odpowiednio przepisy § 8 ust. 5 pkt 2 i 3 rozporządzenia zmienianego w § 1, w dotychczasowym brzmieniu. § 5. Jeżeli przed dniem wejścia w życie niniejszego rozporządzenia: 1) Prokuratoria Generalna Rzeczypospolitej Polskiej przekazała informację o dokonaniu pierwszej czynności w postępowaniu sądowym lub arbitrażowym lub przekazała opinię prawną, 2) odbyło się albo miało odbyć się ostatnie posiedzenie Sądu Polubownego przy Prokuratorii Generalnej Rzeczypospolitej Polskiej – do ustalania terminów uiszczania opłat za czynności zastępstwa, opinie prawne i przeprowadzenie postępowania przed Sądem Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej stosuje się odpowiednio przepisy § 8 ust. 3 lub § 10 ust. 3 rozporządzenia zmienianego w § 1, w dotychczasowym brzmieniu. § 6. 1. Podmioty, o których mowa w załączniku w części I w grupie A pkt 1 lp. 52–57, w grupie B pkt 1 lp. 13, pkt 4 lp. 13, pkt 5 lp. 72 i pkt 6a lp. 1, 7 i 22 oraz w grupie C pkt 4 lp. 1 rozporządzenia zmienianego w § 1, wnoszą opłatę za rok 2023 określoną w § 5 ust. 1 rozporządzenia zmienianego w § 1 w terminie miesiąca od dnia wejścia w życie niniejszego rozporządzenia, w wysokości proporcjonalnej do liczby dni pozostałych od dnia wejścia w życie niniejszego rozporządzenia do końca roku 2023 w stosunku do liczby dni w tym roku. 2. Na poczet opłaty za rok 2023, o której mowa w ust. 1, oraz opłat za lata następne, należnych od podmiotu, o którym mowa w załączniku w części I w grupie B pkt 6a: 1) lp. 1 rozporządzenia zmienianego w § 1, zalicza się do ich wyczerpania opłaty uiszczone przez podmioty, o których mowa w załączniku w części I w grupie B pkt 6 lp. 13, 55 i 74 zmienianego rozporządzenia, w dotychczasowym brzmieniu; 2) lp. 7 rozporządzenia zmienianego w § 1, zalicza się do ich wyczerpania opłaty uiszczone przez podmioty, o których mowa w załączniku w części I w grupie B pkt 6 lp. 33, 46, 52, 66 i 86 zmienianego rozporządzenia, w dotychczasowym brzmieniu; 3) lp. 9 rozporządzenia zmienianego w § 1, zalicza się do ich wyczerpania opłaty uiszczone przez podmiot, o którym mowa w załączniku w części I w grupie B pkt 6 lp. 37 i 38 zmienianego rozporządzenia, w dotychczasowym brzmieniu; 4) lp. 11 rozporządzenia zmienianego w § 1, zalicza się do ich wyczerpania opłaty uiszczone przez podmioty, o których mowa w załączniku w części I w grupie B pkt 6 lp. 40, 44 i 58 zmienianego rozporządzenia, w dotychczasowym brzmieniu. 3. Na poczet opłaty określonej w § 5 ust. 1 rozporządzenia zmienianego w § 1 należnej od podmiotu, o którym mowa w załączniku w części I w grupie B pkt 6a: 1) lp. 14 rozporządzenia zmienianego w § 1, zalicza się do jej wyczerpania opłatę uiszczoną przez podmiot, o którym mowa w załączniku w części I w grupie C pkt 3 lp. 11 zmienianego rozporządzenia, w dotychczasowym brzmieniu; 2) lp. 21 rozporządzenia zmienianego w § 1, zalicza się do jej wyczerpania opłatę uiszczoną przez podmioty, o których mowa w załączniku w części I w grupie B pkt 6 lp. 75 i w grupie C pkt 3 lp. 14 zmienianego rozporządzenia, w dotychczasowym brzmieniu. § 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 6 lit. a tiret trzecie podwójne tiret piąte: 1) potrójne tiret trzynaste w zakresie lp. 65 i potrójne tiret czternaste, które wchodzą w życie z dniem 1 sierpnia 2023 r.; 2) potrójne tiret ósme w zakresie lp. 39, potrójne tiret dziesiąte w zakresie lp. 51 i potrójne tiret trzynaste w zakresie lp. 64, które wchodzą w życie z dniem 1 października 2023 r.”. Prezes Rady Ministrów: D. Tusk
 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 11 maja 2017 r.
 w sprawie osób prawnych zastępowanych przez Prokuratorię Generalną Rzeczypospolitej Polskiej oraz opłat ponoszonych za usługi prawne świadczone przez Prokuratorię Generalną Rzeczypospolitej Polskiej, a także opłat za przeprowadzenie postępowania przed Sądem Polubownym przy Prokuratorii Generalnej Rzeczypospolitej Polskiej Na podstawie art. 12 ust. 3 oraz art. 27 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2024 r. poz. 1192) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) osoby prawne, których zastępstwo wykonuje Prokuratoria Generalna Rzeczypospolitej Polskiej, zwana dalej „Prokuratorią Generalną”;
-2) sposób i tryb uiszczania oraz wysokość opłat za:
-a) wykonywanie zastępstwa przez Prokuratorię Generalną, o których mowa w art. 12 ust. 11 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej, zwanej dalej „ustawą”,
-b) wydawanie opinii prawnych przez Prokuratorię Generalną, o których mowa w art. 19 ust. 4 ustawy,
-c) przeprowadzenie postępowania przed Sądem Polubownym przy Prokuratorii Generalnej, zwanym dalej „Sądem Polubownym”, o których mowa w art. 26 ust. 5 ustawy.
-§ 2. Listę osób prawnych, których zastępstwo wykonuje Prokuratoria Generalna, określa załącznik do rozporządzenia.
-§ 3. Do opłat, o których mowa w § 5, § 6, § 9 i § 10, dolicza się należny podatek VAT.
-§ 4. Opłaty, o których mowa w § 5, § 6, § 9 i § 10, wpłaca się na rachunek bankowy Urzędu Prokuratorii Generalnej ‒ subkonto dochodów budżetu państwa.
-§ 5. 1. Osoba zastępowana, o której mowa w art. 12 ust. 1 pkt 1 ustawy, uiszcza na rzecz Skarbu Państwa ‒ Prokuratorii Generalnej za wykonywanie zastępstwa oraz za wydawanie opinii prawnych, za rok kalendarzowy, opłatę, zwaną dalej „roczną opłatą abonamentową”, w wysokości:
-1) 0 zł ‒ w przypadku osoby, o której mowa w części I w grupie 0 załącznika do rozporządzenia;
-2) 1000 zł ‒ w przypadku osoby, o której mowa w części I w grupie A załącznika do rozporządzenia;
-3) 5000 zł ‒ w przypadku osoby, o której mowa w części I w grupie B załącznika do rozporządzenia;
-4) 10 000 zł ‒ w przypadku osoby, o której mowa w części I w grupie C załącznika do rozporządzenia;
-5) 20 000 zł ‒ w przypadku osoby, o której mowa w części I w grupie D załącznika do rozporządzenia;
-6) 50 000 zł ‒ w przypadku osoby, o której mowa w części I w grupie E załącznika do rozporządzenia;
-7) 100 000 zł ‒ w przypadku osoby, o której mowa w części I w grupie F załącznika do rozporządzenia;
-8) 200 000 zł ‒ w przypadku osoby, o której mowa w części I w grupie G załącznika do rozporządzenia.
-2. Osoba zastępowana, o której mowa w art. 12 ust. 1 pkt 2 i 3 ustawy, która wyraziła zgodę, o której mowa w art. 12 ust. 5 pkt 2 ustawy, uiszcza roczną opłatę abonamentową w wysokości:
-1) 100 000 zł ‒ w przypadku osoby, o której mowa w części II w grupie A załącznika do rozporządzenia;
-2) 200 000 zł ‒ w przypadku osoby, o której mowa w części II w grupie B załącznika do rozporządzenia.
-3. Osoba zastępowana, o której mowa w art. 12 ust. 7 ustawy, uiszcza opłatę za wykonywanie zastępstwa zgodnie z § 6 i § 7 ust. 5. Przepis § 8 ust. 3 stosuje się odpowiednio.
-4. Jeżeli osoba zastępowana, będąca osobą prawną z udziałem Skarbu Państwa lub osobą prawną z udziałem państwowych osób prawnych, uzyska status państwowej osoby prawnej w rozumieniu art. 3 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125 i 834), uiszcza roczną opłatę abonamentową w dotychczasowej wysokości w okresie od dnia zmiany statusu prawnego do końca roku kalendarzowego.
-5. Jeżeli osoba zastępowana, będąca państwową osobą prawną, uzyska status osoby prawnej z udziałem Skarbu Państwa lub osoby prawnej z udziałem państwowej osoby prawnej, uiszcza roczną opłatę abonamentową w dotychczasowej wysokości w okresie od dnia zmiany statusu prawnego do końca roku kalendarzowego.
-6. W przypadku zmiany formy organizacyjno-prawnej osoba zastępowana, będąca państwową osobą prawną, uiszcza roczną opłatę abonamentową w dotychczasowej wysokości w okresie od dnia zmiany tej formy do końca roku kalendarzowego.
-7. Osoby zastępowane, które uiściły roczną opłatę abonamentową za rok, w którym nastąpiła zmiana ich statusu, nie uiszczają kolejnej rocznej opłaty abonamentowej za ten rok.
-§ 6. 1. Za wykonywanie zastępstwa osoby zastępowanej:
-1) w sprawach majątkowych w pierwszej instancji, w których wartość przedmiotu sprawy wynosi:
-a) do 5000 zł – uiszcza się opłatę w wysokości 900 zł,
-b) powyżej 5000 zł do 10 000 zł – uiszcza się opłatę w wysokości 3600 zł,
-c) powyżej 10 000 zł do 50 000 zł – uiszcza się opłatę w wysokości 7200 zł,
-d) powyżej 50 000 zł do 200 000 zł – uiszcza się opłatę w wysokości 10 800 zł,
-e) powyżej 200 000 zł do 2 000 000 zł – uiszcza się opłatę w wysokości 21 600 zł,
-f) powyżej 2 000 000 zł do 5 000 000 zł – uiszcza się opłatę w wysokości 30 000 zł,
-g) powyżej 5 000 000 zł do 10 000 000 zł – uiszcza się opłatę w wysokości 50 000 zł,
-h) powyżej 10 000 000 zł – uiszcza się opłatę w wysokości 70 000 zł;
-2) w sprawach majątkowych w postępowaniu odwoławczym i w postępowaniu wszczętym na skutek wniesienia nadzwyczajnego środka zaskarżenia, w których wartość przedmiotu sprawy wynosi:
-a) do 5000 zł – uiszcza się opłatę w wysokości 450 zł,
-b) powyżej 5000 zł do 10 000 zł – uiszcza się opłatę w wysokości 1800 zł,
-c) powyżej 10 000 zł do 50 000 zł – uiszcza się opłatę w wysokości 3600 zł,
-d) powyżej 50 000 zł do 200 000 zł – uiszcza się opłatę w wysokości 5400 zł,
-e) powyżej 200 000 zł do 2 000 000 zł – uiszcza się opłatę w wysokości 10 800 zł,
-f) powyżej 2 000 000 zł do 5 000 000 zł – uiszcza się opłatę w wysokości 15 000 zł,
-g) powyżej 5 000 000 zł do 10 000 000 zł – uiszcza się opłatę w wysokości 25 000 zł,
-h) powyżej 10 000 000 zł – uiszcza się opłatę w wysokości 35 000 zł;
-3) w sprawach majątkowych, w których ze względu na charakter sprawy nie można określić wartości przedmiotu sprawy, i w sprawach o prawa niemajątkowe:
-a) w pierwszej instancji – uiszcza się opłatę w wysokości 10 000 zł,
-b) w postępowaniu odwoławczym i w postępowaniu wszczętym na skutek wniesienia nadzwyczajnego środka zaskarżenia – uiszcza się opłatę w wysokości 5000 zł.
-2. Do ustalania wartości przedmiotu sprawy:
-1) w pierwszej instancji stosuje się odpowiednio przepisy o ustalaniu wartości przedmiotu sporu w postępowaniu cywilnym;
-2) w postępowaniu odwoławczym i w postępowaniu wszczętym na skutek wniesienia nadzwyczajnego środka zaskarżenia stosuje się odpowiednio przepisy o ustalaniu wartości przedmiotu zaskarżenia w postępowaniu cywilnym.
-3. W przypadku postępowania, o którym mowa w ust. 1 pkt 2 i pkt 3 lit. b, opłatę uiszcza się w odniesieniu do każdego środka zaskarżenia co do istoty sprawy wniesionego przez każdą ze stron postępowania lub w odniesieniu do każdego środka zaskarżenia na rozstrzygnięcie, którego przedmiotem jest zwrot kosztów, określenie zasad ponoszenia przez strony kosztów procesu, zwrot opłaty lub obciążenie kosztami sądowymi, jeżeli dana strona nie składa środka zaskarżenia co do istoty sprawy. Łączna wysokość tych opłat w danym postępowaniu nie może przekraczać opłaty należnej za wykonywanie zastępstwa w pierwszej instancji.
-4. W przypadku przekazania przez sąd sprawy do ponownego rozpoznania opłatę za wykonywanie zastępstwa osoby zastępowanej w postępowaniu toczącym się na skutek tego przekazania uiszcza się zgodnie z przepisami ust. 1–3.
-5. Opłata za wykonywanie zastępstwa osoby zastępowanej przed sądem polubownym jest obliczana jako dwukrotność stawki określonej w ust. 1 pkt 1. Jeżeli miejsce arbitrażu znajduje się poza granicami Rzeczypospolitej Polskiej, opłata jest obliczana jako trzykrotność stawki określonej w ust. 1 pkt 1.
-6. Opłata za sporządzenie opinii prawnej na zlecenie osoby zastępowanej zależy od koniecznego nakładu pracy i wynosi 300 zł za ekwiwalent godziny pracy radcy Prokuratorii Generalnej koniecznej dla sporządzenia opinii. Prezes Prokuratorii Generalnej lub upoważniony radca przed sporządzeniem opinii przedstawia osobie zastępowanej szacunek co do nakładu pracy potrzebnego do sporządzenia opinii.
-§ 7. 1. Opłaty ustalone zgodnie z § 6 są pokrywane z uiszczonej przez osobę zastępowaną rocznej opłaty abonamentowej do wysokości tej opłaty.
-2. Wykorzystanie rocznej opłaty abonamentowej oblicza się w ten sposób, że od kwoty uiszczonej rocznej opłaty abonamentowej odejmuje się kolejno opłaty za wykonywanie zastępstwa i sporządzenie opinii prawnych w danym roku kalendarzowym.
-3. W zakresie przewyższającym wysokość uiszczonej rocznej opłaty abonamentowej osoba zastępowana uiszcza brakującą opłatę zgodnie z § 6.
-4. Przepisu ust. 3 nie stosuje się do:
-1) parków narodowych,
-2) muzeów i państwowych instytucji kultury,
-3) uczelni publicznych i instytutów badawczych,
-4) Centrum Doradztwa Rolniczego i wojewódzkich jednostek doradztwa rolniczego,
-5) Narodowego Funduszu Zdrowia,
-6) Zakładu Ubezpieczeń Społecznych,
-7) Centrum Łukasiewicz, 7a) instytutów działających w ramach Sieci Badawczej Łukasiewicz,
-8) Państwowego Gospodarstwa Wodnego Wody Polskie,
-9) Urzędu Komisji Nadzoru Finansowego,
-10) Rządowej Agencji Rezerw Strategicznych – o ile wartość przedmiotu sprawy przewyższa 5 000 000 zł, a wykonywanie przez Prokuratorię Generalną zastępstwa tych państwowych osób prawnych nie stanowi niedozwolonej pomocy publicznej.
-5. Jeżeli uzasadnia to szczególny charakter sprawy, stopień skomplikowania sprawy lub sytuacja majątkowa osoby zastępowanej opłata za wykonywanie zastępstwa tej osoby lub za sporządzenie opinii prawnej na jej zlecenie może zostać obniżona przez Prezesa Prokuratorii Generalnej, jednak nie więcej niż o 50 %, jeżeli nie stanowi to niedozwolonej pomocy publicznej.
-§ 8. 1. Roczną opłatę abonamentową osoba zastępowana uiszcza z góry do końca pierwszego kwartału każdego roku kalendarzowego.
-2. Osoba zastępowana, o której mowa w art. 12 ust. 1 pkt 2 i 3 ustawy, wnosi pierwszą roczną opłatę abonamentową w terminie miesiąca od wyrażenia zgody w wysokości proporcjonalnej do liczby dni pozostałych do końca roku kalendarzowego, w którym wyrażono tę zgodę, w stosunku do liczby dni w roku kalendarzowym.
-3. Opłatę w zakresie przewyższającym wysokość uiszczonej rocznej opłaty abonamentowej, o której mowa w § 7 ust. 3, uiszcza się w terminie 14 dni od dnia doręczenia faktury.
-4. Jeżeli w danym roku kalendarzowym Prokuratoria Generalna nie wykonywała na rzecz osoby zastępowanej czynności zastępstwa i nie wydała ani jednej opinii prawnej, roczna opłata abonamentowa ulega zaliczeniu na poczet rocznej opłaty abonamentowej na kolejny rok kalendarzowy.
-5. Wysokość rocznej opłaty abonamentowej ulega obniżeniu w następnym roku kalendarzowym o:
-1) wysokość kosztów zastępstwa, o których mowa w art. 32 ust. 6 ustawy, przekazanych Prokuratorii Generalnej przez osobę zastępowaną;
-2) (uchylony);
-3) (uchylony).
-§ 9. 1. Wysokość opłaty za przeprowadzenie postępowania przed Sądem Polubownym w przypadku wystąpienia z wnioskiem o rozstrzygnięcie sporu przez ten sąd wynosi 10 000 zł.
-2. W przypadku gdy w sprawie o prawa majątkowe poddanej rozstrzygnięciu Sądu Polubownego wartość przedmiotu sprawy przekracza 200 000 zł, wysokość opłaty za przeprowadzenie postępowania przed tym sądem wynosi 5 % wartości przedmiotu sprawy, jednak nie więcej niż 100 000 zł. Do ustalania wartości przedmiotu sprawy stosuje się odpowiednio przepisy o ustalaniu wartości przedmiotu sporu w postępowaniu cywilnym.
-3. W sprawach rozstrzyganych w składzie jednoosobowym wysokość opłaty wynosi 50 % opłaty ustalonej zgodnie z ust. 1 i 2.
-4. Podmiot występujący z wnioskiem o rozstrzygnięcie sporu przez Sąd Polubowny dołącza do wniosku dowód uiszczenia opłaty.
-§ 10. 1. Wysokość opłaty za przeprowadzenie postępowania przed Sądem Polubownym w przypadku wystąpienia z wnioskiem o przeprowadzenie mediacji lub inne polubowne rozwiązanie sporu przez ten sąd wynosi 5000 zł.
-1a. Do wysokości opłaty za przeprowadzenie postępowania przed Sądem Polubownym w przypadku wystąpienia z wnioskiem o przeprowadzenie mediacji przez sąd powszechny zastosowanie mają przepisy wydane na podstawie art. 98 § 4 ustawy z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568).
-2. W przypadku odbycia w postępowaniu więcej niż 3 posiedzeń opłata, o której mowa w ust. 1, zwiększa się o 1000 zł za każde kolejne posiedzenie.
-3. Opłatę uiszcza się w terminie 14 dni od dnia doręczenia faktury.
-§ 11. Wniosek składany przez więcej niż jedną osobę w przypadkach, o których mowa w § 9 i § 10, podlega jednej opłacie.
-§ 12. Opłatę, o której mowa w § 5 ust. 1 i 2, za rok 2017 uiszcza się w wysokości 50 % stawki określonej w tych przepisach w terminie do dnia 31 sierpnia 2017 r.
-§ 13. Do osoby prawnej określonej w części I w grupie E w pkt 3 poz. 1 załącznika do rozporządzenia przepisy rozporządzenia stosuje się od dnia 1 stycznia 2020 r.
-§ 14. Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.
-LISTA OSÓB PRAWNYCH, KTÓRYCH ZASTĘPSTWO WYKONUJE PROKURATORIA GENERALNA RZECZYPOSPOLITEJ POLSKIEJ
 1) parki narodowe Lp. Nazwa Siedziba Nr REGON 1 Babiogórski Park Narodowy Zawoja 122462192 2 Białowieski Park Narodowy Białowieża 200664828 3 Biebrzański Park Narodowy Osowiec-Twierdza 200667985 4 Bieszczadzki Park Narodowy Ustrzyki Górne 180792174 5 Drawieński Park Narodowy Drawno 321169489 6 Gorczański Park Narodowy Poręba Wielka 122461287 7 Kampinoski Park Narodowy Izabelin 145916637 8 Karkonoski Park Narodowy Jelenia Góra 021781314 9 Magurski Park Narodowy Krempna 180789309 10 Narwiański Park Narodowy Kurów 200668080 11 Ojcowski Park Narodowy Ojców 122457363 12 Park Narodowy „Bory Tucholskie” Charzykowy 221580414 13 Park Narodowy Gór Stołowych Kudowa-Zdrój 021783891 14 Park Narodowy „Ujście Warty” Chyrzyno 081005974 15 Pieniński Park Narodowy Krościenko nad Dunajcem 122456671 16 Poleski Park Narodowy Urszulin 061360188 17 Roztoczański Park Narodowy Zwierzyniec 061362589 18 Słowiński Park Narodowy Smołdzino 221578400 19 Świętokrzyski Park Narodowy Bodzentyn 260571899 20 Tatrzański Park Narodowy Zakopane 122456180 21 Wielkopolski Park Narodowy Jeziory 301997776 22 Wigierski Park Narodowy Krzywe 200664930 23 Woliński Park Narodowy Międzyzdroje 321169472
 2) jednoosobowe spółki Skarbu Państwa Lp. Nazwa Siedziba Nr KRS 1 Centralna Stacja Ratownictwa Górniczego S.A. Bytom 0000223325 2 Centrum Badań i Dozoru sp. z o.o. Lędziny 0000067459 3 (uchylona) 4 (uchylona) 5 Kopalnia Soli „Wieliczka” S.A. Wieliczka 0000278401 6 Polskie Pracownie Konserwacji Zabytków S.A. w likwidacji Warszawa 0000078704 7 Przedsiębiorstwo Budowy Tras Komunikacyjnych „TRAKT” Szczecin 0000313140 w Szczecinie Sp. z o.o.
 8 Przedsiębiorstwo Komunikacji Samochodowej Częstochowa 0000222666 „Częstochowa” w Częstochowie S.A.
@@ -174,6 +83,156 @@ LISTA OSÓB PRAWNYCH, KTÓRYCH ZASTĘPSTWO WYKONUJE PROKURATORIA GENERALNA RZECZ
 3) instytucje gospodarki budżetowej Lp. Nazwa Siedziba Nr KRS 1 Zakład Inwestycji Organizacji Traktatu Warszawa 0000370758 Północnoatlantyckiego
 4) państwowe osoby prawne utworzone szczególną ustawą Lp. Nazwa Siedziba Nr REGON 1 Narodowy Fundusz Zdrowia Warszawa 015817985 2 Bank Gospodarstwa Krajowego Warszawa 000017319
 5) inne państwowe osoby prawne Lp. Nazwa Siedziba Nr KRS 1 PKP Polskie Linie Kolejowe S.A. Warszawa 0000037568 2 (uchylona) 3 (uchylona) 4 Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A. Warszawa 0000264771
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** osoby prawne, których zastępstwo wykonuje Prokuratoria Generalna Rzeczypospolitej Polskiej, zwana dalej „Prokuratorią Generalną”;
+- **2)** sposób i tryb uiszczania oraz wysokość opłat za:
+    - **a)** wykonywanie zastępstwa przez Prokuratorię Generalną, o których mowa w art. 12 ust. 11 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej, zwanej dalej „ustawą”,
+    - **b)** wydawanie opinii prawnych przez Prokuratorię Generalną, o których mowa w art. 19 ust. 4 ustawy,
+    - **c)** przeprowadzenie postępowania przed Sądem Polubownym przy Prokuratorii Generalnej, zwanym dalej „Sądem Polubownym”, o których mowa w art. 26 ust. 5 ustawy.
+
+**§ 2.** Listę osób prawnych, których zastępstwo wykonuje Prokuratoria Generalna, określa załącznik do rozporządzenia.
+
+**§ 3.** Do opłat, o których mowa w § 5, § 6, § 9 i § 10, dolicza się należny podatek VAT.
+
+**§ 4.** Opłaty, o których mowa w § 5, § 6, § 9 i § 10, wpłaca się na rachunek bankowy Urzędu Prokuratorii Generalnej ‒ subkonto dochodów budżetu państwa.
+
+**§ 5.**
+
+1. Osoba zastępowana, o której mowa w art. 12 ust. 1 pkt 1 ustawy, uiszcza na rzecz Skarbu Państwa ‒ Prokuratorii Generalnej za wykonywanie zastępstwa oraz za wydawanie opinii prawnych, za rok kalendarzowy, opłatę, zwaną dalej „roczną opłatą abonamentową”, w wysokości:
+
+- **1)** 0 zł ‒ w przypadku osoby, o której mowa w części I w grupie 0 załącznika do rozporządzenia;
+- **2)** 1000 zł ‒ w przypadku osoby, o której mowa w części I w grupie A załącznika do rozporządzenia;
+- **3)** 5000 zł ‒ w przypadku osoby, o której mowa w części I w grupie B załącznika do rozporządzenia;
+- **4)** 10 000 zł ‒ w przypadku osoby, o której mowa w części I w grupie C załącznika do rozporządzenia;
+- **5)** 20 000 zł ‒ w przypadku osoby, o której mowa w części I w grupie D załącznika do rozporządzenia;
+- **6)** 50 000 zł ‒ w przypadku osoby, o której mowa w części I w grupie E załącznika do rozporządzenia;
+- **7)** 100 000 zł ‒ w przypadku osoby, o której mowa w części I w grupie F załącznika do rozporządzenia;
+- **8)** 200 000 zł ‒ w przypadku osoby, o której mowa w części I w grupie G załącznika do rozporządzenia.
+
+2. Osoba zastępowana, o której mowa w art. 12 ust. 1 pkt 2 i 3 ustawy, która wyraziła zgodę, o której mowa w art. 12 ust. 5 pkt 2 ustawy, uiszcza roczną opłatę abonamentową w wysokości:
+
+- **1)** 100 000 zł ‒ w przypadku osoby, o której mowa w części II w grupie A załącznika do rozporządzenia;
+- **2)** 200 000 zł ‒ w przypadku osoby, o której mowa w części II w grupie B załącznika do rozporządzenia.
+
+3. Osoba zastępowana, o której mowa w art. 12 ust. 7 ustawy, uiszcza opłatę za wykonywanie zastępstwa zgodnie z § 6 i § 7 ust. 5. Przepis § 8 ust. 3 stosuje się odpowiednio.
+
+4. Jeżeli osoba zastępowana, będąca osobą prawną z udziałem Skarbu Państwa lub osobą prawną z udziałem państwowych osób prawnych, uzyska status państwowej osoby prawnej w rozumieniu art. 3 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125 i 834), uiszcza roczną opłatę abonamentową w dotychczasowej wysokości w okresie od dnia zmiany statusu prawnego do końca roku kalendarzowego.
+
+5. Jeżeli osoba zastępowana, będąca państwową osobą prawną, uzyska status osoby prawnej z udziałem Skarbu Państwa lub osoby prawnej z udziałem państwowej osoby prawnej, uiszcza roczną opłatę abonamentową w dotychczasowej wysokości w okresie od dnia zmiany statusu prawnego do końca roku kalendarzowego.
+
+6. W przypadku zmiany formy organizacyjno-prawnej osoba zastępowana, będąca państwową osobą prawną, uiszcza roczną opłatę abonamentową w dotychczasowej wysokości w okresie od dnia zmiany tej formy do końca roku kalendarzowego.
+
+7. Osoby zastępowane, które uiściły roczną opłatę abonamentową za rok, w którym nastąpiła zmiana ich statusu, nie uiszczają kolejnej rocznej opłaty abonamentowej za ten rok.
+
+**§ 6.**
+
+1. Za wykonywanie zastępstwa osoby zastępowanej:
+
+- **1)** w sprawach majątkowych w pierwszej instancji, w których wartość przedmiotu sprawy wynosi:
+    - **a)** do 5000 zł – uiszcza się opłatę w wysokości 900 zł,
+    - **b)** powyżej 5000 zł do 10 000 zł – uiszcza się opłatę w wysokości 3600 zł,
+    - **c)** powyżej 10 000 zł do 50 000 zł – uiszcza się opłatę w wysokości 7200 zł,
+    - **d)** powyżej 50 000 zł do 200 000 zł – uiszcza się opłatę w wysokości 10 800 zł,
+    - **e)** powyżej 200 000 zł do 2 000 000 zł – uiszcza się opłatę w wysokości 21 600 zł,
+    - **f)** powyżej 2 000 000 zł do 5 000 000 zł – uiszcza się opłatę w wysokości 30 000 zł,
+    - **g)** powyżej 5 000 000 zł do 10 000 000 zł – uiszcza się opłatę w wysokości 50 000 zł,
+    - **h)** powyżej 10 000 000 zł – uiszcza się opłatę w wysokości 70 000 zł;
+
+- **2)** w sprawach majątkowych w postępowaniu odwoławczym i w postępowaniu wszczętym na skutek wniesienia nadzwyczajnego środka zaskarżenia, w których wartość przedmiotu sprawy wynosi:
+    - **a)** do 5000 zł – uiszcza się opłatę w wysokości 450 zł,
+    - **b)** powyżej 5000 zł do 10 000 zł – uiszcza się opłatę w wysokości 1800 zł,
+    - **c)** powyżej 10 000 zł do 50 000 zł – uiszcza się opłatę w wysokości 3600 zł,
+    - **d)** powyżej 50 000 zł do 200 000 zł – uiszcza się opłatę w wysokości 5400 zł,
+    - **e)** powyżej 200 000 zł do 2 000 000 zł – uiszcza się opłatę w wysokości 10 800 zł,
+    - **f)** powyżej 2 000 000 zł do 5 000 000 zł – uiszcza się opłatę w wysokości 15 000 zł,
+    - **g)** powyżej 5 000 000 zł do 10 000 000 zł – uiszcza się opłatę w wysokości 25 000 zł,
+    - **h)** powyżej 10 000 000 zł – uiszcza się opłatę w wysokości 35 000 zł;
+
+- **3)** w sprawach majątkowych, w których ze względu na charakter sprawy nie można określić wartości przedmiotu sprawy, i w sprawach o prawa niemajątkowe:
+    - **a)** w pierwszej instancji – uiszcza się opłatę w wysokości 10 000 zł,
+    - **b)** w postępowaniu odwoławczym i w postępowaniu wszczętym na skutek wniesienia nadzwyczajnego środka zaskarżenia – uiszcza się opłatę w wysokości 5000 zł.
+
+2. Do ustalania wartości przedmiotu sprawy:
+
+- **1)** w pierwszej instancji stosuje się odpowiednio przepisy o ustalaniu wartości przedmiotu sporu w postępowaniu cywilnym;
+- **2)** w postępowaniu odwoławczym i w postępowaniu wszczętym na skutek wniesienia nadzwyczajnego środka zaskarżenia stosuje się odpowiednio przepisy o ustalaniu wartości przedmiotu zaskarżenia w postępowaniu cywilnym.
+
+3. W przypadku postępowania, o którym mowa w ust. 1 pkt 2 i pkt 3 lit. b, opłatę uiszcza się w odniesieniu do każdego środka zaskarżenia co do istoty sprawy wniesionego przez każdą ze stron postępowania lub w odniesieniu do każdego środka zaskarżenia na rozstrzygnięcie, którego przedmiotem jest zwrot kosztów, określenie zasad ponoszenia przez strony kosztów procesu, zwrot opłaty lub obciążenie kosztami sądowymi, jeżeli dana strona nie składa środka zaskarżenia co do istoty sprawy. Łączna wysokość tych opłat w danym postępowaniu nie może przekraczać opłaty należnej za wykonywanie zastępstwa w pierwszej instancji.
+
+4. W przypadku przekazania przez sąd sprawy do ponownego rozpoznania opłatę za wykonywanie zastępstwa osoby zastępowanej w postępowaniu toczącym się na skutek tego przekazania uiszcza się zgodnie z przepisami ust. 1–3.
+
+5. Opłata za wykonywanie zastępstwa osoby zastępowanej przed sądem polubownym jest obliczana jako dwukrotność stawki określonej w ust. 1 pkt 1. Jeżeli miejsce arbitrażu znajduje się poza granicami Rzeczypospolitej Polskiej, opłata jest obliczana jako trzykrotność stawki określonej w ust. 1 pkt 1.
+
+6. Opłata za sporządzenie opinii prawnej na zlecenie osoby zastępowanej zależy od koniecznego nakładu pracy i wynosi 300 zł za ekwiwalent godziny pracy radcy Prokuratorii Generalnej koniecznej dla sporządzenia opinii. Prezes Prokuratorii Generalnej lub upoważniony radca przed sporządzeniem opinii przedstawia osobie zastępowanej szacunek co do nakładu pracy potrzebnego do sporządzenia opinii.
+
+**§ 7.**
+
+1. Opłaty ustalone zgodnie z § 6 są pokrywane z uiszczonej przez osobę zastępowaną rocznej opłaty abonamentowej do wysokości tej opłaty.
+
+2. Wykorzystanie rocznej opłaty abonamentowej oblicza się w ten sposób, że od kwoty uiszczonej rocznej opłaty abonamentowej odejmuje się kolejno opłaty za wykonywanie zastępstwa i sporządzenie opinii prawnych w danym roku kalendarzowym.
+
+3. W zakresie przewyższającym wysokość uiszczonej rocznej opłaty abonamentowej osoba zastępowana uiszcza brakującą opłatę zgodnie z § 6.
+
+4. Przepisu ust. 3 nie stosuje się do:
+
+- **1)** parków narodowych,
+- **2)** muzeów i państwowych instytucji kultury,
+- **3)** uczelni publicznych i instytutów badawczych,
+- **4)** Centrum Doradztwa Rolniczego i wojewódzkich jednostek doradztwa rolniczego,
+- **5)** Narodowego Funduszu Zdrowia,
+- **6)** Zakładu Ubezpieczeń Społecznych,
+- **7)** Centrum Łukasiewicz, 7a) instytutów działających w ramach Sieci Badawczej Łukasiewicz,
+- **8)** Państwowego Gospodarstwa Wodnego Wody Polskie,
+- **9)** Urzędu Komisji Nadzoru Finansowego,
+- **10)** Rządowej Agencji Rezerw Strategicznych – o ile wartość przedmiotu sprawy przewyższa 5 000 000 zł, a wykonywanie przez Prokuratorię Generalną zastępstwa tych państwowych osób prawnych nie stanowi niedozwolonej pomocy publicznej.
+
+5. Jeżeli uzasadnia to szczególny charakter sprawy, stopień skomplikowania sprawy lub sytuacja majątkowa osoby zastępowanej opłata za wykonywanie zastępstwa tej osoby lub za sporządzenie opinii prawnej na jej zlecenie może zostać obniżona przez Prezesa Prokuratorii Generalnej, jednak nie więcej niż o 50 %, jeżeli nie stanowi to niedozwolonej pomocy publicznej.
+
+**§ 8.**
+
+1. Roczną opłatę abonamentową osoba zastępowana uiszcza z góry do końca pierwszego kwartału każdego roku kalendarzowego.
+
+2. Osoba zastępowana, o której mowa w art. 12 ust. 1 pkt 2 i 3 ustawy, wnosi pierwszą roczną opłatę abonamentową w terminie miesiąca od wyrażenia zgody w wysokości proporcjonalnej do liczby dni pozostałych do końca roku kalendarzowego, w którym wyrażono tę zgodę, w stosunku do liczby dni w roku kalendarzowym.
+
+3. Opłatę w zakresie przewyższającym wysokość uiszczonej rocznej opłaty abonamentowej, o której mowa w § 7 ust. 3, uiszcza się w terminie 14 dni od dnia doręczenia faktury.
+
+4. Jeżeli w danym roku kalendarzowym Prokuratoria Generalna nie wykonywała na rzecz osoby zastępowanej czynności zastępstwa i nie wydała ani jednej opinii prawnej, roczna opłata abonamentowa ulega zaliczeniu na poczet rocznej opłaty abonamentowej na kolejny rok kalendarzowy.
+
+5. Wysokość rocznej opłaty abonamentowej ulega obniżeniu w następnym roku kalendarzowym o:
+
+- **1)** wysokość kosztów zastępstwa, o których mowa w art. 32 ust. 6 ustawy, przekazanych Prokuratorii Generalnej przez osobę zastępowaną;
+- **2)** (uchylony);
+- **3)** (uchylony).
+
+**§ 9.**
+
+1. Wysokość opłaty za przeprowadzenie postępowania przed Sądem Polubownym w przypadku wystąpienia z wnioskiem o rozstrzygnięcie sporu przez ten sąd wynosi 10 000 zł.
+
+2. W przypadku gdy w sprawie o prawa majątkowe poddanej rozstrzygnięciu Sądu Polubownego wartość przedmiotu sprawy przekracza 200 000 zł, wysokość opłaty za przeprowadzenie postępowania przed tym sądem wynosi 5 % wartości przedmiotu sprawy, jednak nie więcej niż 100 000 zł. Do ustalania wartości przedmiotu sprawy stosuje się odpowiednio przepisy o ustalaniu wartości przedmiotu sporu w postępowaniu cywilnym.
+
+3. W sprawach rozstrzyganych w składzie jednoosobowym wysokość opłaty wynosi 50 % opłaty ustalonej zgodnie z ust. 1 i 2.
+
+4. Podmiot występujący z wnioskiem o rozstrzygnięcie sporu przez Sąd Polubowny dołącza do wniosku dowód uiszczenia opłaty.
+
+**§ 10.**
+
+1. Wysokość opłaty za przeprowadzenie postępowania przed Sądem Polubownym w przypadku wystąpienia z wnioskiem o przeprowadzenie mediacji lub inne polubowne rozwiązanie sporu przez ten sąd wynosi 5000 zł.
+
+1a. Do wysokości opłaty za przeprowadzenie postępowania przed Sądem Polubownym w przypadku wystąpienia z wnioskiem o przeprowadzenie mediacji przez sąd powszechny zastosowanie mają przepisy wydane na podstawie art. 98 § 4 ustawy z dnia 17 listopada 1964 r. ‒ Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568).
+
+2. W przypadku odbycia w postępowaniu więcej niż 3 posiedzeń opłata, o której mowa w ust. 1, zwiększa się o 1000 zł za każde kolejne posiedzenie.
+
+3. Opłatę uiszcza się w terminie 14 dni od dnia doręczenia faktury.
+
+**§ 11.** Wniosek składany przez więcej niż jedną osobę w przypadkach, o których mowa w § 9 i § 10, podlega jednej opłacie.
+
+**§ 12.** Opłatę, o której mowa w § 5 ust. 1 i 2, za rok 2017 uiszcza się w wysokości 50 % stawki określonej w tych przepisach w terminie do dnia 31 sierpnia 2017 r.
+
+**§ 13.** Do osoby prawnej określonej w części I w grupie E w pkt 3 poz. 1 załącznika do rozporządzenia przepisy rozporządzenia stosuje się od dnia 1 stycznia 2020 r.
+
+**§ 14.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r. LISTA OSÓB PRAWNYCH, KTÓRYCH ZASTĘPSTWO WYKONUJE PROKURATORIA GENERALNA RZECZYPOSPOLITEJ POLSKIEJ
 
 ## CZĘŚĆ I. PAŃSTWOWE OSOBY PRAWNE Grupa 0
 

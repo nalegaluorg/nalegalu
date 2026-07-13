@@ -34,7 +34,10 @@ source: pdf
     - **b)** w pkt 6 w lit. c tiret pierwsze otrzymuje brzmienie: „- przedsiębiorstwa spółki kapitałowej lub jego zorganizowanej części,”;
 
 - **2)** w art. 6 w ust. 1 pkt 1 otrzymuje brzmienie: „1) przy umowie sprzedaży – wartość rynkowa rzeczy lub prawa majątkowego;”;
-- **3)** w art. 9 pkt 9 otrzymuje brzmienie: „9) sprzedaż praw majątkowych, będących instrumentami finansowymi: a) firmom inwestycyjnym oraz zagranicznym firmom inwestycyjnym, b) dokonywaną za pośrednictwem firm inwestycyjnych lub zagranicznych firm inwestycyjnych, c) dokonywaną w ramach obrotu zorganizowanego, d) dokonywaną poza obrotem zorganizowanym przez firmy inwestycyjne oraz zagraniczne firmy inwestycyjne, jeżeli prawa te zostały nabyte przez te firmy w ramach obrotu zorganizowanego - w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm. );”.
+- **3)** w art. 9 pkt 9 otrzymuje brzmienie:
+
+  > „9) sprzedaż praw majątkowych, będących instrumentami finansowymi:  
+  > a) firmom inwestycyjnym oraz zagranicznym firmom inwestycyjnym, b) dokonywaną za pośrednictwem firm inwestycyjnych lub zagranicznych firm inwestycyjnych, c) dokonywaną w ramach obrotu zorganizowanego, d) dokonywaną poza obrotem zorganizowanym przez firmy inwestycyjne oraz zagraniczne firmy inwestycyjne, jeżeli prawa te zostały nabyte przez te firmy w ramach obrotu zorganizowanego - w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm. );”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

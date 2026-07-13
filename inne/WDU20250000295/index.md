@@ -32,10 +32,17 @@ source: pdf
 - **1)** w art. 2 ust. 2 otrzymuje brzmienie: „2. Minister Obrony Narodowej może wyrazić zgodę na używanie, w tym modyfikowanie, znaków, o których mowa w art. 1, poza Siłami Zbrojnymi Rzeczypospolitej Polskiej.”;
 - **2)** w art. 17 ust. 2 otrzymuje brzmienie: „2. Na sztandarach jednostek wojskowych odznaczonych Orderem Wojennym Virtuti Militari lub Orderem Krzyża Wojskowego lub dziedziczących tradycje jednostek wojskowych odznaczonych tymi orderami szarfy ze wstęg tych orderów umieszcza się pod szarfą o barwach Rzeczypospolitej Polskiej.”;
 - **3)** w art. 20 ust. 2 otrzymuje brzmienie: „2. Proporcem marynarki wojennej jest prostokątny płat tkaniny o barwach Rzeczypospolitej Polskiej. Stosunek szerokości płata do jego długości wynosi 5:6. Pośrodku płata jest umieszczony krzyż kawalerski. Jego ramiona położone na białym pasie są koloru czerwonego, a ramiona położone na pasie czerwonym – białego. Pośrodku krzyża, w kręgu czerwonym, jest umieszczony wizerunek ręki z szablą. Ręka jest koloru cielistego, a szabla – koloru srebrnego, z żółtą rękojeścią. Ramię ręki jest ubrane w niebieski rękaw z żółtym przybraniem. Stosunek wysokości krzyża do szerokości płata wynosi 4:5.”;
-- **4)** w art. 22 dodaje się ust. 3 i 4 w brzmieniu: „3. W przypadkach uzasadnionych wymogami bezpieczeństwa lub warunkami prowadzenia działań operacyjnych można używać szachownicy lotniczej w wersji o niskiej widzialności. W takim przypadku pola czerwone są zastąpione kolorem powierzchni, na którą jest nanoszona szachownica lotnicza, a pola białe – kolorem jaśniejszym od koloru tła dopasowanym pod względem kontrastu. 4. Wzór szachownicy lotniczej w wersji o niskiej widzialności zawiera załącznik nr 10a.”;
+- **4)** w art. 22 dodaje się ust. 3 i 4 w brzmieniu:
+
+  > „3. W przypadkach uzasadnionych wymogami bezpieczeństwa lub warunkami prowadzenia działań operacyjnych można używać szachownicy lotniczej w wersji o niskiej widzialności. W takim przypadku pola czerwone są zastąpione kolorem powierzchni, na którą jest nanoszona szachownica lotnicza, a pola białe – kolorem jaśniejszym od koloru tła dopasowanym pod względem kontrastu.  
+  > 4. Wzór szachownicy lotniczej w wersji o niskiej widzialności zawiera załącznik nr 10a.”;  
 - **5)** załącznik nr 4a do ustawy otrzymuje brzmienie określone w załączniku nr 1 do niniejszej ustawy;
 - **6)** załącznik nr 8 do ustawy otrzymuje brzmienie określone w załączniku nr 2 do niniejszej ustawy;
 - **7)** po załączniku nr 10 do ustawy dodaje się załącznik nr 10a do ustawy w brzmieniu określonym w załączniku nr 3 do niniejszej ustawy.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik
+
+SZTANDAR JEDNOSTKI WOJSKOWEJ strona odwrotna PROPORZEC MARYNARKI WOJENNEJ strona główna 5:6 strona odwrotna SZACHOWNICA LOTNICZA W WERSJI O NISKIEJ WIDZIALNOŚCI poziom
 

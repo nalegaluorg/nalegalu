@@ -26,11 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001313) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1313/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych informacji zawartych w wykazie producentów roślin, którzy spełniają wymagania integrowanej produkcji roślin Na podstawie art. 60 ust. 6 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2023 r. w sprawie szczegółowych informacji zawartych w wykazie producentów roślin, którzy spełniają wymagania integrowanej produkcji roślin (Dz. U. poz. 1301) w § 1:
-1) w pkt 1 skreśla się wyrazy „oraz jej odmianę”;
-2) w pkt 2 skreśla się wyrazy „ , na działce ewidencyjnej, o której mowa w art. 60 ust. 2 pkt 3 ustawy z dnia 8 marca 2013 r.
-o środkach ochrony roślin”;
-3) po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) identyfikator działki ewidencyjnej, o którym mowa w § 16 ust. 1 pkt 1 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków (Dz. U. z 2024 r. poz. 219), dotyczący działki ewidencyjnej, na której w danym roku jest uprawiana albo była uprawiana roślina, o której mowa w pkt 1;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 czerwca 2023 r. w sprawie szczegółowych informacji zawartych w wykazie producentów roślin, którzy spełniają wymagania integrowanej produkcji roślin (Dz. U. poz. 1301) w § 1:
+
+- **1)** w pkt 1 skreśla się wyrazy „oraz jej odmianę”;
+- **2)** w pkt 2 skreśla się wyrazy „ , na działce ewidencyjnej, o której mowa w art. 60 ust. 2 pkt 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin”;
+- **3)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) identyfikator działki ewidencyjnej, o którym mowa w § 16 ust. 1 pkt 1 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków (Dz. U. z 2024 r. poz. 219), dotyczący działki ewidencyjnej, na której w danym roku jest uprawiana albo była uprawiana roślina, o której mowa w pkt 1;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
 

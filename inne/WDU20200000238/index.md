@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie dokumentacji cen transferowych w zakresie podatku dochodowego od osób fizycznych Na podstawie art. 23zc ust. 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U.
 z 2019 r. poz. 1387, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie dokumentacji cen transferowych w zakresie podatku dochodowego od osób fizycznych (Dz. U. poz. 2509) wprowadza się następujące zmiany:
-1) w § 2 w pkt 2 w lit. h wyrazy „uprzednie porozumienia cenowe” zastępuje się wyrazami „porozumienia dotyczące cen transferowych”;
-2) w § 3 w pkt 4 lit. b otrzymuje brzmienie: „b) wykaz i zwięzły opis: – jednostronnych uprzednich porozumień cenowych wydanych dla podmiotów powiązanych grupy kapitałowej, – jednostronnych porozumień dotyczących cen transferowych oraz innych interpretacji podatkowych dotyczących przypisania dochodu pomiędzy państwami, wydanych przez administracje podatkowe państw innych niż Rzeczpospolita Polska dla podmiotów powiązanych grupy kapitałowej lub zawartych z tymi podmiotami.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie dokumentacji cen transferowych w zakresie podatku dochodowego od osób fizycznych (Dz. U. poz. 2509) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 2 w lit. h wyrazy „uprzednie porozumienia cenowe” zastępuje się wyrazami „porozumienia dotyczące cen transferowych”;
+- **2)** w § 3 w pkt 4 lit. b otrzymuje brzmienie: „b) wykaz i zwięzły opis: – jednostronnych uprzednich porozumień cenowych wydanych dla podmiotów powiązanych grupy kapitałowej, – jednostronnych porozumień dotyczących cen transferowych oraz innych interpretacji podatkowych dotyczących przypisania dochodu pomiędzy państwami, wydanych przez administracje podatkowe państw innych niż Rzeczpospolita Polska dla podmiotów powiązanych grupy kapitałowej lub zawartych z tymi podmiotami.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: T. Kościński
 

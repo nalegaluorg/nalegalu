@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000359) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/359/text.pdf) |
 
 zmieniające rozporządzenie w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej (Dz. U. z 2023 r. poz. 83) w § 4 w pkt 1 w lit. b wyrazy „28 lutego 2023 r.” zastępuje się wyrazami „31 marca 2023 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 10 maja 2021 r. w sprawie programu pilotażowego opieki nad świadczeniobiorcą w ramach sieci kardiologicznej (Dz. U. z 2023 r. poz. 83) w § 4 w pkt 1 w lit. b wyrazy „28 lutego 2023 r.” zastępuje się wyrazami „31 marca 2023 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

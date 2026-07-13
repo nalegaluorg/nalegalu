@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000302) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/302/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadectwa służby funkcjonariusza Służby Więziennej Na podstawie art. 109 ust. 4 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2025 r. poz. 1750 i 1823) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 24 lutego 2025 r. w sprawie świadectwa służby funkcjonariusza Służby Więziennej (Dz. U. poz. 255) w § 2 w pkt 7 w lit. a skreśla się wyrazy „ , Szefa Inspektoratu Wewnętrznego Służby Więziennej”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 24 lutego 2025 r. w sprawie świadectwa służby funkcjonariusza Służby Więziennej (Dz. U. poz. 255) w § 2 w pkt 7 w lit. a skreśla się wyrazy „ , Szefa Inspektoratu Wewnętrznego Służby Więziennej”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: W. Żurek
 

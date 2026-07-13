@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000311) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/311/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe Na podstawie art. 3 ust. 3 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2022 r. poz. 1215 i 1459 oraz z 2023 r. poz. 181) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2021 r. w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe (Dz. U. poz. 2164 oraz z 2022 r. poz. 1671) w § 2 w pkt 1 w tabeli lp. 6 otrzymuje brzmienie: 6 Prezes Urzędu Ochrony Danych Osobowych, Rzecznik Praw Dziecka, Rzecznik Małych 7 1,82 i Średnich Przedsiębiorców, Rzecznik Finansowy, Prezes Polskiej Akademii Nauk, Sekretarz Akademii Kopernikańskiej, członek Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15
-§ 2. Rozporządzenie wchodzi w życie z dniem 26 lutego 2023 r.
-Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 22 listopada 2021 r. w sprawie szczegółowych zasad wynagradzania osób zajmujących kierownicze stanowiska państwowe (Dz. U. poz. 2164 oraz z 2022 r. poz. 1671) w § 2 w pkt 1 w tabeli lp. 6 otrzymuje brzmienie: 6 Prezes Urzędu Ochrony Danych Osobowych, Rzecznik Praw Dziecka, Rzecznik Małych 7 1,82 i Średnich Przedsiębiorców, Rzecznik Finansowy, Prezes Polskiej Akademii Nauk, Sekretarz Akademii Kopernikańskiej, członek Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 26 lutego 2023 r.
 

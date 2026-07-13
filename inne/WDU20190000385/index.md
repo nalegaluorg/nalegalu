@@ -26,14 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/385/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 1614, 2244 i 2340) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej (Dz. U. z 2014 r. poz. 1839) w załączniku do rozporządzenia w § 2:
-1) w pkt 1 lit. c otrzymuje brzmienie: „c) Zespół do spraw Udostępniania,”;
-2) pkt 4 otrzymuje brzmienie: „4) Zespół do spraw Finansowo-Księgowych;”;
-3) po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) Sekcja do spraw Zamówień Publicznych;”;
-4) po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) Sekcja do spraw Realizacji Projektów i Komunikacji;”;
-5) uchyla się pkt 11;
-6) w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 i 14 w brzmieniu: „13) Samodzielne Stanowisko do spraw Obsługi Prawnej;
-14) Inspektor Ochrony Danych.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Środowiska: H. Kowalczyk
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej (Dz. U. z 2014 r. poz. 1839) w załączniku do rozporządzenia w § 2:
+
+- **1)** w pkt 1 lit. c otrzymuje brzmienie: „c) Zespół do spraw Udostępniania,”;
+- **2)** pkt 4 otrzymuje brzmienie: „4) Zespół do spraw Finansowo-Księgowych;”;
+- **3)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) Sekcja do spraw Zamówień Publicznych;”;
+- **4)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) Sekcja do spraw Realizacji Projektów i Komunikacji;”;
+- **5)** uchyla się pkt 11;
+- **6)** w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 i 14 w brzmieniu: „13) Samodzielne Stanowisko do spraw Obsługi Prawnej; 14) Inspektor Ochrony Danych.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Środowiska: H. Kowalczyk
 

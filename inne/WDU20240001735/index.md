@@ -27,837 +27,1499 @@ source: pdf
 
 w sprawie trybu i warunków postępowania firm inwestycyjnych, banków państwowych prowadzących działalność maklerską, banków, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, oraz banków powierniczych Na podstawie art. 94 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r.
 poz. 722) zarządza się, co następuje:
-§ 1. Rozporządzenie określa tryb i warunki postępowania firm inwestycyjnych, banków państwowych prowadzących działalność maklerską, banków, o których mowa w art. 70 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zwanej dalej „ustawą”, oraz banków powierniczych w zakresie:
-1) promowania świadczonych usług oraz kontaktów z potencjalnymi klientami,
-2) zawierania transakcji i dokonywania rozliczeń,
-3) traktowania klientów jak klientów profesjonalnych lub klientów detalicznych zgodnie z art. 3a ust. 1 i 2 ustawy,
-4) świadczenia usług, w tym w zakresie świadczenia usług na rzecz kategorii klientów, o których mowa w art. 3a ust. 4 ustawy, w szczególności takich usług, których przedmiotem są instrumenty dłużne, których struktura utrudnia zrozumienie związanego z nimi ryzyka, i takich, których przedmiotem są lokaty strukturyzowane,
-5) ustanawiania i realizacji zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie instrumentów finansowych oraz zabezpieczenia wierzytelności na instrumentach finansowych, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie zabezpieczenia,
-6) przyjmowania lub przekazywania jakichkolwiek świadczeń pieniężnych lub niepieniężnych w związku z prowadzeniem działalności maklerskiej,
-7) przekazywania sprawozdań, o których mowa w art. 83j ust. 1 ustawy, w przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 2 pkt 1 i 5 oraz ust. 4 pkt 6 i 8 ustawy, o ile dotyczy wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 1, 2, 4 i 5 oraz ust. 4 pkt 1 i 6 ustawy, a także wymogi dotyczące treści tych sprawozdań oraz terminy ich przekazywania klientowi,
-8) emitowania lub wystawiania instrumentów finansowych lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego albo rekomendowania lub oferowania albo w inny sposób umożliwiania nabycia lub objęcia instrumentu finansowego – w odniesieniu do wykonywania przez te podmioty czynności, o których mowa w art. 69 ust. 2 i 4 i art. 119 ust. 1 ustawy.
-§ 2. 1. Ilekroć w rozporządzeniu jest mowa o:
-1) blokadzie finansowej – rozumie się przez to zabezpieczenie, o którym mowa w art. 5 ust. 1 pkt 3 ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2024 r. poz. 294), zwanej dalej „ustawą o niektórych zabezpieczeniach finansowych”;
-2) czynnikach zrównoważonego rozwoju – rozumie się przez to czynniki, o których mowa w art. 2 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, z późn.
-zm. );
-3) derywatach – rozumie się przez to instrumenty pochodne dopuszczone do obrotu zorganizowanego;
-4) ewidencji – rozumie się przez to system zapisów elektronicznych odzwierciedlający stan posiadania przez klienta instrumentów rynku niepublicznego, udokumentowany przez klienta w sposób określony w przepisach rozporządzenia;
-5) instrumentach rynku niepublicznego – rozumie się przez to niedopuszczone do obrotu zorganizowanego ani do obrotu na zagranicznym rynku regulowanym oraz niezdematerializowane na podstawie art. 5 ust. 1 pkt 1 i ust. 3 pkt 1 ustawy instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 1 i pkt 2 lit. a i b ustawy;
-6) kliencie – rozumie się przez to:
-a) osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która zawarła z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską lub z bankiem, o którym mowa w art. 70 ust. 2 ustawy, umowę o świadczenie usług maklerskich lub która zawarła z bankiem powierniczym umowę o prowadzenie rachunku papierów wartościowych, rachunku derywatów lub umowę o wykonywanie czynności pośrednictwa w pożyczkach papierów wartościowych,
-b) podmiot, o którym mowa w art. 8a ust. 2 ustawy, który zawarł z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską, z bankiem, o którym mowa w art. 70 ust. 2 ustawy albo z bankiem powierniczym umowę o prowadzenie rachunku zbiorczego – w zakresie praw i obowiązków wynikających z umowy o prowadzenie tego rachunku lub który zawarł z bankiem powierniczym umowę o wykonywanie czynności pośrednictwa w pożyczkach papierów wartościowych;
-7) kliencie docelowym – rozumie się przez to klienta należącego do grupy docelowej;
-8) kompensacie – rozumie się przez to kompensatę dokonywaną na podstawie klauzuli kompensacyjnej zawartej w umowie o ustanowieniu zabezpieczenia finansowego, o której mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych, zgodnie z art. 4 tej ustawy;
-9) miejscu wykonania – rozumie się przez to:
-a) w odniesieniu do wykonywania zleceń nabycia lub zbycia instrumentów finansowych: – rynek regulowany, – ASO, – OTF, – podmiot systematycznie internalizujący transakcje, – firmę inwestycyjną, bank państwowy prowadzący działalność maklerską, bank, o którym mowa w art. 70 ust. 2 ustawy, lub zagraniczną firmę inwestycyjną, wykonujące zlecenia nabycia lub zbycia instrumentów finansowych w sposób określony w art. 73 ust. 2 ustawy, – firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub zagraniczną firmę inwestycyjną, wykonujące zadania związane z organizacją rynku regulowanego lub zapewniające płynność instrumentów finansowych, – bank, o którym mowa w art. 70 ust. 2 ustawy, wykonujący zadania związane z organizacją rynku regulowanego, w przypadku gdy przedmiotem czynności na tym rynku są papiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski, lub zapewniający płynność instrumentów finansowych, – podmiot prowadzący na terytorium państwa, które nie jest państwem członkowskim, działalność, o której mowa w tiret od pierwszego do szóstego,
-b) w odniesieniu do zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, lub przyjmowania i przekazywania zleceń – podmiot wykonujący zlecenie przekazane przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy;
-10) podstawie realizacji zabezpieczenia – rozumie się przez to podstawę realizacji zabezpieczenia, o której mowa w art. 3 pkt 4 ustawy o niektórych zabezpieczeniach finansowych;
-11) prawach majątkowych – rozumie się przez to instrumenty pochodne niedopuszczone do obrotu zorganizowanego, z wyłączeniem zagranicznych instrumentów finansowych;
-12) prawie do otrzymania instrumentu finansowego – rozumie się przez to prawo umożliwiające, zgodnie z art. 7 ust. 5 ustawy, zobowiązanie się do zbycia papieru wartościowego przed dokonaniem zapisu tego papieru wartościowego na rachunku papierów wartościowych zbywcy, a także odnoszące się do innych instrumentów finansowych dopuszczonych do obrotu w systemie obrotu instrumentami finansowymi prawo umożliwiające, zgodnie z art. 7 ust. 5 ustawy, zobowiązanie się do zbycia takich instrumentów finansowych przed dokonaniem zapisu danego instrumentu finansowego na rachunku;
-13) rachunku – rozumie się przez to:
-a) rachunek papierów wartościowych, w tym rachunek, na którym są zapisywane papiery wartościowe, o których mowa w art. 5a ust. 1 lub 2 ustawy, oraz rachunek, na którym są zapisywane niebędące papierami wartościowymi lub instrumentami pochodnymi instrumenty finansowe dopuszczone do obrotu zorganizowanego,
-b) rachunek derywatów,
-c) rachunek zbiorczy;
-14) rachunku pieniężnym – rozumie się przez to rachunek prowadzony przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, na którym są rejestrowane środki pieniężne powierzone przez klienta, służący do dokonywania rozliczeń w następstwie czynności, których przedmiotem są instrumenty finansowe, lub czynności związanych z prawami wynikającymi z instrumentów finansowych zapisanych na rachunkach lub w rejestrach lub ewidencjach prowadzonych przez odpowiednio firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy;
-15) rachunku praw majątkowych – rozumie się przez to rachunek, na którym są zapisywane prawa majątkowe, albo innego rodzaju ewidencję w zakresie, w jakim są w niej zapisywane prawa majątkowe;
-16) rejestrze operacyjnym – rozumie się przez to rejestr instrumentów finansowych i praw do otrzymania instrumentów finansowych, które mogą być przedmiotem zlecenia sprzedaży przyjętego do wykonania przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską przed otwarciem rejestru sesji, przy czym liczba instrumentów finansowych i praw do otrzymania instrumentów finansowych w rejestrze operacyjnym jest równa sumie liczby:
-a) instrumentów finansowych zapisanych na rachunku, z wyłączeniem instrumentów finansowych, które były przedmiotem zawartych transakcji, lecz których rozrachunek nie został jeszcze przeprowadzony, i pozostają nadal zapisane na rachunku, oraz
-b) praw do otrzymania instrumentów finansowych;
-17) rejestrze sesji – rozumie się przez to:
-a) rejestr instrumentów finansowych i praw do otrzymania instrumentów finansowych, obejmujący liczbę praw i instrumentów zewidencjonowanych w rejestrze operacyjnym lub w innym rejestrze o podobnym charakterze: – pomniejszaną o liczbę instrumentów finansowych i praw do ich otrzymania, które były przedmiotem transakcji sprzedaży zawartej na danej sesji, – powiększaną o liczbę praw do otrzymania instrumentów finansowych, które były przedmiotem transakcji kupna zawartej na danej sesji,
-b) wykaz środków pieniężnych obejmujący sumę niezablokowanych środków pieniężnych zdeponowanych na rachunku pieniężnym powiększoną o środki pieniężne, które będą uzyskane w wyniku zawartych na danej sesji transakcji sprzedaży instrumentów finansowych spełniających warunki określone w art. 7 ust. 5 ustawy, i pomniejszone o środki pieniężne, które będą przeznaczone na opłacenie transakcji kupna instrumentów finansowych zawartych na tej sesji;
-18) sesji – rozumie się przez to dzień, w którym zgodnie z przepisami dotyczącymi danego systemu obrotu instrumentami finansowymi lub jego regulacjami wewnętrznymi są zawierane na nim transakcje, a także dzień, w którym są zawierane transakcje w związku z wykonywaniem zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy;
-19) sprzedaży krzyżowej – rozumie się przez to sprzedaż łączoną lub sprzedaż wiązaną;
-20) sprzedaży łączonej – rozumie się przez to świadczenie przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, usługi maklerskiej, o której mowa w art. 69 ust. 2 ustawy, oraz innych usług na podstawie umowy, o której mowa w art. 83f ust. 1 pkt 1 ustawy, lub na podstawie jednej z umów, o których mowa w art. 83f ust. 1 pkt 2 ustawy, jeżeli:
-a) każda z tych usług może być świadczona przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, na podstawie odrębnej umowy oraz
-b) klient ma możliwość zawarcia z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską lub bankiem, o którym mowa w art. 70 ust. 2 ustawy, odrębnej umowy dotyczącej każdej z tych usług;
-21) sprzedaży wiązanej – rozumie się przez to świadczenie przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, usługi maklerskiej, o której mowa w art. 69 ust. 2 ustawy, oraz innych usług na podstawie umowy, o której mowa w art. 83f ust. 1 pkt 1 ustawy, lub na podstawie jednej z umów, o których mowa w art. 83f ust. 1 pkt 2 ustawy, jeżeli co najmniej jedna z tych usług nie może być świadczona przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, na podstawie odrębnej umowy;
-22) umowie o świadczenie usług maklerskich – rozumie się przez to umowę, na podstawie której firma inwestycyjna, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, świadczą usługi maklerskie;
-23) usługach badawczych – rozumie się przez to czynności analityczne zmierzające do wytworzenia dokumentów oraz innych materiałów analitycznych, dotyczących jednego lub wielu instrumentów finansowych, aktywów lub składnika aktywów, emitentów lub wystawców lub potencjalnych emitentów lub wystawców instrumentów finansowych, które mogą stanowić podstawę do sformułowania opinii o instrumencie finansowym, jego emitencie, wystawcy, branży lub rynku, zawierających w szczególności bezpośrednie lub pośrednie rekomendacje lub sugestie dotyczące strategii inwestycyjnych, oceny obecnej lub przyszłej wartości instrumentu finansowego lub składnika aktywów, spostrzeżenia i wnioski opierające się na istniejących lub nowych informacjach, które mogłyby zostać wykorzystane przy sformułowaniu strategii inwestycyjnej oraz mogłyby być istotne przy podejmowaniu decyzji inwestycyjnych;
-24) usługach maklerskich – rozumie się przez to czynności, o których mowa w art. 69 ust. 2 i 4 ustawy, wykonywane na rzecz klienta przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy;
-25) właściwej izbie rozliczeniowej – rozumie się przez to odpowiednio:
-a) Krajowy Depozyt oraz spółkę, której Krajowy Depozyt powierzył wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 lub ust. 3 pkt 2 lub 3 ustawy,
-b) izbę rozliczeniową,
-c) CCP, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm. ),
-d) podmiot uprawniony do prowadzenia rozliczeń transakcji, inny niż określony w lit. a–c;
-26) właściwej izbie rozrachunkowej – rozumie się przez to odpowiednio:
-a) Krajowy Depozyt oraz spółkę, której Krajowy Depozyt powierzył wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 6 ustawy,
-b) izbę rozrachunkową,
-c) centralny depozyt papierów wartościowych, centralny depozyt papierów wartościowych z państwa trzeciego oraz oddział centralnego depozytu papierów wartościowych, o których mowa odpowiednio w art. 2 pkt 1, 2 i 25 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniającego dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz.
-UE L 257 z 28.08.2014, str. 1, z późn. zm. );
-27) zabezpieczeniach finansowych – rozumie się przez to zabezpieczenia, o których mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych;
-28) zagranicznych instrumentach finansowych – rozumie się przez to instrumenty finansowe niedopuszczone do obrotu w działającym na terytorium Rzeczypospolitej Polskiej systemie obrotu instrumentami finansowymi, które są dopuszczone do obrotu na zagranicznym rynku regulowanym lub do obrotu w systemie obrotu instrumentami finansowymi prowadzonym na terytorium państwa niebędącego państwem członkowskim działającym w sposób stały i zorganizowany na zasadach określonych przepisami tego państwa, jak również zapewniającym, że przy kojarzeniu ofert kupna lub sprzedaży tych instrumentów finansowych inwestorzy mają równy i powszechny dostęp do informacji rynkowej w tym samym czasie oraz że są zachowane jednakowe warunki nabywania i zbywania tych instrumentów finansowych;
-29) zastawie finansowym – rozumie się przez to zastaw finansowy, o którym mowa w art. 5 ust. 1 pkt 2 ustawy o niektórych zabezpieczeniach finansowych;
-30) zleceniu – rozumie się przez to zlecenie nabycia lub zbycia instrumentów finansowych lub oświadczenie woli wywołujące równoważne skutki, którego przedmiotem są instrumenty finansowe;
-31) zleceniu brokerskim – rozumie się przez to zlecenie lub ofertę, a także odpowiedź na ofertę, wystawiane przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską, wykonujące złożone przez klienta zlecenie na podstawie tego zlecenia i przekazywane do miejsca wykonania w celu wykonania tego zlecenia.
-2. Ilekroć w rozporządzeniu jest mowa o zarządzie firmy inwestycyjnej, w przypadku banku prowadzącego działalność maklerską lub banku państwowego prowadzącego działalność maklerską, rozumie się przez to władze jednostki organizacyjnej banku prowadzącego działalność maklerską lub banku państwowego prowadzącego działalność maklerską, wydzieloną organizacyjnie zgodnie z art. 111 ust. 5 ustawy.
-3. Przepisy rozporządzenia, które mają zastosowanie do firm inwestycyjnych, stosuje się do banku państwowego prowadzącego działalność maklerską w takim zakresie, w jakim stosuje się je do banku prowadzącego działalność maklerską.
-§ 3. 1. Firma inwestycyjna przed zawarciem umowy o świadczenie usługi maklerskiej z klientem profesjonalnym informuje go o zasadach traktowania przez firmę inwestycyjną klientów profesjonalnych oraz o możliwości przedstawienia pisemnego żądania traktowania go jak klienta detalicznego, o którym mowa w art. 45 ust. 3 lit. b rozporządzenia delegowanego Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/565”.
-2. Żądanie klienta profesjonalnego o traktowanie go jak klienta detalicznego określa zakres usług maklerskich, transakcji lub instrumentów finansowych, na których potrzeby klient chciałby być traktowany jak klient detaliczny.
-3. W przypadku uwzględnienia żądania klienta profesjonalnego traktowania go jak klienta detalicznego firma inwestycyjna określa, w formie pisemnej lub innej formie przewidzianej w regulaminie zapewniającej możliwość utrwalenia ustaleń dokonanych z klientem profesjonalnym, zakres usług maklerskich, transakcji lub instrumentów finansowych, na których potrzeby klient będzie traktowany jak klient detaliczny.
-4. Przepisy ust. 3 stosuje się odpowiednio w przypadku podjęcia przez firmę inwestycyjną decyzji o traktowaniu klienta profesjonalnego jak klienta detalicznego, o którym mowa w art. 45 ust. 3 lit. b rozporządzenia 2017/565, z własnej inicjatywy.
-§ 4. W przypadku uznania klienta profesjonalnego za klienta detalicznego firma inwestycyjna stosuje wobec tego klienta przepisy prawa określające zasady traktowania przez firmy inwestycyjne klientów detalicznych.
-§ 5. 1. Firma inwestycyjna uznaje za zachowany warunek posiadania przez podmiot inny niż określony w art. 3 pkt 39b lit. a–m ustawy wiedzy i doświadczenia pozwalających na podejmowanie właściwych decyzji inwestycyjnych oraz właściwą ocenę związanego z tymi decyzjami ryzyka, o którym mowa w art. 3a ust. 1 ustawy, w przypadku gdy podmiot ten spełnia co najmniej dwa z poniższych wymogów:
-1) zawierał transakcje o znacznej wartości na odpowiednim rynku, ze średnią częstotliwością co najmniej dziesięciu transakcji na kwartał w ciągu czterech ostatnich kwartałów;
-2) wartość portfela instrumentów finansowych tego podmiotu łącznie ze środkami pieniężnymi wchodzącymi w jego skład wynosi co najmniej równowartość w złotych 500 000 euro;
-3) pracuje lub pracował w sektorze finansowym przez co najmniej rok na stanowisku, które wymaga wiedzy zawodowej dotyczącej transakcji w zakresie instrumentów finansowych lub usług maklerskich, które miałyby być świadczone przez firmę inwestycyjną na jego rzecz na podstawie zawieranej umowy.
-2. Zarząd firmy inwestycyjnej określa, w formie pisemnej, kryteria ustalenia znacznej wartości, o której mowa w ust. 1 pkt 1, biorąc pod uwagę co najmniej:
-1) wartość transakcji zawieranych przez danego klienta na odpowiednim rynku oraz wartość transakcji zawieranych przez wszystkich klientów tej firmy inwestycyjnej na odpowiednim rynku;
-2) strukturę klientów firmy inwestycyjnej zawierających transakcje na odpowiednim rynku;
-3) ocenę, czy znaczna wartość, o której mowa w ust. 1 pkt 1, jest wystarczająco duża, aby dawać podstawy, przez odpowiednią ekspozycję na ryzyko, do zdobycia przez klienta wiedzy i doświadczenia w zakresie zawierania transakcji na odpowiednim rynku, które będą istotnie wykraczały poza doświadczenie i wiedzę klientów detalicznych zawierających transakcje na odpowiednim rynku;
-4) charakter i rodzaj instrumentu finansowego, którego dotyczą transakcje zawierane przez danego klienta na odpowiednim rynku, w szczególności gdy instrument finansowy jest instrumentem pochodnym lub kontraktem na różnicę;
-5) rodzaj instrumentu bazowego – w przypadku gdy transakcje zawierane przez danego klienta na odpowiednim rynku dotyczą instrumentów finansowych, o których mowa w art. 2 ust. 1 pkt 2 lit. c–i ustawy;
-6) konieczność zapewnienia, aby ustalona znaczna wartość, o której mowa w ust. 1 pkt 1, nie stanowiła nadmiernej zachęty dla klientów detalicznych do zmiany statusu na klienta profesjonalnego.
-3. Firma inwestycyjna dokumentuje analizy będące podstawą ustalenia znacznej wartości, o której mowa w ust. 1 pkt 1, oraz sposób uwzględnienia kryteriów jej ustalania, o których mowa w ust. 2.
-4. Firma inwestycyjna dokonuje, co najmniej raz w roku, przeglądu kryteriów, o których mowa w ust. 2, oraz wartości ustalonych na ich podstawie. Firma inwestycyjna dokumentuje wyniki przeglądu w sposób pozwalający na wykazanie, że kryteria, o których mowa w ust. 2, oraz wartości ustalone na ich podstawie spełniają wymogi aktualności i adekwatności.
-5. Równowartość kwoty wyrażonej w euro, o której mowa w ust. 1 pkt 2, jest ustalana przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu poprzedzającym datę złożenia żądania, o którym mowa w art. 3a ust. 1 ustawy.
-6. Żądanie, o którym mowa w art. 3a ust. 1 ustawy, określa zakres usług maklerskich, transakcji lub instrumentów finansowych, na których potrzeby podmiot ma być traktowany jak klient profesjonalny.
-7. Firma inwestycyjna przed uwzględnieniem żądania, o którym mowa w art. 3a ust. 1 ustawy, informuje podmiot występujący z żądaniem o zasadach traktowania klientów profesjonalnych przy świadczeniu usług maklerskich.
-8. Firma inwestycyjna uwzględnia żądanie, o którym mowa w art. 3a ust. 1 ustawy, jeżeli klient złożył w formie pisemnej oświadczenie o znajomości zasad traktowania przez firmę inwestycyjną klientów profesjonalnych oraz skutków traktowania go jak klienta profesjonalnego.
-§ 6. 1. Firma inwestycyjna opracowuje i wdraża w formie pisemnej procedurę postępowania w przypadkach otrzymania żądań, o których mowa w § 3 ust. 1 albo art. 3a ust. 1 ustawy.
-2. Firma inwestycyjna zobowiązuje klientów do przekazywania informacji o zmianach danych, które mają wpływ na możliwość traktowania danego klienta jak klienta profesjonalnego.
-3. W przypadku powzięcia informacji, że klient przestał spełniać warunki, o których mowa w § 5 ust. 1, z uwzględnieniem kryteriów ustalenia znacznej wartości, o których mowa w § 5 ust. 2, obowiązujących na dzień powzięcia informacji, firma inwestycyjna podejmuje działania zmierzające do zmiany statusu klienta na potrzeby świadczenia na jego rzecz usług maklerskich.
-4. W przypadku powzięcia informacji, że klient przestał spełniać warunki pozwalające na traktowanie go jak klienta profesjonalnego w rozumieniu art. 3 pkt 39b lit. a–m ustawy, firma inwestycyjna podejmuje działania zmierzające do zmiany statusu klienta na potrzeby świadczenia na jego rzecz usług maklerskich, chyba że klient złoży żądanie, o którym mowa w art. 3a ust. 1 ustawy, i spełnia warunki, o których mowa w § 5 ust. 1. Sposób postępowania firmy inwestycyjnej określa procedura, o której mowa w ust. 1.
-§ 7. 1. Świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne uznaje się za mające na celu podniesienie jakości odpowiedniej usługi świadczonej na rzecz klienta lub potencjalnego klienta, jeżeli:
-1) są one uzasadnione świadczeniem usługi dodatkowej lub usługi poprawiającej jakość usługi świadczonej na rzecz klienta lub potencjalnego klienta, które są proporcjonalne do poziomu otrzymanych świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych, w szczególności:
-a) świadczeniem usługi doradztwa inwestycyjnego w sposób zależny, dotyczącej szerokiego zakresu odpowiednich instrumentów finansowych oraz dostępu do tych instrumentów, w tym odpowiedniej liczby instrumentów finansowych emitowanych lub wystawianych przez podmioty nienależące do tej samej grupy kapitałowej, do której należy firma inwestycyjna, lub przez podmioty niepozostające w bliskich powiązaniach z firmą inwestycyjną,
-b) świadczeniem usługi doradztwa inwestycyjnego w sposób zależny, w połączeniu z zaoferowaniem klientowi przeprowadzania co najmniej raz do roku oceny mającej na celu ustalenie, że instrumenty finansowe będące przedmiotem inwestycji klienta lub przedmiotem usługi doradztwa inwestycyjnego pozostawały odpowiednie dla klienta,
-c) świadczeniem usługi doradztwa inwestycyjnego w sposób zależny, w połączeniu z zaoferowaniem klientowi lub potencjalnemu klientowi usługi innej niż usługa, o której mowa w lit. a i b, która może być wartościowa dla klienta, w szczególności doradztwa w zakresie proponowanej optymalnej alokacji instrumentów finansowych oraz środków pieniężnych posiadanych przez klienta lub potencjalnego klienta,
-d) zapewnieniem dostępu, po konkurencyjnej cenie, do szerokiego zakresu instrumentów finansowych, które mogą spełniać potrzeby klienta lub potencjalnego klienta, w tym odpowiedniej liczby instrumentów emitowanych lub wystawianych przez podmioty nienależące do tej samej grupy kapitałowej, do której należy firma inwestycyjna, lub przez podmioty niepozostające w bliskich powiązaniach z firmą inwestycyjną, wraz z: – zapewnieniem narzędzi przynoszących korzyści klientowi lub potencjalnemu klientowi, w tym zapewniających dostęp do obiektywnych informacji pomagających klientowi lub potencjalnemu klientowi w podejmowaniu decyzji inwestycyjnych lub umożliwiających im monitorowanie, kształtowanie i dostosowanie zakresu instrumentów finansowych będących przedmiotem jego inwestycji, lub – udostępnianiem okresowych sprawozdań na temat wyników oraz kosztów i opłat związanych z instrumentami finansowymi;
-2) nie przynoszą one bezpośredniej korzyści firmie inwestycyjnej, jej wspólnikom, pracownikom lub osobom pozostającym z firmą inwestycyjną w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze, nie przynosząc przy tym wymiernej korzyści danemu klientowi lub potencjalnemu klientowi;
-3) są one uzasadnione przynoszeniem bieżącej lub ciągłej korzyści danemu klientowi lub potencjalnemu klientowi w związku z bieżącym przyjmowaniem lub przekazywaniem świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych.
-2. Przyjęcie lub przekazanie świadczenia pieniężnego, w tym opłat i prowizji, lub świadczenia niepieniężnego nie jest dopuszczalne, jeżeli w wyniku ich przyjęcia lub przekazania firma inwestycyjna świadczyłaby usługi maklerskie w sposób nierzetelny, nieprofesjonalny, niezgodny z zasadami uczciwego obrotu lub nieuwzględniający należycie interesów klientów lub potencjalnych klientów.
-3. Firma inwestycyjna jest obowiązana przestrzegać wymogów, o których mowa w ust. 1 i 2, przez okres, w którym przyjmuje lub przekazuje świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne.
-§ 8. Firma inwestycyjna gromadzi i przechowuje dokumentację potwierdzającą, że celem świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych przyjętych lub przekazanych przez firmę inwestycyjną jest podniesienie jakości odpowiedniej usługi świadczonej na rzecz klienta lub potencjalnego klienta przez:
-1) prowadzenie wewnętrznego wykazu świadczeń pieniężnych, w tym opłat i prowizji, oraz świadczeń niepieniężnych przyjętych przez firmę inwestycyjną od osoby trzeciej w związku ze świadczeniem usług maklerskich,
-2) rejestrowanie sposobu, w jaki świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne przyjmowane lub przekazywane przez firmę inwestycyjną, lub które firma inwestycyjna zamierza wykorzystać w celu poprawy jakości świadczonych usług, podnoszą jakość usług świadczonych na rzecz klientów lub potencjalnych klientów, oraz
-3) rejestrowanie działań podjętych w celu uniknięcia negatywnego wpływu na wypełnianie przez firmę inwestycyjną obowiązku uczciwego, rzetelnego i profesjonalnego postępowania w najlepiej pojętym interesie klienta lub potencjalnego klienta.
-§ 9. 1. Firma inwestycyjna ujawnia klientowi lub potencjalnemu klientowi w kompleksowy, dokładny i zrozumiały sposób informacje o świadczeniach pieniężnych, w tym opłatach i prowizjach, lub świadczeniach niepieniężnych przyjętych od osób trzecich lub przekazanych na rzecz osób trzecich, w związku ze świadczeniem usługi maklerskiej.
-2. Firma inwestycyjna, z zastrzeżeniem art. 83c ust. 4 pkt 4 ustawy, przed rozpoczęciem świadczenia usługi maklerskiej ujawnia klientowi lub potencjalnemu klientowi informacje dotyczące istnienia, charakteru oraz wysokości świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych, a w przypadku gdy ich wysokość nie może zostać oszacowana – sposób obliczania wysokości tych świadczeń, oraz informacje o mechanizmach przyjmowania lub przekazywania tych świadczeń, przy czym drobne świadczenia niepieniężne mogą zostać opisane w sposób ogólny, a pozostałe świadczenia niepieniężne należy oszacować i ujawnić oddzielnie.
-3. W przypadku gdy przed rozpoczęciem świadczenia usług maklerskich firma inwestycyjna nie mogła oszacować wysokości świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych, przekazuje klientowi dodatkowo informacje dotyczące dokładnych kwot przyjętych lub przekazanych świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych ustalonych zgodnie z metodą obliczania wskazaną w informacji, o której mowa w ust. 2, niezwłocznie po ustaleniu tych kwot, w sposób przyjęty w regulaminie świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1.
-4. W przypadku gdy przed rozpoczęciem świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 2 pkt 1 lub 2 ustawy, przy użyciu środków porozumiewania się na odległość, firma inwestycyjna nie ma możliwości przekazania klientowi lub potencjalnemu klientowi informacji, o których mowa w ust. 2 i 3, może je przekazać niezwłocznie po wykonaniu tej usługi, pod warunkiem że klient wyraził na to zgodę, a firma inwestycyjna poinformowała go o możliwości odłożenia rozpoczęcia świadczenia usługi do czasu otrzymania przez niego tych informacji.
-5. W przypadku, o którym mowa w ust. 4, firma inwestycyjna umożliwia klientowi lub potencjalnemu klientowi uzyskanie informacji, o których mowa w ust. 2 i 3, telefonicznie, przed rozpoczęciem świadczenia usługi.
-6. W okresie, w którym firma inwestycyjna przyjmuje lub przekazuje świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne, firma inwestycyjna, co najmniej raz w roku, informuje indywidualnie klientów o kwotach przyjętych lub przekazanych świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych, w sposób przyjęty w regulaminie świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1, przy czym drobne świadczenia niepieniężne mogą zostać opisane w sposób ogólny.
-7. W przypadku gdy po rozpoczęciu świadczenia usług maklerskich firma inwestycyjna zamierza przyjmować lub przekazywać świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne, firma inwestycyjna przekazuje klientowi informacje, o których mowa w ust. 2, oraz w odpowiednich przypadkach informacje, o których mowa w ust. 3, przed rozpoczęciem przyjmowania lub przekazywania tych świadczeń, a także przekazuje informacje, o których mowa w ust. 6.
-8. Wdrażając wymogi, o których mowa w ust. 1–7, firma inwestycyjna uwzględnia zasady dotyczące kosztów i opłat określone w art. 83c ust. 4 ustawy oraz art. 50 rozporządzenia 2017/565.
-9. W przypadku gdy firmy inwestycyjne współpracują ze sobą przy świadczeniu usług maklerskich każda firma inwestycyjna jest obowiązana wypełnić obowiązki w zakresie ujawniania informacji swoim klientom.
-§ 10. 1. Firma inwestycyjna świadcząca usługę doradztwa inwestycyjnego w sposób niezależny lub usługę zarządzania portfelem, w którego skład wchodzi jeden lub większa liczba instrumentów finansowych, mając na względzie zakaz, o którym mowa w art. 83d ust. 2 lub 4 ustawy, niezwłocznie przekazuje klientowi świadczenia pieniężne, w tym opłaty i prowizje, zapłacone lub przekazane przez osobę trzecią lub osobę działającą w imieniu osoby trzeciej w związku z usługami świadczonymi na rzecz tego klienta.
-2. Świadczenia pieniężne, w tym opłaty i prowizje otrzymane od osób trzecich w związku ze świadczeniem usługi doradztwa inwestycyjnego w sposób niezależny lub usługi zarządzania portfelem, w którego skład wchodzi jeden lub większa liczba instrumentów finansowych, są przekazywane klientowi w pełnej kwocie.
-3. Firma inwestycyjna informuje klientów o przekazanych im świadczeniach pieniężnych, w tym opłatach i prowizjach, w formie okresowych zestawień świadczeń pieniężnych, w tym opłat i prowizji, należnych i przekazanych klientowi.
-4. Firma inwestycyjna ustanawia oraz wdraża procedury zapewniające, że świadczenia pieniężne, w tym opłaty i prowizje, zapłacone lub przekazane przez osobę trzecią lub osobę działającą w imieniu osoby trzeciej w związku ze świadczeniem usługi doradztwa inwestycyjnego w sposób niezależny lub usługi zarządzania portfelem, w którego skład wchodzi jeden lub większa liczba instrumentów finansowych, zostają uznane za należne i przekazane klientowi.
-§ 11. 1. Firma inwestycyjna świadcząca usługę doradztwa inwestycyjnego w sposób niezależny lub usługę zarządzania portfelem, w którego skład wchodzi jeden lub większa liczba instrumentów finansowych, może uznać świadczenia niepieniężne za drobne świadczenia niepieniężne, o których mowa art. 83d ust. 3 lub 5 ustawy, w przypadku gdy mają one postać:
-1) informacji lub dokumentów dotyczących instrumentu finansowego lub usługi inwestycyjnej o charakterze ogólnym albo dostosowanym do sytuacji klienta;
-2) dokumentów w formie pisemnej otrzymanych od osoby trzeciej, które emitent lub potencjalny emitent zamówił i opłacił w celu promowania nowej emisji instrumentów finansowych, lub w przypadku których osoba trzecia zawarła umowę z emitentem, której przedmiotem jest przygotowanie takich dokumentów za wynagrodzeniem, jeżeli związek pomiędzy emitentem a osobą trzecią został w nich ujawniony w sposób jednoznaczny i są one udostępnione w tym samym czasie wszystkim podmiotom zainteresowanym lub do publicznej wiadomości;
-3) uczestnictwa w konferencjach, seminariach, szkoleniach i innych wydarzeniach o podobnym charakterze, dotyczących korzyści, jakie może przynieść dany instrument finansowy lub dana usługa inwestycyjna, oraz ich cech;
-4) wydatków na cele reprezentacyjne o rozsądnej, niewielkiej wartości, związanych z organizacją spotkania biznesowego lub konferencji, seminarium, szkolenia lub innych wydarzeń o podobnym charakterze, o których mowa w pkt 3;
-5) innych drobnych świadczeń niepieniężnych, które mogą poprawić jakość usługi świadczonej na rzecz klienta, i jest mało prawdopodobne, że ze względu na niewielką skalę, ich charakter lub łączną wartość mogą wpłynąć negatywnie na wypełnianie przez firmę inwestycyjną obowiązku działania w najlepiej pojętym interesie klienta.
-2. Drobne korzyści niepieniężne ujawnia się przed rozpoczęciem świadczenia usług maklerskich na rzecz klientów, przy czym korzyści te mogą zostać opisane w sposób ogólny.
-§ 12. Usługi badawcze świadczone przez osoby trzecie na rzecz firmy inwestycyjnej w zakresie, w jakim świadczy ona usługi zarządzania portfelem, w którego skład wchodzi jeden lub większa liczba instrumentów finansowych, usługi doradztwa inwestycyjnego w sposób niezależny lub inne usługi maklerskie na rzecz klientów nie są uznawane za świadczenia niepieniężne, o których mowa w art. 83d ust. 1 ustawy, w przypadku gdy są świadczone w zamian za zapłatę dokonaną przez firmę inwestycyjną:
-1) ze środków własnych lub
-2) z oddzielnego rachunku płatniczego otwartego na jej rzecz na potrzeby finansowania usług badawczych (rachunek usług badawczych), jeżeli:
-a) środki pieniężne zgromadzone na rachunku usług badawczych pochodzą z opłaty wnoszonej przez klientów firmy inwestycyjnej na potrzeby finansowania usług badawczych (specjalna opłata),
-b) w związku z otwarciem rachunku usług badawczych oraz uzgodnieniem z klientami firmy inwestycyjnej wysokości specjalnej opłaty ustanowiła ona budżet usług badawczych i dokonuje jego regularnej oceny,
-c) firma inwestycyjna ponosi odpowiedzialność za prawidłowe zarządzanie środkami na rachunku usług badawczych,
-d) firma inwestycyjna dokonuje regularnej oceny jakości zakupionych usług badawczych na podstawie skutecznych kryteriów oceny jakości oraz wpływu tych usług na podejmowanie przez nią lepszych decyzji inwestycyjnych.
-§ 13. Firma inwestycyjna, która otworzyła rachunek usług badawczych, przekazuje klientom informacje dotyczące:
-1) kwoty zapisanej w budżecie usług badawczych, o którym mowa w § 12 pkt 2 lit. b, przeznaczonej na zakup usług badawczych oraz szacowanej wysokości opłaty, o której mowa w § 12 pkt 2 lit. a, należnej od każdego klienta – przed rozpoczęciem świadczenia usługi inwestycyjnej;
-2) całkowitych kosztów poniesionych przez każdego klienta w związku z zakupem usług badawczych – w ujęciu rocznym.
-§ 14. Firma inwestycyjna, która otworzyła rachunek usług badawczych, przedstawia, na wniosek klienta lub na żądanie Komisji Nadzoru Finansowego, zestawienie obejmujące:
-1) imię i nazwisko lub nazwę każdego podmiotu, który świadczy lub świadczył usługi badawcze na jej rzecz oraz otrzymał zapłatę za tę usługę z tego rachunku w okresie wskazanym w tym wniosku lub żądaniu;
-2) łączną kwotę wypłaconą za usługi badawcze z tego rachunku na rzecz podmiotów, o których mowa w pkt 1, w okresie wskazanym w tym wniosku lub żądaniu;
-3) korzyści, świadczenia i usługi otrzymane przez firmę inwestycyjną w związku z wykonanymi na jej rzecz usługami badawczymi;
-4) porównanie kwoty, o której mowa w pkt 2, z budżetem usług badawczych w odniesieniu do okresu wskazanego w tym wniosku lub żądaniu, ze wskazaniem rabatów lub przeniesień, jeżeli na rachunku usług badawczych pozostają środki pieniężne.
-§ 15. 1. Wysokość specjalnej opłaty:
-1) wynika wyłącznie z budżetu usług badawczych ustanowionego przez firmę inwestycyjną w celu ustalenia zapotrzebowania na usługi badawcze w odniesieniu do usług maklerskich świadczonych przez firmę inwestycyjną na rzecz jej klientów;
-2) nie jest związana z wolumenem lub wartością transakcji przeprowadzonych w imieniu klientów.
-2. Firma inwestycyjna określa wysokość specjalnej opłaty w ramach kwoty ustalonej w budżecie usług badawczych oraz częstotliwość i sposób wnoszenia tej opłaty przez klienta w danym okresie w umowie o świadczenie usług maklerskich albo w regulaminie świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1.
-3. W przypadku gdy specjalna opłata jest pobierana od klientów łącznie z prowizją od transakcji firma inwestycyjna powinna być w stanie wyodrębnić tę opłatę i zachować pełną zgodność z warunkami określonymi w § 12 pkt 2 i § 13.
-4. Łączna kwota specjalnych opłat wniesionych przez klientów w danym okresie nie może przekraczać kwoty ustalonej w budżecie usług badawczych na ten okres.
-5. Firma inwestycyjna może zwiększyć budżet usług badawczych po poinformowaniu klientów o jego planowanym zwiększeniu przed planowanym terminem dokonania zmian w budżecie usług badawczych, a jeżeli zwiększenie budżetu usług badawczych spowodowałoby zwiększenie wysokości specjalnej opłaty – po dokonaniu zmian w odpowiedniej umowie o świadczenie usług maklerskich albo w regulaminie świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1.
-6. W przypadku gdy na koniec okresu, na który firma inwestycyjna ustanowiła budżet usług badawczych, na rachunku usług badawczych występuje nadwyżka, firma inwestycyjna, zgodnie z przyjętą procedurą postępowania:
-1) zwraca środki pieniężne klientom lub
-2) uwzględnia nadwyżkę przy ustalaniu budżetu usług badawczych oraz określeniu wysokości specjalnej opłaty na kolejny okres.
-§ 16. 1. Firma inwestycyjna ustanawia budżet usług badawczych na podstawie analizy zapotrzebowania na usługi badawcze świadczone przez osoby trzecie.
-2. Budżetem usług badawczych zarządza wyłącznie firma inwestycyjna.
-3. Wykorzystanie budżetu usług badawczych na zakup usług badawczych świadczonych przez osoby trzecie jest nadzorowane przez zarząd firmy inwestycyjnej, który zapewnia wykorzystanie tego budżetu w najlepiej pojętym interesie klientów firmy inwestycyjnej.
-4. Wykorzystanie budżetu usług badawczych podlega okresowym kontrolom obejmującym:
-1) przepływ środków pieniężnych dokonywanych na rzecz podmiotów świadczących usługi badawcze;
-2) sposób ustalenia wysokości wypłaconych kwot oraz zasadność ich wypłaty w odniesieniu do kryteriów oceny jakości, o których mowa w § 12 pkt 2 lit. d.
-5. Firma inwestycyjna nie może wykorzystywać budżetu usług badawczych i rachunku usług badawczych na potrzeby badań w celu finansowania wykonywanych przez siebie czynności analitycznych.
-§ 17. Firma inwestycyjna może przekazać zarządzanie rachunkiem usług badawczych osobie trzeciej, jeżeli ułatwi to zakup usług badawczych oraz zapewni dokonywanie niezwłocznie płatności w jej imieniu i zgodnie z jej wskazówkami.
-§ 18. 1. Firma inwestycyjna opracowuje i wdraża pisemną procedurę korzystania z usług badawczych, w której określa:
-1) kryteria oceny jakości usług badawczych, o których mowa w § 12 pkt 2 lit. d, oraz spodziewany wpływ zakupu usług badawczych na podejmowanie przez firmę inwestycyjną decyzji inwestycyjnych;
-2) zakres, w jakim usługi badawcze mogą przynieść korzyści w odniesieniu do portfeli klientów, w tym dzięki uwzględnieniu strategii inwestycyjnych stosowanych do różnych rodzajów portfeli;
-3) podejścia, jakie przyjmie firma inwestycyjna w celu sprawiedliwego podziału kosztów zakupu usług badawczych między portfelami różnych klientów.
-2. Firma inwestycyjna przekazuje klientom procedurę, o której mowa w ust. 1.
-§ 19. 1. Firma inwestycyjna świadcząca usługi w zakresie wykonywania zleceń nabycia lub zbycia instrumentów finansowych na rzecz firmy inwestycyjnej z siedzibą na terytorium Unii Europejskiej określa oddzielne opłaty z tytułu świadczenia tych usług, przy czym wysokość opłat odzwierciedla koszty wykonania zlecenia. Świadczenie innej usługi lub zapewnianie innej korzyści przez tę samą firmę inwestycyjną na rzecz firmy inwestycyjnej z siedzibą na terytorium Unii Europejskiej podlega oddzielnie określonej opłacie.
-2. Firma inwestycyjna ustala wysokość opłat z tytułu usług w zakresie wykonywania zleceń nabycia lub zbycia instrumentów finansowych świadczonych na rzecz firmy inwestycyjnej z siedzibą na terytorium Unii Europejskiej w taki sposób, aby nie wpływała ona na świadczenie innej usługi lub zapewnienie innej korzyści i na opłaty z tytułu tych usług lub korzyści ani nie stanowiła warunku zapewnienia tych usług lub korzyści i opłat z tytułu tych usług lub korzyści.
-§ 20. 1. W przypadku gdy usługi badawcze są świadczone przez osobę trzecią na rzecz firmy inwestycyjnej łącznie z usługą przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych lub usługą wykonywania tych zleceń na rachunek dającego zlecenie, firma inwestycyjna może przekazać tej osobie łączną opłatę z tytułu świadczenia tych usług, jeżeli:
-1) przed wykonaniem usług osoba trzecia zawarła z firmą inwestycyjną umowę określającą wysokość wynagrodzenia przypadającego na usługi badawcze;
-2) firma inwestycyjna poinformowała klientów o łącznych opłatach przekazywanych z tytułu usług;
-3) usługi badawcze dotyczą emitentów o średniej rynkowej kapitalizacji niższej niż równowartość kwoty 1 000 000 000 euro ustalonej przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski obowiązującego w ostatnim dniu sesyjnym w danym roku.
-2. Średnią rynkową kapitalizację, o której mowa w ust. 1 pkt 3, wyznacza się na podstawie notowań z ostatniego dnia sesyjnego w danym roku w okresie trzech ostatnich lat poprzedzających przeprowadzenie badań, a w przypadku lat obrotowych, w których emitent nie był notowany na rynku regulowanym – na podstawie wysokości kapitału własnego.
-§ 21. Przepisów niniejszego oddziału nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
-§ 22. 1. W przypadku gdy informacje kierowane przez firmę inwestycyjną do klientów lub potencjalnych klientów, w tym informacje upowszechniane przez firmę inwestycyjną w celu reklamy lub promocji świadczonych przez nią usług, wskazują korzyści, które można osiągnąć w przypadku skorzystania z usług maklerskich, o których mowa w art. 69 ust. 2 ustawy, świadczonych przez firmę inwestycyjną, określają również poziom ryzyka inwestycyjnego związanego z tymi danymi usługami zgodnie z art. 44 ust. 2 lit. b rozporządzenia 2017/565.
-2. W przypadku gdy informacje kierowane przez firmę inwestycyjną do klientów lub potencjalnych klientów zawierają dane o systemie rekompensat, o którym mowa w art. 133 ust. 1 lub art. 136 ust. 1 ustawy, którego uczestnikiem jest firma inwestycyjna, dane te mogą wskazywać wyłącznie system, do którego należy firma inwestycyjna, oraz górną granicę środków objętych tym systemem.
-3. Firma inwestycyjna może, w ramach świadczenia usług maklerskich, udzielać klientowi porad inwestycyjnych o charakterze ogólnym dotyczących inwestowania w instrumenty finansowe. Sposób udzielania porad inwestycyjnych określa regulamin świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1, dotyczący usługi maklerskiej, przy której wykonywaniu jest udzielana porada inwestycyjna.
-4. Udzielanie porad inwestycyjnych, o których mowa w ust. 3, nie może stanowić wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 5 oraz ust. 4 pkt 6 ustawy.
-§ 23. 1. Przed zawarciem umowy o świadczenie usług maklerskich firma inwestycyjna przekazuje klientowi informacje, przy użyciu trwałego nośnika, o istniejących konfliktach interesów związanych ze świadczeniem danej usługi maklerskiej na rzecz tego klienta, o ile organizacja oraz regulacje wewnętrzne firmy inwestycyjnej nie zapewniają, że w przypadku powstania konfliktu interesów nie dojdzie do naruszenia interesu klienta. Informacja zawiera dane pozwalające klientowi na podjęcie świadomej decyzji co do zawarcia umowy, przy czym zakres i sposób przedstawiania danych powinien być dostosowany do kategorii klientów, o których mowa w art. 3a ust. 4 ustawy, do której należy klient.
-2. Przez konflikt interesów rozumie się znane firmie inwestycyjnej okoliczności, które mogą doprowadzić do powstania sprzeczności między interesem firmy inwestycyjnej lub osoby zaangażowanej i obowiązkiem działania przez tę firmę inwestycyjną w sposób rzetelny, z uwzględnieniem najlepiej pojętego interesu klienta tej firmy inwestycyjnej, oraz znane firmie inwestycyjnej okoliczności, które mogą doprowadzić do powstania sprzeczności między interesami kilku klientów tej firmy inwestycyjnej.
-3. W przypadku, o którym mowa w ust. 1, umowa o świadczenie usługi maklerskiej może zostać zawarta, jeżeli klient potwierdzi otrzymanie informacji, o której mowa w ust. 1, oraz wyraźnie potwierdzi wolę zawarcia z firmą inwestycyjną umowy o świadczenie danej usługi maklerskiej.
-4. W przypadku powstania konfliktu interesów po zawarciu umowy o świadczenie usług maklerskich:
-1) ust. 1 stosuje się odpowiednio, przy czym firma inwestycyjna jest obowiązana poinformować klienta o konflikcie interesów niezwłocznie po jego stwierdzeniu;
-2) ust. 3 stosuje się odpowiednio, przy czym firma inwestycyjna powinna powstrzymać się od świadczenia usługi maklerskiej do czasu otrzymania wyraźnego oświadczenia klienta o kontynuacji lub rozwiązaniu umowy.
-5. Przed zawarciem umowy o prowadzenie rachunku zbiorczego firma inwestycyjna przekazuje posiadaczowi rachunku zbiorczego informacje, przy użyciu trwałego nośnika, o obowiązkach, o których mowa w art. 8b ustawy, oraz o sankcji administracyjnej, o której mowa w art. 170d ust. 1 ustawy.
-6. Firma inwestycyjna zapewnia, na potrzeby zarządzania konfliktem interesów, aby pracownicy firmy inwestycyjnej przekazali i na bieżąco aktualizowali informacje o rachunkach papierów wartościowych oraz innych rachunkach, na których są zapisane inne instrumenty finansowe, które są w ich posiadaniu.
-§ 24. 1. Firma inwestycyjna świadczy usługę maklerską na podstawie regulaminu świadczenia usługi maklerskiej oraz umowy o świadczenie tej usługi zawartej z klientem.
-2. Wymogu opracowania regulaminu świadczenia usługi maklerskiej, o którym mowa w ust. 1, nie stosuje się w przypadku, gdy:
-1) umowa jest zawierana z:
-a) klientem profesjonalnym, chyba że klient profesjonalny zażądał od firmy inwestycyjnej traktowania go jak klienta detalicznego, a firma inwestycyjna wyraziła na to zgodę,
-b) klientem profesjonalnym, chyba że jest on przez firmę inwestycyjną traktowany jak klient detaliczny,
-c) klientem detalicznym, w związku z prowadzoną przez niego działalnością gospodarczą,
-d) uprawnionym kontrahentem;
-2) konstrukcja instrumentów finansowych lub specyfika obrotu tymi instrumentami uniemożliwia uregulowanie praw i obowiązków związanych z zawarciem i realizacją umowy, o której mowa w ust. 1, w sposób jednolity dla wszystkich klientów, na których rzecz jest świadczona ta usługa.
-3. W przypadku, o którym mowa w ust. 2, sposób świadczenia usługi maklerskiej przez firmę inwestycyjną na rzecz klienta, w tym prawa i obowiązki firmy inwestycyjnej i klienta z tego tytułu, a także warunki zawierania i rozwiązywania umowy, o której mowa w ust. 1, określa umowa z klientem.
-4. W przypadku gdy świadczenie usługi przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych lub wykonywania zleceń nabycia lub zbycia instrumentów finansowych dotyczy instrumentów finansowych zapisanych na rachunku zbiorczym umowa o świadczenie takiej usługi jest zawierana przez firmę inwestycyjną z podmiotem uprawnionym z instrumentów finansowych zapisanych na rachunku zbiorczym.
-5. Umowa, o której mowa w ust. 4, może zostać zawarta, o ile:
-1) uprawniony z instrumentów finansowych zapisanych na rachunku zbiorczym wskaże firmie inwestycyjnej posiadacza rachunku zbiorczego oraz numer rachunku zbiorczego, na którym są zapisywane należące do niego instrumenty finansowe;
-2) posiadacz rachunku zbiorczego zobowiąże się wobec firmy inwestycyjnej do:
-a) podejmowania wskazanych przez firmę inwestycyjną czynności dotyczących instrumentów finansowych będących przedmiotem zlecenia, które umożliwiają zabezpieczenie realizacji zlecenia zbycia tych instrumentów, w szczególności potwierdzania pokrycia takich zleceń oraz dokonywania blokady instrumentów finansowych będących przedmiotem zlecenia,
-b) dostarczania należących do klienta instrumentów finansowych będących przedmiotem złożonych przez niego zleceń sprzedaży tych instrumentów.
-6. Firma inwestycyjna może zawrzeć umowę o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych z posiadaczem rachunku zbiorczego, w przypadku gdy posiadacz rachunku zbiorczego złoży firmie inwestycyjnej w formie pisemnej oświadczenie, że:
-1) świadczy usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych na rzecz podmiotów uprawnionych z instrumentów finansowych zapisanych na tym rachunku;
-2) może we własnym imieniu rozporządzać instrumentami finansowymi zapisanymi na tym rachunku, na podstawie stosunku prawnego z podmiotem, do którego należą te instrumenty.
-7. Przepis ust. 6 stosuje się odpowiednio w przypadku, gdy firma inwestycyjna zawiera umowę o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych z podmiotem niebędącym posiadaczem rachunku zbiorczego ani uprawnionym z instrumentów finansowych zapisanych na rachunku zbiorczym.
-8. W przypadku gdy podmiot, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, pośredniczy w przekazywaniu zleceń klienta, który zawarł z firmą inwestycyjną umowę na warunkach, o których mowa w art. 121 ust. 1 ustawy, umowa o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych może być zawarta między firmą inwestycyjną a:
-1) klientem, który podpisał z bankiem powierniczym umowę na warunkach, o których mowa w art. 121 ust. 1 ustawy, albo
-2) podmiotem, o którym mowa w art. 121 ust. 2 pkt 2 ustawy.
-9. W przypadku gdy podmiot, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, pośredniczy w przekazywaniu zleceń posiadacza rachunku zbiorczego, który zawarł z firmą inwestycyjną umowę na warunkach, o których mowa w art. 121a ustawy, umowa o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych może być zawarta między firmą inwestycyjną a:
-1) posiadaczem rachunku zbiorczego będącym zagraniczną firmą inwestycyjną, albo
-2) uprawnionym z instrumentów finansowych zapisanych na rachunku zbiorczym, pod warunkiem zawarcia przez firmę inwestycyjną z posiadaczem rachunku zbiorczego, na którym są rejestrowane instrumenty finansowe uprawnionego, umowy, o której mowa w § 80 ust. 1.
-10. Umowa o zarządzanie portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych zapisanych na rachunku zbiorczym, jest zawierana przez firmę inwestycyjną z podmiotem uprawnionym z instrumentów finansowych zapisanych na tym rachunku.
-11. Umowa, o której mowa w ust. 10, może zostać zawarta, o ile:
-1) uprawniony z instrumentów finansowych zapisanych na rachunku zbiorczym:
-a) wskaże firmie inwestycyjnej posiadacza rachunku zbiorczego, na którym są zapisywane należące do niego instrumenty finansowe,
-b) doręczy firmie inwestycyjnej kopię umowy, z której wynika obowiązek prowadzenia przez posiadacza rachunku zbiorczego odrębnej ewidencji instrumentów finansowych należących do tego klienta oraz rejestrowania w niej na bieżąco zmian wynikających z realizacji przez firmę inwestycyjną decyzji inwestycyjnych podjętych w imieniu i na rachunek klienta przez firmę inwestycyjną świadczącą usługę zarządzania portfelem;
-2) posiadacz rachunku zbiorczego zobowiąże się wobec firmy inwestycyjnej do:
-a) prowadzenia odrębnej ewidencji instrumentów finansowych oraz rejestrowania w niej na bieżąco zmian wynikających z realizacji decyzji inwestycyjnych podjętych w imieniu i na rachunek klienta przez firmę inwestycyjną świadczącą usługę zarządzania portfelami,
-b) podejmowania wskazanych przez firmę inwestycyjną czynności zabezpieczających realizację decyzji firmy inwestycyjnej świadczącej usługę zarządzania portfelami, w szczególności potwierdzania pokrycia takich zleceń oraz dokonywania blokady instrumentów finansowych będących przedmiotem zlecenia,
-c) dostarczania instrumentów finansowych zarejestrowanych na rachunku zbiorczym firmie inwestycyjnej wykonującej zlecenia składane przez firmę inwestycyjną świadczącą usługę zarządzania portfelem.
-12. Regulamin świadczenia usługi maklerskiej, o którym mowa w ust. 1, określa sposób świadczenia usługi maklerskiej przez firmę inwestycyjną na rzecz klienta, w tym prawa i obowiązki firmy inwestycyjnej i klienta z tego tytułu, a także warunki zawierania i rozwiązywania umowy, w szczególności:
-1) tryb i warunki zawierania umowy;
-2) tryb, warunki i formę ustanawiania pełnomocnictw przez klienta;
-3) zakres i sposób wykonywania usługi maklerskiej, która będzie wykonywana na podstawie umowy;
-4) sposoby i terminy wnoszenia przez klienta opłat i prowizji związanych z usługą maklerską wykonywaną na rzecz klienta w związku z umową oraz sposób i tryb określania ich wysokości;
-5) sposób postępowania firmy inwestycyjnej, w przypadku gdy klient nie dostarcza środków pieniężnych w terminach określonych w umowie lub w przepisach odrębnych;
-6) postanowienia zabezpieczające interesy firmy inwestycyjnej w przypadku niewywiązania się klienta z przyjętych zobowiązań, a także sposoby zaspokajania roszczeń firmy inwestycyjnej;
-7) zakres odpowiedzialności firmy inwestycyjnej za szkody powstałe wskutek niewykonania lub nienależytego wykonania przez firmę inwestycyjną zobowiązań powstałych w związku z zawarciem umowy;
-8) sposób, tryb oraz terminy przekazywania klientowi informacji dotyczących świadczonej na jego rzecz usługi maklerskiej oraz zakres tych informacji;
-9) zasady powierzania przez firmę inwestycyjną podmiotowi trzeciemu wykonywania poszczególnych czynności stanowiących usługę maklerską, jeżeli firma inwestycyjna przewiduje ich powierzanie podmiotowi trzeciemu;
-10) sposoby i terminy załatwiania skarg składanych przez klienta;
-11) tryb i warunki odstąpienia, wypowiedzenia oraz rozwiązania umowy;
-12) tryb, terminy i warunki zmiany regulaminu, a także sposób informowania klienta o tych zmianach.
-13. Zakres i sposób wykonywania usługi maklerskiej, o których mowa w ust. 12 pkt 3, obejmuje w szczególności:
-1) w przypadku usługi, o której mowa w art. 69 ust. 2 pkt 1 ustawy, wskazanie:
-a) formy składanych przez klienta zleceń nabycia lub zbycia instrumentów finansowych,
-b) sposobu, trybu oraz zasad przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych,
-c) sposobu, trybu oraz zasad kojarzenia przez firmę inwestycyjną dwóch lub więcej podmiotów w celu doprowadzenia do zawarcia transakcji między tymi podmiotami, jeżeli usługa świadczona przez firmę inwestycyjną obejmuje takie czynności;
-2) w przypadku usługi, o której mowa w art. 69 ust. 2 pkt 2 ustawy, wskazanie:
-a) formy składanych przez klienta zleceń nabycia lub zbycia instrumentów finansowych,
-b) sposobu, trybu oraz zasad przyjmowania i wykonywania zleceń nabycia lub zbycia instrumentów finansowych,
-c) sposobu, trybu oraz zasad zawierania transakcji oraz dokonywania rozliczeń z tego tytułu,
-d) sposobu ustalania wysokości zabezpieczenia oraz trybu i formy informowania klienta o zmianie jego wysokości, w tym wzywania do jego uzupełnienia, oraz sposobu postępowania firmy inwestycyjnej na wypadek nieuzupełnienia przez klienta zabezpieczenia, jeżeli usługa dotyczy instrumentów finansowych, którymi obrót jest związany z obowiązkiem posiadania zabezpieczenia wykonania zobowiązań wynikających z danego instrumentu finansowego,
-e) trybu i warunków dokonywania płatności za nabywane instrumenty finansowe;
-3) w przypadku usługi, o której mowa w art. 69 ust. 2 pkt 4 ustawy, wskazanie:
-a) trybu i warunków podejmowania i realizacji przez firmę inwestycyjną decyzji inwestycyjnych dotyczących aktywów wchodzących w skład zarządzanych portfeli,
-b) trybu dokonywania wyboru podmiotu przechowującego aktywa wchodzące w skład portfeli zarządzanych przez firmę inwestycyjną, jeżeli firma inwestycyjna wykorzystuje pośrednictwo takich podmiotów przy świadczeniu usług zarządzania portfelami instrumentów finansowych,
-c) metod wyceny instrumentów finansowych znajdujących się w portfelu klienta oraz jej częstotliwości,
-d) obiektywnych wskaźników finansowych, do których będą porównywane wyniki portfela klienta w celu ustalenia poziomu efektywności świadczonej usługi,
-e) sposobu i trybu przekazywania przez klienta dyspozycji dotyczących aktywów wchodzących w skład zarządzanego przez firmę inwestycyjną portfela instrumentów finansowych;
-4) w przypadku usługi, o której mowa w art. 69 ust. 2 pkt 5 ustawy, wskazanie trybu i warunków opracowywania przez firmę inwestycyjną rekomendacji inwestycyjnych oraz ich przekazywania klientowi;
-5) w przypadku usługi, o której mowa w art. 69 ust. 4 pkt 1 ustawy, wskazanie:
-a) sposobu przekazywania przez klienta dyspozycji dotyczących instrumentów finansowych i środków pieniężnych zapisanych na rachunku,
-b) sposobu naliczania odsetek od środków zgromadzonych na rachunku pieniężnym oraz trybu określania ich wysokości, jeżeli umowa, o której mowa w ust. 1, przewiduje oprocentowanie tych środków,
-c) trybu, warunków i przyczyn ustanawiania lub znoszenia blokady instrumentów finansowych, praw do otrzymania instrumentów finansowych oraz środków pieniężnych klienta,
-d) sposobu postępowania z instrumentami finansowymi, na których ustanowiono ograniczone prawo rzeczowe lub których zbywalność jest ograniczona,
-e) trybu i warunków przenoszenia instrumentów finansowych lub środków pieniężnych na rachunki klienta prowadzone przez inny podmiot,
-f) trybu i warunków postępowania z aktywami klienta w przypadku zamknięcia danego rachunku,
-g) sposobu ustalania wysokości zabezpieczenia oraz trybu informowania klienta o zmianie jego wysokości lub konieczności jego uzupełnienia – w przypadku gdy na rachunku mają być rejestrowane instrumenty finansowe, którymi obrót jest związany z koniecznością ustanowienia zabezpieczenia wykonania zobowiązań wynikających z tych instrumentów,
-h) szczegółowego trybu i warunków ustanawiania zabezpieczeń wykonania zlecenia w środkach pieniężnych lub na instrumentach finansowych klienta, w tym trybu wyrażania przez klienta zgody na ustanowienie zabezpieczenia.
-§ 25. 1. Firma inwestycyjna może określić sposób świadczenia poszczególnych usług maklerskich w jednym regulaminie lub kilku regulaminach – o ile zawierają one wyodrębnione postanowienia odnoszące się do każdej ze świadczonych usług oraz spełniają wymogi przewidziane w przepisach niniejszego oddziału dla poszczególnych regulaminów.
-2. W przypadku zmiany regulaminu firma inwestycyjna informuje klienta o treści zmiany w terminie umożliwiającym wypowiedzenie przez niego umowy z zachowaniem okresu wypowiedzenia i jej rozwiązanie przed dniem wejścia w życie zmian.
-§ 26. 1. Firma inwestycyjna przekazuje klientowi lub potencjalnemu klientowi informacje o warunkach umowy lub umów zawieranych w ramach sprzedaży krzyżowej w sposób:
-1) rzetelny, dokładny i niewprowadzający w błąd;
-2) odpowiedni i zrozumiały dla przeciętnego przedstawiciela grupy, do której są one kierowane lub do której mogą dotrzeć;
-3) spójny, w szczególności przez jednolite i zbiorcze prezentowanie korzyści, ograniczeń i ryzyk związanych ze sprzedażą krzyżową.
-2. W przypadku gdy świadczenie usługi maklerskiej jest możliwe na podstawie jednej z umów, o których mowa w art. 83f ust. 1 ustawy, albo na podstawie odrębnej umowy, firma inwestycyjna informuje o tym klienta lub potencjalnego klienta zgodnie z ust. 1, w sposób umożliwiający klientowi lub potencjalnemu klientowi podjęcie świadomej decyzji co do wyboru umowy, na podstawie której będzie świadczona usługa maklerska.
-3. W przypadku, o którym mowa w ust. 2, firma inwestycyjna nie podejmuje działań, które wyłączają, utrudniają lub narzucają klientowi wybór umowy, na podstawie której będzie świadczona usługa maklerska.
-4. Firma inwestycyjna przedstawia klientowi opis ryzyka związanego ze sprzedażą krzyżową wraz z opisem ryzyk wynikających z poszczególnych usług świadczonych w ramach sprzedaży krzyżowej oraz informacje o zmianach w zakresie ryzyka, jakie wynikają ze sprzedaży krzyżowej w porównaniu z ryzykami, które wynikałyby z poszczególnych usług, gdyby były świadczone na podstawie odrębnych umów.
-5. Firma inwestycyjna przekazuje informacje o warunkach umowy lub umów zawieranych w ramach sprzedaży krzyżowej w odpowiednim czasie przed ich zawarciem, umożliwiającym klientowi lub potencjalnemu klientowi zapoznanie się z tymi informacjami, zrozumienie charakteru i ryzyka wynikających ze sprzedaży krzyżowej i podjęcie świadomej decyzji co do zawarcia umów w ramach sprzedaży krzyżowej.
-6. W przypadku promocji lub reklamy sprzedaży krzyżowej firma inwestycyjna przekazuje informacje o ryzykach związanych ze sprzedażą krzyżową oraz informacje o kosztach i opłatach związanych z zawarciem, wykonaniem lub rozwiązaniem poszczególnych umów, z zastosowaniem tego samego typu i rozmiaru czcionki jakie zastosowano do pozostałych elementów zbioru informacji przekazywanego w ramach promocji lub reklamy sprzedaży krzyżowej.
-§ 27. 1. Firma inwestycyjna oferująca świadczenie usługi maklerskiej w ramach sprzedaży krzyżowej przekazuje klientowi lub potencjalnemu klientowi, zgodnie z § 26 ust. 1, w sposób czytelny i przejrzysty odrębne zestawienie kosztów i opłat związanych z zawarciem, wykonaniem lub rozwiązaniem umowy zawartej w ramach sprzedaży krzyżowej oraz zestawienie kosztów i opłat związanych z zawarciem, wykonaniem lub rozwiązaniem umów dotyczących poszczególnych usług, które byłyby ponoszone z tytułu poszczególnych usług, gdyby były świadczone na podstawie odrębnych umów, a także informację zbiorczą o tych kosztach i opłatach.
-2. W przypadku gdy z rozwiązaniem umowy o świadczenie usługi maklerskiej zawartej w ramach sprzedaży krzyżowej na podstawie jednej z umów, o których mowa w art. 83f ust. 1 pkt 2 ustawy, wiąże się poniesienie przez klienta lub potencjalnego klienta dodatkowych kosztów i opłat związanych z zaprzestaniem wykonywania umowy o świadczenie innej usługi, firma inwestycyjna przekazuje klientowi lub potencjalnemu klientowi również zestawienie tych kosztów i opłat.
-3. W przypadku gdy nie jest możliwe przedstawienie przez firmę inwestycyjną dokładnej wysokości kosztów i opłat związanych z inną usługą, które klient lub potencjalny klient poniósłby w przypadku ich wystąpienia, firma inwestycyjna przekazuje klientowi informację o szacowanych kosztach i opłatach. Oszacowanie wielkości kosztów i opłat następuje na podstawie racjonalnych założeń przyjętych przez firmę inwestycyjną.
-4. W przypadku gdy zawieranie umowy lub umów w ramach sprzedaży krzyżowej następuje z wykorzystaniem sieci Internet lub w inny sposób bez bezpośredniego udziału osoby zatrudnionej przez firmę inwestycyjną lub podmiot, o którym mowa w art. 79 ustawy, informacje o kosztach i opłatach związanych z umową, o której mowa w art. 83f ust. 1 pkt 1 ustawy, lub umowami zawieranymi zgodnie z art. 83f ust. 1 pkt 2 ustawy, firma inwestycyjna przekazuje, przed zawarciem umowy, odpowiednio wcześniej, w sposób wyraźny i nieutrudniający dotarcia do tych informacji lub zapoznania się z nimi przez klienta lub potencjalnego klienta.
-§ 28. 1. W przypadku świadczenia usługi maklerskiej w ramach sprzedaży krzyżowej, w tym w sytuacji, gdy zawarcie umowy o świadczenie usługi maklerskiej jest warunkiem zawarcia umowy o świadczenie innej usługi, przekazanie informacji o warunkach świadczenia usługi maklerskiej następuje z uwzględnieniem art. 44–51 rozporządzenia 2017/565.
-2. Przepisy § 26 i § 27 nie wyłączają stosowania przepisów regulujących sposób przekazywania informacji o świadczeniu w ramach sprzedaży krzyżowej usług innych niż świadczenie usługi maklerskiej.
-§ 29. 1. Firma inwestycyjna nie zawiera umowy lub umów w ramach sprzedaży krzyżowej ani nie pośredniczy w zawarciu takiej umowy lub takich umów, w przypadku gdy okresy odstąpienia lub rozwiązania umowy lub umów o świadczenie usług zawieranych w ramach sprzedaży krzyżowej różniłyby się od okresów odstąpienia lub rozwiązania umów o świadczenie takich usług, gdyby były świadczone na podstawie odrębnych umów.
-2. Firma inwestycyjna nie zawiera umowy sprzedaży łączonej ani nie pośredniczy w jej zawarciu, w przypadku gdy klient nie ma możliwości zaprzestania korzystania ze świadczenia usługi wchodzącej w skład sprzedaży łączonej bez ponoszenia nieproporcjonalnych i nieuzasadnionych kosztów lub opłat, w tym kar umownych.
-§ 30. 1. Za nieskomplikowane instrumenty finansowe, o których mowa w art. 83h ust. 5 pkt 1 ustawy, nie uznaje się w szczególności:
-1) dłużnych papierów wartościowych, które mają wbudowany instrument pochodny;
-2) dłużnych papierów wartościowych, których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie ryzyka związanego z tymi instrumentami finansowymi;
-3) instrumentów finansowych, które mają wbudowany instrument pochodny.
-2. Przez dłużne papiery wartościowe, o których mowa w ust. 1:
-1) pkt 1, rozumie się:
-a) obligacje zamienne i warunkowe obligacje zamienne,
-b) obligacje wymienne,
-c) obligacje o zmiennym nominale, z wyłączeniem obligacji ratalnych,
-d) obligacje z wbudowaną opcją kupna lub sprzedaży,
-e) dłużne papiery wartościowe, których wartość zależy od wartości instrumentu bazowego,
-f) dłużne papiery wartościowe z wbudowanym kredytowym instrumentem pochodnym, w przypadku których stopa zwrotu jest uzależniona od stopy zwrotu instrumentu referencyjnego (w przypadku braku zdarzenia kredytowego) lub prawdopodobieństwa wystąpienia zdarzenia kredytowego (premii za ryzyko kredytowe),
-g) warranty subskrypcyjne;
-2) pkt 2, rozumie się:
-a) obligacje i inne dłużne papiery wartościowe o elemencie lub elementach konstrukcji niepozwalających klientowi lub potencjalnemu klientowi na zrozumienie istoty ryzyka związanego z nabyciem lub objęciem takiego papieru wartościowego ze względu na niepewność, nietypowość, złożoność, nieprecyzyjność lub dowolność kształtowania tych elementów,
-b) papiery wartościowe, których konstrukcja przewiduje, że: – wypłata świadczenia pieniężnego (stopa zwrotu) lub przekazanie świadczenia niepieniężnego są uzależnione od: – – ustalanej jednorazowo lub regularnie wartości określonego portfela aktywów, w szczególności papiery wartościowe zabezpieczone aktywami, w tym spłatą kredytów lub pożyczek, albo – – zaspokojenia wierzytelności przez podmioty trzecie, w szczególności obligacje podporządkowane lub inne podporządkowane dłużne papiery wartościowe oraz certyfikaty, o których mowa w art. 2 ust. 1 pkt 27 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm. ), zwanego dalej „rozporządzeniem 600/2014”, – emitent papieru wartościowego posiada dowolność, w szczególności przez samodzielne określanie jednej zmiennej albo kilku zmiennych, w ustalaniu przekazywanego świadczenia pieniężnego (stopy zwrotu) lub świadczenia niepieniężnego, – nie istnieje ściśle oznaczony termin ich wykupu lub okres zapadalności lub nie podlegają one wykupowi, w szczególności obligacje wieczyste, – przekazanie świadczenia pieniężnego (stopa zwrotu) lub świadczenia niepieniężnego jest uzależnione od nietypowej lub nieznanej klientowi detalicznemu lub potencjalnemu klientowi detalicznemu jednej zmiennej albo kilku zmiennych, w szczególności dłużne papiery wartościowe, których wartość jest uzależniona od wartości wskaźników niepodanych do publicznej wiadomości, wskaźników o specjalistycznym charakterze lub od zdarzenia katastroficznego, – wysokość i termin wypłaty świadczenia pieniężnego (stopa zwrotu) lub niepieniężnego jest ustalana w sposób skomplikowany, w szczególności w wyniku częstych zmian w okresie do terminu ich wykupu lub zapadalności albo w wyniku osiągnięcia określonych wartości progowych albo punktów w czasie, – nie nastąpi zwrot całości albo części wartości nominalnej papieru wartościowego, w szczególności obligacje podporządkowane i inne podporządkowane papiery wartościowe podlegające konwersji na udział w kapitale lub majątku emitenta wskutek wystąpienia jego uporządkowanej restrukturyzacji, – identyfikacja dłużnego papieru wartościowego emitenta lub podmiotu zabezpieczającego emisję jest utrudniona albo może wprowadzać w błąd, w szczególności ze względu na nazwę instrumentu, firmę emitenta lub podmiotu zabezpieczającego emisję, – wysokość, forma i warunki zabezpieczenia wierzytelności wynikających z dłużnego papieru wartościowego jest określona w sposób utrudniający właściwe zrozumienie, w jaki sposób ustanowione zabezpieczenie może wpływać na ryzyko związane z nabyciem tego papieru wartościowego, w szczególności w przypadku, gdy zaspokojenie z zabezpieczenia jest uzależnione od jednego warunku albo kilku warunków innych niż niewykonanie zobowiązań przez emitenta lub zaspokojenie z zabezpieczenia w całości albo części jest ograniczone w czasie.
-3. Przez instrumenty finansowe, o których mowa w ust. 1 pkt 3, rozumie się w szczególności:
-1) akcje lub certyfikaty inwestycyjne, które mają wbudowany instrument pochodny,
-2) obligacje lub inne dłużne papiery wartościowe, które mają wbudowany instrument pochodny lub których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie związanego z nimi ryzyka,
-3) instrumenty rynku pieniężnego, które mają wbudowany instrument pochodny lub których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie związanego z nimi ryzyka – lub zawierające w swojej strukturze element powodujący, że część lub całość wypłaty środków pieniężnych z tytułu wierzytelności przysługujących posiadaczowi tego instrumentu finansowego ulega modyfikacji w zależności od jednej zmiennej albo kilku określonych zmiennych.
-§ 31. 1. W przypadku gdy przedmiotem umowy, o której mowa w art. 69h ust. 1 ustawy, są lokaty strukturyzowane, których:
-1) konstrukcja utrudnia klientowi lub potencjalnemu klientowi zrozumienie ryzyka związanego ze stopą zwrotu,
-2) konstrukcja utrudnia klientowi lub potencjalnemu klientowi zrozumienie kosztów likwidacji lokaty przed terminem – dom maklerski stosuje przepisy art. 83h ust. 1–4 ustawy, z uwzględnieniem ust. 5 pkt 2–4 tego artykułu.
-2. Przez lokaty strukturyzowane, o których mowa w ust. 1:
-1) pkt 1, rozumie się lokaty, o których mowa w art. 88h ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U.
-z 2024 r. poz. 1646 i 1685), których konstrukcja przewiduje, że:
-a) wypłata całości albo części kapitału, odsetek lub świadczeń dodatkowych jest uzależniona od więcej niż jednej zmiennej, w szczególności wartości określonego portfela aktywów lub wartości indeksów, ustalanych jednorazowo albo regularnie,
-b) relacja pomiędzy wypłatą całości lub części kapitału, odsetek lub świadczeń dodatkowych a zmienną, mechanizmem ustalania albo obliczania wypłaty jest złożona, w szczególności lokaty, których konstrukcja przewiduje, że: – mechanizm uwzględnienia poziomu cen danego indeksu w wypłacie jest oparty na różnych źródłach danych rynkowych lub kilku pomiarach indeksu w różnych terminach lub – wielkość wypłaty rośnie albo maleje w określonych okolicznościach lub jest uzależniona od samodzielnego określania jednej zmiennej albo kilku zmiennych w czasie trwania lokaty,
-c) wypłata całości lub części kapitału, odsetek lub świadczeń dodatkowych jest uzależniona od nietypowej lub nieznanej przeciętnemu klientowi detalicznemu lub potencjalnemu klientowi detalicznemu jednej zmiennej albo kilku zmiennych, w szczególności lokaty strukturyzowane, których wartość zależy od wartości wskaźników niepodanych do publicznej wiadomości lub wskaźników o specjalistycznym charakterze,
-d) strona umowy lokaty niebędąca klientem jest uprawniona do jednostronnego rozwiązania umowy przed upływem terminu likwidacji lokaty;
-2) pkt 2, rozumie się lokaty, o których mowa w art. 88h ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, których konstrukcja przewiduje, że koszt rozwiązania przez klienta umowy o lokatę przed terminem nie jest ściśle określoną:
-a) kwotą, w szczególności lokaty strukturyzowane o zmiennym koszcie rozwiązania lub koszcie wskazanym do maksymalnej wysokości lub lokaty strukturyzowane, w przypadku których koszt rozwiązania umowy jest ustalany na podstawie zmiennego czynnika, takiego jak oprocentowanie,
-b) kwotą za każdy miesiąc pozostały do końca określonego umową terminu likwidacji lokaty, w szczególności lokaty strukturyzowane o zmiennym koszcie rozwiązania lub koszcie wskazanym do maksymalnej wysokości, za każdy miesiąc pozostały do końca określonego umową terminu likwidacji lokaty,
-c) kwotą odsetek lub wartości świadczeń dodatkowych, w szczególności lokaty strukturyzowane przewidujące wyłącznie zwrot depozytu w przypadku rozwiązania umowy.
-§ 32. Przepisów § 22, § 26–29 i § 31 nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
-§ 33. 1. Firma inwestycyjna emitująca lub wystawiająca instrumenty finansowe lub udzielająca porad w zakresie emitowania lub wystawiania instrumentu finansowego uwzględnia charakter instrumentu finansowego, usługi inwestycyjnej i grupy docelowej.
-2. Firma inwestycyjna ustanawia, wdraża i utrzymuje procedury i rozwiązania służące zapewnieniu zgodności procesu emitowania lub wystawiania instrumentów finansowych lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego z wymogami dotyczącymi właściwego zarządzania konfliktami interesów, w tym stosowaną polityką wynagrodzeń, o której mowa w art. 83e ust. 1 ustawy, w szczególności zapewnia, aby wyemitowanie lub wystawienie instrumentów finansowych, w tym ze względu na ich cechy, nie miało negatywnego wpływu na grupę docelową ani nie stanowiło zagrożenia dla prawidłowego funkcjonowania lub stabilności rynków finansowych na skutek ograniczenia lub wyzbycia się przez firmę inwestycyjną, przez emitowanie lub wystawienie tego instrumentu finansowego, własnego ryzyka lub własnej ekspozycji związanych z aktywami posiadanymi przez firmę inwestycyjną na własny rachunek.
-3. Firma inwestycyjna emitująca lub wystawiająca instrumenty finansowe lub udzielająca porad w zakresie emitowania lub wystawiania instrumentu finansowego dokonuje analizy możliwości wystąpienia ewentualnych konfliktów interesów, w szczególności ocenia, czy wyemitowanie lub wystawienie instrumentu finansowego prowadzi do powstania sytuacji, w której mogą wystąpić negatywne skutki dla klienta należącego do grupy docelowej, jeżeli przyjmie on ekspozycję przeciwstawną w stosunku do ekspozycji utrzymywanej uprzednio przez firmę inwestycyjną lub ekspozycję przeciwstawną w stosunku do ekspozycji, którą firma inwestycyjna zamierza przyjąć po wyemitowaniu lub wystawieniu instrumentu finansowego.
-4. Przed podjęciem decyzji o wyemitowaniu lub wystawieniu instrumentu finansowego firma inwestycyjna ocenia, czy instrument finansowy może stanowić zagrożenie dla prawidłowego funkcjonowania lub stabilności rynków finansowych.
-§ 34. 1. Firma inwestycyjna określa grupę docelową w odniesieniu do każdego emitowanego lub wystawianego przez nią instrumentu finansowego lub gdy udziela innym podmiotom porad w zakresie emitowania lub wystawiania instrumentu finansowego. W ramach tego procesu firma określa także wszystkie grupy klientów, których potrzebom, cechom i celom instrument finansowy nie odpowiada (negatywna grupa docelowa).
-2. Firma inwestycyjna przy określaniu negatywnej grupy docelowej nie uwzględnia kryteriów obejmujących czynniki zrównoważonego rozwoju.
-3. W przypadku instrumentu finansowego uwzględniającego czynniki zrównoważonego rozwoju firma inwestycyjna uznaje, że odpowiada on celom i potrzebom inwestycyjnym również tych klientów docelowych, których cele i potrzeby inwestycyjne nie są związane ze zrównoważonym rozwojem, pod warunkiem że ich pozostałe cele i potrzeby inwestycyjne są spełnione przez ten instrument.
-4. Firma inwestycyjna przy określaniu grupy docelowej bierze pod uwagę kryteria obejmujące co najmniej:
-1) rodzaj klientów, do których dany produkt jest skierowany, z uwzględnieniem podziału klientów na kategorie, o których mowa w art. 3a ust. 4 ustawy;
-2) wiedzę i doświadczenie w odniesieniu do rodzaju danego instrumentu finansowego, jego właściwości lub zagadnień związanych z danym instrumentem, które powinien posiadać klient docelowy, aby zrozumieć cechy i ryzyka związane z tym instrumentem finansowym;
-3) sytuację finansową klienta docelowego uwzględniającą:
-a) wartość procentową straty, jaką klient docelowy jest w stanie ponieść,
-b) istnienie dodatkowych zobowiązań klienta docelowego w związku z instrumentem finansowym, których wartość może przekraczać zainwestowaną kwotę, obejmujących w szczególności wezwanie do uzupełnienia depozytu zabezpieczającego przez klienta;
-4) tolerancję ryzyka oraz zgodności wskaźnika zysku do ryzyka związanego z instrumentem finansowym oraz zakładanej stopy zwrotu z grupą docelową, z uwzględnieniem:
-a) ustalenia i precyzyjnego opisania przez firmę inwestycyjną kategorii ryzyka związanego z instrumentem finansowym,
-b) określenia przez firmę inwestycyjną ogólnego podejścia klienta docelowego do ryzyka związanego z inwestycją w instrumenty finansowe przez przypisanie klienta docelowego do kategorii, o których mowa w lit. a,
-c) zastosowania w stosownych przypadkach wskaźnika syntetycznego, o którym mowa w art. 8 ust. 1 rozporządzenia Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie kluczowych informacji dla inwestorów i warunków, które należy spełnić w przypadku dostarczania kluczowych informacji dla inwestorów lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za pośrednictwem strony internetowej (Dz. Urz. UE L 176 z 10.07.2010, str. 1), lub ogólnego wskaźnika ryzyka, o którym mowa w art. 8 ust. 3 lit. d pkt ii rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm. );
-5) cele inwestycyjne klientów, w tym związane z czynnikami zrównoważonego rozwoju, oraz ich potrzeby inwestycyjne, które mają być zaspokojone przez dany instrument finansowy, z uwzględnieniem ogólnej strategii inwestycyjnej klienta docelowego, obejmującej w szczególności horyzont czasowy inwestycji, przy czym cele i potrzeby klienta mogą zostać uszczegółowione przez wskazanie określonych aspektów inwestycji oraz oczekiwań klientów docelowych w odniesieniu do tych aspektów inwestycji.
-5. Firma inwestycyjna, przy ustalaniu kryteriów innych niż kryteria, o których mowa w ust. 4, może uwzględnić w szczególności właściwości poszczególnych sposobów komunikowania się z firmami inwestycyjnymi rekomendującymi, oferującymi albo w inny sposób umożliwiającymi nabycie lub objęcie instrumentu finansowego.
-6. Firma inwestycyjna dokonuje oceny znaczenia każdego z kryteriów dla określonego instrumentu finansowego i dostosowania szczegółowości określenia grupy docelowej odpowiednio do rodzaju, charakteru i cech instrumentu finansowego, z uwzględnieniem zależności między poszczególnymi kryteriami.
-7. Firma inwestycyjna precyzyjnie definiuje pojęcia i terminologię stosowaną przy określaniu grupy docelowej.
-8. Firma inwestycyjna emitująca lub wystawiająca instrument finansowy, który jest rekomendowany lub oferowany lub którego nabycie lub objęcie umożliwiają inne firmy inwestycyjne, określa grupę docelową, w szczególności jej potrzeby, cechy lub cele, z którymi instrument finansowy jest zgodny, w tym cele związane ze zrównoważonym rozwojem, na podstawie swojej wiedzy i doświadczenia związanego z tym instrumentem lub podobnymi instrumentami, rynkami finansowymi oraz potrzebami, cechami i celami potencjalnych grup docelowych, w tym celami związanymi ze zrównoważonym rozwojem.
-9. Firma inwestycyjna określa grupę docelową w sposób odpowiedni i proporcjonalny, z uwzględnieniem charakteru instrumentu finansowego i jego złożoności, w tym związanych z nim kosztów oraz struktury opłat, wskaźnika zysku do ryzyka, płynności lub jego innowacyjnego charakteru.
-10. W przypadku skomplikowanych instrumentów finansowych, w szczególności instrumentów finansowych o złożonych obliczeniach stopy zwrotu, firma inwestycyjna określa grupę docelową w sposób bardziej szczegółowy.
-11. W przypadku nieskomplikowanych i łatwo dostępnych instrumentów finansowych firma inwestycyjna może określić grupę docelową w sposób mniej szczegółowy, w szczególności:
-1) w przypadku niektórych rodzajów instrumentów finansowych wystarczająco porównywalnych pod kątem cech tych instrumentów grupa docelowa może być określona na podstawie wspólnego podejścia dotyczącego jednego rodzaju instrumentów finansowych;
-2) opis jednego lub więcej kryteriów, o których mowa w ust. 4, może być dokonany w sposób ogólny.
-12. Firma inwestycyjna określa grupę docelową na wystarczająco szczegółowym poziomie, aby uniknąć uwzględnienia w grupie docelowej klientów lub grup klientów, z których potrzebami, cechami i celami dany instrument finansowy nie jest zgodny.
-13. W przypadku instrumentu finansowego emitowanego lub wystawianego przez firmę inwestycyjną na indywidualne zamówienie za grupę docelową uznaje się klienta lub potencjalnego klienta, który zgłosił potrzebę nabycia lub objęcia takiego instrumentu finansowego, z wyłączeniem przypadku, gdy instrument taki jest rekomendowany, oferowany lub którego nabycie lub objęcie jest umożliwiane na rzecz innych klientów.
-§ 35. 1. Firma inwestycyjna będąca emitentem lub wystawcą instrumentu finansowego przeprowadza analizę scenariuszową instrumentu finansowego, w ramach której ocenia związane z instrumentem finansowym ryzyko niskich wyników dla klientów oraz okoliczności, w jakich takie wyniki mogą wystąpić.
-2. Analiza, o której mowa w ust. 1, obejmuje opis negatywnych zjawisk rynkowych, ich wpływu na ryzyko niskich wyników dla klientów oraz przewidywanych działań, w szczególności na wypadek, gdyby:
-1) otoczenie rynkowe uległo pogorszeniu;
-2) emitent lub wystawca instrumentu finansowego lub osoba trzecia uczestnicząca w procesie emitowania lub wystawienia instrumentu finansowego znaleźli się w trudnej sytuacji finansowej lub gdyby pojawiło się inne ryzyko związane z emitentem, wystawcą lub osobą trzecią;
-3) instrument finansowy okazał się nieopłacalny z ekonomicznego punktu widzenia;
-4) popyt na instrument finansowy był znacznie większy niż przewidywano.
-3. Firma inwestycyjna określa, czy instrument finansowy spełnia rozpoznane potrzeby, cechy i cele grupy docelowej, w szczególności przez zbadanie, czy:
-1) profil ryzyka i zysku instrumentu finansowego jest zgodny z grupą docelową;
-2) czynniki zrównoważonego rozwoju uwzględnione w instrumencie finansowym są zgodne z grupą docelową – w przypadku gdy instrument finansowy uwzględnia czynniki zrównoważonego rozwoju;
-3) zamiar wyemitowania lub wystawienia instrumentu finansowego wynika z cechy instrumentu finansowego przynoszącej korzyści grupie docelowej, a nie z modelu biznesowego stosowanego przez firmę inwestycyjną lub inne firmy inwestycyjne, o których mowa w § 34 ust. 8.
-4. Firma inwestycyjna analizuje strukturę kosztów i opłat proponowaną w odniesieniu do instrumentu finansowego, w szczególności przez zbadanie, czy:
-1) koszty lub opłaty związane z instrumentem finansowym są zgodne z potrzebami, cechami i celami grupy docelowej;
-2) koszty lub opłaty związane z instrumentem finansowym nie powodują pogorszenia oczekiwanej rentowności instrumentu finansowego, w szczególności czy nie równoważą lub nie eliminują oczekiwanych korzyści finansowych lub podatkowych związanych z instrumentem finansowym;
-3) struktura kosztów lub opłat związanych z instrumentem finansowym jest odpowiednio przejrzysta w odniesieniu do grupy docelowej, w szczególności czy nie prowadzi do ukrycia kosztów lub opłat lub ich rzeczywistej wysokości lub czy nie jest zbyt skomplikowana.
-5. Firma inwestycyjna przekazuje informacje dotyczące instrumentu finansowego, grupy docelowej oraz strategii dystrybucji innym firmom inwestycyjnym, o których mowa w § 34 ust. 8. Firma inwestycyjna przekazuje informacje w sposób przejrzysty, umożliwiający tym firmom inwestycyjnym właściwe ich zrozumienie, rekomendację lub sprzedaż instrumentu finansowego w odpowiedni sposób oraz należyte uwzględnienie celów klienta lub potencjalnego klienta związanych ze zrównoważonym rozwojem.
-6. Firma inwestycyjna określa strategię dystrybucji w taki sposób, aby zapewniała ona dotarcie instrumentu finansowego do grupy docelowej tego instrumentu, w szczególności, aby dokonany przez firmę inwestycyjną wybór innych firm inwestycyjnych, o których mowa w § 34 ust. 8, oraz usług maklerskich, w ramach których docelowi klienci mogą nabyć określony instrument finansowy, zapewnił zgodność instrumentu finansowego z grupą docelową tego instrumentu finansowego. W przypadku gdy do nabycia lub objęcia określonego instrumentu finansowego nie jest wymagane świadczenie usługi, o której mowa w art. 69 ust. 2 pkt 5 ustawy, firma inwestycyjna może określić w strategii dystrybucji preferowany kanał sprzedaży tego instrumentu.
-§ 36. 1. W przypadku gdy firma inwestycyjna współpracuje przy emitowaniu lub wystawianiu instrumentu finansowego lub przy udzielaniu porad w zakresie emitowania lub wystawiania instrumentu finansowego z inną firmą inwestycyjną, podmiotem, który nie posiada zezwolenia na wykonywanie działalności maklerskiej i nie podlega nadzorowi zgodnie z przepisami ustawy, lub z firmą inwestycyjną z państwa trzeciego, zawiera, w formie pisemnej, umowę z taką firmą inwestycyjną lub takim podmiotem określającą ich wzajemne obowiązki.
-2. W przypadku, o którym mowa w ust. 1, jest określana jedna grupa docelowa.
-§ 37. 1. Firma inwestycyjna zatrudnia w procesie emitowania lub wystawiania instrumentu finansowego lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego osoby posiadające wiedzę niezbędną do zrozumienia właściwości i czynników ryzyka związanych z tymi instrumentami finansowymi.
-2. Firma inwestycyjna przeprowadza regularne przeglądy instrumentów finansowych, które emituje lub wystawia lub w odniesieniu do których udziela innym podmiotom porad w zakresie emitowania lub wystawiania instrumentu finansowego, z uwzględnieniem zdarzeń, które w znaczący sposób mogą wpłynąć na potencjalne ryzyko dla określonej grupy docelowej, w szczególności w celu ustalenia, czy instrument finansowy:
-1) pozostaje spójny z potrzebami, cechami i celami grupy docelowej, a w przypadku gdy instrument finansowy uwzględnia czynniki zrównoważonego rozwoju – również z celami związanymi ze zrównoważonym rozwojem;
-2) jest rekomendowany lub oferowany grupie docelowej albo w inny sposób jest umożliwiane nabycie lub objęcie instrumentu finansowego przez grupę docelową;
-3) jest rekomendowany lub oferowany albo w inny sposób jest umożliwiane nabycie lub objęcie instrumentu finansowego przez klientów, z których potrzebami, cechami i celami instrument finansowy nie jest zgodny;
-4) ze względu na jego cechy lub związane z nim koszty lub opłaty nie ma negatywnego wpływu na grupę docelową i nie stanowi zagrożenia dla prawidłowego funkcjonowania lub stabilności rynków finansowych.
-3. Firma inwestycyjna przeprowadza przegląd instrumentów finansowych przed każdą kolejną emisją lub wystawieniem instrumentu finansowego, jeżeli posiada informacje o zdarzeniu, które mogłoby w znaczący sposób wpłynąć na potencjalne ryzyko dla grupy docelowej.
-4. Firma inwestycyjna ustanawia i wdraża procedurę, w której określa, z jaką częstotliwością będzie przeprowadzać przeglądy instrumentów finansowych, o których mowa w ust. 2, w szczególności w oparciu o czynniki związane ze złożonością lub innowacyjnym charakterem instrumentu finansowego lub stosowanych strategii inwestycyjnych.
-5. Procedura, o której mowa w ust. 4, określa kluczowe zdarzenia, które mogą wpłynąć na potencjalne ryzyko lub oczekiwaną rentowność instrumentu finansowego, w szczególności:
-1) przekroczenie określonego progu wartości, które wpłynie na rentowność instrumentu finansowego;
-2) wypłacalność określonych emitentów, których papiery wartościowe lub udzielone przez nich gwarancje mogą wpływać na wyniki instrumentu finansowego.
-6. W przypadku wystąpienia zdarzeń, o których mowa w ust. 5, firma inwestycyjna podejmuje działania zaradcze, w szczególności polegające na:
-1) przekazaniu istotnych informacji dotyczących zdarzenia i jego konsekwencji dla instrumentu finansowego klientom lub innym firmom inwestycyjnym, o których mowa w § 34 ust. 8, jeżeli firma inwestycyjna nie oferuje ani nie sprzedaje instrumentu finansowego bezpośrednio klientom;
-2) dokonaniu zmian w procesie emitowania lub wystawiania instrumentu finansowego lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego;
-3) wstrzymanie dalszej emisji lub dalszego wystawiania instrumentu finansowego – w przypadku gdy firma inwestycyjna jest emitentem lub wystawcą tego instrumentu finansowego;
-4) dokonaniu zmian cech instrumentu finansowego lub zmian kosztów lub opłat związanych z instrumentem finansowym w celu uniknięcia nieuczciwych postanowień umownych;
-5) ustaleniu, czy strategia dystrybucji lub kanały dystrybucji są odpowiednie – w przypadku gdy firma inwestycyjna stwierdzi, że instrument finansowy jest rekomendowany lub oferowany albo w inny sposób jest umożliwiane nabycie lub objęcie instrumentu finansowego przez klientów, z których potrzebami, cechami i celami instrument finansowy nie jest zgodny;
-6) nawiązaniu kontaktu z innymi firmami inwestycyjnymi, o których mowa w § 34 ust. 8, w celu omówienia zmiany strategii dystrybucji;
-7) rozwiązaniu umowy z innymi firmami inwestycyjnymi, o których mowa w § 34 ust. 8;
-8) poinformowaniu Komisji Nadzoru Finansowego o wystąpieniu zdarzenia, które może wpłynąć na potencjalne ryzyko lub oczekiwaną rentowność instrumentu finansowego.
-§ 38. 1. Zarząd firmy inwestycyjnej sprawuje kontrolę nad prawidłowym wypełnianiem przez firmę inwestycyjną obowiązków, o których mowa w art. 83b ust. 8, 12, 14 i 15 ustawy oraz w niniejszym oddziale, a także zapewnia, aby przekazywane im systematycznie sprawozdania dotyczące przestrzegania tych przepisów zawierały informacje na temat instrumentów finansowych emitowanych lub wystawianych przez firmę inwestycyjną, w tym informacje dotyczące strategii dystrybucji.
-2. Firma inwestycyjna udostępnia sprawozdania, o których mowa w ust. 1, Komisji Nadzoru Finansowego, na jej żądanie.
-3. Funkcja zgodności z przepisami, o której mowa w art. 22 ust. 2 rozporządzenia 2017/565, monitoruje zmiany i okresowe przeglądy procesu emitowania lub wystawiania instrumentów finansowych lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego w celu wykrycia ryzyka niewywiązania się przez firmę inwestycyjną z obowiązków określonych w niniejszym oddziale.
-§ 39. Przepisów niniejszego oddziału nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
-§ 40. 1. Firma inwestycyjna, przy podejmowaniu decyzji o zakresie instrumentów finansowych wyemitowanych lub wystawionych przez tę firmę lub przez inną firmę inwestycyjną, jakie zamierza oferować lub rekomendować albo w inny sposób umożliwiać ich nabycie lub objęcie oraz o rodzaju usług, jakie zamierza świadczyć, uwzględnia charakter instrumentu finansowego, usługi inwestycyjnej oraz grupy docelowej.
-2. Przepisy niniejszego oddziału stosuje się również w przypadku, gdy firma inwestycyjna oferuje lub rekomenduje albo w inny sposób umożliwia nabycie lub objęcie instrumentów finansowych wyemitowanych lub wystawionych przez podmioty, do których nie stosuje się przepisów ustawy. W takim przypadku firma inwestycyjna dokłada należytej staranności w celu uzyskania przez nią od takich emitentów lub wystawców informacji dotyczących tych instrumentów finansowych.
-3. W przypadku, o którym mowa w ust. 2, firma inwestycyjna zapewnia klientom co najmniej taki sam poziom usług i bezpieczeństwa ich świadczenia jak w przypadku instrumentów finansowych wyemitowanych lub wystawionych zgodnie z zasadami określonymi w art. 83b ust. 7–17 ustawy oraz oddziale 4 i niniejszym oddziale.
-4. Firma inwestycyjna, która nie jest w stanie uzyskać dostatecznych informacji na temat wyemitowanych lub wystawionych instrumentów finansowych, nie może oferować, rekomendować ani w inny sposób umożliwiać nabycia lub objęcia takich instrumentów finansowych, chyba że nabycie lub objęcie następuje wyłącznie z inicjatywy klienta.
-§ 41. 1. Firma inwestycyjna określa grupę docelową danego instrumentu finansowego także w przypadku, gdy emitent lub wystawca tego instrumentu nie określili grupy docelowej.
-2. Firma inwestycyjna określa grupę docelową instrumentu finansowego lub usługi na etapie ustalania celów biznesowych i strategii dystrybucji, przed rozpoczęciem świadczenia usług w odniesieniu do tego instrumentu finansowego.
-3. Firma inwestycyjna, realizując w bieżącej działalności operacyjnej określoną przez siebie grupę docelową dla danego instrumentu finansowego lub usługi, zapewnia dostosowanie i zgodność świadczonych usług maklerskich w odniesieniu do objętych grupą docelową instrumentów finansowych.
-4. Firma inwestycyjna, wykonując obowiązek, o którym mowa w ust. 3, zapewnia w szczególności zgodność świadczonych usług maklerskich z instrumentami finansowymi w odniesieniu do tych instrumentów finansowych, które charakteryzują się wysokim poziomem złożoności, podwyższonym ryzykiem, brakiem płynności albo zmniejszoną płynnością albo innymi cechami istotnymi dla grupy docelowej.
-5. Firma inwestycyjna wykonuje obowiązek, o którym mowa w ust. 3, wyłącznie w przypadku klientów końcowych, którzy nie oferują, nie rekomendują ani w inny sposób nie udostępniają danego instrumentu finansowego do nabycia albo objęcia przez innych klientów.
-6. Firma inwestycyjna, w celu określenia grupy docelowej:
-1) stosuje odpowiednio § 34 ust. 4, przy czym może określić grupę docelową w sposób bardziej szczegółowy niż w przypadku emitenta lub wystawcy instrumentu finansowego, a także bierze pod uwagę rodzaj klientów, którym świadczy usługi maklerskie, charakter instrumentów finansowych oraz rodzaj oferowanych usług maklerskich;
-2) przeprowadza dokładną analizę cech swojej bazy klientów i potencjalnych klientów;
-3) wykorzystuje informacje, o których mowa w § 43 ust. 11, które uzna za przydatne i dostępne w celu określenia grupy docelowej;
-4) wdraża, utrzymuje i stosuje, na zasadzie proporcjonalności, uwzględniając stopień złożoności instrumentu finansowego, procedurę dostosowywania grupy docelowej określonej przez emitenta lub wystawcę instrumentu finansowego do własnej bazy klientów;
-5) zapewnia zgodność określanej grupy docelowej z podstawowymi założeniami odnoszącymi się do grupy docelowej określonej przez emitenta lub wystawcę instrumentu finansowego;
-6) stosuje odpowiednio przepisy § 34 ust. 9–13, z uwzględnieniem charakteru danego instrumentu finansowego oraz rodzaju świadczonych usług maklerskich;
-7) w przypadku, o którym mowa w § 40 ust. 2, z uwzględnieniem zasady proporcjonalności, zakresu dostępnych publicznie informacji oraz stopnia złożoności instrumentu finansowego:
-a) podejmuje działania mające na celu zapewnienie, że informacje uzyskane od emitenta lub wystawcy instrumentu finansowego są rzetelne i zapewniają, że instrumenty finansowe będą oferowane, rekomendowane albo w inny sposób udostępnione do nabycia lub objęcia zgodnie z cechami, celami i potrzebami grupy docelowej,
-b) w przypadku gdy właściwe informacje na potrzeby określenia grupy docelowej nie są dostępne publicznie, działania, o których mowa w lit. a, mogą obejmować w szczególności zawarcie przez firmę inwestycyjną umowy z emitentem lub wystawcą instrumentu finansowego albo z ich przedstawicielem w celu uzyskania właściwych informacji umożliwiających dokonanie oceny grupy docelowej,
-c) uwzględnia informacje dostępne publicznie pod warunkiem, że są one wyraźne, wiarygodne i zostały przygotowane w celu spełnienia wymogów przewidzianych w przepisach prawa.
-7. Firma inwestycyjna, przy ocenie klienta dokonywanej w celu określenia grupy docelowej na podstawie kryteriów, o których mowa w ust. 6 pkt 1, może zastosować założenia w odniesieniu do wiedzy i doświadczenia klientów końcowych.
-8. Firma inwestycyjna może założyć, że klienci profesjonalni posiadają wiedzę i doświadczenie niezbędne do zrozumienia ryzyka powiązanego z poszczególnymi instrumentami finansowymi lub związanymi z nimi usługami, w odniesieniu do których zaklasyfikowano ich do kategorii klientów profesjonalnych. W takim przypadku firma inwestycyjna bierze pod uwagę różnice w zakładanym poziomie wiedzy i doświadczenia między klientami detalicznymi i klientami profesjonalnymi, a także między klientami profesjonalnymi, o których mowa w art. 3a ust. 1 ustawy, i pozostałymi klientami profesjonalnymi.
-9. Firma inwestycyjna przy określaniu grupy docelowej oraz strategii dystrybucji uwzględnia istotne informacje przekazane jej przez emitenta lub wystawcę instrumentu finansowego, w przypadku gdy:
-1) firma inwestycyjna nie może, ze względu na rodzaj świadczonej usługi, w szczególności usługi wykonania zlecenia nabycia lub zbycia instrumentów finansowych, przeprowadzić dokładnej oceny grupy docelowej dla instrumentów finansowych, w tym dla instrumentów finansowych charakteryzujących się wysokim poziomem złożoności, podwyższonym ryzykiem, brakiem płynności albo zmniejszoną płynnością albo innymi cechami istotnymi dla grupy docelowej, lub
-2) jest możliwe wystąpienie istotnego konfliktu interesów, w szczególności w odniesieniu do instrumentów finansowych emitowanych albo wystawianych przez tę samą firmę lub przez inne podmioty należące do tej samej grupy kapitałowej, do której należy firma inwestycyjna, albo w przypadku gdy firma inwestycyjna otrzymuje świadczenia pieniężne lub świadczenia niepieniężne od podmiotów trzecich.
-10. W przypadku, o którym mowa w ust. 8, firma inwestycyjna przeprowadza analizę zasadności wyłączenia danego instrumentu finansowego z zakresu instrumentów finansowych przez nią oferowanych lub rekomendowanych albo w inny sposób udostępnionych do nabycia lub objęcia, także w przypadku, gdy firma inwestycyjna byłaby w stanie ocenić zgodność tego instrumentu ze swoją bazą klientów pod kątem posiadanych przez nich wiedzy i doświadczenia.
-11. W przypadku gdy informacje dostępne firmie inwestycyjnej nie pozwalają na przeprowadzenie pełnej oceny grupy docelowej, firma inwestycyjna może oferować lub rekomendować albo w inny sposób udostępniać instrument finansowy do nabycia lub objęcia bez świadczenia usługi, o której mowa w art. 69 ust. 2 pkt 5 ustawy, po uprzednim poinformowaniu klienta o braku możliwości dokonania pełnej oceny zgodności potrzeb, cech lub celów klienta z tym instrumentem.
-12. W przypadku gdy klient profesjonalny albo uprawniony kontrahent nabywa lub obejmuje od firmy inwestycyjnej instrument finansowy z zamiarem jego dalszej sprzedaży innym klientom, nie uznaje się takiego klienta albo uprawnionego kontrahenta za klienta końcowego.
-13. W przypadku, o którym mowa w ust. 12, klient profesjonalny albo uprawniony kontrahent działający z zamiarem dalszego oferowania, rekomendowania albo udostępniania w inny sposób danego instrumentu finansowego do nabycia lub objęcia przez innych klientów, stosują przepisy niniejszego oddziału.
-14. Firma inwestycyjna przy ustalaniu, które instrumenty finansowe będą przez nią udostępnione do nabycia lub objęcia z inicjatywy klientów, uwzględnia okoliczność, że w takich przypadkach poziom dostępnej firmie inwestycyjnej wiedzy o klientach, w szczególności w zakresie, o którym mowa w § 34 ust. 4 pkt 2–5, może być znacznie ograniczony.
-§ 42. W przypadku gdy firma inwestycyjna oraz wystawca lub emitent określają dla tego samego instrumentu finansowego w tym samym czasie grupę docelową, w szczególności wykonują obowiązki, o których mowa odpowiednio w § 37 i § 47, podmioty te ponoszą odpowiedzialność za prawidłowe wykonywanie obowiązków w odniesieniu do grupy docelowej tego instrumentu finansowego określonych w przepisach art. 83b ust. 7–17 ustawy oraz oddziału 4 i niniejszego oddziału.
-W szczególności emitent lub wystawca instrumentu finansowego zapewnia, aby instrument finansowy był oferowany lub rekomendowany określonej przez niego grupie docelowej, a firma inwestycyjna zapewnia, aby instrumenty finansowe, które oferuje lub rekomenduje albo w inny sposób umożliwia ich nabycie lub objęcie, były oferowane lub rekomendowane albo nabywane lub obejmowane wyłącznie w przypadku, gdy są zgodne z grupą docelową klienta.
-§ 43. 1. Firma inwestycyjna wdraża odpowiednie rozwiązania w celu zapewnienia zgodności instrumentów finansowych, jakie zamierza oferować lub rekomendować albo w inny sposób umożliwiać ich nabycie lub objęcie, oraz usług, jakie zamierza świadczyć, z potrzebami, cechami i celami określonej grupy docelowej, a w przypadku gdy instrument finansowy uwzględnia czynniki zrównoważonego rozwoju – również z celami związanymi ze zrównoważonym rozwojem, a także zgodności zamierzonej strategii dystrybucji z określoną grupą docelową.
-2. Firma inwestycyjna przeprowadza okresowe przeglądy i aktualizacje rozwiązań, o których mowa w ust. 1, w celu zapewnienia ich ciągłej solidności i zgodności z ich celem, a w razie potrzeby podejmuje odpowiednie działania.
-3. W ramach przeglądów, o których mowa w ust. 2, firma inwestycyjna ocenia co najmniej, czy produkty lub usługi pozostają zgodne z potrzebami, cechami i celami określonej grupy docelowej, a w przypadku gdy instrument finansowy uwzględnia czynniki zrównoważonego rozwoju – również z celami związanymi ze zrównoważonym rozwojem, a także czy zamierzona strategia dystrybucji jest odpowiednia. Dokonując przeglądów firma inwestycyjna uwzględnia skargi klientów.
-4. Firma inwestycyjna określa i ocenia sytuację i potrzeby klientów, dla których zamierza świadczyć usługi, tak aby zapewnić, że interesy klientów nie zostaną naruszone w wyniku nacisków handlowych lub finansowych. W tym celu firma określa wszystkie grupy klientów, z których potrzebami, cechami i celami instrument finansowy lub usługa nie są zgodne, ustalając w ten sposób negatywną grupę docelową.
-5. Firma inwestycyjna przy określaniu negatywnej grupy docelowej nie uwzględnia kryteriów obejmujących czynniki zrównoważonego rozwoju.
-6. W przypadku instrumentu finansowego uwzględniającego czynniki zrównoważonego rozwoju firma inwestycyjna uznaje, że odpowiada on celom i potrzebom inwestycyjnym również tych klientów docelowych, których cele i potrzeby inwestycyjne nie są związane ze zrównoważonym rozwojem, pod warunkiem że ich pozostałe cele i potrzeby inwestycyjne są spełnione przez ten instrument.
-7. W procesie ustalania negatywnej grupy docelowej firma inwestycyjna stosuje odpowiednio przepisy § 34 ust. 6 i 7 oraz § 41 ust. 6 pkt 1–5 oraz ust. 9 i 10.
-8. W przypadku gdy ze względu na szczególne cechy określonej przez firmę inwestycyjną grupy docelowej cechy klientów należących do tej grupy posiadają równocześnie cechy przeciwstawne, firma inwestycyjna może ustalić negatywną grupę docelową przez stwierdzenie, że dany instrument finansowy lub dana usługa nie odpowiadają żadnemu klientowi poza grupą docelową.
-9. Firma inwestycyjna podejmuje niezbędne działania zapewniające otrzymywanie odpowiednich i wiarygodnych informacji o instrumencie finansowym, emitencie lub wystawcy tego instrumentu finansowego od emitenta lub wystawcy tego instrumentu finansowego, w tym od emitenta lub wystawcy, którzy nie podlegają przepisom ustawy, tak aby zapewnić zgodność strategii dystrybucji instrumentu finansowego z potrzebami, cechami i celami grupy docelowej, jeżeli informacje te nie są publicznie dostępne.
-10. Przez publicznie dostępne informacje rozumie się informacje, które są jasne, wiarygodne i przedstawione w celu spełnienia przez emitenta lub wystawcę instrumentu finansowego obowiązków wynikających z przepisów prawa.
-11. Firma inwestycyjna wykonuje obowiązek, o którym mowa w ust. 9, w sposób proporcjonalny, w zależności od stopnia, w jakim można uzyskać publicznie dostępne informacje na rynku pierwotnym lub rynku wtórnym, oraz złożoności instrumentu finansowego.
-12. Firma inwestycyjna uwzględnia informacje otrzymane od emitentów lub wystawców instrumentów finansowych oraz informacje dotyczące ich własnych klientów przy określeniu grupy docelowej i strategii dystrybucji, z zastrzeżeniem art. 83b ust. 17 ustawy.
-13. Firma inwestycyjna nie oferuje, nie rekomenduje ani w inny sposób nie umożliwia nabycia lub objęcia instrumentu finansowego, jeżeli na podstawie informacji i danych, którymi dysponuje, zebranych w ramach świadczenia przez tę firmę usług maklerskich lub innej działalności lub uzyskanych z innych źródeł, w tym informacji uzyskanych od podmiotów, które wyemitowały lub wystawiły instrumenty finansowe, które firma inwestycyjna oferuje lub rekomenduje albo w inny sposób umożliwia ich nabycie lub objęcie, oceni, że dany instrument finansowy nie odpowiada potrzebom i cechom jej istniejących lub przyszłych klientów.
-14. Przepisu ust. 13 nie stosuje się do instrumentów finansowych, których nabycie lub objęcie następuje wyłącznie z inicjatywy klienta.
-§ 44. 1. Firma inwestycyjna uwzględnia i szczegółowo analizuje strategię dystrybucji określoną dla danego instrumentu finansowego przez emitenta lub wystawcę tego instrumentu, a w przypadku gdy emitent albo wystawca danego instrumentu finansowego nie podlega przepisom ustawy albo nie określił strategii dystrybucji – określa taką strategię z uwzględnieniem informacji dotyczących bazy jej własnych klientów oraz rodzaju świadczonych przez nią usług maklerskich.
-2. W przypadku gdy emitent lub wystawca instrumentu finansowego:
-1) uzna, że właściwości instrumentu finansowego są zgodne ze strategią dystrybucji zakładającą brak świadczenia usługi, o której mowa w art. 69 ust. 2 pkt 5 ustawy, w odniesieniu do tego instrumentu finansowego – firma inwestycyjna może uznać, że klient posiada cechy wskazujące, że świadczenie tej usługi będzie służyć działaniu w najlepiej pojętym interesie klienta, w szczególności w przypadku, gdy klient ten posiada ograniczony poziom wiedzy lub nie posiada doświadczenia związanego z inwestowaniem w dany rodzaj instrumentu finansowego;
-2) założy, że dla danego instrumentu finansowego należy świadczyć usługę, o której mowa w art. 69 ust. 2 pkt 5 ustawy – firma inwestycyjna może podjąć decyzję o udostępnieniu instrumentu finansowego do nabycia lub objęcia bez świadczenia tej usługi, w szczególności przez usługę wykonania zlecenia nabycia lub zbycia instrumentów finansowych, pod warunkiem że przeprowadzi dokładną analizę cech instrumentu finansowego i grupy docelowej.
-3. W przypadku podjęcia przez firmę inwestycyjną decyzji, o której mowa w ust. 2, firma inwestycyjna informuje o tej decyzji emitenta lub wystawcę instrumentu finansowego.
-§ 45. 1. Firma inwestycyjna, świadcząc usługi, o których mowa w art. 69 ust. 2 pkt 4 lub 5 ustawy, może uwzględniać lub wykorzystywać instrumenty finansowe nienależące do grupy docelowej klienta do dywersyfikacji ryzyka i zabezpieczania pozycji wynikających z instrumentów finansowych pod warunkiem, że rekomendowany albo zarządzany portfel instrumentów finansowych jako całość lub jako połączenie instrumentu finansowego z jego zabezpieczeniem są odpowiednie dla tego klienta.
-2. Firma inwestycyjna oferuje lub rekomenduje albo w inny sposób umożliwia nabywanie lub obejmowanie instrumentu finansowego w ramach negatywnej grupy docelowej wyłącznie w wyjątkowych przypadkach, także gdy służy to dywersyfikacji ryzyka klienta.
-§ 46. 1. W przypadku gdy instrument finansowy, w odniesieniu do którego:
-1) przekazano klientowi informacje,
-2) przeprowadzono ocenę odpowiedniości,
-3) określono konflikty interesu i sposób zarządzania nimi – jest przez firmę inwestycyjną oferowany lub rekomendowany albo w inny sposób udostępniony do nabycia albo objęcia przez klienta nienależącego do grupy docelowej, firma inwestycyjna w sprawozdaniu na temat odpowiedniości tego instrumentu finansowego uzasadnia takie przypadki przez wskazanie szczególnych okoliczności faktycznych oraz ich udokumentowanie.
-2. W przypadku gdy instrument finansowy jest przez firmę inwestycyjną oferowany lub rekomendowany albo w inny sposób udostępniony do nabycia bądź objęcia przez klienta należącego do negatywnej grupy docelowej, uzasadnienie, o którym mowa w ust. 1, powinno być odpowiednio istotne oraz bardziej szczegółowo umotywowane niż w przypadkach, o których mowa w § 43 ust. 1.
-§ 47. 1. Firma inwestycyjna, przy podejmowaniu decyzji o zakresie instrumentów finansowych wyemitowanych lub wystawionych przez tę firmę lub przez inną firmę inwestycyjną, jakie zamierza oferować lub rekomendować albo w inny sposób umożliwiać ich nabycie lub objęcie, o rodzaju usług, jakie zamierza świadczyć, oraz o odpowiednich grupach docelowych, jest obowiązana przestrzegać procedur i rozwiązań służących zapewnieniu zgodności z przepisami ustawy, niniejszego rozporządzenia oraz rozporządzenia 2017/565, w szczególności dotyczącymi ujawniania informacji, oceny odpowiedniości lub adekwatności, przyjmowania lub przekazywania świadczeń pieniężnych lub świadczeń niepieniężnych do osób trzecich lub na rzecz osób trzecich oraz zarządzania konfliktami interesów.
-2. Obowiązek określenia przez firmę inwestycyjną grupy docelowej oraz oferowania lub rekomendowania albo w inny sposób umożliwiania nabycia lub objęcia instrumentu finansowego zgodnie z grupą docelową nie może być zastąpiony przez przeprowadzenie oceny odpowiedniości usługi maklerskiej lub instrumentu finansowego będącego jej przedmiotem oraz powinien być zrealizowany przez firmę inwestycyjną wraz z oceną odpowiedniości tej usługi lub instrumentu finansowego.
-3. Firma inwestycyjna zachowuje szczególną staranność w przypadku, gdy zamierza oferować lub rekomendować albo umożliwiać w inny sposób nabycie lub objęcie nowych instrumentów finansowych, a także w przypadku, gdy dokonuje zmian w świadczonych przez siebie usługach.
-4. Firma inwestycyjna przeprowadza regularne przeglądy instrumentów finansowych, które rekomenduje lub oferuje albo w inny sposób umożliwia ich nabycie lub objęcie oraz świadczonych przez nią usług, z uwzględnieniem wszystkich zdarzeń, które mogłyby w znaczący sposób wpłynąć na potencjalne ryzyko dla określonej grupy docelowej.
-5. Firma inwestycyjna określa ponownie grupę docelową lub aktualizuje rozwiązania, o których mowa w § 43 ust. 1, jeżeli stwierdzi, że:
-1) błędnie określiła grupę docelową w odniesieniu do danego instrumentu finansowego lub danej usługi;
-2) instrument finansowy lub usługa nie są zgodne z potrzebami, cechami i celami określonej grupy docelowej.
-6. W przypadku, o którym mowa w ust. 5, firma inwestycyjna, jeżeli jest to niezbędne, ponownie określa strategię dystrybucji.
-§ 48. Firma inwestycyjna zatrudnia osoby posiadające fachową wiedzę niezbędną do zrozumienia właściwości instrumentów finansowych, które rekomenduje lub oferuje albo w inny sposób umożliwia ich objęcie lub nabycie, oraz czynników ryzyka związanych z tymi instrumentami finansowymi lub świadczonymi usługami, a także do zrozumienia potrzeb, cech i celów określonej grupy docelowej.
-§ 49. 1. Zarząd firmy inwestycyjnej sprawuje kontrolę nad prawidłowym wypełnianiem przez firmę inwestycyjną obowiązków określonych w art. 83b ust. 9, 13, 14, 16 i 17 ustawy oraz w niniejszym oddziale, a także zapewnia, aby przekazywane mu systematycznie sprawozdania dotyczące przestrzegania tych przepisów zawierały informacje związane z oferowanymi lub rekomendowanymi przez firmę inwestycyjną produktami oraz świadczonymi usługami.
-2. Firma inwestycyjna udostępnia sprawozdania, o których mowa w ust. 1, Komisji Nadzoru Finansowego, na jej żądanie.
-3. Funkcja zgodności z przepisami, o której mowa w art. 22 ust. 2 rozporządzenia 2017/565, monitoruje zmiany i okresowe przeglądy rozwiązań, o których mowa w § 47 ust. 1, w celu wykrycia ryzyka niewywiązania się przez firmę inwestycyjną z obowiązków określonych w niniejszym oddziale.
-§ 50. 1. Firma inwestycyjna przekazuje emitentom lub wystawcom instrumentów finansowych informacje dotyczące sprzedaży oraz informacje dotyczące wyników przeglądów, o których mowa w § 47 ust. 4, w celu umożliwienia ich wykorzystania w trakcie przeglądów instrumentów finansowych dokonywanych przez emitentów lub wystawców instrumentów finansowych.
-2. W przypadku, o którym mowa w ust. 1, firma inwestycyjna udostępnia:
-1) informacje i dane, które mogą wskazywać, że grupa docelowa została błędnie określona w odniesieniu do danego instrumentu finansowego lub danej usługi maklerskiej lub instrument finansowy lub usługa maklerska nie odpowiadają okolicznościom związanym z określoną grupą docelową, w szczególności gdy z powodu zmian warunków rynkowych instrument finansowy straci płynność lub będzie się charakteryzował dużą zmiennością cen;
-2) informacje o przypadkach rozszerzenia strategii dystrybucji określonej przez emitenta lub wystawcę oraz oferowania lub rekomendowania albo umożliwiania w inny sposób nabywania przez nią instrumentu finansowego poza grupą docelową określoną przez emitenta lub wystawcę, w tym informacje o oferowaniu, rekomendowaniu lub o nabywaniu lub obejmowaniu instrumentów finansowych przez klientów należących do negatywnej grupy docelowej, z zastrzeżeniem § 45 ust. 2.
-3. Informacje i dane, o których mowa w ust. 2, są przekazywane na zasadzie proporcjonalności i mogą być zagregowane, bez podziału na poszczególne instrumenty lub transakcje, z wyjątkiem przypadków o istotnym znaczeniu dla określenia grupy docelowej lub strategii dystrybucji danego instrumentu finansowego, w szczególności w przypadku, gdy w ocenie firmy inwestycyjnej grupa docelowa tego instrumentu została błędnie określona.
-§ 51. W przypadku gdy firma inwestycyjna, która rekomenduje, oferuje albo w inny sposób umożliwia nabycie bądź objęcie instrumentu finansowego, wykonuje te czynności we współpracy bezpośredniej lub pośredniej z innymi firmami inwestycyjnymi, za wypełnienie obowiązków, o których mowa w niniejszym oddziale, odpowiada firma inwestycyjna posiadająca bezpośrednią relację z klientem. Pozostałe współpracujące firmy inwestycyjne:
-1) przekazują innym współpracującym firmom inwestycyjnym informacje o instrumencie finansowym, które uzyskały od emitenta lub wystawcy tego instrumentu finansowego;
-2) przekazują emitentowi lub wystawcy instrumentu finansowego informacje dotyczące sprzedaży instrumentu finansowego;
-3) stosują rozwiązania, o których mowa w art. 83b ust. 8 i 12 ustawy, oraz w oddziale 4 niniejszego rozdziału – w przypadku gdy jest to niezbędne dla zapewnienia, że instrument finansowy lub usługa będą odpowiednie dla grupy docelowej.
-§ 52. Przepisów niniejszego oddziału nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
-§ 53. 1. Przepisy niniejszego rozdziału stosuje się do banków, o których mowa w art. 70 ust. 2 ustawy.
-2. Przepisy:
-1) § 3–6 i § 22–25 stosuje się odpowiednio do banków powierniczych;
-2) § 7–9, § 12–20, § 26–30, § 40, § 41 ust. 1–12 i 14, § 42–44, § 45 ust. 2 oraz § 46–51 stosuje się odpowiednio do banku powierniczego w zakresie działalności polegającej na wykonywaniu czynności pośrednictwa w pożyczkach papierów wartościowych.
-3. Przepisu § 24 ust. 2 pkt 2 nie stosuje się do banków prowadzących działalność maklerską, banków państwowych prowadzących działalność maklerską oraz banków, o których mowa w art. 70 ust. 2 ustawy, w zakresie środków pieniężnych klientów, które przechowują.
-§ 54. 1. Firma inwestycyjna przyjmuje zlecenia zawierające co najmniej:
-1) dane ustalone z klientem, umożliwiające jednoznaczną identyfikację klienta;
-2) datę i czas wystawienia;
-3) rodzaj i liczbę instrumentów finansowych będących przedmiotem zlecenia;
-4) przedmiot zlecenia;
-5) określenie ceny;
-6) oznaczenie terminu ważności zlecenia;
-7) podpis klienta lub jego pełnomocnika – w przypadku zleceń w formie pisemnej.
-2. Przepisu ust. 1 nie stosuje się, jeżeli uniemożliwiają to przepisy lub zasady regulujące obrót instrumentami finansowymi, których dotyczy zlecenie lub dyspozycja i charakter usługi, w ramach której są przyjmowane zlecenia lub dyspozycje.
-3. W przypadku gdy w jednym dokumencie zamieszczono więcej niż jedno zlecenie, dokument ten zawiera wyraźne określenie liczby zleceń. W takim przypadku jest wystarczające złożenie jednego podpisu klienta lub jego pełnomocnika.
-4. Firma inwestycyjna potwierdza klientowi przyjęcie zlecenia, z wyjątkiem zleceń składanych za pośrednictwem telefonu.
-5. W przypadku, o którym mowa w § 24 ust. 8:
-1) pkt 1, zlecenie zawiera również dane umożliwiające jednoznaczną identyfikację podmiotu, o którym mowa w art. 121 ust. 2 pkt 2 ustawy;
-2) pkt 2, zlecenie zawiera również oznaczenie klienta lub klientów, którzy zawarli z podmiotem prowadzącym rachunek papierów wartościowych umowę, o której mowa w art. 121 ust. 1 ustawy, oraz na których rachunek zostało złożone zlecenie, pozwalające na jednoznaczną identyfikację tego klienta lub tych klientów, jeżeli umowa zawarta przez firmę inwestycyjną z podmiotem, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, nie przewiduje obowiązku wskazywania przez ten podmiot firmie inwestycyjnej, do końca dnia, w którym wykonane zostało zlecenie, osób, na rzecz których zostało złożone zlecenie, ze wskazaniem liczby nabywanych lub zbywanych instrumentów finansowych dla poszczególnych osób. W przypadku zleceń wykonywanych częściowo przekazywanie informacji następuje każdego dnia, w którym było wykonywane zlecenie, w zakresie, w jakim dotyczą one części zlecenia wykonywanej w tym dniu.
-6. W przypadku zlecenia umożliwiającego wystawienie na jego podstawie więcej niż jednego zlecenia brokerskiego lub innego zlecenia lub oferty przekazywanych na odpowiedni rynek zamiast liczby instrumentów finansowych zlecenie może zawierać maksymalną łączną wartość transakcji będących wynikiem wykonania zlecenia.
-7. Zlecenie może zawierać dodatkowe warunki jego wykonania, jeżeli nie są one sprzeczne z odrębnymi przepisami i regulaminami przeprowadzania transakcji na rynku, na który jest przekazywane, w szczególności zlecenie umożliwiające wystawianie na jego podstawie więcej niż jednego zlecenia brokerskiego lub innego zlecenia lub oferty przekazywanych na odpowiedni rynek.
-8. Zlecenie zawiera oznaczenia pozwalające na jego odróżnienie od innych zleceń, jeżeli:
-1) jego przedmiotem jest kupno instrumentów finansowych za środki pieniężne pożyczone od firmy inwestycyjnej;
-2) zawiera klauzulę umożliwiającą wystawianie na jego podstawie więcej niż jednego zlecenia brokerskiego lub innego zlecenia lub oferty przekazywanych na odpowiedni rynek.
-9. W przypadku gdy zlecenie jest składane przez pełnomocnika klienta, zawiera ono również dane umożliwiające jednoznaczną identyfikację osoby składającej zlecenie.
-§ 55. 1. Firma inwestycyjna, wykonując zlecenie klienta, o którym mowa w art. 73 ust. 7 ustawy, przestrzega zasad wykonywania tego rodzaju zleceń określonych w regulaminach i innych regulacjach podmiotów prowadzących rynek regulowany, ASO lub OTF oraz dokonujących rozrachunku lub rozliczenia transakcji, w szczególności podejmuje działania w celu zapewnienia terminowego dostarczenia papierów wartościowych do dokonania rozrachunku z zasadami określonymi przez podmiot dokonujący rozrachunku transakcji.
-2. Firma inwestycyjna, która zgodnie z procedurami wewnętrznymi zweryfikowała zlecenie klienta jako niedopuszczalne do przyjęcia do wykonania, w przypadkach, o których mowa w art. 73 ust. 7 i 8 ustawy, niezwłocznie informuje klienta o odmowie przyjęcia jego zlecenia do wykonania.
-§ 56. 1. Zarządzający może wystawiać jedno zlecenie na rzecz swoich klientów, pod warunkiem że do końca dnia, w którym zostało wykonane zlecenie nabycia lub zbycia instrumentów finansowych, określi liczbę instrumentów finansowych kupowanych lub sprzedawanych dla poszczególnych klientów.
-2. Przez zarządzającego, o którym mowa w ust. 1, rozumie się:
-1) firmę inwestycyjną świadczącą usługi zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych;
-2) towarzystwo funduszy inwestycyjnych w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych;
-3) towarzystwo funduszy inwestycyjnych zarządzające zbiorczymi portfelami papierów wartościowych;
-4) zagraniczną firmę inwestycyjną oraz podmiot, o którym mowa w art. 115 ust. 1 ustawy, świadczące poza terytorium Rzeczypospolitej Polskiej usługi zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych.
-§ 57. 1. Firma inwestycyjna świadcząca usługi przyjmowania i przekazywania zleceń może, po uzyskaniu zgody klienta, na zasadach określonych w umowie, doprowadzić do zawarcia transakcji między inwestorami poza obrotem zorganizowanym. W takim przypadku zlecenie może nie zawierać wskazania ceny lub liczby instrumentów finansowych będących przedmiotem zlecenia.
-2. Zgoda, o której mowa w ust. 1, może być udzielona w formie ogólnej albo w odniesieniu do poszczególnych transakcji.
-§ 58. 1. Przepisy niniejszego oddziału stosuje się do banków, o których mowa w art. 70 ust. 2 ustawy.
-2. Przepisy § 54 stosuje się odpowiednio do banków powierniczych w zakresie wykonywania czynności pośrednictwa w pożyczkach papierów wartościowych.
-§ 59. Upoważniony pracownik firmy inwestycyjnej potwierdza przyjęcie przez firmę inwestycyjną zlecenia do wykonania w sposób uzgodniony z klientem w umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych.
-W przypadku zleceń składanych w formie pisemnej potwierdzenie następuje przez złożenie przez upoważnionego pracownika podpisu na dokumencie zawierającym zlecenie lub zlecenia.
-§ 60. Na podstawie zlecenia firma inwestycyjna wystawia zlecenie lub zlecenia brokerskie, które są przekazywane do miejsca wykonania, z wyłączeniem zleceń wykonywanych na zasadach określonych w art. 73 ust. 2 ustawy.
-§ 61. Firma inwestycyjna może przyjmować do wykonania zlecenia przekazywane za pomocą telefonu, telefaksu, modemu lub innych urządzeń technicznych lub elektronicznych nośników informacji, jeżeli przewiduje to umowa o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych.
-§ 62. 1. Na zasadach określonych w zawartej z klientem umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych oraz w regulaminie świadczenia usług wykonywania zleceń nabycia lub zbycia instrumentów finansowych firma inwestycyjna wystawia zlecenia brokerskie kupna instrumentów finansowych na podstawie zlecenia, pod warunkiem że w chwili wystawienia przez firmę inwestycyjną zlecenia brokerskiego klient posiada pełne pokrycie wartości zlecenia oraz kosztów jego wykonania w wysokości uzgodnionej w umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych.
-2. Firma inwestycyjna może odstąpić od wymogu posiadania przez klienta pełnego pokrycia wartości zlecenia oraz kosztów jego wykonania oraz wymogu ustanowienia przez klienta zabezpieczeń dokonania przez niego zapłaty, w przypadku gdy w opinii firmy inwestycyjnej pozwala na to ocena stanu finansowego i wiarygodności klienta, dokonana zgodnie z § 68 ust. 1.
-3. Firma inwestycyjna określa w umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych limit maksymalnej wysokości należności firmy inwestycyjnej od klienta z tytułu transakcji zawartych w wyniku wykonania zleceń przy braku pełnego pokrycia wartości tych zleceń oraz kosztów jego wykonania.
-4. Wartość zlecenia, którego przedmiotem jest nabycie instrumentów finansowych, ustala się jako maksymalną kwotę zobowiązania, które może powstać z tytułu pełnej zapłaty za nabywane instrumenty finansowe przy całkowitym wykonaniu zlecenia.
-5. Przepis ust. 1 nie wyłącza możliwości udzielenia klientowi pożyczki na zakup instrumentów finansowych zgodnie z odrębnymi przepisami.
-§ 63. 1. W przypadku gdy w chwili wystawienia zlecenia brokerskiego rejestr sesji nie został otwarty, podstawą do sprawdzenia pokrycia, o którym mowa w § 62 ust. 1, jest suma niezablokowanych środków pieniężnych klienta zdeponowanych na jego rachunku pieniężnym.
-2. Suma niezablokowanych środków pieniężnych, o której mowa w ust. 1, jest zwiększana o sumę środków pieniężnych stanowiących należności klienta z tytułu zawartych transakcji, jeżeli rozrachunek tych transakcji we właściwej izbie rozrachunkowej powinien nastąpić najpóźniej w dniu rozrachunku transakcji kupna instrumentów finansowych, pod warunkiem że transakcja sprzedaży instrumentów finansowych spełnia wymogi określone w art. 7 ust. 5 ustawy.
-3. W przypadku gdy zlecenie brokerskie kupna instrumentów finansowych jest wystawiane po otwarciu przez firmę inwestycyjną rejestru sesji, podstawą do sprawdzenia pokrycia, o którym mowa w § 62 ust. 1, jest stan niezablokowanych środków pieniężnych w rejestrze sesji.
-4. Przy sprawdzaniu pokrycia wartości zlecenia, którego przedmiotem jest nabycie instrumentów finansowych, wystawianego w przypadku określonym w ust. 3, środki pieniężne stanowiące należności klienta z tytułu zawartych transakcji sprzedaży instrumentów finansowych uwzględnia się wyłącznie w przypadku, gdy rozrachunek tych transakcji we właściwej izbie rozrachunkowej powinien nastąpić najpóźniej w dniu rozrachunku danej transakcji kupna instrumentów finansowych, oraz pod warunkiem, że transakcja sprzedaży instrumentów finansowych spełnia wymogi określone w art. 7 ust. 5 ustawy.
-§ 64. 1. W przypadku zlecenia, o którym mowa w § 56 ust. 1, firma inwestycyjna może odstąpić od sprawdzania pokrycia zlecenia w rejestrach sesji lub na rachunkach pieniężnych poszczególnych klientów, na rzecz których zostało złożone zlecenie.
-2. W przypadku gdy zarządzającym, o którym mowa w § 56 ust. 1, jest podmiot inny niż firma inwestycyjna wykonująca zlecenie, przepis ust. 1 stosuje się pod warunkiem zawarcia przez firmę inwestycyjną z zarządzającym umowy o gwarantowanie rozrachunku.
-3. Umowa, o której mowa w ust. 2, określa co najmniej tryb i warunki dostarczania instrumentów finansowych przez zarządzającego – w przypadku gdy przedmiotem zlecenia jest zbycie instrumentów finansowych – oraz gwarantowania zapłaty przez zarządzającego – w przypadku gdy przedmiotem zlecenia jest nabycie instrumentów finansowych, jeżeli instrumenty finansowe lub środki pieniężne klientów zarządzającego nie wystarczają do pełnego rozrachunku transakcji.
-§ 65. 1. W przypadku zawarcia umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych na warunkach określonych w § 62 ust. 3, umowa określa obowiązek dokonania przez klienta zapłaty nie później niż w dniu rozrachunku transakcji we właściwej izbie rozrachunkowej, w wysokości zobowiązań klienta wobec firmy inwestycyjnej z tytułu zawartych transakcji kupna instrumentów finansowych, pomniejszonych o należności klienta z tytułu zawartych transakcji sprzedaży instrumentów finansowych rozliczanych we właściwej izbie rozrachunkowej w tym dniu.
-2. Termin dokonania zapłaty określa umowa o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych.
-3. Firma inwestycyjna ponosi odpowiedzialność za dostarczenie na dzień rozrachunku transakcji kupna zawartych na rachunek klienta środków pieniężnych w wysokości niezbędnej dla rozrachunku tych transakcji, na zasadach określonych przez tę izbę.
-§ 66. W przypadku zawarcia umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych na warunkach określonych w § 62 ust. 3, firma inwestycyjna może żądać ustanowienia zabezpieczenia zapłaty należności przez klienta. Ustanowione zabezpieczenie powinno gwarantować pewną i płynną jego realizację w wysokości zabezpieczającej interesy firmy inwestycyjnej w przypadku niewywiązania się klienta z przyjętych zobowiązań.
-§ 67. 1. Firma inwestycyjna podejmuje działania mające na celu zapewnienie, że klient nie będzie wykorzystywał środków pieniężnych stanowiących pokrycie zlecenia kupna w wysokości niezbędnej dla dokonania rozrachunku transakcji zawieranych przez firmę inwestycyjną w związku z wykonaniem tego zlecenia.
-2. Przepisu ust. 1 nie stosuje się do firmy inwestycyjnej przyjmującej do wykonania zlecenie zawarcia transakcji, o której mowa w art. 7 ust. 5 pkt 2 ustawy, w zakresie środków pieniężnych należnych klientowi z tytułu sprzedaży papierów wartościowych, pod warunkiem że:
-1) zostaną one przeznaczone na rozliczenie transakcji kupna tej samej liczby tych samych papierów wartościowych;
-2) warunki obrotu obowiązujące na rynku regulowanym lub w ASO, w którym jest wykonywane zlecenie klienta, dopuszczają taką możliwość;
-3) klient zawarł uprzednio z firmą inwestycyjną wykonującą zlecenie umowę zapewniającą dostawę środków pieniężnych potrzebnych do rozliczenia transakcji kupna.
-§ 68. 1. Firma inwestycyjna uzależnia zawarcie umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych na warunkach określonych w § 62 ust. 2 od złożenia przez klienta, w formie pisemnej, oświadczenia o jego sytuacji finansowej, a także opracowuje system kryteriów, na podstawie których są określane limity, o których mowa w § 62 ust. 3, oraz na podstawie których jest podejmowana decyzja o zaproponowaniu klientowi określonego trybu dokonywania zapłaty z tytułu wykonania zleceń nabycia instrumentów finansowych.
-2. Przepisu ust. 1 nie stosuje się w przypadku, gdy umowa zawierana jest z klientem profesjonalnym, o ile klient profesjonalny nie jest traktowany jak klient detaliczny.
-§ 69. 1. W przypadku gdy klient nie dokonał zapłaty w wysokości, o której mowa w § 65 ust. 1, w terminie i na zasadach określonych w umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych, a nie jest możliwe zaspokojenie roszczeń firmy inwestycyjnej na podstawie zabezpieczenia, o którym mowa w § 66, firma inwestycyjna może zaspokoić swoje roszczenia z dostępnych aktywów klienta znajdujących się na rachunkach lub, w ewidencji lub rejestrze operacyjnym klienta, prowadzonych przez firmę inwestycyjną, lub z aktywów przechowywanych przez firmę inwestycyjną na rzecz klienta.
-2. Instrumenty finansowe nieopłacone przez klienta są zapisywane na rachunku klienta.
-§ 70. 1. Firma inwestycyjna wystawia zlecenie brokerskie sprzedaży na podstawie zlecenia, którego przedmiotem jest zbycie instrumentów finansowych, pod warunkiem że klient posiada pokrycie zlecenia w niezablokowanych instrumentach finansowych lub prawach do otrzymania instrumentów finansowych będących przedmiotem tego zlecenia, zapisane w rejestrze operacyjnym lub rejestrze sesji.
-2. Firma inwestycyjna podejmuje działania mające na celu zapewnienie, że klient, z chwilą wystawienia zlecenia brokerskiego, nie będzie wykorzystywał instrumentów finansowych stanowiących pokrycie zlecenia w wysokości niezbędnej dla dokonania rozrachunku transakcji zawieranych przez firmę inwestycyjną w związku z wykonaniem tego zlecenia.
-3. Przepisów ust. 1 i 2 nie stosuje się do zleceń:
-1) których wykonanie polega na zawarciu transakcji, o której mowa w art. 7 ust. 5 pkt 2 ustawy;
-2) zbycia papierów wartościowych nabytych w wyniku transakcji, o której mowa w art. 7 ust. 5 pkt 2 ustawy, w okresie od dnia jej zawarcia do dnia dokonania jej rozrachunku w zakresie zbycia papierów wartościowych, o ile:
-a) warunki obrotu obowiązujące na danym rynku regulowanym dopuszczają taką możliwość,
-b) klient zawarł z firmą inwestycyjną wykonującą zlecenie umowę zapewniającą dostawę papierów wartościowych potrzebnych do dokonania rozrachunku transakcji, o której mowa w art. 7 ust. 5 pkt 2 ustawy;
-3) których wykonanie polega na zawarciu transakcji krótkiej sprzedaży.
-§ 71. 1. W przypadku stwierdzenia braku pokrycia zlecenia firma inwestycyjna wykonuje zlecenie zbycia do wysokości pokrycia, o którym mowa w § 70 ust. 1, a zlecenie nabycia – do wysokości pokrycia, o którym mowa w § 62 ust. 1, i posiadanych zabezpieczeń albo odstępuje od wykonania zlecenia. Przyjęty sposób postępowania określa regulamin świadczenia usług wykonywania zleceń nabycia lub zbycia instrumentów finansowych.
-2. W przypadku składania kilku zleceń kolejność wykonywania zleceń określa klient.
-§ 72. 1. W przypadku instrumentów finansowych innych niż derywaty firma inwestycyjna dokonuje zapisów na rachunku i rachunku pieniężnym klienta po dokonaniu rozrachunku transakcji przez właściwą izbę rozrachunkową, nie później niż do końca dnia, w którym nastąpił rozrachunek.
-2. Przepis ust. 1 stosuje się odpowiednio do dokonywania zapisów na rachunku klienta prowadzonym przez bank powierniczy.
-§ 73. Firma inwestycyjna, wykonując czynności polegające na nabywaniu lub zbywaniu instrumentów finansowych na własny rachunek, w celu realizacji zadań związanych z funkcją animatora rynku, składa oferty kupna lub sprzedaży instrumentów finansowych i wykonuje zawarte transakcje na warunkach określonych na danym rynku lub w danym systemie obrotu instrumentami finansowymi.
-§ 74. Przepisy § 59–71 stosuje się odpowiednio do banków powierniczych w zakresie wykonywania czynności pośrednictwa w pożyczkach papierów wartościowych.
-§ 75. Do zleceń, których przedmiotem jest nabycie lub zbycie derywatów, stosuje się przepisy § 59–61 i § 73.
-§ 76. 1. Firma inwestycyjna wystawia zlecenie brokerskie na podstawie zlecenia, którego przedmiotem jest zawarcie transakcji terminowej, pod warunkiem że w chwili wystawienia zlecenia brokerskiego klient ustanowił zabezpieczenie w wysokości określonej przez:
-1) firmę inwestycyjną – w regulaminie wykonywania zleceń nabycia lub zbycia derywatów,
-2) bank powierniczy – w regulaminie prowadzenia rachunków papierów wartościowych – zarejestrowane zgodnie z zasadami odrębnej rejestracji, o których mowa w przepisach wydanych na podstawie art. 94 ust. 1 pkt 5 ustawy.
-2. Wysokość zabezpieczenia, o którym mowa w ust. 1, zapewnia wykonanie zobowiązań klienta z tytułu transakcji terminowej, z uwzględnieniem obowiązków firmy inwestycyjnej lub banku powierniczego wynikających z uczestnictwa w systemie zabezpieczania płynności rozliczania transakcji organizowanym przez właściwą izbę rozliczeniową.
-3. Przed wystawieniem zlecenia brokerskiego firma inwestycyjna dokonuje blokady instrumentów finansowych lub środków pieniężnych stanowiących przedmiot zabezpieczenia, a w przypadku gdy klient, w celu zabezpieczenia roszczeń z tytułu rozliczenia transakcji zawartych na podstawie jego zlecenia, zobowiązał się przenieść na firmę inwestycyjną prawa z papierów wartościowych – firma inwestycyjna dokonuje ich przeniesienia na własny rachunek papierów wartościowych na podstawie dyspozycji złożonej przez klienta.
-4. Firma inwestycyjna, niezwłocznie po rozliczeniu sesji, na której została zawarta transakcja terminowa, żąda od klienta uzupełnienia zabezpieczenia do wysokości nie niższej niż określona przez właściwą izbę rozliczeniową lub:
-1) wypłaca nadwyżkę zabezpieczenia wniesionego w środkach pieniężnych na rachunek pieniężny klienta;
-2) znosi blokadę instrumentów finansowych lub środków pieniężnych albo przenosi na klienta prawa z papierów wartościowych, stanowiących nadwyżkę ponad wymaganą wysokość zabezpieczenia.
-5. Firma inwestycyjna może, ze środków własnych, na zasadach określonych w umowie z klientem, który zawarł transakcję terminową, ustanowić zabezpieczenie transakcji klienta wymagane przez właściwą izbę rozliczeniową lub uzupełnić to zabezpieczenie w części, w której wysokość zabezpieczenia wynika z zawarcia transakcji za pośrednictwem tej firmy inwestycyjnej.
-§ 77. Firma inwestycyjna wystawia zlecenie brokerskie na podstawie zlecenia, którego przedmiotem jest:
-1) nabycie opcji, pod warunkiem że w chwili wystawienia zlecenia brokerskiego klient posiada pełne pokrycie wartości zlecenia i przewidywanej prowizji, ustalone zgodnie z § 63 i § 64;
-2) wystawienie opcji, pod warunkiem że w chwili wystawienia zlecenia brokerskiego klient posiada zabezpieczenie, o którym mowa w § 76 ust. 1;
-3) sprzedaż opcji, pod warunkiem że klient posiada tę opcję w chwili wystawienia zlecenia brokerskiego.
-§ 78. Firma inwestycyjna wykonuje zlecenia nabycia lub zbycia derywatów innych niż określone w § 76 i § 77 na warunkach określonych przez właściwą izbę rozliczeniową lub podmiot prowadzący system obrotu instrumentami finansowymi. Przepisy niniejszego oddziału stosuje się odpowiednio do wykonywania zleceń nabycia lub zbycia derywatów innych niż określone w § 76 i § 77.
-§ 79. Przepisy niniejszego oddziału stosuje się odpowiednio do wykonywania zleceń nabycia lub zbycia:
-1) praw majątkowych oraz instrumentów rynku niepublicznego, którymi obrót jest związany z obowiązkiem ustanowienia zabezpieczenia;
-2) zagranicznych instrumentów finansowych, którymi obrót związany jest z obowiązkiem ustanowienia zabezpieczenia, o ile co innego nie wynika z przepisów regulujących obrót na danym zagranicznym rynku regulowanym.
-§ 80. 1. Firma inwestycyjna, która nie prowadzi rachunku klienta, z którym zawarła umowę o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych, zawiera z podmiotem prowadzącym rachunek klienta umowę o dostarczanie instrumentów finansowych.
-2. Umowa, o której mowa w ust. 1, określa w szczególności tryb i warunki dostarczania instrumentów finansowych w przypadku zleceń zbycia oraz obowiązek potwierdzania pokrycia takich zleceń przez podmiot prowadzący rachunek na żądanie firmy inwestycyjnej, a także tryb i warunki ich rozliczania w przypadku wykonania zlecenia.
-§ 81. 1. Firma inwestycyjna, która nie prowadzi rachunku pieniężnego klienta, z którym zawarła umowę o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych, zawiera z podmiotem prowadzącym rachunek pieniężny lub rachunek bankowy tego klienta umowę o gwarantowaniu zapłaty.
-2. Umowa, o której mowa w ust. 1, określa w szczególności tryb i warunki gwarantowania zapłaty w przypadku zleceń nabycia instrumentów finansowych oraz ich potwierdzania przez podmiot prowadzący rachunek pieniężny lub rachunek bankowy klienta i rozliczania w przypadku wykonania zlecenia. Umowa może przewidywać możliwość żądania przez firmę inwestycyjną złożenia przez podmiot prowadzący rachunek pieniężny lub rachunek bankowy klienta zabezpieczenia na warunkach określonych w § 66.
-§ 82. W przypadku złożenia zlecenia sprzedaży instrumentów finansowych rejestrowanych na rachunku prowadzonym przez podmiot, o którym mowa w § 80 ust. 1, do obowiązków tego podmiotu przepis § 70 ust. 2 stosuje się odpowiednio.
-§ 83. 1. Przepisów § 80–82 nie stosuje się do zleceń składanych przez lub na rachunek klienta, który zawarł z podmiotem prowadzącym rachunek umowę na warunkach, o których mowa w art. 121 ust. 1 ustawy.
-2. W przypadku zleceń, o których mowa w ust. 1, składanych na rachunek klienta przez podmiot, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, firma inwestycyjna zawiera z tym podmiotem umowę o dostarczanie przez ten podmiot instrumentów finansowych, która określa co najmniej tryb i warunki dostarczania instrumentów finansowych w przypadku zleceń zbycia, oraz umowę o gwarantowaniu przez ten podmiot zapłaty, która określa co najmniej tryb i warunki gwarantowania zapłaty w przypadku zleceń nabycia instrumentów finansowych.
-3. Umowy, o których mowa w ust. 2, zawierają ponadto:
-1) określenie sposobu i terminów dostarczania podmiotowi, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, potwierdzeń zawarcia transakcji oraz trybu i warunków postępowania w przypadku, o którym mowa w art. 121 ust. 5 ustawy;
-2) określenie sposobu ustalenia wysokości szkody poniesionej przez firmę inwestycyjną, w przypadku gdy dostarczenie instrumentów finansowych lub środków pieniężnych lub doręczenie potwierdzenia zawartej transakcji nastąpi później niż w dniu, w którym powinien nastąpić rozrachunek transakcji na rynku regulowanym działającym na terytorium Rzeczypospolitej Polskiej;
-3) wskazanie, czy podmiot, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, zawarł z podmiotem prowadzącym rachunek klienta umowę o gwarantowaniu zapłaty i dostarczaniu instrumentów finansowych na rzecz firmy inwestycyjnej, określającą sposób postępowania w przypadku, gdy potwierdzenie zawartej transakcji zostało doręczone później niż w dniu, w którym powinien nastąpić rozrachunek zawartych transakcji na rynku regulowanym działającym na terytorium Rzeczypospolitej Polskiej.
-4. W przypadku gdy zlecenia, o których mowa w ust. 1, są składane na rachunek klienta na podstawie umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych zawartej przez firmę inwestycyjną z podmiotem, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, umowa o dostarczanie przez ten podmiot instrumentów finansowych zawiera postanowienia wskazane w ust. 2 i 3.
-5. W przypadku zleceń składanych przez klienta, który zawarł z podmiotem prowadzącym rachunek umowę na warunkach, o których mowa w art. 121 ust. 1 ustawy, bez pośrednictwa podmiotu, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, firma inwestycyjna w zawartej z klientem umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych określa tryb i warunki dostarczania instrumentów finansowych – w przypadku zleceń zbycia – oraz tryb i warunki gwarantowania zapłaty – w przypadku zleceń nabycia papierów wartościowych. Przepis ust. 2 i 3 stosuje się odpowiednio.
-6. Umowy, o których mowa w ust. 2–5, mogą przewidywać możliwość żądania przez firmę inwestycyjną złożenia przez klienta lub podmiot, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, zabezpieczeń zapłaty należności lub dostarczenia instrumentów finansowych. Ustanowione zabezpieczenie powinno gwarantować pewną i płynną jego realizację w wysokości zabezpieczającej interesy firmy inwestycyjnej.
-7. W przypadku, o którym mowa:
-1) w ust. 1, nie stosuje się przepisów § 62–71, § 76 i § 77;
-2) w ust. 3, stosuje się przepis § 68 ust. 1.
-8. Przepis ust. 1 nie wyłącza możliwości zawarcia przez firmę inwestycyjną z podmiotem prowadzącym rachunek umów, o których mowa w § 80 i § 81.
-9. Przepisy ust. 1–7 stosuje się odpowiednio w przypadku zamieszczenia w zawartej z bankiem powierniczym lub z firmą inwestycyjną umowie o prowadzenie rachunku zbiorczego zastrzeżenia, że rozliczenie na rachunku zbiorczym transakcji zawartej na podstawie zlecenia posiadacza rachunku zbiorczego nastąpi po dostarczeniu potwierdzenia tej transakcji odpowiednio bankowi powierniczemu lub firmie inwestycyjnej.
-§ 84. W przypadku gdy rachunek klienta jest prowadzony przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 i 2 ustawy:
-1) umowy, o których mowa w § 80 ust. 1 i § 81 ust. 1, firma inwestycyjna zawiera z takim klientem;
-2) umowa, o której mowa w § 80 ust. 1, zawiera co najmniej zobowiązanie takiego klienta do złożenia w Krajowym Depozycie lub spółce, której Krajowy Depozyt przekazał czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 i 2 ustawy, dyspozycji blokady instrumentów finansowych na żądanie firmy inwestycyjnej.
-§ 85. 1. Firma inwestycyjna uzależnia zawarcie umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy, od złożenia przez klienta, w formie pisemnej, oświadczenia o jego sytuacji finansowej.
-2. Firma inwestycyjna opracowuje kryteria, na podstawie których, po zawarciu umowy, o której mowa w ust. 1, będzie ustalana możliwość wykonania zlecenia w sposób, o którym mowa w art. 73 ust. 2 ustawy. Firma inwestycyjna przedstawia klientowi te kryteria przed zawarciem z nim umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych.
-Firma inwestycyjna informuje klientów, na których rzecz świadczy usługę wykonywania zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy, o każdej zmianie tych kryteriów.
-3. Firma inwestycyjna może odstąpić od obowiązków, o których mowa w ust. 1 i 2, w przypadku zawierania umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych z klientem profesjonalnym, o którym mowa w art. 3 pkt 39b lit. a–m ustawy, lub z uprawnionym kontrahentem.
-4. Kryteria, o których mowa w ust. 2, powinny umożliwiać firmie inwestycyjnej ograniczenie liczby zleceń wykonywanych w sposób, o którym mowa w art. 73 ust. 2 ustawy, składanych przez jednego klienta lub zleceń składanych przez klientów w tym samym czasie, jeżeli ich liczba znacząco przekracza ustaloną normę, o której mowa w art. 17 ust. 2 rozporządzenia 600/2014.
-§ 86. Przepisów niniejszego oddziału nie stosuje się do wykonywania zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy, polegających na przyjmowaniu zapisów na instrumenty finansowe emitowane lub wystawiane przez tę firmę inwestycyjną.
-§ 87. Przepisy niniejszego oddziału stosuje się do banków, o których mowa w art. 70 ust. 2 ustawy, w zakresie papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski dopuszczonych do obrotu na rynku regulowanym.
-§ 88. 1. Firma inwestycyjna pośrednicząca w oferowaniu instrumentów finansowych, przyjmuje zapisy na instrumenty finansowe zgodnie z warunkami oferty.
-2. Firma inwestycyjna przyjmuje wpłaty pieniężne z tytułu zapisów na instrumenty finansowe w wysokości i na warunkach określonych w ofercie.
-3. Firma inwestycyjna zawiera z emitentem, wystawcą lub oferującym umowę określającą tryb, terminy i warunki przekazania odpowiednio emitentowi, wystawcy lub oferującemu środków pieniężnych otrzymanych od klientów, którzy nabyli instrumenty finansowe w ofercie.
-4. Do środków pieniężnych otrzymanych od klientów, którzy dokonali wpłat na instrumenty finansowe, do czasu ich przekazania przez firmę inwestycyjną zgodnie z umową, o której mowa w ust. 3, stosuje się odpowiednio zasady odrębnego deponowania środków pieniężnych klientów, o których mowa w przepisach wydanych na podstawie art. 94 ust. 1 pkt 5 ustawy.
-§ 89. 1. Zapisanie instrumentów finansowych nabytych w wyniku oferowania na rachunku prowadzonym w firmie inwestycyjnej lub banku powierniczym następuje niezwłocznie po złożeniu odpowiedniego wniosku odpowiednio przez klienta lub uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym, chyba że warunki oferty przewidują inny termin.
-2. Przepis ust. 1 stosuje się również do zapisu na rachunku klienta, który nabył instrumenty finansowe od klienta albo uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym, któremu przydzielono te instrumenty.
-§ 90. 1. Zapisanie instrumentów finansowych na rachunku w związku z ich przeniesieniem, w wyniku transakcji lub innego zdarzenia prawnego, w obrocie wtórnym poza systemem obrotu instrumentami finansowymi, w przypadku gdy rachunki zbywcy i nabywcy są prowadzone przez ten sam podmiot, następuje niezwłocznie po powzięciu przez ten podmiot informacji o dokonaniu transakcji lub wystąpieniu zdarzenia, chyba że umowa przewiduje inny termin.
-2. Firma inwestycyjna lub bank powierniczy podejmują czynności związane z przeniesieniem instrumentów finansowych, które zostały zbyte, w wyniku transakcji lub innego zdarzenia prawnego, w obrocie wtórnym poza systemem obrotu instrumentami finansowymi, po przedstawieniu przez klienta (zbywcę) dokumentów wskazujących na podstawę przeniesienia instrumentów finansowych.
-3. W przypadku gdy czynności związane z przeniesieniem instrumentów finansowych są podejmowane na podstawie dyspozycji złożonej przez klienta profesjonalnego, firma inwestycyjna lub bank powierniczy mogą odstąpić od wymogu, o którym mowa w ust. 2.
-4. W przypadku gdy instrumenty finansowe są przenoszone z rachunku zbiorczego na inny rachunek, firma inwestycyjna lub bank powierniczy prowadzące rachunek zbiorczy dokonują czynności związanych z przeniesieniem instrumentów finansowych, które zostały zbyte, w wyniku transakcji lub innego zdarzenia prawnego, w obrocie wtórnym poza systemem obrotu instrumentami finansowymi, po otrzymaniu od posiadacza rachunku zbiorczego odpowiedniej dyspozycji.
-5. Firma inwestycyjna lub bank powierniczy mogą odmówić podjęcia czynności związanych z przeniesieniem instrumentów finansowych w przypadku powzięcia, na podstawie dokumentów, o których mowa w ust. 2, uzasadnionych wątpliwości wskazujących, że przeniesienie instrumentów finansowych ma na celu obejście przepisów prawa.
-6. Firma inwestycyjna lub bank powierniczy odmawiają podjęcia czynności, o których mowa w ust. 2, w przypadku gdy z dokumentów, o których mowa w ust. 2, wynika w sposób oczywisty, że przeniesienie instrumentów finansowych jest sprzeczne z przepisami prawa.
-7. Odmowa, o której mowa w ust. 5 lub 6, jest sporządzana w formie pisemnej i zawiera uzasadnienie. Przed dostarczeniem odmowy firma inwestycyjna lub bank powierniczy umożliwiają klientowi złożenie wyjaśnień w formie pisemnej lub ustnie.
-8. Przepisów ust. 1–7 nie stosuje się do przenoszenia instrumentów finansowych w wyniku wykonywania zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy, w przypadku gdy firma inwestycyjna prowadzi rachunek dla klienta, z którym została zawarta transakcja. Czynności, o których mowa w ust. 2, są podejmowane niezwłocznie po zawarciu transakcji.
-§ 91. Przeniesienie instrumentów finansowych i środków pieniężnych klienta albo uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym do innej firmy inwestycyjnej lub banku powierniczego oraz przeniesienie instrumentów finansowych, w wyniku transakcji lub innego zdarzenia prawnego, w obrocie wtórnym poza systemem obrotu instrumentami finansowymi, w przypadku gdy rachunki dla zbywcy i nabywcy są prowadzone przez różne podmioty, następuje niezwłocznie po złożeniu przez klienta albo uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym odpowiedniej dyspozycji. W przypadku gdy przeniesienie instrumentów finansowych następuje poza systemem obrotu instrumentami finansowymi, przepisy § 90 ust. 2–7 stosuje się odpowiednio do firmy inwestycyjnej lub banku powierniczego, w których złożono dyspozycję dokonania przeniesienia instrumentów finansowych.
-§ 92. Przepisy niniejszego oddziału stosuje się odpowiednio do postępowania firmy inwestycyjnej, w przypadku gdy instrumenty finansowe są rejestrowane na rachunkach innych niż rachunki papierów wartościowych i rachunki zbiorcze lub są rejestrowane w ewidencji.
-§ 93. Przepisy niniejszego oddziału stosuje się odpowiednio do postępowania banków, o których mowa w art. 70 ust. 2 ustawy.
-§ 94. 1. W przypadku gdy zostało ogłoszone wezwanie do zapisywania się na sprzedaż lub zamianę akcji, firma inwestycyjna przyjmuje zapisy po sprawdzeniu, czy podmiot odpowiadający na wezwanie posiada akcje będące przedmiotem wezwania i czy zostały one zablokowane na jego rachunku.
-2. W przypadku gdy akcje są zapisane na rachunku zbiorczym, firma inwestycyjna przyjmuje zapisy po uzyskaniu od posiadacza rachunku zbiorczego dokumentu, o którym mowa w art. 10 ust. 2 ustawy, potwierdzającego, że podmiot odpowiadający na wezwanie posiada akcje będące przedmiotem wezwania i zostały one zablokowane na rachunku zbiorczym.
-§ 95. Firma inwestycyjna przyjmuje zapisy na sprzedaż lub zamianę akcji zgodnie z warunkami określonymi w treści wezwania.
-§ 96. 1. Firma inwestycyjna wykonuje czynności związane z ustanawianiem i realizacją zabezpieczeń spłaty kredytów na nabycie instrumentów finansowych na podstawie umowy pomiędzy bankiem a klientem lub bankiem a uprawnionym z instrumentów finansowych zapisanych na rachunku zbiorczym, do której przystępuje, lub na podstawie odrębnej umowy pomiędzy bankiem a firmą inwestycyjną, zgodnie z którą firma inwestycyjna jest obowiązana dokonywać czynności zmierzających do ustanowienia i realizacji zabezpieczenia kredytu udzielonego przez bank.
-2. Umowa, o której mowa w ust. 1, zawiera co najmniej określenie:
-1) instrumentów finansowych, które mogą być nabywane za środki pieniężne pochodzące z kredytu;
-2) terminu spłaty kredytu;
-3) rodzaju i wysokości zabezpieczenia spłaty kredytu wymaganego od klienta lub uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym;
-4) sposobu dokonywania przez firmę inwestycyjną wyceny instrumentów finansowych stanowiących zabezpieczenie;
-5) warunków i terminów dokonywania i znoszenia przez firmę inwestycyjną blokady instrumentów finansowych i środków pieniężnych, stanowiących zabezpieczenie spłaty kredytu, o ile blokada jest przewidziana;
-6) trybu i terminów przekazywania bankowi przez firmę inwestycyjną informacji o aktualnej wysokości zabezpieczenia;
-7) sposobu postępowania firmy inwestycyjnej w przypadku spadku wysokości zabezpieczenia poniżej wymaganego poziomu;
-8) sposobu postępowania firmy inwestycyjnej z instrumentami finansowymi i środkami pieniężnymi klienta lub uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym w przypadku niewykonania przez niego zobowiązań z umowy kredytu;
-9) obowiązku informowania banku przez firmę inwestycyjną o każdym przypadku zajęcia przez organy egzekucyjne lub inne uprawnione podmioty instrumentów finansowych lub środków pieniężnych kredytobiorcy stanowiących zabezpieczenie kredytu.
-§ 97. Firma inwestycyjna przekazuje bankowi informacje, o których mowa w § 96 ust. 2 pkt 6, na podstawie udzielonego bankowi przez klienta lub uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym upoważnienia do uzyskiwania informacji o stanach jego rachunków, ewidencji lub rejestrów.
-§ 98. Przepisy niniejszego rozdziału stosuje się odpowiednio do banków powierniczych oraz do postępowania firm inwestycyjnych i banków powierniczych, w przypadku ustanawiania i realizacji zabezpieczeń spłaty pożyczek na nabycie instrumentów finansowych.
-§ 99. Przepisy niniejszego rozdziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
-§ 100. Firma inwestycyjna podejmuje czynności związane z ustanowieniem zabezpieczenia wierzytelności na instrumentach finansowych, w przypadku gdy są spełnione łącznie następujące warunki:
-1) istnieje nieprzedawniona wierzytelność pieniężna lub wierzytelność niepieniężna, w tym wierzytelność przyszła lub warunkowa, wynikające z określonego stosunku prawnego;
-2) forma zabezpieczenia wierzytelności oraz sposób zaspokojenia wierzyciela z przedmiotu zabezpieczenia odpowiadają wymaganiom określonym w odrębnych przepisach;
-3) przedmiotem zabezpieczenia wierzytelności są instrumenty finansowe zapisane na rachunku papierów wartościowych klienta, innym rachunku klienta lub w ewidencji, służących do zapisywania instrumentów finansowych, albo przechowywane przez firmę inwestycyjną na rzecz klienta.
-§ 101. 1. Firma inwestycyjna odmawia podjęcia czynności związanej z ustanowieniem zabezpieczenia wierzytelności, w przypadku gdy z przedstawionej umowy o ustanowieniu zabezpieczenia lub z dokumentu, z którego wynika zabezpieczona wierzytelność, wynika w sposób oczywisty, że są one sprzeczne z przepisami prawa.
-2. Odmowa, o której mowa w ust. 1, jest sporządzana w formie pisemnej i zawiera uzasadnienie. Przed dostarczeniem klientowi odmowy firma inwestycyjna umożliwia mu złożenie wyjaśnień.
-§ 102. Podejmowanie przez firmę inwestycyjną czynności związanych z ustanowieniem na instrumentach finansowych zabezpieczenia wierzytelności w innej formie i w inny sposób niż określone w oddziale 2 i 3 jest dopuszczalne, jeżeli nie narusza przepisów prawa, a forma tego zabezpieczenia oraz sposób wykonywania przez firmę inwestycyjną tych czynności zostały szczegółowo określone w regulaminie świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1.
-§ 103. Przepisy niniejszego rozdziału stosuje się odpowiednio:
-1) w przypadku gdy zabezpieczenie wierzytelności:
-a) banku, z tytułu udzielonego kredytu, zostało ustanowione na instrumentach finansowych zapisanych na rachunku papierów wartościowych, innym rachunku klienta lub w ewidencji klienta, prowadzonych przez wydzieloną jednostkę organizacyjną tego banku prowadzącą działalność maklerską, lub na instrumentach finansowych przechowywanych przez tę jednostkę,
-b) zostało ustanowione na papierach wartościowych zapisanych zgodnie z art. 4 ust. 2 ustawy;
-2) do banku powierniczego, z zastrzeżeniem oddziału 4, którego przepisy dotyczące firmy inwestycyjnej stosuje się odpowiednio do banku powierniczego, oraz oddziału 5, którego przepisy stosuje się odpowiednio do banków powierniczych prowadzących rachunki zbiorcze.
-§ 104. Przepisy niniejszego oddziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
-§ 105. W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu na rachunku prowadzonym dla klienta (dłużnika) blokady określonej liczby instrumentów finansowych, połączonej z ustanowieniem nieodwołalnego pełnomocnictwa dla osoby uprawnionej z tytułu blokady (wierzyciela) do sprzedaży zablokowanych instrumentów finansowych i zaspokojenia się z uzyskanych w ten sposób środków pieniężnych, firma inwestycyjna, na podstawie umowy o ustanowieniu blokady i złożeniu przez klienta dyspozycji blokady, w formie pisemnej, dokonuje blokady na rachunku klienta. Regulamin świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1, może określać dodatkowe warunki ustanawiania takiego pełnomocnictwa.
-§ 106. Firma inwestycyjna utrzymuje blokadę instrumentów finansowych przez okres wynikający z umowy o ustanowieniu blokady.
-§ 107. 1. W okresie utrzymywania blokady firma inwestycyjna nie może wykonywać dyspozycji klienta dotyczących:
-1) zniesienia blokady;
-2) zbycia zablokowanych instrumentów finansowych;
-3) przeniesienia zablokowanych instrumentów finansowych.
-2. Przepisu ust. 1 pkt 3 nie stosuje się w przypadku:
-1) przeniesienia instrumentów finansowych będących przedmiotem blokady z zachowaniem blokady, jeżeli przeniesienie jest wynikiem realizacji postanowień umowy ustanawiającej blokadę;
-2) o którym mowa w art. 89 ust. 4 ustawy.
-3. Wykonanie przez firmę inwestycyjną dyspozycji klienta dotyczących zablokowanych instrumentów finansowych innych niż dyspozycje, o których mowa w ust. 1, może nastąpić w zakresie określonym w umowie o ustanowieniu blokady.
-§ 108. Firma inwestycyjna prowadząca dla klienta rachunek, na którym są zapisane zablokowane instrumenty finansowe, w braku odmiennych postanowień umowy o ustanowieniu blokady, przekazuje do dyspozycji klienta, w sposób przez niego wskazany, pożytki z tych instrumentów, w szczególności dywidendy, odsetki lub inne świadczenia pieniężne spełniane na rzecz klienta z instrumentów finansowych.
-§ 109. 1. W dacie wymagalności wierzytelności zabezpieczonej blokadą lub w najbliższym dniu, w którym jest możliwe wykonanie zlecenia, firma inwestycyjna przyjmuje do wykonania zlecenie sprzedaży instrumentów finansowych złożone przez wierzyciela na podstawie pełnomocnictwa udzielonego mu przez klienta wraz z umową o ustanowieniu blokady.
-2. Firma inwestycyjna przekazuje do dyspozycji wierzyciela, niezwłocznie, w sposób wskazany przez niego w zleceniu, o którym mowa w ust. 1, środki pieniężne pochodzące z wykonania tego zlecenia w wysokości pozwalającej na zaspokojenie roszczeń wierzyciela wynikających z umowy.
-3. Po upływie okresu utrzymywania blokady ustalonego w umowie firma inwestycyjna nie może przyjąć do wykonania zlecenia, o którym mowa w ust. 1.
-4. Do trybu postępowania firmy inwestycyjnej wykonującej zlecenie, o którym mowa w ust. 1, stosuje się odpowiednio przepisy rozporządzenia dotyczące wykonywania zleceń.
-§ 110. 1. Firma inwestycyjna znosi blokadę w przypadku:
-1) blokady bezterminowej, ustanowionej do odwołania lub do czasu wykonania zobowiązania zabezpieczonego blokadą – niezwłocznie po złożeniu przez wierzyciela, w formie pisemnej, dyspozycji zniesienia blokady lub po złożeniu, w formie pisemnej, dyspozycji zniesienia blokady przez klienta, za zgodą wierzyciela wyrażoną w formie pisemnej;
-2) blokady terminowej, nieodwołalnej – w dniu następującym po upływie okresu utrzymywania blokady ustalonego w umowie;
-3) określonym w § 109 ust. 1 – niezwłocznie po złożeniu zlecenia sprzedaży instrumentów finansowych.
-2. Zniesienie blokady może dotyczyć części zablokowanych instrumentów finansowych.
-3. W przypadku gdy zablokowane instrumenty finansowe są zapisane na rachunku prowadzonym przez bank powierniczy, zniesienie blokady następuje niezwłocznie po otrzymaniu przez bank dokumentów potwierdzających złożenie zlecenia sprzedaży, o którym mowa w § 109 ust. 1.
-§ 111. W przypadku gdy instrumenty finansowe będące zabezpieczeniem wierzytelności są zapisane na rachunku prowadzonym przez bank powierniczy, bank przekazuje do firmy inwestycyjnej świadczącej na rzecz klienta usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych kopię umowy o ustanowieniu blokady i złożeniu przez klienta dyspozycji blokady.
-§ 112. Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania firmy inwestycyjnej w przypadku ustanawiania blokady na instrumentach finansowych niedopuszczonych do obrotu w systemie obrotu instrumentami finansowymi, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie na nich blokady.
-§ 113. Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania banków, o których mowa w art. 70 ust. 2 ustawy, w przypadku ustanawiania blokady na instrumentach finansowych ewidencjonowanych przez ten bank w związku z działalnością wykonywaną na podstawie art. 70 ust. 2 ustawy, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie na nich blokady.
-§ 114. 1. W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu zastawu na określonej liczbie instrumentów finansowych zapisanych na rachunku, firma inwestycyjna, na podstawie umowy zastawu i złożeniu przez klienta dyspozycji blokady zastawionych instrumentów, w formie pisemnej, dokonuje na rachunku zastawcy blokady tych instrumentów.
-2. W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu zastawu rejestrowego na podstawie przepisów ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2018 r. poz. 2017), zwanej dalej „ustawą o zastawie rejestrowym”, firma inwestycyjna dokonuje blokady instrumentów finansowych po otrzymaniu dokumentów, o których mowa w ust. 1, oraz odpisu z rejestru zastawów stanowiącego dowód wpisu.
-§ 115. Firma inwestycyjna utrzymuje blokadę zastawionych instrumentów finansowych przez okres wynikający z umowy zastawu.
-§ 116. 1. Firma inwestycyjna prowadząca rachunek, na którym są zapisane instrumenty finansowe obciążone zastawem, lub przechowująca instrumenty finansowe obciążone zastawem przekazuje do dyspozycji zastawnika, w sposób przez niego wskazany, pożytki z tych instrumentów, w szczególności dywidendy, odsetki lub inne świadczenia, chyba że umowa zastawu stanowi inaczej. W zakresie obowiązku zastawnika określonego w art. 319 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), zwanej dalej „Kodeksem cywilnym”, firma inwestycyjna może, na podstawie pełnomocnictwa udzielonego przez zastawnika, dokonać wobec zastawcy rozliczenia z pobranych pożytków.
-2. W przypadku gdy dłużnik z instrumentów finansowych obciążonych zastawem przekazuje firmie inwestycyjnej, o której mowa w ust. 1, świadczenie główne, do którego jest zobowiązany z tych instrumentów, firma inwestycyjna dokonuje na rachunku pieniężnym zastawcy blokady środków pieniężnych otrzymanych z tego tytułu. Środki pieniężne podlegają blokadzie do czasu wykonania uprawnień przysługujących zastawcy lub zastawnikowi.
-3. Środki pieniężne pochodzące ze spełnienia świadczenia przez dłużnika z zastawionych instrumentów mogą być wypłacone wyłącznie do rąk zastawcy i zastawnika łącznie albo na żądanie jednego z nich powinny zostać złożone do depozytu sądowego.
-§ 117. Firma inwestycyjna znosi blokadę zastawionych instrumentów finansowych niezwłocznie po otrzymaniu dokumentów potwierdzających wygaśnięcie zastawu.
-§ 118. W przypadku gdy zaspokojenie zastawnika polega na przejęciu instrumentów finansowych na własność w trybie i na warunkach określonych w przepisach ustawy o zastawie rejestrowym, firma inwestycyjna, na żądanie zastawnika złożone w dacie wymagalności wierzytelności, w formie pisemnej, niezwłocznie przenosi instrumenty finansowe na rzecz zastawnika, w liczbie uwzględniającej wartość przejętych instrumentów finansowych ustalonej zgodnie z art. 23 ust. 1 tej ustawy.
-§ 119. W przypadku gdy zaspokojenie zastawnika nastąpi przez sprzedaż instrumentów finansowych w drodze przetargu publicznego, o którym mowa w art. 24 ust. 1 ustawy o zastawie rejestrowym, firma inwestycyjna, na żądanie nabywcy, złożone w formie pisemnej, po przedstawieniu protokołu przebiegu przetargu, niezwłocznie przenosi instrumenty finansowe na rzecz nabywcy.
-§ 120. 1. W przypadku gdy zaspokojenie zastawnika następuje zgodnie z przepisami o postępowaniu egzekucyjnym i polega na sprzedaży instrumentów finansowych zgodnie z art. 911 § 2 i 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568), zwanej dalej „Kodeksem postępowania cywilnego”, do zlecenia sprzedaży zastawionych instrumentów finansowych, złożonego przez osoby uprawnione zgodnie z art. 911 § 2, 3 i 5 tej ustawy, oraz do trybu postępowania firmy inwestycyjnej wykonującej zlecenie sprzedaży stosuje się odpowiednio przepisy rozporządzenia.
-2. Firma inwestycyjna przekazuje do dyspozycji komornika, niezwłocznie, w sposób wskazany przez niego w wezwaniu, o którym mowa w art. 911 § 1 pkt 2 Kodeksu postępowania cywilnego, środki pieniężne pochodzące z wykonania zlecenia, o którym mowa w ust. 1.
-3. W przypadku gdy zaspokojenie zastawnika następuje zgodnie z przepisami o postępowaniu egzekucyjnym i polega na sprzedaży instrumentów finansowych niezapisanych na rachunku papierów wartościowych lub na innym rachunku, firma inwestycyjna wykonuje pisemne żądania komornika, w tym zlecenia lub dyspozycje dotyczące tych instrumentów, od chwili ich skutecznego zajęcia.
-§ 121. Po wygaśnięciu zastawu firma inwestycyjna nie może podejmować czynności, o których mowa w § 118 i § 120.
-§ 122. Przepisy § 120 stosuje się odpowiednio do postępowania firmy inwestycyjnej w przypadku zaspokojenia wierzyciela z instrumentów finansowych dłużnika w ramach prowadzonej egzekucji, która nie wynika z ustanowionego zastawu.
-§ 123. 1. W zakresie nieuregulowanym w przepisach niniejszego oddziału do ustanowienia, utrzymywania i zniesienia blokady instrumentów finansowych w związku z ustanowieniem zastawu stosuje się odpowiednio przepisy oddziału 2.
-2. W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu zastawu na papierach wartościowych niezapisanych na rachunku papierów wartościowych lub innym rachunku, firma inwestycyjna wydaje papiery wartościowe zastawnikowi lub osobie trzeciej na podstawie umowy zastawu spełniającej wymogi, o których mowa w art. 329 § 1 Kodeksu cywilnego.
-§ 124. Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania firmy inwestycyjnej w przypadku ustanawiania zastawu lub zastawu rejestrowego na instrumentach finansowych niedopuszczonych do obrotu w systemie obrotu instrumentami finansowymi, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie na nich tych zabezpieczeń.
-§ 125. Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania banków, o których mowa w art. 70 ust. 2 ustawy, w przypadku ustanawiania zastawu lub zastawu rejestrowego na instrumentach finansowych ewidencjonowanych przez ten bank w związku z działalnością wykonywaną na podstawie art. 70 ust. 2 ustawy.
-§ 126. 1. Po otrzymaniu umowy o ustanowieniu blokady finansowej firma inwestycyjna dokonuje na rachunku lub w ewidencji prowadzonej na rzecz dłużnika blokady instrumentów finansowych wskazanych w umowie.
-2. W przypadku gdy dłużnik, zgodnie z umową o ustanowieniu blokady finansowej, wykonuje prawo zastępowania składników zabezpieczenia, firma inwestycyjna, w zakresie zgodnym z umową o ustanowieniu blokady finansowej, wykonuje złożoną przez niego, w formie pisemnej, dyspozycję blokady instrumentów finansowych wskazanych w tej dyspozycji oraz znosi blokadę instrumentów finansowych stanowiących pierwotny przedmiot zabezpieczenia.
-§ 127. 1. Firma inwestycyjna utrzymuje blokadę instrumentów finansowych przez okres wynikający z umowy o ustanowieniu blokady, z zastrzeżeniem § 126 ust. 2.
-2. Do blokady, o której mowa w ust. 1, stosuje się przepis § 107.
-§ 128. Firma inwestycyjna prowadząca dla dłużnika rachunek, na którym są zapisane zablokowane instrumenty finansowe, przekazuje do dyspozycji dłużnika, w sposób przez niego wskazany, pożytki z tych instrumentów, w szczególności dywidendy, odsetki lub inne świadczenia pieniężne spełniane na rzecz dłużnika z instrumentów finansowych, chyba że umowa o ustanowieni blokady finansowej stanowi inaczej.
-§ 129. Firma inwestycyjna znosi blokadę, o której mowa w § 126 ust. 1, w przypadku:
-1) gdy umowa o ustanowieniu blokady finansowej przewiduje termin, do którego ustanawia się to zabezpieczenie – z chwilą upływu tego terminu;
-2) wystąpienia okoliczności umożliwiających jej zniesienie określonych w umowie o ustanowieniu blokady finansowej – niezwłocznie po ich stwierdzeniu.
-§ 130. 1. W przypadku gdy zaspokojenie wierzytelności zabezpieczonych blokadą finansową następuje przez sprzedaż instrumentów finansowych, w dniu wystąpienia podstawy realizacji tego zabezpieczenia lub w najbliższym dniu, w którym jest możliwe wykonanie zlecenia, firma inwestycyjna przyjmuje do wykonania zlecenie sprzedaży instrumentów finansowych złożone przez wierzyciela na podstawie pełnomocnictwa udzielonego mu przez klienta w umowie o ustanowieniu blokady finansowej. Do wykonania zlecenia sprzedaży stosuje się odpowiednio przepisy rozporządzenia dotyczące wykonywania zleceń.
-2. Firma inwestycyjna przekazuje do dyspozycji wierzyciela, niezwłocznie, w sposób wskazany przez niego w zleceniu, o którym mowa w ust. 1, środki pieniężne pochodzące z wykonania tego zlecenia, w wysokości pozwalającej na zaspokojenie roszczeń wierzyciela wynikających z umowy blokady finansowej. Pozostałe środki finansowe pochodzące z wykonania tego zlecenia firma inwestycyjna przekazuje do dyspozycji dłużnika.
-3. Po upływie ustalonego w umowie terminu ustanowienia blokady finansowej firma inwestycyjna nie może przyjąć do wykonania zlecenia, o którym mowa w ust. 1.
-4. W przypadku gdy przedmiotem blokady finansowej są instrumenty finansowe niedopuszczone do systemu obrotu instrumentami finansowymi, a umowa sprzedaży została zawarta bez pośrednictwa firmy inwestycyjnej prowadzącej rachunek, na którym są zapisane zablokowane instrumenty finansowe, lub przechowującej instrumenty finansowe, firma inwestycyjna przenosi te instrumenty na rzecz ich nabywcy na podstawie przekazanej mu przez wierzyciela kopii umowy sprzedaży tych instrumentów, po złożeniu przez wierzyciela, w formie pisemnej, dyspozycji dłużnika dotyczącej przeniesienia tych instrumentów. Środki uzyskane ze sprzedaży, w wysokości pozwalającej na zaspokojenie roszczeń wierzyciela wynikających z umowy blokady finansowej, firma inwestycyjna niezwłocznie przekazuje do dyspozycji wierzyciela w sposób wskazany w złożonej przez niego dyspozycji.
-§ 131. 1. W przypadku gdy zaspokojenie wszystkich lub niektórych roszczeń zabezpieczonych blokadą finansową następuje przez kompensatę, firma inwestycyjna znosi blokadę oraz dokonuje innych czynności związanych z kompensatą po otrzymaniu dokumentów potwierdzających:
-1) wystąpienie podstawy realizacji zabezpieczenia;
-2) dokonanie czynności niezbędnych do dokonania kompensaty zgodnie z treścią klauzuli kompensacyjnej w rozumieniu art. 3 pkt 3 ustawy o niektórych zabezpieczeniach finansowych.
-2. Kompensata jest dokonywana przez firmę inwestycyjną na warunkach określonych w klauzuli kompensacyjnej.
-§ 132. 1. Po otrzymaniu umowy o ustanowieniu zabezpieczenia finansowego, o której mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych, w formie przeniesienia na wierzyciela instrumentów finansowych będących przedmiotem zabezpieczenia, firma inwestycyjna prowadząca dla dłużnika rachunek lub przechowująca na jego rzecz instrumenty finansowe dokonuje przeniesienia instrumentów finansowych na rzecz wierzyciela, po złożeniu przez dłużnika, w formie pisemnej, dyspozycji przeniesienia.
-2. W przypadku gdy umowa, o której mowa w ust. 1, przewiduje blokadę przeniesionych instrumentów finansowych na rachunku lub w ewidencji wierzyciela, firma inwestycyjna dokonuje blokady instrumentów finansowych będących przedmiotem zabezpieczenia na rachunku lub w ewidencji dłużnika i przenosi je na wierzyciela z zachowaniem blokady. Firma inwestycyjna, która prowadzi dla dłużnika rachunek lub przechowuje na jego rzecz instrumenty finansowe, przekazuje firmie inwestycyjnej, która prowadzi dla wierzyciela rachunek lub przechowuje na jego rzecz instrumenty finansowe, kopię umowy o ustanowieniu zabezpieczenia, o którym mowa w ust. 1.
-3. Zniesienie blokady, o której mowa w ust. 2, następuje zgodnie z postanowieniami umowy o ustanowieniu zabezpieczenia finansowego, o której mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych:
-1) po otrzymaniu dokumentów potwierdzających wystąpienie podstawy realizacji zabezpieczenia i zawiadomienie dłużnika o wygaśnięciu roszczenia o zwrot przedmiotu zabezpieczenia albo
-2) w przypadku gdy umowa o ustanowieniu zabezpieczenia finansowego, o której mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych, przewiduje termin, do którego ustanawia się to zabezpieczenie – z chwilą upływu tego terminu.
-§ 133. 1. Po otrzymaniu umowy o ustanowieniu zastawu finansowego na określonej liczbie instrumentów finansowych zapisanych na rachunku lub przechowywanych na rzecz klienta (dłużnika), firma inwestycyjna, na podstawie dyspozycji blokady zastawionych instrumentów finansowych, złożonej przez dłużnika w formie pisemnej, dokonuje na jego rachunku lub w ewidencji blokady tych instrumentów.
-2. Firma inwestycyjna znosi blokadę ustanowioną zgodnie z ust. 1, w przypadku gdy wierzyciel, na podstawie udzielonego mu przez dłużnika upoważnienia, wykonuje przysługujące mu zgodnie z umową o ustanowieniu zastawu finansowego prawo użycia instrumentów finansowych, o którym mowa w art. 3 pkt 5 ustawy o niektórych zabezpieczeniach finansowych, stanowiących przedmiot zastawu finansowego. Firma inwestycyjna wykonuje dyspozycję lub zlecenie złożone przez wierzyciela w ramach wykonania przysługującego mu prawa użycia instrumentów finansowych, o którym mowa w art. 3 pkt 5 ustawy o niektórych zabezpieczeniach finansowych.
-3. W przypadku gdy dłużnik wykonuje przysługujące mu zgodnie z umową o ustanowieniu zastawu finansowego prawo zastępowania składników zabezpieczenia, firma inwestycyjna, w zakresie zgodnym z umową o ustanowieniu zastawu finansowego, wykonuje, złożoną przez niego w formie pisemnej, dyspozycję blokady instrumentów finansowych wskazanych w tej dyspozycji oraz znosi blokadę instrumentów finansowych stanowiących pierwotny przedmiot zabezpieczenia.
-§ 134. 1. Firma inwestycyjna utrzymuje blokadę zastawionych instrumentów finansowych przez okres wynikający z umowy zastawu finansowego, z zastrzeżeniem § 133 ust. 2 i 3.
-2. Do blokady, o której mowa w ust. 1, stosuje się przepis § 107.
-§ 135. 1. Firma inwestycyjna prowadząca rachunek, na którym są zapisane instrumenty finansowe obciążone zastawem finansowym, lub przechowująca takie instrumenty finansowe przekazuje do dyspozycji zastawnika, w sposób przez niego wskazany, pożytki z tych instrumentów, w szczególności dywidendy, odsetki lub inne świadczenia, chyba że umowa zastawu finansowego stanowi inaczej.
-2. W przypadku gdy dłużnik z instrumentów finansowych obciążonych zastawem przekazuje firmie inwestycyjnej, o której mowa w ust. 1, świadczenie główne, do którego jest zobowiązany z tych instrumentów, firma inwestycyjna dokonuje blokady na rachunku pieniężnym zastawcy otrzymanych z tego tytułu środków pieniężnych, chyba że umowa zastawu finansowego stanowi inaczej. Środki pieniężne podlegają blokadzie do czasu wykonania uprawnień przysługujących zastawcy lub zastawnikowi na podstawie tej umowy.
-§ 136. Firma inwestycyjna znosi blokadę, o której mowa w § 133, w przypadku:
-1) gdy umowa o ustanowieniu blokady finansowej przewiduje termin ustanowienia tego zabezpieczenia – z chwilą upływu tego terminu;
-2) wystąpienia okoliczności umożliwiających jej zniesienie określonych w umowie o ustanowieniu blokady finansowej – niezwłocznie po ich stwierdzeniu;
-3) wygaśnięcia zastawu finansowego – niezwłocznie po ustaleniu tego faktu.
-§ 137. W przypadku gdy zgodnie z umową o ustanowieniu zabezpieczenia finansowego, o której mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych, zaspokojenie polega na przejęciu przez wierzyciela na własność instrumentów finansowych objętych zastawem finansowym firma inwestycyjna wykonuje, złożoną przez wierzyciela na podstawie pełnomocnictwa udzielonego mu przez klienta w tej umowie, dyspozycję przeniesienia na rzecz wierzyciela instrumentów finansowych objętych zastawem.
-§ 138. 1. W przypadku gdy zaspokojenie roszczeń z zastawu finansowego polega na sprzedaży zastawionych instrumentów finansowych w dniu wystąpienia podstawy realizacji zastawu finansowego, firma inwestycyjna wykonuje zlecenie sprzedaży zastawionych instrumentów finansowych, złożone przez wierzyciela na podstawie pełnomocnictwa udzielonego mu przez klienta w umowie o ustanowieniu zastawu finansowego.
-2. Firma inwestycyjna niezwłocznie przekazuje do dyspozycji wierzyciela środki pieniężne pochodzące z wykonania jego zlecenia, w wysokości pozwalającej na zaspokojenie zabezpieczonych roszczeń, w sposób wskazany przez niego w zleceniu, o którym mowa w ust. 1.
-3. W przypadku wystąpienia okoliczności, o których mowa w § 136, firma inwestycyjna nie może przyjąć do wykonania zlecenia, o którym mowa w ust. 1.
-§ 139. Do sposobu postępowania firmy inwestycyjnej w przypadku zaspokajania roszczeń wynikających z zastawu finansowego przez kompensatę stosuje się odpowiednio § 131.
-§ 140. Przepisy niniejszego oddziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
-§ 141. 1. Ustanowienie zabezpieczenia wierzytelności na rachunku zbiorczym może nastąpić przez podmiot uprawniony z instrumentów finansowych zarejestrowanych na tym rachunku, wskazany firmie inwestycyjnej zgodnie z art. 8a ust. 4 ustawy.
-2. W przypadku gdy dany rodzaj zabezpieczenia wiąże się z ustanowieniem blokady instrumentów finansowych, jego skuteczność jest uzależniona od otrzymania przez firmę inwestycyjną dokumentu, o którym mowa w art. 10 ust. 2 ustawy, określającego osobę uprawnioną z instrumentów finansowych wskazanych w tym dokumencie.
-3. Zabezpieczenie uważa się za skutecznie ustanowione na okres wskazany w terminie ważności dokumentu, o którym mowa w art. 10 ust. 2 ustawy.
-4. Firma inwestycyjna prowadząca rachunek zbiorczy dokonuje blokady na rachunku zbiorczym instrumentów finansowych stanowiących przedmiot zabezpieczenia na podstawie umowy o ustanowieniu zabezpieczenia na tych instrumentach, przekazanej przez podmiot ustanawiający zabezpieczenie za pośrednictwem posiadacza rachunku.
-5. W okresie utrzymywania blokady firma inwestycyjna prowadząca rachunek zbiorczy nie może wykonywać poleceń posiadacza rachunku ani podmiotu uprawnionego z instrumentów finansowych objętych blokadą. Blokada nie może zostać zniesiona do dnia upływu terminu ważności dokumentu, o którym mowa w art. 10 ust. 2 ustawy.
-6. Firma inwestycyjna przyjmuje do wykonania zlecenie sprzedaży instrumentów finansowych złożone przez wierzyciela na podstawie pełnomocnictwa udzielonego jej przez podmiot ustanawiający zabezpieczenie będący jej klientem pod warunkiem wymagalności zabezpieczonej wierzytelności w dniu upływu terminu ważności dokumentu, o którym mowa w art. 10 ust. 2 ustawy.
-§ 142. W zakresie nieuregulowanym w niniejszym oddziale do ustanowienia zabezpieczenia na instrumentach finansowych rejestrowanych na rachunku zbiorczym stosuje się przepisy oddziału 1–4 niniejszego rozdziału.
-§ 143. Przepisy niniejszego oddziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
-§ 144. 1. W przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 2 pkt 1 ustawy, w sposób, o którym mowa w art. 74b ust. 1 pkt 1 ustawy, firma inwestycyjna przekazuje klientowi sprawozdanie obejmujące:
-1) oznaczenie firmy inwestycyjnej;
-2) nazwę, firmę, imię i nazwisko lub inne oznaczenie klienta;
-3) datę i czas przyjęcia zlecenia;
-4) datę i czas przekazania zlecenia do innego podmiotu w celu wykonania zlecenia;
-5) oznaczenie podmiotu, do którego przekazano zlecenie klienta w celu wykonania zlecenia;
-6) rodzaj zlecenia, o ile rodzaj został określony przez klienta;
-7) identyfikator kupna/sprzedaży albo charakter zlecenia – w przypadku zleceń innych niż kupno/sprzedaż;
-8) oznaczenie instrumentu finansowego;
-9) liczbę instrumentów finansowych będących przedmiotem zlecenia, o ile liczba ta została określona przez klienta;
-10) cenę, po jakiej przekazane zlecenie miało być wykonane przez podmiot albo sposób jej określenia;
-11) łączną planowaną wartość transakcji, która miała być zawarta w wykonaniu zlecenia przez podmiot, o ile rodzaj zlecenia pozwala na jej określenie;
-12) całkowitą wartość pobranych opłat i prowizji oraz zestawienie poszczególnych pozycji pobranych opłat i prowizji oraz innych kosztów przyjęcia i przekazania zlecenia.
-2. W przypadku gdy firma inwestycyjna świadczy usługę, o której mowa w art. 69 ust. 2 pkt 1 ustawy, w związku z wykonywaniem usługi, o której mowa w art. 69 ust. 2 pkt 6 ustawy, w ramach oferty publicznej w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620), obowiązek, o którym mowa w ust. 1, uznaje się za spełniony, jeżeli klient otrzymał formularz zapisu i warunki emisji, pod warunkiem że formularz zapisu lub warunki emisji zawierają informacje, o których mowa w ust. 1.
-3. W przypadku gdy przedmiotem usługi, o której mowa w art. 69 ust. 2 pkt 1 ustawy, są jednostki uczestnictwa otwartego funduszu inwestycyjnego, obowiązek, o którym mowa w ust. 1, uznaje się za spełniony, jeżeli klient otrzymał potwierdzenie, o którym mowa w art. 91 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034), pod warunkiem że potwierdzenie zawiera informacje, o których mowa w ust. 1.
-4. Firma inwestycyjna przekazuje sprawozdanie, o którym mowa w ust. 1, niezwłocznie po przekazaniu zlecenia klienta do innego podmiotu w celu jego wykonania, jednak nie później niż do końca dnia roboczego następującego po dniu, w którym zlecenie zostało przekazane.
-5. Sprawozdanie, o którym mowa w ust. 1, może być przekazywane w formie wystandaryzowanej, pod warunkiem że forma ta jest przejrzysta i zrozumiała dla klienta. Sposób przekazania sprawozdania określa umowa o przyjmowanie i przekazywanie zleceń.
-6. Przepisy ust. 1–5 nie wyłączają obowiązku firmy inwestycyjnej do niezwłocznego przekazywania, na żądanie klienta, informacji dotyczących aktualnego etapu przekazywania do innego podmiotu przyjętego zlecenia w celu jego wykonania.
-§ 145. 1. W przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 2 pkt 5 ustawy, firma inwestycyjna przekazuje klientowi sprawozdanie obejmujące:
-1) oznaczenie firmy inwestycyjnej;
-2) nazwę, firmę, imię i nazwisko lub inne oznaczenie klienta albo grupy klientów;
-3) datę i czas udzielenia rekomendacji;
-4) formę udzielonej rekomendacji;
-5) oznaczenie rekomendowanego instrumentu finansowego lub instrumentów finansowych, o ile rekomendacja obejmuje więcej niż jeden instrument finansowy;
-6) kierunek inwestycyjny rekomendacji (nabycie/zbycie);
-7) oznaczenie, czy rekomendacja jest udzielana w ramach doradztwa inwestycyjnego świadczonego w sposób niezależny czy w sposób zależny, o ile informacja nie została zawarta w umowie z klientem;
-8) podział na poszczególne instrumenty finansowe, o ile rekomendacja obejmuje więcej niż jeden instrument finansowy lub podział był określony w treści rekomendacji;
-9) rekomendowaną cenę nabycia lub zbycia instrumentu finansowego lub instrumentów finansowych, o ile rekomendacja obejmuje więcej niż jeden instrument finansowy lub cena została wskazana w treści rekomendacji;
-10) oznaczenie terminu ważności rekomendacji, o ile rekomendacja jest ograniczona w czasie;
-11) całkowitą wartość pobranych opłat i prowizji oraz zestawienie poszczególnych pozycji pobranych opłat i prowizji oraz innych kosztów związanych z udzieleniem rekomendacji, o ile opłaty i prowizje zostały pobrane.
-2. W przypadku gdy sprawozdanie, o którym mowa w ust. 1, jest przekazywane klientowi detalicznemu, do sprawozdania dołącza się raport, o którym mowa w art. 83g ust. 3 ustawy, o ile raport ten nie został wcześniej przekazany temu klientowi.
-3. Sprawozdanie, o którym mowa w ust. 1, jest przekazywane raz na trzy miesiące.
-4. W przypadku gdy firma inwestycyjna przekazała lub udostępniła klientowi rekomendację, której treść obejmuje informacje, o których mowa w ust. 1, sprawozdanie, o którym mowa w ust. 1, w odniesieniu do tej rekomendacji zawiera informacje, o których mowa w ust. 1 pkt 1–3 i 5.
-5. W przypadku gdy usługa maklerska, o której mowa w art. 69 ust. 2 pkt 5 ustawy, jest świadczona na rzecz klienta jednorazowo, termin przekazania sprawozdania, o którym mowa w ust. 1, może zostać określny w umowie z klientem.
-§ 146. 1. W przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 4 pkt 6 ustawy, firma inwestycyjna przekazuje klientowi sprawozdanie obejmujące:
-1) oznaczenie firmy inwestycyjnej;
-2) nazwę, firmę, imię i nazwisko lub inne oznaczenie klienta albo grupy klientów, w przypadku gdy analiza została sporządzona na indywidualne zamówienie klienta;
-3) datę i czas przekazania klientowi analizy lub informacji o jej udostępnieniu;
-4) sposób przekazania klientowi analizy lub informacji o jej udostępnieniu;
-5) podstawowe informacje na temat przedmiotu analizy, w tym:
-a) oznaczenie instrumentu finansowego lub rodzajów instrumentów finansowych,
-b) kierunek inwestycyjny analizy (nabycie/zbycie) wraz z ceną nabycia lub zbycia instrumentu finansowego oraz datą ważności analizy;
-6) wskazanie, czy analiza była uprzednio przekazana innym klientom lub podana do publicznej wiadomości wraz z podaniem daty i godziny, o ile nastąpiło to w różnym terminie lub w umowie o świadczenie usługi maklerskiej została zawarta informacja o kolejności udostępniania analizy poszczególnym kategoriom klientów;
-7) całkowitą wartość pobranych opłat i prowizji oraz zestawienie poszczególnych pozycji pobranych opłat i prowizji oraz innych kosztów związanych z udzieleniem rekomendacji, o ile opłaty i prowizje zostały pobrane.
-2. Sprawozdanie, o którym mowa w ust. 1, jest przekazywane raz na trzy miesiące.
-3. W przypadku gdy firma inwestycyjna przekazała lub udostępniła klientowi analizę, której treść obejmuje informacje, o których mowa w ust. 1, sprawozdanie, o którym mowa w ust. 1, w odniesieniu do tej analizy zawiera informacje, o których mowa w ust. 1 pkt 1–3, oraz oznaczenie instrumentu finansowego, którego dotyczyła analiza.
-4. W przypadku gdy usługa maklerska, o której mowa w art. 69 ust. 4 pkt 6 ustawy, jest świadczona na rzecz klienta jednorazowo, termin przekazania sprawozdania, o którym mowa w ust. 1, może zostać określony w umowie z klientem.
-5. Sprawozdanie, o którym mowa w ust. 1, może być przekazywane w formie wystandaryzowanej, pod warunkiem że forma ta jest przejrzysta i zrozumiała dla klienta.
-§ 147. 1. W przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 4 pkt 8 ustawy, firma inwestycyjna przekazuje klientowi, w zależności od rodzaju czynności, sprawozdania, których przedmiotem są instrumenty bazowe instrumentów pochodnych.
-2. W przypadku, o którym mowa w ust. 1, do zakresu, sposobu i terminów przekazywania sprawozdań klientowi, w przypadku gdy są wykonywane czynności, o których mowa w art. 69:
-1) ust. 2 pkt 1 ustawy – przepis § 144,
-2) ust. 2 pkt 2 ustawy – przepis art. 59 rozporządzenia 2017/565,
-3) ust. 2 pkt 4 ustawy – przepisy art. 60 i art. 62 ust. 1 rozporządzenia 2017/565,
-4) ust. 2 pkt 5 ustawy – przepis § 145,
-5) ust. 4 pkt 1 ustawy – przepis art. 63 rozporządzenia 2017/565,
-6) ust. 4 pkt 6 ustawy – przepis § 146 – stosuje się odpowiednio.
-§ 148. Przepisy § 144–147 stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
-§ 149. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: A. Domański
 
 #### Rozdział 1 Przepisy ogólne
+
+**§ 1.** Rozporządzenie określa tryb i warunki postępowania firm inwestycyjnych, banków państwowych prowadzących działalność maklerską, banków, o których mowa w art. 70 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zwanej dalej „ustawą”, oraz banków powierniczych w zakresie:
+
+- **1)** promowania świadczonych usług oraz kontaktów z potencjalnymi klientami,
+- **2)** zawierania transakcji i dokonywania rozliczeń,
+- **3)** traktowania klientów jak klientów profesjonalnych lub klientów detalicznych zgodnie z art. 3a ust. 1 i 2 ustawy,
+- **4)** świadczenia usług, w tym w zakresie świadczenia usług na rzecz kategorii klientów, o których mowa w art. 3a ust. 4 ustawy, w szczególności takich usług, których przedmiotem są instrumenty dłużne, których struktura utrudnia zrozumienie związanego z nimi ryzyka, i takich, których przedmiotem są lokaty strukturyzowane,
+- **5)** ustanawiania i realizacji zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie instrumentów finansowych oraz zabezpieczenia wierzytelności na instrumentach finansowych, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie zabezpieczenia,
+- **6)** przyjmowania lub przekazywania jakichkolwiek świadczeń pieniężnych lub niepieniężnych w związku z prowadzeniem działalności maklerskiej,
+- **7)** przekazywania sprawozdań, o których mowa w art. 83j ust. 1 ustawy, w przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 2 pkt 1 i 5 oraz ust. 4 pkt 6 i 8 ustawy, o ile dotyczy wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 1, 2, 4 i 5 oraz ust. 4 pkt 1 i 6 ustawy, a także wymogi dotyczące treści tych sprawozdań oraz terminy ich przekazywania klientowi,
+- **8)** emitowania lub wystawiania instrumentów finansowych lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego albo rekomendowania lub oferowania albo w inny sposób umożliwiania nabycia lub objęcia instrumentu finansowego – w odniesieniu do wykonywania przez te podmioty czynności, o których mowa w art. 69 ust. 2 i 4 i art. 119 ust. 1 ustawy.
+
+**§ 2.**
+
+1. Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** blokadzie finansowej – rozumie się przez to zabezpieczenie, o którym mowa w art. 5 ust. 1 pkt 3 ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2024 r. poz. 294), zwanej dalej „ustawą o niektórych zabezpieczeniach finansowych”;
+- **2)** czynnikach zrównoważonego rozwoju – rozumie się przez to czynniki, o których mowa w art. 2 pkt 24 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, z późn. zm. );
+- **3)** derywatach – rozumie się przez to instrumenty pochodne dopuszczone do obrotu zorganizowanego;
+- **4)** ewidencji – rozumie się przez to system zapisów elektronicznych odzwierciedlający stan posiadania przez klienta instrumentów rynku niepublicznego, udokumentowany przez klienta w sposób określony w przepisach rozporządzenia;
+- **5)** instrumentach rynku niepublicznego – rozumie się przez to niedopuszczone do obrotu zorganizowanego ani do obrotu na zagranicznym rynku regulowanym oraz niezdematerializowane na podstawie art. 5 ust. 1 pkt 1 i ust. 3 pkt 1 ustawy instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 1 i pkt 2 lit. a i b ustawy;
+- **6)** kliencie – rozumie się przez to:
+    - **a)** osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która zawarła z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską lub z bankiem, o którym mowa w art. 70 ust. 2 ustawy, umowę o świadczenie usług maklerskich lub która zawarła z bankiem powierniczym umowę o prowadzenie rachunku papierów wartościowych, rachunku derywatów lub umowę o wykonywanie czynności pośrednictwa w pożyczkach papierów wartościowych,
+    - **b)** podmiot, o którym mowa w art. 8a ust. 2 ustawy, który zawarł z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską, z bankiem, o którym mowa w art. 70 ust. 2 ustawy albo z bankiem powierniczym umowę o prowadzenie rachunku zbiorczego – w zakresie praw i obowiązków wynikających z umowy o prowadzenie tego rachunku lub który zawarł z bankiem powierniczym umowę o wykonywanie czynności pośrednictwa w pożyczkach papierów wartościowych;
+
+- **7)** kliencie docelowym – rozumie się przez to klienta należącego do grupy docelowej;
+- **8)** kompensacie – rozumie się przez to kompensatę dokonywaną na podstawie klauzuli kompensacyjnej zawartej w umowie o ustanowieniu zabezpieczenia finansowego, o której mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych, zgodnie z art. 4 tej ustawy;
+- **9)** miejscu wykonania – rozumie się przez to:
+    - **a)** w odniesieniu do wykonywania zleceń nabycia lub zbycia instrumentów finansowych: – rynek regulowany, – ASO, – OTF, – podmiot systematycznie internalizujący transakcje, – firmę inwestycyjną, bank państwowy prowadzący działalność maklerską, bank, o którym mowa w art. 70 ust. 2 ustawy, lub zagraniczną firmę inwestycyjną, wykonujące zlecenia nabycia lub zbycia instrumentów finansowych w sposób określony w art. 73 ust. 2 ustawy, – firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub zagraniczną firmę inwestycyjną, wykonujące zadania związane z organizacją rynku regulowanego lub zapewniające płynność instrumentów finansowych, – bank, o którym mowa w art. 70 ust. 2 ustawy, wykonujący zadania związane z organizacją rynku regulowanego, w przypadku gdy przedmiotem czynności na tym rynku są papiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski, lub zapewniający płynność instrumentów finansowych, – podmiot prowadzący na terytorium państwa, które nie jest państwem członkowskim, działalność, o której mowa w tiret od pierwszego do szóstego,
+    - **b)** w odniesieniu do zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, lub przyjmowania i przekazywania zleceń – podmiot wykonujący zlecenie przekazane przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy;
+
+- **10)** podstawie realizacji zabezpieczenia – rozumie się przez to podstawę realizacji zabezpieczenia, o której mowa w art. 3 pkt 4 ustawy o niektórych zabezpieczeniach finansowych;
+- **11)** prawach majątkowych – rozumie się przez to instrumenty pochodne niedopuszczone do obrotu zorganizowanego, z wyłączeniem zagranicznych instrumentów finansowych;
+- **12)** prawie do otrzymania instrumentu finansowego – rozumie się przez to prawo umożliwiające, zgodnie z art. 7 ust. 5 ustawy, zobowiązanie się do zbycia papieru wartościowego przed dokonaniem zapisu tego papieru wartościowego na rachunku papierów wartościowych zbywcy, a także odnoszące się do innych instrumentów finansowych dopuszczonych do obrotu w systemie obrotu instrumentami finansowymi prawo umożliwiające, zgodnie z art. 7 ust. 5 ustawy, zobowiązanie się do zbycia takich instrumentów finansowych przed dokonaniem zapisu danego instrumentu finansowego na rachunku;
+- **13)** rachunku – rozumie się przez to:
+    - **a)** rachunek papierów wartościowych, w tym rachunek, na którym są zapisywane papiery wartościowe, o których mowa w art. 5a ust. 1 lub 2 ustawy, oraz rachunek, na którym są zapisywane niebędące papierami wartościowymi lub instrumentami pochodnymi instrumenty finansowe dopuszczone do obrotu zorganizowanego,
+    - **b)** rachunek derywatów,
+    - **c)** rachunek zbiorczy;
+
+- **14)** rachunku pieniężnym – rozumie się przez to rachunek prowadzony przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, na którym są rejestrowane środki pieniężne powierzone przez klienta, służący do dokonywania rozliczeń w następstwie czynności, których przedmiotem są instrumenty finansowe, lub czynności związanych z prawami wynikającymi z instrumentów finansowych zapisanych na rachunkach lub w rejestrach lub ewidencjach prowadzonych przez odpowiednio firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy;
+- **15)** rachunku praw majątkowych – rozumie się przez to rachunek, na którym są zapisywane prawa majątkowe, albo innego rodzaju ewidencję w zakresie, w jakim są w niej zapisywane prawa majątkowe;
+- **16)** rejestrze operacyjnym – rozumie się przez to rejestr instrumentów finansowych i praw do otrzymania instrumentów finansowych, które mogą być przedmiotem zlecenia sprzedaży przyjętego do wykonania przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską przed otwarciem rejestru sesji, przy czym liczba instrumentów finansowych i praw do otrzymania instrumentów finansowych w rejestrze operacyjnym jest równa sumie liczby:
+    - **a)** instrumentów finansowych zapisanych na rachunku, z wyłączeniem instrumentów finansowych, które były przedmiotem zawartych transakcji, lecz których rozrachunek nie został jeszcze przeprowadzony, i pozostają nadal zapisane na rachunku, oraz
+    - **b)** praw do otrzymania instrumentów finansowych;
+
+- **17)** rejestrze sesji – rozumie się przez to:
+    - **a)** rejestr instrumentów finansowych i praw do otrzymania instrumentów finansowych, obejmujący liczbę praw i instrumentów zewidencjonowanych w rejestrze operacyjnym lub w innym rejestrze o podobnym charakterze: – pomniejszaną o liczbę instrumentów finansowych i praw do ich otrzymania, które były przedmiotem transakcji sprzedaży zawartej na danej sesji, – powiększaną o liczbę praw do otrzymania instrumentów finansowych, które były przedmiotem transakcji kupna zawartej na danej sesji,
+    - **b)** wykaz środków pieniężnych obejmujący sumę niezablokowanych środków pieniężnych zdeponowanych na rachunku pieniężnym powiększoną o środki pieniężne, które będą uzyskane w wyniku zawartych na danej sesji transakcji sprzedaży instrumentów finansowych spełniających warunki określone w art. 7 ust. 5 ustawy, i pomniejszone o środki pieniężne, które będą przeznaczone na opłacenie transakcji kupna instrumentów finansowych zawartych na tej sesji;
+
+- **18)** sesji – rozumie się przez to dzień, w którym zgodnie z przepisami dotyczącymi danego systemu obrotu instrumentami finansowymi lub jego regulacjami wewnętrznymi są zawierane na nim transakcje, a także dzień, w którym są zawierane transakcje w związku z wykonywaniem zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy;
+- **19)** sprzedaży krzyżowej – rozumie się przez to sprzedaż łączoną lub sprzedaż wiązaną;
+- **20)** sprzedaży łączonej – rozumie się przez to świadczenie przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, usługi maklerskiej, o której mowa w art. 69 ust. 2 ustawy, oraz innych usług na podstawie umowy, o której mowa w art. 83f ust. 1 pkt 1 ustawy, lub na podstawie jednej z umów, o których mowa w art. 83f ust. 1 pkt 2 ustawy, jeżeli:
+    - **a)** każda z tych usług może być świadczona przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, na podstawie odrębnej umowy oraz
+    - **b)** klient ma możliwość zawarcia z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską lub bankiem, o którym mowa w art. 70 ust. 2 ustawy, odrębnej umowy dotyczącej każdej z tych usług;
+
+- **21)** sprzedaży wiązanej – rozumie się przez to świadczenie przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, usługi maklerskiej, o której mowa w art. 69 ust. 2 ustawy, oraz innych usług na podstawie umowy, o której mowa w art. 83f ust. 1 pkt 1 ustawy, lub na podstawie jednej z umów, o których mowa w art. 83f ust. 1 pkt 2 ustawy, jeżeli co najmniej jedna z tych usług nie może być świadczona przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, na podstawie odrębnej umowy;
+- **22)** umowie o świadczenie usług maklerskich – rozumie się przez to umowę, na podstawie której firma inwestycyjna, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy, świadczą usługi maklerskie;
+- **23)** usługach badawczych – rozumie się przez to czynności analityczne zmierzające do wytworzenia dokumentów oraz innych materiałów analitycznych, dotyczących jednego lub wielu instrumentów finansowych, aktywów lub składnika aktywów, emitentów lub wystawców lub potencjalnych emitentów lub wystawców instrumentów finansowych, które mogą stanowić podstawę do sformułowania opinii o instrumencie finansowym, jego emitencie, wystawcy, branży lub rynku, zawierających w szczególności bezpośrednie lub pośrednie rekomendacje lub sugestie dotyczące strategii inwestycyjnych, oceny obecnej lub przyszłej wartości instrumentu finansowego lub składnika aktywów, spostrzeżenia i wnioski opierające się na istniejących lub nowych informacjach, które mogłyby zostać wykorzystane przy sformułowaniu strategii inwestycyjnej oraz mogłyby być istotne przy podejmowaniu decyzji inwestycyjnych;
+- **24)** usługach maklerskich – rozumie się przez to czynności, o których mowa w art. 69 ust. 2 i 4 ustawy, wykonywane na rzecz klienta przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa w art. 70 ust. 2 ustawy;
+- **25)** właściwej izbie rozliczeniowej – rozumie się przez to odpowiednio:
+    - **a)** Krajowy Depozyt oraz spółkę, której Krajowy Depozyt powierzył wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 lub ust. 3 pkt 2 lub 3 ustawy,
+    - **b)** izbę rozliczeniową,
+    - **c)** CCP, o którym mowa w art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm. ),
+    - **d)** podmiot uprawniony do prowadzenia rozliczeń transakcji, inny niż określony w lit. a–c;
+
+- **26)** właściwej izbie rozrachunkowej – rozumie się przez to odpowiednio: UE L 257 z 28.08.2014, str. 1, z późn. zm. );
+    - **a)** Krajowy Depozyt oraz spółkę, której Krajowy Depozyt powierzył wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 6 ustawy,
+    - **b)** izbę rozrachunkową,
+    - **c)** centralny depozyt papierów wartościowych, centralny depozyt papierów wartościowych z państwa trzeciego oraz oddział centralnego depozytu papierów wartościowych, o których mowa odpowiednio w art. 2 pkt 1, 2 i 25 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 909/2014 z dnia 23 lipca 2014 r. w sprawie usprawnienia rozrachunku papierów wartościowych w Unii Europejskiej i w sprawie centralnych depozytów papierów wartościowych, zmieniającego dyrektywy 98/26/WE i 2014/65/UE oraz rozporządzenie (UE) nr 236/2012 (Dz. Urz.
+
+- **27)** zabezpieczeniach finansowych – rozumie się przez to zabezpieczenia, o których mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych;
+- **28)** zagranicznych instrumentach finansowych – rozumie się przez to instrumenty finansowe niedopuszczone do obrotu w działającym na terytorium Rzeczypospolitej Polskiej systemie obrotu instrumentami finansowymi, które są dopuszczone do obrotu na zagranicznym rynku regulowanym lub do obrotu w systemie obrotu instrumentami finansowymi prowadzonym na terytorium państwa niebędącego państwem członkowskim działającym w sposób stały i zorganizowany na zasadach określonych przepisami tego państwa, jak również zapewniającym, że przy kojarzeniu ofert kupna lub sprzedaży tych instrumentów finansowych inwestorzy mają równy i powszechny dostęp do informacji rynkowej w tym samym czasie oraz że są zachowane jednakowe warunki nabywania i zbywania tych instrumentów finansowych;
+- **29)** zastawie finansowym – rozumie się przez to zastaw finansowy, o którym mowa w art. 5 ust. 1 pkt 2 ustawy o niektórych zabezpieczeniach finansowych;
+- **30)** zleceniu – rozumie się przez to zlecenie nabycia lub zbycia instrumentów finansowych lub oświadczenie woli wywołujące równoważne skutki, którego przedmiotem są instrumenty finansowe;
+- **31)** zleceniu brokerskim – rozumie się przez to zlecenie lub ofertę, a także odpowiedź na ofertę, wystawiane przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską, wykonujące złożone przez klienta zlecenie na podstawie tego zlecenia i przekazywane do miejsca wykonania w celu wykonania tego zlecenia.
+
+2. Ilekroć w rozporządzeniu jest mowa o zarządzie firmy inwestycyjnej, w przypadku banku prowadzącego działalność maklerską lub banku państwowego prowadzącego działalność maklerską, rozumie się przez to władze jednostki organizacyjnej banku prowadzącego działalność maklerską lub banku państwowego prowadzącego działalność maklerską, wydzieloną organizacyjnie zgodnie z art. 111 ust. 5 ustawy.
+
+3. Przepisy rozporządzenia, które mają zastosowanie do firm inwestycyjnych, stosuje się do banku państwowego prowadzącego działalność maklerską w takim zakresie, w jakim stosuje się je do banku prowadzącego działalność maklerską.
 
 #### Rozdział 2 Tryb i warunki postępowania firm inwestycyjnych w kontaktach z klientami
 
 ##### Oddział 1 Przepisy ogólne
 
+**§ 3.**
+
+1. Firma inwestycyjna przed zawarciem umowy o świadczenie usługi maklerskiej z klientem profesjonalnym informuje go o zasadach traktowania przez firmę inwestycyjną klientów profesjonalnych oraz o możliwości przedstawienia pisemnego żądania traktowania go jak klienta detalicznego, o którym mowa w art. 45 ust. 3 lit. b rozporządzenia delegowanego Komisji (UE) 2017/565 z dnia 25 kwietnia 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE w odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/565”.
+
+2. Żądanie klienta profesjonalnego o traktowanie go jak klienta detalicznego określa zakres usług maklerskich, transakcji lub instrumentów finansowych, na których potrzeby klient chciałby być traktowany jak klient detaliczny.
+
+3. W przypadku uwzględnienia żądania klienta profesjonalnego traktowania go jak klienta detalicznego firma inwestycyjna określa, w formie pisemnej lub innej formie przewidzianej w regulaminie zapewniającej możliwość utrwalenia ustaleń dokonanych z klientem profesjonalnym, zakres usług maklerskich, transakcji lub instrumentów finansowych, na których potrzeby klient będzie traktowany jak klient detaliczny.
+
+4. Przepisy ust. 3 stosuje się odpowiednio w przypadku podjęcia przez firmę inwestycyjną decyzji o traktowaniu klienta profesjonalnego jak klienta detalicznego, o którym mowa w art. 45 ust. 3 lit. b rozporządzenia 2017/565, z własnej inicjatywy.
+
+**§ 4.** W przypadku uznania klienta profesjonalnego za klienta detalicznego firma inwestycyjna stosuje wobec tego klienta przepisy prawa określające zasady traktowania przez firmy inwestycyjne klientów detalicznych.
+
+**§ 5.**
+
+1. Firma inwestycyjna uznaje za zachowany warunek posiadania przez podmiot inny niż określony w art. 3 pkt 39b lit. a–m ustawy wiedzy i doświadczenia pozwalających na podejmowanie właściwych decyzji inwestycyjnych oraz właściwą ocenę związanego z tymi decyzjami ryzyka, o którym mowa w art. 3a ust. 1 ustawy, w przypadku gdy podmiot ten spełnia co najmniej dwa z poniższych wymogów:
+
+- **1)** zawierał transakcje o znacznej wartości na odpowiednim rynku, ze średnią częstotliwością co najmniej dziesięciu transakcji na kwartał w ciągu czterech ostatnich kwartałów;
+- **2)** wartość portfela instrumentów finansowych tego podmiotu łącznie ze środkami pieniężnymi wchodzącymi w jego skład wynosi co najmniej równowartość w złotych 500 000 euro;
+- **3)** pracuje lub pracował w sektorze finansowym przez co najmniej rok na stanowisku, które wymaga wiedzy zawodowej dotyczącej transakcji w zakresie instrumentów finansowych lub usług maklerskich, które miałyby być świadczone przez firmę inwestycyjną na jego rzecz na podstawie zawieranej umowy.
+
+2. Zarząd firmy inwestycyjnej określa, w formie pisemnej, kryteria ustalenia znacznej wartości, o której mowa w ust. 1 pkt 1, biorąc pod uwagę co najmniej:
+
+- **1)** wartość transakcji zawieranych przez danego klienta na odpowiednim rynku oraz wartość transakcji zawieranych przez wszystkich klientów tej firmy inwestycyjnej na odpowiednim rynku;
+- **2)** strukturę klientów firmy inwestycyjnej zawierających transakcje na odpowiednim rynku;
+- **3)** ocenę, czy znaczna wartość, o której mowa w ust. 1 pkt 1, jest wystarczająco duża, aby dawać podstawy, przez odpowiednią ekspozycję na ryzyko, do zdobycia przez klienta wiedzy i doświadczenia w zakresie zawierania transakcji na odpowiednim rynku, które będą istotnie wykraczały poza doświadczenie i wiedzę klientów detalicznych zawierających transakcje na odpowiednim rynku;
+- **4)** charakter i rodzaj instrumentu finansowego, którego dotyczą transakcje zawierane przez danego klienta na odpowiednim rynku, w szczególności gdy instrument finansowy jest instrumentem pochodnym lub kontraktem na różnicę;
+- **5)** rodzaj instrumentu bazowego – w przypadku gdy transakcje zawierane przez danego klienta na odpowiednim rynku dotyczą instrumentów finansowych, o których mowa w art. 2 ust. 1 pkt 2 lit. c–i ustawy;
+- **6)** konieczność zapewnienia, aby ustalona znaczna wartość, o której mowa w ust. 1 pkt 1, nie stanowiła nadmiernej zachęty dla klientów detalicznych do zmiany statusu na klienta profesjonalnego.
+
+3. Firma inwestycyjna dokumentuje analizy będące podstawą ustalenia znacznej wartości, o której mowa w ust. 1 pkt 1, oraz sposób uwzględnienia kryteriów jej ustalania, o których mowa w ust. 2.
+
+4. Firma inwestycyjna dokonuje, co najmniej raz w roku, przeglądu kryteriów, o których mowa w ust. 2, oraz wartości ustalonych na ich podstawie. Firma inwestycyjna dokumentuje wyniki przeglądu w sposób pozwalający na wykazanie, że kryteria, o których mowa w ust. 2, oraz wartości ustalone na ich podstawie spełniają wymogi aktualności i adekwatności.
+
+5. Równowartość kwoty wyrażonej w euro, o której mowa w ust. 1 pkt 2, jest ustalana przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu poprzedzającym datę złożenia żądania, o którym mowa w art. 3a ust. 1 ustawy.
+
+6. Żądanie, o którym mowa w art. 3a ust. 1 ustawy, określa zakres usług maklerskich, transakcji lub instrumentów finansowych, na których potrzeby podmiot ma być traktowany jak klient profesjonalny.
+
+7. Firma inwestycyjna przed uwzględnieniem żądania, o którym mowa w art. 3a ust. 1 ustawy, informuje podmiot występujący z żądaniem o zasadach traktowania klientów profesjonalnych przy świadczeniu usług maklerskich.
+
+8. Firma inwestycyjna uwzględnia żądanie, o którym mowa w art. 3a ust. 1 ustawy, jeżeli klient złożył w formie pisemnej oświadczenie o znajomości zasad traktowania przez firmę inwestycyjną klientów profesjonalnych oraz skutków traktowania go jak klienta profesjonalnego.
+
+**§ 6.**
+
+1. Firma inwestycyjna opracowuje i wdraża w formie pisemnej procedurę postępowania w przypadkach otrzymania żądań, o których mowa w § 3 ust. 1 albo art. 3a ust. 1 ustawy.
+
+2. Firma inwestycyjna zobowiązuje klientów do przekazywania informacji o zmianach danych, które mają wpływ na możliwość traktowania danego klienta jak klienta profesjonalnego.
+
+3. W przypadku powzięcia informacji, że klient przestał spełniać warunki, o których mowa w § 5 ust. 1, z uwzględnieniem kryteriów ustalenia znacznej wartości, o których mowa w § 5 ust. 2, obowiązujących na dzień powzięcia informacji, firma inwestycyjna podejmuje działania zmierzające do zmiany statusu klienta na potrzeby świadczenia na jego rzecz usług maklerskich.
+
+4. W przypadku powzięcia informacji, że klient przestał spełniać warunki pozwalające na traktowanie go jak klienta profesjonalnego w rozumieniu art. 3 pkt 39b lit. a–m ustawy, firma inwestycyjna podejmuje działania zmierzające do zmiany statusu klienta na potrzeby świadczenia na jego rzecz usług maklerskich, chyba że klient złoży żądanie, o którym mowa w art. 3a ust. 1 ustawy, i spełnia warunki, o których mowa w § 5 ust. 1. Sposób postępowania firmy inwestycyjnej określa procedura, o której mowa w ust. 1.
+
 ##### Oddział 2 Tryb i warunki postępowania firm inwestycyjnych przyjmujących lub przekazujących świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenie niepieniężne
+
+**§ 7.**
+
+1. Świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne uznaje się za mające na celu podniesienie jakości odpowiedniej usługi świadczonej na rzecz klienta lub potencjalnego klienta, jeżeli:
+
+- **1)** są one uzasadnione świadczeniem usługi dodatkowej lub usługi poprawiającej jakość usługi świadczonej na rzecz klienta lub potencjalnego klienta, które są proporcjonalne do poziomu otrzymanych świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych, w szczególności:
+    - **a)** świadczeniem usługi doradztwa inwestycyjnego w sposób zależny, dotyczącej szerokiego zakresu odpowiednich instrumentów finansowych oraz dostępu do tych instrumentów, w tym odpowiedniej liczby instrumentów finansowych emitowanych lub wystawianych przez podmioty nienależące do tej samej grupy kapitałowej, do której należy firma inwestycyjna, lub przez podmioty niepozostające w bliskich powiązaniach z firmą inwestycyjną,
+    - **b)** świadczeniem usługi doradztwa inwestycyjnego w sposób zależny, w połączeniu z zaoferowaniem klientowi przeprowadzania co najmniej raz do roku oceny mającej na celu ustalenie, że instrumenty finansowe będące przedmiotem inwestycji klienta lub przedmiotem usługi doradztwa inwestycyjnego pozostawały odpowiednie dla klienta,
+    - **c)** świadczeniem usługi doradztwa inwestycyjnego w sposób zależny, w połączeniu z zaoferowaniem klientowi lub potencjalnemu klientowi usługi innej niż usługa, o której mowa w lit. a i b, która może być wartościowa dla klienta, w szczególności doradztwa w zakresie proponowanej optymalnej alokacji instrumentów finansowych oraz środków pieniężnych posiadanych przez klienta lub potencjalnego klienta,
+    - **d)** zapewnieniem dostępu, po konkurencyjnej cenie, do szerokiego zakresu instrumentów finansowych, które mogą spełniać potrzeby klienta lub potencjalnego klienta, w tym odpowiedniej liczby instrumentów emitowanych lub wystawianych przez podmioty nienależące do tej samej grupy kapitałowej, do której należy firma inwestycyjna, lub przez podmioty niepozostające w bliskich powiązaniach z firmą inwestycyjną, wraz z: – zapewnieniem narzędzi przynoszących korzyści klientowi lub potencjalnemu klientowi, w tym zapewniających dostęp do obiektywnych informacji pomagających klientowi lub potencjalnemu klientowi w podejmowaniu decyzji inwestycyjnych lub umożliwiających im monitorowanie, kształtowanie i dostosowanie zakresu instrumentów finansowych będących przedmiotem jego inwestycji, lub – udostępnianiem okresowych sprawozdań na temat wyników oraz kosztów i opłat związanych z instrumentami finansowymi;
+
+- **2)** nie przynoszą one bezpośredniej korzyści firmie inwestycyjnej, jej wspólnikom, pracownikom lub osobom pozostającym z firmą inwestycyjną w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze, nie przynosząc przy tym wymiernej korzyści danemu klientowi lub potencjalnemu klientowi;
+- **3)** są one uzasadnione przynoszeniem bieżącej lub ciągłej korzyści danemu klientowi lub potencjalnemu klientowi w związku z bieżącym przyjmowaniem lub przekazywaniem świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych.
+
+2. Przyjęcie lub przekazanie świadczenia pieniężnego, w tym opłat i prowizji, lub świadczenia niepieniężnego nie jest dopuszczalne, jeżeli w wyniku ich przyjęcia lub przekazania firma inwestycyjna świadczyłaby usługi maklerskie w sposób nierzetelny, nieprofesjonalny, niezgodny z zasadami uczciwego obrotu lub nieuwzględniający należycie interesów klientów lub potencjalnych klientów.
+
+3. Firma inwestycyjna jest obowiązana przestrzegać wymogów, o których mowa w ust. 1 i 2, przez okres, w którym przyjmuje lub przekazuje świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne.
+
+**§ 8.** Firma inwestycyjna gromadzi i przechowuje dokumentację potwierdzającą, że celem świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych przyjętych lub przekazanych przez firmę inwestycyjną jest podniesienie jakości odpowiedniej usługi świadczonej na rzecz klienta lub potencjalnego klienta przez:
+
+- **1)** prowadzenie wewnętrznego wykazu świadczeń pieniężnych, w tym opłat i prowizji, oraz świadczeń niepieniężnych przyjętych przez firmę inwestycyjną od osoby trzeciej w związku ze świadczeniem usług maklerskich,
+- **2)** rejestrowanie sposobu, w jaki świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne przyjmowane lub przekazywane przez firmę inwestycyjną, lub które firma inwestycyjna zamierza wykorzystać w celu poprawy jakości świadczonych usług, podnoszą jakość usług świadczonych na rzecz klientów lub potencjalnych klientów, oraz
+- **3)** rejestrowanie działań podjętych w celu uniknięcia negatywnego wpływu na wypełnianie przez firmę inwestycyjną obowiązku uczciwego, rzetelnego i profesjonalnego postępowania w najlepiej pojętym interesie klienta lub potencjalnego klienta.
+
+**§ 9.**
+
+1. Firma inwestycyjna ujawnia klientowi lub potencjalnemu klientowi w kompleksowy, dokładny i zrozumiały sposób informacje o świadczeniach pieniężnych, w tym opłatach i prowizjach, lub świadczeniach niepieniężnych przyjętych od osób trzecich lub przekazanych na rzecz osób trzecich, w związku ze świadczeniem usługi maklerskiej.
+
+2. Firma inwestycyjna, z zastrzeżeniem art. 83c ust. 4 pkt 4 ustawy, przed rozpoczęciem świadczenia usługi maklerskiej ujawnia klientowi lub potencjalnemu klientowi informacje dotyczące istnienia, charakteru oraz wysokości świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych, a w przypadku gdy ich wysokość nie może zostać oszacowana – sposób obliczania wysokości tych świadczeń, oraz informacje o mechanizmach przyjmowania lub przekazywania tych świadczeń, przy czym drobne świadczenia niepieniężne mogą zostać opisane w sposób ogólny, a pozostałe świadczenia niepieniężne należy oszacować i ujawnić oddzielnie.
+
+3. W przypadku gdy przed rozpoczęciem świadczenia usług maklerskich firma inwestycyjna nie mogła oszacować wysokości świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych, przekazuje klientowi dodatkowo informacje dotyczące dokładnych kwot przyjętych lub przekazanych świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych ustalonych zgodnie z metodą obliczania wskazaną w informacji, o której mowa w ust. 2, niezwłocznie po ustaleniu tych kwot, w sposób przyjęty w regulaminie świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1.
+
+4. W przypadku gdy przed rozpoczęciem świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 2 pkt 1 lub 2 ustawy, przy użyciu środków porozumiewania się na odległość, firma inwestycyjna nie ma możliwości przekazania klientowi lub potencjalnemu klientowi informacji, o których mowa w ust. 2 i 3, może je przekazać niezwłocznie po wykonaniu tej usługi, pod warunkiem że klient wyraził na to zgodę, a firma inwestycyjna poinformowała go o możliwości odłożenia rozpoczęcia świadczenia usługi do czasu otrzymania przez niego tych informacji.
+
+5. W przypadku, o którym mowa w ust. 4, firma inwestycyjna umożliwia klientowi lub potencjalnemu klientowi uzyskanie informacji, o których mowa w ust. 2 i 3, telefonicznie, przed rozpoczęciem świadczenia usługi.
+
+6. W okresie, w którym firma inwestycyjna przyjmuje lub przekazuje świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne, firma inwestycyjna, co najmniej raz w roku, informuje indywidualnie klientów o kwotach przyjętych lub przekazanych świadczeń pieniężnych, w tym opłat i prowizji, lub świadczeń niepieniężnych, w sposób przyjęty w regulaminie świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1, przy czym drobne świadczenia niepieniężne mogą zostać opisane w sposób ogólny.
+
+7. W przypadku gdy po rozpoczęciu świadczenia usług maklerskich firma inwestycyjna zamierza przyjmować lub przekazywać świadczenia pieniężne, w tym opłaty i prowizje, lub świadczenia niepieniężne, firma inwestycyjna przekazuje klientowi informacje, o których mowa w ust. 2, oraz w odpowiednich przypadkach informacje, o których mowa w ust. 3, przed rozpoczęciem przyjmowania lub przekazywania tych świadczeń, a także przekazuje informacje, o których mowa w ust. 6.
+
+8. Wdrażając wymogi, o których mowa w ust. 1–7, firma inwestycyjna uwzględnia zasady dotyczące kosztów i opłat określone w art. 83c ust. 4 ustawy oraz art. 50 rozporządzenia 2017/565.
+
+9. W przypadku gdy firmy inwestycyjne współpracują ze sobą przy świadczeniu usług maklerskich każda firma inwestycyjna jest obowiązana wypełnić obowiązki w zakresie ujawniania informacji swoim klientom.
+
+**§ 10.**
+
+1. Firma inwestycyjna świadcząca usługę doradztwa inwestycyjnego w sposób niezależny lub usługę zarządzania portfelem, w którego skład wchodzi jeden lub większa liczba instrumentów finansowych, mając na względzie zakaz, o którym mowa w art. 83d ust. 2 lub 4 ustawy, niezwłocznie przekazuje klientowi świadczenia pieniężne, w tym opłaty i prowizje, zapłacone lub przekazane przez osobę trzecią lub osobę działającą w imieniu osoby trzeciej w związku z usługami świadczonymi na rzecz tego klienta.
+
+2. Świadczenia pieniężne, w tym opłaty i prowizje otrzymane od osób trzecich w związku ze świadczeniem usługi doradztwa inwestycyjnego w sposób niezależny lub usługi zarządzania portfelem, w którego skład wchodzi jeden lub większa liczba instrumentów finansowych, są przekazywane klientowi w pełnej kwocie.
+
+3. Firma inwestycyjna informuje klientów o przekazanych im świadczeniach pieniężnych, w tym opłatach i prowizjach, w formie okresowych zestawień świadczeń pieniężnych, w tym opłat i prowizji, należnych i przekazanych klientowi.
+
+4. Firma inwestycyjna ustanawia oraz wdraża procedury zapewniające, że świadczenia pieniężne, w tym opłaty i prowizje, zapłacone lub przekazane przez osobę trzecią lub osobę działającą w imieniu osoby trzeciej w związku ze świadczeniem usługi doradztwa inwestycyjnego w sposób niezależny lub usługi zarządzania portfelem, w którego skład wchodzi jeden lub większa liczba instrumentów finansowych, zostają uznane za należne i przekazane klientowi.
+
+**§ 11.**
+
+1. Firma inwestycyjna świadcząca usługę doradztwa inwestycyjnego w sposób niezależny lub usługę zarządzania portfelem, w którego skład wchodzi jeden lub większa liczba instrumentów finansowych, może uznać świadczenia niepieniężne za drobne świadczenia niepieniężne, o których mowa art. 83d ust. 3 lub 5 ustawy, w przypadku gdy mają one postać:
+
+- **1)** informacji lub dokumentów dotyczących instrumentu finansowego lub usługi inwestycyjnej o charakterze ogólnym albo dostosowanym do sytuacji klienta;
+- **2)** dokumentów w formie pisemnej otrzymanych od osoby trzeciej, które emitent lub potencjalny emitent zamówił i opłacił w celu promowania nowej emisji instrumentów finansowych, lub w przypadku których osoba trzecia zawarła umowę z emitentem, której przedmiotem jest przygotowanie takich dokumentów za wynagrodzeniem, jeżeli związek pomiędzy emitentem a osobą trzecią został w nich ujawniony w sposób jednoznaczny i są one udostępnione w tym samym czasie wszystkim podmiotom zainteresowanym lub do publicznej wiadomości;
+- **3)** uczestnictwa w konferencjach, seminariach, szkoleniach i innych wydarzeniach o podobnym charakterze, dotyczących korzyści, jakie może przynieść dany instrument finansowy lub dana usługa inwestycyjna, oraz ich cech;
+- **4)** wydatków na cele reprezentacyjne o rozsądnej, niewielkiej wartości, związanych z organizacją spotkania biznesowego lub konferencji, seminarium, szkolenia lub innych wydarzeń o podobnym charakterze, o których mowa w pkt 3;
+- **5)** innych drobnych świadczeń niepieniężnych, które mogą poprawić jakość usługi świadczonej na rzecz klienta, i jest mało prawdopodobne, że ze względu na niewielką skalę, ich charakter lub łączną wartość mogą wpłynąć negatywnie na wypełnianie przez firmę inwestycyjną obowiązku działania w najlepiej pojętym interesie klienta.
+
+2. Drobne korzyści niepieniężne ujawnia się przed rozpoczęciem świadczenia usług maklerskich na rzecz klientów, przy czym korzyści te mogą zostać opisane w sposób ogólny.
+
+**§ 12.** Usługi badawcze świadczone przez osoby trzecie na rzecz firmy inwestycyjnej w zakresie, w jakim świadczy ona usługi zarządzania portfelem, w którego skład wchodzi jeden lub większa liczba instrumentów finansowych, usługi doradztwa inwestycyjnego w sposób niezależny lub inne usługi maklerskie na rzecz klientów nie są uznawane za świadczenia niepieniężne, o których mowa w art. 83d ust. 1 ustawy, w przypadku gdy są świadczone w zamian za zapłatę dokonaną przez firmę inwestycyjną:
+
+- **1)** ze środków własnych lub
+- **2)** z oddzielnego rachunku płatniczego otwartego na jej rzecz na potrzeby finansowania usług badawczych (rachunek usług badawczych), jeżeli:
+    - **a)** środki pieniężne zgromadzone na rachunku usług badawczych pochodzą z opłaty wnoszonej przez klientów firmy inwestycyjnej na potrzeby finansowania usług badawczych (specjalna opłata),
+    - **b)** w związku z otwarciem rachunku usług badawczych oraz uzgodnieniem z klientami firmy inwestycyjnej wysokości specjalnej opłaty ustanowiła ona budżet usług badawczych i dokonuje jego regularnej oceny,
+    - **c)** firma inwestycyjna ponosi odpowiedzialność za prawidłowe zarządzanie środkami na rachunku usług badawczych,
+    - **d)** firma inwestycyjna dokonuje regularnej oceny jakości zakupionych usług badawczych na podstawie skutecznych kryteriów oceny jakości oraz wpływu tych usług na podejmowanie przez nią lepszych decyzji inwestycyjnych.
+
+**§ 13.** Firma inwestycyjna, która otworzyła rachunek usług badawczych, przekazuje klientom informacje dotyczące:
+
+- **1)** kwoty zapisanej w budżecie usług badawczych, o którym mowa w § 12 pkt 2 lit. b, przeznaczonej na zakup usług badawczych oraz szacowanej wysokości opłaty, o której mowa w § 12 pkt 2 lit. a, należnej od każdego klienta – przed rozpoczęciem świadczenia usługi inwestycyjnej;
+- **2)** całkowitych kosztów poniesionych przez każdego klienta w związku z zakupem usług badawczych – w ujęciu rocznym.
+
+**§ 14.** Firma inwestycyjna, która otworzyła rachunek usług badawczych, przedstawia, na wniosek klienta lub na żądanie Komisji Nadzoru Finansowego, zestawienie obejmujące:
+
+- **1)** imię i nazwisko lub nazwę każdego podmiotu, który świadczy lub świadczył usługi badawcze na jej rzecz oraz otrzymał zapłatę za tę usługę z tego rachunku w okresie wskazanym w tym wniosku lub żądaniu;
+- **2)** łączną kwotę wypłaconą za usługi badawcze z tego rachunku na rzecz podmiotów, o których mowa w pkt 1, w okresie wskazanym w tym wniosku lub żądaniu;
+- **3)** korzyści, świadczenia i usługi otrzymane przez firmę inwestycyjną w związku z wykonanymi na jej rzecz usługami badawczymi;
+- **4)** porównanie kwoty, o której mowa w pkt 2, z budżetem usług badawczych w odniesieniu do okresu wskazanego w tym wniosku lub żądaniu, ze wskazaniem rabatów lub przeniesień, jeżeli na rachunku usług badawczych pozostają środki pieniężne.
+
+**§ 15.**
+
+1. Wysokość specjalnej opłaty:
+
+- **1)** wynika wyłącznie z budżetu usług badawczych ustanowionego przez firmę inwestycyjną w celu ustalenia zapotrzebowania na usługi badawcze w odniesieniu do usług maklerskich świadczonych przez firmę inwestycyjną na rzecz jej klientów;
+- **2)** nie jest związana z wolumenem lub wartością transakcji przeprowadzonych w imieniu klientów.
+
+2. Firma inwestycyjna określa wysokość specjalnej opłaty w ramach kwoty ustalonej w budżecie usług badawczych oraz częstotliwość i sposób wnoszenia tej opłaty przez klienta w danym okresie w umowie o świadczenie usług maklerskich albo w regulaminie świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1.
+
+3. W przypadku gdy specjalna opłata jest pobierana od klientów łącznie z prowizją od transakcji firma inwestycyjna powinna być w stanie wyodrębnić tę opłatę i zachować pełną zgodność z warunkami określonymi w § 12 pkt 2 i § 13.
+
+4. Łączna kwota specjalnych opłat wniesionych przez klientów w danym okresie nie może przekraczać kwoty ustalonej w budżecie usług badawczych na ten okres.
+
+5. Firma inwestycyjna może zwiększyć budżet usług badawczych po poinformowaniu klientów o jego planowanym zwiększeniu przed planowanym terminem dokonania zmian w budżecie usług badawczych, a jeżeli zwiększenie budżetu usług badawczych spowodowałoby zwiększenie wysokości specjalnej opłaty – po dokonaniu zmian w odpowiedniej umowie o świadczenie usług maklerskich albo w regulaminie świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1.
+
+6. W przypadku gdy na koniec okresu, na który firma inwestycyjna ustanowiła budżet usług badawczych, na rachunku usług badawczych występuje nadwyżka, firma inwestycyjna, zgodnie z przyjętą procedurą postępowania:
+
+- **1)** zwraca środki pieniężne klientom lub
+- **2)** uwzględnia nadwyżkę przy ustalaniu budżetu usług badawczych oraz określeniu wysokości specjalnej opłaty na kolejny okres.
+
+**§ 16.**
+
+1. Firma inwestycyjna ustanawia budżet usług badawczych na podstawie analizy zapotrzebowania na usługi badawcze świadczone przez osoby trzecie.
+
+2. Budżetem usług badawczych zarządza wyłącznie firma inwestycyjna.
+
+3. Wykorzystanie budżetu usług badawczych na zakup usług badawczych świadczonych przez osoby trzecie jest nadzorowane przez zarząd firmy inwestycyjnej, który zapewnia wykorzystanie tego budżetu w najlepiej pojętym interesie klientów firmy inwestycyjnej.
+
+4. Wykorzystanie budżetu usług badawczych podlega okresowym kontrolom obejmującym:
+
+- **1)** przepływ środków pieniężnych dokonywanych na rzecz podmiotów świadczących usługi badawcze;
+- **2)** sposób ustalenia wysokości wypłaconych kwot oraz zasadność ich wypłaty w odniesieniu do kryteriów oceny jakości, o których mowa w § 12 pkt 2 lit. d.
+
+5. Firma inwestycyjna nie może wykorzystywać budżetu usług badawczych i rachunku usług badawczych na potrzeby badań w celu finansowania wykonywanych przez siebie czynności analitycznych.
+
+**§ 17.** Firma inwestycyjna może przekazać zarządzanie rachunkiem usług badawczych osobie trzeciej, jeżeli ułatwi to zakup usług badawczych oraz zapewni dokonywanie niezwłocznie płatności w jej imieniu i zgodnie z jej wskazówkami.
+
+**§ 18.**
+
+1. Firma inwestycyjna opracowuje i wdraża pisemną procedurę korzystania z usług badawczych, w której określa:
+
+- **1)** kryteria oceny jakości usług badawczych, o których mowa w § 12 pkt 2 lit. d, oraz spodziewany wpływ zakupu usług badawczych na podejmowanie przez firmę inwestycyjną decyzji inwestycyjnych;
+- **2)** zakres, w jakim usługi badawcze mogą przynieść korzyści w odniesieniu do portfeli klientów, w tym dzięki uwzględnieniu strategii inwestycyjnych stosowanych do różnych rodzajów portfeli;
+- **3)** podejścia, jakie przyjmie firma inwestycyjna w celu sprawiedliwego podziału kosztów zakupu usług badawczych między portfelami różnych klientów.
+
+2. Firma inwestycyjna przekazuje klientom procedurę, o której mowa w ust. 1.
+
+**§ 19.**
+
+1. Firma inwestycyjna świadcząca usługi w zakresie wykonywania zleceń nabycia lub zbycia instrumentów finansowych na rzecz firmy inwestycyjnej z siedzibą na terytorium Unii Europejskiej określa oddzielne opłaty z tytułu świadczenia tych usług, przy czym wysokość opłat odzwierciedla koszty wykonania zlecenia. Świadczenie innej usługi lub zapewnianie innej korzyści przez tę samą firmę inwestycyjną na rzecz firmy inwestycyjnej z siedzibą na terytorium Unii Europejskiej podlega oddzielnie określonej opłacie.
+
+2. Firma inwestycyjna ustala wysokość opłat z tytułu usług w zakresie wykonywania zleceń nabycia lub zbycia instrumentów finansowych świadczonych na rzecz firmy inwestycyjnej z siedzibą na terytorium Unii Europejskiej w taki sposób, aby nie wpływała ona na świadczenie innej usługi lub zapewnienie innej korzyści i na opłaty z tytułu tych usług lub korzyści ani nie stanowiła warunku zapewnienia tych usług lub korzyści i opłat z tytułu tych usług lub korzyści.
+
+**§ 20.**
+
+1. W przypadku gdy usługi badawcze są świadczone przez osobę trzecią na rzecz firmy inwestycyjnej łącznie z usługą przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych lub usługą wykonywania tych zleceń na rachunek dającego zlecenie, firma inwestycyjna może przekazać tej osobie łączną opłatę z tytułu świadczenia tych usług, jeżeli:
+
+- **1)** przed wykonaniem usług osoba trzecia zawarła z firmą inwestycyjną umowę określającą wysokość wynagrodzenia przypadającego na usługi badawcze;
+- **2)** firma inwestycyjna poinformowała klientów o łącznych opłatach przekazywanych z tytułu usług;
+- **3)** usługi badawcze dotyczą emitentów o średniej rynkowej kapitalizacji niższej niż równowartość kwoty 1 000 000 000 euro ustalonej przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski obowiązującego w ostatnim dniu sesyjnym w danym roku.
+
+2. Średnią rynkową kapitalizację, o której mowa w ust. 1 pkt 3, wyznacza się na podstawie notowań z ostatniego dnia sesyjnego w danym roku w okresie trzech ostatnich lat poprzedzających przeprowadzenie badań, a w przypadku lat obrotowych, w których emitent nie był notowany na rynku regulowanym – na podstawie wysokości kapitału własnego.
+
+**§ 21.** Przepisów niniejszego oddziału nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
 
 ##### Oddział 3 Świadczenie usług maklerskich
 
+**§ 22.**
+
+1. W przypadku gdy informacje kierowane przez firmę inwestycyjną do klientów lub potencjalnych klientów, w tym informacje upowszechniane przez firmę inwestycyjną w celu reklamy lub promocji świadczonych przez nią usług, wskazują korzyści, które można osiągnąć w przypadku skorzystania z usług maklerskich, o których mowa w art. 69 ust. 2 ustawy, świadczonych przez firmę inwestycyjną, określają również poziom ryzyka inwestycyjnego związanego z tymi danymi usługami zgodnie z art. 44 ust. 2 lit. b rozporządzenia 2017/565.
+
+2. W przypadku gdy informacje kierowane przez firmę inwestycyjną do klientów lub potencjalnych klientów zawierają dane o systemie rekompensat, o którym mowa w art. 133 ust. 1 lub art. 136 ust. 1 ustawy, którego uczestnikiem jest firma inwestycyjna, dane te mogą wskazywać wyłącznie system, do którego należy firma inwestycyjna, oraz górną granicę środków objętych tym systemem.
+
+3. Firma inwestycyjna może, w ramach świadczenia usług maklerskich, udzielać klientowi porad inwestycyjnych o charakterze ogólnym dotyczących inwestowania w instrumenty finansowe. Sposób udzielania porad inwestycyjnych określa regulamin świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1, dotyczący usługi maklerskiej, przy której wykonywaniu jest udzielana porada inwestycyjna.
+
+4. Udzielanie porad inwestycyjnych, o których mowa w ust. 3, nie może stanowić wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 5 oraz ust. 4 pkt 6 ustawy.
+
+**§ 23.**
+
+1. Przed zawarciem umowy o świadczenie usług maklerskich firma inwestycyjna przekazuje klientowi informacje, przy użyciu trwałego nośnika, o istniejących konfliktach interesów związanych ze świadczeniem danej usługi maklerskiej na rzecz tego klienta, o ile organizacja oraz regulacje wewnętrzne firmy inwestycyjnej nie zapewniają, że w przypadku powstania konfliktu interesów nie dojdzie do naruszenia interesu klienta. Informacja zawiera dane pozwalające klientowi na podjęcie świadomej decyzji co do zawarcia umowy, przy czym zakres i sposób przedstawiania danych powinien być dostosowany do kategorii klientów, o których mowa w art. 3a ust. 4 ustawy, do której należy klient.
+
+2. Przez konflikt interesów rozumie się znane firmie inwestycyjnej okoliczności, które mogą doprowadzić do powstania sprzeczności między interesem firmy inwestycyjnej lub osoby zaangażowanej i obowiązkiem działania przez tę firmę inwestycyjną w sposób rzetelny, z uwzględnieniem najlepiej pojętego interesu klienta tej firmy inwestycyjnej, oraz znane firmie inwestycyjnej okoliczności, które mogą doprowadzić do powstania sprzeczności między interesami kilku klientów tej firmy inwestycyjnej.
+
+3. W przypadku, o którym mowa w ust. 1, umowa o świadczenie usługi maklerskiej może zostać zawarta, jeżeli klient potwierdzi otrzymanie informacji, o której mowa w ust. 1, oraz wyraźnie potwierdzi wolę zawarcia z firmą inwestycyjną umowy o świadczenie danej usługi maklerskiej.
+
+4. W przypadku powstania konfliktu interesów po zawarciu umowy o świadczenie usług maklerskich:
+
+- **1)** ust. 1 stosuje się odpowiednio, przy czym firma inwestycyjna jest obowiązana poinformować klienta o konflikcie interesów niezwłocznie po jego stwierdzeniu;
+- **2)** ust. 3 stosuje się odpowiednio, przy czym firma inwestycyjna powinna powstrzymać się od świadczenia usługi maklerskiej do czasu otrzymania wyraźnego oświadczenia klienta o kontynuacji lub rozwiązaniu umowy.
+
+5. Przed zawarciem umowy o prowadzenie rachunku zbiorczego firma inwestycyjna przekazuje posiadaczowi rachunku zbiorczego informacje, przy użyciu trwałego nośnika, o obowiązkach, o których mowa w art. 8b ustawy, oraz o sankcji administracyjnej, o której mowa w art. 170d ust. 1 ustawy.
+
+6. Firma inwestycyjna zapewnia, na potrzeby zarządzania konfliktem interesów, aby pracownicy firmy inwestycyjnej przekazali i na bieżąco aktualizowali informacje o rachunkach papierów wartościowych oraz innych rachunkach, na których są zapisane inne instrumenty finansowe, które są w ich posiadaniu.
+
+**§ 24.**
+
+1. Firma inwestycyjna świadczy usługę maklerską na podstawie regulaminu świadczenia usługi maklerskiej oraz umowy o świadczenie tej usługi zawartej z klientem.
+
+2. Wymogu opracowania regulaminu świadczenia usługi maklerskiej, o którym mowa w ust. 1, nie stosuje się w przypadku, gdy:
+
+- **1)** umowa jest zawierana z:
+    - **a)** klientem profesjonalnym, chyba że klient profesjonalny zażądał od firmy inwestycyjnej traktowania go jak klienta detalicznego, a firma inwestycyjna wyraziła na to zgodę,
+    - **b)** klientem profesjonalnym, chyba że jest on przez firmę inwestycyjną traktowany jak klient detaliczny,
+    - **c)** klientem detalicznym, w związku z prowadzoną przez niego działalnością gospodarczą,
+    - **d)** uprawnionym kontrahentem;
+
+- **2)** konstrukcja instrumentów finansowych lub specyfika obrotu tymi instrumentami uniemożliwia uregulowanie praw i obowiązków związanych z zawarciem i realizacją umowy, o której mowa w ust. 1, w sposób jednolity dla wszystkich klientów, na których rzecz jest świadczona ta usługa.
+
+3. W przypadku, o którym mowa w ust. 2, sposób świadczenia usługi maklerskiej przez firmę inwestycyjną na rzecz klienta, w tym prawa i obowiązki firmy inwestycyjnej i klienta z tego tytułu, a także warunki zawierania i rozwiązywania umowy, o której mowa w ust. 1, określa umowa z klientem.
+
+4. W przypadku gdy świadczenie usługi przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych lub wykonywania zleceń nabycia lub zbycia instrumentów finansowych dotyczy instrumentów finansowych zapisanych na rachunku zbiorczym umowa o świadczenie takiej usługi jest zawierana przez firmę inwestycyjną z podmiotem uprawnionym z instrumentów finansowych zapisanych na rachunku zbiorczym.
+
+5. Umowa, o której mowa w ust. 4, może zostać zawarta, o ile:
+
+- **1)** uprawniony z instrumentów finansowych zapisanych na rachunku zbiorczym wskaże firmie inwestycyjnej posiadacza rachunku zbiorczego oraz numer rachunku zbiorczego, na którym są zapisywane należące do niego instrumenty finansowe;
+- **2)** posiadacz rachunku zbiorczego zobowiąże się wobec firmy inwestycyjnej do:
+    - **a)** podejmowania wskazanych przez firmę inwestycyjną czynności dotyczących instrumentów finansowych będących przedmiotem zlecenia, które umożliwiają zabezpieczenie realizacji zlecenia zbycia tych instrumentów, w szczególności potwierdzania pokrycia takich zleceń oraz dokonywania blokady instrumentów finansowych będących przedmiotem zlecenia,
+    - **b)** dostarczania należących do klienta instrumentów finansowych będących przedmiotem złożonych przez niego zleceń sprzedaży tych instrumentów.
+
+6. Firma inwestycyjna może zawrzeć umowę o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych z posiadaczem rachunku zbiorczego, w przypadku gdy posiadacz rachunku zbiorczego złoży firmie inwestycyjnej w formie pisemnej oświadczenie, że:
+
+- **1)** świadczy usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych na rzecz podmiotów uprawnionych z instrumentów finansowych zapisanych na tym rachunku;
+- **2)** może we własnym imieniu rozporządzać instrumentami finansowymi zapisanymi na tym rachunku, na podstawie stosunku prawnego z podmiotem, do którego należą te instrumenty.
+
+7. Przepis ust. 6 stosuje się odpowiednio w przypadku, gdy firma inwestycyjna zawiera umowę o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych z podmiotem niebędącym posiadaczem rachunku zbiorczego ani uprawnionym z instrumentów finansowych zapisanych na rachunku zbiorczym.
+
+8. W przypadku gdy podmiot, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, pośredniczy w przekazywaniu zleceń klienta, który zawarł z firmą inwestycyjną umowę na warunkach, o których mowa w art. 121 ust. 1 ustawy, umowa o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych może być zawarta między firmą inwestycyjną a:
+
+- **1)** klientem, który podpisał z bankiem powierniczym umowę na warunkach, o których mowa w art. 121 ust. 1 ustawy, albo
+- **2)** podmiotem, o którym mowa w art. 121 ust. 2 pkt 2 ustawy.
+
+9. W przypadku gdy podmiot, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, pośredniczy w przekazywaniu zleceń posiadacza rachunku zbiorczego, który zawarł z firmą inwestycyjną umowę na warunkach, o których mowa w art. 121a ustawy, umowa o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych może być zawarta między firmą inwestycyjną a:
+
+- **1)** posiadaczem rachunku zbiorczego będącym zagraniczną firmą inwestycyjną, albo
+- **2)** uprawnionym z instrumentów finansowych zapisanych na rachunku zbiorczym, pod warunkiem zawarcia przez firmę inwestycyjną z posiadaczem rachunku zbiorczego, na którym są rejestrowane instrumenty finansowe uprawnionego, umowy, o której mowa w § 80 ust. 1.
+
+10. Umowa o zarządzanie portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych zapisanych na rachunku zbiorczym, jest zawierana przez firmę inwestycyjną z podmiotem uprawnionym z instrumentów finansowych zapisanych na tym rachunku.
+
+11. Umowa, o której mowa w ust. 10, może zostać zawarta, o ile:
+
+- **1)** uprawniony z instrumentów finansowych zapisanych na rachunku zbiorczym:
+    - **a)** wskaże firmie inwestycyjnej posiadacza rachunku zbiorczego, na którym są zapisywane należące do niego instrumenty finansowe,
+    - **b)** doręczy firmie inwestycyjnej kopię umowy, z której wynika obowiązek prowadzenia przez posiadacza rachunku zbiorczego odrębnej ewidencji instrumentów finansowych należących do tego klienta oraz rejestrowania w niej na bieżąco zmian wynikających z realizacji przez firmę inwestycyjną decyzji inwestycyjnych podjętych w imieniu i na rachunek klienta przez firmę inwestycyjną świadczącą usługę zarządzania portfelem;
+
+- **2)** posiadacz rachunku zbiorczego zobowiąże się wobec firmy inwestycyjnej do:
+    - **a)** prowadzenia odrębnej ewidencji instrumentów finansowych oraz rejestrowania w niej na bieżąco zmian wynikających z realizacji decyzji inwestycyjnych podjętych w imieniu i na rachunek klienta przez firmę inwestycyjną świadczącą usługę zarządzania portfelami,
+    - **b)** podejmowania wskazanych przez firmę inwestycyjną czynności zabezpieczających realizację decyzji firmy inwestycyjnej świadczącej usługę zarządzania portfelami, w szczególności potwierdzania pokrycia takich zleceń oraz dokonywania blokady instrumentów finansowych będących przedmiotem zlecenia,
+    - **c)** dostarczania instrumentów finansowych zarejestrowanych na rachunku zbiorczym firmie inwestycyjnej wykonującej zlecenia składane przez firmę inwestycyjną świadczącą usługę zarządzania portfelem.
+
+12. Regulamin świadczenia usługi maklerskiej, o którym mowa w ust. 1, określa sposób świadczenia usługi maklerskiej przez firmę inwestycyjną na rzecz klienta, w tym prawa i obowiązki firmy inwestycyjnej i klienta z tego tytułu, a także warunki zawierania i rozwiązywania umowy, w szczególności:
+
+- **1)** tryb i warunki zawierania umowy;
+- **2)** tryb, warunki i formę ustanawiania pełnomocnictw przez klienta;
+- **3)** zakres i sposób wykonywania usługi maklerskiej, która będzie wykonywana na podstawie umowy;
+- **4)** sposoby i terminy wnoszenia przez klienta opłat i prowizji związanych z usługą maklerską wykonywaną na rzecz klienta w związku z umową oraz sposób i tryb określania ich wysokości;
+- **5)** sposób postępowania firmy inwestycyjnej, w przypadku gdy klient nie dostarcza środków pieniężnych w terminach określonych w umowie lub w przepisach odrębnych;
+- **6)** postanowienia zabezpieczające interesy firmy inwestycyjnej w przypadku niewywiązania się klienta z przyjętych zobowiązań, a także sposoby zaspokajania roszczeń firmy inwestycyjnej;
+- **7)** zakres odpowiedzialności firmy inwestycyjnej za szkody powstałe wskutek niewykonania lub nienależytego wykonania przez firmę inwestycyjną zobowiązań powstałych w związku z zawarciem umowy;
+- **8)** sposób, tryb oraz terminy przekazywania klientowi informacji dotyczących świadczonej na jego rzecz usługi maklerskiej oraz zakres tych informacji;
+- **9)** zasady powierzania przez firmę inwestycyjną podmiotowi trzeciemu wykonywania poszczególnych czynności stanowiących usługę maklerską, jeżeli firma inwestycyjna przewiduje ich powierzanie podmiotowi trzeciemu;
+- **10)** sposoby i terminy załatwiania skarg składanych przez klienta;
+- **11)** tryb i warunki odstąpienia, wypowiedzenia oraz rozwiązania umowy;
+- **12)** tryb, terminy i warunki zmiany regulaminu, a także sposób informowania klienta o tych zmianach.
+
+13. Zakres i sposób wykonywania usługi maklerskiej, o których mowa w ust. 12 pkt 3, obejmuje w szczególności:
+
+- **1)** w przypadku usługi, o której mowa w art. 69 ust. 2 pkt 1 ustawy, wskazanie:
+    - **a)** formy składanych przez klienta zleceń nabycia lub zbycia instrumentów finansowych,
+    - **b)** sposobu, trybu oraz zasad przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych,
+    - **c)** sposobu, trybu oraz zasad kojarzenia przez firmę inwestycyjną dwóch lub więcej podmiotów w celu doprowadzenia do zawarcia transakcji między tymi podmiotami, jeżeli usługa świadczona przez firmę inwestycyjną obejmuje takie czynności;
+
+- **2)** w przypadku usługi, o której mowa w art. 69 ust. 2 pkt 2 ustawy, wskazanie:
+    - **a)** formy składanych przez klienta zleceń nabycia lub zbycia instrumentów finansowych,
+    - **b)** sposobu, trybu oraz zasad przyjmowania i wykonywania zleceń nabycia lub zbycia instrumentów finansowych,
+    - **c)** sposobu, trybu oraz zasad zawierania transakcji oraz dokonywania rozliczeń z tego tytułu,
+    - **d)** sposobu ustalania wysokości zabezpieczenia oraz trybu i formy informowania klienta o zmianie jego wysokości, w tym wzywania do jego uzupełnienia, oraz sposobu postępowania firmy inwestycyjnej na wypadek nieuzupełnienia przez klienta zabezpieczenia, jeżeli usługa dotyczy instrumentów finansowych, którymi obrót jest związany z obowiązkiem posiadania zabezpieczenia wykonania zobowiązań wynikających z danego instrumentu finansowego,
+    - **e)** trybu i warunków dokonywania płatności za nabywane instrumenty finansowe;
+
+- **3)** w przypadku usługi, o której mowa w art. 69 ust. 2 pkt 4 ustawy, wskazanie:
+    - **a)** trybu i warunków podejmowania i realizacji przez firmę inwestycyjną decyzji inwestycyjnych dotyczących aktywów wchodzących w skład zarządzanych portfeli,
+    - **b)** trybu dokonywania wyboru podmiotu przechowującego aktywa wchodzące w skład portfeli zarządzanych przez firmę inwestycyjną, jeżeli firma inwestycyjna wykorzystuje pośrednictwo takich podmiotów przy świadczeniu usług zarządzania portfelami instrumentów finansowych,
+    - **c)** metod wyceny instrumentów finansowych znajdujących się w portfelu klienta oraz jej częstotliwości,
+    - **d)** obiektywnych wskaźników finansowych, do których będą porównywane wyniki portfela klienta w celu ustalenia poziomu efektywności świadczonej usługi,
+    - **e)** sposobu i trybu przekazywania przez klienta dyspozycji dotyczących aktywów wchodzących w skład zarządzanego przez firmę inwestycyjną portfela instrumentów finansowych;
+
+- **4)** w przypadku usługi, o której mowa w art. 69 ust. 2 pkt 5 ustawy, wskazanie trybu i warunków opracowywania przez firmę inwestycyjną rekomendacji inwestycyjnych oraz ich przekazywania klientowi;
+- **5)** w przypadku usługi, o której mowa w art. 69 ust. 4 pkt 1 ustawy, wskazanie:
+    - **a)** sposobu przekazywania przez klienta dyspozycji dotyczących instrumentów finansowych i środków pieniężnych zapisanych na rachunku,
+    - **b)** sposobu naliczania odsetek od środków zgromadzonych na rachunku pieniężnym oraz trybu określania ich wysokości, jeżeli umowa, o której mowa w ust. 1, przewiduje oprocentowanie tych środków,
+    - **c)** trybu, warunków i przyczyn ustanawiania lub znoszenia blokady instrumentów finansowych, praw do otrzymania instrumentów finansowych oraz środków pieniężnych klienta,
+    - **d)** sposobu postępowania z instrumentami finansowymi, na których ustanowiono ograniczone prawo rzeczowe lub których zbywalność jest ograniczona,
+    - **e)** trybu i warunków przenoszenia instrumentów finansowych lub środków pieniężnych na rachunki klienta prowadzone przez inny podmiot,
+    - **f)** trybu i warunków postępowania z aktywami klienta w przypadku zamknięcia danego rachunku,
+    - **g)** sposobu ustalania wysokości zabezpieczenia oraz trybu informowania klienta o zmianie jego wysokości lub konieczności jego uzupełnienia – w przypadku gdy na rachunku mają być rejestrowane instrumenty finansowe, którymi obrót jest związany z koniecznością ustanowienia zabezpieczenia wykonania zobowiązań wynikających z tych instrumentów,
+    - **h)** szczegółowego trybu i warunków ustanawiania zabezpieczeń wykonania zlecenia w środkach pieniężnych lub na instrumentach finansowych klienta, w tym trybu wyrażania przez klienta zgody na ustanowienie zabezpieczenia.
+
+**§ 25.**
+
+1. Firma inwestycyjna może określić sposób świadczenia poszczególnych usług maklerskich w jednym regulaminie lub kilku regulaminach – o ile zawierają one wyodrębnione postanowienia odnoszące się do każdej ze świadczonych usług oraz spełniają wymogi przewidziane w przepisach niniejszego oddziału dla poszczególnych regulaminów.
+
+2. W przypadku zmiany regulaminu firma inwestycyjna informuje klienta o treści zmiany w terminie umożliwiającym wypowiedzenie przez niego umowy z zachowaniem okresu wypowiedzenia i jej rozwiązanie przed dniem wejścia w życie zmian.
+
+**§ 26.**
+
+1. Firma inwestycyjna przekazuje klientowi lub potencjalnemu klientowi informacje o warunkach umowy lub umów zawieranych w ramach sprzedaży krzyżowej w sposób:
+
+- **1)** rzetelny, dokładny i niewprowadzający w błąd;
+- **2)** odpowiedni i zrozumiały dla przeciętnego przedstawiciela grupy, do której są one kierowane lub do której mogą dotrzeć;
+- **3)** spójny, w szczególności przez jednolite i zbiorcze prezentowanie korzyści, ograniczeń i ryzyk związanych ze sprzedażą krzyżową.
+
+2. W przypadku gdy świadczenie usługi maklerskiej jest możliwe na podstawie jednej z umów, o których mowa w art. 83f ust. 1 ustawy, albo na podstawie odrębnej umowy, firma inwestycyjna informuje o tym klienta lub potencjalnego klienta zgodnie z ust. 1, w sposób umożliwiający klientowi lub potencjalnemu klientowi podjęcie świadomej decyzji co do wyboru umowy, na podstawie której będzie świadczona usługa maklerska.
+
+3. W przypadku, o którym mowa w ust. 2, firma inwestycyjna nie podejmuje działań, które wyłączają, utrudniają lub narzucają klientowi wybór umowy, na podstawie której będzie świadczona usługa maklerska.
+
+4. Firma inwestycyjna przedstawia klientowi opis ryzyka związanego ze sprzedażą krzyżową wraz z opisem ryzyk wynikających z poszczególnych usług świadczonych w ramach sprzedaży krzyżowej oraz informacje o zmianach w zakresie ryzyka, jakie wynikają ze sprzedaży krzyżowej w porównaniu z ryzykami, które wynikałyby z poszczególnych usług, gdyby były świadczone na podstawie odrębnych umów.
+
+5. Firma inwestycyjna przekazuje informacje o warunkach umowy lub umów zawieranych w ramach sprzedaży krzyżowej w odpowiednim czasie przed ich zawarciem, umożliwiającym klientowi lub potencjalnemu klientowi zapoznanie się z tymi informacjami, zrozumienie charakteru i ryzyka wynikających ze sprzedaży krzyżowej i podjęcie świadomej decyzji co do zawarcia umów w ramach sprzedaży krzyżowej.
+
+6. W przypadku promocji lub reklamy sprzedaży krzyżowej firma inwestycyjna przekazuje informacje o ryzykach związanych ze sprzedażą krzyżową oraz informacje o kosztach i opłatach związanych z zawarciem, wykonaniem lub rozwiązaniem poszczególnych umów, z zastosowaniem tego samego typu i rozmiaru czcionki jakie zastosowano do pozostałych elementów zbioru informacji przekazywanego w ramach promocji lub reklamy sprzedaży krzyżowej.
+
+**§ 27.**
+
+1. Firma inwestycyjna oferująca świadczenie usługi maklerskiej w ramach sprzedaży krzyżowej przekazuje klientowi lub potencjalnemu klientowi, zgodnie z § 26 ust. 1, w sposób czytelny i przejrzysty odrębne zestawienie kosztów i opłat związanych z zawarciem, wykonaniem lub rozwiązaniem umowy zawartej w ramach sprzedaży krzyżowej oraz zestawienie kosztów i opłat związanych z zawarciem, wykonaniem lub rozwiązaniem umów dotyczących poszczególnych usług, które byłyby ponoszone z tytułu poszczególnych usług, gdyby były świadczone na podstawie odrębnych umów, a także informację zbiorczą o tych kosztach i opłatach.
+
+2. W przypadku gdy z rozwiązaniem umowy o świadczenie usługi maklerskiej zawartej w ramach sprzedaży krzyżowej na podstawie jednej z umów, o których mowa w art. 83f ust. 1 pkt 2 ustawy, wiąże się poniesienie przez klienta lub potencjalnego klienta dodatkowych kosztów i opłat związanych z zaprzestaniem wykonywania umowy o świadczenie innej usługi, firma inwestycyjna przekazuje klientowi lub potencjalnemu klientowi również zestawienie tych kosztów i opłat.
+
+3. W przypadku gdy nie jest możliwe przedstawienie przez firmę inwestycyjną dokładnej wysokości kosztów i opłat związanych z inną usługą, które klient lub potencjalny klient poniósłby w przypadku ich wystąpienia, firma inwestycyjna przekazuje klientowi informację o szacowanych kosztach i opłatach. Oszacowanie wielkości kosztów i opłat następuje na podstawie racjonalnych założeń przyjętych przez firmę inwestycyjną.
+
+4. W przypadku gdy zawieranie umowy lub umów w ramach sprzedaży krzyżowej następuje z wykorzystaniem sieci Internet lub w inny sposób bez bezpośredniego udziału osoby zatrudnionej przez firmę inwestycyjną lub podmiot, o którym mowa w art. 79 ustawy, informacje o kosztach i opłatach związanych z umową, o której mowa w art. 83f ust. 1 pkt 1 ustawy, lub umowami zawieranymi zgodnie z art. 83f ust. 1 pkt 2 ustawy, firma inwestycyjna przekazuje, przed zawarciem umowy, odpowiednio wcześniej, w sposób wyraźny i nieutrudniający dotarcia do tych informacji lub zapoznania się z nimi przez klienta lub potencjalnego klienta.
+
+**§ 28.**
+
+1. W przypadku świadczenia usługi maklerskiej w ramach sprzedaży krzyżowej, w tym w sytuacji, gdy zawarcie umowy o świadczenie usługi maklerskiej jest warunkiem zawarcia umowy o świadczenie innej usługi, przekazanie informacji o warunkach świadczenia usługi maklerskiej następuje z uwzględnieniem art. 44–51 rozporządzenia 2017/565.
+
+2. Przepisy § 26 i § 27 nie wyłączają stosowania przepisów regulujących sposób przekazywania informacji o świadczeniu w ramach sprzedaży krzyżowej usług innych niż świadczenie usługi maklerskiej.
+
+**§ 29.**
+
+1. Firma inwestycyjna nie zawiera umowy lub umów w ramach sprzedaży krzyżowej ani nie pośredniczy w zawarciu takiej umowy lub takich umów, w przypadku gdy okresy odstąpienia lub rozwiązania umowy lub umów o świadczenie usług zawieranych w ramach sprzedaży krzyżowej różniłyby się od okresów odstąpienia lub rozwiązania umów o świadczenie takich usług, gdyby były świadczone na podstawie odrębnych umów.
+
+2. Firma inwestycyjna nie zawiera umowy sprzedaży łączonej ani nie pośredniczy w jej zawarciu, w przypadku gdy klient nie ma możliwości zaprzestania korzystania ze świadczenia usługi wchodzącej w skład sprzedaży łączonej bez ponoszenia nieproporcjonalnych i nieuzasadnionych kosztów lub opłat, w tym kar umownych.
+
+**§ 30.**
+
+1. Za nieskomplikowane instrumenty finansowe, o których mowa w art. 83h ust. 5 pkt 1 ustawy, nie uznaje się w szczególności:
+
+- **1)** dłużnych papierów wartościowych, które mają wbudowany instrument pochodny;
+- **2)** dłużnych papierów wartościowych, których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie ryzyka związanego z tymi instrumentami finansowymi;
+- **3)** instrumentów finansowych, które mają wbudowany instrument pochodny.
+
+2. Przez dłużne papiery wartościowe, o których mowa w ust. 1:
+
+- **1)** pkt 1, rozumie się:
+    - **a)** obligacje zamienne i warunkowe obligacje zamienne,
+    - **b)** obligacje wymienne,
+    - **c)** obligacje o zmiennym nominale, z wyłączeniem obligacji ratalnych,
+    - **d)** obligacje z wbudowaną opcją kupna lub sprzedaży,
+    - **e)** dłużne papiery wartościowe, których wartość zależy od wartości instrumentu bazowego,
+    - **f)** dłużne papiery wartościowe z wbudowanym kredytowym instrumentem pochodnym, w przypadku których stopa zwrotu jest uzależniona od stopy zwrotu instrumentu referencyjnego (w przypadku braku zdarzenia kredytowego) lub prawdopodobieństwa wystąpienia zdarzenia kredytowego (premii za ryzyko kredytowe),
+    - **g)** warranty subskrypcyjne;
+
+- **2)** pkt 2, rozumie się:
+    - **a)** obligacje i inne dłużne papiery wartościowe o elemencie lub elementach konstrukcji niepozwalających klientowi lub potencjalnemu klientowi na zrozumienie istoty ryzyka związanego z nabyciem lub objęciem takiego papieru wartościowego ze względu na niepewność, nietypowość, złożoność, nieprecyzyjność lub dowolność kształtowania tych elementów,
+    - **b)** papiery wartościowe, których konstrukcja przewiduje, że: – wypłata świadczenia pieniężnego (stopa zwrotu) lub przekazanie świadczenia niepieniężnego są uzależnione od: – – ustalanej jednorazowo lub regularnie wartości określonego portfela aktywów, w szczególności papiery wartościowe zabezpieczone aktywami, w tym spłatą kredytów lub pożyczek, albo – – zaspokojenia wierzytelności przez podmioty trzecie, w szczególności obligacje podporządkowane lub inne podporządkowane dłużne papiery wartościowe oraz certyfikaty, o których mowa w art. 2 ust. 1 pkt 27 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm. ), zwanego dalej „rozporządzeniem 600/2014”, – emitent papieru wartościowego posiada dowolność, w szczególności przez samodzielne określanie jednej zmiennej albo kilku zmiennych, w ustalaniu przekazywanego świadczenia pieniężnego (stopy zwrotu) lub świadczenia niepieniężnego, – nie istnieje ściśle oznaczony termin ich wykupu lub okres zapadalności lub nie podlegają one wykupowi, w szczególności obligacje wieczyste, – przekazanie świadczenia pieniężnego (stopa zwrotu) lub świadczenia niepieniężnego jest uzależnione od nietypowej lub nieznanej klientowi detalicznemu lub potencjalnemu klientowi detalicznemu jednej zmiennej albo kilku zmiennych, w szczególności dłużne papiery wartościowe, których wartość jest uzależniona od wartości wskaźników niepodanych do publicznej wiadomości, wskaźników o specjalistycznym charakterze lub od zdarzenia katastroficznego, – wysokość i termin wypłaty świadczenia pieniężnego (stopa zwrotu) lub niepieniężnego jest ustalana w sposób skomplikowany, w szczególności w wyniku częstych zmian w okresie do terminu ich wykupu lub zapadalności albo w wyniku osiągnięcia określonych wartości progowych albo punktów w czasie, – nie nastąpi zwrot całości albo części wartości nominalnej papieru wartościowego, w szczególności obligacje podporządkowane i inne podporządkowane papiery wartościowe podlegające konwersji na udział w kapitale lub majątku emitenta wskutek wystąpienia jego uporządkowanej restrukturyzacji, – identyfikacja dłużnego papieru wartościowego emitenta lub podmiotu zabezpieczającego emisję jest utrudniona albo może wprowadzać w błąd, w szczególności ze względu na nazwę instrumentu, firmę emitenta lub podmiotu zabezpieczającego emisję, – wysokość, forma i warunki zabezpieczenia wierzytelności wynikających z dłużnego papieru wartościowego jest określona w sposób utrudniający właściwe zrozumienie, w jaki sposób ustanowione zabezpieczenie może wpływać na ryzyko związane z nabyciem tego papieru wartościowego, w szczególności w przypadku, gdy zaspokojenie z zabezpieczenia jest uzależnione od jednego warunku albo kilku warunków innych niż niewykonanie zobowiązań przez emitenta lub zaspokojenie z zabezpieczenia w całości albo części jest ograniczone w czasie.
+
+3. Przez instrumenty finansowe, o których mowa w ust. 1 pkt 3, rozumie się w szczególności:
+
+- **1)** akcje lub certyfikaty inwestycyjne, które mają wbudowany instrument pochodny,
+- **2)** obligacje lub inne dłużne papiery wartościowe, które mają wbudowany instrument pochodny lub których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie związanego z nimi ryzyka,
+- **3)** instrumenty rynku pieniężnego, które mają wbudowany instrument pochodny lub których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie związanego z nimi ryzyka – lub zawierające w swojej strukturze element powodujący, że część lub całość wypłaty środków pieniężnych z tytułu wierzytelności przysługujących posiadaczowi tego instrumentu finansowego ulega modyfikacji w zależności od jednej zmiennej albo kilku określonych zmiennych.
+
+**§ 31.**
+
+1. W przypadku gdy przedmiotem umowy, o której mowa w art. 69h ust. 1 ustawy, są lokaty strukturyzowane, których:
+
+- **1)** konstrukcja utrudnia klientowi lub potencjalnemu klientowi zrozumienie ryzyka związanego ze stopą zwrotu,
+- **2)** konstrukcja utrudnia klientowi lub potencjalnemu klientowi zrozumienie kosztów likwidacji lokaty przed terminem – dom maklerski stosuje przepisy art. 83h ust. 1–4 ustawy, z uwzględnieniem ust. 5 pkt 2–4 tego artykułu.
+
+2. Przez lokaty strukturyzowane, o których mowa w ust. 1:
+
+- **1)** pkt 1, rozumie się lokaty, o których mowa w art. 88h ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646 i 1685), których konstrukcja przewiduje, że:
+    - **a)** wypłata całości albo części kapitału, odsetek lub świadczeń dodatkowych jest uzależniona od więcej niż jednej zmiennej, w szczególności wartości określonego portfela aktywów lub wartości indeksów, ustalanych jednorazowo albo regularnie,
+    - **b)** relacja pomiędzy wypłatą całości lub części kapitału, odsetek lub świadczeń dodatkowych a zmienną, mechanizmem ustalania albo obliczania wypłaty jest złożona, w szczególności lokaty, których konstrukcja przewiduje, że: – mechanizm uwzględnienia poziomu cen danego indeksu w wypłacie jest oparty na różnych źródłach danych rynkowych lub kilku pomiarach indeksu w różnych terminach lub – wielkość wypłaty rośnie albo maleje w określonych okolicznościach lub jest uzależniona od samodzielnego określania jednej zmiennej albo kilku zmiennych w czasie trwania lokaty,
+    - **c)** wypłata całości lub części kapitału, odsetek lub świadczeń dodatkowych jest uzależniona od nietypowej lub nieznanej przeciętnemu klientowi detalicznemu lub potencjalnemu klientowi detalicznemu jednej zmiennej albo kilku zmiennych, w szczególności lokaty strukturyzowane, których wartość zależy od wartości wskaźników niepodanych do publicznej wiadomości lub wskaźników o specjalistycznym charakterze,
+    - **d)** strona umowy lokaty niebędąca klientem jest uprawniona do jednostronnego rozwiązania umowy przed upływem terminu likwidacji lokaty;
+
+- **2)** pkt 2, rozumie się lokaty, o których mowa w art. 88h ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, których konstrukcja przewiduje, że koszt rozwiązania przez klienta umowy o lokatę przed terminem nie jest ściśle określoną:
+    - **a)** kwotą, w szczególności lokaty strukturyzowane o zmiennym koszcie rozwiązania lub koszcie wskazanym do maksymalnej wysokości lub lokaty strukturyzowane, w przypadku których koszt rozwiązania umowy jest ustalany na podstawie zmiennego czynnika, takiego jak oprocentowanie,
+    - **b)** kwotą za każdy miesiąc pozostały do końca określonego umową terminu likwidacji lokaty, w szczególności lokaty strukturyzowane o zmiennym koszcie rozwiązania lub koszcie wskazanym do maksymalnej wysokości, za każdy miesiąc pozostały do końca określonego umową terminu likwidacji lokaty,
+    - **c)** kwotą odsetek lub wartości świadczeń dodatkowych, w szczególności lokaty strukturyzowane przewidujące wyłącznie zwrot depozytu w przypadku rozwiązania umowy.
+
+**§ 32.** Przepisów § 22, § 26–29 i § 31 nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
+
 ##### Oddział 4 Tryb i warunki postępowania firm inwestycyjnych emitujących lub wystawiających instrumenty finansowe lub udzielających porad w zakresie emitowania lub wystawiania instrumentu finansowego
+
+**§ 33.**
+
+1. Firma inwestycyjna emitująca lub wystawiająca instrumenty finansowe lub udzielająca porad w zakresie emitowania lub wystawiania instrumentu finansowego uwzględnia charakter instrumentu finansowego, usługi inwestycyjnej i grupy docelowej.
+
+2. Firma inwestycyjna ustanawia, wdraża i utrzymuje procedury i rozwiązania służące zapewnieniu zgodności procesu emitowania lub wystawiania instrumentów finansowych lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego z wymogami dotyczącymi właściwego zarządzania konfliktami interesów, w tym stosowaną polityką wynagrodzeń, o której mowa w art. 83e ust. 1 ustawy, w szczególności zapewnia, aby wyemitowanie lub wystawienie instrumentów finansowych, w tym ze względu na ich cechy, nie miało negatywnego wpływu na grupę docelową ani nie stanowiło zagrożenia dla prawidłowego funkcjonowania lub stabilności rynków finansowych na skutek ograniczenia lub wyzbycia się przez firmę inwestycyjną, przez emitowanie lub wystawienie tego instrumentu finansowego, własnego ryzyka lub własnej ekspozycji związanych z aktywami posiadanymi przez firmę inwestycyjną na własny rachunek.
+
+3. Firma inwestycyjna emitująca lub wystawiająca instrumenty finansowe lub udzielająca porad w zakresie emitowania lub wystawiania instrumentu finansowego dokonuje analizy możliwości wystąpienia ewentualnych konfliktów interesów, w szczególności ocenia, czy wyemitowanie lub wystawienie instrumentu finansowego prowadzi do powstania sytuacji, w której mogą wystąpić negatywne skutki dla klienta należącego do grupy docelowej, jeżeli przyjmie on ekspozycję przeciwstawną w stosunku do ekspozycji utrzymywanej uprzednio przez firmę inwestycyjną lub ekspozycję przeciwstawną w stosunku do ekspozycji, którą firma inwestycyjna zamierza przyjąć po wyemitowaniu lub wystawieniu instrumentu finansowego.
+
+4. Przed podjęciem decyzji o wyemitowaniu lub wystawieniu instrumentu finansowego firma inwestycyjna ocenia, czy instrument finansowy może stanowić zagrożenie dla prawidłowego funkcjonowania lub stabilności rynków finansowych.
+
+**§ 34.**
+
+1. Firma inwestycyjna określa grupę docelową w odniesieniu do każdego emitowanego lub wystawianego przez nią instrumentu finansowego lub gdy udziela innym podmiotom porad w zakresie emitowania lub wystawiania instrumentu finansowego. W ramach tego procesu firma określa także wszystkie grupy klientów, których potrzebom, cechom i celom instrument finansowy nie odpowiada (negatywna grupa docelowa).
+
+2. Firma inwestycyjna przy określaniu negatywnej grupy docelowej nie uwzględnia kryteriów obejmujących czynniki zrównoważonego rozwoju.
+
+3. W przypadku instrumentu finansowego uwzględniającego czynniki zrównoważonego rozwoju firma inwestycyjna uznaje, że odpowiada on celom i potrzebom inwestycyjnym również tych klientów docelowych, których cele i potrzeby inwestycyjne nie są związane ze zrównoważonym rozwojem, pod warunkiem że ich pozostałe cele i potrzeby inwestycyjne są spełnione przez ten instrument.
+
+4. Firma inwestycyjna przy określaniu grupy docelowej bierze pod uwagę kryteria obejmujące co najmniej:
+
+- **1)** rodzaj klientów, do których dany produkt jest skierowany, z uwzględnieniem podziału klientów na kategorie, o których mowa w art. 3a ust. 4 ustawy;
+- **2)** wiedzę i doświadczenie w odniesieniu do rodzaju danego instrumentu finansowego, jego właściwości lub zagadnień związanych z danym instrumentem, które powinien posiadać klient docelowy, aby zrozumieć cechy i ryzyka związane z tym instrumentem finansowym;
+- **3)** sytuację finansową klienta docelowego uwzględniającą:
+    - **a)** wartość procentową straty, jaką klient docelowy jest w stanie ponieść,
+    - **b)** istnienie dodatkowych zobowiązań klienta docelowego w związku z instrumentem finansowym, których wartość może przekraczać zainwestowaną kwotę, obejmujących w szczególności wezwanie do uzupełnienia depozytu zabezpieczającego przez klienta;
+
+- **4)** tolerancję ryzyka oraz zgodności wskaźnika zysku do ryzyka związanego z instrumentem finansowym oraz zakładanej stopy zwrotu z grupą docelową, z uwzględnieniem:
+    - **a)** ustalenia i precyzyjnego opisania przez firmę inwestycyjną kategorii ryzyka związanego z instrumentem finansowym,
+    - **b)** określenia przez firmę inwestycyjną ogólnego podejścia klienta docelowego do ryzyka związanego z inwestycją w instrumenty finansowe przez przypisanie klienta docelowego do kategorii, o których mowa w lit. a,
+    - **c)** zastosowania w stosownych przypadkach wskaźnika syntetycznego, o którym mowa w art. 8 ust. 1 rozporządzenia Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie kluczowych informacji dla inwestorów i warunków, które należy spełnić w przypadku dostarczania kluczowych informacji dla inwestorów lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za pośrednictwem strony internetowej (Dz. Urz. UE L 176 z 10.07.2010, str. 1), lub ogólnego wskaźnika ryzyka, o którym mowa w art. 8 ust. 3 lit. d pkt ii rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) (Dz. Urz. UE L 352 z 09.12.2014, str. 1, z późn. zm. );
+
+- **5)** cele inwestycyjne klientów, w tym związane z czynnikami zrównoważonego rozwoju, oraz ich potrzeby inwestycyjne, które mają być zaspokojone przez dany instrument finansowy, z uwzględnieniem ogólnej strategii inwestycyjnej klienta docelowego, obejmującej w szczególności horyzont czasowy inwestycji, przy czym cele i potrzeby klienta mogą zostać uszczegółowione przez wskazanie określonych aspektów inwestycji oraz oczekiwań klientów docelowych w odniesieniu do tych aspektów inwestycji.
+
+5. Firma inwestycyjna, przy ustalaniu kryteriów innych niż kryteria, o których mowa w ust. 4, może uwzględnić w szczególności właściwości poszczególnych sposobów komunikowania się z firmami inwestycyjnymi rekomendującymi, oferującymi albo w inny sposób umożliwiającymi nabycie lub objęcie instrumentu finansowego.
+
+6. Firma inwestycyjna dokonuje oceny znaczenia każdego z kryteriów dla określonego instrumentu finansowego i dostosowania szczegółowości określenia grupy docelowej odpowiednio do rodzaju, charakteru i cech instrumentu finansowego, z uwzględnieniem zależności między poszczególnymi kryteriami.
+
+7. Firma inwestycyjna precyzyjnie definiuje pojęcia i terminologię stosowaną przy określaniu grupy docelowej.
+
+8. Firma inwestycyjna emitująca lub wystawiająca instrument finansowy, który jest rekomendowany lub oferowany lub którego nabycie lub objęcie umożliwiają inne firmy inwestycyjne, określa grupę docelową, w szczególności jej potrzeby, cechy lub cele, z którymi instrument finansowy jest zgodny, w tym cele związane ze zrównoważonym rozwojem, na podstawie swojej wiedzy i doświadczenia związanego z tym instrumentem lub podobnymi instrumentami, rynkami finansowymi oraz potrzebami, cechami i celami potencjalnych grup docelowych, w tym celami związanymi ze zrównoważonym rozwojem.
+
+9. Firma inwestycyjna określa grupę docelową w sposób odpowiedni i proporcjonalny, z uwzględnieniem charakteru instrumentu finansowego i jego złożoności, w tym związanych z nim kosztów oraz struktury opłat, wskaźnika zysku do ryzyka, płynności lub jego innowacyjnego charakteru.
+
+10. W przypadku skomplikowanych instrumentów finansowych, w szczególności instrumentów finansowych o złożonych obliczeniach stopy zwrotu, firma inwestycyjna określa grupę docelową w sposób bardziej szczegółowy.
+
+11. W przypadku nieskomplikowanych i łatwo dostępnych instrumentów finansowych firma inwestycyjna może określić grupę docelową w sposób mniej szczegółowy, w szczególności:
+
+- **1)** w przypadku niektórych rodzajów instrumentów finansowych wystarczająco porównywalnych pod kątem cech tych instrumentów grupa docelowa może być określona na podstawie wspólnego podejścia dotyczącego jednego rodzaju instrumentów finansowych;
+- **2)** opis jednego lub więcej kryteriów, o których mowa w ust. 4, może być dokonany w sposób ogólny.
+
+12. Firma inwestycyjna określa grupę docelową na wystarczająco szczegółowym poziomie, aby uniknąć uwzględnienia w grupie docelowej klientów lub grup klientów, z których potrzebami, cechami i celami dany instrument finansowy nie jest zgodny.
+
+13. W przypadku instrumentu finansowego emitowanego lub wystawianego przez firmę inwestycyjną na indywidualne zamówienie za grupę docelową uznaje się klienta lub potencjalnego klienta, który zgłosił potrzebę nabycia lub objęcia takiego instrumentu finansowego, z wyłączeniem przypadku, gdy instrument taki jest rekomendowany, oferowany lub którego nabycie lub objęcie jest umożliwiane na rzecz innych klientów.
+
+**§ 35.**
+
+1. Firma inwestycyjna będąca emitentem lub wystawcą instrumentu finansowego przeprowadza analizę scenariuszową instrumentu finansowego, w ramach której ocenia związane z instrumentem finansowym ryzyko niskich wyników dla klientów oraz okoliczności, w jakich takie wyniki mogą wystąpić.
+
+2. Analiza, o której mowa w ust. 1, obejmuje opis negatywnych zjawisk rynkowych, ich wpływu na ryzyko niskich wyników dla klientów oraz przewidywanych działań, w szczególności na wypadek, gdyby:
+
+- **1)** otoczenie rynkowe uległo pogorszeniu;
+- **2)** emitent lub wystawca instrumentu finansowego lub osoba trzecia uczestnicząca w procesie emitowania lub wystawienia instrumentu finansowego znaleźli się w trudnej sytuacji finansowej lub gdyby pojawiło się inne ryzyko związane z emitentem, wystawcą lub osobą trzecią;
+- **3)** instrument finansowy okazał się nieopłacalny z ekonomicznego punktu widzenia;
+- **4)** popyt na instrument finansowy był znacznie większy niż przewidywano.
+
+3. Firma inwestycyjna określa, czy instrument finansowy spełnia rozpoznane potrzeby, cechy i cele grupy docelowej, w szczególności przez zbadanie, czy:
+
+- **1)** profil ryzyka i zysku instrumentu finansowego jest zgodny z grupą docelową;
+- **2)** czynniki zrównoważonego rozwoju uwzględnione w instrumencie finansowym są zgodne z grupą docelową – w przypadku gdy instrument finansowy uwzględnia czynniki zrównoważonego rozwoju;
+- **3)** zamiar wyemitowania lub wystawienia instrumentu finansowego wynika z cechy instrumentu finansowego przynoszącej korzyści grupie docelowej, a nie z modelu biznesowego stosowanego przez firmę inwestycyjną lub inne firmy inwestycyjne, o których mowa w § 34 ust. 8.
+
+4. Firma inwestycyjna analizuje strukturę kosztów i opłat proponowaną w odniesieniu do instrumentu finansowego, w szczególności przez zbadanie, czy:
+
+- **1)** koszty lub opłaty związane z instrumentem finansowym są zgodne z potrzebami, cechami i celami grupy docelowej;
+- **2)** koszty lub opłaty związane z instrumentem finansowym nie powodują pogorszenia oczekiwanej rentowności instrumentu finansowego, w szczególności czy nie równoważą lub nie eliminują oczekiwanych korzyści finansowych lub podatkowych związanych z instrumentem finansowym;
+- **3)** struktura kosztów lub opłat związanych z instrumentem finansowym jest odpowiednio przejrzysta w odniesieniu do grupy docelowej, w szczególności czy nie prowadzi do ukrycia kosztów lub opłat lub ich rzeczywistej wysokości lub czy nie jest zbyt skomplikowana.
+
+5. Firma inwestycyjna przekazuje informacje dotyczące instrumentu finansowego, grupy docelowej oraz strategii dystrybucji innym firmom inwestycyjnym, o których mowa w § 34 ust. 8. Firma inwestycyjna przekazuje informacje w sposób przejrzysty, umożliwiający tym firmom inwestycyjnym właściwe ich zrozumienie, rekomendację lub sprzedaż instrumentu finansowego w odpowiedni sposób oraz należyte uwzględnienie celów klienta lub potencjalnego klienta związanych ze zrównoważonym rozwojem.
+
+6. Firma inwestycyjna określa strategię dystrybucji w taki sposób, aby zapewniała ona dotarcie instrumentu finansowego do grupy docelowej tego instrumentu, w szczególności, aby dokonany przez firmę inwestycyjną wybór innych firm inwestycyjnych, o których mowa w § 34 ust. 8, oraz usług maklerskich, w ramach których docelowi klienci mogą nabyć określony instrument finansowy, zapewnił zgodność instrumentu finansowego z grupą docelową tego instrumentu finansowego. W przypadku gdy do nabycia lub objęcia określonego instrumentu finansowego nie jest wymagane świadczenie usługi, o której mowa w art. 69 ust. 2 pkt 5 ustawy, firma inwestycyjna może określić w strategii dystrybucji preferowany kanał sprzedaży tego instrumentu.
+
+**§ 36.**
+
+1. W przypadku gdy firma inwestycyjna współpracuje przy emitowaniu lub wystawianiu instrumentu finansowego lub przy udzielaniu porad w zakresie emitowania lub wystawiania instrumentu finansowego z inną firmą inwestycyjną, podmiotem, który nie posiada zezwolenia na wykonywanie działalności maklerskiej i nie podlega nadzorowi zgodnie z przepisami ustawy, lub z firmą inwestycyjną z państwa trzeciego, zawiera, w formie pisemnej, umowę z taką firmą inwestycyjną lub takim podmiotem określającą ich wzajemne obowiązki.
+
+2. W przypadku, o którym mowa w ust. 1, jest określana jedna grupa docelowa.
+
+**§ 37.**
+
+1. Firma inwestycyjna zatrudnia w procesie emitowania lub wystawiania instrumentu finansowego lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego osoby posiadające wiedzę niezbędną do zrozumienia właściwości i czynników ryzyka związanych z tymi instrumentami finansowymi.
+
+2. Firma inwestycyjna przeprowadza regularne przeglądy instrumentów finansowych, które emituje lub wystawia lub w odniesieniu do których udziela innym podmiotom porad w zakresie emitowania lub wystawiania instrumentu finansowego, z uwzględnieniem zdarzeń, które w znaczący sposób mogą wpłynąć na potencjalne ryzyko dla określonej grupy docelowej, w szczególności w celu ustalenia, czy instrument finansowy:
+
+- **1)** pozostaje spójny z potrzebami, cechami i celami grupy docelowej, a w przypadku gdy instrument finansowy uwzględnia czynniki zrównoważonego rozwoju – również z celami związanymi ze zrównoważonym rozwojem;
+- **2)** jest rekomendowany lub oferowany grupie docelowej albo w inny sposób jest umożliwiane nabycie lub objęcie instrumentu finansowego przez grupę docelową;
+- **3)** jest rekomendowany lub oferowany albo w inny sposób jest umożliwiane nabycie lub objęcie instrumentu finansowego przez klientów, z których potrzebami, cechami i celami instrument finansowy nie jest zgodny;
+- **4)** ze względu na jego cechy lub związane z nim koszty lub opłaty nie ma negatywnego wpływu na grupę docelową i nie stanowi zagrożenia dla prawidłowego funkcjonowania lub stabilności rynków finansowych.
+
+3. Firma inwestycyjna przeprowadza przegląd instrumentów finansowych przed każdą kolejną emisją lub wystawieniem instrumentu finansowego, jeżeli posiada informacje o zdarzeniu, które mogłoby w znaczący sposób wpłynąć na potencjalne ryzyko dla grupy docelowej.
+
+4. Firma inwestycyjna ustanawia i wdraża procedurę, w której określa, z jaką częstotliwością będzie przeprowadzać przeglądy instrumentów finansowych, o których mowa w ust. 2, w szczególności w oparciu o czynniki związane ze złożonością lub innowacyjnym charakterem instrumentu finansowego lub stosowanych strategii inwestycyjnych.
+
+5. Procedura, o której mowa w ust. 4, określa kluczowe zdarzenia, które mogą wpłynąć na potencjalne ryzyko lub oczekiwaną rentowność instrumentu finansowego, w szczególności:
+
+- **1)** przekroczenie określonego progu wartości, które wpłynie na rentowność instrumentu finansowego;
+- **2)** wypłacalność określonych emitentów, których papiery wartościowe lub udzielone przez nich gwarancje mogą wpływać na wyniki instrumentu finansowego.
+
+6. W przypadku wystąpienia zdarzeń, o których mowa w ust. 5, firma inwestycyjna podejmuje działania zaradcze, w szczególności polegające na:
+
+- **1)** przekazaniu istotnych informacji dotyczących zdarzenia i jego konsekwencji dla instrumentu finansowego klientom lub innym firmom inwestycyjnym, o których mowa w § 34 ust. 8, jeżeli firma inwestycyjna nie oferuje ani nie sprzedaje instrumentu finansowego bezpośrednio klientom;
+- **2)** dokonaniu zmian w procesie emitowania lub wystawiania instrumentu finansowego lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego;
+- **3)** wstrzymanie dalszej emisji lub dalszego wystawiania instrumentu finansowego – w przypadku gdy firma inwestycyjna jest emitentem lub wystawcą tego instrumentu finansowego;
+- **4)** dokonaniu zmian cech instrumentu finansowego lub zmian kosztów lub opłat związanych z instrumentem finansowym w celu uniknięcia nieuczciwych postanowień umownych;
+- **5)** ustaleniu, czy strategia dystrybucji lub kanały dystrybucji są odpowiednie – w przypadku gdy firma inwestycyjna stwierdzi, że instrument finansowy jest rekomendowany lub oferowany albo w inny sposób jest umożliwiane nabycie lub objęcie instrumentu finansowego przez klientów, z których potrzebami, cechami i celami instrument finansowy nie jest zgodny;
+- **6)** nawiązaniu kontaktu z innymi firmami inwestycyjnymi, o których mowa w § 34 ust. 8, w celu omówienia zmiany strategii dystrybucji;
+- **7)** rozwiązaniu umowy z innymi firmami inwestycyjnymi, o których mowa w § 34 ust. 8;
+- **8)** poinformowaniu Komisji Nadzoru Finansowego o wystąpieniu zdarzenia, które może wpłynąć na potencjalne ryzyko lub oczekiwaną rentowność instrumentu finansowego.
+
+**§ 38.**
+
+1. Zarząd firmy inwestycyjnej sprawuje kontrolę nad prawidłowym wypełnianiem przez firmę inwestycyjną obowiązków, o których mowa w art. 83b ust. 8, 12, 14 i 15 ustawy oraz w niniejszym oddziale, a także zapewnia, aby przekazywane im systematycznie sprawozdania dotyczące przestrzegania tych przepisów zawierały informacje na temat instrumentów finansowych emitowanych lub wystawianych przez firmę inwestycyjną, w tym informacje dotyczące strategii dystrybucji.
+
+2. Firma inwestycyjna udostępnia sprawozdania, o których mowa w ust. 1, Komisji Nadzoru Finansowego, na jej żądanie.
+
+3. Funkcja zgodności z przepisami, o której mowa w art. 22 ust. 2 rozporządzenia 2017/565, monitoruje zmiany i okresowe przeglądy procesu emitowania lub wystawiania instrumentów finansowych lub udzielania porad w zakresie emitowania lub wystawiania instrumentu finansowego w celu wykrycia ryzyka niewywiązania się przez firmę inwestycyjną z obowiązków określonych w niniejszym oddziale.
+
+**§ 39.** Przepisów niniejszego oddziału nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
 
 ##### Oddział 5 Tryb i warunki postępowania firm inwestycyjnych rekomendujących, oferujących albo w inny sposób umożliwiających nabycie lub objęcie instrumentu finansowego
 
+**§ 40.**
+
+1. Firma inwestycyjna, przy podejmowaniu decyzji o zakresie instrumentów finansowych wyemitowanych lub wystawionych przez tę firmę lub przez inną firmę inwestycyjną, jakie zamierza oferować lub rekomendować albo w inny sposób umożliwiać ich nabycie lub objęcie oraz o rodzaju usług, jakie zamierza świadczyć, uwzględnia charakter instrumentu finansowego, usługi inwestycyjnej oraz grupy docelowej.
+
+2. Przepisy niniejszego oddziału stosuje się również w przypadku, gdy firma inwestycyjna oferuje lub rekomenduje albo w inny sposób umożliwia nabycie lub objęcie instrumentów finansowych wyemitowanych lub wystawionych przez podmioty, do których nie stosuje się przepisów ustawy. W takim przypadku firma inwestycyjna dokłada należytej staranności w celu uzyskania przez nią od takich emitentów lub wystawców informacji dotyczących tych instrumentów finansowych.
+
+3. W przypadku, o którym mowa w ust. 2, firma inwestycyjna zapewnia klientom co najmniej taki sam poziom usług i bezpieczeństwa ich świadczenia jak w przypadku instrumentów finansowych wyemitowanych lub wystawionych zgodnie z zasadami określonymi w art. 83b ust. 7–17 ustawy oraz oddziale 4 i niniejszym oddziale.
+
+4. Firma inwestycyjna, która nie jest w stanie uzyskać dostatecznych informacji na temat wyemitowanych lub wystawionych instrumentów finansowych, nie może oferować, rekomendować ani w inny sposób umożliwiać nabycia lub objęcia takich instrumentów finansowych, chyba że nabycie lub objęcie następuje wyłącznie z inicjatywy klienta.
+
+**§ 41.**
+
+1. Firma inwestycyjna określa grupę docelową danego instrumentu finansowego także w przypadku, gdy emitent lub wystawca tego instrumentu nie określili grupy docelowej.
+
+2. Firma inwestycyjna określa grupę docelową instrumentu finansowego lub usługi na etapie ustalania celów biznesowych i strategii dystrybucji, przed rozpoczęciem świadczenia usług w odniesieniu do tego instrumentu finansowego.
+
+3. Firma inwestycyjna, realizując w bieżącej działalności operacyjnej określoną przez siebie grupę docelową dla danego instrumentu finansowego lub usługi, zapewnia dostosowanie i zgodność świadczonych usług maklerskich w odniesieniu do objętych grupą docelową instrumentów finansowych.
+
+4. Firma inwestycyjna, wykonując obowiązek, o którym mowa w ust. 3, zapewnia w szczególności zgodność świadczonych usług maklerskich z instrumentami finansowymi w odniesieniu do tych instrumentów finansowych, które charakteryzują się wysokim poziomem złożoności, podwyższonym ryzykiem, brakiem płynności albo zmniejszoną płynnością albo innymi cechami istotnymi dla grupy docelowej.
+
+5. Firma inwestycyjna wykonuje obowiązek, o którym mowa w ust. 3, wyłącznie w przypadku klientów końcowych, którzy nie oferują, nie rekomendują ani w inny sposób nie udostępniają danego instrumentu finansowego do nabycia albo objęcia przez innych klientów.
+
+6. Firma inwestycyjna, w celu określenia grupy docelowej:
+
+- **1)** stosuje odpowiednio § 34 ust. 4, przy czym może określić grupę docelową w sposób bardziej szczegółowy niż w przypadku emitenta lub wystawcy instrumentu finansowego, a także bierze pod uwagę rodzaj klientów, którym świadczy usługi maklerskie, charakter instrumentów finansowych oraz rodzaj oferowanych usług maklerskich;
+- **2)** przeprowadza dokładną analizę cech swojej bazy klientów i potencjalnych klientów;
+- **3)** wykorzystuje informacje, o których mowa w § 43 ust. 11, które uzna za przydatne i dostępne w celu określenia grupy docelowej;
+- **4)** wdraża, utrzymuje i stosuje, na zasadzie proporcjonalności, uwzględniając stopień złożoności instrumentu finansowego, procedurę dostosowywania grupy docelowej określonej przez emitenta lub wystawcę instrumentu finansowego do własnej bazy klientów;
+- **5)** zapewnia zgodność określanej grupy docelowej z podstawowymi założeniami odnoszącymi się do grupy docelowej określonej przez emitenta lub wystawcę instrumentu finansowego;
+- **6)** stosuje odpowiednio przepisy § 34 ust. 9–13, z uwzględnieniem charakteru danego instrumentu finansowego oraz rodzaju świadczonych usług maklerskich;
+- **7)** w przypadku, o którym mowa w § 40 ust. 2, z uwzględnieniem zasady proporcjonalności, zakresu dostępnych publicznie informacji oraz stopnia złożoności instrumentu finansowego:
+    - **a)** podejmuje działania mające na celu zapewnienie, że informacje uzyskane od emitenta lub wystawcy instrumentu finansowego są rzetelne i zapewniają, że instrumenty finansowe będą oferowane, rekomendowane albo w inny sposób udostępnione do nabycia lub objęcia zgodnie z cechami, celami i potrzebami grupy docelowej,
+    - **b)** w przypadku gdy właściwe informacje na potrzeby określenia grupy docelowej nie są dostępne publicznie, działania, o których mowa w lit. a, mogą obejmować w szczególności zawarcie przez firmę inwestycyjną umowy z emitentem lub wystawcą instrumentu finansowego albo z ich przedstawicielem w celu uzyskania właściwych informacji umożliwiających dokonanie oceny grupy docelowej,
+    - **c)** uwzględnia informacje dostępne publicznie pod warunkiem, że są one wyraźne, wiarygodne i zostały przygotowane w celu spełnienia wymogów przewidzianych w przepisach prawa.
+
+7. Firma inwestycyjna, przy ocenie klienta dokonywanej w celu określenia grupy docelowej na podstawie kryteriów, o których mowa w ust. 6 pkt 1, może zastosować założenia w odniesieniu do wiedzy i doświadczenia klientów końcowych.
+
+8. Firma inwestycyjna może założyć, że klienci profesjonalni posiadają wiedzę i doświadczenie niezbędne do zrozumienia ryzyka powiązanego z poszczególnymi instrumentami finansowymi lub związanymi z nimi usługami, w odniesieniu do których zaklasyfikowano ich do kategorii klientów profesjonalnych. W takim przypadku firma inwestycyjna bierze pod uwagę różnice w zakładanym poziomie wiedzy i doświadczenia między klientami detalicznymi i klientami profesjonalnymi, a także między klientami profesjonalnymi, o których mowa w art. 3a ust. 1 ustawy, i pozostałymi klientami profesjonalnymi.
+
+9. Firma inwestycyjna przy określaniu grupy docelowej oraz strategii dystrybucji uwzględnia istotne informacje przekazane jej przez emitenta lub wystawcę instrumentu finansowego, w przypadku gdy:
+
+- **1)** firma inwestycyjna nie może, ze względu na rodzaj świadczonej usługi, w szczególności usługi wykonania zlecenia nabycia lub zbycia instrumentów finansowych, przeprowadzić dokładnej oceny grupy docelowej dla instrumentów finansowych, w tym dla instrumentów finansowych charakteryzujących się wysokim poziomem złożoności, podwyższonym ryzykiem, brakiem płynności albo zmniejszoną płynnością albo innymi cechami istotnymi dla grupy docelowej, lub
+- **2)** jest możliwe wystąpienie istotnego konfliktu interesów, w szczególności w odniesieniu do instrumentów finansowych emitowanych albo wystawianych przez tę samą firmę lub przez inne podmioty należące do tej samej grupy kapitałowej, do której należy firma inwestycyjna, albo w przypadku gdy firma inwestycyjna otrzymuje świadczenia pieniężne lub świadczenia niepieniężne od podmiotów trzecich.
+
+10. W przypadku, o którym mowa w ust. 8, firma inwestycyjna przeprowadza analizę zasadności wyłączenia danego instrumentu finansowego z zakresu instrumentów finansowych przez nią oferowanych lub rekomendowanych albo w inny sposób udostępnionych do nabycia lub objęcia, także w przypadku, gdy firma inwestycyjna byłaby w stanie ocenić zgodność tego instrumentu ze swoją bazą klientów pod kątem posiadanych przez nich wiedzy i doświadczenia.
+
+11. W przypadku gdy informacje dostępne firmie inwestycyjnej nie pozwalają na przeprowadzenie pełnej oceny grupy docelowej, firma inwestycyjna może oferować lub rekomendować albo w inny sposób udostępniać instrument finansowy do nabycia lub objęcia bez świadczenia usługi, o której mowa w art. 69 ust. 2 pkt 5 ustawy, po uprzednim poinformowaniu klienta o braku możliwości dokonania pełnej oceny zgodności potrzeb, cech lub celów klienta z tym instrumentem.
+
+12. W przypadku gdy klient profesjonalny albo uprawniony kontrahent nabywa lub obejmuje od firmy inwestycyjnej instrument finansowy z zamiarem jego dalszej sprzedaży innym klientom, nie uznaje się takiego klienta albo uprawnionego kontrahenta za klienta końcowego.
+
+13. W przypadku, o którym mowa w ust. 12, klient profesjonalny albo uprawniony kontrahent działający z zamiarem dalszego oferowania, rekomendowania albo udostępniania w inny sposób danego instrumentu finansowego do nabycia lub objęcia przez innych klientów, stosują przepisy niniejszego oddziału.
+
+14. Firma inwestycyjna przy ustalaniu, które instrumenty finansowe będą przez nią udostępnione do nabycia lub objęcia z inicjatywy klientów, uwzględnia okoliczność, że w takich przypadkach poziom dostępnej firmie inwestycyjnej wiedzy o klientach, w szczególności w zakresie, o którym mowa w § 34 ust. 4 pkt 2–5, może być znacznie ograniczony.
+
+**§ 42.** W przypadku gdy firma inwestycyjna oraz wystawca lub emitent określają dla tego samego instrumentu finansowego w tym samym czasie grupę docelową, w szczególności wykonują obowiązki, o których mowa odpowiednio w § 37 i § 47, podmioty te ponoszą odpowiedzialność za prawidłowe wykonywanie obowiązków w odniesieniu do grupy docelowej tego instrumentu finansowego określonych w przepisach art. 83b ust. 7–17 ustawy oraz oddziału 4 i niniejszego oddziału. W szczególności emitent lub wystawca instrumentu finansowego zapewnia, aby instrument finansowy był oferowany lub rekomendowany określonej przez niego grupie docelowej, a firma inwestycyjna zapewnia, aby instrumenty finansowe, które oferuje lub rekomenduje albo w inny sposób umożliwia ich nabycie lub objęcie, były oferowane lub rekomendowane albo nabywane lub obejmowane wyłącznie w przypadku, gdy są zgodne z grupą docelową klienta.
+
+**§ 43.**
+
+1. Firma inwestycyjna wdraża odpowiednie rozwiązania w celu zapewnienia zgodności instrumentów finansowych, jakie zamierza oferować lub rekomendować albo w inny sposób umożliwiać ich nabycie lub objęcie, oraz usług, jakie zamierza świadczyć, z potrzebami, cechami i celami określonej grupy docelowej, a w przypadku gdy instrument finansowy uwzględnia czynniki zrównoważonego rozwoju – również z celami związanymi ze zrównoważonym rozwojem, a także zgodności zamierzonej strategii dystrybucji z określoną grupą docelową.
+
+2. Firma inwestycyjna przeprowadza okresowe przeglądy i aktualizacje rozwiązań, o których mowa w ust. 1, w celu zapewnienia ich ciągłej solidności i zgodności z ich celem, a w razie potrzeby podejmuje odpowiednie działania.
+
+3. W ramach przeglądów, o których mowa w ust. 2, firma inwestycyjna ocenia co najmniej, czy produkty lub usługi pozostają zgodne z potrzebami, cechami i celami określonej grupy docelowej, a w przypadku gdy instrument finansowy uwzględnia czynniki zrównoważonego rozwoju – również z celami związanymi ze zrównoważonym rozwojem, a także czy zamierzona strategia dystrybucji jest odpowiednia. Dokonując przeglądów firma inwestycyjna uwzględnia skargi klientów.
+
+4. Firma inwestycyjna określa i ocenia sytuację i potrzeby klientów, dla których zamierza świadczyć usługi, tak aby zapewnić, że interesy klientów nie zostaną naruszone w wyniku nacisków handlowych lub finansowych. W tym celu firma określa wszystkie grupy klientów, z których potrzebami, cechami i celami instrument finansowy lub usługa nie są zgodne, ustalając w ten sposób negatywną grupę docelową.
+
+5. Firma inwestycyjna przy określaniu negatywnej grupy docelowej nie uwzględnia kryteriów obejmujących czynniki zrównoważonego rozwoju.
+
+6. W przypadku instrumentu finansowego uwzględniającego czynniki zrównoważonego rozwoju firma inwestycyjna uznaje, że odpowiada on celom i potrzebom inwestycyjnym również tych klientów docelowych, których cele i potrzeby inwestycyjne nie są związane ze zrównoważonym rozwojem, pod warunkiem że ich pozostałe cele i potrzeby inwestycyjne są spełnione przez ten instrument.
+
+7. W procesie ustalania negatywnej grupy docelowej firma inwestycyjna stosuje odpowiednio przepisy § 34 ust. 6 i 7 oraz § 41 ust. 6 pkt 1–5 oraz ust. 9 i 10.
+
+8. W przypadku gdy ze względu na szczególne cechy określonej przez firmę inwestycyjną grupy docelowej cechy klientów należących do tej grupy posiadają równocześnie cechy przeciwstawne, firma inwestycyjna może ustalić negatywną grupę docelową przez stwierdzenie, że dany instrument finansowy lub dana usługa nie odpowiadają żadnemu klientowi poza grupą docelową.
+
+9. Firma inwestycyjna podejmuje niezbędne działania zapewniające otrzymywanie odpowiednich i wiarygodnych informacji o instrumencie finansowym, emitencie lub wystawcy tego instrumentu finansowego od emitenta lub wystawcy tego instrumentu finansowego, w tym od emitenta lub wystawcy, którzy nie podlegają przepisom ustawy, tak aby zapewnić zgodność strategii dystrybucji instrumentu finansowego z potrzebami, cechami i celami grupy docelowej, jeżeli informacje te nie są publicznie dostępne.
+
+10. Przez publicznie dostępne informacje rozumie się informacje, które są jasne, wiarygodne i przedstawione w celu spełnienia przez emitenta lub wystawcę instrumentu finansowego obowiązków wynikających z przepisów prawa.
+
+11. Firma inwestycyjna wykonuje obowiązek, o którym mowa w ust. 9, w sposób proporcjonalny, w zależności od stopnia, w jakim można uzyskać publicznie dostępne informacje na rynku pierwotnym lub rynku wtórnym, oraz złożoności instrumentu finansowego.
+
+12. Firma inwestycyjna uwzględnia informacje otrzymane od emitentów lub wystawców instrumentów finansowych oraz informacje dotyczące ich własnych klientów przy określeniu grupy docelowej i strategii dystrybucji, z zastrzeżeniem art. 83b ust. 17 ustawy.
+
+13. Firma inwestycyjna nie oferuje, nie rekomenduje ani w inny sposób nie umożliwia nabycia lub objęcia instrumentu finansowego, jeżeli na podstawie informacji i danych, którymi dysponuje, zebranych w ramach świadczenia przez tę firmę usług maklerskich lub innej działalności lub uzyskanych z innych źródeł, w tym informacji uzyskanych od podmiotów, które wyemitowały lub wystawiły instrumenty finansowe, które firma inwestycyjna oferuje lub rekomenduje albo w inny sposób umożliwia ich nabycie lub objęcie, oceni, że dany instrument finansowy nie odpowiada potrzebom i cechom jej istniejących lub przyszłych klientów.
+
+14. Przepisu ust. 13 nie stosuje się do instrumentów finansowych, których nabycie lub objęcie następuje wyłącznie z inicjatywy klienta.
+
+**§ 44.**
+
+1. Firma inwestycyjna uwzględnia i szczegółowo analizuje strategię dystrybucji określoną dla danego instrumentu finansowego przez emitenta lub wystawcę tego instrumentu, a w przypadku gdy emitent albo wystawca danego instrumentu finansowego nie podlega przepisom ustawy albo nie określił strategii dystrybucji – określa taką strategię z uwzględnieniem informacji dotyczących bazy jej własnych klientów oraz rodzaju świadczonych przez nią usług maklerskich.
+
+2. W przypadku gdy emitent lub wystawca instrumentu finansowego:
+
+- **1)** uzna, że właściwości instrumentu finansowego są zgodne ze strategią dystrybucji zakładającą brak świadczenia usługi, o której mowa w art. 69 ust. 2 pkt 5 ustawy, w odniesieniu do tego instrumentu finansowego – firma inwestycyjna może uznać, że klient posiada cechy wskazujące, że świadczenie tej usługi będzie służyć działaniu w najlepiej pojętym interesie klienta, w szczególności w przypadku, gdy klient ten posiada ograniczony poziom wiedzy lub nie posiada doświadczenia związanego z inwestowaniem w dany rodzaj instrumentu finansowego;
+- **2)** założy, że dla danego instrumentu finansowego należy świadczyć usługę, o której mowa w art. 69 ust. 2 pkt 5 ustawy – firma inwestycyjna może podjąć decyzję o udostępnieniu instrumentu finansowego do nabycia lub objęcia bez świadczenia tej usługi, w szczególności przez usługę wykonania zlecenia nabycia lub zbycia instrumentów finansowych, pod warunkiem że przeprowadzi dokładną analizę cech instrumentu finansowego i grupy docelowej.
+
+3. W przypadku podjęcia przez firmę inwestycyjną decyzji, o której mowa w ust. 2, firma inwestycyjna informuje o tej decyzji emitenta lub wystawcę instrumentu finansowego.
+
+**§ 45.**
+
+1. Firma inwestycyjna, świadcząc usługi, o których mowa w art. 69 ust. 2 pkt 4 lub 5 ustawy, może uwzględniać lub wykorzystywać instrumenty finansowe nienależące do grupy docelowej klienta do dywersyfikacji ryzyka i zabezpieczania pozycji wynikających z instrumentów finansowych pod warunkiem, że rekomendowany albo zarządzany portfel instrumentów finansowych jako całość lub jako połączenie instrumentu finansowego z jego zabezpieczeniem są odpowiednie dla tego klienta.
+
+2. Firma inwestycyjna oferuje lub rekomenduje albo w inny sposób umożliwia nabywanie lub obejmowanie instrumentu finansowego w ramach negatywnej grupy docelowej wyłącznie w wyjątkowych przypadkach, także gdy służy to dywersyfikacji ryzyka klienta.
+
+**§ 46.**
+
+1. W przypadku gdy instrument finansowy, w odniesieniu do którego:
+
+- **1)** przekazano klientowi informacje,
+- **2)** przeprowadzono ocenę odpowiedniości,
+- **3)** określono konflikty interesu i sposób zarządzania nimi – jest przez firmę inwestycyjną oferowany lub rekomendowany albo w inny sposób udostępniony do nabycia albo objęcia przez klienta nienależącego do grupy docelowej, firma inwestycyjna w sprawozdaniu na temat odpowiedniości tego instrumentu finansowego uzasadnia takie przypadki przez wskazanie szczególnych okoliczności faktycznych oraz ich udokumentowanie.
+
+2. W przypadku gdy instrument finansowy jest przez firmę inwestycyjną oferowany lub rekomendowany albo w inny sposób udostępniony do nabycia bądź objęcia przez klienta należącego do negatywnej grupy docelowej, uzasadnienie, o którym mowa w ust. 1, powinno być odpowiednio istotne oraz bardziej szczegółowo umotywowane niż w przypadkach, o których mowa w § 43 ust. 1.
+
+**§ 47.**
+
+1. Firma inwestycyjna, przy podejmowaniu decyzji o zakresie instrumentów finansowych wyemitowanych lub wystawionych przez tę firmę lub przez inną firmę inwestycyjną, jakie zamierza oferować lub rekomendować albo w inny sposób umożliwiać ich nabycie lub objęcie, o rodzaju usług, jakie zamierza świadczyć, oraz o odpowiednich grupach docelowych, jest obowiązana przestrzegać procedur i rozwiązań służących zapewnieniu zgodności z przepisami ustawy, niniejszego rozporządzenia oraz rozporządzenia 2017/565, w szczególności dotyczącymi ujawniania informacji, oceny odpowiedniości lub adekwatności, przyjmowania lub przekazywania świadczeń pieniężnych lub świadczeń niepieniężnych do osób trzecich lub na rzecz osób trzecich oraz zarządzania konfliktami interesów.
+
+2. Obowiązek określenia przez firmę inwestycyjną grupy docelowej oraz oferowania lub rekomendowania albo w inny sposób umożliwiania nabycia lub objęcia instrumentu finansowego zgodnie z grupą docelową nie może być zastąpiony przez przeprowadzenie oceny odpowiedniości usługi maklerskiej lub instrumentu finansowego będącego jej przedmiotem oraz powinien być zrealizowany przez firmę inwestycyjną wraz z oceną odpowiedniości tej usługi lub instrumentu finansowego.
+
+3. Firma inwestycyjna zachowuje szczególną staranność w przypadku, gdy zamierza oferować lub rekomendować albo umożliwiać w inny sposób nabycie lub objęcie nowych instrumentów finansowych, a także w przypadku, gdy dokonuje zmian w świadczonych przez siebie usługach.
+
+4. Firma inwestycyjna przeprowadza regularne przeglądy instrumentów finansowych, które rekomenduje lub oferuje albo w inny sposób umożliwia ich nabycie lub objęcie oraz świadczonych przez nią usług, z uwzględnieniem wszystkich zdarzeń, które mogłyby w znaczący sposób wpłynąć na potencjalne ryzyko dla określonej grupy docelowej.
+
+5. Firma inwestycyjna określa ponownie grupę docelową lub aktualizuje rozwiązania, o których mowa w § 43 ust. 1, jeżeli stwierdzi, że:
+
+- **1)** błędnie określiła grupę docelową w odniesieniu do danego instrumentu finansowego lub danej usługi;
+- **2)** instrument finansowy lub usługa nie są zgodne z potrzebami, cechami i celami określonej grupy docelowej.
+
+6. W przypadku, o którym mowa w ust. 5, firma inwestycyjna, jeżeli jest to niezbędne, ponownie określa strategię dystrybucji.
+
+**§ 48.** Firma inwestycyjna zatrudnia osoby posiadające fachową wiedzę niezbędną do zrozumienia właściwości instrumentów finansowych, które rekomenduje lub oferuje albo w inny sposób umożliwia ich objęcie lub nabycie, oraz czynników ryzyka związanych z tymi instrumentami finansowymi lub świadczonymi usługami, a także do zrozumienia potrzeb, cech i celów określonej grupy docelowej.
+
+**§ 49.**
+
+1. Zarząd firmy inwestycyjnej sprawuje kontrolę nad prawidłowym wypełnianiem przez firmę inwestycyjną obowiązków określonych w art. 83b ust. 9, 13, 14, 16 i 17 ustawy oraz w niniejszym oddziale, a także zapewnia, aby przekazywane mu systematycznie sprawozdania dotyczące przestrzegania tych przepisów zawierały informacje związane z oferowanymi lub rekomendowanymi przez firmę inwestycyjną produktami oraz świadczonymi usługami.
+
+2. Firma inwestycyjna udostępnia sprawozdania, o których mowa w ust. 1, Komisji Nadzoru Finansowego, na jej żądanie.
+
+3. Funkcja zgodności z przepisami, o której mowa w art. 22 ust. 2 rozporządzenia 2017/565, monitoruje zmiany i okresowe przeglądy rozwiązań, o których mowa w § 47 ust. 1, w celu wykrycia ryzyka niewywiązania się przez firmę inwestycyjną z obowiązków określonych w niniejszym oddziale.
+
+**§ 50.**
+
+1. Firma inwestycyjna przekazuje emitentom lub wystawcom instrumentów finansowych informacje dotyczące sprzedaży oraz informacje dotyczące wyników przeglądów, o których mowa w § 47 ust. 4, w celu umożliwienia ich wykorzystania w trakcie przeglądów instrumentów finansowych dokonywanych przez emitentów lub wystawców instrumentów finansowych.
+
+2. W przypadku, o którym mowa w ust. 1, firma inwestycyjna udostępnia:
+
+- **1)** informacje i dane, które mogą wskazywać, że grupa docelowa została błędnie określona w odniesieniu do danego instrumentu finansowego lub danej usługi maklerskiej lub instrument finansowy lub usługa maklerska nie odpowiadają okolicznościom związanym z określoną grupą docelową, w szczególności gdy z powodu zmian warunków rynkowych instrument finansowy straci płynność lub będzie się charakteryzował dużą zmiennością cen;
+- **2)** informacje o przypadkach rozszerzenia strategii dystrybucji określonej przez emitenta lub wystawcę oraz oferowania lub rekomendowania albo umożliwiania w inny sposób nabywania przez nią instrumentu finansowego poza grupą docelową określoną przez emitenta lub wystawcę, w tym informacje o oferowaniu, rekomendowaniu lub o nabywaniu lub obejmowaniu instrumentów finansowych przez klientów należących do negatywnej grupy docelowej, z zastrzeżeniem § 45 ust. 2.
+
+3. Informacje i dane, o których mowa w ust. 2, są przekazywane na zasadzie proporcjonalności i mogą być zagregowane, bez podziału na poszczególne instrumenty lub transakcje, z wyjątkiem przypadków o istotnym znaczeniu dla określenia grupy docelowej lub strategii dystrybucji danego instrumentu finansowego, w szczególności w przypadku, gdy w ocenie firmy inwestycyjnej grupa docelowa tego instrumentu została błędnie określona.
+
+**§ 51.** W przypadku gdy firma inwestycyjna, która rekomenduje, oferuje albo w inny sposób umożliwia nabycie bądź objęcie instrumentu finansowego, wykonuje te czynności we współpracy bezpośredniej lub pośredniej z innymi firmami inwestycyjnymi, za wypełnienie obowiązków, o których mowa w niniejszym oddziale, odpowiada firma inwestycyjna posiadająca bezpośrednią relację z klientem. Pozostałe współpracujące firmy inwestycyjne:
+
+- **1)** przekazują innym współpracującym firmom inwestycyjnym informacje o instrumencie finansowym, które uzyskały od emitenta lub wystawcy tego instrumentu finansowego;
+- **2)** przekazują emitentowi lub wystawcy instrumentu finansowego informacje dotyczące sprzedaży instrumentu finansowego;
+- **3)** stosują rozwiązania, o których mowa w art. 83b ust. 8 i 12 ustawy, oraz w oddziale 4 niniejszego rozdziału – w przypadku gdy jest to niezbędne dla zapewnienia, że instrument finansowy lub usługa będą odpowiednie dla grupy docelowej.
+
+**§ 52.** Przepisów niniejszego oddziału nie stosuje się do świadczenia usług maklerskich, o których mowa w art. 69 ust. 2 pkt 1, 2 lub 3 ustawy, na rzecz klientów końcowych będących uprawnionymi kontrahentami.
+
 ##### Oddział 6 Stosowanie przepisów niniejszego rozdziału do banków prowadzących działalność maklerską, banków państwowych prowadzących działalność maklerską, banków, o których mowa w art. 70 ust. 2 ustawy, oraz banków powierniczych
+
+**§ 53.**
+
+1. Przepisy niniejszego rozdziału stosuje się do banków, o których mowa w art. 70 ust. 2 ustawy.
+
+2. Przepisy:
+
+- **1)** § 3–6 i § 22–25 stosuje się odpowiednio do banków powierniczych;
+- **2)** § 7–9, § 12–20, § 26–30, § 40, § 41 ust. 1–12 i 14, § 42–44, § 45 ust. 2 oraz § 46–51 stosuje się odpowiednio do banku powierniczego w zakresie działalności polegającej na wykonywaniu czynności pośrednictwa w pożyczkach papierów wartościowych.
+
+3. Przepisu § 24 ust. 2 pkt 2 nie stosuje się do banków prowadzących działalność maklerską, banków państwowych prowadzących działalność maklerską oraz banków, o których mowa w art. 70 ust. 2 ustawy, w zakresie środków pieniężnych klientów, które przechowują.
 
 #### Rozdział 3 Zawieranie transakcji i dokonywanie rozliczeń
 
 ##### Oddział 1 Przyjmowanie i przekazywanie zleceń oraz zasady wykonywania zleceń
 
+**§ 54.**
+
+1. Firma inwestycyjna przyjmuje zlecenia zawierające co najmniej:
+
+- **1)** dane ustalone z klientem, umożliwiające jednoznaczną identyfikację klienta;
+- **2)** datę i czas wystawienia;
+- **3)** rodzaj i liczbę instrumentów finansowych będących przedmiotem zlecenia;
+- **4)** przedmiot zlecenia;
+- **5)** określenie ceny;
+- **6)** oznaczenie terminu ważności zlecenia;
+- **7)** podpis klienta lub jego pełnomocnika – w przypadku zleceń w formie pisemnej.
+
+2. Przepisu ust. 1 nie stosuje się, jeżeli uniemożliwiają to przepisy lub zasady regulujące obrót instrumentami finansowymi, których dotyczy zlecenie lub dyspozycja i charakter usługi, w ramach której są przyjmowane zlecenia lub dyspozycje.
+
+3. W przypadku gdy w jednym dokumencie zamieszczono więcej niż jedno zlecenie, dokument ten zawiera wyraźne określenie liczby zleceń. W takim przypadku jest wystarczające złożenie jednego podpisu klienta lub jego pełnomocnika.
+
+4. Firma inwestycyjna potwierdza klientowi przyjęcie zlecenia, z wyjątkiem zleceń składanych za pośrednictwem telefonu.
+
+5. W przypadku, o którym mowa w § 24 ust. 8:
+
+- **1)** pkt 1, zlecenie zawiera również dane umożliwiające jednoznaczną identyfikację podmiotu, o którym mowa w art. 121 ust. 2 pkt 2 ustawy;
+- **2)** pkt 2, zlecenie zawiera również oznaczenie klienta lub klientów, którzy zawarli z podmiotem prowadzącym rachunek papierów wartościowych umowę, o której mowa w art. 121 ust. 1 ustawy, oraz na których rachunek zostało złożone zlecenie, pozwalające na jednoznaczną identyfikację tego klienta lub tych klientów, jeżeli umowa zawarta przez firmę inwestycyjną z podmiotem, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, nie przewiduje obowiązku wskazywania przez ten podmiot firmie inwestycyjnej, do końca dnia, w którym wykonane zostało zlecenie, osób, na rzecz których zostało złożone zlecenie, ze wskazaniem liczby nabywanych lub zbywanych instrumentów finansowych dla poszczególnych osób. W przypadku zleceń wykonywanych częściowo przekazywanie informacji następuje każdego dnia, w którym było wykonywane zlecenie, w zakresie, w jakim dotyczą one części zlecenia wykonywanej w tym dniu.
+
+6. W przypadku zlecenia umożliwiającego wystawienie na jego podstawie więcej niż jednego zlecenia brokerskiego lub innego zlecenia lub oferty przekazywanych na odpowiedni rynek zamiast liczby instrumentów finansowych zlecenie może zawierać maksymalną łączną wartość transakcji będących wynikiem wykonania zlecenia.
+
+7. Zlecenie może zawierać dodatkowe warunki jego wykonania, jeżeli nie są one sprzeczne z odrębnymi przepisami i regulaminami przeprowadzania transakcji na rynku, na który jest przekazywane, w szczególności zlecenie umożliwiające wystawianie na jego podstawie więcej niż jednego zlecenia brokerskiego lub innego zlecenia lub oferty przekazywanych na odpowiedni rynek.
+
+8. Zlecenie zawiera oznaczenia pozwalające na jego odróżnienie od innych zleceń, jeżeli:
+
+- **1)** jego przedmiotem jest kupno instrumentów finansowych za środki pieniężne pożyczone od firmy inwestycyjnej;
+- **2)** zawiera klauzulę umożliwiającą wystawianie na jego podstawie więcej niż jednego zlecenia brokerskiego lub innego zlecenia lub oferty przekazywanych na odpowiedni rynek.
+
+9. W przypadku gdy zlecenie jest składane przez pełnomocnika klienta, zawiera ono również dane umożliwiające jednoznaczną identyfikację osoby składającej zlecenie.
+
+**§ 55.**
+
+1. Firma inwestycyjna, wykonując zlecenie klienta, o którym mowa w art. 73 ust. 7 ustawy, przestrzega zasad wykonywania tego rodzaju zleceń określonych w regulaminach i innych regulacjach podmiotów prowadzących rynek regulowany, ASO lub OTF oraz dokonujących rozrachunku lub rozliczenia transakcji, w szczególności podejmuje działania w celu zapewnienia terminowego dostarczenia papierów wartościowych do dokonania rozrachunku z zasadami określonymi przez podmiot dokonujący rozrachunku transakcji.
+
+2. Firma inwestycyjna, która zgodnie z procedurami wewnętrznymi zweryfikowała zlecenie klienta jako niedopuszczalne do przyjęcia do wykonania, w przypadkach, o których mowa w art. 73 ust. 7 i 8 ustawy, niezwłocznie informuje klienta o odmowie przyjęcia jego zlecenia do wykonania.
+
+**§ 56.**
+
+1. Zarządzający może wystawiać jedno zlecenie na rzecz swoich klientów, pod warunkiem że do końca dnia, w którym zostało wykonane zlecenie nabycia lub zbycia instrumentów finansowych, określi liczbę instrumentów finansowych kupowanych lub sprzedawanych dla poszczególnych klientów.
+
+2. Przez zarządzającego, o którym mowa w ust. 1, rozumie się:
+
+- **1)** firmę inwestycyjną świadczącą usługi zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych;
+- **2)** towarzystwo funduszy inwestycyjnych w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych;
+- **3)** towarzystwo funduszy inwestycyjnych zarządzające zbiorczymi portfelami papierów wartościowych;
+- **4)** zagraniczną firmę inwestycyjną oraz podmiot, o którym mowa w art. 115 ust. 1 ustawy, świadczące poza terytorium Rzeczypospolitej Polskiej usługi zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych.
+
+**§ 57.**
+
+1. Firma inwestycyjna świadcząca usługi przyjmowania i przekazywania zleceń może, po uzyskaniu zgody klienta, na zasadach określonych w umowie, doprowadzić do zawarcia transakcji między inwestorami poza obrotem zorganizowanym. W takim przypadku zlecenie może nie zawierać wskazania ceny lub liczby instrumentów finansowych będących przedmiotem zlecenia.
+
+2. Zgoda, o której mowa w ust. 1, może być udzielona w formie ogólnej albo w odniesieniu do poszczególnych transakcji.
+
+**§ 58.**
+
+1. Przepisy niniejszego oddziału stosuje się do banków, o których mowa w art. 70 ust. 2 ustawy.
+
+2. Przepisy § 54 stosuje się odpowiednio do banków powierniczych w zakresie wykonywania czynności pośrednictwa w pożyczkach papierów wartościowych.
+
 ##### Oddział 2 Szczególne zasady wykonywania zleceń
+
+**§ 59.** Upoważniony pracownik firmy inwestycyjnej potwierdza przyjęcie przez firmę inwestycyjną zlecenia do wykonania w sposób uzgodniony z klientem w umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych. W przypadku zleceń składanych w formie pisemnej potwierdzenie następuje przez złożenie przez upoważnionego pracownika podpisu na dokumencie zawierającym zlecenie lub zlecenia.
+
+**§ 60.** Na podstawie zlecenia firma inwestycyjna wystawia zlecenie lub zlecenia brokerskie, które są przekazywane do miejsca wykonania, z wyłączeniem zleceń wykonywanych na zasadach określonych w art. 73 ust. 2 ustawy.
+
+**§ 61.** Firma inwestycyjna może przyjmować do wykonania zlecenia przekazywane za pomocą telefonu, telefaksu, modemu lub innych urządzeń technicznych lub elektronicznych nośników informacji, jeżeli przewiduje to umowa o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych.
+
+**§ 62.**
+
+1. Na zasadach określonych w zawartej z klientem umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych oraz w regulaminie świadczenia usług wykonywania zleceń nabycia lub zbycia instrumentów finansowych firma inwestycyjna wystawia zlecenia brokerskie kupna instrumentów finansowych na podstawie zlecenia, pod warunkiem że w chwili wystawienia przez firmę inwestycyjną zlecenia brokerskiego klient posiada pełne pokrycie wartości zlecenia oraz kosztów jego wykonania w wysokości uzgodnionej w umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych.
+
+2. Firma inwestycyjna może odstąpić od wymogu posiadania przez klienta pełnego pokrycia wartości zlecenia oraz kosztów jego wykonania oraz wymogu ustanowienia przez klienta zabezpieczeń dokonania przez niego zapłaty, w przypadku gdy w opinii firmy inwestycyjnej pozwala na to ocena stanu finansowego i wiarygodności klienta, dokonana zgodnie z § 68 ust. 1.
+
+3. Firma inwestycyjna określa w umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych limit maksymalnej wysokości należności firmy inwestycyjnej od klienta z tytułu transakcji zawartych w wyniku wykonania zleceń przy braku pełnego pokrycia wartości tych zleceń oraz kosztów jego wykonania.
+
+4. Wartość zlecenia, którego przedmiotem jest nabycie instrumentów finansowych, ustala się jako maksymalną kwotę zobowiązania, które może powstać z tytułu pełnej zapłaty za nabywane instrumenty finansowe przy całkowitym wykonaniu zlecenia.
+
+5. Przepis ust. 1 nie wyłącza możliwości udzielenia klientowi pożyczki na zakup instrumentów finansowych zgodnie z odrębnymi przepisami.
+
+**§ 63.**
+
+1. W przypadku gdy w chwili wystawienia zlecenia brokerskiego rejestr sesji nie został otwarty, podstawą do sprawdzenia pokrycia, o którym mowa w § 62 ust. 1, jest suma niezablokowanych środków pieniężnych klienta zdeponowanych na jego rachunku pieniężnym.
+
+2. Suma niezablokowanych środków pieniężnych, o której mowa w ust. 1, jest zwiększana o sumę środków pieniężnych stanowiących należności klienta z tytułu zawartych transakcji, jeżeli rozrachunek tych transakcji we właściwej izbie rozrachunkowej powinien nastąpić najpóźniej w dniu rozrachunku transakcji kupna instrumentów finansowych, pod warunkiem że transakcja sprzedaży instrumentów finansowych spełnia wymogi określone w art. 7 ust. 5 ustawy.
+
+3. W przypadku gdy zlecenie brokerskie kupna instrumentów finansowych jest wystawiane po otwarciu przez firmę inwestycyjną rejestru sesji, podstawą do sprawdzenia pokrycia, o którym mowa w § 62 ust. 1, jest stan niezablokowanych środków pieniężnych w rejestrze sesji.
+
+4. Przy sprawdzaniu pokrycia wartości zlecenia, którego przedmiotem jest nabycie instrumentów finansowych, wystawianego w przypadku określonym w ust. 3, środki pieniężne stanowiące należności klienta z tytułu zawartych transakcji sprzedaży instrumentów finansowych uwzględnia się wyłącznie w przypadku, gdy rozrachunek tych transakcji we właściwej izbie rozrachunkowej powinien nastąpić najpóźniej w dniu rozrachunku danej transakcji kupna instrumentów finansowych, oraz pod warunkiem, że transakcja sprzedaży instrumentów finansowych spełnia wymogi określone w art. 7 ust. 5 ustawy.
+
+**§ 64.**
+
+1. W przypadku zlecenia, o którym mowa w § 56 ust. 1, firma inwestycyjna może odstąpić od sprawdzania pokrycia zlecenia w rejestrach sesji lub na rachunkach pieniężnych poszczególnych klientów, na rzecz których zostało złożone zlecenie.
+
+2. W przypadku gdy zarządzającym, o którym mowa w § 56 ust. 1, jest podmiot inny niż firma inwestycyjna wykonująca zlecenie, przepis ust. 1 stosuje się pod warunkiem zawarcia przez firmę inwestycyjną z zarządzającym umowy o gwarantowanie rozrachunku.
+
+3. Umowa, o której mowa w ust. 2, określa co najmniej tryb i warunki dostarczania instrumentów finansowych przez zarządzającego – w przypadku gdy przedmiotem zlecenia jest zbycie instrumentów finansowych – oraz gwarantowania zapłaty przez zarządzającego – w przypadku gdy przedmiotem zlecenia jest nabycie instrumentów finansowych, jeżeli instrumenty finansowe lub środki pieniężne klientów zarządzającego nie wystarczają do pełnego rozrachunku transakcji.
+
+**§ 65.**
+
+1. W przypadku zawarcia umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych na warunkach określonych w § 62 ust. 3, umowa określa obowiązek dokonania przez klienta zapłaty nie później niż w dniu rozrachunku transakcji we właściwej izbie rozrachunkowej, w wysokości zobowiązań klienta wobec firmy inwestycyjnej z tytułu zawartych transakcji kupna instrumentów finansowych, pomniejszonych o należności klienta z tytułu zawartych transakcji sprzedaży instrumentów finansowych rozliczanych we właściwej izbie rozrachunkowej w tym dniu.
+
+2. Termin dokonania zapłaty określa umowa o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych.
+
+3. Firma inwestycyjna ponosi odpowiedzialność za dostarczenie na dzień rozrachunku transakcji kupna zawartych na rachunek klienta środków pieniężnych w wysokości niezbędnej dla rozrachunku tych transakcji, na zasadach określonych przez tę izbę.
+
+**§ 66.** W przypadku zawarcia umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych na warunkach określonych w § 62 ust. 3, firma inwestycyjna może żądać ustanowienia zabezpieczenia zapłaty należności przez klienta. Ustanowione zabezpieczenie powinno gwarantować pewną i płynną jego realizację w wysokości zabezpieczającej interesy firmy inwestycyjnej w przypadku niewywiązania się klienta z przyjętych zobowiązań.
+
+**§ 67.**
+
+1. Firma inwestycyjna podejmuje działania mające na celu zapewnienie, że klient nie będzie wykorzystywał środków pieniężnych stanowiących pokrycie zlecenia kupna w wysokości niezbędnej dla dokonania rozrachunku transakcji zawieranych przez firmę inwestycyjną w związku z wykonaniem tego zlecenia.
+
+2. Przepisu ust. 1 nie stosuje się do firmy inwestycyjnej przyjmującej do wykonania zlecenie zawarcia transakcji, o której mowa w art. 7 ust. 5 pkt 2 ustawy, w zakresie środków pieniężnych należnych klientowi z tytułu sprzedaży papierów wartościowych, pod warunkiem że:
+
+- **1)** zostaną one przeznaczone na rozliczenie transakcji kupna tej samej liczby tych samych papierów wartościowych;
+- **2)** warunki obrotu obowiązujące na rynku regulowanym lub w ASO, w którym jest wykonywane zlecenie klienta, dopuszczają taką możliwość;
+- **3)** klient zawarł uprzednio z firmą inwestycyjną wykonującą zlecenie umowę zapewniającą dostawę środków pieniężnych potrzebnych do rozliczenia transakcji kupna.
+
+**§ 68.**
+
+1. Firma inwestycyjna uzależnia zawarcie umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych na warunkach określonych w § 62 ust. 2 od złożenia przez klienta, w formie pisemnej, oświadczenia o jego sytuacji finansowej, a także opracowuje system kryteriów, na podstawie których są określane limity, o których mowa w § 62 ust. 3, oraz na podstawie których jest podejmowana decyzja o zaproponowaniu klientowi określonego trybu dokonywania zapłaty z tytułu wykonania zleceń nabycia instrumentów finansowych.
+
+2. Przepisu ust. 1 nie stosuje się w przypadku, gdy umowa zawierana jest z klientem profesjonalnym, o ile klient profesjonalny nie jest traktowany jak klient detaliczny.
+
+**§ 69.**
+
+1. W przypadku gdy klient nie dokonał zapłaty w wysokości, o której mowa w § 65 ust. 1, w terminie i na zasadach określonych w umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych, a nie jest możliwe zaspokojenie roszczeń firmy inwestycyjnej na podstawie zabezpieczenia, o którym mowa w § 66, firma inwestycyjna może zaspokoić swoje roszczenia z dostępnych aktywów klienta znajdujących się na rachunkach lub, w ewidencji lub rejestrze operacyjnym klienta, prowadzonych przez firmę inwestycyjną, lub z aktywów przechowywanych przez firmę inwestycyjną na rzecz klienta.
+
+2. Instrumenty finansowe nieopłacone przez klienta są zapisywane na rachunku klienta.
+
+**§ 70.**
+
+1. Firma inwestycyjna wystawia zlecenie brokerskie sprzedaży na podstawie zlecenia, którego przedmiotem jest zbycie instrumentów finansowych, pod warunkiem że klient posiada pokrycie zlecenia w niezablokowanych instrumentach finansowych lub prawach do otrzymania instrumentów finansowych będących przedmiotem tego zlecenia, zapisane w rejestrze operacyjnym lub rejestrze sesji.
+
+2. Firma inwestycyjna podejmuje działania mające na celu zapewnienie, że klient, z chwilą wystawienia zlecenia brokerskiego, nie będzie wykorzystywał instrumentów finansowych stanowiących pokrycie zlecenia w wysokości niezbędnej dla dokonania rozrachunku transakcji zawieranych przez firmę inwestycyjną w związku z wykonaniem tego zlecenia.
+
+3. Przepisów ust. 1 i 2 nie stosuje się do zleceń:
+
+- **1)** których wykonanie polega na zawarciu transakcji, o której mowa w art. 7 ust. 5 pkt 2 ustawy;
+- **2)** zbycia papierów wartościowych nabytych w wyniku transakcji, o której mowa w art. 7 ust. 5 pkt 2 ustawy, w okresie od dnia jej zawarcia do dnia dokonania jej rozrachunku w zakresie zbycia papierów wartościowych, o ile:
+    - **a)** warunki obrotu obowiązujące na danym rynku regulowanym dopuszczają taką możliwość,
+    - **b)** klient zawarł z firmą inwestycyjną wykonującą zlecenie umowę zapewniającą dostawę papierów wartościowych potrzebnych do dokonania rozrachunku transakcji, o której mowa w art. 7 ust. 5 pkt 2 ustawy;
+
+- **3)** których wykonanie polega na zawarciu transakcji krótkiej sprzedaży.
+
+**§ 71.**
+
+1. W przypadku stwierdzenia braku pokrycia zlecenia firma inwestycyjna wykonuje zlecenie zbycia do wysokości pokrycia, o którym mowa w § 70 ust. 1, a zlecenie nabycia – do wysokości pokrycia, o którym mowa w § 62 ust. 1, i posiadanych zabezpieczeń albo odstępuje od wykonania zlecenia. Przyjęty sposób postępowania określa regulamin świadczenia usług wykonywania zleceń nabycia lub zbycia instrumentów finansowych.
+
+2. W przypadku składania kilku zleceń kolejność wykonywania zleceń określa klient.
+
+**§ 72.**
+
+1. W przypadku instrumentów finansowych innych niż derywaty firma inwestycyjna dokonuje zapisów na rachunku i rachunku pieniężnym klienta po dokonaniu rozrachunku transakcji przez właściwą izbę rozrachunkową, nie później niż do końca dnia, w którym nastąpił rozrachunek.
+
+2. Przepis ust. 1 stosuje się odpowiednio do dokonywania zapisów na rachunku klienta prowadzonym przez bank powierniczy.
+
+**§ 73.** Firma inwestycyjna, wykonując czynności polegające na nabywaniu lub zbywaniu instrumentów finansowych na własny rachunek, w celu realizacji zadań związanych z funkcją animatora rynku, składa oferty kupna lub sprzedaży instrumentów finansowych i wykonuje zawarte transakcje na warunkach określonych na danym rynku lub w danym systemie obrotu instrumentami finansowymi.
+
+**§ 74.** Przepisy § 59–71 stosuje się odpowiednio do banków powierniczych w zakresie wykonywania czynności pośrednictwa w pożyczkach papierów wartościowych.
 
 ##### Oddział 3 Transakcje derywatami
 
+**§ 75.** Do zleceń, których przedmiotem jest nabycie lub zbycie derywatów, stosuje się przepisy § 59–61 i § 73.
+
+**§ 76.**
+
+1. Firma inwestycyjna wystawia zlecenie brokerskie na podstawie zlecenia, którego przedmiotem jest zawarcie transakcji terminowej, pod warunkiem że w chwili wystawienia zlecenia brokerskiego klient ustanowił zabezpieczenie w wysokości określonej przez:
+
+- **1)** firmę inwestycyjną – w regulaminie wykonywania zleceń nabycia lub zbycia derywatów,
+- **2)** bank powierniczy – w regulaminie prowadzenia rachunków papierów wartościowych – zarejestrowane zgodnie z zasadami odrębnej rejestracji, o których mowa w przepisach wydanych na podstawie art. 94 ust. 1 pkt 5 ustawy.
+
+2. Wysokość zabezpieczenia, o którym mowa w ust. 1, zapewnia wykonanie zobowiązań klienta z tytułu transakcji terminowej, z uwzględnieniem obowiązków firmy inwestycyjnej lub banku powierniczego wynikających z uczestnictwa w systemie zabezpieczania płynności rozliczania transakcji organizowanym przez właściwą izbę rozliczeniową.
+
+3. Przed wystawieniem zlecenia brokerskiego firma inwestycyjna dokonuje blokady instrumentów finansowych lub środków pieniężnych stanowiących przedmiot zabezpieczenia, a w przypadku gdy klient, w celu zabezpieczenia roszczeń z tytułu rozliczenia transakcji zawartych na podstawie jego zlecenia, zobowiązał się przenieść na firmę inwestycyjną prawa z papierów wartościowych – firma inwestycyjna dokonuje ich przeniesienia na własny rachunek papierów wartościowych na podstawie dyspozycji złożonej przez klienta.
+
+4. Firma inwestycyjna, niezwłocznie po rozliczeniu sesji, na której została zawarta transakcja terminowa, żąda od klienta uzupełnienia zabezpieczenia do wysokości nie niższej niż określona przez właściwą izbę rozliczeniową lub:
+
+- **1)** wypłaca nadwyżkę zabezpieczenia wniesionego w środkach pieniężnych na rachunek pieniężny klienta;
+- **2)** znosi blokadę instrumentów finansowych lub środków pieniężnych albo przenosi na klienta prawa z papierów wartościowych, stanowiących nadwyżkę ponad wymaganą wysokość zabezpieczenia.
+
+5. Firma inwestycyjna może, ze środków własnych, na zasadach określonych w umowie z klientem, który zawarł transakcję terminową, ustanowić zabezpieczenie transakcji klienta wymagane przez właściwą izbę rozliczeniową lub uzupełnić to zabezpieczenie w części, w której wysokość zabezpieczenia wynika z zawarcia transakcji za pośrednictwem tej firmy inwestycyjnej.
+
+**§ 77.** Firma inwestycyjna wystawia zlecenie brokerskie na podstawie zlecenia, którego przedmiotem jest:
+
+- **1)** nabycie opcji, pod warunkiem że w chwili wystawienia zlecenia brokerskiego klient posiada pełne pokrycie wartości zlecenia i przewidywanej prowizji, ustalone zgodnie z § 63 i § 64;
+- **2)** wystawienie opcji, pod warunkiem że w chwili wystawienia zlecenia brokerskiego klient posiada zabezpieczenie, o którym mowa w § 76 ust. 1;
+- **3)** sprzedaż opcji, pod warunkiem że klient posiada tę opcję w chwili wystawienia zlecenia brokerskiego.
+
+**§ 78.** Firma inwestycyjna wykonuje zlecenia nabycia lub zbycia derywatów innych niż określone w § 76 i § 77 na warunkach określonych przez właściwą izbę rozliczeniową lub podmiot prowadzący system obrotu instrumentami finansowymi. Przepisy niniejszego oddziału stosuje się odpowiednio do wykonywania zleceń nabycia lub zbycia derywatów innych niż określone w § 76 i § 77.
+
+**§ 79.** Przepisy niniejszego oddziału stosuje się odpowiednio do wykonywania zleceń nabycia lub zbycia:
+
+- **1)** praw majątkowych oraz instrumentów rynku niepublicznego, którymi obrót jest związany z obowiązkiem ustanowienia zabezpieczenia;
+- **2)** zagranicznych instrumentów finansowych, którymi obrót związany jest z obowiązkiem ustanowienia zabezpieczenia, o ile co innego nie wynika z przepisów regulujących obrót na danym zagranicznym rynku regulowanym.
+
 ##### Oddział 4 Szczególne zasady postępowania w przypadku, gdy instrumenty finansowe klienta są rejestrowane w podmiocie innym niż podmiot wykonujący zlecenia
+
+**§ 80.**
+
+1. Firma inwestycyjna, która nie prowadzi rachunku klienta, z którym zawarła umowę o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych, zawiera z podmiotem prowadzącym rachunek klienta umowę o dostarczanie instrumentów finansowych.
+
+2. Umowa, o której mowa w ust. 1, określa w szczególności tryb i warunki dostarczania instrumentów finansowych w przypadku zleceń zbycia oraz obowiązek potwierdzania pokrycia takich zleceń przez podmiot prowadzący rachunek na żądanie firmy inwestycyjnej, a także tryb i warunki ich rozliczania w przypadku wykonania zlecenia.
+
+**§ 81.**
+
+1. Firma inwestycyjna, która nie prowadzi rachunku pieniężnego klienta, z którym zawarła umowę o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych, zawiera z podmiotem prowadzącym rachunek pieniężny lub rachunek bankowy tego klienta umowę o gwarantowaniu zapłaty.
+
+2. Umowa, o której mowa w ust. 1, określa w szczególności tryb i warunki gwarantowania zapłaty w przypadku zleceń nabycia instrumentów finansowych oraz ich potwierdzania przez podmiot prowadzący rachunek pieniężny lub rachunek bankowy klienta i rozliczania w przypadku wykonania zlecenia. Umowa może przewidywać możliwość żądania przez firmę inwestycyjną złożenia przez podmiot prowadzący rachunek pieniężny lub rachunek bankowy klienta zabezpieczenia na warunkach określonych w § 66.
+
+**§ 82.** W przypadku złożenia zlecenia sprzedaży instrumentów finansowych rejestrowanych na rachunku prowadzonym przez podmiot, o którym mowa w § 80 ust. 1, do obowiązków tego podmiotu przepis § 70 ust. 2 stosuje się odpowiednio.
+
+**§ 83.**
+
+1. Przepisów § 80–82 nie stosuje się do zleceń składanych przez lub na rachunek klienta, który zawarł z podmiotem prowadzącym rachunek umowę na warunkach, o których mowa w art. 121 ust. 1 ustawy.
+
+2. W przypadku zleceń, o których mowa w ust. 1, składanych na rachunek klienta przez podmiot, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, firma inwestycyjna zawiera z tym podmiotem umowę o dostarczanie przez ten podmiot instrumentów finansowych, która określa co najmniej tryb i warunki dostarczania instrumentów finansowych w przypadku zleceń zbycia, oraz umowę o gwarantowaniu przez ten podmiot zapłaty, która określa co najmniej tryb i warunki gwarantowania zapłaty w przypadku zleceń nabycia instrumentów finansowych.
+
+3. Umowy, o których mowa w ust. 2, zawierają ponadto:
+
+- **1)** określenie sposobu i terminów dostarczania podmiotowi, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, potwierdzeń zawarcia transakcji oraz trybu i warunków postępowania w przypadku, o którym mowa w art. 121 ust. 5 ustawy;
+- **2)** określenie sposobu ustalenia wysokości szkody poniesionej przez firmę inwestycyjną, w przypadku gdy dostarczenie instrumentów finansowych lub środków pieniężnych lub doręczenie potwierdzenia zawartej transakcji nastąpi później niż w dniu, w którym powinien nastąpić rozrachunek transakcji na rynku regulowanym działającym na terytorium Rzeczypospolitej Polskiej;
+- **3)** wskazanie, czy podmiot, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, zawarł z podmiotem prowadzącym rachunek klienta umowę o gwarantowaniu zapłaty i dostarczaniu instrumentów finansowych na rzecz firmy inwestycyjnej, określającą sposób postępowania w przypadku, gdy potwierdzenie zawartej transakcji zostało doręczone później niż w dniu, w którym powinien nastąpić rozrachunek zawartych transakcji na rynku regulowanym działającym na terytorium Rzeczypospolitej Polskiej.
+
+4. W przypadku gdy zlecenia, o których mowa w ust. 1, są składane na rachunek klienta na podstawie umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych zawartej przez firmę inwestycyjną z podmiotem, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, umowa o dostarczanie przez ten podmiot instrumentów finansowych zawiera postanowienia wskazane w ust. 2 i 3.
+
+5. W przypadku zleceń składanych przez klienta, który zawarł z podmiotem prowadzącym rachunek umowę na warunkach, o których mowa w art. 121 ust. 1 ustawy, bez pośrednictwa podmiotu, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, firma inwestycyjna w zawartej z klientem umowie o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych określa tryb i warunki dostarczania instrumentów finansowych – w przypadku zleceń zbycia – oraz tryb i warunki gwarantowania zapłaty – w przypadku zleceń nabycia papierów wartościowych. Przepis ust. 2 i 3 stosuje się odpowiednio.
+
+6. Umowy, o których mowa w ust. 2–5, mogą przewidywać możliwość żądania przez firmę inwestycyjną złożenia przez klienta lub podmiot, o którym mowa w art. 121 ust. 2 pkt 2 ustawy, zabezpieczeń zapłaty należności lub dostarczenia instrumentów finansowych. Ustanowione zabezpieczenie powinno gwarantować pewną i płynną jego realizację w wysokości zabezpieczającej interesy firmy inwestycyjnej.
+
+7. W przypadku, o którym mowa:
+
+- **1)** w ust. 1, nie stosuje się przepisów § 62–71, § 76 i § 77;
+- **2)** w ust. 3, stosuje się przepis § 68 ust. 1.
+
+8. Przepis ust. 1 nie wyłącza możliwości zawarcia przez firmę inwestycyjną z podmiotem prowadzącym rachunek umów, o których mowa w § 80 i § 81.
+
+9. Przepisy ust. 1–7 stosuje się odpowiednio w przypadku zamieszczenia w zawartej z bankiem powierniczym lub z firmą inwestycyjną umowie o prowadzenie rachunku zbiorczego zastrzeżenia, że rozliczenie na rachunku zbiorczym transakcji zawartej na podstawie zlecenia posiadacza rachunku zbiorczego nastąpi po dostarczeniu potwierdzenia tej transakcji odpowiednio bankowi powierniczemu lub firmie inwestycyjnej.
+
+**§ 84.** W przypadku gdy rachunek klienta jest prowadzony przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 i 2 ustawy:
+
+- **1)** umowy, o których mowa w § 80 ust. 1 i § 81 ust. 1, firma inwestycyjna zawiera z takim klientem;
+- **2)** umowa, o której mowa w § 80 ust. 1, zawiera co najmniej zobowiązanie takiego klienta do złożenia w Krajowym Depozycie lub spółce, której Krajowy Depozyt przekazał czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1 i 2 ustawy, dyspozycji blokady instrumentów finansowych na żądanie firmy inwestycyjnej.
 
 ##### Oddział 5 Wykonywanie przez firmę inwestycyjną zleceń w sposób, o którym mowa w art. 73 ust. 2 ustawy
 
+**§ 85.**
+
+1. Firma inwestycyjna uzależnia zawarcie umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy, od złożenia przez klienta, w formie pisemnej, oświadczenia o jego sytuacji finansowej.
+
+2. Firma inwestycyjna opracowuje kryteria, na podstawie których, po zawarciu umowy, o której mowa w ust. 1, będzie ustalana możliwość wykonania zlecenia w sposób, o którym mowa w art. 73 ust. 2 ustawy. Firma inwestycyjna przedstawia klientowi te kryteria przed zawarciem z nim umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych. Firma inwestycyjna informuje klientów, na których rzecz świadczy usługę wykonywania zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy, o każdej zmianie tych kryteriów.
+
+3. Firma inwestycyjna może odstąpić od obowiązków, o których mowa w ust. 1 i 2, w przypadku zawierania umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych z klientem profesjonalnym, o którym mowa w art. 3 pkt 39b lit. a–m ustawy, lub z uprawnionym kontrahentem.
+
+4. Kryteria, o których mowa w ust. 2, powinny umożliwiać firmie inwestycyjnej ograniczenie liczby zleceń wykonywanych w sposób, o którym mowa w art. 73 ust. 2 ustawy, składanych przez jednego klienta lub zleceń składanych przez klientów w tym samym czasie, jeżeli ich liczba znacząco przekracza ustaloną normę, o której mowa w art. 17 ust. 2 rozporządzenia 600/2014.
+
+**§ 86.** Przepisów niniejszego oddziału nie stosuje się do wykonywania zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy, polegających na przyjmowaniu zapisów na instrumenty finansowe emitowane lub wystawiane przez tę firmę inwestycyjną.
+
+**§ 87.** Przepisy niniejszego oddziału stosuje się do banków, o których mowa w art. 70 ust. 2 ustawy, w zakresie papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski dopuszczonych do obrotu na rynku regulowanym.
+
 ##### Oddział 6 Oferowanie instrumentów finansowych oraz przenoszenie instrumentów finansowych i środków pieniężnych klientów
+
+**§ 88.**
+
+1. Firma inwestycyjna pośrednicząca w oferowaniu instrumentów finansowych, przyjmuje zapisy na instrumenty finansowe zgodnie z warunkami oferty.
+
+2. Firma inwestycyjna przyjmuje wpłaty pieniężne z tytułu zapisów na instrumenty finansowe w wysokości i na warunkach określonych w ofercie.
+
+3. Firma inwestycyjna zawiera z emitentem, wystawcą lub oferującym umowę określającą tryb, terminy i warunki przekazania odpowiednio emitentowi, wystawcy lub oferującemu środków pieniężnych otrzymanych od klientów, którzy nabyli instrumenty finansowe w ofercie.
+
+4. Do środków pieniężnych otrzymanych od klientów, którzy dokonali wpłat na instrumenty finansowe, do czasu ich przekazania przez firmę inwestycyjną zgodnie z umową, o której mowa w ust. 3, stosuje się odpowiednio zasady odrębnego deponowania środków pieniężnych klientów, o których mowa w przepisach wydanych na podstawie art. 94 ust. 1 pkt 5 ustawy.
+
+**§ 89.**
+
+1. Zapisanie instrumentów finansowych nabytych w wyniku oferowania na rachunku prowadzonym w firmie inwestycyjnej lub banku powierniczym następuje niezwłocznie po złożeniu odpowiedniego wniosku odpowiednio przez klienta lub uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym, chyba że warunki oferty przewidują inny termin.
+
+2. Przepis ust. 1 stosuje się również do zapisu na rachunku klienta, który nabył instrumenty finansowe od klienta albo uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym, któremu przydzielono te instrumenty.
+
+**§ 90.**
+
+1. Zapisanie instrumentów finansowych na rachunku w związku z ich przeniesieniem, w wyniku transakcji lub innego zdarzenia prawnego, w obrocie wtórnym poza systemem obrotu instrumentami finansowymi, w przypadku gdy rachunki zbywcy i nabywcy są prowadzone przez ten sam podmiot, następuje niezwłocznie po powzięciu przez ten podmiot informacji o dokonaniu transakcji lub wystąpieniu zdarzenia, chyba że umowa przewiduje inny termin.
+
+2. Firma inwestycyjna lub bank powierniczy podejmują czynności związane z przeniesieniem instrumentów finansowych, które zostały zbyte, w wyniku transakcji lub innego zdarzenia prawnego, w obrocie wtórnym poza systemem obrotu instrumentami finansowymi, po przedstawieniu przez klienta (zbywcę) dokumentów wskazujących na podstawę przeniesienia instrumentów finansowych.
+
+3. W przypadku gdy czynności związane z przeniesieniem instrumentów finansowych są podejmowane na podstawie dyspozycji złożonej przez klienta profesjonalnego, firma inwestycyjna lub bank powierniczy mogą odstąpić od wymogu, o którym mowa w ust. 2.
+
+4. W przypadku gdy instrumenty finansowe są przenoszone z rachunku zbiorczego na inny rachunek, firma inwestycyjna lub bank powierniczy prowadzące rachunek zbiorczy dokonują czynności związanych z przeniesieniem instrumentów finansowych, które zostały zbyte, w wyniku transakcji lub innego zdarzenia prawnego, w obrocie wtórnym poza systemem obrotu instrumentami finansowymi, po otrzymaniu od posiadacza rachunku zbiorczego odpowiedniej dyspozycji.
+
+5. Firma inwestycyjna lub bank powierniczy mogą odmówić podjęcia czynności związanych z przeniesieniem instrumentów finansowych w przypadku powzięcia, na podstawie dokumentów, o których mowa w ust. 2, uzasadnionych wątpliwości wskazujących, że przeniesienie instrumentów finansowych ma na celu obejście przepisów prawa.
+
+6. Firma inwestycyjna lub bank powierniczy odmawiają podjęcia czynności, o których mowa w ust. 2, w przypadku gdy z dokumentów, o których mowa w ust. 2, wynika w sposób oczywisty, że przeniesienie instrumentów finansowych jest sprzeczne z przepisami prawa.
+
+7. Odmowa, o której mowa w ust. 5 lub 6, jest sporządzana w formie pisemnej i zawiera uzasadnienie. Przed dostarczeniem odmowy firma inwestycyjna lub bank powierniczy umożliwiają klientowi złożenie wyjaśnień w formie pisemnej lub ustnie.
+
+8. Przepisów ust. 1–7 nie stosuje się do przenoszenia instrumentów finansowych w wyniku wykonywania zleceń nabycia lub zbycia instrumentów finansowych w sposób, o którym mowa w art. 73 ust. 2 ustawy, w przypadku gdy firma inwestycyjna prowadzi rachunek dla klienta, z którym została zawarta transakcja. Czynności, o których mowa w ust. 2, są podejmowane niezwłocznie po zawarciu transakcji.
+
+**§ 91.** Przeniesienie instrumentów finansowych i środków pieniężnych klienta albo uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym do innej firmy inwestycyjnej lub banku powierniczego oraz przeniesienie instrumentów finansowych, w wyniku transakcji lub innego zdarzenia prawnego, w obrocie wtórnym poza systemem obrotu instrumentami finansowymi, w przypadku gdy rachunki dla zbywcy i nabywcy są prowadzone przez różne podmioty, następuje niezwłocznie po złożeniu przez klienta albo uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym odpowiedniej dyspozycji. W przypadku gdy przeniesienie instrumentów finansowych następuje poza systemem obrotu instrumentami finansowymi, przepisy § 90 ust. 2–7 stosuje się odpowiednio do firmy inwestycyjnej lub banku powierniczego, w których złożono dyspozycję dokonania przeniesienia instrumentów finansowych.
+
+**§ 92.** Przepisy niniejszego oddziału stosuje się odpowiednio do postępowania firmy inwestycyjnej, w przypadku gdy instrumenty finansowe są rejestrowane na rachunkach innych niż rachunki papierów wartościowych i rachunki zbiorcze lub są rejestrowane w ewidencji.
+
+**§ 93.** Przepisy niniejszego oddziału stosuje się odpowiednio do postępowania banków, o których mowa w art. 70 ust. 2 ustawy.
 
 ##### Oddział 7 Postępowanie firm inwestycyjnych w przypadku ogłoszenia wezwań na nabywanie lub zamianę akcji
 
+**§ 94.**
+
+1. W przypadku gdy zostało ogłoszone wezwanie do zapisywania się na sprzedaż lub zamianę akcji, firma inwestycyjna przyjmuje zapisy po sprawdzeniu, czy podmiot odpowiadający na wezwanie posiada akcje będące przedmiotem wezwania i czy zostały one zablokowane na jego rachunku.
+
+2. W przypadku gdy akcje są zapisane na rachunku zbiorczym, firma inwestycyjna przyjmuje zapisy po uzyskaniu od posiadacza rachunku zbiorczego dokumentu, o którym mowa w art. 10 ust. 2 ustawy, potwierdzającego, że podmiot odpowiadający na wezwanie posiada akcje będące przedmiotem wezwania i zostały one zablokowane na rachunku zbiorczym.
+
+**§ 95.** Firma inwestycyjna przyjmuje zapisy na sprzedaż lub zamianę akcji zgodnie z warunkami określonymi w treści wezwania.
+
 #### Rozdział 4 Ustanawianie i realizacja zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie instrumentów finansowych
+
+**§ 96.**
+
+1. Firma inwestycyjna wykonuje czynności związane z ustanawianiem i realizacją zabezpieczeń spłaty kredytów na nabycie instrumentów finansowych na podstawie umowy pomiędzy bankiem a klientem lub bankiem a uprawnionym z instrumentów finansowych zapisanych na rachunku zbiorczym, do której przystępuje, lub na podstawie odrębnej umowy pomiędzy bankiem a firmą inwestycyjną, zgodnie z którą firma inwestycyjna jest obowiązana dokonywać czynności zmierzających do ustanowienia i realizacji zabezpieczenia kredytu udzielonego przez bank.
+
+2. Umowa, o której mowa w ust. 1, zawiera co najmniej określenie:
+
+- **1)** instrumentów finansowych, które mogą być nabywane za środki pieniężne pochodzące z kredytu;
+- **2)** terminu spłaty kredytu;
+- **3)** rodzaju i wysokości zabezpieczenia spłaty kredytu wymaganego od klienta lub uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym;
+- **4)** sposobu dokonywania przez firmę inwestycyjną wyceny instrumentów finansowych stanowiących zabezpieczenie;
+- **5)** warunków i terminów dokonywania i znoszenia przez firmę inwestycyjną blokady instrumentów finansowych i środków pieniężnych, stanowiących zabezpieczenie spłaty kredytu, o ile blokada jest przewidziana;
+- **6)** trybu i terminów przekazywania bankowi przez firmę inwestycyjną informacji o aktualnej wysokości zabezpieczenia;
+- **7)** sposobu postępowania firmy inwestycyjnej w przypadku spadku wysokości zabezpieczenia poniżej wymaganego poziomu;
+- **8)** sposobu postępowania firmy inwestycyjnej z instrumentami finansowymi i środkami pieniężnymi klienta lub uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym w przypadku niewykonania przez niego zobowiązań z umowy kredytu;
+- **9)** obowiązku informowania banku przez firmę inwestycyjną o każdym przypadku zajęcia przez organy egzekucyjne lub inne uprawnione podmioty instrumentów finansowych lub środków pieniężnych kredytobiorcy stanowiących zabezpieczenie kredytu.
+
+**§ 97.** Firma inwestycyjna przekazuje bankowi informacje, o których mowa w § 96 ust. 2 pkt 6, na podstawie udzielonego bankowi przez klienta lub uprawnionego z instrumentów finansowych zapisanych na rachunku zbiorczym upoważnienia do uzyskiwania informacji o stanach jego rachunków, ewidencji lub rejestrów.
+
+**§ 98.** Przepisy niniejszego rozdziału stosuje się odpowiednio do banków powierniczych oraz do postępowania firm inwestycyjnych i banków powierniczych, w przypadku ustanawiania i realizacji zabezpieczeń spłaty pożyczek na nabycie instrumentów finansowych.
+
+**§ 99.** Przepisy niniejszego rozdziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
 
 #### Rozdział 5 Tryb i warunki postępowania w przypadku zabezpieczenia wierzytelności na instrumentach finansowych
 
 ##### Oddział 1 Przepisy ogólne
 
+**§ 100.** Firma inwestycyjna podejmuje czynności związane z ustanowieniem zabezpieczenia wierzytelności na instrumentach finansowych, w przypadku gdy są spełnione łącznie następujące warunki:
+
+- **1)** istnieje nieprzedawniona wierzytelność pieniężna lub wierzytelność niepieniężna, w tym wierzytelność przyszła lub warunkowa, wynikające z określonego stosunku prawnego;
+- **2)** forma zabezpieczenia wierzytelności oraz sposób zaspokojenia wierzyciela z przedmiotu zabezpieczenia odpowiadają wymaganiom określonym w odrębnych przepisach;
+- **3)** przedmiotem zabezpieczenia wierzytelności są instrumenty finansowe zapisane na rachunku papierów wartościowych klienta, innym rachunku klienta lub w ewidencji, służących do zapisywania instrumentów finansowych, albo przechowywane przez firmę inwestycyjną na rzecz klienta.
+
+**§ 101.**
+
+1. Firma inwestycyjna odmawia podjęcia czynności związanej z ustanowieniem zabezpieczenia wierzytelności, w przypadku gdy z przedstawionej umowy o ustanowieniu zabezpieczenia lub z dokumentu, z którego wynika zabezpieczona wierzytelność, wynika w sposób oczywisty, że są one sprzeczne z przepisami prawa.
+
+2. Odmowa, o której mowa w ust. 1, jest sporządzana w formie pisemnej i zawiera uzasadnienie. Przed dostarczeniem klientowi odmowy firma inwestycyjna umożliwia mu złożenie wyjaśnień.
+
+**§ 102.** Podejmowanie przez firmę inwestycyjną czynności związanych z ustanowieniem na instrumentach finansowych zabezpieczenia wierzytelności w innej formie i w inny sposób niż określone w oddziale 2 i 3 jest dopuszczalne, jeżeli nie narusza przepisów prawa, a forma tego zabezpieczenia oraz sposób wykonywania przez firmę inwestycyjną tych czynności zostały szczegółowo określone w regulaminie świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1.
+
+**§ 103.** Przepisy niniejszego rozdziału stosuje się odpowiednio:
+
+- **1)** w przypadku gdy zabezpieczenie wierzytelności:
+    - **a)** banku, z tytułu udzielonego kredytu, zostało ustanowione na instrumentach finansowych zapisanych na rachunku papierów wartościowych, innym rachunku klienta lub w ewidencji klienta, prowadzonych przez wydzieloną jednostkę organizacyjną tego banku prowadzącą działalność maklerską, lub na instrumentach finansowych przechowywanych przez tę jednostkę,
+    - **b)** zostało ustanowione na papierach wartościowych zapisanych zgodnie z art. 4 ust. 2 ustawy;
+
+- **2)** do banku powierniczego, z zastrzeżeniem oddziału 4, którego przepisy dotyczące firmy inwestycyjnej stosuje się odpowiednio do banku powierniczego, oraz oddziału 5, którego przepisy stosuje się odpowiednio do banków powierniczych prowadzących rachunki zbiorcze.
+
+**§ 104.** Przepisy niniejszego oddziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
+
 ##### Oddział 2 Blokada instrumentów finansowych
+
+**§ 105.** W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu na rachunku prowadzonym dla klienta (dłużnika) blokady określonej liczby instrumentów finansowych, połączonej z ustanowieniem nieodwołalnego pełnomocnictwa dla osoby uprawnionej z tytułu blokady (wierzyciela) do sprzedaży zablokowanych instrumentów finansowych i zaspokojenia się z uzyskanych w ten sposób środków pieniężnych, firma inwestycyjna, na podstawie umowy o ustanowieniu blokady i złożeniu przez klienta dyspozycji blokady, w formie pisemnej, dokonuje blokady na rachunku klienta. Regulamin świadczenia usługi maklerskiej, o którym mowa w § 24 ust. 1, może określać dodatkowe warunki ustanawiania takiego pełnomocnictwa.
+
+**§ 106.** Firma inwestycyjna utrzymuje blokadę instrumentów finansowych przez okres wynikający z umowy o ustanowieniu blokady.
+
+**§ 107.**
+
+1. W okresie utrzymywania blokady firma inwestycyjna nie może wykonywać dyspozycji klienta dotyczących:
+
+- **1)** zniesienia blokady;
+- **2)** zbycia zablokowanych instrumentów finansowych;
+- **3)** przeniesienia zablokowanych instrumentów finansowych.
+
+2. Przepisu ust. 1 pkt 3 nie stosuje się w przypadku:
+
+- **1)** przeniesienia instrumentów finansowych będących przedmiotem blokady z zachowaniem blokady, jeżeli przeniesienie jest wynikiem realizacji postanowień umowy ustanawiającej blokadę;
+- **2)** o którym mowa w art. 89 ust. 4 ustawy.
+
+3. Wykonanie przez firmę inwestycyjną dyspozycji klienta dotyczących zablokowanych instrumentów finansowych innych niż dyspozycje, o których mowa w ust. 1, może nastąpić w zakresie określonym w umowie o ustanowieniu blokady.
+
+**§ 108.** Firma inwestycyjna prowadząca dla klienta rachunek, na którym są zapisane zablokowane instrumenty finansowe, w braku odmiennych postanowień umowy o ustanowieniu blokady, przekazuje do dyspozycji klienta, w sposób przez niego wskazany, pożytki z tych instrumentów, w szczególności dywidendy, odsetki lub inne świadczenia pieniężne spełniane na rzecz klienta z instrumentów finansowych.
+
+**§ 109.**
+
+1. W dacie wymagalności wierzytelności zabezpieczonej blokadą lub w najbliższym dniu, w którym jest możliwe wykonanie zlecenia, firma inwestycyjna przyjmuje do wykonania zlecenie sprzedaży instrumentów finansowych złożone przez wierzyciela na podstawie pełnomocnictwa udzielonego mu przez klienta wraz z umową o ustanowieniu blokady.
+
+2. Firma inwestycyjna przekazuje do dyspozycji wierzyciela, niezwłocznie, w sposób wskazany przez niego w zleceniu, o którym mowa w ust. 1, środki pieniężne pochodzące z wykonania tego zlecenia w wysokości pozwalającej na zaspokojenie roszczeń wierzyciela wynikających z umowy.
+
+3. Po upływie okresu utrzymywania blokady ustalonego w umowie firma inwestycyjna nie może przyjąć do wykonania zlecenia, o którym mowa w ust. 1.
+
+4. Do trybu postępowania firmy inwestycyjnej wykonującej zlecenie, o którym mowa w ust. 1, stosuje się odpowiednio przepisy rozporządzenia dotyczące wykonywania zleceń.
+
+**§ 110.**
+
+1. Firma inwestycyjna znosi blokadę w przypadku:
+
+- **1)** blokady bezterminowej, ustanowionej do odwołania lub do czasu wykonania zobowiązania zabezpieczonego blokadą – niezwłocznie po złożeniu przez wierzyciela, w formie pisemnej, dyspozycji zniesienia blokady lub po złożeniu, w formie pisemnej, dyspozycji zniesienia blokady przez klienta, za zgodą wierzyciela wyrażoną w formie pisemnej;
+- **2)** blokady terminowej, nieodwołalnej – w dniu następującym po upływie okresu utrzymywania blokady ustalonego w umowie;
+- **3)** określonym w § 109 ust. 1 – niezwłocznie po złożeniu zlecenia sprzedaży instrumentów finansowych.
+
+2. Zniesienie blokady może dotyczyć części zablokowanych instrumentów finansowych.
+
+3. W przypadku gdy zablokowane instrumenty finansowe są zapisane na rachunku prowadzonym przez bank powierniczy, zniesienie blokady następuje niezwłocznie po otrzymaniu przez bank dokumentów potwierdzających złożenie zlecenia sprzedaży, o którym mowa w § 109 ust. 1.
+
+**§ 111.** W przypadku gdy instrumenty finansowe będące zabezpieczeniem wierzytelności są zapisane na rachunku prowadzonym przez bank powierniczy, bank przekazuje do firmy inwestycyjnej świadczącej na rzecz klienta usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych kopię umowy o ustanowieniu blokady i złożeniu przez klienta dyspozycji blokady.
+
+**§ 112.** Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania firmy inwestycyjnej w przypadku ustanawiania blokady na instrumentach finansowych niedopuszczonych do obrotu w systemie obrotu instrumentami finansowymi, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie na nich blokady.
+
+**§ 113.** Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania banków, o których mowa w art. 70 ust. 2 ustawy, w przypadku ustanawiania blokady na instrumentach finansowych ewidencjonowanych przez ten bank w związku z działalnością wykonywaną na podstawie art. 70 ust. 2 ustawy, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie na nich blokady.
 
 ##### Oddział 3 Zastaw na instrumentach finansowych
 
+**§ 114.**
+
+1. W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu zastawu na określonej liczbie instrumentów finansowych zapisanych na rachunku, firma inwestycyjna, na podstawie umowy zastawu i złożeniu przez klienta dyspozycji blokady zastawionych instrumentów, w formie pisemnej, dokonuje na rachunku zastawcy blokady tych instrumentów.
+
+2. W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu zastawu rejestrowego na podstawie przepisów ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2018 r. poz. 2017), zwanej dalej „ustawą o zastawie rejestrowym”, firma inwestycyjna dokonuje blokady instrumentów finansowych po otrzymaniu dokumentów, o których mowa w ust. 1, oraz odpisu z rejestru zastawów stanowiącego dowód wpisu.
+
+**§ 115.** Firma inwestycyjna utrzymuje blokadę zastawionych instrumentów finansowych przez okres wynikający z umowy zastawu.
+
+**§ 116.**
+
+1. Firma inwestycyjna prowadząca rachunek, na którym są zapisane instrumenty finansowe obciążone zastawem, lub przechowująca instrumenty finansowe obciążone zastawem przekazuje do dyspozycji zastawnika, w sposób przez niego wskazany, pożytki z tych instrumentów, w szczególności dywidendy, odsetki lub inne świadczenia, chyba że umowa zastawu stanowi inaczej. W zakresie obowiązku zastawnika określonego w art. 319 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237), zwanej dalej „Kodeksem cywilnym”, firma inwestycyjna może, na podstawie pełnomocnictwa udzielonego przez zastawnika, dokonać wobec zastawcy rozliczenia z pobranych pożytków.
+
+2. W przypadku gdy dłużnik z instrumentów finansowych obciążonych zastawem przekazuje firmie inwestycyjnej, o której mowa w ust. 1, świadczenie główne, do którego jest zobowiązany z tych instrumentów, firma inwestycyjna dokonuje na rachunku pieniężnym zastawcy blokady środków pieniężnych otrzymanych z tego tytułu. Środki pieniężne podlegają blokadzie do czasu wykonania uprawnień przysługujących zastawcy lub zastawnikowi.
+
+3. Środki pieniężne pochodzące ze spełnienia świadczenia przez dłużnika z zastawionych instrumentów mogą być wypłacone wyłącznie do rąk zastawcy i zastawnika łącznie albo na żądanie jednego z nich powinny zostać złożone do depozytu sądowego.
+
+**§ 117.** Firma inwestycyjna znosi blokadę zastawionych instrumentów finansowych niezwłocznie po otrzymaniu dokumentów potwierdzających wygaśnięcie zastawu.
+
+**§ 118.** W przypadku gdy zaspokojenie zastawnika polega na przejęciu instrumentów finansowych na własność w trybie i na warunkach określonych w przepisach ustawy o zastawie rejestrowym, firma inwestycyjna, na żądanie zastawnika złożone w dacie wymagalności wierzytelności, w formie pisemnej, niezwłocznie przenosi instrumenty finansowe na rzecz zastawnika, w liczbie uwzględniającej wartość przejętych instrumentów finansowych ustalonej zgodnie z art. 23 ust. 1 tej ustawy.
+
+**§ 119.** W przypadku gdy zaspokojenie zastawnika nastąpi przez sprzedaż instrumentów finansowych w drodze przetargu publicznego, o którym mowa w art. 24 ust. 1 ustawy o zastawie rejestrowym, firma inwestycyjna, na żądanie nabywcy, złożone w formie pisemnej, po przedstawieniu protokołu przebiegu przetargu, niezwłocznie przenosi instrumenty finansowe na rzecz nabywcy.
+
+**§ 120.**
+
+1. W przypadku gdy zaspokojenie zastawnika następuje zgodnie z przepisami o postępowaniu egzekucyjnym i polega na sprzedaży instrumentów finansowych zgodnie z art. 911 § 2 i 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568), zwanej dalej „Kodeksem postępowania cywilnego”, do zlecenia sprzedaży zastawionych instrumentów finansowych, złożonego przez osoby uprawnione zgodnie z art. 911 § 2, 3 i 5 tej ustawy, oraz do trybu postępowania firmy inwestycyjnej wykonującej zlecenie sprzedaży stosuje się odpowiednio przepisy rozporządzenia.
+
+2. Firma inwestycyjna przekazuje do dyspozycji komornika, niezwłocznie, w sposób wskazany przez niego w wezwaniu, o którym mowa w art. 911 § 1 pkt 2 Kodeksu postępowania cywilnego, środki pieniężne pochodzące z wykonania zlecenia, o którym mowa w ust. 1.
+
+3. W przypadku gdy zaspokojenie zastawnika następuje zgodnie z przepisami o postępowaniu egzekucyjnym i polega na sprzedaży instrumentów finansowych niezapisanych na rachunku papierów wartościowych lub na innym rachunku, firma inwestycyjna wykonuje pisemne żądania komornika, w tym zlecenia lub dyspozycje dotyczące tych instrumentów, od chwili ich skutecznego zajęcia.
+
+**§ 121.** Po wygaśnięciu zastawu firma inwestycyjna nie może podejmować czynności, o których mowa w § 118 i § 120.
+
+**§ 122.** Przepisy § 120 stosuje się odpowiednio do postępowania firmy inwestycyjnej w przypadku zaspokojenia wierzyciela z instrumentów finansowych dłużnika w ramach prowadzonej egzekucji, która nie wynika z ustanowionego zastawu.
+
+**§ 123.**
+
+1. W zakresie nieuregulowanym w przepisach niniejszego oddziału do ustanowienia, utrzymywania i zniesienia blokady instrumentów finansowych w związku z ustanowieniem zastawu stosuje się odpowiednio przepisy oddziału 2.
+
+2. W przypadku gdy zabezpieczenie wierzytelności polega na ustanowieniu zastawu na papierach wartościowych niezapisanych na rachunku papierów wartościowych lub innym rachunku, firma inwestycyjna wydaje papiery wartościowe zastawnikowi lub osobie trzeciej na podstawie umowy zastawu spełniającej wymogi, o których mowa w art. 329 § 1 Kodeksu cywilnego.
+
+**§ 124.** Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania firmy inwestycyjnej w przypadku ustanawiania zastawu lub zastawu rejestrowego na instrumentach finansowych niedopuszczonych do obrotu w systemie obrotu instrumentami finansowymi, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie na nich tych zabezpieczeń.
+
+**§ 125.** Przepisy niniejszego oddziału stosuje się odpowiednio do trybu postępowania banków, o których mowa w art. 70 ust. 2 ustawy, w przypadku ustanawiania zastawu lub zastawu rejestrowego na instrumentach finansowych ewidencjonowanych przez ten bank w związku z działalnością wykonywaną na podstawie art. 70 ust. 2 ustawy.
+
 ##### Oddział 4 Zabezpieczenia finansowe
+
+**§ 126.**
+
+1. Po otrzymaniu umowy o ustanowieniu blokady finansowej firma inwestycyjna dokonuje na rachunku lub w ewidencji prowadzonej na rzecz dłużnika blokady instrumentów finansowych wskazanych w umowie.
+
+2. W przypadku gdy dłużnik, zgodnie z umową o ustanowieniu blokady finansowej, wykonuje prawo zastępowania składników zabezpieczenia, firma inwestycyjna, w zakresie zgodnym z umową o ustanowieniu blokady finansowej, wykonuje złożoną przez niego, w formie pisemnej, dyspozycję blokady instrumentów finansowych wskazanych w tej dyspozycji oraz znosi blokadę instrumentów finansowych stanowiących pierwotny przedmiot zabezpieczenia.
+
+**§ 127.**
+
+1. Firma inwestycyjna utrzymuje blokadę instrumentów finansowych przez okres wynikający z umowy o ustanowieniu blokady, z zastrzeżeniem § 126 ust. 2.
+
+2. Do blokady, o której mowa w ust. 1, stosuje się przepis § 107.
+
+**§ 128.** Firma inwestycyjna prowadząca dla dłużnika rachunek, na którym są zapisane zablokowane instrumenty finansowe, przekazuje do dyspozycji dłużnika, w sposób przez niego wskazany, pożytki z tych instrumentów, w szczególności dywidendy, odsetki lub inne świadczenia pieniężne spełniane na rzecz dłużnika z instrumentów finansowych, chyba że umowa o ustanowieni blokady finansowej stanowi inaczej.
+
+**§ 129.** Firma inwestycyjna znosi blokadę, o której mowa w § 126 ust. 1, w przypadku:
+
+- **1)** gdy umowa o ustanowieniu blokady finansowej przewiduje termin, do którego ustanawia się to zabezpieczenie – z chwilą upływu tego terminu;
+- **2)** wystąpienia okoliczności umożliwiających jej zniesienie określonych w umowie o ustanowieniu blokady finansowej – niezwłocznie po ich stwierdzeniu.
+
+**§ 130.**
+
+1. W przypadku gdy zaspokojenie wierzytelności zabezpieczonych blokadą finansową następuje przez sprzedaż instrumentów finansowych, w dniu wystąpienia podstawy realizacji tego zabezpieczenia lub w najbliższym dniu, w którym jest możliwe wykonanie zlecenia, firma inwestycyjna przyjmuje do wykonania zlecenie sprzedaży instrumentów finansowych złożone przez wierzyciela na podstawie pełnomocnictwa udzielonego mu przez klienta w umowie o ustanowieniu blokady finansowej. Do wykonania zlecenia sprzedaży stosuje się odpowiednio przepisy rozporządzenia dotyczące wykonywania zleceń.
+
+2. Firma inwestycyjna przekazuje do dyspozycji wierzyciela, niezwłocznie, w sposób wskazany przez niego w zleceniu, o którym mowa w ust. 1, środki pieniężne pochodzące z wykonania tego zlecenia, w wysokości pozwalającej na zaspokojenie roszczeń wierzyciela wynikających z umowy blokady finansowej. Pozostałe środki finansowe pochodzące z wykonania tego zlecenia firma inwestycyjna przekazuje do dyspozycji dłużnika.
+
+3. Po upływie ustalonego w umowie terminu ustanowienia blokady finansowej firma inwestycyjna nie może przyjąć do wykonania zlecenia, o którym mowa w ust. 1.
+
+4. W przypadku gdy przedmiotem blokady finansowej są instrumenty finansowe niedopuszczone do systemu obrotu instrumentami finansowymi, a umowa sprzedaży została zawarta bez pośrednictwa firmy inwestycyjnej prowadzącej rachunek, na którym są zapisane zablokowane instrumenty finansowe, lub przechowującej instrumenty finansowe, firma inwestycyjna przenosi te instrumenty na rzecz ich nabywcy na podstawie przekazanej mu przez wierzyciela kopii umowy sprzedaży tych instrumentów, po złożeniu przez wierzyciela, w formie pisemnej, dyspozycji dłużnika dotyczącej przeniesienia tych instrumentów. Środki uzyskane ze sprzedaży, w wysokości pozwalającej na zaspokojenie roszczeń wierzyciela wynikających z umowy blokady finansowej, firma inwestycyjna niezwłocznie przekazuje do dyspozycji wierzyciela w sposób wskazany w złożonej przez niego dyspozycji.
+
+**§ 131.**
+
+1. W przypadku gdy zaspokojenie wszystkich lub niektórych roszczeń zabezpieczonych blokadą finansową następuje przez kompensatę, firma inwestycyjna znosi blokadę oraz dokonuje innych czynności związanych z kompensatą po otrzymaniu dokumentów potwierdzających:
+
+- **1)** wystąpienie podstawy realizacji zabezpieczenia;
+- **2)** dokonanie czynności niezbędnych do dokonania kompensaty zgodnie z treścią klauzuli kompensacyjnej w rozumieniu art. 3 pkt 3 ustawy o niektórych zabezpieczeniach finansowych.
+
+2. Kompensata jest dokonywana przez firmę inwestycyjną na warunkach określonych w klauzuli kompensacyjnej.
+
+**§ 132.**
+
+1. Po otrzymaniu umowy o ustanowieniu zabezpieczenia finansowego, o której mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych, w formie przeniesienia na wierzyciela instrumentów finansowych będących przedmiotem zabezpieczenia, firma inwestycyjna prowadząca dla dłużnika rachunek lub przechowująca na jego rzecz instrumenty finansowe dokonuje przeniesienia instrumentów finansowych na rzecz wierzyciela, po złożeniu przez dłużnika, w formie pisemnej, dyspozycji przeniesienia.
+
+2. W przypadku gdy umowa, o której mowa w ust. 1, przewiduje blokadę przeniesionych instrumentów finansowych na rachunku lub w ewidencji wierzyciela, firma inwestycyjna dokonuje blokady instrumentów finansowych będących przedmiotem zabezpieczenia na rachunku lub w ewidencji dłużnika i przenosi je na wierzyciela z zachowaniem blokady. Firma inwestycyjna, która prowadzi dla dłużnika rachunek lub przechowuje na jego rzecz instrumenty finansowe, przekazuje firmie inwestycyjnej, która prowadzi dla wierzyciela rachunek lub przechowuje na jego rzecz instrumenty finansowe, kopię umowy o ustanowieniu zabezpieczenia, o którym mowa w ust. 1.
+
+3. Zniesienie blokady, o której mowa w ust. 2, następuje zgodnie z postanowieniami umowy o ustanowieniu zabezpieczenia finansowego, o której mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych:
+
+- **1)** po otrzymaniu dokumentów potwierdzających wystąpienie podstawy realizacji zabezpieczenia i zawiadomienie dłużnika o wygaśnięciu roszczenia o zwrot przedmiotu zabezpieczenia albo
+- **2)** w przypadku gdy umowa o ustanowieniu zabezpieczenia finansowego, o której mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych, przewiduje termin, do którego ustanawia się to zabezpieczenie – z chwilą upływu tego terminu.
+
+**§ 133.**
+
+1. Po otrzymaniu umowy o ustanowieniu zastawu finansowego na określonej liczbie instrumentów finansowych zapisanych na rachunku lub przechowywanych na rzecz klienta (dłużnika), firma inwestycyjna, na podstawie dyspozycji blokady zastawionych instrumentów finansowych, złożonej przez dłużnika w formie pisemnej, dokonuje na jego rachunku lub w ewidencji blokady tych instrumentów.
+
+2. Firma inwestycyjna znosi blokadę ustanowioną zgodnie z ust. 1, w przypadku gdy wierzyciel, na podstawie udzielonego mu przez dłużnika upoważnienia, wykonuje przysługujące mu zgodnie z umową o ustanowieniu zastawu finansowego prawo użycia instrumentów finansowych, o którym mowa w art. 3 pkt 5 ustawy o niektórych zabezpieczeniach finansowych, stanowiących przedmiot zastawu finansowego. Firma inwestycyjna wykonuje dyspozycję lub zlecenie złożone przez wierzyciela w ramach wykonania przysługującego mu prawa użycia instrumentów finansowych, o którym mowa w art. 3 pkt 5 ustawy o niektórych zabezpieczeniach finansowych.
+
+3. W przypadku gdy dłużnik wykonuje przysługujące mu zgodnie z umową o ustanowieniu zastawu finansowego prawo zastępowania składników zabezpieczenia, firma inwestycyjna, w zakresie zgodnym z umową o ustanowieniu zastawu finansowego, wykonuje, złożoną przez niego w formie pisemnej, dyspozycję blokady instrumentów finansowych wskazanych w tej dyspozycji oraz znosi blokadę instrumentów finansowych stanowiących pierwotny przedmiot zabezpieczenia.
+
+**§ 134.**
+
+1. Firma inwestycyjna utrzymuje blokadę zastawionych instrumentów finansowych przez okres wynikający z umowy zastawu finansowego, z zastrzeżeniem § 133 ust. 2 i 3.
+
+2. Do blokady, o której mowa w ust. 1, stosuje się przepis § 107.
+
+**§ 135.**
+
+1. Firma inwestycyjna prowadząca rachunek, na którym są zapisane instrumenty finansowe obciążone zastawem finansowym, lub przechowująca takie instrumenty finansowe przekazuje do dyspozycji zastawnika, w sposób przez niego wskazany, pożytki z tych instrumentów, w szczególności dywidendy, odsetki lub inne świadczenia, chyba że umowa zastawu finansowego stanowi inaczej.
+
+2. W przypadku gdy dłużnik z instrumentów finansowych obciążonych zastawem przekazuje firmie inwestycyjnej, o której mowa w ust. 1, świadczenie główne, do którego jest zobowiązany z tych instrumentów, firma inwestycyjna dokonuje blokady na rachunku pieniężnym zastawcy otrzymanych z tego tytułu środków pieniężnych, chyba że umowa zastawu finansowego stanowi inaczej. Środki pieniężne podlegają blokadzie do czasu wykonania uprawnień przysługujących zastawcy lub zastawnikowi na podstawie tej umowy.
+
+**§ 136.** Firma inwestycyjna znosi blokadę, o której mowa w § 133, w przypadku:
+
+- **1)** gdy umowa o ustanowieniu blokady finansowej przewiduje termin ustanowienia tego zabezpieczenia – z chwilą upływu tego terminu;
+- **2)** wystąpienia okoliczności umożliwiających jej zniesienie określonych w umowie o ustanowieniu blokady finansowej – niezwłocznie po ich stwierdzeniu;
+- **3)** wygaśnięcia zastawu finansowego – niezwłocznie po ustaleniu tego faktu.
+
+**§ 137.** W przypadku gdy zgodnie z umową o ustanowieniu zabezpieczenia finansowego, o której mowa w art. 5 ust. 1 ustawy o niektórych zabezpieczeniach finansowych, zaspokojenie polega na przejęciu przez wierzyciela na własność instrumentów finansowych objętych zastawem finansowym firma inwestycyjna wykonuje, złożoną przez wierzyciela na podstawie pełnomocnictwa udzielonego mu przez klienta w tej umowie, dyspozycję przeniesienia na rzecz wierzyciela instrumentów finansowych objętych zastawem.
+
+**§ 138.**
+
+1. W przypadku gdy zaspokojenie roszczeń z zastawu finansowego polega na sprzedaży zastawionych instrumentów finansowych w dniu wystąpienia podstawy realizacji zastawu finansowego, firma inwestycyjna wykonuje zlecenie sprzedaży zastawionych instrumentów finansowych, złożone przez wierzyciela na podstawie pełnomocnictwa udzielonego mu przez klienta w umowie o ustanowieniu zastawu finansowego.
+
+2. Firma inwestycyjna niezwłocznie przekazuje do dyspozycji wierzyciela środki pieniężne pochodzące z wykonania jego zlecenia, w wysokości pozwalającej na zaspokojenie zabezpieczonych roszczeń, w sposób wskazany przez niego w zleceniu, o którym mowa w ust. 1.
+
+3. W przypadku wystąpienia okoliczności, o których mowa w § 136, firma inwestycyjna nie może przyjąć do wykonania zlecenia, o którym mowa w ust. 1.
+
+**§ 139.** Do sposobu postępowania firmy inwestycyjnej w przypadku zaspokajania roszczeń wynikających z zastawu finansowego przez kompensatę stosuje się odpowiednio § 131.
+
+**§ 140.** Przepisy niniejszego oddziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
 
 ##### Oddział 5 Szczególne zasady dotyczące ustanawiania zabezpieczeń na rachunkach zbiorczych
 
+**§ 141.**
+
+1. Ustanowienie zabezpieczenia wierzytelności na rachunku zbiorczym może nastąpić przez podmiot uprawniony z instrumentów finansowych zarejestrowanych na tym rachunku, wskazany firmie inwestycyjnej zgodnie z art. 8a ust. 4 ustawy.
+
+2. W przypadku gdy dany rodzaj zabezpieczenia wiąże się z ustanowieniem blokady instrumentów finansowych, jego skuteczność jest uzależniona od otrzymania przez firmę inwestycyjną dokumentu, o którym mowa w art. 10 ust. 2 ustawy, określającego osobę uprawnioną z instrumentów finansowych wskazanych w tym dokumencie.
+
+3. Zabezpieczenie uważa się za skutecznie ustanowione na okres wskazany w terminie ważności dokumentu, o którym mowa w art. 10 ust. 2 ustawy.
+
+4. Firma inwestycyjna prowadząca rachunek zbiorczy dokonuje blokady na rachunku zbiorczym instrumentów finansowych stanowiących przedmiot zabezpieczenia na podstawie umowy o ustanowieniu zabezpieczenia na tych instrumentach, przekazanej przez podmiot ustanawiający zabezpieczenie za pośrednictwem posiadacza rachunku.
+
+5. W okresie utrzymywania blokady firma inwestycyjna prowadząca rachunek zbiorczy nie może wykonywać poleceń posiadacza rachunku ani podmiotu uprawnionego z instrumentów finansowych objętych blokadą. Blokada nie może zostać zniesiona do dnia upływu terminu ważności dokumentu, o którym mowa w art. 10 ust. 2 ustawy.
+
+6. Firma inwestycyjna przyjmuje do wykonania zlecenie sprzedaży instrumentów finansowych złożone przez wierzyciela na podstawie pełnomocnictwa udzielonego jej przez podmiot ustanawiający zabezpieczenie będący jej klientem pod warunkiem wymagalności zabezpieczonej wierzytelności w dniu upływu terminu ważności dokumentu, o którym mowa w art. 10 ust. 2 ustawy.
+
+**§ 142.** W zakresie nieuregulowanym w niniejszym oddziale do ustanowienia zabezpieczenia na instrumentach finansowych rejestrowanych na rachunku zbiorczym stosuje się przepisy oddziału 1–4 niniejszego rozdziału.
+
+**§ 143.** Przepisy niniejszego oddziału stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
+
 #### Rozdział 6 Sprawozdania przekazywane klientom
 
+**§ 144.**
+
+1. W przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 2 pkt 1 ustawy, w sposób, o którym mowa w art. 74b ust. 1 pkt 1 ustawy, firma inwestycyjna przekazuje klientowi sprawozdanie obejmujące:
+
+- **1)** oznaczenie firmy inwestycyjnej;
+- **2)** nazwę, firmę, imię i nazwisko lub inne oznaczenie klienta;
+- **3)** datę i czas przyjęcia zlecenia;
+- **4)** datę i czas przekazania zlecenia do innego podmiotu w celu wykonania zlecenia;
+- **5)** oznaczenie podmiotu, do którego przekazano zlecenie klienta w celu wykonania zlecenia;
+- **6)** rodzaj zlecenia, o ile rodzaj został określony przez klienta;
+- **7)** identyfikator kupna/sprzedaży albo charakter zlecenia – w przypadku zleceń innych niż kupno/sprzedaż;
+- **8)** oznaczenie instrumentu finansowego;
+- **9)** liczbę instrumentów finansowych będących przedmiotem zlecenia, o ile liczba ta została określona przez klienta;
+- **10)** cenę, po jakiej przekazane zlecenie miało być wykonane przez podmiot albo sposób jej określenia;
+- **11)** łączną planowaną wartość transakcji, która miała być zawarta w wykonaniu zlecenia przez podmiot, o ile rodzaj zlecenia pozwala na jej określenie;
+- **12)** całkowitą wartość pobranych opłat i prowizji oraz zestawienie poszczególnych pozycji pobranych opłat i prowizji oraz innych kosztów przyjęcia i przekazania zlecenia.
+
+2. W przypadku gdy firma inwestycyjna świadczy usługę, o której mowa w art. 69 ust. 2 pkt 1 ustawy, w związku z wykonywaniem usługi, o której mowa w art. 69 ust. 2 pkt 6 ustawy, w ramach oferty publicznej w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620), obowiązek, o którym mowa w ust. 1, uznaje się za spełniony, jeżeli klient otrzymał formularz zapisu i warunki emisji, pod warunkiem że formularz zapisu lub warunki emisji zawierają informacje, o których mowa w ust. 1.
+
+3. W przypadku gdy przedmiotem usługi, o której mowa w art. 69 ust. 2 pkt 1 ustawy, są jednostki uczestnictwa otwartego funduszu inwestycyjnego, obowiązek, o którym mowa w ust. 1, uznaje się za spełniony, jeżeli klient otrzymał potwierdzenie, o którym mowa w art. 91 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034), pod warunkiem że potwierdzenie zawiera informacje, o których mowa w ust. 1.
+
+4. Firma inwestycyjna przekazuje sprawozdanie, o którym mowa w ust. 1, niezwłocznie po przekazaniu zlecenia klienta do innego podmiotu w celu jego wykonania, jednak nie później niż do końca dnia roboczego następującego po dniu, w którym zlecenie zostało przekazane.
+
+5. Sprawozdanie, o którym mowa w ust. 1, może być przekazywane w formie wystandaryzowanej, pod warunkiem że forma ta jest przejrzysta i zrozumiała dla klienta. Sposób przekazania sprawozdania określa umowa o przyjmowanie i przekazywanie zleceń.
+
+6. Przepisy ust. 1–5 nie wyłączają obowiązku firmy inwestycyjnej do niezwłocznego przekazywania, na żądanie klienta, informacji dotyczących aktualnego etapu przekazywania do innego podmiotu przyjętego zlecenia w celu jego wykonania.
+
+**§ 145.**
+
+1. W przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 2 pkt 5 ustawy, firma inwestycyjna przekazuje klientowi sprawozdanie obejmujące:
+
+- **1)** oznaczenie firmy inwestycyjnej;
+- **2)** nazwę, firmę, imię i nazwisko lub inne oznaczenie klienta albo grupy klientów;
+- **3)** datę i czas udzielenia rekomendacji;
+- **4)** formę udzielonej rekomendacji;
+- **5)** oznaczenie rekomendowanego instrumentu finansowego lub instrumentów finansowych, o ile rekomendacja obejmuje więcej niż jeden instrument finansowy;
+- **6)** kierunek inwestycyjny rekomendacji (nabycie/zbycie);
+- **7)** oznaczenie, czy rekomendacja jest udzielana w ramach doradztwa inwestycyjnego świadczonego w sposób niezależny czy w sposób zależny, o ile informacja nie została zawarta w umowie z klientem;
+- **8)** podział na poszczególne instrumenty finansowe, o ile rekomendacja obejmuje więcej niż jeden instrument finansowy lub podział był określony w treści rekomendacji;
+- **9)** rekomendowaną cenę nabycia lub zbycia instrumentu finansowego lub instrumentów finansowych, o ile rekomendacja obejmuje więcej niż jeden instrument finansowy lub cena została wskazana w treści rekomendacji;
+- **10)** oznaczenie terminu ważności rekomendacji, o ile rekomendacja jest ograniczona w czasie;
+- **11)** całkowitą wartość pobranych opłat i prowizji oraz zestawienie poszczególnych pozycji pobranych opłat i prowizji oraz innych kosztów związanych z udzieleniem rekomendacji, o ile opłaty i prowizje zostały pobrane.
+
+2. W przypadku gdy sprawozdanie, o którym mowa w ust. 1, jest przekazywane klientowi detalicznemu, do sprawozdania dołącza się raport, o którym mowa w art. 83g ust. 3 ustawy, o ile raport ten nie został wcześniej przekazany temu klientowi.
+
+3. Sprawozdanie, o którym mowa w ust. 1, jest przekazywane raz na trzy miesiące.
+
+4. W przypadku gdy firma inwestycyjna przekazała lub udostępniła klientowi rekomendację, której treść obejmuje informacje, o których mowa w ust. 1, sprawozdanie, o którym mowa w ust. 1, w odniesieniu do tej rekomendacji zawiera informacje, o których mowa w ust. 1 pkt 1–3 i 5.
+
+5. W przypadku gdy usługa maklerska, o której mowa w art. 69 ust. 2 pkt 5 ustawy, jest świadczona na rzecz klienta jednorazowo, termin przekazania sprawozdania, o którym mowa w ust. 1, może zostać określny w umowie z klientem.
+
+**§ 146.**
+
+1. W przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 4 pkt 6 ustawy, firma inwestycyjna przekazuje klientowi sprawozdanie obejmujące:
+
+- **1)** oznaczenie firmy inwestycyjnej;
+- **2)** nazwę, firmę, imię i nazwisko lub inne oznaczenie klienta albo grupy klientów, w przypadku gdy analiza została sporządzona na indywidualne zamówienie klienta;
+- **3)** datę i czas przekazania klientowi analizy lub informacji o jej udostępnieniu;
+- **4)** sposób przekazania klientowi analizy lub informacji o jej udostępnieniu;
+- **5)** podstawowe informacje na temat przedmiotu analizy, w tym:
+    - **a)** oznaczenie instrumentu finansowego lub rodzajów instrumentów finansowych,
+    - **b)** kierunek inwestycyjny analizy (nabycie/zbycie) wraz z ceną nabycia lub zbycia instrumentu finansowego oraz datą ważności analizy;
+
+- **6)** wskazanie, czy analiza była uprzednio przekazana innym klientom lub podana do publicznej wiadomości wraz z podaniem daty i godziny, o ile nastąpiło to w różnym terminie lub w umowie o świadczenie usługi maklerskiej została zawarta informacja o kolejności udostępniania analizy poszczególnym kategoriom klientów;
+- **7)** całkowitą wartość pobranych opłat i prowizji oraz zestawienie poszczególnych pozycji pobranych opłat i prowizji oraz innych kosztów związanych z udzieleniem rekomendacji, o ile opłaty i prowizje zostały pobrane.
+
+2. Sprawozdanie, o którym mowa w ust. 1, jest przekazywane raz na trzy miesiące.
+
+3. W przypadku gdy firma inwestycyjna przekazała lub udostępniła klientowi analizę, której treść obejmuje informacje, o których mowa w ust. 1, sprawozdanie, o którym mowa w ust. 1, w odniesieniu do tej analizy zawiera informacje, o których mowa w ust. 1 pkt 1–3, oraz oznaczenie instrumentu finansowego, którego dotyczyła analiza.
+
+4. W przypadku gdy usługa maklerska, o której mowa w art. 69 ust. 4 pkt 6 ustawy, jest świadczona na rzecz klienta jednorazowo, termin przekazania sprawozdania, o którym mowa w ust. 1, może zostać określony w umowie z klientem.
+
+5. Sprawozdanie, o którym mowa w ust. 1, może być przekazywane w formie wystandaryzowanej, pod warunkiem że forma ta jest przejrzysta i zrozumiała dla klienta.
+
+**§ 147.**
+
+1. W przypadku świadczenia usługi maklerskiej, o której mowa w art. 69 ust. 4 pkt 8 ustawy, firma inwestycyjna przekazuje klientowi, w zależności od rodzaju czynności, sprawozdania, których przedmiotem są instrumenty bazowe instrumentów pochodnych.
+
+2. W przypadku, o którym mowa w ust. 1, do zakresu, sposobu i terminów przekazywania sprawozdań klientowi, w przypadku gdy są wykonywane czynności, o których mowa w art. 69:
+
+- **1)** ust. 2 pkt 1 ustawy – przepis § 144,
+- **2)** ust. 2 pkt 2 ustawy – przepis art. 59 rozporządzenia 2017/565,
+- **3)** ust. 2 pkt 4 ustawy – przepisy art. 60 i art. 62 ust. 1 rozporządzenia 2017/565,
+- **4)** ust. 2 pkt 5 ustawy – przepis § 145,
+- **5)** ust. 4 pkt 1 ustawy – przepis art. 63 rozporządzenia 2017/565,
+- **6)** ust. 4 pkt 6 ustawy – przepis § 146 – stosuje się odpowiednio.
+
+**§ 148.** Przepisy § 144–147 stosuje się odpowiednio do banków, o których mowa w art. 70 ust. 2 ustawy.
+
 #### Rozdział 7 Przepis końcowy
+
+**§ 149.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: A. Domański
 

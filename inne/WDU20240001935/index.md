@@ -26,8 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001935) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1935/text.pdf) |
 
 zmieniające rozporządzenie w sprawie należności przysługujących sędziom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa Na podstawie art. 78a § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334 i 1907) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 maja 2008 r. w sprawie należności przysługujących sędziom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa (Dz. U. z 2018 r. poz. 1303) w § 2 ust. 2 i 3 otrzymują brzmienie: „2. Dodatek zagraniczny określa się jako należność miesięczną w wysokości dodatku zagranicznego przysługującego członkowi służby zagranicznej wykonującemu obowiązki w placówce zagranicznej na najniższym stanowisku personelu dyplomatyczno-konsularnego.
-3. Dodatek zagraniczny za jeden dzień wynosi 1/30 część pełnej kwoty dodatku zagranicznego.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-Minister Sprawiedliwości: A. Bodnar
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 maja 2008 r. w sprawie należności przysługujących sędziom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa (Dz. U. z 2018 r. poz. 1303) w § 2 ust. 2 i 3 otrzymują brzmienie:
+
+> „2. Dodatek zagraniczny określa się jako należność miesięczną w wysokości dodatku zagranicznego przysługującego członkowi służby zagranicznej wykonującemu obowiązki w placówce zagranicznej na najniższym stanowisku personelu dyplomatyczno-konsularnego.  
+> 3. Dodatek zagraniczny za jeden dzień wynosi 1/30 część pełnej kwoty dodatku zagranicznego.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. Minister Sprawiedliwości: A. Bodnar
 

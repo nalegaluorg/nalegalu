@@ -27,9 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług Na podstawie art. 28o i art. 92 ust. 1 pkt 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U.
 z 2018 r. poz. 2174, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 16 grudnia 2013 r. w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. z 2019 r. poz. 714) w § 6a w ust. 6 wyrazy „do kwoty 20 000 złotych” zastępuje się wyrazami „do kwoty 20 240 złotych”.
-§ 2. 1. Maksymalną kwotę zwrotu podatku określoną w § 6a ust. 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do zwrotu podatku, o którym w § 6a ust. 1 pkt 1 tego rozporządzenia, z tytułu nabycia towarów po dniu 31 grudnia 2018 r.
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 16 grudnia 2013 r. w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. z 2019 r. poz. 714) w § 6a w ust. 6 wyrazy „do kwoty 20 000 złotych” zastępuje się wyrazami „do kwoty 20 240 złotych”.
+
+**§ 2.**
+
+1. Maksymalną kwotę zwrotu podatku określoną w § 6a ust. 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do zwrotu podatku, o którym w § 6a ust. 1 pkt 1 tego rozporządzenia, z tytułu nabycia towarów po dniu 31 grudnia 2018 r.
+
 2. W przypadku gdy nabycia towarów, o których mowa w § 6a ust. 1 pkt 1 rozporządzenia zmienianego w § 1, dokonywane są w okresie 12 następujących po sobie miesięcy na przełomie lat 2018 i 2019, maksymalną kwotę zwrotu podatku oblicza się proporcjonalnie do wartości towarów nabytych w poszczególnych latach, z uwzględnieniem maksymalnej kwoty zwrotu podatku obowiązującej w tych latach.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński
 

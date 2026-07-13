@@ -27,17 +27,17 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym Na podstawie art. 125 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r.
 poz. 1805, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. z 2015 r. poz. 723, z 2016 r.
-poz. 269 i 1213 oraz z 2018 r. poz. 898) wprowadza się następujące zmiany:
-1) uchyla się § 1;
-2) w § 3 uchyla się ust. 1;
-3) w § 4 uchyla się ust. 1;
-4) w § 5 ust. 3 otrzymuje brzmienie: „3. Do wydruków komputerowych urzędowych formularzy nie stosuje się wymogów określonych w § 3 ust. 2–4.”;
-5) uchyla się załączniki nr 1–6 do rozporządzenia;
-6) załączniki nr 7 i 8 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803 i 852.
-Załączniki Załączniki do do rozporządzenia rozporządzenia Ministra Sprawiedliwości z dnia 7 lipca 2023 r. (Dz. U. poz. 1338) Ministra Sprawiedliwości z dnia 7 lipca 2023 r. (Dz. U. poz.
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 5 kwietnia 2012 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. z 2015 r. poz. 723, z 2016 r. poz. 269 i 1213 oraz z 2018 r. poz. 898) wprowadza się następujące zmiany:
+
+- **1)** uchyla się § 1;
+- **2)** w § 3 uchyla się ust. 1;
+- **3)** w § 4 uchyla się ust. 1;
+- **4)** w § 5 ust. 3 otrzymuje brzmienie: „3. Do wydruków komputerowych urzędowych formularzy nie stosuje się wymogów określonych w § 3 ust. 2–4.”;
+- **5)** uchyla się załączniki nr 1–6 do rozporządzenia;
+- **6)** załączniki nr 7 i 8 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459, z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687 oraz z 2023 r. poz. 289, 326, 403, 535, 556, 614, 739, 803 i 852. Załączniki Załączniki do do rozporządzenia rozporządzenia Ministra Sprawiedliwości z dnia 7 lipca 2023 r. (Dz. U. poz. 1338) Ministra Sprawiedliwości z dnia 7 lipca 2023 r. (Dz. U. poz.
 
 ## Załącznik nr 1 — ….) WZÓR Załącznik nr 1 WZÓR strona 1 KW-ZAL Adnotacja o wpłynięciu wniosku: Wniosek o założenie księgi wieczystej Rejestr Ksiąg Wieczystych Numer Dz. Kw: Uiszczono opłatę w kwocie (w zł): POUCZENIE • Formularz należy wypełnić w języku polskim, czytelnie, drukowanymi literami, bez skreśleń i poprawek, na maszynie, na komputerze lub ręcznie, zgodnie z opisem pól.
 

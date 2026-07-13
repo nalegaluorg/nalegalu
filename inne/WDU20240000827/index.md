@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk, którym przyznano zwolnienie ze stosowania przepisów Unii Europejskiej, oraz lotnisk dla śmigłowców, o których mowa w przepisach Unii Europejskiej Na podstawie art. 59a ust. 5 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110 oraz z 2024 r.
 poz. 731) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 10 października 2019 r. w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk, którym przyznano zwolnienie ze stosowania przepisów Unii Europejskiej, oraz lotnisk dla śmigłowców, o których mowa w przepisach Unii Europejskiej (Dz. U. z 2023 r. poz. 1593) w § 5 uchyla się ust. 4.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Infrastruktury: D. Klimczak
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 10 października 2019 r. w sprawie wymagań technicznych i eksploatacyjnych dla lotnisk, którym przyznano zwolnienie ze stosowania przepisów Unii Europejskiej, oraz lotnisk dla śmigłowców, o których mowa w przepisach Unii Europejskiej (Dz. U. z 2023 r. poz. 1593) w § 5 uchyla się ust. 4.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Infrastruktury: D. Klimczak
 

@@ -27,8 +27,10 @@ source: pdf
 
 w sprawie podmiotu odpowiedzialnego za prowadzenie katalogu marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, w tym gromadzenie danych w katalogu oraz ich weryfikację Na podstawie art. 80bh ust. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r.
 poz. 1137, z późn. zm. ) zarządza się, co następuje:
-§ 1. Podmiotem odpowiedzialnym za prowadzenie katalogu marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, w tym gromadzenie danych w katalogu oraz ich weryfikację, jest Instytut Transportu Samochodowego w Warszawie.
-§ 2. Traci moc rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. w sprawie podmiotu odpowiedzialnego za prowadzenie katalogu marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, w tym gromadzenie danych w katalogu oraz ich weryfikację (Dz. U. poz. 1967).
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem § 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury i Budownictwa: wz. K. Smoliński
+
+**§ 1.** Podmiotem odpowiedzialnym za prowadzenie katalogu marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, w tym gromadzenie danych w katalogu oraz ich weryfikację, jest Instytut Transportu Samochodowego w Warszawie.
+
+**§ 2.** Traci moc rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 10 listopada 2015 r. w sprawie podmiotu odpowiedzialnego za prowadzenie katalogu marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, w tym gromadzenie danych w katalogu oraz ich weryfikację (Dz. U. poz. 1967).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem § 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury i Budownictwa: wz. K. Smoliński
 

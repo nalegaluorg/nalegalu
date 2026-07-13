@@ -284,7 +284,11 @@ source: pdf
     - **b)** lit. b i c otrzymują brzmienie: „b) 5,99 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
     - **c)** 18,00 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny;”.
 
-**Art. 22.** W ustawie z dnia 5 sierpnia 2015 r. o zmianie ustawy o pomocy społecznej (Dz. U. poz. 1310) art. 2 otrzymuje brzmienie: „Art. 2. 1. W latach 2016 i 2017 kwota dotacji, o której mowa w art. 51c ust. 3 pkt 1 ustawy, o której mowa w art. 1, wynosi 200%. 2. W roku 2018 kwota dotacji, o której mowa w art. 51c ust. 3 pkt 1 ustawy, o której mowa w art. 1, wynosi 230%.”.
+**Art. 22.** W ustawie z dnia 5 sierpnia 2015 r. o zmianie ustawy o pomocy społecznej (Dz. U. poz. 1310) art. 2 otrzymuje brzmienie:
+
+> „Art. 2.  
+> 1. W latach 2016 i 2017 kwota dotacji, o której mowa w art. 51c ust. 3 pkt 1 ustawy, o której mowa w art. 1, wynosi 200%.  
+> 2. W roku 2018 kwota dotacji, o której mowa w art. 51c ust. 3 pkt 1 ustawy, o której mowa w art. 1, wynosi 230%.”.  
 
 **Art. 23.** W ustawie z dnia 22 czerwca 2016 r. o zmianie ustawy – Prawo łowieckie (Dz. U. poz. 1082) wprowadza się następujące zmiany:
 

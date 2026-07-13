@@ -26,10 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1675/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych Na podstawie art. 44zq ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2019 r. poz. 1481) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 24 sierpnia 2015 r. w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych (Dz. U.
-poz. 1258 oraz z 2018 r. poz. 1024) wprowadza się następujące zmiany:
-1) w § 15 w ust. 1 i 2 oraz w ust. 5 we wprowadzeniu do wyliczenia użyte wyrazy „art. 44k” zastępuje się wyrazami „art. 44zia”;
-2) w § 17 w ust. 1, 2, 4, 5, w ust. 7 we wprowadzeniu do wyliczenia, w ust. 8 i w ust. 11 we wprowadzeniu do wyliczenia użyte wyrazy „art. 44n” zastępuje się wyrazami „art. 44zla”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 24 sierpnia 2015 r. w sprawie szczegółowych warunków i sposobu oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych (Dz. U. poz. 1258 oraz z 2018 r. poz. 1024) wprowadza się następujące zmiany:
+
+- **1)** w § 15 w ust. 1 i 2 oraz w ust. 5 we wprowadzeniu do wyliczenia użyte wyrazy „art. 44k” zastępuje się wyrazami „art. 44zia”;
+- **2)** w § 17 w ust. 1, 2, 4, 5, w ust. 7 we wprowadzeniu do wyliczenia, w ust. 8 i w ust. 11 we wprowadzeniu do wyliczenia użyte wyrazy „art. 44n” zastępuje się wyrazami „art. 44zla”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

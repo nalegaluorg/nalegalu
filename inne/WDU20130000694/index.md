@@ -27,10 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz.
 z 2013 r. poz. 395) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 137, poz. 861, z 2010 r. Nr poz. 369 oraz z 2012 r. poz. 414) w § 4:
-1) pkt 2 otrzymuje brzmienie: „2) art. 126 ust. 1 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512);”;
-2) pkt 4 otrzymuje brzmienie: „4) art. 86 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690 i Nr 171, poz. 1016);”;
-3) dodaje się pkt 5 w brzmieniu: „5) art. 76 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455).”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 28 lipca 2008 r. w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 137, poz. 861, z 2010 r. Nr poz. 369 oraz z 2012 r. poz. 414) w § 4:
+
+- **1)** pkt 2 otrzymuje brzmienie: „2) art. 126 ust. 1 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512);”;
+- **2)** pkt 4 otrzymuje brzmienie: „4) art. 86 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690 i Nr 171, poz. 1016);”;
+- **3)** dodaje się pkt 5 w brzmieniu: „5) art. 76 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455).”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

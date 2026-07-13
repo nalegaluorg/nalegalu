@@ -26,18 +26,33 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001294) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1294/text.pdf) |
 
 w sprawie przeniesienia praw i obowiązków osoby korzystającej z procedury końcowego przeznaczenia Na podstawie art. 13a ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2015 r. poz. 858, 1649, 1844 i 1893 oraz z 2016 r. poz. 65 i 1228) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) tryb postępowania dla procedury końcowego przeznaczenia w przypadku przeniesienia praw i obowiązków osoby korzystającej z procedury końcowego przeznaczenia, jeżeli następuje ono na terytorium kraju;
-2) wzór dokumentu stosowanego w przypadku przeniesienia praw i obowiązków osoby korzystającej z procedury końcowego przeznaczenia, jeżeli to przeniesienie następuje na terytorium kraju.
-§ 2. 1. Posiadacz pozwolenia na stosowanie procedury końcowego przeznaczenia będący nadawcą towarów, zwany dalej „nadawcą”, przenosząc prawa i obowiązki osoby korzystającej z procedury końcowego przeznaczenia, wystawia Dokument Przekazania Towaru, wypełniając sekcję A tego dokumentu, i wysyła go z towarami do posiadacza pozwolenia na stosowanie procedury końcowego przeznaczenia będącego odbiorcą towarów, zwanego dalej „odbiorcą”.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** tryb postępowania dla procedury końcowego przeznaczenia w przypadku przeniesienia praw i obowiązków osoby korzystającej z procedury końcowego przeznaczenia, jeżeli następuje ono na terytorium kraju;
+- **2)** wzór dokumentu stosowanego w przypadku przeniesienia praw i obowiązków osoby korzystającej z procedury końcowego przeznaczenia, jeżeli to przeniesienie następuje na terytorium kraju.
+
+**§ 2.**
+
+1. Posiadacz pozwolenia na stosowanie procedury końcowego przeznaczenia będący nadawcą towarów, zwany dalej „nadawcą”, przenosząc prawa i obowiązki osoby korzystającej z procedury końcowego przeznaczenia, wystawia Dokument Przekazania Towaru, wypełniając sekcję A tego dokumentu, i wysyła go z towarami do posiadacza pozwolenia na stosowanie procedury końcowego przeznaczenia będącego odbiorcą towarów, zwanego dalej „odbiorcą”.
+
 2. Odbiorca niezwłocznie po odebraniu towarów wypełnia sekcję B Dokumentu Przekazania Towaru i odsyła ten dokument nadawcy. Odbiorca sporządza kopię Dokumentu Przekazania Towaru, którą pozostawia w dokumentacji.
+
 3. Wzór Dokumentu Przekazania Towaru stanowi załącznik do rozporządzenia.
-§ 3. 1. W przypadku wystąpienia rozbieżności między towarami przekazanymi a odebranymi odbiorca wyjaśnia przyczyny rozbieżności z nadawcą i koryguje Dokument Przekazania Towaru.
+
+**§ 3.**
+
+1. W przypadku wystąpienia rozbieżności między towarami przekazanymi a odebranymi odbiorca wyjaśnia przyczyny rozbieżności z nadawcą i koryguje Dokument Przekazania Towaru.
+
 2. W przypadku niewyjaśnienia z nadawcą przyczyn wystąpienia rozbieżności między towarami przekazanymi a odebranymi odbiorca sporządza protokół rozbieżności.
+
 3. Odbiorca informuje właściwy kontrolny urząd celny o odebraniu towarów w sposób określony w pozwoleniu.
+
 4. W przypadku sporządzenia protokołu rozbieżności protokół jest przekazywany wraz z informacją, o której mowa w ust. 3.
-§ 4. W przypadku gdy kontrolny urząd celny jest właściwy miejscowo dla nadawcy i odbiorcy, przeniesienie praw i obowiązków osoby korzystającej z procedury końcowego przeznaczenia może odbywać się bez Dokumentu Przekazania Towaru, po poinformowaniu organu celnego.
-§ 5. Do wysyłki towarów rozpoczętej i niezakończonej przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
-§ 6. Rozporządzenie wchodzi w życie z dniem 20 sierpnia 2016 r.
-Minister Finansów: P. Szałamacha Załącznik do rozporządzenia Ministra Finansów z dnia 18 sierpnia 2016 r. (poz. ........) WZÓR DOKUMENTU PRZEKAZANIA TOWARU WZÓR DOKUMENTU PRZEKAZANIA TOWARU
+
+**§ 4.** W przypadku gdy kontrolny urząd celny jest właściwy miejscowo dla nadawcy i odbiorcy, przeniesienie praw i obowiązków osoby korzystającej z procedury końcowego przeznaczenia może odbywać się bez Dokumentu Przekazania Towaru, po poinformowaniu organu celnego.
+
+**§ 5.** Do wysyłki towarów rozpoczętej i niezakończonej przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 6.** Rozporządzenie wchodzi w życie z dniem 20 sierpnia 2016 r. Minister Finansów: P. Szałamacha Załącznik do rozporządzenia Ministra Finansów z dnia 18 sierpnia 2016 r. (poz. ........) WZÓR DOKUMENTU PRZEKAZANIA TOWARU WZÓR DOKUMENTU PRZEKAZANIA TOWARU
 

@@ -26,18 +26,25 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1003/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty podstawowego wsparcia dochodów, płatności redystrybucyjnej, płatności dla młodych rolników, płatności związanych z produkcją do powierzchni upraw i płatności związanych z produkcją do zwierząt i przejściowego wsparcia krajowego w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 Na podstawie art. 70 ust. 1 i ust. 2 pkt 1–4 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 261 i 885) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 10 marca 2023 r. w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty podstawowego wsparcia dochodów, płatności redystrybucyjnej, płatności dla młodych rolników, płatności związanych z produkcją do powierzchni upraw i płatności związanych z produkcją do zwierząt i przejściowego wsparcia krajowego w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 482 oraz z 2024 r. poz. 343) wprowadza się następujące zmiany:
-1) w tytule w ogólnym określeniu przedmiotu rozporządzenia po wyrazie „zwierząt” dodaje się wyrazy „ , płatności dla małych gospodarstw”;
-2) w § 1:
-a) w pkt 1 po lit. d dodaje się lit. da w brzmieniu: „da) płatności, o której mowa w art. 28 rozporządzenia 2021/2115, zwanej dalej „płatnością dla małych gospodarstw”,”,
-b) w pkt 2 i 3 wyrazy „lit. a–d” zastępuje się wyrazami „lit. a–da”;
-3) w § 15 w ust. 1 we wprowadzeniu do wyliczenia po wyrazach „powierzchni upraw” dodaje się wyrazy „ , płatność dla małych gospodarstw”;
-4) w § 24 w ust. 2 uchyla się pkt 3.
-§ 2. 1. Do przyznawania pomocy, o której mowa w § 1 pkt 1 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, w sprawach objętych postępowaniami:
-1) wszczętymi przed dniem 15 marca 2024 r. i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
-2) wszczętymi przed dniem 15 marca 2024 r. i zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały one wznowione po dniu 14 marca 2024 r.
-– stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 10 marca 2023 r. w sprawie szczegółowych warunków i szczegółowego trybu przyznawania i wypłaty podstawowego wsparcia dochodów, płatności redystrybucyjnej, płatności dla młodych rolników, płatności związanych z produkcją do powierzchni upraw i płatności związanych z produkcją do zwierząt i przejściowego wsparcia krajowego w ramach Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 482 oraz z 2024 r. poz. 343) wprowadza się następujące zmiany:
+
+- **1)** w tytule w ogólnym określeniu przedmiotu rozporządzenia po wyrazie „zwierząt” dodaje się wyrazy „ , płatności dla małych gospodarstw”;
+- **2)** w § 1:
+    - **a)** w pkt 1 po lit. d dodaje się lit. da w brzmieniu: „da) płatności, o której mowa w art. 28 rozporządzenia 2021/2115, zwanej dalej „płatnością dla małych gospodarstw”,”,
+    - **b)** w pkt 2 i 3 wyrazy „lit. a–d” zastępuje się wyrazami „lit. a–da”;
+
+- **3)** w § 15 w ust. 1 we wprowadzeniu do wyliczenia po wyrazach „powierzchni upraw” dodaje się wyrazy „ , płatność dla małych gospodarstw”;
+- **4)** w § 24 w ust. 2 uchyla się pkt 3.
+
+**§ 2.**
+
+1. Do przyznawania pomocy, o której mowa w § 1 pkt 1 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, w sprawach objętych postępowaniami:
+
+- **1)** wszczętymi przed dniem 15 marca 2024 r. i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia,
+- **2)** wszczętymi przed dniem 15 marca 2024 r. i zakończonymi ostateczną decyzją wydaną na podstawie przepisów dotychczasowych, w przypadku gdy zostały one wznowione po dniu 14 marca 2024 r. – stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
 2. Do przyznawania pomocy, o której mowa w § 1 pkt 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, w sprawach objętych postępowaniami wszczętymi po dniu 14 marca 2024 r. i niezakończonymi ostateczną decyzją przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. S. Krajewski
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. S. Krajewski
 

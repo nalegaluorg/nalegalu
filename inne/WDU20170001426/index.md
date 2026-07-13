@@ -26,15 +26,24 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001426) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1426/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sprawozdawczości budżetowej w układzie zadaniowym Na podstawie art. 41 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 28 grudnia 2011 r. w sprawie sprawozdawczości budżetowej w układzie zadaniowym (Dz. U. poz. 1766) wprowadza się następujące zmiany:
-1) § 13 otrzymuje brzmienie: „§ 13. 1. Dysponenci części budżetowych i kierownicy jednostek sporządzają sprawozdania w formie dokumentu elektronicznego utworzonego przy użyciu aplikacji TrezorBZ udostępnionej na stronie internetowej Ministerstwa Finansów, opatrzonego kwalifikowanym podpisem elektronicznym. Dysponenci części budżetowych oraz dysponenci państwowych funduszy celowych i organy wykonujące funkcje organów założycielskich przekazują sprawozdania na elektroniczną skrzynkę podawczą Ministerstwa Finansów.
-2. Dysponenci części budżetowych i kierownicy jednostek, którzy nie dysponują podpisem elektronicznym, o którym mowa w ust. 1, sporządzają sprawozdania w postaci papierowej i elektronicznej utworzonej przy użyciu aplikacji TrezorBZ udostępnionej na stronie internetowej Ministerstwa Finansów.
-3. Kierownicy jednostek sporządzający sprawozdania w postaci elektronicznej zachowują kopie tych sprawozdań na informatycznym nośniku danych.
-4. Jeżeli z powodu awarii aplikacji udostępnionej na stronie internetowej Ministerstwa Finansów nie jest możliwe wypełnienie oraz przedłożenie sprawozdań, o których mowa w § 3 ust. 1, a zdarzenie to zostanie stwierdzone w komunikacie umieszczonym na stronie internetowej Ministerstwa Finansów, formularze te należy wypełnić i przekazać w sposób określony w tym komunikacie.
-5. W przypadku braku możliwości terminowego przekazania sprawozdań poprzez elektroniczną skrzynkę podawczą, spowodowanego nieprawidłowym działaniem systemu teleinformatycznego, sprawozdania przekazuje się najpóźniej pierwszego dnia roboczego następującego po dniu usunięcia tych nieprawidłowości.”;
-2) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. 1. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do sprawozdań za pierwsze półrocze 2017 r.
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 28 grudnia 2011 r. w sprawie sprawozdawczości budżetowej w układzie zadaniowym (Dz. U. poz. 1766) wprowadza się następujące zmiany:
+
+- **1)** § 13 otrzymuje brzmienie:
+
+  > „§ 13.  
+  > 1. Dysponenci części budżetowych i kierownicy jednostek sporządzają sprawozdania w formie dokumentu elektronicznego utworzonego przy użyciu aplikacji TrezorBZ udostępnionej na stronie internetowej Ministerstwa Finansów, opatrzonego kwalifikowanym podpisem elektronicznym. Dysponenci części budżetowych oraz dysponenci państwowych funduszy celowych i organy wykonujące funkcje organów założycielskich przekazują sprawozdania na elektroniczną skrzynkę podawczą Ministerstwa Finansów.  
+  > 2. Dysponenci części budżetowych i kierownicy jednostek, którzy nie dysponują podpisem elektronicznym, o którym mowa w ust. 1, sporządzają sprawozdania w postaci papierowej i elektronicznej utworzonej przy użyciu aplikacji TrezorBZ udostępnionej na stronie internetowej Ministerstwa Finansów.  
+  > 3. Kierownicy jednostek sporządzający sprawozdania w postaci elektronicznej zachowują kopie tych sprawozdań na informatycznym nośniku danych.  
+  > 4. Jeżeli z powodu awarii aplikacji udostępnionej na stronie internetowej Ministerstwa Finansów nie jest możliwe wypełnienie oraz przedłożenie sprawozdań, o których mowa w § 3 ust. 1, a zdarzenie to zostanie stwierdzone w komunikacie umieszczonym na stronie internetowej Ministerstwa Finansów, formularze te należy wypełnić i przekazać w sposób określony w tym komunikacie.  
+  > 5. W przypadku braku możliwości terminowego przekazania sprawozdań poprzez elektroniczną skrzynkę podawczą, spowodowanego nieprawidłowym działaniem systemu teleinformatycznego, sprawozdania przekazuje się najpóźniej pierwszego dnia roboczego następującego po dniu usunięcia tych nieprawidłowości.”;  
+- **2)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.**
+
+1. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do sprawozdań za pierwsze półrocze 2017 r.
+
 2. W załączniku nr 1 do rozporządzenia zmienianego w § 1 kolumny: 5a, 11a, 17a „Wydatki majątkowe z czwartą cyfrą „0”, „3” i „4”” wypełnia się po raz pierwszy w sprawozdaniu rocznym za 2017 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 15 lipca 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 15 lipca 2017 r. Minister Rozwoju i Finansów: wz. W. Janczyk
 

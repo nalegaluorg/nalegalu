@@ -31,11 +31,19 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Funduszy i Pol
 ROZPORZĄDZENIE MINISTRA FUNDUSZY I POLITYKI REGIONALNEJ z dnia 28 grudnia 2022 r.
 w sprawie nadania statutu Krajowemu Zasobowi Nieruchomości Na podstawie art. 4 ust. 6 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r.
 poz. 834 oraz z 2026 r. poz. 39 i 426) zarządza się, co następuje:
-§ 1. Krajowemu Zasobowi Nieruchomości nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 14 listopada 2017 r. w sprawie nadania statutu Krajowemu Zasobowi Nieruchomości (Dz. U. z 2020 r. poz. 1977).
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-STATUT KRAJOWEGO ZASOBU NIERUCHOMOŚCI
+
+**§ 1.** Krajowemu Zasobowi Nieruchomości nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 14 listopada 2017 r. w sprawie nadania statutu Krajowemu Zasobowi Nieruchomości (Dz. U. z 2020 r. poz. 1977).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia . STATUT KRAJOWEGO ZASOBU NIERUCHOMOŚCI
+
+#### Rozdział 1 Postanowienie ogólne
+
+## Załącznik
+
 § 1. Krajowy Zasób Nieruchomości, zwany dalej „KZN”, działa na podstawie ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834 oraz z 2026 r. poz. 39 i 426), zwanej dalej „ustawą”, oraz niniejszego statutu.
+Rozdział 2 Rada Nadzorcza KZN
 § 2. 1. Posiedzenia Rady Nadzorczej KZN odbywają się stosownie do potrzeb, jednak nie rzadziej niż raz na dwa miesiące.
 2. Posiedzenia Rady Nadzorczej KZN zwołuje Przewodniczący Rady Nadzorczej KZN, zwany dalej „Przewodniczącym”, z własnej inicjatywy albo na pisemny wniosek:
 1) ministra, o którym mowa w art. 31 ust. 3 ustawy;
@@ -73,6 +81,7 @@ STATUT KRAJOWEGO ZASOBU NIERUCHOMOŚCI
 4. Z podjęcia uchwały w trybie, o którym mowa w § 5 ust. 5, sporządza się protokół zawierający stanowisko poszczególnych członków Rady Nadzorczej KZN. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 5. Protokoły wraz z załącznikami, o których mowa w ust. 3, przechowuje się w Biurze KZN.
 § 7. Rada Nadzorcza KZN, w zakresie nieuregulowanym niniejszym statutem, może określić szczegółowy tryb swojej pracy w formie regulaminu.
+Rozdział 3 Prezes KZN i organizacja Biura KZN
 § 8. 1. W przypadku powołania dwóch zastępców Prezesa KZN Prezes KZN wyznacza spośród nich pierwszego zastępcę.
 2. Prezes KZN określa zakres zadań zastępców Prezesa KZN.
 3. Zastępca Prezesa KZN, a w przypadku, o którym mowa w ust. 1, pierwszy zastępca Prezesa KZN, wykonuje w stosunku do Prezesa KZN następujące czynności z zakresu prawa pracy:
@@ -104,10 +113,4 @@ STATUT KRAJOWEGO ZASOBU NIERUCHOMOŚCI
 3. Szczegółowy wykaz wydziałów, zespołów oraz samodzielnych stanowisk pracy, o których mowa w ust. 1, a także ich zakresy działania, jak również podporządkowanie organizacyjne określa regulamin Biura KZN.
 § 12. 1. Do realizacji określonych zadań Prezes KZN może powoływać stałe lub doraźne komisje problemowe.
 2. W skład komisji problemowych, o których mowa w ust. 1, wchodzą pracownicy Biura KZN oraz eksperci spośród przedstawicieli nauki i praktyki.
-
-#### Rozdział 1 Postanowienie ogólne
-
-#### Rozdział 2 Rada Nadzorcza KZN
-
-#### Rozdział 3 Prezes KZN i organizacja Biura KZN
 

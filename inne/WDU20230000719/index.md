@@ -38,181 +38,303 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 4) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie strzeżonych ośrodków i aresztów dla cudzoziemców (Dz. U. poz. 1482), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 24 kwietnia 2015 r.
 w sprawie strzeżonych ośrodków i aresztów dla cudzoziemców Na podstawie art. 427 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) warunki, jakim powinny odpowiadać strzeżone ośrodki i areszty dla cudzoziemców;
-2) regulamin organizacyjno-porządkowy pobytu cudzoziemców w strzeżonym ośrodku i areszcie dla cudzoziemców;
-3) warunki otrzymywania posiłków i napojów przez cudzoziemców umieszczonych w strzeżonym ośrodku lub przebywających w areszcie dla cudzoziemców oraz wartość dziennej normy wyżywienia.
-§ 2. W strzeżonym ośrodku dla cudzoziemców, zwanym dalej „strzeżonym ośrodkiem”, znajdują się pomieszczenia mieszkalne i administracyjno-gospodarcze oraz plac rekreacyjno-sportowy.
-§ 3. 1. W skład pomieszczeń mieszkalnych strzeżonego ośrodka wchodzą:
-1) pokoje dla cudzoziemców, w tym pokoje dla małoletnich cudzoziemców przebywających w strzeżonym ośrodku bez opiekuna zlokalizowane w wyodrębnionej części strzeżonego ośrodka;
-2) pokój izolacyjny;
-3) biblioteka;
-4) pomieszczenia do zajęć kulturalno-oświatowych i sportowych;
-5) pomieszczenie, w którym znajdują się stanowiska komputerowe z dostępem do sieci Internet;
-6) pomieszczenie do wykonywania praktyk religijnych;
-7) umywalnie;
-8) ustępy.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** warunki, jakim powinny odpowiadać strzeżone ośrodki i areszty dla cudzoziemców;
+- **2)** regulamin organizacyjno-porządkowy pobytu cudzoziemców w strzeżonym ośrodku i areszcie dla cudzoziemców;
+- **3)** warunki otrzymywania posiłków i napojów przez cudzoziemców umieszczonych w strzeżonym ośrodku lub przebywających w areszcie dla cudzoziemców oraz wartość dziennej normy wyżywienia.
+
+**§ 2.** W strzeżonym ośrodku dla cudzoziemców, zwanym dalej „strzeżonym ośrodkiem”, znajdują się pomieszczenia mieszkalne i administracyjno-gospodarcze oraz plac rekreacyjno-sportowy.
+
+**§ 3.**
+
+1. W skład pomieszczeń mieszkalnych strzeżonego ośrodka wchodzą:
+
+- **1)** pokoje dla cudzoziemców, w tym pokoje dla małoletnich cudzoziemców przebywających w strzeżonym ośrodku bez opiekuna zlokalizowane w wyodrębnionej części strzeżonego ośrodka;
+- **2)** pokój izolacyjny;
+- **3)** biblioteka;
+- **4)** pomieszczenia do zajęć kulturalno-oświatowych i sportowych;
+- **5)** pomieszczenie, w którym znajdują się stanowiska komputerowe z dostępem do sieci Internet;
+- **6)** pomieszczenie do wykonywania praktyk religijnych;
+- **7)** umywalnie;
+- **8)** ustępy.
+
 2. W skład pomieszczeń administracyjno-gospodarczych strzeżonego ośrodka wchodzą:
-1) pomieszczenie służby dyżurnej;
-2) pokój do przeprowadzania i dokumentowania czynności służbowych z udziałem cudzoziemca;
-3) ambulatorium;
-4) izolatka dla chorych;
-5) pokój widzeń;
-6) kuchnia albo pomieszczenie do podgrzewania i porcjowania posiłków, albo pomieszczenie do wydawania posiłków;
-7) stołówka;
-8) magazyny do przechowywania rzeczy cudzoziemców przekazanych do depozytu oraz czystej i brudnej pościeli;
-9) pomieszczenia służące do odkażania, czyszczenia oraz suszenia odzieży i obuwia.
+
+- **1)** pomieszczenie służby dyżurnej;
+- **2)** pokój do przeprowadzania i dokumentowania czynności służbowych z udziałem cudzoziemca;
+- **3)** ambulatorium;
+- **4)** izolatka dla chorych;
+- **5)** pokój widzeń;
+- **6)** kuchnia albo pomieszczenie do podgrzewania i porcjowania posiłków, albo pomieszczenie do wydawania posiłków;
+- **7)** stołówka;
+- **8)** magazyny do przechowywania rzeczy cudzoziemców przekazanych do depozytu oraz czystej i brudnej pościeli;
+- **9)** pomieszczenia służące do odkażania, czyszczenia oraz suszenia odzieży i obuwia.
+
 2a. W strzeżonym ośrodku można nie wydzielać pomieszczeń, o których mowa w ust. 2 pkt 9, w przypadku gdy usługi związane z odkażaniem, czyszczeniem oraz suszeniem odzieży i obuwia są świadczone poza strzeżonym ośrodkiem.
+
 3. W skład pomieszczeń mieszkalnych lub administracyjno-gospodarczych strzeżonego ośrodka może wchodzić także pralnia.
-§ 3a. 1. Pomieszczenia mieszkalne strzeżonego ośrodka, o których mowa w § 3 ust. 1 pkt 1, 7 i 8, mogą być usytuowane w kontenerach mieszkalnych z wydzielonym węzłem sanitarnym z misą ustępową, umywalką i urządzeniem natryskowym.
+
+**§ 3a.**
+
+1. Pomieszczenia mieszkalne strzeżonego ośrodka, o których mowa w § 3 ust. 1 pkt 1, 7 i 8, mogą być usytuowane w kontenerach mieszkalnych z wydzielonym węzłem sanitarnym z misą ustępową, umywalką i urządzeniem natryskowym.
+
 2. Kontenery, o których mowa w ust. 1, spełniają wymogi określone w § 5 pkt 2–4 i § 6.
+
 3. Cudzoziemca można umieścić w pokoju dla cudzoziemców usytuowanym w kontenerach, o których mowa w ust. 1, jeżeli strzeżony ośrodek nie posiada wolnych miejsc w pokojach dla cudzoziemców.
-§ 3b. 1. W przypadku gdy zachodzą szczególne okoliczności uzasadnione potrzebą zlokalizowania poza strzeżonym ośrodkiem, na czas określony, nie dłuższy niż 12 miesięcy, pomieszczeń mieszkalnych i administracyjno-gospodarczych, o których mowa w § 3, dopuszcza się ich usytuowanie w budynkach położonych poza terenem strzeżonego ośrodka.
+
+**§ 3b.**
+
+1. W przypadku gdy zachodzą szczególne okoliczności uzasadnione potrzebą zlokalizowania poza strzeżonym ośrodkiem, na czas określony, nie dłuższy niż 12 miesięcy, pomieszczeń mieszkalnych i administracyjno-gospodarczych, o których mowa w § 3, dopuszcza się ich usytuowanie w budynkach położonych poza terenem strzeżonego ośrodka.
+
 2. W budynkach, o których mowa w ust. 1, nie wydziela się pokoju izolacyjnego i izolatki dla chorych.
+
 3. Do budynków, o których mowa w ust. 1, nie stosuje się przepisów § 6 pkt 2, § 7 ust. 5 i § 10 ust. 2 i 3.
-§ 4. 1. Pomieszczenia wchodzące w skład strzeżonego ośrodka mogą być wyposażone w urządzenia służące do obserwowania i rejestrowania obrazu, działające w systemie całodobowym.
+
+**§ 4.**
+
+1. Pomieszczenia wchodzące w skład strzeżonego ośrodka mogą być wyposażone w urządzenia służące do obserwowania i rejestrowania obrazu, działające w systemie całodobowym.
+
 2. W przypadku, o którym mowa w ust. 1, informacja o prowadzeniu obserwacji pomieszczeń i rejestrowaniu obrazu jest umieszczona w widocznym miejscu, przy wejściu do strzeżonego ośrodka i na kondygnacjach mieszkalnych strzeżonego ośrodka.
+
 3. Strzeżony ośrodek może być wyposażony w system umożliwiający przekazywanie komunikatów głosowych.
-§ 5. Pomieszczenia wchodzące w skład strzeżonego ośrodka:
-1) są otynkowane zaprawą cementowo-wapienną i pomalowane farbą zmywalną;
-2) mają zmywalne i odporne na działanie wilgoci powierzchnie ścian w pomieszczeniu służącym do odkażania, czyszczenia oraz suszenia odzieży i obuwia oraz w umywalniach i ustępach – do wysokości co najmniej 2 m;
-3) są wyposażone w zmywalną, nienasiąkliwą i nieśliską posadzkę – w umywalniach, ustępach i pralni;
-4) są wyposażone w punkty świetlne umieszczone na suficie oraz w gniazda wtykowe.
-§ 6. Pokoje dla cudzoziemców w strzeżonym ośrodku są wyposażone w:
-1) podłogę trwałą i zmywalną;
-2) okna uchylne, których stosunek powierzchni liczonej w świetle ościeżnic stanowi nie mniej niż / powierzchni podłogi, z zainstalowaną na zewnątrz kratą z prętów lub płaskowników, albo okna, których stosunek powierzchni liczonej w świetle ościeżnic stanowi nie mniej niż / powierzchni podłogi, o konstrukcji zapewniającej bezpieczeństwo oraz udaremnienie ucieczki cudzoziemca, z których co najmniej jedno jest uchylne;
-3) ogrzewanie zapewniające temperaturę według norm określonych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682 i 553);
-4) wentylację grawitacyjną lub mechaniczną, z otworem wentylacyjnym, zapewniającą półtorakrotną wymianę powietrza w ciągu godziny;
-5) łóżka jednoosobowe lub łóżka piętrowe, szafki na rzeczy osobiste oraz stoły, taborety lub krzesła bez ostrych krawędzi;
-6) łóżeczka dziecięce, stoły do przewijania, wanienki do kąpieli – na wniosek cudzoziemca – w pokojach dla cudzoziemców, w których umieszcza się cudzoziemców wraz z małoletnimi pozostającymi pod ich opieką.
-§ 7. 1. Pomieszczenie służby dyżurnej w strzeżonym ośrodku jest wyposażone w instalację telekomunikacyjną umożliwiającą połączenie w ramach krajowego systemu powiadamiania alarmowego oraz połączenie z dyżurnym właściwej jednostki organizacyjnej Straży Granicznej.
+
+**§ 5.** Pomieszczenia wchodzące w skład strzeżonego ośrodka:
+
+- **1)** są otynkowane zaprawą cementowo-wapienną i pomalowane farbą zmywalną;
+- **2)** mają zmywalne i odporne na działanie wilgoci powierzchnie ścian w pomieszczeniu służącym do odkażania, czyszczenia oraz suszenia odzieży i obuwia oraz w umywalniach i ustępach – do wysokości co najmniej 2 m;
+- **3)** są wyposażone w zmywalną, nienasiąkliwą i nieśliską posadzkę – w umywalniach, ustępach i pralni;
+- **4)** są wyposażone w punkty świetlne umieszczone na suficie oraz w gniazda wtykowe.
+
+**§ 6.** Pokoje dla cudzoziemców w strzeżonym ośrodku są wyposażone w:
+
+- **1)** podłogę trwałą i zmywalną;
+- **2)** okna uchylne, których stosunek powierzchni liczonej w świetle ościeżnic stanowi nie mniej niż / powierzchni podłogi, z zainstalowaną na zewnątrz kratą z prętów lub płaskowników, albo okna, których stosunek powierzchni liczonej w świetle ościeżnic stanowi nie mniej niż / powierzchni podłogi, o konstrukcji zapewniającej bezpieczeństwo oraz udaremnienie ucieczki cudzoziemca, z których co najmniej jedno jest uchylne;
+- **3)** ogrzewanie zapewniające temperaturę według norm określonych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682 i 553);
+- **4)** wentylację grawitacyjną lub mechaniczną, z otworem wentylacyjnym, zapewniającą półtorakrotną wymianę powietrza w ciągu godziny;
+- **5)** łóżka jednoosobowe lub łóżka piętrowe, szafki na rzeczy osobiste oraz stoły, taborety lub krzesła bez ostrych krawędzi;
+- **6)** łóżeczka dziecięce, stoły do przewijania, wanienki do kąpieli – na wniosek cudzoziemca – w pokojach dla cudzoziemców, w których umieszcza się cudzoziemców wraz z małoletnimi pozostającymi pod ich opieką.
+
+**§ 7.**
+
+1. Pomieszczenie służby dyżurnej w strzeżonym ośrodku jest wyposażone w instalację telekomunikacyjną umożliwiającą połączenie w ramach krajowego systemu powiadamiania alarmowego oraz połączenie z dyżurnym właściwej jednostki organizacyjnej Straży Granicznej.
+
 2. (uchylony).
+
 3. Izolatka dla chorych w strzeżonym ośrodku spełnia wymogi określone w § 6 oraz jest wyposażona w osobny węzeł sanitarny.
+
 4. Pokój widzeń w strzeżonym ośrodku spełnia warunki określone w § 6 pkt 1–4, posiada oświetlenie umożliwiające czytanie i pisanie oraz jest wyposażony w taborety lub krzesła i stół.
+
 5. Umywalnie i ustępy w pomieszczeniach mieszkalnych znajdują się na każdej kondygnacji i spełniają następujące warunki:
-1) są wyposażone w co najmniej:
-a) 1 miskę ustępową na każde 20 osób,
-b) 1 urządzenie natryskowe na każde 15 osób,
-c) 1 umywalkę na każde 5 osób,
-d) 1 pisuar na każdych 20 mężczyzn;
-2) umywalnie są wyposażone w umywalki z dopływem ciepłej i zimnej wody oraz wydzielony natrysk i kabinę ustępową;
-3) w ustępach przegrody dzielące kabiny, w których umieszczone są miski ustępowe, są wykonane ze ściany pełnej na całą wysokość pomieszczenia lub mają wysokość nie mniejszą niż 2 m i są trwale przytwierdzone do podłogi i ściany, z drzwiami o górnej krawędzi na wysokości nie mniejszej niż 2 m i dolnej znajdującej się 0,3 m nad podłogą;
-4) ustępy są wyposażone w:
-a) co najmniej 1 umywalkę z dopływem ciepłej i zimnej wody na każde 3 miski ustępowe lub 3 pisuary,
-b) miski ustępowe spłukiwane za pomocą automatu ukrytego w ścianie;
-5) woda do umywalni, w tym do natrysku, oraz do ustępu doprowadzana jest przez mieszacz zlokalizowany w miejscu niedostępnym dla cudzoziemców;
-6) drzwi do umywalni, kabin z urządzeniami natryskowymi i ustępów są wyposażone w matową szybę z nietłukącego się szkła lub zwykłą szybę zabezpieczoną obustronnie siatką stalową lub w inny nieprzezroczysty, odporny na wilgoć i uderzenia materiał;
-7) w umywalniach udostępnionych odrębnie dla kobiet i mężczyzn dopuszcza się stosowanie w otworach wejściowych do kabin z urządzeniami natryskowymi nieprzemakalnych i nieprzezroczystych zasłon.
+
+- **1)** są wyposażone w co najmniej:
+    - **a)** 1 miskę ustępową na każde 20 osób,
+    - **b)** 1 urządzenie natryskowe na każde 15 osób,
+    - **c)** 1 umywalkę na każde 5 osób,
+    - **d)** 1 pisuar na każdych 20 mężczyzn;
+
+- **2)** umywalnie są wyposażone w umywalki z dopływem ciepłej i zimnej wody oraz wydzielony natrysk i kabinę ustępową;
+- **3)** w ustępach przegrody dzielące kabiny, w których umieszczone są miski ustępowe, są wykonane ze ściany pełnej na całą wysokość pomieszczenia lub mają wysokość nie mniejszą niż 2 m i są trwale przytwierdzone do podłogi i ściany, z drzwiami o górnej krawędzi na wysokości nie mniejszej niż 2 m i dolnej znajdującej się 0,3 m nad podłogą;
+- **4)** ustępy są wyposażone w:
+    - **a)** co najmniej 1 umywalkę z dopływem ciepłej i zimnej wody na każde 3 miski ustępowe lub 3 pisuary,
+    - **b)** miski ustępowe spłukiwane za pomocą automatu ukrytego w ścianie;
+
+- **5)** woda do umywalni, w tym do natrysku, oraz do ustępu doprowadzana jest przez mieszacz zlokalizowany w miejscu niedostępnym dla cudzoziemców;
+- **6)** drzwi do umywalni, kabin z urządzeniami natryskowymi i ustępów są wyposażone w matową szybę z nietłukącego się szkła lub zwykłą szybę zabezpieczoną obustronnie siatką stalową lub w inny nieprzezroczysty, odporny na wilgoć i uderzenia materiał;
+- **7)** w umywalniach udostępnionych odrębnie dla kobiet i mężczyzn dopuszcza się stosowanie w otworach wejściowych do kabin z urządzeniami natryskowymi nieprzemakalnych i nieprzezroczystych zasłon.
+
 6. W przypadku gdy liczba cudzoziemców umieszczonych na jednej kondygnacji jest mniejsza niż 10, dopuszcza się możliwość braku umywalni i ustępów na tej kondygnacji, jeśli cudzoziemcy ci mają możliwość korzystania z umywalni i ustępów usytuowanych na sąsiedniej kondygnacji.
-§ 8. W miejscach ogólnodostępnych strzeżonego ośrodka mogą być zainstalowane aparaty publiczne w rozumieniu przepisów ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581), w których połączenie opłacane jest automatycznie za pomocą karty telefonicznej.
-§ 9. 1. Plac rekreacyjno-sportowy posiada w szczególności:
-1) utwardzone boisko do gier zespołowych;
-2) plac zabaw dla dzieci wyposażony w urządzenia do zabaw – w strzeżonym ośrodku, w którym umieszcza się małoletnich.
+
+**§ 8.** W miejscach ogólnodostępnych strzeżonego ośrodka mogą być zainstalowane aparaty publiczne w rozumieniu przepisów ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648, 1933 i 2581), w których połączenie opłacane jest automatycznie za pomocą karty telefonicznej.
+
+**§ 9.**
+
+1. Plac rekreacyjno-sportowy posiada w szczególności:
+
+- **1)** utwardzone boisko do gier zespołowych;
+- **2)** plac zabaw dla dzieci wyposażony w urządzenia do zabaw – w strzeżonym ośrodku, w którym umieszcza się małoletnich.
+
 2. Plac rekreacyjno-sportowy, w przypadku gdy usytuowany jest on w bezpośrednim sąsiedztwie pomieszczeń administracyjno-gospodarczych, może być oddzielony ogrodzeniem z siatki stalowej o wysokości 3,5 m.
-§ 10. 1. Teren strzeżonego ośrodka jest zabezpieczony ogrodzeniem ochronnym.
+
+**§ 10.**
+
+1. Teren strzeżonego ośrodka jest zabezpieczony ogrodzeniem ochronnym.
+
 2. Na ogrodzenie ochronne strzeżonego ośrodka składa się:
-1) ogrodzenie zewnętrzne wykonane z materiału pełnego do wysokości nie mniejszej niż 3 m, usytuowane na betonowej podmurówce umieszczonej w ziemi do głębokości co najmniej 0,7 m i zakończone nachylonymi pod kątem od 30° do 45° odkosami skierowanymi do wewnątrz ośrodka o długości od 1 m do 1,5 m z rozciągniętym drutem kolczastym;
-2) ogrodzenie wewnętrzne wykonane z siatki metalowej o wysokości nie mniejszej niż 2 m i zakończone nachylonymi pod kątem od 30° do 45° odkosami skierowanymi do wewnątrz ośrodka o długości do 0,5 m z rozciągniętym drutem kolczastym;
-3) pas ochronny o szerokości co najmniej 3 m, znajdujący się pomiędzy ogrodzeniem zewnętrznym a wewnętrznym;
-4) oświetlenie pasa ochronnego zapewniające widoczność w warunkach zmniejszonej przejrzystości powietrza oraz w porze wieczorowo-nocnej i wyposażone w co najmniej dwa niezależne od siebie źródła energii elektrycznej.
+
+- **1)** ogrodzenie zewnętrzne wykonane z materiału pełnego do wysokości nie mniejszej niż 3 m, usytuowane na betonowej podmurówce umieszczonej w ziemi do głębokości co najmniej 0,7 m i zakończone nachylonymi pod kątem od 30° do 45° odkosami skierowanymi do wewnątrz ośrodka o długości od 1 m do 1,5 m z rozciągniętym drutem kolczastym;
+- **2)** ogrodzenie wewnętrzne wykonane z siatki metalowej o wysokości nie mniejszej niż 2 m i zakończone nachylonymi pod kątem od 30° do 45° odkosami skierowanymi do wewnątrz ośrodka o długości do 0,5 m z rozciągniętym drutem kolczastym;
+- **3)** pas ochronny o szerokości co najmniej 3 m, znajdujący się pomiędzy ogrodzeniem zewnętrznym a wewnętrznym;
+- **4)** oświetlenie pasa ochronnego zapewniające widoczność w warunkach zmniejszonej przejrzystości powietrza oraz w porze wieczorowo-nocnej i wyposażone w co najmniej dwa niezależne od siebie źródła energii elektrycznej.
+
 3. W przypadku lokalizacji strzeżonego ośrodka na terenie zamkniętym, chronionym przez całą dobę, na ogrodzenie ochronne strzeżonego ośrodka może się składać:
-1) jednolite ogrodzenie spełniające wymogi, o których mowa w ust. 2 pkt 1;
-2) oświetlenie ogrodzenia zapewniające widoczność w warunkach zmniejszonej przejrzystości powietrza oraz w porze wieczorowo-nocnej, wyposażone w co najmniej dwa niezależne od siebie źródła energii elektrycznej.
+
+- **1)** jednolite ogrodzenie spełniające wymogi, o których mowa w ust. 2 pkt 1;
+- **2)** oświetlenie ogrodzenia zapewniające widoczność w warunkach zmniejszonej przejrzystości powietrza oraz w porze wieczorowo-nocnej, wyposażone w co najmniej dwa niezależne od siebie źródła energii elektrycznej.
+
 4. Ogrodzenie ochronne strzeżonego ośrodka może być wyposażone w techniczne środki zabezpieczenia, w tym elektroniczne urządzenia zabezpieczenia, jeżeli ich zastosowanie nie będzie stanowić zagrożenia dla życia i zdrowia ludzi.
-§ 11. Areszt dla cudzoziemców, zwany dalej „aresztem”, jest zlokalizowany na pierwszej kondygnacji nadziemnej budynku, chyba że uniemożliwiają to układ funkcjonalny i przestrzenny, ustrój konstrukcyjny oraz rozwiązania techniczne i materiałowe tej kondygnacji.
-§ 12. 1. W skład aresztu wchodzą:
-1) pomieszczenie służby dyżurnej;
-2) cele mieszkalne;
-3) ambulatorium;
-4) pokój widzeń;
-5) pomieszczenie do podgrzewania i porcjowania posiłków;
-6) zmywalnia naczyń i sprzętu;
-7) magazyny do przechowywania rzeczy cudzoziemców przekazanych do depozytu oraz czystej i brudnej pościeli;
-8) umywalnie;
-9) ustępy;
-10) biblioteka;
-11) pomieszczenia do zajęć kulturalno-oświatowych i sportowych;
-12) pomieszczenie do wykonywania praktyk religijnych.
+
+**§ 11.** Areszt dla cudzoziemców, zwany dalej „aresztem”, jest zlokalizowany na pierwszej kondygnacji nadziemnej budynku, chyba że uniemożliwiają to układ funkcjonalny i przestrzenny, ustrój konstrukcyjny oraz rozwiązania techniczne i materiałowe tej kondygnacji.
+
+**§ 12.**
+
+1. W skład aresztu wchodzą:
+
+- **1)** pomieszczenie służby dyżurnej;
+- **2)** cele mieszkalne;
+- **3)** ambulatorium;
+- **4)** pokój widzeń;
+- **5)** pomieszczenie do podgrzewania i porcjowania posiłków;
+- **6)** zmywalnia naczyń i sprzętu;
+- **7)** magazyny do przechowywania rzeczy cudzoziemców przekazanych do depozytu oraz czystej i brudnej pościeli;
+- **8)** umywalnie;
+- **9)** ustępy;
+- **10)** biblioteka;
+- **11)** pomieszczenia do zajęć kulturalno-oświatowych i sportowych;
+- **12)** pomieszczenie do wykonywania praktyk religijnych.
+
 2. W przypadku braku możliwości wyodrębnienia z pomieszczeń aresztu zmywalni naczyń i sprzętu dopuszcza się, aby jej funkcje przejęło pomieszczenie do podgrzewania i porcjowania posiłków, jeżeli pomieszczenie to jest wyposażone w dwukomorowy zlewozmywak z dopływem ciepłej i zimnej wody oraz zawór ze złączką do węża.
+
 3. W areszcie nie wydziela się pomieszczenia, o którym mowa w ust. 1 pkt 5 i 6, jeżeli areszt usytuowany jest w budynku strzeżonego ośrodka, w którym znajduje się kuchnia albo pomieszczenie do podgrzewania i porcjowania posiłków, oraz można nie wydzielać tych pomieszczeń, jeżeli do aresztu dostarcza się gotowe posiłki w naczyniach jednorazowych.
-§ 13. 1. Przy areszcie wyznacza się plac spacerowy.
+
+**§ 13.**
+
+1. Przy areszcie wyznacza się plac spacerowy.
+
 2. Plac spacerowy jest zabezpieczony ogrodzeniem o wysokości nie mniejszej niż 3,5 m, przykrytym od góry stalową siatką albo wyposażonym w nachylone do wewnątrz odkosy z rozciągniętym na nich drutem kolczastym.
-§ 14. 1. W przypadku gdy ze względów technicznych nie jest możliwe wydzielenie w areszcie pomieszczeń, o których mowa w § 12 ust. 1 pkt 3–6 i 10–12, dopuszcza się zlokalizowanie ich poza aresztem, w zespole budynków jednostki organizacyjnej Straży Granicznej, w tym na terenie strzeżonego ośrodka.
+
+**§ 14.**
+
+1. W przypadku gdy ze względów technicznych nie jest możliwe wydzielenie w areszcie pomieszczeń, o których mowa w § 12 ust. 1 pkt 3–6 i 10–12, dopuszcza się zlokalizowanie ich poza aresztem, w zespole budynków jednostki organizacyjnej Straży Granicznej, w tym na terenie strzeżonego ośrodka.
+
 2. W przypadku, o którym mowa w ust. 1, dopuszcza się możliwość wydzielenia w areszcie magazynu do przechowywania rzeczy cudzoziemców przekazanych do depozytu oraz wydzielenia magazynu do przechowywania czystej i brudnej pościeli oraz zlokalizowania ich poza aresztem, w zespole budynków jednostki organizacyjnej Straży Granicznej, w tym na terenie strzeżonego ośrodka.
-§ 15. Wejścia do aresztu i wyjścia z niego są zabezpieczone stalową kratą i drzwiami odpornymi na zniszczenie z atestowanymi zamkami.
-§ 16. Pomieszczenia wchodzące w skład aresztu są:
-1) otynkowane zaprawą cementowo-wapienną i pomalowane farbą zmywalną;
-2) wyposażone w zmywalną, nienasiąkliwą i nieśliską posadzkę – w umywalniach i ustępach;
-3) wyposażone w punkty świetlne umieszczone na suficie oraz w gniazda wtykowe.
-§ 17. 1. Cele mieszkalne w areszcie są wyposażone w:
-1) ściany wewnętrzne i zewnętrzne wykonane z cegły pełnej na zaprawie cementowej, o grubości co najmniej 1,5 cegły, lub z innych materiałów o nie mniejszej wytrzymałości;
-2) trwałą i zmywalną podłogę;
-3) okna uchylne w grubości muru, których stosunek powierzchni liczonej w świetle ościeżnic stanowi nie mniej niż / powierzchni podłogi, zabezpieczone na zewnątrz kratą z prętów lub płaskowników, a od wewnątrz siatką stalową, o konstrukcji trwale udaremniającej ucieczkę cudzoziemca;
-4) punkty świetlne zabezpieczone siatką stalową lub nietłukącym się szkłem zapewniające oświetlenie do pisania i czytania oraz w gniazda wtykowe;
-5) ogrzewanie zapewniające temperaturę według norm określonych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
-6) wentylację grawitacyjną lub mechaniczną, zapewniającą półtorakrotną wymianę powietrza w ciągu godziny, z otworem wentylacyjnym zabezpieczonym siatką stalową;
-7) łóżka jednoosobowe, szafki na rzeczy osobiste oraz drewniane stoły i taborety bez ostrych krawędzi, przymocowane do podłogi lub ściany;
-8) przyciski do wzywania pomocy pod bezpiecznym napięciem elektrycznym;
-9) drzwi odporne na zniszczenie otwierane na zewnątrz z wizjerem stożkowym na wysokości 1,5 m, zabezpieczonym od strony celi mieszkalnej szkłem hartowanym i z drugiej strony ruchomą zasłoną, z dwiema zasuwami i atestowanym zamkiem oraz łańcuchem zabezpieczającym.
+
+**§ 15.** Wejścia do aresztu i wyjścia z niego są zabezpieczone stalową kratą i drzwiami odpornymi na zniszczenie z atestowanymi zamkami.
+
+**§ 16.** Pomieszczenia wchodzące w skład aresztu są:
+
+- **1)** otynkowane zaprawą cementowo-wapienną i pomalowane farbą zmywalną;
+- **2)** wyposażone w zmywalną, nienasiąkliwą i nieśliską posadzkę – w umywalniach i ustępach;
+- **3)** wyposażone w punkty świetlne umieszczone na suficie oraz w gniazda wtykowe.
+
+**§ 17.**
+
+1. Cele mieszkalne w areszcie są wyposażone w:
+
+- **1)** ściany wewnętrzne i zewnętrzne wykonane z cegły pełnej na zaprawie cementowej, o grubości co najmniej 1,5 cegły, lub z innych materiałów o nie mniejszej wytrzymałości;
+- **2)** trwałą i zmywalną podłogę;
+- **3)** okna uchylne w grubości muru, których stosunek powierzchni liczonej w świetle ościeżnic stanowi nie mniej niż / powierzchni podłogi, zabezpieczone na zewnątrz kratą z prętów lub płaskowników, a od wewnątrz siatką stalową, o konstrukcji trwale udaremniającej ucieczkę cudzoziemca;
+- **4)** punkty świetlne zabezpieczone siatką stalową lub nietłukącym się szkłem zapewniające oświetlenie do pisania i czytania oraz w gniazda wtykowe;
+- **5)** ogrzewanie zapewniające temperaturę według norm określonych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **6)** wentylację grawitacyjną lub mechaniczną, zapewniającą półtorakrotną wymianę powietrza w ciągu godziny, z otworem wentylacyjnym zabezpieczonym siatką stalową;
+- **7)** łóżka jednoosobowe, szafki na rzeczy osobiste oraz drewniane stoły i taborety bez ostrych krawędzi, przymocowane do podłogi lub ściany;
+- **8)** przyciski do wzywania pomocy pod bezpiecznym napięciem elektrycznym;
+- **9)** drzwi odporne na zniszczenie otwierane na zewnątrz z wizjerem stożkowym na wysokości 1,5 m, zabezpieczonym od strony celi mieszkalnej szkłem hartowanym i z drugiej strony ruchomą zasłoną, z dwiema zasuwami i atestowanym zamkiem oraz łańcuchem zabezpieczającym.
+
 2. Cele mieszkalne mogą być wyposażone w ustęp przenośny lub stały, umieszczony w miejscu zapewniającym intymność, oraz w pojemnik na śmieci.
-§ 18. 1. Pomieszczenie służby dyżurnej w areszcie może być wyposażone w otwieraną barierę oraz jest wyposażone w instalację telekomunikacyjną umożliwiającą połączenie w ramach krajowego systemu powiadamiania alarmowego oraz połączenie z dyżurnym właściwej jednostki organizacyjnej Straży Granicznej.
+
+**§ 18.**
+
+1. Pomieszczenie służby dyżurnej w areszcie może być wyposażone w otwieraną barierę oraz jest wyposażone w instalację telekomunikacyjną umożliwiającą połączenie w ramach krajowego systemu powiadamiania alarmowego oraz połączenie z dyżurnym właściwej jednostki organizacyjnej Straży Granicznej.
+
 2. (uchylony).
+
 3. Pokój widzeń w areszcie jest wyposażony w taborety i stół oraz spełnia warunki określone w § 17 ust. 1 pkt 1–6, 8 i 9.
+
 4. Pomieszczenie do podgrzewania i porcjowania posiłków w areszcie jest wyposażone w urządzenie grzewcze, dwukomorowy zlewozmywak z dopływem ciepłej i zimnej wody oraz w stół, szafki kuchenne, lodówkę i sprzęt stołowo-kuchenny.
+
 5. Zmywalnia naczyń i sprzętu w areszcie jest wyposażona w dwukomorowy zlewozmywak z dopływem ciepłej i zimnej wody oraz w zawór ze złączką do węża.
+
 6. Umywalnie i ustępy w areszcie spełniają następujące warunki:
-1) umywalnie – są wyposażone w umywalki z dopływem ciepłej i zimnej wody oraz wydzielony natrysk i kabinę ustępową;
-2) ustępy – są wyposażone w umywalkę z dopływem ciepłej i zimnej wody oraz miski ustępowe spłukiwane za pomocą automatu ukrytego w ścianie;
-3) miski ustępowe umieszcza się w kabinach oddzielonych przegrodami o wysokości nie mniejszej niż 2 m, trwale przytwierdzonymi do podłogi i ściany, z drzwiami o górnej krawędzi na wysokości nie mniejszej niż 2 m i dolnej znajdującej się 0,3 m nad podłogą;
-4) woda do umywalni, w tym do kabiny natryskowej, oraz do ustępów doprowadzana jest przez mieszacz zlokalizowany w miejscu niedostępnym dla cudzoziemców;
-5) drzwi do umywalni, kabin z urządzeniami natryskowymi i ustępów wyposaża się w matową szybę z nietłukącego się szkła lub zwykłą szybę zabezpieczoną obustronnie siatką stalową lub w inny nieprzezroczysty, odporny na wilgoć i uderzenia materiał.
+
+- **1)** umywalnie – są wyposażone w umywalki z dopływem ciepłej i zimnej wody oraz wydzielony natrysk i kabinę ustępową;
+- **2)** ustępy – są wyposażone w umywalkę z dopływem ciepłej i zimnej wody oraz miski ustępowe spłukiwane za pomocą automatu ukrytego w ścianie;
+- **3)** miski ustępowe umieszcza się w kabinach oddzielonych przegrodami o wysokości nie mniejszej niż 2 m, trwale przytwierdzonymi do podłogi i ściany, z drzwiami o górnej krawędzi na wysokości nie mniejszej niż 2 m i dolnej znajdującej się 0,3 m nad podłogą;
+- **4)** woda do umywalni, w tym do kabiny natryskowej, oraz do ustępów doprowadzana jest przez mieszacz zlokalizowany w miejscu niedostępnym dla cudzoziemców;
+- **5)** drzwi do umywalni, kabin z urządzeniami natryskowymi i ustępów wyposaża się w matową szybę z nietłukącego się szkła lub zwykłą szybę zabezpieczoną obustronnie siatką stalową lub w inny nieprzezroczysty, odporny na wilgoć i uderzenia materiał.
+
 7. Na ścianach korytarzy, obok drzwi do cel mieszkalnych, są zamocowane drewniane półki służące do stawiania naczyń z posiłkami.
-§ 19. W sąsiedztwie pomieszczenia służby dyżurnej w areszcie może być zainstalowany aparat publiczny w rozumieniu przepisów ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, w którym połączenie opłacane jest automatycznie za pomocą karty telefonicznej.
-§ 20. 1. Pomieszczenia wchodzące w skład aresztu mogą być wyposażone w urządzenia służące do obserwowania i rejestrowania obrazu, działające w systemie całodobowym.
+
+**§ 19.** W sąsiedztwie pomieszczenia służby dyżurnej w areszcie może być zainstalowany aparat publiczny w rozumieniu przepisów ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, w którym połączenie opłacane jest automatycznie za pomocą karty telefonicznej.
+
+**§ 20.**
+
+1. Pomieszczenia wchodzące w skład aresztu mogą być wyposażone w urządzenia służące do obserwowania i rejestrowania obrazu, działające w systemie całodobowym.
+
 2. W przypadku, o którym mowa w ust. 1, informacja o prowadzeniu obserwacji pomieszczeń i rejestrowaniu obrazu jest umieszczona w widocznym miejscu, na kondygnacjach mieszkalnych aresztu.
-§ 21. Areszt jest wyposażony w dźwiękowo-świetlną instalację alarmową, służącą do bezpośredniego zawiadomienia dyżurnego właściwej jednostki organizacyjnej Straży Granicznej o zagrożeniu bezpieczeństwa osób przebywających w areszcie, w skład której wchodzą:
-1) dzwonki alarmowe i punkty świetlne w pokoju dyżurnego jednostki lub innym miejscu, z którego sygnał alarmowy zostanie niezwłocznie odebrany;
-2) przyciski dzwonków, umieszczone:
-a) w pomieszczeniu służby dyżurnej,
-b) na ścianach korytarza przy drzwiach każdej celi mieszkalnej,
-c) w ambulatorium,
-d) w pokoju widzeń,
-e) w pomieszczeniu do podgrzewania i porcjowania posiłków,
-f) w umywalniach i ustępach.
-§ 22. Regulamin organizacyjno-porządkowy pobytu cudzoziemców w strzeżonym ośrodku i areszcie, określający warunki rozmieszczania cudzoziemców w pokojach dla cudzoziemców w strzeżonym ośrodku oraz w celach mieszkalnych aresztu, porządek wewnętrzny strzeżonego ośrodka i aresztu, organizację funkcjonowania strzeżonego ośrodka i aresztu w zakresie zapewnienia cudzoziemcom warunków socjalno-bytowych gwarantujących bezpieczeństwo i realizację ich obowiązków oraz przysługujących im praw oraz warunki otrzymywania posiłków i napojów przez cudzoziemców umieszczonych w strzeżonym ośrodku i areszcie, określa załącznik do rozporządzenia.
-§ 23. 1. Cudzoziemcy umieszczeni w strzeżonym ośrodku lub przebywający w areszcie otrzymują trzy posiłki dziennie, w tym jeden posiłek gorący, oraz napoje.
+
+**§ 21.** Areszt jest wyposażony w dźwiękowo-świetlną instalację alarmową, służącą do bezpośredniego zawiadomienia dyżurnego właściwej jednostki organizacyjnej Straży Granicznej o zagrożeniu bezpieczeństwa osób przebywających w areszcie, w skład której wchodzą:
+
+- **1)** dzwonki alarmowe i punkty świetlne w pokoju dyżurnego jednostki lub innym miejscu, z którego sygnał alarmowy zostanie niezwłocznie odebrany;
+- **2)** przyciski dzwonków, umieszczone:
+    - **a)** w pomieszczeniu służby dyżurnej,
+    - **b)** na ścianach korytarza przy drzwiach każdej celi mieszkalnej,
+    - **c)** w ambulatorium,
+    - **d)** w pokoju widzeń,
+    - **e)** w pomieszczeniu do podgrzewania i porcjowania posiłków,
+    - **f)** w umywalniach i ustępach.
+
+**§ 22.** Regulamin organizacyjno-porządkowy pobytu cudzoziemców w strzeżonym ośrodku i areszcie, określający warunki rozmieszczania cudzoziemców w pokojach dla cudzoziemców w strzeżonym ośrodku oraz w celach mieszkalnych aresztu, porządek wewnętrzny strzeżonego ośrodka i aresztu, organizację funkcjonowania strzeżonego ośrodka i aresztu w zakresie zapewnienia cudzoziemcom warunków socjalno-bytowych gwarantujących bezpieczeństwo i realizację ich obowiązków oraz przysługujących im praw oraz warunki otrzymywania posiłków i napojów przez cudzoziemców umieszczonych w strzeżonym ośrodku i areszcie, określa załącznik do rozporządzenia.
+
+**§ 23.**
+
+1. Cudzoziemcy umieszczeni w strzeżonym ośrodku lub przebywający w areszcie otrzymują trzy posiłki dziennie, w tym jeden posiłek gorący, oraz napoje.
+
 2. Cudzoziemcy umieszczeni w strzeżonym ośrodku lub przebywający w areszcie otrzymują posiłki i napoje o wartości energetycznej dziennej:
-1) od 300 do 900 kcal – do ukończenia 6. miesiąca życia;
-2) od 700 do 1000 kcal – od 7. miesiąca do ukończenia 1. roku życia;
-3) od 1000 do 1700 kcal – powyżej 1. roku do ukończenia 4. roku życia;
-4) od 1700 do 2600 kcal – powyżej 4. roku do ukończenia 12. roku życia;
-5) od 2600 do 3400 kcal – powyżej 12. roku do ukończenia 18. roku życia oraz chorzy, kobiety w ciąży i kobiety karmiące;
-6) co najmniej 2600 kcal – osoby inne niż wymienione w pkt 1–5.
-3. Normy określone w ust. 2 pkt 1–3 nie dotyczą dzieci żywionych wyłącznie naturalnie lub w sposób mieszany.
-W przypadku dzieci żywionych w sposób mieszany sposób żywienia ustala się w porozumieniu z lekarzem.
+
+- **1)** od 300 do 900 kcal – do ukończenia 6. miesiąca życia;
+- **2)** od 700 do 1000 kcal – od 7. miesiąca do ukończenia 1. roku życia;
+- **3)** od 1000 do 1700 kcal – powyżej 1. roku do ukończenia 4. roku życia;
+- **4)** od 1700 do 2600 kcal – powyżej 4. roku do ukończenia 12. roku życia;
+- **5)** od 2600 do 3400 kcal – powyżej 12. roku do ukończenia 18. roku życia oraz chorzy, kobiety w ciąży i kobiety karmiące;
+- **6)** co najmniej 2600 kcal – osoby inne niż wymienione w pkt 1–5.
+
+3. Normy określone w ust. 2 pkt 1–3 nie dotyczą dzieci żywionych wyłącznie naturalnie lub w sposób mieszany. W przypadku dzieci żywionych w sposób mieszany sposób żywienia ustala się w porozumieniu z lekarzem.
+
 4. Cudzoziemcy umieszczeni w strzeżonym ośrodku lub przebywający w areszcie otrzymują posiłki i napoje przygotowane według wartości pieniężnej dziennej normy wyżywienia odpowiadającej zasadniczej szkolnej normie wyżywienia, zwanej dalej „normą SZ”, określonej w przepisach wydanych na podstawie art. 76 ust. 10 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, z późn. zm. ), zwanej dalej „ustawą”, stanowiącej:
-1) 65% wartości pieniężnej normy SZ, w przypadku cudzoziemców, o których mowa w ust. 2 pkt 6,
-2) 75% wartości pieniężnej normy SZ, w przypadku cudzoziemców, o których mowa w ust. 2 pkt 1–5 – z uwzględnieniem wymogów religijnych i kulturowych cudzoziemców oraz wartości podwyższenia, o którym mowa w art. 76 ust. 4 ustawy, w przypadku konieczności realizacji wyżywienia przez zewnętrzne podmioty gastronomiczne.
+
+- **1)** 65% wartości pieniężnej normy SZ, w przypadku cudzoziemców, o których mowa w ust. 2 pkt 6,
+- **2)** 75% wartości pieniężnej normy SZ, w przypadku cudzoziemców, o których mowa w ust. 2 pkt 1–5 – z uwzględnieniem wymogów religijnych i kulturowych cudzoziemców oraz wartości podwyższenia, o którym mowa w art. 76 ust. 4 ustawy, w przypadku konieczności realizacji wyżywienia przez zewnętrzne podmioty gastronomiczne.
+
 5. Wartości dziennej normy wyżywienia, o których mowa w ust. 4, podwyższa się o 50% w przypadku:
-1) doprowadzania cudzoziemców, jeżeli doprowadzenie trwa ponad 6 godzin;
-2) żywienia cudzoziemców, o których mowa w ust. 2 pkt 1–3, produktami żywnościowymi zalecanymi przez lekarza lub wydawanymi na receptę.
+
+- **1)** doprowadzania cudzoziemców, jeżeli doprowadzenie trwa ponad 6 godzin;
+- **2)** żywienia cudzoziemców, o których mowa w ust. 2 pkt 1–3, produktami żywnościowymi zalecanymi przez lekarza lub wydawanymi na receptę.
+
 6. Cudzoziemcom umieszczonym w strzeżonym ośrodku lub przebywającym w areszcie, w którym temperatura spowodowana warunkami atmosferycznymi przekracza 28°C, zapewnia się dodatkowe napoje w ilości nie mniejszej niż 1 litr dla cudzoziemca na dobę.
-§ 24. 1. Posiłki wydawane są w godzinach spożywania posiłków określonych w porządku dnia.
+
+**§ 24.**
+
+1. Posiłki wydawane są w godzinach spożywania posiłków określonych w porządku dnia.
+
 2. Wyżywienie niepobrane przez cudzoziemców w danym dniu w godzinach spożywania posiłków nie podlega wydaniu w późniejszym terminie oraz nie przysługuje za nie ekwiwalent pieniężny.
+
 3. Jeżeli cudzoziemiec z przyczyn niezależnych od siebie nie może pobrać posiłku w godzinach jego spożywania, posiłek wydaje się cudzoziemcowi w danym dniu w późniejszym terminie.
+
 4. Na wniosek cudzoziemca, w przypadku uzasadnionym względami religijnymi lub kulturowymi kierownik strzeżonego ośrodka albo funkcjonariusz odpowiedzialny za funkcjonowanie aresztu może wyrazić zgodę na zmianę ilości otrzymywanych posiłków oraz zmianę godzin ich wydawania.
+
 5. Umieszczony w strzeżonym ośrodku cudzoziemiec, który przebywa w szpitalu jako opiekun hospitalizowanego dziecka, może być żywiony odpłatnie, a koszty jego wyżywienia pokrywa jednostka budżetowa właściwa do żywnościowego zaopatrzenia cudzoziemca.
-§ 25. 1. Cudzoziemcom, których stan zdrowia wymaga zastosowania diety, lekarz może zlecić wyżywienie indywidualne, określając:
-1) liczbę i godziny wydawania posiłków w ciągu doby – jeśli jest to konieczne;
-2) kaloryczność dobową;
-3) procentową zawartość składników odżywczych;
-4) zabronione sposoby przyrządzania posiłków;
-5) listę produktów zabronionych;
-6) czas, na jaki zleca określone wyżywienie.
+
+**§ 25.**
+
+1. Cudzoziemcom, których stan zdrowia wymaga zastosowania diety, lekarz może zlecić wyżywienie indywidualne, określając:
+
+- **1)** liczbę i godziny wydawania posiłków w ciągu doby – jeśli jest to konieczne;
+- **2)** kaloryczność dobową;
+- **3)** procentową zawartość składników odżywczych;
+- **4)** zabronione sposoby przyrządzania posiłków;
+- **5)** listę produktów zabronionych;
+- **6)** czas, na jaki zleca określone wyżywienie.
+
 2. Żywienie zgodne z warunkami określonymi w ust. 1 odbywa się w ramach przysługującej cudzoziemcom dziennej normy wyżywienia, o której mowa w § 23 ust. 2 i 4.
-§ 26. (uchylony).
-§ 27. Rozporządzenie wchodzi w życie z dniem 1 maja 2015 r.
-REGULAMIN ORGANIZACYJNO-PORZĄDKOWY POBYTU CUDZOZIEMCÓW W STRZEŻONYM OŚRODKU I ARESZCIE DLA CUDZOZIEMCÓW
+
+**§ 26.** (uchylony).
+
+**§ 27.** Rozporządzenie wchodzi w życie z dniem 1 maja 2015 r. REGULAMIN ORGANIZACYJNO-PORZĄDKOWY POBYTU CUDZOZIEMCÓW W STRZEŻONYM OŚRODKU I ARESZCIE DLA CUDZOZIEMCÓW
+
+## Załącznik
+
 § 1. Pokoje dla cudzoziemców i cele mieszkalne oraz inne pomieszczenia, w których przebywają cudzoziemcy, są kontrolowane doraźnie, przez kierownika strzeżonego ośrodka dla cudzoziemców, zwanego dalej „strzeżonym ośrodkiem”, funkcjonariusza odpowiadającego za funkcjonowanie aresztu dla cudzoziemców, zwanego dalej „aresztem”, albo inne osoby przez nich wyznaczone.
 § 2. Kierownik strzeżonego ośrodka albo funkcjonariusz odpowiedzialny za funkcjonowanie aresztu mogą organizować spotkania z cudzoziemcami, w szczególności w sprawach związanych z warunkami pobytu w tym ośrodku lub areszcie.
 § 3. W strzeżonym ośrodku ze względu na bezpieczeństwo i porządek ustala się stan liczbowy przebywających tam cudzoziemców.

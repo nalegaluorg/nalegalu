@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002579) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2579/text.pdf) |
 
 zmieniające rozporządzenie w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej Na podstawie art. 400p ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 13 grudnia 2017 r. w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. z 2023 r. poz. 1861) w § 13 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Jeżeli członek rady nadzorczej nie może wziąć udziału w podejmowaniu uchwały przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość albo w trybie pisemnym, przedkłada przewodniczącemu rady nadzorczej usprawiedliwienie tego faktu najpóźniej przed przystąpieniem do podejmowania uchwały przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość albo przed upływem terminu na podjęcie uchwały w trybie pisemnym.”.
-§ 2. Do podejmowania uchwał przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość albo w trybie pisemnym zarządzonego przed dniem wejścia w życie niniejszego rozporządzenia, jeżeli termin podjęcia uchwały przypada w dniu wejścia w życie niniejszego rozporządzenia albo po tym dniu, stosuje się § 13 ust. 1a rozporządzenia zmienianego w § 1.
-§ 3. Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 13 grudnia 2017 r. w sprawie trybu działania organów wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. z 2023 r. poz. 1861) w § 13 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Jeżeli członek rady nadzorczej nie może wziąć udziału w podejmowaniu uchwały przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość albo w trybie pisemnym, przedkłada przewodniczącemu rady nadzorczej usprawiedliwienie tego faktu najpóźniej przed przystąpieniem do podejmowania uchwały przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość albo przed upływem terminu na podjęcie uchwały w trybie pisemnym.”.
+
+**§ 2.** Do podejmowania uchwał przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość albo w trybie pisemnym zarządzonego przed dniem wejścia w życie niniejszego rozporządzenia, jeżeli termin podjęcia uchwały przypada w dniu wejścia w życie niniejszego rozporządzenia albo po tym dniu, stosuje się § 13 ust. 1a rozporządzenia zmienianego w § 1.
+
+**§ 3.** Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa
 

@@ -32,12 +32,21 @@ zmieniającym rozporządzenie w sprawie szczegółowego zakresu działania Minis
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 sierpnia 2025 r. zmieniającego rozporządzenie w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 1142), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: D. Tusk
 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 25 lipca 2025 r.
 w sprawie szczegółowego zakresu działania Ministra Energii Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa szczegółowy zakres działania Ministra Energii, zwanego dalej „ministrem”.
+
+**§ 1.**
+
+1. Rozporządzenie określa szczegółowy zakres działania Ministra Energii, zwanego dalej „ministrem”.
+
 2. Minister kieruje następującymi działami administracji rządowej:
-1) energia;
-2) gospodarka surowcami energetycznymi.
+
+- **1)** energia;
+- **2)** gospodarka surowcami energetycznymi.
+
 3. Minister jest dysponentem części 47 i 48 budżetu państwa.
+
 4. Obsługę ministra zapewnia Ministerstwo Energii.
+
 5. Minister sprawuje nadzór nad Prezesem Wyższego Urzędu Górniczego.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia , z mocą od dnia 24 lipca 2025 r.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia , z mocą od dnia 24 lipca 2025 r.
 

@@ -26,8 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001266) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1266/text.pdf) |
 
 zmieniające rozporządzenie w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym Poz. 1266 Na podstawie art. 48 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej ROZPORZĄDZENIE i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2018 r. poz. 511, 1000 RaDy MINISTRÓW i 1076) zarządza się, co następuje: z dnia 26 czerwca 2018 r.
-§ 1. W rozporządzeniu Rady Ministrów z dnia 13 maja 2003 r. w sprawie algorytmu zmieniające rozporządzenie w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji przekazywania Osób środków Niepełnosprawnych Państwowego samorządom Funduszu wojewódzkim Rehabilitacji i powiatowym Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym (Dz. U. z 2017 r. poz. 538) wprowadza się Na podstawie art. 48 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych następujące zmiany: (Dz. U. z 2018 r. poz. 511, 1000 i 1076) zarządza się, co następuje:
-1) § 2–5 otrzymują brzmienie:
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 13 maja 2003 r. w sprawie algorytmu zmieniające rozporządzenie w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji przekazywania Osób środków Niepełnosprawnych Państwowego samorządom Funduszu wojewódzkim Rehabilitacji i powiatowym Osób Niepełnosprawnych samorządom wojewódzkim i powiatowym (Dz. U. z 2017 r. poz. 538) wprowadza się Na podstawie art. 48 ust. 2 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych następujące zmiany: (Dz. U. z 2018 r. poz. 511, 1000 i 1076) zarządza się, co następuje:
+
+- **1)** § 2–5 otrzymują brzmienie:
+
+## Załącznik
+
 § 1. W rozporządzeniu Rady Ministrów z dnia 13 maja 2003 r. w sprawie algorytmu przekazywania środków Państwowego Funduszu Rehabilitacji „§ 2. Prezes Osób Zarządu Niepełnosprawnych Funduszu przekazuje samorządom środki wojewódzkim Funduszu i samorządowi: powiatowym (Dz. U. z 2017 r.
 poz. 538) wprowadza się następujące zmiany:
 1) wojewódzkiemu – na realizację zadań określonych w art. 35 ust. 1 pkt 5 i 6 oraz
@@ -50,5 +55,4 @@ poz. 538) wprowadza się następujące zmiany:
 § 2. Wysokość środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych dla samorządu powiatowego na dofinansowanie kosztów rocznego pobytu jednego uczestnika w warsztacie terapii zajęciowej, przysługujących w 2018 r., ustala się ponownie z zastosowaniem § 5 ust. 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
 § 3. Maksymalna kwota zobowiązań samorządu wojewódzkiego do wypłaty w 2018 r. z tytułu dofinansowania kosztów działalności zakładów aktywności zawodowej nie może przekroczyć 50% kwoty ustalonej zgodnie z § 3 rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym.
 § 4. Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r., z wyjątkiem § 1 pkt 1 w zakresie zmienianego § 3 i § 5 ust. 2, który wchodzi w życie z dniem 1 stycznia 2019 r.
-Prezes Rady Ministrów: M. Morawiecki
 

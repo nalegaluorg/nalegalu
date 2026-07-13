@@ -119,7 +119,10 @@ source: pdf
 
 **Art. 9.** Do dnia wydania decyzji Komisji Europejskiej o zgodności pomocy przewidzianej w programie rządowym, o którym mowa w art. 3 ust. 1, z rynkiem wewnętrznym pomocy nie udziela się.
 
-**Art. 10.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm. ) w art. 400b po ust. 5b dodaje się ust. 5c i 5d w brzmieniu: „5c. Narodowy Fundusz może wykonywać zadania określone w programie rządowym przyjętym przez Radę Ministrów. 5d. Rada Ministrów, przyjmując program, o którym mowa w ust. 5c, wskazuje w nim kwotę środków przeznaczonych na pokrycie kosztów realizacji zadań przez Narodowy Fundusz oraz źródło pokrycia tych kosztów.”.
+**Art. 10.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm. ) w art. 400b po ust. 5b dodaje się ust. 5c i 5d w brzmieniu:
+
+> „5c. Narodowy Fundusz może wykonywać zadania określone w programie rządowym przyjętym przez Radę Ministrów.  
+> 5d. Rada Ministrów, przyjmując program, o którym mowa w ust. 5c, wskazuje w nim kwotę środków przeznaczonych na pokrycie kosztów realizacji zadań przez Narodowy Fundusz oraz źródło pokrycia tych kosztów.”.  
 
 **Art. 11.** W ustawie z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych (Dz. U. z 2022 r. poz. 1312 i 1477) wprowadza się następujące zmiany:
 

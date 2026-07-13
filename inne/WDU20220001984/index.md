@@ -26,12 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1984/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone Na podstawie art. 10b ust. 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 166, 1301 i 1933) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 24 grudnia 2019 r. w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. z 2022 r. poz. 1185) wprowadza się następujące zmiany:
-1) w § 4:
-a) pkt 2 otrzymuje brzmienie: „2) podpisem zaufanym albo podpisem osobistym, jeżeli są przesyłane przez portal podatkowy.”,
-b) uchyla się pkt 3;
-2) § 6 otrzymuje brzmienie: „§ 6. Podpisem elektronicznym, o którym mowa w § 4 pkt 2, mogą być opatrywane zgłoszenia aktualizacyjne osoby fizycznej będącej podatnikiem lub płatnikiem (NIP-7).”;
-3) uchyla się § 6a.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 24 grudnia 2019 r. w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. z 2022 r. poz. 1185) wprowadza się następujące zmiany:
+
+- **1)** w § 4:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) podpisem zaufanym albo podpisem osobistym, jeżeli są przesyłane przez portal podatkowy.”,
+    - **b)** uchyla się pkt 3;
+
+- **2)** § 6 otrzymuje brzmienie: „§ 6. Podpisem elektronicznym, o którym mowa w § 4 pkt 2, mogą być opatrywane zgłoszenia aktualizacyjne osoby fizycznej będącej podatnikiem lub płatnikiem (NIP-7).”;
+- **3)** uchyla się § 6a.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: M. Rzeczkowska
 

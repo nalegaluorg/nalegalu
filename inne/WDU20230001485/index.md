@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001485) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1485/text.pdf) |
 
 zmieniające rozporządzenie w sprawie rodzajów elektronicznej dokumentacji medycznej Na podstawie art. 13a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2022 poz. 1555, 2280 i 2705 oraz z 2023 r. poz. 650 i 1234) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 8 maja 2018 r. w sprawie rodzajów elektronicznej dokumentacji medycznej (Dz. U. z 2021 r. poz. 1153 oraz z 2022 r. poz. 1845) w § 1 w pkt 6 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) Indywidualny Plan Opieki Medycznej, o którym mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.”.
-§ 2. Do dnia 31 grudnia 2023 r. Indywidualny Plan Opieki Medycznej, o którym mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 poz. 1876, 2280 i 2705 oraz z 2023 r. poz. 605), może być prowadzony w postaci papierowej.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 8 maja 2018 r. w sprawie rodzajów elektronicznej dokumentacji medycznej (Dz. U. z 2021 r. poz. 1153 oraz z 2022 r. poz. 1845) w § 1 w pkt 6 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) Indywidualny Plan Opieki Medycznej, o którym mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta.”.
+
+**§ 2.** Do dnia 31 grudnia 2023 r. Indywidualny Plan Opieki Medycznej, o którym mowa w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 poz. 1876, 2280 i 2705 oraz z 2023 r. poz. 605), może być prowadzony w postaci papierowej.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

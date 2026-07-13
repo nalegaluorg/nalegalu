@@ -28,8 +28,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych Na podstawie art. 16 ust. 3 pkt 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2025 r.
 poz. 184) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. z 2023 r. poz. 1403) po § 3a dodaje się § 3b w brzmieniu: „§ 3b. 1. Od dnia 12 września 2025 r. od godz. 0.00 do odwołania zawiesza się ruch graniczny na przejściach granicznych z Republiką Białorusi innych niż wymienione w wykazie określonym w załączniku nr 1 do rozporządzenia.
-2. W okresie wskazanym w ust. 1 na przejściach granicznych z Republiką Białorusi wymienionych w wykazie określonym w załączniku nr 2 do rozporządzenia przepisu § 2 nie stosuje się.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 12 września 2025 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kierwiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. z 2023 r. poz. 1403) po § 3a dodaje się § 3b w brzmieniu:
+
+> „§ 3b.  
+> 1. Od dnia 12 września 2025 r. od godz. 0.00 do odwołania zawiesza się ruch graniczny na przejściach granicznych z Republiką Białorusi innych niż wymienione w wykazie określonym w załączniku nr 1 do rozporządzenia.  
+> 2. W okresie wskazanym w ust. 1 na przejściach granicznych z Republiką Białorusi wymienionych w wykazie określonym w załączniku nr 2 do rozporządzenia przepisu § 2 nie stosuje się.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 12 września 2025 r. Minister Spraw Wewnętrznych i Administracji: M. Kierwiński
 

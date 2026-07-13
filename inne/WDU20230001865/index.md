@@ -31,9 +31,13 @@ poz. 686).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 15 marca 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 686), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: M. Rzeczkowska
 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 25 stycznia 2017 r.
 w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu Na podstawie art. 3 ust. 4 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 2253 oraz z 2023 r. poz. 825, 1705, 1784 i 1843) zarządza się, co następuje:
-§ 1. Bankowemu Funduszowi Gwarancyjnemu nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-STATUT BANKOWEGO FUNDUSZU GWARANCYJNEGO I. Postanowienie ogólne
+
+**§ 1.** Bankowemu Funduszowi Gwarancyjnemu nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia . STATUT BANKOWEGO FUNDUSZU GWARANCYJNEGO I. Postanowienie ogólne
+
+## Załącznik
+
 § 1. Bankowy Fundusz Gwarancyjny, zwany dalej „Funduszem”, działa na podstawie ustawy z dnia 10 czerwca 2016 r.
 o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U.
 z 2022 r. poz. 2253 oraz z 2023 r. poz. 825, 1705, 1784 i 1843), zwanej dalej „ustawą”, oraz na podstawie postanowień statutu.

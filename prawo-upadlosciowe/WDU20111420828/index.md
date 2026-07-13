@@ -31,8 +31,15 @@ source: pdf
 
 - **1)** w art. 26 ust. 3 otrzymuje brzmienie: „3. Wynagrodzenie kuratora ustala sąd w wysokości stosownej do nakładu pracy kuratora. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku. Na postanowienie sądu przysługuje zażalenie.”;
 - **2)** w art. 162 dodaje się ust. 6 w brzmieniu: „6. Wynagrodzenie syndyka, nadzorcy sądowego i zarządcy obowiązanych do rozliczenia podatku od towarów i usług, o którym mowa w ust. 2, 2a, 5 i art. 163, oraz wstępną wysokość wynagrodzenia i zaliczki na wynagrodzenie podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku.”;
-- **3)** w art. 170 dodaje się ust. 4 i 5 w brzmieniu: „4. W przypadku cofnięcia lub zawieszenia praw wynikających z licencji syndyka przez Ministra Sprawiedliwości, sąd odwołuje syndyka, nadzorcę sądowego albo zarządcę. 5. Odpis prawomocnego postanowienia o odwołaniu syndyka, nadzorcy sądowego albo zarządcy z powodu nienależytego pełnienia obowiązków przekazuje się Ministrowi Sprawiedliwości.”;
-- **4)** art. 171 otrzymuje brzmienie: „Art. 171. 1. Sędzia-komisarz odwołuje zastępcę syndyka, nadzorcy sądowego albo zarządcy, jeżeli nie pełnią należycie swoich obowiązków, albo gdy ich dalszy udział w postępowaniu nie jest potrzebny, albo w przypadku cofnięcia lub zawieszenia praw wynikających z licencji syndyka przez Ministra Sprawiedliwości. 2. Przepisy art. 170 ust. 2, 3 i 5 stosuje się odpowiednio.”;
+- **3)** w art. 170 dodaje się ust. 4 i 5 w brzmieniu:
+
+  > „4. W przypadku cofnięcia lub zawieszenia praw wynikających z licencji syndyka przez Ministra Sprawiedliwości, sąd odwołuje syndyka, nadzorcę sądowego albo zarządcę.  
+  > 5. Odpis prawomocnego postanowienia o odwołaniu syndyka, nadzorcy sądowego albo zarządcy z powodu nienależytego pełnienia obowiązków przekazuje się Ministrowi Sprawiedliwości.”;  
+- **4)** art. 171 otrzymuje brzmienie:
+
+  > „Art. 171.  
+  > 1. Sędzia-komisarz odwołuje zastępcę syndyka, nadzorcy sądowego albo zarządcy, jeżeli nie pełnią należycie swoich obowiązków, albo gdy ich dalszy udział w postępowaniu nie jest potrzebny, albo w przypadku cofnięcia lub zawieszenia praw wynikających z licencji syndyka przez Ministra Sprawiedliwości.  
+  > 2. Przepisy art. 170 ust. 2, 3 i 5 stosuje się odpowiednio.”;  
 - **5)** w art. 187 ust. 4 otrzymuje brzmienie: „4. Wynagrodzenie kuratora ustanowionego na podstawie przepisu ust. 1 ustala sędzia-komisarz w wysokości stosownej do nakładu pracy kuratora. Wynagrodzenie kuratora obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku. Na postanowienie sędziegokomisarza przysługuje zażalenie.”;
 - **6)** w art. 497 ust. 3 otrzymuje brzmienie: „3. Przedsiębiorca niezwłocznie zawiera z nadzorcą sądowym umowę zlecenia o wykonywanie czynności nadzorcy sądowego i wypłaca mu miesięcznie wynagrodzenie w wysokości podwójnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Miesięczne wynagrodzenie nadzorcy sądowego obowiązanego do rozliczenia podatku od towarów i usług podwyższa się o kwotę podatku od towarów i usług, określoną zgodnie z obowiązującą stawką tego podatku.”.
 

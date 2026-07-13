@@ -31,8 +31,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 7 maja 2019 r.
 w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej Na podstawie art. 444 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
 z 2022 r. poz. 574, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej oraz na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego.
-§ 2. Ustala się limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej w liczbie 50 miejsc.
+
+**§ 1.** Rozporządzenie określa limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej oraz na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego.
+
+**§ 2.** Ustala się limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej w liczbie 50 miejsc.
+
+## Załącznik
+
 § 2. Ustala się limit przyjęć na studia na kierunku „penitencjarystyka” dla funkcjonariuszy Służby Więziennej w służbie kandydackiej w liczbie 60 miejsc.
 § 2a. Ustala się limit przyjęć na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego w liczbie 60 miejsc.
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .

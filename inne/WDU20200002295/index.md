@@ -27,12 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową Na podstawie art. 163 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2020 r.
 poz. 505, 568, 695, 1087 i 1106) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U.
-poz. 2488) § 2 otrzymuje brzmienie: „§ 2. Podmiotem oddelegowania jest:
-1) urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez:
-a) dyrektora generalnego urzędu,
-b) kierownika urzędu − w urzędach, w których nie tworzy się stanowiska dyrektora generalnego;
-2) państwowa jednostka budżetowa podległa ministrowi właściwemu do spraw budżetu, finansów publicznych i instytucji finansowych lub przez niego nadzorowana, reprezentowana przez kierownika tej jednostki.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie oddelegowania funkcjonariusza Służby Celno-Skarbowej do wykonywania pracy lub wykonywania zadań służbowych poza Służbą Celno-Skarbową (Dz. U. poz. 2488) § 2 otrzymuje brzmienie:
+
+> „§ 2. Podmiotem oddelegowania jest:  
+> 1) urząd zapewniający obsługę organu administracji publicznej, reprezentowany przez:  
+> a) dyrektora generalnego urzędu, b) kierownika urzędu − w urzędach, w których nie tworzy się stanowiska dyrektora generalnego;  
+> 2) państwowa jednostka budżetowa podległa ministrowi właściwemu do spraw budżetu, finansów publicznych i instytucji finansowych lub przez niego nadzorowana, reprezentowana przez kierownika tej jednostki.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

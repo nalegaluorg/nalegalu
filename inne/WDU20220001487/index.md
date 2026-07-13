@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001487) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1487/text.pdf) |
 
 zmieniające rozporządzenie w sprawie programu pilotażowego oddziaływań terapeutycznych skierowanych do dzieci i młodzieży problemowo korzystających z nowych technologii cyfrowych oraz ich rodzin Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 23 listopada 2021 r. w sprawie programu pilotażowego oddziaływań terapeutycznych skierowanych do dzieci i młodzieży problemowo korzystających z nowych technologii cyfrowych oraz ich rodzin (Dz. U. poz. 2253) w załączniku do rozporządzenia w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu: „11) Centrum REHABILIS sp. z o.o. w Siemianowicach Śląskich;
-12) Centrum Psychoterapii i Leczenia Uzależnień w Sosnowieckim Szpitalu Miejskim sp. z o.o. w restrukturyzacji.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 23 listopada 2021 r. w sprawie programu pilotażowego oddziaływań terapeutycznych skierowanych do dzieci i młodzieży problemowo korzystających z nowych technologii cyfrowych oraz ich rodzin (Dz. U. poz. 2253) w załączniku do rozporządzenia w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu: „11) Centrum REHABILIS sp. z o.o. w Siemianowicach Śląskich; 12) Centrum Psychoterapii i Leczenia Uzależnień w Sosnowieckim Szpitalu Miejskim sp. z o.o. w restrukturyzacji.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski
 

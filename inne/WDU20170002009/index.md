@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów Na podstawie art. 80ch ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r.
 poz. 1260 i 1926) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 9 listopada 2015 r. w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów (Dz. U. z 2017 r. poz. 478) § 5 otrzymuje brzmienie: „§ 5. Rozporządzenie wchodzi w życie z dniem 13 listopada 2017 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 13 listopada 2017 r.
-Minister Cyfryzacji: A. Streżyńska
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 9 listopada 2015 r. w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów (Dz. U. z 2017 r. poz. 478) § 5 otrzymuje brzmienie: „§ 5. Rozporządzenie wchodzi w życie z dniem 13 listopada 2017 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 13 listopada 2017 r. Minister Cyfryzacji: A. Streżyńska
 

@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000046) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/46/text.pdf) |
 
 zmieniające rozporządzenie w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji Na podstawie art. 32 ust. 2 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2020 r. poz. 955) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 26 sierpnia 2014 r. w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji (Dz. U. poz. 1224) wprowadza się następujące zmiany:
-1) w § 1 pkt 1 otrzymuje brzmienie: „1) podmioty posiadające broń i amunicję na podstawie pozwolenia na broń na okaziciela, o których mowa w art. 29 ust. 1 pkt 3–8 ustawy z dnia 21 maja 1999 r. o broni i amunicji, zwanej dalej „ustawą”;”;
-2) w § 3 ust. 1 otrzymuje brzmienie: „1. Broń i amunicję podmioty posiadające broń i amunicję na podstawie pozwolenia na broń na okaziciela, o których mowa w art. 29 ust. 1 pkt 3–8 ustawy, zwane dalej „podmiotami posiadającymi broń i amunicję”, przechowują w magazynie broni, w urządzeniach spełniających wymagania co najmniej klasy S1 według normy PN-EN 14450.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 26 sierpnia 2014 r. w sprawie przechowywania, noszenia oraz ewidencjonowania broni i amunicji (Dz. U. poz. 1224) wprowadza się następujące zmiany:
+
+- **1)** w § 1 pkt 1 otrzymuje brzmienie: „1) podmioty posiadające broń i amunicję na podstawie pozwolenia na broń na okaziciela, o których mowa w art. 29 ust. 1 pkt 3–8 ustawy z dnia 21 maja 1999 r. o broni i amunicji, zwanej dalej „ustawą”;”;
+- **2)** w § 3 ust. 1 otrzymuje brzmienie: „1. Broń i amunicję podmioty posiadające broń i amunicję na podstawie pozwolenia na broń na okaziciela, o których mowa w art. 29 ust. 1 pkt 3–8 ustawy, zwane dalej „podmiotami posiadającymi broń i amunicję”, przechowują w magazynie broni, w urządzeniach spełniających wymagania co najmniej klasy S1 według normy PN-EN 14450.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

@@ -26,43 +26,65 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001331) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1331/text.pdf) |
 
 w sprawie legitymacji służbowej kontrolera przeprowadzającego kontrolę w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu Na podstawie art. 134 ust. 2 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723 i 1075) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór legitymacji służbowej kontrolera, zwanej dalej „legitymacją”;
-2) tryb wydawania i wymiany legitymacji.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie – rozumie się przez to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
-2) Generalnym Inspektorze – rozumie się przez to Generalnego Inspektora Informacji Finansowej;
-3) kontrolerze – rozumie się przez to upoważnionego przez Generalnego Inspektora pracownika komórki organizacyjnej, o której mowa w art. 12 ust. 2 ustawy, przeprowadzającego kontrolę wykonywania przez instytucje obowiązane obowiązków w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu.
-§ 3. Wzór legitymacji określa załącznik do rozporządzenia.
-§ 4. 1. Generalny Inspektor na wniosek dyrektora komórki organizacyjnej, o której mowa w art. 12 ust. 2 ustawy, wydaje kontrolerowi legitymację.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór legitymacji służbowej kontrolera, zwanej dalej „legitymacją”;
+- **2)** tryb wydawania i wymiany legitymacji.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** ustawie – rozumie się przez to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- **2)** Generalnym Inspektorze – rozumie się przez to Generalnego Inspektora Informacji Finansowej;
+- **3)** kontrolerze – rozumie się przez to upoważnionego przez Generalnego Inspektora pracownika komórki organizacyjnej, o której mowa w art. 12 ust. 2 ustawy, przeprowadzającego kontrolę wykonywania przez instytucje obowiązane obowiązków w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu.
+
+**§ 3.** Wzór legitymacji określa załącznik do rozporządzenia.
+
+**§ 4.**
+
+1. Generalny Inspektor na wniosek dyrektora komórki organizacyjnej, o której mowa w art. 12 ust. 2 ustawy, wydaje kontrolerowi legitymację.
+
 2. Odbiór legitymacji kontroler potwierdza własnoręcznym podpisem.
-§ 5. 1. Utratę legitymacji kontroler niezwłocznie zgłasza Generalnemu Inspektorowi.
+
+**§ 5.**
+
+1. Utratę legitymacji kontroler niezwłocznie zgłasza Generalnemu Inspektorowi.
+
 2. Po wyjaśnieniu przyczyn utraty legitymacji Generalny Inspektor wydaje kontrolerowi nową legitymację. Przepis § 4 ust. 2 stosuje się.
-§ 6. 1. Generalny Inspektor na wniosek kontrolera złożony za pośrednictwem dyrektora komórki organizacyjnej, o której mowa w art. 12 ust. 2 ustawy, może dokonać wymiany legitymacji.
+
+**§ 6.**
+
+1. Generalny Inspektor na wniosek kontrolera złożony za pośrednictwem dyrektora komórki organizacyjnej, o której mowa w art. 12 ust. 2 ustawy, może dokonać wymiany legitymacji.
+
 2. Wymiana legitymacji następuje po uprzednim dokonaniu przez kontrolera zwrotu dotychczasowej legitymacji i podaniu przyczyn wymiany. Przepis § 4 ust. 2 stosuje się.
-§ 7. Generalny Inspektor prowadzi rejestr wydanych legitymacji. W rejestrze odnotowuje się informacje o utracie, zwrocie i wymianie legitymacji.
-§ 8. Rozporządzenie wchodzi w życie z dniem 13 lipca 2018 r.
-Minister Finansów: wz. T. Robaczyński WZÓR LEGITYMACJI SŁUŻBOWEJ KONTROLERA PRZEPROWADZAJĄCEGO KONTROLĘ WYKONYWANIA PRZEZ INSTYTUCJE OBOWIĄZANE OBOWIĄZKÓW W ZAKRESIE PRZECIWDZIAŁANIA PRANIU PIENIĘDZY ORAZ FINANSOWANIU TERRORYZMU awers rewers Objaśnienia: Awers:
-1) tło giloszowe wykonane techniką druku irysowego w kolorze niebiesko-beżowym;
-2) wizerunek orła białego, ustalony dla godła Rzeczypospolitej Polskiej, zamieszczony na środku pod napisami: RZECZPOSPOLITA POLSKA MINISTERSTWO FINANSÓW;
-3) napisy w kolorze czarnym, drukowane różnym krojem czcionki:
-a) RZECZPOSPOLITA POLSKA,
-b) MINISTERSTWO FINANSÓW,
-c) GENERALNY INSPEKTOR INFORMACJI FINANSOWEJ,
-d) LEGITYMACJA SŁUŻBOWA KONTROLERA;
-4) czterocyfrowy numer legitymacji wykonany w technice typograficznej.
-Rewers:
-1) tło giloszowe wykonane techniką druku irysowego w kolorze niebiesko-beżowym, zawierające elementy widoczne w świetle UV;
-2) miejsce na zdjęcie o wymiarach 40 x 30 mm, nanoszone w procesie personalizacji, zaznaczone poddrukiem;
-3) znak graficzny „GIIF” wykonany farbą wykazującą właściwości optycznie zmienne;
-4) zaznaczone mikrodrukiem miejsce na imię i nazwisko kontrolera;
-5) napisy w kolorze czarnym, drukowane jednym krojem czcionki:
-a) IMIĘ,
-b) NAZWISKO,
-c) Okaziciel niniejszej legitymacji jest uprawniony do prowadzenia kontroli na podstawie przepisów ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, z późn. zm.),
-d) Generalny Inspektor Informacji Finansowej;
-6) zaznaczone mikrodrukiem miejsce na podpis Generalnego Inspektora Informacji Finansowej.
-Uwagi
+
+**§ 7.** Generalny Inspektor prowadzi rejestr wydanych legitymacji. W rejestrze odnotowuje się informacje o utracie, zwrocie i wymianie legitymacji.
+
+**§ 8.** Rozporządzenie wchodzi w życie z dniem 13 lipca 2018 r. Minister Finansów: wz. T. Robaczyński WZÓR LEGITYMACJI SŁUŻBOWEJ KONTROLERA PRZEPROWADZAJĄCEGO KONTROLĘ WYKONYWANIA PRZEZ INSTYTUCJE OBOWIĄZANE OBOWIĄZKÓW W ZAKRESIE PRZECIWDZIAŁANIA PRANIU PIENIĘDZY ORAZ FINANSOWANIU TERRORYZMU awers rewers Objaśnienia: Awers:
+
+- **1)** tło giloszowe wykonane techniką druku irysowego w kolorze niebiesko-beżowym;
+- **2)** wizerunek orła białego, ustalony dla godła Rzeczypospolitej Polskiej, zamieszczony na środku pod napisami: RZECZPOSPOLITA POLSKA MINISTERSTWO FINANSÓW;
+- **3)** napisy w kolorze czarnym, drukowane różnym krojem czcionki:
+    - **a)** RZECZPOSPOLITA POLSKA,
+    - **b)** MINISTERSTWO FINANSÓW,
+    - **c)** GENERALNY INSPEKTOR INFORMACJI FINANSOWEJ,
+    - **d)** LEGITYMACJA SŁUŻBOWA KONTROLERA;
+
+- **4)** czterocyfrowy numer legitymacji wykonany w technice typograficznej. Rewers:
+- **1)** tło giloszowe wykonane techniką druku irysowego w kolorze niebiesko-beżowym, zawierające elementy widoczne w świetle UV;
+- **2)** miejsce na zdjęcie o wymiarach 40 x 30 mm, nanoszone w procesie personalizacji, zaznaczone poddrukiem;
+- **3)** znak graficzny „GIIF” wykonany farbą wykazującą właściwości optycznie zmienne;
+- **4)** zaznaczone mikrodrukiem miejsce na imię i nazwisko kontrolera;
+- **5)** napisy w kolorze czarnym, drukowane jednym krojem czcionki:
+    - **a)** IMIĘ,
+    - **b)** NAZWISKO,
+    - **c)** Okaziciel niniejszej legitymacji jest uprawniony do prowadzenia kontroli na podstawie przepisów ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723, z późn. zm.),
+    - **d)** Generalny Inspektor Informacji Finansowej;
+
+- **6)** zaznaczone mikrodrukiem miejsce na podpis Generalnego Inspektora Informacji Finansowej. Uwagi
+
 1. Legitymacja ma formę spersonalizowanej karty identyfikacyjnej obustronnie laminowanej o wymiarach 126 x 86 mm.
+
 2. Karta składa się z rdzenia karty i folii laminującej. Rdzeń karty o wymiarach 120 x 80 mm jest wykonany z papieru zabezpieczonego chemicznie z bieżącym znakiem wodnym oraz włókienkami aktywnymi w świetle UV. Folia zabezpieczająca posiada znaki widoczne w świetle UV.
+
 

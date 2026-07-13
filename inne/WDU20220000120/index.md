@@ -30,26 +30,47 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 12 grudnia 2016 r. zmieniającego rozporządzenie w sprawie opłat za udostępnianie informacji o środowisku (Dz. U. poz. 2089), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.”. Minister Klimatu i Środowiska: A. Moskwa
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 12 listopada 2010 r.
 w sprawie opłat za udostępnianie informacji o środowisku Na podstawie art. 28 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2021 r. poz. 2373 i 2389) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) szczegółowe stawki opłat,
-2) współczynniki różnicujące wysokość opłat,
-3) sposób naliczania opłat,
-4) terminy i sposób uiszczania opłat – za wyszukiwanie, przekształcanie informacji, sporządzanie kopii dokumentów lub danych oraz ich przesłanie.
-§ 2. 1. Opłata za wyszukiwanie informacji wynosi 5 zł, jeżeli wymaga wyszukania do dziesięciu dokumentów.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** szczegółowe stawki opłat,
+- **2)** współczynniki różnicujące wysokość opłat,
+- **3)** sposób naliczania opłat,
+- **4)** terminy i sposób uiszczania opłat – za wyszukiwanie, przekształcanie informacji, sporządzanie kopii dokumentów lub danych oraz ich przesłanie.
+
+**§ 2.**
+
+1. Opłata za wyszukiwanie informacji wynosi 5 zł, jeżeli wymaga wyszukania do dziesięciu dokumentów.
+
 2. Jeżeli informacja wymaga wyszukania więcej niż dziesięciu dokumentów, pobiera się dodatkową opłatę, mnożąc kwotę z ust. 1 przez liczbę dodatkowych dokumentów i przez współczynnik różnicujący 0,1.
-§ 3. 1. Opłata za przekształcanie informacji polegające na skanowaniu dokumentów wynosi 0,10 zł za każdą stronę.
+
+**§ 3.**
+
+1. Opłata za przekształcanie informacji polegające na skanowaniu dokumentów wynosi 0,10 zł za każdą stronę.
+
 2. Opłaty za sporządzanie kopii dokumentów lub danych w formacie 210 mm x 297 mm (A4), w formie wydruku lub kserokopii, wynoszą:
-1) 0,15 zł za stronę kopii czarno-białej;
-2) 1,5 zł za stronę kopii kolorowej.
+
+- **1)** 0,15 zł za stronę kopii czarno-białej;
+- **2)** 1,5 zł za stronę kopii kolorowej.
+
 3. Za sporządzanie kopii dokumentów lub danych, w formie wydruku lub kserokopii, w formacie:
-1) 297 mm x 420 mm (A3) pobiera się opłaty, o których mowa w ust. 2, mnożąc je przez współczynnik różnicujący 2;
-2) 420 mm x 594 mm (A2) pobiera się opłaty, o których mowa w ust. 2, mnożąc je przez współczynnik różnicujący 4;
-3) 594 mm x 841 mm (A1) pobiera się opłaty, o których mowa w ust. 2, mnożąc je przez współczynnik różnicujący 8;
-4) 841 mm x 1189 mm (A0) pobiera się opłaty, o których mowa w ust. 1, mnożąc je przez współczynnik różnicujący 16.
-§ 4. 1. Jeżeli wniosek dotyczy udostępnienia informacji w formie elektronicznej, pobiera się opłatę nie wyższą niż 1,50 zł za każdą płytę CD lub DVD.
+
+- **1)** 297 mm x 420 mm (A3) pobiera się opłaty, o których mowa w ust. 2, mnożąc je przez współczynnik różnicujący 2;
+- **2)** 420 mm x 594 mm (A2) pobiera się opłaty, o których mowa w ust. 2, mnożąc je przez współczynnik różnicujący 4;
+- **3)** 594 mm x 841 mm (A1) pobiera się opłaty, o których mowa w ust. 2, mnożąc je przez współczynnik różnicujący 8;
+- **4)** 841 mm x 1189 mm (A0) pobiera się opłaty, o których mowa w ust. 1, mnożąc je przez współczynnik różnicujący 16.
+
+**§ 4.**
+
+1. Jeżeli wniosek dotyczy udostępnienia informacji w formie elektronicznej, pobiera się opłatę nie wyższą niż 1,50 zł za każdą płytę CD lub DVD.
+
 2. Jeżeli wniosek dotyczy udostępnienia informacji na nośnikach innych niż nośniki, o których mowa w ust. 1, władze publiczne, po uzyskaniu zgody wnioskującego, pobierają opłatę równą kosztowi zakupu nośnika.
+
 3. Po udostępnieniu informacji nośnik stanowi własność wnioskującego.
-§ 5. Za przesłanie kopii dokumentów lub danych drogą pocztową pobiera się opłatę w wysokości podanej w obowiązującym cenniku usług pocztowych lub kurierskich operatora, który obsługuje władze publiczne, za przesyłkę danego rodzaju i danej kategorii wagowej.
-§ 6. Opłaty, o których mowa w § 2–5, uiszcza się w terminie 14 dni od dnia zawiadomienia o wysokości opłaty, przez wpłatę do kasy, na rachunek bankowy właściwych władz publicznych lub przy odbiorze przesyłki. Dodatkową opłatę przy odbiorze przesyłki uiszcza również wnioskujący.
-§ 7. Rozporządzenie wchodzi w życie z dniem 16 listopada 2010 r.
+
+**§ 5.** Za przesłanie kopii dokumentów lub danych drogą pocztową pobiera się opłatę w wysokości podanej w obowiązującym cenniku usług pocztowych lub kurierskich operatora, który obsługuje władze publiczne, za przesyłkę danego rodzaju i danej kategorii wagowej.
+
+**§ 6.** Opłaty, o których mowa w § 2–5, uiszcza się w terminie 14 dni od dnia zawiadomienia o wysokości opłaty, przez wpłatę do kasy, na rachunek bankowy właściwych władz publicznych lub przy odbiorze przesyłki. Dodatkową opłatę przy odbiorze przesyłki uiszcza również wnioskujący.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 16 listopada 2010 r.
 

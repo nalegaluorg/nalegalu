@@ -26,219 +26,339 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000517) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/517/text.pdf) |
 
 w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin Na podstawie art. 40 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) szczegółowe terminy składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup lub gatunków roślin rolniczych i warzywnych;
-2) liczbę rozmnożeń materiału siewnego dla poszczególnych grup lub gatunków roślin rolniczych i warzywnych, z uwzględnieniem opisu poszczególnych kategorii i stopni kwalifikacji materiału siewnego;
-3) szczegółowe wymagania w zakresie wytwarzania materiału siewnego roślin rolniczych i warzywnych, z uwzględnieniem w szczególności:
-a) terminów dokonywania i liczby ocen stanu plantacji nasiennej w odniesieniu do poszczególnych grup roślin i gatunków,
-b) izolacji przestrzennej od innych upraw, czystości gatunkowej i odmianowej, zdrowotności, określenie przedplonu oraz zmianowania roślin na plantacjach nasiennych,
-c) czasu prowadzenia plantacji wieloletnich roślin rolniczych,
-d) sposobu oznaczania plantacji nasiennych;
-4) szczegółowe wymagania w zakresie jakości materiału siewnego roślin rolniczych i warzywnych;
-5) dopuszczalną wielkość partii materiału siewnego roślin rolniczych i warzywnych w obrocie;
-6) sposób oznaczania partii materiału siewnego roślin rolniczych i warzywnych wytworzonego na terytorium Rzeczypospolitej Polskiej;
-7) wykaz gatunków roślin rolniczych, których materiał siewny może być uznany za materiał siewny kategorii handlowy, oraz wymagania jakościowe dla tego materiału;
-8) wzór upoważnienia udzielanego przez zachowującego odmianę osobie, która będzie prowadzić obrót materiałem siewnym, składającej wniosek o dokonanie oceny polowej materiału siewnego – w przypadku odmian chronionych wyłącznym prawem.
-§ 2. Wniosek o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych składa się w roku, w którym dany materiał ma być poddany ocenie polowej, w terminach do dnia:
-1) 15 marca:
-a) dla gatunków roślin uprawnych jednorocznych ozimych,
-b) dla gatunków roślin uprawnych wieloletnich;
-2) 20 maja – dla ziemniaka;
-3) 15 maja – dla gatunków roślin uprawnych jednorocznych innych niż wymienione w pkt 1 lit. a i pkt 2;
-4) 31 sierpnia – dla gatunków roślin o dwuletnim cyklu rozmnażania.
-§ 3. Wytwarzany materiał siewny powinien być wolny od:
-1) organizmów kwarantannowych;
-2) organizmów niekwarantannowych, które mogą mieć wpływ na jakość materiału siewnego.
-§ 4. 1. Plantacje nasienne, na których jest wytwarzany materiał siewny, powinny stanowić zwarty obszar uprawny.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** szczegółowe terminy składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup lub gatunków roślin rolniczych i warzywnych;
+- **2)** liczbę rozmnożeń materiału siewnego dla poszczególnych grup lub gatunków roślin rolniczych i warzywnych, z uwzględnieniem opisu poszczególnych kategorii i stopni kwalifikacji materiału siewnego;
+- **3)** szczegółowe wymagania w zakresie wytwarzania materiału siewnego roślin rolniczych i warzywnych, z uwzględnieniem w szczególności:
+    - **a)** terminów dokonywania i liczby ocen stanu plantacji nasiennej w odniesieniu do poszczególnych grup roślin i gatunków,
+    - **b)** izolacji przestrzennej od innych upraw, czystości gatunkowej i odmianowej, zdrowotności, określenie przedplonu oraz zmianowania roślin na plantacjach nasiennych,
+    - **c)** czasu prowadzenia plantacji wieloletnich roślin rolniczych,
+    - **d)** sposobu oznaczania plantacji nasiennych;
+
+- **4)** szczegółowe wymagania w zakresie jakości materiału siewnego roślin rolniczych i warzywnych;
+- **5)** dopuszczalną wielkość partii materiału siewnego roślin rolniczych i warzywnych w obrocie;
+- **6)** sposób oznaczania partii materiału siewnego roślin rolniczych i warzywnych wytworzonego na terytorium Rzeczypospolitej Polskiej;
+- **7)** wykaz gatunków roślin rolniczych, których materiał siewny może być uznany za materiał siewny kategorii handlowy, oraz wymagania jakościowe dla tego materiału;
+- **8)** wzór upoważnienia udzielanego przez zachowującego odmianę osobie, która będzie prowadzić obrót materiałem siewnym, składającej wniosek o dokonanie oceny polowej materiału siewnego – w przypadku odmian chronionych wyłącznym prawem.
+
+**§ 2.** Wniosek o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych składa się w roku, w którym dany materiał ma być poddany ocenie polowej, w terminach do dnia:
+
+- **1)** 15 marca:
+    - **a)** dla gatunków roślin uprawnych jednorocznych ozimych,
+    - **b)** dla gatunków roślin uprawnych wieloletnich;
+
+- **2)** 20 maja – dla ziemniaka;
+- **3)** 15 maja – dla gatunków roślin uprawnych jednorocznych innych niż wymienione w pkt 1 lit. a i pkt 2;
+- **4)** 31 sierpnia – dla gatunków roślin o dwuletnim cyklu rozmnażania.
+
+**§ 3.** Wytwarzany materiał siewny powinien być wolny od:
+
+- **1)** organizmów kwarantannowych;
+- **2)** organizmów niekwarantannowych, które mogą mieć wpływ na jakość materiału siewnego.
+
+**§ 4.**
+
+1. Plantacje nasienne, na których jest wytwarzany materiał siewny, powinny stanowić zwarty obszar uprawny.
+
 2. Plantacje nasienne powinny być wolne od:
-1) organizmów kwarantannowych;
-2) gatunków roślin uprawnych innych niż gatunek uprawiany;
-3) odmian tego samego gatunku innych niż odmiany uprawiane lub od roślin nietypowych dla tych odmian;
-4) chwastów, w szczególności takich gatunków, których nasiona są trudne do oddzielenia od nasion odmiany uprawianej i które mogą mieć wpływ na wytwarzanie lub jakość wytwarzanego materiału siewnego;
-5) organizmów niekwarantannowych, które mogą mieć wpływ na wytwarzanie lub jakość wytwarzanego materiału siewnego.
-§ 5. 1. Plantacje nasienne powinny być zakładane z zachowaniem:
-1) izolacji przestrzennej, która ma na celu oddzielenie plantacji nasiennej od źródeł obcego pyłku lub chorób i szkodników pochodzących ze zbiorowisk roślin uprawnych oraz dziko rosnących, mogących stanowić źródło obcego pyłku;
-2) szczegółowych wymagań dotyczących wytwarzania materiału siewnego poszczególnych gatunków roślin uprawnych.
+
+- **1)** organizmów kwarantannowych;
+- **2)** gatunków roślin uprawnych innych niż gatunek uprawiany;
+- **3)** odmian tego samego gatunku innych niż odmiany uprawiane lub od roślin nietypowych dla tych odmian;
+- **4)** chwastów, w szczególności takich gatunków, których nasiona są trudne do oddzielenia od nasion odmiany uprawianej i które mogą mieć wpływ na wytwarzanie lub jakość wytwarzanego materiału siewnego;
+- **5)** organizmów niekwarantannowych, które mogą mieć wpływ na wytwarzanie lub jakość wytwarzanego materiału siewnego.
+
+**§ 5.**
+
+1. Plantacje nasienne powinny być zakładane z zachowaniem:
+
+- **1)** izolacji przestrzennej, która ma na celu oddzielenie plantacji nasiennej od źródeł obcego pyłku lub chorób i szkodników pochodzących ze zbiorowisk roślin uprawnych oraz dziko rosnących, mogących stanowić źródło obcego pyłku;
+- **2)** szczegółowych wymagań dotyczących wytwarzania materiału siewnego poszczególnych gatunków roślin uprawnych.
+
 2. Jeżeli izolacja przestrzenna między plantacją nasienną, na której jest wytwarzany materiał siewny wyższego stopnia kwalifikacji, a plantacją nasienną, na której jest wytwarzany materiał siewny tego samego gatunku i tej samej odmiany niższego stopnia kwalifikacji, nie zostanie zachowana, materiał siewny pochodzący z plantacji nasiennej, na której jest wytwarzany materiał siewny wyższego stopnia kwalifikacji, uznaje się za materiał siewny w stopniu kwalifikacji nie wyższym niż materiał siewny wytwarzany na sąsiadującej plantacji nasiennej.
+
 3. Izolacja przestrzenna od materiałów hodowlanych nie jest wymagana dla plantacji nasiennej.
+
 4. Izolacja przestrzenna może być zmniejszona do 1/2 wymaganej odległości, jeżeli plantacja nasienna jest oddzielona od źródeł, o których mowa w ust. 1 pkt 1, lasem, wzgórzami lub wysokimi budynkami.
+
 5. Plantacje nasienne gatunków roślin uprawnych tworzących zwarty łan, w szczególności rzepaku, facelii błękitnej, buraka lub konopii, zakłada się w sposób, który umożliwia przeprowadzenie oceny polowej zgodnie z metodą określoną w przepisach wykonawczych wydanych na podstawie art. 51 ustawy z dnia 9 listopada 2012 r. o nasiennictwie, z zachowaniem:
-1) ścieżek technologicznych:
-a) w odstępach co 10–20 m – dla rzepaku, facelii błękitnej i buraka uprawianego metodą bezwysadkową,
-b) w odstępach co 6 lub 8 rzędów w przypadku wysadków sadzonych za pomocą sadzarek albo prostokątnych zagonów o powierzchni nie większej niż 100 m w przypadku wysadków sadzonych ręcznie – dla buraka w drugim roku uprawy metodą tradycyjną (wysadkową);
-2) nie mniej niż 35 cm szerokości międzyrzędzi – dla plantacji nasiennych konopii.
+
+- **1)** ścieżek technologicznych:
+    - **a)** w odstępach co 10–20 m – dla rzepaku, facelii błękitnej i buraka uprawianego metodą bezwysadkową,
+    - **b)** w odstępach co 6 lub 8 rzędów w przypadku wysadków sadzonych za pomocą sadzarek albo prostokątnych zagonów o powierzchni nie większej niż 100 m w przypadku wysadków sadzonych ręcznie – dla buraka w drugim roku uprawy metodą tradycyjną (wysadkową);
+
+- **2)** nie mniej niż 35 cm szerokości międzyrzędzi – dla plantacji nasiennych konopii.
+
 6. Plantacje nasienne wyki siewnej i wyki kosmatej mogą być zakładane z wsiewką innej rośliny (rośliną podporową), którą mogą stanowić rośliny zbożowe, z wyłączeniem kukurydzy, lub gorczyca sarepska. Rośliny podporowe nie mogą uniemożliwiać dokonania oceny polowej zgodnie z metodą, o której mowa w ust. 5, oraz sprawdzenia spełnienia szczegółowych wymagań dotyczących wytwarzania i jakości.
+
 7. Przy zakładaniu plantacji nasiennych odmian mieszańcowych, obsianych mieszaniną składników rodzicielskich, w pobliżu ocenianej plantacji nasiennej zakłada się poletka o powierzchni nie mniejszej niż 10 m , obsiane poszczególnymi składnikami rodzicielskimi i służące do oceny tożsamości i czystości odmianowej tych składników.
-§ 6. 1. Przedplonem plantacji nasiennej, który stanowi każda uprawa, niezależnie od jej przeznaczenia, poprzedzająca założenie plantacji nasiennej, nie mogą być rośliny wykluczające możliwość produkcji materiału siewnego danego gatunku.
+
+**§ 6.**
+
+1. Przedplonem plantacji nasiennej, który stanowi każda uprawa, niezależnie od jej przeznaczenia, poprzedzająca założenie plantacji nasiennej, nie mogą być rośliny wykluczające możliwość produkcji materiału siewnego danego gatunku.
+
 2. Na plantacjach nasiennych powinna być prowadzona systematyczna selekcja negatywna, polegająca w szczególności na usuwaniu roślin nietypowych, obcych gatunków uprawnych oraz porażonych chorobami, mogących stanowić źródło porażenia dla roślin uprawianych.
-§ 7. 1. Plantacje nasienne wieloletnich gatunków roślin rolniczych, w szczególności gatunków wiechlinowatych oraz bobowatych drobnonasiennych, mogą być prowadzone przez 3 następujące po sobie sezony wegetacyjne, licząc od pierwszego sezonu zbioru nasion.
+
+**§ 7.**
+
+1. Plantacje nasienne wieloletnich gatunków roślin rolniczych, w szczególności gatunków wiechlinowatych oraz bobowatych drobnonasiennych, mogą być prowadzone przez 3 następujące po sobie sezony wegetacyjne, licząc od pierwszego sezonu zbioru nasion.
+
 2. Jeżeli po okresie, o którym mowa w ust. 1, stan plantacji nasiennej umożliwia otrzymanie materiału siewnego zgodnego ze szczegółowymi wymaganiami dotyczącymi wytwarzania i jakości, plantacja nasienna może być prowadzona w następnych sezonach wegetacyjnych, w których podlega wyłącznie urzędowej ocenie polowej.
-§ 8. Plantacje nasienne znakuje się za pomocą tablicy, o wymiarach nie mniejszych niż 210 mm × 297 mm (format A4), zawierającej w szczególności następujące informacje:
-1) nazwę gatunku;
-2) nazwę wytwarzanej odmiany;
-3) stopień kwalifikacji wysianego materiału siewnego;
-4) powierzchnię plantacji nasiennej;
-5) imię i nazwisko albo nazwę podmiotu, który złożył wniosek o dokonanie oceny polowej materiału siewnego.
-§ 9. 1. Wytwarzany materiał siewny roślin zbożowych lub roślin pastewnych uznaje się za spełniający specjalne warunki dotyczące zawartości nasion owsa głuchego (Avena fatua i Avena sterilis), jeżeli:
-1) podczas urzędowej oceny polowej stwierdzono, że plantacja nasienna jest wolna od roślin owsa głuchego (Avena fatua i Avena sterilis);
-2) nie stwierdzono obecności nasion owsa głuchego (Avena fatua i Avena sterilis) w urzędowej próbie materiału siewnego, pochodzącego z tej plantacji nasiennej, o masie nie mniejszej niż:
-a) 1 kg – dla roślin zbożowych,
-b) 0,1 kg – dla roślin pastewnych, których nasiona są mniejsze od ziarniaków pszenicy.
+
+**§ 8.** Plantacje nasienne znakuje się za pomocą tablicy, o wymiarach nie mniejszych niż 210 mm × 297 mm (format A4), zawierającej w szczególności następujące informacje:
+
+- **1)** nazwę gatunku;
+- **2)** nazwę wytwarzanej odmiany;
+- **3)** stopień kwalifikacji wysianego materiału siewnego;
+- **4)** powierzchnię plantacji nasiennej;
+- **5)** imię i nazwisko albo nazwę podmiotu, który złożył wniosek o dokonanie oceny polowej materiału siewnego.
+
+**§ 9.**
+
+1. Wytwarzany materiał siewny roślin zbożowych lub roślin pastewnych uznaje się za spełniający specjalne warunki dotyczące zawartości nasion owsa głuchego (Avena fatua i Avena sterilis), jeżeli:
+
+- **1)** podczas urzędowej oceny polowej stwierdzono, że plantacja nasienna jest wolna od roślin owsa głuchego (Avena fatua i Avena sterilis);
+- **2)** nie stwierdzono obecności nasion owsa głuchego (Avena fatua i Avena sterilis) w urzędowej próbie materiału siewnego, pochodzącego z tej plantacji nasiennej, o masie nie mniejszej niż:
+    - **a)** 1 kg – dla roślin zbożowych,
+    - **b)** 0,1 kg – dla roślin pastewnych, których nasiona są mniejsze od ziarniaków pszenicy.
+
 2. Materiał siewny może być również uznany za spełniający specjalne warunki dotyczące zawartości nasion owsa głuchego (Avena fatua i Avena sterilis), jeżeli w urzędowym laboratorium nie stwierdzono obecności nasion Avena fatua lub Avena sterilis w pobranej z ocenianej partii materiału siewnego urzędowej próbie o masie nie mniejszej niż:
-1) 3 kg – dla roślin zbożowych;
-2) 0,5 kg – dla roślin pastewnych, których nasiona są równe lub większe od ziarniaków pszenicy;
-3) 0,3 kg – dla roślin pastewnych, których nasiona są mniejsze od ziarniaków pszenicy.
+
+- **1)** 3 kg – dla roślin zbożowych;
+- **2)** 0,5 kg – dla roślin pastewnych, których nasiona są równe lub większe od ziarniaków pszenicy;
+- **3)** 0,3 kg – dla roślin pastewnych, których nasiona są mniejsze od ziarniaków pszenicy.
+
 3. Spełnianie specjalnych warunków dotyczących zawartości nasion owsa głuchego (Avena fatua i Avena sterilis) przez partię materiału siewnego roślin zbożowych lub roślin pastewnych jest potwierdzane zaświadczeniem wydawanym, na wniosek zainteresowanego podmiotu, przez urzędowe laboratorium.
-§ 10. Dopuszczalna wielkość partii materiału siewnego mieszanki w obrocie jest sumą masy poszczególnych składników mieszanki deklarowanych przez wytwarzającego daną mieszankę.
-§ 11. Opis kategorii i stopni kwalifikacji materiału siewnego dla poszczególnych grup roślin jest określony w załączniku nr 1 do rozporządzenia.
-§ 12. 1. Szczegółowe wymagania dotyczące wytwarzania materiału siewnego roślin rolniczych, z wyłączeniem sadzeniaków ziemniaka, dla poszczególnych gatunków lub grup roślin są określone w załączniku nr 2 do rozporządzenia.
+
+**§ 10.** Dopuszczalna wielkość partii materiału siewnego mieszanki w obrocie jest sumą masy poszczególnych składników mieszanki deklarowanych przez wytwarzającego daną mieszankę.
+
+**§ 11.** Opis kategorii i stopni kwalifikacji materiału siewnego dla poszczególnych grup roślin jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 12.**
+
+1. Szczegółowe wymagania dotyczące wytwarzania materiału siewnego roślin rolniczych, z wyłączeniem sadzeniaków ziemniaka, dla poszczególnych gatunków lub grup roślin są określone w załączniku nr 2 do rozporządzenia.
+
 2. Ocena laboratoryjna materiału siewnego obejmuje oznaczenie masy tysiąca nasion (MTN).
+
 3. Masę tysiąca nasion (MTN), o której mowa w ust. 2, jako oznaczenie obowiązkowe stosuje się do roślin zbożowych, bobowatych grubonasiennych oraz rzepaku.
-§ 13. W przypadku materiału siewnego odmian regionalnych roślin rolniczych, roślin warzywnych i odmian amatorskich roślin warzywnych czystość odmianowa, określona na podstawie występowania roślin nietypowych dla ocenianej odmiany, może być niższa o 10% od czystości określonej w załączniku nr 2 do rozporządzenia dla odmiany tego samego gatunku, niebędącej odmianą regionalną.
-§ 14. Szczegółowe wymagania dotyczące wytwarzania i jakości sadzeniaków ziemniaka oraz dopuszczalna wielkość partii w obrocie są określone w załączniku nr 3 do rozporządzenia.
-§ 15. Szczegółowe wymagania dotyczące wytwarzania materiału siewnego roślin warzywnych są określone w załączniku nr 4 do rozporządzenia.
-§ 16. Szczegółowe wymagania dotyczące jakości oraz dopuszczalna wielkość partii w obrocie dla materiału siewnego roślin:
-1) rolniczych są określone w załączniku nr 5 do rozporządzenia;
-2) warzywnych są określone w załączniku nr 6 do rozporządzenia.
-§ 17. 1. Partię materiału siewnego utworzoną przez prowadzącego obrót, niezależnie od miejsca lub państwa produkcji materiału siewnego (położenia plantacji nasiennej), oznacza się numerem, z podaniem kolejno:
-1) dla materiału siewnego roślin rolniczych i warzywnych, z wyłączeniem sadzeniaków ziemniaka:
-a) ostatniej cyfry roku utworzenia partii albo łączenia – jeżeli jest to partia utworzona przez połączenie kilku partii,
-b) numeru w ewidencji prowadzącego obrót, po którym dopisuje się ukośnik,
-c) literowego lub cyfrowego oznaczenia własnego prowadzącego obrót stanowiącego nie więcej niż pięć znaków;
-2) dla sadzeniaków ziemniaka:
-a) ostatniej cyfry roku zbioru,
-b) numeru w ewidencji prowadzącego obrót, po którym dopisuje się ukośnik,
-c) numeru świadectwa oceny weryfikacyjnej (bez dwucyfrowego symbolu województwa oraz roku oceny), po którym dopisuje się ukośnik,
-d) litery alfabetu odpowiadającej kolejnej partii z danej plantacji nasiennej, po której dopisuje się myślnik,
-e) dwucyfrowego symbolu województwa oraz dwucyfrowego symbolu powiatu, w których była położona plantacja nasienna, nadanych w sposób określony w rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. Nr 157, poz. 1031, z późn. zm. ).
+
+**§ 13.** W przypadku materiału siewnego odmian regionalnych roślin rolniczych, roślin warzywnych i odmian amatorskich roślin warzywnych czystość odmianowa, określona na podstawie występowania roślin nietypowych dla ocenianej odmiany, może być niższa o 10% od czystości określonej w załączniku nr 2 do rozporządzenia dla odmiany tego samego gatunku, niebędącej odmianą regionalną.
+
+**§ 14.** Szczegółowe wymagania dotyczące wytwarzania i jakości sadzeniaków ziemniaka oraz dopuszczalna wielkość partii w obrocie są określone w załączniku nr 3 do rozporządzenia.
+
+**§ 15.** Szczegółowe wymagania dotyczące wytwarzania materiału siewnego roślin warzywnych są określone w załączniku nr 4 do rozporządzenia.
+
+**§ 16.** Szczegółowe wymagania dotyczące jakości oraz dopuszczalna wielkość partii w obrocie dla materiału siewnego roślin:
+
+- **1)** rolniczych są określone w załączniku nr 5 do rozporządzenia;
+- **2)** warzywnych są określone w załączniku nr 6 do rozporządzenia.
+
+**§ 17.**
+
+1. Partię materiału siewnego utworzoną przez prowadzącego obrót, niezależnie od miejsca lub państwa produkcji materiału siewnego (położenia plantacji nasiennej), oznacza się numerem, z podaniem kolejno:
+
+- **1)** dla materiału siewnego roślin rolniczych i warzywnych, z wyłączeniem sadzeniaków ziemniaka:
+    - **a)** ostatniej cyfry roku utworzenia partii albo łączenia – jeżeli jest to partia utworzona przez połączenie kilku partii,
+    - **b)** numeru w ewidencji prowadzącego obrót, po którym dopisuje się ukośnik,
+    - **c)** literowego lub cyfrowego oznaczenia własnego prowadzącego obrót stanowiącego nie więcej niż pięć znaków;
+
+- **2)** dla sadzeniaków ziemniaka:
+    - **a)** ostatniej cyfry roku zbioru,
+    - **b)** numeru w ewidencji prowadzącego obrót, po którym dopisuje się ukośnik,
+    - **c)** numeru świadectwa oceny weryfikacyjnej (bez dwucyfrowego symbolu województwa oraz roku oceny), po którym dopisuje się ukośnik,
+    - **d)** litery alfabetu odpowiadającej kolejnej partii z danej plantacji nasiennej, po której dopisuje się myślnik,
+    - **e)** dwucyfrowego symbolu województwa oraz dwucyfrowego symbolu powiatu, w których była położona plantacja nasienna, nadanych w sposób określony w rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. Nr 157, poz. 1031, z późn. zm. ).
+
 2. Jeżeli materiał siewny, o którym mowa w ust. 1 pkt 1, został oceniony przez podmiot, który uzyskał akredytację wojewódzkiego inspektora ochrony roślin i nasiennictwa, na końcu oznaczenia partii, po ukośniku, dodaje się literę „A”.
-3. Jeżeli prowadzący obrót prowadzi działalność w formie spółki cywilnej, numer, o którym mowa w ust. 1 pkt 1 lit.
-oraz pkt 2 lit. b, podaje ten wspólnik, który został do tego upoważniony na piśmie przez pozostałych wspólników.
+
+3. Jeżeli prowadzący obrót prowadzi działalność w formie spółki cywilnej, numer, o którym mowa w ust. 1 pkt 1 lit. oraz pkt 2 lit. b, podaje ten wspólnik, który został do tego upoważniony na piśmie przez pozostałych wspólników.
+
 4. Przed oznaczeniem, o którym mowa w ust. 1, umieszcza się symbol „PL”.
+
 5. Numer partii utworzony w sposób, o którym mowa w ust. 1 i 2, zapisuje się jako ciąg znaków bez odstępów.
-§ 18. Wzór upoważnienia udzielonego przez zachowującego odmianę chronioną wyłącznym prawem do złożenia wniosku o dokonanie oceny polowej materiału siewnego osobie, która będzie prowadzić obrót materiałem siewnym tej odmiany, jest określony w załączniku nr 7 do rozporządzenia.
-§ 19. Wykaz gatunków roślin rolniczych, których materiał siewny może być uznany za materiał siewny kategorii handlowy, jest określony w załączniku nr 8 do rozporządzenia.
-§ 20. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Kalemba SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE WYTWARZANIA MATERIAŁU SIEWNEGO ROŚLIN ROLNICZYCH, Z WYŁĄCZENIEM SADZENIAKÓW ZIEMNIAKA, DLA POSZCZEGÓLNYCH GATUNKÓW LUB GRUP ROŚLIN I. Wymagania dotyczące wytwarzania materiału siewnego roślin zbożowych
-1. Gatunki roślin zbożowych i najniższy obowiązujący stopień kwalifikacji C/2 C/2 C/2 C/2 C /2 C /2 C /2 C /2 C /2 C /2 C /1
-2. Odmiany mieszańcowe:
-1) materiał siewny składników rodzicielskich odmian mieszańcowych powinien być uznany w urzędowej ocenie jako spełniający wymagania dla materiału bazowego (B);
-2) materiał siewny odmian mieszańcowych powinien być uznany w urzędowej ocenie lub w ocenie pod urzędowym nadzorem jako spełniający wymagania dla materiału kwalifikowanego pierwszego rozmnożenia (C/1).
+
+**§ 18.** Wzór upoważnienia udzielonego przez zachowującego odmianę chronioną wyłącznym prawem do złożenia wniosku o dokonanie oceny polowej materiału siewnego osobie, która będzie prowadzić obrót materiałem siewnym tej odmiany, jest określony w załączniku nr 7 do rozporządzenia.
+
+**§ 19.** Wykaz gatunków roślin rolniczych, których materiał siewny może być uznany za materiał siewny kategorii handlowy, jest określony w załączniku nr 8 do rozporządzenia.
+
+**§ 20.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Kalemba SZCZEGÓŁOWE WYMAGANIA DOTYCZĄCE WYTWARZANIA MATERIAŁU SIEWNEGO ROŚLIN ROLNICZYCH, Z WYŁĄCZENIEM SADZENIAKÓW ZIEMNIAKA, DLA POSZCZEGÓLNYCH GATUNKÓW LUB GRUP ROŚLIN I. Wymagania dotyczące wytwarzania materiału siewnego roślin zbożowych 1. Gatunki roślin zbożowych i najniższy obowiązujący stopień kwalifikacji C/2 C/2 C/2 C/2 C /2 C /2 C /2 C /2 C /2 C /2 C /1 2. Odmiany mieszańcowe:
+
+- **1)** materiał siewny składników rodzicielskich odmian mieszańcowych powinien być uznany w urzędowej ocenie jako spełniający wymagania dla materiału bazowego (B);
+- **2)** materiał siewny odmian mieszańcowych powinien być uznany w urzędowej ocenie lub w ocenie pod urzędowym nadzorem jako spełniający wymagania dla materiału kwalifikowanego pierwszego rozmnożenia (C/1).
+
 3. Ocena stanu plantacji
+
 4. Przedplon:
-1) plantacje nasienne roślin zbożowych, z wyłączeniem kukurydzy, zakłada się na polu, na którym w ostatnim roku poprzedzającym rok założenia ocenianej plantacji nasiennej nie były uprawiane rośliny wykluczające możliwość produkcji materiału siewnego danego gatunku, w szczególności innej odmiany tego samego gatunku lub tej samej odmiany, lecz niższego stopnia kwalifikacji, z uwzględnieniem specyfiki gatunku;
-2) plantacje nasienne roślin zbożowych zakłada się na polu wolnym od roślin, które są samosiewami z poprzedniej uprawy.
+
+- **1)** plantacje nasienne roślin zbożowych, z wyłączeniem kukurydzy, zakłada się na polu, na którym w ostatnim roku poprzedzającym rok założenia ocenianej plantacji nasiennej nie były uprawiane rośliny wykluczające możliwość produkcji materiału siewnego danego gatunku, w szczególności innej odmiany tego samego gatunku lub tej samej odmiany, lecz niższego stopnia kwalifikacji, z uwzględnieniem specyfiki gatunku;
+- **2)** plantacje nasienne roślin zbożowych zakłada się na polu wolnym od roślin, które są samosiewami z poprzedniej uprawy.
+
 5. Izolacja przestrzenna 300 250 50 20 50 20 100 50 25 300 200 1000 500 600 500
+
 6. Czystość odmianowa 99,9 99,7 99,0 99,7 99,0 98,0 99,7 90,0 99,0 1,0 1,0 0,1 0,2 1,0 2,0
+
 7. Jednostki kwalifikacyjne – w ocenie polowej roślin zbożowych jednostką kwalifikacyjną jest powierzchnia:
-1) dla gatunków, dla których obowiązuje metoda oceny według norm powierzchni, dla materiału kategorii:
-a) elitarny – 30 m ,
-b) kwalifikowany – 10 m ;
-2) dla gatunków, dla których obowiązuje metoda oceny według norm procentowych, dla wszystkich kategorii – 20 m ;
-3) dla kukurydzy jednostkę kwalifikacyjną w ocenie polowej stanowi 100 kolejnych roślin w rzędzie.
+
+- **1)** dla gatunków, dla których obowiązuje metoda oceny według norm powierzchni, dla materiału kategorii:
+    - **a)** elitarny – 30 m ,
+    - **b)** kwalifikowany – 10 m ;
+
+- **2)** dla gatunków, dla których obowiązuje metoda oceny według norm procentowych, dla wszystkich kategorii – 20 m ;
+- **3)** dla kukurydzy jednostkę kwalifikacyjną w ocenie polowej stanowi 100 kolejnych roślin w rzędzie.
+
 8. Wymagania dodatkowe dla odmian mieszańcowych:
-1) w następczej ocenie tożsamości składnika matecznego żyta mieszańcowego liczba roślin innego składnika nie może przekraczać – 6 sztuk na 1000 roślin;
-2) w produkcji materiału kategorii elitarny, stopnia kwalifikacji B, żyta mieszańcowego poziom sterylności składnika matecznego (Rm) nie może być niższy niż – 98,0%;
-3) w materiale siewnym kategorii kwalifikowany, wytwarzanym jako mieszanina składników rodzicielskich, nie uznaje się roślin składnika ojcowskiego (Ro) za zanieczyszczenie, jeżeli udział tych roślin nie przekracza określonych przez hodowcę proporcji.
+
+- **1)** w następczej ocenie tożsamości składnika matecznego żyta mieszańcowego liczba roślin innego składnika nie może przekraczać – 6 sztuk na 1000 roślin;
+- **2)** w produkcji materiału kategorii elitarny, stopnia kwalifikacji B, żyta mieszańcowego poziom sterylności składnika matecznego (Rm) nie może być niższy niż – 98,0%;
+- **3)** w materiale siewnym kategorii kwalifikowany, wytwarzanym jako mieszanina składników rodzicielskich, nie uznaje się roślin składnika ojcowskiego (Ro) za zanieczyszczenie, jeżeli udział tych roślin nie przekracza określonych przez hodowcę proporcji.
+
 9. Czystość gatunkowa:
-1) plantacje nasienne roślin zbożowych powinny być praktycznie wolne od gatunków roślin uprawnych innych niż uprawiany, szczególnie gatunków mogących stanowić źródło obcego pyłku lub chorób i szkodników;
-2) występowanie innych gatunków roślin zbożowych na jednostce kwalifikacyjnej, które podlegają ocenie według norm:
-a) procentowych, na których jest produkowany materiał kategorii: – elitarny – nie więcej niż 0,2 rośliny, – kwalifikowany – nie więcej niż 1 roślina,
-b) powierzchni, na których jest produkowany materiał kategorii: – elitarny – nie więcej niż 0,3 rośliny, – kwalifikowany – nie więcej niż 0,5 rośliny.
+
+- **1)** plantacje nasienne roślin zbożowych powinny być praktycznie wolne od gatunków roślin uprawnych innych niż uprawiany, szczególnie gatunków mogących stanowić źródło obcego pyłku lub chorób i szkodników;
+- **2)** występowanie innych gatunków roślin zbożowych na jednostce kwalifikacyjnej, które podlegają ocenie według norm:
+    - **a)** procentowych, na których jest produkowany materiał kategorii: – elitarny – nie więcej niż 0,2 rośliny, – kwalifikowany – nie więcej niż 1 roślina,
+    - **b)** powierzchni, na których jest produkowany materiał kategorii: – elitarny – nie więcej niż 0,3 rośliny, – kwalifikowany – nie więcej niż 0,5 rośliny.
+
 10. Zachwaszczenie:
-1) plantacje nasienne roślin zbożowych powinny być praktycznie wolne od chwastów, w szczególności takich, których nasiona są trudne do usunięcia w procesie czyszczenia;
-2) występowanie na plantacji nasiennej chwastów w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej;
-3) na plantacjach nasiennych roślin zbożowych, na 1 ha występowanie roślin owsa głuchego w sztukach, nie może być większe niż: 7 7 0 7 50 20 0 50
+
+- **1)** plantacje nasienne roślin zbożowych powinny być praktycznie wolne od chwastów, w szczególności takich, których nasiona są trudne do usunięcia w procesie czyszczenia;
+- **2)** występowanie na plantacji nasiennej chwastów w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej;
+- **3)** na plantacjach nasiennych roślin zbożowych, na 1 ha występowanie roślin owsa głuchego w sztukach, nie może być większe niż: 7 7 0 7 50 20 0 50
+
 11. Choroby i szkodniki:
-1) występowanie na plantacji nasiennej chorób i szkodników w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej;
-2) z plantacji nasiennej wszystkich gatunków roślin zbożowych nie usuwa się roślin porażonych głownią;
-3) w okresie dużej wrażliwości ocenianej plantacji nasiennej na porażenie głownią uprawy roślin zbożowych w promieniu 50 m nie powinny zawierać średnio więcej niż 3 rośliny wytwarzające zarodniki głowni na jednostce powierzchni równej 30 m .
-II. Wymagania dotyczące wytwarzania materiału siewnego roślin pastewnych
+
+- **1)** występowanie na plantacji nasiennej chorób i szkodników w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej;
+- **2)** z plantacji nasiennej wszystkich gatunków roślin zbożowych nie usuwa się roślin porażonych głownią;
+- **3)** w okresie dużej wrażliwości ocenianej plantacji nasiennej na porażenie głownią uprawy roślin zbożowych w promieniu 50 m nie powinny zawierać średnio więcej niż 3 rośliny wytwarzające zarodniki głowni na jednostce powierzchni równej 30 m . II. Wymagania dotyczące wytwarzania materiału siewnego roślin pastewnych
+
 1. Gatunki roślin pastewnych i obowiązujący najniższy stopień kwalifikacji:
-1) bobowate (motylkowate) C/1 C/2 C/2 C/2 C/2 C/2 C/2 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/2 C/2 C /2 C /2
-2) wiechlinowate (trawy) C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C /1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1
-3) inne gatunki C/1 C/1 C/1 C/1
+
+- **1)** bobowate (motylkowate) C/1 C/2 C/2 C/2 C/2 C/2 C/2 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/2 C/2 C /2 C /2
+- **2)** wiechlinowate (trawy) C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C /1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1 C/1
+- **3)** inne gatunki C/1 C/1 C/1 C/1
+
 2. Wymagania dotyczące oceny stanu plantacji przedplonu i izolacji przestrzennej:
-1) ocena stanu plantacji
-2) przedplon
-3) izolacja przestrzenna
-4) czystość odmianowa
-5) czystość gatunkowa:
-a) plantacje nasienne roślin pastewnych powinny być praktycznie wolne od gatunków uprawnych innych niż uprawiany; dotyczy to w szczególności gatunków mogących doprowadzić do zapylenia obcym pyłkiem lub trudnych do usunięcia w procesie czyszczenia,
-b) występowanie innych gatunków roślin pastewnych na jednostce kwalifikacyjnej, które podlegają ocenie według norm: – procentowych, na których jest produkowany materiał siewny kategorii elitarny – nie więcej niż 0,2 rośliny, a kategorii kwalifikowany – nie więcej niż 1 roślina, – powierzchni, na których jest produkowany materiał siewny kategorii elitarny – nie więcej niż 0,3 rośliny, a kwalifikowany – nie więcej niż 0,5 rośliny,
-c) dla gatunków Lolium spp. oraz Festuca spp. x Lolium spp. występowanie roślin innych gatunków z rodzaju Lolium nie może przekraczać dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: – elitarny – 1 roślina/50 m , – kwalifikowany – 1 roślina/10 m ;
-6) zachwaszczenie:
-a) plantacje nasienne roślin pastewnych powinny być praktycznie wolne od chwastów, w szczególności takich, których nasiona są trudne do usunięcia w procesie czyszczenia,
-b) występowanie na plantacji nasiennej chwastów w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej zgodnie z metodą określoną w przepisach wykonawczych wydanych na podstawie art. 51 ustawy z dnia 9 listopada 2012 r.
-o nasiennictwie, zwaną dalej „obowiązującą metodą”, może być podstawą do dyskwalifikacji plantacji nasiennej;
-7) choroby i szkodniki:
-a) występowanie na plantacji nasiennej chorób i szkodników w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej, zgodnie z obowiązującą metodą, może być podstawą do dyskwalifikacji plantacji nasiennej,
-b) dla plantacji nasiennych, na których jest wytwarzany materiał siewny roślin bobowatych grubonasiennych, porażenie w szczególności chorobami grzybowymi z rodzaju Colletotrichum spp. może być podstawą do dyskwalifikacji plantacji nasiennej,
-c) dla plantacji nasiennych, na których jest wytwarzany materiał siewny roślin bobowatych drobnonasiennych, porażenie w szczególności chorobami zgorzelowymi, wirusowymi, zarazą, rakiem i rizoktoniozami może być podstawą do dyskwalifikacji plantacji nasiennej;
+
+- **1)** ocena stanu plantacji
+- **2)** przedplon
+- **3)** izolacja przestrzenna
+- **4)** czystość odmianowa
+- **5)** czystość gatunkowa:
+    - **a)** plantacje nasienne roślin pastewnych powinny być praktycznie wolne od gatunków uprawnych innych niż uprawiany; dotyczy to w szczególności gatunków mogących doprowadzić do zapylenia obcym pyłkiem lub trudnych do usunięcia w procesie czyszczenia,
+    - **b)** występowanie innych gatunków roślin pastewnych na jednostce kwalifikacyjnej, które podlegają ocenie według norm: – procentowych, na których jest produkowany materiał siewny kategorii elitarny – nie więcej niż 0,2 rośliny, a kategorii kwalifikowany – nie więcej niż 1 roślina, – powierzchni, na których jest produkowany materiał siewny kategorii elitarny – nie więcej niż 0,3 rośliny, a kwalifikowany – nie więcej niż 0,5 rośliny,
+    - **c)** dla gatunków Lolium spp. oraz Festuca spp. x Lolium spp. występowanie roślin innych gatunków z rodzaju Lolium nie może przekraczać dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: – elitarny – 1 roślina/50 m , – kwalifikowany – 1 roślina/10 m ;
+
+- **6)** zachwaszczenie: o nasiennictwie, zwaną dalej „obowiązującą metodą”, może być podstawą do dyskwalifikacji plantacji nasiennej;
+    - **a)** plantacje nasienne roślin pastewnych powinny być praktycznie wolne od chwastów, w szczególności takich, których nasiona są trudne do usunięcia w procesie czyszczenia,
+    - **b)** występowanie na plantacji nasiennej chwastów w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej zgodnie z metodą określoną w przepisach wykonawczych wydanych na podstawie art. 51 ustawy z dnia 9 listopada 2012 r.
+
+- **7)** choroby i szkodniki:
+    - **a)** występowanie na plantacji nasiennej chorób i szkodników w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej, zgodnie z obowiązującą metodą, może być podstawą do dyskwalifikacji plantacji nasiennej,
+    - **b)** dla plantacji nasiennych, na których jest wytwarzany materiał siewny roślin bobowatych grubonasiennych, porażenie w szczególności chorobami grzybowymi z rodzaju Colletotrichum spp. może być podstawą do dyskwalifikacji plantacji nasiennej,
+    - **c)** dla plantacji nasiennych, na których jest wytwarzany materiał siewny roślin bobowatych drobnonasiennych, porażenie w szczególności chorobami zgorzelowymi, wirusowymi, zarazą, rakiem i rizoktoniozami może być podstawą do dyskwalifikacji plantacji nasiennej;
+
 3. Wykaz gatunków chwastów, których nasiona są trudne do usunięcia w procesie czyszczenia
+
 4. Schematy krzyżowania się niektórych gatunków traw Schemat krzyżowania się różnych gatunków życic (Lolium spp.) z uwzględnieniem ploidalności odmian T T T T D D L D D Życica trwała T     Życica westerwoldzka T     Życica wielokwiatowa T     Życica mieszańcowa T     Życia trwała D      Życica westerwoldzka D      Życica westerwoldzka L      Życica wielokwiatowa D      Życica mieszańcowa D       ryzyko przekrzyżowania – obowiązek zachowania wymaganej izolacji przestrzennej T odmiany tetraploidalne D odmiany diploidalne L odmiany podstawowe (ploidalność podstawowa) III. Wymagania dotyczące wytwarzania materiału siewnego roślin oleistych i włóknistych
+
 1. Gatunki roślin oleistych i włóknistych i obowiązujący najniższy stopień kwalifikacji C/1 C/1 C/1 C/2 C/3 C/1 C/1 C/1 C/1 C /2
+
 2. Odmiany mieszańcowe:
-1) materiał siewny składników rodzicielskich odmian mieszańcowych powinien być uznany w urzędowej ocenie jako spełniający wymagania dla materiału bazowego ( B );
-2) materiał siewny odmian mieszańcowych powinien być uznany w urzędowej ocenie lub w ocenie pod urzędowym nadzorem jako spełniający wymagania dla materiału kwalifikowanego pierwszego rozmnożenia ( C /1).
+
+- **1)** materiał siewny składników rodzicielskich odmian mieszańcowych powinien być uznany w urzędowej ocenie jako spełniający wymagania dla materiału bazowego ( B );
+- **2)** materiał siewny odmian mieszańcowych powinien być uznany w urzędowej ocenie lub w ocenie pod urzędowym nadzorem jako spełniający wymagania dla materiału kwalifikowanego pierwszego rozmnożenia ( C /1).
+
 3. Ocena stanu plantacji
+
 4. Płodozmian:
-1) plantacje nasienne roślin oleistych i włóknistych zakłada się na polu, na którym w kilku ostatnich latach poprzedzających rok założenia ocenianej plantacji nasiennej nie były uprawiane rośliny wykluczające, uwzględniając specyfikę i wymagania szczegółowe roślin oleistych i włóknistych, możliwość produkcji nasion danego gatunku, w szczególności innej odmiany lub tej samej odmiany, lecz niższego stopnia kwalifikacji;
-2) pole dla plantacji nasiennych, o których mowa w pkt 1, powinno być praktycznie wolne od roślin, które są samosiewami z poprzedniej uprawy;
-3) plantacje nasienne rzepaku nie mogą być zakładane na polu, na którym były uprawiane:
-a) w ostatnich pięciu latach inne odmiany rzepaku w przypadku plantacji nasiennej podwójnie ulepszonych odmian rzepaku,
-b) w ostatnich trzech latach inne rośliny gatunków z rodziny Brassicaceae w przypadku plantacji nasiennych wszystkich odmian rzepaku;
-4) plantacji nasiennych kminku zwyczajnego nie zakłada się na polu, na którym w ostatnich dwóch latach były uprawiane rośliny z rodziny Apiaceae;
-5) plantacji nasiennych soi nie zakłada się na polu, na którym w ostatnich trzech latach uprawiano soję;
-6) plantacji nasiennych pozostałych gatunków roślin oleistych i włóknistych nie zakłada się na polu, na którym w roku poprzedzającym rok założenia ocenianej plantacji nasiennej był uprawiany ten sam gatunek;
-7) plantacje nasienne konopi zakłada się z zachowaniem szerokości międzyrzędzi nie mniejszej niż 35 cm;
-8) pole dla plantacji nasiennych roślin oleistych i włóknistych powinno być wolne od roślin, które są samosiewami z poprzedniej uprawy.
+
+- **1)** plantacje nasienne roślin oleistych i włóknistych zakłada się na polu, na którym w kilku ostatnich latach poprzedzających rok założenia ocenianej plantacji nasiennej nie były uprawiane rośliny wykluczające, uwzględniając specyfikę i wymagania szczegółowe roślin oleistych i włóknistych, możliwość produkcji nasion danego gatunku, w szczególności innej odmiany lub tej samej odmiany, lecz niższego stopnia kwalifikacji;
+- **2)** pole dla plantacji nasiennych, o których mowa w pkt 1, powinno być praktycznie wolne od roślin, które są samosiewami z poprzedniej uprawy;
+- **3)** plantacje nasienne rzepaku nie mogą być zakładane na polu, na którym były uprawiane:
+    - **a)** w ostatnich pięciu latach inne odmiany rzepaku w przypadku plantacji nasiennej podwójnie ulepszonych odmian rzepaku,
+    - **b)** w ostatnich trzech latach inne rośliny gatunków z rodziny Brassicaceae w przypadku plantacji nasiennych wszystkich odmian rzepaku;
+
+- **4)** plantacji nasiennych kminku zwyczajnego nie zakłada się na polu, na którym w ostatnich dwóch latach były uprawiane rośliny z rodziny Apiaceae;
+- **5)** plantacji nasiennych soi nie zakłada się na polu, na którym w ostatnich trzech latach uprawiano soję;
+- **6)** plantacji nasiennych pozostałych gatunków roślin oleistych i włóknistych nie zakłada się na polu, na którym w roku poprzedzającym rok założenia ocenianej plantacji nasiennej był uprawiany ten sam gatunek;
+- **7)** plantacje nasienne konopi zakłada się z zachowaniem szerokości międzyrzędzi nie mniejszej niż 35 cm;
+- **8)** pole dla plantacji nasiennych roślin oleistych i włóknistych powinno być wolne od roślin, które są samosiewami z poprzedniej uprawy.
+
 5. Izolacja przestrzenna 400 200 200 100 500 300 5000 1000 500 1500 – 750 500
+
 6. Czystość odmianowa 99,5 99,0 99,7 99,0 99,9 99,7 99,7 98,0 97,5 99,0 98,0 1,0 1,0 0,2 0,2 0,5 0,5 1,0 Czystość odmianowa:
-1) w składniku matecznym poziom męskiej sterylności stwierdzony w następczej ocenie tożsamości powinien wynosić nie mniej niż dla:
-a) rzepaku – 98,0% ,
-b) słonecznika – 95,0% ;
-2) dla odmian mieszańcowych słonecznika liczba roślin rozpoznawalnych jako niebędące linią wsobną lub innym składnikiem rodzicielskim nie może przekraczać:
-a) w produkcji składników rodzicielskich (Ro, Rm): – w składniku męskim, rośliny pylące, jeżeli co najmniej 2% osobników żeńskich ma podatne kwiaty – 0,2 rośliny na jednostkę (0,2%), – w składniku żeńskim – 0,5 rośliny na jednostkę (0,5%),
-b) w produkcji materiału siewnego mieszańców handlowych linie wsobne i pojedyncze mieszańce stanowiące składniki rodzicielskie: – w składniku męskim, rośliny pylące, jeżeli co najmniej 5% osobników żeńskich ma podatne kwiaty – 0,5 rośliny na jednostkę (0,5%), – w składniku żeńskim – 1,0 roślina na jednostkę (1,0%),
-c) jeżeli co najmniej 5% roślin składnika matecznego ma znamiona zdolne do zapylenia, to procent roślin w obrębie tego składnika, który pylił lub pyli, nie może przekraczać w każdej ocenie stanu plantacji – 0,5 rośliny na jednostkę (0,5%);
-3) występowanie roślin typowo męskich (płaskoni) w konopiach jednopiennych nie może przekraczać dla:
-a) materiału siewnego kategorii elitarny – 0,1 rośliny na 30m ,
-b) materiału siewnego kategorii kwalifikowany – 15 roślin na 10m .
-Płaskonie występujące w ilości przekraczającej powyższe normy powinny być usuwane z plantacji nasiennej wraz z korzeniami i niszczone przed rozpoczęciem pylenia.
+
+- **1)** w składniku matecznym poziom męskiej sterylności stwierdzony w następczej ocenie tożsamości powinien wynosić nie mniej niż dla:
+    - **a)** rzepaku – 98,0% ,
+    - **b)** słonecznika – 95,0% ;
+
+- **2)** dla odmian mieszańcowych słonecznika liczba roślin rozpoznawalnych jako niebędące linią wsobną lub innym składnikiem rodzicielskim nie może przekraczać:
+    - **a)** w produkcji składników rodzicielskich (Ro, Rm): – w składniku męskim, rośliny pylące, jeżeli co najmniej 2% osobników żeńskich ma podatne kwiaty – 0,2 rośliny na jednostkę (0,2%), – w składniku żeńskim – 0,5 rośliny na jednostkę (0,5%),
+    - **b)** w produkcji materiału siewnego mieszańców handlowych linie wsobne i pojedyncze mieszańce stanowiące składniki rodzicielskie: – w składniku męskim, rośliny pylące, jeżeli co najmniej 5% osobników żeńskich ma podatne kwiaty – 0,5 rośliny na jednostkę (0,5%), – w składniku żeńskim – 1,0 roślina na jednostkę (1,0%),
+    - **c)** jeżeli co najmniej 5% roślin składnika matecznego ma znamiona zdolne do zapylenia, to procent roślin w obrębie tego składnika, który pylił lub pyli, nie może przekraczać w każdej ocenie stanu plantacji – 0,5 rośliny na jednostkę (0,5%);
+
+- **3)** występowanie roślin typowo męskich (płaskoni) w konopiach jednopiennych nie może przekraczać dla: Płaskonie występujące w ilości przekraczającej powyższe normy powinny być usuwane z plantacji nasiennej wraz z korzeniami i niszczone przed rozpoczęciem pylenia.
+    - **a)** materiału siewnego kategorii elitarny – 0,1 rośliny na 30m ,
+    - **b)** materiału siewnego kategorii kwalifikowany – 15 roślin na 10m .
+
 7. Czystość gatunkowa:
-1) plantacje nasienne roślin oleistych i włóknistych powinny być praktycznie wolne od gatunków innych niż uprawiany, szczególnie gatunków mogących stanowić źródło obcego pyłku lub trudnych do odczyszczenia w procesach technologicznych;
-2) występowanie innych gatunków roślin oleistych lub włóknistych na jednostce kwalifikacyjnej, które podlegają ocenie według norm:
-a) procentowych, na których jest produkowany materiał siewny kategorii: – elitarny – nie więcej niż 0,2 rośliny , – kwalifikowany – nie więcej niż 1 roślina ,
-b) powierzchni, na których jest produkowany materiał siewny kategorii: – elitarny – nie więcej niż 0,3 rośliny , – kwalifikowany – nie więcej niż 0,5 rośliny .
+
+- **1)** plantacje nasienne roślin oleistych i włóknistych powinny być praktycznie wolne od gatunków innych niż uprawiany, szczególnie gatunków mogących stanowić źródło obcego pyłku lub trudnych do odczyszczenia w procesach technologicznych;
+- **2)** występowanie innych gatunków roślin oleistych lub włóknistych na jednostce kwalifikacyjnej, które podlegają ocenie według norm:
+    - **a)** procentowych, na których jest produkowany materiał siewny kategorii: – elitarny – nie więcej niż 0,2 rośliny , – kwalifikowany – nie więcej niż 1 roślina ,
+    - **b)** powierzchni, na których jest produkowany materiał siewny kategorii: – elitarny – nie więcej niż 0,3 rośliny , – kwalifikowany – nie więcej niż 0,5 rośliny .
+
 8. Zachwaszczenie:
-1) plantacje nasienne roślin oleistych i włóknistych powinny być praktycznie wolne od chwastów, w szczególności takich, których nasiona są trudne do usunięcia w procesie czyszczenia;
-2) występowanie na plantacji nasiennej chwastów w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej.
+
+- **1)** plantacje nasienne roślin oleistych i włóknistych powinny być praktycznie wolne od chwastów, w szczególności takich, których nasiona są trudne do usunięcia w procesie czyszczenia;
+- **2)** występowanie na plantacji nasiennej chwastów w ilości powodującej ograniczenie wykształcenia nasion lub uniemożliwiającej przeprowadzenie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej.
+
 9. Choroby i szkodniki:
-1) plantacje nasienne roślin oleistych i włóknistych powinny być praktycznie wolne od chorób i szkodników;
-2) porażenie plantacji nasiennej przez choroby i szkodniki w stopniu powodującym ograniczenie wykształcenia nasion lub uniemożliwiającym przeprowadzenie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej.
+
+- **1)** plantacje nasienne roślin oleistych i włóknistych powinny być praktycznie wolne od chorób i szkodników;
+- **2)** porażenie plantacji nasiennej przez choroby i szkodniki w stopniu powodującym ograniczenie wykształcenia nasion lub uniemożliwiającym przeprowadzenie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej.
+
 10. Wykaz gatunków, których nasiona są trudne do usunięcia w procesie czyszczenia
+
 11. Podział roślin kapustowatych na grupy w zależności od możliwości przekrzyżowania się Grupa I Grupa II Grupa III IV. Wymagania dotyczące wytwarzania materiału siewnego buraka cukrowego i pastewnego
+
 1. Materiał siewny buraka może być wytwarzany metodą bezwysadkową, wyłącznie z materiału siewnego uznanego w urzędowej ocenie za materiał siewny kategorii elitarny.
+
 2. Materiał siewny buraka wytworzony metodą bezwysadkową uznaje się w najniższym stopniu kwalifikacji (dla buraka jest to C /1).
+
 3. Nazwy gatunków buraków i obowiązujący najniższy stopień kwalifikacji Beta vulgaris L. ssp. vulgaris convar. vulgaris Burak cukrowy var. altissima Doll C /1 Beta vulgaris L. ssp. vulgaris convar. vulgaris Burak pastewny var. rapacea K. Koch C /1
+
 4. Odmiany mieszańcowe:
-1) materiał siewny składników rodzicielskich odmian mieszańcowych powinien być uznany w urzędowej ocenie jako spełniający wymagania dla materiału bazowego ( B );
-2) materiał siewny odmian mieszańcowych powinien być uznany w urzędowej ocenie lub w ocenie pod urzędowym nadzorem jako spełniający wymagania dla materiału kwalifikowanego pierwszego rozmnożenia (C/1).
+
+- **1)** materiał siewny składników rodzicielskich odmian mieszańcowych powinien być uznany w urzędowej ocenie jako spełniający wymagania dla materiału bazowego ( B );
+- **2)** materiał siewny odmian mieszańcowych powinien być uznany w urzędowej ocenie lub w ocenie pod urzędowym nadzorem jako spełniający wymagania dla materiału kwalifikowanego pierwszego rozmnożenia (C/1).
+
 5. Ocena stanu plantacji 1 2 3 4
+
 6. Przedplon:
-1) plantacje nasienne buraka zakłada się na polu, na którym w kilku latach poprzedzających rok założenia ocenianej plantacji nasiennej nie były uprawiane rośliny wykluczające możliwość produkcji materiału siewnego, w szczególności, na którym w ostatnich czterech latach były uprawiane buraki lub występowały burakochwasty, albo
-2) w roku poprzedzającym rok założenia ocenianej plantacji nasiennej były uprawiane gatunki roślin z rodziny Brassicaceae.
+
+- **1)** plantacje nasienne buraka zakłada się na polu, na którym w kilku latach poprzedzających rok założenia ocenianej plantacji nasiennej nie były uprawiane rośliny wykluczające możliwość produkcji materiału siewnego, w szczególności, na którym w ostatnich czterech latach były uprawiane buraki lub występowały burakochwasty, albo
+- **2)** w roku poprzedzającym rok założenia ocenianej plantacji nasiennej były uprawiane gatunki roślin z rodziny Brassicaceae.
+
 7. Izolacja przestrzenna 1000 1000 600 1 600 600 300 300 300 2
+
 8. Czystość odmianowa:
-1) plantacja nasienna buraka powinna być wolna od roślin innych odmian lub roślin nietypowych dla odmiany i typów użytkowych buraka;
-2) obecność roślin pylących w męskosterylnym składniku odmiany mieszańcowej jest niedopuszczalna.
+
+- **1)** plantacja nasienna buraka powinna być wolna od roślin innych odmian lub roślin nietypowych dla odmiany i typów użytkowych buraka;
+- **2)** obecność roślin pylących w męskosterylnym składniku odmiany mieszańcowej jest niedopuszczalna.
+
 9. Czystość gatunkowa:
-1) plantacje nasienne powinny być praktycznie wolne od gatunków innych niż uprawiany;
-2) występowanie roślin należących do innych gatunków, w szczególności burakochwastów, których nasiona są trudne do odróżnienia podczas badania laboratoryjnego od nasion uprawianej odmiany, jest podstawą do dyskwalifikacji plantacji nasiennej.
+
+- **1)** plantacje nasienne powinny być praktycznie wolne od gatunków innych niż uprawiany;
+- **2)** występowanie roślin należących do innych gatunków, w szczególności burakochwastów, których nasiona są trudne do odróżnienia podczas badania laboratoryjnego od nasion uprawianej odmiany, jest podstawą do dyskwalifikacji plantacji nasiennej.
+
 10. Zachwaszczenie:
-1) plantacja nasienna buraka powinna być praktycznie wolna od chwastów;
-2) wystąpienie chwastów w ilości utrudniającej dobre wykształcenie nasion lub dokonanie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej.
+
+- **1)** plantacja nasienna buraka powinna być praktycznie wolna od chwastów;
+- **2)** wystąpienie chwastów w ilości utrudniającej dobre wykształcenie nasion lub dokonanie oceny polowej może być podstawą do dyskwalifikacji plantacji nasiennej.
+
 11. Choroby i szkodniki: Występowanie na plantacji nasiennej chorób i szkodników w stopniu mogącym pogorszyć jakość nasion lub uniemożliwiającym dokonanie oceny jest podstawą do dyskwalifikacji plantacji nasiennej.
 
 ## Załącznik nr 3 — SZCZEGÓŁOWE SZCZEGÓŁOWE WYMAGANIA WYMAGANIA DOTYCZĄCE WYTWARZANIA DOTYCZĄCE WYTWARZANIA I JAKOŚCI SADZENIAKÓW I JAKOŚCI ZIEMNIAKA SADZENIAKÓW ORAZ DOPUSZCZALNA ZIEMNIAKA ORAZ WIELKOŚĆ DOPUSZCZALNA PARTII W OBROCIE WIELKOŚĆ PARTII W OBROCIE Najniższy stopień kwalifikacji – materiał kwalifikowany klasy B (C/B)

@@ -28,7 +28,8 @@ source: pdf
 
 w sprawie stawki podstawowego wsparcia dochodów do celów zrównoważoności za 2025 r.
 Na podstawie art. 49 ust. 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 1741 oraz z 2025 r. poz. 321) zarządza się, co następuje:
-§ 1. Stawka podstawowego wsparcia dochodów do celów zrównoważoności wymienionego w art. 20 pkt 1 lit. a ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 za 2025 r. wynosi 488,55 zł na hektar powierzchni obszaru zatwierdzonego do tego wsparcia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 16 października 2025 r.
-Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
+
+**§ 1.** Stawka podstawowego wsparcia dochodów do celów zrównoważoności wymienionego w art. 20 pkt 1 lit. a ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 za 2025 r. wynosi 488,55 zł na hektar powierzchni obszaru zatwierdzonego do tego wsparcia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 16 października 2025 r. Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
 

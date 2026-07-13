@@ -29,13 +29,33 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. Nr 45, poz. 235, Nr 131, poz. 764 i Nr 171, poz. 1016) wprowadza się następujące zmiany:
 
-- **1)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. 1. Rodzic ubiegający się o objęcie dziecka opieką w żłobku lub klubie dziecięcym albo przez dziennego opiekuna przedstawia, w formie oświadczenia lub zaświadczenia, następujące dane: 1) imię, nazwisko, datę urodzenia oraz numer PESEL dziecka; 2) imiona, nazwiska oraz numery PESEL rodziców; 3) adres miejsca zamieszkania rodziców i dziecka; 4) adres poczty elektronicznej i numer telefonu rodziców – o ile je posiadają; 5) miejsce pracy rodziców lub miejsce pobierania nauki w szkole lub szkole wyższej przez rodziców – o ile pracują lub pobierają naukę; 6) dane o stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka; 7) dane o wysokości dochodów rodziców – w przypadku ubiegania się przez rodziców o częściowe lub całkowite zwolnienie z opłat, jeżeli zwolnienie to jest uzależnione od wysokości dochodów. 2. Podmiot prowadzący żłobek lub klub dziecięcy oraz podmiot zatrudniający dziennego opiekuna mogą przetwarzać dane, o których mowa w ust. 1, wyłącznie w związku z rekrutacją oraz w zakresie i w celu zapewnienia dziecku prawidłowej opieki.”;
+- **1)** po art. 3 dodaje się art. 3a w brzmieniu:
+
+  > „Art. 3a.  
+  > 1. Rodzic ubiegający się o objęcie dziecka opieką w żłobku lub klubie dziecięcym albo przez dziennego opiekuna przedstawia, w formie oświadczenia lub zaświadczenia, następujące dane:  
+  > 1) imię, nazwisko, datę urodzenia oraz numer PESEL dziecka;  
+  > 2) imiona, nazwiska oraz numery PESEL rodziców;  
+  > 3) adres miejsca zamieszkania rodziców i dziecka;  
+  > 4) adres poczty elektronicznej i numer telefonu rodziców – o ile je posiadają;  
+  > 5) miejsce pracy rodziców lub miejsce pobierania nauki w szkole lub szkole wyższej przez rodziców – o ile pracują lub pobierają naukę;  
+  > 6) dane o stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka;  
+  > 7) dane o wysokości dochodów rodziców – w przypadku ubiegania się przez rodziców o częściowe lub całkowite zwolnienie z opłat, jeżeli zwolnienie to jest uzależnione od wysokości dochodów.  
+  > 2. Podmiot prowadzący żłobek lub klub dziecięcy oraz podmiot zatrudniający dziennego opiekuna mogą przetwarzać dane, o których mowa w ust. 1, wyłącznie w związku z rekrutacją oraz w zakresie i w celu zapewnienia dziecku prawidłowej opieki.”;  
 - **2)** w art. 5:
     - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw rodziny:”,
     - **b)** w pkt 3 średnik zastępuje się kropką i uchyla się pkt 4;
 
-- **3)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. 1. Podmioty, o których mowa w art. 8 ust. 1, mogą zorganizować wspólną obsługę administracyjną, finansową i organizacyjną żłobków, klubów dziecięcych lub ich zespołów. 2. Obsługa, o której mowa w ust. 1, może również być wykonywana przez jednostki, o których mowa w art. 5 ust. 9 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ).”;
-- **4)** art. 25 otrzymuje brzmienie: „Art. 25. 1. Żłobek oraz klub dziecięcy mogą być prowadzone w lokalu, który spełnia wymagania lokalowe i sanitarne zawarte w przepisach wydanych na podstawie ust. 3. 2. Spełnienie wymagań, o których mowa w ust. 1, potwierdza się pozytywną opinią komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej oraz pozytywną opinią właściwego państwowego inspektora sanitarnego. 3. Minister właściwy do spraw rodziny, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, wymagania lokalowe i sanitarne jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy, uwzględniając konieczność zapewnienia odpowiedniej jakości opieki sprawowanej nad dziećmi i warunków ochrony przeciwpożarowej oraz liczbę dzieci, nad którymi sprawowana jest opieka.”;
+- **3)** po art. 9 dodaje się art. 9a w brzmieniu:
+
+  > „Art. 9a.  
+  > 1. Podmioty, o których mowa w art. 8 ust. 1, mogą zorganizować wspólną obsługę administracyjną, finansową i organizacyjną żłobków, klubów dziecięcych lub ich zespołów.  
+  > 2. Obsługa, o której mowa w ust. 1, może również być wykonywana przez jednostki, o których mowa w art. 5 ust. 9 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ).”;  
+- **4)** art. 25 otrzymuje brzmienie:
+
+  > „Art. 25.  
+  > 1. Żłobek oraz klub dziecięcy mogą być prowadzone w lokalu, który spełnia wymagania lokalowe i sanitarne zawarte w przepisach wydanych na podstawie ust. 3.  
+  > 2. Spełnienie wymagań, o których mowa w ust. 1, potwierdza się pozytywną opinią komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej oraz pozytywną opinią właściwego państwowego inspektora sanitarnego.  
+  > 3. Minister właściwy do spraw rodziny, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, wymagania lokalowe i sanitarne jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy, uwzględniając konieczność zapewnienia odpowiedniej jakości opieki sprawowanej nad dziećmi i warunków ochrony przeciwpożarowej oraz liczbę dzieci, nad którymi sprawowana jest opieka.”;  
 - **5)** w art. 27:
     - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wójt, burmistrz lub prezydent miasta publikuje rejestr za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 64 ust. 2.”,
     - **b)** w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) liczbę miejsc w żłobku lub klubie dziecięcym.”,
@@ -48,7 +68,11 @@ source: pdf
     - **d)** dodaje się ust. 4 w brzmieniu: „4. W celu sprawdzenia zgodności danych, o których mowa w ust. 1, wójt, burmistrz lub prezydent miasta może żądać: odpisu z odpowiedniego rejestru, dokumentu potwierdzającego tożsamość, zaświadczenia o niekaralności lub dokumentu potwierdzającego tytuł prawny do lokalu, w którym ma być prowadzony żłobek lub klub dziecięcy.”;
 
 - **7)** uchyla się art. 29;
-- **8)** po art. 35 dodaje się art. 35a w brzmieniu: „Art. 35a. 1. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, wzory dokumentów elektronicznych o wpis, zmianę oraz wykreślenie w rejestrze żłobków i klubów dziecięcych, mając na uwadze potrzebę ujednolicenia formy składanych wniosków, ułatwienia ich przekazywania oraz sprawność postępowania. 2. Wzory, o których mowa w ust. 1, minister właściwy do spraw rodziny zamieści w centralnym repozytorium wzorów dokumentów elektronicznych, o którym mowa w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235).”;
+- **8)** po art. 35 dodaje się art. 35a w brzmieniu:
+
+  > „Art. 35a.  
+  > 1. Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, wzory dokumentów elektronicznych o wpis, zmianę oraz wykreślenie w rejestrze żłobków i klubów dziecięcych, mając na uwadze potrzebę ujednolicenia formy składanych wniosków, ułatwienia ich przekazywania oraz sprawność postępowania.  
+  > 2. Wzory, o których mowa w ust. 1, minister właściwy do spraw rodziny zamieści w centralnym repozytorium wzorów dokumentów elektronicznych, o którym mowa w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2013 r. poz. 235).”;  
 - **9)** w art. 36 ust. 1 otrzymuje brzmienie: „1. Dziennym opiekunem jest osoba fizyczna zatrudniana przez podmioty, o których mowa w art. 8 ust. 1 pkt 1 i 3, na podstawie umowy o świadczenie usług, do której zgodnie z przepisami Kodeksu cywilnego stosuje się przepisy dotyczące zlecenia.”;
 - **10)** w art. 39:
     - **a)** ust. 3 otrzymuje brzmienie: „3. W celu weryfikacji spełnienia warunków, o których mowa w ust. 1, u kandydata na dziennego opiekuna zatrudnianego przez gminę może być przeprowadzony przez kierownika ośrodka pomocy społecznej wywiad środowiskowy. Wywiad środowiskowy jest przeprowadzany na zlecenie wójta, burmistrza lub prezydenta miasta.”,
@@ -68,14 +92,41 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. Wysokość opłaty oraz opłaty, o której mowa w art. 12 ust. 3, za pobyt dziecka w żłobku lub klubie dziecięcym utworzonym przez gminę albo u dziennego opiekuna zatrudnionego przez gminę oraz maksymalną wysokość opłaty za wyżywienie ustala rada gminy w drodze uchwały.”,
     - **b)** dodaje się ust. 3 w brzmieniu: „3. W przypadku zatrudniania dziennego opiekuna przez podmioty, o których mowa w art. 8 ust. 1 pkt 3, wysokość opłat określa podmiot, który zatrudnia dziennego opiekuna.”;
 
-- **19)** art. 60 otrzymuje brzmienie: „Art. 60. 1. Podmioty, o których mowa w art. 8 ust. 1, prowadzące żłobek lub klub dziecięcy, lub zatrudniające dziennych opiekunów mogą otrzymać na każde dziecko objęte opieką w żłobku lub klubie dziecięcym, lub przez dziennego opiekuna dotację celową z budżetu gminy. 2. Wysokość i zasady ustalania oraz rozliczania dotacji celowej, o której mowa w ust. 1, określa rada gminy w drodze uchwały.”;
+- **19)** art. 60 otrzymuje brzmienie:
+
+  > „Art. 60.  
+  > 1. Podmioty, o których mowa w art. 8 ust. 1, prowadzące żłobek lub klub dziecięcy, lub zatrudniające dziennych opiekunów mogą otrzymać na każde dziecko objęte opieką w żłobku lub klubie dziecięcym, lub przez dziennego opiekuna dotację celową z budżetu gminy.  
+  > 2. Wysokość i zasady ustalania oraz rozliczania dotacji celowej, o której mowa w ust. 1, określa rada gminy w drodze uchwały.”;  
 - **20)** w art. 61 ust. 1 otrzymuje brzmienie: „1. Wójt, burmistrz lub prezydent miasta może zlecić podmiotom, o których mowa w art. 8 ust. 1, organizację opieki sprawowanej w formie żłobka lub klubu dziecięcego lub przez dziennych opiekunów.”;
-- **21)** art. 62 otrzymuje brzmienie: „Art. 62. 1. Minister właściwy do spraw rodziny opracowuje resortowe oraz rządowe programy rozwoju instytucji opieki nad dziećmi w wieku do lat 3 oraz finansowo wspiera te programy. Opracowanie i realizacja programów odbywa się we współpracy z wojewodą. 2. Programy, o których mowa w ust. 1, określają tryb i kryteria wyboru podmiotów korzystających z nich, w szczególności uwzględniając: 1) jakość lub zakres oferowanych usług; 2) zapotrzebowanie na usługi świadczone przez te podmioty; 3) minimalny okres funkcjonowania instytucji lub miejsc opieki dofinansowanych z dotacji budżetu państwa. 3. Programy, o których mowa w ust. 1, mogą być kierowane do podmiotów, o których mowa w art. 8 ust. 1. 4. Podmioty, o których mowa w art. 8 ust. 1, korzystające z programów, o których mowa w ust. 1, mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie utworzenia lub funkcjonowania żłobków, klubów dziecięcych lub dziennych opiekunów, przy czym wysokość dotacji nie może przekroczyć 80% kosztów realizacji zadania. 5. Dotacji, o której mowa w ust. 4, udziela wojewoda po uzgodnieniu z ministrem właściwym do spraw rodziny. 6. Wojewoda, udzielając podmiotowi dotacji, o której mowa w ust. 4, zawiera z nim umowę określającą w szczególności: 1) szczegółowy opis zadania, w tym cel, na jaki dotacja została przyznana, i termin jego wykonania; 2) wysokość udzielonej dotacji; 3) tryb płatności; 4) termin wykorzystania dotacji, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego; 5) termin i sposób rozliczenia udzielonej dotacji, w tym zasady rozliczania dotacji w przypadku skrócenia okresu funkcjonowania instytucji lub miejsc opieki dofinansowanych z dotacji, o którym mowa w ust. 2 pkt 3; 6) termin zwrotu niewykorzystanej części dotacji, nie dłuższy niż 15 dni od określonego w umowie dnia wykonania zadania; 7) tryb kontroli wykonania zadania; w umowie można postanowić, że kontrola będzie prowadzona na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej; 8) warunki i sposób zmiany oraz rozwiązania umowy, w tym zasady zwrotu dotacji w przypadku skrócenia okresu funkcjonowania instytucji lub miejsc opieki dofinansowanych z dotacji, o którym mowa w ust. 2 pkt 3.”;
+- **21)** art. 62 otrzymuje brzmienie:
+
+  > „Art. 62.  
+  > 1. Minister właściwy do spraw rodziny opracowuje resortowe oraz rządowe programy rozwoju instytucji opieki nad dziećmi w wieku do lat 3 oraz finansowo wspiera te programy. Opracowanie i realizacja programów odbywa się we współpracy z wojewodą.  
+  > 2. Programy, o których mowa w ust. 1, określają tryb i kryteria wyboru podmiotów korzystających z nich, w szczególności uwzględniając:  
+  > 1) jakość lub zakres oferowanych usług;  
+  > 2) zapotrzebowanie na usługi świadczone przez te podmioty;  
+  > 3) minimalny okres funkcjonowania instytucji lub miejsc opieki dofinansowanych z dotacji budżetu państwa.  
+  > 3. Programy, o których mowa w ust. 1, mogą być kierowane do podmiotów, o których mowa w art. 8 ust. 1.  
+  > 4. Podmioty, o których mowa w art. 8 ust. 1, korzystające z programów, o których mowa w ust. 1, mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie utworzenia lub funkcjonowania żłobków, klubów dziecięcych lub dziennych opiekunów, przy czym wysokość dotacji nie może przekroczyć 80% kosztów realizacji zadania.  
+  > 5. Dotacji, o której mowa w ust. 4, udziela wojewoda po uzgodnieniu z ministrem właściwym do spraw rodziny.  
+  > 6. Wojewoda, udzielając podmiotowi dotacji, o której mowa w ust. 4, zawiera z nim umowę określającą w szczególności:  
+  > 1) szczegółowy opis zadania, w tym cel, na jaki dotacja została przyznana, i termin jego wykonania;  
+  > 2) wysokość udzielonej dotacji;  
+  > 3) tryb płatności;  
+  > 4) termin wykorzystania dotacji, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;  
+  > 5) termin i sposób rozliczenia udzielonej dotacji, w tym zasady rozliczania dotacji w przypadku skrócenia okresu funkcjonowania instytucji lub miejsc opieki dofinansowanych z dotacji, o którym mowa w ust. 2 pkt 3;  
+  > 6) termin zwrotu niewykorzystanej części dotacji, nie dłuższy niż 15 dni od określonego w umowie dnia wykonania zadania;  
+  > 7) tryb kontroli wykonania zadania; w umowie można postanowić, że kontrola będzie prowadzona na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej;  
+  > 8) warunki i sposób zmiany oraz rozwiązania umowy, w tym zasady zwrotu dotacji w przypadku skrócenia okresu funkcjonowania instytucji lub miejsc opieki dofinansowanych z dotacji, o którym mowa w ust. 2 pkt 3.”;  
 - **22)** w art. 63:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Gmina może otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych z zakresu organizacji opieki nad dziećmi w wieku do lat 3 na zasadach określonych w przepisach o finansach publicznych.”,
     - **b)** uchyla się ust. 2;
 
-- **23)** po art. 64 dodaje się art. 64a w brzmieniu: „Art. 64a. 1. Gmina jest zobowiązana do przekazywania danych z rejestru oraz wykazu dziennych opiekunów ministrowi właściwemu do spraw rodziny za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 64 ust. 2. 2. Minister właściwy do spraw rodziny publikuje dane, o których mowa w ust. 1, na stronach internetowych ministerstwa.”.
+- **23)** po art. 64 dodaje się art. 64a w brzmieniu:
+
+  > „Art. 64a.  
+  > 1. Gmina jest zobowiązana do przekazywania danych z rejestru oraz wykazu dziennych opiekunów ministrowi właściwemu do spraw rodziny za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 64 ust. 2.  
+  > 2. Minister właściwy do spraw rodziny publikuje dane, o których mowa w ust. 1, na stronach internetowych ministerstwa.”.  
 
 **Art. 2.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2012 r. poz. 592, 908 i 1456) w art. 2 pkt 1 otrzymuje brzmienie: „1) działalność socjalna – usługi świadczone przez pracodawców na rzecz różnych form wypoczynku, działalności kulturalno-oświatowej, sportowo-rekreacyjnej, opieki nad dziećmi w żłobkach, klubach dziecięcych, sprawowanej przez dziennego opiekuna lub nianię, w przedszkolach oraz innych formach wychowania przedszkolnego, udzielanie pomocy materialnej – rzeczowej lub finansowej, a także zwrotnej lub bezzwrotnej pomocy na cele mieszkaniowe na warunkach określonych umową;”.
 

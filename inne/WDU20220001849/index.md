@@ -26,93 +26,184 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001849) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1849/text.pdf) |
 
 w sprawie szczegółowych czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzorów dokumentów w tych sprawach Na podstawie art. 76 ust. 1 pkt 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, 1002, 1768 i 1783) zarządza się, co następuje:
-§ 1. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie – rozumie się przez to ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
-2) rozporządzeniu o rejestracji pojazdów – rozumie się przez to rozporządzenie Ministra Infrastruktury z dnia 31 sierpnia 2022 r. w sprawie rejestracji i oznaczania pojazdów, wymagań dla tablic rejestracyjnych oraz wzorów innych dokumentów związanych z rejestracją pojazdów (Dz. U. poz. 1847);
-3) rozporządzeniu o legalizacji tablic rejestracyjnych – rozumie się przez to rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 kwietnia 2012 r. w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego (Dz. U. z 2021 r. poz. 100 oraz z 2022 r. poz. 129);
-4) rozporządzeniu o czasowym wycofaniu pojazdów – rozumie się przez to rozporządzenie Ministra Infrastruktury z dnia 23 grudnia 2004 r. w sprawie czasowego wycofania pojazdów z ruchu (Dz. U. poz. 2856, z 2005 r. poz. 1266, z 2010 r.
-poz. 524 oraz z 2022 r. poz. 123 i 1767);
-5) rozporządzeniu o wzorze karty zapytania o dane SIS – rozumie się przez to rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 lutego 2017 r. w sprawie wzorów kart wpisu i wzorów kart zapytania o dane w Systemie Informacyjnym Schengen oraz sposobu ich wypełniania (Dz. U. poz. 366);
-6) organie rejestrującym – rozumie się przez to odpowiednio starostę, prezydenta miasta na prawach powiatu albo wojewodę mazowieckiego;
-7) pojeździe – rozumie się przez to pojazdy, o których mowa w art. 71 ust. 1 ustawy;
-8) właścicielu pojazdu – rozumie się przez to odpowiednio właściciela pojazdu i podmiot, o którym mowa w art. 73 ust. 2 i 5 ustawy;
-9) bazie danych – rozumie się przez to posiadaną przez organ rejestrujący bazę danych i informacji, z wykorzystaniem których organ rejestrujący obsługuje zadania związane z dopuszczeniem pojazdu do ruchu, i jest jej administratorem, w szczególności obejmujących wydawane decyzje administracyjne i zaświadczenia, prowadzoną kartę informacyjną pojazdu, wykaz dokumentów komunikacyjnych i oznaczenia pojazdów oraz wykaz tablic rejestracyjnych;
-10) dowodzie odprawy celnej przywozowej – rozumie się przez to:
-a) dokument określony przepisami prawa celnego potwierdzający spełnienie formalności celnych lub
-b) adnotację na dowodzie własności pojazdu lub zespołu pojazdów, określającą datę i numer dokumentu, o którym mowa w lit. a, oraz nazwę organu, który dokonał odprawy celnej, w przypadku przedsiębiorców prowadzących działalność gospodarczą w zakresie obrotu pojazdami;
-11) państwie członkowskim – rozumie się przez to państwo, o którym mowa w art. 2 pkt 63 ustawy;
-12) systemie teleinformatycznym rejestracji – rozumie się przez to system teleinformatyczny obsługujący zadania organu rejestrującego związane z dopuszczeniem pojazdu do ruchu, za pomocą którego organ rejestrujący wprowadza dane do centralnej ewidencji pojazdów oraz składa zamówienia, o których mowa w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. b ustawy;
-13) danych SIS – rozumie się przez to dane, o których mowa w art. 20 ust. 1–3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm. );
-14) centralnym organie technicznym Krajowego Systemu Informatycznego (KSI) – rozumie się przez to Komendanta Głównego Policji;
-15) karcie zapytania o pojazd – rozumie się przez to wypełnioną kartę zapytania o dane SIS, której wzór graficzny jest określony w załączniku nr 16 do rozporządzenia o wzorze karty zapytania o dane SIS, a wzór strukturalny elektronicznej karty zapytania o dane SIS w załączniku nr 18 do tego rozporządzenia;
-16) karcie zapytania o dowód rejestracyjny – rozumie się przez to wypełnioną kartę zapytania o dane SIS, której wzór graficzny jest określony w załączniku nr 15 do rozporządzenia o wzorze karty zapytania o dane SIS, a wzór strukturalny elektronicznej karty zapytania o dane SIS w załączniku nr 17 do tego rozporządzenia;
-17) władzy wojskowej – rozumie się przez to władzę, o której mowa w art. 73 ust. 2a ustawy.
-§ 2. 1. Organ rejestrujący, z zastrzeżeniem § 17, prowadzi rejestrację i wyrejestrowanie pojazdów oraz wykonuje inne czynności związane z dopuszczeniem pojazdu do ruchu za pomocą systemu teleinformatycznego rejestracji i za pośrednictwem systemu teleinformatycznego obsługującego centralną ewidencję pojazdów, według instrukcji w sprawie rejestracji, czasowej rejestracji i wyrejestrowania pojazdów stanowiącej załącznik nr 1 do rozporządzenia, zwanej dalej „instrukcją”.
+
+#### Rozdział 1 Przepisy ogólne
+
+**§ 1.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** ustawie – rozumie się przez to ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
+- **2)** rozporządzeniu o rejestracji pojazdów – rozumie się przez to rozporządzenie Ministra Infrastruktury z dnia 31 sierpnia 2022 r. w sprawie rejestracji i oznaczania pojazdów, wymagań dla tablic rejestracyjnych oraz wzorów innych dokumentów związanych z rejestracją pojazdów (Dz. U. poz. 1847);
+- **3)** rozporządzeniu o legalizacji tablic rejestracyjnych – rozumie się przez to rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 kwietnia 2012 r. w sprawie trybu legalizacji tablic rejestracyjnych oraz warunków technicznych i wzorów znaku legalizacyjnego (Dz. U. z 2021 r. poz. 100 oraz z 2022 r. poz. 129);
+- **4)** rozporządzeniu o czasowym wycofaniu pojazdów – rozumie się przez to rozporządzenie Ministra Infrastruktury z dnia 23 grudnia 2004 r. w sprawie czasowego wycofania pojazdów z ruchu (Dz. U. poz. 2856, z 2005 r. poz. 1266, z 2010 r. poz. 524 oraz z 2022 r. poz. 123 i 1767);
+- **5)** rozporządzeniu o wzorze karty zapytania o dane SIS – rozumie się przez to rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 lutego 2017 r. w sprawie wzorów kart wpisu i wzorów kart zapytania o dane w Systemie Informacyjnym Schengen oraz sposobu ich wypełniania (Dz. U. poz. 366);
+- **6)** organie rejestrującym – rozumie się przez to odpowiednio starostę, prezydenta miasta na prawach powiatu albo wojewodę mazowieckiego;
+- **7)** pojeździe – rozumie się przez to pojazdy, o których mowa w art. 71 ust. 1 ustawy;
+- **8)** właścicielu pojazdu – rozumie się przez to odpowiednio właściciela pojazdu i podmiot, o którym mowa w art. 73 ust. 2 i 5 ustawy;
+- **9)** bazie danych – rozumie się przez to posiadaną przez organ rejestrujący bazę danych i informacji, z wykorzystaniem których organ rejestrujący obsługuje zadania związane z dopuszczeniem pojazdu do ruchu, i jest jej administratorem, w szczególności obejmujących wydawane decyzje administracyjne i zaświadczenia, prowadzoną kartę informacyjną pojazdu, wykaz dokumentów komunikacyjnych i oznaczenia pojazdów oraz wykaz tablic rejestracyjnych;
+- **10)** dowodzie odprawy celnej przywozowej – rozumie się przez to:
+    - **a)** dokument określony przepisami prawa celnego potwierdzający spełnienie formalności celnych lub
+    - **b)** adnotację na dowodzie własności pojazdu lub zespołu pojazdów, określającą datę i numer dokumentu, o którym mowa w lit. a, oraz nazwę organu, który dokonał odprawy celnej, w przypadku przedsiębiorców prowadzących działalność gospodarczą w zakresie obrotu pojazdami;
+
+- **11)** państwie członkowskim – rozumie się przez to państwo, o którym mowa w art. 2 pkt 63 ustawy;
+- **12)** systemie teleinformatycznym rejestracji – rozumie się przez to system teleinformatyczny obsługujący zadania organu rejestrującego związane z dopuszczeniem pojazdu do ruchu, za pomocą którego organ rejestrujący wprowadza dane do centralnej ewidencji pojazdów oraz składa zamówienia, o których mowa w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. b ustawy;
+- **13)** danych SIS – rozumie się przez to dane, o których mowa w art. 20 ust. 1–3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1862 z dnia 28 listopada 2018 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) w dziedzinie współpracy policyjnej i współpracy wymiarów sprawiedliwości w sprawach karnych, zmiany i uchylenia decyzji Rady 2007/533/WSiSW oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1986/2006 i decyzji Komisji 2010/261/UE (Dz. Urz. UE L 312 z 07.12.2018, str. 56, z późn. zm. );
+- **14)** centralnym organie technicznym Krajowego Systemu Informatycznego (KSI) – rozumie się przez to Komendanta Głównego Policji;
+- **15)** karcie zapytania o pojazd – rozumie się przez to wypełnioną kartę zapytania o dane SIS, której wzór graficzny jest określony w załączniku nr 16 do rozporządzenia o wzorze karty zapytania o dane SIS, a wzór strukturalny elektronicznej karty zapytania o dane SIS w załączniku nr 18 do tego rozporządzenia;
+- **16)** karcie zapytania o dowód rejestracyjny – rozumie się przez to wypełnioną kartę zapytania o dane SIS, której wzór graficzny jest określony w załączniku nr 15 do rozporządzenia o wzorze karty zapytania o dane SIS, a wzór strukturalny elektronicznej karty zapytania o dane SIS w załączniku nr 17 do tego rozporządzenia;
+- **17)** władzy wojskowej – rozumie się przez to władzę, o której mowa w art. 73 ust. 2a ustawy.
+
+#### Rozdział 2 Rejestracja, czasowa rejestracja, wyrejestrowanie pojazdów
+
+**§ 2.**
+
+1. Organ rejestrujący, z zastrzeżeniem § 17, prowadzi rejestrację i wyrejestrowanie pojazdów oraz wykonuje inne czynności związane z dopuszczeniem pojazdu do ruchu za pomocą systemu teleinformatycznego rejestracji i za pośrednictwem systemu teleinformatycznego obsługującego centralną ewidencję pojazdów, według instrukcji w sprawie rejestracji, czasowej rejestracji i wyrejestrowania pojazdów stanowiącej załącznik nr 1 do rozporządzenia, zwanej dalej „instrukcją”.
+
 2. W przypadku czasowej rejestracji pojazdu z urzędu, o której mowa w art. 74 ust. 2 pkt 1 ustawy, organ rejestrujący postępuje według instrukcji w sprawie czynności związanych z czasową rejestracją pojazdu z urzędu, stanowiącej załącznik nr 2 do rozporządzenia.
+
 3. W przypadku złożenia przez właściciela pojazdu wniosku o rejestrację, czasową rejestrację lub wyrejestrowanie pojazdu drogą elektroniczną, zgodnie z warunkami i wzorami określonymi w rozporządzeniu o rejestracji pojazdów, organ rejestrujący po pozytywnym zweryfikowaniu tego wniosku wykonuje czynności zgodnie z procedurami określonymi w załączniku nr 3 do rozporządzenia.
+
 4. W przypadku złożenia wniosku o rejestrację na formularzu, o którym mowa w art. 73c ust. 3 ustawy, zgodnie z warunkami określonymi w rozporządzeniu o rejestracji pojazdów, organ rejestrujący po pozytywnym zweryfikowaniu tego wniosku odpowiednio wykonuje czynności zgodnie z procedurami określonymi w instrukcji.
+
 5. Do wniosków składanych drogą elektroniczną i dokumentów dołączanych do tych wniosków przepisy rozporządzenia stosuje się odpowiednio.
-§ 3. 1. Organ rejestrujący, rejestrując pojazd oraz wydając wtórnik dowodu rejestracyjnego, może sprawdzić odpowiednio, czy:
-1) zgłoszony do rejestracji pojazd nie został skradziony, przywłaszczony lub utracony w inny sposób, wysyłając kartę zapytania o pojazd;
-2) została zgłoszona utrata dowodu rejestracyjnego, wysyłając kartę zapytania o dowód rejestracyjny.
+
+**§ 3.**
+
+1. Organ rejestrujący, rejestrując pojazd oraz wydając wtórnik dowodu rejestracyjnego, może sprawdzić odpowiednio, czy:
+
+- **1)** zgłoszony do rejestracji pojazd nie został skradziony, przywłaszczony lub utracony w inny sposób, wysyłając kartę zapytania o pojazd;
+- **2)** została zgłoszona utrata dowodu rejestracyjnego, wysyłając kartę zapytania o dowód rejestracyjny.
+
 2. Sprawdzenia, o którym mowa w ust. 1, organ rejestrujący dokonuje kierując zapytanie o dane SIS do centralnego organu technicznego KSI.
+
 3. Organ rejestrujący może kierować zapytania określone w ust. 1 za pomocą systemu teleinformatycznego rejestracji.
-§ 4. Organ rejestrujący, prowadząc postępowanie w sprawie rejestracji pojazdów, może korzystać z udostępnionych przez Dyrektora Transportowego Dozoru Technicznego w systemie teleinformatycznym rejestracji:
-1) bazy punktów kontaktowych przedstawicieli producentów pojazdów na terytorium Rzeczypospolitej Polskiej, o której mowa w art. 73d ust. 4 pkt 1 ustawy;
-2) wzorów wymaganych podpisów, o których mowa w art. 73d ust. 4 pkt 2 ustawy.
-§ 5. Ustala się wzór zawiadomienia o wszczęciu postępowania w sprawie wyrejestrowania pojazdu z urzędu na podstawie art. 79 ust. 3a ustawy, który określa załącznik nr 4 do rozporządzenia.
-§ 6. Organ rejestrujący zamieszcza w bazie danych dane i informacje związane z dopuszczeniem pojazdu do ruchu na podstawie dokumentów wymaganych do rejestracji pojazdu.
-§ 7. 1. Dane określone w art. 80ba ust. 1 pkt 1 ustawy organ rejestrujący wprowadza do centralnej ewidencji pojazdów zgodnie z art. 80ba ust. 3 i art. 80bb ust. 2 ustawy, za pomocą systemu teleinformatycznego rejestracji i za pośrednictwem systemu teleinformatycznego obsługującego centralną ewidencję pojazdów, oraz zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 80bb ust. 4 ustawy.
+
+**§ 4.** Organ rejestrujący, prowadząc postępowanie w sprawie rejestracji pojazdów, może korzystać z udostępnionych przez Dyrektora Transportowego Dozoru Technicznego w systemie teleinformatycznym rejestracji:
+
+- **1)** bazy punktów kontaktowych przedstawicieli producentów pojazdów na terytorium Rzeczypospolitej Polskiej, o której mowa w art. 73d ust. 4 pkt 1 ustawy;
+- **2)** wzorów wymaganych podpisów, o których mowa w art. 73d ust. 4 pkt 2 ustawy.
+
+**§ 5.** Ustala się wzór zawiadomienia o wszczęciu postępowania w sprawie wyrejestrowania pojazdu z urzędu na podstawie art. 79 ust. 3a ustawy, który określa załącznik nr 4 do rozporządzenia.
+
+**§ 6.** Organ rejestrujący zamieszcza w bazie danych dane i informacje związane z dopuszczeniem pojazdu do ruchu na podstawie dokumentów wymaganych do rejestracji pojazdu.
+
+**§ 7.**
+
+1. Dane określone w art. 80ba ust. 1 pkt 1 ustawy organ rejestrujący wprowadza do centralnej ewidencji pojazdów zgodnie z art. 80ba ust. 3 i art. 80bb ust. 2 ustawy, za pomocą systemu teleinformatycznego rejestracji i za pośrednictwem systemu teleinformatycznego obsługującego centralną ewidencję pojazdów, oraz zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 80bb ust. 4 ustawy.
+
 2. Wprowadzając dane do centralnej ewidencji pojazdów, organ rejestrujący używa danych pojazdu zgodnie z wartościami udostępnionego temu organowi katalogu marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 80bh ust. 1 ustawy, za pośrednictwem systemu teleinformatycznego obsługującego centralną ewidencję pojazdów.
-§ 8. 1. Organ rejestrujący zamawia spersonalizowany dowód rejestracyjny u wytwórcy blankietów, o którym mowa w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. b ustawy, za pomocą systemu teleinformatycznego rejestracji, przez teletransmisję danych pobranych z centralnej ewidencji pojazdów i niezbędnych do wystawienia dowodu rejestracyjnego zgodnie z § 16 ust. 5 instrukcji.
+
+**§ 8.**
+
+1. Organ rejestrujący zamawia spersonalizowany dowód rejestracyjny u wytwórcy blankietów, o którym mowa w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. b ustawy, za pomocą systemu teleinformatycznego rejestracji, przez teletransmisję danych pobranych z centralnej ewidencji pojazdów i niezbędnych do wystawienia dowodu rejestracyjnego zgodnie z § 16 ust. 5 instrukcji.
+
 2. Organ rejestrujący pobiera dane z centralnej ewidencji pojazdów za pośrednictwem systemu teleinformatycznego obsługującego centralną ewidencję pojazdów.
+
 3. Teletransmisja danych, o której mowa w ust. 1, jest poprzedzona pobraniem i weryfikacją danych o pojeździe zamieszczonych w centralnej ewidencji pojazdów oraz wyjaśnieniem i usunięciem niezgodności tych danych, a także uzyskaniem komunikatu, o którym mowa w art. 80bb ust. 3 pkt 1 ustawy.
-§ 9. 1. Po każdym zakończonym dniu pracy organ rejestrujący sporządza raport dzienny, który podlega archiwizacji elektronicznej.
+
+**§ 9.**
+
+1. Po każdym zakończonym dniu pracy organ rejestrujący sporządza raport dzienny, który podlega archiwizacji elektronicznej.
+
 2. Raport dzienny, o którym mowa w ust. 1, sporządza się w postaci elektronicznej generowanej przez system teleinformatyczny, z możliwością wydruku. Raport zawiera wszystkie zamieszczone i zmienione w danym dniu zapisy w bazie danych, z oznaczeniem identyfikatora osoby dokonującej zamieszczenia lub zmiany danych i informacji.
-§ 10. 1. Ustala się wzór karty informacyjnej pojazdu stanowiący załącznik nr 5 do rozporządzenia.
+
+**§ 10.**
+
+1. Ustala się wzór karty informacyjnej pojazdu stanowiący załącznik nr 5 do rozporządzenia.
+
 2. Kartę informacyjną pojazdu sporządza organ rejestrujący w czasie rejestracji pojazdu. Karta informacyjna pojazdu zawiera dane i informacje zamieszczone w bazie danych.
-§ 11. 1. Ustala się klasyfikację pojazdów zawierającą określenia rodzajów, podrodzajów i przeznaczeń pojazdów, zwaną dalej „klasyfikacją”, stanowiącą załącznik nr 6 do rozporządzenia.
+
+**§ 11.**
+
+1. Ustala się klasyfikację pojazdów zawierającą określenia rodzajów, podrodzajów i przeznaczeń pojazdów, zwaną dalej „klasyfikacją”, stanowiącą załącznik nr 6 do rozporządzenia.
+
 2. Klasyfikacja jest dokumentem źródłowym do ustalenia rodzaju, podrodzaju i przeznaczenia pojazdu w przypadku, gdy nie jest to możliwe na podstawie przedstawionych do rejestracji pojazdu dokumentów lub gdy zastosowano w nich inną klasyfikację lub inne nazewnictwo.
-§ 12. 1. Dokumenty przedstawione do rejestracji lub wyrejestrowania, których zgodnie z rozporządzeniem nie zwraca się właścicielowi pojazdu, oraz odpowiednio kserokopie dokumentów organ rejestrujący zatrzymuje i tworzy indywidualne teczki, zwane dalej „aktami pojazdu”, które przechowuje się według numerów rejestracyjnych pojazdów.
+
+**§ 12.**
+
+1. Dokumenty przedstawione do rejestracji lub wyrejestrowania, których zgodnie z rozporządzeniem nie zwraca się właścicielowi pojazdu, oraz odpowiednio kserokopie dokumentów organ rejestrujący zatrzymuje i tworzy indywidualne teczki, zwane dalej „aktami pojazdu”, które przechowuje się według numerów rejestracyjnych pojazdów.
+
 2. Dla dokumentów, o których mowa w ust. 1, organ rejestrujący może prowadzić archiwizację elektroniczną zgodnie z przepisami wydanymi na podstawie art. 5 ust. 2b ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164) – w takim przypadku w aktach pojazdu gromadzi się tylko dokumenty, które nie są zwracane właścicielowi pojazdu.
+
 3. Dla dokumentów dołączonych do wniosków o rejestrację, czasową rejestrację lub wyrejestrowanie pojazdu, składanych drogą elektroniczną, organ rejestrujący prowadzi archiwizację elektroniczną, o której mowa w ust. 2 – w takim przypadku w aktach pojazdu gromadzi się tylko dokumenty, które nie są zwracane właścicielowi pojazdu.
+
 4. Dla dokumentów dołączonych do wniosku o rejestrację pojazdu złożonego na formularzu, o którym mowa w art. 73c ust. 3 ustawy, organ rejestrujący prowadzi archiwizację elektroniczną, o której mowa w ust. 2.
+
 5. Kserokopie dokumentów, których obowiązek wykonania wynika z przepisów rozporządzenia, wykonuje i uwierzytelnia organ rejestrujący. Uwierzytelnienie kserokopii polega na dokonaniu na niej adnotacji o treści: „Stwierdzam zgodność z oryginałem”, którą należy potwierdzić datą, podpisem oraz pieczątką organu rejestrującego.
+
 6. Organ rejestrujący unieważnia dokument, jeżeli jest to wymagane przepisami rozporządzenia, przez odcięcie prawego górnego rogu, o powierzchni co najmniej 1 cm , wszystkich stron dokumentu.
+
 7. Akta pojazdu przechowuje się przez okres 5 lat od dnia wyrejestrowania pojazdu lub zmiany właściwości miejscowej organu rejestrującego.
-§ 13. 1. Organ rejestrujący prowadzi wykaz dokumentów komunikacyjnych i oznaczeń pojazdów, którego wzór i sposób prowadzenia określa załącznik nr 7 do rozporządzenia.
+
+**§ 13.**
+
+1. Organ rejestrujący prowadzi wykaz dokumentów komunikacyjnych i oznaczeń pojazdów, którego wzór i sposób prowadzenia określa załącznik nr 7 do rozporządzenia.
+
 2. W wykazie dokumentów komunikacyjnych i oznaczeń pojazdów zamieszcza się dane i informacje o posiadanych i wydawanych dowodach rejestracyjnych, pozwoleniach czasowych oraz znakach legalizacyjnych niezwłocznie po otrzymaniu tych dokumentów lub ich wydaniu.
+
 3. Wykazy dokumentów komunikacyjnych i oznaczeń pojazdów, dowody otrzymania tych dokumentów, blankiety dokumentów, oznaczenia pojazdów oraz pieczątki służące do wystawiania tych dokumentów należy zabezpieczyć przed kradzieżą, utratą oraz dostępem osób nieuprawnionych.
+
 4. Dokumenty i oznaczenia związane z rejestracją pojazdów oraz wykonywaniem przez organ rejestrujący czynności dopuszczających pojazdy do ruchu powinny być przechowywane w odpowiednio zabezpieczonych pomieszczeniach, wyposażonych w sprzęt przeciwpożarowy.
+
 5. Informację o utracie blankietów dokumentów i oznaczeń pojazdu będących w zasobach organu rejestrującego organ rejestrujący przekazuje niezwłocznie Policji.
-§ 14. 1. Organ rejestrujący prowadzi wykaz tablic rejestracyjnych, którego wzór i sposób prowadzenia określa załącznik nr 8 do rozporządzenia.
+
+**§ 14.**
+
+1. Organ rejestrujący prowadzi wykaz tablic rejestracyjnych, którego wzór i sposób prowadzenia określa załącznik nr 8 do rozporządzenia.
+
 2. Organ rejestrujący prowadzi odrębnie wykaz nowych tablic rejestracyjnych przyjętych i wydanych, zawierający dane i informacje o posiadanych i wydawanych przez organ tablicach rejestracyjnych, oraz wykaz tablic rejestracyjnych zwróconych, zawierający dane i informacje o tablicach rejestracyjnych przekazanych organowi w wyniku ich wymiany albo zwrotu oraz wyrejestrowania albo przerejestrowania pojazdu.
+
 3. Dane i informacje, o których mowa w ust. 2, zamieszcza się w wykazie tablic rejestracyjnych niezwłocznie po przyjęciu, wydaniu tablic rejestracyjnych oraz po przekazaniu tablic rejestracyjnych w wyniku ich wymiany albo zwrotu oraz wyrejestrowania albo przerejestrowania pojazdu.
+
 4. Dane i informacje o tablicach rejestracyjnych tymczasowych zwróconych organowi rejestrującemu zgodnie z art. 74 ust. 5 ustawy zamieszcza się w odpowiednim wykazie tablic rejestracyjnych, w zależności od tego, czy spełniają warunki techniczne umożliwiające ich ponowne wydanie.
+
 5. Tablice rejestracyjne przekazane organowi rejestrującemu w wyniku ich wymiany albo zwrotu oraz wyrejestrowania albo przerejestrowania pojazdu, z zastrzeżeniem ust. 7, wycofuje się z użytku.
+
 6. Organ rejestrujący sporządza protokół przekazania przedsiębiorcy, o którym mowa w art. 75a ust. 2 ustawy, tablic rejestracyjnych wycofanych z użytku. Protokół ten jest podstawą wykreślenia ich z wykazu tablic rejestracyjnych.
+
 7. Zwrócone organowi rejestrującemu tablice rejestracyjne tymczasowe, które spełniają wymagania techniczne określone w załączniku nr 12 do rozporządzenia o rejestracji pojazdów, mogą zostać ponownie wydane.
+
 8. Rejestrując pojazd, o którym mowa w art. 73 ust. 4 ustawy, organ rejestrujący może wydać tablice (tablicę) rejestracyjne, wykorzystując numer rejestracyjny nadany dla innego pojazdu, wcześniej zarejestrowanego, a następnie wyrejestrowanego przez ten organ.
+
 9. Przepisy § 13 ust. 3–5 stosuje się odpowiednio.
-§ 15. Wykazy, o których mowa w § 13 i § 14, organ rejestrujący prowadzi w systemie teleinformatycznym rejestracji.
-§ 16. Wytyczne do umieszczania w adnotacjach dowodu rejestracyjnego informacji o spełnieniu przez samochód osobowy, samochód ciężarowy, samochód specjalny, ciągnik samochodowy lub autobus określonego poziomu emisji spalin Euro określa załącznik nr 9 do rozporządzenia.
-§ 17. 1. W przypadku awarii systemu teleinformatycznego rejestracji uniemożliwiającej wykonywanie czynności związanych z dopuszczeniem pojazdu do ruchu organ rejestrujący prowadzi te czynności, wypełniając czytelnie pozwolenie czasowe oraz kartę informacyjną pojazdu z zachowaniem przepisów rozporządzenia. Zgromadzone w czasie wykonywania tych czynności dokumenty należy dołączyć do akt pojazdu.
+
+**§ 15.** Wykazy, o których mowa w § 13 i § 14, organ rejestrujący prowadzi w systemie teleinformatycznym rejestracji.
+
+**§ 16.** Wytyczne do umieszczania w adnotacjach dowodu rejestracyjnego informacji o spełnieniu przez samochód osobowy, samochód ciężarowy, samochód specjalny, ciągnik samochodowy lub autobus określonego poziomu emisji spalin Euro określa załącznik nr 9 do rozporządzenia.
+
+**§ 17.**
+
+1. W przypadku awarii systemu teleinformatycznego rejestracji uniemożliwiającej wykonywanie czynności związanych z dopuszczeniem pojazdu do ruchu organ rejestrujący prowadzi te czynności, wypełniając czytelnie pozwolenie czasowe oraz kartę informacyjną pojazdu z zachowaniem przepisów rozporządzenia. Zgromadzone w czasie wykonywania tych czynności dokumenty należy dołączyć do akt pojazdu.
+
 2. W przypadku awarii, o której mowa w ust. 1, organ rejestrujący zamawia spersonalizowane dowody rejestracyjne u wytwórcy dowodów rejestracyjnych, po usunięciu tej awarii.
+
 3. W przypadku awarii systemu teleinformatycznego rejestracji informacje konieczne do prowadzenia wykazów, o których mowa w § 13 i § 14, organ rejestrujący gromadzi w postaci papierowej.
+
 4. Dane o wydanym pozwoleniu czasowym, o którym mowa w ust. 1, organ rejestrujący wprowadza do centralnej ewidencji pojazdów niezwłocznie po usunięciu awarii systemu teleinformatycznego rejestracji.
-§ 18. W okresie od dnia 4 września 2022 r. do dnia poprzedzającego dzień wdrożenia rozwiązań technicznych umożliwiających wyjaśnianie niezgodności na zasadach określonych w art. 80bd ustawy, określony w komunikacie, o którym mowa w art. 10c ust. 2 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1273, z późn. zm. ), czynności organu rejestrującego, o których mowa w:
-1) § 8 ust. 3 – poprzedzające teletransmisję danych, o której mowa w § 8 ust. 1 – polegają na pobraniu danych o pojeździe zamieszczonych w centralnej ewidencji pojazdów, weryfikacji danych o pojeździe zamieszczonych w centralnej ewidencji pojazdów i w bazie danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu komunikatu, o którym mowa w art. 80bb ust. 3 pkt 1 ustawy;
-2) załączniku nr 1 do rozporządzenia w:
-a) § 1: – ust. 1 pkt 7 – polegają na pobraniu danych zamieszczonych w centralnej ewidencji pojazdów, weryfikacji danych o pojeździe zamieszczonych w centralnej ewidencji pojazdów i w bazie danych, sprawdzeniu przedstawionych do rejestracji dokumentów i wprowadzeniu do centralnej ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, – ust. 11 pkt 2 – polegają na wprowadzeniu do centralnej ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, jeżeli nie zostały w niej zamieszczone, albo weryfikacji i wprowadzeniu do centralnej ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, w stosunku do którego przeprowadzono badanie techniczne,
-b) § 6 ust. 1 pkt 8 – poprzedzające teletransmisję danych pobranych z centralnej ewidencji pojazdów niezbędnych do wystawienia dowodu rejestracyjnego – polegają na weryfikacji tych danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu potwierdzenia zgodnie z załącznikiem nr 10 do rozporządzenia,
-c) § 9 pkt 6 – poprzedzające teletransmisję danych pobranych z centralnej ewidencji pojazdów niezbędnych do wystawienia dowodu rejestracyjnego – polegają na weryfikacji tych danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu potwierdzenia zgodnie z załącznikiem nr 10 do rozporządzenia.
-§ 19. W okresie od dnia 4 września 2022 r. do dnia poprzedzającego dzień wdrożenia rozwiązań technicznych umożliwiających wyjaśnianie niezgodności na zasadach określonych w art. 80bd ustawy, określony w komunikacie, o którym mowa w art. 10c ust. 2 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw, w przypadku czasowej rejestracji pojazdu z urzędu, o której mowa w art. 74 ust. 2 pkt 1 ustawy, organ rejestrujący postępuje według instrukcji w sprawie czynności związanych z czasową rejestracją pojazdu z urzędu, stanowiącej załącznik nr 10 do rozporządzenia.
-§ 20. Wpisy w dowodach rejestracyjnych dokonane na podstawie przepisów dotychczasowych zachowują swoją ważność.
-§ 21. Kartę pojazdu albo jej wtórnik zwrócone staroście zgodnie z art. 12 ust. 4 pkt 2 ustawy z dnia 14 sierpnia 2020 r.
-o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517) organ rejestrujący dołącza do akt pojazdu.
-§ 22. Do czynności w sprawach związanych z dopuszczeniem pojazdu do ruchu prowadzonych przez organy rejestrujące, rozpoczętych i niezakończonych przed dniem wejścia w życie przedmiotowego rozporządzenia, stosuje się przepisy dotychczasowe, z wyłączeniem przepisów dotyczących przedkładania i wydawania karty pojazdu albo jej wtórnika oraz wydawania nalepki kontrolnej albo jej wtórnika.
-§ 23. Rozporządzenie wchodzi w życie z dniem 4 września 2022 r., z wyjątkiem § 16 ust. 5 pkt 30 lit. zh i zi załącznika nr 1 do rozporządzenia, które wchodzą w życie z dniem 1 stycznia 2023 r.
-Minister Infrastruktury: wz. A. Bittel INSTRUKCJA W SPRAWIE REJESTRACJI, CZASOWEJ REJESTRACJI I WYREJESTROWANIA POJAZDÓW
+
+#### Rozdział 3 Przepisy epizodyczne
+
+**§ 18.** W okresie od dnia 4 września 2022 r. do dnia poprzedzającego dzień wdrożenia rozwiązań technicznych umożliwiających wyjaśnianie niezgodności na zasadach określonych w art. 80bd ustawy, określony w komunikacie, o którym mowa w art. 10c ust. 2 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1273, z późn. zm. ), czynności organu rejestrującego, o których mowa w:
+
+- **1)** § 8 ust. 3 – poprzedzające teletransmisję danych, o której mowa w § 8 ust. 1 – polegają na pobraniu danych o pojeździe zamieszczonych w centralnej ewidencji pojazdów, weryfikacji danych o pojeździe zamieszczonych w centralnej ewidencji pojazdów i w bazie danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu komunikatu, o którym mowa w art. 80bb ust. 3 pkt 1 ustawy;
+- **2)** załączniku nr 1 do rozporządzenia w:
+    - **a)** § 1: – ust. 1 pkt 7 – polegają na pobraniu danych zamieszczonych w centralnej ewidencji pojazdów, weryfikacji danych o pojeździe zamieszczonych w centralnej ewidencji pojazdów i w bazie danych, sprawdzeniu przedstawionych do rejestracji dokumentów i wprowadzeniu do centralnej ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, – ust. 11 pkt 2 – polegają na wprowadzeniu do centralnej ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, jeżeli nie zostały w niej zamieszczone, albo weryfikacji i wprowadzeniu do centralnej ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, w stosunku do którego przeprowadzono badanie techniczne,
+    - **b)** § 6 ust. 1 pkt 8 – poprzedzające teletransmisję danych pobranych z centralnej ewidencji pojazdów niezbędnych do wystawienia dowodu rejestracyjnego – polegają na weryfikacji tych danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu potwierdzenia zgodnie z załącznikiem nr 10 do rozporządzenia,
+    - **c)** § 9 pkt 6 – poprzedzające teletransmisję danych pobranych z centralnej ewidencji pojazdów niezbędnych do wystawienia dowodu rejestracyjnego – polegają na weryfikacji tych danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu potwierdzenia zgodnie z załącznikiem nr 10 do rozporządzenia.
+
+**§ 19.** W okresie od dnia 4 września 2022 r. do dnia poprzedzającego dzień wdrożenia rozwiązań technicznych umożliwiających wyjaśnianie niezgodności na zasadach określonych w art. 80bd ustawy, określony w komunikacie, o którym mowa w art. 10c ust. 2 ustawy z dnia 24 lipca 2015 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw, w przypadku czasowej rejestracji pojazdu z urzędu, o której mowa w art. 74 ust. 2 pkt 1 ustawy, organ rejestrujący postępuje według instrukcji w sprawie czynności związanych z czasową rejestracją pojazdu z urzędu, stanowiącej załącznik nr 10 do rozporządzenia.
+
+#### Rozdział 4 Przepisy przejściowe i końcowe
+
+**§ 20.** Wpisy w dowodach rejestracyjnych dokonane na podstawie przepisów dotychczasowych zachowują swoją ważność.
+
+**§ 21.** Kartę pojazdu albo jej wtórnik zwrócone staroście zgodnie z art. 12 ust. 4 pkt 2 ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517) organ rejestrujący dołącza do akt pojazdu.
+
+**§ 22.** Do czynności w sprawach związanych z dopuszczeniem pojazdu do ruchu prowadzonych przez organy rejestrujące, rozpoczętych i niezakończonych przed dniem wejścia w życie przedmiotowego rozporządzenia, stosuje się przepisy dotychczasowe, z wyłączeniem przepisów dotyczących przedkładania i wydawania karty pojazdu albo jej wtórnika oraz wydawania nalepki kontrolnej albo jej wtórnika.
+
+**§ 23.** Rozporządzenie wchodzi w życie z dniem 4 września 2022 r., z wyjątkiem § 16 ust. 5 pkt 30 lit. zh i zi załącznika nr 1 do rozporządzenia, które wchodzą w życie z dniem 1 stycznia 2023 r. Minister Infrastruktury: wz. A. Bittel INSTRUKCJA W SPRAWIE REJESTRACJI, CZASOWEJ REJESTRACJI I WYREJESTROWANIA POJAZDÓW
+
+## Załącznik
+
 § 1. 1. Rejestrując pojazd, z zastrzeżeniem ust. 2–19 oraz § 3, organ rejestrujący:
 1) przyjmuje wniosek o rejestrację pojazdu z dołączonymi dokumentami, o których mowa w art. 72 ustawy, uwzględniając warunki określone w rozporządzeniu o rejestracji pojazdów i sprawdzając zgodność zawartych w nich danych dotyczących:
 a) właściciela pojazdu,
@@ -490,14 +581,6 @@ b) weryfikuje dane zawarte w zaświadczeniu z przeprowadzonego badania techniczn
 2) pobiera i weryfikuje dane o pojeździe zamieszczone w centralnej ewidencji pojazdów w przypadku pojazdu niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, w stosunku do którego przeprowadzono badanie techniczne lub w stosunku do którego zawarto umowę ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych;
 3) usuwa niezgodności danych zgromadzonych w centralnej ewidencji w wyniku dokonanej weryfikacji zgodnie z art. 80bd ustawy i w trybie określonym w przepisach wydanych na podstawie art. 80bd ust. 8 ustawy;
 4) wprowadza poprawne dane do centralnej ewidencji pojazdów; potwierdzeniem zakończenia tego wprowadzenia jest komunikat, o którym mowa w art. 80bb ust. 3 pkt 1 ustawy.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Rejestracja, czasowa rejestracja, wyrejestrowanie pojazdów
-
-#### Rozdział 3 Przepisy epizodyczne
-
-#### Rozdział 4 Przepisy przejściowe i końcowe
 
 ## Załącznik nr 3 — PRZEBIEG PROCEDUR PO OTRZYMANIU WNIOSKU, ZGODNIE Z § 2 UST. 3 ROZPORZĄDZENIA, ZWERYFIKOWANEGO POZYTYWNIE, ZŁOŻONEGO DROGĄ PRZEBIEG PROCEDUR PO OTRZYMANIU WNIOSKU, ZGODNIE Z § 2 UST. 3 ROZPORZĄDZENIA, ZWERYFIKOWANEGO POZYTYWNIE, ELEKTRONICZNĄ ZŁOŻONEGO DROGĄ ELEKTRONICZNĄ Lp. Przedmiot wniosku Przebieg procedury 1 2 3 1 Rejestracja pojazdu 1. Organ rejestrujący wzywa właściciela pojazdu drogą elektroniczną, wysyłając wezwanie na adres internetowy, z którego otrzymał wniosek, do przekazania do tego organu oryginałów wymaganych dokumentów oraz tablic (tablicy) rejestracyjnych, jeżeli jest to wymagane – informując i wyznaczając właścicielowi pojazdu termin przekazania tych dokumentów i tablic (tablicy) rejestracyjnych, oraz odbioru w tym organie pozwolenia czasowego, zalegalizowanych tablic (tablicy) rejestracyjnych.
 

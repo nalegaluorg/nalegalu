@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1694/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zakresu rocznego sprawozdania z działalności komornika sądowego Na podstawie art. 186 ust. 3 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2021 r. poz. 850 i 1090) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 14 grudnia 2018 r. w sprawie zakresu rocznego sprawozdania z działalności komornika sądowego (Dz. U. poz. 2536) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Minister Sprawiedliwości: Z. Ziobro M M W
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 14 grudnia 2018 r. w sprawie zakresu rocznego sprawozdania z działalności komornika sądowego (Dz. U. poz. 2536) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. Minister Sprawiedliwości: Z. Ziobro M M W
 

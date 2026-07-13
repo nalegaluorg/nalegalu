@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne Na podstawie art. 21 ust. 17 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U.
 z 2025 r. poz. 91 i 637) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 29 lipca 2025 r. w sprawie wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne (Dz. U. poz. 1057) § 5 otrzymuje brzmienie: „§ 5. Dane, o których mowa w § 2 pkt 1–3, pkt 4 lit. b, c oraz e–g i pkt 6, podlegają upublicznieniu w Biuletynie Informacji Publicznej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. K. Kacperczyk
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 29 lipca 2025 r. w sprawie wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne (Dz. U. poz. 1057) § 5 otrzymuje brzmienie: „§ 5. Dane, o których mowa w § 2 pkt 1–3, pkt 4 lit. b, c oraz e–g i pkt 6, podlegają upublicznieniu w Biuletynie Informacji Publicznej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. K. Kacperczyk
 

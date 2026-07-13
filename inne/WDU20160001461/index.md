@@ -26,12 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1461/text.pdf) |
 
 w sprawie określenia wzoru oświadczenia o przyjęciu obowiązku kształtowania w spółce wynagrodzeń członków organu zarządzającego Na podstawie art. 3 ust. 3 ustawy z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. poz. 1202) zarządza się, co następuje:
-§ 1. Określa się wzór oświadczenia o przyjęciu obowiązku kształtowania w spółce wynagrodzeń członków organu zarządzającego zgodnie z ustawą z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Skarbu Państwa: wz. M. Wild WZÓR WZÓR OŚWIADCZENIE Ja niżej podpisany (a): imię, nazwisko: ………………………………….………………………………………………….
-PESEL: …………………………………………………………………………….……………….
-adres zamieszkania: …………………………………………………………………………..…….
-kandydat na członka organu nadzorczego w spółce …………………………………………….… (firma i siedziba spółki) ……………………………………………………………………………………………………… wskazany przez ……………………………………………………………………………………..
-(podmiot uprawniony do wykonywania praw udziałowych w spółce) ……………………………………………………………………………………………………… oświadczam, że przyjmuję obowiązek kształtowania w spółce wynagrodzeń członków organu zarządzającego zgodnie z ustawą z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. poz. 1202).
-…...…………………………………… (data oraz podpis kandydata)
+
+**§ 1.** Określa się wzór oświadczenia o przyjęciu obowiązku kształtowania w spółce wynagrodzeń członków organu zarządzającego zgodnie z ustawą z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Skarbu Państwa: wz. M. Wild WZÓR WZÓR OŚWIADCZENIE Ja niżej podpisany (a): imię, nazwisko: ………………………………….…………………………………………………. PESEL: …………………………………………………………………………….………………. adres zamieszkania: …………………………………………………………………………..……. kandydat na członka organu nadzorczego w spółce …………………………………………….… (firma i siedziba spółki) ……………………………………………………………………………………………………… wskazany przez …………………………………………………………………………………….. (podmiot uprawniony do wykonywania praw udziałowych w spółce) ……………………………………………………………………………………………………… oświadczam, że przyjmuję obowiązek kształtowania w spółce wynagrodzeń członków organu zarządzającego zgodnie z ustawą z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. poz. 1202). …...…………………………………… (data oraz podpis kandydata)
 

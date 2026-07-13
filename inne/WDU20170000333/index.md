@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000333) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/333/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzorów pełnomocnictw do podpisywania deklaracji oraz wzorów zawiadomień o zmianie lub odwołaniu tych pełnomocnictw Na podstawie art. 80a § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 29 grudnia 2015 r. w sprawie wzorów pełnomocnictw do podpisywania deklaracji oraz wzorów zawiadomień o zmianie lub odwołaniu tych pełnomocnictw (Dz. U. poz. 2337) załączniki nr 1–4 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–4 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk
-1) Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 29 grudnia 2015 r. w sprawie wzorów pełnomocnictw do podpisywania deklaracji oraz wzorów zawiadomień o zmianie lub odwołaniu tych pełnomocnictw (Dz. U. poz. 2337) załączniki nr 1–4 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–4 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. Minister Rozwoju i Finansów: wz. W. Janczyk
+
+- **1)** Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 ## Załącznik nr 1
 

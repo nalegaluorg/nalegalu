@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001288) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1288/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych Na podstawie art. 67 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2015 r. poz. 612 i 1201) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 23 czerwca 2010 r. w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych (Dz. U. Nr 115, poz. 770) w § 2:
-1) w ust. 1 uchyla się pkt 3;
-2) uchyla się ust. 2.
-§ 2. Rozporządzenie wchodzi w życie z dniem 3 września 2015 r.
-Minister Finansów: wz. J. Cichoń
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 23 czerwca 2010 r. w sprawie warunków dokonywania zabezpieczeń finansowych w grach hazardowych (Dz. U. Nr 115, poz. 770) w § 2:
+
+- **1)** w ust. 1 uchyla się pkt 3;
+- **2)** uchyla się ust. 2.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 3 września 2015 r. Minister Finansów: wz. J. Cichoń
 

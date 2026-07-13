@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy de minimis przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U.
 z 2014 r. poz. 1649, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 26 listopada 2013 r. w sprawie udzielania pomocy de minimis przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych (Dz. U.
-z 2014 r. poz. 1720 oraz z 2015 r. poz. 1001) § 14 otrzymuje brzmienie: „§ 14. Pomoc jest udzielana do dnia 31 marca 2017 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury i Rozwoju: M. Wasiak
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 26 listopada 2013 r. w sprawie udzielania pomocy de minimis przez fundusze rozwoju obszarów miejskich w ramach regionalnych programów operacyjnych (Dz. U. z 2014 r. poz. 1720 oraz z 2015 r. poz. 1001) § 14 otrzymuje brzmienie: „§ 14. Pomoc jest udzielana do dnia 31 marca 2017 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury i Rozwoju: M. Wasiak
 

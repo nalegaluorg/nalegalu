@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001682) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1682/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, 1515, 1532, 1544, 1552 i 1669) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. z 2016 r. poz. 1146, z 2017 r. poz. 1809 oraz z 2018 r. poz. 1373) w załączniku w § 16:
-1) ust. 1a otrzymuje brzmienie: „1a. Prezes Funduszu ustala kapitacyjną stawkę roczną w sposób gwarantujący środki na wypłatę kwot, o których mowa w § 4 ust. 6 pkt 3 i § 4a rozporządzenia Ministra Zdrowia z dnia 14 października 2015 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1628 oraz z 2018 r. poz. 1681).”;
-2) ust. 4 otrzymuje brzmienie: „4. Określając współczynniki korygujące na podstawie ust. 3, Prezes Funduszu uwzględnia wysokość dodatkowych środków przekazanych świadczeniodawcom zgodnie z § 4 ust. 4 pkt 1 rozporządzenia Ministra Zdrowia z dnia 14 października 2015 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej, w sposób gwarantujący środki na wypłatę kwot, o których mowa w § 4 ust. 5 pkt 3 i § 4a tego rozporządzenia.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. z 2016 r. poz. 1146, z 2017 r. poz. 1809 oraz z 2018 r. poz. 1373) w załączniku w § 16:
+
+- **1)** ust. 1a otrzymuje brzmienie: „1a. Prezes Funduszu ustala kapitacyjną stawkę roczną w sposób gwarantujący środki na wypłatę kwot, o których mowa w § 4 ust. 6 pkt 3 i § 4a rozporządzenia Ministra Zdrowia z dnia 14 października 2015 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1628 oraz z 2018 r. poz. 1681).”;
+- **2)** ust. 4 otrzymuje brzmienie: „4. Określając współczynniki korygujące na podstawie ust. 3, Prezes Funduszu uwzględnia wysokość dodatkowych środków przekazanych świadczeniodawcom zgodnie z § 4 ust. 4 pkt 1 rozporządzenia Ministra Zdrowia z dnia 14 października 2015 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej, w sposób gwarantujący środki na wypłatę kwot, o których mowa w § 4 ust. 5 pkt 3 i § 4a tego rozporządzenia.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

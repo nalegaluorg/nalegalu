@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000663) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/663/text.pdf) |
 
 zmieniające rozporządzenie w sprawie odpadów promieniotwórczych i wypalonego paliwa jądrowego Na podstawie art. 57a ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2021 r. poz. 623) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 14 grudnia 2015 r. w sprawie odpadów promieniotwórczych i wypalonego paliwa jądrowego (Dz. U. poz. 2267 oraz z 2016 r. poz. 94) uchyla się § 5.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 14 grudnia 2015 r. w sprawie odpadów promieniotwórczych i wypalonego paliwa jądrowego (Dz. U. poz. 2267 oraz z 2016 r. poz. 94) uchyla się § 5.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

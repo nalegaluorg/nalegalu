@@ -27,15 +27,6 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie dokumentowania kontroli operacyjnej prowadzonej przez Krajową Administrację Skarbową Na podstawie art. 118 ust. 18 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
 poz. 615, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 13 kwietnia 2017 r. w sprawie dokumentowania kontroli operacyjnej prowadzonej przez Krajową Administrację Skarbową (Dz. U. poz. 828) wprowadza się następujące zmiany:
-1) użyte w § 2 w ust. 1 w pkt 2, 4, 5, 10, 11 i 14, w § 3 w ust. 2 i dwukrotnie w ust. 3, dwukrotnie w § 4 w ust. 2 oraz w § 6 w ust. 2, w różnym przypadku, wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”;
-2) załączniki nr 1–3 otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia;
-3) załącznik nr 6 otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia;
-4) załączniki nr 8 i 9 otrzymują brzmienie określone odpowiednio w załącznikach nr 5 i 6 do niniejszego rozporządzenia.
-§ 2. W przypadku kontroli operacyjnych zarządzonych a niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia rejestr wniosków i zarządzeń dotyczących kontroli operacyjnej jest prowadzony zgodnie z wzorem określonym w załączniku nr 9 do rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, przy czym od dnia wejścia w życie niniejszego rozporządzenia w kolumnach 4, 8, 9 i 11 tego rejestru dokonuje się wpisów dotyczących Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego.
-§ 3. Rozporządzenie wchodzi w życie z dniem 14 grudnia 2023 r.
-Minister Finansów: wz. S. Skuza Załączniki do rozporządzenia Ministra Finansów z dnia 8 grudnia 2023 r. (Dz. U. poz. ……..) Załącznik nr 1 WZÓR WZÓR DRUKU DRUKU STOSOWANIA STOSOWANIA KONTROLI KONTROLI OPERACYJNEJ OPERACYJNEJ ………………………….
-…………………… …………………………………… …………………………………… _______________________________________________________________________________________
 Na podstawie art. 118 ust. 1, 6 i 7* ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
 poz. 615, z późn. zm.) wnoszę o: ZARZĄDZENIE / PRZEDŁUŻENIE KONTROLI OPERACYJNEJ* w sprawie nr …………………………………… pod kryptonimem* ………………………………………………………………… prowadzonej przez ……………………………………………………… dotyczącej przestępstwa wymienionego w art. 118 ust. 1 pkt ………… ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej i określonego w art. ………… na okres …………… tygodni/miesięcy* .
 Kontrola operacyjna polegająca na …………………………………………………………………………………………. stosowana będzie wobec …………………………………………………………………………………………………………………………… …………………………………………………………………………………………………………………………………………… w celu ………………………………………………………………………………………………………………………………… UZASADNIENIE: .................................................................................................................................................................................................................
@@ -73,6 +64,17 @@ b) wykonaniu w dniu ………………… zarządzenia nr ……………… z d
 w sprawie nr .………….…., pod kryptonimem …………………….* .
 SZEF KRAJOWEJ ADMINISTRACJI SKARBOWEJ ………………………………………..…..
 W W ………… ………… W …………… …………… W W M W …………………………… W ……………… W Dziennik Ustaw – 12 – Poz. 2688 W W W W ………… ………… …………… …………… W W W W W W W W ……………………… W W ……………………
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 13 kwietnia 2017 r. w sprawie dokumentowania kontroli operacyjnej prowadzonej przez Krajową Administrację Skarbową (Dz. U. poz. 828) wprowadza się następujące zmiany:
+
+- **1)** użyte w § 2 w ust. 1 w pkt 2, 4, 5, 10, 11 i 14, w § 3 w ust. 2 i dwukrotnie w ust. 3, dwukrotnie w § 4 w ust. 2 oraz w § 6 w ust. 2, w różnym przypadku, wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”;
+- **2)** załączniki nr 1–3 otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia;
+- **3)** załącznik nr 6 otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia;
+- **4)** załączniki nr 8 i 9 otrzymują brzmienie określone odpowiednio w załącznikach nr 5 i 6 do niniejszego rozporządzenia.
+
+**§ 2.** W przypadku kontroli operacyjnych zarządzonych a niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia rejestr wniosków i zarządzeń dotyczących kontroli operacyjnej jest prowadzony zgodnie z wzorem określonym w załączniku nr 9 do rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, przy czym od dnia wejścia w życie niniejszego rozporządzenia w kolumnach 4, 8, 9 i 11 tego rejestru dokonuje się wpisów dotyczących Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 14 grudnia 2023 r. Minister Finansów: wz. S. Skuza Załączniki do rozporządzenia Ministra Finansów z dnia 8 grudnia 2023 r. (Dz. U. poz. ……..) Załącznik nr 1 WZÓR WZÓR DRUKU DRUKU STOSOWANIA STOSOWANIA KONTROLI KONTROLI OPERACYJNEJ OPERACYJNEJ …………………………. …………………… …………………………………… …………………………………… _______________________________________________________________________________________
 
 ## CZĘŚĆ A SĄD OKRĘGOWY W WARSZAWIE WNIOSEK NR ……………………….
 

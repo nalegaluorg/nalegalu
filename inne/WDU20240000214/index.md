@@ -26,13 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/214/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzorów wniosków o udzielenie pomocy kierowanych do państw trzecich, zaktualizowanego tytułu wykonawczego, zagranicznego tytułu wykonawczego oraz zarządzenia zabezpieczenia Na podstawie art. 23 ust. 2 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 19 listopada 2013 r. w sprawie wzorów wniosków o udzielenie pomocy kierowanych do państw trzecich, zaktualizowanego tytułu wykonawczego, zagranicznego tytułu wykonawczego oraz zarządzenia zabezpieczenia (Dz. U. z 2022 r. poz. 233) załączniki nr 6 i 7 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
-§ 2. Dotychczasowy wzór zagranicznego tytułu wykonawczego i wzór zarządzenia zabezpieczenia mogą być stosowane nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia, przy czym nie wypełnia się części D i E tych wzorów.
-§ 3. Rozporządzenie wchodzi w życie z dniem 25 marca 2024 r.
-Minister Finansów: wz. J. Drop WZÓR WZÓR OBJAŚNIENIA DOTYCZĄCE WYPEŁNIANIA ZARZĄDZENIA ZABEZPIECZENIA ZZ-Z Centralne biuro łącznikowe wypełnia pozycje niezaciemnione.
-Obowiązkowe wypełnienie pozycji dotyczy elementów określonych w art. 85 ustawy o wzajemnej pomocy.
-W pozostałym zakresie podaje się dane będące w posiadaniu centralnego biura łącznikowego.
-Datę podaje się w formacie dd-mm-rrrr.
 poz. 3 – zaznaczyć właściwy kwadrat.
 Jeżeli zaznaczono kwadrat 2, wpisuje się w poz. 1 numer zmienionego (dotychczasowego) zarządzenia zabezpieczenia, natomiast w poz. 2 – datę wystawienia zmienionego zarządzenia zabezpieczenia.
 Jeżeli wypełniono poz. 6 i 7, wpisuje się w poz. 1 numer dotychczasowego zarządzenia zabezpieczenia, natomiast w poz. 2 – datę wystawienia dotychczasowego zarządzenia zabezpieczenia.
@@ -42,6 +35,12 @@ poz. 14 – wskazuje się inne dane będące w posiadaniu centralnego biura łą
 Jeżeli zarządzenie zabezpieczenia dotyczy kilku podmiotów zgodnie z wnioskiem o podjęcie środków zabezpieczających należności pieniężne, po bloku A1. dodaje się bloki A2., A3. itd., chyba że do przeprowadzenia postępowania zabezpieczającego właściwe są różne organy egzekucyjne.
 poz. 5 – wpisuje się wysokość innych należności pieniężnych (odsetek, kosztów i innych należności) wskazanych we wniosku o podjęcie środków zabezpieczających należności pieniężne naliczonych przez państwo członkowskie lub państwo trzecie.
 W przypadku zarządzenia zabezpieczenia w odniesieniu do kilku należności pieniężnych po bloku B1. dodaje się bloki B2., B3. itd.
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 19 listopada 2013 r. w sprawie wzorów wniosków o udzielenie pomocy kierowanych do państw trzecich, zaktualizowanego tytułu wykonawczego, zagranicznego tytułu wykonawczego oraz zarządzenia zabezpieczenia (Dz. U. z 2022 r. poz. 233) załączniki nr 6 i 7 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
+
+**§ 2.** Dotychczasowy wzór zagranicznego tytułu wykonawczego i wzór zarządzenia zabezpieczenia mogą być stosowane nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia, przy czym nie wypełnia się części D i E tych wzorów.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 25 marca 2024 r. Minister Finansów: wz. J. Drop WZÓR WZÓR OBJAŚNIENIA DOTYCZĄCE WYPEŁNIANIA ZARZĄDZENIA ZABEZPIECZENIA ZZ-Z Centralne biuro łącznikowe wypełnia pozycje niezaciemnione. Obowiązkowe wypełnienie pozycji dotyczy elementów określonych w art. 85 ustawy o wzajemnej pomocy. W pozostałym zakresie podaje się dane będące w posiadaniu centralnego biura łącznikowego. Datę podaje się w formacie dd-mm-rrrr.
 
 ## Część wstępna poz. „Podstawa prawna” – zaznaczyć właściwy kwadrat.
 

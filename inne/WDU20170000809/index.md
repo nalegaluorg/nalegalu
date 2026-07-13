@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000809) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/809/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu i trybu wydawania zezwoleń wojskowych na przejazd drogowy oraz sposobu organizacji i oznakowania kolumn pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej Na podstawie art. 64i ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 128, 60, 379 i 777) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 21 listopada 2012 r. w sprawie sposobu i trybu wydawania zezwoleń wojskowych na przejazd drogowy oraz sposobu organizacji i oznakowania kolumn pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 1368 i 1450 oraz z 2016 r. poz. 279) w § 23 ust. 5 otrzymuje brzmienie: „5. Pojazdem pilotującym jest oznakowany pojazd samochodowy Żandarmerii Wojskowej lub pododdziału regulacji ruchu, z wyjątkiem motocykla, wysyłający błyskowe sygnały świetlne w kolorze niebieskim, a w przypadku pilotowania kolumny pojazdów – dodatkowo błyskowe sygnały świetlne w kolorze czerwonym.”.
-§ 2. Motocykle używane do pilotowania na podstawie § 23 ust. 5 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym mogą być używane do czasu ich wycofania z eksploatacji, nie dłużej jednak niż do dnia 31 grudnia 2019 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: A. Macierewicz
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 21 listopada 2012 r. w sprawie sposobu i trybu wydawania zezwoleń wojskowych na przejazd drogowy oraz sposobu organizacji i oznakowania kolumn pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 1368 i 1450 oraz z 2016 r. poz. 279) w § 23 ust. 5 otrzymuje brzmienie: „5. Pojazdem pilotującym jest oznakowany pojazd samochodowy Żandarmerii Wojskowej lub pododdziału regulacji ruchu, z wyjątkiem motocykla, wysyłający błyskowe sygnały świetlne w kolorze niebieskim, a w przypadku pilotowania kolumny pojazdów – dodatkowo błyskowe sygnały świetlne w kolorze czerwonym.”.
+
+**§ 2.** Motocykle używane do pilotowania na podstawie § 23 ust. 5 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym mogą być używane do czasu ich wycofania z eksploatacji, nie dłużej jednak niż do dnia 31 grudnia 2019 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: A. Macierewicz
 

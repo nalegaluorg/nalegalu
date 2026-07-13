@@ -26,8 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2007/text.pdf) |
 
 zmieniające rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznej szkoły artystycznej lub publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania oraz trybu pracy komisji konkursowej Na podstawie art. 63 ust. 20 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 29 marca 2018 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznej szkoły artystycznej lub publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania oraz trybu pracy komisji konkursowej (Dz. U. poz. 694) w § 3 ust. 1 i 2 otrzymują brzmienie: „1. Przewodniczący komisji ustala termin i miejsce posiedzenia komisji, o czym powiadamia pisemnie w postaci papierowej lub elektronicznej pozostałych członków komisji oraz kandydatów nie później niż na 7 dni przed terminem posiedzenia.
-2. Posiedzenie komisji odbywa się nie później niż w ciągu 120 dni od upływu terminu składania ofert przez kandydatów wskazanego w ogłoszeniu konkursu.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 29 marca 2018 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznej szkoły artystycznej lub publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania oraz trybu pracy komisji konkursowej (Dz. U. poz. 694) w § 3 ust. 1 i 2 otrzymują brzmienie:
+
+> „1. Przewodniczący komisji ustala termin i miejsce posiedzenia komisji, o czym powiadamia pisemnie w postaci papierowej lub elektronicznej pozostałych członków komisji oraz kandydatów nie później niż na 7 dni przed terminem posiedzenia.  
+> 2. Posiedzenie komisji odbywa się nie później niż w ciągu 120 dni od upływu terminu składania ofert przez kandydatów wskazanego w ogłoszeniu konkursu.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński
 

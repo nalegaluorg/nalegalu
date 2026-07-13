@@ -26,11 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000277) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/277/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej Na podstawie art. 7 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. z 2016 r. poz. 1517) w § 1 wprowadza się następujące zmiany:
-1) w ust. 1 pkt 2 otrzymuje brzmienie: „2) zakresu zadań wynikających ze sprawowania przez Komendanta Głównego Straży Granicznej nadzoru nad terenowymi organami Straży Granicznej, Biurem Spraw Wewnętrznych Straży Granicznej, ośrodkami szkolenia Straży Granicznej oraz ośrodkami Straży Granicznej;”;
-2) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W Biurze Spraw Wewnętrznych Straży Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:
-1) zakresu, rodzaju i liczby realizowanych przez funkcjonariuszy i pracowników Biura Spraw Wewnętrznych Straży Granicznej ustawowych zadań Straży Granicznej, w szczególności w zakresie rozpoznawania, zapobiegania i zwalczania przestępczości popełnianej przez funkcjonariuszy i pracowników Straży Granicznej oraz wykrywania i ścigania sprawców tych przestępstw, a także funkcjonariuszy i pracowników Policji i Biura Ochrony Rządu lub strażaków i pracowników Państwowej Straży Pożarnej;
-2) zakresu zadań wynikających ze współdziałania z innymi jednostkami organizacyjnymi Straży Granicznej oraz właściwymi organami i instytucjami, w tym innych państw.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie warunków i sposobu naliczeń etatowych w Straży Granicznej (Dz. U. z 2016 r. poz. 1517) w § 1 wprowadza się następujące zmiany:
+
+- **1)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) zakresu zadań wynikających ze sprawowania przez Komendanta Głównego Straży Granicznej nadzoru nad terenowymi organami Straży Granicznej, Biurem Spraw Wewnętrznych Straży Granicznej, ośrodkami szkolenia Straży Granicznej oraz ośrodkami Straży Granicznej;”;
+- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+  > „1a. W Biurze Spraw Wewnętrznych Straży Granicznej naliczenia etatowe dokonywane są przy uwzględnieniu:  
+  > 1) zakresu, rodzaju i liczby realizowanych przez funkcjonariuszy i pracowników Biura Spraw Wewnętrznych Straży Granicznej ustawowych zadań Straży Granicznej, w szczególności w zakresie rozpoznawania, zapobiegania i zwalczania przestępczości popełnianej przez funkcjonariuszy i pracowników Straży Granicznej oraz wykrywania i ścigania sprawców tych przestępstw, a także funkcjonariuszy i pracowników Policji i Biura Ochrony Rządu lub strażaków i pracowników Państwowej Straży Pożarnej;  
+  > 2) zakresu zadań wynikających ze współdziałania z innymi jednostkami organizacyjnymi Straży Granicznej oraz właściwymi organami i instytucjami, w tym innych państw.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. Minister Spraw Wewnętrznych i Administracji: J. Brudziński
 

@@ -26,16 +26,31 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2047/text.pdf) |
 
 w sprawie podziału środków finansowych dla uczelni wojskowych na utrzymanie i rozwój potencjału dydaktycznego i badawczego oraz na zadania związane z obroną narodową Na podstawie art. 462 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa sposób podziału środków finansowych dla uczelni nadzorowanych przez Ministra Obrony Narodowej, zwanego dalej „ministrem”, o których mowa w art. 365 pkt 1 lit. a–c i pkt 2 lit. a–d oraz art. 459 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”, dla uczelni akademickich oraz sposób podziału środków finansowych, o których mowa w art. 365 pkt 1 lit. a–c oraz art. 459 pkt 1 ustawy, dla uczelni zawodowych.
-§ 2. 1. Ze środków finansowych, o których mowa w art. 365 pkt 1 lit. a–c i pkt 2 lit. a–d ustawy, wyodrębnia się część zasadniczą i część uzupełniającą.
+
+**§ 1.** Rozporządzenie określa sposób podziału środków finansowych dla uczelni nadzorowanych przez Ministra Obrony Narodowej, zwanego dalej „ministrem”, o których mowa w art. 365 pkt 1 lit. a–c i pkt 2 lit. a–d oraz art. 459 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”, dla uczelni akademickich oraz sposób podziału środków finansowych, o których mowa w art. 365 pkt 1 lit. a–c oraz art. 459 pkt 1 ustawy, dla uczelni zawodowych.
+
+**§ 2.**
+
+1. Ze środków finansowych, o których mowa w art. 365 pkt 1 lit. a–c i pkt 2 lit. a–d ustawy, wyodrębnia się część zasadniczą i część uzupełniającą.
+
 2. Część zasadnicza środków finansowych jest przeznaczona dla uczelni wojskowych na utrzymanie i rozwój potencjału dydaktycznego, w tym kształcenie studentów na studiach stacjonarnych, utrzymanie i rozwój uczelni, w tym domów i stołówek studenckich, oraz realizacje inwestycji w obszarze działalności dydaktycznej, rozwój zawodowy pracowników uczelni, a także na utrzymanie i rozwój potencjału badawczego, w tym prowadzenie działalności naukowej, realizacje inwestycji w obszarze działalności badawczej, kształcenie w szkole doktorskiej oraz komercjalizację wyników działalności naukowej i know-how związanego z tymi wynikami. Sposób podziału części zasadniczej jest określony w załączniku nr 1 do rozporządzenia.
+
 3. Część uzupełniająca nie przekracza 2% sumy środków finansowych, o których mowa w art. 365 pkt 1 lit. a–c i pkt 2 lit. a–d ustawy. Część uzupełniającą przeznacza się na:
-1) podziały korygujące i uzupełniające, w tym na:
-a) korekty wysokości subwencji wynikające z uwzględnienia nieprawidłowych danych przy podziale środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz na utrzymanie i rozwój potencjału badawczego,
-b) zadania wykonywane na rzecz Ministra Obrony Narodowej, jeżeli wynikają z jego poleceń, decyzji lub planów działalności;
-2) zwiększenia wysokości subwencji, o których mowa w art. 368 ust. 8 pkt 1 i 2 oraz ust. 9 ustawy.
+
+- **1)** podziały korygujące i uzupełniające, w tym na:
+    - **a)** korekty wysokości subwencji wynikające z uwzględnienia nieprawidłowych danych przy podziale środków finansowych na utrzymanie i rozwój potencjału dydaktycznego oraz na utrzymanie i rozwój potencjału badawczego,
+    - **b)** zadania wykonywane na rzecz Ministra Obrony Narodowej, jeżeli wynikają z jego poleceń, decyzji lub planów działalności;
+
+- **2)** zwiększenia wysokości subwencji, o których mowa w art. 368 ust. 8 pkt 1 i 2 oraz ust. 9 ustawy.
+
 4. Część uzupełniającą, nierozdysponowaną na zadania, o których mowa w ust. 3, przekazuje się do uczelni wojskowych, dokonując podziału w sposób określony w załączniku nr 1 do rozporządzenia.
-§ 3. 1. Wysokość subwencji ze środków finansowych, o których mowa w art. 365 pkt 1 lit. a−c oraz pkt 2 lit. a−d ustawy, jest ustalana dla uczelni wojskowej w sposób ustalony w załączniku nr 1 do rozporządzenia.
+
+**§ 3.**
+
+1. Wysokość subwencji ze środków finansowych, o których mowa w art. 365 pkt 1 lit. a−c oraz pkt 2 lit. a−d ustawy, jest ustalana dla uczelni wojskowej w sposób ustalony w załączniku nr 1 do rozporządzenia.
+
+## Załącznik
+
 § 3. 1. Wysokość subwencji ze środków finansowych, o których mowa w art. 365 pkt 1 lit. a − c oraz pkt 2 lit. a − d ustawy, jest ustalana dla uczelni wojskowej w sposób ustalony w załączniku nr 1 do rozporządzenia.
 2. Wysokość subwencji ze środków finansowych, o których mowa w art. 365 pkt 1 lit. a − c oraz pkt 2 lit. a − d ustawy nie może być:
 1) niższa niż 95%,

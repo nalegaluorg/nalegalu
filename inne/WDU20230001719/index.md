@@ -719,3 +719,12 @@ source: pdf
 
 **Art. 27.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+LISTA ROZPOZNANYCH WIELKOOBSZAROWYCH TERENÓW ZDEGRADOWANYCH, NA KTÓRYCH JEST KONIECZNE PODJĘCIE DZIAŁAŃ ZWIĄZANYCH Z POPRAWĄ STANU ŚRODOWISKA
+1. Tereny Zakładów Chemicznych „Zachem” w Bydgoszczy.
+2. Tereny Zakładów Chemicznych „Organika-Azot” w Jaworznie.
+3. Tereny Zakładów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach.
+4. Tereny Zakładów Przemysłu Barwników ,,Boruta” w Zgierzu.
+5. Tereny Zakładów Włókien Chemicznych „Wistom” w Tomaszowie Mazowieckim.
+

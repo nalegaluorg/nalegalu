@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000834) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/834/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. z 2021 r. poz. 540) w załączniku nr 1 w części IV w ust. 6 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) test antygenowy SARS-CoV-2 uzyskiwany za pomocą Systemu Dystrybucji Szczepionek (SDS).”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. z 2021 r. poz. 540) w załączniku nr 1 w części IV w ust. 6 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) test antygenowy SARS-CoV-2 uzyskiwany za pomocą Systemu Dystrybucji Szczepionek (SDS).”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

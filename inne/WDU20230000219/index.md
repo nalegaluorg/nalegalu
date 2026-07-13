@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000219) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/219/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu dokumentów publicznych Na podstawie art. 6 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2022 r. poz. 1394 i 1415) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 11 lipca 2019 r. w sprawie wykazu dokumentów publicznych (Dz. U.
-z 2022 r. poz. 2403) w § 3 w pkt 36 kropkę zastępuje się średnikiem i dodaje się pkt 37 w brzmieniu: „37) świadectwo stwierdzające posiadanie kwalifikacji w zawodzie geolog, o którym mowa w art. 51 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072, 1261, 1504, 2185 i 2687).”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 11 lipca 2019 r. w sprawie wykazu dokumentów publicznych (Dz. U. z 2022 r. poz. 2403) w § 3 w pkt 36 kropkę zastępuje się średnikiem i dodaje się pkt 37 w brzmieniu: „37) świadectwo stwierdzające posiadanie kwalifikacji w zawodzie geolog, o którym mowa w art. 51 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2022 r. poz. 1072, 1261, 1504, 2185 i 2687).”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

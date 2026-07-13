@@ -38,72 +38,125 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 4) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 3 marca 2023 r. zmieniającego rozporządzenie w sprawie zakresu, trybu i częstotliwości przeprowadzania okresowych profilaktycznych badań lekarskich oraz okresowej oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej (Dz. U. poz. 429), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 27 października 2005 r.
 w sprawie zakresu, trybu i częstotliwości przeprowadzania okresowych profilaktycznych badań lekarskich oraz okresowej oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej Na podstawie art. 42 ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240, 347, 641 i 1088) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa zakres, tryb i częstotliwość przeprowadzania okresowych profilaktycznych badań lekarskich oraz okresowej oceny sprawności fizycznej, w tym:
-1) rodzaje profilaktycznych badań lekarskich;
-2) zróżnicowanie częstotliwości profilaktycznych badań lekarskich i oceny sprawności fizycznej w zależności od wieku i płci strażaka oraz warunków pełnienia służby;
-3) sposób przeprowadzania próby wydolnościowej i testu sprawności fizycznej;
-4) sposób ewidencjonowania wyników oceny sprawności fizycznej;
-5) wzór indywidualnej karty oceny sprawności fizycznej.
+
+**§ 1.**
+
+1. Rozporządzenie określa zakres, tryb i częstotliwość przeprowadzania okresowych profilaktycznych badań lekarskich oraz okresowej oceny sprawności fizycznej, w tym:
+
+- **1)** rodzaje profilaktycznych badań lekarskich;
+- **2)** zróżnicowanie częstotliwości profilaktycznych badań lekarskich i oceny sprawności fizycznej w zależności od wieku i płci strażaka oraz warunków pełnienia służby;
+- **3)** sposób przeprowadzania próby wydolnościowej i testu sprawności fizycznej;
+- **4)** sposób ewidencjonowania wyników oceny sprawności fizycznej;
+- **5)** wzór indywidualnej karty oceny sprawności fizycznej.
+
 2. Okresowe profilaktyczne badania lekarskie oraz okresowa ocena sprawności fizycznej strażaka Państwowej Straży Pożarnej, zwanego dalej „strażakiem”, zapewniają ochronę zdrowia strażaka oraz umożliwiają prawidłowe wykonywanie obowiązków służbowych.
-§ 2. 1. Okresowe profilaktyczne badania lekarskie decydujące o zdolności do prawidłowego wykonywania obowiązków służbowych, zwane dalej „badaniami profilaktycznymi”, przeprowadza się na podstawie skierowania wydanego przez kierownika jednostki organizacyjnej Państwowej Straży Pożarnej, w której strażak pełni służbę, lub osobę przez niego upoważnioną, zwanych dalej „kierującym na badania”. Skierowanie powinno być dostarczone strażakowi nie później niż 30 dni przed wyznaczonym terminem badań profilaktycznych.
+
+**§ 2.**
+
+1. Okresowe profilaktyczne badania lekarskie decydujące o zdolności do prawidłowego wykonywania obowiązków służbowych, zwane dalej „badaniami profilaktycznymi”, przeprowadza się na podstawie skierowania wydanego przez kierownika jednostki organizacyjnej Państwowej Straży Pożarnej, w której strażak pełni służbę, lub osobę przez niego upoważnioną, zwanych dalej „kierującym na badania”. Skierowanie powinno być dostarczone strażakowi nie później niż 30 dni przed wyznaczonym terminem badań profilaktycznych.
+
 2. Skierowanie na badania profilaktyczne powinno zawierać:
-1) dane identyfikacyjne strażaka (imię i nazwisko, imię ojca, datę i miejsce urodzenia, PESEL, adres zamieszkania);
-2) dane identyfikacyjne miejsca pełnienia służby przez strażaka (nazwę jednostki organizacyjnej Państwowej Straży Pożarnej, adres, numer identyfikacyjny REGON);
-3) stanowisko służbowe zajmowane lub przewidziane do objęcia przez strażaka;
-4) informację o warunkach pełnienia służby, w tym o występowaniu na stanowisku służbowym czynników szkodliwych, uciążliwych lub niebezpiecznych dla zdrowia.
+
+- **1)** dane identyfikacyjne strażaka (imię i nazwisko, imię ojca, datę i miejsce urodzenia, PESEL, adres zamieszkania);
+- **2)** dane identyfikacyjne miejsca pełnienia służby przez strażaka (nazwę jednostki organizacyjnej Państwowej Straży Pożarnej, adres, numer identyfikacyjny REGON);
+- **3)** stanowisko służbowe zajmowane lub przewidziane do objęcia przez strażaka;
+- **4)** informację o warunkach pełnienia służby, w tym o występowaniu na stanowisku służbowym czynników szkodliwych, uciążliwych lub niebezpiecznych dla zdrowia.
+
 3. Skierowanie na badania profilaktyczne wystawia się w dwóch egzemplarzach ‒ pierwszy pozostaje w karcie badań, drugi ‒ potwierdzony przez lekarza medycyny pracy, zwraca się z fakturą do kierującego na badania.
+
 4. Badania profilaktyczne realizują służby wykonujące zadania odpowiednie do zadań służby medycyny pracy utworzone w resorcie spraw wewnętrznych i administracji na podstawie art. 27 ust. 2 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2022 r. poz. 437), a w szczególnie uzasadnionych przypadkach ‒ inne zakłady opieki zdrowotnej, na podstawie umowy o świadczenie usług medycznych z zakresu medycyny pracy.
-§ 3. 1. Badania profilaktyczne przeprowadza lekarz medycyny pracy na podstawie:
-1) badania lekarskiego,
-2) badań laboratoryjnych,
-3) badań konsultacyjnych – które są elementem badania profilaktycznego.
+
+**§ 3.**
+
+1. Badania profilaktyczne przeprowadza lekarz medycyny pracy na podstawie:
+
+- **1)** badania lekarskiego,
+- **2)** badań laboratoryjnych,
+- **3)** badań konsultacyjnych – które są elementem badania profilaktycznego.
+
 2. Badania profilaktyczne przeprowadza się:
-1) dla strażaków pełniących służbę w zmianowym rozkładzie czasu służby ‒ raz w roku, w zakresie określonym w załączniku nr 1 do rozporządzenia, zróżnicowanym dla strażaków do 40 roku życia i powyżej 40 roku życia;
-2) dla strażaków pełniących służbę w codziennym rozkładzie czasu służby:
-a) co 3 lata ‒ dla strażaków do 50 roku życia,
-b) co 2 lata ‒ dla strażaków powyżej 50 roku życia ‒ w zakresie określonym w załączniku nr 2 do rozporządzenia, z zastrzeżeniem ust. 3.
+
+- **1)** dla strażaków pełniących służbę w zmianowym rozkładzie czasu służby ‒ raz w roku, w zakresie określonym w załączniku nr 1 do rozporządzenia, zróżnicowanym dla strażaków do 40 roku życia i powyżej 40 roku życia;
+- **2)** dla strażaków pełniących służbę w codziennym rozkładzie czasu służby:
+    - **a)** co 3 lata ‒ dla strażaków do 50 roku życia,
+    - **b)** co 2 lata ‒ dla strażaków powyżej 50 roku życia ‒ w zakresie określonym w załączniku nr 2 do rozporządzenia, z zastrzeżeniem ust. 3.
+
 3. Niezależnie od terminów, o których mowa w ust. 2, badania profilaktyczne przeprowadza się w przypadku:
-1) przewidywanej zmiany stanowiska służbowego lub zakresu wykonywanych obowiązków służbowych;
-2) czasowej niezdolności do służby z powodu choroby trwającej dłużej niż 60 dni, w celu ustalenia zdolności do prawidłowego wykonywania obowiązków służbowych na dotychczasowym stanowisku służbowym.
+
+- **1)** przewidywanej zmiany stanowiska służbowego lub zakresu wykonywanych obowiązków służbowych;
+- **2)** czasowej niezdolności do służby z powodu choroby trwającej dłużej niż 60 dni, w celu ustalenia zdolności do prawidłowego wykonywania obowiązków służbowych na dotychczasowym stanowisku służbowym.
+
 4. Lekarz medycyny pracy może zlecić przeprowadzenie dodatkowo badań profilaktycznych w innym zakresie niż określony w ust. 2, w tym badań psychologicznych, jeżeli stwierdzi, że ze względu na stan zdrowia lub płeć strażaka jest to niezbędne dla orzeczenia o zdolności do prawidłowego wykonywania obowiązków służbowych. Lekarz medycyny pracy może też wskazać wcześniejszy termin kolejnych badań profilaktycznych.
+
 5. Zasadność przeprowadzenia badań, o których mowa w ust. 3, oraz skrócenia terminu kolejnych badań profilaktycznych powinna być odzwierciedlona w dokumentacji medycznej strażaka.
+
 6. Badania psychologiczne, o których mowa w ust. 4, przeprowadza się w celu określenia zdolności psychicznej strażaka do prawidłowego wykonywania obowiązków służbowych, w tym odporności na stres lub zdarzenie traumatyczne.
+
 7. Badanie profilaktyczne kończy się wydaniem przez lekarza medycyny pracy zaświadczenia lekarskiego wskazującego termin kolejnego badania profilaktycznego oraz zawierającego orzeczenie lekarskie stwierdzające:
-1) wobec braku przeciwwskazań zdrowotnych ‒ zdolny do prawidłowego wykonywania obowiązków służbowych na stanowisku służbowym;
-2) wobec przeciwwskazań zdrowotnych ‒ zdolny do prawidłowego wykonywania obowiązków służbowych na stanowisku służbowym z ograniczeniem (treść przeciwwskazania lub rodzaj ograniczenia);
-3) wobec przeciwwskazań zdrowotnych ‒ niezdolny do prawidłowego wykonywania obowiązków służbowych na przewidywanym stanowisku służbowym;
-4) wobec przeciwwskazań zdrowotnych ‒ utracił zdolność do prawidłowego wykonywania obowiązków służbowych na zajmowanym stanowisku służbowym.
-§ 4. 1. Okresowa ocena sprawności fizycznej strażaka, zwana dalej „oceną sprawności fizycznej”, obejmuje:
-1) próbę wydolnościową;
-2) test sprawności fizycznej.
+
+- **1)** wobec braku przeciwwskazań zdrowotnych ‒ zdolny do prawidłowego wykonywania obowiązków służbowych na stanowisku służbowym;
+- **2)** wobec przeciwwskazań zdrowotnych ‒ zdolny do prawidłowego wykonywania obowiązków służbowych na stanowisku służbowym z ograniczeniem (treść przeciwwskazania lub rodzaj ograniczenia);
+- **3)** wobec przeciwwskazań zdrowotnych ‒ niezdolny do prawidłowego wykonywania obowiązków służbowych na przewidywanym stanowisku służbowym;
+- **4)** wobec przeciwwskazań zdrowotnych ‒ utracił zdolność do prawidłowego wykonywania obowiązków służbowych na zajmowanym stanowisku służbowym.
+
+**§ 4.**
+
+1. Okresowa ocena sprawności fizycznej strażaka, zwana dalej „oceną sprawności fizycznej”, obejmuje:
+
+- **1)** próbę wydolnościową;
+- **2)** test sprawności fizycznej.
+
 2. Sposób przeprowadzenia próby wydolnościowej jest określony w załączniku nr 3 do rozporządzenia.
+
 3. Test sprawności fizycznej składa się z dwóch prób sprawnościowych, zróżnicowanych ze względu na płeć strażaka oraz charakter wykonywanych zadań służbowych.
+
 4. Sposób przeprowadzenia testu sprawności fizycznej jest określony w załączniku nr 4 do rozporządzenia.
+
 5. Zakres oceny sprawności fizycznej jest określony w załączniku nr 5 do rozporządzenia.
-§ 5. Do oceny sprawności fizycznej przystępuje strażak, który posiada aktualne zaświadczenie lekarskie, o którym mowa w § 3 ust. 7 pkt 1.
-§ 6. 1. Corocznej ocenie sprawności fizycznej podlega strażak:
-1) w wieku do 55 roku życia;
-2) w wieku powyżej 55 roku życia, jeżeli bierze bezpośredni udział w działaniach ratowniczych;
-3) w wieku powyżej 55 roku życia, na własną prośbę, jeżeli nie bierze bezpośredniego udziału w działaniach ratowniczych.
+
+**§ 5.** Do oceny sprawności fizycznej przystępuje strażak, który posiada aktualne zaświadczenie lekarskie, o którym mowa w § 3 ust. 7 pkt 1.
+
+**§ 6.**
+
+1. Corocznej ocenie sprawności fizycznej podlega strażak:
+
+- **1)** w wieku do 55 roku życia;
+- **2)** w wieku powyżej 55 roku życia, jeżeli bierze bezpośredni udział w działaniach ratowniczych;
+- **3)** w wieku powyżej 55 roku życia, na własną prośbę, jeżeli nie bierze bezpośredniego udziału w działaniach ratowniczych.
+
 1a. W przypadkach ogłoszenia stanu epidemii lub wprowadzenia stanu nadzwyczajnego na obszarze występowania któregokolwiek z tych stanów oceny sprawności fizycznej strażaka nie przeprowadza się.
+
 2. Za przeprowadzenie oceny sprawności fizycznej odpowiada kierownik jednostki organizacyjnej Państwowej Straży Pożarnej, w której strażak pełni służbę.
-§ 7. 1. Ocenę sprawności fizycznej przeprowadza się w ciągu roku kalendarzowego w terminach:
-1) od dnia 1 marca do dnia 30 kwietnia;
-2) od dnia 1 października do dnia 30 listopada.
+
+**§ 7.**
+
+1. Ocenę sprawności fizycznej przeprowadza się w ciągu roku kalendarzowego w terminach:
+
+- **1)** od dnia 1 marca do dnia 30 kwietnia;
+- **2)** od dnia 1 października do dnia 30 listopada.
+
 1a. W przypadkach zniesienia stanu epidemii lub stanu nadzwyczajnego w terminie, o którym mowa w ust. 1, termin przeprowadzenia oceny sprawności fizycznej na obszarze, na którym występował którykolwiek z tych stanów, przedłuża się:
-1) do dnia 30 czerwca ‒ w przypadku terminu, o którym mowa w ust. 1 pkt 1, albo
-2) do dnia 31 grudnia ‒ w przypadku terminu, o którym mowa w ust. 1 pkt 2.
+
+- **1)** do dnia 30 czerwca ‒ w przypadku terminu, o którym mowa w ust. 1 pkt 1, albo
+- **2)** do dnia 31 grudnia ‒ w przypadku terminu, o którym mowa w ust. 1 pkt 2.
+
 2. Ocenę sprawności fizycznej przeprowadza się w czasie służby strażaka.
+
 3. Strażak przystępuje do oceny sprawności fizycznej w wybranym terminie, o którym mowa w ust. 1, zgodnie z harmonogramem ustalonym przez kierownika jednostki organizacyjnej Państwowej Straży Pożarnej.
+
 4. Nieusprawiedliwione nieprzystąpienie przez strażaka do oceny sprawności fizycznej w terminach, o których mowa w ust. 1, powoduje uzyskanie oceny negatywnej.
-§ 8. 1. Wyniki oceny sprawności fizycznej strażaka są ewidencjonowane w Indywidualnej karcie oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej, której wzór jest określony w załączniku nr 6 do rozporządzenia.
+
+**§ 8.**
+
+1. Wyniki oceny sprawności fizycznej strażaka są ewidencjonowane w Indywidualnej karcie oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej, której wzór jest określony w załączniku nr 6 do rozporządzenia.
+
 2. Indywidualna karta oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej jest przechowywana przez komórkę organizacyjną właściwą do przeprowadzania oceny sprawności fizycznej.
+
 3. Zbiorcze wyniki oceny sprawności fizycznej strażaków są przechowywane w komórce organizacyjnej właściwej do spraw kadrowych.
-§ 9. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 stycznia 1998 r. w sprawie zakresu, szczegółowych zasad, trybu i częstotliwości przeprowadzania okresowej oceny zdolności fizycznej i psychicznej do służby strażaków Państwowej Straży Pożarnej (Dz. U. poz. 117 oraz z 1999 r. poz. 191).
-§ 10. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Dziennik Ustaw – Załączniki 7 – do rozporządzenia Ministra Spraw Poz. 1177 Wewnętrznych i Administracji z dnia 27 października 2005 r. (Dz. U. z 2023 r. poz. … ) Załącznik nr 1 OKRESOWE PROFILAKTYCZNE BADANIA LEKARSKIE DLA STRAŻAKÓW OKRESOWE PROFILAKTYCZNE BADANIA LEKARSKIE DLA STRAŻAKÓW PEŁNIĄCYCH PEŁNIĄCYCH SŁUŻBĘ SŁUŻBĘ W ZMIANOWYM W ZMIANOWYM ROZKŁADZIE ROZKŁADZIE CZASU CZASU SŁUŻBY SŁUŻBY Termin badań Rodzaj badań Lp. Wiek strażaka Zakres badań profilaktycznych* profilaktycznych* profilaktycznych badanie przez lekarza medycyny pracy oraz wydanie orzeczenia, lekarskie okulista**, laryngolog**, neurolog** morfologia z rozmazem + płytki, poziom glukozy,
-1. do 40 roku co rok kreatynina, życia laboratoryjne cholesterol, ALAT, trójglicerydy, bilirubina, badanie ogólne moczu rtg. klatki piersiowej ‒ duży obrazek (co 2 lata), konsultacyjne ekg spoczynkowe (co 2 lata), spirometria (co 2 lata) badanie przez lekarza medycyny pracy oraz wydanie orzeczenia, lekarskie okulista**, laryngolog**, neurolog** morfologia z rozmazem + płytki, poziom glukozy, kreatynina,
-2. powyżej co rok laboratoryjne cholesterol, 40 roku życia ALAT, trójglicerydy, bilirubina, badanie ogólne moczu rtg. klatki piersiowej ‒ duży obrazek (co 2 lata), konsultacyjne ekg spoczynkowe, ekg wysiłkowe (co 2 lata), spirometria (co 2 lata) * W uzasadnionych przypadkach lekarz medycyny pracy może zlecić przeprowadzenie badań w innym zakresie, w tym badań psychologicznych, oraz wskazać wcześniejszy termin kolejnych badań, uzasadniając to w dokumentacji medycznej strażaka, ** Konsultacja co 2 lata.
+
+**§ 9.** Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 29 stycznia 1998 r. w sprawie zakresu, szczegółowych zasad, trybu i częstotliwości przeprowadzania okresowej oceny zdolności fizycznej i psychicznej do służby strażaków Państwowej Straży Pożarnej (Dz. U. poz. 117 oraz z 1999 r. poz. 191).
+
+**§ 10.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Dziennik Ustaw – Załączniki 7 – do rozporządzenia Ministra Spraw Poz. 1177 Wewnętrznych i Administracji z dnia 27 października 2005 r. (Dz. U. z 2023 r. poz. … ) Załącznik nr 1 OKRESOWE PROFILAKTYCZNE BADANIA LEKARSKIE DLA STRAŻAKÓW OKRESOWE PROFILAKTYCZNE BADANIA LEKARSKIE DLA STRAŻAKÓW PEŁNIĄCYCH PEŁNIĄCYCH SŁUŻBĘ SŁUŻBĘ W ZMIANOWYM W ZMIANOWYM ROZKŁADZIE ROZKŁADZIE CZASU CZASU SŁUŻBY SŁUŻBY Termin badań Rodzaj badań Lp. Wiek strażaka Zakres badań profilaktycznych* profilaktycznych* profilaktycznych badanie przez lekarza medycyny pracy oraz wydanie orzeczenia, lekarskie okulista**, laryngolog**, neurolog** morfologia z rozmazem + płytki, poziom glukozy, 1. do 40 roku co rok kreatynina, życia laboratoryjne cholesterol, ALAT, trójglicerydy, bilirubina, badanie ogólne moczu rtg. klatki piersiowej ‒ duży obrazek (co 2 lata), konsultacyjne ekg spoczynkowe (co 2 lata), spirometria (co 2 lata) badanie przez lekarza medycyny pracy oraz wydanie orzeczenia, lekarskie okulista**, laryngolog**, neurolog** morfologia z rozmazem + płytki, poziom glukozy, kreatynina, 2. powyżej co rok laboratoryjne cholesterol, 40 roku życia ALAT, trójglicerydy, bilirubina, badanie ogólne moczu rtg. klatki piersiowej ‒ duży obrazek (co 2 lata), konsultacyjne ekg spoczynkowe, ekg wysiłkowe (co 2 lata), spirometria (co 2 lata) * W uzasadnionych przypadkach lekarz medycyny pracy może zlecić przeprowadzenie badań w innym zakresie, w tym badań psychologicznych, oraz wskazać wcześniejszy termin kolejnych badań, uzasadniając to w dokumentacji medycznej strażaka, ** Konsultacja co 2 lata.
 
 ## Załącznik nr 2 — OKRESOWE PROFILAKTYCZNE BADANIA LEKARSKIE DLA STRAŻAKÓW OKRESOWE PROFILAKTYCZNE BADANIA LEKARSKIE DLA STRAŻAKÓW PEŁNIĄCYCH PEŁNIĄCYCH SŁUŻBĘ SŁUŻBĘ W CODZIENNYM W CODZIENNYM ROZKŁADZIE ROZKŁADZIE CZASU CZASU SŁUŻBY SŁUŻBY Termin badań Rodzaj badań Lp. Wiek strażaka Zakres badań profilaktycznych* profilaktycznych* profilaktycznych lekarskie badanie przez lekarza medycyny pracy oraz wydanie orzeczenia
 

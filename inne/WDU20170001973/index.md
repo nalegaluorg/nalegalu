@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie klasyfikowania i kwalifikowania dokumentacji, przekazywania materiałów archiwalnych do archiwów państwowych i brakowania dokumentacji niearchiwalnej Na podstawie art. 5 ust. 2 pkt 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U.
 z 2016 r. poz. 1506 i 1948 oraz z 2017 r. poz. 1086) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 20 października 2015 r. w sprawie klasyfikowania i kwalifikowania dokumentacji, przekazywania materiałów archiwalnych do archiwów państwowych i brakowania dokumentacji niearchiwalnej (Dz. U. poz. 1743) w załączniku nr 5 do rozporządzenia w lp. 4 kolumna druga otrzymuje brzmienie: „Archiwum Państwowe w Malborku”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 20 października 2015 r. w sprawie klasyfikowania i kwalifikowania dokumentacji, przekazywania materiałów archiwalnych do archiwów państwowych i brakowania dokumentacji niearchiwalnej (Dz. U. poz. 1743) w załączniku nr 5 do rozporządzenia w lp. 4 kolumna druga otrzymuje brzmienie: „Archiwum Państwowe w Malborku”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

@@ -31,7 +31,10 @@ source: pdf
 
 - **1)** użyte w art. 2 w ust. 1 w pkt 1, w art. 82 w ust. 1 oraz w art. 359 w pkt 2 wyrazy „130 000 złotych” zastępuje się wyrazami „170 000 złotych”;
 - **2)** w art. 83:
-    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) rozeznanie rynku w aspekcie: a) alternatywnych środków zaspokojenia zidentyfikowanych potrzeb, b) możliwych wariantów realizacji zamówienia albo wskazuje, że jest wyłącznie jedna możliwość wykonania zamówienia, c) podniesienia konkurencyjności postępowania o udzielenie zamówienia.”,
+    - **a)** w ust. 2 pkt 2 otrzymuje brzmienie:
+
+      > „2) rozeznanie rynku w aspekcie:  
+      > a) alternatywnych środków zaspokojenia zidentyfikowanych potrzeb, b) możliwych wariantów realizacji zamówienia albo wskazuje, że jest wyłącznie jedna możliwość wykonania zamówienia, c) podniesienia konkurencyjności postępowania o udzielenie zamówienia.”,  
     - **b)** w ust. 3 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) warunki zamówienia sprzyjające podniesieniu konkurencyjności postępowania o udzielenie zamówienia, których zastosowanie przewiduje zamawiający – w przypadku gdy przewidywany jest tryb udzielenia zamówienia, o którym mowa w art. 129 ust. 1 pkt 1–5;”.
 
 **Art. 2.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164) w art. 23a wyrazy „130 000 zł” zastępuje się wyrazami „170 000 zł”.

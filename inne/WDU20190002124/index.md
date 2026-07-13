@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebędących cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych Na podstawie art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 w związku z art. 43 ust.
 ust. 3 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2018 poz. 1043 i 1820) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania dących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej stek (Dz. U. poz. 134, z późn. zm. ) w załączniku nr 5 w tabeli III:
-1) w części III „Centralny Ośrodek Szkolenia Służby Więziennej, ośrodki szkolenia i ośrodki Więziennej” po lit. D dodaje się lit. E w brzmieniu: E. STANOWISKA OCHRONNE 1 Specjalista IX–XIII – wyższe 2 Starszy inspektor VIII–XII – wyższe Inspektor wyższe 3 VI–VIII – Instruktor średnie 4 Starszy referent IV–VIII – średnie 5 Referent I–VI – średnie
-2) w części IV „Areszty śledcze i zakłady karne” po lit. D dodaje się lit. E w brzmieniu: E. STANOWISKA OCHRONNE 1 Specjalista IX–XIII – wyższe 2 Starszy inspektor VIII–XII – wyższe Inspektor wyższe 3 VI–VIII – Instruktor średnie 4 Starszy referent IV–VIII – średnie 5 Referent I–VI – średnie
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania dących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej stek (Dz. U. poz. 134, z późn. zm. ) w załączniku nr 5 w tabeli III:
+
+- **1)** w części III „Centralny Ośrodek Szkolenia Służby Więziennej, ośrodki szkolenia i ośrodki Więziennej” po lit. D dodaje się lit. E w brzmieniu: E. STANOWISKA OCHRONNE 1 Specjalista IX–XIII – wyższe 2 Starszy inspektor VIII–XII – wyższe Inspektor wyższe 3 VI–VIII – Instruktor średnie 4 Starszy referent IV–VIII – średnie 5 Referent I–VI – średnie
+- **2)** w części IV „Areszty śledcze i zakłady karne” po lit. D dodaje się lit. E w brzmieniu: E. STANOWISKA OCHRONNE 1 Specjalista IX–XIII – wyższe 2 Starszy inspektor VIII–XII – wyższe Inspektor wyższe 3 VI–VIII – Instruktor średnie 4 Starszy referent IV–VIII – średnie 5 Referent I–VI – średnie
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezes Rady
 

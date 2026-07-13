@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie oświadczeń o stanie majątkowym strażaków Państwowej Straży Pożarnej Na podstawie art. 57а ust. 12 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r.
 poz. 1969 oraz z 2023 r. poz. 240, 347, 641 i 1088) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 29 września 2021 r. w sprawie oświadczeń o stanie majątkowym strażaków Państwowej Straży Pożarnej (Dz. U. poz. 1794) w § 4 w ust. 1:
-1) w pkt 2 lit. b otrzymuje brzmienie: „b) Rektor-Komendant Akademii Pożarniczej i jego zastępcy,”;
-2) pkt 4 otrzymuje brzmienie: „4) Rektorowi-Komendantowi Akademii Pożarniczej oraz komendantom pozostałych szkół Państwowej Straży Pożarnej – strażacy pełniący służbę w tych jednostkach organizacyjnych Państwowej Straży Pożarnej;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 29 września 2021 r. w sprawie oświadczeń o stanie majątkowym strażaków Państwowej Straży Pożarnej (Dz. U. poz. 1794) w § 4 w ust. 1:
+
+- **1)** w pkt 2 lit. b otrzymuje brzmienie: „b) Rektor-Komendant Akademii Pożarniczej i jego zastępcy,”;
+- **2)** pkt 4 otrzymuje brzmienie: „4) Rektorowi-Komendantowi Akademii Pożarniczej oraz komendantom pozostałych szkół Państwowej Straży Pożarnej – strażacy pełniący służbę w tych jednostkach organizacyjnych Państwowej Straży Pożarnej;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

@@ -26,10 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2139/text.pdf) |
 
 w sprawie nadania statutu Głównemu Urzędowi Geodezji i Kartografii Na podstawie art. 6 ust. 4 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762) zarządza się, co następuje:
-§ 1. Głównemu Urzędowi Geodezji i Kartografii nadaje się statut stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 28 grudnia 2017 r. w sprawie nadania statutu Głównemu Urzędowi Geodezji i Kartografii (Dz. U. poz. 2487).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki STATUT GŁÓWNEGO URZĘDU GEODEZJI I KARTOGRAFII
+
+**§ 1.** Głównemu Urzędowi Geodezji i Kartografii nadaje się statut stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 28 grudnia 2017 r. w sprawie nadania statutu Głównemu Urzędowi Geodezji i Kartografii (Dz. U. poz. 2487).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezes Rady Ministrów: M. Morawiecki STATUT GŁÓWNEGO URZĘDU GEODEZJI I KARTOGRAFII
+
+## Załącznik
+
 § 1. 1. Główny Urząd Geodezji i Kartografii, zwany dalej „Urzędem”, jest urzędem administracji rządowej, obsługującym Głównego Geodetę Kraju, działającym pod jego bezpośrednim kierownictwem.
 2. Siedzibą Urzędu jest miasto stołeczne Warszawa.
 § 2. 1. Główny Geodeta Kraju kieruje Urzędem przy pomocy zastępców, dyrektora generalnego oraz dyrektorów komórek organizacyjnych, o których mowa w § 3.

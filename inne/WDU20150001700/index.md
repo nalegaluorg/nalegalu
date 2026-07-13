@@ -30,9 +30,20 @@ source: pdf
 **Art. 1.** W ustawie z dnia 28 marca 2003 r. o ustanowieniu programu wieloletniego „Program ochrony brzegów morskich” (Dz. U. Nr 67, poz. 621) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 1 otrzymuje brzmienie: „1. Ustanawia się „Program ochrony brzegów morskich”, zwany dalej „Programem”.”;
-- **2)** art. 2 otrzymuje brzmienie: „Art. 2. W ramach Programu podejmuje się zadania dotyczące: 1) budowy, rozbudowy i utrzymywania systemu ochrony brzegów morskich przed erozją morską i powodzią od strony morza; 2) zapewnienia minimalnych poziomów bezpieczeństwa brzegu morskiego określonych w przepisach wydanych na podstawie art. 37 ust. 1d ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014 oraz z 2015 r. poz. 1642); 3) monitorowania brzegów morskich, a także wykonywania czynności, prac i badań dotyczących ustalenia aktualnego stanu brzegu morskiego na całej długości polskiego wybrzeża; 4) zapewnienia położenia brzegu morskiego po odwodnej stronie granicznej linii ochrony brzegu morskiego określonej w przepisach wydanych na podstawie art. 37 ust. 1d ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.”;
+- **2)** art. 2 otrzymuje brzmienie:
+
+  > „Art. 2. W ramach Programu podejmuje się zadania dotyczące:  
+  > 1) budowy, rozbudowy i utrzymywania systemu ochrony brzegów morskich przed erozją morską i powodzią od strony morza;  
+  > 2) zapewnienia minimalnych poziomów bezpieczeństwa brzegu morskiego określonych w przepisach wydanych na podstawie art. 37 ust. 1d ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014 oraz z 2015 r. poz. 1642);  
+  > 3) monitorowania brzegów morskich, a także wykonywania czynności, prac i badań dotyczących ustalenia aktualnego stanu brzegu morskiego na całej długości polskiego wybrzeża;  
+  > 4) zapewnienia położenia brzegu morskiego po odwodnej stronie granicznej linii ochrony brzegu morskiego określonej w przepisach wydanych na podstawie art. 37 ust. 1d ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.”;  
 - **3)** po art. 2 dodaje się art. 2a w brzmieniu: „Art. 2a. Wskaźnikiem realizacji Programu w danym roku jest długość linii brzegowej zabezpieczonej przed zjawiskiem erozji i powodzi od strony morza, liczona w kilometrach.”;
-- **4)** art. 4 otrzymuje brzmienie: „Art. 4. 1. Program jest finansowany ze środków budżetu państwa oraz środków pozabudżetowych. 2. Maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym ustawy, wynosi 911 000 tys. zł. Limit nie obejmuje środków na realizację projektów finansowanych z udziałem środków europejskich. 3. Planowane nakłady z budżetu państwa na realizację zadań przewidzianych Programem nie mogą być, w poszczególnych latach, mniejsze niż 34 000 tys. zł.”;
+- **4)** art. 4 otrzymuje brzmienie:
+
+  > „Art. 4.  
+  > 1. Program jest finansowany ze środków budżetu państwa oraz środków pozabudżetowych.  
+  > 2. Maksymalny limit wydatków budżetu państwa, będący skutkiem finansowym ustawy, wynosi 911 000 tys. zł. Limit nie obejmuje środków na realizację projektów finansowanych z udziałem środków europejskich.  
+  > 3. Planowane nakłady z budżetu państwa na realizację zadań przewidzianych Programem nie mogą być, w poszczególnych latach, mniejsze niż 34 000 tys. zł.”;  
 - **5)** załącznik do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r. Prezydent Rzeczypospolitej Polskiej: A. Duda PLANOWANE SZCZEGÓŁOWE NAKŁADY NA REALIZACJĘ ZADAŃ PROGRAMU W LATACH 2004–2023 Lp. Rejon – odcinek brzegu Zadanie Nakłady ogółem (w tys. zł) 1 Zalew Wiślany Sztuczne zasilanie; umocnienia brzegowe; 457 000 monitoring i badania dotyczące ustalenia aktualnego stanu brzegu morskiego 2 Mierzeja Wiślana i Zatoka Gdańska

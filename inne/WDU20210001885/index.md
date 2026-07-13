@@ -31,36 +31,58 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 23 marca 2011 r.
 w sprawie wzoru formularza powiadomienia o produktach wprowadzanych po raz pierwszy do obrotu na terytorium Rzeczypospolitej Polskiej, rejestru produktów objętych powiadomieniem oraz wykazu krajowych jednostek naukowych właściwych do wydawania opinii Na podstawie art. 31 ust. 6 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2020 r.
 poz. 2021) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór formularza powiadomienia, o którym mowa w art. 29 ust. 4 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, zwanej dalej „ustawą”;
-2) dane zawarte w rejestrze produktów objętych powiadomieniem umożliwiające ich identyfikację;
-3) wzór rejestru, o którym mowa w pkt 2;
-4) wykaz krajowych jednostek naukowych właściwych do wydawania opinii, o której mowa w art. 31 ust. 1 pkt 2 ustawy, zwanej dalej „opinią”;
-5) metody obliczania kosztów ponoszonych przez krajową jednostkę naukową w związku z wydaniem opinii;
-6) wysokość opłaty pobieranej przy wydawaniu opinii przez Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
-§ 2. 1. Wzór elektronicznego formularza powiadomienia Głównego Inspektora Sanitarnego przez podmiot działający na rynku spożywczym o pierwszym wprowadzeniu lub o zamiarze wprowadzenia do obrotu na terytorium Rzeczypospolitej Polskiej produktu jako środka spożywczego, zwanego dalej „powiadomieniem”, został określony w załączniku nr 1 do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór formularza powiadomienia, o którym mowa w art. 29 ust. 4 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, zwanej dalej „ustawą”;
+- **2)** dane zawarte w rejestrze produktów objętych powiadomieniem umożliwiające ich identyfikację;
+- **3)** wzór rejestru, o którym mowa w pkt 2;
+- **4)** wykaz krajowych jednostek naukowych właściwych do wydawania opinii, o której mowa w art. 31 ust. 1 pkt 2 ustawy, zwanej dalej „opinią”;
+- **5)** metody obliczania kosztów ponoszonych przez krajową jednostkę naukową w związku z wydaniem opinii;
+- **6)** wysokość opłaty pobieranej przy wydawaniu opinii przez Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych.
+
+**§ 2.**
+
+1. Wzór elektronicznego formularza powiadomienia Głównego Inspektora Sanitarnego przez podmiot działający na rynku spożywczym o pierwszym wprowadzeniu lub o zamiarze wprowadzenia do obrotu na terytorium Rzeczypospolitej Polskiej produktu jako środka spożywczego, zwanego dalej „powiadomieniem”, został określony w załączniku nr 1 do rozporządzenia.
+
 2. Elektroniczny formularz powiadomienia, o którym mowa w ust. 1, znajduje się na stronie internetowej Głównego Inspektoratu Sanitarnego.
-§ 3. 1. Rejestr produktów objętych powiadomieniem zawiera następujące dane:
-1) rok złożenia powiadomienia;
-2) nazwę produktu;
-3) postać produktu, w jakiej jest on wprowadzany do obrotu;
-4) kwalifikację zaproponowaną przez podmiot działający na rynku spożywczym;
-5) skład jakościowy obejmujący dane dotyczące składników zawartych w produkcie, w tym substancji czynnych;
-6) skład ilościowy składników;
-7) imię i nazwisko albo nazwę podmiotu powiadamiającego o pierwszym wprowadzeniu do obrotu;
-8) imię i nazwisko albo nazwę producenta;
-9) informację o postępowaniu, o którym mowa w art. 30 ust. 1 ustawy, lub o zawartości składnika niedozwolonego;
-10) uwagi – informacje dodatkowe o danym przypadku, w sytuacji gdy postępowanie, o którym mowa w art. 30 ust. 1 ustawy, nie było prowadzone, zostało zakończone lub produkt zawiera składnik niedozwolony.
+
+**§ 3.**
+
+1. Rejestr produktów objętych powiadomieniem zawiera następujące dane:
+
+- **1)** rok złożenia powiadomienia;
+- **2)** nazwę produktu;
+- **3)** postać produktu, w jakiej jest on wprowadzany do obrotu;
+- **4)** kwalifikację zaproponowaną przez podmiot działający na rynku spożywczym;
+- **5)** skład jakościowy obejmujący dane dotyczące składników zawartych w produkcie, w tym substancji czynnych;
+- **6)** skład ilościowy składników;
+- **7)** imię i nazwisko albo nazwę podmiotu powiadamiającego o pierwszym wprowadzeniu do obrotu;
+- **8)** imię i nazwisko albo nazwę producenta;
+- **9)** informację o postępowaniu, o którym mowa w art. 30 ust. 1 ustawy, lub o zawartości składnika niedozwolonego;
+- **10)** uwagi – informacje dodatkowe o danym przypadku, w sytuacji gdy postępowanie, o którym mowa w art. 30 ust. 1 ustawy, nie było prowadzone, zostało zakończone lub produkt zawiera składnik niedozwolony.
+
 2. Dane z rejestru, o którym mowa w ust. 1, są publikowane na stronie internetowej Głównego Inspektoratu Sanitarnego, z wyłączeniem danych stanowiących tajemnicę przedsiębiorcy.
-§ 4. Wzór rejestru produktów, o którym mowa w § 3, został określony w załączniku nr 2 do rozporządzenia.
-§ 5. Wykaz krajowych jednostek naukowych właściwych do wydania opinii został określony w załączniku nr 3 do rozporządzenia.
-§ 6. Koszty ponoszone przez krajową jednostkę naukową wydającą opinię obejmują koszty osobowe i rzeczowe.
-§ 7. Koszty osobowe obejmują koszty wynagrodzeń pracowników opracowujących opinie, w tym koszty ponoszone przez pracodawcę, zgodnie z obowiązującymi przepisami dotyczącymi wypłaty wynagrodzeń, podatki i inne opłaty stanowiące należności od tych wynagrodzeń.
-§ 8. Przyjmuje się, że czas niezbędny do przygotowania opinii o jednym produkcie wynosi średnio 15–17 godzin pracy pracowników.
-§ 9. Koszty rzeczowe obejmują koszty administracyjno-biurowe utrzymania krajowej jednostki naukowej obliczane proporcjonalnie do nakładu czasu pracy niezbędnego do przygotowania opinii.
-§ 10. 1. Wysokość opłaty pobieranej przy wydawaniu opinii przez Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych wynosi 2700 złotych.
+
+**§ 4.** Wzór rejestru produktów, o którym mowa w § 3, został określony w załączniku nr 2 do rozporządzenia.
+
+**§ 5.** Wykaz krajowych jednostek naukowych właściwych do wydania opinii został określony w załączniku nr 3 do rozporządzenia.
+
+**§ 6.** Koszty ponoszone przez krajową jednostkę naukową wydającą opinię obejmują koszty osobowe i rzeczowe.
+
+**§ 7.** Koszty osobowe obejmują koszty wynagrodzeń pracowników opracowujących opinie, w tym koszty ponoszone przez pracodawcę, zgodnie z obowiązującymi przepisami dotyczącymi wypłaty wynagrodzeń, podatki i inne opłaty stanowiące należności od tych wynagrodzeń.
+
+**§ 8.** Przyjmuje się, że czas niezbędny do przygotowania opinii o jednym produkcie wynosi średnio 15–17 godzin pracy pracowników.
+
+**§ 9.** Koszty rzeczowe obejmują koszty administracyjno-biurowe utrzymania krajowej jednostki naukowej obliczane proporcjonalnie do nakładu czasu pracy niezbędnego do przygotowania opinii.
+
+**§ 10.**
+
+1. Wysokość opłaty pobieranej przy wydawaniu opinii przez Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych wynosi 2700 złotych.
+
 2. Opłata, o której mowa w ust. 1, dotyczy jednego produktu.
-§ 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 11.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 
 ## Załączniki do rozporządzenia Ministra Zdrowia z dnia 23 marca 2011 r.
 

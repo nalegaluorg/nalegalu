@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1614/text.pdf) |
 
 zmieniające rozporządzenie w sprawie komisji egzaminacyjnej do spraw aplikacji notarialnej oraz przeprowadzania egzaminu wstępnego i notarialnego Na podstawie art. 71f § 12 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2008 r. Nr 189, poz. 1158, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 19 września 2013 r. w sprawie komisji egzaminacyjnej do spraw aplikacji notarialnej oraz przeprowadzania egzaminu wstępnego i notarialnego (Dz. U. z 2013 r. poz. 1135) wprowadza się następujące zmiany:
-1) tytuł rozdziału 7 otrzymuje brzmienie: „Podstawa ustalenia wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej w latach 2013 i 2014”;
-2) § 32 otrzymuje brzmienie: „§ 32. W latach 2013 i 2014 podstawą ustalenia wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej z tytułu każdorazowego przeprowadzenia egzaminów wstępnego oraz notarialnego jest przeciętne wynagrodzenie w drugim kwartale 2010 r., ogłoszone w sposób wskazany w § 5 ust. 1.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r.
-Minister Sprawiedliwości: M. Biernacki
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 19 września 2013 r. w sprawie komisji egzaminacyjnej do spraw aplikacji notarialnej oraz przeprowadzania egzaminu wstępnego i notarialnego (Dz. U. z 2013 r. poz. 1135) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozdziału 7 otrzymuje brzmienie: „Podstawa ustalenia wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej w latach 2013 i 2014”;
+- **2)** § 32 otrzymuje brzmienie: „§ 32. W latach 2013 i 2014 podstawą ustalenia wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej z tytułu każdorazowego przeprowadzenia egzaminów wstępnego oraz notarialnego jest przeciętne wynagrodzenie w drugim kwartale 2010 r., ogłoszone w sposób wskazany w § 5 ust. 1.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2014 r. Minister Sprawiedliwości: M. Biernacki
 

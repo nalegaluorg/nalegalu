@@ -27,9 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie określenia należności pieniężnych, których egzekucja może być wszczęta bez uprzedniego doręczenia upomnienia Na podstawie art. 15 § 5 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
 z 2014 r. poz. 1619, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 30 października 2014 r. w sprawie określenia należności pieniężnych, których egzekucja może być wszczęta bez uprzedniego doręczenia upomnienia (Dz. U. poz. 1494) § 3 otrzymuje brzmienie: „§ 3. Egzekucja administracyjna może być również wszczęta bez uprzedniego doręczenia upomnienia:
-1) do dnia 31 grudnia 2015 r. – w przypadku grzywien wymierzonych mandatem karnym i innych należności pieniężnych orzeczonych w postępowaniu karnym skarbowym;
-2) w przypadku grzywien nałożonych do dnia 31 grudnia 2015 r. w drodze mandatu karnego w postępowaniu w sprawach o wykroczenia.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: P. Szałamacha
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 30 października 2014 r. w sprawie określenia należności pieniężnych, których egzekucja może być wszczęta bez uprzedniego doręczenia upomnienia (Dz. U. poz. 1494) § 3 otrzymuje brzmienie:
+
+> „§ 3. Egzekucja administracyjna może być również wszczęta bez uprzedniego doręczenia upomnienia:  
+> 1) do dnia 31 grudnia 2015 r. – w przypadku grzywien wymierzonych mandatem karnym i innych należności pieniężnych orzeczonych w postępowaniu karnym skarbowym;  
+> 2) w przypadku grzywien nałożonych do dnia 31 grudnia 2015 r. w drodze mandatu karnego w postępowaniu w sprawach o wykroczenia.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: P. Szałamacha
 

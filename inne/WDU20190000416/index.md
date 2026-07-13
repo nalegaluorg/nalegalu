@@ -27,8 +27,10 @@ source: pdf
 
 w sprawie wysokości opłaty za utworzenie i prowadzenie portalu PPK oraz wysokości stawki opłaty za udział w tym portalu Na podstawie art. 79 ust. 4 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U.
 poz. 2215) zarządza się, co następuje:
-§ 1. Wysokość opłaty za utworzenie i prowadzenie portalu PPK wynosi 700 000 zł w odniesieniu do jednego towarzystwa funduszy inwestycyjnych, powszechnego towarzystwa emerytalnego, pracowniczego towarzystwa emerytalnego lub zakładu ubezpieczeń.
-§ 2. Wysokość stawki opłaty za udział w portalu PPK wynosi 0,05%.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: T. Czerwińska
+
+**§ 1.** Wysokość opłaty za utworzenie i prowadzenie portalu PPK wynosi 700 000 zł w odniesieniu do jednego towarzystwa funduszy inwestycyjnych, powszechnego towarzystwa emerytalnego, pracowniczego towarzystwa emerytalnego lub zakładu ubezpieczeń.
+
+**§ 2.** Wysokość stawki opłaty za udział w portalu PPK wynosi 0,05%.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: T. Czerwińska
 

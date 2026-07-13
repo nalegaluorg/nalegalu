@@ -30,21 +30,30 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 15 marca 2013 r. zmieniającego rozporządzenie w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych (Dz. U. poz. 410), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: B.A. Arłukowicz
 ROZPORZĄDZENIE MINIStra ZdrOWIa z dnia 27 maja 2010 r.
 w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych Na podstawie art. 15 ust. 5 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2013 r. poz. 947 oraz z 2014 r. poz. 619) zarządza się, co następuje:
-§ 1. Rozporządzenie określa kwalifikacje wymagane od członków zespołu kontroli zakażeń szpitalnych, zwanego dalej „zespołem”, powołanego przez kierownika szpitala lub zespołu zakładów opieki zdrowotnej, w skład którego wchodzi szpital.
-§ 2. Przewodniczący zespołu posiada co najmniej 3-letnie doświadczenie w wykonywaniu zawodu lekarza w szpitalu oraz:
-1) posiada tytuł specjalisty lub uzyskał specjalizację I stopnia w jednej z następujących dziedzin medycyny:
-a) epidemiologia lub higiena i epidemiologia,
-b) mikrobiologia lub mikrobiologia lekarska,
-c) choroby zakaźne,
-d) organizacja ochrony zdrowia,
-e) zdrowie publiczne lub
-2) rozpoczął specjalizację w jednej z dziedzin wymienionych w pkt 1 lub posiada inną specjalizację oraz co najmniej 2-letnie doświadczenie w pracy w zespole kontroli zakażeń szpitalnych i ukończył kurs specjalistyczny w zakresie epidemiologii szpitalnej i posiada świadectwo jego ukończenia lub jest w trakcie odbywania kursu specjalistycznego w zakresie epidemiologii szpitalnej prowadzonego przez podmioty, o których mowa w art. 19 ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634, z późn. zm. ).
-§ 3. Specjalista do spraw epidemiologii lub higieny i epidemiologii:
-1) posiada specjalizację w dziedzinie pielęgniarstwa epidemiologicznego, epidemiologii lub higieny i epidemiologii;
-2) posiada średnie medyczne lub wyższe wykształcenie w dziedzinie pielęgniarstwa;
-3) posiada co najmniej 3-letnie doświadczenie w zawodzie pielęgniarki lub w zawodzie położnej wykonywanym w szpitalu.
-§ 4. Specjalista do spraw mikrobiologii:
-1) posiada specjalizację w dziedzinie mikrobiologii, mikrobiologii medycznej lub mikrobiologii lekarskiej;
-2) posiada co najmniej 2-letnie doświadczenie w zawodzie diagnosty laboratoryjnego w szpitalnym laboratorium mikrobiologicznym albo innym laboratorium mikrobiologicznym wykonującym badania na rzecz szpitali.
-§ 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Rozporządzenie określa kwalifikacje wymagane od członków zespołu kontroli zakażeń szpitalnych, zwanego dalej „zespołem”, powołanego przez kierownika szpitala lub zespołu zakładów opieki zdrowotnej, w skład którego wchodzi szpital.
+
+**§ 2.** Przewodniczący zespołu posiada co najmniej 3-letnie doświadczenie w wykonywaniu zawodu lekarza w szpitalu oraz:
+
+- **1)** posiada tytuł specjalisty lub uzyskał specjalizację I stopnia w jednej z następujących dziedzin medycyny:
+    - **a)** epidemiologia lub higiena i epidemiologia,
+    - **b)** mikrobiologia lub mikrobiologia lekarska,
+    - **c)** choroby zakaźne,
+    - **d)** organizacja ochrony zdrowia,
+    - **e)** zdrowie publiczne lub
+
+- **2)** rozpoczął specjalizację w jednej z dziedzin wymienionych w pkt 1 lub posiada inną specjalizację oraz co najmniej 2-letnie doświadczenie w pracy w zespole kontroli zakażeń szpitalnych i ukończył kurs specjalistyczny w zakresie epidemiologii szpitalnej i posiada świadectwo jego ukończenia lub jest w trakcie odbywania kursu specjalistycznego w zakresie epidemiologii szpitalnej prowadzonego przez podmioty, o których mowa w art. 19 ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2011 r. Nr 277, poz. 1634, z późn. zm. ).
+
+**§ 3.** Specjalista do spraw epidemiologii lub higieny i epidemiologii:
+
+- **1)** posiada specjalizację w dziedzinie pielęgniarstwa epidemiologicznego, epidemiologii lub higieny i epidemiologii;
+- **2)** posiada średnie medyczne lub wyższe wykształcenie w dziedzinie pielęgniarstwa;
+- **3)** posiada co najmniej 3-letnie doświadczenie w zawodzie pielęgniarki lub w zawodzie położnej wykonywanym w szpitalu.
+
+**§ 4.** Specjalista do spraw mikrobiologii:
+
+- **1)** posiada specjalizację w dziedzinie mikrobiologii, mikrobiologii medycznej lub mikrobiologii lekarskiej;
+- **2)** posiada co najmniej 2-letnie doświadczenie w zawodzie diagnosty laboratoryjnego w szpitalnym laboratorium mikrobiologicznym albo innym laboratorium mikrobiologicznym wykonującym badania na rzecz szpitali.
+
+**§ 5.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

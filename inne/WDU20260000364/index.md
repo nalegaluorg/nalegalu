@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000364) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/364/text.pdf) |
 
 zmieniające rozporządzenie w sprawie odznaki „Za zasługi dla więziennictwa” Na podstawie art. 36 ust. 8 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2025 r. poz. 1750 i 1823) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 8 lutego 2023 r. w sprawie odznaki „Za zasługi dla więziennictwa” (Dz. U. poz. 310) w § 5 w ust. 2 skreśla się wyrazy „ , Szef Inspektoratu Wewnętrznego Służby Więziennej”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 8 lutego 2023 r. w sprawie odznaki „Za zasługi dla więziennictwa” (Dz. U. poz. 310) w § 5 w ust. 2 skreśla się wyrazy „ , Szef Inspektoratu Wewnętrznego Służby Więziennej”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: W. Żurek
 

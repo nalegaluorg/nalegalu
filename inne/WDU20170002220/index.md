@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wzoru karty zgonu Na podstawie art. 144 ust. 7 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2016 r.
 poz. 2064 oraz z 2017 r. poz. 1524) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 11 lutego 2015 r. w sprawie wzoru karty zgonu (Dz. U. poz. 231) § 2 otrzymuje brzmienie: „§ 2. Rozporządzenie traci moc z dniem 1 stycznia 2023 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 15 grudnia 2017 r.
-Minister Zdrowia: K. Radziwiłł
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 11 lutego 2015 r. w sprawie wzoru karty zgonu (Dz. U. poz. 231) § 2 otrzymuje brzmienie: „§ 2. Rozporządzenie traci moc z dniem 1 stycznia 2023 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 15 grudnia 2017 r. Minister Zdrowia: K. Radziwiłł
 

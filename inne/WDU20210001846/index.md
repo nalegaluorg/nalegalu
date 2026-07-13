@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001846) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1846/text.pdf) |
 
 zmieniające rozporządzenie w sprawie powołania Komisji Heraldycznej Na podstawie art. 2a ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r. poz. 38) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2000 r. w sprawie powołania Komisji Heraldycznej (Dz. U. z 2018 r. poz. 477) w § 1 wprowadza się następujące zmiany:
-1) pkt 11 otrzymuje brzmienie: „11) Sławomir Górzyński – członek;”;
-2) pkt 13 otrzymuje brzmienie: „13) Wojciech Fałkowski – członek.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. P. Szefernaker
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2000 r. w sprawie powołania Komisji Heraldycznej (Dz. U. z 2018 r. poz. 477) w § 1 wprowadza się następujące zmiany:
+
+- **1)** pkt 11 otrzymuje brzmienie: „11) Sławomir Górzyński – członek;”;
+- **2)** pkt 13 otrzymuje brzmienie: „13) Wojciech Fałkowski – członek.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. P. Szefernaker
 

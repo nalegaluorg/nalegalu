@@ -27,26 +27,35 @@ source: pdf
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowych czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzorów dokumentów w tych sprawach Na podstawie art. 76 ust. 1 pkt 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r.
 poz. 1260 i 1926) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Budownictwa z dnia 22 marca 2016 r. zmieniającym rozporządzenie w sprawie szczegółowych czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzorów dokumentów w tych sprawach (Dz. U. poz. 488 i 2152) wprowadza się następujące zmiany:
-1) w § 1:
-a) w pkt 3 w lit. b ust. 3 otrzymuje brzmienie: „3. Organ rejestrujący może kierować zapytania określone w ust. 1 za pomocą systemu teleinformatycznego rejestracji.”,
-b) w pkt 6 w § 3b ust. 3 otrzymuje brzmienie: „3. Teletransmisja danych, o której mowa w ust. 1, jest poprzedzona pobraniem i weryfikacją danych o pojeździe zamieszczonych w ewidencji pojazdów oraz wyjaśnieniem i usunięciem niezgodności tych danych, a także uzyskaniem komunikatu, o którym mowa w art. 80bb ust. 3 pkt 1 ustawy.”,
-c) po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „Rozdział 2a Przepisy epizodyczne
-§ 14a. W okresie od dnia 13 listopada 2017 r. do dnia 3 czerwca 2018 r. czynności organu rejestrującego, o których mowa w:
-1) § 3b w ust. 3 – poprzedzające teletransmisję danych, o której mowa w § 3b ust. 1 – polegają na pobraniu danych o pojeździe zamieszczonych w ewidencji pojazdów, weryfikacji danych o pojeździe zamieszczonych w ewidencji pojazdów i w bazie danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu komunikatu, o którym mowa w art. 80bb ust. 3 pkt 1 ustawy;
-2) załączniku nr 1 do rozporządzenia w:
-a) § 1: – w ust. 1 w pkt 5a – polegają na pobraniu danych zamieszczonych w ewidencji pojazdów, weryfikacji danych o pojeździe zamieszczonych w ewidencji pojazdów i w bazie danych, sprawdzeniu przedstawionych do rejestracji dokumentów i wprowadzeniu do ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, – w ust. 4 w pkt 1a – polegają na wprowadzeniu do ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, jeżeli nie zostały w niej zamieszczone, albo weryfikacji i wprowadzeniu do ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, w stosunku do którego przeprowadzono badanie techniczne,
-b) § 5 w ust. 1 w pkt 5ab – poprzedzające teletransmisję danych pobranych z ewidencji pojazdów niezbędnych do wystawienia dowodu rejestracyjnego – polegają na weryfikacji tych danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu potwierdzenia zgodnie z załącznikiem nr 2 do rozporządzenia,
-c) § 7 w pkt 3b – poprzedzające teletransmisję danych pobranych z ewidencji pojazdów niezbędnych do wystawienia dowodu rejestracyjnego – polegają na weryfikacji tych danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu potwierdzenia zgodnie z załącznikiem nr 2 do rozporządzenia.”;”,
-d) w pkt 10: – w lit. a w tiret drugim: – – w ust. 1c pkt 2 otrzymuje brzmienie: „2) skierował zapytanie o dane SIS do centralnego organu technicznego KSI i uzyskał informację od tego organu, że zgłoszony do rejestracji pojazd został skradziony, przywłaszczony lub utracony w inny sposób, odmawia rejestracji pojazdu.”, – – ust. 1d otrzymuje brzmienie: „1d. Uzyskaną z centralnego organu technicznego KSI informację, o której mowa w ust. 1c, organ rejestrujący dołącza do akt pojazdu; jeżeli organ rejestrujący otrzymał tę informację za pomocą systemu teleinformatycznego rejestracji, dołącza jej wydruk do akt pojazdu.”, – w lit. j: – – tiret trzecie otrzymuje brzmienie: „– ust. 2a otrzymuje brzmienie: „2a. Informację o adnotacjach w dowodzie rejestracyjnym lub pozwoleniu czasowym organ rejestrujący przekazuje do ewidencji pojazdów z uwzględnieniem standardu danych przesyłanych do ewidencji pojazdów.”,”, – – po tiret trzecim dodaje się tiret czwarte w brzmieniu: „– uchyla się ust. 2b;”,
-e) po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;”,
-f) pkt 11 otrzymuje brzmienie: „11) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1a do niniejszego rozporządzenia;”;
-2) po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Załącznik nr 2 do rozporządzenia w brzmieniu ustalonym w § 1 w pkt 10a niniejszego rozporządzenia obowiązuje do dnia 3 czerwca 2018 r.”;
-3) w § 2:
-a) wyrazy „4 czerwca 2018 r.” zastępuje się wyrazami „13 listopada 2017 r.”,
-b) po wyrazach „po dniu ogłoszenia” dodaje się wyrazy „ , oraz pkt 11, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
-4) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
-5) dodaje się załącznik nr 1a do rozporządzenia w brzmieniu określonym w załączniku nr 2 do niniejszego rozporządzenia.
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Budownictwa z dnia 22 marca 2016 r. zmieniającym rozporządzenie w sprawie szczegółowych czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzorów dokumentów w tych sprawach (Dz. U. poz. 488 i 2152) wprowadza się następujące zmiany:
+
+- **1)** w § 1:
+    - **a)** w pkt 3 w lit. b ust. 3 otrzymuje brzmienie: „3. Organ rejestrujący może kierować zapytania określone w ust. 1 za pomocą systemu teleinformatycznego rejestracji.”,
+    - **b)** w pkt 6 w § 3b ust. 3 otrzymuje brzmienie: „3. Teletransmisja danych, o której mowa w ust. 1, jest poprzedzona pobraniem i weryfikacją danych o pojeździe zamieszczonych w ewidencji pojazdów oraz wyjaśnieniem i usunięciem niezgodności tych danych, a także uzyskaniem komunikatu, o którym mowa w art. 80bb ust. 3 pkt 1 ustawy.”,
+    - **c)** po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „Rozdział 2a Przepisy epizodyczne
+
+**§ 14a.** W okresie od dnia 13 listopada 2017 r. do dnia 3 czerwca 2018 r. czynności organu rejestrującego, o których mowa w:
+
+- **1)** § 3b w ust. 3 – poprzedzające teletransmisję danych, o której mowa w § 3b ust. 1 – polegają na pobraniu danych o pojeździe zamieszczonych w ewidencji pojazdów, weryfikacji danych o pojeździe zamieszczonych w ewidencji pojazdów i w bazie danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu komunikatu, o którym mowa w art. 80bb ust. 3 pkt 1 ustawy;
+- **2)** załączniku nr 1 do rozporządzenia w:
+    - **a)** § 1: – w ust. 1 w pkt 5a – polegają na pobraniu danych zamieszczonych w ewidencji pojazdów, weryfikacji danych o pojeździe zamieszczonych w ewidencji pojazdów i w bazie danych, sprawdzeniu przedstawionych do rejestracji dokumentów i wprowadzeniu do ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, – w ust. 4 w pkt 1a – polegają na wprowadzeniu do ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, jeżeli nie zostały w niej zamieszczone, albo weryfikacji i wprowadzeniu do ewidencji pojazdów danych o właścicielu pojazdu i o pojeździe, w stosunku do którego przeprowadzono badanie techniczne,
+    - **b)** § 5 w ust. 1 w pkt 5ab – poprzedzające teletransmisję danych pobranych z ewidencji pojazdów niezbędnych do wystawienia dowodu rejestracyjnego – polegają na weryfikacji tych danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu potwierdzenia zgodnie z załącznikiem nr 2 do rozporządzenia,
+    - **c)** § 7 w pkt 3b – poprzedzające teletransmisję danych pobranych z ewidencji pojazdów niezbędnych do wystawienia dowodu rejestracyjnego – polegają na weryfikacji tych danych, sprawdzeniu przedstawionych dokumentów oraz uzyskaniu potwierdzenia zgodnie z załącznikiem nr 2 do rozporządzenia.”;”,
+    - **d)** w pkt 10: – w lit. a w tiret drugim: – – w ust. 1c pkt 2 otrzymuje brzmienie: „2) skierował zapytanie o dane SIS do centralnego organu technicznego KSI i uzyskał informację od tego organu, że zgłoszony do rejestracji pojazd został skradziony, przywłaszczony lub utracony w inny sposób, odmawia rejestracji pojazdu.”, – – ust. 1d otrzymuje brzmienie: „1d. Uzyskaną z centralnego organu technicznego KSI informację, o której mowa w ust. 1c, organ rejestrujący dołącza do akt pojazdu; jeżeli organ rejestrujący otrzymał tę informację za pomocą systemu teleinformatycznego rejestracji, dołącza jej wydruk do akt pojazdu.”, – w lit. j: – – tiret trzecie otrzymuje brzmienie: „– ust. 2a otrzymuje brzmienie: „2a. Informację o adnotacjach w dowodzie rejestracyjnym lub pozwoleniu czasowym organ rejestrujący przekazuje do ewidencji pojazdów z uwzględnieniem standardu danych przesyłanych do ewidencji pojazdów.”,”, – – po tiret trzecim dodaje się tiret czwarte w brzmieniu: „– uchyla się ust. 2b;”,
+    - **e)** po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;”,
+    - **f)** pkt 11 otrzymuje brzmienie: „11) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1a do niniejszego rozporządzenia;”;
+
+- **2)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Załącznik nr 2 do rozporządzenia w brzmieniu ustalonym w § 1 w pkt 10a niniejszego rozporządzenia obowiązuje do dnia 3 czerwca 2018 r.”;
+- **3)** w § 2:
+    - **a)** wyrazy „4 czerwca 2018 r.” zastępuje się wyrazami „13 listopada 2017 r.”,
+    - **b)** po wyrazach „po dniu ogłoszenia” dodaje się wyrazy „ , oraz pkt 11, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
+
+- **4)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+- **5)** dodaje się załącznik nr 1a do rozporządzenia w brzmieniu określonym w załączniku nr 2 do niniejszego rozporządzenia.
+
+## Załącznik
+
 § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 Minister Infrastruktury i Budownictwa: A. Adamczyk INSTRUKCJA W SPRAWIE CZYNNOŚCI ZWIĄZANYCH Z CZASOWĄ REJESTRACJĄ POJAZDU Z URZĘDU W OKRESIE OD DNIA 13 LISTOPADA 2017 R. DO DNIA 3 CZERWCA 2018 R.
 § 1. Po dokonaniu czasowej rejestracji pojazdu z urzędu, a przed wystawieniem dowodu rejestracyjnego, organ rejestrujący stosuje odpowiednio przepis § 2a rozporządzenia i prowadzi, w razie konieczności, postępowanie wyjaśniające dotyczące własności pojazdu i jego cech identyfikacyjnych oraz, w razie konieczności, w przypadku:

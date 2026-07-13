@@ -27,9 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wysokości opłat związanych z prowadzeniem stacji kontroli pojazdów oraz przeprowadzaniem badań technicznych pojazdów Na podstawie art. 84a ust. 1 pkt 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r.
 poz. 1137, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 29 września 2004 r. w sprawie wysokości opłat związanych z prowadzeniem stacji kontroli pojazdów oraz przeprowadzaniem badań technicznych pojazdów (Dz. U. poz. 2261, z 2005 r.
-poz. 1302 oraz z 2009 r. poz. 1233) w załączniku, w Tabeli opłat za badania techniczne pojazdów, po części oznaczonej lp. 6.12 dodaje się część oznaczoną lp. 6.13 w brzmieniu:
-6.13 o którym mowa w art. 81 ust. 11 pkt 10 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu 50,00 drogowym (za każde stanowisko kierującego)
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury i Budownictwa: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 29 września 2004 r. w sprawie wysokości opłat związanych z prowadzeniem stacji kontroli pojazdów oraz przeprowadzaniem badań technicznych pojazdów (Dz. U. poz. 2261, z 2005 r. poz. 1302 oraz z 2009 r. poz. 1233) w załączniku, w Tabeli opłat za badania techniczne pojazdów, po części oznaczonej lp. 6.12 dodaje się część oznaczoną lp. 6.13 w brzmieniu: 6.13 o którym mowa w art. 81 ust. 11 pkt 10 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu 50,00 drogowym (za każde stanowisko kierującego)
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Infrastruktury i Budownictwa: A. Adamczyk
 

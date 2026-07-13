@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu przeprowadzania przetargów na wybór zakładów odkostniających i chłodni Na podstawie art. 27 ust. 3 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2017 r.
 poz. 1006 i 1503) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2004 r. w sprawie sposobu przeprowadzania przetargów na wybór zakładów odkostniających i chłodni (Dz. U. poz. 1174) wprowadza się następujące zmiany:
-1) użyte w § 1 oraz § 8, w różnym przypadku, wyrazy „Agencja Rynku Rolnego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”;
-2) użyte w § 2, § 4 ust. 1 oraz § 5 ust. 1, w różnym przypadku, wyrazy „Prezes Agencji Rynku Rolnego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2004 r. w sprawie sposobu przeprowadzania przetargów na wybór zakładów odkostniających i chłodni (Dz. U. poz. 1174) wprowadza się następujące zmiany:
+
+- **1)** użyte w § 1 oraz § 8, w różnym przypadku, wyrazy „Agencja Rynku Rolnego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”;
+- **2)** użyte w § 2, § 4 ust. 1 oraz § 5 ust. 1, w różnym przypadku, wyrazy „Prezes Agencji Rynku Rolnego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

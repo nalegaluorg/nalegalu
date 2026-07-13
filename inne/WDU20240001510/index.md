@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001510) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1510/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ogólnych zezwoleń dewizowych Na podstawie art. 7 ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2024 r. poz. 1131) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 20 kwietnia 2009 r. w sprawie ogólnych zezwoleń dewizowych (Dz. U.
-poz. 597) uchyla się rozdział 3.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: A. Domański
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 20 kwietnia 2009 r. w sprawie ogólnych zezwoleń dewizowych (Dz. U. poz. 597) uchyla się rozdział 3.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: A. Domański
 

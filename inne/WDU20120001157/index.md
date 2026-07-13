@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1157/text.pdf) |
 
 w sprawie wzoru legitymacji członka Państwowej Komisji Badania Wypadków Morskich Na podstawie art. 29 ust. 5 ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich (Dz. U. poz. 1068) zarządza się, co następuje:
-§ 1. Wzór legitymacji członka Państwowej Komisji Badania Wypadków Morskich określa załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 27 października 2012 r.
-Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak WZÓR LEGITYMACJI CZŁONKA PAŃSTWOWEJ KOMISJI BADANIA WYPADKÓW MORSKICH
+
+**§ 1.** Wzór legitymacji członka Państwowej Komisji Badania Wypadków Morskich określa załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 27 października 2012 r. Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak WZÓR LEGITYMACJI CZŁONKA PAŃSTWOWEJ KOMISJI BADANIA WYPADKÓW MORSKICH
 

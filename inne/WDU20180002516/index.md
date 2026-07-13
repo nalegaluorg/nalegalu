@@ -27,12 +27,19 @@ source: pdf
 
 w sprawie sposobu przesyłania wniosku o zwrot podatku dochodowego od osób fizycznych za pomocą środków komunikacji elektronicznej Na podstawie art. 44f ust. 17 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U.
 z 2018 r. poz. 1509, z późn. zm. ) zarządza się, co następuje:
-§ 1. 1. Wniosek, o którym mowa w art. 44f ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zwany dalej „wnioskiem”, jest przesyłany za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych.
+
+**§ 1.**
+
+1. Wniosek, o którym mowa w art. 44f ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zwany dalej „wnioskiem”, jest przesyłany za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych.
+
 2. Wniosek przesyłany w sposób, o którym mowa w ust. 1, jest opatrzony kwalifikowanym podpisem elektronicznym.
+
 3. Struktura logiczna urzędowego poświadczenia odbioru wniosku jest udostępniana w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych.
+
 4. Urzędowe poświadczenie odbioru wydane przez elektroniczną skrzynkę podawczą systemu teleinformatycznego administracji skarbowej, po przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych i podpisu elektronicznego:
-1) zapewnia integralność przekazanego wniosku zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669);
-2) zawiera datę i godzinę przekazania wniosku i stanowi dowód doręczenia dokumentu.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-Minister Finansów: wz. P. Nowak
+
+- **1)** zapewnia integralność przekazanego wniosku zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669);
+- **2)** zawiera datę i godzinę przekazania wniosku i stanowi dowód doręczenia dokumentu.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. Minister Finansów: wz. P. Nowak
 

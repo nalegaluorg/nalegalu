@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002627) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2627/text.pdf) |
 
 zmieniające rozporządzenie w sprawie metody zapobiegania COVID-19 Na podstawie art. 3 ust. 4 pkt 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657 i 2280) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19 (Dz. U. z 2022 r. poz. 1003) użyte w § 2 oraz w § 2a w ust. 1 wyrazy „5. rok życia” zastępuje się wyrazami „6. miesiąc życia”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 12 grudnia 2022 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19 (Dz. U. z 2022 r. poz. 1003) użyte w § 2 oraz w § 2a w ust. 1 wyrazy „5. rok życia” zastępuje się wyrazami „6. miesiąc życia”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 12 grudnia 2022 r. Minister Zdrowia: A. Niedzielski
 

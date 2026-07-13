@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001062) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1062/text.pdf) |
 
 w sprawie wzoru formularza sprawozdania zawierającego dane statystyczne dotyczące zgłoszeń zewnętrznych Na podstawie art. 47 ust. 5 ustawy z dnia 14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. poz. 928) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wzór formularza sprawozdania, o którym mowa w art. 47 ust. 1 ustawy z dnia 14 czerwca 2024 r. o ochronie sygnalistów, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk … M ………… ………… … ………………………………………
+
+**§ 1.** Rozporządzenie określa wzór formularza sprawozdania, o którym mowa w art. 47 ust. 1 ustawy z dnia 14 czerwca 2024 r. o ochronie sygnalistów, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

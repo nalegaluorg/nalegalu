@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie obowiązku poddania drewnianego materiału opakowaniowego granicznej kontroli fitosanitarnej Na podstawie art. 14 ust. 3 i 4 ustawy z dnia 13 lutego 2020 r. o ochronie roślin przed agrofagami (Dz. U. z 2023 r.
 poz. 301) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 2 sierpnia 2021 r. w sprawie obowiązku poddania drewnianego materiału opakowaniowego granicznej kontroli fitosanitarnej (Dz. U. poz. 1518) w § 1 w ust. 2 w pkt 1 wyrazy „5 przesyłek” zastępuje się wyrazami „1 przesyłka”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 2 sierpnia 2021 r. w sprawie obowiązku poddania drewnianego materiału opakowaniowego granicznej kontroli fitosanitarnej (Dz. U. poz. 1518) w § 1 w ust. 2 w pkt 1 wyrazy „5 przesyłek” zastępuje się wyrazami „1 przesyłka”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
 

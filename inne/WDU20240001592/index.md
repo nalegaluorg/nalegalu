@@ -27,12 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków, jakie musi spełniać rynek oficjalnych notowań oraz emitenci papierów wartościowych dopuszczonych do obrotu na tym rynku Na podstawie art. 17 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r.
 poz. 722) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 25 kwietnia 2019 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek oficjalnych notowań oraz emitenci papierów wartościowych dopuszczonych do obrotu na tym rynku (Dz. U.
-poz. 803) w § 1:
-1) w ust. 1 pkt 5 otrzymuje brzmienie: „5) rozproszenie akcji objętych wnioskiem zapewnia płynność obrotu tymi akcjami.”;
-2) w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Rozproszenie akcji zapewnia płynność obrotu, jeżeli akcje będące w posiadaniu akcjonariuszy lub akcje objęte w ramach subskrypcji lub sprzedaży na podstawie pierwszej oferty publicznej przez inwestorów, z których każdy odpowiednio posiada lub będzie posiadał nie więcej niż 5 % ogólnej liczby głosów na walnym zgromadzeniu, stanowią:”;
-3) w ust. 5 pkt 2 otrzymuje brzmienie: „2) liczba akcji objętych wnioskiem oraz sposób przeprowadzenia ich subskrypcji lub sprzedaży, a w przypadku spółki, której akcje są już przedmiotem obrotu na rynku oficjalnych notowań – również liczba akcji będących przedmiotem obrotu, pozwalają uznać, że obrót tymi akcjami na rynku oficjalnych notowań uzyska wielkość zapewniającą płynność obrotu, lub”.
-§ 2. Do wniosków, o których mowa w § 1 ust. 1 pkt 3 rozporządzenia zmienianego w § 1, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: wz. J. Drop
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 25 kwietnia 2019 r. w sprawie szczegółowych warunków, jakie musi spełniać rynek oficjalnych notowań oraz emitenci papierów wartościowych dopuszczonych do obrotu na tym rynku (Dz. U. poz. 803) w § 1:
+
+- **1)** w ust. 1 pkt 5 otrzymuje brzmienie: „5) rozproszenie akcji objętych wnioskiem zapewnia płynność obrotu tymi akcjami.”;
+- **2)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Rozproszenie akcji zapewnia płynność obrotu, jeżeli akcje będące w posiadaniu akcjonariuszy lub akcje objęte w ramach subskrypcji lub sprzedaży na podstawie pierwszej oferty publicznej przez inwestorów, z których każdy odpowiednio posiada lub będzie posiadał nie więcej niż 5 % ogólnej liczby głosów na walnym zgromadzeniu, stanowią:”;
+- **3)** w ust. 5 pkt 2 otrzymuje brzmienie: „2) liczba akcji objętych wnioskiem oraz sposób przeprowadzenia ich subskrypcji lub sprzedaży, a w przypadku spółki, której akcje są już przedmiotem obrotu na rynku oficjalnych notowań – również liczba akcji będących przedmiotem obrotu, pozwalają uznać, że obrót tymi akcjami na rynku oficjalnych notowań uzyska wielkość zapewniającą płynność obrotu, lub”.
+
+**§ 2.** Do wniosków, o których mowa w § 1 ust. 1 pkt 3 rozporządzenia zmienianego w § 1, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: wz. J. Drop
 

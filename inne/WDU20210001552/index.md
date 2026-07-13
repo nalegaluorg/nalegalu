@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2019 r. poz. 1505) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2020 r. poz. 1502 oraz z 2021 r. poz. 509) w załączniku do rozporządzenia w § 3 w ust. 1:
-1) pkt 5 otrzymuje brzmienie: „5) Departament Audytu i Kontroli;”;
-2) uchyla się pkt 11a i 12a.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. S. Giżyński
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2020 r. poz. 1502 oraz z 2021 r. poz. 509) w załączniku do rozporządzenia w § 3 w ust. 1:
+
+- **1)** pkt 5 otrzymuje brzmienie: „5) Departament Audytu i Kontroli;”;
+- **2)** uchyla się pkt 11a i 12a.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. S. Giżyński
 

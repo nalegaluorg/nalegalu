@@ -34,10 +34,16 @@ source: pdf
 - **3)** w art. 7 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw rozwoju wsi, w drodze rozporządzenia, nadaje Agencji statut, biorąc pod uwagę zakres jej zadań.”;
 - **4)** w art. 9:
     - **a)** w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Prezesa Agencji powołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw rozwoju wsi, spośród osób należących do państwowego zasobu kadrowego.”,
-    - **b)** ust. 2a i 3 otrzymują brzmienie: „2a. Wiceprezesa Agencji powołuje minister właściwy do spraw rozwoju wsi na wniosek Prezesa Agencji, spośród osób należących do pań stwowego zasobu kadrowego. Minister właściwy do spraw rozwoju wsi na wniosek Prezesa Agencji odwołuje Wiceprezesa Agencji. 3. Minister właściwy do spraw rozwoju wsi składa Sejmowi Rzeczypospolitej Polskiej roczny raport z działalności Agencji.”;
+    - **b)** ust. 2a i 3 otrzymują brzmienie:
+
+      > „2a. Wiceprezesa Agencji powołuje minister właściwy do spraw rozwoju wsi na wniosek Prezesa Agencji, spośród osób należących do pań stwowego zasobu kadrowego. Minister właściwy do spraw rozwoju wsi na wniosek Prezesa Agencji odwołuje Wiceprezesa Agencji.  
+      > 3. Minister właściwy do spraw rozwoju wsi składa Sejmowi Rzeczypospolitej Polskiej roczny raport z działalności Agencji.”;  
 
 - **5)** w art. 10:
-    - **a)** ust. 4 i 5 otrzymują brzmienie: „4. Przewodniczącego Rady Nadzorczej oraz jej członków powołuje, z zastrzeżeniem ust. 5, i odwołuje minister właściwy do spraw rozwoju wsi. 5. Powołanie członków Rady Nadzorczej, o których mowa w ust. 1 pkt 4, następuje po ich wyłonieniu na zebraniu kandydatów. Minister właściwy do spraw rozwoju wsi zwołuje zebranie kandydatów i ustala regulamin wyłonienia tych kandydatów na członków Rady Nadzorczej.”,
+    - **a)** ust. 4 i 5 otrzymują brzmienie:
+
+      > „4. Przewodniczącego Rady Nadzorczej oraz jej członków powołuje, z zastrzeżeniem ust. 5, i odwołuje minister właściwy do spraw rozwoju wsi.  
+      > 5. Powołanie członków Rady Nadzorczej, o których mowa w ust. 1 pkt 4, następuje po ich wyłonieniu na zebraniu kandydatów. Minister właściwy do spraw rozwoju wsi zwołuje zebranie kandydatów i ustala regulamin wyłonienia tych kandydatów na członków Rady Nadzorczej.”,  
     - **b)** ust. 12 otrzymuje brzmienie: „12. Rada Nadzorcza przedstawia swoje opinie ministrowi właściwemu do spraw rozwoju wsi.”;
 
 - **6)** w art. 20:

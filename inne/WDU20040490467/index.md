@@ -44,8 +44,17 @@ source: pdf
     - **b)** uchyla się ust. 3;
 
 - **6)** art. 15 otrzymuje brzmienie: „Art. 15. Godło i barwy Rzeczypospolitej Polskiej są umieszczane, a hymn Rzeczypospolitej Polskiej wykonywany lub odtwarzany w sposób zapewniający im należną cześć i szacunek.”;
-- **7)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Symbole Rzeczypospolitej Polskiej nie mogą być umieszczane na przedmiotach przeznaczonych do obrotu handlowego. 2. Dozwolone jest umieszczanie na przedmiotach przeznaczonych do obrotu handlowego godła lub barw Rzeczypospolitej Polskiej w formie stylizowanej lub artystycznie przetworzonej.”;
-- **8)** art. 17 otrzymuje brzmienie: „Art. 17. 1. Prezydent Rzeczypospolitej Polskiej, w drodze rozporządzenia: 1) wydaje przepisy przewidziane w art. 10 oraz art. 14 ust. 2, 2) może ustalać zasady obchodów świąt i rocznic państwowych oraz innych uroczystości o zasięgu państwowym lub lokalnym - biorąc pod uwagę uwarunkowania kulturowe i historyczne oraz przyjęte w tym zakresie zwyczaje, kierując się w szczególności potrzebami społeczności lokalnych. 2. Zasady i okoliczności stosowania symboli Rzeczypospolitej Polskiej w jednostkach Sił Zbrojnych Rzeczypospolitej Polskiej określa Minister Obrony Narodowej.”.
+- **7)** art. 16 otrzymuje brzmienie:
+
+  > „Art. 16.  
+  > 1. Symbole Rzeczypospolitej Polskiej nie mogą być umieszczane na przedmiotach przeznaczonych do obrotu handlowego.  
+  > 2. Dozwolone jest umieszczanie na przedmiotach przeznaczonych do obrotu handlowego godła lub barw Rzeczypospolitej Polskiej w formie stylizowanej lub artystycznie przetworzonej.”;  
+- **8)** art. 17 otrzymuje brzmienie:
+
+  > „Art. 17.  
+  > 1. Prezydent Rzeczypospolitej Polskiej, w drodze rozporządzenia:  
+  > 1) wydaje przepisy przewidziane w art. 10 oraz art. 14 ust. 2, 2) może ustalać zasady obchodów świąt i rocznic państwowych oraz innych uroczystości o zasięgu państwowym lub lokalnym - biorąc pod uwagę uwarunkowania kulturowe i historyczne oraz przyjęte w tym zakresie zwyczaje, kierując się w szczególności potrzebami społeczności lokalnych.  
+  > 2. Zasady i okoliczności stosowania symboli Rzeczypospolitej Polskiej w jednostkach Sił Zbrojnych Rzeczypospolitej Polskiej określa Minister Obrony Narodowej.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

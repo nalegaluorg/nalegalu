@@ -27,8 +27,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001649) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1649/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowego sposobu prowadzenia rejestrów wchodzących w skład Krajowego Rejestru Sądowego oraz szczegółowej treści wpisów w tych rejestrach Na podstawie art. 35a ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869 i 1556) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 17 listopada 2014 r. w sprawie szczegółowego sposobu prowadzenia rejestrów wchodzących w skład Krajowego Rejestru Sądowego oraz szczegółowej treści wpisów w tych rejestrach (Dz. U. poz. 1667, z późn. zm. ) w załączniku nr 3 do rozporządzenia po pkt 29 dodaje się pkt 29a w brzmieniu: „29a) związki rewizyjne spółdzielni;”.
-§ 2. Wpisy związków rewizyjnych spółdzielni w Krajowym Rejestrze Sądowym dokonane przed dniem wejścia w życie niniejszego rozporządzenia pozostają w mocy.
-§ 3. Rozporządzenie wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 17 listopada 2014 r. w sprawie szczegółowego sposobu prowadzenia rejestrów wchodzących w skład Krajowego Rejestru Sądowego oraz szczegółowej treści wpisów w tych rejestrach (Dz. U. poz. 1667, z późn. zm. ) w załączniku nr 3 do rozporządzenia po pkt 29 dodaje się pkt 29a w brzmieniu: „29a) związki rewizyjne spółdzielni;”.
+
+**§ 2.** Wpisy związków rewizyjnych spółdzielni w Krajowym Rejestrze Sądowym dokonane przed dniem wejścia w życie niniejszego rozporządzenia pozostają w mocy.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. Minister Sprawiedliwości: W. Żurek
 

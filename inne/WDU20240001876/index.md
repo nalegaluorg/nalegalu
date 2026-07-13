@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szpitalnego oddziału ratunkowego Na podstawie art. 34 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2024 r.
 poz. 652 i 1222) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 15 czerwca 2022 r. zmieniającym rozporządzenie w sprawie szpitalnego oddziału ratunkowego (Dz. U. poz. 1305) uchyla się § 5.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2024 r.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 15 czerwca 2022 r. zmieniającym rozporządzenie w sprawie szpitalnego oddziału ratunkowego (Dz. U. poz. 1305) uchyla się § 5.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 grudnia 2024 r. Minister Zdrowia: wz. W. Konieczny
 

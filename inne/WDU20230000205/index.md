@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/205/text.pdf) |
 
 zmieniające rozporządzenie w sprawie badań oraz turnusów dla funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego po zakończeniu służby poza granicami państwa Na podstawie art. 4a ust. 9 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2022 r. poz. 1328) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 9 marca 2020 r. w sprawie badań oraz turnusów dla funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego po zakończeniu służby poza granicami państwa (Dz. U. poz. 395) w § 3 w ust. 2 w pkt 2 lit. b otrzymuje brzmienie: „b) psycholog wojskowego centrum rekrutacji,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: z up. M. Wiśniewski
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 9 marca 2020 r. w sprawie badań oraz turnusów dla funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego po zakończeniu służby poza granicami państwa (Dz. U. poz. 395) w § 3 w ust. 2 w pkt 2 lit. b otrzymuje brzmienie: „b) psycholog wojskowego centrum rekrutacji,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: z up. M. Wiśniewski
 

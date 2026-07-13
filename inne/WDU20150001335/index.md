@@ -34,7 +34,10 @@ source: pdf
     - **b)** w ust. 3 uchyla się pkt 3,
     - **c)** uchyla się ust. 4;
 
-- **2)** w art. 129g ust. 1 otrzymuje brzmienie: „1. Ujawnianie za pomocą stacjonarnych urządzeń rejestrujących zainstalowanych w pasie drogowym dróg blicznych następujących naruszeń przepisów ruchu drogowego: a) przekraczania dopuszczalnej prędkości, b) niestosowania się do sygnałów świetlnych – należy do Inspekcji Transportu Drogowego.”;
+- **2)** w art. 129g ust. 1 otrzymuje brzmienie:
+
+  > „1. Ujawnianie za pomocą stacjonarnych urządzeń rejestrujących zainstalowanych w pasie drogowym dróg blicznych następujących naruszeń przepisów ruchu drogowego:  
+  > a) przekraczania dopuszczalnej prędkości, b) niestosowania się do sygnałów świetlnych – należy do Inspekcji Transportu Drogowego.”;  
 - **3)** w art. 129h w ust. 5 w pkt 3 średnik zastępuje się kropką i uchyla się pkt 4.
 
 **Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2013 r. poz. 1383 oraz z 2014 r. poz. w art. 9a w ust. 1 pkt 2 otrzymuje brzmienie: „2) wyposażenia, w tym środków przymusu bezpośredniego, broni palnej, środków technicznych służących do serwowania i rejestrowania obrazu zdarzeń w miejscach publicznych, pojazdów;”.

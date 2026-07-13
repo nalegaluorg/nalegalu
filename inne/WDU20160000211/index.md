@@ -27,75 +27,6 @@ source: pdf
 
 Poz. 211 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 17 lutego 2016 r.
 w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych Na podstawie art. 23 ust. 2 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2015 r. poz. 876 i 1918) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wymagania zasadnicze dla wyrobów medycznych;
-2) procedury oceny zgodności wyrobów medycznych;
-3) wykaz procedur oceny zgodności wyrobów medycznych, które mogą być prowadzone przez autoryzowanego przedstawiciela;
-4) wysokość opłaty, o której mowa w art. 29 ust. 9 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, zwanej dalej „ustawą”.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) podkategorii wyrobów medycznych – rozumie się przez to grupę wyrobów medycznych o wspólnych zakresach przewidzianego zastosowania lub o wspólnej technologii;
-2) wyrobie do jednorazowego użytku – rozumie się przez to wyrób medyczny przeznaczony do użycia tylko raz u jednego pacjenta.
-§ 3. Wymagania zasadnicze dla wyrobów medycznych są określone w załączniku nr 1 do rozporządzenia.
-§ 4. 1. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy III, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedur:
-1) deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
-2) badania typu WE, określonej w załączniku nr 3 do rozporządzenia, łącznie z procedurą:
-a) weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia, albo
-b) deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia.
-2. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy IIb, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedur:
-1) deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, z wyłączeniem postanowień dotyczących oceny projektu, określonych w ust. 4.1–4.4 tego załącznika, albo
-2) badania typu WE, określonej w załączniku nr 3 do rozporządzenia, łącznie z jedną z następujących procedur:
-a) weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia,
-b) deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia,
-c) deklaracji zgodności WE – zapewnienie jakości wyrobu, określoną w załączniku nr 6 do rozporządzenia.
-3. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy IIa, innych niż wyroby wykonane na zamówienie lub wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury deklaracji zgodności WE, określonej w załączniku nr 7 do rozporządzenia, łącznie z jedną z następujących procedur:
-1) weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia;
-2) deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia;
-3) deklaracji zgodności WE – zapewnienie jakości wyrobu, określoną w załączniku nr 6 do rozporządzenia.
-4. Jeżeli wytwórca wyrobów medycznych, o których mowa w ust. 3, stosuje pełny system zapewnienia jakości, to w celu oznakowania ich znakiem CE może zamiast przeprowadzania oceny zgodności w sposób określony w ust. 3 przeprowadzić ocenę zgodności z zastosowaniem procedury deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, z wyłączeniem postanowień dotyczących oceny projektu, określonych w ust. 4.1–4.4 tego załącznika.
-5. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy I, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury dotyczącej deklaracji zgodności WE, określonej w załączniku nr 7 do rozporządzenia.
-6. Podmiot, który sterylizuje system lub zestaw zabiegowy lub wyrób medyczny oznakowany znakiem CE przeznaczony przez wytwórcę do sterylizacji przed użyciem, w celu wprowadzenia ich do obrotu:
-1) przeprowadza ocenę zgodności z zastosowaniem procedur:
-a) deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
-b) deklaracji zgodności WE – zapewnienie jakości produkcji, określonej w załączniku nr 5 do rozporządzenia – odnoszących się do uzyskania i utrzymania sterylności do momentu otwarcia lub uszkodzenia opakowania oraz do działań jednostki notyfikowanej w tym zakresie;
-2) po zakończeniu procedury sporządza oświadczenie, w którym stwierdza, że sterylizacja została przeprowadzona zgodnie z instrukcjami wytwórców.
-7. Wytwórca wyrobu medycznego będącego wyrobem wykonanym na zamówienie albo wyrobem do badania klinicznego przeprowadza jego ocenę zgodności i sporządza oświadczenie zgodnie z załącznikiem nr 8 do rozporządzenia.
-§ 5. 1. Ocena kliniczna wyrobów medycznych jest dokumentowana. Dokumentacja ta albo wskazanie miejsca jej przechowywania lub danych bibliograficznych są dołączane do oceny zgodności danego wyrobu.
-2. Ocena kliniczna wyrobów medycznych jest na bieżąco aktualizowana danymi pochodzącymi z nadzoru po wprowadzeniu danego wyrobu do obrotu, chyba że obserwacja kliniczna po wprowadzeniu wyrobu do obrotu nie jest konieczna, co należy uzasadnić i udokumentować w dokumentacji oceny zgodności.
-§ 6. Certyfikaty zgodności sporządzone przez jednostki notyfikowane zgodnie z załącznikami nr 2, 3, 5 i 6 do rozporządzenia wydaje się na okres nie dłuższy niż 5 lat. Okres ten może być przedłużany na wniosek wytwórcy lub autoryzowanego przedstawiciela, złożony w terminie uzgodnionym umową, na kolejne okresy nie dłuższe niż 5 lat.
-§ 7. Podmiot, który wytworzył wyrób wykonany przez użytkownika, przeprowadza ocenę jego zgodności i sporządza oświadczenie określone w załączniku nr 9 do rozporządzenia.
-§ 8. Autoryzowany przedstawiciel może przeprowadzić ocenę zgodności wyrobu medycznego z zastosowaniem procedur określonych w załącznikach nr 3, 4, 7 i 8 do rozporządzenia.
-§ 9. Wysokość opłaty za wydanie przez Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Prezesem Urzędu”, opinii, o której mowa w art. 29 ust. 9 ustawy, w przypadku opinii dotyczącej:
-1) substancji, która stosowana oddzielnie byłaby produktem leczniczym antyseptycznym, tradycyjnym produktem leczniczym roślinnym, o którym mowa w art. 20a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U.
-z 2008 r. Nr 45, poz. 271, z późn. zm. ), zwanej dalej „Prawem farmaceutycznym”, lub produktem leczniczym roślinnym, dla którego opracowano monografię wspólnotową – wynosi 240% minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, zwanego dalej „minimalnym wynagrodzeniem”;
-2) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 1 – wynosi 100% minimalnego wynagrodzenia;
-3) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 1 – wynosi 120% minimalnego wynagrodzenia;
-4) substancji, która stosowana oddzielnie byłaby produktem leczniczym roślinnym innym niż te, o których mowa w art. 20a Prawa farmaceutycznego – wynosi 650% minimalnego wynagrodzenia;
-5) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 4 – wynosi 400% minimalnego wynagrodzenia;
-6) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 4 – wynosi 325% minimalnego wynagrodzenia;
-7) substancji, która stosowana oddzielnie byłaby produktem leczniczym wytwarzanym metodami przemysłowymi zgodnie z przepisami Farmakopei Polskiej – wynosi 100% minimalnego wynagrodzenia;
-8) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 7 – wynosi 25% minimalnego wynagrodzenia;
-9) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 7 – wynosi 50% minimalnego wynagrodzenia;
-10) substancji, która stosowana oddzielnie byłaby referencyjnym produktem leczniczym, o którym mowa w art. 2 pkt 35b Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 2000% minimalnego wynagrodzenia;
-11) substancji, która stosowana oddzielnie byłaby produktem leczniczym, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7, którego substancje czynne mają ugruntowane zastosowanie medyczne, o którym mowa w art. 16 ust. 2 Prawa farmaceutycznego – wynosi 1600% minimalnego wynagrodzenia;
-12) substancji, która stosowana oddzielnie byłaby produktem leczniczym będącym odpowiednikiem referencyjnego produktu leczniczego, o którym mowa w art. 15 ust. 8 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 650% minimalnego wynagrodzenia;
-13) substancji, która stosowana oddzielnie byłaby produktem leczniczym, o którym mowa w art. 15 ust. 12 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 1040% minimalnego wynagrodzenia;
-14) zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 10–13 – wynosi 400% minimalnego wynagrodzenia;
-15) substancji będącej dopuszczonym do obrotu produktem leczniczym innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 500% minimalnego wynagrodzenia.
-§ 10. Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r.
-Minister Zdrowia: K. Radziwiłł WYMAGANIA ZASADNICZE DLA WYROBÓW MEDYCZNYCH Część I. Wymagania ogólne
-1. Wyroby medyczne muszą być zaprojektowane i wytworzone tak, aby ich stosowanie w przewidzianych warunkach i zgodnie z przewidzianym zastosowaniem nie zagrażało zdrowiu i bezpieczeństwu pacjentów, użytkowników oraz innych osób. Ryzyko związane z używaniem wyrobu medycznego zgodnie z przewidzianym zastosowaniem może być dopuszczone pod warunkiem, że przeważają korzyści wynikające z jego zastosowania u pacjenta, i że wyroby zapewniają wysoki poziom bezpieczeństwa i ochrony zdrowia. Wymagania te obejmują w szczególności:
-1) zmniejszenie, na ile jest to możliwe, ryzyka błędu użytkowego wynikającego z cech ergonomicznych wyrobu medycznego i warunków środowiska, w którym przewidziano jego użycie, tj. projektowanie dla bezpieczeństwa pacjenta;
-2) uwzględnienie wiedzy technicznej, doświadczenia, wykształcenia i przeszkolenia oraz, gdy ma to znaczenie, stanu zdrowia i kondycji fizycznej przewidywanych użytkowników, tj. specyficzne projektowanie wyrobów medycznych dla profesjonalnych użytkowników, osób, które nie są profesjonalnymi użytkownikami, osób niepełnosprawnych oraz dla innych użytkowników.
-2. Rozwiązania przyjęte przez wytwórcę w projekcie i konstrukcji wyrobu medycznego muszą odpowiadać zasadom bezpieczeństwa, uwzględniając aktualny stan wiedzy. Przy wyborze najodpowiedniejszych rozwiązań wytwórca stosuje kolejno następujące zasady:
-1) wyeliminowanie lub ograniczenie ryzyka, tak dalece jak to możliwe (bezpieczeństwo wynikające z projektu i konstrukcji);
-2) zastosowanie odpowiednich środków ochronnych w przypadku ryzyka niedającego się wyeliminować, w tym w razie konieczności alarmów;
-3) poinformowanie użytkowników o ryzyku resztkowym, pozostałym pomimo zastosowania środków ochronnych.
-3. Wyroby medyczne muszą osiągać parametry działania przewidziane przez wytwórcę, a także być zaprojektowane, wytworzone i opakowane w sposób odpowiedni do funkcji wyrobu medycznego określonych przez wytwórcę.
-4. Właściwości i parametry działania, o których mowa w ust. 1–3, nie mogą ulec pogorszeniu w stopniu powodującym, że stan zdrowia i bezpieczeństwo pacjentów oraz, jeżeli ma to zastosowanie, innych osób, będą zagrożone podczas wskazanego przez wytwórcę okresu użytkowania wyrobu medycznego, jeżeli podlega on obciążeniom, które mogą wystąpić w normalnych warunkach używania.
-5. Wyroby medyczne muszą być zaprojektowane, wytworzone i opakowane w sposób uniemożliwiający pogorszenie się ich właściwości i parametrów działania podczas używania zgodnego z przeznaczeniem, na skutek transportu i przechowywania, z uwzględnieniem instrukcji i informacji podanych przez wytwórcę.
-6. Dla wyrobu medycznego:
-1) ryzyko działań niepożądanych musi być możliwe do przyjęcia uwzględniając przewidziane działanie wyrobu medycznego;
-2) wykazanie zgodności z wymaganiami zasadniczymi musi obejmować ocenę kliniczną, chyba że wykazanie zgodności z wymaganiami zasadniczymi bez wykonania oceny klinicznej jest należycie uzasadnione.
 7. Właściwości chemiczne, fizyczne i biologiczne
 7.1. Wyroby medyczne muszą być zaprojektowane i wytworzone w sposób zapewniający właściwości i działanie, o których mowa w ust. 1–6, ze szczególnym uwzględnieniem:
 1) doboru materiałów, w szczególności pod kątem toksyczności i łatwopalności;
@@ -521,6 +452,109 @@ OŚWIADCZENIE W SPRAWIE WYROBU WYKONANEGO PRZEZ UŻYTKOWNIKA
 10) oświadczenie, że świadczeniodawca bierze odpowiedzialność za bezpieczeństwo wyrobu medycznego.
 2. Dokumentację, o której mowa w ust. 1, świadczeniodawca jest obowiązany przechowywać przez okres 5 lat od dnia zaprzestania używania wyrobu medycznego do udzielania świadczeń zdrowotnych.
 3. Świadczeniodawca jest obowiązany udostępniać dokumentację, o której mowa w ust. 1, organom i podmiotom sprawującym nadzór nad świadczeniodawcą lub upoważnionym do jego kontroli.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wymagania zasadnicze dla wyrobów medycznych;
+- **2)** procedury oceny zgodności wyrobów medycznych;
+- **3)** wykaz procedur oceny zgodności wyrobów medycznych, które mogą być prowadzone przez autoryzowanego przedstawiciela;
+- **4)** wysokość opłaty, o której mowa w art. 29 ust. 9 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, zwanej dalej „ustawą”.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** podkategorii wyrobów medycznych – rozumie się przez to grupę wyrobów medycznych o wspólnych zakresach przewidzianego zastosowania lub o wspólnej technologii;
+- **2)** wyrobie do jednorazowego użytku – rozumie się przez to wyrób medyczny przeznaczony do użycia tylko raz u jednego pacjenta.
+
+**§ 3.** Wymagania zasadnicze dla wyrobów medycznych są określone w załączniku nr 1 do rozporządzenia.
+
+**§ 4.**
+
+1. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy III, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedur:
+
+- **1)** deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
+- **2)** badania typu WE, określonej w załączniku nr 3 do rozporządzenia, łącznie z procedurą:
+    - **a)** weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia, albo
+    - **b)** deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia.
+
+2. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy IIb, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedur:
+
+- **1)** deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, z wyłączeniem postanowień dotyczących oceny projektu, określonych w ust. 4.1–4.4 tego załącznika, albo
+- **2)** badania typu WE, określonej w załączniku nr 3 do rozporządzenia, łącznie z jedną z następujących procedur:
+    - **a)** weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia,
+    - **b)** deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia,
+    - **c)** deklaracji zgodności WE – zapewnienie jakości wyrobu, określoną w załączniku nr 6 do rozporządzenia.
+
+3. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy IIa, innych niż wyroby wykonane na zamówienie lub wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury deklaracji zgodności WE, określonej w załączniku nr 7 do rozporządzenia, łącznie z jedną z następujących procedur:
+
+- **1)** weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia;
+- **2)** deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia;
+- **3)** deklaracji zgodności WE – zapewnienie jakości wyrobu, określoną w załączniku nr 6 do rozporządzenia.
+
+4. Jeżeli wytwórca wyrobów medycznych, o których mowa w ust. 3, stosuje pełny system zapewnienia jakości, to w celu oznakowania ich znakiem CE może zamiast przeprowadzania oceny zgodności w sposób określony w ust. 3 przeprowadzić ocenę zgodności z zastosowaniem procedury deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, z wyłączeniem postanowień dotyczących oceny projektu, określonych w ust. 4.1–4.4 tego załącznika.
+
+5. Wytwórca wyrobów medycznych zaklasyfikowanych do klasy I, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury dotyczącej deklaracji zgodności WE, określonej w załączniku nr 7 do rozporządzenia.
+
+6. Podmiot, który sterylizuje system lub zestaw zabiegowy lub wyrób medyczny oznakowany znakiem CE przeznaczony przez wytwórcę do sterylizacji przed użyciem, w celu wprowadzenia ich do obrotu:
+
+- **1)** przeprowadza ocenę zgodności z zastosowaniem procedur:
+    - **a)** deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
+    - **b)** deklaracji zgodności WE – zapewnienie jakości produkcji, określonej w załączniku nr 5 do rozporządzenia – odnoszących się do uzyskania i utrzymania sterylności do momentu otwarcia lub uszkodzenia opakowania oraz do działań jednostki notyfikowanej w tym zakresie;
+
+- **2)** po zakończeniu procedury sporządza oświadczenie, w którym stwierdza, że sterylizacja została przeprowadzona zgodnie z instrukcjami wytwórców.
+
+7. Wytwórca wyrobu medycznego będącego wyrobem wykonanym na zamówienie albo wyrobem do badania klinicznego przeprowadza jego ocenę zgodności i sporządza oświadczenie zgodnie z załącznikiem nr 8 do rozporządzenia.
+
+**§ 5.**
+
+1. Ocena kliniczna wyrobów medycznych jest dokumentowana. Dokumentacja ta albo wskazanie miejsca jej przechowywania lub danych bibliograficznych są dołączane do oceny zgodności danego wyrobu.
+
+2. Ocena kliniczna wyrobów medycznych jest na bieżąco aktualizowana danymi pochodzącymi z nadzoru po wprowadzeniu danego wyrobu do obrotu, chyba że obserwacja kliniczna po wprowadzeniu wyrobu do obrotu nie jest konieczna, co należy uzasadnić i udokumentować w dokumentacji oceny zgodności.
+
+**§ 6.** Certyfikaty zgodności sporządzone przez jednostki notyfikowane zgodnie z załącznikami nr 2, 3, 5 i 6 do rozporządzenia wydaje się na okres nie dłuższy niż 5 lat. Okres ten może być przedłużany na wniosek wytwórcy lub autoryzowanego przedstawiciela, złożony w terminie uzgodnionym umową, na kolejne okresy nie dłuższe niż 5 lat.
+
+**§ 7.** Podmiot, który wytworzył wyrób wykonany przez użytkownika, przeprowadza ocenę jego zgodności i sporządza oświadczenie określone w załączniku nr 9 do rozporządzenia.
+
+**§ 8.** Autoryzowany przedstawiciel może przeprowadzić ocenę zgodności wyrobu medycznego z zastosowaniem procedur określonych w załącznikach nr 3, 4, 7 i 8 do rozporządzenia.
+
+**§ 9.** Wysokość opłaty za wydanie przez Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Prezesem Urzędu”, opinii, o której mowa w art. 29 ust. 9 ustawy, w przypadku opinii dotyczącej:
+
+- **1)** substancji, która stosowana oddzielnie byłaby produktem leczniczym antyseptycznym, tradycyjnym produktem leczniczym roślinnym, o którym mowa w art. 20a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ), zwanej dalej „Prawem farmaceutycznym”, lub produktem leczniczym roślinnym, dla którego opracowano monografię wspólnotową – wynosi 240% minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, zwanego dalej „minimalnym wynagrodzeniem”;
+- **2)** zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 1 – wynosi 100% minimalnego wynagrodzenia;
+- **3)** substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 1 – wynosi 120% minimalnego wynagrodzenia;
+- **4)** substancji, która stosowana oddzielnie byłaby produktem leczniczym roślinnym innym niż te, o których mowa w art. 20a Prawa farmaceutycznego – wynosi 650% minimalnego wynagrodzenia;
+- **5)** zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 4 – wynosi 400% minimalnego wynagrodzenia;
+- **6)** substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 4 – wynosi 325% minimalnego wynagrodzenia;
+- **7)** substancji, która stosowana oddzielnie byłaby produktem leczniczym wytwarzanym metodami przemysłowymi zgodnie z przepisami Farmakopei Polskiej – wynosi 100% minimalnego wynagrodzenia;
+- **8)** zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 7 – wynosi 25% minimalnego wynagrodzenia;
+- **9)** substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 7 – wynosi 50% minimalnego wynagrodzenia;
+- **10)** substancji, która stosowana oddzielnie byłaby referencyjnym produktem leczniczym, o którym mowa w art. 2 pkt 35b Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 2000% minimalnego wynagrodzenia;
+- **11)** substancji, która stosowana oddzielnie byłaby produktem leczniczym, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7, którego substancje czynne mają ugruntowane zastosowanie medyczne, o którym mowa w art. 16 ust. 2 Prawa farmaceutycznego – wynosi 1600% minimalnego wynagrodzenia;
+- **12)** substancji, która stosowana oddzielnie byłaby produktem leczniczym będącym odpowiednikiem referencyjnego produktu leczniczego, o którym mowa w art. 15 ust. 8 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 650% minimalnego wynagrodzenia;
+- **13)** substancji, która stosowana oddzielnie byłaby produktem leczniczym, o którym mowa w art. 15 ust. 12 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 1040% minimalnego wynagrodzenia;
+- **14)** zmiany, o której mowa w ust. 7.4 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 10–13 – wynosi 400% minimalnego wynagrodzenia;
+- **15)** substancji będącej dopuszczonym do obrotu produktem leczniczym innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 500% minimalnego wynagrodzenia.
+
+**§ 10.** Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r. Minister Zdrowia: K. Radziwiłł WYMAGANIA ZASADNICZE DLA WYROBÓW MEDYCZNYCH Część I. Wymagania ogólne 1. Wyroby medyczne muszą być zaprojektowane i wytworzone tak, aby ich stosowanie w przewidzianych warunkach i zgodnie z przewidzianym zastosowaniem nie zagrażało zdrowiu i bezpieczeństwu pacjentów, użytkowników oraz innych osób. Ryzyko związane z używaniem wyrobu medycznego zgodnie z przewidzianym zastosowaniem może być dopuszczone pod warunkiem, że przeważają korzyści wynikające z jego zastosowania u pacjenta, i że wyroby zapewniają wysoki poziom bezpieczeństwa i ochrony zdrowia. Wymagania te obejmują w szczególności:
+
+- **1)** zmniejszenie, na ile jest to możliwe, ryzyka błędu użytkowego wynikającego z cech ergonomicznych wyrobu medycznego i warunków środowiska, w którym przewidziano jego użycie, tj. projektowanie dla bezpieczeństwa pacjenta;
+- **2)** uwzględnienie wiedzy technicznej, doświadczenia, wykształcenia i przeszkolenia oraz, gdy ma to znaczenie, stanu zdrowia i kondycji fizycznej przewidywanych użytkowników, tj. specyficzne projektowanie wyrobów medycznych dla profesjonalnych użytkowników, osób, które nie są profesjonalnymi użytkownikami, osób niepełnosprawnych oraz dla innych użytkowników.
+
+2. Rozwiązania przyjęte przez wytwórcę w projekcie i konstrukcji wyrobu medycznego muszą odpowiadać zasadom bezpieczeństwa, uwzględniając aktualny stan wiedzy. Przy wyborze najodpowiedniejszych rozwiązań wytwórca stosuje kolejno następujące zasady:
+
+- **1)** wyeliminowanie lub ograniczenie ryzyka, tak dalece jak to możliwe (bezpieczeństwo wynikające z projektu i konstrukcji);
+- **2)** zastosowanie odpowiednich środków ochronnych w przypadku ryzyka niedającego się wyeliminować, w tym w razie konieczności alarmów;
+- **3)** poinformowanie użytkowników o ryzyku resztkowym, pozostałym pomimo zastosowania środków ochronnych.
+
+3. Wyroby medyczne muszą osiągać parametry działania przewidziane przez wytwórcę, a także być zaprojektowane, wytworzone i opakowane w sposób odpowiedni do funkcji wyrobu medycznego określonych przez wytwórcę.
+
+4. Właściwości i parametry działania, o których mowa w ust. 1–3, nie mogą ulec pogorszeniu w stopniu powodującym, że stan zdrowia i bezpieczeństwo pacjentów oraz, jeżeli ma to zastosowanie, innych osób, będą zagrożone podczas wskazanego przez wytwórcę okresu użytkowania wyrobu medycznego, jeżeli podlega on obciążeniom, które mogą wystąpić w normalnych warunkach używania.
+
+5. Wyroby medyczne muszą być zaprojektowane, wytworzone i opakowane w sposób uniemożliwiający pogorszenie się ich właściwości i parametrów działania podczas używania zgodnego z przeznaczeniem, na skutek transportu i przechowywania, z uwzględnieniem instrukcji i informacji podanych przez wytwórcę.
+
+6. Dla wyrobu medycznego:
+
+- **1)** ryzyko działań niepożądanych musi być możliwe do przyjęcia uwzględniając przewidziane działanie wyrobu medycznego;
+- **2)** wykazanie zgodności z wymaganiami zasadniczymi musi obejmować ocenę kliniczną, chyba że wykazanie zgodności z wymaganiami zasadniczymi bez wykonania oceny klinicznej jest należycie uzasadnione.
 
 ## Część II. Wymagania dotyczące projektu i wykonania
 

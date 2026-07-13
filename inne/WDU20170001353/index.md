@@ -31,14 +31,21 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 14 grudnia 2015 r.
 w sprawie deklaracji na podatek od środków transportowych składanych za pomocą środków komunikacji elektronicznej Na podstawie art. 9 ust. 9 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2016 r.
 poz. 716, 1579 i 1923 oraz z 2017 r. poz. 624) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) sposób przesyłania deklaracji na podatek od środków transportowych za pomocą środków komunikacji elektronicznej, zwanych dalej „deklaracjami”;
-2) rodzaje podpisu elektronicznego, którym powinny być opatrzone deklaracje.
-§ 2. Deklaracje mogą być przesyłane z wykorzystaniem:
-1) elektronicznej Platformy Usług Administracji Publicznej, zwanej dalej „ePUAP”, lub
-2) innego systemu teleinformatycznego wskazanego na stronie Biuletynu Informacji Publicznej właściwego organu jednostki samorządu terytorialnego.
-§ 3. Deklaracje są opatrywane:
-1) kwalifikowanym podpisem elektronicznym albo
-2) podpisem potwierdzonym profilem zaufanym ePUAP.
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób przesyłania deklaracji na podatek od środków transportowych za pomocą środków komunikacji elektronicznej, zwanych dalej „deklaracjami”;
+- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone deklaracje.
+
+**§ 2.** Deklaracje mogą być przesyłane z wykorzystaniem:
+
+- **1)** elektronicznej Platformy Usług Administracji Publicznej, zwanej dalej „ePUAP”, lub
+- **2)** innego systemu teleinformatycznego wskazanego na stronie Biuletynu Informacji Publicznej właściwego organu jednostki samorządu terytorialnego.
+
+**§ 3.** Deklaracje są opatrywane:
+
+- **1)** kwalifikowanym podpisem elektronicznym albo
+- **2)** podpisem potwierdzonym profilem zaufanym ePUAP.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
 

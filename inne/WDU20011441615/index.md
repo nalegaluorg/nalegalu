@@ -38,10 +38,17 @@ source: pdf
 
 - **3)** w art. 9 w ust. 1:
     - **a)** w pkt 2 wyrazy „w liceum profilowanym lub w szkole zawodowej” zastępuje się wyrazami „w szkołach, o których mowa w pkt 3 lit. a)-d)”,
-    - **b)** pkt 3 otrzymuje brzmienie: „3) szkoły ponadgimnazjalne: a) zasadnicze szkoły zawodowe o okresie nauczania nie krótszym niż 2 lata i nie dłuższym niż 3 lata, których ukończenie umożliwia uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu, a także dalsze kształcenie w szkołach wymienionych w lit. e) i f), b) trzyletnie licea ogólnokształcące, których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego, c) trzyletnie licea profilowane kształcące w profilach kształcenia ogólnozawodowego, których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego, d) czteroletnie technika, których ukończenie umożliwia uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu, a także umożliwiające uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego, e) dwuletnie uzupełniające licea ogólnokształcące dla absolwentów szkół wymienionych w lit. a), których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego, f) trzyletnie technika uzupełniające dla absolwentów szkół wymienionych w lit. a), których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego, a także uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu, g) szkoły policealne o okresie nauczania nie dłuższym niż 2,5 roku, których ukończenie umożliwia osobom posiadającym wykształcenie średnie uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu.”;
+    - **b)** pkt 3 otrzymuje brzmienie:
+
+      > „3) szkoły ponadgimnazjalne:  
+      > a) zasadnicze szkoły zawodowe o okresie nauczania nie krótszym niż 2 lata i nie dłuższym niż 3 lata, których ukończenie umożliwia uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu, a także dalsze kształcenie w szkołach wymienionych w lit.  
+      > e) i f), b) trzyletnie licea ogólnokształcące, których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego, c) trzyletnie licea profilowane kształcące w profilach kształcenia ogólnozawodowego, których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego, d) czteroletnie technika, których ukończenie umożliwia uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu, a także umożliwiające uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego, e) dwuletnie uzupełniające licea ogólnokształcące dla absolwentów szkół wymienionych w lit. a), których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego, f) trzyletnie technika uzupełniające dla absolwentów szkół wymienionych w lit. a), których ukończenie umożliwia uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego, a także uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu, g) szkoły policealne o okresie nauczania nie dłuższym niż 2,5 roku, których ukończenie umożliwia osobom posiadającym wykształcenie średnie uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe po zdaniu egzaminu.”;  
 
 - **4)** w art. 11a w ust. 3 pkt 2 otrzymuje brzmienie: „2) ukończyła zasadniczą szkołę zawodową, o której mowa w art. 9 ust. 1 pkt 3 lit. a).”;
-- **5)** w art. 22 w ust. 2 pkt 2 otrzymuje brzmienie: „2) podstawy programowe: a) wychowania przedszkolnego, b) kształcenia ogólnego w poszczególnych typach szkół, c) kształcenia w poszczególnych profilach kształcenia ogólnozawodowego, d) kształcenia w poszczególnych zawodach, uwzględniając w szczególności zestawy celów i treści nauczania, umiejętności uczniów, a także zadania wychowawcze szkoły, odpowiednio do poszczególnych etapów kształcenia i typów szkół oraz zawodów i profili kształcenia ogólnozawodowego,”;
+- **5)** w art. 22 w ust. 2 pkt 2 otrzymuje brzmienie:
+
+  > „2) podstawy programowe:  
+  > a) wychowania przedszkolnego, b) kształcenia ogólnego w poszczególnych typach szkół, c) kształcenia w poszczególnych profilach kształcenia ogólnozawodowego, d) kształcenia w poszczególnych zawodach, uwzględniając w szczególności zestawy celów i treści nauczania, umiejętności uczniów, a także zadania wychowawcze szkoły, odpowiednio do poszczególnych etapów kształcenia i typów szkół oraz zawodów i profili kształcenia ogólnozawodowego,”;  
 - **6)** w art. 24:
     - **a)** skreśla się ust. 5,
     - **b)** dodaje się ust. 6 w brzmieniu: „6. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, profile kształcenia ogólnozawodowego odpowiadające określonym dziedzinom gospodarki.”;
@@ -54,14 +61,21 @@ source: pdf
 **Art. 3.** W ustawie z dnia 8 stycznia 1999 r. - Przepisy wprowadzające reformę ustroju szkolnego (Dz.U. Nr 12, poz. 96, z 2000 r. Nr 12, poz. 136, Nr 104, poz. 1104 i Nr 122, poz. 1312 oraz z 2001 r. Nr 111, poz. 1194) wprowadza się następujące zmiany:
 
 - **1)** w art. 2:
-    - **a)** ust. 3 i 4 otrzymują brzmienie: „3. Szkoły ponadgimnazjalne, o których mowa w art. 9 ust. 1 pkt 3 lit. a)d) ustawy wymienionej w art. 1, są tworzone z dniem 1 września 2002 r. 4. Szkoły ponadgimnazjalne, o których mowa w art. 9 ust. 1 pkt 3 lit. e) i f) ustawy wymienionej w art. 1, są tworzone z dniem 1 września 2004 r.”,
+    - **a)** ust. 3 i 4 otrzymują brzmienie:
+
+      > „3. Szkoły ponadgimnazjalne, o których mowa w art. 9 ust. 1 pkt 3 lit. a)d) ustawy wymienionej w art. 1, są tworzone z dniem 1 września 2002 r.  
+      > 4. Szkoły ponadgimnazjalne, o których mowa w art. 9 ust. 1 pkt 3 lit.  
+      > e) i f) ustawy wymienionej w art. 1, są tworzone z dniem 1 września 2004 r.”,  
     - **b)** w ust. 5 wyrazy „lit. d)” zastępuje się wyrazami „lit. g)”;
 
 - **2)** w art. 2c:
     - **a)** w ust. 1 wyrazy „szkoły ponadgimnazjalne, o których mowa w art. 9 ust. 1 pkt 3 lit. a) i b)” zastępuje się wyrazami „typy szkół ponadgimnazjalnych, o których mowa w art. 9 ust. 1 pkt 3 lit. a)-d)”,
     - **b)** w ust. 2 wyraz „prowadzić” zastępuje się wyrazem „utworzyć” oraz skreśla się zdanie drugie,
     - **c)** w ust. 4 wyrazy „szkoły ponadgimnazjalne, o których mowa w art. 9 ust. 1 pkt 3 lit. a)-c)” zastępuje się wyrazami „typy szkół ponadgimnazjalnych, o których mowa w art. 9 ust. 1 pkt 3 lit. a)-f)”,
-    - **d)** ust. 5 otrzymuje brzmienie: „5. Z dniem 1 września 2005 r. organy prowadzące dotychczasowe szkoły policealne i szkoły pomaturalne przekształcą je w szkoły policealne, o których mowa w art. 9 ust. 1 pkt 3 lit. g) ustawy wymienionej w art. 1.”;
+    - **d)** ust. 5 otrzymuje brzmienie:
+
+      > „5. Z dniem 1 września 2005 r. organy prowadzące dotychczasowe szkoły policealne i szkoły pomaturalne przekształcą je w szkoły policealne, o których mowa w art. 9 ust. 1 pkt 3 lit.  
+      > g) ustawy wymienionej w art. 1.”;  
 
 - **3)** w art. 6a w ust. 3 wyrazy „liceum profilowanego lub szkoły zawodowej” zastępuje się wyrazami „szkoły ponadgimnazjalnej, o której mowa w art. 9 ust. 1 pkt 3 lit. a)-d) ustawy wymienionej w art. 1”;
 - **4)** w art. 10c w ust. 1 pkt 4 otrzymuje brzmienie: „4) w przypadku dyrektorów szkół przekształcanych w licea profilowane ustalić planowane profile kształcenia ogólnozawodowego, a w przypadku dyrektorów szkół przekształcanych w zasadnicze szkoły zawodowe albo technika - ustalić planowane zawody, z uwzględnieniem odpowiednio art. 39 ust. 4a i 5 ustawy wymienionej w art. 1.”;

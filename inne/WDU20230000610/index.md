@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie Krajowego Rejestru Pacjentów z COVID-19 Na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U.
 z 2022 r. poz. 1555, 2280 i 2705) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 7 kwietnia 2020 r. w sprawie Krajowego Rejestru Pacjentów z COVID-19 (Dz. U. z 2023 r. poz. 270) w § 2 w ust. 2 wyrazy „31 marca” zastępuje się wyrazami „30 września”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 marca 2023 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 7 kwietnia 2020 r. w sprawie Krajowego Rejestru Pacjentów z COVID-19 (Dz. U. z 2023 r. poz. 270) w § 2 w ust. 2 wyrazy „31 marca” zastępuje się wyrazami „30 września”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 marca 2023 r. Minister Zdrowia: A. Niedzielski
 

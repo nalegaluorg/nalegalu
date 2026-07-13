@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie informacji, jakie umieszcza się na plombie nakładanej na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich Na podstawie art. 9a ust. 5 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2023 r.
 poz. 872) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 września 2010 r. w sprawie informacji, jakie umieszcza się na plombie nakładanej na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich (Dz. U. poz. 1211) w § 3 pkt 1 otrzymuje brzmienie: „1) na przedniej stronie – kod TRACES punktu kontroli granicznej;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. S. Krajewski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 września 2010 r. w sprawie informacji, jakie umieszcza się na plombie nakładanej na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich (Dz. U. poz. 1211) w § 3 pkt 1 otrzymuje brzmienie: „1) na przedniej stronie – kod TRACES punktu kontroli granicznej;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. S. Krajewski
 

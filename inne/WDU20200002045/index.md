@@ -26,100 +26,167 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002045) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2045/text.pdf) |
 
 w sprawie zaleceń dotyczących standardu rachunku kosztów u świadczeniodawców Na podstawie art. 31lc ust. 7 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, 1492, 1493, 1578 i 1875) zarządza się, co następuje:
-§ 1. Rozporządzenie określa zalecenia dotyczące standardu rachunku kosztów u świadczeniodawców, o których mowa w art. 31lc ust. 6 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanych dalej „świadczeniodawcami”.
-§ 2. Użyte w rozporządzeniu określenia oznaczają:
-1) Agencja – Agencja Oceny Technologii Medycznych i Taryfikacji;
-2) działalność komercyjna – działalność gospodarcza finansowana ze środków innych niż publiczne;
-3) działalność podstawowa – działalność lecznicza świadczeniodawcy lub inna działalność świadczeniodawcy wynikająca z celu działalności świadczeniodawcy;
-4) działalność pomocnicza – działalność wspomagająca działalność podstawową świadczeniodawcy;
-5) jednostka kalkulacyjna – wartość kosztów pośrednich procedury medycznej przypadająca na jednostkę kosztu normatywnego tej procedury;
-6) klucz podziałowy – wielkość wyrażona ilościowo lub wartościowo służąca jako podstawa rozliczania kosztów OPK, przy uwzględnieniu zależności przyczynowo-skutkowej;
-7) koszty bezpośrednie OPK:
-a) koszty poniesione w okresie rozliczeniowym, które w sposób jednoznaczny, na podstawie dowodów księgowych, można przypisać do OPK, oraz
-b) pozostałe koszty bezpośrednie, przypisane do OPK według przyjętych rozdzielników kosztów wspólnych;
-8) koszt bezpośredni procedury medycznej – łączny koszt zasobów zużywanych podczas wykonywania procedury medycznej, zgodnie z przyjętym przez świadczeniodawcę sposobem wyceny;
-9) koszty pośrednie OPK – alokowane koszty innych OPK działalności podstawowej i pomocniczej, rozliczone według przyjętych kluczy podziałowych;
-10) koszt pośredni procedury medycznej – pozostałe koszty OPK proceduralnego niebędące kosztem bezpośrednim procedury medycznej, przypadające na jedną procedurę medyczną;
-11) koszty wytworzenia OPK – suma kosztów bezpośrednich i pośrednich, o których mowa w pkt 7 i 9;
-12) koszt wytworzenia procedury medycznej – suma kosztów bezpośrednich i pośrednich, o których mowa w pkt 8 i 10;
-13) OPK (ośrodek powstawania kosztów) – wyodrębniona przez świadczeniodawcę jednostka organizacyjna lub komórka organizacyjna, zespół jednostek organizacyjnych lub komórek organizacyjnych, ich część lub wyodrębniony zakres działalności świadczeniodawcy, dla których jest prowadzona ewidencja kosztów;
-14) OPK proceduralny – OPK działalności podstawowej, w którym są realizowane wyłącznie procedury medyczne;
-15) procedura medyczna – procedura medyczna w rozumieniu art. 5 pkt 42 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą”, wyodrębniona na potrzeby kalkulacji kosztów;
-16) rozdzielnik kosztów wspólnych – jednostka miary umożliwiająca przypisanie pierwotnie zgrupowanych kosztów bezpośrednich do OPK;
-17) świadczenie zdrowotne rzeczowe – świadczenie w rozumieniu art. 5 pkt 37 ustawy;
-18) zarząd – działalność generująca koszty związane z zarządzaniem podmiotem leczniczym jako całością.
-§ 3. 1. U świadczeniodawcy wyodrębnia się OPK działalności podstawowej, działalności pomocniczej i zarządu, zgodnie z kodami funkcji ośrodków powstawania kosztów określonymi w załączniku nr 1 do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa zalecenia dotyczące standardu rachunku kosztów u świadczeniodawców, o których mowa w art. 31lc ust. 6 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanych dalej „świadczeniodawcami”.
+
+**§ 2.** Użyte w rozporządzeniu określenia oznaczają:
+
+- **1)** Agencja – Agencja Oceny Technologii Medycznych i Taryfikacji;
+- **2)** działalność komercyjna – działalność gospodarcza finansowana ze środków innych niż publiczne;
+- **3)** działalność podstawowa – działalność lecznicza świadczeniodawcy lub inna działalność świadczeniodawcy wynikająca z celu działalności świadczeniodawcy;
+- **4)** działalność pomocnicza – działalność wspomagająca działalność podstawową świadczeniodawcy;
+- **5)** jednostka kalkulacyjna – wartość kosztów pośrednich procedury medycznej przypadająca na jednostkę kosztu normatywnego tej procedury;
+- **6)** klucz podziałowy – wielkość wyrażona ilościowo lub wartościowo służąca jako podstawa rozliczania kosztów OPK, przy uwzględnieniu zależności przyczynowo-skutkowej;
+- **7)** koszty bezpośrednie OPK:
+    - **a)** koszty poniesione w okresie rozliczeniowym, które w sposób jednoznaczny, na podstawie dowodów księgowych, można przypisać do OPK, oraz
+    - **b)** pozostałe koszty bezpośrednie, przypisane do OPK według przyjętych rozdzielników kosztów wspólnych;
+
+- **8)** koszt bezpośredni procedury medycznej – łączny koszt zasobów zużywanych podczas wykonywania procedury medycznej, zgodnie z przyjętym przez świadczeniodawcę sposobem wyceny;
+- **9)** koszty pośrednie OPK – alokowane koszty innych OPK działalności podstawowej i pomocniczej, rozliczone według przyjętych kluczy podziałowych;
+- **10)** koszt pośredni procedury medycznej – pozostałe koszty OPK proceduralnego niebędące kosztem bezpośrednim procedury medycznej, przypadające na jedną procedurę medyczną;
+- **11)** koszty wytworzenia OPK – suma kosztów bezpośrednich i pośrednich, o których mowa w pkt 7 i 9;
+- **12)** koszt wytworzenia procedury medycznej – suma kosztów bezpośrednich i pośrednich, o których mowa w pkt 8 i 10;
+- **13)** OPK (ośrodek powstawania kosztów) – wyodrębniona przez świadczeniodawcę jednostka organizacyjna lub komórka organizacyjna, zespół jednostek organizacyjnych lub komórek organizacyjnych, ich część lub wyodrębniony zakres działalności świadczeniodawcy, dla których jest prowadzona ewidencja kosztów;
+- **14)** OPK proceduralny – OPK działalności podstawowej, w którym są realizowane wyłącznie procedury medyczne;
+- **15)** procedura medyczna – procedura medyczna w rozumieniu art. 5 pkt 42 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą”, wyodrębniona na potrzeby kalkulacji kosztów;
+- **16)** rozdzielnik kosztów wspólnych – jednostka miary umożliwiająca przypisanie pierwotnie zgrupowanych kosztów bezpośrednich do OPK;
+- **17)** świadczenie zdrowotne rzeczowe – świadczenie w rozumieniu art. 5 pkt 37 ustawy;
+- **18)** zarząd – działalność generująca koszty związane z zarządzaniem podmiotem leczniczym jako całością.
+
+**§ 3.**
+
+1. U świadczeniodawcy wyodrębnia się OPK działalności podstawowej, działalności pomocniczej i zarządu, zgodnie z kodami funkcji ośrodków powstawania kosztów określonymi w załączniku nr 1 do rozporządzenia.
+
 2. Szczegółowy wykaz OPK ustala świadczeniodawca, biorąc pod uwagę swoją strukturę organizacyjną i zasady wyodrębniania OPK określone w załączniku nr 2 do rozporządzenia.
+
 3. W celu rozdzielenia poszczególnych rodzajów działalności świadczeniodawcy, świadczeniodawca prowadzi ewidencję kosztów OPK w układzie podmiotowo-funkcjonalnym.
+
 4. Przekazując do Agencji dane, o których mowa w art. 31lc ust. 2 ustawy, dla każdego wyodrębnionego OPK świadczeniodawca przypisuje właściwy kod funkcji zgodnie z kodami funkcji ośrodków powstawania kosztów, o których mowa w ust. 1, oraz kody charakteryzujące specjalność komórki organizacyjnej zakładu leczniczego zawarte w zasadach przypisywania kodów charakteryzujących funkcje i specjalność komórki organizacyjnej do rodzajów działalności, określonymi w załączniku nr 3 do rozporządzenia, w układzie zgodnym ze wzorem przypisania OPK świadczeniodawcy w układzie podmiotowo-funkcjonalnym (konta zespołu 5) do kodów funkcji oraz kodów charakteryzujących specjalności komórki organizacyjnej, określonym w załączniku nr 4 do rozporządzenia.
+
 5. Kod syntetyczny konta OPK w systemie finansowo-księgowym może być tożsamy z kodem funkcji.
-§ 4. 1. Kalkulacja kosztu wytworzenia OPK, z uwzględnieniem rodzajów prowadzonych działalności, obejmuje następujące etapy:
-1) etap I – ewidencja kosztów bezpośrednich OPK, prowadzona zgodnie z § 5;
-2) etap II – alokacja kosztów pośrednich, wynikająca z kosztów OPK działalności pomocniczej na rzecz innych OPK, prowadzona zgodnie z § 6;
-3) etap III – alokacja pozostałych kosztów pośrednich, wynikająca z kosztów OPK działalności podstawowej, w tym kosztów OPK proceduralnych na rzecz OPK, dla których realizowały usługi, prowadzona zgodnie z § 7.
+
+**§ 4.**
+
+1. Kalkulacja kosztu wytworzenia OPK, z uwzględnieniem rodzajów prowadzonych działalności, obejmuje następujące etapy:
+
+- **1)** etap I – ewidencja kosztów bezpośrednich OPK, prowadzona zgodnie z § 5;
+- **2)** etap II – alokacja kosztów pośrednich, wynikająca z kosztów OPK działalności pomocniczej na rzecz innych OPK, prowadzona zgodnie z § 6;
+- **3)** etap III – alokacja pozostałych kosztów pośrednich, wynikająca z kosztów OPK działalności podstawowej, w tym kosztów OPK proceduralnych na rzecz OPK, dla których realizowały usługi, prowadzona zgodnie z § 7.
+
 2. Poszczególne etapy alokacji kosztów między OPK mogą być przeprowadzane w jednym lub kilku podetapach, w zależności od złożoności zidentyfikowanych relacji między OPK.
-§ 5. 1. W celu ustalenia kosztów OPK dokonuje się ewidencji kosztów bezpośrednich tego OPK.
+
+**§ 5.**
+
+1. W celu ustalenia kosztów OPK dokonuje się ewidencji kosztów bezpośrednich tego OPK.
+
 2. Ewidencją kosztów obejmuje się wszystkie ponoszone przez świadczeniodawcę koszty, z uwzględnieniem kryterium rodzajowego.
+
 3. Ewidencja kosztów według kryterium rodzajowego – zespół kont 4 jest prowadzona zgodnie z załącznikiem nr 5 do rozporządzenia. Szczegółowa ewidencja kosztów w układzie rodzajowym jest prowadzona na kolejnych poziomach kont analitycznych.
+
 4. Ewidencjonowanie kosztów świadczeń zdrowotnych rzeczowych następuje w momencie najbliższym rzeczywistemu ich zużyciu.
+
 5. Wszystkie koszty przypisuje się do tych OPK, w których są realizowane świadczenia opieki zdrowotnej lub czynności, z którymi koszty te są związane. Koszty osobowe są ujmowane proporcjonalnie do pracy wykonywanej na rzecz poszczególnych OPK.
+
 6. Koszty bezpośrednie, których nie można przypisać do OPK w sposób jednoznaczny na podstawie dokumentów źródłowych, są przypisywane według standardowych rozdzielników kosztów wspólnych, określonych w załączniku nr 6 do rozporządzenia.
+
 7. Dopuszcza się stosowanie u świadczeniodawcy rozdzielnika kosztów innego niż określony w załączniku nr 6 do rozporządzenia, jeżeli zasadność jego zastosowania jest uzasadniona możliwością dokładniejszej alokacji kosztów.
+
 8. W przypadku grup kosztów wspólnych niewyszczególnionych w załączniku nr 6 do rozporządzenia świadczeniodawca stosuje własne rozdzielniki kosztów.
+
 9. Świadczeniodawca przekazuje Agencji wykaz stosowanych rozdzielników kosztów w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy.
-§ 6. 1. W celu określenia kosztów pośrednich OPK dokonuje się alokacji kosztów OPK działalności pomocniczej.
+
+**§ 6.**
+
+1. W celu określenia kosztów pośrednich OPK dokonuje się alokacji kosztów OPK działalności pomocniczej.
+
 2. Na koszty OPK działalności pomocniczej składają się:
-1) koszty bezpośrednie poniesione w tym OPK;
-2) koszty pośrednie przypisane z innych OPK działalności podstawowej i pomocniczej, wykonujących usługi na rzecz tego OPK.
+
+- **1)** koszty bezpośrednie poniesione w tym OPK;
+- **2)** koszty pośrednie przypisane z innych OPK działalności podstawowej i pomocniczej, wykonujących usługi na rzecz tego OPK.
+
 3. Alokacja kosztów OPK działalności pomocniczej, o których mowa w ust. 2, na rzecz innych OPK, dla których świadczy usługi, jest dokonywana w taki sposób, aby wszystkie koszty działalności pomocniczej zostały alokowane na te OPK.
+
 4. Dla każdego OPK działalności pomocniczej ustala się klucz podziałowy, zgodnie ze standardowymi kluczami podziałowymi służącymi rozliczaniu kosztów działalności pomocniczej, które zostały określone w załączniku nr 7 do rozporządzenia.
+
 5. Dopuszcza się stosowanie przez świadczeniodawcę klucza podziałowego innego niż określony w załączniku nr 7 do rozporządzenia, jeżeli jest to uzasadnione możliwością dokładniejszej alokacji kosztów OPK działalności pomocniczej.
+
 6. W przypadku rodzajów działalności pomocniczej niewyszczególnionej w załączniku nr 7 do rozporządzenia świadczeniodawca stosuje własne klucze podziałowe, które odzwierciedlają zależność przyczynowo-skutkową powstawania kosztów w OPK działalności pomocniczej i umożliwiają dokładniejszą alokację kosztów niż przy zastosowaniu kluczy podziałowych wskazanych w załączniku nr 7 do rozporządzenia.
+
 7. Świadczeniodawca przekazuje Agencji wykaz stosowanych kluczy podziałowych w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy.
+
 8. Stawka kosztów na jednostkę przyjętą jako klucz podziałowy stanowi iloraz całkowitych kosztów OPK działalności pomocniczej i całkowitej liczby jednostek przyjętego klucza podziałowego.
+
 9. Wysokość kosztów usług realizowanych przez OPK działalności pomocniczej na rzecz innych OPK ustala się jako iloczyn liczby jednostek klucza podziałowego przypisanych do danego OPK i ustalonej stawki kosztów na jednostkę przyjętego klucza podziałowego.
-§ 7. 1. Alokacja kosztów OPK działalności podstawowej, w tym OPK proceduralnych, świadczących usługi na rzecz innych OPK, jest dokonywana w taki sposób, aby wszystkie koszty OPK zostały alokowane na rzecz OPK, dla których były świadczone usługi, przy zastosowaniu kluczy podziałowych zgodnych ze standardowymi kluczami podziałowymi służącymi rozliczaniu kosztów działalności podstawowej, w tym OPK proceduralnych, określonymi w załączniku nr 8 do rozporządzenia.
+
+**§ 7.**
+
+1. Alokacja kosztów OPK działalności podstawowej, w tym OPK proceduralnych, świadczących usługi na rzecz innych OPK, jest dokonywana w taki sposób, aby wszystkie koszty OPK zostały alokowane na rzecz OPK, dla których były świadczone usługi, przy zastosowaniu kluczy podziałowych zgodnych ze standardowymi kluczami podziałowymi służącymi rozliczaniu kosztów działalności podstawowej, w tym OPK proceduralnych, określonymi w załączniku nr 8 do rozporządzenia.
+
 2. Na koszty OPK proceduralnego składają się:
-1) koszty bezpośrednie poniesione w tym OPK;
-2) koszty pośrednie przypisane z innych OPK działalności pomocniczej i podstawowej, wykonujących usługi na rzecz tego OPK.
+
+- **1)** koszty bezpośrednie poniesione w tym OPK;
+- **2)** koszty pośrednie przypisane z innych OPK działalności pomocniczej i podstawowej, wykonujących usługi na rzecz tego OPK.
+
 3. Do alokacji kosztów OPK proceduralnych stosuje się koszty wytworzenia procedur medycznych, które wycenia się według rzeczywistych kosztów zużytych zasobów. W przypadku braku możliwości zastosowania wyceny według rzeczywistych kosztów zużytych zasobów stosuje się wycenę na podstawie kosztów typowo zużywanych zasobów materiałowych i osobowych.
+
 4. Sposób wyceny procedur medycznych na podstawie kosztów typowo zużywanych zasobów materiałowych i osobowych jest uzależniony od sposobu naliczania kosztów pośrednich procedury medycznej:
-1) proporcjonalnie do czasu trwania procedur medycznych lub
-2) na podstawie jednostki kalkulacyjnej.
+
+- **1)** proporcjonalnie do czasu trwania procedur medycznych lub
+- **2)** na podstawie jednostki kalkulacyjnej.
+
 5. Sposoby wyceny procedur medycznych zostały określone w załączniku nr 9 do rozporządzenia.
+
 6. Dla każdego OPK proceduralnego świadczeniodawca sporządza wykaz procedur w nim wykonywanych, w sposób wyczerpujący całokształt jego działalności, przy wykorzystaniu aktualnego Słownika Procedur Medycznych (ICD-9 PL) ogłaszanego w formie komunikatu przez Narodowy Fundusz Zdrowia. W przypadku procedur, które nie posiadają kodu w klasyfikacji ICD-9 PL lub jeżeli kod własny doprecyzowuje informacje o procedurze, jest dopuszczalne użycie własnego kodu. W przypadku wykazania kodów własnych świadczeniodawca przekazuje Agencji słownik kodów własnych z przyporządkowaniem kodu ze słownika ICD-9 PL, w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy.
+
 7. Dla wszystkich procedur realizowanych w OPK proceduralnym świadczeniodawca prowadzi ilościową ewidencję ich wykonań.
+
 8. Dla każdej z procedur umieszczonych w wykazie OPK proceduralnego świadczeniodawca sporządza ilościowe zestawienie zasobów materiałowych zużywanych podczas jej wykonywania, zgodnie z przyjętym przez świadczeniodawcę sposobem wyceny, o którym mowa w ust. 3.
+
 9. Przy alokacji kosztów OPK proceduralnego przyjmuje się, że przypisane bezpośrednio do świadczeniobiorcy koszty świadczeń zdrowotnych rzeczowych przenosi się na OPK odpowiednio do miejsca ujęcia przychodu i nie stanowią one kosztu wytworzenia procedury medycznej.
+
 10. Koszty osobowe personelu zaangażowanego w wykonanie procedury medycznej ustala się na podstawie czasu trwania procedury oraz stawki wynagrodzeń tego personelu wraz z pochodnymi od wynagrodzeń, zgodnie z metodyką określoną w pkt 3 załącznika nr 9 do rozporządzenia.
+
 11. Koszt pośredni procedury medycznej jest wyliczany zgodnie z przyjętym sposobem wyceny wskazanym w ust. 4.
+
 12. Jednostkowy koszt wytworzenia procedury medycznej stanowi suma jego jednostkowego kosztu bezpośredniego oraz kosztu pośredniego.
+
 13. Świadczeniodawca przekazuje Agencji informacje o przyjętym sposobie wyceny procedur medycznych w ramach udostępnienia danych, o których mowa w art. 31lc ust. 2 ustawy.
-§ 8. 1. Koszty zarządu gromadzi się na OPK zarządu i stanowią one sumę kosztów bezpośrednich tych OPK i kosztów alokowanych z innych OPK.
+
+**§ 8.**
+
+1. Koszty zarządu gromadzi się na OPK zarządu i stanowią one sumę kosztów bezpośrednich tych OPK i kosztów alokowanych z innych OPK.
+
 2. Do kosztów zarządu zalicza się koszty komórek organizacyjnych realizujących działalność o następującym charakterze:
-1) kierownictwo świadczeniodawcy;
-2) kancelaria (w tym dziennik podawczy i kancelaria tajna);
-3) dział finansowo-księgowy;
-4) dział ekonomiczny, kontroli, controllingu, statystyki, rozliczeń;
-5) dział kadr i płac;
-6) dział organizacyjny, dział prawny – radcowie prawni, dział inwentaryzacji;
-7) dział bezpieczeństwa i higieny pracy, przeciwpożarowy;
-8) kontrola wewnętrzna, kontrola zarządcza, audyt;
-9) pełnomocnicy, rzecznicy;
-10) dział zamówień publicznych;
-11) dział marketingu i promocji;
-12) ubezpieczenie od odpowiedzialności z tytułu cyberprzestępstw;
-13) ubezpieczenie odpowiedzialności zarządu;
-14) kaplica, kapelan.
+
+- **1)** kierownictwo świadczeniodawcy;
+- **2)** kancelaria (w tym dziennik podawczy i kancelaria tajna);
+- **3)** dział finansowo-księgowy;
+- **4)** dział ekonomiczny, kontroli, controllingu, statystyki, rozliczeń;
+- **5)** dział kadr i płac;
+- **6)** dział organizacyjny, dział prawny – radcowie prawni, dział inwentaryzacji;
+- **7)** dział bezpieczeństwa i higieny pracy, przeciwpożarowy;
+- **8)** kontrola wewnętrzna, kontrola zarządcza, audyt;
+- **9)** pełnomocnicy, rzecznicy;
+- **10)** dział zamówień publicznych;
+- **11)** dział marketingu i promocji;
+- **12)** ubezpieczenie od odpowiedzialności z tytułu cyberprzestępstw;
+- **13)** ubezpieczenie odpowiedzialności zarządu;
+- **14)** kaplica, kapelan.
+
 3. Do kosztów zarządu nie zalicza się kosztów:
-1) ubezpieczenia odpowiedzialności cywilnej i majątkowej;
-2) całkowitej wartości amortyzacji budynków;
-3) całkowitych energii elektrycznej, cieplnej i innych mediów;
-4) usług sprzątania;
-5) usług dozoru;
-6) wywozu odpadów;
-7) działu informatyki.
+
+- **1)** ubezpieczenia odpowiedzialności cywilnej i majątkowej;
+- **2)** całkowitej wartości amortyzacji budynków;
+- **3)** całkowitych energii elektrycznej, cieplnej i innych mediów;
+- **4)** usług sprzątania;
+- **5)** usług dozoru;
+- **6)** wywozu odpadów;
+- **7)** działu informatyki.
+
 4. Koszty, o których mowa w ust. 3, są alokowane na OPK rozdzielnikiem kosztów, zgodnie z warunkami określonymi
+
+## Załącznik
+
 § 5.
 § 9. Koszt własny sprzedaży OPK stanowi suma kosztu wytworzenia OPK działalności podstawowej ustalonego zgodnie z § 4 rozporządzenia oraz alokowanych kosztów zarządu.
 § 10. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.

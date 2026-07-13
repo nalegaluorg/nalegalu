@@ -26,9 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000142) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/142/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szkoleń dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych Na podstawie art. 11j ust. 19 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2019 r. poz. 1372, 1518 i 1593) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 10 listopada 2015 r. w sprawie szkoleń dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych (Dz. U. poz. 1963) załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski Załącznik nr 1 WZÓR WZÓR Komendant Główny Państwowej Straży Pożarnej ul. Podchorążych 38 00-463 Warszawa ZAWIADOMIENIE o szkoleniach dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych Działając na podstawie art. 11j ust. 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2019 r. poz. 1372, z późn. zm.), zawiadamiam, że w okresie od dnia  r. do dnia  r. uzyskałem(-łam) 20 punktów z tytułu udziału w wyszczególnionych poniżej szkoleniach dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych: Liczba Lp. Nazwa szkolenia Termin punktów ........................................................
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 10 listopada 2015 r. w sprawie szkoleń dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych (Dz. U. poz. 1963) załączniki nr 1 i 2 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski Załącznik nr 1 WZÓR WZÓR Komendant Główny Państwowej Straży Pożarnej ul. Podchorążych 38 00-463 Warszawa ZAWIADOMIENIE o szkoleniach dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych Działając na podstawie art. 11j ust. 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2019 r. poz. 1372, z późn. zm.), zawiadamiam, że w okresie od dnia  r. do dnia  r. uzyskałem(-łam) 20 punktów z tytułu udziału w wyszczególnionych poniżej szkoleniach dla rzeczoznawców do spraw zabezpieczeń przeciwpożarowych: Liczba Lp. Nazwa szkolenia Termin punktów ........................................................
 
 ## Załącznik nr 2 — WZÓR WZÓR ZAŚWIADCZENIE NR ........
 

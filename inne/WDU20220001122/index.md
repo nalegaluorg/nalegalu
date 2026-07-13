@@ -27,36 +27,6 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie określenia wzorów urzędowych formularzy wniosków o wpis do Krajowego Rejestru Sądowego oraz sposobu i miejsca ich udostępniania Na podstawie art. 19 ust. 11 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r.
 poz. 112, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 23 czerwca 2021 r. w sprawie określenia wzorów urzędowych formularzy wniosków o wpis do Krajowego Rejestru Sądowego oraz sposobu i miejsca ich udostępniania (Dz. U. poz. 1173) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r.
-Minister Sprawiedliwości: Z. Ziobro Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320, z 2021 r. poz. 1598, 1641 i 2106 oraz z 2022 r. poz. 807 i 984.
-Załącznik do rozporządzenia Ministra Sprawiedliwości Załącznik z do dnia rozporządzenia 16 maja 2022 Ministra r. (poz. 1122) Sprawiedliwości z dnia 16maja 2022 r.(poz. ……….) WZÓR WZÓR Sygnatura akt (wypełnia sąd) KRS-W20 Wniosek o rejestrację podmiotu Krajowy w Krajowym Rejestrze Sądowym Rejestr Sądowy FUNDACJA, STOWARZYSZENIE, INNA ORGANIZACJA SPOŁECZNA LUB ZAWODOWA  Formularz należy wypełnić w języku polskim, czytelnie, na maszynie, komputerowo lub ręcznie, wielkimi drukowanymi literami.
- Wnioskodawca wypełnia pola jasne.
- We wszystkich wypełnianych polach, w których występuje możliwość wyboru, należy wstawić X w jednym odpowiednim kwadracie.
- Wszystkie pola, w których nie będą wpisane odpowiednie informacje, należy przekreślić.
- Wniosek składa się do sądu rejonowego (sądu gospodarczego) właściwego ze względu na siedzibę podmiotu, którego wpis dotyczy. Wniosek można złożyć w biurze podawczym właściwego sądu lub nadać w urzędzie pocztowym na adres sądu.
- Wniosek złożony z naruszeniem przepisu art. 19 ust. 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym lub nieprawidłowo wypełniony podlega zwróceniu, bez wzywania do uzupełnienia braków.
-Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK
-1. Nazwa sądu Sąd Rejonowy SIEDZIBA PODMIOTU, KTÓREGO DOTYCZY WPIS
-2. Województwo 3. Powiat
-4. Gmina 5. Miejscowość OKREŚLENIE REJESTRACJI
-6. Rejestracja dotyczy:
-1. Nowego podmiotu 2. Podmiotu uprzednio zarejestrowanego (przerejestrowanie) Część A A.1 DANE WNIOSKODAWCY LUB PODMIOTU UZUPEŁNIAJĄCEGO DANE
-7. Wnioskodawca:
-1. Komitet założycielski 2. Podmiot, którego dotyczy wpis 3. Inny wnioskodawca
-8. Nazwa/firma lub nazwa organu, lub nazwisko
-9. Imię A.2 DANE ADRESATA KORESPONDENCJI A.2.1 Oznaczenie adresata korespondencji
-10. Nazwa/firma lub nazwa organu, lub nazwisko
-11. Imię KRS-W20 1/5 A.2.2 Adres do korespondencji
-12. Ulica 13. Nr domu 14. Nr lokalu 15. Miejscowość
-16. Kod pocztowy 17. Poczta 18. Kraj A.3 DANE PEŁNOMOCNIKA PROCESOWEGO A.3.1 Oznaczenie pełnomocnika
-19. Nazwa/firma lub nazwisko
-20. Imię A.3.2 Adres pełnomocnika
-21. Ulica 22. Nr domu 23. Nr lokalu 24. Miejscowość
-25. Kod pocztowy 26. Poczta 27. Kraj Część B Wnoszę o dokonanie wpisu zgodnie z informacjami zamieszczonymi we wniosku i w załącznikach: B.1 DANE PODMIOTU
-28. Nazwa
-29. Oznaczenie formy prawnej lub rodzaju organizacji
-1. Fundacja 2. Inny podmiot (organizacja) jaki (jaka)?
 30. NIP 31. Numer identyfikacyjny REGON C.2 DANE O WCZEŚNIEJSZEJ REJESTRACJI PODMIOTU
 32. Nazwa sądu prowadzącego rejestr albo organu prowadzącego ewidencję
 33. Nazwa rejestru albo ewidencji 34. Numer w rejestrze albo w ewidencji KRS-W20 2/5 C.3 SIEDZIBA I ADRES PODMIOTU
@@ -92,6 +62,10 @@ D.1.1 Lista załączonych formularzy uzupełniających Lp. Symbol i nazwa załą
 12. Izba rzemieślnicza 26. Związek sportowy
 13. Związek Rzemiosła Polskiego 27 Polski związek sportowy
 14. Zrzeszenie handlu i usług 28. Inna organizacja społeczna lub zawodowa KRS-W20 5/5
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 23 czerwca 2021 r. w sprawie określenia wzorów urzędowych formularzy wniosków o wpis do Krajowego Rejestru Sądowego oraz sposobu i miejsca ich udostępniania (Dz. U. poz. 1173) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r. Minister Sprawiedliwości: Z. Ziobro Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2320, z 2021 r. poz. 1598, 1641 i 2106 oraz z 2022 r. poz. 807 i 984. Załącznik do rozporządzenia Ministra Sprawiedliwości Załącznik z do dnia rozporządzenia 16 maja 2022 Ministra r. (poz. 1122) Sprawiedliwości z dnia 16maja 2022 r.(poz. ……….) WZÓR WZÓR Sygnatura akt (wypełnia sąd) KRS-W20 Wniosek o rejestrację podmiotu Krajowy w Krajowym Rejestrze Sądowym Rejestr Sądowy FUNDACJA, STOWARZYSZENIE, INNA ORGANIZACJA SPOŁECZNA LUB ZAWODOWA  Formularz należy wypełnić w języku polskim, czytelnie, na maszynie, komputerowo lub ręcznie, wielkimi drukowanymi literami.  Wnioskodawca wypełnia pola jasne.  We wszystkich wypełnianych polach, w których występuje możliwość wyboru, należy wstawić X w jednym odpowiednim kwadracie.  Wszystkie pola, w których nie będą wpisane odpowiednie informacje, należy przekreślić.  Wniosek składa się do sądu rejonowego (sądu gospodarczego) właściwego ze względu na siedzibę podmiotu, którego wpis dotyczy. Wniosek można złożyć w biurze podawczym właściwego sądu lub nadać w urzędzie pocztowym na adres sądu.  Wniosek złożony z naruszeniem przepisu art. 19 ust. 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym lub nieprawidłowo wypełniony podlega zwróceniu, bez wzywania do uzupełnienia braków. Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK 1. Nazwa sądu Sąd Rejonowy SIEDZIBA PODMIOTU, KTÓREGO DOTYCZY WPIS 2. Województwo 3. Powiat 4. Gmina 5. Miejscowość OKREŚLENIE REJESTRACJI 6. Rejestracja dotyczy: 1. Nowego podmiotu 2. Podmiotu uprzednio zarejestrowanego (przerejestrowanie) Część A A.1 DANE WNIOSKODAWCY LUB PODMIOTU UZUPEŁNIAJĄCEGO DANE 7. Wnioskodawca: 1. Komitet założycielski 2. Podmiot, którego dotyczy wpis 3. Inny wnioskodawca 8. Nazwa/firma lub nazwa organu, lub nazwisko 9. Imię A.2 DANE ADRESATA KORESPONDENCJI A.2.1 Oznaczenie adresata korespondencji 10. Nazwa/firma lub nazwa organu, lub nazwisko 11. Imię KRS-W20 1/5 A.2.2 Adres do korespondencji 12. Ulica 13. Nr domu 14. Nr lokalu 15. Miejscowość 16. Kod pocztowy 17. Poczta 18. Kraj A.3 DANE PEŁNOMOCNIKA PROCESOWEGO A.3.1 Oznaczenie pełnomocnika 19. Nazwa/firma lub nazwisko 20. Imię A.3.2 Adres pełnomocnika 21. Ulica 22. Nr domu 23. Nr lokalu 24. Miejscowość 25. Kod pocztowy 26. Poczta 27. Kraj Część B Wnoszę o dokonanie wpisu zgodnie z informacjami zamieszczonymi we wniosku i w załącznikach: B.1 DANE PODMIOTU 28. Nazwa 29. Oznaczenie formy prawnej lub rodzaju organizacji 1. Fundacja 2. Inny podmiot (organizacja) jaki (jaka)?
 
 ## Część C C.1 DANE O NIP I NUMERZE IDENTYFIKACYJNYM REGON
 

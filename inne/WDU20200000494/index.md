@@ -26,11 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/494/text.pdf) |
 
 w sprawie szczegółowego zakresu działania Ministra Środowiska Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa szczegółowy zakres działania Ministra Środowiska, zwanego dalej „ministrem”.
+
+**§ 1.**
+
+1. Rozporządzenie określa szczegółowy zakres działania Ministra Środowiska, zwanego dalej „ministrem”.
+
 2. Minister kieruje działem administracji rządowej – środowisko.
+
 3. Minister jest dysponentem części 41 budżetu państwa.
+
 4. Obsługę ministra zapewnia Ministerstwo Środowiska.
+
 5. Ministrowi podlega Generalny Dyrektor Ochrony Środowiska.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

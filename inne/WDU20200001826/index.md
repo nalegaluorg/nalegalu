@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001826) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1826/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania obserwacji oraz sposobu finansowania obserwacji, a także warunków zabezpieczenia zakładów dla osób pozbawionych wolności Na podstawie art. 203 § 5 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2020 r. poz. 30, 413, 568, 1086 i 1458) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 2 grudnia 2004 r. w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania obserwacji oraz sposobu finansowania obserwacji, a także warunków zabezpieczenia zakładów dla osób pozbawionych wolności (Dz. U. z 2019 r. poz. 1708) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski WYKAZ ZAKŁADÓW PSYCHIATRYCZNYCH PRZEZNACZONYCH DO WYKONYWANIA OBSERWACJI OSÓB, W STOSUNKU DO KTÓRYCH ISTNIEJE POTRZEBA WYDANIA OPINII O STANIE ZDROWIA PSYCHICZNEGO, W ZAKRESIE ZABURZEŃ PREFERENCJI SEKSUALNYCH Lp. Nazwa zakładu 1 Regionalny Ośrodek Psychiatrii Sądowej ul. Skaryszewska 7 83-200 Starogard Gdański
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 2 grudnia 2004 r. w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania obserwacji oraz sposobu finansowania obserwacji, a także warunków zabezpieczenia zakładów dla osób pozbawionych wolności (Dz. U. z 2019 r. poz. 1708) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski WYKAZ ZAKŁADÓW PSYCHIATRYCZNYCH PRZEZNACZONYCH DO WYKONYWANIA OBSERWACJI OSÓB, W STOSUNKU DO KTÓRYCH ISTNIEJE POTRZEBA WYDANIA OPINII O STANIE ZDROWIA PSYCHICZNEGO, W ZAKRESIE ZABURZEŃ PREFERENCJI SEKSUALNYCH Lp. Nazwa zakładu 1 Regionalny Ośrodek Psychiatrii Sądowej ul. Skaryszewska 7 83-200 Starogard Gdański
 

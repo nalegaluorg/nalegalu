@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przekazywania danych pomiędzy centralną ewidencją pojazdów a Ubezpieczeniowym Funduszem Gwarancyjnym Na podstawie art. 80ba ust. 6 pkt 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r.
 poz. 1137, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Cyfryzacji z dnia 11 sierpnia 2016 r. w sprawie przekazywania danych pomiędzy centralną ewidencją pojazdów a Ubezpieczeniowym Funduszem Gwarancyjnym (Dz. U. poz. 1320) § 9 otrzymuje brzmienie: „§ 9. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Cyfryzacji: A. Streżyńska
+
+**§ 1.** W rozporządzeniu Ministra Cyfryzacji z dnia 11 sierpnia 2016 r. w sprawie przekazywania danych pomiędzy centralną ewidencją pojazdów a Ubezpieczeniowym Funduszem Gwarancyjnym (Dz. U. poz. 1320) § 9 otrzymuje brzmienie: „§ 9. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Minister Cyfryzacji: A. Streżyńska
 

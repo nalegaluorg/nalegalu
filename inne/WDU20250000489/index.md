@@ -31,18 +31,27 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 15 września 2010 r.
 w sprawie informacji, jakie umieszcza się na plombie nakładanej na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich Na podstawie art. 9a ust. 5 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2023 r.
 poz. 872) zarządza się, co następuje:
-§ 1. Na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich, powiatowy lekarz weterynarii właściwy ze względu na miejsce załadunku tych produktów pochodzenia zwierzęcego nakłada plombę zawierającą:
-1) na przedniej stronie – litery „IW” oraz czterocyfrowy kod, którego:
-a) pierwsza i druga cyfra oznaczają symbol województwa, na terenie którego dokonano załadunku, nadany w sposób określony w rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm. ),
-b) trzecia i czwarta cyfra oznaczają symbol powiatu, na terenie którego dokonano załadunku, nadany w sposób określony w rozporządzeniu, o którym mowa w lit. a;
-2) na odwrocie – sześciocyfrowy indywidualny numer plomby.
-§ 2. W przypadku zerwania plomby przez organ celny podczas kontroli na obszarze terytorialnego zakresu działania powiatowego lekarza weterynarii, na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich, powiatowy lekarz weterynarii właściwy ze względu na miejsce zerwania plomby nakłada plombę zawierającą:
-1) na przedniej stronie – litery „IW” oraz czterocyfrowy kod, którego:
-a) pierwsza i druga cyfra oznaczają symbol województwa, na terenie którego dokonano zerwania plomby, nadany w sposób określony w rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego,
-b) trzecia i czwarta cyfra oznaczają symbol powiatu, na terenie którego dokonano zerwania plomby, nadany w sposób określony w rozporządzeniu, o którym mowa w lit. a;
-2) na odwrocie – sześciocyfrowy indywidualny numer plomby.
-§ 3. W przypadku zerwania plomby przez organ celny podczas kontroli na obszarze terytorialnego zakresu działania granicznego lekarza weterynarii, na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich, graniczny lekarz weterynarii właściwy ze względu na miejsce zerwania plomby nakłada plombę zawierającą:
-1) na przedniej stronie – kod TRACES punktu kontroli granicznej;
-2) na odwrocie – indywidualny numer plomby.
-§ 4. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
+
+**§ 1.** Na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich, powiatowy lekarz weterynarii właściwy ze względu na miejsce załadunku tych produktów pochodzenia zwierzęcego nakłada plombę zawierającą:
+
+- **1)** na przedniej stronie – litery „IW” oraz czterocyfrowy kod, którego:
+    - **a)** pierwsza i druga cyfra oznaczają symbol województwa, na terenie którego dokonano załadunku, nadany w sposób określony w rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm. ),
+    - **b)** trzecia i czwarta cyfra oznaczają symbol powiatu, na terenie którego dokonano załadunku, nadany w sposób określony w rozporządzeniu, o którym mowa w lit. a;
+
+- **2)** na odwrocie – sześciocyfrowy indywidualny numer plomby.
+
+**§ 2.** W przypadku zerwania plomby przez organ celny podczas kontroli na obszarze terytorialnego zakresu działania powiatowego lekarza weterynarii, na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich, powiatowy lekarz weterynarii właściwy ze względu na miejsce zerwania plomby nakłada plombę zawierającą:
+
+- **1)** na przedniej stronie – litery „IW” oraz czterocyfrowy kod, którego:
+    - **a)** pierwsza i druga cyfra oznaczają symbol województwa, na terenie którego dokonano zerwania plomby, nadany w sposób określony w rozporządzeniu Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego,
+    - **b)** trzecia i czwarta cyfra oznaczają symbol powiatu, na terenie którego dokonano zerwania plomby, nadany w sposób określony w rozporządzeniu, o którym mowa w lit. a;
+
+- **2)** na odwrocie – sześciocyfrowy indywidualny numer plomby.
+
+**§ 3.** W przypadku zerwania plomby przez organ celny podczas kontroli na obszarze terytorialnego zakresu działania granicznego lekarza weterynarii, na środek transportu, kontener lub pojemnik, którymi są wywożone produkty pochodzenia zwierzęcego z terytorium Rzeczypospolitej Polskiej do państw trzecich, graniczny lekarz weterynarii właściwy ze względu na miejsce zerwania plomby nakłada plombę zawierającą:
+
+- **1)** na przedniej stronie – kod TRACES punktu kontroli granicznej;
+- **2)** na odwrocie – indywidualny numer plomby.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
 

@@ -27,8 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przeprowadzania konkursu na stanowisko asystenta sędziego Na podstawie art. 155a § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r.
 poz. 334) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 14 października 2013 r. w sprawie przeprowadzania konkursu na stanowisko asystenta sędziego (Dz. U. z 2023 r. poz. 2106) w § 3 w ust. 1 pkt 2 otrzymuje brzmienie: „2) życiorys i informację o przebiegu kariery zawodowej;”.
-§ 2. Do zgłoszeń o przystąpieniu do konkursu składanych w konkursach na stanowisko asystenta sędziego ogłoszonych i nierozstrzygniętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: A. Bodnar
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 14 października 2013 r. w sprawie przeprowadzania konkursu na stanowisko asystenta sędziego (Dz. U. z 2023 r. poz. 2106) w § 3 w ust. 1 pkt 2 otrzymuje brzmienie: „2) życiorys i informację o przebiegu kariery zawodowej;”.
+
+**§ 2.** Do zgłoszeń o przystąpieniu do konkursu składanych w konkursach na stanowisko asystenta sędziego ogłoszonych i nierozstrzygniętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: A. Bodnar
 

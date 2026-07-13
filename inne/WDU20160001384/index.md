@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001384) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1384/text.pdf) |
 
 zmieniające rozporządzenie w sprawie konkursu na stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i stanowisko dyrektora okręgowej komisji egzaminacyjnej Na podstawie art. 9d ust. 14 i 15 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2015 r. poz. 2156 oraz z 2016 r. poz. 35, 64, 195, 668 i 1010) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 23 października 2015 r. w sprawie konkursu na stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i stanowisko dyrektora okręgowej komisji egzaminacyjnej (Dz. U.
-poz. 1827) w § 2 w ust. 2 w pkt 1 skreśla się wyraz „sprawdzianu,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji Narodowej: A. Zalewska
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 23 października 2015 r. w sprawie konkursu na stanowisko dyrektora Centralnej Komisji Egzaminacyjnej i stanowisko dyrektora okręgowej komisji egzaminacyjnej (Dz. U. poz. 1827) w § 2 w ust. 2 w pkt 1 skreśla się wyraz „sprawdzianu,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji Narodowej: A. Zalewska
 

@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/181/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu podmiotów podlegających ochronie oraz właściwych dla nich organów kontroli Na podstawie art. 4 ust. 2 ustawy z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. z 2024 r. poz. 1459) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 18 grudnia 2024 r. w sprawie wykazu podmiotów podlegających ochronie oraz właściwych dla nich organów kontroli (Dz. U. poz. 1892) w załączniku po pkt 9 dodaje się pkt 9a w brzmieniu: 9a Liberty Częstochowa Sp. z o.o. w upadłości z siedzibą w Częstochowie Minister Obrony Narodowej (numer KRS: 0000790933)
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 18 grudnia 2024 r. w sprawie wykazu podmiotów podlegających ochronie oraz właściwych dla nich organów kontroli (Dz. U. poz. 1892) w załączniku po pkt 9 dodaje się pkt 9a w brzmieniu: 9a Liberty Częstochowa Sp. z o.o. w upadłości z siedzibą w Częstochowie Minister Obrony Narodowej (numer KRS: 0000790933)
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

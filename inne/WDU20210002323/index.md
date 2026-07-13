@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2323/text.pdf) |
 
 zmieniające rozporządzenie w sprawie organizacji i przebiegu aplikacji komorniczej Na podstawie art. 103 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2021 r. poz. 850 i 1090) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 14 grudnia 2018 r. w sprawie organizacji i przebiegu aplikacji komorniczej (Dz. U. poz. 2424 oraz z 2020 r. poz. 1781) w § 4 ust. 1 otrzymuje brzmienie: „1. Zajęcia seminaryjne rozpoczynają się nie później niż w dniu 21 stycznia i trwają do dnia 31 grudnia.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 14 grudnia 2018 r. w sprawie organizacji i przebiegu aplikacji komorniczej (Dz. U. poz. 2424 oraz z 2020 r. poz. 1781) w § 4 ust. 1 otrzymuje brzmienie: „1. Zajęcia seminaryjne rozpoczynają się nie później niż w dniu 21 stycznia i trwają do dnia 31 grudnia.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

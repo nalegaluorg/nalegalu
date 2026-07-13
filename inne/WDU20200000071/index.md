@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu przeprowadzania postępowania kwalifikacyjnego w służbie cywilnej Na podstawie art. 47 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2018 r. poz. 1559 oraz z 2019 r.
 poz. 730 i 2020) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 16 grudnia 2009 r. w sprawie sposobu przeprowadzania postępowania kwalifikacyjnego w służbie cywilnej (Dz. U. z 2019 r. poz. 1552) w § 20 ust. 1 otrzymuje brzmienie: „1. Wysokość opłaty za przystąpienie do postępowania kwalifikacyjnego w danym roku, o której mowa w art. 45 ustawy, wynosi 20% minimalnego wynagrodzenia za pracę przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 16 grudnia 2009 r. w sprawie sposobu przeprowadzania postępowania kwalifikacyjnego w służbie cywilnej (Dz. U. z 2019 r. poz. 1552) w § 20 ust. 1 otrzymuje brzmienie: „1. Wysokość opłaty za przystąpienie do postępowania kwalifikacyjnego w danym roku, o której mowa w art. 45 ustawy, wynosi 20% minimalnego wynagrodzenia za pracę przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

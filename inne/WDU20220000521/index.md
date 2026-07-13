@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie cen transferowych w zakresie podatku dochodowego od osób fizycznych Na podstawie art. 23v ust. 1 pkt 1 i 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U.
 z 2021 r. poz. 1128, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie cen transferowych w zakresie podatku dochodowego od osób fizycznych (Dz. U. z 2021 r. poz. 870) w § 8 ust. 3 otrzymuje brzmienie: „3. W przypadku gdy transakcja kontrolowana obejmująca przeniesienie trudnych do wyceny wartości niematerialnych jest objęta uprzednim porozumieniem cenowym, porozumieniem inwestycyjnym, o którym mowa w art. 20zs § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076, 2105, 2262 i 2328), albo porozumieniem podatkowym, o którym mowa w art. 20zb pkt 2 tej ustawy, przepisu ust. 2 nie stosuje się za okres, którego dotyczy to porozumienie.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: wz. A. Soboń
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie cen transferowych w zakresie podatku dochodowego od osób fizycznych (Dz. U. z 2021 r. poz. 870) w § 8 ust. 3 otrzymuje brzmienie: „3. W przypadku gdy transakcja kontrolowana obejmująca przeniesienie trudnych do wyceny wartości niematerialnych jest objęta uprzednim porozumieniem cenowym, porozumieniem inwestycyjnym, o którym mowa w art. 20zs § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076, 2105, 2262 i 2328), albo porozumieniem podatkowym, o którym mowa w art. 20zb pkt 2 tej ustawy, przepisu ust. 2 nie stosuje się za okres, którego dotyczy to porozumienie.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: wz. A. Soboń
 

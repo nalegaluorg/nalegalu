@@ -80,7 +80,12 @@ source: pdf
     - **a)** w ust. 1 wyrazy „Rada Krajowego Związku Kas Chorych” zastępuje się wyrazami „minister właściwy do spraw zdrowia”,
     - **b)** w ust. 2 wyrazy „Rada Krajowego Związku Kas Chorych” zastępuje się wyrazami „minister właściwy do spraw zdrowia”;
 
-- **30)** po art. 141d dodaje się art. 141e w brzmieniu: „Art. 141e. 1. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Urzędu Nadzoru Ubezpieczeń Zdrowotnych, określi, w drodze rozporządzenia: 1) zakres niezbędnych danych gromadzonych przez świadczeniodawców, szczegółowy sposób rejestrowania tych danych oraz ich udostępniania Kasom Chorych, Prezesowi Urzędu Nadzoru Ubezpieczeń Zdrowotnych, ministrowi właściwemu do spraw zdrowia i wojewodom, w tym także rodzaje wykorzystywanych nośników informacji oraz wzory dokumentów, 2) zakres niezbędnych danych gromadzonych w systemach informatycznych Kas Chorych oraz wzory i zasady przekazywania Prezesowi Urzędu Nadzoru Ubezpieczeń Zdrowotnych sprawozdań okresowych, a także wzory i sposób przekazywania ministrowi właściwemu do spraw zdrowia i wojewodom zbiorczych danych dotyczących świadczeń zdrowotnych udzielonych ubezpieczonym będącym członkami Kasy Chorych, 3) zakres niezbędnych danych gromadzonych i przekazywanych przez apteki, o których mowa w art. 141b ust. 1, Kasom Chorych i ministrowi właściwemu do spraw zdrowia. 2. Minister właściwy do spraw zdrowia gromadzi i przetwarza materiały informacyjne z instytucji powszechnego ubezpieczenia zdrowotnego.”;
+- **30)** po art. 141d dodaje się art. 141e w brzmieniu:
+
+  > „Art. 141e.  
+  > 1. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Urzędu Nadzoru Ubezpieczeń Zdrowotnych, określi, w drodze rozporządzenia:  
+  > 1) zakres niezbędnych danych gromadzonych przez świadczeniodawców, szczegółowy sposób rejestrowania tych danych oraz ich udostępniania Kasom Chorych, Prezesowi Urzędu Nadzoru Ubezpieczeń Zdrowotnych, ministrowi właściwemu do spraw zdrowia i wojewodom, w tym także rodzaje wykorzystywanych nośników informacji oraz wzory dokumentów, 2) zakres niezbędnych danych gromadzonych w systemach informatycznych Kas Chorych oraz wzory i zasady przekazywania Prezesowi Urzędu Nadzoru Ubezpieczeń Zdrowotnych sprawozdań okresowych, a także wzory i sposób przekazywania ministrowi właściwemu do spraw zdrowia i wojewodom zbiorczych danych dotyczących świadczeń zdrowotnych udzielonych ubezpieczonym będącym członkami Kasy Chorych, 3) zakres niezbędnych danych gromadzonych i przekazywanych przez apteki, o których mowa w art. 141b ust. 1, Kasom Chorych i ministrowi właściwemu do spraw zdrowia.  
+  > 2. Minister właściwy do spraw zdrowia gromadzi i przetwarza materiały informacyjne z instytucji powszechnego ubezpieczenia zdrowotnego.”;  
 - **31)** w art. 151a w ust. 1 oraz w ust. 4 w pkt 1 skreśla się wyrazy „i Krajowego Związku Kas Chorych”;
 - **32)** w art. 151c w ust. 5 skreśla się pkt 2;
 - **33)** w art. 154 wyrazy „Przewodniczący Rady Krajowego Związku Kas Chorych” zastępuje się wyrazami „Minister właściwy do spraw zdrowia”;
@@ -91,7 +96,10 @@ source: pdf
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 2000 r. Nr 14, poz. 176, Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816 i Nr 104, poz. 1104) wprowadza się następujące zmiany:
 
 - **1)** w art. 27b w ust. 2 wyrazy „7,5 %” zastępuje się wyrazami „7,75 %”;
-- **2)** w art. 44 w ust. 6d pkt 4 otrzymuje brzmienie: „4) w trakcie roku podatkowego poprzedzającego rok podatkowy dokonywali odliczeń, z wyjątkiem odliczeń, o których mowa w art. 26 ust. 1 pkt 2 lit. a) i art. 27b, lub korzystali z ulg, lub dokonują takich odliczeń w trakcie roku podatkowego.”.
+- **2)** w art. 44 w ust. 6d pkt 4 otrzymuje brzmienie:
+
+  > „4) w trakcie roku podatkowego poprzedzającego rok podatkowy dokonywali odliczeń, z wyjątkiem odliczeń, o których mowa w art. 26 ust. 1 pkt 2 lit.  
+  > a) i art. 27b, lub korzystali z ulg, lub dokonują takich odliczeń w trakcie roku podatkowego.”.  
 
 **Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz.U. z 2000 r. Nr 54, poz. 654, Nr 60, poz. 700 i 703 i Nr 103, poz. 1100) w art. 17 w ust. 1 w pkt 4p skreśla się wyrazy „Krajowego Związku Kas Chorych i”.
 

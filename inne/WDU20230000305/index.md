@@ -26,11 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000305) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/305/text.pdf) |
 
 zmieniające rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa Na podstawie art. 149 ust. 7 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 1660) wprowadza się następujące zmiany:
-1) w § 3 pkt 1 otrzymuje brzmienie: „1) za normę SZ – 25 zł;”;
-2) w § 8:
-a) pkt 1 otrzymuje brzmienie: „1) 25 zł – za normę SZ;”,
-b) pkt 3 otrzymuje brzmienie: „3) 29 zł – za uzupełnioną normę SZ;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Służby Ochrony Państwa (Dz. U. poz. 1660) wprowadza się następujące zmiany:
+
+- **1)** w § 3 pkt 1 otrzymuje brzmienie: „1) za normę SZ – 25 zł;”;
+- **2)** w § 8:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) 25 zł – za normę SZ;”,
+    - **b)** pkt 3 otrzymuje brzmienie: „3) 29 zł – za uzupełnioną normę SZ;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

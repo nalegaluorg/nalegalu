@@ -1047,7 +1047,10 @@ o związku metropolitalnym w województwie pomorskim
     - **a)** w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) gminy lub gmin, które powierzyły utworzenie i prowadzenie centrum związkowi metropolitalnemu.”,
     - **b)** w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) pkt 3 – centrum tworzy się w trybie, o którym mowa w art. 13 ustawy z dnia 9 marca 2017 r. o związku metropolitalnym w województwie śląskim (Dz. U. z 2025 r. poz. 186 oraz z 2026 r. poz. 912) albo w art. 48 ustawy z dnia 11 czerwca 2026 r. o związku metropolitalnym w województwie pomorskim (Dz. U. poz. 912), albo przez utworzenie nowej jednostki organizacyjnej.”;
 
-- **4)** w art. 10 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) ust. 1 pkt 3 – jest zawarcie porozumienia, na podstawie którego gmina lub gminy wchodzące w skład związku metropolitalnego powierzają temu związkowi prowadzenie wybranych usług społecznych z co najmniej trzech zakresów, o których mowa w art. 2 ust. 1. Art. 11 stosuje się odpowiednio.”;
+- **4)** w art. 10 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+
+  > „4) ust. 1 pkt 3 – jest zawarcie porozumienia, na podstawie którego gmina lub gminy wchodzące w skład związku metropolitalnego powierzają temu związkowi prowadzenie wybranych usług społecznych z co najmniej trzech zakresów, o których mowa w art. 2 ust. 1.  
+  > Art. 11 stosuje się odpowiednio.”;  
 - **5)** art. 15 i art. 16 otrzymują brzmienie: „Art. 15. Centrum, o którym mowa w art. 9 ust. 1 pkt 2 i 3, może realizować usługi społeczne na rzecz gminy innej niż będąca stroną porozumienia, o którym mowa w art. 10 pkt 2 i 3, po uprzednim zawarciu przez tę gminę porozumienia z gminą, która utworzyła centrum, lub ze związkiem metropolitalnym. Do porozumienia, o którym mowa w zdaniu pierwszym, art. 11 stosuje się odpowiednio.
 
 **Art. 16.** Centrum, o którym mowa w art. 9 ust. 1 pkt 2 i 3, może realizować wyłącznie usługi społeczne i działania związane z realizacją tych usług oraz działania wspierające.”;

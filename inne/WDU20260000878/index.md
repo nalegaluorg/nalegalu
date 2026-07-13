@@ -27,8 +27,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000878) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/878/text.pdf) |
 
 w sprawie utworzenia Wydziału do spraw Wojskowych w Prokuraturze Okręgowej we Wrocławiu oraz Działu do spraw Wojskowych w Prokuraturze Rejonowej w Zielonej Górze Na podstawie art. 35 § 2 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2026 r. poz. 810) zarządza się, co następuje:
-§ 1. Tworzy się Wydział do spraw Wojskowych w Prokuraturze Okręgowej we Wrocławiu z siedzibą we Wrocławiu.
-§ 2. Tworzy się Dział do spraw Wojskowych w Prokuraturze Rejonowej w Zielonej Górze z siedzibą w Zielonej Górze.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2027 r.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** Tworzy się Wydział do spraw Wojskowych w Prokuraturze Okręgowej we Wrocławiu z siedzibą we Wrocławiu.
+
+**§ 2.** Tworzy się Dział do spraw Wojskowych w Prokuraturze Rejonowej w Zielonej Górze z siedzibą w Zielonej Górze.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2027 r. Minister Sprawiedliwości: W. Żurek
 

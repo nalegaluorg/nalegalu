@@ -29,7 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 22 czerwca 2001 r. o ustanowieniu programu wieloletniego „Wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej w samoloty wielozadaniowe” i zapewnieniu warunków jego realizacji (Dz.U. Nr 89, poz. 972) wprowadza się następujące zmiany:
 
-- **1)** w art. 2 ust. 2 otrzymuje brzmienie: „2. Program obejmuje: 1) wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej do końca 2008 r. w 48 nowych samolotów wielozadaniowych, zestaw logistyczny oraz lotnicze środki bojowe, 2) szkolenie personelu, 3) przygotowanie infrastruktury lotniskowej i systemów ubezpieczenia lotów, 4) sfinansowanie wydatków związanych z wyborem samolotu.”;
+- **1)** w art. 2 ust. 2 otrzymuje brzmienie:
+
+  > „2. Program obejmuje:  
+  > 1) wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej do końca 2008 r. w 48 nowych samolotów wielozadaniowych, zestaw logistyczny oraz lotnicze środki bojowe, 2) szkolenie personelu, 3) przygotowanie infrastruktury lotniskowej i systemów ubezpieczenia lotów, 4) sfinansowanie wydatków związanych z wyborem samolotu.”;  
 - **2)** w art. 3 ust. 3 otrzymuje brzmienie: „3. Rozpoczęcie realizacji programu nastąpi w 2001 r., natomiast wyposażanie w samoloty Sił Zbrojnych Rzeczypospolitej Polskiej zakończy się do dnia 31 grudnia 2008 r.”;
 - **3)** w art. 4 ust. 1 otrzymuje brzmienie: „1. Minister Obrony Narodowej, po zasięgnięciu opinii ministrów właściwych do spraw gospodarki oraz do spraw finansów publicznych, w terminie trzydziestu dni od dnia podpisania umowy, określi szczegółowy plan zadaniowo-finansowy programu.”.
 

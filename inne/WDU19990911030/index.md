@@ -27,6 +27,8 @@ source: pdf
 Na podstawie art. 18 ust. 3 ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U.
 32, poz. 191, Nr 43, poz. 253 i Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r.
 poz. 20, z 1993 r. Nr 40, poz. 180, z 1994 r. Nr 1, poz. 3 i Nr 65, poz. 285, z 1996 r. Nr poz. 102 i Nr 106, poz. 496 oraz z 1997 r. Nr 9, poz.43) zarządza się co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 7 maja 1997 r. w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej (Dz. U. Nr 46, poz. 291) w § 1 2 otrzymuje brzmienie: „2) członkowie: - Antoni Cyran, - Łucja Lapierre, - Leszek Ogiegło, - Bogumił Piechura, - Krzysztof Pietrzykowski, - Anna Wielgus.”
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 7 maja 1997 r. w sprawie powołania i trybu działania Krajowej Komisji Uwłaszczeniowej (Dz. U. Nr 46, poz. 291) w § 1 2 otrzymuje brzmienie: „2) członkowie: - Antoni Cyran, - Łucja Lapierre, - Leszek Ogiegło, - Bogumił Piechura, - Krzysztof Pietrzykowski, - Anna Wielgus.”
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

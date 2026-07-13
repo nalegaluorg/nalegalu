@@ -27,12 +27,16 @@ source: pdf
 
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 26 listopada zmieniające rozporządzenie w sprawie szczegółowych krajowego rejestru urzędowego podziału terytorialnego organów administracji rządowej Na podstawie art. 49 ustawy z dnia 29 czerwca 1995 r.
 zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 15 grudnia sowania i udostępniania krajowego rejestru urzędowego podziału organów administracji rządowej i jednostek samorządu w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału
-1) w części dotyczącej województwa lubuskiego powiatu
-2) w części dotyczącej województwa pomorskiego powiatu
-a) Gminy miejskie skreśla się wyrazy „Władysławowo
-b) Gminy – po wyrazach „Puck 221107 2” dodaje się „Władysławowo 221104 3 Władysławowo – miasto 221104 4 Władysławowo – obszar wiejski 221104 5”;
-3) w części dotyczącej województwa świętokrzyskiego zastępuje się wyrazami: „Stopnica 260106 3 Stopnica – miasto 260106 4 Stopnica – obszar wiejski 260106 5”;
-4) w części dotyczącej województwa wielkopolskiego powiatu zastępuje się wyrazami: „Chocz 302001 3 Chocz – miasto 302001 4 Chocz – obszar wiejski 302001 5”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 15 grudnia sowania i udostępniania krajowego rejestru urzędowego podziału organów administracji rządowej i jednostek samorządu w załączniku nr 1 „Identyfikatory i nazwy jednostek podziału
+
+- **1)** w części dotyczącej województwa lubuskiego powiatu
+- **2)** w części dotyczącej województwa pomorskiego powiatu
+    - **a)** Gminy miejskie skreśla się wyrazy „Władysławowo
+    - **b)** Gminy – po wyrazach „Puck 221107 2” dodaje się „Władysławowo 221104 3 Władysławowo – miasto 221104 4 Władysławowo – obszar wiejski 221104 5”;
+
+- **3)** w części dotyczącej województwa świętokrzyskiego zastępuje się wyrazami: „Stopnica 260106 3 Stopnica – miasto 260106 4 Stopnica – obszar wiejski 260106 5”;
+- **4)** w części dotyczącej województwa wielkopolskiego powiatu zastępuje się wyrazami: „Chocz 302001 3 Chocz – miasto 302001 4 Chocz – obszar wiejski 302001 5”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia
 

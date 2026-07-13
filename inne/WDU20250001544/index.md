@@ -27,14 +27,17 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001544) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1544/text.pdf) |
 
 w sprawie wykazu jednostek certyfikujących upoważnionych do prowadzenia certyfikacji zgodności i kontroli zgodności funkcjonowania wewnętrznego systemu kontroli i zarządzania obrotem uzbrojeniem Na podstawie art. 11 ust. 8 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582) zarządza się, co następuje:
-§ 1. Określa się wykaz jednostek certyfikujących upoważnionych do prowadzenia certyfikacji zgodności i kontroli zgodności funkcjonowania wewnętrznego systemu kontroli i zarządzania obrotem uzbrojeniem obejmujący następujące jednostki:
-1) Bureau Veritas Polska sp. z o.o. z siedzibą w Warszawie;
-2) Centrum Certyfikacji Jakości Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego z siedzibą w Warszawie;
-3) CeCert sp. z o.o. z siedzibą w Warszawie;
-4) Polskie Centrum Badań i Certyfikacji S.A. z siedzibą w Warszawie;
-5) TÜV Rheinland Polska sp. z o.o. z siedzibą w Zabrzu;
-6) Urząd Dozoru Technicznego z siedzibą w Warszawie.
-§ 2. Traci moc rozporządzenie Ministra Gospodarki z dnia 12 kwietnia 2013 r. w sprawie wykazu jednostek certyfikujących upoważnionych do prowadzenia certyfikacji zgodności i kontroli zgodności funkcjonowania wewnętrznego systemu kontroli (Dz. U. poz. 525).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów i Gospodarki: A. Domański
+
+**§ 1.** Określa się wykaz jednostek certyfikujących upoważnionych do prowadzenia certyfikacji zgodności i kontroli zgodności funkcjonowania wewnętrznego systemu kontroli i zarządzania obrotem uzbrojeniem obejmujący następujące jednostki:
+
+- **1)** Bureau Veritas Polska sp. z o.o. z siedzibą w Warszawie;
+- **2)** Centrum Certyfikacji Jakości Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego z siedzibą w Warszawie;
+- **3)** CeCert sp. z o.o. z siedzibą w Warszawie;
+- **4)** Polskie Centrum Badań i Certyfikacji S.A. z siedzibą w Warszawie;
+- **5)** TÜV Rheinland Polska sp. z o.o. z siedzibą w Zabrzu;
+- **6)** Urząd Dozoru Technicznego z siedzibą w Warszawie.
+
+**§ 2.** Traci moc rozporządzenie Ministra Gospodarki z dnia 12 kwietnia 2013 r. w sprawie wykazu jednostek certyfikujących upoważnionych do prowadzenia certyfikacji zgodności i kontroli zgodności funkcjonowania wewnętrznego systemu kontroli (Dz. U. poz. 525).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów i Gospodarki: A. Domański
 

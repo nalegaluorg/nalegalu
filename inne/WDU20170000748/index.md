@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000748) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/748/text.pdf) |
 
 w sprawie wynagrodzenia członków Krajowej Komisji Uwłaszczeniowej Na podstawie art. 18c ust. 2 ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ) zarządza się, co następuje:
-§ 1. Przewodniczącemu Krajowej Komisji Uwłaszczeniowej przysługuje wynagrodzenie miesięczne w wysokości 2743 zł brutto.
-§ 2. Członkowi Krajowej Komisji Uwłaszczeniowej przysługuje wynagrodzenie miesięczne w wysokości 1910 zł brutto.
-§ 3. Rozporządzenie wchodzi w życie z dniem 12 kwietnia 2017 r.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** Przewodniczącemu Krajowej Komisji Uwłaszczeniowej przysługuje wynagrodzenie miesięczne w wysokości 2743 zł brutto.
+
+**§ 2.** Członkowi Krajowej Komisji Uwłaszczeniowej przysługuje wynagrodzenie miesięczne w wysokości 1910 zł brutto.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 12 kwietnia 2017 r. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

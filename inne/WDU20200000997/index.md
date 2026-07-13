@@ -26,11 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000997) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/997/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad działania telekomunikacji lotniczej Na podstawie art. 132 pkt 5 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495 oraz z 2020 r. poz. 284) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 26 marca 2009 r. w sprawie szczegółowych zasad działania telekomunikacji lotniczej (Dz. U. z 2014 r. poz. 410) w § 3a:
-1) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Prezes Urzędu na wniosek instytucji zapewniającej służby żeglugi powietrznej, zakładającego lotnisko albo zarządzającego lotniskiem, albo zgłaszającego lądowisko do ewidencji lądowisk albo posiadacza nieruchomości, na której znajduje się lądowisko, nadaje oznaczenie lokalizacji, o którym mowa w pkt 1.9 tomu II Załącznika 10 do Konwencji, pozwalające na identyfikację stacji:”;
-2) ust. 4 otrzymuje brzmienie: „4. Oznaczenie lokalizacji albo wykreślenie oznaczenia lokalizacji, wraz z nazwą lotniska albo lądowiska, do którego odnosi się to oznaczenie lokalizacji, są ogłaszane w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz w AIP Polska.”;
-3) po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadku zmiany nazwy lotniska albo lądowiska ogłoszeniu w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz w AIP Polska podlega oznaczenie lokalizacji wraz ze zmienioną nazwą lotniska albo lądowiska.”;
-4) ust. 5 otrzymuje brzmienie: „5. Prezes Urzędu zawiadamia ICAO o nadaniu lub wykreśleniu oznaczenia lokalizacji lub o zmianie nazwy lotniska albo lądowiska, do którego odnosi się oznaczenie lokalizacji.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury: wz. A. Bittel
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 26 marca 2009 r. w sprawie szczegółowych zasad działania telekomunikacji lotniczej (Dz. U. z 2014 r. poz. 410) w § 3a:
+
+- **1)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Prezes Urzędu na wniosek instytucji zapewniającej służby żeglugi powietrznej, zakładającego lotnisko albo zarządzającego lotniskiem, albo zgłaszającego lądowisko do ewidencji lądowisk albo posiadacza nieruchomości, na której znajduje się lądowisko, nadaje oznaczenie lokalizacji, o którym mowa w pkt 1.9 tomu II Załącznika 10 do Konwencji, pozwalające na identyfikację stacji:”;
+- **2)** ust. 4 otrzymuje brzmienie: „4. Oznaczenie lokalizacji albo wykreślenie oznaczenia lokalizacji, wraz z nazwą lotniska albo lądowiska, do którego odnosi się to oznaczenie lokalizacji, są ogłaszane w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz w AIP Polska.”;
+- **3)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W przypadku zmiany nazwy lotniska albo lądowiska ogłoszeniu w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz w AIP Polska podlega oznaczenie lokalizacji wraz ze zmienioną nazwą lotniska albo lądowiska.”;
+- **4)** ust. 5 otrzymuje brzmienie: „5. Prezes Urzędu zawiadamia ICAO o nadaniu lub wykreśleniu oznaczenia lokalizacji lub o zmianie nazwy lotniska albo lądowiska, do którego odnosi się oznaczenie lokalizacji.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Infrastruktury: wz. A. Bittel
 

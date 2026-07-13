@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/276/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym Na podstawie art. 13 ust. 3 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym (Dz. U. poz. 1627) wprowadza się następujące zmiany:
-1) w § 8 w ust. 3 po wyrazach ,,w wymiarze 3 godzin tygodniowo” dodaje się wyrazy ,, , a w przypadku uczniów należących do mniejszości niemieckiej – w wymiarze 1 godziny tygodniowo”;
-2) załącznik nr 3 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-Minister Edukacji i Nauki: P. Czarnek … M W M W W M M W W
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie warunków i sposobu wykonywania przez przedszkola, szkoły i placówki publiczne zadań umożliwiających podtrzymywanie poczucia tożsamości narodowej, etnicznej i językowej uczniów należących do mniejszości narodowych i etnicznych oraz społeczności posługującej się językiem regionalnym (Dz. U. poz. 1627) wprowadza się następujące zmiany:
+
+- **1)** w § 8 w ust. 3 po wyrazach ,,w wymiarze 3 godzin tygodniowo” dodaje się wyrazy ,, , a w przypadku uczniów należących do mniejszości niemieckiej – w wymiarze 1 godziny tygodniowo”;
+- **2)** załącznik nr 3 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2022 r. Minister Edukacji i Nauki: P. Czarnek … M W M W W M M W W
 

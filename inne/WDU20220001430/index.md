@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001430) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1430/text.pdf) |
 
 zmieniające rozporządzenie w sprawie standardu organizacyjnego opieki okołoporodowej Na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655, 974 i 1079) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 16 sierpnia 2018 r. w sprawie standardu organizacyjnego opieki okołoporodowej (Dz. U. poz. 1756) w załączniku do rozporządzenia w części IV „Edukacja przedporodowa” w ust. 4 w pkt 7 średnik zastępuje się kropką i uchyla się pkt 8.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 16 sierpnia 2018 r. w sprawie standardu organizacyjnego opieki okołoporodowej (Dz. U. poz. 1756) w załączniku do rozporządzenia w części IV „Edukacja przedporodowa” w ust. 4 w pkt 7 średnik zastępuje się kropką i uchyla się pkt 8.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski
 

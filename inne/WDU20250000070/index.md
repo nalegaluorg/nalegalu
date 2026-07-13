@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000070) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/70/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadectw służby i opinii o służbie funkcjonariuszy Straży Granicznej Na podstawie art. 50 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2002 r. w sprawie świadectw służby i opinii o służbie funkcjonariuszy Straży Granicznej (Dz. U. z 2024 r. poz. 648) w załączniku do rozporządzenia w pkt 1 wyrazy „pełnił(a) służbę kandydacką/przygotowawczą/stałą*” zastępuje się wyrazami „pełnił(a) służbę kandydacką/ przygotowawczą/kontraktową/stałą*”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 22 stycznia 2025 r.
-Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2002 r. w sprawie świadectw służby i opinii o służbie funkcjonariuszy Straży Granicznej (Dz. U. z 2024 r. poz. 648) w załączniku do rozporządzenia w pkt 1 wyrazy „pełnił(a) służbę kandydacką/przygotowawczą/stałą*” zastępuje się wyrazami „pełnił(a) służbę kandydacką/ przygotowawczą/kontraktową/stałą*”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 22 stycznia 2025 r. Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
 

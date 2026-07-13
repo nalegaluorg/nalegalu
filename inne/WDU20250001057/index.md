@@ -28,62 +28,6 @@ source: pdf
 
 w sprawie wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne Na podstawie art. 21 ust. 17 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r.
 poz. 91 i 637) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) szczegółowy zakres danych objętych wojewódzkim planem działania systemu Państwowe Ratownictwo Medyczne, zwanym dalej „planem”;
-2) ramowy wzór planu;
-3) zakres danych podlegających upublicznieniu w Biuletynie Informacji Publicznej.
-§ 2. Plan zawiera:
-1) charakterystykę ogólną oraz informacje o jednostkach systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, zwanej dalej „ustawą”, centrach urazowych, centrach urazowych dla dzieci oraz jednostkach organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego – w zakresie:
-a) liczby, rodzaju, dysponentów, miejsc stacjonowania oraz adresów miejsc stacjonowania zespołów ratownictwa medycznego w poszczególnych rejonach operacyjnych, z określeniem obszaru działania dla każdego zespołu,
-b) liczby, rodzaju i dysponentów dodatkowych zespołów ratownictwa medycznego, z określeniem maksymalnego czasu uruchomienia każdego zespołu,
-c) liczby i adresów miejsc stacjonowania lotniczych zespołów ratownictwa medycznego, z określeniem czasu ich działania,
-d) liczby i rozmieszczenia (adresów) szpitalnych oddziałów ratunkowych, z określeniem zabezpieczanego obszaru,
-e) liczby i rozmieszczenia (adresów) centrów urazowych,
-f) liczby i rozmieszczenia (adresów) centrów urazowych dla dzieci,
-g) liczby i rozmieszczenia (adresów) jednostek organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, z określeniem specjalności tych jednostek oraz liczby łóżek;
-2) informacje o planowanych na kolejne lata nowych jednostkach systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 ustawy, zwanych dalej „jednostkami systemu”, centrach urazowych, centrach urazowych dla dzieci na obszarze województwa oraz jednostkach organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego – w zakresie:
-a) planowanej daty uruchomienia, liczby, rodzaju i miejsc stacjonowania w poszczególnych rejonach operacyjnych zespołów ratownictwa medycznego, z określeniem obszaru działania dla każdego zespołu,
-b) planowanej daty uruchomienia, liczby i rozmieszczenia (adresów) szpitalnych oddziałów ratunkowych, z określeniem obszaru zabezpieczanego przez każdy szpitalny oddział ratunkowy,
-c) planowanej daty uruchomienia, liczby i rozmieszczenia (adresów) centrów urazowych i centrów urazowych dla dzieci,
-d) planowanej daty uruchomienia, liczby i rozmieszczenia (adresów) jednostek organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
-3) informacje dotyczące funkcjonowania jednostek systemu – w zakresie:
-a) liczby wyjazdów zespołów ratownictwa medycznego za rok poprzedni, w przeliczeniu na jeden zespół, rejon operacyjny i województwo, oraz czasu trwania akcji medycznej (od przyjęcia zgłoszenia przez dyspozytora medycznego do powrotu zespołu ratownictwa medycznego do gotowości operacyjnej), w przeliczeniu na jeden zespół, powiat, rejon operacyjny i województwo, obejmujące: – liczbę wyjazdów zespołów ratownictwa medycznego, – medianę czasu dotarcia na miejsce zdarzenia, – maksymalny czas dotarcia na miejsce zdarzenia, – średni i maksymalny czas trwania akcji medycznej, – liczbę wyjazdów przekraczających maksymalny czas dotarcia na miejsce zdarzenia,
-b) liczby pacjentów szpitalnego oddziału ratunkowego za rok poprzedni,
-c) liczby pacjentów izby przyjęć szpitala za rok poprzedni,
-d) liczby pacjentów urazowych oraz liczby pacjentów urazowych dziecięcych za rok poprzedni,
-e) liczby osób wykonujących zawód medyczny w jednostkach systemu za rok poprzedni;
-4) opis i organizację struktury systemu powiadamiania o stanach nagłego zagrożenia zdrowotnego – w zakresie:
-a) adresu dyspozytorni medycznej, rejonu działania, liczby rezerwowych stanowisk dyspozytorów medycznych, liczby i rodzaju obsługiwanych zespołów ratownictwa medycznego,
-b) liczby i kwalifikacji zawodowych dyspozytorów medycznych,
-c) liczby, rodzaju i godzin pracy stanowisk dyspozytorów medycznych,
-d) stanu zatrudnienia w dyspozytorniach medycznych,
-e) liczby, natężenia i czasu obsługi zgłoszeń przyjmowanych na stanowiskach dyspozytorów medycznych,
-f) sposobu organizacji i działania systemów łączności radiowej, ze wskazaniem rodzajów wykorzystywanych urządzeń,
-g) sposobu prowadzenia korespondencji radiowej z wykorzystaniem przydzielonych numerów identyfikacyjnych zespołów ratownictwa medycznego i dyspozytorni medycznych w ramach zapewnienia sprawnej komunikacji między zespołami ratownictwa medycznego, dyspozytorami medycznymi i wojewódzkim koordynatorem ratownictwa medycznego a szpitalnymi oddziałami ratunkowymi, izbami przyjęć szpitali, centrami urazowymi, centrami urazowymi dla dzieci, jednostkami organizacyjnymi szpitali wyspecjalizowanymi w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego oraz jednostkami współpracującymi z systemem Państwowe Ratownictwo Medyczne, o których mowa w art. 15 ustawy,
-h) sposobu współpracy dyspozytorni medycznych i wojewódzkich koordynatorów ratownictwa medycznego oraz organizacji i procedur koordynacji działań jednostek systemu, ze wskazaniem kompetencji i trybu podejmowanych działań, z uwzględnieniem zdarzeń powodujących stan nagłego zagrożenia zdrowotnego znacznej liczby osób w przypadkach, o których mowa w art. 30 ustawy,
-i) sposobu powiadamiania o zdarzeniach właściwych jednostek organizacyjnych Policji lub Państwowej Straży Pożarnej przez dyspozytorów medycznych,
-j) sposobu funkcjonowania zastępowalności dyspozytorni medycznych oraz liczby zgłoszeń obsługiwanych w ramach tej zastępowalności,
-k) sposobu funkcjonowania systemu powiadamiania o stanach nagłego zagrożenia zdrowotnego w przypadku awarii,
-l) adresu centrum powiadamiania ratunkowego;
-5) opis sposobu współpracy wojewody i dysponentów jednostek systemu z organami administracji publicznej i jednostkami systemu z innych województw, w tym opis sposobu współpracy wynikającej z umów międzynarodowych dotyczących współpracy transgranicznej w ratownictwie medycznym, jeżeli takie umowy zostały zawarte – w zakresie:
-a) procedur współpracy,
-b) kompetencji i trybu podejmowania działań,
-c) obiegu i wymiany informacji;
-6) charakterystykę ogólną i informacje o liczbie, rodzaju i rozmieszczeniu jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne;
-7) opis sposobu współpracy jednostek systemu z jednostkami współpracującymi z systemem Państwowe Ratownictwo Medyczne na obszarze województwa – w zakresie:
-a) procedur współpracy, obejmujących opis obiegu i wymiany informacji w przypadku zdarzeń pojedynczych i zdarzeń powodujących stan nagłego zagrożenia zdrowotnego znacznej liczby osób,
-b) procedur powiadamiania o działaniach ratowniczych, dysponowania i koordynowania działań ratowniczych w przypadku zdarzeń pojedynczych i zdarzeń powodujących stan nagłego zagrożenia zdrowotnego znacznej liczby osób oraz kompetencji i trybu podejmowanych działań,
-c) terminów wspólnych ćwiczeń przeprowadzonych w roku poprzednim oraz planowanych do przeprowadzenia i analizy działań ratowniczych na podstawie przeprowadzonych ćwiczeń.
-§ 3. Informacje, o których mowa w § 2:
-1) pkt 1 lit. a–c, pkt 3 lit. a i e w zakresie danych dotyczących liczby osób wykonujących zawód medyczny w zespołach ratownictwa medycznego oraz pkt 4 lit. a–e i lit. j, umieszczane w planie są pobierane z Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego, o którym mowa w art. 3 pkt 15 ustawy;
-2) pkt 1 lit. d–g oraz pkt 2 lit. b–d, są ujęte w planie przez odwołanie do ewidencji, o której mowa w art. 23a ust. 1 ustawy;
-3) pkt 6, są ujęte w planie przez odwołanie do rejestru, o którym mowa w art. 17 ust. 1 ustawy.
-§ 4. Ramowy wzór planu jest określony w załączniku do rozporządzenia.
-§ 5. Dane, o których mowa w § 2 pkt 1–3, pkt 4 lit. b–g i pkt 6, podlegają upublicznieniu w Biuletynie Informacji Publicznej.
-§ 6. Traci moc rozporządzenie Ministra Zdrowia z dnia 8 listopada 2018 r. w sprawie wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne (Dz. U. z 2023 r. poz. 1060).
-§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Konieczny Załącznik do rozporządzenia Ministra Zdrowia z dnia 29 lipca 2025 r. (Dz. U. poz. ......) RAMOWY RAMOWY WZÓR WZÓR WOJEWÓDZKIEGO WOJEWÓDZKIEGO PLANU PLANU DZIAŁANIA DZIAŁANIA SYSTEMU PAŃSTWOWE RATOWNICTWO MEDYCZNE SYSTEMU PAŃSTWOWE RATOWNICTWO MEDYCZNE Plan działania systemu Państwowe Ratownictwo Medyczne dla województwa ………… Tekst jednolity Miejscowość, dzień, miesiąc, rok W przypadku sporządzenia wojewódzkiego planu działania systemu Państwowe Ratownictwo Medycznego na podstawie art. 16 ust. 3 ustawy z dnia 25 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637) plan ten oznacza się jako tekst pierwotny.
-SPIS TREŚCI
 Wprowadzenie i założenia do wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne.
 Informacje dotyczące podstawy prawnej tworzenia wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne, opis kompetencji organów administracji publicznej dotyczących planowania i nadzoru nad systemem Państwowe Ratownictwo Medyczne, opis procesu aktualizacji i zatwierdzenia aktualizacji przez ministra właściwego do spraw zdrowia.
 1.1. Charakterystyka ogólna.
@@ -146,6 +90,75 @@ WYKAZ ZAŁĄCZNIKÓW DO CZĘŚCI II Tabela nr 21: Liczba i rodzaje stanowisk dys
 95.7–00.02 hcanizdog w hcycąjałysyw hcynzcydem wórotyzopsyd ksiwonats abzciL
 95.7–00.02 hcanizdog w hcycąjumjyzrp hcynzcydem wórotyzopsyd ksiwonats abzciL 95:91–00.8 hcanizdog w hcycąjałysyw hcynzcydem wórotyzopsyd ksiwonats abzciL
 95.91–00.8 hcanizdog w hcycąjumjyzrp hcynzcydem wórotyzopsyd ksiwonats abzciL m hcynzcydem wórotyzopsyd ksiwonats abzcil anzcąŁ ]mm-dd[ od :ukor ugąic w ainałaizd serkO ]mm-dd[ do :ukor ugąic w ainałaizd serkO icśondul abzciL ogenjycarepo unojer remuN jenzcydem inrotyzopsyd serdA jenzcydem inrotyzopsyd doK m mm ……… ) icśonlawopętsaz pate I( mikzdówejow eimoizop an jenawopętsaz jenzcydem inrotyzopsyd ainawonopsyd razsbO ) icśonlawopętsaz pate I( mikzdówejow eimoizop an jenawopętsaz jenzcydem inrotyzopsyd ainawonopsyd urazsbo doK mm ) icśonlawopętsaz pate I( mikzdówejow eimoizop an jenawopętsaz jenzcydem inrotyzopsyd ogenjycarepo unojer remuN ……… ) icśonlawopętsaz pate I( mikzdówejow eimoizop an jenawopętsaz jenzcydem inrotyzopsyd doK ) icśonlawopętsaz pate II( mywojark eimoizop an jenawopętsaz jenzcydem inrotyzopsyd ainawonopsyd razsbO ) icśonlawopętsaz pate II( mywojark eimoizop an jenawopętsaz jenzcydem inrotyzopsyd ainawonopsyd urazsbo doK ) icśonlawopętsaz pate II( mywojark eimoizop an jenawopętsaz jenzcydem inrotyzopsyd ogenjycarepo unojer remuN m ) icśonlawopętsaz pate II( mywojark eimoizop an jenawopętsaz jenzcydem inrotyzopsyd doK jecąjupętsaz jenzcydem inrotyzopsyd ainawonopsyd razsbO jecąjupętsaz jenzcydem inrotyzopsyd ainawonopsyd urazsbo doK jecąjupętsaz jenzcydem inrotyzopsyd ogenzcydem arotyzopsyd aksiwonats jazdoR jecąjupętsaz jenzcydem inrotyzopsyd ogenjycarepo unojer remuN jecąjupętsaz jenzcydem inrotyzopsyd doK jenzcydem inrotyzopsyd w ogenjycartsinimda akinwocarp uksiwonats an jenwarponliwyc ywomu eiwatsdop an hcynoindurtaz bóso hcywoinezcilezrp wótate abzciL jenzcydem inrotyzopsyd w ogenjycartsinimda akinwocarp uksiwonats an ęcarp o ywomu eiwatsdop an hcynoindurtaz bóso hcywoinezcilezrp wótate abzciL jenzcydem inrotyzopsyd w MRP DWS ogeikzdówejow arotartsinimda uksiwonats an jenwarponliwyc ywomu eiwatsdop an hcynoindurtaz bóso hcywoinezcilezrp wótate abzciL jenzcydem inrotyzopsyd w m MRP DWS ogeikzdówejow arotartsinimda uksiwonats an ęcarp o ywomu eiwatsdop an hcynoindurtaz bóso hcywoinezcilezrp wótate abzciL agolohcysp uksiwonats an ęcarp o ywomu eiwatsdop an hcynoindurtaz bóso hcywoinezcilezrp wótate abzciL jenzcydem inrotyzopsyd akinworeik ycpętsaz uksiwonats an ęcarp o ywomu eiwatsdop an hcynoindurtaz ……… bóso hcywoinezcilezrp wótate abzciL jenzcydem inrotyzopsyd akinworeik uksiwonats an ęcarp o ywomu eiwatsdop an hcynoindurtaz bóso hcywoinezcilezrp wótate abzciL ogenzcydem arotyzopsyd uksiwonats m an ainezdasbo od hcywoinezcilezrp wótate hcynlow abzciL ogenzcydem arotyzopsyd ogenwółg i ogenzcydem arotyzopsyd ogenwółg ycpętsaz imaineinwarpu z bóso myt w ,ogenzcydem arotyzopsyd m uksiwonats an jenwarponliwyc m ywomu eiwatsdop an hcynoindurtaz bóso hcywoinezcilezrp wótate abzciL ogenzcydem arotyzopsyd ……… ogenwółg i ogenzcydem arotyzopsyd ogenwółg ycpętsaz imaineinwarpu z bóso myt w ,ogenzcydem arotyzopsyd uksiwonats an ęcarp o ywomu eiwatsdop an hcynoindurtaz bóso hcywoinezcilezrp wótate abzciL )hcywowrezer ksiwonats zeb( ijcazilakol jenad w hcynzcydem wórotyzopsyd ksiwonats abzciL cąiseiM
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** szczegółowy zakres danych objętych wojewódzkim planem działania systemu Państwowe Ratownictwo Medyczne, zwanym dalej „planem”;
+- **2)** ramowy wzór planu;
+- **3)** zakres danych podlegających upublicznieniu w Biuletynie Informacji Publicznej.
+
+**§ 2.** Plan zawiera:
+
+- **1)** charakterystykę ogólną oraz informacje o jednostkach systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, zwanej dalej „ustawą”, centrach urazowych, centrach urazowych dla dzieci oraz jednostkach organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego – w zakresie:
+    - **a)** liczby, rodzaju, dysponentów, miejsc stacjonowania oraz adresów miejsc stacjonowania zespołów ratownictwa medycznego w poszczególnych rejonach operacyjnych, z określeniem obszaru działania dla każdego zespołu,
+    - **b)** liczby, rodzaju i dysponentów dodatkowych zespołów ratownictwa medycznego, z określeniem maksymalnego czasu uruchomienia każdego zespołu,
+    - **c)** liczby i adresów miejsc stacjonowania lotniczych zespołów ratownictwa medycznego, z określeniem czasu ich działania,
+    - **d)** liczby i rozmieszczenia (adresów) szpitalnych oddziałów ratunkowych, z określeniem zabezpieczanego obszaru,
+    - **e)** liczby i rozmieszczenia (adresów) centrów urazowych,
+    - **f)** liczby i rozmieszczenia (adresów) centrów urazowych dla dzieci,
+    - **g)** liczby i rozmieszczenia (adresów) jednostek organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego, z określeniem specjalności tych jednostek oraz liczby łóżek;
+
+- **2)** informacje o planowanych na kolejne lata nowych jednostkach systemu Państwowe Ratownictwo Medyczne, o których mowa w art. 32 ust. 1 ustawy, zwanych dalej „jednostkami systemu”, centrach urazowych, centrach urazowych dla dzieci na obszarze województwa oraz jednostkach organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego – w zakresie:
+    - **a)** planowanej daty uruchomienia, liczby, rodzaju i miejsc stacjonowania w poszczególnych rejonach operacyjnych zespołów ratownictwa medycznego, z określeniem obszaru działania dla każdego zespołu,
+    - **b)** planowanej daty uruchomienia, liczby i rozmieszczenia (adresów) szpitalnych oddziałów ratunkowych, z określeniem obszaru zabezpieczanego przez każdy szpitalny oddział ratunkowy,
+    - **c)** planowanej daty uruchomienia, liczby i rozmieszczenia (adresów) centrów urazowych i centrów urazowych dla dzieci,
+    - **d)** planowanej daty uruchomienia, liczby i rozmieszczenia (adresów) jednostek organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego;
+
+- **3)** informacje dotyczące funkcjonowania jednostek systemu – w zakresie:
+    - **a)** liczby wyjazdów zespołów ratownictwa medycznego za rok poprzedni, w przeliczeniu na jeden zespół, rejon operacyjny i województwo, oraz czasu trwania akcji medycznej (od przyjęcia zgłoszenia przez dyspozytora medycznego do powrotu zespołu ratownictwa medycznego do gotowości operacyjnej), w przeliczeniu na jeden zespół, powiat, rejon operacyjny i województwo, obejmujące: – liczbę wyjazdów zespołów ratownictwa medycznego, – medianę czasu dotarcia na miejsce zdarzenia, – maksymalny czas dotarcia na miejsce zdarzenia, – średni i maksymalny czas trwania akcji medycznej, – liczbę wyjazdów przekraczających maksymalny czas dotarcia na miejsce zdarzenia,
+    - **b)** liczby pacjentów szpitalnego oddziału ratunkowego za rok poprzedni,
+    - **c)** liczby pacjentów izby przyjęć szpitala za rok poprzedni,
+    - **d)** liczby pacjentów urazowych oraz liczby pacjentów urazowych dziecięcych za rok poprzedni,
+    - **e)** liczby osób wykonujących zawód medyczny w jednostkach systemu za rok poprzedni;
+
+- **4)** opis i organizację struktury systemu powiadamiania o stanach nagłego zagrożenia zdrowotnego – w zakresie:
+    - **a)** adresu dyspozytorni medycznej, rejonu działania, liczby rezerwowych stanowisk dyspozytorów medycznych, liczby i rodzaju obsługiwanych zespołów ratownictwa medycznego,
+    - **b)** liczby i kwalifikacji zawodowych dyspozytorów medycznych,
+    - **c)** liczby, rodzaju i godzin pracy stanowisk dyspozytorów medycznych,
+    - **d)** stanu zatrudnienia w dyspozytorniach medycznych,
+    - **e)** liczby, natężenia i czasu obsługi zgłoszeń przyjmowanych na stanowiskach dyspozytorów medycznych,
+    - **f)** sposobu organizacji i działania systemów łączności radiowej, ze wskazaniem rodzajów wykorzystywanych urządzeń,
+    - **g)** sposobu prowadzenia korespondencji radiowej z wykorzystaniem przydzielonych numerów identyfikacyjnych zespołów ratownictwa medycznego i dyspozytorni medycznych w ramach zapewnienia sprawnej komunikacji między zespołami ratownictwa medycznego, dyspozytorami medycznymi i wojewódzkim koordynatorem ratownictwa medycznego a szpitalnymi oddziałami ratunkowymi, izbami przyjęć szpitali, centrami urazowymi, centrami urazowymi dla dzieci, jednostkami organizacyjnymi szpitali wyspecjalizowanymi w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego oraz jednostkami współpracującymi z systemem Państwowe Ratownictwo Medyczne, o których mowa w art. 15 ustawy,
+    - **h)** sposobu współpracy dyspozytorni medycznych i wojewódzkich koordynatorów ratownictwa medycznego oraz organizacji i procedur koordynacji działań jednostek systemu, ze wskazaniem kompetencji i trybu podejmowanych działań, z uwzględnieniem zdarzeń powodujących stan nagłego zagrożenia zdrowotnego znacznej liczby osób w przypadkach, o których mowa w art. 30 ustawy,
+    - **i)** sposobu powiadamiania o zdarzeniach właściwych jednostek organizacyjnych Policji lub Państwowej Straży Pożarnej przez dyspozytorów medycznych,
+    - **j)** sposobu funkcjonowania zastępowalności dyspozytorni medycznych oraz liczby zgłoszeń obsługiwanych w ramach tej zastępowalności,
+    - **k)** sposobu funkcjonowania systemu powiadamiania o stanach nagłego zagrożenia zdrowotnego w przypadku awarii,
+    - **l)** adresu centrum powiadamiania ratunkowego;
+
+- **5)** opis sposobu współpracy wojewody i dysponentów jednostek systemu z organami administracji publicznej i jednostkami systemu z innych województw, w tym opis sposobu współpracy wynikającej z umów międzynarodowych dotyczących współpracy transgranicznej w ratownictwie medycznym, jeżeli takie umowy zostały zawarte – w zakresie:
+    - **a)** procedur współpracy,
+    - **b)** kompetencji i trybu podejmowania działań,
+    - **c)** obiegu i wymiany informacji;
+
+- **6)** charakterystykę ogólną i informacje o liczbie, rodzaju i rozmieszczeniu jednostek współpracujących z systemem Państwowe Ratownictwo Medyczne;
+- **7)** opis sposobu współpracy jednostek systemu z jednostkami współpracującymi z systemem Państwowe Ratownictwo Medyczne na obszarze województwa – w zakresie:
+    - **a)** procedur współpracy, obejmujących opis obiegu i wymiany informacji w przypadku zdarzeń pojedynczych i zdarzeń powodujących stan nagłego zagrożenia zdrowotnego znacznej liczby osób,
+    - **b)** procedur powiadamiania o działaniach ratowniczych, dysponowania i koordynowania działań ratowniczych w przypadku zdarzeń pojedynczych i zdarzeń powodujących stan nagłego zagrożenia zdrowotnego znacznej liczby osób oraz kompetencji i trybu podejmowanych działań,
+    - **c)** terminów wspólnych ćwiczeń przeprowadzonych w roku poprzednim oraz planowanych do przeprowadzenia i analizy działań ratowniczych na podstawie przeprowadzonych ćwiczeń.
+
+**§ 3.** Informacje, o których mowa w § 2:
+
+- **1)** pkt 1 lit. a–c, pkt 3 lit. a i e w zakresie danych dotyczących liczby osób wykonujących zawód medyczny w zespołach ratownictwa medycznego oraz pkt 4 lit. a–e i lit. j, umieszczane w planie są pobierane z Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego, o którym mowa w art. 3 pkt 15 ustawy;
+- **2)** pkt 1 lit. d–g oraz pkt 2 lit. b–d, są ujęte w planie przez odwołanie do ewidencji, o której mowa w art. 23a ust. 1 ustawy;
+- **3)** pkt 6, są ujęte w planie przez odwołanie do rejestru, o którym mowa w art. 17 ust. 1 ustawy.
+
+**§ 4.** Ramowy wzór planu jest określony w załączniku do rozporządzenia.
+
+**§ 5.** Dane, o których mowa w § 2 pkt 1–3, pkt 4 lit. b–g i pkt 6, podlegają upublicznieniu w Biuletynie Informacji Publicznej.
+
+**§ 6.** Traci moc rozporządzenie Ministra Zdrowia z dnia 8 listopada 2018 r. w sprawie wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne (Dz. U. z 2023 r. poz. 1060).
+
+**§ 7.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Konieczny Załącznik do rozporządzenia Ministra Zdrowia z dnia 29 lipca 2025 r. (Dz. U. poz. ......) RAMOWY RAMOWY WZÓR WZÓR WOJEWÓDZKIEGO WOJEWÓDZKIEGO PLANU PLANU DZIAŁANIA DZIAŁANIA SYSTEMU PAŃSTWOWE RATOWNICTWO MEDYCZNE SYSTEMU PAŃSTWOWE RATOWNICTWO MEDYCZNE Plan działania systemu Państwowe Ratownictwo Medyczne dla województwa ………… Tekst jednolity Miejscowość, dzień, miesiąc, rok W przypadku sporządzenia wojewódzkiego planu działania systemu Państwowe Ratownictwo Medycznego na podstawie art. 16 ust. 3 ustawy z dnia 25 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637) plan ten oznacza się jako tekst pierwotny. SPIS TREŚCI
 
 ## CZĘŚĆ I – podlega upublicznieniu ROZDZIAŁ I Zespoły ratownictwa medycznego ROZDZIAŁ II Lotnicze zespoły ratownictwa medycznego ROZDZIAŁ III Szpitalne oddziały ratunkowe ROZDZIAŁ IV Centrum urazowe ROZDZIAŁ V Centrum urazowe dla dzieci ROZDZIAŁ VI Jednostki organizacyjne szpitali wyspecjalizowane w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego ROZDZIAŁ VII Hospitalizacje osób w stanach nagłego zagrożenia zdrowotnego ROZDZIAŁ VIII Sposób koordynacji działań jednostek systemu Państwowe Ratownictwo Medyczne ROZDZIAŁ IX Informacja na temat liczby osób wykonujących zawód medyczny w jednostkach systemu ROZDZIAŁ X Jednostki współpracujące z systemem Państwowe Ratownictwo Medyczne ROZDZIAŁ XI Planowane nowe jednostki systemu Państwowe Ratownictwo Medyczne, centra urazowe, centra urazowe dla dzieci oraz jednostki organizacyjne szpitali wyspecjalizowane w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego ROZDZIAŁ XII Spis aktualizacji wojewódzkiego planu działania systemu Państwowe Ratownictwo Medyczne dla województwa ……… WYKAZ ZAŁĄCZNIKÓW DO CZĘŚCI I: tabele nr 1–20
 

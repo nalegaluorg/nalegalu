@@ -27,12 +27,15 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska we Wrocławiu Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r.
 poz. 1112) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska we Wrocławiu (Dz. U. z 2023 r. poz. 1987) w załączniku do rozporządzenia:
-1) w § 3:
-a) w ust. 1 i 3 wyraz „zastępcy” zastępuje się wyrazem „zastępców”,
-b) w ust. 2 wyraz „Zastępcą” zastępuje się wyrazami „Pierwszym zastępcą”,
-c) ust. 4 otrzymuje brzmienie: „4. W przypadku nieobecności lub czasowej niezdolności do wykonywania obowiązków przez Regionalnego Dyrektora jego funkcję sprawuje wyznaczony przez niego zastępca Regionalnego Dyrektora.”;
-2) w § 4 w ust. 1 pkt 9 otrzymuje brzmienie: „9) samodzielne stanowisko do spraw ochrony danych osobowych;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: P. Hennig-Kloska
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska we Wrocławiu (Dz. U. z 2023 r. poz. 1987) w załączniku do rozporządzenia:
+
+- **1)** w § 3:
+    - **a)** w ust. 1 i 3 wyraz „zastępcy” zastępuje się wyrazem „zastępców”,
+    - **b)** w ust. 2 wyraz „Zastępcą” zastępuje się wyrazami „Pierwszym zastępcą”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. W przypadku nieobecności lub czasowej niezdolności do wykonywania obowiązków przez Regionalnego Dyrektora jego funkcję sprawuje wyznaczony przez niego zastępca Regionalnego Dyrektora.”;
+
+- **2)** w § 4 w ust. 1 pkt 9 otrzymuje brzmienie: „9) samodzielne stanowisko do spraw ochrony danych osobowych;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: P. Hennig-Kloska
 

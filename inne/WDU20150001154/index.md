@@ -31,12 +31,18 @@ source: pdf
 
 - **1)** w art. 3:
     - **a)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Środki Funduszu w latach 2016–2020 przeznacza się na finansowanie lub współfinansowanie przez województwa, zadań w zakresie zakupu, modernizacji oraz napraw pojazdów kolejowych przeznaczonych do przewozów pasażerskich wykonywanych na podstawie umowy o świadczenie usług publicznych, w rozumieniu przepisu art. 4 pkt 19 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2013 r. poz. 1594, z późn. zm. ).”,
-    - **b)** dodaje się ust. 7 i 8 w brzmieniu: „7. Wielkość środków, o których mowa w ust. 4a, w danym roku budżetowym wynosi 110 mln zł. Z tej kwoty 100 mln zł otrzymują województwa zgodnie z zasadami określonymi w ust. 8, natomiast 10 mln zł przypada w równych częściach województwom, które otrzymały przy takim podziale kwotę niższą niż 3 mln zł rocznie. 8. Środki, o których mowa w ust. 4a, będą każdego roku dzielone między województwa zgodnie z udziałem procentowym każdego z nich w łącznej kwocie części wyrównawczej subwencji ogólnej przyznanej województwom w 2015 r. na podstawie art. 24 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2015 r. poz. 513, 789 i 1045).”;
+    - **b)** dodaje się ust. 7 i 8 w brzmieniu:
+
+      > „7. Wielkość środków, o których mowa w ust. 4a, w danym roku budżetowym wynosi 110 mln zł. Z tej kwoty 100 mln zł otrzymują województwa zgodnie z zasadami określonymi w ust. 8, natomiast 10 mln zł przypada w równych częściach województwom, które otrzymały przy takim podziale kwotę niższą niż 3 mln zł rocznie.  
+      > 8. Środki, o których mowa w ust. 4a, będą każdego roku dzielone między województwa zgodnie z udziałem procentowym każdego z nich w łącznej kwocie części wyrównawczej subwencji ogólnej przyznanej województwom w 2015 r. na podstawie art. 24 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2015 r. poz. 513, 789 i 1045).”;  
 
 - **2)** w art. 11a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw transportu informuje pisemnie województwa o tym, w jakiej wysokości środki Funduszu przeznaczy na zadania, o których mowa w art. 3 ust. 4 i 4a, w danym roku budżetowym, do dnia 15 marca roku poprzedzającego dany rok budżetowy.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw transportu zgłasza zastrzeżenia, jeżeli środki nie są przeznaczane na zadania, o których mowa w art. 3 ust. 4 i 4a, do dnia 30 kwietnia roku poprzedzającego dany rok budżetowy.”,
-    - **c)** ust. 5 i 6 otrzymują brzmienie: „5. W przypadku gdy województwo nie uwzględni w planie rzeczowo-finansowym zastrzeżeń, o których mowa w ust. 3, minister właściwy do spraw transportu przyjmuje plan rzeczowo-finansowy z pominięciem wydatków niezgodnych z zadaniami określonymi w art. 3 ust. 4 i 4a, o czym informuje województwo w terminie do dnia 30 maja roku poprzedzającego dany rok budżetowy. 6. Środki niewykorzystane przez województwa w danym roku budżetowym mogą być wykorzystane w latach następnych, jednakże nie później niż w 2021 r. Środki niewykorzystane do końca 2021 r. podlegają zwrotowi na rachunek Funduszu.”.
+    - **c)** ust. 5 i 6 otrzymują brzmienie:
+
+      > „5. W przypadku gdy województwo nie uwzględni w planie rzeczowo-finansowym zastrzeżeń, o których mowa w ust. 3, minister właściwy do spraw transportu przyjmuje plan rzeczowo-finansowy z pominięciem wydatków niezgodnych z zadaniami określonymi w art. 3 ust. 4 i 4a, o czym informuje województwo w terminie do dnia 30 maja roku poprzedzającego dany rok budżetowy.  
+      > 6. Środki niewykorzystane przez województwa w danym roku budżetowym mogą być wykorzystane w latach następnych, jednakże nie później niż w 2021 r. Środki niewykorzystane do końca 2021 r. podlegają zwrotowi na rachunek Funduszu.”.  
 
 **Art. 2.**
 

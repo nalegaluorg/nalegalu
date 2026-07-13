@@ -27,8 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie świadectwa służby funkcjonariuszy Służby Celno-Skarbowej Na podstawie art. 188 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r.
 poz. 422, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 16 lutego 2018 r. w sprawie świadectwa służby funkcjonariuszy Służby Celno-Skarbowej (Dz. U. z 2021 r. poz. 659) w § 3 w ust. 1 pkt 2 otrzymuje brzmienie: „2) zajmowanych stanowiskach służbowych oraz powierzonych pełnionych obowiązkach służbowych na innym stanowisku.”.
-§ 2. Do spraw w zakresie wydania albo sprostowania świadectwa służby wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 16 lutego 2018 r. w sprawie świadectwa służby funkcjonariuszy Służby Celno-Skarbowej (Dz. U. z 2021 r. poz. 659) w § 3 w ust. 1 pkt 2 otrzymuje brzmienie: „2) zajmowanych stanowiskach służbowych oraz powierzonych pełnionych obowiązkach służbowych na innym stanowisku.”.
+
+**§ 2.** Do spraw w zakresie wydania albo sprostowania świadectwa służby wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

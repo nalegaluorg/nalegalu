@@ -27,10 +27,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001245) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1245/text.pdf) |
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło Na podstawie art. 46 ust. 5 i 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 23 grudnia 2021 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. z 2022 r.
-poz. 37) wprowadza się następujące zmiany:
-1) w § 1 w pkt 2 uchyla się lit. b;
-2) w § 2 wyrazy „oraz § 1 pkt 2 lit. b, które wchodzą” zastępuje się wyrazami „ , który wchodzi”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Energii: M. Motyka
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 23 grudnia 2021 r. zmieniającym rozporządzenie w sprawie szczegółowych zasad kształtowania i kalkulacji taryf oraz rozliczeń z tytułu zaopatrzenia w ciepło (Dz. U. z 2022 r. poz. 37) wprowadza się następujące zmiany:
+
+- **1)** w § 1 w pkt 2 uchyla się lit. b;
+- **2)** w § 2 wyrazy „oraz § 1 pkt 2 lit. b, które wchodzą” zastępuje się wyrazami „ , który wchodzi”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Energii: M. Motyka
 

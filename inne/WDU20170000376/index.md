@@ -27,10 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu ustalania zasięgu terytorialnego przejść granicznych Na podstawie art. 16 ust. 3a ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2015 r.
 poz. 930 i 1336 oraz z 2016 r. poz. 904 i 1954) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 sierpnia 2008 r. w sprawie sposobu ustalania zasięgu terytorialnego przejść granicznych (Dz. U. poz. 938) wprowadza się następujące zmiany:
-1) użyte w § 2 w ust. 2, w § 3 w ust. 2, w § 4 w ust. 2, w § 5 w ust. 2 oraz w § 6 w ust. 2 wyrazy „dyrektorem izby celnej” zastępuje się wyrazami „dyrektorem izby administracji skarbowej”;
-2) użyte w § 7 we wprowadzeniu do wyliczenia, w § 8 w ust. 3, w § 9 w ust. 1, w § 10 w ust. 1 oraz w § 11 wyrazy „naczelnika urzędu celnego” zastępuje się wyrazami „naczelnika urzędu celno-skarbowego”;
-3) użyte w § 13 wyrazy „urzędu celnego” zastępuje się wyrazami „urzędu celno-skarbowego”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 sierpnia 2008 r. w sprawie sposobu ustalania zasięgu terytorialnego przejść granicznych (Dz. U. poz. 938) wprowadza się następujące zmiany:
+
+- **1)** użyte w § 2 w ust. 2, w § 3 w ust. 2, w § 4 w ust. 2, w § 5 w ust. 2 oraz w § 6 w ust. 2 wyrazy „dyrektorem izby celnej” zastępuje się wyrazami „dyrektorem izby administracji skarbowej”;
+- **2)** użyte w § 7 we wprowadzeniu do wyliczenia, w § 8 w ust. 3, w § 9 w ust. 1, w § 10 w ust. 1 oraz w § 11 wyrazy „naczelnika urzędu celnego” zastępuje się wyrazami „naczelnika urzędu celno-skarbowego”;
+- **3)** użyte w § 13 wyrazy „urzędu celnego” zastępuje się wyrazami „urzędu celno-skarbowego”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

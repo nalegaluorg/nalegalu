@@ -27,10 +27,11 @@ source: pdf
 
 Poz. 318 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I BUDOWNICTWA z dnia 7 marca 2016 r.
 zmieniające rozporządzenie w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne Na podstawie art. 111 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2015 r. poz. 155, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 maja 2013 r. w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne (Dz. U. z 2014 r.
-poz. 1706) w § 12:
-1) w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „b) kopii dokumentów, o których mowa w art. 109 ust. 1 i 1b ustawy, jeżeli są wymagane,”;
-2) w ust. 3 pkt 1 otrzymuje brzmienie: „1) na podstawie dokumentów, o których mowa w art. 109 ust. 1 ustawy, jeżeli są wymagane – w przypadku osoby ubiegającej się o wydanie zezwolenia;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury i Budownictwa: wz. K. Smoliński
+
+**§ 1.** W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 maja 2013 r. w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne (Dz. U. z 2014 r. poz. 1706) w § 12:
+
+- **1)** w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „b) kopii dokumentów, o których mowa w art. 109 ust. 1 i 1b ustawy, jeżeli są wymagane,”;
+- **2)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) na podstawie dokumentów, o których mowa w art. 109 ust. 1 ustawy, jeżeli są wymagane – w przypadku osoby ubiegającej się o wydanie zezwolenia;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury i Budownictwa: wz. K. Smoliński
 

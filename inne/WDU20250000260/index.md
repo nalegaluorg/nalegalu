@@ -31,11 +31,19 @@ poz. 902), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finan
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 2 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie przedłużenia terminu do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków (Dz. U. poz. 1611), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: A. Domański
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 27 czerwca 2019 r.
 w sprawie przedłużenia terminu do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków Na podstawie art. 50 ustawy z dnia 29 sierpnia 1997 r. ‒ Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111) zarządza się, co następuje:
-§ 1. 1. Przedłuża się termin do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków, o którym mowa w art. 30da ust. 14 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163), do:
-1) 7 dnia miesiąca następującego po miesiącu, w którym podatnik utracił w całości lub w części składnik majątku będący przedmiotem opodatkowania tym podatkiem – w przypadku gdy utrata w całości lub w części tego składnika majątku nastąpiła przed dniem 1 grudnia 2025 r.;
-2) dnia 31 grudnia 2025 r. – w pozostałych przypadkach.
+
+**§ 1.**
+
+1. Przedłuża się termin do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków, o którym mowa w art. 30da ust. 14 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163), do:
+
+- **1)** 7 dnia miesiąca następującego po miesiącu, w którym podatnik utracił w całości lub w części składnik majątku będący przedmiotem opodatkowania tym podatkiem – w przypadku gdy utrata w całości lub w części tego składnika majątku nastąpiła przed dniem 1 grudnia 2025 r.;
+- **2)** dnia 31 grudnia 2025 r. – w pozostałych przypadkach.
+
 2. Przedłużenie terminu stosuje się do podatku należnego od dochodów z niezrealizowanych zysków wynikającego z miesięcznych deklaracji składanych za okresy rozliczeniowe od dnia 1 stycznia 2019 r. do dnia 30 listopada 2025 r.
+
 3. W przypadku gdy podatnik utracił w danym miesiącu część składnika majątku lub część składników majątku, od wartości których należny podatek podlega obliczeniu w jednej z deklaracji, o których mowa w ust. 2, podatek należny wynikający z tej deklaracji jest wpłacany w części ustalonej w takiej proporcji w jakiej dochody z niezrealizowanych zysków ustalone dla tego składnika majątku lub tych składników majątku lub ich części, pozostają do dochodów od wartości składnika majątku lub składników majątku podlegających wykazaniu w tej deklaracji.
+
 4. Przez utratę składnika majątku rozumie się zbycie składnika majątku, realizację praw wynikających z praw pochodnych lub pochodnych instrumentów finansowych lub inne zdarzenie, skutkujące utratą własności lub prawa do składnika majątku.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

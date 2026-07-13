@@ -2119,7 +2119,11 @@ source: pdf
     - **a)** nazwę (firmę) oddziału,
     - **b)** adres oddziału.
 
-2. Do wniosku o dokonanie wpisu do rejestru, o którym mowa w ust. 1, dołącza się oświadczenie następującej treści: „Oświadczam, że: 1) dane zawarte we wniosku są kompletne i zgodne z prawdą; 2) znane mi są i spełniam warunki wykonywania działalności gospodarczej w charakterze biura usług płatniczych, określone w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2016 r. poz. 1572).”.
+2. Do wniosku o dokonanie wpisu do rejestru, o którym mowa w ust. 1, dołącza się oświadczenie następującej treści:
+
+> „Oświadczam, że:  
+> 1) dane zawarte we wniosku są kompletne i zgodne z prawdą;  
+> 2) znane mi są i spełniam warunki wykonywania działalności gospodarczej w charakterze biura usług płatniczych, określone w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2016 r. poz. 1572).”.  
 
 **Art. 123.** Biuro usług płatniczych zawiadamia KNF o zamiarze zakończenia działalności gospodarczej lub działalności w charakterze biura usług płatniczych, wskazując datę zakończenia działalności.
 

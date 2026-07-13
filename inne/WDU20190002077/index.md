@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002077) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2077/text.pdf) |
 
 zmieniające rozporządzenie w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania medycznych zawodów regulowanych Na podstawie art. 22 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2018 r. poz. 2272 oraz z 2019 r. poz. 534 i 577) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 3 marca 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania medycznych zawodów regulowanych (Dz. U. poz. 511) w § 13 w ust. 2 pkt 1 otrzymuje brzmienie: „1) pieczątka, nadruk lub naklejka jednostki ochrony zdrowia, w której odbywa się staż adaptacyjny, zawierające informacje o nazwie, adresie, numerze telefonu, NIP lub REGON;”.
-§ 2. Do dzienników stażu adaptacyjnego wydanych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Cieszyński
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 3 marca 2017 r. w sprawie stażu adaptacyjnego i testu umiejętności w toku postępowania w sprawie uznania kwalifikacji zawodowych do wykonywania medycznych zawodów regulowanych (Dz. U. poz. 511) w § 13 w ust. 2 pkt 1 otrzymuje brzmienie: „1) pieczątka, nadruk lub naklejka jednostki ochrony zdrowia, w której odbywa się staż adaptacyjny, zawierające informacje o nazwie, adresie, numerze telefonu, NIP lub REGON;”.
+
+**§ 2.** Do dzienników stażu adaptacyjnego wydanych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. J. Cieszyński
 

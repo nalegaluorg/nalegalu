@@ -26,20 +26,25 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/903/text.pdf) |
 
 w sprawie sposobu oznakowania jednostek pływających Krajowej administracji skarbowej Na podstawie art. 136 ust. 11 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm. ) zarządza się, co następuje:
-§ 1. 1. Jednostki pływające Krajowej Administracji Skarbowej, zwane dalej „jednostkami pływającymi”, oznakowuje się:
-1) banderą, której wzór określają przepisy ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2016 r. poz. 625 i 1948);
-2) flagą, której wzór jest określony w przepisach wydanych na podstawie art. 9 ust. 3 ustawy z dnia 31 stycznia 1980 r.
-o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych;
-3) nazwą jednostki pływającej w kolorze czarnym umieszczoną na obu burtach w części dziobowej oraz powtórzoną w części rufowej − o wysokości liter i cyfr proporcjonalnej do wielkości jednostki pływającej, w kolorze zielonym na kabinie po obu burtach jednostki pływającej − o długości kadłuba powyżej 6 m;
-4) nazwą portu macierzystego umieszczoną na rufie pod nazwą jednostki pływającej − w kolorze czarnym, o wysokości liter proporcjonalnej do wielkości jednostki pływającej;
-5) napisem „SŁUŻBA CELNO-SKARBOWA” umieszczonym na sygnalizatorze świateł ostrzegawczych oraz na obu burtach jednostki pływającej powyżej górnej krawędzi pasa zmiennego zanurzenia lub na kabinie jednostki pływającej − w kolorze zielonym;
-6) napisem „CUSTOMS” umieszczonym na kabinie po obu burtach jednostki pływającej, poniżej napisu „SŁUŻBA CELNO-SKARBOWA” − w kolorze zielonym;
-7) napisem „CUSTOMS” wraz z nazwą jednostki pływającej umieszczonym na dachu nadbudówki − w kolorze zielonym;
-8) kolorem:
-a) zielonym − nawodną zewnętrzną część kadłuba, o szerokości nie mniejszej niż 20% wysokości burty jednostki pływającej od górnej krawędzi pasa zmiennego zanurzenia, biegnącym pośrodku wzdłuż kadłuba,
-b) białym − kabinę.
+
+**§ 1.**
+
+1. Jednostki pływające Krajowej Administracji Skarbowej, zwane dalej „jednostkami pływającymi”, oznakowuje się:
+
+- **1)** banderą, której wzór określają przepisy ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2016 r. poz. 625 i 1948);
+- **2)** flagą, której wzór jest określony w przepisach wydanych na podstawie art. 9 ust. 3 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych;
+- **3)** nazwą jednostki pływającej w kolorze czarnym umieszczoną na obu burtach w części dziobowej oraz powtórzoną w części rufowej − o wysokości liter i cyfr proporcjonalnej do wielkości jednostki pływającej, w kolorze zielonym na kabinie po obu burtach jednostki pływającej − o długości kadłuba powyżej 6 m;
+- **4)** nazwą portu macierzystego umieszczoną na rufie pod nazwą jednostki pływającej − w kolorze czarnym, o wysokości liter proporcjonalnej do wielkości jednostki pływającej;
+- **5)** napisem „SŁUŻBA CELNO-SKARBOWA” umieszczonym na sygnalizatorze świateł ostrzegawczych oraz na obu burtach jednostki pływającej powyżej górnej krawędzi pasa zmiennego zanurzenia lub na kabinie jednostki pływającej − w kolorze zielonym;
+- **6)** napisem „CUSTOMS” umieszczonym na kabinie po obu burtach jednostki pływającej, poniżej napisu „SŁUŻBA CELNO-SKARBOWA” − w kolorze zielonym;
+- **7)** napisem „CUSTOMS” wraz z nazwą jednostki pływającej umieszczonym na dachu nadbudówki − w kolorze zielonym;
+- **8)** kolorem:
+    - **a)** zielonym − nawodną zewnętrzną część kadłuba, o szerokości nie mniejszej niż 20% wysokości burty jednostki pływającej od górnej krawędzi pasa zmiennego zanurzenia, biegnącym pośrodku wzdłuż kadłuba,
+    - **b)** białym − kabinę.
+
 2. Graficzny sposób oznakowania jednostek pływających określa załącznik do rozporządzenia.
-§ 2. Elementem składowym oznakowania jednostki pływającej jest jej nazwa, która składa się z liter „SCS” oddzielonych poziomą kreską od dwucyfrowego numeru jednostki pływającej.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 2.** Elementem składowym oznakowania jednostki pływającej jest jej nazwa, która składa się z liter „SCS” oddzielonych poziomą kreską od dwucyfrowego numeru jednostki pływającej.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk
 

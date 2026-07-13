@@ -34,17 +34,20 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Edukacji Narod
 2) § 2 rozporządzenia Ministra Edukacji i Nauki z dnia 27 września 2023 r. zmieniającego rozporządzenie w sprawie typów szkół i placówek, w których nie tworzy się samorządu uczniowskiego (Dz. U. poz. 2067), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Edukacji i Nauki: P. Czarnek
 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 26 lipca 2018 r.
 w sprawie typów szkół i placówek, w których nie tworzy się samorządu uczniowskiego Na podstawie art. 85 ust. 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672, 1718 i 2005) zarządza się, co następuje:
-§ 1. Samorządu uczniowskiego nie tworzy się w następujących typach szkół i placówek publicznych prowadzonych przez jednostki samorządu terytorialnego i ministrów:
-1) przedszkolach;
-2) szkołach w podmiotach leczniczych i jednostkach pomocy społecznej;
-3) szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich;
-4) szkołach przy zakładach karnych;
-5) szkołach specjalnych dla dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym;
-6) specjalnych ośrodkach szkolno-wychowawczych i specjalnych ośrodkach wychowawczych dla dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym;
-7) ośrodkach rewalidacyjno-wychowawczych;
-8) szkolnych schroniskach młodzieżowych;
-9) poradniach psychologiczno-pedagogicznych, w tym poradniach specjalistycznych;
-10) centrach kształcenia zawodowego i branżowych centrach umiejętności;
-11) bibliotekach pedagogicznych.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 1.** Samorządu uczniowskiego nie tworzy się w następujących typach szkół i placówek publicznych prowadzonych przez jednostki samorządu terytorialnego i ministrów:
+
+- **1)** przedszkolach;
+- **2)** szkołach w podmiotach leczniczych i jednostkach pomocy społecznej;
+- **3)** szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich;
+- **4)** szkołach przy zakładach karnych;
+- **5)** szkołach specjalnych dla dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym;
+- **6)** specjalnych ośrodkach szkolno-wychowawczych i specjalnych ośrodkach wychowawczych dla dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu umiarkowanym lub znacznym;
+- **7)** ośrodkach rewalidacyjno-wychowawczych;
+- **8)** szkolnych schroniskach młodzieżowych;
+- **9)** poradniach psychologiczno-pedagogicznych, w tym poradniach specjalistycznych;
+- **10)** centrach kształcenia zawodowego i branżowych centrach umiejętności;
+- **11)** bibliotekach pedagogicznych.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

@@ -26,11 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002401) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2401/text.pdf) |
 
 w sprawie ustalenia, zmiany i zniesienia urzędowych nazw niektórych miejscowości oraz obiektów fizjograficznych Na podstawie art. 7 ust. 1 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. poz. 1612 oraz z 2005 r. poz. 141) zarządza się, co następuje:
-§ 1. 1. Ustala się urzędowe nazwy miejscowości zgodnie z wykazem, który jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 1.**
+
+1. Ustala się urzędowe nazwy miejscowości zgodnie z wykazem, który jest określony w załączniku nr 1 do rozporządzenia.
+
 2. Zmienia się urzędowe nazwy miejscowości zgodnie z wykazem, który jest określony w załączniku nr 2 do rozporządzenia.
+
 3. Znosi się urzędowe nazwy miejscowości zgodnie z wykazem, który jest określony w załączniku nr 3 do rozporządzenia.
+
 4. Ustala się urzędowe nazwy obiektów fizjograficznych zgodnie z wykazem, który jest określony w załączniku nr 4 do rozporządzenia.
+
 5. Zmienia się urzędowe nazwy obiektów fizjograficznych zgodnie z wykazem, który jest określony w załączniku nr 5 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Minister Spraw Wewnętrznych i Administracji: wz. S. Chwałek W … M W W W W W W W W W W W W
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. Minister Spraw Wewnętrznych i Administracji: wz. S. Chwałek W … M W W W W W W W W W W W W
 

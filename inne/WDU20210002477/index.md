@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania Na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
 z 2020 r. poz. 849) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania (Dz. U. poz. 666, 1981 i 2350 oraz z 2021 r. poz. 302 i 1468) w § 72 w ust. 3 wyrazy „do dnia 31 grudnia 2021 r.” zastępuje się wyrazami „do dnia 31 grudnia 2022 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 6 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania (Dz. U. poz. 666, 1981 i 2350 oraz z 2021 r. poz. 302 i 1468) w § 72 w ust. 3 wyrazy „do dnia 31 grudnia 2021 r.” zastępuje się wyrazami „do dnia 31 grudnia 2022 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

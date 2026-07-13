@@ -27,14 +27,6 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu przeprowadzania i dokumentowania przez Krajową Administrację Skarbową czynności operacyjno-rozpoznawczych polegających na dokonaniu w sposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także na przyjęciu lub wręczeniu korzyści majątkowej Na podstawie art. 119 ust. 11 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
 poz. 615, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 12 września 2017 r. w sprawie sposobu przeprowadzania i dokumentowania przez Krajową Administrację Skarbową czynności operacyjno-rozpoznawczych polegających na dokonaniu w sposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także na przyjęciu lub wręczeniu korzyści majątkowej (Dz. U. poz. 1850) wprowadza się następujące zmiany:
-1) użyte dwukrotnie w § 5, w § 6 w ust. 1, w § 8, w § 9, w § 11 w ust. 5 oraz w § 13 w ust. 2, w różnym przypadku, wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”;
-2) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
-3) załączniki nr 4 i 5 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 2 i 3 do niniejszego rozporządzenia;
-4) załączniki nr 8−10 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 4–6 do niniejszego rozporządzenia.
-§ 2. W przypadku czynności operacyjno-rozpoznawczych zarządzonych a niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia rejestr, o którym mowa w § 13 ust. 1 rozporządzenia zmienianego w § 1, jest prowadzony zgodnie z wzorem określonym w załączniku nr 9 do rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, przy czym od dnia wejścia w życie niniejszego rozporządzenia w kolumnie 9 tego rejestru dokonuje się wpisów dotyczących Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego.
-§ 3. Rozporządzenie wchodzi w życie z dniem 14 grudnia 2023 r.
-Minister Finansów: wz. S. Skuza Załącznik nr 1 WZÓR DRUKU ZARZĄDZENIA CZYNNOŚCI
 o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.) wnoszę o wyrażenie zgody na ZARZĄDZENIE PROWADZENIA /PRZEDŁUŻENIA /KONTYNUOWANIA na okres …………….. tygodni …………………… miesięcy czynności:
 1) nabycia , zbycia , przejęcia przedmiotów: pochodzących z przestępstwa , ulegających przepadkowi albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione ;
 2) złożenia propozycji nabycia , zbycia , przejęcia przedmiotów, o których mowa w pkt 1;
@@ -56,6 +48,17 @@ _____________________________ WZÓR INFORMACJI SZEFA KRAJOWEJ ADMINISTRACJI SKAR
 …………………………………………………………………………………………………...
 FUNKCJONARIUSZ KIEROWNIK SŁUŻBY CELNO-SKARBOWEJ KOMÓRKI ORGANIZACYJNEJ ODPOWIEDZIALNY ZA PROWADZĄCEJ SPRAWĘ PRZEPROWADZENIE CZYNNOŚCI ……………………………………. …………………………………….
 SZEF KRAJOWEJ ADMINISTRACJI SKARBOWEJ ………………………………..
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 12 września 2017 r. w sprawie sposobu przeprowadzania i dokumentowania przez Krajową Administrację Skarbową czynności operacyjno-rozpoznawczych polegających na dokonaniu w sposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także na przyjęciu lub wręczeniu korzyści majątkowej (Dz. U. poz. 1850) wprowadza się następujące zmiany:
+
+- **1)** użyte dwukrotnie w § 5, w § 6 w ust. 1, w § 8, w § 9, w § 11 w ust. 5 oraz w § 13 w ust. 2, w różnym przypadku, wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”;
+- **2)** załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+- **3)** załączniki nr 4 i 5 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 2 i 3 do niniejszego rozporządzenia;
+- **4)** załączniki nr 8−10 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 4–6 do niniejszego rozporządzenia.
+
+**§ 2.** W przypadku czynności operacyjno-rozpoznawczych zarządzonych a niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia rejestr, o którym mowa w § 13 ust. 1 rozporządzenia zmienianego w § 1, jest prowadzony zgodnie z wzorem określonym w załączniku nr 9 do rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym, przy czym od dnia wejścia w życie niniejszego rozporządzenia w kolumnie 9 tego rejestru dokonuje się wpisów dotyczących Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 14 grudnia 2023 r. Minister Finansów: wz. S. Skuza Załącznik nr 1 WZÓR DRUKU ZARZĄDZENIA CZYNNOŚCI
 
 ## CZĘŚĆ A ……………………… Szef Krajowej Administracji Skarbowej PIERWSZY ZASTĘPCA PROKURATORA GENERALNEGO PROKURATOR KRAJOWY WNIOSEK NR ……………………… Na podstawie art. 119 ust. 3 , 5 , 6 w związku z art. 119 ust. 1 , 2 ustawy z dnia 16 listopada 2016 r.
 

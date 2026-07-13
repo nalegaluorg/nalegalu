@@ -27,8 +27,12 @@ source: pdf
 
 w sprawie wykorzystania w 2013 r. środków Funduszu Rezerwy Demograficznej na uzupełnienie niedoboru funduszu emerytalnego wynikającego z przyczyn demograficznych Na podstawie art. 59 ust. 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r.
 Nr 205, poz. 1585, z późn. zm. ) zarządza się, co następuje:
-§ 1. 1. W 2013 r. zarządza się wykorzystanie środków Funduszu Rezerwy Demograficznej w kwocie 2 500 000 tys. zł na uzupełnienie niedoboru funduszu emerytalnego wynikającego z przyczyn demograficznych.
+
+**§ 1.**
+
+1. W 2013 r. zarządza się wykorzystanie środków Funduszu Rezerwy Demograficznej w kwocie 2 500 000 tys. zł na uzupełnienie niedoboru funduszu emerytalnego wynikającego z przyczyn demograficznych.
+
 2. Kwota określona w ust. 1 może być przekazana do funduszu emerytalnego jednorazowo albo w ratach.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

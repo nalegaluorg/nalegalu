@@ -29,8 +29,16 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 3 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Całkowity albo częściowy ubytek słuchu nie jest przeciwwskazaniem zdrowotnym do uzyskania uprawnienia do kierowania pojazdami ani przesłanką jego cofnięcia – z wyjątkiem: 1) uzyskania prawa jazdy kategorii D1 lub D; 2) uzyskania prawa jazdy kategorii C1 lub C przez osobę, która nie posiada prawa jazdy kategorii B albo posiada je przez okres krótszy niż 2 lata; 3) cofnięcia uprawnień w zakresie prawa jazdy kategorii C lub C1 osobie, która w wyniku nagłego zdarzenia utraciła słuch w stopniu uniemożliwiającym jej rozumienie mowy z odległości jednego metra, w tym przy zastosowaniu aparatów słuchowych lub implantów słuchowych – przez okres roku od tego zdarzenia.”;
-- **2)** w art. 56 dodaje się ust. 7 i 8 w brzmieniu: „7. Na wniosek osoby składającej egzamin, będącej osobą uprawnioną w rozumieniu przepisów ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2017 r. poz. 1824), wojewódzki ośrodek ruchu drogowego zapewnia nieodpłatną pomoc tłumacza języka migowego lub systemu językowo-migowego podczas egzaminu państwowego na prawo jazdy, z wyłączeniem części egzaminu, o której mowa w art. 51 ust. 2 pkt 1. 8. Wojewódzki ośrodek ruchu drogowego stwarza tłumaczowi języka migowego lub systemu językowo-migowego, którego zapewni sobie osoba składająca egzamin, możliwość pomocy tej osobie podczas egzaminu państwowego na prawo jazdy, z wyłączeniem części egzaminu, o której mowa w art. 51 ust. 2 pkt 1.”.
+- **1)** w art. 3 po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+  > „3a. Całkowity albo częściowy ubytek słuchu nie jest przeciwwskazaniem zdrowotnym do uzyskania uprawnienia do kierowania pojazdami ani przesłanką jego cofnięcia – z wyjątkiem:  
+  > 1) uzyskania prawa jazdy kategorii D1 lub D;  
+  > 2) uzyskania prawa jazdy kategorii C1 lub C przez osobę, która nie posiada prawa jazdy kategorii B albo posiada je przez okres krótszy niż 2 lata;  
+  > 3) cofnięcia uprawnień w zakresie prawa jazdy kategorii C lub C1 osobie, która w wyniku nagłego zdarzenia utraciła słuch w stopniu uniemożliwiającym jej rozumienie mowy z odległości jednego metra, w tym przy zastosowaniu aparatów słuchowych lub implantów słuchowych – przez okres roku od tego zdarzenia.”;  
+- **2)** w art. 56 dodaje się ust. 7 i 8 w brzmieniu:
+
+  > „7. Na wniosek osoby składającej egzamin, będącej osobą uprawnioną w rozumieniu przepisów ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się (Dz. U. z 2017 r. poz. 1824), wojewódzki ośrodek ruchu drogowego zapewnia nieodpłatną pomoc tłumacza języka migowego lub systemu językowo-migowego podczas egzaminu państwowego na prawo jazdy, z wyłączeniem części egzaminu, o której mowa w art. 51 ust. 2 pkt 1.  
+  > 8. Wojewódzki ośrodek ruchu drogowego stwarza tłumaczowi języka migowego lub systemu językowo-migowego, którego zapewni sobie osoba składająca egzamin, możliwość pomocy tej osobie podczas egzaminu państwowego na prawo jazdy, z wyłączeniem części egzaminu, o której mowa w art. 51 ust. 2 pkt 1.”.  
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 1 października 2018 r.
 

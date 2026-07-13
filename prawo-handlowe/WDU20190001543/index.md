@@ -29,7 +29,14 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505) wprowadza się następujące zmiany:
 
-- **1)** po art. 234 dodaje się art. 234 w brzmieniu: „Art. 234 . § 1. Umowa spółki może dopuszczać udział w zgromadzeniu wspólników przy wykorzystaniu środków komunikacji elektronicznej, co obejmuje w szczególności: 1) transmisję obrad zgromadzenia wspólników w czasie rzeczywistym; 2) dwustronną komunikację w czasie rzeczywistym, w ramach której wspólnicy mogą wypowiadać się w toku obrad zgromadzenia wspólników, przebywając w miejscu innym niż miejsce obrad zgromadzenia wspólników; 3) wykonywanie osobiście lub przez pełnomocnika prawa głosu przed lub w toku zgromadzenia wspólników. § 2. W przypadku gdy umowa spółki dopuszcza udział w zgromadzeniu wspólników przy wykorzystaniu środków komunikacji elektronicznej, udział wspólników w zgromadzeniu wspólników może podlegać jedynie wymogom i ograniczeniom, które są niezbędne do identyfikacji wspólników i zapewnienia bezpieczeństwa komunikacji elektronicznej.”;
+- **1)** po art. 234 dodaje się art. 234 w brzmieniu:
+
+  > „Art. 234 .  
+  > § 1. Umowa spółki może dopuszczać udział w zgromadzeniu wspólników przy wykorzystaniu środków komunikacji elektronicznej, co obejmuje w szczególności:  
+  > 1) transmisję obrad zgromadzenia wspólników w czasie rzeczywistym;  
+  > 2) dwustronną komunikację w czasie rzeczywistym, w ramach której wspólnicy mogą wypowiadać się w toku obrad zgromadzenia wspólników, przebywając w miejscu innym niż miejsce obrad zgromadzenia wspólników;  
+  > 3) wykonywanie osobiście lub przez pełnomocnika prawa głosu przed lub w toku zgromadzenia wspólników.  
+  > § 2. W przypadku gdy umowa spółki dopuszcza udział w zgromadzeniu wspólników przy wykorzystaniu środków komunikacji elektronicznej, udział wspólników w zgromadzeniu wspólników może podlegać jedynie wymogom i ograniczeniom, które są niezbędne do identyfikacji wspólników i zapewnienia bezpieczeństwa komunikacji elektronicznej.”;  
 - **2)** w art. 248 § 2 otrzymuje brzmienie: „§ 2. W protokole należy stwierdzić prawidłowość zwołania zgromadzenia wspólników i jego zdolność do powzięcia uchwał, wymienić powzięte uchwały, liczbę głosów oddanych za każdą uchwałą i zgłoszone sprzeciwy. Do protokołu należy dołączyć listę obecności z podpisami uczestników zgromadzenia wspólników oraz listę wspólników głosujących przy wykorzystaniu środków komunikacji elektronicznej. Podpisy uczestników zgromadzenia wspólników odbytego w trybie art. 234 nie są wymagane. Dowody zwołania zgromadzenia wspólników zarząd powinien dołączyć do księgi protokołów.”.
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

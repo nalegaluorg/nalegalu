@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego Na podstawie art. 34 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2023 r.
 poz. 1541, 1560 i 1972) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U.
-z 2023 r. poz. 1225 i 1237) w § 15 w pkt 4a wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „30 czerwca 2024 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: I. Leszczyna
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U. z 2023 r. poz. 1225 i 1237) w § 15 w pkt 4a wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „30 czerwca 2024 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: I. Leszczyna
 

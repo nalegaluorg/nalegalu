@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001257) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1257/text.pdf) |
 
 zmieniające rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej Na podstawie art. 76 ust. 10 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080 i 1088) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 1659 oraz z 2023 r. poz. 307) w § 11 pkt 3 otrzymuje brzmienie: „3) uczestniczy w kursach, szkoleniach, warsztatach, odprawach, naradach, konferencjach lub przedsięwzięciach o takim charakterze trwających w sposób ciągły powyżej 8 godzin w jednostkach organizacyjnych i ośrodkach szkolenia Straży Granicznej, w których znajdują się punkty żywienia Straży Granicznej, z wyłączeniem słuchaczy Wyższej Szkoły Straży Granicznej i słuchaczy ośrodków szkolenia Straży Granicznej;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 1659 oraz z 2023 r. poz. 307) w § 11 pkt 3 otrzymuje brzmienie: „3) uczestniczy w kursach, szkoleniach, warsztatach, odprawach, naradach, konferencjach lub przedsięwzięciach o takim charakterze trwających w sposób ciągły powyżej 8 godzin w jednostkach organizacyjnych i ośrodkach szkolenia Straży Granicznej, w których znajdują się punkty żywienia Straży Granicznej, z wyłączeniem słuchaczy Wyższej Szkoły Straży Granicznej i słuchaczy ośrodków szkolenia Straży Granicznej;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

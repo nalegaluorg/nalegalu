@@ -30,9 +30,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 18 września 2012 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Opolu (Dz. U. poz. 1067), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Środowiska: M.H. Grabowski
 roZPorZĄdZEniE ministra Środowiska z dnia 10 listopada 2008 r.
 w sprawie nadania statutu regionalnej dyrekcji ochrony Środowiska w opolu Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm. ) zarządza się, co następuje:
-§ 1. Regionalnej Dyrekcji Ochrony Środowiska w Opolu nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r.
-STATUT REGIONALNEJ DYREKCJI OCHRONY ŚRODOWISKA W OPOLU
+
+**§ 1.** Regionalnej Dyrekcji Ochrony Środowiska w Opolu nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r. STATUT REGIONALNEJ DYREKCJI OCHRONY ŚRODOWISKA W OPOLU
+
+## Załącznik
+
 § 1. Regionalna Dyrekcja Ochrony Środowiska w Opolu, zwana dalej „RDOŚ”, działa na podstawie ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm. ), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. RDOŚ jest urzędem administracji rządowej, obsługującym Regionalnego Dyrektora Ochrony Środowiska w Opolu, zwanego dalej „Regionalnym Dyrektorem”.
 2. RDOŚ jest państwową jednostką budżetową, działającą na obszarze województwa opolskiego.

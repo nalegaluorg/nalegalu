@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/529/text.pdf) |
 
 zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych Na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Energii z dnia 28 sierpnia 2019 r. w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 1830) § 35 otrzymuje brzmienie: „§ 35. Rozporządzenie wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Minister Klimatu: M. Kurtyka
+
+**§ 1.** W rozporządzeniu Ministra Energii z dnia 28 sierpnia 2019 r. w sprawie bezpieczeństwa i higieny pracy przy urządzeniach energetycznych (Dz. U. poz. 1830) § 35 otrzymuje brzmienie: „§ 35. Rozporządzenie wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. Minister Klimatu: M. Kurtyka
 

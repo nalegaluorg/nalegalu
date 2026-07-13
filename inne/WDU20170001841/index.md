@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001841) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1841/text.pdf) |
 
 w sprawie rozciągnięcia przepisów ustawy o organizowaniu i prowadzeniu działalności kulturalnej na działalność kulturalną prowadzoną przez jednostki organizacyjne podległe Ministrowi Sprawiedliwości lub przez niego nadzorowane Na podstawie art. 39 ust. 2 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2017 r. poz. 862) zarządza się, co następuje:
-§ 1. Ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej stosuje się do działalności prowadzonej przez jednostki organizacyjne podległe Ministrowi Sprawiedliwości lub przez niego nadzorowane.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** Ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej stosuje się do działalności prowadzonej przez jednostki organizacyjne podległe Ministrowi Sprawiedliwości lub przez niego nadzorowane.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

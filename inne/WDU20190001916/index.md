@@ -30,23 +30,47 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lipca 2018 r. zmieniającego rozporządzenie w sprawie trybu przekazywania nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa w razie ustanowienia lub wygaśnięcia trwałego zarządu oraz trybu ustalania i wnoszenia opłat (Dz. U. poz. 1396), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: wz. S. Giżyński
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 24 maja 2012 r.
 w sprawie trybu przekazywania nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa w razie ustanowienia lub wygaśnięcia trwałego zarządu oraz trybu ustalania i wnoszenia opłat Na podstawie art. 37 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2019 r. poz. 817 i 1080) zarządza się, co następuje:
-§ 1. 1. Przekazanie w zarząd nieruchomości może nastąpić na wniosek podmiotów wymienionych w art. 34 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, zwanej dalej „ustawą”.
+
+**§ 1.**
+
+1. Przekazanie w zarząd nieruchomości może nastąpić na wniosek podmiotów wymienionych w art. 34 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, zwanej dalej „ustawą”.
+
 2. We wniosku należy wskazać:
-1) oznaczenie nieruchomości według ewidencji gruntów i budynków oraz numer księgi wieczystej albo zbioru dokumentów, jeżeli są prowadzone;
-2) cel, na jaki ma być wykorzystana nieruchomość;
-3) czas trwania zarządu.
+
+- **1)** oznaczenie nieruchomości według ewidencji gruntów i budynków oraz numer księgi wieczystej albo zbioru dokumentów, jeżeli są prowadzone;
+- **2)** cel, na jaki ma być wykorzystana nieruchomość;
+- **3)** czas trwania zarządu.
+
 3. Do wniosku dołącza się:
-1) wypis z ewidencji gruntów i budynków, wyrys z mapy ewidencyjnej nieruchomości oraz odpis księgi wieczystej, jeżeli jest prowadzona, albo zaświadczenie wystawione na podstawie zbioru dokumentów, jeżeli jest prowadzony dla nieruchomości;
-2) wypis z miejscowego planu zagospodarowania przestrzennego lub – w przypadku braku planu – wypis ze studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
-§ 2. 1. Jeżeli przekazanie w zarząd nieruchomości ma nastąpić na podstawie umowy, o której mowa w art. 35 ust. 2 ustawy, zwanej dalej „umową”, jednostki przekazująca i przejmująca składają wspólny wniosek o zgodę na przekazanie nieruchomości w zarząd do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa .
+
+- **1)** wypis z ewidencji gruntów i budynków, wyrys z mapy ewidencyjnej nieruchomości oraz odpis księgi wieczystej, jeżeli jest prowadzona, albo zaświadczenie wystawione na podstawie zbioru dokumentów, jeżeli jest prowadzony dla nieruchomości;
+- **2)** wypis z miejscowego planu zagospodarowania przestrzennego lub – w przypadku braku planu – wypis ze studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
+
+**§ 2.**
+
+1. Jeżeli przekazanie w zarząd nieruchomości ma nastąpić na podstawie umowy, o której mowa w art. 35 ust. 2 ustawy, zwanej dalej „umową”, jednostki przekazująca i przejmująca składają wspólny wniosek o zgodę na przekazanie nieruchomości w zarząd do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa .
+
 2. Wniosek powinien zawierać informacje wymienione w § 1 ust. 2.
+
 3. Do wniosku dołącza się dokumenty wymienione w § 1 ust. 3 oraz projekt umowy.
-§ 3. 1. Wydanie nieruchomości przekazanej w zarząd lub zwrot nieruchomości w przypadku wygaśnięcia zarządu stwierdza się protokołem zdawczo-odbiorczym sporządzonym przez jednostki przekazującą i przejmującą.
+
+**§ 3.**
+
+1. Wydanie nieruchomości przekazanej w zarząd lub zwrot nieruchomości w przypadku wygaśnięcia zarządu stwierdza się protokołem zdawczo-odbiorczym sporządzonym przez jednostki przekazującą i przejmującą.
+
 2. W przypadku likwidacji jednostki sprawującej zarząd zwrotu nieruchomości dokonuje osoba upoważniona do przeprowadzenia likwidacji tej jednostki.
+
 3. Protokół zdawczo-odbiorczy zawiera spis z natury przejmowanych nieruchomości wraz z częściami składowymi, w tym drzewostanów.
-§ 4. Opłatę, o której mowa w art. 35 ust. 3 ustawy, ustala Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa w decyzji.
-§ 5. 1. Opłatę uiszcza się, bez uprzedniego wezwania, na rachunek bankowy Krajowego Ośrodka Wsparcia Rolnictwa .
+
+**§ 4.** Opłatę, o której mowa w art. 35 ust. 3 ustawy, ustala Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa w decyzji.
+
+**§ 5.**
+
+1. Opłatę uiszcza się, bez uprzedniego wezwania, na rachunek bankowy Krajowego Ośrodka Wsparcia Rolnictwa .
+
 2. Obowiązek wnoszenia opłaty powstaje z dniem protokolarnego wydania nieruchomości.
+
 3. W przypadku ustanowienia lub wygaśnięcia zarządu w ciągu roku kalendarzowego opłatę uiszcza się w wysokości proporcjonalnej do czasu jego trwania.
-§ 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 6.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

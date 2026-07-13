@@ -26,10 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1113/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania Na podstawie art. 127 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2016 r. poz. 1897, 1948 i 1955 oraz z 2017 r. poz. 60 i 768) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 11 kwietnia 2003 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania (Dz. U.
-poz. 622) wprowadza się następujące zmiany:
-1) w § 33 ust. 1 otrzymuje brzmienie: „1. Należności, o których mowa w § 25–32, wypłaca, na wniosek złożony przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej, jednostka organizacyjna, do której funkcjonariusz został przeniesiony. Należności te wypłaca się w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.”;
-2) § 39 otrzymuje brzmienie: „§ 39. Należności, o których mowa w § 37 i § 38, wypłaca się funkcjonariuszowi w jednostce organizacyjnej, do której został czasowo delegowany, w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 11 kwietnia 2003 r. w sprawie świadczeń przysługujących funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 622) wprowadza się następujące zmiany:
+
+- **1)** w § 33 ust. 1 otrzymuje brzmienie: „1. Należności, o których mowa w § 25–32, wypłaca, na wniosek złożony przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej, jednostka organizacyjna, do której funkcjonariusz został przeniesiony. Należności te wypłaca się w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.”;
+- **2)** § 39 otrzymuje brzmienie: „§ 39. Należności, o których mowa w § 37 i § 38, wypłaca się funkcjonariuszowi w jednostce organizacyjnej, do której został czasowo delegowany, w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -26,12 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002308) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2308/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek Na podstawie art. 29 ust. 3 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2020 r. poz. 2134) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 9 października 2008 r. w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. z 2015 r. poz. 967), wprowadza się następujące zmiany:
-1) w § 3:
-a) w pkt 2: – lit. e otrzymuje brzmienie: „e) raportu z badania pośmiertnego wykonanego w ramach sekcji sądowo-lekarskiej lub sekcji anatomopatologicznej,”, – w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „h) wyniku badań dodatkowych, w tym badań laboratoryjnych, obrazowych, histopatologicznych, mikrobiologicznych oraz otwarcia jam ciała wykonanych na wniosek banku tkanek i komórek;”,
-b) w pkt 3 lit. j otrzymuje brzmienie: „j) dodatniego wywiadu w kierunku, cech klinicznych lub wyników laboratoryjnych świadczących o zakażeniu wirusem HIV, ostrym lub przewlekłym zapaleniu wątroby wywołanym przez wirusa HBV, zapaleniu wątroby wywołanym przez wirusa HCV, zakażeniu wirusem HTLV I/II lub zakażeniu wirusem SARS-CoV-2,”,
-c) w pkt 5 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „f) wykonanie testów w kierunku zakażenia wirusem SARS-CoV-2, w szczególności testu RT-PCR lub testu antygenowego w przypadku przebywania dawcy w okresie 28 dni poprzedzających donację na obszarze, na którym ogłoszono stan zagrożenia epidemicznego, stan epidemii lub podobny w związku z zakażeniami wirusem SARS-CoV-2;”;
-2) w § 7 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) warunkowej dystrybucji tkanek lub komórek przed otrzymaniem wyniku testu w kierunku zakażenia wirusem SARS-CoV-2 w przypadku pilnego wskazania, za wyłączną, potwierdzoną pisemnie zgodą lekarza przeszczepiającego lub stosującego na wykorzystanie tkanki lub komórek o nieznanym statusie dotyczącym ich bezpieczeństwa i jakości, i po uzyskaniu pisemnej zgody pacjenta na wykorzystanie do przeszczepienia lub zastosowania tkanki lub komórek z niezakończonym procesem kwalifikacji do przeszczepienia.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 9 października 2008 r. w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. z 2015 r. poz. 967), wprowadza się następujące zmiany:
+
+- **1)** w § 3:
+    - **a)** w pkt 2: – lit. e otrzymuje brzmienie: „e) raportu z badania pośmiertnego wykonanego w ramach sekcji sądowo-lekarskiej lub sekcji anatomopatologicznej,”, – w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „h) wyniku badań dodatkowych, w tym badań laboratoryjnych, obrazowych, histopatologicznych, mikrobiologicznych oraz otwarcia jam ciała wykonanych na wniosek banku tkanek i komórek;”,
+    - **b)** w pkt 3 lit. j otrzymuje brzmienie: „j) dodatniego wywiadu w kierunku, cech klinicznych lub wyników laboratoryjnych świadczących o zakażeniu wirusem HIV, ostrym lub przewlekłym zapaleniu wątroby wywołanym przez wirusa HBV, zapaleniu wątroby wywołanym przez wirusa HCV, zakażeniu wirusem HTLV I/II lub zakażeniu wirusem SARS-CoV-2,”,
+    - **c)** w pkt 5 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „f) wykonanie testów w kierunku zakażenia wirusem SARS-CoV-2, w szczególności testu RT-PCR lub testu antygenowego w przypadku przebywania dawcy w okresie 28 dni poprzedzających donację na obszarze, na którym ogłoszono stan zagrożenia epidemicznego, stan epidemii lub podobny w związku z zakażeniami wirusem SARS-CoV-2;”;
+
+- **2)** w § 7 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) warunkowej dystrybucji tkanek lub komórek przed otrzymaniem wyniku testu w kierunku zakażenia wirusem SARS-CoV-2 w przypadku pilnego wskazania, za wyłączną, potwierdzoną pisemnie zgodą lekarza przeszczepiającego lub stosującego na wykorzystanie tkanki lub komórek o nieznanym statusie dotyczącym ich bezpieczeństwa i jakości, i po uzyskaniu pisemnej zgody pacjenta na wykorzystanie do przeszczepienia lub zastosowania tkanki lub komórek z niezakończonym procesem kwalifikacji do przeszczepienia.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski
 

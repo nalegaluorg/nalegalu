@@ -26,11 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1243/text.pdf) |
 
 zmieniające rozporządzenie w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych Na podstawie art. 15zzg ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 7 kwietnia 2020 r. w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 622) wprowadza się następujące zmiany:
-1) w § 1 po pkt 19 dodaje się pkt 19a w brzmieniu: „19a) rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 września 2017 r. w sprawie sposobu, szczegółowego zakresu i terminów przekazywania do Narodowego Banku Polskiego danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego (Dz. U. z 2020 r.
-poz. 229);”;
-2) po § 20 dodaje się § 20a w brzmieniu: „§ 20a. Termin określony w § 29 ust. 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 września 2017 r.
-w sprawie sposobu, szczegółowego zakresu i terminów przekazywania do Narodowego Banku Polskiego danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego w zakresie raportu sprawozdawczego zawierającego dane zagregowane, o których mowa w § 29 ust. 1 tego rozporządzenia, za rok 2019, przedłuża się do dnia 30 września 2020 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 7 kwietnia 2020 r. w sprawie określenia innych terminów wykonania niektórych obowiązków sprawozdawczych i informacyjnych (Dz. U. poz. 622) wprowadza się następujące zmiany:
+
+- **1)** w § 1 po pkt 19 dodaje się pkt 19a w brzmieniu: „19a) rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 września 2017 r. w sprawie sposobu, szczegółowego zakresu i terminów przekazywania do Narodowego Banku Polskiego danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego (Dz. U. z 2020 r. poz. 229);”;
+- **2)** po § 20 dodaje się § 20a w brzmieniu: „§ 20a. Termin określony w § 29 ust. 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 21 września 2017 r. w sprawie sposobu, szczegółowego zakresu i terminów przekazywania do Narodowego Banku Polskiego danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego w zakresie raportu sprawozdawczego zawierającego dane zagregowane, o których mowa w § 29 ust. 1 tego rozporządzenia, za rok 2019, przedłuża się do dnia 30 września 2020 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: T. Kościński
 

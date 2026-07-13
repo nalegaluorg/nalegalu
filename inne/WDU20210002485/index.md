@@ -28,12 +28,19 @@ source: pdf
 
 w sprawie przesyłania wniosku o wydanie opinii o stosowaniu preferencji w zakresie podatku dochodowego od osób prawnych Na podstawie art. 26b ust. 11 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U.
 z 2021 r. poz. 1800, 1927, 2105, 2106, 2269 i 2427) zarządza się, co następuje:
-§ 1. Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej wniosku o wydanie opinii o stosowaniu preferencji, o którym mowa w art. 26b ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, zwanego dalej „wnioskiem”.
-§ 2. 1. Wniosek jest przesyłany za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+**§ 1.** Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej wniosku o wydanie opinii o stosowaniu preferencji, o którym mowa w art. 26b ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, zwanego dalej „wnioskiem”.
+
+**§ 2.**
+
+1. Wniosek jest przesyłany za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
 2. Dowodem złożenia wniosku jest urzędowe poświadczenie odbioru, wydane przez elektroniczną skrzynkę podawczą systemu teleinformatycznego administracji skarbowej po przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych i podpisu elektronicznego, które:
-1) zapewnia integralność przekazanego wniosku zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070);
-2) zawiera datę i godzinę przekazania wniosku.
+
+- **1)** zapewnia integralność przekazanego wniosku zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070);
+- **2)** zawiera datę i godzinę przekazania wniosku.
+
 3. Struktura logiczna urzędowego poświadczenia odbioru wniosku jest udostępniana w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Minister Finansów: wz. S. Skuza
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. Minister Finansów: wz. S. Skuza
 

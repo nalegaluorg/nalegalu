@@ -35,9 +35,16 @@ source: pdf
     - **b)** w pkt 10 w lit. d w art. 100b w ust. 4 pkt 7 otrzymuje brzmienie: „7) odpowiednio marszałek województwa lub Szef Inspektoratu Wsparcia Sił Zbrojnych, zgodnie z przepisami o przewozie towarów niebezpiecznych – w zakresie, o którym mowa w ust. 1 pkt 12;”;
 
 - **2)** uchyla się art. 135;
-- **3)** w art. 136 ust. 3 i 4 otrzymują brzmienie: „3. Przekaz informacji dotyczących naruszeń popełnionych przed dniem 19 stycznia 2013 r. następuje według stanu prawnego na dzień popełnienia naruszenia. 4. Kopie wpisów dotyczących naruszeń popełnionych przed dniem 19 stycznia 2013 r. zgromadzonych przez Policję w ewidencji kierowców naruszających przepisy ruchu drogowego, o której mowa w art. 130 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, przenosi się do centralnej ewidencji kierowców.”;
+- **3)** w art. 136 ust. 3 i 4 otrzymują brzmienie:
+
+  > „3. Przekaz informacji dotyczących naruszeń popełnionych przed dniem 19 stycznia 2013 r. następuje według stanu prawnego na dzień popełnienia naruszenia.  
+  > 4. Kopie wpisów dotyczących naruszeń popełnionych przed dniem 19 stycznia 2013 r. zgromadzonych przez Policję w ewidencji kierowców naruszających przepisy ruchu drogowego, o której mowa w art. 130 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, przenosi się do centralnej ewidencji kierowców.”;  
 - **4)** art. 137 otrzymuje brzmienie: „Art. 137. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 80d ust. 7, art. 88 ust. 7, art. 94 ust. 4, art. 100 ust. 2, art. 115, art. 115l, art. 123, art. 125 oraz art. 127 ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnień określonych w niniejszej ustawie, nie dłużej jednak niż przez okres 18 miesięcy od dnia wejścia w życie ustawy.”;
-- **5)** art. 139 otrzymuje brzmienie: „Art. 139. Ustawa wchodzi w życie z dniem 19 stycznia 2013 r., z wyjątkiem: 1) art. 125 pkt 9, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia; 2) art. 110, który wchodzi w życie po upływie 2 lat od dnia ogłoszenia.”.
+- **5)** art. 139 otrzymuje brzmienie:
+
+  > „Art. 139. Ustawa wchodzi w życie z dniem 19 stycznia 2013 r., z wyjątkiem:  
+  > 1) art. 125 pkt 9, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;  
+  > 2) art. 110, który wchodzi w życie po upływie 2 lat od dnia ogłoszenia.”.  
 
 **Art. 2.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) wprowadza się następujące zmiany:
 

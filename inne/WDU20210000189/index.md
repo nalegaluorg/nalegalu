@@ -27,9 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie opłat za czynności związane z wydawaniem i doręczaniem paszportów bydła lub ich duplikatów Na podstawie art. 19 ust. 8 ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U.
 z 2020 r. poz. 2001 oraz z 2021 r. poz. 36) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 1 czerwca 2016 r. w sprawie opłat za czynności związane z wydawaniem i doręczaniem paszportów bydła lub ich duplikatów (Dz. U. poz. 809) w § 2 ust. 1 otrzymuje brzmienie: „1. Opłata za czynności, o których mowa w § 1 pkt 1:
-1) lit. a, wynosi 1,00 zł;
-2) lit. b, wynosi 2,00 zł.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: G. Puda
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 1 czerwca 2016 r. w sprawie opłat za czynności związane z wydawaniem i doręczaniem paszportów bydła lub ich duplikatów (Dz. U. poz. 809) w § 2 ust. 1 otrzymuje brzmienie: „1. Opłata za czynności, o których mowa w § 1 pkt 1: 1) lit. a, wynosi 1,00 zł; 2) lit. b, wynosi 2,00 zł.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: G. Puda
 

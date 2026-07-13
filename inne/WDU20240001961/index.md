@@ -31,7 +31,12 @@ source: pdf
 
 - **1)** w art. 26a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Pracodawcy przysługuje ze środków Funduszu miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, o ile pracownik ten został ujęty w ewidencji zatrudnionych osób niepełnosprawnych, o której mowa w art. 26b ust. 1. Miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, zwane dalej „miesięcznym dofinansowaniem”, przysługuje w kwocie: 1) 2760 zł – w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności; 2) 1550 zł – w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności; 3) 575 zł – w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności.”,
-    - **b)** ust. 1b otrzymuje brzmienie: „1b. Kwoty, o których mowa w ust. 1, w odniesieniu do osób niepełnosprawnych, którym orzeczono chorobę psychiczną, upośledzenie umysłowe, całościowe zaburzenia rozwojowe lub epilepsję oraz niewidomych, zwiększa się o: 1) 1380 zł w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności; 2) 1035 zł w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności; 3) 690 zł w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności.”;
+    - **b)** ust. 1b otrzymuje brzmienie:
+
+      > „1b. Kwoty, o których mowa w ust. 1, w odniesieniu do osób niepełnosprawnych, którym orzeczono chorobę psychiczną, upośledzenie umysłowe, całościowe zaburzenia rozwojowe lub epilepsję oraz niewidomych, zwiększa się o:  
+      > 1) 1380 zł w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności;  
+      > 2) 1035 zł w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności;  
+      > 3) 690 zł w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności.”;  
 
 - **2)** w art. 46a w ust. 1 pkt 1 otrzymuje brzmienie: „1) na zadanie, o którym mowa w art. 26a – w wysokości do 30 % środków zaplanowanych na realizację tego zadania na dany rok;”.
 

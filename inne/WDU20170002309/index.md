@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2016 r. poz. 2134, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju (Dz. U. poz. 288) w załączniku do rozporządzenia w § 2:
-1) po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) Zespół do spraw Badań Naukowych i Obszarów Natura 2000;”;
-2) uchyla się pkt 6 i 7.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Środowiska: J. Szyszko
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju (Dz. U. poz. 288) w załączniku do rozporządzenia w § 2:
+
+- **1)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) Zespół do spraw Badań Naukowych i Obszarów Natura 2000;”;
+- **2)** uchyla się pkt 6 i 7.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Środowiska: J. Szyszko
 

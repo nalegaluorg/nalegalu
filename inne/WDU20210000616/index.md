@@ -30,7 +30,10 @@ source: pdf
 **Art. 1.** W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, 2112 i 2401 oraz z 2021 r. poz. 159, 180 i 255) w art. 21c:
 
 - **1)** w ust. 1 wyrazy „lekarskim badaniem kwalifikacyjnym w celu wykluczenia przeciwwskazań do jego wykonania” zastępuje się wyrazami „badaniem kwalifikacyjnym w celu wykluczenia przeciwwskazań do jego wykonania przeprowadzanym przez lekarza lub osobę posiadającą kwalifikacje określone w przepisach wydanych na podstawie ust. 5”;
-- **2)** ust. 5 otrzymuje brzmienie: „5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia: 1) kwalifikacje osób przeprowadzających badanie kwalifikacyjne, o których mowa w ust. 1, 2) kwalifikacje osób przeprowadzających szczepienia ochronne przeciwko COVID-19, o których mowa w ust. 2 pkt 2 – uwzględniając konieczność zapewnienia bezpieczeństwa osób poddanych tym szczepieniom.”.
+- **2)** ust. 5 otrzymuje brzmienie:
+
+  > „5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:  
+  > 1) kwalifikacje osób przeprowadzających badanie kwalifikacyjne, o których mowa w ust. 1, 2) kwalifikacje osób przeprowadzających szczepienia ochronne przeciwko COVID-19, o których mowa w ust. 2 pkt 2 – uwzględniając konieczność zapewnienia bezpieczeństwa osób poddanych tym szczepieniom.”.  
 
 **Art. 2.**
 

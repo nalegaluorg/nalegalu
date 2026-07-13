@@ -39,10 +39,21 @@ source: pdf
 - **1)** użyte w art. 15 ust. 1 pkt 5 i 6, art. 24 ust. 3 i 11 oraz art. 34 ust. 2 i ust. 5 pkt 2 w różnych przypadkach wyrazy „lotnicze służby ratownicze” zastępuje się użytymi w odpowiednich przypadkach wyrazami „lotnicze pogotowie ratunkowe”;
 - **2)** w art. 44:
     - **a)** w ust. 1 wyrazy „ust. 2” zastępuje się wyrazami „ust. 2 i 4”,
-    - **b)** dodaje się ust. 4 i 5 w brzmieniu: „4. W roku 2003 podstawę decyzji wojewody o włączeniu jednostki do systemu stanowi wojewódzki plan zabezpieczenia medycznych działań ratowniczych, sporządzony przez właściwego wojewodę i zatwierdzony przez ministra właściwego do spraw zdrowia. 5. Plan, o którym mowa w ust. 4, stanowi również podstawę do planowania środków na finansowanie działalności bieżącej centrów powiadamiania ratunkowego w roku 2003.”;
+    - **b)** dodaje się ust. 4 i 5 w brzmieniu:
 
-- **3)** po art. 44 dodaje się art. 44a w brzmieniu: „Art. 44a. 1. W roku 2002 jednostki lotniczego pogotowia ratunkowego są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia. 2. Finansowanie, o którym mowa w ust. 1, odbywa się na podstawie umowy między ministrem właściwym do spraw zdrowia i jednostką lotniczego pogotowia ratunkowego. 3. Do umowy, o której mowa w ust. 2, nie stosuje się przepisów o zamówieniach publicznych.”;
-- **4)** art. 45 otrzymuje brzmienie: „Art. 45. Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z tym że: 1) art. 3, art. 22-24 i art. 44 wchodzą w życie z dniem 1 lipca 2002 r., 2) art. 35, art. 39 pkt 2, art. 41 i 44a wchodzą w życie z dniem 1 stycznia 2002 r., 3) art. 34 ust. 5 w części dotyczącej uwzględnienia wysokości środków, które dysponenci jednostek i zespołów ratownictwa medycznego uzyskują z kas chorych, wchodzi w życie z dniem 1 stycznia 2004 r.”.
+      > „4. W roku 2003 podstawę decyzji wojewody o włączeniu jednostki do systemu stanowi wojewódzki plan zabezpieczenia medycznych działań ratowniczych, sporządzony przez właściwego wojewodę i zatwierdzony przez ministra właściwego do spraw zdrowia.  
+      > 5. Plan, o którym mowa w ust. 4, stanowi również podstawę do planowania środków na finansowanie działalności bieżącej centrów powiadamiania ratunkowego w roku 2003.”;  
+
+- **3)** po art. 44 dodaje się art. 44a w brzmieniu:
+
+  > „Art. 44a.  
+  > 1. W roku 2002 jednostki lotniczego pogotowia ratunkowego są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.  
+  > 2. Finansowanie, o którym mowa w ust. 1, odbywa się na podstawie umowy między ministrem właściwym do spraw zdrowia i jednostką lotniczego pogotowia ratunkowego.  
+  > 3. Do umowy, o której mowa w ust. 2, nie stosuje się przepisów o zamówieniach publicznych.”;  
+- **4)** art. 45 otrzymuje brzmienie:
+
+  > „Art. 45. Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z tym że:  
+  > 1) art. 3, art. 22-24 i art. 44 wchodzą w życie z dniem 1 lipca 2002 r., 2) art. 35, art. 39 pkt 2, art. 41 i 44a wchodzą w życie z dniem 1 stycznia 2002 r., 3) art. 34 ust. 5 w części dotyczącej uwzględnienia wysokości środków, które dysponenci jednostek i zespołów ratownictwa medycznego uzyskują z kas chorych, wchodzi w życie z dniem 1 stycznia 2004 r.”.  
 
 **Art. 6.** W ustawie z dnia 6 września 2001 r. - Przepisy wprowadzające ustawę - Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz.U. Nr 126, poz. 1382) wprowadza się następujące zmiany:
 
@@ -50,7 +61,10 @@ source: pdf
 - **2)** art. 3 otrzymuje brzmienie: „Art. 3. Do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej podmiot odpowiedzialny nie jest zobowiązany do przedstawienia wyników badań toksykologicznych, farmakologicznych i klinicznych jeżeli wykaże, że produkt leczniczy jest odpowiednikiem gotowego oryginalnego produktu leczniczego dopuszczonego do obrotu w Rzeczypospolitej Polskiej, a od daty wprowadzenia do obrotu na terytorium Rzeczypospolitej Polskiej albo za granicą gotowego oryginalnego produktu leczniczego upłynął okres nie krótszy niż 3 lata.”;
 - **3)** w art. 14 w ust. 1 wyrazy „przed dniem 1 stycznia 2002 r.” zastępuje się wyrazami „przed dniem 1 kwietnia 2002 r.”;
 - **4)** po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. Pierwsze zestawienia, o których mowa w art. 4 ust. 6 Prawa farmaceutycznego, hurtownie farmaceutyczne przekazują za okres pierwszego kwartału 2002 r.”;
-- **5)** art. 28 otrzymuje brzmienie: „Art. 28. Ustawa wchodzi w życie z dniem 1 kwietnia 2002 r., z wyjątkiem: 1) art. 11 pkt 2 i 3 niniejszej ustawy, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia, 2) art. 4 i 116 Prawa farmaceutycznego, które wchodzą w życie z dniem 31 grudnia 2001 r.”.
+- **5)** art. 28 otrzymuje brzmienie:
+
+  > „Art. 28. Ustawa wchodzi w życie z dniem 1 kwietnia 2002 r., z wyjątkiem:  
+  > 1) art. 11 pkt 2 i 3 niniejszej ustawy, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia, 2) art. 4 i 116 Prawa farmaceutycznego, które wchodzą w życie z dniem 31 grudnia 2001 r.”.  
 
 **Art. 7.** W ustawie z dnia 6 września 2001 r. o zmianie ustawy o zawodzie lekarza oraz o zmianie innych ustaw (Dz.U. Nr 126, poz. 1383) w art. 1 skreśla się pkt 12.
 

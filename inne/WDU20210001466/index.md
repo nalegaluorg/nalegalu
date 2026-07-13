@@ -26,16 +26,24 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001466) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1466/text.pdf) |
 
 w sprawie form współpracy straży gminnej z Policją oraz sposobu informowania wojewody o tej współpracy Na podstawie art. 9 ust. 7 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2019 r. poz. 1795 oraz z 2020 r. poz. 2112) zarządza się, co następuje:
-§ 1. 1. Komendanci straży gminnej i komendanci jednostek organizacyjnych Policji realizują współpracę, o której mowa w art. 9 ust. 5 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych, w szczególności przez:
-1) organizowanie okresowych spotkań w celu dokonania ocen zagrożenia bezpieczeństwa ludzi i mienia, spokoju i porządku publicznego, a także wytyczania wspólnych zadań;
-2) wzajemne, bieżące konsultacje w zakresie wykonywanych zadań;
-3) organizowanie odpraw w razie konieczności podjęcia wspólnych zadań;
-4) wyznaczenie strażników gminnych i policjantów do utrzymywania bieżących kontaktów.
+
+**§ 1.**
+
+1. Komendanci straży gminnej i komendanci jednostek organizacyjnych Policji realizują współpracę, o której mowa w art. 9 ust. 5 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych, w szczególności przez:
+
+- **1)** organizowanie okresowych spotkań w celu dokonania ocen zagrożenia bezpieczeństwa ludzi i mienia, spokoju i porządku publicznego, a także wytyczania wspólnych zadań;
+- **2)** wzajemne, bieżące konsultacje w zakresie wykonywanych zadań;
+- **3)** organizowanie odpraw w razie konieczności podjęcia wspólnych zadań;
+- **4)** wyznaczenie strażników gminnych i policjantów do utrzymywania bieżących kontaktów.
+
 2. Spotkania, o których mowa w ust. 1 pkt 1, powinny odbywać się nie rzadziej niż raz na kwartał.
-§ 2. Właściwy terytorialnie komendant Policji realizuje współpracę ze strażą gminną, poza formami określonymi w § 1, również przez:
-1) udzielenie wsparcia w czynnościach, w których siły straży gminnej są niewystarczające;
-2) zapewnienie, na wniosek wójta, burmistrza (prezydenta miasta) lub komendanta straży gminnej, kadry do przeprowadzenia szkolenia podstawowego lub szkoleń specjalistycznych strażników gminnych.
-§ 3. Komendanci straży gminnych oraz właściwi terytorialnie komendanci Policji przekazują właściwemu terytorialnie komendantowi wojewódzkiemu (Stołecznemu) Policji do dnia 31 stycznia każdego roku wspólne informacje o współpracy między tymi formacjami. Zbiorcze informacje z obszaru województwa komendant wojewódzki Policji składa do końca lutego każdego roku wojewodzie.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 2.** Właściwy terytorialnie komendant Policji realizuje współpracę ze strażą gminną, poza formami określonymi w § 1, również przez:
+
+- **1)** udzielenie wsparcia w czynnościach, w których siły straży gminnej są niewystarczające;
+- **2)** zapewnienie, na wniosek wójta, burmistrza (prezydenta miasta) lub komendanta straży gminnej, kadry do przeprowadzenia szkolenia podstawowego lub szkoleń specjalistycznych strażników gminnych.
+
+**§ 3.** Komendanci straży gminnych oraz właściwi terytorialnie komendanci Policji przekazują właściwemu terytorialnie komendantowi wojewódzkiemu (Stołecznemu) Policji do dnia 31 stycznia każdego roku wspólne informacje o współpracy między tymi formacjami. Zbiorcze informacje z obszaru województwa komendant wojewódzki Policji składa do końca lutego każdego roku wojewodzie.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

@@ -27,65 +27,6 @@ source: pdf
 
 w sprawie określenia wzorów urzędowych formularzy wniosków o wpis do Krajowego Rejestru Sądowego oraz sposobu i miejsca ich udostępniania Na podstawie art. 19 ust. 11 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2021 r.
 poz. 112 oraz z 2020 r. poz. 2320) zarządza się, co następuje:
-§ 1. Ustala się następujące wzory urzędowych formularzy:
-1) wzór formularza wniosku o rejestrację podmiotu w Krajowym Rejestrze Sądowym – fundacja, stowarzyszenie, inna organizacja społeczna lub zawodowa, oznaczonego symbolem KRS-W20, stanowiący załącznik nr 1 do rozporządzenia;
-2) wzór formularza wniosku o rejestrację podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – samodzielny publiczny zakład opieki zdrowotnej, oznaczonego symbolem KRS-W22, stanowiący załącznik nr 2 do rozporządzenia;
-3) wzór formularza wniosku o zmianę danych podmiotu w Krajowym Rejestrze Sądowym – fundacja, stowarzyszenie, inna organizacja społeczna lub zawodowa, oznaczonego symbolem KRS-Z20, stanowiący załącznik nr 3 do rozporządzenia;
-4) wzór formularza wniosku o zmianę danych podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – samodzielny publiczny zakład opieki zdrowotnej, oznaczonego symbolem KRS-Z22, stanowiący załącznik nr 4 do rozporządzenia;
-5) wzór formularza wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – zaległość podatkowa, celna, na rzecz ZUS, oznaczonego symbolem KRS-Z40, stanowiący załącznik nr 5 do rozporządzenia;
-6) wzór formularza wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – wierzytelność, oznaczonego symbolem KRS-Z41, stanowiący załącznik nr 6 do rozporządzenia;
-7) wzór formularza wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – wierzyciel – zmiana, oznaczonego symbolem KRS-Z42, stanowiący załącznik nr 7 do rozporządzenia;
-8) wzór formularza wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – likwidacja, rozwiązanie/unieważnienie, oznaczonego symbolem KRS-Z61, stanowiący załącznik nr 8 do rozporządzenia;
-9) wzór formularza wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – zarząd komisaryczny, zarząd przymusowy, przedstawiciel do prowadzenia bieżących spraw stowarzyszenia, oznaczonego symbolem KRS-Z63, stanowiący załącznik nr 9 do rozporządzenia;
-10) wzór formularza wniosku o wykreślenie podmiotu z Krajowego Rejestru Sądowego, oznaczonego symbolem KRS-X2, stanowiący załącznik nr 10 do rozporządzenia;
-11) wzór formularza załącznika do wniosku o rejestrację podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – oddziały, terenowe jednostki organizacyjne, oznaczonego symbolem KRS-WA, stanowiący załącznik nr 11 do rozporządzenia;
-12) wzór formularza załącznika do wniosku o rejestrację podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – założyciele, oznaczonego symbolem KRS-WF, stanowiący załącznik nr 12 do rozporządzenia;
-13) wzór formularza załącznika do wniosku o rejestrację podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – sposób powstania podmiotu, oznaczonego symbolem KRS-WH, stanowiący załącznik nr 13 do rozporządzenia;
-14) wzór formularza załącznika do wniosku o rejestrację lub o zmianę danych podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – organy podmiotu, oznaczonego symbolem KRS-WK, stanowiący załącznik nr 14 do rozporządzenia;
-15) wzór formularza załącznika do wniosku o zmianę danych w Krajowym Rejestrze Sądowym – zmiana – oddziały, terenowe jednostki organizacyjne, oznaczonego symbolem KRS-ZA, stanowiący załącznik nr 15 do rozporządzenia;
-16) wzór formularza załącznika do wniosku o zmianę danych w Krajowym Rejestrze Sądowym – zmiana – organy podmiotu, oznaczonego symbolem KRS-ZK, stanowiący załącznik nr 16 do rozporządzenia;
-17) wzór formularza załącznika do wniosku o zmianę danych w Krajowym Rejestrze Sądowym – zmiana – połączenie, podział, przekształcenie, oznaczonego symbolem KRS-ZS, stanowiący załącznik nr 17 do rozporządzenia;
-18) wzór formularza załącznika do wniosku o zmianę danych w Krajowym Rejestrze Sądowym – numer identyfikacyjny REGON, NIP, oznaczonego symbolem KRS-ZY, stanowiący załącznik nr 18 do rozporządzenia;
-19) wzór formularza załącznika do wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – wierzyciele, oznaczonego symbolem KRS-ZP, stanowiący załącznik nr 19 do rozporządzenia;
-20) wzór formularza załącznika do wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – likwidator, zarządca, oznaczonego symbolem KRS-ZR, stanowiący załącznik nr 20 do rozporządzenia;
-21) wzór formularza wniosku o rejestrację podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – organizacja pożytku publicznego, oznaczonego symbolem KRS-W21, stanowiący załącznik nr 21 do rozporządzenia;
-22) wzór formularza wniosku o zmianę danych podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – organizacja pożytku publicznego, oznaczonego symbolem KRS-Z21, stanowiący załącznik nr 22 do rozporządzenia;
-23) wzór formularza załącznika do wniosku o rejestrację lub o zmianę danych podmiotu w Krajowym Rejestrze Sądowym – działalność pożytku publicznego, oznaczonego symbolem KRS-W-OPP, stanowiący załącznik nr 23 do rozporządzenia;
-24) wzór formularza załącznika do wniosku o zmianę danych podmiotu w Krajowym Rejestrze Sądowym – zmiana – działalność pożytku publicznego, oznaczonego symbolem KRS-Z-OPP, stanowiący załącznik nr 24 do rozporządzenia.
-§ 2. Formularze, o których mowa w § 1, są drukowane w kolorze czarnym oraz w kolorze szarym o odcieniu oznaczonym symbolem PANTONE Warm Gray 5 C".
-§ 3. 1. Urzędowe formularze wymienione w § 1 są udostępniane w siedzibach sądów gospodarczych oraz w centrali Centralnej Informacji Krajowego Rejestru Sądowego.
-2. Urzędowe formularze o symbolach KRS-Z40, KRS-Z41, KRS-Z42, KRS-Z61, KRS-X2, KRS-WA, KRS-WH, KRS-WK, KRS-ZA, KRS-ZK, KRS-ZS, KRS-ZY, KRS-ZP i KRS-ZR są udostępniane także w gminach.
-§ 4. 1. Urzędowe formularze są udostępniane zainteresowanym za pośrednictwem wyznaczonych pracowników lub przez wyłożenie w siedzibach podmiotów wymienionych w § 3.
-2. Dopuszcza się zgłaszanie wniosków w postępowaniu rejestrowym na wydrukach urzędowych formularzy udostępnionych za pośrednictwem Internetu w Biuletynie Informacji Publicznej na stronie podmiotowej Ministra Sprawiedliwości.
-Przepisu § 2 nie stosuje się.
-§ 5. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
-Minister Sprawiedliwości: Z. Ziobro Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 23 czerwca 2021 r. (poz. 1173) Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 23 czerwca 2021 r. (poz. ……….) Załącznik nr 1 WZÓR Załącznik nr 1 WZÓR Sygnatura akt (wypełnia sąd) KRS-W20 Wniosek o rejestrację podmiotu Krajowy w Krajowym Rejestrze Sądowym Rejestr Sądowy FUNDACJA, STOWARZYSZENIE, INNA ORGANIZACJA SPOŁECZNA LUB ZAWODOWA  Formularz należy wypełnić w języku polskim, czytelnie, na maszynie, komputerowo lub ręcznie, wielkimi drukowanymi literami.
- Wnioskodawca wypełnia pola jasne.
- We wszystkich wypełnianych polach, w których występuje możliwość wyboru, należy wstawić X w jednym odpowiednim kwadracie.
- Wszystkie pola, w których nie będą wpisane odpowiednie informacje, należy przekreślić.
- Wniosek składa się do sądu rejonowego (sądu gospodarczego) właściwego ze względu na siedzibę podmiotu, którego wpis dotyczy. Wniosek można złożyć w biurze podawczym właściwego sądu lub nadać w urzędzie pocztowym na adres sądu.
- Wniosek złożony z naruszeniem przepisu art. 19 ust. 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym lub nieprawidłowo wypełniony podlega zwróceniu, bez wzywania do uzupełnienia braków.
-Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK
-1. Nazwa sądu Sąd Rejonowy SIEDZIBA PODMIOTU, KTÓREGO DOTYCZY WPIS
-2. Województwo 3. Powiat
-4. Gmina 5. Miejscowość OKREŚLENIE REJESTRACJI
-6. Rejestracja dotyczy:
-1. Nowego podmiotu 2. Podmiotu uprzednio zarejestrowanego (przerejestrowanie) Część A A.1 DANE WNIOSKODAWCY LUB PODMIOTU UZUPEŁNIAJĄCEGO DANE
-7. Wnioskodawca:
-1. Komitet założycielski 2. Podmiot, którego dotyczy wpis 3. Inny wnioskodawca
-8. Nazwa/firma lub nazwa organu, lub nazwisko
-9. Imię A.2 DANE ADRESATA KORESPONDENCJI A.2.1 Oznaczenie adresata korespondencji
-10. Nazwa/firma lub nazwa organu, lub nazwisko
-11. Imię KRS-W20 1/5 A.2.2 Adres do korespondencji
-12. Ulica 13. Nr domu 14. Nr lokalu 15. Miejscowość
-16. Kod pocztowy 17. Poczta 18. Kraj A.3 DANE PEŁNOMOCNIKA PROCESOWEGO A.3.1 Oznaczenie pełnomocnika
-19. Nazwa/firma lub nazwisko
-20. Imię A.3.2 Adres pełnomocnika
-21. Ulica 22. Nr domu 23. Nr lokalu 24. Miejscowość
-25. Kod pocztowy 26. Poczta 27. Kraj Część B Wnoszę o dokonanie wpisu zgodnie z informacjami zamieszczonymi we wniosku i załącznikach: B.1 DANE PODMIOTU
-28. Nazwa
-29. Oznaczenie formy prawnej lub rodzaju organizacji
-1. Fundacja 2. Inny podmiot (organizacja) Jaki (jaka)?
 30. NIP 31. Numer identyfikacyjny REGON C.2 DANE O WCZEŚNIEJSZEJ REJESTRACJI PODMIOTU
 32. Nazwa sądu prowadzącego rejestr albo organu prowadzącego ewidencję
 33. Nazwa rejestru albo ewidencji 34. Numer w rejestrze albo w ewidencji KRS-W20 2/5 C.3 SIEDZIBA I ADRES PODMIOTU
@@ -847,6 +788,49 @@ DZIAŁALNOŚĆ POŻYTKU PUBLICZNEGO Krajowy Załącznik do wniosku o zmianę dan
 2. Zmiany informacji o prowadzonej działalności pożytku publicznego Część II II.1 OKREŚLENIE SPOSOBU ZMIANY INFORMACJI O PRZEDMIOCIE DZIAŁALNOŚCI
 2. Wpis informacji polega na: Wykreśleniu całej dotychczasowej treści Wykreśleniu tylko niektórych rodzajów działalności
 1. informacji o przedmiocie działalności i wpisaniu 2. i/lub dopisaniu nowych nowego przedmiotu działalności II.2 OPIS PRZEDMIOTU DZIAŁALNOŚCI WEDŁUG POLSKIEJ KLASYFIKACJI DZIAŁALNOŚCI (PKD) Czy działalność jest odpłatna? Kod PKD Opis działalności TAK NIE └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ KRS-Z-OPP 1/2 Czy działalność jest odpłatna? Kod PKD Opis działalności TAK NIE └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ └─┴─┘ └─┴─┘ └─┘ Część III III.1 PODPISY OSÓB SKŁADAJĄCYCH WNIOSEK KRS-Z-OPP 2/2
+
+**§ 1.** Ustala się następujące wzory urzędowych formularzy:
+
+- **1)** wzór formularza wniosku o rejestrację podmiotu w Krajowym Rejestrze Sądowym – fundacja, stowarzyszenie, inna organizacja społeczna lub zawodowa, oznaczonego symbolem KRS-W20, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** wzór formularza wniosku o rejestrację podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – samodzielny publiczny zakład opieki zdrowotnej, oznaczonego symbolem KRS-W22, stanowiący załącznik nr 2 do rozporządzenia;
+- **3)** wzór formularza wniosku o zmianę danych podmiotu w Krajowym Rejestrze Sądowym – fundacja, stowarzyszenie, inna organizacja społeczna lub zawodowa, oznaczonego symbolem KRS-Z20, stanowiący załącznik nr 3 do rozporządzenia;
+- **4)** wzór formularza wniosku o zmianę danych podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – samodzielny publiczny zakład opieki zdrowotnej, oznaczonego symbolem KRS-Z22, stanowiący załącznik nr 4 do rozporządzenia;
+- **5)** wzór formularza wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – zaległość podatkowa, celna, na rzecz ZUS, oznaczonego symbolem KRS-Z40, stanowiący załącznik nr 5 do rozporządzenia;
+- **6)** wzór formularza wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – wierzytelność, oznaczonego symbolem KRS-Z41, stanowiący załącznik nr 6 do rozporządzenia;
+- **7)** wzór formularza wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – wierzyciel – zmiana, oznaczonego symbolem KRS-Z42, stanowiący załącznik nr 7 do rozporządzenia;
+- **8)** wzór formularza wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – likwidacja, rozwiązanie/unieważnienie, oznaczonego symbolem KRS-Z61, stanowiący załącznik nr 8 do rozporządzenia;
+- **9)** wzór formularza wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – zarząd komisaryczny, zarząd przymusowy, przedstawiciel do prowadzenia bieżących spraw stowarzyszenia, oznaczonego symbolem KRS-Z63, stanowiący załącznik nr 9 do rozporządzenia;
+- **10)** wzór formularza wniosku o wykreślenie podmiotu z Krajowego Rejestru Sądowego, oznaczonego symbolem KRS-X2, stanowiący załącznik nr 10 do rozporządzenia;
+- **11)** wzór formularza załącznika do wniosku o rejestrację podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – oddziały, terenowe jednostki organizacyjne, oznaczonego symbolem KRS-WA, stanowiący załącznik nr 11 do rozporządzenia;
+- **12)** wzór formularza załącznika do wniosku o rejestrację podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – założyciele, oznaczonego symbolem KRS-WF, stanowiący załącznik nr 12 do rozporządzenia;
+- **13)** wzór formularza załącznika do wniosku o rejestrację podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – sposób powstania podmiotu, oznaczonego symbolem KRS-WH, stanowiący załącznik nr 13 do rozporządzenia;
+- **14)** wzór formularza załącznika do wniosku o rejestrację lub o zmianę danych podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – organy podmiotu, oznaczonego symbolem KRS-WK, stanowiący załącznik nr 14 do rozporządzenia;
+- **15)** wzór formularza załącznika do wniosku o zmianę danych w Krajowym Rejestrze Sądowym – zmiana – oddziały, terenowe jednostki organizacyjne, oznaczonego symbolem KRS-ZA, stanowiący załącznik nr 15 do rozporządzenia;
+- **16)** wzór formularza załącznika do wniosku o zmianę danych w Krajowym Rejestrze Sądowym – zmiana – organy podmiotu, oznaczonego symbolem KRS-ZK, stanowiący załącznik nr 16 do rozporządzenia;
+- **17)** wzór formularza załącznika do wniosku o zmianę danych w Krajowym Rejestrze Sądowym – zmiana – połączenie, podział, przekształcenie, oznaczonego symbolem KRS-ZS, stanowiący załącznik nr 17 do rozporządzenia;
+- **18)** wzór formularza załącznika do wniosku o zmianę danych w Krajowym Rejestrze Sądowym – numer identyfikacyjny REGON, NIP, oznaczonego symbolem KRS-ZY, stanowiący załącznik nr 18 do rozporządzenia;
+- **19)** wzór formularza załącznika do wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – wierzyciele, oznaczonego symbolem KRS-ZP, stanowiący załącznik nr 19 do rozporządzenia;
+- **20)** wzór formularza załącznika do wniosku o zmianę wpisu w Krajowym Rejestrze Sądowym – likwidator, zarządca, oznaczonego symbolem KRS-ZR, stanowiący załącznik nr 20 do rozporządzenia;
+- **21)** wzór formularza wniosku o rejestrację podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – organizacja pożytku publicznego, oznaczonego symbolem KRS-W21, stanowiący załącznik nr 21 do rozporządzenia;
+- **22)** wzór formularza wniosku o zmianę danych podmiotu w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz samodzielnych publicznych zakładów opieki zdrowotnej – organizacja pożytku publicznego, oznaczonego symbolem KRS-Z21, stanowiący załącznik nr 22 do rozporządzenia;
+- **23)** wzór formularza załącznika do wniosku o rejestrację lub o zmianę danych podmiotu w Krajowym Rejestrze Sądowym – działalność pożytku publicznego, oznaczonego symbolem KRS-W-OPP, stanowiący załącznik nr 23 do rozporządzenia;
+- **24)** wzór formularza załącznika do wniosku o zmianę danych podmiotu w Krajowym Rejestrze Sądowym – zmiana – działalność pożytku publicznego, oznaczonego symbolem KRS-Z-OPP, stanowiący załącznik nr 24 do rozporządzenia.
+
+**§ 2.** Formularze, o których mowa w § 1, są drukowane w kolorze czarnym oraz w kolorze szarym o odcieniu oznaczonym symbolem PANTONE Warm Gray 5 C".
+
+**§ 3.**
+
+1. Urzędowe formularze wymienione w § 1 są udostępniane w siedzibach sądów gospodarczych oraz w centrali Centralnej Informacji Krajowego Rejestru Sądowego.
+
+2. Urzędowe formularze o symbolach KRS-Z40, KRS-Z41, KRS-Z42, KRS-Z61, KRS-X2, KRS-WA, KRS-WH, KRS-WK, KRS-ZA, KRS-ZK, KRS-ZS, KRS-ZY, KRS-ZP i KRS-ZR są udostępniane także w gminach.
+
+**§ 4.**
+
+1. Urzędowe formularze są udostępniane zainteresowanym za pośrednictwem wyznaczonych pracowników lub przez wyłożenie w siedzibach podmiotów wymienionych w § 3.
+
+2. Dopuszcza się zgłaszanie wniosków w postępowaniu rejestrowym na wydrukach urzędowych formularzy udostępnionych za pośrednictwem Internetu w Biuletynie Informacji Publicznej na stronie podmiotowej Ministra Sprawiedliwości. Przepisu § 2 nie stosuje się.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r. Minister Sprawiedliwości: Z. Ziobro Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 23 czerwca 2021 r. (poz. 1173) Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 23 czerwca 2021 r. (poz. ……….) Załącznik nr 1 WZÓR Załącznik nr 1 WZÓR Sygnatura akt (wypełnia sąd) KRS-W20 Wniosek o rejestrację podmiotu Krajowy w Krajowym Rejestrze Sądowym Rejestr Sądowy FUNDACJA, STOWARZYSZENIE, INNA ORGANIZACJA SPOŁECZNA LUB ZAWODOWA  Formularz należy wypełnić w języku polskim, czytelnie, na maszynie, komputerowo lub ręcznie, wielkimi drukowanymi literami.  Wnioskodawca wypełnia pola jasne.  We wszystkich wypełnianych polach, w których występuje możliwość wyboru, należy wstawić X w jednym odpowiednim kwadracie.  Wszystkie pola, w których nie będą wpisane odpowiednie informacje, należy przekreślić.  Wniosek składa się do sądu rejonowego (sądu gospodarczego) właściwego ze względu na siedzibę podmiotu, którego wpis dotyczy. Wniosek można złożyć w biurze podawczym właściwego sądu lub nadać w urzędzie pocztowym na adres sądu.  Wniosek złożony z naruszeniem przepisu art. 19 ust. 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym lub nieprawidłowo wypełniony podlega zwróceniu, bez wzywania do uzupełnienia braków. Miejsce na notatki sądu Data wpływu (wypełnia sąd) SĄD, DO KTÓREGO JEST SKŁADANY WNIOSEK 1. Nazwa sądu Sąd Rejonowy SIEDZIBA PODMIOTU, KTÓREGO DOTYCZY WPIS 2. Województwo 3. Powiat 4. Gmina 5. Miejscowość OKREŚLENIE REJESTRACJI 6. Rejestracja dotyczy: 1. Nowego podmiotu 2. Podmiotu uprzednio zarejestrowanego (przerejestrowanie) Część A A.1 DANE WNIOSKODAWCY LUB PODMIOTU UZUPEŁNIAJĄCEGO DANE 7. Wnioskodawca: 1. Komitet założycielski 2. Podmiot, którego dotyczy wpis 3. Inny wnioskodawca 8. Nazwa/firma lub nazwa organu, lub nazwisko 9. Imię A.2 DANE ADRESATA KORESPONDENCJI A.2.1 Oznaczenie adresata korespondencji 10. Nazwa/firma lub nazwa organu, lub nazwisko 11. Imię KRS-W20 1/5 A.2.2 Adres do korespondencji 12. Ulica 13. Nr domu 14. Nr lokalu 15. Miejscowość 16. Kod pocztowy 17. Poczta 18. Kraj A.3 DANE PEŁNOMOCNIKA PROCESOWEGO A.3.1 Oznaczenie pełnomocnika 19. Nazwa/firma lub nazwisko 20. Imię A.3.2 Adres pełnomocnika 21. Ulica 22. Nr domu 23. Nr lokalu 24. Miejscowość 25. Kod pocztowy 26. Poczta 27. Kraj Część B Wnoszę o dokonanie wpisu zgodnie z informacjami zamieszczonymi we wniosku i załącznikach: B.1 DANE PODMIOTU 28. Nazwa 29. Oznaczenie formy prawnej lub rodzaju organizacji 1. Fundacja 2. Inny podmiot (organizacja) Jaki (jaka)?
 
 ## Część C C.1 DANE O NIP I NUMERZE IDENTYFIKACYJNYM REGON
 

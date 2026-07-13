@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/386/text.pdf) |
 
 zmieniające rozporządzenie – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury Na podstawie art. 36 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2021 r. poz. 66, 1236 i 2052) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm. ) po § 114 dodaje się § 114a w brzmieniu: „§ 114a. Prokurator Generalny lub Prokurator Krajowy może wyznaczyć jednostkę do prowadzenia postępowania przygotowawczego, obejmującego ujawnione w danym okresie lub na danym obszarze przestępstwa z art. 310 § 1 k.k., wskazane według określonego kryterium, w szczególności według nominału pieniądza, znaku pieniężnego lub innego środka płatniczego albo dokumentu, o którym mowa w art. 310 § 1 k.k., albo według określonej klasy fałszerskiej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 kwietnia 2016 r. – Regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury (Dz. U. z 2017 r. poz. 1206, z późn. zm. ) po § 114 dodaje się § 114a w brzmieniu: „§ 114a. Prokurator Generalny lub Prokurator Krajowy może wyznaczyć jednostkę do prowadzenia postępowania przygotowawczego, obejmującego ujawnione w danym okresie lub na danym obszarze przestępstwa z art. 310 § 1 k.k., wskazane według określonego kryterium, w szczególności według nominału pieniądza, znaku pieniężnego lub innego środka płatniczego albo dokumentu, o którym mowa w art. 310 § 1 k.k., albo według określonej klasy fałszerskiej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych Na podstawie art. 20 pkt 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2016 r.
 poz. 2062, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 1397, 1694 i 1783 oraz z 2015 r. poz. 1662 i 2185) w § 1 pkt 10 otrzymuje brzmienie: „10) Sądowi Okręgowemu w Szczecinie – z obszaru właściwości sądów okręgowych w Gorzowie Wielkopolskim i Koszalinie;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom okręgowym i sądom rejonowym rozpoznawania spraw gospodarczych z obszarów właściwości innych sądów okręgowych i sądów rejonowych (Dz. U. poz. 1397, 1694 i 1783 oraz z 2015 r. poz. 1662 i 2185) w § 1 pkt 10 otrzymuje brzmienie: „10) Sądowi Okręgowemu w Szczecinie – z obszaru właściwości sądów okręgowych w Gorzowie Wielkopolskim i Koszalinie;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. Minister Sprawiedliwości: Z. Ziobro
 

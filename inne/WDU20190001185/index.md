@@ -27,16 +27,22 @@ source: pdf
 
 w sprawie sposobu przesyłania informacji o nieruchomościach i obiektach budowlanych oraz deklaracji na podatek od nieruchomości za pomocą środków komunikacji elektronicznej Na podstawie art. 6 ust. 14 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2019 r.
 poz. 1170) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) sposób przesyłania informacji o nieruchomościach i obiektach budowlanych, zwanych dalej „informacjami”, oraz deklaracji na podatek od nieruchomości, zwanych dalej „deklaracjami”, za pomocą środków komunikacji elektronicznej;
-2) rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje oraz deklaracje.
-§ 2. Informacje i deklaracje mogą być przesyłane z wykorzystaniem:
-1) elektronicznej platformy usług administracji publicznej (ePUAP);
-2) innego systemu teleinformatycznego udostępnionego na stronie Biuletynu Informacji Publicznej właściwego organu jednostki samorządu terytorialnego.
-§ 3. Informacje i deklaracje mogą być opatrywane:
-1) kwalifikowanym podpisem elektronicznym;
-2) podpisem osobistym;
-3) podpisem zaufanym.
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 lipca 2019 r.
-Minister Finansów: M. Banaś
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób przesyłania informacji o nieruchomościach i obiektach budowlanych, zwanych dalej „informacjami”, oraz deklaracji na podatek od nieruchomości, zwanych dalej „deklaracjami”, za pomocą środków komunikacji elektronicznej;
+- **2)** rodzaje podpisu elektronicznego, którym powinny być opatrzone informacje oraz deklaracje.
+
+**§ 2.** Informacje i deklaracje mogą być przesyłane z wykorzystaniem:
+
+- **1)** elektronicznej platformy usług administracji publicznej (ePUAP);
+- **2)** innego systemu teleinformatycznego udostępnionego na stronie Biuletynu Informacji Publicznej właściwego organu jednostki samorządu terytorialnego.
+
+**§ 3.** Informacje i deklaracje mogą być opatrywane:
+
+- **1)** kwalifikowanym podpisem elektronicznym;
+- **2)** podpisem osobistym;
+- **3)** podpisem zaufanym.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2019 r. Minister Finansów: M. Banaś
 

@@ -27,19 +27,17 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000067) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/67/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wymagań, jakim powinien odpowiadać na określonym stanowisku służbowym Na podstawie art. 38 ustawy z dnia 12 października 1990 r. o Straży Granicznej zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia jakim powinien odpowiadać funkcjonariusz Straży Granicznej na określonym stanowisku z 2023 r. poz. 1903) w załączniku do rozporządzenia wprowadza się następujące
-1) w tabeli nr 1a po wierszu oznaczonym lp. 39 dodaje się wiersz oznaczony lp.
-39a Strażnik graniczny nieposiadający średniego lub średniego branżowego
-2) w tabeli nr 3 po wierszu oznaczonym lp. 28 dodaje się wiersz oznaczony lp.
-28a Strażnik graniczny nieposiadający średniego lub średniego branżowego
-3) w tabeli nr 4 po wierszu oznaczonym lp. 24 dodaje się wiersz oznaczony lp.
-24a Strażnik graniczny nieposiadający średniego lub średniego branżowego
-4) w tabeli nr 5 po wierszu oznaczonym lp. 34 dodaje się wiersz oznaczony lp.
-34a Strażnik graniczny nieposiadający średniego lub średniego branżowego
-5) w tabeli nr 6 dodaje się wiersz oznaczony lp. 23 w brzmieniu: 23 Strażnik graniczny nieposiadający średniego lub średniego branżowego
-6) w tabeli nr 7 dodaje się wiersz oznaczony lp. 13 w brzmieniu: 13 Strażnik graniczny nieposiadający średniego lub średniego branżowego
-7) w tabeli nr 8 dodaje się wiersz oznaczony lp. 13 w brzmieniu: 13 Strażnik graniczny nieposiadający średniego lub średniego branżowego
-8) w tabeli nr 9 dodaje się wiersz oznaczony lp. 13 w brzmieniu: 13 Strażnik graniczny nieposiadający średniego lub średniego branżowego
-§ 2. Rozporządzenie wchodzi w życie z dniem 22 stycznia 2025 r.
-Minister Spraw Wewnętrznych
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia jakim powinien odpowiadać funkcjonariusz Straży Granicznej na określonym stanowisku z 2023 r. poz. 1903) w załączniku do rozporządzenia wprowadza się następujące
+
+- **1)** w tabeli nr 1a po wierszu oznaczonym lp. 39 dodaje się wiersz oznaczony lp. 39a Strażnik graniczny nieposiadający średniego lub średniego branżowego
+- **2)** w tabeli nr 3 po wierszu oznaczonym lp. 28 dodaje się wiersz oznaczony lp. 28a Strażnik graniczny nieposiadający średniego lub średniego branżowego
+- **3)** w tabeli nr 4 po wierszu oznaczonym lp. 24 dodaje się wiersz oznaczony lp. 24a Strażnik graniczny nieposiadający średniego lub średniego branżowego
+- **4)** w tabeli nr 5 po wierszu oznaczonym lp. 34 dodaje się wiersz oznaczony lp. 34a Strażnik graniczny nieposiadający średniego lub średniego branżowego
+- **5)** w tabeli nr 6 dodaje się wiersz oznaczony lp. 23 w brzmieniu: 23 Strażnik graniczny nieposiadający średniego lub średniego branżowego
+- **6)** w tabeli nr 7 dodaje się wiersz oznaczony lp. 13 w brzmieniu: 13 Strażnik graniczny nieposiadający średniego lub średniego branżowego
+- **7)** w tabeli nr 8 dodaje się wiersz oznaczony lp. 13 w brzmieniu: 13 Strażnik graniczny nieposiadający średniego lub średniego branżowego
+- **8)** w tabeli nr 9 dodaje się wiersz oznaczony lp. 13 w brzmieniu: 13 Strażnik graniczny nieposiadający średniego lub średniego branżowego
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 22 stycznia 2025 r. Minister Spraw Wewnętrznych
 

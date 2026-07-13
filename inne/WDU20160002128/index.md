@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wymagań technicznych i jakościowych w zakresie standardów przesyłanych danych do centralnej ewidencji kierowców Na podstawie art. 100a ust. 5 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r.
 poz. 1137, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Cyfryzacji z dnia 30 marca 2016 r. w sprawie wymagań technicznych i jakościowych w zakresie standardów przesyłanych danych do centralnej ewidencji kierowców (Dz. U. poz. 429) § 9 otrzymuje brzmienie: „§ 9. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Cyfryzacji: A. Streżyńska
+
+**§ 1.** W rozporządzeniu Ministra Cyfryzacji z dnia 30 marca 2016 r. w sprawie wymagań technicznych i jakościowych w zakresie standardów przesyłanych danych do centralnej ewidencji kierowców (Dz. U. poz. 429) § 9 otrzymuje brzmienie: „§ 9. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Minister Cyfryzacji: A. Streżyńska
 

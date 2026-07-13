@@ -39,7 +39,12 @@ source: pdf
 - **5)** w art. 21 ust. 1 otrzymuje brzmienie: „1. W sprawach z zakresu zwalczania nieuczciwej konkurencji można wnieść o wydanie zarządzenia tymczasowego także do sądu, w którego okręgu znajduje się mienie osoby, która się tego czynu dopuściła, albo gdzie nastąpił czyn nieuczciwej konkurencji.”;
 - **6)** w art. 27 w ust. 2 wyraz „organizacje” zastępuje się wyrazem „podmioty”.
 
-**Art. 2.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz.U. z 1993 r. Nr 7, poz. 34, z 1995 r. Nr 66, poz. 335 i Nr 142, poz. 701, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770 oraz z 1999 r. Nr 90, poz. 999) po art. 20 dodaje się art. 20a w brzmieniu: „Art. 20a. 1. Na pisemny wniosek Prezesa Urzędu Ochrony Konkurencji i Konsumentów nadawca jest obowiązany: 1) ujawnić dane umożliwiające identyfikację zleceniodawcy audycji lub reklamy, 2) wydać nieodpłatnie zapis audycji lub reklamy, w terminie 7 dni od dnia złożenia wniosku. 2. Przepis art. 20 ust. 3 stosuje się odpowiednio.”.
+**Art. 2.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz.U. z 1993 r. Nr 7, poz. 34, z 1995 r. Nr 66, poz. 335 i Nr 142, poz. 701, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770 oraz z 1999 r. Nr 90, poz. 999) po art. 20 dodaje się art. 20a w brzmieniu:
+
+> „Art. 20a.  
+> 1. Na pisemny wniosek Prezesa Urzędu Ochrony Konkurencji i Konsumentów nadawca jest obowiązany:  
+> 1) ujawnić dane umożliwiające identyfikację zleceniodawcy audycji lub reklamy, 2) wydać nieodpłatnie zapis audycji lub reklamy, w terminie 7 dni od dnia złożenia wniosku.  
+> 2. Przepis art. 20 ust. 3 stosuje się odpowiednio.”.  
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

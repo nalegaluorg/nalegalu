@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1068/text.pdf) |
 
 zmieniające rozporządzenie w sprawie metody zapobiegania COVID-19 Na podstawie art. 3 ust. 4 pkt 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19 (Dz. U.
-z 2021 r. poz. 10, 855, 920 i 1034) w § 2 wyrazy „16. rok życia” zastępuje się wyrazami „12. rok życia”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 7 czerwca 2021 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19 (Dz. U. z 2021 r. poz. 10, 855, 920 i 1034) w § 2 wyrazy „16. rok życia” zastępuje się wyrazami „12. rok życia”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 7 czerwca 2021 r. Minister Zdrowia: A. Niedzielski
 

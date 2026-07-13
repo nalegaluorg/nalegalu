@@ -28,11 +28,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Bydgoszczy Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r.
 poz. 1112, 1881 i 1940) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Bydgoszczy (Dz. U. z 2023 r. poz. 2438) w załączniku:
-1) w § 3 w ust. 2 wyrazy „o których mowa w § 4 ust. 1 pkt 2, 4 i 5” zastępuje się wyrazami „o których mowa w § 4 ust. 1 pkt 2 i 4”;
-2) w § 4:
-a) w ust. 1: – pkt 3 otrzymuje brzmienie: „3) Wydział Informacji i Szkód w Środowisku;”, – uchyla się pkt 5,
-b) w ust. 2 wyrazy „o których mowa w ust. 1 pkt 1–6” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1–4 i 6”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: P. Hennig-Kloska
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Bydgoszczy (Dz. U. z 2023 r. poz. 2438) w załączniku:
+
+- **1)** w § 3 w ust. 2 wyrazy „o których mowa w § 4 ust. 1 pkt 2, 4 i 5” zastępuje się wyrazami „o których mowa w § 4 ust. 1 pkt 2 i 4”;
+- **2)** w § 4:
+    - **a)** w ust. 1: – pkt 3 otrzymuje brzmienie: „3) Wydział Informacji i Szkód w Środowisku;”, – uchyla się pkt 5,
+    - **b)** w ust. 2 wyrazy „o których mowa w ust. 1 pkt 1–6” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1–4 i 6”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: P. Hennig-Kloska
 

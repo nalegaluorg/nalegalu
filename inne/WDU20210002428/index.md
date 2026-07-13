@@ -26,9 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2428/text.pdf) |
 
 zmieniające rozporządzenie w sprawie udzielania pomocy publicznej na projekty inwestycyjne w zakresie budowy lub przebudowy jednostek kogeneracji zapewniających wysokosprawną kogenerację w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014–2020 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Gospodarki z dnia 23 października 2015 r. w sprawie udzielania pomocy publicznej na projekty inwestycyjne w zakresie budowy lub przebudowy jednostek kogeneracji zapewniających wysokosprawną kogenerację w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014–2020 (Dz. U. z 2021 r. poz. 1810) w § 12 dodaje się ust. 4 w brzmieniu: „4. Od dnia 1 stycznia 2022 r. intensywność pomocy ulega także zwiększeniu o:
-1) 15 punktów procentowych – w przypadku gdy projekt inwestycyjny będzie realizowany na obszarze województwa kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego lub zachodniopomorskiego lub na obszarze regionu mazowieckiego regionalnego ;
-2) 5 punktów procentowych – w przypadku gdy projekt inwestycyjny będzie realizowany na obszarze województwa dolnośląskiego lub wielkopolskiego lub na obszarze następujących gmin regionu warszawskiego stołecznego: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kampinos, Kałuszyn, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym, Żabia Wola .”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 1.** W rozporządzeniu Ministra Gospodarki z dnia 23 października 2015 r. w sprawie udzielania pomocy publicznej na projekty inwestycyjne w zakresie budowy lub przebudowy jednostek kogeneracji zapewniających wysokosprawną kogenerację w ramach Programu Operacyjnego Infrastruktura i Środowisko 2014–2020 (Dz. U. z 2021 r. poz. 1810) w § 12 dodaje się ust. 4 w brzmieniu:
+
+> „4. Od dnia 1 stycznia 2022 r. intensywność pomocy ulega także zwiększeniu o:  
+> 1) 15 punktów procentowych – w przypadku gdy projekt inwestycyjny będzie realizowany na obszarze województwa kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego lub zachodniopomorskiego lub na obszarze regionu mazowieckiego regionalnego ;  
+> 2) 5 punktów procentowych – w przypadku gdy projekt inwestycyjny będzie realizowany na obszarze województwa dolnośląskiego lub wielkopolskiego lub na obszarze następujących gmin regionu warszawskiego stołecznego: Baranów, Błonie, Dąbrówka, Dobre, Góra Kalwaria, Grodzisk Mazowiecki, Jadów, Jaktorów, Kampinos, Kałuszyn, Kołbiel, Latowicz, Leoncin, Leszno, Mrozy, Nasielsk, Osieck, Prażmów, Serock, Siennica, Sobienie-Jeziory, Strachówka, Tarczyn, Tłuszcz, Zakroczym, Żabia Wola .”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa
 

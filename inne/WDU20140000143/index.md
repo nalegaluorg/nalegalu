@@ -26,58 +26,95 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000143) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/143/text.pdf) |
 
 w sprawie trybu i terminu powiadamiania Zakładu Ubezpieczeń Społecznych przez otwarty fundusz emerytalny o zawarciu umowy z członkiem oraz dokonywania wypłaty transferowej Na podstawie art. 85 pkt 3, 4, 5–7 oraz art. 123a ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2013 r. poz. 989, 1289 i 1717) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) sposób i termin zawiadamiania otwartego funduszu o przystąpieniu członka do innego otwartego funduszu;
-2) tryb i terminy powiadamiania Zakładu Ubezpieczeń Społecznych przez otwarty fundusz o zawarciu umowy z członkiem funduszu oraz zakres danych, jakie powinno zawierać powiadomienie;
-3) szczegółowe zasady wycofywania przez otwarty fundusz zgłoszenia o zawarciu umowy z członkiem oraz wykreślania przez Zakład Ubezpieczeń Społecznych wpisu w Centralnym Rejestrze Członków Otwartych Funduszy Emerytalnych;
-4) szczegółowy sposób ustalania i rozliczania podlegającej zwrotowi nienależnie otrzymanej składki przez otwarty fundusz;
-5) wzór zawiadomienia, o którym mowa w art. 84 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
-6) termin i tryb dokonywania wypłat transferowych, o których mowa w art. 119 oraz w przepisach rozdziałów 12 i 13 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
-7) zasady współdziałania Krajowego Depozytu Papierów Wartościowych S.A. i Zakładu Ubezpieczeń Społecznych oraz otwartych funduszy i Zakładu Ubezpieczeń Społecznych przy dokonywaniu rozliczeń wypłat transferowych;
-8) sposób rozdysponowania odsetek z tytułu przechowywania na rachunku środków przekazanych przez otwarte fundusze w ramach rozliczania tej wypłaty.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie – oznacza to ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
-2) Zakładzie – oznacza to Zakład Ubezpieczeń Społecznych, o którym mowa w art. 66 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm. );
-3) Komisji Nadzoru – oznacza to Komisję Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2012 r. poz. 1149, z późn. zm. );
-4) Krajowym Depozycie – oznacza to Krajowy Depozyt Papierów Wartościowych S.A.;
-5) Centralnym Rejestrze Członków – oznacza to prowadzony przez Zakład Centralny Rejestr Członków Otwartych Funduszy Emerytalnych, o którym mowa w art. 33 ust. 1 pkt 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
-6) dotychczasowym funduszu – oznacza to otwarty fundusz, którego członek przystąpił do innego otwartego funduszu;
-7) nowym funduszu – oznacza to otwarty fundusz, do którego przystąpił członek innego otwartego funduszu;
-8) nowym członku – oznacza to osobę fizyczną, która zawarła umowę o członkostwo albo na której nazwisko został otwarty rachunek w trybie art. 128 ustawy, a przynależność tego członka do otwartego funduszu nie została jeszcze potwierdzona zarejestrowaniem w Centralnym Rejestrze Członków;
-9) umowie o członkostwo – oznacza to umowę zawartą między otwartym funduszem a osobą występującą z wnioskiem o przyjęcie do otwartego funduszu, na podstawie której następuje uzyskanie członkostwa w otwartym funduszu;
-10) rejestrze członków – oznacza to rejestr członków otwartego funduszu, prowadzony przez otwarty fundusz, o którym mowa w ustawie;
-11) koncie ubezpieczonego – oznacza to konto, o którym mowa w przepisach rozdziału 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, prowadzone przez Zakład;
-12) dniu roboczym – oznacza to dzień wyceny, o którym mowa w art. 168 ust. 1 ustawy.
-§ 3. 1. Otwarty fundusz przekazuje do Zakładu zgłoszenie o przystąpieniu członka do funduszu, w formie zestawienia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób i termin zawiadamiania otwartego funduszu o przystąpieniu członka do innego otwartego funduszu;
+- **2)** tryb i terminy powiadamiania Zakładu Ubezpieczeń Społecznych przez otwarty fundusz o zawarciu umowy z członkiem funduszu oraz zakres danych, jakie powinno zawierać powiadomienie;
+- **3)** szczegółowe zasady wycofywania przez otwarty fundusz zgłoszenia o zawarciu umowy z członkiem oraz wykreślania przez Zakład Ubezpieczeń Społecznych wpisu w Centralnym Rejestrze Członków Otwartych Funduszy Emerytalnych;
+- **4)** szczegółowy sposób ustalania i rozliczania podlegającej zwrotowi nienależnie otrzymanej składki przez otwarty fundusz;
+- **5)** wzór zawiadomienia, o którym mowa w art. 84 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **6)** termin i tryb dokonywania wypłat transferowych, o których mowa w art. 119 oraz w przepisach rozdziałów 12 i 13 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **7)** zasady współdziałania Krajowego Depozytu Papierów Wartościowych S.A. i Zakładu Ubezpieczeń Społecznych oraz otwartych funduszy i Zakładu Ubezpieczeń Społecznych przy dokonywaniu rozliczeń wypłat transferowych;
+- **8)** sposób rozdysponowania odsetek z tytułu przechowywania na rachunku środków przekazanych przez otwarte fundusze w ramach rozliczania tej wypłaty.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** ustawie – oznacza to ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **2)** Zakładzie – oznacza to Zakład Ubezpieczeń Społecznych, o którym mowa w art. 66 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2013 r. poz. 1442, z późn. zm. );
+- **3)** Komisji Nadzoru – oznacza to Komisję Nadzoru Finansowego, o której mowa w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2012 r. poz. 1149, z późn. zm. );
+- **4)** Krajowym Depozycie – oznacza to Krajowy Depozyt Papierów Wartościowych S.A.;
+- **5)** Centralnym Rejestrze Członków – oznacza to prowadzony przez Zakład Centralny Rejestr Członków Otwartych Funduszy Emerytalnych, o którym mowa w art. 33 ust. 1 pkt 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych;
+- **6)** dotychczasowym funduszu – oznacza to otwarty fundusz, którego członek przystąpił do innego otwartego funduszu;
+- **7)** nowym funduszu – oznacza to otwarty fundusz, do którego przystąpił członek innego otwartego funduszu;
+- **8)** nowym członku – oznacza to osobę fizyczną, która zawarła umowę o członkostwo albo na której nazwisko został otwarty rachunek w trybie art. 128 ustawy, a przynależność tego członka do otwartego funduszu nie została jeszcze potwierdzona zarejestrowaniem w Centralnym Rejestrze Członków;
+- **9)** umowie o członkostwo – oznacza to umowę zawartą między otwartym funduszem a osobą występującą z wnioskiem o przyjęcie do otwartego funduszu, na podstawie której następuje uzyskanie członkostwa w otwartym funduszu;
+- **10)** rejestrze członków – oznacza to rejestr członków otwartego funduszu, prowadzony przez otwarty fundusz, o którym mowa w ustawie;
+- **11)** koncie ubezpieczonego – oznacza to konto, o którym mowa w przepisach rozdziału 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, prowadzone przez Zakład;
+- **12)** dniu roboczym – oznacza to dzień wyceny, o którym mowa w art. 168 ust. 1 ustawy.
+
+**§ 3.**
+
+1. Otwarty fundusz przekazuje do Zakładu zgłoszenie o przystąpieniu członka do funduszu, w formie zestawienia.
+
 2. Zestawienie zawiera następujące dane:
-1) dane osobowe:
-a) imiona i nazwisko,
-b) datę urodzenia,
-c) numer PESEL, a w przypadku gdy członkowi funduszu nie nadano numeru PESEL – w miejsce brakującego numeru PESEL – serię i numer dowodu osobistego lub paszportu;
-2) datę zawarcia umowy o członkostwo, a także godzinę, jeżeli uzyskanie członkostwa nie nastąpiło w trybie art. 128 ustawy.
+
+- **1)** dane osobowe:
+    - **a)** imiona i nazwisko,
+    - **b)** datę urodzenia,
+    - **c)** numer PESEL, a w przypadku gdy członkowi funduszu nie nadano numeru PESEL – w miejsce brakującego numeru PESEL – serię i numer dowodu osobistego lub paszportu;
+
+- **2)** datę zawarcia umowy o członkostwo, a także godzinę, jeżeli uzyskanie członkostwa nie nastąpiło w trybie art. 128 ustawy.
+
 3. Otwarty fundusz sporządza osobne zgłoszenie o przystąpieniu członka do funduszu dla:
-1) osób, które złożyły oświadczenia o dotychczasowym nieuczestniczeniu w otwartym funduszu;
-2) osób, które złożyły oświadczenie o uczestnictwie w innym otwartym funduszu;
-3) osób, które uzyskały członkostwo w funduszu z chwilą otwarcia rachunku w trybie art. 128 ustawy.
+
+- **1)** osób, które złożyły oświadczenia o dotychczasowym nieuczestniczeniu w otwartym funduszu;
+- **2)** osób, które złożyły oświadczenie o uczestnictwie w innym otwartym funduszu;
+- **3)** osób, które uzyskały członkostwo w funduszu z chwilą otwarcia rachunku w trybie art. 128 ustawy.
+
 4. Zestawienie jest sporządzane w postaci elektronicznej.
-§ 4. 1. Zestawienie, o którym mowa w § 3 ust. 1, jest przekazywane do Zakładu, nie później niż do godziny 14 szóstego dnia roboczego następującego po dniu zawarcia umowy o członkostwo lub uzyskaniu członkostwa w trybie art. 128 ustawy.
+
+**§ 4.**
+
+1. Zestawienie, o którym mowa w § 3 ust. 1, jest przekazywane do Zakładu, nie później niż do godziny 14 szóstego dnia roboczego następującego po dniu zawarcia umowy o członkostwo lub uzyskaniu członkostwa w trybie art. 128 ustawy.
+
 2. Zestawienie niespełniające wymogów określonych w § 3 ust. 3 i 4 Zakład odrzuca w całości bądź poszczególne jego pozycje. Zakład niezwłocznie informuje otwarty fundusz o odrzuceniu zestawienia w całości lub w części, z podaniem przyczyny.
+
 3. W przypadku, o którym mowa w ust. 2, otwarty fundusz przekazuje do Zakładu poprawione zestawienie albo poszczególne jego pozycje.
+
 4. Dane zawarte w zestawieniu są przekazywane za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2013 r. poz. 1422).
-§ 5. 1. Zakład raz w tygodniu informuje Komisję Nadzoru o zestawieniach otrzymanych od otwartego funduszu.
-2. Informacja, o której mowa w ust. 1, jest sporządzana według stanu na ostatni dzień roboczy każdego tygodnia odrębnie dla każdego otwartego funduszu i przekazywana w terminie czterech dni roboczych od ostatniego dnia roboczego tygodnia.
-Informacja ta zawiera:
-1) liczbę zestawień, o których mowa w § 3 ust. 1;
-2) liczbę zgłoszeń ujętych w zestawieniach, o których mowa w § 3 ust. 1, ze wskazaniem liczby zgłoszeń poprawnych formalnie i liczby zgłoszeń błędnych formalnie.
+
+**§ 5.**
+
+1. Zakład raz w tygodniu informuje Komisję Nadzoru o zestawieniach otrzymanych od otwartego funduszu.
+
+2. Informacja, o której mowa w ust. 1, jest sporządzana według stanu na ostatni dzień roboczy każdego tygodnia odrębnie dla każdego otwartego funduszu i przekazywana w terminie czterech dni roboczych od ostatniego dnia roboczego tygodnia. Informacja ta zawiera:
+
+- **1)** liczbę zestawień, o których mowa w § 3 ust. 1;
+- **2)** liczbę zgłoszeń ujętych w zestawieniach, o których mowa w § 3 ust. 1, ze wskazaniem liczby zgłoszeń poprawnych formalnie i liczby zgłoszeń błędnych formalnie.
+
 3. Informacja, o której mowa w ust. 1, zostaje przekazana za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
-§ 6. Zakład przyjmuje lub odmawia przyjęcia zgłoszenia o przystąpieniu członka do funduszu w drugim dniu roboczym po otrzymaniu zestawienia, o którym mowa w § 3 ust. 1, ale nie wcześniej niż w ósmym dniu roboczym następującym po dniu zawarcia umowy o członkostwo.
-§ 7. 1. Zakład odmawia przyjęcia zgłoszenia o przystąpieniu członka do funduszu, jeżeli:
-1) z przedstawionych danych wynika, że zgłoszona osoba podpisała umowę wcześniej z innym otwartym funduszem, a umowa ta została zgłoszona w terminie;
-2) zgłoszona osoba dokonała zawarcia umowy o członkostwo z więcej niż jednym otwartym funduszem, w tym samym dniu i o tej samej godzinie;
-3) zgłoszenie nie zawiera danych, o których mowa w § 3 ust. 2.
+
+**§ 6.** Zakład przyjmuje lub odmawia przyjęcia zgłoszenia o przystąpieniu członka do funduszu w drugim dniu roboczym po otrzymaniu zestawienia, o którym mowa w § 3 ust. 1, ale nie wcześniej niż w ósmym dniu roboczym następującym po dniu zawarcia umowy o członkostwo.
+
+**§ 7.**
+
+1. Zakład odmawia przyjęcia zgłoszenia o przystąpieniu członka do funduszu, jeżeli:
+
+- **1)** z przedstawionych danych wynika, że zgłoszona osoba podpisała umowę wcześniej z innym otwartym funduszem, a umowa ta została zgłoszona w terminie;
+- **2)** zgłoszona osoba dokonała zawarcia umowy o członkostwo z więcej niż jednym otwartym funduszem, w tym samym dniu i o tej samej godzinie;
+- **3)** zgłoszenie nie zawiera danych, o których mowa w § 3 ust. 2.
+
 2. Zakład informuje otwarty fundusz o odmowie przyjęcia zgłoszenia o przystąpieniu członka do funduszu, w terminie czterech dni roboczych, podając dane wymienione w § 3 ust. 2, odrębnie dla każdego zestawienia, o którym mowa w § 3 ust. 3.
+
 3. W informacji o odmowie przyjęcia zgłoszenia o przystąpieniu członka do funduszu Zakład podaje przyczynę odmowy.
-§ 8. 1. W przypadku przyjęcia zgłoszenia o przystąpieniu członka do funduszu Zakład wpisuje na koncie ubezpieczonego oraz w Centralnym Rejestrze Członków informację o członkostwie w otwartym funduszu w terminie, o którym mowa
+
+**§ 8.**
+
+1. W przypadku przyjęcia zgłoszenia o przystąpieniu członka do funduszu Zakład wpisuje na koncie ubezpieczonego oraz w Centralnym Rejestrze Członków informację o członkostwie w otwartym funduszu w terminie, o którym mowa
+
+## Załącznik
+
 § 6.
 2. Jeżeli przyjęte zgłoszenie o przystąpieniu członka do funduszu dotyczy osoby, o której mowa w § 3 ust. 3 pkt 1, Zakład wpisuje na koncie ubezpieczonego oraz w Centralnym Rejestrze Członków informację o członkostwie w otwartym funduszu po stwierdzeniu, że został spełniony warunek, o którym mowa w art. 81 ust. 1 pkt 1 ustawy, w terminie 30 dni roboczych od dnia otrzymania zestawienia.
 3. W terminie 30 dni roboczych od dnia otrzymania zgłoszenia, o którym mowa w § 3 ust. 3 pkt 1, Zakład informuje otwarty fundusz, czy osoba, która zawarła umowę z funduszem, spełnia warunki, o których mowa w art. 81 ust. 1 ustawy.
@@ -195,7 +232,10 @@ o świadczeniu usług drogą elektroniczną.
 5) pouczenie o trybie postępowania w przypadku uznania przez członka otwartego funduszu, że otrzymana informacja zawiera błędne dane.
 2. Informacja jest przesyłana członkom otwartego funduszu w terminie siedmiu dni od dnia dokonania wypłaty transferowej.
 § 37. Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.
-Prezes Rady Ministrów: D. Tusk WZÓR ZAWIADOMIENIE ...................................................................................
+
+## Załącznik
+
+WZÓR ZAWIADOMIENIE ...................................................................................
 ...................................................................................
 ...................................................................................
 Zgodnie z art. 84 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2013 r.

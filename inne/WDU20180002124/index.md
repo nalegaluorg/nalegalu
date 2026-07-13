@@ -27,7 +27,11 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002124) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2124/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. z 2017 r. poz. 2047 oraz z 2018 r. poz. 650) w art. 6 ust. 3 otrzymuje brzmienie: „3. Odszkodowanie za szkody, o których mowa w ust. 2: 1) pkt 1 – może być pomniejszone o nie więcej niż 10% wartości tych szkód; 2) pkt 2 – może być pomniejszone o 20%, 25% albo 30% sumy ubezpieczenia w zależności od wysokości pomniejszenia wskazanej w umowie ubezpieczenia.”.
+**Art. 1.** W ustawie z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. z 2017 r. poz. 2047 oraz z 2018 r. poz. 650) w art. 6 ust. 3 otrzymuje brzmienie:
+
+> „3. Odszkodowanie za szkody, o których mowa w ust. 2:  
+> 1) pkt 1 – może być pomniejszone o nie więcej niż 10% wartości tych szkód;  
+> 2) pkt 2 – może być pomniejszone o 20%, 25% albo 30% sumy ubezpieczenia w zależności od wysokości pomniejszenia wskazanej w umowie ubezpieczenia.”.  
 
 **Art. 2.** Przepisy art. 6 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia notyfikowania Rzeczypospolitej Polskiej pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem zmiany programu pomocy dotyczącego dopłat do składek z tytułu ubezpieczenia upraw rolnych i zwierząt gospodarskich oraz częściowego dofinansowania odszkodowań wypłacanych producentom rolnym w związku z suszą (reasekuracja).
 

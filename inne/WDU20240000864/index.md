@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000864) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/864/text.pdf) |
 
 zmieniające rozporządzenie w sprawie kursów kwalifikacyjnych dla farmaceutów Na podstawie art. 76 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2024 r. poz. 676) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 18 sierpnia 2022 r. w sprawie kursów kwalifikacyjnych dla farmaceutów (Dz. U. z 2024 r. poz. 257) w § 2:
-1) uchyla się pkt 1;
-2) pkt 2 otrzymuje brzmienie: „2) przeprowadzania badania kwalifikacyjnego w celu wykluczenia przeciwwskazań do wykonania u osoby dorosłej zalecanego szczepienia ochronnego wskazanego w wykazie, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 10 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284 i 1938), lub szczepienia przeciw COVID-19 oraz przeprowadzania tych szczepień;”.
-§2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 18 sierpnia 2022 r. w sprawie kursów kwalifikacyjnych dla farmaceutów (Dz. U. z 2024 r. poz. 257) w § 2:
+
+- **1)** uchyla się pkt 1;
+- **2)** pkt 2 otrzymuje brzmienie: „2) przeprowadzania badania kwalifikacyjnego w celu wykluczenia przeciwwskazań do wykonania u osoby dorosłej zalecanego szczepienia ochronnego wskazanego w wykazie, o którym mowa w przepisach wydanych na podstawie art. 19 ust. 10 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284 i 1938), lub szczepienia przeciw COVID-19 oraz przeprowadzania tych szczepień;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Konieczny
 

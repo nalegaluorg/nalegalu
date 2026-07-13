@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/97/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu jednostek upoważnionych do przeprowadzania badań materiałów i procesów technologicznych w celu ustalenia stopnia ich szkodliwości dla zdrowia oraz zakresu tych badań Na podstawie art. 220 § 2 pkt 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25) zarządza się, co następuje:
-§1. W rozporządzeniu Ministra Zdrowia z dnia 3 listopada 2022 r. w sprawie wykazu jednostek upoważnionych do przeprowadzania badań materiałów i procesów technologicznych w celu ustalenia stopnia ich szkodliwości dla zdrowia oraz zakresu tych badań (Dz. U. poz. 2379) w załączniku do rozporządzenia lp. 4 otrzymuje brzmienie: 4 Gdański Uniwersytet Medyczny ocena materiałów i procesów technologicznych pod względem szkodliwości fizycznych, chemicznych i biologicznych
-§2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. K. Kęcka
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 3 listopada 2022 r. w sprawie wykazu jednostek upoważnionych do przeprowadzania badań materiałów i procesów technologicznych w celu ustalenia stopnia ich szkodliwości dla zdrowia oraz zakresu tych badań (Dz. U. poz. 2379) w załączniku do rozporządzenia lp. 4 otrzymuje brzmienie: 4 Gdański Uniwersytet Medyczny ocena materiałów i procesów technologicznych pod względem szkodliwości fizycznych, chemicznych i biologicznych
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. K. Kęcka
 

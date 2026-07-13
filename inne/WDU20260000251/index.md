@@ -27,9 +27,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000251) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/251/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzorów oświadczeń o przysługującym świadczeniobiorcy prawie do świadczeń opieki zdrowotnej Na podstawie art. 50 ust. 10 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26 i 203) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 4 marca 2021 r. w sprawie wzorów oświadczeń o przysługującym świadczeniobiorcy prawie do świadczeń opieki zdrowotnej (Dz. U. z 2023 r. poz. 1043) wprowadza się następujące zmiany:
-1) w § 1 uchyla się pkt 3 i 4;
-2) uchyla się załączniki nr 3 i 4 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 5 marca 2026 r.
-Minister Zdrowia: wz. T. Maciejewski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 4 marca 2021 r. w sprawie wzorów oświadczeń o przysługującym świadczeniobiorcy prawie do świadczeń opieki zdrowotnej (Dz. U. z 2023 r. poz. 1043) wprowadza się następujące zmiany:
+
+- **1)** w § 1 uchyla się pkt 3 i 4;
+- **2)** uchyla się załączniki nr 3 i 4 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 5 marca 2026 r. Minister Zdrowia: wz. T. Maciejewski
 

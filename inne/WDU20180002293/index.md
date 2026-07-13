@@ -27,10 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie statutu Narodowego Centrum Badań i Rozwoju Na podstawie art. 1 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U.
 z 2018 r. poz. 1249 i 1669) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 1153) w załączniku do rozporządzenia wprowadza się następujące zmiany:
-1) w § 2 w ust. 2 pkt 1 otrzymuje brzmienie: „1) przygotowanie i przedstawienie do zatwierdzenia ministrowi właściwemu do spraw szkolnictwa wyższego i nauki, zwanemu dalej „Ministrem”, projektu rocznego planu działalności Centrum;”;
-2) w § 8 ust. 1 otrzymuje brzmienie: „1. Komitet Sterujący do spraw badań naukowych i prac rozwojowych w obszarze bezpieczeństwa i obronności państwa, zwany dalej „Komitetem Sterującym”, koordynuje realizację badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa.”;
-3) w § 11 w ust. 1 w pkt 1 lit. d otrzymuje brzmienie: „d) zarządzania programami badań aplikacyjnych,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: J. Gowin
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 1153) w załączniku do rozporządzenia wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 2 pkt 1 otrzymuje brzmienie: „1) przygotowanie i przedstawienie do zatwierdzenia ministrowi właściwemu do spraw szkolnictwa wyższego i nauki, zwanemu dalej „Ministrem”, projektu rocznego planu działalności Centrum;”;
+- **2)** w § 8 ust. 1 otrzymuje brzmienie: „1. Komitet Sterujący do spraw badań naukowych i prac rozwojowych w obszarze bezpieczeństwa i obronności państwa, zwany dalej „Komitetem Sterującym”, koordynuje realizację badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa.”;
+- **3)** w § 11 w ust. 1 w pkt 1 lit. d otrzymuje brzmienie: „d) zarządzania programami badań aplikacyjnych,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: J. Gowin
 

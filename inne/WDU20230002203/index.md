@@ -30,33 +30,44 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 stycznia 2020 r. zmieniającego rozporządzenie w sprawie szkoleń inspektorów ochrony przeciwpożarowej (Dz. U. poz. 120), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 13 listopada 2015 r.
 w sprawie szkoleń inspektorów ochrony przeciwpożarowej Na podstawie art. 4a ust. 12 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057 oraz z 2023 r. poz. 1088 i 1560) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) zakresy szkolenia inspektorów ochrony przeciwpożarowej i szkolenia aktualizującego inspektorów ochrony przeciwpożarowej;
-2) elementy programów szkolenia inspektorów ochrony przeciwpożarowej i szkolenia aktualizującego inspektorów ochrony przeciwpożarowej;
-3) wzór zaświadczenia o ukończeniu szkolenia inspektorów ochrony przeciwpożarowej;
-4) wzór zaświadczenia o ukończeniu szkolenia aktualizującego inspektorów ochrony przeciwpożarowej;
-5) sposób i tryb wnoszenia opłaty za szkolenie inspektorów ochrony przeciwpożarowej i szkolenie aktualizujące inspektorów ochrony przeciwpożarowej, zwane dalej „szkoleniami”.
-§ 2. Szkolenia obejmują:
-1) organizację ochrony przeciwpożarowej;
-2) obowiązki właściciela, zarządcy lub użytkownika budynku, obiektu budowlanego lub terenu w zakresie zapewnienia ochrony przeciwpożarowej;
-3) zasady zabezpieczenia przeciwpożarowego budynku, obiektu budowlanego, terenu oraz instalacji i urządzeń użytkowych;
-4) wyposażenie budynku, obiektu budowlanego oraz terenu w urządzenia przeciwpożarowe i gaśnice;
-5) przyczyny powstawania i rozprzestrzeniania się pożarów oraz zasady ich gaszenia;
-6) sposoby postępowania na wypadek powstania pożaru, klęski żywiołowej lub innego miejscowego zagrożenia;
-7) zasady ewakuacji ludzi i mienia;
-8) zasady działalności profilaktycznej w budynku, obiekcie budowlanym, na terenie, w tym przeprowadzania kontroli przestrzegania przepisów przeciwpożarowych.
-§ 3. Programy szkoleń zawierają:
-1) plany nauczania;
-2) szczegółowe bloki tematyczne obejmujące:
-a) cele kształcenia określające wiedzę i umiejętności, które słuchacz powinien opanować,
-b) materiał nauczania w formie haseł tematycznych, powiązanych z celami kształcenia;
-3) wskazania metodyczne odnoszące się do realizacji programów;
-4) propozycje sprawdzania i oceny osiągnięć edukacyjnych słuchacza;
-5) zasady przeprowadzania egzaminów końcowych.
-§ 4. Wzór zaświadczenia o ukończeniu szkolenia inspektorów ochrony przeciwpożarowej jest określony w załączniku nr 1 do rozporządzenia.
-§ 5. Wzór zaświadczenia o ukończeniu szkolenia aktualizującego inspektorów ochrony przeciwpożarowej jest określony w załączniku nr 2 do rozporządzenia.
-§ 6. Opłata za szkolenie jest wnoszona na konto bankowe podmiotu prowadzącego szkolenie najpóźniej w pierwszym dniu szkolenia.
-§ 7. Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** zakresy szkolenia inspektorów ochrony przeciwpożarowej i szkolenia aktualizującego inspektorów ochrony przeciwpożarowej;
+- **2)** elementy programów szkolenia inspektorów ochrony przeciwpożarowej i szkolenia aktualizującego inspektorów ochrony przeciwpożarowej;
+- **3)** wzór zaświadczenia o ukończeniu szkolenia inspektorów ochrony przeciwpożarowej;
+- **4)** wzór zaświadczenia o ukończeniu szkolenia aktualizującego inspektorów ochrony przeciwpożarowej;
+- **5)** sposób i tryb wnoszenia opłaty za szkolenie inspektorów ochrony przeciwpożarowej i szkolenie aktualizujące inspektorów ochrony przeciwpożarowej, zwane dalej „szkoleniami”.
+
+**§ 2.** Szkolenia obejmują:
+
+- **1)** organizację ochrony przeciwpożarowej;
+- **2)** obowiązki właściciela, zarządcy lub użytkownika budynku, obiektu budowlanego lub terenu w zakresie zapewnienia ochrony przeciwpożarowej;
+- **3)** zasady zabezpieczenia przeciwpożarowego budynku, obiektu budowlanego, terenu oraz instalacji i urządzeń użytkowych;
+- **4)** wyposażenie budynku, obiektu budowlanego oraz terenu w urządzenia przeciwpożarowe i gaśnice;
+- **5)** przyczyny powstawania i rozprzestrzeniania się pożarów oraz zasady ich gaszenia;
+- **6)** sposoby postępowania na wypadek powstania pożaru, klęski żywiołowej lub innego miejscowego zagrożenia;
+- **7)** zasady ewakuacji ludzi i mienia;
+- **8)** zasady działalności profilaktycznej w budynku, obiekcie budowlanym, na terenie, w tym przeprowadzania kontroli przestrzegania przepisów przeciwpożarowych.
+
+**§ 3.** Programy szkoleń zawierają:
+
+- **1)** plany nauczania;
+- **2)** szczegółowe bloki tematyczne obejmujące:
+    - **a)** cele kształcenia określające wiedzę i umiejętności, które słuchacz powinien opanować,
+    - **b)** materiał nauczania w formie haseł tematycznych, powiązanych z celami kształcenia;
+
+- **3)** wskazania metodyczne odnoszące się do realizacji programów;
+- **4)** propozycje sprawdzania i oceny osiągnięć edukacyjnych słuchacza;
+- **5)** zasady przeprowadzania egzaminów końcowych.
+
+**§ 4.** Wzór zaświadczenia o ukończeniu szkolenia inspektorów ochrony przeciwpożarowej jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 5.** Wzór zaświadczenia o ukończeniu szkolenia aktualizującego inspektorów ochrony przeciwpożarowej jest określony w załączniku nr 2 do rozporządzenia.
+
+**§ 6.** Opłata za szkolenie jest wnoszona na konto bankowe podmiotu prowadzącego szkolenie najpóźniej w pierwszym dniu szkolenia.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r.
 
 ## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych z dnia13 listopada 2015 r. (Dz. U.
 

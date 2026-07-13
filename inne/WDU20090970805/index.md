@@ -36,7 +36,11 @@ source: pdf
 
 - **3)** w art. 4:
     - **a)** uchyla się ust. 1-3,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Członków rady pracowników u pracodawcy zatrudniającego: 1) do 100 pracowników - wybierają pracownicy spośród kandydatów zgłoszonych na piśmie przez grupę co najmniej 10 pracowników; 2) powyżej 100 pracowników - wybierają pracownicy spośród kandydatów zgłoszonych na piśmie przez grupę co najmniej 20 pracowników.”,
+    - **b)** ust. 4 otrzymuje brzmienie:
+
+      > „4. Członków rady pracowników u pracodawcy zatrudniającego:  
+      > 1) do 100 pracowników - wybierają pracownicy spośród kandydatów zgłoszonych na piśmie przez grupę co najmniej 10 pracowników;  
+      > 2) powyżej 100 pracowników - wybierają pracownicy spośród kandydatów zgłoszonych na piśmie przez grupę co najmniej 20 pracowników.”,  
     - **c)** uchyla się ust. 5 i 6;
 
 - **4)** w art. 5 w ust. 1:
@@ -54,7 +58,15 @@ source: pdf
     - **b)** uchyla się ust. 3 i 4;
 
 - **9)** art. 18 otrzymuje brzmienie: „Art. 18. Pracodawca w terminie 30 dni od dnia wyboru członków rady pracowników przez pracowników przekazuje ministrowi właściwemu do spraw pracy informacje dotyczące rady pracowników według wzoru stanowiącego załącznik do ustawy.”;
-- **10)** załącznik do ustawy otrzymuje brzmienie: „Załącznik Wzór informacji o radzie pracowników 1. Nazwa pracodawcy ...................................................... 2. Adres (siedziba lub miejsce zamieszkania) pracodawcy .................................... 3. Data utworzenia rady pracowników .............................................. 4. Liczba członków rady pracowników ............................................. 5. Czy warunki informowania pracowników i przeprowadzania z nimi konsultacji: 1) zostały ustalone przez radę pracowników z pracodawcą, lub 2) obowiązują regulacje ustawowe .......................................... 6. Zakres ustaleń przyjętych przez radę pracowników z pracodawcą na podstawie art. 5 ust. 1 i 2 ............................................ Objaśnienie: Ad 4 - wskazać podstawę prawną, tj. art. 3 ust. 1 pkt 1, 2 lub 3.”.
+- **10)** załącznik do ustawy otrzymuje brzmienie:
+
+  > „Załącznik Wzór informacji o radzie pracowników 1. Nazwa pracodawcy ......................................................  
+  > 2. Adres (siedziba lub miejsce zamieszkania) pracodawcy ....................................  
+  > 3. Data utworzenia rady pracowników ..............................................  
+  > 4. Liczba członków rady pracowników .............................................  
+  > 5. Czy warunki informowania pracowników i przeprowadzania z nimi konsultacji:  
+  > 1) zostały ustalone przez radę pracowników z pracodawcą, lub 2) obowiązują regulacje ustawowe ..........................................  
+  > 6. Zakres ustaleń przyjętych przez radę pracowników z pracodawcą na podstawie art. 5 ust. 1 i 2 ............................................ Objaśnienie: Ad 4 - wskazać podstawę prawną, tj. art. 3 ust. 1 pkt 1, 2 lub 3.”.  
 
 **Art. 2.**
 

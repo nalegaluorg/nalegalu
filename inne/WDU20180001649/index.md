@@ -26,14 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001649) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1649/text.pdf) |
 
 zmieniające rozporządzenie w sprawie reklamacji usługi pocztowej Na podstawie art. 92 ust. 4 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106, 138, 650, 1118 i 1629) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 26 listopada 2013 r. w sprawie reklamacji usługi pocztowej (Dz. U. z 2018 r. poz. 421) wprowadza się następujące zmiany:
-1) w § 10 w ust. 1 w pkt 6:
-a) lit. b otrzymuje brzmienie: „b) w sprawie pozasądowego rozwiązywania sporów konsumenckich przed Prezesem Urzędu Komunikacji Elektronicznej.”,
-b) uchyla się lit. c;
-2) w § 12 w ust. 2:
-a) pkt 2 otrzymuje brzmienie: „2) w sprawie pozasądowego rozwiązywania sporów konsumenckich przed Prezesem Urzędu Komunikacji Elektronicznej.”,
-b) uchyla się pkt 3.
-§ 2. Do postępowań reklamacyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie z dniem 12 września 2018 r.
-Minister Infrastruktury: wz. A. Bittel
+
+**§ 1.** W rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 26 listopada 2013 r. w sprawie reklamacji usługi pocztowej (Dz. U. z 2018 r. poz. 421) wprowadza się następujące zmiany:
+
+- **1)** w § 10 w ust. 1 w pkt 6:
+    - **a)** lit. b otrzymuje brzmienie: „b) w sprawie pozasądowego rozwiązywania sporów konsumenckich przed Prezesem Urzędu Komunikacji Elektronicznej.”,
+    - **b)** uchyla się lit. c;
+
+- **2)** w § 12 w ust. 2:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) w sprawie pozasądowego rozwiązywania sporów konsumenckich przed Prezesem Urzędu Komunikacji Elektronicznej.”,
+    - **b)** uchyla się pkt 3.
+
+**§ 2.** Do postępowań reklamacyjnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 12 września 2018 r. Minister Infrastruktury: wz. A. Bittel
 

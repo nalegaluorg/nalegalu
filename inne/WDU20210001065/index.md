@@ -30,9 +30,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 4 marca 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem (Dz. U. poz. 488), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: M. Kurtyka
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378) zarządza się, co następuje:
-§ 1. Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
-STATUT TATRZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W ZAKOPANEM
+
+**§ 1.** Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia . STATUT TATRZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W ZAKOPANEM
+
+## Załącznik
+
 § 1. Tatrzański Park Narodowy z siedzibą w Zakopanem, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55, 471 i 1378) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne:
 1) Dział Ochrony Przyrody, w skład którego wchodzą:

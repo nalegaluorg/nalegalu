@@ -27,18 +27,27 @@ source: pdf
 
 w sprawie wzorów dokumentów oceny wskazującej czas powstania zabytku, wyceny zabytku oraz potwierdzenia wwozu zabytku na terytorium Rzeczypospolitej Polskiej Na podstawie art. 59 ust. 5 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2018 r.
 poz. 2067 i 2245 oraz z 2019 r. poz. 730) zarządza się, co następuje:
-§ 1. Określa się wzory dokumentów:
-1) oceny wskazującej czas powstania zabytku, stanowiący załącznik nr 1 do rozporządzenia;
-2) wyceny zabytku, stanowiący załącznik nr 2 do rozporządzenia;
-3) potwierdzenia wwozu zabytku na terytorium Rzeczypospolitej Polskiej, stanowiący załącznik nr 3 do rozporządzenia.
-§ 2. 1. Dokumenty, o których mowa w § 1, ich wydruki i kserokopie mają format A4.
+
+**§ 1.** Określa się wzory dokumentów:
+
+- **1)** oceny wskazującej czas powstania zabytku, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** wyceny zabytku, stanowiący załącznik nr 2 do rozporządzenia;
+- **3)** potwierdzenia wwozu zabytku na terytorium Rzeczypospolitej Polskiej, stanowiący załącznik nr 3 do rozporządzenia.
+
+**§ 2.**
+
+1. Dokumenty, o których mowa w § 1, ich wydruki i kserokopie mają format A4.
+
 2. Dla wzoru dokumentu:
-1) oceny wskazującej czas powstania zabytku ustala się odcień koloru żółtego o symbolu PANTONE 120 U, RGB 255/217/106, CMYK 0/8/66/0;
-2) wyceny zabytku ustala się odcień koloru zielonego o symbolu PANTONE 367 U, RGB 143/209/106, CMYK 42/0/74/0.
-§ 3. Traci moc rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 18 lutego 2011 r. w sprawie wzorów dokumentów oceny wskazującej czas powstania zabytku, wyceny zabytku oraz potwierdzenia wwozu zabytku na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 256).
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
-1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
+
+- **1)** oceny wskazującej czas powstania zabytku ustala się odcień koloru żółtego o symbolu PANTONE 120 U, RGB 255/217/106, CMYK 0/8/66/0;
+- **2)** wyceny zabytku ustala się odcień koloru zielonego o symbolu PANTONE 367 U, RGB 143/209/106, CMYK 42/0/74/0.
+
+**§ 3.** Traci moc rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 18 lutego 2011 r. w sprawie wzorów dokumentów oceny wskazującej czas powstania zabytku, wyceny zabytku oraz potwierdzenia wwozu zabytku na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 256).
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+- **1)** Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 2321).
 
 ## Załącznik nr 1 — Załączniki do rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 19 lipca 2019 r. (poz. ) WZÓR Załącznik nr 1 WZÓR OCENA WSKAZUJĄCA CZAS POWSTANIA ZABYTKU 1 A. DANE ZABYTKU Nazwa rodzajowa/tytuł Autor/wytwórnia Materiał Technika wykonania/nośnik Wymiary Wysokość Szerokość Grubość Inne Opis Datowanie/chronologia B. DANE WYKONUJĄCEGO OCENĘ Nazwa/imię i nazwisko  Instytucja kultury wyspecjalizowana w opiece nad zabytkami  Podmiot gospodarczy wyspecjalizowany w zakresie obrotu zabytkami na terytorium Rzeczypospolitej Polskiej  Rzeczoznawca ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego  Organ administracji publicznej Kraj SIEDZIBA (MIEJSCE ZAMIESZKANIA) I ADRES Województwo Gmina Kod pocztowy Miejscowość Ulica Nr rejestru/ewidencji/listy Nazwa rejestru/ewidencji/listy Organ prowadzący rejestr/ewidencję/listę NIP Imię i nazwisko osoby, która przeprowadziła badania zabytku 1/ 2 C. ZDJĘCIA ZABYTKU Niniejsza ocena wskazująca czas powstania zabytku stanowi zgodnie z art. 59 ust. 2 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2018 r. poz. 2067, z późn. zm.) dokument potwierdzający przed organem Straży Granicznej lub organem celnym fakt, że wywożony za granicę zabytek nie wymaga pozwolenia. Niniejsza ocena wskazująca czas powstania zabytku została wykonana zgodnie ze wskazaniami wiedzy, etyki zawodowej oraz z należytą starannością.
 

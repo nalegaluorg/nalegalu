@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1462/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania lub zmiany numeru peseL Na podstawie art. 23 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 4 stycznia 2012 r. w sprawie nadania lub zmiany numeru PESEL (Dz. U. poz. 74) § 8 otrzymuje brzmienie: „§ 8. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2012 r.
-Minister Spraw Wewnętrznych: J. Cichocki
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 4 stycznia 2012 r. w sprawie nadania lub zmiany numeru PESEL (Dz. U. poz. 74) § 8 otrzymuje brzmienie: „§ 8. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 grudnia 2012 r. Minister Spraw Wewnętrznych: J. Cichocki
 

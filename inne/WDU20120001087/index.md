@@ -28,9 +28,8 @@ source: pdf
 Warszawa, dnia 1 października 2012 v r.
 Poz. 1087 o ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 28 września g 2012 r.
 zmieniające rozporządzenie w sprawie wysokości oraz szczegółowych zasad przyznawania świadczeń otrzymywanych przez strażaków w służbie kandydackiej Na podstawie art. 113 ust. 5 ustawy z dnia 24 sierpnia . 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2009 r. Nr 12, poz. 68, z późn. zm. ) zarządza się, co następuje: l
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 4 grudnia 1997 r. w sprawie wysokości oraz szczegółowych zasad przyznawania c świadczeń otrzymywanych przez strażaków w służbie kandydackiej (Dz. U.
-Nr 160, poz. 1097 oraz z 2000 r. Nr 70, poz. 828) § 12 otrzymuje brzmienie: „§ 12. Wysokość dodatku za posiadany stopień dla strażaka w służbie kandydackiej wynosi: r Lp. Stopień Kwota dodatku miesięcznego w złotych 1 Starszy ogniomistrz 510 .
-2 Ogniomistrz 490 3 Młodszy w ogniomistrz 470 4 Starszy sekcyjny 450 5 Sekcyjny 430 6 Starszy strażak 390 w 7 Strażak 380 ”
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2012 r.
-Minister Spraw Wewnętrznych: J. Cichocki w
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 4 grudnia 1997 r. w sprawie wysokości oraz szczegółowych zasad przyznawania c świadczeń otrzymywanych przez strażaków w służbie kandydackiej (Dz. U. Nr 160, poz. 1097 oraz z 2000 r. Nr 70, poz. 828) § 12 otrzymuje brzmienie: „§ 12. Wysokość dodatku za posiadany stopień dla strażaka w służbie kandydackiej wynosi: r Lp. Stopień Kwota dodatku miesięcznego w złotych 1 Starszy ogniomistrz 510 . 2 Ogniomistrz 490 3 Młodszy w ogniomistrz 470 4 Starszy sekcyjny 450 5 Sekcyjny 430 6 Starszy strażak 390 w 7 Strażak 380 ”
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2012 r. Minister Spraw Wewnętrznych: J. Cichocki w
 

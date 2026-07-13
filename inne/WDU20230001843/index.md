@@ -375,9 +375,15 @@ source: pdf
 
 10. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, zakres obowiązujących tematów egzaminu, tryb i sposób przeprowadzenia egzaminu, sposób ustalania wyniku egzaminu oraz tryb składania i rozpatrywania odwołań od wyniku egzaminu, z uwzględnieniem konieczności zapewnienia odpowiedniego poziomu kwalifikacji osób świadczących doradztwo w zakresie OIPE oraz prawidłowego przebiegu egzaminu i terminowego rozpatrywania odwołań od jego wyniku.
 
-**Art. 28.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2020 r. poz. 1359, z 2022 r. poz. 2140 oraz z 2023 r. poz. 1606 i 1615) w art. 31 w § 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) środki zgromadzone na koncie OIPE w rozumieniu art. 2 pkt 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1) oraz na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843) każdego z małżonków.”.
+**Art. 28.** W ustawie z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2020 r. poz. 1359, z 2022 r. poz. 2140 oraz z 2023 r. poz. 1606 i 1615) w art. 31 w § 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
 
-**Art. 29.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2023 r. poz. 1774) w art. 3 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) nabycie w drodze spadku środków zgromadzonych na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843) oraz na subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str. 1) prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej;”.
+> „5) środki zgromadzone na koncie OIPE w rozumieniu art. 2 pkt 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str.  
+> 1) oraz na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843) każdego z małżonków.”.  
+
+**Art. 29.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2023 r. poz. 1774) w art. 3 po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+> „6a) nabycie w drodze spadku środków zgromadzonych na subkoncie OIPE w rozumieniu art. 2 pkt 9 ustawy z dnia 7 lipca 2023 r. o ogólnoeuropejskim indywidualnym produkcie emerytalnym (Dz. U. poz. 1843) oraz na subkoncie w rozumieniu art. 2 pkt 23 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1238 z dnia 20 czerwca 2019 r. w sprawie ogólnoeuropejskiego indywidualnego produktu emerytalnego (OIPE) (Dz. Urz. UE L 198 z 25.07.2019, str.  
+> 1) prowadzonym zgodnie z przepisami obowiązującymi na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej;”.  
 
 **Art. 30.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) wprowadza się następujące zmiany:
 

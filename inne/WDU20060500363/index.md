@@ -37,8 +37,14 @@ source: pdf
     - **c)** w pkt 6 lit. d otrzymuje brzmienie: „d) pobranych zaliczkach na poczet opłaty, o których mowa w art. 33.”;
 
 - **4)** w art. 15 ust. 5 otrzymuje brzmienie: „5. Producent, który otrzymał indywidualną ilość referencyjną przyznaną z krajowej rezerwy, w okresie 2 lat od dnia wydania decyzji, o której mowa w ust. 1, nie może dokonać zbycia oraz oddać w używanie części lub całości indywidualnej ilości referencyjnej, chyba że zrzeknie się pisemnie praw wynikających z decyzji, o której mowa w ust. 1.”;
-- **5)** w art. 22 ust. 4 i 5 otrzymują brzmienie: „4. Wniosek, o którym mowa w ust. 2, składa się od dnia 1 sierpnia do ostatniego dnia lutego danego roku kwotowego na formularzu opracowanym i udostępnianym przez Agencję. 5. Umowa, o której mowa w ust. 1, może zostać zawarta między producentami posiadającymi gospodarstwa na terenie tego samego oddziału terenowego Agencji.”;
-- **6)** w art. 22a ust. 3 i 4 otrzymują brzmienie: „3. Wniosek, o którym mowa w ust. 2, zawiera informacje określone w art. 22 ust. 3 oraz jest składany od dnia 1 sierpnia do dnia 31 stycznia danego roku kwotowego na formularzu opracowanym i udostępnianym przez Agencję. 4. Umowa, o której mowa w ust. 1, może zostać zawarta na dany rok kwotowy między producentami posiadającymi gospodarstwa na terenie tego samego oddziału terenowego Agencji.”;
+- **5)** w art. 22 ust. 4 i 5 otrzymują brzmienie:
+
+  > „4. Wniosek, o którym mowa w ust. 2, składa się od dnia 1 sierpnia do ostatniego dnia lutego danego roku kwotowego na formularzu opracowanym i udostępnianym przez Agencję.  
+  > 5. Umowa, o której mowa w ust. 1, może zostać zawarta między producentami posiadającymi gospodarstwa na terenie tego samego oddziału terenowego Agencji.”;  
+- **6)** w art. 22a ust. 3 i 4 otrzymują brzmienie:
+
+  > „3. Wniosek, o którym mowa w ust. 2, zawiera informacje określone w art. 22 ust. 3 oraz jest składany od dnia 1 sierpnia do dnia 31 stycznia danego roku kwotowego na formularzu opracowanym i udostępnianym przez Agencję.  
+  > 4. Umowa, o której mowa w ust. 1, może zostać zawarta na dany rok kwotowy między producentami posiadającymi gospodarstwa na terenie tego samego oddziału terenowego Agencji.”;  
 - **7)** w art. 23 w ust. 2 pkt 2 otrzymuje brzmienie: „2) producent, który otrzymał indywidualną ilość referencyjną z krajowej rezerwy, zawarł umowę zbycia indywidualnej ilości referencyjnej lub jej części przed upływem dwóch lat od dnia wydania decyzji o przyznaniu mu indywidualnej ilości referencyjnej z krajowej rezerwy, chyba że zrzekł się pisemnie praw wynikających z decyzji, o której mowa w art. 15 ust. 1”;
 - **8)** w art. 24:
     - **a)** ust. 5 otrzymuje brzmienie: „5. Wniosek, o którym mowa w ust. 2, składa się od dnia 1 sierpnia do dnia 31 grudnia danego roku kwotowego.”,
@@ -46,12 +52,23 @@ source: pdf
 
 - **9)** w art. 33:
     - **a)** ust. 4 otrzymuje brzmienie: „4. W przypadku gdy dostawca hurtowy, który wnosił zaliczki na poczet opłaty, zwiększył przysługującą mu indywidualną ilość referencyjną w trakcie trwania roku kwotowego i ilość mleka wprowadzonego do obrotu nie przekracza indywidualnej ilości referencyjnej przysługującej na dany dzień roku zadeklarowanej w celu dostarczenia podmiotowi skupującemu, podmiot skupujący zaprzestaje obliczania zaliczek i potrącania ich przy zapłacie za mleko dostarczone przez dostawcę hurtowego.”,
-    - **b)** dodaje się ust. 5 i 6 w brzmieniu: „5. W przypadku, o którym mowa w ust. 4, dyrektor oddziału terenowego Agencji właściwy ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego, na jego wniosek, składany na formularzu opracowanym i udostępnianym przez Agencję, zobowiązuje, w drodze decyzji, podmiot skupujący do zwrotu pobranych zaliczek oraz określa ich wysokość. 6. Kwotę z tytułu zwrotu zaliczek podmiot skupujący zwraca dostawcy hurtowemu w terminie 14 dni od dnia, w którym decyzja, o której mowa w ust. 5, stała się ostateczna.”;
+    - **b)** dodaje się ust. 5 i 6 w brzmieniu:
+
+      > „5. W przypadku, o którym mowa w ust. 4, dyrektor oddziału terenowego Agencji właściwy ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego, na jego wniosek, składany na formularzu opracowanym i udostępnianym przez Agencję, zobowiązuje, w drodze decyzji, podmiot skupujący do zwrotu pobranych zaliczek oraz określa ich wysokość.  
+      > 6. Kwotę z tytułu zwrotu zaliczek podmiot skupujący zwraca dostawcy hurtowemu w terminie 14 dni od dnia, w którym decyzja, o której mowa w ust. 5, stała się ostateczna.”;  
 
 - **10)** w art. 36:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Dyrektorzy oddziałów terenowych Agencji, o których mowa w ust. 1, do dnia 15 sierpnia określają dostawcom hurtowym, w drodze decyzji, wysokość należnych opłat i związanych z tym dopłat albo zwrotów zaliczek oraz przesyłają do podmiotów skupujących, także w wersji elektronicznej, zbiorcze informacje o wysokości tych opłat, dopłat i zwrotów zaliczek.”,
-    - **b)** ust. 4-6 otrzymują brzmienie: „4. Kwotę z tytułu zwrotu zaliczek, o których mowa w ust. 3 pkt 1, lub ich części, o której mowa w ust. 3 pkt 2, podmiot skupujący przekazuje dostawcom hurtowym w terminie do dnia 1 września. 5. Podmiot skupujący jest obowiązany do pobrania od dostawcy hurtowego dopłaty, o której mowa w ust. 3 pkt 3. 6. Dopłatę, o której mowa w ust. 5, wraz z wpłaconymi zaliczkami, podmiot skupujący jest obowiązany przekazać na rachunek bankowy oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego w terminie do dnia 31 sierpnia.”,
-    - **c)** dodaje się ust. 7-9 w brzmieniu: „7. Jeżeli dostawca hurtowy nie przekazał podmiotowi skupującemu w całości dopłaty, o której mowa w ust. 3 pkt 3, podmiot skupujący może rozłożyć zaległą część dopłaty na raty. 8. Decyzja, o której mowa w ust. 2, podlega natychmiastowemu wykonaniu. 9. Upoważnionym do żądania wykonania, w drodze egzekucji administracyjnej, obowiązku wynikającego z decyzji, o której mowa w ust. 2, jest podmiot skupujący wskazany w tej decyzji.”;
+    - **b)** ust. 4-6 otrzymują brzmienie:
+
+      > „4. Kwotę z tytułu zwrotu zaliczek, o których mowa w ust. 3 pkt 1, lub ich części, o której mowa w ust. 3 pkt 2, podmiot skupujący przekazuje dostawcom hurtowym w terminie do dnia 1 września.  
+      > 5. Podmiot skupujący jest obowiązany do pobrania od dostawcy hurtowego dopłaty, o której mowa w ust. 3 pkt 3.  
+      > 6. Dopłatę, o której mowa w ust. 5, wraz z wpłaconymi zaliczkami, podmiot skupujący jest obowiązany przekazać na rachunek bankowy oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego w terminie do dnia 31 sierpnia.”,  
+    - **c)** dodaje się ust. 7-9 w brzmieniu:
+
+      > „7. Jeżeli dostawca hurtowy nie przekazał podmiotowi skupującemu w całości dopłaty, o której mowa w ust. 3 pkt 3, podmiot skupujący może rozłożyć zaległą część dopłaty na raty.  
+      > 8. Decyzja, o której mowa w ust. 2, podlega natychmiastowemu wykonaniu.  
+      > 9. Upoważnionym do żądania wykonania, w drodze egzekucji administracyjnej, obowiązku wynikającego z decyzji, o której mowa w ust. 2, jest podmiot skupujący wskazany w tej decyzji.”;  
 
 - **11)** w art. 37 dodaje się ust. 3 w brzmieniu: „3. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.”;
 - **12)** w art. 40:

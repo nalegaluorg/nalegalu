@@ -26,17 +26,21 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/274/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych Na podstawie art. 44f ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050 oraz z 2021 r. poz. 2469) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 17 sierpnia 2018 r. w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych (Dz. U. z 2021 r. poz. 406 i 518) wprowadza się następujące zmiany:
-1) w odnośniku nr 2 do tytułu rozporządzenia w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) dyrektywę delegowaną Komisji (UE) 2021/802 z dnia 12 marca 2021 r. zmieniającą załącznik do decyzji ramowej Rady 2004/757/WSiSW w odniesieniu do włączenia nowych substancji psychoaktywnych 3,3-dimetylo-2-(1-(pent-4-en-1-ylo)-1H-indazolo-3-karbonylo]amino]butanianu metylu (MDMB-4en-PINACA) oraz 2-[1-(4-fluorobutylo)-1H-indolo-3-karbonylo]amino]-3,3-dimetylobutanianu metylu (4F-MDMB-BICA) do definicji narkotyku (Dz. Urz. UE L 178 z 20.05.2021, str. 1).”;
-2) w załączniku nr 1 do rozporządzenia „WYKAZ SUBSTANCJI PSYCHOTROPOWYCH Z PODZIAŁEM NA GRUPY, O KTÓRYCH MOWA W ART. 32 USTAWY Z DNIA 29 LIPCA 2005 R. O PRZECIWDZIAŁANIU NARKOMANII” w części:
-a) „2. SUBSTANCJE PSYCHOTROPOWE GRUPY II-P” w tabeli po lp. 70 dodaje się lp. 71–74 w brzmieniu: 71 CUMYL-PEGACLONE SGT-151 2-(1-metylo-1-fenylo-etylo)-5-pentylo-pirydo[4,3-b]indol-1-on 72 MDMB-4en-PINACA 3,3-dimetylo-2-(1-(pent-4-en-1-ylo)-1H-indazolo-3-karboksyamido)butanian metylu 73 DIFENIDYNA 1-(1,2-difenyloetylo)piperydyna 74 4F-MDMB-BICA 2-[1-(4-fluorobutylo)-1H-indolo-3-karbonylo]amino]-3,3-dimetylobutanian metylu
-b) „4. SUBSTANCJE PSYCHOTROPOWE GRUPY IV-P” w tabeli po lp. 75 dodaje się lp. 76–78 w brzmieniu: 76 KLONAZOLAM Clonitrazolam 6-(2-chlorofenylo)-1-metylo-8-nitro-4H-[1,2,4]triazolo[4,3a][1,4]-benzodiazepina 77 FLUBROMAZOLAM 8-bromo-6-(2-fluorofenylo)-1-metylo-4H-[1,2,4]triazolo[4,3a][1,4]-benzodiazepina 78 DIKLAZEPAM 2-Chlorodiazepam, 7-chloro-5-(2-chlorofenylo)-1-metylo-1,3-dihydro-2H-1,4-benzoRo 5-3448 diazepin-2-on
-3) w załączniku nr 2 do rozporządzenia „WYKAZ ŚRODKÓW ODURZAJĄCYCH Z PODZIAŁEM NA GRUPY, O KTÓRYCH MOWA W ART. 31 USTAWY Z DNIA 29 LIPCA 2005 R. O PRZECIWDZIAŁANIU NARKOMANII, ORAZ ZE WSKAZANIEM ŚRODKÓW ODURZAJĄCYCH GRUPY IV-N DOPUSZCZONYCH DO STOSOWANIA W LECZNICTWIE ZWIERZĄT ZGODNIE Z ART. 33 UST. 2 TEJ USTAWY” w części:
-a) „1. ŚRODKI ODURZAJĄCE GRUPY I-N” w tabeli po lp. 204 dodaje się lp. 205 w brzmieniu: 205 IZOTONITAZEN N,N-dietylo-2-[[4-(1-metyloetoksy)fenylo]metylo]-5-nitro-1H-benzimidazolo-1-etanoamina
-b) „4. ŚRODKI ODURZAJĄCE GRUPY IV-N” w tabeli uchyla się lp. 11 i lp. 17;
-4) w załączniku nr 3 do rozporządzenia „WYKAZ NOWYCH SUBSTANCJI PSYCHOAKTYWNYCH” w części „1. Wykaz nowych substancji psychoaktywnych z określeniem ich nazw i oznaczeń chemicznych” w tabeli:
-a) uchyla się lp. 30–32 i 51,
-b) po lp. 52 dodaje się lp. 53 i 54 w brzmieniu: 53 3-HO-PCP 3-hydroksyfencyklidyna 3-[1-(piperydyn-1-ylo)cykloheksylo]fenol 54 1cP-LSD dietyloamid kwasu (6aR,9R)-4-cyklopropanokarbonylo-N,N-dietylo-7-metylo-6,6a,8,9-tetra1-cyklopropionylo- hydroindolo[4,3-fg]chinolino-9-karboksyamid -d-lizergowego
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 17 sierpnia 2018 r. w sprawie wykazu substancji psychotropowych, środków odurzających oraz nowych substancji psychoaktywnych (Dz. U. z 2021 r. poz. 406 i 518) wprowadza się następujące zmiany:
+
+- **1)** w odnośniku nr 2 do tytułu rozporządzenia w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) dyrektywę delegowaną Komisji (UE) 2021/802 z dnia 12 marca 2021 r. zmieniającą załącznik do decyzji ramowej Rady 2004/757/WSiSW w odniesieniu do włączenia nowych substancji psychoaktywnych 3,3-dimetylo-2-(1-(pent-4-en-1-ylo)-1H-indazolo-3-karbonylo]amino]butanianu metylu (MDMB-4en-PINACA) oraz 2-[1-(4-fluorobutylo)-1H-indolo-3-karbonylo]amino]-3,3-dimetylobutanianu metylu (4F-MDMB-BICA) do definicji narkotyku (Dz. Urz. UE L 178 z 20.05.2021, str. 1).”;
+- **2)** w załączniku nr 1 do rozporządzenia „WYKAZ SUBSTANCJI PSYCHOTROPOWYCH Z PODZIAŁEM NA GRUPY, O KTÓRYCH MOWA W ART. 32 USTAWY Z DNIA 29 LIPCA 2005 R. O PRZECIWDZIAŁANIU NARKOMANII” w części:
+    - **a)** „2. SUBSTANCJE PSYCHOTROPOWE GRUPY II-P” w tabeli po lp. 70 dodaje się lp. 71–74 w brzmieniu: 71 CUMYL-PEGACLONE SGT-151 2-(1-metylo-1-fenylo-etylo)-5-pentylo-pirydo[4,3-b]indol-1-on 72 MDMB-4en-PINACA 3,3-dimetylo-2-(1-(pent-4-en-1-ylo)-1H-indazolo-3-karboksyamido)butanian metylu 73 DIFENIDYNA 1-(1,2-difenyloetylo)piperydyna 74 4F-MDMB-BICA 2-[1-(4-fluorobutylo)-1H-indolo-3-karbonylo]amino]-3,3-dimetylobutanian metylu
+    - **b)** „4. SUBSTANCJE PSYCHOTROPOWE GRUPY IV-P” w tabeli po lp. 75 dodaje się lp. 76–78 w brzmieniu: 76 KLONAZOLAM Clonitrazolam 6-(2-chlorofenylo)-1-metylo-8-nitro-4H-[1,2,4]triazolo[4,3a][1,4]-benzodiazepina 77 FLUBROMAZOLAM 8-bromo-6-(2-fluorofenylo)-1-metylo-4H-[1,2,4]triazolo[4,3a][1,4]-benzodiazepina 78 DIKLAZEPAM 2-Chlorodiazepam, 7-chloro-5-(2-chlorofenylo)-1-metylo-1,3-dihydro-2H-1,4-benzoRo 5-3448 diazepin-2-on
+
+- **3)** w załączniku nr 2 do rozporządzenia „WYKAZ ŚRODKÓW ODURZAJĄCYCH Z PODZIAŁEM NA GRUPY, O KTÓRYCH MOWA W ART. 31 USTAWY Z DNIA 29 LIPCA 2005 R. O PRZECIWDZIAŁANIU NARKOMANII, ORAZ ZE WSKAZANIEM ŚRODKÓW ODURZAJĄCYCH GRUPY IV-N DOPUSZCZONYCH DO STOSOWANIA W LECZNICTWIE ZWIERZĄT ZGODNIE Z ART. 33 UST. 2 TEJ USTAWY” w części:
+    - **a)** „1. ŚRODKI ODURZAJĄCE GRUPY I-N” w tabeli po lp. 204 dodaje się lp. 205 w brzmieniu: 205 IZOTONITAZEN N,N-dietylo-2-[[4-(1-metyloetoksy)fenylo]metylo]-5-nitro-1H-benzimidazolo-1-etanoamina
+    - **b)** „4. ŚRODKI ODURZAJĄCE GRUPY IV-N” w tabeli uchyla się lp. 11 i lp. 17;
+
+- **4)** w załączniku nr 3 do rozporządzenia „WYKAZ NOWYCH SUBSTANCJI PSYCHOAKTYWNYCH” w części „1. Wykaz nowych substancji psychoaktywnych z określeniem ich nazw i oznaczeń chemicznych” w tabeli:
+    - **a)** uchyla się lp. 30–32 i 51,
+    - **b)** po lp. 52 dodaje się lp. 53 i 54 w brzmieniu: 53 3-HO-PCP 3-hydroksyfencyklidyna 3-[1-(piperydyn-1-ylo)cykloheksylo]fenol 54 1cP-LSD dietyloamid kwasu (6aR,9R)-4-cyklopropanokarbonylo-N,N-dietylo-7-metylo-6,6a,8,9-tetra1-cyklopropionylo- hydroindolo[4,3-fg]chinolino-9-karboksyamid -d-lizergowego
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski
 

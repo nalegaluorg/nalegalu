@@ -29,15 +29,19 @@ Warszawa, dnia 28 grudnia 2012 v r.
 Poz. 1493 o ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 21 grudnia g 2012 r.
 w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn.
 zm. ) zarządza się, co następuje: .
-§ 1. 1. Nadwyżkę środków finansowych Agencji l Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, stanowi dodatnia różnica między stanem środków pieniężnych na dzień 31 grudnia danego roku budżetowego, z wyłączeniem środków zakładowego funduszu świadczeń c socjalnych, środków uzyskanych z tytułu wpłaconych wadiów, zabezpieczenia należytego wykonania umów oraz środków, których zasady dysponowania określają odrębne przepisy, a stanem zobowiązań krótkoterminowych, o których mowa w ust. 2, ustalonych na dzień 31 grudnia danego roku.
+
+**§ 1.**
+
+1. Nadwyżkę środków finansowych Agencji l Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, stanowi dodatnia różnica między stanem środków pieniężnych na dzień 31 grudnia danego roku budżetowego, z wyłączeniem środków zakładowego funduszu świadczeń c socjalnych, środków uzyskanych z tytułu wpłaconych wadiów, zabezpieczenia należytego wykonania umów oraz środków, których zasady dysponowania określają odrębne przepisy, a stanem zobowiązań krótkoterminowych, o których mowa w ust. 2, ustalonych na dzień 31 grudnia danego roku.
+
 2. Przy ustalaniu nadwyżki środków finansowych Agencji środki pieniężne, o których mowa w ust. 1, niewykorzystane do dnia 31 grudnia danego roku budżetowego, r pomniejsza się o zobowiązania krótkoterminowe Agencji z tytułu:
-1) podatków, ubezpieczeń i innych świadczeń;
-.
-2) dostaw i usług;
-3) wynagrodzeń; w
-4) innych zobowiązań krótkoterminowych wynikających z konieczności zapewnienia ciągłości finansowania zadań Agencji oraz dokonywania inwestycji niezbędnych do wykonywania zadań państwa przez Agencję.
-3. Zobowiązania krótkoterminowe, o których mowa w ust. 2 pkt 2–4, dotyczą zobowiązań, których wymagalność przypada nie później niż do dnia 30 czerwca roku następującego po roku, w którym powstała nadwyżka.
-w
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2012 r.
-Minister Rolnictwa i Rozwoju Wsi: wz. T. Nalewajk w
+
+- **1)** podatków, ubezpieczeń i innych świadczeń; .
+- **2)** dostaw i usług;
+- **3)** wynagrodzeń; w
+- **4)** innych zobowiązań krótkoterminowych wynikających z konieczności zapewnienia ciągłości finansowania zadań Agencji oraz dokonywania inwestycji niezbędnych do wykonywania zadań państwa przez Agencję.
+
+3. Zobowiązania krótkoterminowe, o których mowa w ust. 2 pkt 2–4, dotyczą zobowiązań, których wymagalność przypada nie później niż do dnia 30 czerwca roku następującego po roku, w którym powstała nadwyżka. w
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 grudnia 2012 r. Minister Rolnictwa i Rozwoju Wsi: wz. T. Nalewajk w
 

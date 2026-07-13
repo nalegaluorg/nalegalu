@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001046) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1046/text.pdf) |
 
 w sprawie wysokości kaucji dla poszczególnych rodzajów opakowań objętych systemem kaucyjnym Na podstawie art. 40m ust. 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2024 r. poz. 927) zarządza się, co następuje:
-§ 1. Wysokość kaucji za jedną sztukę opakowania wynosi dla:
-1) butelek jednorazowego użytku z tworzyw sztucznych na napoje o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, z wyłączeniem szklanych lub metalowych butelek na napoje, których zakrętki i wieczka są wykonane z tworzyw sztucznych – 0,50 zł;
-2) puszek metalowych o pojemności do jednego litra – 0,50 zł;
-3) butelek szklanych wielokrotnego użytku o pojemności do półtora litra – 1,00 zł.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: P. Hennig-Kloska
+
+**§ 1.** Wysokość kaucji za jedną sztukę opakowania wynosi dla:
+
+- **1)** butelek jednorazowego użytku z tworzyw sztucznych na napoje o pojemności do trzech litrów, włącznie z ich zakrętkami i wieczkami z tworzyw sztucznych, z wyłączeniem szklanych lub metalowych butelek na napoje, których zakrętki i wieczka są wykonane z tworzyw sztucznych – 0,50 zł;
+- **2)** puszek metalowych o pojemności do jednego litra – 0,50 zł;
+- **3)** butelek szklanych wielokrotnego użytku o pojemności do półtora litra – 1,00 zł.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: P. Hennig-Kloska
 

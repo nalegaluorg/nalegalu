@@ -32,22 +32,23 @@ poz. 1927).
 ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 kwietnia 2003 r.
 w sprawie utworzenia wojewódzkich sądów administracyjnych oraz ustalenia ich siedzib i obszarów właściwości Na podstawie art. 16 § 2 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2022 r.
 poz. 2492 oraz z 2023 r. poz. 1615) zarządza się, co następuje:
-§ 1. Tworzy się następujące wojewódzkie sądy administracyjne oraz ustala się ich siedziby i obszary właściwości:
-1) Wojewódzki Sąd Administracyjny w Białymstoku – dla obszaru województwa podlaskiego;
-2) Wojewódzki Sąd Administracyjny w Bydgoszczy – dla obszaru województwa kujawsko-pomorskiego;
-3) Wojewódzki Sąd Administracyjny w Gdańsku – dla obszaru województwa pomorskiego;
-4) Wojewódzki Sąd Administracyjny w Gliwicach – dla obszaru województwa śląskiego;
-4 ) Wojewódzki Sąd Administracyjny w Gorzowie Wielkopolskim – dla województwa lubuskiego;
-4 ) Wojewódzki Sąd Administracyjny w Kielcach – dla województwa świętokrzyskiego;
-5) Wojewódzki Sąd Administracyjny w Krakowie – dla obszaru województwa małopolskiego;
-6) Wojewódzki Sąd Administracyjny w Lublinie – dla obszaru województwa lubelskiego;
-7) Wojewódzki Sąd Administracyjny w Łodzi – dla obszaru województwa łódzkiego;
-8) Wojewódzki Sąd Administracyjny w Olsztynie – dla obszaru województwa warmińsko-mazurskiego;
-9) Wojewódzki Sąd Administracyjny w Opolu – dla obszaru województwa opolskiego;
-10) Wojewódzki Sąd Administracyjny w Poznaniu – dla obszaru województwa wielkopolskiego;
-11) Wojewódzki Sąd Administracyjny w Rzeszowie – dla obszaru województwa podkarpackiego;
-12) Wojewódzki Sąd Administracyjny w Szczecinie – dla obszaru województwa zachodniopomorskiego;
-13) Wojewódzki Sąd Administracyjny w Warszawie – dla obszaru województwa mazowieckiego;
-14) Wojewódzki Sąd Administracyjny we Wrocławiu – dla obszaru województwa dolnośląskiego.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.
+
+**§ 1.** Tworzy się następujące wojewódzkie sądy administracyjne oraz ustala się ich siedziby i obszary właściwości:
+
+- **1)** Wojewódzki Sąd Administracyjny w Białymstoku – dla obszaru województwa podlaskiego;
+- **2)** Wojewódzki Sąd Administracyjny w Bydgoszczy – dla obszaru województwa kujawsko-pomorskiego;
+- **3)** Wojewódzki Sąd Administracyjny w Gdańsku – dla obszaru województwa pomorskiego;
+- **4)** Wojewódzki Sąd Administracyjny w Gliwicach – dla obszaru województwa śląskiego; 4 ) Wojewódzki Sąd Administracyjny w Gorzowie Wielkopolskim – dla województwa lubuskiego; 4 ) Wojewódzki Sąd Administracyjny w Kielcach – dla województwa świętokrzyskiego;
+- **5)** Wojewódzki Sąd Administracyjny w Krakowie – dla obszaru województwa małopolskiego;
+- **6)** Wojewódzki Sąd Administracyjny w Lublinie – dla obszaru województwa lubelskiego;
+- **7)** Wojewódzki Sąd Administracyjny w Łodzi – dla obszaru województwa łódzkiego;
+- **8)** Wojewódzki Sąd Administracyjny w Olsztynie – dla obszaru województwa warmińsko-mazurskiego;
+- **9)** Wojewódzki Sąd Administracyjny w Opolu – dla obszaru województwa opolskiego;
+- **10)** Wojewódzki Sąd Administracyjny w Poznaniu – dla obszaru województwa wielkopolskiego;
+- **11)** Wojewódzki Sąd Administracyjny w Rzeszowie – dla obszaru województwa podkarpackiego;
+- **12)** Wojewódzki Sąd Administracyjny w Szczecinie – dla obszaru województwa zachodniopomorskiego;
+- **13)** Wojewódzki Sąd Administracyjny w Warszawie – dla obszaru województwa mazowieckiego;
+- **14)** Wojewódzki Sąd Administracyjny we Wrocławiu – dla obszaru województwa dolnośląskiego.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.
 

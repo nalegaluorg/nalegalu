@@ -27,7 +27,12 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/529/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz. U. z 2018 r. poz. 35) po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. 1. Na wniosek właściwych organów wojskowych strony wysyłającej żołnierze wojsk obcych mogą być wyposażani w broń i amunicję stanowiące uzbrojenie Sił Zbrojnych Rzeczypospolitej Polskiej. 2. Minister Obrony Narodowej, w drodze decyzji, z zachowaniem przepisów o ochronie informacji niejawnych, określa liczbę i rodzaj broni, w którą będą wyposażani żołnierze wojsk obcych. 3. W zakresie wyposażania wojsk obcych w amunicję oraz ewidencjonowania wydanej amunicji i broni stosuje się przepisy obowiązujące w Siłach Zbrojnych Rzeczypospolitej Polskiej.”.
+**Art. 1.** W ustawie z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium (Dz. U. z 2018 r. poz. 35) po art. 13 dodaje się art. 13a w brzmieniu:
+
+> „Art. 13a.  
+> 1. Na wniosek właściwych organów wojskowych strony wysyłającej żołnierze wojsk obcych mogą być wyposażani w broń i amunicję stanowiące uzbrojenie Sił Zbrojnych Rzeczypospolitej Polskiej.  
+> 2. Minister Obrony Narodowej, w drodze decyzji, z zachowaniem przepisów o ochronie informacji niejawnych, określa liczbę i rodzaj broni, w którą będą wyposażani żołnierze wojsk obcych.  
+> 3. W zakresie wyposażania wojsk obcych w amunicję oraz ewidencjonowania wydanej amunicji i broni stosuje się przepisy obowiązujące w Siłach Zbrojnych Rzeczypospolitej Polskiej.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

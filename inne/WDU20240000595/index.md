@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000595) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/595/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych wymogów, jakim powinien odpowiadać lokal apteki Na podstawie art. 98 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301 oraz z 2023 r. poz. 605, 650, 1859 i 1938) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 30 września 2002 r. w sprawie szczegółowych wymogów, jakim powinien odpowiadać lokal apteki (Dz. U. z 2022 r. poz. 1737) wprowadza się następujące zmiany:
-1) w § 6 w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku przeprowadzania w aptece ogólnodostępnej szczepienia zgodnie z art. 86 ust. 8a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne lub opieki farmaceutycznej, mogą one zostać przeprowadzone w:”;
-2) w § 8 w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku przeprowadzania w aptece ogólnodostępnej szczepienia zgodnie z art. 86 ust. 8a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne podstawowe wyposażenie apteki stanowią:”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 30 września 2002 r. w sprawie szczegółowych wymogów, jakim powinien odpowiadać lokal apteki (Dz. U. z 2022 r. poz. 1737) wprowadza się następujące zmiany:
+
+- **1)** w § 6 w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku przeprowadzania w aptece ogólnodostępnej szczepienia zgodnie z art. 86 ust. 8a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne lub opieki farmaceutycznej, mogą one zostać przeprowadzone w:”;
+- **2)** w § 8 w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku przeprowadzania w aptece ogólnodostępnej szczepienia zgodnie z art. 86 ust. 8a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne podstawowe wyposażenie apteki stanowią:”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Konieczny
 

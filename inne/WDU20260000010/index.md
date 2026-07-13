@@ -31,7 +31,8 @@ poz. 1726).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 20 listopada 2024 r. zmieniającego rozporządzenie w sprawie wysokości opłaty za udział w egzaminie komorniczym (Dz. U. poz. 1726), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 grudnia 2024 r.”. Minister Sprawiedliwości: W. Żurek
 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 30 listopada 2018 r.
 w sprawie wysokości opłaty za udział w egzaminie komorniczym Na podstawie art. 115 ust. 3 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458 oraz z 2025 r. poz. 1018 i 1172) zarządza się, co następuje:
-§ 1. Opłata za udział w egzaminie komorniczym jest równa 70 % minimalnego wynagrodzenia za pracę, ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r.
-poz. 1773), obowiązującego w dniu przeprowadzenia egzaminu.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2019 r.
+
+**§ 1.** Opłata za udział w egzaminie komorniczym jest równa 70 % minimalnego wynagrodzenia za pracę, ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), obowiązującego w dniu przeprowadzenia egzaminu.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2019 r.
 

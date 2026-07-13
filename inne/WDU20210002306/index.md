@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002306) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2306/text.pdf) |
 
 zmieniające rozporządzenie w sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19 Na podstawie art. 21c ust. 5 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2021 r. poz. 2069 i 2120) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 9 kwietnia 2021 r. w sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19 (Dz. U. poz. 668 i 1273) w § 2 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Osoby, o których mowa w ust. 1, nie mogą przeprowadzać badania kwalifikacyjnego osoby, która nie ukończyła 15. roku życia.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 9 kwietnia 2021 r. w sprawie kwalifikacji osób przeprowadzających badania kwalifikacyjne i szczepienia ochronne przeciwko COVID-19 (Dz. U. poz. 668 i 1273) w § 2 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Osoby, o których mowa w ust. 1, nie mogą przeprowadzać badania kwalifikacyjnego osoby, która nie ukończyła 15. roku życia.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

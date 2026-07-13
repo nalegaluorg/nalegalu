@@ -29,7 +29,18 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2018 r. poz. 580) wprowadza się stępujące zmiany:
 
-- **1)** po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. Ewidencja zawiera następujące informacje: 1) datę zgłoszenia partii do ewidencji; 2) nazwę, skrót nazwy oraz adres siedziby partii; 3) wzorzec symbolu graficznego partii; 4) imiona, nazwiska i adresy zamieszkania osób wchodzących w skład organów uprawnionych w statucie prezentowania partii na zewnątrz oraz do zaciągania zobowiązań majątkowych; 5) imiona, nazwiska i adresy zamieszkania osób zgłaszających partię do ewidencji; 6) datę wydania orzeczenia w przedmiocie wpisu partii do ewidencji; 7) datę, sygnaturę i sentencję orzeczenia Trybunału Konstytucyjnego dotyczącego partii; 8) wzmiankę o podjęciu przez partię uchwały o samorozwiązaniu oraz imię i nazwisko wyznaczonego likwidatora; 9) datę wykreślenia partii z ewidencji.”;
+- **1)** po art. 17 dodaje się art. 17a w brzmieniu:
+
+  > „Art. 17a. Ewidencja zawiera następujące informacje:  
+  > 1) datę zgłoszenia partii do ewidencji;  
+  > 2) nazwę, skrót nazwy oraz adres siedziby partii;  
+  > 3) wzorzec symbolu graficznego partii;  
+  > 4) imiona, nazwiska i adresy zamieszkania osób wchodzących w skład organów uprawnionych w statucie prezentowania partii na zewnątrz oraz do zaciągania zobowiązań majątkowych;  
+  > 5) imiona, nazwiska i adresy zamieszkania osób zgłaszających partię do ewidencji;  
+  > 6) datę wydania orzeczenia w przedmiocie wpisu partii do ewidencji;  
+  > 7) datę, sygnaturę i sentencję orzeczenia Trybunału Konstytucyjnego dotyczącego partii;  
+  > 8) wzmiankę o podjęciu przez partię uchwały o samorozwiązaniu oraz imię i nazwisko wyznaczonego likwidatora;  
+  > 9) datę wykreślenia partii z ewidencji.”;  
 - **2)** w art. 18:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Ewidencja wraz z tekstami statutów partii politycznych jest jawna, z wyłączeniem informacji o adresach zamieszkania osób fizycznych.”,
     - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Jawne informacje zawarte w ewidencji podlegają udostępnieniu w Biuletynie Informacji Publicznej Sądu.”.

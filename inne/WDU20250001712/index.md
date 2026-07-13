@@ -30,10 +30,17 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w s
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sportu i Turystyki z dnia 27 stycznia 2025 r. zmieniającego rozporządzenie w sprawie nadania statutu Polskiej Organizacji Turystycznej (Dz. U. poz. 149), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Sportu i Turystyki: J. Rutnicki
 ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 28 kwietnia 2006 r.
 w sprawie nadania statutu Polskiej Organizacji Turystycznej Na podstawie art. 12 ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej (Dz. U. z 2024 r. poz. 1541) zarządza się, co następuje:
-§ 1. Polskiej Organizacji Turystycznej nadaje się statut stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 19 stycznia 2000 r. w sprawie nadania statutu Polskiej Organizacji Turystycznej (Dz. U. poz. 65, z 2002 r. poz. 978, z 2003 r. poz. 1218, z 2005 r. poz. 1808 oraz z 2006 r. poz. 143).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-STATUT POLSKIEJ ORGANIZACJI TURYSTYCZNEJ
+
+**§ 1.** Polskiej Organizacji Turystycznej nadaje się statut stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Transportu i Gospodarki Morskiej z dnia 19 stycznia 2000 r. w sprawie nadania statutu Polskiej Organizacji Turystycznej (Dz. U. poz. 65, z 2002 r. poz. 978, z 2003 r. poz. 1218, z 2005 r. poz. 1808 oraz z 2006 r. poz. 143).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . STATUT POLSKIEJ ORGANIZACJI TURYSTYCZNEJ
+
+#### Rozdział 1 Szczegółowy zakres działania Polskiej Organizacji Turystycznej
+
+## Załącznik
+
 § 1. Polska Organizacja Turystyczna działa na podstawie ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej (Dz. U. z 2024 r. poz. 1541), zwanej dalej „ustawą”, oraz niniejszego statutu, zwanego dalej „statutem”.
 § 2. Cele i zadania określone w ustawie Polska Organizacja Turystyczna realizuje w szczególności poprzez:
 1) przygotowywanie i publikowanie materiałów promocyjnych oraz organizowanie stoisk narodowych na targach turystycznych, wystaw, pokazów, kongresów i seminariów, jak również upowszechnianie wiedzy o Polsce jako kraju atrakcyjnym turystycznie, w szczególności za pośrednictwem Zagranicznych Ośrodków Polskiej Organizacji Turystycznej, o których mowa w § 16;
@@ -43,6 +50,7 @@ STATUT POLSKIEJ ORGANIZACJI TURYSTYCZNEJ
 5) wyrażanie opinii w przedmiocie strategicznych z punktu widzenia interesów Polski planów przygotowywanych przez ministra właściwego do spraw turystyki, jednostki samorządu terytorialnego oraz organizacje zrzeszające przedsiębiorców z dziedziny turystyki;
 6) inicjowanie i opiniowanie planów oraz wieloletnich programów promocji, rozwoju i modernizacji infrastruktury turystycznej, zwłaszcza pod kątem podniesienia jakości usług turystycznych i rozwoju produktów turystycznych;
 7) współdziałanie z regionalnymi i lokalnymi organizacjami turystycznymi.
+Rozdział 2 Tryb pracy organów Polskiej Organizacji Turystycznej
 § 3. 1. Rada Polskiej Organizacji Turystycznej, zwana dalej „Radą”, działa na podstawie ustawy, statutu oraz uchwalonego przez siebie regulaminu.
 2. Rada wykonuje swoje czynności kolegialnie.
 3. Członkowie Rady wykonują swoje prawa i obowiązki osobiście i nie mogą ustanawiać pełnomocników.
@@ -80,6 +88,7 @@ STATUT POLSKIEJ ORGANIZACJI TURYSTYCZNEJ
 4. Obsługę Rady prowadzi Departament Administracji, o którym mowa w § 14 ust. 1 pkt 1.
 § 12. 1. Wiceprezesi Polskiej Organizacji Turystycznej działają w granicach pełnomocnictwa udzielonego im przez Prezesa Polskiej Organizacji Turystycznej.
 2. Wiceprezesi Polskiej Organizacji Turystycznej sprawują nadzór nad wyznaczonymi przez Prezesa Polskiej Organizacji Turystycznej obszarami działalności.
+Rozdział 3 Organizacja Biura Prezesa Polskiej Organizacji Turystycznej
 § 13. Do zadań Biura Prezesa Polskiej Organizacji Turystycznej należy merytoryczna i techniczna obsługa Prezesa Polskiej Organizacji Turystycznej i wiceprezesów Polskiej Organizacji Turystycznej.
 § 13a. 1. Biurem Prezesa Polskiej Organizacji Turystycznej kieruje:
 1) dyrektor zarządzający – w szczególności w zakresie zapewnienia prawidłowej organizacji wewnętrznej Biura Prezesa Polskiej Organizacji Turystycznej i warunków jego działania, umożliwiających sprawną i efektywną realizację zadań oraz zapewnienie sprawnego i ciągłego realizowania zadań Polskiej Organizacji Turystycznej;
@@ -104,6 +113,7 @@ STATUT POLSKIEJ ORGANIZACJI TURYSTYCZNEJ
 3. Departamentami kierują dyrektorzy, a biurami – kierownicy biur.
 § 14a. (uchylony).
 § 15. Prezes Polskiej Organizacji Turystycznej po uzyskaniu opinii wiceprezesów Polskiej Organizacji Turystycznej nadaje Biuru Prezesa Polskiej Organizacji Turystycznej regulamin organizacyjny.
+Rozdział 4 Zagraniczne Ośrodki Polskiej Organizacji Turystycznej
 § 16. 1. Jednostkami organizacyjnymi realizującymi zadania Polskiej Organizacji Turystycznej za granicą są Zagraniczne Ośrodki Polskiej Organizacji Turystycznej.
 2. Zagraniczne Ośrodki Polskiej Organizacji Turystycznej są jednostkami organizacyjnymi Polskiej Organizacji Turystycznej i nie prowadzą działalności gospodarczej.
 3. Dyrektorów Zagranicznych Ośrodków Polskiej Organizacji Turystycznej powołuje i odwołuje Prezes Polskiej Organizacji Turystycznej.
@@ -135,20 +145,11 @@ STATUT POLSKIEJ ORGANIZACJI TURYSTYCZNEJ
 7) gromadzenie, wydawanie, udostępnianie i rozpowszechnianie materiałów promocyjnych i informacyjnych o Polsce;
 8) wykonywanie badań marketingowych;
 9) udzielanie informacji turystycznej.
+Rozdział 5 Działalność gospodarcza Polskiej Organizacji Turystycznej
 § 18. Polska Organizacja Turystyczna może prowadzić działalność gospodarczą w zakresie realizacji swoich celów i zadań, w szczególności poprzez:
 1) świadczenie usług: konsultingowych, doradczych, szkoleniowych, informacyjnych, reklamowych, informatycznych;
 2) świadczenie usług w zakresie: obsługi krajowych i zagranicznych wizyt przedstawicieli instytucji rządowych, samorządowych, dziennikarzy i przedstawicieli środowisk opiniotwórczych oraz współpracy handlowej krajowej i zagranicznej;
 3) wykonywanie badań rynku, przeprowadzanie analiz gospodarczych;
 4) organizowanie, współorganizowanie i obsługę wydarzeń i imprez promujących polską turystykę, w tym imprez targowo-turystycznych, kulturalnych, edukacyjnych, naukowych, sportowych, misji gospodarczych, kongresów, sympozjów i konferencji, w kraju i za granicą;
 5) prowadzenie działalności wydawniczej oraz dystrybucję materiałów.
-
-#### Rozdział 1 Szczegółowy zakres działania Polskiej Organizacji Turystycznej
-
-#### Rozdział 2 Tryb pracy organów Polskiej Organizacji Turystycznej
-
-#### Rozdział 3 Organizacja Biura Prezesa Polskiej Organizacji Turystycznej
-
-#### Rozdział 4 Zagraniczne Ośrodki Polskiej Organizacji Turystycznej
-
-#### Rozdział 5 Działalność gospodarcza Polskiej Organizacji Turystycznej
 

@@ -28,7 +28,8 @@ source: pdf
 
 w sprawie procentowej stawki stosowanej do ustalenia wysokości rekompensaty w odniesieniu do wniosków o przyznanie rekompensaty złożonych w terminie od dnia 1 lutego 2026 r. do dnia 31 marca 2026 r.
 Na podstawie art. 10 ust. 5 ustawy z dnia 9 maja 2023 r. o Funduszu Ochrony Rolnictwa (Dz. U. z 2025 r. poz. 308 oraz z 2026 r. poz. 632) zarządza się, co następuje:
-§ 1. Procentową stawkę stosowaną do ustalenia wysokości rekompensaty, o której mowa w art. 10 ust. 1 ustawy z dnia 9 maja 2023 r. o Funduszu Ochrony Rolnictwa, w odniesieniu do wniosków o przyznanie tej rekompensaty złożonych w terminie od dnia 1 lutego 2026 r. do dnia 31 marca 2026 r. określa się w wysokości 100 %.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
+
+**§ 1.** Procentową stawkę stosowaną do ustalenia wysokości rekompensaty, o której mowa w art. 10 ust. 1 ustawy z dnia 9 maja 2023 r. o Funduszu Ochrony Rolnictwa, w odniesieniu do wniosków o przyznanie tej rekompensaty złożonych w terminie od dnia 1 lutego 2026 r. do dnia 31 marca 2026 r. określa się w wysokości 100 %.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
 

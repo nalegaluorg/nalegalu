@@ -26,6 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000340) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/340/text.pdf) |
 
 poz. 505, 568, 695, 1087, 1106 i 2320) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 24 łania oraz siedzib dyrektorów izb administracji skarbowej, naczelników celno-skarbowych oraz siedziby dyrektora Krajowej Informacji Skarbowej w załączniku nr 2 w części dotyczącej województwa dolnośląskiego 7 Naczelnik Urzędu Skarbowego miasto na prawach powiatu w Jeleniej Górze powiat karkonoski obejmujący: miasta: Karpacz, Kowary, gminy: Janowice Wielkie, Kamienica
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po Minister Finansów,
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 24 łania oraz siedzib dyrektorów izb administracji skarbowej, naczelników celno-skarbowych oraz siedziby dyrektora Krajowej Informacji Skarbowej w załączniku nr 2 w części dotyczącej województwa dolnośląskiego 7 Naczelnik Urzędu Skarbowego miasto na prawach powiatu w Jeleniej Górze powiat karkonoski obejmujący: miasta: Karpacz, Kowary, gminy: Janowice Wielkie, Kamienica
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po Minister Finansów,
 
