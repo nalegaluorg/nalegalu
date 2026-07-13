@@ -27,103 +27,117 @@ source: pdf
 
 w sprawie uzyskiwania karty rowerowej Na podstawie art. 42 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. Nr 30, poz. 151, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wymagania oraz sposób organizacji zajęć dla osób niebędących uczniami szkoły podstawowej, ubiegających się o wydanie karty rowerowej;
-2) tryb i warunki przeprowadzania egzaminu w zakresie karty rowerowej;
-3) kwalifikacje osób prowadzących zajęcia dla osób niebędących uczniami szkoły podstawowej;
-4) wzór karty rowerowej.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie – rozumie się przez to ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami;
-2) egzaminie – rozumie się przez to egzamin w zakresie karty rowerowej;
-3) jednostce szkolącej – rozumie się przez to wojewódzki ośrodek ruchu drogowego oraz ośrodek szkolenia kierowców posiadający poświadczenie potwierdzające spełnianie dodatkowych wymagań, o których mowa w art. 31 ust. 1 ustawy;
-4) osobie szkolonej – rozumie się przez to osobę niebędącą uczniem szkoły podstawowej, ubiegającą się o wydanie karty rowerowej;
-5) zajęciach – rozumie się przez to zajęcia dla osób niebędących uczniami szkoły podstawowej, ubiegających się o wydanie karty rowerowej.
-§ 3. Osoba szkolona uczestniczy w zajęciach, które obejmują:
-1) zajęcia teoretyczne – z zakresu wiedzy o ruchu drogowym oraz umiejętności udzielania i zachowania podczas udzielania pierwszej pomocy uczestnikom wypadków drogowych;
-2) zajęcia praktyczne – z zakresu wiedzy technicznej oraz doskonalenia umiejętności jazdy rowerem na placu manewrowym;
-3) sprawdzenie niezbędnych umiejętności.
-§ 4. Zajęcia prowadzi nauczyciel posiadający specjalistyczne przeszkolenie z zakresu ruchu drogowego organizowane nieodpłatnie w wojewódzkim ośrodku ruchu drogowego, policjant lub policjant w stanie spoczynku, posiadający specjalistyczne przeszkolenie z zakresu ruchu drogowego, egzaminator lub instruktor.
-§ 5. 1. Przeprowadzenie poszczególnych zajęć jest potwierdzane przez osobę prowadzącą zajęcia w dzienniku przeprowadzonych zajęć każdorazowo po ich zakończeniu.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wymagania oraz sposób organizacji zajęć dla osób niebędących uczniami szkoły podstawowej, ubiegających się o wydanie karty rowerowej;
+- **2)** tryb i warunki przeprowadzania egzaminu w zakresie karty rowerowej;
+- **3)** kwalifikacje osób prowadzących zajęcia dla osób niebędących uczniami szkoły podstawowej;
+- **4)** wzór karty rowerowej.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** ustawie – rozumie się przez to ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami;
+- **2)** egzaminie – rozumie się przez to egzamin w zakresie karty rowerowej;
+- **3)** jednostce szkolącej – rozumie się przez to wojewódzki ośrodek ruchu drogowego oraz ośrodek szkolenia kierowców posiadający poświadczenie potwierdzające spełnianie dodatkowych wymagań, o których mowa w art. 31 ust. 1 ustawy;
+- **4)** osobie szkolonej – rozumie się przez to osobę niebędącą uczniem szkoły podstawowej, ubiegającą się o wydanie karty rowerowej;
+- **5)** zajęciach – rozumie się przez to zajęcia dla osób niebędących uczniami szkoły podstawowej, ubiegających się o wydanie karty rowerowej.
+
+**§ 3.** Osoba szkolona uczestniczy w zajęciach, które obejmują:
+
+- **1)** zajęcia teoretyczne – z zakresu wiedzy o ruchu drogowym oraz umiejętności udzielania i zachowania podczas udzielania pierwszej pomocy uczestnikom wypadków drogowych;
+- **2)** zajęcia praktyczne – z zakresu wiedzy technicznej oraz doskonalenia umiejętności jazdy rowerem na placu manewrowym;
+- **3)** sprawdzenie niezbędnych umiejętności.
+
+**§ 4.** Zajęcia prowadzi nauczyciel posiadający specjalistyczne przeszkolenie z zakresu ruchu drogowego organizowane nieodpłatnie w wojewódzkim ośrodku ruchu drogowego, policjant lub policjant w stanie spoczynku, posiadający specjalistyczne przeszkolenie z zakresu ruchu drogowego, egzaminator lub instruktor.
+
+**§ 5.**
+
+1. Przeprowadzenie poszczególnych zajęć jest potwierdzane przez osobę prowadzącą zajęcia w dzienniku przeprowadzonych zajęć każdorazowo po ich zakończeniu.
+
 2. Dziennik przeprowadzonych zajęć powinien zawierać:
-1) imiona i nazwisko osoby szkolonej;
-2) numer PESEL albo datę urodzenia – w przypadku osoby szkolonej nieposiadającej numeru PESEL;
-3) wykaz zajęć;
-4) listę obecności osób szkolonych na poszczególnych zajęciach;
-5) datę rozpoczęcia i zakończenia zajęć;
-6) serię i numer wydanej karty rowerowej.
-§ 6. W przypadku przerwania przez osobę szkoloną uczestnictwa w zajęciach dyrektor lub kierownik jednostki szkolącej wydaje zaświadczenie określające zakres zajęć, w jakich uczestniczyła ta osoba.
-§ 7. Osoba szkolona, chcąc kontynuować zajęcia w innej jednostce szkolącej, przekazuje jej zaświadczenie, o którym mowa w § 6. Dyrektor lub kierownik jednostki szkolącej po otrzymaniu zaświadczenia wpisuje osobę szkoloną do dziennika przeprowadzonych zajęć.
-§ 8. Dzienniki przeprowadzonych zajęć przechowuje się przez okres 10 lat od dnia dokonania w nich ostatniego wpisu.
-§ 9. Zajęcia organizuje się w zakresie określonym w załączniku nr 1 do rozporządzenia.
-§ 10. 1. Czas trwania zajęć teoretycznych wynosi 6 godzin, w tym co najmniej 1 godzina zajęć z zakresu umiejętności udzielania i zachowania podczas udzielania pierwszej pomocy uczestnikom wypadków drogowych.
+
+- **1)** imiona i nazwisko osoby szkolonej;
+- **2)** numer PESEL albo datę urodzenia – w przypadku osoby szkolonej nieposiadającej numeru PESEL;
+- **3)** wykaz zajęć;
+- **4)** listę obecności osób szkolonych na poszczególnych zajęciach;
+- **5)** datę rozpoczęcia i zakończenia zajęć;
+- **6)** serię i numer wydanej karty rowerowej.
+
+**§ 6.** W przypadku przerwania przez osobę szkoloną uczestnictwa w zajęciach dyrektor lub kierownik jednostki szkolącej wydaje zaświadczenie określające zakres zajęć, w jakich uczestniczyła ta osoba.
+
+**§ 7.** Osoba szkolona, chcąc kontynuować zajęcia w innej jednostce szkolącej, przekazuje jej zaświadczenie, o którym mowa w § 6. Dyrektor lub kierownik jednostki szkolącej po otrzymaniu zaświadczenia wpisuje osobę szkoloną do dziennika przeprowadzonych zajęć.
+
+**§ 8.** Dzienniki przeprowadzonych zajęć przechowuje się przez okres 10 lat od dnia dokonania w nich ostatniego wpisu.
+
+**§ 9.** Zajęcia organizuje się w zakresie określonym w załączniku nr 1 do rozporządzenia.
+
+**§ 10.**
+
+1. Czas trwania zajęć teoretycznych wynosi 6 godzin, w tym co najmniej 1 godzina zajęć z zakresu umiejętności udzielania i zachowania podczas udzielania pierwszej pomocy uczestnikom wypadków drogowych.
+
 2. Czas trwania zajęć praktycznych wynosi 2 godziny.
-§ 11. Sprawdzenie niezbędnych umiejętności organizuje się w formie egzaminu.
-§ 12. Egzamin przeprowadza się dla:
-1) osób szkolonych, które uczestniczyły w zajęciach teoretycznych i praktycznych,
-2) uczniów szkoły podstawowej – którzy ukończyli wymagany przepisami ustawy wiek.
-§ 13. Egzamin dla osób szkolonych składa się z części:
-1) teoretycznej – przeprowadzanej w sali szkoleniowej;
-2) praktycznej – przeprowadzanej na placu manewrowym.
-§ 14. 1. Część teoretyczną egzaminu dla osób szkolonych przeprowadza się w formie testu pisemnego składającego się z 25 pytań.
+
+**§ 11.** Sprawdzenie niezbędnych umiejętności organizuje się w formie egzaminu.
+
+**§ 12.** Egzamin przeprowadza się dla:
+
+- **1)** osób szkolonych, które uczestniczyły w zajęciach teoretycznych i praktycznych,
+- **2)** uczniów szkoły podstawowej – którzy ukończyli wymagany przepisami ustawy wiek.
+
+**§ 13.** Egzamin dla osób szkolonych składa się z części:
+
+- **1)** teoretycznej – przeprowadzanej w sali szkoleniowej;
+- **2)** praktycznej – przeprowadzanej na placu manewrowym.
+
+**§ 14.**
+
+1. Część teoretyczną egzaminu dla osób szkolonych przeprowadza się w formie testu pisemnego składającego się z 25 pytań.
+
 2. Część teoretyczna egzaminu dla osób szkolonych polega na wybraniu jednej prawidłowej z trzech możliwych odpowiedzi.
+
 3. Czas trwania części teoretycznej egzaminu dla osób szkolonych wynosi 35 minut.
+
 4. Wynik części teoretycznej egzaminu dla osób szkolonych uznaje się za pozytywny, jeżeli osoba zdająca egzamin odpowiedziała prawidłowo na co najmniej 20 pytań.
-§ 15. 1. Część praktyczną egzaminu dla osób szkolonych przeprowadza się przy użyciu roweru jednośladowego.
+
+**§ 15.**
+
+1. Część praktyczną egzaminu dla osób szkolonych przeprowadza się przy użyciu roweru jednośladowego.
+
 2. W przypadku osób szkolonych o ograniczonej sprawności ruchowej dopuszcza się przeprowadzenie części praktycznej egzaminu dla osób szkolonych przy użyciu roweru wielośladowego.
+
 3. Warunkiem przystąpienia do części praktycznej egzaminu dla osób szkolonych jest uzyskanie pozytywnego wyniku z części teoretycznej egzaminu.
+
 4. Czas trwania części praktycznej egzaminu dla osób szkolonych wynosi 10 minut.
+
 5. Wynik części praktycznej egzaminu dla osób szkolonych uznaje się za pozytywny, jeżeli osoba zdająca egzamin prawidłowo wykonała co najmniej 90% manewrów i nie stwarza zagrożenia dla ruchu drogowego.
-§ 16. Jednostka szkoląca wyznacza termin egzaminu dla osób szkolonych umożliwiający jego przeprowadzenie w okresie nie dłuższym niż 7 dni od dnia zakończenia zajęć teoretycznych i praktycznych.
-§ 17. Podczas przeprowadzania egzaminu dla osób szkolonych w sali szkoleniowej oraz na placu manewrowym mogą przebywać wyłącznie osoby zdające egzamin, osoba prowadząca egzamin oraz osoby, o których mowa w art. 65 ust. 2 ustawy.
-§ 18. Jeżeli osoba zdająca egzamin dla osób szkolonych uzyskała negatywny wynik z części teoretycznej egzaminu albo nie przystąpiła do egzaminu w wyznaczonym terminie, jednostka szkoląca, w terminie nie dłuższym niż 7 dni, wyznacza kolejny termin egzaminu.
-§ 19. Jeżeli osoba zdająca egzamin dla osób szkolonych uzyskała pozytywny wynik z części teoretycznej oraz negatywny wynik z części praktycznej egzaminu, jednostka szkoląca wyznacza kolejny termin części praktycznej egzaminu.
-§ 20. Pozytywny wynik egzaminu dla osób szkolonych uzyskuje osoba, która uzyskała pozytywny wynik z części teoretycznej i części praktycznej egzaminu.
-§ 21. 1. Egzamin dla uczniów szkoły podstawowej składa się z części:
-1) teoretycznej – uwzględniającej treści, o których mowa w art. 41 ust. 1 ustawy;
-2) praktycznej – przeprowadzonej w miejscu wyznaczonym przez dyrektora szkoły podstawowej, umożliwiającym sprawdzenie niezbędnych umiejętności praktycznych.
+
+**§ 16.** Jednostka szkoląca wyznacza termin egzaminu dla osób szkolonych umożliwiający jego przeprowadzenie w okresie nie dłuższym niż 7 dni od dnia zakończenia zajęć teoretycznych i praktycznych.
+
+**§ 17.** Podczas przeprowadzania egzaminu dla osób szkolonych w sali szkoleniowej oraz na placu manewrowym mogą przebywać wyłącznie osoby zdające egzamin, osoba prowadząca egzamin oraz osoby, o których mowa w art. 65 ust. 2 ustawy.
+
+**§ 18.** Jeżeli osoba zdająca egzamin dla osób szkolonych uzyskała negatywny wynik z części teoretycznej egzaminu albo nie przystąpiła do egzaminu w wyznaczonym terminie, jednostka szkoląca, w terminie nie dłuższym niż 7 dni, wyznacza kolejny termin egzaminu.
+
+**§ 19.** Jeżeli osoba zdająca egzamin dla osób szkolonych uzyskała pozytywny wynik z części teoretycznej oraz negatywny wynik z części praktycznej egzaminu, jednostka szkoląca wyznacza kolejny termin części praktycznej egzaminu.
+
+**§ 20.** Pozytywny wynik egzaminu dla osób szkolonych uzyskuje osoba, która uzyskała pozytywny wynik z części teoretycznej i części praktycznej egzaminu.
+
+**§ 21.**
+
+1. Egzamin dla uczniów szkoły podstawowej składa się z części:
+
+- **1)** teoretycznej – uwzględniającej treści, o których mowa w art. 41 ust. 1 ustawy;
+- **2)** praktycznej – przeprowadzonej w miejscu wyznaczonym przez dyrektora szkoły podstawowej, umożliwiającym sprawdzenie niezbędnych umiejętności praktycznych.
+
 2. Egzamin dla uczniów szkoły podstawowej przeprowadza się w terminie wyznaczonym przez dyrektora szkoły podstawowej, który określa formę części teoretycznej oraz czas trwania części teoretycznej i części praktycznej egzaminu.
+
 3. Wynik części teoretycznej egzaminu dla uczniów szkoły podstawowej uznaje się za pozytywny, jeżeli osoba zdająca egzamin uzyskała co najmniej 80% punktów możliwych do uzyskania.
+
 4. Wynik części praktycznej egzaminu dla uczniów szkoły podstawowej uznaje się za pozytywny, jeżeli osoba zdająca egzamin prawidłowo wykonała co najmniej 90% manewrów i nie stwarza zagrożenia dla ruchu drogowego.
+
 5. Przepisy § 15 ust. 1–3 oraz § 18–20 stosuje się odpowiednio.
-§ 22. Po uzyskaniu pozytywnego wyniku egzaminu wydaje się kartę rowerową, której wzór jest określony w załączniku nr 2 do rozporządzenia.
-§ 23. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak ZAKRES ZAJĘĆ DLA OSÓB NIEBĘDĄCYCH UCZNIAMI SZKOŁY PODSTAWOWEJ, UBIEGAJĄCYCH SIĘ O WYDANIE KARTY ROWEROWEJ Zagadnienia Treść nauczania Cel zajęć 1 2 3 Bezpieczeństwo Zasady obowiązujące pieszych Osoba szkolona zna zasady obowiązujące pieszych pieszych w różnych miejscach i sytuacjach w ruchu drogowym, rozpoznaje znaki drogowe drogowych. i stosuje się do nich, właściwie reaguje na sygnały oraz polecenia, potrafi dostosować swoje zachowanie do zaistniałych sytuacji, rozumie konieczność używania elementów odblaskowych.
-Rowerzysta Warunki dopuszczenia rowerzysty do Osoba szkolona zna i rozumie wymagania niezbędne na drodze publicznej ruchu drogowego: do uzyskania karty rowerowej.
-– ukończone 10 lat, – uzyskanie zgody rodziców, – znajomość zasad ruchu drogowego, – opanowanie techniki jazdy, – uzyskanie karty rowerowej.
-Bezpieczeństwo Rowerzysta – wygodny strój i obuwie Osoba szkolona potrafi wyjaśnić znaczenie: rowerzysty dostosowane do warunków właściwego ubioru, w tym kasku, sprawnego roweru, atmosferycznych oraz właściwe stosowania różnego rodzaju elementów wyposażenie: kask, rękawice, odblaskowych dla bezpieczeństwa kamizelka i inne elementy rowerzysty.
-odblaskowe.
-Rower – obowiązkowe wyposażenie mające istotny wpływ na bezpieczeństwo jazdy: oświetlenie, sprawne hamulce, sprawny sygnał dźwiękowy.
-Konserwacja Konserwacja roweru: usuwanie Osoba szkolona wie, jak należy przygotować rower i obsługa roweru brudu, ustawianie siodełka, do jazdy. Umie wykonać podstawowe czynności kierownicy i świateł, sprawdzanie z zakresu konserwacji roweru.
-stanu ogumienia, łańcucha i hamulców.
-Technika jazdy Doskonalenie umiejętności: Osoba szkolona ma opanowaną technikę jazdy rowerem wsiadania i ruszania, jazdy na wprost, rowerem.
-jazdy po łuku, jazdy z trzymaniem kierownicy jedną ręką, hamowania i zatrzymania.
-Hierarchia Analiza przykładowych Osoba szkolona zna przyjętą hierarchię ważności ważności norm, sytuacji, w których ma reguł w ruchu drogowym i jej przestrzega.
-znaków i sygnałów zastosowanie hierarchia drogowych oraz ważności dyspozycji: poleceń, poleceń dawanych sygnałów, znaków i obowiązujących przez osobę kierującą przepisów w odniesieniu do ruchem kierujących pojazdami i pieszych.
-Zasady obowiązujące Zasady: ruchu prawostronnego, Osoba szkolona potrafi wyjaśnić znaczenie rowerzystów w ruchu ograniczonego zaufania, szczególnej stosowania tych zasad w ruchu drogowym.
-drogowym; śluza ostrożności; wykorzystanie śluzy rowerowa rowerowej.
-1 2 3 Kultura na drodze Regulacje normujące życie społeczne: Osoba szkolona ma świadomość, że przestrzeganie unikanie zachowań agresywnych, norm społecznych na drodze zwiększa bezpieczeństwo tolerancja, życzliwość, empatia. i wygodę wszystkich uczestników ruchu drogowego.
-Manewry Zdobywanie umiejętności: włączania Osoba szkolona potrafi bezpiecznie wykonać się do ruchu, skręcania w prawo, wymienione manewry.
-skręcania w lewo, zawracania, wymijania, omijania, wyprzedzania, zatrzymywania, w tym zatrzymania z wykorzystaniem śluzy rowerowej.
-Zagrożenia w ruchu Analiza różnych sytuacji Osoba szkolona potrafi przewidzieć następstwa drogowym wynikających z niewłaściwego niewłaściwych zachowań rowerzysty, trafnie ocenia zachowania rowerzysty w ruchu sytuacje i wyciąga wnioski.
-drogowym. Przyczyny wypadków drogowych spowodowanych przez rowerzystów.
-Znaki i sygnały Rodzaje sygnałów i znaków Osoba szkolona zna znaki i sygnały drogowe drogowe, drogowych i ich analiza i właściwie na nie reaguje.
-w szczególności w odniesieniu do konkretnych dotyczące sytuacji w ruchu drogowym.
-rowerzystów Pierwszeństwo Zasady pierwszeństwa przejazdu na Osoba szkolona potrafi określić, komu ma obowiązek przejazdu na skrzyżowaniach: równorzędnych, ustąpić pierwszeństwa przejazdu na konkretnym skrzyżowaniach z drogą z pierwszeństwem, o ruchu skrzyżowaniu.
-okrężnym, o ruchu kierowanym.
-Sygnały wysyłane Sygnały pojazdów Osoba szkolona właściwie interpretuje sygnały przez różne pojazdy uprzywilejowanych w ruchu. Sposoby wysyłane przez różne pojazdy i odpowiednio na nie uczestniczące sygnalizowania planowanych reaguje.
-w ruchu drogowym manewrów, np. skrętu w lewo lub w prawo, zmiany pasa ruchu, zawracania, włączania się do ruchu, cofania.
-Bezpieczna prędkość Droga zatrzymania w zależności od Osoba szkolona rozumie zależność długości drogi warunków, w jakich porusza się hamowania pojazdu od różnych czynników.
-pojazd, i jego prędkości.
-Wycieczki rowerowe Zasady obowiązujące rowerzystów Osoba szkolona zna obowiązujące zasady ruchu jadących w grupie: dozwolona liczba drogowego i potrafi bezpiecznie jechać w grupie.
-rowerzystów, zachowanie bezpiecznej Potrafi określić, co i w jaki sposób można przewozić odległości, dostosowanie tempa jazdy na rowerze. Przewiduje zagrożenia mogące być do najsłabszego członka grupy, skutkiem niewłaściwego przewożenia bagażu.
-zasady ruchu drogowego. Bezpieczne przewożenie bagażu na rowerze – rozłożenie bagażu i jego umocowanie.
-Postępowanie w razie Przekazywanie informacji Osoba szkolona zna numery alarmowe oraz potrafi wypadku o wypadku. Udzielanie pierwszej sformułować i przekazać informację o wypadku.
-pomocy, numery alarmowe, treści Umie podjąć odpowiednie działania w przypadku przekazywanych informacji. wystąpienia drobnych urazów.
-Zachowanie Przekazanie informacji na temat Osoba szkolona zna obowiązujące zasady ruchu rowerzysty na drodze niebezpieczeństw wynikających drogowego i potrafi bezpiecznie jechać po drodze dla dla rowerów z poruszania się po drodze dla rowerów.
-rowerów oraz zasad obowiązujących rowerzystów jadących po drodze dla rowerów.
-WZÓR Opis:
-1. Karta rowerowa jest w formacie A7 w układzie pionowym.
-2. Karta rowerowa ma dwie strony barwy różowej.
-3. Tekst i znaki graficzne są barwy czarnej.
-4. Okrąg z symbolem „mp.” na pierwszej stronie karty rowerowej ma średnicę 15 mm.
+
+**§ 22.** Po uzyskaniu pozytywnego wyniku egzaminu wydaje się kartę rowerową, której wzór jest określony w załączniku nr 2 do rozporządzenia.
+
+**§ 23.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak ZAKRES ZAJĘĆ DLA OSÓB NIEBĘDĄCYCH UCZNIAMI SZKOŁY PODSTAWOWEJ, UBIEGAJĄCYCH SIĘ O WYDANIE KARTY ROWEROWEJ Zagadnienia Treść nauczania Cel zajęć 1 2 3 Bezpieczeństwo Zasady obowiązujące pieszych Osoba szkolona zna zasady obowiązujące pieszych pieszych w różnych miejscach i sytuacjach w ruchu drogowym, rozpoznaje znaki drogowe drogowych. i stosuje się do nich, właściwie reaguje na sygnały oraz polecenia, potrafi dostosować swoje zachowanie do zaistniałych sytuacji, rozumie konieczność używania elementów odblaskowych. Rowerzysta Warunki dopuszczenia rowerzysty do Osoba szkolona zna i rozumie wymagania niezbędne na drodze publicznej ruchu drogowego: do uzyskania karty rowerowej. – ukończone 10 lat, – uzyskanie zgody rodziców, – znajomość zasad ruchu drogowego, – opanowanie techniki jazdy, – uzyskanie karty rowerowej. Bezpieczeństwo Rowerzysta – wygodny strój i obuwie Osoba szkolona potrafi wyjaśnić znaczenie: rowerzysty dostosowane do warunków właściwego ubioru, w tym kasku, sprawnego roweru, atmosferycznych oraz właściwe stosowania różnego rodzaju elementów wyposażenie: kask, rękawice, odblaskowych dla bezpieczeństwa kamizelka i inne elementy rowerzysty. odblaskowe. Rower – obowiązkowe wyposażenie mające istotny wpływ na bezpieczeństwo jazdy: oświetlenie, sprawne hamulce, sprawny sygnał dźwiękowy. Konserwacja Konserwacja roweru: usuwanie Osoba szkolona wie, jak należy przygotować rower i obsługa roweru brudu, ustawianie siodełka, do jazdy. Umie wykonać podstawowe czynności kierownicy i świateł, sprawdzanie z zakresu konserwacji roweru. stanu ogumienia, łańcucha i hamulców. Technika jazdy Doskonalenie umiejętności: Osoba szkolona ma opanowaną technikę jazdy rowerem wsiadania i ruszania, jazdy na wprost, rowerem. jazdy po łuku, jazdy z trzymaniem kierownicy jedną ręką, hamowania i zatrzymania. Hierarchia Analiza przykładowych Osoba szkolona zna przyjętą hierarchię ważności ważności norm, sytuacji, w których ma reguł w ruchu drogowym i jej przestrzega. znaków i sygnałów zastosowanie hierarchia drogowych oraz ważności dyspozycji: poleceń, poleceń dawanych sygnałów, znaków i obowiązujących przez osobę kierującą przepisów w odniesieniu do ruchem kierujących pojazdami i pieszych. Zasady obowiązujące Zasady: ruchu prawostronnego, Osoba szkolona potrafi wyjaśnić znaczenie rowerzystów w ruchu ograniczonego zaufania, szczególnej stosowania tych zasad w ruchu drogowym. drogowym; śluza ostrożności; wykorzystanie śluzy rowerowa rowerowej. 1 2 3 Kultura na drodze Regulacje normujące życie społeczne: Osoba szkolona ma świadomość, że przestrzeganie unikanie zachowań agresywnych, norm społecznych na drodze zwiększa bezpieczeństwo tolerancja, życzliwość, empatia. i wygodę wszystkich uczestników ruchu drogowego. Manewry Zdobywanie umiejętności: włączania Osoba szkolona potrafi bezpiecznie wykonać się do ruchu, skręcania w prawo, wymienione manewry. skręcania w lewo, zawracania, wymijania, omijania, wyprzedzania, zatrzymywania, w tym zatrzymania z wykorzystaniem śluzy rowerowej. Zagrożenia w ruchu Analiza różnych sytuacji Osoba szkolona potrafi przewidzieć następstwa drogowym wynikających z niewłaściwego niewłaściwych zachowań rowerzysty, trafnie ocenia zachowania rowerzysty w ruchu sytuacje i wyciąga wnioski. drogowym. Przyczyny wypadków drogowych spowodowanych przez rowerzystów. Znaki i sygnały Rodzaje sygnałów i znaków Osoba szkolona zna znaki i sygnały drogowe drogowe, drogowych i ich analiza i właściwie na nie reaguje. w szczególności w odniesieniu do konkretnych dotyczące sytuacji w ruchu drogowym. rowerzystów Pierwszeństwo Zasady pierwszeństwa przejazdu na Osoba szkolona potrafi określić, komu ma obowiązek przejazdu na skrzyżowaniach: równorzędnych, ustąpić pierwszeństwa przejazdu na konkretnym skrzyżowaniach z drogą z pierwszeństwem, o ruchu skrzyżowaniu. okrężnym, o ruchu kierowanym. Sygnały wysyłane Sygnały pojazdów Osoba szkolona właściwie interpretuje sygnały przez różne pojazdy uprzywilejowanych w ruchu. Sposoby wysyłane przez różne pojazdy i odpowiednio na nie uczestniczące sygnalizowania planowanych reaguje. w ruchu drogowym manewrów, np. skrętu w lewo lub w prawo, zmiany pasa ruchu, zawracania, włączania się do ruchu, cofania. Bezpieczna prędkość Droga zatrzymania w zależności od Osoba szkolona rozumie zależność długości drogi warunków, w jakich porusza się hamowania pojazdu od różnych czynników. pojazd, i jego prędkości. Wycieczki rowerowe Zasady obowiązujące rowerzystów Osoba szkolona zna obowiązujące zasady ruchu jadących w grupie: dozwolona liczba drogowego i potrafi bezpiecznie jechać w grupie. rowerzystów, zachowanie bezpiecznej Potrafi określić, co i w jaki sposób można przewozić odległości, dostosowanie tempa jazdy na rowerze. Przewiduje zagrożenia mogące być do najsłabszego członka grupy, skutkiem niewłaściwego przewożenia bagażu. zasady ruchu drogowego. Bezpieczne przewożenie bagażu na rowerze – rozłożenie bagażu i jego umocowanie. Postępowanie w razie Przekazywanie informacji Osoba szkolona zna numery alarmowe oraz potrafi wypadku o wypadku. Udzielanie pierwszej sformułować i przekazać informację o wypadku. pomocy, numery alarmowe, treści Umie podjąć odpowiednie działania w przypadku przekazywanych informacji. wystąpienia drobnych urazów. Zachowanie Przekazanie informacji na temat Osoba szkolona zna obowiązujące zasady ruchu rowerzysty na drodze niebezpieczeństw wynikających drogowego i potrafi bezpiecznie jechać po drodze dla dla rowerów z poruszania się po drodze dla rowerów. rowerów oraz zasad obowiązujących rowerzystów jadących po drodze dla rowerów. WZÓR Opis: 1. Karta rowerowa jest w formacie A7 w układzie pionowym. 2. Karta rowerowa ma dwie strony barwy różowej. 3. Tekst i znaki graficzne są barwy czarnej. 4. Okrąg z symbolem „mp.” na pierwszej stronie karty rowerowej ma średnicę 15 mm.
 

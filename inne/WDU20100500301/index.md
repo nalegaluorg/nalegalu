@@ -29,7 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2006 r. Nr 139, poz. 992, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 9 ust. 7 i 8 otrzymują brzmienie: „7. Pozostawanie pod opieką medyczną potwierdza się zaświadczeniem lekarskim lub zaświadczeniem wystawionym przez położną. 8. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, formę opieki medycznej, o której mowa w ust. 6, oraz wzór zaświadczenia, o którym mowa w ust. 7, uwzględniając odpowiednio rodzaje świadczeń zdrowotnych udzielanych kobiecie w okresie ciąży przez lekarza i położną oraz zakres danych niezbędnych do zapewnienia należytego udokumentowania pozostawania jej pod opieką medyczną w okresie od 10 tygodnia ciąży do porodu.”;
+- **1)** w art. 9 ust. 7 i 8 otrzymują brzmienie:
+
+  > „7. Pozostawanie pod opieką medyczną potwierdza się zaświadczeniem lekarskim lub zaświadczeniem wystawionym przez położną.  
+  > 8. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, formę opieki medycznej, o której mowa w ust. 6, oraz wzór zaświadczenia, o którym mowa w ust. 7, uwzględniając odpowiednio rodzaje świadczeń zdrowotnych udzielanych kobiecie w okresie ciąży przez lekarza i położną oraz zakres danych niezbędnych do zapewnienia należytego udokumentowania pozostawania jej pod opieką medyczną w okresie od 10 tygodnia ciąży do porodu.”;  
 - **2)** w art. 15b ust. 6 otrzymuje brzmienie: „6. Pozostawanie pod opieką medyczną potwierdza się zaświadczeniem lekarskim lub zaświadczeniem wystawionym przez położną. Przepisy wydane na podstawie art. 9 ust. 8 stosuje się odpowiednio.”.
 
 **Art. 2.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm. ) w art. 16 w ust. 1:

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/476/text.pdf) |
 
 zmieniające rozporządzenie w sprawie należności pieniężnych żołnierzy zawodowych za przeniesienia, przesiedlenia i podróże służbowe Na podstawie art. 445 ust. 15 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 6 lipca 2022 r. w sprawie należności pieniężnych żołnierzy zawodowych za przeniesienia, przesiedlenia i podróże służbowe (Dz. U. poz. 1464 oraz z 2023 r. poz. 1848 i 2176) w § 10 w ust. 4 pkt 1 otrzymuje brzmienie: „1) w celu uczestniczenia w szkoleniach i ćwiczeniach – 100%,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: z up. P. Bejda
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 6 lipca 2022 r. w sprawie należności pieniężnych żołnierzy zawodowych za przeniesienia, przesiedlenia i podróże służbowe (Dz. U. poz. 1464 oraz z 2023 r. poz. 1848 i 2176) w § 10 w ust. 4 pkt 1 otrzymuje brzmienie: „1) w celu uczestniczenia w szkoleniach i ćwiczeniach – 100%,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: z up. P. Bejda
 

@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ramowej organizacji komendy wojewódzkiej i powiatowej (miejskiej) Państwowej Straży Pożarnej Na podstawie art. 13a ust. 5 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2017 r.
 poz. 1204, 1321 i 1567 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2006 r. w sprawie ramowej organizacji komendy wojewódzkiej i powiatowej (miejskiej) Państwowej Straży Pożarnej (Dz. U. poz. 1037 oraz z 2014 r.
-poz. 1028) § 7a otrzymuje brzmienie: „§ 7a. W szczególnie uzasadnionych przypadkach, związanych z realizacją zadań ustawowych oraz powierzonych komendom wojewódzkim i komendom powiatowym (miejskim), liczba etatów określonych w § 7 i § 8 ust. 1 może ulec zwiększeniu po uzyskaniu zgody Komendanta Głównego Państwowej Straży Pożarnej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 26 lipca 2006 r. w sprawie ramowej organizacji komendy wojewódzkiej i powiatowej (miejskiej) Państwowej Straży Pożarnej (Dz. U. poz. 1037 oraz z 2014 r. poz. 1028) § 7a otrzymuje brzmienie: „§ 7a. W szczególnie uzasadnionych przypadkach, związanych z realizacją zadań ustawowych oraz powierzonych komendom wojewódzkim i komendom powiatowym (miejskim), liczba etatów określonych w § 7 i § 8 ust. 1 może ulec zwiększeniu po uzyskaniu zgody Komendanta Głównego Państwowej Straży Pożarnej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
 

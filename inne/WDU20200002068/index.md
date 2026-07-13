@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2068/text.pdf) |
 
 zmieniające rozporządzenie w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów Na podstawie art. 114 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. z 2020 r. poz. 361 i 485) w § 1 po części „88. Powszechne jednostki organizacyjne prokuratury” dodaje się część 89 w brzmieniu: „89. Państwowa Komisja do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. z 2020 r. poz. 361 i 485) w § 1 po części „88. Powszechne jednostki organizacyjne prokuratury” dodaje się część 89 w brzmieniu: „89. Państwowa Komisja do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

@@ -27,12 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem pomocy na ograniczenie produkcji mleka Na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2016 r. poz. 1512 i 2048 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 13 września 2016 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem pomocy na ograniczenie produkcji mleka (Dz. U. poz. 1477) wprowadza się następujące zmiany:
-1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem pomocy na ograniczenie produkcji mleka”;
-2) w § 1 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Agencję Restrukturyzacji i Modernizacji Rolnictwa”;
-3) użyty w § 5 ust. 5 i 6, § 7 ust. 1 i 2, § 8 ust. 1 oraz § 9 wyraz „terenowego” zastępuje się wyrazem „regionalnego”;
-4) w § 8 ust. 2 otrzymuje brzmienie: „2. Do kontroli, o których mowa w ust. 1, stosuje się odpowiednio art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych.”;
-5) § 10 otrzymuje brzmienie: „§ 10. Środki finansowe z tytułu pomocy Agencja wypłaca w terminie określonym w art. 5 rozporządzenia 2016/1612.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 13 września 2016 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem pomocy na ograniczenie produkcji mleka (Dz. U. poz. 1477) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozporządzenia otrzymuje brzmienie: „w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem pomocy na ograniczenie produkcji mleka”;
+- **2)** w § 1 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Agencję Restrukturyzacji i Modernizacji Rolnictwa”;
+- **3)** użyty w § 5 ust. 5 i 6, § 7 ust. 1 i 2, § 8 ust. 1 oraz § 9 wyraz „terenowego” zastępuje się wyrazem „regionalnego”;
+- **4)** w § 8 ust. 2 otrzymuje brzmienie: „2. Do kontroli, o których mowa w ust. 1, stosuje się odpowiednio art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych.”;
+- **5)** § 10 otrzymuje brzmienie: „§ 10. Środki finansowe z tytułu pomocy Agencja wypłaca w terminie określonym w art. 5 rozporządzenia 2016/1612.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

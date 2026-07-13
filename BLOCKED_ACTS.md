@@ -2,7 +2,7 @@
 
 Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów z jakością ekstrakcji tekstu z PDF. Pracujemy nad ich naprawą.
 
-**Łącznie:** 6097 aktów
+**Łącznie:** 6094 aktów
 
 | Adres | Tytuł | Problem |
 |-------|-------|---------|
@@ -84,9 +84,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19311060819 | Konwencja o uproszczeniu formalności celnych, podpisana w Ge… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19320020008 | Konwencja Związkowa Paryska z dnia 20 marca 1883 roku o ochr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19320110063 | Międzynarodowa konwencja dotycząca statystyk gospodarczych o… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU19320190128 | Ustawa z dnia 28 stycznia 1932 r. w sprawie zatwierdzenia zg… | rendered round-trip failed: AST=28 rendered=3 missing_render |
-| WDU19320260236 | Ustawa z dnia 9 marca 1932 r. o Funduszu Obrotowym Reformy R… | rendered round-trip failed: AST=14 rendered=0 missing_render |
-| WDU19320290277 | Ustawa z dnia 18 lutego 1932 r. w sprawie przystąpienia Pols… | rendered round-trip failed: AST=5 rendered=3 low_sim=4 word_ |
+| WDU19320260236 | Ustawa z dnia 9 marca 1932 r. o Funduszu Obrotowym Reformy R… | rendered round-trip failed: AST=27 rendered=0 empty_articles |
 | WDU19320390400 | Konwencja międzynarodowa dotycząca utworzenia w Paryżu Międz… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19320470446 | Porozumienie madryckie z dnia 14 kwietnia 1891 r. dotyczące … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19320510483 | Rozporządzenie Rady Ministrów z dnia 10 czerwca 1932 r. o za… | scan only or no digital PDF; types=['I', 'O'] |
@@ -174,7 +172,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19470050025 | Dekret z dnia 9 stycznia 1947 r. o wpisywaniu po dniu 31 gru… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19470160062 | Rozporządzenie Rady Ministrów z dnia 30 stycznia 1947 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19470160066 | Rozporządzenie Ministrów: Ziem Odzyskanych, Administracji Pu… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU19470200078 | Ustawa z dnia 22 lutego 1947 r. o amnestii. | rendered round-trip failed: AST=11 rendered=14 missing_rende |
+| WDU19470200078 | Ustawa z dnia 22 lutego 1947 r. o amnestii. | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU19470230090 | Karta Narodów Zjednoczonych, Statut Międzynarodowego Trybuna… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19470270104 | Dekret z dnia 5 lipca 1946 r. o wykonywaniu czynności techni… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19470310131 | Dekret z dnia 27 marca 1947 r. o zmianie dekretu z dnia 28 c… | scan only or no digital PDF; types=['I', 'O'] |
@@ -217,13 +215,14 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19490310231 | Konwencja (nr 39) dotycząca obowiązkowego ubezpieczenia na w… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19490310233 | Konwencja (nr 40) dotycząca obowiązkowego ubezpieczenia na w… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19490310235 | Konwencja (nr 42) o chorobach zawodowych z roku 1934 (zrewid… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19490320238 | Ustawa z dnia 27 kwietnia 1949 r. o zmianie przepisów postęp… |  |
 | WDU19490450332 | Dekret z dnia 27 lipca 1949 r. o zaciąganiu nowych i określa… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19490500378 | Traktat Pokoju z Włochami, podpisany w Paryżu dnia 10 lutego… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19490510383 | Rozporządzenie Rady Ministrów z dnia 9 września 1949 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19500110112 | Umowa o komunikacji lotniczej pomiędzy Rzecząpospolitą Polsk… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19500310288 | Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 30… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19500320294 | Rozporządzenie Rady Ministrów z dnia 26 lipca 1950 r. w spra… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU19510050039 | Ustawa z dnia 8 stycznia 1951 r. o zniesieniu powiatowych i … | rendered round-trip failed: AST=7 rendered=4 missing_rendere |
+| WDU19500360325 | Ustawa z dnia 18 lipca 1950 r. o przystąpieniu Rzeczypospoli… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU19510060057 | Rozporządzenie Ministra Szkół Wyższych i Nauki z dnia 9 styc… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19510090071 | Rozporządzenie Przewodniczącego Państwowej Komisji Planowani… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19510110081 | Europejska Konwencja Radiofoniczna, Plan kopenhaski i Protok… | scan only or no digital PDF; types=['I', 'O'] |
@@ -241,7 +240,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19520310208 | Rozporządzenie Ministrów Pracy i Opieki Społecznej oraz Zdro… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19520410278 | Konwencja w sprawie zwalczania handlu ludźmi i eksploatacji … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19520410285 | Rozporządzenie Prezesa Rady Ministrów i Ministrów Pracy i Op… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU19520460309 | Ustawa z dnia 22 listopada 1952 r. o amnestii. | rendered round-trip failed: AST=10 rendered=0 missing_render |
+| WDU19520460309 | Ustawa z dnia 22 listopada 1952 r. o amnestii. | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU19520530346 | Akt o wykonaniu wytyczenia państwowej granicy między Polską … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19530370158 | Rozporządzenie Rady Ministrów z dnia 14 lipca 1953 r. w spra… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19540380167 | Rozporządzenie Ministrów Pracy i Opieki Społecznej oraz Zdro… | scan only or no digital PDF; types=['I', 'O'] |
@@ -254,9 +253,11 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19550380238 | Konwencja (nr 100) dotycząca jednakowego wynagrodzenia dla p… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19560010007 | Rozporządzenie Ministra Rolnictwa z dnia 15 grudnia 1955 r. … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19560080044 | Rozporządzenie Rady Ministrów z dnia 5 marca 1956 r. zmienia… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19560110057 | Ustawa z dnia 27 kwietnia 1956 r. o amnestii. | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU19560380171 | Konwencje o ochronie ofiar wojny, podpisane w Genewie dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19560410188 | Ustawa z dnia 11 września 1956 r. o przejściu więziennictwa … | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU19560520234 | Rozporządzenie Prezesa Rady Ministrów z dnia 17 listopada 19… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU19560540245 | Ustawa z dnia 15 listopada 1956 r. o zmianie organizacji wsp… | ELI placeholder original content — ELI HTML contains 'patrz … |
+| WDU19560540245 | Ustawa z dnia 15 listopada 1956 r. o zmianie organizacji wsp… | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU19560610294 | Rozporządzenie Prezesa Rady Ministrów z dnia 28 grudnia 1956… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19570050022 | Rozporządzenie Prezesa Rady Ministrów z dnia 28 stycznia 195… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19570090035 | Układ komunikacyjny między Polską Rzecząpospolitą Ludową a R… | scan only or no digital PDF; types=['I', 'O'] |
@@ -362,6 +363,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19690070059 | Rozporządzenie Rady Ministrów z dnia 14 marca 1969 r. w spra… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19690150110 | Umowa o ratowaniu kosmonautów, powrocie kosmonautów i zwroci… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19690180139 | Rozporządzenie Ministra Sprawiedliwości z dnia 3 czerwca 196… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19690210151 | Ustawa z dnia 21 lipca 1969 r. o amnestii. | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU19690220155 | Układ dodatkowy do Konwencji generalnej pomiędzy Polską a Fr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19690250187 | Międzynarodowa konwencja w sprawie likwidacji wszelkich form… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19690250189 | Rozporządzenie Rady Ministrów z dnia 11 sierpnia 1969 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
@@ -381,6 +383,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19700080060 | Układ o nierozprzestrzenianiu broni jądrowej, sporządzony w … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19700090075 | Rozporządzenie Przewodniczącego Komitetu Drobnej Wytwórczośc… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19700130116 | Rozporządzenie Rady Ministrów z dnia 18 maja 1970 r. zmienia… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19700160138 | Ustawa z dnia 30 czerwca 1970 r. o zmianie dekretu o świadcz… |  |
 | WDU19700210170 | Umowa między Polską Rzecząpospolitą Ludową a Niemiecką Repub… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19700260208 | Konwencja o niestosowaniu przedawnienia wobec zbrodni wojenn… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19700280222 | Porozumienie o przywilejach i immunitetach Międzynarodowej A… | scan only or no digital PDF; types=['I', 'O'] |
@@ -401,6 +404,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19720190133 | Konwencja w sprawie ochrony zasobów biologicznych Południowo… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19720250181 | Konwencja o zwalczaniu bezprawnego zawładnięcia statkami pow… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19720250183 | Konwencja o ujednoliceniu niektórych zasad dotyczących odpow… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19720270194 | Ustawa z dnia 6 lipca 1972 r. o zmianie ustawy o cmentarzach… |  |
 | WDU19720390253 | Umowa o współpracy kulturalnej między Rządem Polskiej Rzeczy… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19720440275 | Układ o zakazie umieszczania broni jądrowej i innych rodzajó… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19730020011 | Konwencja konsularna między Polską Rzecząpospolitą Ludową a … | scan only or no digital PDF; types=['I', 'O'] |
@@ -458,6 +462,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19750350189 | Umowa europejska dotycząca międzynarodowego przewozu drogowe… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19750350191 | Rozporządzenie Rady Ministrów z dnia 10 października 1975 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19750350197 | Rozporządzenie Ministra Administracji, Gospodarki Terenowej … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19750450234 | Ustawa z dnia 19 grudnia 1975 r. o zmianie ustawy Kodeks rod… |  |
 | WDU19760010001 | Konwencja o zakazie prowadzenia badań, produkcji i gromadzen… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19760010010 | Rozporządzenie Ministra Administracji, Gospodarki Terenowej … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19760010012 | Rozporządzenie Ministra Administracji, Gospodarki Terenowej … | scan only or no digital PDF; types=['I', 'O'] |
@@ -573,6 +578,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19820050032 | Protokół sporządzony w Warszawie dnia 18 września 1980 r. w … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19820100071 | Konwencja w sprawie likwidacji wszelkich form dyskryminacji … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19820100073 | Umowa między Polską Rzecząpospolitą Ludową a Algierską Repub… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19820110081 | Ustawa z dnia 26 marca 1982 r. o zmianie ustawy - Kodeks cyw… | missing article structure — act type requires Art. markers b |
 | WDU19820110082 | Ustawa z dnia 26 marca 1982 r. o zmianie ustawy - Kodeks pos… | missing article structure — act type requires Art. markers b |
 | WDU19820120092 | Rozporządzenie Rady Ministrów z dnia 9 kwietnia 1982 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19820130098 | Konwencja Wiedeńska o stosunkach konsularnych sporządzona w … | scan only or no digital PDF; types=['I', 'O'] |
@@ -587,7 +593,10 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19820390257 | Rozporządzenie Rady Ministrów z dnia 8 listopada 1982 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19820390258 | Rozporządzenie Rady Ministrów z dnia 8 listopada 1982 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19820390262 | Rozporządzenie Rady Ministrów z dnia 8 listopada 1982 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19820400269 | Ustawa z dnia 14 grudnia 1982 r. o zmianie ustawy o zaopatrz… |  |
+| WDU19820450290 | Ustawa z dnia 29 grudnia 1982 r. o zmianie ustawy o opłatach… |  |
 | WDU19830040027 | Rozporządzenie Rady Ministrów z dnia 17 stycznia 1983 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19830050033 | Ustawa z dnia 1 lutego 1983 r. o zmianie niektórych przepisó… |  |
 | WDU19830050034 | Rozporządzenie Rady Ministrów z dnia 24 stycznia 1983 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19830070036 | Konwencja celna w sprawie kontenerów, 1972, sporządzona w Ge… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19830070038 | Konwencja o uznawaniu studiów, dyplomów wyższego wykształcen… | scan only or no digital PDF; types=['I', 'O'] |
@@ -627,7 +636,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19840310162 | Poprawki przyjęte w Londynie dnia 9 listopada 1977 r. do Kon… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19840340184 | Ustawa z dnia 3 lipca 1984 r. zmieniająca ustawę o wychowani… | missing article structure — act type requires Art. markers b |
 | WDU19840350187 | Ustawa z dnia 12 lipca 1984 r. zmieniająca ustawę o pracowni… | missing article structure — act type requires Art. markers b |
-| WDU19840360192 | Ustawa z dnia 21 lipca 1984 r. o amnestii. | rendered round-trip failed: AST=5 rendered=0 missing_rendere |
 | WDU19840370197 | Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 3… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19840390199 | Protokół dotyczący poprawki do artykułu 50 ustęp a) Konwencj… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19840390201 | Międzynarodowa Konwencja o wymaganiach w zakresie wyszkoleni… | scan only or no digital PDF; types=['I', 'O'] |
@@ -648,6 +656,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19850170071 | Rozporządzenie Rady Ministrów z dnia 9 kwietnia 1985 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19850180077 | Rozporządzenie Rady Ministrów z dnia 1 kwietnia 1985 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19850200086 | Ustawa z dnia 18 kwietnia 1985 r. o zmianie ustawy - Kodeks … | rendered round-trip failed: AST=8 rendered=52 missing_render |
+| WDU19850230100 | Ustawa z dnia 10 maja 1985 r. o zmianie niektórych przepisów… |  |
 | WDU19850280124 | Rozporządzenie Ministra Sprawiedliwości z dnia 17 czerwca 19… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19850340158 | Konwencja o międzynarodowym przewozie kolejami (COTIF), spor… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19850360172 | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia … | scan only or no digital PDF; types=['I', 'O'] |
@@ -665,6 +674,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19850630330 | Rozporządzenie Rady Ministrów z dnia 27 grudnia 1985 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19850630331 | Rozporządzenie Rady Ministrów z dnia 27 grudnia 1985 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19860070042 | Rozporządzenie Rady Ministrów z dnia 7 lutego 1986 r. w spra… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19860120072 | Ustawa z dnia 10 kwietnia 1986 r. o zmianie ustawy o przedsi… | missing article structure — act type requires Art. markers b |
 | WDU19860140082 | Konwencja konsularna między Rządem Polskiej Rzeczypospolitej… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19860160085 | Umowa między Polską Rzecząpospolitą Ludową a Związkiem Socja… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19860200102 | Umowa między Polską Rzecząpospolitą Ludową i Socjalistyczną … | scan only or no digital PDF; types=['I', 'O'] |
@@ -675,6 +685,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19860350175 | Konwencja o ograniczeniu odpowiedzialności za roszczenia mor… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19860370181 | Umowa między Polską Rzecząpospolitą Ludową i Arabską Republi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19860370183 | Konwencja konsularna między Polską Rzecząpospolitą Ludową a … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19860390193 | Ustawa z dnia 24 października 1986 r. o zmianie niektórych p… | missing article structure — act type requires Art. markers b |
 | WDU19860400194 | Konwencja konsularna między Polską Rzecząpospolitą Ludową a … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19860420201 | Ustawa z dnia 24 listopada 1986 r. o zmianie ustawy - Kodeks… | missing article structure — act type requires Art. markers b |
 | WDU19860470226 | Ustawa z dnia 18 grudnia 1986 r. o zmianie niektórych ustaw … | rendered round-trip failed: AST=7 rendered=13 missing_render |
@@ -695,6 +706,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19870260151 | Rozporządzenie Ministra Sprawiedliwości z dnia 13 sierpnia 1… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19870290159 | Rozporządzenie Rady Ministrów z dnia 7 września 1987 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19870330181 | Ustawa z dnia 23 października 1987 r. o zmianie niektórych u… | rendered round-trip failed: AST=10 rendered=29 missing_rende |
+| WDU19870330186 | Ustawa z dnia 23 października 1987 r. o zmianie ustawy - Kod… |  |
 | WDU19870350197 | Rozporządzenie Ministra Finansów z dnia 3 listopada 1987 r. … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19870370213 | Rozporządzenie Rady Ministrów z dnia 23 listopada 1987 r. w … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19870390220 | Rozporządzenie Rady Ministrów z dnia 14 grudnia 1987 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
@@ -710,6 +722,8 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19880100076 | Rozporządzenie Rady Ministrów z dnia 14 marca 1988 r. zmieni… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19880120095 | Rozporządzenie Rady Ministrów z dnia 25 kwietnia 1988 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19880140100 | Międzynarodowa Konwencja przeciw apartheidowi w sporcie, prz… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19880190132 | Ustawa z dnia 16 czerwca 1988 r. o zmianie niektórych ustaw … |  |
+| WDU19880200135 | Ustawa z dnia 17 czerwca 1988 r. o zmianie niektórych przepi… |  |
 | WDU19880210137 | Rozporządzenie Rady Ministrów z dnia 11 kwietnia 1988 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19880210138 | Rozporządzenie Rady Ministrów z dnia 11 kwietnia 1988 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19880210139 | Rozporządzenie Rady Ministrów z dnia 11 kwietnia 1988 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
@@ -732,7 +746,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19890010001 | Rozporządzenie Rady Ministrów z dnia 30 grudnia 1988 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19890060035 | Ustawa z dnia 15 lutego 1989 r. o zmianie ustawy o organizac… | missing article structure — act type requires Art. markers b |
 | WDU19890060042 | Rozporządzenie Rady Ministrów z dnia 20 lutego 1989 r. zmien… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU19890100056 | Ustawa z dnia 24 lutego 1989 r. o zmianie ustawy o sprzedaży… | source article inventory failed: eli-html=1 AST=4 missing_fr… |
+| WDU19890110063 | Obwieszczenie Ministra Pracy i Polityki Socjalnej z dnia 11 … |  |
 | WDU19890130065 | Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a rząd… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19890130067 | Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rząd… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19890160089 | Rozporządzenie Ministra Finansów z dnia 17 marca 1989 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
@@ -741,9 +755,10 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19890240129 | Rozporządzenie Rady Ministrów z dnia 24 kwietnia 1989 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19890280150 | Rozporządzenie Ministra Sprawiedliwości z dnia 5 maja 1989 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19890300162 | Ustawa z dnia 17 maja 1989 r. o zmianie ustawy o zakwaterowa… | rendered round-trip failed: AST=24 rendered=11 missing_rende |
-| WDU19890340178 | Ustawa z dnia 29 maja 1989 r. o przekazaniu dotychczasowych … | rendered round-trip failed: AST=20 rendered=25 missing_rende |
 | WDU19890340180 | Ustawa z dnia 29 maja 1989 r. o zmianie niektórych przepisów… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19890340182 | Ustawa z dnia 29 maja 1989 r. zmieniająca ustawę o pracownik… | missing article structure — act type requires Art. markers b |
+| WDU19890350190 | Ustawa z dnia 30 maja 1989 r. o zmianie niektórych przepisów… |  |
+| WDU19890350192 | Ustawa z dnia 30 maja 1989 r. o zmianie upoważnień do wydawa… |  |
 | WDU19890390210 | Umowa między Polską Rzecząpospolitą Ludową a Czechosłowacką … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19890390212 | Konwencja o systemie oceny jakości i atestacji wzajemnie dos… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19890420231 | Umowa Europejska o głównych międzynarodowych liniach kolejow… | scan only or no digital PDF; types=['I', 'O'] |
@@ -774,7 +789,9 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19900140087 | Ustawa z dnia 24 lutego 1990 r. o zmianie rozporządzenia Pre… | rendered round-trip failed: AST=3 rendered=8 extra_rendered= |
 | WDU19900140089 | Ustawa z dnia 24 lutego 1990 r. o likwidacji Wspólnoty Węgla… | character-spaced text — 1 line(s) with >30% single-letter wo… |
 | WDU19900160097 | Rozporządzenie Rady Ministrów z dnia 10 marca 1990 r. w spra… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19900170099 | Ustawa z dnia 9 marca 1990 r. o zmianie ustawy o przedsiębio… |  |
 | WDU19900200121 | Ustawa z dnia 22 marca 1990 r. o zmianie ustawy o Prokuratur… | rendered round-trip failed: AST=19 rendered=65 missing_rende |
+| WDU19900210126 | Ustawa z dnia 23 marca 1990 r. o zmianie ustawy o postępowan… |  |
 | WDU19900240142 | Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 30… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19900280162 | Rozporządzenie Rady Ministrów z dnia 9 kwietnia 1990 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19900280165 | Rozporządzenie Rady Ministrów z dnia 20 kwietnia 1990 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
@@ -784,7 +801,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19900380216 | Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rząd… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19900400230 | Rozporządzenie Rady Ministrów z dnia 5 czerwca 1990 r. w spr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19900430251 | Ustawa z dnia 8 czerwca 1990 r. o zmianie ustaw: Kodeks post… | missing article structure — act type requires Art. markers b |
-| WDU19900430252 | Ustawa z dnia 8 czerwca 1990 r. o przywróceniu Akademii Wych… | rendered round-trip failed: AST=6 rendered=2 missing_rendere |
 | WDU19900460267 | Umowa między Polską Rzecząpospolitą Ludową a Królestwem Belg… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19900460269 | Rozporządzenie Rady Ministrów z dnia 2 lipca 1990 r. w spraw… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19900460270 | Rozporządzenie Rady Ministrów z dnia 2 lipca 1990 r. w spraw… | scan only or no digital PDF; types=['I', 'O'] |
@@ -855,6 +871,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19920140056 | Traktat między Rzecząpospolitą Polską a Republiką Federalną … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19920160060 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Państ… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19920170069 | Umowa Przejściowa dotycząca handlu i spraw związanych z hand… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19920210084 | Ustawa z dnia 15 lutego 1992 r. o zmianie niektórych ustaw d… |  |
 | WDU19920230097 | Umowa między Polską Rzecząpospolitą Ludową a Republiką Włosk… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19920230099 | Umowa między Polską Rzecząpospolitą Ludową a Republiką Włosk… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19920280124 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Państ… | scan only or no digital PDF; types=['I', 'O'] |
@@ -866,6 +883,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19920410180 | Rozporządzenie Rady Ministrów z dnia 5 maja 1992 r. w sprawi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19920420184 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Czesk… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19920430188 | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19920510231 | Ustawa z dnia 5 czerwca 1992 r. zmieniająca ustawę o zmianie… |  |
 | WDU19920520242 | Rozporządzenie Ministra Rolnictwa i Gospodarki Żywnościowej … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19920540257 | Rozporządzenie Rady Ministrów z dnia 4 lipca 1992 r. w spraw… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19920540259 | Rozporządzenie Rady Ministrów z dnia 4 lipca 1992 r. w spraw… | scan only or no digital PDF; types=['I', 'O'] |
@@ -993,7 +1011,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19940570237 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Repub… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19940600246 | Konwencja nr 160 Konferencji Ogólnej Międzynarodowej Organiz… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19940600248 | Konwencja konsularna między Rzecząpospolitą Polską a Ukrainą… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU19940620265 | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 9 maj… | missing Polish diacritics — only 8 in 1634 letters (0.49%) — |
 | WDU19940630267 | Umowa między Rzecząpospolitą Polską a Ukrainą o stosunkach p… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19940630269 | Konwencja między Rządem Rzeczypospolitej Polskiej a Rządem U… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19940640272 | Konwencja europejska o informacji o prawie obcym, sporządzon… | scan only or no digital PDF; types=['I', 'O'] |
@@ -1112,6 +1129,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19950830421 | Rozporządzenie Rady Ministrów z dnia 13 czerwca 1995 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19950850426 | Ustawa z dnia 22 czerwca 1995 r. o zmianie ustawy o organiza… | missing article structure — act type requires Art. markers b |
 | WDU19950910453 | Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 31… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19950950475 | Ustawa z dnia 12 lipca 1995 r. o zmianie Kodeksu karnego, Ko… |  |
 | WDU19950960478 | Ustawa z dnia 8 czerwca 1995 r. o zmianie ustawy o działalno… | rendered round-trip failed: AST=14 rendered=59 missing_rende |
 | WDU19950980483 | Porozumienie ustanawiające Światową Organizację Handlu (WTO)… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19951000497 | Rozporządzenie Rady Ministrów z dnia 18 sierpnia 1995 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
@@ -1172,7 +1190,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19960380166 | Konwencja między Rzecząpospolitą Polską a Republiką Mołdowa … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19960390169 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Repub… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19960420181 | Rozporządzenie Rady Ministrów z dnia 2 kwietnia 1996 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU19960430189 | Ustawa z dnia 1 marca 1996 r. o zmianie Kodeksu postępowania… | source article inventory failed: eli-html=1 AST=13 missing_f… |
 | WDU19960440193 | Rozporządzenie Ministra Finansów z dnia 9 kwietnia 1996 r. z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19960460205 | Umowa między Rzecząpospolitą Polską a Republiką Czeską o wsp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19960460207 | Umowa między Rzecząpospolitą Polską a Republiką Czeską o mał… | scan only or no digital PDF; types=['I', 'O'] |
@@ -1230,6 +1247,8 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19961350631 | Rozporządzenie Ministra Edukacji Narodowej oraz Ministra Zdr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19961350632 | Rozporządzenie Ministra Edukacji Narodowej oraz Ministra Zdr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19961390651 | Rozporządzenie Ministra Sprawiedliwości z dnia 26 listopada … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19961430662 | Obwieszczenie Ministra Pracy i Polityki Socjalnej z dnia 28 … |  |
+| WDU19961430663 | Obwieszczenie Ministra Pracy i Polityki Socjalnej z dnia 28 … | missing paragraph structure — consolidated rozporządzenie re |
 | WDU19961470689 | Rozporządzenie Rady Ministrów z dnia 12 grudnia 1996 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19961490704 | Ustawa z dnia 6 grudnia 1996 r. o zmianie ustawy o podatkach… | character-spaced text — 2 line(s) with >30% single-letter wo… |
 | WDU19961510714 | Rozporządzenie Rady Ministrów z dnia 11 grudnia 1996 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
@@ -1345,6 +1364,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19980300162 | Rozporządzenie Rady Ministrów z dnia 4 marca 1998 r. w spraw… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19980330179 | Akt wycofania przez Rzeczpospolitą Polską zastrzeżenia złożo… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19980340186 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Repub… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19980340195 | Obwieszczenie Ministra Spraw Zagranicznych z dnia 23 lutego … | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU19980350196 | Konstytucja i Konwencja Międzynarodowego Związku Telekomunik… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19980350198 | Konwencja między Rzecząpospolitą Polską a Republiką Słowenii… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19980360201 | Rozporządzenie Ministra Ochrony Środowiska, Zasobów Naturaln… | scan only or no digital PDF; types=['I', 'O'] |
@@ -1425,6 +1445,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19981601067 | Rozporządzenie Rady Ministrów z dnia 15 grudnia 1998 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19981601071 | Rozporządzenie Rady Ministrów z dnia 15 grudnia 1998 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19981611106 | Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 18… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU19981621126 | Ustawa z dnia 29 grudnia 1998 r. o zmianie niektórych ustaw … |  |
 | WDU19981621133 | Rozporządzenie Rady Ministrów z dnia 22 grudnia 1998 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19981621139 | Rozporządzenie Rady Ministrów z dnia 22 grudnia 1998 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19981621147 | Rozporządzenie Prezesa Rady Ministrów z dnia 23 grudnia 1998… | scan only or no digital PDF; types=['I', 'O'] |
@@ -1436,7 +1457,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU19981661206 | Rozporządzenie Prezesa Rady Ministrów z dnia 31 grudnia 1998… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19981661247 | Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 30… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19981661261 | Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 2… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU19990130114 | Rozporządzenie Rady Ministrów z dnia 2 lutego 1999 r. w spra… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU19990220197 | Konwencja o odpowiedzialności osób utrzymujących hotele za r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19990220199 | Umowa między Rzecząpospolitą Polską a Republiką Litewską o w… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU19990220201 | Umowa między Rzecząpospolitą Polską a Republiką Federalną Ni… | scan only or no digital PDF; types=['I', 'O'] |
@@ -1533,6 +1553,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20000430494 | Zmiany do Konwencji Celnej dotyczącej międzynarodowego przew… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20000430496 | Umowa o ustanowieniu Europejskiej Konferencji Biologii Molek… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20000460536 | Rozporządzenie Rady Ministrów z dnia 6 czerwca 2000 r. zmien… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20000480553 | Ustawa z dnia 12 maj 2000 r. o zmianie ustawy o prokuraturze… |  |
 | WDU20000480561 | Rozporządzenie Rady Ministrów z dnia 13 czerwca 2000 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20000490570 | Rozporządzenie Ministra Edukacji Narodowej z dnia 29 maja 20… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20000500582 | Konwencja o przeprowadzaniu dowodów za granicą w sprawach cy… | scan only or no digital PDF; types=['I', 'O'] |
@@ -1726,7 +1747,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20011061153 | Rozporządzenie Rady Ministrów z dnia 20 września 2001 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20011061162 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20011071181 | Rozporządzenie Prezesa Rady Ministrów z dnia 29 września 200… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU20011101190 | Ustawa z dnia 27 lipca 2001 r. o zmianie ustawy - Prawo geol… | source article inventory failed: eli-html=0 AST=17 dup_ast=1… |
+| WDU20011101190 | Ustawa z dnia 27 lipca 2001 r. o zmianie ustawy - Prawo geol… | rendered round-trip failed: AST=17 rendered=17 dup_rendered=… |
 | WDU20011121204 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 wr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20011131211 | Rozporządzenie Ministra Gospodarki z dnia 18 września 2001 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20011141227 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
@@ -1789,7 +1810,6 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20011531774 | Rozporządzenie Ministra Środowiska z dnia 18 grudnia 2001 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20011531781 | Rozporządzenie Ministra Środowiska z dnia 19 grudnia 2001 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20011531783 | Rozporządzenie Ministra Zdrowia z dnia 7 grudnia 2001 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU20011541794 | Ustawa z dnia 17 grudnia 2001 r. zmieniająca ustawę o zmiani… | rendered round-trip failed: AST=3 rendered=2 missing_rendere |
 | WDU20011541807 | Rozporządzenie Rady Ministrów z dnia 29 grudnia 2001 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20011561819 | Rozporządzenie Rady Ministrów z dnia 28 grudnia 2001 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20011571840 | Rozporządzenie Rady Ministrów z dnia 28 grudnia 2001 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
@@ -2343,6 +2363,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20031681643 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 wr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20031691645 | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20031691649 | Rozporządzenie Ministra Skarbu Państwa z dnia 19 września 20… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20031691650 | Obwieszczenie Ministra Gospodarki, Pracy i Polityki Społeczn… | character-spaced text — 1 line(s) with >30% single-letter wo… |
 | WDU20031701656 | Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecz… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20031701657 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 20… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20031721667 | Konwencja Nr 3 dotycząca międzynarodowej wymiany informacji … | scan only or no digital PDF; types=['I', 'O'] |
@@ -2475,6 +2496,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20040340296 | Rozporządzenie Prezesa Rady Ministrów z dnia 16 lutego 2004 … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040340300 | Rozporządzenie Ministra Infrastruktury z dnia 11 lutego 2004… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040340301 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 lu… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20040350305 | Ustawa z dnia 29 stycznia 2004 r. o zmianie ustawy o świadcz… |  |
 | WDU20040350309 | Rozporządzenie Rady Ministrów z dnia 2 marca 2004 r. zmienia… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040350318 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 lut… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040360323 | Międzynarodowa Konwencja o gotowości do zwalczania zanieczys… | scan only or no digital PDF; types=['I', 'O'] |
@@ -2527,6 +2549,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20040650597 | Rozporządzenie Rady Ministrów z dnia 6 kwietnia 2004 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040650599 | Rozporządzenie Ministra Finansów z dnia 13 kwietnia 2004 r. … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040660606 | Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 2… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20040700632 | Ustawa z dnia 12 marca 2004 r. o zmianie ustawy - Prawo atom… |  |
 | WDU20040710649 | Rozporządzenie Ministra Gospodarki, Pracy i Polityki Społecz… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040710650 | Rozporządzenie Ministra Kultury z dnia 1 kwietnia 2004 r. w … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040730657 | Rozporządzenie Rady Ministrów z dnia 14 kwietnia 2004 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
@@ -2558,6 +2581,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20040940929 | Rozporządzenie Ministra Środowiska z dnia 23 kwietnia 2004 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040950952 | Rozporządzenie Rady Ministrów z dnia 21 kwietnia 2004 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040950957 | Rozporządzenie Prezesa Rady Ministrów z dnia 27 kwietnia 200… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20040960959 | Ustawa z dnia 20 kwietnia 2004 r. o zmianie i uchyleniu niek… |  |
 | WDU20040970975 | Rozporządzenie Ministra Środowiska z dnia 26 kwietnia 2004 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040980987 | Rozporządzenie Rady Ministrów z dnia 27 kwietnia 2004 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20040980988 | Rozporządzenie Rady Ministrów z dnia 27 kwietnia 2004 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
@@ -2596,8 +2620,10 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20041171224 | Rozporządzenie Ministra Infrastruktury z dnia 19 maja 2004 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20041191248 | Rozporządzenie Ministra Infrastruktury z dnia 30 kwietnia 20… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20041201255 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 ma… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20041211265 | Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy o usługac… |  |
 | WDU20041221270 | Rozporządzenie Ministra Infrastruktury z dnia 15 kwietnia 20… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20041221282 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20041221289 | Wyrok Trybunału Konstytucyjnego z dnia 12 maja 2004 r. sygn.… |  |
 | WDU20041231298 | Rozporządzenie Ministra Polityki Społecznej z dnia 28 maja 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20041231299 | Rozporządzenie Ministra Polityki Społecznej z dnia 28 maja 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20041241302 | Rozporządzenie Ministra Kultury z dnia 10 maja 2004 r. w spr… | scan only or no digital PDF; types=['I', 'O'] |
@@ -2793,6 +2819,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20042382394 | Rozporządzenie Ministra Infrastruktury z dnia 22 październik… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20042382401 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20042392403 | Rozporządzenie Rady Ministrów z dnia 25 października 2004 r.… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20042402406 | Ustawa z dnia 8 października 2004 r. o zmianie ustawy o doda… |  |
 | WDU20042402409 | Rozporządzenie Rady Ministrów z dnia 19 października 2004 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20042402411 | Rozporządzenie Prezesa Rady Ministrów z dnia 3 listopada 200… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20042432433 | Rozporządzenie Ministra Obrony Narodowej z dnia 28 październ… | scan only or no digital PDF; types=['I', 'O'] |
@@ -2851,6 +2878,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20042772751 | Rozporządzenie Ministra Gospodarki i Pracy z dnia 16 grudnia… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20042792766 | Rozporządzenie Ministra Obrony Narodowej z dnia 21 grudnia 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20042792768 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20042812783 | Ustawa z dnia 17 grudnia 2004 r. o zmianie ustawy o ochronie… |  |
 | WDU20042812787 | Rozporządzenie Rady Ministrów z dnia 20 grudnia 2004 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20042812790 | Rozporządzenie Rady Ministrów z dnia 20 grudnia 2004 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20042812796 | Rozporządzenie Ministra Sprawiedliwości z dnia 23 grudnia 20… | scan only or no digital PDF; types=['I', 'O'] |
@@ -3088,6 +3116,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20051311095 | Rozporządzenie Rady Ministrów z dnia 29 czerwca 2005 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20051311100 | Rozporządzenie Ministra Zdrowia z dnia 4 lipca 2005 r. zmien… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20051311102 | Wyrok Trybunału Konstytucyjnego z dnia 5 lipca 2005 r. sygn.… | ELI API returned non-PDF content for WDU20051311102 T PDF (1… |
+| WDU20051321110 | Ustawa z dnia 17 czerwca 2005 r. o zmianie ustawy o służbie … |  |
 | WDU20051321118 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 li… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20051331125 | Rozporządzenie Ministra Zdrowia z dnia 29 czerwca 2005 r. w … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20051351140 | Rozporządzenie Ministra Gospodarki i Pracy z dnia 4 lipca 20… | scan only or no digital PDF; types=['I', 'O'] |
@@ -3133,6 +3162,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20051721444 | Rozporządzenie Ministra Infrastruktury z dnia 18 lipca 2005 … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20051741453 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 si… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20051751458 | Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o odpadach o… |  |
+| WDU20051751461 | Ustawa z dnia 29 lipca 2005 r. o zmianie ustawy o zawodach p… |  |
 | WDU20051751464 | Rozporządzenie Ministra Finansów z dnia 9 września 2005 r. z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20051751465 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20051751466 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
@@ -3571,6 +3601,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20062181594 | Rozporządzenie Ministra Finansów z dnia 29 listopada 2006 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20062181595 | Rozporządzenie Ministra Finansów z dnia 29 listopada 2006 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20062181598 | Rozporządzenie Ministra Zdrowia z dnia 20 listopada 2006 r. … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20062201600 | Ustawa z dnia 18 października 2006 r. o zmianie i uchyleniu … |  |
 | WDU20062211616 | Rozporządzenie Rady Ministrów z dnia 30 listopada 2006 r. w … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20062211618 | Rozporządzenie Ministra Budownictwa z dnia 23 listopada 2006… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20062211622 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 li… | scan only or no digital PDF; types=['I', 'O'] |
@@ -3728,6 +3759,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20070980653 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 ma… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20070980654 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 ma… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20070980655 | Rozporządzenie Ministra Rozwoju Regionalnego z dnia 21 maja … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20070990661 | Ustawa z dnia 26 kwietnia 2007 r. o zmianie ustawy o czasie … |  |
 | WDU20070990670 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 ma… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20070990672 | Rozporządzenie Ministra Rozwoju Regionalnego z dnia 21 maja … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071000674 | Protokół z dnia 3 czerwca 1999 r. wprowadzający zmiany do Ko… | scan only or no digital PDF; types=['I', 'O'] |
@@ -3770,6 +3802,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20071170812 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071180813 | Konwencja o pomocy żywnościowej, sporządzona w Londynie dnia… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071180815 | Międzynarodowa Umowa w sprawie kawy, sporządzona w Londynie … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20071200818 | Ustawa z dnia 24 maja 2007 r. o zmianie ustawy o cudzoziemca… |  |
 | WDU20071200821 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071200825 | Rozporządzenie Ministra Rozwoju Regionalnego z dnia 6 czerwc… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071200826 | Rozporządzenie Ministra Środowiska z dnia 14 czerwca 2007 r.… | scan only or no digital PDF; types=['I', 'O'] |
@@ -3843,6 +3876,9 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20071641164 | Rozporządzenie Ministra Finansów z dnia 31 sierpnia 2007 r. … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071641165 | Rozporządzenie Ministra Finansów z dnia 31 sierpnia 2007 r. … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071641168 | Rozporządzenie Ministra Sprawiedliwości z dnia 7 września 20… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20071651169 | Ustawa z dnia 23 sierpnia 2007 r. o zmianie ustawy o podatku… |  |
+| WDU20071651171 | Ustawa z dnia 7 września 2007 r. o zmianie ustawy o ujawnian… |  |
+| WDU20071661172 | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o świadcz… |  |
 | WDU20071671173 | Protokół w sprawie gotowości do zwalczania zanieczyszczeń mo… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071671175 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Hongk… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071681181 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 31 si… | scan only or no digital PDF; types=['I', 'O'] |
@@ -3854,6 +3890,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20071711208 | Ustawa z dnia 23 sierpnia 2007 r. o zmianie ustawy o sporcie… | rendered round-trip failed: AST=8 rendered=13 extra_rendered |
 | WDU20071731220 | Rozporządzenie Ministra transportu z dnia 18 września 2007 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071751233 | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20071761239 | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy - Kodeks … |  |
 | WDU20071761240 | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o zakłada… | rendered round-trip failed: AST=4 rendered=5 extra_rendered= |
 | WDU20071761242 | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o służbie… | rendered round-trip failed: AST=10 rendered=34 missing_rende |
 | WDU20071771244 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Repub… | scan only or no digital PDF; types=['I', 'O'] |
@@ -3866,6 +3903,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20071791279 | Wyrok Trybunału Konstytucyjnego z dnia 19 września 2007 r. s… | ELI API returned non-PDF content for WDU20071791279 T PDF (1… |
 | WDU20071811291 | Ustawa z dnia 7 września 2007 r. o zmianie ustawy o Państwow… | rendered round-trip failed: AST=3 rendered=6 missing_rendere |
 | WDU20071811292 | Ustawa z dnia 7 września 2007 r. o zmianie ustawy o systemie… | rendered round-trip failed: AST=2 rendered=11 extra_rendered |
+| WDU20071811293 | Ustawa z dnia 7 września 2007 r. o zmianie ustawy o prawie a… |  |
 | WDU20071811294 | Rozporządzenie Ministra Obrony Narodowej z dnia 18 września … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071861321 | Rozporządzenie Prezesa Rady Ministrów z dnia 24 września 200… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20071871330 | Rozporządzenie Ministra Finansów z dnia 28 września 2007 r. … | scan only or no digital PDF; types=['I', 'O'] |
@@ -4049,6 +4087,8 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20080420252 | Porozumienie w sprawie specjalnych wymagań statecznościowych… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20080420254 | Program współpracy kulturalno-edukacyjnej między Rządem Rzec… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20080420257 | Rozporządzenie Ministra Edukacji Narodowej z dnia 11 marca 2… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20080430258 | Ustawa z dnia stycznia 2008 r. o zmianie ustawy o zawodzie l… |  |
+| WDU20080440262 | Ustawa z dnia 29 lutego 2008 r. o zmianie ustawy o płatności… |  |
 | WDU20080470279 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 ma… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20080480284 | Rozporządzenie Ministra Infrastruktury z dnia 7 marca 2008 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20080480288 | Rozporządzenie Ministra Zdrowia z dnia 29 lutego 2008 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
@@ -4175,6 +4215,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20081310837 | Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2008 r. sygn… | ELI API returned non-PDF content for WDU20081310837 T PDF (8… |
 | WDU20081320840 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20081330843 | Rozporządzenie Rady Ministrów z dnia 15 lipca 2008 r. w spra… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20081340850 | Ustawa z dnia 27 czerwca 2008 r. o zmianie ustawy o pomocy o… | known PDF extraction failure — article structure is lost in  |
 | WDU20081340851 | Międzynarodowa Konwencja w sprawie kontroli szkodliwych syst… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20081370859 | Rozporządzenie Rady Ministrów z dnia 22 lipca 2008 r. w spra… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20081370861 | Rozporządzenie Prezesa Rady Ministrów z dnia 28 lipca 2008 r… | scan only or no digital PDF; types=['I', 'O'] |
@@ -4182,6 +4223,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20081380868 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 lip… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20081380871 | Rozporządzenie Ministra Zdrowia z dnia 21 lipca 2008 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20081380875 | Wyrok Trybunału Konstytucyjnego z dnia 22 lipca 2008 r. sygn… | ELI API returned non-PDF content for WDU20081380875 T PDF (2… |
+| WDU20081390876 | Ustawa z dnia 12 czerwca 2008 r. o zmianie ustawy o społeczn… |  |
 | WDU20081390882 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 14 li… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20081390883 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 li… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20081440904 | Rozporządzenie Ministra Obrony Narodowej z dnia 31 stycznia … | scan only or no digital PDF; types=['I', 'O'] |
@@ -4286,11 +4328,13 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20082111334 | Rozporządzenie Ministra Finansów z dnia 28 listopada 2008 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20082151358 | Rozporządzenie Rady Ministrów z dnia 18 listopada 2008 r. zm… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20082151360 | Rozporządzenie Prezesa Rady Ministrów z dnia 27 listopada 20… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20082161370 | Ustawa z dnia 7 listopada 2008 r. o zmianie niektórych ustaw… |  |
 | WDU20082161374 | Rozporządzenie Ministra Finansów z dnia 27 listopada 2008 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20082161375 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 li… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20082161376 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20082171384 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Feder… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20082171388 | Rozporządzenie Ministra Zdrowia z dnia 27 listopada 2008 r. … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20082181389 | Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy - Przepisy w… |  |
 | WDU20082181393 | Rozporządzenie Rady Ministrów z dnia 27 listopada 2008 r. w … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20082181394 | Rozporządzenie Prezesa Rady Ministrów z dnia 2 grudnia 2008 … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20082191402 | Rozporządzenie Rady Ministrów z dnia 21 października 2008 r.… | scan only or no digital PDF; types=['I', 'O'] |
@@ -4355,6 +4399,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20090080042 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 9… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090090045 | Rozporządzenie Ministra Gospodarki z dnia 19 grudnia 2008 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090090051 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 gr… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20090130070 | Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o komercja… |  |
 | WDU20090130073 | Rozporządzenie Ministra Zdrowia z dnia 8 stycznia 2009 r. w … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090140076 | Konwencja Sztokholmska w sprawie trwałych zanieczyszczeń org… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090140078 | Konwencja o Europejskim Instytucie Leśnictwa, sporządzona w … | scan only or no digital PDF; types=['I', 'O'] |
@@ -4403,6 +4448,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20090390321 | Rozporządzenie Ministra Zdrowia z dnia 20 lutego 2009 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090400329 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 11 ma… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090410332 | Rozporządzenie Ministra Rozwoju Regionalnego z dnia 5 marca … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20090420341 | Ustawa z dnia 13 lutego 2009 r. o zmianie ustawy o działalno… |  |
 | WDU20090430345 | Rozporządzenie Ministra Infrastruktury z dnia 12 marca 2009 … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090430346 | Rozporządzenie Ministra Infrastruktury z dnia 17 marca 2009 … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090430347 | Rozporządzenie Ministra Infrastruktury z dnia 17 marca 2009 … | scan only or no digital PDF; types=['I', 'O'] |
@@ -4438,6 +4484,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20090520422 | Rozporządzenie Ministra Edukacji Narodowej z dnia 24 marca 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090520425 | Rozporządzenie Ministra Obrony Narodowej z dnia 17 marca 200… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090520428 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 ma… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20090530434 | Ustawa z dnia 6 marca 2009 r. o zmianie ustawy - Prawo upadł… |  |
 | WDU20090530436 | Rozporządzenie Prezesa Rady Ministrów z dnia 18 marca 2009 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090530438 | Rozporządzenie Ministra Infrastruktury z dnia 13 marca 2009 … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090540441 | Rozporządzenie Rady Ministrów z dnia 23 marca 2009 r. zmieni… | scan only or no digital PDF; types=['I', 'O'] |
@@ -4504,6 +4551,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20090950794 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090960796 | Porozumienie między Rządem Rzeczypospolitej Polskiej a Rząde… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090960798 | Rozporządzenie Ministra Finansów z dnia 15 czerwca 2009 r. z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20090970802 | Ustawa z dnia 22 maja 2009 r. o zmianie ustawy - Prawo o ruc… |  |
 | WDU20090970811 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 cz… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090970812 | Rozporządzenie Ministra Rozwoju Regionalnego z dnia 10 czerw… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20090980820 | Rozporządzenie Ministra Gospodarki z dnia 9 czerwca 2009 r. … | scan only or no digital PDF; types=['I', 'O'] |
@@ -4544,7 +4592,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20091140955 | Rozporządzenie Ministra sprawiedliwości z dnia 16 lipca 2009… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20091170980 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Repub… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20091170982 | Rozporządzenie Rady Ministrów z dnia 14 lipca 2009 r. zmieni… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU20091180989 | Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o świadcze… | source article inventory failed: eli-html=1 AST=18 missing_f… |
+| WDU20091180989 | Ustawa z dnia 25 czerwca 2009 r. o zmianie ustawy o świadcze… |  |
 | WDU20091180992 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 li… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20091211006 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20091221008 | Rozporządzenie Rady Ministrów z dnia 17 lipca 2009 r. zmieni… | scan only or no digital PDF; types=['I', 'O'] |
@@ -4623,6 +4671,8 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20091591258 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 wr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20091591260 | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20091601273 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20091611278 | Ustawa z dnia 27 sierpnia 2009 r. o zmianie ustawy o powszec… |  |
+| WDU20091611279 | Ustawa z dnia 27 sierpnia 2009 r. o zmianie ustawy - Prawo b… |  |
 | WDU20091611285 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 wr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20091621290 | Rozporządzenie Rady Ministrów z dnia 29 września 2009 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20091621291 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 wr… | scan only or no digital PDF; types=['I', 'O'] |
@@ -4680,12 +4730,12 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20091981530 | Umowa między Rzecząpospolitą Polską a Republiką Czeską w spr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20091991536 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 li… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092001539 | Rozporządzenie Ministra i Rozwoju Wsi z dnia 18 listopada 20… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU20092011542 | Ustawa z dnia 23 października 2009 r. zmieniająca ustawę o z… | PostScript CE garbled diacritics — unrepaired encoding (3 oc |
 | WDU20092011544 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 li… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092021559 | Rozporządzenie Rady Ministrów z dnia 13 listopada 2009 r. zm… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092031569 | Traktat z Lizbony zmieniający Traktat o Unii Europejskiej i … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092051582 | Rozporządzenie Rady Ministrów z dnia 24 listopada 2009 r. w … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092051584 | Rozporządzenie Ministra Infrastruktury z dnia 27 listopada 2… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20092061590 | Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy o gospoda… |  |
 | WDU20092071599 | Rozporządzenie Ministra Sprawiedliwości z dnia 23 listopada … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092081603 | Konwencja o ochronie interesów finansowych Wspólnot Europejs… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092081605 | Poprawka do Porozumienia o ochronie populacji europejskich n… | scan only or no digital PDF; types=['I', 'O'] |
@@ -4694,6 +4744,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20092101620 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 li… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092101622 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 li… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092111633 | Rozporządzenie Ministra Finansów z dnia 4 grudnia 2009 r. w … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20092131652 | Ustawa z dnia 19 listopada 2009 r. o zmianie ustawy o wyborz… |  |
 | WDU20092131655 | Rozporządzenie Ministra Zdrowia z dnia 4 grudnia 2009 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092141660 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 gru… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20092151671 | Rozporządzenie Ministra Środowiska z dnia 3 grudnia 2009 r. … | scan only or no digital PDF; types=['I', 'O'] |
@@ -4759,6 +4810,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20100160088 | Rozporządzenie Ministra Zdrowia z dnia 18 stycznia 2010 r. w… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20100170091 | Umowa między Rzecząpospolitą Polską a Stanami Zjednoczonymi … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20100170093 | Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Państ… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20100210105 | Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy o bezpiecz… |  |
 | WDU20100210109 | Wyrok Trybunału Konstytucyjnego z dnia 26 stycznia 2010 r. s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20100220111 | Rozporządzenie Prezesa Rady Ministrów z dnia 2 lutego 2010 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20100230117 | Rozporządzenie Rady Ministrów z dnia 2 lutego 2010 r. zmieni… | scan only or no digital PDF; types=['I', 'O'] |
@@ -4855,6 +4907,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20100770510 | Rozporządzenie Ministra Środowiska z dnia 13 kwietnia 2010 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20100790524 | Rozporządzenie Ministra Infrastruktury z dnia 6 maja 2010 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20100790525 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20100810527 | Ustawa z dnia 18 marca 2010 r. o zmianie ustawy o pomocy spo… |  |
 | WDU20100810533 | Rozporządzenie Ministra Finansów z dnia 4 maja 2010 r. w spr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20100840548 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20100840549 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
@@ -4925,6 +4978,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20101220834 | Rozporządzenie Ministra Sprawiedliwości z dnia 18 czerwca 20… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20101230837 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 9… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20101230840 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20101250842 | Ustawa z dnia 10 czerwca 2010 r. o zmianie ustawy o przeciwd… |  |
 | WDU20101250852 | Wyrok Trybunału Konstytucyjnego z dnia 22 czerwca 2010 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20101260856 | Rozporządzenie Ministra Infrastruktury z dnia 25 czerwca 201… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20101270857 | Ustawa z dnia 25 czerwca 2010 r. o sporcie | rendered round-trip failed: AST=89 rendered=89 dup_rendered=… |
@@ -4992,6 +5046,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20101661124 | Rozporządzenie Ministra Obrony Narodowej z dnia 6 września 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20101661125 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 wrz… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20101661128 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20101671129 | Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy o ofercie pu… |  |
 | WDU20101671132 | Rozporządzenie Ministra Środowiska z dnia 26 sierpnia 2010 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20101681133 | Układ o Stabilizacji i Stowarzyszeniu między Wspólnotami Eur… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20101691138 | Rozporządzenie Rady Ministrów z dnia 30 sierpnia 2010 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5089,9 +5144,17 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20102221452 | Rozporządzenie Ministra Sprawiedliwości z dnia 9 listopada 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20102251467 | Rozporządzenie Ministra Obrony Narodowej z dnia 15 listopada… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20102251472 | Rozporządzenie Ministra Środowiska z dnia 10 listopada 2010 … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20102261478 | Ustawa z dnia 25 listopada 2010 r. o zmianie ustawy o podatk… |  |
 | WDU20102261479 | Rozporządzenie Rady Ministrów z dnia 16 listopada 2010 r. w … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20102281486 | Ustawa z dnia 22 października 2010 r. o zmianie ustawy o org… |  |
 | WDU20102281492 | Rozporządzenie Ministra Edukacji Narodowej z dnia 17 listopa… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20102291494 | Ustawa z dnia 22 października 2010 r. o zmianie ustawy o pra… | known two-column PDF extraction failure — Art. 2 is merged i |
+| WDU20102291495 | Ustawa z dnia 22 października 2010 r. o zmianie ustawy o tow… |  |
+| WDU20102291498 | Ustawa z dnia 29 października 2010 r. o zmianie ustawy - Pra… |  |
 | WDU20102291502 | Rozporządzenie Ministra Gospodarki z dnia 26 listopada 2010 … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20102301509 | Ustawa z dnia 22 października 2010 r. o zmianie ustawy - Pra… |  |
+| WDU20102301510 | Ustawa z dnia 22 października 2010 r. o zmianie ustawy o słu… |  |
+| WDU20102301511 | Ustawa z dnia 22 października 2010 r. o zmianie ustawy o pas… |  |
 | WDU20102301516 | Rozporządzenie Ministra Finansów z dnia 3 grudnia 2010 r. zm… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20102301518 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 li… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20102321525 | Rozporządzenie Ministra Zdrowia z dnia 22 listopada 2010 r. … | scan only or no digital PDF; types=['I', 'O'] |
@@ -5113,6 +5176,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20102381581 | Rozporządzenie Ministra Finansów z dnia 2 grudnia 2010 r. w … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20102381585 | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20102381586 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 9… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20102391592 | Ustawa z dnia 25 listopada 2010 r. o zmianie ustawy o Inspek… |  |
 | WDU20102391595 | Rozporządzenie Rady Ministrów z dnia 17 grudnia 2010 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20102391597 | Rozporządzenie Ministra Infrastruktury z dnia 10 grudnia 201… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20102391598 | Rozporządzenie Ministra Rozwoju Regionalnego z dnia 15 grudn… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5239,19 +5303,22 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20110520269 | Rozporządzenie Ministra Środowiska z dnia 24 lutego 2011 r. … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110530274 | Rozporządzenie Prezesa Rady Ministrów z dnia 3 marca 2011 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110530276 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 28 lu… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20110530277 | Wyrok Trybunału Konstytucyjnego z dnia 1 marca 2011 r. sygn.… |  |
+| WDU20110540278 | Ustawa z dnia 4 lutego 2011 r. o zmianie ustawy o płatnościa… |  |
+| WDU20110540285 | Wyrok Trybunału Konstytucyjnego z dnia 3 marca 2011 r. sygn.… |  |
 | WDU20110550286 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 mar… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110570292 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 ma… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110610306 | Rozporządzenie Ministra Edukacji Narodowej z dnia 18 lutego … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110610308 | Rozporządzenie Ministra Infrastruktury z dnia 14 marca 2011 … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110610309 | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110610310 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20110610315 | Wyrok Trybunału Konstytucyjnego z dnia 9 marca 2011 r. sygn.… |  |
 | WDU20110620317 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110620319 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 ma… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110620321 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 ma… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110630323 | Rozporządzenie Rady Ministrów z dnia 10 marca 2011 r. zmieni… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110630325 | Rozporządzenie Ministra Infrastruktury z dnia 18 lutego 2011… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110640336 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 10 ma… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU20110640342 | Wyrok Trybunału Konstytucyjnego z dnia 16 marca 2011 r. sygn… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20110650343 | Rozporządzenie Ministra Infrastruktury z dnia 28 stycznia 20… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110650344 | Rozporządzenie Ministra Infrastruktury z dnia 2 marca 2011 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110690368 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 2… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5261,6 +5328,8 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20110720382 | Protokół do Konwencji o umowie międzynarodowego przewozu dro… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110720384 | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110720386 | Rozporządzenie Rady Ministrów z dnia 5 kwietnia 2011 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20110720388 | Wyrok Trybunału Konstytucyjnego z dnia 15 marca 2011 r. sygn… |  |
+| WDU20110720389 | Wyrok Trybunału Konstytucyjnego z dnia 22 marca 2011 r. sygn… |  |
 | WDU20110730395 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110750399 | Rozporządzenie Rady Ministrów z dnia 22 marca 2011 r. w spra… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110750401 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5276,13 +5345,19 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20110800437 | Rozporządzenie Ministra Zdrowia z dnia 23 marca 2011 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110810441 | Rozporządzenie Rady Ministrów z dnia 30 marca 2011 r. w spra… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110810444 | Rozporządzenie Ministra Infrastruktury z dnia 8 kwietnia 201… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20110810449 | Wyrok Trybunału Konstytucyjnego z dnia 5 kwietnia 2011 r. sy… |  |
+| WDU20110810450 | Wyrok Trybunału Konstytucyjnego z dnia 5 kwietnia 2011 r. sy… |  |
 | WDU20110850463 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110850466 | Rozporządzenie Ministra Zdrowia z dnia 31 marca 2011 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110860471 | Rozporządzenie Prezesa Rady Ministrów z dnia 11 kwietnia 201… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110860477 | Rozporządzenie Ministra Środowiska z dnia 5 kwietnia 2011 r.… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20110860480 | Wyrok Trybunału Konstytucyjnego z dnia 7 kwietnia 2011 r. sy… |  |
 | WDU20110870485 | Rozporządzenie Ministra Finansów z dnia 20 kwietnia 2011 r. … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110870488 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110870491 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20110870492 | Wyrok Trybunału Konstytucyjnego z dnia 12 kwietnia 2011 r. s… |  |
+| WDU20110870493 | Wyrok Trybunału Konstytucyjnego z dnia 12 kwietnia 2011 r. s… |  |
+| WDU20110870494 | Wyrok Trybunału Konstytucyjnego z dnia 13 kwietnia 2011 r. s… |  |
 | WDU20110880500 | Rozporządzenie Ministra Zdrowia z dnia 14 kwietnia 2011 r. w… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110880504 | Rozporządzenie Ministra Zdrowia, Ministra Rolnictwa i Rozwoj… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110890506 | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5291,6 +5366,8 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20110890510 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110890512 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 kw… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110890513 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20110890514 | Wyrok Trybunału Konstytucyjnego z dnia 19 kwietnia 2011 r. s… |  |
+| WDU20110890515 | Wyrok Trybunału Konstytucyjnego z dnia 19 kwietnia 2011 r. s… |  |
 | WDU20110910525 | Rozporządzenie Ministra Zdrowia z dnia 22 kwietnia 2011 r. z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110910526 | Rozporządzenie Ministra Zdrowia z dnia 22 kwietnia 2011 r. z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110930539 | Rozporządzenie Rady Ministrów z dnia 15 kwietnia 2011 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5299,9 +5376,11 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20110940552 | Rozporządzenie Rady Ministrów z dnia 28 kwietnia 2011 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110940553 | Rozporządzenie Rady Ministrów z dnia 29 kwietnia 2011 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110940554 | Rozporządzenie Ministra Finansów z dnia 26 kwietnia 2011 r. … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20110990569 | Ustawa z dnia 4 marca 2011 r. o zmianie ustawy - Prawo ochro… |  |
 | WDU20110990570 | Rozporządzenie Rady Ministrów z dnia 13 maja 2011 r. zmienia… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110990571 | Rozporządzenie Ministra Infrastruktury z dnia 21 kwietnia 20… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20110990577 | Rozporządzenie Ministra Sprawiedliwości z dnia 4 maja 2011 r… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20110990581 | Wyrok Trybunału Konstytucyjnego z dnia 5 maja 2011 r. sygn. … |  |
 | WDU20111030595 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 kw… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111030596 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 maj… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111030603 | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 2… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5313,10 +5392,12 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20111050616 | Rozporządzenie Ministra Kultury i Dziedzictwa narodowego z d… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111050618 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 maj… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111050619 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 6 maj… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20111050621 | Wyrok Trybunału Konstytucyjnego z dnia 11 maja 2011 r. sygn.… |  |
 | WDU20111070623 | Poprawka do Umowy o Międzynarodowym Funduszu Walutowym dotyc… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111090628 | Rozporządzenie Rady Ministrów z dnia 25 maja 2011 r. w spraw… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111090629 | Rozporządzenie Rady Ministrów z dnia 25 maja 2011 r. w spraw… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111090638 | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 2… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20111090640 | Wyrok Trybunału Konstytucyjnego z dnia 12 maja 2011 r. sygn.… |  |
 | WDU20111100642 | Rozporządzenie Rady Ministrów z dnia 13 maja 2011 r. zmienia… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111100644 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111100648 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 ma… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5324,6 +5405,8 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20111130661 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111140665 | Rozporządzenie Ministra Zdrowia z dnia 1 czerwca 2011 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111150672 | Rozporządzenie Ministra Zdrowia z dnia 17 maja 2011 r. w spr… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20111150673 | Wyrok Trybunału Konstytucyjnego z dnia 19 maja 2011 r. sygn.… |  |
+| WDU20111150674 | Wyrok Trybunału Konstytucyjnego z dnia 19 maja 2011 r. sygn.… |  |
 | WDU20111170684 | Rozporządzenie Ministra Infrastruktury z dnia 25 maja 2011 r… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111170685 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 2… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111210693 | Rozporządzenie Ministra Sprawiedliwości z dnia 9 czerwca 201… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5336,6 +5419,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20111280723 | Rozporządzenie Ministra Obrony Narodowej z dnia 31 maja 2011… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111280728 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111280730 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20111290734 | Ustawa z dnia 15 kwietnia 2011 r. zmieniająca ustawę o zmian… |  |
 | WDU20111290736 | Rozporządzenie Rady Ministrów z dnia 1 czerwca 2011 r. w spr… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111290737 | Rozporządzenie Rady Ministrów z dnia 2 czerwca 2011 r. zmien… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111290740 | Rozporządzenie Ministra Obrony Narodowej z dnia 14 czerwca 2… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5353,6 +5437,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20111300759 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111300760 | Rozporządzenie Ministra Zdrowia z dnia 9 czerwca 2011 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111300761 | Rozporządzenie Ministra Zdrowia z dnia 9 czerwca 2011 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20111330768 | Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy o dowodach … |  |
 | WDU20111330769 | Rozporządzenie Ministra Gospodarki z dnia 13 czerwca 2011 r.… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111330772 | Rozporządzenie Ministra Infrastruktury z dnia 22 czerwca 201… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111330774 | Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 1… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5411,7 +5496,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20111681008 | Rozporządzenie Ministra Finansów z dnia 1 sierpnia 2011 r. z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111681010 | Rozporządzenie Ministra Obrony Narodowej z dnia 22 lipca 201… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111681013 | Rozporządzenie Ministra Sprawiedliwości z dnia 20 lipca 2011… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU20111701015 | Ustawa z dnia 30 czerwca 2011 r. o zmianie ustawy - Prawo lo… | source article inventory failed: eli-html=20 AST=14 missing_… |
+| WDU20111701015 | Ustawa z dnia 30 czerwca 2011 r. o zmianie ustawy - Prawo lo… |  |
 | WDU20111711017 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111721018 | Konwencja UNESCO w sprawie ochrony niematerialnego dziedzict… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111721020 | Porozumienie w sprawie Środkowoeuropejskiego Programu wymian… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5430,6 +5515,8 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20111751047 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111751048 | Rozporządzenie Ministra Środowiska z dnia 15 lipca 2011 r. w… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111761050 | Rozporządzenie Ministra Edukacji Narodowej z dnia 24 sierpni… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20111781059 | Ustawa z dnia 1 lipca 2011 r. o zmianie ustawy o podatku doc… |  |
+| WDU20111781061 | Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy - Przepisy w… |  |
 | WDU20111791064 | Rozporządzenie Ministra Infrastruktury z dnia 26 sierpnia 20… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111801071 | Protokół zmieniający Konwencję o wzajemnej pomocy administra… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111801074 | Protokół w sprawie strategicznej oceny oddziaływania na środ… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5441,6 +5528,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20111821083 | Rozporządzenie Rady Ministrów z dnia 30 sierpnia 2011 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111831087 | Rozporządzenie Rady Ministrów z dnia 30 sierpnia 2011 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111841090 | Rozporządzenie Ministra Sprawiedliwości z dnia 29 sierpnia 2… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20111861101 | Ustawa z dnia 15 lipca 2011 r. o zmianie ustawy o udzielaniu… |  |
 | WDU20111861102 | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 4… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111861103 | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 4… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111861104 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 si… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5449,19 +5537,22 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20111871120 | Rozporządzenie Ministra Sprawiedliwości z dnia 1 września 20… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111901129 | Memorandum o Porozumieniu między Organizacją Narodów Zjednoc… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111901131 | Memorandum o Porozumieniu między Organizacją Narodów Zjednoc… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20111911135 | Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy - Kodeks kar… |  |
 | WDU20111911138 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 wrz… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111931144 | Rozporządzenie Ministra Finansów z dnia 12 września 2011 r. … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111931146 | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 6… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111951158 | Rozporządzenie Prezesa Rady Ministrów z dnia 15 września 201… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20111961161 | Rozporządzenie Rady Ministrów z dnia 22 czerwca 2011 r. w sp… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU20111971170 | Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o ochroni… | rendered round-trip failed: AST=5 rendered=5 empty_articles=… |
+| WDU20111971170 | Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o ochroni… | rendered round-trip failed: AST=5 rendered=10 empty_articles |
 | WDU20112001176 | Poprawki wraz z załącznikami I i II, zmienionymi w Helsinkac… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20112011180 | Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy o niektór… |  |
 | WDU20112011190 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112031192 | Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy - Prawo o… | rendered round-trip failed: AST=37 rendered=51 missing_rende |
 | WDU20112041196 | Rozporządzenie Rady Ministrów z dnia 13 września 2011 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112041197 | Rozporządzenie Rady Ministrów z dnia 13 września 2011 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112041198 | Rozporządzenie Rady Ministrów z dnia 13 września 2011 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112041199 | Rozporządzenie Rady Ministrów z dnia 26 września 2011 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20112051202 | Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o wspieraniu… |  |
 | WDU20112051213 | Rozporządzenie Rady Ministrów z dnia 20 września 2011 r. zmi… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112061214 | Rozporządzenie Rady Ministrów z dnia 6 września 2011 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112061215 | Rozporządzenie Rady Ministrów z dnia 6 września 2011 r. zmie… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5495,6 +5586,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20112201310 | Rozporządzenie Ministra Zdrowia z dnia 29 września 2011 r. w… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112201311 | Rozporządzenie Ministra Zdrowia z dnia 29 września 2011 r. w… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112211312 | Rozporządzenie Rady Ministrów z dnia 5 października 2011 r. … | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20112221320 | Ustawa z dnia 18 sierpnia 2011 r. o zmianie ustawy o Rzeczni… |  |
 | WDU20112221327 | Rozporządzenie Rady Ministrów z dnia 28 września 2011 r. w s… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112221328 | Rozporządzenie Rady Ministrów z dnia 3 października 2011 r. … | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112231332 | Rozporządzenie Ministra Infrastruktury z dnia 19 września 20… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5517,11 +5609,13 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20112371418 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112391427 | Rozporządzenie Ministra Finansów z dnia 25 października 2011… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112391428 | Rozporządzenie Ministra Finansów z dnia 25 października 2011… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20112401431 | Ustawa z dnia 16 września 2011 r. o zmianie ustawy - Kodeks … |  |
 | WDU20112401434 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112401437 | Wyrok Trybunału Konstytucyjnego z dnia 18 października 2011 … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20112431449 | Rozporządzenie Ministra Sportu i Turystyki z dnia 18 paździe… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112431451 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112431452 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
+| WDU20112441454 | Ustawa z dnia 16 września 2011 r. o zmianie ustawy o transpo… |  |
 | WDU20112451461 | Rozporządzenie Ministra Rozwoju Regionalnego z dnia 26 paźdz… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112451462 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112461465 | Rozporządzenie Rady Ministrów z dnia 10 października 2011 r.… | scan only or no digital PDF; types=['I', 'O'] |
@@ -5615,73 +5709,53 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20112991772 | Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 22… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112991776 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 21 grudnia… | scan only or no digital PDF; types=['I', 'O'] |
 | WDU20112991777 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 22 grudnia… | scan only or no digital PDF; types=['I', 'O'] |
-| WDU20120000066 | Rozporządzenie Ministra Sprawiedliwości z dnia 3 stycznia 20… | excessive repetition — '.................................... |
-| WDU20120000070 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — '.................................... |
 | WDU20120000077 | Wyrok Trybunału Konstytucyjnego z dnia 10 stycznia 2012 r. s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20120000184 | Rozporządzenie Ministra Edukacji Narodowej z dnia 7 lutego 2… | excessive repetition — '1) efekty kształcenia wspólne dla ws |
-| WDU20120000185 | Rozporządzenie Ministra Finansów z dnia 9 lutego 2012 r. w s… | CID font encoding failure — unreadable glyphs (2 occurrence( |
 | WDU20120000200 | Rozporządzenie Rady Ministrów z dnia 20 stycznia 2012 r. w s… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20120000288 | Rozporządzenie Ministra Sprawiedliwości z dnia 24 lutego 201… | excessive repetition — '.................................... |
 | WDU20120000394 | Rozporządzenie Rady Ministrów z dnia 26 marca 2012 r. w spra… | excessive repetition — '.................................... |
-| WDU20120000450 | Rozporządzenie Ministra Sprawiedliwości z dnia 5 kwietnia 20… | character-spaced text — 4 line(s) with >30% single-letter wo |
-| WDU20120000482 | Rozporządzenie Ministra Pracy I Polityki Społecznej z dnia 2… | excessive repetition — '.................................... |
-| WDU20120000496 | Rozporządzenie Prezesa Rady Ministrów z dnia 27 kwietnia 201… | excessive repetition — '.................................... |
-| WDU20120000571 | Rozporządzenie Prezesa Rady Ministrów z dnia 8 maja 2012 r. … | excessive repetition — '.................................... |
 | WDU20120000638 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 4 czerwca … | character-spaced text — 4 line(s) with >30% single-letter wo |
 | WDU20120000663 | Rozporządzenie Ministra Zdrowia z dnia 24 maja 2012 r. zmien… | excessive repetition — '.................................... |
 | WDU20120000837 | Wyrok Trybunału Konstytucyjnego z dnia 11 lipca 2012 r. sygn… | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20120000916 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 3 sierpnia… | excessive repetition — '.................................... |
-| WDU20120000925 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 7 sierpnia… | character-spaced text — 1 line(s) with >30% single-letter wo… |
-| WDU20120000943 | Rozporządzenie Ministra Obrony Narodowej z dnia 3 sierpnia 2… | excessive repetition — '.................................... |
-| WDU20130000035 | Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku o… | source article inventory failed: eli-html=15 AST=14 missing_… |
 | WDU20130000057 | Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130000200 | Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 13… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20130000337 | Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki… | excessive repetition — '. .................................. |
 | WDU20130000361 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 ma… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20130000809 | Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki… | character-spaced text — 2 line(s) with >30% single-letter wo |
+| WDU20130000809 | Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20130000829 | Ustawa z dnia 13 czerwca 2013 r. o zmianie ustaw regulującyc… | rendered round-trip failed: AST=59 rendered=67 missing_rende |
-| WDU20130000924 | Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 30… | excessive repetition — '.................................... |
 | WDU20130001246 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 23 paździe… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20130001413 | Rozporządzenie Ministra Zdrowia z dnia 6 listopada 2013 r. w… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20130001576 | Rozporządzenie Ministra Spraw Zagranicznych z dnia 2 grudnia… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20130001619 | Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 26… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20130001466 | Rozporządzenie Ministra Administracji i Cyfryzacji z dnia 25… | rendered round-trip failed: AST=3 rendered=3 empty_articles= |
 | WDU20140000324 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 ma… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20140000503 | Obwieszczenie Prezesa Rady Ministrów z dnia 28 lutego 2014 r… | excessive repetition — '.................................... |
 | WDU20140000588 | Rozporządzenie Ministra Gospodarki z dnia 30 kwietnia 2014 r… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140000606 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 11 k… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20140000768 | Ustawa z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonyw… | source article inventory failed: eli-html=0 AST=41 dup_ast=2… |
+| WDU20140000768 | Ustawa z dnia 9 maja 2014 r. o ułatwieniu dostępu do wykonyw… | rendered round-trip failed: AST=41 rendered=41 dup_rendered=… |
 | WDU20140000897 | Ustawa z dnia 5 czerwca 2014 r. o zmianie ustawy - Prawo geo… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140001127 | Rozporządzenie Ministra Finansów z dnia 8 sierpnia 2014 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20140001245 | Rozporządzenie Ministra Zdrowia z dnia 11 września 2014 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140001381 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… |  |
 | WDU20140001593 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 11 w… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20140001597 | Rozporządzenie Ministra Finansów z dnia 4 listopada 2014 r. … | CID font encoding failure — unreadable glyphs (4 occurrence( |
-| WDU20140001667 | Rozporządzenie Ministra Sprawiedliwości z dnia 17 listopada … | character-spaced text — 1 line(s) with >30% single-letter wo… |
+| WDU20140001667 | Rozporządzenie Ministra Sprawiedliwości z dnia 17 listopada … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140001673 | Rozporządzenie Ministra Finansów z dnia 27 listopada 2014 r.… | CID font encoding failure — unreadable glyphs (2 occurrence( |
 | WDU20140001675 | Rozporządzenie Ministra Gospodarki z dnia 27 listopada 2014 … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20140001795 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 li… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20140001836 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 28 l… | character-spaced text — 4 line(s) with >30% single-letter wo |
+| WDU20140001961 | Rozporządzenie Ministra Spraw Wewnętrznych z dnia 24 grudnia… | rendered round-trip failed: AST=3 rendered=1 missing_rendere |
 | WDU20150000048 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 9 gr… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20150000148 | Obwieszczenie Ministra Infrastruktury i Rozwoju z dnia 15 gr… | character-spaced text — 11 line(s) with >30% single-letter w |
+| WDU20150000175 | Rozporządzenie Ministra Finansów z dnia 27 stycznia 2015 r. … | rendered round-trip failed: AST=2 rendered=2 word_loss=1 mis |
 | WDU20150000357 | Ustawa z dnia 20 lutego 2015 r. o zmianie ustawy o systemie … | rendered round-trip failed: AST=66 rendered=66 empty_article |
 | WDU20150000561 | Rozporządzenie Prezesa Rady Ministrów z dnia 18 marca 2015 r… | character-spaced text — 28 line(s) with >30% single-letter w… |
 | WDU20150000749 | Rozporządzenie Ministra Obrony Narodowej z dnia 8 maja 2015 … | excessive repetition — '.................................... |
 | WDU20150000796 | Rozporządzenie Ministra Środowiska z dnia 11 maja 2015 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20150000903 | Rozporządzenie Ministra Środowiska z dnia 9 czerwca 2015 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20150001077 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 13 l… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20150001170 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 li… | excessive repetition — '5) zużycie materiałów i energia' app |
+| WDU20150000857 | Rozporządzenie Ministra Sprawiedliwości z dnia 12 czerwca 20… | rendered round-trip failed: AST=12 rendered=12 low_sim=1 mis |
+| WDU20150001045 | Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o samorząd… |  |
 | WDU20150001209 | Rozporządzenie Ministra Sprawiedliwości z dnia 19 sierpnia 2… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20150001314 | Rozporządzenie Ministra Infrastruktury i Rozwoju z dnia 3 li… | excessive repetition — 'a) dla kierujących wszystkimi pojazd |
 | WDU20150001333 | Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy o rachunkowo… | rendered round-trip failed: AST=7 rendered=7 missing_child_m… |
-| WDU20150001783 | Rozporządzenie Ministra Sprawiedliwości z dnia 20 październi… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20150001505 | Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustaw regulującyc… |  |
 | WDU20160000035 | Ustawa z dnia 29 grudnia 2015 r. o zmianie ustawy o systemie… | rendered round-trip failed: AST=19 rendered=19 empty_article |
-| WDU20160000357 | Obwieszczenie Ministra Zdrowia z dnia 25 stycznia 2016 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20160000369 | Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia … | excessive repetition — '.................................... |
 | WDU20160000423 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | CID font encoding failure — unreadable glyphs (4 occurrence( |
 | WDU20160000424 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20160000677 | Ustawa z dnia 18 marca 2016 r. o zmianie ustawy o Rzeczniku … |  |
 | WDU20160000696 | Obwieszczenie Ministra Rozwoju z dnia 19 kwietnia 2016 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160000763 | Obwieszczenie Prezesa Rady Ministrów z dnia 17 maja 2016 r. … | character-spaced text — 1 line(s) with >30% single-letter wo… |
-| WDU20160000802 | Rozporządzenie Ministra Rozwoju z dnia 2 czerwca 2016 r. w s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160000840 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160000923 | Rozporządzenie Ministra Zdrowia z dnia 20 czerwca 2016 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160001328 | Rozporządzenie Prezesa Rady Ministrów z dnia 23 sierpnia 201… | character-spaced text — 2 line(s) with >30% single-letter wo |
@@ -5690,55 +5764,46 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20160001722 | Rozporządzenie Prezesa Rady Ministrów z dnia 30 września 201… | character-spaced text — 7 line(s) with >30% single-letter wo… |
 | WDU20160001792 | Rozporządzenie Ministra Zdrowia z dnia 25 października 2016 … | excessive repetition — '……………………………………………………………………………....... |
 | WDU20160001948 | Ustawa z dnia 16 listopada 2016 r. - Przepisy wprowadzające … | rendered round-trip failed: AST=266 rendered=266 dup_rendere… |
-| WDU20160002074 | Ustawa z dnia 13 grudnia 2016 r. - Przepisy wprowadzające us… | source article inventory failed: eli-html=0 AST=27 dup_ast=4… |
+| WDU20160002074 | Ustawa z dnia 13 grudnia 2016 r. - Przepisy wprowadzające us… | rendered round-trip failed: AST=27 rendered=27 dup_rendered=… |
 | WDU20160002158 | Rozporządzenie Ministra Środowiska z dnia 15 grudnia 2016 r.… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160002197 | Wyrok Trybunału Konstytucyjnego z dnia 11 października 2016 … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160002225 | Rozporządzenie Prezesa Rady Ministrów z dnia 28 grudnia 2016… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20160002248 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — 'CELE KSZTAŁCENIA – WYMAGANIA SZCZEGÓ |
 | WDU20160002260 | Ustawa z dnia 16 grudnia 2016 r. - Przepisy wprowadzające us… | rendered round-trip failed: AST=138 rendered=138 dup_rendere… |
-| WDU20170000089 | Rozporządzenie Ministra Edukacji Narodowej z dnia 10 styczni… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20170000093 | Rozporządzenie Ministra Sprawiedliwości z dnia 11 stycznia 2… | excessive repetition — '.................................... |
-| WDU20170000462 | Rozporządzenie Ministra Sprawiedliwości z dnia 24 lutego 201… | excessive repetition — '.................................... |
 | WDU20170000624 | Ustawa z dnia 10 lutego 2017 r. - Przepisy wprowadzające ust… | rendered round-trip failed: AST=66 rendered=62 missing_rende |
-| WDU20170000721 | Rozporządzenie Ministra Rozwoju i Finansów z dnia 16 marca 2… | excessive repetition — '……………………………………………………………………………………………… |
-| WDU20170000852 | Rozporządzenie Ministra Zdrowia z dnia 24 kwietnia 2017 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20170001118 | Rozporządzenie Ministra Energii z dnia 23 listopada 2016 r. … | character-spaced text — 7 line(s) with >30% single-letter wo… |
-| WDU20170001155 | Rozporządzenie Ministra Edukacji Narodowej z dnia 18 maja 20… | character-spaced text — 106 line(s) with >30% single-letter  |
+| WDU20170000963 | Obwieszczenie Ministra Sprawiedliwości z dnia 20 kwietnia 20… | rendered round-trip failed: AST=11 rendered=12 extra_rendere |
+| WDU20170001118 | Rozporządzenie Ministra Energii z dnia 23 listopada 2016 r. … | character-spaced text — 7 line(s) with >30% single-letter wo |
+| WDU20170001155 | Rozporządzenie Ministra Edukacji Narodowej z dnia 18 maja 20… | character-spaced text — 59 line(s) with >30% single-letter w |
 | WDU20170001162 | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 1… | excessive repetition — '.................................... |
 | WDU20170001302 | Rozporządzenie Prezesa Rady Ministrów z dnia 28 czerwca 2017… | excessive repetition — '……………………………………………………………………………………………… |
 | WDU20170001548 | Rozporządzenie Ministra Rozwoju i Finansów z dnia 9 sierpnia… | excessive repetition — 'Objaśnienia i informacje dodatkowe d |
 | WDU20170001695 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — '.................................... |
 | WDU20170001716 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 si… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20170001783 | Rozporządzenie Ministra Zdrowia z dnia 22 września 2017 r. w… | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20170001803 | Rozporządzenie Ministra Rozwoju i Finansów z dnia 21 wrześni… | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20170001806 | Rozporządzenie Ministra Rozwoju i Finansów z dnia 13 wrześni… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20170001962 | Obwieszczenie Ministra Spraw Zagranicznych z dnia 29 wrześni… | PostScript CE garbled diacritics — unrepaired encoding (1 oc |
 | WDU20170002015 | Obwieszczenie Prezesa Rady Ministrów z dnia 9 października 2… | excessive repetition — '………………………………………………………………………………………………… |
 | WDU20170002019 | Obwieszczenie Prezesa Rady Ministrów z dnia 9 października 2… | excessive repetition — '....................................… |
 | WDU20170002020 | Obwieszczenie Prezesa Rady Ministrów z dnia 9 października 2… | excessive repetition — '....................................… |
-| WDU20170002041 | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20170002364 | Rozporządzenie Ministra Zdrowia z dnia 5 grudnia 2017 r. zmi… | character-spaced text — 8 line(s) with >30% single-letter wo… |
+| WDU20170002364 | Rozporządzenie Ministra Zdrowia z dnia 5 grudnia 2017 r. zmi… | character-spaced text — 9 line(s) with >30% single-letter wo… |
 | WDU20170002443 | Rozporządzenie Ministra Środowiska z dnia 20 grudnia 2017 r.… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20170002469 | Rozporządzenie Rady Ministrów z dnia 11 grudnia 2017 r. w sp… | excessive repetition — 'Korzyści z wdrożenia działania – ana |
 | WDU20180000221 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… |  |
+| WDU20180000268 | Rozporządzenie Ministra Finansów z dnia 19 stycznia 2018 r. … | rendered round-trip failed: AST=34 rendered=34 missing_rende |
 | WDU20180000275 | Rozporządzenie Ministra Zdrowia z dnia 18 stycznia 2018 r. w… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180000331 | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20180000371 | Rozporządzenie Ministra Sprawiedliwości z dnia 5 lutego 2018… | excessive repetition — '.................................... |
-| WDU20180000385 | Rozporządzenie Ministra Zdrowia z dnia 8 lutego 2018 r. zmie… | excessive repetition — '1.4. Pielęgniarki – warunki i liczba |
 | WDU20180000467 | Rozporządzenie Ministra Edukacji Narodowej z dnia 30 styczni… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180000546 | Rozporządzenie Ministra Sprawiedliwości z dnia 9 marca 2018 … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20180000605 | Obwieszczenie Ministra Zdrowia z dnia 27 lutego 2018 r. w sp… | excessive repetition — '.................................... |
 | WDU20180000640 | Rozporządzenie Ministra Energii z dnia 15 marca 2018 r. w sp… | CID font encoding failure — unreadable glyphs (3 occurrence( |
 | WDU20180000650 | Ustawa z dnia 6 marca 2018 r. - Przepisy wprowadzające ustaw… | rendered round-trip failed: AST=298 rendered=298 dup_rendere… |
 | WDU20180000730 | Ustawa z dnia 26 stycznia 2018 r. - Przepisy wprowadzające u… | rendered round-trip failed: AST=52 rendered=52 dup_rendered=… |
-| WDU20180000888 | Rozporządzenie Ministra Obrony Narodowej z dnia 28 marca 201… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180000898 | Rozporządzenie Ministra Sprawiedliwości z dnia 30 kwietnia 2… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20180001199 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | rendered round-trip failed: AST=6 rendered=1 missing_rendere |
+| WDU20180001203 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | rendered round-trip failed: AST=4 rendered=1 missing_rendere |
+| WDU20180001204 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | rendered round-trip failed: AST=4 rendered=1 missing_rendere |
 | WDU20180001237 | Wyrok Trybunału Konstytucyjnego z dnia 20 czerwca 2018 r. sy… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180001286 | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20180001544 | Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o usługach za… | rendered round-trip failed: AST=68 rendered=119 empty_articl |
 | WDU20180001591 | Rozporządzenie Ministra Zdrowia z dnia 17 sierpnia 2018 r. w… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20180001631 | Rozporządzenie Ministra Sprawiedliwości z dnia 1 sierpnia 20… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20180001656 | Rozporządzenie Ministrów Infrastruktury oraz Spraw Wewnętrzn… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180001669 | Ustawa z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustaw… | rendered round-trip failed: AST=363 rendered=363 dup_rendere… |
 | WDU20180001679 | Rozporządzenie Ministra Edukacji Narodowej z dnia 26 lipca 2… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180001693 | Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o partnerstwi… | rendered round-trip failed: AST=1786 rendered=1786 dup_rende… |
@@ -5747,25 +5812,23 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20180001856 | Rozporządzenie Ministra Finansów z dnia 27 września 2018 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180002058 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180002180 | Rozporządzenie Rady Ministrów z dnia 31 października 2018 r.… | excessive repetition — '3. zasięg geograficzny obszaru, któr |
+| WDU20180002217 | Rozporządzenie Ministra Finansów z dnia 13 listopada 2018 r.… | rendered round-trip failed: AST=2 rendered=2 low_sim=1 missi |
 | WDU20180002296 | Rozporządzenie Ministra Sprawiedliwości z dnia 23 listopada … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180002307 | Rozporządzenie Ministra Sprawiedliwości z dnia 30 listopada … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20180002314 | Wyrok Trybunału Konstytucyjnego z dnia 4 grudnia 2018 r. syg… |  |
-| WDU20180002367 | Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 2018 r. sy… |  |
-| WDU20180002388 | Wyrok Trybunału Konstytucyjnego z dnia 13 grudnia 2018 r. sy… |  |
 | WDU20180002412 | Rozporządzenie Ministra Środowiska z dnia 17 grudnia 2018 r.… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20180002481 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | CID font encoding failure — unreadable glyphs (3 occurrence( |
 | WDU20190000121 | Obwieszczenie Prezesa Rady Ministrów z dnia 13 grudnia 2018 … | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20190000163 | Rozporządzenie Ministra Infrastruktury z dnia 20 grudnia 201… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20190000184 | Rozporządzenie Prezesa Rady Ministrów z dnia 22 stycznia 201… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20190000235 | Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy - Prawo lo… | source article inventory failed: eli-html=19 AST=18 missing_… |
 | WDU20190000279 | Rozporządzenie Prezesa Rady Ministrów z dnia 29 stycznia 201… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20190000500 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20190000552 | Obwieszczenie Prezesa Rady Ministrów z dnia 7 marca 2019 r. … |  |
 | WDU20190000554 | Rozporządzenie Ministra Edukacji Narodowej z dnia 21 marca 2… | CID font encoding failure — unreadable glyphs (2 occurrence( |
+| WDU20190000693 | Ustawa z dnia 15 marca 2019 r. o zmianie ustawy o kołach gos… |  |
+| WDU20190000730 | Ustawa z dnia 21 lutego 2019 r. o zmianie niektórych ustaw w… |  |
+| WDU20190000735 | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlą… | rendered round-trip failed: AST=7 rendered=7 low_sim=1 missi |
 | WDU20190000776 | Rozporządzenie Ministra Środowiska z dnia 16 kwietnia 2019 r… | excessive repetition — '.................................... |
-| WDU20190000846 | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlą… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20190000851 | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlą… | excessive repetition — '.................................... |
-| WDU20190000991 | Rozporządzenie Ministra Edukacji Narodowej z dnia 16 maja 20… | excessive repetition — '5) powiadamia odpowiednie służby' ap |
 | WDU20190001104 | Rozporządzenie Ministra Finansów z dnia 30 maja 2019 r. w sp… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20190001105 | Rozporządzenie Ministra Finansów z dnia 30 maja 2019 r. w sp… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20190001112 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 cze… | character-spaced text — 1 line(s) with >30% single-letter wo |
@@ -5774,71 +5837,48 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20190001361 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20190001371 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… |  |
 | WDU20190001406 | Rozporządzenie Rady Ministrów z dnia 26 lipca 2019 r. w spra… | CID font encoding failure — unreadable glyphs (2 occurrence( |
-| WDU20190001478 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 li… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20190001578 | Rozporządzenie Ministra Finansów z dnia 21 sierpnia 2019 r. … | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20190001601 | Rozporządzenie Ministra Obrony Narodowej z dnia 6 sierpnia 2… | excessive repetition — '.................................... |
 | WDU20190001637 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — 'CELE KSZTAŁCENIA - WYMAGANIA SZCZEGÓ |
-| WDU20190001645 | Rozporządzenie Ministra Środowiska z dnia 8 sierpnia 2019 r.… | excessive repetition — '.................................... |
 | WDU20190001735 | Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 1… | excessive repetition — '.................................... |
 | WDU20190001745 | Rozporządzenie Ministra Zdrowia z dnia 21 sierpnia 2019 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20190001747 | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlą… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20190001751 | Ustawa z dnia 9 sierpnia 2019 r. o zmianie ustawy o podatku … | source article inventory failed: eli-html=18 AST=17 missing_… |
 | WDU20190001764 | Rozporządzenie Ministra Energii z dnia 6 września 2019 r. w … | CID font encoding failure — unreadable glyphs (4 occurrence( |
-| WDU20190001886 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20190002020 | Ustawa z dnia 11 września 2019 r. - Przepisy wprowadzające u… | rendered round-trip failed: AST=110 rendered=110 dup_rendere… |
-| WDU20190002210 | Rozporządzenie Rady Ministrów z dnia 2 października 2019 r. … | excessive repetition — '.................................... |
-| WDU20190002283 | Rozporządzenie Ministra Środowiska z dnia 14 listopada 2019 … | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20190002283 | Rozporządzenie Ministra Środowiska z dnia 14 listopada 2019 … | character-spaced text — 1 line(s) with >30% single-letter wo… |
 | WDU20190002349 | Rozporządzenie Ministra Sprawiedliwości z dnia 28 listopada … | excessive repetition — 'Dopuszczalne jest w razie potrzeby p |
 | WDU20190002430 | Rozporządzenie Ministra Zdrowia z dnia 10 grudnia 2019 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20190002560 | Rozporządzenie Ministra Infrastruktury z dnia 24 grudnia 201… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20200000049 | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 grud… | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20200000063 | Rozporządzenie Rady Ministrów z dnia 18 grudnia 2019 r. w sp… | excessive repetition — '.................................... |
-| WDU20200000127 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | source article inventory failed: eli-html=0 AST=32 dup_ast=1… |
-| WDU20200000189 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | excessive repetition — '.................................... |
+| WDU20200000127 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=32 rendered=32 dup_rendered=… |
 | WDU20200000202 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 st… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20200000227 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=20 rendered=13 missing_rende |
-| WDU20200000229 | Obwieszczenie Ministra Finansów z dnia 10 stycznia 2020 r. w… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20200000233 | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej … | character-spaced text — 4 line(s) with >30% single-letter wo… |
+| WDU20200000288 | Ustawa z dnia 13 lutego 2020 r. o zmianie ustawy - Kodeks po… |  |
 | WDU20200000348 | Rozporządzenie Ministra Aktywów Państwowych z dnia 25 lutego… | character-spaced text — 3 line(s) with >30% single-letter wo |
 | WDU20200000502 | Rozporządzenie Ministra Sprawiedliwości z dnia 18 marca 2020… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20200000560 | Rozporządzenie Rady Ministrów z dnia 27 marca 2020 r. zmieni… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20200000666 | Rozporządzenie Ministra Zdrowia z dnia 6 kwietnia 2020 r. w … | excessive repetition — '………………………………………………………………………………………….. |
-| WDU20200000782 | Ustawa z dnia 16 kwietnia 2020 r. o zmianie ustawy - Prawo g… | source article inventory failed: eli-html=20 AST=19 missing_… |
-| WDU20200000907 | Rozporządzenie Ministra Finansów z dnia 19 maja 2020 r. w sp… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20200000772 | Obwieszczenie Ministra Finansów z dnia 8 kwietnia 2020 r. w … | rendered round-trip failed: AST=3 rendered=3 low_sim=1 missi |
 | WDU20200000931 | Rozporządzenie Ministra Zdrowia z dnia 19 marca 2020 r. w sp… | character-spaced text — 12 line(s) with >30% single-letter w |
 | WDU20200001010 | Obwieszczenie Ministra Infrastruktury z dnia 29 kwietnia 202… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20200001020 | Obwieszczenie Ministra Gospodarki Morskiej i Żeglugi Śródląd… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20200001322 | Rozporządzenie Ministra Rozwoju z dnia 28 lipca 2020 r. w sp… | character-spaced text — 2 line(s) with >30% single-letter wo |
+| WDU20200001322 | Rozporządzenie Ministra Rozwoju z dnia 28 lipca 2020 r. w sp… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20200001605 | Rozporządzenie Ministra Obrony Narodowej z dnia 31 sierpnia … | excessive repetition — '.................................... |
 | WDU20200001825 | Obwieszczenie Prezydenta Rzeczypospolitej Polskiej z dnia 28… | excessive repetition — '....................................… |
-| WDU20200001894 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20200001916 | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia … | excessive repetition — '4 Obowiązek | Warunek Obligatoryjny. |
-| WDU20200001952 | Rozporządzenie Ministra Kultury, Dziedzictwa Narodowego i Sp… | excessive repetition — '.................................... |
 | WDU20200002000 | Rozporządzenie Ministra Finansów z dnia 5 października 2020 … | excessive repetition — 'b) zwiększenia (z tytułu) ...' appea |
 | WDU20200002056 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=75 rendered=56 missing_rende |
-| WDU20200002180 | Obwieszczenie Ministra Klimatu i Środowiska z dnia 17 listop… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20200002255 | Ustawa z dnia 9 grudnia 2020 r. o zmianie ustawy o szczególn… | source article inventory failed: eli-html=1 AST=10 missing_f… |
 | WDU20200002313 | Rozporządzenie Rady Ministrów z dnia 30 listopada 2020 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20200002328 | Rozporządzenie Ministra Infrastruktury z dnia 4 grudnia 2020… | character-spaced text — 18 line(s) with >30% single-letter w |
-| WDU20200002405 | Rozporządzenie Ministra Klimatu i Środowiska z dnia 15 grudn… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20200002448 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | excessive repetition — '.................................... |
-| WDU20210000056 | Obwieszczenie Ministra Kultury, Dziedzictwa Narodowego i Spo… | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20210000412 | Rozporządzenie Ministra Finansów, Funduszy i Polityki Region… | excessive repetition — '……………………………………………………………………………………………… |
-| WDU20210000417 | Rozporządzenie Ministra Zdrowia z dnia 15 lutego 2021 r. zmi… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20210000472 | Wyrok Trybunału Konstytucyjnego z dnia 11 marca 2021 r. sygn… |  |
-| WDU20210000518 | Rozporządzenie Ministra Zdrowia z dnia 11 marca 2021 r. zmie… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20210000841 | Rozporządzenie Ministra Finansów, Funduszy i Polityki Region… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20210000894 | Kompleksowa i wzmocniona umowa o partnerstwie między Unią Eu… | excessive repetition — 'Dla sposobu 2 bez ograniczeń' appear |
+| WDU20210000056 | Obwieszczenie Ministra Kultury, Dziedzictwa Narodowego i Spo… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20210000817 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | rendered round-trip failed: AST=4 rendered=4 low_sim=1 missi |
 | WDU20210001156 | Rozporządzenie Ministra Infrastruktury z dnia 23 czerwca 202… | CID font encoding failure — unreadable glyphs (3 occurrence( |
 | WDU20210001174 | Rozporządzenie Ministra Sprawiedliwości z dnia 24 czerwca 20… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20210001282 | Obwieszczenie Ministra Finansów, Funduszy i Polityki Regiona… |  |
-| WDU20210001293 | Rozporządzenie Ministra Klimatu i Środowiska z dnia 28 maja … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20210001390 | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia … | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20210001475 | Rozporządzenie Ministra Infrastruktury z dnia 25 czerwca 202… | excessive repetition — '1. Stan bardzo dobry oznacza stan, w |
-| WDU20210001719 | Rozporządzenie Ministra Rozwoju, Pracy i Technologii z dnia … | excessive repetition — '.................................... |
 | WDU20210001778 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | excessive repetition — '.................................... |
-| WDU20210001790 | Rozporządzenie Ministra Finansów, Funduszy i Polityki Region… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20210001795 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20210001901 | Ustawa z dnia 14 października 2021 r. o zmianie ustawy o szc… |  |
 | WDU20210001921 | Obwieszczenie Ministra Infrastruktury z dnia 16 września 202… | character-spaced text — 4 line(s) with >30% single-letter wo |
 | WDU20210002024 | Rozporządzenie Ministra Finansów, Funduszy i Polityki Region… |  |
 | WDU20210002026 | Rozporządzenie Ministra Infrastruktury z dnia 22 październik… |  |
@@ -5852,14 +5892,12 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20210002042 | Rozporządzenie Ministra Finansów, Funduszy i Polityki Region… |  |
 | WDU20210002088 | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20210002150 | Obwieszczenie Ministra Infrastruktury z dnia 28 października… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20210002191 | Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o ochron… |  |
 | WDU20210002436 | Rozporządzenie Ministra Finansów z dnia 17 grudnia 2021 r. w… | character-spaced text — 5 line(s) with >30% single-letter wo |
-| WDU20210002458 | Rozporządzenie Ministra Rozwoju i Technologii z dnia 20 grud… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20210002467 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | excessive repetition — '.................................... |
+| WDU20210002471 | Rozporządzenie Rady Ministrów z dnia 20 grudnia 2021 r. w sp… | rendered round-trip failed: AST=12 rendered=12 low_sim=1 mis |
 | WDU20210002476 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | excessive repetition — '.................................... |
 | WDU20210002484 | Rozporządzenie Prezesa Rady Ministrów z dnia 30 grudnia 2021… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20210002506 | Rozporządzenie Rady Ministrów z dnia 20 grudnia 2021 r. zmie… | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20220000223 | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia… | excessive repetition — '.................................... |
-| WDU20220000245 | Rozporządzenie Ministra Zdrowia z dnia 25 stycznia 2022 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20220000256 | Rozporządzenie Ministra Spraw Zagranicznych z dnia 25 styczn… | PostScript CE garbled diacritics — unrepaired encoding (3 oc |
 | WDU20220000284 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… |  |
 | WDU20220000361 | Obwieszczenie Ministra Finansów z dnia 17 grudnia 2021 r. w … |  |
@@ -5867,51 +5905,43 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20220000419 | Rozporządzenie Ministra Zdrowia z dnia 15 lutego 2022 r. zmi… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20220000436 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20220001094 | Rozporządzenie Ministra Obrony Narodowej z dnia 17 maja 2022… | CID font encoding failure — unreadable glyphs (1 occurrence( |
+| WDU20220001119 | Rozporządzenie Ministra Finansów z dnia 23 maja 2022 r. w sp… | rendered round-trip failed: AST=2 rendered=2 low_sim=1 FAIL; |
+| WDU20220001120 | Rozporządzenie Ministra Finansów z dnia 23 maja 2022 r. w sp… | rendered round-trip failed: AST=2 rendered=2 low_sim=1 FAIL; |
 | WDU20220001134 | Rozporządzenie Ministra Finansów z dnia 23 maja 2022 r. w sp… | excessive repetition — '.…………………………………………………………………………………………… |
-| WDU20220001187 | Rozporządzenie Ministra Obrony Narodowej z dnia 24 maja 2022… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20220001238 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | rendered round-trip failed: AST=1 rendered=2 extra_rendered= |
 | WDU20220001269 | Obwieszczenie Ministra Sprawiedliwości z dnia 16 maja 2022 r… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20220001329 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — 'CELE KSZTAŁCENIA – WYMAGANIA SZCZEGÓ |
 | WDU20220001437 | Rozporządzenie Ministra Finansów z dnia 28 czerwca 2022 r. z… | CID font encoding failure — unreadable glyphs (4 occurrence( |
 | WDU20220001456 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20220001559 | Rozporządzenie Ministra Obrony Narodowej z dnia 15 lipca 202… | excessive repetition — '.................................... |
 | WDU20220001778 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20220001846 | Ustawa z dnia 22 lipca 2022 r. o usprawnieniu procesu inwest… | rendered round-trip failed: AST=134 rendered=71 missing_rend |
-| WDU20220001914 | Rozporządzenie Ministra Edukacji i Nauki z dnia 6 września 2… | excessive repetition — '……………………………………………………………………………………………… |
-| WDU20220001999 | Rozporządzenie Ministra Sprawiedliwości z dnia 9 września 20… | excessive repetition — '1) nazwę sądu oraz sygnaturę akt spr |
 | WDU20220002028 | Rozporządzenie Ministra Sprawiedliwości z dnia 15 września 2… | excessive repetition — '.................................... |
 | WDU20220002058 | Rozporządzenie Rady Ministrów z dnia 9 sierpnia 2022 r. w sp… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20220002077 | Rozporządzenie Ministra Sprawiedliwości z dnia 30 września 2… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20220002133 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 2 line(s) with >30% single-letter wo |
+| WDU20220002133 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20220002174 | Obwieszczenie Ministra Zdrowia z dnia 25 sierpnia 2022 r. w … | character-spaced text — 3 line(s) with >30% single-letter wo |
 | WDU20220002246 | Rozporządzenie Ministra Finansów z dnia 26 października 2022… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20220002372 | Rozporządzenie Ministrów Infrastruktury oraz Spraw Wewnętrzn… | rendered round-trip failed: AST=2 rendered=2 missing_child_m |
 | WDU20220002560 | Rozporządzenie Ministra Sprawiedliwości z dnia 5 grudnia 202… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20220002692 | Rozporządzenie Ministra Edukacji i Nauki z dnia 13 grudnia 2… | excessive repetition — '.................................... |
 | WDU20220002701 | Rozporządzenie Ministra Sprawiedliwości z dnia 9 grudnia 202… | excessive repetition — '……………………………………………..…………………………………………… |
 | WDU20220002807 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | excessive repetition — '.................................... |
 | WDU20220002853 | Rozporządzenie Ministra Finansów z dnia 22 grudnia 2022 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230000244 | Rozporządzenie Rady Ministrów z dnia 31 stycznia 2023 r. w s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230000339 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230000425 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | excessive repetition — '1. Dane binarne / nazwa pliku: 2. Ty |
 | WDU20230000427 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 11 line(s) with >30% single-letter w |
 | WDU20230000455 | Rozporządzenie Ministra Infrastruktury z dnia 9 lutego 2023 … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230000540 | Obwieszczenie Ministra Sprawiedliwości z dnia 20 lutego 2023… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230000558 | Rozporządzenie Ministra Rozwoju i Technologii z dnia 17 marc… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230000670 | Rozporządzenie Ministra Finansów z dnia 3 kwietnia 2023 r. z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230000671 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 ma… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230000797 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 kw… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230000862 | Rozporządzenie Rady Ministrów z dnia 13 kwietnia 2023 r. w s… | excessive repetition — '.................................... |
-| WDU20230001009 | Rozporządzenie Ministra Finansów z dnia 10 maja 2023 r. w sp… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230001045 | Obwieszczenie Ministra Zdrowia z dnia 4 maja 2023 r. w spraw… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230001220 | Obwieszczenie Ministra Klimatu i Środowiska z dnia 22 maja 2… | CID font encoding failure — unreadable glyphs (4 occurrence( |
-| WDU20230001293 | Rozporządzenie Ministra Klimatu i Środowiska z dnia 26 czerw… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20230001319 | Rozporządzenie Ministra Klimatu i Środowiska z dnia 23 czerw… | excessive repetition — '.................................... |
-| WDU20230001475 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20230001475 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo… |
 | WDU20230001522 | Rozporządzenie Rady Ministrów z dnia 6 lipca 2023 r. w spraw… | excessive repetition — '.................................... |
 | WDU20230001602 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230001613 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20230001646 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | CID font encoding failure — unreadable glyphs (2 occurrence(… |
 | WDU20230001714 | Rozporządzenie Ministra Spraw Zagranicznych z dnia 4 sierpni… | PostScript CE garbled diacritics — unrepaired encoding (3 oc |
 | WDU20230001754 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — 'Treści nauczania Kryteria weryfikacj |
+| WDU20230001765 | Rozporządzenie Ministra Spraw Zagranicznych z dnia 31 sierpn… | rendered round-trip failed: AST=9 rendered=9 low_sim=1 missi |
 | WDU20230001828 | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia… | CID font encoding failure — unreadable glyphs (2 occurrence(… |
 | WDU20230001832 | Rozporządzenie Ministra Rozwoju i Technologii z dnia 5 wrześ… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20230001911 | Rozporządzenie Krajowej Rady Radiofonii i Telewizji z dnia 1… | CID font encoding failure — unreadable glyphs (4 occurrence( |
@@ -5919,20 +5949,15 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20230002016 | Obwieszczenie Ministra Sprawiedliwości z dnia 21 sierpnia 20… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20230002019 | Rozporządzenie Ministra Rodziny i Polityki Społecznej z dnia… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20230002023 | Rozporządzenie Ministra Infrastruktury z dnia 13 września 20… | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20230002030 | Rozporządzenie Ministra Sprawiedliwości z dnia 27 września 2… | excessive repetition — '.................................... |
 | WDU20230002045 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=77 rendered=65 missing_rende |
-| WDU20230002093 | Rozporządzenie Ministra Obrony Narodowej z dnia 25 września … | excessive repetition — '.................................... |
 | WDU20230002315 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20230002387 | Obwieszczenie Ministra Edukacji i Nauki z dnia 6 październik… | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20230002409 | Rozporządzenie Ministra Rozwoju i Technologii z dnia 24 paźd… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230002467 | Obwieszczenie Ministra Finansów z dnia 9 listopada 2023 r. w… | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20230002471 | Rozporządzenie Rady Ministrów z dnia 26 października 2023 r.… | excessive repetition — 'b) 0,057 zł za 1 m pobranych wód pow |
 | WDU20230002501 | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 7 list… | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20230002614 | Rozporządzenie Ministra Zdrowia z dnia 29 listopada 2023 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230002621 | Rozporządzenie Rady Ministrów z dnia 21 listopada 2023 r. w … | excessive repetition — '2. NUMER 3. OPIS AKWENU POŁOŻENIA' a |
 | WDU20230002672 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230002737 | Obwieszczenie Ministra Edukacji i Nauki z dnia 21 listopada … | character-spaced text — 1 line(s) with >30% single-letter wo… |
-| WDU20230002738 | Obwieszczenie Ministra Edukacji i Nauki z dnia 21 listopada … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20230002758 | Rozporządzenie Ministra Rozwoju i Technologii z dnia 8 grudn… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20230002773 | Rozporządzenie Ministra Finansów z dnia 5 grudnia 2023 r. zm… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20230002817 | Rozporządzenie Ministra Finansów z dnia 22 grudnia 2023 r. w… | CID font encoding failure — unreadable glyphs (2 occurrence( |
@@ -5940,10 +5965,10 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20240000062 | Rozporządzenie Ministra Obrony Narodowej z dnia 11 stycznia … | character-spaced text — 804 line(s) with >30% single-letter  |
 | WDU20240000118 | Rozporządzenie Ministra Finansów z dnia 26 stycznia 2024 r. … | CID font encoding failure — unreadable glyphs (3 occurrence( |
 | WDU20240000136 | Rozporządzenie Ministra Obrony Narodowej z dnia 12 stycznia … | character-spaced text — 4 line(s) with >30% single-letter wo |
+| WDU20240000158 | Obwieszczenie Prezesa Rady Ministrów z dnia 29 stycznia 2024… | rendered round-trip failed: AST=7 rendered=7 empty_articles= |
 | WDU20240000194 | Obwieszczenie Ministra Nauki z dnia 9 lutego 2024 r. w spraw… | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20240000202 | Rozporządzenie Ministra Obrony Narodowej z dnia 6 lutego 202… | CID font encoding failure — unreadable glyphs (3 occurrence( |
 | WDU20240000219 | Obwieszczenie Ministra Rozwoju i Technologii z dnia 29 stycz… | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240000270 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 lu… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20240000314 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … |  |
 | WDU20240000335 | Obwieszczenie Ministra Zdrowia z dnia 20 lutego 2024 r. w sp… | character-spaced text — 3 line(s) with >30% single-letter wo… |
 | WDU20240000351 | Rozporządzenie Ministra Rozwoju i Technologii z dnia 20 lute… | CID font encoding failure — unreadable glyphs (3 occurrence( |
@@ -5952,13 +5977,11 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20240000443 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20240000452 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20240000453 | Obwieszczenie Ministra Nauki z dnia 9 lutego 2024 r. w spraw… | CID font encoding failure — unreadable glyphs (2 occurrence(… |
-| WDU20240000458 | Rozporządzenie Ministra Obrony Narodowej z dnia 25 marca 202… | character-spaced text — 2 line(s) with >30% single-letter wo… |
+| WDU20240000458 | Rozporządzenie Ministra Obrony Narodowej z dnia 25 marca 202… | character-spaced text — 1 line(s) with >30% single-letter wo… |
 | WDU20240000495 | Obwieszczenie Ministra Zdrowia z dnia 21 marca 2024 r. w spr… | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240000515 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 2 line(s) with >30% single-letter wo |
+| WDU20240000515 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20240000569 | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20240000601 | Obwieszczenie Ministra Finansów z dnia 21 marca 2024 r. w sp… | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240000611 | Obwieszczenie Ministra Edukacji z dnia 19 marca 2024 r. w sp… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20240000648 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20240000674 | Rozporządzenie Ministra Zdrowia z dnia 19 kwietnia 2024 r. w… | CID font encoding failure — unreadable glyphs (2 occurrence( |
 | WDU20240000798 | Obwieszczenie Ministra Zdrowia z dnia 16 kwietnia 2024 r. w … | CID font encoding failure — unreadable glyphs (1 occurrence(… |
 | WDU20240000823 | Rozporządzenie Ministra Obrony Narodowej z dnia 22 maja 2024… | CID font encoding failure — unreadable glyphs (4 occurrence( |
@@ -5969,7 +5992,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20240000992 | Rozporządzenie Ministra Przemysłu z dnia 25 czerwca 2024 r. … | CID font encoding failure — unreadable glyphs (2 occurrence(… |
 | WDU20240000996 | Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. z… | CID font encoding failure — unreadable glyphs (4 occurrence( |
 | WDU20240000997 | Rozporządzenie Ministra Infrastruktury z dnia 2 lipca 2024 r… | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20240001014 | Rozporządzenie Rady Ministrów z dnia 31 maja 2024 r. w spraw… | excessive repetition — 'o obszarach morskich Rzeczypospolite |
+| WDU20240001014 | Rozporządzenie Rady Ministrów z dnia 31 maja 2024 r. w spraw… | excessive repetition — '2. NUMER 3. OPIS AKWENU POŁOŻENIA' a |
 | WDU20240001016 | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej … | ELI placeholder original content — ELI HTML contains 'patrz  |
 | WDU20240001019 | Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. z… | CID font encoding failure — unreadable glyphs (2 occurrence( |
 | WDU20240001057 | Obwieszczenie Ministra Obrony Narodowej z dnia 27 czerwca 20… | missing paragraph structure — consolidated rozporządzenie re |
@@ -5979,7 +6002,7 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20240001184 | Rozporządzenie Rady Ministrów z dnia 19 lipca 2024 r. w spra… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20240001249 | Rozporządzenie Ministra Finansów z dnia 29 lipca 2024 r. w s… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20240001256 | Obwieszczenie Ministra Sprawiedliwości z dnia 19 lipca 2024 … | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20240001337 | Rozporządzenie Rady Ministrów z dnia 16 sierpnia 2024 r. w s… | excessive repetition — 'o obszarach morskich Rzeczypospolite |
+| WDU20240001337 | Rozporządzenie Rady Ministrów z dnia 16 sierpnia 2024 r. w s… | excessive repetition — '2. NUMER 3. OPIS AKWENU POŁOŻENIA' a |
 | WDU20240001367 | Obwieszczenie Ministra Finansów z dnia 4 września 2024 r. w … | CID font encoding failure — unreadable glyphs (3 occurrence( |
 | WDU20240001404 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — '.................................... |
 | WDU20240001513 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=34 rendered=21 missing_rende |
@@ -5989,42 +6012,34 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20240001542 | Obwieszczenie Ministra Zdrowia z dnia 25 września 2024 r. w … | excessive repetition — '....................................… |
 | WDU20240001641 | Rozporządzenie Rady Ministrów z dnia 31 października 2024 r.… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20240001696 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=53 rendered=53 dup_rendered=… |
-| WDU20240001717 | Ustawa z dnia 21 listopada 2024 r. o zmianie ustawy o szczeg… | source article inventory failed: eli-html=1 AST=46 missing_f… |
 | WDU20240001736 | Obwieszczenie Ministra Infrastruktury z dnia 7 listopada 202… | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20240001746 | Obwieszczenie Ministra Finansów z dnia 31 października 2024 … | excessive repetition — 'Objaśnienia i informacje dodatkowe d… |
 | WDU20240001749 | Obwieszczenie Ministra Infrastruktury z dnia 13 listopada 20… | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20240001751 | Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej … | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20240001754 | Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy budżetowe… | PDF header artifact — '©Kancelaria Sejmu' leaked into body (… |
 | WDU20240001785 | Obwieszczenie Ministra Klimatu i Środowiska z dnia 7 listopa… | excessive repetition — '.................................... |
-| WDU20240001850 | Rozporządzenie Prezesa Rady Ministrów z dnia 12 grudnia 2024… | excessive repetition — '.................................... |
 | WDU20240001898 | Rozporządzenie Ministra Finansów z dnia 13 grudnia 2024 r. z… | CID font encoding failure — unreadable glyphs (2 occurrence( |
 | WDU20240001954 | Rozporządzenie Ministra Rozwoju i Technologii z dnia 19 grud… | CID font encoding failure — unreadable glyphs (2 occurrence( |
 | WDU20250000026 | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 grud… | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20250000079 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | CID font encoding failure — unreadable glyphs (4 occurrence( |
 | WDU20250000087 | Obwieszczenie Ministra Obrony Narodowej z dnia 13 stycznia 2… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20250000088 | Obwieszczenie Ministra Rozwoju i Technologii z dnia 13 stycz… | excessive repetition — '.................................... |
-| WDU20250000097 | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lis… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20250000100 | Obwieszczenie Ministra Infrastruktury z dnia 8 listopada 202… | omitted-provisions quotation exceeded the segment budget — r… |
 | WDU20250000108 | Obwieszczenie Prezesa Rady Ministrów z dnia 12 grudnia 2024 … | unclosed omitted-provisions quotation for art. unknown |
 | WDU20250000109 | Obwieszczenie Ministra Finansów z dnia 17 stycznia 2025 r. w… | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20250000119 | Rozporządzenie Ministra Infrastruktury z dnia 16 stycznia 20… |  |
 | WDU20250000127 | Rozporządzenie Ministra Obrony Narodowej z dnia 17 stycznia … | CID font encoding failure — unreadable glyphs (1 occurrence( |
-| WDU20250000131 | Rozporządzenie Ministra Finansów z dnia 27 stycznia 2025 r. … |  |
-| WDU20250000134 | Rozporządzenie Rady Ministrów z dnia 17 stycznia 2025 r. w s… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20250000145 | Rozporządzenie Rady Ministrów z dnia 6 grudnia 2024 r. w spr… | CID font encoding failure — unreadable glyphs (1 occurrence(… |
 | WDU20250000156 | Obwieszczenie Ministra Infrastruktury z dnia 28 stycznia 202… | CID font encoding failure — unreadable glyphs (1 occurrence( |
 | WDU20250000161 | Rozporządzenie Ministra Sprawiedliwości z dnia 2 lutego 2025… | character-spaced text — 3 line(s) with >30% single-letter wo |
 | WDU20250000201 | Obwieszczenie Ministra Sprawiedliwości z dnia 17 stycznia 20… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20250000217 | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia … | excessive repetition — '1) nieznajomy, znajomy;' appears 40  |
 | WDU20250000227 | Obwieszczenie Prezesa Rady Ministrów z dnia 19 lutego 2025 r… | unclosed omitted-provisions quotation for art. unknown |
-| WDU20250000231 | Rozporządzenie Ministra Finansów z dnia 21 lutego 2025 r. w … |  |
 | WDU20250000233 | Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z … | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20250000291 | Obwieszczenie Prezesa Rady Ministrów z dnia 7 marca 2025 r. … | unclosed omitted-provisions quotation for art. unknown |
 | WDU20250000306 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 lu… | CID font encoding failure — unreadable glyphs (3 occurrence( |
 | WDU20250000317 | Obwieszczenie Ministra Sprawiedliwości z dnia 19 lutego 2025… | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20250000328 | Obwieszczenie Ministra Zdrowia z dnia 3 lutego 2025 r. w spr… | character-spaced text — 5 line(s) with >30% single-letter wo… |
+| WDU20250000328 | Obwieszczenie Ministra Zdrowia z dnia 3 lutego 2025 r. w spr… | character-spaced text — 3 line(s) with >30% single-letter wo… |
 | WDU20250000336 | Obwieszczenie Ministra Obrony Narodowej z dnia 20 lutego 202… | omitted-provisions quotation swallowed a structural boundary… |
-| WDU20250000378 | Rozporządzenie Ministra Edukacji z dnia 6 marca 2025 r. zmie… | excessive repetition — 'Cele Wymagania szczegółowe 1 2 3 4 5 |
 | WDU20250000391 | Rozporządzenie Ministra Infrastruktury z dnia 5 marca 2025 r… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20250000454 | Obwieszczenie Ministra Finansów z dnia 21 marca 2025 r. w sp… | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20250000459 | Obwieszczenie Ministra Finansów z dnia 21 marca 2025 r. w sp… | missing paragraph structure — consolidated rozporządzenie re |
@@ -6038,30 +6053,20 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20250000741 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | character-spaced text — 2 line(s) with >30% single-letter wo |
 | WDU20250000760 | Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z d… | excessive repetition — '.................................... |
 | WDU20250000798 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=110 rendered=110 dup_rendere… |
-| WDU20250000804 | Rozporządzenie Ministra Infrastruktury z dnia 3 czerwca 2025… |  |
 | WDU20250000940 | Obwieszczenie Ministra Finansów z dnia 25 czerwca 2025 r. w … | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20250000942 | Rozporządzenie Ministra Zdrowia z dnia 11 lipca 2025 r. w sp… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20250000947 | Obwieszczenie Ministra Infrastruktury z dnia 30 czerwca 2025… | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20250000958 | Rozporządzenie Ministra Cyfryzacji z dnia 9 lipca 2025 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20250000961 | Rozporządzenie Ministra Zdrowia z dnia 30 czerwca 2025 r. w … | excessive repetition — 'a) imię (imiona) i nazwisko,' appear |
 | WDU20250001007 | Obwieszczenie Prezesa Rady Ministrów z dnia 24 lipca 2025 r.… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20250001045 | Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia … | PostScript CE garbled diacritics — unrepaired encoding (2 oc |
-| WDU20250001051 | Rozporządzenie Prezesa Rady Ministrów z dnia 25 lipca 2025 r… | excessive repetition — '.................................... |
 | WDU20250001113 | Rozporządzenie Prezesa Rady Ministrów z dnia 5 sierpnia 2025… | excessive repetition — '.................................... |
 | WDU20250001221 | Obwieszczenie Ministra Obrony Narodowej z dnia 21 sierpnia 2… | excessive repetition — '.................................... |
 | WDU20250001276 | Obwieszczenie Ministra Energii z dnia 12 września 2025 r. w … | missing paragraph structure — consolidated rozporządzenie re |
+| WDU20250001477 | Obwieszczenie Ministra Spraw Zagranicznych z dnia 16 paździe… | rendered round-trip failed: AST=9 rendered=9 low_sim=1 missi |
 | WDU20250001529 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=100 rendered=100 dup_rendere… |
-| WDU20250001592 | Rozporządzenie Ministra Edukacji z dnia 31 października 2025… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20250001593 | Obwieszczenie Ministra Obrony Narodowej z dnia 31 październi… | excessive repetition — '.................................... |
 | WDU20250001633 | Rozporządzenie Ministra Edukacji z dnia 6 listopada 2025 r. … | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20250001688 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=73 rendered=73 dup_rendered=… |
-| WDU20250001719 | Rozporządzenie Prezesa Rady Ministrów z dnia 5 grudnia 2025 … |  |
-| WDU20250001748 | Rozporządzenie Ministra Finansów i Gospodarki z dnia 7 grudn… |  |
 | WDU20250001753 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… |  |
 | WDU20250001757 | Rozporządzenie Ministra Edukacji z dnia 1 grudnia 2025 r. w … | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20250001799 | Rozporządzenie Rady Ministrów z dnia 12 grudnia 2025 r. w sp… | excessive repetition — '.................................... |
-| WDU20250001805 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… |  |
-| WDU20250001856 | Rozporządzenie Ministra Finansów i Gospodarki z dnia 22 grud… |  |
 | WDU20260000062 | Ustawa budżetowa na rok 2026 z dnia 9 stycznia 2026 r. | excessive repetition — '1 3 4 5 6 7 8 9 10 11 12 13 14 15 Cz |
 | WDU20260000095 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=89 rendered=89 dup_rendered=… |
 | WDU20260000114 | Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lis… | character-spaced text — 2 line(s) with >30% single-letter wo |
@@ -6069,29 +6074,21 @@ Obowiązujące akty prawne, które nie zostały opublikowane z powodu problemów
 | WDU20260000143 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=350 rendered=350 dup_rendere… |
 | WDU20260000156 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=183 rendered=183 dup_rendere… |
 | WDU20260000221 | Rozporządzenie Ministra Sprawiedliwości z dnia 21 lutego 202… | character-spaced text — 1 line(s) with >30% single-letter wo |
-| WDU20260000222 | Rozporządzenie Ministra Sprawiedliwości z dnia 21 lutego 202… | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20260000233 | Rozporządzenie Ministra Sprawiedliwości z dnia 23 lutego 202… | character-spaced text — 2 line(s) with >30% single-letter wo |
-| WDU20260000280 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 3 mar… |  |
+| WDU20260000222 | Rozporządzenie Ministra Sprawiedliwości z dnia 21 lutego 202… | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU20260000233 | Rozporządzenie Ministra Sprawiedliwości z dnia 23 lutego 202… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20260000289 | Obwieszczenie Ministra Finansów i Gospodarki z dnia 18 luteg… | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20260000300 | Obwieszczenie Prezesa Rady Ministrów z dnia 4 marca 2026 r. … | omitted-provisions quotation ran into the next item ('1) § …… |
-| WDU20260000307 | Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 5 mar… | character-spaced text — 1 line(s) with >30% single-letter wo |
 | WDU20260000377 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=30 rendered=0 missing_render |
 | WDU20260000378 | Rozporządzenie Ministra Edukacji z dnia 11 marca 2026 r. w s… | excessive repetition — 'Wymagania do wyboru. Uczeń:' appears |
 | WDU20260000381 | Obwieszczenie Ministra Sprawiedliwości z dnia 10 lutego 2026… | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20260000428 | Rozporządzenie Ministra Edukacji z dnia 2 marca 2026 r. w sp… | excessive repetition — '.……………………………………………………..' appears 30  |
+| WDU20260000428 | Rozporządzenie Ministra Edukacji z dnia 2 marca 2026 r. w sp… | excessive repetition — '.……………………………………………………..' appears 28  |
 | WDU20260000449 | Obwieszczenie Prezesa Rady Ministrów z dnia 19 marca 2026 r.… | missing paragraph structure — consolidated rozporządzenie re |
-| WDU20260000464 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… |  |
-| WDU20260000487 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… |  |
-| WDU20260000488 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… |  |
 | WDU20260000489 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… | excessive repetition — '.................................... |
 | WDU20260000515 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… |  |
 | WDU20260000532 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… |  |
 | WDU20260000538 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=147 rendered=147 dup_rendere… |
-| WDU20260000550 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… |  |
-| WDU20260000553 | Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z… |  |
 | WDU20260000590 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=183 rendered=183 dup_rendere… |
 | WDU20260000614 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=208 rendered=208 dup_rendere… |
-| WDU20260000649 | Obwieszczenie Ministra Sprawiedliwości z dnia 15 kwietnia 20… | excessive repetition — 'b) w polu drugim – imiona,' appears  |
+| WDU20260000673 | Rozporządzenie Ministra Obrony Narodowej z dnia 7 maja 2026 … | rendered round-trip failed: AST=11 rendered=11 low_sim=1 mis |
 | WDU20260000675 | Obwieszczenie Ministra Finansów i Gospodarki z dnia 13 maja … | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20260000712 | Obwieszczenie Ministra Zdrowia z dnia 20 maja 2026 r. w spra… | missing paragraph structure — consolidated rozporządzenie re |
 | WDU20260000783 | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dn… | rendered round-trip failed: AST=193 rendered=193 dup_rendere… |

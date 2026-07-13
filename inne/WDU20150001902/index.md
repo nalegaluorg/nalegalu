@@ -26,10 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001902) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1902/text.pdf) |
 
 w sprawie szczegółowego zakresu działania Ministra Skarbu Państwa Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa szczegółowy zakres działania Ministra Skarbu Państwa, zwanego dalej „ministrem”.
+
+**§ 1.**
+
+1. Rozporządzenie określa szczegółowy zakres działania Ministra Skarbu Państwa, zwanego dalej „ministrem”.
+
 2. Minister kieruje działem administracji rządowej – Skarb Państwa.
+
 3. Minister jest dysponentem części 36 budżetu państwa.
+
 4. Obsługę ministra zapewnia Ministerstwo Skarbu Państwa.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 16 listopada 2015 r.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 16 listopada 2015 r.
 

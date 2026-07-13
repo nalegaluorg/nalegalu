@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych Na podstawie art. 20a ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067 i 2405 oraz z 2018 r.
 poz. 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. z 2015 r. poz. 993) w § 2 w ust. 3 po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) Komendant Biura Spraw Wewnętrznych Policji;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie szczegółowych zasad i trybu wydawania, posługiwania się, przechowywania i ewidencji dokumentów, które uniemożliwiają ustalenie danych identyfikujących policjanta lub osobę udzielającą pomocy Policji oraz środków, którymi posługują się przy wykonywaniu zadań służbowych (Dz. U. z 2015 r. poz. 993) w § 2 w ust. 3 po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) Komendant Biura Spraw Wewnętrznych Policji;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. Minister Spraw Wewnętrznych i Administracji: J. Brudziński
 

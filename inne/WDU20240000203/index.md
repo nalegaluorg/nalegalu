@@ -26,10 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/203/text.pdf) |
 
 zmieniające rozporządzenie w sprawie leków, które mogą być traktowane jako surowce farmaceutyczne przy sporządzaniu leków recepturowych Na podstawie art. 6 ust. 10 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2023 r. poz. 826, 1733, 1938 i 2105) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2012 r. w sprawie leków, które mogą być traktowane jako surowce farmaceutyczne przy sporządzaniu leków recepturowych (Dz. U. poz. 1259) w § 6:
-1) w pkt 1 wyrazy „12,33 zł” zastępuje się wyrazami „31,81 zł, w tym należny podatek od towarów i usług”;
-2) w pkt 2 wyrazy „24,66 zł” zastępuje się wyrazami „63,63 zł, w tym należny podatek od towarów i usług”.
-§ 2. Do recept na lek recepturowy, przyjętych do realizacji i niezrealizowanych do dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepis § 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2012 r. w sprawie leków, które mogą być traktowane jako surowce farmaceutyczne przy sporządzaniu leków recepturowych (Dz. U. poz. 1259) w § 6:
+
+- **1)** w pkt 1 wyrazy „12,33 zł” zastępuje się wyrazami „31,81 zł, w tym należny podatek od towarów i usług”;
+- **2)** w pkt 2 wyrazy „24,66 zł” zastępuje się wyrazami „63,63 zł, w tym należny podatek od towarów i usług”.
+
+**§ 2.** Do recept na lek recepturowy, przyjętych do realizacji i niezrealizowanych do dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepis § 6 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Konieczny
 

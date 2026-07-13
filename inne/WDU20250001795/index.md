@@ -1886,7 +1886,12 @@ source: pdf
     - **a)** uchyla się ust. 1,
     - **b)** w ust. 2 uchyla się pkt 1;
 
-- **5)** w art. 12j w pkt 6 wyrazy „rozporządzeniu Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str. 1) oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia” zastępuje się wyrazami „rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie Rady (WE) nr 834/2007 (Dz. Urz. UE L 150 z 14.06.2018, str. 1, z późn. zm. )”;
+- **5)** w art. 12j w pkt 6 wyrazy
+
+  > „rozporządzeniu Rady (WE) nr 834/2007 z dnia 28 czerwca 2007 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie (EWG) nr 2092/91 (Dz. Urz. UE L 189 z 20.07.2007, str.  
+  > 1) oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia”  
+
+  zastępuje się wyrazami „rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/848 z dnia 30 maja 2018 r. w sprawie produkcji ekologicznej i znakowania produktów ekologicznych i uchylającym rozporządzenie Rady (WE) nr 834/2007 (Dz. Urz. UE L 150 z 14.06.2018, str. 1, z późn. zm. )”;
 - **6)** w art. 33 w ust. 2 w zdaniu drugim wyrazy „obowiązkowi zwalczania na podstawie ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych” zastępuje się wyrazami „likwidacji na podstawie przepisów o zdrowiu”;
 - **7)** w art. 33b:
     - **a)** w ust. 1 wyrazy „ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych” zastępuje się wyrazem „zdrowiu”,
@@ -1907,7 +1912,10 @@ source: pdf
 
 - **2)** w art. 72 w ust. 7 w pkt 4 wyrazy „pkt 40 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt” zastępuje się wyrazami „pkt 7 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2024 r. poz. 12 oraz z 2025 r. poz. 1795)”.
 
-**Art. 112.** W ustawie z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt (Dz. U. z 2019 r. poz. 24) w art. 19 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. W przypadku stwierdzenia uchybień w prowadzeniu działalności polegającej na świadczeniu usług weterynaryjnych w ramach zakładu leczniczego dla zwierząt, które stwarzają zagrożenie epidemiologiczne, powiatowy lekarz weterynarii, w drodze decyzji, wstrzymuje prowadzenie tej działalności i nakazuje usunięcie tych uchybień w terminie wskazanym w tej decyzji, zawiadamiając o tym właściwą okręgową izbę lekarsko-weterynaryjną. 1b. Jeżeli uchybienia, o których mowa w ust. 1a, nie zostaną usunięte w terminie wskazanym w decyzji, o której mowa w tym przepisie, okręgowa rada lekarsko-weterynaryjna na wniosek powiatowego lekarza weterynarii skreśla zakład leczniczy dla zwierząt z ewidencji.”.
+**Art. 112.** W ustawie z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt (Dz. U. z 2019 r. poz. 24) w art. 19 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+> „1a. W przypadku stwierdzenia uchybień w prowadzeniu działalności polegającej na świadczeniu usług weterynaryjnych w ramach zakładu leczniczego dla zwierząt, które stwarzają zagrożenie epidemiologiczne, powiatowy lekarz weterynarii, w drodze decyzji, wstrzymuje prowadzenie tej działalności i nakazuje usunięcie tych uchybień w terminie wskazanym w tej decyzji, zawiadamiając o tym właściwą okręgową izbę lekarsko-weterynaryjną.  
+> 1b. Jeżeli uchybienia, o których mowa w ust. 1a, nie zostaną usunięte w terminie wskazanym w decyzji, o której mowa w tym przepisie, okręgowa rada lekarsko-weterynaryjna na wniosek powiatowego lekarza weterynarii skreśla zakład leczniczy dla zwierząt z ewidencji.”.  
 
 **Art. 113.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2024 r. poz. 12) wprowadza się następujące zmiany:
 
@@ -2460,4 +2468,41 @@ source: pdf
 **Art. 146.** Przepisy art. 45 ust. 1, art. 47 ust. 2 i 8 i art. 49 ust. 1 w odniesieniu do dużych przedsiębiorstw w rozumieniu art. 2 pkt 34 rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1, z późn. zm. ) stosuje się od dnia ogłoszenia pozytywnej decyzji Komisji Europejskiej o zgodności ze wspólnym rynkiem pomocy publicznej określonej w tych przepisach.
 
 **Art. 147.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 126 pkt 11, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+## Załącznik
+
+WYKAZ CHORÓB, PRZY ZWALCZANIU KTÓRYCH PRZYSŁUGUJE ODSZKODOWANIE ZE ŚRODKÓW BUDŻETU PAŃSTWA
+1) pryszczyca (Foot and mouth disease – FMD);
+2) zakażenie wirusem księgosuszu (Infection with rinderpest virus);
+3) zakażenie wirusem gorączki doliny Rift (Infection with Rift Valley fever virus);
+4) zakażenie wywołane przez Brucella abortus, B. melitensis, B. suis (Infection with Brucella abortus, B. melitensis, B. suis);
+5) zakażenie kompleksem Mycobacterium tuberculosis (M. bovis, M. caprae, M. tuberculosis) (Infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae, M. tuberculosis));
+6) zakażenie wirusem wścieklizny (Infection with rabies virus);
+7) zakażenie wirusem choroby niebieskiego języka (serotypy 1–24) (Infection with bluetongue virus (serotypes 1–24));
+8) zakażenie wirusem choroby guzowatej skóry bydła (Infection with lumpy skin disease virus);
+9) zakażenie wywołane przez Mycoplasma mycoides subsp. mycoides SC (zaraza płucna bydła) (Infection with Mycoplasma mycoides subsp. mycoides SC (Contagious bovine pleuropneumonia));
+10) enzootyczna białaczka bydła (Enzootic bovine leukosis – EBL);
+11) ospa owiec i ospa kóz (Sheep pox and goat pox);
+12) zakażenie wirusem pomoru małych przeżuwaczy (Infection with peste des petits ruminants virus);
+13) zaraza płucna kóz (Contagious caprine pleuropneumonia);
+14) pasażowalne gąbczaste encefalopatie (Transmissible spongiform encephalopathies – TSE);
+15) afrykański pomór koni (African horse sickness);
+16) zakażenie wywołane przez Burkholderia mallei (nosacizna) (Infection with Burkholderia mallei (Glanders));
+17) klasyczny pomór świń (Classical swine fever – CSF);
+18) afrykański pomór świń (African swine fever – ASF);
+19) zakażenie wirusem choroby Aujeszkyego (Infection with Aujeszky's disease virus);
+20) wysoce zjadliwa grypa ptaków (Highly pathogenic avian influenza);
+21) zakażenie wirusem rzekomego pomoru drobiu (Infection with Newcastle disease virus);
+22) wąglik (Anthrax);
+23) epizootyczna martwica układu krwiotwórczego (Epizootic haematopoietic necrosis – EHN);
+24) zakażenie wirusem zakaźnej anemii łososi z delecją w regionie polimorficznym (HPR) (Infection with highly polymorphic region (HPR) deleted infectious salmon anaemia virus).
+WYKAZ CHORÓB ODZWIERZĘCYCH I ODZWIERZĘCYCH CZYNNIKÓW CHOROBOTWÓRCZYCH PODLEGAJĄCYCH OBOWIĄZKOWI MONITOROWANIA
+1) bruceloza i jej czynniki chorobotwórcze;
+2) kampylobakterioza i jej czynniki chorobotwórcze;
+3) bąblowica i jej czynniki chorobotwórcze;
+4) listerioza (Listeriosis) i jej czynnik chorobotwórczy;
+5) włośnica (Trichinellosis) i jej czynniki chorobotwórcze;
+6) gruźlica wywołana Mycobacterium bovis;
+7) werocytotoksyczne Escherichia coli;
+8) salmonelloza i jej czynniki chorobotwórcze.
 

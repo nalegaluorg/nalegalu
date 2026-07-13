@@ -28,9 +28,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie dokumentowania kontroli operacyjnej prowadzonej przez Krajową Administrację Skarbową Na podstawie art. 118 ust. 18 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r.
 poz. 1131, 1423, 1820 i 1863) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 13 kwietnia 2017 r. w sprawie dokumentowania kontroli operacyjnej prowadzonej przez Krajową Administrację Skarbową (Dz. U. z 2025 r. poz. 728) załączniki nr 1 i 2 otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów i Gospodarki: wz. J. Neneman Minister Finansów i Gospodarki kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 13 kwietnia 2017 r. w sprawie dokumentowania kontroli operacyjnej prowadzonej przez Krajową Administrację Skarbową (Dz. U. z 2025 r. poz. 728) załączniki nr 1 i 2 otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów i Gospodarki: wz. J. Neneman Minister Finansów i Gospodarki kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).
 
 ## Załącznik nr 1 — Załącznik nr 1 WZÓR DRUKU STOSOWANIA KONTROLI OPERACYJNEJ WZÓR DRUKU STOSOWANIA KONTROLI OPERACYJNEJ ________________________________________________________________________________________________________
 

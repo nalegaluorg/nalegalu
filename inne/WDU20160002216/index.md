@@ -27,11 +27,17 @@ source: pdf
 
 w sprawie rocznej informacji o zrealizowanych lub podjętych zadaniach z zakresu zdrowia publicznego Na podstawie art. 12 ust. 11 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym (Dz. U. poz. 1916 oraz z 2016 r.
 poz. 2003) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) sposób przekazywania rocznej informacji o zrealizowanych lub podjętych w ubiegłym roku zadaniach z zakresu zdrowia publicznego, o których mowa w art. 12 ust. 1 i 2 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym;
-2) wzór dokumentu zawierającego roczną informację, o której mowa w pkt 1.
-§ 2. 1. Roczną informację o zrealizowanych lub podjętych w ubiegłym roku zadaniach z zakresu zdrowia publicznego przekazuje się w postaci pisemnej lub elektronicznej zgodnie ze wzorem określonym w załączniku do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób przekazywania rocznej informacji o zrealizowanych lub podjętych w ubiegłym roku zadaniach z zakresu zdrowia publicznego, o których mowa w art. 12 ust. 1 i 2 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym;
+- **2)** wzór dokumentu zawierającego roczną informację, o której mowa w pkt 1.
+
+**§ 2.**
+
+1. Roczną informację o zrealizowanych lub podjętych w ubiegłym roku zadaniach z zakresu zdrowia publicznego przekazuje się w postaci pisemnej lub elektronicznej zgodnie ze wzorem określonym w załączniku do rozporządzenia.
+
 2. Roczną informację w postaci elektronicznej przekazuje się poprzez transmisję danych lub na informatycznym nośniku danych.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Zdrowia: K. Radziwiłł  
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Minister Zdrowia: K. Radziwiłł  
 

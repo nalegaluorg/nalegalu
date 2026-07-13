@@ -28,17 +28,6 @@ source: pdf
 
 Na podstawie art. 46 ust. 3 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz.U.
 Nr 53, poz. 549) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wzorcowy regulamin bezpiecznego funkcjonowania strzelnic, z uwzględnieniem:
-1) warunków korzystania ze strzelnicy,
-2) sposobu obchodzenia się z bronią,
-3) sposobu zachowania się osób przebywających na strzelnicy.
-§ 2. Użyte w rozporządzeniu określenia oznaczają:
-1) strzelnica – obiekt przeznaczony do prowadzenia strzelań szkoleniowych, sportowych i rekreacyjnych oraz treningów strzeleckich,
-2) prowadzący strzelanie – osobę, która odbyła przeszkolenie w zakresie prowadzenia strzelania oraz udzielania pomocy medycznej w jednostkach organizacyjnych Policji, Sił Zbrojnych Rzeczypospolitej Polskiej, Polskiego Związku Strzelectwa Sportowego lub Ligi Obrony Kraju.
-§ 3. Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic stanowi załącznik do rozporządzenia.
-§ 4. Właściciel lub zarządca strzelnicy, na podstawie regulaminu określonego w § 3, jest obowiązany opracować regulamin strzelnicy, w którym może w szczególności określić dodatkowe warunki bezpieczeństwa, w tym także dla osób przebywających na strzelnicy.
-§ 5. Rozporządzenie wchodzi w życie z dniem 20 marca 2000 r.
-WZORCOWY REGULAMIN BEZPIECZNEGO FUNKCJONOWANIA STRZELNIC
 1. Prowadzący strzelanie:
 1) odpowiada za bezpieczeństwo użytkowników strzelnicy oraz osób im towarzyszących,
 2) wyznacza korzystającym ze strzelnicy stanowiska strzeleckie, a osobom towarzyszącym – miejsce bezpiecznego pobytu,
@@ -78,6 +67,23 @@ d) miejsca instalacji telefonu lub innych urządzeń łączności,
 4. Po komendzie „STOP”, wydanej przez prowadzącego strzelanie lub inną osobę, strzelający bezzwłocznie przerywają strzelanie.
 5. Na teren strzelnicy zwierzęta mogą być wprowadzane tylko w wyjątkowych przypadkach oraz obowiązkowo powinny być trzymane na uwięzi i pod ścisłym nadzorem opiekuna.
 6. Osobę naruszającą regulamin strzelnicy usuwa się ze strzelnicy.
+
+**§ 1.** Rozporządzenie określa wzorcowy regulamin bezpiecznego funkcjonowania strzelnic, z uwzględnieniem:
+
+- **1)** warunków korzystania ze strzelnicy,
+- **2)** sposobu obchodzenia się z bronią,
+- **3)** sposobu zachowania się osób przebywających na strzelnicy.
+
+**§ 2.** Użyte w rozporządzeniu określenia oznaczają:
+
+- **1)** strzelnica – obiekt przeznaczony do prowadzenia strzelań szkoleniowych, sportowych i rekreacyjnych oraz treningów strzeleckich,
+- **2)** prowadzący strzelanie – osobę, która odbyła przeszkolenie w zakresie prowadzenia strzelania oraz udzielania pomocy medycznej w jednostkach organizacyjnych Policji, Sił Zbrojnych Rzeczypospolitej Polskiej, Polskiego Związku Strzelectwa Sportowego lub Ligi Obrony Kraju.
+
+**§ 3.** Wzorcowy regulamin bezpiecznego funkcjonowania strzelnic stanowi załącznik do rozporządzenia.
+
+**§ 4.** Właściciel lub zarządca strzelnicy, na podstawie regulaminu określonego w § 3, jest obowiązany opracować regulamin strzelnicy, w którym może w szczególności określić dodatkowe warunki bezpieczeństwa, w tym także dla osób przebywających na strzelnicy.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 20 marca 2000 r. WZORCOWY REGULAMIN BEZPIECZNEGO FUNKCJONOWANIA STRZELNIC
 
 #### Rozdział 1 Warunki korzystania ze strzelnicy
 

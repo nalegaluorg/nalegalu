@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000894) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/894/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu świadczeń pielęgnacyjnych i opiekuńczych w ramach opieki długoterminowej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770 oraz z 2023 r. poz. 605, 650 i 658) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu świadczeń pielęgnacyjnych i opiekuńczych w ramach opieki długoterminowej (Dz. U. z 2022 r. poz. 965) w § 5 w ust. 1 zdanie drugie otrzymuje brzmienie: „W przypadku dzieci do ukończenia 3. roku życia lub chorych na AIDS nie dokonuje się oceny skalą Barthel.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Kraska
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu świadczeń pielęgnacyjnych i opiekuńczych w ramach opieki długoterminowej (Dz. U. z 2022 r. poz. 965) w § 5 w ust. 1 zdanie drugie otrzymuje brzmienie: „W przypadku dzieci do ukończenia 3. roku życia lub chorych na AIDS nie dokonuje się oceny skalą Barthel.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Kraska
 

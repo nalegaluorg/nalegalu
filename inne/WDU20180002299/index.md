@@ -26,97 +26,98 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002299) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2299/text.pdf) |
 
 w sprawie funduszu socjalnego emerytów i rencistów służby więziennej oraz członków ich rodzin Na podstawie art. 27 ust. 2 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2018 r. poz. 132, 138, 730 i 912) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) sposób podziału środków funduszu socjalnego, zwanego dalej „funduszem”, między jego dysponentów;
-2) zakres i sposoby korzystania ze świadczeń socjalnych z funduszu przez osoby uprawnione do zaopatrzenia emerytalnego oraz członków ich rodzin, zwanych dalej „uprawnionymi”;
-3) rodzaje świadczeń, dysponentów środków funduszu oraz tryb przyznawania świadczeń.
-§ 2. Środki funduszu mogą być przeznaczane na następujące świadczenia socjalne:
-1) udzielanie pomocy finansowej lub rzeczowej;
-2) refundację lub dopłatę do kosztów leczenia opieki paliatywno -hospicyjnej;
-3) refundację lub dopłatę do kosztów zakwaterowania, wyżywienia i leczenia w sanatoriach lub uzdrowiskach, za pobyt w zakładach rehabilitacyjnych;
-4) refundację lub dopłatę do kosztów wypoczynku indywidualnego i zbiorowego;
-5) refundację lub dopłatę do kosztów zorganizowanego wypoczynku dzieci i młodzieży w formie obozów i kolonii oraz innych form działalności socjalnej;
-6) refundację lub dopłatę do korzystania z różnych form działalności rekreacyjnej i kulturalno- oświatowej.
-§ 3. 1. Dysponentami środków finansowych są kierownicy poszczególnych jednostek organizacyjnych Służby Więziennej, zwanych dalej „jednostkami organizacyjnymi”.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób podziału środków funduszu socjalnego, zwanego dalej „funduszem”, między jego dysponentów;
+- **2)** zakres i sposoby korzystania ze świadczeń socjalnych z funduszu przez osoby uprawnione do zaopatrzenia emerytalnego oraz członków ich rodzin, zwanych dalej „uprawnionymi”;
+- **3)** rodzaje świadczeń, dysponentów środków funduszu oraz tryb przyznawania świadczeń.
+
+**§ 2.** Środki funduszu mogą być przeznaczane na następujące świadczenia socjalne:
+
+- **1)** udzielanie pomocy finansowej lub rzeczowej;
+- **2)** refundację lub dopłatę do kosztów leczenia opieki paliatywno -hospicyjnej;
+- **3)** refundację lub dopłatę do kosztów zakwaterowania, wyżywienia i leczenia w sanatoriach lub uzdrowiskach, za pobyt w zakładach rehabilitacyjnych;
+- **4)** refundację lub dopłatę do kosztów wypoczynku indywidualnego i zbiorowego;
+- **5)** refundację lub dopłatę do kosztów zorganizowanego wypoczynku dzieci i młodzieży w formie obozów i kolonii oraz innych form działalności socjalnej;
+- **6)** refundację lub dopłatę do korzystania z różnych form działalności rekreacyjnej i kulturalno- oświatowej.
+
+**§ 3.**
+
+1. Dysponentami środków finansowych są kierownicy poszczególnych jednostek organizacyjnych Służby Więziennej, zwanych dalej „jednostkami organizacyjnymi”.
+
 2. Dyrektor Biura Emerytalnego Służby Więziennej dokonuje podziału środków funduszu między dysponentów, o których mowa w ust. 1, odpowiednio do wysokości zaplanowanych środków na wypłatę emerytur i rent dla byłych funkcjonariuszy poszczególnych jednostek organizacyjnych, według stanu na dzień 1 stycznia danego roku kalendarzowego.
-§ 4. 1. Świadczenia socjalne mogą być przyznane:
-1) na wniosek uprawnionego;
-2) na wniosek organizacji społecznej lub przedstawicielstwa emerytów i rencistów;
-3) z urzędu.
+
+**§ 4.**
+
+1. Świadczenia socjalne mogą być przyznane:
+
+- **1)** na wniosek uprawnionego;
+- **2)** na wniosek organizacji społecznej lub przedstawicielstwa emerytów i rencistów;
+- **3)** z urzędu.
+
 2. Do wniosku, o którym mowa w ust. 1 pkt 1, należy dołączyć:
-1) ostatni dowód otrzymanego świadczenia emerytalnego lub rentowego albo kopię ostatniej decyzji w sprawie emerytury lub renty;
-2) oświadczenie uprawnionego o wysokości uzyskiwanych przez niego innych dochodów;
-3) inne dokumenty uzasadniające przyznanie świadczenia socjalnego, potwierdzające obecną sytuację życiową, materialną i rodzinną uprawnionego.
+
+- **1)** ostatni dowód otrzymanego świadczenia emerytalnego lub rentowego albo kopię ostatniej decyzji w sprawie emerytury lub renty;
+- **2)** oświadczenie uprawnionego o wysokości uzyskiwanych przez niego innych dochodów;
+- **3)** inne dokumenty uzasadniające przyznanie świadczenia socjalnego, potwierdzające obecną sytuację życiową, materialną i rodzinną uprawnionego.
+
 3. Wnioski, o których mowa w ust. 1, kieruje się do komórki kadrowej lub osoby wyznaczonej do załatwiania spraw kadrowych lub socjalnych w jednostce organizacyjnej.
+
 4. Realizacji świadczenia dokonuje właściwa komórka finansowa jednostki organizacyjnej.
+
 5. Wzór wniosku uprawnionego o przyznanie świadczenia socjalnego jest określony w załączniku nr 1 do rozporządzenia.
-§ 5. Pierwszeństwo w korzystaniu ze świadczeń socjalnych przysługuje uprawnionym:
-1) posiadającym trudne warunki materialne;
-2) poszkodowanym na skutek klęsk żywiołowych i zdarzeń losowych;
-3) sierotom zupełnym;
-4) samotnie wychowującym dzieci;
-5) ponoszącym dodatkowe koszty związane z wychowywaniem dzieci wymagających specjalnej opieki i leczenia.
-§ 6. 1. Wniosek o przyznanie świadczenia socjalnego rozpatruje dysponent, u którego uprawniony pełnił służbę bezpośrednio przed ustaniem stosunku służbowego lub został objęty świadczeniami socjalnymi.
+
+**§ 5.** Pierwszeństwo w korzystaniu ze świadczeń socjalnych przysługuje uprawnionym:
+
+- **1)** posiadającym trudne warunki materialne;
+- **2)** poszkodowanym na skutek klęsk żywiołowych i zdarzeń losowych;
+- **3)** sierotom zupełnym;
+- **4)** samotnie wychowującym dzieci;
+- **5)** ponoszącym dodatkowe koszty związane z wychowywaniem dzieci wymagających specjalnej opieki i leczenia.
+
+**§ 6.**
+
+1. Wniosek o przyznanie świadczenia socjalnego rozpatruje dysponent, u którego uprawniony pełnił służbę bezpośrednio przed ustaniem stosunku służbowego lub został objęty świadczeniami socjalnymi.
+
 2. W przypadku zmiany miejsca zamieszkania oraz w innych szczególnie uzasadnionych przypadkach uprawniony może złożyć wniosek o objęcie go świadczeniami socjalnymi do dysponenta innego niż określony w ust. 1.
+
 3. O sposobie rozpatrzenia wniosku właściwy dysponent, o którym mowa w ust. 2, zawiadamia uprawnionego oraz dysponenta dotychczasowego.
+
 4. Wzór wniosku uprawnionego o objęcie świadczeniami socjalnymi jest określony w załączniku nr 2 do rozporządzenia.
-§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 23 listopada 2018 r. (poz.
-.....) WZÓR Załącznik nr 1 WZÓR .......................................................................... ………........................................
-(imię i nazwisko) (miejscowość, data) …………………………………….................
-(nr PESEL) ……………………………………………….
-(adres zamieszkania, kod pocztowy) ……………………………………………….
-(nr emerytury lub renty) ……………………………………..................
-(tel. kontaktowy, adres e-mail) WNIOSEK o przyznanie świadczenia socjalnego Pan(i) Dyrektor/Komendant ..................................................
-w ..............................................
-1. Proszę o udzielenie:*
-1) pomocy finansowej lub rzeczowej;
-2) refundacji lub dopłaty do kosztów leczenia opieki paliatywno-hospicyjnej;
-3) refundacji lub dopłaty do kosztów zakwaterowania, wyżywienia i leczenia w sanatoriach lub uzdrowiskach, za pobyt w zakładach rehabilitacyjnych;
-4) refundacji lub dopłaty do kosztów wypoczynku indywidualnego i zbiorowego;
-5) refundacji lub dopłaty do kosztów zorganizowanego wypoczynku dzieci i młodzieży w formie obozów i kolonii oraz innych form działalności socjalnej;
-6) refundacji lub dopłaty do korzystania z różnych form działalności rekreacyjnej i kulturalno-oświatowej.
-* Właściwe podkreślić.
-Uzasadnienie wniosku: ......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-(szczegółowe uzasadnienie może być napisane na oddzielnej kartce dołączonej do wniosku)
-2. Osoby na utrzymaniu wnioskodawcy: Imię i nazwisko Stopień pokrewieństwa Wiek ......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-3. Inne źródła dochodów oraz wysokość dochodów wnioskodawcy: ......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
-......................................................................................................................................................
+
+**§ 7.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia 23 listopada 2018 r. (poz. .....) WZÓR Załącznik nr 1 WZÓR .......................................................................... ………........................................ (imię i nazwisko) (miejscowość, data) ……………………………………................. (nr PESEL) ………………………………………………. (adres zamieszkania, kod pocztowy) ………………………………………………. (nr emerytury lub renty) …………………………………….................. (tel. kontaktowy, adres e-mail) WNIOSEK o przyznanie świadczenia socjalnego Pan(i) Dyrektor/Komendant .................................................. w .............................................. 1. Proszę o udzielenie:*
+
+- **1)** pomocy finansowej lub rzeczowej;
+- **2)** refundacji lub dopłaty do kosztów leczenia opieki paliatywno-hospicyjnej;
+- **3)** refundacji lub dopłaty do kosztów zakwaterowania, wyżywienia i leczenia w sanatoriach lub uzdrowiskach, za pobyt w zakładach rehabilitacyjnych;
+- **4)** refundacji lub dopłaty do kosztów wypoczynku indywidualnego i zbiorowego;
+- **5)** refundacji lub dopłaty do kosztów zorganizowanego wypoczynku dzieci i młodzieży w formie obozów i kolonii oraz innych form działalności socjalnej;
+- **6)** refundacji lub dopłaty do korzystania z różnych form działalności rekreacyjnej i kulturalno-oświatowej. * Właściwe podkreślić. Uzasadnienie wniosku: ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... (szczegółowe uzasadnienie może być napisane na oddzielnej kartce dołączonej do wniosku)
+
+2. Osoby na utrzymaniu wnioskodawcy: Imię i nazwisko Stopień pokrewieństwa Wiek ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... ......................................................................................................................................................
+
+3. Inne źródła dochodów oraz wysokość dochodów wnioskodawcy: ...................................................................................................................................................... ...................................................................................................................................................... ...................................................................................................................................................... ......................................................................................................................................................
+
 4. W przypadku przyznania świadczenia socjalnego, w formie zapomogi finansowej, proszę o przekazanie środków:
-1) przelewem na rachunek bankowy nr ..…………………………………………..** ;
-2) za pomocą przekazu pocztowego (wysokość świadczenia zostanie pomniejszona o opłatę pocztową) na adres: …...………………………………………………** ;
-3) do odbioru osobistego w kasie jednostki** ;
-4) do odbioru przez …………………………………………..………….. na podstawie podpisanego przeze mnie upoważnienia** .
-Załączniki:
+
+- **1)** przelewem na rachunek bankowy nr ..…………………………………………..** ;
+- **2)** za pomocą przekazu pocztowego (wysokość świadczenia zostanie pomniejszona o opłatę pocztową) na adres: …...………………………………………………** ;
+- **3)** do odbioru osobistego w kasie jednostki** ;
+- **4)** do odbioru przez …………………………………………..………….. na podstawie podpisanego przeze mnie upoważnienia** . Załączniki:
+
 1. .…………………………………………………………………........................................
+
 2. ..............................................................................................................................................
+
 3. ………………………….....................................................................................................
+
 4. ..............................................................................................................................................
-5. ..............................................................................................................................................
-Oświadczam, że powyższe dane są prawdziwe i zgodne ze stanem faktycznym.
-...............................................................
-(imię i nazwisko – czytelnie)*** Sposób rozpatrzenia wniosku:
-1) przyznaję świadczenie socjalne w wysokości …….............................................................
-(słownie złotych ..................................................................................................... )** ;
-2) nie przyznaję świadczenia socjalnego ** .
-............................................, dnia ....................................................
-(miejscowość) ..................................................................................................................
-(imienna pieczątka, data i podpis dysponenta)*** ** Niepotrzebne skreślić.
-*** Wymagane tylko w wypadku dokumentu w formie papierowej.
+
+5. .............................................................................................................................................. Oświadczam, że powyższe dane są prawdziwe i zgodne ze stanem faktycznym. ............................................................... (imię i nazwisko – czytelnie)*** Sposób rozpatrzenia wniosku:
+
+- **1)** przyznaję świadczenie socjalne w wysokości ……............................................................. (słownie złotych ..................................................................................................... )** ;
+- **2)** nie przyznaję świadczenia socjalnego ** . ............................................, dnia .................................................... (miejscowość) .................................................................................................................. (imienna pieczątka, data i podpis dysponenta)*** ** Niepotrzebne skreślić. *** Wymagane tylko w wypadku dokumentu w formie papierowej.
 
 ## Załącznik nr 2 — WZÓR WZÓR …………………………………………… (miejscowość, data) ….........................................................................................
 

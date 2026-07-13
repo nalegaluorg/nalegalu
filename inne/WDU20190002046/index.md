@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002046) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2046/text.pdf) |
 
 zmieniające rozporządzenie w sprawie opiniowania służbowego policjantów Na podstawie art. 35 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2019 r. poz. 161, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. z 2013 r. poz. 883, z 2014 r. poz. 1231, z 2018 r. poz. 215 oraz z 2019 r. poz. 441 i 1365) w § 8 ust. 4 otrzymuje brzmienie: „4. Na wniosek opiniowanego zawarty w odwołaniu od opinii przełożony właściwy do rozpatrzenia odwołania zawiadamia o wpływie odwołania wskazaną przez opiniowanego reprezentującą go zakładową organizację związkową. Zakładowa organizacja związkowa może w terminie 5 dni od dnia otrzymania zawiadomienia zgłosić swojego przedstawiciela do składu komisji, o której mowa w ust. 3.”.
-§ 2. Do spraw odwołań od opinii służbowej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem 27 października 2019 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. z 2013 r. poz. 883, z 2014 r. poz. 1231, z 2018 r. poz. 215 oraz z 2019 r. poz. 441 i 1365) w § 8 ust. 4 otrzymuje brzmienie: „4. Na wniosek opiniowanego zawarty w odwołaniu od opinii przełożony właściwy do rozpatrzenia odwołania zawiadamia o wpływie odwołania wskazaną przez opiniowanego reprezentującą go zakładową organizację związkową. Zakładowa organizacja związkowa może w terminie 5 dni od dnia otrzymania zawiadomienia zgłosić swojego przedstawiciela do składu komisji, o której mowa w ust. 3.”.
+
+**§ 2.** Do spraw odwołań od opinii służbowej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 27 października 2019 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

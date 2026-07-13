@@ -33,7 +33,11 @@ source: pdf
 - **2)** w art. 38b w pkt 1 skreśla się wyrazy „(Dz. Urz. UE L 145 z 10.06.2009, s. 1, z późn. zm.)”;
 - **3)** w art. 142:
     - **a)** w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „omówienie scenariusza makroekonomicznego na rok budżetowy i trzy kolejne lata, w szczególności założeń makroekonomicznych dotyczących prognozy:”,
-    - **b)** po pkt 2 dodaje się pkt 2a–2c w brzmieniu: „2a) porównanie scenariusza makroekonomicznego z najbardziej aktualnymi prognozami Komisji Europejskiej i prognozami przygotowanymi przez inne niezależne instytucje wraz z omówieniem znaczących różnic; 2b) informacje o działaniach podjętych w przypadku wystąpienia znaczących odchyleń negatywnie wpływających na prognozy makroekonomiczne w okresie czterech kolejnych lat budżetowych poprzedzających opracowanie scenariusza makroekonomicznego; 2c) analizę wrażliwości w zakresie deficytu i długu sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską, państwowego długu publicznego oraz poziomu kwoty wydatków, o której mowa w art. 112aa ust. 1, przy różnych założeniach dotyczących wzrostu gospodarczego i stóp procentowych wraz z omówieniem istotnych czynników ryzyka;”;
+    - **b)** po pkt 2 dodaje się pkt 2a–2c w brzmieniu:
+
+      > „2a) porównanie scenariusza makroekonomicznego z najbardziej aktualnymi prognozami Komisji Europejskiej i prognozami przygotowanymi przez inne niezależne instytucje wraz z omówieniem znaczących różnic;  
+      > 2b) informacje o działaniach podjętych w przypadku wystąpienia znaczących odchyleń negatywnie wpływających na prognozy makroekonomiczne w okresie czterech kolejnych lat budżetowych poprzedzających opracowanie scenariusza makroekonomicznego;  
+      > 2c) analizę wrażliwości w zakresie deficytu i długu sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską, państwowego długu publicznego oraz poziomu kwoty wydatków, o której mowa w art. 112aa ust. 1, przy różnych założeniach dotyczących wzrostu gospodarczego i stóp procentowych wraz z omówieniem istotnych czynników ryzyka;”;  
 
 - **4)** w art. 182 w ust. 2 pkt 3 otrzymuje brzmienie: „3) ocenę realizacji scenariusza makroekonomicznego;”.
 

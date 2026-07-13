@@ -26,46 +26,38 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000397) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/397/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze ków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357 i 2164, z 2017 r. poz. 1244, 1766 i 2423 oraz z poz. 657) w załączniku nr 1 w lp. 60 w kolumnie 4 w części „Organizacja udzielania świadczeń” wprowadza się następujące zmiany:
-1) ust. 2 otrzymuje brzmienie: „2. Badania ogólne, specjalistyczne i diagnostyczne obejmują:
-1) badania antropometryczne;
-2) badania laboratoryjne:
-a) badanie ogólne moczu,
-b) morfologię krwi obwodowej z wzorem odsetkowym,
-c) oznaczenie stężenia glukozy w surowicy krwi;
-3) inne badania diagnostyczne:
-a) badanie elektrokardiograficzne 12-odprowadzeniowe z opisem,
-b) badanie spirometryczne;
-4) badania lekarskie:
-a) ogólne badanie lekarskie wraz z oceną stanu uzębienia i oceną ostrości wzroku przy pomocy tablic Snellena,
-b) badanie ortopedyczne,
-c) konsultację neurologiczną.”;
-2) uchyla się ust. 3 i 4;
-3) ust. 6 i 7 otrzymują brzmienie: „6. Wstępne badania lekarskie dzieci i młodzieży do ukończenia 21. roku życia, ubiegających się o wydanie orzeczenia lekarskiego dopuszczającego do uprawniania danego sportu obejmują:
-1) pomiary antropometryczne;
-2) ogólne badanie lekarskie wraz z oceną stanu uzębienia i oceną ostrości wzroku przy pomocy tablic Snellena;
-3) badanie ortopedyczne;
-4) badanie elektrokardiograficzne 12-odprowadzeniowe z opisem;
-5) badanie ogólne moczu;
-6) morfologię krwi obwodowej z wzorem odsetkowym;
-7) konsultację neurologiczną – w przypadku osób, które zamierzają uprawiać sporty walki;
-8) oznaczenie stężenia glukozy w surowicy krwi;
-9) badanie spirometryczne – w przypadku osób, które zamierzają uprawiać płetwonurkowanie.
-7. Okresowe badania lekarskie dzieci i młodzieży do 21. roku życia oraz zawodników pomiędzy 21. a kiem życia przeprowadza się:
-1) co roku:
-a) pomiary antropometryczne,
-b) ogólne badanie lekarskie wraz z oceną stanu uzębienia i oceną ostrości wzroku przy pomocy tablic Snellena,
-c) badanie ortopedyczne,
-d) badanie elektrokardiograficzne 12-odprowadzeniowe z opisem,
-e) badanie ogólne moczu,
-f) morfologię krwi obwodowej z wzorem odsetkowym,
-g) oznaczenie stężenia glukozy w surowicy krwi;
-2) co dwa lata:
-a) konsultację neurologiczną – w przypadku osób, które zamierzają uprawiać sporty walki,
-b) badanie spirometryczne – w przypadku osób, które zamierzają uprawiać płetwonurkowanie;
-3) dodatkowo co 6 miesięcy – w przypadku badań, o których mowa w pkt 1 lit. a–c, u zawodników do ukończenia
-16. roku życia, jeśli wymaga tego ich stan zdrowia lub specyfika współzawodnictwa sportowego.
-Okresowe badania lekarskie przeprowadza się przed upływem terminu ważności orzeczenia lekarskiego o zdolności do uprawiania danego sportu.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357 i 2164, z 2017 r. poz. 1244, 1766 i 2423 oraz z poz. 657) w załączniku nr 1 w lp. 60 w kolumnie 4 w części „Organizacja udzielania świadczeń” wprowadza się następujące zmiany:
+
+- **1)** ust. 2 otrzymuje brzmienie:
+
+  > „2. Badania ogólne, specjalistyczne i diagnostyczne obejmują:  
+  > 1) badania antropometryczne;  
+  > 2) badania laboratoryjne:  
+  > a) badanie ogólne moczu, b) morfologię krwi obwodowej z wzorem odsetkowym, c) oznaczenie stężenia glukozy w surowicy krwi;  
+  > 3) inne badania diagnostyczne:  
+  > a) badanie elektrokardiograficzne 12-odprowadzeniowe z opisem, b) badanie spirometryczne;  
+  > 4) badania lekarskie:  
+  > a) ogólne badanie lekarskie wraz z oceną stanu uzębienia i oceną ostrości wzroku przy pomocy tablic Snellena, b) badanie ortopedyczne, c) konsultację neurologiczną.”;  
+- **2)** uchyla się ust. 3 i 4;
+- **3)** ust. 6 i 7 otrzymują brzmienie:
+
+  > „6. Wstępne badania lekarskie dzieci i młodzieży do ukończenia 21. roku życia, ubiegających się o wydanie orzeczenia lekarskiego dopuszczającego do uprawniania danego sportu obejmują:  
+  > 1) pomiary antropometryczne;  
+  > 2) ogólne badanie lekarskie wraz z oceną stanu uzębienia i oceną ostrości wzroku przy pomocy tablic Snellena;  
+  > 3) badanie ortopedyczne;  
+  > 4) badanie elektrokardiograficzne 12-odprowadzeniowe z opisem;  
+  > 5) badanie ogólne moczu;  
+  > 6) morfologię krwi obwodowej z wzorem odsetkowym;  
+  > 7) konsultację neurologiczną – w przypadku osób, które zamierzają uprawiać sporty walki;  
+  > 8) oznaczenie stężenia glukozy w surowicy krwi;  
+  > 9) badanie spirometryczne – w przypadku osób, które zamierzają uprawiać płetwonurkowanie.  
+  > 7. Okresowe badania lekarskie dzieci i młodzieży do 21. roku życia oraz zawodników pomiędzy 21. a kiem życia przeprowadza się:  
+  > 1) co roku:  
+  > a) pomiary antropometryczne, b) ogólne badanie lekarskie wraz z oceną stanu uzębienia i oceną ostrości wzroku przy pomocy tablic Snellena, c) badanie ortopedyczne, d) badanie elektrokardiograficzne 12-odprowadzeniowe z opisem, e) badanie ogólne moczu, f) morfologię krwi obwodowej z wzorem odsetkowym, g) oznaczenie stężenia glukozy w surowicy krwi;  
+  > 2) co dwa lata:  
+  > a) konsultację neurologiczną – w przypadku osób, które zamierzają uprawiać sporty walki, b) badanie spirometryczne – w przypadku osób, które zamierzają uprawiać płetwonurkowanie;  
+  > 3) dodatkowo co 6 miesięcy – w przypadku badań, o których mowa w pkt 1 lit. a–c, u zawodników do ukończenia 16. roku życia, jeśli wymaga tego ich stan zdrowia lub specyfika współzawodnictwa sportowego. Okresowe badania lekarskie przeprowadza się przed upływem terminu ważności orzeczenia lekarskiego o zdolności do uprawiania danego sportu.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

@@ -27,11 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie organizacji roku szkolnego w publicznych szkołach i placówkach artystycznych Na podstawie art. 53 ust. 5 i art. 47 ust. 1 pkt 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r.
 poz. 996, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 20 listopada 2017 r. w sprawie organizacji roku szkolnego w publicznych szkołach i placówkach artystycznych (Dz. U. poz. 2199 oraz z 2019 r. poz. 1033) wprowadza się następujące zmiany:
-1) w § 1:
-a) w ust. 1 dodaje się zdanie trzecie w brzmieniu: „Jeżeli czwartek bezpośrednio poprzedzający najbliższy piątek po dniu 20 czerwca jest dniem ustawowo wolnym od pracy, zajęcia dydaktyczno-wychowawcze kończą się w środę poprzedzającą ten dzień.”,
-b) ust. 2 otrzymuje brzmienie: „2. W klasach programowo najwyższych ogólnokształcących szkół muzycznych I stopnia zajęcia dydaktyczno-wychowawcze kończą się w środę bezpośrednio poprzedzającą zakończenie rocznych zajęć dydaktyczno-wychowawczych, a w przypadku, o którym mowa w ust. 1 w zdaniu trzecim – w środę bezpośrednio poprzedzającą dzień ustawowo wolny od pracy.”;
-2) w § 2 pkt 4 otrzymuje brzmienie: „4) ferie letnie rozpoczynają się w dniu następującym po dniu zakończenia rocznych zajęć dydaktyczno-wychowawczych i kończą się z dniem 31 sierpnia.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 20 listopada 2017 r. w sprawie organizacji roku szkolnego w publicznych szkołach i placówkach artystycznych (Dz. U. poz. 2199 oraz z 2019 r. poz. 1033) wprowadza się następujące zmiany:
+
+- **1)** w § 1:
+    - **a)** w ust. 1 dodaje się zdanie trzecie w brzmieniu: „Jeżeli czwartek bezpośrednio poprzedzający najbliższy piątek po dniu 20 czerwca jest dniem ustawowo wolnym od pracy, zajęcia dydaktyczno-wychowawcze kończą się w środę poprzedzającą ten dzień.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. W klasach programowo najwyższych ogólnokształcących szkół muzycznych I stopnia zajęcia dydaktyczno-wychowawcze kończą się w środę bezpośrednio poprzedzającą zakończenie rocznych zajęć dydaktyczno-wychowawczych, a w przypadku, o którym mowa w ust. 1 w zdaniu trzecim – w środę bezpośrednio poprzedzającą dzień ustawowo wolny od pracy.”;
+
+- **2)** w § 2 pkt 4 otrzymuje brzmienie: „4) ferie letnie rozpoczynają się w dniu następującym po dniu zakończenia rocznych zajęć dydaktyczno-wychowawczych i kończą się z dniem 31 sierpnia.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

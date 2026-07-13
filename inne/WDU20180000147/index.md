@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000147) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/147/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych Na podstawie art. 130 ust. 8 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089 oraz z 2018 r. poz. 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 sierpnia 2013 r.
-w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. z 2016 r. poz. 912) w § 4 w ust. 5 pkt 6 otrzymuje brzmienie: „6) potwierdzoną za zgodność z oryginałem kopię sprawozdania z badania sprawozdania finansowego za rok obrotowy, którego dotyczy rozliczenie kosztów rzeczywistych za loty, o których mowa w art. 130 ust. 6 pkt 1 i 2 ustawy;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury i Budownictwa: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 13 sierpnia 2013 r. w sprawie sposobu i trybu rozliczania i dokumentowania kosztów związanych z zapewnieniem służb żeglugi powietrznej za loty zwolnione z opłat nawigacyjnych (Dz. U. z 2016 r. poz. 912) w § 4 w ust. 5 pkt 6 otrzymuje brzmienie: „6) potwierdzoną za zgodność z oryginałem kopię sprawozdania z badania sprawozdania finansowego za rok obrotowy, którego dotyczy rozliczenie kosztów rzeczywistych za loty, o których mowa w art. 130 ust. 6 pkt 1 i 2 ustawy;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury i Budownictwa: A. Adamczyk
 

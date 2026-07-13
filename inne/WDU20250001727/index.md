@@ -30,50 +30,80 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 17 lipca 2024 r. zmieniającego rozporządzenie w sprawie świadectw zdolności żeglugowej (Dz. U. poz. 1088), które stanowią: „ § 2. 1. W postępowaniach w sprawie przedłużenia terminu ważności świadectwa zdolności żeglugowej oraz uproszczonego świadectwa zdolności żeglugowej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, przedłużenia dokonuje się przez wydanie odpowiednio świadectwa zdolności żeglugowej albo uproszczonego świadectwa zdolności żeglugowej zgodnych ze wzorami określonymi w załącznikach nr 1 i 2 do rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem. 2. W postępowaniach w sprawie dokonywania zmian w świadectwie zdolności żeglugowej oraz uproszczonym świadectwie zdolności żeglugowej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, dyrektor urzędu żeglugi śródlądowej dokonuje zmian przez wydanie odpowiednio świadectwa zdolności żeglugowej albo uproszczonego świadectwa zdolności żeglugowej zgodnych ze wzorami określonymi w załącznikach nr 1 i 2 do rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem. § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Infrastruktury: wz. A. Marchewka 1) Minister Infrastruktury kieruje działem administracji rządowej – żegluga śródlądowa, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). Załącznik do obwieszczenia Ministra Infrastruktury z dnia 7 listopada 2025 r. (Dz. U. poz. 1727)
 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY 1) z dnia 5 listopada 2010 r.
 w sprawie świadectw zdolności żeglugowej Na podstawie art. 34l ust. 2 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2025 r. poz. 18) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzory świadectwa zdolności żeglugowej i uproszczonego świadectwa zdolności żeglugowej, tryb ich wydawania, przedłużania terminu ważności, cofania i dokonywania w nich zmian;
-2) terminy, na jakie wydaje się świadectwa, o których mowa w pkt 1, w zależności od rodzajów statków.
-§ 2. 1. Wzór świadectwa zdolności żeglugowej określa załącznik nr 1 do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzory świadectwa zdolności żeglugowej i uproszczonego świadectwa zdolności żeglugowej, tryb ich wydawania, przedłużania terminu ważności, cofania i dokonywania w nich zmian;
+- **2)** terminy, na jakie wydaje się świadectwa, o których mowa w pkt 1, w zależności od rodzajów statków.
+
+**§ 2.**
+
+1. Wzór świadectwa zdolności żeglugowej określa załącznik nr 1 do rozporządzenia.
+
 2. Wzór uproszczonego świadectwa zdolności żeglugowej określa załącznik nr 2 do rozporządzenia.
-§ 3. 1. Wniosek o wydanie świadectwa zdolności żeglugowej powinien zawierać:
-1) nazwę statku lub numer identyfikacyjny;
-2) rodzaj statku;
-3) nazwę i adres armatora;
-4) miejsce rejestracji i numer rejestracyjny statku;
-5) port macierzysty statku;
-6) rok i miejsce budowy statku;
-7) nazwę stoczni i numer budowy.
+
+**§ 3.**
+
+1. Wniosek o wydanie świadectwa zdolności żeglugowej powinien zawierać:
+
+- **1)** nazwę statku lub numer identyfikacyjny;
+- **2)** rodzaj statku;
+- **3)** nazwę i adres armatora;
+- **4)** miejsce rejestracji i numer rejestracyjny statku;
+- **5)** port macierzysty statku;
+- **6)** rok i miejsce budowy statku;
+- **7)** nazwę stoczni i numer budowy.
+
 2. We wniosku wskazuje się również rejon pływania, w którym statek będzie uprawiał żeglugę, z uwzględnieniem wysokości fali, jaka może występować na wodach tego rejonu.
+
 3. Do wniosku załącza się dokumenty, o których mowa w art. 34k ust. 1 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej, zwanej dalej „ustawą”.
-§ 4. W przypadku statków, o których mowa w art. 34k ust. 2 ustawy, przed wydaniem świadectwa zdolności żeglugowej dyrektor urzędu żeglugi śródlądowej wyznacza miejsce i czas przedstawienia statku do inspekcji mającej na celu sprawdzenie: 2)
-1) stanu opisanego w dokumentach stanowiących podstawę do wydania świadectwa ze stanem faktycznym;
-2) zgodności wyposażenia statku z wymaganiami określonymi w przepisach wydanych na podstawie art. 34j ust. 5 ustawy.
-§ 5. Świadectwo zdolności żeglugowej wydaje się na okres nie dłuższy niż:
-1) 5 lat – dla statku o napędzie mechanicznym, niezależnie od jego rodzaju, w szczególności przeznaczonego do przewozu ładunków, o nośności nie mniejszej niż 15 t, używanego do przewozu ponad 12 pasażerów, holowników lub pchaczy – innych niż określone w art. 30 ustawy – oraz dla statków wykonujących przewozy międzybrzegowe;
-2) 10 lat – dla statku bez napędu mechanicznego, niezależnie od jego rodzaju, w szczególności przeznaczonego do przewozu ładunków lub pasażerów.
-1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – żegluga śródlądowa kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r.
-w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
-2) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 17 lipca 2024 r.
-zmieniającego rozporządzenie w sprawie świadectw zdolności żeglugowej (Dz. U. poz. 1088), które weszło w życie z dniem 23 lipca 2024 r.
-§ 6. 1. Wniosek o przedłużenie terminu ważności świadectwa zdolności żeglugowej powinien zawierać:
-1) nazwę statku lub numer identyfikacyjny;
-2) rodzaj statku;
-3) nazwę i adres armatora;
-4) miejsce rejestracji i numer rejestracyjny statku.
+
+**§ 4.** W przypadku statków, o których mowa w art. 34k ust. 2 ustawy, przed wydaniem świadectwa zdolności żeglugowej dyrektor urzędu żeglugi śródlądowej wyznacza miejsce i czas przedstawienia statku do inspekcji mającej na celu sprawdzenie: 2)
+
+- **1)** stanu opisanego w dokumentach stanowiących podstawę do wydania świadectwa ze stanem faktycznym;
+- **2)** zgodności wyposażenia statku z wymaganiami określonymi w przepisach wydanych na podstawie art. 34j ust. 5 ustawy.
+
+**§ 5.** Świadectwo zdolności żeglugowej wydaje się na okres nie dłuższy niż:
+
+- **1)** 5 lat – dla statku o napędzie mechanicznym, niezależnie od jego rodzaju, w szczególności przeznaczonego do przewozu ładunków, o nośności nie mniejszej niż 15 t, używanego do przewozu ponad 12 pasażerów, holowników lub pchaczy – innych niż określone w art. 30 ustawy – oraz dla statków wykonujących przewozy międzybrzegowe;
+- **2)** 10 lat – dla statku bez napędu mechanicznego, niezależnie od jego rodzaju, w szczególności przeznaczonego do przewozu ładunków lub pasażerów.
+- **1)** Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – żegluga śródlądowa kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+- **2)** Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Infrastruktury z dnia 17 lipca 2024 r. zmieniającego rozporządzenie w sprawie świadectw zdolności żeglugowej (Dz. U. poz. 1088), które weszło w życie z dniem 23 lipca 2024 r.
+
+**§ 6.**
+
+1. Wniosek o przedłużenie terminu ważności świadectwa zdolności żeglugowej powinien zawierać:
+
+- **1)** nazwę statku lub numer identyfikacyjny;
+- **2)** rodzaj statku;
+- **3)** nazwę i adres armatora;
+- **4)** miejsce rejestracji i numer rejestracyjny statku.
+
 2. Do wniosku załącza się świadectwo zdolności żeglugowej oraz dokumenty, o których mowa w art. 34k ust. 1 ustawy.
-§ 7. 1. Wniosek o dokonanie zmiany w świadectwie zdolności żeglugowej powinien zawierać:
-1) nazwę statku lub numer identyfikacyjny;
-2) rodzaj statku;
-3) nazwę i adres armatora;
-4) miejsce rejestracji i numer rejestracyjny statku.
+
+**§ 7.**
+
+1. Wniosek o dokonanie zmiany w świadectwie zdolności żeglugowej powinien zawierać:
+
+- **1)** nazwę statku lub numer identyfikacyjny;
+- **2)** rodzaj statku;
+- **3)** nazwę i adres armatora;
+- **4)** miejsce rejestracji i numer rejestracyjny statku.
+
 2. We wniosku wskazuje się również pozycję, której zmiana dotyczy, i przyczynę dokonania zmiany w świadectwie zdolności żeglugowej.
+
 3. Do wniosku załącza się świadectwo zdolności żeglugowej.
-§ 8. Zmian w świadectwie zdolności żeglugowej dokonuje się przez skreślenie dotychczasowej pozycji i wpisanie nowego brzmienia tej pozycji.
-§ 9. Świadectwo zdolności żeglugowej cofa się zgodnie z art. 34n ust. 3 ustawy.
-§ 10. Przepisy § 3–9 stosuje się odpowiednio w sprawie wydawania, przedłużania terminu ważności i cofania uproszczonego świadectwa zdolności żeglugowej oraz dokonywania w nim zmian.
-§ 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) . 4)
-3) Rozporządzenie zostało ogłoszone w dniu 17 listopada 2010 r.
-4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 12 lipca 2002 r. w sprawie świadectw zdolności żeglugowej statków żeglugi śródlądowej (Dz. U. poz. 1156).
+
+**§ 8.** Zmian w świadectwie zdolności żeglugowej dokonuje się przez skreślenie dotychczasowej pozycji i wpisanie nowego brzmienia tej pozycji.
+
+**§ 9.** Świadectwo zdolności żeglugowej cofa się zgodnie z art. 34n ust. 3 ustawy.
+
+**§ 10.** Przepisy § 3–9 stosuje się odpowiednio w sprawie wydawania, przedłużania terminu ważności i cofania uproszczonego świadectwa zdolności żeglugowej oraz dokonywania w nim zmian.
+
+**§ 11.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia 3) . 4)
+
+- **3)** Rozporządzenie zostało ogłoszone w dniu 17 listopada 2010 r.
+- **4)** Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 12 lipca 2002 r. w sprawie świadectw zdolności żeglugowej statków żeglugi śródlądowej (Dz. U. poz. 1156).
 
 ## Załączniki do rozporządzenia Ministra Infrastruktury z dnia Załączniki 5 listopada 2010 do rozporządzenia r. (Dz. U. z 2025 r. poz. 1727) Ministra Infrastruktury z dnia 5 listopada 2010 r.
 

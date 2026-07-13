@@ -26,11 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1016/text.pdf) |
 
 w sprawie listy załogi statku Na podstawie art. 36 ust. 6 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. poz. 1569) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wzór listy załogi statku oraz sposób jej wystawiania i dokonywania w niej wpisów.
-§ 2. Listę załogi statku, zwaną dalej „listą załogi”, wystawia się na każdą podróż morską.
-§ 3. Wzór listy załogi określa załącznik do rozporządzenia.
-§ 4. Lista załogi jest wystawiana zgodnie z przepisami wydanymi na podstawie art. 108 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281).
-§ 5. Wpisy na liście załogi są dokonywane w języku polskim lub angielskim.
-§ 6. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Załącznik do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 5 lipca 2016 r. (poz. …) Wzór WZÓR
+
+**§ 1.** Rozporządzenie określa wzór listy załogi statku oraz sposób jej wystawiania i dokonywania w niej wpisów.
+
+**§ 2.** Listę załogi statku, zwaną dalej „listą załogi”, wystawia się na każdą podróż morską.
+
+**§ 3.** Wzór listy załogi określa załącznik do rozporządzenia.
+
+**§ 4.** Lista załogi jest wystawiana zgodnie z przepisami wydanymi na podstawie art. 108 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281).
+
+**§ 5.** Wpisy na liście załogi są dokonywane w języku polskim lub angielskim.
+
+**§ 6.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Załącznik do rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 5 lipca 2016 r. (poz. …) Wzór WZÓR
 

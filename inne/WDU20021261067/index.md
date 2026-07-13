@@ -33,7 +33,10 @@ source: pdf
 - **2)** w art. 5:
     - **a)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1)w przypadku zakładów (oddziałów) osób prawnych oraz innych wyodrębnionych jednostek wewnętrznych będących podatnikami - NIP oraz inne dane dotyczące jednostki macierzystej, 2) w przypadku spółek cywilnych, jawnych, partnerskich, komandytowych oraz komandytowo-akcyjnych - dane dotyczące wspólników, w tym również NIP nadany poszczególnym wspólnikom,”,
     - **b)** w ust. 4 skreśla się wyrazy „ ; informacje zawierają dane, o których mowa w ust. 3”,
-    - **c)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. W przypadku dokonywania zgłoszenia identyfikacyjnego przez pełnomocnika lub kuratora sądowego do zgłoszenia dołącza się uwierzytelnioną lub poświadczoną urzędowo kopię pełnomocnictwa lub postanowienia sądu. W przypadku udzielenia pełnomocnictwa wyłącznie do dokonania zgłoszenia identyfikacyjnego do zgłoszenia dołącza się oryginał pełnomocnictwa. 4b. Podatnicy prowadzący działalność gospodarczą dołączają do zgłoszenia identyfikacyjnego uwierzytelnione lub urzędowo poświadczone kopie dokumentów potwierdzających informacje objęte zgłoszeniem, w szczególności: wypisu z Krajowego Rejestru Sądowego, umowy spółki, dokumentu potwierdzającego uprawnienie do korzystania z lokalu lub nieruchomości, w których znajduje się siedziba, zaświadczenia o numerze identyfikacyjnym REGON, prokury.”,
+    - **c)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu:
+
+      > „4a. W przypadku dokonywania zgłoszenia identyfikacyjnego przez pełnomocnika lub kuratora sądowego do zgłoszenia dołącza się uwierzytelnioną lub poświadczoną urzędowo kopię pełnomocnictwa lub postanowienia sądu. W przypadku udzielenia pełnomocnictwa wyłącznie do dokonania zgłoszenia identyfikacyjnego do zgłoszenia dołącza się oryginał pełnomocnictwa.  
+      > 4b. Podatnicy prowadzący działalność gospodarczą dołączają do zgłoszenia identyfikacyjnego uwierzytelnione lub urzędowo poświadczone kopie dokumentów potwierdzających informacje objęte zgłoszeniem, w szczególności: wypisu z Krajowego Rejestru Sądowego, umowy spółki, dokumentu potwierdzającego uprawnienie do korzystania z lokalu lub nieruchomości, w których znajduje się siedziba, zaświadczenia o numerze identyfikacyjnym REGON, prokury.”,  
     - **d)** w ust. 6 po wyrazach „ust. 1-4” dodaje się wyrazy „oraz ust. 4a i 4b”;
 
 - **3)** w art. 6: 1150 i Nr 122, poz. 1324 oraz z 2002 r. Nr 19, poz. 185, Nr 41, poz. 365 i Nr 86, poz. 794”,
@@ -47,9 +50,15 @@ source: pdf
     - **d)** w ust. 5 wyrazy „30 dni” zastępuje się wyrazami „14 dni”;
 
 - **5)** w art. 9:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Podatnicy mają obowiązek aktualizowania danych objętych zgłoszeniem identyfikacyjnym przez dokonanie zgłoszenia aktualizacyjnego we właściwym urzędzie skarbowym określonym w art. 4: 1) wymienieni w art. 6 ust. 1 - nie później niż w terminie 14 dni od dnia, w którym nastąpiła zmiana danych, 2) wymienieni w art. 6 ust. 2-7 - nie później niż w terminie 30 dni od dnia, w którym nastąpiła zmiana danych, z zastrzeżeniem ust. 1a, 3) wymienieni w art. 6 ust. 8 - wraz ze złożeniem pierwszej w roku podatkowym deklaracji podatkowej lub w terminie dokonania pierwszej w roku podatkowym wpłaty podatku.”,
+    - **a)** ust. 1 otrzymuje brzmienie:
+
+      > „1. Podatnicy mają obowiązek aktualizowania danych objętych zgłoszeniem identyfikacyjnym przez dokonanie zgłoszenia aktualizacyjnego we właściwym urzędzie skarbowym określonym w art. 4:  
+      > 1) wymienieni w art. 6 ust. 1 - nie później niż w terminie 14 dni od dnia, w którym nastąpiła zmiana danych, 2) wymienieni w art. 6 ust. 2-7 - nie później niż w terminie 30 dni od dnia, w którym nastąpiła zmiana danych, z zastrzeżeniem ust. 1a, 3) wymienieni w art. 6 ust. 8 - wraz ze złożeniem pierwszej w roku podatkowym deklaracji podatkowej lub w terminie dokonania pierwszej w roku podatkowym wpłaty podatku.”,  
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku podatników podatku dochodowego od osób fizycznych, dla których płatnikiem jest organ emerytalny lub rentowy, podatnik dokonuje zgłoszenia aktualizacyjnego za pośrednictwem płatnika, który jest obowiązany przekazać zgłoszenie urzędowi skarbowemu właściwemu dla podatnika w terminie 14 dni od dnia złożenia przez podatnika tego zgłoszenia.”,
-    - **c)** ust. 6 otrzymuje brzmienie: „6. Do aktualizacji danych objętych zgłoszeniem identyfikacyjnym stosuje się odpowiednio: 1) przepisy art. 5 ust. 4a i 4b, 2) wzory formularzy zgłoszeń identyfikacyjnych ustalone na podstawie art. 5 ust. 5.”;
+    - **c)** ust. 6 otrzymuje brzmienie:
+
+      > „6. Do aktualizacji danych objętych zgłoszeniem identyfikacyjnym stosuje się odpowiednio:  
+      > 1) przepisy art. 5 ust. 4a i 4b, 2) wzory formularzy zgłoszeń identyfikacyjnych ustalone na podstawie art. 5 ust. 5.”;  
 
 - **6)** w art. 10 w ust. 2:
     - **a)** skreśla się pkt 2,

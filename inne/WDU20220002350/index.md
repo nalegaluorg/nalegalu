@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowego trybu i sposobu doręczania pism sądowych w postępowaniu cywilnym Na podstawie art. 131 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r.
 poz. 1805, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 6 maja 2020 r. w sprawie szczegółowego trybu i sposobu doręczania pism sądowych w postępowaniu cywilnym (Dz. U. poz. 819) w § 2 ust. 5 otrzymuje brzmienie: „5. Pokwitowania nadania przesyłki można dokonać w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego służącego do obsługi elektronicznej książki nadawczej. Pokwitowanie zawiera informację o numerze nadawczym przesyłki oraz, w razie potrzeby, inne dane pozwalające zidentyfikować przesyłkę, w tym dane o placówce pocztowej, w której nadano przesyłkę. W takim przypadku sporządzenie wykazu, o którym mowa w ust. 4, nie jest wymagane.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 6 maja 2020 r. w sprawie szczegółowego trybu i sposobu doręczania pism sądowych w postępowaniu cywilnym (Dz. U. poz. 819) w § 2 ust. 5 otrzymuje brzmienie: „5. Pokwitowania nadania przesyłki można dokonać w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego służącego do obsługi elektronicznej książki nadawczej. Pokwitowanie zawiera informację o numerze nadawczym przesyłki oraz, w razie potrzeby, inne dane pozwalające zidentyfikować przesyłkę, w tym dane o placówce pocztowej, w której nadano przesyłkę. W takim przypadku sporządzenie wykazu, o którym mowa w ust. 4, nie jest wymagane.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

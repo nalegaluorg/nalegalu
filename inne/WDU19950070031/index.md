@@ -44,7 +44,11 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. W zakresie nie unormowanym w przepisach, jeżeli jest to niezbędne do ochrony życia, zdrowia lub mienia albo ochrony środowiska morskiego na morzu, w porcie, przystani oraz w pasie technicznym dyrektor urzędu morskiego może ustanawiać w zakresie określonym w art. 42 ust. 2 przepisy porządkowe zawierające zakazy lub nakazy określonego zachowania się.”,
     - **b)** ust. 3 skreśla się;
 
-- **7)** po art. 48 dodaje się art. 48a w brzmieniu: „Art. 48a. 1. Nadzór nad wydawaniem przepisów przez terenowe organy administracji morskiej sprawuje Minister Transportu i Gospodarki Morskiej. 2. W ramach nadzoru, o którym mowa w ust. 1, Minister Transportu i Gospodarki Morskiej uchyla przepisy wydawane przez dyrektorów urzędów morskich niezgodne z ustawami oraz aktami wydanymi w celu ich wykonania.”;
+- **7)** po art. 48 dodaje się art. 48a w brzmieniu:
+
+  > „Art. 48a.  
+  > 1. Nadzór nad wydawaniem przepisów przez terenowe organy administracji morskiej sprawuje Minister Transportu i Gospodarki Morskiej.  
+  > 2. W ramach nadzoru, o którym mowa w ust. 1, Minister Transportu i Gospodarki Morskiej uchyla przepisy wydawane przez dyrektorów urzędów morskich niezgodne z ustawami oraz aktami wydanymi w celu ich wykonania.”;  
 - **8)** art. 49 otrzymuje brzmienie: „Art. 49. Nadzór nad przestrzeganiem przepisów ustawy sprawują na obszarze swego działania dyrektorzy urzędów morskich.”;
 - **9)** w art. 50 w ust. 1 po wyrazach „w art. 42” dodaje się wyrazy „ust. 2 pkt 1-6 i pkt 9”;
 - **10)** w art. 56 wyraz „dziesięciokrotnego” zastępuje się wyrazem „dwudziestokrotnego”.

@@ -30,12 +30,15 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 sierpnia 2024 r. zmieniającego rozporządzenie w sprawie szczegółowych informacji zawartych w wykazie producentów roślin, którzy spełniają wymagania integrowanej produkcji roślin (Dz. U. poz. 1313), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 23 czerwca 2023 r.
 w sprawie szczegółowych informacji zawartych w wykazie producentów roślin, którzy spełniają wymagania integrowanej produkcji roślin Na podstawie art. 60 ust. 6 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630) zarządza się, co następuje:
-§ 1. Wykaz producentów roślin, o którym mowa w art. 60 ust. 1 pkt 2a ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin, zawiera następujące szczegółowe informacje, niestanowiące danych osobowych:
-1) nazwę gatunkową uprawianej rośliny;
-2) powierzchnię, na której w danym roku jest uprawiana albo była uprawiana roślina, o której mowa w pkt 1;
-2a) identyfikator działki ewidencyjnej, o którym mowa w § 16 ust. 1 pkt 1 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków (Dz. U. z 2024 r. poz. 219 i 1954), dotyczący działki ewidencyjnej, na której w danym roku jest uprawiana albo była uprawiana roślina, o której mowa w pkt 1;
-3) wskazanie, że dla rośliny, o której mowa w pkt 1, certyfikacja:
-a) została zakończona i został wydany certyfikat poświadczający stosowanie przy uprawie tej rośliny integrowanej produkcji roślin albo
-b) nie została zakończona i nie został wydany certyfikat poświadczający stosowanie przy uprawie tej rośliny integrowanej produkcji roślin.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Wykaz producentów roślin, o którym mowa w art. 60 ust. 1 pkt 2a ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin, zawiera następujące szczegółowe informacje, niestanowiące danych osobowych:
+
+- **1)** nazwę gatunkową uprawianej rośliny;
+- **2)** powierzchnię, na której w danym roku jest uprawiana albo była uprawiana roślina, o której mowa w pkt 1;
+- **2a)** identyfikator działki ewidencyjnej, o którym mowa w § 16 ust. 1 pkt 1 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków (Dz. U. z 2024 r. poz. 219 i 1954), dotyczący działki ewidencyjnej, na której w danym roku jest uprawiana albo była uprawiana roślina, o której mowa w pkt 1;
+- **3)** wskazanie, że dla rośliny, o której mowa w pkt 1, certyfikacja:
+    - **a)** została zakończona i został wydany certyfikat poświadczający stosowanie przy uprawie tej rośliny integrowanej produkcji roślin albo
+    - **b)** nie została zakończona i nie został wydany certyfikat poświadczający stosowanie przy uprawie tej rośliny integrowanej produkcji roślin.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

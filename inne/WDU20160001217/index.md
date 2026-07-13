@@ -26,18 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001217) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1217/text.pdf) |
 
 w sprawie wzoru wniosku o udzielenie lub zmianę koncesji na wykonywanie działalności gospodarczej w zakresie usług ochrony osób i mienia Na podstawie art. 17 ust. 8 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2014 r. poz. 1099, z 2015 r. poz. 1505 oraz z 2016 r. poz. 65 i 904) zarządza się, co następuje:
-§ 1. 1. Określa się wzór wniosku o udzielenie lub zmianę koncesji na wykonywanie działalności gospodarczej w zakresie usług ochrony osób i mienia, składanego do organu koncesyjnego przez przedsiębiorcę.
-2. Wzór wniosku jest określony w załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak WZÓR WNIOSKU O UDZIELENIE LUB ZMIANĘ KONCESJI NA WYKONYWANIE DZIAŁALNOŚCI GOSPODARCZEJ W ZAKRESIE USŁUG OCHRONY OSÓB I MIENIA WNIOSEK O UDZIELENIE (CZĘŚĆ A) LUB ZMIANĘ (CZĘŚĆ B) KONCESJI NA WYKONYWANIE DZIAŁALNOŚCI GOSPODARCZEJ W ZAKRESIE USŁUG OCHRONY OSÓB I MIENIA POUCZENIE:
-1. Wniosek należy wypełnić pismem drukowanym.
-2. Składając wniosek o udzielenie koncesji, przedsiębiorca wypełnia wszystkie rubryki w części oznaczonej literą A oraz ostatnią stronę wniosku, na której składa podpis (str. 10 formularza wniosku).
-3. Składając wniosek o zmianę koncesji, przedsiębiorca wypełnia:
-1) rubryki w części oznaczonej literą B dotyczące firmy przedsiębiorcy, numeru identyfikacji podatkowej (NIP), numeru w Rejestrze Przedsiębiorców Krajowego Rejestru Sądowego (KRS) – w przypadku przedsiębiorcy innego niż osoba fizyczna oraz odnoszące się do danych zawartych w koncesji podlegających zmianie;
-2) ostatnią stronę wniosku, na której składa podpis (str. 10 formularza wniosku).
-4. Załączniki do wniosku należy złożyć w oryginale, poświadczonych kopiach lub poświadczonych tłumaczeniach, zgodnie z art. 17 ust. 1a ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia.
-Informacja o wysokości opłaty skarbowej za udzielenie lub zmianę koncesji oraz numer konta, na który należy wnieść opłatę, są udostępnione na stronie internetowej Ministerstwa Spraw Wewnętrznych i Administracji www.mswia.gov.pl. Do wniosku należy dołączyć oryginał dowodu wniesienia należnej opłaty skarbowej. Dokument wygenerowany elektronicznie potwierdzający dokonanie zapłaty należnej opłaty skarbowej nie wymaga stempla i podpisu.
-A . O UDZIELENIE KONCESJI B . O ZMIANĘ KONCESJI Z DNIA NR .
 1. PRZEDSIĘBIORCA BĘDĄCY OSOBĄ FIZYCZNĄ WPISANY DO CENTRALNEJ EWIDENCJI I INFORMACJI O DZIAŁALNOŚCI GOSPODARCZEJ
 2. PRZEDSIĘBIORCA INNY NIŻ OSOBA FIZYCZNA WPISANY DO REJESTRU PRZEDSIĘBIORCÓW KRAJOWEGO REJESTRU SĄDOWEGO
 1. PRZEDSIĘBIORCA BĘDĄCY OSOBĄ FIZYCZNĄ FIRMA PRZEDSIĘBIORCY ZGODNA Z WPISEM DO CENTRALNEJ EWIDENCJI I INFORMACJI O DZIAŁALNOŚCI GOSPODARCZEJ NUMER IDENTYFIKACJI PODATKOWEJ ADRES ZAMIESZKANIA
@@ -114,6 +102,19 @@ pełnomocnik ustanowiony w celu kierowania działalnością określoną w konces
 3) poświadczone fałszywych zeznań; tłumaczenie zaświadczenia o niekaralności przedsiębiorcy oraz osób innych niż
 3) poświadczone wymienione w pkt tłumaczenie 2. zaświadczenia o niekaralności przedsiębiorcy oraz osób innych niż wymienione w pkt 2.
 MIEJSCOWOŚĆ DATA (dzień, miesiąc, rok) MIEJSCOWOŚĆ DATA (dzień, miesiąc, rok) Prawdziwość danych zawartych we wniosku potwierdzam: Prawdziwość danych zawartych we wniosku potwierdzam:
+
+**§ 1.**
+
+1. Określa się wzór wniosku o udzielenie lub zmianę koncesji na wykonywanie działalności gospodarczej w zakresie usług ochrony osób i mienia, składanego do organu koncesyjnego przez przedsiębiorcę.
+
+2. Wzór wniosku jest określony w załączniku do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak WZÓR WNIOSKU O UDZIELENIE LUB ZMIANĘ KONCESJI NA WYKONYWANIE DZIAŁALNOŚCI GOSPODARCZEJ W ZAKRESIE USŁUG OCHRONY OSÓB I MIENIA WNIOSEK O UDZIELENIE (CZĘŚĆ A) LUB ZMIANĘ (CZĘŚĆ B) KONCESJI NA WYKONYWANIE DZIAŁALNOŚCI GOSPODARCZEJ W ZAKRESIE USŁUG OCHRONY OSÓB I MIENIA POUCZENIE: 1. Wniosek należy wypełnić pismem drukowanym. 2. Składając wniosek o udzielenie koncesji, przedsiębiorca wypełnia wszystkie rubryki w części oznaczonej literą A oraz ostatnią stronę wniosku, na której składa podpis (str. 10 formularza wniosku). 3. Składając wniosek o zmianę koncesji, przedsiębiorca wypełnia:
+
+- **1)** rubryki w części oznaczonej literą B dotyczące firmy przedsiębiorcy, numeru identyfikacji podatkowej (NIP), numeru w Rejestrze Przedsiębiorców Krajowego Rejestru Sądowego (KRS) – w przypadku przedsiębiorcy innego niż osoba fizyczna oraz odnoszące się do danych zawartych w koncesji podlegających zmianie;
+- **2)** ostatnią stronę wniosku, na której składa podpis (str. 10 formularza wniosku).
+
+4. Załączniki do wniosku należy złożyć w oryginale, poświadczonych kopiach lub poświadczonych tłumaczeniach, zgodnie z art. 17 ust. 1a ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia. Informacja o wysokości opłaty skarbowej za udzielenie lub zmianę koncesji oraz numer konta, na który należy wnieść opłatę, są udostępnione na stronie internetowej Ministerstwa Spraw Wewnętrznych i Administracji www.mswia.gov.pl. Do wniosku należy dołączyć oryginał dowodu wniesienia należnej opłaty skarbowej. Dokument wygenerowany elektronicznie potwierdzający dokonanie zapłaty należnej opłaty skarbowej nie wymaga stempla i podpisu. A . O UDZIELENIE KONCESJI B . O ZMIANĘ KONCESJI Z DNIA NR .
 
 ## CZĘŚĆ A – DOTYCZY UDZIELENIA KONCESJI I. PRZEDSIĘBIORCA FORMA PRAWNA PRZEDSIĘBIORCY
 

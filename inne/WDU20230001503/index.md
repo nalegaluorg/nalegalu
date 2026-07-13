@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie określenia priorytetowych dziedzin medycyny Na podstawie art. 16g ust. 4 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2022 r.
 poz. 1731, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 27 grudnia 2022 r. w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. poz. 2814) w § 1 po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) neurologia;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2023 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 27 grudnia 2022 r. w sprawie określenia priorytetowych dziedzin medycyny (Dz. U. poz. 2814) w § 1 po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) neurologia;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2023 r. Minister Zdrowia: A. Niedzielski
 

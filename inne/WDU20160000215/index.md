@@ -31,9 +31,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2015 r. poz. 1651, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
-STATUT BIESZCZADZKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W USTRZYKACH GÓRNYCH
+
+**§ 1.** Bieszczadzkiemu Parkowi Narodowemu z siedzibą w Ustrzykach Górnych nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia . STATUT BIESZCZADZKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W USTRZYKACH GÓRNYCH
+
+## Załącznik
+
 § 1. Bieszczadzki Park Narodowy z siedzibą w Ustrzykach Górnych, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2015 r. poz. 1651, z późn. zm.) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1) Dział Administracji i Gospodarowania Mieniem, w skład którego wchodzą:

@@ -36,7 +36,10 @@ source: pdf
     - **b)** uchyla się ust. 3,
     - **c)** dodaje się ust. 4 w brzmieniu: „4. Polski związek sportowy, Polski Komitet Olimpijski i Polski Komitet Paraolimpijski mają prawo do wykorzystania do swoich celów gospodarczych przedmiotów będących odwzorowaniem, odpowiednio, stroju reprezentacji kraju, stroju reprezentacji olimpijskiej lub stroju reprezentacji paraolimpijskiej, w zakresie wyznaczonym przez przepisy polskiego związku sportowego, przepisy międzynarodowej organizacji sportowej działającej w danym sporcie, do której należy polski związek sportowy, przepisy Międzynarodowego Komitetu Olimpijskiego lub przepisy Międzynarodowego Komitetu Paraolimpijskiego.”;
 
-- **2)** w art. 14 ust. 1 i 2 otrzymują brzmienie: „1. Członek kadry narodowej udostępnia, na zasadach wyłączności, swój wizerunek w stroju reprezentacji kraju polskiemu związkowi sportowemu, który jest uprawniony do wykorzystania tego wizerunku do swoich celów gospodarczych w zakresie wyznaczonym przez przepisy tego związku lub międzynarodowej organizacji sportowej działającej w danym sporcie. 2. Członek reprezentacji olimpijskiej udostępnia, na zasadach wyłączności, z chwilą powołania do reprezentacji olimpijskiej, swój wizerunek w stroju reprezentacji olimpijskiej Polskiemu Komitetowi Olimpijskiemu, który jest uprawniony do wykorzystania tego wizerunku do swoich celów gospodarczych w zakresie wyznaczonym przez swoje przepisy lub przepisy Międzynarodowego Komitetu Olimpijskiego.”.
+- **2)** w art. 14 ust. 1 i 2 otrzymują brzmienie:
+
+  > „1. Członek kadry narodowej udostępnia, na zasadach wyłączności, swój wizerunek w stroju reprezentacji kraju polskiemu związkowi sportowemu, który jest uprawniony do wykorzystania tego wizerunku do swoich celów gospodarczych w zakresie wyznaczonym przez przepisy tego związku lub międzynarodowej organizacji sportowej działającej w danym sporcie.  
+  > 2. Członek reprezentacji olimpijskiej udostępnia, na zasadach wyłączności, z chwilą powołania do reprezentacji olimpijskiej, swój wizerunek w stroju reprezentacji olimpijskiej Polskiemu Komitetowi Olimpijskiemu, który jest uprawniony do wykorzystania tego wizerunku do swoich celów gospodarczych w zakresie wyznaczonym przez swoje przepisy lub przepisy Międzynarodowego Komitetu Olimpijskiego.”.  
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

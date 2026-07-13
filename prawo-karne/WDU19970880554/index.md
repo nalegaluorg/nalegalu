@@ -182,7 +182,11 @@ source: pdf
 
 § 3. Uchyla się art. 144–146 oraz art. 147 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. Nr 78, poz. 462, z 1991 r. Nr 94, poz. 422, z 1992 r. Nr 54, poz. 254, z 1993 r. Nr 12, poz. 52, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz. 163 i Nr 104, poz. 515, z 1996 r. Nr 106, poz. 496 i Nr 124, poz. 583 oraz z 1997 r. Nr 28, poz. 153), a w ich miejsce wprowadza się przepis oznaczony jako art. 143a w brzmieniu: „Art. 143a. Przepisy art. 115 § 18 oraz art. 318 i 344 Kodeksu karnego mają odpowiednie zastosowanie do funkcjonariuszy Straży Granicznej.”.
 
-§ 4. Artykuł 116 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. Nr 88, poz. 400, z 1992 r. Nr 21, poz. 86 i Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17 i Nr 34, poz. 163, z 1996 r. Nr 106, poz. 496 i Nr 152, poz. 723 oraz z 1997 r. Nr 28, poz. 153) otrzymuje brzmienie: „Art. 116. 1. Przepisy art. 115 § 18 oraz art. 318 i 344 Kodeksu karnego mają odpowiednie zastosowanie do strażaków. 2. Za czyn stanowiący wykroczenie, popełniony w wyniku wykonania polecenia służbowego, strażak ponosi odpowiedzialność tylko dyscyplinarną, chyba że wykonując polecenie służbowe umyślnie popełnia wykroczenie.”.
+§ 4. Artykuł 116 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. Nr 88, poz. 400, z 1992 r. Nr 21, poz. 86 i Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17 i Nr 34, poz. 163, z 1996 r. Nr 106, poz. 496 i Nr 152, poz. 723 oraz z 1997 r. Nr 28, poz. 153) otrzymuje brzmienie:
+
+> „Art. 116.  
+> 1. Przepisy art. 115 § 18 oraz art. 318 i 344 Kodeksu karnego mają odpowiednie zastosowanie do strażaków.  
+> 2. Za czyn stanowiący wykroczenie, popełniony w wyniku wykonania polecenia służbowego, strażak ponosi odpowiedzialność tylko dyscyplinarną, chyba że wykonując polecenie służbowe umyślnie popełnia wykroczenie.”.  
 
 § 5. Uchyla się art. 59 ustawy z dnia 26 kwietnia 1996 r. o Służbie Więziennej (Dz. U. Nr 61, poz. 283 i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153), a w jego miejsce wprowadza się przepis oznaczony jako art. 58a w brzmieniu: „Art. 58a. Przepisy art. 115 § 18 oraz art. 318 i 344 Kodeksu karnego mają odpowiednie zastosowanie do funkcjonariuszy Służby Więziennej.”.
 

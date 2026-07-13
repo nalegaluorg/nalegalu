@@ -27,16 +27,21 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000136) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/136/text.pdf) |
 
 w sprawie szczegółowej zawartości Programu Ochrony Ludności i Obrony Cywilnej Na podstawie art. 156 ust. 6 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) zarządza się, co następuje:
-§ 1. 1. Program Ochrony Ludności i Obrony Cywilnej, zwany dalej „Programem”, zawiera:
-1) informację o okresie realizacji Programu;
-2) określenie planowanej wysokości corocznych środków przeznaczonych na finansowanie zadań z zakresu ochrony ludności i obrony cywilnej, o których mowa w art. 155 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, zwanej dalej „ustawą”, z podziałem na poszczególne lata realizacji Programu;
-3) wskazanie zadań ochrony ludności i obrony cywilnej, z uwzględnieniem:
-a) formy i zakresu realizacji poszczególnych zadań ochrony ludności i obrony cywilnej,
-b) formy i wysokości planowanych środków na realizację poszczególnych zadań ochrony ludności i obrony cywilnej, przy czym w przypadku zadań realizowanych w okresie dłuższym niż rok – z wyszczególnieniem podziału wysokości planowanych środków na kolejne lata realizacji zadania,
-c) podmiotów przekazujących środki, o których mowa w art. 155 ust. 2 ustawy, na realizację poszczególnych zadań ochrony ludności i obrony cywilnej,
-d) organów i podmiotów ochrony ludności realizujących poszczególne zadania ochrony ludności i obrony cywilnej,
-e) planowanego harmonogramu realizacji poszczególnych zadań ochrony ludności i obrony cywilnej, ze wskazaniem zadań priorytetowych.
+
+**§ 1.**
+
+1. Program Ochrony Ludności i Obrony Cywilnej, zwany dalej „Programem”, zawiera:
+
+- **1)** informację o okresie realizacji Programu;
+- **2)** określenie planowanej wysokości corocznych środków przeznaczonych na finansowanie zadań z zakresu ochrony ludności i obrony cywilnej, o których mowa w art. 155 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, zwanej dalej „ustawą”, z podziałem na poszczególne lata realizacji Programu;
+- **3)** wskazanie zadań ochrony ludności i obrony cywilnej, z uwzględnieniem:
+    - **a)** formy i zakresu realizacji poszczególnych zadań ochrony ludności i obrony cywilnej,
+    - **b)** formy i wysokości planowanych środków na realizację poszczególnych zadań ochrony ludności i obrony cywilnej, przy czym w przypadku zadań realizowanych w okresie dłuższym niż rok – z wyszczególnieniem podziału wysokości planowanych środków na kolejne lata realizacji zadania,
+    - **c)** podmiotów przekazujących środki, o których mowa w art. 155 ust. 2 ustawy, na realizację poszczególnych zadań ochrony ludności i obrony cywilnej,
+    - **d)** organów i podmiotów ochrony ludności realizujących poszczególne zadania ochrony ludności i obrony cywilnej,
+    - **e)** planowanego harmonogramu realizacji poszczególnych zadań ochrony ludności i obrony cywilnej, ze wskazaniem zadań priorytetowych.
+
 2. Program zawiera informację o planowanej kontynuacji realizacji określonego zadania ochrony ludności i obrony cywilnej, jeżeli jego realizacja wykracza poza okres realizacji danego Programu.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -26,33 +26,60 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000391) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/391/text.pdf) |
 
 w sprawie badań funkcjonariusza Służby Ochrony Państwa po powrocie do kraju z wykonywania zadań poza granicami Rzeczypospolitej Polskiej oraz kierowania go na turnus leczniczo-profilaktyczny Na podstawie art. 144a ust. 9 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2020 r. poz. 384) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) organ właściwy do kierowania funkcjonariusza Służby Ochrony Państwa, o którym mowa w art. 143 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, zwanej dalej „ustawą”, po powrocie do kraju, na badania lekarskie i psychologiczne, o których mowa w art. 144a ust. 1 ustawy, zwane dalej „badaniami”;
-2) zakres badań;
-3) podmiot właściwy do przeprowadzania badań;
-4) rodzaje i wzory dokumentów wystawianych po przeprowadzeniu badań;
-5) tryb kierowania funkcjonariusza Służby Ochrony Państwa, o którym mowa w art. 143 ust. 1 ustawy, zwanego dalej „funkcjonariuszem SOP”, wraz z pełnoletnim najbliższym członkiem rodziny na turnus leczniczo-profilaktyczny, zwany dalej „turnusem”;
-6) podmiot kierujący na turnus;
-7) ramowy program turnusu;
-8) podmiot prowadzący turnus;
-9) rodzaje i wzory dokumentów wystawianych w związku z kierowaniem na turnus.
-§ 2. Funkcjonariusza SOP na badania kieruje, po powrocie do kraju, Komendant Służby Ochrony Państwa, zwanej dalej „SOP”.
-§ 3. Zakres badań jest określony w załączniku nr 1 do rozporządzenia.
-§ 4. Badania przeprowadzają jednostki organizacyjne podmiotów leczniczych utworzonych i nadzorowanych przez ministra właściwego do spraw wewnętrznych, o których mowa w przepisach wydanych na podstawie art. 27 ust. 2 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2019 r. poz. 1175), albo inne podmioty lecznicze wykonujące zadania służby medycyny pracy na podstawie umowy zawartej z SOP.
-§ 5. 1. Badanie psychologiczne kończy się wydaniem przez psychologa informacji z badania psychologicznego.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** organ właściwy do kierowania funkcjonariusza Służby Ochrony Państwa, o którym mowa w art. 143 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, zwanej dalej „ustawą”, po powrocie do kraju, na badania lekarskie i psychologiczne, o których mowa w art. 144a ust. 1 ustawy, zwane dalej „badaniami”;
+- **2)** zakres badań;
+- **3)** podmiot właściwy do przeprowadzania badań;
+- **4)** rodzaje i wzory dokumentów wystawianych po przeprowadzeniu badań;
+- **5)** tryb kierowania funkcjonariusza Służby Ochrony Państwa, o którym mowa w art. 143 ust. 1 ustawy, zwanego dalej „funkcjonariuszem SOP”, wraz z pełnoletnim najbliższym członkiem rodziny na turnus leczniczo-profilaktyczny, zwany dalej „turnusem”;
+- **6)** podmiot kierujący na turnus;
+- **7)** ramowy program turnusu;
+- **8)** podmiot prowadzący turnus;
+- **9)** rodzaje i wzory dokumentów wystawianych w związku z kierowaniem na turnus.
+
+**§ 2.** Funkcjonariusza SOP na badania kieruje, po powrocie do kraju, Komendant Służby Ochrony Państwa, zwanej dalej „SOP”.
+
+**§ 3.** Zakres badań jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 4.** Badania przeprowadzają jednostki organizacyjne podmiotów leczniczych utworzonych i nadzorowanych przez ministra właściwego do spraw wewnętrznych, o których mowa w przepisach wydanych na podstawie art. 27 ust. 2 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2019 r. poz. 1175), albo inne podmioty lecznicze wykonujące zadania służby medycyny pracy na podstawie umowy zawartej z SOP.
+
+**§ 5.**
+
+1. Badanie psychologiczne kończy się wydaniem przez psychologa informacji z badania psychologicznego.
+
 2. Wzór informacji z badania psychologicznego jest określony w załączniku nr 2 do rozporządzenia.
-§ 6. 1. Badania kończą się wydaniem orzeczenia lekarskiego.
+
+**§ 6.**
+
+1. Badania kończą się wydaniem orzeczenia lekarskiego.
+
 2. Wzór orzeczenia lekarskiego jest określony w załączniku nr 3 do rozporządzenia.
-§ 7. 1. Funkcjonariusz SOP, który zgodnie ze wskazaniami lekarza zawartymi w orzeczeniu lekarskim może być skierowany na turnus, składa wniosek o skierowanie na turnus do kierownika komórki organizacyjnej, w której pełni służbę.
+
+**§ 7.**
+
+1. Funkcjonariusz SOP, który zgodnie ze wskazaniami lekarza zawartymi w orzeczeniu lekarskim może być skierowany na turnus, składa wniosek o skierowanie na turnus do kierownika komórki organizacyjnej, w której pełni służbę.
+
 2. Wniosek o skierowanie na turnus jest przekazywany drogą służbową do Komendanta SOP.
+
 3. Do wniosku o skierowanie na turnus dołącza się orzeczenie lekarskie oraz informację z badania psychologicznego.
+
 4. Wzór wniosku o skierowanie na turnus jest określony w załączniku nr 4 do rozporządzenia.
-§ 8. 1. Funkcjonariusza SOP na turnus kieruje Komendant SOP.
+
+**§ 8.**
+
+1. Funkcjonariusza SOP na turnus kieruje Komendant SOP.
+
 2. Wzór skierowania na turnus jest określony w załączniku nr 5 do rozporządzenia.
-§ 9. 1. Turnusy są prowadzone w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, w których są udzielane stacjonarne i całodobowe świadczenia opieki zdrowotnej z zakresu leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej.
+
+**§ 9.**
+
+1. Turnusy są prowadzone w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, w których są udzielane stacjonarne i całodobowe świadczenia opieki zdrowotnej z zakresu leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej.
+
 2. Ramowy program turnusu jest określony w załączniku nr 6 do rozporządzenia.
-§ 10. Rozporządzenie wchodzi w życie z dniem 11 marca 2020 r.
-Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży Ministra Spraw Wewnętrznych i Administracji z dnia …………………… 2020 r. (poz. …).
+
+**§ 10.** Rozporządzenie wchodzi w życie z dniem 11 marca 2020 r. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży Ministra Spraw Wewnętrznych i Administracji z dnia …………………… 2020 r. (poz. …).
 
 ## Załącznik nr 1 — ZAKRES BADAŃ LEKARSKICH I PSYCHOLOGICZNYCH, KTÓRYM PODLEGA FUNKCJONARIUSZSŁUŻBY ZAKRES BADAŃ LEKARSKICH I OCHRONY PSYCHOLOGICZNYCH, PAŃSTWA KTÓRYM POWRACAJĄCY PODLEGA FUNKCJONARIUSZ DO KRAJU PO SŁUŻBY OCHRONY PAŃSTWA POWRACAJĄCY DO KRAJU PO WYKONYWANIU ZADAŃ WYKONYWANIU ZADAŃ POZA GRANICAMI POZA GRANICAMI RZECZYPOSPOLITEJ RZECZYPOSPOLITEJ POLSKIEJ POLSKIEJ
 

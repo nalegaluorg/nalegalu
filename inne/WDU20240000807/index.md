@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000807) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/807/text.pdf) |
 
 zmieniające rozporządzenie w sprawie stawek uposażenia zasadniczego funkcjonariuszy Służby Ochrony Państwa Na podstawie art. 163 ust. 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2024 r. poz. 325) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 lutego 2018 r. w sprawie stawek uposażenia zasadniczego funkcjonariuszy Służby Ochrony Państwa (Dz. U. z 2023 r. poz. 1971 oraz z 2024 r. poz. 445) w załączniku nr 2 do rozporządzenia w wierszu oznaczonym lp. 26 w kolumnie „Stawka w złotych” liczbę „3 730” zastępuje się liczbą „4 220”.
-§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie od dnia 1 maja 2024 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. W. Szczepański
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 6 lutego 2018 r. w sprawie stawek uposażenia zasadniczego funkcjonariuszy Służby Ochrony Państwa (Dz. U. z 2023 r. poz. 1971 oraz z 2024 r. poz. 445) w załączniku nr 2 do rozporządzenia w wierszu oznaczonym lp. 26 w kolumnie „Stawka w złotych” liczbę „3 730” zastępuje się liczbą „4 220”.
+
+**§ 2.** Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie od dnia 1 maja 2024 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. W. Szczepański
 

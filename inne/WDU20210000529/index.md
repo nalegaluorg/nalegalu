@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych Na podstawie art. 20 pkt 4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 29 listopada 2012 r. w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 1346 oraz z 2019 r. poz. 1936) w § 1 w pkt 3 lit. a otrzymuje brzmienie: „a) Sądowi Okręgowemu w Katowicach – sprawy z właściwości Sądów Okręgowych w Bielsku-Białej i Sosnowcu,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 29 listopada 2012 r. w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 1346 oraz z 2019 r. poz. 1936) w § 1 w pkt 3 lit. a otrzymuje brzmienie: „a) Sądowi Okręgowemu w Katowicach – sprawy z właściwości Sądów Okręgowych w Bielsku-Białej i Sosnowcu,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2021 r. Minister Sprawiedliwości: Z. Ziobro
 

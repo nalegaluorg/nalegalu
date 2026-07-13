@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000428) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/428/text.pdf) |
 
 zmieniające rozporządzenie w sprawie badań lekarskich i psychologicznych osób ubiegających się o wpis lub posiadających wpis na listę kwalifikowanych pracowników ochrony fizycznej Na podstawie art. 33a ust. 4 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2018 r. poz. 2142 i 2245 oraz z 2019 r. poz. 1495) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 21 grudnia 2015 r. w sprawie badań lekarskich i psychologicznych osób ubiegających się o wpis lub posiadających wpis na listę kwalifikowanych pracowników ochrony fizycznej (Dz. U.
-poz. 2323 oraz z 2019 r. poz. 2212) w § 8 uchyla się pkt 2.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 21 grudnia 2015 r. w sprawie badań lekarskich i psychologicznych osób ubiegających się o wpis lub posiadających wpis na listę kwalifikowanych pracowników ochrony fizycznej (Dz. U. poz. 2323 oraz z 2019 r. poz. 2212) w § 8 uchyla się pkt 2.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

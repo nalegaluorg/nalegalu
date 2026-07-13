@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie organizacji roku szkolnego w publicznych szkołach i placówkach artystycznych Na podstawie art. 53 ust. 5 i art. 47 ust. 1 pkt 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r.
 poz. 996, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 20 listopada 2017 r. w sprawie organizacji roku szkolnego w publicznych szkołach i placówkach artystycznych (Dz. U. poz. 2199) uchyla się § 3.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 20 listopada 2017 r. w sprawie organizacji roku szkolnego w publicznych szkołach i placówkach artystycznych (Dz. U. poz. 2199) uchyla się § 3.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

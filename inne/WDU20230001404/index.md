@@ -26,9 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1404/text.pdf) |
 
 w sprawie nadania statutu Krajowej Radzie Onkologicznej Na podstawie art. 34 ustawy z dnia 9 marca 2023 r. o Krajowej Sieci Onkologicznej (Dz. U. poz. 650) zarządza się, co następuje:
-§ 1. Krajowej Radzie Onkologicznej nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski STATUT KRAJOWEJ RADY ONKOLOGICZNEJ
+
+**§ 1.** Krajowej Radzie Onkologicznej nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski STATUT KRAJOWEJ RADY ONKOLOGICZNEJ
+
+## Załącznik
+
 § 1. 1. Pracami Krajowej Rady Onkologicznej, zwanej dalej „Radą”, kieruje przewodniczący Rady, a w przypadku jego nieobecności zastępca przewodniczącego.
 2. W posiedzeniach Rady mogą brać udział, z głosem doradczym, osoby zaproszone przez przewodniczącego Rady.
 § 2. Rada wybiera spośród swego grona zastępcę przewodniczącego Rady w głosowaniu jawnym większością głosów w obecności co najmniej połowy członków Rady.

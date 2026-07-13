@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wykazu spółek, w których prawa z akcji Skarbu Państwa wykonuje Prezes Rady Ministrów lub inni członkowie Rady Ministrów, pełnomocnicy Rządu lub państwowe osoby prawne, w tym jednoosobowe spółki Skarbu Państwa Na podstawie art. 8 ust. 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U.
 z 2024 r. poz. 125) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 28 października 2022 r. w sprawie wykazu spółek, w których prawa z akcji Skarbu Państwa wykonuje Prezes Rady Ministrów lub inni członkowie Rady Ministrów, pełnomocnicy Rządu lub państwowe osoby prawne, w tym jednoosobowe spółki Skarbu Państwa (Dz. U. poz. 2369 oraz z 2023 r. poz. 2039 i 2560) w załączniku uchyla się lp. 1–3.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 28 października 2022 r. w sprawie wykazu spółek, w których prawa z akcji Skarbu Państwa wykonuje Prezes Rady Ministrów lub inni członkowie Rady Ministrów, pełnomocnicy Rządu lub państwowe osoby prawne, w tym jednoosobowe spółki Skarbu Państwa (Dz. U. poz. 2369 oraz z 2023 r. poz. 2039 i 2560) w załączniku uchyla się lp. 1–3.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów Na podstawie art. 89 ust. 1 pkt 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r.
 poz. 768, 730, 1520 i 1556) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 29 stycznia 2018 r. w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. poz. 349) § 5 otrzymuje brzmienie: „§ 5. Funkcjonariusz Służby Celno-Skarbowej, zwany dalej „funkcjonariuszem”, przystępując do kontroli, podaje podstawę prawną podjęcia kontroli.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 29 stycznia 2018 r. w sprawie warunków wykonywania kontroli celno-skarbowej przestrzegania przepisów prawa celnego oraz innych przepisów związanych z przywozem i wywozem towarów (Dz. U. poz. 349) § 5 otrzymuje brzmienie: „§ 5. Funkcjonariusz Służby Celno-Skarbowej, zwany dalej „funkcjonariuszem”, przystępując do kontroli, podaje podstawę prawną podjęcia kontroli.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński
 

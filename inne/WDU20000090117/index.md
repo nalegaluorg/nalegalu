@@ -29,7 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz.U. Nr 25, poz. 113 i Nr 137, poz. 639, z 1997 r. Nr 106, poz. 680, Nr 121, poz. 769 i 770 i Nr 160, poz. 1078, z 1998 r. Nr 106, poz. 668 oraz z 1999 r. Nr 96, poz. 1106 i Nr 101, poz. 1178) wprowadza się następujące zmiany:
 
-- **1)** w art. 5 ust. 1 i 2 otrzymują brzmienie: „1. Centralnym organem administracji rządowej w zakresie kultury fizycznej jest Prezes Urzędu Kultury Fizycznej i Sportu. 2. Zadania Prezesa Urzędu Kultury Fizycznej i Sportu oraz sposób ich realizacji określa ustawa.”;
+- **1)** w art. 5 ust. 1 i 2 otrzymują brzmienie:
+
+  > „1. Centralnym organem administracji rządowej w zakresie kultury fizycznej jest Prezes Urzędu Kultury Fizycznej i Sportu.  
+  > 2. Zadania Prezesa Urzędu Kultury Fizycznej i Sportu oraz sposób ich realizacji określa ustawa.”;  
 - **2)** w art. 19 w ust. 2 wyrazy „szkół podstawowych i” zastępuje się wyrazami „szkół podstawowych, gimnazjów oraz”;
 - **3)** użyte w ustawie w różnych przypadkach wyrazy „Prezes Urzędu Kultury Fizycznej i Turystyki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Prezes Urzędu Kultury Fizycznej i Sportu”.
 

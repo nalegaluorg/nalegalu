@@ -26,9 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002506) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2506/text.pdf) |
 
 w sprawie nadania statutu państwowemu Gospodarstwu Wodnemu Wody polskie Na podstawie art. 239 ust. 4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180) zarządza się, co następuje:
-§ 1. Państwowemu Gospodarstwu Wodnemu Wody Polskie nadaje się statut stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Minister Środowiska: J. Szyszko STATUT PAŃSTWOWEGO GOSPODARSTWA WODNEGO WODY POLSKIE
+
+**§ 1.** Państwowemu Gospodarstwu Wodnemu Wody Polskie nadaje się statut stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. Minister Środowiska: J. Szyszko STATUT PAŃSTWOWEGO GOSPODARSTWA WODNEGO WODY POLSKIE
+
+## Załącznik
+
 § 1. Państwowe Gospodarstwo Wodne Wody Polskie, zwane dalej „Wodami Polskimi”, działa na podstawie przepisów ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. poz. 1566 i 2180), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. Strukturę Wód Polskich stanowią następujące jednostki organizacyjne:
 1) Krajowy Zarząd Gospodarki Wodnej z siedzibą w Warszawie;

@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000011) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/11/text.pdf) |
 
 w sprawie wyznaczenia dyrektora izby administracji skarbowej właściwego w sprawach przyznania, odmowy przyznania oraz cofnięcia statusu upoważnionego zgłaszającego CBAM Na podstawie art. 54b ust. 13 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673, z 2024 r. poz. 834 i 1940 oraz z 2025 r. poz. 1863) zarządza się, co następuje:
-§ 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Poznaniu jako organ właściwy w sprawach przyznania, odmowy przyznania oraz cofnięcia statusu upoważnionego zgłaszającego CBAM.
-§ 2. Rozporządzenie wchodzi w życie z dniem 13 stycznia 2026 r.
-Minister Finansów i Gospodarki: wz. J. Neneman
+
+**§ 1.** Wyznacza się Dyrektora Izby Administracji Skarbowej w Poznaniu jako organ właściwy w sprawach przyznania, odmowy przyznania oraz cofnięcia statusu upoważnionego zgłaszającego CBAM.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 13 stycznia 2026 r. Minister Finansów i Gospodarki: wz. J. Neneman
 

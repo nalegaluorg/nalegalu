@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001260) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1260/text.pdf) |
 
 zmieniające rozporządzenie w sprawie dotacji przedmiotowej do krajowych przewozów pasażerskich Na podstawie art. 130 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 17 września 2010 r. w sprawie dotacji przedmiotowej do krajowych przewozów pasażerskich (Dz. U. z 2015 r. poz. 2177) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: M. Banaś
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 17 września 2010 r. w sprawie dotacji przedmiotowej do krajowych przewozów pasażerskich (Dz. U. z 2015 r. poz. 2177) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: M. Banaś
 

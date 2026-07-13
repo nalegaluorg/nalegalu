@@ -30,9 +30,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 marca 2024 r. zmieniającego rozporządzenie w sprawie nadania statutu Centralnemu Ośrodkowi Badania Odmian Roślin Uprawnych (Dz. U. poz. 490), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2024 r.”. Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 21 grudnia 2010 r.
 w sprawie nadania statutu Centralnemu Ośrodkowi Badania Odmian Roślin Uprawnych Na podstawie art. 12 ustawy z dnia 25 listopada 2010 r. o Centralnym Ośrodku Badania Odmian Roślin Uprawnych (Dz. U. z 2017 r. poz. 2109) zarządza się, co następuje:
-§ 1. Centralnemu Ośrodkowi Badania Odmian Roślin Uprawnych nadaje się statut stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.
-STATUT CENTRALNEGO OŚRODKA BADANIA ODMIAN ROŚLIN UPRAWNYCH
+
+**§ 1.** Centralnemu Ośrodkowi Badania Odmian Roślin Uprawnych nadaje się statut stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r. STATUT CENTRALNEGO OŚRODKA BADANIA ODMIAN ROŚLIN UPRAWNYCH
+
+## Załącznik
+
 § 1. W skład Centralnego Ośrodka Badania Odmian Roślin Uprawnych, zwanego dalej „Centralnym Ośrodkiem”, wchodzą centrala oraz stacje doświadczalne oceny odmian w:
 1) Chrząstowie, województwo kujawsko-pomorskie,
 2) Ciciborze Dużym, województwo lubelskie,

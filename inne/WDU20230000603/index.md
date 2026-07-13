@@ -27,11 +27,14 @@ source: pdf
 
 w sprawie upoważnienia Sieci Badawczej Łukasiewicz – Warszawskiego Instytutu Technologicznego do uznawania kwalifikacji zawodowych Na podstawie art. 4a ust. 4 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2022 r.
 poz. 2512) zarządza się, co następuje:
-§ 1. Upoważnia się Sieć Badawczą Łukasiewicz – Warszawski Instytut Technologiczny do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania zawodów regulowanych:
-1) operatora sprzętu do robót ziemnych i urządzeń pokrewnych;
-2) operatora maszyn i urządzeń do produkcji betonu, asfaltobetonu, elementów betonowych, kamiennych i pokrewnych;
-3) montera rusztowań.
-§ 2. Traci moc rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 27 sierpnia 2019 r. w sprawie upoważnienia Sieci Badawczej Łukasiewicz – Instytutu Mechanizacji Budownictwa i Górnictwa Skalnego do uznawania kwalifikacji zawodowych (Dz. U. poz. 1720).
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Technologii: W. Buda
+
+**§ 1.** Upoważnia się Sieć Badawczą Łukasiewicz – Warszawski Instytut Technologiczny do uznawania nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej kwalifikacji zawodowych do wykonywania zawodów regulowanych:
+
+- **1)** operatora sprzętu do robót ziemnych i urządzeń pokrewnych;
+- **2)** operatora maszyn i urządzeń do produkcji betonu, asfaltobetonu, elementów betonowych, kamiennych i pokrewnych;
+- **3)** montera rusztowań.
+
+**§ 2.** Traci moc rozporządzenie Ministra Przedsiębiorczości i Technologii z dnia 27 sierpnia 2019 r. w sprawie upoważnienia Sieci Badawczej Łukasiewicz – Instytutu Mechanizacji Budownictwa i Górnictwa Skalnego do uznawania kwalifikacji zawodowych (Dz. U. poz. 1720).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Technologii: W. Buda
 

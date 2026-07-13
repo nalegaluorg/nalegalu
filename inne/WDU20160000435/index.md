@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie trybu i sposobu dokonywania doręczeń elektronicznych Na podstawie art. 131 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks post ę powania cywilnego (Dz. U. z 2014 r.
 poz. 101, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 20 października 2015 r. w sprawie trybu i sposobu dokonywania doręczeń elektronicznych (Dz. U. poz. 1776) § 7 otrzymuje brzmienie: „§ 7. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 20 października 2015 r. w sprawie trybu i sposobu dokonywania doręczeń elektronicznych (Dz. U. poz. 1776) § 7 otrzymuje brzmienie: „§ 7. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r. Minister Sprawiedliwości: Z. Ziobro
 

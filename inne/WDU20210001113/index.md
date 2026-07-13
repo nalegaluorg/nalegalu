@@ -30,6 +30,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 marca 2021 r. zmieniającego rozporządzenie w sprawie nadania osobowości prawnej Wspólnocie Życia Chrześcijańskiego w Polsce (Dz. U. poz. 537), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 21 lutego 2001 r.
 w sprawie nadania osobowości prawnej Wspólnocie Życia Chrześcijańskiego w Polsce Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Wspólnota Życia Chrześcijańskiego w Polsce, z siedzibą w Warszawie, utworzonej za zgodą Konferencji Episkopatu Polski przez stowarzyszenie o nazwie Wspólnota Życia Chrześcijańskiego, powołane dekretem Stolicy Apostolskiej.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Wspólnota Życia Chrześcijańskiego w Polsce, z siedzibą w Warszawie, utworzonej za zgodą Konferencji Episkopatu Polski przez stowarzyszenie o nazwie Wspólnota Życia Chrześcijańskiego, powołane dekretem Stolicy Apostolskiej.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

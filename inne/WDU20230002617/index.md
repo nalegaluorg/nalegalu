@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2023 r. poz. 1199) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2022 r. poz. 1323 oraz z 2023 r. poz. 387) w załączniku do rozporządzenia w § 3 w ust. 1:
-1) po pkt 14 dodaje się pkt 14a w brzmieniu: „14a) Departament Oceny Projektów i Pomocy Technicznej;”;
-2) uchyla się pkt 15 i 17.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: A. Gembicka
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2022 r. poz. 1323 oraz z 2023 r. poz. 387) w załączniku do rozporządzenia w § 3 w ust. 1:
+
+- **1)** po pkt 14 dodaje się pkt 14a w brzmieniu: „14a) Departament Oceny Projektów i Pomocy Technicznej;”;
+- **2)** uchyla się pkt 15 i 17.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: A. Gembicka
 

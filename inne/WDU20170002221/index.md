@@ -27,30 +27,33 @@ source: pdf
 
 w sprawie maksymalnych sum ubezpieczenia dla poszczególnych upraw rolnych i zwierząt gospodarskich na 2018 r.
 Na podstawie art. 5 ust. 9 ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. z 2017 r. poz. 2047) zarządza się, co następuje:
-§ 1. W 2018 r. maksymalne sumy ubezpieczenia:
-1) 1 ha upraw rolnych wynoszą:
-a) 10 650 zł – dla zbóż,
-b) 8450 zł – dla kukurydzy,
-c) 9900 zł – dla rzepaku i rzepiku,
-d) 56 050 zł – dla chmielu,
-e) 31 350 zł – dla tytoniu,
-f) 129 600 zł – dla warzyw gruntowych,
-g) 131 500 zł – dla drzew i krzewów owocowych,
-h) 84 500 zł – dla truskawek,
-i) 25 000 zł – dla ziemniaków,
-j) 9900 zł – dla buraków cukrowych,
-k) 14 400 zł – dla roślin strączkowych;
-2) 1 sztuki zwierzęcia wynoszą:
-a) 14 000 zł – dla bydła,
-b) 10 200 zł – dla koni,
-c) 700 zł – dla owiec,
-d) 700 zł – dla kóz,
-e) 1740 zł – dla świń,
-f) 53 zł – dla kur, perlic i przepiórek,
-g) 65 zł – dla kaczek,
-h) 250 zł – dla gęsi,
-i) 133 zł – dla indyków,
-j) 1330 zł – dla strusi.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+
+**§ 1.** W 2018 r. maksymalne sumy ubezpieczenia:
+
+- **1)** 1 ha upraw rolnych wynoszą:
+    - **a)** 10 650 zł – dla zbóż,
+    - **b)** 8450 zł – dla kukurydzy,
+    - **c)** 9900 zł – dla rzepaku i rzepiku,
+    - **d)** 56 050 zł – dla chmielu,
+    - **e)** 31 350 zł – dla tytoniu,
+    - **f)** 129 600 zł – dla warzyw gruntowych,
+    - **g)** 131 500 zł – dla drzew i krzewów owocowych,
+    - **h)** 84 500 zł – dla truskawek,
+    - **i)** 25 000 zł – dla ziemniaków,
+    - **j)** 9900 zł – dla buraków cukrowych,
+    - **k)** 14 400 zł – dla roślin strączkowych;
+
+- **2)** 1 sztuki zwierzęcia wynoszą:
+    - **a)** 14 000 zł – dla bydła,
+    - **b)** 10 200 zł – dla koni,
+    - **c)** 700 zł – dla owiec,
+    - **d)** 700 zł – dla kóz,
+    - **e)** 1740 zł – dla świń,
+    - **f)** 53 zł – dla kur, perlic i przepiórek,
+    - **g)** 65 zł – dla kaczek,
+    - **h)** 250 zł – dla gęsi,
+    - **i)** 133 zł – dla indyków,
+    - **j)** 1330 zł – dla strusi.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

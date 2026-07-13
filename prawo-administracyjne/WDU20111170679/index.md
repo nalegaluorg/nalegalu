@@ -24,6 +24,7 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2011-04-15 |
 | Data wydania | 2011-06-08 |
+| Wejście w życie | 2011-06-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111170679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/679/text.pdf) |
 
@@ -33,7 +34,10 @@ source: pdf
 - **2)** w art. 28g po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku gdy przemijająca przeszkoda w wykonywaniu zadań i kompetencji wójta spowodowana przez jedną z okoliczności, o których mowa w ust. 1, zaistnieje przed złożeniem przez wójta ślubowania, zadania i kompetencje wójta przejmuje osoba, o której mowa w art. 28h.”;
 - **3)** art. 28h otrzymuje brzmienie: „Art. 28h. W przypadkach, o których mowa w art. 28g ust. 2, 3 i 3a, Prezes Rady Ministrów, na wniosek wojewody przekazany niezwłocznie za pośrednictwem ministra właściwego do spraw administracji publicznej, wyznacza osobę, która przejmie wykonywanie zadań i kompetencji wójta.”;
 - **4)** w art. 29 ust. 1 otrzymuje brzmienie: „1. Po upływie kadencji wójta pełni on swoją funkcję do czasu objęcia obowiązków przez nowo wybranego wójta albo osobę, którą Prezes Rady Ministrów wyznaczył do pełnienia funkcji wójta.”;
-- **5)** w art. 29a dodaje się ust. 3 i 4 w brzmieniu: „3. Jeżeli sesja zwołana w trybie określonym w ust. 2 nie odbyła się, wójt składa ślubowanie o treści określonej w ust. 1 przed właściwym terytorialnie komisarzem wyborczym. Złożenie ślubowania wójt potwierdza podpisem pod treścią ślubowania. Akt ślubowania komisarz wyborczy przesyła niezwłocznie przewodniczącemu rady. Informację o dacie złożenia ślubowania komisarz wyborczy podaje do publicznej wiadomości mieszkańców gminy w formie komunikatu w Biuletynie Informacji Publicznej w terminie 14 dni od dnia złożenia ślubowania. 4. Uchylanie się od złożenia ślubowania w terminie 3 miesięcy od dnia ogłoszenia wyników wyborów wójta jest równoznaczne z odmową złożenia ślubowania.”.
+- **5)** w art. 29a dodaje się ust. 3 i 4 w brzmieniu:
+
+  > „3. Jeżeli sesja zwołana w trybie określonym w ust. 2 nie odbyła się, wójt składa ślubowanie o treści określonej w ust. 1 przed właściwym terytorialnie komisarzem wyborczym. Złożenie ślubowania wójt potwierdza podpisem pod treścią ślubowania. Akt ślubowania komisarz wyborczy przesyła niezwłocznie przewodniczącemu rady. Informację o dacie złożenia ślubowania komisarz wyborczy podaje do publicznej wiadomości mieszkańców gminy w formie komunikatu w Biuletynie Informacji Publicznej w terminie 14 dni od dnia złożenia ślubowania.  
+  > 4. Uchylanie się od złożenia ślubowania w terminie 3 miesięcy od dnia ogłoszenia wyników wyborów wójta jest równoznaczne z odmową złożenia ślubowania.”.  
 
 **Art. 2.**
 

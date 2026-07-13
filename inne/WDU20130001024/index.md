@@ -26,14 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1024/text.pdf) |
 
 w sprawie wzoru wniosku o wpis do rejestru operatorów pocztowych oraz wzoru zgłoszenia dotyczącego prowadzenia działalności pocztowej Na podstawie art. 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór wniosku o wpis do rejestru operatorów pocztowych, stanowiący załącznik nr 1 do rozporządzenia;
-2) wzór zgłoszenia:
-a) zmiany przewidywanej daty rozpoczęcia działalności pocztowej,
-b) zmiany danych w zakresie objętym wnioskiem o wpis do rejestru operatorów pocztowych,
-c) zawieszenia albo zakończenia wykonywania działalności pocztowej – stanowiący załącznik nr 2 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Administracji i Cyfryzacji: M. Boni Minister Administracji i Cyfryzacji kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Administracji i Cyfryzacji (Dz. U. Nr 248, poz. 1479).
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór wniosku o wpis do rejestru operatorów pocztowych, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** wzór zgłoszenia:
+    - **a)** zmiany przewidywanej daty rozpoczęcia działalności pocztowej,
+    - **b)** zmiany danych w zakresie objętym wnioskiem o wpis do rejestru operatorów pocztowych,
+    - **c)** zawieszenia albo zakończenia wykonywania działalności pocztowej – stanowiący załącznik nr 2 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Administracji i Cyfryzacji: M. Boni Minister Administracji i Cyfryzacji kieruje działem administracji rządowej – łączność, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Administracji i Cyfryzacji (Dz. U. Nr 248, poz. 1479).
 
 ## Załącznik nr 2013 — r. (poz. nr 1024) 1 Załącznik nr 1 WZÓR WZÓR PREZES URZĘDU KOMUNIKACJI ELEKTRONICZNEJ …..….………………………………………….
 

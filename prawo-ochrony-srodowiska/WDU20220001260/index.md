@@ -37,7 +37,10 @@ source: pdf
     - **a)** w ust. 6 po pkt 10 dodaje się pkt 10a w brzmieniu: „10a) ocenę szkodliwych skutków hałasu;”,
     - **b)** ust. 9 otrzymuje brzmienie: „9. Strategiczne mapy hałasu sporządza się z wykorzystaniem materiałów i zbiorów danych pochodzących z państwowego zasobu geodezyjnego i kartograficznego oraz z zastosowaniem metod oceny hałasu i metod oceny szkodliwych skutków hałasu określonych w załącznikach II i III do dyrektywy 2002/49/WE Parlamentu Europejskiego i Rady z dnia 25 czerwca 2002 r. odnoszącej się do oceny i zarządzania poziomem hałasu w środowisku.”;
 
-- **6)** w art. 136b w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) z podjęciem uchwały o utworzeniu strefy przemysłowej, której przepisy są w istotnym zakresie niezgodne z propozycjami, o których mowa w art. 136c ust. 2 pkt 5; 2) ze zmianą uchwały o utworzeniu strefy przemysłowej.”;
+- **6)** w art. 136b w ust. 3 pkt 1 i 2 otrzymują brzmienie:
+
+  > „1) z podjęciem uchwały o utworzeniu strefy przemysłowej, której przepisy są w istotnym zakresie niezgodne z propozycjami, o których mowa w art. 136c ust. 2 pkt 5;  
+  > 2) ze zmianą uchwały o utworzeniu strefy przemysłowej.”;  
 - **7)** w art. 136c w ust. 2 pkt 5 otrzymuje brzmienie: „5) propozycje dotyczące funkcjonowania strefy przemysłowej istotne z punktu widzenia podjęcia uchwały o utworzeniu strefy przemysłowej w zakresie, o którym mowa w art. 136d ust. 3 pkt 2 i ust. 4.”;
 - **8)** w art. 178 w ust. 1 wyrazy „art. 56 ust. 4 pkt 1” zastępuje się wyrazami „art. 82 ust. 1 pkt 2 lit. b ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko”;
 - **9)** w art. 186 w ust. 1 pkt 6 otrzymuje brzmienie: „6) eksploatacja instalacji położonej w granicach strefy przemysłowej powodowałaby naruszenie ustaleń zawartych w uchwale o jej utworzeniu;”;
@@ -66,7 +69,12 @@ source: pdf
 
 **Art. 5.** W ustawie z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2022 r. poz. 1083) wprowadza się następujące zmiany:
 
-- **1)** w art. 3a po ust. 5 dodaje się ust. 5a–5d w brzmieniu: „5a. Prezes URE na wniosek operatora systemu dystrybucyjnego elektroenergetycznego, który uzyskał decyzję, o której mowa w art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, stwierdza, w drodze decyzji, wyłączenie w stosunku do tego operatora zakazu, o którym mowa w ust. 1. 5b. Decyzję, o której mowa w ust. 5a, wydaje się na czas oznaczony, nie dłuższy niż okres, na jaki została wydana decyzja, o której mowa w art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne. 5c. Prezes URE uchyla z urzędu decyzję, o której mowa w ust. 5a, w przypadku uchylenia decyzji, o której mowa w art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne. 5d. W terminie 6 miesięcy od dnia wygaśnięcia albo uchylenia decyzji, o której mowa w art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, operator systemu dystrybucyjnego elektroenergetycznego ogłasza przetarg, o którym mowa w ust. 2 pkt 1.”;
+- **1)** w art. 3a po ust. 5 dodaje się ust. 5a–5d w brzmieniu:
+
+  > „5a. Prezes URE na wniosek operatora systemu dystrybucyjnego elektroenergetycznego, który uzyskał decyzję, o której mowa w art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, stwierdza, w drodze decyzji, wyłączenie w stosunku do tego operatora zakazu, o którym mowa w ust. 1.  
+  > 5b. Decyzję, o której mowa w ust. 5a, wydaje się na czas oznaczony, nie dłuższy niż okres, na jaki została wydana decyzja, o której mowa w art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.  
+  > 5c. Prezes URE uchyla z urzędu decyzję, o której mowa w ust. 5a, w przypadku uchylenia decyzji, o której mowa w art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne.  
+  > 5d. W terminie 6 miesięcy od dnia wygaśnięcia albo uchylenia decyzji, o której mowa w art. 9da ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, operator systemu dystrybucyjnego elektroenergetycznego ogłasza przetarg, o którym mowa w ust. 2 pkt 1.”;  
 - **2)** w art. 76 ust. 2 otrzymuje brzmienie: „2. Umowy zawarte przez jednostki samorządu terytorialnego na wykonywanie zadań publicznych, o których mowa w art. 35 ust. 2 pkt 1, z wyłączeniem publicznego transportu zbiorowego, wygasają z dniem 31 grudnia 2025 r., jeżeli nie zapewniają wykorzystania pojazdów elektrycznych lub pojazdów napędzanych gazem ziemnym na poziomie określonym w art. 35 ust. 2.”.
 
 **Art. 6.** Do sporządzania strategicznych map hałasu, których termin sporządzenia przypada na dzień 30 czerwca 2022 r., stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.

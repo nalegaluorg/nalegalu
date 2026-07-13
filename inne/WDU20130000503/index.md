@@ -35,7 +35,10 @@ source: pdf
 
 - **2)** w art. 22b:
     - **a)** w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) odsetki z tytułu należności i opłat, o których mowa w pkt 1–4.”,
-    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Dochody, o których mowa w ust. 1, są niepodatkowymi należnościami budżetowymi o charakterze publiczno-prawnym w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ). 4. Marszałek województwa jest organem egzekucyjnym uprawnionym do egzekucji należności za zobowiązania z tytułu dochodów, o których mowa w ust. 1.”.
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu:
+
+      > „3. Dochody, o których mowa w ust. 1, są niepodatkowymi należnościami budżetowymi o charakterze publiczno-prawnym w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ).  
+      > 4. Marszałek województwa jest organem egzekucyjnym uprawnionym do egzekucji należności za zobowiązania z tytułu dochodów, o których mowa w ust. 1.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

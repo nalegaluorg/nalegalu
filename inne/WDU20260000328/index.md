@@ -27,7 +27,11 @@ source: pdf
 | Ostatnia zmiana | 2026-03-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000328) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/328/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) po art. 209 dodaje się art. 209a w brzmieniu: „Art. 209a. 1. Doktorant, który znalazł się przejściowo w trudnej sytuacji życiowej, może otrzymać zapomogę. Przepis art. 92 ust. 2 stosuje się odpowiednio. 2. Zapomogę przyznaje się na warunkach określonych w uzgodnieniu z samorządem doktorantów przez rektora uczelni, dyrektora instytutu PAN, dyrektora instytutu badawczego, dyrektora instytutu międzynarodowego albo dyrektora CMKP.”.
+**Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) po art. 209 dodaje się art. 209a w brzmieniu:
+
+> „Art. 209a.  
+> 1. Doktorant, który znalazł się przejściowo w trudnej sytuacji życiowej, może otrzymać zapomogę. Przepis art. 92 ust. 2 stosuje się odpowiednio.  
+> 2. Zapomogę przyznaje się na warunkach określonych w uzgodnieniu z samorządem doktorantów przez rektora uczelni, dyrektora instytutu PAN, dyrektora instytutu badawczego, dyrektora instytutu międzynarodowego albo dyrektora CMKP.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

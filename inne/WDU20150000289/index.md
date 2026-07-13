@@ -27,8 +27,12 @@ source: pdf
 
 w sprawie strzeżonego ośrodka dla cudzoziemców w Przemyślu Na podstawie art. 409 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r.
 poz. 463 i 1004) zarządza się, co następuje:
-§ 1. 1. Strzeżony ośrodek dla cudzoziemców w Przemyślu, województwo podkarpackie, utworzony na podstawie rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2007 r. w sprawie utworzenia strzeżonego ośrodka dla cudzoziemców w Przemyślu (Dz. U. Nr 181, poz. 1296), jest komórką organizacyjną Komendy Bieszczadzkiego Oddziału Straży Granicznej imienia gen. bryg. Jana Tomasza Gorzechowskiego z siedzibą w Przemyślu.
+
+**§ 1.**
+
+1. Strzeżony ośrodek dla cudzoziemców w Przemyślu, województwo podkarpackie, utworzony na podstawie rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 września 2007 r. w sprawie utworzenia strzeżonego ośrodka dla cudzoziemców w Przemyślu (Dz. U. Nr 181, poz. 1296), jest komórką organizacyjną Komendy Bieszczadzkiego Oddziału Straży Granicznej imienia gen. bryg. Jana Tomasza Gorzechowskiego z siedzibą w Przemyślu.
+
 2. Ośrodek podlega Komendantowi Bieszczadzkiego Oddziału Straży Granicznej imienia gen. bryg. Jana Tomasza Gorzechowskiego z siedzibą w Przemyślu.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych: wz. P. Stachańczyk
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych: wz. P. Stachańczyk
 

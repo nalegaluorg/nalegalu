@@ -27,11 +27,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000372) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/372/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej Na podstawie art. 205 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2025 r. poz. 1750 i 1823) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 29 listopada 2018 r. w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. z 2024 r. poz. 1425) wprowadza się następujące zmiany:
-1) w § 2 uchyla się ust. 3a;
-2) w § 3 w ust. 2:
-a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Nagrody uznaniowe lub zapomogi może przyznać także:”,
-b) w pkt 3 skreśla się wyrazy „Szef Inspektoratu Wewnętrznego Służby Więziennej,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 29 listopada 2018 r. w sprawie nagród i zapomóg dla funkcjonariuszy Służby Więziennej (Dz. U. z 2024 r. poz. 1425) wprowadza się następujące zmiany:
+
+- **1)** w § 2 uchyla się ust. 3a;
+- **2)** w § 3 w ust. 2:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Nagrody uznaniowe lub zapomogi może przyznać także:”,
+    - **b)** w pkt 3 skreśla się wyrazy „Szef Inspektoratu Wewnętrznego Służby Więziennej,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: W. Żurek
 

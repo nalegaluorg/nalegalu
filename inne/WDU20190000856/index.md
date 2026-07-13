@@ -26,12 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000856) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/856/text.pdf) |
 
 w sprawie listy innych ustrukturyzowanych dokumentów elektronicznych, które mogą być przesyłane za pośrednictwem platformy elektronicznego fakturowania służącej do przesyłania ustrukturyzowanych faktur elektronicznych oraz innych ustrukturyzowanych dokumentów elektronicznych Na podstawie art. 9 ust. 2 ustawy z dnia 9 listopada 2018 r. o elektronicznym fakturowaniu w zamówieniach publicznych, koncesjach na roboty budowlane lub usługi oraz partnerstwie publiczno-prywatnym (Dz. U. poz. 2191) zarządza się, co następuje:
-§ 1. Określa się listę innych ustrukturyzowanych dokumentów elektronicznych, które mogą być przesyłane za pośrednictwem platformy elektronicznego fakturowania służącej do przesyłania ustrukturyzowanych faktur elektronicznych oraz innych ustrukturyzowanych dokumentów elektronicznych związanych z realizacją zamówień publicznych, koncesji na roboty budowlane lub usługi oraz partnerstwa publiczno-prywatnego:
-1) zlecenie dostawy (zamówienie);
-2) awizo dostawy;
-3) potwierdzenie odbioru;
-4) faktura korygująca;
-5) nota księgowa.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Przedsiębiorczości i Technologii: J. Emilewicz
+
+**§ 1.** Określa się listę innych ustrukturyzowanych dokumentów elektronicznych, które mogą być przesyłane za pośrednictwem platformy elektronicznego fakturowania służącej do przesyłania ustrukturyzowanych faktur elektronicznych oraz innych ustrukturyzowanych dokumentów elektronicznych związanych z realizacją zamówień publicznych, koncesji na roboty budowlane lub usługi oraz partnerstwa publiczno-prywatnego:
+
+- **1)** zlecenie dostawy (zamówienie);
+- **2)** awizo dostawy;
+- **3)** potwierdzenie odbioru;
+- **4)** faktura korygująca;
+- **5)** nota księgowa.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Przedsiębiorczości i Technologii: J. Emilewicz
 

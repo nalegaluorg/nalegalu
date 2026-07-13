@@ -27,10 +27,8 @@ source: pdf
 
 w sprawie wyznaczenia urzędu skarbowego, na którego rachunek bankowy dokonuje się wpłaty kar pieniężnych, o których mowa w ustawie o podatku akcyzowym Na podstawie art. 138u ust. 9 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2022 r. poz. 143, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. Urzędem skarbowym, na którego rachunek bankowy dokonuje się wpłaty kary pieniężnej, o której mowa w art. 138u ust. 1 i art. 138w ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, jest Urząd Skarbowy w Nowym Targu.
-§ 2. Rozporządzenie wchodzi w życie z dniem 13 lutego 2023 r.
-Minister Finansów: M. Rzeczkowska Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
-Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1137, 1488, 1967, 2180, 2236 i 2707.
-Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany rozporządzeniem Ministra Finansów z dnia 28 listopada 2018 r. w sprawie wyznaczenia urzędu skarbowego, na którego rachunek bankowy dokonuje się wpłaty kary pieniężnej, o której mowa w art. 138u ust. 1 ustawy o podatku akcyzowym (Dz. U. poz. 2292), które traci moc z dniem 13 lutego 2023 r.
-w związku z wejściem w życie ustawy z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2427 oraz z 2022 r. poz. 2707).
+
+**§ 1.** Urzędem skarbowym, na którego rachunek bankowy dokonuje się wpłaty kary pieniężnej, o której mowa w art. 138u ust. 1 i art. 138w ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, jest Urząd Skarbowy w Nowym Targu.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 13 lutego 2023 r. Minister Finansów: M. Rzeczkowska Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1137, 1488, 1967, 2180, 2236 i 2707. Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany rozporządzeniem Ministra Finansów z dnia 28 listopada 2018 r. w sprawie wyznaczenia urzędu skarbowego, na którego rachunek bankowy dokonuje się wpłaty kary pieniężnej, o której mowa w art. 138u ust. 1 ustawy o podatku akcyzowym (Dz. U. poz. 2292), które traci moc z dniem 13 lutego 2023 r. w związku z wejściem w życie ustawy z dnia 9 grudnia 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2427 oraz z 2022 r. poz. 2707).
 

@@ -30,6 +30,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Administracji 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 1 października 2020 r. zmieniającego rozporządzenie w sprawie nadania osobowości prawnej Archidiecezjalnemu Domowi Hospicyjnemu bł. Jana Pawła II w Katowicach (Dz. U. poz. 1760), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
 ROZPORZĄDZENIE MINISTRA ADMINISTRACJI I CYFRYZACJI z dnia 21 listopada 2012 r.
 w sprawie nadania osobowości prawnej Archidiecezjalnemu Domowi Hospicyjnemu św. Jana Pawła II w Katowicach Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą „Archidiecezjalny Dom Hospicyjny św. Jana Pawła II w Katowicach”, erygowanej przez Arcybiskupa Metropolitę Katowickiego.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą „Archidiecezjalny Dom Hospicyjny św. Jana Pawła II w Katowicach”, erygowanej przez Arcybiskupa Metropolitę Katowickiego.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

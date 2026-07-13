@@ -1,0 +1,133 @@
+---
+title: "Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 10 września 2019 r. zmieniające rozporządzenie w sprawie prowadzenia rejestru zabytków, krajowej, wojewódzkiej i gminnej ewidencji zabytków oraz krajowego wykazu zabytków skradzionych lub wywiezionych za granicę niezgodnie z prawem"
+address: WDU20190001886
+eli: DU/2019/1886
+publisher: DU
+year: 2019
+pos: 1886
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: pdf
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1886 RozpoRządzenie MinistRa KultuRy i dziedzictwa naRodowego z dnia 10 września 2019 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 1886 |
+| ISAP | WDU20190001886 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2019-09-10 |
+| Data wydania | 2019-10-04 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001886) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1886/text.pdf) |
+
+zmieniające rozporządzenie w sprawie prowadzenia rejestru zabytków, krajowej, wojewódzkiej i gminnej ewidencji zabytków oraz krajowego wykazu zabytków skradzionych lub wywiezionych za granicę niezgodnie z prawem Na podstawie art. 24 ust. 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2018 r.
+poz. 2067 i 2245 oraz z 2019 r. poz. 730 i 1696) zarządza się, co następuje:
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 26 maja 2011 r. w sprawie prowadzenia rejestru zabytków, krajowej, wojewódzkiej i gminnej ewidencji zabytków oraz krajowego wykazu zabytków skradzionych lub wywiezionych za granicę niezgodnie z prawem (Dz. U. poz. 661) wprowadza się następujące zmiany:
+
+- **1)** w § 12:
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Karta ewidencyjna zabytku archeologicznego lądowego zawiera następujące rubryki:”, – pkt 10 otrzymuje brzmienie: „10) wykonanie karty;”, – pkt 13 otrzymuje brzmienie: „13) mapa w skali 1:10 000;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Wzór karty ewidencyjnej zabytku archeologicznego lądowego określa załącznik nr 5 do rozporządzenia.”;
+
+- **2)** po § 12 dodaje się § 12a i § 12b w brzmieniu:
+
+  > „§ 12a.  
+  > 1. Karta ewidencyjna zabytku archeologicznego podwodnego śródlądowego zawiera następujące rubryki:  
+  > 1) lokalizacja;  
+  > 2) położenie fizycznogeograficzne;  
+  > 3) cechy akwenu;  
+  > 4) cechy strefy nadbrzeżnej;  
+  > 5) klasyfikacja funkcjonalno-kulturowo-chronologiczna stanowiska;  
+  > 6) opis obszaru stanowiska;  
+  > 7) warunki eksploracji;  
+  > 8) zagrożenia;  
+  > 9) wnioski konserwatorskie;  
+  > 10) aktualna ochrona;  
+  > 11) wykonanie karty;  
+  > 12) weryfikacja konserwatorska;  
+  > 13) zbiory i numer inwentarza;  
+  > 14) mapa w skali 1:10 000;  
+  > 15) historia badań stanowiska;  
+  > 16) dokumentacja;  
+  > 17) literatura;  
+  > 18) inne dane.  
+  > 2. Wzór karty ewidencyjnej zabytku archeologicznego podwodnego śródlądowego określa załącznik nr 5a do rozporządzenia.  
+  > § 12b.  
+  > 1. Karta ewidencyjna zabytku archeologicznego podwodnego morskiego zawiera następujące rubryki:  
+  > 1) lokalizacja;  
+  > 2) położenie fizycznogeograficzne;  
+  > 3) cechy akwenu;  
+  > 4) cechy strefy nadbrzeżnej;  
+  > 5) klasyfikacja funkcjonalno-kulturowo-chronologiczna stanowiska;  
+  > 6) opis obszaru stanowiska;  
+  > 7) warunki eksploracji;  
+  > 8) zagrożenia;  
+  > 9) wnioski konserwatorskie;  
+  > 10) aktualna ochrona;  
+  > 11) wykonanie karty;  
+  > 12) weryfikacja konserwatorska;  
+  > 13) zbiory i numer inwentarza;  
+  > 14) dostępna mapa nawigacyjna;  
+  > 15) historia badań stanowiska;  
+  > 16) dokumentacja;  
+  > 17) literatura;  
+  > 18) inne dane.  
+  > 2. Wzór karty ewidencyjnej zabytku archeologicznego podwodnego morskiego określa załącznik nr 5b do rozporządzenia.”;  
+- **3)** po § 14 dodaje się § 14a w brzmieniu:
+
+  > „§ 14a.  
+  > 1. W przypadku stwierdzenia konieczności zastąpienia niezgodnych ze stanem faktycznym lub prawnym danych zawartych w karcie ewidencyjnej zabytku włączonej do wojewódzkiej ewidencji zabytków odpowiednimi danymi zgodnymi ze stanem faktycznym lub prawnym, ujawnienia nowych danych lub usunięcia błędnych danych wojewódzki konserwator zabytków sporządza nową kartę ewidencyjną zabytku zawierającą dane zgodne ze stanem faktycznym i prawnym.  
+  > 2. Pierwotną kartę ewidencyjną zabytku pozostawia się w wojewódzkiej ewidencji zabytków, łącząc ją trwale z nową kartą ewidencyjną zabytku.  
+  > 3. Generalny Konserwator Zabytków włącza nową kartę ewidencyjną zabytku do krajowej ewidencji zabytków po otrzymaniu tej karty od wojewódzkiego konserwatora zabytków. Przepis ust. 2 stosuje się odpowiednio.”;  
+- **4)** § 15 otrzymuje brzmienie:
+
+  > „§ 15.  
+  > 1. O zamiarze włączenia karty ewidencyjnej zabytku do wojewódzkiej ewidencji zabytków, o włączeniu tej karty, o sporządzeniu nowej karty ewidencyjnej zabytku, o zamiarze wyłączenia karty ewidencyjnej zabytku z wojewódzkiej ewidencji zabytków lub o wyłączeniu tej karty wojewódzki konserwator zabytków zawiadamia niezwłocznie właściciela lub posiadacza zabytku albo nieruchomości lub rzeczy ruchomej, która przestała być zabytkiem.  
+  > 2. Zawiadomienia o zamiarze włączenia karty ewidencyjnej zabytku będącego historycznym układem urbanistycznym lub ruralistycznym, historycznym zespołem budowlanym, terenem, na którym znajduje się znaczna ilość zabytków archeologicznych, lub nieruchomością o nieuregulowanym stanie prawnym do wojewódzkiej ewidencji zabytków, o włączeniu tej karty, o sporządzeniu nowej karty ewidencyjnej takiego zabytku, o zamiarze wyłączenia karty ewidencyjnej takiego zabytku z wojewódzkiej ewidencji zabytków lub o wyłączeniu tej karty dokonuje się w drodze obwieszczenia umieszczanego na stronie podmiotowej Biuletynu Informacji Publicznej.  
+  > 3. Zawiadomienie o zamiarze włączenia karty ewidencyjnej zabytku, o sporządzeniu nowej karty ewidencyjnej zabytku albo o zamiarze wyłączenia karty ewidencyjnej zabytku z wojewódzkiej ewidencji zabytków umieszcza się na stronie podmiotowej Biuletynu Informacji Publicznej do czasu zamieszczenia informacji odpowiednio o włączeniu karty ewidencyjnej zabytku, o włączeniu nowej karty ewidencyjnej zabytku do wojewódzkiej ewidencji zabytków albo o wyłączeniu karty ewidencyjnej zabytku z wojewódzkiej ewidencji zabytków.  
+  > 4. Wojewódzki konserwator zabytków o zamiarze włączenia karty ewidencyjnej zabytku do wojewódzkiej ewidencji zabytków, o sporządzeniu nowej karty ewidencyjnej zabytku albo o zamiarze wyłączenia karty ewidencyjnej zabytku z wojewódzkiej ewidencji zabytków zawiadamia właściciela lub posiadacza zabytku albo nieruchomości lub rzeczy ruchomej, która przestała być zabytkiem, na co najmniej 14 dni przed planowanym terminem włączenia karty ewidencyjnej zabytku do wojewódzkiej ewidencji zabytków albo wyłączenia tej karty z wojewódzkiej ewidencji zabytków.  
+  > 5. O włączeniu karty ewidencyjnej zabytku nieruchomego do wojewódzkiej ewidencji zabytków albo sporządzeniu nowej karty ewidencyjnej zabytku wojewódzki konserwator zabytków zawiadamia niezwłocznie także właściwego wójta (burmistrza, prezydenta miasta), w celu ujęcia tego zabytku w gminnej ewidencji zabytków albo włączenia nowej karty adresowej zabytku do gminnej ewidencji zabytków.  
+  > 6. Przed włączeniem karty ewidencyjnej zabytku ruchomego niewpisanego do rejestru do wojewódzkiej ewidencji zabytków wojewódzki konserwator zabytków występuje do właściciela zabytku o wyrażenie pisemnej zgody na włączenie karty ewidencyjnej tego zabytku do wojewódzkiej ewidencji zabytków.  
+  > 7. Do zawiadomienia o włączeniu karty ewidencyjnej zabytku do wojewódzkiej ewidencji zabytków, o którym mowa w ust. 1 i 5, lub o sporządzeniu nowej karty ewidencyjnej zabytku dołącza się odpowiednio potwierdzoną kopię karty ewidencyjnej zabytku albo nowej karty ewidencyjnej zabytku.”;  
+- **5)** w § 17 w ust. 1:
+    - **a)** pkt 7 i 8 otrzymują brzmienie: „7) fotografia z opisem wskazującym orientację w stosunku do sąsiednich terenów lub stron świata albo mapa z zaznaczonym stanowiskiem archeologicznym; 8) historia, opis i wartości;”,
+    - **b)** dodaje się pkt 9–11 w brzmieniu: „9) stan zachowania i postulaty dotyczące konserwacji; 10) wykonanie karty; 11) zatwierdzenie karty.”;
+
+- **6)** § 18 otrzymuje brzmienie:
+
+  > „§ 18.  
+  > 1. Wójt (burmistrz, prezydent miasta) włącza kartę adresową zabytku nieruchomego wpisanego do rejestru zabytków lub znajdującego się w wojewódzkiej ewidencji zabytków do gminnej ewidencji zabytków po zweryfikowaniu, że dane zawarte w karcie adresowej są wyczerpujące i zgodne z danymi zawartymi odpowiednio w decyzji o wpisie zabytku do rejestru lub w karcie ewidencyjnej zabytku.  
+  > 2. W przypadku zabytku nieruchomego innego niż zabytki określone w ust. 1 wójt (burmistrz, prezydent miasta) włącza kartę adresową tego zabytku do gminnej ewidencji zabytków po osiągnięciu porozumienia z wojewódzkim konserwatorem zabytków co do zasadności ujęcia tego zabytku w gminnej ewidencji zabytków oraz najpilniejszych postulatów konserwatorskich.”;  
+- **7)** po § 18 dodaje się § 18a–18c w brzmieniu:
+
+  > „§ 18a.  
+  > 1. W przypadku stwierdzenia konieczności zastąpienia niezgodnych ze stanem faktycznym lub prawnym danych zawartych w karcie adresowej zabytku włączonej do gminnej ewidencji zabytków odpowiednimi danymi zgodnymi ze stanem faktycznym lub prawnym, ujawnienia nowych danych lub usunięcia błędnych danych wójt (burmistrz, prezydent miasta) sporządza nową kartę adresową zabytku zawierającą dane zgodne ze stanem faktycznym i prawnym.  
+  > 2. Pierwotną kartę adresową zabytku pozostawia się w gminnej ewidencji zabytków, łącząc ją trwale z nową kartą adresową zabytku.  
+  > § 18b.  
+  > 1. O zamiarze włączenia karty adresowej zabytku do gminnej ewidencji zabytków, o włączeniu tej karty, o sporządzeniu nowej karty adresowej zabytku, o zamiarze wyłączenia karty adresowej zabytku z gminnej ewidencji zabytków lub o wyłączeniu tej karty wójt (burmistrz, prezydent miasta) zawiadamia niezwłocznie właściciela lub posiadacza zabytku albo nieruchomości, która przestała być zabytkiem.  
+  > 2. Zawiadomienia o zamiarze włączenia karty adresowej zabytku będącego historycznym układem urbanistycznym lub ruralistycznym, historycznym zespołem budowlanym, terenem, na którym znajduje się znaczna ilość zabytków archeologicznych, lub nieruchomością o nieuregulowanym stanie prawnym do gminnej ewidencji zabytków, o włączeniu tej karty, o sporządzeniu nowej karty adresowej takiego zabytku, o zamiarze wyłączenia karty adresowej takiego zabytku z gminnej ewidencji zabytków lub o wyłączeniu tej karty dokonuje się w drodze obwieszczenia umieszczonego na stronie podmiotowej Biuletynu Informacji Publicznej.  
+  > 3. Zawiadomienie o zamiarze włączenia karty adresowej zabytku, o sporządzeniu nowej karty adresowej zabytku albo o zamiarze wyłączenia karty adresowej zabytku z gminnej ewidencji zabytków umieszcza się na stronie podmiotowej Biuletynu Informacji Publicznej do czasu zamieszczenia informacji odpowiednio o włączeniu karty adresowej zabytku, o włączeniu nowej karty adresowej zabytku do gminnej ewidencji zabytków albo o wyłączeniu karty adresowej zabytku z gminnej ewidencji zabytków.  
+  > 4. Wójt (burmistrz, prezydent miasta) o zamiarze włączenia karty adresowej zabytku do gminnej ewidencji zabytków, o sporządzeniu nowej karty adresowej zabytku albo o zamiarze wyłączenia karty adresowej zabytku z gminnej ewidencji zabytków zawiadamia właściciela lub posiadacza zabytku albo nieruchomości lub rzeczy ruchomej, która przestała być zabytkiem, na co najmniej 14 dni przed planowanym terminem włączenia karty adresowej zabytku do gminnej ewidencji zabytków albo wyłączenia tej karty z gminnej ewidencji zabytków.  
+  > 5. Do zawiadomienia o włączeniu karty adresowej zabytku do gminnej ewidencji zabytków lub o sporządzeniu nowej karty adresowej zabytku dołącza się odpowiednio potwierdzoną kopię karty adresowej zabytku albo nowej karty adresowej zabytku.  
+  > § 18c. Dokumenty dotyczące zabytku uzasadniające treść w karcie adresowej zabytku rubryki „czas powstania”  
+
+  oraz rubryki „historia, opis i wartość” gromadzi się w sposób zapewniający ich kompletność i ochronę przed nieuprawnionym dostępem.”;
+- **8)** załącznik nr 5 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+- **9)** po załączniku nr 5 do rozporządzenia dodaje się załączniki nr 5a i 5b w brzmieniu określonym odpowiednio w załącznikach nr 2 i 3 do niniejszego rozporządzenia;
+- **10)** załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia.
+
+**§ 2.**
+
+1. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do zdarzeń, które następują po dniu wejścia w życie niniejszego rozporządzenia.
+
+2. Dotychczas wykonane karty ewidencyjne zabytku stają się kartami ewidencyjnymi zabytku w rozumieniu niniejszego rozporządzenia.
+
+3. Dotychczas wykonane karty adresowe zabytku nieruchomego stają się kartami adresowymi zabytku nieruchomego w rozumieniu niniejszego rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński W W M W W U K T Y B A Z A W O E RDA A T RA K G
+

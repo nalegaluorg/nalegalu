@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000656) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/656/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej Na podstawie art. 63 ust. 6 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 28 września 2012 r. w sprawie warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 1094) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Dopuszcza się przewóz osoby wyznaczonej do informowania kierującego o sytuacji drogowej pojazdem specjalnym oraz pojazdem używanym do celów specjalnych, poza miejscem siedzącym wyznaczonym dla obsługi pojazdu, pod warunkiem że prędkość pojazdu nie przekracza 25 km/h.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: z up. P. Bejda
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 28 września 2012 r. w sprawie warunków przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. poz. 1094) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Dopuszcza się przewóz osoby wyznaczonej do informowania kierującego o sytuacji drogowej pojazdem specjalnym oraz pojazdem używanym do celów specjalnych, poza miejscem siedzącym wyznaczonym dla obsługi pojazdu, pod warunkiem że prędkość pojazdu nie przekracza 25 km/h.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: z up. P. Bejda
 

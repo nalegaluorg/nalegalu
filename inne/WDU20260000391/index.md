@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r.
 poz. 334, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. z 2025 r. poz. 1569) w § 1 w pkt 36 lit. a otrzymuje brzmienie: „a) Sądowi Rejonowemu w Świdnicy sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Dzierżoniowie, Kłodzku, Wałbrzychu i Ząbkowicach Śląskich,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2026 r.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. z 2025 r. poz. 1569) w § 1 w pkt 36 lit. a otrzymuje brzmienie: „a) Sądowi Rejonowemu w Świdnicy sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Dzierżoniowie, Kłodzku, Wałbrzychu i Ząbkowicach Śląskich,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2026 r. Minister Sprawiedliwości: W. Żurek
 

@@ -27,41 +27,6 @@ source: pdf
 
 w sprawie wniosków dotyczących rejestracji pośredniczących podmiotów tytoniowych Na podstawie art. 20i ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2018 r. poz. 1114, z późn. zm.
 zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór wniosku o wpis do rejestru pośredniczących podmiotów tytoniowych, stanowiący załącznik nr 1 do rozporządzenia;
-2) wzór wniosku o zmianę wpisu do rejestru pośredniczących podmiotów tytoniowych, stanowiący załącznik nr 2 do rozporządzenia;
-3) wykaz dokumentów, które należy dołączyć do wniosków, o których mowa w pkt 1 i 2.
-§ 2. 1. W przypadku podmiotu krajowego do wniosku, o którym mowa w § 1 pkt 1, dołącza się:
-1) informację z Krajowego Rejestru Karnego o niekaralności osób, które kierują działalnością podmiotu, za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe – sporządzoną nie wcześniej niż na miesiąc przed dniem złożenia wniosku;
-2) zaświadczenie wydane przez właściwy oddział Zakładu Ubezpieczeń Społecznych lub właściwą jednostkę organizacyjną Kasy Rolniczego Ubezpieczenia Społecznego o niezaleganiu przez podmiot z zapłatą składek na ubezpieczenia społeczne i zdrowotne – sporządzone nie wcześniej niż 3 miesiące przed dniem złożenia wniosku;
-3) oświadczenie podmiotu, że w okresie ostatnich 3 lat, licząc od dnia złożenia wniosku o wpis do rejestru pośredniczących podmiotów tytoniowych, nie zostało mu cofnięte ze względu na naruszenie przepisów prawa żadne z udzielonych mu zezwoleń, o których mowa w art. 84 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, zwanej dalej „ustawą”, jak również że nie została mu cofnięta koncesja lub zezwolenie na prowadzenie działalności gospodarczej oraz że nie została wydana decyzja o zakazie wykonywania przez niego działalności regulowanej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629, 1633 i 2212) w zakresie wyrobów akcyzowych;
-4) oświadczenie podmiotu, że nie jest wobec niego prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe.
-2. W przypadku przedsiębiorcy zagranicznego posiadającego oddział z siedzibą na terytorium kraju utworzony na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 649 i 1293 oraz z 2019 r. poz. 622) do wniosku, o którym mowa w § 1 pkt 1, dołącza się:
-1) informację z Krajowego Rejestru Karnego o niekaralności osób upoważnionych do reprezentowania oddziału za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe – sporządzoną nie wcześniej niż na miesiąc przed dniem złożenia wniosku;
-2) zaświadczenie wydane przez właściwy oddział Zakładu Ubezpieczeń Społecznych lub właściwą jednostkę organizacyjną Kasy Rolniczego Ubezpieczenia Społecznego o niezaleganiu przez oddział z zapłatą składek na ubezpieczenia społeczne i zdrowotne – sporządzone nie wcześniej niż na 3 miesiące przed dniem złożenia wniosku;
-3) oświadczenie osób upoważnionych do reprezentowania oddziału przedsiębiorcy zagranicznego, że w okresie ostatnich 3 lat, licząc od dnia złożenia wniosku o wpis do rejestru pośredniczących podmiotów tytoniowych, nie zostało mu cofnięte ze względu na naruszenie przepisów prawa żadne z udzielonych mu zezwoleń, o których mowa w art. 84 ust. 1 ustawy, jak również że nie została mu cofnięta koncesja lub zezwolenie na prowadzenie działalności gospodarczej oraz że nie została wydana decyzja o zakazie wykonywania przez niego działalności regulowanej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców w zakresie wyrobów akcyzowych;
-4) oświadczenie osób upoważnionych do reprezentowania oddziału przedsiębiorcy zagranicznego, że nie jest wobec tego oddziału prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe;
-5) urzędowe odpisy lub uwierzytelnione urzędowo kopie dokumentów, wydane przez organ właściwy dla siedziby lub miejsca zamieszkania przedsiębiorcy zagranicznego, potwierdzające: jego imię i nazwisko lub nazwę, adres jego zamieszkania lub siedziby, numer identyfikacyjny używany w państwie zamieszkania lub siedziby, informacje o prowadzonej przez niego działalności, w szczególności urzędowy odpis dokumentu potwierdzającego rejestrację przedsiębiorcy zagranicznego, na podstawie którego przedsiębiorca ten wykonuje działalność gospodarczą.
-§ 3. W przypadku przedsiębiorcy zagranicznego nieposiadającego oddziału z siedzibą na terytorium kraju, utworzonego na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej do wniosku, o którym mowa w § 1 pkt 1, dołącza się:
-1) dokumenty, o których mowa w § 2 ust. 2 pkt 5;
-2) oświadczenie przedsiębiorcy zagranicznego o wyznaczeniu dla celów akcyzy podmiotu go reprezentującego na terytorium kraju, wraz z oznaczeniem:
-a) naczelnika urzędu skarbowego, któremu podmiot reprezentujący złożył zgłoszenie rejestracyjne zgodnie z art. 16 ustawy,
-b) daty złożenia zgłoszenia rejestracyjnego przez podmiot reprezentujący.
-§ 4. 1. Dokumenty, o których mowa w § 2 ust. 2 pkt 5, sporządzone w języku obcym dołącza się wraz z ich tłumaczeniem na język polski:
-1) sporządzonym i poświadczonym przez tłumacza przysięgłego albo sprawdzonym i poświadczonym przez tłumacza przysięgłego wykonujących zawód tłumacza przysięgłego na warunkach określonych w ustawie z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2017 r. poz. 1505, z 2018 r. poz. 1669 oraz z 2019 r. poz. 730) lub
-2) sporządzonym i poświadczonym przez tłumacza przysięgłego mającego siedzibę na terytorium jednego z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – w przypadku przedsiębiorców zagranicznych z tych państw.
-2. Urzędowe odpisy dokumentów, o których mowa w § 2 ust. 2 pkt 5, powinny być poświadczone przez apostille, jeżeli przedsiębiorca zagraniczny działa na terenie państwa będącego stroną Konwencji znoszącej wymóg legalizacji zagranicznych dokumentów urzędowych, sporządzonej w Hadze dnia 5 października 1961 r. (Dz. U. z 2005 r. poz. 938 i 939), albo przez legalizację, jeżeli przedsiębiorca zagraniczny działa na terytorium państwa niebędącego stroną tej konwencji.
-§ 5. 1. Dokumenty, o których mowa w § 2 ust. 1 pkt 1 i 2 oraz ust. 2 pkt 1 i 2, dołącza się w oryginale lub uwierzytelnionej kopii.
-2. Dokumenty, o których mowa w § 2 i § 3, powinny zawierać dane aktualne w dniu składania wniosku.
-§ 6. Do wniosku, o którym mowa w § 1 pkt 2, dołącza się dokumenty określone w § 2 i § 3, które dotyczą zmiany. Przepisy § 4 i § 5 stosuje się odpowiednio.
-§ 7. Dokumentów, o których mowa w § 2 i § 3, nie dołącza się, jeżeli:
-1) właściwy naczelnik urzędu skarbowego, do którego składany jest wniosek o wpis do rejestru pośredniczących podmiotów tytoniowych lub wniosek o zmianę wpisu do rejestru pośredniczących podmiotów tytoniowych, dysponuje tymi dokumentami i dane zawarte w tych dokumentach są aktualne lub
-2) dane zawarte w dokumentach znajdują się w prowadzonych przez podmioty publiczne bazach danych, do których dostęp ma naczelnik urzędu skarbowego.
-§ 8. Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r.
-Minister Finansów: T. Czerwińska Załączniki do rozporządzenia Ministra Finansów z dnia 25 kwietnia 2019 r. (poz.
-…..) WZÓR Załącznik nr 1 WZÓR Naczelnik …………………….
-Urzędu Skarbowego w ...............................................
-W N I O S E K o wpis do rejestru pośredniczących podmiotów tytoniowych UWAGA: wniosek składa się z 3 części – w zależności od podmiotu należy wypełnić tylko jedną z nich
 1. Imię i nazwisko lub nazwa ……………….………………………………………………………… …………………………………………………….…………………………………………………
 2. Adres zamieszkania lub adres siedziby Kraj………………………… Województwo…………………… Powiat………………….…… Gmina……………………… Miejscowość…………………..… Ulica………………………… Nr domu…………….……… Nr lokalu…………….……...…… Kod pocztowy…………….… Poczta*………………….…… Telefon* ………………………… Faks* ………………………..
 Adres e-mail* ……………………………………………………..
@@ -170,6 +135,60 @@ zm.), − jeżeli wartość nieruchomości określona przez powołanego przez or
 2) nie może być obciążona ograniczonymi prawami rzeczowymi, z wyjątkiem służebności przesyłu, – zbycie albo obciążenie nieruchomości prawami, o których mowa w art. 69a ust. 9 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, uważa się za równoznaczne z sytuacją, w której złożone zabezpieczenie akcyzowe nie zapewnia pokrycia w należnej wysokości kwoty zobowiązania podatkowego albo kwoty zobowiązania podatkowego oraz opłaty paliwowej.
 Zgodnie z art. 70 ust. 3 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym zabezpieczenie złożone w formie hipoteki na nieruchomości może stanowić pokrycie do 45% zabezpieczenia akcyzowego. Pozostałą część zabezpieczenia akcyzowego składa się w jednej lub kilku formach przewidzianych w art. 67 ust. 1 pkt 1–5 tej ustawy.
 Właściwość naczelnika urzędu skarbowego, do którego przedsiębiorca zagraniczny nieposiadający oddziału z siedzibą na terytorium kraju składa wniosek o wpis do rejestru pośredniczących podmiotów tytoniowych, jest ustalana na podstawie art. 14 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór wniosku o wpis do rejestru pośredniczących podmiotów tytoniowych, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** wzór wniosku o zmianę wpisu do rejestru pośredniczących podmiotów tytoniowych, stanowiący załącznik nr 2 do rozporządzenia;
+- **3)** wykaz dokumentów, które należy dołączyć do wniosków, o których mowa w pkt 1 i 2.
+
+**§ 2.**
+
+1. W przypadku podmiotu krajowego do wniosku, o którym mowa w § 1 pkt 1, dołącza się:
+
+- **1)** informację z Krajowego Rejestru Karnego o niekaralności osób, które kierują działalnością podmiotu, za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe – sporządzoną nie wcześniej niż na miesiąc przed dniem złożenia wniosku;
+- **2)** zaświadczenie wydane przez właściwy oddział Zakładu Ubezpieczeń Społecznych lub właściwą jednostkę organizacyjną Kasy Rolniczego Ubezpieczenia Społecznego o niezaleganiu przez podmiot z zapłatą składek na ubezpieczenia społeczne i zdrowotne – sporządzone nie wcześniej niż 3 miesiące przed dniem złożenia wniosku;
+- **3)** oświadczenie podmiotu, że w okresie ostatnich 3 lat, licząc od dnia złożenia wniosku o wpis do rejestru pośredniczących podmiotów tytoniowych, nie zostało mu cofnięte ze względu na naruszenie przepisów prawa żadne z udzielonych mu zezwoleń, o których mowa w art. 84 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, zwanej dalej „ustawą”, jak również że nie została mu cofnięta koncesja lub zezwolenie na prowadzenie działalności gospodarczej oraz że nie została wydana decyzja o zakazie wykonywania przez niego działalności regulowanej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646, 1479, 1629, 1633 i 2212) w zakresie wyrobów akcyzowych;
+- **4)** oświadczenie podmiotu, że nie jest wobec niego prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe.
+
+2. W przypadku przedsiębiorcy zagranicznego posiadającego oddział z siedzibą na terytorium kraju utworzony na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 649 i 1293 oraz z 2019 r. poz. 622) do wniosku, o którym mowa w § 1 pkt 1, dołącza się:
+
+- **1)** informację z Krajowego Rejestru Karnego o niekaralności osób upoważnionych do reprezentowania oddziału za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe – sporządzoną nie wcześniej niż na miesiąc przed dniem złożenia wniosku;
+- **2)** zaświadczenie wydane przez właściwy oddział Zakładu Ubezpieczeń Społecznych lub właściwą jednostkę organizacyjną Kasy Rolniczego Ubezpieczenia Społecznego o niezaleganiu przez oddział z zapłatą składek na ubezpieczenia społeczne i zdrowotne – sporządzone nie wcześniej niż na 3 miesiące przed dniem złożenia wniosku;
+- **3)** oświadczenie osób upoważnionych do reprezentowania oddziału przedsiębiorcy zagranicznego, że w okresie ostatnich 3 lat, licząc od dnia złożenia wniosku o wpis do rejestru pośredniczących podmiotów tytoniowych, nie zostało mu cofnięte ze względu na naruszenie przepisów prawa żadne z udzielonych mu zezwoleń, o których mowa w art. 84 ust. 1 ustawy, jak również że nie została mu cofnięta koncesja lub zezwolenie na prowadzenie działalności gospodarczej oraz że nie została wydana decyzja o zakazie wykonywania przez niego działalności regulowanej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców w zakresie wyrobów akcyzowych;
+- **4)** oświadczenie osób upoważnionych do reprezentowania oddziału przedsiębiorcy zagranicznego, że nie jest wobec tego oddziału prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe;
+- **5)** urzędowe odpisy lub uwierzytelnione urzędowo kopie dokumentów, wydane przez organ właściwy dla siedziby lub miejsca zamieszkania przedsiębiorcy zagranicznego, potwierdzające: jego imię i nazwisko lub nazwę, adres jego zamieszkania lub siedziby, numer identyfikacyjny używany w państwie zamieszkania lub siedziby, informacje o prowadzonej przez niego działalności, w szczególności urzędowy odpis dokumentu potwierdzającego rejestrację przedsiębiorcy zagranicznego, na podstawie którego przedsiębiorca ten wykonuje działalność gospodarczą.
+
+**§ 3.** W przypadku przedsiębiorcy zagranicznego nieposiadającego oddziału z siedzibą na terytorium kraju, utworzonego na warunkach i zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej do wniosku, o którym mowa w § 1 pkt 1, dołącza się:
+
+- **1)** dokumenty, o których mowa w § 2 ust. 2 pkt 5;
+- **2)** oświadczenie przedsiębiorcy zagranicznego o wyznaczeniu dla celów akcyzy podmiotu go reprezentującego na terytorium kraju, wraz z oznaczeniem:
+    - **a)** naczelnika urzędu skarbowego, któremu podmiot reprezentujący złożył zgłoszenie rejestracyjne zgodnie z art. 16 ustawy,
+    - **b)** daty złożenia zgłoszenia rejestracyjnego przez podmiot reprezentujący.
+
+**§ 4.**
+
+1. Dokumenty, o których mowa w § 2 ust. 2 pkt 5, sporządzone w języku obcym dołącza się wraz z ich tłumaczeniem na język polski:
+
+- **1)** sporządzonym i poświadczonym przez tłumacza przysięgłego albo sprawdzonym i poświadczonym przez tłumacza przysięgłego wykonujących zawód tłumacza przysięgłego na warunkach określonych w ustawie z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2017 r. poz. 1505, z 2018 r. poz. 1669 oraz z 2019 r. poz. 730) lub
+- **2)** sporządzonym i poświadczonym przez tłumacza przysięgłego mającego siedzibę na terytorium jednego z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – w przypadku przedsiębiorców zagranicznych z tych państw.
+
+2. Urzędowe odpisy dokumentów, o których mowa w § 2 ust. 2 pkt 5, powinny być poświadczone przez apostille, jeżeli przedsiębiorca zagraniczny działa na terenie państwa będącego stroną Konwencji znoszącej wymóg legalizacji zagranicznych dokumentów urzędowych, sporządzonej w Hadze dnia 5 października 1961 r. (Dz. U. z 2005 r. poz. 938 i 939), albo przez legalizację, jeżeli przedsiębiorca zagraniczny działa na terytorium państwa niebędącego stroną tej konwencji.
+
+**§ 5.**
+
+1. Dokumenty, o których mowa w § 2 ust. 1 pkt 1 i 2 oraz ust. 2 pkt 1 i 2, dołącza się w oryginale lub uwierzytelnionej kopii.
+
+2. Dokumenty, o których mowa w § 2 i § 3, powinny zawierać dane aktualne w dniu składania wniosku.
+
+**§ 6.** Do wniosku, o którym mowa w § 1 pkt 2, dołącza się dokumenty określone w § 2 i § 3, które dotyczą zmiany. Przepisy § 4 i § 5 stosuje się odpowiednio.
+
+**§ 7.** Dokumentów, o których mowa w § 2 i § 3, nie dołącza się, jeżeli:
+
+- **1)** właściwy naczelnik urzędu skarbowego, do którego składany jest wniosek o wpis do rejestru pośredniczących podmiotów tytoniowych lub wniosek o zmianę wpisu do rejestru pośredniczących podmiotów tytoniowych, dysponuje tymi dokumentami i dane zawarte w tych dokumentach są aktualne lub
+- **2)** dane zawarte w dokumentach znajdują się w prowadzonych przez podmioty publiczne bazach danych, do których dostęp ma naczelnik urzędu skarbowego.
+
+**§ 8.** Rozporządzenie wchodzi w życie z dniem 1 maja 2019 r. Minister Finansów: T. Czerwińska Załączniki do rozporządzenia Ministra Finansów z dnia 25 kwietnia 2019 r. (poz. …..) WZÓR Załącznik nr 1 WZÓR Naczelnik ……………………. Urzędu Skarbowego w ............................................... W N I O S E K o wpis do rejestru pośredniczących podmiotów tytoniowych UWAGA: wniosek składa się z 3 części – w zależności od podmiotu należy wypełnić tylko jedną z nich
 
 ## CZĘŚĆ I Dotyczy podmiotu krajowego
 

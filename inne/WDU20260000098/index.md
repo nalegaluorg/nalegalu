@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie mieszanek materiału siewnego Na podstawie art. 57 ust. 11 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129 oraz z 2025 r.
 poz. 1709) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 27 listopada 2013 r. w sprawie mieszanek materiału siewnego (Dz. U. poz. 1553) w § 3 uchyla się ust. 3.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 27 listopada 2013 r. w sprawie mieszanek materiału siewnego (Dz. U. poz. 1553) w § 3 uchyla się ust. 3.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
 

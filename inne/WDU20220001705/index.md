@@ -27,354 +27,327 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia Na podstawie art. 47 ust. 1 pkt 1 lit. c, d i g ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r.
 poz. 1082 oraz z 2022 r. poz. 655, 1079, 1116, 1383 i 1700) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 stycznia 2018 r. w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia (Dz. U. poz. 467, z 2020 r.
-poz. 1248, z 2021 r. poz. 1537 oraz z 2022 r. poz. 622) wprowadza się następujące zmiany:
-1) w załączniku nr 1:
-a) w części zatytułowanej „Przedmioty w liceum ogólnokształcącym i technikum mogą być nauczane w zakresie podstawowym lub w zakresie rozszerzonym:” pkt 2 otrzymuje brzmienie: „2) w zakresie podstawowym i w zakresie rozszerzonym – przedmioty: język polski, język obcy nowożytny, matematyka, język mniejszości narodowej lub etnicznej, język mniejszości narodowej – język niemiecki oraz język regionalny – język kaszubski, historia, geografia, biologia, chemia, filozofia, język łaciński i kultura antyczna, fizyka, informatyka;”,
-b) w części zatytułowanej „W czteroletnim liceum ogólnokształcącym i pięcioletnim technikum są realizowane następujące przedmioty:” po pkt 22 dodaje się pkt 22a w brzmieniu: „22a) język mniejszości narodowej – język niemiecki ;”,
-c) część zatytułowana „ Edukacja dla bezpieczeństwa ” otrzymuje brzmienie: „Edukacja dla bezpieczeństwa Przedmiot przygotowuje uczniów teoretycznie i praktycznie do właściwego zachowania się oraz odpowiednich reakcji w sytuacjach trudnych i kryzysowych, stwarzających zagrożenie dla zdrowia i życia. Przedmiot obejmuje treści kształcenia z zakresu bezpieczeństwa państwa oraz treści dotyczące organizacji działań ratowniczych, pierwszej pomocy i edukacji obronnej. Niezwykle ważne jest, aby kłaść szczególny nacisk na kształcenie umiejętności praktycznych, powtarzanych możliwie często, szczególnie przy nauce pierwszej pomocy, terenoznawstwa oraz strzelectwa. Wyrabianie w ten sposób u uczniów odpowiednich nawyków ma istotne znaczenie w wykorzystywaniu przez nich zdobytych umiejętności w warunkach realnego zagrożenia, kiedy to naturalnie występujący wysoki poziom stresu wpływa na proces decyzyjny.
-Bezpieczeństwo państwa jest pojmowane jako obszar wiedzy, który objaśnia działanie mechanizmów rządzących zapewnieniem ładu, porządku i stabilności społeczności ludzkich, towarzyszących temu koncepcji, metod i form postępowania. Trzeba ten obszar rozpatrywać w kontekście umiejętności skutecznego działania i radzenia sobie poszczególnych jednostek w sytuacjach określonych zagrożeń. Rozumienie problematyki bezpieczeństwa państwa ma przy tym wieloaspektową wykładnię: pozwala zrozumieć przeszłość, tworzy obraz teraźniejszości i stanowi przesłanki do myślenia o przyszłości. Ujęta w treściach kształcenia problematyka koncentruje się na zarządzaniu, polityce i strategii bezpieczeństwa, z uwzględnieniem także kontekstu międzynarodowego.
-Umiejętność udzielania pierwszej pomocy, z uwagi na największe prawdopodobieństwo wykorzystania jej w praktyce w życiu codziennym, należy do najważniejszych tematów w przedmiocie edukacja dla bezpieczeństwa. Za szczególnie ważne w tym zakresie należy uznać właściwe postępowanie z osobami, u których wystąpiło nagłe zatrzymanie krążenia. Podjęcie akcji ratunkowej przez świadka zdarzenia, prowadzenie jej do czasu przyjazdu karetki pogotowia może uratować życie, natomiast zaniechanie działania w nieuchronny sposób zwiększa ryzyko śmierci chorego. Uczniów należy wdrażać do dbałości o bezpieczeństwo własne oraz innych, wskazując, w jaki sposób mogą uzyskać pomoc osób godnych zaufania i służb ratunkowych.”,
-d) po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej – język niemiecki” w brzmieniu: „Język mniejszości narodowej – język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej, tym samym służy kształtowaniu postaw świadomego i aktywnego uczestnictwa w życiu mieszkańców danego regionu.
-Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest motywowanie ucznia do poznawania języka i kultury niemieckiej, w tym literatury.
-Jednym z najważniejszych zadań nauczyciela jest również rozwijanie w uczniach postaw ciekawości, otwartości na otaczający świat i poszanowania kultury własnego narodu, jak również kultury polskiej i europejskiej.
-Podstawa programowa dzieli wymagania na ogólne i szczegółowe. Do wymagań ogólnych należą: świadomość własnego dziedzictwa narodowego, kształcenie językowe, kształcenie literackie i kulturowe, tworzenie wypowiedzi. Jest to kompleksowe ujęcie nadrzędnych celów kształcenia, które informują, jak rozumieć podporządkowane im wymagania szczegółowe, które odwołują się do konkretnych umiejętności oraz ściśle określonych wiadomości. Spełnianie wymagań szczegółowych służy osiąganiu wymagań ogólnych.”,
-e) część zatytułowana „ EDUKACJA DLA BEZPIECZEŃSTWA ZAKRES PODSTAWOWY ” otrzymuje brzmienie: „EDUKACJA DLA BEZPIECZEŃSTWA ZAKRES PODSTAWOWY Cele kształcenia – wymagania ogólne I. Bezpieczeństwo państwa.
-II. Przygotowanie do działań ratowniczych w sytuacjach nadzwyczajnych zagrożeń (wypadków masowych i katastrof).
-III. Podstawy pierwszej pomocy.
-IV. Edukacja obronna.
-Treści nauczania – wymagania szczegółowe I. Bezpieczeństwo państwa. Uczeń:
-1) identyfikuje wyzwania dla bezpieczeństwa indywidualnego i zbiorowego, kategoryzuje je, przypisuje im właściwe znaczenie w kontekście bezpieczeństwa lokalnego i bezpieczeństwa całego państwa;
-2) zna i wymienia zadania parlamentu, prezydenta, Rady Ministrów w dziedzinie obronności oraz elementy systemu obronnego państwa;
-3) omawia zadania, struktury organizacyjne oraz podstawowe uzbrojenie i wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej;
-4) rozumie istotę oraz zna elementy składowe systemu bezpieczeństwa, jego poszczególne instytucje, charakter związków między nimi;
-5) zna i określa zakres działania wybranych organizacji proobronnych, które zostały zdefiniowane w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974), zwanych dalej „organizacjami proobronnymi”;
-6) zna i wymienia nazwy formacji mundurowych układu pozamilitarnego państwa oraz wyjaśnia rolę i zadania tych służb w systemie bezpieczeństwa państwa;
-7) wymienia i uzasadnia geopolityczne, militarne i gospodarcze aspekty bezpieczeństwa państwa;
-8) zna i rozumie rolę świadczeń obywateli na rzecz obronności oraz zadań i kompetencji władz państwowych i samorządowych w tym zakresie;
-9) rozróżnia zagrożenia czasu pokoju i czasu wojny;
-10) podaje przykłady zarządzeń, jakie mogą wydać władze w związku z kryzysem;
-11) orientuje się w podstawowych zasadach zarządzania kryzysowego i rozumie jego istotę; wyjaśnia znaczenie pojęć siatki bezpieczeństwa i infrastruktury krytycznej;
-12) stosując właściwą terminologię, dokonuje analizy wybranych zjawisk społecznych (stany nadzwyczajne);
-13) w zakresie zagrożenia terrorystycznego wyjaśnia pojęcie terroryzmu; wymienia przykłady skutków użycia środków biologicznych, chemicznych i wybuchowych oraz omawia zasady zachowania się w przypadku zdarzeń terrorystycznych (np. w razie wtargnięcia uzbrojonej osoby do szkoły, centrum handlowego);
-14) wyjaśnia znaczenie cyberprzemocy, zna procedury postępowania w przypadku jej wystąpienia, wskazuje niewłaściwe zachowania dotyczące cyberprzemocy i wie, jaka powinna być na nie właściwa reakcja;
-15) wyjaśnia znaczenie cyberzagrożeń w wymiarze cywilnym i potrafi je rozpoznać oraz zna procedury postępowania w przypadku ich wystąpienia.
-II. Przygotowanie do działań ratowniczych w sytuacjach nadzwyczajnych zagrożeń (wypadków masowych i katastrof).
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 stycznia 2018 r. w sprawie podstawy programowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia (Dz. U. poz. 467, z 2020 r. poz. 1248, z 2021 r. poz. 1537 oraz z 2022 r. poz. 622) wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 1:
+    - **a)** w części zatytułowanej „Przedmioty w liceum ogólnokształcącym i technikum mogą być nauczane w zakresie podstawowym lub w zakresie rozszerzonym:” pkt 2 otrzymuje brzmienie: „2) w zakresie podstawowym i w zakresie rozszerzonym – przedmioty: język polski, język obcy nowożytny, matematyka, język mniejszości narodowej lub etnicznej, język mniejszości narodowej – język niemiecki oraz język regionalny – język kaszubski, historia, geografia, biologia, chemia, filozofia, język łaciński i kultura antyczna, fizyka, informatyka;”,
+    - **b)** w części zatytułowanej „W czteroletnim liceum ogólnokształcącym i pięcioletnim technikum są realizowane następujące przedmioty:” po pkt 22 dodaje się pkt 22a w brzmieniu: „22a) język mniejszości narodowej – język niemiecki ;”,
+    - **c)** część zatytułowana „ Edukacja dla bezpieczeństwa ” otrzymuje brzmienie: „Edukacja dla bezpieczeństwa Przedmiot przygotowuje uczniów teoretycznie i praktycznie do właściwego zachowania się oraz odpowiednich reakcji w sytuacjach trudnych i kryzysowych, stwarzających zagrożenie dla zdrowia i życia. Przedmiot obejmuje treści kształcenia z zakresu bezpieczeństwa państwa oraz treści dotyczące organizacji działań ratowniczych, pierwszej pomocy i edukacji obronnej. Niezwykle ważne jest, aby kłaść szczególny nacisk na kształcenie umiejętności praktycznych, powtarzanych możliwie często, szczególnie przy nauce pierwszej pomocy, terenoznawstwa oraz strzelectwa. Wyrabianie w ten sposób u uczniów odpowiednich nawyków ma istotne znaczenie w wykorzystywaniu przez nich zdobytych umiejętności w warunkach realnego zagrożenia, kiedy to naturalnie występujący wysoki poziom stresu wpływa na proces decyzyjny. Bezpieczeństwo państwa jest pojmowane jako obszar wiedzy, który objaśnia działanie mechanizmów rządzących zapewnieniem ładu, porządku i stabilności społeczności ludzkich, towarzyszących temu koncepcji, metod i form postępowania. Trzeba ten obszar rozpatrywać w kontekście umiejętności skutecznego działania i radzenia sobie poszczególnych jednostek w sytuacjach określonych zagrożeń. Rozumienie problematyki bezpieczeństwa państwa ma przy tym wieloaspektową wykładnię: pozwala zrozumieć przeszłość, tworzy obraz teraźniejszości i stanowi przesłanki do myślenia o przyszłości. Ujęta w treściach kształcenia problematyka koncentruje się na zarządzaniu, polityce i strategii bezpieczeństwa, z uwzględnieniem także kontekstu międzynarodowego. Umiejętność udzielania pierwszej pomocy, z uwagi na największe prawdopodobieństwo wykorzystania jej w praktyce w życiu codziennym, należy do najważniejszych tematów w przedmiocie edukacja dla bezpieczeństwa. Za szczególnie ważne w tym zakresie należy uznać właściwe postępowanie z osobami, u których wystąpiło nagłe zatrzymanie krążenia. Podjęcie akcji ratunkowej przez świadka zdarzenia, prowadzenie jej do czasu przyjazdu karetki pogotowia może uratować życie, natomiast zaniechanie działania w nieuchronny sposób zwiększa ryzyko śmierci chorego. Uczniów należy wdrażać do dbałości o bezpieczeństwo własne oraz innych, wskazując, w jaki sposób mogą uzyskać pomoc osób godnych zaufania i służb ratunkowych.”,
+    - **d)** po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej – język niemiecki” w brzmieniu: „Język mniejszości narodowej – język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej, tym samym służy kształtowaniu postaw świadomego i aktywnego uczestnictwa w życiu mieszkańców danego regionu. Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest motywowanie ucznia do poznawania języka i kultury niemieckiej, w tym literatury. Jednym z najważniejszych zadań nauczyciela jest również rozwijanie w uczniach postaw ciekawości, otwartości na otaczający świat i poszanowania kultury własnego narodu, jak również kultury polskiej i europejskiej. Podstawa programowa dzieli wymagania na ogólne i szczegółowe. Do wymagań ogólnych należą: świadomość własnego dziedzictwa narodowego, kształcenie językowe, kształcenie literackie i kulturowe, tworzenie wypowiedzi. Jest to kompleksowe ujęcie nadrzędnych celów kształcenia, które informują, jak rozumieć podporządkowane im wymagania szczegółowe, które odwołują się do konkretnych umiejętności oraz ściśle określonych wiadomości. Spełnianie wymagań szczegółowych służy osiąganiu wymagań ogólnych.”,
+    - **e)** część zatytułowana „ EDUKACJA DLA BEZPIECZEŃSTWA ZAKRES PODSTAWOWY ” otrzymuje brzmienie:
+
+      > „EDUKACJA DLA BEZPIECZEŃSTWA ZAKRES PODSTAWOWY Cele kształcenia – wymagania ogólne I. Bezpieczeństwo państwa. II. Przygotowanie do działań ratowniczych w sytuacjach nadzwyczajnych zagrożeń (wypadków masowych i katastrof). III. Podstawy pierwszej pomocy. IV. Edukacja obronna. Treści nauczania – wymagania szczegółowe I. Bezpieczeństwo państwa. Uczeń:  
+      > 1) identyfikuje wyzwania dla bezpieczeństwa indywidualnego i zbiorowego, kategoryzuje je, przypisuje im właściwe znaczenie w kontekście bezpieczeństwa lokalnego i bezpieczeństwa całego państwa;  
+      > 2) zna i wymienia zadania parlamentu, prezydenta, Rady Ministrów w dziedzinie obronności oraz elementy systemu obronnego państwa;  
+      > 3) omawia zadania, struktury organizacyjne oraz podstawowe uzbrojenie i wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej;  
+      > 4) rozumie istotę oraz zna elementy składowe systemu bezpieczeństwa, jego poszczególne instytucje, charakter związków między nimi;  
+      > 5) zna i określa zakres działania wybranych organizacji proobronnych, które zostały zdefiniowane w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655 i 974), zwanych dalej „organizacjami proobronnymi”;  
+
+- **6)** zna i wymienia nazwy formacji mundurowych układu pozamilitarnego państwa oraz wyjaśnia rolę i zadania tych służb w systemie bezpieczeństwa państwa;
+- **7)** wymienia i uzasadnia geopolityczne, militarne i gospodarcze aspekty bezpieczeństwa państwa;
+- **8)** zna i rozumie rolę świadczeń obywateli na rzecz obronności oraz zadań i kompetencji władz państwowych i samorządowych w tym zakresie;
+- **9)** rozróżnia zagrożenia czasu pokoju i czasu wojny;
+- **10)** podaje przykłady zarządzeń, jakie mogą wydać władze w związku z kryzysem;
+- **11)** orientuje się w podstawowych zasadach zarządzania kryzysowego i rozumie jego istotę; wyjaśnia znaczenie pojęć siatki bezpieczeństwa i infrastruktury krytycznej;
+- **12)** stosując właściwą terminologię, dokonuje analizy wybranych zjawisk społecznych (stany nadzwyczajne);
+- **13)** w zakresie zagrożenia terrorystycznego wyjaśnia pojęcie terroryzmu; wymienia przykłady skutków użycia środków biologicznych, chemicznych i wybuchowych oraz omawia zasady zachowania się w przypadku zdarzeń terrorystycznych (np. w razie wtargnięcia uzbrojonej osoby do szkoły, centrum handlowego);
+- **14)** wyjaśnia znaczenie cyberprzemocy, zna procedury postępowania w przypadku jej wystąpienia, wskazuje niewłaściwe zachowania dotyczące cyberprzemocy i wie, jaka powinna być na nie właściwa reakcja;
+- **15)** wyjaśnia znaczenie cyberzagrożeń w wymiarze cywilnym i potrafi je rozpoznać oraz zna procedury postępowania w przypadku ich wystąpienia. II. Przygotowanie do działań ratowniczych w sytuacjach nadzwyczajnych zagrożeń (wypadków masowych i katastrof).
+
 1. Ochrona ludności i obrona cywilna. Uczeń:
-1) wyjaśnia podstawowe zasady międzynarodowego prawa humanitarnego oraz wymienia podstawowe dokumenty ONZ regulujące funkcjonowanie obrony cywilnej w świecie;
-2) omawia podstawy prawne funkcjonowania obrony cywilnej w Rzeczypospolitej Polskiej;
-3) wyjaśnia rolę i zasady funkcjonowania Państwowej Straży Pożarnej oraz Państwowego Ratownictwa Medycznego;
-4) wymienia i charakteryzuje ochotnicze służby i podmioty ratownicze, takie jak: ochotnicze straże pożarne, Górskie Ochotnicze Pogotowie Ratunkowe, Tatrzańskie Ochotnicze Pogotowie Ratunkowe, Wodne Ochotnicze Pogotowie Ratunkowe;
-5) opisuje obowiązki pieszego i kierowcy w zakresie zachowania się na drodze w momencie przejazdu karetki pogotowia lub innego pojazdu z włączonymi sygnałami uprzywilejowania;
-6) identyfikuje obiekty opatrzone międzynarodowymi znakami ochrony dóbr kultury;
-7) rozpoznaje zagrożenia i ich źródła; zna zasady postępowania podczas pożaru, wypadku komunikacyjnego, w czasie zagrożenia powodzią, w przypadku katastrofy budowlanej, wycieku gazu z instalacji w budynku mieszkalnym, odnalezienia niewypału lub niewybuchu, zagrożenia lawiną, intensywnej śnieżycy;
-8) przedstawia typowe zagrożenia zdrowia i życia podczas powodzi, pożaru lub innych klęsk żywiołowych;
-9) wyjaśnia zasady postępowania w przypadku awarii instalacji chemicznej, środka transportu lub rozszczelnienia zbiorników z substancjami toksycznymi oraz zna możliwości wykorzystania środków podręcznych i masek przeciwgazowych do ochrony ludzi przed szkodliwym wykorzystaniem toksycznych środków przemysłowych oraz bojowych środków trujących;
-10) omawia zasady ewakuacji ludności i zwierząt z terenów zagrożonych;
-11) wyjaśnia zasady zaopatrzenia ludności ewakuowanej w wodę i żywność;
-12) charakteryzuje zagrożenia pożarowe w domu, w szkole i w najbliższej okolicy; wymienia rodzaje i zasady użycia podręcznego sprzętu gaśniczego oraz potrafi dobrać odpowiedni rodzaj środka gaśniczego w zależności od rodzaju pożaru (np. płonąca patelnia, komputer);
-13) wyznacza strefę bezpieczeństwa w sytuacji zagrożenia;
-14) uzasadnia potrzebę przeciwdziałania panice.
+
+- **1)** wyjaśnia podstawowe zasady międzynarodowego prawa humanitarnego oraz wymienia podstawowe dokumenty ONZ regulujące funkcjonowanie obrony cywilnej w świecie;
+- **2)** omawia podstawy prawne funkcjonowania obrony cywilnej w Rzeczypospolitej Polskiej;
+- **3)** wyjaśnia rolę i zasady funkcjonowania Państwowej Straży Pożarnej oraz Państwowego Ratownictwa Medycznego;
+- **4)** wymienia i charakteryzuje ochotnicze służby i podmioty ratownicze, takie jak: ochotnicze straże pożarne, Górskie Ochotnicze Pogotowie Ratunkowe, Tatrzańskie Ochotnicze Pogotowie Ratunkowe, Wodne Ochotnicze Pogotowie Ratunkowe;
+- **5)** opisuje obowiązki pieszego i kierowcy w zakresie zachowania się na drodze w momencie przejazdu karetki pogotowia lub innego pojazdu z włączonymi sygnałami uprzywilejowania;
+- **6)** identyfikuje obiekty opatrzone międzynarodowymi znakami ochrony dóbr kultury;
+- **7)** rozpoznaje zagrożenia i ich źródła; zna zasady postępowania podczas pożaru, wypadku komunikacyjnego, w czasie zagrożenia powodzią, w przypadku katastrofy budowlanej, wycieku gazu z instalacji w budynku mieszkalnym, odnalezienia niewypału lub niewybuchu, zagrożenia lawiną, intensywnej śnieżycy;
+- **8)** przedstawia typowe zagrożenia zdrowia i życia podczas powodzi, pożaru lub innych klęsk żywiołowych;
+- **9)** wyjaśnia zasady postępowania w przypadku awarii instalacji chemicznej, środka transportu lub rozszczelnienia zbiorników z substancjami toksycznymi oraz zna możliwości wykorzystania środków podręcznych i masek przeciwgazowych do ochrony ludzi przed szkodliwym wykorzystaniem toksycznych środków przemysłowych oraz bojowych środków trujących;
+- **10)** omawia zasady ewakuacji ludności i zwierząt z terenów zagrożonych;
+- **11)** wyjaśnia zasady zaopatrzenia ludności ewakuowanej w wodę i żywność;
+- **12)** charakteryzuje zagrożenia pożarowe w domu, w szkole i w najbliższej okolicy; wymienia rodzaje i zasady użycia podręcznego sprzętu gaśniczego oraz potrafi dobrać odpowiedni rodzaj środka gaśniczego w zależności od rodzaju pożaru (np. płonąca patelnia, komputer);
+- **13)** wyznacza strefę bezpieczeństwa w sytuacji zagrożenia;
+- **14)** uzasadnia potrzebę przeciwdziałania panice.
+
 2. Źródła promieniowania jądrowego i jego skutki. Uczeń:
-1) wymienia rodzaje znaków substancji toksycznych i miejsca ich eksponowania;
-2) rozpoznaje znaki substancji toksycznych na pojazdach i budowlach;
-3) omawia wpływ środków promieniotwórczych na ludzi, zwierzęta, żywność i wodę oraz wie, jakie materiały można wykorzystywać jako zastępcze środki ochrony dróg oddechowych i skóry;
-4) wymienia sposoby zabezpieczenia żywności i wody przed skażeniami;
-5) potrafi omówić sposób użycia indywidualnego pakietu przeciwchemicznego, a także indywidualnego pakietu radioochronnego;
-6) wyjaśnia znaczenie pojęć odkażania, dezaktywacji, dezynfekcji, deratyzacji;
-7) wyjaśnia, na czym polegają zabiegi specjalne i sanitarne.
+
+- **1)** wymienia rodzaje znaków substancji toksycznych i miejsca ich eksponowania;
+- **2)** rozpoznaje znaki substancji toksycznych na pojazdach i budowlach;
+- **3)** omawia wpływ środków promieniotwórczych na ludzi, zwierzęta, żywność i wodę oraz wie, jakie materiały można wykorzystywać jako zastępcze środki ochrony dróg oddechowych i skóry;
+- **4)** wymienia sposoby zabezpieczenia żywności i wody przed skażeniami;
+- **5)** potrafi omówić sposób użycia indywidualnego pakietu przeciwchemicznego, a także indywidualnego pakietu radioochronnego;
+- **6)** wyjaśnia znaczenie pojęć odkażania, dezaktywacji, dezynfekcji, deratyzacji;
+- **7)** wyjaśnia, na czym polegają zabiegi specjalne i sanitarne.
+
 3. Ostrzeganie ludności o zagrożeniach, alarmowanie. Uczeń:
-1) definiuje i rozpoznaje rodzaje alarmów i sygnałów alarmowych;
-2) charakteryzuje zasady zachowania się ludności oraz zna miejsca ukrycia się po ogłoszeniu poszczególnych alarmów;
-3) omawia zasady ewakuacji ludności i środków materiałowych;
-4) wskazuje drogi ewakuacji w szkole;
-5) potrafi zainstalować w telefonie komórkowym dostępny w miejscu swojego zamieszkania system ostrzegania o lokalnych zagrożeniach.
-III. Podstawy pierwszej pomocy. Uczeń:
-1) opisuje rolę układu oddychania, układu krążenia i układu nerwowego dla prawidłowego funkcjonowania organizmu; rozumie, jakie są następstwa zaburzeń czynności tych układów;
-2) podaje definicję, wymienia cele i zadania pierwszej pomocy; wymienia działania wchodzące w zakres pierwszej pomocy;
-3) rozumie znaczenie podejmowania działań z zakresu udzielania pierwszej pomocy przez świadka zdarzenia oraz przedstawia jego rolę;
-4) zna zasady bezpiecznego postępowania w miejscu zdarzenia, w tym:
-a) unikania narażania własnego zdrowia,
-b) oceniania własnych możliwości,
-c) rozpoznawania potencjalnych źródeł zagrożenia w kontakcie z poszkodowanym,
-d) wskazywania sposobu zabezpieczenia się przed zakażeniem w kontakcie z krwią i płynami ustrojowymi, stosowania uniwersalnych środków ochrony osobistej;
-5) podaje przykłady zagrożeń w środowisku domowym, ulicznym, wodnym, w przestrzeniach podziemnych, w lasach;
-6) przedstawia metody zapewnienia bezpieczeństwa własnego, osoby poszkodowanej i otoczenia w sytuacjach symulowanych podczas zajęć;
-7) potrafi rozpoznać osobę w stanie zagrożenia życia:
-a) wyjaśnia pojęcie stanu zagrożenia życia,
-b) wskazuje przyczyny i okoliczności prowadzące do szybkiego pogorszenia stanu zdrowia lub zagrożenia życia,
-c) wyjaśnia rolę układu nerwowego, układu krążenia i układu oddechowego w utrzymywaniu podstawowych funkcji życiowych;
-8) wie, jak prawidłowo wezwać pomoc:
-a) wymienia nazwy służb ratunkowych i podaje ich numery alarmowe,
-b) wskazuje, kiedy wezwać pomoc i w jaki sposób przekazać informacje o zdarzeniu;
-9) podaje przykład aplikacji na telefon komórkowy wspierającej udzielanie pierwszej pomocy;
-10) zna wyposażenie apteczki pierwszej pomocy; wymienia przedmioty, które powinny znaleźć się w apteczce np. domowej, samochodowej;
-11) zna zasady postępowania z osobą nieprzytomną:
-a) wymienia objawy utraty przytomności,
-b) ocenia przytomność poszkodowanego,
-c) ocenia czynność oddychania u osoby nieprzytomnej (trzema zmysłami przez okres do 10 sekund),
-d) wyjaśnia mechanizm niedrożności dróg oddechowych u osoby nieprzytomnej,
-e) udrażnia drogi oddechowe rękoczynem czoło – żuchwa,
-f) układa osobę nieprzytomną w pozycji bocznej bezpiecznej,
-g) zapewnia osobie nieprzytomnej komfort termiczny,
-h) systematycznie ponawia ocenę oddychania u osoby nieprzytomnej;
-12) zna i wykonuje podstawowe czynności resuscytacji krążeniowo-oddechowej:
-a) wyjaśnia pojęcie nagłego zatrzymania krążenia i wymienia jego oznaki,
-b) podaje przykłady zdarzeń, w których dochodzi do nagłego zatrzymania krążenia,
-c) opisuje algorytm podstawowych czynności resuscytacyjnych u osoby dorosłej,
-d) wymienia warunki i czynniki zapewniające resuscytację wysokiej jakości,
-e) omawia uniwersalny algorytm w nagłym zatrzymaniu krążenia,
-f) wykonuje na manekinie uciski klatki piersiowej i sztuczne oddychanie samodzielnie i we współpracy z drugą osobą,
-g) opisuje zastosowanie automatycznego defibrylatora zewnętrznego (AED) oraz wskazuje na jego znaczenie dla zwiększenia skuteczności akcji resuscytacyjnej; zna algorytm podstawowych czynności resuscytacyjnych z użyciem AED,
-h) przedstawia sytuacje, w których można prowadzić resuscytację z wyłącznym uciskaniem klatki piersiowej;
-13) wykonuje podstawowe czynności pierwszej pomocy w zadławieniu:
-a) wyjaśnia pojęcie i mechanizm zadławienia,
-b) omawia schemat postępowania w przypadku zadławienia,
-c) wykonuje na manekinie rękoczyny ratunkowe w przypadku zadławienia,
-d) wymienia przykłady działań zapobiegających zadławieniu u małych dzieci;
-14) zna zasady pierwszej pomocy w urazach kończyn:
-a) wymienia objawy związane z najczęstszymi obrażeniami narządu ruchu,
-b) opisuje metody udzielania pierwszej pomocy w urazach kończyn,
-c) wyjaśnia cel doraźnego unieruchomienia kończyny (ograniczenie ruchu, zmniejszenie bólu, ograniczenie ryzyka pogłębiania urazu, umożliwienie bezpiecznego transportu),
-d) zna i stosuje zasady unieruchomienia złamań kości długich i stawów (zasada Potta),
-e) wykonuje opatrunek osłaniający na ranę w obrębie kończyny oraz opatrunek uciskowy,
-f) w sytuacjach symulowanych prawidłowo unieruchamia kończynę po urazie w zastanej pozycji, wykorzystuje dostępny sprzęt do unieruchomienia złamanej kończyny,
-g) wymienia sytuacje, w których może dojść do urazów kręgosłupa,
-h) opisuje przykłady powikłań wynikających z urazu kręgosłupa,
-i) przedstawia metody przenoszenia poszkodowanych z urazem kręgosłupa,
-j) wymienia przykłady zapobiegania urazom w sporcie, w domu, w pracy;
-15) rozumie, na czym polega udzielanie pierwszej pomocy w oparzeniach:
-a) wyjaśnia pojęcie oparzenia, wymienia przyczyny i rodzaje oparzeń,
-b) omawia zasady postępowania w przypadku oparzenia termicznego,
-c) demonstruje metodę chłodzenia w przypadku oparzenia kończyny,
-d) wymienia przykłady zapobiegania oparzeniom, ze szczególnym uwzględnieniem małych dzieci i środowiska domowego;
-16) rozumie, na czym polega udzielenie pierwszej pomocy we wstrząsie:
-a) zna najważniejsze przyczyny wstrząsu, wymienia zagrożenia z niego wynikające,
-b) stosuje zasady postępowania przeciwwstrząsowego (ułożenie, ochrona przed wychłodzeniem, wsparcie psychiczne poszkodowanego);
-17) rozumie, na czym polega udzielenie pierwszej pomocy osobie podtopionej:
-a) opisuje sytuacje, w jakich dochodzi do tonięcia, wyjaśnia zagrożenia związane z wodą,
-b) wyjaśnia różnicę między podtopieniem a utonięciem,
-c) odtwarza etapy pomocy w podtopieniach; w sytuacji symulowanej podejmuje czynności pierwszej pomocy po wydobyciu poszkodowanego z wody (pozycja bezpieczna, zapobieganie zachłyśnięciu i wychłodzeniu),
-d) wyjaśnia, jak zapobiegać tonięciu i wypadkom w akwenach;
-18) rozumie, na czym polega udzielenie pierwszej pomocy w zatruciach:
-a) omawia zatrucie tlenkiem węgla (czadem), lekami lub środkami odurzającymi; wymienia ich objawy,
-b) opisuje zasady bezpieczeństwa w pomieszczeniach skażonych tlenkiem węgla, gazami toksycznymi,
-c) w sytuacji symulowanej podejmuje prawidłowe działania wobec osoby podejrzanej o zatrucie;
-19) zna zasady pierwszej pomocy w sytuacji wystąpienia zagrożenia z użyciem broni konwencjonalnej:
-a) zna definicję masywnego krwotoku,
-b) stosuje stazę taktyczną,
-c) umie zatamować krwotok za pomocą opaski improwizowanej,
-d) potrafi zatamować krwotok przy użyciu opatrunku uciskowego, potrafi zatamować krwotok z trudno dostępnych miejsc: pachy, pachwiny, szyi,
-e) zna zasady zachowania się w sytuacji zagrożenia (zasada „uciekaj, schowaj się, walcz”).
-IV. Edukacja obronna.
+
+- **1)** definiuje i rozpoznaje rodzaje alarmów i sygnałów alarmowych;
+- **2)** charakteryzuje zasady zachowania się ludności oraz zna miejsca ukrycia się po ogłoszeniu poszczególnych alarmów;
+- **3)** omawia zasady ewakuacji ludności i środków materiałowych;
+- **4)** wskazuje drogi ewakuacji w szkole;
+- **5)** potrafi zainstalować w telefonie komórkowym dostępny w miejscu swojego zamieszkania system ostrzegania o lokalnych zagrożeniach. III. Podstawy pierwszej pomocy. Uczeń:
+- **1)** opisuje rolę układu oddychania, układu krążenia i układu nerwowego dla prawidłowego funkcjonowania organizmu; rozumie, jakie są następstwa zaburzeń czynności tych układów;
+- **2)** podaje definicję, wymienia cele i zadania pierwszej pomocy; wymienia działania wchodzące w zakres pierwszej pomocy;
+- **3)** rozumie znaczenie podejmowania działań z zakresu udzielania pierwszej pomocy przez świadka zdarzenia oraz przedstawia jego rolę;
+- **4)** zna zasady bezpiecznego postępowania w miejscu zdarzenia, w tym:
+    - **a)** unikania narażania własnego zdrowia,
+    - **b)** oceniania własnych możliwości,
+    - **c)** rozpoznawania potencjalnych źródeł zagrożenia w kontakcie z poszkodowanym,
+    - **d)** wskazywania sposobu zabezpieczenia się przed zakażeniem w kontakcie z krwią i płynami ustrojowymi, stosowania uniwersalnych środków ochrony osobistej;
+
+- **5)** podaje przykłady zagrożeń w środowisku domowym, ulicznym, wodnym, w przestrzeniach podziemnych, w lasach;
+- **6)** przedstawia metody zapewnienia bezpieczeństwa własnego, osoby poszkodowanej i otoczenia w sytuacjach symulowanych podczas zajęć;
+- **7)** potrafi rozpoznać osobę w stanie zagrożenia życia:
+    - **a)** wyjaśnia pojęcie stanu zagrożenia życia,
+    - **b)** wskazuje przyczyny i okoliczności prowadzące do szybkiego pogorszenia stanu zdrowia lub zagrożenia życia,
+    - **c)** wyjaśnia rolę układu nerwowego, układu krążenia i układu oddechowego w utrzymywaniu podstawowych funkcji życiowych;
+
+- **8)** wie, jak prawidłowo wezwać pomoc:
+    - **a)** wymienia nazwy służb ratunkowych i podaje ich numery alarmowe,
+    - **b)** wskazuje, kiedy wezwać pomoc i w jaki sposób przekazać informacje o zdarzeniu;
+
+- **9)** podaje przykład aplikacji na telefon komórkowy wspierającej udzielanie pierwszej pomocy;
+- **10)** zna wyposażenie apteczki pierwszej pomocy; wymienia przedmioty, które powinny znaleźć się w apteczce np. domowej, samochodowej;
+- **11)** zna zasady postępowania z osobą nieprzytomną:
+    - **a)** wymienia objawy utraty przytomności,
+    - **b)** ocenia przytomność poszkodowanego,
+    - **c)** ocenia czynność oddychania u osoby nieprzytomnej (trzema zmysłami przez okres do 10 sekund),
+    - **d)** wyjaśnia mechanizm niedrożności dróg oddechowych u osoby nieprzytomnej,
+    - **e)** udrażnia drogi oddechowe rękoczynem czoło – żuchwa,
+    - **f)** układa osobę nieprzytomną w pozycji bocznej bezpiecznej,
+    - **g)** zapewnia osobie nieprzytomnej komfort termiczny,
+    - **h)** systematycznie ponawia ocenę oddychania u osoby nieprzytomnej;
+
+- **12)** zna i wykonuje podstawowe czynności resuscytacji krążeniowo-oddechowej:
+    - **a)** wyjaśnia pojęcie nagłego zatrzymania krążenia i wymienia jego oznaki,
+    - **b)** podaje przykłady zdarzeń, w których dochodzi do nagłego zatrzymania krążenia,
+    - **c)** opisuje algorytm podstawowych czynności resuscytacyjnych u osoby dorosłej,
+    - **d)** wymienia warunki i czynniki zapewniające resuscytację wysokiej jakości,
+    - **e)** omawia uniwersalny algorytm w nagłym zatrzymaniu krążenia,
+    - **f)** wykonuje na manekinie uciski klatki piersiowej i sztuczne oddychanie samodzielnie i we współpracy z drugą osobą,
+    - **g)** opisuje zastosowanie automatycznego defibrylatora zewnętrznego (AED) oraz wskazuje na jego znaczenie dla zwiększenia skuteczności akcji resuscytacyjnej; zna algorytm podstawowych czynności resuscytacyjnych z użyciem AED,
+    - **h)** przedstawia sytuacje, w których można prowadzić resuscytację z wyłącznym uciskaniem klatki piersiowej;
+
+- **13)** wykonuje podstawowe czynności pierwszej pomocy w zadławieniu:
+    - **a)** wyjaśnia pojęcie i mechanizm zadławienia,
+    - **b)** omawia schemat postępowania w przypadku zadławienia,
+    - **c)** wykonuje na manekinie rękoczyny ratunkowe w przypadku zadławienia,
+    - **d)** wymienia przykłady działań zapobiegających zadławieniu u małych dzieci;
+
+- **14)** zna zasady pierwszej pomocy w urazach kończyn:
+    - **a)** wymienia objawy związane z najczęstszymi obrażeniami narządu ruchu,
+    - **b)** opisuje metody udzielania pierwszej pomocy w urazach kończyn,
+    - **c)** wyjaśnia cel doraźnego unieruchomienia kończyny (ograniczenie ruchu, zmniejszenie bólu, ograniczenie ryzyka pogłębiania urazu, umożliwienie bezpiecznego transportu),
+    - **d)** zna i stosuje zasady unieruchomienia złamań kości długich i stawów (zasada Potta),
+    - **e)** wykonuje opatrunek osłaniający na ranę w obrębie kończyny oraz opatrunek uciskowy,
+    - **f)** w sytuacjach symulowanych prawidłowo unieruchamia kończynę po urazie w zastanej pozycji, wykorzystuje dostępny sprzęt do unieruchomienia złamanej kończyny,
+    - **g)** wymienia sytuacje, w których może dojść do urazów kręgosłupa,
+    - **h)** opisuje przykłady powikłań wynikających z urazu kręgosłupa,
+    - **i)** przedstawia metody przenoszenia poszkodowanych z urazem kręgosłupa,
+    - **j)** wymienia przykłady zapobiegania urazom w sporcie, w domu, w pracy;
+
+- **15)** rozumie, na czym polega udzielanie pierwszej pomocy w oparzeniach:
+    - **a)** wyjaśnia pojęcie oparzenia, wymienia przyczyny i rodzaje oparzeń,
+    - **b)** omawia zasady postępowania w przypadku oparzenia termicznego,
+    - **c)** demonstruje metodę chłodzenia w przypadku oparzenia kończyny,
+    - **d)** wymienia przykłady zapobiegania oparzeniom, ze szczególnym uwzględnieniem małych dzieci i środowiska domowego;
+
+- **16)** rozumie, na czym polega udzielenie pierwszej pomocy we wstrząsie:
+    - **a)** zna najważniejsze przyczyny wstrząsu, wymienia zagrożenia z niego wynikające,
+    - **b)** stosuje zasady postępowania przeciwwstrząsowego (ułożenie, ochrona przed wychłodzeniem, wsparcie psychiczne poszkodowanego);
+
+- **17)** rozumie, na czym polega udzielenie pierwszej pomocy osobie podtopionej:
+    - **a)** opisuje sytuacje, w jakich dochodzi do tonięcia, wyjaśnia zagrożenia związane z wodą,
+    - **b)** wyjaśnia różnicę między podtopieniem a utonięciem,
+    - **c)** odtwarza etapy pomocy w podtopieniach; w sytuacji symulowanej podejmuje czynności pierwszej pomocy po wydobyciu poszkodowanego z wody (pozycja bezpieczna, zapobieganie zachłyśnięciu i wychłodzeniu),
+    - **d)** wyjaśnia, jak zapobiegać tonięciu i wypadkom w akwenach;
+
+- **18)** rozumie, na czym polega udzielenie pierwszej pomocy w zatruciach:
+    - **a)** omawia zatrucie tlenkiem węgla (czadem), lekami lub środkami odurzającymi; wymienia ich objawy,
+    - **b)** opisuje zasady bezpieczeństwa w pomieszczeniach skażonych tlenkiem węgla, gazami toksycznymi,
+    - **c)** w sytuacji symulowanej podejmuje prawidłowe działania wobec osoby podejrzanej o zatrucie;
+
+- **19)** zna zasady pierwszej pomocy w sytuacji wystąpienia zagrożenia z użyciem broni konwencjonalnej: IV. Edukacja obronna.
+    - **a)** zna definicję masywnego krwotoku,
+    - **b)** stosuje stazę taktyczną,
+    - **c)** umie zatamować krwotok za pomocą opaski improwizowanej,
+    - **d)** potrafi zatamować krwotok przy użyciu opatrunku uciskowego, potrafi zatamować krwotok z trudno dostępnych miejsc: pachy, pachwiny, szyi,
+    - **e)** zna zasady zachowania się w sytuacji zagrożenia (zasada „uciekaj, schowaj się, walcz”).
+
 1. Reagowanie w sytuacji zagrożenia działaniami wojennymi. Uczeń:
-1) zna ograniczenia organizmu ludzkiego związane z brakiem snu, wody i pożywienia oraz wpływem czynników atmosferycznych na możliwości przetrwania;
-2) potrafi wyjaśnić zjawisko paniki oraz omawia sposoby jej przeciwdziałania;
-3) zna środki podręczne do zwiększenia szans przetrwania i rozumie, jak je wykorzystywać;
-4) zna możliwości pozyskiwania wody i pożywienia występujących w środowisku naturalnym.
+
+- **1)** zna ograniczenia organizmu ludzkiego związane z brakiem snu, wody i pożywienia oraz wpływem czynników atmosferycznych na możliwości przetrwania;
+- **2)** potrafi wyjaśnić zjawisko paniki oraz omawia sposoby jej przeciwdziałania;
+- **3)** zna środki podręczne do zwiększenia szans przetrwania i rozumie, jak je wykorzystywać;
+- **4)** zna możliwości pozyskiwania wody i pożywienia występujących w środowisku naturalnym.
+
 2. Cyberbezpieczeństwo w wymiarze wojskowym. Uczeń:
-1) zna zasady identyfikacji podstawowych zagrożeń cyberbezpieczeństwa;
-2) zna i rozumie wybrane definicje cyberbezpieczeństwa zawarte w ustawie z dnia 5 lipca 2018 r.
-o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2020 r. poz. 1369, z 2021 r. poz. 2333 i 2445 oraz z 2022 r. poz. 655) oraz dokumentach NATO;
-3) potrafi określić podział ról w czasie współdziałania układu militarnego z podmiotami układu pozamilitarnego;
-4) potrafi odbierać ze zrozumieniem, tworzyć i przedstawiać złożone wypowiedzi dotyczące roli i miejsca cyberbezpieczeństwa militarnego w systemie cyberbezpieczeństwa państwa.
+
+- **1)** zna zasady identyfikacji podstawowych zagrożeń cyberbezpieczeństwa;
+- **2)** zna i rozumie wybrane definicje cyberbezpieczeństwa zawarte w ustawie z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2020 r. poz. 1369, z 2021 r. poz. 2333 i 2445 oraz z 2022 r. poz. 655) oraz dokumentach NATO;
+- **3)** potrafi określić podział ról w czasie współdziałania układu militarnego z podmiotami układu pozamilitarnego;
+- **4)** potrafi odbierać ze zrozumieniem, tworzyć i przedstawiać złożone wypowiedzi dotyczące roli i miejsca cyberbezpieczeństwa militarnego w systemie cyberbezpieczeństwa państwa.
+
 3. Szkolenie strzeleckie. Uczeń:
-1) zna zasady składania i rozkładania broni;
-2) potrafi wykonać strzelanie z wykorzystaniem: broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych.
-Warunki i sposób realizacji W ramach przedmiotu edukacja dla bezpieczeństwa uczniowie zdobywają wiedzę oraz umiejętności umożliwiające zrozumienie zróżnicowanej natury mechanizmów oraz zmiennych wpływających na szeroko pojmowane bezpieczeństwo państwa, ich dynamikę oraz wzajemne zależności wynikające m.in. ze struktury i funkcjonowania państwa oraz jego zagrożeń. Zadaniem nauczyciela jest też wyrabianie u uczniów nawyków i wpojenie im zasad działania ratowniczego w przypadku zagrożeń nadzwyczajnych (wypadków masowych, katastrof) oraz podstawowych zasad pierwszej pomocy.
-Tempo zachodzących przeobrażeń powinno stanowić dla nauczyciela bodziec do stałego uzupełniania wiedzy, monitorowania zmian, w tym organizacyjno-prawnych, samodoskonalenia, tak aby przekazywane uczniom informacje były aktualne i rzetelne (ważna jest tu kontrola materiałów źródłowych innych niż podręcznik oraz materiały opracowane dla nauczyciela, a także dbałość o wiarygodność informacji).
-Wskazane jest zaplecze umożliwiające przechowywanie pomocy dydaktycznych, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Niezbędny jest sprzęt audiowizualny i prezentacyjny (komputer, rzutnik zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której są realizowane zajęcia, powinny być zagwarantowane wymienione elementy bazowe.
-Osiągnięcie przez uczniów umiejętności praktycznego udzielania pierwszej pomocy wymaga realizacji zajęć w blokach po dwie godziny lekcyjne. W celu zapewnienia efektywnej nauki przedmiotu klasę należy podzielić na grupy o liczebności nie większej niż 15 uczniów, w szczególności podczas ćwiczeń z resuscytacji krążeniowo-oddechowej, postępowania z osobą nieprzytomną oraz opatrywania ran, złamań i krwotoków.
-Ćwiczenia na manekinach szkoleniowych wymagają zapewnienia uniwersalnych warunków i środków higieny i dezynfekcji (mycie rąk, wymiana worków oddechowych w manekinach, używanie środka odkażającego i maseczek).
-Ze względów bezpieczeństwa uczniowie nie mogą wykonywać ćwiczeń, które mogłyby spowodować przeciążenie kręgosłupa. Dlatego niedozwolone jest podczas zajęć ćwiczenie dźwigania poszkodowanych w ramach doraźnej ewakuacji z miejsca zdarzenia.
-Osiągnięcie przez uczniów umiejętności składania i rozkładania broni, jak również prowadzenie zajęć ze strzelectwa powinno być realizowane przy użyciu różnego rodzaju broni. Wymaga to współpracy z jednostkami wojskowymi lub organizacjami proobronnymi. Zajęcia mogą być realizowane przy użyciu środków własnych szkoły, jak również przez wykorzystanie strzelnic, strzelnic wirtualnych i laserowych znajdujących się w posiadaniu jednostek samorządu terytorialnego oraz innych podmiotów.
-Należy uwrażliwić uczniów na cyberprzestępstwo, w tym cyberprzestępstwo militarne, przez odwołanie do wybranych aktów prawnych. Nauczyciel powinien też zachęcać uczniów do poszerzania wiedzy w zakresie cyberbezpieczeństwa.
-Lekcje w szkole powinny być uzupełniane innymi formami zajęć, wśród których wymienić można:
-1) wizyty w instytucjach państwa, centrum zarządzania kryzysowego, straży pożarnej, Policji, stacjach pogotowia ratunkowego, jednostkach wojskowych czy organizacjach proobronnych;
-2) specjalistyczne obozy szkoleniowo-wypoczynkowe realizowane podczas ferii letnich lub krótsze, kilkudniowe kursy;
-3) wycieczki;
-4) zajęcia plenerowe;
-5) tworzenie wystaw prac własnych, klasowych i szkolnych, promujących właściwe zachowania w razie zagrożeń;
-6) zwiedzanie wystaw powiązanych z treściami przedmiotu;
-7) spotkania (np. udział w zajęciach), prelekcje, wykłady z pracownikami kluczowych instytucji bezpieczeństwa – Policji, Państwowej Straży Pożarnej i Sił Zbrojnych Rzeczypospolitej Polskiej oraz pracownikami straży miejskiej, pogotowia, kombatantami;
-8) udział w konkursach, których zakres jest zgodny bądź zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa.
-Wskazane jest nawiązywanie współpracy między szkołami a lokalnymi jednostkami Policji, Państwową Strażą Pożarną, ośrodkami szkolenia, jednostkami wojskowymi i organizacjami proobronnymi, zarówno we wspomnianym zakresie prowadzenia zajęć, jak i udostępnianiu specjalistycznego sprzętu czy pomocy dydaktycznych.
-Ważne znaczenie w rozwoju ma też wychowanie mające na celu kształtowanie postawy patriotycznej oraz poczucia odpowiedzialności za dorobek minionych pokoleń. Trwający proces globalizacyjny we wszystkich obszarach życia generuje nowe problemy, zagrożenia, nakłania do stawiania pytań. Nauczyciel powinien stwarzać warunki sprzyjające swobodnej wymianie myśli i poglądów, dbając przy tym o zachowanie niezbędnej dyscypliny i porządek zajęć.
-Warunki bazowe do realizacji programu: pracownia lub klasa do prowadzenia zajęć z przedmiotu edukacja dla bezpieczeństwa o wielkości umożliwiającej aranżację do ćwiczeń praktycznych. Wskazane jest zaplecze lub zabezpieczone miejsce umożliwiające przechowywanie pomocy dydaktycznych, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Szkoła powinna posiadać sprzęt audiowizualny i prezentacyjny (komputer, rzutnik zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której realizowane są zajęcia, powinny być zagwarantowane wymienione elementy bazowe.”,
-f) po części zatytułowanej „JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ZAKRES PODSTAWOWY I ROZSZERZONY” dodaje się część zatytułowaną „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ZAKRES PODSTAWOWY I ROZSZERZONY” w brzmieniu: „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ZAKRES PODSTAWOWY I ROZSZERZONY Cele kształcenia – wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.
-1. Rozumienie znaczenia literatury i kultury w kształtowaniu poczucia tożsamości narodowej.
-2. Pogłębianie wiedzy z zakresu literatury, kultury narodowej.
-3. Kształtowanie świadomego uczestnictwa w życiu społeczności lokalnej.
-II. Kształcenie językowe.
-1. Rozumienie wartości języka ojczystego oraz jego funkcji w budowaniu wspólnoty narodowej.
-2. Kształtowanie odpowiedzialności za świadome posługiwanie się językiem ojczystym.
-3. Zdobycie funkcjonalnej wiedzy na temat wybranych zagadnień z zakresu gramatyki.
-4. Pogłębianie umiejętności porozumiewania się (słuchania, mówienia, czytania i pisania) w sytuacjach prywatnych i publicznych, w tym z osobami z trudnościami w komunikowaniu się.
-5. Pogłębianie umiejętności mówienia i pisania zgodnego z zasadami poprawności językowej.
-III. Kształcenie literackie i kulturowe.
-1. Pogłębianie umiejętności analizy i interpretacji utworów literackich i innych tekstów kultury z wykorzystaniem właściwej terminologii.
-2. Rozumienie zależności między wydarzeniami historycznymi a kulturą.
-IV. Tworzenie wypowiedzi.
-1. Rozwijanie i pogłębianie umiejętności wypowiadania się w różnych formach.
-2. Kształtowanie umiejętności argumentowania.
-3. Doskonalenie umiejętności tworzenia wypowiedzi pisemnych.
-4. Doskonalenie umiejętności wyrażania własnych poglądów i opinii.
-5. Tworzenie wypowiedzi pisemnych, z uwzględnieniem estetyki tekstu i zasad jego organizacji, również z wykorzystaniem nowoczesnych technologii.
-Treści nauczania – wymagania szczegółowe ZAKRES PODSTAWOWY ZAKRES ROZSZERZONY I. Świadomość własnego dziedzictwa narodowego. Uczeń:
-1) rozumie tematy, motywy, toposy charakterystyczne spełnia wymagania określone dla zakresu podstawowego, dla literatury narodowej; a ponadto analizuje różne wzorce postaw społecznych,
-2) rozumie związek poznanych utworów z życiem narodowych, obywatelskich, obyczajowych, kulturowych, narodu. moralnych, religijnych i w ich kontekście kształtuje swoją tożsamość.
-II. Kształcenie językowe.
-1. Gramatyka. Uczeń:
-1) odmienia części mowy; spełnia wymagania określone dla zakresu podstawowego.
-2) nazywa nieodmienne części mowy;
-3) wskazuje funkcje składniowe wyrazów użytych w zdaniu;
-4) analizuje zdania złożone współrzędnie i podrzędnie, rozpoznaje równoważniki zdań;
-5) rozpoznaje temat słowotwórczy i formant w wyrazach pochodnych i wskazuje funkcje formantów w nadawaniu znaczenia wyrazom pochodnym;
-6) rozpoznaje znaczenie akcentu wyrazowego.
-2. Zróżnicowanie języka. Uczeń:
-1) rozróżnia treści wprowadzane do komunikatu spełnia wymagania określone dla zakresu podstawowego, za pomocą znaków werbalnych i niewerbalnych, a ponadto dostrzega zróżnicowanie słownictwa, mając świadomość różnych sposobów ich odbioru rozpoznaje słownictwo ogólnonarodowe i słownictwo i interpretacji; o ograniczonym zasięgu (np. archaizmy i neologizmy).
-2) rozpoznaje wyrazy wieloznaczne i rozumie ich znaczenia w tekście;
-3) rozumie pojęcie stylu, rozpoznaje styl potoczny, urzędowy, artystyczny, publicystyczny;
-4) rozpoznaje wyrazy rodzime i zapożyczone, rozumie ich funkcję w tekście.
-3. Komunikacja językowa i kultura języka. Uczeń:
-1) posługuje się oficjalną i nieoficjalną odmianą języka spełnia wymagania określone dla zakresu podstawowego, narodowego; a ponadto:
-2) rozumie konsekwencje stosowania form 1) rozróżnia i omawia na wybranych przykładach charakterystycznych dla środków komunikacji funkcje języka – poznawczą (kategoryzowanie elektronicznej (takich jak: SMS, e-mail, czat); świata), komunikacyjną (tworzenie wypowiedzi
-3) świadomie korzysta z zasobów internetu; i stosowanie języka w aktach komunikacji) oraz społeczną (jednoczenie grupy i budowanie
-4) rozpoznaje typ nadawcy i adresata tekstu; tożsamości);
-5) stosuje zasady etyki i etykiety językowej, wie, w jaki 2) stosuje uczciwe zabiegi perswazyjne, zdając sobie sposób zwracać się do rozmówcy w zależności od sprawę z ich funkcji.
-sytuacji i relacji z rozmówcą.
-4. Odbiór przekazu językowego. Uczeń:
-1) wskazuje charakterystyczne cechy stylu danego spełnia wymagania określone dla zakresu podstawowego, tekstu, nazywa zastosowane w nim środki językowe a ponadto rozpoznaje wypowiedź argumentacyjną, i określa ich funkcje w tekście; wskazuje tezę, argumenty i wnioski.
-2) odczytuje sens tekstu publicystycznego (a w nim znaczenia wyrazów, związków frazeologicznych, zdań, sensu akapitu), potrafi wydzielić jego fragmenty i objaśnić ich sens oraz funkcję na tle całości;
-3) dokonuje logicznego streszczenia tekstu (wyróżniając kluczowe pojęcia, twierdzenia i sposób ich uzasadnienia);
-4) odczytuje sens tekstów artystycznych i publicystycznych, również tych umieszczonych w internecie, uwzględniając zawarte w nich informacje zarówno jawne, jak i ukryte;
-5) nazywa swoje reakcje czytelnicze (np. wrażenia);
-6) formułuje wnioski wynikające z przesłanek zawartych w tekście;
-7) rozpoznaje wypowiedź o charakterze np. informacyjnym, ekspresywnym i impresywnym;
-8) odróżnia opinię od faktu.
-5. Ortografia i interpunkcja. Uczeń:
-1) pisze poprawnie pod względem ortograficznym spełnia wymagania określone dla zakresu podstawowego.
-i interpunkcyjnym;
-2) wykorzystuje wiedzę o składni w stosowaniu reguł interpunkcyjnych.
-III. Kształcenie literackie i kulturowe.
-1. Analiza i interpretacja utworów literackich. Uczeń:
-1) zna podstawy periodyzacji literatury mniejszości spełnia wymagania określone dla zakresu podstawowego, narodowej; a ponadto:
-2) zna podstawowe prądy literackie i artystyczne 1) przeprowadza interpretację porównawczą utworów w epokach literackich; literackich;
-3) rozpoznaje gatunki literackie, potrafi wymienić ich 2) wykorzystuje w interpretacji elementy znaczące cechy; dla odczytania sensu utworu (tytuł, podtytuł, puenta,
-4) wskazuje zastosowane w utworze językowe środki kompozycja, słowa klucze, motto);
-wyrazu artystycznego oraz inne podstawowe 3) wykorzystuje w interpretacji utworu konteksty: wyznaczniki poetyki danego utworu (z zakresu literacki, kulturowy, filozoficzny.
-podstaw wersyfikacji, kompozycji, genologii) i określa ich funkcje;
-5) korzysta z informacji zawartych w encyklopediach i słownikach w formie książkowej i elektronicznej;
-6) rozpoznaje w utworze sposoby kreowania bohatera i świata przedstawionego (narracja, fabuła, sytuacja liryczna, akcja);
-7) rozpoznaje podstawowe motywy literackie w utworze;
-8) wykorzystuje w interpretacji utworu podstawowe konteksty: historyczny, biograficzny;
-9) dostrzega obecne w utworach literackich oraz innych tekstach kultury wartości narodowe i uniwersalne.
-2. Odbiór tekstów kultury. Uczeń:
-1) interpretuje dzieła sztuki; spełnia wymagania określone dla zakresu podstawowego.
-2) dostrzega specyfikę przekazów audiowizualnych (przedstawień teatralnych, filmów, programów informacyjnych, programów rozrywkowych).
-IV. Tworzenie wypowiedzi.
-1. Mówienie. Uczeń:
-1) tworzy samodzielną wypowiedź według spełnia wymagania określone dla zakresu podstawowego.
-podstawowych zasad logiki i retoryki;
-2) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);
-3) publicznie wygłasza przygotowaną przez siebie wypowiedź, dbając o dźwiękową wyrazistość przekazu (w tym tempo mowy i donośność, poprawny akcent wyrazowy oraz poprawną intonację zdania);
-4) hierarchizuje informacje w zależności od ich funkcji w przekazie.
-2. Pisanie. Uczeń:
-1) hierarchizuje informacje w zależności od ich funkcji spełnia wymagania określone dla zakresu podstawowego, w przekazie; a ponadto tworzy samodzielną wypowiedź
-2) tworzy dłuższy tekst pisany (rozprawka, recenzja, argumentacyjną według podstawowych zasad logiki referat, interpretacja utworu literackiego lub jego i retoryki (stawia tezę lub hipotezę, dobiera argumenty, fragmentu) zgodnie z podstawowymi regułami jego porządkuje je, hierarchizuje, dokonuje ich selekcji pod organizacji, przestrzegając zasad spójności względem użyteczności wypowiedzi, podsumowuje, znaczeniowej i logicznej; dobiera przykłady ilustrujące wywód myślowy, przeprowadza prawidłowe wnioskowanie).
-3) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);
-4) opracowuje redakcyjnie własny tekst (dokonuje przeróbek, uzupełnień, transformacji, skrótów, eliminuje przypadkową niejednoznaczność wypowiedzi);
-5) wykonuje różne działania na tekście cudzym (np. streszcza, parafrazuje, sporządza konspekt, cytuje, sporządza przypisy);
-6) uwzględnia w interpretacji konteksty: biograficzny, historyczny.
-Warunki i sposób realizacji Szkoła ponadpodstawowa to czas wchodzenia młodego człowieka w dorosłe życie, pogłębiania poczucia własnej świadomości narodowej, poznawania kultury, doskonalenia umiejętności komunikacyjnych, myślenia konkretnego i abstrakcyjnego. To również okres intensywnego rozwoju osobowości ucznia zarówno pod względem intelektualnym, jak i emocjonalnym, jego zainteresowań, wyznaczania celów, do których dąży. Uczeń tworzy fundamenty swojego światopoglądu, kształtuje hierarchię wartości, samodzielnie analizuje i porządkuje rzeczywistość.
-Staje się świadomym odbiorcą kultury, potrafi systematyzować swoją wiedzę o języku, tradycji i współczesności, dostrzegać i rozumieć wartości narodowe i uniwersalne.
-Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest przede wszystkim:
-1) pogłębianie poczucia tożsamości narodowej, szacunku do kultury i tradycji;
-2) rozwijanie motywacji do poznawania języka, kultury, tradycji;
-3) kształtowanie postawy otwartości wobec innych kultur i szacunku dla ich dorobku;
-4) pogłębianie umiejętności sprawnego posługiwania się językiem niemieckim w różnych sytuacjach komunikacyjnych z zachowaniem norm kultury, etyki i etykiety językowej;
-5) pogłębianie umiejętności posługiwania się różnymi gatunkami wypowiedzi ustnych i pisemnych, które są niezbędne w edukacji szkolnej oraz w różnych sytuacjach życiowych;
-6) inspirowanie ucznia do samodzielnego poszukiwania źródeł wiedzy, również z wykorzystaniem środowiska wirtualnego, z zachowaniem zasad bezpieczeństwa w sieci.
-Nauczyciel odwołuje się do wiedzy i umiejętności nabytych przez ucznia na wcześniejszych etapach edukacyjnych. Wprowadza go w świat kultury wysokiej, uczy świadomego, krytycznego odbioru tekstów kultury. Zwraca uwagę na specyfikę życia mniejszości narodowej. Stwarza warunki do samodzielnego rozwoju intelektualnego oraz inspiruje do pogłębiania wiedzy. W tym celu stosuje wybrane metody wspierające rozwój ucznia, w tym metodę projektu, polegającą na szerokiej współpracy między uczniami.”;
-2) w załączniku nr 3:
-a) w części zatytułowanej „Przedmioty nauczania z zakresu kształcenia ogólnego w branżowej szkole II stopnia:” po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) język mniejszości narodowej – język niemiecki ;”,
-b) po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej – język niemiecki” w brzmieniu: „Język mniejszości narodowej – język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej.
-Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest motywowanie ucznia do poznawania języka ojczystego oraz kultury narodowej, w tym literatury.
-Jednym z najważniejszych zadań nauczyciela jest również rozwijanie w uczniach postaw ciekawości, otwartości na otaczający świat i poszanowania kultury własnego narodu, jak również kultury polskiej i europejskiej.
-Podstawa programowa dzieli wymagania na ogólne i szczegółowe. Do wymagań ogólnych należą: świadomość własnego dziedzictwa narodowego, kształcenie językowe, kształcenie literackie i kulturowe, tworzenie wypowiedzi. Jest to kompleksowe ujęcie nadrzędnych celów kształcenia, które informują, jak rozumieć podporządkowane im wymagania szczegółowe, które odwołują się do konkretnych umiejętności oraz ściśle określonych wiadomości. Spełnianie wymagań szczegółowych służy osiąganiu wymagań ogólnych.”,
-c) po części zatytułowanej „ JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ” dodaje się część zatytułowaną „ JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ” w brzmieniu: „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI Cele kształcenia – wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.
-1. Rozumienie znaczenia literatury i kultury w kształtowaniu poczucia tożsamości narodowej.
-2. Pogłębianie wiedzy z zakresu kultury narodowej.
-II. Kształcenie językowe.
-1. Wykorzystanie języka narodowego do wzmacniania poczucia tożsamości i uczestnictwa w życiu wspólnoty.
-2. Kształcenie umiejętności posługiwania się leksykalnymi zasobami języka.
-3. Pogłębianie wiedzy na temat zagadnień z zakresu nauki o języku.
-4. Wzbogacanie umiejętności komunikacyjnych, wykorzystywanie języka narodowego w różnych sytuacjach.
-5. Pogłębianie umiejętności mówienia i pisania zgodnego z zasadami poprawności językowej.
-III. Kształcenie literackie i kulturowe.
-1. Pogłębianie umiejętności analizy i interpretacji utworów literackich i innych tekstów kultury z wykorzystaniem właściwej terminologii.
-2. Rozumienie zależności między wydarzeniami historycznymi a kulturą.
-IV. Tworzenie wypowiedzi.
-1. Rozwijanie i pogłębianie umiejętności wypowiadania się w języku narodowym w różnych formach wypowiedzi ustnych i pisemnych.
-2. Doskonalenie umiejętności wyrażania własnych sądów, poglądów i opinii.
-Treści nauczania – wymagania szczegółowe I. Świadomość własnego dziedzictwa narodowego. Uczeń:
-1) rozumie tematy, motywy charakterystyczne dla literatury narodowej;
-2) rozumie kontekst kulturowy poznawanych utworów literackich.
-II. Kształcenie językowe.
-1. Gramatyka. Uczeń:
-1) wykazuje się wiedzą z zakresu fonetyki, fleksji i składni;
-2) odmienia części mowy;
-3) wskazuje funkcje składniowe wyrazów użytych w zdaniu;
-4) analizuje zdania złożone współrzędnie i podrzędnie, rozpoznaje równoważniki zdań.
-2. Zróżnicowanie języka. Uczeń:
-1) rozumie pojęcie stylu, rozpoznaje styl potoczny, urzędowy, artystyczny, publicystyczny;
-2) rozpoznaje wyrazy wieloznaczne i rozumie ich znaczenia w tekście;
-3) rozpoznaje wyrazy rodzime i zapożyczone, rozumie ich funkcję w tekście.
-3. Komunikacja językowa i kultura języka. Uczeń:
-1) posługuje się oficjalną i nieoficjalną odmianą języka narodowego;
-2) świadomie korzysta z zasobów internetu;
-3) rozpoznaje typ nadawcy i adresata tekstu;
-4) stosuje zasady etyki i etykiety językowej, wie, w jaki sposób zwracać się do rozmówcy w zależności od sytuacji i relacji z rozmówcą;
-5) rozumie konsekwencje stosowania form charakterystycznych dla środków komunikacji elektronicznej (takich jak SMS, e-mail, czat).
-4. Odbiór przekazu językowego. Uczeń:
-1) odczytuje sens tekstów artystycznych i publicystycznych, również tych umieszczonych w internecie, uwzględniając zawarte w nich informacje zarówno jawne, jak i ukryte;
-2) nazywa swoje reakcje czytelnicze (np. wrażenia);
-3) formułuje wnioski wynikające z przesłanek zawartych w tekście;
-4) odróżnia opinię od faktu.
-5. Ortografia i interpunkcja. Uczeń:
-1) pisze poprawnie pod względem ortograficznym i interpunkcyjnym;
-2) wykorzystuje wiedzę o składni w stosowaniu reguł interpunkcyjnych.
-III. Kształcenie literackie i kulturowe.
-1. Analiza i interpretacja utworów literackich. Uczeń:
-1) rozpoznaje podstawowe motywy;
-2) wykorzystuje w interpretacji utworu konteksty: historyczny, biograficzny;
-3) rozpoznaje w utworze sposoby kreowania bohatera i świata przedstawionego (narracja, fabuła, sytuacja liryczna, akcja).
-2. Odbiór tekstów kultury.
-Uczeń interpretuje dzieła sztuki.
-IV. Tworzenie wypowiedzi.
-1. Mówienie. Uczeń:
-1) tworzy samodzielną wypowiedź według podstawowych zasad logiki i retoryki;
-2) publicznie wygłasza przygotowaną przez siebie wypowiedź, dbając o dźwiękową wyrazistość przekazu (w tym tempo mowy i donośność, poprawny akcent wyrazowy oraz poprawną intonację zdania);
-3) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);
-4) hierarchizuje informacje w zależności od ich funkcji w przekazie.
-2. Pisanie. Uczeń:
-1) tworzy dłuższy tekst pisany (rozprawka, recenzja, referat, interpretacja utworu literackiego lub jego fragmentu) zgodnie z podstawowymi regułami jego organizacji, przestrzegając zasad spójności znaczeniowej i logicznej;
-2) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);
-3) hierarchizuje informacje w zależności od ich funkcji w przekazie;
-4) wykonuje różne działania na tekście cudzym (np. streszcza, parafrazuje, sporządza konspekt, cytuje, sporządza przypisy).
-Warunki i sposób realizacji Szkoła ponadpodstawowa to czas wchodzenia młodego człowieka w dorosłe życie, pogłębiania poczucia własnej świadomości narodowej, poznawania kultury, doskonalenia umiejętności komunikacyjnych, myślenia konkretnego i abstrakcyjnego. To również okres intensywnego rozwoju osobowości ucznia zarówno pod względem intelektualnym, jak i emocjonalnym, jego zainteresowań, wyznaczania sobie celów, do których dąży. Uczeń tworzy fundamenty swojego światopoglądu, kształtuje hierarchię wartości, samodzielnie analizuje i porządkuje rzeczywistość.
-Staje się świadomym odbiorcą kultury, potrafi dostrzegać i rozumieć wartości narodowe oraz uniwersalne.
-Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest przede wszystkim:
-1) pogłębianie poczucia tożsamości narodowej, szacunku do kultury i tradycji;
-2) rozwijanie motywacji do poznawania języka, kultury, tradycji;
-3) kształtowanie postawy otwartości wobec innych kultur i szacunku dla ich dorobku;
-4) pogłębianie umiejętności sprawnego posługiwania się językiem niemieckim w różnych sytuacjach komunikacyjnych z zachowaniem norm kultury, etyki i etykiety językowej;
-5) pogłębianie umiejętności posługiwania się różnymi gatunkami wypowiedzi ustnych i pisemnych, które są niezbędne w edukacji szkolnej oraz w różnych sytuacjach życiowych;
-6) inspirowanie ucznia do samodzielnego poszukiwania źródeł wiedzy, również z wykorzystaniem środowiska wirtualnego, z zachowaniem zasad bezpieczeństwa w sieci.
-Nauczyciel odwołuje się do wiedzy i umiejętności nabytych przez ucznia na wcześniejszych etapach edukacyjnych. Wprowadza go w świat kultury wysokiej, uczy świadomego, krytycznego odbioru tekstów kultury. Zwraca uwagę na specyfikę życia mniejszości narodowej. Stwarza warunki do samodzielnego rozwoju intelektualnego oraz inspiruje do pogłębiania wiedzy. W tym celu stosuje wybrane metody wspierające rozwój ucznia, np. metodę projektu polegającą na szerokiej współpracy pomiędzy uczniami.”.
-§ 2. Podstawę programową kształcenia ogólnego dla czteroletniego liceum ogólnokształcącego i pięcioletniego technikum, stanowiącą załącznik nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w zakresie wymagania dotyczącego wykonywania przez ucznia strzelania z wykorzystaniem broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych realizuje się, począwszy od roku szkolnego 2024/2025, z tym że w przypadku liceów ogólnokształcących i techników, które na terenie danego powiatu:
-1) mają dostęp do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych – wymóg ten jest realizowany od roku szkolnego 2022/2023;
-2) nie mają dostępu do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych – wymóg ten jest realizowany w roku szkolnym 2022/2023 i 2023/2024 w miarę istniejących możliwości.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-Minister Edukacji i Nauki: wz. D. Piontkowski
+
+- **1)** zna zasady składania i rozkładania broni;
+- **2)** potrafi wykonać strzelanie z wykorzystaniem: broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych. Warunki i sposób realizacji W ramach przedmiotu edukacja dla bezpieczeństwa uczniowie zdobywają wiedzę oraz umiejętności umożliwiające zrozumienie zróżnicowanej natury mechanizmów oraz zmiennych wpływających na szeroko pojmowane bezpieczeństwo państwa, ich dynamikę oraz wzajemne zależności wynikające m.in. ze struktury i funkcjonowania państwa oraz jego zagrożeń. Zadaniem nauczyciela jest też wyrabianie u uczniów nawyków i wpojenie im zasad działania ratowniczego w przypadku zagrożeń nadzwyczajnych (wypadków masowych, katastrof) oraz podstawowych zasad pierwszej pomocy. Tempo zachodzących przeobrażeń powinno stanowić dla nauczyciela bodziec do stałego uzupełniania wiedzy, monitorowania zmian, w tym organizacyjno-prawnych, samodoskonalenia, tak aby przekazywane uczniom informacje były aktualne i rzetelne (ważna jest tu kontrola materiałów źródłowych innych niż podręcznik oraz materiały opracowane dla nauczyciela, a także dbałość o wiarygodność informacji). Wskazane jest zaplecze umożliwiające przechowywanie pomocy dydaktycznych, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Niezbędny jest sprzęt audiowizualny i prezentacyjny (komputer, rzutnik zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której są realizowane zajęcia, powinny być zagwarantowane wymienione elementy bazowe. Osiągnięcie przez uczniów umiejętności praktycznego udzielania pierwszej pomocy wymaga realizacji zajęć w blokach po dwie godziny lekcyjne. W celu zapewnienia efektywnej nauki przedmiotu klasę należy podzielić na grupy o liczebności nie większej niż 15 uczniów, w szczególności podczas ćwiczeń z resuscytacji krążeniowo-oddechowej, postępowania z osobą nieprzytomną oraz opatrywania ran, złamań i krwotoków. Ćwiczenia na manekinach szkoleniowych wymagają zapewnienia uniwersalnych warunków i środków higieny i dezynfekcji (mycie rąk, wymiana worków oddechowych w manekinach, używanie środka odkażającego i maseczek). Ze względów bezpieczeństwa uczniowie nie mogą wykonywać ćwiczeń, które mogłyby spowodować przeciążenie kręgosłupa. Dlatego niedozwolone jest podczas zajęć ćwiczenie dźwigania poszkodowanych w ramach doraźnej ewakuacji z miejsca zdarzenia. Osiągnięcie przez uczniów umiejętności składania i rozkładania broni, jak również prowadzenie zajęć ze strzelectwa powinno być realizowane przy użyciu różnego rodzaju broni. Wymaga to współpracy z jednostkami wojskowymi lub organizacjami proobronnymi. Zajęcia mogą być realizowane przy użyciu środków własnych szkoły, jak również przez wykorzystanie strzelnic, strzelnic wirtualnych i laserowych znajdujących się w posiadaniu jednostek samorządu terytorialnego oraz innych podmiotów. Należy uwrażliwić uczniów na cyberprzestępstwo, w tym cyberprzestępstwo militarne, przez odwołanie do wybranych aktów prawnych. Nauczyciel powinien też zachęcać uczniów do poszerzania wiedzy w zakresie cyberbezpieczeństwa. Lekcje w szkole powinny być uzupełniane innymi formami zajęć, wśród których wymienić można:
+- **1)** wizyty w instytucjach państwa, centrum zarządzania kryzysowego, straży pożarnej, Policji, stacjach pogotowia ratunkowego, jednostkach wojskowych czy organizacjach proobronnych;
+- **2)** specjalistyczne obozy szkoleniowo-wypoczynkowe realizowane podczas ferii letnich lub krótsze, kilkudniowe kursy;
+- **3)** wycieczki;
+- **4)** zajęcia plenerowe;
+- **5)** tworzenie wystaw prac własnych, klasowych i szkolnych, promujących właściwe zachowania w razie zagrożeń;
+- **6)** zwiedzanie wystaw powiązanych z treściami przedmiotu;
+- **7)** spotkania (np. udział w zajęciach), prelekcje, wykłady z pracownikami kluczowych instytucji bezpieczeństwa – Policji, Państwowej Straży Pożarnej i Sił Zbrojnych Rzeczypospolitej Polskiej oraz pracownikami straży miejskiej, pogotowia, kombatantami;
+- **8)** udział w konkursach, których zakres jest zgodny bądź zbieżny z problematyką przedmiotu edukacja dla bezpieczeństwa. Wskazane jest nawiązywanie współpracy między szkołami a lokalnymi jednostkami Policji, Państwową Strażą Pożarną, ośrodkami szkolenia, jednostkami wojskowymi i organizacjami proobronnymi, zarówno we wspomnianym zakresie prowadzenia zajęć, jak i udostępnianiu specjalistycznego sprzętu czy pomocy dydaktycznych. Ważne znaczenie w rozwoju ma też wychowanie mające na celu kształtowanie postawy patriotycznej oraz poczucia odpowiedzialności za dorobek minionych pokoleń. Trwający proces globalizacyjny we wszystkich obszarach życia generuje nowe problemy, zagrożenia, nakłania do stawiania pytań. Nauczyciel powinien stwarzać warunki sprzyjające swobodnej wymianie myśli i poglądów, dbając przy tym o zachowanie niezbędnej dyscypliny i porządek zajęć. Warunki bazowe do realizacji programu: pracownia lub klasa do prowadzenia zajęć z przedmiotu edukacja dla bezpieczeństwa o wielkości umożliwiającej aranżację do ćwiczeń praktycznych. Wskazane jest zaplecze lub zabezpieczone miejsce umożliwiające przechowywanie pomocy dydaktycznych, podstawowych materiałów i przyborów nauczyciela niezbędnych do prowadzenia zajęć oraz ewentualnych prac uczniów. Szkoła powinna posiadać sprzęt audiowizualny i prezentacyjny (komputer, rzutnik zamontowany na stałe lub przenośny), dostęp do internetu. Jeżeli szkoła nie dysponuje pracownią przeznaczoną do realizacji przedmiotu edukacja dla bezpieczeństwa, w klasie, w której realizowane są zajęcia, powinny być zagwarantowane wymienione elementy bazowe.”,
+    - **f)** po części zatytułowanej „JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ZAKRES PODSTAWOWY I ROZSZERZONY” dodaje się część zatytułowaną „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ZAKRES PODSTAWOWY I ROZSZERZONY” w brzmieniu:
+
+      > „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ZAKRES PODSTAWOWY I ROZSZERZONY Cele kształcenia – wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.  
+      > 1. Rozumienie znaczenia literatury i kultury w kształtowaniu poczucia tożsamości narodowej.  
+      > 2. Pogłębianie wiedzy z zakresu literatury, kultury narodowej.  
+      > 3. Kształtowanie świadomego uczestnictwa w życiu społeczności lokalnej. II. Kształcenie językowe.  
+      > 1. Rozumienie wartości języka ojczystego oraz jego funkcji w budowaniu wspólnoty narodowej.  
+      > 2. Kształtowanie odpowiedzialności za świadome posługiwanie się językiem ojczystym.  
+      > 3. Zdobycie funkcjonalnej wiedzy na temat wybranych zagadnień z zakresu gramatyki.  
+      > 4. Pogłębianie umiejętności porozumiewania się (słuchania, mówienia, czytania i pisania) w sytuacjach prywatnych i publicznych, w tym z osobami z trudnościami w komunikowaniu się.  
+      > 5. Pogłębianie umiejętności mówienia i pisania zgodnego z zasadami poprawności językowej. III. Kształcenie literackie i kulturowe.  
+      > 1. Pogłębianie umiejętności analizy i interpretacji utworów literackich i innych tekstów kultury z wykorzystaniem właściwej terminologii.  
+      > 2. Rozumienie zależności między wydarzeniami historycznymi a kulturą. IV. Tworzenie wypowiedzi.  
+      > 1. Rozwijanie i pogłębianie umiejętności wypowiadania się w różnych formach.  
+      > 2. Kształtowanie umiejętności argumentowania.  
+      > 3. Doskonalenie umiejętności tworzenia wypowiedzi pisemnych.  
+      > 4. Doskonalenie umiejętności wyrażania własnych poglądów i opinii.  
+      > 5. Tworzenie wypowiedzi pisemnych, z uwzględnieniem estetyki tekstu i zasad jego organizacji, również z wykorzystaniem nowoczesnych technologii. Treści nauczania – wymagania szczegółowe ZAKRES PODSTAWOWY ZAKRES ROZSZERZONY I. Świadomość własnego dziedzictwa narodowego. Uczeń:  
+      > 1) rozumie tematy, motywy, toposy charakterystyczne spełnia wymagania określone dla zakresu podstawowego, dla literatury narodowej; a ponadto analizuje różne wzorce postaw społecznych, 2) rozumie związek poznanych utworów z życiem narodowych, obywatelskich, obyczajowych, kulturowych, narodu. moralnych, religijnych i w ich kontekście kształtuje swoją tożsamość. II. Kształcenie językowe.  
+      > 1. Gramatyka. Uczeń:  
+      > 1) odmienia części mowy; spełnia wymagania określone dla zakresu podstawowego.  
+      > 2) nazywa nieodmienne części mowy;  
+      > 3) wskazuje funkcje składniowe wyrazów użytych w zdaniu;  
+      > 4) analizuje zdania złożone współrzędnie i podrzędnie, rozpoznaje równoważniki zdań;  
+      > 5) rozpoznaje temat słowotwórczy i formant w wyrazach pochodnych i wskazuje funkcje formantów w nadawaniu znaczenia wyrazom pochodnym;  
+      > 6) rozpoznaje znaczenie akcentu wyrazowego.  
+      > 2. Zróżnicowanie języka. Uczeń:  
+      > 1) rozróżnia treści wprowadzane do komunikatu spełnia wymagania określone dla zakresu podstawowego, za pomocą znaków werbalnych i niewerbalnych, a ponadto dostrzega zróżnicowanie słownictwa, mając świadomość różnych sposobów ich odbioru rozpoznaje słownictwo ogólnonarodowe i słownictwo i interpretacji; o ograniczonym zasięgu (np. archaizmy i neologizmy).  
+      > 2) rozpoznaje wyrazy wieloznaczne i rozumie ich znaczenia w tekście;  
+      > 3) rozumie pojęcie stylu, rozpoznaje styl potoczny, urzędowy, artystyczny, publicystyczny;  
+      > 4) rozpoznaje wyrazy rodzime i zapożyczone, rozumie ich funkcję w tekście.  
+      > 3. Komunikacja językowa i kultura języka. Uczeń:  
+      > 1) posługuje się oficjalną i nieoficjalną odmianą języka spełnia wymagania określone dla zakresu podstawowego, narodowego; a ponadto:  
+      > 2) rozumie konsekwencje stosowania form 1) rozróżnia i omawia na wybranych przykładach charakterystycznych dla środków komunikacji funkcje języka – poznawczą (kategoryzowanie elektronicznej (takich jak: SMS, e-mail, czat); świata), komunikacyjną (tworzenie wypowiedzi 3) świadomie korzysta z zasobów internetu; i stosowanie języka w aktach komunikacji) oraz społeczną (jednoczenie grupy i budowanie 4) rozpoznaje typ nadawcy i adresata tekstu; tożsamości);  
+      > 5) stosuje zasady etyki i etykiety językowej, wie, w jaki 2) stosuje uczciwe zabiegi perswazyjne, zdając sobie sposób zwracać się do rozmówcy w zależności od sprawę z ich funkcji. sytuacji i relacji z rozmówcą.  
+      > 4. Odbiór przekazu językowego. Uczeń:  
+      > 1) wskazuje charakterystyczne cechy stylu danego spełnia wymagania określone dla zakresu podstawowego, tekstu, nazywa zastosowane w nim środki językowe a ponadto rozpoznaje wypowiedź argumentacyjną, i określa ich funkcje w tekście; wskazuje tezę, argumenty i wnioski.  
+      > 2) odczytuje sens tekstu publicystycznego (a w nim znaczenia wyrazów, związków frazeologicznych, zdań, sensu akapitu), potrafi wydzielić jego fragmenty i objaśnić ich sens oraz funkcję na tle całości;  
+      > 3) dokonuje logicznego streszczenia tekstu (wyróżniając kluczowe pojęcia, twierdzenia i sposób ich uzasadnienia);  
+      > 4) odczytuje sens tekstów artystycznych i publicystycznych, również tych umieszczonych w internecie, uwzględniając zawarte w nich informacje zarówno jawne, jak i ukryte;  
+      > 5) nazywa swoje reakcje czytelnicze (np. wrażenia);  
+      > 6) formułuje wnioski wynikające z przesłanek zawartych w tekście;  
+      > 7) rozpoznaje wypowiedź o charakterze np. informacyjnym, ekspresywnym i impresywnym;  
+      > 8) odróżnia opinię od faktu.  
+      > 5. Ortografia i interpunkcja. Uczeń:  
+      > 1) pisze poprawnie pod względem ortograficznym spełnia wymagania określone dla zakresu podstawowego. i interpunkcyjnym;  
+      > 2) wykorzystuje wiedzę o składni w stosowaniu reguł interpunkcyjnych. III. Kształcenie literackie i kulturowe.  
+      > 1. Analiza i interpretacja utworów literackich. Uczeń:  
+      > 1) zna podstawy periodyzacji literatury mniejszości spełnia wymagania określone dla zakresu podstawowego, narodowej; a ponadto:  
+      > 2) zna podstawowe prądy literackie i artystyczne 1) przeprowadza interpretację porównawczą utworów w epokach literackich; literackich;  
+      > 3) rozpoznaje gatunki literackie, potrafi wymienić ich 2) wykorzystuje w interpretacji elementy znaczące cechy; dla odczytania sensu utworu (tytuł, podtytuł, puenta, 4) wskazuje zastosowane w utworze językowe środki kompozycja, słowa klucze, motto); wyrazu artystycznego oraz inne podstawowe 3) wykorzystuje w interpretacji utworu konteksty: wyznaczniki poetyki danego utworu (z zakresu literacki, kulturowy, filozoficzny. podstaw wersyfikacji, kompozycji, genologii) i określa ich funkcje;  
+      > 5) korzysta z informacji zawartych w encyklopediach i słownikach w formie książkowej i elektronicznej;  
+      > 6) rozpoznaje w utworze sposoby kreowania bohatera i świata przedstawionego (narracja, fabuła, sytuacja liryczna, akcja);  
+      > 7) rozpoznaje podstawowe motywy literackie w utworze;  
+      > 8) wykorzystuje w interpretacji utworu podstawowe konteksty: historyczny, biograficzny;  
+      > 9) dostrzega obecne w utworach literackich oraz innych tekstach kultury wartości narodowe i uniwersalne.  
+      > 2. Odbiór tekstów kultury. Uczeń:  
+      > 1) interpretuje dzieła sztuki; spełnia wymagania określone dla zakresu podstawowego.  
+      > 2) dostrzega specyfikę przekazów audiowizualnych (przedstawień teatralnych, filmów, programów informacyjnych, programów rozrywkowych). IV. Tworzenie wypowiedzi.  
+      > 1. Mówienie. Uczeń:  
+      > 1) tworzy samodzielną wypowiedź według spełnia wymagania określone dla zakresu podstawowego. podstawowych zasad logiki i retoryki;  
+      > 2) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);  
+      > 3) publicznie wygłasza przygotowaną przez siebie wypowiedź, dbając o dźwiękową wyrazistość przekazu (w tym tempo mowy i donośność, poprawny akcent wyrazowy oraz poprawną intonację zdania);  
+      > 4) hierarchizuje informacje w zależności od ich funkcji w przekazie.  
+      > 2. Pisanie. Uczeń:  
+      > 1) hierarchizuje informacje w zależności od ich funkcji spełnia wymagania określone dla zakresu podstawowego, w przekazie; a ponadto tworzy samodzielną wypowiedź 2) tworzy dłuższy tekst pisany (rozprawka, recenzja, argumentacyjną według podstawowych zasad logiki referat, interpretacja utworu literackiego lub jego i retoryki (stawia tezę lub hipotezę, dobiera argumenty, fragmentu) zgodnie z podstawowymi regułami jego porządkuje je, hierarchizuje, dokonuje ich selekcji pod organizacji, przestrzegając zasad spójności względem użyteczności wypowiedzi, podsumowuje, znaczeniowej i logicznej; dobiera przykłady ilustrujące wywód myślowy, przeprowadza prawidłowe wnioskowanie).  
+      > 3) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);  
+      > 4) opracowuje redakcyjnie własny tekst (dokonuje przeróbek, uzupełnień, transformacji, skrótów, eliminuje przypadkową niejednoznaczność wypowiedzi);  
+      > 5) wykonuje różne działania na tekście cudzym (np. streszcza, parafrazuje, sporządza konspekt, cytuje, sporządza przypisy);  
+      > 6) uwzględnia w interpretacji konteksty: biograficzny, historyczny. Warunki i sposób realizacji Szkoła ponadpodstawowa to czas wchodzenia młodego człowieka w dorosłe życie, pogłębiania poczucia własnej świadomości narodowej, poznawania kultury, doskonalenia umiejętności komunikacyjnych, myślenia konkretnego i abstrakcyjnego. To również okres intensywnego rozwoju osobowości ucznia zarówno pod względem intelektualnym, jak i emocjonalnym, jego zainteresowań, wyznaczania celów, do których dąży. Uczeń tworzy fundamenty swojego światopoglądu, kształtuje hierarchię wartości, samodzielnie analizuje i porządkuje rzeczywistość. Staje się świadomym odbiorcą kultury, potrafi systematyzować swoją wiedzę o języku, tradycji i współczesności, dostrzegać i rozumieć wartości narodowe i uniwersalne. Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest przede wszystkim:  
+      > 1) pogłębianie poczucia tożsamości narodowej, szacunku do kultury i tradycji;  
+      > 2) rozwijanie motywacji do poznawania języka, kultury, tradycji;  
+      > 3) kształtowanie postawy otwartości wobec innych kultur i szacunku dla ich dorobku;  
+      > 4) pogłębianie umiejętności sprawnego posługiwania się językiem niemieckim w różnych sytuacjach komunikacyjnych z zachowaniem norm kultury, etyki i etykiety językowej;  
+      > 5) pogłębianie umiejętności posługiwania się różnymi gatunkami wypowiedzi ustnych i pisemnych, które są niezbędne w edukacji szkolnej oraz w różnych sytuacjach życiowych;  
+      > 6) inspirowanie ucznia do samodzielnego poszukiwania źródeł wiedzy, również z wykorzystaniem środowiska wirtualnego, z zachowaniem zasad bezpieczeństwa w sieci. Nauczyciel odwołuje się do wiedzy i umiejętności nabytych przez ucznia na wcześniejszych etapach edukacyjnych. Wprowadza go w świat kultury wysokiej, uczy świadomego, krytycznego odbioru tekstów kultury. Zwraca uwagę na specyfikę życia mniejszości narodowej. Stwarza warunki do samodzielnego rozwoju intelektualnego oraz inspiruje do pogłębiania wiedzy. W tym celu stosuje wybrane metody wspierające rozwój ucznia, w tym metodę projektu, polegającą na szerokiej współpracy między uczniami.”;  
+
+- **2)** w załączniku nr 3:
+    - **a)** w części zatytułowanej „Przedmioty nauczania z zakresu kształcenia ogólnego w branżowej szkole II stopnia:” po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) język mniejszości narodowej – język niemiecki ;”,
+    - **b)** po części zatytułowanej „Język mniejszości narodowej lub etnicznej” dodaje się część zatytułowaną „Język mniejszości narodowej – język niemiecki” w brzmieniu: „Język mniejszości narodowej – język niemiecki Podstawa programowa sprzyja rozwijaniu świadomości i tożsamości narodowej, komunikacji językowej oraz integracji kulturowej młodzieży należącej do niemieckiej mniejszości narodowej. Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest motywowanie ucznia do poznawania języka ojczystego oraz kultury narodowej, w tym literatury. Jednym z najważniejszych zadań nauczyciela jest również rozwijanie w uczniach postaw ciekawości, otwartości na otaczający świat i poszanowania kultury własnego narodu, jak również kultury polskiej i europejskiej. Podstawa programowa dzieli wymagania na ogólne i szczegółowe. Do wymagań ogólnych należą: świadomość własnego dziedzictwa narodowego, kształcenie językowe, kształcenie literackie i kulturowe, tworzenie wypowiedzi. Jest to kompleksowe ujęcie nadrzędnych celów kształcenia, które informują, jak rozumieć podporządkowane im wymagania szczegółowe, które odwołują się do konkretnych umiejętności oraz ściśle określonych wiadomości. Spełnianie wymagań szczegółowych służy osiąganiu wymagań ogólnych.”,
+    - **c)** po części zatytułowanej „ JĘZYK MNIEJSZOŚCI NARODOWEJ LUB ETNICZNEJ ” dodaje się część zatytułowaną „ JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI ” w brzmieniu:
+
+      > „JĘZYK MNIEJSZOŚCI NARODOWEJ – JĘZYK NIEMIECKI Cele kształcenia – wymagania ogólne I. Świadomość własnego dziedzictwa narodowego.  
+      > 1. Rozumienie znaczenia literatury i kultury w kształtowaniu poczucia tożsamości narodowej.  
+      > 2. Pogłębianie wiedzy z zakresu kultury narodowej. II. Kształcenie językowe.  
+      > 1. Wykorzystanie języka narodowego do wzmacniania poczucia tożsamości i uczestnictwa w życiu wspólnoty.  
+      > 2. Kształcenie umiejętności posługiwania się leksykalnymi zasobami języka.  
+      > 3. Pogłębianie wiedzy na temat zagadnień z zakresu nauki o języku.  
+      > 4. Wzbogacanie umiejętności komunikacyjnych, wykorzystywanie języka narodowego w różnych sytuacjach.  
+      > 5. Pogłębianie umiejętności mówienia i pisania zgodnego z zasadami poprawności językowej. III. Kształcenie literackie i kulturowe.  
+      > 1. Pogłębianie umiejętności analizy i interpretacji utworów literackich i innych tekstów kultury z wykorzystaniem właściwej terminologii.  
+      > 2. Rozumienie zależności między wydarzeniami historycznymi a kulturą. IV. Tworzenie wypowiedzi.  
+      > 1. Rozwijanie i pogłębianie umiejętności wypowiadania się w języku narodowym w różnych formach wypowiedzi ustnych i pisemnych.  
+      > 2. Doskonalenie umiejętności wyrażania własnych sądów, poglądów i opinii. Treści nauczania – wymagania szczegółowe I. Świadomość własnego dziedzictwa narodowego. Uczeń:  
+      > 1) rozumie tematy, motywy charakterystyczne dla literatury narodowej;  
+      > 2) rozumie kontekst kulturowy poznawanych utworów literackich. II. Kształcenie językowe.  
+      > 1. Gramatyka. Uczeń:  
+      > 1) wykazuje się wiedzą z zakresu fonetyki, fleksji i składni;  
+      > 2) odmienia części mowy;  
+      > 3) wskazuje funkcje składniowe wyrazów użytych w zdaniu;  
+      > 4) analizuje zdania złożone współrzędnie i podrzędnie, rozpoznaje równoważniki zdań.  
+      > 2. Zróżnicowanie języka. Uczeń:  
+      > 1) rozumie pojęcie stylu, rozpoznaje styl potoczny, urzędowy, artystyczny, publicystyczny;  
+      > 2) rozpoznaje wyrazy wieloznaczne i rozumie ich znaczenia w tekście;  
+      > 3) rozpoznaje wyrazy rodzime i zapożyczone, rozumie ich funkcję w tekście.  
+      > 3. Komunikacja językowa i kultura języka. Uczeń:  
+      > 1) posługuje się oficjalną i nieoficjalną odmianą języka narodowego;  
+      > 2) świadomie korzysta z zasobów internetu;  
+      > 3) rozpoznaje typ nadawcy i adresata tekstu;  
+      > 4) stosuje zasady etyki i etykiety językowej, wie, w jaki sposób zwracać się do rozmówcy w zależności od sytuacji i relacji z rozmówcą;  
+      > 5) rozumie konsekwencje stosowania form charakterystycznych dla środków komunikacji elektronicznej (takich jak SMS, e-mail, czat).  
+      > 4. Odbiór przekazu językowego. Uczeń:  
+      > 1) odczytuje sens tekstów artystycznych i publicystycznych, również tych umieszczonych w internecie, uwzględniając zawarte w nich informacje zarówno jawne, jak i ukryte;  
+      > 2) nazywa swoje reakcje czytelnicze (np. wrażenia);  
+      > 3) formułuje wnioski wynikające z przesłanek zawartych w tekście;  
+      > 4) odróżnia opinię od faktu.  
+      > 5. Ortografia i interpunkcja. Uczeń:  
+      > 1) pisze poprawnie pod względem ortograficznym i interpunkcyjnym;  
+      > 2) wykorzystuje wiedzę o składni w stosowaniu reguł interpunkcyjnych. III. Kształcenie literackie i kulturowe.  
+      > 1. Analiza i interpretacja utworów literackich. Uczeń:  
+      > 1) rozpoznaje podstawowe motywy;  
+      > 2) wykorzystuje w interpretacji utworu konteksty: historyczny, biograficzny;  
+      > 3) rozpoznaje w utworze sposoby kreowania bohatera i świata przedstawionego (narracja, fabuła, sytuacja liryczna, akcja).  
+      > 2. Odbiór tekstów kultury. Uczeń interpretuje dzieła sztuki. IV. Tworzenie wypowiedzi.  
+      > 1. Mówienie. Uczeń:  
+      > 1) tworzy samodzielną wypowiedź według podstawowych zasad logiki i retoryki;  
+      > 2) publicznie wygłasza przygotowaną przez siebie wypowiedź, dbając o dźwiękową wyrazistość przekazu (w tym tempo mowy i donośność, poprawny akcent wyrazowy oraz poprawną intonację zdania);  
+      > 3) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);  
+      > 4) hierarchizuje informacje w zależności od ich funkcji w przekazie.  
+      > 2. Pisanie. Uczeń:  
+      > 1) tworzy dłuższy tekst pisany (rozprawka, recenzja, referat, interpretacja utworu literackiego lub jego fragmentu) zgodnie z podstawowymi regułami jego organizacji, przestrzegając zasad spójności znaczeniowej i logicznej;  
+      > 2) przygotowuje wypowiedź (analizuje temat, dostosowuje do niego formę wypowiedzi, sporządza plan wypowiedzi);  
+      > 3) hierarchizuje informacje w zależności od ich funkcji w przekazie;  
+      > 4) wykonuje różne działania na tekście cudzym (np. streszcza, parafrazuje, sporządza konspekt, cytuje, sporządza przypisy). Warunki i sposób realizacji Szkoła ponadpodstawowa to czas wchodzenia młodego człowieka w dorosłe życie, pogłębiania poczucia własnej świadomości narodowej, poznawania kultury, doskonalenia umiejętności komunikacyjnych, myślenia konkretnego i abstrakcyjnego. To również okres intensywnego rozwoju osobowości ucznia zarówno pod względem intelektualnym, jak i emocjonalnym, jego zainteresowań, wyznaczania sobie celów, do których dąży. Uczeń tworzy fundamenty swojego światopoglądu, kształtuje hierarchię wartości, samodzielnie analizuje i porządkuje rzeczywistość. Staje się świadomym odbiorcą kultury, potrafi dostrzegać i rozumieć wartości narodowe oraz uniwersalne. Zadaniem nauczyciela języka niemieckiego jako języka mniejszości narodowej jest przede wszystkim:  
+      > 1) pogłębianie poczucia tożsamości narodowej, szacunku do kultury i tradycji;  
+      > 2) rozwijanie motywacji do poznawania języka, kultury, tradycji;  
+      > 3) kształtowanie postawy otwartości wobec innych kultur i szacunku dla ich dorobku;  
+      > 4) pogłębianie umiejętności sprawnego posługiwania się językiem niemieckim w różnych sytuacjach komunikacyjnych z zachowaniem norm kultury, etyki i etykiety językowej;  
+      > 5) pogłębianie umiejętności posługiwania się różnymi gatunkami wypowiedzi ustnych i pisemnych, które są niezbędne w edukacji szkolnej oraz w różnych sytuacjach życiowych;  
+      > 6) inspirowanie ucznia do samodzielnego poszukiwania źródeł wiedzy, również z wykorzystaniem środowiska wirtualnego, z zachowaniem zasad bezpieczeństwa w sieci. Nauczyciel odwołuje się do wiedzy i umiejętności nabytych przez ucznia na wcześniejszych etapach edukacyjnych. Wprowadza go w świat kultury wysokiej, uczy świadomego, krytycznego odbioru tekstów kultury. Zwraca uwagę na specyfikę życia mniejszości narodowej. Stwarza warunki do samodzielnego rozwoju intelektualnego oraz inspiruje do pogłębiania wiedzy. W tym celu stosuje wybrane metody wspierające rozwój ucznia, np. metodę projektu polegającą na szerokiej współpracy pomiędzy uczniami.”.  
+
+**§ 2.** Podstawę programową kształcenia ogólnego dla czteroletniego liceum ogólnokształcącego i pięcioletniego technikum, stanowiącą załącznik nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w zakresie wymagania dotyczącego wykonywania przez ucznia strzelania z wykorzystaniem broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych realizuje się, począwszy od roku szkolnego 2024/2025, z tym że w przypadku liceów ogólnokształcących i techników, które na terenie danego powiatu:
+
+- **1)** mają dostęp do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych – wymóg ten jest realizowany od roku szkolnego 2022/2023;
+- **2)** nie mają dostępu do broni kulowej, pneumatycznej, replik broni strzeleckiej (ASG), strzelnic wirtualnych albo laserowych – wymóg ten jest realizowany w roku szkolnym 2022/2023 i 2023/2024 w miarę istniejących możliwości.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 września 2022 r. Minister Edukacji i Nauki: wz. D. Piontkowski
 

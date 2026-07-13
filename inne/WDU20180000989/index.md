@@ -26,14 +26,21 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000989) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/989/text.pdf) |
 
 w sprawie nadania statutu Narodowemu Instytutowi Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego Na podstawie art. 2 ust. 3 ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. poz. 1909 i 2371) zarządza się, co następuje:
-§ 1. Narodowemu Instytutowi Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Przewodniczący Komitetu do spraw Pożytku Publicznego: P. Gliński STATUT NARODOWEGO INSTYTUTU WOLNOŚCI – CENTRUM ROZWOJU SPOŁECZEŃSTWA OBYWATELSKIEGO
+
+**§ 1.** Narodowemu Instytutowi Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Przewodniczący Komitetu do spraw Pożytku Publicznego: P. Gliński STATUT NARODOWEGO INSTYTUTU WOLNOŚCI – CENTRUM ROZWOJU SPOŁECZEŃSTWA OBYWATELSKIEGO
+
+#### Rozdział 1 Postanowienia ogólne
+
+## Załącznik
+
 § 1. Narodowy Instytut Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego, zwany dalej „Narodowym Instytutem”, działa na podstawie ustawy z dnia 15 września 2017 r. o Narodowym Instytucie Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego (Dz. U. poz. 1909 i 2371), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. Statut określa:
 1) szczegółowy zakres zadań i tryb pracy organów Narodowego Instytutu;
 2) organizację Narodowego Instytutu;
 3) wartość majątku nieprzekraczającego kwoty 200 000 zł, powyżej którego rozporządzanie nim przez Dyrektora Narodowego Instytutu wymaga zgody Rady Narodowego Instytutu.
+Rozdział 2 Szczegółowy zakres zadań i tryb pracy organów Narodowego Instytutu
 § 3. 1. Dyrektor Narodowego Instytutu, zwany dalej „Dyrektorem”, kieruje działalnością Narodowego Instytutu, samodzielnie dokonuje czynności prawnych w imieniu Narodowego Instytutu oraz reprezentuje go na zewnątrz.
 2. Do zadań Dyrektora Narodowego Instytutu, zwanego dalej „Dyrektorem”, należy:
 1) prowadzenie gospodarki finansowej Narodowego Instytutu oraz zarządzanie i gospodarowanie jego majątkiem;
@@ -118,6 +125,7 @@ Zastępcy Dyrektora działają w granicach udzielonych pełnomocnictw.
 2. Protokół z posiedzenia Rady podpisuje osoba prowadząca posiedzenie Rady oraz protokolant.
 3. Protokół przechowuje się w Narodowym Instytucie.
 4. Projekt protokołu jest udostępniany członkom Rady z możliwością wnoszenia uwag do jego treści w terminie 7 dni roboczych od dnia przekazania pocztą elektroniczną.
+Rozdział 3 Organizacja Narodowego Instytutu
 § 12. 1. W skład Narodowego Instytutu wchodzą:
 1) komórki organizacyjne właściwe do spraw:
 a) zarządzania programami wspierania rozwoju społeczeństwa obywatelskiego, o których mowa w ustawie,
@@ -132,10 +140,4 @@ g) finansowo-księgowych;
 3. Bezpośredni nadzór nad komórką organizacyjną, o której mowa w ust. 1 pkt 1 lit. g, sprawuje główny księgowy Narodowego Instytutu.
 § 13. Sposób działania Narodowego Instytutu, w tym szczegółową strukturę organizacyjną, zakres zadań i tryb pracy komórek organizacyjnych oraz wykaz stanowisk pracy, określa regulamin Narodowego Instytutu nadawany przez Dyrektora.
 § 14. Dyrektor może tworzyć samodzielne stanowiska pracy lub zespoły problemowe o charakterze stałym lub doraźnym, określając nazwę, skład osobowy zespołu, zakres zadań i tryb pracy.
-
-#### Rozdział 1 Postanowienia ogólne
-
-#### Rozdział 2 Szczegółowy zakres zadań i tryb pracy organów Narodowego Instytutu
-
-#### Rozdział 3 Organizacja Narodowego Instytutu
 

@@ -40,11 +40,17 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Fina
 4. Otrzymane dotacje
 5. Otrzymane kredyty i pożyczki
 6. Pozostałe wpływy finansowe.
-§ 16. Rozporządzenie ma zastosowanie po raz pierwszy do sprawozdania finansowego BFG za rok obrotowy kończący się 31 grudnia 2016 r.”;
-2) § 2 i § 3 rozporządzenia Ministra Finansów z dnia 28 czerwca 2019 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 1329), które stanowią: ,,§ 2. Rozporządzenie ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego BFG za rok obrotowy kończący się dnia 31 grudnia 2019 r.
+
+**§ 16.** Rozporządzenie ma zastosowanie po raz pierwszy do sprawozdania finansowego BFG za rok obrotowy kończący się 31 grudnia 2016 r.”;
+
+- **2)** § 2 i § 3 rozporządzenia Ministra Finansów z dnia 28 czerwca 2019 r. zmieniającego rozporządzenie w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego (Dz. U. poz. 1329), które stanowią: ,,§ 2. Rozporządzenie ma zastosowanie po raz pierwszy do rocznego sprawozdania finansowego BFG za rok obrotowy kończący się dnia 31 grudnia 2019 r.
+
+## Załącznik
+
 § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
 Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 9 grudnia 2016 r.
 w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego Na podstawie art. 312 ust. 2 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842 oraz z 2021 r. poz. 680) zarządza się, co następuje:
+Rozdział 1 Przepisy ogólne
 § 1. Rozporządzenie określa szczególne zasady rachunkowości Bankowego Funduszu Gwarancyjnego, zwanego dalej „BFG”, w tym zakres informacji wykazywanych w informacji dodatkowej sprawozdania finansowego.
 § 2. 1. Przychodami BFG są środki pochodzące ze źródeł finansowania BFG określonych w art. 270 ust. 1 pkt 3, 4 i 12 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, zwanej dalej „ustawą”.
 2. Kosztami działalności BFG są koszty utrzymania organów BFG i Biura BFG, w tym amortyzacja, którą prezentuje się w rachunku zysków i strat w pozycji „Amortyzacja środków trwałych oraz wartości niematerialnych i prawnych”.
@@ -61,8 +67,10 @@ w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego Na
 5. Należności BFG wynikające z pożyczek udzielonych z funduszu restrukturyzacji banków spółdzielczych klasyfikuje się do normalnych albo straconych. Wysokość odpisów aktualizujących te należności ustala się na dzień bilansowy w wysokości 100% wartości należności straconych. W zakresie zasad klasyfikacji należności do kategorii straconych, określania wartości zabezpieczeń oraz podstawy dokonywania odpisów aktualizujących BFG stosuje odpowiednio przepisy rozporządzenia Ministra Finansów z dnia 16 grudnia 2008 r. w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków (Dz. U. z 2019 r. poz. 520, z 2020 r. poz. 687 oraz z 2021 r. poz. 51).
 6. Do wysokości odpisów aktualizujących, ustalanych na dzień bilansowy, należności inne niż wymienione w ust. 5, BFG stosuje odpowiednio przepisy rozporządzenia Ministra Finansów z dnia 16 grudnia 2008 r. w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków.
 7. Jeżeli po sporządzeniu rocznego sprawozdania finansowego BFG otrzyma informacje o zdarzeniach, które nastąpiły po sporządzeniu tego sprawozdania finansowego, mających istotny wpływ na informacje zawarte w dodatkowych informacjach i objaśnieniach informacji dodatkowej rocznego sprawozdania finansowego, to uwzględnia je w sprawozdaniu finansowym obejmującym następny rok obrotowy.
+Rozdział 2 Prowadzenie ksiąg rachunkowych
 § 3. 1. Księgi rachunkowe są prowadzone przez BFG, w jego siedzibie.
 2. W księgach rachunkowych ujmuje się wszystkie osiągnięte, przypadające na rzecz BFG przychody i obciążające go koszty związane z tymi przychodami, dotyczące danego roku obrotowego, niezależnie od terminu zapłaty.
+Rozdział 3 Ujmowanie i wycena niektórych aktywów i pasywów oraz ustalanie wyniku finansowego
 § 4. 1. Aktywa finansowe oraz zobowiązania finansowe, stanowiące instrumenty pochodne w rozumieniu przepisów o rachunkowości, ujmuje się w księgach rachunkowych na dzień zawarcia transakcji.
 2. Dłużne papiery wartościowe oraz akcje ujmuje się w księgach rachunkowych na dzień rozliczenia transakcji.
 3. Aktywa finansowe ujmuje się w księgach rachunkowych w cenie nabycia, to jest w wartości godziwej poniesionych wydatków lub przekazanych w zamian innych składników majątkowych, a zobowiązania finansowe w wartości godziwej uzyskanej kwoty lub wartości otrzymanych innych składników majątkowych.
@@ -91,6 +99,7 @@ w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego Na
 4. Aktywa z tytułu udzielenia gwarancji pokrycia strat, o której mowa w art. 112 ust. 3 pkt 1, art. 264 ust. 2 pkt 3 oraz art. 268a ust. 2 pkt 3 ustawy, ujmuje się w księgach rachunkowych w dniu powstania należności w kwocie wymaganej zapłaty.
 5. Równowartość aktywów i rezerw, o których mowa w ust. 3 i 4, zalicza się do odpowiednich funduszy własnych BFG.
 § 11. Wynik finansowy BFG stanowi różnicę pomiędzy przychodami, w tym z tytułu odsetek i prowizji, a kosztami, z uwzględnieniem wyniku z operacji finansowych.
+Rozdział 4 Roczne sprawozdanie finansowe BFG
 § 12. Roczne sprawozdanie finansowe BFG składa się z:
 1) bilansu;
 2) rachunku zysków i strat;
@@ -98,6 +107,7 @@ w sprawie szczególnych zasad rachunkowości Bankowego Funduszu Gwarancyjnego Na
 4) rachunku przepływów pieniężnych;
 5) informacji dodatkowej, obejmującej wprowadzenie do rocznego sprawozdania finansowego oraz dodatkowe informacje i objaśnienia.
 § 13. Zakres informacji wykazywanych w rocznym sprawozdaniu finansowym BFG określa załącznik do rozporządzenia.
+Rozdział 5 Przepisy przejściowe i końcowe
 § 14. Aktywa lub rezerwy z tytułu udzielenia gwarancji pokrycia strat, o której mowa w art. 20g ust. 2 pkt 3 i art. 20ba ust. 2 pkt 3 ustawy uchylanej na mocy art. 388 ustawy, wycenia się na dzień bilansowy w oszacowanej kwocie wymagającej zapłaty za dany okres w ramach roku obrotowego BFG, objęty tą gwarancją. Równowartość aktywów lub rezerw zalicza się do odpowiednich funduszy własnych BFG.
 § 15. (pominięty).
 § 16. (pominięty).
@@ -300,14 +310,4 @@ a) łącznej kwocie kosztów wynagrodzeń BFG, z podziałem na wynagrodzenia zas
 b) wysokości rocznego wynagrodzenia łącznie członków Zarządu i Rady BFG, z podziałem na wynagrodzenia zasadnicze, nagrody i premie,
 c) łącznej kwocie wynagrodzeń z tytułu umów zlecenia i o dzieło;
 11) inne informacje, które należy uznać za istotne dla zrozumienia rocznego sprawozdania finansowego.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Prowadzenie ksiąg rachunkowych
-
-#### Rozdział 3 Ujmowanie i wycena niektórych aktywów i pasywów oraz ustalanie wyniku finansowego
-
-#### Rozdział 4 Roczne sprawozdanie finansowe BFG
-
-#### Rozdział 5 Przepisy przejściowe i końcowe
 

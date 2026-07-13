@@ -27,12 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych Na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2016 r. poz. 1512 i 2048 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 22 stycznia 2016 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych (Dz. U.
-poz. 141) wprowadza się następujące zmiany:
-1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych”;
-2) w § 1 wyrazy „Agencji Rynku Rolnego” zastępuje się wyrazami „Agencji Restrukturyzacji i Modernizacji Rolnictwa”;
-3) w § 8 w ust. 1 wyraz „terenowego” zastępuje się wyrazem „regionalnego”;
-4) § 11 otrzymuje brzmienie: „§ 11. Środki finansowe z tytułu wsparcia Agencja wypłaca w terminie określonym w art. 1 ust. 1 rozporządzenia 2015/1853.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 22 stycznia 2016 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych (Dz. U. poz. 141) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozporządzenia otrzymuje brzmienie: „w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem tymczasowej nadzwyczajnej pomocy dla rolników w sektorach hodowlanych”;
+- **2)** w § 1 wyrazy „Agencji Rynku Rolnego” zastępuje się wyrazami „Agencji Restrukturyzacji i Modernizacji Rolnictwa”;
+- **3)** w § 8 w ust. 1 wyraz „terenowego” zastępuje się wyrazem „regionalnego”;
+- **4)** § 11 otrzymuje brzmienie: „§ 11. Środki finansowe z tytułu wsparcia Agencja wypłaca w terminie określonym w art. 1 ust. 1 rozporządzenia 2015/1853.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -27,10 +27,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001315) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1315/text.pdf) |
 
 zmieniające rozporządzenie w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach programów regionalnych na lata 2021–2027 Na podstawie art. 30 ust. 4 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079 oraz z 2024 r. poz. 1717) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Funduszy i Polityki Regionalnej z dnia 11 października 2022 r. w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach programów regionalnych na lata 2021–2027 (Dz. U. z 2023 r. poz. 2743) wprowadza się następujące zmiany:
-1) w § 1 wyrazy „w art. 3 ust. 1 lit. a ppkt i, ii, iv i v” zastępuje się wyrazami „w art. 3 ust. 1 lit. a ppkt i, ii, iv–vi”;
-2) § 10 otrzymuje brzmienie: „§ 10. W przypadku gdy kwota pomocy przekracza wartość wskazaną w art. 4 ust. 1 lit. a rozporządzenia nr 651/2014, pomoc stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielana po jej zatwierdzeniu przez Komisję Europejską.”.
-§ 2. Do umów albo porozumień zawieranych albo do decyzji o dofinansowaniu projektu podejmowanych od dnia wejścia w życie niniejszego rozporządzenia, na podstawie wniosków o udzielenie pomocy złożonych przed tym dniem, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Funduszy i Polityki Regionalnej: K. Pełczyńska-Nałęcz
+
+**§ 1.** W rozporządzeniu Ministra Funduszy i Polityki Regionalnej z dnia 11 października 2022 r. w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach programów regionalnych na lata 2021–2027 (Dz. U. z 2023 r. poz. 2743) wprowadza się następujące zmiany:
+
+- **1)** w § 1 wyrazy „w art. 3 ust. 1 lit. a ppkt i, ii, iv i v” zastępuje się wyrazami „w art. 3 ust. 1 lit. a ppkt i, ii, iv–vi”;
+- **2)** § 10 otrzymuje brzmienie: „§ 10. W przypadku gdy kwota pomocy przekracza wartość wskazaną w art. 4 ust. 1 lit. a rozporządzenia nr 651/2014, pomoc stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielana po jej zatwierdzeniu przez Komisję Europejską.”.
+
+**§ 2.** Do umów albo porozumień zawieranych albo do decyzji o dofinansowaniu projektu podejmowanych od dnia wejścia w życie niniejszego rozporządzenia, na podstawie wniosków o udzielenie pomocy złożonych przed tym dniem, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Funduszy i Polityki Regionalnej: K. Pełczyńska-Nałęcz
 

@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy ze środków instrumentów inżynierii finansowej w ramach regionalnych programów operacyjnych Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U.
 z 2014 r. poz. 1649, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 26 października 2011 r. w sprawie udzielania pomocy ze środków instrumentów inżynierii finansowej w ramach regionalnych programów operacyjnych (Dz. U. z 2014 r.
-poz. 1771 oraz z 2015 r. poz. 1000) w § 34 ust. 1 otrzymuje brzmienie: „1. Pomoc, o której mowa w § 6 ust. 1 pkt 1, jest udzielana do dnia 31 marca 2017 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury i Rozwoju: M. Wasiak
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 26 października 2011 r. w sprawie udzielania pomocy ze środków instrumentów inżynierii finansowej w ramach regionalnych programów operacyjnych (Dz. U. z 2014 r. poz. 1771 oraz z 2015 r. poz. 1000) w § 34 ust. 1 otrzymuje brzmienie: „1. Pomoc, o której mowa w § 6 ust. 1 pkt 1, jest udzielana do dnia 31 marca 2017 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury i Rozwoju: M. Wasiak
 

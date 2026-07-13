@@ -35,7 +35,10 @@ source: pdf
 
 - **2)** w art. 8 w ust. 2 w pkt 2 na końcu skreśla się przecinek i dodaje wyrazy „ ;nadto Szef Urzędu Ochrony Państwa udostępnia Kierownikowi Urzędu do Spraw Kombatantów i Osób Represjonowanych posiadane w tym zakresie materiały i informacje,”;
 - **3)** w art. 21:
-    - **a)** w ust. 2 w pkt 4 dodaje się lit d) w brzmieniu: „d) była funkcjonariuszem organów bądź jednostek organizacyjnych Polskiej Partii Robotniczej lub Polskiej Zjednoczonej Partii Robotniczej, do których właściwości rzeczowej - terenowej i centralnej - należał nadzór nad instytucjami, o których mowa w lit. a) i b), bądź nad zadaniami, o których mowa w lit. c),”,
+    - **a)** w ust. 2 w pkt 4 dodaje się lit d) w brzmieniu:
+
+      > „d) była funkcjonariuszem organów bądź jednostek organizacyjnych Polskiej Partii Robotniczej lub Polskiej Zjednoczonej Partii Robotniczej, do których właściwości rzeczowej - terenowej i centralnej - należał nadzór nad instytucjami, o których mowa w lit.  
+      > a) i b), bądź nad zadaniami, o których mowa w lit. c),”,  
     - **b)** w ust. 3 skreśla się pkt 2,
     - **c)** skreśla się ust. 4.
 

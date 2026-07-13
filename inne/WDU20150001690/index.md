@@ -35,7 +35,19 @@ source: pdf
     - **b)** po ust. 2f dodaje się ust. 2g w brzmieniu: „2g. Dyrektor Urzędu Żeglugi Śródlądowej w Szczecinie prowadzi bazę informacji o statkach, członkach załóg statków oraz o stanie śródlądowych dróg wodnych, zwaną dalej „bazą danych statków”. Baza danych statków jest prowadzona w systemie teleinformatycznym.”;
 
 - **3)** w art. 10a ust. 2 otrzymuje brzmienie: „2. W skład komisji inspekcyjnej wchodzą przewodniczący i eksperci. Jako ekspertów należy powołać w szczególności: pracownika urzędu żeglugi śródlądowej, specjalistę do spraw budowy statków oraz ich siłowni w zakresie żeglugi śródlądowej i specjalistę do spraw nautyki posiadającego patent żeglarski kapitana żeglugi śródlądowej uprawniający do kierowania statkiem, który podlega inspekcji.”;
-- **4)** po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. 1. W bazie danych statków gromadzi się przekazane przez dyrektorów urzędów żeglugi śródlądowej informacje, o których mowa w art. 9 ust. 2 pkt 12, oraz informacje uzyskane z elektronicznego rejestru informacji o statku prowadzonego przez Komisję Europejską. 2. W bazie danych statków gromadzi się także informacje przekazane przez dyrektorów urzędów żeglugi śródlądowej, uzyskane w ramach wykonywanych przez nich zadań, w tym dotyczące: 1) wydawania dokumentów statków oraz przeprowadzania inspekcji tych statków; 2) danych osobowych, pozyskiwanych w związku z ubieganiem się o uzyskanie dokumentów kwalifikacyjnych, zgodnie z przepisami wydanymi na podstawie art. 37; 3) wypadków żeglugowych na śródlądowych drogach wodnych; 4) aktualnego stanu i parametrów śródlądowych dróg wodnych. 3. Organy administracji żeglugi śródlądowej mają dostęp do informacji gromadzonych w bazie danych statków, za pośrednictwem systemu teleinformatycznego. 4. Dyrektorzy urzędów żeglugi śródlądowej mogą przekazać informacje gromadzone w bazie danych statków organom państwa trzeciego lub organizacji międzynarodowej po otrzymaniu od nich pisemnego zobowiązania zawierającego deklarację o: 1) nieprzekazywaniu bez pisemnej zgody dyrektora urzędu żeglugi śródlądowej otrzymanych informacji organom innych państw trzecich lub innej organizacji międzynarodowej; 2) zapewnieniu poufności tych informacji i ich wykorzystywaniu jedynie w celu wykonywania zadań administracyjnych w zakresie bezpieczeństwa i ułatwień w żegludze oraz przy dokonywaniu inspekcji i wydawaniu dokumentów statków.”.
+- **4)** po art. 11 dodaje się art. 11a w brzmieniu:
+
+  > „Art. 11a.  
+  > 1. W bazie danych statków gromadzi się przekazane przez dyrektorów urzędów żeglugi śródlądowej informacje, o których mowa w art. 9 ust. 2 pkt 12, oraz informacje uzyskane z elektronicznego rejestru informacji o statku prowadzonego przez Komisję Europejską.  
+  > 2. W bazie danych statków gromadzi się także informacje przekazane przez dyrektorów urzędów żeglugi śródlądowej, uzyskane w ramach wykonywanych przez nich zadań, w tym dotyczące:  
+  > 1) wydawania dokumentów statków oraz przeprowadzania inspekcji tych statków;  
+  > 2) danych osobowych, pozyskiwanych w związku z ubieganiem się o uzyskanie dokumentów kwalifikacyjnych, zgodnie z przepisami wydanymi na podstawie art. 37;  
+  > 3) wypadków żeglugowych na śródlądowych drogach wodnych;  
+  > 4) aktualnego stanu i parametrów śródlądowych dróg wodnych.  
+  > 3. Organy administracji żeglugi śródlądowej mają dostęp do informacji gromadzonych w bazie danych statków, za pośrednictwem systemu teleinformatycznego.  
+  > 4. Dyrektorzy urzędów żeglugi śródlądowej mogą przekazać informacje gromadzone w bazie danych statków organom państwa trzeciego lub organizacji międzynarodowej po otrzymaniu od nich pisemnego zobowiązania zawierającego deklarację o:  
+  > 1) nieprzekazywaniu bez pisemnej zgody dyrektora urzędu żeglugi śródlądowej otrzymanych informacji organom innych państw trzecich lub innej organizacji międzynarodowej;  
+  > 2) zapewnieniu poufności tych informacji i ich wykorzystywaniu jedynie w celu wykonywania zadań administracyjnych w zakresie bezpieczeństwa i ułatwień w żegludze oraz przy dokonywaniu inspekcji i wydawaniu dokumentów statków.”.  
 
 **Art. 2.**
 

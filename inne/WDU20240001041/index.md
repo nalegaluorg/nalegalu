@@ -26,13 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001041) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1041/text.pdf) |
 
 zmieniające rozporządzenie w sprawie funkcji oraz sposobu ustalania dodatków funkcyjnych przysługujących sędziom Na podstawie art. 91 § 8 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z poz. 334) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 marca 2018 r. w sprawie funkcji oraz sposobu ustalania datków funkcyjnych przysługujących sędziom (Dz. U. z 2021 r. poz. 632) wprowadza się następujące zmiany:
-1) w § 3:
-a) w ust. 2 skreśla się wyrazy „Zastępcy Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych,”,
-b) uchyla się ust. 3;
-2) w załączniku do rozporządzenia w tabeli:
-a) lp. 3 otrzymuje brzmienie: 3 Rzecznik Dyscyplinarny Sędziów Sądów Powszechnych
-b) lp. 5–7 otrzymują brzmienie: 5 Rzecznik Dyscyplinarny Ministra Sprawiedliwości 6 Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych 7 zastępca rzecznika dyscyplinarnego działający przy sądach apelacyjnych 0,2–0,4 zastępca rzecznika dyscyplinarnego działający przy sądach okręgowych
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: A.
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 marca 2018 r. w sprawie funkcji oraz sposobu ustalania datków funkcyjnych przysługujących sędziom (Dz. U. z 2021 r. poz. 632) wprowadza się następujące zmiany:
+
+- **1)** w § 3:
+    - **a)** w ust. 2 skreśla się wyrazy „Zastępcy Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych,”,
+    - **b)** uchyla się ust. 3;
+
+- **2)** w załączniku do rozporządzenia w tabeli:
+    - **a)** lp. 3 otrzymuje brzmienie: 3 Rzecznik Dyscyplinarny Sędziów Sądów Powszechnych
+    - **b)** lp. 5–7 otrzymują brzmienie: 5 Rzecznik Dyscyplinarny Ministra Sprawiedliwości 6 Zastępca Rzecznika Dyscyplinarnego Sędziów Sądów Powszechnych 7 zastępca rzecznika dyscyplinarnego działający przy sądach apelacyjnych 0,2–0,4 zastępca rzecznika dyscyplinarnego działający przy sądach okręgowych
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: A.
 

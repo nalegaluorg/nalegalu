@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych Na podstawie art. 7 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 6 października 2015 r. w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych (Dz. U. poz. 1645) § 8 otrzymuje brzmienie: „§ 8. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 6 października 2015 r. w sprawie pobierania przez notariuszy opłat sądowych od wniosków o wpis w księdze wieczystej i ich przekazywania sądom oraz prowadzenia ewidencji pobranych opłat sądowych (Dz. U. poz. 1645) § 8 otrzymuje brzmienie: „§ 8. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r. Minister Sprawiedliwości: Z. Ziobro
 

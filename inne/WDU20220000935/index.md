@@ -30,7 +30,11 @@ source: pdf
 **Art. 1.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762) wprowadza się następujące zmiany:
 
 - **1)** tytuł rozdziału 12 otrzymuje brzmienie: „Przepisy epizodyczne, przejściowe i końcowe”;
-- **2)** po art. 93 dodaje się art. 93a w brzmieniu: „Art. 93a. 1. W okresie od dnia 1 maja 2022 r. do dnia 31 grudnia 2022 r. średnie wynagrodzenie nauczycieli ustalone w sposób określony w art. 30 ust. 3 zwiększa się o 4,4%. 2. Ilekroć w przepisach ustawy jest mowa o średnim wynagrodzeniu nauczycieli, o którym mowa w art. 30 ust. 3, w okresie od dnia 1 maja 2022 r. do dnia 31 grudnia 2022 r. należy przez to rozumieć średnie wynagrodzenie nauczycieli ustalone w sposób określony w art. 30 ust. 3, zwiększone o 4,4%.”.
+- **2)** po art. 93 dodaje się art. 93a w brzmieniu:
+
+  > „Art. 93a.  
+  > 1. W okresie od dnia 1 maja 2022 r. do dnia 31 grudnia 2022 r. średnie wynagrodzenie nauczycieli ustalone w sposób określony w art. 30 ust. 3 zwiększa się o 4,4%.  
+  > 2. Ilekroć w przepisach ustawy jest mowa o średnim wynagrodzeniu nauczycieli, o którym mowa w art. 30 ust. 3, w okresie od dnia 1 maja 2022 r. do dnia 31 grudnia 2022 r. należy przez to rozumieć średnie wynagrodzenie nauczycieli ustalone w sposób określony w art. 30 ust. 3, zwiększone o 4,4%.”.  
 
 **Art. 2.** Podwyższenie wynagrodzeń dla nauczycieli w związku ze zwiększeniem średniego wynagrodzenia nauczycieli, o którym mowa w art. 93a ust. 1 ustawy zmienianej w art. 1, następuje nie później niż do dnia 30 czerwca 2022 r., z wyrównaniem od dnia 1 maja 2022 r. Przepisu art. 30 ust. 11 ustawy zmienianej w art. 1 nie stosuje się.
 

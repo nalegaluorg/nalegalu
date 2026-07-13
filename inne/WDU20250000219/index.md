@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000219) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/219/text.pdf) |
 
 zmieniające rozporządzenie w sprawie Rejestru Dokumentów Paszportowych Na podstawie art. 85 ustawy z dnia 27 stycznia 2022 r. o dokumentach paszportowych (Dz. U. z 2024 r. poz. 1063) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Cyfryzacji z dnia 10 listopada 2022 r. w sprawie Rejestru Dokumentów Paszportowych (Dz. U. poz. 2297) w § 5 w pkt 2 po lit. d dodaje się lit. da w brzmieniu: „da) gotowy do wysłania,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Cyfryzacji: K. Gawkowski
+
+**§ 1.** W rozporządzeniu Ministra Cyfryzacji z dnia 10 listopada 2022 r. w sprawie Rejestru Dokumentów Paszportowych (Dz. U. poz. 2297) w § 5 w pkt 2 po lit. d dodaje się lit. da w brzmieniu: „da) gotowy do wysłania,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Cyfryzacji: K. Gawkowski
 

@@ -28,9 +28,11 @@ source: pdf
 
 w sprawie stawek przejściowego wsparcia krajowego za 2025 r.
 Na podstawie art. 49 ust. 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. z 2024 r. poz. 1741 oraz z 2025 r. poz. 321) zarządza się, co następuje:
-§ 1. Stawka przejściowego wsparcia krajowego wymienionego w art. 20 pkt 2 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 za 2025 r. wynosi w przypadku:
-1) uzupełniającej płatności podstawowej – 55,95 zł na hektar powierzchni obszaru zatwierdzonego do tej płatności;
-2) płatności niezwiązanej do tytoniu – 2,24 zł na kilogram tytoniu jasnego z grupy odmian Virginia oraz na kilogram tytoniu jasnego odmian typu Burley, tytoniu ciemnego suszonego powietrzem oraz tytoniu ciemnego suszonego powietrzem z możliwością dosuszenia i wędzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 16 października 2025 r.
-Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
+
+**§ 1.** Stawka przejściowego wsparcia krajowego wymienionego w art. 20 pkt 2 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 za 2025 r. wynosi w przypadku:
+
+- **1)** uzupełniającej płatności podstawowej – 55,95 zł na hektar powierzchni obszaru zatwierdzonego do tej płatności;
+- **2)** płatności niezwiązanej do tytoniu – 2,24 zł na kilogram tytoniu jasnego z grupy odmian Virginia oraz na kilogram tytoniu jasnego odmian typu Burley, tytoniu ciemnego suszonego powietrzem oraz tytoniu ciemnego suszonego powietrzem z możliwością dosuszenia i wędzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 16 października 2025 r. Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
 

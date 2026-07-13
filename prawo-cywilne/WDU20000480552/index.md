@@ -36,7 +36,15 @@ source: pdf
 - **2)** w art. 1 w ust. 3, w art. 4, art. 8, art. 14 w pkt 1 i 2 i w art. 16 w ust. 1 oraz w ust. 2 pkt 1 użyte w różnych przypadkach i liczbie wyrazy „praw i wolności obywatela” zastępuje się wyrazami „wolności i praw człowieka i obywatela”;
 - **3)** w art. 4 na końcu dodaje się zdanie w brzmieniu: „Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomoż Bóg.”.”;
 - **4)** w art. 5 w ust. 1 wyrazy „cztery lata” zastępuje się wyrazami „pięć lat”;
-- **5)** art. 6 i art. 7 otrzymują brzmienie: „Art. 6. Po zaprzestaniu wykonywania obowiązków Rzecznik ma prawo powrócić na stanowisko zajmowane poprzednio albo otrzymać stanowisko równorzędne poprzednio zajmowanemu, jeżeli nie ma przeszkód prawnych. Art. 7. 1. Sejm odwołuje Rzecznika przed upływem okresu, na jaki został powołany, jeżeli: 1) zrzekł się wykonywania obowiązków, 2) stał się trwale niezdolny do pełnienia obowiązków na skutek choroby, ułomności lub upadku sił - stwierdzonych orzeczeniem lekarskim. 2. Sejm odwołuje Rzecznika przed upływem okresu na jaki został powołany, również jeżeli Rzecznik sprzeniewierzył się złożonemu ślubowaniu. 3. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika, w przypadku określonym w ust. 1 pkt 1, na wniosek Marszałka Sejmu. 4. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika, w przypadkach określonych w ust. 1 pkt 2 oraz w ust. 2, na wniosek Marszałka Sejmu lub grupy co najmniej 35 posłów, większością co najmniej 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów.”;
+- **5)** art. 6 i art. 7 otrzymują brzmienie:
+
+  > „Art. 6. Po zaprzestaniu wykonywania obowiązków Rzecznik ma prawo powrócić na stanowisko zajmowane poprzednio albo otrzymać stanowisko równorzędne poprzednio zajmowanemu, jeżeli nie ma przeszkód prawnych.  
+  > Art. 7.  
+  > 1. Sejm odwołuje Rzecznika przed upływem okresu, na jaki został powołany, jeżeli:  
+  > 1) zrzekł się wykonywania obowiązków, 2) stał się trwale niezdolny do pełnienia obowiązków na skutek choroby, ułomności lub upadku sił - stwierdzonych orzeczeniem lekarskim.  
+  > 2. Sejm odwołuje Rzecznika przed upływem okresu na jaki został powołany, również jeżeli Rzecznik sprzeniewierzył się złożonemu ślubowaniu.  
+  > 3. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika, w przypadku określonym w ust. 1 pkt 1, na wniosek Marszałka Sejmu.  
+  > 4. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika, w przypadkach określonych w ust. 1 pkt 2 oraz w ust. 2, na wniosek Marszałka Sejmu lub grupy co najmniej 35 posłów, większością co najmniej 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów.”;  
 - **6)** w art. 10 wyrazy „praw i wolności” zastępuje się wyrazami „wolności i praw”;
 - **7)** w art. 13:
     - **a)** w ust. 1: - w pkt 1 po wyrazie „zbadać” dodaje się wyrazy „ ,nawet bez uprzedzenia,”, - w pkt 3 na końcu skreśla się przecinek i dodaje się wyrazy „oraz żądać do wglądu w Biurze Rzecznika Praw Obywatelskich akt sądowych i prokuratorskich oraz akt innych organów ścigania po zakończeniu postępowania i zapadnięciu rozstrzygnięcia,”,

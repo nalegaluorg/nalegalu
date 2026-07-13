@@ -26,22 +26,25 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001832) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1832/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska Na podstawie art. 4 ust. 7 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz. 425) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 31 grudnia 2018 r. w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska (Dz. U. z 2024 r. poz. 221) w załączniku do rozporządzenia w § 4 ust. 1 otrzymuje brzmienie: „1. W skład Głównego Inspektoratu wchodzą następujące komórki organizacyjne:
-1) Departament Inspekcji;
-2) Departament Kontroli Odpadów;
-3) Departament Transgranicznego Przemieszczania Odpadów;
-4) Departament Monitoringu Środowiska;
-5) Departament Zwalczania Przestępczości Środowiskowej;
-6) Departament Prawny;
-7) Departament Administracyjno-Gospodarczy i Zamówień Publicznych;
-8) Departament Budżetowo-Finansowy;
-9) Departament Informatyzacji;
-10) Departament Współpracy Międzynarodowej;
-11) Centralne Laboratorium Badawcze;
-12) Krajowe Laboratorium Referencyjne do spraw jakości powietrza atmosferycznego;
-13) Krajowe Laboratorium Referencyjne do spraw jakości wód powierzchniowych;
-14) Biuro Dyrektora Generalnego;
-15) Zespół do spraw Kontroli i Audytu.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 31 grudnia 2018 r. w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska (Dz. U. z 2024 r. poz. 221) w załączniku do rozporządzenia w § 4 ust. 1 otrzymuje brzmienie:
+
+> „1. W skład Głównego Inspektoratu wchodzą następujące komórki organizacyjne:  
+> 1) Departament Inspekcji;  
+> 2) Departament Kontroli Odpadów;  
+> 3) Departament Transgranicznego Przemieszczania Odpadów;  
+> 4) Departament Monitoringu Środowiska;  
+> 5) Departament Zwalczania Przestępczości Środowiskowej;  
+> 6) Departament Prawny;  
+> 7) Departament Administracyjno-Gospodarczy i Zamówień Publicznych;  
+> 8) Departament Budżetowo-Finansowy;  
+> 9) Departament Informatyzacji;  
+> 10) Departament Współpracy Międzynarodowej;  
+> 11) Centralne Laboratorium Badawcze;  
+> 12) Krajowe Laboratorium Referencyjne do spraw jakości powietrza atmosferycznego;  
+> 13) Krajowe Laboratorium Referencyjne do spraw jakości wód powierzchniowych;  
+> 14) Biuro Dyrektora Generalnego;  
+> 15) Zespół do spraw Kontroli i Audytu.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

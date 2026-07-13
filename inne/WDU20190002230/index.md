@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej Na podstawie art. 8a ust. 2 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2019 r.
 poz. 59) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 17 października 2014 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1474) w § 2:
-1) uchyla się pkt 3;
-2) w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) System Monitorowania Informacji o Środkach Zastępczych i Nowych Substancjach Psychoaktywnych (SMIOD).”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Kraska
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 17 października 2014 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1474) w § 2:
+
+- **1)** uchyla się pkt 3;
+- **2)** w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) System Monitorowania Informacji o Środkach Zastępczych i Nowych Substancjach Psychoaktywnych (SMIOD).”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Kraska
 

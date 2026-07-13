@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowego trybu realizacji zadań Narodowego Centrum Badań i Rozwoju Na podstawie art. 45 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2022 r.
 poz. 2279) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 17 września 2010 r. w sprawie szczegółowego trybu realizacji zadań Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 1200) w § 9:
-1) ust. 1 otrzymuje brzmienie: „1. Do realizacji zadań zleconych przez ministra właściwego do spraw rozwoju regionalnego, o których mowa w art. 30 ust. 1 pkt 7 ustawy, stosuje się warunki i tryb określone przez tego ministra.”;
-2) uchyla się ust. 2.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Funduszy i Polityki Regionalnej: G. Puda
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 17 września 2010 r. w sprawie szczegółowego trybu realizacji zadań Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 1200) w § 9:
+
+- **1)** ust. 1 otrzymuje brzmienie: „1. Do realizacji zadań zleconych przez ministra właściwego do spraw rozwoju regionalnego, o których mowa w art. 30 ust. 1 pkt 7 ustawy, stosuje się warunki i tryb określone przez tego ministra.”;
+- **2)** uchyla się ust. 2.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Funduszy i Polityki Regionalnej: G. Puda
 

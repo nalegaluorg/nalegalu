@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1157/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury Na podstawie art. 87 ust. 7 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2018 r. poz. 165, 650 i 723) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 27 września 2017 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury (Dz. U. poz. 1808) w § 10 ust. 1 otrzymuje brzmienie: „1. W przypadku przedsiębiorców ubiegających się o dofinasowanie zadań nieobjętych dofinansowaniem w trybie pomocy publicznej zgodnie z art. 53 rozporządzenia Komisji (UE) nr 651/2014, dofinasowanie jest udzielane na zasadach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013).”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 27 września 2017 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury (Dz. U. poz. 1808) w § 10 ust. 1 otrzymuje brzmienie: „1. W przypadku przedsiębiorców ubiegających się o dofinasowanie zadań nieobjętych dofinansowaniem w trybie pomocy publicznej zgodnie z art. 53 rozporządzenia Komisji (UE) nr 651/2014, dofinasowanie jest udzielane na zasadach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013).”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

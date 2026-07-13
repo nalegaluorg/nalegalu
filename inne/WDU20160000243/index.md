@@ -35,81 +35,171 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 4 grudnia 1997 r.
 w sprawie wysokości oraz szczegółowych zasad przyznawania świadczeń otrzymywanych przez strażaków w służbie kandydackiej Na podstawie art. 113 ust. 5 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r.
 poz. 1340, z późn. zm. ) zarządza się, co następuje:
-§ 1. Strażacy Państwowej Straży Pożarnej w służbie kandydackiej, zwani dalej „strażakami w służbie kandydackiej”, w okresie nauki w szkołach Państwowej Straży Pożarnej otrzymują zakwaterowanie zapewniające służbę w systemie skoszarowanym.
-§ 2. 1. Strażacy w służbie kandydackiej otrzymują umundurowanie, odzież specjalną i ekwipunek osobisty w dniu podjęcia nauki w szkołach Państwowej Straży Pożarnej.
+
+**§ 1.** Strażacy Państwowej Straży Pożarnej w służbie kandydackiej, zwani dalej „strażakami w służbie kandydackiej”, w okresie nauki w szkołach Państwowej Straży Pożarnej otrzymują zakwaterowanie zapewniające służbę w systemie skoszarowanym.
+
+**§ 2.**
+
+1. Strażacy w służbie kandydackiej otrzymują umundurowanie, odzież specjalną i ekwipunek osobisty w dniu podjęcia nauki w szkołach Państwowej Straży Pożarnej.
+
 2. Normę umundurowania oraz okresy jego używalności dla strażaków w służbie kandydackiej określa załącznik nr 1 do rozporządzenia.
+
 3. Normę odzieży specjalnej i ekwipunku osobistego oraz okresy ich używalności dla strażaków w służbie kandydackiej określa załącznik nr 2 do rozporządzenia.
-§ 3. 1. Strażakom w służbie kandydackiej mogą być wydawane używane przedmioty umundurowania, odzieży specjalnej i ekwipunku osobistego, posiadające wartość użytkową. Przedmioty te wydaje się na czas, jaki pozostał do końca okresów ich używalności.
+
+**§ 3.**
+
+1. Strażakom w służbie kandydackiej mogą być wydawane używane przedmioty umundurowania, odzieży specjalnej i ekwipunku osobistego, posiadające wartość użytkową. Przedmioty te wydaje się na czas, jaki pozostał do końca okresów ich używalności.
+
 2. Po upływie okresów używalności poszczególne przedmioty umundurowania przechodzą na własność strażaka w służbie kandydackiej.
-§ 4. 1. Strażakom w służbie kandydackiej można wydać przedmioty umundurowania, odzieży specjalnej i ekwipunku osobistego przed upływem okresu ich używalności w przypadkach utraty przedmiotu lub utraty jego wartości użytkowej.
+
+**§ 4.**
+
+1. Strażakom w służbie kandydackiej można wydać przedmioty umundurowania, odzieży specjalnej i ekwipunku osobistego przed upływem okresu ich używalności w przypadkach utraty przedmiotu lub utraty jego wartości użytkowej.
+
 2. W przypadkach utraty przedmiotu umundurowania, odzieży specjalnej i ekwipunku osobistego lub utraty jego wartości użytkowej, powstałych w związku z wykonywaniem obowiązków służbowych i z przyczyn niezależnych od użytkownika, strażakom w służbie kandydackiej wydaje się nieodpłatnie nowy przedmiot.
+
 3. W przypadkach utraty przedmiotu umundurowania, odzieży specjalnej i ekwipunku osobistego lub utraty jego wartości użytkowej, powstałych z winy użytkownika, strażakom w służbie kandydackiej wydaje się na ich wniosek nowy przedmiot, jednakże użytkownik jest obowiązany zwrócić równowartość utraconego przedmiotu, obliczoną za czas, jaki pozostał do końca jego używalności.
-§ 5. 1. Strażacy w służbie kandydackiej otrzymują nieodpłatnie wyżywienie w naturze.
+
+**§ 5.**
+
+1. Strażacy w służbie kandydackiej otrzymują nieodpłatnie wyżywienie w naturze.
+
 2. Wyżywienie w naturze przysługuje przez okres nauki oraz w razie udziału w długotrwałych akcjach ratowniczych, ćwiczeniach i szkoleniu.
+
 3. W zakresie norm wyżywienia oraz zasad i warunków jego otrzymywania do strażaków w służbie kandydackiej stosuje się odpowiednio przepisy w sprawie długotrwałych akcji ratowniczych, szczegółowych norm, zasad i warunków otrzymywania wyżywienia w czasie tych akcji oraz ćwiczeń lub szkolenia przez strażaków Państwowej Straży Pożarnej lub inne osoby biorące w nich udział, a także przypadków, w których wypłaca się równoważnik pieniężny w zamian za przysługujące wyżywienie, sposobu ustalania jego wysokości oraz szczegółowych zasad wypłacania.
-§ 6. Strażakom w służbie kandydackiej wyżywienie w naturze nie przysługuje w czasie wolnym wynikającym z planów i programów nauczania oraz podczas urlopów trwających co najmniej 24 godziny.
-§ 7. 1. Dla strażaków w służbie kandydackiej mogą być organizowane posiłki uroczyste i promocyjne.
+
+**§ 6.** Strażakom w służbie kandydackiej wyżywienie w naturze nie przysługuje w czasie wolnym wynikającym z planów i programów nauczania oraz podczas urlopów trwających co najmniej 24 godziny.
+
+**§ 7.**
+
+1. Dla strażaków w służbie kandydackiej mogą być organizowane posiłki uroczyste i promocyjne.
+
 2. Posiłki uroczyste można organizować:
-1) w dniach ustawowo wolnych od pracy oraz w dniach 24 i 31 grudnia;
-2) z okazji dorocznych świąt jednostek organizacyjnych Państwowej Straży Pożarnej, Dnia Strażaka oraz uroczystego ślubowania.
+
+- **1)** w dniach ustawowo wolnych od pracy oraz w dniach 24 i 31 grudnia;
+- **2)** z okazji dorocznych świąt jednostek organizacyjnych Państwowej Straży Pożarnej, Dnia Strażaka oraz uroczystego ślubowania.
+
 3. Posiłek promocyjny organizuje się w związku z ukończeniem szkoły (służby kandydackiej).
-§ 8. 1. W zamian za wyżywienie w naturze strażakom w służbie kandydackiej przysługuje, z zastrzeżeniem ust. 2, równoważnik pieniężny, w wypadkach gdy wydanie wyżywienia w naturze nie jest możliwe.
+
+**§ 8.**
+
+1. W zamian za wyżywienie w naturze strażakom w służbie kandydackiej przysługuje, z zastrzeżeniem ust. 2, równoważnik pieniężny, w wypadkach gdy wydanie wyżywienia w naturze nie jest możliwe.
+
 2. Równoważnik pieniężny nie przysługuje w wypadkach:
-1) określonych w § 6 i 7;
-2) rezygnacji z wyżywienia w naturze;
-3) korzystania z wyżywienia w naturze poza miejscem skoszarowania.
-§ 9. 1. Równoważnik pieniężny ustala się w wysokości odpowiadającej wartości stawek wyżywienia według norm obowiązujących w okresie powstania należności.
+
+- **1)** określonych w § 6 i 7;
+- **2)** rezygnacji z wyżywienia w naturze;
+- **3)** korzystania z wyżywienia w naturze poza miejscem skoszarowania.
+
+**§ 9.**
+
+1. Równoważnik pieniężny ustala się w wysokości odpowiadającej wartości stawek wyżywienia według norm obowiązujących w okresie powstania należności.
+
 2. Równoważnik pieniężny wypłaca się miesięcznie z dołu.
-§ 10. Strażakom w służbie kandydackiej przysługują co miesiąc następujące świadczenia pieniężne:
-1) zasadnicza należność pieniężna w wysokości uzależnionej od roku nauki;
-2) dodatek za stopień.
-§ 11. 1. Wysokość zasadniczej należności pieniężnej uzależnionej od roku nauki, osiągania dobrych i bardzo dobrych wyników w nauce, pełnienia nieetatowych funkcji dowódcy plutonu bądź szefa kompanii wynosi: Podchorążowie Kadeci Rok nauki miesięcznie złotych I 20–30 20–30 II 30–50 30–40 III 45–70 – IV 65–100 – V 100–120 –
+
+**§ 10.** Strażakom w służbie kandydackiej przysługują co miesiąc następujące świadczenia pieniężne:
+
+- **1)** zasadnicza należność pieniężna w wysokości uzależnionej od roku nauki;
+- **2)** dodatek za stopień.
+
+**§ 11.**
+
+1. Wysokość zasadniczej należności pieniężnej uzależnionej od roku nauki, osiągania dobrych i bardzo dobrych wyników w nauce, pełnienia nieetatowych funkcji dowódcy plutonu bądź szefa kompanii wynosi: Podchorążowie Kadeci Rok nauki miesięcznie złotych I 20–30 20–30 II 30–50 30–40 III 45–70 – IV 65–100 – V 100–120 –
+
 2. Zasadnicza należność pieniężna określona w ust. 1 dla słuchaczy pierwszego roku nauki przysługuje od pierwszego dnia rozpoczęcia roku akademickiego (szkolnego) w szkołach Państwowej Straży Pożarnej.
+
 3. Zasadnicza należność pieniężna przewidziana dla kolejnego wyższego roku nauki przysługuje od pierwszego miesiąca następującego po miesiącu, w którym strażacy w służbie kandydackiej uzyskali zaliczenie odbywanego roku nauki.
+
 4. W okresie praktyk przewidzianych programem nauki oraz urlopu udzielonego z powodu długotrwałej choroby strażacy w służbie kandydackiej otrzymują świadczenia pieniężne określone w ust. 1 oraz § 12.
-§ 12. Wysokość dodatku za posiadany stopień dla strażaka w służbie kandydackiej wynosi: Lp. Stopień Kwota dodatku miesięcznego w złotych 1 Starszy ogniomistrz 510 2 Ogniomistrz 490 3 Młodszy ogniomistrz 470 4 Starszy sekcyjny 450 5 Sekcyjny 430 6 Starszy strażak 390 7 Strażak 380
-§ 13. 1. Strażakom w służbie kandydackiej, którzy uzyskali wyróżniające wyniki w nauce i służbie, mogą być przyznawane nagrody pieniężne lub rzeczowe w wysokości nieprzekraczającej dwukrotnej zasadniczej należności pieniężnej wraz z dodatkiem za stopień, odpowiednio dla podchorążych ostatniego roku studiów Szkoły Głównej Służby Pożarniczej i kadetów ostatniego roku nauki szkół aspirantów Państwowej Straży Pożarnej.
+
+**§ 12.** Wysokość dodatku za posiadany stopień dla strażaka w służbie kandydackiej wynosi: Lp. Stopień Kwota dodatku miesięcznego w złotych 1 Starszy ogniomistrz 510 2 Ogniomistrz 490 3 Młodszy ogniomistrz 470 4 Starszy sekcyjny 450 5 Sekcyjny 430 6 Starszy strażak 390 7 Strażak 380
+
+**§ 13.**
+
+1. Strażakom w służbie kandydackiej, którzy uzyskali wyróżniające wyniki w nauce i służbie, mogą być przyznawane nagrody pieniężne lub rzeczowe w wysokości nieprzekraczającej dwukrotnej zasadniczej należności pieniężnej wraz z dodatkiem za stopień, odpowiednio dla podchorążych ostatniego roku studiów Szkoły Głównej Służby Pożarniczej i kadetów ostatniego roku nauki szkół aspirantów Państwowej Straży Pożarnej.
+
 2. Strażakom w służbie kandydackiej, którzy ukończą szkołę Państwowej Straży Pożarnej z wyróżnieniem, mogą być przyznane nagrody pieniężne lub rzeczowe, w wysokości:
-1) I lokata – do 300%,
-2) II lokata – do 200%,
-3) III lokata – do 100%, kwoty dwukrotnej zasadniczej należności pieniężnej wraz z dodatkiem za stopień, obliczonej stosownie do ust. 1.
+
+- **1)** I lokata – do 300%,
+- **2)** II lokata – do 200%,
+- **3)** III lokata – do 100%, kwoty dwukrotnej zasadniczej należności pieniężnej wraz z dodatkiem za stopień, obliczonej stosownie do ust. 1.
+
 3. Nagrody, o których mowa w ust. 1 i 2, przyznają komendanci szkół Państwowej Straży Pożarnej w ramach środków finansowych przewidzianych na ten cel, ustalonych w wysokości 2% rocznej sumy zasadniczych należności pieniężnych wraz z dodatkami za stopień.
-§ 14. 1. Strażakom w służbie kandydackiej przysługuje zwrot kosztów podróży publicznymi środkami komunikacji przy przejazdach na praktyki, w celu zebrania materiałów do pracy dyplomowej (końcowej).
+
+**§ 14.**
+
+1. Strażakom w służbie kandydackiej przysługuje zwrot kosztów podróży publicznymi środkami komunikacji przy przejazdach na praktyki, w celu zebrania materiałów do pracy dyplomowej (końcowej).
+
 2. Zwrot kosztów podróży, o których mowa w ust. 1, przysługuje strażakom w służbie kandydackiej w wysokości ceny biletu II klasy pociągu osobowego lub ceny biletu państwowej komunikacji samochodowej. Jeżeli długość trasy przejazdu w jedną stronę wynosi ponad 100 km, zwrot kosztów przejazdu przysługuje w wysokości ceny biletu II klasy pociągu pospiesznego lub autobusu pospiesznego w obie strony.
-§ 15. 1. Strażakom w służbie kandydackiej, przeciwko którym wszczęto postępowanie dyscyplinarne lub zawieszonym w prawach studenta (słuchacza) szkół Państwowej Straży Pożarnej, zawiesza się wypłacanie 50% świadczeń pieniężnych określonych w § 11 ust. 1 i § 12, począwszy od dnia najbliższej wypłaty do dnia wydania orzeczenia dyscyplinarnego.
+
+**§ 15.**
+
+1. Strażakom w służbie kandydackiej, przeciwko którym wszczęto postępowanie dyscyplinarne lub zawieszonym w prawach studenta (słuchacza) szkół Państwowej Straży Pożarnej, zawiesza się wypłacanie 50% świadczeń pieniężnych określonych w § 11 ust. 1 i § 12, począwszy od dnia najbliższej wypłaty do dnia wydania orzeczenia dyscyplinarnego.
+
 2. W wypadku wydania orzeczenia uniewinniającego lub umarzającego postępowanie dyscyplinarne, a także przywrócenia strażakom w służbie kandydackiej praw studenta (słuchacza) szkół Państwowej Straży Pożarnej, zawieszone świadczenia pieniężne, o których mowa w ust. 1, wypłaca się do pełnej wysokości.
-§ 16. 1. Strażakom w służbie kandydackiej na ostatnim roku nauki może być przyznany zasiłek na utrzymanie rodziny, zwany dalej „zasiłkiem”, na następujących członków rodziny, pozostających na ich utrzymaniu:
-1) na współmałżonka – jeżeli:
-a) wychowuje co najmniej 1 dziecko lub rodzeństwo strażaka w wieku do lat 8 albo
-b) pobiera naukę w trybie dziennym w szkole wyższej do ukończenia 25 roku życia, a w pozostałych szkołach do ukończenia 23 roku życia, albo
-c) jest co najmniej w 17 tygodniu ciąży i nie może z tego powodu uzyskać zatrudnienia oraz nie otrzymuje zasiłku dla bezrobotnych;
-2) na dzieci własne, przysposobione, pasierbów i dzieci wzięte na wychowanie i utrzymanie, w tym także w ramach rodziny zastępczej, oraz rodzeństwo strażaka, jeżeli:
-a) nie mają ukończonego 16 roku życia albo
-b) spełniają warunek określony w pkt 1 lit. b;
-3) na rodziców lub dziadków strażaka, a także na jego macochę i ojczyma, osoby przysposabiające oraz osobę, która wychowywała i utrzymywała strażaka przez okres co najmniej 3 lat przed ukończeniem przez niego 18 roku życia, jeżeli:
-a) ukończyli – mężczyzna 60, a kobieta 55 lat życia oraz
-b) nie posiadają środków utrzymania oraz nie ma innych osób zobowiązanych do ich utrzymania.
+
+**§ 16.**
+
+1. Strażakom w służbie kandydackiej na ostatnim roku nauki może być przyznany zasiłek na utrzymanie rodziny, zwany dalej „zasiłkiem”, na następujących członków rodziny, pozostających na ich utrzymaniu:
+
+- **1)** na współmałżonka – jeżeli:
+    - **a)** wychowuje co najmniej 1 dziecko lub rodzeństwo strażaka w wieku do lat 8 albo
+    - **b)** pobiera naukę w trybie dziennym w szkole wyższej do ukończenia 25 roku życia, a w pozostałych szkołach do ukończenia 23 roku życia, albo
+    - **c)** jest co najmniej w 17 tygodniu ciąży i nie może z tego powodu uzyskać zatrudnienia oraz nie otrzymuje zasiłku dla bezrobotnych;
+
+- **2)** na dzieci własne, przysposobione, pasierbów i dzieci wzięte na wychowanie i utrzymanie, w tym także w ramach rodziny zastępczej, oraz rodzeństwo strażaka, jeżeli:
+    - **a)** nie mają ukończonego 16 roku życia albo
+    - **b)** spełniają warunek określony w pkt 1 lit. b;
+
+- **3)** na rodziców lub dziadków strażaka, a także na jego macochę i ojczyma, osoby przysposabiające oraz osobę, która wychowywała i utrzymywała strażaka przez okres co najmniej 3 lat przed ukończeniem przez niego 18 roku życia, jeżeli:
+    - **a)** ukończyli – mężczyzna 60, a kobieta 55 lat życia oraz
+    - **b)** nie posiadają środków utrzymania oraz nie ma innych osób zobowiązanych do ich utrzymania.
+
 2. Zasiłek na rodzeństwo strażaków w służbie kandydackiej może być przyznany w wypadku, gdy nie posiada ono środków utrzymania i nie ma innych osób zobowiązanych do ich utrzymania.
+
 3. Na członków rodziny, wymienionych w ust. 1, może być przyznany zasiłek niezależnie od ich wieku, w razie uzyskania – na podstawie odrębnych przepisów – orzeczenia o niepełnosprawności stopnia znacznego lub umiarkowanego.
+
 4. Zasiłek może być przyznany strażakom w służbie kandydackiej co miesiąc w następującej wysokości:
-1) na jedną osobę – 100%,
-2) na drugą osobę – 85%,
-3) na każdą następną osobę – 75% najniższego wynagrodzenia za pracę, określonego na podstawie odrębnych przepisów.
+
+- **1)** na jedną osobę – 100%,
+- **2)** na drugą osobę – 85%,
+- **3)** na każdą następną osobę – 75% najniższego wynagrodzenia za pracę, określonego na podstawie odrębnych przepisów.
+
 5. Jeżeli współmałżonek albo dzieci strażaka w służbie kandydackiej posiadają własny dochód nieprzekraczający łącznie kwoty zasiłku przewidzianego na tych członków rodziny, zasiłek może być przyznany w wysokości różnicy między sumą zasiłków obliczonych na współmałżonka i dzieci a sumą uzyskiwanego przez nie dochodu.
+
 6. Za dochód w rozumieniu ust. 5 nie uważa się zasiłku (dodatku) rodzinnego i pielęgnacyjnego, jak również stypendium (nagrody) przyznanego przez ministra nadzorującego szkołę wyższą oraz stypendium fundowanego.
+
 7. Strażakom w służbie kandydackiej, którzy są obowiązani do świadczeń alimentacyjnych na rzecz członków rodziny wymienionych w ust. 1, zasiłek na te osoby wypłaca się w wysokości świadczeń alimentacyjnych ustalonej prawomocnym orzeczeniem sądu, nieprzekraczającej jednak wysokości zasiłku określonego w ust. 5.
-§ 17. 1. Zasiłek na utrzymanie rodziny przyznają komendanci szkół Państwowej Straży Pożarnej na pisemny wniosek złożony przez strażaków w służbie kandydackiej.
+
+**§ 17.**
+
+1. Zasiłek na utrzymanie rodziny przyznają komendanci szkół Państwowej Straży Pożarnej na pisemny wniosek złożony przez strażaków w służbie kandydackiej.
+
 2. W razie wątpliwości komendanci szkół Państwowej Straży Pożarnej mogą żądać przedłożenia do wglądu zaświadczenia o niepobieraniu stypendium przez żonę, legitymacji studenckiej lub szkolnej, odcinków renty, zaświadczenia o ciąży bądź pozostawaniu bez pracy lub innych potrzebnych dokumentów.
+
 3. W decyzji o przyznaniu zasiłku komendanci szkół Państwowej Straży Pożarnej określają dzień, od którego zasiłek przysługuje, oraz jego wysokość.
+
 4. Zasiłek wypłaca się w okresach miesięcznych z dołu. Jeżeli strażacy w służbie kandydackiej zakończyli naukę przed upływem danego miesiąca, zasiłek wypłaca się do dnia zakończenia służby kandydackiej.
+
 5. Zasiłek należny na osoby uprawnione do świadczeń alimentacyjnych wypłaca się bezpośrednio tym osobom lub ich opiekunom.
+
 6. Strażacy w służbie kandydackiej pobierający zasiłek są obowiązani niezwłocznie zawiadamiać pisemnie o wszelkich zmianach mających wpływ na wygaśnięcie uprawnień do zasiłku lub na jego wysokość.
-§ 18. W wyjątkowych wypadkach, a w szczególności, gdy wyniki w nauce i nienaganne wykonywanie obowiązków służbowych uzasadniają udzielenie strażakom w służbie kandydackiej pomocy materialnej, komendanci szkół Państwowej Straży Pożarnej mogą przyznać zasiłek na zasadach określonych w § 16 i 17 w razie powstania konieczności utrzymania rodziny w przedostatnim roku nauki lub w latach wcześniejszych.
-§ 19. 1. W razie śmierci strażaka w służbie kandydackiej pozostałej po nim rodzinie wypłaca się odprawę pośmiertną oraz zasiłek pogrzebowy w wysokości uposażenia zasadniczego przewidzianego dla najniższego stanowiska służbowego dla strażaków mianowanych na stałe wraz z dodatkiem za posiadany stopień służbowy.
+
+**§ 18.** W wyjątkowych wypadkach, a w szczególności, gdy wyniki w nauce i nienaganne wykonywanie obowiązków służbowych uzasadniają udzielenie strażakom w służbie kandydackiej pomocy materialnej, komendanci szkół Państwowej Straży Pożarnej mogą przyznać zasiłek na zasadach określonych w § 16 i 17 w razie powstania konieczności utrzymania rodziny w przedostatnim roku nauki lub w latach wcześniejszych.
+
+**§ 19.**
+
+1. W razie śmierci strażaka w służbie kandydackiej pozostałej po nim rodzinie wypłaca się odprawę pośmiertną oraz zasiłek pogrzebowy w wysokości uposażenia zasadniczego przewidzianego dla najniższego stanowiska służbowego dla strażaków mianowanych na stałe wraz z dodatkiem za posiadany stopień służbowy.
+
 2. Świadczenia, o których mowa w ust. 1, przysługują współmałżonkowi strażaka w służbie kandydackiej, który pozostawał z nim we wspólnocie małżeńskiej, a w dalszej kolejności – dzieciom i rodzicom, jeżeli w dniu jego śmierci spełniali warunki do uzyskania renty rodzinnej na podstawie przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Urzędu Ochrony Państwa , Straży Granicznej, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin.
-§ 20. 1. Świadczenia pieniężne wypłacają szkoły Państwowej Straży Pożarnej w terminach ustalonych przez komendantów tych szkół.
+
+**§ 20.**
+
+1. Świadczenia pieniężne wypłacają szkoły Państwowej Straży Pożarnej w terminach ustalonych przez komendantów tych szkół.
+
 2. Koszty zakwaterowania oraz świadczeń pieniężnych, o których mowa w rozporządzeniu, są pokrywane ze środków budżetowych Państwowej Straży Pożarnej.
-§ 21. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 21.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 
 ## Załącznik nr 1 — NORMA UMUNDUROWANIA ORAZ OKRESY JEGO UŻYWALNOŚCI DLA STRAŻAKÓW W SŁUŻBIE KANDYDACKIEJ Okres używalności Lp. Przedmiot Jedn. Ilość w latach Uwagi miary SGSP** SA*** 1 Czapka wyjściowa zimowa szt. 1 na okres 3 dla kobiet – kapelusz nauki 2 Czapka służbowa zimowa szt. 1 na okres 3 dla kobiet – kapelusz nauki 3 Beret szt. 1 na okres 3 nie dotyczy kobiet nauki 4 Kurtka 3/4 z podpinką szt. 1 4 4 5 Płaszcz letni z podpinką szt. 1 4 4 6 Mundur wyjściowy zimowy kpl. 1 4 4 7 Mundur służbowy kpl. 1 na okres 3 dla kobiet – nauki kurtka i spódnica 8 Sweter służbowy szt. 1 na okres 3 nauki 9 Spodnie letnie szt. 1 2 2 dla kobiet – spódnica 10 Krawat szt. 2 na okres na okres SA – 1 szt.
 

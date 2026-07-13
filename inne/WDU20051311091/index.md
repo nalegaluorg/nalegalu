@@ -29,10 +29,18 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz.U. z 2001 r. Nr 13, poz. 123, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 3 ust. 2 i 3 otrzymują brzmienie: „2. Działalność kulturalna określona w art. 1 ust. 1 nie stanowi działalności gospodarczej w rozumieniu odrębnych przepisów. 3. Do działalności, o której mowa w ust. 1 i 2, w zakresie nie uregulowanym przepisami ustawy dotyczącymi organizowania i prowadzenia działalności kulturalnej oraz przepisami o działalności pożytku publicznego i o wolontariacie, stosuje się przepisy o prowadzeniu działalności gospodarczej.”;
+- **1)** w art. 3 ust. 2 i 3 otrzymują brzmienie:
+
+  > „2. Działalność kulturalna określona w art. 1 ust. 1 nie stanowi działalności gospodarczej w rozumieniu odrębnych przepisów.  
+  > 3. Do działalności, o której mowa w ust. 1 i 2, w zakresie nie uregulowanym przepisami ustawy dotyczącymi organizowania i prowadzenia działalności kulturalnej oraz przepisami o działalności pożytku publicznego i o wolontariacie, stosuje się przepisy o prowadzeniu działalności gospodarczej.”;  
 - **2)** w art. 5 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Organizacje pozarządowe prowadzące działalność kulturalną mogą otrzymywać dotacje z budżetu państwa w części, której dysponentem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na zadania objęte mecenatem państwa, w tym dotacje na wydatki inwestycyjne.”;
 - **3)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. 1. Osobom wyró¿niającym się w tworzeniu, upowszechnianiu i ochronie kultury nadaje się odznakę honorową „Zasłu¿ony dla Kultury Polskiej”. 2. Odznakę honorową „Zasłu¿ony dla Kultury Polskiej” nadaje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. 3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, tryb oraz zasady nadawania odznaki „Zasłu¿ony dla Kultury Polskiej”, jej wzór i sposób noszenia.”;
-- **4)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Osobom wyróżniającym się w dziedzinie twórczości artystycznej, działalności kulturalnej lub ochronie kultury i dziedzictwa narodowego minister właściwy do spraw kultury i ochrony dziedzictwa narodowego nadaje Medal „Zasłużony Kulturze Gloria Artis”, zwany dalej „Medalem”. 2. Medal posiada trzy stopnie: 1) I stopień - Złoty Medal „Zasłużony Kulturze Gloria Artis”,
+- **4)** art. 7 otrzymuje brzmienie:
+
+  > „Art. 7.  
+  > 1. Osobom wyróżniającym się w dziedzinie twórczości artystycznej, działalności kulturalnej lub ochronie kultury i dziedzictwa narodowego minister właściwy do spraw kultury i ochrony dziedzictwa narodowego nadaje Medal „Zasłużony Kulturze Gloria Artis”,  
+
+  zwany dalej „Medalem”. 2. Medal posiada trzy stopnie: 1) I stopień - Złoty Medal „Zasłużony Kulturze Gloria Artis”,
 - **2)** II stopień - Srebrny Medal „Zasłużony Kulturze Gloria Artis”,
 - **3)** III stopień - Brązowy Medal „Zasłużony Kulturze Gloria Artis”.
 
@@ -55,10 +63,21 @@ source: pdf
 - **5)** w art. 9 po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Instytucje kultury, dla których organizatorami są jednostki samorządu terytorialnego, mogą otrzymywać dotacje na zadania, objęte mecenatem państwa, w tym dotacje na wydatki inwestycyjne, z budżetu państwa w części, której dysponentem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.”;
 - **6)** po art. 9 dodaje się art. 9a w brzmieniu: „Art. 9a. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, zakres zadań objętych mecenatem państwa, szczegółowy tryb składania wniosków o udzielenie dotacji, o których mowa w art. 5 ust. 2 i art. 9 ust. 3, oraz ich przekazywania i rozliczania, uwzględniając rządowe programy z zakresu kultury i dziedzictwa narodowego oraz konieczności zapewnienia ciągłości realizowanych zadań.”;
 - **7)** w art. 19 uchyla się ust. 1a;
-- **8)** w art. 21 ust. 1 otrzymuje brzmienie: „1. Organizatorzy, o których mowa w art. 8 oraz w art. 9, mogą na podstawie umowy zawartej między sobą: 1) tworzyć lub łączyć prowadzone przez nich instytucje kultury, 2) prowadzić jako wspólną instytucję kultury prowadzoną przez jednego z organizatorów instytucji kultury.”;
+- **8)** w art. 21 ust. 1 otrzymuje brzmienie:
+
+  > „1. Organizatorzy, o których mowa w art. 8 oraz w art. 9, mogą na podstawie umowy zawartej między sobą:  
+  > 1) tworzyć lub łączyć prowadzone przez nich instytucje kultury, 2) prowadzić jako wspólną instytucję kultury prowadzoną przez jednego z organizatorów instytucji kultury.”;  
 - **9)** w art. 27 ust. 4 otrzymuje brzmienie: „4. Plan działalności instytucji kultury zawiera w miarę potrzeb: plan usług, plan przychodów i kosztów, plan remontów i konserwacji środków trwałych, plan inwestycji, w tym inwestycji kapitałowych, a w przypadku państwowych instytucji kultury, których organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, także plan dofinansowań dla podmiotów prowadzących działalność kulturalną.”;
-- **10)** w art. 28 po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „1a. Państwowe instytucje kultury, których organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, mogą za jego zgodą udzielać dofinansowania, w tym wydatków inwestycyjnych, podmiotom prowadzącym działalność w dziedzinie kultury i ochrony dziedzictwa narodowego. 1b. Państwowe instytucje kultury mogą otrzymywać dotacje z budżetów jednostek samorządu terytorialnego na zadania ważne z punktu widzenia regionalnej polityki kulturalnej, w tym dotacje na wydatki inwestycyjne. 1c. Minister właściwy do spraw rozwoju regionalnego, w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia, szczegółowe warunki i tryb udzielania dotacji, uwzględniając rządowe programy z zakresu kultury i ochrony dziedzictwa narodowego oraz konieczność zapewnienia ciągłości realizowanych zadań.”;
-- **11)** po art. 44 dodaje się art. 44a w brzmieniu: „Art. 44a. 1. Wierzytelności Skarbu Pań stwa wobec instytucji kultury z tytułu odpłatnego nabycia, na podstawie przepisów ustawy z dnia 29 września 1990 r. o zmianie ustawy o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz.U. Nr 79, poz. 464, z późn. zm. ) oraz ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz.U. z 2004 r. Nr 261, poz. 2603 i Nr 281, poz. 2782), własności budynków i innych urządzeń oraz lokali, stwierdzone decyzjami wydanymi na podstawie tych ustaw, wygasają z dniem 1 lipca 2005 r. 2. Wykreślenie hipotek zabezpieczających wierzytelności Skarbu Państwa, o których mowa w ust. 1, następuje na wniosek organizatora i podlega opłacie stałej w kwocie 30 zł.”.
+- **10)** w art. 28 po ust. 1 dodaje się ust. 1a-1c w brzmieniu:
+
+  > „1a. Państwowe instytucje kultury, których organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, mogą za jego zgodą udzielać dofinansowania, w tym wydatków inwestycyjnych, podmiotom prowadzącym działalność w dziedzinie kultury i ochrony dziedzictwa narodowego.  
+  > 1b. Państwowe instytucje kultury mogą otrzymywać dotacje z budżetów jednostek samorządu terytorialnego na zadania ważne z punktu widzenia regionalnej polityki kulturalnej, w tym dotacje na wydatki inwestycyjne.  
+  > 1c. Minister właściwy do spraw rozwoju regionalnego, w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, określi, w drodze rozporządzenia, szczegółowe warunki i tryb udzielania dotacji, uwzględniając rządowe programy z zakresu kultury i ochrony dziedzictwa narodowego oraz konieczność zapewnienia ciągłości realizowanych zadań.”;  
+- **11)** po art. 44 dodaje się art. 44a w brzmieniu:
+
+  > „Art. 44a.  
+  > 1. Wierzytelności Skarbu Pań stwa wobec instytucji kultury z tytułu odpłatnego nabycia, na podstawie przepisów ustawy z dnia 29 września 1990 r. o zmianie ustawy o gospodarce gruntami i wywłaszczaniu nieruchomości (Dz.U. Nr 79, poz. 464, z późn. zm. ) oraz ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz.U. z 2004 r. Nr 261, poz. 2603 i Nr 281, poz. 2782), własności budynków i innych urządzeń oraz lokali, stwierdzone decyzjami wydanymi na podstawie tych ustaw, wygasają z dniem 1 lipca 2005 r.  
+  > 2. Wykreślenie hipotek zabezpieczających wierzytelności Skarbu Państwa, o których mowa w ust. 1, następuje na wniosek organizatora i podlega opłacie stałej w kwocie 30 zł.”.  
 
 **Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz.U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) w art. 79:
 

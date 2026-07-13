@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2019 r. poz. 1505) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1413) w załączniku w § 8 w pkt 7 lit. zj otrzymuje brzmienie: „zj) wołomińskiego – Wołomin,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2019 r. poz. 1413) w załączniku w § 8 w pkt 7 lit. zj otrzymuje brzmienie: „zj) wołomińskiego – Wołomin,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski
 

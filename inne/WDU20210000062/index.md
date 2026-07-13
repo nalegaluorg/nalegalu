@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie studiów Na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r.
 poz. 85, 374, 695, 875 i 1086) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. w sprawie studiów (Dz. U.
-poz. 1861, z późn. zm. ) w § 38a:
-1) w ust. 1 wyrazy „w podmiotach leczniczych lub służbach sanitarno-epidemiologicznych” zastępuje się wyrazami „w podmiotach leczniczych, służbach sanitarno-epidemiologicznych, Narodowym Funduszu Zdrowia, Agencji Rezerw Materiałowych lub Centrum e-Zdrowia”;
-2) w ust. 2 wyrazy „przez podmioty lecznicze lub służby sanitarno-epidemiologiczne” zastępuje się wyrazami „przez podmioty lecznicze, służby sanitarno-epidemiologiczne, Narodowy Fundusz Zdrowia, Agencję Rezerw Materiałowych lub Centrum e-Zdrowia”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. w sprawie studiów (Dz. U. poz. 1861, z późn. zm. ) w § 38a:
+
+- **1)** w ust. 1 wyrazy „w podmiotach leczniczych lub służbach sanitarno-epidemiologicznych” zastępuje się wyrazami „w podmiotach leczniczych, służbach sanitarno-epidemiologicznych, Narodowym Funduszu Zdrowia, Agencji Rezerw Materiałowych lub Centrum e-Zdrowia”;
+- **2)** w ust. 2 wyrazy „przez podmioty lecznicze lub służby sanitarno-epidemiologiczne” zastępuje się wyrazami „przez podmioty lecznicze, służby sanitarno-epidemiologiczne, Narodowy Fundusz Zdrowia, Agencję Rezerw Materiałowych lub Centrum e-Zdrowia”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji i Nauki: P. Czarnek
 

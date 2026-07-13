@@ -28,15 +28,22 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie mianowania policjantów na stopnie policyjne Na podstawie art. 57 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r.
 poz. 187) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 22 grudnia 2022 r. w sprawie mianowania policjantów na stopnie policyjne (Dz. U. poz. 2807, z 2023 r. poz. 1071 i 1420 oraz z 2024 r. poz. 1821) w § 7:
-1) w ust. 1:
-a) w pkt 8 lit. c otrzymuje brzmienie: „c) którzy ukończyli szkolenie zawodowe oficerskie albo zdali egzamin końcowy z zakresu tego szkolenia w Akademii Policji w Szczytnie;”,
-b) pkt 9 otrzymuje brzmienie: „9) komendant szkoły policyjnej – w odniesieniu do policjantów:
-a) pełniących służbę,
-b) którzy ukończyli szkolenie zawodowe oficerskie albo zdali egzamin końcowy z zakresu tego szkolenia – w szkole policyjnej.”;
-2) ust. 2 i 3 otrzymują brzmienie: „2. Wniosek o mianowanie na pierwszy stopień policyjny w korpusie oficerów młodszych Policji, o którym mowa w ust. 1 pkt 8 lit. b i c oraz pkt 9 lit. b, sporządza się według wzoru, o którym mowa w § 3 ust. 2.
-3. Komendant Główny Policji niezwłocznie składa ministrowi właściwemu do spraw wewnętrznych wniosek o mianowanie na pierwszy stopień policyjny w korpusie oficerów młodszych Policji, o którym mowa w ust. 1 pkt 8 lit. b i c oraz pkt 9 lit. b.”.
-§ 2. W sprawach dotyczących mianowania policjanta na pierwszy stopień policyjny w korpusie oficerów młodszych Policji, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepis § 7 ust. 1 pkt 8 lit. c rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 22 grudnia 2022 r. w sprawie mianowania policjantów na stopnie policyjne (Dz. U. poz. 2807, z 2023 r. poz. 1071 i 1420 oraz z 2024 r. poz. 1821) w § 7:
+
+- **1)** w ust. 1:
+    - **a)** w pkt 8 lit. c otrzymuje brzmienie: „c) którzy ukończyli szkolenie zawodowe oficerskie albo zdali egzamin końcowy z zakresu tego szkolenia w Akademii Policji w Szczytnie;”,
+    - **b)** pkt 9 otrzymuje brzmienie:
+
+      > „9) komendant szkoły policyjnej – w odniesieniu do policjantów:  
+      > a) pełniących służbę, b) którzy ukończyli szkolenie zawodowe oficerskie albo zdali egzamin końcowy z zakresu tego szkolenia – w szkole policyjnej.”;  
+
+- **2)** ust. 2 i 3 otrzymują brzmienie:
+
+  > „2. Wniosek o mianowanie na pierwszy stopień policyjny w korpusie oficerów młodszych Policji, o którym mowa w ust. 1 pkt 8 lit. b i c oraz pkt 9 lit. b, sporządza się według wzoru, o którym mowa w § 3 ust. 2.  
+  > 3. Komendant Główny Policji niezwłocznie składa ministrowi właściwemu do spraw wewnętrznych wniosek o mianowanie na pierwszy stopień policyjny w korpusie oficerów młodszych Policji, o którym mowa w ust. 1 pkt 8 lit. b i c oraz pkt 9 lit. b.”.  
+
+**§ 2.** W sprawach dotyczących mianowania policjanta na pierwszy stopień policyjny w korpusie oficerów młodszych Policji, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepis § 7 ust. 1 pkt 8 lit. c rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
 

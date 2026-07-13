@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie dokumentacji cen transferowych w zakresie podatku dochodowego od osób prawnych Na podstawie art. 11q ust. 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r.
 poz. 2587, 2640 i 2745 oraz z 2023 r. poz. 185, 326 i 412) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie dokumentacji cen transferowych w zakresie podatku dochodowego od osób prawnych (Dz. U. z 2021 r. poz. 1195 oraz z 2022 r. poz. 778) w § 2 w pkt 5 w lit. a skreśla się wyrazy „lub 1a”.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2021 r.
-Minister Finansów: wz. A. Soboń
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie dokumentacji cen transferowych w zakresie podatku dochodowego od osób prawnych (Dz. U. z 2021 r. poz. 1195 oraz z 2022 r. poz. 778) w § 2 w pkt 5 w lit. a skreśla się wyrazy „lub 1a”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2021 r. Minister Finansów: wz. A. Soboń
 

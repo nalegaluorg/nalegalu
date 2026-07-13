@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000037) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/37/text.pdf) |
 
 zmieniające rozporządzenie w sprawie równorzędności stopni wojskowych, policyjnych, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno‑Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Służby Więziennej ze stopniami Straży Marszałkowskiej Na podstawie art. 42 ust. 2 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 9 maja 2019 r. w sprawie równorzędności stopni wojskowych, policyjnych, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Służby Więziennej ze stopniami Straży Marszałkowskiej (Dz. U. poz. 1035) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 9 maja 2019 r. w sprawie równorzędności stopni wojskowych, policyjnych, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Służby Więziennej ze stopniami Straży Marszałkowskiej (Dz. U. poz. 1035) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

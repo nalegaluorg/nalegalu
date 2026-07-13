@@ -43,38 +43,66 @@ poz. 1295);
 6) § 2 i § 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 16 maja 2019 r. zmieniającego rozporządzenie w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 978), które stanowią: „ § 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie od dnia 5 kwietnia 2019 r. § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 26 marca 2010 r.
 w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie Na podstawie art. 70 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360 i 956) zarządza się, co następuje:
-§ 1. Policjantowi, któremu nie wydano przedmiotów umundurowania określonych w przepisach rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2009 r. w sprawie umundurowania policjantów (Dz. U. poz. 738, z późn. zm. ), przyznaje się równoważnik pieniężny, zwany dalej „równoważnikiem”.
-§ 2. 1. Policjantowi mianowanemu na stałe wypłaca się w zamian za przedmioty ubioru galowego, wyjściowego i służbowego równoważnik w wysokości określonej w załączniku nr 1 do rozporządzenia.
+
+**§ 1.** Policjantowi, któremu nie wydano przedmiotów umundurowania określonych w przepisach rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2009 r. w sprawie umundurowania policjantów (Dz. U. poz. 738, z późn. zm. ), przyznaje się równoważnik pieniężny, zwany dalej „równoważnikiem”.
+
+**§ 2.**
+
+1. Policjantowi mianowanemu na stałe wypłaca się w zamian za przedmioty ubioru galowego, wyjściowego i służbowego równoważnik w wysokości określonej w załączniku nr 1 do rozporządzenia.
+
 2. Policjantowi mianowanemu na okres służby przygotowawczej wypłaca się w zamian za przedmioty ubioru wyjściowego i służbowego równoważnik w wysokości 1283,80 zł.
+
 3. Równoważniki, o których mowa w ust. 1 i 2, wypłaca się za okres od dnia 1 kwietnia danego roku kalendarzowego do dnia 31 marca następnego roku, zwany dalej „rokiem zaopatrzeniowym”.
+
 4. Policjantowi mianowanemu na wyższy stopień w roku zaopatrzeniowym wypłaca się, od dnia mianowania, równoważnik za sznur galowy, daszki do czapek i oznaczenia stopnia, w wysokości określonej w załączniku nr 2 do rozporządzenia.
-§ 3. 1. Wysokość równoważnika w zamian za umundurowanie ustala się w wysokości równej rocznej wartości poszczególnych norm przedmiotów umundurowania określonych w przepisach rozporządzenia, o którym mowa w § 1.
+
+**§ 3.**
+
+1. Wysokość równoważnika w zamian za umundurowanie ustala się w wysokości równej rocznej wartości poszczególnych norm przedmiotów umundurowania określonych w przepisach rozporządzenia, o którym mowa w § 1.
+
 2. Sposób ustalania wysokości równoważnika określają tabele kalkulacyjne, stanowiące załącznik nr 3 do rozporządzenia.
+
 3. W skład równoważnika, o którym mowa w § 2 ust. 1 i 2, wchodzi ryczałt za dwukrotne w roku pranie chemiczne przedmiotów umundurowania.
+
 4. Wysokość równoważnika dla policjanta zwolnionego od obowiązku wykonywania zadań służbowych na zasadach określonych w przepisach rozporządzenia Rady Ministrów z dnia 3 grudnia 2018 r. w sprawie trybu udzielania urlopu bezpłatnego pracownikowi powołanemu do pełnienia z wyboru funkcji związkowej poza zakładem pracy oraz sposobu postępowania w przypadku wygaśnięcia mandatu do pełnienia z wyboru funkcji związkowej przez pracownika korzystającego z urlopu bezpłatnego (Dz. U. poz. 2358) ustala się z uwzględnieniem wydłużenia okresu używalności przedmiotów umundurowania o czas trwania tego zwolnienia.
-§ 4. Równoważnik wypłaca się w terminie nie dłuższym niż dziewięć miesięcy od dnia powstania uprawnienia do równoważnika.
-Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
-Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. poz. 372 i 1047, z 2012 r. poz. 1483, z 2014 r. poz. 1285, z 2015 r. poz. 946 i 1003, z 2017 r. poz. 1879, z 2018 r. poz. 252 oraz z 2019 r. poz. 651.
-Dodany przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 marca 2011 r. zmieniającego rozporządzenie w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 373), które weszło w życie z dniem 1 kwietnia 2011 r.; w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 16 maja 2019 r. zmieniającego rozporządzenie w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 978), które weszło w życie z dniem 25 maja 2019 r.
-§ 5. 1. Policjant mianowany na stałe, który został zwolniony ze służby, nie zwraca równoważnika.
+
+**§ 4.** Równoważnik wypłaca się w terminie nie dłuższym niż dziewięć miesięcy od dnia powstania uprawnienia do równoważnika. Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2011 r. poz. 372 i 1047, z 2012 r. poz. 1483, z 2014 r. poz. 1285, z 2015 r. poz. 946 i 1003, z 2017 r. poz. 1879, z 2018 r. poz. 252 oraz z 2019 r. poz. 651. Dodany przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 31 marca 2011 r. zmieniającego rozporządzenie w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 373), które weszło w życie z dniem 1 kwietnia 2011 r.; w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 16 maja 2019 r. zmieniającego rozporządzenie w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 978), które weszło w życie z dniem 25 maja 2019 r.
+
+**§ 5.**
+
+1. Policjant mianowany na stałe, który został zwolniony ze służby, nie zwraca równoważnika.
+
 2. Policjant:
-1) zwolniony ze służby na podstawie art. 41 ust. 1 pkt 3 i 4 ustawy z dnia 6 kwietnia 1990 r. o Policji przed upływem okresu, za który wypłacono równoważnik, albo
-2) mianowany na okres służby przygotowawczej, zwolniony ze służby przed upływem okresu, za który wypłacono równoważnik – zwraca część równoważnika za okres niepozostawania w służbie, nie później niż w ostatnim dniu pełnienia służby.
-§ 6. 1. Równoważnika nie przyznaje się policjantowi:
-1) przyjętemu do służby w danym roku zaopatrzeniowym, któremu wydano przedmioty umundurowania – za ten rok;
-2) korzystającemu z urlopu wychowawczego lub bezpłatnego trwającego dłużej niż sześć miesięcy ‒za okres tego urlopu;
-3) zawieszonemu w czynnościach służbowych na okres dłuższy niż sześć miesięcy, jeżeli w czasie zawieszenia zostaje on zwolniony ze służby ‒za okres tego zawieszenia.
+
+- **1)** zwolniony ze służby na podstawie art. 41 ust. 1 pkt 3 i 4 ustawy z dnia 6 kwietnia 1990 r. o Policji przed upływem okresu, za który wypłacono równoważnik, albo
+- **2)** mianowany na okres służby przygotowawczej, zwolniony ze służby przed upływem okresu, za który wypłacono równoważnik – zwraca część równoważnika za okres niepozostawania w służbie, nie później niż w ostatnim dniu pełnienia służby.
+
+**§ 6.**
+
+1. Równoważnika nie przyznaje się policjantowi:
+
+- **1)** przyjętemu do służby w danym roku zaopatrzeniowym, któremu wydano przedmioty umundurowania – za ten rok;
+- **2)** korzystającemu z urlopu wychowawczego lub bezpłatnego trwającego dłużej niż sześć miesięcy ‒za okres tego urlopu;
+- **3)** zawieszonemu w czynnościach służbowych na okres dłuższy niż sześć miesięcy, jeżeli w czasie zawieszenia zostaje on zwolniony ze służby ‒za okres tego zawieszenia.
+
 2. W przypadku wypłaty równoważnika przed wykorzystaniem urlopu, o którym mowa w ust. 1 pkt 2, równoważnik za okres urlopu zalicza się na poczet należności następnego równoważnika, odliczając liczbę miesięcy, za które był on nadpłacony, jeżeli policjant nie zwrócił tej części równoważnika do komórki organizacyjnej właściwej w sprawach finansowych.
+
 3. W przypadku wypłaty równoważnika przed okresem zawieszenia, o którym mowa w ust. 1 pkt 3, policjant zwraca nienależną część równoważnika nie później niż w ostatnim dniu pełnienia służby.
-§ 7. Policjantowi zawieszonemu w czynnościach służbowych zawiesza się wypłatę równoważnika.
-§ 8. Policjantowi, który w danym roku zaopatrzeniowym zostaje:
-1) przyjęty do służby albo
-2) mianowany na stałe – za należne, a niewydane przedmioty wypłaca się równoważnik w wysokości odpowiadającej rocznej wartości tych przedmiotów, ustalonej według cen z kalkulacji równoważnika obowiązujących w dniu jego wypłaty.
-§ 9. Policjantowi, któremu na podstawie przepisów rozporządzenia, o którym mowa w § 1, wydano przedmioty ubioru służbowego w roku zaopatrzeniowym, w którym otrzymał równoważnik, wypłaca się w kolejnym roku zaopatrzeniowym równoważnik pomniejszony o kwotę równą rocznej wartości wydanych przedmiotów, ustaloną według cen z kalkulacji równoważnika obowiązujących w dniu jego wypłaty.
-§ 10. Równoważnik w wysokości i na warunkach określonych w rozporządzeniu przyznaje się policjantowi od dnia 1 kwietnia 2010 r.
-§ 11. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 czerwca 2003 r. w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 1166 oraz z 2004 r. poz. 1685).
-§ 12. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
-Rozporządzenie zostało ogłoszone w dniu 26 marca 2010 r.
+
+**§ 7.** Policjantowi zawieszonemu w czynnościach służbowych zawiesza się wypłatę równoważnika.
+
+**§ 8.** Policjantowi, który w danym roku zaopatrzeniowym zostaje:
+
+- **1)** przyjęty do służby albo
+- **2)** mianowany na stałe – za należne, a niewydane przedmioty wypłaca się równoważnik w wysokości odpowiadającej rocznej wartości tych przedmiotów, ustalonej według cen z kalkulacji równoważnika obowiązujących w dniu jego wypłaty.
+
+**§ 9.** Policjantowi, któremu na podstawie przepisów rozporządzenia, o którym mowa w § 1, wydano przedmioty ubioru służbowego w roku zaopatrzeniowym, w którym otrzymał równoważnik, wypłaca się w kolejnym roku zaopatrzeniowym równoważnik pomniejszony o kwotę równą rocznej wartości wydanych przedmiotów, ustaloną według cen z kalkulacji równoważnika obowiązujących w dniu jego wypłaty.
+
+**§ 10.** Równoważnik w wysokości i na warunkach określonych w rozporządzeniu przyznaje się policjantowi od dnia 1 kwietnia 2010 r.
+
+**§ 11.** Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 czerwca 2003 r. w sprawie wysokości i warunków przyznawania policjantom równoważnika pieniężnego w zamian za umundurowanie (Dz. U. poz. 1166 oraz z 2004 r. poz. 1685).
+
+**§ 12.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia . Rozporządzenie zostało ogłoszone w dniu 26 marca 2010 r.
 
 ## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych 2010r.
 

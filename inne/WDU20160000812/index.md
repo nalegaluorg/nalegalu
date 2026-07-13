@@ -26,100 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000812) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/812/text.pdf) |
 
 w sprawie prostych zbiorników ciśnieniowych Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. poz. 542) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wymagania dla prostych zbiorników ciśnieniowych produkowanych seryjnie, zwanych dalej „zbiornikami”;
-2) procedury oceny zgodności;
-3) zakres dokumentacji technicznej zbiorników;
-4) sposób oznakowania zbiorników;
-5) elementy deklaracji zgodności.
-§ 2. Przepisy rozporządzenia stosuje się do dowolnych spawanych zbiorników o nadciśnieniu wewnętrznym wyższym od 0,5 bara, przeznaczonych do przechowywania powietrza lub azotu, nieogrzewanych płomieniem oraz spełniających łącznie następujące warunki:
-1) części i zespoły mające wpływ na wytrzymałość zbiornika poddawanego ciśnieniu są wykonane ze stali jakościowej niestopowej lub z aluminium niestopowego, lub ze stopów aluminium nieutwardzalnych przez starzenie;
-2) składa się z następujących elementów:
-a) części walcowej o przekroju kołowym zamkniętej dnami wypukłymi o wypukłości skierowanej na zewnątrz lub dnami płaskimi będącymi figurami obrotowymi o tej samej osi, co oś części walcowej,
-b) z dwóch den wypukłych o wypukłości skierowanej na zewnątrz i będących figurami obrotowymi o tej samej osi;
-3) najwyższe ciśnienie robocze zbiornika nie przekracza 30 barów, a iloczyn najwyższego ciśnienia roboczego i pojemności zbiornika (PS × V) nie przekracza 10 000 barów x litr;
-4) najniższa temperatura robocza zbiornika nie jest niższa niż ‒50°C, a najwyższa temperatura robocza zbiornika nie jest wyższa niż 300°C dla zbiorników stalowych oraz 100°C dla zbiorników z aluminium lub jego stopów.
-§ 3. Przepisów rozporządzenia nie stosuje się do zbiorników:
-1) zaprojektowanych specjalnie do zastosowań jądrowych, których awaria może spowodować emisję radioaktywną;
-2) specjalnie przeznaczonych do zainstalowania na statkach morskich lub powietrznych, lub przeznaczonych do ich napędu;
-3) gaśnic.
-§ 4. Użyte w rozporządzeniu określenia oznaczają:
-1) ciśnienie obliczeniowe, oznaczone symbolem „P” – nadciśnienie przyjęte przez producenta i stosowane w celu określenia grubości ścianki elementów ciśnieniowych zbiornika, wyrażone w barach;
-2) najwyższe ciśnienie robocze, oznaczone symbolem „PS” – najwyższe nadciśnienie, które może powstać w normalnych warunkach użytkowania zbiornika, wyrażone w barach;
-3) najniższa temperatura robocza, oznaczona symbolem „T ” – najniższą ustabilizowaną temperaturę ścianki zbiornika w normalnych warunkach użytkowania zbiornika, wyrażoną w stopniach Celsjusza ( C);
-4) najwyższa temperatura robocza, oznaczona symbolem „T ” – najwyższą ustabilizowaną temperaturę, którą ścianka zbiornika może osiągnąć w normalnych warunkach użytkowania zbiornika, wyrażoną w stopniach Celsjusza ( C);
-5) granica plastyczności, oznaczona symbolem „R ” – wartość w najwyższej temperaturze roboczej „T ”, wyrażoną w N/mm :
-a) górnej granicy plastyczności, oznaczonej symbolem „R ” i wyrażonej w N/mm , w przypadku materiału posiadającego górną i dolną granicę plastyczności, lub
-b) umownej granicy plastyczności przy wydłużeniu 0,2%, oznaczonej symbolem „R ” i wyrażonej w N/mm , lub
-c) umownej granicy plastyczności przy wydłużeniu 1,0%, oznaczonej symbolem „R ” i wyrażonej w N/mm , w przypadku aluminium niestopowego;
-6) typoszeregi zbiorników – proste zbiorniki ciśnieniowe różniące się od prototypu średnicą, o ile spełnione zostaną wymagania, o których mowa w części II w ust. 9–11 załącznika nr 1 do rozporządzenia, lub długością części walcowej w przypadku, gdy:
-a) prototyp ma jedno dzwono płaszcza lub więcej oraz dna, warianty w typoszeregu mają przynajmniej jedno dzwono płaszcza; zmienione długości powodujące konieczność modyfikacji otworów kontrolnych lub rewizyjnych muszą być uwidocznione na rysunku każdego wariantu,
-b) prototyp ma tylko dwa dna wypukłe, warianty w typoszeregu nie mają żadnego dzwona płaszcza; zmienione długości powodujące konieczność modyfikacji otworów kontrolnych lub rewizyjnych muszą być uwidocznione na rysunku każdego wariantu;
-7) partia zbiorników – zbiorniki tego samego typoszeregu w liczbie nie większej niż 3000 sztuk;
-8) produkcja seryjna – produkcję więcej niż jednego zbiornika tego samego typoszeregu wytwarzanego w danym okresie, w ciągłym procesie produkcyjnym według wspólnego projektu i przy zastosowaniu tego samego procesu produkcyjnego;
-9) dokument kontroli – dokument, w którym producent materiałów poświadcza, że dostarczone wyroby spełniają wymagania określone w zamówieniu, i podaje wyniki rutynowych badań kontrolnych w zakładzie, w szczególności badań składu chemicznego i własności mechanicznych przeprowadzonych na wyrobach wytworzonych w tym samym procesie produkcyjnym, ale niekoniecznie z partii produktów dostarczonych;
-10) instrukcja – dokument dołączany do każdego zbiornika wprowadzonego do obrotu lub oddawanego do użytku obejmujący:
-a) dane, o których mowa w § 10 ust. 1, z wyjątkiem numeru serii zbiornika lub partii,
-b) informacje dotyczące: – przeznaczenia zbiornika, – konserwacji i instalowania zbiornika wpływających na jego bezpieczeństwo.
-§ 5. Elementy deklaracji zgodności określa załącznik nr 2 do rozporządzenia.
-§ 6. 1. Wprowadzane do obrotu zbiorniki kategorii, dla których iloczyn PS × V jest większy niż 50 barów x litr, spełniają wymagania określone w załączniku nr 1 do rozporządzenia.
-2. Wprowadzane do obrotu zbiorniki kategorii, dla których iloczyn PS × V nie jest większy niż 50 barów x litr, są projektowane i wytwarzane zgodnie z uznaną praktyką inżynierską.
-§ 7. Procedury oceny zgodności i zakres dokumentacji technicznej określa załącznik nr 3 do rozporządzenia.
-§ 8. 1. Zbiorniki, dla których iloczyn PS × V jest większy niż 50 barów x litr, przed rozpoczęciem wytwarzania, są poddawane badaniu typu UE (moduł B), określonemu w części I załącznika nr 3 do rozporządzenia.
-2. W przypadku zbiorników:
-1) produkowanych zgodnie z normami zharmonizowanymi, badanie typu UE (moduł B) prowadzone jest zgodnie z wyborem producenta w jeden z następujących dwóch sposobów:
-a) ocena odpowiedniości projektu technicznego zbiornika poprzez zbadanie dokumentacji technicznej i dowodów potwierdzających, o których mowa w części I w ust. 3 pkt 4 załącznika nr 3 do rozporządzenia, bez badania próbek (moduł B – typ projektu),
-b) ocena odpowiedniości projektu technicznego zbiornika poprzez zbadanie dokumentacji technicznej, dowodów potwierdzających, o których mowa w części I w ust. 3 pkt 4 załącznika nr 3 do rozporządzenia, oraz badanie prototypu reprezentatywnego dla przewidywanej produkcji kompletnego zbiornika (moduł B – typ produkcji);
-2) produkowanych niezgodnie lub częściowo niezgodnie z normami zharmonizowanymi, producent przedkłada do zbadania prototyp reprezentatywny dla przewidywanej produkcji kompletnego zbiornika oraz dokumentację techniczną i dowody potwierdzające, o których mowa w części I w ust. 3 pkt 4 załącznika nr 3 do rozporządzenia, umożliwiające zbadanie i ocenę odpowiedniości projektu technicznego zbiornika (moduł B – typ produkcji).
-§ 9. 1. Przeprowadza się procedurę oceny zgodności przed wprowadzeniem do obrotu zbiorników, dla których:
-1) iloczyn PS × V jest większy niż 3000 bar x litr – zgodności z typem na podstawie wewnętrznej kontroli produkcji oraz badanie zbiorników pod nadzorem (moduł C1), o której mowa w części II załącznika nr 3 do rozporządzenia;
-2) iloczyn PS × V jest większy niż 200 bar x litr, ale nie większy niż 3000 bar x litr, zgodnie z wyborem producenta, procedurze:
-a) zgodności z typem w oparciu o wewnętrzną kontrolę produkcji oraz badanie zbiorników pod nadzorem (moduł C1), o której mowa w części II załącznika nr 3 do rozporządzenia, lub
-b) zgodności z typem w oparciu o wewnętrzną kontrolę produkcji oraz kontrole zbiorników pod nadzorem w losowo wybranych odstępach czasu (moduł C2), o której mowa w części III załącznika nr 3 do rozporządzenia;
-3) iloczyn PS × V jest nie większy niż 200 bar x litr, ale przekracza 50 bar x litr, zgodnie z wyborem producenta, procedurze:
-a) zgodności z typem w oparciu o wewnętrzną kontrolę produkcji oraz badanie zbiorników pod nadzorem (moduł C1), o której mowa w części II załącznika nr 3 do rozporządzenia, lub
-b) zgodności z typem w oparciu o wewnętrzną kontrolę produkcji (moduł C), o której mowa w części IV załącznika nr 3 rozporządzenia.
-2. Zapisy i korespondencja dotycząca procedur oceny zgodności, o których mowa w § 8 i § 9, są sporządzane w języku polskim lub w języku akceptowanym przez jednostkę notyfikowaną.
-§ 10. 1. Na zbiornikach albo na ich tabliczce znamionowej umieszcza się następujące dane:
-1) maksymalne ciśnienie robocze (PS w barach);
-2) maksymalna temperatura robocza (T w °C);
-3) minimalna temperatura robocza (T w °C);
-4) pojemność zbiornika (V w litrach);
-5) nazwa, zarejestrowana nazwa handlowa lub zarejestrowany znak towarowy i kontaktowy adres pocztowy producenta;
-6) nazwa typu, numer partii lub serii zbiornika.
-2. Na zbiornikach, dla których iloczyn PS × V jest większy niż 50 barów x litr, albo na zamieszczonej na nich tabliczce znamionowej umieszcza się dane, o których mowa w ust. 1, oznakowanie CE oraz dwie ostatnie cyfry roku, w którym CE zostało zamieszczone.
-3. Za oznakowaniem CE podaje się numer identyfikacyjny jednostki notyfikowanej biorącej udział w procedurze oceny zgodności z typem zbiorników na etapie wewnętrznej kontroli produkcji.
-4. Za oznakowaniem CE oraz za numerem identyfikacyjnym jednostki notyfikowanej można umieścić wszelkiego rodzaju znaki wskazujące na szczególne zagrożenie lub zastosowanie.
-5. Tabliczkę znamionową projektuje się w taki sposób, aby nie było możliwe jej ponowne użycie i aby zawierała wolne miejsce pozwalające na zamieszczenie innych informacji.
-§ 11. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju: wz. J. Kwieciński WYMAGANIA DOTYCZĄCE PROJEKTOWANIA I WYTWARZANIA ZBIORNIKÓW Część I. Materiały
-1. Materiały przeznaczone do wytwarzania zbiorników należy dobierać zgodnie z przewidywanym zastosowaniem tych zbiorników oraz powinny one spełniać wymagania, o których mowa w ust. 2–12.
-2. Materiały stosowane do produkcji elementów ciśnieniowych zbiorników są:
-1) spawalne;
-2) plastyczne i odporne na obciążenia udarowe tak, aby pęknięcia występujące w najniższej temperaturze roboczej nie powodowały fragmentacji zbiornika ani nie miały charakteru kruchego;
-3) odporne na starzenie.
-3. Materiały przeznaczone do wytwarzania zbiorników stalowych oprócz wymagań, o których mowa w ust. 2, powinny spełniać wymagania określone w ust. 6–7.
-4. Materiały przeznaczone do wytwarzania zbiorników aluminiowych oprócz wymagań, o których mowa w ust. 2, powinny spełniać wymagania określone w ust. 8–9.
-5. Materiały przeznaczone do wytwarzania zbiorników stalowych i aluminiowych powinny być dostarczone z dokumentem kontroli, o którym mowa w § 4 pkt 9 rozporządzenia.
-6. Stale jakościowe niestopowe stosowane do wytwarzania zbiorników spełniają następujące wymagania:
-1) są uspokojone i dostarczone w stanie znormalizowanym lub w równoważnym stanie obróbki cieplnej;
-2) mają zawartość węgla w wyrobie poniżej 0,25%, a siarki i fosforu poniżej 0,05% dla każdego z tych składników.
-7. Stale jakościowe niestopowe w wyrobie posiadają następujące właściwości wytrzymałościowe:
-1) największą wytrzymałość na rozciąganie, oznaczoną symbolem R , mniejszą niż 580 N/mm ;
-2) wydłużenie przy zerwaniu:
-a) dla próbek pobranych równolegle do kierunku walcowania: – o grubości ≥ 3 mm: A ≥ 22%, – dla grubości < 3 mm: A ≥ 17%,
-b) dla próbek pobranych poprzecznie do kierunku walcowania: – grubość ≥ 3 mm: A ≥ 20%, – grubość < 3 mm: A ≥ 15%;
-3) średnia udarność oznaczona symbolem „KCV” w najniższej temperaturze roboczej dla trzech próbek pobranych równolegle do kierunku walcowania wynosi co najmniej 35 J/cm . Najwyżej jeden wynik z tych trzech próbek może być niższy niż 35 J/cm , ale nie niższy niż 25 J/cm ;
-4) w przypadku stali przeznaczonych do produkcji zbiorników, dla których najniższa temperatura robocza jest niższa niż −10°C i których grubość ścianki jest większa niż 5 mm, udarność powinna być sprawdzona.
-8. Aluminium niestopowe, stosowane do wytwarzania zbiorników aluminiowych, zawiera nie mniej niż 99,5% czystego aluminium, a stopy aluminium nieutwardzalne przez starzenie wykazują odpowiednią odporność na korozję międzykrystaliczną w najwyższej temperaturze roboczej, a także powinno:
-1) być dostarczane w stanie wyżarzonym;
-2) mieć następujące własności wytrzymałościowe:
-a) największa wytrzymałość na rozciąganie, oznaczona symbolem R , nie większa niż 350 N/mm ,
-b) wydłużenie przy zerwaniu wynosi: – A ≥ 16% dla próbek pobranych równolegle do kierunku walcowania, – A ≥ 14% dla próbek pobranych poprzecznie do kierunku walcowania.
-9. Materiały spawalnicze stosowane do wykonywania spoin na zbiorniku lub do jego produkcji są odpowiednie do materiałów łączonych i zgodne z nimi pod względem własności.
-10. Elementy wpływające na wytrzymałość zbiornika, w szczególności śruby i nakrętki, powinny być wykonane z materiałów, o których mowa w ust. 2–4, lub z innych rodzajów stali, aluminium lub odpowiedniego stopu aluminium, zgodnych pod względem własności z materiałami zastosowanymi do produkcji elementów ciśnieniowych.
-11. Materiały do wykonania elementów, o których mowa w ust. 10, powinny mieć przy najniższej temperaturze roboczej odpowiednie wydłużenie przy zerwaniu oraz energię rozerwania.
-12. Wszystkie elementy nieciśnieniowe zbiorników spawanych są wykonane z materiałów o własnościach zgodnych z własnościami materiałów na elementy, z którymi są łączone za pomocą spawania.
 1. W przypadku projektowania zbiornika określa się jego zastosowanie oraz następujące parametry:
 1) najniższą temperaturę roboczą T ;
 2) najwyższą temperaturę roboczą T ;
@@ -246,13 +152,157 @@ d) dokument opisujący procesy produkcji i wszystkie wcześniej określone syste
 
 #### Rozdział 1 Przepisy ogólne
 
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wymagania dla prostych zbiorników ciśnieniowych produkowanych seryjnie, zwanych dalej „zbiornikami”;
+- **2)** procedury oceny zgodności;
+- **3)** zakres dokumentacji technicznej zbiorników;
+- **4)** sposób oznakowania zbiorników;
+- **5)** elementy deklaracji zgodności.
+
+**§ 2.** Przepisy rozporządzenia stosuje się do dowolnych spawanych zbiorników o nadciśnieniu wewnętrznym wyższym od 0,5 bara, przeznaczonych do przechowywania powietrza lub azotu, nieogrzewanych płomieniem oraz spełniających łącznie następujące warunki:
+
+- **1)** części i zespoły mające wpływ na wytrzymałość zbiornika poddawanego ciśnieniu są wykonane ze stali jakościowej niestopowej lub z aluminium niestopowego, lub ze stopów aluminium nieutwardzalnych przez starzenie;
+- **2)** składa się z następujących elementów:
+    - **a)** części walcowej o przekroju kołowym zamkniętej dnami wypukłymi o wypukłości skierowanej na zewnątrz lub dnami płaskimi będącymi figurami obrotowymi o tej samej osi, co oś części walcowej,
+    - **b)** z dwóch den wypukłych o wypukłości skierowanej na zewnątrz i będących figurami obrotowymi o tej samej osi;
+
+- **3)** najwyższe ciśnienie robocze zbiornika nie przekracza 30 barów, a iloczyn najwyższego ciśnienia roboczego i pojemności zbiornika (PS × V) nie przekracza 10 000 barów x litr;
+- **4)** najniższa temperatura robocza zbiornika nie jest niższa niż ‒50°C, a najwyższa temperatura robocza zbiornika nie jest wyższa niż 300°C dla zbiorników stalowych oraz 100°C dla zbiorników z aluminium lub jego stopów.
+
+**§ 3.** Przepisów rozporządzenia nie stosuje się do zbiorników:
+
+- **1)** zaprojektowanych specjalnie do zastosowań jądrowych, których awaria może spowodować emisję radioaktywną;
+- **2)** specjalnie przeznaczonych do zainstalowania na statkach morskich lub powietrznych, lub przeznaczonych do ich napędu;
+- **3)** gaśnic.
+
+**§ 4.** Użyte w rozporządzeniu określenia oznaczają:
+
+- **1)** ciśnienie obliczeniowe, oznaczone symbolem „P” – nadciśnienie przyjęte przez producenta i stosowane w celu określenia grubości ścianki elementów ciśnieniowych zbiornika, wyrażone w barach;
+- **2)** najwyższe ciśnienie robocze, oznaczone symbolem „PS” – najwyższe nadciśnienie, które może powstać w normalnych warunkach użytkowania zbiornika, wyrażone w barach;
+- **3)** najniższa temperatura robocza, oznaczona symbolem „T ” – najniższą ustabilizowaną temperaturę ścianki zbiornika w normalnych warunkach użytkowania zbiornika, wyrażoną w stopniach Celsjusza ( C);
+- **4)** najwyższa temperatura robocza, oznaczona symbolem „T ” – najwyższą ustabilizowaną temperaturę, którą ścianka zbiornika może osiągnąć w normalnych warunkach użytkowania zbiornika, wyrażoną w stopniach Celsjusza ( C);
+- **5)** granica plastyczności, oznaczona symbolem „R ” – wartość w najwyższej temperaturze roboczej „T ”, wyrażoną w N/mm :
+    - **a)** górnej granicy plastyczności, oznaczonej symbolem „R ” i wyrażonej w N/mm , w przypadku materiału posiadającego górną i dolną granicę plastyczności, lub
+    - **b)** umownej granicy plastyczności przy wydłużeniu 0,2%, oznaczonej symbolem „R ” i wyrażonej w N/mm , lub
+    - **c)** umownej granicy plastyczności przy wydłużeniu 1,0%, oznaczonej symbolem „R ” i wyrażonej w N/mm , w przypadku aluminium niestopowego;
+
+- **6)** typoszeregi zbiorników – proste zbiorniki ciśnieniowe różniące się od prototypu średnicą, o ile spełnione zostaną wymagania, o których mowa w części II w ust. 9–11 załącznika nr 1 do rozporządzenia, lub długością części walcowej w przypadku, gdy:
+    - **a)** prototyp ma jedno dzwono płaszcza lub więcej oraz dna, warianty w typoszeregu mają przynajmniej jedno dzwono płaszcza; zmienione długości powodujące konieczność modyfikacji otworów kontrolnych lub rewizyjnych muszą być uwidocznione na rysunku każdego wariantu,
+    - **b)** prototyp ma tylko dwa dna wypukłe, warianty w typoszeregu nie mają żadnego dzwona płaszcza; zmienione długości powodujące konieczność modyfikacji otworów kontrolnych lub rewizyjnych muszą być uwidocznione na rysunku każdego wariantu;
+
+- **7)** partia zbiorników – zbiorniki tego samego typoszeregu w liczbie nie większej niż 3000 sztuk;
+- **8)** produkcja seryjna – produkcję więcej niż jednego zbiornika tego samego typoszeregu wytwarzanego w danym okresie, w ciągłym procesie produkcyjnym według wspólnego projektu i przy zastosowaniu tego samego procesu produkcyjnego;
+- **9)** dokument kontroli – dokument, w którym producent materiałów poświadcza, że dostarczone wyroby spełniają wymagania określone w zamówieniu, i podaje wyniki rutynowych badań kontrolnych w zakładzie, w szczególności badań składu chemicznego i własności mechanicznych przeprowadzonych na wyrobach wytworzonych w tym samym procesie produkcyjnym, ale niekoniecznie z partii produktów dostarczonych;
+- **10)** instrukcja – dokument dołączany do każdego zbiornika wprowadzonego do obrotu lub oddawanego do użytku obejmujący:
+    - **a)** dane, o których mowa w § 10 ust. 1, z wyjątkiem numeru serii zbiornika lub partii,
+    - **b)** informacje dotyczące: – przeznaczenia zbiornika, – konserwacji i instalowania zbiornika wpływających na jego bezpieczeństwo.
+
+**§ 5.** Elementy deklaracji zgodności określa załącznik nr 2 do rozporządzenia.
+
 #### Rozdział 2 Wymagania dotyczące projektowania i wytwarzania zbiorników
+
+**§ 6.**
+
+1. Wprowadzane do obrotu zbiorniki kategorii, dla których iloczyn PS × V jest większy niż 50 barów x litr, spełniają wymagania określone w załączniku nr 1 do rozporządzenia.
+
+2. Wprowadzane do obrotu zbiorniki kategorii, dla których iloczyn PS × V nie jest większy niż 50 barów x litr, są projektowane i wytwarzane zgodnie z uznaną praktyką inżynierską.
 
 #### Rozdział 3 Procedury oceny zgodności i zakres dokumentacji technicznej
 
+**§ 7.** Procedury oceny zgodności i zakres dokumentacji technicznej określa załącznik nr 3 do rozporządzenia.
+
+**§ 8.**
+
+1. Zbiorniki, dla których iloczyn PS × V jest większy niż 50 barów x litr, przed rozpoczęciem wytwarzania, są poddawane badaniu typu UE (moduł B), określonemu w części I załącznika nr 3 do rozporządzenia.
+
+2. W przypadku zbiorników:
+
+- **1)** produkowanych zgodnie z normami zharmonizowanymi, badanie typu UE (moduł B) prowadzone jest zgodnie z wyborem producenta w jeden z następujących dwóch sposobów:
+    - **a)** ocena odpowiedniości projektu technicznego zbiornika poprzez zbadanie dokumentacji technicznej i dowodów potwierdzających, o których mowa w części I w ust. 3 pkt 4 załącznika nr 3 do rozporządzenia, bez badania próbek (moduł B – typ projektu),
+    - **b)** ocena odpowiedniości projektu technicznego zbiornika poprzez zbadanie dokumentacji technicznej, dowodów potwierdzających, o których mowa w części I w ust. 3 pkt 4 załącznika nr 3 do rozporządzenia, oraz badanie prototypu reprezentatywnego dla przewidywanej produkcji kompletnego zbiornika (moduł B – typ produkcji);
+
+- **2)** produkowanych niezgodnie lub częściowo niezgodnie z normami zharmonizowanymi, producent przedkłada do zbadania prototyp reprezentatywny dla przewidywanej produkcji kompletnego zbiornika oraz dokumentację techniczną i dowody potwierdzające, o których mowa w części I w ust. 3 pkt 4 załącznika nr 3 do rozporządzenia, umożliwiające zbadanie i ocenę odpowiedniości projektu technicznego zbiornika (moduł B – typ produkcji).
+
+**§ 9.**
+
+1. Przeprowadza się procedurę oceny zgodności przed wprowadzeniem do obrotu zbiorników, dla których:
+
+- **1)** iloczyn PS × V jest większy niż 3000 bar x litr – zgodności z typem na podstawie wewnętrznej kontroli produkcji oraz badanie zbiorników pod nadzorem (moduł C1), o której mowa w części II załącznika nr 3 do rozporządzenia;
+- **2)** iloczyn PS × V jest większy niż 200 bar x litr, ale nie większy niż 3000 bar x litr, zgodnie z wyborem producenta, procedurze:
+    - **a)** zgodności z typem w oparciu o wewnętrzną kontrolę produkcji oraz badanie zbiorników pod nadzorem (moduł C1), o której mowa w części II załącznika nr 3 do rozporządzenia, lub
+    - **b)** zgodności z typem w oparciu o wewnętrzną kontrolę produkcji oraz kontrole zbiorników pod nadzorem w losowo wybranych odstępach czasu (moduł C2), o której mowa w części III załącznika nr 3 do rozporządzenia;
+
+- **3)** iloczyn PS × V jest nie większy niż 200 bar x litr, ale przekracza 50 bar x litr, zgodnie z wyborem producenta, procedurze:
+    - **a)** zgodności z typem w oparciu o wewnętrzną kontrolę produkcji oraz badanie zbiorników pod nadzorem (moduł C1), o której mowa w części II załącznika nr 3 do rozporządzenia, lub
+    - **b)** zgodności z typem w oparciu o wewnętrzną kontrolę produkcji (moduł C), o której mowa w części IV załącznika nr 3 rozporządzenia.
+
+2. Zapisy i korespondencja dotycząca procedur oceny zgodności, o których mowa w § 8 i § 9, są sporządzane w języku polskim lub w języku akceptowanym przez jednostkę notyfikowaną.
+
 #### Rozdział 4 Sposób oznakowania zbiorników
 
+**§ 10.**
+
+1. Na zbiornikach albo na ich tabliczce znamionowej umieszcza się następujące dane:
+
+- **1)** maksymalne ciśnienie robocze (PS w barach);
+- **2)** maksymalna temperatura robocza (T w °C);
+- **3)** minimalna temperatura robocza (T w °C);
+- **4)** pojemność zbiornika (V w litrach);
+- **5)** nazwa, zarejestrowana nazwa handlowa lub zarejestrowany znak towarowy i kontaktowy adres pocztowy producenta;
+- **6)** nazwa typu, numer partii lub serii zbiornika.
+
+2. Na zbiornikach, dla których iloczyn PS × V jest większy niż 50 barów x litr, albo na zamieszczonej na nich tabliczce znamionowej umieszcza się dane, o których mowa w ust. 1, oznakowanie CE oraz dwie ostatnie cyfry roku, w którym CE zostało zamieszczone.
+
+3. Za oznakowaniem CE podaje się numer identyfikacyjny jednostki notyfikowanej biorącej udział w procedurze oceny zgodności z typem zbiorników na etapie wewnętrznej kontroli produkcji.
+
+4. Za oznakowaniem CE oraz za numerem identyfikacyjnym jednostki notyfikowanej można umieścić wszelkiego rodzaju znaki wskazujące na szczególne zagrożenie lub zastosowanie.
+
+5. Tabliczkę znamionową projektuje się w taki sposób, aby nie było możliwe jej ponowne użycie i aby zawierała wolne miejsce pozwalające na zamieszczenie innych informacji.
+
 #### Rozdział 5 Przepis końcowy
+
+**§ 11.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju: wz. J. Kwieciński WYMAGANIA DOTYCZĄCE PROJEKTOWANIA I WYTWARZANIA ZBIORNIKÓW Część I. Materiały 1. Materiały przeznaczone do wytwarzania zbiorników należy dobierać zgodnie z przewidywanym zastosowaniem tych zbiorników oraz powinny one spełniać wymagania, o których mowa w ust. 2–12. 2. Materiały stosowane do produkcji elementów ciśnieniowych zbiorników są:
+
+- **1)** spawalne;
+- **2)** plastyczne i odporne na obciążenia udarowe tak, aby pęknięcia występujące w najniższej temperaturze roboczej nie powodowały fragmentacji zbiornika ani nie miały charakteru kruchego;
+- **3)** odporne na starzenie.
+
+3. Materiały przeznaczone do wytwarzania zbiorników stalowych oprócz wymagań, o których mowa w ust. 2, powinny spełniać wymagania określone w ust. 6–7.
+
+4. Materiały przeznaczone do wytwarzania zbiorników aluminiowych oprócz wymagań, o których mowa w ust. 2, powinny spełniać wymagania określone w ust. 8–9.
+
+5. Materiały przeznaczone do wytwarzania zbiorników stalowych i aluminiowych powinny być dostarczone z dokumentem kontroli, o którym mowa w § 4 pkt 9 rozporządzenia.
+
+6. Stale jakościowe niestopowe stosowane do wytwarzania zbiorników spełniają następujące wymagania:
+
+- **1)** są uspokojone i dostarczone w stanie znormalizowanym lub w równoważnym stanie obróbki cieplnej;
+- **2)** mają zawartość węgla w wyrobie poniżej 0,25%, a siarki i fosforu poniżej 0,05% dla każdego z tych składników.
+
+7. Stale jakościowe niestopowe w wyrobie posiadają następujące właściwości wytrzymałościowe:
+
+- **1)** największą wytrzymałość na rozciąganie, oznaczoną symbolem R , mniejszą niż 580 N/mm ;
+- **2)** wydłużenie przy zerwaniu:
+    - **a)** dla próbek pobranych równolegle do kierunku walcowania: – o grubości ≥ 3 mm: A ≥ 22%, – dla grubości < 3 mm: A ≥ 17%,
+    - **b)** dla próbek pobranych poprzecznie do kierunku walcowania: – grubość ≥ 3 mm: A ≥ 20%, – grubość < 3 mm: A ≥ 15%;
+
+- **3)** średnia udarność oznaczona symbolem „KCV” w najniższej temperaturze roboczej dla trzech próbek pobranych równolegle do kierunku walcowania wynosi co najmniej 35 J/cm . Najwyżej jeden wynik z tych trzech próbek może być niższy niż 35 J/cm , ale nie niższy niż 25 J/cm ;
+- **4)** w przypadku stali przeznaczonych do produkcji zbiorników, dla których najniższa temperatura robocza jest niższa niż −10°C i których grubość ścianki jest większa niż 5 mm, udarność powinna być sprawdzona.
+
+8. Aluminium niestopowe, stosowane do wytwarzania zbiorników aluminiowych, zawiera nie mniej niż 99,5% czystego aluminium, a stopy aluminium nieutwardzalne przez starzenie wykazują odpowiednią odporność na korozję międzykrystaliczną w najwyższej temperaturze roboczej, a także powinno:
+
+- **1)** być dostarczane w stanie wyżarzonym;
+- **2)** mieć następujące własności wytrzymałościowe:
+    - **a)** największa wytrzymałość na rozciąganie, oznaczona symbolem R , nie większa niż 350 N/mm ,
+    - **b)** wydłużenie przy zerwaniu wynosi: – A ≥ 16% dla próbek pobranych równolegle do kierunku walcowania, – A ≥ 14% dla próbek pobranych poprzecznie do kierunku walcowania.
+
+9. Materiały spawalnicze stosowane do wykonywania spoin na zbiorniku lub do jego produkcji są odpowiednie do materiałów łączonych i zgodne z nimi pod względem własności.
+
+10. Elementy wpływające na wytrzymałość zbiornika, w szczególności śruby i nakrętki, powinny być wykonane z materiałów, o których mowa w ust. 2–4, lub z innych rodzajów stali, aluminium lub odpowiedniego stopu aluminium, zgodnych pod względem własności z materiałami zastosowanymi do produkcji elementów ciśnieniowych.
+
+11. Materiały do wykonania elementów, o których mowa w ust. 10, powinny mieć przy najniższej temperaturze roboczej odpowiednie wydłużenie przy zerwaniu oraz energię rozerwania.
+
+12. Wszystkie elementy nieciśnieniowe zbiorników spawanych są wykonane z materiałów o własnościach zgodnych z własnościami materiałów na elementy, z którymi są łączone za pomocą spawania.
 
 ## Część II. Projekt
 

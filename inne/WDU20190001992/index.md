@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001992) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1992/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania osobowości prawnej Salwatoriańskiemu Ośrodkowi Szkoleniowo-Terapeutycznemu Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 16 stycznia 2016 r. w sprawie nadania osobowości prawnej Salwatoriańskiemu Ośrodkowi Szkoleniowo-Terapeutycznemu (Dz. U. poz. 121) wprowadza się następujące zmiany:
-1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie nadania osobowości prawnej Salwatoriańskiemu Ośrodkowi Terapeutycznemu SOTer”;
-2) § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Salwatoriański Ośrodek Terapeutyczny SOTer erygowanej przez Przełożonego Prowincji Towarzystwa Boskiego Zbawiciela, Prowincja Polska.”;
-3) § 2 otrzymuje brzmienie: „§ 2. Siedzibą Salwatoriańskiego Ośrodka Terapeutycznego SOTer jest Kraków.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 16 stycznia 2016 r. w sprawie nadania osobowości prawnej Salwatoriańskiemu Ośrodkowi Szkoleniowo-Terapeutycznemu (Dz. U. poz. 121) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozporządzenia otrzymuje brzmienie: „w sprawie nadania osobowości prawnej Salwatoriańskiemu Ośrodkowi Terapeutycznemu SOTer”;
+- **2)** § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Salwatoriański Ośrodek Terapeutyczny SOTer erygowanej przez Przełożonego Prowincji Towarzystwa Boskiego Zbawiciela, Prowincja Polska.”;
+- **3)** § 2 otrzymuje brzmienie: „§ 2. Siedzibą Salwatoriańskiego Ośrodka Terapeutycznego SOTer jest Kraków.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
 

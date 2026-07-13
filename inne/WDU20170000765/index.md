@@ -26,9 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000765) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/765/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzoru znaku graficznego zawierającego informację „Produkt polski” Na podstawie art. 7b ust. 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2016 r. poz. 1604, 1948, 1961 i 2007 oraz z 2017 r. poz. 624) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 16 grudnia 2016 r. w sprawie wzoru znaku graficznego zawierającego informację „Produkt polski” (Dz. U. poz. 2148) w § 1 ust. 1–3 otrzymują brzmienie: „1. Ustala się wzór znaku graficznego zawierającego informację „Produkt polski”, który ma kształt prostokąta podzielonego w poziomie na dwa równe prostokąty. Kontur znaku wyznacza obrys w kolorze czerwonym.
-2. Górny prostokąt jest w kolorze białym i zawiera wyśrodkowany wyraz „produkt” w kolorze czerwonym.
-3. Dolny prostokąt jest w kolorze czerwonym i zawiera wyśrodkowany wyraz „polski” w kolorze białym.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 16 grudnia 2016 r. w sprawie wzoru znaku graficznego zawierającego informację „Produkt polski” (Dz. U. poz. 2148) w § 1 ust. 1–3 otrzymują brzmienie: „1. Ustala się wzór znaku graficznego zawierającego informację „Produkt polski”, który ma kształt prostokąta podzielonego w poziomie na dwa równe prostokąty. Kontur znaku wyznacza obrys w kolorze czerwonym. 2. Górny prostokąt jest w kolorze białym i zawiera wyśrodkowany wyraz „produkt” w kolorze czerwonym. 3. Dolny prostokąt jest w kolorze czerwonym i zawiera wyśrodkowany wyraz „polski” w kolorze białym.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

@@ -27,8 +27,12 @@ source: pdf
 
 w sprawie uznania za obowiązujące przepisów w zakresie budowy stałych platform wiertniczych oraz ich urządzeń i wyposażenia Na podstawie art. 11 ust. 3 pkt 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r.
 poz. 181, 1137 i 1669) zarządza się, co następuje:
-§ 1. 1. Uznaje się za obowiązujące przepisy techniczne Polskiego Rejestru Statków S.A. w zakresie budowy stałych platform wiertniczych oraz ich urządzeń i wyposażenia.
+
+**§ 1.**
+
+1. Uznaje się za obowiązujące przepisy techniczne Polskiego Rejestru Statków S.A. w zakresie budowy stałych platform wiertniczych oraz ich urządzeń i wyposażenia.
+
 2. Przepisy techniczne, o których mowa w ust. 1, zawarte w publikacji „Jednostki morskie. Stacjonarne jednostki i urządzenia górnictwa morskiego. Przepisy budowy i nadzoru” są udostępnione w Biuletynie Informacji Publicznej na stronie podmiotowej Polskiego Rejestru Statków S.A.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
 

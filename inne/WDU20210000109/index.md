@@ -31,7 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 poz. 2004), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 17 kwietnia 2008 r.
 w sprawie nadania osobowości prawnej Centrum Opatrzności Bożej – Wotum Narodu – Miejsce Kultu, Pamięci, Kultury Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Centrum Opatrzności Bożej ‒ Wotum Narodu ‒ Miejsce Kultu, Pamięci, Kultury, erygowanej przez Arcybiskupa Metropolitę Warszawskiego.
-§ 1a. Siedzibą Centrum Opatrzności Bożej ‒ Wotum Narodu ‒ Miejsce Kultu, Pamięci, Kultury jest Warszawa.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Centrum Opatrzności Bożej ‒ Wotum Narodu ‒ Miejsce Kultu, Pamięci, Kultury, erygowanej przez Arcybiskupa Metropolitę Warszawskiego.
+
+**§ 1a.** Siedzibą Centrum Opatrzności Bożej ‒ Wotum Narodu ‒ Miejsce Kultu, Pamięci, Kultury jest Warszawa.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

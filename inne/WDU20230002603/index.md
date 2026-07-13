@@ -26,10 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002603) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2603/text.pdf) |
 
 zmieniające rozporządzenie w sprawie programu pilotażowego w zakresie monitorowania dzieci i młodzieży z pierwotnymi i wtórnymi niedoborami odporności Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 8 grudnia 2022 r. w sprawie programu pilotażowego w zakresie monitorowania dzieci i młodzieży z pierwotnymi i wtórnymi niedoborami odporności (Dz. U. poz. 2601 oraz z 2023 r. poz. 871) wprowadza się następujące zmiany:
-1) w § 12 w ust. 1 w pkt 1 wyrazy „30 listopada 2023 r.” zastępuje się wyrazami „30 kwietnia 2024 r.”;
-2) w załączniku do rozporządzenia w lp. 1 „Innowacyjne urządzenie wielofunkcyjne” w kolumnie „Specyfikacja techniczna” pkt 2 otrzymuje brzmienie: „2) urządzenie jest wyrobem medycznym klasy IIa spełniającym wymagania określone w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) oraz”.
-§ 2. Innowacyjne urządzenia wielofunkcyjne, o których mowa w § 2 pkt 2 rozporządzenia zmienianego w § 1, zakupione przed dniem wejścia w życie niniejszego rozporządzenia przez realizatorów programu pilotażowego w zakresie monitorowania dzieci i młodzieży z pierwotnymi i wtórnymi niedoborami odporności, w tym po przebytym zakażeniu wirusem SARS-CoV-2, mogą być wykorzystywane w ramach etapu organizacji i realizacji tego programu.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. W. Kraska
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 8 grudnia 2022 r. w sprawie programu pilotażowego w zakresie monitorowania dzieci i młodzieży z pierwotnymi i wtórnymi niedoborami odporności (Dz. U. poz. 2601 oraz z 2023 r. poz. 871) wprowadza się następujące zmiany:
+
+- **1)** w § 12 w ust. 1 w pkt 1 wyrazy „30 listopada 2023 r.” zastępuje się wyrazami „30 kwietnia 2024 r.”;
+- **2)** w załączniku do rozporządzenia w lp. 1 „Innowacyjne urządzenie wielofunkcyjne” w kolumnie „Specyfikacja techniczna” pkt 2 otrzymuje brzmienie: „2) urządzenie jest wyrobem medycznym klasy IIa spełniającym wymagania określone w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm.) oraz”.
+
+**§ 2.** Innowacyjne urządzenia wielofunkcyjne, o których mowa w § 2 pkt 2 rozporządzenia zmienianego w § 1, zakupione przed dniem wejścia w życie niniejszego rozporządzenia przez realizatorów programu pilotażowego w zakresie monitorowania dzieci i młodzieży z pierwotnymi i wtórnymi niedoborami odporności, w tym po przebytym zakażeniu wirusem SARS-CoV-2, mogą być wykorzystywane w ramach etapu organizacji i realizacji tego programu.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. W. Kraska
 

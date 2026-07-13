@@ -27,24 +27,35 @@ source: pdf
 
 w sprawie kwalifikacji wojskowych osób uprawnionych do wykonywania prac podwodnych, które uzyskały uprawnienia w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej Na podstawie art. 23 ust. 6 ustawy z dnia 17 października 2003 r. o wykonywaniu prac podwodnych (Dz. U. z 2017 r.
 poz. 1970, z 2018 r. poz. 2245 oraz z 2019 r. poz. 730) zarządza się, co następuje:
-§ 1. Rozporządzenie określa kwalifikacje wojskowe osób uprawnionych do wykonywania prac podwodnych odpowiadające kwalifikacjom do wykonywania zawodów, o których mowa w art. 19 ustawy z dnia 17 października 2003 r.
-o wykonywaniu prac podwodnych.
-§ 2. Określa się następujące kwalifikacje wojskowe uprawniające do wykonywania prac podwodnych:
-1) młodszy nurek;
-2) nurek: bojowy, miner, inżynierii, ratownictwa;
-3) starszy nurek: miner, inżynierii, ratownictwa;
-4) kierownik nurkowania;
-5) kierownik podwodnych działań: minerskich, inżynieryjnych, ratowniczych;
-6) operator: komory dekompresyjnej, sprzętu nurkowego.
-§ 3. Kwalifikacje wojskowe młodszego nurka odpowiadają kwalifikacjom wymaganym do wykonywania zawodu nurka o uprawnieniach zgodnych z wymaganiami dyplomu nurka III klasy.
-§ 4. Kwalifikacje wojskowe nurka bojowego, nurka minera, nurka inżynierii, starszego nurka minera lub starszego nurka inżynierii odpowiadają kwalifikacjom wymaganym do wykonywania zawodu nurka o uprawnieniach zgodnych z wymaganiami dyplomu nurka II klasy.
-§ 5. Kwalifikacje wojskowe nurka ratownictwa odpowiadają kwalifikacjom wymaganym do wykonywania zawodu nurka o uprawnieniach zgodnych z wymaganiami dyplomu nurka I klasy.
-§ 6. Kwalifikacje wojskowe starszego nurka ratownictwa odpowiadają kwalifikacjom wymaganym do wykonywania zawodu nurka o uprawnieniach zgodnych z wymaganiami dyplomu nurka saturowanego.
-§ 7. Kwalifikacje wojskowe kierownika nurkowania odpowiadają kwalifikacjom wymaganym do wykonywania zawodu kierownika prac podwodnych o uprawnieniach zgodnych z wymaganiami dyplomu kierownika prac podwodnych III klasy.
-§ 8. Kwalifikacje wojskowe kierownika nurkowania, który posiada kwalifikacje wojskowe nurka bojowego, nurka minera, nurka inżynierii lub nurka ratownictwa i co najmniej roczną praktykę zawodową w charakterze nurka bojowego, nurka minera, nurka inżynierii lub nurka ratownictwa, odpowiadają kwalifikacjom wymaganym do wykonywania zawodu kierownika prac podwodnych o uprawnieniach zgodnych z wymaganiami dyplomu kierownika prac podwodnych II klasy.
-§ 9. Kwalifikacje wojskowe kierownika podwodnych działań minerskich lub kierownika podwodnych działań inżynieryjnych odpowiadają kwalifikacjom wymaganym do wykonywania zawodu kierownika prac podwodnych o uprawnieniach zgodnych z wymaganiami dyplomu kierownika prac podwodnych II klasy.
-§ 10. Kwalifikacje wojskowe kierownika podwodnych działań ratowniczych odpowiadają kwalifikacjom wymaganym do wykonywania zawodu kierownika prac podwodnych o uprawnieniach zgodnych z wymaganiami dyplomu kierownika prac podwodnych I klasy.
-§ 11. Kwalifikacje wojskowe operatora komory dekompresyjnej i operatora sprzętu nurkowego oraz posiadanie zaświadczenia o ukończeniu szkolenia personelu technicznego do zabezpieczenia nurkowań saturowanych odpowiadają kwalifikacjom wymaganym do wykonywania zawodu operatora systemów nurkowych do prowadzenia głębinowych i długotrwałych prac podwodnych o uprawnieniach zgodnych z wymaganiami świadectwa operatora systemów nurkowych uprawniającego do obsługi zainstalowanych w bazie prac podwodnych urządzeń i wyposażenia technicznego wymaganego do prowadzenia głębinowych i długotrwałych prac podwodnych.
-§ 12. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: wz. T. Zdzikot
+
+**§ 1.** Rozporządzenie określa kwalifikacje wojskowe osób uprawnionych do wykonywania prac podwodnych odpowiadające kwalifikacjom do wykonywania zawodów, o których mowa w art. 19 ustawy z dnia 17 października 2003 r. o wykonywaniu prac podwodnych.
+
+**§ 2.** Określa się następujące kwalifikacje wojskowe uprawniające do wykonywania prac podwodnych:
+
+- **1)** młodszy nurek;
+- **2)** nurek: bojowy, miner, inżynierii, ratownictwa;
+- **3)** starszy nurek: miner, inżynierii, ratownictwa;
+- **4)** kierownik nurkowania;
+- **5)** kierownik podwodnych działań: minerskich, inżynieryjnych, ratowniczych;
+- **6)** operator: komory dekompresyjnej, sprzętu nurkowego.
+
+**§ 3.** Kwalifikacje wojskowe młodszego nurka odpowiadają kwalifikacjom wymaganym do wykonywania zawodu nurka o uprawnieniach zgodnych z wymaganiami dyplomu nurka III klasy.
+
+**§ 4.** Kwalifikacje wojskowe nurka bojowego, nurka minera, nurka inżynierii, starszego nurka minera lub starszego nurka inżynierii odpowiadają kwalifikacjom wymaganym do wykonywania zawodu nurka o uprawnieniach zgodnych z wymaganiami dyplomu nurka II klasy.
+
+**§ 5.** Kwalifikacje wojskowe nurka ratownictwa odpowiadają kwalifikacjom wymaganym do wykonywania zawodu nurka o uprawnieniach zgodnych z wymaganiami dyplomu nurka I klasy.
+
+**§ 6.** Kwalifikacje wojskowe starszego nurka ratownictwa odpowiadają kwalifikacjom wymaganym do wykonywania zawodu nurka o uprawnieniach zgodnych z wymaganiami dyplomu nurka saturowanego.
+
+**§ 7.** Kwalifikacje wojskowe kierownika nurkowania odpowiadają kwalifikacjom wymaganym do wykonywania zawodu kierownika prac podwodnych o uprawnieniach zgodnych z wymaganiami dyplomu kierownika prac podwodnych III klasy.
+
+**§ 8.** Kwalifikacje wojskowe kierownika nurkowania, który posiada kwalifikacje wojskowe nurka bojowego, nurka minera, nurka inżynierii lub nurka ratownictwa i co najmniej roczną praktykę zawodową w charakterze nurka bojowego, nurka minera, nurka inżynierii lub nurka ratownictwa, odpowiadają kwalifikacjom wymaganym do wykonywania zawodu kierownika prac podwodnych o uprawnieniach zgodnych z wymaganiami dyplomu kierownika prac podwodnych II klasy.
+
+**§ 9.** Kwalifikacje wojskowe kierownika podwodnych działań minerskich lub kierownika podwodnych działań inżynieryjnych odpowiadają kwalifikacjom wymaganym do wykonywania zawodu kierownika prac podwodnych o uprawnieniach zgodnych z wymaganiami dyplomu kierownika prac podwodnych II klasy.
+
+**§ 10.** Kwalifikacje wojskowe kierownika podwodnych działań ratowniczych odpowiadają kwalifikacjom wymaganym do wykonywania zawodu kierownika prac podwodnych o uprawnieniach zgodnych z wymaganiami dyplomu kierownika prac podwodnych I klasy.
+
+**§ 11.** Kwalifikacje wojskowe operatora komory dekompresyjnej i operatora sprzętu nurkowego oraz posiadanie zaświadczenia o ukończeniu szkolenia personelu technicznego do zabezpieczenia nurkowań saturowanych odpowiadają kwalifikacjom wymaganym do wykonywania zawodu operatora systemów nurkowych do prowadzenia głębinowych i długotrwałych prac podwodnych o uprawnieniach zgodnych z wymaganiami świadectwa operatora systemów nurkowych uprawniającego do obsługi zainstalowanych w bazie prac podwodnych urządzeń i wyposażenia technicznego wymaganego do prowadzenia głębinowych i długotrwałych prac podwodnych.
+
+**§ 12.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: wz. T. Zdzikot
 

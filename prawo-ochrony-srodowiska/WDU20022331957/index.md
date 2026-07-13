@@ -33,7 +33,10 @@ source: pdf
 - **2)** w art. 274:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) ilości i jakości pobranej wody oraz od tego, czy pobrano wodę powierzchniową czy podziemną, a także od jej przeznaczenia.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Wysokość opłaty za wprowadzanie ścieków zależy, z zastrzeżeniem ust. 4, od rodzaju substancji zawartych w ściekach i ich ilości, rodzaju ścieków, a w wypadku wód chłodniczych - od temperatury tych wód.”,
-    - **c)** ust. 4 otrzymuje brzmienie: „4. Wysokość opłaty za wprowadzanie ścieków zależy od: 1) wielkości, rodzaju i sposobu zagospodarowania terenu, z którego te ścieki są odprowadzane, w odniesieniu do ścieków, o których mowa w art. 3 pkt 38 lit. c), 2) rodzaju substancji zawartych w ściekach i ich ilości albo od wielkości produkcji ryb innych niż łososiowate lub innych organizmów wodnych, wyprodukowanych w obiektach chowu lub hodowli ryb oraz innych organizmów wodnych, w odniesieniu do ścieków, o których mowa w art. 3 pkt 38 lit. f).”;
+    - **c)** ust. 4 otrzymuje brzmienie:
+
+      > „4. Wysokość opłaty za wprowadzanie ścieków zależy od:  
+      > 1) wielkości, rodzaju i sposobu zagospodarowania terenu, z którego te ścieki są odprowadzane, w odniesieniu do ścieków, o których mowa w art. 3 pkt 38 lit. c), 2) rodzaju substancji zawartych w ściekach i ich ilości albo od wielkości produkcji ryb innych niż łososiowate lub innych organizmów wodnych, wyprodukowanych w obiektach chowu lub hodowli ryb oraz innych organizmów wodnych, w odniesieniu do ścieków, o których mowa w art. 3 pkt 38 lit. f).”;  
 
 - **3)** w art. 285:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Podmiot korzystający ze środowiska wnosi opłatę do końca miesiąca następującego po upływie każdego kwartału, z zastrzeżeniem ust. 3.”,
@@ -46,14 +49,21 @@ source: pdf
 
 - **6)** w art. 290:
     - **a)** w ust. 1 w pkt 7 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 8 w brzmieniu: „8) 20 zł za każde rozpoczęte 100 kg przyrostu masy ryb innych niż łososiowate lub innych organizmów wodnych w ciągu roku, przy produkcji ponad 1500 kg z jednego ha powierzchni użytkowej stawu.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Rada Ministrów, w drodze rozporządzeń: 1) określi jednostkowe stawki opłat, o których mowa w ust. 1, 2) może różnicować wysokość stawek opłat w zależności od: a) rodzaju gazów, pyłów, odpadów lub substancji w ściekach i temperatury ścieków, b) rodzaju ścieków, c) jakości i rodzaju pobranej wody oraz jej przeznaczenia, d) części obszaru kraju, e) sposobu zagospodarowania terenu w przypadku stawek opłat za ścieki, o których mowa w art. 3 pkt 38 lit. c).”,
+    - **b)** ust. 2 otrzymuje brzmienie:
+
+      > „2. Rada Ministrów, w drodze rozporządzeń:  
+      > 1) określi jednostkowe stawki opłat, o których mowa w ust. 1, 2) może różnicować wysokość stawek opłat w zależności od:  
+      > a) rodzaju gazów, pyłów, odpadów lub substancji w ściekach i temperatury ścieków, b) rodzaju ścieków, c) jakości i rodzaju pobranej wody oraz jej przeznaczenia, d) części obszaru kraju, e) sposobu zagospodarowania terenu w przypadku stawek opłat za ścieki, o których mowa w art. 3 pkt 38 lit. c).”,  
     - **c)** uchyla się ust. 4;
 
 - **7)** w art. 292 zdanie wstępne otrzymuje brzmienie: „Podmiot korzystający ze środowiska ponosi opłaty podwyższone o 100% w przypadku braku wymaganego pozwolenia na:”;
 - **8)** w art. 294 pkt 2 otrzymuje brzmienie: „2) na potrzeby energetyki wodnej, pod warunkiem zwrotu takiej samej ilości wody, co najmniej nie gorszej jakości,”;
 - **9)** w art. 295:
     - **a)** ust. 4 otrzymuje brzmienie: „4. Podstawą ustalenia opłaty za wprowadzanie ścieków do wód lub do ziemi jest ilość substancji zawartych w ściekach pomniejszona o ilość tych substancji zawartych w pobranej wodzie, której zużycie spowodowało powstanie tych ścieków, o ile podmiot obowiązany do poniesienia opłaty dysponuje danymi w tym zakresie.”,
-    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Opłatę za ścieki, o których mowa w art. 3 pkt 38 lit. f), ponosi się: 1) za substancje wyrażone wskaźnikiem pięciodobowego biochemicznego zapotrzebowania tlenu, chemicznego zapotrzebowania tlenu, a także zawiesiny ogólnej, albo 2) w postaci zryczałtowanej za każde 100 kg przyrostu masy ryb innych niż łososiowate lub innych organizmów wodnych w ciągu roku, przy produkcji powyżej 1500 kg z 1 ha powierzchni użytkowej stawu.”;
+    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+      > „4a. Opłatę za ścieki, o których mowa w art. 3 pkt 38 lit. f), ponosi się:  
+      > 1) za substancje wyrażone wskaźnikiem pięciodobowego biochemicznego zapotrzebowania tlenu, chemicznego zapotrzebowania tlenu, a także zawiesiny ogólnej, albo 2) w postaci zryczałtowanej za każde 100 kg przyrostu masy ryb innych niż łososiowate lub innych organizmów wodnych w ciągu roku, przy produkcji powyżej 1500 kg z 1 ha powierzchni użytkowej stawu.”;  
 
 - **10)** w art. 296 w pkt 3 kropkę za końcu zastępuje się przecinkiem i dodaje się pkt 4 i 5 w brzmieniu: „4) do wód lub do ziemi - wód wykorzystanych na potrzeby chowu i hodowli ryb łososiowatych, pod warunkiem, że ilość i rodzaj substancji w nich zawartych nie przekroczy wartości określonych w warunkach wprowadzania ścieków do wód, 5) do wód lub do ziemi - wód wykorzystanych na potrzeby chowu i hodowli ryb innych niż łososiowate lub innych organizmów wodnych, o ile produkcja rozumiana jako przyrost masy tych ryb lub tych organizmów w ciągu roku nie przekracza 1500 kg z 1 ha powierzchni użytkowej stawu.”;
 - **11)** w art. 310 w ust. 1 pkt 1 otrzymuje brzmienie: „1) 984 zł - za 1 kg substancji, w wypadku przekroczenia dopuszczalnego składu i ilości ścieków,”;
@@ -66,7 +76,10 @@ source: pdf
     - **a)** w ust. 1 po wyrazach „ust. 3” dodaje się wyrazy „i 3a”,
     - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Jeżeli odroczeniu podlegały opłaty w związku z wprowadzaniem ścieków do wód lub do ziemi bez wymaganego pozwolenia wodnoprawnego na wprowadzanie ścieków do wód lub do ziemi, w razie terminowego wykonania przedsięwzięcia służącego do realizacji zadań własnych gminy w zakresie kanalizacji i oczyszczania ścieków komunalnych, właściwy organ stwierdza, w drodze decyzji, umorzenie odroczonych opłat.”;
 
-- **15)** w art. 402 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Zarząd województwa przed przekazaniem na rachunek Narodowego Funduszu oraz wojewódzkich funduszy wpływów z opłat wymierzonych w drodze decyzji, o których mowa w art. 288 ust. 1, pomniejsza je o 10%, a kwotę uzyskaną z tytułu pomniejszenia przeznacza na: 1) tworzenie i modyfikację baz danych zawierających informacje o podmiotach korzystających ze środowiska, 2) zatrudnianie osób zajmujących się kontrolą oraz windykacją opłat za korzystanie ze środowiska.”.
+- **15)** w art. 402 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+  > „2a. Zarząd województwa przed przekazaniem na rachunek Narodowego Funduszu oraz wojewódzkich funduszy wpływów z opłat wymierzonych w drodze decyzji, o których mowa w art. 288 ust. 1, pomniejsza je o 10%, a kwotę uzyskaną z tytułu pomniejszenia przeznacza na:  
+  > 1) tworzenie i modyfikację baz danych zawierających informacje o podmiotach korzystających ze środowiska, 2) zatrudnianie osób zajmujących się kontrolą oraz windykacją opłat za korzystanie ze środowiska.”.  
 
 **Art. 2.** W ustawie z dnia 18 lipca 2001 r. - Prawo wodne (Dz.U. Nr 115, poz. 1229 i Nr 154, poz. 1803 oraz z 2002 r. Nr 113, poz. 984 i Nr 130, poz. 1112) wprowadza się następujące zmiany:
 

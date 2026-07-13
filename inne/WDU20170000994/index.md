@@ -26,14 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000994) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/994/text.pdf) |
 
 w sprawie wzoru formularza wniosku o wydanie wizy krajowej w celu repatriacji oraz fotografii dołączanych do wniosku Na podstawie art. 10b ust. 8 ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392, z 2015 r. poz. 1274 oraz z 2017 r. poz. 60 i 858) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wzór formularza wniosku o wydanie wizy krajowej w celu repatriacji, zwanego dalej „wnioskiem”, oraz liczbę fotografii i wymogi dotyczące fotografii dołączanych do wniosku.
-§ 2. Wzór formularza wniosku jest określony w załączniku do rozporządzenia.
-§ 3. 1. Do wniosku dołącza się aktualną fotografię osoby, której wniosek dotyczy, nieuszkodzoną, kolorową, o wymiarach 35 mm × 45 mm, wykonaną w ciągu ostatnich 6 miesięcy przed dniem złożenia wniosku, mającą dobrą ostrość, przedstawiającą wizerunek twarzy od wierzchołka głowy do górnej części barków, tak aby twarz zajmowała 70–80% fotografii, oraz pokazującą wyraźnie oczy i twarz, na jednolitym jasnym tle; fotografia ma przedstawiać osobę bez nakrycia głowy i okularów z ciemnymi szkłami, w pozycji frontalnej, patrzącą na wprost z otwartymi oczami, nieprzesłoniętymi włosami, z naturalnym wyrazem twarzy i zamkniętymi ustami.
-2. Osoba z wrodzonymi lub nabytymi wadami wzroku może dołączyć do wniosku fotografię przedstawiającą ją w okularach z ciemnymi szkłami, a osoba nosząca nakrycie głowy zgodnie z zasadami swojego wyznania – fotografię przedstawiającą ją w nakryciu głowy. Nakrycie głowy nie może zakrywać ani zniekształcać owalu twarzy.
-3. W uzasadnionych przypadkach do wniosku można dołączyć fotografię przedstawiającą osobę, której wniosek dotyczy, z zamkniętymi oczami, z innym niż naturalny wyrazem twarzy lub otwartymi ustami, jeżeli wiek lub stan zdrowia tej osoby nie pozwala na wykonanie fotografii spełniającej wymogi, o których mowa w ust. 1.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Zagranicznych: W. Waszczykowski Załącznik do rozporządzenia Ministra Spraw Zagranicznych z dnia 15 maja 2017 r. (poz. ) WZÓR WNIOSEK O WYDANIE WIZY KRAJOWEJ W CELU REPATRIACJI ЗАЯВКА НА ПРЕДОСТАВЛЕНИЕ НАЦИОНАЛЬНОЙ ВИЗЫ В ЦЕЛЯХ РЕПАТРИАЦИИ ...........................................................
-Nr akt/ № документа
 При нехватке места для записей к заявке прилагается дополнительный лист.
 A. OŚWIADCZENIE WNIOSKODAWCY/ Wnoszę/ nie wnoszę o wydanie decyzji w sprawie uznania mnie za osobę pochodzenia polskiego w rozumieniu przepisów ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392, z późn. zm.).
 ………………………………… ……………………………… B. DANE OSOBOWE WNIOSKODAWCY/
@@ -217,6 +209,20 @@ ADNOTACJE URZĘDOWE/ ОТМЕТКА УЧРЕЖДЕНИЯ Wypełnia konsul/ За�
 8. ZAKWALIFIKOWANIE DO REPATRIACJI Numer decyzji: Data wydania decyzji: (rok) (miesiąc) (dzień)
 9. WYDANIE WIZY KRAJOWEJ W CELU REPATRIACJI Data uzyskania zgody Ministra Spraw Wewnętrznych i Administracji na wydanie wizy krajowej w celu repatriacji, (rok) (miesiąc) (dzień) o której mowa w art. 12b ust. 1 ustawy o repatriacji: Numer zgody na wydanie wizy krajowej w celu repatriacji: Numer wizy krajowej w celu repatriacji: Data wydania wizy krajowej w celu repatriacji: (rok) (miesiąc) (dzień) ……………………………………………………… (rok) (miesiąc) (dzień) (pieczęć i podpis konsula wydającego wizę) Wypełnia Ministerstwo Spraw Wewnętrznych i Administracji Numer systemowy osoby: Numer systemowy wniosku: Numer systemowy rodziny: …………….........................………………………………………… (rok) (miesiąc) (dzień) Rodzaj decyzji: .............................................................................................................................
 Numer wizy krajowej w celu repatriacji: Data wydania wizy: (rok) (miesiąc) (dzień) Data nabycia obywatelstwa polskiego: (rok) (miesiąc) (dzień) Kod urzędu poświadczającego nabycie obywatelstwa polskiego:
+
+**§ 1.** Rozporządzenie określa wzór formularza wniosku o wydanie wizy krajowej w celu repatriacji, zwanego dalej „wnioskiem”, oraz liczbę fotografii i wymogi dotyczące fotografii dołączanych do wniosku.
+
+**§ 2.** Wzór formularza wniosku jest określony w załączniku do rozporządzenia.
+
+**§ 3.**
+
+1. Do wniosku dołącza się aktualną fotografię osoby, której wniosek dotyczy, nieuszkodzoną, kolorową, o wymiarach 35 mm × 45 mm, wykonaną w ciągu ostatnich 6 miesięcy przed dniem złożenia wniosku, mającą dobrą ostrość, przedstawiającą wizerunek twarzy od wierzchołka głowy do górnej części barków, tak aby twarz zajmowała 70–80% fotografii, oraz pokazującą wyraźnie oczy i twarz, na jednolitym jasnym tle; fotografia ma przedstawiać osobę bez nakrycia głowy i okularów z ciemnymi szkłami, w pozycji frontalnej, patrzącą na wprost z otwartymi oczami, nieprzesłoniętymi włosami, z naturalnym wyrazem twarzy i zamkniętymi ustami.
+
+2. Osoba z wrodzonymi lub nabytymi wadami wzroku może dołączyć do wniosku fotografię przedstawiającą ją w okularach z ciemnymi szkłami, a osoba nosząca nakrycie głowy zgodnie z zasadami swojego wyznania – fotografię przedstawiającą ją w nakryciu głowy. Nakrycie głowy nie może zakrywać ani zniekształcać owalu twarzy.
+
+3. W uzasadnionych przypadkach do wniosku można dołączyć fotografię przedstawiającą osobę, której wniosek dotyczy, z zamkniętymi oczami, z innym niż naturalny wyrazem twarzy lub otwartymi ustami, jeżeli wiek lub stan zdrowia tej osoby nie pozwala na wykonanie fotografii spełniającej wymogi, o których mowa w ust. 1.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Zagranicznych: W. Waszczykowski Załącznik do rozporządzenia Ministra Spraw Zagranicznych z dnia 15 maja 2017 r. (poz. ) WZÓR WNIOSEK O WYDANIE WIZY KRAJOWEJ W CELU REPATRIACJI ЗАЯВКА НА ПРЕДОСТАВЛЕНИЕ НАЦИОНАЛЬНОЙ ВИЗЫ В ЦЕЛЯХ РЕПАТРИАЦИИ ........................................................... Nr akt/ № документа
 
 ## CZĘŚĆ I WNIOSKODAWCA/ ЧАСТЬ I ЗАЯВИТЕЛЬ Uwaga : Fotografia Wniosek wypełnia się w języku polskim. 35mm x 45mm W przypadku braku wystarczającej ilości miejsca na dokonanie wpisów Фотография proszę sporządzić je na oddzielnych kartkach i dołączyć do wniosku. 35мм x 45мм Примечание : Заявка заполняется на польском языке.
 

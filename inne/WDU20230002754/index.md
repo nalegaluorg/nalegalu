@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002754) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2754/text.pdf) |
 
 zmieniające rozporządzenie – Regulamin Naczelnego Sądu Administracyjnego Na podstawie art. 43 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2022 poz. 2492 oraz z 2023 r. poz. 1615) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 4 lipca 2020 r. – Regulamin Naczelnego Sądu Administracyjnego (Dz. U. poz. 1202, z 2022 r. poz. 1492 oraz z 2023 r. poz. 250) wprowadza się następujące zmiany:
-1) w § 2 ust. 1 otrzymuje brzmienie: „1. Liczba stanowisk sędziowskich w Sądzie wynosi 130, w tym 4 stanowiska wiceprezesów Sądu.”;
-2) w § 8 w ust. 2 pkt 3 otrzymuje brzmienie: „3) Izbie Ogólnoadministracyjnej wynosi 53.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 4 lipca 2020 r. – Regulamin Naczelnego Sądu Administracyjnego (Dz. U. poz. 1202, z 2022 r. poz. 1492 oraz z 2023 r. poz. 250) wprowadza się następujące zmiany:
+
+- **1)** w § 2 ust. 1 otrzymuje brzmienie: „1. Liczba stanowisk sędziowskich w Sądzie wynosi 130, w tym 4 stanowiska wiceprezesów Sądu.”;
+- **2)** w § 8 w ust. 2 pkt 3 otrzymuje brzmienie: „3) Izbie Ogólnoadministracyjnej wynosi 53.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

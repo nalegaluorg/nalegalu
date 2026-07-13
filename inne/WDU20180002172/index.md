@@ -28,7 +28,10 @@ source: pdf
 USTAWA z dnia 4 października 2018 r.
 o zmianie ustawy o kierujących pojazdami
 
-**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm. ) w art. 6 w ust. 3 pkt 4 otrzymuje brzmienie: „4) kategorii B uprawnia do kierowania: a) motocyklem o pojemności skokowej silnika nieprzekraczającej 125 cm , mocy nieprzekraczającej 11 kW i stosunku mocy do masy własnej nieprzekraczającym 0,1 kW/kg, b) motocyklem trójkołowym – pod warunkiem, że osoba posiada prawo jazdy kategorii B od co najmniej 3 lat.”.
+**Art. 1.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm. ) w art. 6 w ust. 3 pkt 4 otrzymuje brzmienie:
+
+> „4) kategorii B uprawnia do kierowania:  
+> a) motocyklem o pojemności skokowej silnika nieprzekraczającej 125 cm , mocy nieprzekraczającej 11 kW i stosunku mocy do masy własnej nieprzekraczającym 0,1 kW/kg, b) motocyklem trójkołowym – pod warunkiem, że osoba posiada prawo jazdy kategorii B od co najmniej 3 lat.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

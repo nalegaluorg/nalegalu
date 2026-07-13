@@ -26,11 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1722/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowego sposobu i trybu udzielania i rozliczania dotacji przedmiotowych Na podstawie art. 130 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, 1622 i 1649) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 3 września 2010 r. w sprawie szczegółowego sposobu i trybu udzielania i rozliczania dotacji przedmiotowych (Dz. U. z 2018 r. poz. 667) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: M. Banaś WZÓR WZÓR ROZLICZENIE DOTACJI PRZEDMIOTOWYCH za okres ................................ r.
-..........................
-(nazwa przedsiębiorcy) Sporządził: ................................ ..........................
-(nazwisko i imię i nr telefonu) (nazwisko i imię kierownika jednostki ................. dnia .............
-Niepotrzebne skreślić.
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 3 września 2010 r. w sprawie szczegółowego sposobu i trybu udzielania i rozliczania dotacji przedmiotowych (Dz. U. z 2018 r. poz. 667) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: M. Banaś WZÓR WZÓR ROZLICZENIE DOTACJI PRZEDMIOTOWYCH za okres ................................ r. .......................... (nazwa przedsiębiorcy) Sporządził: ................................ .......................... (nazwisko i imię i nr telefonu) (nazwisko i imię kierownika jednostki ................. dnia ............. Niepotrzebne skreślić.
 

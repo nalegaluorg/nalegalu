@@ -37,7 +37,10 @@ source: pdf
 - **3)** uchyla się art. 11a–11c;
 - **4)** w art. 16 uchyla się ust. 2a;
 - **5)** uchyla się rozdział 3a;
-- **6)** w art. 24 ust. 1 otrzymuje brzmienie: „1. Służba Więzienna, w celu realizacji zadań, o których mowa w art. 2 ust. 1, 2 i 2b, oraz zadań wynikających z odrębnych ustaw, jest uprawniona do przetwarzania: 1) informacji innych niż dane osobowe, 2) danych osobowych, a w celu realizacji zadań, o których mowa w art. 2 ust. 1 i 2, także danych, o których mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206) – niezbędnych do realizacji tych zadań.”;
+- **6)** w art. 24 ust. 1 otrzymuje brzmienie:
+
+  > „1. Służba Więzienna, w celu realizacji zadań, o których mowa w art. 2 ust. 1, 2 i 2b, oraz zadań wynikających z odrębnych ustaw, jest uprawniona do przetwarzania:  
+  > 1) informacji innych niż dane osobowe, 2) danych osobowych, a w celu realizacji zadań, o których mowa w art. 2 ust. 1 i 2, także danych, o których mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206) – niezbędnych do realizacji tych zadań.”;  
 - **7)** w art. 32 w ust. 1 skreśla się wyrazy „Szef IWSW,”;
 - **8)** w art. 36 w ust. 3 i 5 skreśla się wyrazy „ , Szefa IWSW”;
 - **9)** w art. 38a w ust. 2 skreśla się wyrazy „ , z tym że Szef IWSW – do służby w IWSW”;

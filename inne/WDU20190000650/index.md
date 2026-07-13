@@ -26,11 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/650/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków wykonywania usług powszechnych przez operatora wyznaczonego Na podstawie art. 47 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2018 r. poz. 2188) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 29 kwietnia 2013 r. w sprawie warunków wykonywania usług powszechnych przez operatora wyznaczonego (Dz. U. poz. 545) wprowadza się następujące zmiany:
-1) w § 21 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Jeżeli odbiorca nie może pokwitować odbioru przesyłki rejestrowanej, doręczający przesyłkę sam stwierdza datę doręczenia oraz wskazuje osobę, która odebrała przesyłkę, i przyczynę braku jej podpisu.”;
-2) w § 22 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Stwierdzenia tożsamości osób uprawnionych do odbioru przesyłek rejestrowanych można dokonać również na podstawie dokumentu elektronicznego, o którym mowa w art. 19e ust. 2 pkt 1 ustawy z dnia 17 lutego 2005 r.
-o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570, z 2018 r.
-poz. 1000, 1544 i 1669 oraz z 2019 r. poz. 60 i 534), przez okazanie tego dokumentu na ekranie urządzenia mobilnego osobie stwierdzającej tożsamość.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 29 kwietnia 2013 r. w sprawie warunków wykonywania usług powszechnych przez operatora wyznaczonego (Dz. U. poz. 545) wprowadza się następujące zmiany:
+
+- **1)** w § 21 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Jeżeli odbiorca nie może pokwitować odbioru przesyłki rejestrowanej, doręczający przesyłkę sam stwierdza datę doręczenia oraz wskazuje osobę, która odebrała przesyłkę, i przyczynę braku jej podpisu.”;
+- **2)** w § 22 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Stwierdzenia tożsamości osób uprawnionych do odbioru przesyłek rejestrowanych można dokonać również na podstawie dokumentu elektronicznego, o którym mowa w art. 19e ust. 2 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570, z 2018 r. poz. 1000, 1544 i 1669 oraz z 2019 r. poz. 60 i 534), przez okazanie tego dokumentu na ekranie urządzenia mobilnego osobie stwierdzającej tożsamość.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Infrastruktury: A. Adamczyk
 

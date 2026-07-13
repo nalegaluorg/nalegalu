@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług Na podstawie art. 28o i art. 92 ust. 1 pkt 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U.
 z 2016 r. poz. 710, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 16 grudnia 2013 r. w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. poz. 1656 oraz z 2016 r.
-poz. 1281) wprowadza się następujące zmiany:
-1) w § 10 w ust. 1 w pkt 3 skreśla się wyrazy „pobieranych przez organy celne”;
-2) w § 11 w ust. 5 skreśla się wyrazy „pobieranych przez organy celne”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 16 grudnia 2013 r. w sprawie miejsca świadczenia usług oraz zwrotu kwoty podatku naliczonego jednostce dokonującej nabycia (importu) towarów lub usług (Dz. U. poz. 1656 oraz z 2016 r. poz. 1281) wprowadza się następujące zmiany:
+
+- **1)** w § 10 w ust. 1 w pkt 3 skreśla się wyrazy „pobieranych przez organy celne”;
+- **2)** w § 11 w ust. 5 skreśla się wyrazy „pobieranych przez organy celne”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. Minister Rozwoju i Finansów: wz. W. Janczyk
 

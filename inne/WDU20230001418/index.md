@@ -26,11 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001418) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1418/text.pdf) |
 
 zmieniające rozporządzenie w sprawie czasu służby policjantów Na podstawie art. 33 ust. 6 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 września 2020 r. w sprawie czasu służby policjantów (Dz. U. poz. 1574, z 2022 r. poz. 51, 750 i 1743 oraz z 2023 r. poz. 1096) wprowadza się następujące zmiany:
-1) w § 2:
-a) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W komendzie, Centralnym Biurze Śledczym Policji, Biurze Spraw Wewnętrznych Policji, Centralnym Pododdziale Kontrterrorystycznym Policji „BOA”, Centralnym Biurze Zwalczania Cyberprzestępczości, Centralnym Laboratorium Kryminalistycznym Policji, komisariacie, komisariacie specjalistycznym, oddziale i samodzielnym pododdziale prewencji Policji, samodzielnym pododdziale kontrterrorystycznym Policji, Akademii Policji w Szczytnie, szkole policyjnej oraz ośrodku szkolenia Policji, zwanym dalej „jednostką organizacyjną Policji”, określa się rozkład czasu służby:”,
-b) ust. 2 otrzymuje brzmienie: „2. Rozkład czasu służby w podległej jednostce organizacyjnej Policji wprowadza Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, Dyrektor Centralnego Laboratorium Kryminalistycznego Policji, komendant wojewódzki (Stołeczny) Policji, komendant powiatowy (miejski) lub rejonowy Policji, Komendant-Rektor Akademii Policji w Szczytnie oraz komendant szkoły policyjnej, zwany dalej „przełożonym właściwym w sprawach osobowych”, ustalając godziny rozpoczęcia i zakończenia służby.”;
-2) w § 13 ust. 1 otrzymuje brzmienie: „1. Rozkład czasu służby policjanta skierowanego do Akademii Policji w Szczytnie, szkoły policyjnej lub ośrodka szkolenia Policji jest określony w programie nauczania i regulaminie studiów lub programie szkolenia.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 września 2020 r. w sprawie czasu służby policjantów (Dz. U. poz. 1574, z 2022 r. poz. 51, 750 i 1743 oraz z 2023 r. poz. 1096) wprowadza się następujące zmiany:
+
+- **1)** w § 2:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W komendzie, Centralnym Biurze Śledczym Policji, Biurze Spraw Wewnętrznych Policji, Centralnym Pododdziale Kontrterrorystycznym Policji „BOA”, Centralnym Biurze Zwalczania Cyberprzestępczości, Centralnym Laboratorium Kryminalistycznym Policji, komisariacie, komisariacie specjalistycznym, oddziale i samodzielnym pododdziale prewencji Policji, samodzielnym pododdziale kontrterrorystycznym Policji, Akademii Policji w Szczytnie, szkole policyjnej oraz ośrodku szkolenia Policji, zwanym dalej „jednostką organizacyjną Policji”, określa się rozkład czasu służby:”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Rozkład czasu służby w podległej jednostce organizacyjnej Policji wprowadza Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, Dyrektor Centralnego Laboratorium Kryminalistycznego Policji, komendant wojewódzki (Stołeczny) Policji, komendant powiatowy (miejski) lub rejonowy Policji, Komendant-Rektor Akademii Policji w Szczytnie oraz komendant szkoły policyjnej, zwany dalej „przełożonym właściwym w sprawach osobowych”, ustalając godziny rozpoczęcia i zakończenia służby.”;
+
+- **2)** w § 13 ust. 1 otrzymuje brzmienie: „1. Rozkład czasu służby policjanta skierowanego do Akademii Policji w Szczytnie, szkoły policyjnej lub ośrodka szkolenia Policji jest określony w programie nauczania i regulaminie studiów lub programie szkolenia.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

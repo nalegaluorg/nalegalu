@@ -27,11 +27,15 @@ source: pdf
 
 w sprawie wysokości wynagrodzenia członków zespołu egzaminacyjnego i komisji egzaminacyjnej powoływanych do przygotowania i przeprowadzania egzaminu referendarskiego Na podstawie art. 52c ust. 12 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U.
 z 2020 r. poz. 1366 oraz z 2021 r. poz. 21) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wysokość wynagrodzenia:
-1) członków zespołu egzaminacyjnego;
-2) członków komisji egzaminacyjnej.
-§ 2. Członkowie zespołu egzaminacyjnego otrzymują wynagrodzenie w wysokości 6000 zł.
-§ 3. Członkowie komisji egzaminacyjnej otrzymują wynagrodzenie w wysokości 7000 zł.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** Rozporządzenie określa wysokość wynagrodzenia:
+
+- **1)** członków zespołu egzaminacyjnego;
+- **2)** członków komisji egzaminacyjnej.
+
+**§ 2.** Członkowie zespołu egzaminacyjnego otrzymują wynagrodzenie w wysokości 6000 zł.
+
+**§ 3.** Członkowie komisji egzaminacyjnej otrzymują wynagrodzenie w wysokości 7000 zł.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

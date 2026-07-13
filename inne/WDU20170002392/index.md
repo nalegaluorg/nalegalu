@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002392) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2392/text.pdf) |
 
 zmieniające rozporządzenie w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii Na podstawie art. 8 ust. 4 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2016 r. poz. 1077, 1948 i 1961) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2004 r. w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii (Dz. U. z 2016 r. poz. 197 oraz z 2017 r. poz. 1390) w załączniku nr 2 do rozporządzenia ust. 4 otrzymuje brzmienie: „4. Województwo podlaskie Graniczny Lekarz Weterynarii w Kuźnicy Białostockiej – dla przejścia granicznego drogowego Kuźnica Białostocka i przejścia granicznego kolejowego Kuźnica Białostocka.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2004 r. w sprawie terytorialnego zakresu działania oraz siedzib powiatowych i granicznych lekarzy weterynarii (Dz. U. z 2016 r. poz. 197 oraz z 2017 r. poz. 1390) w załączniku nr 2 do rozporządzenia ust. 4 otrzymuje brzmienie: „4. Województwo podlaskie Graniczny Lekarz Weterynarii w Kuźnicy Białostockiej – dla przejścia granicznego drogowego Kuźnica Białostocka i przejścia granicznego kolejowego Kuźnica Białostocka.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

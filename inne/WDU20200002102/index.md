@@ -26,13 +26,17 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002102) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2102/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzorów wniosków o udzielenie pomocy kierowanych do państw trzecich, zaktualizowanego tytułu wykonawczego, zagranicznego tytułu wykonawczego oraz zarządzenia zabezpieczenia Na podstawie art. 23 ust. 2 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2020 r. poz. 765) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 19 listopada 2013 r. w sprawie wzorów wniosków o udzielenie pomocy kierowanych do państw trzecich, zaktualizowanego tytułu wykonawczego, zagranicznego tytułu wykonawczego oraz zarządzenia zabezpieczenia (Dz. U. poz. 1356) wprowadza się następujące zmiany:
-1) załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
-2) załącznik nr 7 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
-§ 2. Dotychczasowy wzór zagranicznego tytułu wykonawczego i wzór zarządzenia zabezpieczenia mogą być stosowane nie dłużej niż przez 9 miesięcy od dnia wejścia w życie niniejszego rozporządzenia, pod warunkiem prawidłowego pouczenia zobowiązanego zgodnie z art. 59 § 2a ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427 i 1492).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
-1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 19 listopada 2013 r. w sprawie wzorów wniosków o udzielenie pomocy kierowanych do państw trzecich, zaktualizowanego tytułu wykonawczego, zagranicznego tytułu wykonawczego oraz zarządzenia zabezpieczenia (Dz. U. poz. 1356) wprowadza się następujące zmiany:
+
+- **1)** załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+- **2)** załącznik nr 7 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+
+**§ 2.** Dotychczasowy wzór zagranicznego tytułu wykonawczego i wzór zarządzenia zabezpieczenia mogą być stosowane nie dłużej niż przez 9 miesięcy od dnia wejścia w życie niniejszego rozporządzenia, pod warunkiem prawidłowego pouczenia zobowiązanego zgodnie z art. 59 § 2a ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427 i 1492).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+- **1)** Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).
 
 ## Załącznik nr 1 — Załączniki do rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 9 listopada 2020 r. (poz. ….) WZÓR Załącznik nr 1 WZÓR ZTW–2 ZAGRANICZNY TYTUŁ WYKONAWCZY STOSOWANY W EGZEKUCJI NALEŻNOŚCI PIENIĘŻNYCH (1) PAŃSTW CZŁONKOWSKICH LUB PAŃSTW TRZECICH Podstawa prawna: art. 101 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2020 r. poz. 765), zwanej dalej „ustawą o wzajemnej pomocy”
 

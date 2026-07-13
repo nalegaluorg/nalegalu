@@ -34,7 +34,10 @@ source: pdf
 - **3)** w art. 2 po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) uzupełniająca płatność podstawowa – płatność w ramach przejściowego wsparcia krajowego, o którym mowa w art. 37 rozporządzenia nr 1307/2013;”;
 - **4)** w art. 6, art. 22 ust. 1 i art. 24 ust. 2 pkt 1 po wyrazach „tych płatności” dodaje się wyrazy „i tego wsparcia”;
 - **5)** w art. 8 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Jednolita płatność obszarowa, płatność za zazielenienie, płatność dla młodych rolników, płatność dodatkowa, płatności związane do powierzchni upraw i uzupełniająca płatność podstawowa, zwane dalej „płatnościami obszarowymi”, są przyznawane do powierzchni działki rolnej:”;
-- **6)** po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. Uzupełniająca płatność podstawowa przysługuje rolnikowi do powierzchni: 1) upraw niektórych rodzajów roślin, 2) gruntów ornych, na których nie jest prowadzona uprawa roślin – do których została przyznana jednolita płatność obszarowa.”;
+- **6)** po art. 17 dodaje się art. 17a w brzmieniu:
+
+  > „Art. 17a. Uzupełniająca płatność podstawowa przysługuje rolnikowi do powierzchni:  
+  > 1) upraw niektórych rodzajów roślin, 2) gruntów ornych, na których nie jest prowadzona uprawa roślin – do których została przyznana jednolita płatność obszarowa.”;  
 - **7)** w art. 18:
     - **a)** w ust. 1 i w ust. 2 w zdaniu pierwszym w części wspólnej po wyrazie „bezpośrednie” dodaje się wyrazy „i uzupełniająca płatność podstawowa”,
     - **b)** w ust. 3 po wyrazie „bezpośrednich” dodaje się wyrazy „i uzupełniającej płatności podstawowej”,
@@ -59,7 +62,10 @@ source: pdf
     - **a)** w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) rodzaje roślin, do upraw których przysługuje uzupełniająca płatność podstawowa, a także szczegółowe wymagania, jakie powinny spełniać uprawy poszczególnych roślin lub grunty orne, na których nie jest prowadzona uprawa roślin, do których przysługuje uzupełniająca płatność podstawowa, mając na względzie ramy prawne do przyznawania przejściowego wsparcia krajowego określone w art. 37 rozporządzenia nr 1307/2013 oraz zabezpieczenie przed nieuzasadnionym przyznawaniem płatności obszarowych.”,
     - **b)** w ust. 3 po wyrazie „bezpośrednich” dodaje się wyrazy „i uzupełniającej płatności podstawowej”;
 
-- **14)** w art. 41a ust. 1 otrzymuje brzmienie: „1. W przypadku gdy w wyniku ustaleń dokonanych w ramach kontroli administracyjnej lub kontroli na miejscu zostanie stwierdzone, że: 1) płatność bezpośrednia lub przejściowe wsparcie krajowe zostały przyznane w niewłaściwej wysokości i istnieje konieczność zmiany ich wysokości lub 2) istnieje konieczność dokonania zmniejszenia danej płatności lub danego wsparcia lub wykluczenia z płatności lub wsparcia, w tym wynikająca ze stwierdzonych nieprawidłowości lub niezgodności, lub nałożenia pozostałych kar administracyjnych, lub zastosowania art. 8 ust. 1, 3 i 4 rozporządzenia nr 1307/2013 lub art. 11 ust. 1 tego rozporządzenia – organ, który wydał decyzję w sprawie o przyznanie tej płatności lub tego wsparcia, zmienia ją bez zgody strony, jeżeli ta płatność lub to wsparcie nie zostały jeszcze wypłacone i nie upłynął termin ich wypłaty określony w art. 75 ust. 1 akapit pierwszy rozporządzenia nr 1306/2013.”.
+- **14)** w art. 41a ust. 1 otrzymuje brzmienie:
+
+  > „1. W przypadku gdy w wyniku ustaleń dokonanych w ramach kontroli administracyjnej lub kontroli na miejscu zostanie stwierdzone, że:  
+  > 1) płatność bezpośrednia lub przejściowe wsparcie krajowe zostały przyznane w niewłaściwej wysokości i istnieje konieczność zmiany ich wysokości lub 2) istnieje konieczność dokonania zmniejszenia danej płatności lub danego wsparcia lub wykluczenia z płatności lub wsparcia, w tym wynikająca ze stwierdzonych nieprawidłowości lub niezgodności, lub nałożenia pozostałych kar administracyjnych, lub zastosowania art. 8 ust. 1, 3 i 4 rozporządzenia nr 1307/2013 lub art. 11 ust. 1 tego rozporządzenia – organ, który wydał decyzję w sprawie o przyznanie tej płatności lub tego wsparcia, zmienia ją bez zgody strony, jeżeli ta płatność lub to wsparcie nie zostały jeszcze wypłacone i nie upłynął termin ich wypłaty określony w art. 75 ust. 1 akapit pierwszy rozporządzenia nr 1306/2013.”.  
 
 **Art. 2.** W ustawie z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (Dz. U. z 2022 r. poz. 203) w art. 3 w pkt 9 wyrazy „płatność niezwiązaną do tytoniu w rozumieniu przepisów” zastępuje się wyrazami „przejściowe wsparcie krajowe, o którym mowa w przepisach”.
 

@@ -29,7 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2019 r. poz. 1882) w art. 4:
 
-- **1)** ust. 1 otrzymuje brzmienie: „1. Zbrodnie: 1) stanowiące według prawa międzynarodowego zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne, o których mowa w art. 1 pkt 1 lit. a, oraz 2) komunistyczne, w rozumieniu art. 2 ust. 1, niebędące zbrodniami wojennymi lub zbrodniami przeciwko ludzkości – nie ulegają przedawnieniu.”;
+- **1)** ust. 1 otrzymuje brzmienie:
+
+  > „1. Zbrodnie:  
+  > 1) stanowiące według prawa międzynarodowego zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne, o których mowa w art. 1 pkt 1 lit. a, oraz 2) komunistyczne, w rozumieniu art. 2 ust. 1, niebędące zbrodniami wojennymi lub zbrodniami przeciwko ludzkości – nie ulegają przedawnieniu.”;  
 - **2)** uchyla się ust. 1a;
 - **3)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Do zbrodni komunistycznych, o których mowa w ust. 1 pkt 2, przepisu art. 4 § 1 Kodeksu karnego nie stosuje się.”.
 

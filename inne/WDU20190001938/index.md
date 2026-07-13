@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie utworzenia Sądu Okręgowego w Rybniku Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r.
 poz. 52, 55, 60, 125, 1469 i 1495) zarządza się, co następuje:
-§ 1. Tworzy się – w obszarze właściwości Sądu Apelacyjnego w Katowicach – Sąd Okręgowy w Rybniku.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** Tworzy się – w obszarze właściwości Sądu Apelacyjnego w Katowicach – Sąd Okręgowy w Rybniku.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. Minister Sprawiedliwości: Z. Ziobro
 

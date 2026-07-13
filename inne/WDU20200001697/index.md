@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001697) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1697/text.pdf) |
 
 w sprawie upoważnienia dyrektora Ośrodka Rozwoju Polskiej Edukacji za Granicą do załatwiania indywidualnych spraw z zakresu awansu zawodowego nauczycieli szkół za granicą Na podstawie art. 9u ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2019 r. poz. 2215) zarządza się, co następuje:
-§ 1. Dyrektora Ośrodka Rozwoju Polskiej Edukacji za Granicą upoważnia się do załatwiania indywidualnych spraw z zakresu awansu zawodowego nauczycieli szkół za granicą, w tym do wydawania decyzji administracyjnych w sprawie nadania stopnia awansu zawodowego nauczycielowi szkoły za granicą spełniającemu warunki wymagane do uzyskania tego stopnia albo odmowy jego nadania.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-Minister Edukacji Narodowej: D. Piontkowski
+
+**§ 1.** Dyrektora Ośrodka Rozwoju Polskiej Edukacji za Granicą upoważnia się do załatwiania indywidualnych spraw z zakresu awansu zawodowego nauczycieli szkół za granicą, w tym do wydawania decyzji administracyjnych w sprawie nadania stopnia awansu zawodowego nauczycielowi szkoły za granicą spełniającemu warunki wymagane do uzyskania tego stopnia albo odmowy jego nadania.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. Minister Edukacji Narodowej: D. Piontkowski
 

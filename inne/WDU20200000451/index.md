@@ -26,14 +26,22 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/451/text.pdf) |
 
 w sprawie wykazów obszarów pasażerskiej żeglugi krajowej Na podstawie art. 86 ust. 10 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2019 1702, 2197 i 2303) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wykazy obszarów pasażerskiej żeglugi krajowej;
-2) strefy całorocznej eksploatacji statków w pasażerskiej żegludze krajowej.
-§ 2. Wykazy obszarów pasażerskiej żeglugi krajowej określa załącznik do rozporządzenia.
-§ 3. Strefy całorocznej eksploatacji statków w pasażerskiej żegludze krajowej stanowią polskie obszary
-§ 4. Traci moc rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 w sprawie wykazów obszarów pasażerskiej żeglugi krajowej (Dz. U. poz. 1044).
-§ 5. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: WYKAZY OBSZARÓW PASAŻERSKIEJ ŻEGLUGI KRAJOWEJ
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wykazy obszarów pasażerskiej żeglugi krajowej;
+- **2)** strefy całorocznej eksploatacji statków w pasażerskiej żegludze krajowej.
+
+**§ 2.** Wykazy obszarów pasażerskiej żeglugi krajowej określa załącznik do rozporządzenia.
+
+**§ 3.** Strefy całorocznej eksploatacji statków w pasażerskiej żegludze krajowej stanowią polskie obszary
+
+**§ 4.** Traci moc rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 6 w sprawie wykazów obszarów pasażerskiej żeglugi krajowej (Dz. U. poz. 1044).
+
+**§ 5.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: WYKAZY OBSZARÓW PASAŻERSKIEJ ŻEGLUGI KRAJOWEJ
+
+## Załącznik
+
 § 1. Wykazy obszarów pasażerskiej żeglugi krajowej zostały sporządzone w formie map przedstawionych na
 § 2. Zastosowane na mapach litery oznaczają odpowiednio:
 1) litera „A” – obszar morza poza obszarami B, C i D, na którym mogą być eksploatowane statki pasażerskie

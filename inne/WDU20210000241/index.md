@@ -30,14 +30,21 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 23 września 2019 r. zmieniającego rozporządzenie w sprawie sposobu wydawania i określenia wzoru poświadczenia potwierdzającego prawo do świadczeń opieki zdrowotnej (Dz. U. poz. 1896), które stanowią: „ § 2. Poświadczenia potwierdzające prawo do świadczeń opieki zdrowotnej na terytorium Rzeczypospolitej Polskiej wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność przez okres przysługiwania świadczeń opieki zdrowotnej na terytorium Rzeczypospolitej Polskiej wskazany w poświadczeniu lub do czasu ich unieważnienia. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: A. Niedzielski
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 15 grudnia 2004 r.
 w sprawie sposobu wydawania i określenia wzoru poświadczenia potwierdzającego prawo do świadczeń opieki zdrowotnej Na podstawie art. 52 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) sposób wydawania poświadczenia potwierdzającego prawo do świadczeń opieki zdrowotnej na terytorium Rzeczypospolitej Polskiej, zwanego dalej „poświadczeniem”;
-2) wzór poświadczenia.
-§ 2. 1. Poświadczenie, zaopatrzone w numer, wydaje właściwy ze względu na miejsce zamieszkania lub pobytu osoby uprawnionej do świadczeń opieki zdrowotnej oddział wojewódzki Narodowego Funduszu Zdrowia, na wniosek osoby uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie później niż w terminie 7 dni od dnia złożenia wniosku.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób wydawania poświadczenia potwierdzającego prawo do świadczeń opieki zdrowotnej na terytorium Rzeczypospolitej Polskiej, zwanego dalej „poświadczeniem”;
+- **2)** wzór poświadczenia.
+
+**§ 2.**
+
+1. Poświadczenie, zaopatrzone w numer, wydaje właściwy ze względu na miejsce zamieszkania lub pobytu osoby uprawnionej do świadczeń opieki zdrowotnej oddział wojewódzki Narodowego Funduszu Zdrowia, na wniosek osoby uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie później niż w terminie 7 dni od dnia złożenia wniosku.
+
 2. Przez złożenie wniosku, o którym mowa w ust. 1, rozumie się przedstawienie zaświadczenia o prawie do świadczeń opieki zdrowotnej przysługujących ubezpieczonemu, zgodnie z przepisami o koordynacji, wydanego przez instytucję właściwą w rozumieniu tych przepisów, oraz dowodu osobistego, paszportu lub innego dokumentu, na podstawie którego możliwe jest ustalenie danych osobowych osoby występującej o wydanie poświadczenia.
-§ 3. Wzór poświadczenia stanowi załącznik do rozporządzenia.
-§ 4. Poświadczenia wydane na podstawie poprzednio obowiązujących przepisów zachowują ważność przez okres przysługiwania świadczeń opieki zdrowotnej na terytorium Rzeczypospolitej Polskiej, wskazany w poświadczeniu.
-§ 5. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2005 r.
-WZÓR POŚWIADCZENIA POTWIERDZAJĄCEGO PRAWO DO ŚWIADCZEŃ OPIEKI ZDROWOTNEJ NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ Narodowy Fundusz Zdrowia
-Oddział Wojewódzki w .................................................
+
+**§ 3.** Wzór poświadczenia stanowi załącznik do rozporządzenia.
+
+**§ 4.** Poświadczenia wydane na podstawie poprzednio obowiązujących przepisów zachowują ważność przez okres przysługiwania świadczeń opieki zdrowotnej na terytorium Rzeczypospolitej Polskiej, wskazany w poświadczeniu.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2005 r. WZÓR POŚWIADCZENIA POTWIERDZAJĄCEGO PRAWO DO ŚWIADCZEŃ OPIEKI ZDROWOTNEJ NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ Narodowy Fundusz Zdrowia Oddział Wojewódzki w .................................................
 

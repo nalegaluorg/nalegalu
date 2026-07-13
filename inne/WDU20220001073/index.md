@@ -27,12 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r.
 poz. 577) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U.
-z 2021 r. poz. 2288 i 2295) wprowadza się następujące zmiany:
-1) w załączniku nr 1 do rozporządzenia w części „Sądy powszechne i wojskowe” w tabeli po wierszu „administrator systemu informatycznego administrator systemu teleinformatycznego inspektor bezpieczeństwa teleinformatycznego informatyk” dodaje się wiersz w brzmieniu: menedżer usługi wykształcenie wyższe: studia pierwszego stopnia lub studia drugiego stopnia, lub jednolite studia magisterskie, na kierunku związanym z kształceniem w zakresie informatyki, ekonomii, zarządzania lub studia prawnicze
-2) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
-3) w załączniku nr 4 do rozporządzenia w części „Sądy powszechne i wojskowe” w tabeli po wierszu „– informatyk” dodaje się wiersz w brzmieniu: – menedżer usługi do 2000
-§ 2. Kwoty wynagrodzenia zasadniczego określone w załączniku nr 3 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury od dnia 1 stycznia 2022 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro TABELA WYNAGRODZENIA ZASADNICZEGO PRZYSŁUGUJĄCEGO URZĘDNIKOM I INNYM PRACOWNIKOM SĄDÓW I PROKURATURY Stanowiska Kwota w zł Stanowiska samodzielne 3410–14 500 Stanowiska wspomagające 3010–9000 Stażysta 3010–4800 Stanowiska pomocnicze, obsługi technicznej i gospodarczej 3010–6000
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. z 2021 r. poz. 2288 i 2295) wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 1 do rozporządzenia w części „Sądy powszechne i wojskowe” w tabeli po wierszu „administrator systemu informatycznego administrator systemu teleinformatycznego inspektor bezpieczeństwa teleinformatycznego informatyk” dodaje się wiersz w brzmieniu: menedżer usługi wykształcenie wyższe: studia pierwszego stopnia lub studia drugiego stopnia, lub jednolite studia magisterskie, na kierunku związanym z kształceniem w zakresie informatyki, ekonomii, zarządzania lub studia prawnicze
+- **2)** załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
+- **3)** w załączniku nr 4 do rozporządzenia w części „Sądy powszechne i wojskowe” w tabeli po wierszu „– informatyk” dodaje się wiersz w brzmieniu: – menedżer usługi do 2000
+
+**§ 2.** Kwoty wynagrodzenia zasadniczego określone w załączniku nr 3 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury od dnia 1 stycznia 2022 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro TABELA WYNAGRODZENIA ZASADNICZEGO PRZYSŁUGUJĄCEGO URZĘDNIKOM I INNYM PRACOWNIKOM SĄDÓW I PROKURATURY Stanowiska Kwota w zł Stanowiska samodzielne 3410–14 500 Stanowiska wspomagające 3010–9000 Stażysta 3010–4800 Stanowiska pomocnicze, obsługi technicznej i gospodarczej 3010–6000
 

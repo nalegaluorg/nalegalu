@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2169/text.pdf) |
 
 zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Dolina Skrwy Lewej (PLH140051) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 14 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Dolina Skrwy Lewej (PLH140051) (Dz. U. poz. 2050) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa SIEDLISKA PRZYRODNICZE BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK DOLINA SKRWY LEWEJ (PLH140051) Lp. Kod Nazwa 1 9170 Grąd środkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum) 2 91E0 Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 14 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Dolina Skrwy Lewej (PLH140051) (Dz. U. poz. 2050) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa SIEDLISKA PRZYRODNICZE BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK DOLINA SKRWY LEWEJ (PLH140051) Lp. Kod Nazwa 1 9170 Grąd środkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum) 2 91E0 Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe
 

@@ -1184,6 +1184,603 @@ o ubezpieczeniu społecznym rolników
 
 **Art. 59.**
 
-1. Prezesa Kasy powołuje Prezes Rady Ministrów, na wniosek ministra właściwego do spraw rozwoju wsi.
+1. Prezesa Kasy powołuje Prezes Rady Ministrów, na wniosek ministra właściwego do spraw rozwoju wsi. Prezes Rady Ministrów odwołuje Prezesa Kasy.
+
+2. Prezes Kasy może mieć jednego zastępcę albo zastępców. Zastępcę Prezesa Kasy powołuje minister właściwy do spraw rozwoju wsi na wniosek Prezesa Kasy. Minister właściwy do spraw rozwoju wsi odwołuje zastępcę Prezesa Kasy.
+
+3. Prezes kieruje Kasą oraz wykonuje zadania przewidziane w ustawie i zadania wynikające z odrębnych przepisów.
+
+4. Stanowisko Prezesa Kasy i zastępcy Prezesa Kasy może zajmować osoba, która:
+
+- **1)** posiada tytuł zawodowy magistra lub równorzędny;
+- **2)** jest obywatelem polskim;
+- **3)** korzysta z pełni praw publicznych;
+- **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **5)** posiada kompetencje kierownicze;
+- **6)** posiada co najmniej 6-letni staż pracy, w tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
+- **7)** posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości Prezesa Kasy.
+
+5. (uchylony)
+
+6. (uchylony)
+
+7. (uchylony)
+
+8. (uchylony)
+
+9. (uchylony)
+
+10. (uchylony)
+
+11. (uchylony)
+
+12. (uchylony)
+
+13. (uchylony)
+
+14. (uchylony)
+
+15. (uchylony)
+
+16. Prezes Kasy współpracuje z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych.
+
+**Art. 59a.**
+
+1. Nabór kandydatów do zatrudnienia na wolne stanowiska pracy w Kasie, z wyłączeniem stanowisk pracy, o których mowa w art. 59 ust. 4 i art. 60 ust. 1, jest otwarty i konkurencyjny.
+
+2. Ogłoszenie o naborze zamieszcza się w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej, oraz w miejscu powszechnie dostępnym w jednostce organizacyjnej, w której jest prowadzony nabór.
+
+**Art. 59b.** Informacje o kandydatach, którzy zgłosili się do naboru, stanowią informację publiczną w zakresie objętym wymaganiami określonymi w ogłoszeniu o naborze.
+
+**Art. 59c.** Termin do składania dokumentów, określony w ogłoszeniu o naborze, nie może być krótszy niż 14 dni od dnia opublikowania tego ogłoszenia w Biuletynie Informacji Publicznej.
+
+**Art. 59d.**
+
+1. Po upływie terminu do składania dokumentów określonego w ogłoszeniu o naborze niezwłocznie upowszechnia się listę kandydatów, którzy spełniają wymagania formalne określone w ogłoszeniu o naborze, przez umieszczenie jej w miejscu powszechnie dostępnym w jednostce organizacyjnej, w której jest prowadzony nabór, a także przez opublikowanie jej w Biuletynie Informacji Publicznej.
+
+2. Lista, o której mowa w ust. 1, zawiera imię i nazwisko kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów Kodeksu cywilnego.
+
+**Art. 59e.**
+
+1. Sporządza się protokół przeprowadzonego naboru kandydatów do zatrudnienia na wolne stanowiska pracy w Kasie.
+
+2. Protokół zawiera w szczególności:
+
+- **1)** określenie stanowiska pracy, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i adresy nie więcej niż 5 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
+- **2)** informację o zastosowanych metodach i technikach naboru;
+- **3)** uzasadnienie dokonanego wyboru.
+
+**Art. 59f.**
+
+1. Informację o wyniku naboru upowszechnia się w terminie 14 dni od dnia zatrudnienia wybranego kandydata albo zakończenia naboru, w przypadku gdy w jego wyniku nie doszło do zatrudnienia żadnego kandydata.
+
+2. Informacja, o której mowa w ust. 1, zawiera:
+
+- **1)** nazwę i adres urzędu;
+- **2)** określenie stanowiska pracy;
+- **3)** imię i nazwisko wybranego kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów Kodeksu cywilnego;
+- **4)** uzasadnienie dokonanego wyboru kandydata albo uzasadnienie niezatrudnienia żadnego kandydata.
+
+3. Informację o wyniku naboru upowszechnia się w Biuletynie Informacji Publicznej i w miejscu powszechnie dostępnym w jednostce organizacyjnej, w której był prowadzony nabór.
+
+**Art. 59g.** Jeżeli stosunek pracy osoby wyłonionej w drodze naboru ustał w ciągu 3 miesięcy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowisku kolejną osobę spośród najlepszych kandydatów wymienionych w protokole tego naboru. Przepisy art. 59f stosuje się odpowiednio.
+
+**Art. 60.**
+
+1. Prezes Kasy powołuje i odwołuje kierowników komórek organizacyjnych i ich zastępców w centrali, oddziałach regionalnych i placówkach terenowych oraz dyrektorów oddziałów regionalnych i ich zastępców, kierowników placówek terenowych i ich zastępców, a pozostałych pracowników zatrudnia na podstawie umowy o pracę, chyba że odrębne przepisy wymagają zatrudnienia na podstawie powołania.
+
+2. Przy wykonywaniu czynności służbowych pracownicy Kasy korzystają z ochrony prawnej przysługującej funkcjonariuszom państwowym.
+
+3. Do pracowników Kasy stosuje się przepisy o pracownikach urzędów państwowych, z wyjątkiem przepisów dotyczących praw i obowiązków urzędników państwowych mianowanych.
+
+4. Powołanie na stanowiska, o których mowa w ust. 1 oraz art. 59 ust. 4, jest równoznaczne z nawiązaniem stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i 1423).
+
+**Art. 61.**
+
+1. W ramach Kasy wyodrębnia się:
+
+- **1)** centralę;
+- **2)** oddziały regionalne;
+- **3)** placówki terenowe;
+- **4)** inne jednostki organizacyjne.
+
+2. Minister właściwy do spraw rozwoju wsi, w drodze zarządzenia, po zasięgnięciu opinii Rady Rolników, nadaje Kasie statut, określając w nim wewnętrzną organizację Kasy.
+
+**Art. 62.**
+
+1. Kasa prowadzi działalność w zakresie:
+
+- **1)** obsługi ubezpieczonych i świadczeniobiorców w sprawach dotyczących objęcia ubezpieczeniem, składek na ubezpieczenie oraz przyznawania i wypłaty świadczeń z ubezpieczenia;
+- **2)** zadań określonych w art. 63–66;
+- **3)** obsługi prac Rady Rolników;
+- **4)** informowania ubezpieczonych i świadczeniobiorców o prawach i obowiązkach wynikających z ustawy oraz propagowania działalności Kasy.
+
+2. W realizacji ubezpieczenia Kasa współdziała z Zakładem. W szczególności Kasa może zlecać Zakładowi dokonywanie określonych czynności, zapewniając odpowiednią refundację kosztów. Zasady i tryb współdziałania określają porozumienia Prezesa Kasy i Prezesa Zakładu.
+
+**Art. 62a.**
+
+1. Prezes Kasy wydaje interpretacje indywidualne, o których mowa w art. 34 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, w zakresie obowiązku podlegania ubezpieczeniu oraz wysokości składek w stosunku do podmiotów, o których mowa w art. 5a ust. 1, w sprawach związanych z prowadzeniem przez te podmioty pozarolniczej działalności gospodarczej. Interpretacje indywidualne wraz z wnioskiem o wydanie interpretacji, po usunięciu danych identyfikujących wnioskodawcę oraz inne podmioty wskazane w treści interpretacji, Kasa niezwłocznie zamieszcza w Biuletynie Informacji Publicznej.
+
+2. Nie wydaje się interpretacji indywidualnych w zakresie tych elementów stanu faktycznego, które w dniu złożenia wniosku o interpretację są przedmiotem toczącego się postępowania wyjaśniającego albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji Prezesa Kasy.
+
+**Art. 63.**
+
+1. Kasa prowadzi działalność na rzecz zapobiegania wypadkom przy pracy rolniczej i rolniczym chorobom zawodowym, obejmującą w szczególności:
+
+- **1)** analizowanie przyczyn tych wypadków i chorób;
+- **2)** prowadzenie dobrowolnych nieodpłatnych szkoleń i instruktażu dla ubezpieczonych w zakresie zasad ochrony życia i zdrowia w gospodarstwie rolnym oraz postępowania w razie wypadku przy pracy rolniczej;
+- **3)** upowszechnianie wśród ubezpieczonych wiedzy o zagrożeniach wypadkami przy pracy rolniczej i rolniczymi chorobami zawodowymi, a także znajomości zasad ochrony życia i zdrowia w gospodarstwie rolnym oraz zasad postępowania w razie wypadku;
+- **4)** podejmowanie starań o właściwą produkcję i dystrybucję bezpiecznych środków stosowanych w rolnictwie oraz sprzętu i odzieży ochronnej dla rolników.
+
+2. Prezes Kasy w porozumieniu z Radą Rolników, ministrem właściwym do spraw zabezpieczenia społecznego, ministrem właściwym do spraw rozwoju wsi oraz ministrem właściwym do spraw zdrowia określa zasady ochrony zdrowia i życia w gospodarstwie rolnym. Zasady te są zaleceniami dotyczącymi wyposażenia gospodarstwa, zabezpieczenia osób pracujących oraz sposobu wykonywania czynności związanych z działalnością rolniczą, ustanowionymi w celu zapobiegania wypadkom przy pracy rolniczej i rolniczym chorobom zawodowym.
+
+**Art. 64.**
+
+1. Kasa podejmuje działania na rzecz osób wykazujących całkowitą niezdolność do pracy w gospodarstwie rolnym, ale rokujących jej odzyskanie w wyniku leczenia i rehabilitacji leczniczej, albo zagrożonych całkowitą niezdolnością do pracy w gospodarstwie rolnym, które:
+
+- **1)** podlegają ubezpieczeniu społecznemu rolników z mocy ustawy w pełnym zakresie albo
+- **2)** podlegają ubezpieczeniu wypadkowemu, chorobowemu i macierzyńskiemu na wniosek w pełnym zakresie nieprzerwanie co najmniej przez 18 miesięcy przed złożeniem wniosku o rehabilitację leczniczą, z tym że okres ten nie jest wymagany w przypadku ubezpieczonego zagrożonego całkowitą niezdolnością do pracy w gospodarstwie rolnym wskutek wypadku przy pracy rolniczej, albo
+- **3)** posiadają ustalone prawo do okresowej renty rolniczej z tytułu niezdolności do pracy i zachowały zdolność do samodzielnej egzystencji.
+
+2. Działania, o których mowa w ust. 1, obejmują w szczególności:
+
+- **1)** kierowanie na rehabilitację leczniczą do zakładów rehabilitacyjnych;
+- **2)** prowadzenie zakładów rehabilitacji leczniczej;
+- **3)** wspieranie rozwoju rehabilitacji ambulatoryjnej na obszarach wiejskich;
+- **4)** prowadzenie, we własnym zakresie, badań i analiz przyczyn niezdolności do pracy;
+- **5)** odpłatne zlecanie badań naukowych i ekspertyz dotyczących przyczyn niezdolności do pracy w gospodarstwie rolnym oraz metod jej przeciwdziałania;
+- **6)** promocję zdrowia;
+- **7)** działania dotyczące profilaktyki zdrowotnej w środowisku wiejskim.
+
+3. Na rehabilitację leczniczą kieruje się:
+
+- **1)** osobę uznaną okresowo za całkowicie niezdolną do pracy w gospodarstwie rolnym, która rokuje odzyskanie zdolności do pracy w gospodarstwie rolnym w wyniku leczenia i rehabilitacji;
+- **2)** osobę zagrożoną całkowitą niezdolnością do pracy w gospodarstwie rolnym;
+- **3)** dzieci osób, które:
+    - **a)** spełniają warunki określone w ust. 1 pkt 1 albo 2 lub
+    - **b)** mają ustalone prawo do renty, o której mowa w art. 18, jeżeli osoby te nieprzerwanie co najmniej 12 miesięcy przed złożeniem wniosku o rehabilitację leczniczą dla dziecka podlegają: – ubezpieczeniu wypadkowemu, chorobowemu i macierzyńskiemu lub – ubezpieczeniu emerytalno-rentowemu;
+
+- **4)** osoby uprawnione do renty rodzinnej, o których mowa w art. 29 ust. 2 pkt 1 i 2.
+
+4. Jeżeli na rehabilitację leczniczą jest kierowane dziecko wymagające opieki ze względu na wiek lub stan zdrowia, pobyt w zakładzie rehabilitacji leczniczej zapewnia się również opiekunowi prawnemu tego dziecka.
+
+5. Kasa może kierować również:
+
+- **1)** osoby uprawnione do emerytury rolniczej na rehabilitację leczniczą.
+- **2)** (uchylony)
+
+6. Podstawę skierowania na rehabilitację leczniczą lub turnusy regeneracyjne stanowią:
+
+- **1)** prawomocne orzeczenie lekarza rzeczoznawcy Kasy lub orzeczenie komisji lekarskiej Kasy, wydane w postępowaniu orzeczniczym dla ustalenia prawa do świadczenia z ubezpieczenia społecznego rolników, zawierające wskazania do rehabilitacji leczniczej, albo
+- **2)** wniosek sporządzony przez lekarza prowadzącego leczenie – pozytywnie zaopiniowane przez lekarza regionalnego inspektora orzecznictwa lekarskiego Kasy, o którym mowa w przepisach wydanych na podstawie art. 46 ust. 4.
+
+7. Pierwszeństwo w skierowaniu na rehabilitację leczniczą ma osoba, dla której potrzeba rehabilitacji jest uzasadniona następstwem wypadku przy pracy rolniczej.
+
+8. Osobie skierowanej na rehabilitację leczniczą przysługuje zwrot kosztów przejazdu z miejsca zamieszkania do zakładu rehabilitacji leczniczej.
+
+9. Zwrot kosztów, o którym mowa w ust. 8, nie przysługuje osobie uprawnionej do emerytury rolniczej.
+
+10. Po zakończeniu rehabilitacji leczniczej lub turnusu regeneracyjnego ta sama osoba może być ponownie skierowana na rehabilitację leczniczą lub turnus regeneracyjny.
+
+11. Konkurs ofert na świadczenia i usługi rehabilitacyjne oraz turnusy regeneracyjne z podmiotami niebędącymi jednostkami organizacyjnymi Kasy przeprowadza komisja konkursowa powołana przez Prezesa Kasy.
+
+12. Minister właściwy do spraw rozwoju wsi określi, w drodze rozporządzenia, warunki i tryb kierowania na rehabilitację leczniczą i turnusy regeneracyjne oraz warunki i tryb przeprowadzania konkursu ofert oraz zawierania umów o świadczenia i usługi rehabilitacyjne oraz turnusy regeneracyjne z podmiotami niebędącymi jednostkami organizacyjnymi Kasy, w tym:
+
+- **1)** warunki i tryb kwalifikacji wniosku o rehabilitację leczniczą albo turnus regeneracyjny oraz wzór tego wniosku,
+- **2)** przypadki i terminy ponownego kierowania na rehabilitację leczniczą albo turnus regeneracyjny,
+- **3)** okresy trwania rehabilitacji leczniczej i turnusów regeneracyjnych,
+- **4)** sposób i warunki zwrotu kosztów przejazdu – mając na uwadze potrzeby osób kierowanych na rehabilitację leczniczą i turnusy regeneracyjne, w tym możliwość poprawy stanu zdrowia, kondycji psychofizycznej i jakości życia tych osób, a także kierując się koniecznością zapewnienia równego traktowania podmiotów leczniczych oraz przejrzystości i sprawności postępowania podczas przeprowadzania konkursu ofert.
+
+**Art. 65.** Kasa udziela rolnikom informacji o umowach, jakie mogą być zawierane w związku z zamiarem zaprzestania prowadzenia działalności rolniczej.
+
+**Art. 66.**
+
+1. Kasa może inicjować i wspierać rozwój ubezpieczeń dla rolników i członków ich rodzin, prowadzonych przez towarzystwa ubezpieczeń wzajemnych stosownie do przepisów o działalności ubezpieczeniowej. W szczególności Kasa może udzielać pomocy w powstawaniu i działalności takich towarzystw.
+
+2. Zakres i zasady udzielania pomocy przewidzianej w ust. 1 oraz limity wydatków Kasy na ten cel określa Prezes Kasy w porozumieniu z Radą Rolników lub na jej wniosek.
+
+**Art. 67.**
+
+1. Radę Rolników w liczbie 25 członków powołuje minister właściwy do spraw rozwoju wsi spośród kandydatów zgłoszonych przez społeczno-zawodowe organizacje rolników i związki zawodowe rolników indywidualnych o ogólnokrajowym zakresie działania oraz Krajową Radę Izb Rolniczych. W chwili rozpoczęcia kadencji co najmniej 15 członków powinno podlegać ubezpieczeniu w pełnym zakresie, a co najmniej 5 członków powinno pobierać emeryturę lub rentę z ubezpieczenia.
+
+2. W posiedzeniach Rady Rolników uczestniczą z głosem doradczym minister właściwy do spraw zabezpieczenia społecznego, minister właściwy do spraw rozwoju wsi, minister właściwy do spraw finansów publicznych i Prezes Kasy lub ich przedstawiciele.
+
+3. Kadencja Rady Rolników trwa 3 lata.
+
+4. Minister właściwy do spraw rozwoju wsi przed upływem kadencji Rady Rolników:
+
+- **1)** odwołuje członka, jeżeli złożył on rezygnację;
+- **2)** może odwołać członka:
+    - **a)** po zasięgnięciu opinii Rady Rolników, jeżeli bez usprawiedliwionych przyczyn nie bierze on udziału w pracach Rady Rolników, w okresie czterech kolejnych posiedzeń plenarnych lub jeżeli zachodzą istotne przeszkody w jego dalszym udziale w pracach Rady Rolników lub
+    - **b)** jeżeli o odwołanie wystąpiła organizacja zgłaszająca.
+
+5. Uzupełnienia składu Rady Rolników w toku kadencji dokonuje się w trybie przewidzianym dla powołania.
+
+**Art. 68.**
+
+1. Strukturę organizacyjną i tryb prac Rady Rolników określa uchwalany przez nią regulamin.
+
+2. Posiedzenie Rady Rolników zwołuje Przewodniczący Rady z własnej inicjatywy, na wniosek Prezesa Kasy lub co najmniej 10 członków Rady bądź ministra właściwego do spraw rozwoju wsi.
+
+3. (uchylony)
+
+4. Rada Rolników podejmuje uchwały bezwzględną większością głosów przy obecności co najmniej połowy członków Rady Rolników, z tym że w sprawach określonych w art. 11 ust. 2, art. 13 ust. 4 i art. 14 ust. 8 jest wymagana większość dwóch trzecich głosów. Regulamin Rady Rolników może przewidywać podejmowanie uchwał kwalifikowaną większością głosów także w innych sprawach.
+
+5. Członkowi Rady Rolników w związku z udziałem w pracach Rady Rolników przysługuje ryczałtowe wynagrodzenie.
+
+5a. Minister właściwy do spraw rozwoju wsi określi w drodze rozporządzenia:
+
+- **1)** tryb zgłaszania kandydatów na członków Rady Rolników;
+- **2)** regulamin i zasady wynagradzania członków Rady Rolników, uwzględniając funkcję pełnioną w Radzie Rolników i wydatki ponoszone w związku z udziałem w pracach Rady.
+
+6. Prezes Kasy zapewnia obsługę prac Rady Rolników.
+
+**Art. 69.**
+
+1. Rada Rolników ma prawo kontrolować i oceniać działalność Kasy. W tym celu Rada może żądać od Prezesa Kasy informacji i wyjaśnień oraz udostępnienia dokumentów.
+
+2. Prezes Kasy jest obowiązany ustosunkować się do wniosków pokontrolnych oraz innych postulatów Rady Rolników dotyczących działalności Kasy w terminie 14 dni.
+
+**Art. 70.** W sprawach, o których mowa w art. 8 ust. 5, art. 11 ust. 2, art. 13 ust. 4, art. 14 ust. 8 i art. 82 ust. 2, Rada Rolników przedstawia swój wniosek, stanowisko lub opinię wraz z uzasadnieniem obejmującym w szczególności ocenę skutków finansowych projektowanej regulacji.
+
+**Art. 71.** Rada Rolników opiniuje projekty:
+
+- **1)** aktów prawnych regulujących ubezpieczenie, w szczególności aktów wykonawczych do ustawy, oraz aktów prawnych mających bezpośredni wpływ na funkcjonowanie ubezpieczenia;
+- **2)** programów działania i planów finansowych Kasy.
+
+**Art. 72.** (uchylony)
+
+**Art. 73.** Rada Rolników może występować do organów administracji państwowej, instytucji państwowych i organów jednostek samorządu terytorialnego o podjęcie określonych inicjatyw lub działań w sprawach związanych z ubezpieczeniem. Adresat wystąpienia jest obowiązany udzielić Radzie odpowiedzi w terminie jednego miesiąca.
+
+**Art. 74.**
+
+1. Prezes Kasy, w terminie do dnia 31 marca każdego roku, przedstawia Radzie Rolników sprawozdanie z działalności Kasy i funduszu składkowego w poprzednim roku.
+
+1a. Rada Rolników rozpatruje sprawozdanie, o którym mowa w ust. 1, i uchwala opinię wraz z ewentualnymi wnioskami, w terminie do dnia 30 kwietnia.
+
+2. W sprawozdaniu, o którym mowa w ust. 1, zamieszcza się także informację o kierunkach działalności Rady Rolników oraz podjętych przez nią uchwałach i ich realizacji.
+
+3. Prezes Kasy przedstawia sprawozdanie, wraz z opinią Rady Rolników, ministrom wymienionym w art. 67 ust. 2.
+
+#### Rozdział 6 Gospodarka finansowa
+
+**Art. 75.** Kasa prowadzi samodzielną gospodarkę finansową.
+
+**Art. 76.**
+
+1. Tworzy się Fundusz Składkowy Ubezpieczenia Społecznego Rolników, zwany dalej „funduszem składkowym”. Fundusz ten jest osobą prawną; funkcje zarządu pełni z urzędu Prezes Kasy pod nadzorem Rady Rolników.
+
+2. Podstawy finansowe ubezpieczenia i działalności Kasy stanowią także fundusze emerytalno-rentowy, administracyjny oraz prewencji i rehabilitacji, którymi dysponuje Prezes Kasy.
+
+2a. Fundusze, o których mowa w ust. 2, są państwowymi funduszami celowymi.
+
+3. Państwo gwarantuje wypłatę świadczeń finansowanych z funduszu emerytalno-rentowego.
+
+**Art. 76a.**
+
+1. Nadzór nad funduszem składkowym pełni Rada Nadzorcza Funduszu Składkowego.
+
+2. W skład Rady Nadzorczej Funduszu Składkowego wchodzi 5 przedstawicieli Rady Rolników i 2 przedstawicieli wyznaczonych przez ministra właściwego do spraw rozwoju wsi oraz po 1 przedstawicielu wyznaczonym przez ministra właściwego do spraw finansów publicznych i ministra właściwego do spraw zabezpieczenia społecznego.
+
+3. Minister właściwy do spraw rozwoju wsi, po zasięgnięciu opinii Rady Rolników, nadaje, w drodze zarządzenia, statut funduszowi składkowemu.
+
+**Art. 76b.**
+
+1. Fundusz składkowy działa na podstawie planu finansowego.
+
+2. Projekt planu finansowego opracowuje Prezes Kasy w terminie do dnia 15 czerwca roku poprzedzającego rok, którego dotyczy ten plan.
+
+3. Minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw finansów publicznych zatwierdza projekt planu finansowego funduszu składkowego w terminie do dnia 31 lipca roku poprzedzającego rok, którego dotyczy ten plan.
+
+**Art. 77.**
+
+1. Fundusz składkowy jest przeznaczony na finansowanie:
+
+- **1)** świadczeń z ubezpieczenia wypadkowego, chorobowego i macierzyńskiego;
+- **2)** bezpośrednich kosztów funkcjonowania Rady Rolników;
+- **3)** kosztów zarządzania funduszem i wykonywania jego zobowiązań jako osoby prawnej;
+- **4)** działalności Kasy, o której mowa w art. 66;
+- **5)** niedoboru funduszu administracyjnego, o którym mowa w art. 79 ust. 3, oraz funduszu prewencji i rehabilitacji, o którym mowa w art. 80 ust. 3;
+- **6)** wydatków i kosztów związanych z realizacją zadań wynikających z przepisów o szczególnych rozwiązaniach służących realizacji ustawy budżetowej.
+
+2. Fundusz składkowy tworzy się ze składek na ubezpieczenie wypadkowe, chorobowe i macierzyńskie oraz z innych źródeł określonych w statucie funduszu składkowego, zapewniając pełne pokrycie wydatków funduszu składkowego, oraz odpisów, o których mowa w art. 78 ust. 2 pkt 2a, art. 79 ust. 2 i art. 80 ust. 2 pkt 1.
+
+3. Wydatki na działalność przewidzianą w art. 66 nie powinny przekroczyć 1 % planowanych wydatków funduszu w danym roku.
+
+4. W razie powstania niedoboru funduszu składkowego, może być zaciągnięty kredyt bankowy w wysokości niezbędnej do pokrycia niedoboru. Spłatę kredytu uwzględnia się przy ustalaniu wysokości składki na ubezpieczenie wypadkowe, chorobowe i macierzyńskie w okresie jego spłaty.
+
+**Art. 77a.**
+
+1. Ze środków funduszu składkowego mogą być wspierane działania ze sfery zadań publicznych, wymienionych w art. 4 ust. 1 pkt 6, 10, 15 i 23 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338), oraz działania na rzecz:
+
+- **1)** zapobiegania wypadkom i nieszczęśliwym zdarzeniom w gospodarstwach rolnych,
+- **2)** rehabilitacji leczniczej,
+- **3)** pomocy w zakresie likwidacji szkód zaistniałych w gospodarstwach rolnych w wyniku klęsk żywiołowych i innych sytuacji kryzysowych – na rzecz ubezpieczonych i świadczeniobiorców oraz członków ich rodzin, o których mowa w art. 29 ust. 2.
+
+2. Do ubiegania się o wsparcie z funduszu składkowego na realizację działań wymienionych w ust. 1 są uprawnione:
+
+- **1)** organizacje pożytku publicznego, które zgodnie ze statutem lub innym dokumentem stanowiącym podstawę ich działania prowadzą działalność na rzecz rolników i członków ich rodzin;
+- **2)** organizacje społeczne i zawodowe, które zgodnie ze statutem lub innym dokumentem stanowiącym podstawę ich działania prowadzą działalność na rzecz rolników i członków ich rodzin;
+- **3)** związki zawodowe rolników indywidualnych;
+- **4)** izby rolnicze.
+
+3. Wsparcie, o którym mowa w ust. 1, jest udzielane po przeprowadzeniu otwartego konkursu ofert. Do udzielenia tego wsparcia stosuje się odpowiednio przepisy art. 13 ust. 2 i 3, art. 14, art. 15 ust. 1–2a, 2f–2j i 4, art. 16 ust. 1, 2 i 6 oraz art. 17–18a ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+
+4. Wsparcie, o którym mowa w ust. 1 pkt 3, może być udzielone z pominięciem otwartego konkursu ofert. Do udzielenia tego wsparcia stosuje się odpowiednio przepisy art. 43 i art. 47 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483) oraz art. 14, art. 15 ust. 1, art. 16 ust. 1, 2 i 6 oraz art. 17 i art. 18 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+
+5. Ze środków funduszu składkowego mogą być współfinansowane programy zdrowotne i programy polityki zdrowotnej, polegające na profilaktyce chorób, w tym chorób zawodowych w rolnictwie, dla ubezpieczonych i świadczeniobiorców oraz członków ich rodzin, o których mowa w art. 29 ust. 2.
+
+6. Fundusz składkowy może finansować ubezpieczenia od nieszczęśliwych wypadków na rzecz ubezpieczonych i świadczeniobiorców oraz członków ich rodzin, o których mowa w art. 29 ust. 2. W tym celu fundusz składkowy może zawierać umowy ubezpieczeniowe z zakładami ubezpieczeń, działającymi na podstawie ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2025 r. poz. 1526).
+
+7. Wsparcie, o którym mowa w ust. 1, 5 i 6, nie stanowi dotacji w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+8. Podejmowanie zobowiązań w celu realizacji wydatków, o których mowa w ust. 1, 5 i 6, nie jest dopuszczalne w okresie spłaty kredytu, o którym mowa w art. 77 ust. 4, i może nastąpić wyłącznie, jeżeli w danym roku są zagwarantowane środki na funduszu składkowym na finansowanie wydatków, o których mowa w art. 77 ust. 1 i 2.
+
+**Art. 78.**
+
+1. Fundusz emerytalno-rentowy jest przeznaczony na finansowanie:
+
+- **1)** świadczeń z ubezpieczenia emerytalno-rentowego;
+- **2)** emerytur i rent z innego ubezpieczenia społecznego, wypłacanych łącznie ze świadczeniami z ubezpieczenia emerytalno-rentowego, wraz z dodatkami;
+- **3)** (uchylony)
+- **4)** refundacji określonych kosztów Funduszowi Ubezpieczeń Społecznych, jeżeli przepisy emerytalne przewidują taką refundację;
+- **5)** ubezpieczeń zdrowotnych:
+    - **a)** rolników i pracujących z nimi domowników podlegających ubezpieczeniu społecznemu,
+    - **b)** osób pobierających świadczenia emerytalno-rentowe w części składkowej,
+    - **c)** rolników, którzy nie podlegają ubezpieczeniu społecznemu, a podlegają ubezpieczeniu zdrowotnemu.
+
+2. Fundusz emerytalno-rentowy tworzy się:
+
+- **1)** ze składek na ubezpieczenie emerytalno-rentowe;
+- **2)** z refundacji ze środków Funduszu Ubezpieczeń Społecznych na pokrycie:
+    - **a)** wydatków na świadczenia z innego ubezpieczenia społecznego, o których mowa w ust. 1 pkt 2,
+    - **b)** wydatków wynikających z art. 25 ust. 2a pkt 1 w związku z art. 25 ust. 4;
+
+- **2a)** z odpisu od funduszu składkowego w wysokości 40 % kosztów świadczeń, o których mowa w art. 18 pkt 7;
+- **3)** z uzupełniającej dotacji z budżetu państwa;
+- **4)** z dotacji z budżetu państwa przeznaczonej na składki na ubezpieczenie zdrowotne osób, o których mowa w ust. 1 pkt 5;
+- **5)** z dotacji z budżetu państwa przeznaczonej na składki na ubezpieczenie emerytalno-rentowe osób, o których mowa w art. 16a–16c.
+
+**Art. 79.**
+
+1. Fundusz administracyjny jest przeznaczony na finansowanie kosztów obsługi ubezpieczenia, z wyjątkiem kosztów pokrywanych ze środków funduszu składkowego lub funduszu prewencji i rehabilitacji. Ponadto ze środków funduszu administracyjnego finansowane są koszty obsługi zadań w zakresie ubezpieczenia zdrowotnego.
+
+2. Fundusz administracyjny tworzy się z:
+
+- **1)** odpisów od funduszu składkowego i od funduszu emerytalno-rentowego, w wysokości do 12 % planowanych wydatków funduszu składkowego i do 3,5 % planowanych wydatków funduszu emerytalno-rentowego;
+- **2)** refundacji przez właściwe instytucje kosztów związanych z realizacją ubezpieczenia zdrowotnego oraz realizacją innych zadań powierzonych Prezesowi Kasy na podstawie odrębnych przepisów;
+- **3)** odsetek uzyskanych z lokowania wolnych środków funduszu administracyjnego.
+
+3. W razie powstania niedoboru funduszu administracyjnego, niedobór ten pokrywa się ze środków funduszu składkowego.
+
+**Art. 80.**
+
+1. Fundusz prewencji i rehabilitacji jest przeznaczony na finansowanie kosztów rzeczowych wynikających z realizacji zadań Kasy, o których mowa w art. 63 i 64.
+
+2. Fundusz prewencji i rehabilitacji tworzy się z:
+
+- **1)** odpisu od funduszu składkowego, w wysokości do 6,5 % planowanych wydatków z tego funduszu;
+- **2)** dotacji z budżetu państwa;
+- **3)** odsetek uzyskanych z lokowania wolnych środków funduszu prewencji i rehabilitacji.
+
+3. W razie powstania niedoboru funduszu prewencji i rehabilitacji, niedobór ten pokrywa się ze środków funduszu składkowego.
+
+**Art. 81.** (uchylony)
+
+**Art. 81a.**
+
+1. Prezes Kasy w porozumieniu z Radą Rolników może tworzyć fundusz motywacyjny w ramach odpisu na fundusz administracyjny, naliczanego z funduszu składkowego, o którym mowa w art. 79 ust. 2 pkt 1, ustalając wysokość środków tego funduszu w danym roku kalendarzowym w wysokości nie niższej niż 4 % planowanych wydatków funduszu składkowego.
+
+2. Funduszem motywacyjnym dysponuje Prezes Kasy, w porozumieniu z Przewodniczącym Rady Rolników, na podstawie regulaminu uchwalonego przez Radę Rolników.
+
+3. Wypłaty z funduszu motywacyjnego są realizowane poza limitami wynikającymi z przepisów o kształtowaniu wynagrodzeń w państwowej sferze budżetowej.
+
+**Art. 81b.**
+
+1. Fundusz motywacyjny działa na podstawie planu finansowego.
+
+2. Projekt planu finansowego opracowuje Prezes Kasy w terminie do dnia 15 czerwca roku poprzedzającego rok, którego dotyczy ten plan.
+
+3. Minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw finansów publicznych zatwierdza projekt planu finansowego funduszu motywacyjnego w terminie do dnia 31 lipca roku poprzedzającego rok, którego dotyczy ten plan.
+
+**Art. 82.**
+
+1. Kasa podejmuje działania na rzecz obniżania kosztów poboru składek na ubezpieczenie oraz kosztów wypłaty świadczeń z ubezpieczenia.
+
+2. Prezes Kasy, w porozumieniu z Radą Rolników lub na jej wniosek, może ustanawiać premie dla rolników płacących składki oraz dla osób pobierających świadczenia, z tytułu wyrażenia zgody na pobór składki lub wypłatę świadczenia w sposób prowadzący do obniżenia kosztów poboru albo wypłaty.
+
+3. Premie, o których mowa w ust. 2, są finansowane z funduszu administracyjnego.
+
+**Art. 83.** Minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, sposób prowadzenia gospodarki finansowej Kasy, w tym tryb sporządzania planu rzeczowo-finansowego Kasy, państwowych funduszy celowych i funduszu składkowego, będących w dyspozycji Prezesa Kasy, i dokonywania w nich zmian oraz gromadzenia i wydatkowania środków, jak również lokowania wolnych środków funduszu administracyjnego oraz funduszu prewencji i rehabilitacji, mając na względzie zapewnienie prawidłowego przepływu tych środków.
+
+#### Rozdział 7 Umowa z następcą
+
+**Art. 84.** Przez umowę z następcą rolnik będący właścicielem (współwłaścicielem) gospodarstwa rolnego zobowiązuje się przenieść na osobę młodszą od niego co najmniej o 15 lat (następcę) własność (udział we współwłasności) i posiadanie tego gospodarstwa z chwilą nabycia prawa do emerytury lub renty inwalidzkiej, jeżeli następca do tego czasu będzie pracować w tym gospodarstwie. Ponadto umowa z następcą może zawierać inne postanowienia, w szczególności dotyczące wzajemnych świadczeń stron przed i po przeniesieniu przez rolnika własności gospodarstwa rolnego na następcę.
+
+**Art. 85.** Umowa z następcą, a także umowa w celu wykonania umowy z następcą (przenosząca własność gospodarstwa rolnego na następcę), powinna być zawarta w formie aktu notarialnego.
+
+**Art. 86.** Warunek pracy następcy w gospodarstwie rolnym uważa się za spełniony także w przypadku usprawiedliwionych lub uzgodnionych z rolnikiem przerw w pracy.
+
+**Art. 87.** Na żądanie rolnika sąd może rozwiązać umowę z następcą, jeżeli następca bez usprawiedliwionych powodów nie podjął albo zaprzestał pracy w gospodarstwie rolnika, nie wywiązuje się z obowiązków przyjętych w umowie lub postępuje w taki sposób, że nie można wymagać od rolnika, aby spełnił obowiązki względem następcy.
+
+**Art. 88.**
+
+1. Jeżeli w umowie z następcą albo w umowie zawartej w celu wykonania tej umowy nie postanowiono inaczej, rolnik po przeniesieniu własności gospodarstwa rolnego na następcę może żądać od niego świadczeń przewidzianych w art. 908 § 1 Kodeksu cywilnego, w zakresie uzasadnionym potrzebami rolnika i członków jego rodziny oraz warunkami majątkowymi i osobistymi następcy, z uwzględnieniem jego nakładu pracy w gospodarstwie rolnika i korzyści uzyskanych od rolnika przed objęciem gospodarstwa.
+
+2. Jeżeli rolnik przeniósł własność gospodarstwa rolnego na następcę przed nabyciem prawa do emerytury lub renty, a w umowie z następcą albo w umowie zawartej w celu wykonania tej umowy nie postanowiono inaczej, może on także żądać od następcy, w zakresie określonym w ust. 1, świadczeń pieniężnych w wysokości nieprzekraczającej połowy emerytury podstawowej miesięcznie do czasu nabycia prawa do emerytury lub renty.
+
+**Art. 89.** Na żądanie rolnika sąd, po rozważeniu interesów stron zgodnie z zasadami współżycia społecznego, może rozwiązać umowę przenoszącą własność gospodarstwa rolnego, zawartą w celu wykonania umowy z następcą, jeżeli następca:
+
+- **1)** uporczywie postępuje wobec rolnika w sposób sprzeczny z zasadami współżycia społecznego lub
+- **2)** dopuścił się względem rolnika albo jednej z najbliższych mu osób rażącej obrazy czci bądź umyślnego przestępstwa przeciwko życiu, zdrowiu albo wolności, lub
+- **3)** uporczywie nie wywiązuje się ze swych obowiązków względem rolnika wynikających z umowy lub z przepisów prawa.
+
+**Art. 90.** Jeżeli rolnik zmarł przed wykonaniem umowy z następcą, który pracował w jego gospodarstwie co najmniej 5 lat, następca może żądać wykonania tej umowy przez spadkobierców rolnika. Roszczenie następcy ma pierwszeństwo przed roszczeniami z tytułu zapisów.
+
+**Art. 91.** Jeżeli z umowy z następcą nie wynika co innego, do umowy tej stosuje się odpowiednio przepisy Kodeksu cywilnego o umowie przedwstępnej, z wyjątkiem art. 390 § 1.
+
+#### Rozdział 7a Umowa o pomocy przy zbiorach
+
+**Art. 91a.**
+
+1. Przez umowę o pomocy przy zbiorach pomocnik rolnika zobowiązuje się do świadczenia pomocy przy zbiorach produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. f, i oraz n rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm. ), a także pozostałych ziół i roślin zielarskich, zwanych dalej „chmielem, owocami, warzywami, tytoniem, ziołami i roślinami zielarskimi”, w określonym miejscu w gospodarstwie rolnika i przez określony czas, a rolnik do zapłaty umówionego wynagrodzenia za świadczoną pomoc.
+
+2. Pomoc przy zbiorach chmielu, owoców, warzyw, tytoniu, ziół i roślin zielarskich obejmuje następujące czynności:
+
+- **1)** zbieranie chmielu, owoców, warzyw, tytoniu, ziół lub roślin zielarskich;
+- **2)** usuwanie zbędnych części roślin;
+- **3)** klasyfikowanie lub sortowanie zerwanych lub zebranych chmielu, owoców, warzyw, tytoniu, ziół lub roślin zielarskich, lub wykonywanie innych czynności mających na celu przygotowanie chmielu, owoców, warzyw, tytoniu, ziół lub roślin zielarskich do transportu, przechowywania lub sprzedaży lub związanych z pielęgnowaniem i poprawą jakości plonów.
+
+3. W umowie o pomocy przy zbiorach określa się zakres czynności wykonywanych na podstawie tej umowy przez pomocnika rolnika oraz dzień rozpoczęcia świadczenia pomocy przy zbiorach chmielu, owoców, warzyw, tytoniu, ziół i roślin zielarskich, jeżeli jest on inny niż dzień zawarcia umowy o pomocy przy zbiorach.
+
+4. Wykonywanie czynności, o których mowa w ust. 2, na podstawie umowy o pomocy przy zbiorach nie stanowi zatrudnienia w rozumieniu Kodeksu pracy.
+
+**Art. 91b.**
+
+1. Umowę o pomocy przy zbiorach zawiera się na piśmie przed rozpoczęciem świadczenia pomocy przy zbiorach chmielu, owoców, warzyw, tytoniu, ziół i roślin zielarskich.
+
+2. Pomocnik rolnika przed zawarciem umowy o pomocy przy zbiorach składa oświadczenie o liczbie dni w danym roku kalendarzowym, przez jakie świadczył pomoc przy zbiorach chmielu, owoców, warzyw, tytoniu, ziół i roślin zielarskich, na podstawie umów o pomocy przy zbiorach zawartych z innymi rolnikami.
+
+**Art. 91c.**
+
+1. Łączny czas świadczenia pomocy przy zbiorach chmielu, owoców, warzyw, tytoniu, ziół i roślin zielarskich na podstawie umów o pomocy przy zbiorach zawartych przez jednego pomocnika rolnika nie może przekroczyć 180 dni w roku kalendarzowym.
+
+2. Każdej ze stron umowy o pomocy przy zbiorach przysługuje prawo wypowiedzenia umowy. Umowa ulega rozwiązaniu z upływem dnia, w którym została wypowiedziana, chyba że strony w umowie postanowiły inaczej.
+
+**Art. 91d.** Rolnik jest obowiązany do zapewnienia pomocnikowi rolnika odpowiednich narzędzi niezbędnych do świadczenia pomocy przy zbiorach chmielu, owoców, warzyw, tytoniu, ziół i roślin zielarskich.
+
+**Art. 91e.** Pomocnik rolnika jest obowiązany do osobistego świadczenia pomocy przy zbiorach chmielu, owoców, warzyw, tytoniu, ziół i roślin zielarskich.
+
+**Art. 91f.** W zakresie nieuregulowanym w niniejszym rozdziale do umowy o pomocy przy zbiorach stosuje się przepisy Kodeksu cywilnego.
+
+#### Rozdział 8 Zmiany w przepisach obowiązujących
+
+**Art. 92–99.** (pominięte)
+
+#### Rozdział 9 Przepisy przejściowe i końcowe
+
+**Art. 100.**
+
+1. Rolnik lub domownik dobrowolnie kontynuujący ubezpieczenie w myśl przepisów o ubezpieczeniu społecznym rolników indywidualnych i członków ich rodzin, z dniem wejścia w życie ustawy staje się ubezpieczonym na wniosek, chyba że spełnia warunki podlegania ubezpieczeniu z mocy ustawy.
+
+2. Na wniosek złożony do dnia 30 czerwca 1991 r. rolnik lub domownik, który w dniu 31 grudnia 1990 r. podlegał z mocy prawa ubezpieczeniu społecznemu rolników indywidualnych i członków ich rodzin, a nie podlega ubezpieczeniu wypadkowemu, chorobowemu i macierzyńskiemu lub emerytalno-rentowemu z mocy ustawy w związku ze zmianą zasad podlegania ubezpieczeniu, może zostać objęty ubezpieczeniem z mocą od dnia 1 stycznia 1991 r. Składkę opłaca się za cały okres ubezpieczenia.
+
+**Art. 101.** Wydanie decyzji ustalającej podleganie ubezpieczeniu przez osobę, która ukończyła lub do dnia 31 marca 1991 r. ukończy wiek emerytalny, może nastąpić dopiero po upływie tego terminu. Jeżeli w tym terminie złożono wniosek o emeryturę lub rentę z ubezpieczenia i zostały spełnione warunki do przyznania tego świadczenia, nie pobiera się składki na ubezpieczenie emerytalno-rentowe za pierwszy kwartał 1991 r.
+
+**Art. 102.**
+
+1. Składka na ubezpieczenie wypadkowe, chorobowe i macierzyńskie, o której mowa w art. 7 ust. 1, wynosi:
+
+- **1)** w pierwszym kwartale 1991 r. – 60 000 zł;
+- **2)** w drugim kwartale 1991 r. – 16 % emerytury podstawowej.
+
+2. Począwszy od trzeciego kwartału 1991 r. wysokość tej składki ogłasza się w trybie określonym w art. 8 ust. 4.
+
+**Art. 103.**
+
+1. Emerytury i renty z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin waloryzuje się w ten sposób, że:
+
+- **1)** ustala się wskaźnik wymiaru świadczenia, wraz ze zwiększeniami oraz dodatkami z tytułu odznaczeń państwowych , dodatkiem kombatanckim i dodatkiem z tytułu tajnego nauczania, według stanu na dzień 31 grudnia 1990 r.;
+- **2)** od dnia 1 stycznia 1991 r. świadczenie wypłaca się według tak ustalonego wskaźnika.
+
+2. Przy ustalaniu wskaźnika przewidzianego w ust. 1 dla emerytury lub renty, do której prawo powstało w 1990 r., zwiększenie z tytułu wartości sprzedaży produktów rolnych powiększa się o jedną czwartą.
+
+**Art. 104.**
+
+1. Emerytury i renty inwalidzkie przysługujące na podstawie art. 23a ustawy powołanej w art. 122 przelicza się w ten sposób, że:
+
+- **1)** oblicza się pełną wysokość emerytury lub renty (w pełnej wysokości podstawowej wraz ze zwiększeniami) na dzień 31 grudnia 1990 r. według dotychczasowych przepisów, przy uwzględnieniu art. 103 ust. 2;
+- **2)** dla tak obliczonej wysokości ustala się wskaźnik wymiaru.
+
+2. Do czasu zaprzestania prowadzenia działalności rolniczej emeryturę lub rentę, o której mowa w ust. 1, wypłaca się w wysokości wynikającej ze wskaźnika wymiaru, pomniejszonej o 23,75 % emerytury podstawowej.
+
+**Art. 104a.**
+
+1. Osobom pobierającym emerytury i renty, o których mowa w art. 103 i 104, oraz przyznane na podstawie niniejszej ustawy, ustalone w kwocie nie wyższej niż kwota emerytury podstawowej, przysługuje jednorazowa wypłata w wysokości 100 zł.
+
+2. Realizacja wypłaty następuje w marcu 2005 r. i w marcu 2006 r.
+
+3. Jednorazowa wypłata nie przysługuje w tym roku kalendarzowym, w którym nastąpiła zmiana wysokości emerytury podstawowej w związku z waloryzacją emerytur i rent przysługujących na podstawie przepisów emerytalnych.
+
+4. Jednorazowa wypłata finansowana jest ze środków budżetu państwa.
+
+**Art. 105.**
+
+1. Jeżeli wypłata emerytury lub renty z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin w myśl przepisów obowiązujących w dacie przyznania tego świadczenia nie podlegałaby zawieszeniu, przewidziane w art. 28 zawieszenie wypłaty stosuje się tylko w przypadku, gdy okoliczności uzasadniające zawieszenie nastąpiły po dniu 31 marca 1991 r.
+
+2. Jeżeli dotychczasowe przepisy przewidywały zawieszenie wypłaty emerytury lub renty z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, a w myśl art. 28 zawieszenie wypłaty dotyczy tylko określonej części tego świadczenia, wznowienie wypłaty pozostałej części następuje na wniosek.
+
+**Art. 106.**
+
+1. Okresowe renty inwalidzkie, przyznane na podstawie dotychczasowych przepisów, przysługują na zasadach i w wysokości określonych w tych przepisach. Do rent tych stosuje się odpowiednio przepisy ustawy o rencie inwalidzkiej rolniczej, z wyjątkiem art. 28.
+
+2. Na wniosek osoby uprawnionej do okresowej renty inwalidzkiej, o której mowa w ust. 1, zamiast tej renty przyznaje się rentę inwalidzką rolniczą, przysługującą na zasadach i w wysokości określonych w art. 22 i art. 24–28.
+
+**Art. 107.**
+
+1. Do zbiegu prawa do emerytury lub renty z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin z prawem do emerytury lub renty z innego ubezpieczenia społecznego stosuje się przepisy dotychczasowe.
+
+2. Jeżeli emerytura lub renta z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin była dotychczas wypłacana łącznie z emeryturą lub rentą z innego ubezpieczenia społecznego, świadczenia te wypłaca się z funduszu emerytalno-rentowego.
+
+**Art. 108.** Tracą moc decyzje ustalające warunkowo prawo do świadczeń z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, jeżeli warunki nabycia prawa nie zostały spełnione przed dniem wejścia w życie ustawy. Osoba zainteresowana może jednak, z chwilą spełnienia wszystkich warunków, ponowić wniosek o załatwienie sprawy według dotychczasowych przepisów, jeżeli nie ubiega się o analogiczne świadczenie z ubezpieczenia.
+
+**Art. 109.** Sprawy o świadczenia pieniężne z ubezpieczenia społecznego rolników indywidualnych i członków ich rodzin, do których prawo powstało przed dniem wejścia w życie ustawy, wszczęte i niezakończone przed tym dniem decyzją Zakładu Ubezpieczeń Społecznych, podlegają załatwieniu na zasadach i w trybie określonych dotychczasowymi przepisami. Wnioskodawca może jednak żądać załatwienia sprawy według przepisów ustawy; nie dotyczy to spraw o zasiłek porodowy, zasiłek macierzyński, zasiłek chorobowy, zasiłek pogrzebowy lub o jednorazowe odszkodowanie z tytułu wypadku przy pracy.
+
+**Art. 110–116.** (pominięte)
+
+**Art. 117.** (uchylony)
+
+**Art. 118.**
+
+1. Osobie, której przysługuje prawo użytkowania działki gruntu z tytułu przekazania gospodarstwa rolnego Państwu, w myśl dotychczasowych przepisów, na jej wniosek przyznaje się nieodpłatnie własność tej działki.
+
+2. Osobie, której przysługuje prawo do bezpłatnego korzystania z lokalu mieszkalnego i pomieszczeń gospodarskich z tytułu przekazania gospodarstwa rolnego Państwu, w myśl dotychczasowych przepisów, na jej wniosek przyznaje się nieodpłatnie własność działki obejmującej budynki, w których znajdują się ten lokal i te pomieszczenia, o powierzchni niezbędnej do korzystania z tych budynków.
+
+2a. Z wnioskiem o przyznanie prawa własności działki określonej w ust. 1 lub 2 może wystąpić również zstępny osoby uprawnionej, o której mowa w tych przepisach, który po śmierci tej osoby faktycznie włada, w zakresie odpowiadającym jej uprawnieniom, daną nieruchomością; jeżeli jednak uprawnionymi są oboje małżonkowie, wniosek taki może być zgłoszony dopiero po śmierci obojga małżonków.
+
+3. Przepisów ust. 1–2a nie stosuje się, jeżeli działka nie jest przedmiotem własności Skarbu Państwa lub jednostki samorządu terytorialnego albo jeżeli przyznanie własności naruszałoby prawa osób trzecich do działki lub budynków, o których mowa w tych przepisach.
+
+4. Decyzje w sprawach określonych w ust. 1–2a wydaje starosta.
+
+5. Skorzystanie z uprawnień przewidzianych w ust. 1 i 2 nie ma wpływu na wysokość emerytury i renty.
+
+**Art. 119.**
+
+1. Skutki prawne umowy o nieodpłatne przekazanie gospodarstwa rolnego następcy, zawartej w myśl dotychczasowych przepisów, ustala się według tych przepisów.
+
+2. Na żądanie rolnika, który nieodpłatnie przekazał gospodarstwo rolne następcy przed wejściem w życie ustawy, sąd, po rozważeniu interesów stron zgodnie z zasadami współżycia społecznego, może rozwiązać umowę, jeżeli zachodzi jedna z przyczyn określonych w art. 89 pkt 1–3.
+
+**Art. 120.** Do czasu wydania przepisów wykonawczych do ustawy stosuje się odpowiednio przepisy dotychczasowe, jeżeli nie są sprzeczne z ustawą.
+
+**Art. 121.** (pominięty)
+
+**Art. 122.** Traci moc ustawa z dnia 14 grudnia 1982 r. o ubezpieczeniu społecznym rolników indywidualnych i członków ich rodzin (Dz. U. z 1989 r. poz. 133 i 190 oraz z 1990 r. poz. 90 i 198).
+
+**Art. 123.** Ustawa wchodzi w życie z dniem 1 stycznia 1991 r., z wyjątkiem art. 61 ust. 2, który wchodzi w życie z dniem 1 czerwca 1991 r. TABELA RODZAJÓW I ROZMIARÓW DZIAŁÓW SPECJALNYCH PRODUKCJI ROLNEJ Lp. Rodzaje upraw i produkcji 1 2 1 Uprawy roślin ozdobnych i pozostałych w szklarniach ogrzewanych powyżej 100 m 2 Uprawy w szklarniach nieogrzewanych powyżej 100 m 3 Uprawy roślin ozdobnych i pozostałych w tunelach foliowych ogrzewanych powyżej 200 m 4 Uprawy grzybów i ich grzybni – powyżej 100 m powierzchni uprawowej 5 Drób rzeźny:
+
+8 Zwierzęta futerkowe – powyżej 50 szt. samic stada podstawowego:
+
+- **a)** kurczęta – powyżej 1000 szt. (w skali roku)
+- **b)** gęsi – powyżej 500 szt. (w skali roku)
+- **c)** kaczki – powyżej 500 szt. (w skali roku)
+- **d)** indyki – powyżej 500 szt. (w skali roku)
+- **e)** strusie – powyżej 20 szt. (w skali roku) 6 Drób nieśny:
+- **a)** kury nieśne (w stadzie reprodukcyjnym) – powyżej 2000 szt. (w skali roku)
+- **b)** gęsi (w stadzie reprodukcyjnym) – powyżej 200 szt. (w skali roku)
+- **c)** kaczki (w stadzie reprodukcyjnym) – powyżej 500 szt. (w skali roku)
+- **d)** indyki (w stadzie reprodukcyjnym) – powyżej 500 szt. (w skali roku)
+- **e)** kury (produkcja jaj konsumpcyjnych) – powyżej 1000 szt. (w skali roku)
+- **f)** strusie (w stadzie reprodukcyjnym) – powyżej 6 szt. (w skali roku) 7 Zakłady wylęgu drobiu (zdolność produkcyjna – liczba jaj):
+- **a)** kurczęta – powyżej 3000 szt.
+- **b)** gęsi – powyżej 3000 szt.
+- **c)** kaczki – powyżej 3000 szt.
+- **d)** indyki – powyżej 3000 szt.
+- **e)** strusie – powyżej 50 szt.
+- **a)** lisy i jenoty
+- **b)** norki
+- **c)** tchórzofretki
+- **d)** szynszyle
+- **e)** nutrie
+- **f)** króliki 9 Pasieki powyżej 80 rodzin 10 Hodowla i chów świń poza gospodarstwem rolnym powyżej 100 szt.
 
 

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000644) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/644/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli Na podstawie art. 111 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 28 lutego 2019 r. w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli (Dz. U. poz. 502 oraz z 2022 r. poz. 566) uchyla się § 21a.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 28 lutego 2019 r. w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli (Dz. U. poz. 502 oraz z 2022 r. poz. 566) uchyla się § 21a.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. Minister Edukacji i Nauki: P. Czarnek
 

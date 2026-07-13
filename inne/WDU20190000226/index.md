@@ -26,15 +26,17 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/226/text.pdf) |
 
 zmieniające rozporządzenie w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia Na podstawie art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 599, z 2018 r. poz. 1544 i 1669 oraz z 2019 r. poz. 60) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 13 czerwca 2017 r. w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 1217) wprowadza się następujące zmiany:
-1) w § 2 w ust. 1 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „16) psychoterapia dzieci i młodzieży.”;
-2) w załączniku nr 1 do rozporządzenia:
-a) w wierszu oznaczonym lp. 6 oznaczenie kodowe „007” zastępuje się oznaczeniem kodowym „040”,
-b) w wierszu oznaczonym lp. 7 oznaczenie kodowe „008” zastępuje się oznaczeniem kodowym „039”,
-c) w wierszu oznaczonym lp. 15 oznaczenie kodowe „035” zastępuje się oznaczeniem kodowym „037”,
-d) po wierszu oznaczonym lp. 15 dodaje się wiersz oznaczony lp. 16 w brzmieniu: „16. Specjalista w dziedzinie psychoterapii dzieci i młodzieży 038”;
-3) w załączniku nr 2 do rozporządzenia w tabeli po wierszu oznaczonym lp. 15 dodaje się wiersz oznaczony lp.
-w brzmieniu: 16 psychoterapia dzieci i młodzieży psychologii, pedagogiki, resocjalizacji, pielęgniarstwa, lekarskim
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 13 czerwca 2017 r. w sprawie specjalizacji w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. poz. 1217) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 1 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „16) psychoterapia dzieci i młodzieży.”;
+- **2)** w załączniku nr 1 do rozporządzenia:
+    - **a)** w wierszu oznaczonym lp. 6 oznaczenie kodowe „007” zastępuje się oznaczeniem kodowym „040”,
+    - **b)** w wierszu oznaczonym lp. 7 oznaczenie kodowe „008” zastępuje się oznaczeniem kodowym „039”,
+    - **c)** w wierszu oznaczonym lp. 15 oznaczenie kodowe „035” zastępuje się oznaczeniem kodowym „037”,
+    - **d)** po wierszu oznaczonym lp. 15 dodaje się wiersz oznaczony lp. 16 w brzmieniu: „16. Specjalista w dziedzinie psychoterapii dzieci i młodzieży 038”;
+
+- **3)** w załączniku nr 2 do rozporządzenia w tabeli po wierszu oznaczonym lp. 15 dodaje się wiersz oznaczony lp. w brzmieniu: 16 psychoterapia dzieci i młodzieży psychologii, pedagogiki, resocjalizacji, pielęgniarstwa, lekarskim
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

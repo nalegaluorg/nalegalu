@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000207) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/207/text.pdf) |
 
 zmieniające rozporządzenie w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia Na podstawie art. 73 ust. 11 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2019 r. poz. 2215) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 19 stycznia 2018 r. w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia (Dz. U. poz. 190) w załączniku nr 2 do rozporządzenia w „Pouczeniu” w ust. 1 w pkt 2 uchyla się lit. b.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 19 stycznia 2018 r. w sprawie orzekania o potrzebie udzielenia nauczycielowi urlopu dla poratowania zdrowia (Dz. U. poz. 190) w załączniku nr 2 do rozporządzenia w „Pouczeniu” w ust. 1 w pkt 2 uchyla się lit. b.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

@@ -27,18 +27,31 @@ source: pdf
 
 w sprawie wyjazdów za granicę żołnierzy zawodowych w celach niezwiązanych z zawodową służbą wojskową Na podstawie art. 340 ust. 10 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r.
 poz. 347 i 641) zarządza się, co następuje:
-§ 1. Rozporządzenie określa tryb informowania przez żołnierza zawodowego o zamiarze wyjazdu i pobytu za granicą oraz postępowania w sprawach wydawania zakazu wyjazdu za granicę, formę zawiadomienia i dane, jakie żołnierz zawodowy jest obowiązany w nim zawrzeć.
-§ 2. 1. Zawiadomienie o zamiarze wyjazdu i pobytu za granicą w celach niezwiązanych z zawodową służbą wojskową, zwane dalej „zawiadomieniem”, żołnierz zawodowy składa dowódcy jednostki wojskowej w formie pisemnej za pośrednictwem kancelarii jednostki wojskowej albo w formie elektronicznej za pośrednictwem elektronicznego obiegu dokumentów zorganizowanego w jednostce organizacyjnej albo komórce organizacyjnej.
+
+**§ 1.** Rozporządzenie określa tryb informowania przez żołnierza zawodowego o zamiarze wyjazdu i pobytu za granicą oraz postępowania w sprawach wydawania zakazu wyjazdu za granicę, formę zawiadomienia i dane, jakie żołnierz zawodowy jest obowiązany w nim zawrzeć.
+
+**§ 2.**
+
+1. Zawiadomienie o zamiarze wyjazdu i pobytu za granicą w celach niezwiązanych z zawodową służbą wojskową, zwane dalej „zawiadomieniem”, żołnierz zawodowy składa dowódcy jednostki wojskowej w formie pisemnej za pośrednictwem kancelarii jednostki wojskowej albo w formie elektronicznej za pośrednictwem elektronicznego obiegu dokumentów zorganizowanego w jednostce organizacyjnej albo komórce organizacyjnej.
+
 2. Zawiadomienie zawiera:
-1) stopień, imię i nazwisko żołnierza zawodowego;
-2) wskazanie zamierzonego miejsca wyjazdu i pobytu za granicą;
-3) wskazanie zamierzonego terminu wyjazdu i czasu pobytu za granicą;
-4) określenie celu wyjazdu i pobytu za granicą.
+
+- **1)** stopień, imię i nazwisko żołnierza zawodowego;
+- **2)** wskazanie zamierzonego miejsca wyjazdu i pobytu za granicą;
+- **3)** wskazanie zamierzonego terminu wyjazdu i czasu pobytu za granicą;
+- **4)** określenie celu wyjazdu i pobytu za granicą.
+
 3. Zawiadomienie żołnierz zawodowy składa na co najmniej 10 dni przed planowanym terminem wyjazdu za granicę, a w szczególnie uzasadnionych przypadkach termin ten może być krótszy.
+
 4. Żołnierz zawodowy zajmujący stanowisko służbowe dowódcy jednostki wojskowej zawiadomienie składa w formie pisemnej za pośrednictwem kancelarii jednostki wojskowej bezpośredniego przełożonego albo w formie elektronicznej za pośrednictwem elektronicznego obiegu dokumentów zorganizowanego w jednostce organizacyjnej albo komórce organizacyjnej.
-§ 3. W przypadku wyjazdów w ramach małego ruchu granicznego w zawiadomieniu żołnierz zawodowy podaje jednorazowo wyjazdy planowane w ciągu całego roku kalendarzowego.
-§ 4. 1. Odwołanie od decyzji o zakazie wyjazdu i pobytu za granicą w celach niezwiązanych z zawodową służbą wojskową żołnierz zawodowy składa za pośrednictwem kancelarii jednostki wojskowej bezpośredniego przełożonego dowódcy jednostki wojskowej, który wydał kwestionowaną decyzję.
+
+**§ 3.** W przypadku wyjazdów w ramach małego ruchu granicznego w zawiadomieniu żołnierz zawodowy podaje jednorazowo wyjazdy planowane w ciągu całego roku kalendarzowego.
+
+**§ 4.**
+
+1. Odwołanie od decyzji o zakazie wyjazdu i pobytu za granicą w celach niezwiązanych z zawodową służbą wojskową żołnierz zawodowy składa za pośrednictwem kancelarii jednostki wojskowej bezpośredniego przełożonego dowódcy jednostki wojskowej, który wydał kwestionowaną decyzję.
+
 2. O sposobie rozstrzygnięcia odwołania od decyzji o zakazie wyjazdu i pobytu za granicą w celach niezwiązanych z zawodową służbą wojskową informuje się żołnierza zawodowego bezzwłocznie, pisemnie lub elektronicznie, za pośrednictwem dowódcy jednostki wojskowej, który wydał kwestionowaną decyzję.
-§ 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: z up. M. Wiśniewski
+
+**§ 5.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: z up. M. Wiśniewski
 

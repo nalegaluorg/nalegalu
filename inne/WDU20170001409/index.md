@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001409) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1409/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wysokości opłaty za sporządzenie kopii oraz odpisu dokumentów Na podstawie art. 270b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768 i 935) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 18 grudnia 2015 r. w sprawie wysokości opłaty za sporządzenie kopii oraz odpisu dokumentów (Dz. U. poz. 2182) w § 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) 0,40 zł – za jedną stronę zeskanowanego dokumentu papierowego.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 18 grudnia 2015 r. w sprawie wysokości opłaty za sporządzenie kopii oraz odpisu dokumentów (Dz. U. poz. 2182) w § 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) 0,40 zł – za jedną stronę zeskanowanego dokumentu papierowego.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk
 

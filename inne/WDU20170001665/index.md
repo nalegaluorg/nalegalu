@@ -27,11 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem nadzwyczajnych środków wspierania rynku wieprzowiny Na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2016 r. poz. 1512 i 2048 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 4 kwietnia 2014 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem nadzwyczajnych środków wspierania rynku wieprzowiny (Dz. U. poz. 460) wprowadza się następujące zmiany:
-1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnych środków wspierania rynku wieprzowiny”;
-2) w § 1 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Agencję Restrukturyzacji i Modernizacji Rolnictwa”;
-3) w § 2 pkt 2 otrzymuje brzmienie: „2) art. 4 ust. 1 lit. c i d rozporządzenia nr 324/2014, przeprowadza kontrole; do tych kontroli stosuje się odpowiednio art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych.”;
-4) użyty w § 5 w ust. 2 i 6 wyraz „terenowego” zastępuje się wyrazem „regionalnego”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 4 kwietnia 2014 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem nadzwyczajnych środków wspierania rynku wieprzowiny (Dz. U. poz. 460) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozporządzenia otrzymuje brzmienie: „w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem nadzwyczajnych środków wspierania rynku wieprzowiny”;
+- **2)** w § 1 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Agencję Restrukturyzacji i Modernizacji Rolnictwa”;
+- **3)** w § 2 pkt 2 otrzymuje brzmienie: „2) art. 4 ust. 1 lit. c i d rozporządzenia nr 324/2014, przeprowadza kontrole; do tych kontroli stosuje się odpowiednio art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych.”;
+- **4)** użyty w § 5 w ust. 2 i 6 wyraz „terenowego” zastępuje się wyrazem „regionalnego”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

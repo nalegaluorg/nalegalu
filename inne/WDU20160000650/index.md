@@ -26,9 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/650/text.pdf) |
 
 w sprawie nadania statutu Instytutowi Zachodniemu im. Zygmunta Wojciechowskiego Na podstawie art. 1 ust. 3 ustawy z dnia 17 grudnia 2015 r. o Instytucie Zachodnim im. Zygmunta Wojciechowskiego (Dz. U. poz. 2292) zarządza się, co następuje:
-§ 1. Instytutowi Zachodniemu im. Zygmunta Wojciechowskiego nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: B. Szydło STATUT INSTYTUTU ZACHODNIEGO IM. ZYGMUNTA WOJCIECHOWSKIEGO
+
+**§ 1.** Instytutowi Zachodniemu im. Zygmunta Wojciechowskiego nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezes Rady Ministrów: B. Szydło STATUT INSTYTUTU ZACHODNIEGO IM. ZYGMUNTA WOJCIECHOWSKIEGO
+
+## Załącznik
+
 § 1. Instytut Zachodni im. Zygmunta Wojciechowskiego, zwany dalej „Instytutem”, działa na podstawie ustawy z dnia 17 grudnia 2015 r. o Instytucie Zachodnim im. Zygmunta Wojciechowskiego (Dz. U. poz. 2292), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. Dyrektor Instytutu kieruje Instytutem przy pomocy zastępców Dyrektora Instytutu, kierowników komórek organizacyjnych oraz głównego księgowego.
 2. Dyrektor Instytutu:

@@ -27,12 +27,18 @@ source: pdf
 
 w sprawie formatu dokumentu zawierającego wyniki inwentaryzacji przyrodniczej oraz formatu raportu o oddziaływaniu przedsięwzięcia na środowisko Na podstawie art. 66 ust. 8 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2021 r.
 poz. 2373 i 2389) zarządza się, co następuje:
-§ 1. 1. Dokument zawierający wyniki inwentaryzacji przyrodniczej oraz raport o oddziaływaniu przedsięwzięcia na środowisko zapisuje się w części:
-1) tekstowej tych dokumentów – w formacie PDF z możliwością przeszukiwania tekstu oraz w formacie RTF, DOCX, DOC albo ODT;
-2) tabelarycznej tych dokumentów – w formacie PDF z możliwością przeszukiwania tekstu oraz w formacie XML, XLSX, XLS albo ODS;
-3) graficznej i kartograficznej tych dokumentów – w formacie PDF.
+
+**§ 1.**
+
+1. Dokument zawierający wyniki inwentaryzacji przyrodniczej oraz raport o oddziaływaniu przedsięwzięcia na środowisko zapisuje się w części:
+
+- **1)** tekstowej tych dokumentów – w formacie PDF z możliwością przeszukiwania tekstu oraz w formacie RTF, DOCX, DOC albo ODT;
+- **2)** tabelarycznej tych dokumentów – w formacie PDF z możliwością przeszukiwania tekstu oraz w formacie XML, XLSX, XLS albo ODS;
+- **3)** graficznej i kartograficznej tych dokumentów – w formacie PDF.
+
 2. Dokument zawierający wyniki inwentaryzacji przyrodniczej w części kartograficznej tego dokumentu zapisuje się także w formatach wektorowych SHP lub GPKG wykorzystywanych w systemach informacji przestrzennej.
-§ 2. Przepisów rozporządzenia nie stosuje się do dokumentów zawierających wyniki inwentaryzacji przyrodniczej oraz raportów o oddziaływaniu przedsięwzięcia na środowisko składanych w ramach postępowań, o których mowa w art. 61 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 2.** Przepisów rozporządzenia nie stosuje się do dokumentów zawierających wyniki inwentaryzacji przyrodniczej oraz raportów o oddziaływaniu przedsięwzięcia na środowisko składanych w ramach postępowań, o których mowa w art. 61 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa
 

@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo upadłościowe**.
 
-Łącznie: **17** aktów
+Łącznie: **15** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -16,12 +16,10 @@ Akty prawne z dziedziny: **Prawo upadłościowe**.
 | [WDU20120000173](WDU20120000173/index.md) | Ustawa z dnia 27 stycznia 2012 r. o zmianie ustawy o ostateczności rozrachu | Ustawa | obowiązujący |  |
 | [WDU20111420828](WDU20111420828/index.md) | Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy - Prawo upadłościowe i nap | Ustawa | obowiązujący | [tak](WDU20111420828/orzecznictwo.md) |
 | [WDU20111380810](WDU20111380810/index.md) | Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy - Prawo upadłościowe i n | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20102301509](WDU20102301509/index.md) | Ustawa z dnia 22 października 2010 r. o zmianie ustawy - Prawo upadłościowe | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20102301509/orzecznictwo.md) |
-| [WDU20090530434](WDU20090530434/index.md) | Ustawa z dnia 6 marca 2009 r. o zmianie ustawy - Prawo upadłościowe i napra | Ustawa | obowiązujący | [tak](WDU20090530434/orzecznictwo.md) |
 | [WDU20082341572](WDU20082341572/index.md) | Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy - Prawo upadłościowe i nap | Ustawa | obowiązujący | [tak](WDU20082341572/orzecznictwo.md) |
 | [WDU20080960606](WDU20080960606/index.md) | Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy o państwowym przedsiębio | Ustawa | obowiązujący |  |
 | [WDU20050940785](WDU20050940785/index.md) | Ustawa z dnia 15 kwietnia 2005 r. o zmianie ustawy - Prawo upadłościowe i n | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20030600535](WDU20030600535/index.md) | Ustawa z dnia 28 lutego 2003 r. Prawo upadłościowe | Ustawa | akt posiada tekst jednolity | [tak](WDU20030600535/orzecznictwo.md) |
-| [WDU19960430189](WDU19960430189/index.md) | Ustawa z dnia 1 marca 1996 r. o zmianie Kodeksu postępowania cywilnego, roz | Ustawa | obowiązujący | [tak](WDU19960430189/orzecznictwo.md) |
+| [WDU19960430189](WDU19960430189/index.md) | Ustawa z dnia 1 marca 1996 r. o zmianie Kodeksu postępowania cywilnego, roz | Ustawa | obowiązujący |  |
 
-*17 aktów • [← Powrót do spisu głównego](../README.md)*
+*15 aktów • [← Powrót do spisu głównego](../README.md)*

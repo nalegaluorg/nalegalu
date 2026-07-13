@@ -26,16 +26,17 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001164) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1164/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi oraz wzoru wniosku o przyznanie nagrody rocznej Na podstawie art. 10 ust. 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2015 r. poz. 2099) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 12 lipca 2012 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi oraz wzoru wniosku o przyznanie nagrody rocznej (Dz. U. poz. 842) wprowadza się następujące zmiany:
-1) w § 1 pkt 1 otrzymuje brzmienie: „1) szczegółowe zasady i tryb przyznawania nagrody rocznej osobom, o których mowa w art. 2 pkt 1, 2, 4 i 10 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zwanej dalej „ustawą”, zatrudnionym w podmiotach prawnych utworzonych, podległych lub nadzorowanych przez:
-a) ministra właściwego do spraw administracji publicznej lub
-b) ministra właściwego do spraw wewnętrznych, lub
-c) ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych;”;
-2) w § 2 pkt 3 i 4 otrzymują brzmienie: „3) rok obrotowy – rok obrotowy w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047) poprzedzający rok, w którym przyznaje się nagrodę roczną;
-4) minister – ministra właściwego, o którym mowa w § 1 pkt 1.”;
-3) w § 6:
-a) pkt 1 otrzymuje brzmienie: „1) kierowników podmiotów prawnych, o których mowa w art. 1 pkt 2 ustawy – statutowy organ nadzorczy,”,
-b) uchyla się pkt 5.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 12 lipca 2012 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi oraz wzoru wniosku o przyznanie nagrody rocznej (Dz. U. poz. 842) wprowadza się następujące zmiany:
+
+- **1)** w § 1 pkt 1 otrzymuje brzmienie: „1) szczegółowe zasady i tryb przyznawania nagrody rocznej osobom, o których mowa w art. 2 pkt 1, 2, 4 i 10 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zwanej dalej „ustawą”, zatrudnionym w podmiotach prawnych utworzonych, podległych lub nadzorowanych przez: a) ministra właściwego do spraw administracji publicznej lub b) ministra właściwego do spraw wewnętrznych, lub c) ministra właściwego do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych;”;
+- **2)** w § 2 pkt 3 i 4 otrzymują brzmienie:
+
+  > „3) rok obrotowy – rok obrotowy w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047) poprzedzający rok, w którym przyznaje się nagrodę roczną;  
+  > 4) minister – ministra właściwego, o którym mowa w § 1 pkt 1.”;  
+- **3)** w § 6:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) kierowników podmiotów prawnych, o których mowa w art. 1 pkt 2 ustawy – statutowy organ nadzorczy,”,
+    - **b)** uchyla się pkt 5.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

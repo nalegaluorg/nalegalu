@@ -29,7 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz.U. z 2001 r. Nr 142, poz. 1591) wprowadza się następujące zmiany:
 
-- **1)** art. 17 otrzymuje brzmienie: „Art. 17. W skład rady wchodzą radni w liczbie: 1) piętnastu w gminach do 20 000 mieszkańców, 2) dwudziestu jeden w gminach do 50 000 mieszkańców, 3) dwudziestu trzech w gminach do 100 000 mieszkańców, 4) dwudziestu pięciu w gminach do 200 000 mieszkańców oraz po trzech na każde dalsze rozpoczęte 100 000 mieszkańców, nie więcej jednak niż czterdziestu pięciu radnych.”;
+- **1)** art. 17 otrzymuje brzmienie:
+
+  > „Art. 17. W skład rady wchodzą radni w liczbie:  
+  > 1) piętnastu w gminach do 20 000 mieszkańców, 2) dwudziestu jeden w gminach do 50 000 mieszkańców, 3) dwudziestu trzech w gminach do 100 000 mieszkańców, 4) dwudziestu pięciu w gminach do 200 000 mieszkańców oraz po trzech na każde dalsze rozpoczęte 100 000 mieszkańców, nie więcej jednak niż czterdziestu pięciu radnych.”;  
 - **2)** w art. 20 w ust. 2a wyrazy „wojewódzki komisarz wyborczy” zastępuje się wyrazami „komisarz wyborczy”.
 
 **Art. 2.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz.U. z 2001 r. Nr 142, poz. 1592) wprowadza się następujące zmiany:
@@ -66,13 +69,22 @@ source: pdf
 
 - **10)** w art. 23 w ust. 1 na końcu dodaje się wyrazy „i do Senatu Rzeczypospolitej Polskiej”;
 - **11)** w art. 24 w ust. 3 wyraz „organów” zastępuje się wyrazem „komisji”;
-- **12)** art. 25 otrzymuje brzmienie: „Art. 25. 1. Wybory do rad zarządza Prezes Rady Ministrów, w drodze rozporządzenia. Rozporządzenie Prezesa Rady Ministrów podaje się do wiadomości publicznej i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 60 dniu przed dniem wyborów. 2. W rozporządzeniu, o którym mowa w ust. 1, Prezes Rady Ministrów, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określa dni, w których upływają terminy wykonania czynności wyborczych przewidzianych w ustawie (kalendarz wyborczy).”;
+- **12)** art. 25 otrzymuje brzmienie:
+
+  > „Art. 25.  
+  > 1. Wybory do rad zarządza Prezes Rady Ministrów, w drodze rozporządzenia. Rozporządzenie Prezesa Rady Ministrów podaje się do wiadomości publicznej i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 60 dniu przed dniem wyborów.  
+  > 2. W rozporządzeniu, o którym mowa w ust. 1, Prezes Rady Ministrów, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określa dni, w których upływają terminy wykonania czynności wyborczych przewidzianych w ustawie (kalendarz wyborczy).”;  
 - **13)** w art. 28 wyrazy „w 55 dniu przed dniem wyborów” zastępuje się wyrazami „na 2 miesiące przed upływem kadencji”;
 - **14)** w art. 29:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Liczbę radnych wybieranych do danej rady podaje się w rozporządzeniu, o którym mowa w art. 26 ust. 2.”,
     - **b)** skreśla się ust. 3;
 
-- **15)** w art. 30 ust. 1 i 2 otrzymują brzmienie: „Art. 30. 1. Głosowanie w wyborach do rad przeprowadza się w stałych i odrębnych obwodach głosowania utworzonych na obszarze gminy. 2. Podziału gminy na obwody głosowania dokonuje rada gminy, na wniosek wójta (burmistrza, prezydenta miasta), według następujących zasad: 1) stały obwód głosowania powinien obejmować od 500 do 3000 mieszkańców; w przypadkach uzasadnionych miejscowymi warunkami obwód może obejmować mniejszą liczbę mieszkańców, 2) można utworzyć odrębny obwód głosowania w szpitalu, zakładzie pomocy społecznej, zakładzie karnym i areszcie śledczym oraz w oddziale zewnętrznym takiego zakładu i aresztu, jeżeli w dniu wyborów będzie przebywać w nim co najmniej 15 wyborców objętych rejestrem wyborców w gminie, na terenie której położona jest wymieniona jednostka.”;
+- **15)** w art. 30 ust. 1 i 2 otrzymują brzmienie:
+
+  > „Art. 30.  
+  > 1. Głosowanie w wyborach do rad przeprowadza się w stałych i odrębnych obwodach głosowania utworzonych na obszarze gminy.  
+  > 2. Podziału gminy na obwody głosowania dokonuje rada gminy, na wniosek wójta (burmistrza, prezydenta miasta), według następujących zasad:  
+  > 1) stały obwód głosowania powinien obejmować od 500 do 3000 mieszkańców; w przypadkach uzasadnionych miejscowymi warunkami obwód może obejmować mniejszą liczbę mieszkańców, 2) można utworzyć odrębny obwód głosowania w szpitalu, zakładzie pomocy społecznej, zakładzie karnym i areszcie śledczym oraz w oddziale zewnętrznym takiego zakładu i aresztu, jeżeli w dniu wyborów będzie przebywać w nim co najmniej 15 wyborców objętych rejestrem wyborców w gminie, na terenie której położona jest wymieniona jednostka.”;  
 - **16)** w art. 34:
     - **a)** w ust. 2 na końcu dodaje się wyrazy „Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej”,
     - **b)** w ust. 4 po wyrazie „urodzenia” dodaje się przecinek oraz wyrazy „numer ewidencyjny PESEL”;
@@ -115,7 +127,12 @@ source: pdf
 - **49)** art. 188 otrzymuje brzmienie: „Art. 188. Jeżeli w okręgu wyborczym w wyborach do rady gminy, rady powiatu lub sejmiku województwa zarejestrowana liczba kandydatów jest równa liczbie radnych wybieranych w danym okręgu wyborczym lub od niej mniejsza, głosowania nie przeprowadza się, a za wybranych na radnych terytorialna komisja wyborcza uznaje zarejestrowanych kandydatów, a odpowiednio pozostałe mandaty pozostają nieobsadzone.”;
 - **50)** w art. 189 w ust. 2 na końcu pierwszego zdania kropkę zastępuje się przecinkiem i dodaje się wyrazy „którego wzór ustala Państwowa Komisja Wyborcza.”;
 - **51)** w art. 197 ust. 4 otrzymuje brzmienie: „4. W przypadku zmiany składu rady z przyczyn, o których mowa w ust. 1 pkt 1-3 oraz w ust. 2, rada działa w zmienionym składzie do końca kadencji, z zastrzeżeniem ust. 5. Zmiany w składach rad ogłasza, w formie obwieszczenia, komisarz wyborczy w wojewódzkim dzienniku urzędowym.”;
-- **52)** w Dziale VIII dodaje się art. 203a w brzmieniu: „Art. 203a. 1. Jeżeli właściwe organy gminy nie wykonują w terminie, w sposób zgodny z prawem, zadań dotyczących utworzenia obwodów głosowania, powołania obwodowych komisji wyborczych, sporządzenia spisów wyborców lub podziału gminy na okręgi wyborcze, właściwy miejscowo komisarz wyborczy wzywa te organy do wykonania zadań w sposób zgodny z prawem w wyznaczonym terminie, a w razie bezskutecznego upływu terminu występuje do wojewody o zastępcze ich wykonanie. 2. Wojewoda niezwłocznie wykonuje zadanie, o którym mowa w ust. 1, jeżeli wcześniej nie wykonał go właściwy organ gminy. 3. Przepisy ust. 1 i 2 stosuje się odpowiednio, jeżeli właściwy organ nie dokonał podziału powiatu lub województwa na okręgi wyborcze w sposób zgodny z prawem.”.
+- **52)** w Dziale VIII dodaje się art. 203a w brzmieniu:
+
+  > „Art. 203a.  
+  > 1. Jeżeli właściwe organy gminy nie wykonują w terminie, w sposób zgodny z prawem, zadań dotyczących utworzenia obwodów głosowania, powołania obwodowych komisji wyborczych, sporządzenia spisów wyborców lub podziału gminy na okręgi wyborcze, właściwy miejscowo komisarz wyborczy wzywa te organy do wykonania zadań w sposób zgodny z prawem w wyznaczonym terminie, a w razie bezskutecznego upływu terminu występuje do wojewody o zastępcze ich wykonanie.  
+  > 2. Wojewoda niezwłocznie wykonuje zadanie, o którym mowa w ust. 1, jeżeli wcześniej nie wykonał go właściwy organ gminy.  
+  > 3. Przepisy ust. 1 i 2 stosuje się odpowiednio, jeżeli właściwy organ nie dokonał podziału powiatu lub województwa na okręgi wyborcze w sposób zgodny z prawem.”.  
 
 **Art. 5.** W ustawie z dnia 15 września 2000 r. o referendum lokalnym (Dz.U. Nr 88, poz.
 

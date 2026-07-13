@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy na inwestycje wspierające robotyzację i cyfryzację w przedsiębiorstwach w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r.
 poz. 1259 i 1273) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Aktywów Państwowych z dnia 30 marca 2023 r. w sprawie udzielania pomocy na inwestycje wspierające robotyzację i cyfryzację w przedsiębiorstwach w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 621) wprowadza się następujące zmiany:
-1) w § 7 w ust. 3 wyrazy „na rzecz nowej działalności gospodarczej” zastępuje się wyrazami „ , która zapoczątkowuje nową działalność gospodarczą,”;
-2) w § 10 wyrazy „pierwsze i drugie” zastępuje się wyrazami „pierwsze, drugie i trzecie”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Aktywów Państwowych: J. Sasin
+
+**§ 1.** W rozporządzeniu Ministra Aktywów Państwowych z dnia 30 marca 2023 r. w sprawie udzielania pomocy na inwestycje wspierające robotyzację i cyfryzację w przedsiębiorstwach w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 621) wprowadza się następujące zmiany:
+
+- **1)** w § 7 w ust. 3 wyrazy „na rzecz nowej działalności gospodarczej” zastępuje się wyrazami „ , która zapoczątkowuje nową działalność gospodarczą,”;
+- **2)** w § 10 wyrazy „pierwsze i drugie” zastępuje się wyrazami „pierwsze, drugie i trzecie”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Aktywów Państwowych: J. Sasin
 

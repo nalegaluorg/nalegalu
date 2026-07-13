@@ -30,12 +30,17 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Śro
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 12 grudnia 2022 r. zmieniającego rozporządzenie w sprawie szczegółowego zakresu danych ujętych na strategicznych mapach hałasu, sposobu ich prezentacji i formy ich przekazywania (Dz. U. poz. 2795), które stanowią: „ N iniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę 2002/49/WE Parlamentu Europejskiego i Rady z dnia 25 czerwca 2002 r. odnoszącą się do oceny i zarządzania poziomem hałasu w środowisku (Dz. Urz. UE L 189 z 18.07.2002, str. 12 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 101, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 168 z 01.07.2015, str. 1, Dz. Urz. UE L 5 z 10.01.2018, str. 35, Dz. Urz. UE L 170 z 25.06.2019, str. 115, Dz. Urz. UE L 198 z 25.07.2019, str. 241, Dz. Urz. UE L 67 z 05.03.2020, str. 132 oraz Dz. Urz. UE L 269 z 28.07.2021, str. 65).” „§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Klimatu i Środowiska: P. Henning-Kloska
 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 1 lipca 2021 r.
 w sprawie szczegółowego zakresu danych ujętych na strategicznych mapach hałasu, sposobu ich prezentacji i formy ich przekazywania Na podstawie art. 118 ust. 13 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) szczegółowy zakres danych ujętych na strategicznych mapach hałasu sporządzanych dla miast o liczbie mieszkańców większej niż 100 tysięcy, sposób ich prezentacji i formę ich przekazywania;
-2) szczegółowy zakres danych ujętych na strategicznych mapach hałasu sporządzanych dla głównych dróg, głównych linii kolejowych i głównych lotnisk, sposób ich prezentacji i formę ich przekazywania.
-§ 2. Szczegółowy zakres danych ujętych na strategicznych mapach hałasu sporządzanych dla miast o liczbie mieszkańców większej niż 100 tysięcy, sposób ich prezentacji i forma ich przekazywania są określone w załączniku nr 1 do rozporządzenia.
-§ 3. Szczegółowy zakres danych ujętych na strategicznych mapach hałasu sporządzanych dla głównych dróg, głównych linii kolejowych i głównych lotnisk, sposób ich prezentacji i forma ich przekazywania są określone w załączniku nr 2 do rozporządzenia.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** szczegółowy zakres danych ujętych na strategicznych mapach hałasu sporządzanych dla miast o liczbie mieszkańców większej niż 100 tysięcy, sposób ich prezentacji i formę ich przekazywania;
+- **2)** szczegółowy zakres danych ujętych na strategicznych mapach hałasu sporządzanych dla głównych dróg, głównych linii kolejowych i głównych lotnisk, sposób ich prezentacji i formę ich przekazywania.
+
+**§ 2.** Szczegółowy zakres danych ujętych na strategicznych mapach hałasu sporządzanych dla miast o liczbie mieszkańców większej niż 100 tysięcy, sposób ich prezentacji i forma ich przekazywania są określone w załączniku nr 1 do rozporządzenia.
+
+**§ 3.** Szczegółowy zakres danych ujętych na strategicznych mapach hałasu sporządzanych dla głównych dróg, głównych linii kolejowych i głównych lotnisk, sposób ich prezentacji i forma ich przekazywania są określone w załączniku nr 2 do rozporządzenia.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 
 ## Załącznik nr 1 — SZCZEGÓŁOWY ZAKRES DANYCH UJĘTYCH NA STRATEGICZNYCH MAPACH HAŁASU SZCZEGÓŁOWY SPORZĄDZANYCH ZAKRES DLA MIAST DANYCH O LICZBIE UJĘTYCH MIESZKAŃCÓW NA STRATEGICZNYCH WIĘKSZEJ MAPACH NIŻ 100 TYSIĘCY, HAŁASU SPORZĄDZANYCH DLA SPOSÓB MIAST ICH O LICZBIE PREZENTACJI MIESZKAŃCÓW I FORMA ICH WIĘKSZEJ PRZEKAZYWANIA NIŻ 100 TYSIĘCY, SPOSÓB ICH PREZENTACJI I FORMA ICH PRZEKAZYWANIA
 

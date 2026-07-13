@@ -28,13 +28,17 @@ source: pdf
 
 w sprawie wysokości miesięcznego wynagrodzenia przewodniczącego oraz członków Rady Narodowego Centrum Badań i Rozwoju Na podstawie art. 14 ust. 8 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2024 r.
 poz. 1170) zarządza się, co następuje:
-§ 1. Przewodniczącemu Rady Narodowego Centrum Badań i Rozwoju, zwanej dalej „Radą”, przysługuje miesięczne wynagrodzenie w wysokości 8760 zł, a pozostałym członkom Rady – w wysokości 4800 zł.
-§ 2. Wysokość miesięcznego wynagrodzenia przewodniczącego i członka Rady obniża się każdorazowo o 600 zł w przypadku ich nieobecności na posiedzeniu Rady – łącznie niewięcej jednak niż o 2400 zł.
-§ 3. Wysokość miesięcznego wynagrodzenia członka Rady, który:
-1) został wyznaczony przez przewodniczącego do prowadzenia posiedzenia Rady w jego zastępstwie, podwyższa się każdorazowo o 600 zł;
-2) przewodniczy komisji Rady, o której mowa w art. 14 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, albo komisji odwoławczej Rady, o której mowa w art. 40 ust. 2 tej ustawy, podwyższa się o 360 zł.
-§ 4. Traci moc rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 17 września 2010 r. w sprawie wysokości miesięcznego wynagrodzenia przewodniczącego oraz członków Rady Narodowego Centrum Badań i Rozwoju (Dz. U.
-poz. 1199).
-§ 5. Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: M. Kulasek
+
+**§ 1.** Przewodniczącemu Rady Narodowego Centrum Badań i Rozwoju, zwanej dalej „Radą”, przysługuje miesięczne wynagrodzenie w wysokości 8760 zł, a pozostałym członkom Rady – w wysokości 4800 zł.
+
+**§ 2.** Wysokość miesięcznego wynagrodzenia przewodniczącego i członka Rady obniża się każdorazowo o 600 zł w przypadku ich nieobecności na posiedzeniu Rady – łącznie niewięcej jednak niż o 2400 zł.
+
+**§ 3.** Wysokość miesięcznego wynagrodzenia członka Rady, który:
+
+- **1)** został wyznaczony przez przewodniczącego do prowadzenia posiedzenia Rady w jego zastępstwie, podwyższa się każdorazowo o 600 zł;
+- **2)** przewodniczy komisji Rady, o której mowa w art. 14 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, albo komisji odwoławczej Rady, o której mowa w art. 40 ust. 2 tej ustawy, podwyższa się o 360 zł.
+
+**§ 4.** Traci moc rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 17 września 2010 r. w sprawie wysokości miesięcznego wynagrodzenia przewodniczącego oraz członków Rady Narodowego Centrum Badań i Rozwoju (Dz. U. poz. 1199).
+
+**§ 5.** Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: M. Kulasek
 

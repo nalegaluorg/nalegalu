@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000525) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/525/text.pdf) |
 
 w sprawie wielokrotności kwoty bazowej stanowiącej podstawę ustalenia wynagrodzenia zasadniczego Prezesa, wiceprezesa oraz pozostałych członków Krajowej Izby Odwoławczej Na podstawie art. 484 ust. 5 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. poz. 2019, z późn. zm. ) zarządza się, co następuje:
-§ 1. Określa się następujące wielokrotności kwoty bazowej stanowiącej podstawę ustalenia wynagrodzenia zasadniczego Prezesa Krajowej Izby Odwoławczej, zwanej dalej „Izbą”, wiceprezesa oraz pozostałych członków Izby:
-1) Prezes Izby – 6,2;
-2) wiceprezes Izby – 5,8;
-3) członek Izby inny niż wymieniony w pkt 1 i 2 – 5,6.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** Określa się następujące wielokrotności kwoty bazowej stanowiącej podstawę ustalenia wynagrodzenia zasadniczego Prezesa Krajowej Izby Odwoławczej, zwanej dalej „Izbą”, wiceprezesa oraz pozostałych członków Izby:
+
+- **1)** Prezes Izby – 6,2;
+- **2)** wiceprezes Izby – 5,8;
+- **3)** członek Izby inny niż wymieniony w pkt 1 i 2 – 5,6.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty Na podstawie art. 94 ust. 2 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r.
 poz. 1921 i 2020) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 16 marca 2010 r. w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty (Dz. U. poz. 259) w § 1 w pkt 5 lit. a otrzymuje brzmienie: „a) podróży służbowych na obszarze kraju – kierownika jednostki organizacyjnej, w której funkcjonariusz pełni służbę,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 16 marca 2010 r. w sprawie określenia wysokości i trybu przyznawania funkcjonariuszom Centralnego Biura Antykorupcyjnego należności za podróże służbowe i świadczeń z tytułu przeniesienia lub delegowania do czasowego pełnienia służby w innej miejscowości oraz sposobu ich wypłaty (Dz. U. poz. 259) w § 1 w pkt 5 lit. a otrzymuje brzmienie: „a) podróży służbowych na obszarze kraju – kierownika jednostki organizacyjnej, w której funkcjonariusz pełni służbę,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

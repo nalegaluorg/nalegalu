@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001163) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1163/text.pdf) |
 
 w sprawie upoważnienia dla ekspertów oraz przedstawicieli istotnie zainteresowanych państw biorących udział w pracach Państwowej Komisji Badania Wypadków Morskich Na podstawie art. 31 ust. 3 ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich (Dz. U. poz. 1068) zarządza się, co następuje:
-§ 1. Wzór upoważnienia dla ekspertów biorących udział w pracach Państwowej Komisji Badania Wypadków Morskich, korzystających z uprawnień przysługujących członkom Komisji, określa załącznik nr 1 do rozporządzenia.
-§ 2. Wzór upoważnienia dla przedstawicieli istotnie zainteresowanych państw biorących udział w pracach Państwowej Komisji Badania Wypadków Morskich, korzystających z niektórych uprawnień przysługujących członkom Komisji, określa załącznik nr 2 do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem 27 października 2012 r.
-Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak Minister Transportu, Budownictwa i Gospodarki Morskiej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Transportu, Budownictwa i Gospodarki Morskiej (Dz. U. Nr 248, poz. 1494).
+
+**§ 1.** Wzór upoważnienia dla ekspertów biorących udział w pracach Państwowej Komisji Badania Wypadków Morskich, korzystających z uprawnień przysługujących członkom Komisji, określa załącznik nr 1 do rozporządzenia.
+
+**§ 2.** Wzór upoważnienia dla przedstawicieli istotnie zainteresowanych państw biorących udział w pracach Państwowej Komisji Badania Wypadków Morskich, korzystających z niektórych uprawnień przysługujących członkom Komisji, określa załącznik nr 2 do rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 27 października 2012 r. Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak Minister Transportu, Budownictwa i Gospodarki Morskiej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Transportu, Budownictwa i Gospodarki Morskiej (Dz. U. Nr 248, poz. 1494).
 
 ## Załącznik nr 1 — WZÓR UPOWAŻNIENIA DLA EKSPERTÓW BIORĄCYCH UDZIAŁ Dziennik Ustaw W PRACACH PAŃSTWOWEJ KOMISJI – 2 – BADANIA WYPADKÓW MORSKICH, Poz. 1163 KORZYSTAJĄCYCH Z UPRAWNIEŃ PRZYSŁUGUJĄCYCH Załączniki do rozporządzenia Ministra CZŁONKOM Transportu, Budownictwa i Gospodarki Morskiej z dnia 19 października 2012 r. (poz. 1163) KOMISJI Załącznik nr 1 WZÓR UPOWAŻNIENIA DLA EKSPERTÓW BIORĄCYCH UDZIAŁ W PRACACH PAŃSTWOWEJ KOMISJI BADANIA WYPADKÓW MORSKICH, KORZYSTAJĄCYCH Z UPRAWNIEŃ PRZYSŁUGUJĄCYCH CZŁONKOM KOMISJI PAŃSTWOWA KOMISJA Rzeczpospolita Polska BADANIA WYPADKÓW MORSKICH Republic of Poland STATE COMMISSION ON MARITIME ACCIDENT INVESTIGATION UPOWAŻNIENIE nr / Authorisation No. ……………….
 

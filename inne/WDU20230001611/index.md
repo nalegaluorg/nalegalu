@@ -27,11 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przedłużenia terminu do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków Na podstawie art. 50 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 27 czerwca 2019 r. w sprawie przedłużenia terminu do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków (Dz. U. z 2023 r. poz. 902) w § 1:
-1) w ust. 1:
-a) w pkt 1 wyrazy „1 grudnia 2023 r.” zastępuje się wyrazami „1 grudnia 2025 r.”,
-b) w pkt 2 wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2025 r.”;
-2) w ust. 2 wyrazy „30 listopada 2023 r.” zastępuje się wyrazami „30 listopada 2025 r.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 27 czerwca 2019 r. w sprawie przedłużenia terminu do wpłaty przez podatników podatku dochodowego od osób fizycznych podatku należnego od dochodów z niezrealizowanych zysków (Dz. U. z 2023 r. poz. 902) w § 1:
+
+- **1)** w ust. 1:
+    - **a)** w pkt 1 wyrazy „1 grudnia 2023 r.” zastępuje się wyrazami „1 grudnia 2025 r.”,
+    - **b)** w pkt 2 wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2025 r.”;
+
+- **2)** w ust. 2 wyrazy „30 listopada 2023 r.” zastępuje się wyrazami „30 listopada 2025 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: M. Rzeczkowska
 

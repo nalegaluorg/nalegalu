@@ -34,8 +34,21 @@ source: pdf
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Jeżeli prace konserwatorskie lub restauratorskie, roboty budowlane, badania konserwatorskie, badania architektoniczne lub działania, o których mowa w art. 36 ust. 1 pkt 7, 8 i 10–12, wykonane przy zabytku wpisanym do rejestru bez wymaganego pozwolenia wojewódzkiego konserwatora zabytków lub w sposób odbiegający od zakresu i warunków określonych w pozwoleniu lub przemieszczenie zabytku nieruchomego wpisanego do rejestru bez wymaganego pozwolenia wojewódzkiego konserwatora zabytków, lub w sposób odbiegający od zakresu i warunków określonych w pozwoleniu, nie powodują jego zniszczenia, uszkodzenia lub nie skutkują niewłaściwym korzystaniem z zabytku i nie zachodzi potrzeba uporządkowania terenu, wojewódzki konserwator zabytków wydaje decyzję o odstąpieniu od nałożenia obowiązków, o których mowa w ust. 1. Wojewódzki konserwator zabytków może nałożyć obowiązek wykonania w określonym terminie, nie krótszym niż miesiąc, dokumentacji wykonanych prac, robót lub badań.”,
     - **c)** uchyla się ust. 3;
 
-- **2)** art. 47 otrzymuje brzmienie: „Art. 47. 1. Wojewódzki konserwator zabytków może w drodze decyzji zmienić lub cofnąć wydane pozwolenie, o którym mowa w art. 36 ust. 1, jeżeli w trakcie wykonywania działań określonych w pozwoleniu wystąpiły nowe fakty lub okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku. 2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może w drodze decyzji zmienić lub cofnąć wydane pozwolenie, o którym mowa w art. 36 ust. 1a, jeżeli w trakcie wykonywania prac lub badań określonych w pozwoleniu wystąpiły nowe fakty i okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku. 3. Wojewódzki konserwator zabytków może wstrzymać wykonanie pozwolenia, o którym mowa w art. 36 ust. 1, jeżeli zachodzi prawdopodobieństwo zmiany lub cofnięcia tego pozwolenia. 4. Postanowienie o wstrzymaniu wykonania pozwolenia, o którym mowa w art. 36 ust. 1, wygasa po upływie 3 miesięcy od dnia jego doręczenia, jeżeli w tym terminie wojewódzki konserwator zabytków nie wyda decyzji o zmianie lub cofnięciu tego pozwolenia.”;
-- **3)** po art. 93 dodaje się art. 93a w brzmieniu: „Art. 93a. 1. Właściwość miejscową wojewódzkich konserwatorów zabytków ustala się według miejsca: 1) położenia zabytku nieruchomego; 2) przechowywania zabytku ruchomego. 2. W przypadku gdy zabytek nieruchomy położony jest na terenie dwóch lub więcej województw, właściwego wojewódzkiego konserwatora zabytków wyznacza minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w drodze postanowienia. 3. Wojewódzki konserwator zabytków właściwy w dniu wszczęcia postępowania dotyczącego zabytku ruchomego pozostaje właściwy do czasu jego zakończenia.”.
+- **2)** art. 47 otrzymuje brzmienie:
+
+  > „Art. 47.  
+  > 1. Wojewódzki konserwator zabytków może w drodze decyzji zmienić lub cofnąć wydane pozwolenie, o którym mowa w art. 36 ust. 1, jeżeli w trakcie wykonywania działań określonych w pozwoleniu wystąpiły nowe fakty lub okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku.  
+  > 2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może w drodze decyzji zmienić lub cofnąć wydane pozwolenie, o którym mowa w art. 36 ust. 1a, jeżeli w trakcie wykonywania prac lub badań określonych w pozwoleniu wystąpiły nowe fakty i okoliczności, mogące doprowadzić do uszkodzenia lub zniszczenia zabytku.  
+  > 3. Wojewódzki konserwator zabytków może wstrzymać wykonanie pozwolenia, o którym mowa w art. 36 ust. 1, jeżeli zachodzi prawdopodobieństwo zmiany lub cofnięcia tego pozwolenia.  
+  > 4. Postanowienie o wstrzymaniu wykonania pozwolenia, o którym mowa w art. 36 ust. 1, wygasa po upływie 3 miesięcy od dnia jego doręczenia, jeżeli w tym terminie wojewódzki konserwator zabytków nie wyda decyzji o zmianie lub cofnięciu tego pozwolenia.”;  
+- **3)** po art. 93 dodaje się art. 93a w brzmieniu:
+
+  > „Art. 93a.  
+  > 1. Właściwość miejscową wojewódzkich konserwatorów zabytków ustala się według miejsca:  
+  > 1) położenia zabytku nieruchomego;  
+  > 2) przechowywania zabytku ruchomego.  
+  > 2. W przypadku gdy zabytek nieruchomy położony jest na terenie dwóch lub więcej województw, właściwego wojewódzkiego konserwatora zabytków wyznacza minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w drodze postanowienia.  
+  > 3. Wojewódzki konserwator zabytków właściwy w dniu wszczęcia postępowania dotyczącego zabytku ruchomego pozostaje właściwy do czasu jego zakończenia.”.  
 
 **Art. 2.** W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281) wprowadza się następujące zmiany:
 
@@ -49,7 +62,10 @@ source: pdf
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) wykaz producentów i handlowców, w stosunku do których został wniesiony sprzeciw, o którym mowa w art. 11 ust. 8, wraz z informacją, czy decyzja w sprawie wniesienia tego sprzeciwu jest ostateczna.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Wykaz, o którym mowa w ust. 1 pkt 2, zawiera oznaczenie stron umowy, opis przyczyny oraz datę wniesienia sprzeciwu na zawarcie umowy, a w przypadku gdy decyzja w sprawie wniesienia tego sprzeciwu stała się ostateczna – także tę datę.”.
 
-**Art. 3.** W ustawie z dnia 7 maja 2009 r. o towarach paczkowanych (Dz. U. z 2022 r. poz. 2255) w art. 26 dodaje się ust. 7 w brzmieniu: „7. Sprawę wpisu znaku identyfikacyjnego producenta do rejestru uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie strony, jeżeli w terminie 14 dni od dnia otrzymania zgłoszenia Prezes Głównego Urzędu Miar: 1) nie dokona zawiadomienia, o którym mowa w ust. 3, albo 2) nie wyda decyzji, o której mowa w art. 122a § 2 pkt 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).”.
+**Art. 3.** W ustawie z dnia 7 maja 2009 r. o towarach paczkowanych (Dz. U. z 2022 r. poz. 2255) w art. 26 dodaje się ust. 7 w brzmieniu:
+
+> „7. Sprawę wpisu znaku identyfikacyjnego producenta do rejestru uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie strony, jeżeli w terminie 14 dni od dnia otrzymania zgłoszenia Prezes Głównego Urzędu Miar:  
+> 1) nie dokona zawiadomienia, o którym mowa w ust. 3, albo 2) nie wyda decyzji, o której mowa w art. 122a § 2 pkt 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).”.  
 
 **Art. 4.** W ustawie z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630) wprowadza się następujące zmiany:
 

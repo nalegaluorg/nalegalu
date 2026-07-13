@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2423/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, 2110, 2217 i 2361) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357 i 2164 oraz z 2017 r. poz. 1244 i 1766) wprowadza się następujące zmiany:
-1) w załączniku nr 1 do rozporządzenia dodaje się lp. 66–68 w brzmieniu określonym w załączniku nr 1 do niniejszego rozporządzenia;
-2) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Minister Zdrowia: K. Radziwiłł
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu ambulatoryjnej opieki specjalistycznej (Dz. U. z 2016 r. poz. 357 i 2164 oraz z 2017 r. poz. 1244 i 1766) wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 1 do rozporządzenia dodaje się lp. 66–68 w brzmieniu określonym w załączniku nr 1 do niniejszego rozporządzenia;
+- **2)** załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. Minister Zdrowia: K. Radziwiłł
 

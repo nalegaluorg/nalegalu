@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych Na podstawie art. 18 § 1 pkt 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2019 r.
 poz. 2216 oraz z 2020 r. poz. 190) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 6 grudnia 2002 r. w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 1857 oraz z 2006 r. poz. 393) po § 18 dodaje się § 18a w brzmieniu: „§ 18a. Okresy przechowywania w sądzie akt spraw zakończonych prawomocnie po dniu 17 października 1997 r., niezaliczonych do kategorii A, których końcowy termin przechowywania upływa przed dniem 3 kwietnia 2021 r., innych niż akta spraw o wykroczenia i wykroczenia skarbowe, ulegają wydłużeniu do dnia 3 lipca 2021 r.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 6 grudnia 2002 r. w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. poz. 1857 oraz z 2006 r. poz. 393) po § 18 dodaje się § 18a w brzmieniu: „§ 18a. Okresy przechowywania w sądzie akt spraw zakończonych prawomocnie po dniu 17 października 1997 r., niezaliczonych do kategorii A, których końcowy termin przechowywania upływa przed dniem 3 kwietnia 2021 r., innych niż akta spraw o wykroczenia i wykroczenia skarbowe, ulegają wydłużeniu do dnia 3 lipca 2021 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

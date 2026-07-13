@@ -27,48 +27,68 @@ source: pdf
 
 w sprawie turnusów readaptacyjno-kondycyjnych dla weteranów poszkodowanych-funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz weteranów poszkodowanych-funkcjonariuszy Agencji Wywiadu Na podstawie art. 29a ust. 11 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
 z 2020 r. poz. 2055) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) tryb kierowania weteranów poszkodowanych-funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, oraz weteranów poszkodowanych-funkcjonariuszy Agencji Wywiadu, zwanej dalej „AW”, wraz z pełnoletnim najbliższym członkiem rodziny, na turnus readaptacyjno-kondycyjny;
-2) ramowy program turnusu readaptacyjno-kondycyjnego;
-3) wzór wniosku weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW o skierowanie na turnus readaptacyjno-kondycyjny i wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW na turnus readaptacyjno-kondycyjny – wraz z miejscem na stanowisko podmiotu kierującego na turnus;
-4) podmiot kierujący na turnus readaptacyjno-kondycyjny;
-5) miejsce prowadzenia turnusów readaptacyjno-kondycyjnych.
-§ 2. 1. Na turnus readaptacyjno-kondycyjny:
-1) weterana poszkodowanego-funkcjonariusza ABW kieruje Szef ABW;
-2) weterana poszkodowanego-funkcjonariusza AW kieruje Szef AW.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** tryb kierowania weteranów poszkodowanych-funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, zwanej dalej „ABW”, oraz weteranów poszkodowanych-funkcjonariuszy Agencji Wywiadu, zwanej dalej „AW”, wraz z pełnoletnim najbliższym członkiem rodziny, na turnus readaptacyjno-kondycyjny;
+- **2)** ramowy program turnusu readaptacyjno-kondycyjnego;
+- **3)** wzór wniosku weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW o skierowanie na turnus readaptacyjno-kondycyjny i wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW na turnus readaptacyjno-kondycyjny – wraz z miejscem na stanowisko podmiotu kierującego na turnus;
+- **4)** podmiot kierujący na turnus readaptacyjno-kondycyjny;
+- **5)** miejsce prowadzenia turnusów readaptacyjno-kondycyjnych.
+
+**§ 2.**
+
+1. Na turnus readaptacyjno-kondycyjny:
+
+- **1)** weterana poszkodowanego-funkcjonariusza ABW kieruje Szef ABW;
+- **2)** weterana poszkodowanego-funkcjonariusza AW kieruje Szef AW.
+
 2. Skierowanie na turnus readaptacyjno-kondycyjny następuje na podstawie wniosku, który składają:
-1) weteran poszkodowany-funkcjonariusz ABW do Szefa ABW;
-2) weteran poszkodowany-funkcjonariusz AW do Szefa AW.
+
+- **1)** weteran poszkodowany-funkcjonariusz ABW do Szefa ABW;
+- **2)** weteran poszkodowany-funkcjonariusz AW do Szefa AW.
+
 3. Wzór wniosku weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW o skierowanie na turnus readaptacyjno-kondycyjny jest określony w załączniku nr 1 do rozporządzenia.
-§ 3. 1. Weteran poszkodowany-funkcjonariusz ABW oraz weteran poszkodowany-funkcjonariusz AW mogą dołączyć do wniosku, o którym mowa w § 2 ust. 2, zgłoszenie pełnoletniego najbliższego członka rodziny weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW na turnus readaptacyjno-kondycyjny.
+
+**§ 3.**
+
+1. Weteran poszkodowany-funkcjonariusz ABW oraz weteran poszkodowany-funkcjonariusz AW mogą dołączyć do wniosku, o którym mowa w § 2 ust. 2, zgłoszenie pełnoletniego najbliższego członka rodziny weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW na turnus readaptacyjno-kondycyjny.
+
 2. Wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW na turnus readaptacyjno-kondycyjny jest określony w załączniku nr 2 do rozporządzenia.
-§ 4. 1. Po otrzymaniu wniosku o skierowanie na turnus readaptacyjno-kondycyjny:
-1) Szef ABW kieruje weterana poszkodowanego-funkcjonariusza ABW do lekarza podmiotu leczniczego, dla którego podmiotem tworzącym jest Szef ABW, oraz do psychologa zatrudnionego lub pełniącego służbę w ABW,
-2) Szef AW kieruje weterana poszkodowanego-funkcjonariusza AW do lekarza podmiotu leczniczego, dla którego podmiotem tworzącym jest Szef AW, oraz do psychologa zatrudnionego lub pełniącego służbę w AW – w celu określenia przeciwwskazań do udziału w turnusie readaptacyjno-kondycyjnym.
+
+**§ 4.**
+
+1. Po otrzymaniu wniosku o skierowanie na turnus readaptacyjno-kondycyjny:
+
+- **1)** Szef ABW kieruje weterana poszkodowanego-funkcjonariusza ABW do lekarza podmiotu leczniczego, dla którego podmiotem tworzącym jest Szef ABW, oraz do psychologa zatrudnionego lub pełniącego służbę w ABW,
+- **2)** Szef AW kieruje weterana poszkodowanego-funkcjonariusza AW do lekarza podmiotu leczniczego, dla którego podmiotem tworzącym jest Szef AW, oraz do psychologa zatrudnionego lub pełniącego służbę w AW – w celu określenia przeciwwskazań do udziału w turnusie readaptacyjno-kondycyjnym.
+
 2. Weterana poszkodowanego-funkcjonariusza ABW albo weterana poszkodowanego-funkcjonariusza AW kieruje się na turnus readaptacyjno-kondycyjny po otrzymaniu od lekarza oraz psychologa informacji o braku przeciwwskazań do udziału w turnusie.
+
 3. O skierowaniu na turnus readaptacyjno-kondycyjny albo o odmowie skierowania wraz z podaniem przyczyny odmowy:
-1) Szef ABW niezwłocznie zawiadamia weterana poszkodowanego-funkcjonariusza ABW;
-2) Szef AW niezwłocznie zawiadamia weterana poszkodowanego-funkcjonariusza AW.
-§ 5. 1. Turnusy readaptacyjno-kondycyjne są prowadzone w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub w jednostkach nadzorowanych przez ministra właściwego do spraw wewnętrznych.
+
+- **1)** Szef ABW niezwłocznie zawiadamia weterana poszkodowanego-funkcjonariusza ABW;
+- **2)** Szef AW niezwłocznie zawiadamia weterana poszkodowanego-funkcjonariusza AW.
+
+**§ 5.**
+
+1. Turnusy readaptacyjno-kondycyjne są prowadzone w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub w jednostkach nadzorowanych przez ministra właściwego do spraw wewnętrznych.
+
 2. Ramowy program turnusu readaptacyjno-kondycyjnego jest określony w załączniku nr 3 do rozporządzenia.
-§ 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki Załączniki Prezesa Rady Ministrów z dnia (poz. ) Załącznik nr 1 WZÓR WZÓR Szef Agencji .........................................................
-WNIOSEK WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA ABW / WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA AW* O SKIEROWANIE NA TURNUS READAPTACYJNO-KONDYCYJNY A. WYPEŁNIA SKŁADAJĄCY WNIOSEK O SKIEROWANIE NA TURNUS READAPTACYJNO-KONDYCYJNY I. Wnioskodawca
-1) Imię i nazwisko: …………….…..…..…………..............
-2) Numer PESEL: .………………………..
-3) Seria i numer legitymacji weterana poszkodowanego: ……………………………...……...
-4) Miejsce służby lub pracy: …………………….……………………………………………..
-5) Adres zamieszkania: …………………………………………..…………………….……....
-6) Adres do korespondencji: …………………………………………………………………...
-7) Numer telefonu kontaktowego: ……………………………………………………………..
-II. Do wniosku o skierowanie na turnus readaptacyjno-kondycyjny dołącza się:
-1) kopię decyzji o przyznaniu statusu weterana poszkodowanego;
-2) zaświadczenie lekarskie o braku przeciwwskazań medycznych do udziału w turnusie;
-3) opinię psychologa o braku przeciwwskazań do udziału w turnusie;
-4) zgłoszenie pełnoletniego najbliższego członka rodziny weterana poszkodowanego na turnus readaptacyjno-kondycyjny, w przypadku udziału członka rodziny .
-……..……………………………… B. WYPEŁNIA PODMIOT KIERUJĄCY NA TURNUS READAPTACYJNO-KONDYCYJNY Kieruję / odmawiam skierowania* na turnus readaptacyjno-kondycyjny do ………………….
-…………………………………….. w terminie od …………..…….. do …..……..……..........
-……………………………………………………… Niepotrzebne skreślić.
+
+**§ 6.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezes Rady Ministrów: M. Morawiecki Załączniki Prezesa Rady Ministrów z dnia (poz. ) Załącznik nr 1 WZÓR WZÓR Szef Agencji ......................................................... WNIOSEK WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA ABW / WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA AW* O SKIEROWANIE NA TURNUS READAPTACYJNO-KONDYCYJNY A. WYPEŁNIA SKŁADAJĄCY WNIOSEK O SKIEROWANIE NA TURNUS READAPTACYJNO-KONDYCYJNY I. Wnioskodawca
+
+- **1)** Imię i nazwisko: …………….…..…..…………..............
+- **2)** Numer PESEL: .………………………..
+- **3)** Seria i numer legitymacji weterana poszkodowanego: ……………………………...……...
+- **4)** Miejsce służby lub pracy: …………………….……………………………………………..
+- **5)** Adres zamieszkania: …………………………………………..…………………….……....
+- **6)** Adres do korespondencji: …………………………………………………………………...
+- **7)** Numer telefonu kontaktowego: …………………………………………………………….. II. Do wniosku o skierowanie na turnus readaptacyjno-kondycyjny dołącza się:
+- **1)** kopię decyzji o przyznaniu statusu weterana poszkodowanego;
+- **2)** zaświadczenie lekarskie o braku przeciwwskazań medycznych do udziału w turnusie;
+- **3)** opinię psychologa o braku przeciwwskazań do udziału w turnusie;
+- **4)** zgłoszenie pełnoletniego najbliższego członka rodziny weterana poszkodowanego na turnus readaptacyjno-kondycyjny, w przypadku udziału członka rodziny . ……..……………………………… B. WYPEŁNIA PODMIOT KIERUJĄCY NA TURNUS READAPTACYJNO-KONDYCYJNY Kieruję / odmawiam skierowania* na turnus readaptacyjno-kondycyjny do …………………. …………………………………….. w terminie od …………..…….. do …..……..…….......... ……………………………………………………… Niepotrzebne skreślić.
 
 ## Załącznik nr 2 — WZÓR WZÓR ZGŁOSZENIE PEŁNOLETNIEGO NAJBLIŻSZEGO CZŁONKA RODZINY WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA ABW / WETERANA POSZKODOWANEGO-FUNKCJONARIUSZA AW NA TURNUS READAPTACYJNO-KONDYCYJNY A. WYPEŁNIA SKŁADAJĄCY WNIOSEK O SKIEROWANIE NA TURNUS READAPTACYJNO-KONDYCYJNY I. Dane składającego wniosek
 

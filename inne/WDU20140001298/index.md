@@ -26,19 +26,22 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001298) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1298/text.pdf) |
 
 w sprawie wzorów oznakowania opakowań Na podstawie art. 15 ust. 4 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. poz. 888) zarządza się, co następuje:
-§ 1. Określa się:
-1) wzory oznakowania opakowań wskazujące na poszczególne rodzaje materiałów, z których opakowanie zostało wykonane, przy czym wzory oznakowania opakowania:
-a) wykonanego z tworzyw sztucznych stanowią załącznik nr 1 do rozporządzenia,
-b) wykonanego z papieru i tektury stanowią załącznik nr 2 do rozporządzenia,
-c) wykonanego ze stali i aluminium stanowią załącznik nr 3 do rozporządzenia,
-d) wykonanego z drewna, w tym korka, stanowią załącznik nr 4 do rozporządzenia,
-e) wykonanego z bawełny i juty stanowią załącznik nr 5 do rozporządzenia,
-f) wykonanego ze szkła stanowią załącznik nr 6 do rozporządzenia,
-g) wielomateriałowego stanowią załącznik nr 7 do rozporządzenia;
-2) wzór oznakowania opakowania wskazującego na możliwość wielokrotnego użycia opakowania, który stanowi załącznik nr 8 do rozporządzenia;
-3) wzór oznakowania opakowania wskazującego na przydatność opakowania do recyklingu, który stanowi załącznik nr 9 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-Minister Środowiska: M.H. Grabowski Załączniki do rozporządzenia z dnia… (poz. …) Załącznik nr 1 WZORY OZNAKOWANIA OPAKOWANIA WYKONANEGO Z TWORZYW WZORY OZNAKOWANIA OPAKOWANIA SZTUCZNYCH WYKONANEGO Z TWORZYW SZTUCZNYCH Lp. Rodzaj materiału, z którego Wzór oznakowania opakowania opakowanie zostało wykonane 1 2 3 1 Politereftalan etylenu 2 Polietylen dużej gęstości 3 Polichlorek winylu 4 Polietylen małej gęstości 5 Polipropylen 6 Polistyren 7 Tworzywa sztuczne inne niż wskazane w lp. 1–6 Należy zastosować jeden z wzorów oznakowania opakowania.
+
+**§ 1.** Określa się:
+
+- **1)** wzory oznakowania opakowań wskazujące na poszczególne rodzaje materiałów, z których opakowanie zostało wykonane, przy czym wzory oznakowania opakowania:
+    - **a)** wykonanego z tworzyw sztucznych stanowią załącznik nr 1 do rozporządzenia,
+    - **b)** wykonanego z papieru i tektury stanowią załącznik nr 2 do rozporządzenia,
+    - **c)** wykonanego ze stali i aluminium stanowią załącznik nr 3 do rozporządzenia,
+    - **d)** wykonanego z drewna, w tym korka, stanowią załącznik nr 4 do rozporządzenia,
+    - **e)** wykonanego z bawełny i juty stanowią załącznik nr 5 do rozporządzenia,
+    - **f)** wykonanego ze szkła stanowią załącznik nr 6 do rozporządzenia,
+    - **g)** wielomateriałowego stanowią załącznik nr 7 do rozporządzenia;
+
+- **2)** wzór oznakowania opakowania wskazującego na możliwość wielokrotnego użycia opakowania, który stanowi załącznik nr 8 do rozporządzenia;
+- **3)** wzór oznakowania opakowania wskazującego na przydatność opakowania do recyklingu, który stanowi załącznik nr 9 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. Minister Środowiska: M.H. Grabowski Załączniki do rozporządzenia z dnia… (poz. …) Załącznik nr 1 WZORY OZNAKOWANIA OPAKOWANIA WYKONANEGO Z TWORZYW WZORY OZNAKOWANIA OPAKOWANIA SZTUCZNYCH WYKONANEGO Z TWORZYW SZTUCZNYCH Lp. Rodzaj materiału, z którego Wzór oznakowania opakowania opakowanie zostało wykonane 1 2 3 1 Politereftalan etylenu 2 Polietylen dużej gęstości 3 Polichlorek winylu 4 Polietylen małej gęstości 5 Polipropylen 6 Polistyren 7 Tworzywa sztuczne inne niż wskazane w lp. 1–6 Należy zastosować jeden z wzorów oznakowania opakowania.
 
 ## Załącznik nr 2 — WZORY WZORY OZNAKOWANIA OZNAKOWANIA OPAKOWANIA OPAKOWANIA WYKONANEGO WYKONANEGO Z PAPIERU Z PAPIERU I TEKTURY I TEKTURY Lp. Rodzaj materiału, z którego Wzór oznakowania opakowania opakowanie zostało wykonane 1 2 3 1 Tektura falista 2 Tektura płaska 3 Papier Należy zastosować jeden z wzorów oznakowania opakowania.
 

@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie wyznaczenia jednego sądu rejonowego i jednego sądu okręgowego właściwych do rozpoznawania spraw w europejskim postępowaniu nakazowym oraz w europejskim postępowaniu w sprawie drobnych roszczeń wszczętych za pośrednictwem systemu teleinformatycznego obsługującego te postępowania Na podstawie art. 20 pkt 9a ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r.
 poz. 334) zarządza się, co następuje:
-§ 1. Wyznacza się Sąd Rejonowy dla Wrocławia-Fabrycznej we Wrocławiu oraz Sąd Okręgowy we Wrocławiu jako właściwe do rozpoznawania spraw w europejskim postępowaniu nakazowym oraz w europejskim postępowaniu w sprawie drobnych roszczeń wszczętych za pośrednictwem systemu teleinformatycznego obsługującego te postępowania.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-Minister Sprawiedliwości: A. Bodnar
+
+**§ 1.** Wyznacza się Sąd Rejonowy dla Wrocławia-Fabrycznej we Wrocławiu oraz Sąd Okręgowy we Wrocławiu jako właściwe do rozpoznawania spraw w europejskim postępowaniu nakazowym oraz w europejskim postępowaniu w sprawie drobnych roszczeń wszczętych za pośrednictwem systemu teleinformatycznego obsługującego te postępowania.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Minister Sprawiedliwości: A. Bodnar
 

@@ -27,22 +27,6 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowego sposobu i trybu prowadzenia rejestru programów telewizyjnych rozpowszechnianych wyłącznie w systemie teleinformatycznym i programów rozprowadzanych Na podstawie art. 46 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805 oraz z 2021 r.
 poz. 1676) zarządza się, co następuje:
-§ 1. W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 27 kwietnia 2011 r. w sprawie szczegółowego sposobu i trybu prowadzenia rejestru programów telewizyjnych rozpowszechnianych wyłącznie w systemie teleinformatycznym i programów rozprowadzanych (Dz. U. poz. 603 oraz z 2018 r. poz. 2111) wprowadza się następujące zmiany:
-1) § 5 otrzymuje brzmienie: „§ 5. 1. Oznaczenie księgi rejestrowej, o której mowa w § 2 ust. 1, zawiera numer księgi, nazwę nadawcy i jego siedzibę, adres korespondencyjny, w tym adres poczty elektronicznej, oraz datę założenia księgi.
-2. Księga rejestrowa składa się z następujących rubryk:
-1) rubryka pierwsza – liczba porządkowa;
-2) rubryka druga – data wpisu;
-3) rubryka trzecia – nazwa programu;
-4) rubryka czwarta – sposób rozpowszechniania programu;
-5) rubryka piąta – charakter programu;
-6) rubryka szósta – państwa, w których możliwy jest odbiór programu;
-7) rubryka siódma – wzmianka o wykreśleniu wpisu;
-8) rubryka ósma – uwagi.”;
-2) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
-3) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
-§ 2. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski Załączniki do rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 28 października 2021 r. (poz. …) Załącznik nr 1 WZÓR
 1. Nr zgłoszenia ZGŁOSZENIE O DOKONANIE WPISU DO REJESTRU
 2. Data przyjęcia zgłoszenia PROGRAMÓW TELEWIZYJNYCH ROZPOWSZECHNIANYCH WYŁĄCZNIE W SYSTEMIE TELEINFORMATYCZNYM
 3. Nr wpisu do księgi rejestrowej I. DANE NADAWCY
@@ -74,6 +58,28 @@ d) prawo do wniesienia skargi do Prezesa UODO (na adres Urzędu Ochrony Danych O
 Państwa dane osobowe mogą zostać udostępnione podmiotom upoważnionym na podstawie przepisów prawa, a także dostawcom usług obsługi biurowej i elektronicznego systemu obsługi dokumentów. Państwa dane osobowe mogą zostać udostępnione również na podstawie przepisów dotyczących realizacji prawa dostępu do informacji publicznej.
 Dane nie będą przekazywane do państwa trzeciego.
 Informacja o wymogu podania danych Podanie przez Państwa danych osobowych w niniejszym formularzu jest obowiązkiem wynikającym z art. 44a ust. 3 pkt 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji.
+
+**§ 1.** W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 27 kwietnia 2011 r. w sprawie szczegółowego sposobu i trybu prowadzenia rejestru programów telewizyjnych rozpowszechnianych wyłącznie w systemie teleinformatycznym i programów rozprowadzanych (Dz. U. poz. 603 oraz z 2018 r. poz. 2111) wprowadza się następujące zmiany:
+
+- **1)** § 5 otrzymuje brzmienie:
+
+  > „§ 5.  
+  > 1. Oznaczenie księgi rejestrowej, o której mowa w § 2 ust. 1, zawiera numer księgi, nazwę nadawcy i jego siedzibę, adres korespondencyjny, w tym adres poczty elektronicznej, oraz datę założenia księgi.  
+  > 2. Księga rejestrowa składa się z następujących rubryk:  
+  > 1) rubryka pierwsza – liczba porządkowa;  
+  > 2) rubryka druga – data wpisu;  
+  > 3) rubryka trzecia – nazwa programu;  
+  > 4) rubryka czwarta – sposób rozpowszechniania programu;  
+  > 5) rubryka piąta – charakter programu;  
+  > 6) rubryka szósta – państwa, w których możliwy jest odbiór programu;  
+  > 7) rubryka siódma – wzmianka o wykreśleniu wpisu;  
+  > 8) rubryka ósma – uwagi.”;  
+- **2)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+- **3)** załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+
+**§ 2.** Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski Załączniki do rozporządzenia Krajowej Rady Radiofonii i Telewizji z dnia 28 października 2021 r. (poz. …) Załącznik nr 1 WZÓR
 
 # KSIĘGA REJESTROWA PROGRAMÓW WZÓR TELEWIZYJNYCH ROZPOWSZECHNIANYCH WYŁĄCZNIE W SYSTEMIE TELEINFORMATYCZNYM
 

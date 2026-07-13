@@ -61,10 +61,18 @@ source: pdf
     - **b)** ust. 6 otrzymuje brzmienie: „6. Rada naukowa sporządza opinie, o których mowa w ust. 2 pkt 4, 5, 7, 9–13, w terminie nie dłuższym niż 30 dni.”;
 
 - **10)** w art. 30:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. W skład rady naukowej, w liczbie określonej w statucie instytutu, wchodzą: 1) pracownicy naukowi i badawczo-techniczni instytutu, którzy stanowią co najmniej 40% składu rady; 2) osoby niebędące pracownikami instytutu, które stanowią co najmniej 50% składu rady.”,
+    - **a)** ust. 2 otrzymuje brzmienie:
+
+      > „2. W skład rady naukowej, w liczbie określonej w statucie instytutu, wchodzą:  
+      > 1) pracownicy naukowi i badawczo-techniczni instytutu, którzy stanowią co najmniej 40% składu rady;  
+      > 2) osoby niebędące pracownikami instytutu, które stanowią co najmniej 50% składu rady.”,  
     - **b)** uchyla się ust. 2a;
 
-- **11)** w art. 31 ust. 1–3 otrzymują brzmienie: „1. Rada naukowa wybiera spośród swoich członków w głosowaniu tajnym przewodniczącego i jego zastępców. Przewodniczącego rady naukowej wybiera się spośród członków rady powołanych przez ministra nadzorującego. 2. Przewodniczącym rady naukowej może być osoba posiadająca co najmniej stopień naukowy doktora. 3. Funkcja zastępcy przewodniczącego rady naukowej nie może być łączona ze stanowiskiem dyrektora, zastępcy dyrektora lub głównego księgowego.”;
+- **11)** w art. 31 ust. 1–3 otrzymują brzmienie:
+
+  > „1. Rada naukowa wybiera spośród swoich członków w głosowaniu tajnym przewodniczącego i jego zastępców. Przewodniczącego rady naukowej wybiera się spośród członków rady powołanych przez ministra nadzorującego.  
+  > 2. Przewodniczącym rady naukowej może być osoba posiadająca co najmniej stopień naukowy doktora.  
+  > 3. Funkcja zastępcy przewodniczącego rady naukowej nie może być łączona ze stanowiskiem dyrektora, zastępcy dyrektora lub głównego księgowego.”;  
 - **12)** w art. 35a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Przewodniczący rady naukowej przekazuje ministrowi nadzorującemu uchwały rady w sprawach, o których mowa w art. 29 ust. 2 pkt 5–11 i 17–19, w terminie 7 dni od dnia ich podjęcia.”,
     - **b)** w ust. 2 zdanie drugie otrzymuje brzmienie: „Uchylenie uchwały następuje w drodze decyzji administracyjnej, w terminie 30 dni od dnia otrzymania uchwały.”;

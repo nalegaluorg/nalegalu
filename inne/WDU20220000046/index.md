@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000046) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/46/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu dokumentów publicznych Na podstawie art. 6 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2021 r. poz. 1660 i 1997) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 11 lipca 2019 r. w sprawie wykazu dokumentów publicznych (Dz. U.
-poz. 1289) w § 2 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „18) legitymacja służbowa inspektora Inspekcji Ochrony Środowiska, o której mowa w art. 9b ust. 1 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070).”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 11 lipca 2019 r. w sprawie wykazu dokumentów publicznych (Dz. U. poz. 1289) w § 2 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „18) legitymacja służbowa inspektora Inspekcji Ochrony Środowiska, o której mowa w art. 9b ust. 1 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070).”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

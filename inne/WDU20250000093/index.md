@@ -28,9 +28,12 @@ source: pdf
 
 w sprawie wysokości procentu składki wnoszonej przez krajowe zakłady ubezpieczeń na rzecz funduszu do spraw niewypłacalności oraz terminu uiszczania tej składki Na podstawie art. 117 ust. 5a ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2023 r. poz. 2500 oraz z 2024 r.
 poz. 1565) zarządza się, co następuje:
-§ 1. Składka, o której mowa w art. 117 ust. 3a ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, zwanej dalej „ustawą”, wynosi 0,01 % składki przypisanej brutto w ubezpieczeniu obowiązkowym, o którym mowa w art. 4 pkt 1 ustawy, w danym roku kalendarzowym.
-§ 2. Składka, o której mowa w art. 117 ust. 3a ustawy, jest uiszczana w terminie 30 dni od dnia upływu kwartału kalendarzowego, w którym został dokonany przypis składki w ubezpieczeniu obowiązkowym, o którym mowa w art. 4 pkt 1 ustawy.
-§ 3. Rozporządzenie po raz pierwszy ma zastosowanie do składki, o której mowa w art. 117 ust. 3a ustawy, uiszczanej za pierwszy kwartał 2025 r.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: A. Domański
+
+**§ 1.** Składka, o której mowa w art. 117 ust. 3a ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, zwanej dalej „ustawą”, wynosi 0,01 % składki przypisanej brutto w ubezpieczeniu obowiązkowym, o którym mowa w art. 4 pkt 1 ustawy, w danym roku kalendarzowym.
+
+**§ 2.** Składka, o której mowa w art. 117 ust. 3a ustawy, jest uiszczana w terminie 30 dni od dnia upływu kwartału kalendarzowego, w którym został dokonany przypis składki w ubezpieczeniu obowiązkowym, o którym mowa w art. 4 pkt 1 ustawy.
+
+**§ 3.** Rozporządzenie po raz pierwszy ma zastosowanie do składki, o której mowa w art. 117 ust. 3a ustawy, uiszczanej za pierwszy kwartał 2025 r.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: A. Domański
 

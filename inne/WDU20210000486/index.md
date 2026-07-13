@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000486) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/486/text.pdf) |
 
 w sprawie wysokości opłaty za egzamin wstępny na aplikację adwokacką Na podstawie art. 75d ust. 2 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2020 r. poz. 1651 i 2320) zarządza się, co następuje:
-§ 1. Opłata za egzamin wstępny na aplikację adwokacką wynosi 1125 zł.
-§ 2. Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 3 września 2009 r. w sprawie wysokości opłaty za egzamin wstępny na aplikację adwokacką (Dz. U. poz. 1206).
-§ 3. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** Opłata za egzamin wstępny na aplikację adwokacką wynosi 1125 zł.
+
+**§ 2.** Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 3 września 2009 r. w sprawie wysokości opłaty za egzamin wstępny na aplikację adwokacką (Dz. U. poz. 1206).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

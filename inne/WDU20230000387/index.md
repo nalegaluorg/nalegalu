@@ -27,11 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2022 r. poz. 2157 i 2727) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2022 r. poz. 1323) w załączniku do rozporządzenia:
-1) w § 3 w ust. 1:
-a) uchyla się pkt 2a i 12,
-b) po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) Departament Zarządzania Informatyką;”;
-2) w § 8 w pkt 7 lit. k otrzymuje brzmienie: „k) makowskiego – Bazar,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2022 r. poz. 1323) w załączniku do rozporządzenia:
+
+- **1)** w § 3 w ust. 1:
+    - **a)** uchyla się pkt 2a i 12,
+    - **b)** po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) Departament Zarządzania Informatyką;”;
+
+- **2)** w § 8 w pkt 7 lit. k otrzymuje brzmienie: „k) makowskiego – Bazar,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski
 

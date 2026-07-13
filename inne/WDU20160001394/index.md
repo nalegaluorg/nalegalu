@@ -27,8 +27,10 @@ source: pdf
 
 w sprawie sposobu sporządzania i dokonywania doręczeń dokumentów przesyłanych w ramach stosowanego środka egzekucyjnego z użyciem środków komunikacji elektronicznej Na podstawie art. 67 § 2c ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
 z 2016 r. poz. 599, 868, 1228 i 1244) zarządza się, co następuje:
-§ 1. Zawiadomienie o zajęciu i inne pisma, o których mowa w art. 67 § 1a ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, zwane dalej „pismami”, doręczane dłużnikowi zajętej wierzytelności i organowi egzekucyjnemu w ramach stosowanego środka egzekucyjnego, sporządza się w formacie pdf.
-§ 2. Pisma przesyłane w ramach stosowanego środka egzekucyjnego z użyciem środków komunikacji elektronicznej doręcza się przez elektroniczną skrzynkę podawczą organu egzekucyjnego i dłużnika zajętej wierzytelności, jeżeli dłużnik taką skrzynkę posiada.
-§ 3. Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.
-Minister Finansów: P. Szałamacha
+
+**§ 1.** Zawiadomienie o zajęciu i inne pisma, o których mowa w art. 67 § 1a ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, zwane dalej „pismami”, doręczane dłużnikowi zajętej wierzytelności i organowi egzekucyjnemu w ramach stosowanego środka egzekucyjnego, sporządza się w formacie pdf.
+
+**§ 2.** Pisma przesyłane w ramach stosowanego środka egzekucyjnego z użyciem środków komunikacji elektronicznej doręcza się przez elektroniczną skrzynkę podawczą organu egzekucyjnego i dłużnika zajętej wierzytelności, jeżeli dłużnik taką skrzynkę posiada.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 8 września 2016 r. Minister Finansów: P. Szałamacha
 

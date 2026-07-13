@@ -27,11 +27,14 @@ source: pdf
 
 w sprawie sposobu podziału środków finansowych dla uczelni nadzorowanych przez Ministra Sprawiedliwości Na podstawie art. 462 ust. 2 pkt 1–3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
 poz. 1668, 2024 i 2245) zarządza się, co następuje:
-§ 1. Rozporządzenie określa sposób podziału:
-1) środków finansowych, o których mowa w art. 365 pkt 1 lit. a–c ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”;
-2) środków finansowych, o których mowa w art. 365 pkt 2 lit. a–d ustawy, oraz
-3) środków finansowych na zadania, o których mowa w art. 459 pkt 3 ustawy – dla uczelni nadzorowanych przez Ministra Sprawiedliwości.
-§ 2. Środki finansowe, o których mowa w § 1, przeznacza się w całości na zadania realizowane przez Wyższą Szkołę Kryminologii i Penitencjarystyki w Warszawie.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** Rozporządzenie określa sposób podziału:
+
+- **1)** środków finansowych, o których mowa w art. 365 pkt 1 lit. a–c ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”;
+- **2)** środków finansowych, o których mowa w art. 365 pkt 2 lit. a–d ustawy, oraz
+- **3)** środków finansowych na zadania, o których mowa w art. 459 pkt 3 ustawy – dla uczelni nadzorowanych przez Ministra Sprawiedliwości.
+
+**§ 2.** Środki finansowe, o których mowa w § 1, przeznacza się w całości na zadania realizowane przez Wyższą Szkołę Kryminologii i Penitencjarystyki w Warszawie.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. Minister Sprawiedliwości: Z. Ziobro
 

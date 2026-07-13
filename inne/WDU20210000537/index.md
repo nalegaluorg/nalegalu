@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/537/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania osobowości prawnej Wspólnocie Życia Chrześcijańskiego w Polsce Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 21 lutego 2001 r. w sprawie nadania osobowości prawnej Wspólnocie Życia Chrześcijańskiego w Polsce (Dz. U. poz. 163) § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Wspólnota Życia Chrześcijańskiego w Polsce, z siedzibą w Warszawie, utworzonej za zgodą Konferencji Episkopatu Polski przez stowarzyszenie o nazwie Wspólnota Życia Chrześcijańskiego, powołane dekretem Stolicy Apostolskiej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 21 lutego 2001 r. w sprawie nadania osobowości prawnej Wspólnocie Życia Chrześcijańskiego w Polsce (Dz. U. poz. 163) § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Wspólnota Życia Chrześcijańskiego w Polsce, z siedzibą w Warszawie, utworzonej za zgodą Konferencji Episkopatu Polski przez stowarzyszenie o nazwie Wspólnota Życia Chrześcijańskiego, powołane dekretem Stolicy Apostolskiej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
 

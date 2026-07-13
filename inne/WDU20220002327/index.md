@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002327) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2327/text.pdf) |
 
 zmieniające rozporządzenie w sprawie programu pilotażowego w zakresie świadczeń opieki zdrowotnej zapewnianych przez platformę pierwszego kontaktu oraz centra medycznej pomocy doraźnej Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 11 sierpnia 2022 r. w sprawie programu pilotażowego w zakresie świadczeń opieki zdrowotnej zapewnianych przez platformę pierwszego kontaktu oraz centra medycznej pomocy doraźnej (Dz. U. poz. 1734) w załączniku nr 1 do rozporządzenia uchyla się pkt 1.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 11 sierpnia 2022 r. w sprawie programu pilotażowego w zakresie świadczeń opieki zdrowotnej zapewnianych przez platformę pierwszego kontaktu oraz centra medycznej pomocy doraźnej (Dz. U. poz. 1734) w załączniku nr 1 do rozporządzenia uchyla się pkt 1.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

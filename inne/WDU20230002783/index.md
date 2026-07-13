@@ -26,35 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002783) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2783/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu prowadzenia dokumentacji oraz sposobu sporządzania sprawozdań z realizacji misji publicznej składanych przez jednostki publicznej radiofonii i telewizji Na podstawie art. 31a ust. 3 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722) zarządza się, co następuje:
-§ 1. W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 9 grudnia 2021 r. w sprawie sposobu prowadzenia dokumentacji oraz sposobu sporządzania sprawozdań z realizacji misji publicznej składanych przez jednostki publicznej radiofonii i telewizji (Dz. U. poz. 2435) wprowadza się następujące zmiany:
-1) w § 3 w ust. 1 pkt 4 otrzymuje brzmienie: „4) wykazania, w wartości nominalnej określonej w uchwale Krajowej Rady Radiofonii i Telewizji, przychodu z otrzymanych w danym roku kalendarzowym, na podstawie odrębnych przepisów prawa, skarbowych papierów wartościowych.”;
-2) w § 5:
-a) uchyla się pkt 2,
-b) pkt 4 otrzymuje brzmienie: „4) przypisania kosztów pośrednich, kosztów ogólnego zarządu oraz kosztów pozostałych tworzenia programu i usług innych niż programy, o których mowa w art. 21 ust. 1 i ust. 1a pkt 2a ustawy, do poszczególnych kategorii ustawowych przy zastosowaniu udziału procentowego kosztów bezpośrednich tworzenia programu w zakresie danej kategorii ustawowej w kosztach bezpośrednich ogółem tworzenia programu.”;
-3) w § 6 ust. 1 otrzymuje brzmienie: „1. Kwoty w sprawozdaniu, o którym mowa w § 1 pkt 2, podaje się w walucie polskiej i zaokrągla się do pełnych tysięcy.”;
-4) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Do sporządzenia sprawozdania z realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji, za 2023 r. stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.
-Przewodniczący Krajowej Rady Radiofonii i Telewizji: M. Świrski Część II Informacja o realizacji w programie radiowym określonych w przepisach prawa oraz karcie powinności zadań wynikających z realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy Nazwa jednostki: Zasięg programu: ogólnokrajowy/dla odbiorców za granicą/regionalny/lokalny (miejski, rozszczepienie) Nazwa i charakter programu: Sposób rozpowszechniania programu: Roczny koszt rozpowszechniania programu w tys. zł: Roczny koszt tworzenia programu w tys. zł: Roczny czas nadawania programu w godzinach: Udział Liczba w Roczny godzin Lp. Informacje o nadanym programie programie koszt w roku rocznym w tys. zł (gg:mm:ss) (%) 1 2 3 4 5 1 Kategorie audycji (art. 21 ust. 1 ustawy)
-1.1 informacja
-1.2 publicystyka
-1.3 kultura
-1.4 edukacja
-1.5 sport
-1.6 rozrywka w tym: audycje służące popieraniu twórczości artystycznej, literackiej, naukowej oraz
-a) działalności oświatowej i działalności w zakresie sportu (art. 21 ust. 1a pkt 7 ustawy) audycje upowszechniające wiedzę o języku
-b) polskim (art. 21 ust. 1a pkt 8 ustawy) audycje uwzględniające potrzeby mniejszości narodowych i etnicznych oraz społeczności
-c) posługującej się językiem regionalnym (art. 21 ust. 1a pkt 8a ustawy), w tym: - dla mniejszości…...............
-- dla mniejszości…...............
-- dla mniejszości…...............
-- dla mniejszości…...............
-- dla mniejszości…...............
-- dla społeczności kaszubskiej Audycje upowszechniające edukację medialną
-2.
-(art. 21 ust. 1a pkt 11 ustawy) Utwory słowno-muzyczne wykonywane w języku
-3. polskim w czasie nadawanych utworów słownomuzycznych (art. 15 ust. 2 ustawy), w tym:
-3.1 nadawane w godz. 5-24 Zaznaczyć właściwe; dla każdego rozszczepianego pasma lokalnego należy wypełnić odrębny formularz.
-Jeśli spółka nie nadawała któregoś elementu programu, to w formularzu wpisuje „0”.
 1.1 informacja
 1.2 publicystyka
 1.3 kultura
@@ -107,6 +78,32 @@ Zestawienie przychodów i kosztów oraz wynik na działalności gospodarczej sp�
 6.1 której mowa w art. 21 ust. 1 ustawy suma nakładów poniesionych na aktywa określone w art. 3 ust. 1 pkt 14
 6.2 -16 ustawy o rachunkowości w związku z realizacją tej misji Koszt netto realizacji misji publicznej, o której mowa w art. 21 ust. 1 7 ustawy Przychody, o których mowa w art. 31 ust. 1 pkt 1 i ust. 2 ustawy, 8 w danym roku sprawozdawczym oraz nadwyżka, o której mowa w art.
 31 ust. 7 lub 8 ustawy, z poprzedniego roku sprawozdawczego 9 Nadwyżka Całkowity koszt realizacji misji publicznej, o której mowa w art. 21 ust. 1 10 ustawy, z zatwierdzonego planu, o którym mowa w art. 21c ust. 1 ustawy, w danym roku sprawozdawczym Udział nadwyżki w całkowitym koszcie realizacji misji publicznej, októrej mowa w art. 21 ust. 1 ustawy, z zatwierdzonego planu, 11 októrym mowa w art. 21c ust. 1 ustawy, w danym roku sprawozdawczym Część XVIII Informacja o sposobie realizacji zasad rachunkowości, o których mowa w art. 31a ust. 1 ustawy Nazwa jednostki: Część XIX Propozycja przeznaczenia nadwyżki, o której mowa w art. 31 ust. 7 ustawy Nazwa jednostki: Część XX Informacja o sposobie wykonania zaleceń lub działań naprawczych, o których mowa w art. 31b ust. 3 ustawy Nazwa jednostki: Opis sposobu wykonania zaleceń lub działań naprawczych
+
+**§ 1.** W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 9 grudnia 2021 r. w sprawie sposobu prowadzenia dokumentacji oraz sposobu sporządzania sprawozdań z realizacji misji publicznej składanych przez jednostki publicznej radiofonii i telewizji (Dz. U. poz. 2435) wprowadza się następujące zmiany:
+
+- **1)** w § 3 w ust. 1 pkt 4 otrzymuje brzmienie: „4) wykazania, w wartości nominalnej określonej w uchwale Krajowej Rady Radiofonii i Telewizji, przychodu z otrzymanych w danym roku kalendarzowym, na podstawie odrębnych przepisów prawa, skarbowych papierów wartościowych.”;
+- **2)** w § 5:
+    - **a)** uchyla się pkt 2,
+    - **b)** pkt 4 otrzymuje brzmienie: „4) przypisania kosztów pośrednich, kosztów ogólnego zarządu oraz kosztów pozostałych tworzenia programu i usług innych niż programy, o których mowa w art. 21 ust. 1 i ust. 1a pkt 2a ustawy, do poszczególnych kategorii ustawowych przy zastosowaniu udziału procentowego kosztów bezpośrednich tworzenia programu w zakresie danej kategorii ustawowej w kosztach bezpośrednich ogółem tworzenia programu.”;
+
+- **3)** w § 6 ust. 1 otrzymuje brzmienie: „1. Kwoty w sprawozdaniu, o którym mowa w § 1 pkt 2, podaje się w walucie polskiej i zaokrągla się do pełnych tysięcy.”;
+- **4)** załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Do sporządzenia sprawozdania z realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji, za 2023 r. stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. Przewodniczący Krajowej Rady Radiofonii i Telewizji: M. Świrski Część II Informacja o realizacji w programie radiowym określonych w przepisach prawa oraz karcie powinności zadań wynikających z realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy Nazwa jednostki: Zasięg programu: ogólnokrajowy/dla odbiorców za granicą/regionalny/lokalny (miejski, rozszczepienie) Nazwa i charakter programu: Sposób rozpowszechniania programu: Roczny koszt rozpowszechniania programu w tys. zł: Roczny koszt tworzenia programu w tys. zł: Roczny czas nadawania programu w godzinach: Udział Liczba w Roczny godzin Lp. Informacje o nadanym programie programie koszt w roku rocznym w tys. zł (gg:mm:ss) (%) 1 2 3 4 5 1 Kategorie audycji (art. 21 ust. 1 ustawy) 1.1 informacja 1.2 publicystyka 1.3 kultura 1.4 edukacja 1.5 sport 1.6 rozrywka w tym: audycje służące popieraniu twórczości artystycznej, literackiej, naukowej oraz
+
+- dla mniejszości…............... - dla mniejszości…............... - dla mniejszości…............... - dla mniejszości…............... - dla społeczności kaszubskiej Audycje upowszechniające edukację medialną
+
+- **a)** działalności oświatowej i działalności w zakresie sportu (art. 21 ust. 1a pkt 7 ustawy) audycje upowszechniające wiedzę o języku
+- **b)** polskim (art. 21 ust. 1a pkt 8 ustawy) audycje uwzględniające potrzeby mniejszości narodowych i etnicznych oraz społeczności
+- **c)** posługującej się językiem regionalnym (art. 21 ust. 1a pkt 8a ustawy), w tym: - dla mniejszości…...............
+
+2. (art. 21 ust. 1a pkt 11 ustawy) Utwory słowno-muzyczne wykonywane w języku
+
+3. polskim w czasie nadawanych utworów słownomuzycznych (art. 15 ust. 2 ustawy), w tym:
+
+3. 1 nadawane w godz. 5-24 Zaznaczyć właściwe; dla każdego rozszczepianego pasma lokalnego należy wypełnić odrębny formularz. Jeśli spółka nie nadawała któregoś elementu programu, to w formularzu wpisuje „0”.
 
 ## Część III Informacja o realizacji w programie telewizyjnym określonych w przepisach prawa oraz karcie powinności zadań wynikających z realizacji misji publicznej, o której mowa w art. 21 ust. 1 ustawy Nazwa jednostki: Zasięg programu: ogólnokrajowy, dla odbiorców za granicą, regionalny Nazwa i charakter programu: Sposób rozpowszechniania programu: Roczny koszt rozpowszechniania programu w tys. zł: Roczny koszt tworzenia programu w tys. zł: Roczny czas nadawania programu w godzinach: Udział Liczba w Roczny godzin Lp. Informacje o nadanym programie programie koszt w roku rocznym w tys. zł (gg:mm:ss) (%) 1 2 3 4 5 1 Kategorie audycji (art. 21 ust. 1 ustawy)
 

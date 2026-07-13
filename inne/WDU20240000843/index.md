@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/843/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. z 2023 r. poz. 1194, 2186 i 2645 oraz z 2024 r. poz. 339 i 730) w § 3c w pkt 2 wyrazy „30 czerwca 2024 r.” zastępuje się wyrazami „31 grudnia 2024 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 29 czerwca 2024 r.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. z 2023 r. poz. 1194, 2186 i 2645 oraz z 2024 r. poz. 339 i 730) w § 3c w pkt 2 wyrazy „30 czerwca 2024 r.” zastępuje się wyrazami „31 grudnia 2024 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 29 czerwca 2024 r. Minister Zdrowia: wz. W. Konieczny
 

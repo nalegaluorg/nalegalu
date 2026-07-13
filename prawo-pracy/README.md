@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo pracy**.
 
-Łącznie: **64** aktów
+Łącznie: **62** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -38,11 +38,9 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU20090990825](WDU20090990825/index.md) | Ustawa z dnia 22 maja 2009 r. o zmianie ustawy - Kodeks pracy oraz o zmiani | Ustawa | obowiązujący |  |
 | [WDU20082371654](WDU20082371654/index.md) | Ustawa z dnia 6 grudnia 2008 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący | [tak](WDU20082371654/orzecznictwo.md) |
 | [WDU20082231460](WDU20082231460/index.md) | Ustawa z dnia 21 listopada 2008 r. o zmianie ustawy - Kodeks pracy | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20081390876](WDU20081390876/index.md) | Ustawa z dnia 12 czerwca 2008 r. o zmianie ustawy o społeczno-zawodowych or | Ustawa | obowiązujący |  |
 | [WDU20080930586](WDU20080930586/index.md) | Ustawa z dnia 9 maja 2008 r. zmieniająca ustawę - Kodeks pracy oraz ustawę  | Ustawa | obowiązujący |  |
 | [WDU20080860523](WDU20080860523/index.md) | Ustawa z dnia 28 marca 2008 r. zmieniająca ustawę o zmianie ustawy - Kodeks | Ustawa | obowiązujący |  |
 | [WDU20071811288](WDU20071811288/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy - Kodeks pracy oraz niek | Ustawa | obowiązujący |  |
-| [WDU20071761239](WDU20071761239/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy - Kodeks pracy | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20070640426](WDU20070640426/index.md) | Ustawa z dnia 2 marca 2007 r. o zmianie ustawy o narodowym zasobie archiwal | Ustawa | obowiązujący |  |
 | [WDU20062211615](WDU20062211615/index.md) | Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy - Kodeks pracy oraz ust | Ustawa | obowiązujący |  |
 | [WDU20062171587](WDU20062171587/index.md) | Ustawa z dnia 18 października 2006 r. o zmianie ustawy - Kodeks pracy | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20062171587/orzecznictwo.md) |
@@ -71,4 +69,4 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU19740240142](WDU19740240142/index.md) | Ustawa z dnia 26 czerwca 1974 r. - Przepisy wprowadzające Kodeks pracy. | Ustawa | obowiązujący | [tak](WDU19740240142/orzecznictwo.md) |
 | [WDU19740240141](WDU19740240141/index.md) | Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19740240141/orzecznictwo.md) |
 
-*64 aktów • [← Powrót do spisu głównego](../README.md)*
+*62 aktów • [← Powrót do spisu głównego](../README.md)*

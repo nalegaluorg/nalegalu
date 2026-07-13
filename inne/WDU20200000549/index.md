@@ -27,9 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw wewnętrznych dla nauczycieli akademickich Na podstawie art. 458 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
 z 2020 r. poz. 85 i 374) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 lutego 2019 r. w sprawie nagród ministra właściwego do spraw wewnętrznych dla nauczycieli akademickich (Dz. U. poz. 302) po § 15 dodaje się § 15a w brzmieniu: „§ 15a. W roku 2020:
-1) wnioski o przyznanie nagród ministra, o których mowa w § 10, składa się do dnia 30 czerwca 2020 r.;
-2) nagrody przyznaje się w terminie do dnia 31 grudnia 2020 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 lutego 2019 r. w sprawie nagród ministra właściwego do spraw wewnętrznych dla nauczycieli akademickich (Dz. U. poz. 302) po § 15 dodaje się § 15a w brzmieniu: „§ 15a. W roku 2020: 1) wnioski o przyznanie nagród ministra, o których mowa w § 10, składa się do dnia 30 czerwca 2020 r.; 2) nagrody przyznaje się w terminie do dnia 31 grudnia 2020 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

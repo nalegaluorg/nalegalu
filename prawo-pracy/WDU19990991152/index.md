@@ -27,7 +27,14 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990991152) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/1152/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, Nr 106, poz. 668 i Nr 113, poz. 717) art. 180 otrzymuje brzmienie: „Art. 180. §1. Pracownicy przysługuje urlop macierzyński w wymiarze: 1) 26 tygodni przy pierwszym i każdym następnym porodzie, 2) 39 tygodni w przypadku urodzenia więcej niż jednego dziecka przy jednym porodzie. §2. Co najmniej 4 tygodnie urlopu macierzyńskiego mogą przypadać przed przewidywaną datą porodu. §3. Po porodzie przysługuje urlop macierzyński nie wykorzystany przed porodem, aż do wyczerpania przysługującego wymiaru urlopu. §4. W razie urodzenia martwego dziecka lub zgonu dziecka w okresie pierwszych 6 tygodni życia, urlop macierzyński po porodzie przysługuje w wymiarze 10 tygodni. Pracownicy, która urodziła więcej niż jedno dziecko przy jednym porodzie, przysługuje w takim przypadku urlop macierzyński w wymiarze stosownym do liczby dzieci pozostałych przy życiu.”.
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, Nr 106, poz. 668 i Nr 113, poz. 717) art. 180 otrzymuje brzmienie:
+
+> „Art. 180.  
+> §1. Pracownicy przysługuje urlop macierzyński w wymiarze:  
+> 1) 26 tygodni przy pierwszym i każdym następnym porodzie, 2) 39 tygodni w przypadku urodzenia więcej niż jednego dziecka przy jednym porodzie.  
+> §2. Co najmniej 4 tygodnie urlopu macierzyńskiego mogą przypadać przed przewidywaną datą porodu.  
+> §3. Po porodzie przysługuje urlop macierzyński nie wykorzystany przed porodem, aż do wyczerpania przysługującego wymiaru urlopu.  
+> §4. W razie urodzenia martwego dziecka lub zgonu dziecka w okresie pierwszych 6 tygodni życia, urlop macierzyński po porodzie przysługuje w wymiarze 10 tygodni. Pracownicy, która urodziła więcej niż jedno dziecko przy jednym porodzie, przysługuje w takim przypadku urlop macierzyński w wymiarze stosownym do liczby dzieci pozostałych przy życiu.”.  
 
 **Art. 2.** Od dnia 1 stycznia 2000 r. do dnia 31 grudnia 2000 r. wymiar urlopu macierzyńskiego wynosi:
 

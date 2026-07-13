@@ -28,8 +28,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustalenia wysokości wynagrodzenia za pracę i związanych z pracą dla pracowników Polskiego Komitetu Normalizacyjnego Na podstawie art. 17 ust. 3 ustawy z dnia 12 września 2002 r. o normalizacji (Dz. U.
 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 3 marca kości wynagrodzenia za pracę i przyznawania innych świadczeń związanych z pracą dla Normalizacyjnego (Dz. U. z 2025 r. poz. 685) załącznik nr 1 do rozporządzenia otrzymuje niku do niniejszego rozporządzenia.
-§ 2. Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku nr 1 do w brzmieniu nadanym niniejszym rozporządzeniem mają zastosowanie do wynagrodzeń należnych
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rodziny, Pracy i Polityki Społecznej: TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Kategoria zaszeregowania Kwota w złotych 1 2 I 3000–7500 II 4700–7900 III 4900–8500 IV 5000–8900 V 5200–9500 VI 5400–9900 VII 5700–10 900 VIII 5900–11 500 IX 6100–12 000 X 6400–13 000 XI 7100–14 100 XII 7800–16 000
+
+**§ 1.** W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 3 marca kości wynagrodzenia za pracę i przyznawania innych świadczeń związanych z pracą dla Normalizacyjnego (Dz. U. z 2025 r. poz. 685) załącznik nr 1 do rozporządzenia otrzymuje niku do niniejszego rozporządzenia.
+
+**§ 2.** Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku nr 1 do w brzmieniu nadanym niniejszym rozporządzeniem mają zastosowanie do wynagrodzeń należnych
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rodziny, Pracy i Polityki Społecznej: TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Kategoria zaszeregowania Kwota w złotych 1 2 I 3000–7500 II 4700–7900 III 4900–8500 IV 5000–8900 V 5200–9500 VI 5400–9900 VII 5700–10 900 VIII 5900–11 500 IX 6100–12 000 X 6400–13 000 XI 7100–14 100 XII 7800–16 000
 

@@ -26,11 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000516) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/516/text.pdf) |
 
 zmieniające rozporządzenie w sprawie maksymalnych stawek taksy notarialnej Na podstawie art. 5 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2020 r. poz. 1192 i 2320) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. z 2020 r. poz. 1473) wprowadza się następujące zmiany:
-1) w rozdziale 2 uchyla się oddział 4;
-2) po § 15a dodaje się § 15b w brzmieniu: „§ 15b. 1. Za prowadzenie rejestru akcjonariuszy prostej spółki akcyjnej w stosunku rocznym za każdy rozpoczęty rok maksymalna stawka wynosi 1200 zł.
-2. Za dokonanie wpisu w rejestrze akcjonariuszy prostej spółki akcyjnej maksymalna stawka wynosi 100 zł.
-3. Za udzielenie informacji z rejestru akcjonariuszy, o której mowa w art. 300 § 3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320), maksymalna stawka wynosi 50 zł.ˮ.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. z 2020 r. poz. 1473) wprowadza się następujące zmiany:
+
+- **1)** w rozdziale 2 uchyla się oddział 4;
+- **2)** po § 15a dodaje się § 15b w brzmieniu: „§ 15b. 1. Za prowadzenie rejestru akcjonariuszy prostej spółki akcyjnej w stosunku rocznym za każdy rozpoczęty rok maksymalna stawka wynosi 1200 zł. 2. Za dokonanie wpisu w rejestrze akcjonariuszy prostej spółki akcyjnej maksymalna stawka wynosi 100 zł. 3. Za udzielenie informacji z rejestru akcjonariuszy, o której mowa w art. 300 § 3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526 i 2320), maksymalna stawka wynosi 50 zł.ˮ.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2021 r. Minister Sprawiedliwości: Z. Ziobro
 

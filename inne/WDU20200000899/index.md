@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szkolenia i egzaminowania diagnostów oraz wzorów dokumentów z tym związanych Na podstawie art. 84a ust. 1 pkt 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r.
 poz. 110, 284, 568 i 695) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 28 listopada 2014 r. w sprawie szkolenia i egzaminowania diagnostów oraz wzorów dokumentów z tym związanych (Dz. U. poz. 1836) po § 18 dodaje się § 18a w brzmieniu: „§ 18a. Jeżeli terminy, o których mowa w § 9 ust. 1, § 11 ust. 4 i § 15 ust. 5, wypadają w okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych w związku z zakażeniami wirusem SARS-CoV-2, terminy te ulegają wydłużeniu do upływu 90 dni od dnia następującego po dniu odwołania tego stanu, który obowiązywał jako ostatni.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury: wz. R. Weber
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 28 listopada 2014 r. w sprawie szkolenia i egzaminowania diagnostów oraz wzorów dokumentów z tym związanych (Dz. U. poz. 1836) po § 18 dodaje się § 18a w brzmieniu: „§ 18a. Jeżeli terminy, o których mowa w § 9 ust. 1, § 11 ust. 4 i § 15 ust. 5, wypadają w okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonych w związku z zakażeniami wirusem SARS-CoV-2, terminy te ulegają wydłużeniu do upływu 90 dni od dnia następującego po dniu odwołania tego stanu, który obowiązywał jako ostatni.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury: wz. R. Weber
 

@@ -28,8 +28,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wysokości minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej Na podstawie art. 137 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r.
 poz. 1571, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 25 września 2018 r. w sprawie wysokości minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej (Dz. U. z 2024 r. poz. 1407) w § 1 wyrazy „9370 zł” zastępuje się wyrazami „9650 zł”.
-§ 2. Wysokość minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej określona w § 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, ma zastosowanie do wynagrodzenia należnego od dnia 1 stycznia 2026 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: M. Kulasek
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 25 września 2018 r. w sprawie wysokości minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej (Dz. U. z 2024 r. poz. 1407) w § 1 wyrazy „9370 zł” zastępuje się wyrazami „9650 zł”.
+
+**§ 2.** Wysokość minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej określona w § 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, ma zastosowanie do wynagrodzenia należnego od dnia 1 stycznia 2026 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: M. Kulasek
 

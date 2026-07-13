@@ -31,7 +31,13 @@ source: pdf
 
 - **1)** w art. 1 w ust. 1 pkt 1 otrzymuje brzmienie: „1) prowadzenia działalności pożytku publicznego przez organizacje pozarządowe w sferze zadań publicznych, współpracy organów administracji publicznej z organizacjami pozarządowymi oraz współpracy, o której mowa w art. 4d;”;
 - **2)** w art. 4 w ust. 1 po pkt 29 dodaje się pkt 29a w brzmieniu: „29a) działalności na rzecz weteranów i weteranów poszkodowanych w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. poz. 1203);”;
-- **3)** po art. 4c dodaje się art. 4d w brzmieniu: „Art. 4d. 1. Senat Rzeczypospolitej Polskiej w zakresie zadań, o którym mowa w art. 4 ust. 1 pkt 28, sprawuje opiekę nad Polonią i Polakami za granicą. 2. Opieka Senatu Rzeczypospolitej Polskiej nad Polonią i Polakami za granicą jest realizowana poprzez współpracę z organizacjami pozarządowymi oraz podmiotami wymienionymi w art. 3 ust. 3, polegającą na zlecaniu realizacji zadań publicznych finansowanych z części budżetu państwa dotyczącej Kancelarii Senatu. 3. Zlecanie realizacji zadań publicznych, o którym mowa w ust. 2, jako zadań zleconych w rozumieniu art. 127 ust. 1 pkt 1 lit. e, art. 132 ust. 2 pkt 5 oraz art. 151 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, może mieć formy: 1) powierzania wykonywania zadań publicznych, wraz z udzieleniem dotacji na finansowanie ich realizacji, lub 2) wspierania wykonywania zadań publicznych, wraz z udzieleniem dotacji na dofinansowanie ich realizacji.”.
+- **3)** po art. 4c dodaje się art. 4d w brzmieniu:
+
+  > „Art. 4d.  
+  > 1. Senat Rzeczypospolitej Polskiej w zakresie zadań, o którym mowa w art. 4 ust. 1 pkt 28, sprawuje opiekę nad Polonią i Polakami za granicą.  
+  > 2. Opieka Senatu Rzeczypospolitej Polskiej nad Polonią i Polakami za granicą jest realizowana poprzez współpracę z organizacjami pozarządowymi oraz podmiotami wymienionymi w art. 3 ust. 3, polegającą na zlecaniu realizacji zadań publicznych finansowanych z części budżetu państwa dotyczącej Kancelarii Senatu.  
+  > 3. Zlecanie realizacji zadań publicznych, o którym mowa w ust. 2, jako zadań zleconych w rozumieniu art. 127 ust. 1 pkt 1 lit. e, art. 132 ust. 2 pkt 5 oraz art. 151 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, może mieć formy:  
+  > 1) powierzania wykonywania zadań publicznych, wraz z udzieleniem dotacji na finansowanie ich realizacji, lub 2) wspierania wykonywania zadań publicznych, wraz z udzieleniem dotacji na dofinansowanie ich realizacji.”.  
 
 **Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

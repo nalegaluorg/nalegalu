@@ -28,15 +28,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu ustalania opłat za czynności związane z akredytacją jednostek oceniających zgodność oraz maksymalnych wysokości tych opłat Na podstawie art. 51 ust. 8 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U.
 z 2025 r. poz. 568) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 7 listopada 2016 r. w sprawie sposobu ustalania opłat za czynności związane z akredytacją jednostek oceniających zgodność oraz maksymalnych wysokości tych opłat (Dz. U.
-poz. 1850) § 5 otrzymuje brzmienie: „§ 5. 1. Maksymalna opłata za czynności związane z:
-1) formalną oceną wniosku o akredytację wynosi jedną czwartą przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r.
-o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2024 r. poz. 288), zwanego dalej „przeciętnym wynagrodzeniem miesięcznym”, ustalonego na dzień wykonania czynności;
-2) oceną jednostki oceniającej zgodność w procesie akredytacji wynosi piętnastokrotność przeciętnego wynagrodzenia miesięcznego, ustalonego na dzień wykonania czynności;
-3) wystawieniem certyfikatu akredytacji wynosi jedną dwudziestą przeciętnego wynagrodzenia miesięcznego, ustalonego na dzień wykonania czynności;
-4) ocenami realizowanymi w ramach sprawowanego nadzoru nad akredytowanymi jednostkami oceniającymi zgodność wynosi rocznie dwudziestokrotność przeciętnego wynagrodzenia miesięcznego, ustalonego na dzień dokonania pierwszej oceny;
-5) uczestnictwem w krajowym systemie akredytacji wynosi rocznie piętnastokrotność przeciętnego wynagrodzenia miesięcznego, ustalanego na pierwszy dzień uczestnictwa w tym systemie w danym roku.
-2. Opłaty, o których mowa w ust. 1, zaokrągla się do pełnych złotych w ten sposób, że końcówki kwot wynoszące mniej niż 50 groszy pomija się, a końcówki kwot wynoszące 50 i więcej groszy podwyższa się do pełnych złotych.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Technologii: K. Paszyk
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 7 listopada 2016 r. w sprawie sposobu ustalania opłat za czynności związane z akredytacją jednostek oceniających zgodność oraz maksymalnych wysokości tych opłat (Dz. U. poz. 1850) § 5 otrzymuje brzmienie:
+
+> „§ 5.  
+> 1. Maksymalna opłata za czynności związane z:  
+> 1) formalną oceną wniosku o akredytację wynosi jedną czwartą przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”,  
+
+zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 2024 r. poz. 288), zwanego dalej „przeciętnym wynagrodzeniem miesięcznym”, ustalonego na dzień wykonania czynności; 2) oceną jednostki oceniającej zgodność w procesie akredytacji wynosi piętnastokrotność przeciętnego wynagrodzenia miesięcznego, ustalonego na dzień wykonania czynności; 3) wystawieniem certyfikatu akredytacji wynosi jedną dwudziestą przeciętnego wynagrodzenia miesięcznego, ustalonego na dzień wykonania czynności; 4) ocenami realizowanymi w ramach sprawowanego nadzoru nad akredytowanymi jednostkami oceniającymi zgodność wynosi rocznie dwudziestokrotność przeciętnego wynagrodzenia miesięcznego, ustalonego na dzień dokonania pierwszej oceny; 5) uczestnictwem w krajowym systemie akredytacji wynosi rocznie piętnastokrotność przeciętnego wynagrodzenia miesięcznego, ustalanego na pierwszy dzień uczestnictwa w tym systemie w danym roku. 2. Opłaty, o których mowa w ust. 1, zaokrągla się do pełnych złotych w ten sposób, że końcówki kwot wynoszące mniej niż 50 groszy pomija się, a końcówki kwot wynoszące 50 i więcej groszy podwyższa się do pełnych złotych.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Technologii: K. Paszyk
 

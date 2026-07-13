@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001570) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1570/text.pdf) |
 
 zmieniające rozporządzenie w sprawie indywidualnego nauczania dzieci i młodzieży Na podstawie art. 71b ust. 8 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2020 r. poz. 1327 oraz z 2021 r. poz. 4 i 1237) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 28 sierpnia 2014 r. w sprawie indywidualnego nauczania dzieci i młodzieży (Dz. U. poz. 1157, z 2017 r. poz. 1656 oraz z 2020 r. poz. 1538) w § 11b wyrazy „W roku szkolnym 2020/2021” zastępuje się wyrazami „W latach szkolnych 2020/2021 i 2021/2022”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.
-Minister Edukacji i Nauki: wz. D. Piontkowski
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 28 sierpnia 2014 r. w sprawie indywidualnego nauczania dzieci i młodzieży (Dz. U. poz. 1157, z 2017 r. poz. 1656 oraz z 2020 r. poz. 1538) w § 11b wyrazy „W roku szkolnym 2020/2021” zastępuje się wyrazami „W latach szkolnych 2020/2021 i 2021/2022”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2021 r. Minister Edukacji i Nauki: wz. D. Piontkowski
 

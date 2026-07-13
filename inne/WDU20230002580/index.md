@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002580) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2580/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków wynagradzania oraz wysokości wynagrodzenia członków rad nadzorczych wojewódzkich funduszy ochrony środowiska i gospodarki wodnej za udział w pracach rady Na podstawie art. 400f ust. 10 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 8 września 2021 r. w sprawie szczegółowych warunków wynagradzania oraz wysokości wynagrodzenia członków rad nadzorczych wojewódzkich funduszy ochrony środowiska i gospodarki wodnej za udział w pracach rady (Dz. U. poz. 1669) w § 2 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „W przypadku nieusprawiedliwionej nieobecności członka rady nadzorczej na posiedzeniu rady nadzorczej albo nieusprawiedliwionego braku udziału w podejmowaniu uchwały w trybie pisemnym albo z wykorzystaniem środków bezpośredniego porozumiewania się na odległość, gdy zostało zarządzone podejmowanie uchwały w jednym z tych trybów, wysokość wynagrodzenia, o którym mowa w § 1 ust. 1, ulega zmniejszeniu.”.
-§ 2. Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 8 września 2021 r. w sprawie szczegółowych warunków wynagradzania oraz wysokości wynagrodzenia członków rad nadzorczych wojewódzkich funduszy ochrony środowiska i gospodarki wodnej za udział w pracach rady (Dz. U. poz. 1669) w § 2 w ust. 3 zdanie pierwsze otrzymuje brzmienie: „W przypadku nieusprawiedliwionej nieobecności członka rady nadzorczej na posiedzeniu rady nadzorczej albo nieusprawiedliwionego braku udziału w podejmowaniu uchwały w trybie pisemnym albo z wykorzystaniem środków bezpośredniego porozumiewania się na odległość, gdy zostało zarządzone podejmowanie uchwały w jednym z tych trybów, wysokość wynagrodzenia, o którym mowa w § 1 ust. 1, ulega zmniejszeniu.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa
 

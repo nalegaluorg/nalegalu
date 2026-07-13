@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo administracyjne**.
 
-Łącznie: **66** aktów
+Łącznie: **64** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -30,7 +30,6 @@ Akty prawne z dziedziny: **Prawo administracyjne**.
 | [WDU20170000935](WDU20170000935/index.md) | Ustawa z dnia 7 kwietnia 2017 r. o zmianie ustawy - Kodeks postępowania adm | Ustawa | obowiązujący |  |
 | [WDU20160001583](WDU20160001583/index.md) | Ustawa z dnia 5 września 2016 r. o zmianie ustawy o wspieraniu rodziny i sy | Ustawa | obowiązujący |  |
 | [WDU20150001191](WDU20150001191/index.md) | Ustawa z dnia 9 lipca 2015 r. o zmianie ustawy - Prawo o postępowaniu przed | Ustawa | akt objęty tekstem jednolitym |  |
-| [WDU20150001045](WDU20150001045/index.md) | Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o samorządzie gminnym ora | Ustawa | obowiązujący |  |
 | [WDU20150000871](WDU20150000871/index.md) | Ustawa z dnia 24 kwietnia 2015 r. o zmianie ustawy o samorządzie powiatowym | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20150000658](WDU20150000658/index.md) | Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy - Prawo o postępowaniu pr | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20130001318](WDU20130001318/index.md) | Ustawa z dnia 11 października 2013 r. o zmianie ustawy o samorządzie gminny | Ustawa | akt objęty tekstem jednolitym |  |
@@ -67,10 +66,9 @@ Akty prawne z dziedziny: **Prawo administracyjne**.
 | [WDU19981601060](WDU19981601060/index.md) | Ustawa z dnia 17 grudnia 1998 r. o zmianie ustawy o samorządzie województwa | Ustawa | obowiązujący |  |
 | [WDU19980990631](WDU19980990631/index.md) | Ustawa z dnia 24 lipca 1998 r. o wejściu w życie ustawy o samorządzie powia | Ustawa | obowiązujący | [tak](WDU19980990631/orzecznictwo.md) |
 | [WDU19980910578](WDU19980910578/index.md) | Ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym. | Ustawa | akt posiada tekst jednolity | [tak](WDU19980910578/orzecznictwo.md) |
-| [WDU19980910576](WDU19980910576/index.md) | Ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa. | Ustawa | akt posiada tekst jednolity | [tak](WDU19980910576/orzecznictwo.md) |
+| [WDU19980910576](WDU19980910576/index.md) | Ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa. | Ustawa | akt posiada tekst jednolity |  |
 | [WDU19900340201](WDU19900340201/index.md) | Ustawa z dnia 24 maja 1990 r. o zmianie ustawy - Kodeks postępowania admini | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19900340201/orzecznictwo.md) |
 | [WDU19900160095](WDU19900160095/index.md) | Ustawa z dnia 8 marca 1990 r. o samorządzie gminnym | Ustawa | akt posiada tekst jednolity | [tak](WDU19900160095/orzecznictwo.md) |
-| [WDU19870330186](WDU19870330186/index.md) | Ustawa z dnia 23 października 1987 r. o zmianie ustawy - Kodeks postępowani | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19870330186/orzecznictwo.md) |
 | [WDU19600300168](WDU19600300168/index.md) | Ustawa z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. | Ustawa | akt posiada tekst jednolity | [tak](WDU19600300168/orzecznictwo.md) |
 
-*66 aktów • [← Powrót do spisu głównego](../README.md)*
+*64 aktów • [← Powrót do spisu głównego](../README.md)*

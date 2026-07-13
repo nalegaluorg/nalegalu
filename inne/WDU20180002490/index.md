@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2490/text.pdf) |
 
 zmieniające rozporządzenie w sprawie opłaty za ustalanie wskaźnika ryzyka Na podstawie art. 119zo § 11 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 30 stycznia 2018 r. w sprawie opłaty za ustalanie wskaźnika ryzyka (Dz. U. poz. 282) w § 2 wyrazy „0,67 zł” zastępuje się wyrazami „0,35 zł”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-Minister Finansów: wz. T. Robaczyński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 30 stycznia 2018 r. w sprawie opłaty za ustalanie wskaźnika ryzyka (Dz. U. poz. 282) w § 2 wyrazy „0,67 zł” zastępuje się wyrazami „0,35 zł”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. Minister Finansów: wz. T. Robaczyński
 

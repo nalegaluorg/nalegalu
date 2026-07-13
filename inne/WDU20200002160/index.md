@@ -27,11 +27,15 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela Na podstawie art. 68 ust. 3 pkt 4 ustawy z dnia 20 lipca 2018 r. − Prawo o szkolnictwie wyższym i nauce (Dz. U.
 z 2020 r. poz. 85, 374, 695, 875 i 1086) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 25 lipca 2019 r. w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela (Dz. U. poz. 1450 oraz z 2020 r. poz. 726) po § 1a dodaje się § 1b w brzmieniu: „§ 1b. 1. W roku akademickim 2020/2021 zajęcia lub grupy zajęć realizowane w formie praktyk zawodowych na studiach przygotowujących do wykonywania zawodu nauczyciela, o którym mowa w § 1, oraz na studiach podyplomowych przygotowujących do wykonywania zawodu nauczyciela, o którym mowa w § 1 pkt 1 i 3, mogą być realizowane również:
-1) w podmiocie prowadzącym to kształcenie;
-2) przez udział studenta lub uczestnika studiów podyplomowych w prowadzeniu przez szkołę lub placówkę systemu oświaty lekcji lub zajęć z wykorzystaniem metod i technik kształcenia na odległość.
-2. W przypadku, o którym mowa w ust. 1 pkt 1, zajęcia lub grupy zajęć realizowane w formie praktyk zawodowych są przygotowywane i organizowane przez podmiot prowadzący kształcenie na studiach lub studiach podyplomowych, o których mowa w ust. 1, i mogą odbywać się w formie ćwiczeń praktycznych, symulacji lekcji lub zajęć, właściwych dla przedszkola, szkoły lub placówki systemu oświaty, także z wykorzystaniem metod i technik kształcenia na odległość.
-3. W przypadku, o którym mowa w ust. 1 pkt 2, zajęcia lub grupy zajęć realizowane w formie praktyk zawodowych są organizowane przez podmiot prowadzący kształcenie na studiach lub studiach podyplomowych, o których mowa w ust. 1, i mogą odbywać się przez umożliwienie studentom lub uczestnikom studiów podyplomowych udziału w przygotowaniu i prowadzeniu przez szkołę lub placówkę systemu oświaty lekcji lub zajęć realizowanych z wykorzystaniem metod i technik kształcenia na odległość lub ich obserwacji.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 25 lipca 2019 r. w sprawie standardu kształcenia przygotowującego do wykonywania zawodu nauczyciela (Dz. U. poz. 1450 oraz z 2020 r. poz. 726) po § 1a dodaje się § 1b w brzmieniu:
+
+> „§ 1b.  
+> 1. W roku akademickim 2020/2021 zajęcia lub grupy zajęć realizowane w formie praktyk zawodowych na studiach przygotowujących do wykonywania zawodu nauczyciela, o którym mowa w § 1, oraz na studiach podyplomowych przygotowujących do wykonywania zawodu nauczyciela, o którym mowa w § 1 pkt 1 i 3, mogą być realizowane również:  
+> 1) w podmiocie prowadzącym to kształcenie;  
+> 2) przez udział studenta lub uczestnika studiów podyplomowych w prowadzeniu przez szkołę lub placówkę systemu oświaty lekcji lub zajęć z wykorzystaniem metod i technik kształcenia na odległość.  
+> 2. W przypadku, o którym mowa w ust. 1 pkt 1, zajęcia lub grupy zajęć realizowane w formie praktyk zawodowych są przygotowywane i organizowane przez podmiot prowadzący kształcenie na studiach lub studiach podyplomowych, o których mowa w ust. 1, i mogą odbywać się w formie ćwiczeń praktycznych, symulacji lekcji lub zajęć, właściwych dla przedszkola, szkoły lub placówki systemu oświaty, także z wykorzystaniem metod i technik kształcenia na odległość.  
+> 3. W przypadku, o którym mowa w ust. 1 pkt 2, zajęcia lub grupy zajęć realizowane w formie praktyk zawodowych są organizowane przez podmiot prowadzący kształcenie na studiach lub studiach podyplomowych, o których mowa w ust. 1, i mogą odbywać się przez umożliwienie studentom lub uczestnikom studiów podyplomowych udziału w przygotowaniu i prowadzeniu przez szkołę lub placówkę systemu oświaty lekcji lub zajęć realizowanych z wykorzystaniem metod i technik kształcenia na odległość lub ich obserwacji.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji i Nauki: P. Czarnek
 

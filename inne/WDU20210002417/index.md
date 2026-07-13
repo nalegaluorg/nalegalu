@@ -26,14 +26,24 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002417) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2417/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wynagradzania pracowników Krajowej Szkoły Administracji Publicznej Na podstawie art. 8f ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2019 r. poz. 1388) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 15 września 2011 r. w sprawie wynagradzania pracowników Krajowej Szkoły Administracji Publicznej (Dz. U. poz. 1158 oraz z 2016 r. poz. 1556) wprowadza się następujące zmiany:
-1) w tytule rozporządzenia oraz w § 1 w pkt 1 po wyrazach „Krajowej Szkoły Administracji Publicznej” dodaje się wyrazy „im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego”;
-2) § 2 i 3 otrzymują brzmienie: „§ 2. Wykaz stanowisk, wymagania kwalifikacyjne niezbędne do wykonywania pracy na poszczególnych stanowiskach, grupy zaszeregowań oraz stawki miesięcznego wynagrodzenia zasadniczego pracowników Szkoły określa załącznik do rozporządzenia.
-§ 3. 1. Pracownikom Szkoły zatrudnionym na stanowiskach dyrektora, zastępcy dyrektora, głównego księgowego, szefa pionu, zastępcy szefa pionu, kierownika komórki organizacyjnej oraz koordynatora przysługuje dodatek funkcyjny w wysokości od 10% do 100% najniższego wynagrodzenia zasadniczego pracowników Szkoły.
-2. Pracownikowi Szkoły może być przyznany dodatek służbowy w wysokości od 10% do 100% najniższego wynagrodzenia zasadniczego pracowników Szkoły.”;
-3) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
-4) uchyla się załącznik nr 2 do rozporządzenia.
-§ 2. Pracownik Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, który nie spełnia wymagań kwalifikacyjnych przewidzianych dla stanowiska zajmowanego przez niego w dniu wejścia w życie rozporządzenia, może być nadal zatrudniony na tym stanowisku.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia (poz. ) WYKAZ WYKAZ STANOWISK, STANOWISK, WYMAGANIA WYMAGANIA KWALIFIKACYJNE KWALIFIKACYJNE NIEZBĘDNE NIEZBĘDNE DO DO WYKONYWANIA WYKONYWANIA PRACY PRACY NA POSZCZEGÓLNYCH NA POSZCZEGÓLNYCH STANOWISKACH, STANOWISKACH, GRUPY GRUPY ZASZEREGOWAŃ ZASZEREGOWAŃ ORAZ STAWKI ORAZ STAWKI MIESIĘCZNEGO WYNAGRODZENIA MIESIĘCZNEGO ZASADNICZEGO WYNAGRODZENIA PRACOWNIKÓW ZASADNICZEGO KRAJOWEJ PRACOWNIKÓW SZKOŁY ADMINISTRACJI KRAJOWEJ SZKOŁY PUBLICZNEJ ADMINISTRACJI IM. PREZYDENTA PUBLICZNEJ RZECZYPOSPOLITEJ IM. PREZYDENTA POLSKIEJ RZECZYPOSPOLITEJ LECHA KACZYŃSKIEGO POLSKIEJ LECHA KACZYŃSKIEGO
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 15 września 2011 r. w sprawie wynagradzania pracowników Krajowej Szkoły Administracji Publicznej (Dz. U. poz. 1158 oraz z 2016 r. poz. 1556) wprowadza się następujące zmiany:
+
+- **1)** w tytule rozporządzenia oraz w § 1 w pkt 1 po wyrazach „Krajowej Szkoły Administracji Publicznej” dodaje się wyrazy „im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego”;
+- **2)** § 2 i 3 otrzymują brzmienie:
+
+  > „§ 2. Wykaz stanowisk, wymagania kwalifikacyjne niezbędne do wykonywania pracy na poszczególnych stanowiskach, grupy zaszeregowań oraz stawki miesięcznego wynagrodzenia zasadniczego pracowników Szkoły określa załącznik do rozporządzenia.  
+  > § 3.  
+  > 1. Pracownikom Szkoły zatrudnionym na stanowiskach dyrektora, zastępcy dyrektora, głównego księgowego, szefa pionu, zastępcy szefa pionu, kierownika komórki organizacyjnej oraz koordynatora przysługuje dodatek funkcyjny w wysokości od 10% do 100% najniższego wynagrodzenia zasadniczego pracowników Szkoły.  
+  > 2. Pracownikowi Szkoły może być przyznany dodatek służbowy w wysokości od 10% do 100% najniższego wynagrodzenia zasadniczego pracowników Szkoły.”;  
+- **3)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
+- **4)** uchyla się załącznik nr 2 do rozporządzenia.
+
+**§ 2.** Pracownik Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, który nie spełnia wymagań kwalifikacyjnych przewidzianych dla stanowiska zajmowanego przez niego w dniu wejścia w życie rozporządzenia, może być nadal zatrudniony na tym stanowisku.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
+
+## Załącznik
+
+Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia (poz. ) WYKAZ WYKAZ STANOWISK, STANOWISK, WYMAGANIA WYMAGANIA KWALIFIKACYJNE KWALIFIKACYJNE NIEZBĘDNE NIEZBĘDNE DO DO WYKONYWANIA WYKONYWANIA PRACY PRACY NA POSZCZEGÓLNYCH NA POSZCZEGÓLNYCH STANOWISKACH, STANOWISKACH, GRUPY GRUPY ZASZEREGOWAŃ ZASZEREGOWAŃ ORAZ STAWKI ORAZ STAWKI MIESIĘCZNEGO WYNAGRODZENIA MIESIĘCZNEGO ZASADNICZEGO WYNAGRODZENIA PRACOWNIKÓW ZASADNICZEGO KRAJOWEJ PRACOWNIKÓW SZKOŁY ADMINISTRACJI KRAJOWEJ SZKOŁY PUBLICZNEJ ADMINISTRACJI IM. PREZYDENTA PUBLICZNEJ RZECZYPOSPOLITEJ IM. PREZYDENTA POLSKIEJ RZECZYPOSPOLITEJ LECHA KACZYŃSKIEGO POLSKIEJ LECHA KACZYŃSKIEGO
 

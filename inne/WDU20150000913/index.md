@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych Na podstawie art. 65 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r.
 poz. 1619, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 21 maja 2014 r. w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych (Dz. U. poz. 668) w § 3 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „przejazdu pracownika obsługującego organ egzekucyjny, niezależnie od liczby tytułów wykonawczych, do miejsca zamieszkania lub siedziby zobowiązanego lub miejsca położenia należących do niego składników majątkowych, gdzie dokonano czynności egzekucyjnych lub czynności te miały być dokonane:”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: wz. J. Cichoń
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 21 maja 2014 r. w sprawie sposobu ustalania i dokumentowania wydatków egzekucyjnych (Dz. U. poz. 668) w § 3 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „przejazdu pracownika obsługującego organ egzekucyjny, niezależnie od liczby tytułów wykonawczych, do miejsca zamieszkania lub siedziby zobowiązanego lub miejsca położenia należących do niego składników majątkowych, gdzie dokonano czynności egzekucyjnych lub czynności te miały być dokonane:”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: wz. J. Cichoń
 

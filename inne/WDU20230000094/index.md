@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie określenia przypadków, w których stosuje się niższy poziom zabezpieczenia akcyzowego, szczegółowych warunków odnotowywania obciążenia zabezpieczenia generalnego lub zwolnienia go z tego obciążenia przez podmiot obowiązany do jego złożenia, oraz przypadków, w których nie odnotowuje się obciążenia zabezpieczenia generalnego Na podstawie art. 66 ust. 2 pkt 3, 4 i 6 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2022 r.
 poz. 143, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 15 grudnia 2014 r. w sprawie określenia przypadków, w których stosuje się niższy poziom zabezpieczenia akcyzowego, szczegółowych warunków odnotowywania obciążenia zabezpieczenia generalnego lub zwolnienia go z tego obciążenia przez podmiot obowiązany do jego złożenia, oraz przypadków, w których nie odnotowuje się obciążenia zabezpieczenia generalnego (Dz. U. z 2018 r. poz. 750) w § 2 w pkt 1 uchyla się lit. b.
-§ 2. Rozporządzenie wchodzi w życie z dniem 13 lutego 2023 r.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 15 grudnia 2014 r. w sprawie określenia przypadków, w których stosuje się niższy poziom zabezpieczenia akcyzowego, szczegółowych warunków odnotowywania obciążenia zabezpieczenia generalnego lub zwolnienia go z tego obciążenia przez podmiot obowiązany do jego złożenia, oraz przypadków, w których nie odnotowuje się obciążenia zabezpieczenia generalnego (Dz. U. z 2018 r. poz. 750) w § 2 w pkt 1 uchyla się lit. b.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 13 lutego 2023 r. Minister Finansów: M. Rzeczkowska
 

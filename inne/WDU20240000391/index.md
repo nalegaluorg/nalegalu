@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000391) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/391/text.pdf) |
 
 w sprawie nadania osobowości prawnej instytucji Kościoła Katolickiego pod nazwą Stowarzyszenie „Diakonia Ruchu Światło-Życie Archidiecezji Wrocławskiej” Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1966) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Stowarzyszenie „Diakonia Ruchu Światło-Życie Archidiecezji Wrocławskiej”, erygowanej przez Arcybiskupa Metropolitę Wrocławskiego.
-§ 2. Siedzibą instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Stowarzyszenie „Diakonia Ruchu Światło-Życie Archidiecezji Wrocławskiej” jest Wrocław.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański
+
+**§ 1.** Nadaje się osobowość prawną instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Stowarzyszenie „Diakonia Ruchu Światło-Życie Archidiecezji Wrocławskiej”, erygowanej przez Arcybiskupa Metropolitę Wrocławskiego.
+
+**§ 2.** Siedzibą instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Stowarzyszenie „Diakonia Ruchu Światło-Życie Archidiecezji Wrocławskiej” jest Wrocław.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański
 

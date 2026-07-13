@@ -30,8 +30,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 17 września 2019 r. zmieniającego rozporządzenie w sprawie wzoru kwartalnego sprawozdania o wysokości uiszczonej wpłaty na fundusz likwidacyjny (Dz. U. poz. 1897), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2011 r.
 w sprawie wzoru kwartalnego sprawozdania o wysokości uiszczonej wpłaty na fundusz likwidacyjny Na podstawie art. 38d ust. 9 ustawy z dnia 29 listopada 2000 r. ‒ Prawo atomowe (Dz. U. z 2019 r. poz. 1792 oraz z 2020 r. poz. 284 i 322) zarządza się, co następuje:
-§ 1. Określa się wzór kwartalnego sprawozdania o wysokości uiszczonej wpłaty na fundusz likwidacyjny, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WZÓR ………………………………………….. …………………………...
-KWARTALNE SPRAWOZDANIE o wysokości wpłaty na fundusz likwidacyjny uiszczonej za ... kwartał ... roku Wyprodukowana w ciągu … kwartału … roku energia elektryczna (MWh) Wysokość wpłaty Data wpłaty …..........................................................................................................................
+
+**§ 1.** Określa się wzór kwartalnego sprawozdania o wysokości uiszczonej wpłaty na fundusz likwidacyjny, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WZÓR ………………………………………….. …………………………... KWARTALNE SPRAWOZDANIE o wysokości wpłaty na fundusz likwidacyjny uiszczonej za ... kwartał ... roku Wyprodukowana w ciągu … kwartału … roku energia elektryczna (MWh) Wysokość wpłaty Data wpłaty …..........................................................................................................................
 

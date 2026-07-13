@@ -27,15 +27,19 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000272) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/272/text.pdf) |
 
 w sprawie określenia wzoru formularza zawiadomienia o zakończeniu budowy oraz wniosku o pozwolenie na użytkowanie Na podstawie art. 57 ust. 3b ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1673 i 1847) zarządza się, co następuje:
-§ 1. Określa się wzór formularza:
-1) zawiadomienia o zakończeniu budowy, stanowiący załącznik nr 1 do rozporządzenia,
-2) zawiadomienia o zakończeniu budowy budynku mieszkalnego jednorodzinnego, stanowiący załącznik nr 2 do rządzenia,
-3) wniosku o pozwolenie na użytkowanie, stanowiący załącznik nr 3 do rozporządzenia,
-4) wniosku o pozwolenie na użytkowanie przed wykonaniem wszystkich robót budowlanych, stanowiący załącznik do rozporządzenia – w tym w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).
-§ 2. Formularze zawiadomień o zakończeniu budowy oraz wniosków o pozwolenie na użytkowanie, w tym w dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, określone w załącznikach do rozporządzenia stosuje się do zawiadomień o zakończeniu budowy oraz wniosków o pozwolenie na użytkowanie składanych od dnia wejścia w życie rozporządzenia.
-§ 3. Traci moc rozporządzenie Ministra Rozwoju i Technologii z dnia 31 marca 2022 r. w sprawie określenia formularza zawiadomienia o zakończeniu budowy oraz wniosku o pozwolenie na użytkowanie (Dz. U. poz. 715).
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów i Gospodarki: wz. M.
+
+**§ 1.** Określa się wzór formularza:
+
+- **1)** zawiadomienia o zakończeniu budowy, stanowiący załącznik nr 1 do rozporządzenia,
+- **2)** zawiadomienia o zakończeniu budowy budynku mieszkalnego jednorodzinnego, stanowiący załącznik nr 2 do rządzenia,
+- **3)** wniosku o pozwolenie na użytkowanie, stanowiący załącznik nr 3 do rozporządzenia,
+- **4)** wniosku o pozwolenie na użytkowanie przed wykonaniem wszystkich robót budowlanych, stanowiący załącznik do rozporządzenia – w tym w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).
+
+**§ 2.** Formularze zawiadomień o zakończeniu budowy oraz wniosków o pozwolenie na użytkowanie, w tym w dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, określone w załącznikach do rozporządzenia stosuje się do zawiadomień o zakończeniu budowy oraz wniosków o pozwolenie na użytkowanie składanych od dnia wejścia w życie rozporządzenia.
+
+**§ 3.** Traci moc rozporządzenie Ministra Rozwoju i Technologii z dnia 31 marca 2022 r. w sprawie określenia formularza zawiadomienia o zakończeniu budowy oraz wniosku o pozwolenie na użytkowanie (Dz. U. poz. 715).
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów i Gospodarki: wz. M.
 
 ## Załącznik nr 1 — WZÓR WZÓR ZAWIADOMIENIE o zakończeniu budowy (PB-16) PB-16 nie dotyczy budynków mieszkalnych jednorodzinnych.
 

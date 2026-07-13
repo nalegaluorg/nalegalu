@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001623) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1623/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych Na podstawie art. 37i ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 20 grudnia 2012 r. w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. z 2021 r. poz. 1166 oraz z 2025 r. poz. 1042) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 20 grudnia 2012 r. w sprawie nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych (Dz. U. z 2021 r. poz. 1166 oraz z 2025 r. poz. 1042) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r. Minister Sprawiedliwości: W. Żurek
 

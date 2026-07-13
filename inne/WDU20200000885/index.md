@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie standardów kształcenia przygotowującego do wykonywania zawodu lekarza, lekarza dentysty, farmaceuty, pielęgniarki, położnej, diagnosty laboratoryjnego, fizjoterapeuty i ratownika medycznego Na podstawie art. 68 ust. 3 pkt 1 ustawy z dnia 20 lipca 2018 r. − Prawo o szkolnictwie wyższym i nauce (Dz. U.
 z 2020 r. poz. 85, 374, 695 i 875) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 26 lipca 2019 r. w sprawie standardów kształcenia przygotowującego do wykonywania zawodu lekarza, lekarza dentysty, farmaceuty, pielęgniarki, położnej, diagnosty laboratoryjnego, fizjoterapeuty i ratownika medycznego (Dz. U. poz. 1573 oraz z 2020 r. poz. 581) w § 1b wyrazy „20%” zastępuje się wyrazami „40%”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: W. Murdzek
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 26 lipca 2019 r. w sprawie standardów kształcenia przygotowującego do wykonywania zawodu lekarza, lekarza dentysty, farmaceuty, pielęgniarki, położnej, diagnosty laboratoryjnego, fizjoterapeuty i ratownika medycznego (Dz. U. poz. 1573 oraz z 2020 r. poz. 581) w § 1b wyrazy „20%” zastępuje się wyrazami „40%”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: W. Murdzek
 

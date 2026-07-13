@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych Na podstawie art. 16 ust. 3 pkt 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U.
 z 2025 r. poz. 184) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. z 2023 r. poz. 1403 oraz z 2025 r. poz. 1233) uchyla się § 3b.
-§ 2. Rozporządzenie wchodzi w życie z dniem 25 września 2025 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kierwiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. z 2023 r. poz. 1403 oraz z 2025 r. poz. 1233) uchyla się § 3b.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 25 września 2025 r. Minister Spraw Wewnętrznych i Administracji: M. Kierwiński
 

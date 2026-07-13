@@ -26,15 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000953) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/953/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji Na podstawie art. 31m ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 15 grudnia 2014 r. w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 1862 oraz z 2017 r. poz. 815) w załączniku do rozporządzenia wprowadza się następujące zmiany:
-1) w § 1 dodaje się ust. 4 w brzmieniu: „4. W ramach komórek organizacyjnych Agencji wydzielone przez Prezesa Agencji zespoły mogą wykonywać zadania Agencji poza jej siedzibą.”;
-2) w § 2:
-a) ust. 2 otrzymuje brzmienie: „2. Zastępcy Prezesa Agencji bezpośrednio podlegają komórki organizacyjne, o których mowa w § 1 ust. 3 pkt 6 i 7.”,
-b) uchyla się ust. 3,
-c) ust. 4 otrzymuje brzmienie: „4. Prezesa Agencji, w razie jego nieobecności, zastępuje Zastępca Prezesa Agencji. W razie nieobecności Zastępcy Prezesa Agencji Prezesa Agencji zastępuje Dyrektor Biura Prezesa.”;
-3) w § 3:
-a) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do zadań Zastępcy Prezesa Agencji należy:”,
-b) ust. 2 otrzymuje brzmienie: „2. Zastępca Prezesa Agencji reprezentuje Agencję na zewnątrz w zakresie udzielonego przez Prezesa Agencji upoważnienia.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: Ł. Szumowski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 15 grudnia 2014 r. w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 1862 oraz z 2017 r. poz. 815) w załączniku do rozporządzenia wprowadza się następujące zmiany:
+
+- **1)** w § 1 dodaje się ust. 4 w brzmieniu: „4. W ramach komórek organizacyjnych Agencji wydzielone przez Prezesa Agencji zespoły mogą wykonywać zadania Agencji poza jej siedzibą.”;
+- **2)** w § 2:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Zastępcy Prezesa Agencji bezpośrednio podlegają komórki organizacyjne, o których mowa w § 1 ust. 3 pkt 6 i 7.”,
+    - **b)** uchyla się ust. 3,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Prezesa Agencji, w razie jego nieobecności, zastępuje Zastępca Prezesa Agencji. W razie nieobecności Zastępcy Prezesa Agencji Prezesa Agencji zastępuje Dyrektor Biura Prezesa.”;
+
+- **3)** w § 3:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do zadań Zastępcy Prezesa Agencji należy:”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Zastępca Prezesa Agencji reprezentuje Agencję na zewnątrz w zakresie udzielonego przez Prezesa Agencji upoważnienia.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: Ł. Szumowski
 

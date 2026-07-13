@@ -27,10 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2017 r. poz. 2137 oraz z 2018 r. poz. 1669, 2073 i 2212) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2018 r. poz. 668 i 1086) w załączniku w § 3 w ust. 1:
-1) po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) Departament Bezpieczeństwa;”;
-2) po pkt 12 dodaje się pkt 12a w brzmieniu: „12a) Departament Kontroli Wewnętrznej;”;
-3) uchyla się pkt 13.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2018 r. poz. 668 i 1086) w załączniku w § 3 w ust. 1:
+
+- **1)** po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) Departament Bezpieczeństwa;”;
+- **2)** po pkt 12 dodaje się pkt 12a w brzmieniu: „12a) Departament Kontroli Wewnętrznej;”;
+- **3)** uchyla się pkt 13.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski
 

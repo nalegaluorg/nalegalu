@@ -31,8 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 14 grudnia 2012 r.
 w sprawie wysokości opłaty egzaminacyjnej za udział w egzaminie notarialnym Na podstawie art. 74b § 2 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001, z 2025 r.
 poz. 479, 1669 i 1793 oraz z 2026 r. poz. 26) zarządza się, co następuje:
-§ 1. Opłata egzaminacyjna za udział w egzaminie notarialnym jest równa 70 % minimalnego wynagrodzenia za pracę, ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U.
-z 2024 r. poz. 1773), obowiązującego w dniu przeprowadzenia egzaminu.
-§ 2. Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 9 grudnia 2005 r. w sprawie wysokości opłaty egzaminacyjnej za udział w egzaminie notarialnym (Dz. U. poz. 2078 oraz z 2006 r. poz. 116).
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
+
+**§ 1.** Opłata egzaminacyjna za udział w egzaminie notarialnym jest równa 70 % minimalnego wynagrodzenia za pracę, ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), obowiązującego w dniu przeprowadzenia egzaminu.
+
+**§ 2.** Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 9 grudnia 2005 r. w sprawie wysokości opłaty egzaminacyjnej za udział w egzaminie notarialnym (Dz. U. poz. 2078 oraz z 2006 r. poz. 116).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
 

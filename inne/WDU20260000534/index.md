@@ -27,8 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000534) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/534/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich Na podstawie art. 3 ust. 2 pkt 1 ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. z 2023 r. poz. 922) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich (Dz. U. z 2024 r.
-poz. 455) po § 14b dodaje się § 14c w brzmieniu: „§ 14c. Złożenie wniosku o wypłatę po dniu 31 maja 2026 r. jest niedopuszczalne.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie szczegółowych warunków i trybu udzielania pomocy finansowej na zalesianie gruntów rolnych objętej planem rozwoju obszarów wiejskich (Dz. U. z 2024 r. poz. 455) po § 14b dodaje się § 14c w brzmieniu: „§ 14c. Złożenie wniosku o wypłatę po dniu 31 maja 2026 r. jest niedopuszczalne.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

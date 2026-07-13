@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000189) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/189/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne Na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2016 r. poz. 656 oraz z 2017 r. poz. 1566) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 27 lutego 2012 r. w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne (Dz. U. poz. 261) w § 2 w ust. 2:
-1) wprowadzenie do wyliczenia otrzymuje brzmienie: „Miejsce okazjonalnie wykorzystywane do kąpieli wyposaża się w:”;
-2) pkt 3 otrzymuje brzmienie: „3) żerdzie ratunkowe – w miejscach okazjonalnie wykorzystywanych do kąpieli posiadających pomosty stałe lub pływające – dwie sztuki;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. S. Chwałek
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 27 lutego 2012 r. w sprawie wymagań dotyczących wyposażenia wyznaczonych obszarów wodnych w sprzęt ratunkowy i pomocniczy, urządzenia sygnalizacyjne i ostrzegawcze oraz sprzęt medyczny, leki i artykuły sanitarne (Dz. U. poz. 261) w § 2 w ust. 2:
+
+- **1)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Miejsce okazjonalnie wykorzystywane do kąpieli wyposaża się w:”;
+- **2)** pkt 3 otrzymuje brzmienie: „3) żerdzie ratunkowe – w miejscach okazjonalnie wykorzystywanych do kąpieli posiadających pomosty stałe lub pływające – dwie sztuki;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. S. Chwałek
 

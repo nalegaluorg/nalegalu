@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. z 2017 r.
 poz. 1181, 1237 i 1503) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 1439 oraz z 2017 r. poz. 517 i 1233) wprowadza się następujące zmiany:
-1) w § 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku klęsk żywiołowych i katastrof oraz wprowadzanie odpowiednich środków zapobiegawczych”, poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof”, typ operacji: inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej.”;
-2) w § 3 dodaje się ust. 4 w brzmieniu: „4. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 4, udziela się od dnia 4 września 2017 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Finansów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. poz. 1439 oraz z 2017 r. poz. 517 i 1233) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku klęsk żywiołowych i katastrof oraz wprowadzanie odpowiednich środków zapobiegawczych”, poddziałania „Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof”, typ operacji: inwestycje zapobiegające zniszczeniu potencjału produkcji rolnej.”;
+- **2)** w § 3 dodaje się ust. 4 w brzmieniu: „4. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 4, udziela się od dnia 4 września 2017 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Finansów: M. Morawiecki
 

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie utworzenia Sądu Okręgowego w Rybniku Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r.
 poz. 52, 55, 60, 125, 1469 i 1495) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 4 października 2019 r. w sprawie utworzenia Sądu Okręgowego w Rybniku (Dz. U. poz. 1938) § 2 otrzymuje brzmienie: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 4 października 2019 r. w sprawie utworzenia Sądu Okręgowego w Rybniku (Dz. U. poz. 1938) § 2 otrzymuje brzmienie: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. Minister Sprawiedliwości: Z. Ziobro
 

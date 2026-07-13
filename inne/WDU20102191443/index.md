@@ -31,7 +31,10 @@ source: pdf
 
 - **1)** w art. 3:
     - **a)** pkt 3 otrzymuje brzmienie: „3) lekarz systemu – lekarz posiadający tytuł specjalisty w dziedzinie medycyny ratunkowej albo lekarz, który ukończył co najmniej drugi rok specjalizacji w dziedzinie medycyny ratunkowej, z zastrzeżeniem art. 57;”,
-    - **b)** dodaje się pkt 13 i 14 w brzmieniu: „13) obszar działania – obszar działania zespołu ratownictwa medycznego, określony w sposób zapewniający realizację parametrów czasów dotarcia, o których mowa w art. 24, w ramach którego zespół ten będzie dysponowany na miejsce zdarzenia w pierwszej kolejności; 14) rejon operacyjny – rejon określony w wojewódzkim planie działania systemu, obejmujący co najmniej jeden obszar działania.”;
+    - **b)** dodaje się pkt 13 i 14 w brzmieniu:
+
+      > „13) obszar działania – obszar działania zespołu ratownictwa medycznego, określony w sposób zapewniający realizację parametrów czasów dotarcia, o których mowa w art. 24, w ramach którego zespół ten będzie dysponowany na miejsce zdarzenia w pierwszej kolejności;  
+      > 14) rejon operacyjny – rejon określony w wojewódzkim planie działania systemu, obejmujący co najmniej jeden obszar działania.”;  
 
 - **2)** w art. 17 w ust. 3 pkt 2 otrzymuje brzmienie: „2) teren działania jednostki współpracującej z systemem,”;
 - **3)** art. 21 otrzymuje brzmienie: ,,Art. 21. 1. System działa na obszarze województwa na podstawie wojewódzkiego planu działania systemu, zwanego dalej „planem”, sporządzanego przez wojewodę.

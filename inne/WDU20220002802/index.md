@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002802) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2802/text.pdf) |
 
 w sprawie wyznaczenia dyrektora izby administracji skarbowej właściwego w sprawach numerów akcyzowych uprawnionych odbiorców oraz numerów akcyzowych uprawnionych wysyłających Na podstawie art. 20o ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2022 r. poz. 143, z późn. zm. ) zarządza się, co następuje:
-§ 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Poznaniu jako organ właściwy w sprawach numerów akcyzowych uprawnionych odbiorców oraz numerów akcyzowych uprawnionych wysyłających.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** Wyznacza się Dyrektora Izby Administracji Skarbowej w Poznaniu jako organ właściwy w sprawach numerów akcyzowych uprawnionych odbiorców oraz numerów akcyzowych uprawnionych wysyłających.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. Minister Finansów: M. Rzeczkowska
 

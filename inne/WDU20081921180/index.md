@@ -27,7 +27,10 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081921180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1180/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz.U. z 2004 r. Nr 39, poz. 353, z późn. zm. ) w art. 15 po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Jeżeli nie można ustalić podstawy wymiaru składek w okresie pozostawania w stosunku pracy wskazanym do ustalenia podstawy wymiaru emerytury i renty, za podstawę wymiaru składek przyjmuje się kwotę obowiązującego w tym okresie minimalnego wynagrodzenia pracowników, proporcjonalnie do okresu podlegania ubezpieczeniu i wymiaru czasu pracy. 2b. Przepisy ust. 2a stosuje się odpowiednio do osób uznanych za repatriantów.”.
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz.U. z 2004 r. Nr 39, poz. 353, z późn. zm. ) w art. 15 po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
+
+> „2a. Jeżeli nie można ustalić podstawy wymiaru składek w okresie pozostawania w stosunku pracy wskazanym do ustalenia podstawy wymiaru emerytury i renty, za podstawę wymiaru składek przyjmuje się kwotę obowiązującego w tym okresie minimalnego wynagrodzenia pracowników, proporcjonalnie do okresu podlegania ubezpieczeniu i wymiaru czasu pracy.  
+> 2b. Przepisy ust. 2a stosuje się odpowiednio do osób uznanych za repatriantów.”.  
 
 **Art. 2.**
 

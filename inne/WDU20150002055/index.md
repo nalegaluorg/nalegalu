@@ -26,18 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002055) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2055/text.pdf) |
 
 w sprawie wzoru wniosku o udzielenie autoryzacji oraz wzorów wniosków o wpis do rejestru Na podstawie art. 9 ust. 8 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych (Dz. U. poz. 881) zarządza się, co następuje:
-§ 1. Określa się:
-1) wzór wniosku o udzielenie autoryzacji na przechowywanie halonów do zastosowań krytycznych, o której mowa w art. 8 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych, zwanej dalej ,,ustawą”, który stanowi załącznik nr 1 do rozporządzenia;
-2) wzór wniosku o wpis do rejestru, o którym mowa w art. 7 ust. 1 ustawy, dla przedsiębiorstw produkujących, stosujących lub wprowadzających na terytorium Rzeczypospolitej Polskiej nowe substancje, który stanowi załącznik nr 2 do rozporządzenia;
-3) wzór wniosku o wpis do rejestru, o którym mowa w art. 7 ust. 1 ustawy, dla przedsiębiorstw stosujących substancje kontrolowane w charakterze substratów oraz przedsiębiorstw prowadzących niszczenie substancji kontrolowanych, który stanowi załącznik nr 3 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Środowiska: M.H. Grabowski Załączniki do rozporządzenia Ministra Środowiska z dnia 6 listopada 2015 r.. . . . . . . .
-(poz. …) Załącznik nr 1 WZÓR WZÓR WNIOSEK O UDZIELENIE AUTORYZACJI NA PRZECHOWYWANIE HALONÓW DO ZASTOSOWAŃ KRYTYCZNYCH
-1. Dane wnioskodawcy Nazwa wnioskodawcy Oznaczenie siedziby i adres Województwo Miejscowość Kod pocztowy Ulica Nr Nr domu lokalu Numer telefonu, adres poczty elektronicznej lub adres strony internetowej
-2. Data sporządzenia wniosku
-3. Podpis W przypadku osoby fizycznej prowadzącej działalność gospodarczą – adres wykonywania działalności.
-O ile posiada.
-Pole to wypełnia się w przypadku gdy wniosek jest składany w postaci papierowej. Wniosek podpisuje osoba upoważniona do reprezentowania podmiotu niebędącego osobą fizyczną zgodnie z wpisem do Krajowego Rejestru Sądowego lub osoba fizyczna prowadząca działalność gospodarczą.
+
+**§ 1.** Określa się:
+
+- **1)** wzór wniosku o udzielenie autoryzacji na przechowywanie halonów do zastosowań krytycznych, o której mowa w art. 8 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych, zwanej dalej ,,ustawą”, który stanowi załącznik nr 1 do rozporządzenia;
+- **2)** wzór wniosku o wpis do rejestru, o którym mowa w art. 7 ust. 1 ustawy, dla przedsiębiorstw produkujących, stosujących lub wprowadzających na terytorium Rzeczypospolitej Polskiej nowe substancje, który stanowi załącznik nr 2 do rozporządzenia;
+- **3)** wzór wniosku o wpis do rejestru, o którym mowa w art. 7 ust. 1 ustawy, dla przedsiębiorstw stosujących substancje kontrolowane w charakterze substratów oraz przedsiębiorstw prowadzących niszczenie substancji kontrolowanych, który stanowi załącznik nr 3 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Środowiska: M.H. Grabowski Załączniki do rozporządzenia Ministra Środowiska z dnia 6 listopada 2015 r.. . . . . . . . (poz. …) Załącznik nr 1 WZÓR WZÓR WNIOSEK O UDZIELENIE AUTORYZACJI NA PRZECHOWYWANIE HALONÓW DO ZASTOSOWAŃ KRYTYCZNYCH 1. Dane wnioskodawcy Nazwa wnioskodawcy Oznaczenie siedziby i adres Województwo Miejscowość Kod pocztowy Ulica Nr Nr domu lokalu Numer telefonu, adres poczty elektronicznej lub adres strony internetowej 2. Data sporządzenia wniosku 3. Podpis W przypadku osoby fizycznej prowadzącej działalność gospodarczą – adres wykonywania działalności. O ile posiada. Pole to wypełnia się w przypadku gdy wniosek jest składany w postaci papierowej. Wniosek podpisuje osoba upoważniona do reprezentowania podmiotu niebędącego osobą fizyczną zgodnie z wpisem do Krajowego Rejestru Sądowego lub osoba fizyczna prowadząca działalność gospodarczą.
 
 ## Załącznik nr 2 — WZÓR WZÓR WNIOSEK O WPIS DO REJESTRU DLA PRZEDSIĘBIORSTW PRODUKUJĄCYCH, STOSUJĄCYCH LUB WPROWADZAJĄCYCH NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ NOWE SUBSTANCJE
 

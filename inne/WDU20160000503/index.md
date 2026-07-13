@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie pobierania i badania próbek substancji chemicznych i ich mieszanin oraz wyrobów w ramach nadzoru wykonywanego przez Państwową Inspekcję Sanitarną Na podstawie art. 27b ust. 6 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2015 r.
 poz. 1412) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 4 kwietnia 2012 r. w sprawie pobierania i badania próbek substancji chemicznych i ich mieszanin oraz wyrobów w ramach nadzoru wykonywanego przez Państwową Inspekcję Sanitarną (Dz. U. poz. 379) wprowadza się następujące zmiany:
-1) w § 6 ust. 3 otrzymuje brzmienie: „3. Właściwy państwowy inspektor sanitarny, który dokonał pobrania próbki, przekazuje próbkę do badań osobiście albo za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r.
-– Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830) przesyłką rejestrowaną, nadaną w sposób umożliwiający uzyskanie przez nadawcę dokumentu potwierdzającego odbiór tej przesyłki.”;
-2) w § 8 ust. 4 otrzymuje brzmienie: „4. W przypadku przekazania próbki do badań za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe potwierdzenie odbioru albo zwrotne pokwitowanie odbioru próbki stanowi dowód przyjęcia przez laboratorium próbki do badań.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: K. Radziwiłł
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 4 kwietnia 2012 r. w sprawie pobierania i badania próbek substancji chemicznych i ich mieszanin oraz wyrobów w ramach nadzoru wykonywanego przez Państwową Inspekcję Sanitarną (Dz. U. poz. 379) wprowadza się następujące zmiany:
+
+- **1)** w § 6 ust. 3 otrzymuje brzmienie: „3. Właściwy państwowy inspektor sanitarny, który dokonał pobrania próbki, przekazuje próbkę do badań osobiście albo za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830) przesyłką rejestrowaną, nadaną w sposób umożliwiający uzyskanie przez nadawcę dokumentu potwierdzającego odbiór tej przesyłki.”;
+- **2)** w § 8 ust. 4 otrzymuje brzmienie: „4. W przypadku przekazania próbki do badań za pośrednictwem operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe potwierdzenie odbioru albo zwrotne pokwitowanie odbioru próbki stanowi dowód przyjęcia przez laboratorium próbki do badań.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: K. Radziwiłł
 

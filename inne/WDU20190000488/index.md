@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000488) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/488/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 1614, 2244 i 2340) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem (Dz. U. z 2016 r. poz. 132) w załączniku do rozporządzenia w § 2:
-1) pkt 3 otrzymuje brzmienie: „3) Dział Edukacji;”;
-2) po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) Samodzielne stanowisko do spraw pracowniczych;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Środowiska: H. Kowalczyk
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Tatrzańskiemu Parkowi Narodowemu z siedzibą w Zakopanem (Dz. U. z 2016 r. poz. 132) w załączniku do rozporządzenia w § 2:
+
+- **1)** pkt 3 otrzymuje brzmienie: „3) Dział Edukacji;”;
+- **2)** po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) Samodzielne stanowisko do spraw pracowniczych;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Środowiska: H. Kowalczyk
 

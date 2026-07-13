@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002623) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2623/text.pdf) |
 
 w sprawie wysokości zryczałtowanej miesięcznej opłaty związanej z użytkowaniem w celi mieszkalnej dodatkowego sprzętu elektronicznego lub elektrycznego Na podstawie art. 110b § 7 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm. ) zarządza się, co następuje:
-§ 1. Wysokość zryczałtowanej miesięcznej opłaty związanej z użytkowaniem w celi mieszkalnej dodatkowego sprzętu elektronicznego lub elektrycznego wynosi 15 złotych miesięcznie.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** Wysokość zryczałtowanej miesięcznej opłaty związanej z użytkowaniem w celi mieszkalnej dodatkowego sprzętu elektronicznego lub elektrycznego wynosi 15 złotych miesięcznie.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. Minister Sprawiedliwości: Z. Ziobro
 

@@ -28,10 +28,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy na zieloną transformację miast w obszarze ochrony środowiska w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r.
 poz. 198) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Funduszy i Polityki Regionalnej z dnia 12 czerwca 2024 r. w sprawie udzielania pomocy na zieloną transformację miast w obszarze ochrony środowiska w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 901) w § 25 w ust. 1 pkt 1–3 otrzymują brzmienie: „1) produkcji lub magazynowania energii elektrycznej lub energii cieplnej ze źródeł odnawialnych, jeżeli są spełnione warunki, o których mowa w art. 41 ust. 1a rozporządzenia nr 651/2014;
-2) produkcji lub magazynowania biopaliw, biopłynów, biogazu, w tym biometanu, lub paliw z biomasy, jeżeli są spełnione warunki, o których mowa w art. 41 ust. 2 rozporządzenia nr 651/2014;
-3) produkcji, przesyłu, dystrybucji lub magazynowania wodoru odnawialnego, jeżeli są spełnione warunki, o których mowa w art. 41 ust. 3 rozporządzenia nr 651/2014;”.
-§ 2. Do umów o objęciu przedsięwzięcia wsparciem zwrotnym z Krajowego Planu Odbudowy i Zwiększania Odporności zawieranych po dniu wejścia w życie niniejszego rozporządzenia, na podstawie wniosków o objęcie przedsięwzięcia wsparciem z Krajowego Planu Odbudowy i Zwiększania Odporności złożonych w postępowaniach wszczętych przed tym dniem, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Funduszy i Polityki Regionalnej: K. Pełczyńska-Nałęcz
+
+**§ 1.** W rozporządzeniu Ministra Funduszy i Polityki Regionalnej z dnia 12 czerwca 2024 r. w sprawie udzielania pomocy na zieloną transformację miast w obszarze ochrony środowiska w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 901) w § 25 w ust. 1 pkt 1–3 otrzymują brzmienie:
+
+> „1) produkcji lub magazynowania energii elektrycznej lub energii cieplnej ze źródeł odnawialnych, jeżeli są spełnione warunki, o których mowa w art. 41 ust. 1a rozporządzenia nr 651/2014;  
+> 2) produkcji lub magazynowania biopaliw, biopłynów, biogazu, w tym biometanu, lub paliw z biomasy, jeżeli są spełnione warunki, o których mowa w art. 41 ust. 2 rozporządzenia nr 651/2014;  
+> 3) produkcji, przesyłu, dystrybucji lub magazynowania wodoru odnawialnego, jeżeli są spełnione warunki, o których mowa w art. 41 ust. 3 rozporządzenia nr 651/2014;”.  
+
+**§ 2.** Do umów o objęciu przedsięwzięcia wsparciem zwrotnym z Krajowego Planu Odbudowy i Zwiększania Odporności zawieranych po dniu wejścia w życie niniejszego rozporządzenia, na podstawie wniosków o objęcie przedsięwzięcia wsparciem z Krajowego Planu Odbudowy i Zwiększania Odporności złożonych w postępowaniach wszczętych przed tym dniem, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Funduszy i Polityki Regionalnej: K. Pełczyńska-Nałęcz
 

@@ -27,7 +27,11 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092211738) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1738/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, Nr 202, poz. 1551 i Nr 219, poz. 1706) po art. 90 dodaje się art. 90a w brzmieniu: „Art. 90a. 1. Rada powiatu może, w drodze uchwały, podwyższyć wysokość kwot pomocy pieniężnej przysługującej rodzinom zastępczym, wysokość pomocy pieniężnej na kontynuowanie nauki i usamodzielnienie oraz wartość pomocy na zagospodarowanie. 2. Podwyższenie wysokości pomocy, o której mowa w ust. 1, może być zróżnicowane i uzależnione od spełnienia dodatkowych warunków określonych w uchwale rady powiatu.”.
+**Art. 1.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2009 r. Nr 175, poz. 1362, Nr 202, poz. 1551 i Nr 219, poz. 1706) po art. 90 dodaje się art. 90a w brzmieniu:
+
+> „Art. 90a.  
+> 1. Rada powiatu może, w drodze uchwały, podwyższyć wysokość kwot pomocy pieniężnej przysługującej rodzinom zastępczym, wysokość pomocy pieniężnej na kontynuowanie nauki i usamodzielnienie oraz wartość pomocy na zagospodarowanie.  
+> 2. Podwyższenie wysokości pomocy, o której mowa w ust. 1, może być zróżnicowane i uzależnione od spełnienia dodatkowych warunków określonych w uchwale rady powiatu.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

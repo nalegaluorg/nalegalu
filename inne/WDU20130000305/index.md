@@ -27,9 +27,13 @@ source: pdf
 
 w sprawie nadania statutu Gorczańskiemu Parkowi Narodowemu z siedzibą w Porębie Wielkiej Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. Gorczańskiemu Parkowi Narodowemu z siedzibą w Porębie Wielkiej nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Środowiska: M. Korolec STATUT GORCZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W PORĘBIE WIELKIEJ
+
+**§ 1.** Gorczańskiemu Parkowi Narodowemu z siedzibą w Porębie Wielkiej nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. Minister Środowiska: M. Korolec STATUT GORCZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W PORĘBIE WIELKIEJ
+
+## Załącznik
+
 § 1. Gorczański Park Narodowy z siedzibą w Porębie Wielkiej, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn.
 zm.) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowisko pracy:

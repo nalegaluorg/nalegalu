@@ -30,35 +30,38 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Gospodarki w s
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Przedsiębiorczości i Technologii z dnia 22 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie wzorów wniosków oraz zezwoleń na obrót towarami o znaczeniu strategicznym (Dz. U. poz. 1748), które stanowią: „ § 2. Do wniosków złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rozwoju, Pracy i Technologii: J. Gowin Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718). Załącznik do obwieszczenia Ministra Rozwoju, Pracy i Technologii z dnia 26 lutego 2021 r. (poz. 604)
 RozpoRządzenie MiniSTRA GoSpodARKi z dnia 30 lipca 2012 r.
 w sprawie wzorów wniosków oraz zezwoleń na obrót towarami o znaczeniu strategicznym Na podstawie art. 9 ust. 8 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2020 r. poz. 509) zarządza się, co następuje:
-§ 1. Określa się wzór wniosku o:
-1) wydanie zezwolenia indywidualnego lub globalnego na wywóz towarów o znaczeniu strategicznym,
-2) wydanie zezwolenia indywidualnego lub globalnego na transfer wewnątrzunijny towarów o znaczeniu strategicznym,
-3) wydanie zezwolenia indywidualnego lub globalnego na usługę pośrednictwa w zakresie towarów o znaczeniu strategicznym,
-4) wydanie zezwolenia indywidualnego lub globalnego na pomoc techniczną w zakresie towarów o znaczeniu strategicznym,
-5) wydanie zezwolenia indywidualnego lub globalnego na tranzyt uzbrojenia,
-6) wydanie zezwolenia indywidualnego lub globalnego na przywóz uzbrojenia,
-7) wydanie certyfikatu importowego,
-8) poświadczenie oświadczenia końcowego użytkownika – stanowiący załącznik nr 1 do rozporządzenia.
-§ 2. Określa się wzór zezwolenia indywidualnego na:
-1) wywóz uzbrojenia, stanowiący załącznik nr 2 do rozporządzenia;
-2) transfer wewnątrzunijny uzbrojenia, stanowiący załącznik nr 3 do rozporządzenia;
-3) transfer wewnątrzunijny produktów podwójnego zastosowania, stanowiący załącznik nr 4 do rozporządzenia;
-4) usługę pośrednictwa w zakresie uzbrojenia, stanowiący załącznik nr 5 do rozporządzenia;
-5) pomoc techniczną w zakresie uzbrojenia, stanowiący załącznik nr 6 do rozporządzenia;
-6) pomoc techniczną w zakresie produktów podwójnego zastosowania, stanowiący załącznik nr 7 do rozporządzenia;
-7) tranzyt uzbrojenia, stanowiący załącznik nr 8 do rozporządzenia;
-8) przywóz uzbrojenia, stanowiący załącznik nr 9 do rozporządzenia.
-Obecnie działem administracji rządowej – gospodarka kieruje Minister Rozwoju, Pracy i Technologii, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
-§ 3. Określa się wzór zezwolenia globalnego na:
-1) transfer wewnątrzunijny uzbrojenia, stanowiący załącznik nr 10 do rozporządzenia;
-2) transfer wewnątrzunijny produktów podwójnego zastosowania, stanowiący załącznik nr 11 do rozporządzenia;
-3) usługę pośrednictwa w zakresie uzbrojenia, stanowiący załącznik nr 12 do rozporządzenia;
-4) pomoc techniczną w zakresie uzbrojenia, stanowiący załącznik nr 13 do rozporządzenia;
-5) pomoc techniczną w zakresie produktów podwójnego zastosowania, stanowiący załącznik nr 14 do rozporządzenia.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-Rozporządzenie zostało ogłoszone w dniu 14 sierpnia 2012 r.
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki i Pracy z dnia 28 września 2004 r. w sprawie wzor ów zezwoleń indywidualnych lub globalnych na obrót towarami o znaczeniu strategicznym oraz wzoru certyfikatu importowego (Dz. U. poz. 2234), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 11 ustawy z dnia 25 maja 2012 r. o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeńs twa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz niektórych innych ustaw (Dz. U.
-poz. 707).
+
+**§ 1.** Określa się wzór wniosku o:
+
+- **1)** wydanie zezwolenia indywidualnego lub globalnego na wywóz towarów o znaczeniu strategicznym,
+- **2)** wydanie zezwolenia indywidualnego lub globalnego na transfer wewnątrzunijny towarów o znaczeniu strategicznym,
+- **3)** wydanie zezwolenia indywidualnego lub globalnego na usługę pośrednictwa w zakresie towarów o znaczeniu strategicznym,
+- **4)** wydanie zezwolenia indywidualnego lub globalnego na pomoc techniczną w zakresie towarów o znaczeniu strategicznym,
+- **5)** wydanie zezwolenia indywidualnego lub globalnego na tranzyt uzbrojenia,
+- **6)** wydanie zezwolenia indywidualnego lub globalnego na przywóz uzbrojenia,
+- **7)** wydanie certyfikatu importowego,
+- **8)** poświadczenie oświadczenia końcowego użytkownika – stanowiący załącznik nr 1 do rozporządzenia.
+
+**§ 2.** Określa się wzór zezwolenia indywidualnego na:
+
+- **1)** wywóz uzbrojenia, stanowiący załącznik nr 2 do rozporządzenia;
+- **2)** transfer wewnątrzunijny uzbrojenia, stanowiący załącznik nr 3 do rozporządzenia;
+- **3)** transfer wewnątrzunijny produktów podwójnego zastosowania, stanowiący załącznik nr 4 do rozporządzenia;
+- **4)** usługę pośrednictwa w zakresie uzbrojenia, stanowiący załącznik nr 5 do rozporządzenia;
+- **5)** pomoc techniczną w zakresie uzbrojenia, stanowiący załącznik nr 6 do rozporządzenia;
+- **6)** pomoc techniczną w zakresie produktów podwójnego zastosowania, stanowiący załącznik nr 7 do rozporządzenia;
+- **7)** tranzyt uzbrojenia, stanowiący załącznik nr 8 do rozporządzenia;
+- **8)** przywóz uzbrojenia, stanowiący załącznik nr 9 do rozporządzenia. Obecnie działem administracji rządowej – gospodarka kieruje Minister Rozwoju, Pracy i Technologii, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
+
+**§ 3.** Określa się wzór zezwolenia globalnego na:
+
+- **1)** transfer wewnątrzunijny uzbrojenia, stanowiący załącznik nr 10 do rozporządzenia;
+- **2)** transfer wewnątrzunijny produktów podwójnego zastosowania, stanowiący załącznik nr 11 do rozporządzenia;
+- **3)** usługę pośrednictwa w zakresie uzbrojenia, stanowiący załącznik nr 12 do rozporządzenia;
+- **4)** pomoc techniczną w zakresie uzbrojenia, stanowiący załącznik nr 13 do rozporządzenia;
+- **5)** pomoc techniczną w zakresie produktów podwójnego zastosowania, stanowiący załącznik nr 14 do rozporządzenia.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia . Rozporządzenie zostało ogłoszone w dniu 14 sierpnia 2012 r. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki i Pracy z dnia 28 września 2004 r. w sprawie wzor ów zezwoleń indywidualnych lub globalnych na obrót towarami o znaczeniu strategicznym oraz wzoru certyfikatu importowego (Dz. U. poz. 2234), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 11 ustawy z dnia 25 maja 2012 r. o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeńs twa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 707).
 
 ## Załączniki do rozporządzenia Ministra Gospodarki z dnia 30 lipca 2012 r.
 

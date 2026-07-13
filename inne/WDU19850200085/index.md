@@ -256,11 +256,21 @@ source: pdf
 - **2)** po ust. 3 dodaje się nowy ust. 4 w brzmieniu: „4. Odwołanie do sądu przysługuje także w wypadku niewydania przez wojskowy organ emerytalny decyzji w terminie dwóch miesięcy od dnia zgłoszenia wniosku o zaopatrzenie emerytalne bądź powstania obowiązku wszczęcia postępowania z urzędu.”;
 - **3)** dotychczasowy ust. 4 otrzymuje oznaczenie ust. 5.
 
-**Art. 8.** W ustawie z dnia 16 grudnia 1972 r. o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową (Dz. U. Nr 53, poz. 342) w art. 12 ust. 3 i 4 otrzymują brzmienie: „3. Od decyzji organu wojskowego przysługuje zainteresowanemu odwołanie do właściwego sądu według zasad określonych w przepisach Kodeksu postępowania cywilnego oraz w terminie przewidzianym w art. 477 § 1 tego Kodeksu. 4. Odwołanie do sądu przysługuje także w wypadku niewydania przez organ wojskowy decyzji w terminie dwóch miesięcy od dnia zgłoszenia wniosku o świadczenia odszkodowawcze bądź powstania obowiązku wszczęcia postępowania z urzędu.”.
+**Art. 8.** W ustawie z dnia 16 grudnia 1972 r. o świadczeniach odszkodowawczych przysługujących w razie wypadków i chorób pozostających w związku ze służbą wojskową (Dz. U. Nr 53, poz. 342) w art. 12 ust. 3 i 4 otrzymują brzmienie:
 
-**Art. 9.** W ustawie z dnia 16 grudnia 1972 r. o odszkodowaniach przysługujących w razie wypadków i chorób pozostających w związku ze służbą w Milicji Obywatelskiej (Dz. U. Nr 53, poz. 345 i z 1983 r. Nr 16, poz. 79) w art. 12 ust. 3 i 4 otrzymują brzmienie: „3. Od decyzji organu resortu spraw wewnętrznych przysługuje zainteresowanemu odwołanie do właściwego sądu według zasad określonych w przepisach Kodeksu postępowania cywilnego oraz w terminie przewidzianym w art. 477 § 1 tego Kodeksu. 4. Odwołanie do sądu przysługuje także w wypadku niewydania przez organ resortu spraw wewnętrznych decyzji w terminie dwóch miesięcy od dnia zgłoszenia wniosku o świadczenia odszkodowawcze bądź powstania obowiązku wszczęcia postępowania z urzędu.”.
+> „3. Od decyzji organu wojskowego przysługuje zainteresowanemu odwołanie do właściwego sądu według zasad określonych w przepisach Kodeksu postępowania cywilnego oraz w terminie przewidzianym w art. 477 § 1 tego Kodeksu.  
+> 4. Odwołanie do sądu przysługuje także w wypadku niewydania przez organ wojskowy decyzji w terminie dwóch miesięcy od dnia zgłoszenia wniosku o świadczenia odszkodowawcze bądź powstania obowiązku wszczęcia postępowania z urzędu.”.  
 
-**Art. 10.** W ustawie z dnia 28 kwietnia 1983 r. o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin (Dz. U. Nr 23, poz. 99) art. 28 otrzymuje brzmienie: „Art. 28. 1. Od decyzji wydanej przez właściwą kolejową jednostkę organizacyjną przysługuje odwołanie do właściwego sądu według zasad określonych w przepisach Kodeksu postępowania cywilnego oraz w terminie przewidzianym w art. 477 § 1 tego Kodeksu. 2. Odwołanie do sądu przysługuje także w wypadku niewydania przez kolejową jednostkę organizacyjną decyzji w terminie dwóch miesięcy od dnia zgłoszenia roszczenia.”.
+**Art. 9.** W ustawie z dnia 16 grudnia 1972 r. o odszkodowaniach przysługujących w razie wypadków i chorób pozostających w związku ze służbą w Milicji Obywatelskiej (Dz. U. Nr 53, poz. 345 i z 1983 r. Nr 16, poz. 79) w art. 12 ust. 3 i 4 otrzymują brzmienie:
+
+> „3. Od decyzji organu resortu spraw wewnętrznych przysługuje zainteresowanemu odwołanie do właściwego sądu według zasad określonych w przepisach Kodeksu postępowania cywilnego oraz w terminie przewidzianym w art. 477 § 1 tego Kodeksu.  
+> 4. Odwołanie do sądu przysługuje także w wypadku niewydania przez organ resortu spraw wewnętrznych decyzji w terminie dwóch miesięcy od dnia zgłoszenia wniosku o świadczenia odszkodowawcze bądź powstania obowiązku wszczęcia postępowania z urzędu.”.  
+
+**Art. 10.** W ustawie z dnia 28 kwietnia 1983 r. o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin (Dz. U. Nr 23, poz. 99) art. 28 otrzymuje brzmienie:
+
+> „Art. 28.  
+> 1. Od decyzji wydanej przez właściwą kolejową jednostkę organizacyjną przysługuje odwołanie do właściwego sądu według zasad określonych w przepisach Kodeksu postępowania cywilnego oraz w terminie przewidzianym w art. 477 § 1 tego Kodeksu.  
+> 2. Odwołanie do sądu przysługuje także w wypadku niewydania przez kolejową jednostkę organizacyjną decyzji w terminie dwóch miesięcy od dnia zgłoszenia roszczenia.”.  
 
 #### Rozdział 3 Przepisy przejściowe i końcowe
 

@@ -27,9 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie uposażenia zasadniczego funkcjonariuszy Na podstawie art. 57 ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz.
 zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 18 grudnia 2022 r. w sprawie cjonariuszy Służby Więziennej (Dz. U. poz. 2729, z 2023 r. poz. 592 oraz z 2024 r. poz.
-brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym wanie do uposażeń zasadniczych funkcjonariuszy Służby Więziennej należnych od dnia
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister GRUPY ZASZEREGOWANIA ORAZ ODPOWIADAJĄCE IM MNOŻNIKI PRZECIĘTNEGO STANOWIĄCE UPOSAŻENIE ZASADNICZE FUNKCJONARIUSZA SŁUŻBY GRUPY ZASZEREGOWANIA ORAZ ODPOWIADAJĄCE IM MNOŻNIKI PRZECIĘTNEGO UPOSAŻENIA STANOWIĄCE UPOSAŻENIE ZASADNICZE FUNKCJONARIUSZA SŁUŻBY WIĘZIENNEJ Grupa zaszeregowania Mnożniki przeciętnego 41 1,3403 40 1,2179 39 1,1249 38 1,0570 37 0,9891 36 0,9196 35 0,8941 34 0,8599 33 0,8500 32 0,7866 31 0,7814 30 0,7765 29 0,7480 28 0,7432 27 0,7201 26 0,7113 25 0,6874 24 0,6872 23 0,6632 22 0,6593 21 0,6556 20 0,6363 19 0,6326 18 0,6247 17 0,6211 16 0,6014 15 0,5840 14 0,5809 13 0,5794 12 0,5726 11 0,5590 10 0,5596 9 0,5443 8 0,5373 7 0,5325 6 0,5201 5 0,5110 4 0,4960 3 0,4837 2 0,4617 1 0,1879
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 18 grudnia 2022 r. w sprawie cjonariuszy Służby Więziennej (Dz. U. poz. 2729, z 2023 r. poz. 592 oraz z 2024 r. poz. brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym wanie do uposażeń zasadniczych funkcjonariuszy Służby Więziennej należnych od dnia
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister GRUPY ZASZEREGOWANIA ORAZ ODPOWIADAJĄCE IM MNOŻNIKI PRZECIĘTNEGO STANOWIĄCE UPOSAŻENIE ZASADNICZE FUNKCJONARIUSZA SŁUŻBY GRUPY ZASZEREGOWANIA ORAZ ODPOWIADAJĄCE IM MNOŻNIKI PRZECIĘTNEGO UPOSAŻENIA STANOWIĄCE UPOSAŻENIE ZASADNICZE FUNKCJONARIUSZA SŁUŻBY WIĘZIENNEJ Grupa zaszeregowania Mnożniki przeciętnego 41 1,3403 40 1,2179 39 1,1249 38 1,0570 37 0,9891 36 0,9196 35 0,8941 34 0,8599 33 0,8500 32 0,7866 31 0,7814 30 0,7765 29 0,7480 28 0,7432 27 0,7201 26 0,7113 25 0,6874 24 0,6872 23 0,6632 22 0,6593 21 0,6556 20 0,6363 19 0,6326 18 0,6247 17 0,6211 16 0,6014 15 0,5840 14 0,5809 13 0,5794 12 0,5726 11 0,5590 10 0,5596 9 0,5443 8 0,5373 7 0,5325 6 0,5201 5 0,5110 4 0,4960 3 0,4837 2 0,4617 1 0,1879
 

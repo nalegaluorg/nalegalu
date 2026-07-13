@@ -26,20 +26,27 @@ source: pdf
 
 Na podstawie art. 38a ust. 5 ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia wyznania (Dz.U. Nr 29, poz. 155, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz.
 504, z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34 oraz z 1998 r. Nr 59, poz. 375) zarządza się, co następuje:
-§ 1.
+
+**§ 1.**
+
 1. Jako nieruchomości zamienne, o których mowa w art. 38a ust. 4 ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz.U. Nr 29, poz. 155, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34 oraz z 1998 r. Nr 59, poz. 375), zwanej dalej „ustawą”, mogą być przyznane nieruchomości:
-1) z zasobu nieruchomości Skarbu Państwa lub jednostki samorządu terytorialnego, a także oddane w trwały zarząd państwowej lub samorządowej jednostce organizacyjnej,
-2) z mienia państwowych osób prawnych.
+
+- **1)** z zasobu nieruchomości Skarbu Państwa lub jednostki samorządu terytorialnego, a także oddane w trwały zarząd państwowej lub samorządowej jednostce organizacyjnej,
+- **2)** z mienia państwowych osób prawnych.
+
 2. Wyłączenia nieruchomości z zasobu nieruchomości Skarbu Państwa dokonuje się w przypadku, gdy nieruchomość będąca przedmiotem wniosku o wszczęcie postępowania regulacyjnego znajduje się w tym zasobie.
+
 3. Wyłączenia nieruchomości z gminnego, powiatowego lub wojewódzkiego zasobu nieruchomości dokonuje się w przypadku, gdy nieruchomość będąca przedmiotem wniosku o wszczęcie postępowania regulacyjnego znajduje się w zasobie nieruchomości odpowiedniej jednostki samorządu terytorialnego.
+
 4. Nieruchomości wyłączane zmienia państwowych osób prawnych wyłącza się z mienia tej osoby prawnej, która jest właścicielem, użytkownikiem wieczystym lub użytkownikiem nieruchomości będącej przedmiotem wniosku o wszczę cie postępowania regulacyjnego.
-§ 2.
-Na wniosek uczestnika postępowania regulacyjnego, za zgodą pozostałych uczestników postępowania oraz tych jednostek, z których mienia ma nastąpić wyłączenie nieruchomości, dopuszcza się wyłączenie nieruchomości zamiennej z mienia:
-1) Skarbu Państwa, jeżeli w zasobie nieruchomości Skarbu Państwa nie znajduje się nieruchomość będąca przedmiotem wniosku o wszczęcie postępowania regulacyjnego,
-2) jednostki samorządu terytorialnego innej niż ta, w której zasobie znajduje się nieruchomość będąca przedmiotem wniosku o wszczęcie postępowania regulacyjnego,
-3) państwowej osoby prawnej innej niż wymieniona w § 1 ust. 4.
-§ 3.
-Obowiązek zapłaty odszkodowania, o którym mowa w art. 38a ust. 4 ustawy, ciąży na Skarbie Państwa. Odszkodowanie jest wypłacane przez wojewodę.
-§ 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+**§ 2.** Na wniosek uczestnika postępowania regulacyjnego, za zgodą pozostałych uczestników postępowania oraz tych jednostek, z których mienia ma nastąpić wyłączenie nieruchomości, dopuszcza się wyłączenie nieruchomości zamiennej z mienia:
+
+- **1)** Skarbu Państwa, jeżeli w zasobie nieruchomości Skarbu Państwa nie znajduje się nieruchomość będąca przedmiotem wniosku o wszczęcie postępowania regulacyjnego,
+- **2)** jednostki samorządu terytorialnego innej niż ta, w której zasobie znajduje się nieruchomość będąca przedmiotem wniosku o wszczęcie postępowania regulacyjnego,
+- **3)** państwowej osoby prawnej innej niż wymieniona w § 1 ust. 4.
+
+**§ 3.** Obowiązek zapłaty odszkodowania, o którym mowa w art. 38a ust. 4 ustawy, ciąży na Skarbie Państwa. Odszkodowanie jest wypłacane przez wojewodę.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

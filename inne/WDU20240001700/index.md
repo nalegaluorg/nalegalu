@@ -31,32 +31,65 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury
 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 26 lipca 2021 r.
 w sprawie Krajowego Programu Szkolenia w zakresie ochrony lotnictwa cywilnego Na podstawie art. 189 ust. 3 ustawy z dnia 3 lipca 2002 r. ‒ Prawo lotnicze (Dz. U. z 2023 r. poz. 2110 oraz z 2024 r.
 poz. 731 i 1222) zarządza się, co następuje:
-§ 1. Ustala się Krajowy Program Szkolenia w zakresie ochrony lotnictwa cywilnego, określony w załączniku do rozporządzenia.
-§ 2. 1. Programy szkoleń w zakresie ochrony lotnictwa cywilnego oraz program ponownej certyfikacji operatorów kontroli bezpieczeństwa, zatwierdzone przez Prezesa Urzędu Lotnictwa Cywilnego na podstawie przepisów dotychczasowych:
-1) służby podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane, służby podległe ministrowi właściwemu do spraw finansów publicznych lub przez niego nadzorowane, podmioty prowadzące działalność lotniczą oraz podmioty prowadzące szkoleniową działalność gospodarczą w zakresie ochrony lotnictwa cywilnego dostosowują do wymogów określonych w rozporządzeniu i przekazują Prezesowi Urzędu Lotnictwa Cywilnego w terminie do dnia 31 października 2021 r.;
-2) zatwierdza Prezes Urzędu Lotnictwa Cywilnego w terminie do dnia 30 grudnia 2021 r.
+
+**§ 1.** Ustala się Krajowy Program Szkolenia w zakresie ochrony lotnictwa cywilnego, określony w załączniku do rozporządzenia.
+
+**§ 2.**
+
+1. Programy szkoleń w zakresie ochrony lotnictwa cywilnego oraz program ponownej certyfikacji operatorów kontroli bezpieczeństwa, zatwierdzone przez Prezesa Urzędu Lotnictwa Cywilnego na podstawie przepisów dotychczasowych:
+
+- **1)** służby podległe ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowane, służby podległe ministrowi właściwemu do spraw finansów publicznych lub przez niego nadzorowane, podmioty prowadzące działalność lotniczą oraz podmioty prowadzące szkoleniową działalność gospodarczą w zakresie ochrony lotnictwa cywilnego dostosowują do wymogów określonych w rozporządzeniu i przekazują Prezesowi Urzędu Lotnictwa Cywilnego w terminie do dnia 31 października 2021 r.;
+- **2)** zatwierdza Prezes Urzędu Lotnictwa Cywilnego w terminie do dnia 30 grudnia 2021 r.
+
 2. W przypadku niezatwierdzenia w terminie do dnia 30 grudnia 2021 r. przez Prezesa Urzędu Lotnictwa Cywilnego programów, o których mowa w ust. 1, programy te nie mogą być stosowane.
-§ 3. 1. Uprawnienia instruktorów prowadzących szkolenia w zakresie ochrony lotnictwa cywilnego uzyskane na podstawie przepisów dotychczasowych zachowują ważność przez okres 6 miesięcy od dnia wejścia w życie rozporządzenia.
+
+**§ 3.**
+
+1. Uprawnienia instruktorów prowadzących szkolenia w zakresie ochrony lotnictwa cywilnego uzyskane na podstawie przepisów dotychczasowych zachowują ważność przez okres 6 miesięcy od dnia wejścia w życie rozporządzenia.
+
 2. Wpisy do wykazu instruktorów dokonane na podstawie przepisów dotychczasowych stają się wpisami na listę instruktorów prowadzoną na podstawie § 16 ust. 5 załącznika do rozporządzenia.
+
 3. W przypadku gdy w okresie 6 miesięcy od dnia wejścia w życie rozporządzenia instruktor prowadzący szkolenia w zakresie ochrony lotnictwa cywilnego, o którym mowa w ust. 1, zda egzamin dla instruktorów, o którym mowa w § 31 ust. 2 załącznika do rozporządzenia, zachowuje on uprawnienia instruktora prowadzącego szkolenia w zakresie ochrony lotnictwa cywilnego.
+
 4. W przypadku niezdania egzaminu dla instruktorów, o którym mowa w § 31 ust. 2 załącznika do rozporządzenia, w terminie określonym w ust. 3, instruktora prowadzącego szkolenia w zakresie ochrony lotnictwa cywilnego, o którym mowa w ust. 1, skreśla się z listy instruktorów.
+
 5. Wnioski o zatwierdzenie instruktora prowadzącego szkolenia w zakresie ochrony lotnictwa cywilnego złożone na podstawie przepisów dotychczasowych, które nie zostały rozpatrzone przed dniem wejścia w życie rozporządzenia, rozpatruje się na podstawie przepisów dotychczasowych.
+
 6. Instruktorów zatwierdzonych zgodnie z ust. 5 Prezes Urzędu Lotnictwa Cywilnego wpisuje na listę instruktorów prowadzoną na podstawie § 16 ust. 5 załącznika do rozporządzenia.
+
 7. Uprawnienia instruktorów zatwierdzonych zgodnie z ust. 5 zachowują ważność przez okres 6 miesięcy od dnia ich zatwierdzenia.
+
 8. W przypadku gdy w okresie 6 miesięcy od dnia zatwierdzenia instruktor zatwierdzony zgodnie z ust. 5 zda egzamin dla instruktorów, o którym mowa w § 31 ust. 2 załącznika do rozporządzenia, zachowuje on uprawnienia instruktora prowadzącego szkolenia w zakresie ochrony lotnictwa cywilnego.
+
 9. W przypadku niezdania egzaminu dla instruktorów, o którym mowa w § 31 ust. 2 załącznika do rozporządzenia, w terminie określonym w ust. 8, instruktora zatwierdzonego zgodnie z ust. 5 skreśla się z listy instruktorów.
+
 10. Do postępowań w sprawie skreślenia instruktora z wykazu instruktorów wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
-§ 4. 1. Do szkoleń w zakresie ochrony lotnictwa cywilnego oraz ponownej certyfikacji operatorów kontroli bezpieczeństwa rozpoczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe, jednak nie dłużej niż do dnia zatwierdzenia, o którym mowa w § 2 ust. 1 pkt 2 rozporządzenia.
+
+**§ 4.**
+
+1. Do szkoleń w zakresie ochrony lotnictwa cywilnego oraz ponownej certyfikacji operatorów kontroli bezpieczeństwa rozpoczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe, jednak nie dłużej niż do dnia zatwierdzenia, o którym mowa w § 2 ust. 1 pkt 2 rozporządzenia.
+
 2. Do szkoleń w zakresie ochrony lotnictwa cywilnego oraz ponownej certyfikacji operatorów kontroli bezpieczeństwa rozpoczętych po dniu wejścia w życie rozporządzenia i prowadzonych na podstawie programów zatwierdzonych przez Prezesa Urzędu Lotnictwa Cywilnego na podstawie przepisów dotychczasowych stosuje się przepisy dotychczasowe, jednak nie dłużej niż do dnia zatwierdzenia, o którym mowa w § 2 ust. 1 pkt 2 rozporządzenia.
-§ 5. 1. Do egzaminów dla kandydatów na operatorów kontroli bezpieczeństwa rozpoczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe, jednak nie dłużej niż przez okres 3 miesięcy od dnia przystąpienia kandydata na operatora kontroli bezpieczeństwa do tego egzaminu.
+
+**§ 5.**
+
+1. Do egzaminów dla kandydatów na operatorów kontroli bezpieczeństwa rozpoczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe, jednak nie dłużej niż przez okres 3 miesięcy od dnia przystąpienia kandydata na operatora kontroli bezpieczeństwa do tego egzaminu.
+
 2. Do postępowań w sprawie wydania certyfikatu operatora kontroli bezpieczeństwa wszczętych i niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
-§ 6. Do dnia 30 grudnia 2021 r. instruktor prowadzący szkolenia w zakresie ochrony lotnictwa cywilnego:
-1) poddaje się sprawdzeniu przeszłości, o którym mowa w pkt 11.5.1 lit. a załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm. ), w regularnych odstępach czasu nieprzekraczających pięciu lat, licząc od dnia poprzedniego sprawdzenia przeszłości instruktora;
-2) przekazuje Prezesowi Urzędu Lotnictwa Cywilnego, nie później niż 14 dni przed upływem pięciu lat od dnia poprzedniego sprawdzenia przeszłości, dokumenty potwierdzające, że sprawdzenie przeszłości instruktora zakończyło się wynikiem pozytywnym.
-§ 7. Traci moc rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 20 września 2013 r.
-w sprawie Krajowego Programu Szkolenia w zakresie ochrony lotnictwa cywilnego (Dz. U. z 2016 r. poz. 1852).
-§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem przepisów § 2 pkt 10, § 8 pkt 10, § 9 pkt 10, § 12, § 15 ust. 10 i ust. 11 pkt 1 lit. f oraz § 18 ust. 6 i 7 załącznika do rozporządzenia, które wchodzą w życie z dniem 31 grudnia 2021 r.
-KRAJOWY PROGRAM SZKOLENIA W ZAKRESIE OCHRONY LOTNICTWA CYWILNEGO
+
+**§ 6.** Do dnia 30 grudnia 2021 r. instruktor prowadzący szkolenia w zakresie ochrony lotnictwa cywilnego:
+
+- **1)** poddaje się sprawdzeniu przeszłości, o którym mowa w pkt 11.5.1 lit. a załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm. ), w regularnych odstępach czasu nieprzekraczających pięciu lat, licząc od dnia poprzedniego sprawdzenia przeszłości instruktora;
+- **2)** przekazuje Prezesowi Urzędu Lotnictwa Cywilnego, nie później niż 14 dni przed upływem pięciu lat od dnia poprzedniego sprawdzenia przeszłości, dokumenty potwierdzające, że sprawdzenie przeszłości instruktora zakończyło się wynikiem pozytywnym.
+
+**§ 7.** Traci moc rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 20 września 2013 r. w sprawie Krajowego Programu Szkolenia w zakresie ochrony lotnictwa cywilnego (Dz. U. z 2016 r. poz. 1852).
+
+**§ 8.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem przepisów § 2 pkt 10, § 8 pkt 10, § 9 pkt 10, § 12, § 15 ust. 10 i ust. 11 pkt 1 lit. f oraz § 18 ust. 6 i 7 załącznika do rozporządzenia, które wchodzą w życie z dniem 31 grudnia 2021 r. KRAJOWY PROGRAM SZKOLENIA W ZAKRESIE OCHRONY LOTNICTWA CYWILNEGO
+
+#### Rozdział 1 Przepisy ogólne
+
+## Załącznik
+
 § 1. Ilekroć w Krajowym Programie Szkolenia w zakresie ochrony lotnictwa cywilnego jest mowa o:
 1) audytorze krajowym ‒ rozumie się przez to audytora krajowego kontroli jakości w zakresie ochrony lotnictwa cywilnego;
 2) audytorze wewnętrznym ‒ rozumie się przez to audytora wewnętrznego kontroli jakości w zakresie ochrony lotnictwa cywilnego;
@@ -79,6 +112,7 @@ poz. 731 i 1222);
 18) wskaźniku A' ‒ rozumie się przez to wskaźnik określający skuteczność wykrywania przedmiotów zabronionych w obrazach wygenerowanych przez urządzenia do kontroli bezpieczeństwa i częstotliwość nieprawidłowego zaklasyfikowania obrazu jako zawierającego przedmiot zabroniony;
 19) wskaźniku „hit” ‒ rozumie się przez to stosunek prawidłowo rozpoznanych obrazów wygenerowanych przez urządzenia do kontroli bezpieczeństwa, zawierających przedmioty zabronione, do całkowitej liczby obrazów zawierających te przedmioty;
 20) zespole z PWMW ‒ rozumie się przez to zespół składający się z PWMW i jego przewodnika.
+Rozdział 2 Rodzaje i zakres programów szkolenia
 § 2. W zakresie ochrony lotnictwa cywilnego przeprowadza się następujące rodzaje szkoleń:
 1) ogólne w zakresie świadomości ochrony lotnictwa cywilnego;
 2) świadomości ochrony lotnictwa cywilnego;
@@ -168,6 +202,7 @@ e) znajomość i umiejętność stosowania procedur operacyjnych w przypadku wyk
 § 13. 1. Zakres programu szkolenia okresowego dla osób wymienionych w § 15 ust. 4 pkt 4‒10 i ust. 5‒7 obejmuje elementy odpowiadające szkoleniu, jakie powinna ukończyć osoba ubiegająca się o uzyskanie uprawnień.
 2. Zakres programu szkolenia okresowego dla osób wymienionych w § 15 ust. 2 obejmuje tematykę szkolenia pozwalającą na nabycie kompetencji, o których mowa w pkt 11.2.6.2 załącznika do rozporządzenia 2015/1998.
 § 14. Zakres programu szkolenia okresowego dla operatorów kontroli bezpieczeństwa obejmuje tematykę, o której mowa w pkt 11.4.1 załącznika do rozporządzenia 2015/1998.
+Rozdział 3 Kategorie osób podlegających szkoleniom
 § 15. 1. Szkoleniu ogólnemu w zakresie świadomości ochrony lotnictwa cywilnego podlegają:
 1) osoby ubiegające się o zatrudnienie i zatrudnione w strefie ogólnodostępnej portu lotniczego,
 2) osoby ubiegające się o dostęp i mające dostęp bez eskorty do identyfikowalnego ładunku lub identyfikowalnej poczty lotniczej oraz biorące udział w ich przewozie,
@@ -213,6 +248,7 @@ f) osoby mające dostęp do krytycznych systemów technologii informacyjno-komun
 12. Szkoleniu okresowemu dla operatorów kontroli bezpieczeństwa podlegają operatorzy kontroli bezpieczeństwa.
 13. Operator kontroli bezpieczeństwa, który nie realizował szkolenia, o którym mowa w ust. 12, odbywa to szkolenie w wymiarze co najmniej 8 godzin za każdy sześciomiesięczny okres rozliczeniowy, w którym nie realizował tego szkolenia, przed powrotem do wykonywania zadań w zakresie, o którym mowa w pkt 11.2.3.1‒11.2.3.3 załącznika do rozporządzenia 2015/1998, stosownie do posiadanych uprawnień.
 14. Osoby wymienione w ust. 11 i 12, które nie ukończyły w terminie szkolenia okresowego, oraz osoby wymienione w ust. 1 pkt 2‒5, które nie ukończyły w terminie szkolenia ogólnego w zakresie świadomości ochrony lotnictwa cywilnego, nie wykonują czynności z zakresu ochrony lotnictwa cywilnego.
+Rozdział 4 Wymagania dla instruktorów
 § 16. 1. Osoba ubiegająca się o uzyskanie uprawnień instruktora powinna spełniać następujące wymagania:
 1) pozytywnie przejść sprawdzenie przeszłości obejmujące:
 a) ustalenie tożsamości osoby na podstawie dokumentu umożliwiającego potwierdzenie jej tożsamości,
@@ -271,6 +307,7 @@ b) wykorzystania lub szkolenia psów do wykrywania materiałów wybuchowych, uzy
 1) ustąpienia przesłanki, o której mowa w § 19 ust. 1 pkt 2, 3, 5‒7, lub
 2) upływu 12 miesięcy od dnia skreślenia z listy instruktorów z powodu, o którym mowa w § 19 ust. 1 pkt 4.
 2. W przypadkach, o których mowa w ust. 1, przepisy § 16‒18 stosuje się odpowiednio.
+Rozdział 5 Organizacja szkoleń
 § 21. 1. Szkolenia, o których mowa w § 2, przeprowadza organ lub podmiot posiadający program szkolenia zatwierdzony zgodnie z pkt 11.2.1.3 lit. a załącznika do rozporządzenia 2015/1998.
 2. Szkolenia, o których mowa w § 2, prowadzi instruktor.
 3. Zajęcia teoretyczne z tematyki, o której mowa w pkt 11.2.3.1 lit. g, h, j oraz k, pkt 11.2.3.2 lit. l‒o oraz pkt 11.2.3.3 lit. i‒l załącznika do rozporządzenia 2015/1998, a także zajęcia praktyczne dla osób, o których mowa w § 15 ust. 4 pkt 1‒3, prowadzi instruktor posiadający certyfikat operatora kontroli bezpieczeństwa.
@@ -403,6 +440,7 @@ c) podpis;
 1) ust. 1 pkt 1 – przechowuje się przez okres 5 lat, licząc od dnia ukończenia szkolenia;
 2) ust. 2 pkt 1 – przechowuje się przez okres ich zatrudnienia.
 § 29. Prezes Urzędu zamieszcza na stronie internetowej Urzędu Lotnictwa Cywilnego wykaz podmiotów posiadających zatwierdzone przez Prezesa Urzędu programy szkolenia.
+Rozdział 6 Sposób przeprowadzania egzaminu i jego zakres
 § 30. 1. Osoba należąca do kategorii osób, o których mowa w § 15, przystępuje do egzaminu po odbyciu szkolenia właściwego dla jej kategorii.
 2. Osoba należąca do kategorii osób, o których mowa w § 15 ust. 1, przystępuje do egzaminu kończącego szkolenie, o którym mowa w § 2 pkt 1, polegającego na sprawdzeniu wiedzy teoretycznej w formie testu pisemnego.
 3. Osoba należąca do kategorii osób, o których mowa w § 15 ust. 2, przystępuje do egzaminu kończącego szkolenie, o którym mowa w § 2 pkt 2, polegającego na sprawdzeniu wiedzy teoretycznej w formie testu pisemnego.
@@ -560,6 +598,7 @@ c) podpis;
 5. W przypadku zaliczenia ponownej certyfikacji operator kontroli bezpieczeństwa otrzymuje zaświadczenie o ukończeniu z wynikiem pozytywnym ponownej certyfikacji.
 6. Zaświadczenie, o którym mowa w ust. 5, zawiera co najmniej informacje, o których mowa w § 23 ust. 2 pkt 1 lit. l tiret pierwszym‒szóstym.
 7. Kopię zaświadczenia, o którym mowa w ust. 5, operator kontroli bezpieczeństwa przekazuje Prezesowi Urzędu w terminie 14 dni od dnia ukończenia ponownej certyfikacji.
+Rozdział 7 Warunki wydania certyfikatu operatora kontroli bezpieczeństwa
 § 48. 1. Warunkiem wydania przez Prezesa Urzędu certyfikatu operatora kontroli bezpieczeństwa osobie, o której mowa w § 15 ust. 4:
 1) pkt 1 – jest odbycie szkolenia specjalistycznego zawodowego obejmującego zagadnienia określone w pkt 11.2.3.1 załącznika do rozporządzenia 2015/1998,
 2) pkt 2 – jest odbycie szkolenia specjalistycznego zawodowego obejmującego zagadnienia określone w pkt 11.2.3.2 załącznika do rozporządzenia 2015/1998,
@@ -573,6 +612,7 @@ a) testu pisemnego wielokrotnego wyboru sprawdzającego wiedzę teoretyczną,
 b) sprawdzianu umiejętności praktycznych prowadzonego z wykorzystaniem egzaminacyjnego programu komputerowego, który zawiera obrazy wygenerowane przez urządzenia do kontroli bezpieczeństwa, w zakresie analizy obrazów, o którym mowa w § 42 ust. 3, stosownie do posiadanych uprawnień.
 2. Egzamin, o którym mowa w ust. 1 pkt 2, przeprowadza komisja egzaminacyjna w składzie co najmniej dwóch członków będących instruktorami powołana przez organ albo podmioty, o których mowa w § 16 ust. 3 pkt 1, 4 i 5.
 3. Obrazy wykorzystywane do egzaminowania operatora kontroli bezpieczeństwa w zakresie sprawdzianu umiejętności praktycznych mogą być użyte tylko jeden raz w stosunku do tego samego operatora kontroli bezpieczeństwa w okresie trzydziestu miesięcy od dnia zaliczenia przez niego egzaminu w ramach ponownej certyfikacji.
+Rozdział 8 Zakres danych ujętych na liście operatorów kontroli bezpieczeństwa i sposób prowadzenia tej listy
 § 50. 1. Lista operatorów kontroli bezpieczeństwa jest prowadzona w postaci elektronicznej i zawiera następujące dane:
 1) imię i nazwisko;
 2) numer PESEL lub w przypadku osoby nieposiadającej numeru PESEL – datę urodzenia;
@@ -585,6 +625,7 @@ b) sprawdzianu umiejętności praktycznych prowadzonego z wykorzystaniem egzamin
 1) śmierci operatora kontroli bezpieczeństwa;
 2) nieukończenia z wynikiem pozytywnym ponownej certyfikacji;
 3) stwierdzenia wystąpienia negatywnych przesłanek, o których mowa w art. 188a ust. 4 ustawy.
+Rozdział 9 Nadzór nad realizacją szkoleń oraz nad procesem ponownej certyfikacji
 § 51. Prezes Urzędu sprawuje nadzór nad realizacją szkoleń oraz nad procesem ponownej certyfikacji, w szczególności w zakresie:
 1) sposobu i poziomu przekazywania wiedzy;
 2) zgodności prowadzonych szkoleń i ponownej certyfikacji z zatwierdzonymi programami szkolenia;
@@ -602,22 +643,4 @@ b) sprawdzianu umiejętności praktycznych prowadzonego z wykorzystaniem egzamin
 2) nakazuje ponowne niezwłoczne ich przeprowadzenie oraz
 3) stosuje przepis § 19 ust. 1 pkt 4.
 § 53. Podmioty, o których mowa w § 16 ust. 3 pkt 4 i 5, prowadzące szkolenia, na wniosek podmiotu kontrolowanego przez Prezesa Urzędu, udostępniają niezwłocznie dokumentację z przeprowadzonego szkolenia, w którym uczestniczyły osoby zatrudnione w podmiocie kontrolowanym, podlegające szkoleniom.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Rodzaje i zakres programów szkolenia
-
-#### Rozdział 3 Kategorie osób podlegających szkoleniom
-
-#### Rozdział 4 Wymagania dla instruktorów
-
-#### Rozdział 5 Organizacja szkoleń
-
-#### Rozdział 6 Sposób przeprowadzania egzaminu i jego zakres
-
-#### Rozdział 7 Warunki wydania certyfikatu operatora kontroli bezpieczeństwa
-
-#### Rozdział 8 Zakres danych ujętych na liście operatorów kontroli bezpieczeństwa i sposób prowadzenia tej listy
-
-#### Rozdział 9 Nadzór nad realizacją szkoleń oraz nad procesem ponownej certyfikacji
 

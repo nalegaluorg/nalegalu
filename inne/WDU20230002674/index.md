@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie stawki zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej na 1 litr oleju w 2024 r.
 Na podstawie art. 4 ust. 4 ustawy z dnia 10 marca 2006 r. o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (Dz. U. z 2023 r. poz. 1948) zarządza się, co następuje:
-§ 1. W 2024 r. stawkę zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej ustala się w wysokości 1,46 zł na 1 litr oleju.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W 2024 r. stawkę zwrotu podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej ustala się w wysokości 1,46 zł na 1 litr oleju.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

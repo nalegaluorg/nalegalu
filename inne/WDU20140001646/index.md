@@ -26,12 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1646/text.pdf) |
 
 w sprawie ramowych statutów publicznych szkół i placówek artystycznych Na podstawie art. 60 ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) zarządza się, co następuje:
-§ 1. Określa się ramowy statut:
-1) publicznej szkoły artystycznej, stanowiący załącznik nr 1 do rozporządzenia;
-2) publicznej placówki artystycznej – ogniska artystycznego, stanowiący załącznik nr 2 do rozporządzenia.
-§ 2. Publiczne szkoły artystyczne, publiczne placówki artystyczne oraz zespoły tych szkół i placówek dostosują statuty do wymogów wynikających z rozporządzenia w terminie do dnia 31 grudnia 2014 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: M. Omilanowska Załącznik nr 1 RAMOWY STATUT PUBLICZNEJ SZKOŁY ARTYSTYCZNEJ
+
+**§ 1.** Określa się ramowy statut:
+
+- **1)** publicznej szkoły artystycznej, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** publicznej placówki artystycznej – ogniska artystycznego, stanowiący załącznik nr 2 do rozporządzenia.
+
+**§ 2.** Publiczne szkoły artystyczne, publiczne placówki artystyczne oraz zespoły tych szkół i placówek dostosują statuty do wymogów wynikających z rozporządzenia w terminie do dnia 31 grudnia 2014 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: M. Omilanowska Załącznik nr 1 RAMOWY STATUT PUBLICZNEJ SZKOŁY ARTYSTYCZNEJ
+
+## Załącznik
+
 § 1. 1. Statut publicznej szkoły artystycznej, zwanej dalej „szkołą”, określa nazwę szkoły. Nazwa szkoły zawiera:
 1) określenie typu szkoły;
 2) w przypadku szkoły policealnej i szkoły pomaturalnej bibliotekarskiej i animatorów kultury – określenie kierunku kształcenia;

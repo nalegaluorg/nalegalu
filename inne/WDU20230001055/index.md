@@ -27,13 +27,17 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności Na podstawie art. 38 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
 z 2022 r. poz. 1688, 2185 i 2254 oraz z 2023 r. poz. 177, 412 i 588) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2016 r. w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności (Dz. U. z 2020 r. poz. 444) wprowadza się następujące zmiany:
-1) w § 1 w pkt 4 wyraz „wpisaniu” zastępuje się wyrazem „wpisie”;
-2) w § 6 w ust. 1:
-a) we wprowadzeniu do wyliczenia skreśla się wyrazy „co najmniej”,
-b) pkt 3 otrzymuje brzmienie: „3) imiona i nazwiska, miejsca zamieszkania i adresy do korespondencji oraz numery Powszechnego Elektronicznego Systemu Ewidencji Ludności (numery PESEL), a w razie braku tych numerów – serie i numery dokumentów potwierdzających tożsamość oraz obywatelstwo osób przystępujących do egzaminu;”;
-3) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Zaświadczenia o wpisaniu do rejestru rzeczoznawców wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: R. Telus WZÓR ZAŚWIADCZENIA O WPISIE DO REJESTRU RZECZOZNAWCÓW
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2016 r. w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności (Dz. U. z 2020 r. poz. 444) wprowadza się następujące zmiany:
+
+- **1)** w § 1 w pkt 4 wyraz „wpisaniu” zastępuje się wyrazem „wpisie”;
+- **2)** w § 6 w ust. 1:
+    - **a)** we wprowadzeniu do wyliczenia skreśla się wyrazy „co najmniej”,
+    - **b)** pkt 3 otrzymuje brzmienie: „3) imiona i nazwiska, miejsca zamieszkania i adresy do korespondencji oraz numery Powszechnego Elektronicznego Systemu Ewidencji Ludności (numery PESEL), a w razie braku tych numerów – serie i numery dokumentów potwierdzających tożsamość oraz obywatelstwo osób przystępujących do egzaminu;”;
+
+- **3)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Zaświadczenia o wpisaniu do rejestru rzeczoznawców wydane przed dniem wejścia w życie rozporządzenia zachowują ważność przez okres, na jaki zostały wydane.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: R. Telus WZÓR ZAŚWIADCZENIA O WPISIE DO REJESTRU RZECZOZNAWCÓW
 

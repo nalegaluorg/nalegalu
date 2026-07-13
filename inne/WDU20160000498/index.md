@@ -27,9 +27,11 @@ source: pdf
 
 w sprawie wymogów technicznych, jakie musi spełniać aplikacja do przesyłania informacji do Zintegrowanego Rejestru Kwalifikacji Na podstawie art. 85 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2016 r.
 poz. 64) zarządza się, co następuje:
-§ 1. Aplikacja do przesyłania informacji do Zintegrowanego Rejestru Kwalifikacji za pośrednictwem systemu teleinformatycznego spełnia następujące wymogi techniczne:
-1) jest dostępna poprzez przeglądarkę internetową wspierającą protokół TLS;
-2) umożliwia komunikację za pomocą protokołu HTTPS z certyfikatem bezpieczeństwa minimum 2048-bitowym kluczem, w którym integralność, uwierzytelnianie i szyfrowanie przesyłanych danych chronione są protokołem TLS minimum w wersji 1.1.
-§ 2. Rozporządzenie wchodzi w życie z dniem 15 kwietnia 2016 r.
-Minister Edukacji Narodowej: A. Zalewska
+
+**§ 1.** Aplikacja do przesyłania informacji do Zintegrowanego Rejestru Kwalifikacji za pośrednictwem systemu teleinformatycznego spełnia następujące wymogi techniczne:
+
+- **1)** jest dostępna poprzez przeglądarkę internetową wspierającą protokół TLS;
+- **2)** umożliwia komunikację za pomocą protokołu HTTPS z certyfikatem bezpieczeństwa minimum 2048-bitowym kluczem, w którym integralność, uwierzytelnianie i szyfrowanie przesyłanych danych chronione są protokołem TLS minimum w wersji 1.1.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 15 kwietnia 2016 r. Minister Edukacji Narodowej: A. Zalewska
 

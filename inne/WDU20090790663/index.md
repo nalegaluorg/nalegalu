@@ -30,8 +30,17 @@ source: pdf
 **Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 80d:
-    - **a)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Organy i podmioty obowiązane do pobrania i przekazania lub uiszczenia opłaty ewidencyjnej mają obowiązek, w terminie, o którym mowa w przepisach wydanych na podstawie ust. 7: 1) przekazywać należne kwoty na rachunek Funduszu; 2) sporządzać i przesyłać ministrowi właściwemu do spraw wewnętrznych miesięczne sprawozdania z pobranych i przekazanych lub uiszczonych opłat ewidencyjnych. 3b. Od nieterminowo przekazanych lub uiszczonych opłat pobiera się odsetki za zwłokę, w wysokości odsetek należnych za nieterminowe regulowanie zobowiązań podatkowych. 3c. Do należności z tytułu opłat ewidencyjnych oraz odsetek za zwłokę stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują ministrowi właściwemu do spraw wewnętrznych.”,
-    - **b)** w ust. 4 po pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) odsetki za zwłokę pobierane z tytułu nieterminowo przekazywanych lub uiszczanych opłat ewidencyjnych; 6) odsetki bankowe od środków pieniężnych gromadzonych na rachunku bieżącym Funduszu oraz odsetki z tytułu lokowania wolnych środków finansowych Funduszu.”,
+    - **a)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu:
+
+      > „3a. Organy i podmioty obowiązane do pobrania i przekazania lub uiszczenia opłaty ewidencyjnej mają obowiązek, w terminie, o którym mowa w przepisach wydanych na podstawie ust. 7:  
+      > 1) przekazywać należne kwoty na rachunek Funduszu;  
+      > 2) sporządzać i przesyłać ministrowi właściwemu do spraw wewnętrznych miesięczne sprawozdania z pobranych i przekazanych lub uiszczonych opłat ewidencyjnych.  
+      > 3b. Od nieterminowo przekazanych lub uiszczonych opłat pobiera się odsetki za zwłokę, w wysokości odsetek należnych za nieterminowe regulowanie zobowiązań podatkowych.  
+      > 3c. Do należności z tytułu opłat ewidencyjnych oraz odsetek za zwłokę stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują ministrowi właściwemu do spraw wewnętrznych.”,  
+    - **b)** w ust. 4 po pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu:
+
+      > „5) odsetki za zwłokę pobierane z tytułu nieterminowo przekazywanych lub uiszczanych opłat ewidencyjnych;  
+      > 6) odsetki bankowe od środków pieniężnych gromadzonych na rachunku bieżącym Funduszu oraz odsetki z tytułu lokowania wolnych środków finansowych Funduszu.”,  
     - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Ściągnięcie należności z tytułu należnych opłat ewidencyjnych i odsetek, o których mowa w ust. 3b, następuje na podstawie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2005 r. Nr 229, poz. 1954, z późn. zm. ) – w zakresie egzekucji obowiązków o charakterze pieniężnym.”,
     - **d)** w ust. 7 po pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) wzór miesięcznego sprawozdania zawierającego kwoty opłat ewidencyjnych pobranych i przekazanych lub uiszczonych na rachunek Funduszu.”,
     - **e)** w ust. 8 pkt 4 otrzymuje brzmienie: „4) terminy przekazywania i rozliczania opłaty ewidencyjnej oraz przekazywania miesięcznego sprawozdania z opłat ewidencyjnych pobranych i przekazanych lub uiszczonych przez organy i podmioty zobowiązane do jej pobierania.”;

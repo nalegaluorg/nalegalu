@@ -26,20 +26,34 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001535) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1535/text.pdf) |
 
 w sprawie Komisji Egzaminacyjnej dla Pośredników Kredytu Hipotecznego Na podstawie art. 52 ust. 7 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. poz. 819) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) regulamin Komisji Egzaminacyjnej dla Pośredników Kredytu Hipotecznego, zwanej dalej „Komisją”;
-2) wysokość wynagrodzenia dla osób wchodzących w skład Komisji.
-§ 2. Ustala się regulamin Komisji, stanowiący załącznik do rozporządzenia.
-§ 3. 1. Za udział w przeprowadzeniu egzaminu na pośrednika kredytu hipotecznego osobom wchodzącym w skład Komisji przysługuje wynagrodzenie w wysokości:
-1) 1100 zł – dla przewodniczącego Komisji;
-2) 1000 zł – dla zastępcy przewodniczącego Komisji i sekretarza;
-3) 900 zł – dla każdej z pozostałych osób wchodzących w skład Komisji.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** regulamin Komisji Egzaminacyjnej dla Pośredników Kredytu Hipotecznego, zwanej dalej „Komisją”;
+- **2)** wysokość wynagrodzenia dla osób wchodzących w skład Komisji.
+
+**§ 2.** Ustala się regulamin Komisji, stanowiący załącznik do rozporządzenia.
+
+**§ 3.**
+
+1. Za udział w przeprowadzeniu egzaminu na pośrednika kredytu hipotecznego osobom wchodzącym w skład Komisji przysługuje wynagrodzenie w wysokości:
+
+- **1)** 1100 zł – dla przewodniczącego Komisji;
+- **2)** 1000 zł – dla zastępcy przewodniczącego Komisji i sekretarza;
+- **3)** 900 zł – dla każdej z pozostałych osób wchodzących w skład Komisji.
+
 2. Za udział w posiedzeniu Komisji osobom wchodzącym w skład Komisji przysługuje wynagrodzenie w wysokości 200 zł.
+
 3. Za przygotowanie testów egzaminacyjnych osobom wchodzącym w skład Komisji przysługuje wynagrodzenie w wysokości 65 zł za każde opracowane pytanie testowe.
-§ 4. Łączne wynagrodzenie osoby wchodzącej w skład Komisji za udział w przeprowadzeniu egzaminu na pośrednika kredytu hipotecznego, udział w posiedzeniu Komisji oraz przygotowanie testów egzaminacyjnych nie może przekraczać kwoty, o której mowa w art. 52 ust. 7 pkt 2 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami.
-§ 5. W przypadku unieważnienia egzaminu na pośrednika kredytu hipotecznego z przyczyn, o których mowa w art. 53 ust. 9 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami, osobom wchodzącym w skład Komisji przysługuje połowa wynagrodzenia określonego w § 3.
-§ 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Finansów: M. Morawiecki REGULAMIN KOMISJI EGZAMINACYJNEJ DLA POŚREDNIKÓW KREDYTU HIPOTECZNEGO
+
+**§ 4.** Łączne wynagrodzenie osoby wchodzącej w skład Komisji za udział w przeprowadzeniu egzaminu na pośrednika kredytu hipotecznego, udział w posiedzeniu Komisji oraz przygotowanie testów egzaminacyjnych nie może przekraczać kwoty, o której mowa w art. 52 ust. 7 pkt 2 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami.
+
+**§ 5.** W przypadku unieważnienia egzaminu na pośrednika kredytu hipotecznego z przyczyn, o których mowa w art. 53 ust. 9 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami, osobom wchodzącym w skład Komisji przysługuje połowa wynagrodzenia określonego w § 3.
+
+**§ 6.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Finansów: M. Morawiecki REGULAMIN KOMISJI EGZAMINACYJNEJ DLA POŚREDNIKÓW KREDYTU HIPOTECZNEGO
+
+## Załącznik
+
 § 1. Regulamin określa organizację i tryb działania Komisji Egzaminacyjnej dla Pośredników Kredytu Hipotecznego, zwanej dalej „Komisją”.
 § 2. 1. Komisja podejmuje decyzje na posiedzeniach, w drodze uchwał, zwykłą większością głosów, w obecności co najmniej większości składu Komisji. W przypadku równej liczby głosów za i przeciw decyduje głos przewodniczącego obradom Komisji.
 2. Uchwały Komisji podpisują osoby wchodzące w skład Komisji obecne na posiedzeniu.

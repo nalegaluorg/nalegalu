@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie terytorialnego zasięgu działania oraz siedzib dyrektorów izb administracji skarbowej, naczelników urzędów skarbowych i naczelników urzędów celno-skarbowych oraz siedziby dyrektora Krajowej Informacji Skarbowej Na podstawie art. 11 ust. 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r.
 poz. 1131, 1423, 1820 i 1863) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 24 lutego 2017 r. w sprawie terytorialnego zasięgu działania oraz siedzib dyrektorów izb administracji skarbowej, naczelników urzędów skarbowych i naczelników urzędów celno-skarbowych oraz siedziby dyrektora Krajowej Informacji Skarbowej (Dz. U. z 2022 r. poz. 361) w załączniku nr 2 w części dotyczącej województwa warmińsko-mazurskiego lp. 319 otrzymuje brzmienie: Naczelnik Urzędu Skarbowego powiat nowomiejski obejmujący: 319 miasto Nowe Miasto Lubawskie w Nowym Mieście Lubawskim gminy: Biskupiec, Bratian, Grodziczno, Kurzętnik
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów i Gospodarki: wz. J. Neneman
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 24 lutego 2017 r. w sprawie terytorialnego zasięgu działania oraz siedzib dyrektorów izb administracji skarbowej, naczelników urzędów skarbowych i naczelników urzędów celno-skarbowych oraz siedziby dyrektora Krajowej Informacji Skarbowej (Dz. U. z 2022 r. poz. 361) w załączniku nr 2 w części dotyczącej województwa warmińsko-mazurskiego lp. 319 otrzymuje brzmienie: Naczelnik Urzędu Skarbowego powiat nowomiejski obejmujący: 319 miasto Nowe Miasto Lubawskie w Nowym Mieście Lubawskim gminy: Biskupiec, Bratian, Grodziczno, Kurzętnik
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów i Gospodarki: wz. J. Neneman
 

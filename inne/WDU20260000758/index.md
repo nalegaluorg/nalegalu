@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania Na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
 z 2024 r. poz. 581 oraz z 2026 r. poz. 26) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania (Dz. U. z 2024 r. poz. 798 oraz z 2025 r. poz. 931 i 1853) w § 70 dodaje się ust. 4 w brzmieniu: „4. W przypadku przysposobienia dziecka na wniosek jego przedstawiciela ustawowego dokumentację medyczną udostępnia się przez sporządzenie wyciągu ze wskazaniem danych identyfikacyjnych noworodka lub dziecka, o których mowa w § 10 pkt 2, wynikających z dokonania przysposobienia.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. T. Maciejewski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 6 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania (Dz. U. z 2024 r. poz. 798 oraz z 2025 r. poz. 931 i 1853) w § 70 dodaje się ust. 4 w brzmieniu: „4. W przypadku przysposobienia dziecka na wniosek jego przedstawiciela ustawowego dokumentację medyczną udostępnia się przez sporządzenie wyciągu ze wskazaniem danych identyfikacyjnych noworodka lub dziecka, o których mowa w § 10 pkt 2, wynikających z dokonania przysposobienia.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. T. Maciejewski
 

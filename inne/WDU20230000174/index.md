@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. z 2022 r.
 poz. 2068) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2022 r. poz. 2385) wprowadza się następujące zmiany:
-1) w § 2 w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 w brzmieniu: „21) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Nadzwyczajne tymczasowe wsparcie dla rolników, mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw szczególnie dotkniętych wpływem rosyjskiej inwazji na Ukrainę”, typ operacji: „Pomoc dla rolników szczególnie dotkniętych wpływem rosyjskiej inwazji na Ukrainę”.”;
-2) w § 3 dodaje się ust. 14 w brzmieniu: „14. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 21, udziela się od dnia 29 grudnia 2022 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 29 grudnia 2022 r.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2022 r. poz. 2385) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 w brzmieniu: „21) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Nadzwyczajne tymczasowe wsparcie dla rolników, mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw szczególnie dotkniętych wpływem rosyjskiej inwazji na Ukrainę”, typ operacji: „Pomoc dla rolników szczególnie dotkniętych wpływem rosyjskiej inwazji na Ukrainę”.”;
+- **2)** w § 3 dodaje się ust. 14 w brzmieniu: „14. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 21, udziela się od dnia 29 grudnia 2022 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 29 grudnia 2022 r. Minister Finansów: M. Rzeczkowska
 

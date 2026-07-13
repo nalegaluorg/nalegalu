@@ -27,28 +27,43 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000659) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/659/text.pdf) |
 
 w sprawie legitymacji służbowej pracowników Biura Rzecznika Finansowego Na podstawie art. 18a ust. 2 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146, 1069 i 1545) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór legitymacji służbowej pracowników Biura Rzecznika Finansowego przeprowadzających kontrole w zakresie spełniania wymagań dostępności usług bankowości detalicznej, w rozumieniu art. 5 pkt 30 ustawy z dnia 26 kwietnia 2024 r.
-o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U.
-poz. 731), zwanych dalej „pracownikami”;
-2) termin ważności legitymacji służbowej;
-3) okoliczności uzasadniające wymianę legitymacji służbowej i jej zwrot oraz postępowanie w razie utraty legitymacji służbowej.
-§ 2. Wzór legitymacji służbowej określa załącznik do rozporządzenia.
-§ 3. Legitymacja służbowa jest ważna przez 5 lat od dnia wydania.
-§ 4. Legitymacja służbowa podlega wymianie w przypadku:
-1) upływu terminu jej ważności;
-2) zmiany danych w niej zawartych;
-3) jej uszkodzenia lub zniszczenia.
-§ 5. Legitymacja służbowa podlega zwrotowi:
-1) w przypadku rozwiązania lub wygaśnięcia stosunku pracy pracownika;
-2) w przypadku udzielenia pracownikowi urlopu bezpłatnego w wymiarze powyżej 30 dni kalendarzowych, urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego lub urlopu wychowawczego;
-3) w przypadku zmiany zakresu wykonywanych zadań przez pracownika, z którą wiąże się zaprzestanie przeprowadzania przez niego kontroli, o których mowa w § 1 pkt 1;
-4) na żądanie pracodawcy.
-§ 6. 1. W przypadku utraty legitymacji służbowej pracownik jest obowiązany zawiadomić o tym niezwłocznie pracodawcę.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór legitymacji służbowej pracowników Biura Rzecznika Finansowego przeprowadzających kontrole w zakresie spełniania wymagań dostępności usług bankowości detalicznej, w rozumieniu art. 5 pkt 30 ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731), zwanych dalej „pracownikami”;
+- **2)** termin ważności legitymacji służbowej;
+- **3)** okoliczności uzasadniające wymianę legitymacji służbowej i jej zwrot oraz postępowanie w razie utraty legitymacji służbowej.
+
+**§ 2.** Wzór legitymacji służbowej określa załącznik do rozporządzenia.
+
+**§ 3.** Legitymacja służbowa jest ważna przez 5 lat od dnia wydania.
+
+**§ 4.** Legitymacja służbowa podlega wymianie w przypadku:
+
+- **1)** upływu terminu jej ważności;
+- **2)** zmiany danych w niej zawartych;
+- **3)** jej uszkodzenia lub zniszczenia.
+
+**§ 5.** Legitymacja służbowa podlega zwrotowi:
+
+- **1)** w przypadku rozwiązania lub wygaśnięcia stosunku pracy pracownika;
+- **2)** w przypadku udzielenia pracownikowi urlopu bezpłatnego w wymiarze powyżej 30 dni kalendarzowych, urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu rodzicielskiego lub urlopu wychowawczego;
+- **3)** w przypadku zmiany zakresu wykonywanych zadań przez pracownika, z którą wiąże się zaprzestanie przeprowadzania przez niego kontroli, o których mowa w § 1 pkt 1;
+- **4)** na żądanie pracodawcy.
+
+**§ 6.**
+
+1. W przypadku utraty legitymacji służbowej pracownik jest obowiązany zawiadomić o tym niezwłocznie pracodawcę.
+
 2. W przypadku utraty legitymacji służbowej podlega ona unieważnieniu.
+
 3. W przypadku odzyskania utraconej legitymacji służbowej pracownik jest obowiązany zwrócić ją pracodawcy.
-§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk Załącznik do rozporządzenia Prezesa Rady z dnia WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA BIURA RZECZNIKA FINANSOWEGO (Dz. U. poz.
+
+**§ 7.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik
+
+Załącznik do rozporządzenia Prezesa Rady z dnia WZÓR LEGITYMACJI SŁUŻBOWEJ PRACOWNIKA BIURA RZECZNIKA FINANSOWEGO (Dz. U. poz.
 Wzór legitymacji WZÓR służbowej GRAFICZNY pracownika Biura Rzecznika Finansowego WZÓR GRAFICZNY AWERS awers REWERS rewers Opis wzoru Opis legitymacji wzoru legitymacji służbowej pracownika służbowej Biura pracownika Rzecznika Finansowego Biura Rzecznika Finansowego
 1. Legitymacja 1. Legitymacja ma formę dokumentu ma formę dwustronnego, dokumentu papierowego, dwustronnego, o wymiarach papierowego, 105 mm × 148 o mm. wymiarach 105 mm W legitymacji x 148 zastosowano mm. następujące zabezpieczenia przed fałszerstwem:
 1) papier W legitymacji niewykazujący zastosowano luminescencji następujące w promieniowaniu zabezpieczenia ultrafioletowym, przed uczulony fałszerstwem: na działanie odczynników chemicznych, ze znakiem wodnym dwutonowym oraz włóknami i drobinami zabezpieczającymi;

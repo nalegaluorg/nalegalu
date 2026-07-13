@@ -26,11 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000559) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/559/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów Na podstawie art. 110b ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2019 r. poz. 161 i 125) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 25 września 2014 r. w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 1314 oraz z 2018 r. poz. 244) wprowadza się następujące zmiany:
-1) w § 6:
-a) w ust. 1: – w pkt 2 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „g) dowódcy Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” i jego zastępców;”, – w pkt 4 lit. b otrzymuje brzmienie: „b) w komendzie wojewódzkiej Policji, Komendzie Stołecznej Policji, oddziale prewencji Policji, samodzielnym pododdziale prewencji Policji, samodzielnym pododdziale kontrterrorystycznym Policji, komisariacie specjalistycznym Policji oraz ośrodku szkolenia Policji lub pozostającego w jego dyspozycji, z wyłączeniem swoich zastępców;”,
-b) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” przyznaje nagrody motywacyjne i zapomogi policjantom na stanowiskach służbowych w Centralnym Pododdziale Kontrterrorystycznym Policji „BOA”, z wyłączeniem swoich zastępców.”;
-2) w § 8 w ust. 1 w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 5 kwietnia 2019 r.
-Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 25 września 2014 r. w sprawie nagród i zapomóg dla policjantów oraz tworzenia funduszu nagród i zapomóg dla policjantów (Dz. U. poz. 1314 oraz z 2018 r. poz. 244) wprowadza się następujące zmiany:
+
+- **1)** w § 6:
+    - **a)** w ust. 1: – w pkt 2 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „g) dowódcy Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” i jego zastępców;”, – w pkt 4 lit. b otrzymuje brzmienie: „b) w komendzie wojewódzkiej Policji, Komendzie Stołecznej Policji, oddziale prewencji Policji, samodzielnym pododdziale prewencji Policji, samodzielnym pododdziale kontrterrorystycznym Policji, komisariacie specjalistycznym Policji oraz ośrodku szkolenia Policji lub pozostającego w jego dyspozycji, z wyłączeniem swoich zastępców;”,
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” przyznaje nagrody motywacyjne i zapomogi policjantom na stanowiskach służbowych w Centralnym Pododdziale Kontrterrorystycznym Policji „BOA”, z wyłączeniem swoich zastępców.”;
+
+- **2)** w § 8 w ust. 1 w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 5 kwietnia 2019 r. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
 

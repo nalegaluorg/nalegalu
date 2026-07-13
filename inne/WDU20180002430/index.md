@@ -29,7 +29,15 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 22 lipca 2006 r. o paszach (Dz. U. z 2017 r. poz. 453 oraz z 2018 r. poz. 650) wprowadza się następujące zmiany:
 
-- **1)** po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. 1. Minister właściwy do spraw rolnictwa opracowuje plan wykorzystania krajowych źródeł białka oraz zminimalizowania deficytu białka paszowego w żywieniu zwierząt w zakresie pozyskiwania białka paszowego ze źródeł krajowych. 2. Plan, o którym mowa w ust. 1, zawiera w szczególności wskazanie: 1) alternatywnych źródeł białka wobec białka genetycznie zmodyfikowanego; 2) możliwości zwiększenia udziału krajowych źródeł białka w paszach; 3) działań, jakie powinny być podjęte w zakresie ograniczania importu pasz genetycznie zmodyfikowanych. 3. Minister właściwy do spraw rolnictwa zamieszcza na stronie internetowej urzędu go obsługującego plan, o którym mowa w ust. 1.”;
+- **1)** po art. 15 dodaje się art. 15a w brzmieniu:
+
+  > „Art. 15a.  
+  > 1. Minister właściwy do spraw rolnictwa opracowuje plan wykorzystania krajowych źródeł białka oraz zminimalizowania deficytu białka paszowego w żywieniu zwierząt w zakresie pozyskiwania białka paszowego ze źródeł krajowych.  
+  > 2. Plan, o którym mowa w ust. 1, zawiera w szczególności wskazanie:  
+  > 1) alternatywnych źródeł białka wobec białka genetycznie zmodyfikowanego;  
+  > 2) możliwości zwiększenia udziału krajowych źródeł białka w paszach;  
+  > 3) działań, jakie powinny być podjęte w zakresie ograniczania importu pasz genetycznie zmodyfikowanych.  
+  > 3. Minister właściwy do spraw rolnictwa zamieszcza na stronie internetowej urzędu go obsługującego plan, o którym mowa w ust. 1.”;  
 - **2)** w art. 65 wyrazy „1 stycznia 2019 r.” zastępuje się wyrazami „1 stycznia 2021 r.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2019 r.

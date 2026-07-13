@@ -26,17 +26,26 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000505) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/505/text.pdf) |
 
 zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 Na podstawie art. 6b ust. 10a ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2016 r. poz. 359 i 2260) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 13 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. poz. 1007) wprowadza się następujące zmiany:
-1) § 2 otrzymuje brzmienie: „§ 2. Pomoc finansowa, o której mowa w § 1, w tym pomoc publiczna i pomoc de minimis , jest udzielana w formie bezzwrotnego wsparcia finansowego, z wyjątkiem pomocy publicznej, o której mowa w rozdziale 4, która jest udzielana w formie bezzwrotnego wsparcia finansowego albo pożyczki.”;
-2) w § 7:
-a) w ust. 1 wyrazy „z zastrzeżeniem ust. 2 i 3” zastępuje się wyrazami „z zastrzeżeniem ust. 2–3a”,
-b) po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Za rozpoczęcie prac nad projektem nie uważa się poniesienia kosztów, o których mowa w § 33 pkt 5.”;
-3) § 8 otrzymuje brzmienie: „§ 8. 1. Kosztami kwalifikowalnymi są koszty niezbędne do realizacji projektu poniesione w sposób przejrzysty, racjonalny, efektywny i adekwatny do zaplanowanych przez wnioskodawcę działań i celów projektu oraz celów działań i poddziałań, określonych w § 1, poniesione po dniu złożenia wniosku, z zastrzeżeniem pomocy dla przedsiębiorców rozpoczynających działalność, o której mowa w rozdziale 3, oraz kosztów, o których mowa w § 33 pkt 5, do dnia określonego w umowie.
-2. Koszty, o których mowa w § 33 pkt 5, uważa się za kwalifikowalne, jeśli zostały poniesione nie wcześniej niż 6 miesięcy przed dniem złożenia wniosku.”;
-4) w § 33 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) usług doradczych dotyczących opracowania nowego modelu biznesowego związanego z internacjonalizacją działalności MŚP;
-6) ustanowienia i utrzymania zabezpieczenia w formie, o której mowa w art. 131 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ), dla zaliczki wypłaconej na rzecz MŚP.”;
-5) w § 35 w pkt 4 dodaje się przecinek i pkt 5 w brzmieniu: „5) formę pomocy”.
-§ 2. Do umów o udzielenie pomocy finansowej zawartych przed dniem wejścia w życie niniejszego rozporządzenia, do wniosków o udzielenie pomocy finansowej złożonych w ramach konkursów ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia oraz do umów zawieranych na podstawie tych wniosków stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Finansów: wz. J. Kwieciński
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 13 lipca 2015 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach osi I Przedsiębiorcza Polska Wschodnia Programu Operacyjnego Polska Wschodnia 2014–2020 (Dz. U. poz. 1007) wprowadza się następujące zmiany:
+
+- **1)** § 2 otrzymuje brzmienie: „§ 2. Pomoc finansowa, o której mowa w § 1, w tym pomoc publiczna i pomoc de minimis , jest udzielana w formie bezzwrotnego wsparcia finansowego, z wyjątkiem pomocy publicznej, o której mowa w rozdziale 4, która jest udzielana w formie bezzwrotnego wsparcia finansowego albo pożyczki.”;
+- **2)** w § 7:
+    - **a)** w ust. 1 wyrazy „z zastrzeżeniem ust. 2 i 3” zastępuje się wyrazami „z zastrzeżeniem ust. 2–3a”,
+    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Za rozpoczęcie prac nad projektem nie uważa się poniesienia kosztów, o których mowa w § 33 pkt 5.”;
+
+- **3)** § 8 otrzymuje brzmienie:
+
+  > „§ 8.  
+  > 1. Kosztami kwalifikowalnymi są koszty niezbędne do realizacji projektu poniesione w sposób przejrzysty, racjonalny, efektywny i adekwatny do zaplanowanych przez wnioskodawcę działań i celów projektu oraz celów działań i poddziałań, określonych w § 1, poniesione po dniu złożenia wniosku, z zastrzeżeniem pomocy dla przedsiębiorców rozpoczynających działalność, o której mowa w rozdziale 3, oraz kosztów, o których mowa w § 33 pkt 5, do dnia określonego w umowie.  
+  > 2. Koszty, o których mowa w § 33 pkt 5, uważa się za kwalifikowalne, jeśli zostały poniesione nie wcześniej niż 6 miesięcy przed dniem złożenia wniosku.”;  
+- **4)** w § 33 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu:
+
+  > „5) usług doradczych dotyczących opracowania nowego modelu biznesowego związanego z internacjonalizacją działalności MŚP;  
+  > 6) ustanowienia i utrzymania zabezpieczenia w formie, o której mowa w art. 131 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ), dla zaliczki wypłaconej na rzecz MŚP.”;  
+- **5)** w § 35 w pkt 4 dodaje się przecinek i pkt 5 w brzmieniu: „5) formę pomocy”.
+
+**§ 2.** Do umów o udzielenie pomocy finansowej zawartych przed dniem wejścia w życie niniejszego rozporządzenia, do wniosków o udzielenie pomocy finansowej złożonych w ramach konkursów ogłoszonych przed dniem wejścia w życie niniejszego rozporządzenia oraz do umów zawieranych na podstawie tych wniosków stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Finansów: wz. J. Kwieciński
 

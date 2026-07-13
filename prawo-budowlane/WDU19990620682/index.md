@@ -29,7 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane (Dz.U. Nr 89, poz. 414, z 1996 r. Nr 100, poz. 465, Nr 106, poz. 496 i Nr 146, poz. 680, z 1997 r. Nr 88, poz. 554 i Nr 111, poz. 726, z 1998 r. Nr 22, poz. 118 i Nr 106, poz. 668 oraz z 1999 r. Nr 41, poz. 412 i Nr 49, poz. 483) wprowadza się następujące zmiany:
 
-- **1)** w art. 3 pkt 15 otrzymuje brzmienie: „15) terenie zamkniętym - należy przez to rozumieć teren, a w szczególnych przypadkach obiekt budowlany lub jego część, dostępny wyłącznie dla osób uprawnionych oraz wyznaczony w sposób określony w przepisach Prawa geodezyjnego i kartograficznego, niezbędny na cele: a) obronności lub bezpieczeństwa państwa, będący w dyspozycji jednostek organizacyjnych podległych ministrom właściwym do: spraw obrony narodowej, spraw wewnętrznych, spraw zagranicznych oraz Szefowi Urzędu Ochrony Państwa, b) bezpośredniego wydobywania kopaliny ze złoża, będący w dyspozycji zakładu górniczego,”;
+- **1)** w art. 3 pkt 15 otrzymuje brzmienie:
+
+  > „15) terenie zamkniętym - należy przez to rozumieć teren, a w szczególnych przypadkach obiekt budowlany lub jego część, dostępny wyłącznie dla osób uprawnionych oraz wyznaczony w sposób określony w przepisach Prawa geodezyjnego i kartograficznego, niezbędny na cele:  
+  > a) obronności lub bezpieczeństwa państwa, będący w dyspozycji jednostek organizacyjnych podległych ministrom właściwym do: spraw obrony narodowej, spraw wewnętrznych, spraw zagranicznych oraz Szefowi Urzędu Ochrony Państwa, b) bezpośredniego wydobywania kopaliny ze złoża, będący w dyspozycji zakładu górniczego,”;  
 - **2)** w art. 33 dodaje się ust. 5 w brzmieniu: „5. Projekt budowlany i inne dokumenty, o których mowa w ust. 2-4, zawierające informacje niejawne mogą być za zgodą właściwego organu przechowywane przez inwestora.”;
 - **3)** w art. 38:
     - **a)** w ust. 2 po wyrazach „obiektu budowlanego” dodaje się wyrazy „ ,z zastrzeżeniem ust. 3”,

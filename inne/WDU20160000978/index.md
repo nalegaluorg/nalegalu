@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000978) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/978/text.pdf) |
 
 w sprawie diety dla członka Kolegium Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu Na podstawie art. 15 ust. 12 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 152, 178, 677 i 749) zarządza się, co następuje:
-§ 1. Za wykonywanie zadań członek Kolegium Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu otrzymuje miesięczną dietę w wysokości 3500 zł.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** Za wykonywanie zadań członek Kolegium Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu otrzymuje miesięczną dietę w wysokości 3500 zł.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

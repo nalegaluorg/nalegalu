@@ -31,7 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 31 sierpnia 1998 r.
 w sprawie nadania osobowości prawnej instytucji Kościoła Katolickiego pod nazwą Katolickie Centrum Edukacji KANA Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1966) i w związku z art. 3 pkt 15 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2022 r. poz. 2487 i 2600 oraz z 2023 r.
 poz. 1860) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Katolickie Centrum Edukacji KANA, erygowanej przez Biskupa Tarnowskiego.
-§ 1a. Siedzibą instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Katolickie Centrum Edukacji KANA jest Tarnów.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Nadaje się osobowość prawną instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Katolickie Centrum Edukacji KANA, erygowanej przez Biskupa Tarnowskiego.
+
+**§ 1a.** Siedzibą instytucji Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Katolickie Centrum Edukacji KANA jest Tarnów.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

@@ -27,13 +27,16 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadzoru i kontroli w pomocy społecznej Na podstawie art. 134 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2023 r. poz. 901, z późn. zm.
 zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rodziny i Polityki Społecznej z dnia 9 grudnia 2020 r. w sprawie nadzoru i kontroli w pomocy społecznej (Dz. U. poz. 2285) wprowadza się następujące zmiany:
-1) w § 2 w pkt 1 wyrazy „mieszkanie chronione” zastępuje się wyrazami „mieszkanie treningowe lub wspomagane”;
-2) w § 5 w ust. 2 kropkę zastępuje się przecinkiem i dodaje się wyrazy „problemowej lub doraźnej.”;
-3) w § 6 dodaje się ust. 3 w brzmieniu: „3. Kontrola problemowa może być prowadzona w siedzibie kontrolującego, na podstawie dokumentów udostępnionych przez jednostkę podlegającą kontroli.”;
-4) w § 14 w pkt 4 średnik zastępuje się przecinkiem i dodaje się wyrazy „w miarę możliwości oddzielne pomieszczenie z odpowiednim wyposażeniem;”;
-5) w § 19 uchyla się ust. 4.
-§ 2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk
+
+**§ 1.** W rozporządzeniu Ministra Rodziny i Polityki Społecznej z dnia 9 grudnia 2020 r. w sprawie nadzoru i kontroli w pomocy społecznej (Dz. U. poz. 2285) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 1 wyrazy „mieszkanie chronione” zastępuje się wyrazami „mieszkanie treningowe lub wspomagane”;
+- **2)** w § 5 w ust. 2 kropkę zastępuje się przecinkiem i dodaje się wyrazy „problemowej lub doraźnej.”;
+- **3)** w § 6 dodaje się ust. 3 w brzmieniu: „3. Kontrola problemowa może być prowadzona w siedzibie kontrolującego, na podstawie dokumentów udostępnionych przez jednostkę podlegającą kontroli.”;
+- **4)** w § 14 w pkt 4 średnik zastępuje się przecinkiem i dodaje się wyrazy „w miarę możliwości oddzielne pomieszczenie z odpowiednim wyposażeniem;”;
+- **5)** w § 19 uchyla się ust. 4.
+
+**§ 2.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk
 

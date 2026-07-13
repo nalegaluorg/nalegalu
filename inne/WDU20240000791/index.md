@@ -32,29 +32,32 @@ poz. 2814), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdro
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 27 grudnia 2022 r.
 w sprawie określenia priorytetowych dziedzin medycyny Na podstawie art. 16g ust. 4 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r.
 poz. 1516, 1617, 1831 i 1972) zarządza się, co następuje:
-§ 1. Priorytetowymi dziedzinami medycyny są:
-1) anestezjologia i intensywna terapia;
-2) chirurgia dziecięca;
-3) chirurgia ogólna;
-4) chirurgia onkologiczna;
-5) choroby wewnętrzne;
-6) choroby zakaźne;
-7) geriatria;
-8) hematologia;
-9) kardiologia dziecięca;
-10) medycyna paliatywna;
-11) medycyna ratunkowa;
-12) medycyna rodzinna;
-13) neonatologia;
-13a) neurologia;
-14) neurologia dziecięca;
-15) onkologia i hematologia dziecięca;
-16) onkologia kliniczna;
-17) patomorfologia;
-18) pediatria;
-19) psychiatria;
-20) psychiatria dzieci i młodzieży;
-21) radioterapia onkologiczna;
-22) stomatologia dziecięca.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia , z mocą od dnia 19 grudnia 2022 r.
+
+**§ 1.** Priorytetowymi dziedzinami medycyny są:
+
+- **1)** anestezjologia i intensywna terapia;
+- **2)** chirurgia dziecięca;
+- **3)** chirurgia ogólna;
+- **4)** chirurgia onkologiczna;
+- **5)** choroby wewnętrzne;
+- **6)** choroby zakaźne;
+- **7)** geriatria;
+- **8)** hematologia;
+- **9)** kardiologia dziecięca;
+- **10)** medycyna paliatywna;
+- **11)** medycyna ratunkowa;
+- **12)** medycyna rodzinna;
+- **13)** neonatologia;
+- **13a)** neurologia;
+- **14)** neurologia dziecięca;
+- **15)** onkologia i hematologia dziecięca;
+- **16)** onkologia kliniczna;
+- **17)** patomorfologia;
+- **18)** pediatria;
+- **19)** psychiatria;
+- **20)** psychiatria dzieci i młodzieży;
+- **21)** radioterapia onkologiczna;
+- **22)** stomatologia dziecięca.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia , z mocą od dnia 19 grudnia 2022 r.
 

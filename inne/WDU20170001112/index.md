@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001112) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1112/text.pdf) |
 
 zmieniające rozporządzenie w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 126 ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2016 r. poz. 1897, 1948 i 1955 oraz z 2017 r. poz. 60 i 768) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 25 listopada 2002 r. w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1697) w § 8 ust. 1 otrzymuje brzmienie: „1. Nagrodę wypłaca się funkcjonariuszowi w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 25 listopada 2002 r. w sprawie okresów wliczanych do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasad jej obliczania i wypłacania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1697) w § 8 ust. 1 otrzymuje brzmienie: „1. Nagrodę wypłaca się funkcjonariuszowi w formie bezgotówkowej na rachunek bankowy wskazany przez funkcjonariusza w formie pisemnej w postaci papierowej albo elektronicznej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

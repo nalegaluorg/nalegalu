@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2019 r. poz. 1505) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2020 r. poz. 1502) w załączniku do rozporządzenia w § 8 w pkt 1 lit. f otrzymuje brzmienie: „f) karkonoskiego – Jelenia Góra,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: G. Puda
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2020 r. poz. 1502) w załączniku do rozporządzenia w § 8 w pkt 1 lit. f otrzymuje brzmienie: „f) karkonoskiego – Jelenia Góra,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: G. Puda
 

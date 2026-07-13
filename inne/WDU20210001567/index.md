@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie punktów kontroli granicznej, w których przeprowadza się kontrolę urzędową określonych roślin, produktów roślinnych lub innych przedmiotów wprowadzanych z państw trzecich Na podstawie art. 33 ust. 2 ustawy z dnia 13 lutego 2020 r. o ochronie roślin przed agrofagami (Dz. U. z 2021 r.
 poz. 256) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 29 kwietnia 2020 r. w sprawie punktów kontroli granicznej, w których przeprowadza się kontrolę urzędową określonych roślin, produktów roślinnych lub innych przedmiotów wprowadzanych z państw trzecich (Dz. U. poz. 801) w załączniku do rozporządzenia w tabeli:
-1) tytuł kolumny drugiej otrzymuje brzmienie: „Punkty kontroli granicznej”;
-2) lp. I otrzymuje brzmienie: I lotnisko – w przypadku transportu powietrznego 1 Chopina w Warszawie mazowieckie 2 Rzeszów-Jasionka podkarpackie 3 Szczecin-Goleniów zachodniopomorskie
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. R. Bartosik
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 29 kwietnia 2020 r. w sprawie punktów kontroli granicznej, w których przeprowadza się kontrolę urzędową określonych roślin, produktów roślinnych lub innych przedmiotów wprowadzanych z państw trzecich (Dz. U. poz. 801) w załączniku do rozporządzenia w tabeli:
+
+- **1)** tytuł kolumny drugiej otrzymuje brzmienie: „Punkty kontroli granicznej”;
+- **2)** lp. I otrzymuje brzmienie: I lotnisko – w przypadku transportu powietrznego 1 Chopina w Warszawie mazowieckie 2 Rzeszów-Jasionka podkarpackie 3 Szczecin-Goleniów zachodniopomorskie
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. R. Bartosik
 

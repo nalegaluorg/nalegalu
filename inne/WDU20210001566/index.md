@@ -28,9 +28,11 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 28 listopada 2001 r. w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. z 2019 r. poz. 2030), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 2 lipca 2020 r. zmieniającym rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. poz. 1201).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 2 lipca 2020 r. zmieniającego rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. poz. 1201), które stanową: „§ 2. Komitet Standardów Rachunkowości dostosuje, w formie uchwały podjętej w trybie obiegowym, wewnętrzny regulamin działania do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 30 dni od dnia wejścia w życie niniejszego rozporządzenia i przedłoży go ministrowi właściwemu do spraw finansów publicznych do zatwierdzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Finansów, Funduszy i Polityki Regionalnej: wz. S. Skuza ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 listopada 2001 r.
-w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości Na podstawie art. 81 ust. 2 pkt 9 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217) zarządza się, co następuje:
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Finansów, Funduszy i Polityki Regionalnej: wz. S. Skuza ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 28 listopada 2001 r. w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości Na podstawie art. 81 ust. 2 pkt 9 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217) zarządza się, co następuje:
+
+## Załącznik
+
 § 1. Rozporządzenie określa:
 1) zakres działania Komitetu Standardów Rachunkowości, zwanego dalej „Komitetem”;
 2) liczbę członków Komitetu i podmioty uprawnione do zgłoszenia ministrowi właściwemu do spraw finansów publicznych kandydatów na członków Komitetu;

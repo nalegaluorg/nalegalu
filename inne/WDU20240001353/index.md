@@ -26,8 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001353) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1353/text.pdf) |
 
 w sprawie wysokości wynagrodzenia wizytatora oraz koordynatora Na podstawie art. 44 ust. 2 ustawy z dnia 16 czerwca 2023 r. o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta (Dz. U. poz. 1692) zarządza się, co następuje:
-§ 1. 1. Wizytator otrzymuje wynagrodzenie w wysokości 2400 zł.
+
+**§ 1.**
+
+1. Wizytator otrzymuje wynagrodzenie w wysokości 2400 zł.
+
 2. Koordynator otrzymuje wynagrodzenie w wysokości 3200 zł.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Konieczny
 

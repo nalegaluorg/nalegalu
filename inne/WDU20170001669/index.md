@@ -27,11 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z kontynuacją zakazu ich przywozu z Unii Europejskiej do Federacji Rosyjskiej Na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2016 r. poz. 1512 i 2048 oraz z 2017 r. poz. 624 i 1503) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 5 września 2016 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z kontynuacją zakazu ich przywozu z Unii Europejskiej do Federacji Rosyjskiej (Dz. U.
-poz. 1523 oraz z 2017 r. poz. 1174) wprowadza się następujące zmiany:
-1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z kontynuacją zakazu ich przywozu z Unii Europejskiej do Federacji Rosyjskiej”;
-2) w § 1 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Agencję Restrukturyzacji i Modernizacji Rolnictwa”;
-3) użyty w § 4 ust. 3, § 6 ust. 2, § 6a ust. 2, § 9 ust. 1 oraz § 10 ust. 1 wyraz „terenowego” zastępuje się wyrazem „regionalnego”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 5 września 2016 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z kontynuacją zakazu ich przywozu z Unii Europejskiej do Federacji Rosyjskiej (Dz. U. poz. 1523 oraz z 2017 r. poz. 1174) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozporządzenia otrzymuje brzmienie: „w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z kontynuacją zakazu ich przywozu z Unii Europejskiej do Federacji Rosyjskiej”;
+- **2)** w § 1 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Agencję Restrukturyzacji i Modernizacji Rolnictwa”;
+- **3)** użyty w § 4 ust. 3, § 6 ust. 2, § 6a ust. 2, § 9 ust. 1 oraz § 10 ust. 1 wyraz „terenowego” zastępuje się wyrazem „regionalnego”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

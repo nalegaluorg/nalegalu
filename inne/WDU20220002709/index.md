@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002709) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2709/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zespołu do przygotowania zadań na egzamin komorniczy Na podstawie art. 107 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2022 r. poz. 2224 i 2707) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 lutego 2019 r. w sprawie zespołu do przygotowania zadań na egzamin komorniczy (Dz. U. poz. 332) wprowadza się następujące zmiany:
-1) w § 2 w ust. 3 uchyla się pkt 1;
-2) § 3 otrzymuje brzmienie: „§ 3. W ramach obsługi administracyjno-biurowej zespołu Minister Sprawiedliwości zapewnia odpowiednie środki techniczne, w szczególności sprzęt komputerowy służący do przygotowania zadań i opisów istotnych zagadnień niebędący urządzeniem służącym do przekazu i odbioru informacji oraz sprzęt komputerowy zawierający system informacji prawnej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 lutego 2019 r. w sprawie zespołu do przygotowania zadań na egzamin komorniczy (Dz. U. poz. 332) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 3 uchyla się pkt 1;
+- **2)** § 3 otrzymuje brzmienie: „§ 3. W ramach obsługi administracyjno-biurowej zespołu Minister Sprawiedliwości zapewnia odpowiednie środki techniczne, w szczególności sprzęt komputerowy służący do przygotowania zadań i opisów istotnych zagadnień niebędący urządzeniem służącym do przekazu i odbioru informacji oraz sprzęt komputerowy zawierający system informacji prawnej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

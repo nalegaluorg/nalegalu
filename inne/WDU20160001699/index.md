@@ -27,16 +27,19 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wzoru wniosku o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego Na podstawie art. 9 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. poz. 271, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 10 stycznia 2014 r. w sprawie wzoru wniosku o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego (Dz. U. poz. 104) wprowadza się następujące zmiany:
-1) § 3 otrzymuje brzmienie: „§ 3. Wniosek, o którym mowa w § 1, składa się w postaci papierowej lub elektronicznej.”;
-2) w załączniku nr 1 do rozporządzenia:
-a) w części OŚWIADCZENIE I PODPIS zdanie pierwsze otrzymuje brzmienie: „Niniejszym oświadczam, że dokumentacja zawiera wszystkie istniejące dane dotyczące jakości, bezpieczeństwa i skuteczności produktu leczniczego zgodnie ze stosownymi wymaganiami oraz że dane te nie są chronione okresem wyłączności danych na terytorium jakiegokolwiek państwa członkowskiego.”,
-b) pkt 1.4.1 otrzymuje brzmienie: „ 1.4 .1. Wniosek zawierający dokumentację administracyjną i dokumentację dotyczącą jakości oraz dokumentację niekliniczną i kliniczną* (zgodnie z art. 10 ust. 1 i 2 ustawy/art. 8 ust. 3 dyrektywy 2001/83/WE).
-* We wniosku o dokonanie zmiany wymagającej złożenia wniosku o dopuszczenie do obrotu produktu leczniczego, w przypadku produktu leczniczego dopuszczonego do obrotu na podstawie pełnej dokumentacji, odniesienia mogą być dokonywane wyłącznie do dokumentacji nieklinicznej i klinicznej.
- Żądanie uznania za nową substancję czynną Uwaga: substancja czynna, która jeszcze nie została dopuszczona do obrotu w produkcie leczniczym na terytorium jakiegokolwiek państwa członkowskiego.
-Należy przedstawić dowód oraz uzasadnienie potwierdzające żądanie uznania za nową substancję czynną w załączniku 5.23.”.
-§ 2. 1. Wnioski złożone zgodnie z dotychczasowym wzorem, a nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia, podlegają rozpatrzeniu.
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 10 stycznia 2014 r. w sprawie wzoru wniosku o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego (Dz. U. poz. 104) wprowadza się następujące zmiany:
+
+- **1)** § 3 otrzymuje brzmienie: „§ 3. Wniosek, o którym mowa w § 1, składa się w postaci papierowej lub elektronicznej.”;
+- **2)** w załączniku nr 1 do rozporządzenia:
+    - **a)** w części OŚWIADCZENIE I PODPIS zdanie pierwsze otrzymuje brzmienie: „Niniejszym oświadczam, że dokumentacja zawiera wszystkie istniejące dane dotyczące jakości, bezpieczeństwa i skuteczności produktu leczniczego zgodnie ze stosownymi wymaganiami oraz że dane te nie są chronione okresem wyłączności danych na terytorium jakiegokolwiek państwa członkowskiego.”,
+    - **b)** pkt 1.4.1 otrzymuje brzmienie: „ 1.4 .1. Wniosek zawierający dokumentację administracyjną i dokumentację dotyczącą jakości oraz dokumentację niekliniczną i kliniczną* (zgodnie z art. 10 ust. 1 i 2 ustawy/art. 8 ust. 3 dyrektywy 2001/83/WE). * We wniosku o dokonanie zmiany wymagającej złożenia wniosku o dopuszczenie do obrotu produktu leczniczego, w przypadku produktu leczniczego dopuszczonego do obrotu na podstawie pełnej dokumentacji, odniesienia mogą być dokonywane wyłącznie do dokumentacji nieklinicznej i klinicznej.  Żądanie uznania za nową substancję czynną Uwaga: substancja czynna, która jeszcze nie została dopuszczona do obrotu w produkcie leczniczym na terytorium jakiegokolwiek państwa członkowskiego. Należy przedstawić dowód oraz uzasadnienie potwierdzające żądanie uznania za nową substancję czynną w załączniku 5.23.”.
+
+**§ 2.**
+
+1. Wnioski złożone zgodnie z dotychczasowym wzorem, a nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia, podlegają rozpatrzeniu.
+
 2. Podmiot odpowiedzialny jest obowiązany na wezwanie Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych do uzupełnienia treści wniosku w zakresie wskazanym przez Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych zgodnie z wymaganiami rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: K. Radziwiłł
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: K. Radziwiłł
 

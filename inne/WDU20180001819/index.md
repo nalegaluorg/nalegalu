@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie warunków i trybu przyznawania pomocy na kształcenie weteranów poszkodowanych-funkcjonariuszy Na podstawie art. 27 ust. 7 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
 z 2018 r. poz. 937) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 6 czerwca 2012 r. w sprawie warunków i trybu przyznawania pomocy finansowej na kształcenie weteranów poszkodowanych-funkcjonariuszy (Dz. U. poz. 685) wprowadza się następujące zmiany:
-1) w § 1 pkt 1 otrzymuje brzmienie: „1) warunki i tryb przyznawania pomocy finansowej, o której mowa w art. 27 ust. 1 ustawy z dnia 19 sierpnia 2011 r.
-o weteranach działań poza granicami państwa, zwanej dalej „pomocą”, weteranowi poszkodowanemu-funkcjonariuszowi Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa oraz Państwowej Straży Pożarnej, zwanemu dalej „weteranem poszkodowanym-funkcjonariuszem”;”;
-2) w § 2 ust. 2 otrzymuje brzmienie: „2. Wniosek składa się do przełożonego właściwego w sprawach osobowych weterana poszkodowanego-funkcjonariusza według jego ostatniego miejsca pełnienia służby albo ostatniego jego pracodawcy odpowiednio w Policji, Straży Granicznej, Służbie Ochrony Państwa albo Państwowej Straży Pożarnej, a w przypadku weterana poszkodowanego-funkcjonariusza Biura Ochrony Rządu do Komendanta Służby Ochrony Państwa, zwanego dalej „organem”.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. J. Zieliński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 6 czerwca 2012 r. w sprawie warunków i trybu przyznawania pomocy finansowej na kształcenie weteranów poszkodowanych-funkcjonariuszy (Dz. U. poz. 685) wprowadza się następujące zmiany:
+
+- **1)** w § 1 pkt 1 otrzymuje brzmienie: „1) warunki i tryb przyznawania pomocy finansowej, o której mowa w art. 27 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa, zwanej dalej „pomocą”, weteranowi poszkodowanemu-funkcjonariuszowi Policji, Straży Granicznej, Biura Ochrony Rządu, Służby Ochrony Państwa oraz Państwowej Straży Pożarnej, zwanemu dalej „weteranem poszkodowanym-funkcjonariuszem”;”;
+- **2)** w § 2 ust. 2 otrzymuje brzmienie: „2. Wniosek składa się do przełożonego właściwego w sprawach osobowych weterana poszkodowanego-funkcjonariusza według jego ostatniego miejsca pełnienia służby albo ostatniego jego pracodawcy odpowiednio w Policji, Straży Granicznej, Służbie Ochrony Państwa albo Państwowej Straży Pożarnej, a w przypadku weterana poszkodowanego-funkcjonariusza Biura Ochrony Rządu do Komendanta Służby Ochrony Państwa, zwanego dalej „organem”.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. J. Zieliński
 

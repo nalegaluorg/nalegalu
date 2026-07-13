@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1094/text.pdf) |
 
 zmieniające rozporządzenie w sprawie organizacji roku szkolnego Na podstawie art. 22 ust. 2 pkt 7 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245 oraz z 2019 r. poz. 730 i 761) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej i Sportu z dnia 18 kwietnia 2002 r. w sprawie organizacji roku szkolnego (Dz. U. poz. 432, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 2 w ust. 1 dodaje się zdanie trzecie w brzmieniu: „Jeżeli czwartek bezpośrednio poprzedzający najbliższy piątek po dniu 20 czerwca jest dniem ustawowo wolnym od pracy, zajęcia dydaktyczno-wychowawcze kończą się w środę poprzedzającą ten dzień.”;
-2) w § 3 w ust. 1 pkt 4 otrzymuje brzmienie: „4) ferie letnie rozpoczynają się w dniu następującym po dniu zakończenia rocznych zajęć dydaktyczno-wychowawczych i kończą się z dniem 31 sierpnia.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji Narodowej: D. Piontkowski
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej i Sportu z dnia 18 kwietnia 2002 r. w sprawie organizacji roku szkolnego (Dz. U. poz. 432, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 1 dodaje się zdanie trzecie w brzmieniu: „Jeżeli czwartek bezpośrednio poprzedzający najbliższy piątek po dniu 20 czerwca jest dniem ustawowo wolnym od pracy, zajęcia dydaktyczno-wychowawcze kończą się w środę poprzedzającą ten dzień.”;
+- **2)** w § 3 w ust. 1 pkt 4 otrzymuje brzmienie: „4) ferie letnie rozpoczynają się w dniu następującym po dniu zakończenia rocznych zajęć dydaktyczno-wychowawczych i kończą się z dniem 31 sierpnia.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji Narodowej: D. Piontkowski
 

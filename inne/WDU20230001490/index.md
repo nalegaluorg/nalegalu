@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001490) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1490/text.pdf) |
 
 zmieniające rozporządzenie w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej Na podstawie art. 39c ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080 i 1088) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 2011 r. w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej (Dz. U. z 2021 r. poz. 316) w § 6 w ust. 1 pkt 2 otrzymuje brzmienie: „2) Wyższej Szkole Straży Granicznej, oddziałach, ośrodkach szkolenia i ośrodkach Straży Granicznej, zwanych dalej „jednostkami”, dla funkcjonariuszy pełniących w nich służbę.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 2011 r. w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej (Dz. U. z 2021 r. poz. 316) w § 6 w ust. 1 pkt 2 otrzymuje brzmienie: „2) Wyższej Szkole Straży Granicznej, oddziałach, ośrodkach szkolenia i ośrodkach Straży Granicznej, zwanych dalej „jednostkami”, dla funkcjonariuszy pełniących w nich służbę.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

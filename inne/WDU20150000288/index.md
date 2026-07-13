@@ -27,8 +27,12 @@ source: pdf
 
 w sprawie strzeżonego ośrodka dla cudzoziemców w Krośnie Odrzańskim Na podstawie art. 409 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r.
 poz. 463 i 1004) zarządza się, co następuje:
-§ 1. 1. Strzeżony ośrodek dla cudzoziemców w Krośnie Odrzańskim, województwo lubuskie, utworzony na podstawie rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 grudnia 2008 r. w sprawie utworzenia strzeżonego ośrodka dla cudzoziemców w Krośnie Odrzańskim (Dz. U. Nr 225, poz. 1500), jest komórką organizacyjną Komendy Nadodrzańskiego Oddziału Straży Granicznej z siedzibą w Krośnie Odrzańskim.
+
+**§ 1.**
+
+1. Strzeżony ośrodek dla cudzoziemców w Krośnie Odrzańskim, województwo lubuskie, utworzony na podstawie rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 grudnia 2008 r. w sprawie utworzenia strzeżonego ośrodka dla cudzoziemców w Krośnie Odrzańskim (Dz. U. Nr 225, poz. 1500), jest komórką organizacyjną Komendy Nadodrzańskiego Oddziału Straży Granicznej z siedzibą w Krośnie Odrzańskim.
+
 2. Ośrodek podlega Komendantowi Nadodrzańskiego Oddziału Straży Granicznej z siedzibą w Krośnie Odrzańskim.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych: wz. P. Stachańczyk
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych: wz. P. Stachańczyk
 

@@ -28,8 +28,8 @@ source: pdf
 Warszawa, dnia 31 maja 2012 v r.
 Poz. 620 o ROZPORZĄDZENIE RADY MINISTRÓW z dnia 30 g maja 2012 r.
 zmieniające rozporządzenie w sprawie autostrad płatnych Na podstawie art. 1 ust. 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. . zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia l 16 lipca 2002 r. w sprawie autostrad płatnych (Dz. U. Nr 121, poz. 1034 oraz z 2011 r. Nr 246, poz. 1465) w § 1 pkt 3 otrzymuje brzmienie: „3) A4 granica państwa – Jędrzychowice c – Krzyżowa – Legnica – Wrocław – Opole – Gliwice – Katowice – Kraków – Tarnów – Rzeszów – Korczowa – granica państwa, z tym że odcinek węzeł Kleszczów – węzeł Sośnica – dla pojazdów, o których mowa w art. 37a ust. 6 pkt 1 i 2 ustawy z dnia 27 października 1994 r.
-o autostradach płatnych oraz o Krajowym Funduszu Drogowym, poruszających się autostradą A4 na odcinku wykraczającym r poza odcinek węzeł Kleszczów – węzeł Sośnica, oraz pojazdów, o których mowa w art. 37a ust. 6 pkt 3–5 tej ustawy,”.
-§ 2. Rozporządzenie wchodzi . w życie z dniem 1 czerwca 2012 r.
-Prezes Rady Ministrów: D. Tusk w w w
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia l 16 lipca 2002 r. w sprawie autostrad płatnych (Dz. U. Nr 121, poz. 1034 oraz z 2011 r. Nr 246, poz. 1465) w § 1 pkt 3 otrzymuje brzmienie: „3) A4 granica państwa – Jędrzychowice c – Krzyżowa – Legnica – Wrocław – Opole – Gliwice – Katowice – Kraków – Tarnów – Rzeszów – Korczowa – granica państwa, z tym że odcinek węzeł Kleszczów – węzeł Sośnica – dla pojazdów, o których mowa w art. 37a ust. 6 pkt 1 i 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, poruszających się autostradą A4 na odcinku wykraczającym r poza odcinek węzeł Kleszczów – węzeł Sośnica, oraz pojazdów, o których mowa w art. 37a ust. 6 pkt 3–5 tej ustawy,”.
+
+**§ 2.** Rozporządzenie wchodzi . w życie z dniem 1 czerwca 2012 r.
 

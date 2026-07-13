@@ -30,7 +30,19 @@ source: pdf
 **Art. 1.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 pkt 1a otrzymuje brzmienie: „1a) budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo;”;
-- **2)** art. 9a otrzymuje brzmienie: „Art. 9a. 1. Dział budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo obejmuje sprawy: 1) architektury; 2) budownictwa; 3) nadzoru architektoniczno-budowlanego; 4) planowania i zagospodarowania przestrzennego na poziomie lokalnym; 5) wspierania mieszkalnictwa; 6) gospodarki nieruchomościami; 7) infrastruktury komunalnej; 8) rodzinnych ogrodów działkowych. 2. Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa sprawuje nadzór nad Głównym Inspektorem Nadzoru Budowlanego.”;
+- **2)** art. 9a otrzymuje brzmienie:
+
+  > „Art. 9a.  
+  > 1. Dział budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo obejmuje sprawy:  
+  > 1) architektury;  
+  > 2) budownictwa;  
+  > 3) nadzoru architektoniczno-budowlanego;  
+  > 4) planowania i zagospodarowania przestrzennego na poziomie lokalnym;  
+  > 5) wspierania mieszkalnictwa;  
+  > 6) gospodarki nieruchomościami;  
+  > 7) infrastruktury komunalnej;  
+  > 8) rodzinnych ogrodów działkowych.  
+  > 2. Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa sprawuje nadzór nad Głównym Inspektorem Nadzoru Budowlanego.”;  
 - **3)** w art. 23a:
     - **a)** po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „2a) planowania i zagospodarowania przestrzennego na poziomie krajowym i regionalnym; 2b) polityki miejskiej;”,
     - **b)** pkt 3 otrzymuje brzmienie: „3) opracowywania dokumentów programowych z zakresu społecznogospodarczego, regionalnego i przestrzennego rozwoju kraju, w tym będących podstawą do pozyskiwania środków rozwojowych z Unii Europejskiej i innych źródeł zagranicznych;”.
@@ -99,7 +111,13 @@ source: pdf
 - **1)** użyte w art. 8 w ust. 1 i 2, w art. 10 w ust. 4, w art. 16 w ust. 2, w art. 61 w ust. 6 oraz w art. 67 w ust. 2 i 3 w różnych przypadkach wyrazy „minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa”;
 - **2)** w art. 16 w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w porozumieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw rozwoju regionalnego oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, sposób uwzględniania w zagospodarowaniu przestrzennym potrzeb obronności i bezpieczeństwa państwa, uwzględniając w szczególności problematykę związaną z:”;
 - **3)** użyte w art. 40 oraz w art. 41 w ust. 1 w pkt 7 w różnych przypadkach wyrazy „minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rozwoju regionalnego”;
-- **4)** art. 45 i art. 46 otrzymują brzmienie: „Art. 45. Plan zagospodarowania przestrzennego województwa podlega okresowej ocenie. Zarząd województwa, co najmniej raz w czasie kadencji sejmiku, dokonuje przeglądu zmian w zagospodarowaniu przestrzennym, opracowuje raport o jego stanie w zakresie określonym w art. 39 ust. 3 oraz sporządza ocenę realizacji inwestycji, o których mowa w art. 39 ust. 5, podlegającą zaopiniowaniu przez wojewódzką komisję urbanistyczno-architektoniczną. Wyniki tego przeglądu oraz raport jest przedstawiany sejmikowi województwa oraz przekazywany do wiadomości ministrowi właściwemu do spraw rozwoju regionalnego. Art. 46. Minister właściwy do spraw rozwoju regionalnego: 1) koordynuje zgodność planów zagospodarowania przestrzennego województw z koncepcją przestrzennego zagospodarowania kraju; 2) koordynuje współpracę transgraniczną i przygraniczną w zakresie planowania i zagospodarowania przestrzennego; 3) przygotowuje okresowe raporty o stanie zagospodarowania przestrzennego kraju.”;
+- **4)** art. 45 i art. 46 otrzymują brzmienie:
+
+  > „Art. 45. Plan zagospodarowania przestrzennego województwa podlega okresowej ocenie. Zarząd województwa, co najmniej raz w czasie kadencji sejmiku, dokonuje przeglądu zmian w zagospodarowaniu przestrzennym, opracowuje raport o jego stanie w zakresie określonym w art. 39 ust. 3 oraz sporządza ocenę realizacji inwestycji, o których mowa w art. 39 ust. 5, podlegającą zaopiniowaniu przez wojewódzką komisję urbanistyczno-architektoniczną. Wyniki tego przeglądu oraz raport jest przedstawiany sejmikowi województwa oraz przekazywany do wiadomości ministrowi właściwemu do spraw rozwoju regionalnego.  
+  > Art. 46. Minister właściwy do spraw rozwoju regionalnego:  
+  > 1) koordynuje zgodność planów zagospodarowania przestrzennego województw z koncepcją przestrzennego zagospodarowania kraju;  
+  > 2) koordynuje współpracę transgraniczną i przygraniczną w zakresie planowania i zagospodarowania przestrzennego;  
+  > 3) przygotowuje okresowe raporty o stanie zagospodarowania przestrzennego kraju.”;  
 - **5)** po art. 47 dodaje się art. 47a w brzmieniu: „Art. 47a. Minister właściwy do spraw rozwoju regionalnego dokonuje, w zakresie kształtowania ładu przestrzennego, przeglądu i analizy zasad, sposobu, a także warunków funkcjonowania instytucji, procedur i instrumentów oraz przedkłada Radzie Ministrów propozycje zmian, uwzględniając w szczególności koncepcję przestrzennego zagospodarowania kraju.”;
 - **6)** w art. 49:
     - **a)** uchyla się ust. 1,

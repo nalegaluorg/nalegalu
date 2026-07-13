@@ -26,14 +26,17 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000666) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/666/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu przeprowadzania i dokumentowania przez Policję niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa Na podstawie art. 19b ust. 6 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448 oraz z 2022 r. poz. 655) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2002 r. w sprawie sposobu przeprowadzania i dokumentowania przez Policję niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa (Dz. U. z 2020 r. poz. 1514) wprowadza się następujące zmiany:
-1) w § 8 w ust. 1 w pkt 1, 2 i 6 po wyrazach „Komendanta Biura Spraw Wewnętrznych Policji” dodaje się przecinek i wyrazy „Komendanta Centralnego Biura Zwalczania Cyberprzestępczości”;
-2) w § 10:
-a) w ust. 1 po wyrazach „Komendant Biura Spraw Wewnętrznych Policji,” dodaje się wyrazy „Komendant Centralnego Biura Zwalczania Cyberprzestępczości,”,
-b) w ust. 3 po wyrazach „Komendanta Biura Spraw Wewnętrznych Policji” dodaje się przecinek i wyrazy „Komendanta Centralnego Biura Zwalczania Cyberprzestępczości”;
-3) załączniki nr 2–4 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2002 r. w sprawie sposobu przeprowadzania i dokumentowania przez Policję niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa (Dz. U. z 2020 r. poz. 1514) wprowadza się następujące zmiany:
+
+- **1)** w § 8 w ust. 1 w pkt 1, 2 i 6 po wyrazach „Komendanta Biura Spraw Wewnętrznych Policji” dodaje się przecinek i wyrazy „Komendanta Centralnego Biura Zwalczania Cyberprzestępczości”;
+- **2)** w § 10:
+    - **a)** w ust. 1 po wyrazach „Komendant Biura Spraw Wewnętrznych Policji,” dodaje się wyrazy „Komendant Centralnego Biura Zwalczania Cyberprzestępczości,”,
+    - **b)** w ust. 3 po wyrazach „Komendanta Biura Spraw Wewnętrznych Policji” dodaje się przecinek i wyrazy „Komendanta Centralnego Biura Zwalczania Cyberprzestępczości”;
+
+- **3)** załączniki nr 2–4 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
 
 ## Załącznik nr 1 — Załącznik nr 1 WZÓR WZÓR WNIOSKU WNIOSKU O O WYRAŻENIE WYRAŻENIE ZGODY ZGODY NA NA ZAPRZESTANIE ZAPRZESTANIE CZYNNOŚCI CZYNNOŚCI Z Z POWODU POWODU TRWAŁEGO TRWAŁEGO BRAKU BRAKU MOŻLIWOŚCI MOŻLIWOŚCI ICH ICH WYKONANIA WYKONANIA __________________________ ZATWIERDZAM ____________________ _________________________________________ Egz. pojedynczy KOMENDANT GŁÓWNY POLICJI KOMENDANT CENTRALNEGO BIURA ŚLEDCZEGO POLICJI KOMENDANT BIURA SPRAW WEWNĘTRZNYCH POLICJI KOMENDANT CENTRALNEGO BIURA ZWALCZANIA CYBERPRZESTĘPCZOŚCI KOMENDANT WOJEWÓDZKI POLICJI w _________________ WNIOSEK NR ____________________ o wyrażenie zgody na zaprzestanie czynności z powodu trwałego braku możliwości ich wykonania Na podstawie § 6 ust. 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2002 r. w sprawie sposobu przeprowadzania i dokumentowania przez Policję niejawnego nadzorowania wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa (Dz. U. z 2020 r.
 

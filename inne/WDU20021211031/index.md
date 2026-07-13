@@ -47,7 +47,10 @@ source: pdf
 
 - **5)** w art. 10:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Podatnicy są obowiązani, bez wezwania organu podatkowego, złożyć deklarację w sprawie podatku od czynności cywilnoprawnych oraz obliczyć i wpłacić podatek w terminie 14 dni od dnia powstania obowiązku podatkowego, z wyłączeniem przypadków, gdy podatek jest pobierany przez płatnika.”,
-    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu: „3a. Płatnicy przekazują pobrany podatek na rachunek urzędu skarbowego właściwego ze względu na siedzibę płatnika. 3b. Notariusze, jako płatnicy podatku, są obowiązani do przekazywania urzędowi skarbowemu właściwemu ze względu na siedzibę płatnika odpisów sporządzanych aktów notarialnych dotyczących czynności cywilnoprawnych stanowiących przedmiot opodatkowania.”;
+    - **b)** po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
+
+      > „3a. Płatnicy przekazują pobrany podatek na rachunek urzędu skarbowego właściwego ze względu na siedzibę płatnika.  
+      > 3b. Notariusze, jako płatnicy podatku, są obowiązani do przekazywania urzędowi skarbowemu właściwemu ze względu na siedzibę płatnika odpisów sporządzanych aktów notarialnych dotyczących czynności cywilnoprawnych stanowiących przedmiot opodatkowania.”;  
 
 - **6)** w art. 11 w ust. 1:
     - **a)** w pkt 4 wyraz „handlowym” zastępuje się wyrazem „przedsiębiorców” a kropkę zastępuje się przecinkiem,

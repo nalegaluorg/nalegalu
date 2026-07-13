@@ -37,57 +37,70 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 28 lipca 2008 r.
 w sprawie nadania funkcjonariuszom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
 z 2013 r. poz. 395 i 765) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) uprawnienia funkcjonariuszy Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa do nakładania grzywien w drodze mandatu karnego;
-2) wykaz wykroczeń, za które funkcjonariusze, o których mowa w pkt 1, są uprawnieni do nakładania grzywien w drodze mandatu karnego;
-3) zasady i sposób wydawania upoważnień do nakładania grzywien w drodze mandatu karnego.
-§ 2. Pracownicy Inspekcji Weterynaryjnej oraz osoby wyznaczone na podstawie art. 16 ust. 1 pkt 1 i art. 18 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2010 r. Nr 112, poz. 744 oraz z 2011 r. Nr 54, poz. 278), uprawnione do wykonywania czynności określonych w art. 19 tej ustawy, są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w:
-1) art. 110, art. 111 i art. 118 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2013 r. poz. 482 i 829), w zakresie środków spożywczych pochodzenia zwierzęcego;
-2) art. 100 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm. ), w zakresie określonym w art. 73 ust. 1 pkt 3 tej ustawy;
-3) art. 53 ust. 1 ustawy z dnia 22 lipca 2006 r. o paszach (Dz. U. Nr 144, poz. 1045, z późn. zm. ), w zakresie określonym w art. 5 ust. 1 tej ustawy;
-4) art. 33 ust. 1 ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2008 r. Nr 204, poz. 1281, z 2009 r. Nr 116, poz. 976 oraz z 2012 r. poz. 1529), w zakresie określonym w art. 29 ust. 1 tej ustawy;
-5) art. 85 ust. 1a ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342, z późn. zm. ).
-§ 3. Wojewódzki inspektor jakości handlowej artykułów rolno-spożywczych oraz pracownicy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, o których mowa w art. 24 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm. ), są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w:
-1) art. 110 i 111 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń;
-2) art. 40 i 41 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. Nr 147, poz. 1033 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016);
-3) art. 40 ust. 1–4e ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych;
-4) a rt. 26 ust. 1 pkt 1 i 2 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2013 r. poz. 1069);
-5) a rt. 33 ust. 1 i 5 oraz art. 34 ustawy z dnia 7 maja 2009 r. o towarach paczkowanych (Dz. U. Nr 91, poz. 740, z późn.
-zm. );
-6) art. 24 ust. 1 i 2 ustawy z dnia 12 września 2002 r. o normalizacji (Dz. U. Nr 169, poz. 1386, z późn. zm. ), w zakresie prawidłowości oznaczania artykułów rolno-spożywczych znakiem zgodności z Polską Normą oraz deklaracji zgodności z Polską Normą tych artykułów;
-7) a rt. 40 ust. 1, 2, 4, 4a i ust. 4b pkt 1 i 2 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno (Dz. U. z 2011 r. Nr 145, poz. 868 oraz z 2012 r. poz. 243 i 1258);
-8) a rt. 84–86 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690 i Nr 171, poz. 1016);
-9) (uchylony);
-10) art. 10 pkt 2 i 3 ustawy z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. Nr 42, poz. 471, z późn.
-zm. ).
-§ 4. Wojewódzki inspektor ochrony roślin i nasiennictwa oraz państwowi inspektorzy, o których mowa w art. 91 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm. ), są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w:
-1) art. 60 § 1 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, w zakresie wpisu do rejestru przedsiębiorców dokonujących obrotu materiałem siewnym;
-2) art. 126 ust. 1 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512 oraz z 2013 r. poz. 865);
-3) art. 107 ust. 1 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin;
-4) a rt. 86 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina;
-5) art. 76 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455).
-§ 5. Upoważnienia do nakładania grzywien w drodze mandatu karnego wydaje:
-1) pracownikom Inspekcji Weterynaryjnej:
-a) wojewódzki lekarz weterynarii – dla pracowników wojewódzkiego inspektoratu weterynarii,
-b) powiatowy lekarz weterynarii – dla pracowników powiatowego inspektoratu weterynarii,
-c) graniczny lekarz weterynarii – dla pracowników granicznego inspektoratu weterynarii;
-2) pracownikom Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych:
-a) Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych – dla pracowników Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych,
-b) wojewoda – dla wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych,
-c) wojewoda na wniosek wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych – dla pracowników wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych;
-3) inspektorom Państwowej Inspekcji Ochrony Roślin i Nasiennictwa:
-a) Główny Inspektor Ochrony Roślin i Nasiennictwa – dla państwowych inspektorów Głównego Inspektoratu Ochrony Roślin i Nasiennictwa,
-b) wojewoda – dla wojewódzkiego inspektora ochrony roślin i nasiennictwa,
-c) wojewoda na wniosek wojewódzkiego inspektora ochrony roślin i nasiennictwa – dla państwowych inspektorów wojewódzkiego inspektoratu ochrony roślin i nasiennictwa.
-§ 6. Upoważnienie do nakładania grzywien w drodze mandatu karnego powinno zawierać:
-1) oznaczenie organu wydającego upoważnienie;
-2) datę wydania i termin ważności upoważnienia;
-3) podstawę prawną wydania upoważnienia;
-4) imię, nazwisko, stanowisko służbowe oraz numer legitymacji służbowej upoważnionego funkcjonariusza;
-5) określenie wykroczeń, za które funkcjonariusz jest uprawniony do nakładania grzywien w drodze mandatu karnego;
-6) określenie obszaru, na którym upoważnienie jest ważne;
-7) podpis organu, który wydał upoważnienie, oraz pieczęć urzędową.
-§ 7. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 20 stycznia 2005 r. w sprawie nadania inspektorom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 15, poz. 124, z 2006 r.
-Nr 183, poz. 1357 oraz z 2007 r. Nr 114, poz. 780).
-§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** uprawnienia funkcjonariuszy Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa do nakładania grzywien w drodze mandatu karnego;
+- **2)** wykaz wykroczeń, za które funkcjonariusze, o których mowa w pkt 1, są uprawnieni do nakładania grzywien w drodze mandatu karnego;
+- **3)** zasady i sposób wydawania upoważnień do nakładania grzywien w drodze mandatu karnego.
+
+**§ 2.** Pracownicy Inspekcji Weterynaryjnej oraz osoby wyznaczone na podstawie art. 16 ust. 1 pkt 1 i art. 18 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2010 r. Nr 112, poz. 744 oraz z 2011 r. Nr 54, poz. 278), uprawnione do wykonywania czynności określonych w art. 19 tej ustawy, są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w:
+
+- **1)** art. 110, art. 111 i art. 118 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2013 r. poz. 482 i 829), w zakresie środków spożywczych pochodzenia zwierzęcego;
+- **2)** art. 100 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2010 r. Nr 136, poz. 914, z późn. zm. ), w zakresie określonym w art. 73 ust. 1 pkt 3 tej ustawy;
+- **3)** art. 53 ust. 1 ustawy z dnia 22 lipca 2006 r. o paszach (Dz. U. Nr 144, poz. 1045, z późn. zm. ), w zakresie określonym w art. 5 ust. 1 tej ustawy;
+- **4)** art. 33 ust. 1 ustawy z dnia 2 kwietnia 2004 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. z 2008 r. Nr 204, poz. 1281, z 2009 r. Nr 116, poz. 976 oraz z 2012 r. poz. 1529), w zakresie określonym w art. 29 ust. 1 tej ustawy;
+- **5)** art. 85 ust. 1a ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2008 r. Nr 213, poz. 1342, z późn. zm. ).
+
+**§ 3.** Wojewódzki inspektor jakości handlowej artykułów rolno-spożywczych oraz pracownicy Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych, o których mowa w art. 24 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2005 r. Nr 187, poz. 1577, z późn. zm. ), są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w:
+
+- **1)** art. 110 i 111 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń;
+- **2)** art. 40 i 41 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. Nr 147, poz. 1033 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016);
+- **3)** art. 40 ust. 1–4e ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych;
+- **4)** a rt. 26 ust. 1 pkt 1 i 2 ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2013 r. poz. 1069);
+- **5)** a rt. 33 ust. 1 i 5 oraz art. 34 ustawy z dnia 7 maja 2009 r. o towarach paczkowanych (Dz. U. Nr 91, poz. 740, z późn. zm. );
+- **6)** art. 24 ust. 1 i 2 ustawy z dnia 12 września 2002 r. o normalizacji (Dz. U. Nr 169, poz. 1386, z późn. zm. ), w zakresie prawidłowości oznaczania artykułów rolno-spożywczych znakiem zgodności z Polską Normą oraz deklaracji zgodności z Polską Normą tych artykułów;
+- **7)** a rt. 40 ust. 1, 2, 4, 4a i ust. 4b pkt 1 i 2 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku suszu paszowego oraz rynków lnu i konopi uprawianych na włókno (Dz. U. z 2011 r. Nr 145, poz. 868 oraz z 2012 r. poz. 243 i 1258);
+- **8)** a rt. 84–86 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina (Dz. U. Nr 120, poz. 690 i Nr 171, poz. 1016);
+- **9)** (uchylony);
+- **10)** art. 10 pkt 2 i 3 ustawy z dnia 30 marca 2001 r. o rolniczych badaniach rynkowych (Dz. U. Nr 42, poz. 471, z późn. zm. ).
+
+**§ 4.** Wojewódzki inspektor ochrony roślin i nasiennictwa oraz państwowi inspektorzy, o których mowa w art. 91 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2008 r. Nr 133, poz. 849, z późn. zm. ), są uprawnieni do nakładania grzywien w drodze mandatu karnego za wykroczenia określone w:
+
+- **1)** art. 60 § 1 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, w zakresie wpisu do rejestru przedsiębiorców dokonujących obrotu materiałem siewnym;
+- **2)** art. 126 ust. 1 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512 oraz z 2013 r. poz. 865);
+- **3)** art. 107 ust. 1 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin;
+- **4)** a rt. 86 ustawy z dnia 12 maja 2011 r. o wyrobie i rozlewie wyrobów winiarskich, obrocie tymi wyrobami i organizacji rynku wina;
+- **5)** art. 76 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455).
+
+**§ 5.** Upoważnienia do nakładania grzywien w drodze mandatu karnego wydaje:
+
+- **1)** pracownikom Inspekcji Weterynaryjnej:
+    - **a)** wojewódzki lekarz weterynarii – dla pracowników wojewódzkiego inspektoratu weterynarii,
+    - **b)** powiatowy lekarz weterynarii – dla pracowników powiatowego inspektoratu weterynarii,
+    - **c)** graniczny lekarz weterynarii – dla pracowników granicznego inspektoratu weterynarii;
+
+- **2)** pracownikom Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych:
+    - **a)** Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych – dla pracowników Głównego Inspektoratu Jakości Handlowej Artykułów Rolno-Spożywczych,
+    - **b)** wojewoda – dla wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych,
+    - **c)** wojewoda na wniosek wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych – dla pracowników wojewódzkiego inspektoratu jakości handlowej artykułów rolno-spożywczych;
+
+- **3)** inspektorom Państwowej Inspekcji Ochrony Roślin i Nasiennictwa:
+    - **a)** Główny Inspektor Ochrony Roślin i Nasiennictwa – dla państwowych inspektorów Głównego Inspektoratu Ochrony Roślin i Nasiennictwa,
+    - **b)** wojewoda – dla wojewódzkiego inspektora ochrony roślin i nasiennictwa,
+    - **c)** wojewoda na wniosek wojewódzkiego inspektora ochrony roślin i nasiennictwa – dla państwowych inspektorów wojewódzkiego inspektoratu ochrony roślin i nasiennictwa.
+
+**§ 6.** Upoważnienie do nakładania grzywien w drodze mandatu karnego powinno zawierać:
+
+- **1)** oznaczenie organu wydającego upoważnienie;
+- **2)** datę wydania i termin ważności upoważnienia;
+- **3)** podstawę prawną wydania upoważnienia;
+- **4)** imię, nazwisko, stanowisko służbowe oraz numer legitymacji służbowej upoważnionego funkcjonariusza;
+- **5)** określenie wykroczeń, za które funkcjonariusz jest uprawniony do nakładania grzywien w drodze mandatu karnego;
+- **6)** określenie obszaru, na którym upoważnienie jest ważne;
+- **7)** podpis organu, który wydał upoważnienie, oraz pieczęć urzędową.
+
+**§ 7.** Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 20 stycznia 2005 r. w sprawie nadania inspektorom Inspekcji Weterynaryjnej, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Państwowej Inspekcji Ochrony Roślin i Nasiennictwa uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 15, poz. 124, z 2006 r. Nr 183, poz. 1357 oraz z 2007 r. Nr 114, poz. 780).
+
+**§ 8.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

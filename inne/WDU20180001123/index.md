@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie wyznaczenia organu Krajowej Administracji Skarbowej do prowadzenia Rejestru Należności Publicznoprawnych Na podstawie art. 18a § 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
 z 2017 r. poz. 1201, z późn. zm. ) zarządza się, co następuje:
-§ 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Szczecinie do prowadzenia Rejestru Należności Publicznoprawnych.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: T. Czerwińska
+
+**§ 1.** Wyznacza się Dyrektora Izby Administracji Skarbowej w Szczecinie do prowadzenia Rejestru Należności Publicznoprawnych.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: T. Czerwińska
 

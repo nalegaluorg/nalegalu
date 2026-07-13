@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000798) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/798/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych Na podstawie art. 15 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2003 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych (Dz. U. z 2014 r. poz. 494) w § 2 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) białka roślinne uzyskane z pszenicy, grochu i ziemniaków używane do klarowania.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. T. Nalewajk
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2003 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych (Dz. U. z 2014 r. poz. 494) w § 2 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) białka roślinne uzyskane z pszenicy, grochu i ziemniaków używane do klarowania.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. T. Nalewajk
 

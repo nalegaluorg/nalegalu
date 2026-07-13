@@ -29,7 +29,11 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2024 r. poz. 1176) wprowadza się następujące zmiany:
 
-- **1)** w art. 12 ust. 12 otrzymuje brzmienie: „12. Zwolnienie i ulga, o których mowa w: 1) ust. 1 pkt 4–6 i ust. 6, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie; 2) ust. 2 pkt 5a, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.”;
+- **1)** w art. 12 ust. 12 otrzymuje brzmienie:
+
+  > „12. Zwolnienie i ulga, o których mowa w:  
+  > 1) ust. 1 pkt 4–6 i ust. 6, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie;  
+  > 2) ust. 2 pkt 5a, stanowi pomoc de minimis udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.”;  
 - **2)** w art. 13f ust. 2 otrzymuje brzmienie: „2. Ulgi, o których mowa w art. 13c i art. 13e, stanowią pomoc de minimis w rolnictwie udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis w rolnictwie.”.
 
 **Art. 2.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2024 r. poz. 388) w art. 16b w ust. 12 w pkt 5 lit. e otrzymuje brzmienie: „e) wysokości przyznanej pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie, jaką płatnik lub rolnik otrzymał w okresie wskazanym odpowiednio w art. 37 ust. 1 pkt 1 albo ust. 2 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702 oraz z 2024 r. poz. 1635),”.
@@ -94,7 +98,11 @@ source: pdf
 
 **Art. 20.** W ustawie z dnia 4 października 2018 r. o spółdzielniach rolników (Dz. U. z 2024 r. poz. 372) w art. 25 pkt 1 otrzymuje brzmienie: „1) de minimis, udzielaną w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis – w przypadku gdy pomoc jest udzielana podmiotom prowadzącym działalność gospodarczą inną niż produkcja rolna;”.
 
-**Art. 21.** W ustawie z dnia 17 stycznia 2019 r. o Fundacji Platforma Przemysłu Przyszłości (Dz. U. z 2023 r. poz. 489 oraz z 2024 r. poz. 834) art. 21 otrzymuje brzmienie: „Art. 21. 1. Wsparcie jest udzielane jako pomoc niestanowiąca pomocy publicznej, pomoc de minimis albo pomoc de minimis w rolnictwie. 2. Wsparcie stanowiące pomoc de minimis lub pomoc de minimis w rolnictwie jest udzielane w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis lub pomocy w ramach zasady de minimis w rolnictwie.”.
+**Art. 21.** W ustawie z dnia 17 stycznia 2019 r. o Fundacji Platforma Przemysłu Przyszłości (Dz. U. z 2023 r. poz. 489 oraz z 2024 r. poz. 834) art. 21 otrzymuje brzmienie:
+
+> „Art. 21.  
+> 1. Wsparcie jest udzielane jako pomoc niestanowiąca pomocy publicznej, pomoc de minimis albo pomoc de minimis w rolnictwie.  
+> 2. Wsparcie stanowiące pomoc de minimis lub pomoc de minimis w rolnictwie jest udzielane w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis lub pomocy w ramach zasady de minimis w rolnictwie.”.  
 
 **Art. 22.** W ustawie z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. z 2024 r. poz. 113) w art. 32 ust. 2 otrzymuje brzmienie: „2. Wsparcie, o którym mowa w ust. 1, jest udzielane jako pomoc de minimis w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.”.
 

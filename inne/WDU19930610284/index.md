@@ -72,137 +72,172 @@ e) korzystania z bezpłatnej pomocy tłumacza, jeżeli nie rozumie lub nie mówi
 1. Każdy ma prawo do swobodnego, pokojowego zgromadzania się oraz do swobodnego stowarzyszania się, łącznie z prawem tworzenia związków zawodowych i przystępowania do nich dla ochrony swoich interesów.
 2. Wykonywanie tych praw nie może podlegać innym ograniczeniom niż te, które określa ustawa i które są konieczne w społeczeństwie demokratycznym z uwagi na interesy bezpieczeństwa państwowego lub publicznego, ochronę porządku i zapobieganie przestępstwu, ochronę zdrowia i moralności lub ochronę praw 1 wolności innych osób. Niniejszy przepis nie stanowi przeszkody w nakładaniu zgodnych z prawem ograniczeń korzystania z tych praw przez członków sił zbrojnych, policji lub administracji państwowej.
 Mężczyźni 1 kobiety w wieku małżeńskim mają prawo do zawarcia małżeństwa 1 założenia rodziny zgodnie z ustawami krajowymi regulującymi korzystanie z tego Każdy, kogo prawa 1 wolności zawarte w niniejszej Konwencji zostały naruszone, ma prawo do skutecznego środka odwoławczego do właściwego organu Państwowego, także wówczas, gdy naruszenia dokonały osoby wykonujące swoje funkcje urzędowe.
-Artykuł 14 Korzystanie z praw 1 wolności wymienionych w niniejszej Konwencji powinno być zapewnione bez dyskryminacji wynikającej z takich powodów jak płeć, rasa, kolor skóry, język, religia, przekonania polityczne i inne, pochodzenie narodowe lub społeczne, przynależność do mniejszości narodowej, majątek, urodzenie, bądź z jakichkolwiek innych przyczyn.
-1. W przypadku wojny lub innego niebezpieczeństwa publicznego zagrażającego życiu narodu każda z Wysokich Układających się Stron może podjąć środki uchylające stosowanie zobowiązań wynikających z niniejszej Konwencji w zakresie Ściśle odpowiadającym wymogom sytuacji, pod warunkiem, że Środki te nie są sprzeczne innymi zobowiązaniami wynikającymi z prawa międzynarodowego.
-2. Na podstawie powyższego przepisu nie można uchylić zobowiązań wynikających z artykułu 2, z wyjątkiem przypadków śmierci będących wynikiem zgodnych z prawem działań wojennych oraz zobowiązań zawartych w artykułach 3, 4 (ustęp 1 ) i 17 .
-3. Każda z Wysokich Układających się Stron, korzystając z prawa do uchylenia zobowiązań, poinformuje wyczerpująco Sekretarza Generalnego Rady Europy o środkach, które podjęła, oraz powodach ich zastosowania. Informować będzie również Sekretarza Generalnego Rady Europy, kiedy podjęte środki przesłaną działać, a przepisy Konwencji będą ponownie w pełni stosowane.
-Żadnego z postanowień w artykułach 10, 11 i 14 nie można uznać za wyłączające prawo Wysokiej Układającej się Strony do ograniczenia działalności politycznej cudzoziemców.
-Żadne z postanowień niniejszej Konwencji nie może być interpretowane jako przyznanie jakiemukolwiek Państwu, grupie lub osobie prawa do podjęcia działań lub dokonania aktu zmierzającego do zniweczenia praw i wolności wymienionych w niniejszej Konwencji, albo ich ograniczenia w większym stopniu, niż to przewiduje Konwencja.
-Ograniczenia praw 1 wolności, na które zezwala niniejsza Konwencja, nie będą stosowane w innych celach niż te, dla których je wprowadzono.
-W celu zapewnienia przestrzegania zobowiązań wynikających dla Wysokich Układających się Stron z niniejszej Konwencji tworzy się:
-1) Europejską Komisję Praw Człowieka, zwaną dalej "Komisją",
-2) Europejski Trybunał Praw Człowieka, zwany dalej "Trybunałem".
+
+#### Rozdział I
+
+**Artykuł 14.** Korzystanie z praw 1 wolności wymienionych w niniejszej Konwencji powinno być zapewnione bez dyskryminacji wynikającej z takich powodów jak płeć, rasa, kolor skóry, język, religia, przekonania polityczne i inne, pochodzenie narodowe lub społeczne, przynależność do mniejszości narodowej, majątek, urodzenie, bądź z jakichkolwiek innych przyczyn. 1. W przypadku wojny lub innego niebezpieczeństwa publicznego zagrażającego życiu narodu każda z Wysokich Układających się Stron może podjąć środki uchylające stosowanie zobowiązań wynikających z niniejszej Konwencji w zakresie Ściśle odpowiadającym wymogom sytuacji, pod warunkiem, że Środki te nie są sprzeczne innymi zobowiązaniami wynikającymi z prawa międzynarodowego. 2. Na podstawie powyższego przepisu nie można uchylić zobowiązań wynikających z artykułu 2, z wyjątkiem przypadków śmierci będących wynikiem zgodnych z prawem działań wojennych oraz zobowiązań zawartych w artykułach 3, 4 (ustęp 1 ) i 17 . 3. Każda z Wysokich Układających się Stron, korzystając z prawa do uchylenia zobowiązań, poinformuje wyczerpująco Sekretarza Generalnego Rady Europy o środkach, które podjęła, oraz powodach ich zastosowania. Informować będzie również Sekretarza Generalnego Rady Europy, kiedy podjęte środki przesłaną działać, a przepisy Konwencji będą ponownie w pełni stosowane. Żadnego z postanowień w artykułach 10, 11 i 14 nie można uznać za wyłączające prawo Wysokiej Układającej się Strony do ograniczenia działalności politycznej cudzoziemców. Żadne z postanowień niniejszej Konwencji nie może być interpretowane jako przyznanie jakiemukolwiek Państwu, grupie lub osobie prawa do podjęcia działań lub dokonania aktu zmierzającego do zniweczenia praw i wolności wymienionych w niniejszej Konwencji, albo ich ograniczenia w większym stopniu, niż to przewiduje Konwencja. Ograniczenia praw 1 wolności, na które zezwala niniejsza Konwencja, nie będą stosowane w innych celach niż te, dla których je wprowadzono. W celu zapewnienia przestrzegania zobowiązań wynikających dla Wysokich Układających się Stron z niniejszej Konwencji tworzy się:
+
+- **1)** Europejską Komisję Praw Człowieka, zwaną dalej "Komisją",
+- **2)** Europejski Trybunał Praw Człowieka, zwany dalej "Trybunałem".
+
 1. Komisja składa się z członków, których liczba równa się liczbie Wysokich Układających się Stron. W Komisji nie możne zasiadać więcej niż jeden obywatel tego samego państwa.
-2. Komisja obraduje na posiedzeniu plenarnym. Może jednak utworzyć Izby składające się z co najmniej 7 członków. Izby mogą badać skargi wniesione na podstawie artykułu 25 niniejszej Konwencji, które nadają się do rozpatrzenia na podstawie ustalonego orzecznictwa lub które nie wywołują poważnych wątpliwości co do wykładni bądź stosowania Konwencji. Z uwzględnieniem tego zastrzeżenia oraz postanowień zawartych w ustępie 5 niniejszego artykułu, Izby wykonują wszystkie kompetencje przyznane Komisji na podstawie Konwencji.
-Członek Komisji wybrany w imieniu Wysokiej Układającej się Strony, przeciwko której wniesiono skargę, ma prawo do zasiadania w Izbie, do której ta skarga została skierowana.
+
+2. Komisja obraduje na posiedzeniu plenarnym. Może jednak utworzyć Izby składające się z co najmniej 7 członków. Izby mogą badać skargi wniesione na podstawie artykułu 25 niniejszej Konwencji, które nadają się do rozpatrzenia na podstawie ustalonego orzecznictwa lub które nie wywołują poważnych wątpliwości co do wykładni bądź stosowania Konwencji. Z uwzględnieniem tego zastrzeżenia oraz postanowień zawartych w ustępie 5 niniejszego artykułu, Izby wykonują wszystkie kompetencje przyznane Komisji na podstawie Konwencji. Członek Komisji wybrany w imieniu Wysokiej Układającej się Strony, przeciwko której wniesiono skargę, ma prawo do zasiadania w Izbie, do której ta skarga została skierowana.
+
 3. Komisja może powoływać Komitety, złożone z co najmniej trzech członków każdy, działające na zasadzie jednomyślności i wyposażone w kompetencję uznawania niedopuszczalności lub skreślenia z listy spraw skargi wniesionej na podstawie artykułu 25, jeśli taka decyzja może zostać podjęta bez dalszego postępowania dowodowego.
+
 4. Izba lub Komitet mogą w każdym stadium postępowania przekazać sprawę do rozpatrzenia Komisji w pełnym składzie, która może także przyjąć do rozpoznania każdą skargę skierowaną do Izby lub Komitetu.
+
 5. Tylko Komisja w pełnym składzie może wykonywać następujące kompetencje:
-a) badanie skarg wniesionych na podstawie artykułu 24;
-b) wnoszenie spraw do Trybunału zgodnie z artykułem 48 a);
-c) ustalanie regulaminu wewnętrznego zgodnie z artykułem 36.
-1. Członkowie Komisji są wybierani przez Komitet Ministrów bezwzględną większością głosów z listy sporządzonej przez Biuro Zgromadzenia Konsultacyjnego;
-przedstawia trzech kandydatów, z których co najmniej dwóch musi być obywatelami Państwa, które ta grupa reprezentuje.
+
+- **a)** badanie skarg wniesionych na podstawie artykułu 24;
+- **b)** wnoszenie spraw do Trybunału zgodnie z artykułem 48 a);
+- **c)** ustalanie regulaminu wewnętrznego zgodnie z artykułem 36.
+
+1. Członkowie Komisji są wybierani przez Komitet Ministrów bezwzględną większością głosów z listy sporządzonej przez Biuro Zgromadzenia Konsultacyjnego; przedstawia trzech kandydatów, z których co najmniej dwóch musi być obywatelami Państwa, które ta grupa reprezentuje.
+
 2. Oile jest to możliwe, tę samą procedurę stosuje się odpowiednio dla uzupełnienia składu Komisji, w przypadku gdy następne Państwa staną się Stronami niniejszej Konwencji, oraz w celu obsadzenia miejsc wakujących.
+
 3. Kandydaci powinni posiadać najwyższe kwalifikacje moralne i spełniać warunki wymagane do sprawowania wysokiego urzędu sędziowskiego albo być osobami o uznanych kompetencjach w zakresie prawa wewnętrznego lub międzynarodoweArtykuł 22
-1. Członkowie Komisji są wybierani na sześć lat. Mogą być wybierani ponownie.
-Jednakże kadencja siedmiu członków wybranych w pierwszych wyborach wygasa z upływem trzech lat.
+
+1. Członkowie Komisji są wybierani na sześć lat. Mogą być wybierani ponownie. Jednakże kadencja siedmiu członków wybranych w pierwszych wyborach wygasa z upływem trzech lat.
+
 2. Członkowie, których kadencja ma upłynąć z końcem początkowego okresu trzech lat, są wyznaczani przez Sekretarza Generalnego Rady Europy w drodze losowania po zakończeniu pierwszych wyborów.
+
 3. Celem zapewnienia, na ile jest to możliwe, odnowienia połowy składu Komisji co trzy lata Komitet Ministrów może przed rozpoczęciem procedury każdych kolejnych wyborów postanowić, że kadencja lub kadencje członków, którzy mają zostać wybrani, będzie inna niż sześcioletnia, ale nie dłuższa niż dziewięć lat i nie krótsza niż trzy lata.
+
 4. W przypadkach gdy chodzi o więcej niż jeden mandat, a Komitet Ministrów zastosuje ustęp poprzedni, przydział mandatów zostanie dokonany w drodze losowania przez Sekretarza Generalnego Rady Europy bezpośrednio po zakończeniu wybo5. Członek Komisji wybrany w miejsce członka, którego kadencja jeszcze nie upłynęła, sprawuje swój urząd przez okres pozostający do zakończenia kadencji poprzednika.
-6. Członkowie Komisji sprawują swój urząd do chwili jego objęcia przez następnego członka. Po objęciu urzędu przez następnego członka uczestniczą w prowadzeniu spraw, które zaczęli rozpatrywać.
-Członkowie Komisji zasiadają w niej we własnym imieniu. W okresie sprawowania urzędu nie mogą oni pełnić żadnej funkcji, która nie daje się pogodzić z niezawistoŚcią 1 bezstronnością członka Komisji oraz wymogami tego urzędu.
-Każda z Wysokich Układających się Stron może wnieść skargę do Komisji za pośrednictwem Sekretarza Generalnego Rady Europy, jeśli uważa, że inna Wysoka Układająca się Strona naruszyła przepisy niniejszej Konwencji.
+
+6. Członkowie Komisji sprawują swój urząd do chwili jego objęcia przez następnego członka. Po objęciu urzędu przez następnego członka uczestniczą w prowadzeniu spraw, które zaczęli rozpatrywać. Członkowie Komisji zasiadają w niej we własnym imieniu. W okresie sprawowania urzędu nie mogą oni pełnić żadnej funkcji, która nie daje się pogodzić z niezawistoŚcią 1 bezstronnością członka Komisji oraz wymogami tego urzędu. Każda z Wysokich Układających się Stron może wnieść skargę do Komisji za pośrednictwem Sekretarza Generalnego Rady Europy, jeśli uważa, że inna Wysoka Układająca się Strona naruszyła przepisy niniejszej Konwencji.
+
 1. Komisja może przyjmować skargi skierowane do Sekretarza Generalnego Rady Europy przez każdą osobę, organizację pozarządową lub grupę jednostek, która uważa, że stała się ofiarą naruszenia przez jedną z Wysokich Układających się Stron praw zawartych w niniejszej Konwencji, jeżeli Wysoka Układająca się Strona, przeciwko której skarga jest skierowana, oświadczyła, że uznaje kompetencje Komisji w tym zakresie. Wysokie Układające się Strony, które złożyły taką deklarację, zobowiązują się nie przeszkadzać w żaden sposób skutecznemu wykonywaniu tego prawa.
+
 2. Powyższe deklaracje mogą być składane na czas określony.
+
 3. Deklaracje składa się Sekretarzowi Generalnemu Rady Europy, których kopie przesyła on Wysokim Układającym się Stronom 1 zarządza ich publikację.
+
 4. Komisja uzyska kompetencję przewidzianą w niniejszym artykule dopiero wówczas, kiedy co najmniej sześć Wysokich Układających się Stron złoży deklaracje zgodnie z ustępami poprzedzającymi.
-Artykuł 26 Komisja może rozpatrywać sprawę dopiero po wykorzystaniu wszystkich środków odwoławczych przewidzianych prawem wewnętrznym, zgodnie z powszechnie uznanymi zasadami prawa międzynarodowego, jeśli sprawa została wniesiona w ciągu sześciu miesięcy od daty podjęcia ostatecznej decyzji.
-Artykuł 27
+
+**Artykuł 26.** Komisja może rozpatrywać sprawę dopiero po wykorzystaniu wszystkich środków odwoławczych przewidzianych prawem wewnętrznym, zgodnie z powszechnie uznanymi zasadami prawa międzynarodowego, jeśli sprawa została wniesiona w ciągu sześciu miesięcy od daty podjęcia ostatecznej decyzji.
+
+**Artykuł 27.**
+
 1. Komisja nie rozpatruje żadnej skargi wniesionej w trybie artykułu 25, która:
-a) jest anonimowa lub
-b) jest co do istoty 1dentyczna ze sprawą rozpatrzoną już przez Komisję lub ze sprawą, która została poddana innej międzynarodowej procedurze dochodzenia lub rozstrzygania, i jeśli skarga nie zawiera nowych, istotnych informacji.
+
+- **a)** jest anonimowa lub
+- **b)** jest co do istoty 1dentyczna ze sprawą rozpatrzoną już przez Komisję lub ze sprawą, która została poddana innej międzynarodowej procedurze dochodzenia lub rozstrzygania, i jeśli skarga nie zawiera nowych, istotnych informacji.
+
 2. Komisja przyjmuje za niedopuszczalną każdą skargę wniesioną w trybie artykułu 25, jeśli uzna, że skarga nie da się pogodzić z postanowieniami niniejszej Konwencji, jest w sposób oczywisty nieuzasadniona lub stanowi nadużycie prawa do skargi .
+
 3. Komisja odrzuca każdą skargę, którą uzna za niedopuszczalną w myśl artykułu 26.
+
 1. W przypadku przyjęcia przez Komisję wniesionej do niej skargi:
-a) w celu ustalenia faktów rozpatruje ona skargę z udziałem przedstawicieli stron 1 jeżeli zachodzi potrzeba, podejmuje dochodzenie, a zainteresowane Państwa udzielą dla jego skutecznego przeprowadzenia wszelkich niezbędnych ułatwień, po wymianie opinii z Komisją;
-b) pozostaje ona zarazem do dyspozycji zainteresowanych stron w celu polubownego załatwienia sprawy na zasadach poszanowania praw człowieka w rozumieniu niniejszej Konwencji.
-2. Jeżeli Komisja zdoła doprowadzić do polubownego załatwienia sprawy, sporządza sprawozdanie, które jest przesyłane zainteresowanym Państwom, Komitetowi Ministrów oraz Sekretarzowi Generalnemu Rady Europy w celu opublikowania.
-Sprawozdanie to ogranicza się do krótkiego przedstawienia faktów i przyjętego rozwiązania.
-Artykuł 29 Nawet po przyjęciu skargi opartej na artykule 25 Komisja może większością dwóch trzecich ogólnej liczby członków zdecydować o jej odrzuceniu, jeśli w trakcie postępowania stwierdzi, że zachodzi jedna z przyczyn niedopuszczalności określonych w artykule 27. W takim przypadku strony informowane są o decyzji Komisji.
-Artykuł 30
-1. Komisja może w każdej fazie postępowania zdecydować o skreśleniu skargi z listy spraw, jeżeli okoliczności prowadzą do wniosku, że:
-a) wnoszący nie podtrzymuje swej skargi lub
-b) spór został już rozstrzygnięty, lub
-c) z jakiejkolwiek innej przyczyny ustalonej przez Komisję nie jest uzasadnione dalsze rozpatrywanie skargi.
-Jednakże Komisja kontynuuje rozpatrywanie skargi, jeśli wymaga tego poszanowanie praw człowieka w rozumieniu niniejszej Konwencji.
+
+- **a)** w celu ustalenia faktów rozpatruje ona skargę z udziałem przedstawicieli stron 1 jeżeli zachodzi potrzeba, podejmuje dochodzenie, a zainteresowane Państwa udzielą dla jego skutecznego przeprowadzenia wszelkich niezbędnych ułatwień, po wymianie opinii z Komisją;
+- **b)** pozostaje ona zarazem do dyspozycji zainteresowanych stron w celu polubownego załatwienia sprawy na zasadach poszanowania praw człowieka w rozumieniu niniejszej Konwencji.
+
+2. Jeżeli Komisja zdoła doprowadzić do polubownego załatwienia sprawy, sporządza sprawozdanie, które jest przesyłane zainteresowanym Państwom, Komitetowi Ministrów oraz Sekretarzowi Generalnemu Rady Europy w celu opublikowania. Sprawozdanie to ogranicza się do krótkiego przedstawienia faktów i przyjętego rozwiązania.
+
+**Artykuł 29.** Nawet po przyjęciu skargi opartej na artykule 25 Komisja może większością dwóch trzecich ogólnej liczby członków zdecydować o jej odrzuceniu, jeśli w trakcie postępowania stwierdzi, że zachodzi jedna z przyczyn niedopuszczalności określonych w artykule 27. W takim przypadku strony informowane są o decyzji Komisji.
+
+**Artykuł 30.**
+
+1. Komisja może w każdej fazie postępowania zdecydować o skreśleniu skargi z listy spraw, jeżeli okoliczności prowadzą do wniosku, że: Jednakże Komisja kontynuuje rozpatrywanie skargi, jeśli wymaga tego poszanowanie praw człowieka w rozumieniu niniejszej Konwencji.
+
+- **a)** wnoszący nie podtrzymuje swej skargi lub
+- **b)** spór został już rozstrzygnięty, lub
+- **c)** z jakiejkolwiek innej przyczyny ustalonej przez Komisję nie jest uzasadnione dalsze rozpatrywanie skargi.
+
 2. Jeżeli Komisja zdecyduje o skreśleniu z listy spraw skargi uprzednio przyjętej, sporządza ona sprawozdanie zawierające ustalenia dotyczące faktów oraz przyjęte rozwiązanie wraz z uzasadnieniem. Sprawozdanie zostaje przekazane stronom oraz Komitetowi Ministrów do wiadomości. Komisja może je opublikować.
+
 3. Komisja może podjąć decyzję o ponownym wpisaniu skargi na listę spraw, jeśli uzna, że okoliczności uzasadniają takie postępowanie.
+
 1. Jeżeli rozpatrywanie skargi nie zostało zakończone zgodnie z artykułem 28 (ustęp
-2), 29 lub 30, Komisja sporządza sprawozdanie o faktach i przedstawia swoją opinię o tym, czy stwierdzone fakty stanowią naruszenie przez zainteresowane Państwo jego zobowiązań wynikających z Konwencji. Opinie poszczególnych członków Komisji w tym przedmiocie mogą być wyrażone w sprawozdaniu.
+
+- **2)** , 29 lub 30, Komisja sporządza sprawozdanie o faktach i przedstawia swoją opinię o tym, czy stwierdzone fakty stanowią naruszenie przez zainteresowane Państwo jego zobowiązań wynikających z Konwencji. Opinie poszczególnych członków Komisji w tym przedmiocie mogą być wyrażone w sprawozdaniu.
+
 2. Sprawozdanie jest przekazywane Komitetowi Ministrów. Przekazuje się je także zainteresowanym Państwom, które nie mają prawa jego publikacji.
+
 3. Przekazując sprawozdanie Komitetowi Ministrów, Komisja może formułować propozycje, jakie uzna za stosowne.
+
 1. Jeżeli w terminie trzech miesięcy od daty przekazania sprawozdania Komitetowi Ministrów sprawa nie zostanie skierowania do Trybunału zgodnie z artykułem 48 niniejszej Konwencji, Komitet Ministrów podejmuje decyzję większością dwóch trzecich głosów członków uprawnionych do zasiadania w Komitecie, czy miało miejsce naruszenie Konwencji.
+
 2. W przypadku odpowiedzi pozytywnej Komitet Ministrów określi termin, w którym zainteresowana Wysoka Układająca się Strona winna podjąć środki, jakie pociąga za sobą ta decyzja.
+
 3. Jeśli w przewidzianym terminie zainteresowana Wysoka Układająca się Strona nie podejmie zadowalających środków, Komitet Ministrów zdecyduje określoną w ustępie 1 większością głosów sposób realizacji pierwotnej decyzji oraz ogłosi sprawozdanie.
-4. Wysokie Układające się Strony zobowiązują się uznać za wiążące wszelkie decyzje, jakie Komitet Ministrów może podjąć na podstawie ustępów poprzedzających .
-Komisja obraduje przy drzwiach zamkniętych.
-Z, zastrzeżeniem postanowień artykułu 20 ustęp 3 i artykułu 29, Komisja podejmuje decyzje większością głosów członków obecnych i głosujących.
-Komisja zbiera się, gdy wymagają tego okoliczności. Posiedzenia Komisji zwołuje Sekretarz Generalny Rady Europy.
-Komisja uchwala własny regulamin.
-Sekretariat Komisji jest organizowany przez Sekretarza Generalnego Rady Europy.
-Europejski Trybunał Praw Człowieka składa się z sędziów, których liczba równa się liczbie Państw-Członków Rady Europy. W składzie Trybunału nie może być więcej niż jeden obywatel tego samego państwa.
+
+4. Wysokie Układające się Strony zobowiązują się uznać za wiążące wszelkie decyzje, jakie Komitet Ministrów może podjąć na podstawie ustępów poprzedzających . Komisja obraduje przy drzwiach zamkniętych. Z, zastrzeżeniem postanowień artykułu 20 ustęp 3 i artykułu 29, Komisja podejmuje decyzje większością głosów członków obecnych i głosujących. Komisja zbiera się, gdy wymagają tego okoliczności. Posiedzenia Komisji zwołuje Sekretarz Generalny Rady Europy. Komisja uchwala własny regulamin. Sekretariat Komisji jest organizowany przez Sekretarza Generalnego Rady Europy. Europejski Trybunał Praw Człowieka składa się z sędziów, których liczba równa się liczbie Państw-Członków Rady Europy. W składzie Trybunału nie może być więcej niż jeden obywatel tego samego państwa.
+
 1. Członków Trybunału wybiera większością głosów Zgromadzenie Konsultacyjne z listy osób przedstawionych przez Państwa-Członków Rady Europy; każde Państwo-Członek przedstawia trzech kandydatów, z których co najmniej dwóch musi być jego obywatelami.
+
 2. Taką samą procedurę stosuje się, jeśli jest to możliwe, odpowiednio w celu uzupełnienia składu Trybunału w przypadku przystąpienia nowych Państw-Członków do Rady Europy oraz przy obsadzaniu wakujących miejsc.
+
 3. Kandydaci powinni być ludźmi o najwyższym poziomie moralnym 1 muszą albo posiadać kwalifikacje konieczne do sprawowania wysokiego urzędu sędziowskiego, albo być prawnikami o uznanej kompetencji.
+
 1. Członkowie Trybunału są wybierani na dziewięć lat. Mogą oni być wybierani ponownie. Jednakże kadencja czterech członków wybranych w pierwszych wyborach upływa po trzech latach, natomiast następnych czterech - po sześciu latach.
+
 2. Członkowie, których kadencja ma upłynąć z końcem początkowego okresu trzech lub sześciu lat, są wyznaczani w drodze losowania przez Sekretarza Generalnego Rady Europy bezpośrednio po zakończeniu pierwszych wyborów.
+
 3. Aby zapewnić, jeżeli jest to możliwe, odnowienie jednej trzeciej składu Trybunału co trzy lata, Zgromadzenie Konsultacyjne może przed rozpoczęciem procedury każdych kolejnych wyborów postanowić, że kadencja lub kadencje jednego lub większej liczby członków, którzy mają zostać wybrani, będzie inna niż dziewięcioletnia, jednakże nie dłuższa niż dwanaście lat i nie krótsza niż sześć lat.
+
 4. W przypadkach gdy, chodzi o więcej niż jeden mandat, a Zgromadzenie Konsultacyjne zastosuje poprzedni ustęp przydział mandatów zostanie dokonany w drodze losowania przez Sekretarza Generalnego Rady Europy bezpośrednio po zakończeniu wyborów.
+
 5. Członek Trybunału wybrany na miejsce członka, którego kadencja jeszcze nie upłynęła, sprawuje swój urząd do zakończenia kadencji poprzednika.
+
 6. Członkowie Trybunału sprawują swój urząd do chwili ich zastąpienia. Po zastąpieniu sprawują nadal swój urząd w odniesieniu do spraw, które zaczęli rozpatrywać.
+
 7. Członkowie Trybunału zasiadają w nim we własnym imieniu. W okresie sprawowania urzędu nie mogą oni pełnić żadnej funkcji, która nie daje się pogodzić z niezawisłością i bezstronnością członka Trybunału oraz wymaganiami tego urzędu.
-Artykuł 41 Trybunał wybiera swojego Przewodniczącego i jednego lub dwóch Wiceprzewodniczących na trzy lata. Mogą oni być wybrani ponownie.
-Członkowie Trybunału otrzymują za każdy dzień sprawowania urzędu wynagrodzenie, którego wysokość określa Komitet Ministrów.
-W celu rozpatrzenia każdej wniesionej sprawy Trybunał tworzy Izbę złożoną z dziewięciu sędziów. Z, urzędu zasiada w niej sędzia będący obywatelem zainteresowanego państwa lub, w przypadku braku takiego sędziego, inna osoba wybrana przez zainteresowane państwo do pełnienia funkcji sędziego. Pozostałych sędziów wyznacza przed rozpoczęciem rozpoznania sprawy Przewodniczący w drodze losowania.
-Prawo wniesienia sprawy do Trybunału mają wyłącznie Wysokie Układające się Strony oraz Komisja.
-Trybunał jest właściwy do rozpoznania wszystkich spraw dotyczących interpretacji i stosowania niniejszej Konwencji, które przedstawią mu Wysokie Układające się Strony lub Komisja na podstawie artykułu 48.
-1. Każda z Wysokich Układających się Stron może w każdym czasie oświadczyć, że uznaje jako obowiązkową ipso facto i bez konieczności zawierania specjalnego porozumienia właściwość Trybunału we wszystkich sprawach dotyczących interpretacji i stosowania niniejszej Konwencji.
-2. Takie deklaracje mogą być składane bezwarunkowo lub pod warunkiem wzajemności ze strony poszczególnych lub tylko niektórych Wysokich Układających się Stron lub na czas określony.
-3. Deklaracje składane są Sekretarzowi Generalnemu Rady Europy, który przekazuje ich kopie Wysokim Układającym się Stronom.
-Artykuł 47 Trybunał może przyjąć sprawę do rozpatrzenia tylko wówczas, gdy Komisja stwierdziła niepowodzenie próby polubownego jej załatwienia, oraz w ciągu trzymiesięcznego terminu przewidzianego w artykule 32.
-Artykuł 48 Pod warunkiem, że zainteresowana Wysoka Układająca się Strona, jeśli jest tylko jedna, lub zainteresowane Wysokie Układające się Strony, jeśli jest ich więcej, podlegają obowiązkowej jurysdykcji Trybunału, a w przypadku gdy jej nie podlegają, za zgodą zainteresowanej Wysokiej Układającej się Strony, jeśli jest tylko jedna, bądź zainteresowanych Wysokich Układających się Stron, jeśli jest ich więcej, sprawy do Trybunału mogą wnosić:
-a) Komisja;
-b) Wysoka Układająca się Strona, której obywatelstwo posiada ofiara ewentualc) Wysoka Układającą się Strona, która wniosła sprawę do Komisji;
-d) Wysoka Układająca się Strona, przeciwko której skarga jest skierowana.
-Artykuł 49 Spór dotyczący kompetencji Trybunału rozstrzyga sam Trybunał.
-Artykuł 50 Jeżeli Trybunał stwierdził, że decyzja lub środek zastosowany przez władzę sądową lub inną władzę Wysokiej Układającej się Strony jest częściowo lub całkowicie sprzeczny ze zobowiązaniami wynikającymi z niniejszej Konwencji oraz jeżeli prawo wewnętrzne tej Strony pozwala tylko na częściowe usunięcie konsekwencji tej decyzji lub zastosowanego środka, Trybunał orzeka, jeżeli zachodzi potrzeba, odpowiednie zadośćuczynienie pokrzywdzonej stronie.
-1. Wyrok Trybunału zawiera uzasadnienie.
-2. Jeżeli wyrok w całości lub w części nie wyraża jednomyślnej opinii sędziów, każdy sędzia jest uprawniony do załączenia opinii odrębnej.
-Artykuł 52 Wyrok Trybunału jest ostateczny.
-Artykuł 53 Wysokie Układające się Strony zobowiązują się do przestrzegania decyzji Trybunału we wszystkich sporach, w których są stronami.
-Wyrok Trybunału przekazuje się Komitetowi Ministrów, który czuwa nad jego wykonaniem.
-Trybunał sam uchwala własny regulamin i określa swoją procedurę.
-1. Pierwsze wybory członków Trybunału odbędą się po złożeniu deklaracji przewidzianych w artykule 46 przez osiem Wysokich Układających się Stron.
-2. Żadna sprawa nie może zostać wniesiona do Trybunału przed tymi wyborami.
-Na żądanie Sekretarza Generalnego Rady Europy każda Wysoka Układająca się Strona złoży wyjaśnienia w sprawie sposobu, w jaki jej prawo wewnętrzne zapewnia skuteczne stosowanie wszystkich postanowień niniejszej Konwencji.
-Koszty działalności Komisji Trybunału ponosi Rada Europy.
-Członkowie Komisji i Trybunału są uprawnieni w czasie pełnienia swoich funkcji do korzystania z przywilejów i immunitetów przewidzianych w artykule 40 Statutu Rady Europy 1 w porozumieniach zawartych na jego podstawie.
-Żadne z postanowień niniejszej Konwencji nie będzie interpretowane jako ograniczające lub wyłączające jakiekolwiek prawa człowieka lub podstawowe wolności, które mogą być zagwarantowane przez ustawy każdej Wysokiej Układającej się Strony lub jakąkolwiek inną umowę, której Państwo to jest Stroną.
-Żadne z postanowień niniejszej Konwencji nie narusza kompetencji przyznanych Komitetowi Ministrów na podstawie Statutu Rady Europy.
-Artykuł 62 Wysokie Układające się Strony zgadzają się, że wyjąwszy porozumienia szczególne, nie będą wykorzystywały obowiązujących między nimi traktatów, konwencji lub deklaracji do skierowania w drodze skargi sporu powstałego w związku z interpretacją lub stosowaniem niniejszej Konwencji do rozpatrzenia w ramach innych sposobów rozstrzygania sporów niż przewidziane w niniejszej Konwencji.
-Artykuł 63
+
+**Artykuł 41.** Trybunał wybiera swojego Przewodniczącego i jednego lub dwóch Wiceprzewodniczących na trzy lata. Mogą oni być wybrani ponownie. Członkowie Trybunału otrzymują za każdy dzień sprawowania urzędu wynagrodzenie, którego wysokość określa Komitet Ministrów. W celu rozpatrzenia każdej wniesionej sprawy Trybunał tworzy Izbę złożoną z dziewięciu sędziów. Z, urzędu zasiada w niej sędzia będący obywatelem zainteresowanego państwa lub, w przypadku braku takiego sędziego, inna osoba wybrana przez zainteresowane państwo do pełnienia funkcji sędziego. Pozostałych sędziów wyznacza przed rozpoczęciem rozpoznania sprawy Przewodniczący w drodze losowania. Prawo wniesienia sprawy do Trybunału mają wyłącznie Wysokie Układające się Strony oraz Komisja. Trybunał jest właściwy do rozpoznania wszystkich spraw dotyczących interpretacji i stosowania niniejszej Konwencji, które przedstawią mu Wysokie Układające się Strony lub Komisja na podstawie artykułu 48. 1. Każda z Wysokich Układających się Stron może w każdym czasie oświadczyć, że uznaje jako obowiązkową ipso facto i bez konieczności zawierania specjalnego porozumienia właściwość Trybunału we wszystkich sprawach dotyczących interpretacji i stosowania niniejszej Konwencji. 2. Takie deklaracje mogą być składane bezwarunkowo lub pod warunkiem wzajemności ze strony poszczególnych lub tylko niektórych Wysokich Układających się Stron lub na czas określony. 3. Deklaracje składane są Sekretarzowi Generalnemu Rady Europy, który przekazuje ich kopie Wysokim Układającym się Stronom.
+
+**Artykuł 47.** Trybunał może przyjąć sprawę do rozpatrzenia tylko wówczas, gdy Komisja stwierdziła niepowodzenie próby polubownego jej załatwienia, oraz w ciągu trzymiesięcznego terminu przewidzianego w artykule 32.
+
+**Artykuł 48.** Pod warunkiem, że zainteresowana Wysoka Układająca się Strona, jeśli jest tylko jedna, lub zainteresowane Wysokie Układające się Strony, jeśli jest ich więcej, podlegają obowiązkowej jurysdykcji Trybunału, a w przypadku gdy jej nie podlegają, za zgodą zainteresowanej Wysokiej Układającej się Strony, jeśli jest tylko jedna, bądź zainteresowanych Wysokich Układających się Stron, jeśli jest ich więcej, sprawy do Trybunału mogą wnosić:
+
+- **a)** Komisja;
+- **b)** Wysoka Układająca się Strona, której obywatelstwo posiada ofiara ewentualc) Wysoka Układającą się Strona, która wniosła sprawę do Komisji;
+- **d)** Wysoka Układająca się Strona, przeciwko której skarga jest skierowana.
+
+**Artykuł 49.** Spór dotyczący kompetencji Trybunału rozstrzyga sam Trybunał.
+
+**Artykuł 50.** Jeżeli Trybunał stwierdził, że decyzja lub środek zastosowany przez władzę sądową lub inną władzę Wysokiej Układającej się Strony jest częściowo lub całkowicie sprzeczny ze zobowiązaniami wynikającymi z niniejszej Konwencji oraz jeżeli prawo wewnętrzne tej Strony pozwala tylko na częściowe usunięcie konsekwencji tej decyzji lub zastosowanego środka, Trybunał orzeka, jeżeli zachodzi potrzeba, odpowiednie zadośćuczynienie pokrzywdzonej stronie. 1. Wyrok Trybunału zawiera uzasadnienie. 2. Jeżeli wyrok w całości lub w części nie wyraża jednomyślnej opinii sędziów, każdy sędzia jest uprawniony do załączenia opinii odrębnej.
+
+**Artykuł 52.** Wyrok Trybunału jest ostateczny.
+
+**Artykuł 53.** Wysokie Układające się Strony zobowiązują się do przestrzegania decyzji Trybunału we wszystkich sporach, w których są stronami. Wyrok Trybunału przekazuje się Komitetowi Ministrów, który czuwa nad jego wykonaniem. Trybunał sam uchwala własny regulamin i określa swoją procedurę. 1. Pierwsze wybory członków Trybunału odbędą się po złożeniu deklaracji przewidzianych w artykule 46 przez osiem Wysokich Układających się Stron. 2. Żadna sprawa nie może zostać wniesiona do Trybunału przed tymi wyborami. Na żądanie Sekretarza Generalnego Rady Europy każda Wysoka Układająca się Strona złoży wyjaśnienia w sprawie sposobu, w jaki jej prawo wewnętrzne zapewnia skuteczne stosowanie wszystkich postanowień niniejszej Konwencji. Koszty działalności Komisji Trybunału ponosi Rada Europy. Członkowie Komisji i Trybunału są uprawnieni w czasie pełnienia swoich funkcji do korzystania z przywilejów i immunitetów przewidzianych w artykule 40 Statutu Rady Europy 1 w porozumieniach zawartych na jego podstawie. Żadne z postanowień niniejszej Konwencji nie będzie interpretowane jako ograniczające lub wyłączające jakiekolwiek prawa człowieka lub podstawowe wolności, które mogą być zagwarantowane przez ustawy każdej Wysokiej Układającej się Strony lub jakąkolwiek inną umowę, której Państwo to jest Stroną. Żadne z postanowień niniejszej Konwencji nie narusza kompetencji przyznanych Komitetowi Ministrów na podstawie Statutu Rady Europy.
+
+**Artykuł 62.** Wysokie Układające się Strony zgadzają się, że wyjąwszy porozumienia szczególne, nie będą wykorzystywały obowiązujących między nimi traktatów, konwencji lub deklaracji do skierowania w drodze skargi sporu powstałego w związku z interpretacją lub stosowaniem niniejszej Konwencji do rozpatrzenia w ramach innych sposobów rozstrzygania sporów niż przewidziane w niniejszej Konwencji.
+
+**Artykuł 63.**
+
 1. Każde Państwo może w chwili ratyfikacji lub w jakimkolwiek późniejszym czasie oświadczyć w drodze notyfikacji skierowanej do Sekretarza Generalnego Rady Europy, że niniejsza Konwencja obowiązywać będzie na wszystkich lub niektórych terytoriach, za których stosunki międzynarodowe państwo to odpowiada.
+
 2. Konwencja obowiązywać będzie na terytorium lub terytoriach wymienionych w ratyfikacji od trzydziestego dnia po otrzymaniu tej ratyfikacji przez Sekretarza Generalnego Rady Europy.
+
 3. Postanowienia niniejszej Konwencji będą stosowane na tych terytoriach odpowiednio do miejscowych wymogów.
+
 4. Każde Państwo, które złożyło deklarację na podstawie ustępu 1 niniejszego artykułu, może w każdym późniejszym czasie uznać w odniesieniu do jednego lub wielu terytoriów wymienionych w tej deklaracji kompetencję Komisji do przyjmowania skarg od jednostek, organizacji pozarządowych lub grupy osób, zgodnie z artykułem 25 niniejszej Konwencji.
-Artykuł 64
+
+**Artykuł 64.**
+
 1. Każde Państwo może, przy podpisaniu niniejszej Konwencji lub przy składaniu dokumentów ratyfikacji, dokonać zastrzeżenia odnośnie do każdego z przepisów Konwencji w takim zakresie, w jakim ustawa obowiązująca na jego terytorium jest z tym przepisem niezgodna. Na podstawie niniejszego artykułu niedopuszczalne są zastrzeżenia o charakterze ogólnym.
+
 2. Każde zastrzeżenie złożone na podstawie niniejszego artykułu powinno zawierać krótkie przedstawienie treści ustawy, której dotyczy.
-Artykuł 65 l. Wysoka Układająca się Strona może wypowiedzieć niniejszą Konwencję nie wcześniej niż po upływie pięciu lat od chwili, w której stała się jej Stroną, 1 z zachowaniem sześciomiesięcznego okresu wypowiedzenia zawartego w notyfikacji skierowanej do Sekretarza Generalnego Rady Europy, który poinformuje o tym inne Wysokie Układające się Strony.
-2. Powyższe wypowiedzenie nie zwalnia zainteresowanej Wysokiej Układającej się Strony ze zobowiązań wynikających z Konwencji w odniesieniu do każdego działania, które mogąc naruszać te zobowiązania byłoby podjęte przed upływem terminu, w którym wypowiedzenie stało się skuteczne.
-3. Każda Wysoka Układająca się Strona, która przestaje być członkiem Rady Europy, przestaje być na tych samych warunkach Stroną niniejszej Konwencji.
-4. Konwencja może być wypowiedziana zgodnie z przepisami poprzednich ustępów w odniesieniu do każdego terytorium, w stosunku do którego oświadczono o jej obowiązywaniu zgodnie z artykułem 63.
-Artykuł 66
+
+**Artykuł 65.** l. Wysoka Układająca się Strona może wypowiedzieć niniejszą Konwencję nie wcześniej niż po upływie pięciu lat od chwili, w której stała się jej Stroną, 1 z zachowaniem sześciomiesięcznego okresu wypowiedzenia zawartego w notyfikacji skierowanej do Sekretarza Generalnego Rady Europy, który poinformuje o tym inne Wysokie Układające się Strony. 2. Powyższe wypowiedzenie nie zwalnia zainteresowanej Wysokiej Układającej się Strony ze zobowiązań wynikających z Konwencji w odniesieniu do każdego działania, które mogąc naruszać te zobowiązania byłoby podjęte przed upływem terminu, w którym wypowiedzenie stało się skuteczne. 3. Każda Wysoka Układająca się Strona, która przestaje być członkiem Rady Europy, przestaje być na tych samych warunkach Stroną niniejszej Konwencji. 4. Konwencja może być wypowiedziana zgodnie z przepisami poprzednich ustępów w odniesieniu do każdego terytorium, w stosunku do którego oświadczono o jej obowiązywaniu zgodnie z artykułem 63.
+
+**Artykuł 66.**
+
 1. Niniejsza Konwencja jest otwarta do podpisu dla Członków Rady Europy. Podlega ona ratyfikacji. Dokumenty ratyfikacyjne składa się Sekretarzowi Generalnemu Rady Europy.
+
 2. Niniejsza Konwencja wejdzie w życie po złożeniu dziesięciu dokumentów ratyfikacyjnych.
+
 3. W odniesieniu do każdego sygnatariusza, który dokona ratyfikacji w dalszej kolejności, Konwencja wchodzi w życie z dniem złożenia dokumentów ratyfikacyjnych.
-4. Sekretarz Generalny Rady Europy notyfikuje członkom Rady Europy wejście w życie Konwencji, nazwy Wysokich Układających się Stron, które dokonały jej ratyfikacji oraz fakt złożenia kolejnych dokumentów ratyfikacyjnych.
-Sporządzono w Rzymie, dnia 4 listopada 1950 roku w jednym egzemplarzu, w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne; oryginał zostanie złożony w archiwach Rady Europy. Sekretarz Generalny przekaże uwierzytelnione odpisy każdemu z sygnatariuszy.
-PROTOKÓŁ DODATKOWY DO KONWENCJI O OCHRONIE PRAW CZŁOWIEKA I PODSTAWOWYCH WOLNOŚCI Państwa-Sygnatariusze, Członkowie Rady Europy, zdecydowane podjąć odpowiednie środki zmierzające do zapewnienia wspólnych gwarancji praw i wolności, innych aniżeli te, które są już zawarte w Rozdziale I Konwencji o Ochronie Praw Człowieka i Podstawowych Wolności, podpisanej w Rzymie 4 listopada 1950 r.
-(zwanej dalej "Konwencją"), uzgodniły, co następuje: Artykuł 1 Każda osoba fizyczna 1 prawna ma prawo do poszanowania swego mienia. Nikt nie może być pozbawiony swojej własności, chyba że w interesie publicznym i na warunkach przewidzianych przez ustawę oraz zgodnie z podstawowymi zasadami prawa międzynarodowego. Powyższe postanowienia nie będą jednak w żaden sposób naruszać prawa Państwa do wydawania takich ustaw, jakie uzna za konieczne dla uregulowania sposobu korzystania z własności zgodnie z interesem powszechnym lub w celu zapewnienia uiszczenia podatków bądź innych należności lub kar pieniężnych .
-Nikt nie może być pozbawiony prawa do nauki. Wykonując swoje funkcje w dziedzinie wychowania i nauczania, Państwo uznaje prawo rodziców do zapewnienia tego wychowania i nauczania zgodnie z ich własnymi przekonaniami religijnymi i filozoficznymi.
-Wysokie Układające się Strony zobowiązują się organizować w rozsądnych odstępach czasu wolne wybory oparte na tajnym głosowaniu, w warunkach zapewniających swobodę wyrażania opinii ludności w wyborze ciała ustawodawczego.
+
+4. Sekretarz Generalny Rady Europy notyfikuje członkom Rady Europy wejście w życie Konwencji, nazwy Wysokich Układających się Stron, które dokonały jej ratyfikacji oraz fakt złożenia kolejnych dokumentów ratyfikacyjnych. Sporządzono w Rzymie, dnia 4 listopada 1950 roku w jednym egzemplarzu, w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne; oryginał zostanie złożony w archiwach Rady Europy. Sekretarz Generalny przekaże uwierzytelnione odpisy każdemu z sygnatariuszy. PROTOKÓŁ DODATKOWY DO KONWENCJI O OCHRONIE PRAW CZŁOWIEKA I PODSTAWOWYCH WOLNOŚCI Państwa-Sygnatariusze, Członkowie Rady Europy, zdecydowane podjąć odpowiednie środki zmierzające do zapewnienia wspólnych gwarancji praw i wolności, innych aniżeli te, które są już zawarte w Rozdziale I Konwencji o Ochronie Praw Człowieka i Podstawowych Wolności, podpisanej w Rzymie 4 listopada 1950 r. (zwanej dalej "Konwencją"), uzgodniły, co następuje: Artykuł 1 Każda osoba fizyczna 1 prawna ma prawo do poszanowania swego mienia. Nikt nie może być pozbawiony swojej własności, chyba że w interesie publicznym i na warunkach przewidzianych przez ustawę oraz zgodnie z podstawowymi zasadami prawa międzynarodowego. Powyższe postanowienia nie będą jednak w żaden sposób naruszać prawa Państwa do wydawania takich ustaw, jakie uzna za konieczne dla uregulowania sposobu korzystania z własności zgodnie z interesem powszechnym lub w celu zapewnienia uiszczenia podatków bądź innych należności lub kar pieniężnych . Nikt nie może być pozbawiony prawa do nauki. Wykonując swoje funkcje w dziedzinie wychowania i nauczania, Państwo uznaje prawo rodziców do zapewnienia tego wychowania i nauczania zgodnie z ich własnymi przekonaniami religijnymi i filozoficznymi. Wysokie Układające się Strony zobowiązują się organizować w rozsądnych odstępach czasu wolne wybory oparte na tajnym głosowaniu, w warunkach zapewniających swobodę wyrażania opinii ludności w wyborze ciała ustawodawczego.
+
+## Załącznik
+
 Artykuł 4 Każda Wysoka Układająca się Strona może w chwili podpisania lub ratyfikacji, bądź w jakimkolwiek późniejszym czasie, złożyć Sekretarzowi Generalnemu Rady Europy deklarację wskazującą, w jakim stopniu zobowiązuje się do stosowania postanowień niniejszego Protokołu na terytoriach wymienionych w tej deklaracji, za których stosunki międzynarodowe państwo to odpowiada.
 Każda Wysoka Układająca się Strona, która złożyła deklarację na podstawie ustępu poprzedzającego, może w każdym czasie złożyć następną deklarację, modyfikującą treść poprzednich lub wyłączającą stosowanie postanowień niniejszego Protokołu na jakimkolwiek terytorium.
 Deklaracja złożona na podstawie niniejszego artykułu będzie uważana za zgodną z artykułem 63 ustęp I Konwencji.
@@ -325,6 +360,4 @@ c) każdą datę wejścia w życie niniejszego Protokołu zgodnie z jego artyku�
 d) każdy inny akt, notyfikację lub deklarację odnoszącą się do niniejszego Protokołu .
 Na dowód czego niżej podpisani, będąc do tego należycie upoważnieni, podpisali niniejszy Protokół.
 Sporządzono w Rzymie, dnia 8 listopada 1990 roku w jednym egzemplarzu, w językach angielskim 1 francuskim, przy czym oba teksty są jednakowo autentyczne; oryginał zostanie złożony w archiwach Rady Europy. Sekretarz Generalny przekaże uwierzytelnione odpisy każdemu Państwu-Członkowi Rady Europy.
-
-#### Rozdział I
 

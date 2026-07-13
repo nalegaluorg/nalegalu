@@ -30,7 +30,10 @@ source: pdf
 **Art. 1.** W ustawie z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych (Dz. U. Nr 116, poz. 1205, z 2005 r. Nr 183, poz. 1538 oraz z 2006 r. Nr 157, poz. 1119) wprowadza się następujące zmiany:
 
 - **1)** w art. 2:
-    - **a)** pkt 13 otrzymuje brzmienie: „13) wypłata – wypłatę jednorazową albo wypłatę w ratach środków zgromadzonych na IKE dokonywaną na rzecz: a) oszczędzającego, po spełnieniu warunków określonych w art. 34 ust. 1 pkt 1 albo b) osób uprawnionych, w przypadku śmierci oszczędzającego;”,
+    - **a)** pkt 13 otrzymuje brzmienie:
+
+      > „13) wypłata – wypłatę jednorazową albo wypłatę w ratach środków zgromadzonych na IKE dokonywaną na rzecz:  
+      > a) oszczędzającego, po spełnieniu warunków określonych w art. 34 ust. 1 pkt 1 albo b) osób uprawnionych, w przypadku śmierci oszczędzającego;”,  
     - **b)** pkt 15 otrzymuje brzmienie: „15) zwrot – wycofanie całości środków zgromadzonych na IKE, jeżeli nie zachodzą przesłanki do wypłaty bądź wypłaty transferowej;”,
     - **c)** po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) częściowy zwrot – wycofanie części środków zgromadzonych na IKE, jeżeli nie zachodzą przesłanki do wypłaty bądź wypłaty transferowej;”;
 
@@ -50,7 +53,12 @@ source: pdf
     - **b)** w ust. 3 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) wysokości i daty częściowych zwrotów;”;
 
 - **8)** w art. 34:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Wypłata może być, w zależności od wniosku oszczędzającego albo osoby uprawnionej, dokonywana jednorazowo albo w ratach. Wypłata jednorazowa, a w przypadku wypłaty w ratach pierwsza rata, powinny być, z wyłączeniem przypadków, o których mowa w art. 14 ust. 1 pkt 1 i 2, dokonane w terminie nie dłuższym niż 14 dni od dnia: 1) złożenia przez oszczędzającego wniosku o dokonanie wypłaty; 2) złożenia przez osobę, o której mowa w ust. 1 pkt 2, wniosku o dokonanie wypłaty oraz przedłożenia: a) aktu zgonu oszczędzającego i dokumentu stwierdzającego tożsamość osoby uprawnionej albo b) prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku oraz zgodnego oświadczenia wszystkich spadkobierców o sposobie podziału środków zgromadzonych przez oszczędzającego bądź prawomocnego postanowienia sądu o dziale spadku oraz dokumentów stwierdzających tożsamość spadkobierców – chyba że oszczędzający albo osoby uprawnione zażądają wypłaty w terminie późniejszym.”,
+    - **a)** ust. 2 otrzymuje brzmienie:
+
+      > „2. Wypłata może być, w zależności od wniosku oszczędzającego albo osoby uprawnionej, dokonywana jednorazowo albo w ratach. Wypłata jednorazowa, a w przypadku wypłaty w ratach pierwsza rata, powinny być, z wyłączeniem przypadków, o których mowa w art. 14 ust. 1 pkt 1 i 2, dokonane w terminie nie dłuższym niż 14 dni od dnia:  
+      > 1) złożenia przez oszczędzającego wniosku o dokonanie wypłaty;  
+      > 2) złożenia przez osobę, o której mowa w ust. 1 pkt 2, wniosku o dokonanie wypłaty oraz przedłożenia:  
+      > a) aktu zgonu oszczędzającego i dokumentu stwierdzającego tożsamość osoby uprawnionej albo b) prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku oraz zgodnego oświadczenia wszystkich spadkobierców o sposobie podziału środków zgromadzonych przez oszczędzającego bądź prawomocnego postanowienia sądu o dziale spadku oraz dokumentów stwierdzających tożsamość spadkobierców – chyba że oszczędzający albo osoby uprawnione zażądają wypłaty w terminie późniejszym.”,  
     - **b)** ust. 4 otrzymuje brzmienie: „4. Oszczędzający, który dokonał wypłaty jednorazowej albo wypłaty pierwszej raty, nie może ponownie założyć IKE.”,
     - **c)** dodaje się ust. 5 w brzmieniu: „5. Oszczędzający nie może dokonywać wpłat na IKE, z którego dokonał wypłaty pierwszej raty.”;
 
@@ -74,7 +82,14 @@ source: pdf
     - **a)** ust. 4 otrzymuje brzmienie: „4. Suma składek dodatkowych wniesionych przez uczestnika do jednego programu w ciągu roku kalendarzowego nie może przekroczyć kwoty odpowiadającej czteroipółkrotności przeciętnego prognozowanego wynagrodzenia miesięcznego w gospodarce narodowej na dany rok, określonego w ustawie budżetowej, ustawie o prowizorium budżetowym lub w ich projektach, jeżeli odpowiednie ustawy nie zostały uchwalone. W przypadku gdy kwota ustalona w sposób określony w zdaniu pierwszym będzie niższa od kwoty ogłoszonej w poprzednim roku kalendarzowym, wówczas obowiązuje kwota ogłoszona w poprzednim roku kalendarzowym.”,
     - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Minister właściwy do spraw zabezpieczenia społecznego ogłasza w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” do końca roku kalendarzowego poprzedzającego rok, w którym uczestnik będzie wnosił do programu składki dodatkowe, wysokość kwoty, o której mowa w ust. 4.”;
 
-- **3)** po art. 41 dodaje się art. 41a w brzmieniu: „Art. 41a. 1. Organ nadzoru wykreśla z urzędu program z rejestru programów w przypadku, gdy: 1) zakończono postępowanie likwidacyjne pracodawcy albo zakończono postępowanie upadłościowe pracodawcy, a podmiot obowiązany do złożenia wniosku o wydanie decyzji o wykreśleniu programu z rejestru programów nie złożył takiego wniosku; 2) nie zakończono postępowania w sprawie wykreślenia programu przed dniem zakończenia postępowania likwidacyjnego pracodawcy albo zakończenia postępowania upadłościowego pracodawcy. 2. W przypadkach, o których mowa w ust. 1, organ nadzoru nie wydaje decyzji, o której mowa w art. 37 ust. 2, a adnotację o wykreśleniu programu pozostawia w aktach sprawy. 3. W przypadkach, o których mowa w ust. 1, art. 20 ust. 5 i ust. 6 oraz art. 42-45 stosuje się odpowiednio.”.
+- **3)** po art. 41 dodaje się art. 41a w brzmieniu:
+
+  > „Art. 41a.  
+  > 1. Organ nadzoru wykreśla z urzędu program z rejestru programów w przypadku, gdy:  
+  > 1) zakończono postępowanie likwidacyjne pracodawcy albo zakończono postępowanie upadłościowe pracodawcy, a podmiot obowiązany do złożenia wniosku o wydanie decyzji o wykreśleniu programu z rejestru programów nie złożył takiego wniosku;  
+  > 2) nie zakończono postępowania w sprawie wykreślenia programu przed dniem zakończenia postępowania likwidacyjnego pracodawcy albo zakończenia postępowania upadłościowego pracodawcy.  
+  > 2. W przypadkach, o których mowa w ust. 1, organ nadzoru nie wydaje decyzji, o której mowa w art. 37 ust. 2, a adnotację o wykreśleniu programu pozostawia w aktach sprawy.  
+  > 3. W przypadkach, o których mowa w ust. 1, art. 20 ust. 5 i ust. 6 oraz art. 42-45 stosuje się odpowiednio.”.  
 
 **Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r., z wyjątkiem art. 1 pkt 3 i art. 3 pkt 2, które wchodzą w życie z dniem ogłoszenia.
 

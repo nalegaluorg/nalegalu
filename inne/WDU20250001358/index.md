@@ -31,69 +31,99 @@ z 2021 r. poz. 878), z uwzględnieniem zmian wprowadzonych rozporządzeniem Mini
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 25 marca 2025 r. zmieniającego rozporządzenie w sprawie służby informacji lotniczej (Dz. U. poz. 425), które stanowią: „ Niniejsze rozporządzenie służy stosowaniu: 1) rozporządzenia wykonawczego Komisji (UE) 2017/373 z dnia 1 marca 2017 r. ustanawiającego wspólne wymogi dotyczące instytucji zapewniających zarządzanie ruchem lotniczym/służby żeglugi powietrznej i inne funkcje sieciowe zarządzania ruchem lotniczym oraz nadzoru nad nimi, uchylającego rozporządzenie (WE) nr 482/2008, rozporządzenia wykonawcze (UE) nr 1034/2011, (UE) nr 1035/2011 i (UE) 2016/1377 oraz zmieniającego rozporządzenie (UE) nr 677/2011 (Dz. Urz. UE L 62 z 08.03.2017, str. 1, Dz. Urz. UE L 286 z 07.11.2019, str. 31, Dz. Urz. UE L 104 z 03.04.2020 str. 1, Dz. Urz. UE L 259 z 10.08.2020, str. 12, Dz. Urz. UE L 139 z 23.04.2021, str. 184, Dz. Urz. UE L 289 z 12.08.2021, str. 12, Dz. Urz. UE L 108 z 07.04.2022, str. 71, Dz. Urz. UE L 187 z 14.07.2022, str. 58, Dz. Urz. UE L 209 z 10.08.2022, str. 1, Dz. Urz. UE L 311 z 02.12.2022, str. 58, Dz. Urz. UE L 31 z 02.02.2023, str. 1, Dz. Urz. UE L 228 z 15.09.2023, str. 49, Dz. Urz. UE L 2024/403 z 11.04.2024, Dz. Urz. UE L 2024/1111 z 23.05.2024 oraz Dz. Urz. UE L 2025/343 z 18.02.2025); 2) rozporządzenia delegowanego Komisji (UE) 2023/1768 z dnia 14 lipca 2023 r. ustanawiającego szczegółowe przepisy dotyczące certyfikacji i deklaracji systemów i części składowych wykorzystywanych do zapewniania zarządzania ruchem lotniczym/służb żeglugi powietrznej (Dz. Urz. UE L 228 z 15.09.2023, str. 1).” „§ 2. Do spraw dotyczących zgłaszania danych i informacji lotniczych i ich publikacji w Zintegrowanym Pakiecie Informacji Lotniczych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Infrastruktury: wz. M. Lasek
 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY I ROZWOJU z dnia 25 września 2015 r.
 w sprawie służby informacji lotniczej Na podstawie art. 132 pkt 1–4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) sposób i warunki zapewniania służby informacji lotniczej, zwanej dalej „AIS”;
-2) wymagania, którym powinny odpowiadać mapy lotnicze i inne wydawnictwa AIS;
-3) sposób i warunki udostępniania przez organy AIS wydawnictw, o których mowa w pkt 2, oraz rozpowszechniania przez nią innych informacji;
-4) zasady współdziałania AIS z zarządzającymi lotniskami.
-§ 2. Sposób i warunki zapewniania AIS w zakresie:
-1) przepływu danych i informacji lotniczych – określają przepisy rozporządzenia delegowanego Komisji (UE) 2023/1768 z dnia 14 lipca 2023 r. ustanawiającego szczegółowe przepisy dotyczące certyfikacji i deklaracji systemów i części składowych wykorzystywanych do zapewniania zarządzania ruchem lotniczym/służb żeglugi powietrznej (Dz. Urz.
-UE L 228 z 15.09.2023, str. 1);
-2) publikacji Zintegrowanego Pakietu Informacji Lotniczych oraz wymagania dla tego wydawnictwa – określają:
-a) normy i zalecane metody postępowania zawarte w Załączniku 15 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm. ), zwanej dalej „Konwencją”, ogłoszonym w załączniku do obwieszczenia nr 20 Prezesa Urzędu Lotnictwa Cywilnego z dnia 30 grudnia 2020 r. w sprawie ogłoszenia tekstu Załącznika 15 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 80), z wyłączeniem pkt 1.2.2.2, 5.3.3.4.6,
-5.3.3.4.9, 5.3.4 i 5.3.5, aa) wymagania ustanowione przez Organizację Międzynarodowego Lotnictwa Cywilnego (ICAO) – „Procedury służb żeglugi powietrznej – zarządzanie informacją lotniczą”, ogłoszone w załączniku do obwieszczenia nr 15/2024 Prezesa Urzędu Lotnictwa Cywilnego z dnia 6 czerwca 2024 r. w sprawie ogłoszenia wymagań ustanowionych przez Organizację Międzynarodowego Lotnictwa Cywilnego (ICAO) w Doc 10066: „Procedury Służb Żeglugi Powietrznej – Zarządzanie Informacją Lotniczą” (Dz. Urz. ULC poz. 25), zwane dalej „Doc 10066”, z wyłączeniem pkt 5.3.3.3 i 5.3.3.4, a także pkt 7.7.4 w zakresie następujących obowiązkowych atrybutów przeszkód: identyfikator twórcy danych, zasięg poziomy oraz data i czas,
-b) przepisy rozporządzenia wykonawczego Komisji (UE) 2017/373 z dnia 1 marca 2017 r. ustanawiającego wspólne wymogi dotyczące instytucji zapewniających zarządzanie ruchem lotniczym/służby żeglugi powietrznej i inne funkcje sieciowe zarządzania ruchem lotniczym oraz nadzoru nad nimi, uchylającego rozporządzenie (WE) nr 482/2008, rozporządzenia wykonawcze (UE) nr 1034/2011, (UE) nr 1035/2011 i (UE) 2016/1377 oraz zmieniającego rozporządzenie (UE) nr 677/2011 (Dz. Urz. UE L 62 z 08.03.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/373/UE”,
-c) załącznik nr 1 do rozporządzenia określający sposób publikacji danych i informacji lotniczych w Zintegrowanym Pakiecie Informacji Lotniczych;
-3) udostępniania map lotniczych oraz wymagania dla tych map – określają normy i zalecane metody postępowania zawarte w Załączniku 4 do Konwencji, ogłoszonym w załączniku do obwieszczenia nr 13/2023 Prezesa Urzędu Lotnictwa Cywilnego z dnia 2 czerwca 2023 r. w sprawie ogłoszenia tekstu Załącznika 4 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 41), z wyłączeniem pkt 2.1.7, 2.1.8, 2.4.1, 4.2.1, 5.2.1, 8.7, 11.4, 16.2.1, 17.4.4, 20.1 i 21.7.
-4) (uchylony).
-§ 3. Wymagania, którym powinny odpowiadać mapy lotnicze, są określone w Załączniku 4 do Konwencji, a wymagania, którym powinny odpowiadać wydawnictwa AIS inne niż mapy lotnicze, są określone w Załączniku 15 do Konwencji oraz w Doc 10066, z tym że ilekroć w zakresie wymagań dotyczących:
-1) map lotniczych w Załączniku 4 do Konwencji jest mowa o „władzy” lub „państwie”, rozumie się przez to:
-a) Prezesa Urzędu Lotnictwa Cywilnego, zwanego dalej „Prezesem Urzędu”,
-b) instytucję zapewniającą służby żeglugi powietrznej certyfikowaną zgodnie z art. 6 rozporządzenia 2017/373/UE – w przypadku, o którym mowa w pkt 2.17.1, 2.17.3 i 11.10.5,
-c) podmiot opracowujący daną mapę lotniczą – w przypadku, o którym mowa w pkt 1.3.2, 1.3.2.1, 1.3.3, 2.4.4 i 2.17.2;
-2) wydawnictw AIS innych niż mapy lotnicze w Załączniku 15 do Konwencji oraz w Doc 10066 jest mowa o:
-a) „państwie” – rozumie się przez to Prezesa Urzędu,
-b) „władzy lotniczej” lub „agencji, której przekazano uprawnienia do zapewniania służb” oraz „cywilnej władzy lotniczej” – rozumie się przez to instytucję zapewniającą AIS certyfikowaną zgodnie z art. 6 rozporządzenia 2017/373/UE,
-c) „władzy meteorologicznej” – rozumie się przez to instytucję zapewniającą służbę meteorologiczną certyfikowaną zgodnie z art. 6 rozporządzenia 2017/373/UE.
-§ 4. 1. Sposobem udostępniania wydawnictw i rozpowszechniania informacji lotniczych przez organy AIS jest:
-1) publikacja danych i informacji lotniczych w Zintegrowanym Pakiecie Informacji Lotniczych w języku polskim i angielskim;
-2) międzynarodowe rozpowszechnianie informacji NOTAM (Notice To Airmen), o których mowa w pkt 6.3.2 Załącznika 15 do Konwencji, zwanych dalej „NOTAM”;
-3) zapewnienie personelowi związanemu z operacjami lotniczymi dostępu do informacji lotniczych potrzebnych w celach planowania przed lotem zgodnie z pkt 5.5 Załącznika 15 do Konwencji.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób i warunki zapewniania służby informacji lotniczej, zwanej dalej „AIS”;
+- **2)** wymagania, którym powinny odpowiadać mapy lotnicze i inne wydawnictwa AIS;
+- **3)** sposób i warunki udostępniania przez organy AIS wydawnictw, o których mowa w pkt 2, oraz rozpowszechniania przez nią innych informacji;
+- **4)** zasady współdziałania AIS z zarządzającymi lotniskami.
+
+**§ 2.** Sposób i warunki zapewniania AIS w zakresie:
+
+- **1)** przepływu danych i informacji lotniczych – określają przepisy rozporządzenia delegowanego Komisji (UE) 2023/1768 z dnia 14 lipca 2023 r. ustanawiającego szczegółowe przepisy dotyczące certyfikacji i deklaracji systemów i części składowych wykorzystywanych do zapewniania zarządzania ruchem lotniczym/służb żeglugi powietrznej (Dz. Urz. UE L 228 z 15.09.2023, str. 1);
+- **2)** publikacji Zintegrowanego Pakietu Informacji Lotniczych oraz wymagania dla tego wydawnictwa – określają:
+    - **a)** normy i zalecane metody postępowania zawarte w Załączniku 15 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm. ), zwanej dalej „Konwencją”, ogłoszonym w załączniku do obwieszczenia nr 20 Prezesa Urzędu Lotnictwa Cywilnego z dnia 30 grudnia 2020 r. w sprawie ogłoszenia tekstu Załącznika 15 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 80), z wyłączeniem pkt 1.2.2.2, 5.3.3.4.6,
+
+5. 3.3.4.9, 5.3.4 i 5.3.5, aa) wymagania ustanowione przez Organizację Międzynarodowego Lotnictwa Cywilnego (ICAO) – „Procedury służb żeglugi powietrznej – zarządzanie informacją lotniczą”, ogłoszone w załączniku do obwieszczenia nr 15/2024 Prezesa Urzędu Lotnictwa Cywilnego z dnia 6 czerwca 2024 r. w sprawie ogłoszenia wymagań ustanowionych przez Organizację Międzynarodowego Lotnictwa Cywilnego (ICAO) w Doc 10066: „Procedury Służb Żeglugi Powietrznej – Zarządzanie Informacją Lotniczą” (Dz. Urz. ULC poz. 25), zwane dalej „Doc 10066”, z wyłączeniem pkt 5.3.3.3 i 5.3.3.4, a także pkt 7.7.4 w zakresie następujących obowiązkowych atrybutów przeszkód: identyfikator twórcy danych, zasięg poziomy oraz data i czas,
+
+- **b)** przepisy rozporządzenia wykonawczego Komisji (UE) 2017/373 z dnia 1 marca 2017 r. ustanawiającego wspólne wymogi dotyczące instytucji zapewniających zarządzanie ruchem lotniczym/służby żeglugi powietrznej i inne funkcje sieciowe zarządzania ruchem lotniczym oraz nadzoru nad nimi, uchylającego rozporządzenie (WE) nr 482/2008, rozporządzenia wykonawcze (UE) nr 1034/2011, (UE) nr 1035/2011 i (UE) 2016/1377 oraz zmieniającego rozporządzenie (UE) nr 677/2011 (Dz. Urz. UE L 62 z 08.03.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/373/UE”,
+- **c)** załącznik nr 1 do rozporządzenia określający sposób publikacji danych i informacji lotniczych w Zintegrowanym Pakiecie Informacji Lotniczych;
+- **3)** udostępniania map lotniczych oraz wymagania dla tych map – określają normy i zalecane metody postępowania zawarte w Załączniku 4 do Konwencji, ogłoszonym w załączniku do obwieszczenia nr 13/2023 Prezesa Urzędu Lotnictwa Cywilnego z dnia 2 czerwca 2023 r. w sprawie ogłoszenia tekstu Załącznika 4 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 41), z wyłączeniem pkt 2.1.7, 2.1.8, 2.4.1, 4.2.1, 5.2.1, 8.7, 11.4, 16.2.1, 17.4.4, 20.1 i 21.7.
+- **4)** (uchylony).
+
+**§ 3.** Wymagania, którym powinny odpowiadać mapy lotnicze, są określone w Załączniku 4 do Konwencji, a wymagania, którym powinny odpowiadać wydawnictwa AIS inne niż mapy lotnicze, są określone w Załączniku 15 do Konwencji oraz w Doc 10066, z tym że ilekroć w zakresie wymagań dotyczących:
+
+- **1)** map lotniczych w Załączniku 4 do Konwencji jest mowa o „władzy” lub „państwie”, rozumie się przez to:
+    - **a)** Prezesa Urzędu Lotnictwa Cywilnego, zwanego dalej „Prezesem Urzędu”,
+    - **b)** instytucję zapewniającą służby żeglugi powietrznej certyfikowaną zgodnie z art. 6 rozporządzenia 2017/373/UE – w przypadku, o którym mowa w pkt 2.17.1, 2.17.3 i 11.10.5,
+    - **c)** podmiot opracowujący daną mapę lotniczą – w przypadku, o którym mowa w pkt 1.3.2, 1.3.2.1, 1.3.3, 2.4.4 i 2.17.2;
+
+- **2)** wydawnictw AIS innych niż mapy lotnicze w Załączniku 15 do Konwencji oraz w Doc 10066 jest mowa o:
+    - **a)** „państwie” – rozumie się przez to Prezesa Urzędu,
+    - **b)** „władzy lotniczej” lub „agencji, której przekazano uprawnienia do zapewniania służb” oraz „cywilnej władzy lotniczej” – rozumie się przez to instytucję zapewniającą AIS certyfikowaną zgodnie z art. 6 rozporządzenia 2017/373/UE,
+    - **c)** „władzy meteorologicznej” – rozumie się przez to instytucję zapewniającą służbę meteorologiczną certyfikowaną zgodnie z art. 6 rozporządzenia 2017/373/UE.
+
+**§ 4.**
+
+1. Sposobem udostępniania wydawnictw i rozpowszechniania informacji lotniczych przez organy AIS jest:
+
+- **1)** publikacja danych i informacji lotniczych w Zintegrowanym Pakiecie Informacji Lotniczych w języku polskim i angielskim;
+- **2)** międzynarodowe rozpowszechnianie informacji NOTAM (Notice To Airmen), o których mowa w pkt 6.3.2 Załącznika 15 do Konwencji, zwanych dalej „NOTAM”;
+- **3)** zapewnienie personelowi związanemu z operacjami lotniczymi dostępu do informacji lotniczych potrzebnych w celach planowania przed lotem zgodnie z pkt 5.5 Załącznika 15 do Konwencji.
+
 2. Warunkiem udostępniania wydawnictw i rozpowszechniania informacji lotniczych przez organy AIS jest:
-1) zgodność map lotniczych oraz danych i informacji lotniczych przekazywanych do Zintegrowanego Pakietu Informacji Lotniczych z:
-a) poziomym układem odniesienia według układu współrzędnych Światowego Systemu Geodezyjnego 1984 (WGS–84) oraz układem wysokości PL-EVRF2007-NH, o których mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019),
-b) normami i zalecanymi metodami postępowania określonymi w Załączniku 5 do Konwencji, ogłoszonym w załączniku do obwieszczenia nr 30 Prezesa Urzędu Lotnictwa Cywilnego z dnia 10 grudnia 2010 r. w sprawie ogłoszenia tekstu Załącznika 5 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 99),
-c) niemetrycznymi jednostkami miar określającymi wysokość (stopa [ft] – 1 ft = 0,3048 m), odległość (mila morska [NM] – 1 NM = 1852 m), prędkość lotu (węzeł [kt] – 1 kt = 0,514444 m/s) i gradient zniżania albo wznoszenia (stopa na minutę [ft/min] – 100 ft/min = 0,5080 m/s);
-2) udostępnienie Prezesowi Urzędu zmian do Zbioru Informacji Lotniczych (AIP Polska) na co najmniej 56 dni przed dniem ich wejścia w życie;
-3) opracowanie i stosowanie procedury weryfikacji danych i informacji lotniczych przekazywanych do publikacji w Zintegrowanym Pakiecie Informacji Lotniczych, zapewniającej zgodność odpowiednich danych i informacji:
-a) (uchylona),
-b) z rejestrem lotniczych urządzeń naziemnych,
-c) z instrukcją operacyjną lotniska albo lądowiska,
-d) z rejestrem lotnisk cywilnych albo ewidencją lądowisk, a w przypadku nowo zakładanych lotnisk – zezwoleniem na założenie lotniska,
-e) (uchylona),
-f) (uchylona),
-g) ze zmianami w systemach funkcjonalnych, zatwierdzonymi przez Prezesa Urzędu zgodnie z pkt ATM/ANS.AR.C.025 i ATM/ANS.OR.A.040 rozporządzenia 2017/373/UE;
-4) stosowanie wymagań dotyczących jakości danych lotniczych określonych w załączniku nr 2 do rozporządzenia.
-§ 5. 1. Współdziałanie pomiędzy AIS a zarządzającym lotniskiem obejmuje:
-1) wymianę danych i informacji lotniczych, niezbędnych do publikacji informacji o lotnisku w Zintegrowanym Pakiecie Informacji Lotniczych, na podstawie formalnych ustaleń, o których mowa w pkt AIS.OR.205 załącznika VI do rozporządzenia 2017/373/UE;
-2) przekazywanie danych i informacji lotniczych, niezbędnych do publikacji informacji o lotnisku kontrolowanym w Zintegrowanym Pakiecie Informacji Lotniczych, przy użyciu narzędzia wspierającego proces automatycznego przetwarzania danych przez AIS;
-3) organizację, w razie potrzeby, wspólnych szkoleń;
-4) wymianę doświadczeń, w szczególności w zakresie doskonalenia metod opracowywania danych i informacji lotniczych;
-5) udzielanie informacji i wyjaśnień niezbędnych do prawidłowego wykonywania zadań w zakresie spraw objętych współdziałaniem.
+
+- **1)** zgodność map lotniczych oraz danych i informacji lotniczych przekazywanych do Zintegrowanego Pakietu Informacji Lotniczych z:
+    - **a)** poziomym układem odniesienia według układu współrzędnych Światowego Systemu Geodezyjnego 1984 (WGS–84) oraz układem wysokości PL-EVRF2007-NH, o których mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019),
+    - **b)** normami i zalecanymi metodami postępowania określonymi w Załączniku 5 do Konwencji, ogłoszonym w załączniku do obwieszczenia nr 30 Prezesa Urzędu Lotnictwa Cywilnego z dnia 10 grudnia 2010 r. w sprawie ogłoszenia tekstu Załącznika 5 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. Urz. ULC poz. 99),
+    - **c)** niemetrycznymi jednostkami miar określającymi wysokość (stopa [ft] – 1 ft = 0,3048 m), odległość (mila morska [NM] – 1 NM = 1852 m), prędkość lotu (węzeł [kt] – 1 kt = 0,514444 m/s) i gradient zniżania albo wznoszenia (stopa na minutę [ft/min] – 100 ft/min = 0,5080 m/s);
+
+- **2)** udostępnienie Prezesowi Urzędu zmian do Zbioru Informacji Lotniczych (AIP Polska) na co najmniej 56 dni przed dniem ich wejścia w życie;
+- **3)** opracowanie i stosowanie procedury weryfikacji danych i informacji lotniczych przekazywanych do publikacji w Zintegrowanym Pakiecie Informacji Lotniczych, zapewniającej zgodność odpowiednich danych i informacji:
+    - **a)** (uchylona),
+    - **b)** z rejestrem lotniczych urządzeń naziemnych,
+    - **c)** z instrukcją operacyjną lotniska albo lądowiska,
+    - **d)** z rejestrem lotnisk cywilnych albo ewidencją lądowisk, a w przypadku nowo zakładanych lotnisk – zezwoleniem na założenie lotniska,
+    - **e)** (uchylona),
+    - **f)** (uchylona),
+    - **g)** ze zmianami w systemach funkcjonalnych, zatwierdzonymi przez Prezesa Urzędu zgodnie z pkt ATM/ANS.AR.C.025 i ATM/ANS.OR.A.040 rozporządzenia 2017/373/UE;
+
+- **4)** stosowanie wymagań dotyczących jakości danych lotniczych określonych w załączniku nr 2 do rozporządzenia.
+
+**§ 5.**
+
+1. Współdziałanie pomiędzy AIS a zarządzającym lotniskiem obejmuje:
+
+- **1)** wymianę danych i informacji lotniczych, niezbędnych do publikacji informacji o lotnisku w Zintegrowanym Pakiecie Informacji Lotniczych, na podstawie formalnych ustaleń, o których mowa w pkt AIS.OR.205 załącznika VI do rozporządzenia 2017/373/UE;
+- **2)** przekazywanie danych i informacji lotniczych, niezbędnych do publikacji informacji o lotnisku kontrolowanym w Zintegrowanym Pakiecie Informacji Lotniczych, przy użyciu narzędzia wspierającego proces automatycznego przetwarzania danych przez AIS;
+- **3)** organizację, w razie potrzeby, wspólnych szkoleń;
+- **4)** wymianę doświadczeń, w szczególności w zakresie doskonalenia metod opracowywania danych i informacji lotniczych;
+- **5)** udzielanie informacji i wyjaśnień niezbędnych do prawidłowego wykonywania zadań w zakresie spraw objętych współdziałaniem.
+
 2. W ramach współdziałania, o którym mowa w ust. 1, są opracowywane, na bieżąco aktualizowane i przekazywane do AIS:
-1) dane i informacje lotnicze, niezbędne do publikacji informacji o lotnisku w Zintegrowanym Pakiecie Informacji Lotniczych, określone w formalnych ustaleniach, o których mowa w pkt AIS.OR.205 załącznika VI do rozporządzenia 2017/373/UE;
-2) informacje dotyczące lotniska albo lądowiska niezbędne do wydawania NOTAM zgodnie z pkt AIS.TR.330 załącznika VI do rozporządzenia 2017/373/UE, z wyłączeniem jego lit. f w przypadku lotnisk niekontrolowanych oraz lądowisk;
-3) mapy lotnicze dotyczące lotnisk kontrolowanych, o których mowa w pkt AIS.OR.325 lit. a pkt 1–5 załącznika VI do rozporządzenia 2017/373/UE, w postaciach:
-a) (uchylona),
-b) elektronicznej – wektorowej, zapewniającej dane geometryczne wraz z opisującymi je atrybutami, w formacie uzgodnionym z AIS,
-c) elektronicznej – rastrowej z referencją przestrzenną, jako nieskompresowane pliki w formacie GeoTiff, o minimalnej rozdzielczości rastra wynoszącej 400 dpi;
-4) cyfrowe zbiory danych o terenie i o przeszkodach dotyczące lotnisk posiadających drogi startowe z podejściem precyzyjnym kategorii II lub III w zakresie strefy 4, o których mowa w pkt 5.3 Załącznika 15 do Konwencji.
+
+- **1)** dane i informacje lotnicze, niezbędne do publikacji informacji o lotnisku w Zintegrowanym Pakiecie Informacji Lotniczych, określone w formalnych ustaleniach, o których mowa w pkt AIS.OR.205 załącznika VI do rozporządzenia 2017/373/UE;
+- **2)** informacje dotyczące lotniska albo lądowiska niezbędne do wydawania NOTAM zgodnie z pkt AIS.TR.330 załącznika VI do rozporządzenia 2017/373/UE, z wyłączeniem jego lit. f w przypadku lotnisk niekontrolowanych oraz lądowisk;
+- **3)** mapy lotnicze dotyczące lotnisk kontrolowanych, o których mowa w pkt AIS.OR.325 lit. a pkt 1–5 załącznika VI do rozporządzenia 2017/373/UE, w postaciach:
+    - **a)** (uchylona),
+    - **b)** elektronicznej – wektorowej, zapewniającej dane geometryczne wraz z opisującymi je atrybutami, w formacie uzgodnionym z AIS,
+    - **c)** elektronicznej – rastrowej z referencją przestrzenną, jako nieskompresowane pliki w formacie GeoTiff, o minimalnej rozdzielczości rastra wynoszącej 400 dpi;
+
+- **4)** cyfrowe zbiory danych o terenie i o przeszkodach dotyczące lotnisk posiadających drogi startowe z podejściem precyzyjnym kategorii II lub III w zakresie strefy 4, o których mowa w pkt 5.3 Załącznika 15 do Konwencji.
+
 3. Dane i informacje lotnicze, o których mowa w ust. 2 pkt 1, 3 i 4, które zostały pozyskane w wyniku pomiaru, w tym te publikowane na mapach lotniczych, są opracowywane zgodnie ze standardami technicznymi wykonywania geodezyjnych pomiarów sytuacyjnych i wysokościowych określonymi w przepisach wydanych na podstawie art. 19 ust. 1 pkt 11 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne przez osobę posiadającą odpowiednie uprawnienia zawodowe, o których mowa w art. 43 pkt 1 tej ustawy.
+
 3a. Dane i informacje lotnicze, o których mowa w ust. 2 pkt 1, 3 i 4, które zostały pozyskane w wyniku pomiaru, w tym te publikowane na mapach lotniczych, są przekazywane do AIS wraz z informacjami dotyczącymi sposobu ich pozyskania i weryfikacji oraz operatem technicznym.
+
 4. Dane, informacje lotnicze i mapy lotnicze, o których mowa w ust. 2 pkt 1, 3 i 4, są przekazywane w terminie uzgodnionym z AIS.
-§ 6. Traci moc rozporządzenie Ministra Infrastruktury z dnia 26 marca 2009 r. w sprawie służby informacji lotniczej (Dz. U. poz. 478).
-§ 7. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
-SPOSÓB PUBLIKACJI DANYCH I INFORMACJI LOTNICZYCH W ZINTEGROWANYM PAKIECIE INFORMACJI LOTNICZYCH
+
+**§ 6.** Traci moc rozporządzenie Ministra Infrastruktury z dnia 26 marca 2009 r. w sprawie służby informacji lotniczej (Dz. U. poz. 478).
+
+**§ 7.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia . SPOSÓB PUBLIKACJI DANYCH I INFORMACJI LOTNICZYCH W ZINTEGROWANYM PAKIECIE INFORMACJI LOTNICZYCH
+
+## Załącznik
+
 § 1. 1. Zintegrowany Pakiet Informacji Lotniczych składa się z następujących wydawnictw:
 1) Zbiór Informacji Lotniczych (AIP – Aeronautical Information Publication);
 2) Zmiany do Zbioru Informacji Lotniczych (Aeronautical Information Publication Amendment);

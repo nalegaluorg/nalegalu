@@ -42,39 +42,70 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 ROZPORZĄDZENIE PRezesA RADY MinisTRÓw z dnia 22 lutego 2002 r.
 w sprawie nakładania grzywien w drodze mandatu karnego Na podstawie art. 96 § 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
 z 2016 r. poz. 1713 i 1948) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wzór formularza mandatu karnego i sposób nakładania grzywien w drodze mandatu karnego.
-§ 2. 1. Z zastrzeżeniem § 2a formularz, przy wykorzystaniu którego nakłada się grzywnę w drodze mandatu karnego, składa się z 5 odcinków: „A”, „B”, „C”, „D” i „E”, oznaczonych serią i numerem, ułożonych w książkę w postaci bloczka, umieszczoną w zespolonym pakiecie, z zachowaniem ciągłości numeracji. Odcinki „A”, „B”, „C” i „D” są wykonane na papierze samokopiującym.
+
+**§ 1.** Rozporządzenie określa wzór formularza mandatu karnego i sposób nakładania grzywien w drodze mandatu karnego.
+
+**§ 2.**
+
+1. Z zastrzeżeniem § 2a formularz, przy wykorzystaniu którego nakłada się grzywnę w drodze mandatu karnego, składa się z 5 odcinków: „A”, „B”, „C”, „D” i „E”, oznaczonych serią i numerem, ułożonych w książkę w postaci bloczka, umieszczoną w zespolonym pakiecie, z zachowaniem ciągłości numeracji. Odcinki „A”, „B”, „C” i „D” są wykonane na papierze samokopiującym.
+
 2. Wzór odcinków formularza mandatu karnego, zwanego dalej „formularzem”, określa załącznik do rozporządzenia.
+
 3. Parametry techniczne odcinka A i B formularza, o którym mowa w ust. 2, określa Polska Norma PN-F-01101 „Bankowość i pokrewne usługi finansowe ‒ Wzory formularzy bankowych ‒ Wzór formularza polecenia przelewu/wpłaty gotówkowej (W/P)”.
-§ 2a. 1. Nakładając grzywnę w drodze mandatu karnego, dopuszcza się użycie przez funkcjonariusza formularza mandatu wygenerowanego przy wykorzystaniu systemu teleinformatycznego.
+
+**§ 2a.**
+
+1. Nakładając grzywnę w drodze mandatu karnego, dopuszcza się użycie przez funkcjonariusza formularza mandatu wygenerowanego przy wykorzystaniu systemu teleinformatycznego.
+
 2. Wzór formularza mandatu, o którym mowa w ust. 1, odpowiada wzorowi określonemu w załączniku, z tym że nie jest on ułożony w książkę w postaci bloczka i nie posiada odcinków samokopiujących, a seria i numer mandatu są nadawane przez system automatycznie z puli numerów przydzielonych.
-3. Na mandacie wygenerowanym przy wykorzystaniu systemu teleinformatycznego pieczęć organu nakładającego i własnoręczny podpis funkcjonariusza, który nałożył mandat, mogą być odtworzone mechanicznie, jeżeli odcinki „C”, „D” i „E” formularza zawierają unikatowy identyfikator funkcjonariusza nakładającego mandat, a zabezpieczenia systemu odtwarzającego ten identyfikator wykluczają posłużenie się nim przez osobę nieuprawnioną, system zaś spełnia wymogi określone w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U.
-z 2017 r. poz. 570).
-§ 3. Jeżeli przepisy szczególne nie stanowią inaczej, funkcjonariusz nakładający grzywnę, zwany dalej „funkcjonariuszem”, na żądanie sprawcy wykroczenia jest obowiązany okazać dokument uprawniający go do nałożenia grzywny w drodze mandatu karnego.
-§ 4. 1. Funkcjonariusz, nakładając na sprawcę wykroczenia mandat karny kredytowany, po oddzieleniu części A i B od części C‒E:
-1) na odcinku „A” formularza wpisuje wysokość nałożonej grzywny;
-2) na odcinku „C” formularza:
-a) wpisuje wysokość nałożonej grzywny,
-b) oznacza rodzaj mandatu oraz wypełnia rubryki dotyczące ukaranego zgodnie z opisem; w razie niemożności stwierdzenia numeru PESEL wpisuje się datę urodzenia ukaranego,
-c) wpisuje rodzaj i charakter wykroczenia oraz kwalifikację prawną,
-d) w przypadku naruszenia przepisów o ruchu drogowym, wpisuje liczbę punktów przewidzianych za to naruszenie na podstawie odrębnych przepisów,
-e) wpisuje swój numer służbowy, datę nałożenia mandatu oraz składa swój podpis.
+
+3. Na mandacie wygenerowanym przy wykorzystaniu systemu teleinformatycznego pieczęć organu nakładającego i własnoręczny podpis funkcjonariusza, który nałożył mandat, mogą być odtworzone mechanicznie, jeżeli odcinki „C”, „D” i „E” formularza zawierają unikatowy identyfikator funkcjonariusza nakładającego mandat, a zabezpieczenia systemu odtwarzającego ten identyfikator wykluczają posłużenie się nim przez osobę nieuprawnioną, system zaś spełnia wymogi określone w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570).
+
+**§ 3.** Jeżeli przepisy szczególne nie stanowią inaczej, funkcjonariusz nakładający grzywnę, zwany dalej „funkcjonariuszem”, na żądanie sprawcy wykroczenia jest obowiązany okazać dokument uprawniający go do nałożenia grzywny w drodze mandatu karnego.
+
+**§ 4.**
+
+1. Funkcjonariusz, nakładając na sprawcę wykroczenia mandat karny kredytowany, po oddzieleniu części A i B od części C‒E:
+
+- **1)** na odcinku „A” formularza wpisuje wysokość nałożonej grzywny;
+- **2)** na odcinku „C” formularza:
+    - **a)** wpisuje wysokość nałożonej grzywny,
+    - **b)** oznacza rodzaj mandatu oraz wypełnia rubryki dotyczące ukaranego zgodnie z opisem; w razie niemożności stwierdzenia numeru PESEL wpisuje się datę urodzenia ukaranego,
+    - **c)** wpisuje rodzaj i charakter wykroczenia oraz kwalifikację prawną,
+    - **d)** w przypadku naruszenia przepisów o ruchu drogowym, wpisuje liczbę punktów przewidzianych za to naruszenie na podstawie odrębnych przepisów,
+    - **e)** wpisuje swój numer służbowy, datę nałożenia mandatu oraz składa swój podpis.
+
 2. Sprawca wykroczenia potwierdza przyjęcie mandatu karnego kredytowanego, składając czytelny podpis na odcinku „C” formularza.
+
 3. Sprawca wykroczenia ukarany mandatem karnym kredytowanym otrzymuje odcinki „A”, „B” i „C” formularza.
-§ 4a. Jeżeli sprawca wykroczenia został pouczony, zgodnie z § 6, i pisemnie wyraził zgodę na przyjęcie mandatu karnego kredytowanego w określonej wysokości, odcinki „A”, „B” i „C” formularza mogą zostać mu doręczone przesyłką poleconą za zwrotnym poświadczeniem odbioru. W takim przypadku potwierdzeniem przyjęcia mandatu jest załączona do odcinka „D” pisemna zgoda sprawcy wykroczenia na jego przyjęcie wraz ze zwrotnym poświadczeniem doręczenia przesyłki zawierającej mandat. Za datę przyjęcia mandatu przyjmuje się dzień jego doręczenia.
-§ 5. 1. Funkcjonariusz, nakładając na sprawcę wykroczenia mandat karny uiszczany w gotówce, wpisuje wysokość grzywny na odcinku „C” formularza, a następnie wypełnia ten odcinek zgodnie z § 4 ust. 1 pkt 2.
+
+**§ 4a.** Jeżeli sprawca wykroczenia został pouczony, zgodnie z § 6, i pisemnie wyraził zgodę na przyjęcie mandatu karnego kredytowanego w określonej wysokości, odcinki „A”, „B” i „C” formularza mogą zostać mu doręczone przesyłką poleconą za zwrotnym poświadczeniem odbioru. W takim przypadku potwierdzeniem przyjęcia mandatu jest załączona do odcinka „D” pisemna zgoda sprawcy wykroczenia na jego przyjęcie wraz ze zwrotnym poświadczeniem doręczenia przesyłki zawierającej mandat. Za datę przyjęcia mandatu przyjmuje się dzień jego doręczenia.
+
+**§ 5.**
+
+1. Funkcjonariusz, nakładając na sprawcę wykroczenia mandat karny uiszczany w gotówce, wpisuje wysokość grzywny na odcinku „C” formularza, a następnie wypełnia ten odcinek zgodnie z § 4 ust. 1 pkt 2.
+
 2. Sprawca wykroczenia potwierdza przyjęcie mandatu karnego uiszczanego w gotówce, składając czytelny podpis na odcinku „C” formularza.
+
 3. Sprawca wykroczenia ukarany mandatem karnym uiszczanym w gotówce otrzymuje odcinek „C” formularza.
-§ 6. Przed potwierdzeniem przez sprawcę wykroczenia przyjęcia mandatu karnego, o którym mowa w § 4 ust. 2 lub § 5 ust. 2, funkcjonariusz poucza sprawcę wykroczenia o prawie odmowy przyjęcia mandatu karnego i o skutkach prawnych takiej odmowy.
-§ 7. 1. Funkcjonariusz, nakładając na sprawcę wykroczenia mandat karny zaoczny, wypełnia go zgodnie z § 4 ust. 1.
+
+**§ 6.** Przed potwierdzeniem przez sprawcę wykroczenia przyjęcia mandatu karnego, o którym mowa w § 4 ust. 2 lub § 5 ust. 2, funkcjonariusz poucza sprawcę wykroczenia o prawie odmowy przyjęcia mandatu karnego i o skutkach prawnych takiej odmowy.
+
+**§ 7.**
+
+1. Funkcjonariusz, nakładając na sprawcę wykroczenia mandat karny zaoczny, wypełnia go zgodnie z § 4 ust. 1.
+
 2. Sprawcy wykroczenia ukaranemu mandatem karnym zaocznym pozostawia się odcinki „A”, „B” i „C” formularza.
+
 3. Mandat karny zaoczny można pozostawić osobie pełnoletniej, która zobowiąże się do przekazania go sprawcy wykroczenia. Osoba ta potwierdza otrzymanie odcinków „A”, „B” i „C”, wpisując swoje imię, nazwisko i adres miejsca zamieszkania na odwrocie odcinka „D” oraz potwierdzając prawdziwość tych danych własnoręcznym podpisem.
+
 4. W razie niemożności doręczenia osobiście sprawcy wykroczenia odcinków formularza mandatu karnego, o których mowa w ust. 2, na drzwiach mieszkania sprawcy wykroczenia lub w miejscu widocznym na nieruchomości lub ruchomości, w tym na pojeździe należącym do sprawcy bądź przez niego użytkowanym, umieszcza się zawiadomienie.
+
 5. Zawiadomienie, o którym mowa w ust. 4, powinno wskazywać, gdzie i kiedy odcinki mandatu karnego pozostawiono, oraz że należy je odebrać w ciągu 7 dni, wraz z pouczeniem, że odcinki mandatu karnego nieodebrane w terminie uważa się za doręczone.
+
 6. (uchylony).
-§ 7a. (pominięty).
-§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia 22 lutego 2002 r.
-WZÓR WZÓR Odcinek A Odcinek A P L N MANDAT KARNY SERIA Aa NUMER 0000000 06 Ze zmianami wprowadzonymi przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2, oraz § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7.
-Odcinek B Odcinek B P L N MANDAT KARNY SERIA Aa NUMER 0000000 Odcinek C – strona 1 Odcinek C – strona 1 MANDAT KARNY 0000000 Odcinek C – strona 2 Odcinek C – strona 2 Odcinek D – strona 1 Odcinek D – strona 1 MANDAT KARNY 0000000 Odcinek D – strona 2 Odcinek D – strona 2 …...………………………………………………………………………………………… …...………………………………………………………………………………………… …………………………………………… Odcinek E Odcinek E MANDAT KARNY
+
+**§ 7a.** (pominięty).
+
+**§ 8.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia 22 lutego 2002 r. WZÓR WZÓR Odcinek A Odcinek A P L N MANDAT KARNY SERIA Aa NUMER 0000000 06 Ze zmianami wprowadzonymi przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2, oraz § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 7. Odcinek B Odcinek B P L N MANDAT KARNY SERIA Aa NUMER 0000000 Odcinek C – strona 1 Odcinek C – strona 1 MANDAT KARNY 0000000 Odcinek C – strona 2 Odcinek C – strona 2 Odcinek D – strona 1 Odcinek D – strona 1 MANDAT KARNY 0000000 Odcinek D – strona 2 Odcinek D – strona 2 …...………………………………………………………………………………………… …...………………………………………………………………………………………… …………………………………………… Odcinek E Odcinek E MANDAT KARNY
 

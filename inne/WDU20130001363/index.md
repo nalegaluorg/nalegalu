@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne Na podstawie art. 111 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. Nr 30, poz. 151, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 maja 2013 r. w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne (Dz. U. poz. 603) uchyla się § 18–20.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Transportu, Budownictwa i Gospodarki Morskiej: wz. Z. Rynasiewicz
+
+**§ 1.** W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 maja 2013 r. w sprawie kursów dla kierowców pojazdów uprzywilejowanych i pojazdów przewożących wartości pieniężne (Dz. U. poz. 603) uchyla się § 18–20.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Transportu, Budownictwa i Gospodarki Morskiej: wz. Z. Rynasiewicz
 

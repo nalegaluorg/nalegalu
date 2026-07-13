@@ -67,169 +67,278 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 6 grudnia 2001 r.
 w sprawie szczegółowych zasad otrzymywania i wysokości uposażenia zasadniczego policjantów, dodatków do uposażenia oraz ustalania wysługi lat, od której jest uzależniony wzrost uposażenia zasadniczego Na podstawie art. 101 ust. 2, art. 102 i art. 104 ust. 6 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2015 r.
 poz. 355, z późn. zm. ) zarządza się, co następuje:
-§ 1. 1. Ustala się grupy zaszeregowania stanowisk służbowych policjantów oraz odpowiadające im stawki uposażenia zasadniczego wyrażone w postaci mnożników kwoty bazowej, określone w tabeli stanowiącej załącznik nr 1 do rozporządzenia.
-1a. Stawki uposażenia zasadniczego określone w załączniku nr 1 do rozporządzenia w grupach zaszeregowania od 8 do 14a przysługują odpowiednio:
-1) policjantom pełniącym służbę na stanowiskach kierowniczych oraz samodzielnych w:
-a) Komendzie Głównej Policji, aa) Centralnym Biurze Śledczym Policji,
-b) komendach wojewódzkich (Stołecznej) Policji, na obszarze działania których ogólna liczba etatów Policji jest większa od 9500,
-c) komendach powiatowych, miejskich i rejonowych Policji, na obszarze działania których ogólna liczba etatów Policji jest większa od 500,
-d) komisariatach i komisariatach specjalistycznych Policji, w których liczba etatów Policji jest większa od 120,
-e) oddziałach prewencji, samodzielnych pododdziałach prewencji oraz samodzielnych pododdziałach antyterrorystycznych Policji, –
-f) instytutach badawczych – stawki wymienione w kolumnie oznaczonej lit. „A”;
-2) policjantom pełniącym służbę na stanowiskach kierowniczych oraz samodzielnych w:
-a) komendach wojewódzkich Policji, na obszarze działania których ogólna liczba etatów Policji wynosi od 5501 do 9500,
-b) komendach powiatowych, miejskich i rejonowych Policji, na obszarze działania których ogólna liczba etatów Policji wynosi od 201 do 500,
-c) komisariatach i komisariatach specjalistycznych Policji, w których liczba etatów Policji wynosi od 61 do 120,
-d) (uchylona),
-e) Wyższej Szkole Policji w Szczytnie oraz szkołach policyjnych,
-f) (uchylona) – stawki wymienione w kolumnie oznaczonej lit. „B”;
-3) policjantom pełniącym służbę na stanowiskach kierowniczych oraz samodzielnych w:
-a) komendach wojewódzkich Policji, na obszarze działania których ogólna liczba etatów Policji jest mniejsza od 5501,
-b) komendach powiatowych, miejskich i rejonowych Policji, na obszarze działania których ogólna liczba etatów Policji jest mniejsza od 201,
-c) komisariatach i komisariatach specjalistycznych Policji, w których liczba etatów Policji jest mniejsza od 61,
-d) (uchylona),
-e) ośrodkach szkolenia Policji – stawki wymienione w kolumnie oznaczonej lit. „C”;
-4) policjantom pełniącym służbę na stanowiskach innych niż określone w pkt 1–3, stawki wymienione w kolumnie oznaczonej lit. „D”.
-2. Wysokość kwoty bazowej, o której mowa w ust. 1, określa ustawa budżetowa.
-3. Wysokość miesięcznych stawek kwotowych uposażenia zasadniczego dla poszczególnych grup zaszeregowania ustala się przy zastosowaniu mnożników, o których mowa w ust. 1, z zaokrągleniem wyliczonej kwoty do pełnych 10 złotych w górę, jeżeli końcówka jest równa lub wyższa od 5 złotych, lub w dół, jeżeli jest niższa od 5 złotych.
-4. Zaszeregowanie stanowisk służbowych policjantów do poszczególnych grup i odpowiadające im policyjne stopnie etatowe określa tabela stanowiąca załącznik nr 2 do rozporządzenia.
-5. Dla policjanta w służbie kandydackiej ustala się miesięczną stawkę uposażenia zasadniczego w wysokości 357 zł.
-§ 2. Mnożnik kwoty bazowej służący do ustalenia wysokości miesięcznej stawki kwotowej uposażenia zasadniczego policjanta podwyższa się w przypadku powołania lub mianowania go na:
-1) wyższe stanowisko służbowe;
-2) równorzędne stanowisko służbowe, na którym przysługuje mnożnik kwoty bazowej wyższy od obowiązującego na dotychczas zajmowanym stanowisku służbowym.
-§ 2a. 1. Policjant przeniesiony na stanowisko służbowe w tej samej grupie zaszeregowania, na którym przysługuje mnożnik kwoty bazowej niższy od obowiązującego na dotychczas zajmowanym stanowisku służbowym, zachowuje prawo do tego mnożnika do czasu uzyskania mnożnika kwoty bazowej wyższego od zachowanego.
-1a. Przepis ust. 1 stosuje się odpowiednio w przypadku zmian w etacie jednostki organizacyjnej Policji, powodujących obniżenie mnożnika kwoty bazowej należnego na danym stanowisku służbowym policjanta.
-2. Przepisu ust. 1 nie stosuje się do policjanta przeniesionego na własną prośbę albo w trybie określonym w art. 38 ust. 1 lub ust. 2 pkt 2 i 3 ustawy z dnia 6 kwietnia 1990 r. o Policji.
-§ 3. 1. Uposażenie zasadnicze policjanta wzrasta z tytułu wysługi lat o 2% po 2 latach służby i o 1% za każdy następny rok służby, aż do wysokości 20% po 20 latach służby, oraz o kolejne 2% za każde następne dwa lata służby do wysokości 32% po 32 latach służby – łącznie do wysokości 35% po 35 latach służby.
-2. Miesięczną kwotę wzrostu uposażenia zasadniczego, o której mowa w ust. 1, zaokrągla się do pełnych 10 groszy w górę.
-§ 4. 1. Do wysługi lat uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego zalicza się:
-1) okresy służby w Policji;
-2) okresy służby w Urzędzie Ochrony Państwa, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej i Służbie Więziennej;
-3) okresy traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2015 r. poz. 900);
-4) zakończone okresy zatrudnienia wykonywanego w pełnym wymiarze czasu pracy; wymiar czasu pracy podlega sumowaniu w przypadku równoczesnego wykonywania zatrudnienia u różnych pracodawców w wymiarze nie niższym niż połowa obowiązującego w danym zawodzie lub na danym stanowisku;
-5) inne okresy, jeżeli na podstawie odrębnych przepisów podlegają wliczeniu do okresu pracy lub służby, od którego zależą uprawnienia pracownicze lub wynikające ze stosunku służbowego.
-2. Do wysługi lat nie zalicza się okresów służby i pracy, za które nie przysługiwało uposażenie zasadnicze, wynagrodzenie lub zasiłek na podstawie przepisów o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
-3. Przepisu ust. 2 nie stosuje się do okresów korzystania przez policjanta, także przed podjęciem służby w Policji, z urlopu udzielonego w celu:
-1) sprawowania opieki nad małym dzieckiem na warunkach określonych w przepisach prawa pracy;
-2) pobytu za granicą wspólnie z małżonkiem przeniesionym do pełnienia służby w przedstawicielstwie dyplomatycznym, misji dyplomatycznej, urzędzie konsularnym lub instytucie polskim.
-§ 5. 1. Dokumenty potwierdzające okresy zaliczane do wysługi lat, o których mowa w § 4 ust. 1 pkt 2–5, policjant jest obowiązany złożyć w komórce organizacyjnej jednostki Policji właściwej do spraw kadr.
-2. Wysługę lat oraz poszczególne jej okresy składowe ustala się na dzień przyjęcia policjanta do służby, chyba że z przepisów odrębnych wynika inny termin zaliczenia danego okresu.
-3. Przepis ust. 2 stosuje się odpowiednio w przypadku zmiany wysługi lat w związku z zaliczeniem policjantowi dotychczas nieudokumentowanych okresów, o których mowa w ust. 1.
-4. Termin nabycia prawa do wzrostu uposażenia zasadniczego z tytułu wysługi lat oraz procentową jego wysokość określa się w decyzji ustalającej lub zmieniającej wysługę lat w trybie określonym w ust. 2 i 3, z uwzględnieniem przepisów o przedawnieniu.
-5. Dalszy wzrost uposażenia zasadniczego z tytułu wysługi lat w Policji nie wymaga wydania odrębnej decyzji.
-§ 6. 1. Dodatkami do uposażenia są:
-1) dodatek za stopień;
-2) dodatek funkcyjny;
-3) dodatek służbowy;
-4) dodatek stołeczny;
-5) dodatek za opiekę nad służbowym koniem lub psem;
-6) dodatek instruktorski;
-7) dodatek lotniczy;
-8) dodatek kontrolerski;
-9) dodatek specjalny;
-10) dodatek terenowy.
-2. Dodatki do uposażenia wymienione w ust. 1 pkt 1–9 są dodatkami o charakterze stałym.
-3. Stawki dodatków do uposażenia wymienionych w ust. 1 pkt 4–10 ustala się w relacji procentowej do kwoty bazowej, o której mowa w § 1 ust. 2.
-4. Stawki kwotowe dodatków po ich wyliczeniu zaokrągla się do pełnych 10 groszy w górę.
-Dodatek za stopień
-§ 7. 1. Ustala się stawki dodatku za posiadany przez policjanta stopień policyjny, w wysokości określonej w tabeli stanowiącej załącznik nr 3 do rozporządzenia.
-2. Policjant w służbie kandydackiej otrzymuje dodatek za stopień policyjny w wysokości 40% stawki tego dodatku, o której mowa w ust. 1.
-Dodatek funkcyjny
-§ 8. 1. Dodatek funkcyjny przyznaje się policjantowi na czas pełnienia przez niego służby lub obowiązków na stanowisku służbowym uprawniającym do tego dodatku.
-2. Ustala się 3 kategorie dodatku funkcyjnego uzależnione od rodzaju stanowiska służbowego policjanta:
-1) I kategoria – dla policjantów na stanowiskach komendantów oraz ich zastępców, dyrektorów biur (równorzędnych komórek organizacyjnych) Komendy Głównej Policji oraz ich zastępców, dyrektorów instytutów badawczych oraz ich zastępców, komendanta-rektora, zastępcy komendanta-prorektora, kanclerza Wyższej Szkoły Policji w Szczytnie, a także głównego księgowego budżetu;
-2) II kategoria – dla policjantów na stanowiskach kierowniczych niewymienionych w pkt 1 oraz ich zastępców;
-3) III kategoria – dla policjantów na stanowiskach samodzielnych.
-3. Stanowiska służbowe policjantów uprawniające do dodatku funkcyjnego odpowiedniej kategorii, o której mowa w ust. 2, określa tabela stanowiąca załącznik nr 4 do rozporządzenia.
-4. Dodatek funkcyjny przyznaje się policjantowi w stawce kwotowej, w wysokości uzależnionej od rangi zajmowanego stanowiska służbowego, zakresu ponoszonej odpowiedzialności, ze szczególnym uwzględnieniem szczebla działania i wielkości kierowanej jednostki lub komórki organizacyjnej Policji oraz rodzaju i poziomu posiadanych przez policjanta kwalifikacji zawodowych i nieprzekraczającej miesięcznie:
-1) w I kategorii – 80%,
-2) w II kategorii – 70%,
-3) w III kategorii – 60% – podstawy wymiaru stanowiącej sumę należnego policjantowi uposażenia zasadniczego oraz dodatku za stopień w stawce ustalonej dla policyjnego stopnia etatowego odpowiadającego zajmowanemu stanowisku służbowemu.
-5. Dodatek funkcyjny można w zależności od oceny wywiązywania się przez policjanta z obowiązków oraz realizacji przez niego zadań i czynności służbowych:
-1) podwyższać na stałe lub na czas określony w granicach stawek wynikających z ust. 4;
-2) obniżać nie więcej niż o 30% otrzymywanej stawki, z zastrzeżeniem ust. 8.
-6. Ponowne obniżenie dodatku funkcyjnego w trybie określonym w ust. 5 może nastąpić na podstawie kolejnej oceny dokonanej po upływie co najmniej 6 miesięcy.
-7. Dodatek funkcyjny może być obniżony także w razie zmiany zakresu obowiązków służbowych, warunków służby bądź ustania innych przesłanek, które uzasadniały przyznanie go w dotychczasowej wysokości.
-8. Dodatek funkcyjny obniża się w granicach od 20 do 50% otrzymywanej stawki w przypadku:
-1) naruszenia przez policjanta dyscypliny służbowej w czasie służby lub podczas wykonywania zadań lub czynności służbowych, za które wymierzono mu karę dyscyplinarną;
-2) niewywiązywania się przez policjanta z obowiązków służbowych stwierdzonego w opinii służbowej;
-3) nieprzydatności policjanta na zajmowanym stanowisku, stwierdzonej w opinii służbowej w okresie służby przygotowawczej.
-Dodatek służbowy
-§ 9. 1. Dodatek służbowy przyznaje się policjantowi w stawkach kwotowych na czas nieokreślony. Wysokość dodatku nie może przekraczać 50% podstawy wymiaru, o której mowa w § 8 ust. 4.
-2. Przyznanie dodatku służbowego oraz jego wysokość uzależnia się od oceny wywiązywania się przez policjanta z obowiązków oraz realizacji zadań i czynności służbowych, ze szczególnym uwzględnieniem ich charakteru i zakresu oraz rodzaju i poziomu posiadanych przez policjanta kwalifikacji zawodowych.
-3. Policjantowi przyjętemu do służby na stanowisko kursanta dodatek służbowy przyznaje się po ukończeniu nauki w jednostce szkoleniowej Policji odbywanej w ramach szkolenia podstawowego.
-4. Dodatek służbowy może być podwyższany na stałe lub na czas określony w granicach stawek wynikających z ust. 1 w związku z powierzeniem policjantowi nowych lub dodatkowych zadań bądź obowiązków służbowych na innym stanowisku, a także za wzorową służbę.
-5. W szczególnie uzasadnionych przypadkach dodatek służbowy podlega obniżeniu. Przepisy § 8 ust. 5–8 stosuje się odpowiednio, z zastrzeżeniem ust. 6.
-6. Dodatek służbowy cofa się w przypadku:
-1) naruszenia przez policjanta dyscypliny służbowej w czasie służby lub podczas wykonywania zadań lub czynności służbowych, za które wymierzono mu karę dyscyplinarną wydalenia ze służby;
-2) niewywiązywania się przez policjanta z obowiązków służbowych stwierdzonego w okresie służby stałej w dwóch kolejnych opiniach służbowych, między którymi upłynęło co najmniej 6 miesięcy;
-3) nieprzydatności do służby, stwierdzonej w opinii służbowej w okresie służby przygotowawczej.
-7. Ponowne przyznanie dodatku służbowego, cofniętego w trybie określonym w ust. 6, może nastąpić po upływie co najmniej 6 miesięcy.
-8. Dodatek służbowy cofa się także na okres pełnienia obowiązków na stanowisku kierowniczym lub samodzielnym.
-9. Przepisy ust. 1–8 nie mają zastosowania do policjanta w służbie kandydackiej.
-Dodatek stołeczny
-§ 10. 1. Policjantowi pełniącemu służbę na stanowisku etatowym w Komendzie Stołecznej Policji, bądź w innej jednostce organizacyjnej Policji, której terytorialny zasięg działania objęty jest terytorialnym zasięgiem działania Komendanta Stołecznego Policji, przysługuje dodatek stołeczny w wysokości 20% kwoty bazowej.
-2. Przepis ust. 1 nie ma zastosowania do policjanta w służbie kandydackiej.
-Dodatek za opiekę nad służbowym koniem lub psem
-§ 11. 1. Policjantowi, któremu powierzono sprawowanie opieki nad służbowym koniem lub psem, przysługuje z tego tytułu dodatek w wysokości 10% kwoty bazowej.
-2. W przypadku sprawowania opieki nad więcej niż jednym koniem lub psem dodatek z tego tytułu stanowi odpowiednią wielokrotność stawki określonej w ust. 1.
-3. W przypadku sprawowania opieki nad tym samym koniem lub psem przez kilku policjantów dodatek określony w ust. 1 dzieli się między nich w równych częściach.
-Dodatek instruktorski
-§ 12. 1. Policjantowi pełniącemu służbę w pododdziale antyterrorystycznym lub komórce antyterrorystycznej albo minersko-pirotechnicznej w jednostce Policji, który posiada uprawnienia instruktora w dziedzinie spadochroniarstwa, płetwonurkowania, ratownictwa lub minerstwa-pirotechniki, przysługuje dodatek instruktorski w wysokości określonej w tabeli stanowiącej załącznik nr 5 do rozporządzenia.
-2. W razie posiadania kwalifikacji instruktorskich w kilku dziedzinach dodatek instruktorski ustala się jako sumę stawek procentowych tego dodatku należnych za każdy rodzaj posiadanych uprawnień instruktorskich, nie więcej jednak niż w wysokości 30% kwoty bazowej.
-Dodatek lotniczy
-§ 13. 1. Policjantowi pełniącemu służbę w komórce organizacyjnej Lotnictwa Policji, który posiada uprawnienia pilota lub mechanika lotniczego obsługi, przysługuje dodatek lotniczy w następującej wysokości ustalonej procentowo od kwoty bazowej:
-1) piloci posiadający nalot do 500 godzin na śmigłowcach – 50%;
-2) piloci posiadający uprawnienia do wykonywania zadań na policyjnych statkach powietrznych i nalot w wysokości powyżej 500 godzin na śmigłowcach, z czego co najmniej 300 godzin w charakterze dowódcy statku powietrznego – 100%;
-3) mechanik lotniczy obsługi posiadający uprawnienia do obsługi technicznej statków powietrznych eksploatowanych w Lotnictwie Policji – 30%.
-2. Policjantowi posiadającemu uprawnienia pilota, wykonującemu loty instruktorskie z personelem latającym, dodatek lotniczy zwiększa się o 10% kwoty bazowej.
-3. Policjantowi wykonującemu loty na więcej niż jednym typie statku powietrznego, w charakterze pilota dowódcy załogi, dodatek lotniczy zwiększa się o 10% kwoty bazowej.
-4. Policjantowi mechanikowi lotniczemu obsługi, posiadającemu uprawnienia i wykonującemu loty w charakterze operatora pokładowych systemów obserwacji lotniczej, dodatek lotniczy zwiększa się o 10% kwoty bazowej.
-5. Policjantowi mechanikowi lotniczemu obsługi, wykonującemu loty w charakterze mechanika pokładowego, dodatek lotniczy zwiększa się o 10% kwoty bazowej.
-6. Policjantowi mechanikowi lotniczemu obsługi, posiadającemu uprawnienia i wykonującemu loty w charakterze operatora pokładowych urządzeń dźwigowych, dodatek lotniczy zwiększa się o 5% kwoty bazowej.
-7. Policjantowi mechanikowi lotniczemu obsługi, wykonującemu czynności obsługowe w Lotnictwie Policji na więcej niż jednym typie statku powietrznego, dodatek lotniczy zwiększa się o 10% kwoty bazowej.
-8. Policjantowi wchodzącemu w skład personelu latającego, posiadającemu co najmniej 5-letni staż służby pełnionej w składzie personelu latającego Lotnictwa Policji, który w danym roku kalendarzowym wykonywał bezawaryjnie zadania lotnicze na statkach powietrznych Policji w wymiarze co najmniej 40 godzin nalotu, przyznaje się jednorazowo dodatek lotniczy w wysokości 200% miesięcznego dodatku lotniczego.
-9. Policjant wchodzący w skład personelu latającego, zawieszony w lotach ze względów zdrowotnych, zachowuje prawo do dodatku lotniczego przez okres 6 miesięcy od zawieszenia w lotach. Właściwy przełożony w sprawach osobowych może przedłużyć okres pobierania dodatku lotniczego na okres kolejnych 6 miesięcy.
-Dodatek kontrolerski
-§ 14. 1. Policjantowi pełniącemu służbę w komórce (na stanowisku) kontroli, kontroli finansowej, kontroli ochrony informacji niejawnych lub inspekcji i wykonującemu czynności objęte postępowaniem kontrolnym w rozumieniu odrębnych przepisów przysługuje dodatek kontrolerski w wysokości do 30% kwoty bazowej.
-2. Wysokość przyznawanego dodatku kontrolerskiego uzależnia się w szczególności od oceny wywiązywania się przez policjanta z obowiązków oraz realizacji zadań i czynności służbowych, ze szczególnym uwzględnieniem ich charakteru i zakresu, rodzaju i poziomu posiadanych przez policjanta kwalifikacji zawodowych oraz liczby dni wykonywania ich poza macierzystą jednostką.
-3. Przepis ust. 2 stosuje się odpowiednio do podwyższania i obniżania dodatku kontrolerskiego.
-Dodatek specjalny
-§ 15. 1. Policjantowi pełniącemu służbę w:
-1) Biurze Spraw Wewnętrznych Komendy Głównej Policji, wykonującemu lub nadzorującemu czynności związane z zapobieganiem, wykrywaniem lub analizą zjawisk przestępczych i kryminogennych w środowisku policjantów oraz pracowników zatrudnionych w jednostkach organizacyjnych Policji,
-2) Centralnym Biurze Śledczym Policji, wykonującemu lub nadzorującemu czynności związane z rozpoznawaniem, zapobieganiem i zwalczaniem przestępczości zorganizowanej,
-3) pododdziale antyterrorystycznym lub komórce antyterrorystycznej Policji, uczestniczącemu bezpośrednio w działaniach bojowych związanych z rozpoznawaniem lub zwalczaniem zagrożeń terrorystycznych, a także w działaniach wymagających użycia specjalistycznych sił i środków oraz specjalnej taktyki – przysługuje dodatek specjalny w wysokości do 30% kwoty bazowej.
-2. Przy ustalaniu, podwyższaniu i obniżaniu wysokości dodatku specjalnego przepis § 14 ust. 2 stosuje się odpowiednio.
-3. W razie zbiegu prawa do dodatku specjalnego i instruktorskiego policjantowi wypłaca się jeden, wyższy dodatek.
-Dodatek terenowy
-§ 16. 1. Policjantowi biorącemu udział w akcjach:
-1) przywracania naruszonego porządku publicznego (bezpośredni udział, zabezpieczenie rejonu przed i po akcji, pozostawanie w odwodzie),
-2) bezpośredniego zwalczania klęsk żywiołowych,
-3) ochrony rejsów lotniczych na pokładzie komunikacyjnych statków powietrznych – przysługuje za każdy dzień wykonywania tych czynności dodatek terenowy w wysokości 1% kwoty bazowej.
-2. W przypadku grupowego delegowania policjantów do udziału w akcjach wymienionych w ust. 1 pkt 1 i 2 poza rejonem działania macierzystej jednostki (szkoły) dodatek terenowy przysługuje od dnia wyjazdu do dnia powrotu.
-3. Dodatek terenowy wypłaca się z dołu do dnia 10 każdego miesiąca za miesiąc poprzedni na podstawie wykazu dodatkowych należności, zatwierdzonego przez właściwego kierownika jednostki organizacyjnej Policji.
-§ 17. Policjantowi nie obniża się dodatku służbowego przyznanego na podstawie dotychczasowych przepisów pomimo przekroczenia stawki, o której mowa w § 9 ust. 1.
-§ 18. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 grudnia 1998 r. w sprawie uposażenia zasadniczego policjantów, jego wzrostu z tytułu wysługi lat oraz szczegółowych zasad otrzymywania i wysokości dodatków do uposażenia policjantów (Dz. U. z 1999 r. Nr 6, poz. 47, z późn. zm. ).
-§ 19. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-TABELA GRUP ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH POLICJANTÓW ORAZ ODPOWIADAJĄCYCH IM STAWEK UPOSAŻENIA ZASADNICZEGO WYRAŻONYCH W POSTACI MNOŻNIKÓW KWOTY BAZOWEJ Mnożnik kwoty bazowej Lp. Grupa zaszeregowania A B C D 1 16 4,95 – – – 2 15 4,35 – – – 3 14a 3,15 3,10 3,05 – 4 14 3,10 3,05 3,00 – 5 13a 3,00 2,95 2,90 2,85 6 13 2,95 2,90 2,85 2,80 7 12 2,80 2,75 2,70 2,65 8 11 2,60 2,55 2,50 2,45 9 10 2,40 2,35 2,30 2,25 10 9 2,20 2,15 2,10 2,05 11 8 2,00 1,95 1,90 1,85 12 7 – – – 1,80 13 6 – – – 1,75 14 5 – – – 1,55 15 4 – – – 1,45 16 3 – – – 1,35 17 2 – – – 1,30 18 1 – – – 0,80 TABELA ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH POLICJANTÓW DO ORAZ ODPOWIADAJĄCYCH IM POLICYJNYCH STOPNI ETATOWYCH Użyte w tabeli skróty nazw jednostek organizacyjnych Policji oznaczają:
-1) KGP – Komendę Główną Policji,
-2) CBŚP − Centralne Biuro Śledcze Policji,
-3) KWP – komendę wojewódzką (Stołeczną) Policji,
-4) KPP, KMP, KRP – komendę powiatową (miejską, rejonową) Policji,
-5) KP – komisariat (komisariat specjalistyczny) Policji,
-6) IB – instytut badawczy,
-7) WSPol. – Wyższą Szkołę Policji w Szczytnie,
-8) SP – szkołę policyjną,
-9) OSzP – ośrodek szkolenia Policji,
-10) OPP − oddział prewencji Policji i samodzielny pododdział prewencji Policji,
-11) AT – samodzielny pododdział antyterrorystyczny Policji.
-Grupa Lp. Nazwa stanowiska Stopień etatowy zaszere- Jednostka gowania 1 2 3 4 5 6 7 8 1 Komendant Główny Policji generalny inspektor 16 KGP I Zastępca Komendanta Głównego Policji, 2 nadinspektor 15 KGP Zastępca Komendanta Głównego Policji 1 2 3 4 5 6 7 8 3 Komendant nadinspektor 14a CBŚP 4 Komendant wojewódzki (Komendant Sto- nadinspektor łeczny) Policji 14a KWP 5 Komendant-rektor nadinspektor 14 6 Dyrektor biura (równorzędnej komórki inspektor organizacyjnej) 14 KGP 7 Dyrektor instytutu badawczego inspektor 14 8 Zastępca komendanta inspektor 13a CBŚP I Zastępca komendanta wojewódzkiego (Komendanta Stołecznego) Policji 9 inspektor 13a KWP Zastępca komendanta wojewódzkiego (Komendanta Stołecznego) Policji 10 Komendant inspektor 13 11 Zastępca komendanta-prorektor inspektor 13 12 Kanclerz inspektor 13 Zastępca dyrektora biura 13 inspektor 13 KGP (równorzędnej komórki organizacyjnej) 14 Zastępca dyrektora instytutu badawczego inspektor 13 15 Rzecznik prasowy inspektor 13 KGP 1 2 3 4 5 6 7 8 16 Główny księgowy budżetu inspektor 13 KGP 17 Zastępca komendanta inspektor 12 Komendant powiatowy KPP, 18 inspektor 12 KMP, (miejski, rejonowy) Policji KRP 19 Naczelnik zarządu inspektor 12 KGP CBŚP 20 Dyrektor instytutu inspektor 12 21 Dowódca oddziału inspektor 12 22 Profesor zwyczajny inspektor 12 23 Główny księgowy − naczelnik wydziału młodszy inspektor 12 KGP KWP 24 Kwestor młodszy inspektor 12 25 Profesor nadzwyczajny młodszy inspektor 11 26 Zastępca naczelnika zarządu młodszy inspektor 11 KGP CBŚP 27 Zastępca głównego księgowego − naczel- młodszy inspektor nika wydziału 11 KGP KWP 28 Radca młodszy inspektor 11 KGP CBŚP KWP 29 Główny specjalista badawczo-techniczny młodszy inspektor 11 1 2 3 4 5 6 7 8 Naczelnik wydziału 30 młodszy inspektor 11 KGP CBŚP KWP (równorzędnej komórki organizacyjnej) 31 Kierownik rektoratu młodszy inspektor 11 Kierownik działu młodszy inspektor 11 I Zastępca komendanta powiatowego (miejskiego, rejonowego) Policji KPP, 33 młodszy inspektor 11 KMP, Zastępca komendanta powiatowego (miej- KRP skiego, rejonowego) Policji 34 Komendant komisariatu (komisariatu spe- młodszy inspektor cjalistycznego) Policji 11 35 Dowódca samodzielnego pododdziału młodszy inspektor antyterrorystycznego 11 36 Zastępca dyrektora instytutu młodszy inspektor 11 37 Kierownik zakładu młodszy inspektor 11 38 Naczelnik wydziału − radca prawny młodszy inspektor 11 KGP KWP 39 Redaktor naczelny młodszy inspektor 11 KGP 40 Kierownik ośrodka młodszy inspektor 11 1 2 3 4 5 6 7 8 41 Zastępca dowódcy oddziału młodszy inspektor 11 42 Dowódca samodzielnego pododdziału młodszy inspektor 11 43 Radca prawny młodszy inspektor 11 KGP CBŚP KWP 44 Adiunkt młodszy inspektor 10 45 Dyżurny młodszy inspektor 10 KGP 46 Zastępca naczelnika wydziału (równorzęd- podinspektor nej komórki organizacyjnej) 10 KGP CBŚP KWP Zastępca kierownika działu podinspektor 10 48 Zastępca komendanta komisariatu (komisa- podinspektor riatu specjalistycznego) Policji 10 49 Zastępca dowódcy samodzielnego podod- podinspektor działu antyterrorystycznego 10 50 Kierownik studium podinspektor 10 51 Zastępca kierownika zakładu podinspektor 10 52 Zastępca kierownika ośrodka podinspektor 10 53 Zastępca redaktora naczelnego podinspektor 10 KGP 54 Rzecznik prasowy podinspektor 10 CBŚP KWP 1 2 3 4 5 6 7 8 55 Zastępca dowódcy samodzielnego podod- podinspektor działu 10 56 Zastępca dyżurnego podinspektor 9 KGP KPP, 57 Naczelnik wydziału podinspektor 9 KMP, KRP 58 Kierownik sekcji podinspektor 9 KGP CBŚP KWP 59 Dyżurny podinspektor 9 CBŚP KWP KPP, 60 Ekspert podinspektor 9 KGP CBŚP KWP KMP, KRP 61 Starszy specjalista badawczo-techniczny podinspektor 9 62 Starszy pilot podinspektor 9 KGP KWP 63 Starszy mechanik podinspektor 9 KGP KWP 64 Komendant komisariatu (komisariatu spe- podinspektor cjalistycznego) Policji 9 65 Starszy wykładowca podinspektor 9 KPP, 66 Radca prawny podinspektor 9 KMP, KRP 1 2 3 4 5 6 7 8 67 Pomocnik dowódcy oddziału podinspektor 9 68 Lekarz podinspektor 9 KGP 69 Zastępca komendanta komisariatu (komisa- podinspektor riatu specjalistycznego) Policji 8 KPP, 70 Zastępca naczelnika wydziału podinspektor 8 KMP, KRP 71 Kapelmistrz podinspektor 8 KWP KPP, 72 Kierownik izby dziecka podinspektor 8 KWP KMP, KRP 73 Lektor podinspektor 8 74 Dowódca kompanii podinspektor 8 75 Wykładowca podinspektor 8 76 Asystent nadkomisarz 8 77 Instruktor nadkomisarz 8 KPP, 78 Dyżurny nadkomisarz 8 KMP, KRP 1 2 3 4 5 6 7 8 79 Zastępca dyżurnego nadkomisarz 7 CBŚP KWP 80 Zastępca dowódcy kompanii nadkomisarz 7 81 Młodszy wykładowca nadkomisarz 7 KPP, 82 Kierownik referatu nadkomisarz 7 KGP CBŚP KWP KMP, KRP 83 Dowódca kompanii nadkomisarz 7 84 II kapelmistrz nadkomisarz 7 KWP KPP, 85 Specjalista nadkomisarz 6 KGP CBŚP KWP KMP, KRP 86 Specjalista badawczo-techniczny nadkomisarz 6 87 Pilot nadkomisarz 6 KGP KWP 88 Mechanik nadkomisarz 6 KGP KWP 89 Dyżurny OPP komisarz 6 90 Dowódca plutonu komisarz 6 91 Dyżurny aspirant sztabowy 6 1 2 3 4 5 6 7 8 KPP, 92 Kierownik rewiru dzielnicowych aspirant sztabowy 6 KMP, KRP KPP, 93 Kierownik posterunku Policji aspirant sztabowy 6 KMP, KRP KPP, 94 Zastępca dyżurnego aspirant sztabowy 6 KMP, KRP KPP, 95 Kierownik ogniwa aspirant sztabowy 6 KGP CBŚP KWP KMP, KRP KPP, 96 Detektyw aspirant sztabowy 5 KGP CBŚP KWP KMP, KRP KPP, 97 Asystent aspirant sztabowy 5 KGP CBŚP KWP KMP, KRP KPP, 98 Instruktor aspirant sztabowy 5 KGP CBŚP KWP KMP, KRP KPP, 99 Technik kryminalistyki aspirant sztabowy 5 KWP KMP, KRP 1 2 3 4 5 6 7 8 KPP, 100 Dzielnicowy aspirant sztabowy 4 KMP, KRP KPP, 101 Kontroler ruchu drogowego aspirant sztabowy 4 KWP KMP, KRP KPP, 102 Przewodnik psa służbowego aspirant sztabowy 4 KWP KMP, KRP 103 Dowódca drużyny starszy aspirant 4 KPP, 104 Pomocnik dyżurnego sierżant sztabowy 4 KGP KWP KMP, KRP KPP, 105 Referent sierżant sztabowy 3 KGP CBŚP KWP KMP, KRP 106 Pielęgniarka sierżant sztabowy 3 KGP 107 Ratownik medyczny sierżant sztabowy 3 KGP KPP, 108 Policjant starszy sierżant 2 KGP CBŚP KWP KMP, KRP 1 2 3 4 5 6 7 8 KPP, 109 Kursant posterunkowy 1 KGP CBŚP KWP KMP, KRP TABELA STAWEK DODATKU ZA STOPIEŃ POLICYJNY Lp. Nazwa stopnia policyjnego Stawka w złotych 1 Generalny inspektor 1 300 2 Nadinspektor 1 200 3 Inspektor 1 100 4 Młodszy inspektor 1 050 5 Podinspektor 1 000 6 Nadkomisarz 960 7 Komisarz 950 8 Podkomisarz 940 9 Aspirant sztabowy 910 10 Starszy aspirant 885 11 Aspirant 860 12 Młodszy aspirant 835 13 Sierżant sztabowy 810 14 Starszy sierżant 785 15 Sierżant 760 16 Starszy posterunkowy 670 17 Posterunkowy 630 TABELA STANOWISK SŁUŻBOWYCH POLICJANTÓW UPRAWNIAJĄCYCH DO DODATKU FUNKCYJNEGO Kategoria Lp. Nazwa stanowiska dodatku funkcyjnego 1 2 3 1 Komendant Główny Policji I 2 Zastępca Komendanta Głównego Policji I 3 Komendant Centralnego Biura Śledczego Policji I 4 Komendant wojewódzki (Komendant Stołeczny) Policji I 5 Zastępca Komendanta Centralnego Biura Śledczego Policji I 6 I zastępca komendanta wojewódzkiego (Komendanta Stołecznego) Policji, zastępca komen- I danta wojewódzkiego (Komendanta Stołecznego) Policji 7 Komendant powiatowy (miejski, rejonowy) Policji I 8 I zastępca komendanta powiatowego (miejskiego, rejonowego) Policji, zastępca komendanta I powiatowego (miejskiego, rejonowego) Policji 9 Komendant komisariatu (komisariatu specjalistycznego) Policji I 10 Zastępca komendanta komisariatu (komisariatu specjalistycznego) Policji I 11 Komendant-rektor Wyższej Szkoły Policji w Szczytnie, komendant szkoły policyjnej I Zastępca komendanta-prorektor Wyższej Szkoły Policji w Szczytnie, 12 I kanclerz, zastępca komendanta szkoły policyjnej 13 Dyrektor instytutu badawczego I 14 Dyrektor biura (równorzędnej komórki organizacyjnej) I 15 Zastępca dyrektora instytutu badawczego I 16 Zastępca dyrektora biura (równorzędnej komórki organizacyjnej) I 17 Główny księgowy budżetu I 18 Główny księgowy − naczelnik wydziału, kwestor II 19 Zastępca głównego księgowego − naczelnika wydziału II 20 Naczelnik zarządu II 21 Naczelnik wydziału (równorzędnej komórki organizacyjnej), naczelnik wydziału − radca II prawny, kierownik rektoratu, kierownik działu 22 Kierownik rektoratu II 1 2 3 23 Zastępca naczelnika zarządu II 24 Zastępca naczelnika wydziału (równorzędnej komórki organizacyjnej), zastępca kierownika II działu 25 Redaktor naczelny II 26 Zastępca redaktora naczelnego II 27 Kierownik sekcji II 28 Kierownik izby dziecka II 29 Kierownik referatu II 30 Kapelmistrz II 31 II kapelmistrz II 32 Kierownik ogniwa II 33 Kierownik rewiru dzielnicowych II 34 Kierownik posterunku Policji II 35 Dowódca oddziału II 36 Zastępca dowódcy oddziału II 37 Dowódca samodzielnego pododdziału antyterrorystycznego II 38 Zastępca dowódcy samodzielnego pododdziału antyterrorystycznego II 39 Dowódca samodzielnego pododdziału II 40 Zastępca dowódcy samodzielnego pododdziału II 41 Dowódca kompanii II 42 Zastępca dowódcy kompanii II 43 Dyrektor instytutu II 44 Zastępca dyrektora instytutu II 45 Kierownik zakładu II 46 Zastępca kierownika zakładu II 47 Kierownik ośrodka II 48 Zastępca kierownika ośrodka II 49 Kierownik studium II 50 Profesor zwyczajny III 51 Profesor nadzwyczajny III 52 Rzecznik prasowy III 1 2 3 53 Radca III 54 Radca prawny III TABELA STAWEK DODATKU INSTRUKTORSKIEGO Lp. Rodzaj (klasa) uprawnienia instruktorskiego Stawka procentowa dodatku ustalona od kwoty bazowej 1 Instruktor spadochronowy klasy mistrzowskiej 15% Instruktor spadochronowy I klasy, 2 13% instruktor płetwonurkowania I klasy Instruktor spadochronowy II klasy, instruktor płetwonurkowania, 3 10% instruktor minerstwa-pirotechniki, instruktor ratownictwa klasycznego, speleo i ratownictwa z powietrza 4 Instruktor spadochronowy III klasy 8%
 
 #### Rozdział 1 Uposażenie zasadnicze
 
+**§ 1.**
+
+1. Ustala się grupy zaszeregowania stanowisk służbowych policjantów oraz odpowiadające im stawki uposażenia zasadniczego wyrażone w postaci mnożników kwoty bazowej, określone w tabeli stanowiącej załącznik nr 1 do rozporządzenia.
+
+1a. Stawki uposażenia zasadniczego określone w załączniku nr 1 do rozporządzenia w grupach zaszeregowania od 8 do 14a przysługują odpowiednio:
+
+- **1)** policjantom pełniącym służbę na stanowiskach kierowniczych oraz samodzielnych w:
+    - **a)** Komendzie Głównej Policji, aa) Centralnym Biurze Śledczym Policji,
+    - **b)** komendach wojewódzkich (Stołecznej) Policji, na obszarze działania których ogólna liczba etatów Policji jest większa od 9500,
+    - **c)** komendach powiatowych, miejskich i rejonowych Policji, na obszarze działania których ogólna liczba etatów Policji jest większa od 500,
+    - **d)** komisariatach i komisariatach specjalistycznych Policji, w których liczba etatów Policji jest większa od 120,
+    - **e)** oddziałach prewencji, samodzielnych pododdziałach prewencji oraz samodzielnych pododdziałach antyterrorystycznych Policji, –
+    - **f)** instytutach badawczych – stawki wymienione w kolumnie oznaczonej lit. „A”;
+
+- **2)** policjantom pełniącym służbę na stanowiskach kierowniczych oraz samodzielnych w:
+    - **a)** komendach wojewódzkich Policji, na obszarze działania których ogólna liczba etatów Policji wynosi od 5501 do 9500,
+    - **b)** komendach powiatowych, miejskich i rejonowych Policji, na obszarze działania których ogólna liczba etatów Policji wynosi od 201 do 500,
+    - **c)** komisariatach i komisariatach specjalistycznych Policji, w których liczba etatów Policji wynosi od 61 do 120,
+    - **d)** (uchylona),
+    - **e)** Wyższej Szkole Policji w Szczytnie oraz szkołach policyjnych,
+    - **f)** (uchylona) – stawki wymienione w kolumnie oznaczonej lit. „B”;
+
+- **3)** policjantom pełniącym służbę na stanowiskach kierowniczych oraz samodzielnych w:
+    - **a)** komendach wojewódzkich Policji, na obszarze działania których ogólna liczba etatów Policji jest mniejsza od 5501,
+    - **b)** komendach powiatowych, miejskich i rejonowych Policji, na obszarze działania których ogólna liczba etatów Policji jest mniejsza od 201,
+    - **c)** komisariatach i komisariatach specjalistycznych Policji, w których liczba etatów Policji jest mniejsza od 61,
+    - **d)** (uchylona),
+    - **e)** ośrodkach szkolenia Policji – stawki wymienione w kolumnie oznaczonej lit. „C”;
+
+- **4)** policjantom pełniącym służbę na stanowiskach innych niż określone w pkt 1–3, stawki wymienione w kolumnie oznaczonej lit. „D”.
+
+2. Wysokość kwoty bazowej, o której mowa w ust. 1, określa ustawa budżetowa.
+
+3. Wysokość miesięcznych stawek kwotowych uposażenia zasadniczego dla poszczególnych grup zaszeregowania ustala się przy zastosowaniu mnożników, o których mowa w ust. 1, z zaokrągleniem wyliczonej kwoty do pełnych 10 złotych w górę, jeżeli końcówka jest równa lub wyższa od 5 złotych, lub w dół, jeżeli jest niższa od 5 złotych.
+
+4. Zaszeregowanie stanowisk służbowych policjantów do poszczególnych grup i odpowiadające im policyjne stopnie etatowe określa tabela stanowiąca załącznik nr 2 do rozporządzenia.
+
+5. Dla policjanta w służbie kandydackiej ustala się miesięczną stawkę uposażenia zasadniczego w wysokości 357 zł.
+
+**§ 2.** Mnożnik kwoty bazowej służący do ustalenia wysokości miesięcznej stawki kwotowej uposażenia zasadniczego policjanta podwyższa się w przypadku powołania lub mianowania go na:
+
+- **1)** wyższe stanowisko służbowe;
+- **2)** równorzędne stanowisko służbowe, na którym przysługuje mnożnik kwoty bazowej wyższy od obowiązującego na dotychczas zajmowanym stanowisku służbowym.
+
+**§ 2a.**
+
+1. Policjant przeniesiony na stanowisko służbowe w tej samej grupie zaszeregowania, na którym przysługuje mnożnik kwoty bazowej niższy od obowiązującego na dotychczas zajmowanym stanowisku służbowym, zachowuje prawo do tego mnożnika do czasu uzyskania mnożnika kwoty bazowej wyższego od zachowanego.
+
+1a. Przepis ust. 1 stosuje się odpowiednio w przypadku zmian w etacie jednostki organizacyjnej Policji, powodujących obniżenie mnożnika kwoty bazowej należnego na danym stanowisku służbowym policjanta.
+
+2. Przepisu ust. 1 nie stosuje się do policjanta przeniesionego na własną prośbę albo w trybie określonym w art. 38 ust. 1 lub ust. 2 pkt 2 i 3 ustawy z dnia 6 kwietnia 1990 r. o Policji.
+
+**§ 3.**
+
+1. Uposażenie zasadnicze policjanta wzrasta z tytułu wysługi lat o 2% po 2 latach służby i o 1% za każdy następny rok służby, aż do wysokości 20% po 20 latach służby, oraz o kolejne 2% za każde następne dwa lata służby do wysokości 32% po 32 latach służby – łącznie do wysokości 35% po 35 latach służby.
+
+2. Miesięczną kwotę wzrostu uposażenia zasadniczego, o której mowa w ust. 1, zaokrągla się do pełnych 10 groszy w górę.
+
 #### Rozdział 2 Ustalanie wysługi lat
+
+**§ 4.**
+
+1. Do wysługi lat uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego zalicza się:
+
+- **1)** okresy służby w Policji;
+- **2)** okresy służby w Urzędzie Ochrony Państwa, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej i Służbie Więziennej;
+- **3)** okresy traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2015 r. poz. 900);
+- **4)** zakończone okresy zatrudnienia wykonywanego w pełnym wymiarze czasu pracy; wymiar czasu pracy podlega sumowaniu w przypadku równoczesnego wykonywania zatrudnienia u różnych pracodawców w wymiarze nie niższym niż połowa obowiązującego w danym zawodzie lub na danym stanowisku;
+- **5)** inne okresy, jeżeli na podstawie odrębnych przepisów podlegają wliczeniu do okresu pracy lub służby, od którego zależą uprawnienia pracownicze lub wynikające ze stosunku służbowego.
+
+2. Do wysługi lat nie zalicza się okresów służby i pracy, za które nie przysługiwało uposażenie zasadnicze, wynagrodzenie lub zasiłek na podstawie przepisów o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+
+3. Przepisu ust. 2 nie stosuje się do okresów korzystania przez policjanta, także przed podjęciem służby w Policji, z urlopu udzielonego w celu:
+
+- **1)** sprawowania opieki nad małym dzieckiem na warunkach określonych w przepisach prawa pracy;
+- **2)** pobytu za granicą wspólnie z małżonkiem przeniesionym do pełnienia służby w przedstawicielstwie dyplomatycznym, misji dyplomatycznej, urzędzie konsularnym lub instytucie polskim.
+
+**§ 5.**
+
+1. Dokumenty potwierdzające okresy zaliczane do wysługi lat, o których mowa w § 4 ust. 1 pkt 2–5, policjant jest obowiązany złożyć w komórce organizacyjnej jednostki Policji właściwej do spraw kadr.
+
+2. Wysługę lat oraz poszczególne jej okresy składowe ustala się na dzień przyjęcia policjanta do służby, chyba że z przepisów odrębnych wynika inny termin zaliczenia danego okresu.
+
+3. Przepis ust. 2 stosuje się odpowiednio w przypadku zmiany wysługi lat w związku z zaliczeniem policjantowi dotychczas nieudokumentowanych okresów, o których mowa w ust. 1.
+
+4. Termin nabycia prawa do wzrostu uposażenia zasadniczego z tytułu wysługi lat oraz procentową jego wysokość określa się w decyzji ustalającej lub zmieniającej wysługę lat w trybie określonym w ust. 2 i 3, z uwzględnieniem przepisów o przedawnieniu.
+
+5. Dalszy wzrost uposażenia zasadniczego z tytułu wysługi lat w Policji nie wymaga wydania odrębnej decyzji.
 
 #### Rozdział 3 Dodatki do uposażenia Przepisy ogólne
 
+**§ 6.**
+
+1. Dodatkami do uposażenia są:
+
+- **1)** dodatek za stopień;
+- **2)** dodatek funkcyjny;
+- **3)** dodatek służbowy;
+- **4)** dodatek stołeczny;
+- **5)** dodatek za opiekę nad służbowym koniem lub psem;
+- **6)** dodatek instruktorski;
+- **7)** dodatek lotniczy;
+- **8)** dodatek kontrolerski;
+- **9)** dodatek specjalny;
+- **10)** dodatek terenowy.
+
+2. Dodatki do uposażenia wymienione w ust. 1 pkt 1–9 są dodatkami o charakterze stałym.
+
+3. Stawki dodatków do uposażenia wymienionych w ust. 1 pkt 4–10 ustala się w relacji procentowej do kwoty bazowej, o której mowa w § 1 ust. 2.
+
+4. Stawki kwotowe dodatków po ich wyliczeniu zaokrągla się do pełnych 10 groszy w górę. Dodatek za stopień
+
+**§ 7.**
+
+1. Ustala się stawki dodatku za posiadany przez policjanta stopień policyjny, w wysokości określonej w tabeli stanowiącej załącznik nr 3 do rozporządzenia.
+
+2. Policjant w służbie kandydackiej otrzymuje dodatek za stopień policyjny w wysokości 40% stawki tego dodatku, o której mowa w ust. 1. Dodatek funkcyjny
+
+**§ 8.**
+
+1. Dodatek funkcyjny przyznaje się policjantowi na czas pełnienia przez niego służby lub obowiązków na stanowisku służbowym uprawniającym do tego dodatku.
+
+2. Ustala się 3 kategorie dodatku funkcyjnego uzależnione od rodzaju stanowiska służbowego policjanta:
+
+- **1)** I kategoria – dla policjantów na stanowiskach komendantów oraz ich zastępców, dyrektorów biur (równorzędnych komórek organizacyjnych) Komendy Głównej Policji oraz ich zastępców, dyrektorów instytutów badawczych oraz ich zastępców, komendanta-rektora, zastępcy komendanta-prorektora, kanclerza Wyższej Szkoły Policji w Szczytnie, a także głównego księgowego budżetu;
+- **2)** II kategoria – dla policjantów na stanowiskach kierowniczych niewymienionych w pkt 1 oraz ich zastępców;
+- **3)** III kategoria – dla policjantów na stanowiskach samodzielnych.
+
+3. Stanowiska służbowe policjantów uprawniające do dodatku funkcyjnego odpowiedniej kategorii, o której mowa w ust. 2, określa tabela stanowiąca załącznik nr 4 do rozporządzenia.
+
+4. Dodatek funkcyjny przyznaje się policjantowi w stawce kwotowej, w wysokości uzależnionej od rangi zajmowanego stanowiska służbowego, zakresu ponoszonej odpowiedzialności, ze szczególnym uwzględnieniem szczebla działania i wielkości kierowanej jednostki lub komórki organizacyjnej Policji oraz rodzaju i poziomu posiadanych przez policjanta kwalifikacji zawodowych i nieprzekraczającej miesięcznie:
+
+- **1)** w I kategorii – 80%,
+- **2)** w II kategorii – 70%,
+- **3)** w III kategorii – 60% – podstawy wymiaru stanowiącej sumę należnego policjantowi uposażenia zasadniczego oraz dodatku za stopień w stawce ustalonej dla policyjnego stopnia etatowego odpowiadającego zajmowanemu stanowisku służbowemu.
+
+5. Dodatek funkcyjny można w zależności od oceny wywiązywania się przez policjanta z obowiązków oraz realizacji przez niego zadań i czynności służbowych:
+
+- **1)** podwyższać na stałe lub na czas określony w granicach stawek wynikających z ust. 4;
+- **2)** obniżać nie więcej niż o 30% otrzymywanej stawki, z zastrzeżeniem ust. 8.
+
+6. Ponowne obniżenie dodatku funkcyjnego w trybie określonym w ust. 5 może nastąpić na podstawie kolejnej oceny dokonanej po upływie co najmniej 6 miesięcy.
+
+7. Dodatek funkcyjny może być obniżony także w razie zmiany zakresu obowiązków służbowych, warunków służby bądź ustania innych przesłanek, które uzasadniały przyznanie go w dotychczasowej wysokości.
+
+8. Dodatek funkcyjny obniża się w granicach od 20 do 50% otrzymywanej stawki w przypadku:
+
+- **1)** naruszenia przez policjanta dyscypliny służbowej w czasie służby lub podczas wykonywania zadań lub czynności służbowych, za które wymierzono mu karę dyscyplinarną;
+- **2)** niewywiązywania się przez policjanta z obowiązków służbowych stwierdzonego w opinii służbowej;
+- **3)** nieprzydatności policjanta na zajmowanym stanowisku, stwierdzonej w opinii służbowej w okresie służby przygotowawczej. Dodatek służbowy
+
+**§ 9.**
+
+1. Dodatek służbowy przyznaje się policjantowi w stawkach kwotowych na czas nieokreślony. Wysokość dodatku nie może przekraczać 50% podstawy wymiaru, o której mowa w § 8 ust. 4.
+
+2. Przyznanie dodatku służbowego oraz jego wysokość uzależnia się od oceny wywiązywania się przez policjanta z obowiązków oraz realizacji zadań i czynności służbowych, ze szczególnym uwzględnieniem ich charakteru i zakresu oraz rodzaju i poziomu posiadanych przez policjanta kwalifikacji zawodowych.
+
+3. Policjantowi przyjętemu do służby na stanowisko kursanta dodatek służbowy przyznaje się po ukończeniu nauki w jednostce szkoleniowej Policji odbywanej w ramach szkolenia podstawowego.
+
+4. Dodatek służbowy może być podwyższany na stałe lub na czas określony w granicach stawek wynikających z ust. 1 w związku z powierzeniem policjantowi nowych lub dodatkowych zadań bądź obowiązków służbowych na innym stanowisku, a także za wzorową służbę.
+
+5. W szczególnie uzasadnionych przypadkach dodatek służbowy podlega obniżeniu. Przepisy § 8 ust. 5–8 stosuje się odpowiednio, z zastrzeżeniem ust. 6.
+
+6. Dodatek służbowy cofa się w przypadku:
+
+- **1)** naruszenia przez policjanta dyscypliny służbowej w czasie służby lub podczas wykonywania zadań lub czynności służbowych, za które wymierzono mu karę dyscyplinarną wydalenia ze służby;
+- **2)** niewywiązywania się przez policjanta z obowiązków służbowych stwierdzonego w okresie służby stałej w dwóch kolejnych opiniach służbowych, między którymi upłynęło co najmniej 6 miesięcy;
+- **3)** nieprzydatności do służby, stwierdzonej w opinii służbowej w okresie służby przygotowawczej.
+
+7. Ponowne przyznanie dodatku służbowego, cofniętego w trybie określonym w ust. 6, może nastąpić po upływie co najmniej 6 miesięcy.
+
+8. Dodatek służbowy cofa się także na okres pełnienia obowiązków na stanowisku kierowniczym lub samodzielnym.
+
+9. Przepisy ust. 1–8 nie mają zastosowania do policjanta w służbie kandydackiej. Dodatek stołeczny
+
+**§ 10.**
+
+1. Policjantowi pełniącemu służbę na stanowisku etatowym w Komendzie Stołecznej Policji, bądź w innej jednostce organizacyjnej Policji, której terytorialny zasięg działania objęty jest terytorialnym zasięgiem działania Komendanta Stołecznego Policji, przysługuje dodatek stołeczny w wysokości 20% kwoty bazowej.
+
+2. Przepis ust. 1 nie ma zastosowania do policjanta w służbie kandydackiej. Dodatek za opiekę nad służbowym koniem lub psem
+
+**§ 11.**
+
+1. Policjantowi, któremu powierzono sprawowanie opieki nad służbowym koniem lub psem, przysługuje z tego tytułu dodatek w wysokości 10% kwoty bazowej.
+
+2. W przypadku sprawowania opieki nad więcej niż jednym koniem lub psem dodatek z tego tytułu stanowi odpowiednią wielokrotność stawki określonej w ust. 1.
+
+3. W przypadku sprawowania opieki nad tym samym koniem lub psem przez kilku policjantów dodatek określony w ust. 1 dzieli się między nich w równych częściach. Dodatek instruktorski
+
+**§ 12.**
+
+1. Policjantowi pełniącemu służbę w pododdziale antyterrorystycznym lub komórce antyterrorystycznej albo minersko-pirotechnicznej w jednostce Policji, który posiada uprawnienia instruktora w dziedzinie spadochroniarstwa, płetwonurkowania, ratownictwa lub minerstwa-pirotechniki, przysługuje dodatek instruktorski w wysokości określonej w tabeli stanowiącej załącznik nr 5 do rozporządzenia.
+
+2. W razie posiadania kwalifikacji instruktorskich w kilku dziedzinach dodatek instruktorski ustala się jako sumę stawek procentowych tego dodatku należnych za każdy rodzaj posiadanych uprawnień instruktorskich, nie więcej jednak niż w wysokości 30% kwoty bazowej. Dodatek lotniczy
+
+**§ 13.**
+
+1. Policjantowi pełniącemu służbę w komórce organizacyjnej Lotnictwa Policji, który posiada uprawnienia pilota lub mechanika lotniczego obsługi, przysługuje dodatek lotniczy w następującej wysokości ustalonej procentowo od kwoty bazowej:
+
+- **1)** piloci posiadający nalot do 500 godzin na śmigłowcach – 50%;
+- **2)** piloci posiadający uprawnienia do wykonywania zadań na policyjnych statkach powietrznych i nalot w wysokości powyżej 500 godzin na śmigłowcach, z czego co najmniej 300 godzin w charakterze dowódcy statku powietrznego – 100%;
+- **3)** mechanik lotniczy obsługi posiadający uprawnienia do obsługi technicznej statków powietrznych eksploatowanych w Lotnictwie Policji – 30%.
+
+2. Policjantowi posiadającemu uprawnienia pilota, wykonującemu loty instruktorskie z personelem latającym, dodatek lotniczy zwiększa się o 10% kwoty bazowej.
+
+3. Policjantowi wykonującemu loty na więcej niż jednym typie statku powietrznego, w charakterze pilota dowódcy załogi, dodatek lotniczy zwiększa się o 10% kwoty bazowej.
+
+4. Policjantowi mechanikowi lotniczemu obsługi, posiadającemu uprawnienia i wykonującemu loty w charakterze operatora pokładowych systemów obserwacji lotniczej, dodatek lotniczy zwiększa się o 10% kwoty bazowej.
+
+5. Policjantowi mechanikowi lotniczemu obsługi, wykonującemu loty w charakterze mechanika pokładowego, dodatek lotniczy zwiększa się o 10% kwoty bazowej.
+
+6. Policjantowi mechanikowi lotniczemu obsługi, posiadającemu uprawnienia i wykonującemu loty w charakterze operatora pokładowych urządzeń dźwigowych, dodatek lotniczy zwiększa się o 5% kwoty bazowej.
+
+7. Policjantowi mechanikowi lotniczemu obsługi, wykonującemu czynności obsługowe w Lotnictwie Policji na więcej niż jednym typie statku powietrznego, dodatek lotniczy zwiększa się o 10% kwoty bazowej.
+
+8. Policjantowi wchodzącemu w skład personelu latającego, posiadającemu co najmniej 5-letni staż służby pełnionej w składzie personelu latającego Lotnictwa Policji, który w danym roku kalendarzowym wykonywał bezawaryjnie zadania lotnicze na statkach powietrznych Policji w wymiarze co najmniej 40 godzin nalotu, przyznaje się jednorazowo dodatek lotniczy w wysokości 200% miesięcznego dodatku lotniczego.
+
+9. Policjant wchodzący w skład personelu latającego, zawieszony w lotach ze względów zdrowotnych, zachowuje prawo do dodatku lotniczego przez okres 6 miesięcy od zawieszenia w lotach. Właściwy przełożony w sprawach osobowych może przedłużyć okres pobierania dodatku lotniczego na okres kolejnych 6 miesięcy. Dodatek kontrolerski
+
+**§ 14.**
+
+1. Policjantowi pełniącemu służbę w komórce (na stanowisku) kontroli, kontroli finansowej, kontroli ochrony informacji niejawnych lub inspekcji i wykonującemu czynności objęte postępowaniem kontrolnym w rozumieniu odrębnych przepisów przysługuje dodatek kontrolerski w wysokości do 30% kwoty bazowej.
+
+2. Wysokość przyznawanego dodatku kontrolerskiego uzależnia się w szczególności od oceny wywiązywania się przez policjanta z obowiązków oraz realizacji zadań i czynności służbowych, ze szczególnym uwzględnieniem ich charakteru i zakresu, rodzaju i poziomu posiadanych przez policjanta kwalifikacji zawodowych oraz liczby dni wykonywania ich poza macierzystą jednostką.
+
+3. Przepis ust. 2 stosuje się odpowiednio do podwyższania i obniżania dodatku kontrolerskiego. Dodatek specjalny
+
+**§ 15.**
+
+1. Policjantowi pełniącemu służbę w:
+
+- **1)** Biurze Spraw Wewnętrznych Komendy Głównej Policji, wykonującemu lub nadzorującemu czynności związane z zapobieganiem, wykrywaniem lub analizą zjawisk przestępczych i kryminogennych w środowisku policjantów oraz pracowników zatrudnionych w jednostkach organizacyjnych Policji,
+- **2)** Centralnym Biurze Śledczym Policji, wykonującemu lub nadzorującemu czynności związane z rozpoznawaniem, zapobieganiem i zwalczaniem przestępczości zorganizowanej,
+- **3)** pododdziale antyterrorystycznym lub komórce antyterrorystycznej Policji, uczestniczącemu bezpośrednio w działaniach bojowych związanych z rozpoznawaniem lub zwalczaniem zagrożeń terrorystycznych, a także w działaniach wymagających użycia specjalistycznych sił i środków oraz specjalnej taktyki – przysługuje dodatek specjalny w wysokości do 30% kwoty bazowej.
+
+2. Przy ustalaniu, podwyższaniu i obniżaniu wysokości dodatku specjalnego przepis § 14 ust. 2 stosuje się odpowiednio.
+
+3. W razie zbiegu prawa do dodatku specjalnego i instruktorskiego policjantowi wypłaca się jeden, wyższy dodatek. Dodatek terenowy
+
+**§ 16.**
+
+1. Policjantowi biorącemu udział w akcjach:
+
+- **1)** przywracania naruszonego porządku publicznego (bezpośredni udział, zabezpieczenie rejonu przed i po akcji, pozostawanie w odwodzie),
+- **2)** bezpośredniego zwalczania klęsk żywiołowych,
+- **3)** ochrony rejsów lotniczych na pokładzie komunikacyjnych statków powietrznych – przysługuje za każdy dzień wykonywania tych czynności dodatek terenowy w wysokości 1% kwoty bazowej.
+
+2. W przypadku grupowego delegowania policjantów do udziału w akcjach wymienionych w ust. 1 pkt 1 i 2 poza rejonem działania macierzystej jednostki (szkoły) dodatek terenowy przysługuje od dnia wyjazdu do dnia powrotu.
+
+3. Dodatek terenowy wypłaca się z dołu do dnia 10 każdego miesiąca za miesiąc poprzedni na podstawie wykazu dodatkowych należności, zatwierdzonego przez właściwego kierownika jednostki organizacyjnej Policji.
+
 #### Rozdział 4 Przepisy przejściowe i końcowe
+
+**§ 17.** Policjantowi nie obniża się dodatku służbowego przyznanego na podstawie dotychczasowych przepisów pomimo przekroczenia stawki, o której mowa w § 9 ust. 1.
+
+**§ 18.** Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 31 grudnia 1998 r. w sprawie uposażenia zasadniczego policjantów, jego wzrostu z tytułu wysługi lat oraz szczegółowych zasad otrzymywania i wysokości dodatków do uposażenia policjantów (Dz. U. z 1999 r. Nr 6, poz. 47, z późn. zm. ).
+
+**§ 19.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . TABELA GRUP ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH POLICJANTÓW ORAZ ODPOWIADAJĄCYCH IM STAWEK UPOSAŻENIA ZASADNICZEGO WYRAŻONYCH W POSTACI MNOŻNIKÓW KWOTY BAZOWEJ Mnożnik kwoty bazowej Lp. Grupa zaszeregowania A B C D 1 16 4,95 – – – 2 15 4,35 – – – 3 14a 3,15 3,10 3,05 – 4 14 3,10 3,05 3,00 – 5 13a 3,00 2,95 2,90 2,85 6 13 2,95 2,90 2,85 2,80 7 12 2,80 2,75 2,70 2,65 8 11 2,60 2,55 2,50 2,45 9 10 2,40 2,35 2,30 2,25 10 9 2,20 2,15 2,10 2,05 11 8 2,00 1,95 1,90 1,85 12 7 – – – 1,80 13 6 – – – 1,75 14 5 – – – 1,55 15 4 – – – 1,45 16 3 – – – 1,35 17 2 – – – 1,30 18 1 – – – 0,80 TABELA ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH POLICJANTÓW DO ORAZ ODPOWIADAJĄCYCH IM POLICYJNYCH STOPNI ETATOWYCH Użyte w tabeli skróty nazw jednostek organizacyjnych Policji oznaczają:
+
+- **1)** KGP – Komendę Główną Policji,
+- **2)** CBŚP − Centralne Biuro Śledcze Policji,
+- **3)** KWP – komendę wojewódzką (Stołeczną) Policji,
+- **4)** KPP, KMP, KRP – komendę powiatową (miejską, rejonową) Policji,
+- **5)** KP – komisariat (komisariat specjalistyczny) Policji,
+- **6)** IB – instytut badawczy,
+- **7)** WSPol. – Wyższą Szkołę Policji w Szczytnie,
+- **8)** SP – szkołę policyjną,
+- **9)** OSzP – ośrodek szkolenia Policji,
+- **10)** OPP − oddział prewencji Policji i samodzielny pododdział prewencji Policji,
+- **11)** AT – samodzielny pododdział antyterrorystyczny Policji. Grupa Lp. Nazwa stanowiska Stopień etatowy zaszere- Jednostka gowania 1 2 3 4 5 6 7 8 1 Komendant Główny Policji generalny inspektor 16 KGP I Zastępca Komendanta Głównego Policji, 2 nadinspektor 15 KGP Zastępca Komendanta Głównego Policji 1 2 3 4 5 6 7 8 3 Komendant nadinspektor 14a CBŚP 4 Komendant wojewódzki (Komendant Sto- nadinspektor łeczny) Policji 14a KWP 5 Komendant-rektor nadinspektor 14 6 Dyrektor biura (równorzędnej komórki inspektor organizacyjnej) 14 KGP 7 Dyrektor instytutu badawczego inspektor 14 8 Zastępca komendanta inspektor 13a CBŚP I Zastępca komendanta wojewódzkiego (Komendanta Stołecznego) Policji 9 inspektor 13a KWP Zastępca komendanta wojewódzkiego (Komendanta Stołecznego) Policji 10 Komendant inspektor 13 11 Zastępca komendanta-prorektor inspektor 13 12 Kanclerz inspektor 13 Zastępca dyrektora biura 13 inspektor 13 KGP (równorzędnej komórki organizacyjnej) 14 Zastępca dyrektora instytutu badawczego inspektor 13 15 Rzecznik prasowy inspektor 13 KGP 1 2 3 4 5 6 7 8 16 Główny księgowy budżetu inspektor 13 KGP 17 Zastępca komendanta inspektor 12 Komendant powiatowy KPP, 18 inspektor 12 KMP, (miejski, rejonowy) Policji KRP 19 Naczelnik zarządu inspektor 12 KGP CBŚP 20 Dyrektor instytutu inspektor 12 21 Dowódca oddziału inspektor 12 22 Profesor zwyczajny inspektor 12 23 Główny księgowy − naczelnik wydziału młodszy inspektor 12 KGP KWP 24 Kwestor młodszy inspektor 12 25 Profesor nadzwyczajny młodszy inspektor 11 26 Zastępca naczelnika zarządu młodszy inspektor 11 KGP CBŚP 27 Zastępca głównego księgowego − naczel- młodszy inspektor nika wydziału 11 KGP KWP 28 Radca młodszy inspektor 11 KGP CBŚP KWP 29 Główny specjalista badawczo-techniczny młodszy inspektor 11 1 2 3 4 5 6 7 8 Naczelnik wydziału 30 młodszy inspektor 11 KGP CBŚP KWP (równorzędnej komórki organizacyjnej) 31 Kierownik rektoratu młodszy inspektor 11 Kierownik działu młodszy inspektor 11 I Zastępca komendanta powiatowego (miejskiego, rejonowego) Policji KPP, 33 młodszy inspektor 11 KMP, Zastępca komendanta powiatowego (miej- KRP skiego, rejonowego) Policji 34 Komendant komisariatu (komisariatu spe- młodszy inspektor cjalistycznego) Policji 11 35 Dowódca samodzielnego pododdziału młodszy inspektor antyterrorystycznego 11 36 Zastępca dyrektora instytutu młodszy inspektor 11 37 Kierownik zakładu młodszy inspektor 11 38 Naczelnik wydziału − radca prawny młodszy inspektor 11 KGP KWP 39 Redaktor naczelny młodszy inspektor 11 KGP 40 Kierownik ośrodka młodszy inspektor 11 1 2 3 4 5 6 7 8 41 Zastępca dowódcy oddziału młodszy inspektor 11 42 Dowódca samodzielnego pododdziału młodszy inspektor 11 43 Radca prawny młodszy inspektor 11 KGP CBŚP KWP 44 Adiunkt młodszy inspektor 10 45 Dyżurny młodszy inspektor 10 KGP 46 Zastępca naczelnika wydziału (równorzęd- podinspektor nej komórki organizacyjnej) 10 KGP CBŚP KWP Zastępca kierownika działu podinspektor 10 48 Zastępca komendanta komisariatu (komisa- podinspektor riatu specjalistycznego) Policji 10 49 Zastępca dowódcy samodzielnego podod- podinspektor działu antyterrorystycznego 10 50 Kierownik studium podinspektor 10 51 Zastępca kierownika zakładu podinspektor 10 52 Zastępca kierownika ośrodka podinspektor 10 53 Zastępca redaktora naczelnego podinspektor 10 KGP 54 Rzecznik prasowy podinspektor 10 CBŚP KWP 1 2 3 4 5 6 7 8 55 Zastępca dowódcy samodzielnego podod- podinspektor działu 10 56 Zastępca dyżurnego podinspektor 9 KGP KPP, 57 Naczelnik wydziału podinspektor 9 KMP, KRP 58 Kierownik sekcji podinspektor 9 KGP CBŚP KWP 59 Dyżurny podinspektor 9 CBŚP KWP KPP, 60 Ekspert podinspektor 9 KGP CBŚP KWP KMP, KRP 61 Starszy specjalista badawczo-techniczny podinspektor 9 62 Starszy pilot podinspektor 9 KGP KWP 63 Starszy mechanik podinspektor 9 KGP KWP 64 Komendant komisariatu (komisariatu spe- podinspektor cjalistycznego) Policji 9 65 Starszy wykładowca podinspektor 9 KPP, 66 Radca prawny podinspektor 9 KMP, KRP 1 2 3 4 5 6 7 8 67 Pomocnik dowódcy oddziału podinspektor 9 68 Lekarz podinspektor 9 KGP 69 Zastępca komendanta komisariatu (komisa- podinspektor riatu specjalistycznego) Policji 8 KPP, 70 Zastępca naczelnika wydziału podinspektor 8 KMP, KRP 71 Kapelmistrz podinspektor 8 KWP KPP, 72 Kierownik izby dziecka podinspektor 8 KWP KMP, KRP 73 Lektor podinspektor 8 74 Dowódca kompanii podinspektor 8 75 Wykładowca podinspektor 8 76 Asystent nadkomisarz 8 77 Instruktor nadkomisarz 8 KPP, 78 Dyżurny nadkomisarz 8 KMP, KRP 1 2 3 4 5 6 7 8 79 Zastępca dyżurnego nadkomisarz 7 CBŚP KWP 80 Zastępca dowódcy kompanii nadkomisarz 7 81 Młodszy wykładowca nadkomisarz 7 KPP, 82 Kierownik referatu nadkomisarz 7 KGP CBŚP KWP KMP, KRP 83 Dowódca kompanii nadkomisarz 7 84 II kapelmistrz nadkomisarz 7 KWP KPP, 85 Specjalista nadkomisarz 6 KGP CBŚP KWP KMP, KRP 86 Specjalista badawczo-techniczny nadkomisarz 6 87 Pilot nadkomisarz 6 KGP KWP 88 Mechanik nadkomisarz 6 KGP KWP 89 Dyżurny OPP komisarz 6 90 Dowódca plutonu komisarz 6 91 Dyżurny aspirant sztabowy 6 1 2 3 4 5 6 7 8 KPP, 92 Kierownik rewiru dzielnicowych aspirant sztabowy 6 KMP, KRP KPP, 93 Kierownik posterunku Policji aspirant sztabowy 6 KMP, KRP KPP, 94 Zastępca dyżurnego aspirant sztabowy 6 KMP, KRP KPP, 95 Kierownik ogniwa aspirant sztabowy 6 KGP CBŚP KWP KMP, KRP KPP, 96 Detektyw aspirant sztabowy 5 KGP CBŚP KWP KMP, KRP KPP, 97 Asystent aspirant sztabowy 5 KGP CBŚP KWP KMP, KRP KPP, 98 Instruktor aspirant sztabowy 5 KGP CBŚP KWP KMP, KRP KPP, 99 Technik kryminalistyki aspirant sztabowy 5 KWP KMP, KRP 1 2 3 4 5 6 7 8 KPP, 100 Dzielnicowy aspirant sztabowy 4 KMP, KRP KPP, 101 Kontroler ruchu drogowego aspirant sztabowy 4 KWP KMP, KRP KPP, 102 Przewodnik psa służbowego aspirant sztabowy 4 KWP KMP, KRP 103 Dowódca drużyny starszy aspirant 4 KPP, 104 Pomocnik dyżurnego sierżant sztabowy 4 KGP KWP KMP, KRP KPP, 105 Referent sierżant sztabowy 3 KGP CBŚP KWP KMP, KRP 106 Pielęgniarka sierżant sztabowy 3 KGP 107 Ratownik medyczny sierżant sztabowy 3 KGP KPP, 108 Policjant starszy sierżant 2 KGP CBŚP KWP KMP, KRP 1 2 3 4 5 6 7 8 KPP, 109 Kursant posterunkowy 1 KGP CBŚP KWP KMP, KRP TABELA STAWEK DODATKU ZA STOPIEŃ POLICYJNY Lp. Nazwa stopnia policyjnego Stawka w złotych 1 Generalny inspektor 1 300 2 Nadinspektor 1 200 3 Inspektor 1 100 4 Młodszy inspektor 1 050 5 Podinspektor 1 000 6 Nadkomisarz 960 7 Komisarz 950 8 Podkomisarz 940 9 Aspirant sztabowy 910 10 Starszy aspirant 885 11 Aspirant 860 12 Młodszy aspirant 835 13 Sierżant sztabowy 810 14 Starszy sierżant 785 15 Sierżant 760 16 Starszy posterunkowy 670 17 Posterunkowy 630 TABELA STANOWISK SŁUŻBOWYCH POLICJANTÓW UPRAWNIAJĄCYCH DO DODATKU FUNKCYJNEGO Kategoria Lp. Nazwa stanowiska dodatku funkcyjnego 1 2 3 1 Komendant Główny Policji I 2 Zastępca Komendanta Głównego Policji I 3 Komendant Centralnego Biura Śledczego Policji I 4 Komendant wojewódzki (Komendant Stołeczny) Policji I 5 Zastępca Komendanta Centralnego Biura Śledczego Policji I 6 I zastępca komendanta wojewódzkiego (Komendanta Stołecznego) Policji, zastępca komen- I danta wojewódzkiego (Komendanta Stołecznego) Policji 7 Komendant powiatowy (miejski, rejonowy) Policji I 8 I zastępca komendanta powiatowego (miejskiego, rejonowego) Policji, zastępca komendanta I powiatowego (miejskiego, rejonowego) Policji 9 Komendant komisariatu (komisariatu specjalistycznego) Policji I 10 Zastępca komendanta komisariatu (komisariatu specjalistycznego) Policji I 11 Komendant-rektor Wyższej Szkoły Policji w Szczytnie, komendant szkoły policyjnej I Zastępca komendanta-prorektor Wyższej Szkoły Policji w Szczytnie, 12 I kanclerz, zastępca komendanta szkoły policyjnej 13 Dyrektor instytutu badawczego I 14 Dyrektor biura (równorzędnej komórki organizacyjnej) I 15 Zastępca dyrektora instytutu badawczego I 16 Zastępca dyrektora biura (równorzędnej komórki organizacyjnej) I 17 Główny księgowy budżetu I 18 Główny księgowy − naczelnik wydziału, kwestor II 19 Zastępca głównego księgowego − naczelnika wydziału II 20 Naczelnik zarządu II 21 Naczelnik wydziału (równorzędnej komórki organizacyjnej), naczelnik wydziału − radca II prawny, kierownik rektoratu, kierownik działu 22 Kierownik rektoratu II 1 2 3 23 Zastępca naczelnika zarządu II 24 Zastępca naczelnika wydziału (równorzędnej komórki organizacyjnej), zastępca kierownika II działu 25 Redaktor naczelny II 26 Zastępca redaktora naczelnego II 27 Kierownik sekcji II 28 Kierownik izby dziecka II 29 Kierownik referatu II 30 Kapelmistrz II 31 II kapelmistrz II 32 Kierownik ogniwa II 33 Kierownik rewiru dzielnicowych II 34 Kierownik posterunku Policji II 35 Dowódca oddziału II 36 Zastępca dowódcy oddziału II 37 Dowódca samodzielnego pododdziału antyterrorystycznego II 38 Zastępca dowódcy samodzielnego pododdziału antyterrorystycznego II 39 Dowódca samodzielnego pododdziału II 40 Zastępca dowódcy samodzielnego pododdziału II 41 Dowódca kompanii II 42 Zastępca dowódcy kompanii II 43 Dyrektor instytutu II 44 Zastępca dyrektora instytutu II 45 Kierownik zakładu II 46 Zastępca kierownika zakładu II 47 Kierownik ośrodka II 48 Zastępca kierownika ośrodka II 49 Kierownik studium II 50 Profesor zwyczajny III 51 Profesor nadzwyczajny III 52 Rzecznik prasowy III 1 2 3 53 Radca III 54 Radca prawny III TABELA STAWEK DODATKU INSTRUKTORSKIEGO Lp. Rodzaj (klasa) uprawnienia instruktorskiego Stawka procentowa dodatku ustalona od kwoty bazowej 1 Instruktor spadochronowy klasy mistrzowskiej 15% Instruktor spadochronowy I klasy, 2 13% instruktor płetwonurkowania I klasy Instruktor spadochronowy II klasy, instruktor płetwonurkowania, 3 10% instruktor minerstwa-pirotechniki, instruktor ratownictwa klasycznego, speleo i ratownictwa z powietrza 4 Instruktor spadochronowy III klasy 8%
+
 

@@ -27,12 +27,15 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie metodologii wyznaczania charakterystyki energetycznej budynku lub części budynku oraz świadectw charakterystyki energetycznej Na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2018 r.
 poz. 1984 oraz z 2019 r. poz. 730) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 27 lutego 2015 r. w sprawie metodologii wyznaczania charakterystyki energetycznej budynku lub części budynku oraz świadectw charakterystyki energetycznej (Dz. U. poz. 376 oraz z 2017 r. poz. 22) wprowadza się następujące zmiany:
-1) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
-2) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
-§ 2. Do świadectw charakterystyki energetycznej sporządzonych przed wejściem w życie niniejszego rozporządzenia, a nieprzekazanych osobom, które zleciły ich wykonanie, stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Inwestycji i Rozwoju: J. Kwieciński Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 27 lutego 2015 r. w sprawie metodologii wyznaczania charakterystyki energetycznej budynku lub części budynku oraz świadectw charakterystyki energetycznej (Dz. U. poz. 376 oraz z 2017 r. poz. 22) wprowadza się następujące zmiany:
+
+- **1)** załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+- **2)** załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+
+**§ 2.** Do świadectw charakterystyki energetycznej sporządzonych przed wejściem w życie niniejszego rozporządzenia, a nieprzekazanych osobom, które zleciły ich wykonanie, stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Inwestycji i Rozwoju: J. Kwieciński Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 ## Załączniki do rozporządzenia Ministra Inwestycji i Rozwoju z dnia 6 września 2019 r. (poz.
 

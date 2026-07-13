@@ -26,27 +26,43 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001693) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1693/text.pdf) |
 
 w sprawie dokumentów związanych z zawieraniem i wykonywaniem umów ubezpieczenia sporządzanych w postaci elektronicznej Na podstawie art. 43 ust. 3 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. poz. 1844 oraz z 2016 r. poz. 615) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowy sposób tworzenia, utrwalania, przechowywania i zabezpieczania, przy zastosowaniu podpisu elektronicznego lub pieczęci elektronicznej, dokumentów związanych z zawieraniem i wykonywaniem umów ubezpieczenia.
-§ 2. Przepisy rozporządzenia stosuje się do dokumentów związanych z zawieraniem i wykonywaniem umów ubezpieczenia, sporządzanych w postaci elektronicznej, z wyjątkiem dokumentów:
-1) zapisywanych na informatycznych nośnikach danych, związanych z operacjami dokonywanymi przy użyciu kart płatniczych, kart służących wyłącznie do dokonywania wypłaty gotówki oraz instrumentów pieniądza elektronicznego;
-2) oznaczonych kategorią archiwalną A i podlegających trwałemu przechowywaniu na mocy odrębnych przepisów.
-§ 3. Ilekroć w rozporządzeniu jest mowa o:
-1) dokumencie – oznacza to dokument w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114 oraz z 2016 r. poz. 352 i 1579);
-2) informatycznym nośniku danych – oznacza to nośnik danych w rozumieniu art. 3 pkt 1 ustawy, o której mowa w pkt 1;
-3) integralności dokumentu – oznacza to właściwość polegającą na braku zniekształcenia, uszkodzenia lub zmiany dokumentu podczas odczytu, zapisu lub magazynowania, od chwili jego utworzenia;
-4) podpisaniu – oznacza to czynność polegającą na złożeniu podpisu elektronicznego lub pieczęci elektronicznej.
-§ 4. Utworzenie dokumentu polega na zapisaniu sekwencji danych tworzących jego treść na informatycznym nośniku danych i podpisaniu tych danych.
-§ 5. 1. Utrwalenie dokumentu polega na jego zapisaniu na informatycznym nośniku danych w sposób zapewniający zachowanie jego integralności i możliwość odczytania wszystkich informacji zawartych w tym dokumencie aż do zakończenia okresu przechowywania dokumentu.
+
+**§ 1.** Rozporządzenie określa szczegółowy sposób tworzenia, utrwalania, przechowywania i zabezpieczania, przy zastosowaniu podpisu elektronicznego lub pieczęci elektronicznej, dokumentów związanych z zawieraniem i wykonywaniem umów ubezpieczenia.
+
+**§ 2.** Przepisy rozporządzenia stosuje się do dokumentów związanych z zawieraniem i wykonywaniem umów ubezpieczenia, sporządzanych w postaci elektronicznej, z wyjątkiem dokumentów:
+
+- **1)** zapisywanych na informatycznych nośnikach danych, związanych z operacjami dokonywanymi przy użyciu kart płatniczych, kart służących wyłącznie do dokonywania wypłaty gotówki oraz instrumentów pieniądza elektronicznego;
+- **2)** oznaczonych kategorią archiwalną A i podlegających trwałemu przechowywaniu na mocy odrębnych przepisów.
+
+**§ 3.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** dokumencie – oznacza to dokument w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2014 r. poz. 1114 oraz z 2016 r. poz. 352 i 1579);
+- **2)** informatycznym nośniku danych – oznacza to nośnik danych w rozumieniu art. 3 pkt 1 ustawy, o której mowa w pkt 1;
+- **3)** integralności dokumentu – oznacza to właściwość polegającą na braku zniekształcenia, uszkodzenia lub zmiany dokumentu podczas odczytu, zapisu lub magazynowania, od chwili jego utworzenia;
+- **4)** podpisaniu – oznacza to czynność polegającą na złożeniu podpisu elektronicznego lub pieczęci elektronicznej.
+
+**§ 4.** Utworzenie dokumentu polega na zapisaniu sekwencji danych tworzących jego treść na informatycznym nośniku danych i podpisaniu tych danych.
+
+**§ 5.**
+
+1. Utrwalenie dokumentu polega na jego zapisaniu na informatycznym nośniku danych w sposób zapewniający zachowanie jego integralności i możliwość odczytania wszystkich informacji zawartych w tym dokumencie aż do zakończenia okresu przechowywania dokumentu.
+
 2. W przypadku stosowania kwalifikowanego podpisu elektronicznego lub kwalifikowanej pieczęci elektronicznej należy zapewnić ich odpowiednią konserwację przez zastosowanie procedur i technologii umożliwiających przedłużenie wiarygodności kwalifikowanego podpisu elektronicznego lub kwalifikowanej pieczęci elektronicznej poza techniczny okres ważności.
-§ 6. 1. Dokument uważa się za zabezpieczony, jeżeli w okresie jego przechowywania spełnione są łącznie następujące warunki:
-1) zapewniona jest jego dostępność wyłącznie dla osób uprawnionych w określonym miejscu i czasie;
-2) jest chroniony przed przypadkowym lub nieuprawnionym zniszczeniem;
-3) zastosowane są aktualnie dostępne metody i środki ochrony integralności dokumentu.
+
+**§ 6.**
+
+1. Dokument uważa się za zabezpieczony, jeżeli w okresie jego przechowywania spełnione są łącznie następujące warunki:
+
+- **1)** zapewniona jest jego dostępność wyłącznie dla osób uprawnionych w określonym miejscu i czasie;
+- **2)** jest chroniony przed przypadkowym lub nieuprawnionym zniszczeniem;
+- **3)** zastosowane są aktualnie dostępne metody i środki ochrony integralności dokumentu.
+
 2. Przechowywanie i zabezpieczanie dokumentów wymaga w szczególności:
-1) systematycznego dokonywania analizy zagrożeń;
-2) opracowania i stosowania procedur zabezpieczania dokumentów i systemów ich przetwarzania, w tym procedur dostępu;
-3) stosowania systemów zabezpieczeń ze szczególnym uwzględnieniem zapewnienia kompletności i szczelności tych systemów;
-4) opracowania sposobów działania w celu eliminacji naruszania bezpieczeństwa oraz bieżącego kontrolowania funkcjonowania wszystkich organizacyjnych i techniczno-informatycznych sposobów zabezpieczenia, a także okresowego dokonywania oceny tych sposobów.
-§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+- **1)** systematycznego dokonywania analizy zagrożeń;
+- **2)** opracowania i stosowania procedur zabezpieczania dokumentów i systemów ich przetwarzania, w tym procedur dostępu;
+- **3)** stosowania systemów zabezpieczeń ze szczególnym uwzględnieniem zapewnienia kompletności i szczelności tych systemów;
+- **4)** opracowania sposobów działania w celu eliminacji naruszania bezpieczeństwa oraz bieżącego kontrolowania funkcjonowania wszystkich organizacyjnych i techniczno-informatycznych sposobów zabezpieczenia, a także okresowego dokonywania oceny tych sposobów.
+
+**§ 7.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk
 

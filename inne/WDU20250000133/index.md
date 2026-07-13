@@ -26,472 +26,686 @@ source: pdf
 | Ostatnia zmiana | 2026-01-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000133) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/133/text.pdf) |
 
-§ 1. Sprawozdanie sporządza się zgodnie z treścią formularza.
-§ 2. 1. W sprawozdaniu jednostkowym:
-1) w wierszach 11, 12, 13, 22, 24, 42 i 45 wykazywane dane powinny być zgodne z danymi dostępnymi w Informatycznym Systemie Obsługi Budżetu Państwa;
-2) w wierszach 14 i 15 wyszczególnia się stan środków na rachunku bieżącym dochodów dotyczący odpowiednio dochodów państwowej jednostki budżetowej oraz pozostałych wpływów niewykazanych w sprawozdaniu Rb-27;
-3) w wierszu 21 dysponent części budżetowej wykazuje środki otrzymane z Ministerstwa Finansów, dysponent drugiego stopnia od dysponenta części budżetowej, dysponent trzeciego stopnia, odpowiednio, od dysponenta drugiego stopnia lub od dysponenta części budżetowej, na realizację planu wydatków bieżącego roku; otrzymane środki pomniejsza się o dokonane zwroty i środki przekazane dysponentom podległym, z wyłączeniem placówek;
-4) w wierszu 31 wykazuje się środki na wynagrodzenia wypłacone „z dołu” za dany miesiąc i zaliczone do wydatków danego okresu sprawozdawczego (ujęte w sprawozdaniu Rb-28), które zostały pobrane z banków krajowych, z wyjątkiem banków spółdzielczych, w ramach zastępczej obsługi bankowej, lecz nie obciążają jeszcze rachunków bieżących wydatków państwowych jednostek budżetowych w oddziałach okręgowych Narodowego Banku Polskiego (NBP);
-5) w wierszu 32 wykazuje się środki na wynagrodzenia wypłacone „z góry” przekazane do końca okresu sprawozdawczego na rachunki pracowników lub przekazane na rachunki pomocnicze w bankach spółdzielczych z rachunków bieżących państwowych jednostek budżetowych prowadzonych w oddziałach okręgowych NBP, na wypłatę wynagrodzeń w następnym miesiącu (okresie sprawozdawczym), które obciążają rachunki bieżące wydatków państwowych jednostek budżetowych, a nie dotyczą danego okresu sprawozdawczego (nieujęte w sprawozdaniu Rb-28);
-6) w wierszu 41 dysponenci środków budżetu państwa wykazują środki otrzymane w sposób wskazany w pkt 3;
-7) w wierszach 52–57 wykazuje się środki według stanu na koniec okresu sprawozdawczego:
-a) na rachunkach pomocniczych dla obsługi budżetu państwa w zakresie krajowych środków finansowych, o których mowa w przepisach wydanych na podstawie art. 199 ust. 3 ustawy o finansach publicznych, w tym sum na zlecenie; nie wykazuje się środków z wiersza 45,
-b) na rachunkach, o których mowa w art. 11a ustawy o finansach publicznych,
-c) na rachunkach, na których gromadzone są środki, o których mowa w art. 5 ust. 4 ustawy o finansach publicznych,
-d) na wszystkich pozostałych rachunkach, prowadzonych przez jednostkę, niewymienionych w wierszach 52, 54 i 55 z wyszczególnieniem sum depozytowych;
-nie wykazuje się środków na rachunkach placówek – środki w walutach obcych przelicza się na złote przy zastosowaniu kursu średniego Narodowego Banku Polskiego, aktualnego na dzień kończący okres sprawozdawczy;
-8) w wierszu 61 wykazuje się środki w drodze, które nie wpłynęły na rachunek bieżący NBP do końca okresu sprawozdawczego, dotyczące dochodów państwowej jednostki budżetowej wykazane w sprawozdaniu Rb-27, stanowiące wpłaty z tytułu dochodów dokonane w kasie jednostki, w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640, z późn. zm.), zwanej dalej „ustawą – Prawo pocztowe”, w biurze usług płatniczych, w instytucji płatniczej lub w instytucji pieniądza elektronicznego oraz wpłaty przekazane do banków w ramach zastępczej obsługi kasowej.
-2. W sprawozdaniu kwota wykazana w wierszu 11 powinna być zgodna z sumą kwot wykazanych w wierszach 12, 14 i 61, z wyłączeniem sprawozdań dysponentów części budżetowych, którym podlegają placówki.
-3. W sprawozdaniu kwota środków otrzymanych na realizację planu wydatków bieżącego roku powinna być uzgodniona z dysponentem wyższego stopnia; kwota środków przekazanych z Ministerstwa Finansów jest dostępna w Informatycznym Systemie Obsługi Budżetu Państwa.
-4. W sprawozdaniu za rok kwota wykazana w wierszu 11 jest zgodna z kwotą wykazaną w wierszu 12, a kwota wykazana w wierszu 21 jest zgodna z kwotą wykazaną w wierszu 22.
-§ 3. 1. Sprawozdanie jednostkowe sporządza się w sposób określony w formularzu, na którym są naniesione wyjaśnienia dotyczące wypełniania.
-2. W sprawozdaniu jednostkowym w wierszach 1–5 w kolumnach 6 i 9, w wierszu 8 lit. a i b w kolumnie 5 oraz w wierszu 10 w kolumnie 5 wykazywane dane powinny być zgodne z danymi dostępnymi w Informatycznym Systemie Obsługi Budżetu Państwa.
-§ 4. Sprawozdania jednostkowe miesięczne i roczne składane przez:
-1) dysponentów środków budżetu państwa wszystkich stopni,
-2) naczelników urzędów skarbowych – są sporządzane w układzie: dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w działach i rozdziałach.
-§ 5. 1. W sprawozdaniach, o których mowa w § 4 pkt 1, wypełnia się następujące kolumny:
-1) w sprawozdaniach miesięcznych za styczeń, luty, kwiecień, maj, lipiec, sierpień, październik, listopad, grudzień – „Plan”, „Dochody wykonane”;
-2) w sprawozdaniach miesięcznych za marzec, czerwiec, wrzesień oraz w sprawozdaniu rocznym – „Plan”, „Należności”, „Potrącenia i inne zmniejszenia dochodów”, „Dochody wykonane” oraz dotyczące salda końcowego kolumny: „należności pozostałe do zapłaty, ogółem”, „w tym zaległości netto” oraz „nadpłaty”, z zastrzeżeniem pkt 3;
-3) w sprawozdaniach dysponentów środków budżetu państwa otrzymujących sprawozdania Rb-27ZZ, w zakresie paragrafu „Dochody budżetu państwa związane z realizacją zadań zlecanych jednostkom samorządu terytorialnego” – „Plan”, „Dochody wykonane”.
-2. Sprawozdania jednostkowe, odpowiednio do okresów sprawozdawczych, sporządza się następująco:
-1) w kolumnie „Plan” wykazuje się kwoty wynikające z planu finansowego jednostki, a w przypadku dysponenta części budżetowej, któremu podlegają placówki, wykazuje się również kwoty wynikające z planów finansowych tych placówek;
-2) w kolumnie „Należności” wykazuje się: salda początkowe (należności pozostałych do zapłaty zmniejszone o nadpłaty), powiększone o kwoty przypisów z tytułu dochodów budżetowych, których pierwotny termin płatności przypada na dany rok budżetowy, po zmniejszeniu o kwoty odpisów; jeżeli kwota nadpłat i odpisów przewyższa kwotę należności pozostałych do zapłaty i przypisów, wówczas różnicę wykazuje się jako liczbę ujemną; jeżeli dochody budżetowe zostały wykonane bez przypisu należności, a przepisy odrębne nie przewidują przypisu dla tego rodzaju dochodów, w kolumnie „Należności” należy wykazać kwotę zrealizowanych dochodów na podstawie ewidencji analitycznej do konta rachunku bieżącego dochodów jednostki budżetowej powiększone o środki w drodze, o których mowa w pkt 4;
-3) w kolumnie „Potrącenia i inne zmniejszenia dochodów” wykazuje się zmniejszenia dochodów, dokonane na podstawie odrębnych przepisów, w tym ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn.
-zm.), na pokrycie wydatków, o których mowa w art. 66 § 1 tej ustawy;
-4) w kolumnie „Dochody wykonane” wykazuje się dochody wykonane na podstawie księgowości analitycznej do rachunku bieżącego dochodów powiększone o środki w drodze, które nie wpłynęły na rachunek bieżący NBP do końca okresu sprawozdawczego, dotyczące dochodów państwowej jednostki budżetowej, stanowiące wpłaty z tytułu dochodów dokonane w kasie jednostki, w placówce pocztowej w rozumieniu ustawy – Prawo pocztowe, w biurze usług płatniczych, w instytucji płatniczej lub w instytucji pieniądza elektronicznego oraz wpłaty przekazane do banków w ramach zastępczej obsługi kasowej; jeżeli suma zwrotów przewyższa sumę wpłat, różnicę wykazuje się jako liczbę ujemną;
-5) w odpowiednich kolumnach salda końcowego (11–13) wykazuje się należności pozostałe do zapłaty (część należności, o których mowa w pkt 2), w tym zaległości netto (należności pozostałe do zapłaty, których termin zapłaty minął i mogą być egzekwowane), oraz nadpłaty (kwoty nadpłacone). W kolumnie „zaległości netto” nie należy wykazywać zaległości płatnych w ratach (jeżeli termin spłaty raty nie minął), odroczonych (w przypadku gdy odroczony termin płatności nie minął), kwot objętych wstrzymaniem wykonania decyzji na mocy postanowienia organu podatkowego, sądu administracyjnego lub odrębnych przepisów oraz zaległości objętych postępowaniem ugodowym, układowym lub restrukturyzacyjnym.
-3. Dochody budżetu państwa uzyskane przez jednostki samorządu terytorialnego w związku z realizacją zadań administracji rządowej są włączane do sprawozdań łącznych dysponentów środków budżetu państwa, przekazujących jednostkom samorządu terytorialnego dotacje na realizację tych zadań, w jednym paragrafie „Dochody budżetu państwa związane z realizacją zadań zlecanych jednostkom samorządu terytorialnego” następująco:
-1) w sprawozdaniach za styczeń, luty, kwiecień, maj, lipiec, sierpień, październik, listopad, grudzień:
-a) w kolumnie „Plan” – kwoty wynikające z planu finansowego jednostki,
-b) w kolumnie „Dochody wykonane” – kwoty dochodów otrzymanych od jednostek samorządu terytorialnego, wynikające z ewidencji analitycznej do rachunku bieżącego – dochodów;
-2) w sprawozdaniach za marzec, czerwiec, wrzesień i rok:
-a) w kolumnach: „Plan” i „Dochody wykonane” – zgodnie z pkt 1,
-b) w kolumnie „Należności” – w odpowiednich rozdziałach kwoty należności wykazane przez jednostki samorządu terytorialnego w części A. Dane uzupełniające do sprawozdania Rb-27ZZ, z uwzględnieniem należności z tytułu dochodów nieprzekazanych przez jednostki samorządu terytorialnego w latach ubiegłych,
-c) w kolumnie „należności pozostałe do zapłaty” – różnice pomiędzy kwotami wykazanymi w kolumnie „Należności” a kwotami wykazanymi w kolumnie „Dochody wykonane”,
-d) w kolumnie „w tym zaległości netto” – w odpowiednich rozdziałach kwoty zaległości wykazane przez jednostki samorządu terytorialnego w części A. Dane uzupełniające do sprawozdania Rb-27ZZ,
-e) w kolumnie „nadpłaty” – w odpowiednich rozdziałach kwoty nadpłat wykazane przez jednostki samorządu terytorialnego w części A. Dane uzupełniające do sprawozdania Rb-27ZZ.
-4. Sprawozdanie miesięczne za marzec, czerwiec, wrzesień oraz sprawozdanie roczne, z wyjątkiem sprawozdań zawierających dane dotyczące placówek (w rozdziałach dotyczących placówek), powinno się bilansować w następujący sposób: kwota wykazana w kolumnie „Należności” minus kwota wykazana w kolumnie „Potrącenia i inne zmniejszenia dochodów” minus kwota wykazana w kolumnie „Dochody wykonane” równa się kwocie wykazanej w kolumnie „należności pozostałe do zapłaty” minus kwota wykazana w kolumnie „nadpłaty”, z zastrzeżeniem ust. 5.
-5. W przypadku gdy w sprawozdaniu Rb-27ZZ występują nadpłaty, to sprawozdanie Rb-27 może się nie bilansować o kwotę tych nadpłat.
-§ 6. 1. W sprawozdaniach, o których mowa w § 4 pkt 2, wypełnia się następujące kolumny:
-1) w sprawozdaniach miesięcznych za styczeń, luty, kwiecień, maj, lipiec, sierpień, październik, listopad, grudzień w zakresie: „Dochodów wykonanych” i „Dochodów przekazanych w okresie sprawozdawczym”;
-2) w sprawozdaniach miesięcznych za marzec, czerwiec, wrzesień oraz w sprawozdaniu rocznym w zakresie: „Należności”, „Potrąceń i innych zmniejszeń dochodów”, „Dochodów wykonanych”, „Dochodów przekazanych w okresie sprawozdawczym” oraz „Salda końcowe” odpowiednich kolumn: „należności pozostałych do zapłaty”, „zaległości netto” i „nadpłat”.
-2. Urzędy skarbowe sporządzają sprawozdania jednostkowe w zakresie budżetu państwa za okresy wymienione w ust. 1.
-3. W sprawozdaniach, o których mowa w ust. 2, wykazuje się, odpowiednio do okresów sprawozdawczych:
-1) dochody budżetu państwa z tytułu podatków, opłat oraz niepodatkowych należności budżetowych:
-a) w kolumnie „Należności” – salda początkowe należności pozostałych do zapłaty zmniejszone o nadpłaty i powiększone o kwoty przypisów, po zmniejszeniu ich o kwoty odpisów; jeżeli kwota nadpłat i odpisów przewyższa kwotę należności pozostałych do zapłaty i przypisów, to różnicę wykazuje się jako liczbę ujemną,
-b) w kolumnie „Potrącenia i inne zmniejszenia dochodów”: – zryczałtowane wynagrodzenie płatników i inkasentów, o którym mowa w art. 28 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r.
-poz. 2383, z późn. zm.), – potrącenia zobowiązań podatkowych z wzajemnej, bezspornej i wymagalnej wierzytelności podatników wobec Skarbu Państwa z tytułów wymienionych w art. 64 i art. 66 § 1 pkt 1 ustawy, o której mowa w tiret pierwszym,
-c) w kolumnie „Dochody wykonane” – na podstawie księgowości podatkowej wpłaty po zmniejszeniu o dokonane zwroty; jeżeli suma zwrotów przewyższa sumę wpłat, różnicę wykazuje się jako liczbę ujemną,
-d) w kolumnie „Saldo końcowe” – odpowiednio należności pozostałe do zapłaty, zaległości netto (należności pozostałe do zapłaty, których termin zapłaty minął i mogą być egzekwowane) oraz nadpłaty (kwoty nadpłacone); w kolumnie „zaległości netto” nie należy wykazywać zaległości płatnych w ratach (jeżeli termin spłaty raty nie minął), odroczonych (w przypadku gdy odroczony termin płatności nie minął), kwot objętych wstrzymaniem wykonania decyzji na mocy postanowienia organu podatkowego, sądu administracyjnego lub odrębnych przepisów oraz zaległości objętych postępowaniem ugodowym, układowym lub restrukturyzacyjnym;
-2) udziały jednostek samorządu terytorialnego we wpływach dochodów budżetu państwa należne za dany okres sprawozdawczy, które zmniejszają dochody budżetu państwa:
-a) w kolumnie „Należności” – salda początkowe należności pozostałych do zapłaty zmniejszone o nadpłaty, powiększone o należne udziały jednostek samorządu terytorialnego we wpływach dochodów budżetu państwa za dany okres sprawozdawczy,
-b) w kolumnie „Dochody wykonane” – wykonane oraz należne, a nieprzekazane do końca okresu sprawozdawczego udziały jednostek samorządu terytorialnego we wpływach dochodów budżetu państwa za dany okres sprawozdawczy;
-w sprawozdaniu rocznym wykazuje się przekazane do jednostek samorządu terytorialnego kwoty udziałów jednostek samorządu terytorialnego we wpływach dochodów budżetu państwa, w tym przekazane w styczniu następnego roku, kwoty udziałów we wpływach dochodów budżetu państwa zrealizowanych do dnia 31 grudnia roku sprawozdawczego,
-c) w kolumnie „Dochody przekazane w okresie sprawozdawczym” – przekazane do jednostek samorządu terytorialnego kwoty udziałów jednostek samorządu terytorialnego we wpływach dochodów budżetu państwa; w sprawozdaniu rocznym również przekazane w styczniu następnego roku kwoty udziałów we wpływach dochodów budżetu państwa zrealizowanych do dnia 31 grudnia roku sprawozdawczego,
-d) w kolumnie „Saldo końcowe” – odpowiednio należności pozostałe do zapłaty, zaległości netto oraz nadpłaty, wynikające z rozliczeń udziałów z poszczególnymi jednostkami samorządu terytorialnego – wykazuje się ze znakiem minus.
-4. Sprawozdania, o których mowa w ust. 2, powinny bilansować się w następujący sposób:
-1) dla tytułów wymienionych w ust. 3 pkt 1 – należności minus potrącenia i inne zmniejszenia dochodów minus dochody wykonane (wpłaty minus zwroty) równają się należnościom pozostałym do zapłaty minus nadpłaty;
-2) dla tytułów wymienionych w ust. 3 pkt 2 – należności minus dochody przekazane w okresie sprawozdawczym równają się należnościom pozostałym do zapłaty minus nadpłaty.
-§ 7. 1. Dysponent części 77. Podatki i inne wpłaty na rzecz budżetu państwa w sprawozdaniu, o którym mowa w § 6 ust. 2 rozporządzenia, dane w zakresie środków pochodzących z budżetu Unii Europejskiej oraz środków niewykorzystanych w terminie na wydatki, które nie wygasają z upływem roku budżetowego, wykazuje w następujących kolumnach:
-1) w sprawozdaniach miesięcznych za styczeń, luty, kwiecień, maj, lipiec, sierpień, październik, listopad, grudzień – „Dochody wykonane”;
-2) w sprawozdaniach miesięcznych za marzec, czerwiec, wrzesień oraz w sprawozdaniu rocznym – „Należności” i „Dochody wykonane”.
-2. W sprawozdaniach, o których mowa w ust. 1:
-1) w kolumnie „Należności” wykazuje się kwotę należności w wysokości równej wpływom na rachunki dochodów budżetu państwa;
-2) w kolumnie „Dochody wykonane” wykazuje się dochody wykonane na podstawie ewidencji wpływów na rachunki dochodów budżetu państwa.
-§ 8. 1. Sprawozdanie jednostkowe sporządza się w szczegółowości: dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w działach i rozdziałach.
-2. Sprawozdanie sporządza się w zakresie następujących danych:
-1) w sprawozdaniach miesięcznych, z wyjątkiem sprawozdań za grudzień – „Plan (po zmianach)”, „Zaangażowanie”, „Wykonanie wydatków” oraz „Zobowiązania według stanu na koniec okresu sprawozdawczego”;
-2) w sprawozdaniu miesięcznym za grudzień i sprawozdaniu rocznym – dane wymienione w pkt 1 oraz „Wydatki, które nie wygasły z upływem bieżącego roku budżetowego”.
-3. Sprawozdanie sporządza się następująco:
-1) w kolumnie „Plan (po zmianach)” wykazuje się dane o planowanych wydatkach, wynikających z planu finansowego jednostki, z uwzględnieniem zmian dokonanych w trybie określonym w ustawie o finansach publicznych, a w przypadku dysponenta części budżetowej, któremu podlegają placówki, wykazuje się również kwoty wynikające z planów finansowych tych placówek;
-2) w kolumnie „Zaangażowanie” wykazuje się kwoty wynikające z umów, decyzji i innych postanowień, których wykonanie powoduje konieczność dokonania wydatków budżetowych w roku bieżącym;
-3) w kolumnie „Wykonanie wydatków” wykazuje się wykonane wydatki, na podstawie danych księgowości analitycznej do konta rachunek bieżący jednostki budżetowej, z zastrzeżeniem pkt 4;
-4) w sprawozdaniu miesięcznym za grudzień i rocznym w kolumnie „Wykonanie wydatków” nie wykazuje się wydatków, o których mowa w art. 181 ust. 2 ustawy o finansach publicznych;
-5) w kolumnie „Zobowiązania ogółem” wykazuje się wszystkie uznane przez jednostkę zobowiązania, niespłacone do końca okresu sprawozdawczego;
-6) w kolumnie „zobowiązania wymagalne powstałe w latach ubiegłych” wykazuje się nieprzedawnione i nieumorzone zobowiązania, które przed upływem danego okresu sprawozdawczego nie zostały uregulowane, a których termin zapłaty minął przed dniem 1 stycznia bieżącego roku;
-7) w kolumnie „zobowiązania wymagalne powstałe w roku bieżącym” wykazuje się nieumorzone zobowiązania powstałe w okresie od dnia 1 stycznia roku bieżącego do końca okresu sprawozdawczego, które przed upływem danego okresu sprawozdawczego nie zostały uregulowane, a których termin zapłaty minął;
-8) w kolumnie „Wydatki, które nie wygasły z upływem bieżącego roku budżetowego” wykazuje się wydatki ujęte w ustalonym przez Radę Ministrów planie finansowym, o którym mowa w art. 181 ust. 2 ustawy o finansach publicznych; kolumnę tę wypełnia się w sprawozdaniu miesięcznym za grudzień i w sprawozdaniu rocznym.
-4. Dopuszcza się, aby w sytuacjach wyjątkowych, niezależnych od jednostki, niewłaściwe obciążenia oraz uznania rachunków bieżących wykazywać, wprowadzając symbol 4990 zamiast paragrafu; niewłaściwe obciążenie wykazuje się zapisem zwykłym, a niewłaściwe uznania rachunku – jako liczbę ujemną. Niewłaściwe przelewy środków powinny być wyjaśnione i rozliczone w następnym okresie sprawozdawczym.
-5. Dysponent części 84. Środki własne Unii Europejskiej w przypadku nadpłaconej składki do budżetu Unii Europejskiej przekazuje w formie komentarza do sprawozdania informację o wysokości nadpłaconej składki, wykazując ją w szczegółowości klasyfikacji budżetowej.
-§ 9. 1. Dysponenci środków budżetu państwa realizujący wydatki, o których mowa w art. 181 ust. 2 ustawy o finansach publicznych, sporządzają sprawozdania z wykonania planu tych wydatków w szczegółowości: dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w działach i rozdziałach.
-2. W kolumnie „Plan” wykazuje się, ustalony przez Radę Ministrów, plan finansowy, o którym mowa w art. 181 ust. 2 ustawy o finansach publicznych.
-3. W kolumnie „Wykonanie” wykazuje się wykonanie wydatków na podstawie danych księgowości analitycznej do rachunku pomocniczego dla środków na wydatki niewygasające.
-4. Dane w sprawozdaniach wykazuje się według klasyfikacji budżetowej obowiązującej w roku, w którym plan został ustalony przez Radę Ministrów.
-§ 10. 1. Sprawozdanie sporządza się w pełnym zakresie danych, wynikającym z formularza, w szczegółowości: dział, rozdział, paragraf, oddzielnie dla każdego funduszu. W kolumnie identyfikującej fundusz należy wstawić odpowiedni symbol.
-2. Przyjmuje się następujące symbole identyfikujące fundusze:
-1) 301 – Fundusz Ubezpieczeń Społecznych;
-2) 302 – Fundusz Emerytalno-Rentowy;
-3) 303 – Fundusz Pracy;
-4) 304 – Fundusz Alimentacyjny w Likwidacji;
-5) 306 – Fundusz Administracyjny;
-6) 310 – Fundusz Prewencji i Rehabilitacji;
-7) 312 – Fundusz Gospodarki Zasobem Geodezyjnym i Kartograficznym;
-8) 315 – Fundusz Wsparcia Policji;
-9) 316 – Fundusz Modernizacji Bezpieczeństwa Publicznego;
-10) 317 – Fundusz – Centralna Ewidencja Pojazdów i Kierowców;
-11) 318 – Fundusz Rozwoju Kultury Fizycznej;
-12) 319 – Fundusz Zajęć Sportowych dla Uczniów;
-13) 330 – Fundusz Reprywatyzacji;
-14) 335 – Fundusz Promocji Kultury;
-15) 336 – Fundusz Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej;
-16) 337 – Fundusz Aktywizacji Zawodowej Skazanych oraz Rozwoju Przywięziennych Zakładów Pracy;
-17) 338 – Fundusz Rekompensacyjny;
-18) 340 – Fundusz Wsparcia Straży Granicznej;
-19) 342 – Fundusz Emerytur Pomostowych;
-20) 343 – Fundusz Rozwiązywania Problemów Hazardowych;
-21) 344 – Fundusz Wsparcia Państwowej Straży Pożarnej;
-22) 345 – Fundusz Gwarantowanych Świadczeń Pracowniczych;
-23) 346 – Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych;
-24) 347 – Fundusz Zapasów Interwencyjnych;
-25) 348 – Fundusz Wspierania Organizacji Pożytku Publicznego;
-26) 349 – Fundusz Wspierania Rozwoju Społeczeństwa Obywatelskiego;
-27) 350 – Narodowy Fundusz Ochrony Zabytków;
-28) 352 – Fundusz Solidarnościowy;
-29) 354 – Fundusz Wypłaty Różnicy Ceny;
-30) 355 – Fundusz Rozwoju Przewozów Autobusowych o Charakterze Użyteczności Publicznej;
-31) 356 – Fundusz Inwestycji Kapitałowych;
-32) 357 – Fundusz Dostępności;
-33) 358 – Fundusz Szerokopasmowy;
-34) 359 – Fundusz Rekompensat Pośrednich Kosztów Emisji;
-35) 360 – Fundusz Medyczny;
-36) 361 – Fundusz Kompensacyjny Szczepień Ochronnych;
-37) 362 – Fundusz Cyberbezpieczeństwa;
-38) 363 – Fundusz Rozwoju Regionalnego;
-39) 364 – Fundusz Edukacji Finansowej;
-40) 365 – Fundusz Kompensacyjny Badań Klinicznych;
-41) 366 – Fundusz Kompensacyjny Zdarzeń Medycznych.
-3. W przypadku utworzenia nowego funduszu Minister Finansów, na wniosek dysponenta funduszu, nadaje funduszowi symbol dla celów sprawozdawczości budżetowej.
-4. W dziale A. „Przychody” w kolumnach: „Plan” i „Wykonanie” wykazuje się:
-1) według paragrafów:
-a) przychody własne,
-b) dotacje z budżetu;
-2) w wydzielonych wierszach:
-a) „K 100” – pozostałe przychody nieokreślone w paragrafach klasyfikacji budżetowej oraz inne zwiększenia środków obrotowych,
-b) „K 110” – stan funduszu na początek okresu sprawozdawczego.
-5. W dziale B. „Koszty i inne obciążenia” w kolumnach: „Plan” i „Wykonanie” wykazuje się:
-1) według paragrafów:
-a) koszty,
-b) transfery na rzecz ludności i inne obciążenia;
-2) w wydzielonych wierszach:
-a) „P 100” – inne obciążenia, niewykazane w paragrafach, oraz inne zmniejszenia środków obrotowych,
-b) „P 130” – stan funduszu na koniec okresu sprawozdawczego.
-6. W dziale C. wykazuje się według stanu na początek i koniec okresu sprawozdawczego, w wydzielonych wierszach:
-1) „W 010” – środki pieniężne, w tym: środki w kasie, wolne środki przekazane Ministrowi Finansów w zarządzanie terminowe lub zarządzanie overnight;
-2) „W 020” – należności netto, tj. należności po pomniejszeniu o odpis aktualizujący należności;
-3) „W 021” – kwotę odpisu aktualizującego należności;
-4) „W 022” – nieobjętą odpisem aktualizującym kwotę odsetek od należności niezapłaconych w terminie;
-5) „W 030” – pozostałe środki obrotowe;
-6) „W 040” – zobowiązania;
-7) „W 070” – stan środków obrotowych netto.
-7. W dziale D. Dane uzupełniające wykazuje się uszczegółowienie kwot należności i zobowiązań wykazanych w dziale C. odpowiednio w wierszach W 020 i W 040.
-8. W przypadku gdy dysponent funduszu nie realizuje bezpośrednio zadań wynikających z ustawy powołującej fundusz, w sprawozdaniu w kolumnie „Wykonanie” wykazuje się faktycznie poniesione ostatecznie wydatki na realizację zadań wskazanych w ustawie powołującej fundusz, po wyeliminowaniu wewnętrznych przelewów redystrybucyjnych.
-9. Sprawozdania Funduszu Zapasów Interwencyjnych i Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przed przekazaniem do Ministerstwa Finansów powinny być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, odpowiednio przez organ nadzorujący dysponenta funduszu albo PFRON.
-10. Sprawozdania Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych nie wypełnia się w dziale D. Dane uzupełniające.
-§ 11. 1. Sprawozdanie sporządza się w szczegółowości: dział, rozdział, paragraf;
-sumowaniu podlegają kwoty wyszczególnione w rozdziałach.
-2. W dziale A. „Dochody” w kolumnach: „plan” i „wykonanie” wykazuje się:
-1) w szczegółowości: dział, rozdział, paragraf – odpowiednio planowane i zrealizowane wpływy środków pieniężnych na rachunek;
-2) w wydzielonym wierszu „K 150” – stan środków pieniężnych na początek okresu sprawozdawczego na rachunku.
-3. W dziale B. „Wydatki” w kolumnach: „plan” i „wykonanie” wykazuje się:
-1) w szczegółowości: dział, rozdział, paragraf – odpowiednio planowane i poniesione wydatki;
-2) w wydzielonym wierszu „P 150” – stan środków pieniężnych na rachunku na koniec okresu sprawozdawczego.
-§ 12. 1. Sprawozdanie sporządza się w szczegółowości: dział, rozdział, paragraf;
-sumowaniu podlegają kwoty wyszczególnione w rozdziałach.
-2. W dziale A. „Dochody” w kolumnach: „plan” i „wykonanie” wykazuje się:
-1) w szczegółowości: dział, rozdział, paragraf – odpowiednio planowane i zrealizowane wpływy środków pieniężnych stanowiące dochody agencji wykonawczej;
-2) w wydzielonym wierszu „K 150” – stan środków pieniężnych na początek okresu sprawozdawczego dotyczących funkcjonowania i realizacji zadań agencji wykonawczej (nie wykazuje się środków funduszu świadczeń socjalnych oraz obcych środków pieniężnych np. wadiów i kaucji).
-3. W dziale B. „Wydatki” w kolumnach: „plan” i „wykonanie” wykazuje się:
-1) w szczegółowości: dział, rozdział, paragraf – odpowiednio planowane i poniesione wydatki;
-2) w wydzielonym wierszu „P 150” – stan środków pieniężnych na koniec okresu sprawozdawczego dotyczących funkcjonowania i realizacji zadań agencji wykonawczej (nie wykazuje się środków funduszu świadczeń socjalnych oraz obcych środków pieniężnych np. wadiów i kaucji).
-4. W dziale C. wykazuje się według stanu na początek i koniec okresu sprawozdawczego:
-1) w wierszu W 020 – należności netto, tj. należności po pomniejszeniu o odpis aktualizujący należności;
-2) w wierszu W 021 – kwotę odpisu aktualizującego należności;
-3) w wierszu W 022 – nieobjętą odpisem aktualizującym kwotę odsetek od należności niezapłaconych w terminie;
-4) w wierszu W 040 – zobowiązania.
-5. Sprawozdanie agencji wykonawczej przed przekazaniem do Ministerstwa Finansów powinno być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, przez organ nadzorujący działalność danej agencji wykonawczej.
-6. Na formularzu sprawozdania w pozycji:
-1) „Część” wpisuje się symbol części budżetowej właściwy dla organu, który sprawuje nadzór nad agencją wykonawczą;
-2) „Adresat” wpisuje się wyrazy „Ministerstwo Finansów za pośrednictwem” oraz nazwę właściwego urzędu, którym kieruje organ sprawujący nadzór nad agencją wykonawczą.
-§ 13. 1. Sprawozdania z wykonania planu finansowego państwowego funduszu celowego/agencji wykonawczej/instytucji gospodarki budżetowej/podmiotów, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych sporządza się w zakresie danych i w szczegółowości nie mniejszej niż wynikająca z ustawy budżetowej.
-2. Dane w sprawozdaniu w kolumnie „Wykonanie za rok poprzedzający rok sprawozdawczy” wypełnia się wyłącznie w miesięcznym sprawozdaniu za grudzień w układzie planu finansowego określonego dla bieżącego okresu sprawozdawczego.
-3. W przypadku gdy państwowy fundusz celowy/agencja wykonawcza/instytucja gospodarki budżetowej/podmioty, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych, zostaną utworzone w ciągu roku budżetowego, sprawozdania sporządza się zgodnie z przyjętym planem finansowym na dany rok budżetowy.
-4. W przypadku gdy w ustawie budżetowej wydatki państwowego funduszu celowego są planowane jako przelewy redystrybucyjne, w sprawozdaniu w kolumnie „Wykonanie”, bezpośrednio pod pozycją przelewy redystrybucyjne, wykazuje się faktycznie poniesione ostateczne wydatki na realizację zadań wskazanych w ustawie powołującej fundusz, po wyeliminowaniu wewnętrznych przelewów redystrybucyjnych.
-5. W przypadku gdy państwowy fundusz celowy/agencja wykonawcza/instytucja gospodarki budżetowej/podmioty, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych, realizują wydatki, które nie wygasły z upływem danego roku budżetowego, sprawozdanie uzupełnia się w zakresie kolumn 1 i 2 oraz 5 i 6 w odrębnej części, z odpowiednim odnośnikiem dotyczącym informacji, czy wydatki te zostały ujęte w sprawozdaniu w układzie memoriałowym i kasowym.
-6. W przypadku gdy państwowy fundusz celowy/agencja wykonawcza/instytucja gospodarki budżetowej/podmioty, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych, otrzymują zwroty niewykorzystanych dotacji z budżetu państwa, przyznanych w latach ubiegłych, a kasowo zrealizowanych do końca bieżącego okresu sprawozdawczego, sprawozdanie uzupełnia się w zakresie zwróconych kwot dotacji w odrębnym wierszu, w układzie kasowym części wydatkowej. Danych dotyczących zwróconych kwot nie wykazuje się w pozycjach wskazanych dla układu memoriałowego.
-7. W przypadku gdy państwowy fundusz celowy/agencja wykonawcza/instytucja gospodarki budżetowej/podmioty, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych, w ramach realizacji zadań bieżących lub inwestycyjnych otrzymują lub przekazują, niewyodrębnione w podpozycjach, a ujęte w kwotach ogólnych układu kasowego planu finansowego, środki od/do jednostek objętych zakresem stabilizującej reguły wydatkowej, określonej w art. 112aa ustawy o finansach publicznych, sprawozdanie uzupełnia się o informacje dodatkowe.
-8. Informacje dodatkowe, o których mowa w ust. 7, sporządza się i przekazuje się w Informatycznym Systemie Obsługi Budżetu Państwa.
-9. W przypadku gdy państwowy fundusz celowy/agencja wykonawcza/instytucja gospodarki budżetowej/podmioty, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych, realizują wydatki na programy finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, dane w zakresie wykonanych wydatków na finansowanie z UE i EFTA oraz współfinansowanie krajowe w ramach projektów UE i EFTA wykazuje się w szczegółowości formularzy planistycznych, o których mowa w przepisach wydanych na podstawie art. 138 ust. 6 ustawy o finansach publicznych.
-10. Dane, o których mowa w ust. 5, nie powinny być wykazywane w sprawozdaniach Rb-33 i Rb-35.
-11. Sprawozdanie agencji wykonawczej przed przekazaniem do Ministerstwa Finansów powinno być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, przez organ nadzorujący działalność danej agencji wykonawczej.
-12. Sprawozdanie instytucji gospodarki budżetowej przed przekazaniem do Ministerstwa Finansów powinno być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, przez organ wykonujący funkcje organu założycielskiego.
-13. Sprawozdania podmiotów, o których mowa w art. 9 pkt 14 ustawy o finansach publicznych, z wyjątkiem sprawozdań sporządzanych przez Prezesa ZUS, przed przekazaniem do Ministerstwa Finansów powinny być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, przez organ nadzorujący działalność danego podmiotu.
-14. Na formularzach sprawozdań, o których mowa w ust. 11–13, w pozycji „Adresat” wpisuje się wyrazy „Ministerstwo Finansów za pośrednictwem” oraz nazwę właściwego urzędu, którym kieruje organ sprawujący nadzór lub nazwę właściwego organu wykonującego funkcje organu założycielskiego.
-15. Sprawozdania Funduszu Zapasów Interwencyjnych i Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przed przekazaniem do Ministerstwa Finansów powinny być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, odpowiednio przez organ nadzorujący dysponenta funduszu albo PFRON.
-§ 14. 1. Dysponenci środków budżetu państwa przekazujący jednostkom samorządu terytorialnego dotacje na wykonanie zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami sporządzają na podstawie sprawozdań otrzymanych od zarządów tych jednostek łączne sprawozdania Rb-50 oddzielnie dla gmin, powiatów oraz samorządów województw, w szczegółowości: dział, rozdział, paragraf albo dział, rozdział, grupa paragrafów odrębnie dla:
-1) dotacji;
-2) wydatków.
-2. Dysponenci środków budżetu państwa, o których mowa w art. 149 ust. 2 ustawy o finansach publicznych, przekazują do dysponentów części budżetowych sprawozdania Rb-50 pięć dni przed terminem przekazania sprawozdań do Ministerstwa Finansów.
-3. Sprawozdania, o których mowa w ust. 1, dysponenci części budżetowych przekazują do Ministerstwa Finansów.
-§ 15. 1. Sprawozdanie jednostkowe Rb-70 o zatrudnieniu i wynagrodzeniach sporządzają, na oddzielnych formularzach dla każdego z występujących rodzajów zadań i form organizacyjno-prawnych, z zastrzeżeniem ust. 2, kierownicy:
-1) jednostek budżetowych,
-2) uczelni publicznych – w szczegółowości: dział, rozdział, status zatrudnienia.
-2. Sprawozdanie, o którym mowa w ust. 1, dla placówek sporządzają dysponenci części budżetowych.
-3. Wymienione w ust. 1 państwowe jednostki organizacyjne sporządzają sprawozdania Rb-70, bez uwzględnienia osób zatrudnionych do wykonywania prac interwencyjnych i robót publicznych, zgodnie z rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 24 czerwca 2014 r. w sprawie organizowania prac interwencyjnych i robót publicznych oraz jednorazowej refundacji kosztów z tytułu opłaconych składek na ubezpieczenia społeczne (Dz. U. poz. 864, z późn. zm.).
-4. Zatrudnienie i wynagrodzenia, dla zadania wymienionego w ust. 3, wykazuje się na oddzielnym formularzu, z dokładnym określeniem w tytule formy organizacyjno-prawnej i rodzaju zadania, wyłącznie w zakresie wykonania. W kolumnie 14 – „Wykonanie wynagrodzeń osobowych” należy podać wysokość wynagrodzeń finansowanych przez daną jednostkę organizacyjną (bez ujmowania wynagrodzeń w części finansowanej z Funduszu Pracy).
-5. Państwowe jednostki organizacyjne wymienione w ust. 1 sporządzają sprawozdania dla wszystkich zatrudnionych według statusu zatrudnienia; w odrębnych pozycjach należy wymienić oddzielnie:
-1) osoby nieobjęte mnożnikowymi systemami wynagrodzeń;
-2) osoby zajmujące kierownicze stanowiska państwowe;
-3) członków korpusu służby cywilnej;
-4) etatowych członków samorządowych kolegiów odwoławczych;
-5) sądowych kuratorów zawodowych;
-6) ekspertów, asesorów i aplikantów eksperckich Urzędu Patentowego Rzeczypospolitej Polskiej;
-7) asesorów prokuratorskich i asesorów sądowych;
-8) funkcjonariuszy Służby Celno-Skarbowej;
-9) sędziów i prokuratorów;
-10) żołnierzy zawodowych i funkcjonariuszy;
-11) etatowych członków kolegiów regionalnych izb obrachunkowych;
-12) pracowników Rządowego Centrum Legislacji niezaliczonych do grup pracowniczych wymienionych w pkt 1–11;
-13) członków służby zagranicznej niebędących członkami korpusu służby cywilnej;
-14) nauczycieli zatrudnionych w szkołach i placówkach prowadzonych przez organy administracji rządowej;
-15) członków Krajowej Izby Odwoławczej przy Prezesie Urzędu Zamówień Publicznych;
-16) referendarzy sądowych;
-17) asystentów sędziów i prokuratorów;
-18) specjalistów opiniodawczych zespołów sądowych specjalistów;
-19) posłów i senatorów;
-20) osoby zatrudnione w placówce zagranicznej Rzeczypospolitej Polskiej na podstawie powołania, w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465, z późn. zm.), w tym osoby zatrudnione na czas wykonywania funkcji w placówce przez członka rodziny.
-§ 16. W poszczególnych kolumnach sprawozdania ujmuje się:
-1) w kolumnie 1 symbol części budżetowej;
-2) w kolumnie 2 symbol statystyczny województwa;
-3) w kolumnie 3 dysponenci części budżetowych mogą wprowadzać oznaczenie dysponentów podległych (nie należy wypełniać w sprawozdaniu łącznym dysponenta części budżetowej);
-4) w kolumnie 4 wykazuje się odpowiednie symbole przyjęte do oznaczenia form organizacyjno-prawnych:
-a) 020 – jednostki budżetowe,
-b) 050 – uczelnie publiczne;
-5) w kolumnie 5 – wykazuje się odpowiednie symbole przyjęte do oznaczenia rodzaju zadania:
-a) A – podstawowa działalność jednostki organizacyjnej (nie obejmuje zadania wymienionego jako B),
-b) B – osoby zatrudnione do prac interwencyjnych i robót publicznych;
-6) w kolumnach 6 i 7 – wprowadza się odpowiednio dział i rozdział według klasyfikacji budżetowej;
-7) w kolumnie 8 – podaje się następujące symbole dla statusu zatrudnienia:
-a) 01 – osoby nieobjęte mnożnikowymi systemami wynagrodzeń,
-b) 02 – osoby zajmujące kierownicze stanowiska państwowe,
-c) 03 – członkowie korpusu służby cywilnej,
-d) 04 – etatowi członkowie samorządowych kolegiów odwoławczych,
-e) 05 – sądowi kuratorzy zawodowi,
-f) 06 – eksperci, asesorzy i aplikanci eksperccy Urzędu Patentowego Rzeczypospolitej Polskiej,
-g) 07 – asesorzy prokuratorscy i asesorzy sądowi,
-h) 08 – funkcjonariusze Służby Celno-Skarbowej,
-i) 09 – sędziowie i prokuratorzy,
-j) 10 – żołnierze zawodowi i funkcjonariusze,
-k) 11 – etatowi członkowie kolegiów regionalnych izb obrachunkowych,
-l) 12 – pracownicy Rządowego Centrum Legislacji niezaliczeni do grup pracowniczych wymienionych w lit. a–k,
-m) 13 – członkowie służby zagranicznej niebędący członkami korpusu służby cywilnej,
-n) 14 – nauczyciele zatrudnieni w szkołach i placówkach prowadzonych przez organy administracji rządowej,
-o) 15 – członkowie Krajowej Izby Odwoławczej przy Prezesie Urzędu Zamówień Publicznych,
-p) 16 – referendarze sądowi,
-r) 17 – asystenci sędziów i prokuratorów,
-s) 18 – specjaliści opiniodawczych zespołów sądowych specjalistów,
-t) 19 – posłowie i senatorowie,
-u) 20 – osoby zatrudnione w placówce zagranicznej Rzeczypospolitej Polskiej na podstawie powołania, w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, w tym osoby zatrudnione na czas wykonywania funkcji w placówce przez członka rodziny;
-8) w kolumnie 9 – „Plan po zmianach” wykazuje się plan zatrudnienia jednostki w ujęciu średniorocznym (dysponenci części budżetowych dane zbiorcze wypełniają z dokładnością do osoby, a dysponenci pozostałych stopni oraz kierownicy uczelni publicznych z dokładnością do dwóch miejsc po przecinku), na które jednostka sprawozdawcza otrzymała wynagrodzenia osobowe, nie wliczając osób zatrudnionych poza granicami kraju;
-przyznane zwiększenie zatrudnienia w ciągu roku, z późniejszym terminem uruchomienia, a także w odniesieniu do jednostek, które w danym roku uległy likwidacji lub przekształceniu, należy wykazać w planie, również w ujęciu średniorocznym; jednostki zaliczone do działu 751 – urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa – podają zatrudnienie ustalone we własnym zakresie;
-9) w kolumnie 10 – „Przeciętne wykonanie w okresie sprawozdawczym” wykazuje się przeciętną liczbę zatrudnionych, w przeliczeniu na pełnozatrudnionych (dysponenci części budżetowych dane zbiorcze wypełniają z dokładnością do osoby, a dysponenci pozostałych stopni oraz kierownicy uczelni publicznych z dokładnością do dwóch miejsc po przecinku) w okresie sprawozdawczym, przy czym:
-a) przeciętną liczbę zatrudnionych w okresie sprawozdawczym oblicza się, dodając przeciętne liczby zatrudnionych, w tym także na zastępstwo, w poszczególnych miesiącach roku, które upłynęły od początku roku do końca okresu sprawozdawczego, i dzieląc otrzymaną sumę przez liczbę tych miesięcy; przeciętną liczbę zatrudnionych w danym miesiącu oblicza się, dodając połowę stanu zatrudnionych na początku miesiąca, stan zatrudnionych w 15. dniu miesiąca oraz połowę stanu w ostatnim dniu miesiąca; otrzymaną sumę dzieli się przez 2,
-b) do stanu zatrudnionych nie wlicza się osób, które nie otrzymują za dany okres wynagrodzenia od zakładu pracy, tj. np. osób będących na urlopach bezpłatnych, wychowawczych i macierzyńskich oraz zasiłkach chorobowych,
-c) w odniesieniu do jednostek, które w danym roku uległy przekształceniu lub likwidacji, podaje się w wykonaniu przeciętną liczbę zatrudnionych za okres, w którym te jednostki funkcjonowały w państwowej sferze budżetowej; oznacza to, że jeżeli jednostka np. funkcjonowała przez 4 miesiące i zatrudniała 15 osób, to średniorocznie wykazuje 5 osób (15 osób x 4 miesiące: 12 miesięcy),
-d) zatrudnienie osób niepełnosprawnych należy ujmować tylko z tych miesięcy, w których wynagrodzenia tych osób były finansowane z wynagrodzeń danej jednostki, w przeliczeniu na przeciętną liczbę zatrudnionych w okresie sprawozdawczym;
-oznacza to, że jeżeli w ciągu roku były zatrudnione 4 osoby niepełnosprawne, których wynagrodzenia co drugi miesiąc były finansowane z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, to średniorocznie wykazuje się 2 osoby;
-10) w kolumnie 11 – „Stan na koniec okresu sprawozdawczego” wykazuje się liczbę zatrudnionych w ostatnim dniu okresu sprawozdawczego w przeliczeniu na pełnozatrudnionych (dysponenci części budżetowych dane zbiorcze wypełniają z dokładnością do osoby, a dysponenci pozostałych stopni oraz kierownicy uczelni publicznych z dokładnością do dwóch miejsc po przecinku), tj. podaje się stan ewidencyjny pełnozatrudnionych (po przeliczeniu);
-11) w kolumnach 12 i 13 – wykazuje się wydatki klasyfikowane w § 401–407 i § 479–480 klasyfikacji budżetowej, ustalone dla jednostki sprawozdawczej w ramach wynagrodzeń określonych w ustawie budżetowej na dany rok, tj. plan po zmianach wprowadzonych na podstawie obowiązujących przepisów przez dysponentów środków budżetowych.
-W kolumnie „Plan po zmianach” w państwowych jednostkach budżetowych dane liczbowe powinny obejmować wynagrodzenia wynikające z załącznika do ustawy budżetowej „Wynagrodzenia w państwowych jednostkach budżetowych” – w sprawozdaniu dysponenta części budżetowej, a w przypadku sprawozdań jednostek podległych – kwoty wynagrodzeń określone przez dysponenta części budżetowej, powiększone o:
-a) wynagrodzenia przyznane z rezerwy na zmiany organizacyjne i nowe zadania na podstawie uchwał Rady Ministrów,
-b) wynagrodzenia na podstawie decyzji Ministra Finansów w związku z rozdysponowaniem rezerw celowych – przy czym plan po zmianach powinien również uwzględniać zmiany wprowadzone na podstawie art. 171, art. 172 i art. 194 ustawy o finansach publicznych oraz na podstawie art. 10a ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2024 r. poz. 1356);
-12) w kolumnach 14 i 15 – wykazuje się wykonanie wydatków klasyfikowanych w § 401–407 i § 479–480 klasyfikacji budżetowej, od początku roku do końca okresu sprawozdawczego;
-w kolumnach tych nie uwzględnia się wypłat wynagrodzeń finansowanych z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych oraz Funduszu Pracy.
-§ 17. 1. W kolumnach 14 i 15 kwoty wynagrodzeń powinny być ujmowane w wysokości zgodnej z kwotami brutto listy płac (łącznie ze składkami na ubezpieczenia społeczne opłacanymi przez ubezpieczonych oraz z zaliczką na podatek dochodowy od tych wynagrodzeń, niezależnie od terminu płatności). Dane liczbowe wykazane w „Wykonaniu” według list płac brutto nie mogą przekraczać ustalonego zgodnie z § 16 pkt 11 planu po zmianach wynagrodzeń.
-2. Wypłaty dodatkowych wynagrodzeń rocznych pracownikom, z którymi rozwiązano stosunek pracy w związku z likwidacją pracodawcy, zgodnie z art. 5 ust. 3 ustawy z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. z 2023 r. poz. 1690, z późn. zm.) ujmuje się w kolumnie 15.
-§ 18. 1. Dysponenci części budżetowych sporządzają sprawozdanie łączne w szczegółowości określonej dla sprawozdań jednostkowych i przekazują na elektroniczną skrzynkę podawczą Głównego Urzędu Statystycznego.
-2. Sprawozdanie sporządza się według wytycznych Głównego Urzędu Statystycznego zamieszczonych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-3. W sporządzonych przez dysponentów części budżetowych sprawozdaniach Rb-70 nie wykazuje się pozycji zbiorczych.
-§ 19. 1. Kierownik placówki sporządza i przekazuje do dysponenta części budżetowej sprawozdania jednostkowe:
-1) Rb-23PL sprawozdanie z rozliczenia środków pieniężnych placówki;
-2) Rb-27PL sprawozdanie z wykonania planu dochodów budżetowych placówki;
-3) Rb-28PL sprawozdanie z wykonania planu wydatków budżetowych placówki;
-4) Rb-34PL sprawozdanie z wykonania dochodów i wydatków na rachunku, o którym mowa w art. 163 ustawy o finansach publicznych.
-2. Dane w sprawozdaniach wykazuje się:
-1) w zakresie planu w kwotach wynikających z planów finansowych placówki;
-2) w zakresie wykonania narastająco od początku roku do końca okresu sprawozdawczego lub według stanu na określony dzień w przypadkach określonych w sprawozdaniach.
-3. Sprawozdanie jednostkowe sporządza się w walucie, w której jest prowadzona rachunkowość.
-4. Sprawozdanie, o którym mowa w ust. 1 pkt 1, sporządza się, wykazując:
-1) w rubrykach 2 i 3 nazwę i symbol waluty, w której sporządzane jest sprawozdanie;
-2) w wierszu 1 stan środków pieniężnych na dzień 1 stycznia na rachunkach bankowych i w kasie – suma sald konta 101 „Kasa” i 131 „Rachunki bieżące”;
-3) w wierszu 2 pozostałość dochodów wykonanych w roku ubiegłym saldo konta 750 „Dochody budżetowe”;
-4) w wierszu 3 pozostałość środków budżetowych otrzymanych w roku ubiegłym na wykonywanie wydatków, jeżeli przepisy odrębne tak stanowią część salda konta 810 „Fundusz środków na wydatki budżetowe”;
-5) w wierszu 4 dane ustalone na podstawie bilansu kont szczegółowych, prowadzonych w ramach kont syntetycznych dla dochodów, o których mowa w art. 163 ust. 1 ustawy o finansach publicznych;
-6) w wierszu 5 stałą zaliczkę część salda konta 200 „Rozrachunki”;
-7) w wierszu 6 dane ustalone na podstawie bilansu kont szczegółowych, prowadzonych w ramach kont syntetycznych sum obcych;
-8) w wierszu 7 środki budżetowe przyznane przez dysponenta części budżetowej w okresie sprawozdawczym na wykonywanie wydatków budżetowych;
-9) w wierszu 8 wykonane dochody budżetowe w okresie sprawozdawczym;
-10) w wierszu 9 wykonane wydatki w okresie sprawozdawczym;
-11) w wierszu 9a wykonane wydatki w okresie sprawozdawczym ze środków stałej zaliczki przyznanej w latach poprzednich;
-12) w wierszu 10 stan środków pieniężnych na koniec okresu sprawozdawczego na rachunkach bankowych i w kasie – suma sald konta 101 „Kasa” i 131 „Rachunki bieżące”;
-13) w wierszu 11 pozostałość dochodów budżetowych wykonanych w placówce; saldo konta 750 „Dochody budżetowe”;
-14) w wierszu 12 pozostałość środków budżetowych przyznanych przez dysponenta części budżetowej na wykonywanie wydatków; część salda konta 810 „Fundusz środków na wydatki budżetowe”;
-15) w wierszu 13 dane ustalone na podstawie bilansu kont szczegółowych, prowadzonych w ramach kont syntetycznych dla dochodów, o których mowa w art. 163 ust. 1 ustawy o finansach publicznych;
-16) w wierszu 14 stałą zaliczkę część salda konta 200 „Rozrachunki”;
-17) w wierszu 15 dane ustalone na podstawie bilansu kont szczegółowych, prowadzonych w ramach kont syntetycznych dla sum obcych.
-5. Sprawozdanie, o którym mowa w ust. 1 pkt 2, sporządza się, wykazując:
-1) w rubryce 2 i 3 nazwę i symbol waluty, w której jest sporządzane sprawozdanie;
-2) w kolumnie „Plan” kwoty wynikające z planu finansowego dochodów placówki;
-3) w kolumnie „Wykonanie” na podstawie danych ewidencji analitycznej dochodów budżetowych prowadzonej do konta 750 „Dochody budżetowe”, kwoty zrealizowanych dochodów budżetowych po zmniejszeniu o dokonane zwroty; jeżeli suma zwrotów przewyższa sumę wpłat, różnicę wykazuje się jako liczbę ujemną.
-6. Sprawozdanie, o którym mowa w ust. 1 pkt 3, sporządza się, wykazując:
-1) w rubryce 2 i 3 nazwę i symbol waluty, w której jest sporządzane sprawozdanie;
-2) w kolumnie „Plan” kwoty wynikające z planu finansowego wydatków placówki;
-3) w kolumnie „Wykonanie” kwoty wykonanych wydatków budżetowych placówki na podstawie danych ewidencji analitycznej wydatków budżetowych, prowadzonej do konta 400 „Wydatki budżetowe”.
-7. Sprawozdanie jednostkowe, o którym mowa w ust. 1 pkt 4, sporządza się w szczegółowości: dział, rozdział, paragraf, wykazując:
-1) w dziale A. „Dochody”:
-a) w kolumnie „plan” kwoty dochodów planowanych w ramach planu finansowego,
-b) w kolumnie „wykonanie” kwoty dochodów na podstawie danych ewidencji analitycznej dochodów, o których mowa w art. 163 ust. 1 ustawy o finansach publicznych;
-2) w dziale B. „Wydatki”:
-a) w kolumnie „plan” kwoty wydatków planowanych w ramach planu finansowego,
-b) w kolumnie „wykonanie” kwoty wydatków na podstawie danych ewidencji analitycznej wydatków, o których mowa w art. 163 ust. 3 ustawy o finansach publicznych,
-c) w wierszu K 150 „Stan środków pieniężnych na początek okresu sprawozdawczego” stan środków pieniężnych na dzień 1 stycznia na rachunku bankowym i w kasie ustalony na podstawie konta szczegółowego, prowadzonego w ramach konta syntetycznego, dla dochodów, o których mowa w art. 163 ust. 1 ustawy o finansach publicznych,
-d) w wierszu P 150 „Stan środków pieniężnych na koniec okresu sprawozdawczego” stan środków pieniężnych na koniec okresu sprawozdawczego na rachunkach bankowych i w kasie ustalony na podstawie konta szczegółowego, prowadzonego w ramach konta syntetycznego, dla dochodów, o których mowa w art. 163 ust. 1 ustawy o finansach publicznych.
-§ 20. 1. Dysponent części budżetowej wykazuje, w zależności od okresu sprawozdawczego, w sprawozdaniu łącznym o dochodach odpowiednio:
-1) dane ze sprawozdań placówek;
-2) kwoty wynikające z otrzymanych przelewów pieniężnych dochodów budżetowych z placówek, otrzymane w danym okresie sprawozdawczym;
-3) kwoty przekazanych środków pieniężnych z rachunku bieżącego wydatków na rachunek bieżący dochodów stanowiące równowartość zrealizowanych przez placówkę dochodów w danym okresie sprawozdawczym i pozostawionych w placówce, jako środki przyznane na finansowanie wydatków.
-2. Sprawozdanie łączne o dochodach w poszczególnych okresach sprawozdawczych dysponent części budżetowej sporządza następująco:
-1) za miesiąc styczeń włącza do sprawozdania Rb-27 kwoty, o których mowa w ust. 1 pkt 2 i 3, i wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-2) za miesiąc luty włącza do sprawozdania Rb-27 kwoty, o których mowa w ust. 1 pkt 2 i 3, i wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-3) za miesiąc marzec włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, kwoty ze sprawozdań placówek o dochodach za I kwartał – po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-4) za miesiąc kwiecień włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za I kwartał, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-5) za miesiąc maj włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za I kwartał, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-6) za miesiąc czerwiec włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, kwoty ze sprawozdań placówek o dochodach za II kwartały – po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-7) za miesiąc lipiec włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za II kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-8) za miesiąc sierpień włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za II kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-9) za miesiąc wrzesień włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, kwoty ze sprawozdań placówek o dochodach za III kwartały po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-10) za miesiąc październik włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-11) za miesiąc listopad włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-12) za miesiąc grudzień włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
-13) za rok włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, kwoty ze sprawozdań placówek o dochodach za IV kwartały po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku do końca roku, na dzień kończący rok budżetowy, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie, określonym w klasyfikacji budżetowej dla różnic kursowych.
-3. Dysponent części budżetowej wykazuje, w zależności od okresu sprawozdawczego, w sprawozdaniu łącznym o wydatkach (Rb-28) odpowiednio:
-1) dane ze sprawozdań placówek;
-2) kwoty środków pieniężnych przekazanych placówkom na wydatki budżetowe w danym okresie sprawozdawczym;
-3) kwoty środków pieniężnych przekazanych w danym okresie sprawozdawczym z rachunku bieżącego wydatków na rachunek bieżący dochodów stanowiące równowartość zrealizowanych dochodów przez placówki i pozostawionych im jako środki przyznane na finansowanie wydatków.
-4. Sprawozdanie łączne o wydatkach w poszczególnych okresach sprawozdawczych dysponent części budżetowej sporządza następująco:
-1) za miesiąc styczeń włącza do sprawozdania Rb-28 kwoty, o których mowa w ust. 3 pkt 2 i 3, i wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-2) za miesiąc luty włącza do sprawozdania Rb-28 kwoty, o których mowa w ust. 3 pkt 2 i 3, i wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-3) za miesiąc marzec włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, kwoty ze sprawozdań placówek za I kwartał po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-4) za miesiąc kwiecień włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za I kwartał, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-5) za miesiąc maj włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za I kwartał, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-6) za miesiąc czerwiec włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, kwoty ze sprawozdań placówek za II kwartały po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-7) za miesiąc lipiec włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za II kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-8) za miesiąc sierpień włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za II kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-9) za miesiąc wrzesień włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, kwoty ze sprawozdań placówek za III kwartały po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-10) za miesiąc październik włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-11) za miesiąc listopad włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-12) za miesiąc grudzień włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
-13) za rok włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, kwoty ze sprawozdań placówek za IV kwartały po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku do końca roku, na dzień kończący rok budżetowy, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, po uwzględnieniu zwrotów środków z placówek, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie określonym w klasyfikacji budżetowej dla różnic kursowych.
-5. Dysponent części budżetowej sporządza sprawozdanie łączne Rb-34PL na podstawie danych ze sprawozdań placówek, po przeliczeniu ich na złote przy zastosowaniu kursu średniego NBP, aktualnego na dzień kończący okres sprawozdawczy.
-6. Dysponent części budżetowej sporządza sprawozdanie łączne Rb-23PL na podstawie sprawozdań placówek Rb-23PL za IV kwartały, w zakresie danych dotyczących wierszy od 1 do 6 i od 10 do 15, po ich przeliczeniu przy zastosowaniu kursu średniego NBP aktualnego na dzień kończący rok budżetowy.
-7. Dysponent części budżetowej na otrzymanych sprawozdaniach jednostkowych umieszcza adnotację o kursie waluty, według którego są przeliczane dane ze sprawozdań jednostkowych.
-8. Do czasu otrzymania oryginałów sprawozdań dane ze sprawozdań przekazanych faksem lub pocztą elektroniczną mogą być włączone do sprawozdań łącznych dysponenta części budżetowej.
-9. Przesłanie sprawozdania faksem lub pocztą elektroniczną nie zwalnia kierownika placówki z obowiązku przekazania oryginału sprawozdania.
-10. Dysponent części budżetowej sprawdza, czy otrzymany oryginał sprawozdania jest zgodny ze sprawozdaniem przekazanym faksem lub pocztą elektroniczną. Jeżeli dane wykazane w sprawozdaniu przekazanym faksem lub pocztą elektroniczną są niezgodne z danymi wykazanymi w oryginale sprawozdania placówki, dysponent części budżetowej koryguje sprawozdanie łączne za bieżący okres sprawozdawczy.
-11. Dopuszcza się, aby w sytuacjach kryzysowych (np. ewakuacja placówki), gdy nie jest możliwe otrzymanie sprawozdania z placówki, dysponent części budżetowej włączył do sprawozdania łącznego dane placówki z poprzedniego okresu sprawozdawczego w ramach danego roku budżetowego oraz:
-1) w zakresie dochodów:
-a) kwoty wynikające z otrzymanych przelewów pieniężnych dochodów budżetowych z placówek, otrzymane w danym okresie sprawozdawczym,
-b) kwoty przekazanych środków pieniężnych – z rachunku bieżącego wydatków na rachunek bieżący dochodów – stanowiące równowartość dochodów zrealizowanych przez placówkę w danym okresie sprawozdawczym i pozostawionych w placówce jako środki przyznane na finansowanie wydatków;
-2) w zakresie wydatków:
-a) kwoty środków pieniężnych przekazanych placówkom na wydatki budżetowe w danym okresie sprawozdawczym,
-b) kwoty przekazanych w danym okresie sprawozdawczym środków pieniężnych – z rachunku bieżącego wydatków na rachunek bieżący dochodów – stanowiące równowartość zrealizowanych dochodów przez placówki i pozostawionych im jako środki przyznane na finansowanie wydatków;
-3) odpowiednio dane, o których mowa w pkt 1 i 2, w przypadku braku sprawozdań w danym roku budżetowym; dane te należy wykazać w paragrafie „nierozliczone dochody otrzymane z placówek polskich za granicą” w sprawozdaniu Rb-27 i w paragrafie „nierozliczone środki budżetowe przekazane jednostkom budżetowym mającym siedziby poza granicami Rzeczypospolitej Polskiej na finansowanie wydatków” w sprawozdaniu Rb-28.
-§ 21. Sprawozdanie sporządza się zgodnie z treścią formularza.
-§ 22. Sprawozdanie sporządza się zgodnie z treścią formularza.
-§ 23. Sprawozdanie sporządza się zgodnie z treścią formularza.
-§ 24. 1. Sprawozdanie sporządza się w odniesieniu do wydatków w zakresie programów realizowanych ze środków pochodzących z budżetu Unii Europejskiej oraz niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA, z wyłączeniem wydatków ze środków na realizację Wspólnej Polityki Rolnej, o których mowa w art. 5 ust. 3 pkt 4 ustawy o finansach publicznych – finansowanych w ramach budżetu państwa (tj. z wyłączeniem wydatków w ramach budżetu środków europejskich ujętych w sprawozdaniu Rb-28 UE).
-2. Sprawozdanie sporządza się w szczegółowości: program, część, dział, rozdział, paragraf;
-sumowaniu podlegają kwoty wyszczególnione w programach.
-3. Sprawozdanie sporządza się w zakresie następujących danych: „Plan (po zmianach)”, „Zaangażowanie”, „Wykonanie wydatków” – w podziale na wkład Unii Europejskiej oraz wkład budżetu państwa.
-4. Wkład Unii Europejskiej – dotyczy wydatków budżetu państwa na realizację programów i projektów podlegających refundacji z budżetu Unii Europejskiej, z wyłączeniem wydatków ze środków na realizację Wspólnej Polityki Rolnej, lub niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „1”, „5” lub „8”.
-5. Wkład budżetu państwa – dotyczy wydatków budżetu państwa na współfinansowanie krajowe wkładu publicznego w realizację programów i projektów finansowanych z budżetu Unii Europejskiej, z wyłączeniem wydatków ze środków na realizację Wspólnej Polityki Rolnej, lub niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „2”, „6”, „9”.
-6. Sprawozdanie sporządza się następująco:
-1) w kolumnie „Nazwa Programu” należy powtórzyć tyle razy nazwę danego programu, ile wystąpi wierszy w kolumnach: „dział”, „rozdział”, „paragraf”;
-2) w kolumnach: „część”, „dział”, „rozdział”, „paragraf” należy kolejno wypełniać wszystkie pola dla danego paragrafu;
-3) w kolumnie „Plan (po zmianach)” wykazuje się dane o planowanych wydatkach, z uwzględnieniem zmian dokonanych w trybie określonym w ustawie o finansach publicznych;
-4) w kolumnie „Zaangażowanie” wykazuje się kwoty wynikające z zawartych z beneficjentami umów o dofinansowanie, decyzji, porozumień i innych dokumentów, których wykonanie powoduje konieczność dokonania wydatków budżetowych w roku bieżącym;
-5) w kolumnie „Wykonanie wydatków” wykazuje się wykonane wydatki, na podstawie danych księgowości analitycznej do konta rachunek bieżący jednostki budżetowej.
-7. W kolumnie „Nazwa Programu” punkty oraz programy w ramach punktów mogą być uszeregowane w kolejności innej, niż podana we wzorze sprawozdania.
-§ 25. 1. Sprawozdanie sporządza się w odniesieniu do wydatków w zakresie programów realizowanych ze środków pochodzących z budżetu Unii Europejskiej na realizację Wspólnej Polityki Rolnej, o których mowa w art. 5 ust. 3 pkt 4 ustawy o finansach publicznych, finansowanych w ramach budżetu państwa (z wyłączeniem wydatków w ramach budżetu środków europejskich ujętych w sprawozdaniu Rb-28UE WPR).
-2. Sprawozdanie sporządza się w szczegółowości: program, część, dział, rozdział, paragraf;
-sumowaniu podlegają kwoty wyszczególnione w programach.
-3. Sprawozdanie sporządza się w zakresie następujących danych: „Plan (po zmianach)”, „Zaangażowanie”, „Wykonanie wydatków” – w podziale na wkład Unii Europejskiej oraz wkład budżetu państwa.
-4. Wkład Unii Europejskiej – dotyczy wydatków budżetu państwa na realizację programów i projektów podlegających refundacji z budżetu Unii Europejskiej na realizację Wspólnej Polityki Rolnej i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „8”.
-5. Wkład budżetu państwa – dotyczy wydatków budżetu państwa na współfinansowanie krajowe wkładu publicznego w realizację programów i projektów finansowanych z budżetu Unii Europejskiej, na realizację Wspólnej Polityki Rolnej i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „9”.
-6. Sprawozdanie sporządza się następująco:
-1) w kolumnie „Nazwa Programu” należy powtórzyć tyle razy nazwę danego programu, ile wystąpi wierszy w kolumnach: „dział”, „rozdział”, „paragraf”;
-2) w kolumnach „część”, „dział”, „rozdział”, „paragraf” należy kolejno wypełniać wszystkie pola dla danego paragrafu;
-3) w kolumnie „Plan (po zmianach)” wykazuje się dane o planowanych wydatkach, z uwzględnieniem zmian dokonanych w trybie określonym w ustawie o finansach publicznych;
-4) w kolumnie „Zaangażowanie” wykazuje się kwoty wynikające z decyzji, umów zawartych z beneficjentami programu i innych umów i postanowień, które powodują konieczność wydatkowania w danym roku budżetowym środków na realizację Wspólnej Polityki Rolnej;
-5) w kolumnie „Wykonanie wydatków” wykazuje się wykonane wydatki, na podstawie danych księgowości analitycznej do konta rachunek bieżący jednostki budżetowej.
-§ 26. 1. Sprawozdanie sporządza się w odniesieniu do wydatków w zakresie programów realizowanych ze środków pochodzących z budżetu Unii Europejskiej oraz niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA – finansowanych w ramach budżetu państwa (tj. z wyłączeniem wydatków w ramach budżetu środków europejskich ujętych w sprawozdaniu Rb-28 UE), które nie wygasły z upływem roku budżetowego.
-2. Dysponenci środków budżetu państwa realizujący wydatki, o których mowa w art. 181 ust. 2 ustawy o finansach publicznych, sporządzają sprawozdania z wykonania planów tych wydatków w szczegółowości: część, dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w programach.
-3. Sprawozdanie sporządza się w zakresie następujących danych: „Plan”, „Wykonanie wydatków” – w podziale na wkład Unii Europejskiej oraz wkład budżetu państwa.
-4. Wkład Unii Europejskiej – dotyczy wydatków budżetu państwa na realizację programów i projektów podlegających refundacji z budżetu Unii Europejskiej lub niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „1”, „5” lub „8”.
-5. Wkład budżetu państwa – dotyczy wydatków budżetu państwa na współfinansowanie krajowego wkładu publicznego w realizację programów i projektów finansowanych z budżetu Unii Europejskiej lub niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „2”, „6”, „9”.
-6. W kolumnie „Nazwa Programu” należy powtórzyć tyle razy nazwę danego programu, ile wystąpi wierszy w kolumnach: „dział”, „rozdział”, „paragraf”.
-7. W kolumnach: „część”, „dział”, „rozdział”, „paragraf” należy kolejno wypełniać wszystkie pola dla danego paragrafu.
-8. W kolumnie „Plan” wykazuje się plan finansowy, ustalony przez Radę Ministrów, o którym mowa w art. 181 ust. 2 ustawy o finansach publicznych.
-9. W kolumnie „Wykonanie wydatków” wykazuje się wykonanie wydatków na podstawie danych księgowości analitycznej do rachunku dla środków na wydatki niewygasające.
-10. Dane w sprawozdaniach wykazuje się według klasyfikacji budżetowej obowiązującej w roku, w którym plan został ustalony przez Radę Ministrów.
-§ 27. 1. Korekty danych dotyczących poprzednich okresów sprawozdawczych uwzględnia się odpowiednio w sprawozdaniach sporządzanych za bieżący okres sprawozdawczy, z uwzględnieniem § 9 ust. 7 rozporządzenia.
-2. Miesięczne sprawozdania Rb-40, Rb-FUS, Rb-FER i Rb-FEP za grudzień, sprawozdania za IV kwartały i łączne sprawozdania roczne mogą być korygowane w terminie do dnia 30 kwietnia roku następującego po roku budżetowym. Przekazując korektę sprawozdania, należy dołączyć wyjaśnienie przyczyny dokonywania korekty.
-§ 28. 1. W Informatycznym Systemie Obsługi Budżetu Państwa przekazuje się sprawozdania Rb-23, Rb-24, Rb-27, Rb-28, Rb-28NW, Rb-28 Programy, Rb-28 Programy WPR, Rb-28NW Programy, Rb-33, Rb-34, Rb-35, Rb-40, Rb-50 i łączne Rb-34PL.
-2. Szczegółowy sposób sporządzania i przekazywania sprawozdań w Informatycznym Systemie Obsługi Budżetu Państwa jest wskazany w tym systemie w Module Sprawozdawczości Budżetowej w zakładce „Instrukcja”.
-3. Sprawozdania Rb-28 Programy i Rb-28NW Programy Ministerstwo Finansów udostępnia ministrowi właściwemu do spraw rozwoju regionalnego oraz ministrowi właściwemu do spraw wewnętrznych.
-4. Sprawozdania Rb-28 Programy WPR Ministerstwo Finansów udostępnia ministrowi właściwemu do spraw rozwoju wsi.
-5. W przypadku zmiany organu dysponującego częścią budżetu państwa, w terminie innym niż dzień kończący okres sprawozdawczy lub dzień kończący rok sprawozdawczy, sprawozdania, o których mowa w ust. 1, przekazuje się, nie później niż 3 dni przed terminem sporządzenia tych sprawozdań za kolejny okres sprawozdawczy, na elektroniczną skrzynkę podawczą organu przejmującego uprawnienia do dysponowania częścią budżetową.
-§ 29. 1. Sprawozdania Rb-70, Rb-FUS, Rb-FER i Rb-FEP przekazuje się na elektroniczną skrzynkę podawczą odbiorcy.
-2. Sprawozdania, o których mowa w ust. 1, sporządza się w arkuszu kalkulacyjnym; wzory formularzy znajdują się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-
 #### Rozdział 1 Sprawozdanie Rb-23 o stanie środków na rachunkach bankowych państwowych jednostek budżetowych
+
+**§ 1.** Sprawozdanie sporządza się zgodnie z treścią formularza.
+
+**§ 2.**
+
+1. W sprawozdaniu jednostkowym:
+
+- **1)** w wierszach 11, 12, 13, 22, 24, 42 i 45 wykazywane dane powinny być zgodne z danymi dostępnymi w Informatycznym Systemie Obsługi Budżetu Państwa;
+- **2)** w wierszach 14 i 15 wyszczególnia się stan środków na rachunku bieżącym dochodów dotyczący odpowiednio dochodów państwowej jednostki budżetowej oraz pozostałych wpływów niewykazanych w sprawozdaniu Rb-27;
+- **3)** w wierszu 21 dysponent części budżetowej wykazuje środki otrzymane z Ministerstwa Finansów, dysponent drugiego stopnia od dysponenta części budżetowej, dysponent trzeciego stopnia, odpowiednio, od dysponenta drugiego stopnia lub od dysponenta części budżetowej, na realizację planu wydatków bieżącego roku; otrzymane środki pomniejsza się o dokonane zwroty i środki przekazane dysponentom podległym, z wyłączeniem placówek;
+- **4)** w wierszu 31 wykazuje się środki na wynagrodzenia wypłacone „z dołu” za dany miesiąc i zaliczone do wydatków danego okresu sprawozdawczego (ujęte w sprawozdaniu Rb-28), które zostały pobrane z banków krajowych, z wyjątkiem banków spółdzielczych, w ramach zastępczej obsługi bankowej, lecz nie obciążają jeszcze rachunków bieżących wydatków państwowych jednostek budżetowych w oddziałach okręgowych Narodowego Banku Polskiego (NBP);
+- **5)** w wierszu 32 wykazuje się środki na wynagrodzenia wypłacone „z góry” przekazane do końca okresu sprawozdawczego na rachunki pracowników lub przekazane na rachunki pomocnicze w bankach spółdzielczych z rachunków bieżących państwowych jednostek budżetowych prowadzonych w oddziałach okręgowych NBP, na wypłatę wynagrodzeń w następnym miesiącu (okresie sprawozdawczym), które obciążają rachunki bieżące wydatków państwowych jednostek budżetowych, a nie dotyczą danego okresu sprawozdawczego (nieujęte w sprawozdaniu Rb-28);
+- **6)** w wierszu 41 dysponenci środków budżetu państwa wykazują środki otrzymane w sposób wskazany w pkt 3;
+- **7)** w wierszach 52–57 wykazuje się środki według stanu na koniec okresu sprawozdawczego: nie wykazuje się środków na rachunkach placówek – środki w walutach obcych przelicza się na złote przy zastosowaniu kursu średniego Narodowego Banku Polskiego, aktualnego na dzień kończący okres sprawozdawczy;
+    - **a)** na rachunkach pomocniczych dla obsługi budżetu państwa w zakresie krajowych środków finansowych, o których mowa w przepisach wydanych na podstawie art. 199 ust. 3 ustawy o finansach publicznych, w tym sum na zlecenie; nie wykazuje się środków z wiersza 45,
+    - **b)** na rachunkach, o których mowa w art. 11a ustawy o finansach publicznych,
+    - **c)** na rachunkach, na których gromadzone są środki, o których mowa w art. 5 ust. 4 ustawy o finansach publicznych,
+    - **d)** na wszystkich pozostałych rachunkach, prowadzonych przez jednostkę, niewymienionych w wierszach 52, 54 i 55 z wyszczególnieniem sum depozytowych;
+
+- **8)** w wierszu 61 wykazuje się środki w drodze, które nie wpłynęły na rachunek bieżący NBP do końca okresu sprawozdawczego, dotyczące dochodów państwowej jednostki budżetowej wykazane w sprawozdaniu Rb-27, stanowiące wpłaty z tytułu dochodów dokonane w kasie jednostki, w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640, z późn. zm.), zwanej dalej „ustawą – Prawo pocztowe”, w biurze usług płatniczych, w instytucji płatniczej lub w instytucji pieniądza elektronicznego oraz wpłaty przekazane do banków w ramach zastępczej obsługi kasowej.
+
+2. W sprawozdaniu kwota wykazana w wierszu 11 powinna być zgodna z sumą kwot wykazanych w wierszach 12, 14 i 61, z wyłączeniem sprawozdań dysponentów części budżetowych, którym podlegają placówki.
+
+3. W sprawozdaniu kwota środków otrzymanych na realizację planu wydatków bieżącego roku powinna być uzgodniona z dysponentem wyższego stopnia; kwota środków przekazanych z Ministerstwa Finansów jest dostępna w Informatycznym Systemie Obsługi Budżetu Państwa.
+
+4. W sprawozdaniu za rok kwota wykazana w wierszu 11 jest zgodna z kwotą wykazaną w wierszu 12, a kwota wykazana w wierszu 21 jest zgodna z kwotą wykazaną w wierszu 22.
 
 #### Rozdział 2 Sprawozdanie Rb-24 o stanie środków na rachunkach bankowych urzędów skarbowych
 
+**§ 3.**
+
+1. Sprawozdanie jednostkowe sporządza się w sposób określony w formularzu, na którym są naniesione wyjaśnienia dotyczące wypełniania.
+
+2. W sprawozdaniu jednostkowym w wierszach 1–5 w kolumnach 6 i 9, w wierszu 8 lit. a i b w kolumnie 5 oraz w wierszu 10 w kolumnie 5 wykazywane dane powinny być zgodne z danymi dostępnymi w Informatycznym Systemie Obsługi Budżetu Państwa.
+
 #### Rozdział 3 Sprawozdanie Rb-27 z wykonania planu dochodów budżetowych
+
+**§ 4.** Sprawozdania jednostkowe miesięczne i roczne składane przez:
+
+- **1)** dysponentów środków budżetu państwa wszystkich stopni,
+- **2)** naczelników urzędów skarbowych – są sporządzane w układzie: dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w działach i rozdziałach.
+
+**§ 5.**
+
+1. W sprawozdaniach, o których mowa w § 4 pkt 1, wypełnia się następujące kolumny:
+
+- **1)** w sprawozdaniach miesięcznych za styczeń, luty, kwiecień, maj, lipiec, sierpień, październik, listopad, grudzień – „Plan”, „Dochody wykonane”;
+- **2)** w sprawozdaniach miesięcznych za marzec, czerwiec, wrzesień oraz w sprawozdaniu rocznym – „Plan”, „Należności”, „Potrącenia i inne zmniejszenia dochodów”, „Dochody wykonane” oraz dotyczące salda końcowego kolumny: „należności pozostałe do zapłaty, ogółem”, „w tym zaległości netto” oraz „nadpłaty”, z zastrzeżeniem pkt 3;
+- **3)** w sprawozdaniach dysponentów środków budżetu państwa otrzymujących sprawozdania Rb-27ZZ, w zakresie paragrafu „Dochody budżetu państwa związane z realizacją zadań zlecanych jednostkom samorządu terytorialnego” – „Plan”, „Dochody wykonane”.
+
+2. Sprawozdania jednostkowe, odpowiednio do okresów sprawozdawczych, sporządza się następująco:
+
+- **1)** w kolumnie „Plan” wykazuje się kwoty wynikające z planu finansowego jednostki, a w przypadku dysponenta części budżetowej, któremu podlegają placówki, wykazuje się również kwoty wynikające z planów finansowych tych placówek;
+- **2)** w kolumnie „Należności” wykazuje się: salda początkowe (należności pozostałych do zapłaty zmniejszone o nadpłaty), powiększone o kwoty przypisów z tytułu dochodów budżetowych, których pierwotny termin płatności przypada na dany rok budżetowy, po zmniejszeniu o kwoty odpisów; jeżeli kwota nadpłat i odpisów przewyższa kwotę należności pozostałych do zapłaty i przypisów, wówczas różnicę wykazuje się jako liczbę ujemną; jeżeli dochody budżetowe zostały wykonane bez przypisu należności, a przepisy odrębne nie przewidują przypisu dla tego rodzaju dochodów, w kolumnie „Należności” należy wykazać kwotę zrealizowanych dochodów na podstawie ewidencji analitycznej do konta rachunku bieżącego dochodów jednostki budżetowej powiększone o środki w drodze, o których mowa w pkt 4;
+- **3)** w kolumnie „Potrącenia i inne zmniejszenia dochodów” wykazuje się zmniejszenia dochodów, dokonane na podstawie odrębnych przepisów, w tym ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505, z późn. zm.), na pokrycie wydatków, o których mowa w art. 66 § 1 tej ustawy;
+- **4)** w kolumnie „Dochody wykonane” wykazuje się dochody wykonane na podstawie księgowości analitycznej do rachunku bieżącego dochodów powiększone o środki w drodze, które nie wpłynęły na rachunek bieżący NBP do końca okresu sprawozdawczego, dotyczące dochodów państwowej jednostki budżetowej, stanowiące wpłaty z tytułu dochodów dokonane w kasie jednostki, w placówce pocztowej w rozumieniu ustawy – Prawo pocztowe, w biurze usług płatniczych, w instytucji płatniczej lub w instytucji pieniądza elektronicznego oraz wpłaty przekazane do banków w ramach zastępczej obsługi kasowej; jeżeli suma zwrotów przewyższa sumę wpłat, różnicę wykazuje się jako liczbę ujemną;
+- **5)** w odpowiednich kolumnach salda końcowego (11–13) wykazuje się należności pozostałe do zapłaty (część należności, o których mowa w pkt 2), w tym zaległości netto (należności pozostałe do zapłaty, których termin zapłaty minął i mogą być egzekwowane), oraz nadpłaty (kwoty nadpłacone). W kolumnie „zaległości netto” nie należy wykazywać zaległości płatnych w ratach (jeżeli termin spłaty raty nie minął), odroczonych (w przypadku gdy odroczony termin płatności nie minął), kwot objętych wstrzymaniem wykonania decyzji na mocy postanowienia organu podatkowego, sądu administracyjnego lub odrębnych przepisów oraz zaległości objętych postępowaniem ugodowym, układowym lub restrukturyzacyjnym.
+
+3. Dochody budżetu państwa uzyskane przez jednostki samorządu terytorialnego w związku z realizacją zadań administracji rządowej są włączane do sprawozdań łącznych dysponentów środków budżetu państwa, przekazujących jednostkom samorządu terytorialnego dotacje na realizację tych zadań, w jednym paragrafie „Dochody budżetu państwa związane z realizacją zadań zlecanych jednostkom samorządu terytorialnego” następująco:
+
+- **1)** w sprawozdaniach za styczeń, luty, kwiecień, maj, lipiec, sierpień, październik, listopad, grudzień:
+    - **a)** w kolumnie „Plan” – kwoty wynikające z planu finansowego jednostki,
+    - **b)** w kolumnie „Dochody wykonane” – kwoty dochodów otrzymanych od jednostek samorządu terytorialnego, wynikające z ewidencji analitycznej do rachunku bieżącego – dochodów;
+
+- **2)** w sprawozdaniach za marzec, czerwiec, wrzesień i rok:
+    - **a)** w kolumnach: „Plan” i „Dochody wykonane” – zgodnie z pkt 1,
+    - **b)** w kolumnie „Należności” – w odpowiednich rozdziałach kwoty należności wykazane przez jednostki samorządu terytorialnego w części A. Dane uzupełniające do sprawozdania Rb-27ZZ, z uwzględnieniem należności z tytułu dochodów nieprzekazanych przez jednostki samorządu terytorialnego w latach ubiegłych,
+    - **c)** w kolumnie „należności pozostałe do zapłaty” – różnice pomiędzy kwotami wykazanymi w kolumnie „Należności” a kwotami wykazanymi w kolumnie „Dochody wykonane”,
+    - **d)** w kolumnie „w tym zaległości netto” – w odpowiednich rozdziałach kwoty zaległości wykazane przez jednostki samorządu terytorialnego w części A. Dane uzupełniające do sprawozdania Rb-27ZZ,
+    - **e)** w kolumnie „nadpłaty” – w odpowiednich rozdziałach kwoty nadpłat wykazane przez jednostki samorządu terytorialnego w części A. Dane uzupełniające do sprawozdania Rb-27ZZ.
+
+4. Sprawozdanie miesięczne za marzec, czerwiec, wrzesień oraz sprawozdanie roczne, z wyjątkiem sprawozdań zawierających dane dotyczące placówek (w rozdziałach dotyczących placówek), powinno się bilansować w następujący sposób: kwota wykazana w kolumnie „Należności” minus kwota wykazana w kolumnie „Potrącenia i inne zmniejszenia dochodów” minus kwota wykazana w kolumnie „Dochody wykonane” równa się kwocie wykazanej w kolumnie „należności pozostałe do zapłaty” minus kwota wykazana w kolumnie „nadpłaty”, z zastrzeżeniem ust. 5.
+
+5. W przypadku gdy w sprawozdaniu Rb-27ZZ występują nadpłaty, to sprawozdanie Rb-27 może się nie bilansować o kwotę tych nadpłat.
+
+**§ 6.**
+
+1. W sprawozdaniach, o których mowa w § 4 pkt 2, wypełnia się następujące kolumny:
+
+- **1)** w sprawozdaniach miesięcznych za styczeń, luty, kwiecień, maj, lipiec, sierpień, październik, listopad, grudzień w zakresie: „Dochodów wykonanych” i „Dochodów przekazanych w okresie sprawozdawczym”;
+- **2)** w sprawozdaniach miesięcznych za marzec, czerwiec, wrzesień oraz w sprawozdaniu rocznym w zakresie: „Należności”, „Potrąceń i innych zmniejszeń dochodów”, „Dochodów wykonanych”, „Dochodów przekazanych w okresie sprawozdawczym” oraz „Salda końcowe” odpowiednich kolumn: „należności pozostałych do zapłaty”, „zaległości netto” i „nadpłat”.
+
+2. Urzędy skarbowe sporządzają sprawozdania jednostkowe w zakresie budżetu państwa za okresy wymienione w ust. 1.
+
+3. W sprawozdaniach, o których mowa w ust. 2, wykazuje się, odpowiednio do okresów sprawozdawczych:
+
+- **1)** dochody budżetu państwa z tytułu podatków, opłat oraz niepodatkowych należności budżetowych: poz. 2383, z późn. zm.), – potrącenia zobowiązań podatkowych z wzajemnej, bezspornej i wymagalnej wierzytelności podatników wobec Skarbu Państwa z tytułów wymienionych w art. 64 i art. 66 § 1 pkt 1 ustawy, o której mowa w tiret pierwszym,
+    - **a)** w kolumnie „Należności” – salda początkowe należności pozostałych do zapłaty zmniejszone o nadpłaty i powiększone o kwoty przypisów, po zmniejszeniu ich o kwoty odpisów; jeżeli kwota nadpłat i odpisów przewyższa kwotę należności pozostałych do zapłaty i przypisów, to różnicę wykazuje się jako liczbę ujemną,
+    - **b)** w kolumnie „Potrącenia i inne zmniejszenia dochodów”: – zryczałtowane wynagrodzenie płatników i inkasentów, o którym mowa w art. 28 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r.
+    - **c)** w kolumnie „Dochody wykonane” – na podstawie księgowości podatkowej wpłaty po zmniejszeniu o dokonane zwroty; jeżeli suma zwrotów przewyższa sumę wpłat, różnicę wykazuje się jako liczbę ujemną,
+    - **d)** w kolumnie „Saldo końcowe” – odpowiednio należności pozostałe do zapłaty, zaległości netto (należności pozostałe do zapłaty, których termin zapłaty minął i mogą być egzekwowane) oraz nadpłaty (kwoty nadpłacone); w kolumnie „zaległości netto” nie należy wykazywać zaległości płatnych w ratach (jeżeli termin spłaty raty nie minął), odroczonych (w przypadku gdy odroczony termin płatności nie minął), kwot objętych wstrzymaniem wykonania decyzji na mocy postanowienia organu podatkowego, sądu administracyjnego lub odrębnych przepisów oraz zaległości objętych postępowaniem ugodowym, układowym lub restrukturyzacyjnym;
+
+- **2)** udziały jednostek samorządu terytorialnego we wpływach dochodów budżetu państwa należne za dany okres sprawozdawczy, które zmniejszają dochody budżetu państwa: w sprawozdaniu rocznym wykazuje się przekazane do jednostek samorządu terytorialnego kwoty udziałów jednostek samorządu terytorialnego we wpływach dochodów budżetu państwa, w tym przekazane w styczniu następnego roku, kwoty udziałów we wpływach dochodów budżetu państwa zrealizowanych do dnia 31 grudnia roku sprawozdawczego,
+    - **a)** w kolumnie „Należności” – salda początkowe należności pozostałych do zapłaty zmniejszone o nadpłaty, powiększone o należne udziały jednostek samorządu terytorialnego we wpływach dochodów budżetu państwa za dany okres sprawozdawczy,
+    - **b)** w kolumnie „Dochody wykonane” – wykonane oraz należne, a nieprzekazane do końca okresu sprawozdawczego udziały jednostek samorządu terytorialnego we wpływach dochodów budżetu państwa za dany okres sprawozdawczy;
+    - **c)** w kolumnie „Dochody przekazane w okresie sprawozdawczym” – przekazane do jednostek samorządu terytorialnego kwoty udziałów jednostek samorządu terytorialnego we wpływach dochodów budżetu państwa; w sprawozdaniu rocznym również przekazane w styczniu następnego roku kwoty udziałów we wpływach dochodów budżetu państwa zrealizowanych do dnia 31 grudnia roku sprawozdawczego,
+    - **d)** w kolumnie „Saldo końcowe” – odpowiednio należności pozostałe do zapłaty, zaległości netto oraz nadpłaty, wynikające z rozliczeń udziałów z poszczególnymi jednostkami samorządu terytorialnego – wykazuje się ze znakiem minus.
+
+4. Sprawozdania, o których mowa w ust. 2, powinny bilansować się w następujący sposób:
+
+- **1)** dla tytułów wymienionych w ust. 3 pkt 1 – należności minus potrącenia i inne zmniejszenia dochodów minus dochody wykonane (wpłaty minus zwroty) równają się należnościom pozostałym do zapłaty minus nadpłaty;
+- **2)** dla tytułów wymienionych w ust. 3 pkt 2 – należności minus dochody przekazane w okresie sprawozdawczym równają się należnościom pozostałym do zapłaty minus nadpłaty.
+
+**§ 7.**
+
+1. Dysponent części 77. Podatki i inne wpłaty na rzecz budżetu państwa w sprawozdaniu, o którym mowa w § 6 ust. 2 rozporządzenia, dane w zakresie środków pochodzących z budżetu Unii Europejskiej oraz środków niewykorzystanych w terminie na wydatki, które nie wygasają z upływem roku budżetowego, wykazuje w następujących kolumnach:
+
+- **1)** w sprawozdaniach miesięcznych za styczeń, luty, kwiecień, maj, lipiec, sierpień, październik, listopad, grudzień – „Dochody wykonane”;
+- **2)** w sprawozdaniach miesięcznych za marzec, czerwiec, wrzesień oraz w sprawozdaniu rocznym – „Należności” i „Dochody wykonane”.
+
+2. W sprawozdaniach, o których mowa w ust. 1:
+
+- **1)** w kolumnie „Należności” wykazuje się kwotę należności w wysokości równej wpływom na rachunki dochodów budżetu państwa;
+- **2)** w kolumnie „Dochody wykonane” wykazuje się dochody wykonane na podstawie ewidencji wpływów na rachunki dochodów budżetu państwa.
 
 #### Rozdział 4 Sprawozdanie Rb-28 z wykonania planu wydatków budżetu państwa
 
+**§ 8.**
+
+1. Sprawozdanie jednostkowe sporządza się w szczegółowości: dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w działach i rozdziałach.
+
+2. Sprawozdanie sporządza się w zakresie następujących danych:
+
+- **1)** w sprawozdaniach miesięcznych, z wyjątkiem sprawozdań za grudzień – „Plan (po zmianach)”, „Zaangażowanie”, „Wykonanie wydatków” oraz „Zobowiązania według stanu na koniec okresu sprawozdawczego”;
+- **2)** w sprawozdaniu miesięcznym za grudzień i sprawozdaniu rocznym – dane wymienione w pkt 1 oraz „Wydatki, które nie wygasły z upływem bieżącego roku budżetowego”.
+
+3. Sprawozdanie sporządza się następująco:
+
+- **1)** w kolumnie „Plan (po zmianach)” wykazuje się dane o planowanych wydatkach, wynikających z planu finansowego jednostki, z uwzględnieniem zmian dokonanych w trybie określonym w ustawie o finansach publicznych, a w przypadku dysponenta części budżetowej, któremu podlegają placówki, wykazuje się również kwoty wynikające z planów finansowych tych placówek;
+- **2)** w kolumnie „Zaangażowanie” wykazuje się kwoty wynikające z umów, decyzji i innych postanowień, których wykonanie powoduje konieczność dokonania wydatków budżetowych w roku bieżącym;
+- **3)** w kolumnie „Wykonanie wydatków” wykazuje się wykonane wydatki, na podstawie danych księgowości analitycznej do konta rachunek bieżący jednostki budżetowej, z zastrzeżeniem pkt 4;
+- **4)** w sprawozdaniu miesięcznym za grudzień i rocznym w kolumnie „Wykonanie wydatków” nie wykazuje się wydatków, o których mowa w art. 181 ust. 2 ustawy o finansach publicznych;
+- **5)** w kolumnie „Zobowiązania ogółem” wykazuje się wszystkie uznane przez jednostkę zobowiązania, niespłacone do końca okresu sprawozdawczego;
+- **6)** w kolumnie „zobowiązania wymagalne powstałe w latach ubiegłych” wykazuje się nieprzedawnione i nieumorzone zobowiązania, które przed upływem danego okresu sprawozdawczego nie zostały uregulowane, a których termin zapłaty minął przed dniem 1 stycznia bieżącego roku;
+- **7)** w kolumnie „zobowiązania wymagalne powstałe w roku bieżącym” wykazuje się nieumorzone zobowiązania powstałe w okresie od dnia 1 stycznia roku bieżącego do końca okresu sprawozdawczego, które przed upływem danego okresu sprawozdawczego nie zostały uregulowane, a których termin zapłaty minął;
+- **8)** w kolumnie „Wydatki, które nie wygasły z upływem bieżącego roku budżetowego” wykazuje się wydatki ujęte w ustalonym przez Radę Ministrów planie finansowym, o którym mowa w art. 181 ust. 2 ustawy o finansach publicznych; kolumnę tę wypełnia się w sprawozdaniu miesięcznym za grudzień i w sprawozdaniu rocznym.
+
+4. Dopuszcza się, aby w sytuacjach wyjątkowych, niezależnych od jednostki, niewłaściwe obciążenia oraz uznania rachunków bieżących wykazywać, wprowadzając symbol 4990 zamiast paragrafu; niewłaściwe obciążenie wykazuje się zapisem zwykłym, a niewłaściwe uznania rachunku – jako liczbę ujemną. Niewłaściwe przelewy środków powinny być wyjaśnione i rozliczone w następnym okresie sprawozdawczym.
+
+5. Dysponent części 84. Środki własne Unii Europejskiej w przypadku nadpłaconej składki do budżetu Unii Europejskiej przekazuje w formie komentarza do sprawozdania informację o wysokości nadpłaconej składki, wykazując ją w szczegółowości klasyfikacji budżetowej.
+
 #### Rozdział 5 Sprawozdanie Rb-28NW z wykonania planu wydatków, które nie wygasły z upływem roku budżetowego
+
+**§ 9.**
+
+1. Dysponenci środków budżetu państwa realizujący wydatki, o których mowa w art. 181 ust. 2 ustawy o finansach publicznych, sporządzają sprawozdania z wykonania planu tych wydatków w szczegółowości: dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w działach i rozdziałach.
+
+2. W kolumnie „Plan” wykazuje się, ustalony przez Radę Ministrów, plan finansowy, o którym mowa w art. 181 ust. 2 ustawy o finansach publicznych.
+
+3. W kolumnie „Wykonanie” wykazuje się wykonanie wydatków na podstawie danych księgowości analitycznej do rachunku pomocniczego dla środków na wydatki niewygasające.
+
+4. Dane w sprawozdaniach wykazuje się według klasyfikacji budżetowej obowiązującej w roku, w którym plan został ustalony przez Radę Ministrów.
 
 #### Rozdział 6 Sprawozdanie Rb-33 z wykonania planu finansowego państwowego funduszu celowego
 
+**§ 10.**
+
+1. Sprawozdanie sporządza się w pełnym zakresie danych, wynikającym z formularza, w szczegółowości: dział, rozdział, paragraf, oddzielnie dla każdego funduszu. W kolumnie identyfikującej fundusz należy wstawić odpowiedni symbol.
+
+2. Przyjmuje się następujące symbole identyfikujące fundusze:
+
+- **1)** 301 – Fundusz Ubezpieczeń Społecznych;
+- **2)** 302 – Fundusz Emerytalno-Rentowy;
+- **3)** 303 – Fundusz Pracy;
+- **4)** 304 – Fundusz Alimentacyjny w Likwidacji;
+- **5)** 306 – Fundusz Administracyjny;
+- **6)** 310 – Fundusz Prewencji i Rehabilitacji;
+- **7)** 312 – Fundusz Gospodarki Zasobem Geodezyjnym i Kartograficznym;
+- **8)** 315 – Fundusz Wsparcia Policji;
+- **9)** 316 – Fundusz Modernizacji Bezpieczeństwa Publicznego;
+- **10)** 317 – Fundusz – Centralna Ewidencja Pojazdów i Kierowców;
+- **11)** 318 – Fundusz Rozwoju Kultury Fizycznej;
+- **12)** 319 – Fundusz Zajęć Sportowych dla Uczniów;
+- **13)** 330 – Fundusz Reprywatyzacji;
+- **14)** 335 – Fundusz Promocji Kultury;
+- **15)** 336 – Fundusz Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej;
+- **16)** 337 – Fundusz Aktywizacji Zawodowej Skazanych oraz Rozwoju Przywięziennych Zakładów Pracy;
+- **17)** 338 – Fundusz Rekompensacyjny;
+- **18)** 340 – Fundusz Wsparcia Straży Granicznej;
+- **19)** 342 – Fundusz Emerytur Pomostowych;
+- **20)** 343 – Fundusz Rozwiązywania Problemów Hazardowych;
+- **21)** 344 – Fundusz Wsparcia Państwowej Straży Pożarnej;
+- **22)** 345 – Fundusz Gwarantowanych Świadczeń Pracowniczych;
+- **23)** 346 – Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych;
+- **24)** 347 – Fundusz Zapasów Interwencyjnych;
+- **25)** 348 – Fundusz Wspierania Organizacji Pożytku Publicznego;
+- **26)** 349 – Fundusz Wspierania Rozwoju Społeczeństwa Obywatelskiego;
+- **27)** 350 – Narodowy Fundusz Ochrony Zabytków;
+- **28)** 352 – Fundusz Solidarnościowy;
+- **29)** 354 – Fundusz Wypłaty Różnicy Ceny;
+- **30)** 355 – Fundusz Rozwoju Przewozów Autobusowych o Charakterze Użyteczności Publicznej;
+- **31)** 356 – Fundusz Inwestycji Kapitałowych;
+- **32)** 357 – Fundusz Dostępności;
+- **33)** 358 – Fundusz Szerokopasmowy;
+- **34)** 359 – Fundusz Rekompensat Pośrednich Kosztów Emisji;
+- **35)** 360 – Fundusz Medyczny;
+- **36)** 361 – Fundusz Kompensacyjny Szczepień Ochronnych;
+- **37)** 362 – Fundusz Cyberbezpieczeństwa;
+- **38)** 363 – Fundusz Rozwoju Regionalnego;
+- **39)** 364 – Fundusz Edukacji Finansowej;
+- **40)** 365 – Fundusz Kompensacyjny Badań Klinicznych;
+- **41)** 366 – Fundusz Kompensacyjny Zdarzeń Medycznych.
+
+3. W przypadku utworzenia nowego funduszu Minister Finansów, na wniosek dysponenta funduszu, nadaje funduszowi symbol dla celów sprawozdawczości budżetowej.
+
+4. W dziale A. „Przychody” w kolumnach: „Plan” i „Wykonanie” wykazuje się:
+
+- **1)** według paragrafów:
+    - **a)** przychody własne,
+    - **b)** dotacje z budżetu;
+
+- **2)** w wydzielonych wierszach:
+    - **a)** „K 100” – pozostałe przychody nieokreślone w paragrafach klasyfikacji budżetowej oraz inne zwiększenia środków obrotowych,
+    - **b)** „K 110” – stan funduszu na początek okresu sprawozdawczego.
+
+5. W dziale B. „Koszty i inne obciążenia” w kolumnach: „Plan” i „Wykonanie” wykazuje się:
+
+- **1)** według paragrafów:
+    - **a)** koszty,
+    - **b)** transfery na rzecz ludności i inne obciążenia;
+
+- **2)** w wydzielonych wierszach:
+    - **a)** „P 100” – inne obciążenia, niewykazane w paragrafach, oraz inne zmniejszenia środków obrotowych,
+    - **b)** „P 130” – stan funduszu na koniec okresu sprawozdawczego.
+
+6. W dziale C. wykazuje się według stanu na początek i koniec okresu sprawozdawczego, w wydzielonych wierszach:
+
+- **1)** „W 010” – środki pieniężne, w tym: środki w kasie, wolne środki przekazane Ministrowi Finansów w zarządzanie terminowe lub zarządzanie overnight;
+- **2)** „W 020” – należności netto, tj. należności po pomniejszeniu o odpis aktualizujący należności;
+- **3)** „W 021” – kwotę odpisu aktualizującego należności;
+- **4)** „W 022” – nieobjętą odpisem aktualizującym kwotę odsetek od należności niezapłaconych w terminie;
+- **5)** „W 030” – pozostałe środki obrotowe;
+- **6)** „W 040” – zobowiązania;
+- **7)** „W 070” – stan środków obrotowych netto.
+
+7. W dziale D. Dane uzupełniające wykazuje się uszczegółowienie kwot należności i zobowiązań wykazanych w dziale C. odpowiednio w wierszach W 020 i W 040.
+
+8. W przypadku gdy dysponent funduszu nie realizuje bezpośrednio zadań wynikających z ustawy powołującej fundusz, w sprawozdaniu w kolumnie „Wykonanie” wykazuje się faktycznie poniesione ostatecznie wydatki na realizację zadań wskazanych w ustawie powołującej fundusz, po wyeliminowaniu wewnętrznych przelewów redystrybucyjnych.
+
+9. Sprawozdania Funduszu Zapasów Interwencyjnych i Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przed przekazaniem do Ministerstwa Finansów powinny być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, odpowiednio przez organ nadzorujący dysponenta funduszu albo PFRON.
+
+10. Sprawozdania Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych nie wypełnia się w dziale D. Dane uzupełniające.
+
 #### Rozdział 7 Sprawozdanie Rb-34 z wykonania dochodów i wydatków na rachunku, o którym mowa w art. 11a ustawy o finansach publicznych
+
+**§ 11.**
+
+1. Sprawozdanie sporządza się w szczegółowości: dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w rozdziałach.
+
+2. W dziale A. „Dochody” w kolumnach: „plan” i „wykonanie” wykazuje się:
+
+- **1)** w szczegółowości: dział, rozdział, paragraf – odpowiednio planowane i zrealizowane wpływy środków pieniężnych na rachunek;
+- **2)** w wydzielonym wierszu „K 150” – stan środków pieniężnych na początek okresu sprawozdawczego na rachunku.
+
+3. W dziale B. „Wydatki” w kolumnach: „plan” i „wykonanie” wykazuje się:
+
+- **1)** w szczegółowości: dział, rozdział, paragraf – odpowiednio planowane i poniesione wydatki;
+- **2)** w wydzielonym wierszu „P 150” – stan środków pieniężnych na rachunku na koniec okresu sprawozdawczego.
 
 #### Rozdział 8 Sprawozdanie Rb-35 z wykonania planu dochodów i wydatków agencji wykonawczej
 
+**§ 12.**
+
+1. Sprawozdanie sporządza się w szczegółowości: dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w rozdziałach.
+
+2. W dziale A. „Dochody” w kolumnach: „plan” i „wykonanie” wykazuje się:
+
+- **1)** w szczegółowości: dział, rozdział, paragraf – odpowiednio planowane i zrealizowane wpływy środków pieniężnych stanowiące dochody agencji wykonawczej;
+- **2)** w wydzielonym wierszu „K 150” – stan środków pieniężnych na początek okresu sprawozdawczego dotyczących funkcjonowania i realizacji zadań agencji wykonawczej (nie wykazuje się środków funduszu świadczeń socjalnych oraz obcych środków pieniężnych np. wadiów i kaucji).
+
+3. W dziale B. „Wydatki” w kolumnach: „plan” i „wykonanie” wykazuje się:
+
+- **1)** w szczegółowości: dział, rozdział, paragraf – odpowiednio planowane i poniesione wydatki;
+- **2)** w wydzielonym wierszu „P 150” – stan środków pieniężnych na koniec okresu sprawozdawczego dotyczących funkcjonowania i realizacji zadań agencji wykonawczej (nie wykazuje się środków funduszu świadczeń socjalnych oraz obcych środków pieniężnych np. wadiów i kaucji).
+
+4. W dziale C. wykazuje się według stanu na początek i koniec okresu sprawozdawczego:
+
+- **1)** w wierszu W 020 – należności netto, tj. należności po pomniejszeniu o odpis aktualizujący należności;
+- **2)** w wierszu W 021 – kwotę odpisu aktualizującego należności;
+- **3)** w wierszu W 022 – nieobjętą odpisem aktualizującym kwotę odsetek od należności niezapłaconych w terminie;
+- **4)** w wierszu W 040 – zobowiązania.
+
+5. Sprawozdanie agencji wykonawczej przed przekazaniem do Ministerstwa Finansów powinno być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, przez organ nadzorujący działalność danej agencji wykonawczej.
+
+6. Na formularzu sprawozdania w pozycji:
+
+- **1)** „Część” wpisuje się symbol części budżetowej właściwy dla organu, który sprawuje nadzór nad agencją wykonawczą;
+- **2)** „Adresat” wpisuje się wyrazy „Ministerstwo Finansów za pośrednictwem” oraz nazwę właściwego urzędu, którym kieruje organ sprawujący nadzór nad agencją wykonawczą.
+
 #### Rozdział 9 Sprawozdanie Rb-40 z wykonania, określonego w ustawie budżetowej na dany rok budżetowy, planu finansowego państwowego funduszu celowego/agencji wykonawczej/instytucji gospodarki budżetowej/podmiotów, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych
+
+**§ 13.**
+
+1. Sprawozdania z wykonania planu finansowego państwowego funduszu celowego/agencji wykonawczej/instytucji gospodarki budżetowej/podmiotów, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych sporządza się w zakresie danych i w szczegółowości nie mniejszej niż wynikająca z ustawy budżetowej.
+
+2. Dane w sprawozdaniu w kolumnie „Wykonanie za rok poprzedzający rok sprawozdawczy” wypełnia się wyłącznie w miesięcznym sprawozdaniu za grudzień w układzie planu finansowego określonego dla bieżącego okresu sprawozdawczego.
+
+3. W przypadku gdy państwowy fundusz celowy/agencja wykonawcza/instytucja gospodarki budżetowej/podmioty, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych, zostaną utworzone w ciągu roku budżetowego, sprawozdania sporządza się zgodnie z przyjętym planem finansowym na dany rok budżetowy.
+
+4. W przypadku gdy w ustawie budżetowej wydatki państwowego funduszu celowego są planowane jako przelewy redystrybucyjne, w sprawozdaniu w kolumnie „Wykonanie”, bezpośrednio pod pozycją przelewy redystrybucyjne, wykazuje się faktycznie poniesione ostateczne wydatki na realizację zadań wskazanych w ustawie powołującej fundusz, po wyeliminowaniu wewnętrznych przelewów redystrybucyjnych.
+
+5. W przypadku gdy państwowy fundusz celowy/agencja wykonawcza/instytucja gospodarki budżetowej/podmioty, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych, realizują wydatki, które nie wygasły z upływem danego roku budżetowego, sprawozdanie uzupełnia się w zakresie kolumn 1 i 2 oraz 5 i 6 w odrębnej części, z odpowiednim odnośnikiem dotyczącym informacji, czy wydatki te zostały ujęte w sprawozdaniu w układzie memoriałowym i kasowym.
+
+6. W przypadku gdy państwowy fundusz celowy/agencja wykonawcza/instytucja gospodarki budżetowej/podmioty, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych, otrzymują zwroty niewykorzystanych dotacji z budżetu państwa, przyznanych w latach ubiegłych, a kasowo zrealizowanych do końca bieżącego okresu sprawozdawczego, sprawozdanie uzupełnia się w zakresie zwróconych kwot dotacji w odrębnym wierszu, w układzie kasowym części wydatkowej. Danych dotyczących zwróconych kwot nie wykazuje się w pozycjach wskazanych dla układu memoriałowego.
+
+7. W przypadku gdy państwowy fundusz celowy/agencja wykonawcza/instytucja gospodarki budżetowej/podmioty, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych, w ramach realizacji zadań bieżących lub inwestycyjnych otrzymują lub przekazują, niewyodrębnione w podpozycjach, a ujęte w kwotach ogólnych układu kasowego planu finansowego, środki od/do jednostek objętych zakresem stabilizującej reguły wydatkowej, określonej w art. 112aa ustawy o finansach publicznych, sprawozdanie uzupełnia się o informacje dodatkowe.
+
+8. Informacje dodatkowe, o których mowa w ust. 7, sporządza się i przekazuje się w Informatycznym Systemie Obsługi Budżetu Państwa.
+
+9. W przypadku gdy państwowy fundusz celowy/agencja wykonawcza/instytucja gospodarki budżetowej/podmioty, o których mowa w art. 9 pkt 8 i 14 ustawy o finansach publicznych, realizują wydatki na programy finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, dane w zakresie wykonanych wydatków na finansowanie z UE i EFTA oraz współfinansowanie krajowe w ramach projektów UE i EFTA wykazuje się w szczegółowości formularzy planistycznych, o których mowa w przepisach wydanych na podstawie art. 138 ust. 6 ustawy o finansach publicznych.
+
+10. Dane, o których mowa w ust. 5, nie powinny być wykazywane w sprawozdaniach Rb-33 i Rb-35.
+
+11. Sprawozdanie agencji wykonawczej przed przekazaniem do Ministerstwa Finansów powinno być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, przez organ nadzorujący działalność danej agencji wykonawczej.
+
+12. Sprawozdanie instytucji gospodarki budżetowej przed przekazaniem do Ministerstwa Finansów powinno być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, przez organ wykonujący funkcje organu założycielskiego.
+
+13. Sprawozdania podmiotów, o których mowa w art. 9 pkt 14 ustawy o finansach publicznych, z wyjątkiem sprawozdań sporządzanych przez Prezesa ZUS, przed przekazaniem do Ministerstwa Finansów powinny być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, przez organ nadzorujący działalność danego podmiotu.
+
+14. Na formularzach sprawozdań, o których mowa w ust. 11–13, w pozycji „Adresat” wpisuje się wyrazy „Ministerstwo Finansów za pośrednictwem” oraz nazwę właściwego urzędu, którym kieruje organ sprawujący nadzór lub nazwę właściwego organu wykonującego funkcje organu założycielskiego.
+
+15. Sprawozdania Funduszu Zapasów Interwencyjnych i Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przed przekazaniem do Ministerstwa Finansów powinny być parafowane, poprzez złożenie podpisu elektronicznego, o którym mowa w § 14 ust. 3 albo ust. 5 rozporządzenia, odpowiednio przez organ nadzorujący dysponenta funduszu albo PFRON.
 
 #### Rozdział 10 Sprawozdanie Rb-50 o dotacjach / wydatkach związanych z wykonywaniem zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego ustawami
 
+**§ 14.**
+
+1. Dysponenci środków budżetu państwa przekazujący jednostkom samorządu terytorialnego dotacje na wykonanie zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami sporządzają na podstawie sprawozdań otrzymanych od zarządów tych jednostek łączne sprawozdania Rb-50 oddzielnie dla gmin, powiatów oraz samorządów województw, w szczegółowości: dział, rozdział, paragraf albo dział, rozdział, grupa paragrafów odrębnie dla:
+
+- **1)** dotacji;
+- **2)** wydatków.
+
+2. Dysponenci środków budżetu państwa, o których mowa w art. 149 ust. 2 ustawy o finansach publicznych, przekazują do dysponentów części budżetowych sprawozdania Rb-50 pięć dni przed terminem przekazania sprawozdań do Ministerstwa Finansów.
+
+3. Sprawozdania, o których mowa w ust. 1, dysponenci części budżetowych przekazują do Ministerstwa Finansów.
+
 #### Rozdział 11 Sprawozdanie Rb-70 o zatrudnieniu i wynagrodzeniach
+
+**§ 15.**
+
+1. Sprawozdanie jednostkowe Rb-70 o zatrudnieniu i wynagrodzeniach sporządzają, na oddzielnych formularzach dla każdego z występujących rodzajów zadań i form organizacyjno-prawnych, z zastrzeżeniem ust. 2, kierownicy:
+
+- **1)** jednostek budżetowych,
+- **2)** uczelni publicznych – w szczegółowości: dział, rozdział, status zatrudnienia.
+
+2. Sprawozdanie, o którym mowa w ust. 1, dla placówek sporządzają dysponenci części budżetowych.
+
+3. Wymienione w ust. 1 państwowe jednostki organizacyjne sporządzają sprawozdania Rb-70, bez uwzględnienia osób zatrudnionych do wykonywania prac interwencyjnych i robót publicznych, zgodnie z rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 24 czerwca 2014 r. w sprawie organizowania prac interwencyjnych i robót publicznych oraz jednorazowej refundacji kosztów z tytułu opłaconych składek na ubezpieczenia społeczne (Dz. U. poz. 864, z późn. zm.).
+
+4. Zatrudnienie i wynagrodzenia, dla zadania wymienionego w ust. 3, wykazuje się na oddzielnym formularzu, z dokładnym określeniem w tytule formy organizacyjno-prawnej i rodzaju zadania, wyłącznie w zakresie wykonania. W kolumnie 14 – „Wykonanie wynagrodzeń osobowych” należy podać wysokość wynagrodzeń finansowanych przez daną jednostkę organizacyjną (bez ujmowania wynagrodzeń w części finansowanej z Funduszu Pracy).
+
+5. Państwowe jednostki organizacyjne wymienione w ust. 1 sporządzają sprawozdania dla wszystkich zatrudnionych według statusu zatrudnienia; w odrębnych pozycjach należy wymienić oddzielnie:
+
+- **1)** osoby nieobjęte mnożnikowymi systemami wynagrodzeń;
+- **2)** osoby zajmujące kierownicze stanowiska państwowe;
+- **3)** członków korpusu służby cywilnej;
+- **4)** etatowych członków samorządowych kolegiów odwoławczych;
+- **5)** sądowych kuratorów zawodowych;
+- **6)** ekspertów, asesorów i aplikantów eksperckich Urzędu Patentowego Rzeczypospolitej Polskiej;
+- **7)** asesorów prokuratorskich i asesorów sądowych;
+- **8)** funkcjonariuszy Służby Celno-Skarbowej;
+- **9)** sędziów i prokuratorów;
+- **10)** żołnierzy zawodowych i funkcjonariuszy;
+- **11)** etatowych członków kolegiów regionalnych izb obrachunkowych;
+- **12)** pracowników Rządowego Centrum Legislacji niezaliczonych do grup pracowniczych wymienionych w pkt 1–11;
+- **13)** członków służby zagranicznej niebędących członkami korpusu służby cywilnej;
+- **14)** nauczycieli zatrudnionych w szkołach i placówkach prowadzonych przez organy administracji rządowej;
+- **15)** członków Krajowej Izby Odwoławczej przy Prezesie Urzędu Zamówień Publicznych;
+- **16)** referendarzy sądowych;
+- **17)** asystentów sędziów i prokuratorów;
+- **18)** specjalistów opiniodawczych zespołów sądowych specjalistów;
+- **19)** posłów i senatorów;
+- **20)** osoby zatrudnione w placówce zagranicznej Rzeczypospolitej Polskiej na podstawie powołania, w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465, z późn. zm.), w tym osoby zatrudnione na czas wykonywania funkcji w placówce przez członka rodziny.
+
+**§ 16.** W poszczególnych kolumnach sprawozdania ujmuje się:
+
+- **1)** w kolumnie 1 symbol części budżetowej;
+- **2)** w kolumnie 2 symbol statystyczny województwa;
+- **3)** w kolumnie 3 dysponenci części budżetowych mogą wprowadzać oznaczenie dysponentów podległych (nie należy wypełniać w sprawozdaniu łącznym dysponenta części budżetowej);
+- **4)** w kolumnie 4 wykazuje się odpowiednie symbole przyjęte do oznaczenia form organizacyjno-prawnych:
+    - **a)** 020 – jednostki budżetowe,
+    - **b)** 050 – uczelnie publiczne;
+
+- **5)** w kolumnie 5 – wykazuje się odpowiednie symbole przyjęte do oznaczenia rodzaju zadania:
+    - **a)** A – podstawowa działalność jednostki organizacyjnej (nie obejmuje zadania wymienionego jako B),
+    - **b)** B – osoby zatrudnione do prac interwencyjnych i robót publicznych;
+
+- **6)** w kolumnach 6 i 7 – wprowadza się odpowiednio dział i rozdział według klasyfikacji budżetowej;
+- **7)** w kolumnie 8 – podaje się następujące symbole dla statusu zatrudnienia:
+    - **a)** 01 – osoby nieobjęte mnożnikowymi systemami wynagrodzeń,
+    - **b)** 02 – osoby zajmujące kierownicze stanowiska państwowe,
+    - **c)** 03 – członkowie korpusu służby cywilnej,
+    - **d)** 04 – etatowi członkowie samorządowych kolegiów odwoławczych,
+    - **e)** 05 – sądowi kuratorzy zawodowi,
+    - **f)** 06 – eksperci, asesorzy i aplikanci eksperccy Urzędu Patentowego Rzeczypospolitej Polskiej,
+    - **g)** 07 – asesorzy prokuratorscy i asesorzy sądowi,
+    - **h)** 08 – funkcjonariusze Służby Celno-Skarbowej,
+    - **i)** 09 – sędziowie i prokuratorzy,
+    - **j)** 10 – żołnierze zawodowi i funkcjonariusze,
+    - **k)** 11 – etatowi członkowie kolegiów regionalnych izb obrachunkowych,
+    - **l)** 12 – pracownicy Rządowego Centrum Legislacji niezaliczeni do grup pracowniczych wymienionych w lit. a–k,
+    - **m)** 13 – członkowie służby zagranicznej niebędący członkami korpusu służby cywilnej,
+    - **n)** 14 – nauczyciele zatrudnieni w szkołach i placówkach prowadzonych przez organy administracji rządowej,
+    - **o)** 15 – członkowie Krajowej Izby Odwoławczej przy Prezesie Urzędu Zamówień Publicznych,
+    - **p)** 16 – referendarze sądowi,
+    - **r)** 17 – asystenci sędziów i prokuratorów,
+    - **s)** 18 – specjaliści opiniodawczych zespołów sądowych specjalistów,
+    - **t)** 19 – posłowie i senatorowie,
+    - **u)** 20 – osoby zatrudnione w placówce zagranicznej Rzeczypospolitej Polskiej na podstawie powołania, w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, w tym osoby zatrudnione na czas wykonywania funkcji w placówce przez członka rodziny;
+
+- **8)** w kolumnie 9 – „Plan po zmianach” wykazuje się plan zatrudnienia jednostki w ujęciu średniorocznym (dysponenci części budżetowych dane zbiorcze wypełniają z dokładnością do osoby, a dysponenci pozostałych stopni oraz kierownicy uczelni publicznych z dokładnością do dwóch miejsc po przecinku), na które jednostka sprawozdawcza otrzymała wynagrodzenia osobowe, nie wliczając osób zatrudnionych poza granicami kraju; przyznane zwiększenie zatrudnienia w ciągu roku, z późniejszym terminem uruchomienia, a także w odniesieniu do jednostek, które w danym roku uległy likwidacji lub przekształceniu, należy wykazać w planie, również w ujęciu średniorocznym; jednostki zaliczone do działu 751 – urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa – podają zatrudnienie ustalone we własnym zakresie;
+- **9)** w kolumnie 10 – „Przeciętne wykonanie w okresie sprawozdawczym” wykazuje się przeciętną liczbę zatrudnionych, w przeliczeniu na pełnozatrudnionych (dysponenci części budżetowych dane zbiorcze wypełniają z dokładnością do osoby, a dysponenci pozostałych stopni oraz kierownicy uczelni publicznych z dokładnością do dwóch miejsc po przecinku) w okresie sprawozdawczym, przy czym: oznacza to, że jeżeli w ciągu roku były zatrudnione 4 osoby niepełnosprawne, których wynagrodzenia co drugi miesiąc były finansowane z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, to średniorocznie wykazuje się 2 osoby;
+    - **a)** przeciętną liczbę zatrudnionych w okresie sprawozdawczym oblicza się, dodając przeciętne liczby zatrudnionych, w tym także na zastępstwo, w poszczególnych miesiącach roku, które upłynęły od początku roku do końca okresu sprawozdawczego, i dzieląc otrzymaną sumę przez liczbę tych miesięcy; przeciętną liczbę zatrudnionych w danym miesiącu oblicza się, dodając połowę stanu zatrudnionych na początku miesiąca, stan zatrudnionych w 15. dniu miesiąca oraz połowę stanu w ostatnim dniu miesiąca; otrzymaną sumę dzieli się przez 2,
+    - **b)** do stanu zatrudnionych nie wlicza się osób, które nie otrzymują za dany okres wynagrodzenia od zakładu pracy, tj. np. osób będących na urlopach bezpłatnych, wychowawczych i macierzyńskich oraz zasiłkach chorobowych,
+    - **c)** w odniesieniu do jednostek, które w danym roku uległy przekształceniu lub likwidacji, podaje się w wykonaniu przeciętną liczbę zatrudnionych za okres, w którym te jednostki funkcjonowały w państwowej sferze budżetowej; oznacza to, że jeżeli jednostka np. funkcjonowała przez 4 miesiące i zatrudniała 15 osób, to średniorocznie wykazuje 5 osób (15 osób x 4 miesiące: 12 miesięcy),
+    - **d)** zatrudnienie osób niepełnosprawnych należy ujmować tylko z tych miesięcy, w których wynagrodzenia tych osób były finansowane z wynagrodzeń danej jednostki, w przeliczeniu na przeciętną liczbę zatrudnionych w okresie sprawozdawczym;
+
+- **10)** w kolumnie 11 – „Stan na koniec okresu sprawozdawczego” wykazuje się liczbę zatrudnionych w ostatnim dniu okresu sprawozdawczego w przeliczeniu na pełnozatrudnionych (dysponenci części budżetowych dane zbiorcze wypełniają z dokładnością do osoby, a dysponenci pozostałych stopni oraz kierownicy uczelni publicznych z dokładnością do dwóch miejsc po przecinku), tj. podaje się stan ewidencyjny pełnozatrudnionych (po przeliczeniu);
+- **11)** w kolumnach 12 i 13 – wykazuje się wydatki klasyfikowane w § 401–407 i § 479–480 klasyfikacji budżetowej, ustalone dla jednostki sprawozdawczej w ramach wynagrodzeń określonych w ustawie budżetowej na dany rok, tj. plan po zmianach wprowadzonych na podstawie obowiązujących przepisów przez dysponentów środków budżetowych. W kolumnie „Plan po zmianach” w państwowych jednostkach budżetowych dane liczbowe powinny obejmować wynagrodzenia wynikające z załącznika do ustawy budżetowej „Wynagrodzenia w państwowych jednostkach budżetowych” – w sprawozdaniu dysponenta części budżetowej, a w przypadku sprawozdań jednostek podległych – kwoty wynagrodzeń określone przez dysponenta części budżetowej, powiększone o:
+    - **a)** wynagrodzenia przyznane z rezerwy na zmiany organizacyjne i nowe zadania na podstawie uchwał Rady Ministrów,
+    - **b)** wynagrodzenia na podstawie decyzji Ministra Finansów w związku z rozdysponowaniem rezerw celowych – przy czym plan po zmianach powinien również uwzględniać zmiany wprowadzone na podstawie art. 171, art. 172 i art. 194 ustawy o finansach publicznych oraz na podstawie art. 10a ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2024 r. poz. 1356);
+
+- **12)** w kolumnach 14 i 15 – wykazuje się wykonanie wydatków klasyfikowanych w § 401–407 i § 479–480 klasyfikacji budżetowej, od początku roku do końca okresu sprawozdawczego; w kolumnach tych nie uwzględnia się wypłat wynagrodzeń finansowanych z Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych oraz Funduszu Pracy.
+
+**§ 17.**
+
+1. W kolumnach 14 i 15 kwoty wynagrodzeń powinny być ujmowane w wysokości zgodnej z kwotami brutto listy płac (łącznie ze składkami na ubezpieczenia społeczne opłacanymi przez ubezpieczonych oraz z zaliczką na podatek dochodowy od tych wynagrodzeń, niezależnie od terminu płatności). Dane liczbowe wykazane w „Wykonaniu” według list płac brutto nie mogą przekraczać ustalonego zgodnie z § 16 pkt 11 planu po zmianach wynagrodzeń.
+
+2. Wypłaty dodatkowych wynagrodzeń rocznych pracownikom, z którymi rozwiązano stosunek pracy w związku z likwidacją pracodawcy, zgodnie z art. 5 ust. 3 ustawy z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. z 2023 r. poz. 1690, z późn. zm.) ujmuje się w kolumnie 15.
+
+**§ 18.**
+
+1. Dysponenci części budżetowych sporządzają sprawozdanie łączne w szczegółowości określonej dla sprawozdań jednostkowych i przekazują na elektroniczną skrzynkę podawczą Głównego Urzędu Statystycznego.
+
+2. Sprawozdanie sporządza się według wytycznych Głównego Urzędu Statystycznego zamieszczonych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+3. W sporządzonych przez dysponentów części budżetowych sprawozdaniach Rb-70 nie wykazuje się pozycji zbiorczych.
 
 #### Rozdział 12 Sprawozdania sporządzane przez placówki i sposób ich włączania do sprawozdań łącznych dysponentów części budżetowych
 
+**§ 19.**
+
+1. Kierownik placówki sporządza i przekazuje do dysponenta części budżetowej sprawozdania jednostkowe:
+
+- **1)** Rb-23PL sprawozdanie z rozliczenia środków pieniężnych placówki;
+- **2)** Rb-27PL sprawozdanie z wykonania planu dochodów budżetowych placówki;
+- **3)** Rb-28PL sprawozdanie z wykonania planu wydatków budżetowych placówki;
+- **4)** Rb-34PL sprawozdanie z wykonania dochodów i wydatków na rachunku, o którym mowa w art. 163 ustawy o finansach publicznych.
+
+2. Dane w sprawozdaniach wykazuje się:
+
+- **1)** w zakresie planu w kwotach wynikających z planów finansowych placówki;
+- **2)** w zakresie wykonania narastająco od początku roku do końca okresu sprawozdawczego lub według stanu na określony dzień w przypadkach określonych w sprawozdaniach.
+
+3. Sprawozdanie jednostkowe sporządza się w walucie, w której jest prowadzona rachunkowość.
+
+4. Sprawozdanie, o którym mowa w ust. 1 pkt 1, sporządza się, wykazując:
+
+- **1)** w rubrykach 2 i 3 nazwę i symbol waluty, w której sporządzane jest sprawozdanie;
+- **2)** w wierszu 1 stan środków pieniężnych na dzień 1 stycznia na rachunkach bankowych i w kasie – suma sald konta 101 „Kasa” i 131 „Rachunki bieżące”;
+- **3)** w wierszu 2 pozostałość dochodów wykonanych w roku ubiegłym saldo konta 750 „Dochody budżetowe”;
+- **4)** w wierszu 3 pozostałość środków budżetowych otrzymanych w roku ubiegłym na wykonywanie wydatków, jeżeli przepisy odrębne tak stanowią część salda konta 810 „Fundusz środków na wydatki budżetowe”;
+- **5)** w wierszu 4 dane ustalone na podstawie bilansu kont szczegółowych, prowadzonych w ramach kont syntetycznych dla dochodów, o których mowa w art. 163 ust. 1 ustawy o finansach publicznych;
+- **6)** w wierszu 5 stałą zaliczkę część salda konta 200 „Rozrachunki”;
+- **7)** w wierszu 6 dane ustalone na podstawie bilansu kont szczegółowych, prowadzonych w ramach kont syntetycznych sum obcych;
+- **8)** w wierszu 7 środki budżetowe przyznane przez dysponenta części budżetowej w okresie sprawozdawczym na wykonywanie wydatków budżetowych;
+- **9)** w wierszu 8 wykonane dochody budżetowe w okresie sprawozdawczym;
+- **10)** w wierszu 9 wykonane wydatki w okresie sprawozdawczym;
+- **11)** w wierszu 9a wykonane wydatki w okresie sprawozdawczym ze środków stałej zaliczki przyznanej w latach poprzednich;
+- **12)** w wierszu 10 stan środków pieniężnych na koniec okresu sprawozdawczego na rachunkach bankowych i w kasie – suma sald konta 101 „Kasa” i 131 „Rachunki bieżące”;
+- **13)** w wierszu 11 pozostałość dochodów budżetowych wykonanych w placówce; saldo konta 750 „Dochody budżetowe”;
+- **14)** w wierszu 12 pozostałość środków budżetowych przyznanych przez dysponenta części budżetowej na wykonywanie wydatków; część salda konta 810 „Fundusz środków na wydatki budżetowe”;
+- **15)** w wierszu 13 dane ustalone na podstawie bilansu kont szczegółowych, prowadzonych w ramach kont syntetycznych dla dochodów, o których mowa w art. 163 ust. 1 ustawy o finansach publicznych;
+- **16)** w wierszu 14 stałą zaliczkę część salda konta 200 „Rozrachunki”;
+- **17)** w wierszu 15 dane ustalone na podstawie bilansu kont szczegółowych, prowadzonych w ramach kont syntetycznych dla sum obcych.
+
+5. Sprawozdanie, o którym mowa w ust. 1 pkt 2, sporządza się, wykazując:
+
+- **1)** w rubryce 2 i 3 nazwę i symbol waluty, w której jest sporządzane sprawozdanie;
+- **2)** w kolumnie „Plan” kwoty wynikające z planu finansowego dochodów placówki;
+- **3)** w kolumnie „Wykonanie” na podstawie danych ewidencji analitycznej dochodów budżetowych prowadzonej do konta 750 „Dochody budżetowe”, kwoty zrealizowanych dochodów budżetowych po zmniejszeniu o dokonane zwroty; jeżeli suma zwrotów przewyższa sumę wpłat, różnicę wykazuje się jako liczbę ujemną.
+
+6. Sprawozdanie, o którym mowa w ust. 1 pkt 3, sporządza się, wykazując:
+
+- **1)** w rubryce 2 i 3 nazwę i symbol waluty, w której jest sporządzane sprawozdanie;
+- **2)** w kolumnie „Plan” kwoty wynikające z planu finansowego wydatków placówki;
+- **3)** w kolumnie „Wykonanie” kwoty wykonanych wydatków budżetowych placówki na podstawie danych ewidencji analitycznej wydatków budżetowych, prowadzonej do konta 400 „Wydatki budżetowe”.
+
+7. Sprawozdanie jednostkowe, o którym mowa w ust. 1 pkt 4, sporządza się w szczegółowości: dział, rozdział, paragraf, wykazując:
+
+- **1)** w dziale A. „Dochody”:
+    - **a)** w kolumnie „plan” kwoty dochodów planowanych w ramach planu finansowego,
+    - **b)** w kolumnie „wykonanie” kwoty dochodów na podstawie danych ewidencji analitycznej dochodów, o których mowa w art. 163 ust. 1 ustawy o finansach publicznych;
+
+- **2)** w dziale B. „Wydatki”:
+    - **a)** w kolumnie „plan” kwoty wydatków planowanych w ramach planu finansowego,
+    - **b)** w kolumnie „wykonanie” kwoty wydatków na podstawie danych ewidencji analitycznej wydatków, o których mowa w art. 163 ust. 3 ustawy o finansach publicznych,
+    - **c)** w wierszu K 150 „Stan środków pieniężnych na początek okresu sprawozdawczego” stan środków pieniężnych na dzień 1 stycznia na rachunku bankowym i w kasie ustalony na podstawie konta szczegółowego, prowadzonego w ramach konta syntetycznego, dla dochodów, o których mowa w art. 163 ust. 1 ustawy o finansach publicznych,
+    - **d)** w wierszu P 150 „Stan środków pieniężnych na koniec okresu sprawozdawczego” stan środków pieniężnych na koniec okresu sprawozdawczego na rachunkach bankowych i w kasie ustalony na podstawie konta szczegółowego, prowadzonego w ramach konta syntetycznego, dla dochodów, o których mowa w art. 163 ust. 1 ustawy o finansach publicznych.
+
+**§ 20.**
+
+1. Dysponent części budżetowej wykazuje, w zależności od okresu sprawozdawczego, w sprawozdaniu łącznym o dochodach odpowiednio:
+
+- **1)** dane ze sprawozdań placówek;
+- **2)** kwoty wynikające z otrzymanych przelewów pieniężnych dochodów budżetowych z placówek, otrzymane w danym okresie sprawozdawczym;
+- **3)** kwoty przekazanych środków pieniężnych z rachunku bieżącego wydatków na rachunek bieżący dochodów stanowiące równowartość zrealizowanych przez placówkę dochodów w danym okresie sprawozdawczym i pozostawionych w placówce, jako środki przyznane na finansowanie wydatków.
+
+2. Sprawozdanie łączne o dochodach w poszczególnych okresach sprawozdawczych dysponent części budżetowej sporządza następująco:
+
+- **1)** za miesiąc styczeń włącza do sprawozdania Rb-27 kwoty, o których mowa w ust. 1 pkt 2 i 3, i wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **2)** za miesiąc luty włącza do sprawozdania Rb-27 kwoty, o których mowa w ust. 1 pkt 2 i 3, i wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **3)** za miesiąc marzec włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, kwoty ze sprawozdań placówek o dochodach za I kwartał – po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **4)** za miesiąc kwiecień włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za I kwartał, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **5)** za miesiąc maj włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za I kwartał, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **6)** za miesiąc czerwiec włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, kwoty ze sprawozdań placówek o dochodach za II kwartały – po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **7)** za miesiąc lipiec włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za II kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **8)** za miesiąc sierpień włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za II kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **9)** za miesiąc wrzesień włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, kwoty ze sprawozdań placówek o dochodach za III kwartały po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **10)** za miesiąc październik włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **11)** za miesiąc listopad włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **12)** za miesiąc grudzień włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, przeliczone kwoty ze sprawozdań placówek o dochodach za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone dochody otrzymane z placówek;
+- **13)** za rok włącza do sprawozdania Rb-27, w poszczególnych paragrafach dochodów, kwoty ze sprawozdań placówek o dochodach za IV kwartały po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku do końca roku, na dzień kończący rok budżetowy, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 1 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie, określonym w klasyfikacji budżetowej dla różnic kursowych.
+
+3. Dysponent części budżetowej wykazuje, w zależności od okresu sprawozdawczego, w sprawozdaniu łącznym o wydatkach (Rb-28) odpowiednio:
+
+- **1)** dane ze sprawozdań placówek;
+- **2)** kwoty środków pieniężnych przekazanych placówkom na wydatki budżetowe w danym okresie sprawozdawczym;
+- **3)** kwoty środków pieniężnych przekazanych w danym okresie sprawozdawczym z rachunku bieżącego wydatków na rachunek bieżący dochodów stanowiące równowartość zrealizowanych dochodów przez placówki i pozostawionych im jako środki przyznane na finansowanie wydatków.
+
+4. Sprawozdanie łączne o wydatkach w poszczególnych okresach sprawozdawczych dysponent części budżetowej sporządza następująco:
+
+- **1)** za miesiąc styczeń włącza do sprawozdania Rb-28 kwoty, o których mowa w ust. 3 pkt 2 i 3, i wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **2)** za miesiąc luty włącza do sprawozdania Rb-28 kwoty, o których mowa w ust. 3 pkt 2 i 3, i wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **3)** za miesiąc marzec włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, kwoty ze sprawozdań placówek za I kwartał po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **4)** za miesiąc kwiecień włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za I kwartał, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **5)** za miesiąc maj włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za I kwartał, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **6)** za miesiąc czerwiec włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, kwoty ze sprawozdań placówek za II kwartały po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **7)** za miesiąc lipiec włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za II kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **8)** za miesiąc sierpień włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za II kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **9)** za miesiąc wrzesień włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, kwoty ze sprawozdań placówek za III kwartały po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku roku do końca poszczególnych miesięcy, na dzień kończący miesiąc, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **10)** za miesiąc październik włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **11)** za miesiąc listopad włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **12)** za miesiąc grudzień włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, przeliczone kwoty ze sprawozdań placówek za III kwartały, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, a sumą tych kwot wykazuje w jednym paragrafie jako nierozliczone środki budżetowe;
+- **13)** za rok włącza do sprawozdania Rb-28, w poszczególnych paragrafach wydatków, kwoty ze sprawozdań placówek za IV kwartały po przeliczeniu na złote po ustalonym przez NBP średnioważonym kursie walut liczonym narastająco od początku do końca roku, na dzień kończący rok budżetowy, a różnicę (dodatnią lub ujemną) pomiędzy wysokością środków, o których mowa w ust. 3 pkt 2 i 3, po uwzględnieniu zwrotów środków z placówek, a sumą tak przeliczonych kwot wykazuje w jednym paragrafie określonym w klasyfikacji budżetowej dla różnic kursowych.
+
+5. Dysponent części budżetowej sporządza sprawozdanie łączne Rb-34PL na podstawie danych ze sprawozdań placówek, po przeliczeniu ich na złote przy zastosowaniu kursu średniego NBP, aktualnego na dzień kończący okres sprawozdawczy.
+
+6. Dysponent części budżetowej sporządza sprawozdanie łączne Rb-23PL na podstawie sprawozdań placówek Rb-23PL za IV kwartały, w zakresie danych dotyczących wierszy od 1 do 6 i od 10 do 15, po ich przeliczeniu przy zastosowaniu kursu średniego NBP aktualnego na dzień kończący rok budżetowy.
+
+7. Dysponent części budżetowej na otrzymanych sprawozdaniach jednostkowych umieszcza adnotację o kursie waluty, według którego są przeliczane dane ze sprawozdań jednostkowych.
+
+8. Do czasu otrzymania oryginałów sprawozdań dane ze sprawozdań przekazanych faksem lub pocztą elektroniczną mogą być włączone do sprawozdań łącznych dysponenta części budżetowej.
+
+9. Przesłanie sprawozdania faksem lub pocztą elektroniczną nie zwalnia kierownika placówki z obowiązku przekazania oryginału sprawozdania.
+
+10. Dysponent części budżetowej sprawdza, czy otrzymany oryginał sprawozdania jest zgodny ze sprawozdaniem przekazanym faksem lub pocztą elektroniczną. Jeżeli dane wykazane w sprawozdaniu przekazanym faksem lub pocztą elektroniczną są niezgodne z danymi wykazanymi w oryginale sprawozdania placówki, dysponent części budżetowej koryguje sprawozdanie łączne za bieżący okres sprawozdawczy.
+
+11. Dopuszcza się, aby w sytuacjach kryzysowych (np. ewakuacja placówki), gdy nie jest możliwe otrzymanie sprawozdania z placówki, dysponent części budżetowej włączył do sprawozdania łącznego dane placówki z poprzedniego okresu sprawozdawczego w ramach danego roku budżetowego oraz:
+
+- **1)** w zakresie dochodów:
+    - **a)** kwoty wynikające z otrzymanych przelewów pieniężnych dochodów budżetowych z placówek, otrzymane w danym okresie sprawozdawczym,
+    - **b)** kwoty przekazanych środków pieniężnych – z rachunku bieżącego wydatków na rachunek bieżący dochodów – stanowiące równowartość dochodów zrealizowanych przez placówkę w danym okresie sprawozdawczym i pozostawionych w placówce jako środki przyznane na finansowanie wydatków;
+
+- **2)** w zakresie wydatków:
+    - **a)** kwoty środków pieniężnych przekazanych placówkom na wydatki budżetowe w danym okresie sprawozdawczym,
+    - **b)** kwoty przekazanych w danym okresie sprawozdawczym środków pieniężnych – z rachunku bieżącego wydatków na rachunek bieżący dochodów – stanowiące równowartość zrealizowanych dochodów przez placówki i pozostawionych im jako środki przyznane na finansowanie wydatków;
+
+- **3)** odpowiednio dane, o których mowa w pkt 1 i 2, w przypadku braku sprawozdań w danym roku budżetowym; dane te należy wykazać w paragrafie „nierozliczone dochody otrzymane z placówek polskich za granicą” w sprawozdaniu Rb-27 i w paragrafie „nierozliczone środki budżetowe przekazane jednostkom budżetowym mającym siedziby poza granicami Rzeczypospolitej Polskiej na finansowanie wydatków” w sprawozdaniu Rb-28.
+
 #### Rozdział 13 Sprawozdanie Rb-FUS z wykonania wybranych elementów planu finansowego Funduszu Ubezpieczeń Społecznych
+
+**§ 21.** Sprawozdanie sporządza się zgodnie z treścią formularza.
 
 #### Rozdział 14 Sprawozdanie Rb-FER z wykonania wybranych elementów planu finansowego Funduszu Emerytalno-Rentowego
 
+**§ 22.** Sprawozdanie sporządza się zgodnie z treścią formularza.
+
 #### Rozdział 15 Sprawozdanie Rb-FEP z wykonania wybranych elementów planu finansowego Funduszu Emerytur Pomostowych
+
+**§ 23.** Sprawozdanie sporządza się zgodnie z treścią formularza.
 
 #### Rozdział 16 Sprawozdanie Rb-28 Programy – sprawozdanie z wykonania planu wydatków budżetu państwa w zakresie programów realizowanych ze środków pochodzących z budżetu UE oraz niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA, z wyłączeniem wydatków na realizację Wspólnej Polityki Rolnej
 
+**§ 24.**
+
+1. Sprawozdanie sporządza się w odniesieniu do wydatków w zakresie programów realizowanych ze środków pochodzących z budżetu Unii Europejskiej oraz niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA, z wyłączeniem wydatków ze środków na realizację Wspólnej Polityki Rolnej, o których mowa w art. 5 ust. 3 pkt 4 ustawy o finansach publicznych – finansowanych w ramach budżetu państwa (tj. z wyłączeniem wydatków w ramach budżetu środków europejskich ujętych w sprawozdaniu Rb-28 UE).
+
+2. Sprawozdanie sporządza się w szczegółowości: program, część, dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w programach.
+
+3. Sprawozdanie sporządza się w zakresie następujących danych: „Plan (po zmianach)”, „Zaangażowanie”, „Wykonanie wydatków” – w podziale na wkład Unii Europejskiej oraz wkład budżetu państwa.
+
+4. Wkład Unii Europejskiej – dotyczy wydatków budżetu państwa na realizację programów i projektów podlegających refundacji z budżetu Unii Europejskiej, z wyłączeniem wydatków ze środków na realizację Wspólnej Polityki Rolnej, lub niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „1”, „5” lub „8”.
+
+5. Wkład budżetu państwa – dotyczy wydatków budżetu państwa na współfinansowanie krajowe wkładu publicznego w realizację programów i projektów finansowanych z budżetu Unii Europejskiej, z wyłączeniem wydatków ze środków na realizację Wspólnej Polityki Rolnej, lub niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „2”, „6”, „9”.
+
+6. Sprawozdanie sporządza się następująco:
+
+- **1)** w kolumnie „Nazwa Programu” należy powtórzyć tyle razy nazwę danego programu, ile wystąpi wierszy w kolumnach: „dział”, „rozdział”, „paragraf”;
+- **2)** w kolumnach: „część”, „dział”, „rozdział”, „paragraf” należy kolejno wypełniać wszystkie pola dla danego paragrafu;
+- **3)** w kolumnie „Plan (po zmianach)” wykazuje się dane o planowanych wydatkach, z uwzględnieniem zmian dokonanych w trybie określonym w ustawie o finansach publicznych;
+- **4)** w kolumnie „Zaangażowanie” wykazuje się kwoty wynikające z zawartych z beneficjentami umów o dofinansowanie, decyzji, porozumień i innych dokumentów, których wykonanie powoduje konieczność dokonania wydatków budżetowych w roku bieżącym;
+- **5)** w kolumnie „Wykonanie wydatków” wykazuje się wykonane wydatki, na podstawie danych księgowości analitycznej do konta rachunek bieżący jednostki budżetowej.
+
+7. W kolumnie „Nazwa Programu” punkty oraz programy w ramach punktów mogą być uszeregowane w kolejności innej, niż podana we wzorze sprawozdania.
+
 #### Rozdział 17 Sprawozdanie Rb-28 Programy WPR – sprawozdanie z wykonania planu wydatków budżetu państwa w zakresie programów realizowanych ze środków pochodzących z budżetu UE na realizację Wspólnej Polityki Rolnej
+
+**§ 25.**
+
+1. Sprawozdanie sporządza się w odniesieniu do wydatków w zakresie programów realizowanych ze środków pochodzących z budżetu Unii Europejskiej na realizację Wspólnej Polityki Rolnej, o których mowa w art. 5 ust. 3 pkt 4 ustawy o finansach publicznych, finansowanych w ramach budżetu państwa (z wyłączeniem wydatków w ramach budżetu środków europejskich ujętych w sprawozdaniu Rb-28UE WPR).
+
+2. Sprawozdanie sporządza się w szczegółowości: program, część, dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w programach.
+
+3. Sprawozdanie sporządza się w zakresie następujących danych: „Plan (po zmianach)”, „Zaangażowanie”, „Wykonanie wydatków” – w podziale na wkład Unii Europejskiej oraz wkład budżetu państwa.
+
+4. Wkład Unii Europejskiej – dotyczy wydatków budżetu państwa na realizację programów i projektów podlegających refundacji z budżetu Unii Europejskiej na realizację Wspólnej Polityki Rolnej i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „8”.
+
+5. Wkład budżetu państwa – dotyczy wydatków budżetu państwa na współfinansowanie krajowe wkładu publicznego w realizację programów i projektów finansowanych z budżetu Unii Europejskiej, na realizację Wspólnej Polityki Rolnej i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „9”.
+
+6. Sprawozdanie sporządza się następująco:
+
+- **1)** w kolumnie „Nazwa Programu” należy powtórzyć tyle razy nazwę danego programu, ile wystąpi wierszy w kolumnach: „dział”, „rozdział”, „paragraf”;
+- **2)** w kolumnach „część”, „dział”, „rozdział”, „paragraf” należy kolejno wypełniać wszystkie pola dla danego paragrafu;
+- **3)** w kolumnie „Plan (po zmianach)” wykazuje się dane o planowanych wydatkach, z uwzględnieniem zmian dokonanych w trybie określonym w ustawie o finansach publicznych;
+- **4)** w kolumnie „Zaangażowanie” wykazuje się kwoty wynikające z decyzji, umów zawartych z beneficjentami programu i innych umów i postanowień, które powodują konieczność wydatkowania w danym roku budżetowym środków na realizację Wspólnej Polityki Rolnej;
+- **5)** w kolumnie „Wykonanie wydatków” wykazuje się wykonane wydatki, na podstawie danych księgowości analitycznej do konta rachunek bieżący jednostki budżetowej.
 
 #### Rozdział 18 Rb-28NW Programy – sprawozdanie z wykonania planu wydatków budżetu państwa, które nie wygasły z upływem roku budżetowego w zakresie programów realizowanych ze środków pochodzących z budżetu UE oraz niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA
 
+**§ 26.**
+
+1. Sprawozdanie sporządza się w odniesieniu do wydatków w zakresie programów realizowanych ze środków pochodzących z budżetu Unii Europejskiej oraz niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA – finansowanych w ramach budżetu państwa (tj. z wyłączeniem wydatków w ramach budżetu środków europejskich ujętych w sprawozdaniu Rb-28 UE), które nie wygasły z upływem roku budżetowego.
+
+2. Dysponenci środków budżetu państwa realizujący wydatki, o których mowa w art. 181 ust. 2 ustawy o finansach publicznych, sporządzają sprawozdania z wykonania planów tych wydatków w szczegółowości: część, dział, rozdział, paragraf; sumowaniu podlegają kwoty wyszczególnione w programach.
+
+3. Sprawozdanie sporządza się w zakresie następujących danych: „Plan”, „Wykonanie wydatków” – w podziale na wkład Unii Europejskiej oraz wkład budżetu państwa.
+
+4. Wkład Unii Europejskiej – dotyczy wydatków budżetu państwa na realizację programów i projektów podlegających refundacji z budżetu Unii Europejskiej lub niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „1”, „5” lub „8”.
+
+5. Wkład budżetu państwa – dotyczy wydatków budżetu państwa na współfinansowanie krajowego wkładu publicznego w realizację programów i projektów finansowanych z budżetu Unii Europejskiej lub niepodlegających zwrotowi środków z pomocy udzielanej przez państwa członkowskie EFTA i oznaczonych w klasyfikacji budżetowej czwartą cyfrą „2”, „6”, „9”.
+
+6. W kolumnie „Nazwa Programu” należy powtórzyć tyle razy nazwę danego programu, ile wystąpi wierszy w kolumnach: „dział”, „rozdział”, „paragraf”.
+
+7. W kolumnach: „część”, „dział”, „rozdział”, „paragraf” należy kolejno wypełniać wszystkie pola dla danego paragrafu.
+
+8. W kolumnie „Plan” wykazuje się plan finansowy, ustalony przez Radę Ministrów, o którym mowa w art. 181 ust. 2 ustawy o finansach publicznych.
+
+9. W kolumnie „Wykonanie wydatków” wykazuje się wykonanie wydatków na podstawie danych księgowości analitycznej do rachunku dla środków na wydatki niewygasające.
+
+10. Dane w sprawozdaniach wykazuje się według klasyfikacji budżetowej obowiązującej w roku, w którym plan został ustalony przez Radę Ministrów.
+
 #### Rozdział 19 Korekty sprawozdań
 
+**§ 27.**
+
+1. Korekty danych dotyczących poprzednich okresów sprawozdawczych uwzględnia się odpowiednio w sprawozdaniach sporządzanych za bieżący okres sprawozdawczy, z uwzględnieniem § 9 ust. 7 rozporządzenia.
+
+2. Miesięczne sprawozdania Rb-40, Rb-FUS, Rb-FER i Rb-FEP za grudzień, sprawozdania za IV kwartały i łączne sprawozdania roczne mogą być korygowane w terminie do dnia 30 kwietnia roku następującego po roku budżetowym. Przekazując korektę sprawozdania, należy dołączyć wyjaśnienie przyczyny dokonywania korekty.
+
 #### Rozdział 20 Przekazywanie sprawozdań w formie dokumentu elektronicznego
+
+**§ 28.**
+
+1. W Informatycznym Systemie Obsługi Budżetu Państwa przekazuje się sprawozdania Rb-23, Rb-24, Rb-27, Rb-28, Rb-28NW, Rb-28 Programy, Rb-28 Programy WPR, Rb-28NW Programy, Rb-33, Rb-34, Rb-35, Rb-40, Rb-50 i łączne Rb-34PL.
+
+2. Szczegółowy sposób sporządzania i przekazywania sprawozdań w Informatycznym Systemie Obsługi Budżetu Państwa jest wskazany w tym systemie w Module Sprawozdawczości Budżetowej w zakładce „Instrukcja”.
+
+3. Sprawozdania Rb-28 Programy i Rb-28NW Programy Ministerstwo Finansów udostępnia ministrowi właściwemu do spraw rozwoju regionalnego oraz ministrowi właściwemu do spraw wewnętrznych.
+
+4. Sprawozdania Rb-28 Programy WPR Ministerstwo Finansów udostępnia ministrowi właściwemu do spraw rozwoju wsi.
+
+5. W przypadku zmiany organu dysponującego częścią budżetu państwa, w terminie innym niż dzień kończący okres sprawozdawczy lub dzień kończący rok sprawozdawczy, sprawozdania, o których mowa w ust. 1, przekazuje się, nie później niż 3 dni przed terminem sporządzenia tych sprawozdań za kolejny okres sprawozdawczy, na elektroniczną skrzynkę podawczą organu przejmującego uprawnienia do dysponowania częścią budżetową.
+
+**§ 29.**
+
+1. Sprawozdania Rb-70, Rb-FUS, Rb-FER i Rb-FEP przekazuje się na elektroniczną skrzynkę podawczą odbiorcy.
+
+2. Sprawozdania, o których mowa w ust. 1, sporządza się w arkuszu kalkulacyjnym; wzory formularzy znajdują się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
 ## Załącznik nr 37
 

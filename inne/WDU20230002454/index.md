@@ -34,42 +34,51 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2) § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 25 marca 2022 r. zmieniającego rozporządzenie w sprawie ustalenia listy gatunków zwierząt łownych (Dz. U. poz. 696), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.”. Minister Klimatu i Środowiska: A. Moskwa
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 11 marca 2005 r.
 w sprawie ustalenia listy gatunków zwierząt łownych Na podstawie art. 5 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2023 r. poz. 1082) zarządza się, co następuje:
-§ 1. 1. Ustala się następującą listę gatunków zwierząt łownych:
-1) zwierzyna gruba:
-a) łoś (Alces alces),
-b) jeleń szlachetny (Cervus elaphus),
-c) (uchylona),
-d) daniel (Dama dama),
-e) sarna (Capreolus capreolus),
-f) dzik (Sus scorfa),
-g) muflon (Ovis aries musimon);
-2) zwierzyna drobna:
-a) lis (Vulpes vulpes),
-b) (uchylona),
-c) borsuk (Meles meles),
-d) kuna leśna (Martes martes),
-e) kuna domowa (Martes foina),
-f) norka amerykańska (Mustela vison),
-g) tchórz zwyczajny (Mustela putorius),
-h) (uchylona),
-i) (uchylona),
-j) zając szarak (Lepus europaeus),
-k) dziki królik (Oryctolagus cuniculus),
-l) jarząbek (Tetrastes bonasia),
-m) bażant (Phasianus ssp.),
-n) kuropatwa (Perdix perdix),
-o) gęś gęgawa (Anser anser),
-p) gęś zbożowa (Anser fabalis),
-r) gęś białoczelna (Anser albifrons),
-s) krzyżówka (Anas platyrhynchos),
-t) cyraneczka (Anas crecca),
-u) głowienka (Aythya ferina),
-w) czernica (Aythya fuligula),
-x) gołąb grzywacz (Columba palumbus),
-y) słonka (Scolopax rusticola),
-z) łyska (Fulica atra), za) szakal złocisty (Canis aureus).
+
+**§ 1.**
+
+1. Ustala się następującą listę gatunków zwierząt łownych:
+
+- **1)** zwierzyna gruba:
+    - **a)** łoś (Alces alces),
+    - **b)** jeleń szlachetny (Cervus elaphus),
+    - **c)** (uchylona),
+    - **d)** daniel (Dama dama),
+    - **e)** sarna (Capreolus capreolus),
+    - **f)** dzik (Sus scorfa),
+    - **g)** muflon (Ovis aries musimon);
+
+- **2)** zwierzyna drobna:
+    - **a)** lis (Vulpes vulpes),
+    - **b)** (uchylona),
+    - **c)** borsuk (Meles meles),
+    - **d)** kuna leśna (Martes martes),
+    - **e)** kuna domowa (Martes foina),
+    - **f)** norka amerykańska (Mustela vison),
+    - **g)** tchórz zwyczajny (Mustela putorius),
+    - **h)** (uchylona),
+    - **i)** (uchylona),
+    - **j)** zając szarak (Lepus europaeus),
+    - **k)** dziki królik (Oryctolagus cuniculus),
+    - **l)** jarząbek (Tetrastes bonasia),
+    - **m)** bażant (Phasianus ssp.),
+    - **n)** kuropatwa (Perdix perdix),
+    - **o)** gęś gęgawa (Anser anser),
+    - **p)** gęś zbożowa (Anser fabalis),
+    - **r)** gęś białoczelna (Anser albifrons),
+    - **s)** krzyżówka (Anas platyrhynchos),
+    - **t)** cyraneczka (Anas crecca),
+    - **u)** głowienka (Aythya ferina),
+    - **w)** czernica (Aythya fuligula),
+    - **x)** gołąb grzywacz (Columba palumbus),
+    - **y)** słonka (Scolopax rusticola),
+    - **z)** łyska (Fulica atra), za) szakal złocisty (Canis aureus).
+
 2. Do zwierzyny płowej zalicza się gatunki zwierząt łownych, o których mowa w ust. 1 pkt 1 lit. a, b, d oraz lit. e.
+
 3. Do drapieżników zalicza się gatunki zwierząt łownych, o których mowa w ust. 1 pkt 2 lit. a, c–g oraz lit. za.
-§ 2. Traci moc rozporządzenie Ministra Środowiska z dnia 10 kwietnia 2001 r. w sprawie ustalenia listy gatunków zwierząt łownych oraz określenia okresów polowań na te zwierzęta (Dz. U. poz. 488 oraz z 2004 r. poz. 729) w zakresie ustalenia listy gatunków zwierząt łownych.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2005 r.
+
+**§ 2.** Traci moc rozporządzenie Ministra Środowiska z dnia 10 kwietnia 2001 r. w sprawie ustalenia listy gatunków zwierząt łownych oraz określenia okresów polowań na te zwierzęta (Dz. U. poz. 488 oraz z 2004 r. poz. 729) w zakresie ustalenia listy gatunków zwierząt łownych.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2005 r.
 

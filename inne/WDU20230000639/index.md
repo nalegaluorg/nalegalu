@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie typów szkół i placówek, w których nie tworzy się samorządu uczniowskiego Na podstawie art. 85 ust. 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. w sprawie typów szkół i placówek, w których nie tworzy się samorządu uczniowskiego (Dz. U. z 2020 r. poz. 2082) w § 1 pkt 3 otrzymuje brzmienie: „3) szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: wz. D. Piontkowski
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 26 lipca 2018 r. w sprawie typów szkół i placówek, w których nie tworzy się samorządu uczniowskiego (Dz. U. z 2020 r. poz. 2082) w § 1 pkt 3 otrzymuje brzmienie: „3) szkołach w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji i Nauki: wz. D. Piontkowski
 

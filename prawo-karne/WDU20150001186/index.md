@@ -31,7 +31,10 @@ source: pdf
 
 - **1)** w art. 78 § 2 otrzymuje brzmienie: „§ 2. Sąd może cofnąć wyznaczenie obrońcy, jeżeli okaże się, że nie istnieją okoliczności, na podstawie których go wyznaczono. Na postanowienie o cofnięciu wyznaczenia obrońcy przysługuje zażalenie do innego równorzędnego składu tego sądu.”;
 - **2)** w art. 80a dodaje się § 4 w brzmieniu: „§ 4. Na zarządzenie prezesa sądu o odmowie ponownego wyznaczenia obrońcy przysługuje zażalenie do sądu właściwego do rozpoznania sprawy, a na postanowienie sądu o odmowie ponownego wyznaczenia obrońcy – zażalenie do innego równorzędnego składu tego sądu.”;
-- **3)** w art. 81 po § 1 dodaje się § 1a i 1b w brzmieniu: „§ 1a. Na zarządzenie prezesa sądu o odmowie wyznaczenia obrońcy przysługuje zażalenie do sądu właściwego do rozpoznania sprawy, a na postanowienie sądu o odmowie wyznaczenia obrońcy – zażalenie do innego równorzędnego składu tego sądu. § 1b. Ponowny wniosek o wyznaczenie obrońcy, oparty na tych samych okolicznościach, pozostawia się bez rozpoznania.”;
+- **3)** w art. 81 po § 1 dodaje się § 1a i 1b w brzmieniu:
+
+  > „§ 1a. Na zarządzenie prezesa sądu o odmowie wyznaczenia obrońcy przysługuje zażalenie do sądu właściwego do rozpoznania sprawy, a na postanowienie sądu o odmowie wyznaczenia obrońcy – zażalenie do innego równorzędnego składu tego sądu.  
+  > § 1b. Ponowny wniosek o wyznaczenie obrońcy, oparty na tych samych okolicznościach, pozostawia się bez rozpoznania.”;  
 - **4)** w art. 87a § 1 otrzymuje brzmienie: „§ 1. Na wniosek strony innej niż oskarżony, która nie ma pełnomocnika z wyboru, prezes sądu, sąd lub referendarz sądowy wyznacza w postępowaniu sądowym pełnomocnika z urzędu. Przepisy art. 81 § 1a i 1b stosuje się odpowiednio.”.
 
 **Art. 2.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2013 r. poz. 395, z późn. zm. ) w art. 23:

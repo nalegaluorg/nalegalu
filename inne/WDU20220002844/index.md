@@ -26,8 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002844) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2844/text.pdf) |
 
 zmieniające rozporządzenie w sprawie stanowisk służbowych, na których funkcjonariusze Służby Więziennej nie mają obowiązku noszenia umundurowania i wyposażenia polowego Na podstawie art. 154 ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 12 października 2020 r. w sprawie stanowisk służbowych, na których funkcjonariusze Służby Więziennej nie mają obowiązku noszenia umundurowania i wyposażenia polowego (Dz. U. poz. 1855 oraz z 2022 r. poz. 1245) w § 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „4) w Inspektoracie Wewnętrznym Służby Więziennej, na których są realizowane zadania w formie czynności operacyjno-rozpoznawczych;
-5) w uczelni Służby Więziennej, na których są wykonywane działania wykraczające poza zadania realizowane przez Służbę Więzienną.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 12 października 2020 r. w sprawie stanowisk służbowych, na których funkcjonariusze Służby Więziennej nie mają obowiązku noszenia umundurowania i wyposażenia polowego (Dz. U. poz. 1855 oraz z 2022 r. poz. 1245) w § 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu:
+
+> „4) w Inspektoracie Wewnętrznym Służby Więziennej, na których są realizowane zadania w formie czynności operacyjno-rozpoznawczych;  
+> 5) w uczelni Służby Więziennej, na których są wykonywane działania wykraczające poza zadania realizowane przez Służbę Więzienną.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

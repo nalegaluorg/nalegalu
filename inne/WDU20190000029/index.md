@@ -166,3 +166,15 @@ source: pdf
 
 **Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+WZÓR Wniosek o wypłatę świadczenia rekompensacyjnego z tytułu utraty prawa do bezpłatnego węgla oraz z tytułu zaprzestania pobierania bezpłatnego węgla w naturze lub w ekwiwalencie pieniężnym Imię/imiona osoby uprawnionej Nazwisko osoby uprawnionej Numer PESEL Nazwa przedsiębiorstwa górniczego (oddział/ kopalnia), z którego osoba uprawniona przeszła na emeryturę lub rentę albo z którego zmarły współmałżonek osoby uprawnionej przeszedł na emeryturę lub rentę, albo z którego osoba uprawniona otrzymywała bezpłatny węgiel w naturze lub w ekwiwalencie pieniężnym lub które przyznało jej to uprawnienie Wskazanie sposobu wypłaty rekompensaty przekaz pocztowy/przelew bankowy* ........................................... ...................... ..................................
+ulica nr domu nr mieszkania Adres zamieszkania osoby uprawnionej ....................................................
+kod pocztowy miejscowość Numer rachunku bankowego/numer rachunku prowadzonego w spółdzielczej kasie oszczędnościowo-kredytowej Telefon do kontaktu z osobą uprawnioną miejscowość, data ………………………...
+.……..……………………………………………..
+czytelny podpis osoby uprawnionej Potwierdzam własnoręczność podpisu osoby uprawnionej Miejscowość, data Pieczątka notariusza/urzędu* Podpis notariusza albo wójta, burmistrza, prezydenta miasta lub osoby przez niego upoważnionej* ………………………………………………………..
+data i czytelny podpis osoby przyjmującej wniosek * Niepotrzebne skreślić.
+POUCZENIE: Do wniosku dołącza się:
+1) dokumenty potwierdzające uprawnienie do rekompensaty;
+2) oświadczenie, o którym mowa w art. 5 ust. 3 pkt 2 ustawy z dnia 23 listopada 2018 r. o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla oraz z tytułu zaprzestania pobierania bezpłatnego węgla przez osoby niebędące pracownikami przedsiębiorstwa górniczego (Dz. U. z 2019 r. poz. 29), zawierające klauzulę, o której mowa w art. 5 ust. 4 tej ustawy.
+

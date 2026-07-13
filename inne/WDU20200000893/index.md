@@ -34,18 +34,35 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 23 stycznia 2018 r. zmieniającego rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 218), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 18 listopada 2003 r.
 w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom Na podstawie art. 87 ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360) zarządza się, co następuje:
-§ 1. 1. Wyróżnień, o których mowa w art. 87 ust. 1 pkt 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, zwanej dalej „ustawą”, udzielają policjantom Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, komendanci wojewódzcy (Komendant Stołeczny) Policji, komendanci powiatowi (miejscy, rejonowi) Policji oraz komendanci szkół policyjnych.
+
+**§ 1.**
+
+1. Wyróżnień, o których mowa w art. 87 ust. 1 pkt 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, zwanej dalej „ustawą”, udzielają policjantom Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, komendanci wojewódzcy (Komendant Stołeczny) Policji, komendanci powiatowi (miejscy, rejonowi) Policji oraz komendanci szkół policyjnych.
+
 2. Wyróżnienia, o którym mowa w art. 87 ust. 1 pkt 4 ustawy, udzielają policjantom Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, komendanci wojewódzcy (Komendant Stołeczny) Policji, z wyjątkiem przypadku, o którym mowa w art. 48 ust. 3 ustawy.
+
 3. Właściwość przełożonych oraz postępowanie w sprawach udzielenia wyróżnienia, o którym mowa w art. 87 ust. 1 pkt 3 ustawy, określają przepisy o wzorach odznak policyjnych oraz szczegółowych zasadach i trybie ich nadawania policjantom.
-§ 2. 1. Przełożeni, o których mowa w § 1, udzielają wyróżnień z własnej inicjatywy lub na wniosek bezpośredniego przełożonego policjanta.
+
+**§ 2.**
+
+1. Przełożeni, o których mowa w § 1, udzielają wyróżnień z własnej inicjatywy lub na wniosek bezpośredniego przełożonego policjanta.
+
 2. Wniosek o udzielenie wyróżnienia powinien zawierać:
-1) stopień, imię i nazwisko, stanowisko służbowe oraz numer identyfikacyjny policjanta proponowanego do wyróżnienia;
-2) rodzaj proponowanego wyróżnienia;
-3) wskazanie okoliczności stanowiących podstawę do udzielenia wyróżnienia;
-4) podpis, stopień, imię i nazwisko oraz stanowisko służbowe bezpośredniego przełożonego występującego z wnioskiem.
-§ 3. 1. Wyróżnień udziela się policjantom w sposób uroczysty.
+
+- **1)** stopień, imię i nazwisko, stanowisko służbowe oraz numer identyfikacyjny policjanta proponowanego do wyróżnienia;
+- **2)** rodzaj proponowanego wyróżnienia;
+- **3)** wskazanie okoliczności stanowiących podstawę do udzielenia wyróżnienia;
+- **4)** podpis, stopień, imię i nazwisko oraz stanowisko służbowe bezpośredniego przełożonego występującego z wnioskiem.
+
+**§ 3.**
+
+1. Wyróżnień udziela się policjantom w sposób uroczysty.
+
 2. Wyróżnienie ogłasza się w rozkazie personalnym. W rozkazie personalnym podaje się stopień, nazwisko, imię i stanowisko służbowe wyróżnionego, rodzaj wyróżnienia oraz uzasadnienie jego udzielenia.
+
 3. Przełożony udzielający wyróżnienia może podać do wiadomości policjantom i pracownikom Policji rozkaz personalny o wyróżnieniu.
-§ 4. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 1997 r. w sprawie szczegółowych zasad i trybu udzielania wyróżnień oraz przeprowadzania postępowania dyscyplinarnego w stosunku do policjantów (Dz. U. z 1998 r. poz. 14 oraz z 2002 r. poz. 1457).
-§ 5. Rozporządzenie wchodzi w życie z dniem 29 listopada 2003 r.
+
+**§ 4.** Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 19 grudnia 1997 r. w sprawie szczegółowych zasad i trybu udzielania wyróżnień oraz przeprowadzania postępowania dyscyplinarnego w stosunku do policjantów (Dz. U. z 1998 r. poz. 14 oraz z 2002 r. poz. 1457).
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 29 listopada 2003 r.
 

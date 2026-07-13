@@ -27,7 +27,11 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051571316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1316/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz.U. Nr 16, poz. 93, z późn. zm. ) w art. 359 po § 2 dodaje się § 2 1 -2 w brzmieniu: „§ 2 . Maksymalna wysokość odsetek wynikających z czynności prawnej nie może w stosunku rocznym przekraczać czterokrotności wysokości stopy kredytu lombardowego Narodowego Banku Polskiego (odsetki maksymalne). § 2 2 . Jeżeli wysokość odsetek wynikających z czynności prawnej przekracza wysokość odsetek maksymalnych, należą się odsetki maksymalne. § 2 3 . Postanowienia umowne nie mogą wyłączać ani ograniczać przepisów o odsetkach maksymalnych, także w razie dokonania wyboru prawa obcego. W takim przypadku stosuje się przepisy ustawy.”.
+**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz.U. Nr 16, poz. 93, z późn. zm. ) w art. 359 po § 2 dodaje się § 2 1 -2 w brzmieniu:
+
+> „§ 2 . Maksymalna wysokość odsetek wynikających z czynności prawnej nie może w stosunku rocznym przekraczać czterokrotności wysokości stopy kredytu lombardowego Narodowego Banku Polskiego (odsetki maksymalne).  
+> § 2 2 . Jeżeli wysokość odsetek wynikających z czynności prawnej przekracza wysokość odsetek maksymalnych, należą się odsetki maksymalne.  
+> § 2 3 . Postanowienia umowne nie mogą wyłączać ani ograniczać przepisów o odsetkach maksymalnych, także w razie dokonania wyboru prawa obcego. W takim przypadku stosuje się przepisy ustawy.”.  
 
 **Art. 2.** W ustawie z dnia 29 czerwca 1995 r. o obligacjach (Dz.U. z 2001 r. Nr 120, poz. 1300, z 2002 r. Nr 216, poz. 1824 oraz z 2003 r. Nr 217, poz. 2124) uchyla się art. 18.
 

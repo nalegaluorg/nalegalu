@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie rodzajów pism niewymagających opatrzenia podpisem lub pieczęcią przez użytkownika e-Urzędu Skarbowego Na podstawie art. 35d ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r.
 poz. 1131 i 1423) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 7 lipca 2022 r. w sprawie rodzajów pism niewymagających opatrzenia podpisem lub pieczęcią przez użytkownika e-Urzędu Skarbowego (Dz. U. z 2025 r. poz. 170) w § 2 w pkt 14 po wyrazie „informacji” dodaje się wyrazy „ , pełnomocnictw”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów i Gospodarki: wz. J. Drop
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 7 lipca 2022 r. w sprawie rodzajów pism niewymagających opatrzenia podpisem lub pieczęcią przez użytkownika e-Urzędu Skarbowego (Dz. U. z 2025 r. poz. 170) w § 2 w pkt 14 po wyrazie „informacji” dodaje się wyrazy „ , pełnomocnictw”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów i Gospodarki: wz. J. Drop
 

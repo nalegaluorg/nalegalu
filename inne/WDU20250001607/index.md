@@ -28,8 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r.
 poz. 334 i 1907 oraz z 2025 r. poz. 526, 820, 1172 i 1178) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U.
-z 2025 r. poz. 925 i 1012) w § 3 w pkt 5 lit. e otrzymuje brzmienie: „e) Sąd Rejonowy w Nowym Mieście Lubawskim – dla miasta Nowe Miasto Lubawskie oraz gmin: Biskupiec, Bratian, Grodziczno i Kurzętnik oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. z 2025 r. poz. 925 i 1012) w § 3 w pkt 5 lit. e otrzymuje brzmienie: „e) Sąd Rejonowy w Nowym Mieście Lubawskim – dla miasta Nowe Miasto Lubawskie oraz gmin: Biskupiec, Bratian, Grodziczno i Kurzętnik oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r. Minister Sprawiedliwości: W. Żurek
 

@@ -29,11 +29,28 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 180 § 1 i 2 otrzymują brzmienie: „§ 1. Pracownicy przysługuje urlop macierzyński w wymiarze: 1) 18 tygodni przy pierwszym porodzie, 2) 20 tygodni przy każdym następnym porodzie, 3) 28 tygodni w przypadku urodzenia więcej niż jednego dziecka przy jednym porodzie. § 2. Pracownicy, która wychowuje dziecko przysposobione lub która przyjęła dziecko na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej pełniącej zadania pogotowia rodzinnego, przysługuje urlop macierzyński w wymiarze 20 tygodni również przy pierwszym porodzie.”;
-- **2)** art. 183 otrzymuje brzmienie: „Art. 183. § 1. Pracownik, który przyjął dziecko na wychowanie i wystąpił do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka lub który przyjął dziecko na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej niespokrewnionej z dzieckiem, ma prawo do 18 tygodni urlopu na warunkach urlopu macierzyńskiego, nie dłużej jednak niż do ukończenia przez dziecko 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego, nie dłu żej niż do ukończenia przez nie 10 roku życia. Przepisy art. 180 § 5-7 stosuje się odpowiednio. § 2. Jeżeli pracownik, o którym mowa w § 1, przyjął dziecko w wieku do 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego, do 10 roku życia, ma prawo do 8 tygodni urlopu na warunkach urlopu macierzyńskiego.”;
-- **3)** po art. 183 dodaje się art. 183 w brzmieniu: „Art. 183 . § 1. Przy udzielaniu urlopu macierzyńskiego i urlopu na warunkach urlopu macierzyńskiego tydzień urlopu odpowiada 7 dniom kalendarzowym. § 2. Jeżeli pracownica nie korzysta z urlopu macierzyńskiego przed przewidywaną datą porodu, pierwszym dniem urlopu macierzyńskiego jest dzień porodu.”.
+- **1)** w art. 180 § 1 i 2 otrzymują brzmienie:
 
-**Art. 2.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2005 r. Nr 31, poz. 267) w art. 29 ust. 1 otrzymuje brzmienie: „1. Zasiłek macierzyński przysługuje ubezpieczonej, która w okresie ubezpieczenia chorobowego albo w okresie urlopu wychowawczego: 1) urodziła dziecko; 2) przyjęła na wychowanie dziecko w wieku do 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego - do 10 roku życia, i wystąpiła do sądu opiekuńczego w sprawie jego przysposobienia; 3) przyjęła na wychowanie w ramach rodziny zastępczej, z wyjątkiem rodziny zastępczej zawodowej niespokrewnionej z dzieckiem, dziecko w wieku do 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego - do 10 roku życia.”.
+  > „§ 1. Pracownicy przysługuje urlop macierzyński w wymiarze:  
+  > 1) 18 tygodni przy pierwszym porodzie, 2) 20 tygodni przy każdym następnym porodzie, 3) 28 tygodni w przypadku urodzenia więcej niż jednego dziecka przy jednym porodzie.  
+  > § 2. Pracownicy, która wychowuje dziecko przysposobione lub która przyjęła dziecko na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej pełniącej zadania pogotowia rodzinnego, przysługuje urlop macierzyński w wymiarze 20 tygodni również przy pierwszym porodzie.”;  
+- **2)** art. 183 otrzymuje brzmienie:
+
+  > „Art. 183.  
+  > § 1. Pracownik, który przyjął dziecko na wychowanie i wystąpił do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka lub który przyjął dziecko na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej niespokrewnionej z dzieckiem, ma prawo do 18 tygodni urlopu na warunkach urlopu macierzyńskiego, nie dłużej jednak niż do ukończenia przez dziecko 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego, nie dłu żej niż do ukończenia przez nie 10 roku życia. Przepisy art. 180 § 5-7 stosuje się odpowiednio.  
+  > § 2. Jeżeli pracownik, o którym mowa w § 1, przyjął dziecko w wieku do 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego, do 10 roku życia, ma prawo do 8 tygodni urlopu na warunkach urlopu macierzyńskiego.”;  
+- **3)** po art. 183 dodaje się art. 183 w brzmieniu:
+
+  > „Art. 183 .  
+  > § 1. Przy udzielaniu urlopu macierzyńskiego i urlopu na warunkach urlopu macierzyńskiego tydzień urlopu odpowiada 7 dniom kalendarzowym.  
+  > § 2. Jeżeli pracownica nie korzysta z urlopu macierzyńskiego przed przewidywaną datą porodu, pierwszym dniem urlopu macierzyńskiego jest dzień porodu.”.  
+
+**Art. 2.** W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2005 r. Nr 31, poz. 267) w art. 29 ust. 1 otrzymuje brzmienie:
+
+> „1. Zasiłek macierzyński przysługuje ubezpieczonej, która w okresie ubezpieczenia chorobowego albo w okresie urlopu wychowawczego:  
+> 1) urodziła dziecko;  
+> 2) przyjęła na wychowanie dziecko w wieku do 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego - do 10 roku życia, i wystąpiła do sądu opiekuńczego w sprawie jego przysposobienia;  
+> 3) przyjęła na wychowanie w ramach rodziny zastępczej, z wyjątkiem rodziny zastępczej zawodowej niespokrewnionej z dzieckiem, dziecko w wieku do 7 roku życia, a w przypadku dziecka, wobec którego podjęto decyzję o odroczeniu obowiązku szkolnego - do 10 roku życia.”.  
 
 **Art. 3.**
 

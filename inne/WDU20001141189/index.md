@@ -30,8 +30,22 @@ source: pdf
 **Art. 1.** W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz.U. z 1991 r. Nr 8, poz. 27, z 1995 r. Nr 120, poz. 576, z 1997 r. Nr 60, poz. 369 oraz z 1998 r. Nr 106, poz. 668) wprowadza się następujące zmiany:
 
 - **1)** art. 25 otrzymuje brzmienie: „Art. 25. Najwyższą władzą okręgowej izby lekarsko-weterynaryjnej jest okręgowy zjazd lekarzy weterynarii.”;
-- **2)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Okręgowy zjazd lekarzy weterynarii odbywa się co roku, a zjazd sprawozdawczo-wyborczy co cztery lata, w terminach ustalanych przez okręgową radę lekarsko-weterynaryjną. 2. W okręgowym zjeździe lekarzy weterynarii uczestniczą delegaci, a w zjeździe sprawozdawczo-wyborczym oprócz delegatów mogą uczestniczyć z głosem doradczym także nie będący delegatami członkowie ustępujących organów izby, o których mowa w art. 24 pkt 2-5. 3. Wybory delegatów na okręgowy zjazd lekarzy weterynarii są przeprowadzane w rejonach wyborczych pokrywających się z powiatami, z zastrzeżeniem ust. 4. 4. W przypadku powiatów, w których liczba lekarzy weterynarii przekracza 150, rejony wyborcze ustala Krajowa Rada LekarskoWeterynaryjna. 5. Zasady przeprowadzania wyboru delegatów określa regulamin wyborów, o którym mowa w art. 39 ust. 1 pkt 6. 6. W rejonowym zebraniu wyborczym bierze udział co najmniej 1/2 członków okręgowej izby lekarsko-weterynaryjnej wykonujących zawód na terenie rejonu wyborczego.”;
-- **3)** po art. 26 dodaje się art. 26a w brzmieniu: „Art. 26a. 1. Nadzwyczajny okręgowy zjazd lekarzy weterynarii zwołuje okręgowa rada lekarsko-weterynaryjna: 1) z własnej inicjatywy, 2) na wniosek Krajowej Rady Lekarsko-Weterynaryjnej, 3) na wniosek okręgowej komisji rewizyjnej, 4) na wniosek co najmniej 1/5 członków okręgowej izby lekarsko-weterynaryjnej. 2. Nadzwyczajny okręgowy zjazd lekarzy weterynarii zwołuje się w ciągu miesiąca od dnia wpływu wniosku w sprawie jego zwołania. 3. Nadzwyczajny okręgowy zjazd lekarzy weterynarii obraduje nad sprawami dla których został zwołany.”.
+- **2)** art. 26 otrzymuje brzmienie:
+
+  > „Art. 26.  
+  > 1. Okręgowy zjazd lekarzy weterynarii odbywa się co roku, a zjazd sprawozdawczo-wyborczy co cztery lata, w terminach ustalanych przez okręgową radę lekarsko-weterynaryjną.  
+  > 2. W okręgowym zjeździe lekarzy weterynarii uczestniczą delegaci, a w zjeździe sprawozdawczo-wyborczym oprócz delegatów mogą uczestniczyć z głosem doradczym także nie będący delegatami członkowie ustępujących organów izby, o których mowa w art. 24 pkt 2-5.  
+  > 3. Wybory delegatów na okręgowy zjazd lekarzy weterynarii są przeprowadzane w rejonach wyborczych pokrywających się z powiatami, z zastrzeżeniem ust. 4.  
+  > 4. W przypadku powiatów, w których liczba lekarzy weterynarii przekracza 150, rejony wyborcze ustala Krajowa Rada LekarskoWeterynaryjna.  
+  > 5. Zasady przeprowadzania wyboru delegatów określa regulamin wyborów, o którym mowa w art. 39 ust. 1 pkt 6.  
+  > 6. W rejonowym zebraniu wyborczym bierze udział co najmniej 1/2 członków okręgowej izby lekarsko-weterynaryjnej wykonujących zawód na terenie rejonu wyborczego.”;  
+- **3)** po art. 26 dodaje się art. 26a w brzmieniu:
+
+  > „Art. 26a.  
+  > 1. Nadzwyczajny okręgowy zjazd lekarzy weterynarii zwołuje okręgowa rada lekarsko-weterynaryjna:  
+  > 1) z własnej inicjatywy, 2) na wniosek Krajowej Rady Lekarsko-Weterynaryjnej, 3) na wniosek okręgowej komisji rewizyjnej, 4) na wniosek co najmniej 1/5 członków okręgowej izby lekarsko-weterynaryjnej.  
+  > 2. Nadzwyczajny okręgowy zjazd lekarzy weterynarii zwołuje się w ciągu miesiąca od dnia wpływu wniosku w sprawie jego zwołania.  
+  > 3. Nadzwyczajny okręgowy zjazd lekarzy weterynarii obraduje nad sprawami dla których został zwołany.”.  
 
 **Art. 2.**
 

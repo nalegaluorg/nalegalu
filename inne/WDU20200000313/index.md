@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie trybu udostępniania danych INTRASTAT i EXTRASTAT oraz wysokości opłat za przetworzenie tych danych Na podstawie art. 50 ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r.
 poz. 768, 730, 1520, 1556, 2200 i 2550) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 12 lutego 2018 r. w sprawie trybu udostępniania danych INTRASTAT i EXTRASTAT oraz wysokości opłat za przetworzenie tych danych (Dz. U. poz. 409) § 5 otrzymuje brzmienie: „§ 5. Do ustalenia wysokości opłaty ustala się jednostkową stałą kosztową w wysokości 1/160 kwoty przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 56 ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz. 284 i 288).”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2020 r.
-Minister Finansów: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 12 lutego 2018 r. w sprawie trybu udostępniania danych INTRASTAT i EXTRASTAT oraz wysokości opłat za przetworzenie tych danych (Dz. U. poz. 409) § 5 otrzymuje brzmienie: „§ 5. Do ustalenia wysokości opłaty ustala się jednostkową stałą kosztową w wysokości 1/160 kwoty przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 56 ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2019 r. poz. 2357 oraz z 2020 r. poz. 284 i 288).”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2020 r. Minister Finansów: T. Kościński
 

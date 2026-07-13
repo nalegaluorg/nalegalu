@@ -36,7 +36,19 @@ source: pdf
     - **d)** w ust. 10 i 12 skreśla się wyraz „sześciomiesięcznego”,
     - **e)** w ust. 11 wyrazy „sześciomiesięcznego okresu” zastępuje się wyrazami „okresu, na który został ustalony”;
 
-- **2)** w art. 390 ust. 1 otrzymuje brzmienie: „1. W latach 2018–2027 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy wynosi 3 673 180 tys. zł, z tym że w poszczególnych latach limit wynosi w: 1) 2018 r. – 245 269 tys. zł; 2) 2019 r. – 382 931 tys. zł; 3) 2020 r. – 349 825 tys. zł; 4) 2021 r. – 369 674 tys. zł; 5) 2022 r. – 376 934 tys. zł; 6) 2023 r. – 362 555 tys. zł; 7) 2024 r. – 403 298 tys. zł; 8) 2025 r. – 409 159 tys. zł; 9) 2026 r. – 382 429 tys. zł; 10) 2027 r. – 391 106 tys. zł.”.
+- **2)** w art. 390 ust. 1 otrzymuje brzmienie:
+
+  > „1. W latach 2018–2027 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy wynosi 3 673 180 tys. zł, z tym że w poszczególnych latach limit wynosi w:  
+  > 1) 2018 r. – 245 269 tys. zł;  
+  > 2) 2019 r. – 382 931 tys. zł;  
+  > 3) 2020 r. – 349 825 tys. zł;  
+  > 4) 2021 r. – 369 674 tys. zł;  
+  > 5) 2022 r. – 376 934 tys. zł;  
+  > 6) 2023 r. – 362 555 tys. zł;  
+  > 7) 2024 r. – 403 298 tys. zł;  
+  > 8) 2025 r. – 409 159 tys. zł;  
+  > 9) 2026 r. – 382 429 tys. zł;  
+  > 10) 2027 r. – 391 106 tys. zł.”.  
 
 **Art. 2.**
 

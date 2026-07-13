@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002445) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2445/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wymagań ochrony przeciwpożarowej, jakie musi spełniać lokal, w którym są prowadzone oddział przedszkolny lub oddziały przedszkolne zorganizowane w szkole podstawowej albo jest prowadzone przedszkole utworzone w wyniku przekształcenia oddziału przedszkolnego lub oddziałów przedszkolnych zorganizowanych w szkole podstawowej Na podstawie art. 126 ust. 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59, 949 i 2203) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 25 sierpnia 2017 r. w sprawie wymagań ochrony przeciwpożarowej, jakie musi spełniać lokal, w którym są prowadzone oddział przedszkolny lub oddziały przedszkolne zorganizowane w szkole podstawowej albo jest prowadzone przedszkole utworzone w wyniku przekształcenia oddziału przedszkolnego lub oddziałów przedszkolnych zorganizowanych w szkole podstawowej (Dz. U. poz. 1642) w § 4 pkt 8 otrzymuje brzmienie: „8) w strefie pożarowej, w której znajduje się lokal, nie występują inne lokale, w których są prowadzone przedszkola, inne formy wychowania przedszkolnego lub inne oddziały przedszkolne;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Minister Edukacji Narodowej: wz. M. Machałek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 25 sierpnia 2017 r. w sprawie wymagań ochrony przeciwpożarowej, jakie musi spełniać lokal, w którym są prowadzone oddział przedszkolny lub oddziały przedszkolne zorganizowane w szkole podstawowej albo jest prowadzone przedszkole utworzone w wyniku przekształcenia oddziału przedszkolnego lub oddziałów przedszkolnych zorganizowanych w szkole podstawowej (Dz. U. poz. 1642) w § 4 pkt 8 otrzymuje brzmienie: „8) w strefie pożarowej, w której znajduje się lokal, nie występują inne lokale, w których są prowadzone przedszkola, inne formy wychowania przedszkolnego lub inne oddziały przedszkolne;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. Minister Edukacji Narodowej: wz. M. Machałek
 

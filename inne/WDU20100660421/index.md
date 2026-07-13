@@ -29,7 +29,12 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2004 r. Nr 243, poz. 2441, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Obowiązek stosowania legalnych jednostek miar dotyczy użytkowania przyrządów pomiarowych, wykonywania pomiarów i wyrażania wartości wielkości fizycznych. 2. Jednostki miar inne niż legalne jednostki miar mogą być stosowane, na mocy porozumień międzynarodowych, w transporcie morskim, lotniczym i kolejowym. 3. Dopuszczalne jest stosowanie dodatkowych oznaczeń wyrażonych w jednostkach miar innych niż legalne jednostki miar. Oznaczenie wyrażone w legalnej jednostce miary ma charakter nadrzędny, w szczególności musi być wyrażane znakami nie mniejszymi niż znaki wyrażające inną jednostkę miary.”;
+- **1)** art. 6 otrzymuje brzmienie:
+
+  > „Art. 6.  
+  > 1. Obowiązek stosowania legalnych jednostek miar dotyczy użytkowania przyrządów pomiarowych, wykonywania pomiarów i wyrażania wartości wielkości fizycznych.  
+  > 2. Jednostki miar inne niż legalne jednostki miar mogą być stosowane, na mocy porozumień międzynarodowych, w transporcie morskim, lotniczym i kolejowym.  
+  > 3. Dopuszczalne jest stosowanie dodatkowych oznaczeń wyrażonych w jednostkach miar innych niż legalne jednostki miar. Oznaczenie wyrażone w legalnej jednostce miary ma charakter nadrzędny, w szczególności musi być wyrażane znakami nie mniejszymi niż znaki wyrażające inną jednostkę miary.”;  
 - **2)** w art. 22a w ust. 1 pkt 1 otrzymuje brzmienie: „1) przestrzeganie obowiązku stosowania legalnych jednostek miar podczas użytkowania przyrządów pomiarowych, wykonywania pomiarów i wyrażania wartości wielkości fizycznych;”;
 - **3)** w art. 26 w ust. 1 pkt 1 otrzymuje brzmienie: „1) wyraża wartości wielkości fizycznych w jednostkach miar innych niż legalne,”.
 

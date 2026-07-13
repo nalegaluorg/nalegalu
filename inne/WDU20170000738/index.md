@@ -26,10 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000738) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/738/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości Na podstawie art. 81 ust. 2 pkt 9 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61 i 245) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 28 listopada 2001 r. w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. poz. 1580, z 2002 r. poz. 173, z 2004 r. poz. 331 oraz z 2006 r.
-poz. 1556) w § 3:
-1) ust. 2 otrzymuje brzmienie: „2. Obsługę administracyjno-techniczną Komitetu zapewnia sekretarz Komitetu powoływany przez ministra właściwego do spraw finansów publicznych spośród pracowników komórki organizacyjnej Ministerstwa Finansów odpowiedzialnej za rachunkowość i rewizję finansową.”;
-2) w ust. 4 pkt 1 otrzymuje brzmienie: „1) minister właściwy do spraw gospodarki – 1 osoba, spośród pracowników Ministerstwa Rozwoju,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 28 listopada 2001 r. w sprawie zakresu działania i sposobu organizacji Komitetu Standardów Rachunkowości (Dz. U. poz. 1580, z 2002 r. poz. 173, z 2004 r. poz. 331 oraz z 2006 r. poz. 1556) w § 3:
+
+- **1)** ust. 2 otrzymuje brzmienie: „2. Obsługę administracyjno-techniczną Komitetu zapewnia sekretarz Komitetu powoływany przez ministra właściwego do spraw finansów publicznych spośród pracowników komórki organizacyjnej Ministerstwa Finansów odpowiedzialnej za rachunkowość i rewizję finansową.”;
+- **2)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) minister właściwy do spraw gospodarki – 1 osoba, spośród pracowników Ministerstwa Rozwoju,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk
 

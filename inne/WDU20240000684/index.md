@@ -26,33 +26,63 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000684) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/684/text.pdf) |
 
 w sprawie wpłat na pokrycie kosztów nadzoru nad instytucjami pożyczkowymi Na podstawie art. 59do ust. 3 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2023 r. poz. 1028, 1285, 1394 i 1723 oraz z 2024 r. poz. 653) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) terminy wnoszenia, wysokość i sposób obliczania rocznych wpłat wnoszonych przez instytucje pożyczkowe na pokrycie kosztów nadzoru nad instytucjami pożyczkowymi, zwanych dalej „wpłatą”;
-2) sposób i terminy rozliczania należności z tytułu wpłaty;
-3) wzór deklaracji o wysokości należnej wpłaty za dany rok kalendarzowy.
-§ 2. 1. Wysokość należnej wpłaty za dany rok kalendarzowy oblicza się według wzoru: 𝐾𝑖 = 𝑃𝑖 × 𝑆 gdzie: 𝐾𝑖 – oznacza należną wpłatę, 𝑃𝑖 – oznacza sumę przychodów instytucji pożyczkowej uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata, a w przypadku instytucji pożyczkowej, której rok obrotowy nie pokrywa się z rokiem kalendarzowym – za rok obrotowy zakończony w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata, 𝑆 – oznacza stawkę obowiązującą w danym roku kalendarzowym, obliczaną zgodnie z ust. 3 i 6.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** terminy wnoszenia, wysokość i sposób obliczania rocznych wpłat wnoszonych przez instytucje pożyczkowe na pokrycie kosztów nadzoru nad instytucjami pożyczkowymi, zwanych dalej „wpłatą”;
+- **2)** sposób i terminy rozliczania należności z tytułu wpłaty;
+- **3)** wzór deklaracji o wysokości należnej wpłaty za dany rok kalendarzowy.
+
+**§ 2.**
+
+1. Wysokość należnej wpłaty za dany rok kalendarzowy oblicza się według wzoru: 𝐾𝑖 = 𝑃𝑖 × 𝑆 gdzie: 𝐾𝑖 – oznacza należną wpłatę, 𝑃𝑖 – oznacza sumę przychodów instytucji pożyczkowej uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata, a w przypadku instytucji pożyczkowej, której rok obrotowy nie pokrywa się z rokiem kalendarzowym – za rok obrotowy zakończony w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata, 𝑆 – oznacza stawkę obowiązującą w danym roku kalendarzowym, obliczaną zgodnie z ust. 3 i 6.
+
 2. Jeżeli wysokość należnej wpłaty jest niższa niż równowartość w złotych 5000 euro, wysokość należnej wpłaty przyjmuje się w wysokości równowartości w złotych 5000 euro.
+
 3. Stawkę (S) oblicza się według wzoru: 𝐾 𝑆 = × 100 % 𝑃 gdzie: 𝐾 – oznacza koszty nadzoru nad instytucjami pożyczkowymi do pokrycia w danym roku kalendarzowym, obliczane zgodnie z ust. 4, 𝑃 – oznacza sumę przychodów wszystkich instytucji pożyczkowych, które prowadziły działalność w ostatnim dniu roku poprzedzającego dany rok kalendarzowy, uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata, albo za rok obrotowy zakończony w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata – w przypadku instytucji pożyczkowych, których rok obrotowy nie pokrywa się z rokiem kalendarzowym.
-4. Koszty nadzoru nad instytucjami pożyczkowymi do pokrycia w danym roku kalendarzowym (K) oblicza się według wzoru: 𝐾 = 𝑃𝐾 −(𝑃𝐾 −𝑊𝐾 ) gdzie: 𝑃𝐾 – oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy z dnia 21 lipca 2006 r.
-o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135), zwanej dalej „ustawą o nadzorze”, ujęte w planie finansowym Urzędu Komisji Nadzoru Finansowego, zwanym dalej „planem”, na dany rok kalendarzowy, w części przypadającej na koszty nadzoru nad instytucjami pożyczkowymi, 𝑃𝐾 – oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie na rok kalendarzowy poprzedzający rok, za który jest należna wpłata, w części przypadającej na koszty nadzoru nad instytucjami pożyczkowymi, 𝑊𝐾 – oznacza wykonane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie na rok kalendarzowy poprzedzający rok, za który jest należna wpłata, w części przypadającej na koszty nadzoru nad instytucjami pożyczkowymi.
+
+4. Koszty nadzoru nad instytucjami pożyczkowymi do pokrycia w danym roku kalendarzowym (K) oblicza się według wzoru: 𝐾 = 𝑃𝐾 −(𝑃𝐾 −𝑊𝐾 ) gdzie: 𝑃𝐾 – oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135), zwanej dalej „ustawą o nadzorze”, ujęte w planie finansowym Urzędu Komisji Nadzoru Finansowego, zwanym dalej „planem”, na dany rok kalendarzowy, w części przypadającej na koszty nadzoru nad instytucjami pożyczkowymi, 𝑃𝐾 – oznacza planowane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie na rok kalendarzowy poprzedzający rok, za który jest należna wpłata, w części przypadającej na koszty nadzoru nad instytucjami pożyczkowymi, 𝑊𝐾 – oznacza wykonane koszty nadzoru, o których mowa w art. 19a ust. 2 pkt 1 ustawy o nadzorze, ujęte w planie na rok kalendarzowy poprzedzający rok, za który jest należna wpłata, w części przypadającej na koszty nadzoru nad instytucjami pożyczkowymi.
+
 5. Do ustalenia stawki przyjmuje się dane za:
-1) rok kalendarzowy poprzedzający rok, za który jest należna wpłata,
-2) rok obrotowy zakończony w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata – w przypadku instytucji pożyczkowych, których rok obrotowy nie pokrywa się z rokiem kalendarzowym – przekazane Komisji Nadzoru Finansowego na podstawie art. 59dg ust. 1 pkt 4 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, które Komisja Nadzoru Finansowego posiada w dniu 30 września danego roku kalendarzowego.
+
+- **1)** rok kalendarzowy poprzedzający rok, za który jest należna wpłata,
+- **2)** rok obrotowy zakończony w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata – w przypadku instytucji pożyczkowych, których rok obrotowy nie pokrywa się z rokiem kalendarzowym – przekazane Komisji Nadzoru Finansowego na podstawie art. 59dg ust. 1 pkt 4 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, które Komisja Nadzoru Finansowego posiada w dniu 30 września danego roku kalendarzowego.
+
 6. W przypadku gdy wysokość stawki obliczona zgodnie z ust. 3 przekracza 0,5 %, do obliczenia należnej wpłaty przyjmuje się stawkę w wysokości 0,5 %.
-§ 3. Do dnia 31 października każdego roku kalendarzowego Przewodniczący Komisji Nadzoru Finansowego podaje do publicznej wiadomości, w drodze komunikatu ogłaszanego w Dzienniku Urzędowym Komisji Nadzoru Finansowego:
-1) wysokość stawki obowiązującej w danym roku kalendarzowym;
-2) wysokość kosztów nadzoru nad instytucjami pożyczkowymi do pokrycia w danym roku kalendarzowym, ze wskazaniem wartości poszczególnych zmiennych przyjętych do ich ustalenia zgodnie z § 2 ust. 4;
-3) sumę przychodów wszystkich instytucji pożyczkowych, które prowadziły działalność w ostatnim dniu roku poprzedzającego dany rok kalendarzowy, uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata, albo za rok obrotowy zakończony w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata – w przypadku instytucji pożyczkowych, których rok obrotowy nie pokrywa się z rokiem kalendarzowym.
-§ 4. 1. Instytucja pożyczkowa wnosi należną wpłatę do dnia 30 listopada danego roku kalendarzowego na rachunek bankowy Urzędu Komisji Nadzoru Finansowego.
+
+**§ 3.** Do dnia 31 października każdego roku kalendarzowego Przewodniczący Komisji Nadzoru Finansowego podaje do publicznej wiadomości, w drodze komunikatu ogłaszanego w Dzienniku Urzędowym Komisji Nadzoru Finansowego:
+
+- **1)** wysokość stawki obowiązującej w danym roku kalendarzowym;
+- **2)** wysokość kosztów nadzoru nad instytucjami pożyczkowymi do pokrycia w danym roku kalendarzowym, ze wskazaniem wartości poszczególnych zmiennych przyjętych do ich ustalenia zgodnie z § 2 ust. 4;
+- **3)** sumę przychodów wszystkich instytucji pożyczkowych, które prowadziły działalność w ostatnim dniu roku poprzedzającego dany rok kalendarzowy, uzyskanych z działalności w zakresie udzielania kredytu konsumenckiego w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata, albo za rok obrotowy zakończony w roku kalendarzowym poprzedzającym rok, za który jest należna wpłata – w przypadku instytucji pożyczkowych, których rok obrotowy nie pokrywa się z rokiem kalendarzowym.
+
+**§ 4.**
+
+1. Instytucja pożyczkowa wnosi należną wpłatę do dnia 30 listopada danego roku kalendarzowego na rachunek bankowy Urzędu Komisji Nadzoru Finansowego.
+
 2. Instytucja pożyczkowa rozpoczynająca działalność wnosi pierwszą należną wpłatę za rok kalendarzowy następujący po roku, w którym rozpoczęła działalność.
-§ 5. 1. Deklaracja o wysokości należnej wpłaty jest przekazywana w postaci dokumentu elektronicznego, za pośrednictwem systemu teleinformatycznego udostępnionego nieodpłatnie na stronie internetowej Urzędu Komisji Nadzoru Finansowego, w terminie nie dłuższym niż 10 dni od dnia upływu terminu, o którym mowa w § 4 ust. 1.
+
+**§ 5.**
+
+1. Deklaracja o wysokości należnej wpłaty jest przekazywana w postaci dokumentu elektronicznego, za pośrednictwem systemu teleinformatycznego udostępnionego nieodpłatnie na stronie internetowej Urzędu Komisji Nadzoru Finansowego, w terminie nie dłuższym niż 10 dni od dnia upływu terminu, o którym mowa w § 4 ust. 1.
+
 2. Deklarację, o której mowa w ust. 1, sporządza się na formularzu, zgodnie z wzorem określonym w załączniku nr 1 do rozporządzenia.
-§ 6. 1. W 2024 r. instytucja pożyczkowa, która prowadziła działalność w zakresie udzielania kredytu konsumenckiego przed dniem 1 stycznia 2024 r., wnosi należną wpłatę w wysokości równowartości w złotych 5000 euro do dnia 30 listopada 2024 r. na rachunek bankowy Urzędu Komisji Nadzoru Finansowego.
+
+**§ 6.**
+
+1. W 2024 r. instytucja pożyczkowa, która prowadziła działalność w zakresie udzielania kredytu konsumenckiego przed dniem 1 stycznia 2024 r., wnosi należną wpłatę w wysokości równowartości w złotych 5000 euro do dnia 30 listopada 2024 r. na rachunek bankowy Urzędu Komisji Nadzoru Finansowego.
+
 2. Deklaracja o wysokości należnej wpłaty, o której mowa w ust. 1, jest przekazywana w postaci dokumentu elektronicznego, za pośrednictwem systemu teleinformatycznego udostępnionego nieodpłatnie na stronie internetowej Urzędu Komisji Nadzoru Finansowego, w terminie nie dłuższym niż 10 dni od dnia upływu terminu, o którym mowa w ust. 1.
+
 3. Deklarację, o której mowa w ust. 2, sporządza się na formularzu, zgodnie z wzorem określonym w załączniku nr 2 do rozporządzenia.
+
 4. W 2024 r. przepisu § 3 nie stosuje się.
-§ 7. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: D. Tusk WZÓR DEKLARACJA INSTYTUCJI POŻYCZKOWEJ O WYSOKOŚCI NALEŻNEJ WPŁATY NA POKRYCIE KOSZTÓW NADZORU ZA ROK …….
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+## Załącznik
+
+WZÓR DEKLARACJA INSTYTUCJI POŻYCZKOWEJ O WYSOKOŚCI NALEŻNEJ WPŁATY NA POKRYCIE KOSZTÓW NADZORU ZA ROK …….
 Nazwa (firma) instytucji pożyczkowej: …………………………………..
 …………………………………..
 NIP: …………………………………..

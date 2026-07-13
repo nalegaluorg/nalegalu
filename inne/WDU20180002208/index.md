@@ -26,10 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002208) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2208/text.pdf) |
 
 zmieniające rozporządzenie w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów Na podstawie art. 114 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62, 1000, 1366, 1669 i 1693) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. z 2018 r. poz. 1177 i 1677) w § 1:
-1) część „28. Nauka” otrzymuje brzmienie: „28. Szkolnictwo wyższe i nauka”;
-2) uchyla się część „38. Szkolnictwo wyższe”.
-§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie po raz pierwszy do planowania budżetowego na rok 2019.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-Minister Finansów: T. Czerwińska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 4 grudnia 2009 r. w sprawie klasyfikacji części budżetowych oraz określenia ich dysponentów (Dz. U. z 2018 r. poz. 1177 i 1677) w § 1:
+
+- **1)** część „28. Nauka” otrzymuje brzmienie: „28. Szkolnictwo wyższe i nauka”;
+- **2)** uchyla się część „38. Szkolnictwo wyższe”.
+
+**§ 2.** Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie po raz pierwszy do planowania budżetowego na rok 2019.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. Minister Finansów: T. Czerwińska
 

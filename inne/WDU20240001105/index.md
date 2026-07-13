@@ -48,11 +48,20 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodow
 9) § 2 i § 3 rozporządzenia Ministra Obrony Narodowej z dnia 10 kwietnia 2024 r. zmieniającego rozporządzenie w sprawie grup zaszeregowania stanowisk służbowych funkcjonariuszy Służby Wywiadu Wojskowego i stawek uposażenia zasadniczego w tych grupach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat (Dz. U. poz. 557), które stanowią: „ § 2. Stawki uposażenia zasadniczego określone w załączniku do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się przy ustalaniu wysokości uposażeń należnych funkcjonariuszom Służby Wywiadu Wojskowego od dnia 1 stycznia 2024 r. § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Obrony Narodowej: z up. P. Bejda
 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 25 września 2006 r.
 w sprawie grup zaszeregowania stanowisk służbowych funkcjonariuszy Służby Wywiadu Wojskowego i stawek uposażenia zasadniczego w tych grupach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat Na podstawie art. 76 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 2098) zarządza się, co następuje:
-§ 1. 1. Ustala się grupy zaszeregowania stanowisk służbowych funkcjonariuszy Służby Wywiadu Wojskowego i stawki uposażenia zasadniczego w tych grupach.
+
+**§ 1.**
+
+1. Ustala się grupy zaszeregowania stanowisk służbowych funkcjonariuszy Służby Wywiadu Wojskowego i stawki uposażenia zasadniczego w tych grupach.
+
 2. Grupy zaszeregowania stanowisk służbowych funkcjonariuszy Służby Wywiadu Wojskowego i stawki uposażenia zasadniczego w tych grupach określa tabela stanowiąca załącznik do rozporządzenia.
-§ 2. 1. Uposażenie zasadnicze funkcjonariuszy Służby Wywiadu Wojskowego wzrasta z tytułu wysługi lat o 2 % po 2 latach służby i o dalszy 1 % za każdy następny rok służby – łącznie do wysokości 35 % po 35 latach służby.
+
+**§ 2.**
+
+1. Uposażenie zasadnicze funkcjonariuszy Służby Wywiadu Wojskowego wzrasta z tytułu wysługi lat o 2 % po 2 latach służby i o dalszy 1 % za każdy następny rok służby – łącznie do wysokości 35 % po 35 latach służby.
+
 2. Podstawę wzrostu uposażenia zasadniczego funkcjonariuszy Służby Wywiadu Wojskowego stanowi stawka uposażenia zasadniczego odpowiadająca przyznanej grupie zaszeregowania stanowiska służbowego.
+
 3. Miesięczną kwotę wzrostu uposażenia zasadniczego funkcjonariuszy Służby Wywiadu Wojskowego zaokrągla się do 10 groszy w górę.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 października 2006 r.
-TABELA GRUP ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH FUNKCJONARIUSZY SŁUŻBY WYWIADU WOJSKOWEGO I STAWEK UPOSAŻENIA ZASADNICZEGO W TYCH GRUPACH Grupa zaszeregowania Stawka uposażenia zasadniczego w złotych 01 10 460 – 17 400 02 9830 – 15 600 03 7910 – 13 000 04 6500 – 11 800 05 5800 – 11 000 06 5000 – 10 400 07 4500 – 10 000 08 3800 – 9100 09 3500 – 8500 10 3250 – 8300 11 3200 – 7800 12 3150 – 7400 13 3100 – 7100 14 2900 – 6800 15 2800 – 6600
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 października 2006 r. TABELA GRUP ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH FUNKCJONARIUSZY SŁUŻBY WYWIADU WOJSKOWEGO I STAWEK UPOSAŻENIA ZASADNICZEGO W TYCH GRUPACH Grupa zaszeregowania Stawka uposażenia zasadniczego w złotych 01 10 460 – 17 400 02 9830 – 15 600 03 7910 – 13 000 04 6500 – 11 800 05 5800 – 11 000 06 5000 – 10 400 07 4500 – 10 000 08 3800 – 9100 09 3500 – 8500 10 3250 – 8300 11 3200 – 7800 12 3150 – 7400 13 3100 – 7100 14 2900 – 6800 15 2800 – 6600
 

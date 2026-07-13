@@ -29,7 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. poz. 1635 oraz z 2014 r. poz. 1877) w art. 20:
 
-- **1)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) kierowanie: a) połączeń telefonicznych do numerów alarmowych 112, 997, 998 i 999 do właściwego terytorialnie centrum powiadamiania ratunkowego oraz połączeń telefonicznych do innych numerów alarmowych do właściwych terytorialnie jednostek służb ustawowo powołanych do niesienia pomocy, b) krótkich wiadomości tekstowych (sms) do numeru alarmowego 112 do właściwego terytorialnie centrum powiadamiania ratunkowego.”;
+- **1)** w ust. 1 pkt 2 otrzymuje brzmienie:
+
+  > „2) kierowanie:  
+  > a) połączeń telefonicznych do numerów alarmowych 112, 997, 998 i 999 do właściwego terytorialnie centrum powiadamiania ratunkowego oraz połączeń telefonicznych do innych numerów alarmowych do właściwych terytorialnie jednostek służb ustawowo powołanych do niesienia pomocy, b) krótkich wiadomości tekstowych (sms) do numeru alarmowego 112 do właściwego terytorialnie centrum powiadamiania ratunkowego.”;  
 - **2)** ust. 2 otrzymuje brzmienie: „2. Przepisu ust. 1 pkt 2 lit. b nie stosuje się do usług świadczonych w stacjonarnej publicznej sieci telekomunikacyjnej oraz usług świadczonych w roamingu międzynarodowym.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.

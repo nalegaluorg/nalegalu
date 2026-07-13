@@ -28,10 +28,11 @@ source: pdf
 w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia
 1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 21 czerwca 2019 r. w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia (Dz. U. poz. 1201), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 15 czerwca 2022 r. zmieniającym rozporządzenie w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia (Dz. U. poz. 1303).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 15 czerwca 2022 r. zmieniającego rozporządzenie w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia (Dz. U. poz. 1303), które stanowią: Ń§ 2. Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się do podziału środków finansowych od dnia 1 stycznia 2022 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 21 czerwca 2019 r.
-w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia Na podstawie art. 462 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r.
-poz. 742) zarządza się, co następuje:
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: A. Niedzielski ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 21 czerwca 2019 r. w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia Na podstawie art. 462 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742) zarządza się, co następuje:
+
+## Załącznik
+
 § 1. Rozporządzenie określa sposób podziału środków finansowych, o których mowa w:
 1) art. 365 pkt 1 lit. a–c ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zwanej dalej Ńustawą”,
 2) art. 365 pkt 2 lit. a–d ustawy,

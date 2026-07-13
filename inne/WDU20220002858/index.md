@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia Na podstawie art. 16 ust. 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2022 r.
 poz. 295) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. z 2015 r. poz. 1534) w § 1:
-1) w pkt 1 w lit. t średnik zastępuje się przecinkiem i dodaje się lit. u w brzmieniu: „u) Nowy Świat – ruch osobowy i towarowy;”;
-2) w pkt 2 w lit. n kropkę zastępuje się przecinkiem i dodaje się lit. o w brzmieniu: „o) Radom–Sadków – ruch osobowy i towarowy.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 1 maja 2023 r.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. z 2015 r. poz. 1534) w § 1:
+
+- **1)** w pkt 1 w lit. t średnik zastępuje się przecinkiem i dodaje się lit. u w brzmieniu: „u) Nowy Świat – ruch osobowy i towarowy;”;
+- **2)** w pkt 2 w lit. n kropkę zastępuje się przecinkiem i dodaje się lit. o w brzmieniu: „o) Radom–Sadków – ruch osobowy i towarowy.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 1 maja 2023 r.
 

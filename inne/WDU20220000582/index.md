@@ -27,12 +27,14 @@ source: pdf
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072 oraz z 2021 r. poz. 1080 i 1236) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającym rozporządzenie w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. poz. 530 i 1549) w § 1 w pkt 3 lit. c otrzymuje brzmienie: „c) po pkt 33 dodaje się pkt 33a w brzmieniu: „33a) w obszarze właściwości Sądu Okręgowego w Sosnowcu:
-a) Sąd Rejonowy w Będzinie – dla miast: Będzin, Czeladź i Wojkowice oraz gmin Bobrowniki i Psary oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do prowadzenia ksiąg wieczystych,
-b) Sąd Rejonowy w Dąbrowie Górniczej – dla miast Dąbrowa Górnicza i Sławków oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do spraw gospodarczych oraz do prowadzenia ksiąg wieczystych,
-c) Sąd Rejonowy w Jaworznie – dla miasta Jaworzno oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych,
-d) Sąd Rejonowy w Sosnowcu – dla miasta Sosnowiec oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych, a także do prowadzenia ksiąg wieczystych,
-e) Sąd Rejonowy w Zawierciu – dla miast Poręba i Zawiercie oraz gmin: Łazy, Mierzęcice, Ogrodzieniec, Pilica, Siewierz i Żarnowiec oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do prowadzenia ksiąg wieczystych;”.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającym rozporządzenie w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. poz. 530 i 1549) w § 1 w pkt 3 lit. c otrzymuje brzmienie: „c) po pkt 33 dodaje się pkt 33a w brzmieniu: „33a) w obszarze właściwości Sądu Okręgowego w Sosnowcu:
+
+- **a)** Sąd Rejonowy w Będzinie – dla miast: Będzin, Czeladź i Wojkowice oraz gmin Bobrowniki i Psary oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do prowadzenia ksiąg wieczystych,
+- **b)** Sąd Rejonowy w Dąbrowie Górniczej – dla miast Dąbrowa Górnicza i Sławków oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do spraw gospodarczych oraz do prowadzenia ksiąg wieczystych,
+- **c)** Sąd Rejonowy w Jaworznie – dla miasta Jaworzno oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, a także do prowadzenia ksiąg wieczystych,
+- **d)** Sąd Rejonowy w Sosnowcu – dla miasta Sosnowiec oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych, a także do prowadzenia ksiąg wieczystych,
+- **e)** Sąd Rejonowy w Zawierciu – dla miast Poręba i Zawiercie oraz gmin: Łazy, Mierzęcice, Ogrodzieniec, Pilica, Siewierz i Żarnowiec oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do prowadzenia ksiąg wieczystych;”.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r. Minister Sprawiedliwości: Z. Ziobro
 

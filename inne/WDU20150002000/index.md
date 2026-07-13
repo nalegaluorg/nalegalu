@@ -27,12 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu ustalania wynagrodzenia w okresie niewykonywania pracy oraz wynagrodzenia stanowiącego podstawę obliczania odszkodowań, odpraw, dodatków wyrównawczych do wynagrodzenia oraz innych należności przewidzianych w Kodeksie pracy Na podstawie art. 297 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2014 r. poz. 1502, z późn. zm.
 zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 29 maja 1996 r. w sprawie sposobu ustalania wynagrodzenia w okresie niewykonywania pracy oraz wynagrodzenia stanowiącego podstawę obliczania odszkodowań, odpraw, dodatków wyrównawczych do wynagrodzenia oraz innych należności przewidzianych w Kodeksie pracy (Dz. U.
-Nr 62, poz. 289, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 5 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Przy ustalaniu wynagrodzenia za okres:
-1) zwolnienia pracownika z obowiązku świadczenia pracy w okresie wypowiedzenia (art. 36 Kodeksu pracy),
-2) zwolnienia pracownicy w ciąży lub karmiącej dziecko piersią z obowiązku świadczenia pracy (art. 179 § Kodeksu pracy) stosuje się zasady obowiązujące przy ustalaniu wynagrodzenia za urlop.”;
-2) § 5a otrzymuje brzmienie: „§ 5a. Przepis § 5 ust. 1 stosuje się odpowiednio przy ustalaniu wynagrodzenia za pełny miesięczny wymiar czasu pracy w przypadku określonym w art. 151 § 2 Kodeksu pracy.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 22 lutego 2016 r.
-Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz
+
+**§ 1.** W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 29 maja 1996 r. w sprawie sposobu ustalania wynagrodzenia w okresie niewykonywania pracy oraz wynagrodzenia stanowiącego podstawę obliczania odszkodowań, odpraw, dodatków wyrównawczych do wynagrodzenia oraz innych należności przewidzianych w Kodeksie pracy (Dz. U. Nr 62, poz. 289, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w § 5 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+  > „2. Przy ustalaniu wynagrodzenia za okres:  
+  > 1) zwolnienia pracownika z obowiązku świadczenia pracy w okresie wypowiedzenia (art. 36 Kodeksu pracy), 2) zwolnienia pracownicy w ciąży lub karmiącej dziecko piersią z obowiązku świadczenia pracy (art. 179 § Kodeksu pracy) stosuje się zasady obowiązujące przy ustalaniu wynagrodzenia za urlop.”;  
+- **2)** § 5a otrzymuje brzmienie: „§ 5a. Przepis § 5 ust. 1 stosuje się odpowiednio przy ustalaniu wynagrodzenia za pełny miesięczny wymiar czasu pracy w przypadku określonym w art. 151 § 2 Kodeksu pracy.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 22 lutego 2016 r. Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz
 

@@ -27,8 +27,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1076/text.pdf) |
 
 w sprawie przekształcenia Ministerstwa Spraw Zagranicznych Na podstawie art. 39 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780) zarządza się, co następuje:
-§ 1. 1. Przekształca się Ministerstwo Spraw Zagranicznych.
+
+**§ 1.**
+
+1. Przekształca się Ministerstwo Spraw Zagranicznych.
+
 2. Przekształcenie, o którym mowa w ust. 1, polega na włączeniu do Ministerstwa Spraw Zagranicznych komórek organizacyjnych zapewniających obsługę zadań ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej oraz pracowników obsługujących te zadania i wyłączeniu tych komórek organizacyjnych oraz tych pracowników z urzędu dotychczas obsługującego ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 lipca 2025 r.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 lipca 2025 r.
 

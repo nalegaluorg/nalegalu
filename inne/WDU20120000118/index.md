@@ -27,7 +27,12 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000118) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/118/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm. ) w art. 85 ust. 1 i 2 otrzymują brzmienie: „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą: 1) 799,18 zł miesięcznie – dla osób całkowicie niezdolnych do pracy; 2) 613,38 zł miesięcznie – dla osób częściowo niezdolnych do pracy. 2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 799,18 zł miesięcznie.”.
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm. ) w art. 85 ust. 1 i 2 otrzymują brzmienie:
+
+> „1. Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą:  
+> 1) 799,18 zł miesięcznie – dla osób całkowicie niezdolnych do pracy;  
+> 2) 613,38 zł miesięcznie – dla osób częściowo niezdolnych do pracy.  
+> 2. Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 799,18 zł miesięcznie.”.  
 
 **Art. 2.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2010 r. Nr 101, poz. 648 i Nr 113, poz. 745 oraz z 2011 r. Nr 112, poz. 654) w art. 11 ust. 2 otrzymuje brzmienie: „2. Podstawę wymiaru renty inwalidzkiej po dniu 29 lutego 2012 r. stanowi kwota 2235,48 zł.”.
 

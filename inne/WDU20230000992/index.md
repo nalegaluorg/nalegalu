@@ -27,25 +27,27 @@ source: pdf
 
 w sprawie obszaru otoczenia Centralnego Portu Komunikacyjnego Na podstawie art. 120zf ust. 3 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U.
 z 2023 r. poz. 892) zarządza się, co następuje:
-§ 1. Wyznacza się obszar otoczenia Centralnego Portu Komunikacyjnego obejmujący terytorium następujących gmin w województwie mazowieckim:
-1) Baranów;
-2) Błonie;
-3) Brwinów;
-4) Grodzisk Mazowiecki;
-5) Jaktorów;
-6) Michałowice;
-7) Milanówek;
-8) Nowa Sucha;
-9) Ożarów Mazowiecki;
-10) Piastów;
-11) Podkowa Leśna;
-12) Pruszków;
-13) Radziejowice;
-14) Sochaczew (gmina);
-15) Sochaczew (miasto);
-16) Teresin;
-17) Wiskitki;
-18) Żyrardów.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Funduszy i Polityki Regionalnej: G. Puda
+
+**§ 1.** Wyznacza się obszar otoczenia Centralnego Portu Komunikacyjnego obejmujący terytorium następujących gmin w województwie mazowieckim:
+
+- **1)** Baranów;
+- **2)** Błonie;
+- **3)** Brwinów;
+- **4)** Grodzisk Mazowiecki;
+- **5)** Jaktorów;
+- **6)** Michałowice;
+- **7)** Milanówek;
+- **8)** Nowa Sucha;
+- **9)** Ożarów Mazowiecki;
+- **10)** Piastów;
+- **11)** Podkowa Leśna;
+- **12)** Pruszków;
+- **13)** Radziejowice;
+- **14)** Sochaczew (gmina);
+- **15)** Sochaczew (miasto);
+- **16)** Teresin;
+- **17)** Wiskitki;
+- **18)** Żyrardów.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Funduszy i Polityki Regionalnej: G. Puda
 

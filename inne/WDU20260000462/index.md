@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/462/text.pdf) |
 
 w sprawie określenia choroby podlegającej obowiązkowi zwalczania w przypadku zwierząt lądowych Na podstawie art. 10 ust. 7 pkt 1 lit. b ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795) zarządza się, co następuje:
-§ 1. Chorobą podlegającą obowiązkowi zwalczania na terytorium Rzeczypospolitej Polskiej inną niż choroba kategorii A, choroba kategorii B i choroba kategorii C – w przypadku zwierząt lądowych jest zgnilec amerykański pszczół.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
+
+**§ 1.** Chorobą podlegającą obowiązkowi zwalczania na terytorium Rzeczypospolitej Polskiej inną niż choroba kategorii A, choroba kategorii B i choroba kategorii C – w przypadku zwierząt lądowych jest zgnilec amerykański pszczół.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
 

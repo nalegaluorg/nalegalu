@@ -33,7 +33,11 @@ source: pdf
 - **2)** w art. 4 uchyla się pkt 5;
 - **3)** w art. 5–11 we wprowadzeniu do wyliczenia wyrazy „w art. 4 pkt 1, 4–6” zastępuje się wyrazami „w art. 4 pkt 1, 4 i 6”;
 - **4)** w art. 17 ust. 4 otrzymuje brzmienie: „4. Prawo do emerytury pomostowej ulega zawieszeniu bez względu na wysokość uzyskiwanego przychodu w razie podjęcia przez uprawnionego pracy w szczególnych warunkach lub o szczególnym charakterze, w rozumieniu art. 3 ust. 1 i 3, na podstawie stosunku pracy lub umowy cywilnoprawnej.”;
-- **5)** art. 21 otrzymuje brzmienie: „Art. 21. 1. Rekompensata przysługuje ubezpieczonemu, jeżeli przed dniem 1 stycznia 2009 r. ma okres pracy w szczególnych warunkach lub w szczególnym charakterze w rozumieniu przepisów ustawy o emeryturach i rentach z FUS, wynoszący co najmniej 15 lat. 2. Rekompensata nie przysługuje osobie, która ma ustalone decyzją prawomocną prawo do emerytury na podstawie przepisów ustawy o emeryturach i rentach z FUS lub przepisów odrębnych.”;
+- **5)** art. 21 otrzymuje brzmienie:
+
+  > „Art. 21.  
+  > 1. Rekompensata przysługuje ubezpieczonemu, jeżeli przed dniem 1 stycznia 2009 r. ma okres pracy w szczególnych warunkach lub w szczególnym charakterze w rozumieniu przepisów ustawy o emeryturach i rentach z FUS, wynoszący co najmniej 15 lat.  
+  > 2. Rekompensata nie przysługuje osobie, która ma ustalone decyzją prawomocną prawo do emerytury na podstawie przepisów ustawy o emeryturach i rentach z FUS lub przepisów odrębnych.”;  
 - **6)** w art. 22 w ust. 2 po pkt 2 oznaczenie S otrzymuje brzmienie: „S – oznacza okres wykonywania przed dniem 1 stycznia 2009 r. pracy w szczególnych warunkach lub w szczególnym charakterze w rozumieniu przepisów ustawy o emeryturach i rentach z FUS,”;
 - **7)** w art. 40 ust. 1 otrzymuje brzmienie: „1. Od nieopłaconych w terminie składek na FEP należne są od płatnika składek odsetki za zwłokę wymierzane w wysokości i na zasadach, o których mowa w art. 23 i art. 31 ustawy o systemie ubezpieczeń społecznych.”;
 - **8)** w art. 49 w pkt 2 wyrazy „w art. 4 pkt 1–5 i art. 5–12” zastępuje się wyrazami „w art. 4 pkt 1–4 lub art. 5–12”;
@@ -42,7 +46,13 @@ source: pdf
 **Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, 1429, 1606 i 1615) wprowadza się następujące zmiany:
 
 - **1)** w art. 477 § 2 otrzymuje brzmienie: „§ 2. Uznając wypowiedzenie umowy o pracę za bezskuteczne albo przywracając pracownika do pracy, sąd na wniosek pracownika nakłada w wyroku na pracodawcę obowiązek dalszego zatrudnienia pracownika do czasu prawomocnego zakończenia postępowania.”;
-- **2)** po art. 755 dodaje się art. 755 w brzmieniu: „Art. 755 . § 1. W sprawach z zakresu prawa pracy, w których pracownik podlegający szczególnej ochronie przed rozwiązaniem stosunku pracy za wypowiedzeniem lub bez wypowiedzenia dochodzi roszczenia o uznanie wypowiedzenia stosunku pracy za bezskuteczne lub o przywrócenie do pracy, sąd na wniosek uprawnionego na każdym etapie postępowania udzieli zabezpieczenia przez nakazanie dalszego zatrudnienia go przez pracodawcę do czasu prawomocnego zakończenia postępowania. Podstawą udzielenia zabezpieczenia jest jedynie uprawdopodobnienie istnienia roszczenia. Sąd może odmówić udzielenia zabezpieczenia wyłącznie w sytuacji, gdy roszczenie jest oczywiście bezzasadne. § 2. Postanowienie o udzieleniu zabezpieczenia podlega wykonaniu w drodze egzekucji. Przepis art. 756 stosuje się. § 3. Obowiązany może żądać uchylenia prawomocnego postanowienia o udzieleniu zabezpieczenia wyłącznie jeżeli wykaże, że po udzieleniu zabezpieczenia zaistniały przesłanki, o których mowa w art. 52 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. Zmiana postanowienia o udzieleniu zabezpieczenia jest niedopuszczalna. § 4. Na postanowienie w przedmiocie udzielenia zabezpieczenia przysługuje zażalenie do sądu drugiej instancji.”.
+- **2)** po art. 755 dodaje się art. 755 w brzmieniu:
+
+  > „Art. 755 .  
+  > § 1. W sprawach z zakresu prawa pracy, w których pracownik podlegający szczególnej ochronie przed rozwiązaniem stosunku pracy za wypowiedzeniem lub bez wypowiedzenia dochodzi roszczenia o uznanie wypowiedzenia stosunku pracy za bezskuteczne lub o przywrócenie do pracy, sąd na wniosek uprawnionego na każdym etapie postępowania udzieli zabezpieczenia przez nakazanie dalszego zatrudnienia go przez pracodawcę do czasu prawomocnego zakończenia postępowania. Podstawą udzielenia zabezpieczenia jest jedynie uprawdopodobnienie istnienia roszczenia. Sąd może odmówić udzielenia zabezpieczenia wyłącznie w sytuacji, gdy roszczenie jest oczywiście bezzasadne.  
+  > § 2. Postanowienie o udzieleniu zabezpieczenia podlega wykonaniu w drodze egzekucji. Przepis art. 756 stosuje się.  
+  > § 3. Obowiązany może żądać uchylenia prawomocnego postanowienia o udzieleniu zabezpieczenia wyłącznie jeżeli wykaże, że po udzieleniu zabezpieczenia zaistniały przesłanki, o których mowa w art. 52 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. Zmiana postanowienia o udzieleniu zabezpieczenia jest niedopuszczalna.  
+  > § 4. Na postanowienie w przedmiocie udzielenia zabezpieczenia przysługuje zażalenie do sądu drugiej instancji.”.  
 
 **Art. 3.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) w art. 26 w ust. 1 w pkt 2c wyraz „500” zastępuje się wyrazem „840”.
 

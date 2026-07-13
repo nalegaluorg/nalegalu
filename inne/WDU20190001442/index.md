@@ -31,187 +31,292 @@ w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomo
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 27 lipca 2018 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” (Dz. U. poz. 1503), które stanowią: „ § 2. 1. Do postępowań w sprawie o przyznanie pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm. ), objętego Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy o dofinansowanie, stosuje się przepisy dotychczasowe, z wyjątkiem § 22a rozporządzenia zmienianego w § 1, który stosuje się w brzmieniu nadanym niniejszym rozporządzeniem. 2. Do postępowań w sprawie o przyznanie pomocy finansowej na realizację operacji w ramach działania „Koszty bieżące i aktywizacja”, o którym mowa w art. 62 ust. 1 lit. d rozporządzenia wymienionego w ust. 1, objętego Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, wszczętych przed dniem wejścia w życie niniejszego rozporządzenia i niezakończonych zawarciem umowy o dofinansowanie, stosuje się przepisy dotychczasowe. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: wz. G. Witkowski
 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 6 września 2016 r.
 w sprawie szczegółowych warunków i trybu przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze” Na podstawie art. 24 ust. 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2017 r. poz. 1267 oraz z 2019 r. poz. 730) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze, o którym mowa w art. 62 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn.
-zm. ), zwanego dalej „rozporządzeniem nr 508/2014”, i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, o których mowa w art. 62 ust. 1 lit. b i d rozporządzenia nr 508/2014, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem”, oraz wysokość stawek tej pomocy, w tym:
-1) szczegółowe wymagania, jakim powinny odpowiadać wnioski o dofinansowanie i wnioski o płatność, oraz tryb składania tych wniosków;
-2) szczegółowy sposób oceny oraz terminy rozpatrywania wniosków o dofinansowanie i wniosków o płatność;
-3) katalog beneficjentów;
-4) tryb, warunki, termin zawierania umowy o dofinansowanie oraz szczegółowe wymagania, jakim powinna odpowiadać umowa o dofinansowanie;
-5) działania i przypadki, w których następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części może być przyznana pomoc, oraz warunki i tryb przyznania tej pomocy.
-§ 2. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, jest przyznawana na realizację następujących celów:
-1) podnoszenie wartości produktów, tworzenie miejsc pracy, zachęcanie młodych ludzi i propagowanie innowacji na wszystkich etapach łańcucha dostaw produktów w sektorze rybołówstwa i akwakultury;
-2) wspieranie różnicowania działalności w ramach rybołówstwa przemysłowego i poza nim, wspieranie uczenia się przez całe życie i tworzenie miejsc pracy na obszarach rybackich i obszarach akwakultury;
-3) wspieranie i wykorzystywanie atutów środowiska na obszarach rybackich i obszarach akwakultury, w tym operacje na rzecz łagodzenia zmiany klimatu;
-4) propagowanie dobrostanu społecznego i dziedzictwa kulturowego na obszarach rybackich i obszarach akwakultury, w tym dziedzictwa kulturowego rybołówstwa i akwakultury oraz morskiego dziedzictwa kulturowego;
-5) powierzenie społecznościom rybackim ważniejszej roli w rozwoju lokalnym oraz zarządzaniu lokalnymi zasobami rybołówstwa i działalnością morską.
-§ 3. Pomoc finansową przyznaje się na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, która:
-1) jest zgodna ze strategią rozwoju lokalnego kierowanego przez społeczność, o której mowa w art. 2 pkt 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ), zwaną dalej „LSR”;
-2) została wybrana przez lokalną grupę działania, o której mowa w art. 32 ust. 2 lit. b rozporządzenia wymienionego w pkt 1, zwaną dalej „LGD”;
-3) nie jest finansowana z udziałem innych środków publicznych, z wyjątkiem współfinansowania tej operacji:
-a) z dochodów jednostek samorządu terytorialnego stanowiących dochody własne lub subwencję ogólną,
-b) z krajowych środków publicznych będących w dyspozycji ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego w ramach programu „Promocja kultury polskiej za granicą – Promesa”,
-c) z krajowych środków publicznych będących w dyspozycji ministra właściwego do spraw turystyki,
-d) ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz Wojewódzkich Funduszy Ochrony Środowiska i Gospodarki Wodnej;
-4) zostanie zakończona w terminie 18 miesięcy od dnia zawarcia umowy o dofinansowanie;
-5) spełnia warunki określone w rozporządzeniu dla tej operacji.
-§ 4. 1. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 1:
-1) obejmuje:
-a) podnoszenie wartości produktów sektora rybołówstwa i akwakultury przez tworzenie lub rozwijanie łańcucha dostaw, obejmującego działalność związaną z produkcją, przetwarzaniem i obrotem produktami sektora rybołówstwa i akwakultury, lub
-b) wspieranie przedsiębiorczości lub innowacji młodych ludzi w łańcuchu dostaw, o którym mowa w lit. a;
-2) jest przyznawana:
-a) wnioskodawcy: – o którym mowa w art. 11 pkt 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego, zwanej dalej „ustawą o EFMR” – w przypadku operacji, o której mowa w pkt 1 lit. a, – będącemu osobą fizyczną, która w dniu składania wniosku o dofinansowanie nie ukończyła 40. roku życia – w przypadku operacji, o której mowa w pkt 1 lit. b,
-b) w formie zwrotu kosztów kwalifikowalnych w wysokości do 50% tych kosztów,
-c) jeżeli operacja zakłada utworzenie lub utrzymanie co najmniej jednego miejsca pracy lub podjęcie działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r.
-poz. 1292), zwanej dalej „działalnością gospodarczą”, lub podjęcie działalności jako uprawniony do chowu, hodowli lub połowu ryb zgodnie z art. 4 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U.
-z 2018 r. poz. 1476 oraz z 2019 r. poz. 125 i 730), z wyłączeniem podmiotu wykonującego uprawnienia właściciela wód w zakresie rybactwa śródlądowego, zwany dalej „uprawnionym do rybactwa”, i wynika to z celu realizowanej operacji.
+
+**§ 1.** Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty i zwrotu pomocy finansowej na realizację operacji w ramach działań wsparcie przygotowawcze, o którym mowa w art. 62 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 508/2014 z dnia 15 maja 2014 r. w sprawie Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenia Rady (WE) nr 2328/2003, (WE) nr 861/2006, (WE) nr 1198/2006 i (WE) nr 791/2007 oraz rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1255/2011 (Dz. Urz. UE L 149 z 20.05.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 508/2014”, i realizacja lokalnych strategii rozwoju kierowanych przez społeczność, w tym koszty bieżące i aktywizacja, o których mowa w art. 62 ust. 1 lit. b i d rozporządzenia nr 508/2014, objętych Priorytetem 4. Zwiększenie zatrudnienia i spójności terytorialnej, zawartym w Programie Operacyjnym „Rybactwo i Morze”, zwanym dalej „programem”, oraz wysokość stawek tej pomocy, w tym:
+
+- **1)** szczegółowe wymagania, jakim powinny odpowiadać wnioski o dofinansowanie i wnioski o płatność, oraz tryb składania tych wniosków;
+- **2)** szczegółowy sposób oceny oraz terminy rozpatrywania wniosków o dofinansowanie i wniosków o płatność;
+- **3)** katalog beneficjentów;
+- **4)** tryb, warunki, termin zawierania umowy o dofinansowanie oraz szczegółowe wymagania, jakim powinna odpowiadać umowa o dofinansowanie;
+- **5)** działania i przypadki, w których następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części może być przyznana pomoc, oraz warunki i tryb przyznania tej pomocy.
+
+**§ 2.** Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, jest przyznawana na realizację następujących celów:
+
+- **1)** podnoszenie wartości produktów, tworzenie miejsc pracy, zachęcanie młodych ludzi i propagowanie innowacji na wszystkich etapach łańcucha dostaw produktów w sektorze rybołówstwa i akwakultury;
+- **2)** wspieranie różnicowania działalności w ramach rybołówstwa przemysłowego i poza nim, wspieranie uczenia się przez całe życie i tworzenie miejsc pracy na obszarach rybackich i obszarach akwakultury;
+- **3)** wspieranie i wykorzystywanie atutów środowiska na obszarach rybackich i obszarach akwakultury, w tym operacje na rzecz łagodzenia zmiany klimatu;
+- **4)** propagowanie dobrostanu społecznego i dziedzictwa kulturowego na obszarach rybackich i obszarach akwakultury, w tym dziedzictwa kulturowego rybołówstwa i akwakultury oraz morskiego dziedzictwa kulturowego;
+- **5)** powierzenie społecznościom rybackim ważniejszej roli w rozwoju lokalnym oraz zarządzaniu lokalnymi zasobami rybołówstwa i działalnością morską.
+
+**§ 3.** Pomoc finansową przyznaje się na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, która:
+
+- **1)** jest zgodna ze strategią rozwoju lokalnego kierowanego przez społeczność, o której mowa w art. 2 pkt 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ), zwaną dalej „LSR”;
+- **2)** została wybrana przez lokalną grupę działania, o której mowa w art. 32 ust. 2 lit. b rozporządzenia wymienionego w pkt 1, zwaną dalej „LGD”;
+- **3)** nie jest finansowana z udziałem innych środków publicznych, z wyjątkiem współfinansowania tej operacji:
+    - **a)** z dochodów jednostek samorządu terytorialnego stanowiących dochody własne lub subwencję ogólną,
+    - **b)** z krajowych środków publicznych będących w dyspozycji ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego w ramach programu „Promocja kultury polskiej za granicą – Promesa”,
+    - **c)** z krajowych środków publicznych będących w dyspozycji ministra właściwego do spraw turystyki,
+    - **d)** ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz Wojewódzkich Funduszy Ochrony Środowiska i Gospodarki Wodnej;
+
+- **4)** zostanie zakończona w terminie 18 miesięcy od dnia zawarcia umowy o dofinansowanie;
+- **5)** spełnia warunki określone w rozporządzeniu dla tej operacji.
+
+**§ 4.**
+
+1. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 1:
+
+- **1)** obejmuje:
+    - **a)** podnoszenie wartości produktów sektora rybołówstwa i akwakultury przez tworzenie lub rozwijanie łańcucha dostaw, obejmującego działalność związaną z produkcją, przetwarzaniem i obrotem produktami sektora rybołówstwa i akwakultury, lub
+    - **b)** wspieranie przedsiębiorczości lub innowacji młodych ludzi w łańcuchu dostaw, o którym mowa w lit. a;
+
+- **2)** jest przyznawana: poz. 1292), zwanej dalej „działalnością gospodarczą”, lub podjęcie działalności jako uprawniony do chowu, hodowli lub połowu ryb zgodnie z art. 4 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2018 r. poz. 1476 oraz z 2019 r. poz. 125 i 730), z wyłączeniem podmiotu wykonującego uprawnienia właściciela wód w zakresie rybactwa śródlądowego, zwany dalej „uprawnionym do rybactwa”, i wynika to z celu realizowanej operacji.
+    - **a)** wnioskodawcy: – o którym mowa w art. 11 pkt 1 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego, zwanej dalej „ustawą o EFMR” – w przypadku operacji, o której mowa w pkt 1 lit. a, – będącemu osobą fizyczną, która w dniu składania wniosku o dofinansowanie nie ukończyła 40. roku życia – w przypadku operacji, o której mowa w pkt 1 lit. b,
+    - **b)** w formie zwrotu kosztów kwalifikowalnych w wysokości do 50% tych kosztów,
+    - **c)** jeżeli operacja zakłada utworzenie lub utrzymanie co najmniej jednego miejsca pracy lub podjęcie działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2019 r.
+
 2. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 1, jest przyznawana do wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, jednak nie więcej niż 300 000 zł na jednego wnioskodawcę, z tym że w przypadku gdy wnioskodawca:
-1) prowadzi lub podejmuje działalność na obszarze gmin objętych LSR:
-a) jako uprawniony do rybactwa lub
-b) jako podmiot, któremu wydano zezwolenie na prowadzenie na obszarach morskich Rzeczypospolitej Polskiej chowu lub hodowli organizmów morskich na podstawie art. 97 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2019 r. poz. 586, 642 i 730), lub
-c) w zakresie: – przetwórstwa, obrotu produktami rybołówstwa lub akwakultury lub unieszkodliwiania odpadów wytwarzanych lub powstałych w sektorze rybołówstwa i akwakultury, lub – związanym z obsługą sektora rybołówstwa i akwakultury, w szczególności produkcję, konserwację lub naprawę sprzętu służącego do prowadzenia działalności połowowej, lub
-2) jest armatorem statku rybackiego:
-a) o polskiej przynależności,
-b) na który została wydana licencja połowowa i licencja ta nie została zawieszona albo cofnięta,
-c) którego port macierzysty znajduje się na obszarze gmin objętych LSR, lub
-3) otrzymał pomoc finansową w ramach środka pomoc publiczna z tytułu trwałego zaprzestania działalności połowowej objętego osią priorytetową 1 – Środki na rzecz dostosowania floty rybackiej zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” lub w ramach działania trwałe zaprzestanie działalności połowowej, o którym mowa w art. 34 rozporządzenia nr 508/2014, objętego Priorytetem 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy zawartym w programie, lub
-4) będąc osobą fizyczną zamieszkałą na obszarze gmin objętych LSR utracił miejsce pracy w wyniku trwałego zaprzestania działalności połowowej przy użyciu statku rybackiego lub w wyniku zaprzestania prowadzenia działalności, o której mowa w pkt 1 – nie więcej niż 400 000 zł na jednego wnioskodawcę.
-§ 5. 1. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 2:
-1) obejmuje:
-a) różnicowanie działalności lub dywersyfikację zatrudnienia osób wykonujących pracę związaną z sektorem rybołówstwa i akwakultury przez tworzenie lub utrzymanie miejsc pracy niezwiązanych z podstawową działalnością rybacką lub
-b) podejmowanie, wykonywanie lub rozwijanie działalności gospodarczej służącej rozwojowi obszarów rybackich i obszarów akwakultury, lub
-c) wspieranie uczenia się osób związanych z sektorem rybołówstwa i akwakultury oraz wymianę przez te osoby doświadczeń i dobrych praktyk;
-2) jest przyznawana:
-a) w formie zwrotu kosztów kwalifikowalnych w wysokości do 50% tych kosztów, a w przypadku gdy operacja jest związana z łodziowym rybołówstwem przybrzeżnym, o którym mowa w załączniku nr 1 do rozporządzenia nr 508/2014 – w wysokości do 80% tych kosztów,
-b) jeżeli operacja zakłada utworzenie lub utrzymanie co najmniej jednego miejsca pracy lub podjęcie działalności gospodarczej, lub podjęcie działalności jako uprawniony do rybactwa, i wynika to z celu realizowanej operacji – w przypadku operacji, o której mowa w pkt 1 lit. a i b.
+
+- **1)** prowadzi lub podejmuje działalność na obszarze gmin objętych LSR:
+    - **a)** jako uprawniony do rybactwa lub
+    - **b)** jako podmiot, któremu wydano zezwolenie na prowadzenie na obszarach morskich Rzeczypospolitej Polskiej chowu lub hodowli organizmów morskich na podstawie art. 97 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2019 r. poz. 586, 642 i 730), lub
+    - **c)** w zakresie: – przetwórstwa, obrotu produktami rybołówstwa lub akwakultury lub unieszkodliwiania odpadów wytwarzanych lub powstałych w sektorze rybołówstwa i akwakultury, lub – związanym z obsługą sektora rybołówstwa i akwakultury, w szczególności produkcję, konserwację lub naprawę sprzętu służącego do prowadzenia działalności połowowej, lub
+
+- **2)** jest armatorem statku rybackiego:
+    - **a)** o polskiej przynależności,
+    - **b)** na który została wydana licencja połowowa i licencja ta nie została zawieszona albo cofnięta,
+    - **c)** którego port macierzysty znajduje się na obszarze gmin objętych LSR, lub
+
+- **3)** otrzymał pomoc finansową w ramach środka pomoc publiczna z tytułu trwałego zaprzestania działalności połowowej objętego osią priorytetową 1 – Środki na rzecz dostosowania floty rybackiej zawartą w programie operacyjnym „Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013” lub w ramach działania trwałe zaprzestanie działalności połowowej, o którym mowa w art. 34 rozporządzenia nr 508/2014, objętego Priorytetem 1. Promowanie rybołówstwa zrównoważonego środowiskowo, zasobooszczędnego, innowacyjnego, konkurencyjnego i opartego na wiedzy zawartym w programie, lub
+- **4)** będąc osobą fizyczną zamieszkałą na obszarze gmin objętych LSR utracił miejsce pracy w wyniku trwałego zaprzestania działalności połowowej przy użyciu statku rybackiego lub w wyniku zaprzestania prowadzenia działalności, o której mowa w pkt 1 – nie więcej niż 400 000 zł na jednego wnioskodawcę.
+
+**§ 5.**
+
+1. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 2:
+
+- **1)** obejmuje:
+    - **a)** różnicowanie działalności lub dywersyfikację zatrudnienia osób wykonujących pracę związaną z sektorem rybołówstwa i akwakultury przez tworzenie lub utrzymanie miejsc pracy niezwiązanych z podstawową działalnością rybacką lub
+    - **b)** podejmowanie, wykonywanie lub rozwijanie działalności gospodarczej służącej rozwojowi obszarów rybackich i obszarów akwakultury, lub
+    - **c)** wspieranie uczenia się osób związanych z sektorem rybołówstwa i akwakultury oraz wymianę przez te osoby doświadczeń i dobrych praktyk;
+
+- **2)** jest przyznawana:
+    - **a)** w formie zwrotu kosztów kwalifikowalnych w wysokości do 50% tych kosztów, a w przypadku gdy operacja jest związana z łodziowym rybołówstwem przybrzeżnym, o którym mowa w załączniku nr 1 do rozporządzenia nr 508/2014 – w wysokości do 80% tych kosztów,
+    - **b)** jeżeli operacja zakłada utworzenie lub utrzymanie co najmniej jednego miejsca pracy lub podjęcie działalności gospodarczej, lub podjęcie działalności jako uprawniony do rybactwa, i wynika to z celu realizowanej operacji – w przypadku operacji, o której mowa w pkt 1 lit. a i b.
+
 2. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 2, jest przyznawana:
-1) wnioskodawcy, o którym mowa w art. 11 pkt 1 ustawy o EFMR, z tym że – w przypadku operacji, o których mowa w ust. 1 pkt 1 lit. a i c – spełniającemu warunki określone w § 4 ust. 2;
-2) do wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, jednak nie więcej niż 300 000 zł na jednego wnioskodawcę, z tym że – w przypadku wnioskodawcy spełniającego warunki określone w § 4 ust. 2 – nie więcej niż 400 000 zł na jednego wnioskodawcę.
-§ 6. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 3:
-1) obejmuje:
-a) wspieranie atutów środowiska wodnego na obszarach rybackich i obszarach akwakultury przez przeciwdziałanie kłusownictwu lub
-b) przywracanie lub zabezpieczanie potencjału produkcyjnego sektora rybołówstwa i akwakultury lub odtwarzanie pierwotnego stanu środowiska obszarów rybackich i obszarów akwakultury, w przypadku jego zniszczenia w wyniku zdarzeń noszących znamiona klęski żywiołowej lub szkody spowodowanej działalnością chronionych gatunków zwierząt, lub
-c) odtwarzanie pierwotnego stanu środowiska wodnego przez renaturyzację zbiorników wodnych i terenów przyległych do tych zbiorników, w przypadku jego zniszczenia w wyniku procesu eutrofizacji wód publicznych, lub
-d) ochronę obszarów będących formami ochrony przyrody przez regulowanie ruchu turystycznego na obszarach cennych przyrodniczo,
-e) podejmowanie działań na rzecz ograniczenia negatywnych skutków zmian klimatycznych, tworzenie i rozwijanie instalacji odnawialnych źródeł energii, w rozumieniu przepisów o odnawialnych źródłach energii;
-2) jest przyznawana:
-a) wnioskodawcy, o którym mowa w art. 11 pkt 1 ustawy o EFMR,
-b) w formie zwrotu kosztów kwalifikowalnych w wysokości do 50% tych kosztów, a w przypadku gdy operacja spełnia warunki określone w art. 95 ust. 3 rozporządzenia nr 508/2014 – w wysokości do 85% tych kosztów,
-c) do wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, jednak nie więcej niż 300 000 zł na jednego wnioskodawcę.
-§ 7. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 4:
-1) obejmuje:
-a) tworzenie, rozwój oraz wyposażenie infrastruktury turystycznej i rekreacyjnej, przeznaczonej na użytek publiczny, historycznie lub terytorialnie związanej z działalnością rybacką lub
-b) promowanie, zachowanie lub upowszechnianie dziedzictwa kulturowego rybołówstwa i akwakultury oraz morskiego dziedzictwa kulturowego;
-2) jest przyznawana:
-a) jednostkom samorządu terytorialnego i jednostkom organizacyjnym podległym tym jednostkom oraz organizacjom pozarządowym w rozumieniu przepisów o działalności pożytku publicznego i wolontariacie, których celem statutowym jest działalność na rzecz rozwoju sektora rybołówstwa i akwakultury,
-b) w formie zwrotu kosztów kwalifikowalnych w wysokości do 50% tych kosztów, a w przypadku gdy operacja spełnia warunki określone w art. 95 ust. 3 rozporządzenia nr 508/2014 – w wysokości do 85% tych kosztów,
-c) do wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, jednak nie więcej niż 300 000 zł na jednego wnioskodawcę.
-§ 8. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 5:
-1) obejmuje wspieranie dialogu społecznego i udziału lokalnych społeczności w badaniu zasobów rybołówstwa i zarządzaniu tymi zasobami;
-2) jest przyznawana:
-a) podmiotom prawa publicznego, o których mowa w art. 2 pkt 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006, zwanego dalej „rozporządzeniem nr 1303/2013”, instytutom badawczym, w rozumieniu przepisów o instytutach badawczych, uczelniom, w rozumieniu przepisów prawa o szkolnictwie wyższym, oraz organizacjom pozarządowym, w rozumieniu przepisów o działalności pożytku publicznego i wolontariacie, których celem statutowym jest działalność na rzecz rozwoju sektora rybołówstwa i akwakultury,
-b) w formie zwrotu kosztów kwalifikowalnych w wysokości do 50% tych kosztów, a w przypadku gdy operacja spełnia warunki określone w art. 95 ust. 3 rozporządzenia nr 508/2014 – w wysokości do 85% tych kosztów,
-c) do wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, jednak nie więcej niż 300 000 zł na jednego wnioskodawcę.
-§ 9. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, ma charakter pomocy de minimis, z wyjątkiem pomocy, do której nie stosuje się rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r.
-w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz.
-UE L 352 z 24.12.2013, str. 1).
-§ 10. 1. Do kosztów kwalifikowalnych operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, zalicza się koszty faktycznie poniesione przez beneficjenta od dnia przyznania pomocy z tytułu realizacji tej operacji lub jej części, w tym podatek od towarów i usług (VAT) na zasadach określonych w art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013.
+
+- **1)** wnioskodawcy, o którym mowa w art. 11 pkt 1 ustawy o EFMR, z tym że – w przypadku operacji, o których mowa w ust. 1 pkt 1 lit. a i c – spełniającemu warunki określone w § 4 ust. 2;
+- **2)** do wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, jednak nie więcej niż 300 000 zł na jednego wnioskodawcę, z tym że – w przypadku wnioskodawcy spełniającego warunki określone w § 4 ust. 2 – nie więcej niż 400 000 zł na jednego wnioskodawcę.
+
+**§ 6.** Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 3:
+
+- **1)** obejmuje:
+    - **a)** wspieranie atutów środowiska wodnego na obszarach rybackich i obszarach akwakultury przez przeciwdziałanie kłusownictwu lub
+    - **b)** przywracanie lub zabezpieczanie potencjału produkcyjnego sektora rybołówstwa i akwakultury lub odtwarzanie pierwotnego stanu środowiska obszarów rybackich i obszarów akwakultury, w przypadku jego zniszczenia w wyniku zdarzeń noszących znamiona klęski żywiołowej lub szkody spowodowanej działalnością chronionych gatunków zwierząt, lub
+    - **c)** odtwarzanie pierwotnego stanu środowiska wodnego przez renaturyzację zbiorników wodnych i terenów przyległych do tych zbiorników, w przypadku jego zniszczenia w wyniku procesu eutrofizacji wód publicznych, lub
+    - **d)** ochronę obszarów będących formami ochrony przyrody przez regulowanie ruchu turystycznego na obszarach cennych przyrodniczo,
+    - **e)** podejmowanie działań na rzecz ograniczenia negatywnych skutków zmian klimatycznych, tworzenie i rozwijanie instalacji odnawialnych źródeł energii, w rozumieniu przepisów o odnawialnych źródłach energii;
+
+- **2)** jest przyznawana:
+    - **a)** wnioskodawcy, o którym mowa w art. 11 pkt 1 ustawy o EFMR,
+    - **b)** w formie zwrotu kosztów kwalifikowalnych w wysokości do 50% tych kosztów, a w przypadku gdy operacja spełnia warunki określone w art. 95 ust. 3 rozporządzenia nr 508/2014 – w wysokości do 85% tych kosztów,
+    - **c)** do wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, jednak nie więcej niż 300 000 zł na jednego wnioskodawcę.
+
+**§ 7.** Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 4:
+
+- **1)** obejmuje:
+    - **a)** tworzenie, rozwój oraz wyposażenie infrastruktury turystycznej i rekreacyjnej, przeznaczonej na użytek publiczny, historycznie lub terytorialnie związanej z działalnością rybacką lub
+    - **b)** promowanie, zachowanie lub upowszechnianie dziedzictwa kulturowego rybołówstwa i akwakultury oraz morskiego dziedzictwa kulturowego;
+
+- **2)** jest przyznawana:
+    - **a)** jednostkom samorządu terytorialnego i jednostkom organizacyjnym podległym tym jednostkom oraz organizacjom pozarządowym w rozumieniu przepisów o działalności pożytku publicznego i wolontariacie, których celem statutowym jest działalność na rzecz rozwoju sektora rybołówstwa i akwakultury,
+    - **b)** w formie zwrotu kosztów kwalifikowalnych w wysokości do 50% tych kosztów, a w przypadku gdy operacja spełnia warunki określone w art. 95 ust. 3 rozporządzenia nr 508/2014 – w wysokości do 85% tych kosztów,
+    - **c)** do wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, jednak nie więcej niż 300 000 zł na jednego wnioskodawcę.
+
+**§ 8.** Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celu, o którym mowa w § 2 pkt 5:
+
+- **1)** obejmuje wspieranie dialogu społecznego i udziału lokalnych społeczności w badaniu zasobów rybołówstwa i zarządzaniu tymi zasobami;
+- **2)** jest przyznawana:
+    - **a)** podmiotom prawa publicznego, o których mowa w art. 2 pkt 16 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006, zwanego dalej „rozporządzeniem nr 1303/2013”, instytutom badawczym, w rozumieniu przepisów o instytutach badawczych, uczelniom, w rozumieniu przepisów prawa o szkolnictwie wyższym, oraz organizacjom pozarządowym, w rozumieniu przepisów o działalności pożytku publicznego i wolontariacie, których celem statutowym jest działalność na rzecz rozwoju sektora rybołówstwa i akwakultury,
+    - **b)** w formie zwrotu kosztów kwalifikowalnych w wysokości do 50% tych kosztów, a w przypadku gdy operacja spełnia warunki określone w art. 95 ust. 3 rozporządzenia nr 508/2014 – w wysokości do 85% tych kosztów,
+    - **c)** do wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, jednak nie więcej niż 300 000 zł na jednego wnioskodawcę.
+
+**§ 9.** Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, ma charakter pomocy de minimis, z wyjątkiem pomocy, do której nie stosuje się rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1).
+
+**§ 10.**
+
+1. Do kosztów kwalifikowalnych operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, zalicza się koszty faktycznie poniesione przez beneficjenta od dnia przyznania pomocy z tytułu realizacji tej operacji lub jej części, w tym podatek od towarów i usług (VAT) na zasadach określonych w art. 69 ust. 3 lit. c rozporządzenia nr 1303/2013.
+
 2. Do kosztów kwalifikowalnych operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, zalicza się również koszty związane z realizacją tej operacji lub jej części faktycznie poniesione przez beneficjenta przed dniem przyznania pomocy, lecz nie wcześniej niż od dnia 1 stycznia 2015 r.
-§ 11. Do kosztów kwalifikowalnych operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, nie zalicza się kosztów:
-1) zakupu używanych maszyn, urządzeń lub innego sprzętu;
-2) nabycia gruntu, budynku, budowli lub prawa do dysponowania nimi;
-3) nakładów rzeczowych;
-4) pracy własnej wykonywanej przez beneficjenta będącego osobą fizyczną i pracy wolontariuszy;
-5) ogólnych realizacji tej operacji, w tym honorariów architektów i inżynierów, opłat za konsultacje i doradztwo w zakresie przygotowania przez wnioskodawcę dokumentacji niezbędnej do przyznania i rozliczenia pomocy, w tym studiów wykonalności, oraz kosztów połączeń telefonicznych, opłat za zużytą wodę, energię elektryczną i nośniki energii:
-a) powyżej 10% wartości netto operacji,
-b) które nie miały bezpośredniego związku z realizacją operacji,
-c) które zostały naliczone i wykazane niezgodnie ze sposobem określonym w umowie o dofinansowanie;
-6) związanych z umową leasingu:
-a) w której brak jest postanowień przenoszących na beneficjenta własność rzeczy będących przedmiotem leasingu,
-b) odsetek, opłat ubezpieczeniowych, marży finansującego i kosztów ogólnych, w tym również podatku od towarów i usług (VAT);
-7) amortyzacji środków trwałych;
-8) związanych z konserwacją obiektów kultu religijnego i cmentarzy.
-§ 12. Wysokość poniesionych kosztów kwalifikowalnych operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, ustala się na podstawie umowy, faktury lub innego równoważnego dokumentu księgowego oraz innych dokumentów potwierdzających dokonanie zapłaty przez beneficjenta.
-§ 13. Do kosztów kwalifikowalnych operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celów, o których mowa w § 2 pkt 1–4, nie zalicza się kosztów poniesionych w związku z realizacją tej operacji poza obszarem LSR, z wyjątkiem kosztów poniesionych na realizację operacji, o których mowa w § 5 pkt 1 lit. c i § 7 pkt 1 lit. b.
-§ 14. Pomoc finansową na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celów, o których mowa w § 2 pkt 1–4, która polega na inwestycji w zakresie budowy, robót budowlanych, przebudowy i remontu obiektu budowlanego, w rozumieniu przepisów prawa budowlanego, lub zakupu narzędzi i urządzeń lub innego wyposażenia technicznego przyznaje się, jeżeli operacja:
-1) przyczyni się do powstania trwałych korzyści gospodarczych;
-2) będzie zrealizowana z zapewnieniem należytych gwarancji technicznych;
-3) ma zapewnioną gospodarczą trwałość;
-4) nie wpłynie negatywnie na środowisko oraz ochronę żywych zasobów wód.
-§ 15. 1. Powstanie trwałych korzyści gospodarczych stwierdza się na podstawie informacji zawartych w:
-1) uproszczonym planie biznesowym operacji – w przypadku operacji realizowanej przez wnioskodawców prowadzących lub podejmujących działalność gospodarczą;
-2) opisie planowanej operacji zawartym we wniosku o dofinansowanie – w przypadku operacji realizowanej przez wnioskodawców innych niż określeni w pkt 1.
+
+**§ 11.** Do kosztów kwalifikowalnych operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, nie zalicza się kosztów:
+
+- **1)** zakupu używanych maszyn, urządzeń lub innego sprzętu;
+- **2)** nabycia gruntu, budynku, budowli lub prawa do dysponowania nimi;
+- **3)** nakładów rzeczowych;
+- **4)** pracy własnej wykonywanej przez beneficjenta będącego osobą fizyczną i pracy wolontariuszy;
+- **5)** ogólnych realizacji tej operacji, w tym honorariów architektów i inżynierów, opłat za konsultacje i doradztwo w zakresie przygotowania przez wnioskodawcę dokumentacji niezbędnej do przyznania i rozliczenia pomocy, w tym studiów wykonalności, oraz kosztów połączeń telefonicznych, opłat za zużytą wodę, energię elektryczną i nośniki energii:
+    - **a)** powyżej 10% wartości netto operacji,
+    - **b)** które nie miały bezpośredniego związku z realizacją operacji,
+    - **c)** które zostały naliczone i wykazane niezgodnie ze sposobem określonym w umowie o dofinansowanie;
+
+- **6)** związanych z umową leasingu:
+    - **a)** w której brak jest postanowień przenoszących na beneficjenta własność rzeczy będących przedmiotem leasingu,
+    - **b)** odsetek, opłat ubezpieczeniowych, marży finansującego i kosztów ogólnych, w tym również podatku od towarów i usług (VAT);
+
+- **7)** amortyzacji środków trwałych;
+- **8)** związanych z konserwacją obiektów kultu religijnego i cmentarzy.
+
+**§ 12.** Wysokość poniesionych kosztów kwalifikowalnych operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, ustala się na podstawie umowy, faktury lub innego równoważnego dokumentu księgowego oraz innych dokumentów potwierdzających dokonanie zapłaty przez beneficjenta.
+
+**§ 13.** Do kosztów kwalifikowalnych operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celów, o których mowa w § 2 pkt 1–4, nie zalicza się kosztów poniesionych w związku z realizacją tej operacji poza obszarem LSR, z wyjątkiem kosztów poniesionych na realizację operacji, o których mowa w § 5 pkt 1 lit. c i § 7 pkt 1 lit. b.
+
+**§ 14.** Pomoc finansową na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w ramach celów, o których mowa w § 2 pkt 1–4, która polega na inwestycji w zakresie budowy, robót budowlanych, przebudowy i remontu obiektu budowlanego, w rozumieniu przepisów prawa budowlanego, lub zakupu narzędzi i urządzeń lub innego wyposażenia technicznego przyznaje się, jeżeli operacja:
+
+- **1)** przyczyni się do powstania trwałych korzyści gospodarczych;
+- **2)** będzie zrealizowana z zapewnieniem należytych gwarancji technicznych;
+- **3)** ma zapewnioną gospodarczą trwałość;
+- **4)** nie wpłynie negatywnie na środowisko oraz ochronę żywych zasobów wód.
+
+**§ 15.**
+
+1. Powstanie trwałych korzyści gospodarczych stwierdza się na podstawie informacji zawartych w:
+
+- **1)** uproszczonym planie biznesowym operacji – w przypadku operacji realizowanej przez wnioskodawców prowadzących lub podejmujących działalność gospodarczą;
+- **2)** opisie planowanej operacji zawartym we wniosku o dofinansowanie – w przypadku operacji realizowanej przez wnioskodawców innych niż określeni w pkt 1.
+
 2. Trwałe korzyści gospodarcze powstają, jeżeli proponowany przez wnioskodawcę sposób finansowania i realizacji operacji nie spowoduje utraty płynności finansowej tego wnioskodawcy w okresie 3 lat, licząc od końca roku, w którym podpisano umowę o dofinansowanie.
+
 3. Plan biznesowy, o którym mowa w ust. 1 pkt 1, wnioskodawca sporządza na formularzu, którego wzór opracowuje instytucja zarządzająca i udostępnia na administrowanej przez siebie stronie internetowej.
-§ 16. Zapewnienie należytych gwarancji technicznych operacji stwierdza się na podstawie:
-1) pozwolenia na budowę albo zgłoszenia, o których mowa w przepisach prawa budowlanego, jeżeli takie pozwolenie jest wymagane w związku z realizacją operacji;
-2) pozwolenia wodnoprawnego na szczególne korzystanie z wód, o którym mowa w przepisach prawa wodnego, jeżeli takie pozwolenie jest wymagane w związku z realizacją operacji.
-§ 17. Realizacja operacji ma zapewnioną gospodarczą trwałość, jeżeli założono przynajmniej 5-letni okres użytkowania obiektu budowlanego bezpośrednio związanego z wykonywaniem planowanej inwestycji oraz 5-letni okres eksploatacji lub użytkowania narzędzi i urządzeń lub innego wyposażenia technicznego.
-§ 18. Wpływ operacji na środowisko ustala się w postępowaniu w sprawie oceny oddziaływania na środowisko planowanych przedsięwzięć, jeżeli obowiązek przeprowadzenia takiego postępowania wynika z przepisów o ochronie środowiska.
-§ 19. 1. Postępowanie w sprawie przyznania pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, prowadzi zarząd województwa.
+
+**§ 16.** Zapewnienie należytych gwarancji technicznych operacji stwierdza się na podstawie:
+
+- **1)** pozwolenia na budowę albo zgłoszenia, o których mowa w przepisach prawa budowlanego, jeżeli takie pozwolenie jest wymagane w związku z realizacją operacji;
+- **2)** pozwolenia wodnoprawnego na szczególne korzystanie z wód, o którym mowa w przepisach prawa wodnego, jeżeli takie pozwolenie jest wymagane w związku z realizacją operacji.
+
+**§ 17.** Realizacja operacji ma zapewnioną gospodarczą trwałość, jeżeli założono przynajmniej 5-letni okres użytkowania obiektu budowlanego bezpośrednio związanego z wykonywaniem planowanej inwestycji oraz 5-letni okres eksploatacji lub użytkowania narzędzi i urządzeń lub innego wyposażenia technicznego.
+
+**§ 18.** Wpływ operacji na środowisko ustala się w postępowaniu w sprawie oceny oddziaływania na środowisko planowanych przedsięwzięć, jeżeli obowiązek przeprowadzenia takiego postępowania wynika z przepisów o ochronie środowiska.
+
+**§ 19.**
+
+1. Postępowanie w sprawie przyznania pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, prowadzi zarząd województwa.
+
 2. Załatwianie spraw związanych z przyznawaniem pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, w tym dokonywanie czynności w ramach postępowania w sprawie przyznania tej pomocy, może być dokonywane przez upoważnionych przez zarząd województwa pracowników urzędu marszałkowskiego albo wojewódzką samorządową jednostkę organizacyjną, zwaną dalej „jednostką samorządową”.
-§ 20. LGD, która jest stroną umowy ramowej w rozumieniu ustawy z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2019 r. poz. 1167), zwanej dalej „umową ramową”, podaje do publicznej wiadomości ogłoszenie o naborze wniosków o dofinansowanie operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, realizowanych przez podmiot inny niż LGD. Art. 19 ustawy z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności, zwanej dalej „ustawą o rozwoju lokalnym”, stosuje się odpowiednio.
-§ 21. 1. Wniosek o dofinansowanie operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, realizowanych przez podmiot inny niż LGD, poza informacjami zawartymi w art. 13 ust. 3 ustawy o EFMR, zawiera:
-1) imię i nazwisko oraz miejsce zamieszkania i adres osoby upoważnionej do reprezentowania wnioskodawcy oraz pełnomocnictwo, jeżeli zostało udzielone;
-2) numer identyfikacji podatkowej (NIP) wnioskodawcy, jeżeli został nadany, albo numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej lub niebędącej zarejestrowanym podatnikiem podatku od towarów i usług – numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL);
-3) informację o formie prawnej wnioskodawcy;
-4) wnioskowaną kwotę pomocy;
-5) charakterystykę prowadzonej działalności;
-6) zestawienie rzeczowo-finansowe operacji;
-7) oświadczenia lub zobowiązania wnioskodawcy związane z pomocą;
-8) informację o planowanym utworzeniu lub utrzymaniu co najmniej jednego miejsca pracy lub podjęciu działalności gospodarczej, lub podjęciu działalności jako uprawniony do rybactwa, i wynika to z celu realizowanej operacji, jeżeli operacja przewiduje utworzenie lub utrzymanie miejsca pracy lub podjęcie działalności gospodarczej, lub podjęcie działalności jako uprawniony do rybactwa;
-9) informację o zakładanych wskaźnikach realizacji celów operacji;
-10) informację o ubieganiu się o zaliczkę;
-11) informację o załącznikach dołączonych do wniosku.
+
+**§ 20.** LGD, która jest stroną umowy ramowej w rozumieniu ustawy z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2019 r. poz. 1167), zwanej dalej „umową ramową”, podaje do publicznej wiadomości ogłoszenie o naborze wniosków o dofinansowanie operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, realizowanych przez podmiot inny niż LGD. Art. 19 ustawy z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności, zwanej dalej „ustawą o rozwoju lokalnym”, stosuje się odpowiednio.
+
+**§ 21.**
+
+1. Wniosek o dofinansowanie operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, realizowanych przez podmiot inny niż LGD, poza informacjami zawartymi w art. 13 ust. 3 ustawy o EFMR, zawiera:
+
+- **1)** imię i nazwisko oraz miejsce zamieszkania i adres osoby upoważnionej do reprezentowania wnioskodawcy oraz pełnomocnictwo, jeżeli zostało udzielone;
+- **2)** numer identyfikacji podatkowej (NIP) wnioskodawcy, jeżeli został nadany, albo numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, a w przypadku osoby fizycznej nieprowadzącej działalności gospodarczej lub niebędącej zarejestrowanym podatnikiem podatku od towarów i usług – numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL);
+- **3)** informację o formie prawnej wnioskodawcy;
+- **4)** wnioskowaną kwotę pomocy;
+- **5)** charakterystykę prowadzonej działalności;
+- **6)** zestawienie rzeczowo-finansowe operacji;
+- **7)** oświadczenia lub zobowiązania wnioskodawcy związane z pomocą;
+- **8)** informację o planowanym utworzeniu lub utrzymaniu co najmniej jednego miejsca pracy lub podjęciu działalności gospodarczej, lub podjęciu działalności jako uprawniony do rybactwa, i wynika to z celu realizowanej operacji, jeżeli operacja przewiduje utworzenie lub utrzymanie miejsca pracy lub podjęcie działalności gospodarczej, lub podjęcie działalności jako uprawniony do rybactwa;
+- **9)** informację o zakładanych wskaźnikach realizacji celów operacji;
+- **10)** informację o ubieganiu się o zaliczkę;
+- **11)** informację o załącznikach dołączonych do wniosku.
+
 2. Do wniosku o dofinansowanie dołącza się dokumenty niezbędne do ustalenia spełnienia warunków przyznania pomocy albo ich kopie, których wykaz jest określony we wzorze wniosku o dofinansowanie, oraz dokumenty niezbędne do ustalenia spełnienia kryteriów wyboru określonych w LSR albo ich kopie.
+
 3. Kopie dokumentów, o których mowa w ust. 2, dołącza się w formie kopii potwierdzonych za zgodność oryginałem przez pracownika LGD lub pracownika urzędu marszałkowskiego albo jednostki samorządowej, lub podmiot, który wydał dokument, lub w formie kopii poświadczonych za zgodność z oryginałem przez notariusza lub przez występującego w sprawie pełnomocnika będącego radcą prawnym lub adwokatem.
+
 4. Wnioskodawca przekazuje LGD i zarządowi województwa informacje o zmianach w zakresie danych objętych wnioskiem o dofinansowanie, które nie mogą jednak prowadzić do zwiększenia wnioskowanej kwoty pomocy lub modyfikacji celu operacji, w terminie 14 dni od dnia zaistnienia tych zmian.
+
 5. Do trybu składania wniosków o dofinansowanie oraz szczegółowego sposobu oceny i terminów rozpatrywania tych wniosków przepisy art. 20 ust. 1, art. 21 ust. 1–1b , 2 i 4–7 oraz art. 22 i art. 23 ustawy o rozwoju lokalnym stosuje się odpowiednio.
-§ 22. Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, przysługuje według kolejności ustalonej na podstawie liczby punktów uzyskanych w ramach oceny prowadzonej z zastosowaniem kryteriów operacji określonych w LSR i wskazanych w ogłoszeniu, o którym mowa w § 20.
-§ 22a. 1. W przypadku gdy operacja nie mieści się w limicie środków, o którym mowa w art. 19 ust. 4 pkt 4 ustawy o rozwoju lokalnym, wniosek o dofinansowanie dotyczący tej operacji podlega rozpatrzeniu, jeżeli zaistnieją okoliczności umożliwiające przyznanie pomocy finansowej na tę operację w ramach tego limitu środków, o czym zarząd województwa informuje wnioskodawcę w formie pisemnej.
+
+**§ 22.** Pomoc finansowa na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, przysługuje według kolejności ustalonej na podstawie liczby punktów uzyskanych w ramach oceny prowadzonej z zastosowaniem kryteriów operacji określonych w LSR i wskazanych w ogłoszeniu, o którym mowa w § 20.
+
+**§ 22a.**
+
+1. W przypadku gdy operacja nie mieści się w limicie środków, o którym mowa w art. 19 ust. 4 pkt 4 ustawy o rozwoju lokalnym, wniosek o dofinansowanie dotyczący tej operacji podlega rozpatrzeniu, jeżeli zaistnieją okoliczności umożliwiające przyznanie pomocy finansowej na tę operację w ramach tego limitu środków, o czym zarząd województwa informuje wnioskodawcę w formie pisemnej.
+
 2. Termin rozpatrzenia wniosku o dofinansowanie, o którym mowa w ust. 1, rozpoczyna bieg od dnia zaistnienia okoliczności umożliwiających przyznanie pomocy finansowej na operację objętą tym wnioskiem w ramach limitu środków, o którym mowa w art. 19 ust. 4 pkt 4 ustawy o rozwoju lokalnym.
-§ 23. 1. W przypadku pozytywnego rozpatrzenia wniosku o dofinansowanie, o którym mowa w § 21, zarząd województwa niezwłocznie wyznacza wnioskodawcy, w formie pisemnej, w postaci papierowej, termin zawarcia umowy o dofinansowanie, nie dłuższy niż 14 dni od dnia otrzymania zawiadomienia o pozytywnym rozpatrzeniu wniosku.
+
+**§ 23.**
+
+1. W przypadku pozytywnego rozpatrzenia wniosku o dofinansowanie, o którym mowa w § 21, zarząd województwa niezwłocznie wyznacza wnioskodawcy, w formie pisemnej, w postaci papierowej, termin zawarcia umowy o dofinansowanie, nie dłuższy niż 14 dni od dnia otrzymania zawiadomienia o pozytywnym rozpatrzeniu wniosku.
+
 2. W przypadku gdy wnioskodawca nie stawił się w wyznaczonym przez zarząd województwa terminie w celu zawarcia umowy o dofinansowanie albo odmówił jej podpisania, zarząd województwa odmawia przyznania pomocy, chyba że wnioskodawca podpisał umowę o dofinansowanie w innym terminie uzgodnionym z zarządem województwa, nie dłuższym niż 21 dni od dnia, na który został wyznaczony poprzedni termin zawarcia umowy.
-§ 23a. 1. W razie uchybienia terminu wykonania przez wnioskodawcę określonych czynności w toku postępowania w sprawie o przyznanie pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, zarząd województwa, na pisemną prośbę wnioskodawcy, przywraca termin wykonania tych czynności, jeżeli wnioskodawca:
-1) wniósł prośbę w terminie 14 dni od dnia ustania przyczyny uchybienia;
-2) jednocześnie z wniesieniem prośby dopełnił czynności, dla której był określony termin;
-3) uprawdopodobnił, że uchybienie terminu nastąpiło bez jego winy.
+
+**§ 23a.**
+
+1. W razie uchybienia terminu wykonania przez wnioskodawcę określonych czynności w toku postępowania w sprawie o przyznanie pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, zarząd województwa, na pisemną prośbę wnioskodawcy, przywraca termin wykonania tych czynności, jeżeli wnioskodawca:
+
+- **1)** wniósł prośbę w terminie 14 dni od dnia ustania przyczyny uchybienia;
+- **2)** jednocześnie z wniesieniem prośby dopełnił czynności, dla której był określony termin;
+- **3)** uprawdopodobnił, że uchybienie terminu nastąpiło bez jego winy.
+
 2. Przywrócenie terminu do złożenia prośby, o której mowa w ust. 1, jest niedopuszczalne.
-§ 24. W przypadku operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, następca prawny wnioskodawcy albo nabywca przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części, po złożeniu wniosku o dofinansowanie przez wnioskodawcę, nie może wstąpić do toczącego się postępowania na miejsce wnioskodawcy.
-§ 25. 1. Warunkiem przyznania pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, jest zawarcie umowy o dofinansowanie, która – poza postanowieniami określonymi w art. 17 ust. 1 ustawy o EFMR – zawiera co najmniej następujące postanowienia dotyczące realizacji tej operacji:
-1) wskazanie terminów złożenia wniosku o płatność oraz wypłaty pomocy;
-2) warunki zwrotu pomocy – w przypadku naruszenia przez beneficjenta przepisów o zamówieniach publicznych;
-3) zobowiązania beneficjenta do:
-a) zachowania konkurencyjnego trybu wyboru wykonawców poszczególnych zadań ujętych w zestawieniu rzeczowo-finansowym operacji – w przypadku gdy do ich wyboru nie mają zastosowania przepisy o zamówieniach publicznych,
-b) przedłożenia sprawozdań z realizacji operacji,
-c) prowadzenia oddzielnego systemu rachunkowości w ramach prowadzonych ksiąg rachunkowych lub korzystania z odpowiedniego kodu księgowego dla wszystkich transakcji związanych z operacją zgodnie z art. 125 ust. 4 lit. b rozporządzenia nr 1303/2013, albo prowadzenia zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez urząd marszałkowski albo jednostkę samorządową, jeżeli beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych,
-d) osiągnięcia celu operacji i zachowania tego celu przez: – 5 lat – w przypadku operacji polegającej na inwestycji, o której mowa w § 14, – 3 lata – w przypadku operacji polegających na utworzeniu lub utrzymaniu co najmniej jednego miejsca pracy lub podjęciu działalności gospodarczej, lub podjęciu działalności jako uprawniony do rybactwa,
-e) zapewnienia trwałości operacji zgodnie z art. 71 rozporządzenia nr 1303/2013,
-f) osiągnięcia wskaźników realizacji celów operacji oraz przedłożenia dokumentów potwierdzających ich osiągnięcie, w terminie wskazanym w umowie,
-g) niefinansowania realizacji operacji z udziałem innych środków publicznych, z wyjątkiem współfinansowania tej operacji: – z dochodów jednostek samorządu terytorialnego stanowiących dochody własne lub subwencję ogólną, – z krajowych środków publicznych będących w dyspozycji ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego w ramach programu „Promocja kultury polskiej za granicą – Promesa”, – z krajowych środków publicznych będących w dyspozycji ministra właściwego do spraw turystyki, – ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz Wojewódzkich Funduszy Ochrony Środowiska i Gospodarki Wodnej,
-h) umożliwienia przeprowadzenia kontroli związanych z przyznaną pomocą przez 5 lat,
-i) przechowywania dokumentów związanych z przyznaną pomocą przez 5 lat,
-j) informowania zarządu województwa o okolicznościach mogących mieć wpływ na wykonanie umowy przez 5 lat;
-4) informację o udzieleniu beneficjentowi zaliczki;
-5) określenie ograniczeń lub warunków obowiązujących przez 5 lat w zakresie:
-a) przenoszenia własności lub posiadania rzeczy nabytych w ramach realizacji operacji lub sposobu ich wykorzystania,
-b) sposobu lub miejsca prowadzenia działalności związanej z przyznaną pomocą;
-6) określenie warunków i sposobu udostępniania danych dotyczących realizacji operacji, niezbędnych do monitorowania wskaźników określonych w LSR.
+
+**§ 24.** W przypadku operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, następca prawny wnioskodawcy albo nabywca przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części, po złożeniu wniosku o dofinansowanie przez wnioskodawcę, nie może wstąpić do toczącego się postępowania na miejsce wnioskodawcy.
+
+**§ 25.**
+
+1. Warunkiem przyznania pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, jest zawarcie umowy o dofinansowanie, która – poza postanowieniami określonymi w art. 17 ust. 1 ustawy o EFMR – zawiera co najmniej następujące postanowienia dotyczące realizacji tej operacji:
+
+- **1)** wskazanie terminów złożenia wniosku o płatność oraz wypłaty pomocy;
+- **2)** warunki zwrotu pomocy – w przypadku naruszenia przez beneficjenta przepisów o zamówieniach publicznych;
+- **3)** zobowiązania beneficjenta do:
+    - **a)** zachowania konkurencyjnego trybu wyboru wykonawców poszczególnych zadań ujętych w zestawieniu rzeczowo-finansowym operacji – w przypadku gdy do ich wyboru nie mają zastosowania przepisy o zamówieniach publicznych,
+    - **b)** przedłożenia sprawozdań z realizacji operacji,
+    - **c)** prowadzenia oddzielnego systemu rachunkowości w ramach prowadzonych ksiąg rachunkowych lub korzystania z odpowiedniego kodu księgowego dla wszystkich transakcji związanych z operacją zgodnie z art. 125 ust. 4 lit. b rozporządzenia nr 1303/2013, albo prowadzenia zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez urząd marszałkowski albo jednostkę samorządową, jeżeli beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych,
+    - **d)** osiągnięcia celu operacji i zachowania tego celu przez: – 5 lat – w przypadku operacji polegającej na inwestycji, o której mowa w § 14, – 3 lata – w przypadku operacji polegających na utworzeniu lub utrzymaniu co najmniej jednego miejsca pracy lub podjęciu działalności gospodarczej, lub podjęciu działalności jako uprawniony do rybactwa,
+    - **e)** zapewnienia trwałości operacji zgodnie z art. 71 rozporządzenia nr 1303/2013,
+    - **f)** osiągnięcia wskaźników realizacji celów operacji oraz przedłożenia dokumentów potwierdzających ich osiągnięcie, w terminie wskazanym w umowie,
+    - **g)** niefinansowania realizacji operacji z udziałem innych środków publicznych, z wyjątkiem współfinansowania tej operacji: – z dochodów jednostek samorządu terytorialnego stanowiących dochody własne lub subwencję ogólną, – z krajowych środków publicznych będących w dyspozycji ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego w ramach programu „Promocja kultury polskiej za granicą – Promesa”, – z krajowych środków publicznych będących w dyspozycji ministra właściwego do spraw turystyki, – ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz Wojewódzkich Funduszy Ochrony Środowiska i Gospodarki Wodnej,
+    - **h)** umożliwienia przeprowadzenia kontroli związanych z przyznaną pomocą przez 5 lat,
+    - **i)** przechowywania dokumentów związanych z przyznaną pomocą przez 5 lat,
+    - **j)** informowania zarządu województwa o okolicznościach mogących mieć wpływ na wykonanie umowy przez 5 lat;
+
+- **4)** informację o udzieleniu beneficjentowi zaliczki;
+- **5)** określenie ograniczeń lub warunków obowiązujących przez 5 lat w zakresie:
+    - **a)** przenoszenia własności lub posiadania rzeczy nabytych w ramach realizacji operacji lub sposobu ich wykorzystania,
+    - **b)** sposobu lub miejsca prowadzenia działalności związanej z przyznaną pomocą;
+
+- **6)** określenie warunków i sposobu udostępniania danych dotyczących realizacji operacji, niezbędnych do monitorowania wskaźników określonych w LSR.
+
 2. Pięcioletni lub trzyletni okres, którego dotyczą zobowiązania wymienione w ust. 1, liczy się od dnia dokonania płatności końcowej.
-§ 26. 1. Zabezpieczeniem należytego wykonania przez beneficjenta zobowiązań określonych w umowie o dofinansowanie, o której mowa w § 25, jest weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez zarząd województwa.
+
+**§ 26.**
+
+1. Zabezpieczeniem należytego wykonania przez beneficjenta zobowiązań określonych w umowie o dofinansowanie, o której mowa w § 25, jest weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez zarząd województwa.
+
 2. Weksel wraz z deklaracją wekslową, o których mowa w ust. 1, są:
-1) podpisywane przez beneficjenta w obecności upoważnionego pracownika urzędu marszałkowskiego albo samorządowej jednostki;
-2) składane w urzędzie marszałkowskim albo samorządowej jednostce w dniu zawarcia umowy o dofinansowanie.
+
+- **1)** podpisywane przez beneficjenta w obecności upoważnionego pracownika urzędu marszałkowskiego albo samorządowej jednostki;
+- **2)** składane w urzędzie marszałkowskim albo samorządowej jednostce w dniu zawarcia umowy o dofinansowanie.
+
 3. Beneficjent będący osobą fizyczną dołącza do umowy o dofinansowanie, o której mowa w § 25:
-1) oświadczenie małżonka o wyrażeniu zgody na zawarcie umowy albo o ustanowionej rozdzielności majątkowej albo oświadczenie o niepozostawaniu w związku małżeńskim;
-2) oświadczenie współwłaściciela albo współwłaścicieli przedsiębiorstwa oraz ich małżonków o wyrażeniu zgody na zawarcie umowy o dofinansowanie albo o ustanowionej rozdzielności majątkowej albo oświadczenie o niepozostawaniu w związku małżeńskim – w przypadku gdy operacja dotyczy wyłącznie przedsiębiorstwa stanowiącego współwłasność osób fizycznych.
-§ 27. 1. Środki finansowe z tytułu pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, wypłaca się na warunkach określonych w umowie o dofinansowanie, o której mowa w § 25, z tym że środki te mogą być wypłacone, jeżeli beneficjent:
-1) udokumentował zrealizowanie operacji lub jej części, w tym poniesienie kosztów kwalifikowalnych z tym związanych, zgodnie z warunkami określonymi w rozporządzeniu i w umowie o dofinansowanie;
-2) zrealizował lub realizuje zobowiązania określone w umowie o dofinansowanie.
+
+- **1)** oświadczenie małżonka o wyrażeniu zgody na zawarcie umowy albo o ustanowionej rozdzielności majątkowej albo oświadczenie o niepozostawaniu w związku małżeńskim;
+- **2)** oświadczenie współwłaściciela albo współwłaścicieli przedsiębiorstwa oraz ich małżonków o wyrażeniu zgody na zawarcie umowy o dofinansowanie albo o ustanowionej rozdzielności majątkowej albo oświadczenie o niepozostawaniu w związku małżeńskim – w przypadku gdy operacja dotyczy wyłącznie przedsiębiorstwa stanowiącego współwłasność osób fizycznych.
+
+**§ 27.**
+
+1. Środki finansowe z tytułu pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, wypłaca się na warunkach określonych w umowie o dofinansowanie, o której mowa w § 25, z tym że środki te mogą być wypłacone, jeżeli beneficjent:
+
+- **1)** udokumentował zrealizowanie operacji lub jej części, w tym poniesienie kosztów kwalifikowalnych z tym związanych, zgodnie z warunkami określonymi w rozporządzeniu i w umowie o dofinansowanie;
+- **2)** zrealizował lub realizuje zobowiązania określone w umowie o dofinansowanie.
+
 2. W przypadku gdy beneficjent nie spełnił któregokolwiek z warunków, o których mowa w ust. 1, środki finansowe z tytułu pomocy finansowej na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, mogą być wypłacone w części dotyczącej operacji, która została zrealizowana zgodnie z tymi warunkami, jeżeli cel operacji został osiągnięty lub może zostać osiągnięty do dnia złożenia wniosku o płatność końcową.
-§ 28. Środki finansowe z tytułu pomocy na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, przyznaje się do wysokości limitu dostępnych środków finansowych wskazanego w ogłoszeniu o naborze wniosków o dofinansowanie, z uwzględnieniem wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, oraz wysokości środków wskazanych w umowie ramowej.
-§ 29. 1. Wniosek o płatność z tytułu zrealizowania operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, składa się, w formie pisemnej, w postaci papierowej, osobiście albo przez upoważnioną osobę, w siedzibie instytucji pośredniczącej albo w jednostce samorządowej tego samorządu województwa, z którym została zawarta umowa o dofinansowanie, o której mowa w § 25, albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu przepisów prawa pocztowego.
+
+**§ 28.** Środki finansowe z tytułu pomocy na realizację operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, przyznaje się do wysokości limitu dostępnych środków finansowych wskazanego w ogłoszeniu o naborze wniosków o dofinansowanie, z uwzględnieniem wysokości limitu, o którym mowa w art. 9 ust. 1 ustawy o EFMR, oraz wysokości środków wskazanych w umowie ramowej.
+
+**§ 29.**
+
+1. Wniosek o płatność z tytułu zrealizowania operacji w ramach działania realizacja lokalnych strategii rozwoju kierowanych przez społeczność, o którym mowa w art. 62 ust. 1 lit. b rozporządzenia nr 508/2014, składa się, w formie pisemnej, w postaci papierowej, osobiście albo przez upoważnioną osobę, w siedzibie instytucji pośredniczącej albo w jednostce samorządowej tego samorządu województwa, z którym została zawarta umowa o dofinansowanie, o której mowa w § 25, albo przesyłką rejestrowaną nadaną w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu przepisów prawa pocztowego.
+
 2. Złożenie wniosku o płatność w siedzibie instytucji pośredniczącej albo w jednostce samorządowej, o której mowa w ust. 1, potwierdza się na piśmie. Potwierdzenie zawiera datę i godzinę wpływu wniosku i jest opatrzone pieczęcią tej instytucji pośredniczącej albo jednostki samorządowej i podpisem osoby przyjmującej wniosek.
+
 3. W przypadku gdy operacja jest realizowana w etapach, wniosek o płatność będący wnioskiem o płatność pośrednią składa się po zrealizowaniu danego etapu operacji, w terminie określonym w umowie o dofinansowanie, o której mowa
+
+## Załącznik
+
 § 25.
 4. Do wniosku o płatność dołącza się dokumenty niezbędne do ustalenia spełnienia warunków wypłaty pomocy albo ich kopie, których wykaz jest określony we wzorze wniosku o płatność.
 5. Kopie dokumentów, o których mowa w ust. 4, dołącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika LGD lub pracownika urzędu marszałkowskiego albo jednostki samorządowej, lub podmiot, który wydał dokument, lub w formie kopii poświadczonych za zgodność z oryginałem przez notariusza lub przez występującego w sprawie pełnomocnika będącego radcą prawnym lub adwokatem.

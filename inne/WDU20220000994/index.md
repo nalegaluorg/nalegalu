@@ -27,9 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania związanych z pracą dla pracowników zatrudnionych w niektórych jednostkach resortu sprawiedliwości Na podstawie art. 77 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U.
 poz. 1162 oraz z 2022 r. poz. 655) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 22 kwietnia 2008 r.
-gradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników jednostkach organizacyjnych resortu sprawiedliwości (Dz. U. z 2020 r. poz. 1277) w załączniku tabela „I. Dla niektórych pracowników cywilnych więziennictwa” otrzymuje brzmienie określone szego rozporządzenia.
-§ 2. Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku do niniejszego stosowanie do wynagrodzeń należnych od dnia 1 stycznia 2022 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rodziny i I. Dla niektórych pracowników cywilnych więziennictwa Kategoria zaszeregowania Kwota w złotych 1 2 I 2080–3660 II 2130–3710 III 2180–3760 IV 2230–3810 V 2280–3860 VI 2330–3910 VII 2380–3960 VIII 2430–4010 IX 2490–4060 X 2590–4160 XI 2690–4260
+
+**§ 1.** W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 22 kwietnia 2008 r. gradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników jednostkach organizacyjnych resortu sprawiedliwości (Dz. U. z 2020 r. poz. 1277) w załączniku tabela „I. Dla niektórych pracowników cywilnych więziennictwa” otrzymuje brzmienie określone szego rozporządzenia.
+
+**§ 2.** Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku do niniejszego stosowanie do wynagrodzeń należnych od dnia 1 stycznia 2022 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rodziny i I. Dla niektórych pracowników cywilnych więziennictwa Kategoria zaszeregowania Kwota w złotych 1 2 I 2080–3660 II 2130–3710 III 2180–3760 IV 2230–3810 V 2280–3860 VI 2330–3910 VII 2380–3960 VIII 2430–4010 IX 2490–4060 X 2590–4160 XI 2690–4260
 

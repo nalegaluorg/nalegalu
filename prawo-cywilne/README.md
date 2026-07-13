@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo cywilne**.
 
-Łącznie: **141** aktów
+Łącznie: **138** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -32,7 +32,6 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU20210001509](WDU20210001509/index.md) | Ustawa z dnia 24 czerwca 2021 r. o zmianie ustawy - Kodeks cywilny | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20210001090](WDU20210001090/index.md) | Ustawa z dnia 28 maja 2021 r. o zmianie ustawy - Kodeks postępowania cywiln | Ustawa | obowiązujący |  |
 | [WDU20200000956](WDU20200000956/index.md) | Ustawa z dnia 30 kwietnia 2020 r. o zmianie ustawy - Kodeks postępowania cy | Ustawa | obowiązujący |  |
-| [WDU20200000288](WDU20200000288/index.md) | Ustawa z dnia 13 lutego 2020 r. o zmianie ustawy - Kodeks postępowania cywi | Ustawa | obowiązujący |  |
 | [WDU20190002309](WDU20190002309/index.md) | Ustawa z dnia 16 października 2019 r. o zmianie ustawy - Prawo własności pr | Ustawa | obowiązujący |  |
 | [WDU20190002128](WDU20190002128/index.md) | Ustawa z dnia 16 października 2019 r. o zmianie ustawy - Kodeks karny oraz  | Ustawa | obowiązujący |  |
 | [WDU20190002089](WDU20190002089/index.md) | Ustawa z dnia 16 października 2019 r. o zmianie ustawy - Kodeks rodzinny i  | Ustawa | obowiązujący |  |
@@ -139,8 +138,6 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU19900550318](WDU19900550318/index.md) | Ustawa z dnia 13 lipca 1990 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | obowiązujący | [tak](WDU19900550318/orzecznictwo.md) |
 | [WDU19900530306](WDU19900530306/index.md) | Ustawa z dnia 13 lipca 1990 r. o powołaniu sądów apelacyjnych oraz o zmiani | Ustawa | obowiązujący | [tak](WDU19900530306/orzecznictwo.md) |
 | [WDU19890030011](WDU19890030011/index.md) | Ustawa z dnia 31 stycznia 1989 r. o zmianie ustawy - Kodeks cywilny. | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19890030011/orzecznictwo.md) |
-| [WDU19820110081](WDU19820110081/index.md) | Ustawa z dnia 26 marca 1982 r. o zmianie ustawy - Kodeks cywilny oraz o uch | Ustawa | obowiązujący | [tak](WDU19820110081/orzecznictwo.md) |
-| [WDU19750450234](WDU19750450234/index.md) | Ustawa z dnia 19 grudnia 1975 r. o zmianie ustawy Kodeks rodzinny i opiekuń | Ustawa | obowiązujący | [tak](WDU19750450234/orzecznictwo.md) |
 | [WDU19640430297](WDU19640430297/index.md) | Ustawa z dnia 17 listopada 1964 r. - Przepisy wprowadzające Kodeks postępow | Ustawa | obowiązujący | [tak](WDU19640430297/orzecznictwo.md) |
 | [WDU19640430296](WDU19640430296/index.md) | Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640430296/orzecznictwo.md) |
 | [WDU19640160094](WDU19640160094/index.md) | Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadzające kodeks cywilny. | Ustawa | obowiązujący | [tak](WDU19640160094/orzecznictwo.md) |
@@ -148,4 +145,4 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU19640090060](WDU19640090060/index.md) | Ustawa z dnia 25 lutego 1964 r. - Przepisy wprowadzające kodeks rodzinny i  | Ustawa | obowiązujący | [tak](WDU19640090060/orzecznictwo.md) |
 | [WDU19640090059](WDU19640090059/index.md) | Ustawa z dnia 25 lutego 1964 r. - Kodeks rodzinny i opiekuńczy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640090059/orzecznictwo.md) |
 
-*141 aktów • [← Powrót do spisu głównego](../README.md)*
+*138 aktów • [← Powrót do spisu głównego](../README.md)*

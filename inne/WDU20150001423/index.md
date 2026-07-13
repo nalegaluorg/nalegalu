@@ -27,8 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stawek uposażenia zasadniczego na poszczególnych stanowiskach służbowych funkcjonariuszy Centralnego Biura Antykorupcyjnego oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat Na podstawie art. 90 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2014 r.
 poz. 1411, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 6 października 2010 r. w sprawie stawek uposażenia zasadniczego na poszczególnych stanowiskach służbowych funkcjonariuszy Centralnego Biura Antykorupcyjnego oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat (Dz. U. z 2014 r. poz. 1479) w § 2 ust. 1 otrzymuje brzmienie: „1. Uposażenie zasadnicze funkcjonariusza Centralnego Biura Antykorupcyjnego wzrasta z tytułu wysługi lat o 5% po 5 latach służby i o dalszy 1% za każdy następny rok służby, aż do wysokości 35% po 35 latach służby.”.
-§ 2. Wzrost uposażenia zasadniczego z tytułu wysługi lat określony w rozporządzeniu zmienianym w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się przy ustalaniu wysokości uposażeń należnych funkcjonariuszom Centralnego Biura Antykorupcyjnego od dnia 1 stycznia 2015 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: E. Kopacz
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 6 października 2010 r. w sprawie stawek uposażenia zasadniczego na poszczególnych stanowiskach służbowych funkcjonariuszy Centralnego Biura Antykorupcyjnego oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat (Dz. U. z 2014 r. poz. 1479) w § 2 ust. 1 otrzymuje brzmienie: „1. Uposażenie zasadnicze funkcjonariusza Centralnego Biura Antykorupcyjnego wzrasta z tytułu wysługi lat o 5% po 5 latach służby i o dalszy 1% za każdy następny rok służby, aż do wysokości 35% po 35 latach służby.”.
+
+**§ 2.** Wzrost uposażenia zasadniczego z tytułu wysługi lat określony w rozporządzeniu zmienianym w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się przy ustalaniu wysokości uposażeń należnych funkcjonariuszom Centralnego Biura Antykorupcyjnego od dnia 1 stycznia 2015 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

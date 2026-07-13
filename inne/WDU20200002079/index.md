@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania Na podstawie art. 11 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2020 r.
 poz. 505, 568, 695, 1087 i 1106) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055 oraz z 2020 r. poz. 1959) w § 3 w ust. 1 w pkt 22 kropkę zastępuje się przecinkiem i dodaje się pkt 23 i 24 w brzmieniu: „23) opłaty sankcyjnej, o której mowa w art. 75a ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2019 r. poz. 1900 oraz z 2020 r. poz. 284 i 425),
-24) kaucji, o której mowa w art. 75a ust. 7 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055 oraz z 2020 r. poz. 1959) w § 3 w ust. 1 w pkt 22 kropkę zastępuje się przecinkiem i dodaje się pkt 23 i 24 w brzmieniu: „23) opłaty sankcyjnej, o której mowa w art. 75a ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2019 r. poz. 1900 oraz z 2020 r. poz. 284 i 425), 24) kaucji, o której mowa w art. 75a ust. 7 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

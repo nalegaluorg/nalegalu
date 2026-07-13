@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r.
 poz. 52, 55, 60, 125, 1469 i 1495) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396, z późn. zm. ) w § 1 w pkt 35 wprowadza się następujące zmiany:
-1) uchyla się lit. a;
-2) lit. c otrzymuje brzmienie: „c) Sądowi Rejonowemu w Stargardzie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w: Choszcznie, Łobzie i Myśliborzu,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396, z późn. zm. ) w § 1 w pkt 35 wprowadza się następujące zmiany:
+
+- **1)** uchyla się lit. a;
+- **2)** lit. c otrzymuje brzmienie: „c) Sądowi Rejonowemu w Stargardzie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w: Choszcznie, Łobzie i Myśliborzu,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. Minister Sprawiedliwości: Z. Ziobro
 

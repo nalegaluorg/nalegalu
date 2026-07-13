@@ -1144,6 +1144,91 @@ source: pdf
 
 **Art. 84.**
 
-1. W razie powtarzającego się naruszenia przez sejmik województwa Konstytucji lub ustaw, Sejm, na wniosek Prezesa Rady Ministrów, może w drodze uchwały rozwiązać sejmik województwa. Rozwiązanie sejmiku województwa równoznaczne jest z rozwiązaniem wszystkich organów samorządu województwa.
+1. W razie powtarzającego się naruszenia przez sejmik województwa Konstytucji lub ustaw, Sejm, na wniosek Prezesa Rady Ministrów, może w drodze uchwały rozwiązać sejmik województwa. Rozwiązanie sejmiku województwa równoznaczne jest z rozwiązaniem wszystkich organów samorządu województwa. Prezes Rady Ministrów na wniosek ministra właściwego do spraw administracji publicznej wyznacza wówczas osobę, która do czasu wyborów nowych organów samorządu województwa pełni funkcję tych organów.
 
+2. Jeżeli powtarzającego się naruszenia Konstytucji lub ustaw dopuszcza się zarząd województwa, wojewoda wzywa sejmik województwa do zastosowania niezbędnych środków, a jeżeli wezwanie to nie odnosi skutku – za pośrednictwem ministra właściwego do spraw administracji publicznej – występuje z wnioskiem do Prezesa Rady Ministrów o rozwiązanie zarządu województwa. W razie rozwiązania zarządu, do czasu wyboru nowego zarządu, funkcje zarządu pełni osoba wyznaczona przez Prezesa Rady Ministrów.
+
+**Art. 85.**
+
+1. W razie nierokującego szybkiej poprawy i przedłużającego się braku skuteczności w wykonywaniu zadań publicznych przez organy samorządu województwa Prezes Rady Ministrów, na wniosek ministra właściwego do spraw administracji publicznej, może zawiesić organy samorządu województwa i ustanowić zarząd komisaryczny na okres do 2 lat, niedłużej jednak niż do wyboru zarządu województwa przez sejmik województwa nowej kadencji.
+
+2. Ustanowienie zarządu komisarycznego może nastąpić po uprzednim przedstawieniu zarzutów organom samorządu województwa i wezwaniu ich do niezwłocznego przedstawienia programu poprawy sytuacji województwa.
+
+3. Komisarza rządowego powołuje Prezes Rady Ministrów na wniosek wojewody, zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej.
+
+4. Komisarz rządowy przejmuje wykonywanie zadań i kompetencje organów samorządu województwa z dniem powołania.
+
+**Art. 86.**
+
+1. Rozstrzygnięcia organu nadzorczego dotyczące województwa, w tym rozstrzygnięcia, o których mowa w art. 84 ust. 2 i art. 85 ust. 1, a także stanowisko zajęte w trybie art. 80a, podlegają zaskarżeniu do sądu administracyjnego z powodu niezgodności z prawem w terminie 30 dni od dnia ich doręczenia.
+
+2. Do złożenia skargi jest uprawnione województwo. Podstawą wniesienia skargi jest uchwała sejmiku województwa.
+
+2a. Do złożenia skargi na rozstrzygnięcie organu nadzorczego, dotyczące uchwały sejmiku województwa, doręczone po upływie kadencji sejmiku, uprawniony jest sejmik województwa następnej kadencji w terminie 30 dni od dnia wyboru przewodniczącego sejmiku.
+
+3. Do złożenia skargi uprawnione jest województwo, którego interes prawny, uprawnienie albo kompetencja zostały naruszone. Podstawą do wniesienia skargi jest uchwała organu, który podjął uchwałę lub którego dotyczy rozstrzygnięcie nadzorcze.
+
+4. Rozstrzygnięcia nadzorcze stają się prawomocne po upływie terminu przewidzianego na wniesienie skargi albo z dniem oddalenia skargi lub odrzucenia jej przez sąd.
+
+**Art. 86a.**
+
+1. Jeżeli właściwy organ województwa, wbrew obowiązkowi wynikającemu z przepisów art. 383 § 2 i 6 ustawy, o której mowa w art. 33 ust. 7, oraz art. 5 ust. 2, 3 i 5 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, w zakresie dotyczącym odpowiednio wygaśnięcia mandatu radnego, odwołania ze stanowiska albo rozwiązania umowy o pracę z członkiem zarządu województwa, sekretarzem województwa, skarbnikiem województwa, kierownikiem wojewódzkiej samorządowej jednostki organizacyjnej i osobą zarządzającą lub członkiem organu zarządzającego wojewódzką osobą prawną, nie podejmuje uchwały, nie odwołuje ze stanowiska albo nie rozwiązuje umowy o pracę, wojewoda wzywa organ województwa do podjęcia uchwały w terminie 30 dni.
+
+1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa w art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2024 r. poz. 1135).
+
+2. W razie bezskutecznego upływu terminu określonego w ust. 1, wojewoda, po powiadomieniu ministra właściwego do spraw administracji publicznej, wydaje zarządzenie zastępcze.
+
+3. Przepis art. 86 stosuje się odpowiednio, z tym że uprawniona do złożenia skargi jest również osoba, której interesu prawnego lub uprawnienia dotyczy zarządzenie zastępcze.
+
+**Art. 87.** Postępowania sądowe, o których mowa w art. 82 i 86, są wolne od opłat sądowych.
+
+**Art. 88.** Przepisów niniejszego rozdziału nie stosuje się do decyzji indywidualnych w sprawach z zakresu administracji publicznej, wydawanych przez organy samorządu województwa. Kontrolę instancyjną w tym zakresie oraz nadzór pozainstancyjny i kontrolę sprawowaną przez sąd określają przepisy odrębne.
+
+**Art. 88a.** (uchylony)
+
+#### Rozdział 8 Akty prawa miejscowego stanowionego przez samorząd województwa
+
+**Art. 89.**
+
+1. Na podstawie tej ustawy oraz na podstawie upoważnień udzielonych w innych ustawach i w ich granicach sejmik województwa stanowi akty prawa miejscowego obowiązujące na obszarze województwa lub jego części.
+
+2. Przewodniczący sejmiku województwa podpisuje akty prawa miejscowego, przyjęte przez sejmik województwa, niezwłocznie po ich uchwaleniu i kieruje je do publikacji w wojewódzkim dzienniku urzędowym.
+
+3. Publikacji w wojewódzkim dzienniku urzędowym podlega także uchwała budżetu województwa oraz sprawozdanie z wykonania budżetu województwa.
+
+4. Zasady i tryb ogłaszania aktów prawa miejscowego oraz wydawania wojewódzkiego dziennika urzędowego określa ustawa z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461).
+
+5. (uchylony)
+
+**Art. 89a.**
+
+1. Grupa mieszkańców województwa, posiadających czynne prawa wyborcze do organu stanowiącego, może wystąpić z obywatelską inicjatywą uchwałodawczą.
+
+2. Grupa mieszkańców, o której mowa w ust. 1, musi liczyć co najmniej 1000 osób.
+
+3. Projekt uchwały zgłoszony w ramach obywatelskiej inicjatywy uchwałodawczej staje się przedmiotem obrad sejmiku województwa na najbliższej sesji po złożeniu projektu, jednak niepóźniej niż po upływie 3 miesięcy od dnia złożenia projektu.
+
+4. Komitet inicjatywy uchwałodawczej ma prawo wskazywać osoby uprawnione do reprezentowania komitetu podczas prac sejmiku województwa.
+
+5. Sejmik województwa określi w drodze uchwały: szczegółowe zasady wnoszenia inicjatyw obywatelskich, zasady tworzenia komitetów inicjatyw uchwałodawczych, zasady promocji obywatelskich inicjatyw uchwałodawczych, formalne wymogi, jakim muszą odpowiadać składane projekty, z zastrzeżeniem przepisów niniejszej ustawy.
+
+**Art. 90.**
+
+1. Każdy, czyj interes prawny lub uprawnienie zostały naruszone przepisem aktu prawa miejscowego, wydanym w sprawie z zakresu administracji publicznej, może zaskarżyć przepis do sądu administracyjnego.
+
+2. (uchylony)
+
+3. Przepisu ust. 1 nie stosuje się, jeżeli w sprawie orzekał już sąd administracyjny i skargę oddalił.
+
+4. (uchylony)
+
+**Art. 91.**
+
+1. Przepisy art. 90 stosuje się odpowiednio, gdy organ samorządu województwa nie wykonuje czynności nakazanych prawem albo, przez podejmowane czynności prawne lub faktyczne, narusza prawa osób trzecich.
+
+2. W przypadkach, o których mowa w ust. 1, sąd administracyjny może nakazać organowi nadzoru wykonanie niezbędnych czynności na rzecz skarżącego.
+
+#### Rozdział 9 Przepis końcowy
+
+**Art. 92.** Ustawa wchodzi w życie w terminie i na zasadach określonych w odrębnej ustawie .
 

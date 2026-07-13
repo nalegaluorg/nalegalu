@@ -31,7 +31,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów, Fun
 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 25 października 2021 r.
 w sprawie zadań Krajowej Administracji Skarbowej, które mogą być wykonywane przez naczelników urzędów skarbowych na obszarze całego kraju lub jego części, niezależnie od terytorialnego zasięgu ich działania Na podstawie art. 11 ust. 5a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
 poz. 615, z późn. zm. ) zarządza się, co następuje:
-§ 1. Zadania, o których mowa w art. 28 ust. 1 pkt 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, mogą być wykonywane przez naczelników urzędów skarbowych na obszarze całego województwa, w którym znajduje się siedziba danego naczelnika urzędu skarbowego, niezależnie od terytorialnego zasięgu ich działania.
-§ 1a. Zadanie polegające na przekazywaniu danych zgodnie z § 6 ust. 2 pkt 7 i ust. 6 rozporządzenia Ministra Finansów z dnia 21 czerwca 2023 r. w sprawie korzystania z e-Urzędu Skarbowego (Dz. U. poz. 1178) może być wykonywane przez naczelników urzędów skarbowych na obszarze całego kraju, niezależnie od terytorialnego zasięgu ich działania.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Zadania, o których mowa w art. 28 ust. 1 pkt 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, mogą być wykonywane przez naczelników urzędów skarbowych na obszarze całego województwa, w którym znajduje się siedziba danego naczelnika urzędu skarbowego, niezależnie od terytorialnego zasięgu ich działania.
+
+**§ 1a.** Zadanie polegające na przekazywaniu danych zgodnie z § 6 ust. 2 pkt 7 i ust. 6 rozporządzenia Ministra Finansów z dnia 21 czerwca 2023 r. w sprawie korzystania z e-Urzędu Skarbowego (Dz. U. poz. 1178) może być wykonywane przez naczelników urzędów skarbowych na obszarze całego kraju, niezależnie od terytorialnego zasięgu ich działania.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

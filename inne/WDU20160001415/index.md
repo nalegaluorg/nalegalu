@@ -27,9 +27,11 @@ source: pdf
 
 w sprawie formatów, w jakich odpisy pism, dokumentów i pełnomocnictw mogą być poświadczane elektronicznie Na podstawie art. 129 § 5 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r.
 poz. 101, z późn. zm. ) zarządza się, co następuje:
-§ 1. Odpis pisma, dokumentu lub pełnomocnictwa może być poświadczony elektronicznie w formacie:
-1) PDF – jeżeli pismo, dokument lub pełnomocnictwo mają postać papierową albo gdy z przyczyn technicznych nie jest możliwe sporządzenie poświadczenia mającego postać elektroniczną w formacie XML;
-2) XML – jeżeli pismo, dokument lub pełnomocnictwo mają postać elektroniczną.
-§ 2. Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** Odpis pisma, dokumentu lub pełnomocnictwa może być poświadczony elektronicznie w formacie:
+
+- **1)** PDF – jeżeli pismo, dokument lub pełnomocnictwo mają postać papierową albo gdy z przyczyn technicznych nie jest możliwe sporządzenie poświadczenia mającego postać elektroniczną w formacie XML;
+- **2)** XML – jeżeli pismo, dokument lub pełnomocnictwo mają postać elektroniczną.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 8 września 2016 r. Minister Sprawiedliwości: Z. Ziobro
 

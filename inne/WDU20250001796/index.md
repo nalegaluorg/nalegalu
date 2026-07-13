@@ -28,13 +28,24 @@ source: pdf
 
 w sprawie rozliczania dotacji celowej na dofinansowanie funkcjonowania branżowych centrów umiejętności Na podstawie art. 145b ust. 13 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U.
 z 2025 r. poz. 439 i 1792) zarządza się, co następuje:
-§ 1. Rozporządzenie określa tryb i sposób rozliczania dotacji, o której mowa w art. 145b ust. 1 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, zwanej dalej „dotacją”, w tym sposób ustalania wysokości dotacji podlegającej zwrotowi, oraz wzór formularza rocznego rozliczenia wykorzystania dotacji.
-§ 2. 1. Jednostka samorządu terytorialnego sporządza i przekazuje do wojewody, który udzielił dotacji, w terminie do końca lutego roku następującego po roku, w którym dotacja została udzielona, roczne rozliczenie wykorzystania dotacji za poprzedni rok budżetowy.
+
+**§ 1.** Rozporządzenie określa tryb i sposób rozliczania dotacji, o której mowa w art. 145b ust. 1 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, zwanej dalej „dotacją”, w tym sposób ustalania wysokości dotacji podlegającej zwrotowi, oraz wzór formularza rocznego rozliczenia wykorzystania dotacji.
+
+**§ 2.**
+
+1. Jednostka samorządu terytorialnego sporządza i przekazuje do wojewody, który udzielił dotacji, w terminie do końca lutego roku następującego po roku, w którym dotacja została udzielona, roczne rozliczenie wykorzystania dotacji za poprzedni rok budżetowy.
+
 2. Wzór formularza rocznego rozliczenia wykorzystania dotacji, o którym mowa w ust. 1, stanowi załącznik do rozporządzenia.
+
 3. Roczne rozliczenie wykorzystania dotacji, o którym mowa w ust. 1, przekazuje się w postaci papierowej lub postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym.
-§ 3. 1. Roczne rozliczenie wykorzystania dotacji, o którym mowa w § 2 ust. 1, dotyczy wydatków bieżących związanych z realizacją zadań, o których mowa w przepisach wydanych na podstawie art. 117 ust. 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160).
+
+**§ 3.**
+
+1. Roczne rozliczenie wykorzystania dotacji, o którym mowa w § 2 ust. 1, dotyczy wydatków bieżących związanych z realizacją zadań, o których mowa w przepisach wydanych na podstawie art. 117 ust. 5 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160).
+
 2. Wydatki ujęte w rocznym rozliczeniu wykorzystania dotacji są udokumentowane i potwierdzone dowodami księgowymi.
-§ 4. Wysokość dotacji podlegającej zwrotowi jest obliczana według wzoru: W = D – P gdzie: W – oznacza wysokość dotacji podlegającej zwrotowi, D – oznacza wysokość dotacji podlegającej rozliczeniu, P – oznacza wysokość dotacji wykorzystanej zgodnie z przeznaczeniem.
-§ 5. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji: B. Nowacka … M W W W W M W W … M W W W ………………………… ………………………… ………… ……………… … ……… W …
+
+**§ 4.** Wysokość dotacji podlegającej zwrotowi jest obliczana według wzoru: W = D – P gdzie: W – oznacza wysokość dotacji podlegającej zwrotowi, D – oznacza wysokość dotacji podlegającej rozliczeniu, P – oznacza wysokość dotacji wykorzystanej zgodnie z przeznaczeniem.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji: B. Nowacka … M W W W W M W W … M W W W ………………………… ………………………… ………… ……………… … ……… W …
 

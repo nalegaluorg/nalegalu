@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety Na podstawie art. 27 ust. 6 i 7 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U.
 z 2017 r. poz. 149 i 60) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 9 października 2007 r. w sprawie składu oraz oznakowania suplementów diety (Dz. U. z 2015 r. poz. 2032 oraz z 2017 r. poz. 979) w załączniku nr 2 do rozporządzenia w ust. 2:
-1) po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) sole wapniowe fosforylowanych oligosacharydów;”;
-2) w pkt 141 kropkę zastępuje się średnikiem i dodaje się pkt 142 w brzmieniu: „142) krzem organiczny (monometylosilanetriol).”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: K. Radziwiłł
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 9 października 2007 r. w sprawie składu oraz oznakowania suplementów diety (Dz. U. z 2015 r. poz. 2032 oraz z 2017 r. poz. 979) w załączniku nr 2 do rozporządzenia w ust. 2:
+
+- **1)** po pkt 20 dodaje się pkt 20a w brzmieniu: „20a) sole wapniowe fosforylowanych oligosacharydów;”;
+- **2)** w pkt 141 kropkę zastępuje się średnikiem i dodaje się pkt 142 w brzmieniu: „142) krzem organiczny (monometylosilanetriol).”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: K. Radziwiłł
 

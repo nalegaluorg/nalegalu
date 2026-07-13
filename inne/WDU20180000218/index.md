@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/218/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom Na podstawie art. 87 ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067 i 2405 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 18 listopada 2003 r. w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 1932 oraz z 2014 r. poz. 1228) w § 1 w ust. 1 i 2 po wyrazach „Komendant Centralnego Biura Śledczego Policji,” dodaje się wyrazy „Komendant Biura Spraw Wewnętrznych Policji,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 18 listopada 2003 r. w sprawie szczegółowego trybu postępowania przy udzielaniu wyróżnień policjantom (Dz. U. poz. 1932 oraz z 2014 r. poz. 1228) w § 1 w ust. 1 i 2 po wyrazach „Komendant Centralnego Biura Śledczego Policji,” dodaje się wyrazy „Komendant Biura Spraw Wewnętrznych Policji,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. Minister Spraw Wewnętrznych i Administracji: J. Brudziński
 

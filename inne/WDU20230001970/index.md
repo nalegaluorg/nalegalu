@@ -30,10 +30,15 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 grudnia 2021 r. zmieniającego rozporządzenie w sprawie statutu organizacyjnego i regulaminu czynności wewnętrznych Rady do Spraw Uchodźców (Dz. U. z 2022 r. poz. 82), który stanowi: „ § 2. Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 9 grudnia 2008 r.
 w sprawie statutu organizacyjnego i regulaminu czynności wewnętrznych Rady do Spraw Uchodźców Na podstawie art. 89p ust. 5 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1504) zarządza się, co następuje:
-§ 1. Radzie do Spraw Uchodźców nadaje się statut organizacyjny, stanowiący załącznik nr 1 do rozporządzenia.
-§ 2. Radzie do Spraw Uchodźców nadaje się regulamin czynności wewnętrznych, stanowiący załącznik nr 2 do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2009 r.
-STATUT ORGANIZACYJNY RADY DO SPRAW UCHODŹCÓW
+
+**§ 1.** Radzie do Spraw Uchodźców nadaje się statut organizacyjny, stanowiący załącznik nr 1 do rozporządzenia.
+
+**§ 2.** Radzie do Spraw Uchodźców nadaje się regulamin czynności wewnętrznych, stanowiący załącznik nr 2 do rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2009 r. STATUT ORGANIZACYJNY RADY DO SPRAW UCHODŹCÓW
+
+## Załącznik
+
 § 1. 1. Rada do Spraw Uchodźców, zwana dalej „Radą”, działa na podstawie:
 1) ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U.
 z 2023 r. poz. 1504);

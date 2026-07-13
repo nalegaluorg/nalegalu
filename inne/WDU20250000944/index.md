@@ -27,9 +27,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000944) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/944/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wymagań, jakim powinien odpowiadać funkcjonariusz Straży Granicznej na określonym stanowisku służbowym Na podstawie art. 38 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 kwietnia 2022 r. w sprawie wymagań, jakim powinien odpowiadać funkcjonariusz Straży Granicznej na określonym stanowisku służbowym (Dz. U. poz. 895, z 2023 r. poz. 1903 oraz z 2025 r. poz. 67) w załączniku do rozporządzenia wprowadza się następujące zmiany:
-1) w tabeli nr 1 wiersz oznaczony lp. 14 otrzymuje brzmienie: 14 Zastępca rzecznika prasowego jednolite studia magisterskie podstawowe, oficerskie 4 lata Komendanta Głównego SG lub studia drugiego stopnia
-2) w tabeli nr 6 uchyla się wiersz oznaczony lp. 16.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 kwietnia 2022 r. w sprawie wymagań, jakim powinien odpowiadać funkcjonariusz Straży Granicznej na określonym stanowisku służbowym (Dz. U. poz. 895, z 2023 r. poz. 1903 oraz z 2025 r. poz. 67) w załączniku do rozporządzenia wprowadza się następujące zmiany:
+
+- **1)** w tabeli nr 1 wiersz oznaczony lp. 14 otrzymuje brzmienie: 14 Zastępca rzecznika prasowego jednolite studia magisterskie podstawowe, oficerskie 4 lata Komendanta Głównego SG lub studia drugiego stopnia
+- **2)** w tabeli nr 6 uchyla się wiersz oznaczony lp. 16.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
 

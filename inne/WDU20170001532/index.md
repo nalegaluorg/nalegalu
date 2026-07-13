@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1532/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów Na podstawie art. 81 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 14 maja 2013 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. poz. 644 oraz z 2014 r. poz. 1311) w § 14:
-1) uchyla się ust. 1;
-2) w ust. 3 wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 2”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 14 maja 2013 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. poz. 644 oraz z 2014 r. poz. 1311) w § 14:
+
+- **1)** uchyla się ust. 1;
+- **2)** w ust. 3 wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 2”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

@@ -27,71 +27,6 @@ source: pdf
 
 w sprawie osnów geodezyjnych, grawimetrycznych i magnetycznych Na podstawie art. 19 ust. 1 pkt 6 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r.
 poz. 2052 oraz z 2021 r. poz. 922) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) organizację, tryb i standardy techniczne zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych;
-2) szczegółowy zakres informacji gromadzonych w bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz w bazie danych szczegółowych osnów geodezyjnych;
-3) standardy techniczne dotyczące tworzenia, aktualizacji i udostępniania baz, o których mowa w pkt 2.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) rodzaju osnowy – rozumie się przez to wynik podziału osnów ze względu na ich funkcjonalność;
-2) klasie osnowy – rozumie się przez to wspólną cechę, wyróżniającą punkty osnowy ze względu na dokładność ustalania położenia lub wielkości fizycznej charakterystycznej dla określonego rodzaju osnowy;
-3) punkcie osnowy – rozumie się przez to punkt w terenie, oznaczony odpowiednim znakiem, dla którego wyznaczono współrzędne w państwowym systemie odniesień przestrzennych lub wielkość fizyczną charakterystyczną dla określonego rodzaju osnowy;
-4) wysokości normalnej – rozumie się przez to iloraz liczby geopotencjalnej przez przeciętną wartość przyspieszenia normalnego wzdłuż linii pionu pola normalnego siły ciężkości;
-5) wysokości elipsoidalnej – rozumie się przez to odległość od powierzchni elipsoidy odniesienia, mierzoną wzdłuż normalnej do tej elipsoidy.
-§ 3. Prace geodezyjne dotyczące zakładania lub utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych realizuje się pod kierownictwem osób posiadających uprawnienia zawodowe w zakresie, o którym mowa w art. 43 pkt 3 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
-§ 4. Geodezyjną dokumentację techniczną sporządzoną w związku z zakładaniem lub utrzymywaniem podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych przekazuje się do właściwego organu Służby Geodezyjnej i Kartograficznej.
-§ 5. 1. Punkty osnów stabilizuje się w terenie znakami w sposób zapewniający ich wieloletnią trwałość oraz możliwość wykorzystywania do pomiarów. Znak może pełnić funkcję punktu osnowy dla więcej niż jednego rodzaju osnowy.
-2. Punkt osnowy może mieć trwale stabilizowane punkty ekscentryczne, zabezpieczające funkcjonowanie tego punktu, które zalicza się do tej samej klasy osnowy.
-§ 6. Standardy techniczne zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych określa załącznik nr 1 do rozporządzenia.
-§ 7. 1. Podstawowe osnowy geodezyjne, grawimetryczne i magnetyczne klasyfikuje się zgodnie z rodzajami osnów jako:
-1) podstawową osnowę geodezyjną poziomą;
-2) podstawową osnowę geodezyjną wysokościową;
-3) osnowę grawimetryczną;
-4) osnowę magnetyczną.
-2. Osnowy, o których mowa w ust. 1, ze względu na ich dokładność dzielą się na klasy:
-1) fundamentalną;
-2) bazową.
-§ 8. 1. Punkty osnów fundamentalnych, o których mowa w § 7 ust. 2 pkt 1, przenoszą na obszar Rzeczypospolitej Polskiej europejski układ odniesienia odpowiedni dla danego rodzaju osnowy.
-2. Punkty osnów bazowych, o których mowa w § 7 ust. 2 pkt 2, rozmieszczone równomiernie na obszarze Rzeczypospolitej Polskiej, realizują układy odniesienia odpowiednie dla danego rodzaju osnowy.
-§ 9. Podstawowe osnowy geodezyjne, grawimetryczne i magnetyczne zakłada się i utrzymuje, zapewniając zagęszczenie punktów określone zgodnie z załącznikiem nr 1 do rozporządzenia.
-§ 10. 1. Utrzymywanie podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych polega na przeprowadzaniu okresowych przeglądów osnów, a w razie potrzeby – ich uzupełnieniu i pomiarze.
-2. Terminy dokonywania przeglądów podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych określa się zgodnie z załącznikiem nr 1 do rozporządzenia.
-§ 11. Szczegółową osnowę geodezyjną stanowią punkty nawiązane do podstawowej osnowy geodezyjnej.
-§ 12. W ramach szczegółowej osnowy geodezyjnej wyróżnia się:
-1) szczegółową osnowę geodezyjną poziomą;
-2) szczegółową osnowę geodezyjną wysokościową.
-§ 13. Zagęszczenie punktów szczegółowej osnowy geodezyjnej jest uzależnione od potrzeb wynikających z rozwoju gospodarczego obszaru, przy czym nie powinno być mniejsze niż określone w załączniku nr 1 do rozporządzenia.
-§ 14. 1. Utrzymywanie szczegółowych osnów geodezyjnych polega na przeprowadzaniu okresowych przeglądów tych osnów, a w razie potrzeby ich uzupełnieniu i pomiarze.
-2. Przegląd szczegółowej osnowy geodezyjnej przeprowadza się w miarę potrzeb wynikających z lokalnego rozwoju gospodarczego.
-§ 15. 1. W bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych gromadzi się dane dotyczące punktów odpowiednich osnów oraz zbiory obserwacji wykonanych w celu wyznaczenia wartości charakterystycznych dla tych punktów wraz z wynikami ich opracowania.
-2. W bazie danych szczegółowych osnów geodezyjnych gromadzi się dane dotyczące punktów tych osnów oraz zbiory obserwacji wykonanych w celu wyznaczenia współrzędnych punktów wraz z wynikami ich opracowania.
-§ 16. 1. Dane dotyczące punktów osnów gromadzone w bazie danych, o której mowa w § 15 ust. 1, obejmują co najmniej:
-1) numer;
-2) współrzędne geodezyjne (φ i λ) w układzie PL-ETRF2000-GRS80h oraz wysokość elipsoidalną (h), jeżeli została wyznaczona;
-3) współrzędne płaskie prostokątne (x, y) w układzie PL-ETRF2000-1992 oraz wysokość normalną (H) z podaniem oznaczenia układu wysokościowego, jeżeli została wyznaczona;
-4) opisy topograficzne;
-5) typ stabilizacji;
-6) stan znaku;
-7) błędy średnie współrzędnych płaskich prostokątnych po wyrównaniu – w przypadku osnowy geodezyjnej poziomej;
-8) błędy średnie wysokości po wyrównaniu – w przypadku osnowy geodezyjnej wysokościowej;
-9) wartość przyspieszenia siły ciężkości – w przypadku osnowy grawimetrycznej;
-10) wartości elementów pola magnetycznego Ziemi – w przypadku osnowy magnetycznej.
-2. Dane dotyczące punktów osnów gromadzone w bazie danych, o której mowa w § 15 ust. 2, obejmują co najmniej:
-1) numer;
-2) współrzędne płaskie prostokątne (x, y) w układzie PL-2000 z podaniem oznaczenia układu odniesienia oraz wysokość normalną (H) z podaniem oznaczenia układu wysokościowego, jeżeli została wyznaczona;
-3) opisy topograficzne;
-4) typ stabilizacji;
-5) stan znaku;
-6) błędy średnie współrzędnych płaskich prostokątnych po wyrównaniu – w przypadku osnowy poziomej;
-7) błędy średnie wysokości po wyrównaniu – w przypadku osnowy wysokościowej.
-3. Typy stabilizacji, o których mowa w ust. 1 pkt 5 i ust. 2 pkt 4, a także oznaczenia stanu znaku, o których mowa w ust. 1 pkt 6 i ust. 2 pkt 5, określa się zgodnie z załącznikiem nr 1 do rozporządzenia.
-§ 17. Tworzenie i aktualizację baz danych, o których mowa w § 15 ust. 1 i 2, realizuje się na podstawie geodezyjnej dokumentacji technicznej, o której mowa w § 4, a także dokumentacji geodezyjnej będącej w posiadaniu właściwego organu Służby Geodezyjnej i Kartograficznej. Aktualizacja może być realizowana także na podstawie informacji o stanie znaku geodezyjnego, grawimetrycznego lub magnetycznego sprawdzonej przez właściwy organ Służby Geodezyjnej i Kartograficznej.
-§ 18. Udostępnianie informacji lub danych z baz danych, o których mowa w § 15 ust. 1 i 2, odbywa się z wykorzystaniem usług sieciowych i portali internetowych.
-§ 19. Standardy techniczne udostępniania informacji lub danych z baz danych, o których mowa w § 15 ust. 1 i 2, z wykorzystaniem usług sieciowych, o których mowa w § 18, określa załącznik nr 2 do rozporządzenia.
-§ 20. 1. Baza danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych utworzona na podstawie dotychczasowych przepisów staje się bazą danych, o której mowa w § 15 ust. 1, z zachowaniem dotychczasowej numeracji punktów.
-2. Bazy danych szczegółowych osnów geodezyjnych utworzone na podstawie dotychczasowych przepisów stają się bazami danych, o których mowa w § 15 ust. 2, z zachowaniem dotychczasowej numeracji punktów.
-§ 21. Właściwy organ Służby Geodezyjnej i Kartograficznej w ciągu 3 miesięcy od dnia wejścia w życie rozporządzenia dostosowuje dane w zakresie typu stabilizacji do wymagań określonych w załączniku nr 1 do rozporządzenia.
-§ 22. Rozporządzenie wchodzi w życie z dniem 31 lipca 2021 r.
-Minister Rozwoju, Pracy i Technologii: J. Gowin STANDARDy TECHNICZNE ZAKłADANIA I UTRZyMyWANIA PODSTAWOWyCH OSNóW GEODEZyjNyCH, GRAWIMETRyCZNyCH I MAGNETyCZNyCH ORAZ SZCZEGółOWyCH OSNóW GEODEZyjNyCH
 1. Zagęszczenie punktów podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych Klasa osnowy Zagęszczenie punktów: podstawowej osnowy podstawowej osnowy osnowy osnowy geodezyjnej poziomej geodezyjnej wysokościowej grawimetrycznej magnetycznej Fundamentalna 1 pkt/5000 km 1 pkt/2000 km 1 pkt/15 000 km 1 pkt/20 000 km Bazowa 1 pkt/500 km 1 pkt/20 km 1 pkt/2500 km 1 pkt/750 km
 2. Terminy okresowego przeglądu podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych Klasa osnowy Maksymalny okres między przeglądami: podstawowej osnowy podstawowej osnowy osnowy osnowy geodezyjnej poziomej geodezyjnej wysokościowej grawimetrycznej magnetycznej Fundamentalna 10 lat 30 lat 5 lat 4 lata Bazowa 30 lat 30 lat 10 lat 15 lat
 3. Zagęszczenie punktów szczegółowej osnowy geodezyjnej Zagęszczenie punktów osnowy : dla osnowy poziomej dla osnowy wysokościowej Teren istniejącej lub projektowanej zwartej zabudowy 1 pkt/0,2 km 1 pkt/2 km Pozostałe tereny 1 pkt/1 km 1 pkt/5 km
@@ -252,15 +187,133 @@ b) SH – dla punktów szczegółowej osnowy geodezyjnej wysokościowej,
 
 #### Rozdział 1 przepisy ogólne
 
+**§ 1.** Rozporządzenie określa:
+
+- **1)** organizację, tryb i standardy techniczne zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych;
+- **2)** szczegółowy zakres informacji gromadzonych w bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz w bazie danych szczegółowych osnów geodezyjnych;
+- **3)** standardy techniczne dotyczące tworzenia, aktualizacji i udostępniania baz, o których mowa w pkt 2.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** rodzaju osnowy – rozumie się przez to wynik podziału osnów ze względu na ich funkcjonalność;
+- **2)** klasie osnowy – rozumie się przez to wspólną cechę, wyróżniającą punkty osnowy ze względu na dokładność ustalania położenia lub wielkości fizycznej charakterystycznej dla określonego rodzaju osnowy;
+- **3)** punkcie osnowy – rozumie się przez to punkt w terenie, oznaczony odpowiednim znakiem, dla którego wyznaczono współrzędne w państwowym systemie odniesień przestrzennych lub wielkość fizyczną charakterystyczną dla określonego rodzaju osnowy;
+- **4)** wysokości normalnej – rozumie się przez to iloraz liczby geopotencjalnej przez przeciętną wartość przyspieszenia normalnego wzdłuż linii pionu pola normalnego siły ciężkości;
+- **5)** wysokości elipsoidalnej – rozumie się przez to odległość od powierzchni elipsoidy odniesienia, mierzoną wzdłuż normalnej do tej elipsoidy.
+
+**§ 3.** Prace geodezyjne dotyczące zakładania lub utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych realizuje się pod kierownictwem osób posiadających uprawnienia zawodowe w zakresie, o którym mowa w art. 43 pkt 3 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
+
+**§ 4.** Geodezyjną dokumentację techniczną sporządzoną w związku z zakładaniem lub utrzymywaniem podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych przekazuje się do właściwego organu Służby Geodezyjnej i Kartograficznej.
+
+**§ 5.**
+
+1. Punkty osnów stabilizuje się w terenie znakami w sposób zapewniający ich wieloletnią trwałość oraz możliwość wykorzystywania do pomiarów. Znak może pełnić funkcję punktu osnowy dla więcej niż jednego rodzaju osnowy.
+
+2. Punkt osnowy może mieć trwale stabilizowane punkty ekscentryczne, zabezpieczające funkcjonowanie tego punktu, które zalicza się do tej samej klasy osnowy.
+
+**§ 6.** Standardy techniczne zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz szczegółowych osnów geodezyjnych określa załącznik nr 1 do rozporządzenia.
+
 #### Rozdział 2 organizacja zakładania i utrzymywania podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych
+
+**§ 7.**
+
+1. Podstawowe osnowy geodezyjne, grawimetryczne i magnetyczne klasyfikuje się zgodnie z rodzajami osnów jako:
+
+- **1)** podstawową osnowę geodezyjną poziomą;
+- **2)** podstawową osnowę geodezyjną wysokościową;
+- **3)** osnowę grawimetryczną;
+- **4)** osnowę magnetyczną.
+
+2. Osnowy, o których mowa w ust. 1, ze względu na ich dokładność dzielą się na klasy:
+
+- **1)** fundamentalną;
+- **2)** bazową.
+
+**§ 8.**
+
+1. Punkty osnów fundamentalnych, o których mowa w § 7 ust. 2 pkt 1, przenoszą na obszar Rzeczypospolitej Polskiej europejski układ odniesienia odpowiedni dla danego rodzaju osnowy.
+
+2. Punkty osnów bazowych, o których mowa w § 7 ust. 2 pkt 2, rozmieszczone równomiernie na obszarze Rzeczypospolitej Polskiej, realizują układy odniesienia odpowiednie dla danego rodzaju osnowy.
+
+**§ 9.** Podstawowe osnowy geodezyjne, grawimetryczne i magnetyczne zakłada się i utrzymuje, zapewniając zagęszczenie punktów określone zgodnie z załącznikiem nr 1 do rozporządzenia.
+
+**§ 10.**
+
+1. Utrzymywanie podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych polega na przeprowadzaniu okresowych przeglądów osnów, a w razie potrzeby – ich uzupełnieniu i pomiarze.
+
+2. Terminy dokonywania przeglądów podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych określa się zgodnie z załącznikiem nr 1 do rozporządzenia.
 
 #### Rozdział 3 organizacja zakładania i utrzymywania szczegółowych osnów geodezyjnych
 
+**§ 11.** Szczegółową osnowę geodezyjną stanowią punkty nawiązane do podstawowej osnowy geodezyjnej.
+
+**§ 12.** W ramach szczegółowej osnowy geodezyjnej wyróżnia się:
+
+- **1)** szczegółową osnowę geodezyjną poziomą;
+- **2)** szczegółową osnowę geodezyjną wysokościową.
+
+**§ 13.** Zagęszczenie punktów szczegółowej osnowy geodezyjnej jest uzależnione od potrzeb wynikających z rozwoju gospodarczego obszaru, przy czym nie powinno być mniejsze niż określone w załączniku nr 1 do rozporządzenia.
+
+**§ 14.**
+
+1. Utrzymywanie szczegółowych osnów geodezyjnych polega na przeprowadzaniu okresowych przeglądów tych osnów, a w razie potrzeby ich uzupełnieniu i pomiarze.
+
+2. Przegląd szczegółowej osnowy geodezyjnej przeprowadza się w miarę potrzeb wynikających z lokalnego rozwoju gospodarczego.
+
 #### Rozdział 4 szczegółowy zakres informacji gromadzonych w bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz w bazie danych szczegółowych osnów geodezyjnych
+
+**§ 15.**
+
+1. W bazie danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych gromadzi się dane dotyczące punktów odpowiednich osnów oraz zbiory obserwacji wykonanych w celu wyznaczenia wartości charakterystycznych dla tych punktów wraz z wynikami ich opracowania.
+
+2. W bazie danych szczegółowych osnów geodezyjnych gromadzi się dane dotyczące punktów tych osnów oraz zbiory obserwacji wykonanych w celu wyznaczenia współrzędnych punktów wraz z wynikami ich opracowania.
+
+**§ 16.**
+
+1. Dane dotyczące punktów osnów gromadzone w bazie danych, o której mowa w § 15 ust. 1, obejmują co najmniej:
+
+- **1)** numer;
+- **2)** współrzędne geodezyjne (φ i λ) w układzie PL-ETRF2000-GRS80h oraz wysokość elipsoidalną (h), jeżeli została wyznaczona;
+- **3)** współrzędne płaskie prostokątne (x, y) w układzie PL-ETRF2000-1992 oraz wysokość normalną (H) z podaniem oznaczenia układu wysokościowego, jeżeli została wyznaczona;
+- **4)** opisy topograficzne;
+- **5)** typ stabilizacji;
+- **6)** stan znaku;
+- **7)** błędy średnie współrzędnych płaskich prostokątnych po wyrównaniu – w przypadku osnowy geodezyjnej poziomej;
+- **8)** błędy średnie wysokości po wyrównaniu – w przypadku osnowy geodezyjnej wysokościowej;
+- **9)** wartość przyspieszenia siły ciężkości – w przypadku osnowy grawimetrycznej;
+- **10)** wartości elementów pola magnetycznego Ziemi – w przypadku osnowy magnetycznej.
+
+2. Dane dotyczące punktów osnów gromadzone w bazie danych, o której mowa w § 15 ust. 2, obejmują co najmniej:
+
+- **1)** numer;
+- **2)** współrzędne płaskie prostokątne (x, y) w układzie PL-2000 z podaniem oznaczenia układu odniesienia oraz wysokość normalną (H) z podaniem oznaczenia układu wysokościowego, jeżeli została wyznaczona;
+- **3)** opisy topograficzne;
+- **4)** typ stabilizacji;
+- **5)** stan znaku;
+- **6)** błędy średnie współrzędnych płaskich prostokątnych po wyrównaniu – w przypadku osnowy poziomej;
+- **7)** błędy średnie wysokości po wyrównaniu – w przypadku osnowy wysokościowej.
+
+3. Typy stabilizacji, o których mowa w ust. 1 pkt 5 i ust. 2 pkt 4, a także oznaczenia stanu znaku, o których mowa w ust. 1 pkt 6 i ust. 2 pkt 5, określa się zgodnie z załącznikiem nr 1 do rozporządzenia.
 
 #### Rozdział 5 standardy techniczne tworzenia, aktualizacji i udostępniania bazy danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych oraz bazy danych szczegółowych osnów geodezyjnych
 
+**§ 17.** Tworzenie i aktualizację baz danych, o których mowa w § 15 ust. 1 i 2, realizuje się na podstawie geodezyjnej dokumentacji technicznej, o której mowa w § 4, a także dokumentacji geodezyjnej będącej w posiadaniu właściwego organu Służby Geodezyjnej i Kartograficznej. Aktualizacja może być realizowana także na podstawie informacji o stanie znaku geodezyjnego, grawimetrycznego lub magnetycznego sprawdzonej przez właściwy organ Służby Geodezyjnej i Kartograficznej.
+
+**§ 18.** Udostępnianie informacji lub danych z baz danych, o których mowa w § 15 ust. 1 i 2, odbywa się z wykorzystaniem usług sieciowych i portali internetowych.
+
+**§ 19.** Standardy techniczne udostępniania informacji lub danych z baz danych, o których mowa w § 15 ust. 1 i 2, z wykorzystaniem usług sieciowych, o których mowa w § 18, określa załącznik nr 2 do rozporządzenia.
+
 #### Rozdział 6 przepisy przejściowe i końcowe
+
+**§ 20.**
+
+1. Baza danych państwowego rejestru podstawowych osnów geodezyjnych, grawimetrycznych i magnetycznych utworzona na podstawie dotychczasowych przepisów staje się bazą danych, o której mowa w § 15 ust. 1, z zachowaniem dotychczasowej numeracji punktów.
+
+2. Bazy danych szczegółowych osnów geodezyjnych utworzone na podstawie dotychczasowych przepisów stają się bazami danych, o których mowa w § 15 ust. 2, z zachowaniem dotychczasowej numeracji punktów.
+
+**§ 21.** Właściwy organ Służby Geodezyjnej i Kartograficznej w ciągu 3 miesięcy od dnia wejścia w życie rozporządzenia dostosowuje dane w zakresie typu stabilizacji do wymagań określonych w załączniku nr 1 do rozporządzenia.
+
+**§ 22.** Rozporządzenie wchodzi w życie z dniem 31 lipca 2021 r. Minister Rozwoju, Pracy i Technologii: J. Gowin STANDARDy TECHNICZNE ZAKłADANIA I UTRZyMyWANIA PODSTAWOWyCH OSNóW GEODEZyjNyCH, GRAWIMETRyCZNyCH I MAGNETyCZNyCH ORAZ SZCZEGółOWyCH OSNóW GEODEZyjNyCH
 
 #### Rozdział 1 wytyczne ogólne
 

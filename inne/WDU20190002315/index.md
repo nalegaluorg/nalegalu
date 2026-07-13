@@ -26,39 +26,59 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002315) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2315/text.pdf) |
 
 w sprawie określenia wzorów graficznych winiet dzienników urzędowych Na podstawie art. 24 ust. 4 pkt 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wzory graficzne winiet:
-1) Dziennika Ustaw Rzeczypospolitej Polskiej;
-2) Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski”;
-3) dziennika urzędowego ministra kierującego działem administracji rządowej;
-4) dziennika urzędowego urzędu centralnego;
-5) Dziennika Urzędowego Komisji Nadzoru Finansowego;
-6) wspólnego dziennika urzędowego ministrów kierujących działami administracji rządowej;
-7) wspólnego dziennika urzędowego urzędów centralnych podległych Prezesowi Rady Ministrów;
-8) wspólnego dziennika urzędowego ministra kierującego działem administracji rządowej i urzędu centralnego przez niego nadzorowanego;
-9) wojewódzkiego dziennika urzędowego.
-§ 2. Winiety dzienników urzędowych wymienionych w § 1 obejmują:
-1) nazwę dziennika urzędowego;
-2) wizerunek orła w koronie;
-3) oznaczenie miejsca i dnia ogłoszenia aktu prawnego;
-4) oznaczenie numeru pozycji aktu prawnego, określonego na podstawie kolejności ogłaszania aktów prawnych w danym roku kalendarzowym.
-§ 3. 1. Nazwa dziennika urzędowego wymienionego w § 1 pkt 3 składa się z wyrazów „Dziennik Urzędowy” oraz nazwy własnej ministra kierującego działem administracji rządowej.
+
+**§ 1.** Rozporządzenie określa wzory graficzne winiet:
+
+- **1)** Dziennika Ustaw Rzeczypospolitej Polskiej;
+- **2)** Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski”;
+- **3)** dziennika urzędowego ministra kierującego działem administracji rządowej;
+- **4)** dziennika urzędowego urzędu centralnego;
+- **5)** Dziennika Urzędowego Komisji Nadzoru Finansowego;
+- **6)** wspólnego dziennika urzędowego ministrów kierujących działami administracji rządowej;
+- **7)** wspólnego dziennika urzędowego urzędów centralnych podległych Prezesowi Rady Ministrów;
+- **8)** wspólnego dziennika urzędowego ministra kierującego działem administracji rządowej i urzędu centralnego przez niego nadzorowanego;
+- **9)** wojewódzkiego dziennika urzędowego.
+
+**§ 2.** Winiety dzienników urzędowych wymienionych w § 1 obejmują:
+
+- **1)** nazwę dziennika urzędowego;
+- **2)** wizerunek orła w koronie;
+- **3)** oznaczenie miejsca i dnia ogłoszenia aktu prawnego;
+- **4)** oznaczenie numeru pozycji aktu prawnego, określonego na podstawie kolejności ogłaszania aktów prawnych w danym roku kalendarzowym.
+
+**§ 3.**
+
+1. Nazwa dziennika urzędowego wymienionego w § 1 pkt 3 składa się z wyrazów „Dziennik Urzędowy” oraz nazwy własnej ministra kierującego działem administracji rządowej.
+
 2. Nazwa dziennika urzędowego wymienionego w § 1 pkt 4 składa się z wyrazów „Dziennik Urzędowy” oraz nazwy urzędu centralnego.
+
 3. Nazwa dziennika urzędowego wymienionego w § 1 pkt 6 albo 7 składa się z wyrazów „Dziennik Urzędowy” oraz odpowiednio nazwy własnej ministrów albo urzędów centralnych.
+
 4. Nazwa dziennika urzędowego wymienionego w § 1 pkt 8 składa się z wyrazów „Dziennik Urzędowy” oraz nazwy własnej ministra i urzędu centralnego.
+
 5. Nazwa dziennika urzędowego wymienionego w § 1 pkt 9 składa się z wyrazów „Dziennik Urzędowy” oraz nazwy województwa.
-§ 4. 1. Wzór graficzny winiety:
-1) Dziennika Ustaw Rzeczypospolitej Polskiej – jest określony w załączniku nr 1 do rozporządzenia;
-2) Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” – jest określony w załączniku nr 2 do rozporządzenia;
-3) dziennika urzędowego ministra kierującego działem administracji rządowej – jest określony w załączniku nr 3 do rozporządzenia;
-4) dziennika urzędowego urzędu centralnego – jest określony w załączniku nr 4 do rozporządzenia;
-5) Dziennika Urzędowego Komisji Nadzoru Finansowego – jest określony w załączniku nr 5 do rozporządzenia;
-6) wspólnego dziennika urzędowego ministrów kierujących działami administracji rządowej – jest określony w załączniku nr 6 do rozporządzenia;
-7) wspólnego dziennika urzędowego urzędów centralnych podległych Prezesowi Rady Ministrów – jest określony w załączniku nr 7 do rozporządzenia;
-8) wspólnego dziennika urzędowego ministra kierującego działem administracji rządowej i urzędu centralnego przez niego nadzorowanego – jest określony w załączniku nr 8 do rozporządzenia;
-9) wojewódzkiego dziennika urzędowego – jest określony w załączniku nr 9 do rozporządzenia.
+
+**§ 4.**
+
+1. Wzór graficzny winiety:
+
+- **1)** Dziennika Ustaw Rzeczypospolitej Polskiej – jest określony w załączniku nr 1 do rozporządzenia;
+- **2)** Dziennika Urzędowego Rzeczypospolitej Polskiej „Monitor Polski” – jest określony w załączniku nr 2 do rozporządzenia;
+- **3)** dziennika urzędowego ministra kierującego działem administracji rządowej – jest określony w załączniku nr 3 do rozporządzenia;
+- **4)** dziennika urzędowego urzędu centralnego – jest określony w załączniku nr 4 do rozporządzenia;
+- **5)** Dziennika Urzędowego Komisji Nadzoru Finansowego – jest określony w załączniku nr 5 do rozporządzenia;
+- **6)** wspólnego dziennika urzędowego ministrów kierujących działami administracji rządowej – jest określony w załączniku nr 6 do rozporządzenia;
+- **7)** wspólnego dziennika urzędowego urzędów centralnych podległych Prezesowi Rady Ministrów – jest określony w załączniku nr 7 do rozporządzenia;
+- **8)** wspólnego dziennika urzędowego ministra kierującego działem administracji rządowej i urzędu centralnego przez niego nadzorowanego – jest określony w załączniku nr 8 do rozporządzenia;
+- **9)** wojewódzkiego dziennika urzędowego – jest określony w załączniku nr 9 do rozporządzenia.
+
 2. Opis wzorów graficznych winiet dzienników urzędowych wymienionych w ust. 1 jest określony w załączniku nr 10 do rozporządzenia.
-§ 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki do rozporządzenia Prezesa Rady Ministrów z dnia (poz. ) WZÓR WZÓR GRAFICZNY GRAFICZNY WINIETY WINIETY DZIENNIKA DZIENNIKA USTAW USTAW RZECZYPOSPOLITEJ RZECZYPOSPOLITEJ POLSKIEJ POLSKIEJ RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia Poz.
+
+**§ 5.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik
+
+do rozporządzenia Prezesa Rady Ministrów z dnia (poz. ) WZÓR WZÓR GRAFICZNY GRAFICZNY WINIETY WINIETY DZIENNIKA DZIENNIKA USTAW USTAW RZECZYPOSPOLITEJ RZECZYPOSPOLITEJ POLSKIEJ POLSKIEJ RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia Poz.
 WZÓR WZÓR GRAFICZNY GRAFICZNY WINIETY WINIETY DZIENNIKA DZIENNIKA URZĘDOWEGO URZĘDOWEGO RZECZYPOSPOLITEJ RZECZYPOSPOLITEJ POLSKIEJ POLSKIEJ „MONITOR „MONITOR POLSKI” POLSKI” DZIENNIK URZĘDOWY RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia Poz.
 WZÓR GRAFICZNY WINIETY DZIENNIKA URZĘDOWEGO MINISTRA KIERUJĄCEGO WZÓR GRAFICZNY WINIETY DZIAŁEM DZIENNIKA ADMINISTRACJI URZĘDOWEGO RZĄDOWEJ MINISTRA KIERUJĄCEGO
 DZIAŁEM ADMINISTRACJI RZĄDOWEJ DZIENNIK URZĘDOWY MINISTRA SPRAWIEDLIWOŚCI Warszawa, dnia Poz.

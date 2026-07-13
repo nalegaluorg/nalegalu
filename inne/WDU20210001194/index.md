@@ -35,7 +35,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodow
 ROZPORZĄDZENIE mINIStra OBrONy NarOdOWEj z dnia 2 września 2019 r.
 w sprawie limitu przyjęć na studia na określonym kierunku dla kandydatów na żołnierzy zawodowych w poszczególnych uczelniach wojskowych Na podstawie art. 444 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r.
 poz. 478 i 619) zarządza się, co następuje:
-§ 1. Limit przyjęć na studia na określonym kierunku dla kandydatów na żołnierzy zawodowych w poszczególnych uczelniach wojskowych w roku akademickim 2020/2021 jest określony w załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-W W W W W W M ÓG O M M
+
+**§ 1.** Limit przyjęć na studia na określonym kierunku dla kandydatów na żołnierzy zawodowych w poszczególnych uczelniach wojskowych w roku akademickim 2020/2021 jest określony w załączniku do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . W W W W W W M ÓG O M M
 

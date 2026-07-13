@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. z 2018 r.
 poz. 719) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2020 r. poz. 315 i 419) wprowadza się następujące zmiany:
-1) w § 2 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „16) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Wyjątkowe tymczasowe wsparcie dla rolników, mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw szczególnie dotkniętych kryzysem związanym z COVID-19”, typ operacji „Pomoc dla rolników szczególnie dotkniętych kryzysem COVID-19”.”;
-2) w § 3 dodaje się ust. 10 w brzmieniu: „10. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 16, udziela się od dnia 3 września 2020 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 9 września 2020 r.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2020 r. poz. 315 i 419) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „16) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Wyjątkowe tymczasowe wsparcie dla rolników, mikroprzedsiębiorstw oraz małych i średnich przedsiębiorstw szczególnie dotkniętych kryzysem związanym z COVID-19”, typ operacji „Pomoc dla rolników szczególnie dotkniętych kryzysem COVID-19”.”;
+- **2)** w § 3 dodaje się ust. 10 w brzmieniu: „10. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 16, udziela się od dnia 3 września 2020 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 9 września 2020 r. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

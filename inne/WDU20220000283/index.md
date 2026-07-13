@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zakresu informacji gromadzonych w Systemie Ewidencji Zasobów Ochrony Zdrowia oraz sposobu i terminów przekazywania tych informacji Na podstawie art. 24 ust. 8 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U.
 z 2021 r. poz. 666 i 1292) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 26 marca 2021 r. w sprawie zakresu informacji gromadzonych w Systemie Ewidencji Zasobów Ochrony Zdrowia oraz sposobu i terminów przekazywania tych informacji (Dz. U. poz. 614) w § 7 wprowadza się następujące zmiany:
-1) w ust. 1 wyrazy „od dnia 1 stycznia 2022 r.” zastępuje się wyrazami „od dnia 1 lipca 2022 r.”;
-2) w ust. 2 wyrazy „Do dnia 31 grudnia 2021 r.” zastępuje się wyrazami „Do dnia 30 czerwca 2022 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 grudnia 2021 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 26 marca 2021 r. w sprawie zakresu informacji gromadzonych w Systemie Ewidencji Zasobów Ochrony Zdrowia oraz sposobu i terminów przekazywania tych informacji (Dz. U. poz. 614) w § 7 wprowadza się następujące zmiany:
+
+- **1)** w ust. 1 wyrazy „od dnia 1 stycznia 2022 r.” zastępuje się wyrazami „od dnia 1 lipca 2022 r.”;
+- **2)** w ust. 2 wyrazy „Do dnia 31 grudnia 2021 r.” zastępuje się wyrazami „Do dnia 30 czerwca 2022 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 grudnia 2021 r. Minister Zdrowia: A. Niedzielski
 

@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1286/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ustalenia listy gatunków zwierząt łownych Na podstawie art. 5 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2025 r. poz. 539) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 11 marca 2005 r. w sprawie ustalenia listy gatunków zwierząt łownych (Dz. U. z 2023 r. poz. 2454) w § 1 w ust. 1 w pkt 2 uchyla się lit. l, u, w, y oraz z.
-§ 2. Rozporządzenie wchodzi w życie z dniem 2 stycznia 2026 r.
-Minister Klimatu i Środowiska: P. Hennig-Kloska
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 11 marca 2005 r. w sprawie ustalenia listy gatunków zwierząt łownych (Dz. U. z 2023 r. poz. 2454) w § 1 w ust. 1 w pkt 2 uchyla się lit. l, u, w, y oraz z.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 2 stycznia 2026 r. Minister Klimatu i Środowiska: P. Hennig-Kloska
 

@@ -27,14 +27,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000404) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/404/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowego zakresu danych, które powinny być zawarte w dokumentach związanych z rejestracją w zakresie podatku akcyzowego Na podstawie art. 20 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222 i 340) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 13 grudnia 2024 r. w sprawie szczegółowego zakresu danych, które powinny być zawarte w dokumentach związanych z rejestracją w zakresie podatku akcyzowego (Dz. U. poz. 1879) w § 2:
-1) w pkt 12 w lit. p średnik zastępuje się przecinkiem i dodaje się lit. q–t w brzmieniu: „q) urządzenia do waporyzacji,
-r) zestawy części do urządzeń do waporyzacji,
-s) saszetki nikotynowe,
-t) inne wyroby nikotynowe;”;
-2) w pkt 13 w lit. n średnik zastępuje się przecinkiem i dodaje się lit. o–q w brzmieniu: „o) urządzenia do waporyzacji,
-p) saszetki nikotynowe,
-q) inne wyroby nikotynowe;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2025 r.
-Minister Finansów: A. Domański
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 13 grudnia 2024 r. w sprawie szczegółowego zakresu danych, które powinny być zawarte w dokumentach związanych z rejestracją w zakresie podatku akcyzowego (Dz. U. poz. 1879) w § 2:
+
+- **1)** w pkt 12 w lit. p średnik zastępuje się przecinkiem i dodaje się lit. q–t w brzmieniu: „q) urządzenia do waporyzacji, r) zestawy części do urządzeń do waporyzacji, s) saszetki nikotynowe, t) inne wyroby nikotynowe;”;
+- **2)** w pkt 13 w lit. n średnik zastępuje się przecinkiem i dodaje się lit. o–q w brzmieniu: „o) urządzenia do waporyzacji, p) saszetki nikotynowe, q) inne wyroby nikotynowe;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2025 r. Minister Finansów: A. Domański
 

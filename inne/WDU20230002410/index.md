@@ -27,8 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002410) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2410/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla Na podstawie art. 400a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 12 marca 2018 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U.
-z 2019 r. poz. 1493) § 9 otrzymuje brzmienie: „§ 9. Rozporządzenie obowiązuje do dnia 31 grudnia 2027 r.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 12 marca 2018 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U. z 2019 r. poz. 1493) § 9 otrzymuje brzmienie: „§ 9. Rozporządzenie obowiązuje do dnia 31 grudnia 2027 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa
 

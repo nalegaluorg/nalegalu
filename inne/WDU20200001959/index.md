@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania Na podstawie art. 11 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2020 r.
 poz. 505, 568, 695, 1087 i 1106) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055) w § 3 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) opłaty emisyjnej, o której mowa w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r.
-poz. 1219, 1378 i 1565),”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055) w § 3 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) opłaty emisyjnej, o której mowa w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378 i 1565),”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

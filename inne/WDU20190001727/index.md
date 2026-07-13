@@ -27,14 +27,17 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej Na podstawie art. 226 ust. 3 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r.
 poz. 768, 730, 1520 i 1556) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 24 lutego 2017 r. w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 414) w § 4:
-1) w ust. 1 po wyrazach „psem służbowym” dodaje się wyrazy „wykorzystywanym w służbie”;
-2) w ust. 2 po wyrazach „psem służbowym” dodaje się wyrazy „wykorzystywanym w służbie”;
-3) w ust. 3 wyrazy „w wysokości 0,116” zastępuje się wyrazami „w wysokości 0,203”;
-4) w ust. 4:
-a) w pkt 1 po wyrazach „psem służbowym” dodaje się wyrazy „wykorzystywanym w służbie”,
-b) w pkt 2 po wyrazach „psem służbowym” dodaje się wyrazy „wykorzystywanym w służbie”.
-§ 2. Przepis § 4 ust. 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do dodatków za opiekę nad psem służbowym wykorzystywanym w służbie, wypłacanych za miesiąc, w którym wchodzi w życie niniejsze rozporządzenie.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Banaś
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 24 lutego 2017 r. w sprawie dodatków do uposażenia zasadniczego funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 414) w § 4:
+
+- **1)** w ust. 1 po wyrazach „psem służbowym” dodaje się wyrazy „wykorzystywanym w służbie”;
+- **2)** w ust. 2 po wyrazach „psem służbowym” dodaje się wyrazy „wykorzystywanym w służbie”;
+- **3)** w ust. 3 wyrazy „w wysokości 0,116” zastępuje się wyrazami „w wysokości 0,203”;
+- **4)** w ust. 4:
+    - **a)** w pkt 1 po wyrazach „psem służbowym” dodaje się wyrazy „wykorzystywanym w służbie”,
+    - **b)** w pkt 2 po wyrazach „psem służbowym” dodaje się wyrazy „wykorzystywanym w służbie”.
+
+**§ 2.** Przepis § 4 ust. 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do dodatków za opiekę nad psem służbowym wykorzystywanym w służbie, wypłacanych za miesiąc, w którym wchodzi w życie niniejsze rozporządzenie.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: M. Banaś
 

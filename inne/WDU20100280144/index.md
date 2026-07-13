@@ -34,7 +34,11 @@ source: pdf
     - **a)** uchyla się ust. 2,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Na zasób składają się akcje i udziały uzyskane w wyniku dochodzenia przez ministra właściwego do spraw finansów publicznych, w imieniu Skarbu Państwa, wierzytelności z tytułu udzielonych poręczeń i gwarancji oraz akcje i udziały w spółkach stanowiące własność Skarbu Państwa wyodrębnione przez Radę Ministrów do dnia 17 lipca 2009 r.”;
 
-- **3)** po art. 25 dodaje się art. 25a w brzmieniu: „Art. 25a. 1. Na zaspokojenie roszczeń z tytułu poręczeń i gwarancji udzielanych przez Skarb Państwa przeznacza się środki pochodzące z przychodów z prywatyzacji, w kwocie stanowiącej 0,5 % łącznej kwoty poręczeń i gwarancji udzielonych w roku poprzednim. 2. Do ustalenia łącznej kwoty poręczeń i gwarancji w odniesieniu do poręczenia i gwarancji, o których mowa w art. 2b ust. 2, przyjmuje się wartość kredytu powiększoną o skumulowane odsetki za okres spłaty, a także koszty bezpośrednio związane z kredytem, w zakresie, w jakim kredyt, odsetki oraz koszty są objęte poręczeniem lub gwarancją.”;
+- **3)** po art. 25 dodaje się art. 25a w brzmieniu:
+
+  > „Art. 25a.  
+  > 1. Na zaspokojenie roszczeń z tytułu poręczeń i gwarancji udzielanych przez Skarb Państwa przeznacza się środki pochodzące z przychodów z prywatyzacji, w kwocie stanowiącej 0,5 % łącznej kwoty poręczeń i gwarancji udzielonych w roku poprzednim.  
+  > 2. Do ustalenia łącznej kwoty poręczeń i gwarancji w odniesieniu do poręczenia i gwarancji, o których mowa w art. 2b ust. 2, przyjmuje się wartość kredytu powiększoną o skumulowane odsetki za okres spłaty, a także koszty bezpośrednio związane z kredytem, w zakresie, w jakim kredyt, odsetki oraz koszty są objęte poręczeniem lub gwarancją.”;  
 - **4)** w art. 26:
     - **a)** uchyla się ust. 1 i 1a,
     - **b)** uchyla się ust. 3 – 5;

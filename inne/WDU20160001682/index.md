@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustroju i organizacji centralnej informacji o zastawach rejestrowych oraz szczegółowych zasad udzielania informacji, wydawania odpisów i zaświadczeń Na podstawie art. 43 pkt 2 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U.
 z 2016 r. poz. 297 i 1579) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 15 października 1997 r. w sprawie ustroju i organizacji centralnej informacji o zastawach rejestrowych oraz szczegółowych zasad udzielania informacji, wydawania odpisów i zaświadczeń (Dz. U. poz. 893, z 2004 r. poz. 2867 oraz z 2008 r. poz. 1534) w § 24 ust. 2 otrzymuje brzmienie: „2. Odpis, zaświadczenie oraz informacja wydane w postaci elektronicznej zawierają dane wskazane w ust. 1 i są opatrzone kwalifikowanym podpisem elektronicznym uprawnionego pracownika centrali centralnej informacji.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 15 października 1997 r. w sprawie ustroju i organizacji centralnej informacji o zastawach rejestrowych oraz szczegółowych zasad udzielania informacji, wydawania odpisów i zaświadczeń (Dz. U. poz. 893, z 2004 r. poz. 2867 oraz z 2008 r. poz. 1534) w § 24 ust. 2 otrzymuje brzmienie: „2. Odpis, zaświadczenie oraz informacja wydane w postaci elektronicznej zawierają dane wskazane w ust. 1 i są opatrzone kwalifikowanym podpisem elektronicznym uprawnionego pracownika centrali centralnej informacji.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

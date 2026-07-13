@@ -28,8 +28,8 @@ source: pdf
 
 w sprawie wzoru sprawozdania kwartalnego przekazywanego Prezesowi Urzędu Regulacji Energetyki przez podmiot realizujący Narodowy Cel Wskaźnikowy Na podstawie art. 30b ust. 6 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U.
 z 2025 r. poz. 901) zarządza się, co następuje:
-§ 1. Określa się wzór sprawozdania kwartalnego, o którym mowa w art. 30b ust. 3 ustawy z dnia 25 sierpnia 2006 r.
-o biokomponentach i biopaliwach ciekłych, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 stycznia 2026 r.
-Minister Klimatu i Środowiska: P. Hennig-Kloska m m … … W W … …
+
+**§ 1.** Określa się wzór sprawozdania kwartalnego, o którym mowa w art. 30b ust. 3 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 stycznia 2026 r. Minister Klimatu i Środowiska: P. Hennig-Kloska m m … … W W … …
 

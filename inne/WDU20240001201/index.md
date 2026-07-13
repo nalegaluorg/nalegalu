@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001201) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1201/text.pdf) |
 
 zmieniające rozporządzenie w sprawie okresowych badań lekarskich pracowników zatrudnionych w zakładach, które stosowały azbest w produkcji Na podstawie art. 7a ust. 3 ustawy z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest (Dz. U. z 2020 r. poz. 1680) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 4 sierpnia 2004 r. w sprawie okresowych badań lekarskich pracowników zatrudnionych w zakładach, które stosowały azbest w produkcji (Dz. U. poz. 1896) w § 6:
-1) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Jednostka nadzorująca, sprawując nadzór nad przeprowadzaniem okresowych badań lekarskich:”;
-2) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Sprawowanie nadzoru nad przeprowadzaniem okresowych badań lekarskich jest finansowane na podstawie umowy zawartej pomiędzy Skarbem Państwa reprezentowanym przez ministra właściwego do spraw zdrowia a Instytutem Medycyny Pracy im. prof. dra med. Jerzego Nofera w Łodzi.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. M. Kos
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 4 sierpnia 2004 r. w sprawie okresowych badań lekarskich pracowników zatrudnionych w zakładach, które stosowały azbest w produkcji (Dz. U. poz. 1896) w § 6:
+
+- **1)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Jednostka nadzorująca, sprawując nadzór nad przeprowadzaniem okresowych badań lekarskich:”;
+- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Sprawowanie nadzoru nad przeprowadzaniem okresowych badań lekarskich jest finansowane na podstawie umowy zawartej pomiędzy Skarbem Państwa reprezentowanym przez ministra właściwego do spraw zdrowia a Instytutem Medycyny Pracy im. prof. dra med. Jerzego Nofera w Łodzi.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. M. Kos
 

@@ -31,7 +31,12 @@ source: pdf
 
 - **1)** w art. 89:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Wskaźnik waloryzacji jest równy co najmniej wskaźnikowi cen towarów i usług konsumpcyjnych w okresie od roku kalendarzowego, w którym przeprowadzono ostatnią waloryzację, do roku poprzedzającego termin waloryzacji, z uwzględnieniem realnego wzrostu przeciętnego wynagrodzenia.”,
-    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Zwiększenie wskaźnika waloryzacji ponad wskaźnik cen, o którym mowa w art. 88 ust. 1, jest przedmiotem negocjacji w ramach Trójstronnej Komisji do Spraw Społeczno-Gospodarczych. 4. Jeżeli Trójstronna Komisja do Spraw Społeczno-Gospodarczych w terminie 14 dni od dnia przekazania przez Radę Ministrów propozycji zwiększenia, o którym mowa w ust. 3, uzgodni zwiększenie wskaźnika ponad wskaźnik cen, zwiększenie wskaźnika podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze komunikatu ministra właściwego do spraw zabezpieczenia społecznego.”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie:
+
+      > „3. Zwiększenie wskaźnika waloryzacji ponad wskaźnik cen, o którym mowa w art. 88 ust. 1, jest przedmiotem negocjacji w ramach Trójstronnej Komisji do Spraw Społeczno-Gospodarczych.  
+      > 4. Jeżeli Trójstronna Komisja do Spraw Społeczno-Gospodarczych w terminie 14 dni od dnia przekazania przez Radę Ministrów propozycji zwiększenia, o którym mowa w ust. 3, uzgodni zwiększenie wskaźnika ponad wskaźnik cen, zwiększenie wskaźnika podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”,  
+
+      w drodze komunikatu ministra właściwego do spraw zabezpieczenia społecznego.”,
     - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Rada Ministrów przekazuje Trójstronnej Komisji do Spraw Społeczno-Gospodarczych propozycję zwiększenia wskaźnika waloryzacji nie później niż do dnia 31 października roku poprzedzającego waloryzację.”,
     - **d)** ust. 5 otrzymuje brzmienie: „5. Jeżeli nie nastąpi uzgodnienie stanowiska Trójstronnej Komisji do Spraw Społeczno-Gospodarczych w trybie określonym w ust. 3 i 4, Rada Ministrów w terminie 7 dni od zakończenia negocjacji w Komisji określi, w drodze rozporządzenia, zwiększenie wskaźnika waloryzacji, ponad wskaźniki cen, o których mowa w ust. 1 i 2.”;
 

@@ -26,28 +26,45 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002563) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2563/text.pdf) |
 
 w sprawie obowiązkowego ubezpieczenia sponsora i badacza w związku z prowadzeniem badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro Na podstawie art. 32 ust. 3 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia sponsora i badacza za szkody wyrządzone w związku z prowadzeniem badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro, zwanego dalej „ubezpieczeniem”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną ubezpieczenia.
-§ 2. 1. Ubezpieczeniem jest objęta odpowiedzialność cywilna sponsora i badacza za szkody wyrządzone działaniem lub zaniechaniem ubezpieczonego, które miało miejsce w okresie trwania ochrony ubezpieczeniowej, w związku z prowadzeniem badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro.
+
+**§ 1.** Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia sponsora i badacza za szkody wyrządzone w związku z prowadzeniem badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro, zwanego dalej „ubezpieczeniem”, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną ubezpieczenia.
+
+**§ 2.**
+
+1. Ubezpieczeniem jest objęta odpowiedzialność cywilna sponsora i badacza za szkody wyrządzone działaniem lub zaniechaniem ubezpieczonego, które miało miejsce w okresie trwania ochrony ubezpieczeniowej, w związku z prowadzeniem badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro.
+
 2. Ubezpieczenie nie obejmuje szkód:
-1) polegających na uszkodzeniu, zniszczeniu lub utracie rzeczy;
-2) powstałych wskutek działań wojennych, stanu wojennego, rozruchów i zamieszek, a także aktów terroru.
+
+- **1)** polegających na uszkodzeniu, zniszczeniu lub utracie rzeczy;
+- **2)** powstałych wskutek działań wojennych, stanu wojennego, rozruchów i zamieszek, a także aktów terroru.
+
 3. Ubezpieczenie nie obejmuje kar umownych wynikających z działania podjętego w okresie trwania ochrony ubezpieczeniowej lub zaniechania tego działania w tym okresie w związku z prowadzonym przez ubezpieczonego badaniem klinicznym wyrobu lub badaniem działania wyrobu medycznego do diagnostyki in vitro.
+
 4. Ubezpieczenie obejmuje wszystkie szkody w zakresie, o którym mowa w ust. 1, z zastrzeżeniem ust. 2 i 3, bez możliwości umownego ograniczenia odpowiedzialności zakładu ubezpieczeń.
-§ 3. Obowiązek ubezpieczenia powstaje nie później niż w dniu złożenia wniosku o pozwolenie na prowadzenie badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro.
-§ 4. 1. Minimalna suma gwarancyjna ubezpieczenia, w okresie ubezpieczenia nie dłuższym niż 12 miesięcy, obejmującym czas trwania badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro, w odniesieniu do jednego zdarzenia, którego skutki są objęte umową ubezpieczenia, zależy od liczby uczestników danego badania i wynosi równowartość w złotych:
-1) 50 000 euro – jeżeli w badaniu uczestniczy do 10 osób;
-2) 100 000 euro – jeżeli w badaniu uczestniczy od 11 do 25 osób;
-3) 200 000 euro – jeżeli w badaniu uczestniczy od 26 do 50 osób;
-4) 400 000 euro – jeżeli w badaniu uczestniczy od 51 do 100 osób;
-5) 500 000 euro – jeżeli w badaniu uczestniczy ponad 100 osób.
+
+**§ 3.** Obowiązek ubezpieczenia powstaje nie później niż w dniu złożenia wniosku o pozwolenie na prowadzenie badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro.
+
+**§ 4.**
+
+1. Minimalna suma gwarancyjna ubezpieczenia, w okresie ubezpieczenia nie dłuższym niż 12 miesięcy, obejmującym czas trwania badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro, w odniesieniu do jednego zdarzenia, którego skutki są objęte umową ubezpieczenia, zależy od liczby uczestników danego badania i wynosi równowartość w złotych:
+
+- **1)** 50 000 euro – jeżeli w badaniu uczestniczy do 10 osób;
+- **2)** 100 000 euro – jeżeli w badaniu uczestniczy od 11 do 25 osób;
+- **3)** 200 000 euro – jeżeli w badaniu uczestniczy od 26 do 50 osób;
+- **4)** 400 000 euro – jeżeli w badaniu uczestniczy od 51 do 100 osób;
+- **5)** 500 000 euro – jeżeli w badaniu uczestniczy ponad 100 osób.
+
 2. Minimalna suma gwarancyjna ubezpieczenia, w okresie ubezpieczenia nie dłuższym niż 12 miesięcy, obejmującym czas trwania badania klinicznego wyrobu lub badania działania wyrobu medycznego do diagnostyki in vitro, w odniesieniu do wszystkich zdarzeń, których skutki są objęte umową ubezpieczenia, zależy od liczby uczestników danego badania i wynosi równowartość w złotych:
-1) 250 000 euro – jeżeli w badaniu uczestniczy do 10 osób;
-2) 500 000 euro – jeżeli w badaniu uczestniczy od 11 do 25 osób;
-3) 1 000 000 euro – jeżeli w badaniu uczestniczy od 26 do 50 osób;
-4) 2 000 000 euro – jeżeli w badaniu uczestniczy od 51 do 100 osób;
-5) 2 500 000 euro – jeżeli w badaniu uczestniczy ponad 100 osób.
+
+- **1)** 250 000 euro – jeżeli w badaniu uczestniczy do 10 osób;
+- **2)** 500 000 euro – jeżeli w badaniu uczestniczy od 11 do 25 osób;
+- **3)** 1 000 000 euro – jeżeli w badaniu uczestniczy od 26 do 50 osób;
+- **4)** 2 000 000 euro – jeżeli w badaniu uczestniczy od 51 do 100 osób;
+- **5)** 2 500 000 euro – jeżeli w badaniu uczestniczy ponad 100 osób.
+
 3. Minimalna suma gwarancyjna, o której mowa w ust. 1 i 2, jest określona łącznie w odniesieniu do sponsora i badaczy uczestniczących w badaniu klinicznym wyrobu lub badaniu działania wyrobu medycznego do diagnostyki in vitro.
+
 4. Kwoty, o których mowa w ust. 1 i 2, są ustalane przy zastosowaniu średniego kursu euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym została zawarta umowa ubezpieczenia.
-§ 5. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: M. Rzeczkowska
 

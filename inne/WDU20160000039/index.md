@@ -27,11 +27,19 @@ source: pdf
 
 w sprawie nadania statutu Polskiej Agencji Żeglugi Powietrznej Na podstawie art. 5 ust. 6 ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2015 r.
 poz. 1641) zarządza się, co następuje:
-§ 1. Polskiej Agencji Żeglugi Powietrznej nadaje się statut stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Transportu z dnia 28 marca 2007 r. w sprawie nadania statutu Polskiej Agencji Żeglugi Powietrznej (Dz. U. Nr 56, poz. 378).
-§ 3. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Infrastruktury i Budownictwa: A. Adamczyk STATUT POLSKIEJ AGENCJI ŻEGLUGI POWIETRZNEJ
+
+**§ 1.** Polskiej Agencji Żeglugi Powietrznej nadaje się statut stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Transportu z dnia 28 marca 2007 r. w sprawie nadania statutu Polskiej Agencji Żeglugi Powietrznej (Dz. U. Nr 56, poz. 378).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Infrastruktury i Budownictwa: A. Adamczyk STATUT POLSKIEJ AGENCJI ŻEGLUGI POWIETRZNEJ
+
+#### Rozdział 1 Postanowienia ogólne
+
+## Załącznik
+
 § 1. Polska Agencja Żeglugi Powietrznej (PAŻP), zwana dalej „Agencją”, działa na podstawie ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2015 r. poz. 1641), zwanej dalej „ustawą”, oraz niniejszego statutu.
+Rozdział 2 Struktura organizacyjna Agencji
 § 2. 1. Prezes Polskiej Agencji Żeglugi Powietrznej, zwany dalej „Prezesem”, kieruje Agencją przy pomocy:
 1) zastępcy Prezesa do spraw żeglugi powietrznej,
 2) zastępcy Prezesa do spraw finansowo-administracyjnych,
@@ -48,11 +56,13 @@ Minister Infrastruktury i Budownictwa: A. Adamczyk STATUT POLSKIEJ AGENCJI ŻEGL
 3. W pionie Prezesa znajdują się komórki organizacyjne do spraw: zarządzania bezpieczeństwem ruchu lotniczego, zarządzania kryzysowego i ochrony, inwestycji, zasobów ludzkich, szkolenia personelu służb ruchu lotniczego, strategii i współpracy międzynarodowej, prawnych oraz jakości, zarządzania i organizacji.
 4. W pionie zastępcy Prezesa do spraw żeglugi powietrznej znajdują się komórki organizacyjne do spraw: służb ruchu lotniczego, służb technicznych, zarządzania przestrzenią powietrzną i przygotowania operacyjnego.
 5. W pionie zastępcy Prezesa do spraw finansowo-administracyjnych znajdują się komórki organizacyjne do spraw: administracyjnych, finansowych i głównego księgowego.
+Rozdział 3 Udzielanie pełnomocnictw
 § 4. 1. Prezes może udzielać na piśmie zastępcom Prezesa oraz innym wskazanym imiennie osobom pełnomocnictw ogólnych i szczególnych do dokonywania wszelkich czynności prawnych w imieniu Agencji.
 2. Szczególne pełnomocnictwo jest wymagane do następujących czynności prawnych:
 1) zaciągania kredytów i pożyczek;
 2) zakupu, wniesienia lub zbycia nieruchomości;
 3) zaciągania innych zobowiązań finansowych ponad kwoty określone przez Prezesa w pełnomocnictwie ogólnym.
+Rozdział 4 System kontroli wewnętrznej
 § 5. Prezes jest odpowiedzialny za zorganizowanie i prawidłowe działanie systemu kontroli wewnętrznej, a także za należyte wykorzystanie wyników kontroli.
 § 6. Czynności kontrolne w zakresie swojego działania wykonują:
 1) Prezes, zastępcy Prezesa;
@@ -71,12 +81,4 @@ Minister Infrastruktury i Budownictwa: A. Adamczyk STATUT POLSKIEJ AGENCJI ŻEGL
 1) ujawnieniu w toku kontroli czynu mającego znamiona przestępstwa oraz zabezpiecza dokumenty i przedmioty stanowiące dowód przestępstwa,
 2) stwierdzeniu bezpośredniego zagrożenia życia lub zdrowia ludzkiego lub możliwości powstania niepowetowanej szkody w mieniu – w celu zapobieżenia tym zagrożeniom lub ich skutkom.
 2. Prezes jest obowiązany do niezwłocznego podjęcia działań zapobiegających zagrożeniom, o których mowa w ust. 1 pkt 2.
-
-#### Rozdział 1 Postanowienia ogólne
-
-#### Rozdział 2 Struktura organizacyjna Agencji
-
-#### Rozdział 3 Udzielanie pełnomocnictw
-
-#### Rozdział 4 System kontroli wewnętrznej
 

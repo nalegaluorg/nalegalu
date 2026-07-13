@@ -27,12 +27,16 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania Na podstawie art. 11 ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
 poz. 813, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 5 uchyla się ust. 2;
-2) po § 5b dodaje się § 5ba w brzmieniu: „§ 5ba. 1. Do wykonywania zadań wierzyciela obowiązku wynikającego z:
-1) decyzji lub postanowienia wydanych przez Szefa Krajowej Administracji Skarbowej w toku postępowania podatkowego, o którym mowa w art. 119g § 1 i 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa,
-2) decyzji wydanej przez naczelnika urzędu celno-skarbowego – wyznacza się naczelnika urzędu skarbowego, na którego terytorialnym zasięgu działania znajduje się miejsce zamieszkania lub adres siedziby zobowiązanego w dniu wydania odpowiednio decyzji lub postanowienia.
-2. Jeżeli w dniu wydania decyzji lub postanowienia, o których mowa w ust. 1, zobowiązany ma miejsce zamieszkania lub siedzibę poza terytorium Rzeczypospolitej Polskiej, do wykonywania zadań wierzyciela wynikającego z nich obowiązku wyznacza się naczelnika urzędu skarbowego, na którego terytorialnym zasięgu działania znajduje się adres siedziby odpowiednio Szefa Krajowej Administracji Skarbowej lub naczelnika urzędu celno-skarbowego, który wydał tę decyzję lub to postanowienie.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie wyznaczenia organów Krajowej Administracji Skarbowej do wykonywania niektórych zadań Krajowej Administracji Skarbowej oraz określenia terytorialnego zasięgu ich działania (Dz. U. z 2019 r. poz. 2055, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w § 5 uchyla się ust. 2;
+- **2)** po § 5b dodaje się § 5ba w brzmieniu:
+
+  > „§ 5ba.  
+  > 1. Do wykonywania zadań wierzyciela obowiązku wynikającego z:  
+  > 1) decyzji lub postanowienia wydanych przez Szefa Krajowej Administracji Skarbowej w toku postępowania podatkowego, o którym mowa w art. 119g § 1 i 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, 2) decyzji wydanej przez naczelnika urzędu celno-skarbowego – wyznacza się naczelnika urzędu skarbowego, na którego terytorialnym zasięgu działania znajduje się miejsce zamieszkania lub adres siedziby zobowiązanego w dniu wydania odpowiednio decyzji lub postanowienia.  
+  > 2. Jeżeli w dniu wydania decyzji lub postanowienia, o których mowa w ust. 1, zobowiązany ma miejsce zamieszkania lub siedzibę poza terytorium Rzeczypospolitej Polskiej, do wykonywania zadań wierzyciela wynikającego z nich obowiązku wyznacza się naczelnika urzędu skarbowego, na którego terytorialnym zasięgu działania znajduje się adres siedziby odpowiednio Szefa Krajowej Administracji Skarbowej lub naczelnika urzędu celno-skarbowego, który wydał tę decyzję lub to postanowienie.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: M. Rzeczkowska
 

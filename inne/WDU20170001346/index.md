@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001346) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1346/text.pdf) |
 
 zmieniające rozporządzenie w sprawie praktyki zawodowej realizowanej w ramach kształcenia fizjoterapeutów Na podstawie art. 14 ust. 11 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. poz. 1994 oraz z 2017 r. poz. 599) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 22 lutego 2017 r. w sprawie praktyki zawodowej realizowanej w ramach kształcenia fizjoterapeutów (Dz. U. poz. 537) w załączniku nr 1 do rozporządzenia w pkt 4:
-1) ppkt 1 otrzymuje brzmienie: „1) fizjoterapia w ortopedii i traumatologii;”;
-2) w ppkt 12 kropkę zastępuje się średnikiem i dodaje się ppkt 13 w brzmieniu: „13) fizjoterapia w medycynie sportowej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: K. Radziwiłł
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 22 lutego 2017 r. w sprawie praktyki zawodowej realizowanej w ramach kształcenia fizjoterapeutów (Dz. U. poz. 537) w załączniku nr 1 do rozporządzenia w pkt 4:
+
+- **1)** ppkt 1 otrzymuje brzmienie: „1) fizjoterapia w ortopedii i traumatologii;”;
+- **2)** w ppkt 12 kropkę zastępuje się średnikiem i dodaje się ppkt 13 w brzmieniu: „13) fizjoterapia w medycynie sportowej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: K. Radziwiłł
 

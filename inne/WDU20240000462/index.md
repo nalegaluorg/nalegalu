@@ -27,22 +27,39 @@ source: pdf
 
 w sprawie egzaminu dla kandydatów na członków organów nadzorczych Na podstawie art. 21 ust. 9 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U.
 z 2024 r. poz. 125) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wysokość opłaty, o której mowa w art. 21 ust. 4 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, zwanej dalej „opłatą”, oraz tryb i warunki dokonywania zwrotu wniesionych opłat;
-2) regulamin przeprowadzania egzaminu dla kandydatów na członków organów nadzorczych, zwanego dalej „egzaminem”;
-3) sposób ustalania i wysokość wynagrodzeń członków komisji egzaminacyjnej, zwanej dalej „komisją”.
-§ 2. 1. Opłata wynosi 850 zł.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wysokość opłaty, o której mowa w art. 21 ust. 4 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym, zwanej dalej „opłatą”, oraz tryb i warunki dokonywania zwrotu wniesionych opłat;
+- **2)** regulamin przeprowadzania egzaminu dla kandydatów na członków organów nadzorczych, zwanego dalej „egzaminem”;
+- **3)** sposób ustalania i wysokość wynagrodzeń członków komisji egzaminacyjnej, zwanej dalej „komisją”.
+
+**§ 2.**
+
+1. Opłata wynosi 850 zł.
+
 2. W przypadku rezygnacji z przystąpienia do egzaminu przed terminem zamknięcia listy uczestników egzaminu przeprowadzanego w danym terminie wniesiona opłata jest zwracana na wniosek osoby składającej zgłoszenie o przystąpieniu do egzaminu. Za termin złożenia wniosku uznaje się datę wpływu wniosku do urzędu obsługującego ministra właściwego do spraw aktywów państwowych.
+
 3. Wniesiona opłata jest zwracana na rachunek płatniczy wskazany we wniosku, o którym mowa w ust. 2.
-§ 3. 1. Wysokość wynagrodzenia członków komisji za przeprowadzenie części pisemnej i ustnej egzaminu jest ustalana jako procentowy udział w kwocie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, w zależności od pełnionej funkcji.
+
+**§ 3.**
+
+1. Wysokość wynagrodzenia członków komisji za przeprowadzenie części pisemnej i ustnej egzaminu jest ustalana jako procentowy udział w kwocie przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego, w zależności od pełnionej funkcji.
+
 2. Członkom komisji przysługuje odpowiednio wynagrodzenie brutto, o którym mowa w ust. 1, stanowiące w przypadku:
-1) przewodniczącego komisji – 60 % kwoty, o której mowa w ust. 1;
-2) członka komisji – 40 % kwoty, o której mowa w ust. 1;
-3) sekretarza komisji – 30 % kwoty, o której mowa w ust. 1.
-§ 4. Regulamin przeprowadzania egzaminu jest określony w załączniku do rozporządzenia.
-§ 5. Traci moc rozporządzenie Ministra Aktywów Państwowych z dnia 5 czerwca 2020 r. w sprawie egzaminu dla kandydatów na członków organów nadzorczych (Dz. U. poz. 1022).
-§ 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Aktywów Państwowych: B. Budka REGULAMIN PRZEPROWADZANIA EGZAMINU
+
+- **1)** przewodniczącego komisji – 60 % kwoty, o której mowa w ust. 1;
+- **2)** członka komisji – 40 % kwoty, o której mowa w ust. 1;
+- **3)** sekretarza komisji – 30 % kwoty, o której mowa w ust. 1.
+
+**§ 4.** Regulamin przeprowadzania egzaminu jest określony w załączniku do rozporządzenia.
+
+**§ 5.** Traci moc rozporządzenie Ministra Aktywów Państwowych z dnia 5 czerwca 2020 r. w sprawie egzaminu dla kandydatów na członków organów nadzorczych (Dz. U. poz. 1022).
+
+**§ 6.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Aktywów Państwowych: B. Budka REGULAMIN PRZEPROWADZANIA EGZAMINU
+
+## Załącznik
+
 § 1. 1. Egzamin odbywa się w miejscu wyznaczonym przez ministra właściwego do spraw aktywów państwowych.
 2. Miejsce przeprowadzania i terminy egzaminów oraz terminy zamknięcia list uczestników egzaminów podlegają ogłoszeniu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw aktywów państwowych, zwanego dalej „urzędem”.
 § 2. Do zadań sekretarza komisji należy weryfikacja tożsamości zdających egzamin z listą uczestników egzaminu, o której mowa w § 3 ust. 3, kontrola przebiegu części pisemnej egzaminu, udział w ustalaniu wyników części pisemnej egzaminu, dbałość o kompletność dokumentów egzaminacyjnych oraz sporządzenie protokołu z przebiegu egzaminu, zwanego dalej „protokołem”.

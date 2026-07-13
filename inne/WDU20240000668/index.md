@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/668/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia Na podstawie art. 16 ust. 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2024 r. poz. 388) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. z 2023 r. poz. 518) w § 1 w pkt 1:
-1) lit. l otrzymuje brzmienie: „l) Łeba – ruch osobowy i towarowy,”;
-2) uchyla się lit. t.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. z 2023 r. poz. 518) w § 1 w pkt 1:
+
+- **1)** lit. l otrzymuje brzmienie: „l) Łeba – ruch osobowy i towarowy,”;
+- **2)** uchyla się lit. t.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

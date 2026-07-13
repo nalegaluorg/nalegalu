@@ -26,12 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1777/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, 1515, 1532, 1544, 1552 i 1669) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych (Dz. U. z 2018 r. poz. 188) wprowadza się następujące zmiany:
-1) w § 3 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Świadczeniodawca bierze pod uwagę zalecenia postępowania dotyczące diagnostyki i leczenia w zakresie świadczeń finansowanych ze środków publicznych, które zostały ogłoszone na podstawie art. 11 ust. 3 ustawy.
-3. Do określania świadczeń gwarantowanych, o których mowa w § 5, w przypadku chorób rzadkich stosuje się także rozpoznania opisane numerami ORPHA.”;
-2) w załączniku w tabeli „Wykaz świadczeń gwarantowanych z zakresu programów zdrowotnych oraz warunki ich realizacji” w lp. 4 w części „Pobranie materiału płodowego do badań genetycznych (amniopunkcja lub biopsja trofoblastu lub kordocenteza)” w kolumnie 3 po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Pozostałe wymagania:
-1) podanie immunoglobuliny anty-RhD pacjentce RhD-ujemnej po inwazyjnej diagnostyce prenatalnej;
-2) świadczenie polega na podaniu immunoglobuliny anty-RhD zgodnie z aktualnymi zaleceniami konsultantów krajowych w dziedzinie położnictwa i ginekologii, transfuzjologii klinicznej oraz perinatologii.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: Ł. Szumowski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu programów zdrowotnych (Dz. U. z 2018 r. poz. 188) wprowadza się następujące zmiany:
+
+- **1)** w § 3 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu:
+
+  > „2. Świadczeniodawca bierze pod uwagę zalecenia postępowania dotyczące diagnostyki i leczenia w zakresie świadczeń finansowanych ze środków publicznych, które zostały ogłoszone na podstawie art. 11 ust. 3 ustawy.  
+  > 3. Do określania świadczeń gwarantowanych, o których mowa w § 5, w przypadku chorób rzadkich stosuje się także rozpoznania opisane numerami ORPHA.”;  
+- **2)** w załączniku w tabeli „Wykaz świadczeń gwarantowanych z zakresu programów zdrowotnych oraz warunki ich realizacji” w lp. 4 w części „Pobranie materiału płodowego do badań genetycznych (amniopunkcja lub biopsja trofoblastu lub kordocenteza)” w kolumnie 3 po ust. 2 dodaje się ust. 3 w brzmieniu:
+
+  > „3. Pozostałe wymagania:  
+  > 1) podanie immunoglobuliny anty-RhD pacjentce RhD-ujemnej po inwazyjnej diagnostyce prenatalnej;  
+  > 2) świadczenie polega na podaniu immunoglobuliny anty-RhD zgodnie z aktualnymi zaleceniami konsultantów krajowych w dziedzinie położnictwa i ginekologii, transfuzjologii klinicznej oraz perinatologii.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: Ł. Szumowski
 

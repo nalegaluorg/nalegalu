@@ -27,7 +27,10 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001519) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1519/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. Nr 149, poz. 887 i Nr 288, poz. 1690 oraz z 2012 r. poz. 579) w art. 228 ust. 2 i 3 otrzymują brzmienie: „2. Jednostki samorządu terytorialnego prowadzące placówki, o których mowa w ust. 1, są obowiązane dostosować organizację, zasady i warunki funkcjonowania tych placówek do wymagań określonych na podstawie przepisów niniejszej ustawy w terminie 36 miesięcy od dnia wejścia w życie niniejszej ustawy. 3. Niepubliczne placówki opiekuńczo-wychowawcze wsparcia dziennego, działające na podstawie przepisów dotychczasowych, funkcjonują nie dłużej niż przez okres 36 miesięcy od dnia wejścia w życie niniejszej ustawy.”.
+**Art. 1.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. Nr 149, poz. 887 i Nr 288, poz. 1690 oraz z 2012 r. poz. 579) w art. 228 ust. 2 i 3 otrzymują brzmienie:
+
+> „2. Jednostki samorządu terytorialnego prowadzące placówki, o których mowa w ust. 1, są obowiązane dostosować organizację, zasady i warunki funkcjonowania tych placówek do wymagań określonych na podstawie przepisów niniejszej ustawy w terminie 36 miesięcy od dnia wejścia w życie niniejszej ustawy.  
+> 3. Niepubliczne placówki opiekuńczo-wychowawcze wsparcia dziennego, działające na podstawie przepisów dotychczasowych, funkcjonują nie dłużej niż przez okres 36 miesięcy od dnia wejścia w życie niniejszej ustawy.”.  
 
 **Art. 2.** Ustawa wchodzi w życie z dniem 31 grudnia 2012 r.
 

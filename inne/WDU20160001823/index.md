@@ -804,7 +804,10 @@ source: pdf
 **Art. 54.** W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184, 1618 i 1634) wprowadza się następujące zmiany:
 
 - **1)** w art. 31 po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) wykonywanie zadań określonych w ustawie z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823);”;
-- **2)** po art. 32 dodaje się art. 32a w brzmieniu: „Art. 32a. 1. Przy Prezesie Urzędu działa punkt kontaktowy do spraw pozasądowego rozwiązywania sporów konsumenckich oraz internetowego systemu rozwiązywania sporów konsumenckich, zwany dalej „punktem kontaktowym”.
+- **2)** po art. 32 dodaje się art. 32a w brzmieniu:
+
+  > „Art. 32a.  
+  > 1. Przy Prezesie Urzędu działa punkt kontaktowy do spraw pozasądowego rozwiązywania sporów konsumenckich oraz internetowego systemu rozwiązywania sporów konsumenckich, zwany dalej „punktem kontaktowym”.  
 
 2. Do zadań punktu kontaktowego należy:
 

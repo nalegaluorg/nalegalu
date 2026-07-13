@@ -27,8 +27,10 @@ source: pdf
 
 w sprawie wysokości wpłaty lotniczej w 2023 r.
 Na podstawie art. 26d ust. 7 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wysokość wpłaty z tytułu kosztów realizowania przez Prezesa Urzędu Lotnictwa Cywilnego zadań państwowej władzy nadzorującej związanych z zapewnianiem służb żeglugi powietrznej, o której mowa w art. 26d ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zwanej dalej „wpłatą lotniczą”.
-§ 2. Wysokość wpłaty lotniczej na rok 2023 wynosi 13 871 823 zł.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-Minister Infrastruktury: A. Adamczyk
+
+**§ 1.** Rozporządzenie określa wysokość wpłaty z tytułu kosztów realizowania przez Prezesa Urzędu Lotnictwa Cywilnego zadań państwowej władzy nadzorującej związanych z zapewnianiem służb żeglugi powietrznej, o której mowa w art. 26d ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zwanej dalej „wpłatą lotniczą”.
+
+**§ 2.** Wysokość wpłaty lotniczej na rok 2023 wynosi 13 871 823 zł.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. Minister Infrastruktury: A. Adamczyk
 

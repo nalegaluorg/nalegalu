@@ -26,26 +26,39 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000998) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/998/text.pdf) |
 
 w sprawie wysokości opłat za czynności organów administracji probierczej oraz trybu ich pobierania Na podstawie art. 36 ust. 8 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. Nr 92, poz. 529) zarządza się, co następuje:
-§ 1. 1. Za czynności organów administracji probierczej określone w art. 36 ust. 1 pkt 1–4 i 6–11 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze, zwanej dalej „ustawą”, pobiera się opłaty w wysokości określonej w załączniku do rozporządzenia.
+
+**§ 1.**
+
+1. Za czynności organów administracji probierczej określone w art. 36 ust. 1 pkt 1–4 i 6–11 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze, zwanej dalej „ustawą”, pobiera się opłaty w wysokości określonej w załączniku do rozporządzenia.
+
 2. Za czynności organów administracji probierczej określone w art. 36 ust. 1 pkt 5 ustawy pobiera się opłaty według stawki godzinowej w wysokości 72 zł za każdą godzinę pracy pracownika administracji probierczej; za każdą niepełną godzinę pracy opłatę pobiera się proporcjonalnie.
+
 3. Za czynności organów administracji probierczej pobiera się opłaty z góry, z wyjątkiem czynności określonych w ust. 2, za które opłaty pobiera się po zakończeniu czynności badawczych.
+
 4. W przypadkach, o których mowa w ust. 2, po zakończeniu czynności badawczych, organ administracji probierczej ustala wysokość opłaty i informuje wnioskodawcę o jej wysokości.
+
 5. Organ administracji probierczej wystawia potwierdzenie uiszczenia opłaty, które zawiera:
-1) oznaczenie dokumentu;
-2) numer identyfikacyjny dokumentu i datę wystawienia;
-3) nazwę i adres podmiotu uiszczającego opłatę;
-4) nazwę czynności;
-5) nazwę i masę wyrobu – o ile ma to zastosowanie;
-6) numer i datę zgłoszenia albo wniosku;
-7) sposób obliczenia opłaty i jej wysokość;
-8) sposób zapłaty;
-9) podstawę prawną pobrania opłaty;
-10) określenie długości czasu pracy w przypadku czynności, o których mowa w ust. 2;
-11) podpis wystawiającego poświadczenie uiszczenia opłaty.
+
+- **1)** oznaczenie dokumentu;
+- **2)** numer identyfikacyjny dokumentu i datę wystawienia;
+- **3)** nazwę i adres podmiotu uiszczającego opłatę;
+- **4)** nazwę czynności;
+- **5)** nazwę i masę wyrobu – o ile ma to zastosowanie;
+- **6)** numer i datę zgłoszenia albo wniosku;
+- **7)** sposób obliczenia opłaty i jej wysokość;
+- **8)** sposób zapłaty;
+- **9)** podstawę prawną pobrania opłaty;
+- **10)** określenie długości czasu pracy w przypadku czynności, o których mowa w ust. 2;
+- **11)** podpis wystawiającego poświadczenie uiszczenia opłaty.
+
 6. Opłatę wnosi się na rachunek bankowy właściwego organu administracji probierczej albo do kasy urzędu.
-§ 2. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia pobiera się opłaty w wysokości określonej w przepisach dotychczasowych.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: wz. M. Sekuła WYSOKOŚĆ OPŁAT ZA CZYNNOŚCI ORGANÓW ADMINISTRACJI PROBIERCZEJ OKREŚLONE W ART. 36 UST. 1 PKT 1–4 I 6–11 USTAWY Z DNIA 1 KWIETNIA 2011 R. – PRAWO PROBIERCZE
+
+**§ 2.** W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia pobiera się opłaty w wysokości określonej w przepisach dotychczasowych.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: wz. M. Sekuła WYSOKOŚĆ OPŁAT ZA CZYNNOŚCI ORGANÓW ADMINISTRACJI PROBIERCZEJ OKREŚLONE W ART. 36 UST. 1 PKT 1–4 I 6–11 USTAWY Z DNIA 1 KWIETNIA 2011 R. – PRAWO PROBIERCZE
+
+## Załącznik
+
 § 1. Za przeprowadzenie badania nowo wytworzonego wyrobu z metali szlachetnych zgłoszonego przez wytwórcę, inny podmiot wprowadzający wyrób do obrotu lub ich upoważnionego przedstawiciela, niezależnie od zastosowanej metody badania, pobiera się opłatę za każdy rozpoczęty gram badanego wyrobu:
 1) platynowego, palladowego albo złotego w wysokości 1,27 zł;
 2) srebrnego w wysokości 0,12 zł.

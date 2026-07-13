@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Warszawie Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2018 r.
 poz. 2081) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Warszawie (Dz. U. poz. 1265 oraz z 2016 r. poz. 1486) w załączniku w § 4 w ust. 1 uchyla się pkt 6.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Środowiska: H. Kowalczyk
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Warszawie (Dz. U. poz. 1265 oraz z 2016 r. poz. 1486) w załączniku w § 4 w ust. 1 uchyla się pkt 6.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Środowiska: H. Kowalczyk
 

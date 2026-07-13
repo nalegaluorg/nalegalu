@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000772) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/772/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek Na podstawie art. 29 ust. 3 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. Nr 169, poz. 1411, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 9 października 2008 r. w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. Nr 190, poz. 1169) w § 3 w pkt 5 w lit. e tiret pierwsze otrzymuje brzmienie: „– wykonanie testów na obecność przeciwciał HTLV-I u dawcy mieszkającego na obszarach o wysokiej chorobowości lub pochodzącego z takich obszarów, lub którego partnerzy seksualni bądź rodzice pochodzą z takich obszarów,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: B.A. Arłukowicz
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 9 października 2008 r. w sprawie wymagań, jakie powinien spełniać system zapewnienia jakości w bankach tkanek i komórek (Dz. U. Nr 190, poz. 1169) w § 3 w pkt 5 w lit. e tiret pierwsze otrzymuje brzmienie: „– wykonanie testów na obecność przeciwciał HTLV-I u dawcy mieszkającego na obszarach o wysokiej chorobowości lub pochodzącego z takich obszarów, lub którego partnerzy seksualni bądź rodzice pochodzą z takich obszarów,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: B.A. Arłukowicz
 

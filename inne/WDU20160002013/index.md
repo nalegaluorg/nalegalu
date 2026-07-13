@@ -27,8 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zgłoszenia zamiaru koncentracji przedsiębiorców Na podstawie art. 94 ust. 6 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r.
 poz. 184, 1618 i 1634 oraz z 2016 r. poz. 1823) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 23 grudnia 2014 r. w sprawie zgłoszenia zamiaru koncentracji przedsiębiorców (Dz. U. z 2015 r. poz. 80) § 8 otrzymuje brzmienie: „§ 8. Od wniosków o wszczęcie postępowania antymonopolowego w sprawach koncentracji przed Prezesem Urzędu przedsiębiorca uiszcza opłatę w wysokości 15 000 zł od zgłoszenia zamiaru koncentracji przedsiębiorców.”.
-§ 2. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 23 grudnia 2014 r. w sprawie zgłoszenia zamiaru koncentracji przedsiębiorców (Dz. U. z 2015 r. poz. 80) § 8 otrzymuje brzmienie: „§ 8. Od wniosków o wszczęcie postępowania antymonopolowego w sprawach koncentracji przed Prezesem Urzędu przedsiębiorca uiszcza opłatę w wysokości 15 000 zł od zgłoszenia zamiaru koncentracji przedsiębiorców.”.
+
+**§ 2.** Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
 

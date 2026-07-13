@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000618) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/618/text.pdf) |
 
 zmieniające rozporządzenie w sprawie stypendiów dla kandydatów na żołnierzy Na podstawie art. 113 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 4 lipca 2022 r. w sprawie stypendiów dla kandydatów na żołnierzy (Dz. U. poz. 1447) w § 4 w ust. 1 pkt 6 otrzymuje brzmienie: „6) wysokość stypendium;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: z up. P. Bejda
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 4 lipca 2022 r. w sprawie stypendiów dla kandydatów na żołnierzy (Dz. U. poz. 1447) w § 4 w ust. 1 pkt 6 otrzymuje brzmienie: „6) wysokość stypendium;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: z up. P. Bejda
 

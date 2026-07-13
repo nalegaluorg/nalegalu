@@ -27,9 +27,12 @@ source: pdf
 
 w sprawie zniesienia Pełnomocnika Rządu do spraw Zapewnienia Bezpieczeństwa w Trakcie Przygotowywania i Sprawowania przez Rzeczpospolitą Polską Przewodnictwa w Radzie Unii Europejskiej w 2011 r.
 Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:
-§ 1. Znosi się Pełnomocnika Rządu do spraw Zapewnienia Bezpieczeństwa w Trakcie Przygotowywania i Sprawowania przez Rzeczpospolitą Polską Przewodnictwa w Radzie Unii Europejskiej w 2011 r.
-§ 2. Minister Spraw Wewnętrznych przedstawi Radzie Ministrów w terminie do dnia 30 czerwca 2012 r. końcowe sprawozdanie z działalności Pełnomocnika Rządu do spraw Zapewnienia Bezpieczeństwa w Trakcie Przygotowywania i Sprawowania przez Rzeczpospolitą Polską Przewodnictwa w Radzie Unii Europejskiej w 2011 r.
-§ 3. Traci moc rozporządzenie Rady Ministrów z dnia 28 maja 2010 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw Zapewnienia Bezpieczeństwa w Trakcie Przygotowywania i Sprawowania przez Rzeczpospolitą Polską Przewodnictwa w Radzie Unii Europejskiej w 2011 r. (Dz. U. Nr 98, poz. 628).
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** Znosi się Pełnomocnika Rządu do spraw Zapewnienia Bezpieczeństwa w Trakcie Przygotowywania i Sprawowania przez Rzeczpospolitą Polską Przewodnictwa w Radzie Unii Europejskiej w 2011 r.
+
+**§ 2.** Minister Spraw Wewnętrznych przedstawi Radzie Ministrów w terminie do dnia 30 czerwca 2012 r. końcowe sprawozdanie z działalności Pełnomocnika Rządu do spraw Zapewnienia Bezpieczeństwa w Trakcie Przygotowywania i Sprawowania przez Rzeczpospolitą Polską Przewodnictwa w Radzie Unii Europejskiej w 2011 r.
+
+**§ 3.** Traci moc rozporządzenie Rady Ministrów z dnia 28 maja 2010 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw Zapewnienia Bezpieczeństwa w Trakcie Przygotowywania i Sprawowania przez Rzeczpospolitą Polską Przewodnictwa w Radzie Unii Europejskiej w 2011 r. (Dz. U. Nr 98, poz. 628).
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -27,15 +27,18 @@ source: pdf
 
 w sprawie upoważnienia organów do uznawania kwalifikacji w zawodach regulowanych należących do działu sprawy wewnętrzne Na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2017 r.
 poz. 888, 1086 i 1566) zarządza się, co następuje:
-§ 1. Do uznawania nabytych w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, poza granicami Rzeczypospolitej Polskiej, kwalifikacji do wykonywania zawodów regulowanych upoważnia się:
-1) Komendanta Głównego Państwowej Straży Pożarnej – w zakresie zawodów:
-a) strażak,
-b) technik pożarnictwa,
-c) inżynier pożarnictwa;
-2) Komendanta Głównego Policji – w zakresie zawodów:
-a) kwalifikowany pracownik ochrony fizycznej,
-b) kwalifikowany pracownik zabezpieczenia technicznego,
-c) detektyw.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** Do uznawania nabytych w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, poza granicami Rzeczypospolitej Polskiej, kwalifikacji do wykonywania zawodów regulowanych upoważnia się:
+
+- **1)** Komendanta Głównego Państwowej Straży Pożarnej – w zakresie zawodów:
+    - **a)** strażak,
+    - **b)** technik pożarnictwa,
+    - **c)** inżynier pożarnictwa;
+
+- **2)** Komendanta Głównego Policji – w zakresie zawodów:
+    - **a)** kwalifikowany pracownik ochrony fizycznej,
+    - **b)** kwalifikowany pracownik zabezpieczenia technicznego,
+    - **c)** detektyw.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

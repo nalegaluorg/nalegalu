@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej z zakresu przeciwdziałania unikaniu opodatkowania Na podstawie art. 11b ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r.
 poz. 1131 i 1423) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 24 listopada 2023 r. w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej z zakresu przeciwdziałania unikaniu opodatkowania (Dz. U. poz. 2601) w § 1 pkt 2 otrzymuje brzmienie: „2) rozstrzygania jako organ pierwszej instancji w sprawach uzupełnienia, sprostowania oraz wyjaśnienia decyzji lub postanowienia, o których mowa odpowiednio w art. 213 oraz art. 215 § 1 i 2 ustawy, związanych z postępowaniem podatkowym przeprowadzonym przez tego naczelnika urzędu celno-skarbowego z upoważnienia, o którym mowa w pkt 1;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-Minister Finansów i Gospodarki: wz. J. Drop
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 24 listopada 2023 r. w sprawie upoważnienia organów Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej z zakresu przeciwdziałania unikaniu opodatkowania (Dz. U. poz. 2601) w § 1 pkt 2 otrzymuje brzmienie: „2) rozstrzygania jako organ pierwszej instancji w sprawach uzupełnienia, sprostowania oraz wyjaśnienia decyzji lub postanowienia, o których mowa odpowiednio w art. 213 oraz art. 215 § 1 i 2 ustawy, związanych z postępowaniem podatkowym przeprowadzonym przez tego naczelnika urzędu celno-skarbowego z upoważnienia, o którym mowa w pkt 1;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Minister Finansów i Gospodarki: wz. J. Drop
 

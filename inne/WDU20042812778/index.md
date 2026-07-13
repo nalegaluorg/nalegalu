@@ -32,7 +32,10 @@ source: pdf
 - **1)** w art. 9 ust. 2 otrzymuje brzmienie: „2. Umowa ubezpieczenia obowiązkowego odpowiedzialności cywilnej, o którym mowa w art. 4 pkt 1 i 2, obejmuje również szkody wyrządzone umyślnie lub w wyniku rażącego niedbalstwa ubezpieczającego lub osób, za które ponosi on odpowiedzialność.”;
 - **2)** w art. 11:
     - **a)** dotychczasową treść oznacza się jako ust. 1,
-    - **b)** dodaje się ust. 2 i 3 w brzmieniu: „2. Umowa ubezpieczenia obowiązkowego odpowiedzialności cywilnej, o którym mowa w art. 4 pkt 4, obejmuje również szkody wyrządzone w wyniku rażącego niedbalstwa ubezpieczonego lub osób, za które ponosi on odpowiedzialność. 3. Zakładowi ubezpieczeń przysługuje prawo dochodzenia od ubezpieczonego lub osób, za które ponosi on odpowiedzialność, zwrotu wypłaconego z tytułu ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 4, odszkodowania za szkody określone w ust. 2, a także w przypadku, jeżeli szkoda została wyrządzona przez ubezpieczonego lub osoby, za które ponosi on odpowiedzialność, w stanie po użyciu alkoholu albo pod wpływem środków odurzających, substancji psychotropowych lub środków zastępczych w rozumieniu przepisów o przeciwdziałaniu narkomanii.”.
+    - **b)** dodaje się ust. 2 i 3 w brzmieniu:
+
+      > „2. Umowa ubezpieczenia obowiązkowego odpowiedzialności cywilnej, o którym mowa w art. 4 pkt 4, obejmuje również szkody wyrządzone w wyniku rażącego niedbalstwa ubezpieczonego lub osób, za które ponosi on odpowiedzialność.  
+      > 3. Zakładowi ubezpieczeń przysługuje prawo dochodzenia od ubezpieczonego lub osób, za które ponosi on odpowiedzialność, zwrotu wypłaconego z tytułu ubezpieczeń obowiązkowych, o których mowa w art. 4 pkt 4, odszkodowania za szkody określone w ust. 2, a także w przypadku, jeżeli szkoda została wyrządzona przez ubezpieczonego lub osoby, za które ponosi on odpowiedzialność, w stanie po użyciu alkoholu albo pod wpływem środków odurzających, substancji psychotropowych lub środków zastępczych w rozumieniu przepisów o przeciwdziałaniu narkomanii.”.  
 
 **Art. 2.** Do zobowiązań wynikających z umów ubezpieczenia zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 

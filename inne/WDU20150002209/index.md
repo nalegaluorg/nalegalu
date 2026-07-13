@@ -27,12 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie informacji podatkowych Na podstawie art. 82 § 6, art. 82a § 2 i art. 85 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r.
 poz. 613, z późn. zm. 2) ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 24 grudnia 2002 r. w sprawie informacji podatkowych (Dz. U. z 2013 r.
-poz. 190) załączniki nr 1–3 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
-Minister Finansów: P. Szałamacha
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
-2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184.
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 24 grudnia 2002 r. w sprawie informacji podatkowych (Dz. U. z 2013 r. poz. 190) załączniki nr 1–3 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. Minister Finansów: P. Szałamacha
+
+- **1)** Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).
+- **2)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184.
 
 ## Załącznik nr 1 — Załączniki do rozporządzenia Ministra Finansów z dnia 2015 r. (poz. ) Załącznik nr 1 POLTAX
 

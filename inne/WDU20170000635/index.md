@@ -30,7 +30,13 @@ source: pdf
 **Art. 1.** W ustawie z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych (Dz. U. z 2016 r. poz. 1812) w załączniku do ustawy wprowadza się następujące zmiany:
 
 - **1)** pkt 23 otrzymuje brzmienie: „23. Rozbudowa lub przebudowa linii 220 kV Blachownia – Łagisza.”;
-- **2)** dodaje się punkty 24–28 w brzmieniu: „24. Budowa linii 400 kV Kozienice – Miłosna. 25. Budowa linii 400 kV wraz ze zmianą układu sieci NN pomiędzy aglomeracją warszawską a Siedlcami (pomiędzy nacięciami linii Stanisławów – Narew, Stanisławów – Siedlce Ujrzanów, Kozienice – Siedlce Ujrzanów). 26. Budowa linii 400 kV Skawina – nacięcia linii Tarnów – Tucznawa oraz Rzeszów – Tucznawa. 27. Rozbudowa lub przebudowa linii 220 kV Kozienice – Rożki. 28. Rozbudowa lub przebudowa linii 220 kV Rożki – Kielce.”.
+- **2)** dodaje się punkty 24–28 w brzmieniu:
+
+  > „24. Budowa linii 400 kV Kozienice – Miłosna.  
+  > 25. Budowa linii 400 kV wraz ze zmianą układu sieci NN pomiędzy aglomeracją warszawską a Siedlcami (pomiędzy nacięciami linii Stanisławów – Narew, Stanisławów – Siedlce Ujrzanów, Kozienice – Siedlce Ujrzanów).  
+  > 26. Budowa linii 400 kV Skawina – nacięcia linii Tarnów – Tucznawa oraz Rzeszów – Tucznawa.  
+  > 27. Rozbudowa lub przebudowa linii 220 kV Kozienice – Rożki.  
+  > 28. Rozbudowa lub przebudowa linii 220 kV Rożki – Kielce.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

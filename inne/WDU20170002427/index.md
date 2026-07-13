@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002427) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2427/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu Na podstawie art. 21 ust. 4 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2012 r. poz. 642 i 908, z 2013 r. poz. 829 oraz z 2017 r. poz. 60 i 1086) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 2 kwietnia 2012 r. w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. z 2016 r. poz. 137 i 1775) w załączniku po poz. 30 dodaje się poz. 31 i 32 w brzmieniu: „31. Biblioteka Fundacji Ośrodka KARTA
-32. Biblioteka Diecezjalna w Sandomierzu”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 2 kwietnia 2012 r. w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. z 2016 r. poz. 137 i 1775) w załączniku po poz. 30 dodaje się poz. 31 i 32 w brzmieniu: „31. Biblioteka Fundacji Ośrodka KARTA 32. Biblioteka Diecezjalna w Sandomierzu”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

@@ -29,15 +29,29 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych (Dz.U. Nr 110, poz. 1189 i Nr 154, poz. 1800) wprowadza się następujące zmiany:
 
-- **1)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Organem administracji rządowej właściwym w sprawach gromadzenia, przetwarzania i przekazywania informacji kryminalnych jest Komendant Główny Policji. 2. Komendant Główny Policji wykonuje swoje zadania przy pomocy Krajowego Centrum Informacji Kryminalnych, zwanego dalej „Centrum”, będącego komórką organizacyjną w Komendzie Głównej Policji.”;
+- **1)** art. 5 otrzymuje brzmienie:
+
+  > „Art. 5.  
+  > 1. Organem administracji rządowej właściwym w sprawach gromadzenia, przetwarzania i przekazywania informacji kryminalnych jest Komendant Główny Policji.  
+  > 2. Komendant Główny Policji wykonuje swoje zadania przy pomocy Krajowego Centrum Informacji Kryminalnych, zwanego dalej „Centrum”,  
+
+  będącego komórką organizacyjną w Komendzie Głównej Policji.”;
 - **2)** art. 6 otrzymuje brzmienie: „Art. 6. Do zadań Komendanta Głównego Policji, będącego Szefem Krajowego Centrum Informacji Kryminalnych, zwanego dalej „Szefem Centrum”, należy w szczególności: 1) gromadzenie, przetwarzanie i przekazywanie informacji kryminalnych, 2) prowadzenie baz danych, w tym Krajowego Systemu Informatycznego, 3) opracowywanie analiz informacji kryminalnych, 4) zapewnienie bezpieczeństwa gromadzonym i przetwarzanym w Centrum informacjom kryminalnym, zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz.U. Nr 133, poz. 883, z 2000 r. Nr 12, poz. 136, Nr 50, poz. 580 i Nr 116, poz. 1216, z 2001 r. Nr 42, poz. 474, Nr 49, poz. 509 i Nr 100, poz. 1087 oraz z 2002 r. Nr 74, poz. 676) oraz ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz.U. Nr 11, poz. 95, z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462, z 2001 r. Nr 22, poz. 247, Nr 27, poz. 298, Nr 56, poz. 580, Nr 110, poz. 1189, Nr 123, poz. 1353 i Nr 154, poz. 1800 oraz z 2002 r. Nr 74, poz. 676), 5) współpraca międzynarodowa przy wykonywaniu ratyfikowanych umów międzynarodowych w zakresie przekazywania informacji kryminalnych.”;
 - **3)** skreśla się art. 7-10;
 - **4)** w art. 11 skreśla się ust. 3 i 4;
 - **5)** art. 12 otrzymuje brzmienie: „Art. 12. Do pracy w Centrum mogą być, na zasadach określonych w odrębnych przepisach, oddelegowani żołnierze, funkcjonariusze oraz pracownicy podmiotów uprawnionych.”;
-- **6)** w art. 13 ust. 2 pkt 1 otrzymuje brzmienie: „1) dane personalne: a) nazwisko, b) imiona, c) imiona i nazwiska poprzednie, d) imiona rodziców i nazwisko rodowe matki, e) datę i miejsce urodzenia, f) płeć, g) pseudonim, h) adres miejsca zameldowania, i) adres miejsca pobytu, j) cechy dokumentów tożsamości: rodzaj dokumentu, datę wystawienia dokumentu, organ wystawiający dokument, numer, serię dokumentu, k) numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub obywatelstwo, w przypadku cudzoziemca nieposiadającego numeru PESEL, l) numer identyfikacji podatkowej NIP, m) numer identyfikacyjny REGON,”;
+- **6)** w art. 13 ust. 2 pkt 1 otrzymuje brzmienie:
+
+  > „1) dane personalne:  
+  > a) nazwisko, b) imiona, c) imiona i nazwiska poprzednie, d) imiona rodziców i nazwisko rodowe matki, e) datę i miejsce urodzenia, f) płeć, g) pseudonim, h) adres miejsca zameldowania, i) adres miejsca pobytu, j) cechy dokumentów tożsamości: rodzaj dokumentu, datę wystawienia dokumentu, organ wystawiający dokument, numer, serię dokumentu, k) numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub obywatelstwo, w przypadku cudzoziemca nieposiadającego numeru PESEL, l) numer identyfikacji podatkowej NIP, m) numer identyfikacyjny REGON,”;  
 - **7)** w art. 15 wyrazy „o której mowa w art. 22 ust. 1” zastępuje się wyrazami „o której mowa w art. 21 ust. 2”;
 - **8)** w art. 19 w pkt 11 kropkę na końcu zastępuje się przecinkiem oraz dodaje się pkt 12 w brzmieniu: „12) organy administracji publicznej właściwe w sprawach obywatelstwa, cudzoziemców i repatriacji.”;
-- **9)** art. 21 otrzymuje brzmienie: „Art. 21. 1. Podmioty uprawnione przekazują z urzędu informacje kryminalne Szefowi Centrum niezwłocznie po ich uzyskaniu, z zastrzeżeniem art. 24 ust. 1. Informacje kryminalne, o których mowa w art. 13 ust. 1 pkt 5 lit. e), podmioty uprawnione przekazują na zapytanie. 2. Podmioty uprawnione przekazują Szefowi Centrum informacje kryminalne na wypełnionych kartach rejestracyjnych. 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory kart rejestracyjnych, sposób ich wypełniania oraz katalog rodzajów przestępstw, cech rysopisowych i znaków szczególnych, uwzględniając zakres gromadzonych informacji kryminalnych określonych w art. 13.”;
+- **9)** art. 21 otrzymuje brzmienie:
+
+  > „Art. 21.  
+  > 1. Podmioty uprawnione przekazują z urzędu informacje kryminalne Szefowi Centrum niezwłocznie po ich uzyskaniu, z zastrzeżeniem art. 24 ust. 1. Informacje kryminalne, o których mowa w art. 13 ust. 1 pkt 5 lit. e), podmioty uprawnione przekazują na zapytanie.  
+  > 2. Podmioty uprawnione przekazują Szefowi Centrum informacje kryminalne na wypełnionych kartach rejestracyjnych.  
+  > 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory kart rejestracyjnych, sposób ich wypełniania oraz katalog rodzajów przestępstw, cech rysopisowych i znaków szczególnych, uwzględniając zakres gromadzonych informacji kryminalnych określonych w art. 13.”;  
 - **10)** art. 22 otrzymuje brzmienie: „Art. 22. Podmioty zobowiązane, niebędące podmiotami uprawnionymi, przekazują informacje kryminalne Szefowi Centrum wyłącznie na jego zapytanie, z zastrzeżeniem art. 24 ust. 1.”;
 - **11)** w art. 23 wyrazy „uwzględniającego wzory kart, o których mowa w art. 22 ust. 3” zastępuje się wyrazami „uwzględniającego wzory kart, o których mowa w art. 21 ust. 3 oraz w art. 28 ust. 5”;
 - **12)** w art. 25 ust. 2 po wyrazach „od niego otrzymały” skreśla się wyrazy „lub mu przekazały”;

@@ -26,109 +26,194 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000931) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/931/text.pdf) |
 
 (Dz. U. poz. …) Załącznik nr 1
-§ 1. 1. Wyjaśnienie pojęć użytych w planie:
-1) elementy liniowe – elementy liniowe infrastruktury technicznej, tj. kable energetyczne, telekomunikacyjne, w tym optotelekomunikacyjne, oraz rurociągi;
-2) infrastruktura turystyczna – obiekty turystyczne związane z bierną i aktywną turystyką, w szczególności: domy na wodzie, pomosty, pontony, slipy, pirsy, miejsca postoju jednostek turystycznych oraz urządzenia i konstrukcje rekreacyjne;
-3) obszar ochrony wizury znaków nawigacyjnych – obszar wyznaczony w celu zapewnienia widzialności świateł i konstrukcji znaków nawigacyjnych;
-4) podakwen ‒ obszar planu stanowiący wydzieloną część akwenu, na której określono funkcje dopuszczalne lub na której obowiązują zakazy lub ograniczenia;
-5) sytuacja nadzwyczajna – sytuacja zagrażająca życiu i zdrowiu ludzkiemu lub zagrażająca bezpieczeństwu żeglugi lub środowisku, lub mieniu w tak znacznym wymiarze, że wymaga podjęcia działań natychmiastowych.
+
+## CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE USTALEŃ OGÓLNYCH ZAWIERAJĄCYCH WSKAZANIE ROZSTRZYGNIĘĆ OBOWIĄZUJĄCYCH NA CZĘŚCI LUB NA CAŁYM OBSZARZE OBJĘTYM PLANEM, ROZSTRZYGNIĘĆ DOTYCZĄCYCH ROZMIESZCZENIA INWESTYCJI CELU PUBLICZNEGO ORAZ KIERUNKÓW ROZWOJU TRANSPORTU I INFRASTRUKTURY TECHNICZNEJ
+
+**§ 1.**
+
+1. Wyjaśnienie pojęć użytych w planie:
+
+- **1)** elementy liniowe – elementy liniowe infrastruktury technicznej, tj. kable energetyczne, telekomunikacyjne, w tym optotelekomunikacyjne, oraz rurociągi;
+- **2)** infrastruktura turystyczna – obiekty turystyczne związane z bierną i aktywną turystyką, w szczególności: domy na wodzie, pomosty, pontony, slipy, pirsy, miejsca postoju jednostek turystycznych oraz urządzenia i konstrukcje rekreacyjne;
+- **3)** obszar ochrony wizury znaków nawigacyjnych – obszar wyznaczony w celu zapewnienia widzialności świateł i konstrukcji znaków nawigacyjnych;
+- **4)** podakwen ‒ obszar planu stanowiący wydzieloną część akwenu, na której określono funkcje dopuszczalne lub na której obowiązują zakazy lub ograniczenia;
+- **5)** sytuacja nadzwyczajna – sytuacja zagrażająca życiu i zdrowiu ludzkiemu lub zagrażająca bezpieczeństwu żeglugi lub środowisku, lub mieniu w tak znacznym wymiarze, że wymaga podjęcia działań natychmiastowych.
+
 2. Określa się funkcje podstawowe lub dopuszczalne:
-1) badania naukowe – prowadzenie badań naukowych obejmujących m.in. monitoring wód i środowiska przyrodniczego oraz prowadzenie badań geologicznych (prac geologicznych) niewymagających koncesji na poszukiwanie i rozpoznawanie złóż;
-2) dziedzictwo kulturowe ‒ ochrona zidentyfikowanych elementów podwodnego dziedzictwa kulturowego w szczególności zabytków i krajobrazów kulturowych przez wskazanie tych elementów w planie, a także zapewnienie warunków ich ochrony;
-3) funkcjonowanie portu – utrzymanie i rozwój infrastruktury portowej w celu realizacji istniejących i przyszłych funkcji portowych, takich jak: rybołówstwo, przeładunek, turystyka, transport i przemysł;
-4) infrastruktura techniczna:
-a) układanie i utrzymywanie kabli energetycznych i telekomunikacyjnych,
-b) układanie i utrzymywanie rurociągów, w tym rurociągów zrzutowych i poborowych,
-c) lokalizacja innych obiektów służących bezpieczeństwu żeglugi i obronności, niewchodzących w skład infrastruktury portowej;
-5) ochrona środowiska i przyrody ‒ zapewnienie przestrzeni w obszarach morskich niezbędnej do ochrony środowiska i utrzymania walorów przyrodniczych polskich obszarów morskich, uwzględniające konieczność ochrony różnorodności biologicznej i siedlisk przyrodniczych, zachowania właściwego funkcjonowania ekosystemu, utrzymania drożności szlaków migracyjnych zwierząt, utrzymania dobrego stanu wód morskich lub jego poprawę, zapewnienia człowiekowi możliwości zrównoważonego korzystania z walorów przyrodniczych i krajobrazowych środowiska oraz prowadzenia badań naukowych, których wyniki służyć będą ochronie środowiska i przyrody;
-6) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż ‒ poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U.
-z 2023 r. poz. 633, 1688 i 2029 oraz z 2024 r. poz. 834);
-7) sztuczne wyspy i konstrukcje ‒ wznoszenie i wykorzystywanie sztucznych wysp, konstrukcji i urządzeń służących w szczególności celom gospodarczym, ochronie środowiska i badaniom naukowym;
-8) transport ‒ umożliwienie bezpiecznego przemieszczania się jednostek pływających przez utrzymanie i modernizację torów wodnych oraz infrastruktury związanej z ich funkcjonowaniem;
-9) turystyka, sport i rekreacja ‒ zapewnienie dostępu do portu, infrastruktury portowej i usług portowych jednostkom turystycznym, a także udostępnienie akwenów na cele budowy i utrzymania infrastruktury turystycznej.
-§ 2. 1. Granicę obszaru objętego planem określa się w postaci współrzędnych charakterystycznych punktów załamania granic, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h, których wykaz podano w poniższej tabeli:
+
+- **1)** badania naukowe – prowadzenie badań naukowych obejmujących m.in. monitoring wód i środowiska przyrodniczego oraz prowadzenie badań geologicznych (prac geologicznych) niewymagających koncesji na poszukiwanie i rozpoznawanie złóż;
+- **2)** dziedzictwo kulturowe ‒ ochrona zidentyfikowanych elementów podwodnego dziedzictwa kulturowego w szczególności zabytków i krajobrazów kulturowych przez wskazanie tych elementów w planie, a także zapewnienie warunków ich ochrony;
+- **3)** funkcjonowanie portu – utrzymanie i rozwój infrastruktury portowej w celu realizacji istniejących i przyszłych funkcji portowych, takich jak: rybołówstwo, przeładunek, turystyka, transport i przemysł;
+- **4)** infrastruktura techniczna:
+    - **a)** układanie i utrzymywanie kabli energetycznych i telekomunikacyjnych,
+    - **b)** układanie i utrzymywanie rurociągów, w tym rurociągów zrzutowych i poborowych,
+    - **c)** lokalizacja innych obiektów służących bezpieczeństwu żeglugi i obronności, niewchodzących w skład infrastruktury portowej;
+
+- **5)** ochrona środowiska i przyrody ‒ zapewnienie przestrzeni w obszarach morskich niezbędnej do ochrony środowiska i utrzymania walorów przyrodniczych polskich obszarów morskich, uwzględniające konieczność ochrony różnorodności biologicznej i siedlisk przyrodniczych, zachowania właściwego funkcjonowania ekosystemu, utrzymania drożności szlaków migracyjnych zwierząt, utrzymania dobrego stanu wód morskich lub jego poprawę, zapewnienia człowiekowi możliwości zrównoważonego korzystania z walorów przyrodniczych i krajobrazowych środowiska oraz prowadzenia badań naukowych, których wyniki służyć będą ochronie środowiska i przyrody;
+- **6)** poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż ‒ poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż w rozumieniu ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633, 1688 i 2029 oraz z 2024 r. poz. 834);
+- **7)** sztuczne wyspy i konstrukcje ‒ wznoszenie i wykorzystywanie sztucznych wysp, konstrukcji i urządzeń służących w szczególności celom gospodarczym, ochronie środowiska i badaniom naukowym;
+- **8)** transport ‒ umożliwienie bezpiecznego przemieszczania się jednostek pływających przez utrzymanie i modernizację torów wodnych oraz infrastruktury związanej z ich funkcjonowaniem;
+- **9)** turystyka, sport i rekreacja ‒ zapewnienie dostępu do portu, infrastruktury portowej i usług portowych jednostkom turystycznym, a także udostępnienie akwenów na cele budowy i utrzymania infrastruktury turystycznej.
+
+**§ 2.**
+
+1. Granicę obszaru objętego planem określa się w postaci współrzędnych charakterystycznych punktów załamania granic, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h, których wykaz podano w poniższej tabeli:
+
 2. Obszarowi objętemu planem w granicach określonych w ust. 1 nadaje się unikalny kod literowy TRZ.
-3. Obszar objęty planem w granicach określonych w ust. 1 dzieli się na akweny o funkcji podstawowej, o której mowa w art. 37a ust. 3 zdanie pierwsze ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U.
-z 2023 r. poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834):
-1) funkcjonowanie portu o oznaczeniu literowym Ip;
-2) turystyka, sport i rekreacja o oznaczeniu literowym S;
-3) transport o oznaczeniu literowym T.
+
+3. Obszar objęty planem w granicach określonych w ust. 1 dzieli się na akweny o funkcji podstawowej, o której mowa w art. 37a ust. 3 zdanie pierwsze ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r. poz. 960, 1688 i 2029 oraz z 2024 r. poz. 731 i 834):
+
+- **1)** funkcjonowanie portu o oznaczeniu literowym Ip;
+- **2)** turystyka, sport i rekreacja o oznaczeniu literowym S;
+- **3)** transport o oznaczeniu literowym T.
+
 4. Akweny wskazano na rysunku planu stanowiącym część graficzną planu w skali 1:5 000, który stanowi załącznik nr 3 do rozporządzenia.
+
 5. Funkcjami dopuszczalnymi, o których mowa w art. 37a ust. 3 zdanie drugie ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej są następujące funkcje:
-1) badania naukowe o oznaczeniu literowym N;
-2) dziedzictwo kulturowe o oznaczeniu literowym D;
-3) funkcjonowanie portu o oznaczeniu literowym Ip;
-4) infrastruktura techniczna o oznaczeniu literowym I;
-5) ochrona środowiska i przyrody o oznaczeniu literowym O;
-6) poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż o oznaczeniu literowym K;
-7) sztuczne wyspy i konstrukcje o oznaczeniu literowym W;
-8) transport o oznaczeniu literowym T;
-9) turystyka, sport i rekreacja o oznaczeniu literowym S.
-§ 3. 1. Wykonywanie funkcji podstawowych i dopuszczalnych określonych dla poszczególnych akwenów lub ich podakwenów, wskazanych w rozstrzygnięciach szczegółowych zawartych w załączniku nr 2 do rozporządzenia, może być czasowo ograniczane poza ustaleniami planu ze względu na konieczność zapewnienia obronności i bezpieczeństwa państwa, bezpieczeństwa ratowania życia ludzkiego oraz ochrony środowiska i przyrody.
+
+- **1)** badania naukowe o oznaczeniu literowym N;
+- **2)** dziedzictwo kulturowe o oznaczeniu literowym D;
+- **3)** funkcjonowanie portu o oznaczeniu literowym Ip;
+- **4)** infrastruktura techniczna o oznaczeniu literowym I;
+- **5)** ochrona środowiska i przyrody o oznaczeniu literowym O;
+- **6)** poszukiwanie, rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż o oznaczeniu literowym K;
+- **7)** sztuczne wyspy i konstrukcje o oznaczeniu literowym W;
+- **8)** transport o oznaczeniu literowym T;
+- **9)** turystyka, sport i rekreacja o oznaczeniu literowym S.
+
+**§ 3.**
+
+1. Wykonywanie funkcji podstawowych i dopuszczalnych określonych dla poszczególnych akwenów lub ich podakwenów, wskazanych w rozstrzygnięciach szczegółowych zawartych w załączniku nr 2 do rozporządzenia, może być czasowo ograniczane poza ustaleniami planu ze względu na konieczność zapewnienia obronności i bezpieczeństwa państwa, bezpieczeństwa ratowania życia ludzkiego oraz ochrony środowiska i przyrody.
+
 2. Ochrona środowiska i przyrody stanowi istotny warunek podejmowania działań w poszczególnych akwenach niezależnie od tego, czy dotyczy to obszaru objętego ochroną prawną, czy też nie.
+
 3. Obszar objęty planem wyłączony jest na stałe z wykonywania rybołówstwa komercyjnego, z zastrzeżeniem rozstrzygnięć szczegółowych zawartych w kartach akwenów.
-§ 4. 1. We wszystkich akwenach obowiązuje ochrona przestrzenna podwodnego dziedzictwa kulturowego na zasadach określonych w przepisach ustawy z dnia 23 lipca 2003 r.
-o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951, 1688 i 1904) oraz ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, z uwzględnieniem ustalonych stref bezpieczeństwa wokół podwodnego dziedzictwa kulturowego i zasad obowiązujących w tych strefach.
+
+**§ 4.**
+
+1. We wszystkich akwenach obowiązuje ochrona przestrzenna podwodnego dziedzictwa kulturowego na zasadach określonych w przepisach ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951, 1688 i 1904) oraz ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, z uwzględnieniem ustalonych stref bezpieczeństwa wokół podwodnego dziedzictwa kulturowego i zasad obowiązujących w tych strefach.
+
 2. Poza sytuacjami nadzwyczajnymi użytkowanie obszaru objętego planem nie może prowadzić do uszkodzenia lub zniszczenia podwodnego dziedzictwa kulturowego w szczególności w związku z funkcjonowaniem portu, układaniem elementów liniowych, wznoszeniem sztucznych wysp, konstrukcji i urządzeń, uprawianiem turystyki, sportu i rekreacji, poszukiwaniem, rozpoznawaniem złóż kopalin oraz wydobywaniem kopalin ze złóż, a także prowadzeniem badań naukowych.
+
 3. W przypadku lokalizacji lub rozpoznania podwodnego dziedzictwa kulturowego, do czasu wyznaczenia wokół niego obszaru chronionego oraz zasad obowiązujących na tym obszarze zakazuje się prowadzenia prac mogących spowodować jego uszkodzenie.
+
 4. W obszarach przeznaczonych pod inwestycje, których prowadzenie może zagrozić podwodnemu dziedzictwu kulturowemu, przeprowadza się inwentaryzację archeologiczną.
-§ 5. 1. Układanie elementów liniowych, przebudowę, remont i utrzymanie elementów istniejących dopuszcza się w całym obszarze objętym planem, z tym że:
-1) nakazuje się układanie nowych elementów liniowych pod powierzchnią dna akwenu, a jeżeli nie jest to możliwe ze względów środowiskowych czy lub technologicznych – należy stosować inne zabezpieczenia trwale zapewniające bezpieczeństwo nawigacyjne;
-2) nakazuje się układanie nowych elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie, tj. możliwie prostopadle do linii brzegu i bez załamań kierunku oraz nakazuje się układanie wielu elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie oraz możliwie równolegle do już istniejącej, bezpośrednio sąsiadującej infrastruktury, z zachowaniem warunków określonych w przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725 i 834);
-3) zakazuje się układania elementów liniowych w sposób rozproszony;
-4) dopuszcza się układanie wylotów kolektorów służących do wprowadzenia ścieków lub wód do wód morskich we wszystkich akwenach przylegających do linii brzegu, w których dopuszczona jest funkcja infrastruktura techniczna, chyba że w kartach akwenów wprowadzono ograniczenia w tym zakresie;
-5) dopuszcza się układanie kolektorów do poboru i zrzutu wód na cele energetyki komunalnej we wszystkich akwenach przylegających do linii brzegu, w których dopuszczona jest funkcja infrastruktura techniczna, chyba że w kartach akwenów wprowadzono ograniczenia w tym zakresie.
+
+**§ 5.**
+
+1. Układanie elementów liniowych, przebudowę, remont i utrzymanie elementów istniejących dopuszcza się w całym obszarze objętym planem, z tym że:
+
+- **1)** nakazuje się układanie nowych elementów liniowych pod powierzchnią dna akwenu, a jeżeli nie jest to możliwe ze względów środowiskowych czy lub technologicznych – należy stosować inne zabezpieczenia trwale zapewniające bezpieczeństwo nawigacyjne;
+- **2)** nakazuje się układanie nowych elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie, tj. możliwie prostopadle do linii brzegu i bez załamań kierunku oraz nakazuje się układanie wielu elementów liniowych w sposób zapewniający najkrótszy ich przebieg po akwenie oraz możliwie równolegle do już istniejącej, bezpośrednio sąsiadującej infrastruktury, z zachowaniem warunków określonych w przepisach wydanych na podstawie art. 7 ust. 2 pkt 2 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725 i 834);
+- **3)** zakazuje się układania elementów liniowych w sposób rozproszony;
+- **4)** dopuszcza się układanie wylotów kolektorów służących do wprowadzenia ścieków lub wód do wód morskich we wszystkich akwenach przylegających do linii brzegu, w których dopuszczona jest funkcja infrastruktura techniczna, chyba że w kartach akwenów wprowadzono ograniczenia w tym zakresie;
+- **5)** dopuszcza się układanie kolektorów do poboru i zrzutu wód na cele energetyki komunalnej we wszystkich akwenach przylegających do linii brzegu, w których dopuszczona jest funkcja infrastruktura techniczna, chyba że w kartach akwenów wprowadzono ograniczenia w tym zakresie.
+
 2. Ustala się pas technologiczny wzdłuż projektowanych i istniejących elementów liniowych w poziomie dla linii kablowych SN i nN o szerokości 0,50 m (po 0,25 m po każdej ze stron od osi linii). W pasach technologicznych obowiązuje zakaz kotwiczenia, z wyłączeniem kotwiczenia awaryjnego oraz związanego z pracami instalacyjnymi i serwisowymi infrastruktury liniowej.
-3. Dopuszcza się układanie wylotów kolektorów służących do wprowadzania ścieków lub wód opadowych oraz roztopowych do wód morskich, a także wylotów przekopów służących wymianie wód we wszystkich akwenach przylegających do linii brzegowej, z zastrzeżeniem przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r.
-poz. 54 i 834), ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757) i ustawy z dnia 20 lipca 2017 r. – Prawo wodne oraz aktów wykonawczych wydanych na podstawie tych ustaw.
+
+3. Dopuszcza się układanie wylotów kolektorów służących do wprowadzania ścieków lub wód opadowych oraz roztopowych do wód morskich, a także wylotów przekopów służących wymianie wód we wszystkich akwenach przylegających do linii brzegowej, z zastrzeżeniem przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54 i 834), ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757) i ustawy z dnia 20 lipca 2017 r. – Prawo wodne oraz aktów wykonawczych wydanych na podstawie tych ustaw.
+
 4. Układanie elementów liniowych jest możliwe po spełnieniu warunków zawartych w pozwoleniu, o którym mowa w art. 26 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
-§ 6. 1. Poszukiwanie lub rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż jest dopuszczone na całym obszarze planu, z wyjątkiem akwenów o funkcji podstawowej transport, pod warunkiem, że działalność ta nie będzie uniemożliwiała wykorzystania akwenu zgodnie z jego funkcją podstawową.
+
+**§ 6.**
+
+1. Poszukiwanie lub rozpoznawanie złóż kopalin oraz wydobywanie kopalin ze złóż jest dopuszczone na całym obszarze planu, z wyjątkiem akwenów o funkcji podstawowej transport, pod warunkiem, że działalność ta nie będzie uniemożliwiała wykorzystania akwenu zgodnie z jego funkcją podstawową.
+
 2. Ustala się następujące ograniczenia w zakresie poszukiwania lub rozpoznawania złóż węglowodorów i wydobywania węglowodorów ze złóż:
-1) zakazuje się wznoszenia sztucznych wysp, konstrukcji i urządzeń służących do wydobycia węglowodorów;
-2) zakazuje się poszukiwania, rozpoznawania i wydobywania kopalin naruszającego elementy liniowe;
-3) ogranicza się realizację infrastruktury służącej do wydobycia węglowodorów do elementów liniowych wyprowadzających węglowodory na ląd, jak np. rurociągi.
-§ 7. 1. Celem zapewnia rozwoju portu wyznaczono akweny o funkcji transport.
+
+- **1)** zakazuje się wznoszenia sztucznych wysp, konstrukcji i urządzeń służących do wydobycia węglowodorów;
+- **2)** zakazuje się poszukiwania, rozpoznawania i wydobywania kopalin naruszającego elementy liniowe;
+- **3)** ogranicza się realizację infrastruktury służącej do wydobycia węglowodorów do elementów liniowych wyprowadzających węglowodory na ląd, jak np. rurociągi.
+
+**§ 7.**
+
+1. Celem zapewnia rozwoju portu wyznaczono akweny o funkcji transport.
+
 2. W całym obszarze objętym planem realizowana jest funkcja transport z ograniczeniami określonymi w kartach akwenów.
+
 3. Przemieszczanie się w polskich obszarach morskich jednostek Marynarki Wojennej, Straży Granicznej, Policji, Krajowej Administracji Skarbowej, ratownictwa morskiego, jednostek ochrony przeciwpożarowej oraz innych jednostek pływających pełniących specjalną służbę państwową nie podlega ustaleniom planu i wynikającym z nich zakazom lub ograniczeniom.
-§ 8. 1. W obszarze objętym planem, w celu zapewnienia bezpieczeństwa żeglugi:
-1) dopuszcza się lokalizację stałego i pływającego oznakowania nawigacyjnego;
-2) obiekty, które nie stanowią oznakowania nawigacyjnego, nie mogą przypominać go swoją formą, kolorystyką i charakterystyką świecenia świateł;
-3) zakazuje się oświetlania obiektów w sposób mogący powodować oślepianie załóg statków lub powodować zjawisko podświetlania tła znaków nawigacyjnych;
-4) nakazuje się utrzymanie widzialności świateł i konstrukcji znaków nawigacyjnych na potrzeby bezpieczeństwa nawigacyjnego.
+
+**§ 8.**
+
+1. W obszarze objętym planem, w celu zapewnienia bezpieczeństwa żeglugi:
+
+- **1)** dopuszcza się lokalizację stałego i pływającego oznakowania nawigacyjnego;
+- **2)** obiekty, które nie stanowią oznakowania nawigacyjnego, nie mogą przypominać go swoją formą, kolorystyką i charakterystyką świecenia świateł;
+- **3)** zakazuje się oświetlania obiektów w sposób mogący powodować oślepianie załóg statków lub powodować zjawisko podświetlania tła znaków nawigacyjnych;
+- **4)** nakazuje się utrzymanie widzialności świateł i konstrukcji znaków nawigacyjnych na potrzeby bezpieczeństwa nawigacyjnego.
+
 2. Ustanawia się obszary ochrony wizury znaków nawigacyjnych, w których obowiązują ograniczenia określone w kartach akwenów.
-§ 9. 1. W celu zapewnienia ochrony istniejących nabrzeży portowych oraz pozostałej infrastruktury portowej we wszystkich akwenach objętych planem budowa nowych obiektów oraz rozbudowa, przebudowa i remont obiektów istniejących uwzględnia sąsiedztwo istniejących lub projektowanych obiektów hydrotechnicznych i elementów liniowych oraz jest realizowana w sposób zapewniający nienaruszalność i stateczność tych obiektów lub gwarantujący usunięcie ewentualnych kolizji.
+
+**§ 9.**
+
+1. W celu zapewnienia ochrony istniejących nabrzeży portowych oraz pozostałej infrastruktury portowej we wszystkich akwenach objętych planem budowa nowych obiektów oraz rozbudowa, przebudowa i remont obiektów istniejących uwzględnia sąsiedztwo istniejących lub projektowanych obiektów hydrotechnicznych i elementów liniowych oraz jest realizowana w sposób zapewniający nienaruszalność i stateczność tych obiektów lub gwarantujący usunięcie ewentualnych kolizji.
+
 2. Budowa nowych elementów infrastruktury turystycznej, w tym pomostów, pirsów, slipów, plaż i przystani, jest dopuszczona w akwenach TRZI.1.Ip, TRZ.3.Ip i TRZ.4.S.
-§ 10. 1. W obszarze objętym planem, z zastrzeżeniem ust. 2, zakazuje się wznoszenia sztucznych wysp, konstrukcji i urządzeń:
-1) utrudniających dostęp do nabrzeży i innych miejsc do cumowania;
-2) naruszających elementy liniowe;
-3) w miejscach zagrażających stateczności budowli hydrotechnicznych;
-4) w sposób zagrażający bezpieczeństwu żeglugi lub utrudniający utrzymanie właściwych parametrów torów wodnych.
+
+**§ 10.**
+
+1. W obszarze objętym planem, z zastrzeżeniem ust. 2, zakazuje się wznoszenia sztucznych wysp, konstrukcji i urządzeń:
+
+- **1)** utrudniających dostęp do nabrzeży i innych miejsc do cumowania;
+- **2)** naruszających elementy liniowe;
+- **3)** w miejscach zagrażających stateczności budowli hydrotechnicznych;
+- **4)** w sposób zagrażający bezpieczeństwu żeglugi lub utrudniający utrzymanie właściwych parametrów torów wodnych.
+
 2. W akwenach o funkcji podstawowej transport obowiązuje zakaz lokalizacji sztucznych wysp, konstrukcji i urządzeń, które mogłyby mieć negatywny wpływ na warunki prowadzenia żeglugi.
-§ 11. 1. Badania naukowe mogą być prowadzone w całym obszarze objętym planem z ograniczeniami określonymi w kartach akwenów.
+
+**§ 11.**
+
+1. Badania naukowe mogą być prowadzone w całym obszarze objętym planem z ograniczeniami określonymi w kartach akwenów.
+
 2. Zakazuje się prowadzenia badań naukowych:
-1) naruszających stateczność budowli hydrotechnicznych;
-2) naruszających elementy liniowe;
-3) kolidujących z podstawową funkcją akwenu;
-4) zagrażających bezpieczeństwu żeglugi.
-§ 12. 1. Dla rozmieszczenia inwestycji celu publicznego wyznacza się akwen TRZ.2.T umożliwiający wykonywanie prac związanych z utrzymaniem ustalonych parametrów toru wodnego.
+
+- **1)** naruszających stateczność budowli hydrotechnicznych;
+- **2)** naruszających elementy liniowe;
+- **3)** kolidujących z podstawową funkcją akwenu;
+- **4)** zagrażających bezpieczeństwu żeglugi.
+
+**§ 12.**
+
+1. Dla rozmieszczenia inwestycji celu publicznego wyznacza się akwen TRZ.2.T umożliwiający wykonywanie prac związanych z utrzymaniem ustalonych parametrów toru wodnego.
+
 2. We wszystkich akwenach dopuszcza się lokalizację inwestycji celu publicznego przy uwzględnieniu ograniczeń zawartych w kartach akwenów.
+
 3. Inwestycje celu publicznego obejmujące zachowanie, serwisowanie i rozbudowę kabli optotelekomunikacyjnych są dopuszczone wraz z dodatkowymi ograniczeniami w akwenach o funkcji podstawowej transport oraz w pozostałych akwenach, o ile tak wskazano w kartach akwenów.
+
 4. Inwestycje obejmujące poszukiwanie lub rozpoznawanie złóż węglowodorów oraz wydobywanie węglowodorów ze złóż oraz poszukiwanie lub rozpoznawanie innych kopalin są dopuszczone na zasadach określonych w § 6.
+
 5. Inwestycje celu publicznego obejmujące opiekę nad dziedzictwem kulturowym stanowiącym zabytki w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, niebędące sztucznymi wyspami, konstrukcjami i urządzeniami, są dopuszczone we wszystkich akwenach objętych planem na zasadach określonych w § 4 oraz zgodnie z kartami akwenów.
+
 6. Inwestycje celu publicznego obejmujące zachowanie, serwisowanie i rozbudowę kolektorów dopuszczone są w akwenach, o których mowa w § 5 ust. 1 pkt 4 i 5.
+
 7. Inwestycje celu publicznego obejmujące budowę, utrzymywanie oraz wykonywanie robót budowlanych dróg wodnych, obiektów i urządzeń transportu publicznego są dopuszczone w akwenach i podakwenach o funkcji funkcjonowanie portu, zgodnie z kartami akwenów.
+
 8. Inwestycje celu publicznego obejmujące oznakowanie nawigacyjne są dopuszczone we wszystkich akwenach objętych planem.
+
 9. Budowa i utrzymywanie obiektów oraz urządzeń niezbędnych na potrzeby obronności państwa, a także do zapewnienia bezpieczeństwa publicznego, niebędących sztucznymi wyspami, konstrukcjami i urządzeniami, są dopuszczone we wszystkich akwenach objętych planem, zgodnie z kartami akwenów.
-§ 13. 1. W obszarze objętym planem ustala się priorytetowe kierunki rozwoju transportu i rozwoju infrastruktury technicznej obsługującej żeglugę, wyznaczając akwen TRZ.2.T zapewniający rozwój transportu i związanej z nimi infrastruktury technicznej oraz bezpieczną żeglugę na polskich obszarach morskich.
-2. W celu utrzymania parametrów torów wodnych określonych w akcie prawa miejscowego w sprawie określenia infrastruktury zapewniającej dostęp do portu morskiego w Trzebieży wydanym na podstawie art. 5 ust. 3 pkt 1 ustawy z dnia 20 grudnia 1996 r.
-o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796), dopuszcza się prowadzenie w ich obrębie prac pogłębiarskich, podczyszczeniowych i zasypowych.
-§ 14. Na obszarze objętym planem dopuszcza się zmianę linii brzegu oraz realizację robót zabezpieczających brzeg przed erozją lub powodzią.
-§ 15. 1. Wyznacza się akwen TRZ.1.Ip o funkcji podstawowej funkcjonowanie portu.
-Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h:
+
+**§ 13.**
+
+1. W obszarze objętym planem ustala się priorytetowe kierunki rozwoju transportu i rozwoju infrastruktury technicznej obsługującej żeglugę, wyznaczając akwen TRZ.2.T zapewniający rozwój transportu i związanej z nimi infrastruktury technicznej oraz bezpieczną żeglugę na polskich obszarach morskich.
+
+2. W celu utrzymania parametrów torów wodnych określonych w akcie prawa miejscowego w sprawie określenia infrastruktury zapewniającej dostęp do portu morskiego w Trzebieży wydanym na podstawie art. 5 ust. 3 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796), dopuszcza się prowadzenie w ich obrębie prac pogłębiarskich, podczyszczeniowych i zasypowych.
+
+**§ 14.** Na obszarze objętym planem dopuszcza się zmianę linii brzegu oraz realizację robót zabezpieczających brzeg przed erozją lub powodzią.
+
+**§ 15.**
+
+1. Wyznacza się akwen TRZ.1.Ip o funkcji podstawowej funkcjonowanie portu. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h:
+
 2. Wyznacza się akwen TRZ.2.T o funkcji podstawowej transport. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h:
+
 3. Wyznacza się akwen TRZ.3.Ip o funkcji podstawowej funkcjonowanie portu. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h:
-4. Wyznacza się akwen TRZ.4.S o funkcji podstawowej turystyka, sport i rekreacja.
-Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h: Załącznik nr 2
+
+4. Wyznacza się akwen TRZ.4.S o funkcji podstawowej turystyka, sport i rekreacja. Ustala się wykaz współrzędnych charakterystycznych punktów załamania granic obszaru określającego zasięg przestrzenny tego akwenu, podanych w układzie współrzędnych geocentrycznych geodezyjnych GRS80h: Załącznik nr 2
+
+## CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE SZCZEGÓŁOWYCH ROZSTRZYGNIĘĆ DOTYCZĄCYCH PRZEZNACZENIA POSZCZEGÓLNYCH AKWENÓW LUB ICH WYDZIELONYCH CZĘŚCI ORAZ INFORMACJI O SZCZEGÓLNIE ISTOTNYCH UWARUNKOWANIACH MAJĄCYCH WPŁYW NA PRZYSZŁE UŻYTKOWANIE POSZCZEGÓLNYCH AKWENÓW W POSTACI KART AKWENÓW
+
+## Załącznik
+
 § 1. Ustala się rozstrzygnięcia szczegółowe dla akwenu TRZ.1.Ip określone w karcie akwenu.
 KARTA AKWENU 1. OZNACZENIE LITEROWE TRZ.1.Ip Ip
 2. NUMER 3. OPIS AKWENU POŁOŻENIA
@@ -362,8 +447,4 @@ W celu zapewnienia ochrony nabrzeży portowych w akwenach o funkcji podstawowej 
 Jako kolejna funkcja podstawowa w obszarze objętym planem została wyznaczona funkcja turystyka, sport i rekreacja. Zasięg akwenu o tej funkcji wynikał z istniejących uwarunkowań obszaru objętego planem i terenu sąsiedniego (port jachtowy) oraz planowanych inwestycji turystyczno-rekreacyjnych na lądzie. Realizacja inwestycji związanych z rozbudową i przebudową infrastruktury portowej oraz realizacji nowych elementów infrastruktury turystycznej została ograniczona do sposobów niezagrażających stateczności budowli hydrotechnicznych w porcie.
 Podstawą rozstrzygnięć szczegółowych były zebrane materiały planistyczne oraz wnioski złożone przez interesariuszy. Najważniejsze informacje zebrane podczas inwentaryzacji zaprezentowane zostały na poniższym rysunku.
 RYSUNEK UWARUNKOWAŃ Załącznik nr 3 RYSUNEK PLANU STANOWIĄCY CZĘŚĆ CZĘŚĆ GRAFICZNĄ GRAFICZNĄ PLANU PLANU
-
-## CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE USTALEŃ OGÓLNYCH ZAWIERAJĄCYCH WSKAZANIE ROZSTRZYGNIĘĆ OBOWIĄZUJĄCYCH NA CZĘŚCI LUB NA CAŁYM OBSZARZE OBJĘTYM PLANEM, ROZSTRZYGNIĘĆ DOTYCZĄCYCH ROZMIESZCZENIA INWESTYCJI CELU PUBLICZNEGO ORAZ KIERUNKÓW ROZWOJU TRANSPORTU I INFRASTRUKTURY TECHNICZNEJ
-
-## CZĘŚĆ TEKSTOWA PLANU W ZAKRESIE SZCZEGÓŁOWYCH ROZSTRZYGNIĘĆ DOTYCZĄCYCH PRZEZNACZENIA POSZCZEGÓLNYCH AKWENÓW LUB ICH WYDZIELONYCH CZĘŚCI ORAZ INFORMACJI O SZCZEGÓLNIE ISTOTNYCH UWARUNKOWANIACH MAJĄCYCH WPŁYW NA PRZYSZŁE UŻYTKOWANIE POSZCZEGÓLNYCH AKWENÓW W POSTACI KART AKWENÓW
 

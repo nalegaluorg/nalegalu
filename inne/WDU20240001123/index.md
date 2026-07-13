@@ -27,9 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych Na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r.
 poz. 878) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 30 grudnia 2004 r. w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. z 2016 r. poz. 1488) odnośnik nr 2 otrzymuje brzmienie: „ Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy:
-1) Rady 98/24/WE z dnia 7 kwietnia 1998 r. w sprawie ochrony zdrowia i bezpieczeństwa pracowników przed ryzykiem związanym ze środkami chemicznymi w miejscu pracy (czternasta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/931/EWG) (Dz. Urz. WE L 131 z 05.05.1998 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 05, t. 03, str. 279, Dz. Urz. UE L 165 z 27.06.2007, str. 21, Dz. Urz. UE L 65 z 05.03.2014, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 2024/869 z 19.03.2024);
-2) Parlamentu Europejskiego i Rady (UE) 2022/431 z dnia 9 marca 2022 r. zmieniającej dyrektywę 2004/37/WE w sprawie ochrony pracowników przed zagrożeniem dotyczącym narażenia na działanie czynników rakotwórczych lub mutagenów podczas pracy (Dz. Urz. UE L 88 z 16.03.2022, str. 1 oraz Dz. Urz. UE L 2023/90090 z 14.11.2023).”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 28 lipca 2024 r.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 30 grudnia 2004 r. w sprawie bezpieczeństwa i higieny pracy związanej z występowaniem w miejscu pracy czynników chemicznych (Dz. U. z 2016 r. poz. 1488) odnośnik nr 2 otrzymuje brzmienie:
+
+> „ Niniejsze rozporządzenie dokonuje w zakresie swojej regulacji wdrożenia dyrektywy:  
+> 1) Rady 98/24/WE z dnia 7 kwietnia 1998 r. w sprawie ochrony zdrowia i bezpieczeństwa pracowników przed ryzykiem związanym ze środkami chemicznymi w miejscu pracy (czternasta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/931/EWG) (Dz. Urz. WE L 131 z 05.05.1998 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 05, t. 03, str. 279, Dz. Urz. UE L 165 z 27.06.2007, str. 21, Dz. Urz. UE L 65 z 05.03.2014, str. 1, Dz. Urz. UE L 198 z 25.07.2019, str. 241 oraz Dz. Urz. UE L 2024/869 z 19.03.2024);  
+> 2) Parlamentu Europejskiego i Rady (UE) 2022/431 z dnia 9 marca 2022 r. zmieniającej dyrektywę 2004/37/WE w sprawie ochrony pracowników przed zagrożeniem dotyczącym narażenia na działanie czynników rakotwórczych lub mutagenów podczas pracy (Dz. Urz. UE L 88 z 16.03.2022, str. 1 oraz Dz. Urz. UE L 2023/90090 z 14.11.2023).”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 28 lipca 2024 r. Minister Zdrowia: wz. W. Konieczny
 

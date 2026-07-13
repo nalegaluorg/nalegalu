@@ -26,15 +26,20 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000815) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/815/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji Na podstawie art. 31m ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 15 grudnia 2014 r. w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 1862) w załączniku do rozporządzenia wprowadza się następujące zmiany:
-1) w § 1 w ust. 3:
-a) uchyla się pkt 5,
-b) po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) Wydział Świadczeń Opieki Zdrowotnej;”;
-2) § 2 otrzymuje brzmienie: „§ 2. 1. Prezesowi Agencji bezpośrednio podlegają komórki organizacyjne, o których mowa w § 1 ust. 3 pkt 1 − 5a oraz 8 − 10.
-2. Zastępcy Prezesa Agencji do spraw Oceny Technologii Medycznych bezpośrednio podlega komórka organizacyjna, o której mowa w § 1 ust. 3 pkt 6.
-3. Zastępcy Prezesa Agencji do spraw Taryfikacji bezpośrednio podlega komórka organizacyjna, o której mowa w § 1 ust. 3 pkt 7.
-4. Prezesa Agencji, w razie jego nieobecności, zastępuje wskazany przez niego Zastępca Prezesa Agencji.
-W razie nieobecności Zastępców Prezesa Agencji, Prezesa Agencji zastępuje Dyrektor Biura Prezesa.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: K. Radziwiłł
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 15 grudnia 2014 r. w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 1862) w załączniku do rozporządzenia wprowadza się następujące zmiany:
+
+- **1)** w § 1 w ust. 3:
+    - **a)** uchyla się pkt 5,
+    - **b)** po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) Wydział Świadczeń Opieki Zdrowotnej;”;
+
+- **2)** § 2 otrzymuje brzmienie:
+
+  > „§ 2.  
+  > 1. Prezesowi Agencji bezpośrednio podlegają komórki organizacyjne, o których mowa w § 1 ust. 3 pkt 1 − 5a oraz 8 − 10.  
+  > 2. Zastępcy Prezesa Agencji do spraw Oceny Technologii Medycznych bezpośrednio podlega komórka organizacyjna, o której mowa w § 1 ust. 3 pkt 6.  
+  > 3. Zastępcy Prezesa Agencji do spraw Taryfikacji bezpośrednio podlega komórka organizacyjna, o której mowa w § 1 ust. 3 pkt 7.  
+  > 4. Prezesa Agencji, w razie jego nieobecności, zastępuje wskazany przez niego Zastępca Prezesa Agencji. W razie nieobecności Zastępców Prezesa Agencji, Prezesa Agencji zastępuje Dyrektor Biura Prezesa.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: K. Radziwiłł
 

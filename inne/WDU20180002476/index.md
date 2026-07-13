@@ -26,44 +26,61 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002476) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2476/text.pdf) |
 
 w sprawie ewidencji oraz sposobu oznakowania kąpielisk i miejsc okazjonalnie wykorzystywanych do kąpieli Na podstawie art. 49 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) szczegółowy zakres informacji objętych ewidencją kąpielisk oraz miejsc okazjonalnie wykorzystywanych do kąpieli;
-2) wzór ewidencji kąpielisk oraz ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli;
-3) sposób oznakowania kąpieliska oraz miejsca okazjonalnie wykorzystywanego do kąpieli.
-§ 2. 1. Szczegółowy zakres informacji objętych ewidencją kąpielisk oraz wzór ewidencji kąpielisk określa załącznik nr 1 do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** szczegółowy zakres informacji objętych ewidencją kąpielisk oraz miejsc okazjonalnie wykorzystywanych do kąpieli;
+- **2)** wzór ewidencji kąpielisk oraz ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli;
+- **3)** sposób oznakowania kąpieliska oraz miejsca okazjonalnie wykorzystywanego do kąpieli.
+
+**§ 2.**
+
+1. Szczegółowy zakres informacji objętych ewidencją kąpielisk oraz wzór ewidencji kąpielisk określa załącznik nr 1 do rozporządzenia.
+
 2. Szczegółowy zakres informacji objętych ewidencją miejsc okazjonalnie wykorzystywanych do kąpieli oraz wzór ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli określa załącznik nr 2 do rozporządzenia.
-§ 3. Kąpielisko oznacza się przy użyciu tablicy informacyjnej lub przy użyciu urządzenia umożliwiającego zapoznanie się z informacjami, umieszczonych w łatwo dostępnym i widocznym miejscu, w bliskim sąsiedztwie każdego kąpieliska, zawierających:
-1) napis: „Kąpielisko” i jego nazwę;
-2) adres, telefon i adres strony internetowej właściwego urzędu gminy odpowiedzialnego za określenie wykazu kąpielisk i prowadzenie ich ewidencji oraz udzielanie informacji społeczeństwu;
-3) nazwę albo imię i nazwisko, adres i numer telefonu organizatora kąpieliska; w przypadku gdy organizatorem kąpieliska jest osoba fizyczna, może on odstąpić od umieszczenia adresu;
-4) adres i numer telefonu właściwego państwowego inspektora sanitarnego kontrolującego dane kąpielisko oraz adres strony internetowej serwisu kąpieliskowego prowadzonego przez organy Państwowej Inspekcji Sanitarnej;
-5) bieżącą ocenę jakości wody w kąpielisku;
-6) klasyfikację jakości wody w kąpielisku;
-7) ogólny opis wody w kąpielisku, sporządzony w oparciu o profil wody w kąpielisku, przedstawiony w języku nietechnicznym;
-8) w przypadku wód w kąpieliskach, w których mogą występować krótkotrwałe zanieczyszczenia, informacje:
-a) o możliwości występowania krótkotrwałych zanieczyszczeń,
-b) o liczbie dni, w których kąpiel była zakazana w czasie poprzedniego sezonu kąpielowego, z uwagi na krótkotrwałe zanieczyszczenie,
-c) stanowiące ostrzeżenie o każdym takim występującym lub przewidywanym zanieczyszczeniu;
-9) rodzaj i spodziewany czas trwania sytuacji wyjątkowej podawany w trakcie wydarzeń lub splotu wydarzeń mających wpływ na jakość wody w kąpielisku w danej lokalizacji, którego występowania nie przewiduje się przeciętnie częściej niż raz na cztery lata;
-10) informację o zakazie kąpieli wraz ze wskazaniem przyczyny zakazu;
-11) informację o sezonie kąpielowym określonym dla kąpieliska;
-12) dane o temperaturze wody, temperaturze powietrza i sile wiatru.
-§ 4. Miejsce okazjonalnie wykorzystywane do kąpieli oznacza się przy użyciu tablicy informacyjnej lub przy użyciu urządzenia umożliwiającego zapoznanie się z informacjami, umieszczonych w łatwo dostępnym i widocznym miejscu, w jego bezpośrednim sąsiedztwie, zawierających:
-1) napis: „Miejsce okazjonalnie wykorzystywane do kąpieli” i jego nazwę;
-2) adres, telefon i adres strony internetowej właściwego urzędu gminy odpowiedzialnego za prowadzenie ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli i udzielanie informacji społeczeństwu;
-3) nazwę albo imię i nazwisko, adres i numer telefonu organizatora miejsca okazjonalnie wykorzystywanego do kąpieli;
-w przypadku gdy organizatorem miejsca okazjonalnie wykorzystywanego do kąpieli jest osoba fizyczna, może ona odstąpić od umieszczenia adresu;
-4) adres i numer telefonu właściwego państwowego inspektora sanitarnego kontrolującego dane miejsce okazjonalnie wykorzystywane do kąpieli;
-5) bieżącą ocenę jakości wody w miejscu okazjonalnie wykorzystywanym do kąpieli;
-6) informację o zakazie kąpieli w miejscu okazjonalnie wykorzystywanym do kąpieli wraz ze wskazaniem przyczyny zakazu;
-7) informację o sezonie kąpielowym określonym dla miejsca okazjonalnie wykorzystywanego do kąpieli.
-§ 5. 1. Tablica informacyjna, o której mowa w § 3 i § 4, ma kształt prostokąta o wymiarach co najmniej 100 cm x 80 cm.
-Napisy na tablicy informacyjnej wykonuje się w sposób czytelny, na sztywnej płycie.
+
+**§ 3.** Kąpielisko oznacza się przy użyciu tablicy informacyjnej lub przy użyciu urządzenia umożliwiającego zapoznanie się z informacjami, umieszczonych w łatwo dostępnym i widocznym miejscu, w bliskim sąsiedztwie każdego kąpieliska, zawierających:
+
+- **1)** napis: „Kąpielisko” i jego nazwę;
+- **2)** adres, telefon i adres strony internetowej właściwego urzędu gminy odpowiedzialnego za określenie wykazu kąpielisk i prowadzenie ich ewidencji oraz udzielanie informacji społeczeństwu;
+- **3)** nazwę albo imię i nazwisko, adres i numer telefonu organizatora kąpieliska; w przypadku gdy organizatorem kąpieliska jest osoba fizyczna, może on odstąpić od umieszczenia adresu;
+- **4)** adres i numer telefonu właściwego państwowego inspektora sanitarnego kontrolującego dane kąpielisko oraz adres strony internetowej serwisu kąpieliskowego prowadzonego przez organy Państwowej Inspekcji Sanitarnej;
+- **5)** bieżącą ocenę jakości wody w kąpielisku;
+- **6)** klasyfikację jakości wody w kąpielisku;
+- **7)** ogólny opis wody w kąpielisku, sporządzony w oparciu o profil wody w kąpielisku, przedstawiony w języku nietechnicznym;
+- **8)** w przypadku wód w kąpieliskach, w których mogą występować krótkotrwałe zanieczyszczenia, informacje:
+    - **a)** o możliwości występowania krótkotrwałych zanieczyszczeń,
+    - **b)** o liczbie dni, w których kąpiel była zakazana w czasie poprzedniego sezonu kąpielowego, z uwagi na krótkotrwałe zanieczyszczenie,
+    - **c)** stanowiące ostrzeżenie o każdym takim występującym lub przewidywanym zanieczyszczeniu;
+
+- **9)** rodzaj i spodziewany czas trwania sytuacji wyjątkowej podawany w trakcie wydarzeń lub splotu wydarzeń mających wpływ na jakość wody w kąpielisku w danej lokalizacji, którego występowania nie przewiduje się przeciętnie częściej niż raz na cztery lata;
+- **10)** informację o zakazie kąpieli wraz ze wskazaniem przyczyny zakazu;
+- **11)** informację o sezonie kąpielowym określonym dla kąpieliska;
+- **12)** dane o temperaturze wody, temperaturze powietrza i sile wiatru.
+
+**§ 4.** Miejsce okazjonalnie wykorzystywane do kąpieli oznacza się przy użyciu tablicy informacyjnej lub przy użyciu urządzenia umożliwiającego zapoznanie się z informacjami, umieszczonych w łatwo dostępnym i widocznym miejscu, w jego bezpośrednim sąsiedztwie, zawierających:
+
+- **1)** napis: „Miejsce okazjonalnie wykorzystywane do kąpieli” i jego nazwę;
+- **2)** adres, telefon i adres strony internetowej właściwego urzędu gminy odpowiedzialnego za prowadzenie ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli i udzielanie informacji społeczeństwu;
+- **3)** nazwę albo imię i nazwisko, adres i numer telefonu organizatora miejsca okazjonalnie wykorzystywanego do kąpieli; w przypadku gdy organizatorem miejsca okazjonalnie wykorzystywanego do kąpieli jest osoba fizyczna, może ona odstąpić od umieszczenia adresu;
+- **4)** adres i numer telefonu właściwego państwowego inspektora sanitarnego kontrolującego dane miejsce okazjonalnie wykorzystywane do kąpieli;
+- **5)** bieżącą ocenę jakości wody w miejscu okazjonalnie wykorzystywanym do kąpieli;
+- **6)** informację o zakazie kąpieli w miejscu okazjonalnie wykorzystywanym do kąpieli wraz ze wskazaniem przyczyny zakazu;
+- **7)** informację o sezonie kąpielowym określonym dla miejsca okazjonalnie wykorzystywanego do kąpieli.
+
+**§ 5.**
+
+1. Tablica informacyjna, o której mowa w § 3 i § 4, ma kształt prostokąta o wymiarach co najmniej 100 cm x 80 cm. Napisy na tablicy informacyjnej wykonuje się w sposób czytelny, na sztywnej płycie.
+
 2. Urządzenie, o którym mowa w § 3 i § 4, ma kształt prostokąta o wymiarach co najmniej 100 cm x 80 cm.
+
 3. Na tablicy informacyjnej lub urządzeniu, o których mowa w § 3 i § 4, można zamieścić rozrysowanie planu sytuacyjnego obiektu.
+
 4. Znak informujący o zakazie kąpieli umieszcza się na tablicy informacyjnej lub urządzeniu, o których mowa w § 3 i § 4, lub w ich bezpośrednim sąsiedztwie.
+
 5. Tablica informacyjna lub urządzenie, o których mowa w § 3 i § 4, zapewniają dostęp do czytelnej informacji dotyczącej kąpieliska lub miejsca okazjonalnie wykorzystywanego do kąpieli.
-§ 6. Symbole informujące o zakazie kąpieli w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli oraz klasyfikacji wody w kąpielisku, kolorystykę symboli oraz rozmiary i obszary ochronne znaków informujących o zakazie kąpieli w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli oraz klasyfikacji wody w kąpielisku określa załącznik nr 3 do rozporządzenia.
-§ 7. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-Minister Zdrowia: wz. J. Szczurek-Żelazko … M W ……… W Załącznik nr 3 Symbole informujące o zakazie kąpieli w kąpielisku i miejscu okazjonalnie wykorzystywanym SYMBOLE INFORMUJĄCE O ZAKAZIE KĄPIELI W KĄPIELISKU I MIEJSCU OKAZJONALNIE WYKORZYSTYWANYM do kąpieli oraz klasyfikacji DO KĄPIELI wody ORAZ w kąpielisku, KLASYFIKACJI kolorystyka WODY W symboli KĄPIELISKU, oraz KOLORYSTYKA rozmiary i obszary SYMBOLI ORAZ ROZMIARY I OBSZARY OCHRONNE ZNAKÓW INFORMUJĄCYCH O ZAKAZIE KĄPIELI W KĄPIELISKU ochronne I MIEJSCU znaków OKAZJONALNIE informujących WYKORZYSTYWANYM o zakazie kąpieli DO w KĄPIELI kąpielisku ORAZ i miejscu KLASYFIKACJI okazjonalnie WODY wykorzystywanym do kąpieli W KĄPIELISKU oraz klasyfikacji wody w kąpielisku A. Symbole informujące o zakazie kąpieli w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli oraz klasyfikacji wody w kąpielisku 4 B. Kolorystyka symboli C. Rozmiary i obszary ochronne znaków informujących o zakazie kąpieli w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli oraz klasyfikacji wody w kąpielisku 5 6
+
+**§ 6.** Symbole informujące o zakazie kąpieli w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli oraz klasyfikacji wody w kąpielisku, kolorystykę symboli oraz rozmiary i obszary ochronne znaków informujących o zakazie kąpieli w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli oraz klasyfikacji wody w kąpielisku określa załącznik nr 3 do rozporządzenia.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. Minister Zdrowia: wz. J. Szczurek-Żelazko … M W ……… W Załącznik nr 3 Symbole informujące o zakazie kąpieli w kąpielisku i miejscu okazjonalnie wykorzystywanym SYMBOLE INFORMUJĄCE O ZAKAZIE KĄPIELI W KĄPIELISKU I MIEJSCU OKAZJONALNIE WYKORZYSTYWANYM do kąpieli oraz klasyfikacji DO KĄPIELI wody ORAZ w kąpielisku, KLASYFIKACJI kolorystyka WODY W symboli KĄPIELISKU, oraz KOLORYSTYKA rozmiary i obszary SYMBOLI ORAZ ROZMIARY I OBSZARY OCHRONNE ZNAKÓW INFORMUJĄCYCH O ZAKAZIE KĄPIELI W KĄPIELISKU ochronne I MIEJSCU znaków OKAZJONALNIE informujących WYKORZYSTYWANYM o zakazie kąpieli DO w KĄPIELI kąpielisku ORAZ i miejscu KLASYFIKACJI okazjonalnie WODY wykorzystywanym do kąpieli W KĄPIELISKU oraz klasyfikacji wody w kąpielisku A. Symbole informujące o zakazie kąpieli w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli oraz klasyfikacji wody w kąpielisku 4 B. Kolorystyka symboli C. Rozmiary i obszary ochronne znaków informujących o zakazie kąpieli w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli oraz klasyfikacji wody w kąpielisku 5 6
 

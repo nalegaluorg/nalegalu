@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego Na podstawie art. 47 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r.
 poz. 1921 i 2020) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 29 sierpnia 2006 r. w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 1171) uchyla się § 9.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 29 sierpnia 2006 r. w sprawie szczegółowych warunków oraz trybu przygotowywania, prowadzenia i dokumentowania czynności kontrolnych przez funkcjonariuszy Centralnego Biura Antykorupcyjnego (Dz. U. poz. 1171) uchyla się § 9.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

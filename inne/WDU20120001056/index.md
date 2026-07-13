@@ -26,30 +26,43 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001056) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1056/text.pdf) |
 
 w sprawie uzupełnienia i uaktualnienia zestawienia zbiorczego nieruchomości Skarbu Państwa i jednostek samorządu terytorialnego dla obszaru całego kraju Na podstawie art. 4b ustawy z dnia 7 września 2007 r. o ujawnieniu w księgach wieczystych prawa własności nieruchomości Skarbu Państwa oraz jednostek samorządu terytorialnego (Dz. U. Nr 191, poz. 1365, z 2008 r. Nr 116, poz. 733 oraz z 2012 r. poz. 840) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) zakres uzupełnienia wykazu, o którym mowa w art. 1 ust. 1 ustawy z dnia 7 września 2007 r. o ujawnieniu w księgach wieczystych prawa własności nieruchomości Skarbu Państwa oraz jednostek samorządu terytorialnego, zwanej dalej „ustawą”;
-2) sposób i formę przekazywania uzupełnionego wykazu, o którym mowa w art. 1a ust. 1 ustawy;
-3) sposób i formę przekazywania danych, o których mowa w art. 1a ust. 4 ustawy;
-4) sposób dokonania uzupełnienia zestawienia zbiorczego, o którym mowa w art. 1a ust. 6 ustawy;
-5) zakres informacji zawartych w sprawozdaniach, o których mowa w art. 4a ust. 1 ustawy;
-6) sposób i formę przekazywania sprawozdań, o których mowa w art. 4a ust. 1 ustawy;
-7) sposób i formę przekazywania danych, o których mowa w art. 4a ust. 2 ustawy;
-8) sposób dokonywania uaktualnienia zestawienia zbiorczego, o którym mowa w art. 4a ust. 2 ustawy.
-§ 2. Wykaz nieruchomości, które na mocy odrębnych przepisów przeszły na własność Skarbu Państwa i stanowią jego własność albo własność jednostek samorządu terytorialnego, a także niestanowiących własności Skarbu Państwa albo własności jednostek samorządu terytorialnego i niepozostających w posiadaniu ich właścicieli, nieruchomościach zabudowanych, w których lokale zajmowane są przez osoby objęte przepisami ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm. ), o którym mowa w art. 1 ust. 1 ustawy, uzupełnia się o:
-1) informacje o nieruchomościach nieujętych w tym wykazie w terminie określonym w art. 1 ust. 1 ustawy;
-2) wymagane informacje niezawarte w tym wykazie.
-§ 3. 1. Starostowie przekażą uzupełnione wykazy marszałkom województw, wójtom, burmistrzom i prezydentom miast oraz innym niż starostowie organom reprezentującym Skarb Państwa w sprawach gospodarowania nieruchomościami, o których mowa w art. 2 ust. 2 ustawy, w formie dokumentu elektronicznego, wygenerowanego z wykorzystaniem infrastruktury teleinformatycznej, służącego uzupełnieniu wykazu, o którym mowa w art. 1a ust. 1 ustawy, a także przekazywaniu sprawozdań, o których mowa w art. 4a ust. 1 ustawy, którego wzór stanowi załącznik do rozporządzenia. Przekazanie nastąpi z wykorzystaniem informatycznych nośników danych, o których mowa w art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r.
-o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm. ), lub środków komunikacji elektronicznej – w postaci elektronicznych plików xls.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** zakres uzupełnienia wykazu, o którym mowa w art. 1 ust. 1 ustawy z dnia 7 września 2007 r. o ujawnieniu w księgach wieczystych prawa własności nieruchomości Skarbu Państwa oraz jednostek samorządu terytorialnego, zwanej dalej „ustawą”;
+- **2)** sposób i formę przekazywania uzupełnionego wykazu, o którym mowa w art. 1a ust. 1 ustawy;
+- **3)** sposób i formę przekazywania danych, o których mowa w art. 1a ust. 4 ustawy;
+- **4)** sposób dokonania uzupełnienia zestawienia zbiorczego, o którym mowa w art. 1a ust. 6 ustawy;
+- **5)** zakres informacji zawartych w sprawozdaniach, o których mowa w art. 4a ust. 1 ustawy;
+- **6)** sposób i formę przekazywania sprawozdań, o których mowa w art. 4a ust. 1 ustawy;
+- **7)** sposób i formę przekazywania danych, o których mowa w art. 4a ust. 2 ustawy;
+- **8)** sposób dokonywania uaktualnienia zestawienia zbiorczego, o którym mowa w art. 4a ust. 2 ustawy.
+
+**§ 2.** Wykaz nieruchomości, które na mocy odrębnych przepisów przeszły na własność Skarbu Państwa i stanowią jego własność albo własność jednostek samorządu terytorialnego, a także niestanowiących własności Skarbu Państwa albo własności jednostek samorządu terytorialnego i niepozostających w posiadaniu ich właścicieli, nieruchomościach zabudowanych, w których lokale zajmowane są przez osoby objęte przepisami ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm. ), o którym mowa w art. 1 ust. 1 ustawy, uzupełnia się o:
+
+- **1)** informacje o nieruchomościach nieujętych w tym wykazie w terminie określonym w art. 1 ust. 1 ustawy;
+- **2)** wymagane informacje niezawarte w tym wykazie.
+
+**§ 3.**
+
+1. Starostowie przekażą uzupełnione wykazy marszałkom województw, wójtom, burmistrzom i prezydentom miast oraz innym niż starostowie organom reprezentującym Skarb Państwa w sprawach gospodarowania nieruchomościami, o których mowa w art. 2 ust. 2 ustawy, w formie dokumentu elektronicznego, wygenerowanego z wykorzystaniem infrastruktury teleinformatycznej, służącego uzupełnieniu wykazu, o którym mowa w art. 1a ust. 1 ustawy, a także przekazywaniu sprawozdań, o których mowa w art. 4a ust. 1 ustawy, którego wzór stanowi załącznik do rozporządzenia. Przekazanie nastąpi z wykorzystaniem informatycznych nośników danych, o których mowa w art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm. ), lub środków komunikacji elektronicznej – w postaci elektronicznych plików xls.
+
 2. Starostowie przekażą wojewodom, w formie dokumentu elektronicznego, o którym mowa w ust. 1, uzupełnione wykazy. Przekazanie nastąpi z wykorzystaniem infrastruktury teleinformatycznej w postaci elektronicznych plików xls.
-§ 4. Główny Geodeta Kraju dokona uzupełnienia zestawienia zbiorczego dla obszaru całego kraju przez agregację otrzymanych od wojewodów danych, o których mowa w art. 1a ust. 4 ustawy, przekazanych w formie elektronicznej z wykorzystaniem infrastruktury teleinformatycznej umożliwiającej automatyczną ich agregację oraz transfer.
-§ 5. Sprawozdanie, o którym mowa w art. 4a ust. 1 ustawy, zawiera informacje z wykazu, o którym mowa w art. 1 ust. 1 ustawy, i dodatkowo:
-1) informację o tym, czy działka ewidencyjna wchodzi w skład nieruchomości ujawnionej w księdze wieczystej;
-2) datę złożenia wniosku o stwierdzenie nabycia własności nieruchomości;
-3) datę złożenia wniosku o ujawnienie prawa własności nieruchomości w księdze wieczystej;
-4) uwagi dotyczące przebiegu procesu regulacji stanu prawnego.
-§ 6. W terminie 3 miesięcy przed upływem każdego półrocza wojewodowie generują z wykorzystaniem infrastruktury teleinformatycznej dokumenty elektroniczne, o których mowa w § 3 ust. 1, i przekazują je marszałkom województw, wójtom, burmistrzom i prezydentom miast oraz innym niż starostowie organom reprezentującym Skarb Państwa w sprawach gospodarowania nieruchomościami, o których mowa w art. 2 ust. 2 ustawy. W odniesieniu do nieruchomości stanowiących własność powiatu oraz tych nieruchomości stanowiących własność Skarbu Państwa, wobec których starosta pełni rolę organu właścicielskiego, dokumenty elektroniczne generują starostowie.
-§ 7. Marszałkowie województw, starostowie, wójtowie, burmistrzowie i prezydenci miast oraz inne niż starostowie organy reprezentujące Skarb Państwa w sprawach gospodarowania nieruchomościami, o których mowa w art. 2 ust. 2 ustawy, przekazują wojewodom, w formie dokumentu elektronicznego, o którym mowa w § 3 ust. 1, sprawozdania, o których mowa w art. 4a ust. 1 ustawy. Przekazanie następuje w postaci elektronicznych plików xls, z wykorzystaniem informatycznych nośników danych, środków komunikacji elektronicznej lub infrastruktury teleinformatycznej – w przypadku podmiotów mających do niej dostęp. Sprawozdania przekazuje się do dnia 15 stycznia 2015 r.
-§ 8. Główny Geodeta Kraju dokonuje uaktualnienia zestawienia zbiorczego dla obszaru całego kraju przez agregację otrzymanych od wojewodów danych, o których mowa w art. 4a ust. 2 ustawy, przekazywanych w formie elektronicznej z wykorzystaniem infrastruktury teleinformatycznej umożliwiającej automatyczną ich agregację oraz transfer.
-§ 9. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Administracji i Cyfryzacji: M. Boni wóknydub i wótnurg ijcnediwe w hcynad ainezdwarps ataD wóknydub i wótnurg ijcnediwe w ynaimz jeintatso ataD ąicśomohcurein ycąjadałW ynwarp łutyT ćśomohcurein hcycązrowt hcynjycnediwe kełaizd abzciL ]ah[ icśomohcurein ainhczreiwoP ]ah[ jenjycnediwe ikłaizd ainhczreiwoP jenjycnediwe ikłaizd rotakifytnedI awzan - ynjycnediwe bęrbO awzan - anjycnediwe aktsondeJ icśomohcurein .pL leicicśałW ijcakifydom kinzcanZ ywatsu 1 .tsu a4 .tra w awom hcyrótk o ,ńadzowarps uinawyzakezrp eżkat a ,ywatsu 1 .tsu a1 .tra w awom myrótk o ,uzakyw uineinłepuzu ogecążułs ogenzcinortkele utnemukod rózW
+
+**§ 4.** Główny Geodeta Kraju dokona uzupełnienia zestawienia zbiorczego dla obszaru całego kraju przez agregację otrzymanych od wojewodów danych, o których mowa w art. 1a ust. 4 ustawy, przekazanych w formie elektronicznej z wykorzystaniem infrastruktury teleinformatycznej umożliwiającej automatyczną ich agregację oraz transfer.
+
+**§ 5.** Sprawozdanie, o którym mowa w art. 4a ust. 1 ustawy, zawiera informacje z wykazu, o którym mowa w art. 1 ust. 1 ustawy, i dodatkowo:
+
+- **1)** informację o tym, czy działka ewidencyjna wchodzi w skład nieruchomości ujawnionej w księdze wieczystej;
+- **2)** datę złożenia wniosku o stwierdzenie nabycia własności nieruchomości;
+- **3)** datę złożenia wniosku o ujawnienie prawa własności nieruchomości w księdze wieczystej;
+- **4)** uwagi dotyczące przebiegu procesu regulacji stanu prawnego.
+
+**§ 6.** W terminie 3 miesięcy przed upływem każdego półrocza wojewodowie generują z wykorzystaniem infrastruktury teleinformatycznej dokumenty elektroniczne, o których mowa w § 3 ust. 1, i przekazują je marszałkom województw, wójtom, burmistrzom i prezydentom miast oraz innym niż starostowie organom reprezentującym Skarb Państwa w sprawach gospodarowania nieruchomościami, o których mowa w art. 2 ust. 2 ustawy. W odniesieniu do nieruchomości stanowiących własność powiatu oraz tych nieruchomości stanowiących własność Skarbu Państwa, wobec których starosta pełni rolę organu właścicielskiego, dokumenty elektroniczne generują starostowie.
+
+**§ 7.** Marszałkowie województw, starostowie, wójtowie, burmistrzowie i prezydenci miast oraz inne niż starostowie organy reprezentujące Skarb Państwa w sprawach gospodarowania nieruchomościami, o których mowa w art. 2 ust. 2 ustawy, przekazują wojewodom, w formie dokumentu elektronicznego, o którym mowa w § 3 ust. 1, sprawozdania, o których mowa w art. 4a ust. 1 ustawy. Przekazanie następuje w postaci elektronicznych plików xls, z wykorzystaniem informatycznych nośników danych, środków komunikacji elektronicznej lub infrastruktury teleinformatycznej – w przypadku podmiotów mających do niej dostęp. Sprawozdania przekazuje się do dnia 15 stycznia 2015 r.
+
+**§ 8.** Główny Geodeta Kraju dokonuje uaktualnienia zestawienia zbiorczego dla obszaru całego kraju przez agregację otrzymanych od wojewodów danych, o których mowa w art. 4a ust. 2 ustawy, przekazywanych w formie elektronicznej z wykorzystaniem infrastruktury teleinformatycznej umożliwiającej automatyczną ich agregację oraz transfer.
+
+**§ 9.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Administracji i Cyfryzacji: M. Boni wóknydub i wótnurg ijcnediwe w hcynad ainezdwarps ataD wóknydub i wótnurg ijcnediwe w ynaimz jeintatso ataD ąicśomohcurein ycąjadałW ynwarp łutyT ćśomohcurein hcycązrowt hcynjycnediwe kełaizd abzciL ]ah[ icśomohcurein ainhczreiwoP ]ah[ jenjycnediwe ikłaizd ainhczreiwoP jenjycnediwe ikłaizd rotakifytnedI awzan - ynjycnediwe bęrbO awzan - anjycnediwe aktsondeJ icśomohcurein .pL leicicśałW ijcakifydom kinzcanZ ywatsu 1 .tsu a4 .tra w awom hcyrótk o ,ńadzowarps uinawyzakezrp eżkat a ,ywatsu 1 .tsu a1 .tra w awom myrótk o ,uzakyw uineinłepuzu ogecążułs ogenzcinortkele utnemukod rózW
 

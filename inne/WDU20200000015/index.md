@@ -27,17 +27,19 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Łodzi Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2018 r.
 poz. 2081, z późn. zm. ) zarządza się, co następuje:
-§ 1. W załączniku do rozporządzenia Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Łodzi (Dz. U. z 2014 r. poz. 1180) wprowadza się następujące zmiany:
-1) w § 3:
-a) ust. 1 otrzymuje brzmienie: „1. Regionalny Dyrektor kieruje RDOŚ przy pomocy zastępcy Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1–5, i osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 6–8.”,
-b) ust. 3 otrzymuje brzmienie: „3. Zakresy czynności zastępcy Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1, 3–5, i osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 6–8, ustala Regionalny Dyrektor, natomiast zakres czynności osoby kierującej komórką organizacyjną, o której mowa w § 4 ust. 1 pkt 2, ustala Regionalny Dyrektor na wniosek zastępcy Regionalnego Dyrektora.”;
-2) w § 4:
-a) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W skład RDOŚ wchodzą następujące komórki organizacyjne i stanowiska:”,
-b) w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „6) samodzielne stanowisko do spraw obsługi prawnej – radca prawny;
-7) pełnomocnik do spraw ochrony informacji niejawnych;
-8) inspektor ochrony danych.”;
-3) § 7 otrzymuje brzmienie: „§ 7. Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych, o których mowa w § 4 ust. 1 pkt 1–5, oraz szczegółowy zakres zadań stanowisk, o których mowa w § 4 ust. 1 pkt 6–8, określa regulamin organizacyjny nadany przez Regionalnego Dyrektora, po zatwierdzeniu przez Generalnego Dyrektora Ochrony Środowiska.”;
-4) uchyla się § 8.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu: M. Kurtyka
+
+**§ 1.** W załączniku do rozporządzenia Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Łodzi (Dz. U. z 2014 r. poz. 1180) wprowadza się następujące zmiany:
+
+- **1)** w § 3:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Regionalny Dyrektor kieruje RDOŚ przy pomocy zastępcy Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1–5, i osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 6–8.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Zakresy czynności zastępcy Regionalnego Dyrektora, osób kierujących komórkami organizacyjnymi, o których mowa w § 4 ust. 1 pkt 1, 3–5, i osób zajmujących stanowiska, o których mowa w § 4 ust. 1 pkt 6–8, ustala Regionalny Dyrektor, natomiast zakres czynności osoby kierującej komórką organizacyjną, o której mowa w § 4 ust. 1 pkt 2, ustala Regionalny Dyrektor na wniosek zastępcy Regionalnego Dyrektora.”;
+
+- **2)** w § 4:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W skład RDOŚ wchodzą następujące komórki organizacyjne i stanowiska:”,
+    - **b)** w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „6) samodzielne stanowisko do spraw obsługi prawnej – radca prawny; 7) pełnomocnik do spraw ochrony informacji niejawnych; 8) inspektor ochrony danych.”;
+
+- **3)** § 7 otrzymuje brzmienie: „§ 7. Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych, o których mowa w § 4 ust. 1 pkt 1–5, oraz szczegółowy zakres zadań stanowisk, o których mowa w § 4 ust. 1 pkt 6–8, określa regulamin organizacyjny nadany przez Regionalnego Dyrektora, po zatwierdzeniu przez Generalnego Dyrektora Ochrony Środowiska.”;
+- **4)** uchyla się § 8.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu: M. Kurtyka
 

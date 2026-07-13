@@ -28,12 +28,15 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie grup podatników lub rodzajów czynności, w odniesieniu do których możliwe jest używanie kas rejestrujących mających postać oprogramowania Na podstawie art. 111b ust. 3 pkt 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r.
 poz. 775, 894, 896 i 1203) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 29 maja 2020 r. w sprawie grup podatników lub rodzajów czynności, w odniesieniu do których możliwe jest używanie kas rejestrujących mających postać oprogramowania (Dz. U. z 2023 r.
-poz. 2268) w § 1:
-1) pkt 27 otrzymuje brzmienie: „27) usług mycia, czyszczenia samochodów i podobnych usług (PKWiU 45.20.30.0);”;
-2) w pkt 29 kropkę zastępuje się średnikiem i dodaje się pkt 30–32 w brzmieniu: „30) dostaw towarów przy użyciu urządzeń obsługiwanych przez klienta, które w systemie bezobsługowym przyjmują należność w bilonie, banknotach lub innej formie (bezgotówkowej) i wydają towar;
-31) świadczenia usług przy użyciu urządzeń, w tym wydających bilety, obsługiwanych przez klienta, które w systemie bezobsługowym przyjmują należność w bilonie, banknotach lub innej formie (bezgotówkowej);
-32) świadczenia usług parkingu samochodów i innych pojazdów drogą elektroniczną, w tym przy użyciu aplikacji mobilnej lub przeglądarki internetowej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2026 r.
-Minister Finansów i Gospodarki: wz. J. Drop
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 29 maja 2020 r. w sprawie grup podatników lub rodzajów czynności, w odniesieniu do których możliwe jest używanie kas rejestrujących mających postać oprogramowania (Dz. U. z 2023 r. poz. 2268) w § 1:
+
+- **1)** pkt 27 otrzymuje brzmienie: „27) usług mycia, czyszczenia samochodów i podobnych usług (PKWiU 45.20.30.0);”;
+- **2)** w pkt 29 kropkę zastępuje się średnikiem i dodaje się pkt 30–32 w brzmieniu:
+
+  > „30) dostaw towarów przy użyciu urządzeń obsługiwanych przez klienta, które w systemie bezobsługowym przyjmują należność w bilonie, banknotach lub innej formie (bezgotówkowej) i wydają towar;  
+  > 31) świadczenia usług przy użyciu urządzeń, w tym wydających bilety, obsługiwanych przez klienta, które w systemie bezobsługowym przyjmują należność w bilonie, banknotach lub innej formie (bezgotówkowej);  
+  > 32) świadczenia usług parkingu samochodów i innych pojazdów drogą elektroniczną, w tym przy użyciu aplikacji mobilnej lub przeglądarki internetowej.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2026 r. Minister Finansów i Gospodarki: wz. J. Drop
 

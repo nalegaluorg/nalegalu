@@ -36,7 +36,10 @@ source: pdf
     - **b)** ust. 2 otrzymuje brzmienie: „2. Dla stwierdzenia, czy w sprawie doszło do przewlekłości postępowania, należy w szczególności ocenić terminowość i prawidłowość czynności podjętych przez sąd, w celu wydania w sprawie rozstrzygnięcia co do istoty albo czynności podjętych przez prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze w celu zakończenia postępowania przygotowawczego lub czynności podjętych przez sąd lub komornika sądowego w celu przeprowadzenia i zakończenia sprawy egzekucyjnej albo innej sprawy dotyczącej wykonania orzeczenia sądowego, uwzględniając charakter sprawy, stopień faktycznej i prawnej jej zawiłości, znaczenie dla strony, która wniosła skargę, rozstrzygniętych w niej zagadnień oraz zachowanie się stron, a w szczególności strony, która zarzuciła przewlekłość postępowania.”;
 
 - **4)** w art. 4:
-    - **a)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem rejonowym i sądem okręgowym – właściwy do jej rozpoznania w całości jest sąd apelacyjny. 1b. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem okręgowym i sądem apelacyjnym – właściwy do jej rozpoznania w całości jest sąd apelacyjny.”,
+    - **a)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+      > „1a. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem rejonowym i sądem okręgowym – właściwy do jej rozpoznania w całości jest sąd apelacyjny.  
+      > 1b. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem okręgowym i sądem apelacyjnym – właściwy do jej rozpoznania w całości jest sąd apelacyjny.”,  
     - **b)** dodaje się ust. 5 w brzmieniu: „5. Jeżeli skarga dotyczy przewlekłości postępowania przygotowawczego, właściwy do jej rozpoznania jest sąd przełożony nad sądem, który byłby właściwy rzeczowo do rozpoznania sprawy.”;
 
 - **5)** w art. 5 dodaje się ust. 4 w brzmieniu: „4. Skargę dotyczącą przewlekłości postępowania przygotowawczego wnosi się do prokuratora prowadzącego lub nadzorującego to postępowanie.”;
@@ -44,8 +47,16 @@ source: pdf
 - **7)** art. 7 otrzymuje brzmienie: „Art. 7. Sąd lub prokurator, do którego wniesiono skargę, przedstawia ją niezwłocznie sądowi właściwemu wraz z aktami sprawy, w której toczy się postępowanie.”;
 - **8)** w art. 10 po ust. 2 dodaje ust. 2a w brzmieniu: „2a. Jeżeli skarga dotyczy przewlekłości postępowania przygotowawczego, sąd właściwy zawiadamia Skarb Państwa – prokuratora przełożonego nad prokuratorem prowadzącym lub nadzorującym postępowanie przygotowawcze, doręczając mu odpis skargi.”;
 - **9)** w art. 12:
-    - **a)** ust. 3 i 4 otrzymują brzmienie: „3. Na żądanie skarżącego lub z urzędu sąd zaleca podjęcie przez sąd rozpoznający sprawę co do istoty albo przez prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze odpowiednich czynności w wyznaczonym terminie, chyba że wydanie zaleceń jest oczywiście zbędne. Zalecenia nie mogą wkraczać w zakres oceny faktycznej i prawnej sprawy. 4. Uwzględniając skargę, sąd na żądanie skarżącego przyznaje od Skarbu Państwa, a w przypadku skargi na przewlekłość postępowania prowadzonego przez komornika – od komornika, sumę pieniężną w wysokości od 2 000 złotych do 20 000 złotych.”,
-    - **b)** dodaje się ust. 5 i 6 w brzmieniu: „5. W przypadku przyznania sumy pieniężnej od Skarbu Państwa, wypłaty dokonuje: 1) sąd prowadzący postępowanie, w którym nastąpiła przewlekłość postępowania – ze środków własnych tego sądu; 2) prokuratura okręgowa, w której okręgu prowadzone jest postępowanie przygotowawcze, w którym nastąpiła przewlekłość postępowania, a w odniesieniu do postępowań przygotowawczych prowadzonych przez wydziały zamiejscowe Biura do Spraw Przestępczości Zorganizowanej Prokuratury Krajowej – właściwa prokuratura apelacyjna – ze środków własnych tych prokuratur. 6. W sytuacji przyznania sumy pieniężnej w przypadku, o którym mowa w art. 4 ust. 1a, wypłaty dokonuje sąd okręgowy, a w przypadku, o którym mowa w art. 4 ust. 1b, wypłaty dokonuje sąd apelacyjny - ze środków własnych tego sądu.”;
+    - **a)** ust. 3 i 4 otrzymują brzmienie:
+
+      > „3. Na żądanie skarżącego lub z urzędu sąd zaleca podjęcie przez sąd rozpoznający sprawę co do istoty albo przez prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze odpowiednich czynności w wyznaczonym terminie, chyba że wydanie zaleceń jest oczywiście zbędne. Zalecenia nie mogą wkraczać w zakres oceny faktycznej i prawnej sprawy.  
+      > 4. Uwzględniając skargę, sąd na żądanie skarżącego przyznaje od Skarbu Państwa, a w przypadku skargi na przewlekłość postępowania prowadzonego przez komornika – od komornika, sumę pieniężną w wysokości od 2 000 złotych do 20 000 złotych.”,  
+    - **b)** dodaje się ust. 5 i 6 w brzmieniu:
+
+      > „5. W przypadku przyznania sumy pieniężnej od Skarbu Państwa, wypłaty dokonuje:  
+      > 1) sąd prowadzący postępowanie, w którym nastąpiła przewlekłość postępowania – ze środków własnych tego sądu;  
+      > 2) prokuratura okręgowa, w której okręgu prowadzone jest postępowanie przygotowawcze, w którym nastąpiła przewlekłość postępowania, a w odniesieniu do postępowań przygotowawczych prowadzonych przez wydziały zamiejscowe Biura do Spraw Przestępczości Zorganizowanej Prokuratury Krajowej – właściwa prokuratura apelacyjna – ze środków własnych tych prokuratur.  
+      > 6. W sytuacji przyznania sumy pieniężnej w przypadku, o którym mowa w art. 4 ust. 1a, wypłaty dokonuje sąd okręgowy, a w przypadku, o którym mowa w art. 4 ust. 1b, wypłaty dokonuje sąd apelacyjny - ze środków własnych tego sądu.”;  
 
 - **10)** w art. 13:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania sądowego sąd doręcza prezesowi właściwego sądu. Prezes sądu, któremu doręczono orzeczenie, jest obowiązany do podjęcia czynności nadzoru przewidzianych w ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm. ).”,

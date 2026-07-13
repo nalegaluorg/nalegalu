@@ -31,61 +31,96 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 ROZPORZĄDZENIE mINIStrA ZDrOWIA z dnia 18 października 2010 r.
 w sprawie oznaczenia systemu Państwowe Ratownictwo Medyczne oraz wymagań w zakresie umundurowania członków zespołów ratownictwa medycznego Na podstawie art. 38 ust. 3 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U.
 z 2017 r. poz. 2195 oraz z 2018 r. poz. 650 i 1115) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór graficzny systemu Państwowe Ratownictwo Medyczne, zwanego dalej „systemem”, będący jego oznaczeniem;
-2) sposób oznakowania:
-a) jednostek systemu,
-b) lekarza koordynatora ratownictwa medycznego,
-c) kierującego akcją prowadzenia medycznych czynności ratunkowych,
-d) osób wykonujących medyczne czynności ratunkowe,
-e) ratowników z jednostek współpracujących z systemem, o których mowa w art. 15 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, zwanej dalej „ustawą”;
-3) wymagania w zakresie umundurowania członków zespołów ratownictwa medycznego.
-§ 2. Wzór graficzny systemu, będący jego oznaczeniem, określa załącznik nr 1 do rozporządzenia.
-§ 3. Sposób oznakowania jednostek systemu określa załącznik nr 2 do rozporządzenia.
-§ 4. 1. Lekarz koordynator ratownictwa medycznego posiada kamizelkę ostrzegawczą, zgodną z Polską Normą o barwie fluorescencyjnej żółtej, z pasami z materiału odblaskowego co najmniej klasy 1, zgodnie z Polską Normą tablica 5, z nadrukiem koloru czarnego lub granatowego na plecach i z przodu o treści: „LEKARZ KOORDYNATOR”.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór graficzny systemu Państwowe Ratownictwo Medyczne, zwanego dalej „systemem”, będący jego oznaczeniem;
+- **2)** sposób oznakowania:
+    - **a)** jednostek systemu,
+    - **b)** lekarza koordynatora ratownictwa medycznego,
+    - **c)** kierującego akcją prowadzenia medycznych czynności ratunkowych,
+    - **d)** osób wykonujących medyczne czynności ratunkowe,
+    - **e)** ratowników z jednostek współpracujących z systemem, o których mowa w art. 15 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, zwanej dalej „ustawą”;
+
+- **3)** wymagania w zakresie umundurowania członków zespołów ratownictwa medycznego.
+
+**§ 2.** Wzór graficzny systemu, będący jego oznaczeniem, określa załącznik nr 1 do rozporządzenia.
+
+**§ 3.** Sposób oznakowania jednostek systemu określa załącznik nr 2 do rozporządzenia.
+
+**§ 4.**
+
+1. Lekarz koordynator ratownictwa medycznego posiada kamizelkę ostrzegawczą, zgodną z Polską Normą o barwie fluorescencyjnej żółtej, z pasami z materiału odblaskowego co najmniej klasy 1, zgodnie z Polską Normą tablica 5, z nadrukiem koloru czarnego lub granatowego na plecach i z przodu o treści: „LEKARZ KOORDYNATOR”.
+
 2. Kierujący akcją prowadzenia medycznych czynności ratunkowych posiada kamizelkę ostrzegawczą, zgodną z Polską Normą o barwie fluorescencyjnej żółtej, z pasami z materiału odblaskowego co najmniej klasy 1, zgodnie z Polską Normą tablica 5, z nadrukiem koloru czarnego lub granatowego na plecach i z przodu o treści: „KIERUJĄCY AKCJĄ MEDYCZNĄ”.
+
 3. Wysokość nadruków, o których mowa w ust. 1 i 2, wynosi:
-1) z przodu 5 cm;
-2) na plecach 15 cm.
-§ 5. 1. Osoby wykonujące medyczne czynności ratunkowe, z wyłączeniem osób wykonujących medyczne czynności ratunkowe w lotniczych zespołach ratownictwa medycznego, są oznakowane, w zależności od pełnionej funkcji, poprzez umieszczenie na umundurowaniu naszywki z przodu oraz nadruku koloru czarnego lub granatowego na plecach na materiale odblaskowym albo na taśmie samosczepnej:
-1) „LEKARZ”;
-2) „PIELĘGNIARKA” lub „PIELĘGNIARZ”;
-3) „RATOWNIK MEDYCZNY”.
+
+- **1)** z przodu 5 cm;
+- **2)** na plecach 15 cm.
+
+**§ 5.**
+
+1. Osoby wykonujące medyczne czynności ratunkowe, z wyłączeniem osób wykonujących medyczne czynności ratunkowe w lotniczych zespołach ratownictwa medycznego, są oznakowane, w zależności od pełnionej funkcji, poprzez umieszczenie na umundurowaniu naszywki z przodu oraz nadruku koloru czarnego lub granatowego na plecach na materiale odblaskowym albo na taśmie samosczepnej:
+
+- **1)** „LEKARZ”;
+- **2)** „PIELĘGNIARKA” lub „PIELĘGNIARZ”;
+- **3)** „RATOWNIK MEDYCZNY”.
+
 2. Wysokość naszywki, o której mowa w ust. 1, wynosi 5 cm.
+
 3. Wysokość nadruku, o którym mowa w ust. 1, wynosi 15 cm.
-§ 6. Ratownicy z jednostek współpracujących z systemem, o których mowa w art. 15 ust. 2 ustawy, są oznakowani poprzez umieszczenie na odzieży zewnętrznej:
-1) naszywki z przodu o wysokości 5 cm z napisem „RATOWNIK”;
-2) nadruku na plecach o wysokości 15 cm z napisem „RATOWNIK”;
-3) naszywki z nazwą jednostki współpracującej z systemem.
-§ 7. 1. Wymagania w zakresie umundurowania członków:
-1) zespołów ratownictwa medycznego określa załącznik nr 3 do rozporządzenia;
-2) lotniczych zespołów ratownictwa medycznego określa załącznik nr 4 do rozporządzenia.
+
+**§ 6.** Ratownicy z jednostek współpracujących z systemem, o których mowa w art. 15 ust. 2 ustawy, są oznakowani poprzez umieszczenie na odzieży zewnętrznej:
+
+- **1)** naszywki z przodu o wysokości 5 cm z napisem „RATOWNIK”;
+- **2)** nadruku na plecach o wysokości 15 cm z napisem „RATOWNIK”;
+- **3)** naszywki z nazwą jednostki współpracującej z systemem.
+
+**§ 7.**
+
+1. Wymagania w zakresie umundurowania członków:
+
+- **1)** zespołów ratownictwa medycznego określa załącznik nr 3 do rozporządzenia;
+- **2)** lotniczych zespołów ratownictwa medycznego określa załącznik nr 4 do rozporządzenia.
+
 2. Umundurowanie, o którym mowa w ust. 1, spełnia także wymagania określone w rozporządzeniu Ministra Gospodarki z dnia 21 grudnia 2005 r. w sprawie zasadniczych wymagań dla środków ochrony indywidualnej (Dz. U. poz. 2173).
-§ 8. 1. Ubiory niespełniające wymagań określonych w niniejszym rozporządzeniu, w zakresie umundurowania członków zespołów ratownictwa medycznego i lotniczych zespołów ratownictwa medycznego oraz w zakresie oznakowania, o którym mowa w § 6, mogą być używane nie dłużej niż do dnia 31 grudnia 2013 r.
+
+**§ 8.**
+
+1. Ubiory niespełniające wymagań określonych w niniejszym rozporządzeniu, w zakresie umundurowania członków zespołów ratownictwa medycznego i lotniczych zespołów ratownictwa medycznego oraz w zakresie oznakowania, o którym mowa w § 6, mogą być używane nie dłużej niż do dnia 31 grudnia 2013 r.
+
 2. Specjalistyczne środki transportu sanitarnego niespełniające wymagań określonych w niniejszym rozporządzeniu, w zakresie oznakowania zespołów ratownictwa medycznego i lotniczych zespołów ratownictwa medycznego, mogą być używane nie dłużej niż do dnia 31 grudnia 2013 r.
-§ 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WZÓR GRAFICZNY SYSTEMU Załącznik nr 2 SPOSÓB OZNAKOWANIA JEDNOSTEK SYSTEMU SPOSÓB OZNAKOWANIA JEDNOSTEK SYSTEMU I. Oznakowanie zespołów ratownictwa medycznego Zespół ratownictwa medycznego jest oznakowany poprzez umieszczenie na specjalistycznym środku transportu sanitarnego koloru białego lub żółtego:
-1) wzoru graficznego systemu z tyłu, na dachu i po bokach pojazdu o średnicy 50 cm;
-2) nadruku lustrzanego „AMBULANS”, barwy czerwonej lub granatowej z przodu pojazdu, o wysokości znaków co najmniej 22 cm; dopuszczalne jest umieszczenie nadruku lustrzanego „AMBULANS” barwy czerwonej lub granatowej, o wysokości znaków co najmniej 10 cm także z tyłu pojazdu;
-3) po obu bokach pojazdu nadruku barwy czerwonej:
-a) „P” – w przypadku podstawowego zespołu ratownictwa medycznego,
-b) „S” – w przypadku specjalistycznego zespołu ratownictwa medycznego – w okręgu o średnicy co najmniej 40 cm, o grubości linii koła i liter 4 cm;
-4) trzech pasów odblaskowych wykonanych z folii:
-a) typu 3 barwy czerwonej o szerokości co najmniej 15 cm, umieszczonej w obszarze pomiędzy linią okien i nadkolami,
-b) typu 1 lub 3 barwy czerwonej o szerokości co najmniej 15 cm, umieszczonej wokół dachu,
-c) typu 1 lub 3 barwy niebieskiej umieszczonej bezpośrednio nad pasem, o którym mowa w lit. a;
-5) nazwy dysponenta jednostki umieszczonej po obu bokach pojazdu.
-II. Oznakowanie lotniczych zespołów ratownictwa medycznego
+
+**§ 9.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WZÓR GRAFICZNY SYSTEMU Załącznik nr 2 SPOSÓB OZNAKOWANIA JEDNOSTEK SYSTEMU SPOSÓB OZNAKOWANIA JEDNOSTEK SYSTEMU I. Oznakowanie zespołów ratownictwa medycznego Zespół ratownictwa medycznego jest oznakowany poprzez umieszczenie na specjalistycznym środku transportu sanitarnego koloru białego lub żółtego:
+
+- **1)** wzoru graficznego systemu z tyłu, na dachu i po bokach pojazdu o średnicy 50 cm;
+- **2)** nadruku lustrzanego „AMBULANS”, barwy czerwonej lub granatowej z przodu pojazdu, o wysokości znaków co najmniej 22 cm; dopuszczalne jest umieszczenie nadruku lustrzanego „AMBULANS” barwy czerwonej lub granatowej, o wysokości znaków co najmniej 10 cm także z tyłu pojazdu;
+- **3)** po obu bokach pojazdu nadruku barwy czerwonej:
+    - **a)** „P” – w przypadku podstawowego zespołu ratownictwa medycznego,
+    - **b)** „S” – w przypadku specjalistycznego zespołu ratownictwa medycznego – w okręgu o średnicy co najmniej 40 cm, o grubości linii koła i liter 4 cm;
+
+- **4)** trzech pasów odblaskowych wykonanych z folii:
+    - **a)** typu 3 barwy czerwonej o szerokości co najmniej 15 cm, umieszczonej w obszarze pomiędzy linią okien i nadkolami,
+    - **b)** typu 1 lub 3 barwy czerwonej o szerokości co najmniej 15 cm, umieszczonej wokół dachu,
+    - **c)** typu 1 lub 3 barwy niebieskiej umieszczonej bezpośrednio nad pasem, o którym mowa w lit. a;
+
+- **5)** nazwy dysponenta jednostki umieszczonej po obu bokach pojazdu. II. Oznakowanie lotniczych zespołów ratownictwa medycznego
+
 1. Lotniczy zespół ratownictwa medycznego jest oznakowany poprzez umieszczenie na statku powietrznym (płatowcu) barwy żółtej:
-1) wzoru graficznego systemu, na bocznej powierzchni kadłuba, w miejscu dobrze widocznym, o średnicy co najmniej 35 cm;
-2) pasów barwy czerwonej lub niebieskiej wzdłuż kadłuba, o stałej lub zmiennej szerokości (w zależności od ilości dostępnego miejsca), umieszczonych poziomo pod linią okien bocznych oraz skośnie w tylnej części kadłuba w kierunku belki ogonowej;
-3) napisu „LOTNICZE POGOTOWIE RATUNKOWE” z boku, pod lub nad linią okien, barwy białej, czarnej lub niebieskiej, o wysokości znaków co najmniej 8 cm;
-4) napisu „HEMS” barwy białej, czarnej lub niebieskiej na bocznej powierzchni kadłuba, o wysokości znaków co najmniej 10 cm;
-5) wzoru graficznego systemu, na spodniej części kadłuba, w kierunku przodu kadłuba, o średnicy co najmniej 50 cm.
+
+- **1)** wzoru graficznego systemu, na bocznej powierzchni kadłuba, w miejscu dobrze widocznym, o średnicy co najmniej 35 cm;
+- **2)** pasów barwy czerwonej lub niebieskiej wzdłuż kadłuba, o stałej lub zmiennej szerokości (w zależności od ilości dostępnego miejsca), umieszczonych poziomo pod linią okien bocznych oraz skośnie w tylnej części kadłuba w kierunku belki ogonowej;
+- **3)** napisu „LOTNICZE POGOTOWIE RATUNKOWE” z boku, pod lub nad linią okien, barwy białej, czarnej lub niebieskiej, o wysokości znaków co najmniej 8 cm;
+- **4)** napisu „HEMS” barwy białej, czarnej lub niebieskiej na bocznej powierzchni kadłuba, o wysokości znaków co najmniej 10 cm;
+- **5)** wzoru graficznego systemu, na spodniej części kadłuba, w kierunku przodu kadłuba, o średnicy co najmniej 50 cm.
+
 2. Łopaty wirnika nośnego (oraz innych wirujących lub niebezpiecznych elementów konstrukcji, np. śmigła ogonowego, jeżeli występują) są pomalowane w ostrzegawczym schemacie barwnym, jaskrawym i kontrastowym.
-3. Dopuszcza się malowanie elementów konstrukcji statku powietrznego, niewymienionych w ust. 2, barwą inną niż żółta, o ile poprawi to jego bezpieczeństwo użytkowania lub funkcjonalność.
-III. Oznakowanie szpitalnych oddziałów ratunkowych
+
+3. Dopuszcza się malowanie elementów konstrukcji statku powietrznego, niewymienionych w ust. 2, barwą inną niż żółta, o ile poprawi to jego bezpieczeństwo użytkowania lub funkcjonalność. III. Oznakowanie szpitalnych oddziałów ratunkowych
+
 1. Szpitalny oddział ratunkowy oznakowany jest niebieską tablicą o wymiarach 90 cm × 90 cm, na której są umieszczone napisy w kolorze białym „SZPITALNY ODDZIAŁ RATUNKOWY” oraz „EMERGENCY” o wysokości znaków 10 cm oraz biały krzyż o wymiarach 20 cm × 20 cm.
+
 2. Oznakowanie umieszcza się przy wejściu głównym do szpitalnego oddziału ratunkowego oraz na znakach drogowych oznaczających drogę dojazdu do szpitala, w którym mieści się szpitalny oddział ratunkowy.
 
 ## Załącznik nr 3 — UMUNDUROWANIE CZŁONKÓW ZESPOŁÓW RATOWNICTWA MEDYCZNEGO UMUNDUROWANIE CZŁONKÓW ZESPOŁÓW RATOWNICTWA MEDYCZNEGO Tabela 1. Umundurowanie letnie i zimowe członków zespołów ratownictwa medycznego Lp. Element Opis umundurowania 1 2 3 Umundurowanie letnie 1 Koszula a) barwa fluorescencyjna czerwona zgodnie z Polską Normą

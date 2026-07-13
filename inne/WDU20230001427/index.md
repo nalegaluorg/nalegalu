@@ -40,56 +40,69 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 5) § 2 rozporządzenia Ministra Zdrowia z dnia 5 stycznia 2023 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. poz. 38), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: A. Niedzielski
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 24 września 2013 r.
 w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wykaz oraz warunki realizacji świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej, zwanych dalej „świadczeniami gwarantowanymi”;
-2) poziom finansowania przejazdu środkami transportu sanitarnego w przypadkach niewymienionych w art. 41 ust. 1 i 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą”.
-§ 2. Świadczenia gwarantowane obejmują:
-1) świadczenia lekarza podstawowej opieki zdrowotnej;
-2) świadczenia pielęgniarki podstawowej opieki zdrowotnej;
-3) świadczenia położnej podstawowej opieki zdrowotnej;
-4) świadczenia pielęgniarki lub higienistki szkolnej udzielane w środowisku nauczania i wychowania;
-5) świadczenia nocnej i świątecznej opieki zdrowotnej;
-6) transport sanitarny;
-7) opiekę koordynowaną.
-§ 3. 1. Wykaz świadczeń gwarantowanych, o których mowa w:
-1) § 2 pkt 1, oraz warunki ich realizacji są określone w załączniku nr 1 do rozporządzenia;
-2) § 2 pkt 2, oraz warunki ich realizacji są określone w załączniku nr 2 do rozporządzenia;
-3) § 2 pkt 3, oraz warunki ich realizacji są określone w załączniku nr 3 do rozporządzenia;
-4) § 2 pkt 4, oraz warunki ich realizacji są określone w załączniku nr 4 do rozporządzenia;
-5) § 2 pkt 5, oraz warunki ich realizacji są określone w załączniku nr 5 do rozporządzenia;
-6) § 2 pkt 7, oraz warunki ich realizacji są określone w załączniku nr 6 do rozporządzenia.
-2. Świadczenia gwarantowane są udzielane zgodnie ze wskazaniami aktualnej wiedzy medycznej, z wykorzystaniem metod diagnostyczno-terapeutycznych innych niż stosowane w medycynie niekonwencjonalnej, ludowej lub orientalnej.
-Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
-Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658 i 1234.
-Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 15 września 2022 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. poz. 1965), które weszło w życie z dniem 1 października 2022 r.
-Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
-§ 4. 1. W zakresie koniecznym do wykonania świadczeń gwarantowanych świadczeniodawca zapewnia świadczeniobiorcy nieodpłatnie:
-1) badania diagnostyczne, określone w części IV i IVa załącznika nr 1 oraz w załączniku nr 6 do rozporządzenia;
-2) leki i wyroby medyczne oraz środki pomocnicze;
-3) konsultacje: lekarza specjalisty, dietetyczne oraz porady edukacyjne, w przypadku świadczeń gwarantowanych, o których mowa w § 2 pkt 7.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wykaz oraz warunki realizacji świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej, zwanych dalej „świadczeniami gwarantowanymi”;
+- **2)** poziom finansowania przejazdu środkami transportu sanitarnego w przypadkach niewymienionych w art. 41 ust. 1 i 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą”.
+
+**§ 2.** Świadczenia gwarantowane obejmują:
+
+- **1)** świadczenia lekarza podstawowej opieki zdrowotnej;
+- **2)** świadczenia pielęgniarki podstawowej opieki zdrowotnej;
+- **3)** świadczenia położnej podstawowej opieki zdrowotnej;
+- **4)** świadczenia pielęgniarki lub higienistki szkolnej udzielane w środowisku nauczania i wychowania;
+- **5)** świadczenia nocnej i świątecznej opieki zdrowotnej;
+- **6)** transport sanitarny;
+- **7)** opiekę koordynowaną.
+
+**§ 3.**
+
+1. Wykaz świadczeń gwarantowanych, o których mowa w:
+
+- **1)** § 2 pkt 1, oraz warunki ich realizacji są określone w załączniku nr 1 do rozporządzenia;
+- **2)** § 2 pkt 2, oraz warunki ich realizacji są określone w załączniku nr 2 do rozporządzenia;
+- **3)** § 2 pkt 3, oraz warunki ich realizacji są określone w załączniku nr 3 do rozporządzenia;
+- **4)** § 2 pkt 4, oraz warunki ich realizacji są określone w załączniku nr 4 do rozporządzenia;
+- **5)** § 2 pkt 5, oraz warunki ich realizacji są określone w załączniku nr 5 do rozporządzenia;
+- **6)** § 2 pkt 7, oraz warunki ich realizacji są określone w załączniku nr 6 do rozporządzenia.
+
+2. Świadczenia gwarantowane są udzielane zgodnie ze wskazaniami aktualnej wiedzy medycznej, z wykorzystaniem metod diagnostyczno-terapeutycznych innych niż stosowane w medycynie niekonwencjonalnej, ludowej lub orientalnej. Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658 i 1234. Dodany przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 15 września 2022 r. zmieniającego rozporządzenie w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. poz. 1965), które weszło w życie z dniem 1 października 2022 r. Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.
+
+**§ 4.**
+
+1. W zakresie koniecznym do wykonania świadczeń gwarantowanych świadczeniodawca zapewnia świadczeniobiorcy nieodpłatnie:
+
+- **1)** badania diagnostyczne, określone w części IV i IVa załącznika nr 1 oraz w załączniku nr 6 do rozporządzenia;
+- **2)** leki i wyroby medyczne oraz środki pomocnicze;
+- **3)** konsultacje: lekarza specjalisty, dietetyczne oraz porady edukacyjne, w przypadku świadczeń gwarantowanych, o których mowa w § 2 pkt 7.
+
 2. Przejazd środkami transportu sanitarnego w przypadkach niewymienionych w art. 41 ust. 1 i 2 ustawy jest finansowany w 40% ze środków publicznych w przypadku:
-1) chorób krwi i narządów krwiotwórczych,
-2) chorób nowotworowych,
-3) chorób oczu,
-4) chorób przemiany materii,
-5) chorób psychicznych i zaburzeń zachowania,
-6) chorób skóry i tkanki podskórnej,
-7) chorób układu krążenia,
-8) chorób układu moczowo-płciowego,
-9) chorób układu nerwowego,
-10) chorób układu oddechowego,
-11) chorób układu ruchu,
-12) chorób układu trawiennego,
-13) chorób układu wydzielania wewnętrznego,
-14) chorób zakaźnych i pasożytniczych,
-15) urazów i zatruć,
-16) wad rozwojowych wrodzonych, zniekształceń i aberracji chromosomowych – gdy ze zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego wynika, że świadczeniobiorca jest zdolny do samodzielnego poruszania się bez stałej pomocy innej osoby, ale wymaga przy korzystaniu ze środków transportu publicznego pomocy innej osoby lub środka transportu publicznego dostosowanego do potrzeb osób niepełnosprawnych.
-§ 5. 1. Przepisy rozporządzenia stosuje się do świadczeń gwarantowanych udzielanych od dnia 1 stycznia 2014 r.
+
+- **1)** chorób krwi i narządów krwiotwórczych,
+- **2)** chorób nowotworowych,
+- **3)** chorób oczu,
+- **4)** chorób przemiany materii,
+- **5)** chorób psychicznych i zaburzeń zachowania,
+- **6)** chorób skóry i tkanki podskórnej,
+- **7)** chorób układu krążenia,
+- **8)** chorób układu moczowo-płciowego,
+- **9)** chorób układu nerwowego,
+- **10)** chorób układu oddechowego,
+- **11)** chorób układu ruchu,
+- **12)** chorób układu trawiennego,
+- **13)** chorób układu wydzielania wewnętrznego,
+- **14)** chorób zakaźnych i pasożytniczych,
+- **15)** urazów i zatruć,
+- **16)** wad rozwojowych wrodzonych, zniekształceń i aberracji chromosomowych – gdy ze zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego wynika, że świadczeniobiorca jest zdolny do samodzielnego poruszania się bez stałej pomocy innej osoby, ale wymaga przy korzystaniu ze środków transportu publicznego pomocy innej osoby lub środka transportu publicznego dostosowanego do potrzeb osób niepełnosprawnych.
+
+**§ 5.**
+
+1. Przepisy rozporządzenia stosuje się do świadczeń gwarantowanych udzielanych od dnia 1 stycznia 2014 r.
+
 2. Do świadczeń gwarantowanych, udzielanych przed dniem 1 stycznia 2014 r., stosuje się przepisy dotychczasowe.
-§ 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.
-Rozporządzenie zostało ogłoszone w dniu 28 października 2013 r.
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 sierpnia 2009 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. poz. 1139 i 1642 oraz z 2010 r. poz. 1376), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 85 ust. 1 pkt 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. poz. 696, z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766).
+
+**§ 6.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. Rozporządzenie zostało ogłoszone w dniu 28 października 2013 r. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 29 sierpnia 2009 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. poz. 1139 i 1642 oraz z 2010 r. poz. 1376), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 85 ust. 1 pkt 2 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. poz. 696, z 2012 r. poz. 95 i 742 oraz z 2013 r. poz. 766).
 
 ## Załącznik nr 1 — WYKAZ ŚWIADCZEŃ GWARANTOWANYCH LEKARZA PODSTAWOWEJ OPIEKI ZDROWOTNEJ WYKAZ ŚWIADCZEŃ GWARANTOWANYCH ORAZ LEKARZA WARUNKI PODSTAWOWEJ ICH REALIZACJI OPIEKI ZDROWOTNEJ ORAZ WARUNKI ICH REALIZACJI Część I.
 

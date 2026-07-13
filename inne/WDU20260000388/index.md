@@ -40,64 +40,123 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodow
 5) § 2 rozporządzenia Ministra Obrony Narodowej z dnia 13 listopada 2024 r. zmieniającego rozporządzenie w sprawie legitymacji służbowej oraz innych dokumentów Służby Wywiadu Wojskowego (Dz. U. poz. 1713), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.”. Minister Obrony Narodowej: z up. P. Bejda
 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 25 września 2006 r.
 w sprawie legitymacji służbowej oraz innych dokumentów Służby Wywiadu Wojskowego Na podstawie art. 48 ust. 2 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2026 r. poz. 157) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór legitymacji służbowej oraz innych dokumentów Służby Wywiadu Wojskowego, zwanej dalej „SWW”;
-2) organy właściwe do wydawania, wymiany, unieważniania oraz dokonywania wpisów w legitymacji służbowej oraz innych dokumentach SWW;
-3) przypadki, w których legitymacja służbowa lub inne dokumenty SWW podlegają zwrotowi, wymianie lub unieważnieniu;
-4) tryb postępowania w przypadku utraty legitymacji służbowej lub innych dokumentów SWW;
-5) sposób posługiwania się legitymacją oraz innymi dokumentami SWW.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) legitymacji – rozumie się przez to legitymację służbową SWW;
-2) żołnierzu SWW – rozumie się przez to żołnierza wyznaczonego na stanowisko służbowe w SWW;
-3) funkcjonariuszu SWW – rozumie się przez to funkcjonariusza pełniącego służbę w SWW.
-§ 3. 1. Żołnierzowi SWW i funkcjonariuszowi SWW na czas pełnienia służby w SWW wydaje się legitymację.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór legitymacji służbowej oraz innych dokumentów Służby Wywiadu Wojskowego, zwanej dalej „SWW”;
+- **2)** organy właściwe do wydawania, wymiany, unieważniania oraz dokonywania wpisów w legitymacji służbowej oraz innych dokumentach SWW;
+- **3)** przypadki, w których legitymacja służbowa lub inne dokumenty SWW podlegają zwrotowi, wymianie lub unieważnieniu;
+- **4)** tryb postępowania w przypadku utraty legitymacji służbowej lub innych dokumentów SWW;
+- **5)** sposób posługiwania się legitymacją oraz innymi dokumentami SWW.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** legitymacji – rozumie się przez to legitymację służbową SWW;
+- **2)** żołnierzu SWW – rozumie się przez to żołnierza wyznaczonego na stanowisko służbowe w SWW;
+- **3)** funkcjonariuszu SWW – rozumie się przez to funkcjonariusza pełniącego służbę w SWW.
+
+**§ 3.**
+
+1. Żołnierzowi SWW i funkcjonariuszowi SWW na czas pełnienia służby w SWW wydaje się legitymację.
+
 2. Funkcjonariuszowi SWW na czas pełnienia służby w SWW można wydać książeczkę zdrowia.
-§ 4. 1. W legitymacji zamieszcza się:
-1) imię i nazwisko żołnierza SWW albo funkcjonariusza SWW;
-2) aktualną fotografię żołnierza SWW albo funkcjonariusza SWW;
-3) numer legitymacji;
-4) datę ważności legitymacji;
-5) informację o uprawnieniach żołnierza SWW i funkcjonariusza SWW, o których mowa w art. 28 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego;
-6) informację dla znalazcy legitymacji o konieczności dostarczenia jej do najbliższej jednostki Policji i odpowiedzialności karnej za nieuprawnione posługiwanie się legitymacją.
+
+**§ 4.**
+
+1. W legitymacji zamieszcza się:
+
+- **1)** imię i nazwisko żołnierza SWW albo funkcjonariusza SWW;
+- **2)** aktualną fotografię żołnierza SWW albo funkcjonariusza SWW;
+- **3)** numer legitymacji;
+- **4)** datę ważności legitymacji;
+- **5)** informację o uprawnieniach żołnierza SWW i funkcjonariusza SWW, o których mowa w art. 28 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego;
+- **6)** informację dla znalazcy legitymacji o konieczności dostarczenia jej do najbliższej jednostki Policji i odpowiedzialności karnej za nieuprawnione posługiwanie się legitymacją.
+
 2. Wzór legitymacji określa załącznik nr 1 do rozporządzenia.
-§ 5. 1. Organem właściwym do wydawania dokumentów, o których mowa w § 3, jest Szef SWW.
+
+**§ 5.**
+
+1. Organem właściwym do wydawania dokumentów, o których mowa w § 3, jest Szef SWW.
+
 2. Szef SWW jest również właściwy do wymiany, unieważniania oraz dokonywania wpisów w legitymacjach.
+
 3. Czynności, o których mowa w ust. 1 i 2, może wykonywać, upoważniony przez Szefa SWW, kierownik jednostki organizacyjnej SWW właściwej w sprawach kadrowych.
-§ 6. Legitymacja podlega wymianie w przypadku:
-1) zmiany danych w niej zawartych;
-2) uszkodzenia lub zniszczenia;
-3) upływu okresu jej ważności.
-§ 7. 1. Legitymacja podlega zwrotowi w przypadku:
-1) wymiany legitymacji na nową;
-2) zwolnienia ze służby w SWW;
-3) wygaśnięcia stosunku służbowego.
+
+**§ 6.** Legitymacja podlega wymianie w przypadku:
+
+- **1)** zmiany danych w niej zawartych;
+- **2)** uszkodzenia lub zniszczenia;
+- **3)** upływu okresu jej ważności.
+
+**§ 7.**
+
+1. Legitymacja podlega zwrotowi w przypadku:
+
+- **1)** wymiany legitymacji na nową;
+- **2)** zwolnienia ze służby w SWW;
+- **3)** wygaśnięcia stosunku służbowego.
+
 2. Żołnierz SWW albo funkcjonariusz SWW zwraca legitymację kierownikowi jednostki organizacyjnej SWW właściwej w sprawach kadrowych, z tym że w przypadku, o którym mowa w ust. 1 pkt 3, zwrotu legitymacji dokonuje członek rodziny żołnierza SWW albo funkcjonariusza SWW lub przełożony żołnierza SWW albo funkcjonariusza SWW.
-§ 7a. 1. Legitymacja podlega czasowemu zwrotowi w przypadku:
-1) udzielenia żołnierzowi SWW urlopu bezpłatnego, urlopu wychowawczego, urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, dodatkowego urlopu macierzyńskiego, dodatkowego urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego, urlopu zdrowotnego albo urlopu okolicznościowego, o którym mowa w art. 62 ust. 12 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536 i 974) ;
-2) udzielenia funkcjonariuszowi SWW urlopu bezpłatnego, urlopu wychowawczego, urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, dodatkowego urlopu macierzyńskiego, dodatkowego urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego albo urlopu zdrowotnego;
-3) zawieszenia w czynnościach służbowych.
+
+**§ 7a.**
+
+1. Legitymacja podlega czasowemu zwrotowi w przypadku:
+
+- **1)** udzielenia żołnierzowi SWW urlopu bezpłatnego, urlopu wychowawczego, urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, dodatkowego urlopu macierzyńskiego, dodatkowego urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego, urlopu zdrowotnego albo urlopu okolicznościowego, o którym mowa w art. 62 ust. 12 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2022 r. poz. 536 i 974) ;
+- **2)** udzielenia funkcjonariuszowi SWW urlopu bezpłatnego, urlopu wychowawczego, urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, dodatkowego urlopu macierzyńskiego, dodatkowego urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego albo urlopu zdrowotnego;
+- **3)** zawieszenia w czynnościach służbowych.
+
 2. Żołnierz SWW albo funkcjonariusz SWW zwraca legitymację kierownikowi jednostki organizacyjnej SWW właściwej w sprawach kadrowych na czas udzielonego urlopu lub zawieszenia w czynnościach służbowych.
-§ 8. Legitymacja podlega unieważnieniu w przypadku jej utraty albo zgonu żołnierza SWW lub funkcjonariusza SWW.
-§ 9. 1. W przypadku utraty legitymacji żołnierz SWW lub funkcjonariusz SWW jest obowiązany niezwłocznie złożyć drogą służbową pisemny meldunek Szefowi SWW, podając w nim datę i okoliczności utraty legitymacji.
+
+**§ 8.** Legitymacja podlega unieważnieniu w przypadku jej utraty albo zgonu żołnierza SWW lub funkcjonariusza SWW.
+
+**§ 9.**
+
+1. W przypadku utraty legitymacji żołnierz SWW lub funkcjonariusz SWW jest obowiązany niezwłocznie złożyć drogą służbową pisemny meldunek Szefowi SWW, podając w nim datę i okoliczności utraty legitymacji.
+
 2. W przypadku, o którym mowa w ust. 1, Szef SWW zarządza przeprowadzenie postępowania wyjaśniającego.
+
 3. W przypadku odzyskania utraconej legitymacji żołnierz SWW i funkcjonariusz SWW jest obowiązany niezwłocznie zwrócić ją Szefowi SWW i złożyć pisemny meldunek, podając w nim datę i okoliczności jej odzyskania.
-§ 10. 1. Żołnierz SWW i funkcjonariusz SWW może posługiwać się legitymacją tylko podczas wykonywania czynności służbowych.
+
+**§ 10.**
+
+1. Żołnierz SWW i funkcjonariusz SWW może posługiwać się legitymacją tylko podczas wykonywania czynności służbowych.
+
 2. Żołnierz SWW i funkcjonariusz SWW, okazując legitymację, jest obowiązany czynić to w sposób umożliwiający odczytanie umieszczonych w niej danych.
-§ 11. Żołnierz SWW i funkcjonariusz SWW jest obowiązany dbać o należyty stan legitymacji, a w szczególności chronić ją przed utratą lub zniszczeniem.
-§ 12. 1. Żołnierz SWW i funkcjonariusz SWW, posługując się legitymacją, nie może:
-1) odstępować legitymacji innej osobie;
-2) przesyłać legitymacji za pośrednictwem operatora pocztowego, z wyjątkiem dokonywania takiej czynności zgodnie z przepisami wydanymi na podstawie art. 47 ust. 5 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209);
-3) wywozić legitymacji za granicę, chyba że uzyska na to zgodę Szefa SWW.
+
+**§ 11.** Żołnierz SWW i funkcjonariusz SWW jest obowiązany dbać o należyty stan legitymacji, a w szczególności chronić ją przed utratą lub zniszczeniem.
+
+**§ 12.**
+
+1. Żołnierz SWW i funkcjonariusz SWW, posługując się legitymacją, nie może:
+
+- **1)** odstępować legitymacji innej osobie;
+- **2)** przesyłać legitymacji za pośrednictwem operatora pocztowego, z wyjątkiem dokonywania takiej czynności zgodnie z przepisami wydanymi na podstawie art. 47 ust. 5 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209);
+- **3)** wywozić legitymacji za granicę, chyba że uzyska na to zgodę Szefa SWW.
+
 2. W razie nieuzyskania zgody, o której mowa w ust. 1 pkt 3, żołnierz SWW i funkcjonariusz SWW na czas wyjazdu deponuje legitymację w sposób określony przez kierownika jednostki organizacyjnej SWW, w której pełni służbę.
-§ 13. 1. Żołnierz SWW i funkcjonariusz SWW, naruszający sposób posługiwania się legitymacją, podlega odpowiedzialności dyscyplinarnej.
+
+**§ 13.**
+
+1. Żołnierz SWW i funkcjonariusz SWW, naruszający sposób posługiwania się legitymacją, podlega odpowiedzialności dyscyplinarnej.
+
 2. (uchylony).
+
 3. Odpowiedzialność dyscyplinarną ponosi także żołnierz SWW i funkcjonariusz SWW, który z własnej winy legitymację zniszczył, uszkodził lub utracił albo nie złożył pisemnego raportu o jej utracie lub też bez usprawiedliwionych przyczyn złożył taki raport z opóźnieniem.
-§ 14. 1. Książeczka zdrowia jest przeznaczona do dokonywania wpisów o stanie zdrowia funkcjonariusza SWW oraz o przebiegu jego leczenia, a także o wydanych orzeczeniach przez wojskową komisję lekarską.
+
+**§ 14.**
+
+1. Książeczka zdrowia jest przeznaczona do dokonywania wpisów o stanie zdrowia funkcjonariusza SWW oraz o przebiegu jego leczenia, a także o wydanych orzeczeniach przez wojskową komisję lekarską.
+
 2. Do dokonywania wpisów w książeczce zdrowia są właściwi lekarze udzielający funkcjonariuszowi SWW pomocy lekarskiej oraz członkowie komisji lekarskiej, o której mowa w ust. 1.
+
 3. Wzór książeczki zdrowia określa załącznik nr 2 do rozporządzenia.
-§ 15. Funkcjonariusz SWW otrzymuje nową książeczkę zdrowia w przypadku jej utraty lub zniszczenia, a także wyczerpania się miejsca na wpisy, o których mowa w § 14 ust. 1. Przepisy § 9 stosuje się odpowiednio.
-§ 16. (uchylony).
-§ 17. Rozporządzenie wchodzi w życie z dniem 1 października 2006 r.
+
+**§ 15.** Funkcjonariusz SWW otrzymuje nową książeczkę zdrowia w przypadku jej utraty lub zniszczenia, a także wyczerpania się miejsca na wpisy, o których mowa w § 14 ust. 1. Przepisy § 9 stosuje się odpowiednio.
+
+**§ 16.** (uchylony).
+
+**§ 17.** Rozporządzenie wchodzi w życie z dniem 1 października 2006 r.
 
 ## Załącznik nr 1 — WZÓR LEGITYMACJI WZÓR LEGITYMACJI SŁUŻBOWEJ SŁUŻBOWEJ SŁUŻBY SŁUŻBY WYWIADU WYWIADU WOJSKOWGO WOJSKOWGO I. OKŁADKA LEGITYMACJI Okładka wykonana ze skóry w kolorze czarnym, ze srebrnymi tłoczeniami:
 

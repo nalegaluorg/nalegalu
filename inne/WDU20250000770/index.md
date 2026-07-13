@@ -27,9 +27,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000770) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/770/text.pdf) |
 
 w sprawie wysokości zryczałtowanej równowartości wydatków w sprawach z oskarżenia prywatnego Na podstawie art. 621 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304) zarządza się, co następuje:
-§ 1. Wysokość zryczałtowanej równowartości wydatków w sprawach z oskarżenia prywatnego ustala się na kwotę 1000 zł.
-§ 2. Jeżeli obowiązek uiszczenia zryczałtowanej równowartości wydatków w sprawach z oskarżenia prywatnego powstał przed dniem wejścia w życie niniejszego rozporządzenia, wpłaca się ją w dotychczasowej wysokości.
-§ 3. Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 28 maja 2003 r. w sprawie wysokości zryczałtowanej równowartości wydatków w sprawach z oskarżenia prywatnego (Dz. U. poz. 980).
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 lipca 2025 r.
-Minister Sprawiedliwości: A. Bodnar
+
+**§ 1.** Wysokość zryczałtowanej równowartości wydatków w sprawach z oskarżenia prywatnego ustala się na kwotę 1000 zł.
+
+**§ 2.** Jeżeli obowiązek uiszczenia zryczałtowanej równowartości wydatków w sprawach z oskarżenia prywatnego powstał przed dniem wejścia w życie niniejszego rozporządzenia, wpłaca się ją w dotychczasowej wysokości.
+
+**§ 3.** Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 28 maja 2003 r. w sprawie wysokości zryczałtowanej równowartości wydatków w sprawach z oskarżenia prywatnego (Dz. U. poz. 980).
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2025 r. Minister Sprawiedliwości: A. Bodnar
 

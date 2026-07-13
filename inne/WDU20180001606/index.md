@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1606/text.pdf) |
 
 zmieniające rozporządzenie w sprawie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby bezpieczeństwa państwa oraz wykazu tych wyrobów Na podstawie art. 10 ust. 1 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2018 r. poz. 114) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 18 marca 2013 r. w sprawie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby bezpieczeństwa państwa oraz wykazu tych wyrobów (Dz. U. z 2018 r.
-poz. 266) w załączniku w grupie 14 tytuł tabeli 3 otrzymuje brzmienie: „3. przedmioty zaopatrzenia mundurowego funkcjonariuszy Służby Ochrony Państwa”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 18 marca 2013 r. w sprawie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby bezpieczeństwa państwa oraz wykazu tych wyrobów (Dz. U. z 2018 r. poz. 266) w załączniku w grupie 14 tytuł tabeli 3 otrzymuje brzmienie: „3. przedmioty zaopatrzenia mundurowego funkcjonariuszy Służby Ochrony Państwa”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
 

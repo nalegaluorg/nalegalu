@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002814) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2814/text.pdf) |
 
 zmieniające rozporządzenie w sprawie obywatelstw, których posiadanie uprawnia do ubiegania się o wydanie polskiego dokumentu podróży dla cudzoziemca w warunkach określonych w art. 252a ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach Na podstawie art. 252a ust. 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 czerwca 2023 r. w sprawie obywatelstw, których posiadanie uprawnia do ubiegania się o wydanie polskiego dokumentu podróży dla cudzoziemca w warunkach określonych w art. 252a ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1247) w § 3 wyrazy „do dnia 31 grudnia 2023 r.” zastępuje się wyrazami „do dnia 30 czerwca 2024 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kierwiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 czerwca 2023 r. w sprawie obywatelstw, których posiadanie uprawnia do ubiegania się o wydanie polskiego dokumentu podróży dla cudzoziemca w warunkach określonych w art. 252a ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1247) w § 3 wyrazy „do dnia 31 grudnia 2023 r.” zastępuje się wyrazami „do dnia 30 czerwca 2024 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. Minister Spraw Wewnętrznych i Administracji: M. Kierwiński
 

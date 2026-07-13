@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001839) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1839/text.pdf) |
 
 zmieniające rozporządzenie w sprawie formy i szczegółowego zakresu wzorcowych medycznych procedur radiologicznych dla standardowych ekspozycji medycznych oraz szczegółowych medycznych procedur radiologicznych Na podstawie art. 33zm ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277, 1897 i 1907) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 18 października 2021 r. w sprawie formy i szczegółowego zakresu wzorcowych medycznych procedur radiologicznych dla standardowych ekspozycji medycznych oraz szczegółowych medycznych procedur radiologicznych (Dz. U. z 2024 r. poz. 267) w § 5 w ust. 2 wyrazy „31 grudnia 2025 r.” zastępuje się wyrazami „30 czerwca 2027 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. K. Kęcka
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 18 października 2021 r. w sprawie formy i szczegółowego zakresu wzorcowych medycznych procedur radiologicznych dla standardowych ekspozycji medycznych oraz szczegółowych medycznych procedur radiologicznych (Dz. U. z 2024 r. poz. 267) w § 5 w ust. 2 wyrazy „31 grudnia 2025 r.” zastępuje się wyrazami „30 czerwca 2027 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. K. Kęcka
 

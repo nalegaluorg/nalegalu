@@ -31,9 +31,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkoln
 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 12 września 2017 r.
 w sprawie statutu Narodowej Agencji Wymiany Akademickiej Na podstawie art. 16 ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2019 r.
 poz. 1582) zarządza się, co następuje:
-§ 1. Narodowej Agencji Wymiany Akademickiej nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2017 r.
-STATUT NARODOWEJ AGENCJI WYMIANY AKADEMICKIEJ
+
+**§ 1.** Narodowej Agencji Wymiany Akademickiej nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2017 r. STATUT NARODOWEJ AGENCJI WYMIANY AKADEMICKIEJ
+
+## Załącznik
+
 § 1. 1. Narodowa Agencja Wymiany Akademickiej, zwana dalej „Agencją”, działa na podstawie ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2019 r. poz. 1582), zwanej dalej „ustawą”, oraz niniejszego statutu.
 2. W stosunkach z zagranicą Agencja posługuje się nazwą w brzmieniu „Polish National Agency for Academic Exchange”.
 § 2. Do zadań Dyrektora Agencji, zwanego dalej „Dyrektorem”, należy realizowanie zadań określonych w ustawie oraz:

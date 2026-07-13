@@ -27,14 +27,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000436) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/436/text.pdf) |
 
 zmieniające rozporządzenie w sprawie kontroli operacyjnej prowadzonej przez Policję Na podstawie art. 19 ust. 21 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 8 lipca 2022 r. w sprawie kontroli operacyjnej prowadzonej przez Policję (Dz. U. poz. 1458) wprowadza się następujące zmiany:
-1) użyte w § 3 w ust. 2 w pkt 1 i 2, w ust. 3 w pkt 2, 4 i 5, w ust. 4 w pkt 2 oraz w ust. 7, w § 4 w ust. 2 oraz w § 5 w ust.
-w różnym przypadku, wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”;
-2) załączniki nr 1–3 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: T. Siemoniak Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust.
-pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
-Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1006, 1089, 1222, 1248, 1473, 1562, 1688, 1717 i 1871 oraz z 2025 r. poz. 179.
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 8 lipca 2022 r. w sprawie kontroli operacyjnej prowadzonej przez Policję (Dz. U. poz. 1458) wprowadza się następujące zmiany:
+
+- **1)** użyte w § 3 w ust. 2 w pkt 1 i 2, w ust. 3 w pkt 2, 4 i 5, w ust. 4 w pkt 2 oraz w ust. 7, w § 4 w ust. 2 oraz w § 5 w ust. w różnym przypadku, wyrazy „Prokurator Generalny” zastępuje się użytymi w odpowiednim przypadku wyrazami „Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy”;
+- **2)** załączniki nr 1–3 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: T. Siemoniak Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738). Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1006, 1089, 1222, 1248, 1473, 1562, 1688, 1717 i 1871 oraz z 2025 r. poz. 179.
 
 ## Załącznik nr 1 — WZÓR ……………..………….
 

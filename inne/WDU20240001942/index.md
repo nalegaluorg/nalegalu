@@ -26,9 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001942) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1942/text.pdf) |
 
 zmieniające rozporządzenie w sprawie dodatków do uposażenia zasadniczego żołnierzy zawodowych Na podstawie art. 439 ust. 11 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 9 stycznia 2023 r. w sprawie dodatków do uposażenia zasadniczego żołnierzy zawodowych (Dz. U. poz. 149 i 597 oraz z 2024 r. poz. 1792) § 31 otrzymuje brzmienie: „§ 31. 1. Żołnierzowi zawodowemu przyznaje się dodatek za długoletnią służbę wojskową o charakterze stałym po dwóch latach służby wojskowej w wysokości 2 % należnego uposażenia zasadniczego.
-2. Dodatek określony w ust. 1 zwiększa się o kwotę 1 % należnego uposażenia zasadniczego za każdy kolejny rok służby wojskowej, nie więcej jednak niż do wysokości 35 % po 35 latach służby wojskowej.”.
-§ 2. Dotychczasowe decyzje przyznające dodatki do uposażenia zasadniczego zachowują ważność, nie dłużej jednak niż na czas w nich określony, o ile są zgodne z przepisami niniejszego rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-Minister Obrony Narodowej: z up. P. Bejda
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 9 stycznia 2023 r. w sprawie dodatków do uposażenia zasadniczego żołnierzy zawodowych (Dz. U. poz. 149 i 597 oraz z 2024 r. poz. 1792) § 31 otrzymuje brzmienie:
+
+> „§ 31.  
+> 1. Żołnierzowi zawodowemu przyznaje się dodatek za długoletnią służbę wojskową o charakterze stałym po dwóch latach służby wojskowej w wysokości 2 % należnego uposażenia zasadniczego.  
+> 2. Dodatek określony w ust. 1 zwiększa się o kwotę 1 % należnego uposażenia zasadniczego za każdy kolejny rok służby wojskowej, nie więcej jednak niż do wysokości 35 % po 35 latach służby wojskowej.”.  
+
+**§ 2.** Dotychczasowe decyzje przyznające dodatki do uposażenia zasadniczego zachowują ważność, nie dłużej jednak niż na czas w nich określony, o ile są zgodne z przepisami niniejszego rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. Minister Obrony Narodowej: z up. P. Bejda
 

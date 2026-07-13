@@ -35,9 +35,21 @@ source: pdf
     - **b)** w ust. 4 dodaje się zdanie trzecie w brzmieniu: „Do członków rad nadzorczych spółek, o których mowa w ust. 1, stosuje się art. 12 ust. 2.”;
 
 - **3)** w art. 2 pkt 2 otrzymuje brzmienie: „2)statucie, akcjach, akcjonariuszach i walnym zgromadzeniu - rozumie się przez to odpowiednio umowę lub akt założycielski, udziały, wspólników i zgromadzenie wspólników,”;
-- **4)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Do spółki powstałej w wyniku komercjalizacji, o ile ustawa nie stanowi inaczej, stosuje się przepisy Kodeksu spółek handlowych. 2. Do akcji Skarbu Państwa nie stosuje się art. 199 i 359 w zakresie dotyczącym umorzenia przymusowego oraz art. 418 Kodeksu spółek handlowych. 3. W jednoosobowej spółce Skarbu Państwa oświadczenia woli składane spółce przez Skarb Państwa wymagają zachowania formy pisemnej pod rygorem nieważności. Przepisu art. 303 § 2 Kodeksu spółek handlowych nie stosuje się.”;
-- **5)** art. 7 i 8 otrzymują brzmienie: „Art. 7. Bilans zamknięcia przedsiębiorstwa państwowego staje się bilansem otwarcia spółki, przy czym suma kapitałów własnych jest równa sumie funduszu założycielskiego, funduszu przedsiębiorstwa i niepodzielonego wyniku finansowego za okres działalności przedsiębiorstwa przed komercjalizacją. Art. 8. W przypadku niezatwierdzenia sprawozdania finansowego za okres poprzedzający komercjalizację lub niepodjęcia decyzji w sprawie podziału zysku netto albo określenia sposobu pokrycia straty netto czynności tych dokona walne zgromadzenie spółki.”;
-- **6)** w art. 9 ust. 2 i 3 otrzymują brzmienie: „2. W akcie komercjalizacji ustala się: 1) statut spółki, 2) wysokość kapitału zakładowego spółki, 3) imiona i nazwiska członków organów pierwszej kadencji. 3. Akt komercjalizacji zastępuje czynności określone w przepisach Kodeksu spółek handlowych, poprzedzające złożenie wniosku o wpisanie spółki do rejestru przedsiębiorców.”;
+- **4)** art. 5 otrzymuje brzmienie:
+
+  > „Art. 5.  
+  > 1. Do spółki powstałej w wyniku komercjalizacji, o ile ustawa nie stanowi inaczej, stosuje się przepisy Kodeksu spółek handlowych.  
+  > 2. Do akcji Skarbu Państwa nie stosuje się art. 199 i 359 w zakresie dotyczącym umorzenia przymusowego oraz art. 418 Kodeksu spółek handlowych.  
+  > 3. W jednoosobowej spółce Skarbu Państwa oświadczenia woli składane spółce przez Skarb Państwa wymagają zachowania formy pisemnej pod rygorem nieważności. Przepisu art. 303 § 2 Kodeksu spółek handlowych nie stosuje się.”;  
+- **5)** art. 7 i 8 otrzymują brzmienie:
+
+  > „Art. 7. Bilans zamknięcia przedsiębiorstwa państwowego staje się bilansem otwarcia spółki, przy czym suma kapitałów własnych jest równa sumie funduszu założycielskiego, funduszu przedsiębiorstwa i niepodzielonego wyniku finansowego za okres działalności przedsiębiorstwa przed komercjalizacją.  
+  > Art. 8. W przypadku niezatwierdzenia sprawozdania finansowego za okres poprzedzający komercjalizację lub niepodjęcia decyzji w sprawie podziału zysku netto albo określenia sposobu pokrycia straty netto czynności tych dokona walne zgromadzenie spółki.”;  
+- **6)** w art. 9 ust. 2 i 3 otrzymują brzmienie:
+
+  > „2. W akcie komercjalizacji ustala się:  
+  > 1) statut spółki, 2) wysokość kapitału zakładowego spółki, 3) imiona i nazwiska członków organów pierwszej kadencji.  
+  > 3. Akt komercjalizacji zastępuje czynności określone w przepisach Kodeksu spółek handlowych, poprzedzające złożenie wniosku o wpisanie spółki do rejestru przedsiębiorców.”;  
 - **7)** w art. 10 ust. 2 otrzymuje brzmienie: „2. Dniem komercjalizacji jest pierwszy dzień miesiąca przypadającego po wpisaniu spółki do rejestru przedsiębiorców. Z tym dniem następuje skutek wykreślenia przedsiębiorstwa państwowego z rejestru.”;
 - **8)** w art. 16 w ust. 2 w zdaniu drugim wyrazy „walnego zgromadzenia” zastępuje się wyrazami „organu powołującego zarząd”;
 - **9)** w art. 17 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „Sprawowanie zarządu w spółce może być zlecone osobie fizycznej w drodze umowy.”;

@@ -30,9 +30,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 24 grudnia 2013 r. zmieniającego rozporządzenie w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży (Dz. U. z 2014 r. poz. 72), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Środowiska: M.H. Grabowski
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm. ) zarządza się, co następuje:
-§ 1. Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
-STATUT BIAŁOWIESKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W BIAŁOWIEŻY
+
+**§ 1.** Białowieskiemu Parkowi Narodowemu z siedzibą w Białowieży nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia . STATUT BIAŁOWIESKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W BIAŁOWIEŻY
+
+## Załącznik
+
 § 1. Białowieski Park Narodowy z siedzibą w Białowieży, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1) Dział Administracyjno-Gospodarczy;

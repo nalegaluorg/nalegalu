@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw należących do właściwości wydziałów rodzinnych i nieletnich z obszarów właściwości innych sądów rejonowych Na podstawie art. 20 pkt 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2015 r.
 poz. 133, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 29 listopada 2012 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw należących do właściwości wydziałów rodzinnych i nieletnich z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1349) w § 1 uchyla się pkt 3.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 29 listopada 2012 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw należących do właściwości wydziałów rodzinnych i nieletnich z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1349) w § 1 uchyla się pkt 3.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Minister Sprawiedliwości: Z. Ziobro
 

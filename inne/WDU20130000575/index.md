@@ -27,19 +27,30 @@ source: pdf
 
 w sprawie sposobu ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego Na podstawie art. 22 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa sposób ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego, zwanej dalej „Agencją”, podlegających wpłacie do budżetu państwa.
-§ 2. 1. Przy ustalaniu nadwyżki finansowej Agencji uwzględnia się uzyskane dochody pochodzące ze źródeł innych niż budżet państwa i wydatki poniesione przez Agencję.
+
+**§ 1.** Rozporządzenie określa sposób ustalania nadwyżki środków finansowych Agencji Mienia Wojskowego, zwanej dalej „Agencją”, podlegających wpłacie do budżetu państwa.
+
+**§ 2.**
+
+1. Przy ustalaniu nadwyżki finansowej Agencji uwzględnia się uzyskane dochody pochodzące ze źródeł innych niż budżet państwa i wydatki poniesione przez Agencję.
+
 2. Przy ustalaniu nadwyżki finansowej Agencji uwzględnia się środki finansowe Agencji zgromadzone na rachunkach bankowych na koniec danego roku budżetowego, z wyjątkiem środków pochodzących z budżetu państwa, dywidend i przychodów, o których mowa w art. 8 ust. 5 ustawy z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. Nr 163, poz. 1711, z późn. zm. ), zwanej dalej „ustawą”, oraz środków o ograniczonej możliwości dysponowania, które pochodzą z:
-1) zakładowego funduszu świadczeń socjalnych;
-2) wadiów;
-3) kaucji gwarancyjnych.
+
+- **1)** zakładowego funduszu świadczeń socjalnych;
+- **2)** wadiów;
+- **3)** kaucji gwarancyjnych.
+
 3. Przy ustalaniu nadwyżki środków finansowych środki podlegające rozliczeniu, o których mowa w ust. 2, zostają pomniejszone o ustalone na koniec roku budżetowego:
-1) zobowiązania podatkowe,
-2) zobowiązania z tytułu odpisów na inwestycje Sił Zbrojnych Rzeczypospolitej Polskiej zgodnie z art. 29 ust. 3 ustawy oraz odpisów przeznaczonych na fundusz, o którym mowa w art. 31c ustawy,
-3) zobowiązania dotyczące okresu sprawozdawczego wymagalne w roku następnym do dnia 31 marca – z wyłączeniem zobowiązań związanych ze środkami, o których mowa w ust. 2 pkt 1–3.
-§ 3. Nadwyżkę środków finansowych Agencji stanowią środki finansowe pochodzące ze źródeł, o których mowa w § 2 ust. 1, niewykorzystane do końca danego roku budżetowego.
-§ 4. Środki finansowe z tytułu nadwyżki finansowej są gromadzone na rachunku bankowym Agencji.
-§ 5. Rozporządzenie ma zastosowanie do ustalania nadwyżki środków finansowych Agencji za 2012 r.
-§ 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: T. Siemoniak
+
+- **1)** zobowiązania podatkowe,
+- **2)** zobowiązania z tytułu odpisów na inwestycje Sił Zbrojnych Rzeczypospolitej Polskiej zgodnie z art. 29 ust. 3 ustawy oraz odpisów przeznaczonych na fundusz, o którym mowa w art. 31c ustawy,
+- **3)** zobowiązania dotyczące okresu sprawozdawczego wymagalne w roku następnym do dnia 31 marca – z wyłączeniem zobowiązań związanych ze środkami, o których mowa w ust. 2 pkt 1–3.
+
+**§ 3.** Nadwyżkę środków finansowych Agencji stanowią środki finansowe pochodzące ze źródeł, o których mowa w § 2 ust. 1, niewykorzystane do końca danego roku budżetowego.
+
+**§ 4.** Środki finansowe z tytułu nadwyżki finansowej są gromadzone na rachunku bankowym Agencji.
+
+**§ 5.** Rozporządzenie ma zastosowanie do ustalania nadwyżki środków finansowych Agencji za 2012 r.
+
+**§ 6.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: T. Siemoniak
 

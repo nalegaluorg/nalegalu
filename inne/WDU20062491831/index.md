@@ -32,7 +32,11 @@ source: pdf
 - **1)** w art. 152:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Domy pomocy społecznej, które nie osiągają obowiązującego standardu, są obowiązane do opracowania i realizacji programu naprawczego do końca 2010 r.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Zachowują moc zezwolenia na prowadzenie domu pomocy społecznej wydane przed dniem wejścia w życie ustawy.”,
-    - **c)** dodaje się ust. 4-6 w brzmieniu: „4. Zezwolenia warunkowe na prowadzenie domu pomocy społecznej zachowują moc nie dłużej niż do dnia 31 grudnia 2010 r. 5. Od dnia 1 stycznia 2009 r. organ gminy nie może kierować osób do domu pomocy społecznej prowadzonego na podstawie zezwolenia warunkowego. 6. Opłata za pobyt w domu pomocy społecznej prowadzonym na podstawie zezwolenia warunkowego po dniu 31 grudnia 2007 r. nie może ulec podwyższeniu, aż do miesiąca, w którym zostanie wydane zezwolenie na prowadzenie domu pomocy społecznej.”;
+    - **c)** dodaje się ust. 4-6 w brzmieniu:
+
+      > „4. Zezwolenia warunkowe na prowadzenie domu pomocy społecznej zachowują moc nie dłużej niż do dnia 31 grudnia 2010 r.  
+      > 5. Od dnia 1 stycznia 2009 r. organ gminy nie może kierować osób do domu pomocy społecznej prowadzonego na podstawie zezwolenia warunkowego.  
+      > 6. Opłata za pobyt w domu pomocy społecznej prowadzonym na podstawie zezwolenia warunkowego po dniu 31 grudnia 2007 r. nie może ulec podwyższeniu, aż do miesiąca, w którym zostanie wydane zezwolenie na prowadzenie domu pomocy społecznej.”;  
 
 - **2)** w art. 154:
     - **a)** ust. 7 otrzymuje brzmienie: „7. Placówki opiekuńczo-wychowawcze, które nie osiągają wymaganego standardu, są obowiązane do opracowania programu naprawczego do końca 2007 r.”,

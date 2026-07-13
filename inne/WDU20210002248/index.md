@@ -26,13 +26,21 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2248/text.pdf) |
 
 w sprawie nadania statutu Polskiej Agencji Kosmicznej Na podstawie art. 6 ust. 2 ustawy z dnia 26 września 2014 r. o Polskiej Agencji Kosmicznej (Dz. U. z 2020 r. poz. 1957) zarządza się, co następuje:
-§ 1. Polskiej Agencji Kosmicznej nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 17 czerwca 2015 r. w sprawie nadania statutu Polskiej Agencji Kosmicznej (Dz. U. poz. 861).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Technologii: P. Nowak STATUT POLSKIEJ AGENCJI KOSMICZNEJ
+
+**§ 1.** Polskiej Agencji Kosmicznej nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 17 czerwca 2015 r. w sprawie nadania statutu Polskiej Agencji Kosmicznej (Dz. U. poz. 861).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Technologii: P. Nowak STATUT POLSKIEJ AGENCJI KOSMICZNEJ
+
+#### Rozdział 1 Postanowienia ogólne
+
+## Załącznik
+
 § 1. Polska Agencja Kosmiczna, zwana dalej „Agencją”, działa na podstawie ustawy z dnia 26 września 2014 r.
 o Polskiej Agencji Kosmicznej (Dz. U. z 2020 r. poz. 1957) oraz niniejszego statutu.
 § 2. Agencja może, obok nazwy w języku polskim, posługiwać się jej tłumaczeniem na język angielski w brzmieniu „Polish Space Agency” oraz skrótem „POLSA”.
+Rozdział 2 Struktura wewnętrzna Agencji
 § 3. Zadania Prezesa Agencji, zwanego dalej „Prezesem”, podczas jego nieobecności lub czasowej niemożności wykonywania przez niego obowiązków wykonuje wiceprezes. W przypadku gdy w Agencji powołano dwóch wiceprezesów, Prezes wyznacza zastępującego go wiceprezesa.
 § 4. 1. W Agencji tworzy się następujące komórki organizacyjne:
 1) Biuro Organizacyjne;
@@ -60,6 +68,7 @@ o Polskiej Agencji Kosmicznej (Dz. U. z 2020 r. poz. 1957) oraz niniejszego stat
 2) strukturę organizacyjną komórek organizacyjnych i oddziałów terenowych;
 3) wykaz stanowisk pracy.
 2. O nadaniu regulaminu organizacyjnego Agencji oraz jego zmianach Prezes niezwłocznie zawiadamia ministra właściwego do spraw gospodarki.
+Rozdział 3 System kontroli wewnętrznej
 § 8. Prezes jest odpowiedzialny za zorganizowanie i prawidłowe działanie kontroli wewnętrznej, a także za należyte wykorzystanie wyników tej kontroli.
 § 9. Czynności w ramach kontroli wewnętrznej, w zakresie swojego działania, wykonują:
 1) Prezes;
@@ -72,10 +81,4 @@ o Polskiej Agencji Kosmicznej (Dz. U. z 2020 r. poz. 1957) oraz niniejszego stat
 § 12. Kontrolujący podlega wyłączeniu od udziału w kontroli wewnętrznej, jeżeli jej wyniki mogą dotyczyć jego praw lub obowiązków albo praw lub obowiązków jego małżonka, krewnych i powinowatych bądź innych osób bliskich, a także jeżeli zachodzi uzasadniona wątpliwość co do bezstronności kontrolującego. Czynności w ramach kontroli wewnętrznej nie mogą być podjęte przed rozstrzygnięciem przez Prezesa sprawy wyłączenia tych osób z udziału w kontroli wewnętrznej.
 § 13. Wyniki kontroli wewnętrznej stanowią dla Prezesa podstawę do usunięcia uchybień stwierdzonych w jej toku oraz podejmowania czynności zapobiegających powstawaniu nieprawidłowości.
 § 14. Sposób i tryb przeprowadzania kontroli wewnętrznej określa Prezes w regulaminie kontroli wewnętrznej.
-
-#### Rozdział 1 Postanowienia ogólne
-
-#### Rozdział 2 Struktura wewnętrzna Agencji
-
-#### Rozdział 3 System kontroli wewnętrznej
 

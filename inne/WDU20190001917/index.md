@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji Na podstawie art. 174 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
 z 2019 r. poz. 1438, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 28 lutego 2011 r. w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. z 2018 r. poz. 1016) w § 4 w ust. 1 w pkt 1 dodaje się lit. d w brzmieniu: „d) przedmiotów – które stały się własnością Skarbu Państwa na podstawie prawomocnego orzeczenia ich przepadku – innych niż określone w art. 179 § 5 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U.
-z 2018 r. poz. 1958, z późn. zm. ) w prowadzonych przez naczelnika urzędu celno-skarbowego sprawach o przestępstwa skarbowe i wykroczenia skarbowe,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 28 lutego 2011 r. w sprawie rozciągnięcia stosowania przepisów ustawy o postępowaniu egzekucyjnym w administracji (Dz. U. z 2018 r. poz. 1016) w § 4 w ust. 1 w pkt 1 dodaje się lit. d w brzmieniu: „d) przedmiotów – które stały się własnością Skarbu Państwa na podstawie prawomocnego orzeczenia ich przepadku – innych niż określone w art. 179 § 5 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, z późn. zm. ) w prowadzonych przez naczelnika urzędu celno-skarbowego sprawach o przestępstwa skarbowe i wykroczenia skarbowe,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

@@ -30,24 +30,37 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 grudnia 2021 r. zmieniającego rozporządzenie w sprawie wynagrodzenia i ryczałtu członków Rady do Spraw Uchodźców (Dz. U. poz. 2403), który stanowi: „ § 2. Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 27 listopada 2008 r.
 w sprawie wynagrodzenia i ryczałtu członków Rady do Spraw Uchodźców Na podstawie art. 89za ust. 2 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 1264 i 1383 oraz z 2023 r. poz. 185) zarządza się, co następuje:
-§ 1. Członkom Rady do Spraw Uchodźców, zwanej dalej „Radą”, przysługuje:
-1) wynagrodzenie miesięczne,
-2) ryczałt miesięczny za udział w posiedzeniach Rady,
-3) wynagrodzenie za udział w składach orzekających,
-4) wynagrodzenie za udział w postępowaniach przed sądem administracyjnym – płatne z dołu na koniec miesiąca.
-§ 2. Wynagrodzenie miesięczne wynosi:
-1) 2100 zł – dla przewodniczącego Rady;
-2) 1500 zł – dla zastępcy przewodniczącego Rady;
-3) 700 zł – dla członka Rady.
-§ 3. Ryczałt miesięczny za udział w posiedzeniach Rady wynosi 100 zł i przysługuje, jeżeli w danym miesiącu odbyło się co najmniej jedno posiedzenie plenarne Rady.
-§ 4. 1. Wynagrodzenie za udział w składach orzekających zależy od liczby spraw załatwionych na posiedzeniu.
+
+**§ 1.** Członkom Rady do Spraw Uchodźców, zwanej dalej „Radą”, przysługuje:
+
+- **1)** wynagrodzenie miesięczne,
+- **2)** ryczałt miesięczny za udział w posiedzeniach Rady,
+- **3)** wynagrodzenie za udział w składach orzekających,
+- **4)** wynagrodzenie za udział w postępowaniach przed sądem administracyjnym – płatne z dołu na koniec miesiąca.
+
+**§ 2.** Wynagrodzenie miesięczne wynosi:
+
+- **1)** 2100 zł – dla przewodniczącego Rady;
+- **2)** 1500 zł – dla zastępcy przewodniczącego Rady;
+- **3)** 700 zł – dla członka Rady.
+
+**§ 3.** Ryczałt miesięczny za udział w posiedzeniach Rady wynosi 100 zł i przysługuje, jeżeli w danym miesiącu odbyło się co najmniej jedno posiedzenie plenarne Rady.
+
+**§ 4.**
+
+1. Wynagrodzenie za udział w składach orzekających zależy od liczby spraw załatwionych na posiedzeniu.
+
 2. Wynagrodzenie przysługuje członkowi składu orzekającego i wynosi 180 zł za:
-1) wydanie orzeczenia kończącego postępowanie przed Radą;
-2) sporządzenie odpowiedzi na skargę do wojewódzkiego sądu administracyjnego;
-3) sporządzenie odpowiedzi na skargę kasacyjną do Naczelnego Sądu Administracyjnego;
-4) sporządzenie skargi kasacyjnej do Naczelnego Sądu Administracyjnego;
-5) sporządzenie pisma procesowego do sądu administracyjnego.
+
+- **1)** wydanie orzeczenia kończącego postępowanie przed Radą;
+- **2)** sporządzenie odpowiedzi na skargę do wojewódzkiego sądu administracyjnego;
+- **3)** sporządzenie odpowiedzi na skargę kasacyjną do Naczelnego Sądu Administracyjnego;
+- **4)** sporządzenie skargi kasacyjnej do Naczelnego Sądu Administracyjnego;
+- **5)** sporządzenie pisma procesowego do sądu administracyjnego.
+
 3. Wynagrodzenie za wydanie orzeczenia kończącego postępowanie przed Radą dla członka składu orzekającego, który przeprowadził przesłuchanie w tym postępowaniu, wynosi 280 zł.
-§ 5. Wynagrodzenie za udział w postępowaniu przed sądem administracyjnym wynosi 120 zł.
-§ 6. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2009 r.
+
+**§ 5.** Wynagrodzenie za udział w postępowaniu przed sądem administracyjnym wynosi 120 zł.
+
+**§ 6.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2009 r.
 

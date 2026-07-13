@@ -27,13 +27,16 @@ source: pdf
 
 w sprawie zakresu wymagań, jakie dla obiektów budowlanych lokalizowanych na obszarach szczególnego zagrożenia powodzią może określać pozwolenie wodnoprawne Na podstawie art. 390 ust. 4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2018 r. poz. 2268 oraz z 2019 r.
 poz. 125) zarządza się, co następuje:
-§ 1. Pozwolenie wodnoprawne może określać wymagania dla obiektów budowlanych lokalizowanych na obszarach szczególnego zagrożenia powodzią dotyczące:
-1) lokalizacji obiektu budowlanego na działce budowlanej – w zakresie dostosowania usytuowania względem kierunku przepływu wody powodziowej;
-2) doboru rozwiązań architektoniczno-budowlanych i materiałowych, w tym dotyczących:
-a) konstrukcji obiektu budowlanego – w zakresie jej dostosowania do wyporu w czasie zalania wodami powodziowymi oraz naporu wody i kry,
-b) kondygnacji obiektu budowlanego – w zakresie ich liczby oraz wysokości usytuowania poziomu posadzki najniższej kondygnacji nad poziom wody o prawdopodobieństwie wystąpienia powodzi wynoszącym 1%;
-3) sposobu posadowienia obiektu budowlanego – w zakresie jego powiązania z gruntem, w zależności od parametrów zasięgu i głębokości wody o prawdopodobieństwie wystąpienia powodzi wynoszącym 1%;
-4) urządzeń budowlanych związanych z danym obiektem budowlanym w zakresie ich usytuowania oraz zastosowanych rozwiązań techniczno-materiałowych.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Minister Inwestycji i Rozwoju: J. Kwieciński
+
+**§ 1.** Pozwolenie wodnoprawne może określać wymagania dla obiektów budowlanych lokalizowanych na obszarach szczególnego zagrożenia powodzią dotyczące:
+
+- **1)** lokalizacji obiektu budowlanego na działce budowlanej – w zakresie dostosowania usytuowania względem kierunku przepływu wody powodziowej;
+- **2)** doboru rozwiązań architektoniczno-budowlanych i materiałowych, w tym dotyczących:
+    - **a)** konstrukcji obiektu budowlanego – w zakresie jej dostosowania do wyporu w czasie zalania wodami powodziowymi oraz naporu wody i kry,
+    - **b)** kondygnacji obiektu budowlanego – w zakresie ich liczby oraz wysokości usytuowania poziomu posadzki najniższej kondygnacji nad poziom wody o prawdopodobieństwie wystąpienia powodzi wynoszącym 1%;
+
+- **3)** sposobu posadowienia obiektu budowlanego – w zakresie jego powiązania z gruntem, w zależności od parametrów zasięgu i głębokości wody o prawdopodobieństwie wystąpienia powodzi wynoszącym 1%;
+- **4)** urządzeń budowlanych związanych z danym obiektem budowlanym w zakresie ich usytuowania oraz zastosowanych rozwiązań techniczno-materiałowych.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk Minister Inwestycji i Rozwoju: J. Kwieciński
 

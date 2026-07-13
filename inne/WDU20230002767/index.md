@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002767) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2767/text.pdf) |
 
 zmieniające rozporządzenie w sprawie utworzenia Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratur regionalnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości Na podstawie art. 35 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360, 1429 i 1860) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 19 lutego 2016 r. w sprawie utworzenia Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratur regionalnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. z 2023 r. poz. 1209) w § 4 w pkt 33 lit. f otrzymuje brzmienie: „f) Prokuraturę Rejonową w Słupsku dla miast Słupsk i Ustka oraz gmin: Damnica, Dębnica Kaszubska, Główczyce, Kobylnica, Redzikowo, Smołdzino i Ustka;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.
-Minister Sprawiedliwości: M. Warchoł
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 19 lutego 2016 r. w sprawie utworzenia Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratur regionalnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. z 2023 r. poz. 1209) w § 4 w pkt 33 lit. f otrzymuje brzmienie: „f) Prokuraturę Rejonową w Słupsku dla miast Słupsk i Ustka oraz gmin: Damnica, Dębnica Kaszubska, Główczyce, Kobylnica, Redzikowo, Smołdzino i Ustka;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r. Minister Sprawiedliwości: M. Warchoł
 

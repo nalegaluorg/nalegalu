@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zadań Narodowego Centrum Badań i Rozwoju związanych z realizacją badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa Na podstawie art. 28 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2022 r.
 poz. 2279) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 28 sierpnia 2020 r. w sprawie zadań Narodowego Centrum Badań i Rozwoju związanych z realizacją badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa (Dz. U. poz. 1495) w § 10 w ust. 3 pkt 1 otrzymuje brzmienie: „1) ministrowi właściwemu do spraw rozwoju regionalnego wraz z opinią, o której mowa w art. 17 pkt 4 ustawy;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Funduszy i Polityki Regionalnej: G. Puda
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 28 sierpnia 2020 r. w sprawie zadań Narodowego Centrum Badań i Rozwoju związanych z realizacją badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa (Dz. U. poz. 1495) w § 10 w ust. 3 pkt 1 otrzymuje brzmienie: „1) ministrowi właściwemu do spraw rozwoju regionalnego wraz z opinią, o której mowa w art. 17 pkt 4 ustawy;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Funduszy i Polityki Regionalnej: G. Puda
 

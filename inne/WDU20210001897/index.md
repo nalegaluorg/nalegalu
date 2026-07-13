@@ -27,10 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej Na podstawie art. 444 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r.
 poz. 478, 619 i 1630) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 maja 2019 r. w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 873) wprowadza się następujące zmiany:
-1) w § 1 po wyrazach „w służbie kandydackiej” dodaje się wyrazy „oraz na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego”;
-2) w § 2 wyrazy „50 miejsc” zastępuje się wyrazami „60 miejsc”;
-3) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Ustala się limit przyjęć na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego w liczbie 60 miejsc.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 października 2022 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 maja 2019 r. w sprawie limitu przyjęć na kierunki studiów dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 873) wprowadza się następujące zmiany:
+
+- **1)** w § 1 po wyrazach „w służbie kandydackiej” dodaje się wyrazy „oraz na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego”;
+- **2)** w § 2 wyrazy „50 miejsc” zastępuje się wyrazami „60 miejsc”;
+- **3)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Ustala się limit przyjęć na studia na kierunku „bezpieczeństwo wewnętrzne” dla funkcjonariuszy Służby Więziennej w służbie stałej skierowanych na studia przez właściwego przełożonego w liczbie 60 miejsc.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem 1 października 2022 r. Minister Sprawiedliwości: Z. Ziobro
 

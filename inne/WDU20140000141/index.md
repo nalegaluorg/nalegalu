@@ -26,30 +26,46 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000141) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/141/text.pdf) |
 
 w sprawie Funduszu Gwarancyjnego Na podstawie art. 185 ust. 4 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2013 r. poz. 989, 1289 i 1717) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wysokość wnoszonych wpłat do Funduszu Gwarancyjnego, z zastrzeżeniem, że całkowita wartość środków Funduszu Gwarancyjnego nie może przekraczać 0,3% wartości aktywów netto wszystkich otwartych funduszy, chyba że wartość zobowiązań Funduszu Gwarancyjnego wobec otwartych funduszy emerytalnych przekracza tę wielkość;
-2) sposób i tryb wnoszenia wpłat do Funduszu Gwarancyjnego;
-3) sposób i tryb działania Funduszu Gwarancyjnego, w tym lokowania jego środków;
-4) sposób gospodarowania środkami Funduszu Gwarancyjnego, wysokość opłat wnoszonych do Krajowego Depozytu za administrowanie Funduszem Gwarancyjnym i tryb ich wnoszenia;
-5) warunki i tryb dokonywania wypłat ze środków Funduszu Gwarancyjnego oraz ich zwrotu powszechnym towarzystwom, a także sposób dokonywania rozliczeń z powszechnymi towarzystwami, które zaprzestały dokonywania wpłat wskutek zakończenia działalności określonej w ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie – oznacza to ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
-2) Krajowym Depozycie – oznacza to Krajowy Depozyt Papierów Wartościowych S.A.;
-3) wypłacie ze środków Funduszu Gwarancyjnego – oznacza to wypłaty, o których mowa w art. 187 ustawy;
-4) rachunku rozliczeniowym – oznacza to rachunek bankowy prowadzony dla banku w Centrali Narodowego Banku Polskiego, poprzez który bank ten uczestniczy w rozrachunkach międzybankowych dokonywanych przez Narodowy Bank Polski.
-§ 3. 1. W celu ustalenia wysokości wpłat do Funduszu Gwarancyjnego, niezwłocznie po przyjęciu przez otwarty fundusz pierwszej składki lub pierwszej wypłaty transferowej, w zależności od tego, którą z nich otwarty fundusz przyjął wcześniej, nie później jednak niż w terminie składania informacji o wartości aktywów netto, o której mowa w § 10, powszechne towarzystwo nim zarządzające składa w Krajowym Depozycie:
-1) aktualny odpis z rejestru funduszy emerytalnych;
-2) odpisy pełnomocnictw osób upoważnionych do reprezentowania powszechnego towarzystwa wobec Krajowego Depozytu, jeżeli upoważnienie takie nie wynika z dokumentu, o którym mowa w pkt 1;
-3) kartę wzorów podpisów osób upoważnionych do reprezentowania powszechnego towarzystwa wobec Krajowego Depozytu;
-4) listę osób upoważnionych przez powszechne towarzystwo do składania wobec Krajowego Depozytu i odbierania w imieniu powszechnego towarzystwa oświadczeń niebędących oświadczeniami woli oraz kartę wzorów podpisów tych osób;
-5) dokument zawierający wskazanie adresu, pod który powinny być przesyłane powszechnemu towarzystwu zawiadomienia, wezwania i informacje, o których mowa w rozporządzeniu;
-6) dokument zawierający wskazanie rachunku rozliczeniowego, na który mają być zwracane nadpłaty, o których mowa
-§ 7.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wysokość wnoszonych wpłat do Funduszu Gwarancyjnego, z zastrzeżeniem, że całkowita wartość środków Funduszu Gwarancyjnego nie może przekraczać 0,3% wartości aktywów netto wszystkich otwartych funduszy, chyba że wartość zobowiązań Funduszu Gwarancyjnego wobec otwartych funduszy emerytalnych przekracza tę wielkość;
+- **2)** sposób i tryb wnoszenia wpłat do Funduszu Gwarancyjnego;
+- **3)** sposób i tryb działania Funduszu Gwarancyjnego, w tym lokowania jego środków;
+- **4)** sposób gospodarowania środkami Funduszu Gwarancyjnego, wysokość opłat wnoszonych do Krajowego Depozytu za administrowanie Funduszem Gwarancyjnym i tryb ich wnoszenia;
+- **5)** warunki i tryb dokonywania wypłat ze środków Funduszu Gwarancyjnego oraz ich zwrotu powszechnym towarzystwom, a także sposób dokonywania rozliczeń z powszechnymi towarzystwami, które zaprzestały dokonywania wpłat wskutek zakończenia działalności określonej w ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** ustawie – oznacza to ustawę z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **2)** Krajowym Depozycie – oznacza to Krajowy Depozyt Papierów Wartościowych S.A.;
+- **3)** wypłacie ze środków Funduszu Gwarancyjnego – oznacza to wypłaty, o których mowa w art. 187 ustawy;
+- **4)** rachunku rozliczeniowym – oznacza to rachunek bankowy prowadzony dla banku w Centrali Narodowego Banku Polskiego, poprzez który bank ten uczestniczy w rozrachunkach międzybankowych dokonywanych przez Narodowy Bank Polski.
+
+**§ 3.**
+
+1. W celu ustalenia wysokości wpłat do Funduszu Gwarancyjnego, niezwłocznie po przyjęciu przez otwarty fundusz pierwszej składki lub pierwszej wypłaty transferowej, w zależności od tego, którą z nich otwarty fundusz przyjął wcześniej, nie później jednak niż w terminie składania informacji o wartości aktywów netto, o której mowa w § 10, powszechne towarzystwo nim zarządzające składa w Krajowym Depozycie:
+
+- **1)** aktualny odpis z rejestru funduszy emerytalnych;
+- **2)** odpisy pełnomocnictw osób upoważnionych do reprezentowania powszechnego towarzystwa wobec Krajowego Depozytu, jeżeli upoważnienie takie nie wynika z dokumentu, o którym mowa w pkt 1;
+- **3)** kartę wzorów podpisów osób upoważnionych do reprezentowania powszechnego towarzystwa wobec Krajowego Depozytu;
+- **4)** listę osób upoważnionych przez powszechne towarzystwo do składania wobec Krajowego Depozytu i odbierania w imieniu powszechnego towarzystwa oświadczeń niebędących oświadczeniami woli oraz kartę wzorów podpisów tych osób;
+- **5)** dokument zawierający wskazanie adresu, pod który powinny być przesyłane powszechnemu towarzystwu zawiadomienia, wezwania i informacje, o których mowa w rozporządzeniu;
+- **6)** dokument zawierający wskazanie rachunku rozliczeniowego, na który mają być zwracane nadpłaty, o których mowa
+
+**§ 7.**
+
 2. Powszechne towarzystwo niezwłocznie informuje Krajowy Depozyt o wszelkich zmianach danych zawartych w dokumentach, o których mowa w ust. 1. Do informacji takiej powszechne towarzystwo załącza dokumenty zawierające aktualne dane.
+
 3. Dokumenty, o których mowa w ust. 1 i 2, składa się w oryginale lub uwierzytelnionym we właściwy sposób odpisie, przez który rozumie się:
-1) w przypadku dokumentów urzędowych – odpis urzędowo albo notarialnie poświadczony za zgodność z oryginałem;
-2) w przypadku dokumentów prywatnych – odpis poświadczony notarialnie za zgodność z oryginałem, a w przypadku dokumentów zawierających własne oświadczenia powszechnego towarzystwa również odpis poświadczony za zgodność z oryginałem przez organ uprawniony do reprezentowania powszechnego towarzystwa.
+
+- **1)** w przypadku dokumentów urzędowych – odpis urzędowo albo notarialnie poświadczony za zgodność z oryginałem;
+- **2)** w przypadku dokumentów prywatnych – odpis poświadczony notarialnie za zgodność z oryginałem, a w przypadku dokumentów zawierających własne oświadczenia powszechnego towarzystwa również odpis poświadczony za zgodność z oryginałem przez organ uprawniony do reprezentowania powszechnego towarzystwa.
+
 4. Krajowy Depozyt informuje niezwłocznie organ nadzoru o złożeniu dokumentów, o których mowa w ust. 1, przez powszechne towarzystwo oraz o terminie ich złożenia.
+
+## Załącznik
+
 § 4. 1. Wysokość wpłat wnoszonych przez powszechne towarzystwa do Funduszu Gwarancyjnego jest ustalana w każdym kolejnym kwartale kalendarzowym, z zastrzeżeniem § 6.
 2. Wysokość wpłat do Funduszu Gwarancyjnego wynosi dla każdego powszechnego towarzystwa 0,3% wartości aktywów netto otwartego funduszu zarządzanego przez to towarzystwo, według stanu na ostatni dzień wyceny w poprzednim kwartale kalendarzowym.
 3. Na poczet każdej kolejnej wpłaty, do wniesienia której zobowiązane jest powszechne towarzystwo, zalicza się wpłaty dotychczas przez to towarzystwo wniesione, powiększone o wartość przypadającego na to towarzystwo udziału w zasobie rezerwowym, według stanu na ostatni dzień poprzedniego kwartału kalendarzowego, i pomniejszone o opłaty należne Krajowemu Depozytowi za administrowanie Funduszem Gwarancyjnym.
@@ -152,5 +168,4 @@ Przepis § 3 stosuje się odpowiednio, przy czym dla powszechnego towarzystwa za
 3. Jeżeli wysokość opłaty przewyższa wartość udziału powszechnego towarzystwa w zasobie rezerwowym Funduszu Gwarancyjnego, wówczas jest ona pobierana z udziału tego powszechnego towarzystwa w zasobie podstawowym Funduszu Gwarancyjnego.
 4. Jeżeli łączna wartość środków utrzymywanych przez powszechne towarzystwo w Funduszu Gwarancyjnym jest niższa od wysokości opłat należnych Krajowemu Depozytowi od tego towarzystwa, wówczas wszelkie wpłaty tego towarzystwa do Funduszu Gwarancyjnego są zaliczane w pierwszej kolejności na poczet opłat należnych Krajowemu Depozytowi, przed zaliczeniem ich na poczet wpłat do Funduszu Gwarancyjnego.
 § 29. Rozporządzenie wchodzi w życie z dniem 1 lutego 2014 r.
-Prezes Rady Ministrów: D. Tusk
 

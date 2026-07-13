@@ -30,12 +30,18 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 22 grudnia 2022 r. zmieniającego rozporządzenie w sprawie wyrobów akcyzowych, w przypadku których podatnicy mogą stosować kwartalny okres rozliczeniowy (Dz. U. poz. 2792), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.”. Minister Finansów: A. Domański
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 29 października 2013 r.
 w sprawie wyrobów akcyzowych, w przypadku których podatnicy mogą stosować kwartalny okres rozliczeniowy Na podstawie art. 26 ust. 2 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wyroby akcyzowe, w przypadku których podatnicy mogą stosować okres rozliczeniowy dłuższy niż wymieniony w art. 21 ust. 9 oraz w art. 21a ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
-2) termin składania deklaracji w sprawie podatku akcyzowego od wyrobów węglowych;
-3) termin wpłaty podatku akcyzowego od wyrobów węglowych.
-§ 2. Podatnicy podatku akcyzowego mogą stosować kwartalny okres rozliczeniowy w przypadku wyrobów węglowych.
-§ 3. Deklarację w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn) składa się za kwartalny okres rozliczeniowy w terminie do 25. dnia przypadającego w drugim miesiącu po kwartale, w którym powstał obowiązek podatkowy.
-§ 4. Podatek akcyzowy od wyrobów węglowych wpłaca się za kwartalny okres rozliczeniowy w terminie do 25. dnia przypadającego w drugim miesiącu po kwartale, w którym powstał obowiązek podatkowy.
-§ 5. Rozporządzenie wchodzi w życie z dniem 1 listopada 2013 r.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wyroby akcyzowe, w przypadku których podatnicy mogą stosować okres rozliczeniowy dłuższy niż wymieniony w art. 21 ust. 9 oraz w art. 21a ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
+- **2)** termin składania deklaracji w sprawie podatku akcyzowego od wyrobów węglowych;
+- **3)** termin wpłaty podatku akcyzowego od wyrobów węglowych.
+
+**§ 2.** Podatnicy podatku akcyzowego mogą stosować kwartalny okres rozliczeniowy w przypadku wyrobów węglowych.
+
+**§ 3.** Deklarację w sprawie podatku akcyzowego od wyrobów węglowych (AKC-WW/AKC-WWn) składa się za kwartalny okres rozliczeniowy w terminie do 25. dnia przypadającego w drugim miesiącu po kwartale, w którym powstał obowiązek podatkowy.
+
+**§ 4.** Podatek akcyzowy od wyrobów węglowych wpłaca się za kwartalny okres rozliczeniowy w terminie do 25. dnia przypadającego w drugim miesiącu po kwartale, w którym powstał obowiązek podatkowy.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 1 listopada 2013 r.
 

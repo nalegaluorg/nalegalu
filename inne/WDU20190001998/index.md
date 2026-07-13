@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001998) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1998/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zakresu znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty oraz egzaminu ze znajomości języka polskiego Na podstawie art. 13 ust. 6 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2019 r. poz. 952) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 19 czerwca 2017 r. w sprawie zakresu znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty oraz egzaminu ze znajomości języka polskiego (Dz. U. poz. 1224) w załączniku do rozporządzenia wyrazy „pieczęć Krajowej Rady Fizjoterapeutów” zastępuje się wyrazami „pieczęć, nadruk lub naklejka Krajowej Rady Fizjoterapeutów”.
-§ 2. Zaświadczenia o zdaniu egzaminu ze znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Cieszyński
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 19 czerwca 2017 r. w sprawie zakresu znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty oraz egzaminu ze znajomości języka polskiego (Dz. U. poz. 1224) w załączniku do rozporządzenia wyrazy „pieczęć Krajowej Rady Fizjoterapeutów” zastępuje się wyrazami „pieczęć, nadruk lub naklejka Krajowej Rady Fizjoterapeutów”.
+
+**§ 2.** Zaświadczenia o zdaniu egzaminu ze znajomości języka polskiego niezbędnej do wykonywania zawodu fizjoterapeuty wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. J. Cieszyński
 

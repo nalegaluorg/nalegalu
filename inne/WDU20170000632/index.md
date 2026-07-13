@@ -26,12 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000632) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/632/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane Na podstawie art. 193a § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 24 czerwca 2016 r. w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane (Dz. U. poz. 932) wprowadza się następujące zmiany:
-1) w § 2:
-a) ust. 2 otrzymuje brzmienie: „2. Księgi przesyłane w sposób, o którym mowa w ust. 1, są opatrzone kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.”,
-b) uchyla się ust. 3,
-c) w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Urzędowe poświadczenie odbioru wydane przez elektroniczną skrzynkę podawczą systemu teleinformatycznego administracji skarbowej, po przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych i podpisu elektronicznego:”;
-2) uchyla się załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 24 czerwca 2016 r. w sprawie sposobu przesyłania za pomocą środków komunikacji elektronicznej ksiąg podatkowych oraz wymagań technicznych dla informatycznych nośników danych, na których te księgi mogą być zapisane i przekazywane (Dz. U. poz. 932) wprowadza się następujące zmiany:
+
+- **1)** w § 2:
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Księgi przesyłane w sposób, o którym mowa w ust. 1, są opatrzone kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.”,
+    - **b)** uchyla się ust. 3,
+    - **c)** w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „Urzędowe poświadczenie odbioru wydane przez elektroniczną skrzynkę podawczą systemu teleinformatycznego administracji skarbowej, po przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych i podpisu elektronicznego:”;
+
+- **2)** uchyla się załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk
 

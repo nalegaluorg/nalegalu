@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe Na podstawie art. 21 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2016 r.
 poz. 963, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe (Dz. U. z 2015 r. poz. 2236 oraz z 2016 r.
-poz. 1381) w § 5 w ust. 1 pkt 2 otrzymuje brzmienie: „2) funkcjonariuszy Służby Celno-Skarbowej;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska
+
+**§ 1.** W rozporządzeniu Ministra Pracy i Polityki Socjalnej z dnia 18 grudnia 1998 r. w sprawie szczegółowych zasad ustalania podstawy wymiaru składek na ubezpieczenia emerytalne i rentowe (Dz. U. z 2015 r. poz. 2236 oraz z 2016 r. poz. 1381) w § 5 w ust. 1 pkt 2 otrzymuje brzmienie: „2) funkcjonariuszy Służby Celno-Skarbowej;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska
 

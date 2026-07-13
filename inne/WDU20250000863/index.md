@@ -27,9 +27,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000863) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/863/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu podmiotów uprawnionych do przeprowadzania badań mających na celu ustalenie, czy dany produkt jest środkiem zastępczym Na podstawie art. 44c ust. 13 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 marca 2019 r. w sprawie wykazu podmiotów uprawnionych do przeprowadzania badań mających na celu ustalenie, czy dany produkt jest środkiem zastępczym (Dz. U. poz. 490) w załączniku do rozporządzenia:
-1) po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) Instytut Genetyki Sądowej Sp. z o.o.;”;
-2) uchyla się pkt 9.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: I. Leszczyna
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 6 marca 2019 r. w sprawie wykazu podmiotów uprawnionych do przeprowadzania badań mających na celu ustalenie, czy dany produkt jest środkiem zastępczym (Dz. U. poz. 490) w załączniku do rozporządzenia:
+
+- **1)** po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) Instytut Genetyki Sądowej Sp. z o.o.;”;
+- **2)** uchyla się pkt 9.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: I. Leszczyna
 

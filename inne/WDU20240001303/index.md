@@ -26,23 +26,35 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1303/text.pdf) |
 
 zmieniające rozporządzenie w sprawie pomocy finansowej udzielanej pracodawcom prowadzącym zakłady pracy chronionej lub pracodawcom będącym przedsiębiorstwami społecznymi ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych Na podstawie art. 32 ust. 3 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i 1165) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rodziny i Polityki Społecznej z dnia 18 lipca 2023 r. w sprawie pomocy finansowej udzielanej pracodawcom prowadzącym zakłady pracy chronionej lub pracodawcom będącym przedsiębiorstwami społecznymi ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 1573) wprowadza się następujące zmiany:
-1) § 3 otrzymuje brzmienie: „§ 3. Dofinansowanie jest udzielane jako pomoc de minimis spełniająca warunki określone w:
-1) rozporządzeniu Komisji (UE) nr 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023) albo
-2) rozporządzeniu Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rybołówstwa i akwakultury (Dz. Urz.
-UE L 190 z 28.06.2014, str. 45, z późn. zm. ).”;
-2) w § 10 w ust. 5 pkt 4 otrzymuje brzmienie: „4) zaświadczenia:
-a) o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie lub oświadczenie o wysokości tej pomocy, otrzymanej w okresie trzech lat, albo oświadczenie o nieotrzymaniu pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie w tym okresie – w przypadku dofinansowania, o którym mowa w § 3 pkt 1,
-b) o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie lub oświadczenie o wysokości tej pomocy, otrzymanej w okresie obejmującym bieżący rok podatkowy oraz dwa poprzedzające go lata podatkowe, albo oświadczenie o nieotrzymaniu pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie w tym okresie – w przypadku dofinansowania, o którym mowa w § 3 pkt 2;”;
-3) w § 19:
-a) w ust. 1 wyrazy „do dnia 30 czerwca 2024 r.” zastępuje się wyrazami „do dnia 30 czerwca 2031 r.”,
-b) w ust. 2 wyrazy „do dnia 30 czerwca 2024 r.” zastępuje się wyrazami „do dnia 30 czerwca 2030 r.”,
-c) w ust. 3 wyrazy „do dnia 30 czerwca 2024 r.” zastępuje się wyrazami „do dnia 30 czerwca 2027 r.”.
-§ 2. 1. Do wniosków o dofinansowanie w wysokości do 50 % oprocentowania zaciągniętych kredytów bankowych i w spółdzielczych kasach oszczędnościowo-kredytowych, pod warunkiem wykorzystania tych kredytów na cele związane z rehabilitacją zawodową i społeczną osób niepełnosprawnych, które zostały złożone i nie zostały rozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia albo zostały rozpatrzone, ale do dnia wejścia w życie niniejszego rozporządzenia na ich podstawie nie zostały zawarte umowy, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 1.** W rozporządzeniu Ministra Rodziny i Polityki Społecznej z dnia 18 lipca 2023 r. w sprawie pomocy finansowej udzielanej pracodawcom prowadzącym zakłady pracy chronionej lub pracodawcom będącym przedsiębiorstwami społecznymi ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (Dz. U. poz. 1573) wprowadza się następujące zmiany:
+
+- **1)** § 3 otrzymuje brzmienie:
+
+  > „§ 3. Dofinansowanie jest udzielane jako pomoc de minimis spełniająca warunki określone w:  
+  > 1) rozporządzeniu Komisji (UE) nr 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023) albo 2) rozporządzeniu Komisji (UE) nr 717/2014 z dnia 27 czerwca 2014 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rybołówstwa i akwakultury (Dz. Urz. UE L 190 z 28.06.2014, str. 45, z późn. zm. ).”;  
+- **2)** w § 10 w ust. 5 pkt 4 otrzymuje brzmienie:
+
+  > „4) zaświadczenia:  
+  > a) o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie lub oświadczenie o wysokości tej pomocy, otrzymanej w okresie trzech lat, albo oświadczenie o nieotrzymaniu pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie w tym okresie – w przypadku dofinansowania, o którym mowa w § 3 pkt 1, b) o pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie lub oświadczenie o wysokości tej pomocy, otrzymanej w okresie obejmującym bieżący rok podatkowy oraz dwa poprzedzające go lata podatkowe, albo oświadczenie o nieotrzymaniu pomocy de minimis oraz pomocy de minimis w rolnictwie lub rybołówstwie w tym okresie – w przypadku dofinansowania, o którym mowa w § 3 pkt 2;”;  
+- **3)** w § 19:
+    - **a)** w ust. 1 wyrazy „do dnia 30 czerwca 2024 r.” zastępuje się wyrazami „do dnia 30 czerwca 2031 r.”,
+    - **b)** w ust. 2 wyrazy „do dnia 30 czerwca 2024 r.” zastępuje się wyrazami „do dnia 30 czerwca 2030 r.”,
+    - **c)** w ust. 3 wyrazy „do dnia 30 czerwca 2024 r.” zastępuje się wyrazami „do dnia 30 czerwca 2027 r.”.
+
+**§ 2.**
+
+1. Do wniosków o dofinansowanie w wysokości do 50 % oprocentowania zaciągniętych kredytów bankowych i w spółdzielczych kasach oszczędnościowo-kredytowych, pod warunkiem wykorzystania tych kredytów na cele związane z rehabilitacją zawodową i społeczną osób niepełnosprawnych, które zostały złożone i nie zostały rozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia albo zostały rozpatrzone, ale do dnia wejścia w życie niniejszego rozporządzenia na ich podstawie nie zostały zawarte umowy, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
 2. Wnioski, o których mowa w ust. 1, wymagające poprawienia lub uzupełnienia w zakresie wynikającym z przepisów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, poprawia się lub uzupełnia na wezwanie Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych w terminie wyznaczonym przez Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych, nie krótszym niż 14 dni od dnia otrzymania wezwania, zawierającym również informację, że niedostosowanie wniosku w terminie wyznaczonym przez podmiot udzielający pomocy będzie skutkować pozostawieniem go bez rozpoznania.
-§ 3. 1. Do umów o dofinansowanie w wysokości do 50 % oprocentowania zaciągniętych kredytów bankowych i w spółdzielczych kasach oszczędnościowo-kredytowych, pod warunkiem wykorzystania tych kredytów na cele związane z rehabilitacją zawodową i społeczną osób niepełnosprawnych, które zostały zawarte do dnia 30 czerwca 2024 r., stosuje się przepisy dotychczasowe.
+
+**§ 3.**
+
+1. Do umów o dofinansowanie w wysokości do 50 % oprocentowania zaciągniętych kredytów bankowych i w spółdzielczych kasach oszczędnościowo-kredytowych, pod warunkiem wykorzystania tych kredytów na cele związane z rehabilitacją zawodową i społeczną osób niepełnosprawnych, które zostały zawarte do dnia 30 czerwca 2024 r., stosuje się przepisy dotychczasowe.
+
 2. Do umów, o których mowa w ust. 1, które zostały zawarte od dnia 1 lipca 2024 r. do dnia poprzedzającego dzień wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
 3. W terminie 14 dni od dnia wejścia w życie niniejszego rozporządzenia Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych dokona przeglądu umów, o których mowa w ust. 2, w celu zweryfikowania spełniania w nich warunków określonych w § 3 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rodziny, Pracy i Polityki Społecznej: wz. A. Gajewska
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rodziny, Pracy i Polityki Społecznej: wz. A. Gajewska
 

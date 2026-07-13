@@ -27,8 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie studiów Na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r.
 poz. 85, 374, 695, 875 i 1086) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. w sprawie studiów (Dz. U. poz. 1861, z 2019 r. poz. 787 i 1498 oraz z 2020 r. poz. 420, 853 i 1411) po § 13 dodaje się § 13a w brzmieniu: „§ 13a. 1. W okresie od dnia ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii do końca semestru, w trakcie którego stan ten został odwołany, zajęcia na studiach mogą być prowadzone z wykorzystaniem metod i technik kształcenia na odległość niezależnie od tego, czy zostało to przewidziane w programie studiów.
-2. Liczby punktów ECTS przypisanych do zajęć prowadzonych w okresie, o którym mowa w ust. 1, z wykorzystaniem metod i technik kształcenia na odległość nie wlicza się do liczby punktów ECTS, o której mowa w § 13.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
-Minister Nauki i Szkolnictwa Wyższego: W. Murdzek
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. w sprawie studiów (Dz. U. poz. 1861, z 2019 r. poz. 787 i 1498 oraz z 2020 r. poz. 420, 853 i 1411) po § 13 dodaje się § 13a w brzmieniu:
+
+> „§ 13a.  
+> 1. W okresie od dnia ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii do końca semestru, w trakcie którego stan ten został odwołany, zajęcia na studiach mogą być prowadzone z wykorzystaniem metod i technik kształcenia na odległość niezależnie od tego, czy zostało to przewidziane w programie studiów.  
+> 2. Liczby punktów ECTS przypisanych do zajęć prowadzonych w okresie, o którym mowa w ust. 1, z wykorzystaniem metod i technik kształcenia na odległość nie wlicza się do liczby punktów ECTS, o której mowa w § 13.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2020 r. Minister Nauki i Szkolnictwa Wyższego: W. Murdzek
 

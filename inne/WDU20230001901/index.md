@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001901) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1901/text.pdf) |
 
 zmieniające rozporządzenie w sprawie należności i świadczeń przysługujących funkcjonariuszom Straży Granicznej delegowanym do pełnienia służby poza granicami państwa Na podstawie art. 40 ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723 i 1860) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 października 2011 r. w sprawie należności i świadczeń przysługujących funkcjonariuszom Straży Granicznej delegowanym do pełnienia służby poza granicami państwa (Dz. U. z 2023 r. poz. 379) w § 3 po wyrazach „Komendanta Głównego Straży Granicznej,” dodaje się wyrazy „Rektora-Komendanta Wyższej Szkoły Straży Granicznej,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 października 2011 r. w sprawie należności i świadczeń przysługujących funkcjonariuszom Straży Granicznej delegowanym do pełnienia służby poza granicami państwa (Dz. U. z 2023 r. poz. 379) w § 3 po wyrazach „Komendanta Głównego Straży Granicznej,” dodaje się wyrazy „Rektora-Komendanta Wyższej Szkoły Straży Granicznej,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

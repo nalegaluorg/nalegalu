@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000676) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/676/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur Na podstawie art. 5 ust. 9 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 21 grudnia 2018 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 2531) w § 2 w ust. 2 w pkt 1 w lit. m średnik zastępuje się przecinkiem i dodaje się lit. n w brzmieniu: „n) zwalczania przestępczości środowiskowej;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 21 grudnia 2018 r. w sprawie zasad i sposobu organizacji wojewódzkich inspektoratów ochrony środowiska oraz ich delegatur (Dz. U. poz. 2531) w § 2 w ust. 2 w pkt 1 w lit. m średnik zastępuje się przecinkiem i dodaje się lit. n w brzmieniu: „n) zwalczania przestępczości środowiskowej;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa
 

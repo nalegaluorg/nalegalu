@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000130) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/130/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli Na podstawie art. 111 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 28 lutego 2019 r. w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli (Dz. U. z 2023 r. poz. 2736 oraz z 2025 r. poz. 849) w § 17 w ust. 4 w pkt 3 w lit. b wyrazy „wychowania do życia w rodzinie” zastępuje się wyrazami „edukacji zdrowotnej”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Edukacji: wz. K. Lubnauer
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 28 lutego 2019 r. w sprawie szczegółowej organizacji publicznych szkół i publicznych przedszkoli (Dz. U. z 2023 r. poz. 2736 oraz z 2025 r. poz. 849) w § 17 w ust. 4 w pkt 3 w lit. b wyrazy „wychowania do życia w rodzinie” zastępuje się wyrazami „edukacji zdrowotnej”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Edukacji: wz. K. Lubnauer
 

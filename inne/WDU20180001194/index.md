@@ -26,17 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1194/text.pdf) |
 
 w sprawie szczegółowych stawek opłaty produktowej dla grup Na podstawie art. 74 ust. 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym poz. 1688, z 2017 r. poz. 2056 oraz z 2018 r. poz. 650) zarządza się, co następuje:
-§ 1. Szczegółowe stawki opłaty produktowej dla poszczególnych grup sprzętu określa załącznik
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister SZCZEGÓŁOWE STAWKI OPŁATY PRODUKTOWEJ DLA POSZCZEGÓLNYCH Numer i nazwa grupy sprzętu
-1. Sprzęt działający na zasadzie wymiany temperatury
-2. Ekrany, monitory i sprzęt zawierający ekrany o powierzchni większej niż 100 cm
-3. Lampy
-4. Sprzęt wielkogabarytowy, którego którykolwiek z zewnętrznych wymiarów przekracza 50 cm, w szczególności: urządzenia gospodarstwa domowego; sprzęt informatyczny i telekomunikacyjny; sprzęt konsumencki; oprawy oświetleniowe;
-sprzęt do odtwarzania dźwięku lub obrazu, sprzęt muzyczny; narzędzia elektryczne i elektroniczne; zabawki, sprzęt rekreacyjny i sportowy; wyroby medyczne;
-przyrządy stosowane do monitorowania i kontroli; automaty wydające; sprzęt do wytwarzania prądów elektrycznych. Niniejsza grupa nie obejmuje sprzętu ujętego w grupach sprzętu nr 1–3.
-5. Sprzęt małogabarytowy, którego żaden z zewnętrznych wymiarów nie przekracza 50 cm, w szczególności: urządzenia gospodarstwa domowego; sprzęt konsumencki;
-oprawy oświetleniowe; sprzęt do odtwarzania dźwięku lub obrazu, sprzęt muzyczny; narzędzia elektryczne i elektroniczne; zabawki, sprzęt rekreacyjny i sportowy; wyroby medyczne; przyrządy stosowane do monitorowania i kontroli;
-automaty wydające; sprzęt do wytwarzania prądów elektrycznych. Niniejsza grupa nie obejmuje sprzętu ujętego w grupach sprzętu nr 1–3 i 6.
-6. Małogabarytowy sprzęt informatyczny i telekomunikacyjny, którego żaden z zewnętrznych wymiarów nie przekracza 50 cm.
+
+**§ 1.** Szczegółowe stawki opłaty produktowej dla poszczególnych grup sprzętu określa załącznik
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister SZCZEGÓŁOWE STAWKI OPŁATY PRODUKTOWEJ DLA POSZCZEGÓLNYCH Numer i nazwa grupy sprzętu 1. Sprzęt działający na zasadzie wymiany temperatury 2. Ekrany, monitory i sprzęt zawierający ekrany o powierzchni większej niż 100 cm 3. Lampy 4. Sprzęt wielkogabarytowy, którego którykolwiek z zewnętrznych wymiarów przekracza 50 cm, w szczególności: urządzenia gospodarstwa domowego; sprzęt informatyczny i telekomunikacyjny; sprzęt konsumencki; oprawy oświetleniowe; sprzęt do odtwarzania dźwięku lub obrazu, sprzęt muzyczny; narzędzia elektryczne i elektroniczne; zabawki, sprzęt rekreacyjny i sportowy; wyroby medyczne; przyrządy stosowane do monitorowania i kontroli; automaty wydające; sprzęt do wytwarzania prądów elektrycznych. Niniejsza grupa nie obejmuje sprzętu ujętego w grupach sprzętu nr 1–3. 5. Sprzęt małogabarytowy, którego żaden z zewnętrznych wymiarów nie przekracza 50 cm, w szczególności: urządzenia gospodarstwa domowego; sprzęt konsumencki; oprawy oświetleniowe; sprzęt do odtwarzania dźwięku lub obrazu, sprzęt muzyczny; narzędzia elektryczne i elektroniczne; zabawki, sprzęt rekreacyjny i sportowy; wyroby medyczne; przyrządy stosowane do monitorowania i kontroli; automaty wydające; sprzęt do wytwarzania prądów elektrycznych. Niniejsza grupa nie obejmuje sprzętu ujętego w grupach sprzętu nr 1–3 i 6. 6. Małogabarytowy sprzęt informatyczny i telekomunikacyjny, którego żaden z zewnętrznych wymiarów nie przekracza 50 cm.
 

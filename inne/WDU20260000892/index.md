@@ -37,30 +37,49 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 23 lutego 2018 r.
 w sprawie warunków wynagradzania pracowników Krajowej Szkoły Sądownictwa i Prokuratury Na podstawie art. 55 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2022 r.
 poz. 217 i 2695 oraz z 2026 r. poz. 370 i 444) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wysokość wynagrodzenia zasadniczego w odniesieniu do poszczególnych kategorii stanowisk pracowników administracyjnych i pracowników obsługi zatrudnionych w Krajowej Szkole Sądownictwa i Prokuratury, zwanych dalej „pracownikami”;
-2) wysokość i warunki przyznawania dodatków do wynagrodzenia;
-3) sposób obliczania godzinowej stawki wynagrodzenia zasadniczego wynikającego z zajmowanego stanowiska, określonego stawką miesięczną.
-§ 2. Ustala się:
-1) tabelę miesięcznych stawek wynagrodzenia zasadniczego, która jest określona w załączniku nr 1 do rozporządzenia;
-2) tabelę stawek dodatku z tytułu zajmowanego stanowiska, która jest określona w załączniku nr 2 do rozporządzenia;
-3) tabelę stanowisk, grup dodatku z tytułu zajmowanego stanowiska oraz kwalifikacji wymaganych od pracowników, która jest określona w załączniku nr 3 do rozporządzenia.
-§ 2a. Wysokość wynagrodzenia zasadniczego pracowników zatrudnionych na:
-1) stanowiskach kierowniczych – nie może być niższa od dwukrotności minimalnego wynagrodzenia za pracę, ustalonego na podstawie odrębnych przepisów;
-2) pozostałych stanowiskach – nie może być niższa od minimalnego wynagrodzenia za pracę, ustalonego na podstawie odrębnych przepisów.
-§ 3. Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury, zwany dalej „Dyrektorem Krajowej Szkoły”, może w uzasadnionych przypadkach skrócić pracownikowi okres pracy zawodowej wymagany na danym stanowisku, z wyłączeniem stanowisk, dla których wymagany okres pracy zawodowej określają odrębne przepisy.
-§ 4. 1. Z tytułu okresowego zwiększenia obowiązków służbowych lub powierzenia dodatkowych zadań o wysokim stopniu złożoności lub odpowiedzialności Dyrektor Krajowej Szkoły może przyznać pracownikowi, z wyjątkiem zastępcy dyrektora, na czas określony dodatek specjalny.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wysokość wynagrodzenia zasadniczego w odniesieniu do poszczególnych kategorii stanowisk pracowników administracyjnych i pracowników obsługi zatrudnionych w Krajowej Szkole Sądownictwa i Prokuratury, zwanych dalej „pracownikami”;
+- **2)** wysokość i warunki przyznawania dodatków do wynagrodzenia;
+- **3)** sposób obliczania godzinowej stawki wynagrodzenia zasadniczego wynikającego z zajmowanego stanowiska, określonego stawką miesięczną.
+
+**§ 2.** Ustala się:
+
+- **1)** tabelę miesięcznych stawek wynagrodzenia zasadniczego, która jest określona w załączniku nr 1 do rozporządzenia;
+- **2)** tabelę stawek dodatku z tytułu zajmowanego stanowiska, która jest określona w załączniku nr 2 do rozporządzenia;
+- **3)** tabelę stanowisk, grup dodatku z tytułu zajmowanego stanowiska oraz kwalifikacji wymaganych od pracowników, która jest określona w załączniku nr 3 do rozporządzenia.
+
+**§ 2a.** Wysokość wynagrodzenia zasadniczego pracowników zatrudnionych na:
+
+- **1)** stanowiskach kierowniczych – nie może być niższa od dwukrotności minimalnego wynagrodzenia za pracę, ustalonego na podstawie odrębnych przepisów;
+- **2)** pozostałych stanowiskach – nie może być niższa od minimalnego wynagrodzenia za pracę, ustalonego na podstawie odrębnych przepisów.
+
+**§ 3.** Dyrektor Krajowej Szkoły Sądownictwa i Prokuratury, zwany dalej „Dyrektorem Krajowej Szkoły”, może w uzasadnionych przypadkach skrócić pracownikowi okres pracy zawodowej wymagany na danym stanowisku, z wyłączeniem stanowisk, dla których wymagany okres pracy zawodowej określają odrębne przepisy.
+
+**§ 4.**
+
+1. Z tytułu okresowego zwiększenia obowiązków służbowych lub powierzenia dodatkowych zadań o wysokim stopniu złożoności lub odpowiedzialności Dyrektor Krajowej Szkoły może przyznać pracownikowi, z wyjątkiem zastępcy dyrektora, na czas określony dodatek specjalny.
+
 2. Dodatek specjalny jest wypłacany w ramach posiadanych środków na wynagrodzenia, w kwocie nieprzekraczającej 40 % łącznie wynagrodzenia zasadniczego pracownika i dodatku z tytułu zajmowanego przez niego stanowiska.
-§ 5. 1. Tworzy się fundusz nagród, z przeznaczeniem na nagrody za szczególne osiągnięcia w pracy zawodowej, w wysokości 3 % planowanych wynagrodzeń osobowych, pozostający w dyspozycji Dyrektora Krajowej Szkoły.
+
+**§ 5.**
+
+1. Tworzy się fundusz nagród, z przeznaczeniem na nagrody za szczególne osiągnięcia w pracy zawodowej, w wysokości 3 % planowanych wynagrodzeń osobowych, pozostający w dyspozycji Dyrektora Krajowej Szkoły.
+
 2. Fundusz nagród, o którym mowa w ust. 1, może być podwyższany przez Dyrektora Krajowej Szkoły w ramach posiadanych środków na wynagrodzenia.
+
 3. Minister Sprawiedliwości może przyznać nagrodę Dyrektorowi Krajowej Szkoły niebędącemu sędzią lub prokuratorem.
-§ 6. Godzinową stawkę wynagrodzenia zasadniczego wynikającego z zajmowanego stanowiska, określonego stawką miesięczną, ustala się, dzieląc miesięczną stawkę wynagrodzenia przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu.
-§ 7. 1. W ramach posiadanych przez Krajową Szkołę Sądownictwa i Prokuratury środków na wynagrodzenia może być tworzony fundusz premiowy z przeznaczeniem na premię dla pracowników.
+
+**§ 6.** Godzinową stawkę wynagrodzenia zasadniczego wynikającego z zajmowanego stanowiska, określonego stawką miesięczną, ustala się, dzieląc miesięczną stawkę wynagrodzenia przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu.
+
+**§ 7.**
+
+1. W ramach posiadanych przez Krajową Szkołę Sądownictwa i Prokuratury środków na wynagrodzenia może być tworzony fundusz premiowy z przeznaczeniem na premię dla pracowników.
+
 2. Wysokość funduszu premiowego oraz zasady przyznawania i wypłacania premii określa zakładowy regulamin premiowania.
-§ 8. Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 8 października 2009 r. w sprawie warunków wynagradzania pracowników administracyjnych i pracowników obsługi zatrudnionych w Krajowej Szkole Sądownictwa i Prokuratury i przyznawania innych świadczeń związanych z pracą (Dz. U. poz. 1373 oraz z 2011 r. poz. 447).
-§ 9. Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia .
-TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Stanowiska Stawka wynagrodzenia zasadniczego w złotych Stanowiska kierownicze do 23 000 Stanowiska samodzielne do 18 900 Stanowiska wspomagające do 12 600 Stanowiska pomocnicze, obsługi technicznej i gospodarczej do 7900 TABELA STAWEK DODATKU Z TYTUŁU ZAJMOWANEGO STANOWISKA Stawka dodatku z tytułu zajmowanego stanowiska Grupa dodatku z tytułu zajmowanego stanowiska w złotych 1 do 1200 2 do 1500 3 do 2200 4 do 2900 5 do 3400 TABELA STANOWISK, GRUP DODATKU Z TYTUŁU ZAJMOWANEGO STANOWISKA ORAZ KWALIFIKACJI WYMAGANYCH OD PRACOWNIKÓW Grupa dodatku Wymagane kwalifikacje Kategorie stanowisk Stanowisko z tytułu zajmowanego liczba lat stanowiska wykształcenie pracy Dyrektor Krajowej Szkoły Stanowiska 5 wyższe 7 kierownicze zastępca Dyrektora Krajowej Szkoły główny księgowy audytor wewnętrzny według odrębnych przepisów 4 radca prawny inspektor ochrony danych zastępca głównego księgowego 3 Stanowiska kierownik ośrodka szkoleniowego samodzielne kierownik działu lub sekcji inspektor ds. obronnych 4 wyższe 5 pełnomocnik ds. ochrony informacji niejawnych zastępca kierownika ośrodka szkoleniowego 3 zastępca kierownika działu lub sekcji rzecznik prasowy 4 kierownik projektu kierownik kancelarii ogólnej 1 koordynator zadań administracyjnych biura, 2 ośrodka lub działu (ze wskazaniem komórki) wyższe 5 główny specjalista ds. 1 (ze wskazaniem specjalności) Stanowiska wspomagające starszy asystent – administrator systemu informatycznego 3 administrator systemu teleinformatycznego informatyk-analityk systemu 1 specjalista ds. wyższe 4 (ze wskazaniem specjalności) – archiwista asystent starszy inspektor ds. 3 (ze wskazaniem specjalności) samodzielny księgowy średnie 4 inspektor ds.
-(ze wskazaniem specjalności) – bibliotekarz wyższe informatyk 1 2 starszy referent ds.
-(ze wskazaniem specjalności) księgowy – średnie – sekretarz referent ds.
-(ze wskazaniem specjalności) samodzielny referent ds. obsługi klienta kierownik punktu żywienia 2 szef kuchni specjalista ds. technicznych średnie Stanowiska – pomocnicze technik bhp – kasjer recepcjonista kierowca autobusu według odrębnych przepisów kierowca samochodu kucharz kelner barman zasadnicze starsza pokojowa konserwator – wykwalifikowany rzemieślnik Stanowiska obsługi technicznej palacz c.o. – – i gospodarczej robotnik gospodarczy pokojowa pomoc kuchenna podstawowe portier-szatniarz dozorca-woźny sprzątaczka
+
+**§ 8.** Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 8 października 2009 r. w sprawie warunków wynagradzania pracowników administracyjnych i pracowników obsługi zatrudnionych w Krajowej Szkole Sądownictwa i Prokuratury i przyznawania innych świadczeń związanych z pracą (Dz. U. poz. 1373 oraz z 2011 r. poz. 447).
+
+**§ 9.** Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia . TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Stanowiska Stawka wynagrodzenia zasadniczego w złotych Stanowiska kierownicze do 23 000 Stanowiska samodzielne do 18 900 Stanowiska wspomagające do 12 600 Stanowiska pomocnicze, obsługi technicznej i gospodarczej do 7900 TABELA STAWEK DODATKU Z TYTUŁU ZAJMOWANEGO STANOWISKA Stawka dodatku z tytułu zajmowanego stanowiska Grupa dodatku z tytułu zajmowanego stanowiska w złotych 1 do 1200 2 do 1500 3 do 2200 4 do 2900 5 do 3400 TABELA STANOWISK, GRUP DODATKU Z TYTUŁU ZAJMOWANEGO STANOWISKA ORAZ KWALIFIKACJI WYMAGANYCH OD PRACOWNIKÓW Grupa dodatku Wymagane kwalifikacje Kategorie stanowisk Stanowisko z tytułu zajmowanego liczba lat stanowiska wykształcenie pracy Dyrektor Krajowej Szkoły Stanowiska 5 wyższe 7 kierownicze zastępca Dyrektora Krajowej Szkoły główny księgowy audytor wewnętrzny według odrębnych przepisów 4 radca prawny inspektor ochrony danych zastępca głównego księgowego 3 Stanowiska kierownik ośrodka szkoleniowego samodzielne kierownik działu lub sekcji inspektor ds. obronnych 4 wyższe 5 pełnomocnik ds. ochrony informacji niejawnych zastępca kierownika ośrodka szkoleniowego 3 zastępca kierownika działu lub sekcji rzecznik prasowy 4 kierownik projektu kierownik kancelarii ogólnej 1 koordynator zadań administracyjnych biura, 2 ośrodka lub działu (ze wskazaniem komórki) wyższe 5 główny specjalista ds. 1 (ze wskazaniem specjalności) Stanowiska wspomagające starszy asystent – administrator systemu informatycznego 3 administrator systemu teleinformatycznego informatyk-analityk systemu 1 specjalista ds. wyższe 4 (ze wskazaniem specjalności) – archiwista asystent starszy inspektor ds. 3 (ze wskazaniem specjalności) samodzielny księgowy średnie 4 inspektor ds. (ze wskazaniem specjalności) – bibliotekarz wyższe informatyk 1 2 starszy referent ds. (ze wskazaniem specjalności) księgowy – średnie – sekretarz referent ds. (ze wskazaniem specjalności) samodzielny referent ds. obsługi klienta kierownik punktu żywienia 2 szef kuchni specjalista ds. technicznych średnie Stanowiska – pomocnicze technik bhp – kasjer recepcjonista kierowca autobusu według odrębnych przepisów kierowca samochodu kucharz kelner barman zasadnicze starsza pokojowa konserwator – wykwalifikowany rzemieślnik Stanowiska obsługi technicznej palacz c.o. – – i gospodarczej robotnik gospodarczy pokojowa pomoc kuchenna podstawowe portier-szatniarz dozorca-woźny sprzątaczka
 

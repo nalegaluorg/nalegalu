@@ -30,7 +30,13 @@ source: pdf
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 442;
-- **2)** dodaje się art. 442 w brzmieniu: „Art. 442 . § 1. Roszczenie o naprawienie szkody wyrządzonej czynem niedozwolonym ulega przedawnieniu z upływem lat trzech od dnia, w którym poszkodowany dowiedział się o szkodzie i o osobie obowiązanej do jej naprawienia. Jednakże termin ten nie może być dłuższy niż dziesięć lat od dnia, w którym nastąpiło zdarzenie wywołujące szkodę. § 2. Jeżeli szkoda wynikła ze zbrodni lub występku, roszczenie o naprawienie szkody ulega przedawnieniu z upływem lat dwudziestu od dnia popełnienia przestępstwa bez względu na to, kiedy poszkodowany dowiedział się o szkodzie i o osobie obowiązanej do jej naprawienia. § 3. W razie wyrządzenia szkody na osobie, przedawnienie nie może skończyć się wcześniej niż z upływem lat trzech od dnia, w którym poszkodowany dowiedział się o szkodzie i o osobie obowiązanej do jej naprawienia. § 4. Przedawnienie roszczeń osoby małoletniej o naprawienie szkody na osobie nie może skończyć się wcześniej niż z upływem lat dwóch od uzyskania przez nią pełnoletności.”.
+- **2)** dodaje się art. 442 w brzmieniu:
+
+  > „Art. 442 .  
+  > § 1. Roszczenie o naprawienie szkody wyrządzonej czynem niedozwolonym ulega przedawnieniu z upływem lat trzech od dnia, w którym poszkodowany dowiedział się o szkodzie i o osobie obowiązanej do jej naprawienia. Jednakże termin ten nie może być dłuższy niż dziesięć lat od dnia, w którym nastąpiło zdarzenie wywołujące szkodę.  
+  > § 2. Jeżeli szkoda wynikła ze zbrodni lub występku, roszczenie o naprawienie szkody ulega przedawnieniu z upływem lat dwudziestu od dnia popełnienia przestępstwa bez względu na to, kiedy poszkodowany dowiedział się o szkodzie i o osobie obowiązanej do jej naprawienia.  
+  > § 3. W razie wyrządzenia szkody na osobie, przedawnienie nie może skończyć się wcześniej niż z upływem lat trzech od dnia, w którym poszkodowany dowiedział się o szkodzie i o osobie obowiązanej do jej naprawienia.  
+  > § 4. Przedawnienie roszczeń osoby małoletniej o naprawienie szkody na osobie nie może skończyć się wcześniej niż z upływem lat dwóch od uzyskania przez nią pełnoletności.”.  
 
 **Art. 2.** Do roszczeń, o których mowa w art. 1, powstałych przed dniem wejścia w życie niniejszej ustawy, a według przepisów dotychczasowych w tym dniu jeszcze nieprzedawnionych, stosuje się przepisy art. 442 Kodeksu cywilnego.
 

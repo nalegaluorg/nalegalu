@@ -27,18 +27,32 @@ source: pdf
 
 w sprawie oddawania zajętych ruchomości do depozytu sądowego albo na przechowanie właściwym instytucjom Na podstawie art. 855 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r.
 poz. 101, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) instytucje właściwe do przechowywania zajętych ruchomości;
-2) szczegółowy sposób składania zajętych ruchomości do depozytu sądowego;
-3) szczegółowy sposób oddawania zajętych ruchomości na przechowanie właściwym instytucjom.
-§ 2. 1. Państwowa lub samorządowa instytucja kultury, a w szczególności muzeum, archiwum lub biblioteka, jest instytucją właściwą do przechowywania ruchomości stanowiącej zabytek.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** instytucje właściwe do przechowywania zajętych ruchomości;
+- **2)** szczegółowy sposób składania zajętych ruchomości do depozytu sądowego;
+- **3)** szczegółowy sposób oddawania zajętych ruchomości na przechowanie właściwym instytucjom.
+
+**§ 2.**
+
+1. Państwowa lub samorządowa instytucja kultury, a w szczególności muzeum, archiwum lub biblioteka, jest instytucją właściwą do przechowywania ruchomości stanowiącej zabytek.
+
 2. Do wydania opinii, czy ruchomość stanowi zabytek, oraz do wskazania właściwej państwowej albo samorządowej instytucji kultury, której ruchomość może być oddana na przechowanie, jest właściwy wojewódzki konserwator zabytków, a w przypadku materiałów bibliotecznych – dyrektor Biblioteki Narodowej w Warszawie.
-§ 3. Komenda Policji właściwa ze względu na miejsce, w którym zajęto broń lub amunicję, jest instytucją właściwą do ich przechowywania.
-§ 4. Instytucja posiadająca zezwolenie na obrót produktami leczniczymi jest instytucją właściwą do ich przechowywania.
-§ 5. Do przechowywania zajętych ruchomości niewymienionych w paragrafach poprzedzających jest właściwa instytucja publiczna lub niepubliczna, która posiada zezwolenie na przechowywanie ruchomości, o ile jest ono wymagane, oraz dysponuje odpowiednimi warunkami przechowania ruchomości i daje gwarancję prawidłowego wykonania czynności.
-§ 6. 1. Jeżeli jest to konieczne dla zabezpieczenia ruchomości, komornik składa ją do depozytu sądowego albo oddaje na przechowanie w odpowiednim opakowaniu, chyba że nie pozwalają na to właściwości ruchomości.
+
+**§ 3.** Komenda Policji właściwa ze względu na miejsce, w którym zajęto broń lub amunicję, jest instytucją właściwą do ich przechowywania.
+
+**§ 4.** Instytucja posiadająca zezwolenie na obrót produktami leczniczymi jest instytucją właściwą do ich przechowywania.
+
+**§ 5.** Do przechowywania zajętych ruchomości niewymienionych w paragrafach poprzedzających jest właściwa instytucja publiczna lub niepubliczna, która posiada zezwolenie na przechowywanie ruchomości, o ile jest ono wymagane, oraz dysponuje odpowiednimi warunkami przechowania ruchomości i daje gwarancję prawidłowego wykonania czynności.
+
+**§ 6.**
+
+1. Jeżeli jest to konieczne dla zabezpieczenia ruchomości, komornik składa ją do depozytu sądowego albo oddaje na przechowanie w odpowiednim opakowaniu, chyba że nie pozwalają na to właściwości ruchomości.
+
 2. Wraz z ruchomością składaną do depozytu sądowego albo oddawaną na przechowanie komornik przekazuje szczegółowy opis ruchomości.
+
 3. Złożenie ruchomości do depozytu sądowego albo oddanie na przechowanie właściwej instytucji wymaga pisemnego potwierdzenia, które komornik dołącza do akt sprawy.
-§ 7. Rozporządzenie wchodzi w życie z dniem 8 września 2016 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 8 września 2016 r. Minister Sprawiedliwości: Z. Ziobro
 

@@ -27,7 +27,11 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001565) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1565/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych (Dz. U. z 2019 r. poz. 1471) art. 7 otrzymuje brzmienie: „Art. 7. 1. Do dnia 30 czerwca 2019 r. najniższe wynagrodzenie zasadnicze ustala się jako iloczyn współczynnika pracy określonego w załączniku do ustawy i kwoty 3900 zł brutto. 2. Od dnia 1 lipca 2019 r. do dnia 30 czerwca 2020 r. najniższe wynagrodzenie zasadnicze ustala się jako iloczyn współczynnika pracy określonego w załączniku do ustawy i kwoty 4200 zł brutto.”.
+**Art. 1.** W ustawie z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych (Dz. U. z 2019 r. poz. 1471) art. 7 otrzymuje brzmienie:
+
+> „Art. 7.  
+> 1. Do dnia 30 czerwca 2019 r. najniższe wynagrodzenie zasadnicze ustala się jako iloczyn współczynnika pracy określonego w załączniku do ustawy i kwoty 3900 zł brutto.  
+> 2. Od dnia 1 lipca 2019 r. do dnia 30 czerwca 2020 r. najniższe wynagrodzenie zasadnicze ustala się jako iloczyn współczynnika pracy określonego w załączniku do ustawy i kwoty 4200 zł brutto.”.  
 
 **Art. 2.**
 

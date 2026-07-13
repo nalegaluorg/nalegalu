@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001328) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1328/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nabywania uprawnień przewodnika górskiego Na podstawie art. 34 ust. 1 pkt 1–5 i 8 ustawy z dnia 29 sierpnia 1997 r. o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych (Dz. U. z 2019 r. poz. 238) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sportu i Turystyki z dnia 26 czerwca 2014 r. w sprawie nabywania uprawnień przewodnika górskiego (Dz. U. poz. 868) w § 9 w ust. 9 wprowadza się następujące zmiany:
-1) pkt 2 otrzymuje brzmienie: „2) nazwę organizatora szkoleń i adres miejsca wykonywania działalności organizatora szkoleń dla kandydatów na przewodników górskich oraz numer zaświadczenia o wpisie do rejestru organizatorów szkoleń dla kandydatów na przewodników górskich, o którym mowa w art. 24 ust. 1 ustawy;”;
-2) pkt 6 otrzymuje brzmienie: „6) czytelny podpis kierownika kursu lub osoby wskazanej przez organizatora szkolenia jako kierującej samokształceniem.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sportu i Turystyki: W. Bańka
+
+**§ 1.** W rozporządzeniu Ministra Sportu i Turystyki z dnia 26 czerwca 2014 r. w sprawie nabywania uprawnień przewodnika górskiego (Dz. U. poz. 868) w § 9 w ust. 9 wprowadza się następujące zmiany:
+
+- **1)** pkt 2 otrzymuje brzmienie: „2) nazwę organizatora szkoleń i adres miejsca wykonywania działalności organizatora szkoleń dla kandydatów na przewodników górskich oraz numer zaświadczenia o wpisie do rejestru organizatorów szkoleń dla kandydatów na przewodników górskich, o którym mowa w art. 24 ust. 1 ustawy;”;
+- **2)** pkt 6 otrzymuje brzmienie: „6) czytelny podpis kierownika kursu lub osoby wskazanej przez organizatora szkolenia jako kierującej samokształceniem.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sportu i Turystyki: W. Bańka
 

@@ -27,43 +27,67 @@ source: pdf
 
 w sprawie zakresu informacji zamieszczanych w karcie oceny pracy, karcie oceny kompetencji i karcie samooceny oraz wzorów tych kart Na podstawie art. 16c ust. 8 ustawy z dnia 22 listopada 2013 r. o systemie powiadamiania ratunkowego (Dz. U. z 2021 r.
 poz. 268) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) zakres informacji zamieszczanych w karcie oceny pracy operatora numerów alarmowych, starszego operatora numerów alarmowych, koordynatora oraz koordynatora-trenera oraz wzór tej karty;
-2) zakres informacji zamieszczanych w karcie oceny kompetencji koordynatora oraz koordynatora-trenera oraz wzór tej karty;
-3) zakres informacji zamieszczanych w karcie samooceny osób, o których mowa w pkt 1, oraz wzór tej karty.
-§ 2. 1. Karta oceny pracy osób, o których mowa w § 1 pkt 1, zawiera:
-1) informację o średniej liczbie obsłużonych zgłoszeń alarmowych;
-2) informację o średnim czasie obsługi zasadnych zgłoszeń alarmowych w drodze połączeń telefonicznych do numerów alarmowych;
-3) informację o średnim czasie obsługi fałszywych zgłoszeń alarmowych (głuchych lub niezasadnych) w drodze połączeń telefonicznych do numerów alarmowych;
-4) informację o średnim czasie odbioru przydzielonych do osoby ocenianej zgłoszeń alarmowych;
-5) informację o średniej liczbie karnych wylogowań, rozumianych jako wylogowania z systemu teleinformatycznego spowodowane przekroczeniem limitu czasu odbioru przydzielonego połączenia alarmowego;
-6) informację o średnim czasie przerwy w odbiorze zgłoszeń alarmowych (parametr liczony tylko dla grupy operatorów i starszych operatorów);
-7) ocenę opisową kierownika centrum lub zastępcy kierownika centrum;
-8) ocenę zgodności obsługi zgłoszeń alarmowych z obowiązującymi procedurami i wytycznymi w tym zakresie, opracowywaną na podstawie odsłuchu rzeczywistych, losowo wybranych zgłoszeń alarmowych osoby ocenianej.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** zakres informacji zamieszczanych w karcie oceny pracy operatora numerów alarmowych, starszego operatora numerów alarmowych, koordynatora oraz koordynatora-trenera oraz wzór tej karty;
+- **2)** zakres informacji zamieszczanych w karcie oceny kompetencji koordynatora oraz koordynatora-trenera oraz wzór tej karty;
+- **3)** zakres informacji zamieszczanych w karcie samooceny osób, o których mowa w pkt 1, oraz wzór tej karty.
+
+**§ 2.**
+
+1. Karta oceny pracy osób, o których mowa w § 1 pkt 1, zawiera:
+
+- **1)** informację o średniej liczbie obsłużonych zgłoszeń alarmowych;
+- **2)** informację o średnim czasie obsługi zasadnych zgłoszeń alarmowych w drodze połączeń telefonicznych do numerów alarmowych;
+- **3)** informację o średnim czasie obsługi fałszywych zgłoszeń alarmowych (głuchych lub niezasadnych) w drodze połączeń telefonicznych do numerów alarmowych;
+- **4)** informację o średnim czasie odbioru przydzielonych do osoby ocenianej zgłoszeń alarmowych;
+- **5)** informację o średniej liczbie karnych wylogowań, rozumianych jako wylogowania z systemu teleinformatycznego spowodowane przekroczeniem limitu czasu odbioru przydzielonego połączenia alarmowego;
+- **6)** informację o średnim czasie przerwy w odbiorze zgłoszeń alarmowych (parametr liczony tylko dla grupy operatorów i starszych operatorów);
+- **7)** ocenę opisową kierownika centrum lub zastępcy kierownika centrum;
+- **8)** ocenę zgodności obsługi zgłoszeń alarmowych z obowiązującymi procedurami i wytycznymi w tym zakresie, opracowywaną na podstawie odsłuchu rzeczywistych, losowo wybranych zgłoszeń alarmowych osoby ocenianej.
+
 2. Informacje, o których mowa w ust. 1 pkt 1–5, są porównywane odpowiednio do średniej centrum, w którym pracuje osoba oceniana.
+
 3. Średnią wylicza się osobno dla operatorów numerów alarmowych, starszych operatorów numerów alarmowych, koordynatorów i koordynatorów-trenerów.
+
 4. Średnią, o której mowa w ust. 1 pkt 1–5, wylicza się z całego okresu ocenianego.
+
 5. W przypadku gdy co najmniej trzy z danych statystycznych, o których mowa w ust. 1 pkt 2–5, są wyższe lub niższe od średnich statystycznych centrum osoby ocenianej o ponad 15%, ocena końcowa ulega obniżeniu bądź podwyższeniu o 10%.
+
 6. W przypadku gdy ocena po podwyższeniu przekracza 100%, przyznaje się ocenę maksymalną 100%.
+
 7. W przypadku dokonywania oceny po raz pierwszy nie uwzględnia się informacji, o której mowa w ust. 1 pkt 6.
+
 8. Wzór karty oceny pracy jest określony w załączniku nr 1 do rozporządzenia.
-§ 3. 1. Karta oceny kompetencji koordynatora lub koordynatora-trenera zawiera:
-1) ocenę obsługi zgłoszeń alarmowych w zakresie:
-a) komunikatywności: – dostosowanie poziomu komunikacji do rozmówcy, – skuteczność w pozyskiwaniu informacji, – asertywność,
-b) zarządzania emocjami: – zarządzanie emocjami własnymi, – zarządzanie emocjami zgłaszającego,
-c) oceny poszczególnych zgłoszeń/zdarzeń, opracowywaną na podstawie odsłuchu rzeczywistych, losowo wybranych zgłoszeń alarmowych osoby ocenianej;
-2) ocenę kompetencji miękkich w zakresie:
-a) sumienności,
-b) umiejętności pracy w zespole,
-c) zdolności komunikacyjnych,
-d) decyzyjności,
-e) przekazywania wiedzy.
+
+**§ 3.**
+
+1. Karta oceny kompetencji koordynatora lub koordynatora-trenera zawiera:
+
+- **1)** ocenę obsługi zgłoszeń alarmowych w zakresie:
+    - **a)** komunikatywności: – dostosowanie poziomu komunikacji do rozmówcy, – skuteczność w pozyskiwaniu informacji, – asertywność,
+    - **b)** zarządzania emocjami: – zarządzanie emocjami własnymi, – zarządzanie emocjami zgłaszającego,
+    - **c)** oceny poszczególnych zgłoszeń/zdarzeń, opracowywaną na podstawie odsłuchu rzeczywistych, losowo wybranych zgłoszeń alarmowych osoby ocenianej;
+
+- **2)** ocenę kompetencji miękkich w zakresie:
+    - **a)** sumienności,
+    - **b)** umiejętności pracy w zespole,
+    - **c)** zdolności komunikacyjnych,
+    - **d)** decyzyjności,
+    - **e)** przekazywania wiedzy.
+
 2. Ocena kompetencji miękkich w zakresie, o którym mowa w ust. 1 pkt 2 lit. e, dotyczy kompetencji koordynatora-trenera.
+
 3. Wzór karty oceny kompetencji jest określony w załączniku nr 2 do rozporządzenia.
-§ 4. 1. Karta samooceny osób, o których mowa w § 1 pkt 1, zawiera ocenę zgodności obsługi zgłoszeń alarmowych z obowiązującymi procedurami i wytycznymi w tym zakresie, opracowywaną na podstawie odsłuchu rzeczywistych, losowo wybranych własnych zgłoszeń alarmowych osoby ocenianej.
+
+**§ 4.**
+
+1. Karta samooceny osób, o których mowa w § 1 pkt 1, zawiera ocenę zgodności obsługi zgłoszeń alarmowych z obowiązującymi procedurami i wytycznymi w tym zakresie, opracowywaną na podstawie odsłuchu rzeczywistych, losowo wybranych własnych zgłoszeń alarmowych osoby ocenianej.
+
 2. Wzór karty samooceny jest określony w załączniku nr 3 do rozporządzenia.
-§ 5. Karta oceny pracy, karta oceny kompetencji oraz karta samooceny są sporządzane przy wykorzystaniu systemu teleinformatycznego umożliwiającego co najmniej losowy wybór zgłoszeń do oceny.
-§ 6. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 10 maja 2021 r. (poz. …) Załącznik nr 1 WZÓR WZÓR KARTA OCENY PRACY Imię i nazwisko ocenianego: ………………………………………………………… ……………………………..…………………..
-I. STATYSTYKA OBSŁUGI ZGŁOSZEŃ ALARMOWYCH Parametr Średnia Średnia centrum Różnica (%) ocenianego Średnia liczba obsłużonych zgłoszeń alarmowych Średni czas obsługi zasadnych zgłoszeń alarmowych w drodze połączeń telefonicznych do numerów alarmowych Średni czas obsługi fałszywych zgłoszeń alarmowych (głuchych lub niezasadnych) w drodze połączeń telefonicznych do numerów alarmowych Średni czas odbioru przydzielonych do osoby ocenianej zgłoszeń alarmowych Średnia liczba karnych wylogowań Średni czas przerwy w odbiorze zgłoszeń alarmowych* Ocena opisowa kierownika/zastępcy ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ M ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ M W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
+
+**§ 5.** Karta oceny pracy, karta oceny kompetencji oraz karta samooceny są sporządzane przy wykorzystaniu systemu teleinformatycznego umożliwiającego co najmniej losowy wybór zgłoszeń do oceny.
+
+**§ 6.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 10 maja 2021 r. (poz. …) Załącznik nr 1 WZÓR WZÓR KARTA OCENY PRACY Imię i nazwisko ocenianego: ………………………………………………………… ……………………………..………………….. I. STATYSTYKA OBSŁUGI ZGŁOSZEŃ ALARMOWYCH Parametr Średnia Średnia centrum Różnica (%) ocenianego Średnia liczba obsłużonych zgłoszeń alarmowych Średni czas obsługi zasadnych zgłoszeń alarmowych w drodze połączeń telefonicznych do numerów alarmowych Średni czas obsługi fałszywych zgłoszeń alarmowych (głuchych lub niezasadnych) w drodze połączeń telefonicznych do numerów alarmowych Średni czas odbioru przydzielonych do osoby ocenianej zgłoszeń alarmowych Średnia liczba karnych wylogowań Średni czas przerwy w odbiorze zgłoszeń alarmowych* Ocena opisowa kierownika/zastępcy ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ M ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ M W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ W W ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐ ☐
 

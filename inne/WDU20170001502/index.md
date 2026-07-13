@@ -36,21 +36,33 @@ z 2013 r. poz. 639), z uwzględnieniem zmian wprowadzonych:
 rozporządzenie ministra spraw wewnętrznych i administracji z dnia 12 listopada 2009 r.
 w sprawie zakresu i sposobu prowadzenia przez straże gminne (miejskie) ewidencji etatów, wyposażenia oraz wyników działań straży Na podstawie art. 9a ust. 2 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2016 r. poz. 706 oraz z 2017 r.
 poz. 60) zarządza się, co następuje:
-§ 1. Straż gminna (miejska), zwana dalej „strażą”, prowadzi ewidencję:
-1) etatów,
-2) wyposażenia, w tym:
-a) środków przymusu bezpośredniego w postaci: kajdanek zakładanych na ręce, pałek służbowych, psów służbowych, chemicznych środków obezwładniających w postaci ręcznych miotaczy substancji obezwładniających, przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej oraz siatek obezwładniających,
-b) broni palnej,
-c) środków technicznych służących do obserwowania i rejestrowania obrazu zdarzeń w miejscach publicznych,
-d) pojazdów,
-3) wyników działań straży – zwaną dalej „ewidencją”, w formie pisemnej lub elektronicznej.
-§ 2. Zakres ewidencji określa załącznik do rozporządzenia.
-§ 3. 1. Ewidencję etatów i wyposażenia prowadzi się w oparciu o dane liczbowe według stanu na dzień aktualizacji.
+
+**§ 1.** Straż gminna (miejska), zwana dalej „strażą”, prowadzi ewidencję:
+
+- **1)** etatów,
+- **2)** wyposażenia, w tym:
+    - **a)** środków przymusu bezpośredniego w postaci: kajdanek zakładanych na ręce, pałek służbowych, psów służbowych, chemicznych środków obezwładniających w postaci ręcznych miotaczy substancji obezwładniających, przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej oraz siatek obezwładniających,
+    - **b)** broni palnej,
+    - **c)** środków technicznych służących do obserwowania i rejestrowania obrazu zdarzeń w miejscach publicznych,
+    - **d)** pojazdów,
+
+- **3)** wyników działań straży – zwaną dalej „ewidencją”, w formie pisemnej lub elektronicznej.
+
+**§ 2.** Zakres ewidencji określa załącznik do rozporządzenia.
+
+**§ 3.**
+
+1. Ewidencję etatów i wyposażenia prowadzi się w oparciu o dane liczbowe według stanu na dzień aktualizacji.
+
 2. Ewidencję wyników działań straży prowadzi się w oparciu o dane liczbowe, a w przypadku mandatów karnych – w oparciu o dane liczbowe i kwotowe, za okres od dnia 1 stycznia do dnia aktualizacji w danym roku.
-§ 4. 1. Straż aktualizuje dane zawarte w ewidencji na bieżąco, nie rzadziej niż raz na pół roku, według stanu na dzień 30 czerwca i 31 grudnia.
+
+**§ 4.**
+
+1. Straż aktualizuje dane zawarte w ewidencji na bieżąco, nie rzadziej niż raz na pół roku, według stanu na dzień 30 czerwca i 31 grudnia.
+
 2. W przypadku rozwiązania straży ewidencję aktualizuje się według stanu na dzień zakończenia działalności straży.
-§ 5. Informację, o której mowa w art. 9b ust. 1 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych, komendant straży składa według stanu ewidencji na dzień 31 grudnia każdego roku, a w przypadku, o którym mowa w § 4 ust. 2, według stanu ewidencji na dzień zakończenia działalności straży.
-§ 6. Rozporządzenie wchodzi w życie z dniem 24 grudnia 2009 r.
-Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 listopada 2009 r.
-WZÓR WZÓR ¾ ½ ¼ W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
+
+**§ 5.** Informację, o której mowa w art. 9b ust. 1 ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych, komendant straży składa według stanu ewidencji na dzień 31 grudnia każdego roku, a w przypadku, o którym mowa w § 4 ust. 2, według stanu ewidencji na dzień zakończenia działalności straży.
+
+**§ 6.** Rozporządzenie wchodzi w życie z dniem 24 grudnia 2009 r. Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 listopada 2009 r. WZÓR WZÓR ¾ ½ ¼ W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
 

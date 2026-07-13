@@ -26,66 +26,78 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001887) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1887/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 148 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej środków publicznych (Dz. U. z 2019 r. poz. 1373, 1394, 1590, 1694, 1726 i 1818) zarządza się, co
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 5 sierpnia 2016 r. w sprawie szczegółowych w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej (Dz. U.
-wprowadza się następujące zmiany:
-1) w załączniku nr 3 do rozporządzenia w tabeli nr 5 „LECZENIE SZPITALNE – LECZENIE w częściach 1–12 w lp. VI „Inne” w pkt 2 „Opinia wojewody albo ministra właściwego do nie 4 ppkt 2.1 otrzymuje brzmienie: „2.1. Brak ważnej pozytywnej opinii o celowości inwestycji albo brak ważnej pozytywnej – dotyczy podmiotu leczniczego, jednostek lub komórek organizacyjnych zakładu leczniczego czego utworzonych po dniu 29 czerwca 2016 r. lub innej inwestycji wszczętej po tym dniu, mają być udzielane świadczenia opieki zdrowotnej objęte przedmiotem postępowania.”;
-2) w załączniku nr 4 do rozporządzenia:
-a) w tabeli nr 1 „OPIEKA PSYCHIATRYCZNA I LECZENIE UZALEŻNIEŃ” dodaje się
-54. Przedmiot postępowania: Ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej – I poziom referencyjny 1 2 3 4 Lp. Kryterium Kategoria Oceniany warunek I. Jakość 1. Personel 1.1. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ustawy z dnia 24 lutego 2017 r.
-o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2019 r. poz. 786), lub osoba z co najmniej 2-letnim udokumentowanym doświadczeniem pracy środowiskowej z dziećmi i młodzieżą – równoważnik co najmniej 1 etatu.
-Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95).
-Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 1555, z 2017 r. poz.
-z 2018 r. poz. 385 i 1383 oraz z 2019 r. poz. 832.
-1.2. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia – równoważnik co najmniej 1 etatu, oraz osoba z co najmniej 2-letnim udokumentowanym doświadczeniem pracy środowiskowej z dziećmi i młodzieżą – równoważnik co najmniej 1 etatu.
-1.3. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ustawy z dnia 24 lutego 2017 r.
-o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia – równoważnik co najmniej 1 etatu, lub osoba posiadająca certyfikat potwierdzający nadanie kwalifikacji rynkowej „Prowadzenie terapii środowiskowej dzieci i młodzieży” włączonej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w ustawie z dnia 22 grudnia 2015 r.
-o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2018 r.
-poz. 2153, z późn. zm.) – równoważnik co najmniej 0,5 etatu.
-1.4. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ustawy z dnia 24 lutego 2017 r.
-o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia – równoważnik co najmniej 1 etatu, oraz osoba posiadająca certyfikat potwierdzający nadanie kwalifikacji rynkowej „Prowadzenie terapii środowiskowej dzieci i młodzieży” włączonej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w ustawie z dnia 22 grudnia 2015 r.
-o Zintegrowanym Systemie Kwalifikacji – równoważnik co najmniej 0,5 etatu.
-1.5. Specjalista psychologii klinicznej lub psycholog kliniczny – równoważnik co najmniej 1 etatu.
-1.6. Psycholog w trakcie specjalizacji w dziedzinie psychologii klinicznej lub psycholog z udokumentowanym co najmniej 2-letnim doświadczeniem w pracy klinicznej z dziećmi i młodzieżą – równoważnik co najmniej 1 etatu.
-2. Monitoro- 2.1. Superwizja psychoterapii.
-wanie procesu psychoterapii II. Dostę- 1. Dostępność 1.1. Realizacja przez oferenta w okresie ostatnich 12 miesięcy pność do świadczeń poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, co najmniej 20% wizyt, porad domowych lub środowiskowych w stosunku do liczby wszystkich świadczeń wykonanych w zakresie przedmiotu postępowania Ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
-III. Komple- 1. Pozostałe 1.1. Oferent realizuje umowę w zakresie przedmiotu postępowania ksowość warunki świadczenia psychiatryczne ambulatoryjne dla dzieci i młodzieży lub świadczenia psychiatryczne dla dzieci i młodzieży, lub Środowiskowe centrum zdrowia psychicznego dla dzieci i młodzieży – II poziom referencyjny, lub Ośrodek wysokospecjalistycznej całodobowej opieki psychiatrycznej – III poziom referencyjny.
-IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 do rozporządzenia.
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 5 sierpnia 2016 r. w sprawie szczegółowych w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 3 do rozporządzenia w tabeli nr 5 „LECZENIE SZPITALNE – LECZENIE w częściach 1–12 w lp. VI „Inne” w pkt 2 „Opinia wojewody albo ministra właściwego do nie 4 ppkt 2.1 otrzymuje brzmienie: „2.1. Brak ważnej pozytywnej opinii o celowości inwestycji albo brak ważnej pozytywnej – dotyczy podmiotu leczniczego, jednostek lub komórek organizacyjnych zakładu leczniczego czego utworzonych po dniu 29 czerwca 2016 r. lub innej inwestycji wszczętej po tym dniu, mają być udzielane świadczenia opieki zdrowotnej objęte przedmiotem postępowania.”;
+- **2)** w załączniku nr 4 do rozporządzenia:
+    - **a)** w tabeli nr 1 „OPIEKA PSYCHIATRYCZNA I LECZENIE UZALEŻNIEŃ” dodaje się
+
+54. Przedmiot postępowania: Ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej – I poziom referencyjny 1 2 3 4 Lp. Kryterium Kategoria Oceniany warunek I. Jakość 1. Personel 1.1. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2019 r. poz. 786), lub osoba z co najmniej 2-letnim udokumentowanym doświadczeniem pracy środowiskowej z dziećmi i młodzieżą – równoważnik co najmniej 1 etatu. Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 95). Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 1555, z 2017 r. poz. z 2018 r. poz. 385 i 1383 oraz z 2019 r. poz. 832.
+
+1. 2. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia – równoważnik co najmniej 1 etatu, oraz osoba z co najmniej 2-letnim udokumentowanym doświadczeniem pracy środowiskowej z dziećmi i młodzieżą – równoważnik co najmniej 1 etatu.
+
+1. 3. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia – równoważnik co najmniej 1 etatu, lub osoba posiadająca certyfikat potwierdzający nadanie kwalifikacji rynkowej „Prowadzenie terapii środowiskowej dzieci i młodzieży” włączonej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w ustawie z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2018 r. poz. 2153, z późn. zm.) – równoważnik co najmniej 0,5 etatu.
+
+1. 4. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia – równoważnik co najmniej 1 etatu, oraz osoba posiadająca certyfikat potwierdzający nadanie kwalifikacji rynkowej „Prowadzenie terapii środowiskowej dzieci i młodzieży” włączonej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w ustawie z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji – równoważnik co najmniej 0,5 etatu.
+
+1. 5. Specjalista psychologii klinicznej lub psycholog kliniczny – równoważnik co najmniej 1 etatu.
+
+1. 6. Psycholog w trakcie specjalizacji w dziedzinie psychologii klinicznej lub psycholog z udokumentowanym co najmniej 2-letnim doświadczeniem w pracy klinicznej z dziećmi i młodzieżą – równoważnik co najmniej 1 etatu.
+
+2. Monitoro- 2.1. Superwizja psychoterapii. wanie procesu psychoterapii II. Dostę- 1. Dostępność 1.1. Realizacja przez oferenta w okresie ostatnich 12 miesięcy pność do świadczeń poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, co najmniej 20% wizyt, porad domowych lub środowiskowych w stosunku do liczby wszystkich świadczeń wykonanych w zakresie przedmiotu postępowania Ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny. III. Komple- 1. Pozostałe 1.1. Oferent realizuje umowę w zakresie przedmiotu postępowania ksowość warunki świadczenia psychiatryczne ambulatoryjne dla dzieci i młodzieży lub świadczenia psychiatryczne dla dzieci i młodzieży, lub Środowiskowe centrum zdrowia psychicznego dla dzieci i młodzieży – II poziom referencyjny, lub Ośrodek wysokospecjalistycznej całodobowej opieki psychiatrycznej – III poziom referencyjny. IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 do rozporządzenia.
+
 55. Przedmiot postępowania: Środowiskowe centrum zdrowia psychicznego dla dzieci i młodzieży – II 1 2 3 4 Lp. Kryterium Kategoria Oceniany warunek I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie psychiatrii dzieci i młodzieży – równoważnik co najmniej 1 etatu.
-1.2. Specjalista psychologii klinicznej lub psycholog kliniczny – równoważnik co najmniej 1 etatu.
-1.3. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ustawy z dnia 24 lutego 2017 r.
-o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia – równoważnik co najmniej 1 etatu.
-1.4. Osoba posiadająca certyfikat potwierdzający nadanie kwalifikacji rynkowej „Prowadzenie terapii środowiskowej dzieci i młodzieży” włączonej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w ustawie z dnia 22 grudnia 2015 r.
-o Zintegrowanym Systemie Kwalifikacji – równoważnik co najmniej 1 etatu.
-1.5. Osoba z co najmniej 2-letnim udokumentowanym doświadczeniem pracy środowiskowej z dziećmi i młodzieżą – równoważnik co najmniej 1 etatu.
-1.6. Terapeuta zajęciowy lub pedagog, lub logopeda, lub neurologopeda, lub dietetyk, lub fizjoterapeuta – równoważnik co najmniej 1,5 etatu łącznie.
-1.7. Pielęgniarka specjalista w dziedzinie pielęgniarstwa psychiatrycznego lub w trakcie specjalizacji w dziedzinie pielęgniarstwa psychiatrycznego – równoważnik co najmniej 1 etatu.
-1.8. Pielęgniarka po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa psychiatrycznego lub pielęgniarka w trakcie kursu kwalifikacyjnego w dziedzinie pielęgniarstwa psychiatrycznego – równoważnik co najmniej 1 etatu.
-2. Monitoro- 2.1. Superwizja psychoterapii.
-wanie procesu psychoterapii II. Dostę- 1. Dostępność 1.1. Realizacja przez oferenta w okresie ostatnich 12 miesięcy pność do świadczeń poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, co najmniej 20% wizyt, porad domowych lub środowiskowych w stosunku do liczby wszystkich świadczeń wykonanych w zakresie przedmiotu postępowania Środowiskowe centrum zdrowia psychicznego dla dzieci i młodzieży – II poziom referencyjny, z wyłączeniem świadczeń udzielonych w ramach oddziału dziennego.
-III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 do rozporządzenia.
+
+1. 2. Specjalista psychologii klinicznej lub psycholog kliniczny – równoważnik co najmniej 1 etatu.
+
+1. 3. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia – równoważnik co najmniej 1 etatu.
+
+1. 4. Osoba posiadająca certyfikat potwierdzający nadanie kwalifikacji rynkowej „Prowadzenie terapii środowiskowej dzieci i młodzieży” włączonej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w ustawie z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji – równoważnik co najmniej 1 etatu.
+
+1. 5. Osoba z co najmniej 2-letnim udokumentowanym doświadczeniem pracy środowiskowej z dziećmi i młodzieżą – równoważnik co najmniej 1 etatu.
+
+1. 6. Terapeuta zajęciowy lub pedagog, lub logopeda, lub neurologopeda, lub dietetyk, lub fizjoterapeuta – równoważnik co najmniej 1,5 etatu łącznie.
+
+1. 7. Pielęgniarka specjalista w dziedzinie pielęgniarstwa psychiatrycznego lub w trakcie specjalizacji w dziedzinie pielęgniarstwa psychiatrycznego – równoważnik co najmniej 1 etatu.
+
+1. 8. Pielęgniarka po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa psychiatrycznego lub pielęgniarka w trakcie kursu kwalifikacyjnego w dziedzinie pielęgniarstwa psychiatrycznego – równoważnik co najmniej 1 etatu.
+
+2. Monitoro- 2.1. Superwizja psychoterapii. wanie procesu psychoterapii II. Dostę- 1. Dostępność 1.1. Realizacja przez oferenta w okresie ostatnich 12 miesięcy pność do świadczeń poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, co najmniej 20% wizyt, porad domowych lub środowiskowych w stosunku do liczby wszystkich świadczeń wykonanych w zakresie przedmiotu postępowania Środowiskowe centrum zdrowia psychicznego dla dzieci i młodzieży – II poziom referencyjny, z wyłączeniem świadczeń udzielonych w ramach oddziału dziennego. III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 do rozporządzenia.
+
 56. Przedmiot postępowania: Ośrodek wysokospecjalistycznej całodobowej opieki psychiatrycznej – 1 2 3 4 Lp. Kryterium Kategoria Oceniany warunek I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie psychiatrii dzieci i młodzieży – równoważnik co najmniej 1 etatu.
-1.2. Specjalista psychologii klinicznej lub psycholog kliniczny – równoważnik co najmniej 1 etatu.
-1.3. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia – równoważnik co najmniej 2 etatów.
-1.4. Terapeuta zajęciowy lub pedagog, lub logopeda, lub neurologopeda, lub dietetyk, lub fizjoterapeuta – równoważnik co najmniej 0,5 etatu.
-1.5. Pielęgniarka specjalista w dziedzinie pielęgniarstwa psychiatrycznego lub w trakcie specjalizacji w dziedzinie pielęgniarstwa psychiatrycznego – równoważnik co najmniej 1 etatu.
-1.6. Pielęgniarka po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa psychiatrycznego lub pielęgniarka w trakcie kursu kwalifikacyjnego w dziedzinie pielęgniarstwa psychiatrycznego – równoważnik co najmniej 1 etatu.
-2. Monitoro- 2.1. Superwizja psychoterapii.
-wanie procesu psychoterapii
+
+1. 2. Specjalista psychologii klinicznej lub psycholog kliniczny – równoważnik co najmniej 1 etatu.
+
+1. 3. Specjalista w dziedzinie psychoterapii dzieci i młodzieży lub o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia – równoważnik co najmniej 2 etatów.
+
+1. 4. Terapeuta zajęciowy lub pedagog, lub logopeda, lub neurologopeda, lub dietetyk, lub fizjoterapeuta – równoważnik co najmniej 0,5 etatu.
+
+1. 5. Pielęgniarka specjalista w dziedzinie pielęgniarstwa psychiatrycznego lub w trakcie specjalizacji w dziedzinie pielęgniarstwa psychiatrycznego – równoważnik co najmniej 1 etatu.
+
+1. 6. Pielęgniarka po kursie kwalifikacyjnym w dziedzinie pielęgniarstwa psychiatrycznego lub pielęgniarka w trakcie kursu kwalifikacyjnego w dziedzinie pielęgniarstwa psychiatrycznego – równoważnik co najmniej 1 etatu.
+
+2. Monitoro- 2.1. Superwizja psychoterapii. wanie procesu psychoterapii
+
 3. Pozostałe 3.1. W oddziale co najmniej jednoosobowa separatka, zaopatrzona w: warunki 1) drzwi odporne na zniszczenie, otwierające się na zewnątrz, z okienkiem obserwacyjnym szklonym szkłem hartowanym, wyposażone w podwójny system zamykania od zewnątrz, bez klamki od wewnątrz;
-2) ściany i podłogę gładkie, jasne, wyłożone wykładziną odporną na zniszczenie;
-3) oświetlenie zabezpieczone szkłem bezpiecznym, lampa i żarówka są dostępne wyłącznie od zewnątrz pokoju;
-4) system wentylacji niedostępny dla osoby izolowanej;
-5) system ogrzewania uniemożliwiający dostęp osoby izolowanej do grzejnika lub innego źródła ciepła;
-6) własne pomieszczenie higieniczno-sanitarne wyposażone dodatkowo w miskę ustępową, natrysk i umywalkę, odporne na umyślne zniszczenie;
-7) łóżko wyposażone w materac niepalny, odporny na zniszczenie;
-8) system monitoringu z kamerą, posiadający rezerwowe zasilanie wyposażone w funkcję autostartu, niedostępną dla osoby izolowanej, zabezpieczoną przed uszkodzeniem.
-3.2. W oddziale co najmniej 1 pokój jednoosobowy z możliwością obserwacji świadczeniobiorcy, zaopatrzony w węzeł sanitarny.
-3.3. W oddziale co najmniej 1 pokój wieloosobowy z możliwością obserwacji świadczeniobiorców, zaopatrzony w węzeł sanitarny.
-3.4. W oddziale jest prowadzone szkolenie specjalizacyjne lekarzy przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie odpowiadającej zakresowi świadczeń objętych przedmiotem postępowania.
-II. Komple- 1. Sposób 1.1. Realizacja świadczeń zdrowotnych będących przedmiotem ksowość wykonania umowy bez udziału podwykonawców.
-umowy III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 do rozporządzenia.
-b) w tabeli nr 2 „OPIEKA PSYCHIATRYCZNA I LECZENIE UZALEŻNIEŃ – CZĘŚĆ – w części III „Dostępność. Maksymalna suma punktów: 7 dla części 40–53 i 4 dla części – – tytuł otrzymuje brzmienie: „III. Dostępność. Maksymalna suma punktów: 7 dla części 40–56 i 4 dla części – – w lp. 3–5 kolumna nr 4 otrzymuje brzmienie: „Jedna odpowiedź do wyboru. Dotyczy tylko przedmiotów postępowania w częściach: – w części V „Inne. Maksymalna suma punktów: 2” w lp. 2 kolumna nr 4 otrzymuje brzmienie: „Dotyczy tylko przedmiotów postępowania w częściach: 1–11, 18–27, 30 i 54–56”.
-§ 2. Do postępowań w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej wszczętych nych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia:
+
+- **2)** ściany i podłogę gładkie, jasne, wyłożone wykładziną odporną na zniszczenie;
+- **3)** oświetlenie zabezpieczone szkłem bezpiecznym, lampa i żarówka są dostępne wyłącznie od zewnątrz pokoju;
+- **4)** system wentylacji niedostępny dla osoby izolowanej;
+- **5)** system ogrzewania uniemożliwiający dostęp osoby izolowanej do grzejnika lub innego źródła ciepła;
+- **6)** własne pomieszczenie higieniczno-sanitarne wyposażone dodatkowo w miskę ustępową, natrysk i umywalkę, odporne na umyślne zniszczenie;
+- **7)** łóżko wyposażone w materac niepalny, odporny na zniszczenie;
+- **8)** system monitoringu z kamerą, posiadający rezerwowe zasilanie wyposażone w funkcję autostartu, niedostępną dla osoby izolowanej, zabezpieczoną przed uszkodzeniem.
+
+3. 2. W oddziale co najmniej 1 pokój jednoosobowy z możliwością obserwacji świadczeniobiorcy, zaopatrzony w węzeł sanitarny.
+
+3. 3. W oddziale co najmniej 1 pokój wieloosobowy z możliwością obserwacji świadczeniobiorców, zaopatrzony w węzeł sanitarny.
+
+3. 4. W oddziale jest prowadzone szkolenie specjalizacyjne lekarzy przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie odpowiadającej zakresowi świadczeń objętych przedmiotem postępowania. II. Komple- 1. Sposób 1.1. Realizacja świadczeń zdrowotnych będących przedmiotem ksowość wykonania umowy bez udziału podwykonawców. umowy III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 do rozporządzenia.
+
+- **b)** w tabeli nr 2 „OPIEKA PSYCHIATRYCZNA I LECZENIE UZALEŻNIEŃ – CZĘŚĆ – w części III „Dostępność. Maksymalna suma punktów: 7 dla części 40–53 i 4 dla części – – tytuł otrzymuje brzmienie: „III. Dostępność. Maksymalna suma punktów: 7 dla części 40–56 i 4 dla części – – w lp. 3–5 kolumna nr 4 otrzymuje brzmienie: „Jedna odpowiedź do wyboru. Dotyczy tylko przedmiotów postępowania w częściach: – w części V „Inne. Maksymalna suma punktów: 2” w lp. 2 kolumna nr 4 otrzymuje brzmienie: „Dotyczy tylko przedmiotów postępowania w częściach: 1–11, 18–27, 30 i 54–56”.
+
+**§ 2.** Do postępowań w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej wszczętych nych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia:
 

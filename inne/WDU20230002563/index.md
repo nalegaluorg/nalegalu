@@ -27,13 +27,16 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stawek dopłat do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany lub ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany Na podstawie art. 40c ust. 6 pkt 1 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r.
 poz. 1502) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 29 grudnia 2022 r. w sprawie stawek dopłat do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany lub ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany (Dz. U. poz. 2867) wprowadza się następujące zmiany:
-1) w § 1:
-a) we wprowadzeniu do wyliczenia skreśla się wyrazy „ , w odniesieniu do wniosków o udzielenie dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany złożonych w 2022 r.,”,
-b) w pkt 1 wyrazy „rozporządzeniu Rady Ministrów z dnia 2 marca 2022 r. w sprawie wykazu gatunków roślin uprawnych, do których materiału siewnego kategorii elitarny lub kwalifikowany przysługuje dopłata z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany (Dz. U. poz. 801)” zastępuje się wyrazami „przepisach wydanych na podstawie art. 40c ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych”;
-2) w § 2:
-a) we wprowadzeniu do wyliczenia wyrazy „ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany” zastępuje się wyrazami „wytworzonym w ramach produkcji ekologicznej w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. z 2023 r. poz. 1235) materiałem siewnym kategorii elitarny lub kwalifikowany”,
-b) w pkt 1 wyrazy „rozporządzeniu Rady Ministrów z dnia 2 marca 2022 r. w sprawie wykazu gatunków roślin uprawnych, do których materiału siewnego kategorii elitarny lub kwalifikowany przysługuje dopłata z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany” zastępuje się wyrazami „przepisach wydanych na podstawie art. 40c ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 29 grudnia 2022 r. w sprawie stawek dopłat do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany lub ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany (Dz. U. poz. 2867) wprowadza się następujące zmiany:
+
+- **1)** w § 1:
+    - **a)** we wprowadzeniu do wyliczenia skreśla się wyrazy „ , w odniesieniu do wniosków o udzielenie dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany złożonych w 2022 r.,”,
+    - **b)** w pkt 1 wyrazy „rozporządzeniu Rady Ministrów z dnia 2 marca 2022 r. w sprawie wykazu gatunków roślin uprawnych, do których materiału siewnego kategorii elitarny lub kwalifikowany przysługuje dopłata z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany (Dz. U. poz. 801)” zastępuje się wyrazami „przepisach wydanych na podstawie art. 40c ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych”;
+
+- **2)** w § 2:
+    - **a)** we wprowadzeniu do wyliczenia wyrazy „ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany” zastępuje się wyrazami „wytworzonym w ramach produkcji ekologicznej w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. z 2023 r. poz. 1235) materiałem siewnym kategorii elitarny lub kwalifikowany”,
+    - **b)** w pkt 1 wyrazy „rozporządzeniu Rady Ministrów z dnia 2 marca 2022 r. w sprawie wykazu gatunków roślin uprawnych, do których materiału siewnego kategorii elitarny lub kwalifikowany przysługuje dopłata z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany” zastępuje się wyrazami „przepisach wydanych na podstawie art. 40c ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

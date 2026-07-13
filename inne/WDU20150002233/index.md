@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach Na podstawie art. 58 oraz art. 87 § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r.
 poz. 613, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 22 sierpnia 2005 r. w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. Nr 165, poz. 1373, z 2008 r. Nr 236, poz. 1633 oraz z 2011 r. Nr 40, poz. 204) po § 2a dodaje się § 2b w brzmieniu: ,,§ 2b. 1. Odsetki za zwłokę z zastosowaniem podwyższonej stawki odsetek za zwłokę są naliczane według wzoru: = On = Opz gdzie poszczególne symbole i liczby oznaczają: Kz – kwotę zaległości, L – liczbę dni zwłoki, O – podwyższoną stawkę odsetek za zwłokę w stosunku rocznym, 365 – liczbę dni w roku, On – kwotę odsetek, Opz – kwotę odsetek po zaokrągleniu.
-2. W przypadku zaległości podatkowej istniejącej w okresach, w których obowiązywały różne podwyższone stawki odsetek za zwłokę od zaległości podatkowych, odsetki są naliczane, według wzoru określonego w ust. 1, odrębnie za każdy z tych okresów. Zaokrągleniu podlega suma odsetek za poszczególne okresy.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
-Minister Finansów: P. Szałamacha
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 22 sierpnia 2005 r. w sprawie naliczania odsetek za zwłokę oraz opłaty prolongacyjnej, a także zakresu informacji, które muszą być zawarte w rachunkach (Dz. U. Nr 165, poz. 1373, z 2008 r. Nr 236, poz. 1633 oraz z 2011 r. Nr 40, poz. 204) po § 2a dodaje się § 2b w brzmieniu: ,,§ 2b. 1. Odsetki za zwłokę z zastosowaniem podwyższonej stawki odsetek za zwłokę są naliczane według wzoru: = On = Opz gdzie poszczególne symbole i liczby oznaczają: Kz – kwotę zaległości, L – liczbę dni zwłoki, O – podwyższoną stawkę odsetek za zwłokę w stosunku rocznym, 365 – liczbę dni w roku, On – kwotę odsetek, Opz – kwotę odsetek po zaokrągleniu. 2. W przypadku zaległości podatkowej istniejącej w okresach, w których obowiązywały różne podwyższone stawki odsetek za zwłokę od zaległości podatkowych, odsetki są naliczane, według wzoru określonego w ust. 1, odrębnie za każdy z tych okresów. Zaokrągleniu podlega suma odsetek za poszczególne okresy.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r. Minister Finansów: P. Szałamacha
 

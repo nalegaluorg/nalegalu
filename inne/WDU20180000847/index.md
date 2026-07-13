@@ -29,7 +29,10 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2018 r. poz. 5, 650 i 771) wprowadza się następujące zmiany:
 
-- **1)** w art. 7 dodaje się § 5 i 6 w brzmieniu: „§ 5. Przeniesienia wydatków skutkujące zmniejszeniem wydatków związanych z funkcjonowaniem Izby Dyscyplinarnej wymagają zgody Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej. § 6. Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej wykonuje budżet Sądu Najwyższego w zakresie związanym z funkcjonowaniem Izby Dyscyplinarnej.”;
+- **1)** w art. 7 dodaje się § 5 i 6 w brzmieniu:
+
+  > „§ 5. Przeniesienia wydatków skutkujące zmniejszeniem wydatków związanych z funkcjonowaniem Izby Dyscyplinarnej wymagają zgody Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej.  
+  > § 6. Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej wykonuje budżet Sądu Najwyższego w zakresie związanym z funkcjonowaniem Izby Dyscyplinarnej.”;  
 - **2)** w art. 13 § 5 otrzymuje brzmienie: „§ 5. Niezwłocznie po wybraniu kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego, sędzia przewodniczący Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego albo inna osoba wskazana przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego przekazuje Prezydentowi Rzeczypospolitej Polskiej uchwałę, o której mowa w § 2, wraz z protokołem głosowania.”;
 - **3)** w art. 14 w § 1 w pkt 3 wyraz „przedstawia” zastępuje się wyrazami „opiniuje i przedstawia”;
 - **4)** w art. 15 w § 2 wyraz „przedstawionych” zastępuje się wyrazem „wybranych”;

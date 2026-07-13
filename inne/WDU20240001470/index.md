@@ -26,14 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1470/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej Na podstawie art. 33zd ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 11 stycznia 2023 r. w sprawie warunków bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej (Dz. U. poz. 195) wprowadza się następujące zmiany:
-1) w § 12 ust. 6 otrzymuje brzmienie: „6. Plan leczenia, o którym mowa w ust. 1, jest:
-1) przygotowywany przez specjalistę w dziedzinie fizyki medycznej lub osobę, która posiada tytuł zawodowy magistra, magistra inżyniera lub równorzędny uzyskany w wyniku ukończenia studiów w zakresie fizyki, biofizyki, fizyki medycznej, fizyki technicznej lub inżynierii biomedycznej, będącą w trakcie specjalizacji w dziedzinie fizyka medyczna, zwaną dalej „fizykiem”;
-2) weryfikowany przez specjalistę w dziedzinie fizyki medycznej;
-3) zatwierdzany przez lekarza specjalistę w dziedzinie radioterapii onkologicznej.”;
-2) w § 14 ust. 2 otrzymuje brzmienie: „2. Kontrola dawki oraz jednostek monitorowych (czasu napromieniania) jest dokonywana przez specjalistę w dziedzinie fizyki medycznej lub fizyka i nadzorowana przez specjalistę w dziedzinie fizyki medycznej przed rozpoczęciem leczenia.”;
-3) § 15 otrzymuje brzmienie: „§ 15. Dawka w planie leczenia wymaga weryfikacji przez pomiar lub niezależne obliczenia, wykonane przez specjalistę w dziedzinie fizyki medycznej lub fizyka, a następnie zatwierdzenia przez specjalistę w dziedzinie fizyki medycznej.”;
-4) w § 16 w ust. 1 pkt 7 otrzymuje brzmienie: „7) dozymetrycznej weryfikacji planów leczenia dla technik statycznych oraz dynamicznych zatwierdzonej przez specjalistę w dziedzinie fizyki medycznej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 11 stycznia 2023 r. w sprawie warunków bezpiecznego stosowania promieniowania jonizującego dla wszystkich rodzajów ekspozycji medycznej (Dz. U. poz. 195) wprowadza się następujące zmiany:
+
+- **1)** w § 12 ust. 6 otrzymuje brzmienie:
+
+  > „6. Plan leczenia, o którym mowa w ust. 1, jest:  
+  > 1) przygotowywany przez specjalistę w dziedzinie fizyki medycznej lub osobę, która posiada tytuł zawodowy magistra, magistra inżyniera lub równorzędny uzyskany w wyniku ukończenia studiów w zakresie fizyki, biofizyki, fizyki medycznej, fizyki technicznej lub inżynierii biomedycznej, będącą w trakcie specjalizacji w dziedzinie fizyka medyczna, zwaną dalej „fizykiem”;  
+- **2)** weryfikowany przez specjalistę w dziedzinie fizyki medycznej;
+- **3)** zatwierdzany przez lekarza specjalistę w dziedzinie radioterapii onkologicznej.”;
+- **2)** w § 14 ust. 2 otrzymuje brzmienie: „2. Kontrola dawki oraz jednostek monitorowych (czasu napromieniania) jest dokonywana przez specjalistę w dziedzinie fizyki medycznej lub fizyka i nadzorowana przez specjalistę w dziedzinie fizyki medycznej przed rozpoczęciem leczenia.”;
+- **3)** § 15 otrzymuje brzmienie: „§ 15. Dawka w planie leczenia wymaga weryfikacji przez pomiar lub niezależne obliczenia, wykonane przez specjalistę w dziedzinie fizyki medycznej lub fizyka, a następnie zatwierdzenia przez specjalistę w dziedzinie fizyki medycznej.”;
+- **4)** w § 16 w ust. 1 pkt 7 otrzymuje brzmienie: „7) dozymetrycznej weryfikacji planów leczenia dla technik statycznych oraz dynamicznych zatwierdzonej przez specjalistę w dziedzinie fizyki medycznej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Konieczny
 

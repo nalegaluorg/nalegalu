@@ -29,8 +29,14 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. z 2016 r. poz. 1510 i 2074 oraz z 2017 r. poz. 38) wprowadza się następujące zmiany:
 
-- **1)** w art. 25 ust. 5 otrzymuje brzmienie: „5. Zasady obniżania uposażenia posłów i senatorów: 1) uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów, 2) nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów, 3) naruszających swoim zachowaniem na sali posiedzeń powagę Sejmu, Senatu albo Zgromadzenia Narodowego – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.”;
-- **2)** w art. 42 ust. 4 otrzymuje brzmienie: „4. Zasady obniżania i utraty prawa do diety parlamentarnej posłów i senatorów: 1) uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów, 2) nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów, 3) naruszających swoim zachowaniem na sali posiedzeń powagę Sejmu, Senatu albo Zgromadzenia Narodowego – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.”.
+- **1)** w art. 25 ust. 5 otrzymuje brzmienie:
+
+  > „5. Zasady obniżania uposażenia posłów i senatorów:  
+  > 1) uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów, 2) nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów, 3) naruszających swoim zachowaniem na sali posiedzeń powagę Sejmu, Senatu albo Zgromadzenia Narodowego – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.”;  
+- **2)** w art. 42 ust. 4 otrzymuje brzmienie:
+
+  > „4. Zasady obniżania i utraty prawa do diety parlamentarnej posłów i senatorów:  
+  > 1) uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów, 2) nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów, 3) naruszających swoim zachowaniem na sali posiedzeń powagę Sejmu, Senatu albo Zgromadzenia Narodowego – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.”.  
 
 **Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

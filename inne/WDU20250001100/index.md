@@ -30,10 +30,15 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 27 września 2024 r. zmieniającego rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu (Dz. U. poz. 1448), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Konieczny
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 13 sierpnia 2021 r.
 w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu Na podstawie art. 7 ust. 4 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416) zarządza się, co następuje:
-§ 1. Głównemu Inspektoratowi Sanitarnemu nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Zdrowia z dnia 29 lipca 2010 r. w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu (Dz. U. z 2020 r. poz. 2165).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-STATUT GŁÓWNEGO INSPEKTORATU SANITARNEGO
+
+**§ 1.** Głównemu Inspektoratowi Sanitarnemu nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Zdrowia z dnia 29 lipca 2010 r. w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu (Dz. U. z 2020 r. poz. 2165).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . STATUT GŁÓWNEGO INSPEKTORATU SANITARNEGO
+
+## Załącznik
+
 § 1. Główny Inspektorat Sanitarny, zwany dalej „Głównym Inspektoratem”, jest urzędem administracji rządowej obsługującym Głównego Inspektora Sanitarnego.
 § 2. Główny Inspektor Sanitarny kieruje Głównym Inspektoratem przy pomocy zastępców Głównego Inspektora Sanitarnego, dyrektora generalnego oraz kierowników komórek organizacyjnych wymienionych w § 3.
 § 3. W skład Głównego Inspektoratu wchodzą:

@@ -32,17 +32,29 @@ w sprawie wysokości opłat za wyszukiwanie informacji w Krajowym Rejestrze Leś
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 14 stycznia 2004 r.
 w sprawie wysokości opłat za wyszukiwanie informacji w Krajowym Rejestrze Leśnego Materiału Podstawowego, rejestrze świadectw pochodzenia leśnego materiału rozmnożeniowego i rejestrze dostawców, za sporządzanie odpisów i wyciągów i ich przesyłanie oraz sposobu uiszczania opłat Na podstawie art. 46 ust. 2 ustawy z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym (Dz. U. z 2015 r.
 poz. 1092) zarządza się, co następuje:
-§ 1. Wysokość opłat za wyszukiwanie informacji w Krajowym Rejestrze Leśnego Materiału Podstawowego, rejestrze świadectw pochodzenia i rejestrze dostawców wynosi:
-1) 5 zł – za wyszukanie informacji zawartej na nie więcej niż dziesięciu stronach;
-2) 0,5 zł za każdą stronę – za wyszukanie informacji zawartej na więcej niż dziesięciu stronach.
-§ 2. Wysokość opłat za sporządzanie odpisów i wyciągów z rejestrów wynosi:
-1) 3 zł – za każdą stronę sporządzonego wyciągu;
-2) 5 zł – za każdą stronę sporządzonego odpisu.
-§ 3. Wysokość opłat za przesłanie odpisów i wyciągów jest równa wysokości opłat pobieranych przez operatora wyznaczonego, w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529), za przesyłkę danego rodzaju i danej kategorii wagowej.
-§ 4. 1. Opłaty, o których mowa w § 1, uiszcza się w drodze wpłaty w kasie lub na rachunek bankowy Biura Nasiennictwa Leśnego.
+
+**§ 1.** Wysokość opłat za wyszukiwanie informacji w Krajowym Rejestrze Leśnego Materiału Podstawowego, rejestrze świadectw pochodzenia i rejestrze dostawców wynosi:
+
+- **1)** 5 zł – za wyszukanie informacji zawartej na nie więcej niż dziesięciu stronach;
+- **2)** 0,5 zł za każdą stronę – za wyszukanie informacji zawartej na więcej niż dziesięciu stronach.
+
+**§ 2.** Wysokość opłat za sporządzanie odpisów i wyciągów z rejestrów wynosi:
+
+- **1)** 3 zł – za każdą stronę sporządzonego wyciągu;
+- **2)** 5 zł – za każdą stronę sporządzonego odpisu.
+
+**§ 3.** Wysokość opłat za przesłanie odpisów i wyciągów jest równa wysokości opłat pobieranych przez operatora wyznaczonego, w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529), za przesyłkę danego rodzaju i danej kategorii wagowej.
+
+**§ 4.**
+
+1. Opłaty, o których mowa w § 1, uiszcza się w drodze wpłaty w kasie lub na rachunek bankowy Biura Nasiennictwa Leśnego.
+
 2. Opłaty, o których mowa w § 2, uiszcza się łącznie z opłatami, o których mowa w § 1:
-1) w drodze wpłaty w kasie lub na rachunek bankowy Biura Nasiennictwa Leśnego – jeżeli odpisów lub wyciągów nie przesyłano, albo
-2) przy odbiorze przesyłki – jeżeli odpisy lub wyciągi zostały przesłane.
+
+- **1)** w drodze wpłaty w kasie lub na rachunek bankowy Biura Nasiennictwa Leśnego – jeżeli odpisów lub wyciągów nie przesyłano, albo
+- **2)** przy odbiorze przesyłki – jeżeli odpisy lub wyciągi zostały przesłane.
+
 3. Opłaty, o których mowa w § 3, uiszcza się przy odbiorze przesyłki.
-§ 5. Rozporządzenie wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
 

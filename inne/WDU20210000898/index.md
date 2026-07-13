@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000898) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/898/text.pdf) |
 
 w sprawie wysokości opłaty za udział w egzaminie wstępnym na aplikację komorniczą Na podstawie art. 70 ust. 2 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2021 r. poz. 850) zarządza się, co następuje:
-§ 1. Opłata za udział w egzaminie wstępnym na aplikację komorniczą wynosi 1125 zł.
-§ 2. Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 18 grudnia 2018 r. w sprawie wysokości opłaty za udział w egzaminie wstępnym na aplikację komorniczą (Dz. U. poz. 2434).
-§ 3. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** Opłata za udział w egzaminie wstępnym na aplikację komorniczą wynosi 1125 zł.
+
+**§ 2.** Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 18 grudnia 2018 r. w sprawie wysokości opłaty za udział w egzaminie wstępnym na aplikację komorniczą (Dz. U. poz. 2434).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

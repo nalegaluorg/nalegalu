@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego Na podstawie art. 10b ust. 6 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2018 r.
 poz. 1878) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 13 stycznia 2006 r. w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 126 oraz z 2010 r. poz. 552) wprowadza się następujące zmiany:
-1) § 2 otrzymuje brzmienie: „§ 2. Rzecznik wykonuje czynności, o których mowa w § 1, w oddziałach psychiatrycznych w szpitalach ogólnych, klinikach psychiatrycznych, sanatoriach dla osób z zaburzeniami psychicznymi i innych zakładach leczniczych sprawujących całodobową opiekę psychiatryczną lub odwykową, przy czym swoim działaniem obejmuje obszar terytorialny nie większy niż trzy sąsiadujące ze sobą województwa, w zależności od rozmieszczenia tych zakładów.”;
-2) w § 7 ust. 1 otrzymuje brzmienie: „1. Rzecznik umieszcza na tablicach informacyjnych w oddziałach psychiatrycznych w szpitalach ogólnych, klinikach psychiatrycznych, sanatoriach dla osób z zaburzeniami psychicznymi i innych zakładach leczniczych sprawujących całodobową opiekę psychiatryczną lub odwykową informację o możliwości korzystania z pomocy Rzecznika przez pacjenta, jego przedstawiciela ustawowego, opiekuna prawnego lub osobę sprawującą faktyczną opiekę nad pacjentem.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: Ł. Szumowski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 13 stycznia 2006 r. w sprawie szczegółowego trybu i sposobu działania Rzecznika Praw Pacjenta Szpitala Psychiatrycznego (Dz. U. poz. 126 oraz z 2010 r. poz. 552) wprowadza się następujące zmiany:
+
+- **1)** § 2 otrzymuje brzmienie: „§ 2. Rzecznik wykonuje czynności, o których mowa w § 1, w oddziałach psychiatrycznych w szpitalach ogólnych, klinikach psychiatrycznych, sanatoriach dla osób z zaburzeniami psychicznymi i innych zakładach leczniczych sprawujących całodobową opiekę psychiatryczną lub odwykową, przy czym swoim działaniem obejmuje obszar terytorialny nie większy niż trzy sąsiadujące ze sobą województwa, w zależności od rozmieszczenia tych zakładów.”;
+- **2)** w § 7 ust. 1 otrzymuje brzmienie: „1. Rzecznik umieszcza na tablicach informacyjnych w oddziałach psychiatrycznych w szpitalach ogólnych, klinikach psychiatrycznych, sanatoriach dla osób z zaburzeniami psychicznymi i innych zakładach leczniczych sprawujących całodobową opiekę psychiatryczną lub odwykową informację o możliwości korzystania z pomocy Rzecznika przez pacjenta, jego przedstawiciela ustawowego, opiekuna prawnego lub osobę sprawującą faktyczną opiekę nad pacjentem.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: Ł. Szumowski
 

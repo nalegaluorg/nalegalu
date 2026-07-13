@@ -30,9 +30,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 14 lutego 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej (Dz. U. poz. 385), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Środowiska: H. Kowalczyk
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 1614, 2244 i 2340 oraz z 2019 r. poz. 1696 i 1815) zarządza się, co następuje:
-§ 1. Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
-STATUT MAGURSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W KREMPNEJ
+
+**§ 1.** Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia . STATUT MAGURSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W KREMPNEJ
+
+## Załącznik
+
 § 1. Magurski Park Narodowy z siedzibą w Krempnej, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 1614, 2244 i 2340 oraz z 2019 r. poz. 1696 i 1815) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1) Dział Monitoringu, Udostępniania Parku, Edukacji i Natury 2000, w którego skład wchodzą:

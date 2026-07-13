@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowych wymagań w stosunku do stacji przeprowadzających badania techniczne pojazdów Na podstawie art. 84a ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r.
 poz. 1251) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Transportu i Budownictwa z dnia 10 lutego 2006 r. w sprawie szczegółowych wymagań w stosunku do stacji przeprowadzających badania techniczne pojazdów (Dz. U. poz. 275) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. W przypadku stacji kontroli pojazdów przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej do 3,5 t oraz przyczep przeznaczonych do łączenia z tymi pojazdami stanowisko zewnętrzne może być wykorzystywane do przeprowadzania badań technicznych pojazdów, o których mowa w art. 81 ust. 12b ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, jeżeli stanowisko zewnętrzne spełnia wymagania, o których mowa w § 17 ust. 2 pkt 2.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury: D. Klimczak
+
+**§ 1.** W rozporządzeniu Ministra Transportu i Budownictwa z dnia 10 lutego 2006 r. w sprawie szczegółowych wymagań w stosunku do stacji przeprowadzających badania techniczne pojazdów (Dz. U. poz. 275) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. W przypadku stacji kontroli pojazdów przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej do 3,5 t oraz przyczep przeznaczonych do łączenia z tymi pojazdami stanowisko zewnętrzne może być wykorzystywane do przeprowadzania badań technicznych pojazdów, o których mowa w art. 81 ust. 12b ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, jeżeli stanowisko zewnętrzne spełnia wymagania, o których mowa w § 17 ust. 2 pkt 2.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury: D. Klimczak
 

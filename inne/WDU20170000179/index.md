@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/179/text.pdf) |
 
 zmieniające rozporządzenie w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy Na podstawie art. 171a § 5 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2015 r. poz. 613, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 1 marca 2012 r. w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 245) w § 1 w pkt 11 skreśla się przecinek i uchyla się pkt 12 i 13.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 1 marca 2012 r. w sprawie rodzajów spraw, w których jest wyłączony obowiązek prowadzenia metryki sprawy (Dz. U. poz. 245) w § 1 w pkt 11 skreśla się przecinek i uchyla się pkt 12 i 13.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. Minister Rozwoju i Finansów: wz. W. Janczyk
 

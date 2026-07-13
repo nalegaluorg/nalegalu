@@ -26,10 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001511) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1511/text.pdf) |
 
 zmieniające rozporządzenie w sprawie określenia obszarów objętych nakazami, zakazami lub ograniczeniami oraz innymi środkami kontroli lub ochronnymi ustanowionymi w związku z wystąpieniem afrykańskiego pomoru świń, na których są położone gospodarstwa rolne, w których są utrzymywane świnie Na podstawie art. 1 ust. 2 ustawy z dnia 5 września 2016 r. o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 988 i 2020) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 2 listopada 2018 r. w sprawie określenia obszarów objętych nakazami, zakazami lub ograniczeniami oraz innymi środkami kontroli lub ochronnymi ustanowionymi w związku z wystąpieniem afrykańskiego pomoru świń, na których są położone gospodarstwa rolne, w których są utrzymywane świnie (Dz. U. poz. 2125, z 2019 r. poz. 1766 oraz z 2020 r. poz. 2373) wprowadza się następujące zmiany:
-1) § 2 otrzymuje brzmienie: „§ 2. Obszarami, o których mowa w § 1, są obszary Rzeczypospolitej Polskiej wymienione w części III załącznika I do rozporządzenia wykonawczego Komisji (UE) 2021/605 z dnia 7 kwietnia 2021 r. ustanawiającego szczególne środki zwalczania afrykańskiego pomoru świń (Dz. Urz. UE L 129 z 15.04.2021, str. 1, z późn. zm. ).”;
-2) uchyla się załącznik do rozporządzenia.
-§ 2. Do postępowań o udzielenie zamówień na dostawy mięsa lub produktów mięsnych, o których mowa w art. 1 ust. 1 ustawy z dnia 5 września 2016 r. o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. S. Giżyński
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 2 listopada 2018 r. w sprawie określenia obszarów objętych nakazami, zakazami lub ograniczeniami oraz innymi środkami kontroli lub ochronnymi ustanowionymi w związku z wystąpieniem afrykańskiego pomoru świń, na których są położone gospodarstwa rolne, w których są utrzymywane świnie (Dz. U. poz. 2125, z 2019 r. poz. 1766 oraz z 2020 r. poz. 2373) wprowadza się następujące zmiany:
+
+- **1)** § 2 otrzymuje brzmienie: „§ 2. Obszarami, o których mowa w § 1, są obszary Rzeczypospolitej Polskiej wymienione w części III załącznika I do rozporządzenia wykonawczego Komisji (UE) 2021/605 z dnia 7 kwietnia 2021 r. ustanawiającego szczególne środki zwalczania afrykańskiego pomoru świń (Dz. Urz. UE L 129 z 15.04.2021, str. 1, z późn. zm. ).”;
+- **2)** uchyla się załącznik do rozporządzenia.
+
+**§ 2.** Do postępowań o udzielenie zamówień na dostawy mięsa lub produktów mięsnych, o których mowa w art. 1 ust. 1 ustawy z dnia 5 września 2016 r. o szczególnych rozwiązaniach związanych z wystąpieniem afrykańskiego pomoru świń na terytorium Rzeczypospolitej Polskiej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. S. Giżyński
 

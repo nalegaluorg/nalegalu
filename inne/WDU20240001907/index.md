@@ -2381,7 +2381,12 @@ source: pdf
     - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) likwidację lub ograniczenie zagrożeń występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia;”,
     - **b)** w ust. 2: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółową organizację krajowego systemu ratowniczo-gaśniczego w zakresie:”, – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) szczegółowego sposobu sporządzania powiatowych i wojewódzkich planów ratowniczych oraz przeprowadzania analiz zagrożeń oraz analiz zabezpieczenia operacyjnego,”, – pkt 2 otrzymuje brzmienie: „2) likwidacji lub ograniczenia zagrożeń występujących z powodu powstania pożaru, wystąpienia klęski żywiołowej lub innego miejscowego zagrożenia,”;
 
-- **3)** dodaje się art. 14fa w brzmieniu: „Art. 14fa. 1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”, zatwierdzane przez:
+- **3)** dodaje się art. 14fa w brzmieniu:
+
+  > „Art. 14fa.  
+  > 1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”,  
+
+  zatwierdzane przez:
 - **1)** starostę (prezydenta miasta na prawach powiatu) – dla obszaru powiatu, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
 - **2)** starostę i prezydenta miasta na prawach powiatu – wspólne dla obszaru miasta na prawach powiatu i powiatu mającego siedzibę władz w tym mieście, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
 - **3)** wojewodę – dla obszaru województwa, po zasięgnięciu opinii Komendanta Głównego Państwowej Straży Pożarnej.

@@ -35,6 +35,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkoln
 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 25 września 2018 r.
 w sprawie wysokości minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej Na podstawie art. 137 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r.
 poz. 742, z późn. zm. ) zarządza się, co następuje:
-§ 1. Wysokość minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej wynosi 9370 zł.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
+
+**§ 1.** Wysokość minimalnego miesięcznego wynagrodzenia zasadniczego dla profesora w uczelni publicznej wynosi 9370 zł.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
 

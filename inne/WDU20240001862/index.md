@@ -26,13 +26,21 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001862) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1862/text.pdf) |
 
 w sprawie planu numeracji krajowej dla publicznych sieci telekomunikacyjnych Na podstawie art. 162 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221) zarządza się, co następuje:
-§ 1. 1. Ustala się plan numeracji krajowej dla publicznych sieci telekomunikacyjnych, który określa załącznik do rozporządzenia.
+
+**§ 1.**
+
+1. Ustala się plan numeracji krajowej dla publicznych sieci telekomunikacyjnych, który określa załącznik do rozporządzenia.
+
 2. Plan, o którym mowa w ust. 1, ustala się w zakresie:
-1) formatów numerów oraz schematów ich wybierania;
-2) wskaźników strefy numeracyjnej oraz ich przyporządkowania do obszaru;
-3) wyróżników sieci i usług telekomunikacyjnych oraz ich wykorzystania w numeracji krajowej.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem § 11 i § 13 załącznika do rozporządzenia, które wchodzą w życie z dniem 1 stycznia 2029 r.
-Minister Cyfryzacji: K. Gawkowski PLAN NUMERACJI KRAJOWEJ DLA PUBLICZNYCH SIECI TELEKOMUNIKACYJNYCH
+
+- **1)** formatów numerów oraz schematów ich wybierania;
+- **2)** wskaźników strefy numeracyjnej oraz ich przyporządkowania do obszaru;
+- **3)** wyróżników sieci i usług telekomunikacyjnych oraz ich wykorzystania w numeracji krajowej.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem § 11 i § 13 załącznika do rozporządzenia, które wchodzą w życie z dniem 1 stycznia 2029 r. Minister Cyfryzacji: K. Gawkowski PLAN NUMERACJI KRAJOWEJ DLA PUBLICZNYCH SIECI TELEKOMUNIKACYJNYCH
+
+## Załącznik
+
 § 1. Plan numeracji krajowej określa definicje oraz sposób korzystania z krajowych zasobów numeracji stosowanych dla publicznych sieci telekomunikacyjnych na obszarze Rzeczypospolitej Polskiej.
 § 2. 1. Określenia charakteryzujące numerację:
 1) prefiks międzynarodowy są to cyfry „00”, wybierane przed numerem międzynarodowym, o którym mowa w pkt 6;

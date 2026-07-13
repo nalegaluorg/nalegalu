@@ -27,9 +27,15 @@ source: pdf
 
 w sprawie nadania statutu Biuru do spraw Substancji Chemicznych Na podstawie art. 13 ust. 2 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U.
 z 2020 r. poz. 2289) zarządza się, co następuje:
-§ 1. Biuru do spraw Substancji Chemicznych nadaje się statut określający szczegółowe zadania Prezesa Biura do spraw Substancji Chemicznych, organizację Biura do spraw Substancji Chemicznych oraz zasady współpracy Prezesa Biura do spraw Substancji Chemicznych z Komisją Europejską oraz Organizacją Współpracy Gospodarczej i Rozwoju (OECD) w zakresie Dobrej Praktyki Laboratoryjnej, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski STATUT BIURA DO SPRAW SUBSTANCJI CHEMICZNYCH
+
+**§ 1.** Biuru do spraw Substancji Chemicznych nadaje się statut określający szczegółowe zadania Prezesa Biura do spraw Substancji Chemicznych, organizację Biura do spraw Substancji Chemicznych oraz zasady współpracy Prezesa Biura do spraw Substancji Chemicznych z Komisją Europejską oraz Organizacją Współpracy Gospodarczej i Rozwoju (OECD) w zakresie Dobrej Praktyki Laboratoryjnej, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski STATUT BIURA DO SPRAW SUBSTANCJI CHEMICZNYCH
+
+#### Rozdział 1 Szczegółowe zadania Prezesa Biura do spraw Substancji Chemicznych
+
+## Załącznik
+
 § 1. Do zadań Prezesa Biura do spraw Substancji Chemicznych, zwanego dalej „Prezesem Biura”, należy, w zakresie:
 1) gromadzenia danych dotyczących mieszanin stwarzających zagrożenie – utworzenie rejestru mieszanin stwarzających zagrożenie;
 2) udostępniania danych dotyczących mieszanin stwarzających zagrożenie służbom medycznym i ratowniczym – udostępnianie ośrodkom informacji toksykologicznej wskazanym przez ministra właściwego do spraw zdrowia informacji otrzymanych na podstawie art. 45 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz.
@@ -75,6 +81,7 @@ b) wykonywanie, w zakresie właściwości, zadań wynikających z Konwencji Szto
 2) zatrudnienie w Biurze odpowiedniej liczby pracowników, którzy mogą zostać wyznaczeni przez Prezesa Biura jako inspektorzy Dobrej Praktyki Laboratoryjnej do przeprowadzania kontroli i weryfikacji spełniania przez jednostki badawcze zasad Dobrej Praktyki Laboratoryjnej, posiadających odpowiednie kwalifikacje i doświadczenie praktyczne w zakresie dziedzin nauki istotnych dla przeprowadzania badań właściwości fizykochemicznych, toksyczności i ekotoksyczności substancji i ich mieszanin;
 3) możliwość dokonania oceny Biura jako jednostki uprawnionej do kontroli spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostki właściwe do kontroli spełnienia zasad Dobrej Praktyki Laboratoryjnej w innych państwach OECD, zgodnie z programem kontroli takich jednostek określonym przez Sekretariat OECD.
 § 4. Prezes Biura przedstawia corocznie ministrowi właściwemu do spraw zdrowia, nie później niż do końca lutego roku następnego, sprawozdanie ze swojej działalności.
+Rozdział 2 Organizacja Biura do spraw Substancji Chemicznych
 § 5. Biurem kieruje Prezes Biura przy pomocy dyrektora generalnego i osób kierujących komórkami organizacyjnymi, o których mowa w § 6 ust. 1 pkt 1–5.
 § 6. 1. W skład Biura wchodzą następujące komórki organizacyjne, wieloosobowe stanowisko pracy i samodzielne stanowiska pracy:
 1) Departament do spraw Dobrej Praktyki Laboratoryjnej;
@@ -87,8 +94,4 @@ b) wykonywanie, w zakresie właściwości, zadań wynikających z Konwencji Szto
 8) Inspektor Ochrony Danych.
 2. Komórkami organizacyjnymi, o których mowa w ust. 1 pkt 1–5, kierują dyrektorzy.
 3. Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych, wieloosobowego stanowiska pracy i samodzielnych stanowisk pracy, o których mowa w ust. 1, określa regulamin organizacyjny Biura.
-
-#### Rozdział 1 Szczegółowe zadania Prezesa Biura do spraw Substancji Chemicznych
-
-#### Rozdział 2 Organizacja Biura do spraw Substancji Chemicznych
 

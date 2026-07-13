@@ -29,7 +29,11 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 1837 oraz z 2025 r. poz. 769 i 1064) wprowadza się następujące zmiany:
 
-- **1)** po art. 4b dodaje się art. 4c w brzmieniu: „Art. 4c. 1. Terminy określone w art. 4a ust. 1 pkt 1 i ust. 2 oraz art. 4b ust. 1 pkt 1 przywraca się na wniosek podatnika, jeżeli uprawdopodobni, że uchybienie terminu nastąpiło bez jego winy. Do przywrócenia terminu stosuje się odpowiednio przepisy art. 162 § 2 i 3 oraz art. 163 § 1 i 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ). 2. W przypadku przywrócenia terminu do złożenia zgłoszenia, o którym mowa w art. 4a ust. 1 pkt 1 i ust. 2 oraz art. 4b ust. 1 pkt 1, w wyniku wniesienia do sądu administracyjnego skargi na postanowienie o odmowie przywrócenia terminu, organ podatkowy uchyla decyzję w sprawie podatku od spadków i darowizn, o ile ją wydał, oraz umarza postępowanie podatkowe.”;
+- **1)** po art. 4b dodaje się art. 4c w brzmieniu:
+
+  > „Art. 4c.  
+  > 1. Terminy określone w art. 4a ust. 1 pkt 1 i ust. 2 oraz art. 4b ust. 1 pkt 1 przywraca się na wniosek podatnika, jeżeli uprawdopodobni, że uchybienie terminu nastąpiło bez jego winy. Do przywrócenia terminu stosuje się odpowiednio przepisy art. 162 § 2 i 3 oraz art. 163 § 1 i 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).  
+  > 2. W przypadku przywrócenia terminu do złożenia zgłoszenia, o którym mowa w art. 4a ust. 1 pkt 1 i ust. 2 oraz art. 4b ust. 1 pkt 1, w wyniku wniesienia do sądu administracyjnego skargi na postanowienie o odmowie przywrócenia terminu, organ podatkowy uchyla decyzję w sprawie podatku od spadków i darowizn, o ile ją wydał, oraz umarza postępowanie podatkowe.”;  
 - **2)** w art. 6:
     - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) przy nabyciu w drodze dziedziczenia – z chwilą uprawomocnienia się orzeczenia sądu stwierdzającego nabycie spadku, zarejestrowania aktu poświadczenia dziedziczenia lub wydania europejskiego poświadczenia spadkowego;”,
     - **b)** po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Jeżeli stwierdzenie nabycia spadku jest dokonywane przez inny niż sąd organ państwa obcego, za zarejestrowanie aktu poświadczenia dziedziczenia w rozumieniu ustawy uważa się również wydanie dokumentu stwierdzającego nabycie spadku przez ten organ.”;

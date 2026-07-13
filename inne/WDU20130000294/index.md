@@ -27,9 +27,13 @@ source: pdf
 
 w sprawie nadania statutu Poleskiemu Parkowi Narodowemu z siedzibą w Urszulinie Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. Poleskiemu Parkowi Narodowemu z siedzibą w Urszulinie nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Środowiska: M. Korolec STATUT POLESKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W URSZULINIE
+
+**§ 1.** Poleskiemu Parkowi Narodowemu z siedzibą w Urszulinie nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. Minister Środowiska: M. Korolec STATUT POLESKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W URSZULINIE
+
+## Załącznik
+
 § 1. Poleski Park Narodowy z siedzibą w Urszulinie, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne:
 1) Zespół do spraw Edukacji i Udostępniania Parku;

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie klasyfikacji zawodów szkolnictwa artystycznego Na podstawie art. 46a ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 8 kwietnia 2019 r. w sprawie klasyfikacji zawodów szkolnictwa artystycznego (Dz. U. poz. 717) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński …… M W W W M
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 8 kwietnia 2019 r. w sprawie klasyfikacji zawodów szkolnictwa artystycznego (Dz. U. poz. 717) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński …… M W W W M
 

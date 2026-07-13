@@ -27,18 +27,21 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane Na podstawie art. 99 ust. 6 w związku z art. 94 ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r.
 poz. 1970) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 1 sierpnia 2018 r. w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane (Dz. U. z 2021 r. poz. 130) wprowadza się następujące zmiany:
-1) w § 2:
-a) w pkt 9 wyrazy „Europejską Agencję Bezpieczeństwa Lotniczego” zastępuje się wyrazami „Agencję Unii Europejskiej ds. Bezpieczeństwa Lotniczego”,
-b) pkt 15 otrzymuje brzmienie: „15) organizacji szkolenia lotniczego – rozumie się przez to organizację lub ośrodek szkolenia lotniczego, posiadające odpowiedni certyfikat, o którym mowa w § 5 pkt 2–5 i 7 rozporządzenia Ministra Infrastruktury z dnia 30 września 2020 r. w sprawie certyfikacji działalności w lotnictwie cywilnym (Dz. U. poz. 1694);”;
-2) w § 6 w pkt 4 wyraz „złożeniem” zastępuje się wyrazem „złożenia”;
-3) w § 14 w pkt 2 wyraz „uprawniania” zastępuje się wyrazem „uprawnienia”;
-4) w § 26 w pkt 11 wyraz „wypełniania” zastępuje się wyrazem „wypełnia”;
-5) w § 44 w ust. 1 w pkt 2 wyrazy „rozporządzenia 1321/2014” zastępuje się wyrazami „rozporządzenia nr 1321/2014”;
-6) w § 57 w pkt 1 wyrazy „o których w załączniku VI” zastępuje się wyrazami „o których mowa w załączniku VI”;
-7) w § 76 w pkt 1 wyraz „egzaminie” zastępuje się wyrazem „egzaminem”;
-8) w § 77 wyraz „kontunuowania” zastępuje się wyrazem „kontynuowania”;
-9) w § 86 wyraz „stosowanie” zastępuje się wyrazem „stosownie”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 1 sierpnia 2018 r. w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane (Dz. U. z 2021 r. poz. 130) wprowadza się następujące zmiany:
+
+- **1)** w § 2:
+    - **a)** w pkt 9 wyrazy „Europejską Agencję Bezpieczeństwa Lotniczego” zastępuje się wyrazami „Agencję Unii Europejskiej ds. Bezpieczeństwa Lotniczego”,
+    - **b)** pkt 15 otrzymuje brzmienie: „15) organizacji szkolenia lotniczego – rozumie się przez to organizację lub ośrodek szkolenia lotniczego, posiadające odpowiedni certyfikat, o którym mowa w § 5 pkt 2–5 i 7 rozporządzenia Ministra Infrastruktury z dnia 30 września 2020 r. w sprawie certyfikacji działalności w lotnictwie cywilnym (Dz. U. poz. 1694);”;
+
+- **2)** w § 6 w pkt 4 wyraz „złożeniem” zastępuje się wyrazem „złożenia”;
+- **3)** w § 14 w pkt 2 wyraz „uprawniania” zastępuje się wyrazem „uprawnienia”;
+- **4)** w § 26 w pkt 11 wyraz „wypełniania” zastępuje się wyrazem „wypełnia”;
+- **5)** w § 44 w ust. 1 w pkt 2 wyrazy „rozporządzenia 1321/2014” zastępuje się wyrazami „rozporządzenia nr 1321/2014”;
+- **6)** w § 57 w pkt 1 wyrazy „o których w załączniku VI” zastępuje się wyrazami „o których mowa w załączniku VI”;
+- **7)** w § 76 w pkt 1 wyraz „egzaminie” zastępuje się wyrazem „egzaminem”;
+- **8)** w § 77 wyraz „kontunuowania” zastępuje się wyrazem „kontynuowania”;
+- **9)** w § 86 wyraz „stosowanie” zastępuje się wyrazem „stosownie”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury: A. Adamczyk
 

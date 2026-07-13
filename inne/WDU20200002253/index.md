@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002253) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2253/text.pdf) |
 
 zmieniające rozporządzenie w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach celu tematycznego 3 w zakresie wzmacniania konkurencyjności mikroprzedsiębiorców, małych i średnich przedsiębiorców w ramach regionalnych programów operacyjnych na lata 2014–2020 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 3 września 2015 r. w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach celu tematycznego 3 w zakresie wzmacniania konkurencyjności mikroprzedsiębiorców, małych i średnich przedsiębiorców w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. z 2018 r.
-poz. 1623) w § 10 w ust. 2 pkt 6 otrzymuje brzmienie: „6) 7,5 mln euro – dla inwestycji realizowanych na obszarze należącym do miasta stołecznego Warszawy w okresie od dnia 1 stycznia 2018 r. do dnia 31 grudnia 2021 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 3 września 2015 r. w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach celu tematycznego 3 w zakresie wzmacniania konkurencyjności mikroprzedsiębiorców, małych i średnich przedsiębiorców w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. z 2018 r. poz. 1623) w § 10 w ust. 2 pkt 6 otrzymuje brzmienie: „6) 7,5 mln euro – dla inwestycji realizowanych na obszarze należącym do miasta stołecznego Warszawy w okresie od dnia 1 stycznia 2018 r. do dnia 31 grudnia 2021 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

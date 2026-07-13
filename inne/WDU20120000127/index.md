@@ -26,16 +26,20 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000127) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/127/text.pdf) |
 
 w sprawie utworzenia wydziałów zamiejscowych okręgowych urzędów probierczych Na podstawie art. 33 ust. 2 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. Nr 92, poz. 529) zarządza się, co następuje:
-§ 1. Tworzy się następujące wydziały zamiejscowe Okręgowego Urzędu Probierczego w Warszawie:
-1) wydział zamiejscowy w Gdańsku;
-2) wydział zamiejscowy w Bydgoszczy;
-3) wydział zamiejscowy w Białymstoku;
-4) wydział zamiejscowy w Łodzi.
-§ 2. Tworzy się następujące wydziały zamiejscowe Okręgowego Urzędu Probierczego w Krakowie:
-1) wydział zamiejscowy w Poznaniu;
-2) wydział zamiejscowy we Wrocławiu;
-3) wydział zamiejscowy w Chorzowie;
-4) wydział zamiejscowy w Częstochowie.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Gospodarki: wz. M. Kasprzak
+
+**§ 1.** Tworzy się następujące wydziały zamiejscowe Okręgowego Urzędu Probierczego w Warszawie:
+
+- **1)** wydział zamiejscowy w Gdańsku;
+- **2)** wydział zamiejscowy w Bydgoszczy;
+- **3)** wydział zamiejscowy w Białymstoku;
+- **4)** wydział zamiejscowy w Łodzi.
+
+**§ 2.** Tworzy się następujące wydziały zamiejscowe Okręgowego Urzędu Probierczego w Krakowie:
+
+- **1)** wydział zamiejscowy w Poznaniu;
+- **2)** wydział zamiejscowy we Wrocławiu;
+- **3)** wydział zamiejscowy w Chorzowie;
+- **4)** wydział zamiejscowy w Częstochowie.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Gospodarki: wz. M. Kasprzak
 

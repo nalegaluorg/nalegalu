@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie wyznaczenia organu do prowadzenia systemu teleinformatycznego przeznaczonego do przekazywania naczelnikowi urzędu skarbowego wniosków egzekucyjnych i tytułów wykonawczych lub wymaganych informacji Na podstawie art. 26aa § 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
 z 2019 r. poz. 1438, z późn. zm. ) zarządza się, co następuje:
-§ 1. Wyznacza się Dyrektora Izby Administracji Skarbowej w Szczecinie do prowadzenia systemu teleinformatycznego, przy wykorzystaniu którego przekazuje się do organu egzekucyjnego będącego naczelnikiem urzędu skarbowego wnioski egzekucyjne, tytuły wykonawcze lub informacje, o których mowa w art. 26 § 1e ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
-§ 2. Rozporządzenie wchodzi w życie z dniem 30 lipca 2020 r.
-Minister Finansów: T. Kościński
+
+**§ 1.** Wyznacza się Dyrektora Izby Administracji Skarbowej w Szczecinie do prowadzenia systemu teleinformatycznego, przy wykorzystaniu którego przekazuje się do organu egzekucyjnego będącego naczelnikiem urzędu skarbowego wnioski egzekucyjne, tytuły wykonawcze lub informacje, o których mowa w art. 26 § 1e ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 lipca 2020 r. Minister Finansów: T. Kościński
 

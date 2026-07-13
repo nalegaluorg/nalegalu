@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002358) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2358/text.pdf) |
 
 zmieniające rozporządzenie w sprawie udzielania regionalnej pomocy inwestycyjnej dla mikroprzedsiębiorców, małych i średnich przedsiębiorców na inwestycje w zakresie budownictwa okrętowego w ramach regionalnych programów operacyjnych na lata 2014–2020 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Inwestycji i Rozwoju z dnia 22 lutego 2018 r. w sprawie udzielania regionalnej pomocy inwestycyjnej dla mikroprzedsiębiorców, małych i średnich przedsiębiorców na inwestycje w zakresie budownictwa okrętowego w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 494) § 16 otrzymuje brzmienie: „§ 16. Pomoc jest udzielana do dnia 31 grudnia 2021 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Inwestycji i Rozwoju z dnia 22 lutego 2018 r. w sprawie udzielania regionalnej pomocy inwestycyjnej dla mikroprzedsiębiorców, małych i średnich przedsiębiorców na inwestycje w zakresie budownictwa okrętowego w ramach regionalnych programów operacyjnych na lata 2014–2020 (Dz. U. poz. 494) § 16 otrzymuje brzmienie: „§ 16. Pomoc jest udzielana do dnia 31 grudnia 2021 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

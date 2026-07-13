@@ -30,10 +30,14 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Kultury i Dzie
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 11 lutego 2019 r. zmieniającego rozporządzenie w sprawie wzoru zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej i wzoru zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną (Dz. U. poz. 305), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 14 października 2015 r.
 w sprawie wzoru zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej i wzoru zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną Na podstawie art. 31c ust. 2 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2019 r. poz. 917 i 1726) zarządza się, co następuje:
-§ 1. 1. Wzór zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną określa załącznik nr 1 do rozporządzenia.
+
+**§ 1.**
+
+1. Wzór zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną określa załącznik nr 1 do rozporządzenia.
+
 2. Wzór zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną określa załącznik nr 2 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r.
-i Dziedzictwa Narodowego z dnia 14 października Załączniki 2015 do rozporządzenia r. Ministra Kultury i Dziedzictwa Narodowego z dnia 14 października 2015 r.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r. i Dziedzictwa Narodowego z dnia 14 października Załączniki 2015 do rozporządzenia r. Ministra Kultury i Dziedzictwa Narodowego z dnia 14 października 2015 r.
 
 ## Załącznik nr 1 — Załącznik nr 1 WZÓR WZÓR WZÓR ……………………………………………… ……………………………………………… ……………………………………………… ……………………………………………… ……………………………………………… ……………………………………………… ………………………………………, dnia …………………………………… r.
 

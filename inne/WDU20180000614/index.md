@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie postępowania o nadanie Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” Na podstawie art. 17 ust. 3 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
 poz. 1203, z 2017 r. poz. 60 oraz z 2018 r. poz. 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 5 lutego 2013 r. w sprawie postępowania o nadanie Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” (Dz. U. z 2017 r. poz. 1526) w § 3 w ust. 1 pkt 3 otrzymuje brzmienie: „3) Komendant Służby Ochrony Państwa;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 5 lutego 2013 r. w sprawie postępowania o nadanie Odznaki Honorowej „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej” (Dz. U. z 2017 r. poz. 1526) w § 3 w ust. 1 pkt 3 otrzymuje brzmienie: „3) Komendant Służby Ochrony Państwa;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
 

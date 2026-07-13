@@ -35,15 +35,20 @@ poz. 1186);
 2) § 2 i § 3 rozporządzenia Ministra Finansów z dnia 28 czerwca 2022 r. zmieniającego rozporządzenie w sprawie wzorów dokumentów związanych z rejestracją w zakresie podatku od towarów i usług (Dz. U. poz. 1437), które stanowią: „ § 2. Do dnia 31 grudnia 2022 r. może być stosowany wzór określony w załączniku nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszego rozporządzenia. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: M. Rzeczkowska Załącznik do obwieszczenia Ministra Finansów z dnia 24 listopada 2022 r. (Dz. U. z 2023 r. poz. 55)
 ROZPORZĄDZENIE MINISTRA FINANSÓW 1) z dnia 9 marca 2020 r.
 w sprawie wzorów dokumentów związanych z rejestracją w zakresie podatku od towarów i usług Na podstawie art. 98 ust. 1 pkt 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm. 2) ) zarządza się, co następuje:
-§ 1. Określa się wzór:
-1) zgłoszenia rejestracyjnego w zakresie podatku od towarów i usług, stanowiący załącznik nr 1 do rozporządzenia;
-2) potwierdzenia zarejestrowania podmiotu jako podatnika VAT, stanowiący załącznik nr 2 do rozporządzenia;
-3) potwierdzenia zarejestrowania podmiotu jako podatnika VAT UE, stanowiący załącznik nr 3 do rozporządzenia;
-4) zgłoszenia o zaprzestaniu wykonywania czynności podlegających opodatkowaniu podatkiem od towarów i usług, stanowiący załącznik nr 4 do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Rozwoju i Finansów z dnia 27 grudnia 2016 r. w sprawie wzorów dokumentów związanych z rejestracją podatników w zakresie podatku od towarów i usług (Dz. U. poz. 2301).
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r.
-1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
-2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561, 2180 i 2707.
+
+**§ 1.** Określa się wzór:
+
+- **1)** zgłoszenia rejestracyjnego w zakresie podatku od towarów i usług, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** potwierdzenia zarejestrowania podmiotu jako podatnika VAT, stanowiący załącznik nr 2 do rozporządzenia;
+- **3)** potwierdzenia zarejestrowania podmiotu jako podatnika VAT UE, stanowiący załącznik nr 3 do rozporządzenia;
+- **4)** zgłoszenia o zaprzestaniu wykonywania czynności podlegających opodatkowaniu podatkiem od towarów i usług, stanowiący załącznik nr 4 do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Rozwoju i Finansów z dnia 27 grudnia 2016 r. w sprawie wzorów dokumentów związanych z rejestracją podatników w zakresie podatku od towarów i usług (Dz. U. poz. 2301).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r.
+
+- **1)** Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+- **2)** Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 974, 1137, 1301, 1488, 1561, 2180 i 2707.
 
 ## Załącznik nr 1 — VAT-R ZGŁOSZENIE REJESTRACYJNE W ZAKRESIE PODATKU OD TOWARÓW I USŁUG [VALUE ADDED TAX REGISTRATION APPLICATION] Podstawa prawna: Art. 96 i art. 97 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, z późn. zm.), zwanej dalej „ustawą”.
 

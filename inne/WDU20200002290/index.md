@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie przekazywania informacji na temat aktualnej ilości wód balastowych oraz przeprowadzonych operacji balastowych na statku Na podstawie art. 20f ust. 3 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U.
 z 2020 r. poz. 1955) zarządza się, co następuje:
-§ 1. Określa się wzór formularza dotyczącego przekazywania przed zawinięciem do portu znajdującego się na terytorium Rzeczypospolitej Polskiej informacji na temat aktualnej ilości wód balastowych na statku oraz przeprowadzonych operacji balastowych na statku, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
-Minister Infrastruktury: A. Adamczyk m … … W M ………… m W ………… …………… W m …………… ………… W m m ……………………………………………………………………………………………… … … …………………………………… …… … … ………………………………………………………………… …………… … … ………………………………… … … W … ………… W ……… …………………………………………………… ……………… ………………………………………………… ………………………… …… W W W W W
+
+**§ 1.** Określa się wzór formularza dotyczącego przekazywania przed zawinięciem do portu znajdującego się na terytorium Rzeczypospolitej Polskiej informacji na temat aktualnej ilości wód balastowych na statku oraz przeprowadzonych operacji balastowych na statku, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Minister Infrastruktury: A. Adamczyk m … … W M ………… m W ………… …………… W m …………… ………… W m m ……………………………………………………………………………………………… … … …………………………………… …… … … ………………………………………………………………… …………… … … ………………………………… … … W … ………… W ……… …………………………………………………… ……………… ………………………………………………… ………………………… …… W W W W W
 

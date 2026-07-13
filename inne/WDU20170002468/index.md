@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002468) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2468/text.pdf) |
 
 zmieniające rozporządzenie w sprawie lokali obwodowych komisji wyborczych dostosowanych do potrzeb wyborców niepełnosprawnych Na podstawie art. 186 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2017 r. poz. 15 i 1089) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 29 lipca 2011 r. w sprawie lokali obwodowych komisji wyborczych dostosowanych do potrzeb wyborców niepełnosprawnych (Dz. U. poz. 938) w § 2 w ust. 2 pkt 2 i 3 otrzymują brzmienie: „2) mieć szerokość w świetle co najmniej 0,9 m, a gdy są to drzwi dwuskrzydłowe szerokość skrzydła głównego nie może być mniejsza niż 0,9 m;
-3) nie mogą mieć progu wyższego niż 0,02 m.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury i Budownictwa: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 29 lipca 2011 r. w sprawie lokali obwodowych komisji wyborczych dostosowanych do potrzeb wyborców niepełnosprawnych (Dz. U. poz. 938) w § 2 w ust. 2 pkt 2 i 3 otrzymują brzmienie: „2) mieć szerokość w świetle co najmniej 0,9 m, a gdy są to drzwi dwuskrzydłowe szerokość skrzydła głównego nie może być mniejsza niż 0,9 m; 3) nie mogą mieć progu wyższego niż 0,02 m.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Infrastruktury i Budownictwa: A. Adamczyk
 

@@ -26,9 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000987) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/987/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków produkcji i sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych Na podstawie art. 75c pkt 1 i 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r. poz. 1047, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 2 maja 2012 r. w sprawie warunków produkcji i sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych (Dz. U. z 2022 r. poz. 1885 oraz z 2023 r.
-poz. 432) w załączniku nr 1 do rozporządzenia objaśnienie pod tabelą nr 3 otrzymuje brzmienie: „1) w lp. 5–11 i 28 kod rodzaju i odmiany podany w kolumnie 5 stosuje się dla tablicy z tłem białym; dla tablicy z tłem zielonym w lp. 5–11 i 28 stosuje się kod rodzaju i odmiany utworzony przez dodanie litery „d” do kodu stosowanego dla tablicy z tłem białym;
-2) w lp. 15, 16 i 29 kod rodzaju i odmiany podany w kolumnie 5 stosuje się dla tablicy z tłem białym; dla tablicy z tłem żółtym w lp. 15, 16 i 29 stosuje się kod rodzaju i odmiany utworzony przez dodanie litery „c” do kodu stosowanego dla tablicy z tłem białym.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Infrastruktury: D. Klimczak
+
+**§ 1.** W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 2 maja 2012 r. w sprawie warunków produkcji i sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych (Dz. U. z 2022 r. poz. 1885 oraz z 2023 r. poz. 432) w załączniku nr 1 do rozporządzenia objaśnienie pod tabelą nr 3 otrzymuje brzmienie: „1) w lp. 5–11 i 28 kod rodzaju i odmiany podany w kolumnie 5 stosuje się dla tablicy z tłem białym; dla tablicy z tłem zielonym w lp. 5–11 i 28 stosuje się kod rodzaju i odmiany utworzony przez dodanie litery „d” do kodu stosowanego dla tablicy z tłem białym; 2) w lp. 15, 16 i 29 kod rodzaju i odmiany podany w kolumnie 5 stosuje się dla tablicy z tłem białym; dla tablicy z tłem żółtym w lp. 15, 16 i 29 stosuje się kod rodzaju i odmiany utworzony przez dodanie litery „c” do kodu stosowanego dla tablicy z tłem białym.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Infrastruktury: D. Klimczak
 

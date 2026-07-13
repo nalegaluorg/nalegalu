@@ -27,12 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zasad zapewnienia bezpłatnego zakwaterowania sędziom Sądu Najwyższego stale zamieszkałym poza Warszawą oraz wysokości i warunków wypłacania im zwrotu poniesionych kosztów przejazdu oraz dodatku za rozłąkę Na podstawie art. 53 § 3 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2021 r. poz. 1904 oraz z 2022 r.
 poz. 480 i 1259) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 30 kwietnia 2021 r. w sprawie zasad zapewnienia bezpłatnego zakwaterowania sędziom Sądu Najwyższego stale zamieszkałym poza Warszawą oraz wysokości i warunków wypłacania im zwrotu poniesionych kosztów przejazdu oraz dodatku za rozłąkę (Dz. U. poz. 830) w § 3:
-1) w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) zapewnienie uprawnionemu sędziemu Sądu Najwyższego lokalu mieszkalnego w Warszawie wynajętego w tym celu przez Sąd Najwyższy.”;
-2) ust. 3 otrzymuje brzmienie: „3. Zwrot kosztów najmu lokalu mieszkalnego poniesionych przez uprawnionego sędziego Sądu Najwyższego następuje do wysokości jednokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego.”;
-3) po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku najmu lokalu mieszkalnego i ponoszenia kosztów tego najmu wspólnie przez dwóch lub więcej uprawnionych sędziów Sądu Najwyższego zwrot kosztów najmu lokalu mieszkalnego, o którym mowa w ust. 3, ulega zwiększeniu o połowę przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego za każdego kolejnego uprawnionego sędziego Sądu Najwyższego wspólnie wynajmującego lokal mieszkalny i ponoszącego koszty jego najmu.”;
-4) w ust. 4 kropkę zastępuje się przecinkiem i dodaje się wyrazy „z uwzględnieniem ust. 5.”;
-5) dodaje się ust. 5 w brzmieniu: „5. W przypadku, o którym mowa w ust. 3a, zwrot kosztów najmu uprawnionym sędziom Sądu Najwyższego następuje w częściach równych, chyba że ze wspólnie złożonego oświadczenia wynika inny podział zwrotu części ponoszonych kosztów najmu.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 30 kwietnia 2021 r. w sprawie zasad zapewnienia bezpłatnego zakwaterowania sędziom Sądu Najwyższego stale zamieszkałym poza Warszawą oraz wysokości i warunków wypłacania im zwrotu poniesionych kosztów przejazdu oraz dodatku za rozłąkę (Dz. U. poz. 830) w § 3:
+
+- **1)** w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) zapewnienie uprawnionemu sędziemu Sądu Najwyższego lokalu mieszkalnego w Warszawie wynajętego w tym celu przez Sąd Najwyższy.”;
+- **2)** ust. 3 otrzymuje brzmienie: „3. Zwrot kosztów najmu lokalu mieszkalnego poniesionych przez uprawnionego sędziego Sądu Najwyższego następuje do wysokości jednokrotności przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego.”;
+- **3)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku najmu lokalu mieszkalnego i ponoszenia kosztów tego najmu wspólnie przez dwóch lub więcej uprawnionych sędziów Sądu Najwyższego zwrot kosztów najmu lokalu mieszkalnego, o którym mowa w ust. 3, ulega zwiększeniu o połowę przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w trzecim kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego za każdego kolejnego uprawnionego sędziego Sądu Najwyższego wspólnie wynajmującego lokal mieszkalny i ponoszącego koszty jego najmu.”;
+- **4)** w ust. 4 kropkę zastępuje się przecinkiem i dodaje się wyrazy „z uwzględnieniem ust. 5.”;
+- **5)** dodaje się ust. 5 w brzmieniu: „5. W przypadku, o którym mowa w ust. 3a, zwrot kosztów najmu uprawnionym sędziom Sądu Najwyższego następuje w częściach równych, chyba że ze wspólnie złożonego oświadczenia wynika inny podział zwrotu części ponoszonych kosztów najmu.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

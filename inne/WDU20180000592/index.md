@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej Na podstawie art. 400q ust. 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r.
 poz. 519, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 16 listopada 2010 r. w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 1479) w § 9 wyrazy „podmiot uprawniony do badania sprawozdania finansowego” zastępuje się wyrazami „firmę audytorską”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 16 listopada 2010 r. w sprawie gospodarki finansowej Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej i wojewódzkich funduszy ochrony środowiska i gospodarki wodnej (Dz. U. poz. 1479) w § 9 wyrazy „podmiot uprawniony do badania sprawozdania finansowego” zastępuje się wyrazami „firmę audytorską”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

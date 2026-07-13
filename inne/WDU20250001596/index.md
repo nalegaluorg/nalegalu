@@ -28,8 +28,10 @@ source: pdf
 
 w sprawie wysokości opłaty rocznej za aplikację notarialną Na podstawie art. 72a § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001 oraz z 2025 r.
 poz. 479) zarządza się, co następuje:
-§ 1. Opłata roczna za aplikację notarialną wynosi 6500 zł.
-§ 2. Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 14 grudnia 2020 r. w sprawie wysokości opłaty rocznej za aplikację notarialną (Dz. U. poz. 2269).
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** Opłata roczna za aplikację notarialną wynosi 6500 zł.
+
+**§ 2.** Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 14 grudnia 2020 r. w sprawie wysokości opłaty rocznej za aplikację notarialną (Dz. U. poz. 2269).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r. Minister Sprawiedliwości: W. Żurek
 

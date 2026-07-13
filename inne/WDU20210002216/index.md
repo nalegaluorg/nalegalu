@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072 oraz z 2021 r. poz. 1080 i 1236) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. z 2021 r. poz. 1269 i 1434) wprowadza się następujące zmiany:
-1) w § 2 w pkt 4 lit. d otrzymuje brzmienie: „d) Sąd Okręgowy w Tarnowie – obejmujący obszar właściwości sądów rejonowych w: Bochni, Brzesku, Dąbrowie Tarnowskiej i Tarnowie oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych oraz prowadzenia rejestru dzienników i czasopism, a także sprawy gospodarcze oraz inne sprawy z zakresu prawa gospodarczego i cywilnego należące do sądu gospodarczego na podstawie odrębnych ustaw;”;
-2) w § 3 w pkt 38 lit. d otrzymuje brzmienie: „d) Sąd Rejonowy w Tarnowie – dla miasta Tarnów oraz gmin: Ciężkowice, Gromnik, Lisia Góra, Pleśna, Radłów, Ryglice, Rzepiennik Strzyżewski, Skrzyszów, Szerzyny, Tarnów, Tuchów, Wierzchosławice i Wojnicz oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych, a także do spraw gospodarczych, spraw upadłościowych i restrukturyzacyjnych oraz do prowadzenia ksiąg wieczystych;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. z 2021 r. poz. 1269 i 1434) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 4 lit. d otrzymuje brzmienie: „d) Sąd Okręgowy w Tarnowie – obejmujący obszar właściwości sądów rejonowych w: Bochni, Brzesku, Dąbrowie Tarnowskiej i Tarnowie oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych oraz prowadzenia rejestru dzienników i czasopism, a także sprawy gospodarcze oraz inne sprawy z zakresu prawa gospodarczego i cywilnego należące do sądu gospodarczego na podstawie odrębnych ustaw;”;
+- **2)** w § 3 w pkt 38 lit. d otrzymuje brzmienie: „d) Sąd Rejonowy w Tarnowie – dla miasta Tarnów oraz gmin: Ciężkowice, Gromnik, Lisia Góra, Pleśna, Radłów, Ryglice, Rzepiennik Strzyżewski, Skrzyszów, Szerzyny, Tarnów, Tuchów, Wierzchosławice i Wojnicz oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych, a także do spraw gospodarczych, spraw upadłościowych i restrukturyzacyjnych oraz do prowadzenia ksiąg wieczystych;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. Minister Sprawiedliwości: Z. Ziobro
 

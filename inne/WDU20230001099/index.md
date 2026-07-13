@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001099) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1099/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzorów wniosków o wypłatę wyrównania i wzoru wniosku o rozliczenie wyrównań Na podstawie art. 12d ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. poz. 1967, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 10 marca 2023 r. w sprawie wzorów wniosków o wypłatę wyrównania i wzoru wniosku o rozliczenie wyrównań (Dz. U. poz. 523) załączniki nr 1–3 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa … W M W W W W W W M M W W W W W W W W W W W W W W M M W W W W W W W W W W W W W W W W W W W
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 10 marca 2023 r. w sprawie wzorów wniosków o wypłatę wyrównania i wzoru wniosku o rozliczenie wyrównań (Dz. U. poz. 523) załączniki nr 1–3 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa … W M W W W W W W M M W W W W W W W W W W W W W W M M W W W W W W W W W W W W W W W W W W W
 

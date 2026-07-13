@@ -26,13 +26,17 @@ source: pdf
 
 Na podstawie art. 19 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz.U. Nr 140, poz.
 939, z 1998 r. Nr 160, poz. 1063 i Nr 162, poz. 1118 oraz z 1999 r. Nr 11, poz. 95) zarządza się, co następuje:
-§ 1.
-Powszechnej Kasie Oszczędności – bankowi państwowemu nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2.
-Traci moc uchwała nr 105 Rady Ministrów z dnia 30 września 1992 r. w sprawie nadania statutu Powszechnej Kasie Oszczędności – bankowi państwowemu (Monitor Polski Nr 32, poz. 221, z 1993 r. Nr 67, poz. 319 i Dz.U. z 1996 r. Nr 20, poz. 89).
-§ 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-STATUT POWSZECHNEJ KASY OSZCZĘDNOŚCI - BANKU PAŃSTWOWEGO
+
+**§ 1.** Powszechnej Kasie Oszczędności – bankowi państwowemu nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc uchwała nr 105 Rady Ministrów z dnia 30 września 1992 r. w sprawie nadania statutu Powszechnej Kasie Oszczędności – bankowi państwowemu (Monitor Polski Nr 32, poz. 221, z 1993 r. Nr 67, poz. 319 i Dz.U. z 1996 r. Nr 20, poz. 89).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. STATUT POWSZECHNEJ KASY OSZCZĘDNOŚCI - BANKU PAŃSTWOWEGO
+
+#### Rozdział 1 Postanowienia ogólne
+
+## Załącznik
+
 § 1.
 Powszechna Kasa Oszczędności – bank państwowy, zwana dalej „PKO-bp”, jest bankiem działającym na podstawie ustawy – Prawo bankowe i obowiązujących przepisów prawa oraz niniejszego statutu.
 § 2.
@@ -48,6 +52,7 @@ Powszechna Kasa Oszczędności – bank państwowy, zwana dalej „PKO-bp”, je
 1. PKO-bp jest uniwersalnym bankiem depozytowo-kredytowym, obsługującym osoby fizyczne, prawne oraz inne podmioty będące osobami krajowymi i zagranicznymi.
 2. PKO-bp może posiadać wartości dewizowe i dokonywać obrotu tymi wartościami, jak również wykonywać operacje walutowe i dewizowe na zasadach określonych w odrębnych przepisach.
 3. PKO-bp może otwierać i posiadać rachunki bankowe w bankach za granicą oraz lokować środki dewizowe na tych rachunkach.
+Rozdział 2 Zakres działania
 § 6.
 1. PKO-bp wykonuje następujące czynności bankowe:
 1) przyjmuje wkłady pieniężnych płatne na żądanie lub z nadejściem oznaczonego terminu oraz prowadzi rachunki tych wkładów,
@@ -89,6 +94,7 @@ Poza czynnościami, o których mowa w § 6, PKO-bp może:
 19) świadczyć usługi finansowo-rozliczeniowe i doradcze w zakresie instrumentów rynków finansowych.
 § 8.
 PKO-bp może zlecać bankom i innym podmiotom wykonywanie czynności należących do zakresu jej działania.
+Rozdział 3 Organy PKO-bp
 § 9.
 Organami PKO-bp są Rada Nadzorcza i Zarząd.
 § 10.
@@ -161,6 +167,7 @@ W razie nieobecności prezesa Zarząd jego funkcję i kompetencje realizuje wice
 4) dyrektor łącznie z zastępcą dyrektora albo działający łącznie dwaj zastępcy dyrektora jednostki organizacyjnej PKO-bp w zakresie czynnoś ci wykonywanych przez tę jednostkę zgodnie z regulaminem organizacyjnym PKO-bp.
 2. Do wykonywania czynności określonego rodzaju lub czynności szczegółowych osoby wymienione w ust. 1 mogą ustanowić pełnomocników działających samodzielnie lub łącznie w granicach udzielonego pełnomocnictwa bez prawa do udzielania dalszych pełnomocnictw.
 3. osoby, o których mowa w ust. 1, mogą ustanowić pełnomocnika procesowego, działającego samodzielnie w granicach udzielonego pełnomocnictwa.
+Rozdział 4 Zasady gospodarki finansowej i wewnętrznej
 § 18.
 PKO-bp prowadzi samodzielnie gospodarkę finansową kierując się założeniami planu finansowego. Zgodnie z zasadą samofinansowania pokrywa z uzyskanych przychodów koszty działalności oraz zobowiązania wobec budżetu państwa i zobowiązania z tytułu zawartych umów, a także wydatki na rozwój i inne potrzeby.
 § 19.
@@ -195,6 +202,7 @@ W razie konieczności wyodrębnienia środków finansowych na określone cele, P
 PKO-bp może tworzyć w ciężar kosztów rezerwę na ryzyko ogólne, służącą pokryciu ryzyk związanych z prowadzeniem działalności bankowej.
 § 30.
 PKO-bp ogłasza roczne sprawozdania finansowe na zasadach określonych w odrębnych przepisach.
+Rozdział 5 Organizacja PKO-bp
 § 31.
 Organizację wewnętrzną PKO-bp, zakres i obszar działania jednostek organizacyjnych określa regulamin organizacyjny uchwalony przez Zarząd.
 § 32.
@@ -205,14 +213,4 @@ W PKO-bp sprawuje się kontrole wewnętrzną: wstępna, bieżącą oraz następn
 1. Pracodawcą w rozumieniu Kodeksu pracy jest PKO-bp. Czynności z zakresu prawa pracy dokonuje prezes Zarządu lub osoby przez niego upoważnione.
 2. Zasady wynagradzania pracowników określa prezes Zarządu w porozumieniu z właściwymi organizacjami związkowymi.
 3. Zarząd w uzgodnieniu z Radą Nadzorczą może ustalić roczne nagrody dla pracowników za osiągnięte wyniki.
-
-#### Rozdział 1 Postanowienia ogólne
-
-#### Rozdział 2 Zakres działania
-
-#### Rozdział 3 Organy PKO-bp
-
-#### Rozdział 4 Zasady gospodarki finansowej i wewnętrznej
-
-#### Rozdział 5 Organizacja PKO-bp
 

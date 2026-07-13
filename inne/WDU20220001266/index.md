@@ -40,81 +40,137 @@ poz. 2106), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływ
 3) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 12 października 2021 r. zmieniającego rozporządzenie w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 1955), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 czerwca 2011 r.
 w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach Na podstawie art. 11 ust. 5 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061 i 1115) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) warunki, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, zwane dalej „pomieszczeniami”, w tym wyposażenie tych pomieszczeń;
-2) podmioty kontrolujące pomieszczenia;
-3) zakres dokumentacji prowadzonej w związku z funkcjonowaniem pomieszczeń;
-4) regulamin pobytu w pomieszczeniach, w tym szczegółowe uprawnienia i obowiązki osób zatrzymanych.
-§ 2. 1. Pomieszczenie powinno znajdować się na kondygnacji parterowej lub wyższej budynku.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** warunki, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, zwane dalej „pomieszczeniami”, w tym wyposażenie tych pomieszczeń;
+- **2)** podmioty kontrolujące pomieszczenia;
+- **3)** zakres dokumentacji prowadzonej w związku z funkcjonowaniem pomieszczeń;
+- **4)** regulamin pobytu w pomieszczeniach, w tym szczegółowe uprawnienia i obowiązki osób zatrzymanych.
+
+**§ 2.**
+
+1. Pomieszczenie powinno znajdować się na kondygnacji parterowej lub wyższej budynku.
+
 2. Pomieszczenie może znajdować się na kondygnacji znajdującej się poniżej kondygnacji parterowej ‒ w przypadku łącznego spełnienia następujących warunków:
-1) uzyskania pozwolenia Państwowej Inspekcji Sanitarnej;
-2) zapewnienia oświetlenia naturalnego;
-3) wyposażenia w izolację przeciwwilgociową.
-§ 3. 1. W pomieszczeniu znajdują się:
-1) pokoje dla osób zatrzymanych;
-2) pokój dyżurnego;
-3) pokój do przygotowania lub podgrzewania posiłków oraz zmywania naczyń;
-4) magazyn rzeczy przekazanych do depozytu i bielizny pościelowej;
-5) pokoje sanitarne służące do utrzymania higieny osobistej, w tym umywalnie, natryski i ubikacje.
+
+- **1)** uzyskania pozwolenia Państwowej Inspekcji Sanitarnej;
+- **2)** zapewnienia oświetlenia naturalnego;
+- **3)** wyposażenia w izolację przeciwwilgociową.
+
+**§ 3.**
+
+1. W pomieszczeniu znajdują się:
+
+- **1)** pokoje dla osób zatrzymanych;
+- **2)** pokój dyżurnego;
+- **3)** pokój do przygotowania lub podgrzewania posiłków oraz zmywania naczyń;
+- **4)** magazyn rzeczy przekazanych do depozytu i bielizny pościelowej;
+- **5)** pokoje sanitarne służące do utrzymania higieny osobistej, w tym umywalnie, natryski i ubikacje.
+
 2. Nie wymaga się wydzielania w pomieszczeniu:
-1) pokoju dyżurnego ‒ w przypadku braku etatowej służby ochronnej;
-2) pokoju do przygotowywania lub podgrzewania posiłków oraz zmywania naczyń ‒ w przypadku dostaw gotowych posiłków w naczyniach jednorazowych.
+
+- **1)** pokoju dyżurnego ‒ w przypadku braku etatowej służby ochronnej;
+- **2)** pokoju do przygotowywania lub podgrzewania posiłków oraz zmywania naczyń ‒ w przypadku dostaw gotowych posiłków w naczyniach jednorazowych.
+
 3. W skład pomieszczenia może wchodzić:
-1) pokój lekarski;
-2) szatnia dla funkcjonariuszy Straży Granicznej pełniących służbę w pomieszczeniu, zwanych dalej „funkcjonariuszami”;
-3) pokój do przeprowadzania i dokumentowania czynności służbowych z udziałem osoby umieszczonej w pomieszczeniu.
-§ 4. Jeżeli ze względów technicznych nie jest możliwe wydzielenie w pomieszczeniu pokoju i magazynu, o których mowa w § 3 ust. 1 pkt 3 i 4, oraz szatni, o której mowa w § 3 ust. 3 pkt 2, dopuszcza się ich usytuowanie poza pomieszczeniem.
-§ 5. Wszystkie wejścia do pomieszczenia i wyjścia z niego powinny być wyposażone w stalową kratę oraz drzwi o wzmocnionej konstrukcji, z zamkiem mechanicznym.
-§ 6. 1. Pomieszczenie wyposaża się w instalację alarmową sygnalizującą dyżurnemu jednostki organizacyjnej Straży Granicznej o zagrożeniu życia lub zdrowia osób przebywających w pomieszczeniu.
+
+- **1)** pokój lekarski;
+- **2)** szatnia dla funkcjonariuszy Straży Granicznej pełniących służbę w pomieszczeniu, zwanych dalej „funkcjonariuszami”;
+- **3)** pokój do przeprowadzania i dokumentowania czynności służbowych z udziałem osoby umieszczonej w pomieszczeniu.
+
+**§ 4.** Jeżeli ze względów technicznych nie jest możliwe wydzielenie w pomieszczeniu pokoju i magazynu, o których mowa w § 3 ust. 1 pkt 3 i 4, oraz szatni, o której mowa w § 3 ust. 3 pkt 2, dopuszcza się ich usytuowanie poza pomieszczeniem.
+
+**§ 5.** Wszystkie wejścia do pomieszczenia i wyjścia z niego powinny być wyposażone w stalową kratę oraz drzwi o wzmocnionej konstrukcji, z zamkiem mechanicznym.
+
+**§ 6.**
+
+1. Pomieszczenie wyposaża się w instalację alarmową sygnalizującą dyżurnemu jednostki organizacyjnej Straży Granicznej o zagrożeniu życia lub zdrowia osób przebywających w pomieszczeniu.
+
 2. Instalacja, o której mowa w ust. 1, obejmuje punkty alarmowe umieszczone:
-1) na ścianach korytarzy przy drzwiach do pokojów dla osób zatrzymanych;
-2) w pokoju dyżurnego;
-3) w magazynie rzeczy przekazanych do depozytu i bielizny pościelowej;
-4) w szatni dla funkcjonariuszy;
-5) w pokoju lekarskim, jeżeli został on wyodrębniony w pomieszczeniu.
+
+- **1)** na ścianach korytarzy przy drzwiach do pokojów dla osób zatrzymanych;
+- **2)** w pokoju dyżurnego;
+- **3)** w magazynie rzeczy przekazanych do depozytu i bielizny pościelowej;
+- **4)** w szatni dla funkcjonariuszy;
+- **5)** w pokoju lekarskim, jeżeli został on wyodrębniony w pomieszczeniu.
+
 3. W skład instalacji, o której mowa w ust. 1, mogą wchodzić osobiste, przenośne urządzenia alarmowe uruchamiane przez funkcjonariuszy.
-§ 7. Pomieszczenie może być wyposażone w środki techniczne służące do obserwowania i rejestrowania obrazu, działające w systemie całodobowym.
-§ 8. 1. Wszystkie pokoje, magazyn i szatnia, o których mowa w § 3 ust. 1 i 3, powinny mieć:
-1) ściany:
-a) o odporności mechanicznej nie niższej niż odporność mechaniczna muru wykonanego z cegły pełnej na zaprawie cementowej, o grubości co najmniej 25 centymetrów,
-b) pokryte powłoką lub okładziną zmywalną, odporną na działanie wilgoci oraz preparatów czyszcząco-dezynfekujących;
-2) punkty świetlne zabezpieczone przed uszkodzeniem, przewody doprowadzające napięcie elektryczne położone podtynkowo oraz elektryczne gniazda wtykowe zainstalowane w niezbędnych miejscach.
+
+**§ 7.** Pomieszczenie może być wyposażone w środki techniczne służące do obserwowania i rejestrowania obrazu, działające w systemie całodobowym.
+
+**§ 8.**
+
+1. Wszystkie pokoje, magazyn i szatnia, o których mowa w § 3 ust. 1 i 3, powinny mieć:
+
+- **1)** ściany:
+    - **a)** o odporności mechanicznej nie niższej niż odporność mechaniczna muru wykonanego z cegły pełnej na zaprawie cementowej, o grubości co najmniej 25 centymetrów,
+    - **b)** pokryte powłoką lub okładziną zmywalną, odporną na działanie wilgoci oraz preparatów czyszcząco-dezynfekujących;
+
+- **2)** punkty świetlne zabezpieczone przed uszkodzeniem, przewody doprowadzające napięcie elektryczne położone podtynkowo oraz elektryczne gniazda wtykowe zainstalowane w niezbędnych miejscach.
+
 2. Na ścianach korytarzy, przy drzwiach wejściowych do pokojów dla osób zatrzymanych, mogą być zamocowane półki służące do stawiania na nich naczyń z posiłkami.
-§ 9. 1. Pokoje dla osób zatrzymanych powinny:
-1) mieć:
-a) powierzchnię o wielkości zapewniającej nie mniej niż 3 m na jedną osobę zatrzymaną,
-b) podłogę trwałą i zmywalną, odporną na działanie wilgoci oraz preparatów czyszcząco-dezynfekujących,
-c) okna uchylne o powierzchni 1:8 w stosunku do powierzchni podłogi, z zainstalowaną na zewnątrz kratą z prętów lub płaskowników stalowych, a od wewnątrz ‒ siatką stalową; w przypadku wentylacji mechanicznej oraz okien nieotwieralnych o konstrukcji antywłamaniowej dopuszcza się odstąpienie od instalowania siatki stalowej wewnętrznej,
-d) przyciski układu elektrycznego służącego do wzywania funkcjonariuszy; układ elektryczny zasilany jest napięciem elektrycznym bezpiecznym,
-e) drzwi o wzmocnionej konstrukcji, z dwiema zasuwami i zamkiem mechanicznym oraz łańcuchem zabezpieczającym, otwierane na zewnątrz, wyposażone w wizjer zabezpieczony od strony pokoju szkłem hartowanym, a od strony korytarza – ruchomą zasłoną;
-2) być wyposażone w prycze jednoosobowe lub materace wolno leżące pokryte zmywalną tkaniną oraz stoły, taborety lub ławy, bez ostrych krawędzi, przymocowane do podłogi lub ściany;
-3) zapewniać wentylację umożliwiającą dostateczny dopływ powietrza i odpowiednią do pory roku temperaturę, zgodnie z normami określonymi dla pomieszczeń mieszkalnych, a także oświetlenie odpowiednie do czytania i pisania;
-wyłącznik oświetlenia znajduje się poza pokojem.
+
+**§ 9.**
+
+1. Pokoje dla osób zatrzymanych powinny:
+
+- **1)** mieć:
+    - **a)** powierzchnię o wielkości zapewniającej nie mniej niż 3 m na jedną osobę zatrzymaną,
+    - **b)** podłogę trwałą i zmywalną, odporną na działanie wilgoci oraz preparatów czyszcząco-dezynfekujących,
+    - **c)** okna uchylne o powierzchni 1:8 w stosunku do powierzchni podłogi, z zainstalowaną na zewnątrz kratą z prętów lub płaskowników stalowych, a od wewnątrz ‒ siatką stalową; w przypadku wentylacji mechanicznej oraz okien nieotwieralnych o konstrukcji antywłamaniowej dopuszcza się odstąpienie od instalowania siatki stalowej wewnętrznej,
+    - **d)** przyciski układu elektrycznego służącego do wzywania funkcjonariuszy; układ elektryczny zasilany jest napięciem elektrycznym bezpiecznym,
+    - **e)** drzwi o wzmocnionej konstrukcji, z dwiema zasuwami i zamkiem mechanicznym oraz łańcuchem zabezpieczającym, otwierane na zewnątrz, wyposażone w wizjer zabezpieczony od strony pokoju szkłem hartowanym, a od strony korytarza – ruchomą zasłoną;
+
+- **2)** być wyposażone w prycze jednoosobowe lub materace wolno leżące pokryte zmywalną tkaniną oraz stoły, taborety lub ławy, bez ostrych krawędzi, przymocowane do podłogi lub ściany;
+- **3)** zapewniać wentylację umożliwiającą dostateczny dopływ powietrza i odpowiednią do pory roku temperaturę, zgodnie z normami określonymi dla pomieszczeń mieszkalnych, a także oświetlenie odpowiednie do czytania i pisania; wyłącznik oświetlenia znajduje się poza pokojem.
+
 2. Drzwi, o których mowa w ust. 1 pkt 1 lit. e, mogą być wyposażone w drzwiczki służące do podawania posiłków oraz zakładania kajdanek osobom zatrzymanym.
+
 3. Drzwiczki, o których mowa w ust. 2, powinny być wyposażone w zabezpieczenia uniemożliwiające ich otwarcie od wewnątrz.
+
 4. Drzwi, o których mowa w ust. 1 pkt 1 lit. e, i okna w pokojach dla osób zatrzymanych mogą być wyposażone w urządzenia sygnalizujące ich otwarcie.
-§ 10. Pokój do przygotowania lub podgrzewania posiłków oraz zmywania naczyń powinien być wyposażony i spełniać warunki zgodnie z przepisami dotyczącymi bezpieczeństwa żywności i żywienia oraz higieny środków spożywczych.
-§ 11. Magazyn rzeczy przekazanych do depozytu i bielizny pościelowej powinien mieć wyodrębnione miejsca przeznaczone do przechowywania:
-1) rzeczy osobistych osób zatrzymanych;
-2) rzeczy osobistych osób zatrzymanych chorych zakaźnie;
-3) czystej bielizny pościelowej;
-4) brudnej bielizny pościelowej.
-§ 12. 1. Pokoje sanitarne służące do utrzymania higieny osobistej powinny być wyposażone w oświetlenie, wentylację oraz powinno się w nich znajdować wyposażenie zgodne z przepisami wydanymi na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. ‒ Prawo budowlane (Dz. U. z 2021 r. poz. 2351 oraz z 2022 r. poz. 88).
+
+**§ 10.** Pokój do przygotowania lub podgrzewania posiłków oraz zmywania naczyń powinien być wyposażony i spełniać warunki zgodnie z przepisami dotyczącymi bezpieczeństwa żywności i żywienia oraz higieny środków spożywczych.
+
+**§ 11.** Magazyn rzeczy przekazanych do depozytu i bielizny pościelowej powinien mieć wyodrębnione miejsca przeznaczone do przechowywania:
+
+- **1)** rzeczy osobistych osób zatrzymanych;
+- **2)** rzeczy osobistych osób zatrzymanych chorych zakaźnie;
+- **3)** czystej bielizny pościelowej;
+- **4)** brudnej bielizny pościelowej.
+
+**§ 12.**
+
+1. Pokoje sanitarne służące do utrzymania higieny osobistej powinny być wyposażone w oświetlenie, wentylację oraz powinno się w nich znajdować wyposażenie zgodne z przepisami wydanymi na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. ‒ Prawo budowlane (Dz. U. z 2021 r. poz. 2351 oraz z 2022 r. poz. 88).
+
 2. Instalację dostarczającą wodę do pokojów sanitarnych, o których mowa w ust. 1, wyposaża się w urządzenie umożliwiające regulację temperatury i strumienia wody, które powinno być zabezpieczone przed dostępem do niego osób zatrzymanych.
+
 3. Drzwi w umywalniach, natryskach i ubikacjach wyposaża się w szybę z nietłukącego się szkła lub w zwykłą szybę zabezpieczoną obustronnie siatką stalową lub powłoką uniemożliwiającą jej rozbicie.
-§ 13. 1. Okresowej kontroli pomieszczeń dokonuje komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, w którego dyspozycji znajduje się pomieszczenie, lub ich zastępcy.
+
+**§ 13.**
+
+1. Okresowej kontroli pomieszczeń dokonuje komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, w którego dyspozycji znajduje się pomieszczenie, lub ich zastępcy.
+
 2. Bieżącej kontroli pomieszczeń dokonują funkcjonariusz odpowiadający za funkcjonowanie pomieszczenia lub upoważniony przez niego funkcjonariusz.
-§ 14. Funkcjonariusze prowadzą następującą dokumentację w związku z funkcjonowaniem pomieszczenia:
-1) książkę ewidencji osób zatrzymanych, osadzonych w pomieszczeniu;
-2) skorowidz osób zatrzymanych, osadzonych w pomieszczeniu;
-3) ewidencję nakazów przyjęcia, przekazania, zwolnienia oraz wydania osób zatrzymanych;
-4) ewidencję kwitów depozytowych;
-5) książkę służby w pomieszczeniu;
-6) książkę wizyt lekarskich.
-§ 15. Regulamin pobytu osób zatrzymanych w pomieszczeniach jest określony w załączniku do rozporządzenia.
-§ 16. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 listopada 2001 r. w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 1657 oraz z 2007 r. poz. 879 i 1113).
-§ 17. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-REGULAMIN POBYTU OSÓB ZATRZYMANYCH W POMIESZCZENIACH JEDNOSTEK ORGANIZACYJNYCH STRAŻY GRANICZNEJ PRZEZNACZONYCH DLA TYCH OSÓB
+
+**§ 14.** Funkcjonariusze prowadzą następującą dokumentację w związku z funkcjonowaniem pomieszczenia:
+
+- **1)** książkę ewidencji osób zatrzymanych, osadzonych w pomieszczeniu;
+- **2)** skorowidz osób zatrzymanych, osadzonych w pomieszczeniu;
+- **3)** ewidencję nakazów przyjęcia, przekazania, zwolnienia oraz wydania osób zatrzymanych;
+- **4)** ewidencję kwitów depozytowych;
+- **5)** książkę służby w pomieszczeniu;
+- **6)** książkę wizyt lekarskich.
+
+**§ 15.** Regulamin pobytu osób zatrzymanych w pomieszczeniach jest określony w załączniku do rozporządzenia.
+
+**§ 16.** Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 listopada 2001 r. w sprawie warunków, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych, oraz regulaminu pobytu w tych pomieszczeniach (Dz. U. poz. 1657 oraz z 2007 r. poz. 879 i 1113).
+
+**§ 17.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . REGULAMIN POBYTU OSÓB ZATRZYMANYCH W POMIESZCZENIACH JEDNOSTEK ORGANIZACYJNYCH STRAŻY GRANICZNEJ PRZEZNACZONYCH DLA TYCH OSÓB
+
+## Załącznik
+
 § 1. 1. Przyjmowaną do pomieszczenia osobę zatrzymaną bezzwłocznie:
 1) informuje się o jej uprawnieniach i obowiązkach;
 2) zapoznaje się z regulaminem;

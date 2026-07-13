@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1350/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu przesyłania informacji o lasach oraz deklaracji na podatek leśny za pomocą środków komunikacji elektronicznej Na podstawie art. 6 ust. 10 ustawy z dnia 30 października 2002 r. o podatku leśnym (Dz. U. z 2025 r. poz. 176) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 6 czerwca 2019 r. w sprawie sposobu przesyłania informacji o lasach oraz deklaracji na podatek leśny za pomocą środków komunikacji elektronicznej (Dz. U. poz. 1154) w § 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) adresu do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), organu podatkowego.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów i Gospodarki: wz. H. Majszczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 6 czerwca 2019 r. w sprawie sposobu przesyłania informacji o lasach oraz deklaracji na podatek leśny za pomocą środków komunikacji elektronicznej (Dz. U. poz. 1154) w § 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) adresu do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), organu podatkowego.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów i Gospodarki: wz. H. Majszczyk
 

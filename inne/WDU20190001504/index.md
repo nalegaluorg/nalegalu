@@ -38,7 +38,13 @@ source: pdf
 
 - **5)** w art. 367 w § 2 zdanie pierwsze otrzymuje brzmienie: „Sąd Najwyższy rozpatruje odwołanie, o którym mowa w § 1, i orzeka w sprawie w terminie 7 dni w postępowaniu nieprocesowym.”.
 
-**Art. 2.** W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2019 r. poz. 1444) art. 35 otrzymuje brzmienie: „Art. 35. 1. Sąd Najwyższy rozstrzyga o ważności referendum, podejmując w tej sprawie uchwałę nie później niż w 60 dniu od dnia ogłoszenia wyniku referendum. 2. W sprawie, o której mowa w § 1, Sąd Najwyższy orzeka w składzie całej właściwej izby. 3. Uchwałę o ważności referendum przedstawia się niezwłocznie Prezydentowi Rzeczypospolitej, Marszałkowi Sejmu, Marszałkowi Senatu i Prezesowi Rady Ministrów, a także Państwowej Komisji Wyborczej. 4. Uchwałę o ważności referendum ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej.”.
+**Art. 2.** W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2019 r. poz. 1444) art. 35 otrzymuje brzmienie:
+
+> „Art. 35.  
+> 1. Sąd Najwyższy rozstrzyga o ważności referendum, podejmując w tej sprawie uchwałę nie później niż w 60 dniu od dnia ogłoszenia wyniku referendum.  
+> 2. W sprawie, o której mowa w § 1, Sąd Najwyższy orzeka w składzie całej właściwej izby.  
+> 3. Uchwałę o ważności referendum przedstawia się niezwłocznie Prezydentowi Rzeczypospolitej, Marszałkowi Sejmu, Marszałkowi Senatu i Prezesowi Rady Ministrów, a także Państwowej Komisji Wyborczej.  
+> 4. Uchwałę o ważności referendum ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej.”.  
 
 **Art. 3.** Do postępowania w sprawie stwierdzenia ważności wyborów do Parlamentu Europejskiego niezakończonego przed dniem wejścia w życie niniejszej ustawy art. 244 ustawy zmienianej w art. 1 stosuje się w brzmieniu nadanym niniejszą ustawą.
 

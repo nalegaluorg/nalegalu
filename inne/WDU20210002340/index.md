@@ -26,11 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002340) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2340/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzoru znaku informującego podróżnych o możliwości zakupu towarów, od których przysługuje zwrot podatku od towarów i usług, pieczęci organu celnego potwierdzającej wywóz towarów poza terytorium Unii Europejskiej oraz danych zawartych w dokumencie elektronicznym TAX FREE oraz jego wydruku Na podstawie art. 130 ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 16 lipca 2021 r. w sprawie wzoru znaku informującego podróżnych o możliwości zakupu towarów, od których przysługuje zwrot podatku od towarów i usług, pieczęci organu celnego potwierdzającej wywóz towarów poza terytorium Unii Europejskiej oraz danych zawartych w dokumencie elektronicznym TAX FREE oraz jego wydruku (Dz. U. poz. 1347) wprowadza się następujące zmiany:
-1) w § 4 pkt 10 otrzymuje brzmienie: „10) imię i nazwisko osoby wystawiającej dokument;”;
-2) w § 5:
-a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4 pkt 1–7 i 9–11, zawiera:”,
-b) pkt 3 otrzymuje brzmienie: „3) miejsce na potwierdzenie przez organ celny pieczęcią wywozu towarów przez podróżnego poza terytorium Unii Europejskiej;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Minister Finansów: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 16 lipca 2021 r. w sprawie wzoru znaku informującego podróżnych o możliwości zakupu towarów, od których przysługuje zwrot podatku od towarów i usług, pieczęci organu celnego potwierdzającej wywóz towarów poza terytorium Unii Europejskiej oraz danych zawartych w dokumencie elektronicznym TAX FREE oraz jego wydruku (Dz. U. poz. 1347) wprowadza się następujące zmiany:
+
+- **1)** w § 4 pkt 10 otrzymuje brzmienie: „10) imię i nazwisko osoby wystawiającej dokument;”;
+- **2)** w § 5:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Wydruk dokumentu, o którym mowa w art. 127a ustawy, oprócz danych, o których mowa w § 4 pkt 1–7 i 9–11, zawiera:”,
+    - **b)** pkt 3 otrzymuje brzmienie: „3) miejsce na potwierdzenie przez organ celny pieczęcią wywozu towarów przez podróżnego poza terytorium Unii Europejskiej;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. Minister Finansów: T. Kościński
 

@@ -27,14 +27,17 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich Na podstawie art. 201 ust. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2020 r. poz.
 695, 1610, 2112 i 2320 oraz z 2021 r. poz. 11) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2018 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich (Dz. U. poz. 1744) w załączniku do rozporządzenia w tabeli nr 2 wprowadza się następujące zmiany:
-1) po wierszu oznaczonym lp. 11 dodaje się wiersz oznaczony lp. 11a w brzmieniu: 11a stwierdzenie zakażenia lub zachorowania na chorobę, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, przy czym stwierdzone zakażenie lub zachorowanie powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby – art. 194 ust. 5 pkt 8 ustawy o Służbie Ochrony Państwa
-2) w wierszu czternastym wyrazy „RAZEM (lp. 1–11)” zastępuje się wyrazami „RAZEM (lp. 1–11a)”;
-3) w wierszu piętnastym wyrazy „ŚREDNIA (lp. 1–11)” zastępuje się wyrazami „ŚREDNIA (lp. 1–11a)”;
-4) po wierszu oznaczonym lp. 13 dodaje się wiersz oznaczony lp. 14 w brzmieniu: 14 podleganie obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, jeżeli podleganie tej kwarantannie lub izolacji powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby – art. 194 ust. 6 pkt 3 ustawy o Służbie Ochrony Państwa
-5) w wierszu osiemnastym wyrazy „RAZEM (lp. 12 i 13)” zastępuje się wyrazami „RAZEM (lp. 12–14)”;
-6) w wierszu dziewiętnastym wyrazy „ŚREDNIA (lp. 12 i 13)” zastępuje się wyrazami „ŚREDNIA (lp. 12–14)”.
-§ 2. Do rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich w 2020 r. przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem stosuje się od dnia 5 września 2020 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 sierpnia 2018 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich (Dz. U. poz. 1744) w załączniku do rozporządzenia w tabeli nr 2 wprowadza się następujące zmiany:
+
+- **1)** po wierszu oznaczonym lp. 11 dodaje się wiersz oznaczony lp. 11a w brzmieniu: 11a stwierdzenie zakażenia lub zachorowania na chorobę, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, przy czym stwierdzone zakażenie lub zachorowanie powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby – art. 194 ust. 5 pkt 8 ustawy o Służbie Ochrony Państwa
+- **2)** w wierszu czternastym wyrazy „RAZEM (lp. 1–11)” zastępuje się wyrazami „RAZEM (lp. 1–11a)”;
+- **3)** w wierszu piętnastym wyrazy „ŚREDNIA (lp. 1–11)” zastępuje się wyrazami „ŚREDNIA (lp. 1–11a)”;
+- **4)** po wierszu oznaczonym lp. 13 dodaje się wiersz oznaczony lp. 14 w brzmieniu: 14 podleganie obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, jeżeli podleganie tej kwarantannie lub izolacji powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby – art. 194 ust. 6 pkt 3 ustawy o Służbie Ochrony Państwa
+- **5)** w wierszu osiemnastym wyrazy „RAZEM (lp. 12 i 13)” zastępuje się wyrazami „RAZEM (lp. 12–14)”;
+- **6)** w wierszu dziewiętnastym wyrazy „ŚREDNIA (lp. 12 i 13)” zastępuje się wyrazami „ŚREDNIA (lp. 12–14)”.
+
+**§ 2.** Do rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Służby Ochrony Państwa na zwolnieniach lekarskich w 2020 r. przepisy rozporządzenia, o którym mowa w § 1, w brzmieniu nadanym niniejszym rozporządzeniem stosuje się od dnia 5 września 2020 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

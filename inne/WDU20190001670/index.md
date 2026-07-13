@@ -25,45 +25,55 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001670) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1670/text.pdf) |
 
-§ 1. Maksymalna wartość kosztów inwestycyjnych dla jednostki:
-1) opalanej paliwami gazowymi, o mocy zainstalowanej
-a) nie większej niż 1 MW – 6 100 000
-b) większej niż 1 MW i nie większej niż
-c) większej niż 50 MW i nie większej
-d) większej niż 150 MW i nie większej
-e) większej niż 250 MW – 4 000 000
-2) opalanej paliwami stałymi, o mocy zainstalowanej
-a) większej niż 1 MW i nie większej niż
-b) większej niż 50 MW i nie większej
-c) większej niż 150 MW i nie większej
-d) większej niż 250 MW – 8 500 000
-3) opalanej biomasą, o mocy zainstalowanej
-a) większej niż 1 MW i nie większej niż
-b) większej niż 50 MW i nie większej
-c) większej niż 150 MW i nie większej
-d) większej niż 250 MW – 9 500 000
-4) innej niż wymienione w pkt 1–3, o mocy
-a) nie większej niż 1 MW – 6 100 000
-b) większej niż 1 MW i nie większej niż
-§ 2. Maksymalna wartość kosztów operacyjnych dla jednostki:
-1) opalanej paliwami gazowymi, o mocy zainstalowanej
-a) nie większej niż 1 MW – 300 000 zł/MW/rok,
-b) większej niż 1 MW i nie większej niż
-c) większej niż 50 MW i nie większej
-d) większej niż 150 MW i nie większej
-e) większej niż 250 MW – 175 000 zł/MW/rok;
-2) opalanej paliwami stałymi, o mocy zainstalowanej
-a) większej niż 1 MW i nie większej niż
-b) większej niż 50 MW i nie większej
-c) większej niż 150 MW i nie większej
-d) większej niż 250 MW – 200 000 zł/MW/rok;
-3) opalanej biomasą, o mocy zainstalowanej
-a) większej niż 1 MW i nie większej niż
-b) większej niż 50 MW i nie większej
-c) większej niż 150 MW i nie większej
-d) większej niż 250 MW – 220 000 zł/MW/rok;
-4) innej niż wymienione w pkt 1–3, o mocy
-a) nie większej niż 1 MW – 300 000 zł/MW/rok,
-b) większej niż 1 MW i nie większej niż
-§ 3. Rozporządzenie wchodzi w życie po
+**§ 1.** Maksymalna wartość kosztów inwestycyjnych dla jednostki:
+
+- **1)** opalanej paliwami gazowymi, o mocy zainstalowanej
+    - **a)** nie większej niż 1 MW – 6 100 000
+    - **b)** większej niż 1 MW i nie większej niż
+    - **c)** większej niż 50 MW i nie większej
+    - **d)** większej niż 150 MW i nie większej
+    - **e)** większej niż 250 MW – 4 000 000
+
+- **2)** opalanej paliwami stałymi, o mocy zainstalowanej
+    - **a)** większej niż 1 MW i nie większej niż
+    - **b)** większej niż 50 MW i nie większej
+    - **c)** większej niż 150 MW i nie większej
+    - **d)** większej niż 250 MW – 8 500 000
+
+- **3)** opalanej biomasą, o mocy zainstalowanej
+    - **a)** większej niż 1 MW i nie większej niż
+    - **b)** większej niż 50 MW i nie większej
+    - **c)** większej niż 150 MW i nie większej
+    - **d)** większej niż 250 MW – 9 500 000
+
+- **4)** innej niż wymienione w pkt 1–3, o mocy
+    - **a)** nie większej niż 1 MW – 6 100 000
+    - **b)** większej niż 1 MW i nie większej niż
+
+**§ 2.** Maksymalna wartość kosztów operacyjnych dla jednostki:
+
+- **1)** opalanej paliwami gazowymi, o mocy zainstalowanej
+    - **a)** nie większej niż 1 MW – 300 000 zł/MW/rok,
+    - **b)** większej niż 1 MW i nie większej niż
+    - **c)** większej niż 50 MW i nie większej
+    - **d)** większej niż 150 MW i nie większej
+    - **e)** większej niż 250 MW – 175 000 zł/MW/rok;
+
+- **2)** opalanej paliwami stałymi, o mocy zainstalowanej
+    - **a)** większej niż 1 MW i nie większej niż
+    - **b)** większej niż 50 MW i nie większej
+    - **c)** większej niż 150 MW i nie większej
+    - **d)** większej niż 250 MW – 200 000 zł/MW/rok;
+
+- **3)** opalanej biomasą, o mocy zainstalowanej
+    - **a)** większej niż 1 MW i nie większej niż
+    - **b)** większej niż 50 MW i nie większej
+    - **c)** większej niż 150 MW i nie większej
+    - **d)** większej niż 250 MW – 220 000 zł/MW/rok;
+
+- **4)** innej niż wymienione w pkt 1–3, o mocy
+    - **a)** nie większej niż 1 MW – 300 000 zł/MW/rok,
+    - **b)** większej niż 1 MW i nie większej niż
+
+**§ 3.** Rozporządzenie wchodzi w życie po
 

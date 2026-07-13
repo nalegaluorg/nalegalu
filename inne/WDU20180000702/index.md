@@ -36,7 +36,11 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2017 r. poz. 1055) wprowadza się następujące zmiany:
 
-- **1)** w art. 2 dodaje się pkt 8–10 w brzmieniu: „8) jednostce dominującej – rozumie się przez to jednostkę dominującą, o której mowa w art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, 398 i 650); 9) jednostce zależnej – rozumie się przez to jednostkę zależną, o której mowa w art. 3 ust. 1 pkt 39 ustawy z dnia 29 września 1994 r. o rachunkowości; 10) grupie kapitałowej – rozumie się przez to grupę kapitałową, o której mowa w art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości.”;
+- **1)** w art. 2 dodaje się pkt 8–10 w brzmieniu:
+
+  > „8) jednostce dominującej – rozumie się przez to jednostkę dominującą, o której mowa w art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2018 r. poz. 395, 398 i 650);  
+  > 9) jednostce zależnej – rozumie się przez to jednostkę zależną, o której mowa w art. 3 ust. 1 pkt 39 ustawy z dnia 29 września 1994 r. o rachunkowości;  
+  > 10) grupie kapitałowej – rozumie się przez to grupę kapitałową, o której mowa w art. 3 ust. 1 pkt 44 ustawy z dnia 29 września 1994 r. o rachunkowości.”;  
 - **2)** w art. 12 dodaje się ust. 8 w brzmieniu: „8. W przypadku gdy spółka, która powstała w wyniku komercjalizacji, wchodzi w skład grupy kapitałowej i jest jednostką dominującą w stosunku do przynajmniej jednej jednostki zależnej, przez pracowników uprawnionych do wyboru i odwołania przedstawicieli pracowników w radzie nadzorczej rozumie się pracowników spółki oraz pracowników wszystkich jej jednostek zależnych.”;
 - **3)** w art. 14 dodaje się ust. 3 w brzmieniu: „3. W przypadku gdy spółka, która powstała w wyniku komercjalizacji, wchodzi w skład grupy kapitałowej i jest jednostką dominującą w stosunku do przynajmniej jednej jednostki zależnej, do wyboru i odwołania przedstawicieli pracowników w radzie nadzorczej uprawnieni są pracownicy spółki oraz pracownicy wszystkich jej jednostek zależnych.”.
 

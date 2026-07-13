@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” Na podstawie art. 73 ust. 2 pkt 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2021 r.
 poz. 1940 i 2490 oraz z 2022 r. poz. 1115) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 listopada 2008 r. w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. z 2014 r. poz. 787 i 887 oraz z 2016 r. poz. 478) uchyla się § 6.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 listopada 2008 r. w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. z 2014 r. poz. 787 i 887 oraz z 2016 r. poz. 478) uchyla się § 6.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

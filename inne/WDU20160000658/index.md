@@ -27,9 +27,12 @@ source: pdf
 
 w sprawie wykazu tytułów uprawniających do ubiegania się o wpis na listę maklerów papierów wartościowych lub doradców inwestycyjnych Na podstawie art. 129 ust. 4 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r.
 poz. 94, z późn. zm. ) zarządza się, co następuje:
-§ 1. Określa się wykaz nadawanych przez zagraniczne instytucje tytułów uprawniających do ubiegania się o wpis na listę maklerów papierów wartościowych lub listę doradców inwestycyjnych, bez konieczności składania egzaminu, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: P. Szałamacha WYKAZ NADAWANYCH PRZEZ ZAGRANICZNE INSTYTUCJE TYTUŁÓW UPRAWNIAJĄCYCH DO UBIEGANIA SIĘ O WPIS NA LISTĘ MAKLERÓW PAPIERÓW WARTOŚCIOWYCH LUB LISTĘ DORADCÓW INWESTYCYJNYCH, BEZ KONIECZNOŚCI SKŁADANIA EGZAMINU
-1) Certyfikowany Międzynarodowy Analityk Inwestycyjny (Certified International Investment Analyst – CIIA) nadawany przez Stowarzyszenie Certyfikowanych Międzynarodowych Analityków Inwestycyjnych (Association of Certified International Investment Analysts – ACIIA);
-2) Dyplomowany Analityk Finansowy (Chartered Financial Analyst – CFA) nadawany przez CFA Institute.
+
+**§ 1.** Określa się wykaz nadawanych przez zagraniczne instytucje tytułów uprawniających do ubiegania się o wpis na listę maklerów papierów wartościowych lub listę doradców inwestycyjnych, bez konieczności składania egzaminu, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: P. Szałamacha WYKAZ NADAWANYCH PRZEZ ZAGRANICZNE INSTYTUCJE TYTUŁÓW UPRAWNIAJĄCYCH DO UBIEGANIA SIĘ O WPIS NA LISTĘ MAKLERÓW PAPIERÓW WARTOŚCIOWYCH LUB LISTĘ DORADCÓW INWESTYCYJNYCH, BEZ KONIECZNOŚCI SKŁADANIA EGZAMINU
+
+- **1)** Certyfikowany Międzynarodowy Analityk Inwestycyjny (Certified International Investment Analyst – CIIA) nadawany przez Stowarzyszenie Certyfikowanych Międzynarodowych Analityków Inwestycyjnych (Association of Certified International Investment Analysts – ACIIA);
+- **2)** Dyplomowany Analityk Finansowy (Chartered Financial Analyst – CFA) nadawany przez CFA Institute.
+
 

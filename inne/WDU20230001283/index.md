@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001283) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1283/text.pdf) |
 
 zmieniające rozporządzenie w sprawie Krajowego Programu Szkolenia w zakresie ochrony lotnictwa cywilnego Na podstawie art. 189 ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 26 lipca 2021 r. w sprawie Krajowego Programu Szkolenia w zakresie ochrony lotnictwa cywilnego (Dz. U. poz. 1526) w załączniku do rozporządzenia w § 42 ust. 2 otrzymuje brzmienie: „2. W przypadku egzaminu przeprowadzonego w formie, o której mowa w § 30 ust. 5 pkt 2, jako części egzaminu kończącego szkolenie, o którym mowa w § 15 ust. 4 pkt 1‒3, wymagane minimum uzyskanych punktów pozwalające na uzyskanie oceny pozytywnej jest ustalane przez Prezesa Urzędu przy wartości wskaźnika A' na poziomie nie mniejszym niż 0,7 i przy wartości wskaźnika „hit” nie mniejszym niż 60%.”.
-§ 2. Do egzaminów przeprowadzanych w formie, o której mowa w § 30 ust. 5 pkt 2 załącznika do rozporządzenia zmienianego w § 1, jako części egzaminu kończącego szkolenie, o którym mowa w § 15 ust. 4 pkt 1‒3 tego załącznika, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 26 lipca 2021 r. w sprawie Krajowego Programu Szkolenia w zakresie ochrony lotnictwa cywilnego (Dz. U. poz. 1526) w załączniku do rozporządzenia w § 42 ust. 2 otrzymuje brzmienie: „2. W przypadku egzaminu przeprowadzonego w formie, o której mowa w § 30 ust. 5 pkt 2, jako części egzaminu kończącego szkolenie, o którym mowa w § 15 ust. 4 pkt 1‒3, wymagane minimum uzyskanych punktów pozwalające na uzyskanie oceny pozytywnej jest ustalane przez Prezesa Urzędu przy wartości wskaźnika A' na poziomie nie mniejszym niż 0,7 i przy wartości wskaźnika „hit” nie mniejszym niż 60%.”.
+
+**§ 2.** Do egzaminów przeprowadzanych w formie, o której mowa w § 30 ust. 5 pkt 2 załącznika do rozporządzenia zmienianego w § 1, jako części egzaminu kończącego szkolenie, o którym mowa w § 15 ust. 4 pkt 1‒3 tego załącznika, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Infrastruktury: A. Adamczyk
 

@@ -26,9 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000993) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/993/text.pdf) |
 
 w sprawie państw, w których cudzoziemcy mogą składać wnioski o wydanie wizy przez ministra właściwego do spraw zagranicznych Na podstawie art. 66 ust. 8 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2020 r. poz. 35, 2023, 2320 i 2369 oraz z 2021 r. poz. 159) zarządza się, co następuje:
-§ 1. Rozporządzenie określa państwa, w których cudzoziemcy mogą składać wnioski o wydanie wizy przez ministra właściwego do spraw zagranicznych.
-§ 2. Państwa, o których mowa w § 1, są określone w załączniku do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Zagranicznych: wz. P. Wawrzyk PAŃSTWA, W KTÓRYCH CUDZOZIEMCY MOGĄ SKŁADAĆ WNIOSKI O WYDANIE WIZY PRZEZ MINISTRA WŁAŚCIWEGO DO SPRAW ZAGRANICZNYCH
-1. Republika Białorusi.
+
+**§ 1.** Rozporządzenie określa państwa, w których cudzoziemcy mogą składać wnioski o wydanie wizy przez ministra właściwego do spraw zagranicznych.
+
+**§ 2.** Państwa, o których mowa w § 1, są określone w załączniku do rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Zagranicznych: wz. P. Wawrzyk PAŃSTWA, W KTÓRYCH CUDZOZIEMCY MOGĄ SKŁADAĆ WNIOSKI O WYDANIE WIZY PRZEZ MINISTRA WŁAŚCIWEGO DO SPRAW ZAGRANICZNYCH 1. Republika Białorusi.
 

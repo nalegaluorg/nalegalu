@@ -26,576 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000813) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/813/text.pdf) |
 
 w sprawie przekazywania Komisji Nadzoru Finansowego informacji i dokumentów przez dostawców usług finansowania społecznościowego Na podstawie art. 14 ust. 4 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2023 r. poz. 414 i 1723 oraz z 2024 r. poz. 696) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) szczegółowy zakres i terminy przekazywania Komisji Nadzoru Finansowego, zwanej dalej „Komisją”, informacji, o których mowa w art. 14 ust. 1 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom, zwanej dalej „ustawą”, przez dostawców usług finansowania społecznościowego;
-2) dokumenty potwierdzające informacje, o których mowa w art. 14 ust. 1 ustawy.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie o rachunkowości – rozumie się przez to ustawę z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r.
-poz. 120, 295 i 1598 oraz z 2024 r. poz. 619);
-2) organie zatwierdzającym – rozumie się przez to organ zatwierdzający w rozumieniu art. 3 ust. 1 pkt 7 ustawy o rachunkowości;
-3) Kodeksie spółek handlowych – rozumie się przez to ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96);
-4) rozporządzeniu 2020/1503 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1, z późn. zm. );
-5) rozporządzeniu 2022/2112 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2022/2112 z dnia 13 lipca 2022 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych określających wymogi i zasady dotyczące wniosku o udzielenie zezwolenia na prowadzenie działalności jako dostawca usług finansowania społecznościowego (Dz. Urz. UE L 287 z 08.11.2022, str. 5).
-§ 3. 1. Dostawca usług finansowania społecznościowego przekazuje Komisji informacje o:
-1) zmianach danych zawartych we wniosku o udzielenie zezwolenia na prowadzenie działalności jako dostawca usług finansowania społecznościowego, o których mowa w pkt 1, 3, 4, pkt 5 ppkt 1 lit. a–d i g, pkt 12, 13 oraz pkt 17 ppkt 1 załącznika do rozporządzenia 2022/2112;
-2) dacie rozpoczęcia wykonywania poszczególnych czynności objętych zezwoleniem na prowadzenie działalności jako dostawca usług finansowania społecznościowego;
-3) wykupieniu polisy ubezpieczeniowej zaliczanej do ostrożnościowych środków ochrony zgodnie z art. 11 ust. 2 lit. b rozporządzenia 2020/1503, w zakresie określonym w załączniku nr 1 do rozporządzenia;
-4) dacie złożenia wniosku restrukturyzacyjnego;
-5) dacie wydania przez sąd restrukturyzacyjny postanowienia o otwarciu albo odmowie otwarcia postępowania restrukturyzacyjnego dostawcy usług finansowania społecznościowego;
-6) dacie złożenia wniosku o ogłoszenie upadłości dostawcy usług finansowania społecznościowego;
-7) dacie wydania przez sąd upadłościowy postanowienia o ogłoszeniu upadłości albo oddaleniu wniosku o ogłoszenie upadłości dostawcy usług finansowania społecznościowego;
-8) dacie wydania przez sąd upadłościowy postanowienia o umorzeniu albo uchyleniu postępowania upadłościowego dostawcy usług finansowania społecznościowego;
-9) dacie wydania przez sąd upadłościowy postanowienia o zakończeniu postępowania upadłościowego dostawcy usług finansowania społecznościowego;
-10) podjęciu decyzji o zwołaniu zgromadzenia wspólników dostawcy usług finansowania społecznościowego, w związku z wykazaniem w sprawozdaniu finansowym straty przewyższającej sumę kapitałów zapasowego i rezerwowych oraz połowy kapitału zakładowego, albo podjęciu decyzji o zwołaniu walnego zgromadzenia, w związku z wykazaniem w bilansie straty przewyższającej sumę kapitałów zapasowego i rezerwowych oraz jednej trzeciej kapitału zakładowego, w zakresie określonym w załączniku nr 2 do rozporządzenia;
-11) dokonaniu obwieszczenia o ustaleniu dnia układowego w postępowaniu o zatwierdzenie układu;
-12) dacie uchylenia skutków dokonania obwieszczenia o ustaleniu dnia układowego w postępowaniu o zatwierdzenie układu;
-13) dacie złożenia propozycji układowej;
-14) dacie wydania przez sąd restrukturyzacyjny postanowienia o zatwierdzeniu albo odmowie zatwierdzenia układu dostawcy usług finansowania społecznościowego oraz uchyleniu albo odmowie uchylenia układu;
-15) dacie wystąpienia przyczyny powodującej rozwiązanie spółki będącej dostawcą usług finansowania społecznościowego;
-16) otwarciu likwidacji, w zakresie określonym w załączniku nr 3 do rozporządzenia;
-17) podjęciu uchwały o zamiarze połączenia z innym podmiotem, w zakresie określonym w załączniku nr 4 do rozporządzenia;
-18) podpisaniu uzgodnienia w sprawie planu połączenia z innym podmiotem, o którym mowa w art. 498 Kodeksu spółek handlowych (plan połączenia);
-19) dacie ogłoszenia planu połączenia lub jego bezpłatnego udostępnienia do publicznej wiadomości na stronie internetowej;
-20) podjęciu uchwały o połączeniu z innym podmiotem, w zakresie określonym w załączniku nr 5 do rozporządzenia;
-21) podjęciu uchwały o zamiarze podziału, w zakresie określonym w załączniku nr 6 do rozporządzenia;
-22) podpisaniu uzgodnienia w sprawie planu podziału, o którym mowa w art. 533 § 1 Kodeksu spółek handlowych (plan podziału);
-23) dacie ogłoszenia lub bezpłatnego udostępnienia do publicznej wiadomości na stronie internetowej planu podziału;
-24) podjęciu uchwały o podziale spółki będącej dostawcą usług finansowania społecznościowego, w zakresie określonym w załączniku nr 7 do rozporządzenia;
-25) podjęciu uchwały o zamiarze przekształcenia w inną spółkę handlową, w zakresie określonym w załączniku nr 8 do rozporządzenia;
-26) podjęciu uchwały o przekształceniu w inną spółkę handlową, w zakresie określonym w załączniku nr 9 do rozporządzenia;
-27) podjęciu uchwały o zmianie w kapitałach własnych, w zakresie określonym w załączniku nr 10 do rozporządzenia;
-28) podjęciu uchwały o emisji dłużnych papierów wartościowych, w zakresie określonym w załączniku nr 11 do rozporządzenia;
-29) zawarciu z firmą audytorską umowy o badanie sprawozdań finansowych, w zakresie określonym w załączniku nr 12 do rozporządzenia;
-30) wypowiedzeniu albo rozwiązaniu przez dostawcę usług finansowania społecznościowego albo firmę audytorską umowy o badanie sprawozdań finansowych, w zakresie określonym w załączniku nr 13 do rozporządzenia;
-31) dacie podjęcia przez organ zatwierdzający uchwały o zatwierdzeniu albo odmowie zatwierdzenia sprawozdania finansowego za ubiegły rok obrotowy;
-32) naruszeniu zasad świadczenia usług finansowania społecznościowego, określonych w przepisach rozporządzenia 2020/1503, przepisach wydanych na podstawie rozporządzenia 2020/1503 oraz w ustawie, w zakresie określonym w załączniku nr 14 do rozporządzenia;
-33) naruszeniu wymogów ostrożnościowych, o których mowa w art. 11 rozporządzenia 2020/1503, w zakresie określonym w załączniku nr 15 do rozporządzenia;
-34) dacie złożenia zawiadomienia albo uzyskania informacji o złożeniu zawiadomienia o uzasadnionym podejrzeniu popełnienia przestępstwa w związku z prowadzoną działalnością jako dostawca usług finansowania społecznościowego;
-35) uzyskaniu informacji o wszczęciu przed organem administracji publicznej lub sądem jednego lub kilku postępowań dotyczących zobowiązań dostawcy usług finansowania społecznościowego, których łączna wartość stanowi co najmniej 10 % kapitałów własnych dostawcy usług finansowania społecznościowego, w zakresie określonym w załączniku nr 16 do rozporządzenia;
-36) uzyskaniu informacji o wszczęciu przed organem administracji publicznej lub sądem jednego lub kilku postępowań dotyczących wierzytelności dostawcy usług finansowania społecznościowego, których łączna wartość stanowi co najmniej 10 % kapitałów własnych dostawcy usług finansowania społecznościowego, w zakresie określonym w załączniku nr 17 do rozporządzenia;
-37) zamiarze ograniczenia lub ograniczeniu działalności prowadzonej jako dostawca usług finansowania społecznościowego, w zakresie określonym w załączniku nr 18 do rozporządzenia;
-38) zamiarze rezygnacji lub rezygnacji z działalności prowadzonej jako dostawca usług finansowania społecznościowego, w zakresie określonym w załączniku nr 19 do rozporządzenia;
-39) przekroczeniu limitu, o którym mowa w art. 1 ust. 2 lit. c rozporządzenia 2020/1503, w zakresie określonym w załączniku nr 20 do rozporządzenia;
-40) podjęciu przez organ zatwierdzający uchwały o sposobie podziału zysku za ubiegły rok obrotowy, w zakresie określonym w załączniku nr 21 do rozporządzenia;
-41) odmowie udzielenia albo nieudzieleniu absolutorium członkowi organu zarządzającego lub nadzorującego, w zakresie określonym w załączniku nr 22 do rozporządzenia;
-42) zdarzeniach skutkujących ograniczeniem albo zniesieniem zamiaru kontynuowania działalności prowadzonej jako dostawca usług finansowania społecznościowego w dającej się przewidzieć przyszłości zgodnie z art. 5 ustawy o rachunkowości, w zakresie określonym w załączniku nr 23 do rozporządzenia;
-43) ustanowieniu funduszu zabezpieczającego, o którym mowa w art. 6 ust. 5 rozporządzenia 2020/1503, w zakresie określonym w załączniku nr 24 do rozporządzenia.
-2. Dostawca usług finansowania społecznościowego dołącza do przekazywanych informacji:
-1) kopię wykupionej polisy ubezpieczeniowej – w przypadku, o którym mowa w ust. 1 pkt 3;
-2) kopię wniosku restrukturyzacyjnego – w przypadku, o którym mowa w ust. 1 pkt 4;
-3) kopię postanowienia o otwarciu albo odmowie otwarcia postępowania restrukturyzacyjnego – w przypadku, o którym mowa w ust. 1 pkt 5;
-4) kopię wniosku o ogłoszenie upadłości – w przypadku, o którym mowa w ust. 1 pkt 6;
-5) kopię postanowienia o ogłoszeniu upadłości albo oddaleniu wniosku o ogłoszenie upadłości – w przypadku, o którym mowa w ust. 1 pkt 7;
-6) kopię postanowienia o umorzeniu albo uchyleniu postępowania upadłościowego – w przypadku, o którym mowa w ust. 1 pkt 8;
-7) kopię postanowienia o zakończeniu postępowania upadłościowego – w przypadku, o którym mowa w ust. 1 pkt 9;
-8) projekt uchwały w sprawie dalszego istnienia dostawcy usług finansowania społecznościowego – w przypadku, o którym mowa w ust. 1 pkt 10;
-9) kopię sprawozdania nadzorcy układu – w przypadku, o którym mowa w ust. 1 pkt 11;
-10) kopię postanowienia o uchyleniu skutków dokonania obwieszczenia o ustaleniu dnia układowego – w przypadku, o którym mowa w ust. 1 pkt 12;
-11) kopię propozycji układowej – w przypadku, o którym mowa w ust. 1 pkt 13;
-12) kopię postanowienia o zatwierdzeniu albo odmowie zatwierdzenia układu albo uchyleniu albo odmowie uchylenia układu – w przypadku, o którym mowa w ust. 1 pkt 14;
-13) kopię dokumentu potwierdzającego wystąpienie przyczyny rozwiązania spółki – w przypadku, o którym mowa w ust. 1 pkt 15;
-14) kopie dokumentów stanowiących podstawę otwarcia likwidacji – w przypadku, o którym mowa w ust. 1 pkt 16;
-15) kopię uchwały o zamiarze połączenia – w przypadku, o którym mowa w ust. 1 pkt 17;
-16) kopię uzgodnienia w sprawie planu połączenia oraz kopię wniosku o ogłoszenie planu połączenia we właściwym dzienniku urzędowym, jeżeli wniosek jest składany przez dostawcę usług finansowania społecznościowego, z potwierdzeniem daty jego złożenia, albo informację o dacie złożenia tego wniosku przez inną spółkę biorącą udział w połączeniu, jeżeli wniosek jest składany przez tę spółkę – w przypadku, o którym mowa w ust. 1 pkt 18;
-17) plan połączenia wraz z dokumentami, o których mowa w art. 499 § 2 Kodeksu spółek handlowych – w przypadku, o którym mowa w ust. 1 pkt 19;
-18) kopię uchwały o połączeniu z innym podmiotem, pisemną opinię biegłego na temat planowanego połączenia, o ile uzyskanie opinii było wymagane, oraz plan połączenia, o ile został przygotowany i nie został wcześniej przedstawiony Komisji – w przypadku, o którym mowa w ust. 1 pkt 20;
-19) kopię uchwały o zamiarze podziału – w przypadku, o którym mowa w ust. 1 pkt 21;
-20) kopię uzgodnienia w sprawie planu podziału oraz kopię wniosku o ogłoszenie planu podziału we właściwym dzienniku urzędowym, jeżeli wniosek jest składany przez dostawcę usług finansowania społecznościowego, z potwierdzeniem daty jego złożenia, albo informację o dacie złożenia tego wniosku przez inną spółkę biorącą udział w podziale, jeżeli wniosek jest składany przez tę spółkę – w przypadku, o którym mowa w ust. 1 pkt 22;
-21) plan podziału wraz z dokumentami, o których mowa w art. 534 § 2 Kodeksu spółek handlowych – w przypadku, o którym mowa w ust. 1 pkt 23;
-22) kopię uchwały o podziale spółki, pisemną opinię biegłego na temat planowanego podziału, o ile uzyskanie opinii było wymagane, oraz plan podziału, o ile został przygotowany i nie został wcześniej przedstawiony Komisji – w przypadku, o którym mowa w ust. 1 pkt 24;
-23) kopię uchwały o przekształceniu w inną spółkę handlową oraz jeżeli jest wymagane sporządzenie planu przekształcenia, o którym mowa w art. 557 § 1 Kodeksu spółek handlowych, plan przekształcenia, o ile został przygotowany i nie został wcześniej przedstawiony Komisji, i pisemną opinię biegłego rewidenta na temat planu przekształcenia – w przypadku, o którym mowa w ust. 1 pkt 26;
-24) kopię uchwały o zmianie w kapitałach własnych – w przypadku, o którym mowa w ust. 1 pkt 27;
-25) kopię uchwały właściwego organu dostawcy usług finansowania społecznościowego o emisji dłużnych papierów wartościowych – w przypadku, o którym mowa w ust. 1 pkt 28;
-26) kopię pisma firmy audytorskiej sporządzonego na prośbę dostawcy usług finansowania społecznościowego i adresowanego do Komisji, w którym firma audytorska potwierdza lub nie potwierdza przekazanych informacji – w przypadku, o którym mowa w ust. 1 pkt 30;
-27) kopię uchwały o zatwierdzeniu albo odmowie zatwierdzenia sprawozdania finansowego za ubiegły rok obrotowy – w przypadku, o którym mowa w ust. 1 pkt 31;
-28) kopię zawiadomienia o uzasadnionym podejrzeniu popełnienia przestępstwa w związku z prowadzoną działalnością jako dostawca usług finansowania społecznościowego, jeżeli jest w posiadaniu dokumentu zawiadomienia – w przypadku, o którym mowa w ust. 1 pkt 34;
-29) kopię wyroku albo postanowienia sądu lub decyzji administracyjnej, po uprawomocnieniu się tych orzeczeń lub gdy decyzja stanie się ostateczna – w przypadkach, o których mowa w ust. 1 pkt 35 i 36;
-30) kopię uchwały o sposobie podziału zysku za ubiegły rok obrotowy – w przypadku, o którym mowa w ust. 1 pkt 40;
-31) kopię uchwały o odmowie udzielenia albo nieudzieleniu absolutorium członkowi organu zarządzającego lub nadzorującego dostawcy usług finansowania społecznościowego – w przypadku, o którym mowa w ust. 1 pkt 41;
-32) kopię decyzji dotyczącej dalszej działalności dostawcy usług finansowania społecznościowego, jeżeli taka decyzja została podjęta – w przypadku, o którym mowa w ust. 1 pkt 42.
-3. Przepisy ust. 1 pkt 17–26 oraz ust. 2 pkt 15–23 stosuje się odpowiednio w przypadkach połączenia transgranicznego, podziału transgranicznego lub przekształcenia transgranicznego dostawcy usług finansowania społecznościowego.
-4. Dostawca usług finansowania społecznościowego będący podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503, przekazuje Komisji:
-1) wyłącznie informacje, o których mowa w ust. 1 pkt 2, 32 i 37–39;
-2) informacje o zmianach danych zawartych we wniosku o udzielenie zezwolenia na prowadzenie działalności jako dostawca usług finansowania społecznościowego, o których mowa w pkt 5 ppkt 1 lit. a–d i g, w pkt 13 – w zakresie, w jakim dotyczą osoby faktycznie kierującej działalnością jako dostawca usług finansowania społecznościowego, i w pkt 17 ppkt 1 załącznika do rozporządzenia 2022/2112.
-§ 4. 1. Dostawca usług finansowania społecznościowego świadczący usługę, o której mowa w art. 2 ust. 1 lit. a ppkt (ii) rozporządzenia 2020/1503, przekazuje Komisji, za każdy kwartał roku kalendarzowego, informacje o projektach opartych na finansowaniu społecznościowym objętych tą usługą, w zakresie określonym w załączniku nr 25 do rozporządzenia.
-2. W przypadku gdy dostawca usług finansowania społecznościowego nie rozpoczął działalności z początkiem kwartału, przekazuje informacje za okres od dnia rozpoczęcia działalności do końca kwartału, w którym rozpoczął działalność.
-§ 5. 1. Dostawca usług finansowania społecznościowego świadczący usługę indywidualnego zarządzania portfelem pożyczek przekazuje Komisji, za każdy kwartał roku kalendarzowego, informacje o istotnych zmianach albo o braku takich zmian dotyczące:
-1) systemów i mechanizmów kontroli:
-a) o których mowa w art. 4 ust. 2 akapit drugi rozporządzenia 2020/1503, przyjętych na potrzeby zarządzania ryzykiem i modelowania finansowego w odniesieniu do tej usługi,
-b) o których mowa w art. 4 ust. 2 akapit drugi rozporządzenia 2020/1503, zapewniających przestrzeganie wymogów określonych w art. 6 ust. 1–3 rozporządzenia 2020/1503,
-c) zapewniających dostarczanie inwestorom informacji, o których mowa w art. 6 ust. 4 rozporządzenia 2020/1503,
-d) o których mowa w art. 4 ust. 2 rozporządzenia 2020/1503, zapewniających zarządzanie portfelem pożyczek zgodnie z parametrami przedstawionymi przez inwestorów oraz podejmowanie kroków w celu uzyskania możliwie najlepszego wyniku dla tych inwestorów,
-2) procesu decyzyjnego, o którym mowa w art. 3 ust. 4 rozporządzenia 2020/1503, w zakresie wykonania otrzymanych pełnomocnictw dotyczących indywidualnego zarządzania portfelem pożyczek,
-3) polityk, procedur i zasad organizacyjnych, o których mowa w rozdziale IV rozporządzenia delegowanego Komisji (UE) 2022/2118 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych w zakresie indywidualnego zarządzania portfelem pożyczek przez dostawców usług finansowania społecznościowego, określającego elementy metody stosowanej do oceny ryzyka kredytowego, informacje dotyczące każdego indywidualnego portfela, które należy ujawnić inwestorom, oraz polityki i procedury wymagane w odniesieniu do funduszy zabezpieczających (Dz. Urz. UE L 287 z 08.11.2022, str. 50),
-4) wyników funduszu zabezpieczającego – w zakresie określonym w załączniku nr 26 do rozporządzenia.
-2. W przypadku gdy dostawca usług finansowania społecznościowego nie rozpoczął działalności z początkiem kwartału, przekazuje dane za okres od dnia rozpoczęcia działalności do końca kwartału, w którym rozpoczął działalność.
-§ 6. 1. Dostawca usług finansowania społecznościowego przekazuje Komisji, za każde półrocze roku kalendarzowego, informacje o prowadzonej przez niego działalności dotyczące:
-1) podstawowych informacji o dostawcy usług finansowania społecznościowego,
-2) kontroli wewnętrznej w zakresie zgodności działalności z prawem,
-3) prowadzenia ksiąg rachunkowych,
-4) zasad postępowania z informacjami poufnymi lub stanowiącymi tajemnicę zawodową,
-5) reklamacji w rozumieniu art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2023 r. poz. 1809, 1723 i 1843 oraz z 2024 r. poz. 731), złożonych przez klientów,
-6) zabezpieczenia i archiwizacji dokumentów związanych z prowadzoną działalnością,
-7) eksploatowanego oprogramowania,
-8) obowiązujących umów outsourcingu w rozumieniu art. 9 rozporządzenia 2020/1503,
-9) nowych lub zmienionych regulacji wewnętrznych,
-10) zidentyfikowanych konfliktów interesów,
-11) informacji o osobach trzecich i osobach prawnych, które są istotne z punktu widzenia usług świadczonych przez dostawców usług finansowania społecznościowego i które mogą być przedmiotem wymiany między organami nadzoru, zgodnie z art. 2 rozporządzenia delegowanego Komisji (UE) 2022/2113 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych dotyczących wymiany informacji między właściwymi organami w związku z prowadzeniem czynności wyjaśniających, nadzorczych i związanych z egzekwowaniem prawa w odniesieniu do europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych (Dz. Urz. UE L 287 z 08.11.2022, str. 22) – w zakresie określonym w załączniku nr 27 do rozporządzenia.
-2. W przypadku gdy dostawca usług finansowania społecznościowego świadczy usługę ułatwiania udzielania pożyczek, przekazuje Komisji, za każde półrocze roku kalendarzowego, również informacje dotyczące:
-1) pożyczek udzielonych przez inwestorów,
-2) działalności związanej z administracją udzielonych pożyczek,
-3) działalności związanej z indywidualnym zarządzaniem portfelem pożyczek,
-4) pożyczek, które nie są obsługiwane przez pożyczkobiorców – w zakresie określonym w załączniku nr 28 do rozporządzenia.
-3. Dostawca usług finansowania społecznościowego będący podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503, przekazuje Komisji, za każde półrocze roku kalendarzowego, informacje o prowadzonej przez niego działalności określone w ust. 1 wyłącznie w zakresie, w jakim dotyczą jego działalności jako dostawcy usług finansowania społecznościowego.
-4. W przypadku gdy dostawca usług finansowania społecznościowego rozpoczął działalność, a w przypadku dostawcy usług finansowania społecznościowego będącego podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503 – świadczenie usługi finansowania społecznościowego, w maju, czerwcu, listopadzie albo grudniu, informacje przekazuje za okres od dnia rozpoczęcia działalności albo świadczenia usług do końca półrocza następującego po półroczu, w którym rozpoczął działalność albo świadczenie usług.
-§ 7. Dostawca usług finansowania społecznościowego świadczący usługę indywidualnego zarządzania portfelem pożyczek przekazuje Komisji informacje o istotnych zmianach, które nastąpiły w poprzednim roku kalendarzowym, w zakresie:
-1) modelu biznesowego prowadzonej działalności;
-2) funkcji związanych ze świadczeniem usługi indywidualnego zarządzania portfelem pożyczek, które zostały zlecone osobom trzecim, oraz zasad zarządzania ryzykiem związanym z takim zleceniem;
-3) wzorów pełnomocnictw, o których mowa w art. 6 ust. 1 rozporządzenia 2020/1503, udzielanych przez inwestora;
-4) procesów i metod wewnętrznych, o których mowa w art. 6 ust. 2 rozporządzenia 2020/1503;
-5) środków ograniczania ryzyka, o których mowa w art. 6 ust. 4 lit. e rozporządzenia 2020/1503, których dostawca usług finansowania społecznościowego wymaga od właścicieli projektów, oraz rozwiązań służących zapewnieniu dywersyfikacji portfela pożyczek w celu uniknięcia ryzyka nadmiernej koncentracji względem pojedynczego pożyczkobiorcy.
-§ 8. Dostawca usług finansowania społecznościowego świadczący usługę ułatwiania udzielania pożyczek przekazuje Komisji informacje o zmianach w zakresie danych zawartych we wniosku o udzielenie zezwolenia na prowadzenie działalności jako dostawca usług finansowania społecznościowego, o których mowa w pkt 5 ppkt 1 lit. e i f oraz ppkt 2 i 3, pkt 6 ppkt 2–4, pkt 7–11, 14, 16, 18 i 19 załącznika do rozporządzenia 2022/2112, które nastąpiły w poprzednim roku kalendarzowym.
-§ 9. Dostawca usług finansowania społecznościowego przekazuje Komisji informacje o wynikach przeglądu, o którym mowa w art. 4 ust. 3 rozporządzenia 2020/1503, w zakresie:
-1) ostrożnościowych środków ochrony, o których mowa w art. 12 ust. 2 lit. h rozporządzenia 2020/1503;
-2) planu ciągłości działania, o którym mowa w art. 12 ust. 2 lit. j rozporządzenia 2020/1503.
-§ 10. Dostawca usług finansowania społecznościowego, z wyłączeniem dostawcy usług finansowania społecznościowego będącego podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503, przekazuje Komisji, za każdy kwartał roku kalendarzowego, informacje o jego sytuacji finansowej dotyczące:
-1) aktywów,
-2) pasywów,
-3) rachunku zysków i strat,
-4) należności przeterminowanych,
-5) zobowiązań przeterminowanych,
-6) przewidywanego niespełnienia wymogów ostrożnościowych określonych w rozporządzeniu 2020/1503,
-7) wybranych danych dotyczących wymogów ostrożnościowych, o których mowa w art. 11 ust. 1 rozporządzenia 2020/1503, oraz działalności w zakresie świadczenia usług finansowania społecznościowego – w zakresie określonym w załączniku nr 29 do rozporządzenia.
-§ 11. 1. Dostawca usług finansowania społecznościowego, z wyłączeniem dostawcy usług finansowania społecznościowego będącego podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503, przekazuje Komisji, za każdy rok kalendarzowy, informacje dotyczące:
-1) aktywów,
-2) pasywów,
-3) rachunku zysków i strat,
-4) zestawienia zmian w kapitale (funduszu) własnym,
-5) rachunku przepływów pieniężnych – w zakresie określonym w załączniku nr 30 do rozporządzenia.
-2. Dostawca usług finansowania społecznościowego dołącza do informacji, o których mowa w ust. 1:
-1) roczne sprawozdanie finansowe zbadane przez firmę audytorską;
-2) sprawozdanie z badania rocznego sprawozdania finansowego;
-3) sprawozdanie z działalności, o którym mowa w art. 49 ust. 1 ustawy o rachunkowości.
-§ 12. Dostawca usług finansowania społecznościowego wraz z przekazaniem Komisji informacji wskazuje dane osoby sporządzającej informacje:
-1) imię i nazwisko;
-2) stanowisko lub funkcję;
-3) dane kontaktowe (telefon, e-mail).
-§ 13. 1. Dostawca usług finansowania społecznościowego przekazuje Komisji informacje, o których mowa w:
-1) § 3 ust. 1 i 4, w terminie 3 dni roboczych od dnia wystąpienia zdarzenia, z którym wiąże się obowiązek przekazania informacji, albo uzyskania informacji o takim zdarzeniu;
-2) § 4 ust. 1 i § 5 ust. 1, w terminie 20 dni od dnia zakończenia kwartału roku kalendarzowego;
-3) § 6 ust. 1 i 2, w terminie 6 tygodni od dnia zakończenia półrocza roku kalendarzowego;
-4) § 7 i § 8, w terminie 3 miesięcy od dnia zakończenia roku kalendarzowego;
-5) § 9, w terminie 3 dni roboczych od dnia dokonaniu przeglądu, o którym mowa w art. 4 ust. 3 rozporządzenia 2020/1503;
-6) § 10, w terminie 20 dni od dnia zakończenia kwartału;
-7) § 11 ust. 1:
-a) niezwłocznie po zakończeniu badania sprawozdania finansowego przez biegłego rewidenta, nie później jednak niż na 15 dni przed terminem zwyczajnego walnego zgromadzenia dokonującego zatwierdzenia sprawozdania finansowego, albo
-b) niezwłocznie po zakończeniu badania – w przypadku gdy opinia o badanym sprawozdaniu jest opinią z zastrzeżeniem, opinią negatywną albo biegły rewident odstąpił od wydania opinii.
-2. W przypadku gdy naruszenie wymogów ostrożnościowych utrzymuje się dłużej niż dzień, dostawca usług finansowania społecznościowego przekazuje informacje, o których mowa w § 3 ust. 1 pkt 33, za każdy dzień roboczy, w którym występuje naruszenie wymogów ostrożnościowych, w dniu roboczym następującym po dniu, którego dotyczą informacje.
-§ 14. Rozporządzenie ma zastosowanie po raz pierwszy do:
-1) zdarzeń, z którymi wiąże się obowiązek przekazania informacji, które wystąpiły lub o których dostawca usług finansowania społecznościowego powziął informację od dnia wejścia w życie rozporządzenia;
-2) informacji przekazywanych za okresy, z którymi wiąże się obowiązek przekazania informacji, rozpoczynające się w 2024 r., dla których termin przekazania przypada od dnia wejścia w życie rozporządzenia.
-§ 15. Do informacji przekazywanych za okresy, z którymi wiąże się obowiązek przekazania informacji, rozpoczęte w 2023 r., dla których termin przekazania przypada od dnia wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
-§ 16. Rozporządzenie wchodzi w życie z dniem 1 czerwca 2024 r.
-Minister Finansów: A. Domański ZAKRES INFORMACJI O WYKUPIENIU POLISY UBEZPIECZENIOWEJ ZALICZANEJ DO OSTROŻNOŚCIOWYCH ŚRODKÓW OCHRONY ZGODNIE Z ART. 11 UST. 2 LIT. B ROZPORZĄDZENIA 2020/1503
-1) data wykupienia polisy ubezpieczeniowej;
-2) wysokość sumy gwarancyjnej;
-3) okres obowiązywania polisy ubezpieczeniowej.
-ZAKRES INFORMACJI O PODJĘCIU DECYZJI O ZWOŁANIU ZGROMADZENIA WSPÓLNIKÓW DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO W ZWIĄZKU Z WYKAZANIEM W SPRAWOZDANIU FINANSOWYM STRATY PRZEWYŻSZAJĄCEJ SUMĘ KAPITAŁÓW ZAPASOWEGO I REZERWOWYCH ORAZ POŁOWY KAPITAŁU ZAKŁADOWEGO ALBO O ZWOŁANIU WALNEGO ZGROMADZENIA DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO W ZWIĄZKU Z WYKAZANIEM W BILANSIE STRATY PRZEWYŻSZAJĄCEJ SUMĘ KAPITAŁÓW ZAPASOWEGO I REZERWOWYCH ORAZ JEDNEJ TRZECIEJ KAPITAŁU ZAKŁADOWEGO
-1) wysokość bieżącej straty netto (w PLN);
-2) wysokość niepokrytej straty z lat ubiegłych (w PLN);
-3) wysokość kapitału zakładowego (w PLN);
-4) wysokość kapitału zapasowego (w PLN);
-5) wysokość kapitałów rezerwowych (w PLN);
-6) data zgromadzenia wspólników albo walnego zgromadzenia;
-7) porządek obrad zgromadzenia wspólników albo walnego zgromadzenia.
-ZAKRES INFORMACJI O OTWARCIU LIKWIDACJI
-1) imiona i nazwiska likwidatorów;
-2) status prawny likwidatorów, przez wskazanie, czy likwidator jest:
-a) wspólnikiem,
-b) członkiem zarządu / dyrektorem,
-c) osobą powołaną uchwałą wspólników albo walnego zgromadzenia,
-d) osobą wybraną zgodnie z umową spółki albo ze statutem,
-e) osobą ustanowioną przez sąd;
-3) dane adresowe:
-a) państwo,
-b) kod pocztowy,
-c) miejscowość,
-d) ulica,
-e) numer budynku / numer lokalu;
-4) sposób reprezentacji spółki przez likwidatorów.
-ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O ZAMIARZE POŁĄCZENIA Z INNYM PODMIOTEM
-1) organ dostawcy usług finansowania społecznościowego, który podjął uchwałę o zamiarze połączenia z innym podmiotem;
-2) data podjęcia uchwały o zamiarze połączenia z innym podmiotem;
-3) podmiot, z którym jest planowane połączenie:
-a) firma (nazwa),
-b) siedziba,
-c) dane adresowe: – kod pocztowy, – ulica, – numer budynku / numer lokalu,
-d) sąd rejonowy,
-e) numer właściwego rejestru, pod którym ten podmiot jest zarejestrowany w tym rejestrze,
-f) przedmiot działalności;
-4) przyczyny podjęcia uchwały o zamiarze połączenia z innym podmiotem;
-5) przewidywana data połączenia z innym podmiotem.
-ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O POŁĄCZENIU Z INNYM PODMIOTEM
-1) data podjęcia uchwały o połączeniu z innym podmiotem;
-2) podmiot, z którym następuje połączenie:
-a) firma (nazwa),
-b) siedziba,
-c) dane adresowe: – kod pocztowy, – ulica, – numer budynku / numer lokalu,
-d) sąd rejonowy,
-e) numer właściwego rejestru, pod którym ten podmiot jest zarejestrowany w tym rejestrze,
-f) przedmiot działalności;
-3) przyczyny podjęcia uchwały o połączeniu z innym podmiotem;
-4) rodzaj połączenia;
-5) przewidywane skutki ekonomiczne połączenia;
-6) dzień bilansowy, na który sporządzono sprawozdanie finansowe będące podstawą dokonania połączenia;
-7) data zgłoszenia połączenia do właściwego rejestru.
-ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O ZAMIARZE PODZIAŁU
-1) organ dostawcy usług finansowania społecznościowego, który podjął uchwałę o zamiarze podziału;
-2) data podjęcia uchwały o zamiarze podziału;
-3) spółki zamierzające uczestniczyć w podziale:
-a) firma (nazwa),
-b) siedziba,
-c) dane adresowe: – kod pocztowy, – ulica, – numer budynku / numer lokalu,
-d) sąd rejonowy,
-e) numer właściwego rejestru, pod którym spółka jest zarejestrowana w tym rejestrze,
-f) przedmiot działalności;
-4) przyczyny podjęcia uchwały o zamiarze podziału;
-5) przewidywana data podziału.
-ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O PODZIALE SPÓŁKI BĘDĄCEJ DOSTAWCĄ USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO
-1) data podjęcia uchwały o podziale spółki;
-2) podmiot uczestniczący w podziale:
-a) firma (nazwa),
-b) siedziba,
-c) dane adresowe: – kod pocztowy, – ulica, – numer budynku / numer lokalu,
-d) sąd rejonowy,
-f) numer właściwego rejestru, pod którym ten podmiot jest zarejestrowany w tym rejestrze,
-g) przedmiot działalności;
-3) przewidywane skutki ekonomiczne podziału;
-4) dzień bilansowy, na który sporządzono sprawozdanie finansowe będące podstawą dokonania podziału;
-5) data zgłoszenia podziału do właściwego rejestru.
-ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O ZAMIARZE PRZEKSZTAŁCENIA W INNĄ SPÓŁKĘ HANDLOWĄ
-1) organ dostawcy usług finansowania społecznościowego, który podjął uchwałę o zamiarze przekształcenia w inną spółkę handlową;
-2) data podjęcia uchwały o zamiarze przekształcenia w inną spółkę handlową;
-3) rodzaj przekształcenia;
-4) przyczyny podjęcia uchwały o zamiarze przekształcenia w inną spółkę handlową;
-5) przewidywana data przekształcenia.
-ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O PRZEKSZTAŁCENIU W INNĄ SPÓŁKĘ HANDLOWĄ
-1) data podjęcia uchwały o przekształceniu w inną spółkę handlową;
-2) przyczyny podjęcia uchwały o przekształceniu w inną spółkę handlową;
-3) rodzaj przekształcenia;
-4) przewidywane skutki ekonomiczne przekształcenia;
-5) dzień bilansowy, na który sporządzono sprawozdanie finansowe będące podstawą dokonania przekształcenia;
-6) data zgłoszenia przekształcenia do właściwego rejestru.
-ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O ZMIANIE W KAPITAŁACH WŁASNYCH
-1) organ dostawcy usług finansowania społecznościowego, który podjął uchwałę o zmianie w kapitałach własnych;
-2) data podjęcia uchwały o zmianie w kapitałach własnych;
-3) przyczyny podjęcia uchwały o zmianie w kapitałach własnych;
-4) rodzaj i sposób zmiany kapitałów własnych;
-5) przewidywany termin zmiany w kapitałach własnych;
-6) wartość, o jaką kapitały własne ulegną zmianie (w PLN).
-ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O EMISJI DŁUŻNYCH PAPIERÓW WARTOŚCIOWYCH
-1) emisja dłużnych papierów wartościowych:
-a) organ podmiotu, który podjął uchwałę o emisji,
-b) data podjęcia uchwały o emisji,
-c) przewidywany termin wykonania uchwały o emisji,
-d) wielkość emisji,
-e) sposób wykonywania emisji,
-f) liczba serii lub transz,
-g) przewidywany termin sprzedaży,
-h) wartość nominalna papierów wartościowych (w PLN),
-i) cena emisyjna papierów wartościowych (w PLN),
-j) przewidywana łączna wartość wpływów z emisji (w PLN),
-k) warunki wykupu papierów wartościowych,
-l) warunki oprocentowania papierów wartościowych,
-m) świadczenia niepieniężne przewidziane w warunkach emisji,
-n) cel emisji;
-2) zabezpieczenia emisji dłużnych papierów wartościowych:
-a) gwarancja,
-b) zabezpieczenia inne niż gwarancja,
-c) wielkość przewidywanych zabezpieczeń,
-d) firma (nazwa) podmiotu udzielającego gwarancji lub zabezpieczenia innego niż gwarancja,
-e) suma kapitałów (funduszy) własnych podmiotu, o którym mowa w lit. d, wykazana w bilansie za ostatni rok obrotowy (w PLN);
-3) podmioty, do których jest kierowana emisja:
-a) firma (nazwa),
-b) dane adresowe: – państwo, – kod pocztowy, – miejscowość, – ulica, – numer budynku / numer lokalu;
-4) stan po upływie terminu sprzedaży emisji papierów wartościowych, kolejnych serii lub transz:
-a) wysokość zrealizowanych wpływów pieniężnych (w PLN),
-b) wysokość zobowiązań podmiotu z tytułu emisji (w PLN),
-c) wielkość uzyskanych zabezpieczeń.
-ZAKRES INFORMACJI O ZAWARCIU Z FIRMĄ AUDYTORSKĄ UMOWY O BADANIE SPRAWOZDAŃ FINANSOWYCH
-1) firma (nazwa) firmy audytorskiej;
-2) dane adresowe:
-a) kod pocztowy,
-b) miejscowość,
-c) ulica,
-d) numer budynku / numer lokalu;
-3) numer wpisu na listę firm audytorskich;
-4) data zawarcia umowy z firmą audytorską;
-5) czy dostawca usług finansowania społecznościowego korzystał w przeszłości z usług tej firmy audytorskiej ;
-6) okres, na jaki została zawarta umowa;
-7) organ dostawcy usług finansowania społecznościowego, który dokonał wyboru firmy audytorskiej;
-8) data zawarcia umowy;
-9) data rozwiązania umowy.
-–––––––––––––––––– ZAKRES INFORMACJI O WYPOWIEDZENIU ALBO ROZWIĄZANIU PRZEZ DOSTAWCĘ USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO ALBO FIRMĘ AUDYTORSKĄ UMOWY O BADANIE SPRAWOZDAŃ FINANSOWYCH
-1) data zawarcia umowy o badanie sprawozdań finansowych, która została wypowiedziana („umowa”);
-2) strona, która wypowiedziała albo rozwiązała umowę;
-3) organy dostawcy usług finansowania społecznościowego, które zalecały lub akceptowały wypowiedzenie albo rozwiązanie umowy;
-4) skutki finansowe wypowiedzenia albo rozwiązania umowy;
-5) wcześniejsza rezygnacja z wyrażania opinii, opinii negatywnych lub opinii z zastrzeżeniami o prawidłowości i rzetelności sprawozdań finansowych dostawcy usług finansowania społecznościowego, wydanych przez firmę audytorską, której dotyczy wypowiedzenie albo rozwiązanie umowy;
-6) rozbieżności pomiędzy zarządem dostawcy usług finansowania społecznościowego a firmą audytorską, której dotyczy wypowiedzenie albo rozwiązanie umowy, co do interpretacji i stosowania przepisów prawa lub postanowień statutu dotyczących przedmiotu badania, z zaznaczeniem sposobu ich rozstrzygnięcia.
-ZAKRES INFORMACJI O NARUSZENIU ZASAD ŚWIADCZENIA USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO, OKREŚLONYCH W PRZEPISACH ROZPORZĄDZENIA 2020/1503, PRZEPISACH WYDANYCH NA PODSTAWIE ROZPORZĄDZENIA 2020/1503 ORAZ W USTAWIE
-1) data lub okres naruszenia zasad świadczenia usług finansowania społecznościowego;
-2) data wykrycia naruszenia;
-3) istota naruszenia;
-4) rodzaj działań podjętych w związku z wykryciem naruszenia.
-ZAKRES INFORMACJI O NARUSZENIU WYMOGÓW OSTROŻNOŚCIOWYCH, O KTÓRYCH MOWA W ART. 11 ROZPORZĄDZENIA 2020/1503
-1) naruszenie:
-a) data powstania naruszenia,
-b) wartość kosztów stałych (w PLN),
-c) wartość wymogu, o którym mowa w art. 11 ust. 1 lit. b rozporządzenia 2020/1503 (w PLN),
-d) wartość wymogu ostrożnościowego (w PLN),
-e) wysokość sumy gwarancyjnej (w PLN),
-f) wartość środków własnych (w PLN),
-g) wartość ostrożnościowych środków ochrony (w PLN),
-h) niedobór ostrożnościowych środków ochrony w stosunku do wymogu określonego w art. 11 ust. 1 rozporządzenia 2020/1503 (w PLN);
-2) przyczyny naruszenia;
-3) działania, jakie dostawca usług finansowania społecznościowego zamierza podjąć w celu przywrócenia stanu zgodnego z wymogami ostrożnościowymi – w odniesieniu do pierwszego dnia utrzymywania się naruszenia, a następnie wyłącznie w przypadku zmiany planowanych działań;
-4) przewidywany termin zaprzestania naruszania wymogu określonego w art. 11 ust. 1 rozporządzenia 2020/1503.
-ZAKRES INFORMACJI O UZYSKANIU INFORMACJI O WSZCZĘCIU PRZED ORGANEM ADMINISTRACJI PUBLICZNEJ LUB SĄDEM JEDNEGO LUB KILKU POSTĘPOWAŃ DOTYCZĄCYCH ZOBOWIĄZAŃ DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO, KTÓRYCH ŁĄCZNA WARTOŚĆ STANOWI CO NAJMNIEJ 10 % KAPITAŁÓW WŁASNYCH DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO
-1) organ administracji publicznej lub sąd, przed którymi wszczęto postępowanie;
-2) wysokość zobowiązań dochodzonych w postępowaniach przed sądem, w których wydano nieprawomocny wyrok albo postanowienie, lub w postępowaniach administracyjnych niezakończonych decyzją ostateczną;
-3) wierzyciele:
-a) imię i nazwisko albo firma (nazwa),
-b) dane adresowe: – kod pocztowy, – miejscowość, – ulica, – numer budynku / numer lokalu;
-4) przedmiot działalności wierzycieli;
-5) stosunki prawne, z których wynikają zobowiązania;
-6) powiązania gospodarcze, kapitałowe oraz osobowe wierzycieli z dostawcą usług finansowania społecznościowego.
-ZAKRES INFORMACJI O UZYSKANIU INFORMACJI O WSZCZĘCIU PRZED ORGANEM ADMINISTRACJI PUBLICZNEJ LUB SĄDEM JEDNEGO LUB KILKU POSTĘPOWAŃ DOTYCZĄCYCH WIERZYTELNOŚCI DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO, KTÓRYCH ŁĄCZNA WARTOŚĆ STANOWI CO NAJMNIEJ 10 % KAPITAŁÓW WŁASNYCH DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO
-1) organ administracji publicznej lub sąd, przed którymi wszczęto postępowanie;
-2) wysokość wierzytelności, do których są wliczane wierzytelności dostawcy usług finansowania społecznościowego dochodzone w postępowaniach przed sądem, w których wydano nieprawomocny wyrok albo postanowienie, lub w postępowaniach administracyjnych niezakończonych decyzją ostateczną;
-3) dłużnicy:
-a) imię i nazwisko albo firma (nazwa),
-b) dane adresowe: – kod pocztowy, – miejscowość, – ulica, – numer budynku / numer lokalu;
-4) przedmiot działalności dłużników;
-5) wysokość wierzytelności dostawcy usług finansowania społecznościowego;
-6) stosunki prawne, z których wynikają wierzytelności;
-7) powiązania gospodarcze, kapitałowe oraz osobowe dłużników z dostawcą usług finansowania społecznościowego.
-ZAKRES INFORMACJI O ZAMIARZE OGRANICZENIA LUB OGRANICZENIU DZIAŁALNOŚCI PROWADZONEJ JAKO DOSTAWCA USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO
-1) zamiar ograniczenia działalności albo ograniczenie działalności;
-2) tryb podjęcia decyzji o zamiarze ograniczenia lub ograniczeniu działalności;
-3) zakres usług finansowania społecznościowego, których świadczenia dostawca zamierza zaprzestać lub zaprzestał:
-a) ułatwianie udzielania pożyczek, w tym udostępnianie odpowiednich informacji, takich jak współczynniki niewykonania zobowiązań z tytułu pożyczki,
-b) subemisja bez gwarancji przejęcia emisji w odniesieniu do zbywalnych papierów wartościowych i instrumentów dopuszczonych na potrzeby finansowania społecznościowego oraz przyjmowanie i przekazywanie zleceń w odniesieniu do tych papierów wartościowych i instrumentów,
-c) indywidualne zarządzanie portfelem pożyczek,
-d) przechowywanie aktywów,
-e) usługi płatnicze,
-f) wykorzystanie spółek celowych do świadczenia usług finansowania społecznościowego,
-g) stosowanie punktowych ocen kredytowych do projektów opartych na finansowaniu społecznościowym,
-h) sugerowanie ceny lub wysokości oprocentowania ofert finansowania społecznościowego,
-i) prowadzenie tablicy ogłoszeń,
-j) tworzenie i prowadzenie funduszy zabezpieczających,
-k) inne usługi;
-4) przyczyny ograniczenia działalności;
-5) data ograniczenia lub planowanego ograniczenia działalności.
-ZAKRES INFORMACJI O ZAMIARZE REZYGNACJI LUB REZYGNACJI Z DZIAŁALNOŚCI PROWADZONEJ JAKO DOSTAWCA USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO
-1) zamiar rezygnacji albo rezygnacja z prowadzenia działalności;
-2) data podjęcia decyzji o zamiarze rezygnacji albo rezygnacji z prowadzenia działalności;
-3) tryb podjęcia decyzji o zamiarze rezygnacji albo rezygnacji z prowadzenia działalności;
-4) przyczyny rezygnacji z prowadzenia działalności;
-5) data zaprzestania albo planowanego zaprzestania prowadzenia działalności.
-ZAKRES INFORMACJI O PRZEKROCZENIU LIMITU, O KTÓRYM MOWA W ART. 1 UST. 2 LIT. C ROZPORZĄDZENIA 2020/1503
-1) data przekroczenia limitu;
-2) nazwa właściciela projektu, o którym mowa w art. 1 ust. 2 lit. c rozporządzenia 2020/1503;
-3) wysokość ekspozycji stanowiącej przekroczenie limitu wobec właściciela projektu (w PLN);
-4) nazwa projektu finansowania społecznościowego, którego realizacja spowodowała powstanie przekroczenia.
-ZAKRES INFORMACJI O PODJĘCIU PRZEZ ORGAN ZATWIERDZAJĄCY UCHWAŁY O SPOSOBIE PODZIAŁU ZYSKU ZA UBIEGŁY ROK OBROTOWY
-1) data podjęcia uchwały o sposobie podziału zysku;
-2) organ zatwierdzający, który podjął uchwałę o sposobie podziału zysku;
-3) sposób podziału zysku.
-ZAKRES INFORMACJI O ODMOWIE UDZIELENIA ALBO NIEUDZIELENIU ABSOLUTORIUM CZŁONKOWI ORGANU ZARZĄDZAJĄCEGO LUB NADZORUJĄCEGO
-1) data podjęcia uchwały o odmowie udzielenia albo o nieudzieleniu absolutorium członkowi organu zarządzającego lub nadzorującego;
-2) powód odmowy udzielenia albo nieudzielenia absolutorium członkowi organu zarządzającego lub nadzorującego;
-3) imię i nazwisko oraz stanowisko lub funkcja osoby, której odmówiono udzielenia albo nie udzielono absolutorium.
-ZAKRES INFORMACJI O ZDARZENIACH SKUTKUJĄCYCH OGRANICZENIEM ALBO ZNIESIENIEM ZAMIARU KONTYNUOWANIA DZIAŁALNOŚCI PROWADZONEJ JAKO DOSTAWCA USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO W DAJĄCEJ SIĘ PRZEWIDZIEĆ PRZYSZŁOŚCI ZGODNIE Z ART. 5 USTAWY Z DNIA 29 WRZEŚNIA 1994 R. O RACHUNKOWOŚCI
-1) zdarzenie skutkujące ograniczeniem lub zniesieniem zamiaru kontynuowania działalności prowadzonej jako dostawca usług finansowania społecznościowego;
-2) planowane decyzje dotyczące dalszej działalności dostawcy usług finansowania społecznościowego.
-ZAKRES INFORMACJI O USTANOWIENIU FUNDUSZU ZABEZPIECZAJĄCEGO, O KTÓRYM MOWA W ART. 6 UST. 5 ROZPORZĄDZENIA 2020/1503
-1) data ustanowienia funduszu zabezpieczającego;
-2) imiona i nazwiska osób odpowiedzialnych za zarządzanie funduszem zabezpieczającym;
-3) data, od której wskazane osoby są odpowiedzialne za zarządzanie funduszem zabezpieczającym;
-4) czy fundusz zabezpieczający zawarł ostrzeżenie o ryzyku zgodnie z art. 6 ust. 5 lit. a rozporządzenia 2020/1503;
-5) polityka funduszu zabezpieczającego, w tym:
-a) wskazanie źródła środków pieniężnych wpłaconych do funduszu,
-b) opis sposobu zarządzania funduszem,
-c) wyjaśnienie, do kogo należą środki pieniężne,
-d) przesłanki podejmowania przez podmiot zarządzający funduszem decyzji o dokonaniu wypłaty z funduszu, w tym: – dysponowanie środkami pieniężnymi wystarczającymi do dokonania wypłaty, – swoboda decyzyjna podmiotu zarządzającego funduszem co do wysokości kwoty wypłaty albo odmowy jej dokonania,
-e) opis trybu i sposobu dokonywania analizy dotyczącej dokonania uznaniowej wypłaty z funduszu,
-f) opis sposobu, w jaki środki pieniężne wpłacone do funduszu będą traktowane w przypadku niewypłacalności podmiotu zarządzającego funduszem;
-6) polityki, procedury i zasady organizacyjne, o których mowa w rozdziale IV rozporządzenia delegowanego Komisji (UE) 2022/2118 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych w zakresie indywidualnego zarządzania portfelem pożyczek przez dostawców usług finansowania społecznościowego, określającego elementy metody stosowanej do oceny ryzyka kredytowego, informacje dotyczące każdego indywidualnego portfela, które należy ujawnić inwestorom, oraz polityki i procedury wymagane w odniesieniu do funduszy zabezpieczających (Dz. Urz. UE L 287 z 08.11.2022, str. 50):
-a) zasady organizacyjne,
-b) polityka zarządzania,
-c) polityka finansowania,
-d) polityka dotycząca wypłat,
-e) polityka ciągłości działania,
-f) przejrzystość i ujawnianie informacji inwestorom.
-ZAKRES INFORMACJI PRZEKAZYWANYCH ZA KAŻDY KWARTAŁ ROKU KALENDARZOWEGO PRZEZ DOSTAWCĘ USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO ŚWIADCZĄCEGO USŁUGĘ, O KTÓREJ MOWA W ART. 2 UST. 1 LIT. A PPKT (II) ROZPORZĄDZENIA 2020/1503, O PROJEKTACH OPARTYCH NA FINANSOWANIU SPOŁECZNOŚCIOWYM OBJĘTYCH TĄ USŁUGĄ
-1) firma (nazwa) albo imię i nazwisko właściciela projektu;
-2) identyfikator właściciela projektu ;
-3) unikatowy identyfikator oferty ;
-4) sektor ;
-5) czy projekt doszedł do skutku;
-6) kwota pozyskana od :
-a) inwestora niedoświadczonego ,
-b) inwestora doświadczonego niebędącego klientem profesjonalnym ,
-c) inwestora doświadczonego będącego klientem profesjonalnym ,
-d) właściciela projektu;
-7) liczba inwestorów :
-a) inwestor niedoświadczony ,
-b) inwestor doświadczony niebędący klientem profesjonalnym ,
-c) inwestor doświadczony będący klientem profesjonalnym ,
-d) właściciel projektu;
-8) czy w informacjach skierowanych do potencjalnych inwestorów została zawarta informacja, z której wynika, że inwestycja :
-a) jest zrównoważona,
-b) bierze pod uwagę czynniki zrównoważonego rozwoju,
-c) uwzględnia ryzyko dla zrównoważonego rozwoju;
-9) wynagrodzenie otrzymane od właściciela projektu ;
-10) dodatkowe informacje .
-ZAKRES INFORMACJI PRZEKAZYWANYCH ZA KAŻDY KWARTAŁ ROKU KALENDARZOWEGO PRZEZ DOSTAWCĘ USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO ŚWIADCZĄCEGO USŁUGĘ INDYWIDUALNEGO ZARZĄDZANIA PORTFELEM POŻYCZEK O ISTOTNYCH ZMIANACH ALBO O BRAKU TAKICH ZMIAN W ZAKRESIE SYSTEMÓW I MECHANIZMÓW KONTROLI, PROCESU DECYZYJNEGO, POLITYK, PROCEDUR I ZASAD ORGANIZACYJNYCH ORAZ WYNIKÓW FUNDUSZU ZABEZPIECZAJĄCEGO
-1) systemy i mechanizmy kontroli:
-a) o których mowa w art. 4 ust. 2 akapit drugi rozporządzenia 2020/1503, przyjęte na potrzeby zarządzania ryzykiem i modelowania finansowego w odniesieniu do tej usługi,
-b) o których mowa w art. 4 ust. 2 akapit drugi rozporządzenia 2020/1503, zapewniające przestrzeganie wymogów określonych w art. 6 ust. 1–3 rozporządzenia 2020/1503,
-c) zapewniające dostarczanie inwestorom informacji, o których mowa w art. 6 ust. 4 rozporządzenia 2020/1503,
-d) o których mowa w art. 4 ust. 2 rozporządzenia 2020/1503, zapewniające zarządzanie portfelem pożyczek zgodnie z parametrami przedstawionymi przez inwestorów oraz podejmowanie kroków w celu uzyskania możliwie najlepszego wyniku dla tych inwestorów;
-2) proces decyzyjny, o którym mowa w art. 3 ust. 4 rozporządzenia 2020/1503, w zakresie wykonania otrzymanych pełnomocnictw dotyczących indywidualnego zarządzania portfelem pożyczek;
-3) polityki, procedury i zasady organizacyjne, o których mowa w rozdziale IV rozporządzenia delegowanego Komisji (UE) 2022/2118 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych w zakresie indywidualnego zarządzania portfelem pożyczek przez dostawców usług finansowania społecznościowego, określającego elementy metody stosowanej do oceny ryzyka kredytowego, informacje dotyczące każdego indywidualnego portfela, które należy ujawnić inwestorom, oraz polityki i procedury wymagane w odniesieniu do funduszy zabezpieczających (Dz. Urz. UE L 287 z 08.11.2022, str. 50);
-4) wyniki funduszu zabezpieczającego:
-a) wielkość funduszu zabezpieczającego w porównaniu z całkowitymi kwotami należnymi z tytułu pożyczek objętych funduszem zabezpieczającym,
-b) stosunek wypłat z funduszu zabezpieczającego do całkowitych kwot należnych z tytułu pożyczek objętych funduszem zabezpieczającym.
-ZAKRES INFORMACJI O DZIAŁALNOŚCI DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO PRZEKAZYWANYCH ZA KAŻDE PÓŁROCZE ROKU KALENDARZOWEGO
-1) nazwy państw członkowskich, na których terytorium są świadczone usługi finansowania społecznościowego, według stanu na koniec danego półrocza;
-2) każdy przypadek, według stanu na koniec danego półrocza, rozwiązania z pracownikiem dostawcy umowy o pracę bez wypowiedzenia z winy pracownika (dotyczy również kontraktów menedżerskich):
-a) imię i nazwisko,
-b) stanowisko lub funkcja,
-c) data rozwiązania stosunku pracy,
-d) podstawy rozwiązania umowy;
-3) kontrola wewnętrzna w zakresie zgodności działalności z prawem:
-a) przedmiot kontroli,
-b) jednostka organizacyjna przeprowadzająca kontrolę,
-c) data rozpoczęcia kontroli,
-d) data zakończenia kontroli,
-e) obszar działalności będący przedmiotem kontroli,
-f) wykaz dokumentów i regulacji podlegających kontroli,
-g) stwierdzone naruszenia przepisów prawa,
-h) opis wydanych zaleceń,
-i) jednostka organizacyjna odpowiedzialna za realizację zaleceń,
-j) termin wykonania zaleceń,
-k) opis sposobu wykonania zaleceń,
-l) data wykonania zaleceń;
-4) prowadzenie ksiąg rachunkowych według stanu na koniec danego półrocza:
-a) zakładowy plan kont obowiązujący w danym półroczu,
-b) imię i nazwisko osoby odpowiedzialnej za prowadzenie ksiąg rachunkowych,
-c) czy prowadzenie ksiąg powierzono podmiotowi zewnętrznemu,
-d) imię i nazwisko osoby odpowiedzialnej za realizację umowy, na podstawie której prowadzenie ksiąg rachunkowych powierzono podmiotowi zewnętrznemu,
-e) firma (nazwa) podmiotu zewnętrznego, któremu powierzono prowadzenie ksiąg,
-f) data zawarcia umowy, na podstawie której prowadzenie ksiąg powierzono podmiotowi zewnętrznemu;
-5) zasady postępowania z informacjami poufnymi lub stanowiącymi tajemnicę zawodową, w przypadku zgłoszenia w danym półroczu przez pracowników do właściwej komórki wewnętrznej faktu utraty dokumentu, projektu dokumentu, jego kopii lub innego nośnika informacji, zawierającego informację poufną lub stanowiącą tajemnicę zawodową, dla każdego z takich zgłoszeń:
-a) opis zgłoszenia,
-b) wyniki postępowania wyjaśniającego dotyczącego tej utraty;
-6) reklamacje złożone przez klientów, w tym reklamacje dotyczące usług świadczonych przez podmioty trzecie na rzecz dostawcy usług finansowania społecznościowego:
-a) liczba reklamacji, które wpłynęły do podmiotu,
-b) liczba reklamacji w podziale na poniższe usługi : – ułatwianie udzielania pożyczek, – subemisja bez gwarancji przejęcia emisji oraz przyjmowanie i przekazywanie zleceń klientów, – przechowywanie aktywów, – płatnicze, – zarządzanie portfelem pożyczek, – inne usługi,
-c) liczba reklamacji w podziale na przedmiot: – reklamacje związane z procesem świadczenia usług finansowania społecznościowego , – reklamacje związane z systemami i rozwiązaniami technicznymi, – reklamacje związane z procedurami, regulaminami, warunkami umowy, kosztami i opłatami, – inne usługi,
-d) liczba reklamacji rozpatrzonych: – uwzględniających całkowicie roszczenia klientów, – uwzględniających częściowo roszczenia klientów, – nieuwzględniających roszczeń klientów,
-e) pięć reklamacji pod względem najwyższej wartości uznanych roszczeń klientów, które zostały rozpatrzone w danym półroczu, oraz reklamacji pozostałych : – usługa, której dotyczy reklamacja , – projekt oparty na finansowaniu społecznościowym, którego dotyczy reklamacja, – przedmiot reklamacji , – kwota roszczeń, które zgłosił klient w momencie składania reklamacji (w PLN), – kwota uznanych roszczeń – wypłacona lub do wypłaty (w PLN), – pozostałe ;
-7) zabezpieczenie i archiwizacja dokumentów związanych z prowadzoną działalnością:
-a) miejsce (siedziba lub oddział dostawcy / firma (nazwa) podmiotu zewnętrznego, na którego terenie znajduje się archiwum),
-b) dane adresowe: – kod pocztowy, – miejscowość, – ulica, – numer budynku / numer lokalu;
-8) systemy informatyczne:
-a) wykorzystywane oprogramowanie, w tym systemy wykorzystywane przez podmioty trzecie działające na rzecz dostawcy, o ile mają wpływ na świadczenie usług finansowania społecznościowego,
-b) system informatyczny objęty awarią,
-c) data awarii – od dnia – do dnia,
-d) przyczyny awarii,
-e) skutki awarii dla dostawcy i klientów,
-f) usługi, na których świadczenie wpłynęła awaria,
-g) działania podjęte w celu zapobieżenia awariom tego rodzaju w przyszłości;
-9) obowiązujące umowy outsourcingu w rozumieniu art. 9 rozporządzenia 2020/1503:
-a) liczba umów outsourcingu funkcji operacyjnych (stan na początek danego półrocza oraz stan na koniec tego półrocza),
-b) wykaz umów outsourcingu funkcji operacyjnych obowiązujących w danym półroczu: – firma (nazwa) podmiotu, z którym zawarto umowę outsourcingu funkcji operacyjnych, – państwo siedziby podmiotu, z którym zawarto umowę outsourcingu funkcji operacyjnych, – data zawarcia umowy, – data zmiany umowy, – data rozwiązania umowy, – rodzaj usługi stanowiący przedmiot umowy;
-10) nowe lub zmienione regulacje wewnętrzne w danym półroczu:
-a) nazwa i przedmiot regulacji,
-b) data przyjęcia,
-c) data wejścia w życie,
-d) regulacja zmieniona,
-e) regulacja nowa;
-11) konflikty interesów zidentyfikowane w danym półroczu:
-a) charakter i źródło konfliktu interesów,
-b) nazwa usługi, której dotyczy konflikt interesów,
-c) jednostki organizacyjne, których dotyczy konflikt interesów,
-d) działania podjęte w celu ograniczenia konfliktu interesów,
-e) data powstania konfliktu interesów;
-12) osoby trzecie, istotne z punktu widzenia usług świadczonych przez dostawcę (według oceny dostawcy – główni outsourcerzy lub kontrahenci), w przypadku których informacje mogą być przedmiotem wymiany między organami nadzoru, zgodnie z art. 2 rozporządzenia delegowanego Komisji (UE) 2022/2113 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych dotyczących wymiany informacji między właściwymi organami w związku z prowadzeniem czynności wyjaśniających, nadzorczych i związanych z egzekwowaniem prawa w odniesieniu do europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych (Dz. Urz. UE L 287 z 08.11.2022, str. 22), będące:
-a) osobami fizycznymi: – imię i nazwisko, – data urodzenia, – miejsce urodzenia, – numer identyfikacyjny (PESEL w przypadku obywateli polskich oraz osób innych niż obywatele polscy posiadających ten numer albo identyfikator cudzoziemca nadany w kraju jego pochodzenia wraz ze wskazaniem nazwy tego identyfikatora), – dane adresowe miejsca zamieszkania: – – państwo, – – kod pocztowy, – – miejscowość, – – ulica, – – numer budynku / numer lokalu, – dane kontaktowe (telefon, e-mail),
-b) osobami prawnymi: – firma (nazwa) osoby prawnej, – dane adresowe siedziby głównej lub siedziby statutowej osoby prawnej: – – państwo, – – kod pocztowy, – – miejscowość, – – ulica, – – numer budynku / numer lokalu, – dane adresowe do doręczeń, jeżeli się różni on od adresu siedziby głównej lub siedziby statutowej: – – państwo, – – kod pocztowy, – – miejscowość, – – ulica, – – numer budynku / numer lokalu, – dane kontaktowe (telefon, e-mail), – numer identyfikacyjny (REGON lub NIP w przypadku osób prawnych z siedzibą na terytorium Rzeczypospolitej Polskiej albo identyfikator zagranicznej osoby prawnej nadany w kraju jego siedziby wraz ze wskazaniem nazwy tego identyfikatora), – identyfikator podmiotu prawnego (kod LEI, jeżeli go posiada), – wykaz osób kierujących działalnością osoby prawnej: – – imiona i nazwiska, – – data urodzenia, – – miejsce urodzenia, – – numery identyfikacyjne (PESEL w przypadku obywateli polskich oraz osób innych niż obywatele polscy posiadających ten numer albo identyfikator cudzoziemca nadany w kraju jego pochodzenia wraz ze wskazaniem nazwy tego identyfikatora), – – dane adresowe miejsca zamieszkania: – – – państwo, – – – kod pocztowy, – – – miejscowość, – – – ulica, – – – numer budynku / numer lokalu, – – dane kontaktowe do tych osób (telefon, e-mail);
-13) struktura organizacyjna według stanu na początek oraz na koniec danego półrocza.
-ZAKRES INFORMACJI DOTYCZĄCYCH ŚWIADCZENIA USŁUGI UŁATWIANIA UDZIELANIA POŻYCZEK PRZEKAZYWANYCH ZA KAŻDE PÓŁROCZE ROKU KALENDARZOWEGO
-1) pożyczki udzielone przez inwestorów w danym półroczu:
-a) firma (nazwa) pożyczkobiorcy,
-b) forma prawna pożyczkobiorcy ,
-c) dane adresowe pożyczkobiorcy: – państwo , – kod pocztowy, – miejscowość, – ulica, – numer budynku / numer lokalu,
-d) REGON pożyczkodawcy albo jego ekwiwalent – w przypadku pożyczkodawcy mającego miejsce stałego zamieszkania w państwie innym niż Rzeczpospolita Polska,
-e) sektor, o którym mowa w pkt 4 tabeli nr 2 w załączniku do rozporządzenia wykonawczego Komisji (UE) 2022/2120 z dnia 13 lipca 2022 r. ustanawiającego wykonawcze standardy techniczne do celów stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do standardów i formatów danych, wzorów i procedur na potrzeby zgłaszania informacji dotyczących projektów finansowanych za pośrednictwem platform finansowania społecznościowego (Dz. Urz. UE L 287 z 08.11.2022, str. 76),
-f) data rozpoczęcia subskrypcji pożyczki (rok–miesiąc–dzień),
-g) data zakończenia subskrypcji pożyczki (rok–miesiąc–dzień),
-h) czy subskrypcja doszła do skutku,
-i) planowana data spłaty pożyczki – data zapadalności pożyczki (rok–miesiąc–dzień),
-j) waluta pożyczki według standardu ISO 4217 ,
-k) kurs waluty w PLN na dzień zamknięcia subskrypcji pożyczki – kwota i data (rok–miesiąc–dzień),
-l) sposób ustalania kursu walutowego, w przypadku gdy waluta, w której jest spłacana pożyczka, nie jest walutą, w której została udzielona pożyczka,
-m) docelowa kwota pożyczki określona przez właściciela projektu wraz z podaniem waluty, w jakiej została pozyskana,
-n) kwota pozyskana przez właściciela pożyczki wraz z podaniem waluty, w jakiej została pozyskana,
-o) typ stopy procentowej – stała (S) albo zmienna (Z),
-p) wysokość stopy procentowej w przypadku oprocentowania według stałej stopy (w %),
-q) stopa odniesienia, jeżeli stopa procentowa jest zmienna ,
-r) zależność miedzy stopą pożyczki a stopą zmienną (wskaźnik referencyjny 3M+5 %, jeżeli pożyczka jest oprocentowana według stopy zmiennej),
-s) liczba rat ,
-t) sposób ustalania rat pożyczki (sposób i terminy spłaty kapitału i odsetek, z uwzględnieniem informacji, czy raty są stałe, rosnące lub malejące, według określonego wzoru lub indywidualnego harmonogramu),
-u) czy istnieje możliwość wcześniejszej spłaty kredytu,
-v) liczba inwestorów, którzy udzielili kredytu pożyczkobiorcy, bez uwzględnienia zmian wynikających ze sprzedaży pożyczek przez inwestorów: – w tym pochodzących z zagranicy: – – kwota pozyskana od inwestorów pochodzących z zagranicy, – w tym liczba inwestorów pochodzących spoza Unii Europejskiej: – – kwota pozyskana od inwestorów pochodzących spoza Unii Europejskiej,
-w) liczba rezydentów amerykańskich w rozumieniu FATCA wśród inwestorów,
-x) liczba inwestorów niedoświadczonych,
-y) maksymalna kwota pożyczki w PLN udzielona przez pojedynczego inwestora niedoświadczonego,
-z) czy dostawca usług finansowania społecznościowego określił cenę oferty finansowania społecznościowego dla pożyczki, za) czy dostawca usług finansowania społecznościowego dokonał oceny ryzyka kredytowego pożyczki, zb) wynik oceny ryzyka kredytowego pożyczki przez dostawcę usług finansowania społecznościowego , zc) skala oceny ryzyka , zd) czy właściciel projektu spłacił w terminie poprzednio otrzymane kredyty lub pożyczki, ze) czy właściciel projektu jest osobowo lub organizacyjnie powiązany z podmiotem, który nie spłacił otrzymanych wcześniej kredytów lub pożyczek, zf) czy ustanowiono zabezpieczenie dla pożyczki, zg) forma zabezpieczenia , zh) kwoty poszczególnych zabezpieczeń wraz z rodzajem zabezpieczenia, zi) okres ważności zabezpieczenia , zj) inne ograniczenia skuteczności zabezpieczenia;
-2) działalność związana z administracją udzielonych pożyczek:
-a) liczba czynnych pożyczek udzielonych dzięki ułatwieniom dostarczonym przez platformę: – kwota czynnych pożyczek (kwota kapitału), – wycena pożyczek,
-b) liczba czynnych pożyczek, których termin spłaty minął: – kwota czynnych pożyczek, których termin spłaty minął, – kwota należnych odsetek dla pożyczek, których termin spłaty minął,
-c) liczba czynnych pożyczek, dla których odnotowano incydenty w spłacie : – kwota czynnych pożyczek (kwota kapitału), dla których odnotowano incydenty w spłacie,
-d) kwota zabezpieczeń pożyczek udzielonych przez pożyczkobiorców lub osoby trzecie: – w formie gwarancji bankowej, – w formie poręczenia, o którym mowa w art. 876 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U.
-z 2023 r. poz. 1610, z późn. zm.), – w formie przelewu wierzytelności, – w formie weksla, – w formie poręczenia wekslowego, – w formie przystąpienia do długu, – w formie zastawu, – w formie zastawu rejestrowego, – w formie hipoteki, – w formie kaucji, – w formie kaucji bankowej, – w formie przewłaszczenia na zabezpieczeniu, – w formie blokady środków na rachunku, – w formie ubezpieczenia kredytu, – w formie ubezpieczenia nieruchomości, – w formie oświadczenia o poddaniu się egzekucji, – inne ,
-e) historyczna stopa niewypłacalności za ostatnie 3 lata, – za ostatnie 12 miesięcy – okres [t-12; t], – w okresie poprzednim [t-24; t-13], – w okresie poprzednim [t-36; t-25],
-f) oczekiwana stopa niewypłacalności dla niespłaconych i niezapadłych pożyczek,
-g) wartość opłat i prowizji uiszczanych przez inwestorów w ciągu ostatniego roku,
-h) wartość opłat i prowizji uiszczanych przez właścicieli projektów w ciągu ostatniego roku,
-i) struktura portfela pożyczek: – kwota pożyczek o terminie zapadalności do roku: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności do 5 lat: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności powyżej 5 lat: – – w tym nieobsługiwanych;
-3) działalność związana z indywidualnym zarządzaniem portfelem pożyczek:
-a) liczba klientów, którzy zawarli umowę,
-b) liczba klientów, którzy zawarli umowę w okresie ostatnich 12 miesięcy,
-c) liczba klientów, którzy rozwiązali umowę w okresie ostatnich 12 miesięcy,
-d) kwota nominalna pożyczek z uwzględnieniem dokonanych spłat indywidualnych portfeli pożyczek zarządzanych przez dostawcę usług finansowania społecznościowego,
-e) wycena indywidualnych portfeli pożyczek ,
-f) kwota niespłacanych pożyczek: – kwota pożyczek, dla których występują incydenty w spłacie pożyczek (nieterminowa spłata),
-g) historyczna stopa niewypłacalności za ostatnie 3 lata: – za ostatnie 12 miesięcy – okres [t-12; t], – w okresie poprzednim [t-24; t-13], – w okresie poprzednim [t-36; t-25],
-h) oczekiwana stopa niewypłacalności dla niespłaconych i niezapadłych pożyczek ,
-i) kwota zabezpieczeń pożyczek udzielonych przez pożyczkobiorców lub osoby trzecie: – w formie gwarancji bankowej, – w formie poręczenia, o którym mowa w art. 876 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, – w formie przelewu wierzytelności, – w formie weksla, – w formie poręczenia wekslowego, – w formie przystąpienia do długu, – w formie zastawu, – w formie zastawu rejestrowego, – w formie hipoteki, – w formie kaucji, – w formie kaucji bankowej, – w formie przewłaszczenia na zabezpieczeniu, – w formie blokady środków na rachunku, – w formie ubezpieczenia kredytu, – w formie ubezpieczenia nieruchomości, – inne ,
-j) fundusz zabezpieczający, o którym mowa w art. 6 ust. 5 rozporządzenia 2020/1503: – łączna wartość kwot pozyskanych do funduszu w okresie ostatniego roku, – łączna wartość kwot wypłaconych z funduszu w okresie ostatniego roku, – wartość środków zgromadzonych w ramach funduszu według stanu na dzień zamknięcia subskrypcji pożyczki,
-k) wartość opłat i prowizji uiszczanych przez inwestorów w ostatnim roku,
-l) wartość opłat i prowizji uiszczanych przez właścicieli projektów w ostatnim roku,
-m) struktura portfela pożyczek: – kwota pożyczek o terminie zapadalności do roku: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności do 5 lat: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności powyżej 5 lat: – – w tym nieobsługiwanych;
-4) pożyczki, które nie są obsługiwane przez pożyczkobiorców, według stanu na ostatni dzień danego półrocza:
-a) właściciel projektu – firma (nazwa),
-b) nieobsługiwana kwota pożyczki,
-c) zaległa kwota odsetek,
-d) data, od której pożyczka nie jest spłacana (rok–miesiąc–dzień).
-ZAKRES INFORMACJI PRZEKAZYWANYCH PRZEZ DOSTAWCĘ USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO ZA KAŻDY KWARTAŁ ROKU KALENDARZOWEGO O JEGO SYTUACJI FINANSOWEJ
 1. Aktywa z tytułu odroczonego podatku dochodowego
 2. Inne rozliczenia międzyokresowe B. Aktywa obrotowe I. Zapasy II. Należności krótkoterminowe III. Inwestycje krótkoterminowe
 1. Krótkoterminowe aktywa finansowe
@@ -763,11 +193,642 @@ b) w pozostałych jednostkach – nabycie aktywów finansowych – udzielone po�
 
 #### Rozdział 1 Przepisy ogólne
 
+**§ 1.** Rozporządzenie określa:
+
+- **1)** szczegółowy zakres i terminy przekazywania Komisji Nadzoru Finansowego, zwanej dalej „Komisją”, informacji, o których mowa w art. 14 ust. 1 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom, zwanej dalej „ustawą”, przez dostawców usług finansowania społecznościowego;
+- **2)** dokumenty potwierdzające informacje, o których mowa w art. 14 ust. 1 ustawy.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** ustawie o rachunkowości – rozumie się przez to ustawę z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619);
+- **2)** organie zatwierdzającym – rozumie się przez to organ zatwierdzający w rozumieniu art. 3 ust. 1 pkt 7 ustawy o rachunkowości;
+- **3)** Kodeksie spółek handlowych – rozumie się przez to ustawę z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96);
+- **4)** rozporządzeniu 2020/1503 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. w sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniające rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1, z późn. zm. );
+- **5)** rozporządzeniu 2022/2112 – rozumie się przez to rozporządzenie delegowane Komisji (UE) 2022/2112 z dnia 13 lipca 2022 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych określających wymogi i zasady dotyczące wniosku o udzielenie zezwolenia na prowadzenie działalności jako dostawca usług finansowania społecznościowego (Dz. Urz. UE L 287 z 08.11.2022, str. 5).
+
 #### Rozdział 2 Zakres informacji przekazywanych Komisji oraz dokumenty potwierdzające te informacje
+
+**§ 3.**
+
+1. Dostawca usług finansowania społecznościowego przekazuje Komisji informacje o:
+
+- **1)** zmianach danych zawartych we wniosku o udzielenie zezwolenia na prowadzenie działalności jako dostawca usług finansowania społecznościowego, o których mowa w pkt 1, 3, 4, pkt 5 ppkt 1 lit. a–d i g, pkt 12, 13 oraz pkt 17 ppkt 1 załącznika do rozporządzenia 2022/2112;
+- **2)** dacie rozpoczęcia wykonywania poszczególnych czynności objętych zezwoleniem na prowadzenie działalności jako dostawca usług finansowania społecznościowego;
+- **3)** wykupieniu polisy ubezpieczeniowej zaliczanej do ostrożnościowych środków ochrony zgodnie z art. 11 ust. 2 lit. b rozporządzenia 2020/1503, w zakresie określonym w załączniku nr 1 do rozporządzenia;
+- **4)** dacie złożenia wniosku restrukturyzacyjnego;
+- **5)** dacie wydania przez sąd restrukturyzacyjny postanowienia o otwarciu albo odmowie otwarcia postępowania restrukturyzacyjnego dostawcy usług finansowania społecznościowego;
+- **6)** dacie złożenia wniosku o ogłoszenie upadłości dostawcy usług finansowania społecznościowego;
+- **7)** dacie wydania przez sąd upadłościowy postanowienia o ogłoszeniu upadłości albo oddaleniu wniosku o ogłoszenie upadłości dostawcy usług finansowania społecznościowego;
+- **8)** dacie wydania przez sąd upadłościowy postanowienia o umorzeniu albo uchyleniu postępowania upadłościowego dostawcy usług finansowania społecznościowego;
+- **9)** dacie wydania przez sąd upadłościowy postanowienia o zakończeniu postępowania upadłościowego dostawcy usług finansowania społecznościowego;
+- **10)** podjęciu decyzji o zwołaniu zgromadzenia wspólników dostawcy usług finansowania społecznościowego, w związku z wykazaniem w sprawozdaniu finansowym straty przewyższającej sumę kapitałów zapasowego i rezerwowych oraz połowy kapitału zakładowego, albo podjęciu decyzji o zwołaniu walnego zgromadzenia, w związku z wykazaniem w bilansie straty przewyższającej sumę kapitałów zapasowego i rezerwowych oraz jednej trzeciej kapitału zakładowego, w zakresie określonym w załączniku nr 2 do rozporządzenia;
+- **11)** dokonaniu obwieszczenia o ustaleniu dnia układowego w postępowaniu o zatwierdzenie układu;
+- **12)** dacie uchylenia skutków dokonania obwieszczenia o ustaleniu dnia układowego w postępowaniu o zatwierdzenie układu;
+- **13)** dacie złożenia propozycji układowej;
+- **14)** dacie wydania przez sąd restrukturyzacyjny postanowienia o zatwierdzeniu albo odmowie zatwierdzenia układu dostawcy usług finansowania społecznościowego oraz uchyleniu albo odmowie uchylenia układu;
+- **15)** dacie wystąpienia przyczyny powodującej rozwiązanie spółki będącej dostawcą usług finansowania społecznościowego;
+- **16)** otwarciu likwidacji, w zakresie określonym w załączniku nr 3 do rozporządzenia;
+- **17)** podjęciu uchwały o zamiarze połączenia z innym podmiotem, w zakresie określonym w załączniku nr 4 do rozporządzenia;
+- **18)** podpisaniu uzgodnienia w sprawie planu połączenia z innym podmiotem, o którym mowa w art. 498 Kodeksu spółek handlowych (plan połączenia);
+- **19)** dacie ogłoszenia planu połączenia lub jego bezpłatnego udostępnienia do publicznej wiadomości na stronie internetowej;
+- **20)** podjęciu uchwały o połączeniu z innym podmiotem, w zakresie określonym w załączniku nr 5 do rozporządzenia;
+- **21)** podjęciu uchwały o zamiarze podziału, w zakresie określonym w załączniku nr 6 do rozporządzenia;
+- **22)** podpisaniu uzgodnienia w sprawie planu podziału, o którym mowa w art. 533 § 1 Kodeksu spółek handlowych (plan podziału);
+- **23)** dacie ogłoszenia lub bezpłatnego udostępnienia do publicznej wiadomości na stronie internetowej planu podziału;
+- **24)** podjęciu uchwały o podziale spółki będącej dostawcą usług finansowania społecznościowego, w zakresie określonym w załączniku nr 7 do rozporządzenia;
+- **25)** podjęciu uchwały o zamiarze przekształcenia w inną spółkę handlową, w zakresie określonym w załączniku nr 8 do rozporządzenia;
+- **26)** podjęciu uchwały o przekształceniu w inną spółkę handlową, w zakresie określonym w załączniku nr 9 do rozporządzenia;
+- **27)** podjęciu uchwały o zmianie w kapitałach własnych, w zakresie określonym w załączniku nr 10 do rozporządzenia;
+- **28)** podjęciu uchwały o emisji dłużnych papierów wartościowych, w zakresie określonym w załączniku nr 11 do rozporządzenia;
+- **29)** zawarciu z firmą audytorską umowy o badanie sprawozdań finansowych, w zakresie określonym w załączniku nr 12 do rozporządzenia;
+- **30)** wypowiedzeniu albo rozwiązaniu przez dostawcę usług finansowania społecznościowego albo firmę audytorską umowy o badanie sprawozdań finansowych, w zakresie określonym w załączniku nr 13 do rozporządzenia;
+- **31)** dacie podjęcia przez organ zatwierdzający uchwały o zatwierdzeniu albo odmowie zatwierdzenia sprawozdania finansowego za ubiegły rok obrotowy;
+- **32)** naruszeniu zasad świadczenia usług finansowania społecznościowego, określonych w przepisach rozporządzenia 2020/1503, przepisach wydanych na podstawie rozporządzenia 2020/1503 oraz w ustawie, w zakresie określonym w załączniku nr 14 do rozporządzenia;
+- **33)** naruszeniu wymogów ostrożnościowych, o których mowa w art. 11 rozporządzenia 2020/1503, w zakresie określonym w załączniku nr 15 do rozporządzenia;
+- **34)** dacie złożenia zawiadomienia albo uzyskania informacji o złożeniu zawiadomienia o uzasadnionym podejrzeniu popełnienia przestępstwa w związku z prowadzoną działalnością jako dostawca usług finansowania społecznościowego;
+- **35)** uzyskaniu informacji o wszczęciu przed organem administracji publicznej lub sądem jednego lub kilku postępowań dotyczących zobowiązań dostawcy usług finansowania społecznościowego, których łączna wartość stanowi co najmniej 10 % kapitałów własnych dostawcy usług finansowania społecznościowego, w zakresie określonym w załączniku nr 16 do rozporządzenia;
+- **36)** uzyskaniu informacji o wszczęciu przed organem administracji publicznej lub sądem jednego lub kilku postępowań dotyczących wierzytelności dostawcy usług finansowania społecznościowego, których łączna wartość stanowi co najmniej 10 % kapitałów własnych dostawcy usług finansowania społecznościowego, w zakresie określonym w załączniku nr 17 do rozporządzenia;
+- **37)** zamiarze ograniczenia lub ograniczeniu działalności prowadzonej jako dostawca usług finansowania społecznościowego, w zakresie określonym w załączniku nr 18 do rozporządzenia;
+- **38)** zamiarze rezygnacji lub rezygnacji z działalności prowadzonej jako dostawca usług finansowania społecznościowego, w zakresie określonym w załączniku nr 19 do rozporządzenia;
+- **39)** przekroczeniu limitu, o którym mowa w art. 1 ust. 2 lit. c rozporządzenia 2020/1503, w zakresie określonym w załączniku nr 20 do rozporządzenia;
+- **40)** podjęciu przez organ zatwierdzający uchwały o sposobie podziału zysku za ubiegły rok obrotowy, w zakresie określonym w załączniku nr 21 do rozporządzenia;
+- **41)** odmowie udzielenia albo nieudzieleniu absolutorium członkowi organu zarządzającego lub nadzorującego, w zakresie określonym w załączniku nr 22 do rozporządzenia;
+- **42)** zdarzeniach skutkujących ograniczeniem albo zniesieniem zamiaru kontynuowania działalności prowadzonej jako dostawca usług finansowania społecznościowego w dającej się przewidzieć przyszłości zgodnie z art. 5 ustawy o rachunkowości, w zakresie określonym w załączniku nr 23 do rozporządzenia;
+- **43)** ustanowieniu funduszu zabezpieczającego, o którym mowa w art. 6 ust. 5 rozporządzenia 2020/1503, w zakresie określonym w załączniku nr 24 do rozporządzenia.
+
+2. Dostawca usług finansowania społecznościowego dołącza do przekazywanych informacji:
+
+- **1)** kopię wykupionej polisy ubezpieczeniowej – w przypadku, o którym mowa w ust. 1 pkt 3;
+- **2)** kopię wniosku restrukturyzacyjnego – w przypadku, o którym mowa w ust. 1 pkt 4;
+- **3)** kopię postanowienia o otwarciu albo odmowie otwarcia postępowania restrukturyzacyjnego – w przypadku, o którym mowa w ust. 1 pkt 5;
+- **4)** kopię wniosku o ogłoszenie upadłości – w przypadku, o którym mowa w ust. 1 pkt 6;
+- **5)** kopię postanowienia o ogłoszeniu upadłości albo oddaleniu wniosku o ogłoszenie upadłości – w przypadku, o którym mowa w ust. 1 pkt 7;
+- **6)** kopię postanowienia o umorzeniu albo uchyleniu postępowania upadłościowego – w przypadku, o którym mowa w ust. 1 pkt 8;
+- **7)** kopię postanowienia o zakończeniu postępowania upadłościowego – w przypadku, o którym mowa w ust. 1 pkt 9;
+- **8)** projekt uchwały w sprawie dalszego istnienia dostawcy usług finansowania społecznościowego – w przypadku, o którym mowa w ust. 1 pkt 10;
+- **9)** kopię sprawozdania nadzorcy układu – w przypadku, o którym mowa w ust. 1 pkt 11;
+- **10)** kopię postanowienia o uchyleniu skutków dokonania obwieszczenia o ustaleniu dnia układowego – w przypadku, o którym mowa w ust. 1 pkt 12;
+- **11)** kopię propozycji układowej – w przypadku, o którym mowa w ust. 1 pkt 13;
+- **12)** kopię postanowienia o zatwierdzeniu albo odmowie zatwierdzenia układu albo uchyleniu albo odmowie uchylenia układu – w przypadku, o którym mowa w ust. 1 pkt 14;
+- **13)** kopię dokumentu potwierdzającego wystąpienie przyczyny rozwiązania spółki – w przypadku, o którym mowa w ust. 1 pkt 15;
+- **14)** kopie dokumentów stanowiących podstawę otwarcia likwidacji – w przypadku, o którym mowa w ust. 1 pkt 16;
+- **15)** kopię uchwały o zamiarze połączenia – w przypadku, o którym mowa w ust. 1 pkt 17;
+- **16)** kopię uzgodnienia w sprawie planu połączenia oraz kopię wniosku o ogłoszenie planu połączenia we właściwym dzienniku urzędowym, jeżeli wniosek jest składany przez dostawcę usług finansowania społecznościowego, z potwierdzeniem daty jego złożenia, albo informację o dacie złożenia tego wniosku przez inną spółkę biorącą udział w połączeniu, jeżeli wniosek jest składany przez tę spółkę – w przypadku, o którym mowa w ust. 1 pkt 18;
+- **17)** plan połączenia wraz z dokumentami, o których mowa w art. 499 § 2 Kodeksu spółek handlowych – w przypadku, o którym mowa w ust. 1 pkt 19;
+- **18)** kopię uchwały o połączeniu z innym podmiotem, pisemną opinię biegłego na temat planowanego połączenia, o ile uzyskanie opinii było wymagane, oraz plan połączenia, o ile został przygotowany i nie został wcześniej przedstawiony Komisji – w przypadku, o którym mowa w ust. 1 pkt 20;
+- **19)** kopię uchwały o zamiarze podziału – w przypadku, o którym mowa w ust. 1 pkt 21;
+- **20)** kopię uzgodnienia w sprawie planu podziału oraz kopię wniosku o ogłoszenie planu podziału we właściwym dzienniku urzędowym, jeżeli wniosek jest składany przez dostawcę usług finansowania społecznościowego, z potwierdzeniem daty jego złożenia, albo informację o dacie złożenia tego wniosku przez inną spółkę biorącą udział w podziale, jeżeli wniosek jest składany przez tę spółkę – w przypadku, o którym mowa w ust. 1 pkt 22;
+- **21)** plan podziału wraz z dokumentami, o których mowa w art. 534 § 2 Kodeksu spółek handlowych – w przypadku, o którym mowa w ust. 1 pkt 23;
+- **22)** kopię uchwały o podziale spółki, pisemną opinię biegłego na temat planowanego podziału, o ile uzyskanie opinii było wymagane, oraz plan podziału, o ile został przygotowany i nie został wcześniej przedstawiony Komisji – w przypadku, o którym mowa w ust. 1 pkt 24;
+- **23)** kopię uchwały o przekształceniu w inną spółkę handlową oraz jeżeli jest wymagane sporządzenie planu przekształcenia, o którym mowa w art. 557 § 1 Kodeksu spółek handlowych, plan przekształcenia, o ile został przygotowany i nie został wcześniej przedstawiony Komisji, i pisemną opinię biegłego rewidenta na temat planu przekształcenia – w przypadku, o którym mowa w ust. 1 pkt 26;
+- **24)** kopię uchwały o zmianie w kapitałach własnych – w przypadku, o którym mowa w ust. 1 pkt 27;
+- **25)** kopię uchwały właściwego organu dostawcy usług finansowania społecznościowego o emisji dłużnych papierów wartościowych – w przypadku, o którym mowa w ust. 1 pkt 28;
+- **26)** kopię pisma firmy audytorskiej sporządzonego na prośbę dostawcy usług finansowania społecznościowego i adresowanego do Komisji, w którym firma audytorska potwierdza lub nie potwierdza przekazanych informacji – w przypadku, o którym mowa w ust. 1 pkt 30;
+- **27)** kopię uchwały o zatwierdzeniu albo odmowie zatwierdzenia sprawozdania finansowego za ubiegły rok obrotowy – w przypadku, o którym mowa w ust. 1 pkt 31;
+- **28)** kopię zawiadomienia o uzasadnionym podejrzeniu popełnienia przestępstwa w związku z prowadzoną działalnością jako dostawca usług finansowania społecznościowego, jeżeli jest w posiadaniu dokumentu zawiadomienia – w przypadku, o którym mowa w ust. 1 pkt 34;
+- **29)** kopię wyroku albo postanowienia sądu lub decyzji administracyjnej, po uprawomocnieniu się tych orzeczeń lub gdy decyzja stanie się ostateczna – w przypadkach, o których mowa w ust. 1 pkt 35 i 36;
+- **30)** kopię uchwały o sposobie podziału zysku za ubiegły rok obrotowy – w przypadku, o którym mowa w ust. 1 pkt 40;
+- **31)** kopię uchwały o odmowie udzielenia albo nieudzieleniu absolutorium członkowi organu zarządzającego lub nadzorującego dostawcy usług finansowania społecznościowego – w przypadku, o którym mowa w ust. 1 pkt 41;
+- **32)** kopię decyzji dotyczącej dalszej działalności dostawcy usług finansowania społecznościowego, jeżeli taka decyzja została podjęta – w przypadku, o którym mowa w ust. 1 pkt 42.
+
+3. Przepisy ust. 1 pkt 17–26 oraz ust. 2 pkt 15–23 stosuje się odpowiednio w przypadkach połączenia transgranicznego, podziału transgranicznego lub przekształcenia transgranicznego dostawcy usług finansowania społecznościowego.
+
+4. Dostawca usług finansowania społecznościowego będący podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503, przekazuje Komisji:
+
+- **1)** wyłącznie informacje, o których mowa w ust. 1 pkt 2, 32 i 37–39;
+- **2)** informacje o zmianach danych zawartych we wniosku o udzielenie zezwolenia na prowadzenie działalności jako dostawca usług finansowania społecznościowego, o których mowa w pkt 5 ppkt 1 lit. a–d i g, w pkt 13 – w zakresie, w jakim dotyczą osoby faktycznie kierującej działalnością jako dostawca usług finansowania społecznościowego, i w pkt 17 ppkt 1 załącznika do rozporządzenia 2022/2112.
+
+**§ 4.**
+
+1. Dostawca usług finansowania społecznościowego świadczący usługę, o której mowa w art. 2 ust. 1 lit. a ppkt (ii) rozporządzenia 2020/1503, przekazuje Komisji, za każdy kwartał roku kalendarzowego, informacje o projektach opartych na finansowaniu społecznościowym objętych tą usługą, w zakresie określonym w załączniku nr 25 do rozporządzenia.
+
+2. W przypadku gdy dostawca usług finansowania społecznościowego nie rozpoczął działalności z początkiem kwartału, przekazuje informacje za okres od dnia rozpoczęcia działalności do końca kwartału, w którym rozpoczął działalność.
+
+**§ 5.**
+
+1. Dostawca usług finansowania społecznościowego świadczący usługę indywidualnego zarządzania portfelem pożyczek przekazuje Komisji, za każdy kwartał roku kalendarzowego, informacje o istotnych zmianach albo o braku takich zmian dotyczące:
+
+- **1)** systemów i mechanizmów kontroli:
+    - **a)** o których mowa w art. 4 ust. 2 akapit drugi rozporządzenia 2020/1503, przyjętych na potrzeby zarządzania ryzykiem i modelowania finansowego w odniesieniu do tej usługi,
+    - **b)** o których mowa w art. 4 ust. 2 akapit drugi rozporządzenia 2020/1503, zapewniających przestrzeganie wymogów określonych w art. 6 ust. 1–3 rozporządzenia 2020/1503,
+    - **c)** zapewniających dostarczanie inwestorom informacji, o których mowa w art. 6 ust. 4 rozporządzenia 2020/1503,
+    - **d)** o których mowa w art. 4 ust. 2 rozporządzenia 2020/1503, zapewniających zarządzanie portfelem pożyczek zgodnie z parametrami przedstawionymi przez inwestorów oraz podejmowanie kroków w celu uzyskania możliwie najlepszego wyniku dla tych inwestorów,
+
+- **2)** procesu decyzyjnego, o którym mowa w art. 3 ust. 4 rozporządzenia 2020/1503, w zakresie wykonania otrzymanych pełnomocnictw dotyczących indywidualnego zarządzania portfelem pożyczek,
+- **3)** polityk, procedur i zasad organizacyjnych, o których mowa w rozdziale IV rozporządzenia delegowanego Komisji (UE) 2022/2118 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych w zakresie indywidualnego zarządzania portfelem pożyczek przez dostawców usług finansowania społecznościowego, określającego elementy metody stosowanej do oceny ryzyka kredytowego, informacje dotyczące każdego indywidualnego portfela, które należy ujawnić inwestorom, oraz polityki i procedury wymagane w odniesieniu do funduszy zabezpieczających (Dz. Urz. UE L 287 z 08.11.2022, str. 50),
+- **4)** wyników funduszu zabezpieczającego – w zakresie określonym w załączniku nr 26 do rozporządzenia.
+
+2. W przypadku gdy dostawca usług finansowania społecznościowego nie rozpoczął działalności z początkiem kwartału, przekazuje dane za okres od dnia rozpoczęcia działalności do końca kwartału, w którym rozpoczął działalność.
+
+**§ 6.**
+
+1. Dostawca usług finansowania społecznościowego przekazuje Komisji, za każde półrocze roku kalendarzowego, informacje o prowadzonej przez niego działalności dotyczące:
+
+- **1)** podstawowych informacji o dostawcy usług finansowania społecznościowego,
+- **2)** kontroli wewnętrznej w zakresie zgodności działalności z prawem,
+- **3)** prowadzenia ksiąg rachunkowych,
+- **4)** zasad postępowania z informacjami poufnymi lub stanowiącymi tajemnicę zawodową,
+- **5)** reklamacji w rozumieniu art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2023 r. poz. 1809, 1723 i 1843 oraz z 2024 r. poz. 731), złożonych przez klientów,
+- **6)** zabezpieczenia i archiwizacji dokumentów związanych z prowadzoną działalnością,
+- **7)** eksploatowanego oprogramowania,
+- **8)** obowiązujących umów outsourcingu w rozumieniu art. 9 rozporządzenia 2020/1503,
+- **9)** nowych lub zmienionych regulacji wewnętrznych,
+- **10)** zidentyfikowanych konfliktów interesów,
+- **11)** informacji o osobach trzecich i osobach prawnych, które są istotne z punktu widzenia usług świadczonych przez dostawców usług finansowania społecznościowego i które mogą być przedmiotem wymiany między organami nadzoru, zgodnie z art. 2 rozporządzenia delegowanego Komisji (UE) 2022/2113 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych dotyczących wymiany informacji między właściwymi organami w związku z prowadzeniem czynności wyjaśniających, nadzorczych i związanych z egzekwowaniem prawa w odniesieniu do europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych (Dz. Urz. UE L 287 z 08.11.2022, str. 22) – w zakresie określonym w załączniku nr 27 do rozporządzenia.
+
+2. W przypadku gdy dostawca usług finansowania społecznościowego świadczy usługę ułatwiania udzielania pożyczek, przekazuje Komisji, za każde półrocze roku kalendarzowego, również informacje dotyczące:
+
+- **1)** pożyczek udzielonych przez inwestorów,
+- **2)** działalności związanej z administracją udzielonych pożyczek,
+- **3)** działalności związanej z indywidualnym zarządzaniem portfelem pożyczek,
+- **4)** pożyczek, które nie są obsługiwane przez pożyczkobiorców – w zakresie określonym w załączniku nr 28 do rozporządzenia.
+
+3. Dostawca usług finansowania społecznościowego będący podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503, przekazuje Komisji, za każde półrocze roku kalendarzowego, informacje o prowadzonej przez niego działalności określone w ust. 1 wyłącznie w zakresie, w jakim dotyczą jego działalności jako dostawcy usług finansowania społecznościowego.
+
+4. W przypadku gdy dostawca usług finansowania społecznościowego rozpoczął działalność, a w przypadku dostawcy usług finansowania społecznościowego będącego podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503 – świadczenie usługi finansowania społecznościowego, w maju, czerwcu, listopadzie albo grudniu, informacje przekazuje za okres od dnia rozpoczęcia działalności albo świadczenia usług do końca półrocza następującego po półroczu, w którym rozpoczął działalność albo świadczenie usług.
+
+**§ 7.** Dostawca usług finansowania społecznościowego świadczący usługę indywidualnego zarządzania portfelem pożyczek przekazuje Komisji informacje o istotnych zmianach, które nastąpiły w poprzednim roku kalendarzowym, w zakresie:
+
+- **1)** modelu biznesowego prowadzonej działalności;
+- **2)** funkcji związanych ze świadczeniem usługi indywidualnego zarządzania portfelem pożyczek, które zostały zlecone osobom trzecim, oraz zasad zarządzania ryzykiem związanym z takim zleceniem;
+- **3)** wzorów pełnomocnictw, o których mowa w art. 6 ust. 1 rozporządzenia 2020/1503, udzielanych przez inwestora;
+- **4)** procesów i metod wewnętrznych, o których mowa w art. 6 ust. 2 rozporządzenia 2020/1503;
+- **5)** środków ograniczania ryzyka, o których mowa w art. 6 ust. 4 lit. e rozporządzenia 2020/1503, których dostawca usług finansowania społecznościowego wymaga od właścicieli projektów, oraz rozwiązań służących zapewnieniu dywersyfikacji portfela pożyczek w celu uniknięcia ryzyka nadmiernej koncentracji względem pojedynczego pożyczkobiorcy.
+
+**§ 8.** Dostawca usług finansowania społecznościowego świadczący usługę ułatwiania udzielania pożyczek przekazuje Komisji informacje o zmianach w zakresie danych zawartych we wniosku o udzielenie zezwolenia na prowadzenie działalności jako dostawca usług finansowania społecznościowego, o których mowa w pkt 5 ppkt 1 lit. e i f oraz ppkt 2 i 3, pkt 6 ppkt 2–4, pkt 7–11, 14, 16, 18 i 19 załącznika do rozporządzenia 2022/2112, które nastąpiły w poprzednim roku kalendarzowym.
+
+**§ 9.** Dostawca usług finansowania społecznościowego przekazuje Komisji informacje o wynikach przeglądu, o którym mowa w art. 4 ust. 3 rozporządzenia 2020/1503, w zakresie:
+
+- **1)** ostrożnościowych środków ochrony, o których mowa w art. 12 ust. 2 lit. h rozporządzenia 2020/1503;
+- **2)** planu ciągłości działania, o którym mowa w art. 12 ust. 2 lit. j rozporządzenia 2020/1503.
+
+**§ 10.** Dostawca usług finansowania społecznościowego, z wyłączeniem dostawcy usług finansowania społecznościowego będącego podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503, przekazuje Komisji, za każdy kwartał roku kalendarzowego, informacje o jego sytuacji finansowej dotyczące:
+
+- **1)** aktywów,
+- **2)** pasywów,
+- **3)** rachunku zysków i strat,
+- **4)** należności przeterminowanych,
+- **5)** zobowiązań przeterminowanych,
+- **6)** przewidywanego niespełnienia wymogów ostrożnościowych określonych w rozporządzeniu 2020/1503,
+- **7)** wybranych danych dotyczących wymogów ostrożnościowych, o których mowa w art. 11 ust. 1 rozporządzenia 2020/1503, oraz działalności w zakresie świadczenia usług finansowania społecznościowego – w zakresie określonym w załączniku nr 29 do rozporządzenia.
+
+**§ 11.**
+
+1. Dostawca usług finansowania społecznościowego, z wyłączeniem dostawcy usług finansowania społecznościowego będącego podmiotem, o którym mowa w art. 11 ust. 3 lub 4 rozporządzenia 2020/1503, przekazuje Komisji, za każdy rok kalendarzowy, informacje dotyczące:
+
+- **1)** aktywów,
+- **2)** pasywów,
+- **3)** rachunku zysków i strat,
+- **4)** zestawienia zmian w kapitale (funduszu) własnym,
+- **5)** rachunku przepływów pieniężnych – w zakresie określonym w załączniku nr 30 do rozporządzenia.
+
+2. Dostawca usług finansowania społecznościowego dołącza do informacji, o których mowa w ust. 1:
+
+- **1)** roczne sprawozdanie finansowe zbadane przez firmę audytorską;
+- **2)** sprawozdanie z badania rocznego sprawozdania finansowego;
+- **3)** sprawozdanie z działalności, o którym mowa w art. 49 ust. 1 ustawy o rachunkowości.
+
+**§ 12.** Dostawca usług finansowania społecznościowego wraz z przekazaniem Komisji informacji wskazuje dane osoby sporządzającej informacje:
+
+- **1)** imię i nazwisko;
+- **2)** stanowisko lub funkcję;
+- **3)** dane kontaktowe (telefon, e-mail).
 
 #### Rozdział 3 Terminy przekazywania informacji
 
+**§ 13.**
+
+1. Dostawca usług finansowania społecznościowego przekazuje Komisji informacje, o których mowa w:
+
+- **1)** § 3 ust. 1 i 4, w terminie 3 dni roboczych od dnia wystąpienia zdarzenia, z którym wiąże się obowiązek przekazania informacji, albo uzyskania informacji o takim zdarzeniu;
+- **2)** § 4 ust. 1 i § 5 ust. 1, w terminie 20 dni od dnia zakończenia kwartału roku kalendarzowego;
+- **3)** § 6 ust. 1 i 2, w terminie 6 tygodni od dnia zakończenia półrocza roku kalendarzowego;
+- **4)** § 7 i § 8, w terminie 3 miesięcy od dnia zakończenia roku kalendarzowego;
+- **5)** § 9, w terminie 3 dni roboczych od dnia dokonaniu przeglądu, o którym mowa w art. 4 ust. 3 rozporządzenia 2020/1503;
+- **6)** § 10, w terminie 20 dni od dnia zakończenia kwartału;
+- **7)** § 11 ust. 1:
+    - **a)** niezwłocznie po zakończeniu badania sprawozdania finansowego przez biegłego rewidenta, nie później jednak niż na 15 dni przed terminem zwyczajnego walnego zgromadzenia dokonującego zatwierdzenia sprawozdania finansowego, albo
+    - **b)** niezwłocznie po zakończeniu badania – w przypadku gdy opinia o badanym sprawozdaniu jest opinią z zastrzeżeniem, opinią negatywną albo biegły rewident odstąpił od wydania opinii.
+
+2. W przypadku gdy naruszenie wymogów ostrożnościowych utrzymuje się dłużej niż dzień, dostawca usług finansowania społecznościowego przekazuje informacje, o których mowa w § 3 ust. 1 pkt 33, za każdy dzień roboczy, w którym występuje naruszenie wymogów ostrożnościowych, w dniu roboczym następującym po dniu, którego dotyczą informacje.
+
 #### Rozdział 4 Przepisy przejściowe i przepis końcowy
+
+**§ 14.** Rozporządzenie ma zastosowanie po raz pierwszy do:
+
+- **1)** zdarzeń, z którymi wiąże się obowiązek przekazania informacji, które wystąpiły lub o których dostawca usług finansowania społecznościowego powziął informację od dnia wejścia w życie rozporządzenia;
+- **2)** informacji przekazywanych za okresy, z którymi wiąże się obowiązek przekazania informacji, rozpoczynające się w 2024 r., dla których termin przekazania przypada od dnia wejścia w życie rozporządzenia.
+
+**§ 15.** Do informacji przekazywanych za okresy, z którymi wiąże się obowiązek przekazania informacji, rozpoczęte w 2023 r., dla których termin przekazania przypada od dnia wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
+
+**§ 16.** Rozporządzenie wchodzi w życie z dniem 1 czerwca 2024 r. Minister Finansów: A. Domański ZAKRES INFORMACJI O WYKUPIENIU POLISY UBEZPIECZENIOWEJ ZALICZANEJ DO OSTROŻNOŚCIOWYCH ŚRODKÓW OCHRONY ZGODNIE Z ART. 11 UST. 2 LIT. B ROZPORZĄDZENIA 2020/1503
+
+- **1)** data wykupienia polisy ubezpieczeniowej;
+- **2)** wysokość sumy gwarancyjnej;
+- **3)** okres obowiązywania polisy ubezpieczeniowej. ZAKRES INFORMACJI O PODJĘCIU DECYZJI O ZWOŁANIU ZGROMADZENIA WSPÓLNIKÓW DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO W ZWIĄZKU Z WYKAZANIEM W SPRAWOZDANIU FINANSOWYM STRATY PRZEWYŻSZAJĄCEJ SUMĘ KAPITAŁÓW ZAPASOWEGO I REZERWOWYCH ORAZ POŁOWY KAPITAŁU ZAKŁADOWEGO ALBO O ZWOŁANIU WALNEGO ZGROMADZENIA DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO W ZWIĄZKU Z WYKAZANIEM W BILANSIE STRATY PRZEWYŻSZAJĄCEJ SUMĘ KAPITAŁÓW ZAPASOWEGO I REZERWOWYCH ORAZ JEDNEJ TRZECIEJ KAPITAŁU ZAKŁADOWEGO
+- **1)** wysokość bieżącej straty netto (w PLN);
+- **2)** wysokość niepokrytej straty z lat ubiegłych (w PLN);
+- **3)** wysokość kapitału zakładowego (w PLN);
+- **4)** wysokość kapitału zapasowego (w PLN);
+- **5)** wysokość kapitałów rezerwowych (w PLN);
+- **6)** data zgromadzenia wspólników albo walnego zgromadzenia;
+- **7)** porządek obrad zgromadzenia wspólników albo walnego zgromadzenia. ZAKRES INFORMACJI O OTWARCIU LIKWIDACJI
+- **1)** imiona i nazwiska likwidatorów;
+- **2)** status prawny likwidatorów, przez wskazanie, czy likwidator jest:
+    - **a)** wspólnikiem,
+    - **b)** członkiem zarządu / dyrektorem,
+    - **c)** osobą powołaną uchwałą wspólników albo walnego zgromadzenia,
+    - **d)** osobą wybraną zgodnie z umową spółki albo ze statutem,
+    - **e)** osobą ustanowioną przez sąd;
+
+- **3)** dane adresowe:
+    - **a)** państwo,
+    - **b)** kod pocztowy,
+    - **c)** miejscowość,
+    - **d)** ulica,
+    - **e)** numer budynku / numer lokalu;
+
+- **4)** sposób reprezentacji spółki przez likwidatorów. ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O ZAMIARZE POŁĄCZENIA Z INNYM PODMIOTEM
+- **1)** organ dostawcy usług finansowania społecznościowego, który podjął uchwałę o zamiarze połączenia z innym podmiotem;
+- **2)** data podjęcia uchwały o zamiarze połączenia z innym podmiotem;
+- **3)** podmiot, z którym jest planowane połączenie:
+    - **a)** firma (nazwa),
+    - **b)** siedziba,
+    - **c)** dane adresowe: – kod pocztowy, – ulica, – numer budynku / numer lokalu,
+    - **d)** sąd rejonowy,
+    - **e)** numer właściwego rejestru, pod którym ten podmiot jest zarejestrowany w tym rejestrze,
+    - **f)** przedmiot działalności;
+
+- **4)** przyczyny podjęcia uchwały o zamiarze połączenia z innym podmiotem;
+- **5)** przewidywana data połączenia z innym podmiotem. ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O POŁĄCZENIU Z INNYM PODMIOTEM
+- **1)** data podjęcia uchwały o połączeniu z innym podmiotem;
+- **2)** podmiot, z którym następuje połączenie:
+    - **a)** firma (nazwa),
+    - **b)** siedziba,
+    - **c)** dane adresowe: – kod pocztowy, – ulica, – numer budynku / numer lokalu,
+    - **d)** sąd rejonowy,
+    - **e)** numer właściwego rejestru, pod którym ten podmiot jest zarejestrowany w tym rejestrze,
+    - **f)** przedmiot działalności;
+
+- **3)** przyczyny podjęcia uchwały o połączeniu z innym podmiotem;
+- **4)** rodzaj połączenia;
+- **5)** przewidywane skutki ekonomiczne połączenia;
+- **6)** dzień bilansowy, na który sporządzono sprawozdanie finansowe będące podstawą dokonania połączenia;
+- **7)** data zgłoszenia połączenia do właściwego rejestru. ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O ZAMIARZE PODZIAŁU
+- **1)** organ dostawcy usług finansowania społecznościowego, który podjął uchwałę o zamiarze podziału;
+- **2)** data podjęcia uchwały o zamiarze podziału;
+- **3)** spółki zamierzające uczestniczyć w podziale:
+    - **a)** firma (nazwa),
+    - **b)** siedziba,
+    - **c)** dane adresowe: – kod pocztowy, – ulica, – numer budynku / numer lokalu,
+    - **d)** sąd rejonowy,
+    - **e)** numer właściwego rejestru, pod którym spółka jest zarejestrowana w tym rejestrze,
+    - **f)** przedmiot działalności;
+
+- **4)** przyczyny podjęcia uchwały o zamiarze podziału;
+- **5)** przewidywana data podziału. ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O PODZIALE SPÓŁKI BĘDĄCEJ DOSTAWCĄ USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO
+- **1)** data podjęcia uchwały o podziale spółki;
+- **2)** podmiot uczestniczący w podziale:
+    - **a)** firma (nazwa),
+    - **b)** siedziba,
+    - **c)** dane adresowe: – kod pocztowy, – ulica, – numer budynku / numer lokalu,
+    - **d)** sąd rejonowy,
+    - **f)** numer właściwego rejestru, pod którym ten podmiot jest zarejestrowany w tym rejestrze,
+    - **g)** przedmiot działalności;
+
+- **3)** przewidywane skutki ekonomiczne podziału;
+- **4)** dzień bilansowy, na który sporządzono sprawozdanie finansowe będące podstawą dokonania podziału;
+- **5)** data zgłoszenia podziału do właściwego rejestru. ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O ZAMIARZE PRZEKSZTAŁCENIA W INNĄ SPÓŁKĘ HANDLOWĄ
+- **1)** organ dostawcy usług finansowania społecznościowego, który podjął uchwałę o zamiarze przekształcenia w inną spółkę handlową;
+- **2)** data podjęcia uchwały o zamiarze przekształcenia w inną spółkę handlową;
+- **3)** rodzaj przekształcenia;
+- **4)** przyczyny podjęcia uchwały o zamiarze przekształcenia w inną spółkę handlową;
+- **5)** przewidywana data przekształcenia. ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O PRZEKSZTAŁCENIU W INNĄ SPÓŁKĘ HANDLOWĄ
+- **1)** data podjęcia uchwały o przekształceniu w inną spółkę handlową;
+- **2)** przyczyny podjęcia uchwały o przekształceniu w inną spółkę handlową;
+- **3)** rodzaj przekształcenia;
+- **4)** przewidywane skutki ekonomiczne przekształcenia;
+- **5)** dzień bilansowy, na który sporządzono sprawozdanie finansowe będące podstawą dokonania przekształcenia;
+- **6)** data zgłoszenia przekształcenia do właściwego rejestru. ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O ZMIANIE W KAPITAŁACH WŁASNYCH
+- **1)** organ dostawcy usług finansowania społecznościowego, który podjął uchwałę o zmianie w kapitałach własnych;
+- **2)** data podjęcia uchwały o zmianie w kapitałach własnych;
+- **3)** przyczyny podjęcia uchwały o zmianie w kapitałach własnych;
+- **4)** rodzaj i sposób zmiany kapitałów własnych;
+- **5)** przewidywany termin zmiany w kapitałach własnych;
+- **6)** wartość, o jaką kapitały własne ulegną zmianie (w PLN). ZAKRES INFORMACJI O PODJĘCIU UCHWAŁY O EMISJI DŁUŻNYCH PAPIERÓW WARTOŚCIOWYCH
+- **1)** emisja dłużnych papierów wartościowych:
+    - **a)** organ podmiotu, który podjął uchwałę o emisji,
+    - **b)** data podjęcia uchwały o emisji,
+    - **c)** przewidywany termin wykonania uchwały o emisji,
+    - **d)** wielkość emisji,
+    - **e)** sposób wykonywania emisji,
+    - **f)** liczba serii lub transz,
+    - **g)** przewidywany termin sprzedaży,
+    - **h)** wartość nominalna papierów wartościowych (w PLN),
+    - **i)** cena emisyjna papierów wartościowych (w PLN),
+    - **j)** przewidywana łączna wartość wpływów z emisji (w PLN),
+    - **k)** warunki wykupu papierów wartościowych,
+    - **l)** warunki oprocentowania papierów wartościowych,
+    - **m)** świadczenia niepieniężne przewidziane w warunkach emisji,
+    - **n)** cel emisji;
+
+- **2)** zabezpieczenia emisji dłużnych papierów wartościowych:
+    - **a)** gwarancja,
+    - **b)** zabezpieczenia inne niż gwarancja,
+    - **c)** wielkość przewidywanych zabezpieczeń,
+    - **d)** firma (nazwa) podmiotu udzielającego gwarancji lub zabezpieczenia innego niż gwarancja,
+    - **e)** suma kapitałów (funduszy) własnych podmiotu, o którym mowa w lit. d, wykazana w bilansie za ostatni rok obrotowy (w PLN);
+
+- **3)** podmioty, do których jest kierowana emisja:
+    - **a)** firma (nazwa),
+    - **b)** dane adresowe: – państwo, – kod pocztowy, – miejscowość, – ulica, – numer budynku / numer lokalu;
+
+- **4)** stan po upływie terminu sprzedaży emisji papierów wartościowych, kolejnych serii lub transz: ZAKRES INFORMACJI O ZAWARCIU Z FIRMĄ AUDYTORSKĄ UMOWY O BADANIE SPRAWOZDAŃ FINANSOWYCH
+    - **a)** wysokość zrealizowanych wpływów pieniężnych (w PLN),
+    - **b)** wysokość zobowiązań podmiotu z tytułu emisji (w PLN),
+    - **c)** wielkość uzyskanych zabezpieczeń.
+
+- **1)** firma (nazwa) firmy audytorskiej;
+- **2)** dane adresowe:
+    - **a)** kod pocztowy,
+    - **b)** miejscowość,
+    - **c)** ulica,
+    - **d)** numer budynku / numer lokalu;
+
+- **3)** numer wpisu na listę firm audytorskich;
+- **4)** data zawarcia umowy z firmą audytorską;
+- **5)** czy dostawca usług finansowania społecznościowego korzystał w przeszłości z usług tej firmy audytorskiej ;
+- **6)** okres, na jaki została zawarta umowa;
+- **7)** organ dostawcy usług finansowania społecznościowego, który dokonał wyboru firmy audytorskiej;
+- **8)** data zawarcia umowy;
+- **9)** data rozwiązania umowy. –––––––––––––––––– ZAKRES INFORMACJI O WYPOWIEDZENIU ALBO ROZWIĄZANIU PRZEZ DOSTAWCĘ USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO ALBO FIRMĘ AUDYTORSKĄ UMOWY O BADANIE SPRAWOZDAŃ FINANSOWYCH
+- **1)** data zawarcia umowy o badanie sprawozdań finansowych, która została wypowiedziana („umowa”);
+- **2)** strona, która wypowiedziała albo rozwiązała umowę;
+- **3)** organy dostawcy usług finansowania społecznościowego, które zalecały lub akceptowały wypowiedzenie albo rozwiązanie umowy;
+- **4)** skutki finansowe wypowiedzenia albo rozwiązania umowy;
+- **5)** wcześniejsza rezygnacja z wyrażania opinii, opinii negatywnych lub opinii z zastrzeżeniami o prawidłowości i rzetelności sprawozdań finansowych dostawcy usług finansowania społecznościowego, wydanych przez firmę audytorską, której dotyczy wypowiedzenie albo rozwiązanie umowy;
+- **6)** rozbieżności pomiędzy zarządem dostawcy usług finansowania społecznościowego a firmą audytorską, której dotyczy wypowiedzenie albo rozwiązanie umowy, co do interpretacji i stosowania przepisów prawa lub postanowień statutu dotyczących przedmiotu badania, z zaznaczeniem sposobu ich rozstrzygnięcia. ZAKRES INFORMACJI O NARUSZENIU ZASAD ŚWIADCZENIA USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO, OKREŚLONYCH W PRZEPISACH ROZPORZĄDZENIA 2020/1503, PRZEPISACH WYDANYCH NA PODSTAWIE ROZPORZĄDZENIA 2020/1503 ORAZ W USTAWIE
+- **1)** data lub okres naruszenia zasad świadczenia usług finansowania społecznościowego;
+- **2)** data wykrycia naruszenia;
+- **3)** istota naruszenia;
+- **4)** rodzaj działań podjętych w związku z wykryciem naruszenia. ZAKRES INFORMACJI O NARUSZENIU WYMOGÓW OSTROŻNOŚCIOWYCH, O KTÓRYCH MOWA W ART. 11 ROZPORZĄDZENIA 2020/1503
+- **1)** naruszenie:
+    - **a)** data powstania naruszenia,
+    - **b)** wartość kosztów stałych (w PLN),
+    - **c)** wartość wymogu, o którym mowa w art. 11 ust. 1 lit. b rozporządzenia 2020/1503 (w PLN),
+    - **d)** wartość wymogu ostrożnościowego (w PLN),
+    - **e)** wysokość sumy gwarancyjnej (w PLN),
+    - **f)** wartość środków własnych (w PLN),
+    - **g)** wartość ostrożnościowych środków ochrony (w PLN),
+    - **h)** niedobór ostrożnościowych środków ochrony w stosunku do wymogu określonego w art. 11 ust. 1 rozporządzenia 2020/1503 (w PLN);
+
+- **2)** przyczyny naruszenia;
+- **3)** działania, jakie dostawca usług finansowania społecznościowego zamierza podjąć w celu przywrócenia stanu zgodnego z wymogami ostrożnościowymi – w odniesieniu do pierwszego dnia utrzymywania się naruszenia, a następnie wyłącznie w przypadku zmiany planowanych działań;
+- **4)** przewidywany termin zaprzestania naruszania wymogu określonego w art. 11 ust. 1 rozporządzenia 2020/1503. ZAKRES INFORMACJI O UZYSKANIU INFORMACJI O WSZCZĘCIU PRZED ORGANEM ADMINISTRACJI PUBLICZNEJ LUB SĄDEM JEDNEGO LUB KILKU POSTĘPOWAŃ DOTYCZĄCYCH ZOBOWIĄZAŃ DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO, KTÓRYCH ŁĄCZNA WARTOŚĆ STANOWI CO NAJMNIEJ 10 % KAPITAŁÓW WŁASNYCH DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO
+- **1)** organ administracji publicznej lub sąd, przed którymi wszczęto postępowanie;
+- **2)** wysokość zobowiązań dochodzonych w postępowaniach przed sądem, w których wydano nieprawomocny wyrok albo postanowienie, lub w postępowaniach administracyjnych niezakończonych decyzją ostateczną;
+- **3)** wierzyciele:
+    - **a)** imię i nazwisko albo firma (nazwa),
+    - **b)** dane adresowe: – kod pocztowy, – miejscowość, – ulica, – numer budynku / numer lokalu;
+
+- **4)** przedmiot działalności wierzycieli;
+- **5)** stosunki prawne, z których wynikają zobowiązania;
+- **6)** powiązania gospodarcze, kapitałowe oraz osobowe wierzycieli z dostawcą usług finansowania społecznościowego. ZAKRES INFORMACJI O UZYSKANIU INFORMACJI O WSZCZĘCIU PRZED ORGANEM ADMINISTRACJI PUBLICZNEJ LUB SĄDEM JEDNEGO LUB KILKU POSTĘPOWAŃ DOTYCZĄCYCH WIERZYTELNOŚCI DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO, KTÓRYCH ŁĄCZNA WARTOŚĆ STANOWI CO NAJMNIEJ 10 % KAPITAŁÓW WŁASNYCH DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO
+- **1)** organ administracji publicznej lub sąd, przed którymi wszczęto postępowanie;
+- **2)** wysokość wierzytelności, do których są wliczane wierzytelności dostawcy usług finansowania społecznościowego dochodzone w postępowaniach przed sądem, w których wydano nieprawomocny wyrok albo postanowienie, lub w postępowaniach administracyjnych niezakończonych decyzją ostateczną;
+- **3)** dłużnicy:
+    - **a)** imię i nazwisko albo firma (nazwa),
+    - **b)** dane adresowe: – kod pocztowy, – miejscowość, – ulica, – numer budynku / numer lokalu;
+
+- **4)** przedmiot działalności dłużników;
+- **5)** wysokość wierzytelności dostawcy usług finansowania społecznościowego;
+- **6)** stosunki prawne, z których wynikają wierzytelności;
+- **7)** powiązania gospodarcze, kapitałowe oraz osobowe dłużników z dostawcą usług finansowania społecznościowego. ZAKRES INFORMACJI O ZAMIARZE OGRANICZENIA LUB OGRANICZENIU DZIAŁALNOŚCI PROWADZONEJ JAKO DOSTAWCA USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO
+- **1)** zamiar ograniczenia działalności albo ograniczenie działalności;
+- **2)** tryb podjęcia decyzji o zamiarze ograniczenia lub ograniczeniu działalności;
+- **3)** zakres usług finansowania społecznościowego, których świadczenia dostawca zamierza zaprzestać lub zaprzestał:
+    - **a)** ułatwianie udzielania pożyczek, w tym udostępnianie odpowiednich informacji, takich jak współczynniki niewykonania zobowiązań z tytułu pożyczki,
+    - **b)** subemisja bez gwarancji przejęcia emisji w odniesieniu do zbywalnych papierów wartościowych i instrumentów dopuszczonych na potrzeby finansowania społecznościowego oraz przyjmowanie i przekazywanie zleceń w odniesieniu do tych papierów wartościowych i instrumentów,
+    - **c)** indywidualne zarządzanie portfelem pożyczek,
+    - **d)** przechowywanie aktywów,
+    - **e)** usługi płatnicze,
+    - **f)** wykorzystanie spółek celowych do świadczenia usług finansowania społecznościowego,
+    - **g)** stosowanie punktowych ocen kredytowych do projektów opartych na finansowaniu społecznościowym,
+    - **h)** sugerowanie ceny lub wysokości oprocentowania ofert finansowania społecznościowego,
+    - **i)** prowadzenie tablicy ogłoszeń,
+    - **j)** tworzenie i prowadzenie funduszy zabezpieczających,
+    - **k)** inne usługi;
+
+- **4)** przyczyny ograniczenia działalności;
+- **5)** data ograniczenia lub planowanego ograniczenia działalności. ZAKRES INFORMACJI O ZAMIARZE REZYGNACJI LUB REZYGNACJI Z DZIAŁALNOŚCI PROWADZONEJ JAKO DOSTAWCA USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO
+- **1)** zamiar rezygnacji albo rezygnacja z prowadzenia działalności;
+- **2)** data podjęcia decyzji o zamiarze rezygnacji albo rezygnacji z prowadzenia działalności;
+- **3)** tryb podjęcia decyzji o zamiarze rezygnacji albo rezygnacji z prowadzenia działalności;
+- **4)** przyczyny rezygnacji z prowadzenia działalności;
+- **5)** data zaprzestania albo planowanego zaprzestania prowadzenia działalności. ZAKRES INFORMACJI O PRZEKROCZENIU LIMITU, O KTÓRYM MOWA W ART. 1 UST. 2 LIT. C ROZPORZĄDZENIA 2020/1503
+- **1)** data przekroczenia limitu;
+- **2)** nazwa właściciela projektu, o którym mowa w art. 1 ust. 2 lit. c rozporządzenia 2020/1503;
+- **3)** wysokość ekspozycji stanowiącej przekroczenie limitu wobec właściciela projektu (w PLN);
+- **4)** nazwa projektu finansowania społecznościowego, którego realizacja spowodowała powstanie przekroczenia. ZAKRES INFORMACJI O PODJĘCIU PRZEZ ORGAN ZATWIERDZAJĄCY UCHWAŁY O SPOSOBIE PODZIAŁU ZYSKU ZA UBIEGŁY ROK OBROTOWY
+- **1)** data podjęcia uchwały o sposobie podziału zysku;
+- **2)** organ zatwierdzający, który podjął uchwałę o sposobie podziału zysku;
+- **3)** sposób podziału zysku. ZAKRES INFORMACJI O ODMOWIE UDZIELENIA ALBO NIEUDZIELENIU ABSOLUTORIUM CZŁONKOWI ORGANU ZARZĄDZAJĄCEGO LUB NADZORUJĄCEGO
+- **1)** data podjęcia uchwały o odmowie udzielenia albo o nieudzieleniu absolutorium członkowi organu zarządzającego lub nadzorującego;
+- **2)** powód odmowy udzielenia albo nieudzielenia absolutorium członkowi organu zarządzającego lub nadzorującego;
+- **3)** imię i nazwisko oraz stanowisko lub funkcja osoby, której odmówiono udzielenia albo nie udzielono absolutorium. ZAKRES INFORMACJI O ZDARZENIACH SKUTKUJĄCYCH OGRANICZENIEM ALBO ZNIESIENIEM ZAMIARU KONTYNUOWANIA DZIAŁALNOŚCI PROWADZONEJ JAKO DOSTAWCA USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO W DAJĄCEJ SIĘ PRZEWIDZIEĆ PRZYSZŁOŚCI ZGODNIE Z ART. 5 USTAWY Z DNIA 29 WRZEŚNIA 1994 R. O RACHUNKOWOŚCI
+- **1)** zdarzenie skutkujące ograniczeniem lub zniesieniem zamiaru kontynuowania działalności prowadzonej jako dostawca usług finansowania społecznościowego;
+- **2)** planowane decyzje dotyczące dalszej działalności dostawcy usług finansowania społecznościowego. ZAKRES INFORMACJI O USTANOWIENIU FUNDUSZU ZABEZPIECZAJĄCEGO, O KTÓRYM MOWA W ART. 6 UST. 5 ROZPORZĄDZENIA 2020/1503
+- **1)** data ustanowienia funduszu zabezpieczającego;
+- **2)** imiona i nazwiska osób odpowiedzialnych za zarządzanie funduszem zabezpieczającym;
+- **3)** data, od której wskazane osoby są odpowiedzialne za zarządzanie funduszem zabezpieczającym;
+- **4)** czy fundusz zabezpieczający zawarł ostrzeżenie o ryzyku zgodnie z art. 6 ust. 5 lit. a rozporządzenia 2020/1503;
+- **5)** polityka funduszu zabezpieczającego, w tym:
+    - **a)** wskazanie źródła środków pieniężnych wpłaconych do funduszu,
+    - **b)** opis sposobu zarządzania funduszem,
+    - **c)** wyjaśnienie, do kogo należą środki pieniężne,
+    - **d)** przesłanki podejmowania przez podmiot zarządzający funduszem decyzji o dokonaniu wypłaty z funduszu, w tym: – dysponowanie środkami pieniężnymi wystarczającymi do dokonania wypłaty, – swoboda decyzyjna podmiotu zarządzającego funduszem co do wysokości kwoty wypłaty albo odmowy jej dokonania,
+    - **e)** opis trybu i sposobu dokonywania analizy dotyczącej dokonania uznaniowej wypłaty z funduszu,
+    - **f)** opis sposobu, w jaki środki pieniężne wpłacone do funduszu będą traktowane w przypadku niewypłacalności podmiotu zarządzającego funduszem;
+
+- **6)** polityki, procedury i zasady organizacyjne, o których mowa w rozdziale IV rozporządzenia delegowanego Komisji (UE) 2022/2118 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych w zakresie indywidualnego zarządzania portfelem pożyczek przez dostawców usług finansowania społecznościowego, określającego elementy metody stosowanej do oceny ryzyka kredytowego, informacje dotyczące każdego indywidualnego portfela, które należy ujawnić inwestorom, oraz polityki i procedury wymagane w odniesieniu do funduszy zabezpieczających (Dz. Urz. UE L 287 z 08.11.2022, str. 50): ZAKRES INFORMACJI PRZEKAZYWANYCH ZA KAŻDY KWARTAŁ ROKU KALENDARZOWEGO PRZEZ DOSTAWCĘ USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO ŚWIADCZĄCEGO USŁUGĘ, O KTÓREJ MOWA W ART. 2 UST. 1 LIT. A PPKT (II) ROZPORZĄDZENIA 2020/1503, O PROJEKTACH OPARTYCH NA FINANSOWANIU SPOŁECZNOŚCIOWYM OBJĘTYCH TĄ USŁUGĄ
+    - **a)** zasady organizacyjne,
+    - **b)** polityka zarządzania,
+    - **c)** polityka finansowania,
+    - **d)** polityka dotycząca wypłat,
+    - **e)** polityka ciągłości działania,
+    - **f)** przejrzystość i ujawnianie informacji inwestorom.
+
+- **1)** firma (nazwa) albo imię i nazwisko właściciela projektu;
+- **2)** identyfikator właściciela projektu ;
+- **3)** unikatowy identyfikator oferty ;
+- **4)** sektor ;
+- **5)** czy projekt doszedł do skutku;
+- **6)** kwota pozyskana od :
+    - **a)** inwestora niedoświadczonego ,
+    - **b)** inwestora doświadczonego niebędącego klientem profesjonalnym ,
+    - **c)** inwestora doświadczonego będącego klientem profesjonalnym ,
+    - **d)** właściciela projektu;
+
+- **7)** liczba inwestorów :
+    - **a)** inwestor niedoświadczony ,
+    - **b)** inwestor doświadczony niebędący klientem profesjonalnym ,
+    - **c)** inwestor doświadczony będący klientem profesjonalnym ,
+    - **d)** właściciel projektu;
+
+- **8)** czy w informacjach skierowanych do potencjalnych inwestorów została zawarta informacja, z której wynika, że inwestycja :
+    - **a)** jest zrównoważona,
+    - **b)** bierze pod uwagę czynniki zrównoważonego rozwoju,
+    - **c)** uwzględnia ryzyko dla zrównoważonego rozwoju;
+
+- **9)** wynagrodzenie otrzymane od właściciela projektu ;
+- **10)** dodatkowe informacje . ZAKRES INFORMACJI PRZEKAZYWANYCH ZA KAŻDY KWARTAŁ ROKU KALENDARZOWEGO PRZEZ DOSTAWCĘ USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO ŚWIADCZĄCEGO USŁUGĘ INDYWIDUALNEGO ZARZĄDZANIA PORTFELEM POŻYCZEK O ISTOTNYCH ZMIANACH ALBO O BRAKU TAKICH ZMIAN W ZAKRESIE SYSTEMÓW I MECHANIZMÓW KONTROLI, PROCESU DECYZYJNEGO, POLITYK, PROCEDUR I ZASAD ORGANIZACYJNYCH ORAZ WYNIKÓW FUNDUSZU ZABEZPIECZAJĄCEGO
+- **1)** systemy i mechanizmy kontroli:
+    - **a)** o których mowa w art. 4 ust. 2 akapit drugi rozporządzenia 2020/1503, przyjęte na potrzeby zarządzania ryzykiem i modelowania finansowego w odniesieniu do tej usługi,
+    - **b)** o których mowa w art. 4 ust. 2 akapit drugi rozporządzenia 2020/1503, zapewniające przestrzeganie wymogów określonych w art. 6 ust. 1–3 rozporządzenia 2020/1503,
+    - **c)** zapewniające dostarczanie inwestorom informacji, o których mowa w art. 6 ust. 4 rozporządzenia 2020/1503,
+    - **d)** o których mowa w art. 4 ust. 2 rozporządzenia 2020/1503, zapewniające zarządzanie portfelem pożyczek zgodnie z parametrami przedstawionymi przez inwestorów oraz podejmowanie kroków w celu uzyskania możliwie najlepszego wyniku dla tych inwestorów;
+
+- **2)** proces decyzyjny, o którym mowa w art. 3 ust. 4 rozporządzenia 2020/1503, w zakresie wykonania otrzymanych pełnomocnictw dotyczących indywidualnego zarządzania portfelem pożyczek;
+- **3)** polityki, procedury i zasady organizacyjne, o których mowa w rozdziale IV rozporządzenia delegowanego Komisji (UE) 2022/2118 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych w zakresie indywidualnego zarządzania portfelem pożyczek przez dostawców usług finansowania społecznościowego, określającego elementy metody stosowanej do oceny ryzyka kredytowego, informacje dotyczące każdego indywidualnego portfela, które należy ujawnić inwestorom, oraz polityki i procedury wymagane w odniesieniu do funduszy zabezpieczających (Dz. Urz. UE L 287 z 08.11.2022, str. 50);
+- **4)** wyniki funduszu zabezpieczającego: ZAKRES INFORMACJI O DZIAŁALNOŚCI DOSTAWCY USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO PRZEKAZYWANYCH ZA KAŻDE PÓŁROCZE ROKU KALENDARZOWEGO
+    - **a)** wielkość funduszu zabezpieczającego w porównaniu z całkowitymi kwotami należnymi z tytułu pożyczek objętych funduszem zabezpieczającym,
+    - **b)** stosunek wypłat z funduszu zabezpieczającego do całkowitych kwot należnych z tytułu pożyczek objętych funduszem zabezpieczającym.
+
+- **1)** nazwy państw członkowskich, na których terytorium są świadczone usługi finansowania społecznościowego, według stanu na koniec danego półrocza;
+- **2)** każdy przypadek, według stanu na koniec danego półrocza, rozwiązania z pracownikiem dostawcy umowy o pracę bez wypowiedzenia z winy pracownika (dotyczy również kontraktów menedżerskich):
+    - **a)** imię i nazwisko,
+    - **b)** stanowisko lub funkcja,
+    - **c)** data rozwiązania stosunku pracy,
+    - **d)** podstawy rozwiązania umowy;
+
+- **3)** kontrola wewnętrzna w zakresie zgodności działalności z prawem:
+    - **a)** przedmiot kontroli,
+    - **b)** jednostka organizacyjna przeprowadzająca kontrolę,
+    - **c)** data rozpoczęcia kontroli,
+    - **d)** data zakończenia kontroli,
+    - **e)** obszar działalności będący przedmiotem kontroli,
+    - **f)** wykaz dokumentów i regulacji podlegających kontroli,
+    - **g)** stwierdzone naruszenia przepisów prawa,
+    - **h)** opis wydanych zaleceń,
+    - **i)** jednostka organizacyjna odpowiedzialna za realizację zaleceń,
+    - **j)** termin wykonania zaleceń,
+    - **k)** opis sposobu wykonania zaleceń,
+    - **l)** data wykonania zaleceń;
+
+- **4)** prowadzenie ksiąg rachunkowych według stanu na koniec danego półrocza:
+    - **a)** zakładowy plan kont obowiązujący w danym półroczu,
+    - **b)** imię i nazwisko osoby odpowiedzialnej za prowadzenie ksiąg rachunkowych,
+    - **c)** czy prowadzenie ksiąg powierzono podmiotowi zewnętrznemu,
+    - **d)** imię i nazwisko osoby odpowiedzialnej za realizację umowy, na podstawie której prowadzenie ksiąg rachunkowych powierzono podmiotowi zewnętrznemu,
+    - **e)** firma (nazwa) podmiotu zewnętrznego, któremu powierzono prowadzenie ksiąg,
+    - **f)** data zawarcia umowy, na podstawie której prowadzenie ksiąg powierzono podmiotowi zewnętrznemu;
+
+- **5)** zasady postępowania z informacjami poufnymi lub stanowiącymi tajemnicę zawodową, w przypadku zgłoszenia w danym półroczu przez pracowników do właściwej komórki wewnętrznej faktu utraty dokumentu, projektu dokumentu, jego kopii lub innego nośnika informacji, zawierającego informację poufną lub stanowiącą tajemnicę zawodową, dla każdego z takich zgłoszeń:
+    - **a)** opis zgłoszenia,
+    - **b)** wyniki postępowania wyjaśniającego dotyczącego tej utraty;
+
+- **6)** reklamacje złożone przez klientów, w tym reklamacje dotyczące usług świadczonych przez podmioty trzecie na rzecz dostawcy usług finansowania społecznościowego:
+    - **a)** liczba reklamacji, które wpłynęły do podmiotu,
+    - **b)** liczba reklamacji w podziale na poniższe usługi : – ułatwianie udzielania pożyczek, – subemisja bez gwarancji przejęcia emisji oraz przyjmowanie i przekazywanie zleceń klientów, – przechowywanie aktywów, – płatnicze, – zarządzanie portfelem pożyczek, – inne usługi,
+    - **c)** liczba reklamacji w podziale na przedmiot: – reklamacje związane z procesem świadczenia usług finansowania społecznościowego , – reklamacje związane z systemami i rozwiązaniami technicznymi, – reklamacje związane z procedurami, regulaminami, warunkami umowy, kosztami i opłatami, – inne usługi,
+    - **d)** liczba reklamacji rozpatrzonych: – uwzględniających całkowicie roszczenia klientów, – uwzględniających częściowo roszczenia klientów, – nieuwzględniających roszczeń klientów,
+    - **e)** pięć reklamacji pod względem najwyższej wartości uznanych roszczeń klientów, które zostały rozpatrzone w danym półroczu, oraz reklamacji pozostałych : – usługa, której dotyczy reklamacja , – projekt oparty na finansowaniu społecznościowym, którego dotyczy reklamacja, – przedmiot reklamacji , – kwota roszczeń, które zgłosił klient w momencie składania reklamacji (w PLN), – kwota uznanych roszczeń – wypłacona lub do wypłaty (w PLN), – pozostałe ;
+
+- **7)** zabezpieczenie i archiwizacja dokumentów związanych z prowadzoną działalnością:
+    - **a)** miejsce (siedziba lub oddział dostawcy / firma (nazwa) podmiotu zewnętrznego, na którego terenie znajduje się archiwum),
+    - **b)** dane adresowe: – kod pocztowy, – miejscowość, – ulica, – numer budynku / numer lokalu;
+
+- **8)** systemy informatyczne:
+    - **a)** wykorzystywane oprogramowanie, w tym systemy wykorzystywane przez podmioty trzecie działające na rzecz dostawcy, o ile mają wpływ na świadczenie usług finansowania społecznościowego,
+    - **b)** system informatyczny objęty awarią,
+    - **c)** data awarii – od dnia – do dnia,
+    - **d)** przyczyny awarii,
+    - **e)** skutki awarii dla dostawcy i klientów,
+    - **f)** usługi, na których świadczenie wpłynęła awaria,
+    - **g)** działania podjęte w celu zapobieżenia awariom tego rodzaju w przyszłości;
+
+- **9)** obowiązujące umowy outsourcingu w rozumieniu art. 9 rozporządzenia 2020/1503:
+    - **a)** liczba umów outsourcingu funkcji operacyjnych (stan na początek danego półrocza oraz stan na koniec tego półrocza),
+    - **b)** wykaz umów outsourcingu funkcji operacyjnych obowiązujących w danym półroczu: – firma (nazwa) podmiotu, z którym zawarto umowę outsourcingu funkcji operacyjnych, – państwo siedziby podmiotu, z którym zawarto umowę outsourcingu funkcji operacyjnych, – data zawarcia umowy, – data zmiany umowy, – data rozwiązania umowy, – rodzaj usługi stanowiący przedmiot umowy;
+
+- **10)** nowe lub zmienione regulacje wewnętrzne w danym półroczu:
+    - **a)** nazwa i przedmiot regulacji,
+    - **b)** data przyjęcia,
+    - **c)** data wejścia w życie,
+    - **d)** regulacja zmieniona,
+    - **e)** regulacja nowa;
+
+- **11)** konflikty interesów zidentyfikowane w danym półroczu:
+    - **a)** charakter i źródło konfliktu interesów,
+    - **b)** nazwa usługi, której dotyczy konflikt interesów,
+    - **c)** jednostki organizacyjne, których dotyczy konflikt interesów,
+    - **d)** działania podjęte w celu ograniczenia konfliktu interesów,
+    - **e)** data powstania konfliktu interesów;
+
+- **12)** osoby trzecie, istotne z punktu widzenia usług świadczonych przez dostawcę (według oceny dostawcy – główni outsourcerzy lub kontrahenci), w przypadku których informacje mogą być przedmiotem wymiany między organami nadzoru, zgodnie z art. 2 rozporządzenia delegowanego Komisji (UE) 2022/2113 z dnia 13 lipca 2022 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do regulacyjnych standardów technicznych dotyczących wymiany informacji między właściwymi organami w związku z prowadzeniem czynności wyjaśniających, nadzorczych i związanych z egzekwowaniem prawa w odniesieniu do europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych (Dz. Urz. UE L 287 z 08.11.2022, str. 22), będące:
+    - **a)** osobami fizycznymi: – imię i nazwisko, – data urodzenia, – miejsce urodzenia, – numer identyfikacyjny (PESEL w przypadku obywateli polskich oraz osób innych niż obywatele polscy posiadających ten numer albo identyfikator cudzoziemca nadany w kraju jego pochodzenia wraz ze wskazaniem nazwy tego identyfikatora), – dane adresowe miejsca zamieszkania: – – państwo, – – kod pocztowy, – – miejscowość, – – ulica, – – numer budynku / numer lokalu, – dane kontaktowe (telefon, e-mail),
+    - **b)** osobami prawnymi: – firma (nazwa) osoby prawnej, – dane adresowe siedziby głównej lub siedziby statutowej osoby prawnej: – – państwo, – – kod pocztowy, – – miejscowość, – – ulica, – – numer budynku / numer lokalu, – dane adresowe do doręczeń, jeżeli się różni on od adresu siedziby głównej lub siedziby statutowej: – – państwo, – – kod pocztowy, – – miejscowość, – – ulica, – – numer budynku / numer lokalu, – dane kontaktowe (telefon, e-mail), – numer identyfikacyjny (REGON lub NIP w przypadku osób prawnych z siedzibą na terytorium Rzeczypospolitej Polskiej albo identyfikator zagranicznej osoby prawnej nadany w kraju jego siedziby wraz ze wskazaniem nazwy tego identyfikatora), – identyfikator podmiotu prawnego (kod LEI, jeżeli go posiada), – wykaz osób kierujących działalnością osoby prawnej: – – imiona i nazwiska, – – data urodzenia, – – miejsce urodzenia, – – numery identyfikacyjne (PESEL w przypadku obywateli polskich oraz osób innych niż obywatele polscy posiadających ten numer albo identyfikator cudzoziemca nadany w kraju jego pochodzenia wraz ze wskazaniem nazwy tego identyfikatora), – – dane adresowe miejsca zamieszkania: – – – państwo, – – – kod pocztowy, – – – miejscowość, – – – ulica, – – – numer budynku / numer lokalu, – – dane kontaktowe do tych osób (telefon, e-mail);
+
+- **13)** struktura organizacyjna według stanu na początek oraz na koniec danego półrocza. ZAKRES INFORMACJI DOTYCZĄCYCH ŚWIADCZENIA USŁUGI UŁATWIANIA UDZIELANIA POŻYCZEK PRZEKAZYWANYCH ZA KAŻDE PÓŁROCZE ROKU KALENDARZOWEGO
+- **1)** pożyczki udzielone przez inwestorów w danym półroczu:
+    - **a)** firma (nazwa) pożyczkobiorcy,
+    - **b)** forma prawna pożyczkobiorcy ,
+    - **c)** dane adresowe pożyczkobiorcy: – państwo , – kod pocztowy, – miejscowość, – ulica, – numer budynku / numer lokalu,
+    - **d)** REGON pożyczkodawcy albo jego ekwiwalent – w przypadku pożyczkodawcy mającego miejsce stałego zamieszkania w państwie innym niż Rzeczpospolita Polska,
+    - **e)** sektor, o którym mowa w pkt 4 tabeli nr 2 w załączniku do rozporządzenia wykonawczego Komisji (UE) 2022/2120 z dnia 13 lipca 2022 r. ustanawiającego wykonawcze standardy techniczne do celów stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 w odniesieniu do standardów i formatów danych, wzorów i procedur na potrzeby zgłaszania informacji dotyczących projektów finansowanych za pośrednictwem platform finansowania społecznościowego (Dz. Urz. UE L 287 z 08.11.2022, str. 76),
+    - **f)** data rozpoczęcia subskrypcji pożyczki (rok–miesiąc–dzień),
+    - **g)** data zakończenia subskrypcji pożyczki (rok–miesiąc–dzień),
+    - **h)** czy subskrypcja doszła do skutku,
+    - **i)** planowana data spłaty pożyczki – data zapadalności pożyczki (rok–miesiąc–dzień),
+    - **j)** waluta pożyczki według standardu ISO 4217 ,
+    - **k)** kurs waluty w PLN na dzień zamknięcia subskrypcji pożyczki – kwota i data (rok–miesiąc–dzień),
+    - **l)** sposób ustalania kursu walutowego, w przypadku gdy waluta, w której jest spłacana pożyczka, nie jest walutą, w której została udzielona pożyczka,
+    - **m)** docelowa kwota pożyczki określona przez właściciela projektu wraz z podaniem waluty, w jakiej została pozyskana,
+    - **n)** kwota pozyskana przez właściciela pożyczki wraz z podaniem waluty, w jakiej została pozyskana,
+    - **o)** typ stopy procentowej – stała (S) albo zmienna (Z),
+    - **p)** wysokość stopy procentowej w przypadku oprocentowania według stałej stopy (w %),
+    - **q)** stopa odniesienia, jeżeli stopa procentowa jest zmienna ,
+    - **r)** zależność miedzy stopą pożyczki a stopą zmienną (wskaźnik referencyjny 3M+5 %, jeżeli pożyczka jest oprocentowana według stopy zmiennej),
+    - **s)** liczba rat ,
+    - **t)** sposób ustalania rat pożyczki (sposób i terminy spłaty kapitału i odsetek, z uwzględnieniem informacji, czy raty są stałe, rosnące lub malejące, według określonego wzoru lub indywidualnego harmonogramu),
+    - **u)** czy istnieje możliwość wcześniejszej spłaty kredytu,
+    - **v)** liczba inwestorów, którzy udzielili kredytu pożyczkobiorcy, bez uwzględnienia zmian wynikających ze sprzedaży pożyczek przez inwestorów: – w tym pochodzących z zagranicy: – – kwota pozyskana od inwestorów pochodzących z zagranicy, – w tym liczba inwestorów pochodzących spoza Unii Europejskiej: – – kwota pozyskana od inwestorów pochodzących spoza Unii Europejskiej,
+    - **w)** liczba rezydentów amerykańskich w rozumieniu FATCA wśród inwestorów,
+    - **x)** liczba inwestorów niedoświadczonych,
+    - **y)** maksymalna kwota pożyczki w PLN udzielona przez pojedynczego inwestora niedoświadczonego,
+    - **z)** czy dostawca usług finansowania społecznościowego określił cenę oferty finansowania społecznościowego dla pożyczki, za) czy dostawca usług finansowania społecznościowego dokonał oceny ryzyka kredytowego pożyczki, zb) wynik oceny ryzyka kredytowego pożyczki przez dostawcę usług finansowania społecznościowego , zc) skala oceny ryzyka , zd) czy właściciel projektu spłacił w terminie poprzednio otrzymane kredyty lub pożyczki, ze) czy właściciel projektu jest osobowo lub organizacyjnie powiązany z podmiotem, który nie spłacił otrzymanych wcześniej kredytów lub pożyczek, zf) czy ustanowiono zabezpieczenie dla pożyczki, zg) forma zabezpieczenia , zh) kwoty poszczególnych zabezpieczeń wraz z rodzajem zabezpieczenia, zi) okres ważności zabezpieczenia , zj) inne ograniczenia skuteczności zabezpieczenia;
+
+- **2)** działalność związana z administracją udzielonych pożyczek: z 2023 r. poz. 1610, z późn. zm.), – w formie przelewu wierzytelności, – w formie weksla, – w formie poręczenia wekslowego, – w formie przystąpienia do długu, – w formie zastawu, – w formie zastawu rejestrowego, – w formie hipoteki, – w formie kaucji, – w formie kaucji bankowej, – w formie przewłaszczenia na zabezpieczeniu, – w formie blokady środków na rachunku, – w formie ubezpieczenia kredytu, – w formie ubezpieczenia nieruchomości, – w formie oświadczenia o poddaniu się egzekucji, – inne ,
+    - **a)** liczba czynnych pożyczek udzielonych dzięki ułatwieniom dostarczonym przez platformę: – kwota czynnych pożyczek (kwota kapitału), – wycena pożyczek,
+    - **b)** liczba czynnych pożyczek, których termin spłaty minął: – kwota czynnych pożyczek, których termin spłaty minął, – kwota należnych odsetek dla pożyczek, których termin spłaty minął,
+    - **c)** liczba czynnych pożyczek, dla których odnotowano incydenty w spłacie : – kwota czynnych pożyczek (kwota kapitału), dla których odnotowano incydenty w spłacie,
+    - **d)** kwota zabezpieczeń pożyczek udzielonych przez pożyczkobiorców lub osoby trzecie: – w formie gwarancji bankowej, – w formie poręczenia, o którym mowa w art. 876 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U.
+    - **e)** historyczna stopa niewypłacalności za ostatnie 3 lata, – za ostatnie 12 miesięcy – okres [t-12; t], – w okresie poprzednim [t-24; t-13], – w okresie poprzednim [t-36; t-25],
+    - **f)** oczekiwana stopa niewypłacalności dla niespłaconych i niezapadłych pożyczek,
+    - **g)** wartość opłat i prowizji uiszczanych przez inwestorów w ciągu ostatniego roku,
+    - **h)** wartość opłat i prowizji uiszczanych przez właścicieli projektów w ciągu ostatniego roku,
+    - **i)** struktura portfela pożyczek: – kwota pożyczek o terminie zapadalności do roku: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności do 5 lat: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności powyżej 5 lat: – – w tym nieobsługiwanych;
+
+- **3)** działalność związana z indywidualnym zarządzaniem portfelem pożyczek:
+    - **a)** liczba klientów, którzy zawarli umowę,
+    - **b)** liczba klientów, którzy zawarli umowę w okresie ostatnich 12 miesięcy,
+    - **c)** liczba klientów, którzy rozwiązali umowę w okresie ostatnich 12 miesięcy,
+    - **d)** kwota nominalna pożyczek z uwzględnieniem dokonanych spłat indywidualnych portfeli pożyczek zarządzanych przez dostawcę usług finansowania społecznościowego,
+    - **e)** wycena indywidualnych portfeli pożyczek ,
+    - **f)** kwota niespłacanych pożyczek: – kwota pożyczek, dla których występują incydenty w spłacie pożyczek (nieterminowa spłata),
+    - **g)** historyczna stopa niewypłacalności za ostatnie 3 lata: – za ostatnie 12 miesięcy – okres [t-12; t], – w okresie poprzednim [t-24; t-13], – w okresie poprzednim [t-36; t-25],
+    - **h)** oczekiwana stopa niewypłacalności dla niespłaconych i niezapadłych pożyczek ,
+    - **i)** kwota zabezpieczeń pożyczek udzielonych przez pożyczkobiorców lub osoby trzecie: – w formie gwarancji bankowej, – w formie poręczenia, o którym mowa w art. 876 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, – w formie przelewu wierzytelności, – w formie weksla, – w formie poręczenia wekslowego, – w formie przystąpienia do długu, – w formie zastawu, – w formie zastawu rejestrowego, – w formie hipoteki, – w formie kaucji, – w formie kaucji bankowej, – w formie przewłaszczenia na zabezpieczeniu, – w formie blokady środków na rachunku, – w formie ubezpieczenia kredytu, – w formie ubezpieczenia nieruchomości, – inne ,
+    - **j)** fundusz zabezpieczający, o którym mowa w art. 6 ust. 5 rozporządzenia 2020/1503: – łączna wartość kwot pozyskanych do funduszu w okresie ostatniego roku, – łączna wartość kwot wypłaconych z funduszu w okresie ostatniego roku, – wartość środków zgromadzonych w ramach funduszu według stanu na dzień zamknięcia subskrypcji pożyczki,
+    - **k)** wartość opłat i prowizji uiszczanych przez inwestorów w ostatnim roku,
+    - **l)** wartość opłat i prowizji uiszczanych przez właścicieli projektów w ostatnim roku,
+    - **m)** struktura portfela pożyczek: – kwota pożyczek o terminie zapadalności do roku: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności do 5 lat: – – w tym nieobsługiwanych, – kwota pożyczek z terminem zapadalności powyżej 5 lat: – – w tym nieobsługiwanych;
+
+- **4)** pożyczki, które nie są obsługiwane przez pożyczkobiorców, według stanu na ostatni dzień danego półrocza: ZAKRES INFORMACJI PRZEKAZYWANYCH PRZEZ DOSTAWCĘ USŁUG FINANSOWANIA SPOŁECZNOŚCIOWEGO ZA KAŻDY KWARTAŁ ROKU KALENDARZOWEGO O JEGO SYTUACJI FINANSOWEJ
+    - **a)** właściciel projektu – firma (nazwa),
+    - **b)** nieobsługiwana kwota pożyczki,
+    - **c)** zaległa kwota odsetek,
+    - **d)** data, od której pożyczka nie jest spłacana (rok–miesiąc–dzień).
 
 ## CZĘŚĆ A – Aktywa z podziałem na: A. Aktywa trwałe I. Wartości niematerialne i prawne II. Rzeczowe aktywa trwałe III. Należności długoterminowe IV. Inwestycje długoterminowe V. Długoterminowe rozliczenia międzyokresowe
 

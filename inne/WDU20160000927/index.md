@@ -68,3 +68,7 @@ source: pdf
 
 **Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
+## Załącznik
+
+PLANOWANE NAKŁADY FINANSOWE (W TYS. ZŁ) NA DOKOŃCZENIE BUDOWY ZBIORNIKA WODNEGO ŚWINNA PORĘBA Z PODZIAŁEM NA ZADANIA ORAZ LATA ICH REALIZACJI Zadania 2016 r. 2017 r. Razem Zadanie I Zbiornik 6 930 0 6 930 Zadanie II Przebudowa dróg 20 600 0 20 600 Zadanie III Przeciwdziałanie osuwiskom ziemi i likwidowanie 19 000 6 700 25 700 ich skutków dla środowiska Suma 46 530 6 700 53 230
+

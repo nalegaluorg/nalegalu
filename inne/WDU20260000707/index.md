@@ -28,12 +28,17 @@ source: pdf
 
 w sprawie krajowych laboratoriów referencyjnych w zakresie badań jakości wody przeznaczonej do spożycia przez ludzi oraz badań jakości wody w kąpieliskach Na podstawie art. 37ak ust. 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r.
 poz. 416 oraz z 2026 r. poz. 605) zarządza się, co następuje:
-§ 1. 1. Krajowymi laboratoriami referencyjnymi w zakresie badań jakości wody przeznaczonej do spożycia przez ludzi są:
-1) Dział Laboratoryjny Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Białymstoku – właściwy dla badań mikrobiologicznych;
-2) Dział Laboratoryjny Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Krakowie – właściwy dla badań promieniotwórczości;
-3) Dział Laboratoryjny Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Poznaniu – właściwy dla badań fizykochemicznych i sensorycznych, z wyłączeniem oznaczania pozostałości pestycydów;
-4) Dział Laboratoryjny Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Warszawie – właściwy dla badań oznaczania pozostałości pestycydów.
+
+**§ 1.**
+
+1. Krajowymi laboratoriami referencyjnymi w zakresie badań jakości wody przeznaczonej do spożycia przez ludzi są:
+
+- **1)** Dział Laboratoryjny Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Białymstoku – właściwy dla badań mikrobiologicznych;
+- **2)** Dział Laboratoryjny Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Krakowie – właściwy dla badań promieniotwórczości;
+- **3)** Dział Laboratoryjny Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Poznaniu – właściwy dla badań fizykochemicznych i sensorycznych, z wyłączeniem oznaczania pozostałości pestycydów;
+- **4)** Dział Laboratoryjny Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Warszawie – właściwy dla badań oznaczania pozostałości pestycydów.
+
 2. Krajowym laboratorium referencyjnym w zakresie badań jakości wody w kąpieliskach jest Laboratorium Badań Środowiskowych i Żywności Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Olsztynie.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2027 r.
-Minister Zdrowia: wz. K. Kęcka
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2027 r. Minister Zdrowia: wz. K. Kęcka
 

@@ -28,12 +28,15 @@ source: pdf
 
 w sprawie utworzenia biur delegowanego prokuratora europejskiego oraz ustalenia ich siedzib i obszarów właściwości Na podstawie art. 35a ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390 oraz z 2025 r.
 poz. 304) zarządza się, co następuje:
-§ 1. Tworzy się następujące biura delegowanego prokuratora europejskiego oraz ustala ich siedziby:
-1) Biuro Delegowanego Prokuratora Europejskiego przy Prokuraturze Regionalnej w Gdańsku, z siedzibą w Gdańsku;
-2) Biuro Delegowanego Prokuratora Europejskiego przy Prokuraturze Regionalnej w Katowicach, z siedzibą w Katowicach;
-3) Biuro Delegowanego Prokuratora Europejskiego przy Prokuraturze Regionalnej w Lublinie, z siedzibą w Lublinie;
-4) Biuro Delegowanego Prokuratora Europejskiego przy Prokuraturze Regionalnej w Warszawie, z siedzibą w Warszawie.
-§ 2. Obszar właściwości każdego z biur delegowanego prokuratora europejskiego stanowi terytorium Rzeczypospolitej Polskiej.
-§ 3. Rozporządzenie wchodzi w życie z dniem 27 marca 2025 r.
-Minister Sprawiedliwości: A. Bodnar
+
+**§ 1.** Tworzy się następujące biura delegowanego prokuratora europejskiego oraz ustala ich siedziby:
+
+- **1)** Biuro Delegowanego Prokuratora Europejskiego przy Prokuraturze Regionalnej w Gdańsku, z siedzibą w Gdańsku;
+- **2)** Biuro Delegowanego Prokuratora Europejskiego przy Prokuraturze Regionalnej w Katowicach, z siedzibą w Katowicach;
+- **3)** Biuro Delegowanego Prokuratora Europejskiego przy Prokuraturze Regionalnej w Lublinie, z siedzibą w Lublinie;
+- **4)** Biuro Delegowanego Prokuratora Europejskiego przy Prokuraturze Regionalnej w Warszawie, z siedzibą w Warszawie.
+
+**§ 2.** Obszar właściwości każdego z biur delegowanego prokuratora europejskiego stanowi terytorium Rzeczypospolitej Polskiej.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 27 marca 2025 r. Minister Sprawiedliwości: A. Bodnar
 

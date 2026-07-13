@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000335) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/335/text.pdf) |
 
 zmieniające rozporządzenie w sprawie dokumentacji pracowniczej Na podstawie art. 298 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej (Dz. U. z 2024 r. poz. 535) w § 3 w pkt 2 w lit. m po wyrazach „urlopu na warunkach urlopu macierzyńskiego,” dodaje się wyrazy „uzupełniającego urlopu macierzyńskiego,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 19 marca 2025 r.
-Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk
+
+**§ 1.** W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej (Dz. U. z 2024 r. poz. 535) w § 3 w pkt 2 w lit. m po wyrazach „urlopu na warunkach urlopu macierzyńskiego,” dodaje się wyrazy „uzupełniającego urlopu macierzyńskiego,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 19 marca 2025 r. Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk
 

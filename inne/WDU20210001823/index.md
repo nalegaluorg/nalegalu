@@ -26,14 +26,17 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001823) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1823/text.pdf) |
 
 zmieniające rozporządzenie w sprawie rejestru systemu zapasów interwencyjnych Na podstawie art. 13 ust. 5 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2020 r. poz. 411 oraz z 2021 r. poz. 255, 1093 i 1642) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Energii z dnia 15 maja 2019 r. w sprawie rejestru systemu zapasów interwencyjnych (Dz. U. poz. 956) wprowadza się następujące zmiany:
-1) w § 2:
-a) w pkt 7 wyrazy „Agencją Rezerw Materiałowych” zastępuje się wyrazami „Rządową Agencją Rezerw Strategicznych”,
-b) w pkt 9 wyrazy „ Prezesowi Agencji Rezerw Materiałowych” zastępuje się wyrazami „ Prezesowi Rządowej Agencji Rezerw Strategicznych”;
-2) w § 12 wyrazy „ Prezesowi Agencji Rezerw Materiałowych” zastępuje się wyrazami „ Prezesowi Rządowej Agencji Rezerw Strategicznych”;
-3) w załączniku nr 1 do rozporządzenia:
-a) w punkcie 12 tabela otrzymuje brzmienie: PRODUKCJA PRZYWÓZ SUROWIEC/PRODUKT KOD CN ILOŚĆ KOD CN ILOŚĆ Ropa naftowa, kondensat gazu ziemnego NGL Gaz płynny (LPG) Benzyny silnikowe Benzyny lotnicze Paliwa typu benzynowego do silników odrzutowych Paliwa typu nafty do silników odrzutowych Inne rodzaje nafty Oleje napędowe, w tym lekkie oleje opałowe Ciężkie oleje opałowe
-b) w punkcie 13 tabela otrzymuje brzmienie: SUROWIEC/PRODUKT KOD CN ILOŚĆ Ropa naftowa Gaz płynny (LPG) Benzyny silnikowe Benzyny lotnicze Paliwa typu benzynowego do silników odrzutowych Paliwa typu nafty do silników odrzutowych Inne rodzaje nafty Oleje napędowe, w tym lekkie oleje opałowe Ciężkie oleje opałowe
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: M. Kurtyka
+
+**§ 1.** W rozporządzeniu Ministra Energii z dnia 15 maja 2019 r. w sprawie rejestru systemu zapasów interwencyjnych (Dz. U. poz. 956) wprowadza się następujące zmiany:
+
+- **1)** w § 2:
+    - **a)** w pkt 7 wyrazy „Agencją Rezerw Materiałowych” zastępuje się wyrazami „Rządową Agencją Rezerw Strategicznych”,
+    - **b)** w pkt 9 wyrazy „ Prezesowi Agencji Rezerw Materiałowych” zastępuje się wyrazami „ Prezesowi Rządowej Agencji Rezerw Strategicznych”;
+
+- **2)** w § 12 wyrazy „ Prezesowi Agencji Rezerw Materiałowych” zastępuje się wyrazami „ Prezesowi Rządowej Agencji Rezerw Strategicznych”;
+- **3)** w załączniku nr 1 do rozporządzenia:
+    - **a)** w punkcie 12 tabela otrzymuje brzmienie: PRODUKCJA PRZYWÓZ SUROWIEC/PRODUKT KOD CN ILOŚĆ KOD CN ILOŚĆ Ropa naftowa, kondensat gazu ziemnego NGL Gaz płynny (LPG) Benzyny silnikowe Benzyny lotnicze Paliwa typu benzynowego do silników odrzutowych Paliwa typu nafty do silników odrzutowych Inne rodzaje nafty Oleje napędowe, w tym lekkie oleje opałowe Ciężkie oleje opałowe
+    - **b)** w punkcie 13 tabela otrzymuje brzmienie: SUROWIEC/PRODUKT KOD CN ILOŚĆ Ropa naftowa Gaz płynny (LPG) Benzyny silnikowe Benzyny lotnicze Paliwa typu benzynowego do silników odrzutowych Paliwa typu nafty do silników odrzutowych Inne rodzaje nafty Oleje napędowe, w tym lekkie oleje opałowe Ciężkie oleje opałowe
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: M. Kurtyka
 

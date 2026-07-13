@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie archiwizacji akt spraw sądów wojskowych Na podstawie art. 18 § 1 pkt 3 ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2020 r.
 poz. 1754) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 6 grudnia 2002 r. w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. z 2021 r. poz. 1206 i 1209) w § 7 w ust. 1 pkt 1 otrzymuje brzmienie: „1) o zbrodnie wymienione w rozdziałach XVI i XVII oraz o przestępstwa wymienione w art. 189a, art. 211a, art. 252 § 1 i 2, art. 254, 256–258, 265, 266 § 1 i 2 i art. 269 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U.
-z 2020 r. poz. 1444 i 1517 oraz z 2021 r. poz. 1023 i 2054);”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 6 grudnia 2002 r. w sprawie archiwizacji akt spraw sądów wojskowych (Dz. U. z 2021 r. poz. 1206 i 1209) w § 7 w ust. 1 pkt 1 otrzymuje brzmienie: „1) o zbrodnie wymienione w rozdziałach XVI i XVII oraz o przestępstwa wymienione w art. 189a, art. 211a, art. 252 § 1 i 2, art. 254, 256–258, 265, 266 § 1 i 2 i art. 269 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517 oraz z 2021 r. poz. 1023 i 2054);”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

@@ -27,7 +27,12 @@ source: pdf
 
 w sprawie równorzędności stopni policyjnych, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Więziennej, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Straży Granicznej, Służby Ochrony Państwa i stopni wojskowych ze stopniami służbowymi w Służbie Celno-Skarbowej Na podstawie art. 198 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
 poz. 813, z późn. zm. ) zarządza się, co następuje:
-§ 1. Równorzędność stopni policyjnych, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Więziennej, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Straży Granicznej, Służby Ochrony Państwa i stopni wojskowych ze stopniami służbowymi w Służbie Celno-Skarbowej określa załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki W M W W W W M W W W W W W W M W W W W W W W W W
+
+**§ 1.** Równorzędność stopni policyjnych, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Więziennej, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Straży Granicznej, Służby Ochrony Państwa i stopni wojskowych ze stopniami służbowymi w Służbie Celno-Skarbowej określa załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik
+
+W M W W W W M W W W W W W W M W W W W W W W W W
 

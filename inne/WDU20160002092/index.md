@@ -26,94 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2092/text.pdf) |
 
 zmieniające rozporządzenie w sprawie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby bezpieczeństwa państwa oraz wykazu tych wyrobów Na podstawie art. 10 ust. 1 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. poz. 1700, z 2010 r. poz. 1228 oraz z 2011 r. poz. 528) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 18 marca 2013 r. w sprawie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby bezpieczeństwa państwa oraz wykazu tych wyrobów (Dz. U. poz. 382) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Do przeprowadzania procedury oceny zgodności wyrobów przeznaczonych na potrzeby bezpieczeństwa państwa, wszczętej i niezakończonej przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
-§ 3. Ocena zgodności w trybie III przedmiotów zaopatrzenia mundurowego funkcjonariuszy Straży Granicznej, o których mowa w grupie 14 w tabeli 2 w lp. 2.15 i 2.16 w załączniku do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, jest dokonywana od dnia 1 stycznia 2018 r.
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak WYKAZ WYROBÓW PODLEGAJĄCYCH OCENIE ZGODNOŚCI Grupa 1: broń palna Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1 pistolety X Grupa 3: amunicja Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1 amunicja bojowa do broni palnej wymienionej w grupie 1 X Grupa 6: pojazdy i samochody specjalne do zastosowań policyjnych* Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1 armatki wodne X 2 samochody osobowe terenowe skrycie opancerzone X 3 samochody typu więźniarka X 4 lekkie transportery opancerzone X 5 samochody do przewozu ładunków wybuchowych X 6 przyczepy do przewozu ładunków wybuchowych X Grupa 12: sprzęt i środki ochrony indywidualnej i zbiorowej Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1 SPRZĘT I ŚRODKI OCHRONY UKŁADU ODDECHOWEGO
-1.1 maski przeciwgazowe filtracyjne X
-1.2 filtropochłaniacze do masek filtracyjnych X 2 SPRZĘT I ŚRODKI OCHRONY SKÓRY
-2.1 barierowa odzież ochronna X 3 SPRZĘT I ŚRODKI OCHRONY BALISTYCZNEJ I PRZECIWUDERZENIOWEJ
-3.1 kamizelki i kombinezony kulo- i odłamkoodporne X
-3.2 hełmy i kaski kulo- i odłamkoodporne X
-3.3 osłony ochronne (przeciwwybuchowe, kuloodporne, odłamkoodporne) X
-3.4 ochrony przeciwuderzeniowe (tarcze, kaski, kamizelki, rękawice, osłony nóg, X przedramienia) 4 SPRZĘT PIROTECHNICZNY
-4.1 kombinezony dla pirotechników X
-4.2 pojemniki przeciwodłamkowe i przeciwwybuchowe X Grupa 14: przedmioty zaopatrzenia mundurowego
-1. przedmioty zaopatrzenia mundurowego funkcjonariuszy Policji Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III
-1.1 czapki zimowe służbowe X
-1.2 czapki letnie służbowe X
-1.3 kurtki służbowe zimowe z podpinką i ocieplaczem z polaru X
-1.4 kurtki służbowe letnie X
-1.5 spodnie służbowe letnie do półbutów X
-1.6 spodnie służbowe letnie do trzewików X
-1.7 spodnie służbowe zimowe X
-1.8 swetry służbowe X
-1.9 półgolfy X
-1.10 koszule służbowe X
-1.11 koszule służbowe letnie X
-1.12 koszulki polo z krótkim rękawem X
-1.13 koszulki z krótkim rękawem T-shirt X
-1.14 trzewiki służbowe X
-1.15 półbuty służbowe X
-1.16 pasy główne X
-1.17 mundury ćwiczebne X
-1.18 kurtki ćwiczebne z podpinką i kamizelką X
-1.19 czapki ćwiczebne X
-1.20 kombinezony z tkaniny trudnopalnej X laminaty na kurtki służbowe zimowe z podpinką i ocieplaczem z polaru, kurtki
-1.21 służbowe letnie, spodnie służbowe zimowe, spodnie służbowe letnie do trzewików, X czapki letnie służbowe
-1.22 tkaniny na koszule służbowe, koszule służbowe letnie X
-1.23 tkaniny na mundury ćwiczebne, kurtki ćwiczebne z podpinką i kamizelką, czapki X ćwiczebne
-1.24 tkaniny na kombinezony z tkaniny trudnopalnej X
-2. przedmioty zaopatrzenia mundurowego funkcjonariuszy Straży Granicznej Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III
-2.1 bluzy polowe X
-2.2 spodnie polowe X
-2.3 bluzy polowe letnie X
-2.4 spodnie polowe letnie X
-2.5 kurtki ubrania na złą pogodę X
-2.6 spodnie ubrania na złą pogodę X
-2.7 ubrania uniwersalne ocieplacze X
-2.8 trzewiki polowe X
-2.9 buty z membraną izolacyjną X
-2.10 kurtki służbowe X
-2.11 koszule służbowe z krótkimi rękawami X
-2.12 koszule służbowe z długimi rękawami X
-2.13 półbuty służbowe X
-2.14 trzewiki służbowe X
-2.15 tkaniny na bluzy polowe, spodnie polowe X
-2.16 laminaty na kurtki ubrania na złą pogodę, spodnie ubrania na złą pogodę, kurtki X służbowe
-3. przedmioty zaopatrzenia mundurowego funkcjonariuszy Biura Ochrony Rządu Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III
-3.1 bluzy polowe letnie funkcjonariusza X
-3.2 bluzy polowe zimowe funkcjonariusza X
-3.3 spodnie polowe letnie funkcjonariusza X
-3.4 spodnie polowe zimowe funkcjonariusza X
-3.5 kurtki ubrania ochronnego X
-3.6 ocieplacze pod kurtki ubrania ochronnego X
-3.7 spodnie ubrania ochronnego X
-3.8 ocieplacze pod spodnie ubrania ochronnego X
-3.9 koszulobluzy polowe X
-3.10 trzewiki letnie X
-3.11 trzewiki zimowe X
-3.12 bluzy kombinezonu 2-częściowego w kolorach kamuflażowych zimowe X
-3.13 bluzy kombinezonu 2-częściowego w kolorach kamuflażowych letnie X
-3.14 spodnie kombinezonu 2-częściowego w kolorach kamuflażowych zimowe X
-3.15 spodnie kombinezonu 2-częściowego w kolorach kamuflażowych letnie X
-3.16 kurtki ochronne X
-3.17 spodnie ochronne X
-3.18 ocieplacze kurtek ochronnych X
-3.19 ocieplacze spodni ochronnych X
-3.20 kombinezony z tkaniny trudnopalnej X
-3.21 kombinezony pirotechnika z tkaniny trudnopalnej X
-3.22 kurtki ochronne pirotechnika X
-3.23 podpinki pod kurtki ochronne pirotechnika X
-3.24 trzewiki pirotechnika na miękkiej podeszwie X
-3.25 kombinezony ćwiczebne 2-częściowe X
-3.26 buty specjalne na miękkiej podeszwie X
-3.27 buty specjalne zimowe X
-3.28 kurtki ochronne z membraną paraprzepuszczalną X
-3.29 tkaniny na bluzy polowe letnie, spodnie polowe letnie, bluzy polowe zimowe, X spodnie polowe zimowe laminaty na kurtki ubrania ochronnego, spodnie ubrania ochronnego, kurtki
-3.30 ochronne, spodnie ochronne, kurtki ochronne pirotechnika, kurtki ochronne X z membraną paraprzepuszczalną
-3.31 tkaniny na koszulobluzy polowe X tkaniny na bluzy kombinezonu w kolorach kamuflażowych letnie, spodnie kombinezonu w kolorach kamuflażowych letnie, bluzy kombinezonu w kolorach kamu3.32 flażowych zimowe, spodnie kombinezonu w kolorach kamuflażowych zimowe, X kombinezony z tkaniny trudnopalnej, kombinezony pirotechnika z tkaniny trudnopalnej, kombinezony ćwiczebne Grupa 17: inne wyroby, jeżeli spełniają kryteria określone w art. 3 pkt 15 ustawy z dnia 17 listopada 2006 r.
-o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U.
-poz. 1700, z późn. zm.) Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1 przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej X 2 kartridże do przedmiotów przeznaczonych do obezwładniania osób za pomocą X energii elektrycznej
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 18 marca 2013 r. w sprawie przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby bezpieczeństwa państwa oraz wykazu tych wyrobów (Dz. U. poz. 382) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Do przeprowadzania procedury oceny zgodności wyrobów przeznaczonych na potrzeby bezpieczeństwa państwa, wszczętej i niezakończonej przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
+
+**§ 3.** Ocena zgodności w trybie III przedmiotów zaopatrzenia mundurowego funkcjonariuszy Straży Granicznej, o których mowa w grupie 14 w tabeli 2 w lp. 2.15 i 2.16 w załączniku do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, jest dokonywana od dnia 1 stycznia 2018 r.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak WYKAZ WYROBÓW PODLEGAJĄCYCH OCENIE ZGODNOŚCI Grupa 1: broń palna Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1 pistolety X Grupa 3: amunicja Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1 amunicja bojowa do broni palnej wymienionej w grupie 1 X Grupa 6: pojazdy i samochody specjalne do zastosowań policyjnych* Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1 armatki wodne X 2 samochody osobowe terenowe skrycie opancerzone X 3 samochody typu więźniarka X 4 lekkie transportery opancerzone X 5 samochody do przewozu ładunków wybuchowych X 6 przyczepy do przewozu ładunków wybuchowych X Grupa 12: sprzęt i środki ochrony indywidualnej i zbiorowej Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1 SPRZĘT I ŚRODKI OCHRONY UKŁADU ODDECHOWEGO 1.1 maski przeciwgazowe filtracyjne X 1.2 filtropochłaniacze do masek filtracyjnych X 2 SPRZĘT I ŚRODKI OCHRONY SKÓRY 2.1 barierowa odzież ochronna X 3 SPRZĘT I ŚRODKI OCHRONY BALISTYCZNEJ I PRZECIWUDERZENIOWEJ 3.1 kamizelki i kombinezony kulo- i odłamkoodporne X 3.2 hełmy i kaski kulo- i odłamkoodporne X 3.3 osłony ochronne (przeciwwybuchowe, kuloodporne, odłamkoodporne) X 3.4 ochrony przeciwuderzeniowe (tarcze, kaski, kamizelki, rękawice, osłony nóg, X przedramienia) 4 SPRZĘT PIROTECHNICZNY 4.1 kombinezony dla pirotechników X 4.2 pojemniki przeciwodłamkowe i przeciwwybuchowe X Grupa 14: przedmioty zaopatrzenia mundurowego 1. przedmioty zaopatrzenia mundurowego funkcjonariuszy Policji Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1.1 czapki zimowe służbowe X 1.2 czapki letnie służbowe X 1.3 kurtki służbowe zimowe z podpinką i ocieplaczem z polaru X 1.4 kurtki służbowe letnie X 1.5 spodnie służbowe letnie do półbutów X 1.6 spodnie służbowe letnie do trzewików X 1.7 spodnie służbowe zimowe X 1.8 swetry służbowe X 1.9 półgolfy X 1.10 koszule służbowe X 1.11 koszule służbowe letnie X 1.12 koszulki polo z krótkim rękawem X 1.13 koszulki z krótkim rękawem T-shirt X 1.14 trzewiki służbowe X 1.15 półbuty służbowe X 1.16 pasy główne X 1.17 mundury ćwiczebne X 1.18 kurtki ćwiczebne z podpinką i kamizelką X 1.19 czapki ćwiczebne X 1.20 kombinezony z tkaniny trudnopalnej X laminaty na kurtki służbowe zimowe z podpinką i ocieplaczem z polaru, kurtki 1.21 służbowe letnie, spodnie służbowe zimowe, spodnie służbowe letnie do trzewików, X czapki letnie służbowe 1.22 tkaniny na koszule służbowe, koszule służbowe letnie X 1.23 tkaniny na mundury ćwiczebne, kurtki ćwiczebne z podpinką i kamizelką, czapki X ćwiczebne 1.24 tkaniny na kombinezony z tkaniny trudnopalnej X 2. przedmioty zaopatrzenia mundurowego funkcjonariuszy Straży Granicznej Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 2.1 bluzy polowe X 2.2 spodnie polowe X 2.3 bluzy polowe letnie X 2.4 spodnie polowe letnie X 2.5 kurtki ubrania na złą pogodę X 2.6 spodnie ubrania na złą pogodę X 2.7 ubrania uniwersalne ocieplacze X 2.8 trzewiki polowe X 2.9 buty z membraną izolacyjną X 2.10 kurtki służbowe X 2.11 koszule służbowe z krótkimi rękawami X 2.12 koszule służbowe z długimi rękawami X 2.13 półbuty służbowe X 2.14 trzewiki służbowe X 2.15 tkaniny na bluzy polowe, spodnie polowe X 2.16 laminaty na kurtki ubrania na złą pogodę, spodnie ubrania na złą pogodę, kurtki X służbowe 3. przedmioty zaopatrzenia mundurowego funkcjonariuszy Biura Ochrony Rządu Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 3.1 bluzy polowe letnie funkcjonariusza X 3.2 bluzy polowe zimowe funkcjonariusza X 3.3 spodnie polowe letnie funkcjonariusza X 3.4 spodnie polowe zimowe funkcjonariusza X 3.5 kurtki ubrania ochronnego X 3.6 ocieplacze pod kurtki ubrania ochronnego X 3.7 spodnie ubrania ochronnego X 3.8 ocieplacze pod spodnie ubrania ochronnego X 3.9 koszulobluzy polowe X 3.10 trzewiki letnie X 3.11 trzewiki zimowe X 3.12 bluzy kombinezonu 2-częściowego w kolorach kamuflażowych zimowe X 3.13 bluzy kombinezonu 2-częściowego w kolorach kamuflażowych letnie X 3.14 spodnie kombinezonu 2-częściowego w kolorach kamuflażowych zimowe X 3.15 spodnie kombinezonu 2-częściowego w kolorach kamuflażowych letnie X 3.16 kurtki ochronne X 3.17 spodnie ochronne X 3.18 ocieplacze kurtek ochronnych X 3.19 ocieplacze spodni ochronnych X 3.20 kombinezony z tkaniny trudnopalnej X 3.21 kombinezony pirotechnika z tkaniny trudnopalnej X 3.22 kurtki ochronne pirotechnika X 3.23 podpinki pod kurtki ochronne pirotechnika X 3.24 trzewiki pirotechnika na miękkiej podeszwie X 3.25 kombinezony ćwiczebne 2-częściowe X 3.26 buty specjalne na miękkiej podeszwie X 3.27 buty specjalne zimowe X 3.28 kurtki ochronne z membraną paraprzepuszczalną X 3.29 tkaniny na bluzy polowe letnie, spodnie polowe letnie, bluzy polowe zimowe, X spodnie polowe zimowe laminaty na kurtki ubrania ochronnego, spodnie ubrania ochronnego, kurtki 3.30 ochronne, spodnie ochronne, kurtki ochronne pirotechnika, kurtki ochronne X z membraną paraprzepuszczalną 3.31 tkaniny na koszulobluzy polowe X tkaniny na bluzy kombinezonu w kolorach kamuflażowych letnie, spodnie kombinezonu w kolorach kamuflażowych letnie, bluzy kombinezonu w kolorach kamu3.32 flażowych zimowe, spodnie kombinezonu w kolorach kamuflażowych zimowe, X kombinezony z tkaniny trudnopalnej, kombinezony pirotechnika z tkaniny trudnopalnej, kombinezony ćwiczebne Grupa 17: inne wyroby, jeżeli spełniają kryteria określone w art. 3 pkt 15 ustawy z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. poz. 1700, z późn. zm.) Tryb oceny zgodności Lp. Nazwa wyrobu lub grupy wyrobów I II III 1 przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej X 2 kartridże do przedmiotów przeznaczonych do obezwładniania osób za pomocą X energii elektrycznej
 

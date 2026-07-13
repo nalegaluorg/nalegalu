@@ -31,9 +31,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 19 sierpnia 2015 r.
 w sprawie nadania statutu Krajowej Szkole Sądownictwa i Prokuratury Na podstawie art. 3 ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2022 r.
 poz. 217 i 2695) zarządza się, co następuje:
-§ 1. Krajowej Szkole Sądownictwa i Prokuratury nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 21 sierpnia 2015 r.
-STATUT KRAJOWEJ SZKOŁY SĄDOWNICTWA I PROKURATURY
+
+**§ 1.** Krajowej Szkole Sądownictwa i Prokuratury nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 21 sierpnia 2015 r. STATUT KRAJOWEJ SZKOŁY SĄDOWNICTWA I PROKURATURY
+
+## Załącznik
+
 § 1. Krajowa Szkoła Sądownictwa i Prokuratury, zwana dalej „Krajową Szkołą”, działa na podstawie ustawy z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. z 2022 r. poz. 217 i 2695) oraz niniejszego statutu.
 § 2. Krajową Szkołą kieruje Dyrektor Krajowej Szkoły przy pomocy zastępców.
 § 3. W skład Krajowej Szkoły wchodzą:

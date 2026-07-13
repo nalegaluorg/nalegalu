@@ -265,3 +265,23 @@ source: pdf
 
 **Art. 25.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 20, art. 22 i art. 24 ust. 1, które wchodzą w życie z dniem 1 października 2026 r.
 
+## Załącznik
+
+WYKAZ NIERUCHOMOŚCI Z ZASOBU SKARBU PAŃSTWA, KTÓRYMI GOSPODARUJE STAROSTA, POZOSTAJĄCYCH W TRWAŁYM ZARZĄDZIE JEDNOSTKI ORGANIZACYJNEJ NIEPOSIADAJĄCEJ OSOBOWOŚCI PRAWNEJ PODLEGŁEJ MINISTROWI OBRONY NARODOWEJ ORAZ NIERUCHOMOŚCI SKARBU PAŃSTWA POWIERZONYCH AGENCJI MIENIA WOJSKOWEGO DO WYKONYWANIA W JEGO IMIENIU I NA JEGO RZECZ PRAWA WŁASNOŚCI I INNYCH PRAW RZECZOWYCH
+1) nieruchomość położona przy ul. Legionów 83 w Łodzi, składająca się z działki zabudowanej 4 budynkami o kubaturze 13 576 m i powierzchni użytkowej 2800,24 m , o numerze ewidencyjnym 64/1, obręb P-8, o powierzchni 0,2883 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00068256/7;
+2) nieruchomości położone przy ul. 1 Maja 90 w Łodzi, składające się z:
+a) działek niezabudowanych o numerach ewidencyjnych: 16/44, 16/102, 16/118, 16/122, 16/128, 16/131, 16/134, 16/136 oraz 22, obręb P-17, o łącznej powierzchni 0,4231 ha, dla których prowadzona jest księga wieczysta – KW nr LD1M/00058687/4,
+b) działek zabudowanych 22 obiektami o kubaturze 104 271 m i powierzchni użytkowej 21 422,73 m , o numerach ewidencyjnych: 16/51, 16/81, 16/82, 16/83, 16/101, 16/104, 16/105, 16/107, 16/108, 16/110, 16/112, 16/114, 16/116, 16/120, 16/124, 16/126, 16/127, 16/129, 16/130, 16/132, 16/133, 16/138, 16/140, 21, 23, 25/5, 25/6, obręb P-17, o łącznej powierzchni 4,3258 ha, dla których prowadzona jest księga wieczysta – KW nr LD1M/00058687/4, oraz działki o numerze ewidencyjnym 16/84, obręb P-17, o powierzchni 0,8085 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00338050/7;
+3) nieruchomości położone przy ul. 6 Sierpnia 92 w Łodzi, składające się z:
+a) działki niezabudowanej o numerze ewidencyjnym 34/3, obręb P-17, o powierzchni 0,0037 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00047245/4,
+b) działki niezabudowanej o numerze ewidencyjnym 35/1, obręb P-17, o powierzchni 0,0192 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00000507/8,
+c) działki niezabudowanej o numerze ewidencyjnym 41/6, obręb P-17, o powierzchni 0,2005 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00003220/3,
+d) działki niezabudowanej o numerze ewidencyjnym 32/6, obręb P-17, o powierzchni 0,0244 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00271278/3,
+e) działki niezabudowanej o numerze ewidencyjnym 32/14, obręb P-17, o powierzchni 0,0218 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00289348/4,
+f) działek zabudowanych 36 obiektami o kubaturze 157 052 m i powierzchni użytkowej 34 979,89 m , o numerach ewidencyjnych: 41/2, 41/3, 41/4, 41/7, obręb P-17, o łącznej powierzchni 5,9745 ha, dla których prowadzona jest księga wieczysta – KW nr LD1M/00003220/3, działki o numerze ewidencyjnym 41/14, obręb P-17, o powierzchni 0,7490 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00047245/4, działki o numerze ewidencyjnym 41/22, obręb P-17, o łącznej powierzchni 4,0508 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00003219/3, działki o numerze ewidencyjnym 32/13, obręb P-17, o łącznej powierzchni 0,0026 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00000507/8;
+4) nieruchomość położona przy ul. Gdańskiej 89 w Łodzi, składająca się z działki zabudowanej 3 budynkami o kubaturze 5379 m i powierzchni użytkowej 1115,94 m , o numerze ewidencyjnym 245/3, obręb P-19, o powierzchni 0,1217 ha, dla której prowadzona jest księga wieczysta – KW nr LD1M/00068487/5;
+5) nieruchomość położona w m. Jeżewo, składająca się z:
+a) działki zabudowanej 11 obiektami o kubaturze 10 513 m i powierzchni użytkowej 1734,48 m , o numerze ewidencyjnym 560/9, obręb 0005 Biała, o powierzchni 32,6587 ha, dla której prowadzona jest księga wieczysta – KW nr LD1G/00015621/5,
+b) działek niezabudowanych o numerach ewidencyjnych 560/5 i 560/8, obręb 0005 Biała, o łącznej powierzchni 1,2031 ha, dla których prowadzona jest księga wieczysta – KW nr LD1G/00102256/2,
+c) działki niezabudowanej o numerze ewidencyjnym 569, obręb 0005 Biała, o powierzchni 0,0845 ha, dla której prowadzona jest księga wieczysta – KW nr LD1G/00015621/5.
+

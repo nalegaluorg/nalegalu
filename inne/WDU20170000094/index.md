@@ -26,32 +26,53 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000094) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/94/text.pdf) |
 
 w sprawie legitymacji służbowych w Prokuratorii Generalnej Rzeczypospolitej Polskiej Na podstawie art. 33 ust. 4 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. poz. 2261) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzory legitymacji służbowej Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej, zwanej dalej „Prokuratorią”, wiceprezesa Prokuratorii, radcy Prokuratorii i referendarza, zwanej dalej „legitymacją”;
-2) sposób postępowania z legitymacją, w tym:
-a) termin ważności legitymacji,
-b) okoliczności uzasadniające wymianę legitymacji i jej zwrot,
-c) postępowanie w razie utraty legitymacji.
-§ 2. Wzór legitymacji określa załącznik do rozporządzenia.
-§ 3. Legitymacja jest ważna przez 5 lat od dnia wydania.
-§ 4. Prezes Prokuratorii, wiceprezes Prokuratorii, radca Prokuratorii i referendarz są obowiązani dbać o należyty stan legitymacji, a w szczególności chronić je przed utratą, zniszczeniem lub uszkodzeniem.
-§ 5. Legitymacji nie można:
-1) odstępować innej osobie;
-2) przesyłać w obrocie krajowym i zagranicznym, chyba że dokonanie takiej czynności następuje zgodnie z przepisami o ochronie informacji niejawnych.
-§ 6. Legitymację wydaje, wymienia i przyjmuje w razie zwrotu Prezes Prokuratorii.
-§ 7. Legitymacja podlega wymianie w przypadku:
-1) upływu terminu, na jaki została wydana;
-2) zmiany danych zawartych w legitymacji;
-3) uszkodzenia lub zniszczenia.
-§ 8. Legitymacja podlega niezwłocznemu zwrotowi w przypadku:
-1) zawieszenia w czynnościach służbowych lub zawieszenia stosunku pracy;
-2) udzielenia urlopu, w szczególności bezpłatnego lub wychowawczego, na okres przekraczający 6 miesięcy;
-3) ustania stosunku pracy w Prokuratorii.
-§ 9. 1. W razie utraty legitymacji wiceprezes Prokuratorii, radca Prokuratorii lub referendarz niezwłocznie składa pisemną informację Prezesowi Prokuratorii, podając w niej datę i okoliczności utraty legitymacji.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzory legitymacji służbowej Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej, zwanej dalej „Prokuratorią”, wiceprezesa Prokuratorii, radcy Prokuratorii i referendarza, zwanej dalej „legitymacją”;
+- **2)** sposób postępowania z legitymacją, w tym:
+    - **a)** termin ważności legitymacji,
+    - **b)** okoliczności uzasadniające wymianę legitymacji i jej zwrot,
+    - **c)** postępowanie w razie utraty legitymacji.
+
+**§ 2.** Wzór legitymacji określa załącznik do rozporządzenia.
+
+**§ 3.** Legitymacja jest ważna przez 5 lat od dnia wydania.
+
+**§ 4.** Prezes Prokuratorii, wiceprezes Prokuratorii, radca Prokuratorii i referendarz są obowiązani dbać o należyty stan legitymacji, a w szczególności chronić je przed utratą, zniszczeniem lub uszkodzeniem.
+
+**§ 5.** Legitymacji nie można:
+
+- **1)** odstępować innej osobie;
+- **2)** przesyłać w obrocie krajowym i zagranicznym, chyba że dokonanie takiej czynności następuje zgodnie z przepisami o ochronie informacji niejawnych.
+
+**§ 6.** Legitymację wydaje, wymienia i przyjmuje w razie zwrotu Prezes Prokuratorii.
+
+**§ 7.** Legitymacja podlega wymianie w przypadku:
+
+- **1)** upływu terminu, na jaki została wydana;
+- **2)** zmiany danych zawartych w legitymacji;
+- **3)** uszkodzenia lub zniszczenia.
+
+**§ 8.** Legitymacja podlega niezwłocznemu zwrotowi w przypadku:
+
+- **1)** zawieszenia w czynnościach służbowych lub zawieszenia stosunku pracy;
+- **2)** udzielenia urlopu, w szczególności bezpłatnego lub wychowawczego, na okres przekraczający 6 miesięcy;
+- **3)** ustania stosunku pracy w Prokuratorii.
+
+**§ 9.**
+
+1. W razie utraty legitymacji wiceprezes Prokuratorii, radca Prokuratorii lub referendarz niezwłocznie składa pisemną informację Prezesowi Prokuratorii, podając w niej datę i okoliczności utraty legitymacji.
+
 2. W przypadku, o którym mowa w ust. 1, Prezes Prokuratorii wydaje nową legitymację.
+
 3. W przypadku odzyskania utraconej legitymacji wiceprezes Prokuratorii, radca Prokuratorii lub referendarz niezwłocznie zwraca ją Prezesowi Prokuratorii i składa pisemną informację, podając w niej datę i okoliczności odzyskania legitymacji.
-§ 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: B. Szydło WzÓR leGitymacji Wzory legitymacji Awers Rewers Opis:
+
+**§ 10.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+## Załącznik
+
+WzÓR leGitymacji Wzory legitymacji Awers Rewers Opis:
 1.1. Legitymacja ma formę spersonalizowanej karty identyfikacyjnej dwustronnie laminowanej (układ poziomy) o wymiarach 54 x 85 mm.
 1.2. Karta składa się z rdzenia karty i folii laminującej. Rdzeń karty o wymiarach 48 x 80 mm jest wykonany z papieru zabezpieczonego chemicznie z bieżącym znakiem wodnym.
 Poza rdzeń wystaje przezroczysty margines folii laminującej o krawędziach zaokrąglonych.

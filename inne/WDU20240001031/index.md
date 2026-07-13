@@ -26,11 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001031) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1031/text.pdf) |
 
 zmieniające rozporządzenie w sprawie trybu pracy Komisji Nazw Miejscowości i Obiektów Fizjograficznych oraz wysokości wynagrodzenia przysługującego jej członkom za udział w posiedzeniach Na podstawie art. 4 ust. 4 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. z 2019 r. poz. 1443) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 sierpnia 2004 r. w sprawie trybu pracy Komisji Nazw Miejscowości i Obiektów Fizjograficznych oraz wysokości wynagrodzenia przysługującego jej członkom za udział w posiedzeniach (Dz. U. z 2021 r. poz. 1985) w § 8 ust. 1 otrzymuje brzmienie: „1. Za udział w posiedzeniach członkom Komisji przysługuje wynagrodzenie, którego wysokość za każdy dzień posiedzenia wynosi:
-1) przewodniczący – 1075 zł;
-2) zastępca przewodniczącego – 860 zł;
-3) członek opracowujący materiały na posiedzenie – 645 zł;
-4) pozostali członkowie – 430 zł.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 sierpnia 2004 r. w sprawie trybu pracy Komisji Nazw Miejscowości i Obiektów Fizjograficznych oraz wysokości wynagrodzenia przysługującego jej członkom za udział w posiedzeniach (Dz. U. z 2021 r. poz. 1985) w § 8 ust. 1 otrzymuje brzmienie:
+
+> „1. Za udział w posiedzeniach członkom Komisji przysługuje wynagrodzenie, którego wysokość za każdy dzień posiedzenia wynosi:  
+> 1) przewodniczący – 1075 zł;  
+> 2) zastępca przewodniczącego – 860 zł;  
+> 3) członek opracowujący materiały na posiedzenie – 645 zł;  
+> 4) pozostali członkowie – 430 zł.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański
 

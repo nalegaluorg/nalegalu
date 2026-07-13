@@ -42,13 +42,28 @@ source: pdf
 - **6)** użyte w art. 7 w ust. 1b, 2 i 3 w różnych przypadkach wyrazy „kierownik wojewódzkiej jednostki organizacyjnej właściwej w sprawach zatrudnienia i przeciwdziałania bezrobociu” zastępuje się użytymi w różnych przypadkach wyrazami „kierownik Biura Terenowego Funduszu Gwarantowanych Świadczeń Pracowniczych”;
 - **7)** w art. 8 w ust. 1 wyrazy „marszałek województwa” zastępuje się wyrazami „kierownik Biura Terenowego Funduszu Gwarantowanych Świadczeń Pracowniczych”;
 - **8)** art. 11 otrzymuje brzmienie: „Art. 11. Minister właściwy do spraw pracy, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wzór wykazów i wniosków, o których mowa w art. 7 ust. 1, 1a i 3, oraz tryb ich składania, a także przekazywania środków z Funduszu i dokonywania wypłat świadczeń.”;
-- **9)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Tworzy się Fundusz Gwarantowanych Świadczeń Pracowniczych. 2. Fundusz posiada osobowość prawną i jest państwowym funduszem celowym. 3. Dysponentem Funduszu jest minister właściwy do spraw pracy. 4. Zadania określone w ustawie realizuje minister właściwy do spraw pracy przy pomocy Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych oraz Biur Terenowych Funduszu Gwarantowanych Świadczeń Pracowniczych. 5. Krajowym Biurem Funduszu Gwarantowanych Świadczeń Pracowniczych kieruje dyrektor powoływany i odwoływany przez dysponenta Funduszu, a Biurami Terenowymi Funduszu kierują kierownicy powoływani i odwoływani przez dyrektora Krajowego Biura Funduszu. Dyrektor wykonuje za pracodawcę czynności w sprawach z zakresu prawa pracy w stosunku do pracowników Funduszu. 6. Koszty obsługi Funduszu, ponoszone przez Biura, o których mowa w ust. 5, obciążają ten Fundusz. 7. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, organizację, szczegółowe zasady i zakres działania Biur, o których mowa w ust. 4.”;
+- **9)** art. 12 otrzymuje brzmienie:
+
+  > „Art. 12.  
+  > 1. Tworzy się Fundusz Gwarantowanych Świadczeń Pracowniczych.  
+  > 2. Fundusz posiada osobowość prawną i jest państwowym funduszem celowym.  
+  > 3. Dysponentem Funduszu jest minister właściwy do spraw pracy.  
+  > 4. Zadania określone w ustawie realizuje minister właściwy do spraw pracy przy pomocy Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych oraz Biur Terenowych Funduszu Gwarantowanych Świadczeń Pracowniczych.  
+  > 5. Krajowym Biurem Funduszu Gwarantowanych Świadczeń Pracowniczych kieruje dyrektor powoływany i odwoływany przez dysponenta Funduszu, a Biurami Terenowymi Funduszu kierują kierownicy powoływani i odwoływani przez dyrektora Krajowego Biura Funduszu. Dyrektor wykonuje za pracodawcę czynności w sprawach z zakresu prawa pracy w stosunku do pracowników Funduszu.  
+  > 6. Koszty obsługi Funduszu, ponoszone przez Biura, o których mowa w ust. 5, obciążają ten Fundusz.  
+  > 7. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, organizację, szczegółowe zasady i zakres działania Biur, o których mowa w ust. 4.”;  
 - **10)** w art. 14 w ust. 1 skreśla się wyrazy „4 i”;
 - **11)** art. 15 otrzymuje brzmienie: „Art. 15. Naczelna Rada Zatrudnienia, powołana na podstawie przepisów o zatrudnieniu i przeciwdziałaniu bezrobociu, opiniuje plany finansowe Funduszu oraz roczne sprawozdania z jego działalności.”;
 - **12)** skreśla się art. 16;
-- **13)** w art. 18 ust. 2 i 3 otrzymują brzmienie: „2. Wysokość składki na Fundusz określa ustawa budżetowa. 3. Do czasu określenia wysokości składki przez ustawę budżetową, stosuje się składkę w wysokości ustalonej na rok poprzedni. Po ustaleniu wysokości składki przez ustawę budżetową, płatnicy składki dokonują korekty wysoko ści wpłat od początku roku budżetowego w pierwszym miesiącu następującym po miesiącu, w którym została ogłoszona ustawa budżetowa.”;
+- **13)** w art. 18 ust. 2 i 3 otrzymują brzmienie:
+
+  > „2. Wysokość składki na Fundusz określa ustawa budżetowa.  
+  > 3. Do czasu określenia wysokości składki przez ustawę budżetową, stosuje się składkę w wysokości ustalonej na rok poprzedni. Po ustaleniu wysokości składki przez ustawę budżetową, płatnicy składki dokonują korekty wysoko ści wpłat od początku roku budżetowego w pierwszym miesiącu następującym po miesiącu, w którym została ogłoszona ustawa budżetowa.”;  
 - **14)** skreśla się art. 18a;
-- **15)** w art. 19 po ust. 2 dodaje się ust. 3 i 4 w brzmieniu: „3. Koszty poboru składek na Fundusz obciążają Fundusz i są zwracane Zakładowi Ubezpieczeń Społecznych w wysokości 0,5% przypisu składek na Fundusz. 4. W przypadku nieprzekazania w terminach, o których mowa w ust. 1, składek na rachunek bankowy Funduszu od Zakładu Ubezpieczeń Społecznych należne są odsetki ustawowe.”;
+- **15)** w art. 19 po ust. 2 dodaje się ust. 3 i 4 w brzmieniu:
+
+  > „3. Koszty poboru składek na Fundusz obciążają Fundusz i są zwracane Zakładowi Ubezpieczeń Społecznych w wysokości 0,5% przypisu składek na Fundusz.  
+  > 4. W przypadku nieprzekazania w terminach, o których mowa w ust. 1, składek na rachunek bankowy Funduszu od Zakładu Ubezpieczeń Społecznych należne są odsetki ustawowe.”;  
 - **16)** skreśla się art. 23.
 
 **Art. 3.** W ustawie z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz.U. z 2001 r. Nr 6, poz. 56, Nr 42, poz. 475, Nr 89, poz. 973, Nr 100, poz. 1080, Nr 122, poz. 1323 i 1325 i Nr 128, poz. 1405) wprowadza się następujące zmiany:
@@ -84,7 +99,12 @@ source: pdf
     - **c)** w ust. 6 wyrazy „odpowiednio określonej w art. 37j ust. 2 i 3” zastępuje się wyrazami „120% zasiłku, o którym mowa w art. 24 ust. 1”,
     - **d)** w ust. 7 skreśla się wyrazy „oraz zasiłku przedemerytalnego”,
     - **e)** skreśla się ust. 8 i 8a,
-    - **f)** ust. 9 otrzymuje brzmienie: „9. Pracownikowi byłego państwowego przedsiębiorstwa gospodarki rolnej przysługuje świadczenie przedemerytalne, jeżeli [w dniu 7 listopada 2001 r.] posiadał status bezrobotnego oraz spełniał łącznie następujące warunki: 1) osiągnął wiek - co najmniej 50 lat kobieta i 55 lat mężczyzna, 2) posiadał okres uprawniający do emerytury - wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, 3) był zatrudniony w pełnym wymiarze czasu pracy w państwowym przedsiębiorstwie gospodarki rolnej przez okres co najmniej 10 lat, 4) zamieszkiwał w powiecie (gminie) uznanym za zagrożony szczególnie wysokim bezrobociem strukturalnym.”, zdanie pierwsze w ust. 9 w części, w jakiej zawiera zwrot: „w dniu 7 listopada 2001 r.”, uzależniający prawo do świadczenia przedemerytalnego pracowników byłych państwowych przedsiębiorstw gospodarki rolnej od posiadania w tym dniu statusu bezrobotnego - niezgodny z Konstytucją, wyrok TK (Dz.U. z 2005 r. Nr 59, poz. 517). g) ust. 10 otrzymuje brzmienie: „10. Osobom wymienionym w ust. 9 przysługuje świadczenie przedemerytalne w wysokości 120 % zasiłku, o którym mowa w art. 24 ust. 1.”;
+    - **f)** ust. 9 otrzymuje brzmienie:
+
+      > „9. Pracownikowi byłego państwowego przedsiębiorstwa gospodarki rolnej przysługuje świadczenie przedemerytalne, jeżeli [w dniu 7 listopada 2001 r.] posiadał status bezrobotnego oraz spełniał łącznie następujące warunki:  
+      > 1) osiągnął wiek - co najmniej 50 lat kobieta i 55 lat mężczyzna, 2) posiadał okres uprawniający do emerytury - wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, 3) był zatrudniony w pełnym wymiarze czasu pracy w państwowym przedsiębiorstwie gospodarki rolnej przez okres co najmniej 10 lat, 4) zamieszkiwał w powiecie (gminie) uznanym za zagrożony szczególnie wysokim bezrobociem strukturalnym.”,  
+
+      zdanie pierwsze w ust. 9 w części, w jakiej zawiera zwrot: „w dniu 7 listopada 2001 r.”, uzależniający prawo do świadczenia przedemerytalnego pracowników byłych państwowych przedsiębiorstw gospodarki rolnej od posiadania w tym dniu statusu bezrobotnego - niezgodny z Konstytucją, wyrok TK (Dz.U. z 2005 r. Nr 59, poz. 517). g) ust. 10 otrzymuje brzmienie: „10. Osobom wymienionym w ust. 9 przysługuje świadczenie przedemerytalne w wysokości 120 % zasiłku, o którym mowa w art. 24 ust. 1.”;
 
 - **15)** w art. 37l:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Prawo do świadczenia przedemerytalnego przysługuje osobie, która spełniła warunki do jego nabycia w dniu rejestracji w powiatowym urzędzie pracy. Prawo do świadczenia przedemerytalnego ustala się na wniosek tej osoby.”,
@@ -96,7 +116,12 @@ source: pdf
     - **a)** w ust. 1 skreśla się wyrazy „zasiłek przedemerytalny lub” oraz wyrazy „art.
     - **b)** w ust. 3 skreśla się wyrazy „zasiłku przedemerytalnego oraz”;
 
-- **18)** art. 37n otrzymuje brzmienie: „Art. 37n. 1. Prawo do świadczenia przedemerytalnego ustaje z dniem, w którym osoba uprawniona przestała spełniać warunki, o których mowa w art. 2 ust. 1 pkt 2, z zastrzeżeniem ust. 2. 2. Prawo do świadczenia przedemerytalnego ulega zawieszeniu w przypadku: 1) podjęcia pozarolniczej działalności, 2) podjęcia zatrudnienia lub innej pracy zarobkowej, jeżeli łączna kwota przychodów, w rozumieniu przepisów o podatku dochodowym od osób fizycznych, uzyskanych w danym miesiącu z tytułu zatrudnienia i innej pracy zarobkowej oraz otrzymywanego świadczenia przedemerytalnego byłaby wyższa od kwoty 200 % zasiłku, o którym mowa w art. 24 ust. 1, 3) osiągania przychodów z innych tytułów niż wymienione w pkt 1 i 2, podlegających opodatkowaniu podatkiem dochodowym od osób fizycznych oraz uzyskiwania diet i innych należności pieniężnych przez osoby wykonujące czynności związane z pełnieniem obowiązków społecznych i obywatelskich, jeżeli łączna kwota uzyskanych przychodów w danym miesiącu z tych tytułów oraz z tytułu świadczenia przedemerytalnego byłaby wyższa od kwoty 200 % zasiłku, o którym mowa w art. 24 ust. 1.”;
+- **18)** art. 37n otrzymuje brzmienie:
+
+  > „Art. 37n.  
+  > 1. Prawo do świadczenia przedemerytalnego ustaje z dniem, w którym osoba uprawniona przestała spełniać warunki, o których mowa w art. 2 ust. 1 pkt 2, z zastrzeżeniem ust. 2.  
+  > 2. Prawo do świadczenia przedemerytalnego ulega zawieszeniu w przypadku:  
+  > 1) podjęcia pozarolniczej działalności, 2) podjęcia zatrudnienia lub innej pracy zarobkowej, jeżeli łączna kwota przychodów, w rozumieniu przepisów o podatku dochodowym od osób fizycznych, uzyskanych w danym miesiącu z tytułu zatrudnienia i innej pracy zarobkowej oraz otrzymywanego świadczenia przedemerytalnego byłaby wyższa od kwoty 200 % zasiłku, o którym mowa w art. 24 ust. 1, 3) osiągania przychodów z innych tytułów niż wymienione w pkt 1 i 2, podlegających opodatkowaniu podatkiem dochodowym od osób fizycznych oraz uzyskiwania diet i innych należności pieniężnych przez osoby wykonujące czynności związane z pełnieniem obowiązków społecznych i obywatelskich, jeżeli łączna kwota uzyskanych przychodów w danym miesiącu z tych tytułów oraz z tytułu świadczenia przedemerytalnego byłaby wyższa od kwoty 200 % zasiłku, o którym mowa w art. 24 ust. 1.”;  
 - **19)** w art. 37o:
     - **a)** w ust. 1 skreśla się wyrazy „zasiłków przedemerytalnych i”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Świadczenia przedemerytalne są finansowane z budżetu państwa, w ramach dotacji dla Funduszu Pracy, z zastrzeżeniem ust. 3.”,
@@ -131,7 +156,12 @@ source: pdf
 
 **Art. 6.** W ustawie z dnia 18 września 2001 r. o ułatwieniu zatrudnienia absolwentom szkół (Dz.U. Nr 122, poz. 1325) wprowadza się następujące zmiany:
 
-- **1)** art. 1 otrzymuje brzmienie: „Art. 1. Przepisy ustawy stosuje się do osób zamieszkałych w rejonach uznanych za zagrożone szczególnie wysokim bezrobociem strukturalnym , które są: 1) absolwentami, którzy uczęszczali w systemie dziennym do ponadpodstawowych oraz ponadgimnazjalnych szkół publicznych lub niepublicznych o uprawnieniach szkoły publicznej albo szkoły wyższej, 2) absolwentami szkół, o których mowa w pkt 1, do których uczęszczali w systemie wieczorowym lub zaocznym, jeżeli w ostatnich 12 miesiącach trwania nauki nie byli zatrudnieni, 3) absolwentami co najmniej 12-miesięcznego przygotowania zawodowego, odbytego w ramach Ochotniczych Hufców Pracy, 4) absolwentami dziennych kursów zawodowych, trwających co najmniej 24 miesiące, jeżeli w okresie ostatnich 12 miesięcy ich trwania nie byli zatrudnieni, 5) absolwentami szkół specjalnych, 6) niepełnosprawnymi, którzy uzyskali uprawnienia do wykonywania zawodu, oraz w okresie do 12 miesięcy, od dnia określonego w dyplomie, świadectwie ukończenia szkoły lub zaświadczeniu o ukończeniu kursu, podjęli po raz pierwszy zatrudnienie lub we własnym imieniu podjęli i wykonują działalność gospodarczą, zwanych dalej „absolwentami”.”;
+- **1)** art. 1 otrzymuje brzmienie:
+
+  > „Art. 1. Przepisy ustawy stosuje się do osób zamieszkałych w rejonach uznanych za zagrożone szczególnie wysokim bezrobociem strukturalnym , które są:  
+  > 1) absolwentami, którzy uczęszczali w systemie dziennym do ponadpodstawowych oraz ponadgimnazjalnych szkół publicznych lub niepublicznych o uprawnieniach szkoły publicznej albo szkoły wyższej, 2) absolwentami szkół, o których mowa w pkt 1, do których uczęszczali w systemie wieczorowym lub zaocznym, jeżeli w ostatnich 12 miesiącach trwania nauki nie byli zatrudnieni, 3) absolwentami co najmniej 12-miesięcznego przygotowania zawodowego, odbytego w ramach Ochotniczych Hufców Pracy, 4) absolwentami dziennych kursów zawodowych, trwających co najmniej 24 miesiące, jeżeli w okresie ostatnich 12 miesięcy ich trwania nie byli zatrudnieni, 5) absolwentami szkół specjalnych, 6) niepełnosprawnymi, którzy uzyskali uprawnienia do wykonywania zawodu, oraz w okresie do 12 miesięcy, od dnia określonego w dyplomie, świadectwie ukończenia szkoły lub zaświadczeniu o ukończeniu kursu, podjęli po raz pierwszy zatrudnienie lub we własnym imieniu podjęli i wykonują działalność gospodarczą, zwanych dalej „absolwentami”.  
+
+  ”;
 - **2)** w art. 2 w ust. 1 wyrazy „finansowane są z budżetu państwa” zastępuje się wyrazami „w wysokości nie wyższej niż należne od najniższego wynagrodzenia za pracę - finansowane są z budżetu państwa, w ramach dotacji dla Funduszu Pracy”;
 - **3)** w art. 3:
     - **a)** w ust. 2 po wyrazie „następuje” dodaje się wyrazy „w okresach półrocznych”,

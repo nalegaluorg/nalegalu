@@ -35,9 +35,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 5 października 2017 r.
 w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka Na podstawie art. 12 ust. 4 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2019 r. poz. 1598 oraz z 2022 r.
 poz. 91) zarządza się, co następuje:
-§ 1. Wyznacza się wojewodów dolnośląskiego, kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, mazowieckiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, wielkopolskiego oraz zachodniopomorskiego jako organy właściwe w zakresie:
-1) przyjmowania wniosków o przyznanie lub przedłużenie ważności Karty Polaka;
-2) wydawania decyzji w sprawach, o których mowa w pkt 1.
-§ 2. Z właściwości wojewodów wymienionych w § 1 w sprawach, o których mowa w § 1, mogą skorzystać obywatele Ukrainy, Republiki Białorusi oraz Federacji Rosyjskiej albo osoby posiadające w tych państwach status bezpaństwowca.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 1.** Wyznacza się wojewodów dolnośląskiego, kujawsko-pomorskiego, lubelskiego, lubuskiego, łódzkiego, małopolskiego, mazowieckiego, opolskiego, podkarpackiego, podlaskiego, pomorskiego, śląskiego, świętokrzyskiego, warmińsko-mazurskiego, wielkopolskiego oraz zachodniopomorskiego jako organy właściwe w zakresie:
+
+- **1)** przyjmowania wniosków o przyznanie lub przedłużenie ważności Karty Polaka;
+- **2)** wydawania decyzji w sprawach, o których mowa w pkt 1.
+
+**§ 2.** Z właściwości wojewodów wymienionych w § 1 w sprawach, o których mowa w § 1, mogą skorzystać obywatele Ukrainy, Republiki Białorusi oraz Federacji Rosyjskiej albo osoby posiadające w tych państwach status bezpaństwowca.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

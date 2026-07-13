@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001339) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1339/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania osobowości prawnej Zgromadzeniu Sióstr Błogosławionej Jadwigi Królowej Służebnic Chrystusa Obecnego z siedzibą w Krakowie Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2013 r. poz. 1169, z 2014 r. poz. 498, z 2016 r. poz. 1948 oraz z 2017 r. poz. 60) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra–Szefa Urzędu Rady Ministrów z dnia 9 lutego 1995 r. w sprawie nadania osobowości prawnej Zgromadzeniu Sióstr Błogosławionej Jadwigi Królowej Służebnic Chrystusa Obecnego z siedzibą w Krakowie (Dz. U. poz. 66) wprowadza się następujące zmiany:
-1) tytuł otrzymuje brzmienie: „w sprawie nadania osobowości prawnej Zgromadzeniu Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego”;
-2) § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Zgromadzenie Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego, erygowanej przez Metropolitę Krakowskiego.”;
-3) po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Siedzibą Zgromadzenia Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego jest Kraków.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** W rozporządzeniu Ministra–Szefa Urzędu Rady Ministrów z dnia 9 lutego 1995 r. w sprawie nadania osobowości prawnej Zgromadzeniu Sióstr Błogosławionej Jadwigi Królowej Służebnic Chrystusa Obecnego z siedzibą w Krakowie (Dz. U. poz. 66) wprowadza się następujące zmiany:
+
+- **1)** tytuł otrzymuje brzmienie: „w sprawie nadania osobowości prawnej Zgromadzeniu Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego”;
+- **2)** § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Zgromadzenie Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego, erygowanej przez Metropolitę Krakowskiego.”;
+- **3)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Siedzibą Zgromadzenia Sióstr Świętej Jadwigi Królowej Służebnic Chrystusa Obecnego jest Kraków.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

@@ -29,7 +29,14 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych (Dz.U. z 2001 r. Nr 79, poz. 856, Nr 154, poz. 1799 oraz z 2002 r. Nr 153, poz. 1271) wprowadza się następujące zmiany:
 
-- **1)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. 1. Nadzór nad działalnością administracyjną kolegiów sprawuje Prezes Rady Ministrów. 2. Prezes Rady Ministrów może powierzyć wykonywanie nadzoru, o którym mowa w ust. 1, ministrowi właściwemu do spraw administracji publicznej. 3. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych, określi, w drodze rozporządzenia, szczegółowy tryb sprawowania nadzoru, o którym mowa w ust. 1, uwzględniając, że nadzór ten: 1) ma służyć sprawnemu i rzetelnemu wykonywaniu zadań powierzonych kolegiom; 2) nie może naruszać uprawnień sądu administracyjnego sprawującego kontrolę orzecznictwa kolegium.”;
+- **1)** po art. 3 dodaje się art. 3a w brzmieniu:
+
+  > „Art. 3a.  
+  > 1. Nadzór nad działalnością administracyjną kolegiów sprawuje Prezes Rady Ministrów.  
+  > 2. Prezes Rady Ministrów może powierzyć wykonywanie nadzoru, o którym mowa w ust. 1, ministrowi właściwemu do spraw administracji publicznej.  
+  > 3. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych, określi, w drodze rozporządzenia, szczegółowy tryb sprawowania nadzoru, o którym mowa w ust. 1, uwzględniając, że nadzór ten:  
+  > 1) ma służyć sprawnemu i rzetelnemu wykonywaniu zadań powierzonych kolegiom;  
+  > 2) nie może naruszać uprawnień sądu administracyjnego sprawującego kontrolę orzecznictwa kolegium.”;  
 - **2)** w art. 6:
     - **a)** w ust. 1: - w pkt 3 przecinek zastępuje się kropką, - uchyla się pkt 4,
     - **b)** dodaje się ust. 1a w brzmieniu: „1a. Prezes Rady Ministrów może odwołać prezesa kolegium w przypadku stwierdzenia przez ministra właściwego do spraw administracji publicznej powtarzającego się naruszania prawa podczas wykonywania obowiązków lub uchylania się od ich wykonywania.”,

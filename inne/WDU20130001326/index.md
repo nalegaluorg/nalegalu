@@ -48,5 +48,6 @@ d) dotychczasowy pkt 5.2.58. „Automatyczna kontrola prędkości” oznacza si�
 2) w części 9 „Konstrukcje znaków drogowych pionowych” w pkt 9.4 „Znaki informacyjne” opis pod rysunkiem:
 a) „Rys. 9.4.77. Konstrukcja znaku D-52” otrzymuje brzmienie: „Rys. 9.4.78. Konstrukcja znaku D-52”,
 b) „Rys. 9.4.78. Konstrukcja znaku D-53” otrzymuje brzmienie: „Rys. 9.4.79. Konstrukcja znaku D-53”.
-§ 2. Znaki D-44 „strefa parkowania” i D-45 „koniec strefy parkowania” stosowane w organizacji ruchu na drogach przed dniem wejścia w życie rozporządzenia uznaje się za równoważne odpowiednio znakom D-44 „strefa płatnego parkowania” i D-45 „koniec strefy płatnego parkowania”.
+
+**§ 2.** Znaki D-44 „strefa parkowania” i D-45 „koniec strefy parkowania” stosowane w organizacji ruchu na drogach przed dniem wejścia w życie rozporządzenia uznaje się za równoważne odpowiednio znakom D-44 „strefa płatnego parkowania” i D-45 „koniec strefy płatnego parkowania”.
 

@@ -26,17 +26,21 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000739) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/739/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Polskiej Organizacji Turystycznej Na podstawie art. 12 ustawy z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej (Dz. U. z 2018 r. poz. 563) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Gospodarki z dnia 28 kwietnia 2006 r. w sprawie nadania statutu Polskiej Organizacji Turystycznej (Dz. U. z 2016 r. poz. 456) w załączniku wprowadza się następujące zmiany:
-1) w § 11 ust. 4 otrzymuje brzmienie: „4. Obsługę Rady prowadzi Biuro Administracyjne Polskiej Organizacji Turystycznej, o którym mowa w § ust. 1 pkt 4.”;
-2) w § 14 ust. 1 otrzymuje brzmienie: „1. W skład Biura Prezesa Polskiej Organizacji Turystycznej wchodzą następujące komórki organizacyjne oraz samodzielne stanowiska:
-1) Departament Strategii i Marketingu (DSM);
-2) Departament Komunikacji Internetowej (DKI);
-3) Departament Promocji Turystyki Krajowej (DPTK);
-4) Biuro Administracyjne (BA);
-5) Biuro Finansowo-Ekonomiczne (BFE);
-6) samodzielne stanowisko ds. kadr i szkoleń;
-7) samodzielne stanowisko ds. audytu wewnętrznego;
-8) samodzielne stanowisko – rzecznik prasowy.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sportu i Turystyki: W. Bańka
+
+**§ 1.** W rozporządzeniu Ministra Gospodarki z dnia 28 kwietnia 2006 r. w sprawie nadania statutu Polskiej Organizacji Turystycznej (Dz. U. z 2016 r. poz. 456) w załączniku wprowadza się następujące zmiany:
+
+- **1)** w § 11 ust. 4 otrzymuje brzmienie: „4. Obsługę Rady prowadzi Biuro Administracyjne Polskiej Organizacji Turystycznej, o którym mowa w § ust. 1 pkt 4.”;
+- **2)** w § 14 ust. 1 otrzymuje brzmienie:
+
+  > „1. W skład Biura Prezesa Polskiej Organizacji Turystycznej wchodzą następujące komórki organizacyjne oraz samodzielne stanowiska:  
+  > 1) Departament Strategii i Marketingu (DSM);  
+  > 2) Departament Komunikacji Internetowej (DKI);  
+  > 3) Departament Promocji Turystyki Krajowej (DPTK);  
+  > 4) Biuro Administracyjne (BA);  
+  > 5) Biuro Finansowo-Ekonomiczne (BFE);  
+  > 6) samodzielne stanowisko ds. kadr i szkoleń;  
+  > 7) samodzielne stanowisko ds. audytu wewnętrznego;  
+  > 8) samodzielne stanowisko – rzecznik prasowy.”.  
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sportu i Turystyki: W. Bańka
 

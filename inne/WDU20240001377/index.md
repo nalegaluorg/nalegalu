@@ -30,39 +30,53 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 22 maja 2023 r. zmieniającego rozporządzenie w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe (Dz. U. poz. 989), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 13 kwietnia 2011 r.
 w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe Na podstawie art. 62a ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa wykaz przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe.
+
+**§ 1.**
+
+1. Rozporządzenie określa wykaz przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe.
+
 2. Wykaz, o którym mowa w ust. 1, stanowi załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2006 r. w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe (Dz. U. poz. 1158).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WYKAZ PRZEJŚĆ GRANICZNYCH, PRZEZ KTÓRE MOGĄ BYĆ WWOŻONE NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ I WYWOŻONE Z TEGO TERYTORIUM MATERIAŁY JĄDROWE, ŹRÓDŁA PROMIENIOTWÓRCZE, URZĄDZENIA ZAWIERAJĄCE TAKIE ŹRÓDŁA, ODPADY PROMIENIOTWÓRCZE I WYPALONE PALIWO JĄDROWE
-1. Na granicy państwowej z Federacją Rosyjską:
-1) Bezledy (drogowe);
-2) Braniewo (kolejowe);
-3) Grzechotki (drogowe);
-4) Gronowo (drogowe).
+
+**§ 2.** Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2006 r. w sprawie wykazu przejść granicznych, przez które mogą być wwożone na terytorium Rzeczypospolitej Polskiej i wywożone z tego terytorium materiały jądrowe, źródła promieniotwórcze, urządzenia zawierające takie źródła, odpady promieniotwórcze i wypalone paliwo jądrowe (Dz. U. poz. 1158).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WYKAZ PRZEJŚĆ GRANICZNYCH, PRZEZ KTÓRE MOGĄ BYĆ WWOŻONE NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ I WYWOŻONE Z TEGO TERYTORIUM MATERIAŁY JĄDROWE, ŹRÓDŁA PROMIENIOTWÓRCZE, URZĄDZENIA ZAWIERAJĄCE TAKIE ŹRÓDŁA, ODPADY PROMIENIOTWÓRCZE I WYPALONE PALIWO JĄDROWE 1. Na granicy państwowej z Federacją Rosyjską:
+
+- **1)** Bezledy (drogowe);
+- **2)** Braniewo (kolejowe);
+- **3)** Grzechotki (drogowe);
+- **4)** Gronowo (drogowe).
+
 2. Na granicy państwowej z Republiką Białorusi:
-1) Bobrowniki (drogowe);
-2) Kukuryki (drogowe);
-3) Kuźnica (drogowe);
-4) Terespol (kolejowe).
+
+- **1)** Bobrowniki (drogowe);
+- **2)** Kukuryki (drogowe);
+- **3)** Kuźnica (drogowe);
+- **4)** Terespol (kolejowe).
+
 3. Na granicy państwowej z Ukrainą:
-1) Dorohusk (drogowe);
-2) Dorohusk (kolejowe);
-3) Korczowa (drogowe);
-4) Medyka (drogowe);
-5) Przemyśl (kolejowe).
+
+- **1)** Dorohusk (drogowe);
+- **2)** Dorohusk (kolejowe);
+- **3)** Korczowa (drogowe);
+- **4)** Medyka (drogowe);
+- **5)** Przemyśl (kolejowe).
+
 4. Morskie przejścia graniczne:
-1) Gdańsk-Port;
-2) Gdynia;
-3) Szczecin;
-4) Świnoujście.
+
+- **1)** Gdańsk-Port;
+- **2)** Gdynia;
+- **3)** Szczecin;
+- **4)** Świnoujście.
+
 5. Lotnicze przejścia graniczne:
-1) Gdańsk-Rębiechowo;
-2) Katowice-Pyrzowice;
-3) Kielce-Masłów;
-4) Kraków-Balice;
-5) Poznań-Ławica;
-6) Warszawa-Okęcie;
-7) Wrocław-Strachowice;
-8) Rzeszów-Jasionka.
+
+- **1)** Gdańsk-Rębiechowo;
+- **2)** Katowice-Pyrzowice;
+- **3)** Kielce-Masłów;
+- **4)** Kraków-Balice;
+- **5)** Poznań-Ławica;
+- **6)** Warszawa-Okęcie;
+- **7)** Wrocław-Strachowice;
+- **8)** Rzeszów-Jasionka.
+
 

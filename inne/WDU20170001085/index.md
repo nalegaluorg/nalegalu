@@ -27,11 +27,16 @@ source: pdf
 
 w sprawie określenia wysokości wynagrodzenia przysługującego członkom Rady do Spraw Repatriacji Na podstawie art. 3f ust. 15 ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2014 r. poz. 1392, z 2015 r.
 poz. 1274 oraz z 2017 r. poz. 60 i 858) zarządza się, co następuje:
-§ 1. 1. Wynagrodzenie za udział w pracach oraz realizację zadań Rady do Spraw Repatriacji, zwanej dalej „Radą”, wynosi:
-1) 3000 zł miesięcznie dla przewodniczącego Rady;
-2) 2500 zł miesięcznie dla wiceprzewodniczącego Rady;
-3) 1500 zł miesięcznie dla każdego z pozostałych członków Rady.
+
+**§ 1.**
+
+1. Wynagrodzenie za udział w pracach oraz realizację zadań Rady do Spraw Repatriacji, zwanej dalej „Radą”, wynosi:
+
+- **1)** 3000 zł miesięcznie dla przewodniczącego Rady;
+- **2)** 2500 zł miesięcznie dla wiceprzewodniczącego Rady;
+- **3)** 1500 zł miesięcznie dla każdego z pozostałych członków Rady.
+
 2. W przypadku nieobecności członka na posiedzeniu Rady wynagrodzenie, o którym mowa w ust. 1, ulega zmniejszeniu proporcjonalnie do liczby posiedzeń Rady, w których członek nie uczestniczył w danym miesiącu.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

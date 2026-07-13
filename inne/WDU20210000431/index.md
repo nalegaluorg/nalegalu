@@ -27,10 +27,15 @@ source: pdf
 
 w sprawie nadania statutu Zakładowi Ubezpieczeń Społecznych Na podstawie art. 74 ust. 5 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U.
 z 2021 r. poz. 423) zarządza się, co następuje:
-§ 1. Zakładowi Ubezpieczeń Społecznych nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 13 stycznia 2011 r. w sprawie nadania statutu Zakładowi Ubezpieczeń Społecznych (Dz. U. poz. 93).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rodziny i Polityki Społecznej: M. Maląg STATUT ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH
+
+**§ 1.** Zakładowi Ubezpieczeń Społecznych nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 13 stycznia 2011 r. w sprawie nadania statutu Zakładowi Ubezpieczeń Społecznych (Dz. U. poz. 93).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rodziny i Polityki Społecznej: M. Maląg STATUT ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH
+
+## Załącznik
+
 § 1. Zakład Ubezpieczeń Społecznych, zwany dalej „Zakładem”, działa na podstawie ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2021 r. poz. 423), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. Do kompetencji Prezesa Zakładu należą sprawy określone w art. 73 ust. 3 ustawy.
 2. Prezes Zakładu może upoważnić:

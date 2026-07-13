@@ -26,135 +26,130 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/567/text.pdf) |
 
 w sprawie urządzeń radiowych nadawczych lub nadawczo-odbiorczych, które mogą być używane bez pozwolenia radiowego Na podstawie art. 144 ust. 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2021 r. poz. 576 oraz z 2022 r. poz. 501) zarządza się, co następuje:
-§ 1. Rozporządzenie rozszerza zakres urządzeń radiowych nadawczych lub nadawczo-odbiorczych, zwanych dalej „urządzeniami”, które mogą być używane bez pozwolenia radiowego, zwanego dalej „pozwoleniem”, oraz określa:
-1) warunki używania tych urządzeń, w tym:
-a) zakresy wykorzystywanych przez nie częstotliwości,
-b) maksymalną moc promieniowaną lub maksymalne natężenie pola magnetycznego,
-c) obszar używania tych urządzeń;
-2) rodzaje służb radiokomunikacyjnych, w których urządzenia te mogą być używane.
-§ 2. Określenia, oznaczenia, skróty i symbole użyte w rozporządzeniu i załącznikach do rozporządzenia oznaczają:
-1) [-] – brak ograniczeń;
-2) AFA (Adaptive Frequency Agility) – zdolność do adaptacyjnego wyboru kanału nadawania spośród zdefiniowanego dla danego urządzenia zbioru, w celu unikania zakłóceń pracy urządzeń;
-3) aktywność nadajnika – wyrażony w procentach stosunek czasu nadawania do długości okresu obserwacji, przy czym jako okres obserwacji przyjmuje się dowolny, jednogodzinny, ciągły przedział czasu;
-4) antena dedykowana (dedicated antenna) – antenę przeznaczoną do stosowania z danym urządzeniem z możliwością jej odłączenia, ale zaprojektowaną i dostarczaną jako niezbędna część urządzenia, którego badania oraz ocena zgodności z zasadniczymi wymaganiami, o których mowa w art. 153 ust. 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, zostały przeprowadzone z tą anteną;
-5) antena zewnętrzna (external antenna) – antenę dołączaną do urządzenia za pomocą złącza, w które wyposażone jest urządzenie, stosowaną do urządzeń, których badania oraz ocena zgodności z zasadniczymi wymaganiami, o których mowa w art. 153 ust. 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, zostały przeprowadzone bez anteny;
-6) antena zintegrowana (integral antenna) – antenę zaprojektowaną jako integralna część urządzenia w sposób uniemożliwiający jej odłączenie;
-7) AES (Aircraft Earth Stations) – ziemską stację statku powietrznego;
-8) AVI (Automatic Vehicle Identification) – automatyczną identyfikację pojazdu;
-9) balisa – urządzenie montowane w pobliżu toru pojazdów szynowych służące do transmisji danych między tym urządzeniem a pojazdem lub między pojazdem a tym urządzeniem;
-10) BSS (Broadcasting Satellite Service) – służbę radiokomunikacyjną radiodyfuzji satelitarnej;
-11) CEPT (European Conference of Postal and Telecommunications Administrations) – Europejską Konferencję Administracji Pocztowych i Telekomunikacyjnych;
-12) DEC (Decision) – decyzję;
-13) DSB-AM – emisję dwuwstęgową sygnału zmodulowanego amplitudowo;
-14) ECC (Electronic Communications Committee) – Komitet Komunikacji Elektronicznej;
-15) e.i.r.p. (equivalent isotropically radiated power) – zastępczą moc promieniowaną izotropowo;
-16) e.r.p. (effective radiated power) – skuteczną moc promieniowania;
-17) ESIM (Earth Stations In-Motion) – ziemskie stacje satelitarne w ruchu;
-18) ESOMP (Earth Stations on Mobile Platforms) – ziemskie stacje satelitarne na platformach w ruchu;
-19) ESV (Earth Stations on board Vessels) – ziemskie stacje satelitarne na pokładach statków;
-20) ETSI (European Telecommunications Standard Institute) – Europejski Instytut Norm Telekomunikacyjnych;
-21) Eurobalise – system informacji o ruchu pociągu wchodzący w skład Europejskiego Systemu Zarządzania Ruchem Kolejowym;
-22) Euroloop – system wchodzący w skład Europejskiego Systemu Zarządzania Ruchem Kolejowym;
-23) FDD (Frequency Division Duplex) – dupleks z podziałem częstotliwościowym;
-24) FHSS (Frequency Hopping Spread Spectrum) – rozpraszanie widma ze skokową zmianą częstotliwości;
-25) FSS (Fixed Satellite Service) – służbę radiokomunikacyjną stałą satelitarną;
-26) GSO (Geostationary Satellite Orbit) – orbitę geostacjonarną;
-27) GSM (Global System for Mobile Communications) – globalny system łączności ruchomej;
-28) HDAFSS (High Density Applications in the Fixed Satellite Service) – urządzenia pracujące w służbie radiokomunikacyjnej stałej satelitarnej gęsto rozmieszczone na danym obszarze;
-29) HEST (High e.i.r.p. Satellite Terminal) – terminal satelitarny o dużej zastępczej mocy promieniowanej izotropowo;
-30) HIPERLAN (High Performance Radio Local Area Network) – lokalną radiową sieć o dużej efektywności;
-31) HIRF (High-Intensity Radiated Field) – pole elektromagnetyczne o dużym natężeniu;
-32) ISM (Industrial, Scientific, Medical) – urządzenie generujące i wykorzystujące energię fal radiowych, w szczególności do celów przemysłowych, naukowych, medycznych lub domowych, z wyłączeniem zastosowań do celów telekomunikacyjnych;
-33) identyfikator – urządzenie radiowe wykorzystywane do RFID umieszczane na obiektach ożywionych lub nieożywionych;
-34) interrogator – urządzenie radiowe wykorzystywane do RFID, które aktywuje identyfikator i odbiera przesyłane przez niego dane;
-35) LEST (Low e.i.r.p. Satellite Terminal) – terminal satelitarny o małej zastępczej mocy promieniowanej izotropowo;
-36) LTE (Long Term Evolution) – ewolucję długoterminową dotyczącą standardów komunikacji ruchomej;
-37) MCA (Mobile Communication on Aircraft) – usługę telekomunikacyjną świadczoną w celu umożliwienia osobom znajdującym się na pokładzie statku powietrznego korzystania z publicznych sieci telekomunikacyjnych bez nawiązywania bezpośrednich połączeń z ruchomymi publicznymi sieciami telekomunikacyjnymi pracującymi na lądzie;
-38) MCV (Mobile Communication on Vessels) – usługę telekomunikacyjną świadczoną w celu umożliwienia osobom znajdującym się na pokładzie statku korzystania z publicznych sieci telekomunikacyjnych bez nawiązywania bezpośrednich połączeń z ruchomymi publicznymi sieciami telekomunikacyjnymi pracującymi na lądzie;
-39) NGSO (Non-Geostationary-Satellite Orbit) – orbitę niegeostacjonarną;
-40) NCF (Network Control Facility) – system kontroli sieci;
-41) NCU (Network Control Unit) – jednostkę sterowania siecią;
-42) NMR (Nuclear Magnetic Resonance) – magnetyczny rezonans jądrowy;
-43) PFD (Power Flux Density) – gęstość strumienia mocy;
-44) PMP (Point to MultiPoint) – system typu punkt – wiele punktów;
-45) PMR (Professional Mobile Radio / Private Mobile Radio) – radiotelefon sieci dyspozytorskiej;
-46) PMSE (Programme Making and Special Events) – systemy łączności wykorzystywane podczas nadawania lub produkcji programów radiofonicznych lub telewizyjnych lub wykorzystywane do przekazywania w czasie rzeczywistym informacji audiowizualnej, w szczególności podczas imprez masowych, imprez sportowych lub widowisk;
-47) RLAN (Radio Local Area Network) – lokalną sieć radiową;
-48) RFID (Radio Frequency Identification) – identyfikację radiową;
-49) TTT (Transport and Traffic Telematics) – telematykę transportu i ruchu;
-50) SSB-AM – emisję jednowstęgową sygnału zmodulowanego amplitudowo;
-51) TDD (Time Division Duplex) – dupleks z podziałem czasowym;
-52) TDMA (Time Division Multiple Access) – wielodostęp z podziałem czasowym;
-53) UE – Unię Europejską;
-54) UESFSS (Uncoordinated Earth Stations of the Fixed-Satellite Service (Earth-to-space)) – niekoordynowane stacje ziemskie służby radiokomunikacyjnej stałej satelitarnej (Ziemia–kosmos);
-55) UMTS (Universal Mobile Telecommunications System) – uniwersalny system telekomunikacji ruchomej;
-56) UWB (Ultra Wideband) – ultraszerokopasmowy;
-57) VSAT (Very Small Aperture Terminals) – stacje abonenckie w służbie radiokomunikacyjnej stałej satelitarnej wyposażone w anteny o małej aperturze;
-58) WAS (Wireless Access System) – bezprzewodowy system dostępowy;
-59) WE – Wspólnotę Europejską.
-§ 3. 1. Nie wymaga pozwolenia używanie urządzeń:
-1) pełniących funkcję urządzeń końcowych w sieciach radiokomunikacyjnych w służbie ruchomej lądowej, w których nie są świadczone publicznie dostępne usługi telekomunikacyjne;
-2) będących zakończeniami sieci telekomunikacyjnej w systemie typu punkt – wiele punktów (PMP);
-3) z interfejsem umożliwiającym połączenie, współpracę i wymianę informacji drogą radiową między stacją bazową a telekomunikacyjnym urządzeniem końcowym pracujących w ruchomej lub stacjonarnej publicznej sieci telekomunikacyjnej – przez:
-a) przedsiębiorcę telekomunikacyjnego posiadającego ogólnopolską rezerwację częstotliwości wykorzystywanych do świadczenia usług za pośrednictwem stacji bazowych,
-b) innego przedsiębiorcę lub podmiot wykorzystujący ten interfejs w interesie społecznym, który zawarł umowę w formie pisemnej, określającą co najmniej identyfikację urządzenia, jego lokalizację, warunki instalacji i wykorzystanie w celu uniknięcia szkodliwych zakłóceń, dotyczącą tego interfejsu, z przedsiębiorcą telekomunikacyjnym posiadającym ogólnopolską rezerwację częstotliwości wykorzystywanych do świadczenia usług za pośrednictwem stacji bazowych;
-4) stacji bazowych małej mocy pracujących w zakresach częstotliwości:
-a) 791–821 MHz (nadawanie) i 832–862 MHz (odbiór) z mocą nieprzekraczającą 21 dBm e.r.p.,
-b) 876–915 MHz (odbiór) i 921–960 MHz (nadawanie) z mocą nieprzekraczającą 20 dBm e.r.p.,
-c) 1710–1785 MHz (odbiór) i 1805–1880 MHz (nadawanie) z mocą nieprzekraczającą 20 dBm e.r.p.,
-d) 1920–1980 MHz (odbiór) i 2110–2170 MHz (nadawanie) z mocą nieprzekraczającą 21 dBm e.r.p.,
-e) 2500–2570 MHz (odbiór) i 2620–2690 MHz (nadawanie) z mocą nieprzekraczającą 21 dBm e.r.p.,
-f) 2570–2620 MHz (nadawanie i odbiór) z mocą nieprzekraczającą 21 dBm e.r.p.,
-g) 3400–3800 MHz (nadawanie i odbiór) z mocą nieprzekraczającą 24 dBm e.r.p. dla każdej nośnej o szerokości 20 MHz – wykorzystywanych do świadczenia usług przez przedsiębiorcę telekomunikacyjnego posiadającego rezerwację częstotliwości;
-5) przeznaczonych do używania wyłącznie w zakresie częstotliwości 26,96–27,41 MHz:
-a) typu PR27, spełniających wymagania określone w normach wprowadzających normę ETSI EN 300 433,
-b) z modulacją kątową lub z emisją DSB-AM lub z emisją SSB-AM, spełniających wymagania określone w normach wprowadzających normę ETSI EN 300 433, przy czym dopuszczalna moc wyjściowa nadajnika pracującego z modulacją kątową wynosi do 4 W mocy fali nośnej, z DSB-AM wynosi do 4 W mocy fali nośnej, a z SSB-AM do 12 W szczytowej mocy obwiedni;
-6) bliskiego zasięgu:
-a) ogólnego stosowania, niezależnie od zastosowania lub przeznaczenia urządzenia, określonych w załączniku nr 1 do rozporządzenia, wykorzystywanych w szczególności w telemetrii, zdalnym sterowaniu, systemach alarmowych oraz transmisji danych,
-b) szerokopasmowych systemów transmisji danych, obejmujących urządzenia wykorzystujące szerokopasmowe techniki modulacji w celu dostępu do widma, określonych w załączniku nr 2 do rozporządzenia, wykorzystywanych w szczególności w bezprzewodowych systemach dostępu, takich jak lokalne sieci radiowe (WAS/RLAN), lub w urządzeniach do szerokopasmowej transmisji danych w sieciach danych,
-c) stosowanych w transporcie kolejowym, wykorzystywanych w szczególności dla systemów AVI: Eurobalise i Euroloop, określonych w załączniku nr 3 do rozporządzenia,
-d) do radiolokacji, w tym urządzeń wykorzystywanych w szczególności do określania pozycji, prędkości lub innych właściwości obiektu, określonych w załączniku nr 4 do rozporządzenia,
-e) do sterowania modelami, w tym urządzeń wykorzystujących zdalne sterowanie i telemetrię, których używa się do zdalnego sterowania ruchem modeli w powietrzu, na lądzie, na wodzie lub pod wodą, określonych w załączniku nr 5 do rozporządzenia,
-f) na potrzeby mikrofonów bezprzewodowych i urządzeń wspomagających słuch, przypinanych lub noszonych, profesjonalnych lub przeznaczonych do powszechnego użytku, oraz urządzeń bezprzewodowych do transmisji sygnałów akustycznych, w szczególności głośników bezprzewodowych, słuchawek bezprzewodowych, słuchawek bezprzewodowych do urządzeń przenośnych, zestawów głośnomówiących, dousznych monitorów odsłuchowych wykorzystywanych do przekazywania dźwięku na koncertach i widowiskach scenicznych, określonych w załączniku nr 6 do rozporządzenia,
-g) do identyfikacji RFID, wykorzystywanych w systemach łączności radiowej opartych na identyfikatorach i interrogatorach, określonych w załączniku nr 7 do rozporządzenia,
-h) bezprzewodowych do stosowania w ochronie zdrowia, stanowiących element radiowy aktywnych wyrobów medycznych do implantacji w rozumieniu ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r.
-poz. 1565), określonych w załączniku nr 8 do rozporządzenia,
-i) do zastosowań indukcyjnych, które wykorzystują pole magnetyczne z systemami pętli indukcyjnej do komunikacji zbliżeniowej, określonych w załączniku nr 9 do rozporządzenia,
-j) wykorzystujących technologię UWB, opartych na rozwiązaniach technicznych z zakresu radiokomunikacji bliskiego zasięgu, przeznaczonych do wytwarzania i emitowania energii fal radiowych w zakresie częstotliwości o szerokości przekraczającej 50 MHz, określonych w załączniku nr 10 do rozporządzenia;
-7) samochodowych radarów bliskiego zasięgu, których warunki używania określa załącznik nr 11 do rozporządzenia;
-8) ziemskich stacji satelitarnych, których rodzaje określa załącznik nr 12 do rozporządzenia;
-9) stacji bazowych wykorzystywanych do świadczenia usług MCV, umiejscowionych na pokładach statków, dla których warunki używania określa załącznik nr 13 do rozporządzenia;
-10) stacji bazowych wykorzystywanych do świadczenia usług MCA, umiejscowionych na pokładach statków powietrznych, dla których warunki używania określa załącznik nr 14 do rozporządzenia;
-11) bliskiego zasięgu pracujących w zakresach częstotliwości 874–874,4 MHz i 916,1–919,4 MHz, dla których warunki używania określa załącznik nr 15 do rozporządzenia;
-12) wykorzystywanych w PMSE, dla których warunki używania określa załącznik nr 16 do rozporządzenia;
-13) pracujących w zakresach częstotliwości 29,7 MHz–3 GHz w podziemnych wyrobiskach górniczych, z mocą nieprzekraczającą 500 mW e.r.p. na głębokości większej niż 100 m poniżej poziomu terenu i w odległości nie mniejszej niż 100 m od pionowego tunelu szybowego.
-2. Urządzenia, o których mowa w ust. 1, nie mogą powodować szkodliwych zakłóceń w pracy innych urządzeń.
-Urządzenia, o których mowa w ust. 1 pkt 5–13, nie podlegają ochronie przed szkodliwymi zakłóceniami powodowanymi przez inne urządzenia.
-3. Urządzenia, o których mowa w ust. 1 pkt 1–7, 9–13, są używane w naziemnych służbach radiokomunikacyjnych.
-Urządzenia, o których mowa w ust. 1 pkt 8, są używane w satelitarnych służbach radiokomunikacyjnych.
-4. Obszarem używania urządzeń, o których mowa w ust. 1 pkt 1–9, 12 i 13, jest terytorium Rzeczypospolitej Polskiej.
-Obszarem używania urządzeń, o których mowa w ust. 1 pkt 6 lit. j, pkt 9 i 10, jest pokład – odpowiednio – statku lub statku powietrznego, na którym oferowana jest usługa dostępu do sieci, z którą te urządzenia mogą współpracować.
-§ 4. Traci moc rozporządzenie Ministra Administracji i Cyfryzacji z dnia 12 grudnia 2014 r. w sprawie urządzeń radiowych nadawczych lub nadawczo-odbiorczych, które mogą być używane bez pozwolenia radiowego (Dz. U. z 2017 r.
-poz. 96).
-§ 5. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-Minister Cyfryzacji: wz. J. Cieszyński Załączniki do rozporządzenia Ministra Cyfryzacji z dnia 9 lutego 2022 r. (poz. ...... ) Załącznik nr URZĄDZENIA BLISKIEGO ZASIĘGU OGÓLNEGO STOSOWANIA URZĄDZENIA BLISKIEGO ZASIĘGU OGÓLNEGO STOSOWANIA Maksymalna moc promieniowana Odstęp Zakres Aktywność lub maksymalne sąsiednio- Uwagi częstotliwości nadajnika natężenie pola kanałowy magnetycznego 24,00–24,15 GHz 100 mW e.i.r.p. [-] [-] Dotyczy urządzeń spełniających wymagania określone w normie wprowadzającej normę ETSI EN 300 440.
-Zakres jest przeznaczony również dla urządzeń ISM.
-Urządzenia pracujące w tym zakresie akceptują szkodliwe zakłócenia, jakich mogą doznać podczas pracy urządzeń ISM.
-Załącznik nr URZĄDZENIA URZĄDZENIA BLISKIEGO BLISKIEGO ZASIĘGU ZASIĘGU SZEROKOPASMOWYCH SZEROKOPASMOWYCH SYSTEMÓW SYSTEMÓW TRANSMISJI TRANSMISJI DANYCH DANYCH Maksymalna moc promieniowana lub Odstęp Zakres Aktywność maksymalne sąsiednio- Uwagi częstotliwości nadajnika natężenie pola kanałowy magnetycznego 5150–5350 MHz 200 mW e.i.r.p [-] [-] Dopuszcza się używanie urządzeń wyłącznie wewnątrz pomieszczeń.
-Należy stosować techniki dostępu do widma oraz osłabiania szkodliwych zakłóceń, których skuteczność działania odpowiada co najmniej technikom określonym w normach zharmonizowanych przyjętych na mocy dyrektywy Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r.
-w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającej dyrektywę 1999/5/WE (Dz. Urz.
-UE L 153 z 22.05.2014, str. 62 i Dz. Urz. UE L 212 z 22.08.2018, str. 1).
-Urządzenia funkcjonujące w zakresie 5250–5350 MHz stosują sterowanie mocą nadajnika, które zapewnia współczynnik osłabiania zakłóceń przynajmniej 3 dB przy maksymalnej dopuszczalnej mocy wyjściowej systemów. Jeżeli sterowanie mocą nadajnika nie jest stosowane, maksymalną dopuszczalną Średnia e.i.r.p. – zastępcza moc promieniowana izotopowo w trakcie transmisji, która odpowiada najwyższej mocy, jeżeli stosuje się sterowanie mocą.
-średnią e.i.r.p.
-i odpowiadające limity średniej gęstości e.i.r.p. dla 5250–5350 MHz zmniejsza się o 3 dB.
-Urządzenia funkcjonujące w zakresie 5250–5350 MHz używają technik osłabiania zakłóceń, które zapewniają przynajmniej ochronę zgodną z wymaganiami dotyczącymi wykrywania, eksploatacji i reagowania, opisanymi w normie ETSI EN 301 893, w celu zapewnienia kompatybilnego funkcjonowania z systemami radiolokacyjnymi. Takie techniki osłabiania zakłóceń wyrównują prawdopodobieństwo wybrania konkretnego kanału z wszystkich dostępnych kanałów, tak aby zapewnić jak najbardziej jednolite rozłożenie obciążenia widma.
-Maksymalna średnia gęstość mocy e.i.r.p. jest ograniczona do 10 mW/MHz w każdym paśmie o szerokości 1 MHz.
-Dotyczy to urządzeń spełniających wymagania określone w normie wprowadzającej normę ETSI EN 301 893.
-Dziennik Ustaw – 9 – Załącznik Poz. 567 nr URZĄDZENIA BLISKIEGO ZASIĘGU STOSOWANE W TRANSPORCIE KOLEJOWYM URZĄDZENIA BLISKIEGO ZASIĘGU STOSOWANE W TRANSPORCIE KOLEJOWYM Maksymalna moc promieniowana lub Odstęp Zakres Aktywność maksymalne sąsiednio- Uwagi częstotliwości nadajnika natężenie pola kanałowy magnetycznego 27,09–27,10 MHz 42 dBA/m [-] [-] Dotyczy natężenia pola magnetycznego mierzonego w odległości 10 m.
-Dotyczy zdalnego zasilania lub transmisji w łączu „w dół” dla balis torowych, w szczególności w systemie Eurobalise.
-Zakres ten może być opcjonalnie wykorzystywany przez urządzenia służące do aktywacji pętli indukcyjnych, w szczególności w systemie Euroloop.
-Częstotliwość środkowa wynosi 27,095 MHz.
-Dotyczy urządzeń spełniających wymagania określone w normach wprowadzających normy ETSI EN 300 330 i ETSI EN 302 608.
+
+**§ 1.** Rozporządzenie rozszerza zakres urządzeń radiowych nadawczych lub nadawczo-odbiorczych, zwanych dalej „urządzeniami”, które mogą być używane bez pozwolenia radiowego, zwanego dalej „pozwoleniem”, oraz określa:
+
+- **1)** warunki używania tych urządzeń, w tym:
+    - **a)** zakresy wykorzystywanych przez nie częstotliwości,
+    - **b)** maksymalną moc promieniowaną lub maksymalne natężenie pola magnetycznego,
+    - **c)** obszar używania tych urządzeń;
+
+- **2)** rodzaje służb radiokomunikacyjnych, w których urządzenia te mogą być używane.
+
+**§ 2.** Określenia, oznaczenia, skróty i symbole użyte w rozporządzeniu i załącznikach do rozporządzenia oznaczają:
+
+- **1)** [-] – brak ograniczeń;
+- **2)** AFA (Adaptive Frequency Agility) – zdolność do adaptacyjnego wyboru kanału nadawania spośród zdefiniowanego dla danego urządzenia zbioru, w celu unikania zakłóceń pracy urządzeń;
+- **3)** aktywność nadajnika – wyrażony w procentach stosunek czasu nadawania do długości okresu obserwacji, przy czym jako okres obserwacji przyjmuje się dowolny, jednogodzinny, ciągły przedział czasu;
+- **4)** antena dedykowana (dedicated antenna) – antenę przeznaczoną do stosowania z danym urządzeniem z możliwością jej odłączenia, ale zaprojektowaną i dostarczaną jako niezbędna część urządzenia, którego badania oraz ocena zgodności z zasadniczymi wymaganiami, o których mowa w art. 153 ust. 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, zostały przeprowadzone z tą anteną;
+- **5)** antena zewnętrzna (external antenna) – antenę dołączaną do urządzenia za pomocą złącza, w które wyposażone jest urządzenie, stosowaną do urządzeń, których badania oraz ocena zgodności z zasadniczymi wymaganiami, o których mowa w art. 153 ust. 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne, zostały przeprowadzone bez anteny;
+- **6)** antena zintegrowana (integral antenna) – antenę zaprojektowaną jako integralna część urządzenia w sposób uniemożliwiający jej odłączenie;
+- **7)** AES (Aircraft Earth Stations) – ziemską stację statku powietrznego;
+- **8)** AVI (Automatic Vehicle Identification) – automatyczną identyfikację pojazdu;
+- **9)** balisa – urządzenie montowane w pobliżu toru pojazdów szynowych służące do transmisji danych między tym urządzeniem a pojazdem lub między pojazdem a tym urządzeniem;
+- **10)** BSS (Broadcasting Satellite Service) – służbę radiokomunikacyjną radiodyfuzji satelitarnej;
+- **11)** CEPT (European Conference of Postal and Telecommunications Administrations) – Europejską Konferencję Administracji Pocztowych i Telekomunikacyjnych;
+- **12)** DEC (Decision) – decyzję;
+- **13)** DSB-AM – emisję dwuwstęgową sygnału zmodulowanego amplitudowo;
+- **14)** ECC (Electronic Communications Committee) – Komitet Komunikacji Elektronicznej;
+- **15)** e.i.r.p. (equivalent isotropically radiated power) – zastępczą moc promieniowaną izotropowo;
+- **16)** e.r.p. (effective radiated power) – skuteczną moc promieniowania;
+- **17)** ESIM (Earth Stations In-Motion) – ziemskie stacje satelitarne w ruchu;
+- **18)** ESOMP (Earth Stations on Mobile Platforms) – ziemskie stacje satelitarne na platformach w ruchu;
+- **19)** ESV (Earth Stations on board Vessels) – ziemskie stacje satelitarne na pokładach statków;
+- **20)** ETSI (European Telecommunications Standard Institute) – Europejski Instytut Norm Telekomunikacyjnych;
+- **21)** Eurobalise – system informacji o ruchu pociągu wchodzący w skład Europejskiego Systemu Zarządzania Ruchem Kolejowym;
+- **22)** Euroloop – system wchodzący w skład Europejskiego Systemu Zarządzania Ruchem Kolejowym;
+- **23)** FDD (Frequency Division Duplex) – dupleks z podziałem częstotliwościowym;
+- **24)** FHSS (Frequency Hopping Spread Spectrum) – rozpraszanie widma ze skokową zmianą częstotliwości;
+- **25)** FSS (Fixed Satellite Service) – służbę radiokomunikacyjną stałą satelitarną;
+- **26)** GSO (Geostationary Satellite Orbit) – orbitę geostacjonarną;
+- **27)** GSM (Global System for Mobile Communications) – globalny system łączności ruchomej;
+- **28)** HDAFSS (High Density Applications in the Fixed Satellite Service) – urządzenia pracujące w służbie radiokomunikacyjnej stałej satelitarnej gęsto rozmieszczone na danym obszarze;
+- **29)** HEST (High e.i.r.p. Satellite Terminal) – terminal satelitarny o dużej zastępczej mocy promieniowanej izotropowo;
+- **30)** HIPERLAN (High Performance Radio Local Area Network) – lokalną radiową sieć o dużej efektywności;
+- **31)** HIRF (High-Intensity Radiated Field) – pole elektromagnetyczne o dużym natężeniu;
+- **32)** ISM (Industrial, Scientific, Medical) – urządzenie generujące i wykorzystujące energię fal radiowych, w szczególności do celów przemysłowych, naukowych, medycznych lub domowych, z wyłączeniem zastosowań do celów telekomunikacyjnych;
+- **33)** identyfikator – urządzenie radiowe wykorzystywane do RFID umieszczane na obiektach ożywionych lub nieożywionych;
+- **34)** interrogator – urządzenie radiowe wykorzystywane do RFID, które aktywuje identyfikator i odbiera przesyłane przez niego dane;
+- **35)** LEST (Low e.i.r.p. Satellite Terminal) – terminal satelitarny o małej zastępczej mocy promieniowanej izotropowo;
+- **36)** LTE (Long Term Evolution) – ewolucję długoterminową dotyczącą standardów komunikacji ruchomej;
+- **37)** MCA (Mobile Communication on Aircraft) – usługę telekomunikacyjną świadczoną w celu umożliwienia osobom znajdującym się na pokładzie statku powietrznego korzystania z publicznych sieci telekomunikacyjnych bez nawiązywania bezpośrednich połączeń z ruchomymi publicznymi sieciami telekomunikacyjnymi pracującymi na lądzie;
+- **38)** MCV (Mobile Communication on Vessels) – usługę telekomunikacyjną świadczoną w celu umożliwienia osobom znajdującym się na pokładzie statku korzystania z publicznych sieci telekomunikacyjnych bez nawiązywania bezpośrednich połączeń z ruchomymi publicznymi sieciami telekomunikacyjnymi pracującymi na lądzie;
+- **39)** NGSO (Non-Geostationary-Satellite Orbit) – orbitę niegeostacjonarną;
+- **40)** NCF (Network Control Facility) – system kontroli sieci;
+- **41)** NCU (Network Control Unit) – jednostkę sterowania siecią;
+- **42)** NMR (Nuclear Magnetic Resonance) – magnetyczny rezonans jądrowy;
+- **43)** PFD (Power Flux Density) – gęstość strumienia mocy;
+- **44)** PMP (Point to MultiPoint) – system typu punkt – wiele punktów;
+- **45)** PMR (Professional Mobile Radio / Private Mobile Radio) – radiotelefon sieci dyspozytorskiej;
+- **46)** PMSE (Programme Making and Special Events) – systemy łączności wykorzystywane podczas nadawania lub produkcji programów radiofonicznych lub telewizyjnych lub wykorzystywane do przekazywania w czasie rzeczywistym informacji audiowizualnej, w szczególności podczas imprez masowych, imprez sportowych lub widowisk;
+- **47)** RLAN (Radio Local Area Network) – lokalną sieć radiową;
+- **48)** RFID (Radio Frequency Identification) – identyfikację radiową;
+- **49)** TTT (Transport and Traffic Telematics) – telematykę transportu i ruchu;
+- **50)** SSB-AM – emisję jednowstęgową sygnału zmodulowanego amplitudowo;
+- **51)** TDD (Time Division Duplex) – dupleks z podziałem czasowym;
+- **52)** TDMA (Time Division Multiple Access) – wielodostęp z podziałem czasowym;
+- **53)** UE – Unię Europejską;
+- **54)** UESFSS (Uncoordinated Earth Stations of the Fixed-Satellite Service (Earth-to-space)) – niekoordynowane stacje ziemskie służby radiokomunikacyjnej stałej satelitarnej (Ziemia–kosmos);
+- **55)** UMTS (Universal Mobile Telecommunications System) – uniwersalny system telekomunikacji ruchomej;
+- **56)** UWB (Ultra Wideband) – ultraszerokopasmowy;
+- **57)** VSAT (Very Small Aperture Terminals) – stacje abonenckie w służbie radiokomunikacyjnej stałej satelitarnej wyposażone w anteny o małej aperturze;
+- **58)** WAS (Wireless Access System) – bezprzewodowy system dostępowy;
+- **59)** WE – Wspólnotę Europejską.
+
+**§ 3.**
+
+1. Nie wymaga pozwolenia używanie urządzeń:
+
+- **1)** pełniących funkcję urządzeń końcowych w sieciach radiokomunikacyjnych w służbie ruchomej lądowej, w których nie są świadczone publicznie dostępne usługi telekomunikacyjne;
+- **2)** będących zakończeniami sieci telekomunikacyjnej w systemie typu punkt – wiele punktów (PMP);
+- **3)** z interfejsem umożliwiającym połączenie, współpracę i wymianę informacji drogą radiową między stacją bazową a telekomunikacyjnym urządzeniem końcowym pracujących w ruchomej lub stacjonarnej publicznej sieci telekomunikacyjnej – przez:
+    - **a)** przedsiębiorcę telekomunikacyjnego posiadającego ogólnopolską rezerwację częstotliwości wykorzystywanych do świadczenia usług za pośrednictwem stacji bazowych,
+    - **b)** innego przedsiębiorcę lub podmiot wykorzystujący ten interfejs w interesie społecznym, który zawarł umowę w formie pisemnej, określającą co najmniej identyfikację urządzenia, jego lokalizację, warunki instalacji i wykorzystanie w celu uniknięcia szkodliwych zakłóceń, dotyczącą tego interfejsu, z przedsiębiorcą telekomunikacyjnym posiadającym ogólnopolską rezerwację częstotliwości wykorzystywanych do świadczenia usług za pośrednictwem stacji bazowych;
+
+- **4)** stacji bazowych małej mocy pracujących w zakresach częstotliwości:
+    - **a)** 791–821 MHz (nadawanie) i 832–862 MHz (odbiór) z mocą nieprzekraczającą 21 dBm e.r.p.,
+    - **b)** 876–915 MHz (odbiór) i 921–960 MHz (nadawanie) z mocą nieprzekraczającą 20 dBm e.r.p.,
+    - **c)** 1710–1785 MHz (odbiór) i 1805–1880 MHz (nadawanie) z mocą nieprzekraczającą 20 dBm e.r.p.,
+    - **d)** 1920–1980 MHz (odbiór) i 2110–2170 MHz (nadawanie) z mocą nieprzekraczającą 21 dBm e.r.p.,
+    - **e)** 2500–2570 MHz (odbiór) i 2620–2690 MHz (nadawanie) z mocą nieprzekraczającą 21 dBm e.r.p.,
+    - **f)** 2570–2620 MHz (nadawanie i odbiór) z mocą nieprzekraczającą 21 dBm e.r.p.,
+    - **g)** 3400–3800 MHz (nadawanie i odbiór) z mocą nieprzekraczającą 24 dBm e.r.p. dla każdej nośnej o szerokości 20 MHz – wykorzystywanych do świadczenia usług przez przedsiębiorcę telekomunikacyjnego posiadającego rezerwację częstotliwości;
+
+- **5)** przeznaczonych do używania wyłącznie w zakresie częstotliwości 26,96–27,41 MHz:
+    - **a)** typu PR27, spełniających wymagania określone w normach wprowadzających normę ETSI EN 300 433,
+    - **b)** z modulacją kątową lub z emisją DSB-AM lub z emisją SSB-AM, spełniających wymagania określone w normach wprowadzających normę ETSI EN 300 433, przy czym dopuszczalna moc wyjściowa nadajnika pracującego z modulacją kątową wynosi do 4 W mocy fali nośnej, z DSB-AM wynosi do 4 W mocy fali nośnej, a z SSB-AM do 12 W szczytowej mocy obwiedni;
+
+- **6)** bliskiego zasięgu: poz. 1565), określonych w załączniku nr 8 do rozporządzenia,
+    - **a)** ogólnego stosowania, niezależnie od zastosowania lub przeznaczenia urządzenia, określonych w załączniku nr 1 do rozporządzenia, wykorzystywanych w szczególności w telemetrii, zdalnym sterowaniu, systemach alarmowych oraz transmisji danych,
+    - **b)** szerokopasmowych systemów transmisji danych, obejmujących urządzenia wykorzystujące szerokopasmowe techniki modulacji w celu dostępu do widma, określonych w załączniku nr 2 do rozporządzenia, wykorzystywanych w szczególności w bezprzewodowych systemach dostępu, takich jak lokalne sieci radiowe (WAS/RLAN), lub w urządzeniach do szerokopasmowej transmisji danych w sieciach danych,
+    - **c)** stosowanych w transporcie kolejowym, wykorzystywanych w szczególności dla systemów AVI: Eurobalise i Euroloop, określonych w załączniku nr 3 do rozporządzenia,
+    - **d)** do radiolokacji, w tym urządzeń wykorzystywanych w szczególności do określania pozycji, prędkości lub innych właściwości obiektu, określonych w załączniku nr 4 do rozporządzenia,
+    - **e)** do sterowania modelami, w tym urządzeń wykorzystujących zdalne sterowanie i telemetrię, których używa się do zdalnego sterowania ruchem modeli w powietrzu, na lądzie, na wodzie lub pod wodą, określonych w załączniku nr 5 do rozporządzenia,
+    - **f)** na potrzeby mikrofonów bezprzewodowych i urządzeń wspomagających słuch, przypinanych lub noszonych, profesjonalnych lub przeznaczonych do powszechnego użytku, oraz urządzeń bezprzewodowych do transmisji sygnałów akustycznych, w szczególności głośników bezprzewodowych, słuchawek bezprzewodowych, słuchawek bezprzewodowych do urządzeń przenośnych, zestawów głośnomówiących, dousznych monitorów odsłuchowych wykorzystywanych do przekazywania dźwięku na koncertach i widowiskach scenicznych, określonych w załączniku nr 6 do rozporządzenia,
+    - **g)** do identyfikacji RFID, wykorzystywanych w systemach łączności radiowej opartych na identyfikatorach i interrogatorach, określonych w załączniku nr 7 do rozporządzenia,
+    - **h)** bezprzewodowych do stosowania w ochronie zdrowia, stanowiących element radiowy aktywnych wyrobów medycznych do implantacji w rozumieniu ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r.
+    - **i)** do zastosowań indukcyjnych, które wykorzystują pole magnetyczne z systemami pętli indukcyjnej do komunikacji zbliżeniowej, określonych w załączniku nr 9 do rozporządzenia,
+    - **j)** wykorzystujących technologię UWB, opartych na rozwiązaniach technicznych z zakresu radiokomunikacji bliskiego zasięgu, przeznaczonych do wytwarzania i emitowania energii fal radiowych w zakresie częstotliwości o szerokości przekraczającej 50 MHz, określonych w załączniku nr 10 do rozporządzenia;
+
+- **7)** samochodowych radarów bliskiego zasięgu, których warunki używania określa załącznik nr 11 do rozporządzenia;
+- **8)** ziemskich stacji satelitarnych, których rodzaje określa załącznik nr 12 do rozporządzenia;
+- **9)** stacji bazowych wykorzystywanych do świadczenia usług MCV, umiejscowionych na pokładach statków, dla których warunki używania określa załącznik nr 13 do rozporządzenia;
+- **10)** stacji bazowych wykorzystywanych do świadczenia usług MCA, umiejscowionych na pokładach statków powietrznych, dla których warunki używania określa załącznik nr 14 do rozporządzenia;
+- **11)** bliskiego zasięgu pracujących w zakresach częstotliwości 874–874,4 MHz i 916,1–919,4 MHz, dla których warunki używania określa załącznik nr 15 do rozporządzenia;
+- **12)** wykorzystywanych w PMSE, dla których warunki używania określa załącznik nr 16 do rozporządzenia;
+- **13)** pracujących w zakresach częstotliwości 29,7 MHz–3 GHz w podziemnych wyrobiskach górniczych, z mocą nieprzekraczającą 500 mW e.r.p. na głębokości większej niż 100 m poniżej poziomu terenu i w odległości nie mniejszej niż 100 m od pionowego tunelu szybowego.
+
+2. Urządzenia, o których mowa w ust. 1, nie mogą powodować szkodliwych zakłóceń w pracy innych urządzeń. Urządzenia, o których mowa w ust. 1 pkt 5–13, nie podlegają ochronie przed szkodliwymi zakłóceniami powodowanymi przez inne urządzenia.
+
+3. Urządzenia, o których mowa w ust. 1 pkt 1–7, 9–13, są używane w naziemnych służbach radiokomunikacyjnych. Urządzenia, o których mowa w ust. 1 pkt 8, są używane w satelitarnych służbach radiokomunikacyjnych.
+
+4. Obszarem używania urządzeń, o których mowa w ust. 1 pkt 1–9, 12 i 13, jest terytorium Rzeczypospolitej Polskiej. Obszarem używania urządzeń, o których mowa w ust. 1 pkt 6 lit. j, pkt 9 i 10, jest pokład – odpowiednio – statku lub statku powietrznego, na którym oferowana jest usługa dostępu do sieci, z którą te urządzenia mogą współpracować.
+
+**§ 4.** Traci moc rozporządzenie Ministra Administracji i Cyfryzacji z dnia 12 grudnia 2014 r. w sprawie urządzeń radiowych nadawczych lub nadawczo-odbiorczych, które mogą być używane bez pozwolenia radiowego (Dz. U. z 2017 r. poz. 96).
+
+**§ 5.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Minister Cyfryzacji: wz. J. Cieszyński Załączniki do rozporządzenia Ministra Cyfryzacji z dnia 9 lutego 2022 r. (poz. ...... ) Załącznik nr URZĄDZENIA BLISKIEGO ZASIĘGU OGÓLNEGO STOSOWANIA URZĄDZENIA BLISKIEGO ZASIĘGU OGÓLNEGO STOSOWANIA Maksymalna moc promieniowana Odstęp Zakres Aktywność lub maksymalne sąsiednio- Uwagi częstotliwości nadajnika natężenie pola kanałowy magnetycznego 24,00–24,15 GHz 100 mW e.i.r.p. [-] [-] Dotyczy urządzeń spełniających wymagania określone w normie wprowadzającej normę ETSI EN 300 440. Zakres jest przeznaczony również dla urządzeń ISM. Urządzenia pracujące w tym zakresie akceptują szkodliwe zakłócenia, jakich mogą doznać podczas pracy urządzeń ISM. Załącznik nr URZĄDZENIA URZĄDZENIA BLISKIEGO BLISKIEGO ZASIĘGU ZASIĘGU SZEROKOPASMOWYCH SZEROKOPASMOWYCH SYSTEMÓW SYSTEMÓW TRANSMISJI TRANSMISJI DANYCH DANYCH Maksymalna moc promieniowana lub Odstęp Zakres Aktywność maksymalne sąsiednio- Uwagi częstotliwości nadajnika natężenie pola kanałowy magnetycznego 5150–5350 MHz 200 mW e.i.r.p [-] [-] Dopuszcza się używanie urządzeń wyłącznie wewnątrz pomieszczeń. Należy stosować techniki dostępu do widma oraz osłabiania szkodliwych zakłóceń, których skuteczność działania odpowiada co najmniej technikom określonym w normach zharmonizowanych przyjętych na mocy dyrektywy Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającej dyrektywę 1999/5/WE (Dz. Urz. UE L 153 z 22.05.2014, str. 62 i Dz. Urz. UE L 212 z 22.08.2018, str. 1). Urządzenia funkcjonujące w zakresie 5250–5350 MHz stosują sterowanie mocą nadajnika, które zapewnia współczynnik osłabiania zakłóceń przynajmniej 3 dB przy maksymalnej dopuszczalnej mocy wyjściowej systemów. Jeżeli sterowanie mocą nadajnika nie jest stosowane, maksymalną dopuszczalną Średnia e.i.r.p. – zastępcza moc promieniowana izotopowo w trakcie transmisji, która odpowiada najwyższej mocy, jeżeli stosuje się sterowanie mocą. średnią e.i.r.p. i odpowiadające limity średniej gęstości e.i.r.p. dla 5250–5350 MHz zmniejsza się o 3 dB. Urządzenia funkcjonujące w zakresie 5250–5350 MHz używają technik osłabiania zakłóceń, które zapewniają przynajmniej ochronę zgodną z wymaganiami dotyczącymi wykrywania, eksploatacji i reagowania, opisanymi w normie ETSI EN 301 893, w celu zapewnienia kompatybilnego funkcjonowania z systemami radiolokacyjnymi. Takie techniki osłabiania zakłóceń wyrównują prawdopodobieństwo wybrania konkretnego kanału z wszystkich dostępnych kanałów, tak aby zapewnić jak najbardziej jednolite rozłożenie obciążenia widma. Maksymalna średnia gęstość mocy e.i.r.p. jest ograniczona do 10 mW/MHz w każdym paśmie o szerokości 1 MHz. Dotyczy to urządzeń spełniających wymagania określone w normie wprowadzającej normę ETSI EN 301 893. Dziennik Ustaw – 9 – Załącznik Poz. 567 nr URZĄDZENIA BLISKIEGO ZASIĘGU STOSOWANE W TRANSPORCIE KOLEJOWYM URZĄDZENIA BLISKIEGO ZASIĘGU STOSOWANE W TRANSPORCIE KOLEJOWYM Maksymalna moc promieniowana lub Odstęp Zakres Aktywność maksymalne sąsiednio- Uwagi częstotliwości nadajnika natężenie pola kanałowy magnetycznego 27,09–27,10 MHz 42 dBA/m [-] [-] Dotyczy natężenia pola magnetycznego mierzonego w odległości 10 m. Dotyczy zdalnego zasilania lub transmisji w łączu „w dół” dla balis torowych, w szczególności w systemie Eurobalise. Zakres ten może być opcjonalnie wykorzystywany przez urządzenia służące do aktywacji pętli indukcyjnych, w szczególności w systemie Euroloop. Częstotliwość środkowa wynosi 27,095 MHz. Dotyczy urządzeń spełniających wymagania określone w normach wprowadzających normy ETSI EN 300 330 i ETSI EN 302 608.
 
 ## Załącznik nr 4 — URZĄDZENIA URZĄDZENIA BLISKIEGO BLISKIEGO ZASIĘGU ZASIĘGU DO DO RADIOLOKACJI RADIOLOKACJI Maksymalna moc promieniowana Odstęp Zakres Aktywność Poz. lub maksymalne sąsiednio- Uwagi częstotliwości nadajnika natężenie pola kanałowy magnetycznego 1 100 Hz–148 kHz 46 dBμA/m [-] [-] Dotyczy natężenia pola magnetycznego mierzonego w odległości 10 m od urządzenia NMR dla częstotliwości 100 Hz.
 

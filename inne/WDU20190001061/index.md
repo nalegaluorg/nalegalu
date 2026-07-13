@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001061) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1061/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej (Dz. U. z 2018 r. poz. 465 i 2396) w załączniku nr 5 do rozporządzenia dodaje się lp. 4 w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2019 r.
-Minister Zdrowia: wz. J. Szczurek-Żelazko … M W W W W W W W W W W W W M W W W
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 6 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu rehabilitacji leczniczej (Dz. U. z 2018 r. poz. 465 i 2396) w załączniku nr 5 do rozporządzenia dodaje się lp. 4 w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2019 r. Minister Zdrowia: wz. J. Szczurek-Żelazko … M W W W W W W W W W W W W M W W W
 

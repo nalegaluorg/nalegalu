@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001934) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1934/text.pdf) |
 
 zmieniające rozporządzenie w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji Na podstawie art. 91 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r. poz. 181, 1137 i 1669) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 4 grudnia 2012 r. w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji (Dz. U. poz. 1412) w § 5 w ust. 1:
-1) pkt 4 otrzymuje brzmienie: „4) Centrum Operacji Morskich – Dowództwo Komponentu Morskiego;”;
-2) pkt 6 otrzymuje brzmienie: „6) Służbie Celno-Skarbowej;”;
-3) w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „13) służbom statystyki publicznej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
+
+**§ 1.** W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 4 grudnia 2012 r. w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji (Dz. U. poz. 1412) w § 5 w ust. 1:
+
+- **1)** pkt 4 otrzymuje brzmienie: „4) Centrum Operacji Morskich – Dowództwo Komponentu Morskiego;”;
+- **2)** pkt 6 otrzymuje brzmienie: „6) Służbie Celno-Skarbowej;”;
+- **3)** w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „13) służbom statystyki publicznej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
 

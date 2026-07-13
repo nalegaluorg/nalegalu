@@ -27,18 +27,27 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001114) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1114/text.pdf) |
 
 w sprawie rocznej sprawozdawczości firm audytorskich Na podstawie art. 51 ust. 2 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035 i 1863) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowy zakres informacji, o których mowa w art. 51 ust. 1 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym, zwanej dalej „ustawą”, wzory formularzy sprawozdawczych oraz formę i sposób przekazywania sprawozdania, o którym mowa w art. 51 ust. 1 ustawy, zwanego dalej „sprawozdaniem”.
-§ 2. Wzór formularza sprawozdawczego, ze wskazaniem szczegółowego zakresu informacji, o których mowa w art. 51 ust. 1 ustawy, zawierającego dane o przychodach firmy audytorskiej oraz o usługach wykonanych przez nią w poprzednim roku kalendarzowym na rzecz:
-1) jednostek zainteresowania publicznego – jest określony w załączniku nr 1 do rozporządzenia;
-2) jednostek innych niż jednostki zainteresowania publicznego – jest określony w załączniku nr 2 do rozporządzenia.
-§ 3. 1. Sprawozdanie sporządza się w formie dokumentu elektronicznego oraz opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+**§ 1.** Rozporządzenie określa szczegółowy zakres informacji, o których mowa w art. 51 ust. 1 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym, zwanej dalej „ustawą”, wzory formularzy sprawozdawczych oraz formę i sposób przekazywania sprawozdania, o którym mowa w art. 51 ust. 1 ustawy, zwanego dalej „sprawozdaniem”.
+
+**§ 2.** Wzór formularza sprawozdawczego, ze wskazaniem szczegółowego zakresu informacji, o których mowa w art. 51 ust. 1 ustawy, zawierającego dane o przychodach firmy audytorskiej oraz o usługach wykonanych przez nią w poprzednim roku kalendarzowym na rzecz:
+
+- **1)** jednostek zainteresowania publicznego – jest określony w załączniku nr 1 do rozporządzenia;
+- **2)** jednostek innych niż jednostki zainteresowania publicznego – jest określony w załączniku nr 2 do rozporządzenia.
+
+**§ 3.**
+
+1. Sprawozdanie sporządza się w formie dokumentu elektronicznego oraz opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
 2. Sprawozdanie przekazuje się za pośrednictwem systemu teleinformatycznego udostępnionego na stronie internetowej Polskiej Agencji Nadzoru Audytowego.
+
 3. W przypadku awarii systemu teleinformatycznego, o którym mowa w ust. 2, sprawozdanie przekazuje się za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513).
+
 4. Firma audytorska otrzymuje potwierdzenie przekazania sprawozdania przekazanego w sposób, o którym mowa w ust. 2 albo 3.
-§ 4. Rozporządzenie stosuje się po raz pierwszy do sprawozdań przekazywanych za 2025 r.
-§ 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów i Gospodarki: A. Domański Minister Finansów i Gospodarki kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 stycznia 2021 r. w sprawie rocznej sprawozdawczości firm audytorskich (Dz. U. poz. 218), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 31 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863).
+
+**§ 4.** Rozporządzenie stosuje się po raz pierwszy do sprawozdań przekazywanych za 2025 r.
+
+**§ 5.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów i Gospodarki: A. Domański Minister Finansów i Gospodarki kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997). Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 stycznia 2021 r. w sprawie rocznej sprawozdawczości firm audytorskich (Dz. U. poz. 218), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 31 ustawy z dnia 6 grudnia 2024 r. o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (Dz. U. poz. 1863).
 
 ## Załącznik nr 1 — Załącznik nr 1 WZÓR WZÓR Formularz sprawozdawczy o przychodach firmy audytorskiej oraz o usługach wykonanych przez nią w ……………… roku kalendarzowym na rzecz jednostek zainteresowania publicznego (JZP) A. Dane identyfikacyjne firmy audytorskiej 1 2 3 Numer wpisu na liście NIP Nazwa firmy audytorskiej firm audytorskich B. Informacje o przychodach firmy audytorskiej i liczbie usług wykonanych na rzecz JZP
 

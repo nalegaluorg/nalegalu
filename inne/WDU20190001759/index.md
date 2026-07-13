@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie upoważnienia Sieci Badawczej Łukasiewicz – Instytutu Przemysłu Organicznego do wykonywania czynności administracyjnych w sprawach badań, klasyfikacji oraz warunków dopuszczania do przewozu towarów niebezpiecznych Na podstawie art. 9 ust. 2a ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2019 r.
 poz. 382, 534, 730 i 1123) zarządza się, co następuje:
-§ 1. Upoważnia się Sieć Badawczą Łukasiewicz – Instytut Przemysłu Organicznego do wykonywania czynności administracyjnych w sprawach badań, klasyfikacji oraz warunków dopuszczania do przewozu towarów niebezpiecznych klas 1, 2, 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 8 i 9.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Przedsiębiorczości i Technologii: wz. M. Ociepa
+
+**§ 1.** Upoważnia się Sieć Badawczą Łukasiewicz – Instytut Przemysłu Organicznego do wykonywania czynności administracyjnych w sprawach badań, klasyfikacji oraz warunków dopuszczania do przewozu towarów niebezpiecznych klas 1, 2, 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 8 i 9.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Przedsiębiorczości i Technologii: wz. M. Ociepa
 

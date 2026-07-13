@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000245) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/245/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia Na podstawie art. 113 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067 i 2405 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2002 r. w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1598, z 2005 r. poz. 1282, z 2009 r. poz. 386 oraz z 2014 r. poz. 1284) w § 12 w ust. 1:
-1) pkt 1 otrzymuje brzmienie: „1) Komendanta Głównego Policji – w stosunku do policjantów pełniących służbę w Komendzie Głównej Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, komendantów wojewódzkich lub Komendanta Stołecznego Policji, Komendanta-Rektora Wyższej Szkoły Policji w Szczytnie i komendantów szkół policyjnych;”;
-2) po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) Komendanta Biura Spraw Wewnętrznych Policji – w stosunku do podległych policjantów;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 31 października 2002 r. w sprawie wysokości, warunków i trybu przyznawania policjantom należności za podróże służbowe i przeniesienia (Dz. U. poz. 1598, z 2005 r. poz. 1282, z 2009 r. poz. 386 oraz z 2014 r. poz. 1284) w § 12 w ust. 1:
+
+- **1)** pkt 1 otrzymuje brzmienie: „1) Komendanta Głównego Policji – w stosunku do policjantów pełniących służbę w Komendzie Głównej Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, komendantów wojewódzkich lub Komendanta Stołecznego Policji, Komendanta-Rektora Wyższej Szkoły Policji w Szczytnie i komendantów szkół policyjnych;”;
+- **2)** po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) Komendanta Biura Spraw Wewnętrznych Policji – w stosunku do podległych policjantów;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: J. Brudziński
 

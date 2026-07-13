@@ -45,7 +45,13 @@ source: pdf
 - **1)** dołączane w sprawach, o których mowa w ust. 1, oraz w art. 21 ust. 2b,
 - **2)** określone w art. 192a ust. 2 pkt 1, art. 193a oraz w art. 195 ust. 1 pkt 2,
 - **3)** określone w przepisach wydanych na podstawie art. 153b oraz art. 202 pkt 1 i 6 – mogą być kopiami.”;
-- **2)** art. 95g otrzymuje brzmienie: „Art. 95g. 1. Czynności członków personelu pokładowego na statku powietrznym wykonują osoby posiadające ważne świadectwo dopuszczenia do pracy, ważne kwalifikacje na typ oraz wersję statku powietrznego, a także ważne badania lotniczo-lekarskie. 2. Świadectwo, o którym mowa w ust. 1, jest wydawane przez certyfikowanego przewoźnika lotniczego upoważnionego w tym zakresie. 3. Szkolenia kandydatów na członków personelu pokładowego prowadzi certyfikowany przewoźnik lotniczy upoważniony w tym zakresie. 4. Przewoźnik lotniczy, o którym mowa w ust. 2 i 3, przekazuje Prezesowi Urzędu do końca każdego roku kalendarzowego wykaz wydanych świadectw, o których mowa w ust. 2, oraz przeprowadzonych szkoleń, o których mowa w ust. 3.”;
+- **2)** art. 95g otrzymuje brzmienie:
+
+  > „Art. 95g.  
+  > 1. Czynności członków personelu pokładowego na statku powietrznym wykonują osoby posiadające ważne świadectwo dopuszczenia do pracy, ważne kwalifikacje na typ oraz wersję statku powietrznego, a także ważne badania lotniczo-lekarskie.  
+  > 2. Świadectwo, o którym mowa w ust. 1, jest wydawane przez certyfikowanego przewoźnika lotniczego upoważnionego w tym zakresie.  
+  > 3. Szkolenia kandydatów na członków personelu pokładowego prowadzi certyfikowany przewoźnik lotniczy upoważniony w tym zakresie.  
+  > 4. Przewoźnik lotniczy, o którym mowa w ust. 2 i 3, przekazuje Prezesowi Urzędu do końca każdego roku kalendarzowego wykaz wydanych świadectw, o których mowa w ust. 2, oraz przeprowadzonych szkoleń, o których mowa w ust. 3.”;  
 - **3)** w art. 97 w ust. 1 pkt 1 otrzymuje brzmienie: „1) wykonywania czynności lotniczych przez osobę nieposiadającą licencji lub świadectwa kwalifikacji albo niespełniającą wymagań, o których mowa w art. 95g ust. 1;”;
 - **4)** w art. 162a dodaje się ust. 8 w brzmieniu: „8. Dokumenty składane w procesie uznania zagranicznego certyfikatu są składane w języku polskim lub angielskim. W przypadku przedłożenia kopii wnioskodawca składa oświadczenie w języku polskim lub angielskim o zgodności kopii z oryginałami.”;
 - **5)** w art. 171a po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Kopie dokumentów, o których mowa w ust. 1, mogą być składane w języku angielskim.”.

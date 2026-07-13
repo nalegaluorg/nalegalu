@@ -98,7 +98,10 @@ source: pdf
     - **a)** uchyla się ust. 1,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Pełna realizacja sieci, o której mowa w ust. 2, nastąpi w terminie do dnia 31 grudnia 2010 r.”.
 
-**Art. 13.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm. ) w art. 39 ust. 6 i 7 otrzymują brzmienie: „6. Minister ustala, w drodze zarządzenia, regulamin organizacyjny ministerstwa określający zakres zadań i tryb pracy komórek organizacyjnych ministerstwa oraz, o ile przepisy szczególne nie stanowią inaczej, jednostek podległych i nadzorowanych przez ministra. 7. Dyrektor Generalny zatwierdza wewnętrzne regulaminy organizacyjne komórek organizacyjnych ministerstwa oraz, o ile przepisy szczególne nie stanowią inaczej, jednostek organizacyjnych podległych ministrowi.”.
+**Art. 13.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm. ) w art. 39 ust. 6 i 7 otrzymują brzmienie:
+
+> „6. Minister ustala, w drodze zarządzenia, regulamin organizacyjny ministerstwa określający zakres zadań i tryb pracy komórek organizacyjnych ministerstwa oraz, o ile przepisy szczególne nie stanowią inaczej, jednostek podległych i nadzorowanych przez ministra.  
+> 7. Dyrektor Generalny zatwierdza wewnętrzne regulaminy organizacyjne komórek organizacyjnych ministerstwa oraz, o ile przepisy szczególne nie stanowią inaczej, jednostek organizacyjnych podległych ministrowi.”.  
 
 **Art. 14.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) w art. 115 § 9 otrzymuje brzmienie: „§ 9. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki, zakres i tryb udzielania świadczeń zdrowotnych osobom pozbawionym wolności przez zakłady opieki zdrowotnej dla osób pozbawionych wolności, mając na uwadze konieczność zapewnienia osobom pozbawionym wolności świadczeń opieki zdrowotnej także przez pozawięzienne zakłady opieki zdrowotnej, jeżeli ich udzielenie przez zakłady przeznaczone dla osób pozbawionych wolności nie jest możliwe.”.
 

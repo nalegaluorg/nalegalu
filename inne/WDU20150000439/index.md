@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/439/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nakładania kary grzywny w drodze mandatu karnego za wykroczenia skarbowe Na podstawie art. 136 § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 28 kwietnia 2011 r. w sprawie nakładania kary grzywny w drodze mandatu karnego za wykroczenia skarbowe (Dz. U. Nr 94, poz. 552) w § 2 pkt 1 otrzymuje brzmienie: „1) upoważnieni pracownicy izb skarbowych,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2015 r.
-Prezes Rady Ministrów: E. Kopacz
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 28 kwietnia 2011 r. w sprawie nakładania kary grzywny w drodze mandatu karnego za wykroczenia skarbowe (Dz. U. Nr 94, poz. 552) w § 2 pkt 1 otrzymuje brzmienie: „1) upoważnieni pracownicy izb skarbowych,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2015 r.
 

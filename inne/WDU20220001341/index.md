@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1341/text.pdf) |
 
 w sprawie wysokości stawek procentowych, według których jest wyliczana kwota składki na Deweloperski Fundusz Gwarancyjny Na podstawie art. 49 ust. 8 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. poz. 1177) zarządza się, co następuje:
-§ 1. Wysokość stawki procentowej, według której jest wyliczana wysokość składki na Deweloperski Fundusz Gwarancyjny należnej od dewelopera posiadającego:
-1) otwarty mieszkaniowy rachunek powierniczy – wynosi 0,45%;
-2) zamknięty mieszkaniowy rachunek powierniczy – wynosi 0,1%.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r.
-Minister Rozwoju i Technologii: W. Buda
+
+**§ 1.** Wysokość stawki procentowej, według której jest wyliczana wysokość składki na Deweloperski Fundusz Gwarancyjny należnej od dewelopera posiadającego:
+
+- **1)** otwarty mieszkaniowy rachunek powierniczy – wynosi 0,45%;
+- **2)** zamknięty mieszkaniowy rachunek powierniczy – wynosi 0,1%.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r. Minister Rozwoju i Technologii: W. Buda
 

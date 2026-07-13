@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001764) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1764/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, 1292 i 1559) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2021 r. poz. 290, 542, 638 i 1429) w § 10a wyrazy „30 września 2021 r.” zastępuje się wyrazami „31 grudnia 2021 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 30 września 2021 r.
-Minister Zdrowia: wz. W. Kraska
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2021 r. poz. 290, 542, 638 i 1429) w § 10a wyrazy „30 września 2021 r.” zastępuje się wyrazami „31 grudnia 2021 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 września 2021 r. Minister Zdrowia: wz. W. Kraska
 

@@ -31,25 +31,52 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Obrony Narodow
 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 16 lutego 2012 r.
 w sprawie wzoru zaświadczenia będącego podstawą do ubiegania się o przyznanie statusu weterana i weterana poszkodowanego, wzoru legitymacji weterana i weterana poszkodowanego oraz trybu wydania, wymiany lub zwrotu tych legitymacji Na podstawie art. 10 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2026 r.
 poz. 111) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór zaświadczenia, o którym mowa w art. 7 ust. 1 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa;
-2) wzór legitymacji weterana oraz weterana poszkodowanego;
-3) tryb wydawania, wymiany lub zwrotu legitymacji, o których mowa w pkt 2.
-§ 2. 1. Zaświadczenie potwierdzające udział w działaniach poza granicami państwa w ramach misji pokojowej lub stabilizacyjnej wydaje się na wniosek osoby ubiegającej się o zaświadczenie.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór zaświadczenia, o którym mowa w art. 7 ust. 1 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa;
+- **2)** wzór legitymacji weterana oraz weterana poszkodowanego;
+- **3)** tryb wydawania, wymiany lub zwrotu legitymacji, o których mowa w pkt 2.
+
+**§ 2.**
+
+1. Zaświadczenie potwierdzające udział w działaniach poza granicami państwa w ramach misji pokojowej lub stabilizacyjnej wydaje się na wniosek osoby ubiegającej się o zaświadczenie.
+
 2. Wzór zaświadczenia, o którym mowa w ust. 1, określa załącznik nr 1 do rozporządzenia.
-§ 3. 1. Wzór legitymacji weterana określa załącznik nr 2 do rozporządzenia.
+
+**§ 3.**
+
+1. Wzór legitymacji weterana określa załącznik nr 2 do rozporządzenia.
+
 2. Wzór legitymacji weterana poszkodowanego określa załącznik nr 3 do rozporządzenia.
-§ 4. 1. Legitymację weterana albo weterana poszkodowanego, zwaną dalej „legitymacją”, z upoważnienia Ministra Obrony Narodowej wydaje dyrektor komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw weteranów i przesyła odpowiednio weteranowi albo weteranowi poszkodowanemu na adres przez niego wskazany.
+
+**§ 4.**
+
+1. Legitymację weterana albo weterana poszkodowanego, zwaną dalej „legitymacją”, z upoważnienia Ministra Obrony Narodowej wydaje dyrektor komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw weteranów i przesyła odpowiednio weteranowi albo weteranowi poszkodowanemu na adres przez niego wskazany.
+
 2. Rejestr wydanych legitymacji prowadzi komórka organizacyjna Ministerstwa Obrony Narodowej właściwa do spraw weteranów.
-§ 5. 1. Legitymacja podlega wymianie w przypadku zniszczenia, uszkodzenia, a także zmiany danych w niej zawartych.
+
+**§ 5.**
+
+1. Legitymacja podlega wymianie w przypadku zniszczenia, uszkodzenia, a także zmiany danych w niej zawartych.
+
 2. Legitymację wymienia się na wniosek osoby uprawnionej.
+
 3. Wniosek powinien zawierać oświadczenie o zniszczeniu, uszkodzeniu lub o zmianie danych zawartych w legitymacji.
+
 4. W przypadku wymiany legitymacji osoba uprawniona zwraca dotychczasową legitymację.
+
 5. Zwrócona legitymacja podlega zniszczeniu z dniem wydania nowej legitymacji.
-§ 6. 1. W przypadku utraty legitymacji, na wniosek osoby uprawnionej, dyrektor komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw weteranów, z upoważnienia Ministra Obrony Narodowej, wydaje nową legitymację.
+
+**§ 6.**
+
+1. W przypadku utraty legitymacji, na wniosek osoby uprawnionej, dyrektor komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw weteranów, z upoważnienia Ministra Obrony Narodowej, wydaje nową legitymację.
+
 2. Wniosek powinien zawierać oświadczenie o utracie legitymacji i jej okolicznościach.
+
 3. W przypadku odzyskania utraconej legitymacji osoba uprawniona obowiązana jest do jej zwrotu.
-§ 7. Rozporządzenie wchodzi w życie z dniem 30 marca 2012 r.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 30 marca 2012 r.
 
 ## Załączniki do rozporządzenia Ministra Obrony Narodowej z dnia 16 lutego 2012 r.
 

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001791) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1791/text.pdf) |
 
 zmieniające rozporządzenie w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości Na podstawie art. 8 ust. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2020 r. poz. 517 oraz z 2021 r. poz. 794) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 6 listopada 2014 r. w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości (Dz. U. poz. 1564) w § 6 w pkt 6 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) obóz przejściowy w Pruszkowie.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Rodziny i Polityki Społecznej: M. Maląg
+
+**§ 1.** W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 6 listopada 2014 r. w sprawie miejsc odosobnienia, w których były osadzone osoby narodowości polskiej lub obywatele polscy innych narodowości (Dz. U. poz. 1564) w § 6 w pkt 6 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) obóz przejściowy w Pruszkowie.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Rodziny i Polityki Społecznej: M. Maląg
 

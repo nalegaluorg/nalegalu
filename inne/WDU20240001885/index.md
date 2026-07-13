@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001885) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1885/text.pdf) |
 
 w sprawie mnożników dodatku zagranicznego Na podstawie art. 51 ust. 7 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840) zarządza się, co następuje:
-§ 1. Ustala się przedziały mnożników dodatku zagranicznego dla poszczególnych grup stanowisk w placówkach zagranicznych Rzeczypospolitej Polskiej w tabeli stanowiącej załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-Minister Spraw Zagranicznych: R. Sikorski Tabela Przedziały mnożników dodatku zagranicznego dla poszczególnych grup stanowisk w placówkach zagranicznych Rzeczypospolitej Polskiej grupa stanowisk mnożnik dodatku zagranicznego Personel dyplomatyczno-konsularny: ambasadorowie od 7,0 do 10,0 zastępcy ambasadorów od 6,5 do 8,0 konsulowie generalni od 6,5 do 8,5 dyrektorzy instytutów polskich od 6,2 do 7,5 zastępcy dyrektorów instytutów polskich od 5,8 do 7,0 kierownicy wydziałów / kierownicy referatów od 4,0 do 6,5 pozostały personel dyplomatyczno-konsularny od 3,5 do 6,0 Personel pomocniczy: kierownicy wydziałów / kierownicy referatów od 3,2 do 3,7 pozostały personel pomocniczy od 2,8 do 3,6 Personel obsługi od 2,0 do 3,5
+
+**§ 1.** Ustala się przedziały mnożników dodatku zagranicznego dla poszczególnych grup stanowisk w placówkach zagranicznych Rzeczypospolitej Polskiej w tabeli stanowiącej załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. Minister Spraw Zagranicznych: R. Sikorski Tabela Przedziały mnożników dodatku zagranicznego dla poszczególnych grup stanowisk w placówkach zagranicznych Rzeczypospolitej Polskiej grupa stanowisk mnożnik dodatku zagranicznego Personel dyplomatyczno-konsularny: ambasadorowie od 7,0 do 10,0 zastępcy ambasadorów od 6,5 do 8,0 konsulowie generalni od 6,5 do 8,5 dyrektorzy instytutów polskich od 6,2 do 7,5 zastępcy dyrektorów instytutów polskich od 5,8 do 7,0 kierownicy wydziałów / kierownicy referatów od 4,0 do 6,5 pozostały personel dyplomatyczno-konsularny od 3,5 do 6,0 Personel pomocniczy: kierownicy wydziałów / kierownicy referatów od 3,2 do 3,7 pozostały personel pomocniczy od 2,8 do 3,6 Personel obsługi od 2,0 do 3,5
 

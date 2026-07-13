@@ -26,25 +26,29 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001735) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1735/text.pdf) |
 
 zmieniające rozporządzenie w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty Na podstawie art. 12 ust. 10 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2021 r. poz. 1098 i 1718) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 18 marca 2013 r. w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty (Dz. U. poz. 400) wprowadza się następujące zmiany:
-1) § 1 otrzymuje brzmienie: „§ 1. Określa się parki narodowe, gdzie za wstęp pobiera się opłaty:
-1) Babiogórski Park Narodowy;
-2) Biebrzański Park Narodowy;
-3) Bieszczadzki Park Narodowy;
-4) Gorczański Park Narodowy;
-5) Karkonoski Park Narodowy;
-6) Magurski Park Narodowy;
-7) Narwiański Park Narodowy;
-8) Świętokrzyski Park Narodowy;
-9) Tatrzański Park Narodowy;
-10) Wigierski Park Narodowy;
-11) Woliński Park Narodowy.”;
-2) w § 2:
-a) uchyla się pkt 1,
-b) uchyla się pkt 3,
-c) w pkt 4 lit. a i b otrzymują brzmienie: „a) obwód ochronny Bachorze, poza cumowiskiem łodzi wędkarskich w Bachorzu, terenową bazą edukacyjną w Bachorzu, punktem widokowym w Bachorzu, ścieżką botaniczną w Charzykowach i ścieżką rowerową „Kaszubska Marszruta”,
-b) obwód ochronny Drzewicz, poza Centrum Edukacji Przyrodniczej w Chocińskim Młynie,”,
-d) w pkt 7 w lit. c średnik zastępuje się kropką i uchyla się pkt 8.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: M. Kurtyka
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 18 marca 2013 r. w sprawie parków narodowych lub niektórych ich obszarów, gdzie za wstęp pobiera się opłaty (Dz. U. poz. 400) wprowadza się następujące zmiany:
+
+- **1)** § 1 otrzymuje brzmienie:
+
+  > „§ 1. Określa się parki narodowe, gdzie za wstęp pobiera się opłaty:  
+  > 1) Babiogórski Park Narodowy;  
+  > 2) Biebrzański Park Narodowy;  
+  > 3) Bieszczadzki Park Narodowy;  
+  > 4) Gorczański Park Narodowy;  
+  > 5) Karkonoski Park Narodowy;  
+  > 6) Magurski Park Narodowy;  
+  > 7) Narwiański Park Narodowy;  
+  > 8) Świętokrzyski Park Narodowy;  
+  > 9) Tatrzański Park Narodowy;  
+  > 10) Wigierski Park Narodowy;  
+  > 11) Woliński Park Narodowy.”;  
+- **2)** w § 2:
+    - **a)** uchyla się pkt 1,
+    - **b)** uchyla się pkt 3,
+    - **c)** w pkt 4 lit. a i b otrzymują brzmienie: „a) obwód ochronny Bachorze, poza cumowiskiem łodzi wędkarskich w Bachorzu, terenową bazą edukacyjną w Bachorzu, punktem widokowym w Bachorzu, ścieżką botaniczną w Charzykowach i ścieżką rowerową „Kaszubska Marszruta”,
+    - **b)** obwód ochronny Drzewicz, poza Centrum Edukacji Przyrodniczej w Chocińskim Młynie,”,
+    - **d)** w pkt 7 w lit. c średnik zastępuje się kropką i uchyla się pkt 8.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: M. Kurtyka
 

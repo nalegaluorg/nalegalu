@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001384) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1384/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania Na podstawie art. 87 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2020 r. poz. 1221) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1280 oraz z 2010 r. poz. 1124) wprowadza się następujące zmiany:
-1) w § 2 uchyla się pkt 11;
-2) użyte w § 3 ust. 1, w § 4 ust. 3, w § 6 ust. 1–4, w § 7 ust. 3, w § 10 ust. 2, w § 12 ust. 1 i 3 oraz w § 17 ust. 2 i 3, w różnej liczbie i różnym przypadku, wyrazy „właściwy przełożony” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „Szef Służby Wywiadu Wojskowego”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: wz. W. Skurkiewicz
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie świadczeń przysługujących funkcjonariuszom Służby Wywiadu Wojskowego za podróże służbowe, przeniesienia lub delegowania (Dz. U. poz. 1280 oraz z 2010 r. poz. 1124) wprowadza się następujące zmiany:
+
+- **1)** w § 2 uchyla się pkt 11;
+- **2)** użyte w § 3 ust. 1, w § 4 ust. 3, w § 6 ust. 1–4, w § 7 ust. 3, w § 10 ust. 2, w § 12 ust. 1 i 3 oraz w § 17 ust. 2 i 3, w różnej liczbie i różnym przypadku, wyrazy „właściwy przełożony” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „Szef Służby Wywiadu Wojskowego”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: wz. W. Skurkiewicz
 

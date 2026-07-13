@@ -30,33 +30,6 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 10 kwietnia 2012 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro (Dz. U. poz. 423), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2012 r., z wyjątkiem § 1 pkt 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: B.A. Arłukowicz
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 stycznia 2011 r.
 w sprawie wymagań zasadniczych oraz procedur oceny zgodności wyrobów medycznych do diagnostyki in vitro Na podstawie art. 23 ust. 3 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. Nr 107, poz. 679 oraz z 2011 r. Nr 102, poz. 586 i Nr 113, poz. 657) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wymagania zasadnicze dla wyrobów medycznych do diagnostyki in vitro;
-2) procedury oceny zgodności wyrobów medycznych do diagnostyki in vitro;
-3) wykaz procedur oceny zgodności, które mogą być prowadzone przez autoryzowanego przedstawiciela;
-4) wykaz A i wykaz B wyrobów medycznych do diagnostyki in vitro, o których mowa w art. 21 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, zwanej dalej „ustawą”.
-§ 2. Wymagania zasadnicze dla wyrobów medycznych do diagnostyki in vitro są określone w załączniku nr 1 do rozporządzenia.
-§ 3. Wykaz A i wykaz B wyrobów medycznych do diagnostyki in vitro są określone w załączniku nr 2 do rozporządzenia.
-§ 4. Wytwórca wyrobów medycznych do diagnostyki in vitro, innych niż wyroby medyczne do diagnostyki in vitro z wykazu A i z wykazu B, innych niż wyroby do samokontroli oraz innych niż wyroby do oceny działania, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury deklaracji zgodności WE, określonej w ust. 1–5 załącznika nr 3 do rozporządzenia i sporządza deklarację zgodności przed wprowadzeniem tych wyrobów do obrotu.
-§ 5. Wytwórca wyrobów medycznych do diagnostyki in vitro z wykazu A, innych niż wyroby do oceny działania, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury:
-1) deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 4 do rozporządzenia, albo
-2) badania typu WE, określonej w załączniku nr 5 do rozporządzenia, w połączeniu z procedurą dotyczącą deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 7 do rozporządzenia.
-§ 6. Wytwórca wyrobów medycznych do diagnostyki in vitro z wykazu B, innych niż wyroby do oceny działania, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury:
-1) deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 4 do rozporządzenia, albo
-2) badania typu WE, określonej w załączniku nr 5 do rozporządzenia, w połączeniu z procedurą:
-a) weryfikacji WE, określoną w załączniku nr 6 do rozporządzenia, albo
-b) deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 7 do rozporządzenia.
-§ 7. Wytwórca wyrobów do samokontroli, innych niż wyroby medyczne do diagnostyki in vitro z wykazu A i z wykazu B oraz innych niż wyroby do oceny działania, przed sporządzeniem deklaracji zgodności przeprowadza ocenę zgodności z zastosowaniem procedury:
-1) deklaracji zgodności WE, określonej w załączniku nr 3 do rozporządzenia, albo
-2) deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 4 do rozporządzenia, albo
-3) badania typu WE, określonej w załączniku nr 5 do rozporządzenia, w połączeniu z procedurą:
-a) weryfikacji WE, określoną w załączniku nr 6 do rozporządzenia, albo
-b) deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 7 do rozporządzenia.
-§ 8. Wytwórca wyrobów do oceny działania przed przekazaniem ich do oceny działania przeprowadza ocenę zgodności i sporządza oświadczenie określone w załączniku nr 8 do rozporządzenia.
-§ 9. Autoryzowany przedstawiciel może przeprowadzić ocenę zgodności wyrobu medycznego do diagnostyki in vitro z zastosowaniem procedur określonych w załącznikach nr 3, 5, 6 i 8 do rozporządzenia.
-§ 10. Certyfikaty zgodności, wydane przez jednostki notyfikowane zgodnie z załącznikami nr 3–5 do rozporządzenia, są ważne nie dłużej niż przez okres 5 lat i mogą być przedłużane, na wniosek wytwórcy lub autoryzowanego przedstawiciela złożony w terminie uzgodnionym umową, na kolejne okresy, nie dłuższe niż 5 lat.
-§ 11. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-WYMAGANIA ZASADNICZE DLA WYROBÓW MEDYCZNYCH DO DIAGNOSTYKI IN VITRO
 Wymagania ogólne
 1. Wyroby medyczne do diagnostyki in vitro muszą być tak zaprojektowane i wytworzone, aby ich stosowanie w przewidzianych warunkach i zgodnie z przewidzianym zastosowaniem nie zagrażało bezpośrednio ani pośrednio zdrowiu i bezpieczeństwu pacjentów, użytkowników oraz innych osób. Ryzyko związane z używaniem wyrobu medycznego do diagnostyki in vitro może być dopuszczone pod warunkiem wyważenia korzyści wynikających z jego zastosowania dla pacjenta, z zachowaniem wysokich wymagań w zakresie bezpieczeństwa i ochrony zdrowia.
 2. Rozwiązania przyjęte przez wytwórcę w projekcie i konstrukcji wyrobu medycznego do diagnostyki in vitro muszą odpowiadać zasadom bezpieczeństwa, uwzględniając aktualny stan wiedzy. Przy wyborze najodpowiedniejszych rozwiązań wytwórca stosuje zasady bezpieczeństwa w następującej kolejności:
@@ -341,6 +314,47 @@ OŚWIADCZENIE I PROCEDURY DOTYCZĄCE WYROBÓW DO OCENY DZIAŁANIA
 3. Wytwórca mający siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej zachowuje do dyspozycji Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych dokumentację umożliwiającą zrozumienie projektu, sposobu wytwarzania i działania wyrobu do oceny działania, w tym przewidywane parametry działania, oraz umożliwiającą ocenę zgodności z odnoszącymi się do niego wymaganiami.
 Wytwórca przechowuje tę dokumentację przez 5 lat od zakończenia oceny działania.
 Wytwórca podejmuje wszelkie niezbędne środki w procesie wytwarzania w celu zapewnienia, że wyroby do oceny działania są wytwarzane zgodnie z tą dokumentacją.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wymagania zasadnicze dla wyrobów medycznych do diagnostyki in vitro;
+- **2)** procedury oceny zgodności wyrobów medycznych do diagnostyki in vitro;
+- **3)** wykaz procedur oceny zgodności, które mogą być prowadzone przez autoryzowanego przedstawiciela;
+- **4)** wykaz A i wykaz B wyrobów medycznych do diagnostyki in vitro, o których mowa w art. 21 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, zwanej dalej „ustawą”.
+
+**§ 2.** Wymagania zasadnicze dla wyrobów medycznych do diagnostyki in vitro są określone w załączniku nr 1 do rozporządzenia.
+
+**§ 3.** Wykaz A i wykaz B wyrobów medycznych do diagnostyki in vitro są określone w załączniku nr 2 do rozporządzenia.
+
+**§ 4.** Wytwórca wyrobów medycznych do diagnostyki in vitro, innych niż wyroby medyczne do diagnostyki in vitro z wykazu A i z wykazu B, innych niż wyroby do samokontroli oraz innych niż wyroby do oceny działania, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury deklaracji zgodności WE, określonej w ust. 1–5 załącznika nr 3 do rozporządzenia i sporządza deklarację zgodności przed wprowadzeniem tych wyrobów do obrotu.
+
+**§ 5.** Wytwórca wyrobów medycznych do diagnostyki in vitro z wykazu A, innych niż wyroby do oceny działania, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury:
+
+- **1)** deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 4 do rozporządzenia, albo
+- **2)** badania typu WE, określonej w załączniku nr 5 do rozporządzenia, w połączeniu z procedurą dotyczącą deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 7 do rozporządzenia.
+
+**§ 6.** Wytwórca wyrobów medycznych do diagnostyki in vitro z wykazu B, innych niż wyroby do oceny działania, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury:
+
+- **1)** deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 4 do rozporządzenia, albo
+- **2)** badania typu WE, określonej w załączniku nr 5 do rozporządzenia, w połączeniu z procedurą:
+    - **a)** weryfikacji WE, określoną w załączniku nr 6 do rozporządzenia, albo
+    - **b)** deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 7 do rozporządzenia.
+
+**§ 7.** Wytwórca wyrobów do samokontroli, innych niż wyroby medyczne do diagnostyki in vitro z wykazu A i z wykazu B oraz innych niż wyroby do oceny działania, przed sporządzeniem deklaracji zgodności przeprowadza ocenę zgodności z zastosowaniem procedury:
+
+- **1)** deklaracji zgodności WE, określonej w załączniku nr 3 do rozporządzenia, albo
+- **2)** deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 4 do rozporządzenia, albo
+- **3)** badania typu WE, określonej w załączniku nr 5 do rozporządzenia, w połączeniu z procedurą:
+    - **a)** weryfikacji WE, określoną w załączniku nr 6 do rozporządzenia, albo
+    - **b)** deklaracji zgodności WE – zapewnienie jakości produkcji, określoną w załączniku nr 7 do rozporządzenia.
+
+**§ 8.** Wytwórca wyrobów do oceny działania przed przekazaniem ich do oceny działania przeprowadza ocenę zgodności i sporządza oświadczenie określone w załączniku nr 8 do rozporządzenia.
+
+**§ 9.** Autoryzowany przedstawiciel może przeprowadzić ocenę zgodności wyrobu medycznego do diagnostyki in vitro z zastosowaniem procedur określonych w załącznikach nr 3, 5, 6 i 8 do rozporządzenia.
+
+**§ 10.** Certyfikaty zgodności, wydane przez jednostki notyfikowane zgodnie z załącznikami nr 3–5 do rozporządzenia, są ważne nie dłużej niż przez okres 5 lat i mogą być przedłużane, na wniosek wytwórcy lub autoryzowanego przedstawiciela złożony w terminie uzgodnionym umową, na kolejne okresy, nie dłuższe niż 5 lat.
+
+**§ 11.** Rozporządzenie wchodzi w życie z dniem ogłoszenia . WYMAGANIA ZASADNICZE DLA WYROBÓW MEDYCZNYCH DO DIAGNOSTYKI IN VITRO
 
 ## CZĘŚĆ I.
 

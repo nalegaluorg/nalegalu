@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/322/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych szkołach i placówkach Na podstawie art. 22 ust. 2 pkt 11 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 kwietnia 2013 r. w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych szkołach i placówkach (Dz. U. poz. 532 oraz z 2017 r. poz. 1643) wprowadza się następujące zmiany:
-1) w § 2 pkt 2 otrzymuje brzmienie: „2) placówce – należy przez to rozumieć placówkę oświatowo-wychowawczą, placówkę kształcenia ustawicznego, centrum kształcenia zawodowego, młodzieżowy ośrodek wychowawczy, młodzieżowy ośrodek socjoterapii, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy, ośrodek rewalidacyjno-wychowawczy oraz placówkę zapewniającą opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania.”;
-2) w § 13b w ust. 8 wyrazy „kształcenia w zawodach” zastępuje się wyrazami „kształcenia w zawodzie szkolnictwa branżowego”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2019 r.
-Minister Edukacji Narodowej: wz. M. Machałek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 30 kwietnia 2013 r. w sprawie zasad udzielania i organizacji pomocy psychologiczno-pedagogicznej w publicznych szkołach i placówkach (Dz. U. poz. 532 oraz z 2017 r. poz. 1643) wprowadza się następujące zmiany:
+
+- **1)** w § 2 pkt 2 otrzymuje brzmienie: „2) placówce – należy przez to rozumieć placówkę oświatowo-wychowawczą, placówkę kształcenia ustawicznego, centrum kształcenia zawodowego, młodzieżowy ośrodek wychowawczy, młodzieżowy ośrodek socjoterapii, specjalny ośrodek szkolno-wychowawczy, specjalny ośrodek wychowawczy, ośrodek rewalidacyjno-wychowawczy oraz placówkę zapewniającą opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania.”;
+- **2)** w § 13b w ust. 8 wyrazy „kształcenia w zawodach” zastępuje się wyrazami „kształcenia w zawodzie szkolnictwa branżowego”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. Minister Edukacji Narodowej: wz. M. Machałek
 
